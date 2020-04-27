@@ -1,0 +1,27 @@
+{{ if eq .Section "recommandations" }}
+<script type="application/ld+json">
+  {
+      "@context" : "http://schema.org",
+      "@type" : "BlogPosting",
+      "mainEntityOfPage": {
+           "@type": "WebPage",
+           "@id": "{{ .Site.BaseURL }}"
+      },
+      "articleSection" : "{{ .Section | humanize }}",
+      "name" : "{{ .Title }}",
+      "headline" : "Les recommandations pour {{ htmlUnescape .Params.prefix  }}{{ .Title }} en {{ now.Format "2006"}}",
+      "description" : "{{ if .Description }}{{ .Description | safeJS }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
+      "inLanguage" : "{{ .Site.LanguageCode }}",
+      "author" : "{{with .Params.auteurs}}{{delimit . ", " }}{{ end }}",
+      "creator" : "{{with .Params.auteurs}}{{delimit . ", " }}{{ end }}",
+      "publisher": "{{ .Site.Params.Author }}",
+      "copyrightHolder" : "{{ .Site.Params.Author }}",
+      "copyrightYear" : "{{ .Date.Format "2006" }}",
+      "datePublished": "{{ .Date }}",
+      "dateModified" : "{{ .Lastmod }}",
+      "url" : "{{ .Permalink }}",
+      "wordCount" : "{{ .WordCount }}",
+      "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }} ]
+  }
+  </script>
+  {{ end }}

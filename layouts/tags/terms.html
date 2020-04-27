@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="w-100 min-vh-100">
+  <section class="container-md">
+    <div class="row">
+      <div class="col-12">
+        <h1 class="taxonomyTerms my-lg-5">{{ .Title }}</h1>
+
+        <nav aria-label="breadcrumb" class="mb-4">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Accueil</a></li>
+            <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+          </ol>
+        </nav>
+      </div>
+      <div class="col-12">
+      {{ range .Pages.ByTitle }}
+      <a class="chip chip-action" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ end }}
+    </div>
+    </div>
+  </section>
+</div>
+{{ end }}

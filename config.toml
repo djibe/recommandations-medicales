@@ -1,0 +1,76 @@
+baseURL = "http://example.org/"
+canonifyURLs = true
+copyright = "Tous droits réservés ©"
+DefaultContentLanguage = "fr"
+enableRobotsTXT = true
+languageCode = "fr-FR"
+summaryLength = 25
+title = "L'Univ médicale"
+
+[permalinks]
+  recommandations = "/recommandations/:filename/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  auteur = "auteurs"
+  guidelineyear = "guidelineyears"
+  source = "sources"
+
+[params]
+  author = "Jean-Baptiste FRON"
+  dateFormat = "02/01/2006"
+  description = "Site communautaire des recommandations en 1er recours en médecine générale"
+  github = "https://github.com/djibe/"
+  GitHubUser = "djibe"
+  SidebarRecentLimit = 5
+
+# todo
+[related.indices]
+  name = "categories"
+
+# search https://learn.netlify.app/en/basics/configuration/
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "JSON"]
+
+[outputFormats.RSS]
+  baseName = "rss"
+
+# Dependencies
+[params.cdn]
+  bs_css =      "css/material.min.css"
+  bs_css_hash = ""
+  css =         "css/style.css"
+  bs_js =       "https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.bundle.min.js"
+  bs_js_hash =  "sha256-OUFW7hFO0/r5aEGTQOz9F/aXQOt+TwqI1Z4fbVvww04="
+  jquery =      "https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.slim.min.js"
+  jquery_hash = "sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
+  md_font =     "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Comfortaa:wght@400;700&display=swap&family=Material+Icons"
+
+[params.dateformat]
+# HTML doc : https://developer.mozilla.org/fr/docs/Web/HTML/Element/time
+  #date = 2006-01-02
+  #datetime = "2006-01-02T15:04:05Z0700"  # html ISO 8601 datetimeformat
+
+[minify]
+  minifyOutput = false
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md
+
+[menu]
+  [[menu.main]]
+    name = "Accueil"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "recommandations"
+    name = "Recommandations"
+    url = "/recommandations/"
+    weight = 2
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 3

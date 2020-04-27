@@ -1,0 +1,40 @@
+{{ define "main" }}
+{{ $href := print (absURL "guidelineyears/") (urlize .) }}
+<div class="w-100 min-vh-100 bg-light">
+<div class="container-md">
+  <div class="row">
+    <div class="col-12">
+      <h1 class="taxonomyList my-lg-4">Les recommandations de <span class="text-primary">{{ .Title }}</span></h1>
+      <nav aria-label="breadcrumb" class="mb-4">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="/">Accueil</a></li>
+          <li class="breadcrumb-item"><a href="/guidelineyears/">Années</a></li>
+          <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+        </ol>
+      </nav>
+    </div>
+      {{ range (.Pages.ByTitle) }}
+          <div class="col-sm-4 d-flex">
+            <div class="card flex-fill">
+              <div class="card-body position-relative card-primary-action ">
+                <h3 class="card-title">{{ .Title }}</h3>
+                <p class="card-subtitle">
+                  {{ with .Params.auteurs}}
+                  {{ delimit . ", " }}{{ end }} le
+                  <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .Lastmod.Format "02 January" }}</time>
+                </p>
+                <a href="{{ .Permalink }}" class="stretched-link"></a>
+              </div>
+              <div class="card-actions mt-0 pb-2">
+                {{ partial "widgets/guidelineyear-render.html" . }}{{ partial "widgets/tags-render.html" . }}
+              </div>
+            </div>
+          </div>
+      {{ end }}
+        
+    </div>
+  </div>
+</div>
+</div>
+
+{{ end }}

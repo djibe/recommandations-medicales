@@ -1,0 +1,4 @@
+<h2 id="{{ .Get 0 | anchorize }}" data-toggle="collapse" onclick="$(this).next('div').collapse('toggle')">{{ .Get 0 }}</h2>
+<div class="collapse">
+  {{.Inner | safeHTML}}
+</div>

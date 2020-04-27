@@ -1,0 +1,32 @@
+{
+  "name": "Univ-medicale",
+  "version": "0.1.0",
+  "description": "Site communautaire des recommandations en 1er recours en médecine générale",
+  "main": "build/postcss.config.js",
+  "scripts": {
+    "lint:htmllint": "htmllint --rc build/.htmllintrc \"public/**/*.html\"",
+    "build": "hugo --minify"
+  },
+  "keywords": [
+    "hugo",
+    "open",
+    "source",
+    "site",
+    "recommandations",
+    "medecine",
+    "conduite",
+    "à",
+    "tenir",
+    "médecine",
+    "guidelines"
+  ],
+  "author": "Jean-Baptiste FRON",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.7.6",
+    "htmllint-cli": "0.0.7",
+    "postcss-cli": "^7.1.0",
+    "vnu-jar": "^20.3.16"
+  },
+  "dependencies": {}
+}

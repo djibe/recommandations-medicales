@@ -1,0 +1,7 @@
+{{ with .Params.guidelineyears }}
+
+  {{ $href := print (absURL "guidelineyears/") (urlize .) }}
+
+  <a class="chip chip-primary chip-xs" href="{{ $href }}">{{ . }}</a>
+
+{{ end }}

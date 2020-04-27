@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+<div class="container-md">
+  <div class="row">
+    <div class="col-12">
+      <h1 class="taxonomyTerms">Les recommandations par <span class="text-primary">année</span></h1>
+
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="/">Accueil</a></li>
+          <li class="breadcrumb-item active" aria-current="page">Années</li>
+        </ol>
+      </nav>
+    </div>
+    <div class="col-10 col-lg-5 offset-lg-1">
+      <div class="list-group">
+        {{ range $items := (.Pages.ByTitle).Reverse }}
+
+        <a class="list-group-item list-group-item-action" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ end }}
+      </div>
+    </div>
+
+  </div>
+  {{ end }}

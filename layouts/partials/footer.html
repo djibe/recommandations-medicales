@@ -1,0 +1,45 @@
+<script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin="anonymous"></script>
+<script src="{{ .Site.Params.cdn.bs_js }}"  {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin="anonymous"  rel="stylesheet"></script>
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script>
+  $(function () {
+
+    $('.breadcrumb-item:last-of-type').addClass('active').find('a').each(function(){
+      let linkText = $(this).text();
+      $(this).before(linkText);
+      $(this).remove();
+    });
+    
+    $('[data-toggle="tooltip"]').tooltip({html: true});
+    $('[data-toggle="popover"]').popover({html: true});
+    $('.popover-hover').popover({html: true, trigger: 'hover', placement: 'bottom', container: 'body', delay: {show: 500}});
+
+    $('.recommandation__content p, .recommandation__content li').addClass('typography-body-1');
+
+    $('.recommandation__content .collapse:last-of-type a').prop('target', '_blank').prop('rel', 'nofollow');
+  });
+</script>
+<script>
+  var documents = [{
+  "name": "Lunr",
+  "text": "Like Solr, but much smaller, and not as bright."
+}, {
+  "name": "React",
+  "text": "A JavaScript library for building user interfaces."
+}, {
+  "name": "Lodash",
+  "text": "A modern JavaScript utility library delivering modularity, performance & extras."
+}];
+
+var idx = lunr(function () {
+  this.ref('name')
+  this.field('text')
+
+  documents.forEach(function (doc) {
+    this.add(doc)
+  }, this)
+});
+
+idx.search("bright");
+
+</script>

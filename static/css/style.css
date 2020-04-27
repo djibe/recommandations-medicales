@@ -1,0 +1,173 @@
+html,
+body,
+main,
+[class*="container"] {
+  min-height: 100%;
+}
+
+main h1,
+main h2 {
+  font-family: "Comfortaa", "Roboto", sans-serif;
+}
+
+.taxonomyList::first-letter {
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 3.75rem;
+  font-weight: 300;
+  letter-spacing: normal;
+  line-height: 3.75rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 2rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  letter-spacing: .0125em;
+  line-height: 2rem;
+}
+
+.typography-body-1 {
+  color: #424242;
+  letter-spacing: normal;
+}
+
+@media (max-width: 575.98px) {
+  .typography-body-1 {
+    font-size: .875rem;
+  }
+}
+
+.recommandation__content {
+  margin-bottom: 5rem;
+}
+
+.recommandation__content h2 {
+  border-top: 1px solid rgba(0, 0, 0, .12);
+  margin: 0;
+  padding: 1.5rem 0;
+}
+
+.recommandation__content h2:first-of-type {
+  border-top: 0;
+}
+
+.recommandation__content ul {
+  margin-bottom: 1rem;
+  padding-left: 1.25rem;
+}
+
+.recommandation__content li {
+  color: #424242;
+}
+
+.recommandation__content li>ul {
+  margin-top: .5rem;
+}
+
+a:hover {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+#sources + .collapse > ul > li {
+  font-size: 14px;
+}
+
+.text-404 {
+  color: #fff;
+  font-family: Roboto, sans-serif;
+  font-size: 16rem;
+  font-weight: 700;
+  line-height: 1;
+  margin: 5rem 0;
+  text-shadow: 10px 10px 20px #F5F5F5, -10px -10px 20px #F5F5F5;
+}
+
+
+.navbar {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.navdrawer {
+  box-shadow: 0 8px 10px 1px rgba(0, 0, 0, .14), 0 3px 14px 2px rgba(0, 0, 0, .12), 0 5px 5px -3px rgba(0, 0, 0, .2) !important;
+  z-index: 60;
+}
+
+.navdrawer-header {
+  background: transparent;
+  border-bottom: 0;
+}
+
+
+@media (min-width: 992px) {
+  .navbar {
+    border-bottom: 0;
+    margin-left: 16rem;
+  }
+
+  .navdrawer-permanent-lg~main {
+    margin-left: 16rem;
+  }
+}
+
+@media screen and (max-width: 759px) {
+  h1 {
+    font-size: 32px;
+    padding: 0;
+  }
+
+  h2 {
+    font-size: 18px;
+  }
+
+  .recommandation__content h2 {
+    padding: 0;
+  }
+
+  p,
+  li,
+  .typography-body-1 {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  main {
+    margin-top: 56px;
+  }
+}
+
+#recommandation-aside {
+  background-color: #f5f5f5;
+}
+
+#recommandation-aside img {}
+
+.card {
+  border-radius: 16px;
+  margin-bottom: .5rem;
+}
+
+.card-title {
+  font-family: Comfortaa;
+  font-weight: 700;
+}
+
+.navdrawer .nav-item.nav-link {}
+
+.navdrawer .nav-item.nav-link.active {}

@@ -1,0 +1,47 @@
+{{ define "main" }}
+<div class="w-100 min-vh-100 bg-light">
+  <div class="container-md">
+    <div class="row">
+      <div class="col-12">
+        <h1 class="taxonomyList my-lg-5">{{ .Title }}</h1>
+        <h2 class="text-danger">_Default list</h2>
+
+        <!-- TODO: Functional ? -->
+        {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+        {{ $.Scratch.Add "path" .Site.BaseURL }}
+        <nav aria-label="breadcrumb" class="mb-4">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Accueil</a></li>
+            {{ range $index, $element := split $url "/" }}
+              {{ $.Scratch.Add "path" $element }}
+                {{ if ne $element "" }}
+                  <li class="breadcrumb-item text-capitalize"><a href="{{ $.Scratch.Get "path" }}">{{ . }}</a></li>
+                {{ $.Scratch.Add "path" "/" }}
+              {{ end }}
+            {{ end }}
+          </ol>
+        </nav>
+      </div>
+      {{ range .Pages.ByTitle }}
+      <div class="col-md-4">
+        <div class="card mb-2">
+          <div class="card-body position-relative card-primary-action ">
+            <h2 class="card-title">{{ .Title }}</h2>
+            <h3 class="card-subtitle text-black-secondary pb-0">{{ with .Params.categories}}{{ delimit . ", " }}{{end}}
+              <br>
+              {{ partial "widgets/date-short.html" . }}</h3>
+            <a class="stretched-link" href="{{ .RelPermalink }}"></a>
+          </div>
+          <div class="card-actions mt-0 pb-2">
+            {{ partial "widgets/guidelineyear-render.html" . }}
+            {{ partial "widgets/tags-render.html" . }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+
+
+    </div>
+  </div>
+</div>
+{{ end }}
