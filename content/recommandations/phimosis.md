@@ -9,9 +9,9 @@ publishdate = "2020-04-27"
 lastmod = "2016-08-10"
 draft = true
 categories = ["endocrinologie"]
-guidelineyears = 2000
+guidelineyears = "2000"
 source-recommandations = []
-tags = ["tag 1"]
+tags = []
 +++
 
 {{%article-summary%}}

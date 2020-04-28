@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 canonifyURLs = true
 copyright = "Tous droits réservés ©"
 DefaultContentLanguage = "fr"
+enableInlineShortcodes = true
 enableRobotsTXT = true
 languageCode = "fr-FR"
 summaryLength = 25
