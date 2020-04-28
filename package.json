@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/djibe/recommandations-medicales/issues"
   },
-  "homepage": "https://djibe.github.io/material/",
+  "homepage": "https://recommandations-medicales.netlify.app",
   "devDependencies": {
     "autoprefixer": "^9.7.6",
     "htmllint-cli": "0.0.7",
