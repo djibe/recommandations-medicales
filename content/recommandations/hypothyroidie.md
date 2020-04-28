@@ -30,7 +30,7 @@ Pas de dépistage systématique de l’hypothyroïdie en population générale.
 
 On distingue :
 
-- L'[**hypothyroïdie fruste**]({{< ref "hirsutisme.md" >}})  (ou infraclinique) : **TSH élevée de façon isolée**
+- L'**hypothyroïdie fruste**  (ou infraclinique) : **TSH élevée de façon isolée**
 - de l'hypothyroïdie patente : **TSH élevée et T4L diminuée**.
 
 ### Épidémiologie

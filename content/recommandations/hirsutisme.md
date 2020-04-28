@@ -11,7 +11,7 @@ categories = ["endocrinologie"]
 guidelineyears = "2000"
 sources = ["Prescrire"]
 tags = ["hirsutisme"]
-draft = false
+draft = true
 +++
 
 ## En bref

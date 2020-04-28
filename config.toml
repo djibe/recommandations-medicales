@@ -47,7 +47,7 @@ title = "L'Univ médicale"
   bs_js_hash =  "sha256-OUFW7hFO0/r5aEGTQOz9F/aXQOt+TwqI1Z4fbVvww04="
   jquery =      "https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.slim.min.js"
   jquery_hash = "sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
-  md_font =     "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Comfortaa:wght@400;700&display=swap&family=Material+Icons"
+  md_font =     "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Comfortaa:wght@400;700&display=swap&family=Material+Icons+Outlined"
 
 [params.dateformat]
 # HTML doc : https://developer.mozilla.org/fr/docs/Web/HTML/Element/time

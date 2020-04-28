@@ -125,7 +125,7 @@ a:hover {
   }
 }
 
-@media screen and (max-width: 759px) {
+@media screen and (max-width: 767.98px) {
   h1 {
     font-size: 32px;
     padding: 0;
@@ -146,7 +146,7 @@ a:hover {
   }
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1199.98px) {
   main {
     margin-top: 56px;
   }
@@ -171,3 +171,17 @@ a:hover {
 .navdrawer .nav-item.nav-link {}
 
 .navdrawer .nav-item.nav-link.active {}
+
+.fab-actions {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  z-index: 100;
+}
+
+.fab-actions > .btn {
+  margin-top: 20px;
+}

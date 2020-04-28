@@ -1,45 +1,108 @@
-<script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin="anonymous"></script>
-<script src="{{ .Site.Params.cdn.bs_js }}"  {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin="anonymous"  rel="stylesheet" defer></script>
-<script src="https://cdn.jsdelivr.net/npm/lunr@2.3.8/lunr.min.js" integrity="sha256-34Si1Y6llMBKM3G0jQILVeoQKEwuxjbk4zGWXXMT4ps=" crossorigin="anonymous" defer></script>
-<script>
-  $(function () {
+<div class="fab-actions">
+  <button class="d-none d-lg-flex btn btn-primary btn-float btn-float-extended" type="button" data-toggle="modal"
+    data-target="#modal-contact">
+    <span class="material-icons">message</span>Commenter</button>
+  <button class="d-lg-none btn btn-primary btn-float" type="button" data-toggle="modal" data-target="#modal-contact">
+    <span class="material-icons">message</span></button>
+</div>
 
-    $('.breadcrumb-item:last-of-type').addClass('active').find('a').each(function(){
+<!-- Modal -->
+<div class="modal fade" id="modal-contact" tabindex="-1" role="dialog" aria-labelledby="modal-contact-title"
+  aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="modal-contact-title">Commentaires</h5>
+      </div>
+      <form name="contact" method="post" netlify>
+      <div class="modal-body">
+        Une suggestion, une remarque ou une critique ? Dites-le.
+          <div class="form-group mt-4">
+            <div class="input-group">
+              <input class="form-control" placeholder="Mon adresse email" type="email" name="email" autocomplete="email" required>
+              <span class="input-group-icon">
+                <i class="material-icons">mail</i>
+              </span>
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="input-group">
+              <textarea class="form-control" placeholder="Commentaires et remarques" rows="5" name="comment" autocomplete="false" required></textarea>
+              <span class="input-group-icon">
+                <i class="material-icons">create</i>
+              </span>
+            </div>
+          </div>
+        
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Annuler</button>
+        <button type="submit" class="btn btn-primary">Envoyer</button>
+      </div>
+    </form>
+    </div>
+  </div>
+</div>
+
+<script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }}
+  crossorigin="anonymous"></script>
+<script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }}
+  crossorigin="anonymous" rel="stylesheet" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/lunr@2.3.8/lunr.min.js"
+  integrity="sha256-34Si1Y6llMBKM3G0jQILVeoQKEwuxjbk4zGWXXMT4ps=" crossorigin="anonymous" defer></script>
+<script>
+  $(function() {
+
+    $('.breadcrumb-item:last-of-type').addClass('active').find('a').each(function() {
       let linkText = $(this).text();
       $(this).before(linkText);
       $(this).remove();
     });
-    
-    $('[data-toggle="tooltip"]').tooltip({html: true});
-    $('[data-toggle="popover"]').popover({html: true});
-    $('.popover-hover').popover({html: true, trigger: 'hover', placement: 'bottom', container: 'body', delay: {show: 500}});
+
+    $('[data-toggle="tooltip"]').tooltip({
+      html: true
+    });
+    $('[data-toggle="popover"]').popover({
+      html: true
+    });
+    $('.popover-hover').popover({
+      html: true,
+      trigger: 'hover',
+      placement: 'bottom',
+      container: 'body',
+      delay: {
+        show: 500
+      }
+    });
 
     $('.recommandation__content p, .recommandation__content li').addClass('typography-body-1');
 
-    $('.recommandation__content .collapse:last-of-type a').prop('target', '_blank').prop('rel', 'nofollow noopener');
+    $('.recommandation__content .collapse:last-of-type a').prop('target', '_blank').prop('rel',
+      'nofollow noopener');
   });
+
 </script>
 <script>
   var documents = [{
-  "name": "Lunr",
-  "text": "Like Solr, but much smaller, and not as bright."
-}, {
-  "name": "React",
-  "text": "A JavaScript library for building user interfaces."
-}, {
-  "name": "Lodash",
-  "text": "A modern JavaScript utility library delivering modularity, performance & extras."
-}];
+    "name": "Lunr",
+    "text": "Like Solr, but much smaller, and not as bright."
+  }, {
+    "name": "React",
+    "text": "A JavaScript library for building user interfaces."
+  }, {
+    "name": "Lodash",
+    "text": "A modern JavaScript utility library delivering modularity, performance & extras."
+  }];
 
-var idx = lunr(function () {
-  this.ref('name')
-  this.field('text')
+  var idx = lunr(function() {
+    this.ref('name')
+    this.field('text')
 
-  documents.forEach(function (doc) {
-    this.add(doc)
-  }, this)
-});
+    documents.forEach(function(doc) {
+      this.add(doc)
+    }, this)
+  });
 
-idx.search("bright");
+  idx.search("bright");
 
 </script>
