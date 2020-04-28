@@ -1,6 +1,6 @@
 <script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin="anonymous"></script>
-<script src="{{ .Site.Params.cdn.bs_js }}"  {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin="anonymous"  rel="stylesheet"></script>
-<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script src="{{ .Site.Params.cdn.bs_js }}"  {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin="anonymous"  rel="stylesheet" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/lunr@2.3.8/lunr.min.js" integrity="sha256-34Si1Y6llMBKM3G0jQILVeoQKEwuxjbk4zGWXXMT4ps=" crossorigin="anonymous" defer></script>
 <script>
   $(function () {
 
@@ -16,7 +16,7 @@
 
     $('.recommandation__content p, .recommandation__content li').addClass('typography-body-1');
 
-    $('.recommandation__content .collapse:last-of-type a').prop('target', '_blank').prop('rel', 'nofollow');
+    $('.recommandation__content .collapse:last-of-type a').prop('target', '_blank').prop('rel', 'nofollow noopener');
   });
 </script>
 <script>

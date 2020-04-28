@@ -10,7 +10,7 @@
       <form class="form-group bg-white p-2 rounded">
         <div class="input-group">
           <input aria-describedby="exampleIconInput2Help" aria-label="Default icon signifier example input"
-            class="form-control" id="exampleIconInput2" placeholder="Default" type="text" />
+            class="form-control" id="exampleIconInput2" placeholder="Default" type="text" disabled>
           <span class="input-group-icon" id="exampleIconInput2Help">
             <i class="material-icons">search</i>
           </span>
@@ -24,7 +24,7 @@
       <p class="typography-overline">Les dernières mises à jour</p>
     </div>
     {{ range ( where site.RegularPages "Section" "recommandations" | first 6 ) }}
-    <div class="col-12 col-sm-6 col-xl-4 d-flex">
+    <div class="col-12 col-sm-6 col-xl-4 d-flex pb-5">
       <div class="card shadow-none border flex-fill">
         <div class="card-body position-relative card-primary-action ">
           <h3 class="card-title">{{ .Title }}</h3>
