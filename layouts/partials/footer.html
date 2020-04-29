@@ -27,7 +27,7 @@
           </div>
           <div class="form-group">
             <div class="input-group">
-              <textarea class="form-control" placeholder="Commentaires et remarques" rows="5" name="comment" autocomplete="false" required></textarea>
+              <textarea class="form-control" placeholder="Commentaires et remarques" rows="5" name="message" autocomplete="false" required></textarea>
               <span class="input-group-icon">
                 <i class="material-icons">create</i>
               </span>
@@ -60,7 +60,9 @@
     });
 
     $('[data-toggle="tooltip"]').tooltip({
-      html: true
+      container: 'body',
+      html: true,
+      placement: 'bottom'
     });
     $('[data-toggle="popover"]').popover({
       html: true

@@ -48,7 +48,7 @@ h4 {
 
 @media (max-width: 575.98px) {
   .typography-body-1 {
-    font-size: .875rem;
+    font-size: inherit;
   }
 }
 
@@ -64,6 +64,10 @@ h4 {
 
 .recommandation__content h2:first-of-type {
   border-top: 0;
+}
+
+.recommandation__content h3 {
+
 }
 
 .recommandation__content ul {
@@ -85,7 +89,7 @@ a:hover {
 }
 
 #sources + .collapse > ul > li {
-  font-size: 14px;
+  font-size: inherit;
 }
 
 .text-404 {

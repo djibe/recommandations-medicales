@@ -1,12 +1,12 @@
 {{ define "main" }}
 <div class="container-fluid recommandation">
   <div class="row min-vh-100">
-    <aside class="col-lg-3 col-xl-2 order-3 order-lg-1 d-flex flex-column px-0" id="recommandation-aside">
+    <aside class="col-lg-3 col-xl-2 order-3 order-lg-1 d-flex flex-column px-0 d-print-none" id="recommandation-aside">
       <img class="img-fluid"
         src="https://via.placeholder.com/640x360"
         alt="Images de {{ .Title }}">
 
-      <div class="px-3 px-xl-5">
+      <div class="px-3">
         {{ with .Params.Categories }}
         <p class="typography-overline text-black-secondary mb-0">Système</p>
         <p class="font-weight-bold text-capitalize">{{ delimit . ", " }}</p>{{ end }}
@@ -28,7 +28,7 @@
 
         <p class="typography-overline text-black-secondary mt-4 mb-0">De la même spécialité</p>
         {{ range first 10 ( where .Site.RegularPages "Section" "recommandations") }}
-        <p>
+        <p class="typography-body-2">
           <a href="{{ .Permalink }}">{{ .Title }} <span class="text-muted ml-2">{{ .Lastmod.Format "2 Jan"}}</span></a>
         </p>
         {{ end }}
@@ -44,24 +44,24 @@
             <h2 class="typography-headline-5 text-black-secondary">{{ delimit . ", " }}</h2>
             {{ end }}
 
+            <div class="d-flex align-items-center">
             {{ with .Params.guidelineyears }}
             {{ $href := print (absURL "guidelineyears/") (urlize .) }}
             <a class="chip chip-primary chip-action" href="{{ $href }}" data-toggle="tooltip" title="Toutes les recos {{ . }}" data-placement="bottom">Reco {{ . }}</a>
             {{ end }}
 
-            {{ with .Lastmod }}
-
-            
-            <span class="chip chip-secondary">Mise à jour {{ if eq .Year now.Year }}{{ .Format "2 Jan" }}{{ else }}{{ .Format "2 Jan 2006" }}{{ end }}</span>
+            {{ with .Lastmod }}        
+              <span class="chip chip-secondary">Mise à jour {{ if eq .Year now.Year }}{{ .Format "2 Jan" }}{{ else }}{{ .Format "2 Jan 2006" }}{{ end }}</span>
             {{ end }}
 
             {{- range .Params.auteurs }}
-            {{- with $.Site.GetPage "taxonomyTerm" (printf "auteurs/%s" (urlize .)) }}
+              {{- with $.Site.GetPage "taxonomyTerm" (printf "auteurs/%s" (urlize .)) }}
+              <a class="text-primary" tabindex="0" data-toggle="popover" data-trigger="focus" title="{{ .Params.name }}" data-content="<a href='{{ .Permalink }}'>Toutes ses publications</a>">{{ .Params.name }}</a>
+              {{ end }}
+            {{ end }}
 
-            <a class="text-primary" tabindex="0" data-toggle="popover" data-trigger="focus" title="{{ .Params.name }}"
-              data-content="<a href='{{ .Permalink }}'>Toutes ses publications</a>">{{ .Params.name }}</a>
-            {{ end }}
-            {{ end }}
+              <button class="ml-auto btn btn-icon text-black-secondary d-print-none" type="button" onclick="javascript:window.print()" data-toggle="tooltip" title="Imprimer la reco"><i class="material-icons">print</i></button>
+            </div>
 
             <div class="mt-4 recommandation__content">
               {{ .Content }}

@@ -1,0 +1,12 @@
+{{ $htmlTable := .Inner | markdownify }}
+{{ $class := .Get 0 }}
+{{ $old := "<table>" }}
+{{ $new := printf "<table class=\"%s\">" $class }}
+{{ $htmlTable := replace $htmlTable $old $new }}
+{{ $htmlTable := replaceRE "align=\"([a-z]+)\"" "style=\"text-align: $1\"" $htmlTable}}
+
+<div class="data-table">
+  {{ $htmlTable | safeHTML }}
+</div>
+
+<!-- Inspired by https://zwbetz.com/style-a-markdown-table-with-bootstrap-classes-in-hugo/ -->

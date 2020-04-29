@@ -23,7 +23,7 @@ tags = ["insuffisance renale", "risque cardiovasculaire", "HTA", "diabete"]
 À compléter
 {{%/article-summary%}}
 
-{{%collapse "Définition" %}}
+{{%collapse "Définition"%}}
 
 **Maladie rénale chronique (MRC)**  
 - Présence d'une **insuffisance rénale chronique**  
@@ -84,14 +84,16 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 
 ### Évaluer le stade la maladie rénale chronique
 
+{{%table "table" %}}
 | Stade | DFG (CDK-EPI) | Définition |
-|-------|---------------|------------|
+|:-----:|:-------------:|------------|
 | 1     | &gt; 90       | MRC avec DFG normal ou augmenté |
 | 2     | 60-89         | MRC avec DFG légèrement diminué |
 | 3A    | 45-59         | IRC modérée |
 | 3B    | 30-44         | IRC modérée |
 | 4     | 15-29         | IRC sévère  |
 | 5     | < 15          | IRC terminale |
+{{% /table %}}
 
 ### Examen clinique
 
