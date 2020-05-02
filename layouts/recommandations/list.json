@@ -1,10 +1,10 @@
 [
-  {{ range $index, $value := where site.RegularPages "Section" "recommandations" }}
+{{- range $index, $value := where site.RegularPages "Section" "recommandations" -}}
   {{ if $index }}, {{ end }}
   {
-      "url": "{{ .RelPermalink }}",
-      "title": "{{ .Title }}",
-      "content": {{ .Content | plainify | jsonify }}
+    "url": "{{ .RelPermalink }}",
+    "title": "{{ .Title }}",
+    "content": {{ .Content | plainify | jsonify }}
   }
-  {{ end }}
+{{- end -}}
 ]

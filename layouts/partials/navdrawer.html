@@ -13,7 +13,7 @@
                <span class="ml-2">({{ len $pageOfCategory }})</span></a>
             <div class="collapse pb-2" id="navdrawer-{{$category | urlize | lower}}">
                {{ range $pageOfCategory.Pages }}
-               <a class="nav-item nav-link text-black-secondary" href="{{ .Permalink }}">
+               <a class="nav-item nav-link text-black-secondary my-0" href="{{ .Permalink }}">
                   <span class="font-weight-normal">{{ .Title }}</span></a>
                {{ end }}
             </div>
@@ -25,11 +25,9 @@
          <div class="mt-auto">
             <div class="navdrawer-divider"></div>
             <div class="navdrawer-nav">
-               <a class="nav-item nav-link text-black-secondary" href="https://github.com/djibe/material"
-                  target="_blank" rel="noopener noreferrer"><i class="material-icons mr-3">code</i>Fork me on
+               <a class="nav-item nav-link text-black-secondary" href="https://github.com/djibe/recommandations-medicales"
+                  target="_blank" rel="noopener noreferrer"><i class="material-icons mr-3">code</i>Code source sur
                   GitHub</a>
-               <a class="nav-item nav-link text-black-secondary" href="http://www.daemon.com.au/" target="_blank"
-                  rel="noopener noreferrer"><i class="material-icons mr-3 text-danger">favorite</i>Made by Daemon</a>
             </div>
          </div>
       </div>

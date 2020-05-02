@@ -14,15 +14,13 @@ source-recommandations = ["HAS"]
 tags = ["insuffisance renale", "risque cardiovasculaire", "HTA", "diabete"]
 +++
 
-{{%article-summary%}}
+{{% article-summary %}}
 
 - Dépistage annuel des populations à risque par créatininémie + albuminurie sur échantillon
 - Le diagnostic est biologique
 - Néphroprotection : IEC, contrôle strict des facteurs de risque cardiovasculaires
 
-À compléter
 {{%/article-summary%}}
-
 {{%collapse "Définition"%}}
 
 **Maladie rénale chronique (MRC)**  
@@ -69,7 +67,6 @@ En cas d'anomalie (hématurie, protéinurie, clairance < 60), le bilan doit êtr
 Le recours au néphrologue est recommandé en cas de doute sur la nature de la maladie rénale.
 
 {{%/collapse%}}
-
 {{%collapse "Clinique" %}}
 
 ### Interrogatoire
@@ -180,3 +177,18 @@ Connaître les signes et symptômes de la MRC et savoir qui prévenir
 {{%collapse "Sources" %}}
 - [HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012](
 www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
+{{%/collapse%}}
+
+{{< mermaid >}}
+graph TB
+1[Personne à risque] --> 2[Bilan annuel]
+2 --> 3N[Normal]
+  3N --> 2
+2 --> 3A[Anormal]
+3A --> 4[Contrôle à 3 mois]
+4 --> 5N[Normal]
+  5N --> 2
+4 --> 5A[Anormal]
+5A --> 6[Bilan initial de la MRC + Stade <br> Néphroprotection maximale]
+6 --> 7[Avis néphro]
+{{</mermaid>}}
