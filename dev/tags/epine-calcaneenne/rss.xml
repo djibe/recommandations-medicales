@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>epine calcaneenne on L&#39;Univ médicale</title>
+    <link>http://localhost:1313/tags/epine-calcaneenne/</link>
+    <description>Recent content in epine calcaneenne on L&#39;Univ médicale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Tous droits réservés ©</copyright>
+    <lastBuildDate>Tue, 02 Jun 2020 15:14:20 +0200</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/epine-calcaneenne/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enthésopathie calcanéenne</title>
+      <link>http://localhost:1313/recommandations/enthesopathie-calcanenne/</link>
+      <pubDate>Tue, 02 Jun 2020 15:14:20 +0200</pubDate>
+      
+      <guid>http://localhost:1313/recommandations/enthesopathie-calcanenne/</guid>
+      <description>Diagnostics différentiels Tendinopathie plantaire, talonnade, fracture de fatigue du calcaneus, bursite sous-calcanéenne, calcanéite inflammatoire ou métabolique, neuropathie du nerf calcanéen, sciatique tronquée, tumeur, varice plantaire.</description>
+    </item>
+    
+  </channel>
+</rss>

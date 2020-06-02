@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hirsutisme on L&#39;Univ médicale</title>
+    <link>http://localhost:1313/tags/hirsutisme/</link>
+    <description>Recent content in hirsutisme on L&#39;Univ médicale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Tous droits réservés ©</copyright>
+    <lastBuildDate>Wed, 15 Apr 2020 00:43:56 +0200</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/hirsutisme/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hirsutisme</title>
+      <link>http://localhost:1313/recommandations/hirsutisme/</link>
+      <pubDate>Wed, 15 Apr 2020 00:43:56 +0200</pubDate>
+      
+      <guid>http://localhost:1313/recommandations/hirsutisme/</guid>
+      <description>En bref A RECOPIER
+Définition Excès de poils longs, drus et pigmentés, présents chez les femmes sur des zones habituelles aux hommes.
+Clinique Interrogatoire Cause médicamenteuse</description>
+    </item>
+    
+  </channel>
+</rss>

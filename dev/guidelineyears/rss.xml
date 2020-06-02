@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guidelineyears on L&#39;Univ médicale</title>
+    <link>http://localhost:1313/guidelineyears/</link>
+    <description>Recent content in Guidelineyears on L&#39;Univ médicale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Tous droits réservés ©</copyright>
+    <lastBuildDate>Tue, 02 Jun 2020 15:14:20 +0200</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/guidelineyears/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2000</title>
+      <link>http://localhost:1313/guidelineyears/2000/</link>
+      <pubDate>Tue, 02 Jun 2020 15:14:20 +0200</pubDate>
+      
+      <guid>http://localhost:1313/guidelineyears/2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2020</title>
+      <link>http://localhost:1313/guidelineyears/2020/</link>
+      <pubDate>Tue, 02 Jun 2020 11:57:29 +0200</pubDate>
+      
+      <guid>http://localhost:1313/guidelineyears/2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2019</title>
+      <link>http://localhost:1313/guidelineyears/2019/</link>
+      <pubDate>Tue, 05 May 2020 12:48:09 +0200</pubDate>
+      
+      <guid>http://localhost:1313/guidelineyears/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2012</title>
+      <link>http://localhost:1313/guidelineyears/2012/</link>
+      <pubDate>Mon, 27 Apr 2020 13:31:56 +0200</pubDate>
+      
+      <guid>http://localhost:1313/guidelineyears/2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

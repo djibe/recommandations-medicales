@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on L&#39;Univ médicale</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on L&#39;Univ médicale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Tous droits réservés ©</copyright>
+    <lastBuildDate>Tue, 02 Jun 2020 15:14:20 +0200</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>rhumatologie</title>
+      <link>http://localhost:1313/categories/rhumatologie/</link>
+      <pubDate>Tue, 02 Jun 2020 15:14:20 +0200</pubDate>
+      
+      <guid>http://localhost:1313/categories/rhumatologie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pediatrie</title>
+      <link>http://localhost:1313/categories/pediatrie/</link>
+      <pubDate>Tue, 02 Jun 2020 11:57:29 +0200</pubDate>
+      
+      <guid>http://localhost:1313/categories/pediatrie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>urologie</title>
+      <link>http://localhost:1313/categories/urologie/</link>
+      <pubDate>Tue, 05 May 2020 12:48:09 +0200</pubDate>
+      
+      <guid>http://localhost:1313/categories/urologie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>endocrinologie</title>
+      <link>http://localhost:1313/categories/endocrinologie/</link>
+      <pubDate>Mon, 27 Apr 2020 17:35:35 +0200</pubDate>
+      
+      <guid>http://localhost:1313/categories/endocrinologie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nephrologie</title>
+      <link>http://localhost:1313/categories/nephrologie/</link>
+      <pubDate>Mon, 27 Apr 2020 13:31:56 +0200</pubDate>
+      
+      <guid>http://localhost:1313/categories/nephrologie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hepato-gastro-enterologie</title>
+      <link>http://localhost:1313/categories/hepato-gastro-enterologie/</link>
+      <pubDate>Thu, 16 Apr 2020 12:31:11 +0200</pubDate>
+      
+      <guid>http://localhost:1313/categories/hepato-gastro-enterologie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diabete on L&#39;Univ médicale</title>
+    <link>http://localhost:1313/tags/diabete/</link>
+    <description>Recent content in diabete on L&#39;Univ médicale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Tous droits réservés ©</copyright>
+    <lastBuildDate>Mon, 27 Apr 2020 17:23:12 +0200</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/diabete/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diabète de type 2</title>
+      <link>http://localhost:1313/recommandations/diabete-type-2/</link>
+      <pubDate>Mon, 27 Apr 2020 17:23:12 +0200</pubDate>
+      
+      <guid>http://localhost:1313/recommandations/diabete-type-2/</guid>
+      <description>Résumé des recommandations  Le suivi du diabète de type 2 doit être rigoureux et multidimensionnel, utiliser cet assistant du suivi adapté : Diabeclic - Suivi du diabète   L&amp;rsquo;intégralité du suivi préconisé pour la personne vivant avec un diabète de type 2 est visualisable sur Diabeclic - Suivi du diabète, sous forme d&amp;rsquo;un tableau de soins adapté au patient (avec bibliographie et imprimable).</description>
+    </item>
+    
+    <item>
+      <title>Insuffisance Rénale Chronique</title>
+      <link>http://localhost:1313/recommandations/insuffisance-renale-chronique/</link>
+      <pubDate>Mon, 27 Apr 2020 13:31:56 +0200</pubDate>
+      
+      <guid>http://localhost:1313/recommandations/insuffisance-renale-chronique/</guid>
+      <description>Résumé des recommandations  Dépistage annuel des populations à risque par créatininémie + albuminurie sur échantillon Le diagnostic est biologique Néphroprotection : IEC, contrôle strict des facteurs de risque cardiovasculaires   Définition Maladie rénale chronique (MRC)  Présence d&amp;rsquo;une insuffisance rénale chronique</description>
+    </item>
+    
+  </channel>
+</rss>
