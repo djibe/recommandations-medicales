@@ -1,5 +1,4 @@
-/dev
-/node_modules
-/public
-UnivMedicale.xd
-
+dev/
+node_modules/
+public/
+*.xd
