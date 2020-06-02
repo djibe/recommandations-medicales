@@ -1,8 +1,0 @@
-<svg class="logo" width="115" height="47" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(-5 -5)" fill="none" fill-rule="evenodd">
-    <rect fill="#D8D8D8" transform="rotate(45 28.5 28.5)" x="9" y="9" width="39" height="39" rx="11" />
-    <text font-family="Rubik-Medium, Rubik" font-size="25" font-weight="400" fill="#6F6F6F">
-      <tspan x="63.923" y="36.923">U</tspan>
-    </text>
-  </g>
-</svg>
