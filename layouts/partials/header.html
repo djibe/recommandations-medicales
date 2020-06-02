@@ -6,16 +6,24 @@
   <meta name="keywords" content="{{with .Params.tags}}{{delimit . "," }}{{ end }}">
   <meta name="author" content="{{with .Params.auteurs}}{{delimit . "," }}{{ end }}">
   {{ hugo.Generator }}
-  <title>{{ if .IsPage }}Recommandations pour {{.Params.prefix}}{{ end }}{{ humanize .Title }} - {{ .Site.Title }}</title>
+  <title>{{ if .IsPage }}Recommandations pour {{.Params.prefix}}{{ end }}{{ humanize .Title | truncate 60 }} - {{ .Site.Title }}</title>
 
   <link rel="preconnect" href="https://fonts.googleapis.com/">
+  <link rel="preconnect" href="https://fonts.gstatic.com/">
   <link rel="preconnect" href="https://cdn.jsdelivr.net/">
 
   <link rel="alternate" href="{{ .Site.RSSLink }}" type="application/rss+xml" title="{{ .Site.Title }}">
-  <link rel="icon" href="{{ .Site.BaseURL }}/favicon.ico">
+  <link rel="icon" href="{{ .Site.BaseURL }}favicon.ico">
+
   <!-- CSS -->
-  <link rel="stylesheet" {{ printf "href=%q" .Site.Params.cdn.md_font | safeHTMLAttr }}>
-  <link rel="stylesheet" href="{{ .Site.Params.cdn.bs_css | absURL}}">
+  <link rel="preload" as="style" {{ printf "href=%q" .Site.Params.cdn.md_font | safeHTMLAttr }}>
+  <link {{ printf "href=%q" .Site.Params.cdn.md_font | safeHTMLAttr }} rel="stylesheet" media="print"
+    onload="this.media='all'">
+  <noscript>
+    <link rel="stylesheet" {{ printf "href=%q" .Site.Params.cdn.md_font | safeHTMLAttr }}>
+  </noscript>
+  
+  <link rel="stylesheet" href="{{ .Site.Params.cdn.material_css | absURL}}">
   <link rel="stylesheet" href="{{ .Site.Params.cdn.css | absURL }}">
 
   {{ partial "widgets/schema.html" . }}

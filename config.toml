@@ -1,4 +1,4 @@
-baseURL = "https://recommandations-medicales.netlify.app"
+baseURL = "https://recommandations-medicales.netlify.app/"
 canonifyURLs = true
 copyright = "Tous droits réservés ©"
 DefaultContentLanguage = "fr"
@@ -40,13 +40,13 @@ title = "L'Univ médicale"
 
 # Dependencies
 [params.cdn]
-  bs_css =      "css/material.min.css"
-  bs_css_hash = ""
+  material_css = "css/material.min.css"
+  material_js = "js/material.min.js"
   css =         "css/style.css"
-  bs_js =       "https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.bundle.min.js"
-  bs_js_hash =  "sha256-OUFW7hFO0/r5aEGTQOz9F/aXQOt+TwqI1Z4fbVvww04="
-  jquery =      "https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.slim.min.js"
-  jquery_hash = "sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
+  bs_js =       "https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/js/bootstrap.bundle.min.js"
+  bs_js_hash =  "sha256-Xt8pc4G0CdcRvI0nZ2lRpZ4VHng0EoUDMlGcBSQ9HiQ="
+  jquery =      "https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+  jquery_hash = "sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
   md_font =     "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Comfortaa:wght@400;700&display=swap&family=Material+Icons+Outlined"
 
 [params.dateformat]

@@ -10,7 +10,7 @@ lastmod = "2020-04-27"
 draft = false
 categories = ["endocrinologie"]
 guidelineyears = "2019"
-source-recommandations = ["Society1", "Society2"]
+source-recommandations = ["HAS"]
 tags = ["diabete", "risque cardiovasculaire", "insuline", "retinopathie", "nephropathie", "neuropathie"]
 +++
 

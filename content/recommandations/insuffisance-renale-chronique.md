@@ -7,11 +7,11 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
 lastmod = "2018-11-28"
-draft = false
 categories = ["nephrologie"]
 guidelineyears = "2012"
 source-recommandations = ["HAS"]
 tags = ["insuffisance renale", "risque cardiovasculaire", "HTA", "diabete"]
+draft = false
 +++
 
 {{% article-summary %}}
@@ -23,7 +23,8 @@ tags = ["insuffisance renale", "risque cardiovasculaire", "HTA", "diabete"]
 {{%/article-summary%}}
 {{%collapse "Définition"%}}
 
-**Maladie rénale chronique (MRC)**  
+### Maladie rénale chronique (MRC)
+
 - Présence d'une **insuffisance rénale chronique**  
 Diminution du débit de filtration glomérulaire (DFG ou clairance) < 60 mL/min/1,73 m² (formule CKD-EPI)
 - OU présence ≥ 1 **marqueur d'atteinte rénale** persistant plus de 3 mois :
