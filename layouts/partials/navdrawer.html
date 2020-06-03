@@ -11,7 +11,7 @@
             <a class="nav-item nav-link collapsed text-capitalize" data-toggle="collapse"
                href="#navdrawer-{{ $category | urlize }}"><strong>{{ $category | truncate 20 }}</strong>
                <span class="ml-2">({{ len $pageOfCategory }})</span></a>
-            <div class="collapse pb-2" id="navdrawer-{{$category | urlize | lower}}">
+            <div class="collapse" id="navdrawer-{{$category | urlize | lower}}">
                {{ range $pageOfCategory.Pages }}
                <a class="nav-item nav-link text-black-secondary my-0" href="{{ .Permalink }}">
                   <span class="font-weight-normal">{{ .Title }}</span></a>

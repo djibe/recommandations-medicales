@@ -28,7 +28,7 @@
         <div class="d-flex flex-wrap">{{ partial "widgets/tags-render.html" . }}</div>
 
         <p class="typography-overline text-black-secondary mt-4 mb-0">De la même spécialité</p>
-        {{ range first 10 ( where .Site.RegularPages "Section" "recommandations") }}
+        {{ range first 4 ( where .Site.RegularPages "Section" "recommandations") }}
         <p class="typography-body-2">
           <a href="{{ .Permalink }}">{{ .Title }} <span class="text-muted ml-2">{{ .Lastmod.Format "2 Jan"}}</span></a>
         </p>
