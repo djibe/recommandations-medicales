@@ -8,7 +8,7 @@ date = "2020-04-27T17:35:35+02:00"
 publishdate = "2020-04-27"
 lastmod = "2016-08-10"
 draft = true
-categories = ["endocrinologie"]
+categories = ["urologie"]
 guidelineyears = "2000"
 source-recommandations = []
 tags = []
@@ -36,14 +36,13 @@ Quasi systématique à la naissance, disparition spontanée vers 3-4 ans. Geste 
 - **Phimosis inflammatoire**.  
 Résulte de posthite aiguë à germe banal ou par IST. La guérison du processus infectieux fait disparaître le phimosis.
 - **Phimosis acquis ou de l'adulte** (secondaire)  
-Intervention le plus souvent nécessaire. Survient sur prépuce cicatriciel (infections locales récidivantes par infections bénignes ou IST, manœuvres de rétraction forcées, lésions de lichen scléro-atrophiques*).  
+Intervention le plus souvent nécessaire. Survient sur prépuce cicatriciel (infections locales récidivantes par infections bénignes ou IST, manœuvres de rétraction forcées, lésions de lichen scléro-atrophiques).  
 **Éliminer un carcinome épidermoïde du gland en palpation et un diabète devant des infections récidivantes.**
 - **Phimosis serré**  
 Rétraction du prépuce strictement impossible.
 - **Phimosis peu serré**  
 Rétraction possible mais aboutit à un anneau de striction ± marqué.
-
-\* Lichen scléro-atrophique : dermatose chronique d'étiologie inconnue survenant chez l'homme jeune.
+- Lichen scléro-atrophique : dermatose chronique d'étiologie inconnue survenant chez l'homme jeune.
 
 ### Évolution naturelle du phimosis
 

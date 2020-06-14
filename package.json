@@ -4,7 +4,8 @@
   "description": "Site communautaire des recommandations en 1er recours en médecine générale",
   "scripts": {
     "build": "hugo --minify",
-    "lint:html": "htmllint --rc build/.htmllintrc \"public/**/*.html\"",
+    "css:purge": "purgecss -c build/postcss.config.js",
+    "html:lint": "htmllint --rc build/.htmllintrc \"public/**/*.html\"",
     "server": "hugo server -D -w -d dev"
   },
   "keywords": [
@@ -31,9 +32,11 @@
   },
   "homepage": "https://recommandations-medicales.netlify.app",
   "devDependencies": {
-    "autoprefixer": "^9.8.0",
-    "htmllint-cli": "0.0.7",
-    "postcss-cli": "^7.1.1"
+    "htmllint-cli": "0.0.7"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^2.2.0",
+    "autoprefixer": "^9.8.0",
+    "postcss-cli": "^7.1.1"
+  }
 }

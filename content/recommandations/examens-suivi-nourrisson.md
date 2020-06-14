@@ -15,11 +15,11 @@ qualite = "moyenne"
 draft = false
 +++
 
-{{%collapse "Calendrier des 20 examens médicaux" %}}
+{{%collapse "Calendrier des 20 examens médicaux" "show" %}}
 
-Examens médicaux de la naissance à 16 ans, réalisés en tiers payant total sur l'Assurance Maladie Obligatoire.
+Examens médicaux de la naissance à 16 ans, réalisés en **tiers payant total sur l'Assurance Maladie Obligatoire**.
 
-**Nota Bene**
+### Nota Bene
 
 - Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de vie sont sur l'Assurance Maternité, tous les autres sont en Maladie.
 - Les consultations COE correspondent aux certificats obligatoires (8 jours, 9 mois, 24 mois).  
@@ -47,8 +47,8 @@ Examens médicaux de la naissance à 16 ans, réalisés en tiers payant total su
 | 16    | 4 ans | COD (30€) |
 | 17    | 5 ans | COD (30€) |
 | 18    | 8-9 ans | COB (25€) |
-| 18    | 11-13 ans | COB (25€) |
-| 18    | 15-16 ans | COB (25€) |
+| 19    | 11-13 ans | COB (25€) |
+| 20    | 15-16 ans | COB (25€) |
 {{% /table %}}
 
 {{% /collapse %}}

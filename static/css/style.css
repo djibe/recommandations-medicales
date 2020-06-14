@@ -66,9 +66,18 @@ h4 {
   border-top: 0;
 }
 
+.recommandation__content .collapse h3:not(:first-of-type) {
+  margin-top: 2rem;
+}
+
+.recommandation__content p {
+  width: min(100%, 760px);
+}
+
 .recommandation__content ul {
   margin-bottom: 1rem;
   padding-left: 1.25rem;
+  width: min(100%, 760px);
 }
 
 .recommandation__content li {

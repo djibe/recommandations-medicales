@@ -175,10 +175,7 @@ Connaître les signes et symptômes de la MRC et savoir qui prévenir
 
 {{%/collapse%}}
 
-{{%collapse "Sources" %}}
-- [HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012](
-www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
-{{%/collapse%}}
+{{%collapse "Conduite à tenir" "show" %}}
 
 {{< mermaid >}}
 graph TB
@@ -193,3 +190,9 @@ graph TB
 5A --> 6[Bilan initial de la MRC + Stade <br> Néphroprotection maximale]
 6 --> 7[Avis néphro]
 {{</mermaid>}}
+{{%/collapse%}}
+
+{{%collapse "Sources" %}}
+- [HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012](
+www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
+{{%/collapse%}}
