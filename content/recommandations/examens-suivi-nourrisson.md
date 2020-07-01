@@ -47,8 +47,8 @@ Examens médicaux de la naissance à 16 ans, réalisés en tiers payant total su
 | 16    | 4 ans | COD (30€) |
 | 17    | 5 ans | COD (30€) |
 | 18    | 8-9 ans | COB (25€) |
-| 18    | 11-13 ans | COB (25€) |
-| 18    | 15-16 ans | COB (25€) |
+| 19    | 11-13 ans | COB (25€) |
+| 20    | 15-16 ans | COB (25€) |
 {{% /table %}}
 
 {{% /collapse %}}
