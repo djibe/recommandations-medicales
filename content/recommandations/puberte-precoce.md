@@ -12,7 +12,7 @@ guidelineyears = "2000"
 sources = [""]
 tags = ["puberte", "enfant", "adolescent"]
 qualite = "faible"
-draft = true
+draft = false
 +++
 
 {{%article-summary%}}
