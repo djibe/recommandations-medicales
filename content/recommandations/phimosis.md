@@ -12,6 +12,8 @@ categories = ["urologie"]
 guidelineyears = "2000"
 source-recommandations = []
 tags = []
+qualite = "faible"
+draft = false
 +++
 
 {{%article-summary%}}

@@ -14,11 +14,13 @@ tags = ["hirsutisme"]
 draft = false
 +++
 
-## En bref
+{{%article-summary%}}
 
 TODO
 
-## Définition
+{{%/article-summary%}}
+
+{{%collapse "Définition" %}}
 
 Excès de poils longs, drus et pigmentés, présents chez les femmes sur des zones androgénodépendantes.
 
@@ -26,7 +28,9 @@ L'hirsutisme atteint de 5 à 15 % des femmes.
 
 **Zones androgénodépendantes** : lèvre supérieure, menton, joue, poitrine, ligne ombilico-pubienne, fesse, dos, région lombaire, bras, face antérieure des cuisses.
 
-## Étiologie
+{{%/collapse %}}
+
+{{%collapse "Étiologie" %}}
 
 - Le **syndrome des ovaires polykystiques** (**SOPK**) est la première cause.
 - Hirsutisme sans hyperandrogénie
@@ -38,7 +42,14 @@ L'hirsutisme atteint de 5 à 15 % des femmes.
   - Hyperplasie congénitale des surrénale
   - Idiopathique
 
-## Clinique
+{{%/collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+- Duvet
+- Hypertrichose  
+Excès de poils sous forme de duvet sur des zones non androgéniques. Elle est localisée (autour d’un grain de beauté) ou diffuse. Autant chez les femmes que les hommes.
+{{%/collapse %}}
+{{%collapse "Clinique" %}}
 
 ### Interrogatoire
 
@@ -59,15 +70,9 @@ Si iatrogène, apparition le plus souvent après plusieurs mois et régression e
   - Ciclosporine, tacrolimus
   - Phénytoine
 
-### Diagnostic différentiel
+{{%/collapse %}}
 
-- Duvet
-- Hypertrichose  
-Excès de poils sous forme de duvet sur des zones non androgéniques. Elle est localisée (autour d’un grain de beauté) ou diffuse. Autant chez les femmes que les hommes.
-
-## Examens complémentaires
-
-## Traitement
+{{%collapse "Traitement" %}}
 
 Rasage ou épilation mécanique.
 
@@ -76,9 +81,12 @@ Rasage ou épilation mécanique.
 Spironolactone par voie orale.
 
 **NB.** Ne pas utiliser la cyprotérone.
+{{%/collapse %}}
 
 ## Information du patient
 
-## Sources
+{{%collapse "Sources" %}}
 
 - Prescrire nov 2019
+
+{{%/collapse %}}
