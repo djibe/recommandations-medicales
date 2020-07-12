@@ -45,39 +45,6 @@ L'hypothyroïdie atteint 5% de la population, dont ⅔ de femmes et 10% des suje
 - Trisomie 21 et Syndrome de Turner
 
 {{% /collapse %}}
-
-{{%collapse Clinique %}}
-
-### Interrogatoire
-
-- ATCD personnels  
-  Zone d'endémie de carence, polyarthrite rhumatoïde, insuffisance surrénalienne.
-- Cause transitoire  
-  Accouchement, iode 131, thyroïdectomie partielle, douleurs cervicales récentes.
-- ATCD familiaux (auto-immuns ++)
-- Traitements
-  Amiodarone, lithium, IFNa, inhibiteurs tyrosine kinase, iode 131, radiothérapie cervicale, thyroïdectomie.
-- Symptômes
-
-### Examen clinique
-
-- Palpation thyroïdienne  
-  Souvent ferme et hétérogène, pseudo-nodulaire, taille variable, goitre (maladie de Hashimoto) ou atrophique (thyroïdite).
-- Signes généraux  
-  Asthénie (physique, intellectuelle, sexuelle), prise de poids modeste, constipation, sensibilité au froid.
-- Phanères  
-  Secs et cassants, dépilation (queue du sourcil) et pousse lente des cheveux/poils, peau épaissie, froide, sèche et squameuse, teint carotinodermique (jaunâtre), cicatrisation lente
-- Myxœdème  
-  Macroglossie, voix rauque ou grave, hypoacousie, vertiges, ronflements voire syndrome du canal carpien, gonflement des paupières.
-- Cardiaque  
-  Bradycardie, assourdissement des bruits du cœur, HTA fréquente, angor, épanchement péricardique si ancien
-- Respiratoire  
-  En atteinte sévère : épanchement pleural bilatéral, apnées du sommeil, bradypnée
-- Neuro-psy  
-  Ralentissement psychomoteur, syndrome dépressif et baisse de libido et érection, voire démence ou agitation chez le sujet âgé. Crampes, neuropathie périphérique
-- Aménorrhée, infertilité
-{{%/collapse %}}
-
 {{%collapse Étiologie %}}
 
 - **Thyroïdite lymphocytaire chronique de Hashimoto**  
@@ -115,8 +82,40 @@ Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le
   - Hémochromatose
   - Alimentaire. Manioc, cassave
   - Polluants
-{{% /collapse %}}
 
+{{% /collapse %}}
+{{% collapse Clinique %}}
+
+### Interrogatoire
+
+- ATCD personnels  
+  Zone d'endémie de carence, polyarthrite rhumatoïde, insuffisance surrénalienne.
+- Cause transitoire  
+  Accouchement, iode 131, thyroïdectomie partielle, douleurs cervicales récentes.
+- ATCD familiaux (auto-immuns ++)
+- Traitements
+  Amiodarone, lithium, IFNa, inhibiteurs tyrosine kinase, iode 131, radiothérapie cervicale, thyroïdectomie.
+- Symptômes
+
+### Examen clinique
+
+- Palpation thyroïdienne  
+  Souvent ferme et hétérogène, pseudo-nodulaire, taille variable, goitre (maladie de Hashimoto) ou atrophique (thyroïdite).
+- Signes généraux  
+  Asthénie (physique, intellectuelle, sexuelle), prise de poids modeste, constipation, sensibilité au froid.
+- Phanères  
+  Secs et cassants, dépilation (queue du sourcil) et pousse lente des cheveux/poils, peau épaissie, froide, sèche et squameuse, teint carotinodermique (jaunâtre), cicatrisation lente
+- Myxœdème  
+  Macroglossie, voix rauque ou grave, hypoacousie, vertiges, ronflements voire syndrome du canal carpien, gonflement des paupières.
+- Cardiaque  
+  Bradycardie, assourdissement des bruits du cœur, HTA fréquente, angor, épanchement péricardique si ancien
+- Respiratoire  
+  En atteinte sévère : épanchement pleural bilatéral, apnées du sommeil, bradypnée
+- Neuro-psy  
+  Ralentissement psychomoteur, syndrome dépressif et baisse de libido et érection, voire démence ou agitation chez le sujet âgé. Crampes, neuropathie périphérique
+- Aménorrhée, infertilité
+
+{{%/collapse %}}
 {{%collapse Examens complémentaires %}}
 
 ### Biologie
@@ -131,10 +130,10 @@ Le dosage de la TSH peut être réalisé à tout moment de la journée (seuil > 
 
 **Si elle est augmentée, prescrire pour le mois suivant : 2e TSH + T4L.**
 
-NB. « il n'y a pas lieu de doser la T3L ».  
+**NB. « Il n'y a pas lieu de doser la T3L ».**  
 Si arguments pour étiologie auto-immune, dosage des **anticoprs anti-TPO**. Il est inutile de renouveler ce dosage ainsi que de doser d’autres anticorps antithyroïdiens.
 
-Interprétation des résultats
+#### Interprétation des résultats
 
 - TSH élevée et T4L basse : hypothyroïdie avérée
 Doser les anticorps anti-TPO ???
@@ -144,7 +143,7 @@ Doser les anticorps anti-TPO ???
 - Iodémie/iodurie élevée : hypothyroïdie par surcharge iodée
 - Anticorps anti-TPO positifs : origine auto-immune
 
-Cas particuliers
+#### Cas particuliers
 
 - Hypothyroïdie dans les suites du traitement d'une hyperthyroïdie : T4L basse et la TSH peut rester basse/effondrée qq semaines à qq mois
 - TSH élevée de façon isolée : artefact ou insuffisance rénale
@@ -152,21 +151,24 @@ Cas particuliers
 - TSH basse et T4L basse : traitement par carbamazépine (Tegretol®), phénytoïne
 
 ### Échographie cervicale
+
 Systématique. Aide au diagnostic étiologique et recherche une pathologie associée (nodule, goitre).
 Pas d'indication à la scintigraphie en hypothyroïdie.
 
 ### ECG
-Recherche bradycardie, allongement du QT, aplatissement ou inversion des ondes T.
-Plus rarement bloc de branche, micro-voltage, torsade de pointe, extrasystoles ventriculaires.
-Résolutifs sous lévothyroxine.
-{{% /collapse %}}
 
+Recherche bradycardie, allongement du QT, aplatissement ou inversion des ondes T.  
+Plus rarement bloc de branche, micro-voltage, torsade de pointe, extrasystoles ventriculaires.
+
+Signes résolutifs sous lévothyroxine.
+
+{{% /collapse %}}
 {{%collapse Traitement %}}
 
-Délai avant amélioration des symptômes de 2 semaines après instauration du traitement. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
+Délai avant amélioration des symptômes de **2 semaines après instauration du traitement**. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
 
-NB. Le traitement ne doit pas être débuté sans dosage préalable de la TSH
-30 % des initiations de traitements sont sans TSH
+**NB. Le traitement ne doit pas être débuté sans dosage préalable de la TSH**
+{{%class "text-muted"%}}30% des initiations de traitements sont sans TSH !{{%/class%}}
 
 Lévothyroxine sodique (opothérapie substitutive) :
 
@@ -230,12 +232,13 @@ Diagnostic confirmé si TSH normale (85% des cas)/élevée (10%)/basse ET T4L ba
 Cause hypothalamique ou hypophysaire le plus souvent tumorale ou iatrogène (chirurgie, radiothérapie, inhibiteur tyrosine kinase)
 Suivi spécialisé.
 Suivi thérapeutique par dosage de T3L + T4L qui doit être dans le tiers supérieur des valeurs normales, dosage de la TSH sans intérêt.
-{{% /collapse %}}
 
+{{% /collapse %}}
 {{%collapse Information du patient %}}
-À compléter
-{{% /collapse %}}
 
+À compléter
+
+{{% /collapse %}}
 {{%collapse Sources %}}
 
 - [Mooijaart SP et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 30 oct 2019;1‑11.](https://jamanetwork.com/journals/jama/fullarticle/2753909)
@@ -243,4 +246,5 @@ Suivi thérapeutique par dosage de T3L + T4L qui doit être dans le tiers supér
 - [ANSM. Médicaments à base de lévothyroxine. 31/10/2018](https://ansm.sante.fr/S-informer/Actualite/Medicaments-a-base-de-levothyroxine-Point-de-suivi-de-la-diversification-de-l-offre-therapeutique)
 - [S. Laboureau-Soares et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8](https://www.em-select.com/article/224074)
 - Prescrire 2015
+
 {{% /collapse %}}
