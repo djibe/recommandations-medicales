@@ -20,17 +20,20 @@ anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac
 - Possible à tout âge
 - Diagnostic par sérologie anti-transglutaminase ou FOGD d'emblée selon la probabilité clinique sans régime
 - Éviction du gluten à vie après confirmation.
-{{%/article-summary%}}
 
+{{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-- **Maladie cœliaque MC**  
-  Maladie chronique auto-immune polyorganique affectant l’intestin grêle chez des personnes génétiquement prédisposées, déclenchée par l’ingestion de gluten.
-  - {{%class "text-muted"%}} Peut être classée en sous-types selon des critères cliniques, immunologiques et histopathologiques.{{%/class%}}
-  - La majorité des patients n’est pas diagnostiquée.
-  - À l’origine d’une malabsorption et ses complications.
-- Dermatite herpétiforme DH  
-  Souvent résolutive après l’éviction du gluten.
+### Maladie cœliaque MC
+
+Maladie chronique auto-immune polyorganique affectant l’intestin grêle chez des personnes génétiquement prédisposées, déclenchée par l’ingestion de gluten.
+
+- {{%class "text-muted"%}} Peut être classée en sous-types selon des critères cliniques, immunologiques et histopathologiques.{{%/class%}}
+- La majorité des patients n’est pas diagnostiquée.
+- À l’origine d’une malabsorption et ses complications.
+
+### Dermatite herpétiforme DH  
+Souvent résolutive après l’éviction du gluten.
 
 ### Épidémiologie
 
@@ -41,8 +44,8 @@ anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac
 
 - Antécédents familiaux (peu importe le degré)
 - Diabète de type 1 (prévalence 3-10 %)
-{{%/collapse%}}
 
+{{%/collapse%}}
 {{%collapse "Qui dépister par fibroscopie d’emblée ?" %}}
 
 - Diarrhée chronique non sanglante
@@ -54,8 +57,8 @@ anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac
 - Dermatite herpétiforme confirmée par biopsie cutanée
 - Atrophies des villosités observée en vidéocapsule
 - Iléostomie ou colostomie avec hyperdébit non expliqué
-{{%/collapse%}}
 
+{{%/collapse%}}
 {{%collapse "Qui dépister par sérologie ?" %}}
 
 - Syndrome de l’intestin irritable SII
@@ -63,7 +66,7 @@ anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac
 - Diabète type 1 (tous les 5 ans)
 - Symptômes évocateurs de MC ou malabsorption sans d’antécédents familiaux ni auto-immuns
 - Colite miscoscopique ?
-- Thyroïdite de Hashimoto ou maladie de Basedow (Graves disease)
+- Thyroïdite de Hashimoto ou maladie de Basedow
 - Ostéopénie, ostéoporose
 - Ataxie ou neuropathie périphérique inexpliquée
 - Aphtes récurrents ou défauts de l’émail dentaire

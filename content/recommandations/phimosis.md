@@ -7,7 +7,6 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:35:35+02:00"
 publishdate = "2020-04-27"
 lastmod = "2016-08-10"
-draft = true
 categories = ["urologie"]
 guidelineyears = "2000"
 source-recommandations = []

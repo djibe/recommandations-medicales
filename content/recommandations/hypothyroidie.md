@@ -18,26 +18,31 @@ draft = false
 
 - Pas de dépistage systématique en population générale
 - Doser la TSH seule en cas de symptômes évocateurs. Contrôle TSH + T4L si anormale.
-{{%/article-summary%}}
 
+{{%/article-summary%}}
 {{%collapse Définition %}}
 
 Dysfonctionnement thyroïdien le plus fréquent consistant en une sécrétion insuffisante d'hormones thyroïdiennes. Souvent par altération de la glande mais parfois par atteinte centrale hypothalamo-hypophysaire.
 
 Les principales causes sont auto-immune et iatrogène (médicament, radiothérapie).
 
-Pas de dépistage systématique de l’hypothyroïdie en population générale.
+**Pas de dépistage systématique de l’hypothyroïdie en population générale.**
 
 On distingue :
 
-- L'**hypothyroïdie fruste**  (ou infraclinique) : **TSH élevée de façon isolée**
+- L'**hypothyroïdie fruste** (ou infraclinique) : **TSH élevée de façon isolée**
 - de l'hypothyroïdie patente : **TSH élevée et T4L diminuée**.
 
 ### Épidémiologie
 
 L'hypothyroïdie atteint 5% de la population, dont ⅔ de femmes et 10% des sujets âgés.
 
-Facteurs favorisants : post-partum, antécédents personnels ou familiaux auto-immuns, irradiation cervicale, trisomie 21 et syndrome de Turner.
+### Facteurs favorisants
+
+- Post-partum
+- Antécédents personnels ou familiaux auto-immuns (ex. [Maladie coeliaque]({{< ref "maladie-coeliaque.md" >}}))
+- Irradiation cervicale
+- Trisomie 21 et Syndrome de Turner
 
 {{% /collapse %}}
 

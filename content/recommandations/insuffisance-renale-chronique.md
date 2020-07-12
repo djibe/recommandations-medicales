@@ -38,8 +38,8 @@ Diminution du débit de filtration glomérulaire (DFG ou clairance) < 60 mL/min/
 3 millions de français atteints (10 % des adultes).
 
 9500 nouveaux dialysés par an, augmentation de 4 %/an, liés aux facteurs de risque cardiovasculaires: hypertension artérielle, diabète pour la moitié des cas.
-{{%/collapse%}}
 
+{{%/collapse%}}
 {{%collapse "Qui dépister?" %}}
 
 ### Population à risque définie par la présence d'au-moins 1 facteur de risque parmi
@@ -174,7 +174,6 @@ Coter C + ALD ???
 Connaître les signes et symptômes de la MRC et savoir qui prévenir
 
 {{%/collapse%}}
-
 {{%collapse "Conduite à tenir" "show" %}}
 
 {{< mermaid >}}
@@ -190,9 +189,11 @@ graph TB
 5A --> 6[Bilan initial de la MRC + Stade <br> Néphroprotection maximale]
 6 --> 7[Avis néphro]
 {{</mermaid>}}
-{{%/collapse%}}
 
+{{%/collapse%}}
 {{%collapse "Sources" %}}
+
 - [HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012](
 www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
+
 {{%/collapse%}}
