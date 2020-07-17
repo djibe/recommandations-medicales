@@ -79,8 +79,8 @@ Souvent résolutive après l’éviction du gluten.
 - Syndrome de Down ou de Turner
 - Hémosidérose pulmonaire
 - Néphropathie à IgA
-{{% /collapse%}}
 
+{{% /collapse%}}
 {{%collapse Clinique %}}
 
 ### Symptômes
@@ -119,8 +119,8 @@ Souvent résolutive après l’éviction du gluten.
 Lymphome ?
 
 Le diagnostic est affirmé par un faisceau d'arguments cliniques, biologiques, par la biopsie du grêle **ET** par la régression de ces signes en **éviction totale du gluten**.
-{{%/collapse%}}
 
+{{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
 
 ### 1) Sérologie
@@ -157,13 +157,12 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies duodénum (≥ 4
 
 ### Autres examens
 
-Bilan biologique  
+**Bilan biologique**  
 NFS, ferritinémie, folates, vitamine D, vitamine B12, TSH, ASAT, ALAT, GGT, calcémie, phosphates, vitamine D.
 
 Ostéodensitométrie avant 35 ans ???
 
 {{% /collapse%}}
-
 {{%collapse Traitement %}}
 
 - **Régime sans gluten à vie** (blé, seigle, orge)
@@ -176,19 +175,15 @@ Ostéodensitométrie avant 35 ans ???
 - Bilan par diététicien pour identifier des carences
 - **Recontrôler la sérologie initiale à 6 et 12 mois pour encourager le patient dans son régime**
 - **Dépistage de tout l’entourage du 1<sup>er</sup>** degré et suivi sérologique.
-{{% /collapse%}}
 
+{{% /collapse%}}
 {{%collapse Suivi %}}
 
 Par le gastro-entérologue et le diététicien spécialisé.
 
 MANQUE TABLEAU
-{{% /collapse%}}
 
-{{%collapse Informations au patient %}}
-Vide ...
 {{% /collapse%}}
-
 {{%collapse Sources %}}
 
 - [EssCD. Guideline for coeliac disease and other gluten-related disorders. April 2019](https://journals.sagepub.com/doi/full/10.1177/2050640619844125?utm_source=SAGE_social&hootPostID=125b0aec0fa6dfe1312e0d2a5a622756&#articleCitationDownloadContainer)

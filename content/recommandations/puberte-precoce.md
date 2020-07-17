@@ -21,7 +21,6 @@ draft = false
 - Avis spécialisé lors d'apparition précoce de CS II (< 8 ans fille/9 ans garçon)
 
 {{%/article-summary%}}
-
 {{%collapse "Définition" %}}
 
 ### Puberté précoce
@@ -60,7 +59,6 @@ Ordre d'apparition des caractères sexuels secondaires:
 - Garçons. Testicules (> 4 mL) > Pénis > Poils pubiens
 
 {{% /collapse %}}
-
 {{%collapse "Étiologie" %}}
 
 *À compléter*
@@ -104,8 +102,8 @@ Prescrite par le spécialiste.
 Étude du volume hyophysaire et recherche syndrome tumoral supra sellaire.
 
 {{% /collapse %}}
-
 {{%collapse "Sources" %}}
 
 - [Pienkowski C. et al. La puberté avant l’âge - Nouveaux aspects.](http://www.medecine.ups-tlse.fr/desc/fichiers/Puberte%20precoce.pdf)
+
 {{% /collapse %}}
