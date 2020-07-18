@@ -174,7 +174,7 @@ Coter C + ALD ???
 Connaître les signes et symptômes de la MRC et savoir qui prévenir
 
 {{%/collapse%}}
-{{%collapse "Conduite à tenir" "show" %}}
+{{%collapse "Dépistage - Arbre décisionnel" "show" %}}
 
 {{< mermaid >}}
 graph TB
@@ -188,7 +188,7 @@ graph TB
 4 --> 5A[Anormal]
 5A --> 6[Bilan initial de la MRC + Stade <br> Néphroprotection maximale]
 6 --> 7[Avis néphro]
-{{</mermaid>}}
+{{< /mermaid >}}
 
 {{%/collapse%}}
 {{%collapse "Sources" %}}

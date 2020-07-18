@@ -52,7 +52,7 @@
             {{ end }}
 
             {{ with .Lastmod }}        
-              <span class="chip chip-secondary">Mise à jour {{ if eq .Year now.Year }}{{ .Format "2 Jan" }}{{ else }}{{ .Format "2 Jan 2006" }}{{ end }}</span>
+              <span class="chip chip-outline">Mise à jour {{ if eq .Year now.Year }}{{ .Format "2 Jan" }}{{ else }}{{ .Format "2 Jan 2006" }}{{ end }}</span>
             {{ end }}
 
             {{- range .Params.auteurs }}
