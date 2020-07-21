@@ -6,7 +6,7 @@ synonyms = [""]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-14T23:30:41+02:00
 publishdate = 2020-04-14
-lastmod = 2019-11-20
+lastmod = 2020-07-21
 categories = ["endocrinologie"]
 guidelineyears = "2019"
 sources = ["HAS", "ANSM", "Prescrire"]
@@ -17,27 +17,30 @@ draft = false
 {{%article-summary%}}
 
 - Pas de dépistage systématique en population générale
-- Doser la TSH seule en cas de symptômes évocateurs. Contrôle TSH + T4L si anormale.
+- Doser la TSH seule en cas de symptômes évocateurs
+- Traitement par LT : dosage de la TSH à 6 semaines et adaptation par paliers de 12µg toutes les 6 à 12 semaines sur critères clinico-TSH.
 
 {{%/article-summary%}}
 {{%collapse Définition %}}
 
 Dysfonctionnement thyroïdien le plus fréquent consistant en une sécrétion insuffisante d'hormones thyroïdiennes. Souvent par altération de la glande mais parfois par atteinte centrale hypothalamo-hypophysaire.
 
-Les principales causes sont auto-immune et iatrogène (médicament, radiothérapie).
+**Les principales causes sont auto-immune et iatrogène** (médicament, radiothérapie).
 
 **Pas de dépistage systématique de l’hypothyroïdie en population générale.**
 
 On distingue :
 
-- L'**hypothyroïdie fruste** (ou infraclinique) : **TSH élevée de façon isolée**
+- L'[**hypothyroïdie fruste**]({{< ref "hypothyroidie-fruste.md" >}}) (ou infraclinique) : **TSH élevée de façon isolée**
 - de l'hypothyroïdie patente : **TSH élevée et T4L diminuée**.
 
-### Épidémiologie
+{{% /collapse %}}
+{{%collapse Épidémiologie %}}
 
 L'hypothyroïdie atteint 5% de la population, dont ⅔ de femmes et 10% des sujets âgés.
 
-### Facteurs favorisants
+{{% /collapse %}}
+{{%collapse "Facteurs favorisants" %}}
 
 - Post-partum
 - Antécédents personnels ou familiaux auto-immuns (ex. [Maladie coeliaque]({{< ref "maladie-coeliaque.md" >}}))
@@ -60,24 +63,24 @@ L'hypothyroïdie atteint 5% de la population, dont ⅔ de femmes et 10% des suje
   Surveillance clinique et TSH annuelle.
 
 - Thyroïdite lymphocytaire chronique atrophique  
-Fréquente, féminine, post-ménopausique++  
-Ressemble au Hashimoto mais avec thyroïde de taille normale/diminuée.  
-Anticorps anti-TPO+ (75%) et anti-TG+ (50%).  
-Aggravation progressive comparable au Hashimoto.
+  Fréquente, féminine, post-ménopausique++  
+  Ressemble au Hashimoto mais avec thyroïde de taille normale/diminuée.  
+  Anticorps anti-TPO+ (75%) et anti-TG+ (50%).  
+  Aggravation progressive comparable au Hashimoto.
 
 - Thyroïdite subaiguë de De Quervain ou virale  
-Dans les suites d'une infection respiratoire : syndrome grippal, inflammatoire avec un goitre ferme et douloureux.  
-Phase de thyrotoxicose puis hypothyroïdie le plus souvent transitoire.  
+  Dans les suites d'une infection respiratoire : syndrome grippal, inflammatoire avec un goitre ferme et douloureux.  
+  Phase de thyrotoxicose puis hypothyroïdie le plus souvent transitoire.  
 
 - Thyroïdite transitoire  
-Thyrotoxicose pauci-symptomatique puis hypothyroïdie séquellaire dans 20 % des cas.
+  Thyrotoxicose pauci-symptomatique puis hypothyroïdie séquellaire dans 20 % des cas.
 
 - Thyroïdite du post-partum  
 Fréquente (5-10 % des femmes), survient dans l'année, surtout si diabète type 1 ou taux élevés d'AC antithyroïdiens au 1er trimestre. Récidive dans 70 % des cas à la grossesse suivante.  
 Souvent transitoire (70 %), contrôle TSH à 1 an.  
 Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le 2e mois post-partum (reprise rapide du poids normal, nervosité).  
 
-- Autres
+- Autres causes
   - Iatrogène. Médicaments ou traitement thyroïdien par iode 131, thyroïdectomie et radiothérapie cervicale
   - Hémochromatose
   - Alimentaire. Manioc, cassave
@@ -120,8 +123,16 @@ Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le
 
 ### Biologie
 
-Retentissement biologique  
-Hypercholestérolémie et hypertriglycéridémie, anémie isolée modérée normochrome normocytaire. Augmentation des CPK/LDH. Hyponatrémie de dilution, hypoglycémie, hyperprolactinémie, hyperuricémie, hyperhomocystéinémie.  
+Retentissement biologique:  
+- Hypercholestérolémie et hypertriglycéridémie
+- Anémie isolée modérée normochrome normocytaire
+- Augmentation des CPK/LDH
+- Hyponatrémie de dilution
+- Hypoglycémie
+- Hyperprolactinémie
+- Hyperuricémie
+- Hyperhomocystéinémie
+
 Parfois troubles de la coagulation et du bilan hépatique.
 
 **En 1re intention, doser la TSH seule.**
@@ -187,7 +198,7 @@ Prise unique le matin à jeun 30 min avant toute prise orale (ou ≥ 3 heures ap
 Objectif : obtenir une TSH dans les valeurs normales ET disparition des signes cliniques.
 Initier. Débuter à 1,7 µg/kg/j chez l'adulte (1,3 sujet âgé ; 2 chez l'enfant ; coronarien 12,5 à 25 µg/j)
 
-Dosage de la TSH à 6 semaines et adaptation par paliers de 6 à 12 semaines sur critères clinico-TSH.
+**Dosage de la TSH à 6 semaines** et adaptation par **paliers de 6 à 12 semaines** sur critères clinico-TSH.
 
 Surveillance au long cours :
 Une fois l'euthyroïdie obtenue, contrôle clinique + TSH /6 mois puis 1 fois par an.
@@ -232,11 +243,6 @@ Diagnostic confirmé si TSH normale (85% des cas)/élevée (10%)/basse ET T4L ba
 Cause hypothalamique ou hypophysaire le plus souvent tumorale ou iatrogène (chirurgie, radiothérapie, inhibiteur tyrosine kinase)
 Suivi spécialisé.
 Suivi thérapeutique par dosage de T3L + T4L qui doit être dans le tiers supérieur des valeurs normales, dosage de la TSH sans intérêt.
-
-{{% /collapse %}}
-{{%collapse Information du patient %}}
-
-À compléter
 
 {{% /collapse %}}
 {{%collapse Sources %}}
