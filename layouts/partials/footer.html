@@ -53,7 +53,7 @@
 <script src="{{ .Site.Params.cdn.material_js | absURL }}" defer></script>
 <script src="https://cdn.jsdelivr.net/npm/lunr@2.3.8/lunr.min.js"
   integrity="sha256-34Si1Y6llMBKM3G0jQILVeoQKEwuxjbk4zGWXXMT4ps=" crossorigin="anonymous" defer></script>
-<script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" crossorigin></script>
+<script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" crossorigin="anonymous"></script>
 {{ if .IsPage }}<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 <script>mermaid.initialize({startOnLoad: true});</script>{{end}}
 <!--<script src="{{.Site.BaseURL}}js/search.js"></script>-->
@@ -84,7 +84,12 @@
       }
     });
 
-    $('.recommandation__content p, .recommandation__content li').addClass('typography-body-1');
+    $('.recommandation__content p').addClass('typography-body-1');
+
+    // Lists
+    $('.recommandation__content > ul:not(.list-group) > li').addClass('typography-body-1');
+    $('.recommandation__content .list-group').addClass('mb-4').css("width","min(100%, 768px)");
+    $('.recommandation__content .list-group li').addClass('list-group-item list-group-item-action');
 
     $('.recommandation__content .collapse:last-of-type a').prop('target', '_blank').prop('rel',
       'nofollow noopener');

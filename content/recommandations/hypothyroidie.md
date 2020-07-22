@@ -178,25 +178,37 @@ Signes résolutifs sous lévothyroxine.
 
 Délai avant amélioration des symptômes de **2 semaines après instauration du traitement**. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
 
-**NB. Le traitement ne doit pas être débuté sans dosage préalable de la TSH**
-{{%class "text-muted"%}}30% des initiations de traitements sont sans TSH !{{%/class%}}
+**NB. Le traitement ne doit pas être débuté sans dosage préalable de la TSH**  
+{{%class "text-muted"%}}(30% des traitements introduits sans TSH).{{%/class%}}
 
-Lévothyroxine sodique (opothérapie substitutive) :
+### Lévothyroxine sodique (opothérapie substitutive)
 
+**Objectif: obtenir une TSH dans les valeurs normales ET la disparition des signes cliniques.**
+
+#### Débuter le traitement
+
+Initier à 1,7 µg/kg/j chez l'adulte (1,3 sujet âgé ; 2 chez l'enfant ; coronarien 12,5 à 25 µg/j).
+
+**Adaptation par paliers de 12 µg.**
+
+#### Spécialités disponibles
+
+{{%list "list-group" %}}
 - L-Thyroxin Henning®
 - Euthyrox® (ancienne formulation de Levothyrox®)
 - Lévothyrox® (nouvelle formulation)
 - Thyrofix (cp non sécable)
 - Tcaps (capsule molle, non remboursable)
-- Buvables
-  - L-Thyroxine Serb® en gouttes pour les enfants
-  - Tsoludose (non remboursable)
+- **Buvables**
+- L-Thyroxine Serb® en gouttes pour les enfants
+- Tsoludose (non remboursable)
+{{% /list %}}
 
-**Adaptation par paliers de 12 µg.**
+#### Consignes d'administration de la lévothyroxine
 
-Prise unique le matin à jeun 30 min avant toute prise orale (ou ≥ 3 heures après le dernier repas de la journée). \* Si prise manquée : doubler la dose du lendemain ou prendre la dose du jour 3 heures après le dernier repas de la journée.
-Objectif : obtenir une TSH dans les valeurs normales ET disparition des signes cliniques.
-Initier. Débuter à 1,7 µg/kg/j chez l'adulte (1,3 sujet âgé ; 2 chez l'enfant ; coronarien 12,5 à 25 µg/j)
+- Prise unique le matin à jeun 30 minutes avant toute prise orale (ou ≥ 3 heures après le dernier repas de la journée).
+- En cas d'oubli: doubler la dose du lendemain ou prendre la dose du jour 3 heures après le dernier repas de la journée.
+
 
 **Dosage de la TSH à 6 semaines** et adaptation par **paliers de 6 à 12 semaines** sur critères clinico-TSH.
 
@@ -213,35 +225,35 @@ Surveiller la survenue d’attaques de paniques même en concentrations plasmati
 
 ### Sujets à risque
 
-1. La lévothyroxine perturbe l'INR chez les sujets traités par AVK
+- La lévothyroxine perturbe l'INR chez les sujets traités par **AVK**
 
-2. Sujet coronarien ou âgé
-   Débuter à posologie basse, augmentation prudente et surveillance symptômes+clinique+ECG
-   Débuter à 12,5 µg/j, augmentation de 12,5 µg par paliers de 3 semaines.
-   On ne recherche pas toujours une normalisation de la TSH
+- Sujet **coronarien** ou **âgé**  
+Débuter à posologie basse, augmentation prudente et surveillance symptômes + clinique + ECG  
+Débuter à 12,5 µg/j, augmentation par paliers de 12 µg toutes les 3 semaines.  
+**NB.** On ne recherche pas toujours une normalisation de la TSH.
 
-3. Hypothyroïdie fruste
-   Cf fiche spécifique
+- [Hypothyroïdie fruste]({{< ref "hypothyroidie-fruste.md" >}})  
+Cf fiche spécifique
 
-4. Grossesse chez femme hypothyroïdienne
-   Augmentation des besoins en L-thyroxine de 30-50 % durant la grossesse.
-   Urgence thérapeutique : Augmenter la dose en pré-conceptionnel et dès 7 SA, puis continuellement jusqu'à 14 SA. Stabilisation des besoins après 14 SA.
-   Suivi rapproché et spécialisé.
-   Revenir aux doses habituelles dès la délivrance sauf allaitement.
+- **Grossesse**  
+  - Augmentation des besoins en L-thyroxine de 30 à 50% durant la grossesse.
+  - Urgence thérapeutique: Augmenter la dose en pré-conceptionnel et dès 7 SA, puis continuellement jusqu'à 14 SA. Stabilisation des besoins après 14 SA.
+  - Suivi rapproché et endocrinologique.
+  - Revenir aux doses habituelles dès l'accouchement sauf allaitement.
 
-5. Coma myxœdémateux
-   Urgence thérapeutique avec pronostic engagé (20-30 % de décès).
-   Appeler le 15 pour transfert médicalisé en réanimation
+- **Coma myxœdémateux**  
+Urgence thérapeutique avec pronostic engagé (20-30% de décès).  
+Appeler le 15 pour transfert médicalisé en réanimation.
 
 ### Hypothyroïdie secondaire
 
-Une origine centrale est très rare et cliniquement moins sévère que lors de cause périphérique.
-Syndrome d'insuffisance thyréotrope : Asthénie, céphalées, troubles de la fonction sexuelle.
-Absence d'infiltration myxœdémateuse.
-Autres axes hormonaux perturbés.
-Diagnostic confirmé si TSH normale (85% des cas)/élevée (10%)/basse ET T4L basse
-Cause hypothalamique ou hypophysaire le plus souvent tumorale ou iatrogène (chirurgie, radiothérapie, inhibiteur tyrosine kinase)
-Suivi spécialisé.
+Une origine centrale est très rare et cliniquement moins sévère que lors de cause périphérique.  
+Syndrome d'insuffisance thyréotrope : Asthénie, céphalées, troubles de la fonction sexuelle.  
+Absence d'infiltration myxœdémateuse.  
+Autres axes hormonaux perturbés.  
+Diagnostic confirmé si TSH normale (85% des cas)/élevée (10%)/basse ET T4L basse  
+Cause hypothalamique ou hypophysaire le plus souvent tumorale ou iatrogène (chirurgie, radiothérapie, inhibiteur tyrosine kinase)  
+Suivi spécialisé.  
 Suivi thérapeutique par dosage de T3L + T4L qui doit être dans le tiers supérieur des valeurs normales, dosage de la TSH sans intérêt.
 
 {{% /collapse %}}

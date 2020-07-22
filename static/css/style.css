@@ -27,11 +27,15 @@ h2 {
   line-height: 2rem;
 }
 
-h3 {
+h3,
+h3:not(.typography-overline) {
   font-size: 1.5rem;
   font-weight: 400;
   letter-spacing: 0;
   line-height: 2rem;
+
+  margin-top: 36px;
+  margin-bottom: 12px;
 }
 
 h4 {
@@ -39,6 +43,9 @@ h4 {
   font-weight: 500;
   letter-spacing: 0.0125em;
   line-height: 2rem;
+
+  margin-top: 20px;
+  margin-bottom: 12px;
 }
 
 .typography-body-1 {
@@ -74,7 +81,7 @@ h4 {
   width: min(100%, 768px);
 }
 
-.recommandation__content ul {
+.recommandation__content ul:not(.list-group) {
   margin-bottom: 1rem;
   padding-left: 1.25rem;
   width: min(100%, 760px);
@@ -144,7 +151,7 @@ a:hover {
   }
 
   .recommandation__content h2 {
-    padding: 0;
+    /* padding: 0;*/
   }
 
   p,

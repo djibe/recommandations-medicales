@@ -17,7 +17,8 @@ draft = false
 {{%article-summary%}}
 
 - TSH élevée avec T4L normale
-- Indications au traitement : TSH > 10 mUI/L, anticorps anti-TPO positifs, TSH > 4 mUI/L pendant grossesse, Traitement d'épreuve si hypothyroïdie fruste avec signes cliniques évocateurs
+- Indications au traitement  
+TSH > 10 mUI/L, anticorps anti-TPO positifs, TSH > 4 mUI/L pendant grossesse, Traitement d'épreuve si hypothyroïdie fruste avec signes cliniques évocateurs
 
 {{%/article-summary%}}
 {{%collapse "Conduite à tenir" %}}
@@ -28,6 +29,7 @@ draft = false
 - Bilan systématique
 
 **Bilan à 1 mois avec TSH, T4L, anticorps anti-TPO**
+
 - Si T4L basse : hypothyroïdie (voir fiche)
 - Si T4L normale et TSH > 10 mUI/L : traitement immédiat
 - Si T4L normale et anticorps anti-TPO+ : traitement immédiat
@@ -35,7 +37,7 @@ draft = false
 - Sinon : contrôle TSH à 6 mois puis annuel en l'absence de normalisation
 
 {{% /collapse %}}
-{{%collapse Définition %}}
+{{%collapse "Définition" %}}
 
 On distingue :
 
@@ -66,7 +68,7 @@ Prévalence en France : 2,5%
 - Antécédents médicamenteux (Amiodarone, Lithium, Interféron)
 
 {{% /collapse %}}
-{{%collapse Clinique %}}
+{{%collapse "Clinique" %}}
 
 Clinique inconstante.
 
@@ -75,7 +77,7 @@ Si TSH > 10 : augmentation du risque cardio-vasculaire, de répercussions neuro
 Perturbations du bilan lipidique.
 
 {{% /collapse %}}
-{{%collapse Traitement %}}
+{{%collapse "Traitement" %}}
 
 Pas de dépistage de la population générale. 
 Dépistage ciblé : femme > 60 ans et facteurs de risque.
@@ -99,7 +101,7 @@ Débuter la lévothyroxine à posologie basse, croissante par paliers jusqu'à o
 - TSH cible < 2,5 mUI/L
 
 {{% /collapse %}}
-{{%collapse Sources %}}
+{{%collapse "Sources" %}}
 
 - [Mooijaart SP et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 30 oct 2019;1‑11.](https://jamanetwork.com/journals/jama/fullarticle/2753909)
 - [HAS. Hypothyroïdie – pertinence des soins. Mars 2019](https://www.has-sante.fr/portail/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)

@@ -55,7 +55,6 @@ Examiner le sommet de la tête, vue du dessus et regarder la position des oreill
 3. bradycéphalies postérieures (raccourcissement antéro-postérieur du crâne)
 
 {{% /collapse %}}
-
 {{%collapse "Examens complémentaires" %}}
 
 **Aucun.**

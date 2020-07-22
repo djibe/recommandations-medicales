@@ -1,0 +1,7 @@
+{{ $list := .Inner | markdownify }}
+{{ $class := .Get 0 }}
+{{ $old := "<ul>" }}
+{{ $new := printf "<ul class=\"%s\">" $class }}
+{{ $list := replace $list $old $new }}
+
+{{ $list | safeHTML }}
