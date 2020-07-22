@@ -2,31 +2,32 @@
 title = "Maladie Cœliaque"
 prefix = "la "
 shortname = "cœliaque"
-synonyms = ["sprue cœliaque", "cœliaquie"]
+synonyms = ["intolérance au gluten", "sprue cœliaque", "cœliaquie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-16T12:31:11+02:00
 publishdate = 2020-04-16
-lastmod = 2019-09-19
-draft = false
+lastmod = 2020-07-22
 categories = ["hepato-gastro-enterologie"]
 guidelineyears = "2019"
-sources = ["EssCD", "HAS", "SNFGE"]
-tags = ["coeliaque", "allergie", "intolerance", "gluten", "gliadine", "auto-immun", "FOGD"]
+sources = ["EssCD", "HAS", "SNFGE", "Prescrire"]
+tags = ["coeliaque", "allergie", "intolerance", "gluten", "auto-immun", "FOGD"]
 anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac gluten sensitivity (NCGS) and extra-intestinal manifestations related to gluten)", "celiac"]
+draft = false
 +++
 
 {{%article-summary%}}
 
 - Possible à tout âge
-- Diagnostic par sérologie anti-transglutaminase ou FOGD d'emblée selon la probabilité clinique sans régime
-- Éviction du gluten à vie après confirmation.
+- Diagnostic par sérologie IgA anti-transglutaminase ou FOGD d'emblée selon la probabilité clinique sans régime
+- Éviction du gluten à vie après confirmation du diagnostic
+- Disparition des symptômes après 6 à 12 mois d'éviction
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 ### Maladie cœliaque MC
 
-Maladie chronique auto-immune polyorganique affectant l’intestin grêle chez des personnes génétiquement prédisposées, déclenchée par l’ingestion de gluten.
+Maladie chronique auto-immune polyorganique affectant l’intestin grêle chez des personnes génétiquement prédisposées, déclenchée par l’ingestion de **gluten**.
 
 - {{%class "text-muted"%}} Peut être classée en sous-types selon des critères cliniques, immunologiques et histopathologiques.{{%/class%}}
 - La majorité des patients n’est pas diagnostiquée.
@@ -65,8 +66,8 @@ Souvent résolutive après l’éviction du gluten.
 - Transaminases augmentées inexpliquées
 - Diabète type 1 (tous les 5 ans)
 - Symptômes évocateurs de MC ou malabsorption sans d’antécédents familiaux ni auto-immuns
-- Colite miscoscopique ?
-- Thyroïdite de Hashimoto ou maladie de Basedow
+- Colite miscoscopique
+- [Thyroïdite de Hashimoto]({{< ref "hypothyroidie.md" >}}) ou maladie de Basedow
 - Ostéopénie, ostéoporose
 - Ataxie ou neuropathie périphérique inexpliquée
 - Aphtes récurrents ou défauts de l’émail dentaire
@@ -81,7 +82,7 @@ Souvent résolutive après l’éviction du gluten.
 - Néphropathie à IgA
 
 {{% /collapse%}}
-{{%collapse Clinique %}}
+{{%collapse "Clinique" %}}
 
 ### Symptômes
 
@@ -163,10 +164,12 @@ NFS, ferritinémie, folates, vitamine D, vitamine B12, TSH, ASAT, ALAT, GGT, cal
 Ostéodensitométrie avant 35 ans ???
 
 {{% /collapse%}}
-{{%collapse Traitement %}}
+{{%collapse "Traitement" %}}
 
-- **Régime sans gluten à vie** (blé, seigle, orge)
-  Indication : adulte avec biopsie positive, enfant avec sérologie positive
+- **Régime sans gluten à vie** (blé, épeautre, froment, orge, seigle)  
+  Indication : adulte avec biopsie positive, enfant avec sérologie positive.  
+  Amélioration des symptômes à partir de 2 semaines d'éviction.  
+  Les symptômes disparaissent le plus souvent après 6 à 12 mois de traitement.  
   **NB.**« Chez les enfants qui se portent bien après l’arrêt du régime sans gluten, la recherche des auto-anticorps est **à répéter tous les ans**, afin de vérifier qu’il n’y a pas de rechutes ».
 - Encourager un régime alimentaire riche en fibres  
   Riz entier, maïs, pommes de terres, légumes.  
@@ -177,16 +180,60 @@ Ostéodensitométrie avant 35 ans ???
 - **Dépistage de tout l’entourage du 1<sup>er</sup>** degré et suivi sérologique.
 
 {{% /collapse%}}
-{{%collapse Suivi %}}
+{{%collapse "Suivi médical" %}}
 
 Par le gastro-entérologue et le diététicien spécialisé.
 
 MANQUE TABLEAU
 
 {{% /collapse%}}
-{{%collapse Sources %}}
+{{%collapse "Information du patient" %}}
 
-- [EssCD. Guideline for coeliac disease and other gluten-related disorders. April 2019](https://journals.sagepub.com/doi/full/10.1177/2050640619844125?utm_source=SAGE_social&hootPostID=125b0aec0fa6dfe1312e0d2a5a622756&#articleCitationDownloadContainer)
-- [HAS. Recherche d'anticorps dans la maladie cœliaque et suivi de l'observance du régime sans gluten. Janvier 2007](https://www.has-sante.fr/upload/docs/application/pdf/synthese_maladie_coeliaque.pdf)
-- SNFGE
+- Éviction définitive et maximale du gluten
+- Aliments à éviter
+- Gestes culinaires et de conservation des aliments
+- Mesures pour régime sans gluten équilibré à vie
+
+### Association de patients
+
+[Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
+
+### Aliments à éviter
+
+Le gluten est présent dans toutes les variétés de blé, froment, épeautre, orge et seigle sous toutes leurs formes et donc dans les :
+- Pâtes
+- Pains
+- Pâtisseries
+- Biscuits salés ou sucrés
+- Pâtés en croûte
+- Quiches
+- Quenelles industrielles
+- Aliments farinés ou panés
+- Pommes dauphines
+- Sauce soja
+- Bière
+
+### Aliments sans risque
+
+- **Riz, maïs et pommes de terre**
+- Lait, crème fraîche, yaourts et fromages blancs nature
+- Fromages et beurre
+- Viandes et volailles
+- Poissons
+- œufs
+- Huiles
+- Fruits
+
+Logo présent sur les produits sans gluten
+
+![Logo des produits sans gluten](/static/images/sans-gluten.webp)
+
+{{% /collapse%}}
+{{%collapse "Sources" %}}
+
+- [Prescrire. Intolérance au gluten - L'essentiel sur les soins de premier choix. Janvier 2020.](//prescrire.org)
+- [EssCD. Guideline for coeliac disease and other gluten-related disorders. April 2019](//journals.sagepub.com/doi/full/10.1177/2050640619844125?utm_source=SAGE_social&hootPostID=125b0aec0fa6dfe1312e0d2a5a622756&#articleCitationDownloadContainer)
+- [HAS. Recherche d'anticorps dans la maladie cœliaque et suivi de l'observance du régime sans gluten. Janvier 2007](//www.has-sante.fr/upload/docs/application/pdf/synthese_maladie_coeliaque.pdf)
+- [SNFGE. Maladie cœliaque](//www.snfge.org/content/maladie-coeliaque)
+
 {{% /collapse%}}

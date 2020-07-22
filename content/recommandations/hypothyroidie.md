@@ -123,7 +123,8 @@ Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le
 
 ### Biologie
 
-Retentissement biologique:  
+Retentissement biologique:
+
 - Hypercholestérolémie et hypertriglycéridémie
 - Anémie isolée modérée normochrome normocytaire
 - Augmentation des CPK/LDH
@@ -160,6 +161,10 @@ Doser les anticorps anti-TPO ???
 - TSH élevée de façon isolée : artefact ou insuffisance rénale
 - TSH normale ou diminuée, T4L basse : possible hypothyroïdie centrale par maladie générale sévère (syndrome de basse T4), perfusion de dopamine/dobutamine, corticoïdes à doses massives/Cushing sévère, dépression, grossesse
 - TSH basse et T4L basse : traitement par carbamazépine (Tegretol®), phénytoïne
+
+### Rechercher une maladie coeliaque
+
+En cas de Maladie de Hashimoto, rechercher une [maladie cœliaque associée]({{< ref "maladie-coeliaque.md" >}}).
 
 ### Échographie cervicale
 
