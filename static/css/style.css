@@ -91,6 +91,13 @@ h4 {
   color: #424242;
 }
 
+.recommandation__content ul:not(.list-group) li {
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: normal;
+  line-height: 1.5rem;
+}
+
 .recommandation__content li>ul {
   margin-top: .5rem;
 }
