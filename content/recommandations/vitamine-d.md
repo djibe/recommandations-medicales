@@ -26,16 +26,22 @@ Ne pas supplémenter au-delà 150 nmol/L.
 - Bénéfices de la supplémentation : réduit les fractures non vertébrales des +65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 30 ng/mL.
 - Selon des travaux récents de l’Inserm, une carence en vitamine D serait fortement liée au développement de la maladie d’Alzheimer. D’autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés.
 
-### Épidémiologie
+{{%/collapse%}}
+{{%collapse "Épidémiologie" %}}
 
-- Déficit : 75 % des adultes, 70 % des enfants
-- Carence : 7 % des adultes, 13 % des adolescents, 4 % des enfants
+- Déficit : 75% des adultes, 70% des enfants
+- Carence : 7% des adultes, 13% des adolescents, 4% des enfants
 
-### Patients à risque
+{{%/collapse%}}
+{{%collapse "Patients à risque" %}}
 
-**4 Objectifs : taux ≥ 75 nmol/ avec dosage initial, protocole de correction rapide et apports calciques ≥ 1g/j**.
+### Objectifs pour les personnes à risque
 
-Personnes à risque de complications:
+1. Taux ≥ 75 nmol/L avec dosage initial
+1. Protocole de correction rapide
+1. Apports calciques ≥ 1g/j
+
+### Personnes à risque de complications:
 
 - Traitements  
 Corticoïdes au long cours, anti-aromatases, analogues de la GnRH
@@ -47,8 +53,7 @@ Hyperparathyroïdie
 - Sujets âgés à risque de chute
 
 {{%/collapse%}}
-
-{{%collapse "Apports cibles des populations" %}}
+{{%collapse "Apports cibles selon l'âge" %}}
 
 La supplémentation en vitamine D3 peut être instaurée et suivie sans dosage de la vitamine D sauf chez les sujets à risque mentionnés ci-dessus.  
 Éviter une supplémentation forte trop espacée (voir protocole de correction plus bas).
@@ -94,8 +99,32 @@ Cible de 25(OH)D ≥ 75 nmol/L.
 
 - **Traitement par biphosphonates**  
 Cible de 25(OH)D ≥ 75 nmol/L.
-{{% /collapse %}}
 
+{{% /collapse %}}
+{{%collapse "Quand doser la vitamine D?" %}}
+
+1. Suspicion de rachitisme
+1. Suspicion d'ostéomalacie (fatigue musculaire, douleurs osseuses)
+1. À 3 mois d'une transplantation rénale
+1. Avant et après une chirurgie bariatrique
+1. Personne âgée avec chutes répétées.  
+Noter sur l’ordonnance « Évaluation et prise en charge des personnes âgées sujettes aux chute répétées »
+1. Traitement préconisant une mesure de la vitamine D
+
+et aussi
+
+- Enfant en allaitement maternel sans supplémentation pendant des mois (SFD)
+- Enfants à peau pigmentée sans supplémentation avec arcature des membres inférieurs (SFD)
+- Bilan initial de maladie rénale chronique (HAS 02/2012)
+
+- probablement pour tous les épileptiques et diabétiques
+
+En dehors des 6 indications, préciser sur l’ordonnance la raison.  
+En dosage de complaisance, préciser « Non remboursable » sur la prescription (11,34€, code 35 B).  
+{{%class "text-muted" %}}92 millions d’euros de dosages de vitamine D en 2011.  
+NB. Il n'y a pas d'utilité prouvée à doser la vitamine D en-dehors de ces situations. {{%/class %}}
+
+{{% /collapse %}}
 {{%collapse "Protocoles d'administration" %}}
 
 ### Protocole de correction
@@ -131,32 +160,8 @@ Intensification si :
 - Absence d’exposition estivale
 - Traitement à risque: rifampicine, phénobarbital, phénytoïne
 - Obésité, régime carencé
+
 {{% /collapse %}}
-
-{{%collapse "Quand doser la vitamine D?" %}}
-
-1. Suspicion de rachitisme
-1. Suspicion d'ostéomalacie (fatigue musculaire, douleurs osseuses)
-1. À 3 mois d'une transplantation rénale
-1. Avant et après une chirurgie bariatrique
-1. Personne âgée avec chutes répétées.  
-Noter sur l’ordonnance « Évaluation et prise en charge des personnes âgées sujettes aux chute répétées »
-1. Traitement préconisant une mesure de la vitamine D
-
-et aussi
-
-- Enfant en allaitement maternel sans supplémentation pendant des mois (SFD)
-- Enfants à peau pigmentée sans supplémentation avec arcature des membres inférieurs (SFD)
-- Bilan initial de maladie rénale chronique (HAS 02/2012)
-
-- probablement pour tous les épileptiques et diabétiques
-
-En dehors des 6 indications, préciser sur l’ordonnance la raison.  
-En dosage de complaisance, préciser « Non remboursable » sur la prescription (11,34€, code 35 B).  
-{{%class "text-muted" %}}92 millions d’euros de dosages de vitamine D en 2011.  
-NB. Il n'y a pas d'utilité prouvée à doser la vitamine D en-dehors de ces situations. {{%/class %}}
-{{% /collapse %}}
-
 {{%collapse "Sources" %}}
 
 - [Conversion des unités de vitamine D](http://unitslab.com/fr/node/84)

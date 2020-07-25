@@ -33,9 +33,6 @@ h3:not(.typography-overline) {
   font-weight: 400;
   letter-spacing: 0;
   line-height: 2rem;
-
-  margin-top: 36px;
-  margin-bottom: 12px;
 }
 
 h4 {
@@ -73,8 +70,13 @@ h4 {
   border-top: 0;
 }
 
-.recommandation__content .collapse h3:not(:first-of-type) {
-  margin-top: 2rem;
+.recommandation__content h3 {
+  color: var(--primary);
+  margin-top: 36px;
+  margin-bottom: 12px;
+}
+.recommandation__content h3:first-of-type {
+  margin-top: 0;
 }
 
 .recommandation__content p {

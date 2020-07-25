@@ -54,9 +54,40 @@
 <script src="https://cdn.jsdelivr.net/npm/lunr@2.3.8/lunr.min.js"
   integrity="sha256-34Si1Y6llMBKM3G0jQILVeoQKEwuxjbk4zGWXXMT4ps=" crossorigin="anonymous" defer></script>
 <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" crossorigin="anonymous"></script>
-{{ if .IsPage }}<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-<script>mermaid.initialize({startOnLoad: true});</script>{{end}}
+
+{{ if .IsPage }}
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+<script>
+  // https://mermaid-js.github.io/mermaid/#/Setup?id=fontfamily
+  const mermaidConfig = {
+    fontFamily: 'Roboto',
+    logLevel: 1,
+    startOnLoad: true,
+    securityLevel:'loose',
+    themeCSS: ".node rect {fill: rgba(98, 0, 238, 0.08); stroke: var(--primary); stroke-width: 1px;}",
+    flowchart: {
+      curve: 'Basis',
+      htmlLabels: true,
+      nodeSpacing: 30,
+      rankSpacing: 40,
+    }
+  };
+
+  mermaid.initialize(mermaidConfig);
+
+  /* $('.collapse').on('shown.bs.collapse', function () {
+    mermaid.initialize(mermaidConfig);
+  }); */
+
+  /*mermaidAPI.initialize({
+    startOnLoad: true,
+    secure: ['parameter1', 'parameter2'] }
+  );*/
+  </script>
+{{end}}
+
 <!--<script src="{{.Site.BaseURL}}js/search.js"></script>-->
+
 <script>
   $(function() {
 
@@ -84,6 +115,7 @@
       }
     });
 
+    // Paragraphs
     $('.recommandation__content p').addClass('typography-body-1');
 
     // Lists

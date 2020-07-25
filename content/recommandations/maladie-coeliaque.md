@@ -17,10 +17,10 @@ draft = false
 
 {{%article-summary%}}
 
-- Possible à tout âge
+- Fréquente et possible à tout âge
 - Diagnostic par sérologie IgA anti-transglutaminase ou FOGD d'emblée selon la probabilité clinique sans régime
-- Éviction du gluten à vie après confirmation du diagnostic
-- Disparition des symptômes après 6 à 12 mois d'éviction
+- Éviction du gluten à vie après confirmation du diagnostic par le gastro-entérologue
+- Disparition des symptômes après 6 à 12 mois d'éviction du gluten
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -33,18 +33,27 @@ Maladie chronique auto-immune polyorganique affectant l’intestin grêle chez d
 - La majorité des patients n’est pas diagnostiquée.
 - À l’origine d’une malabsorption et ses complications.
 
-### Dermatite herpétiforme DH  
+### Dermatite herpétiforme DH
+
 Souvent résolutive après l’éviction du gluten.
 
-### Épidémiologie
+{{% /collapse %}}
+{{%collapse "Épidémiologie" %}}
 
-- Prévalence: 0,6 à 1% dans le monde.
-- Peut arriver à tout âge, avec 70% des patients diagnostiqués après 20 ans.
+- Prévalence: 1% dans le monde en l'absence d'antécédents familiaux.
+- 700 000 malades cœliaques en France. Seulement 10 à 20% seraient diagnostiqués.
+- La maladie peut arriver à tout âge, avec 70% des patients diagnostiqués après 20 ans.  
+La maladie survient le plus souvent de 6 mois à 2 ans puis de 20 à 40 ans.
+- Elle est 2 à 3 fois plus fréquente chez la femme.
 
-### Facteurs de risque
+{{%/collapse %}}
+{{%collapse "Facteurs de risque de maladie cœliaque" %}}
 
-- Antécédents familiaux (peu importe le degré)
+- Antécédents familiaux (peu importe le degré, 10%)
 - Diabète de type 1 (prévalence 3-10 %)
+- Maladie de Hashimoto ou de Basedow
+- HLA-DQ2 et HLA-DQ8
+- Autres. Voir Qui dépister par sérologie ?
 
 {{%/collapse%}}
 {{%collapse "Qui dépister par fibroscopie d’emblée ?" %}}
@@ -62,7 +71,7 @@ Souvent résolutive après l’éviction du gluten.
 {{%/collapse%}}
 {{%collapse "Qui dépister par sérologie ?" %}}
 
-- Syndrome de l’intestin irritable SII
+- Syndrome de l’intestin irritable (SII)
 - Transaminases augmentées inexpliquées
 - Diabète type 1 (tous les 5 ans)
 - Symptômes évocateurs de MC ou malabsorption sans d’antécédents familiaux ni auto-immuns
@@ -81,7 +90,7 @@ Souvent résolutive après l’éviction du gluten.
 - Hémosidérose pulmonaire
 - Néphropathie à IgA
 
-{{% /collapse%}}
+{{%/collapse%}}
 {{%collapse "Clinique" %}}
 
 ### Symptômes
@@ -166,6 +175,8 @@ Ostéodensitométrie avant 35 ans ???
 {{% /collapse%}}
 {{%collapse "Traitement" %}}
 
+**NB.** Le diagnostic de certitude doit être posé par un gastro-entérologue.
+
 - **Régime sans gluten à vie** (blé, épeautre, froment, orge, seigle)  
   Indication : adulte avec biopsie positive, enfant avec sérologie positive.  
   Amélioration des symptômes à partir de 2 semaines d'éviction.  
@@ -200,6 +211,8 @@ MANQUE TABLEAU
 
 ### Aliments à éviter
 
+[SNFGE/CREGG. Alimentation sans gluten](//www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/alimentation_sans_gluten-snfge-cregg_2017.pdf)
+
 Le gluten est présent dans toutes les variétés de blé, froment, épeautre, orge et seigle sous toutes leurs formes et donc dans les :
 - Pâtes
 - Pains
@@ -226,7 +239,9 @@ Le gluten est présent dans toutes les variétés de blé, froment, épeautre, o
 
 Logo présent sur les produits sans gluten
 
-![Logo des produits sans gluten](/static/images/sans-gluten.webp)
+![Logo des produits sans gluten](/images/sans-gluten.webp)
+
+Des  produits  diététiques  sans  gluten  sont  rem-boursés  partiellement  par  l’assurance  maladie  française sous certaines conditions.
 
 {{% /collapse%}}
 {{%collapse "Sources" %}}
@@ -235,5 +250,6 @@ Logo présent sur les produits sans gluten
 - [EssCD. Guideline for coeliac disease and other gluten-related disorders. April 2019](//journals.sagepub.com/doi/full/10.1177/2050640619844125?utm_source=SAGE_social&hootPostID=125b0aec0fa6dfe1312e0d2a5a622756&#articleCitationDownloadContainer)
 - [HAS. Recherche d'anticorps dans la maladie cœliaque et suivi de l'observance du régime sans gluten. Janvier 2007](//www.has-sante.fr/upload/docs/application/pdf/synthese_maladie_coeliaque.pdf)
 - [SNFGE. Maladie cœliaque](//www.snfge.org/content/maladie-coeliaque)
+- [Asmeli. Intolérance au gluten.](//www.ameli.fr/hauts-de-seine/assure/sante/themes/intolerance-gluten-maladie-coeliaque)
 
-{{% /collapse%}}
+{{%/collapse%}}
