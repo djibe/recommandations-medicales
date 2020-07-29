@@ -5,7 +5,7 @@ DefaultContentLanguage = "fr"
 enableInlineShortcodes = true
 enableRobotsTXT = true
 languageCode = "fr-FR"
-summaryLength = 25
+summaryLength = 20
 title = "L'Univ médicale"
 
 [permalinks]

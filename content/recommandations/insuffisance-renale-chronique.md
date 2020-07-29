@@ -194,6 +194,6 @@ graph TB
 {{%collapse "Sources" %}}
 
 - [HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012](
-www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
+//www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
 
 {{%/collapse%}}

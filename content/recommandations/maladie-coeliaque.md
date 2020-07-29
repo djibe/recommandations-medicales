@@ -168,7 +168,12 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies duodénum (≥ 4
 ### Autres examens
 
 **Bilan biologique**  
-NFS, ferritinémie, folates, vitamine D, vitamine B12, TSH, ASAT, ALAT, GGT, calcémie, phosphates, vitamine D.
+
+- NFS, ferritinémie, folates
+- Vitamine B12
+- TSH
+- ASAT, ALAT, GGT
+- Calcémie, phosphates, vitamine D.
 
 Ostéodensitométrie avant 35 ans ???
 
@@ -195,7 +200,17 @@ Ostéodensitométrie avant 35 ans ???
 
 Par le gastro-entérologue et le diététicien spécialisé.
 
-MANQUE TABLEAU
+{{%table "table" %}}
+| Période          | Bilan associé |
+|:-----------------|:--------------|
+| **Au diagnostic**<br>Médecin et diététicien | - Examen physique, y compris l'IMC<br>- Éducation sur la MC<br>- Conseils diététiques par un diététicien qualifié<br>- Recommander un dépistage familial (DQ2/D8 et sérologie cœliaque)<br>- Recommander l'adhésion à une association de patients<br>- Sérologie cœliaque (si elle n'a pas déjà été réalisée)<br>- Analyses de routine (NFS, ferritinémie, vitamines D B9 B12, TSH,<br>enzymes hépatiques, calcium, phosphate)<br>- Ostéodensitométrie au moment du diagnostic avant 35 ans |
+| **3-4 mois**<br>Médecin et diététicien | - Évaluer les symptômes et les modifications du mode de vie<br>Évaluation diététique<br>Sérologie cœliaque (transglutaminase IgA-TG2)|
+| **6 mois**<br>Médecin (à distance) | - Évaluer les symptômes<br>- Évaluation diététique<br>- Sérologie cœliaque<br>- Recontrôler les autres anomalies du bilan initial |
+| **12 mois**<br>Médecin et diététicien | - Évaluer les symptômes<br>- Examen physique<br>- Évaluation diététique<br>- Sérologie cœliaque<br>- Recontrôler le bilan initial<br> ± biopsies du grêle si persistance des symptômes |
+| **24 mois**<br>Médecin | - Évaluer les symptômes<br>- Évaluer le recours au diététicien<br>- Sérologie cœliaque<br>- TSH<br>- Tests selon l’examen |
+| **36 mois**<br>Médecin | - Ostéodensitométrie de contrôle si anormale<br>- Évaluer les symptômes |
+| Puis tous les 1-2 ans | - Évaluer le recours au diététicien<br>- Sérologie cœliaque<br>- TSH<br>- Tests selon l’examen |
+{{% /table %}}
 
 {{% /collapse%}}
 {{%collapse "Information du patient" %}}
@@ -207,11 +222,11 @@ MANQUE TABLEAU
 
 ### Association de patients
 
-[Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
+[Association Française Des Intolérants Au Gluten (AFDIAG)](//www.afdiag.fr/accueil)
 
 ### Aliments à éviter
 
-[SNFGE/CREGG. Alimentation sans gluten](//www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/alimentation_sans_gluten-snfge-cregg_2017.pdf)
+[SNFGE/CREGG. Alimentation sans gluten](https//www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/alimentation_sans_gluten-snfge-cregg_2017.pdf)
 
 Le gluten est présent dans toutes les variétés de blé, froment, épeautre, orge et seigle sous toutes leurs formes et donc dans les :
 - Pâtes
