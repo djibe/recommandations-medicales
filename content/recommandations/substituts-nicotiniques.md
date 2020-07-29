@@ -2,7 +2,7 @@
 title = "Substituts nicotiniques"
 prefix = "les "
 shortname = "Subs. nicotiniques"
-synonyms = [""]
+synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-17T14:11:29+02:00
 publishdate = 2020-06-17
@@ -133,6 +133,15 @@ draft = false
         </span>
       </li>
     </ul>
+    <h6 class="typography-overline mt-lg-3">Sprays buccaux</h6>
+    <ul class="list-group">
+      <li class="list-group-item d-flex list-group-item-two-line">
+        <span class="list-group-item-text">
+          <span>Nicotine EG 1mg/dose</span>
+          <span>Je ne trouve pas la fiche de RCP du médicament</span>
+        </span>
+      </li>
+    </ul>
   </div>
   <!--+20-->
   <div class="collapse" id="patchs-plus20" data-parent="#accordionExample">
@@ -231,3 +240,9 @@ draft = false
         href="https://www.ameli.fr/sites/default/files/Documents/441422/document/liste-substituts-nicotiniques_assurance-maladie_decembre2019.pdf.pdf"
         target="_blank" rel="nofollow noopener noreferrer">L'Assurance Maladie</a></cite></footer>
 </blockquote>
+
+{{%collapse "Sources" %}}
+
+- [Assurance Maladie. Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au 27/05/2020](//www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/prise-charge-substituts-nicotiniques)
+
+{{% /collapse %}}
