@@ -27,8 +27,7 @@ h2 {
   line-height: 2rem;
 }
 
-h3,
-h3:not(.typography-overline) {
+h3:not(.typography-overline):not(.typography-subtitle-1) {
   font-size: 1.5rem;
   font-weight: 400;
   letter-spacing: 0;
