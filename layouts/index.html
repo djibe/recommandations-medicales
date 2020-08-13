@@ -3,7 +3,7 @@
 <div class="container-lg">
   <div class="row">
     <div class="col">
-      <h1 class="pt-5">{{ .Title }}</h1>
+      <h1 class="pt-3 pt-lg-5">{{ .Title }}</h1>
       <h2 class="typography-headline-6">Collection de fiches pour la pratique clinique des médecins généralistes et internes en médecine.</h2>
       <p class="typography-body-1 text-black-secondary">Il s'agit en réalité d'une démonstration technologique d'une université collaborative en ligne (Ordonnance de 1<sup>re</sup> intention et références multi-axiales par Source, Mots-clés).</p>
       
@@ -23,12 +23,12 @@
       -->
     </div>
   </div>
-  <div class="row">
+  <section class="row">
     <div class="col-12">
       <p class="typography-overline">Les dernières mises à jour</p>
     </div>
     {{ range ( where site.RegularPages "Section" "recommandations" | first 6 ) }}
-    <div class="col-12 col-sm-6 col-xl-4 d-flex mb-3">
+    <div class="col-12 col-sm-6 col-xl-4 d-flex mb-1 mb-lg-3">
       <div class="card flex-fill">
         <div class="card-body position-relative card-primary-action ">
           <h3 class="card-title">{{ .Title }}</h3>
@@ -46,6 +46,6 @@
       </div>
     </div>
     {{ end }}
-  </div>
+  </section>
 </div>
 {{ end }}

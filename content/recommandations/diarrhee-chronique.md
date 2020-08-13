@@ -11,7 +11,7 @@ categories = ["hepato-gastro-enterologie"]
 guidelineyears = "2000"
 sources = ["Prescrire"]
 tags = ["gluten"]
-draft = true
+draft = false
 +++
 
 {{%article-summary%}}
@@ -19,10 +19,6 @@ draft = true
 TODO
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
-
-
-{{% /collapse %}}
 {{%collapse "Étiologie" %}}
 
 - [Maladie cœliaque]({{< ref "maladie-coeliaque.md" >}})
@@ -34,11 +30,7 @@ TODO
 - Hyperthyroïdie
 - Fécalome
 - Iatrogénie  
-(olmésartan, édulcorants sorbitol/xylitol
-
-{{% /collapse %}}
-{{%collapse "Traitement" %}}
-
+Olmésartan, édulcorants sorbitol/xylitol
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

@@ -25,7 +25,7 @@ Dilatation localisée d’un segment de l’aorte abdominale (le plus souvent so
 
 80% des anévrysmes sont de forme fusiforme, parfois sacciforme.
 
-**80% de mortalité** en AAA rompu contre 5 % en intervention programmée.
+**80% de mortalité** en AAA rompu contre 5% en intervention programmée.
 
 Pour l’histoire : Einstein et de Gaulle en sont morts.
 
