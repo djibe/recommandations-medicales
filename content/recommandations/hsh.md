@@ -11,6 +11,8 @@ categories = ["infectiologie"]
 guidelineyears = "2020"
 sources = ["HAS", "MinSante"]
 tags = ["HSH", "IST"]
+anglais = ["MSM", "Men who have sex with men"]
+sctid = "76102007"
 draft = false
 +++
 

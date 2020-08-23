@@ -21,7 +21,7 @@ draft = false
     class="mt-2 mr-4 rounded-lg" width="48px" height="48px" alt="Tabac Info Service, l'appli">
   <div>
     <h5 class="typography-body-2 font-weight-bold">Mes Droits Sociaux</h5>
-    <h6 class="typography-body-2 mb-0">L'ensemble de vos droits sociaux.</h6>
+    <h6 class="typography-body-2 mb-0">L'ensemble des aides sociales selon les ressources.</h6>
   </div>
   <a href="//www.mesdroitssociaux.gouv.fr/accueil/" target="_blank"
     rel="nofollow noopener noreferrer" class="stretched-link"></a>

@@ -11,6 +11,8 @@ categories = ["pediatrie"]
 guidelineyears = "2015"
 sources = ["SFN"]
 tags = ["vitamine K", "nouveau-né"]
+anglais = ["Vitamin K"]
+sctid = "65183007"
 qualite = "moyenne"
 draft = false
 +++

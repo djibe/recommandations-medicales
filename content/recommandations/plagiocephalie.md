@@ -10,7 +10,9 @@ lastmod = 2020-07-11
 categories = ["pediatrie"]
 guidelineyears = "2020"
 sources = ["HAS"]
-tags = ["nourrisson"]
+tags = ["nourrisson", "plagiocephalie"]
+anglais = ["Plagiocephaly"]
+sctid = "21850008"
 qualite = "moyenne"
 draft = false
 +++

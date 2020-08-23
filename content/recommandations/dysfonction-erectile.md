@@ -7,11 +7,13 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2020-05-05T12:48:09+02:00"
 publishdate = "2020-05-05"
 lastmod = "2020-05-05"
-draft = false
 categories = ["urologie"]
 guidelineyears = "2019"
 source-recommandations = ["AIUS", "Prescrire"]
 tags = ["dysfonction erectile", "IPDE5", "risque cardiovasculaire"]
+anglais = ["Erectile dysfunction"]
+sctid = "860914002"
+draft = false
 +++
 
 *Les recommandations concernent l'homme de plus de 18 ans.  

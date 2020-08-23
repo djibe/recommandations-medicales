@@ -12,15 +12,17 @@ guidelineyears = "2019"
 sources = ["EssCD", "HAS", "SNFGE", "Prescrire"]
 tags = ["coeliaque", "allergie", "intolerance", "gluten", "auto-immun", "FOGD"]
 anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac gluten sensitivity (NCGS) and extra-intestinal manifestations related to gluten)", "celiac"]
+sctid = "396331005"
 draft = false
 +++
 
 {{%article-summary%}}
 
 - Fréquente et possible à tout âge
-- Diagnostic par sérologie IgA anti-transglutaminase ou FOGD d'emblée selon la probabilité clinique sans régime
+- Diagnostic par sérologie IgA anti-transglutaminase et IgA totales ou FOGD d'emblée selon la probabilité clinique sans régime
 - Éviction du gluten à vie après confirmation du diagnostic par le gastro-entérologue
 - Disparition des symptômes après 6 à 12 mois d'éviction du gluten
+- Dépistage de l'entourage au 1er degré
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -106,42 +108,42 @@ La maladie survient le plus souvent de 6 mois à 2 ans puis de 20 à 40 ans.
 #### Autres symptômes
 
 - Anémie
-- Reflux gastro-œsophagien RGO
+- Reflux gastro-œsophagien (RGO)
 - Œsophagite à éosinophiles
 - Neuropathie
 - Ataxie
-- Dépression, asthénie
+- Dépression
+- Asthénie
 - Petite taille
 - Pathologie osseuse. Ostéomalacie, ostéoporose
 - Transaminases élevées
-- Compilations gravidiques
+- Complications gravidiques
 - Lymphome du grêle
 
 #### Chez l’enfant
 
-- Toujours : Retard de croissance, diarrhée, fonte musculaire, anorexie, distension abdominale.
+- Toujours : **Retard de croissance**, **diarrhée**, fonte musculaire, **anorexie**, distension abdominale.
 - Souvent : détresse émotionnelle, humeur labile, léthargie, constipation, douleurs abdominales
 
 ### Complications
 
-**Carences en micronutriments, fer, vitamine B9 et B12**.
-
-Lymphome ?
+- **Carences en micronutriments, fer, vitamine B9 et B12**.
+- Lymphome ?
+- Altération de la qualité de vie
 
 Le diagnostic est affirmé par un faisceau d'arguments cliniques, biologiques, par la biopsie du grêle **ET** par la régression de ces signes en **éviction totale du gluten**.
 
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
 
-### 1) Sérologie
+### Sérologie anti-transglutaminase
 
 En cas de faible risque clinique.
 
-**Réalisée à jeun sous exposition au gluten** {{%class "text-muted" %}}(de 32 à 156.000 devraient être réalisées chaque année).{{%/class%}}
+**Réalisée à jeun pendant exposition au gluten**.  
+{{%class "text-muted" %}}De 32 à 156.000 devraient être réalisées chaque année.{{%/class%}}
 
-1. Adulte ou enfant sans déficit en IgA connu (le plus fréquent)
-
-IgA anti-transglutaminase (AC IgA-TG2) + dosage des IgA totales
+IgA anti-transglutaminase (anticorps IgA anti-TGt) ET dosage des IgA totales.
 
 - **si positif adulte : biopsies du grêle en FOGD sous AL**
 - **si positif enfant : selon profil**
@@ -155,13 +157,13 @@ IgA anti-transglutaminase (AC IgA-TG2) + dosage des IgA totales
 - si positif enfant : selon profil
 - si négatif : évaluation par le spécialiste du profil de la maladie
 
-### 2) Biopsie du grêle en fibroscopie sous AL
+### Biopsie du grêle en fibroscopie sous AL
 
-Indication : sérologie positive chez un adulte ou risque clinique élevé
+Indication : sérologie positive chez un adulte ou risque clinique élevé.
 
-Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies duodénum (≥ 4) + grêle doivent être systématiques.
+Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 4) et du grêle sont systématiques.
 
-**NB.** Biopsie du grêle est **décommandée** **chez l'enfant** (AG nécessaire), mauvais bénéfice/risque.
+**NB. La biopsie du grêle est décommandée chez l'enfant (AG nécessaire), mauvais bénéfice/risque.**
 
 **NB**. En cas de maladie prouvée, dépistage de tout les proches au 1<sup>er</sup> degré.
 

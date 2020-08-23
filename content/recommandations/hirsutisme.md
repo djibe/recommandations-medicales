@@ -11,6 +11,8 @@ categories = ["endocrinologie"]
 guidelineyears = "2019"
 sources = ["Prescrire"]
 tags = ["hirsutisme"]
+anglais = ["Hirsutism"]
+sctid = "399939002"
 draft = false
 +++
 
@@ -19,12 +21,11 @@ draft = false
 TODO
 
 {{%/article-summary%}}
-
 {{%collapse "Définition" %}}
 
 Excès de poils longs, drus et pigmentés, présents chez les femmes sur des zones androgénodépendantes.
 
-L'hirsutisme atteint de 5 à 15 % des femmes.
+L'hirsutisme atteint de 5 à 15% des femmes.
 
 **Zones androgénodépendantes** : lèvre supérieure, menton, joue, poitrine, ligne ombilico-pubienne, fesse, dos, région lombaire, bras, face antérieure des cuisses.
 
@@ -81,10 +82,8 @@ Rasage ou épilation mécanique.
 Spironolactone par voie orale.
 
 **NB.** Ne pas utiliser la cyprotérone.
+
 {{%/collapse %}}
-
-## Information du patient
-
 {{%collapse "Sources" %}}
 
 - Prescrire nov 2019

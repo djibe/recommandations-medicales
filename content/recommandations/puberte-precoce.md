@@ -9,8 +9,10 @@ publishdate = 2020-06-30
 lastmod = 2020-06-30
 categories = ["pediatrie"]
 guidelineyears = "2000"
-sources = [""]
+sources = []
 tags = ["puberte", "enfant", "adolescent"]
+anglais = ["Precocious puberty"]
+sctid = "400179000"
 qualite = "faible"
 draft = false
 +++

@@ -9,8 +9,10 @@ publishdate = 2020-06-03
 lastmod = 2020-06-03
 categories = ["infectiologie"]
 guidelineyears = "2000"
-sources = []
-tags = ["BCG"]
+sources = ["HAS"]
+tags = ["BCG", "tuberculose"]
+anglais = ["Tuberculosis"]
+sctid = "56717001"
 qualite = "moyenne"
 draft = false
 +++
@@ -42,7 +44,6 @@ Pour les professionnels de santé : évaluation de l'exposition au cas par cas p
 - Europe centrale (sauf Grèce, Hongrie, Slovaquie, Slovénie et République Tchéque)
 
 {{%/collapse%}}
-
 {{%collapse "Suivi thérapeutique" %}}
 
 {{%table "table" %}}
@@ -62,13 +63,11 @@ Pour les professionnels de santé : évaluation de l'exposition au cas par cas p
 BH (ASAT, ALAT), Bio (NFS-plaq, créatininémie), Opht (Examen ophtalmologique)
 
 {{%/collapse%}}
-
 {{%collapse "Informations du patient" %}}
 
 [HAS. ALD n°29 - Guide patient: Comprendre la tuberculose](https://www.has-sante.fr/jcms/c_609444/fr/ald-n-29-guide-patient-comprendre-la-tuberculose)
 
 {{%/collapse%}}
-
 {{%collapse "Sources" %}}
 
 - [ECN Pilly. Tuberculose de l’adulte et de l’enfant. 2018](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2018/ecn-2018-ue6-155-nb.pdf)

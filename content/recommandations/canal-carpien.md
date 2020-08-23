@@ -11,6 +11,8 @@ categories = ["rhumatologie"]
 guidelineyears = "2013"
 sources = ["Prescrire", "HAS"]
 tags = ["canal carpien"]
+anglais = ["Carpal tunnel syndrome"]
+sctid = "57406009"
 qualite = "moyenne"
 draft = false
 +++
@@ -18,8 +20,7 @@ draft = false
 {{%article-summary%}}
 
 - Signes de gravité : Déficit moteur de flexion du pouce, sensitif du dermatome et amyotrophie
-- Pas de bilan en 1<sup>re</sup> intention
-- Orthèse seule en 1<sup>re</sup> intention
+- Pas de bilan et orthèse seule en 1<sup>re</sup> intention
 - Reconnaissance possible en maladie professionnelle
 
 {{%/article-summary%}}
@@ -166,7 +167,7 @@ Le pansement laisse toujours les doigts libres, pour permettre leurs mouvements.
 
 Les fils sont retirés au bout de 15 jours à 3 semaines après l’intervention. La cicatrisation de la paume de la main est en effet très longue. Et même lorsqu’on enlève les fils au bout de ce délai, il n’est pas rare de voir les 2 berges de l’incision s’écarter l’une de l’autre à la façon d’une crevasse. Cela est dû à l’épaisseur importante de la couche cornée de la peau à ce niveau, et il n’en résulte aucun inconvénient. Comme pour n’importe quelle cicatrice du corps, l’évolution s’étale sur 6 à 12 mois au moins, avec une phase de rougeur et d’induration initiale de la cicatrice pendant 2 à 3 mois.
 
-> Hôpital Saint-Louis (Paris)
+*Source. Hôpital Saint-Louis (Paris)*
 
 {{% /collapse %}}
 {{%collapse "Vidéos de formation" %}}

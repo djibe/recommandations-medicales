@@ -10,7 +10,9 @@ lastmod = 2020-07-22
 categories = ["hepato-gastro-enterologie"]
 guidelineyears = "2000"
 sources = ["Prescrire"]
-tags = ["gluten"]
+tags = ["diarrhee"]
+anglais = ["Chronic diarrhea", "chronic diarrhoea"]
+sctid = "236071009"
 draft = false
 +++
 

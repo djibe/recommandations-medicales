@@ -11,6 +11,8 @@ categories = ["nephrologie"]
 guidelineyears = "2012"
 source-recommandations = ["HAS"]
 tags = ["insuffisance renale", "risque cardiovasculaire", "HTA", "diabete"]
+anglais = ["Renal failure syndrome"]
+sctid = "42399005"
 draft = false
 +++
 

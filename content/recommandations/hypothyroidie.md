@@ -11,6 +11,8 @@ categories = ["endocrinologie"]
 guidelineyears = "2019"
 sources = ["HAS", "ANSM", "Prescrire"]
 tags = ["hypothyroidie", "TSH", "Hashimoto"]
+anglais = ["Hypothyroidism"]
+sctid = "40930008"
 draft = false
 +++
 

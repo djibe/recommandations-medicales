@@ -10,24 +10,29 @@ lastmod = 2020-07-29
 categories = ["cardiologie"]
 guidelineyears = "2017"
 sources = ["ESC", "HAS"]
-tags = ["AAA"]
+tags = ["AAA", "tabac"]
+anglais = ["Abdominal aortic aneurysm"]
+sctid = "233985008"
 draft = false
 +++
 
 {{%article-summary%}}
 
-- TODO
+- Dépistage unique en cas de facteur de risque
+  - Homme de 65 à 75 ans avec tabagisme actif ou sevré depuis < 20 ans, 
+  - Homme de 50 à 75 ans avec antécédent familial d’AAA au 1er degré (parents/fratrie)
+  - En cas d’AOMI
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Dilatation localisée d’un segment de l’aorte abdominale (le plus souvent sous-rénale) amenant à une perte de parallélisme des bords, des turbulences et ainsi la formation d’un caillot.
+L'anévrysme de l'aorte abdominale (AAA) est une dilatation localisée d’un segment de l’aorte abdominale (le plus souvent sous-rénale) amenant à une perte de parallélisme des bords, des turbulences et ainsi la formation d’un caillot.
 
 80% des anévrysmes sont de forme fusiforme, parfois sacciforme.
 
 **80% de mortalité** en AAA rompu contre 5% en intervention programmée.
 
-Pour l’histoire : Einstein et de Gaulle en sont morts.
+Pour l’histoire: Einstein et de Gaulle en sont morts.
 
 {{% /collapse %}}
 {{%collapse "Facteurs de risque" %}}

@@ -10,7 +10,9 @@ lastmod = "2016-08-10"
 categories = ["urologie"]
 guidelineyears = "2000"
 source-recommandations = []
-tags = []
+tags = ["phimosis"]
+anglais = ["Phimosis"]
+sctid = "449826002"
 qualite = "faible"
 draft = false
 +++

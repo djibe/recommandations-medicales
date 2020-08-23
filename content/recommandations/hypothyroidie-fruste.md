@@ -11,6 +11,8 @@ categories = ["endocrinologie"]
 guidelineyears = "2019"
 sources = ["HAS", "ANSM", "Prescrire"]
 tags = ["hypothyroidie", "TSH", "Hashimoto"]
+anglais = ["Subclinical hypothyroidism"]
+sctid = "54823002"
 draft = false
 +++
 
@@ -18,7 +20,8 @@ draft = false
 
 - TSH élevée avec T4L normale
 - Indications au traitement  
-TSH > 10 mUI/L, anticorps anti-TPO positifs, TSH > 4 mUI/L pendant grossesse, Traitement d'épreuve si hypothyroïdie fruste avec signes cliniques évocateurs
+TSH > 10 mUI/L, anticorps anti-TPO positifs, TSH > 4 mUI/L pendant la grossesse
+- Traitement d'épreuve si hypothyroïdie fruste avec signes cliniques évocateurs
 
 {{%/article-summary%}}
 {{%collapse "Conduite à tenir" %}}

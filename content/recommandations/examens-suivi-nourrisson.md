@@ -52,7 +52,6 @@ Examens médicaux de la naissance à 16 ans, réalisés en **tiers payant total 
 {{% /table %}}
 
 {{% /collapse %}}
-
 {{%collapse "Sources" %}}
 
 - [Ameli. Les examens de suivi médical de l'enfant et de l'adolescent. 14/11/2019](https://www.ameli.fr/medecin/sante-prevention/enfants-et-adolescents/examens-de-suivi-medical-de-lenfant-et-de-ladolescent/les-examens-de-suivi-medical-de-lenfant-et-de-ladolescent)

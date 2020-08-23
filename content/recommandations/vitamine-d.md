@@ -10,7 +10,9 @@ lastmod = 2020-02-05
 categories = ["endocrinologie"]
 guidelineyears = "2019"
 sources = ["HAS", "SFP", "Prescrire"]
-tags = ["supplementation", "cholecalciferol", "vitamine d", "osteoporose", "chute", "nourrisson"]
+tags = ["supplementation", "vitamine d", "osteoporose", "chute", "nourrisson", "enfant", "adolescent"]
+anglais = ["Vitamin D"]
+sctid = "30178006"
 qualite = "bonne"
 draft = false
 +++

@@ -7,11 +7,13 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
 lastmod = "2020-04-27"
-draft = false
 categories = ["endocrinologie"]
 guidelineyears = "2019"
 source-recommandations = ["HAS"]
 tags = ["diabete", "risque cardiovasculaire", "insuline", "retinopathie", "nephropathie", "neuropathie"]
+anglais = ["Diabetes mellitus type 2"]
+sctid = "44054006"
+draft = false
 +++
 
 {{%article-summary%}}

@@ -11,6 +11,8 @@ categories = ["addictologie"]
 guidelineyears = "2019"
 sources = ["Ameli"]
 tags = ["sevrage tabagique"]
+anglais = ["Product containing only nicotine"]
+sctid = "776904000"
 qualite = "bonne"
 draft = false
 +++

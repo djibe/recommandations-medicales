@@ -11,12 +11,14 @@ categories = ["dermatologie"]
 guidelineyears = "2000"
 sources = []
 tags = ["vitiligo"]
+anglais = ["Vitiligo"]
+sctid = "56727007"
 draft = true
 +++
 
 {{%article-summary%}}
 
-- TODO Aide en ligne au traitement de l’acné de la SFD
+- TODO
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -25,6 +27,6 @@ draft = true
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Mooijaart SP et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 30 oct 2019;1‑11.](https://jamanetwork.com/journals/jama/fullarticle/2753909)
+
 
 {{% /collapse %}}

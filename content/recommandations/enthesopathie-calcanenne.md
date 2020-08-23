@@ -11,6 +11,8 @@ categories = ["rhumatologie"]
 guidelineyears = "2002"
 sources = ["RevMedSuis"]
 tags = ["epine calcaneenne"]
+anglais = ["Heel spurs", "plantar fasciitis"]
+sctid= "202882003"
 qualite = "moyenne"
 draft = false
 +++
@@ -24,13 +26,11 @@ Enthésopathie mécanique, secondaire à des microtraumatismes répétés sur l'
 Sport (course à pied, basket-ball), surpoids, troubles de statique du pied, âge
 
 {{%/collapse%}}
-
 {{%collapse "Diagnostics différentiels" %}}
 
 Tendinopathie plantaire, talonnade, fracture de fatigue du calcaneus, bursite sous-calcanéenne, calcanéite inflammatoire ou métabolique, neuropathie du nerf calcanéen, sciatique S1 tronquée, compression de la première branche du nerf plantaire latéral, tumeur, varice plantaire.
 
 {{%/collapse%}}
-
 {{%collapse "Clinique" %}}
 
 Talalgie plantaire. Les douleurs surviennent souvent dès le lever puis s'améliorent avec récurrence en fin de journée. Parfois irradiations plantaires. Atteinte souvent bilatérale.
@@ -52,7 +52,6 @@ Palpation sous-calcanéenne (bursite), douleur médiale/latérale (osseuse), pla
 - Chaussage
 
 {{% /collapse %}}
-
 {{%collapse "Examens complémentaires" %}}
 
 ### Radiographies du talon de profil
@@ -70,8 +69,8 @@ En cas de poussées récurenttes : uricémie, glycémie à jeun
 - +/- Échographie +/- doppler veineux. Épaississement de l'aponévrose plantaire
 - Scintigraphie osseuse. Examen de 2e intention
 - Scanner/IRM. Examen de 2e intention.
-{{%/collapse%}}
 
+{{%/collapse%}}
 {{%collapse "Traitement" %}}
 
 - Repos
@@ -88,8 +87,8 @@ Massages transverses profonds, séquences de contraction isométrique, relâchem
 - Si persistance : orthèse plantaire voire infiltrations de corticoïdes.
 
 {{%/collapse%}}
-
 {{%collapse "Sources" %}}
 
 - [Fulpius T et al. Talalgies plantaires : aspects cliniques et pratiques. Rev Med Suisse 2002; volume -2. 22006](https://www.revmed.ch/RMS/2002/RMS-2384/22006)
+
 {{% /collapse %}}
