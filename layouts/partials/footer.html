@@ -120,7 +120,7 @@
     // Lists
     $('.recommandation__content > ul:not(.list-group) > li').addClass('typography-body-1');
     $('.recommandation__content .list-group').addClass('mb-4').css("width","min(100%, 768px)");
-    $('.recommandation__content .list-group li').addClass('list-group-item list-group-item-action');
+    $('.recommandation__content .list-group li:not(.list-group-divider)').addClass('list-group-item list-group-item-action');
 
     $('.recommandation__content .collapse:last-of-type a').prop('target', '_blank').prop('rel',
       'nofollow noopener');

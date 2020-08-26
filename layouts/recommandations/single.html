@@ -27,6 +27,10 @@
         <p class="typography-overline text-black-secondary mb-0">Mots-clés</p>
         <div class="d-flex flex-wrap">{{ partial "widgets/tags-render.html" . }}</div>
 
+        {{ with .Params.Sctid }}
+        <p class="typography-overline text-black-secondary mb-0">SNOMED-CT</p>
+        <p>{{ . }}</p>{{ end }}
+
         <p class="typography-overline text-black-secondary mt-4 mb-0">Autres fiches</p>
         {{ range first 4 ( where .Site.RegularPages "Section" "recommandations") }}
         <p class="typography-body-2">
@@ -61,7 +65,7 @@
               {{ end }}
             {{ end }}
 
-              <button class="ml-auto btn btn-icon text-black-secondary d-print-none d-none d-lg-block" type="button" onclick="javascript:window.print()" data-toggle="tooltip" title="Imprimer la reco"><i class="material-icons">print</i></button>
+              <button class="ml-auto btn btn-icon text-black-secondary d-print-none d-none d-lg-flex" type="button" onclick="javascript:window.print()" data-toggle="tooltip" title="Imprimer la reco"><i class="material-icons">print</i></button>
             </div>
 
             <div class="mt-4 recommandation__content">

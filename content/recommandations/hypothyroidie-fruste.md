@@ -42,14 +42,12 @@ TSH > 10 mUI/L, anticorps anti-TPO positifs, TSH > 4 mUI/L pendant la grossesse
 {{% /collapse %}}
 {{%collapse "Définition" %}}
 
-On distingue :
-
 - L'**hypothyroïdie fruste** (ou infraclinique) : **TSH élevée de façon isolée**  
 TSH > 4mUI/L à 2 reprises (espacées d'un mois) avec T4L normale.
 Chez le > 80 ans : prendre comme valeur limite haute 7 mUI/L
 - de l'[hypothyroïdie patente]({{< ref "hypothyroidie.md" >}}) : **TSH élevée et T4L diminuée**.
 
-Lorsque la TSH est modérément élevée, de 4 à 10 mUI/L, renouveler le dosage TSH + T4L
+Lorsque la TSH est modérément élevée, de 4 à 10 mUI/L, renouveler le dosage TSH + T4L à 2 mois.
 
 ### Épidémiologie
 

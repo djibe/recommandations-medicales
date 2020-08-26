@@ -16,11 +16,6 @@ sctid = "236071009"
 draft = false
 +++
 
-{{%article-summary%}}
-
-TODO
-
-{{%/article-summary%}}
 {{%collapse "Étiologie" %}}
 
 - [Maladie cœliaque]({{< ref "maladie-coeliaque.md" >}})

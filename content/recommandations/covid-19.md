@@ -19,8 +19,8 @@ draft = false
 {{%article-summary%}}
 
 - Dire **la** CoViD-19 ([Académie française](http://www.academie-francaise.fr/le-covid-19-ou-la-covid-19))
-- Port d'un masque en tissu réutilisable (référencé AFNOR S76-001) dans tous les lieux clos publics et privés collectifs ([HCSP 14/08](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=894))
-- À compter du 5 octobre 2020, les professionnels de santé doivent constituer leurs propres de stocks de moyens de protections ([DGS-Urgent 31/07](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=30950&cmd=visualiserMessage)).
+- Port d'un masque en tissu réutilisable (référencé AFNOR S76-001) dans tous les lieux clos publics et privés collectifs ([HCSP 14 aou.](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=894))
+- À compter du 5 octobre 2020, les professionnels de santé doivent constituer leurs propres de stocks de moyens de protections ([DGS-Urgent 31 juill.](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=30950&cmd=visualiserMessage)).
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -32,12 +32,14 @@ Virus à ARN de la famille des coronavirus de chauve-souris qui s’est adapté 
 
 ### Définitions du Haut Conseil de la Santé Publique
 
-- **Cas possible**  
-Personne présentant des signes cliniques évocateurs de Covid-19
-- **Cas probable**  
-Personne présentant des signes cliniques et des signes scannographiques évocateurs de Covid-19.
-- **Cas confirmé**  
-Personne, symptomatique ou non, avec  un résultat biologique confirmant l’infection par le SARS-CoV-2, par RT-PCR ou sérologie.
+Cas possible
+: Personne présentant des signes cliniques évocateurs de la Covid-19
+
+Cas probable
+: Personne présentant des signes cliniques et des signes scannographiques évocateurs de la Covid-19.
+
+Cas confirmé
+: Personne, symptomatique ou non, avec  un résultat biologique confirmant l’infection par le SARS-CoV-2, par RT-PCR ou sérologie.
 
 {{%/collapse%}}
 {{%collapse "Professionnels de santé" %}}
@@ -60,7 +62,7 @@ Personne, symptomatique ou non, avec  un résultat biologique confirmant l’inf
 {{%/collapse%}}
 {{%collapse "Vidéos" %}}
 
-### Technique de prélèvement de la COVID-19
+### Technique de prélèvement de la RT-PCR
 
 {{< youtube Aj3reT1GI_8 >}}
 
