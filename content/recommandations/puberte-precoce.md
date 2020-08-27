@@ -112,7 +112,7 @@ Action réversible quelques mois après l'arrêt du traitement.
 
 Des tests de provocation cutanée (Prick tests) sont réalisés au préalable.
 
-Tolérance du traitement:
+### Tolérance du traitement
 
 - Bonne
 - Douleurs au point point d'injection

@@ -18,7 +18,7 @@ draft = false
 
 {{%article-summary%}}
 
-- Dépistage unique en cas de facteur de risque
+- Dépistage unique par échodoppler en cas de facteur de risque
   - Homme de 65 à 75 ans avec tabagisme actif ou sevré depuis < 20 ans, 
   - Homme de 50 à 75 ans avec antécédent familial d’AAA au 1er degré (parents/fratrie)
   - En cas d’AOMI

@@ -6,7 +6,7 @@ synonyms = ["intolérance au gluten", "sprue cœliaque", "cœliaquie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-16T12:31:11+02:00
 publishdate = 2020-04-16
-lastmod = 2020-07-22
+lastmod = 2020-08-26
 categories = ["hepato-gastro-enterologie"]
 guidelineyears = "2019"
 sources = ["EssCD", "HAS", "SNFGE", "Prescrire"]
@@ -20,11 +20,17 @@ draft = false
 
 - Fréquente et possible à tout âge
 - Diagnostic par sérologie IgA anti-transglutaminase et IgA totales ou FOGD d'emblée selon la probabilité clinique sans régime
-- Éviction du gluten à vie après confirmation du diagnostic par le gastro-entérologue
+- Éviction du gluten à vie après confirmation du diagnostic par les biopsies et le gastro-entérologue
 - Disparition des symptômes après 6 à 12 mois d'éviction du gluten
 - Dépistage de l'entourage au 1er degré
 
 {{%/article-summary%}}
+{{% info %}}
+Dépistage par sérologie
+
+IgA anti-transglutaminase et IgA totales
+
+{{% /info %}}
 {{%collapse "Définition" %}}
 
 ### Maladie cœliaque MC
@@ -39,7 +45,7 @@ Maladie chronique auto-immune polyorganique affectant l’intestin grêle chez d
 
 Souvent résolutive après l’éviction du gluten.
 
-{{% /collapse %}}
+{{%/collapse%}}
 {{%collapse "Épidémiologie" %}}
 
 - Prévalence: 1% dans le monde en l'absence d'antécédents familiaux.
@@ -49,6 +55,14 @@ La maladie survient le plus souvent de 6 mois à 2 ans puis de 20 à 40 ans.
 - Elle est 2 à 3 fois plus fréquente chez la femme.
 
 {{%/collapse %}}
+{{%collapse "Complications" %}}
+
+- **Carences en micronutriments, fer, vitamine B9 et B12**.
+- Lymphome digestif
+- Surrisque de maladies auto-immunes
+- Altération de la qualité de vie
+
+{{%/collapse%}}
 {{%collapse "Facteurs de risque de maladie cœliaque" %}}
 
 - Antécédents familiaux (peu importe le degré, 10%)
@@ -125,12 +139,6 @@ La maladie survient le plus souvent de 6 mois à 2 ans puis de 20 à 40 ans.
 - Toujours : **Retard de croissance**, **diarrhée**, fonte musculaire, **anorexie**, distension abdominale.
 - Souvent : détresse émotionnelle, humeur labile, léthargie, constipation, douleurs abdominales
 
-### Complications
-
-- **Carences en micronutriments, fer, vitamine B9 et B12**.
-- Lymphome ?
-- Altération de la qualité de vie
-
 Le diagnostic est affirmé par un faisceau d'arguments cliniques, biologiques, par la biopsie du grêle **ET** par la régression de ces signes en **éviction totale du gluten**.
 
 {{%/collapse%}}
@@ -145,27 +153,21 @@ En cas de faible risque clinique.
 
 IgA anti-transglutaminase (anticorps IgA anti-TGt) ET dosage des IgA totales.
 
-- **si positif adulte : biopsies du grêle en FOGD sous AL**
-- **si positif enfant : selon profil**
-- **si négatif : évaluation par le spécialiste du profil de la maladie**
+Adresser au gastro-entérologue pour confirmation en cas de résultat positif.
 
-2. Adulte ou enfant **avec déficit en IgA connu**
-
-**IgG anti-transglutaminase** (ou IgG anti-DGP)
-
-- si positif adulte : biopsies du grêle en FOGD sous AL
-- si positif enfant : selon profil
-- si négatif : évaluation par le spécialiste du profil de la maladie
+En cas de déficit en IgA: sérologie IgG anti-TG2 et IgG anti-EMA avec FOGD.
 
 ### Biopsie du grêle en fibroscopie sous AL
 
-Indication : sérologie positive chez un adulte ou risque clinique élevé.
+Indications: sérologie positive chez un adulte ou risque clinique élevé.
 
 Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 4) et du grêle sont systématiques.
 
-**NB. La biopsie du grêle est décommandée chez l'enfant (AG nécessaire), mauvais bénéfice/risque.**
+**NB. La biopsie du grêle est décommandée chez l'enfant (AG nécessaire) par mauvais rapport bénéfice/risque.**
 
-**NB**. En cas de maladie prouvée, dépistage de tout les proches au 1<sup>er</sup> degré.
+{{% warning %}}
+En cas de maladie prouvée, dépistage de tout les proches au 1<sup>er</sup> degré.
+{{% /warning %}}
 
 ### Autres examens
 
@@ -179,7 +181,7 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 
 
 Ostéodensitométrie avant 35 ans ???
 
-{{% /collapse%}}
+{{%/collapse%}}
 {{%collapse "Traitement" %}}
 
 **NB.** Le diagnostic de certitude doit être posé par un gastro-entérologue.
@@ -245,7 +247,7 @@ Le gluten est présent dans toutes les variétés de blé, froment, épeautre, o
 
 ### Aliments sans risque
 
-- **Riz, maïs et pommes de terre**
+- **Riz, maïs et pommes de terre**, avoine
 - Lait, crème fraîche, yaourts et fromages blancs nature
 - Fromages et beurre
 - Viandes et volailles
@@ -265,6 +267,7 @@ Des  produits  diététiques  sans  gluten  sont  rem-boursés  partiellement  p
 
 - [Prescrire. Intolérance au gluten - L'essentiel sur les soins de premier choix. Janvier 2020.](//prescrire.org)
 - [EssCD. Guideline for coeliac disease and other gluten-related disorders. April 2019](//journals.sagepub.com/doi/full/10.1177/2050640619844125?utm_source=SAGE_social&hootPostID=125b0aec0fa6dfe1312e0d2a5a622756&#articleCitationDownloadContainer)
+- [Olives JP. Maladie coeliaque : de l’enfance à l’âge adulte. POST'U 2013 - Paris](https://www.fmcgastro.org/postu-main/postu-2013-paris/textes-postu-2013-paris/maladie-coeliaque-de-lenfance-a-lage-adulte/)
 - [HAS. Recherche d'anticorps dans la maladie cœliaque et suivi de l'observance du régime sans gluten. Janvier 2007](//www.has-sante.fr/upload/docs/application/pdf/synthese_maladie_coeliaque.pdf)
 - [SNFGE. Maladie cœliaque](//www.snfge.org/content/maladie-coeliaque)
 - [Asmeli. Intolérance au gluten.](//www.ameli.fr/hauts-de-seine/assure/sante/themes/intolerance-gluten-maladie-coeliaque)

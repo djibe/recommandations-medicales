@@ -46,10 +46,11 @@ Lésions correspondant à des follicules pilo-sébacés distendus.
 
 ### Lésions inflammatoires superficielles (papules et pustules) et profondes (nodules)
 
-- **Papule**  
-Élément rouge en relief, de 1 à 5 mm de diamètre, parfois sensible, évoluant vers la pustule (collection purulente blanc-jaunâtre).
-- **Nodule**  
-Plus profond, diamètre > 5mm, pouvant évoluer vers l’abcédation et la rupture.
+Papule 
+: Élément rouge en relief, de 1 à 5 mm de diamètre, parfois sensible, évoluant vers la **pustule** (collection purulente blanc-jaunâtre).
+
+Nodule
+: Plus profond, diamètre > 5mm, pouvant évoluer vers l’abcédation et la rupture.
 
 Risque de laisser des cicatrices atrophiques définitives, des cicatrices hypertrophiques ou des macules érythémateuses le plus souvent transitoires et/ou pigmentées.
 
@@ -146,23 +147,19 @@ En première intention: **Peroxyde de benzoyle 5%** en 1 application par jour.
 Effets indésirables: photosensibilité, allergie, décoloration des phanères et vêtements.
 
 {{% info %}}
-
 Curaspot® 5% gel (ou Cutacnyl, Eclaran, Effacné, Pannogel, Panoxyl, Papclair).  
 1 à 2 applications par jour sur peau propre.  
 En irritation locale forte: espacer les applications tous les 2 ou 3 jours.  
 Efficacité visible en 4-6 semaines.  
 Puis 2 à 3 applications par semaine en entretien.
-
 {{% /info %}}
 
 {{% info %}}
-
 En cas d'intolérance au peroxyde de benzoyle
 
 - Adapalène 0,1% x 1/j (cf rétentionnelle)
 - OU érythromycine 4% gel (Erythrogel®, gén) 1-2 appli/jour 3 mois + rétinoïde local (cf rétentionnelle) en application le soir si association fixe (Erylik®) ou alternance matin et soir si traitements séparés.
 - OU clindamycine 1% locale (Dalacine T Topic®, gén) 2 appli/jour + rétinoïde local (cf rétentionnelle)
-
 {{% /info %}}
 
 Autre traitement possible mais de faible efficacité: acide azélaïque gel 15% ou crème 20% x 2/j.
@@ -183,7 +180,7 @@ Selon la SFDermato, informer le patient:
 [Carnet de suivi patient sous isotrétinoïde (ANSM septembre 2015)](https://vidalbox.vidal.fr/files/uploads/resources/document_2742.pdf)
 
 {{%/collapse%}}
-{{%collapse "Outils" %}}
+{{%collapse "Outils en ligne" %}}
 
 - [SFDermato. Recommandations Acné](https://reco.sfdermato.org/fr/recommandations-acn%C3%A9)
 - [Prescrisur. Acné](https://www.prescrisur.fr/#/)

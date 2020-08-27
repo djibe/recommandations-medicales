@@ -31,14 +31,13 @@
         <p class="typography-overline text-black-secondary mb-0">SNOMED-CT</p>
         <p>{{ . }}</p>{{ end }}
 
-        <p class="typography-overline text-black-secondary mt-4 mb-0">Autres fiches</p>
+        <p class="typography-overline text-black-secondary mt-4 mb-0">Dernières fiches</p>
         {{ range first 4 ( where .Site.RegularPages "Section" "recommandations") }}
         <p class="typography-body-2">
           <a href="{{ .Permalink }}">{{ .Title }} <span class="text-muted ml-2">{{ .Lastmod.Format "2 Jan"}}</span></a>
         </p>
         {{ end }}
       </div>
-
     </aside>
     <!-- CONTENT -->
     <article class="col-lg-9 col-xl-9 offset-xl-1 order-2">

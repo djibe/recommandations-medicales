@@ -18,17 +18,23 @@ draft = true
 
 {{%article-summary%}}
 
-- Vaccination annuelle des personnes à risque de forme grave à partir de la mi-octobre (en métropole)
+- Vaccination annuelle des personnes à risque de forme grave à partir de mi-octobre (en métropole)
 
 {{%/article-summary%}}
 {{%collapse "Épidémiologie" %}}
 
-Environ 10.000 morts/an, > 90 % chez les 65+ ans.  
-Couverture vaccinale 2019-2020 des personnes ciblées estimée à 45% (objectif OMS 75%).  
-Admis en réanimation : mortalité 20%
+- Environ 10.000 morts/an, > 90 % chez les 65+ ans.
+- Couverture vaccinale 2019-2020 des personnes à risque: 45% (objectif OMS 75%).
+- Admis en réanimation : mortalité de 20%
 
 {{%/collapse%}}
 {{%collapse "Personnes à risque de grippe grave" %}}
+
+{{% info %}}
+Vaccination annuelle en octobre pour ces personnes.
+
+Influvac Tetra 1 dose
+{{% /info %}}
 
 - Personnes de plus de 65 ans
 - Femmes enceintes

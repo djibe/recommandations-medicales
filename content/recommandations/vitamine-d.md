@@ -19,13 +19,21 @@ draft = false
 
 {{%collapse "Définition" %}}
 
-- **Carence de l'adulte et de l'enfant** (risque élevé de rachitisme): taux sérique de vitamine D < 30 nmol/L (SI)
-- **Déficit** de l’adulte et de l’enfant:  30 < taux sérique < 50 nmol/L
-- Seuil de toxicité: taux sérique > 375 nmol/L.
+L'unité internationale est le **nmol/L**.
+
+Carence de l'adulte et de l'enfant (risque élevé de rachitisme)
+: Taux sérique de vitamine D < 30 nmol/L.
+
+Déficit de l’adulte et de l’enfant
+: 30 < taux sérique < 50 nmol/L.
+
+Seuil de toxicité
+: Taux sérique > 375 nmol/L.
 Ne pas supplémenter au-delà 150 nmol/L.
-- **À tous les âges, des apports quotidiens de 1000 UI/j sont recommandés**
-- Participe à la régulation du métabolisme phosphocalcique et prévient:  **rachitisme, ostéomalacie, douleurs musculaires diffuses**.
-- Bénéfices de la supplémentation : réduit les fractures non vertébrales des +65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 30 ng/mL.
+
+- **À tous les âges, des apports quotidiens de 1000 UI/j sont recommandés**.
+- La vitamine D participe à la régulation du métabolisme phosphocalcique et prévient:  **rachitisme, ostéomalacie, douleurs musculaires diffuses**.
+- Bénéfices de la supplémentation: réduit les fractures non vertébrales des +65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 30 ng/mL.
 - Selon des travaux récents de l’Inserm, une carence en vitamine D serait fortement liée au développement de la maladie d’Alzheimer. D’autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés.
 
 {{%/collapse%}}
@@ -36,12 +44,6 @@ Ne pas supplémenter au-delà 150 nmol/L.
 
 {{%/collapse%}}
 {{%collapse "Patients à risque" %}}
-
-### Objectifs pour les personnes à risque
-
-1. Taux ≥ 75 nmol/L avec dosage initial
-1. Protocole de correction rapide
-1. Apports calciques ≥ 1g/j
 
 ### Personnes à risque de complications:
 
@@ -54,6 +56,12 @@ Hyperparathyroïdie
 - [Insuffisance rénale chronique]({{< ref "insuffisance-renale-chronique.md" >}})
 - Sujets âgés à risque de chute
 
+### Objectifs pour les personnes à risque
+
+1. Taux ≥ 75 nmol/L avec dosage initial
+1. Protocole de correction rapide
+1. Apports calciques ≥ 1g/j
+
 {{%/collapse%}}
 {{%collapse "Apports cibles selon l'âge" %}}
 
@@ -65,31 +73,31 @@ Supplémentation quotidienne 1000-1200 UI/j (avec un peu de lait) jusqu'à 18 mo
 soit ZymaD® buvable en 3-4 gouttes par jour (300 UI/goutte).
 
 - **Allaitement artificiel**  
-Enfant à terme et lait enrichi en vitD : 600-800 UI/j soit ZymaD® 2-3 gouttes/j.  
-Enfant à terme et lait non enrichi en vitD : 100-1200 UI/j soit ZymaD® 3-4 gouttes/j.  
-Prématuré : 800-1000 UI/j soit 3 gouttes/j.
+  - Enfant à terme et lait enrichi en vitD : 600-800 UI/j soit ZymaD® 2-3 gouttes/j.  
+  - Enfant à terme et lait non enrichi en vitD : 100-1200 UI/j soit ZymaD® 3-4 gouttes/j.  
+  - Prématuré: 800-1000 UI/j soit 3 gouttes/j.
 
 - **18 mois à 5 ans**  
 80 à 100.000 UI en novembre ET février,  
-soit ZymaD® 80.000 UI 1 amp ou Uvedose® 100.000 UI 1 amp
+soit ZymaD® 80.000 UI/Uvedose® 100.000 UI 1 amp.
 
 - 5 ans à 10 ans  
 Études en cours.
 
 - **10 à 18 ans**  
 Idem 18 mois à 5 ans OU 200.000 UI en 1 fois durant l'hiver,  
-soit ZymaD® 200.000 UI 1 amp ou Uvedose® 100.000 UI 2 amp
+soit ZymaD® 200.000 UI 1 amp ou Uvedose® 100.000 UI 2 amp.
 
 - **Grossesse**  
 80 à 100.000 UI au début du 7e mois de grossesse  
-soit ZymaD® 80.000 UI 1 amp ou Uvedose® 100.000 UI 1 amp
+soit ZymaD® 80.000 UI/Uvedose® 100.000 UI 1 amp
 
 - **Adulte**  
 Cible de 25(OH)D = 50 nmol/L.
 
 - **Adulte > 65 ans**  
 Supplémentation de correction systématique  
-Cible de 25(OH)D = 75 nmol/L
+Cible de 25(OH)D = 75 nmol/L.
 
 - **Adulte dépendant, fragile, IRC/syndrome néphrotique, malabsorption digestive/cholestase, risque de chute**  
 Apports naturels généralement insuffisants.  
@@ -119,7 +127,7 @@ et aussi
 - Enfants à peau pigmentée sans supplémentation avec arcature des membres inférieurs (SFD)
 - Bilan initial de maladie rénale chronique (HAS 02/2012)
 
-- probablement pour tous les épileptiques et diabétiques
+- Probablement pour tous les épileptiques et diabétiques
 
 En dehors des 6 indications, préciser sur l’ordonnance la raison.  
 En dosage de complaisance, préciser « Non remboursable » sur la prescription (11,34€, code 35 B).  
@@ -176,4 +184,5 @@ Intensification si :
 - [HAS. Utilité clinique du dosage de la vitamine D. Octobre 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-02/utilite_clinique_du_dosage_de_la_vitamine_d_-_note_de_cadrage.pdf)
 - [Société Française de Pédiatrie. La Vitamine D : une vitamine toujours d’actualité chez l’enfant et l’adolescent. Mise au point par le Comité de nutrition de la Société française de pédiatrie. 2012.](https://afpa.org/content/uploads/2017/07/Reco_VIT_D_VersionFR_VF.pdf)
 - [HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
+
 {{% /collapse %}}
