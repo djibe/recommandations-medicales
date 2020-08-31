@@ -1,6 +1,6 @@
 +++
 title = "Vitiligo"
-prefix = "le"
+prefix = "le "
 shortname = "Vitiligo"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

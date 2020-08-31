@@ -83,6 +83,7 @@ h4 {
 }
 
 .recommandation__content ul:not(.list-group) {
+  list-style: disc outside;
   margin-bottom: 1rem;
   padding-left: 1.25rem;
   width: min(100%, 760px);
@@ -92,7 +93,7 @@ h4 {
   color: #424242;
 }
 
-.recommandation__content ul:not(.list-group) li
+.recommandation__content ul:not(.list-group) li,
 .recommandation__content ol li {
   font-size: 1rem;
   font-weight: 400;

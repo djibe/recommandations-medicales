@@ -1,6 +1,6 @@
 +++
 title = "Aides sociales"
-prefix = "les"
+prefix = "les "
 shortname = "Aides"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

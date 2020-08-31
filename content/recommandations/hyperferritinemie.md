@@ -11,8 +11,8 @@ categories = ["hepato-gastro-enterologie"]
 guidelineyears = "2000"
 sources = ["FMC"]
 tags = ["ferritine", "hemochromatose", "syndrome metabolique"]
-anglais = []
-sctid = ""
+anglais = ["Hyperferritinemia"]
+sctid = "390943009"
 draft = true
 +++
 

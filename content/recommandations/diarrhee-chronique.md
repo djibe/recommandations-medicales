@@ -1,6 +1,6 @@
 +++
 title = "Diarrhée chronique"
-prefix = "la"
+prefix = "la "
 shortname = "Diarrhée chro"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

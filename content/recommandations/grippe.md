@@ -1,6 +1,6 @@
 +++
 title = "Grippe"
-prefix = "la"
+prefix = "la "
 shortname = "grippe"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
@@ -10,7 +10,7 @@ lastmod = 2020-08-23
 categories = ["infectiologie"]
 guidelineyears = "2020"
 sources = ["HAS", "MinSante"]
-tags = ["grippe"]
+tags = ["grippe", "vaccin"]
 anglais = ["influenza", "flu"]
 sctid = "6142004"
 draft = true
@@ -18,7 +18,9 @@ draft = true
 
 {{%article-summary%}}
 
-- Vaccination annuelle des personnes à risque de forme grave à partir de mi-octobre (en métropole)
+- Vaccination annuelle des personnes à risque de forme grave à partir de mi-octobre (en métropole)  
+ainsi que toutes les personnes fragiles pour la Covid-19
+- Adjoindre le vaccin Pneumocoque pour les 65+ ans.
 
 {{%/article-summary%}}
 {{%collapse "Épidémiologie" %}}
@@ -98,6 +100,7 @@ Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
 {{%collapse "Sources" %}}
 
 - [HAS. Vaccination antigrippale : la stratégie de la prochaine campagne annuelle réaffirmée dans le contexte de l’épidémie de COVID-19. 02/06/2020](https://www.has-sante.fr/jcms/p_3187536/fr/vaccination-antigrippale-la-strategie-de-la-prochaine-campagne-annuelle-reaffirmee-dans-le-contexte-de-l-epidemie-de-covid-19)
+- [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe !. 13/05/2020](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
 - [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](//solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
 
 {{% /collapse %}}

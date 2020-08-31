@@ -1,6 +1,6 @@
 +++
 title = "Hommes ayant des rapports sexuels avec des hommes"
-prefix = "les"
+prefix = "les "
 shortname = "HSH"
 synonyms = ["Homosexuel ou bisexuel masculin"]
 auteurs = ["Jean-Baptiste FRON"]

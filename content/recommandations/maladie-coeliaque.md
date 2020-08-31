@@ -10,7 +10,7 @@ lastmod = 2020-08-26
 categories = ["hepato-gastro-enterologie"]
 guidelineyears = "2019"
 sources = ["EssCD", "HAS", "SNFGE", "Prescrire"]
-tags = ["coeliaque", "allergie", "intolerance", "gluten", "auto-immun", "FOGD"]
+tags = ["coeliaque", "allergie", "intolerance", "gluten", "auto-immun", "EOGD"]
 anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac gluten sensitivity (NCGS) and extra-intestinal manifestations related to gluten)", "celiac"]
 sctid = "396331005"
 draft = false
@@ -19,7 +19,7 @@ draft = false
 {{%article-summary%}}
 
 - Fréquente et possible à tout âge
-- Diagnostic par sérologie IgA anti-transglutaminase et IgA totales ou FOGD d'emblée selon la probabilité clinique sans régime
+- Diagnostic par sérologie IgA anti-transglutaminase et IgA totales ou EOGD d'emblée selon la probabilité clinique sans régime
 - Éviction du gluten à vie après confirmation du diagnostic par les biopsies et le gastro-entérologue
 - Disparition des symptômes après 6 à 12 mois d'éviction du gluten
 - Dépistage de l'entourage au 1er degré
@@ -155,7 +155,7 @@ IgA anti-transglutaminase (anticorps IgA anti-TGt) ET dosage des IgA totales.
 
 Adresser au gastro-entérologue pour confirmation en cas de résultat positif.
 
-En cas de déficit en IgA: sérologie IgG anti-TG2 et IgG anti-EMA avec FOGD.
+En cas de déficit en IgA: sérologie IgG anti-TG2 et IgG anti-EMA avec EOGD.
 
 ### Biopsie du grêle en fibroscopie sous AL
 
