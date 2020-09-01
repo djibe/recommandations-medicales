@@ -26,12 +26,11 @@ draft = false
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-### SARS-Cov-2
+SARS-Cov-2
+: Virus à ARN de la famille des coronavirus de chauve-souris qui s’est adapté très récemment à l’Homme. L’existence d’un réservoir animal intermédiaire reste à ce jour débattue.
 
-Virus à ARN de la famille des coronavirus de chauve-souris qui s’est adapté très récemment à l’Homme. L’existence d’un réservoir animal intermédiaire reste à ce jour débattue.
-
-
-### Définitions du Haut Conseil de la Santé Publique
+CoViD-19 (la)
+: 
 
 Cas possible
 : Personne présentant des signes cliniques évocateurs de la Covid-19
@@ -41,6 +40,16 @@ Cas probable
 
 Cas confirmé
 : Personne, symptomatique ou non, avec  un résultat biologique confirmant l’infection par le SARS-CoV-2, par RT-PCR ou sérologie.
+
+{{%/collapse%}}
+{{%collapse "Personnes à risque de forme grave" %}}
+
+- Âge >= 65 ans et plus  
+De 50 à 65 ans: surveillance plus rapprochée
+- Pathologie respiratoire chronique  
+Broncho pneumopathie obstructive, asthme sévère, fibrose pulmonaire, syndrome d'apnées du sommeil, mucoviscidose notamment);Antécédents cardiovasculaires : hypertension artérielle compliquée (complications cardiaques, rénales    et    vasculo-cérébrales),  antécédents  d’accident  vasculaire  cérébral  ou  de coronaropathie, de chirurgie cardiaque, insuffisance cardiaque stade NYHA III ou IV;Diabète chronique non équilibré ou avec complications;Insuffisance rénale chronique dialysée ;Cancer évolutif sous traitement (hors hormonothérapie)Cirrhose ≥ stade B ;Immunodépression : Médicamenteuse  :  chimiothérapie  anti  cancéreuse,immunosuppresseur,  biothérapie et/ou corticothérapie à dose immunosuppressive;Infection à VIH non contrôlé ou avec des CDA < 200/mm3;Greffe d’organe solide ou de cellules souches hématopoïétique;Hémopathie maligne en cours de traitement;Obésité IMC > 30;Syndrome drépanocytaire majeur en raison d’un risque accru de surinfection bactérienne ou de syndrome thoracique aigu ou ayant un antécédent de splénectomie;Grossesseà partir du 3èmetrimestre.
+
+Source: HCSP
 
 {{%/collapse%}}
 {{%collapse "Séquelles" %}}

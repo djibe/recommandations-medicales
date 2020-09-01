@@ -109,6 +109,10 @@ h4 {
   margin-top: .5rem;
 }
 
+.recommandation__content .alert:last-child {
+  margin-bottom: 0;
+}
+
 dl, dt {
   font-size: 1rem;
 }

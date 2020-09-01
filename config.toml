@@ -43,8 +43,8 @@ title = "L'Univ médicale"
   material_css = "css/material.min.css"
   material_js = "js/material.min.js"
   css =         "css/style.css"
-  bs_js =       "https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/js/bootstrap.bundle.min.js"
-  bs_js_hash =  "sha256-Xt8pc4G0CdcRvI0nZ2lRpZ4VHng0EoUDMlGcBSQ9HiQ="
+  bs_js =       "https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"
+  bs_js_hash =  "sha256-9nt4LsWmLI/O24lTW89IzAKuBqEZ47l/4rh1+tH/NY8="
   jquery =      "https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
   jquery_hash = "sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
   md_font =     "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Comfortaa:wght@400;700&display=swap&family=Material+Icons+Outlined"
@@ -55,7 +55,7 @@ title = "L'Univ médicale"
   #datetime = "2006-01-02T15:04:05Z0700"  # html ISO 8601 datetimeformat
 
 [minify]
-  minifyOutput = false
+  minifyOutput = true
 
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md

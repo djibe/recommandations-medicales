@@ -137,6 +137,21 @@ Réalisé sous IPP double dose.
 Cure courte d’anti-H2 ou IPP ½ dose.
 
 {{%/collapse%}}
+{{%collapse "Conduite à tenir" "show" %}}
+
+{{< mermaid >}}
+graph TB
+  atypique[Symptômes atypiques<br>Signes d'alarme] --> EOGD
+  typique[Symptômes typiques] --> 50-(< 50 ans)
+  typique --> 50+("#ge; 50 ans")
+    50+ --> EOGD(EOGD)
+    50- --> RHD(RHD<br>Alginates<br>IPP 1/2 dose cure courte)
+    RHD -.-> typIncomplet(Échec/rechute précoce)
+    typIncomplet --> EOGD
+    EOGD --> csGastro(Consultation gastro-entérologue)
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
 - [SNFGE. Guide patient: Le reflux gastro-œsophagien](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/reflux_gastro-oesophagien_snfge-cregg_2017.pdf)
