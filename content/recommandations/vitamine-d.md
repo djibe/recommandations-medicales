@@ -131,7 +131,7 @@ et aussi
 
 En dehors des 6 indications, préciser sur l’ordonnance la raison.  
 En dosage de complaisance, préciser « Non remboursable » sur la prescription (11,34€, code 35 B).  
-{{%class "text-muted" %}}92 millions d’euros de dosages de vitamine D en 2011.  
+{{%class%}}92 millions d’euros de dosages de vitamine D en 2011.  
 NB. Il n'y a pas d'utilité prouvée à doser la vitamine D en-dehors de ces situations. {{%/class %}}
 
 {{% /collapse %}}

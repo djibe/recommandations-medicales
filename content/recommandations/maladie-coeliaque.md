@@ -37,7 +37,7 @@ IgA anti-transglutaminase et IgA totales
 
 Maladie chronique auto-immune polyorganique affectant l’intestin grêle chez des personnes génétiquement prédisposées, déclenchée par l’ingestion de **gluten**.
 
-- {{%class "text-muted"%}} Peut être classée en sous-types selon des critères cliniques, immunologiques et histopathologiques.{{%/class%}}
+- {{%class%}} Peut être classée en sous-types selon des critères cliniques, immunologiques et histopathologiques.{{%/class%}}
 - La majorité des patients n’est pas diagnostiquée.
 - À l’origine d’une malabsorption et ses complications.
 
@@ -149,7 +149,7 @@ Le diagnostic est affirmé par un faisceau d'arguments cliniques, biologiques, p
 En cas de faible risque clinique.
 
 **Réalisée à jeun pendant exposition au gluten**.  
-{{%class "text-muted" %}}De 32 à 156.000 devraient être réalisées chaque année.{{%/class%}}
+{{%class %}}De 32 à 156.000 devraient être réalisées chaque année.{{%/class%}}
 
 IgA anti-transglutaminase (anticorps IgA anti-TGt) ET dosage des IgA totales.
 

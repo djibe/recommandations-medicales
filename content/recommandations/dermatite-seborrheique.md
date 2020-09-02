@@ -8,7 +8,7 @@ date = 2020-09-01T22:39:41+02:00
 publishdate = 2020-09-01
 lastmod = 2020-09-01
 categories = ["dermatologie"]
-guidelineyears = "2000"
+guidelineyears = "2011"
 sources = ["CEDEF"]
 tags = ["VIH"]
 anglais = ["Seborrheic dermatitis"]
@@ -157,6 +157,23 @@ Ciclopirox, kétoconazole, dermocroticoïdes, sulfure de sélénium, AINS, acide
 {{% /warning %}}
 
 {{% /collapse %}}
+{{%collapse "Conduite à tenir" "show" %}}
+
+{{< mermaid >}}
+graph TB
+  suspicion[Suspicion de dermatite séborrhéique] --> diagnostic(Diagnostic clinique<br>de DS)
+  style suspicion stroke:#6200ee, stroke-width:1px
+  suspicion -- Diagnostic différentiel --> differentiel(Psoriasis<br>Rosacée<br>Dermatite atopique<br>Syphilis)
+  diagnostic --> scalp(Cuir chevelu<br>Ciclopirox shampooing 1%<br>OU kétoconazole gel 2%)
+  diagnostic --> face(Face et tronc<br>Kétoconazole gel/crème 2% x 2/sem<br>OU ciclopirox crème 1% x 2/j)
+  diagnostic --> grossesse(Grossesse<br>TODO)
+  scalp --> attaque(Phase d'attaque<br>Traitement 2 à 4 sem)
+  face --> attaque
+  attaque --> entretien(Phase d'entretien)
+  entretien -.-> severe(Sévère et résistant<br>Sérologie VIH<br>Avis dermatologue)
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
 Maladie chronique bénigne, évoluant par poussées.  

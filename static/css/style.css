@@ -109,7 +109,7 @@ h4 {
   margin-top: .5rem;
 }
 
-.recommandation__content .alert:last-child {
+.recommandation__content .alert > :last-child {
   margin-bottom: 0;
 }
 
@@ -237,4 +237,9 @@ a:hover {
   background: var(--primary);
 	color: white;
   transition: color 100ms 200ms, background-color 100ms 200ms;
+}
+
+/* Plugins */
+.mermaid {
+  margin-bottom: 24px;
 }

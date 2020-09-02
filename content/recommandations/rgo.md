@@ -78,7 +78,7 @@ Aucun examen devant des signes typiques et l'absence de signe d'alarme.
 
 ### Endoscopie œso-gastro-duodénale (EOGD)
 
-{{%class "text-muted"%}} Apport diagnostique limité par les IPP en amont qui cicatrisent l'œsophagite. {{%/class%}}
+{{%class%}} Apport diagnostique limité par les IPP en amont qui cicatrisent l'œsophagite. {{%/class%}}
 
 #### Indications à l'EOGD
 
@@ -141,7 +141,8 @@ Cure courte d’anti-H2 ou IPP ½ dose.
 
 {{< mermaid >}}
 graph TB
-  atypique[Symptômes atypiques<br>Signes d'alarme] --> EOGD
+  RGO[Suspicion de RGO] --> atypique
+  RGO --> typique
   typique[Symptômes typiques] --> 50-(< 50 ans)
   typique --> 50+("#ge; 50 ans")
     50+ --> EOGD(EOGD)
@@ -149,6 +150,7 @@ graph TB
     RHD -.-> typIncomplet(Échec/rechute précoce)
     typIncomplet --> EOGD
     EOGD --> csGastro(Consultation gastro-entérologue)
+  atypique[Symptômes atypiques<br>Signes d'alarme] --> EOGD
 {{< /mermaid >}}
 
 {{%/collapse%}}

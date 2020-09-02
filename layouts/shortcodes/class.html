@@ -1,1 +1,1 @@
-<span class="{{ .Get 0 }}">{{ .Inner }}</span>
+<span class="{{ if .Get 0 }}{{ .Get 0 }}{{ else }}text-muted{{ end }}">{{ .Inner }}</span>

@@ -30,7 +30,7 @@ SARS-Cov-2
 : Virus à ARN de la famille des coronavirus de chauve-souris qui s’est adapté très récemment à l’Homme. L’existence d’un réservoir animal intermédiaire reste à ce jour débattue.
 
 CoViD-19 (la)
-: 
+: Coronavirus Disease 2019 ou Maladie à Coronavirus 2019
 
 Cas possible
 : Personne présentant des signes cliniques évocateurs de la Covid-19

@@ -18,8 +18,8 @@ draft = false
 
 {{%article-summary%}}
 
-- Pas de dépistage systématique en population générale
-- Doser la TSH seule en cas de symptômes évocateurs
+- Pas de dépistage systématique en population générale.
+- Doser la TSH seule en cas de symptômes évocateurs.
 - Traitement par LT : dosage de la TSH à 6 semaines et adaptation par paliers de 12µg toutes les 6 à 12 semaines sur critères clinico-TSH.
 
 {{%/article-summary%}}
@@ -186,7 +186,7 @@ Signes résolutifs sous lévothyroxine.
 Délai avant amélioration des symptômes de **2 semaines après instauration du traitement**. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
 
 **NB. Le traitement ne doit pas être débuté sans dosage préalable de la TSH**  
-{{%class "text-muted"%}}(30% des traitements introduits sans TSH).{{%/class%}}
+{{%class %}}(30% des traitements introduits sans TSH).{{%/class%}}
 
 ### Lévothyroxine sodique (opothérapie substitutive)
 
@@ -194,9 +194,12 @@ Délai avant amélioration des symptômes de **2 semaines après instauration du
 
 #### Débuter le traitement
 
-Initier à 1,7 µg/kg/j chez l'adulte (1,3 sujet âgé ; 2 chez l'enfant ; coronarien 12,5 à 25 µg/j).
+{{% info %}}
+Initier à 1,7 µg/kg/j chez l'adulte.  
+{{% class %}}Sujet âgé: 1,3 | Enfant: 2 | Coronarien 12,5 à 25 µg/j).{{% /class %}}
 
-**Adaptation par paliers de 12 µg.**
+Adaptation par paliers de 12 µg.
+{{% /info %}}
 
 #### Spécialités disponibles
 
