@@ -2,7 +2,7 @@
 title = "Eczéma de contact"
 prefix = "l'"
 shortname = "Eczéma de contact"
-synonyms = []
+synonyms = ["Dermatite allergique de contact"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-01T10:58:41+02:00
 publishdate = 2020-09-01
@@ -16,9 +16,11 @@ sctid = ""
 draft = true
 +++
 
+Nickel +++
+
 {{%article-summary%}}
 
-- Un eczéma
+- Un eczéma (nom masculin)
 
 {{%/article-summary%}}
 

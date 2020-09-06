@@ -55,7 +55,7 @@ title = "L'Univ médicale"
   #datetime = "2006-01-02T15:04:05Z0700"  # html ISO 8601 datetimeformat
 
 [minify]
-  minifyOutput = true
+  minifyOutput = false
 
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md

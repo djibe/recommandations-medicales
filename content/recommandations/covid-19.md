@@ -39,17 +39,33 @@ Cas probable
 : Personne présentant des signes cliniques et des signes scannographiques évocateurs de la Covid-19.
 
 Cas confirmé
-: Personne, symptomatique ou non, avec  un résultat biologique confirmant l’infection par le SARS-CoV-2, par RT-PCR ou sérologie.
+: Personne, symptomatique ou non, avec un résultat biologique confirmant l’infection par le SARS-CoV-2, par RT-PCR ou sérologie.
 
 {{%/collapse%}}
 {{%collapse "Personnes à risque de forme grave" %}}
 
-- Âge >= 65 ans et plus  
+Principaux: HTA, les pathologies cardiaques et le diabète.
+
+- Âge ≥ 65 ans  
 De 50 à 65 ans: surveillance plus rapprochée
 - Pathologie respiratoire chronique  
-Broncho pneumopathie obstructive, asthme sévère, fibrose pulmonaire, syndrome d'apnées du sommeil, mucoviscidose notamment);Antécédents cardiovasculaires : hypertension artérielle compliquée (complications cardiaques, rénales    et    vasculo-cérébrales),  antécédents  d’accident  vasculaire  cérébral  ou  de coronaropathie, de chirurgie cardiaque, insuffisance cardiaque stade NYHA III ou IV;Diabète chronique non équilibré ou avec complications;Insuffisance rénale chronique dialysée ;Cancer évolutif sous traitement (hors hormonothérapie)Cirrhose ≥ stade B ;Immunodépression : Médicamenteuse  :  chimiothérapie  anti  cancéreuse,immunosuppresseur,  biothérapie et/ou corticothérapie à dose immunosuppressive;Infection à VIH non contrôlé ou avec des CDA < 200/mm3;Greffe d’organe solide ou de cellules souches hématopoïétique;Hémopathie maligne en cours de traitement;Obésité IMC > 30;Syndrome drépanocytaire majeur en raison d’un risque accru de surinfection bactérienne ou de syndrome thoracique aigu ou ayant un antécédent de splénectomie;Grossesseà partir du 3èmetrimestre.
+Broncho pneumopathie obstructive, asthme sévère, fibrose pulmonaire, syndrome d'apnées du sommeil, mucoviscidose
+- Antécédents cardiovasculaires
+Hypertension artérielle compliquée (complications cardiaques, rénales et vasculo-cérébrales),  antécédents d’accident vasculaire cérébral ou de coronaropathie, de chirurgie cardiaque, insuffisance cardiaque stade NYHA III ou IV
+- Diabète chronique non équilibré ou avec complications
+- Insuffisance rénale chronique dialysée
+- Cancer évolutif sous traitement (sauf hormonothérapie seule)
+- Cirrhose ≥ stade B
+- Immunodépression
+  - Médicamenteuse: chimiothérapie anti-cancéreuse, immunosuppresseur, biothérapie et/ou corticothérapie à dose immunosuppressive
+  - Infection à VIH non contrôlée ou avec des CDA < 200/mm3
+  - Greffe d’organe solide ou de cellules souches hématopoïétique
+  - Hémopathie maligne en cours de traitement
+- Obésité
+- Syndrome drépanocytaire majeur en raison d’un risque accru de surinfection bactérienne ou de syndrome thoracique aigu ou ayant un antécédent de splénectomie
+- Grossesse au 3<sup>e</sup> trimestre
 
-Source: HCSP
+Source HCSP 20/04
 
 {{%/collapse%}}
 {{%collapse "Séquelles" %}}

@@ -20,7 +20,7 @@ draft = false
 {{%article-summary%}}
 
 - Tracer les courbes à chaque consultation
-- Avis spécialisé lors d'apparition précoce de CS II (< 8 ans fille/9 ans garçon)
+- Avis spécialisé lors d'apparition précoce de caractères sexuels secondaires (< 8 ans fille/9 ans garçon)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -57,7 +57,7 @@ Développement isolé des seins sans:
 
 Ordre d'apparition des caractères sexuels secondaires:
 
-- Filles. Seins > poils pubiens > 1res règles
+- Filles. Seins > poils pubiens > 1<sup>res</sup> règles
 - Garçons. Testicules (> 4 mL) > Pénis > Poils pubiens
 
 {{% /collapse %}}

@@ -55,7 +55,7 @@
             {{ end }}
 
             {{ with .Lastmod }}        
-              <span class="chip chip-outline">Mise à jour {{ if eq .Year now.Year }}{{ .Format "2 Jan" }}{{ else }}{{ .Format "2 Jan 2006" }}{{ end }}</span>
+              <span class="chip chip-outline">Mise à jour <time class="ml-1" datetime="{{.Format "2006-01-02T15:04:05Z07:00" | safeHTML}}">{{ if eq .Year now.Year }}{{ .Format "2 Jan" }}{{ else }}{{ .Format "2 Jan 2006" }}{{ end }}</time></span>
             {{ end }}
 
             {{- range .Params.auteurs }}

@@ -14,7 +14,7 @@ tags = ["VIH"]
 anglais = ["Seborrheic dermatitis"]
 sctid = "50563003"
 draft = false
-todo = "Arbre ttt, ttt grossesse"
+todo = "ttt grossesse"
 +++
 
 {{%article-summary%}}

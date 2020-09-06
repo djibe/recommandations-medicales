@@ -122,6 +122,10 @@ a:hover {
   text-decoration: none;
 }
 
+.card-subtitle::first-letter {
+  text-transform: uppercase;
+}
+
 .text-404 {
   color: #ffffff;
   font-family: Roboto, sans-serif;

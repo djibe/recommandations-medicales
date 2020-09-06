@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!--<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">-->
-  <meta name="description" content="{{ if .IsPage }}{{ printf "%s %s %s %s %s%s" "Les recommandations pour" .Params.prefix (lower .Title) "en" (now.Format "2006") ". Conduite à tenir en consultation et bilan de 1ère intention pour les médecins généralistes"}}{{ else if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="description" content="{{ if .IsPage }}{{ printf "%s %s %s %s %s%s" "Les recommandations pour" .Params.prefix (lower .Title) "en" (now.Format "2006") ". Conduite à tenir en consultation et bilan de première intention pour les médecins généralistes."}}{{ else if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta name="keywords" content="{{with .Params.tags}}{{delimit . "," }}{{ end }}">
   <meta name="author" content="{{with .Params.auteurs}}{{delimit . "," }}{{ end }}">
   {{ hugo.Generator }}

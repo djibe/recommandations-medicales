@@ -13,7 +13,7 @@ sources = ["HAS", "MinSante"]
 tags = ["grippe", "vaccin"]
 anglais = ["influenza", "flu"]
 sctid = "6142004"
-draft = true
+draft = false
 +++
 
 {{%article-summary%}}

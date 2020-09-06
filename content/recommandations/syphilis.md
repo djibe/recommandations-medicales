@@ -8,12 +8,13 @@ date = 2020-09-02T08:27:41+02:00
 publishdate = 2020-09-02
 lastmod = 2020-09-02
 categories = ["dermatologie", "infectiologie"]
-guidelineyears = "2000"
+guidelineyears = "2016"
 sources = []
 tags = ["IST"]
-anglais = []
-sctid = ""
-draft = true
+anglais = ["Syphilis"]
+sctid = "76272004"
+draft = false
+todo = "arbre ttt"
 +++
 
 {{%article-summary%}}
@@ -142,13 +143,103 @@ Autres signes:
 - Varicelle
 
 {{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
+
+- Sérologie syphilis  
+Les sérologies se positivent quelques jours après le début du chancre et atteignent un titre maximum vers 6 mois, correspondant à la phase secondaire si elle est présente.  
+Le diagnostic sérologique est plus difficile en recontamination du fait de la positivité des anticorps.  
+{{% class %}}Test tréponémique unique depuis 2015, anciennement TPHA + VDRL.{{% class %}}
+- {{% class %}}Examen au microscope à fond noir de prélèvement lésionnel  
+Permet diagnostic immédiat mais prélèvement nécessite expertise.{{% class %}}
+- Sérologies et prélèvements des autres IST
+
+{{% warning %}}Une sérologie négative n’élimine pas une syphilis primaire.{{% /warning %}}
+
+{{% /collapse %}}
 {{%collapse "Prévention" %}}
 
 Port du préservatif avec tout partenaire en l'absence de bilan d'IST récent des 2 partenaire. Également si multi-partenaires. 
 
 {{% /collapse %}}
+{{%collapse "Traitement" %}}
+
+### Syphilis précoce
+
+- Hospitalisation si signes neurologiques
+- Antibiothérapie  
+**Benzathine pénicilline G (BPG) 2,4 MU en dose unique IM** (fesse/cuisse face latérale)  
+OU 2 injections IM de 1,2 MU.  
+Administration intra-musculaire exclusivement (ni IV, ni SC).  
+Garder le patient sous surveillance pendant 30 minutes en présence de matériel d’urgence.    
+Contre-indications : Allergie bêtalactamines, anticoagulants.  
+Prévenir de la réaction d’Herxeimer, associer du paracétamol systématique.
+
+{{% info %}}Affirmer la guérison est impossible, nécessité de surveiller les patients pendant plusieurs années.  
+Répéter les sérologies dans les populations à risque (contaminées ou non).{{% /info %}}
+
+#### Situations particulières
+
+- Allergie aux bêtalactamines  
+doxycycline 100 mg x 2/jour per os pendant 14 jours  
+Contre-indications: enfant < 8 ans, grossesse
+- Anticoagulants  
+Idem Allergie aux bêtalactamines
+- Patient VIH
+Schéma BPG
+- Grossesse
+Schéma BPG  
+ET prévention de la réaction d’Herxeimer (paracétamol)  
+± prednisone 0,5 mg/kg la veille et les 3 jours suivants l’injection en cas de syphilis secondaire profuse.
+- Congénital  
+Hospitalisation
+- Signes neurologiques, ophtalmo ou auditifs  
+Hospitaliser pour ponction lombaire et traiter comme une neurosyphilis
+- Avis infectiologue si cas problématique
+
+### Traitement du partenaire
+
+Syphilis certaine chez patient source: examiner le contact.
+
+- Si contact ≥ 6 semaines: sérologie  
+Si positive: traiter, sinon refaire la sérologie à 3 mois.
+- Si contact < 6 semaines: sérologie et traiter systématiquement le contact
+- Syphilis douteuse chez patient source: examiner le contact et sérologie  
+Si positive: traiter, sinon refaire à 3 mois.
+
+### Syphilis tardive
+
+1 injection de Benzathine pénicilline G (BPG) 2,4 MU IM par semaine pendant 3 semaines lorsque l’infection date de plus d’un an ou est impossible à dater.
+
+- Pas d’alternative à la pénicilline G chez la femme enceinte. Désensibilisation si nécessaire.
+- Allergie aux bêtalactamines  
+Doxycycline 100 mg x 2/jour per os pendant 28 jours
+
+{{% /collapse %}}
+{{%collapse "Surveillance du traitement" %}}
+
+### Clinique
+Disparition du chancre ou de l’éruption en 3 à 15 jours.
+
+### Sérologique
+
+VDRL à 3 mois, 6 mois (taux divisé par 4), 1 an (négatif si primaire) puis 1/an jusqu’à négativation (négatif à 2 ans si secondaire).  
+Toutefois la décroissance du VDRL dans la syphilis latente précoce (ou en cas de recontamination) n’est pas franche pour 1/4 des patients.
+
+{{% info %}} La négativation du VDRL est considérée comme le meilleur critère de guérison.{{% /info %}}
+
+On parle de **recontamination** lorsque le VDRL est multiplié d’un facteur ≥ 4.
+      
+Le TPHA ne se négative que rarement sauf chez le patient VIH+. Il n’est pas utilisé dans la surveillance.
+
+{{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](//solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+- [Académie Nationale de Médecine. La Syphilis en France en 2016 : une situation précoccupante. 2017.](http://www.academie-medecine.fr/wp-content/uploads/2017/03/17.3.7-JANIER-site.pdf)
+- [Société Française de Dermatologie. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement Transmissibles. Février 2016](http://www.sfdermato.org/media/pdf/recommandation/syphilis-precoce-b61913fb8de5bca222326904654c6b30.pdf)
+- [Organisation Mondiale de la Santé. La résistance aux antibiotiques oblige à actualiser les recommandations sur le traitement des infections sexuellement transmissibles. Août 2016.](http://www.who.int/mediacentre/news/releases/2016/antibiotics-sexual-infections/fr/)
+- [Santé Publique France. Infections Sexuellement Transmissibles. Décembre 2015.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/notices/bulletin-des-reseaux-de-surveillance-des-infections-sexuellement-transmissibles-ist-au-31-decembre-2016)
+- [Haute Autorité de Santé. Modification de la Nomenclature des actes de biologie médicale pour les actes de recherche du Treponema pallidum. Mai 2015.](https://www.has-sante.fr/portail/upload/docs/application/pdf/2015-05/argumentaire_syphilis_vd.pdf)
+- [Société de Pathologie Infectieuse de Langue Française. Alternatives pour le traitement des syphilis non neurologiques dans un contexte de rupture de stock de benzathine pénicilline ± doxycycline. Février 2014.](http://www.infectiologie.com/UserFiles/File/spilf/recos/2014-traitement-syphilis.pdf)
+- [Inpes. Dépistage du VIH et des IST – État des connaissances avril 2005 – Actualisation novembre 2007. Avril 2005.](http://inpes.santepubliquefrance.fr/CFESBases/catalogue/pdf/829.pdf)
 
 {{% /collapse %}}
