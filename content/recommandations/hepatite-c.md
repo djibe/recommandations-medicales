@@ -13,7 +13,7 @@ sources = ["HAS"]
 tags = ["hepatite"]
 anglais = ["Viral hepatitis type C"]
 sctid = "50711007"
-draft = true
+draft = false
 +++
 
 {{%article-summary%}}
