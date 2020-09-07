@@ -219,6 +219,7 @@ Par le gastro-entérologue et le diététicien spécialisé.
 {{% /collapse%}}
 {{%collapse "Information du patient" %}}
 
+- [Proposer de participer à la cohorte ComPare de l'APHP](https://compare.aphp.fr/participer/je-participe.html)
 - Éviction définitive et maximale du gluten
 - Aliments à éviter
 - Gestes culinaires et de conservation des aliments
