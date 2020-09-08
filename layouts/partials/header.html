@@ -22,6 +22,8 @@
   <noscript>
     <link rel="stylesheet" {{ printf "href=%q" .Site.Params.cdn.md_font | safeHTMLAttr }}>
   </noscript>
+
+  <link rel="stylesheet" {{ printf "href=%q" .Site.Params.cdn.md_icons | safeHTMLAttr }}>
   
   <link rel="stylesheet" href="{{ .Site.Params.cdn.material_css | absURL}}">
   <link rel="stylesheet" href="{{ .Site.Params.cdn.css | absURL }}">

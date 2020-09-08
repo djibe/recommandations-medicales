@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-06T20:18:41+02:00
 publishdate = 2020-09-06
-lastmod = 2020-09-06
+lastmod = 2020-09-07
 categories = ["infectiologie"]
 guidelineyears = "2019"
 sources = ["HAS"]
@@ -177,6 +177,7 @@ graph TB
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
+- [Proposer de participer à la cohorte ComPare de l'APHP](https://compare.aphp.fr/participer/je-participe.html)
 - Maladie grave pouvant être guérie le plus souvent
 - Les soins liés à la maladie et ses complications sont intégralement remboursés
 - Informations sur les modes de transmission
