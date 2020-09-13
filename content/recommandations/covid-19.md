@@ -21,6 +21,7 @@ draft = false
 - Dire **la** CoViD-19 ([Académie française](http://www.academie-francaise.fr/le-covid-19-ou-la-covid-19))
 - Vacciner grippe + pneumocoque les personnes fragiles
 - Port d'un masque en tissu réutilisable (référencé AFNOR S76-001) dans tous les lieux clos publics et privés collectifs ([HCSP 14 aou.](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=894))
+- Pas de certificat pour le retour à l'école
 - À compter du 5 octobre 2020, les professionnels de santé doivent constituer leurs propres de stocks de moyens de protections ([DGS-Urgent 31 juill.](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=30950&cmd=visualiserMessage)).
 
 {{%/article-summary%}}
@@ -103,9 +104,9 @@ Atteintes possibles après une infection à Sars-Cov-2.
 [*Source DGS-Urgent 20/08/2020*](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=31000&cmd=visualiserMessage)
 
 {{% /collapse %}}
-{{%collapse "Examens complémentaires" %}}
+{{%collapse "Certificats" %}}
 
-
+> “L’Ordre rappelle que les médecins n’ont pas à établir de certificat médical pour le retour à l’école”. [CNOM. 11/09/2020](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificat-medical-lecole)
 
 {{%/collapse%}}
 {{%collapse "Vidéos" %}}
@@ -119,7 +120,8 @@ Atteintes possibles après une infection à Sars-Cov-2.
 
 ### Ile-de-France
 
-- [COVI Contact. Suivi des personnes infectées ou en isolement.](https://www.iledefrance.ars.sante.fr/covi-contact-solution-de-telesuivi-et-dappui-des-personnes-isolees)
+- [COVI Contact. Suivi des personnes infectées ou en isolement.](https://www.iledefrance.ars.sante.fr/covi-contact-solution-de-telesuivi-et-dappui-des-personnes-isolees)  
+Le suivi est initié par l'ARS sans intervention du médecin.
 - [Covidom. Suivi des personnes infectées](https://inscription.covidom.fr/1)
 
 {{%/collapse%}}
@@ -127,11 +129,31 @@ Atteintes possibles après une infection à Sars-Cov-2.
 
 ### Ile-de-France
 
-- Obtenir un test RT-PCR dans les 24h pour symptômatiques ou cas contacts: 0800 08 02 25 (7j/7 9h-20h. Uniquement sur appel du médecin) 
+Obtenir un test RT-PCR dans les 24h pour symptômatiques ou cas contacts:  
+**0800 08 02 25**  
+{{%class%}}(7j/7 9h-20h. Uniquement sur appel du médecin){{%/class%}}
 
 {{%/collapse%}}
+{{%collapse "Conduite à tenir" "show"%}}
+
+{{< mermaid >}}
+graph TB
+  adulte[Adulte et Enfant > 6 ans<br>sans fragilité] --> contact(Cas Contact<br>Isolement durant analyse) --Test+--> isolementContact(Isolement 7J<br>À compter du contact) --> retour
+  style adulte stroke:#6200ee, stroke-width:1px
+  adulte --> symptomatique(Symptomatique<br>= Cas possible<br>Isolement durant analyse) --Test+--> isolementSymptomatique(Isolement 7J<br>À compter du J1 des symptômes) -.-> fievrePersistante(Fièvre persistante à J7) --> isolementFievre(Isolement +48h) --> retour(Travail)
+  isolementSymptomatique --> retour
+  adulte --> asymptomatique(Asymptomatique<br>testé positif) --> isolementAsympt(Isolement 7J<br>À compter du jour du test) -.-> devSympt(Apparition de symptômes) --> isolementSymptomatique
+  contact --Test- --> retour
+  symptomatique --Test- --> retour
+{{< /mermaid >}}
+
+> DGS Urgent. 2020-INF-46.
+
+{{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- DGS-URGENT N°2020-INF- 46 : Durée d’isolement et de quarantaine des cas confirmés de Covid-19 et des personnes contact à risque. 12/09/2020
+- [SFP. COVID19 et écoles - Propositions de la Société Française de Pédiatrie. 09/09/2020](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/Recommandations_09092020.pdf)
 - [HCSP. Rapport relatif à l’actualisation de la prise en charge des patients atteints de Covid-19. 20/08/2020](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=899)
 - [Journal Officiel. Arrêté du 24 juillet 2020 modifiant l'arrêté du 10 juillet 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de covid-19 dans les territoires sortis de l'état d'urgence sanitaire et dans ceux où il a été prorogé. 25/07/2020](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000042148309&categorieLien=id)
 - [Académie nationale de Médecine. Avis: Les séquelles de la Covid-19. 15/07/2020](http://www.academie-medecine.fr/wp-content/uploads/2020/07/Se%CC%81quelles-Avis.pdf)

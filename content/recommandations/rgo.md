@@ -142,6 +142,7 @@ Cure courte d’anti-H2 ou IPP ½ dose.
 {{< mermaid >}}
 graph TB
   RGO[Suspicion de RGO] --> atypique
+  style RGO stroke:#6200ee, stroke-width:1px
   RGO --> typique
   typique[Symptômes typiques] --> 50-(< 50 ans)
   typique --> 50+("#ge; 50 ans")
