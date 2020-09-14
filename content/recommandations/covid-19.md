@@ -18,11 +18,11 @@ draft = false
 
 {{%article-summary%}}
 
-- Dire **la** CoViD-19 ([Académie française](http://www.academie-francaise.fr/le-covid-19-ou-la-covid-19))
 - Vacciner grippe + pneumocoque les personnes fragiles
-- Port d'un masque en tissu réutilisable (référencé AFNOR S76-001) dans tous les lieux clos publics et privés collectifs ([HCSP 14 aou.](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=894))
+- Port d'un masque en tissu réutilisable (norme AFNOR S76-001) dans tous les lieux clos publics et privés collectifs ([HCSP 14/08](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=894))
 - Pas de certificat pour le retour à l'école
-- À compter du 5 octobre 2020, les professionnels de santé doivent constituer leurs propres de stocks de moyens de protections ([DGS-Urgent 31 juill.](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=30950&cmd=visualiserMessage)).
+- À compter du 5 octobre 2020, les professionnels de santé doivent constituer leurs propres de stocks de moyens de protections ([DGS-Urgent 31/07](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=30950&cmd=visualiserMessage)).
+- Dire **la** CoViD-19 ([Académie française](http://www.academie-francaise.fr/le-covid-19-ou-la-covid-19))
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -138,16 +138,30 @@ Obtenir un test RT-PCR dans les 24h pour symptômatiques ou cas contacts:
 
 {{< mermaid >}}
 graph TB
-  adulte[Adulte et Enfant > 6 ans<br>sans fragilité] --> contact(Cas Contact<br>Isolement durant analyse) --Test+--> isolementContact(Isolement 7J<br>À compter du contact) --> retour
+  adulte[Adulte et Enfant > 6 ans<br>sans fragilité] --> contact(Cas Contact<br>Isolement 7J<br>À compter du contact<br>) --> testJ7("Test à J7<br>(Immédiat si je vis avec)<br>Isolement jusqu'aux résultats") --Test+--> isolementContact(Isolement 7J sup.<br>À compter du test) --> retour
   style adulte stroke:#6200ee, stroke-width:1px
-  adulte --> symptomatique(Symptomatique<br>= Cas possible<br>Isolement durant analyse) --Test+--> isolementSymptomatique(Isolement 7J<br>À compter du J1 des symptômes) -.-> fievrePersistante(Fièvre persistante à J7) --> isolementFievre(Isolement +48h) --> retour(Travail)
+  testJ7 --Test- --> retour
+  adulte --> symptomatique(Symptomatique<br>= Cas possible<br>Isolement durant analyse) --Test+--> isolementSymptomatique(Isolement 7J<br>À compter du J1 des symptômes) -.-> fievrePersistante(Fièvre persistante à J7) --> isolementFievre(Isolement +48h) --> retour(Travail<br>ou École)
   isolementSymptomatique --> retour
   adulte --> asymptomatique(Asymptomatique<br>testé positif) --> isolementAsympt(Isolement 7J<br>À compter du jour du test) -.-> devSympt(Apparition de symptômes) --> isolementSymptomatique
-  contact --Test- --> retour
   symptomatique --Test- --> retour
 {{< /mermaid >}}
 
+À la reprise:
+
+- Port rigoureux du masque (chirurgical si test +)
+- Suivi scrupuleux des mesures d’hygiène de la distanciation physique pendant la semaine qui suit la levée de l’isolement
+- Éviter tout contact avec des personnes à risque de forme grave.
+
 > DGS Urgent. 2020-INF-46.
+
+{{< mermaid >}}
+graph TB
+  enfant[Enfant < 6 ans<br>sans fragilité] --"Suspicion si &ge; 1 parmi"--> symptomes("Fièvre > 38&deg;C, irritabilité inhabituelle, tachycardie, marbrures<br>Toux fébrile, polypnée, gène respiratoire<br>Diarrhées") --Signes de gravité? --> gravite
+  style enfant stroke:#6200ee, stroke-width:1px
+{{< /mermaid >}}
+
+> [SFP. COVID19 et écoles - Propositions de la Société Française de Pédiatrie. 09/09/2020](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/Recommandations_09092020.pdf)
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

@@ -48,21 +48,21 @@ RCV
 : Risque cardiovasculaire
 
 {{%/collapse%}}
-{{%collapse "Indications" %}}
+{{%collapse "Indications par grade" %}}
 
 ### Épreuve d'effort recommandée
 
 - Probabilité pré-test de coronaropathie **Intermédiaire**
 - Probabilité pré-test de coronaropathie **Élevée**
-- Coronaropathe  
+- Coronaropathie  
 Pour prescription adaptée d'activité physique et réadaptation cardiaque
 - Symptômes à l'effort  
 Syncope, fatigue anormale, palpitations
-- En insuffisance cardiaque
+- Insuffisance cardiaque
   - Pour optimiser l'entraînement à l'effort (EEVO<sub>2</sub>).
   - Pour évaluer la capacité fonctionnelle et préciser l'indication d'une assistance ventriculaire ou d'une transplantation cardiaque (EEVO<sub>2</sub>).
 - HTAP  
-Au diagnostic puis tous les 6-12 mois (EEVO<sub>2</sub>).
+Au diagnostic puis tous les 6 à 12 mois (EEVO<sub>2</sub>).
 - AOMI
 - HTA avec angor et ECG normal
 - Diabète avec angor et ECG normal
