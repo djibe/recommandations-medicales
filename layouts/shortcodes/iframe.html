@@ -1,0 +1,10 @@
+<div class="border rounded">
+  <iframe
+    class="border-0"
+    src="{{ .Get "url" }}"
+    allowfullscreen
+    {{ with .Get "width" }} width="{{ . }}"{{ else }} width="100%" {{ end }}
+    {{ with .Get "height" }} height="{{ . }}"{{ else }} height="600px" {{ end }}
+    laoding="lazy"
+  ></iframe>
+</div>

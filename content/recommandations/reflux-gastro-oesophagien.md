@@ -27,7 +27,7 @@ todo = "Médicaments et doses"
 {{%/article-summary%}}
 {{%collapse "Signes d'alarme" %}}
 
-{{%warning%}}
+{{%danger%}}
 Signes de gravité nécessitant la réalisation d'examens complémentaires.
 
 - Amaigrissement
@@ -36,7 +36,7 @@ Signes de gravité nécessitant la réalisation d'examens complémentaires.
 - Hémorragie digestive
 - Vomissements répétés
 - Échec du traitement
-{{%/warning%}}
+{{%/danger%}}
 
 {{%/collapse%}}
 {{%collapse "Définition" %}}
@@ -252,6 +252,11 @@ Favorisée par l'obésité et une hernie hiatale.
 - Maladie très fréquente atteignant régulièrement 10% de la population.
 - Du fait de l'absence de clapet, le traitement consiste à éviter de faire remonter le contenu gastrique grâce aux mesures d'hygiènes
 - Mais aussi par les médicaments qui diminuent l'acidité gastrique.
+
+{{%/collapse%}}
+{{%collapse "FMC" %}}
+
+[Zerbib F. Diagnostic actuel du RGO : Consensus de Lyon (GUT 2018). POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-actuel-du-rgo-consensus-de-lyon-gut-2018/)
 
 {{%/collapse%}}
 {{%collapse "Vidéos" %}}

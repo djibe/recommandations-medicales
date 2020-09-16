@@ -121,6 +121,9 @@ dl {
 dd {
   margin-bottom: 1rem;
 }
+dd + dd {
+  margin-top: -0.5rem;
+}
 
 a:hover {
   cursor: pointer;

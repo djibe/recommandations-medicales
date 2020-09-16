@@ -21,20 +21,9 @@ draft = true
 
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
-
-
-
-{{% /collapse %}}
 {{%collapse "Risque de fracture (calcul du FRAX)" %}}
 
-<div class="border rounded">
-  <iframe class="border-0" src="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" allowfullscreen width="100%" height="600px" laoding="lazy"></iframe>
-</div>
-
-{{% /collapse %}}
-{{%collapse "Prévention" %}}
-
+{{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" >}}
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
@@ -50,32 +39,12 @@ draft = true
 {{% /collapse %}}
 {{%collapse "Vidéos" %}}
 
-<figure class="figure">
-<video poster="http://www.grio.org/videos/osteoporose-et-les-signes-d-appel.jpg" width="320" height="240" preload="metadata" controls>
-	<source src="http://www.grio.org/videos/osteoporose-et-les-signes-d-appel.mp4" type="video/mp4">
-	<source src="http://www.grio.org/videos/osteoporose-et-les-signes-d-appel.webm" type="video/webm">
-  Votre navigateur ne lit pas les vidéos.
-</video>
- <figcaption class="figure-caption">GRIO. L'Ostéoporose et les signes d'appel.</figcaption>
-</figure>
+{{< video poster="http://www.grio.org/videos/osteoporose-et-les-signes-d-appel.jpg" mp4="http://www.grio.org/videos/osteoporose-et-les-signes-d-appel.mp4" webm="http://www.grio.org/videos/osteoporose-et-les-signes-d-appel.webm" description="GRIO. L'Ostéoporose et les signes d'appel." >}}
 
-<figure class="figure">
-<video poster="http://www.grio.org/videos/le-diagnostic-de-l-osteoporose.jpg" width="320" height="240" preload="metadata" controls>
-	<source src="http://www.grio.org/videos/le-diagnostic-de-l-osteoporose.mp4" type="video/mp4">
-	<source src="http://www.grio.org/videos/le-diagnostic-de-l-osteoporose.webm" type="video/webm">
-  Votre navigateur ne lit pas les vidéos.
-</video>
- <figcaption class="figure-caption">GRIO. Le diagnostic de l'ostéoporose.</figcaption>
-</figure>
+{{< video poster="http://www.grio.org/videos/le-diagnostic-de-l-osteoporose.jpg" mp4="http://www.grio.org/videos/le-diagnostic-de-l-osteoporose.mp4" webm="http://www.grio.org/videos/le-diagnostic-de-l-osteoporose.webm" description="GRIO. Le diagnostic de l'ostéoporose." >}}
 
-<figure class="figure">
-<video poster="http://www.grio.org/videos/prevenir-l-osteoporose.jpg" width="320" height="240" preload="metadata" controls>
-	<source src="http://www.grio.org/videos/prevenir-l-osteoporose.mp4" type="video/mp4">
-  <source src="http://www.grio.org/videos/prevenir-l-osteoporose.webm" type="video/webm">
-  Votre navigateur ne lit pas les vidéos.
-</video>
- <figcaption class="figure-caption">GRIO. Prévenir l'ostéoporose.</figcaption>
-</figure>
+{{< video poster="http://www.grio.org/videos/prevenir-l-osteoporose.jpg" mp4="http://www.grio.org/videos/prevenir-l-osteoporose.mp4" webm="http://www.grio.org/videos/prevenir-l-osteoporose.webm" description="GRIO. Prévenir l'ostéoporose." >}}
+
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 

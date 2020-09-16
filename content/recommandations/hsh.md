@@ -32,7 +32,7 @@ HSH: Homme ayant des rapports sexuel avec des hommes.
 
 Surexposition au VIH (prévalence 13%), syphilis (80 % des cas), HPV, hépatite A, autres IST (voir fiches ad-hoc).
 
-- **45% déclarent plus de 10 partenaires par an**
+- **45% des personnes fréquentant les milieux sociaux HSH (bars, backrooms) déclarent plus de 10 partenaires par an**
 - 1/3 n’utilise pas de préservatif
 - 20% ont une utilisation concomitante de produits psychoactifs
 
