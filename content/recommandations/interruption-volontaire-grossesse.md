@@ -23,6 +23,7 @@ todo = "liste centres"
 - Calcul de la DDR + examen gynécologique + groupe sanguin + échographie pelvienne systématiques
 - Possible en ville avant 7 SA  
 [Extension exceptionnelle Covid jusqu'à 9 semaines](https://www.has-sante.fr/jcms/p_3179352/fr/la-has-valide-l-extension-de-l-ivg-medicamenteuse-a-domicile-jusqu-a-9-semaines)
+- Liste des centres et praticiens pour l'IVG: [ivglesadressess.org](https://www.ivglesadresses.org/) ou numéro d'information 0 800 08 11 11
 
 
 {{%/article-summary%}}
