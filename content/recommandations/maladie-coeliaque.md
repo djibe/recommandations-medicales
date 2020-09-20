@@ -264,6 +264,11 @@ Logo présent sur les produits sans gluten
 Des  produits  diététiques  sans  gluten  sont  rem-boursés  partiellement  par  l’assurance  maladie  française sous certaines conditions.
 
 {{% /collapse%}}
+{{%collapse "FMC" %}}
+
+[Olives JP. Maladie coeliaque : de l’enfance à l’âge adulte. POST'U 2013 - Paris](https://www.fmcgastro.org/postu-main/postu-2013-paris/textes-postu-2013-paris/maladie-coeliaque-de-lenfance-a-lage-adulte/)
+
+{{% /collapse%}}
 {{%collapse "Sources" %}}
 
 - [Prescrire. Intolérance au gluten - L'essentiel sur les soins de premier choix. Janvier 2020.](//prescrire.org)

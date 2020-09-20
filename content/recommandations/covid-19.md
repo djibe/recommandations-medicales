@@ -19,9 +19,9 @@ draft = false
 {{%article-summary%}}
 
 - Vacciner grippe + pneumocoque les personnes fragiles
-- Port d'un masque en tissu réutilisable (norme AFNOR S76-001) dans tous les lieux clos publics et privés collectifs ([HCSP 14/08](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=894))
+- Port d'un masque en tissu réutilisable (norme AFNOR S76-001) dans tous les lieux clos publics et privés collectifs ([HCSP 14.08](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=894))
 - Pas de certificat pour le retour à l'école
-- À compter du 5 octobre 2020, les professionnels de santé doivent constituer leurs propres de stocks de moyens de protections ([DGS-Urgent 31/07](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=30950&cmd=visualiserMessage)).
+- À compter du 5 octobre 2020, les professionnels de santé doivent constituer leurs propres de stocks de moyens de protections ([DGS-Urgent 31.07](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=30950&cmd=visualiserMessage)).
 - Dire **la** CoViD-19 ([Académie française](http://www.academie-francaise.fr/le-covid-19-ou-la-covid-19))
 
 {{%/article-summary%}}
@@ -31,10 +31,10 @@ SARS-Cov-2
 : Virus à ARN de la famille des coronavirus de chauve-souris qui s’est adapté très récemment à l’Homme. L’existence d’un réservoir animal intermédiaire reste à ce jour débattue.
 
 CoViD-19 (la)
-: Coronavirus Disease 2019 ou Maladie à Coronavirus 2019
+: Coronavirus Disease 2019 ou Maladie à Coronavirus 2019.
 
 Cas possible
-: Personne présentant des signes cliniques évocateurs de la Covid-19
+: Personne présentant des signes cliniques évocateurs de la Covid-19.
 
 Cas probable
 : Personne présentant des signes cliniques et des signes scannographiques évocateurs de la Covid-19.

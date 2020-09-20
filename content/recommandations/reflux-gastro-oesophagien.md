@@ -254,16 +254,16 @@ Favorisée par l'obésité et une hernie hiatale.
 - Mais aussi par les médicaments qui diminuent l'acidité gastrique.
 
 {{%/collapse%}}
-{{%collapse "FMC" %}}
-
-[Zerbib F. Diagnostic actuel du RGO : Consensus de Lyon (GUT 2018). POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-actuel-du-rgo-consensus-de-lyon-gut-2018/)
-
-{{%/collapse%}}
 {{%collapse "Vidéos" %}}
 
 ### Traitement du reflux gastro-œsophagien
 
 {{< youtube Kf2iGE3aUrI >}}
+
+{{%/collapse%}}
+{{%collapse "FMC" %}}
+
+[Zerbib F. Diagnostic actuel du RGO : Consensus de Lyon (GUT 2018). POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-actuel-du-rgo-consensus-de-lyon-gut-2018/)
 
 {{%/collapse%}}
 {{%collapse "Sources" %}}

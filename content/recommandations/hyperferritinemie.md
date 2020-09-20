@@ -47,6 +47,11 @@ Concentration hépatique en fer (IRM) < 100 µmol/g
   - Autres: syndrome paranéoplasique, hyperthyroïdie, maladie de Gaucher, maladie de Still
 
 {{% /collapse %}}
+{{%collapse "FMC" %}}
+
+[Bardou Jacquet E. Hyperferritinémie non hémochromatosique : diagnostic et prise en charge. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/hyperferritinemie-non-hemochromatosique-diagnostic-et-prise-en-charge/)
+
+{{% /collapse%}}
 {{%collapse "Sources" %}}
 
 - [Bardou Jacquet E. Hyperferritinémie non hémochromatosique : diagnostic et prise en charge. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/hyperferritinemie-non-hemochromatosique-diagnostic-et-prise-en-charge/)

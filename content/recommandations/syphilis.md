@@ -19,18 +19,34 @@ todo = "arbre ttt"
 
 {{%article-summary%}}
 
-- Évoquer un chancre devant toute ulcération génitale.
-- Sérologies des IST
+- Évoquer un chancre devant toute ulcération génitale
+- Sérologies des autres IST
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Maladie infectieuse à transmission principalement sexuelle par contact avec une lésion génitale de la bactérie **treponema pallidum** (fellation comprise), ou materno-fœtale.  
+Maladie infectieuse à transmission directe principalement sexuelle par contact avec une lésion génitale (fellation comprise) de la bactérie **treponema pallidum** (spirochète, trépanomatose), ou materno-fœtale.  
 La contamination lors de la grossesse entraîne des complications graves chez le fœtus.
 
 La majorité des cas survient chez les [HSH]({{< ref "hsh.md" >}}) (86% des cas en 2013, +56% entre 2013 et 2015) et entre 20 et 29 ans.
 
-Co-infection VIH dans 1/4 des cas.
+**Co-infection VIH** dans 1/4 des cas.
+
+---
+
+Syphilis précoce
+: Évolution datant de moins d’un an (J1 étant le 1er jour du chancre).  
+**Risque de contagion le plus important** (charge en tréponèmes +++).  
+Elle comprend:
+- la syphilis primaire
+- la syphilis sérologique
+- la syphilis secondaire
+: L’atteinte neurologique parenchymateuse est exceptionnelle.
+
+Syphilis tardive
+: Syphilis tertiaire ou latente datant de plus d’un an.
+
+---
 
 Syphilis primaire
 : Présence du **chancre syphilitique**.  
@@ -44,20 +60,8 @@ Constitue la majorité des syphilis datant de moins d’un an.
 Syphilis secondaire
 : Manifestations cliniques essentiellement cutanéo-muqueuses dans l’année qui suit le chancre.
 
-Syphilis précoce
-: Évolution datant de moins d’un an (J1 étant le 1er jour du chancre).  
-**Risque de contagion le plus important** (charge en tréponèmes +++).  
-Elle comprend:
-- la syphilis primaire
-- la syphilis sérologique
-- la syphilis secondaire
-:L’atteinte neurologique parenchymateuse est exceptionnelle.
-
 Syphilis tertiaire
 : Complications neurologiques, oculaires et cardiovasculaires.
-
-Syphilis tardive
-: Syphilis tertiaire ou latente datant de plus d’un an.
 
 {{% /collapse %}}
 {{%collapse "Qui dépister?" %}}
@@ -89,14 +93,14 @@ Syphilis tardive
 ### Syphilis primaire = Chancre
 
 Constant mais non vu en atteinte profonde (cervico-vaginale, rectale, pharyngée).  
-Lésion unique, muqueuse, indurée, indolore, superficielle et propre mais peut prendre tout autre aspect. Cicatrisation complète sans cicatrice.  
+Lésion unique, muqueuse, indurée, indolore, superficielle, propre et très contagieuse mais peut prendre tout autre aspect. Cicatrisation complète sans cicatrice.  
 On parle de syphilis primo-secondaire quand le chancre persiste durant l’éruption secondaire.
 
-Adénopathie régionale qui ne fistulise pas.
+Adénopathie régionale (inguinale) qui ne fistulise pas.
 
 Invasion du LCR du système nerveux sans atteinte parenchymateuse.
 
-{{% warning %}}Évoquer un chancre devant toute ulcération génitale.{{% /warning %}}
+{{% info %}}Évoquer un chancre devant toute ulcération génitale.{{% /info %}}
 
 ### Syphilis secondaire
 
@@ -104,10 +108,15 @@ Inconstante (1/3 des patients), survient en cas de syphilis primaire non traité
 
 Atteinte cutanée préférentielle:
 
-- 1<sup>re</sup> floraison: roséole
-- 2<sup>e</sup> floraison: syphilides cutanées papulo-squameuses
+- 1<sup>re</sup> floraison: roséole syphilitique  
+Discrètes macules rosées non prurigineuses des tronc, cou, racine des membres. Épargne le visage.  
+Régression en 1-2 mois sans séquelles
+- 2<sup>e</sup> floraison: syphilides cutanées papulo-squameuses  
+Papules non prurigineuses, rouge brun, collerette squameuse (de Biett) des visages, OGE, palmo-plantaire symétrique.  
+Évolution par poussées.
 
-**Toutes les lésions élémentaires dermatologiques sont possibles sauf vésicules et bulles.**
+**Toutes les lésions élémentaires dermatologiques sont possibles sauf vésicules et bulles.**  
+Ex: Dépilation des sourcils, lésions d'aspect séborrhéiques des sillons naso-géniens, papules acnéiformes du menton, alopécie en petite plaques
 
 **Lésions prédominantes sur tronc et visage**, prurit rare.
 

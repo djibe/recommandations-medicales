@@ -100,8 +100,9 @@ Tester l'imputabilité sur [Pneumotox](https://www.pneumotox.com/drug/index/).
   - Retentissement physique ou psycho-social
   - Toux insomniante, émétisante, asthéniante
   - Fractures de côte, douleur musculaire aiguë, révélation/majoration de hernie ou prolapsus
-  - Perte d’urines, céphalées, perte de connaissance,
-- Caractères de la toux  
+  - Perte d’urines, céphalées, perte de connaissance
+- Signes de gravité (voir chapitre ci-dessus)
+- Caractères de la toux
   - Rythme nyctéméral et saisonnier
   - Symptômes ORL associés
   - Facteurs aggravants et calmants

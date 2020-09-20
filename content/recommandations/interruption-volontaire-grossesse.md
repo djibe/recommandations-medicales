@@ -19,17 +19,18 @@ todo = "liste centres"
 
 {{%article-summary%}}
 
-- Temps de réflexion d'une semaine
-- Calcul de la DDR + examen gynécologique + groupe sanguin + échographie pelvienne systématiques
-- Possible en ville avant 7 SA  
-[Extension exceptionnelle Covid jusqu'à 9 semaines](https://www.has-sante.fr/jcms/p_3179352/fr/la-has-valide-l-extension-de-l-ivg-medicamenteuse-a-domicile-jusqu-a-9-semaines)
-- Liste des centres et praticiens pour l'IVG: [ivglesadressess.org](https://www.ivglesadresses.org/) ou numéro d'information 0 800 08 11 11
+- Temps de réflexion d'une semaine.
+- Calcul de la DDR + examen gynécologique + groupe sanguin + échographie pelvienne systématiques.
+- Possible en ville avant 7 SA.  
+[Extension exceptionnelle Covid jusqu'à 9 semaines](https://www.has-sante.fr/jcms/p_3179352/fr/la-has-valide-l-extension-de-l-ivg-medicamenteuse-a-domicile-jusqu-a-9-semaines).
+- Liste des centres et praticiens pour l'IVG: [ivglesadressess.org](https://www.ivglesadresses.org/) ou numéro d'information 0 800 08 11 11.
 
 
 {{%/article-summary%}}
 {{%collapse "Calcul du terme" %}}
 
 {{< outils/terme >}}
+> Calcul du terme par [MonCalendrierDeGrossesse.fr](https://www.moncalendriergrossesse.fr/).
 
 {{% /collapse %}}
 {{%collapse "Introduction" %}}
@@ -58,7 +59,7 @@ Pic chez **20-29 ans** avec 27 IVG/1000 femmes.
 
 {{% info %}}
 - Anti-progestérone mifépristone 600 mg par voie orale (Mifégyne® 200mg cp)
-- Prostaglandine misoprostol 400 µg par voie orale 36-48h plus tard (Cytotec®/Gymiso® 200µg cp)  
+- Prostaglandine misoprostol 400 µg par voie orale 36-48h plus tard (Gymiso® 200µg cp)  
 ou géméprost 1 mg par voie vaginale (Cervageme® 1 mg ovule, réservé à l'usage hospitalier)
 {{% /info %}}
 
@@ -145,7 +146,6 @@ Contraception efficace adaptée pour tous les couples en âge de procréer en l'
 - [HAS. La HAS valide l’extension de l’IVG médicamenteuse à domicile jusqu’à 9 semaines. 10/04/2020](https://www.has-sante.fr/jcms/p_3179352/fr/la-has-valide-l-extension-de-l-ivg-medicamenteuse-a-domicile-jusqu-a-9-semaines)
 - [Drees. 224300 interruptions volontaires de grossesse en 2018. Septembre 2019.](https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/publications/etudes-et-resultats/article/224-300-interruptions-volontaires-de-grossesse-en-2018)
 - [CNGOF.  Contraception – Recommandations pour la pratique clinique. 2018](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique?folder=RPC%2BCOLLEGE%252F2018)
-- [ANSM. Cytotec (misoprostol) : arrêt de commercialisation à compter du 1er mars 2018 – Communiqué. 20 octobre 2017.](http://ansm.sante.fr/S-informer/Actualite/Cytotec-misoprostol-arret-de-commercialisation-a-compter-du-1er-mars-2018-Communique)
 - [HAS. Interruption volontaire de grossesse par méthode médicamenteuse. Décembre 2010.](https://www.has-sante.fr/portail/upload/docs/application/pdf/2011-04/ivg_methode_medicamenteuse_-_recommandations_-_mel_2011-04-28_11-39-11_882.pdf)
 
 {{% /collapse %}}
