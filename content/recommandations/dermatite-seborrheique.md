@@ -20,17 +20,19 @@ todo = "ttt grossesse"
 {{%article-summary%}}
 
 - Le diagnostic est clinique
+- Ciclopirox ou kétoconazole
 - Dépister le VIH en forme grave
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{% collapse "Définition" %}}
 
 Dermatite séborrhéique (DS)
 : Dermatose chronique **faciale** fréquente, évoluant par **poussées**, localisée aux **zones séborrhéiques du visage**.  
-Elle atteint préférentiellement l'**homme adulte**, mais peut toucher les nourrissons.
+Elle atteint préférentiellement l'**homme adulte**, mais peut toucher les nourrissons.  
+Prolifération d'une levure lipophile: *Malassezia furfur*.
 
 {{% /collapse %}}
-{{%collapse "Sujets à risque de forme sévère" %}}
+{{% collapse "Sujets à risque de forme sévère" %}}
 
 - Maladie de Parkinson et syndromes extrapyramidaux iatrogènes
 - Alcoolisme chronique
@@ -42,7 +44,12 @@ Une DS grave et/ou chronique doit faire dépister le VIH.
 {{%/warning%}}
 
 {{% /collapse %}}
-{{%collapse "Clinique" %}}
+{{% collapse "Épidémiologie" %}}
+
+Dermatose assez fréquente avec une prévalence de 1 à 3% en France.
+
+{{% /collapse %}}
+{{% collapse "Clinique" %}}
 
 Le diagnostic est clinique.
 
@@ -71,7 +78,7 @@ Croûtes jaunes du cuir chevelu (« **croûtes de lait** ») et du visage, voi
 Forme extensive: érythrodermie (de Leiner-Moussous).
 
 {{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
+{{% collapse "Diagnostic différentiel" %}}
 
 - **Psoriasis des régions séborrhéiques**  
 Plaques bien limitées extra-faciales, début précoce, antécédents.
@@ -83,12 +90,12 @@ Une érythrodermie du nourrisson pourrait inaugurer une DA ou un psoriasis. Chez
 Comportement sexuel, notion de chancre.
 
 {{% /collapse %}}
-{{%collapse "Examens complémentaires" %}}
+{{% collapse "Examens complémentaires" %}}
 
 **Aucun examen complémentaire** en l’absence d’arguments pour une autre cause.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{% collapse "Traitement" %}}
 
 Le traitement est suspensif et doit donc être répété.
 
@@ -147,7 +154,7 @@ Avis du dermatologue
 Kétoconazole topique
 
 {{% /collapse %}}
-{{%collapse "Traitement pendant la grossesse" %}}
+{{% collapse "Traitement pendant la grossesse" %}}
 
 {{% warning %}}
 **Ne pas utiliser**
@@ -157,7 +164,7 @@ Ciclopirox, kétoconazole, dermocroticoïdes, sulfure de sélénium, AINS, acide
 {{% /warning %}}
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir" "show" %}}
+{{% collapse "Conduite à tenir" "show" %}}
 
 {{< mermaid >}}
 graph TB
@@ -174,7 +181,7 @@ graph TB
 {{< /mermaid >}}
 
 {{%/collapse%}}
-{{%collapse "Information du patient" %}}
+{{% collapse "Information du patient" %}}
 
 Maladie chronique bénigne, évoluant par poussées.  
 Le traitement améliore l'aspect esthétique, mais est seulement suspensif.  
@@ -182,8 +189,8 @@ Il doit donc être répété lors des poussées.
 Des effets secondaires peuvent survenir à la suite d'un traitement excessif.
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{% collapse "Sources" %}}
 
-- CEDEF. Item 232 Dermatoses faciales: Dermatite séborrhéique. 2010-2011.
+- Collège National des Enseignants de Dermatologie (CEDEF). Item 232 Dermatoses faciales: Dermatite séborrhéique. 2010-2011.
 
 {{% /collapse %}}

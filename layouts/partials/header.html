@@ -6,7 +6,7 @@
   <meta name="keywords" content="{{with .Params.tags}}{{delimit . "," }}{{ end }}">
   <meta name="author" content="{{with .Params.auteurs}}{{delimit . "," }}{{ end }}">
   {{ hugo.Generator }}
-  <title>{{ if .IsPage }}Recommandations pour {{.Params.prefix}}{{ end }}{{ humanize .Title | truncate 60 }} - {{ .Site.Title }}</title>
+  <title>{{ if .IsPage }}Recommandations {{.Date.Format "2006"}} pour {{.Params.prefix}}{{ end }}{{ humanize .Title | truncate 60 }} - {{ .Site.Title }}</title>
 
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://fonts.gstatic.com/">

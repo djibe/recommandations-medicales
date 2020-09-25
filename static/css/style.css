@@ -146,8 +146,8 @@ blockquote > p a {
   letter-spacing: 0.033333em;
   line-height: 1.25rem;
   color: rgba(0, 0, 0, 0.38);
-  display: block;
-  margin-top: 0.25rem;
+  /* display: block;
+  margin-top: 0.25rem; */
 }
 
 .card-subtitle::first-letter {
