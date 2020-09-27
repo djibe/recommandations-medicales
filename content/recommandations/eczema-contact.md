@@ -44,6 +44,9 @@ Traitement
 
 Eviction allergène
 DC forts à très forts
+
+{{< traitements/dermocorticoides >}}
+
 Si surinfection (croutes jaunatres, écoulements purulents): ATB cocci+ (pyostacine, Augmentin)
 AntiH1 sédatif pour prurit
 

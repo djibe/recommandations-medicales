@@ -8,7 +8,7 @@ date = 2020-09-25T21:22:41+02:00
 publishdate = 2020-09-25
 lastmod = 2020-09-25
 categories = ["infectiologie"]
-guidelineyears = "2000"
+guidelineyears = "2011"
 sources = []
 tags = ["panaris"]
 anglais = ["Whitlow"]
@@ -21,20 +21,23 @@ draft = false
 - Le diagnostic est clinique
 - Bains antiseptiques pluriquotidiens (x 2-3 /jour)
 - Antibiothérapie si immunodépression, valuvulopathies, diabète
+- Consignes de prévention pour prévenir les récidives
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Infection aiguë du doigt limitée au plan cutané ou sous-cutané.
-Germes les plus fréquents: Staphylocoque doré ± sécréteur de toxine de Panton Valentine (VPL, Méthi-S++) et streptocoque pyogenes (SGA).  
-Acupuncture ou piercing: Mycobacterium fortuitum ou M. chelonae.
+Panaris
+: Infection aiguë du doigt limitée au plan cutané ou sous-cutané.
+: Germes les plus fréquents: Staphylocoque doré ± sécréteur de toxine de Panton Valentine (VPL, Méthi-S++) et streptocoque pyogenes (SGA).  
+: Acupuncture ou piercing: Mycobacterium fortuitum ou M. chelonae.
 
-Complications: atteinte profonde des fléchisseurs à l'origine d'un **phlegmon des gaines** et **ostéo-arthrite**.
+Complications du panaris
+: Atteinte profonde des fléchisseurs à l'origine d'un **phlegmon des gaines** et **ostéo-arthrite**.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic est clinique.  
+**Le diagnostic est clinique.**  
 Rechercher une inoculation septique à l'interrogatoire et un corps étranger.
 
 Intérêt de l'auscultation cardiaque chez le patient à risque d'endocardite.
@@ -89,6 +92,8 @@ Industrie agro-alimentaire ou restauration.
 
 ### Stade inflammatoire
 
+{{%info%}}Bains de chlorhexidine 2 à 3 fois par jour.{{%/info%}}
+
 Selon Prescrire®: Bains dans l’eau chaude 10-15 minutes x 3-4/jour.  
 Antibioclic: Bains antiseptiques pluriquotidiens (x 2-3 /jour)  
 {{%class%}}type povidone iodée Bétadine®, hexamidine Hexomédine®, chlorhexidine aqueuse Biseptine®{{%/class%}}
@@ -117,6 +122,17 @@ Exérèse chirurgicale en ambulatoire sous anesthésie locale/loco-régionale av
 
 Cicatrisation en 2-3 semaines selon la taille initiale.  
 Pansement à changer tous les jours pendant 1 semaine puis toutes les 48h jusqu'à cicatrisation complète.
+
+{{% /collapse %}}
+{{%collapse "Conduite à tenir" "show" %}}
+
+{{< mermaid >}}
+graph TB
+  diagnostic["Diagnostic de panaris"] --> inflammatoire(Inflammatoire) --> bains(Bains antiseptiques x3/j) --> immunodepression("Immunodépression,<br>valuvulopathie, diabète ?") -- Oui --> ATB(Antibiothérapie<br>Pristinamycine 1g x 2-3/j 7 jours)
+  style diagnostic stroke:#6200ee, stroke-width:1px 
+  diagnostic --> collecte(Collecté) --> chir("Drainage chirurgical")
+  diagnostic -- "Diagnostic différentiel" --> differentiel("Pseudo-panaris herpétique<br>Faux panaris d'Osler")
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
