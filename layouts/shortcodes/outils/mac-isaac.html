@@ -1,37 +1,45 @@
 <p>Doit être utilisé à partir de 15 ans.<br>
-  Réaliser le TDR si score ≥ 2 (VPN 95%).</p>
-
-<div class="alert border rounded-lg mb-4 mb-lg-5 w-auto">
-  <input type="checkbox" id="temperature" class="d-none" value="1">
-  <label for="temperature" class="chip chip-action chip-filter">T° > 38°C</label>
-
-  <input type="checkbox" id="cough" class="d-none" value="1">
-  <label for="cough" class="chip chip-action chip-filter">Absence de toux</label>
-
-  <input type="checkbox" id="adp" class="d-none" value="1">
-  <label for="adp" class="chip chip-action chip-filter">ADP cervicales antérieures douloureuses</label>
-
-  <input type="checkbox" id="tonsils" class="d-none" value="1">
-  <label for="tonsils" class="chip chip-action chip-filter">Amygdales augmentées de volume/exsudat</label>
-
-  <input type="checkbox" id="age" class="d-none" value="-1">
-  <label for="age" class="chip chip-action chip-filter">Âge ≥ 45 ans</label>
-
-  <p id="counter">Score de Mac Isaac</p>
+  Réaliser le TDR si score ≥ 2 (VPN 95%).
+</p>
+<div class="alert border rounded-lg mb-4 mb-lg-5" style="max-width: 800px">
+  <div class="row">
+    <div class="col-12 col-md-9">
+      <input type="checkbox" id="temperature" class="d-none" value="1">
+      <label for="temperature" class="chip chip-action chip-filter">T° > 38°C</label>
+      <input type="checkbox" id="cough" class="d-none" value="1">
+      <label for="cough" class="chip chip-action chip-filter">Absence de toux</label>
+      <input type="checkbox" id="adp" class="d-none" value="1">
+      <label for="adp" class="chip chip-action chip-filter">ADP cervicales antérieures douloureuses</label>
+      <input type="checkbox" id="tonsils" class="d-none" value="1">
+      <label for="tonsils" class="chip chip-action chip-filter">Amygdales augmentées de volume/exsudat</label>
+      <input type="checkbox" id="age" class="d-none" value="-1">
+      <label for="age" class="chip chip-action chip-filter">Âge ≥ 45 ans</label>
+    </div>
+    <div class="col-12 col-md-3">
+      <p class="typography-overline text-black-secondary mt-4 mt-md-0 mb-1">Score de Mac Isaac</p>
+      <p id="counter" class="font-weight-bold" style="font-size: 3rem;line-height: 1.2;margin-bottom: 0;">0</p>
+      <p id="explain" class="typography-caption text-muted mb-0">Origine virale.</p>
+    </div>
+  </div>
 </div>
-
-<script>
+{{ $script := `
   // Score de Mac Isaac by djibe
-
   let score = 0;
-  [...document.querySelectorAll('input[type="checkbox"]')].forEach(function(checkbox) {
+  const Text = document.getElementById('explain');
+  [...document.querySelectorAll('input[type=\"checkbox\"]')].forEach(function(checkbox) {
     checkbox.addEventListener('change', function(e) {
       if (e.target.checked) {
         score += parseInt(e.target.value, 10)
       } else {
         score -= parseInt(e.target.value, 10)
       }
-      document.getElementById('counter').innerHTML = `Score = ${score}`
+      document.getElementById('counter').innerHTML = score
+
+      if ( score >= 2){
+        Text.innerHTML = 'Faire un TDR.'
+      } else {
+        Text.innerHTML = 'Origine virale.'
+      }
     })
-  })
-</script>
+  })` }}
+<script>{{ $script | safeJS }}</script>
