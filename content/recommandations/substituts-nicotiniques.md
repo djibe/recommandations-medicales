@@ -20,7 +20,7 @@ draft = false
 <h2 class="typography-headline-5">Sevrage tabagique - les substituts nicotiniques&nbsp;remboursés</h2>
 <h3 class="typography-subtitle-1 text-reset">Aide au choix des médicaments remboursés à 65% par l'Assurance Maladie sur prescription.</h3>
 <hr class="my-3" role="separator">
-<article class="my-3 my-lg-4">
+<article class="my-3 my-lg-4" style="max-width: 800px">
   <h4 class="typography-headline-6 mb-3">Nombre de cigarettes quotidiennes</h4>
   <div class="d-flex">
     <label class="radio-card" data-toggle="collapse" data-target="#patchs-moins20">
@@ -37,7 +37,7 @@ draft = false
     </label>
   </div>
 </article>
-<div class="accordion" id="accordionExample">
+<div class="accordion" id="accordionExample" style="max-width: 800px">
   <div class="collapse" id="patchs-moins20" data-parent="#accordionExample">
     <div class="card mb-3">
       <div class="card-body">

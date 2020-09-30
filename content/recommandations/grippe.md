@@ -25,15 +25,20 @@ ainsi que toutes les personnes fragiles pour la Covid-19
 {{%/article-summary%}}
 {{%collapse "Épidémiologie" %}}
 
-- Environ 10.000 morts/an, > 90 % chez les 65+ ans.
+### Bénéfices
+
+Chez l'adulte sain, réduit de 29% (65% chez +60 ans) le nombre de cas de syndromes grippaux et de 65% le nombre de cas de grippes.
+
+Chez le sujet vivant en établissement, la vaccination réduit la survenue de pathologie respiratoire (56%), pneumonie (53%), hospitalisation (50%), décès (68%).
+
+- Environ 10.000 morts/an dont +90% chez les +65 ans.
 - Couverture vaccinale 2019-2020 des personnes à risque: 45% (objectif OMS 75%).
-- Admis en réanimation : mortalité de 20%
+- Admis en réanimation: mortalité de 20%.
 
 {{%/collapse%}}
 {{%collapse "Personnes à risque de grippe grave" %}}
 
-{{% info %}}
-Vaccination annuelle en octobre pour ces personnes.
+{{% info %}}Vaccination annuelle en octobre pour ces personnes.
 
 Influvac Tetra 1 dose
 {{% /info %}}
@@ -91,7 +96,7 @@ Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
 - Pneumopathie (virale, pneumocoque ou haemophilus)
 
 {{%/collapse%}}
-{{%collapse "Vaccins disponibles pour 2020 - 2021" %}}
+{{%collapse "Vaccins disponibles en 2020-2021" %}}
 
 - Influvac Tetra
 - Vaxigrip Tetra
@@ -101,6 +106,6 @@ Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
 
 - [HAS. Vaccination antigrippale : la stratégie de la prochaine campagne annuelle réaffirmée dans le contexte de l’épidémie de COVID-19. 02/06/2020](https://www.has-sante.fr/jcms/p_3187536/fr/vaccination-antigrippale-la-strategie-de-la-prochaine-campagne-annuelle-reaffirmee-dans-le-contexte-de-l-epidemie-de-covid-19)
 - [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe !. 13/05/2020](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
-- [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](//solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+- [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
 
 {{% /collapse %}}

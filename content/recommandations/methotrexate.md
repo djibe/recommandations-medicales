@@ -48,9 +48,13 @@ Peut survenir à tout moment même à faible dose.
 {{% /collapse %}}
 {{%collapse "Bilan pré-thérapeutique" %}}
 
-- Recherche de foyer infectieux
+- Recherche de foyer infectieux  
+NFS, sérologies hépatites, quantiféron
+- BH, BR, albumine, ionogramme
 - Radiographie thoracique  
 Systématique avant de débuter le traitement.
+- Echo abdo
+- Fibroscan ,
 - bHCG
 - Spirométrie si  
   - Tabagisme

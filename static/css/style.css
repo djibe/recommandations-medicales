@@ -247,6 +247,29 @@ blockquote > p a {
   user-select: all;
 }
 
+.list-group-item-number {
+  background: #9E9E9E;
+  border-radius: 50%;
+  font-size: 1.125rem;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  margin: .5rem 1rem .5rem 0;
+  width: 2.5rem;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  font-weight: 500;
+  color: #fff;
+  flex-shrink: 0;
+}
+.list-group-item-number::before {
+  content: counter(counter-item);
+}
+
+.list-counter > .list-group-item {
+  counter-increment: counter-item;
+}
+
 .radio-card {
   flex-grow: 1;
   font-size: 1rem;

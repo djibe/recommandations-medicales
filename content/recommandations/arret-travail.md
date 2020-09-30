@@ -1,5 +1,5 @@
 +++
-title = "Arrêts de travail"
+title = "Arrêt de travail"
 prefix = "les "
 shortname = "AT"
 synonyms = ["Arrêt maladie"]
