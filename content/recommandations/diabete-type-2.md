@@ -18,6 +18,7 @@ draft = false
 
 {{%article-summary%}}
 
+- Sevrage tabagique obligatoire
 - Le suivi du diabète de type 2 doit être rigoureux et multidimensionnel, utiliser cet assistant du suivi adapté : [Diabeclic - Suivi du diabète](https://www.diabeclic.com/suivi-du-diabete)
 
 {{%/article-summary%}}

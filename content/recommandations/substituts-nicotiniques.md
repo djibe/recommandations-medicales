@@ -17,8 +17,10 @@ qualite = "bonne"
 draft = false
 +++
 
-<h2 class="typography-headline-5">Sevrage tabagique - les substituts nicotiniques&nbsp;remboursés</h2>
-<h3 class="typography-subtitle-1 text-reset">Aide au choix des médicaments remboursés à 65% par l'Assurance Maladie sur prescription.</h3>
+## {{< class "typography-headline-5" >}}Sevrage tabagique - les substituts nicotiniques remboursés{{</class>}}
+
+### {{< class "typography-subtitle-1 text-black-primary" >}}Aide au choix des médicaments remboursés à 65% par l'Assurance Maladie sur prescription.{{</class>}}
+
 <hr class="my-3" role="separator">
 <article class="my-3 my-lg-4" style="max-width: 800px">
   <h4 class="typography-headline-6 mb-3">Nombre de cigarettes quotidiennes</h4>
@@ -49,6 +51,7 @@ draft = false
       </div>
     </div>
     <h6 class="typography-overline font-weighy-bolder mt-lg-5">Patchs remboursés (systématique)</h6>
+    <p class="typography-body-2 text-muted">Le matin au réveil sur zone au choix. Changer de place quotidiennement.</p>
     <ul class="list-group list-group-xs">
       <li class="list-group-item">Nicopatchlib 14 mg<span class="text-muted">/24h</span></li>
       <!--Pierre Fabre-->
@@ -70,79 +73,33 @@ draft = false
       <li class="list-group-item">Nicotinell TTS 7 mg<span class="text-muted">/24h</span></li>
     </ul>
     <h6 class="typography-overline font-weighy-bolder mt-lg-5">Gommes à mâcher</h6>
+    {{% class "typography-body-2 text-black-secondary" %}} Mâcher 1 fois puis placer entre gencive et joue. Mâcher à nouveau en cas d'envie de fumer. {{%/class%}}
     <ul class="list-group">
-      <li class="list-group-item d-flex list-group-item-two-line">
-        <span class="list-group-item-text">
-          <span>Nicorette sans sucre 2 mg (Fruits, menthe fraîche, menthe glaciale)</span>
-          <span>En cas d'envie de fumer. 8 à 12 par jour. Max 30/j.</span>
-        </span>
-      </li>
-      <li class="list-group-item d-flex list-group-item-two-line">
-        <span class="list-group-item-text">
-          <span>Nicotine EG sans sucre 2 mg (Fruit, menthe)</span>
-          <span>En cas d'envie de fumer. 8 à 12 par jour. Max 24/j.</span>
-        </span>
-      </li>
-      <li class="list-group-item d-flex list-group-item-two-line">
-        <span class="list-group-item-text">
-          <span>Niquitin sans sucre 2 mg (Fruits tropicaux, menthe glaciale)</span>
-          <span>En cas d'envie de fumer. 8 à 12 par jour. Max 30/j.</span>
-        </span>
-      </li>
-      <li class="list-group-item d-flex list-group-item-two-line">
-        <span class="list-group-item-text">
-          <span>Nicotinell sans sucre 2 mg (Fruit, fruit exotique, menthe fraîcheur)</span>
-          <span>En cas d'envie de fumer. 8 à 12 par jour. Max 25/j.</span>
-        </span>
-      </li>
+      {{< list-item-twoline title="Nicorette sans sucre 2 mg (Fruits, menthe fraîche, menthe glaciale)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 30/j." >}}
+      {{< list-item-twoline title="Nicotine EG sans sucre 2 mg (Fruit, menthe)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 24/j." >}}
+      {{< list-item-twoline title="Niquitin sans sucre 2 mg (Fruits tropicaux, menthe glaciale)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 25/j." >}}
+      {{< list-item-twoline title="Nicotinell sans sucre 2 mg (Fruit, fruit exotique, menthe fraîcheur)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 25/j." >}}
     </ul>
+    <!-- Comprimés à sucer -->
     <h6 class="typography-overline mt-lg-3">Comprimés à sucer</h6>
+    {{% class "typography-body-2 text-black-secondary" %}} Sucer les comprimés lentement sans croquer. {{%/class%}}
     <ul class="list-group">
-      <li class="list-group-item d-flex list-group-item-two-line">
-        <span class="list-group-item-text">
-          <span>Niquitin sans sucre 2 mg (Menthe douce)</span>
-          <span>1 comprimé à sucer toutes les 1 à 2 heures. Max 15/j.</span>
-        </span>
-      </li>
-      <li class="list-group-item d-flex list-group-item-two-line">
-        <span class="list-group-item-text">
-          <span>NiquitinMinis sans sucre 1,5 mg (Menthe fraîche)</span>
-          <span>1 comprimé à sucer toutes les 1 à 2 heures. Max 15/j.</span>
-        </span>
-      </li>
-      <li class="list-group-item d-flex list-group-item-two-line">
-        <span class="list-group-item-text">
-          <span>Nicotinell 1 mg (Menthe)</span>
-          <span>1 comprimé à sucer toutes les 1 à 2 heures. Max 30/j.</span>
-        </span>
-      </li>
+      {{< list-item-twoline title="Niquitin sans sucre 2 mg (Menthe douce)" subtitle="1 comprimé à sucer toutes les 1 à 2 heures. Max 15/j." >}}
+      {{< list-item-twoline title="NiquitinMinis sans sucre 1,5 mg (Menthe fraîche)" subtitle="1 comprimé à sucer toutes les 1 à 2 heures. Max 15/j." >}}
+      {{< list-item-twoline title="Nicotinell 1 mg (Menthe)" subtitle="1 comprimé à sucer toutes les 1 à 2 heures. Max 30/j." >}}
     </ul>
     <h6 class="typography-overline mt-lg-3">Pastilles à sucer</h6>
     <ul class="list-group">
-      <li class="list-group-item d-flex list-group-item-two-line">
-        <span class="list-group-item-text">
-          <span>Nicopass sans sucre 1,5 mg (Eucalyptus, menthe fraîcheur, réglisse-menthe)</span>
-          <span>8 à 12 par jour. Max 30/j.</span>
-        </span>
-      </li>
+      {{< list-item-twoline title="Nicopass sans sucre 1,5 mg (Eucalyptus, menthe fraîcheur, réglisse-menthe)" subtitle="8 à 12 par jour. Max 30/j." >}}
     </ul>
     <h6 class="typography-overline mt-lg-3">Comprimés sublinguaux</h6>
+    {{% class "typography-body-2 text-black-secondary" %}} Laisser fondre sous la langue. Possibilité de le retirer quand l'envie est passée. {{%/class%}}
     <ul class="list-group">
-      <li class="list-group-item d-flex list-group-item-two-line">
-        <span class="list-group-item-text">
-          <span>Nicorette Microtab 2mg (Citron ou neutre)</span>
-          <span>1 comprimé toutes les 1 à 2 heures. Max 30/j.</span>
-        </span>
-      </li>
+      {{< list-item-twoline title="Nicorette Microtab 2mg (Citron ou neutre)" subtitle="1 comprimé toutes les 1 à 2 heures. Max 30/j." >}}
     </ul>
     <h6 class="typography-overline mt-lg-3">Sprays buccaux</h6>
     <ul class="list-group">
-      <li class="list-group-item d-flex list-group-item-two-line">
-        <span class="list-group-item-text">
-          <span>Nicotine EG 1mg/dose</span>
-          <span>Je ne trouve pas la fiche de RCP du médicament</span>
-        </span>
-      </li>
+      {{< list-item-twoline title="Nicotine EG 1mg/dose" subtitle="Je ne trouve pas la fiche de RCP du médicament." >}}
     </ul>
   </div>
   <!--+20-->

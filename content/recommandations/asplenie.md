@@ -22,6 +22,14 @@ draft = false
 - 5 vaccinations
 
 {{%/article-summary%}}
+{{%collapse "Épidémiologie" %}}
+
+500.000 personnes hypo ou aspléniques en France.
+
+Splénectomie chirurgicale est la 1<sup>re</sup> cause avec 6 à 9000 cas par an (50% d'adultes).  Autres: Infarctus splénique, asplénisme thérapeutique (radiothérapie).  
+Drépanocytose, 10.000 porteurs (50% adultes).
+
+{{% /collapse %}}
 {{%collapse "Complications" %}}
 
 ### Risque infectieux
@@ -29,14 +37,6 @@ draft = false
 Incidence annuelle d'infections 50 à 100 fois plus élevée. Risque plus important les 3 années suivants la splénectomie mais persiste toute la vie.
 
 Germes: pneumocoque (50-90%) et Haemophilus influenzae (10-15%).
-
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
-
-500.000 personnes hypo ou aspléniques en France.
-
-Splénectomie chirurgicale est la 1<sup>re</sup> cause avec 6 à 9000 cas par an (50% d'adultes).  Autres: Infarctus splénique, asplénisme thérapeutique (radiothérapie).  
-Drépanocytose, 10.000 porteurs (50% adultes).
 
 {{% /collapse %}}
 {{%collapse "Étiologie" %}}
@@ -55,15 +55,17 @@ Drépanocytose, 10.000 porteurs (50% adultes).
 {{% /collapse %}}
 {{%collapse "Antibioprophylaxie" %}}
 
-Oracilline® (Pénicilline V, phénoxyméthylpénicilline) à débuter dès le lendemain de la splénectomie.  
-Existe en sirop (250.000 UI/5mL, 500.000 UI/5 mL, 1 MUI/10mL) ou comprimés à 1 MUI.
-
 {{%info%}}Oracilline® 1 MUI, 1 cp x 2/j pendant 2 ans (5 ans chez l'enfant){{%/info%}}
 
-Enfant 10-40 kg : 25.000 UI/kg x 2/j (max 2 MUI/j) pendant 5 ans.  
-Enfant < 10 kg : 100.000 UI/kg/j pendant 5 ans.
+Oracilline® (Pénicilline V, phénoxyméthylpénicilline) à débuter dès le lendemain de la splénectomie.  
+{{%class%}}Existe en sirop (250.000 UI/5mL, 500.000 UI/5 mL, 1 MUI/10mL) ou comprimés à 1 MUI.{{%/class%}}
 
-Si allergie: macrolide roxythromycine (Rulid®, gén) 150 mg x 2/j.
+- Enfant 10-40 kg  
+25.000 UI/kg x 2/j (max 2 MUI/j) pendant 5 ans.  
+- Enfant < 10 kg  
+100.000 UI/kg/j pendant 5 ans.
+- Allergie aux bêtalactamines  
+Macrolide roxythromycine (Rulid®, gén) 150 mg x 2/j.
 
 {{% /collapse %}}
 {{%collapse "Vaccination" %}}
@@ -78,12 +80,15 @@ Vaccination 2-6 semaines après l'intervention (immédiat si risque de perdu de 
 ### Vaccination du patient
 
 - Mise à jour du calendrier vaccinal
-- Pneumocoque  
-Prevenar 13® puis Pneumo23® 2 mois après
+- Pneumocoque
+  - Prevenar 13® puis Pneumovax® 2 mois après.  
+  {{%class%}}Intervalle avec dernier Prevenar 13® doit être > 3 ans.{{%/class%}}
+  - Enfant 2 à 5 ans non vaccinés: Prevenar 13® M0M2 et Pneumovax® M4.
+  - Enfant < 2 ans: schéma nourrisson et rappel Pneumovax® après ses 2 ans.
 - Méningocoque ACYW135
 Menveo®, Nimenrix® avec rappel à 6 mois
-- Méningocoque B  
-Bexsero® avec rappel à 1 mois
+- Méningocoque B
+  - Bexsero® avec rappel à 1 mois
 - Haemophilus influenzae type B
 ACT-HIB® dose unique
 - Grippe saisonnière

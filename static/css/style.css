@@ -106,12 +106,12 @@ h4 {
   font-size: inherit;
 }
 
-.recommandation__content li > ul {
-  margin-top: 0.5rem;
-}
-
 .recommandation__content .alert > :last-child {
   margin-bottom: 0;
+}
+
+li > ul > li {
+  list-style-type: circle;
 }
 
 dl {
