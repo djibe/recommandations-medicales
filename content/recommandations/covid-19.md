@@ -156,7 +156,7 @@ Obtenir un test RT-PCR dans les 24h pour symptômatiques ou cas contacts:
 
 {{< mermaid >}}
 graph TB
-  adulte[Adulte et Enfant > 6 ans<br>sans fragilité] --> contact(Cas Contact<br>Isolement 7J<br>À compter du contact<br>) --> testJ7("Test à J7<br>(Immédiat si je vis avec)<br>Isolement jusqu'aux résultats") --Test+--> isolementContact(Isolement 7J sup.<br>À compter du test) --> retour
+  adulte[Adulte et Enfant > 6 ans<br>sans fragilité] --> contact(Cas Contact<br>Isolement 7J<br>À compter du contact<br>Arrêt sur declare.ameli.fr) --> testJ7("Test à J7<br>(Immédiat si je vis avec)<br>Isolement jusqu'aux résultats") --Test+--> isolementContact(Isolement 7J sup.<br>À compter du test) --> retour
   style adulte stroke:#6200ee, stroke-width:1px
   testJ7 --Test- --> retour
   adulte --> symptomatique(Symptomatique<br>= Cas possible<br>Isolement durant analyse) --Test+--> isolementSymptomatique(Isolement 7J<br>À compter du J1 des symptômes) -.-> fievrePersistante(Fièvre persistante à J7) --> isolementFievre(Isolement +48h) --> retour(Travail<br>ou École)
@@ -201,7 +201,7 @@ Chez l'enfant:
 
 ### Autres
 
-- DGS-URGENT N°2020-INF- 46 : Durée d’isolement et de quarantaine des cas confirmés de Covid-19 et des personnes contact à risque. 12/09/2020
+- [DGS-URGENT N°2020-INF- 46 : Durée d’isolement et de quarantaine des cas confirmés de Covid-19 et des personnes contact à risque. 12/09/2020.](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=31051&cmd=visualiserMessage)
 - [SFP. COVID19 et écoles - Propositions de la Société Française de Pédiatrie. 09/09/2020](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/Recommandations_09092020.pdf)
 - [Journal Officiel. Arrêté du 24 juillet 2020 modifiant l'arrêté du 10 juillet 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de covid-19 dans les territoires sortis de l'état d'urgence sanitaire et dans ceux où il a été prorogé. 25/07/2020](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000042148309&categorieLien=id)
 - [Académie nationale de Médecine. Avis: Les séquelles de la Covid-19. 15/07/2020](http://www.academie-medecine.fr/wp-content/uploads/2020/07/Se%CC%81quelles-Avis.pdf)

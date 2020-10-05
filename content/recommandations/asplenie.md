@@ -11,9 +11,10 @@ categories = ["infectiologie", "hematologie"]
 guidelineyears = "2020"
 sources = ["HAS"]
 tags = ["asplenie", "oracilline", "penicilline V"]
-anglais = ["MSM"]
-sctid = "76102007"
+anglais = ["Asplenia"]
+sctid = "707147002"
 draft = false
+todo = "améliorer vaccins, graph"
 +++
 
 {{%article-summary%}}
@@ -80,21 +81,34 @@ Vaccination 2-6 semaines après l'intervention (immédiat si risque de perdu de 
 ### Vaccination du patient
 
 - Mise à jour du calendrier vaccinal
-- Pneumocoque
-  - Prevenar 13® puis Pneumovax® 2 mois après.  
-  {{%class%}}Intervalle avec dernier Prevenar 13® doit être > 3 ans.{{%/class%}}
-  - Enfant 2 à 5 ans non vaccinés: Prevenar 13® M0M2 et Pneumovax® M4.
-  - Enfant < 2 ans: schéma nourrisson et rappel Pneumovax® après ses 2 ans.
-- Méningocoque ACYW135
-Menveo®, Nimenrix® avec rappel à 6 mois
-- Méningocoque B
-  - Bexsero® avec rappel à 1 mois
-- Haemophilus influenzae type B
-ACT-HIB® dose unique
-- Grippe saisonnière
-1 dose annuelle
 
-> "Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques" (sauf les vaccins vivants en cas d’immunosuppression). [HCSP 2014](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
+#### Pneumocoque
+
+- Prevenar 13® puis Pneumovax® 2 mois après.  
+  {{%class%}}Intervalle avec dernier Prevenar 13® doit être > 3 ans.{{%/class%}}
+- Enfant 2 à 5 ans non vaccinés: Prevenar 13® M0M2 et Pneumovax® M4.
+- Enfant < 2 ans: schéma nourrisson et rappel Pneumovax® après ses 2 ans.
+
+#### Méningocoque ACYW135
+
+- Menveo® ou Nimenrix® avec rappel à 6 mois puis tous les 5 ans
+- Vacciné avant 7 ans: rappel à 3 ans puis tous les 5 ans
+
+#### Méningocoque B
+
+- ≥ 11 ans: Bexsero® avec 2<sup>e</sup> injection à 1 mois.
+- 6 mois à 10 ans: Bexsero® avec 2<sup>e</sup> injection à 2 mois.
+- 2 à 5 mois: Bexsero® en 3 injections à 1 mois d'intervalle.
+
+#### Haemophilus influenzae type B
+
+ACT-HIB® dose unique
+
+#### Grippe saisonnière
+
+1 dose annuelle au moment de la campagne annuelle de vaccination.
+
+> Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques (sauf les vaccins vivants en cas d’immunosuppression). [HCSP 2014](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
 
 ### Vaccination de l'entourage
 

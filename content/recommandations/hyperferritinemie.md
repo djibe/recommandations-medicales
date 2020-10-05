@@ -30,7 +30,7 @@ De nombreuses maladies influent la ferritinémie, en dehors de l'hémochromatose
 {{% /collapse %}}
 {{%collapse "Étiologie" %}}
 
-- Syndrome métabolique. 1re cause  
+- Syndrome métabolique. 1<sup>re</sup> cause  
 Peut précéder les syndrome métabolique clinique.
 1/3 des diabètes et HGM ont HF.
 - Stéato-hépatite non alcoolique (NASH) 

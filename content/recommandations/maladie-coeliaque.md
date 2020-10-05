@@ -149,7 +149,7 @@ Le diagnostic est affirmé par un faisceau d'arguments cliniques, biologiques, p
 En cas de faible risque clinique.
 
 **Réalisée à jeun pendant exposition au gluten**.  
-{{%class %}}De 32 à 156.000 devraient être réalisées chaque année.{{%/class%}}
+{{%class%}}De 32 à 156.000 devraient être réalisées chaque année.{{%/class%}}
 
 IgA anti-transglutaminase (anticorps IgA anti-TGt) ET dosage des IgA totales.
 

@@ -86,7 +86,7 @@ Indication: angine chez les +3 ans avec TDR positif.
   - ou C3G céfpodoxime-proxétil 100 mg x 2/j pendant 5 jours
   - ou C3G céfotiam-hexétil 200 mg x 2/j pendant 5 jours
 - Contre-indication aux bêtalactamines
-  - azithromycine 500 mg 1 prise quotidienne pendant 3 jours  
+  - macrolide azithromycine 500 mg 1 prise quotidienne pendant 3 jours  
   - ou clarithromycine 250 mg x 2/j pendant 5 jours
   - ou josamycine 1g x 2/j pendant 5 jours
 
@@ -98,7 +98,7 @@ Indication: angine chez les +3 ans avec TDR positif.
   - C3G céfpodoxime 8 mg/kg/j en 2 prises (max 400 mg/j) 5 jours
 - Contre-indication aux bêtalactamines
   - azithromycine 20 mg/kg/j x 1/j (max 500 mg/j) 3 jours
-  - ou 15 mg/kg/j en 2 prises (max 1g/j)
+  - ou josamycine 15 mg/kg/j en 2 prises (max 1g/j)
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
@@ -107,7 +107,7 @@ Indication: angine chez les +3 ans avec TDR positif.
 graph TB
   angine["Angine"] --> moins3("< 3 ans") --> viral("Viral")
   style angine stroke:#6200ee, stroke-width:1px
-    angine --> 314ans("3 à 14 ans") --> TDR("TDR") -- "+" --> ATB
+    angine --> 314ans("3 à 14 ans") --> TDR("TDR") -- "+" --> ATB("Antibiothérapie<br>Amoxicilline 1g x 2/j 6j")
       TDR -- "-" --> viral
     angine --> 15plus("≥ 15 ans") --> score("Mac Isaac") -- "≥ 2" --> ATB
       score -- "< 2" --> viral
