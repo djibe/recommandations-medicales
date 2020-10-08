@@ -49,6 +49,7 @@ L'hirsutisme atteint de 5 à 15% des femmes.
 - Duvet
 - Hypertrichose  
 Excès de poils sous forme de duvet sur des zones non androgéniques. Elle est localisée (autour d’un grain de beauté) ou diffuse. Autant chez les femmes que les hommes.
+
 {{%/collapse %}}
 {{%collapse "Clinique" %}}
 
@@ -72,12 +73,11 @@ Si iatrogène, apparition le plus souvent après plusieurs mois et régression e
   - Phénytoine
 
 {{%/collapse %}}
-
 {{%collapse "Traitement" %}}
 
 Rasage ou épilation mécanique.
 
-### Traitements de 2e intention
+### Traitements de 2<sup>e</sup> intention
 
 Spironolactone par voie orale.
 

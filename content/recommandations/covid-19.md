@@ -69,8 +69,8 @@ Principaux: HTA, les pathologies cardiaques et le diabète.
 De 50 à 65 ans: surveillance plus rapprochée
 - Pathologie respiratoire chronique  
 Broncho pneumopathie obstructive, asthme sévère, fibrose pulmonaire, syndrome d'apnées du sommeil, mucoviscidose
-- Antécédents cardiovasculaires
-Hypertension artérielle compliquée (complications cardiaques, rénales et vasculo-cérébrales),  antécédents d’accident vasculaire cérébral ou de coronaropathie, de chirurgie cardiaque, insuffisance cardiaque stade NYHA III ou IV
+- Antécédents cardiovasculaires  
+Hypertension artérielle compliquée (complications cardiaques, rénales et vasculo-cérébrales),  antécédents d’accident vasculaire cérébral ou de coronaropathie, de chirurgie cardiaque, insuffisance cardiaque stade NYHA III ou IV.
 - Diabète chronique non équilibré ou avec complications
 - Insuffisance rénale chronique dialysée
 - Cancer évolutif sous traitement (sauf hormonothérapie seule)

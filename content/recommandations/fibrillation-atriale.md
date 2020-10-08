@@ -14,7 +14,7 @@ tags = ["ACFA", "AOD", "anticoagulant", "SAOS"]
 anglais = ["MSM"]
 sctid = "76102007"
 draft = true
-todo = "Source 2013 bonne pour EGS"
+todo = "Source 2013 bonne pour EGS, source 2013 pour AVK sujet âgé"
 +++
 
 {{%article-summary%}}
@@ -230,11 +230,11 @@ Score proposé en 2010 par l'ESC (source 44).
 
 AVK
 Surtout si sujet âgé ou valve mécanique, pb observance?
-INR cible 2-3. COntrôle /15-21j
+INR cible 2-3. Contrôle /15-21j
 
 // Intro AVK en gériatrie
 
-Scores HEMORR2HAGES ou HAS-BLED
+Scores HEMORR2HAGES (+ adapaté pour AVK > 80 ans) ou HAS-BLED (ESC, + simple, pop + jeune)
 
 
 Aspirine si refus anticoag
