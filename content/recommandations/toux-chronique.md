@@ -66,12 +66,32 @@ Se manifeste par une congestion nasale, un écoulement postérieur ou une rhinor
 {{%/danger%}}
 
 {{% /collapse %}}
-{{%collapse "Étiologie de l'adulte" %}}
+{{%collapse "Étiologie chez l'adulte" %}}
 
-Chez l'immunocompétent, 90% ont pour cause:
+**Causes devant être éliminées:**
 
-- Syndrome de toux d'origine des voies aériennes supérieures (STOVAS)  
-ou écoulement postérieur
+### Médicamenteuse
+
+- **IEC**  
+{{%class%}}3/4 des toux médicamenteuses. Présente chez 5 à 20% des patients traités. À l'arrêt, résolution en 1 jour à 1 mois.{{%/class%}}
+- Autres  
+Sartans, bêta-bloquants, interféron alpha 2b, thérapeutiques inhalées.
+- Plus rares  
+Morphine et dérivés, méthotrexate.
+
+### Coqueluche
+
+### Tabagisme  
+
+Discerner la toux par irritation de la **BPCO** et du **cancer des VADS**.
+
+---
+
+Autres causes à éliminer (par ordre anatomique):
+
+### Cause ORL
+
+- Syndrome de toux d'origine des voies aériennes supérieures (STOVAS ou écoulement postérieur)
 - Asthme
 - [RGO]({{< ref "reflux-gastro-oesophagien.md" >}})
 
@@ -81,8 +101,7 @@ Autres causes fréquentes:
 Toux chronique isolée avec spirométrie normale, bronchoprovocation négative, NO exhalé positif.
 - Bronchiectasies
 - BPCO
-- Traitement par **IEC**  
-{{%class%}}3/4 des toux médicamenteuses. Apparait chez 5 à 20% des patients traités. À l'arrêt, résolution en 1 jour à 1 mois.{{%/class%}}
+
 - Hypersensibilité du réflexe à la toux  
 Associée dans la plupart des toux chronique. Peut être testée par la capsaïcine.
 
@@ -93,7 +112,7 @@ Associée dans la plupart des toux chronique. Peut être testée par la capsaïc
 
 - Antécédents (infections ORL à répétition), terrain atopique
 - Traitements en cours  
-Tester l'imputabilité sur [Pneumotox](https://www.pneumotox.com/drug/index/).
+Vérifier l'imputabilité sur [Pneumotox](https://www.pneumotox.com/drug/index/).
 - Tabagisme et drogues
 - Profession et expositions professionnelles
 - Caractère invalidant
@@ -106,6 +125,17 @@ Tester l'imputabilité sur [Pneumotox](https://www.pneumotox.com/drug/index/).
   - Rythme nyctéméral et saisonnier
   - Symptômes ORL associés
   - Facteurs aggravants et calmants
+
+#### Orientation étiologique
+
+- Asthme  
+Toux spasmodique, nocturne, au froid, à l'effort, en cas de brouillard.
+- Rhinite  
+Antécédents de sinusite, rhinorrhée postérieure, raclement de gorge, obstruction nasale, troubles de l'odorat.
+- Reflux gastro-œsophagien  
+Survenue après les repas ou en position penchée en avant ou décubitus.
+
+La toux peut être multifactorielle.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

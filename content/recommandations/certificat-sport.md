@@ -18,7 +18,8 @@ draft = false
 
 {{%article-summary%}}
 
-- Certificat réalisé tous les 3 ans sauf liste plus bas
+- Certificat réalisé tous les 3 ans sauf liste plus bas.
+- La consultation n'est pas prise en charge par l'Assurance Maladie.
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -49,5 +50,6 @@ Arts martiaux, boxe
 {{%collapse "Sources" %}}
 
 - [CNOM. Certificats de non contre-indication à la pratique du sport. Médecins n°69. sept-oct 2020](https://www.conseil-national.medecin.fr/sites/default/files/external-package/bulletin/m05mhm/medecins_69.pdf)
+- [CNOM. Certificats de non contre indication à la pratique du sport](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificats-indication-pratique-sport)
 
 {{% /collapse %}}

@@ -11,8 +11,8 @@ categories = ["certificats"]
 guidelineyears = "2020"
 sources = ["Assurance Maladie"]
 tags = ["ALD"]
-anglais = []
-sctid = ""
+anglais = ["Chronic disease"]
+sctid = "27624003"
 draft = false
 +++
 

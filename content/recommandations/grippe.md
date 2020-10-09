@@ -20,18 +20,12 @@ draft = false
 
 - Vaccination annuelle des personnes à risque de forme grave à partir de mi-octobre (en métropole)  
 ainsi que toutes les personnes fragiles pour la Covid-19
-- Adjoindre le vaccin Pneumocoque pour les 65+ ans.
+- Adjoindre le vaccin Pneumocoque pour les +65 ans ([Académie 13.05](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)).
 
 {{%/article-summary%}}
 {{%collapse "Épidémiologie" %}}
 
-### Bénéfices
-
-Chez l'adulte sain, réduit de 29% (65% chez +60 ans) le nombre de cas de syndromes grippaux et de 65% le nombre de cas de grippes.
-
-Chez le sujet vivant en établissement, la vaccination réduit la survenue de pathologie respiratoire (56%), pneumonie (53%), hospitalisation (50%), décès (68%).
-
-- Environ 10.000 morts/an dont +90% chez les +65 ans.
+- 10.000 morts/an dont +90% chez les +65 ans.
 - Couverture vaccinale 2019-2020 des personnes à risque: 45% (objectif OMS 75%).
 - Admis en réanimation: mortalité de 20%.
 
@@ -101,11 +95,17 @@ Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
 - Influvac Tetra
 - Vaxigrip Tetra
 
+### Bénéfices de la vaccination antigrippale
+
+Chez l'adulte sain, réduit de 29% (65% chez +60 ans) le nombre de cas de syndromes grippaux et de 65% le nombre de cas de grippes.
+
+Chez le sujet vivant en établissement, la vaccination réduit la survenue de pathologie respiratoire (56%), pneumonie (53%), hospitalisation (50%), décès (68%).
+
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
 - [HAS. Vaccination antigrippale : la stratégie de la prochaine campagne annuelle réaffirmée dans le contexte de l’épidémie de COVID-19. 02/06/2020](https://www.has-sante.fr/jcms/p_3187536/fr/vaccination-antigrippale-la-strategie-de-la-prochaine-campagne-annuelle-reaffirmee-dans-le-contexte-de-l-epidemie-de-covid-19)
-- [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe !. 13/05/2020](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
+- [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe ! 13/05/2020](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
 - [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
 
 {{% /collapse %}}

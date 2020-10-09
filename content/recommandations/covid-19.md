@@ -18,10 +18,9 @@ draft = false
 
 {{%article-summary%}}
 
-- Vacciner grippe + pneumocoque les personnes fragiles
+- Vacciner grippe + pneumocoque les +65ans ([Académie 13.05](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/))
 - Port d'un masque en tissu réutilisable (norme AFNOR S76-001) dans tous les lieux clos publics et privés collectifs ([HCSP 14.08](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=894))
 - Pas de certificat pour le retour à l'école
-- À compter du 5 octobre 2020, les professionnels de santé doivent constituer leurs propres de stocks de moyens de protections ([DGS-Urgent 31.07](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=30950&cmd=visualiserMessage)).
 - Dire **la** CoViD-19 ([Académie française](http://www.academie-francaise.fr/le-covid-19-ou-la-covid-19))
 
 {{%/article-summary%}}
