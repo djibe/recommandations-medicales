@@ -36,12 +36,12 @@ Les autres années, le licensié (ou son représentant légal) renseigne un ques
   - Alpinisme
   - Plongée subaquatique
   - Spéléologie
-- Compétitions avec risque de choc le "rendant incapable de se défendre"
+- Compétitions avec risque de choc le "rendant incapable de se défendre"  
 Arts martiaux, boxe
 - Utilisation d'arme à feu ou à air comprimé
 - Compétitions avec conduite de véhicule à moteur  
 {{%class%}}Sauf modélisme automobile radioguidé.{{%/class%}}
-- Conduite d'aéronef
+- Conduite d'aéronef  
 {{%class%}}Sauf aéromodélisme.{{%/class%}}
 - Rugby  
 À XV, XIII et à VII.

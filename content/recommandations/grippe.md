@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
-lastmod = 2020-08-23
+lastmod = 2020-10-13
 categories = ["infectiologie"]
 guidelineyears = "2020"
 sources = ["HAS", "MinSante"]
@@ -19,7 +19,7 @@ draft = false
 {{%article-summary%}}
 
 - Vaccination annuelle des personnes à risque de forme grave à partir de mi-octobre (en métropole)  
-ainsi que toutes les personnes fragiles pour la Covid-19
+ainsi que toutes les personnes fragiles pour la Covid-19.
 - Adjoindre le vaccin Pneumocoque pour les +65 ans ([Académie 13.05](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)).
 
 {{%/article-summary%}}
@@ -30,11 +30,27 @@ ainsi que toutes les personnes fragiles pour la Covid-19
 - Admis en réanimation: mortalité de 20%.
 
 {{%/collapse%}}
+{{%collapse "Personnes prioritaires pour la vaccination en 2020" %}}
+
+- Âge ≥ 65 ans
+- Pathologie chronique  
+Insuffisance respiratoire, insuffisance cardiaque, diabète, insuffisance rénale, asthme, bronchopneumopathie obstructive…
+- Obésité morbide (IMC ≥ 40 kg/m<sup>2</sup>)
+- Femmes enceintes
+- Entourage des nourrissons de moins de 6 mois présentant des facteurs de risque de grippe grave: prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d’une affection de longue durée ainsi que l’entourage des personnes mmunodéprimées.
+
+> ANSM 13.10
+
+**Pour les autres personnes, différer la vaccination à début décembre.**
+
+{{%/collapse%}}
 {{%collapse "Personnes à risque de grippe grave" %}}
 
 {{% info %}}Vaccination annuelle en octobre pour ces personnes.
 
-Influvac Tetra 1 dose
+InfluvacTetra® (ou VaxigripTetra®) 1 dose.
+
+Bon de prise en charge n°850 sur Ameli pro.
 {{% /info %}}
 
 - Personnes de plus de 65 ans
@@ -61,14 +77,18 @@ Influvac Tetra 1 dose
   - Pathologies oncologiques et hématologiques, transplantations d’organe et de cellules souches hématopoïétiques, déficits immunitaires héréditaires
   - Maladies inflammatoires et/ou auto-immunes recevant un traitement immunosuppresseur,
   - Personnes infectées par le VIH quels que soient leur âge et leur statut immunovirologique
-- Personnes obèses avec un indice de masse corporelle (IMC) égal ou supérieur à 40 kg/m2, sans pathologie associée ou atteintes d’une pathologie autre que celles citées ci-dessus
+- Obésité morbide (IMC ≥ 40 kg/m<sup>2</sup>)
 - Personnes séjournant en SSR, EHPAD ou médico-social
 - Entourage des nourrissons de moins de 6 mois présentant des facteurs de risque de grippe grave: prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d’une affection de longue durée ainsi que l’entourage des personnes mmunodéprimées.
+
+> [Calendrier vaccinal 2020](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
 
 ### Recommandations pour les professionnels
 
 - Professionnels de santé et tout professionnel en contact régulier et prolongé avec des personnes à risque de grippe sévère.
 - Personnel navigant des bateaux de croisière et des avions et personnel de l’industrie des voyages accompagnant les groupes de voyageurs (guides).
+
+> [Calendrier vaccinal 2020](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -76,10 +96,10 @@ Influvac Tetra 1 dose
 - Incubation de 2 jours. Contagieux jusqu'à 5 jours après l'apparition des signes.
 - Tableau de syndrome grippal fébrile  
 Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
-- **Grossesse**: 3e trimestre ++, mortalité élevée chez obèse et asthmatique
+- **Grossesse**: 3<sup>e</sup> trimestre ++, mortalité élevée chez obèse et asthmatique
 - Particularités du sujet âgé: dyspnée, confusion mentale, déshydratation, troubles digestifs
 - Enfant: somnolence, troubles digestifs
-- Immunodéprimés (greffé, SIDA): mortalité identique aux > 65 ans.
+- Immunodéprimés (greffé, SIDA): mortalité identique aux +65 ans.
 
 {{%/collapse%}}
 {{%collapse "Complications" %}}
@@ -92,8 +112,10 @@ Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
 {{%/collapse%}}
 {{%collapse "Vaccins disponibles en 2020-2021" %}}
 
-- Influvac Tetra
-- Vaxigrip Tetra
+- InfluvacTetra®
+- VaxigripTetra®
+
+Campagne de vaccination du 13 octobre 2020 au 31 janvier 2021.
 
 ### Bénéfices de la vaccination antigrippale
 
@@ -104,6 +126,7 @@ Chez le sujet vivant en établissement, la vaccination réduit la survenue de pa
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [ANSM. Vaccination contre la grippe 2020-2021 : une priorité pour les personnes à risque. Communiqué. 13/10/2020](https://ansm.sante.fr/S-informer/Actualite/Vaccination-contre-la-grippe-2020-2021-une-priorite-pour-les-personnes-a-risque-Communique)
 - [HAS. Vaccination antigrippale : la stratégie de la prochaine campagne annuelle réaffirmée dans le contexte de l’épidémie de COVID-19. 02/06/2020](https://www.has-sante.fr/jcms/p_3187536/fr/vaccination-antigrippale-la-strategie-de-la-prochaine-campagne-annuelle-reaffirmee-dans-le-contexte-de-l-epidemie-de-covid-19)
 - [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe ! 13/05/2020](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
 - [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
