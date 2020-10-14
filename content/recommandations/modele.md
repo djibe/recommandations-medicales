@@ -41,6 +41,4 @@ draft = true
 {{% /collapse %}}
 
 
-
-
 ≥

@@ -1,6 +1,6 @@
 +++
 title = "Certificat de non contre-indication à la pratique du sport"
-prefix = "le "
+prefix = "le"
 shortname = "Certificat sport"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

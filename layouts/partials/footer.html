@@ -49,7 +49,7 @@
   crossorigin="anonymous"></script>
 <script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }}
   crossorigin="anonymous" defer></script>
-<script src="{{ .Site.Params.cdn.material_js | absURL }}" defer></script>
+<script src="{{ .Site.Params.cdn.material_js}}" defer></script>
 <script src="https://cdn.jsdelivr.net/npm/lunr@2.3.8/lunr.min.js"
   integrity="sha256-34Si1Y6llMBKM3G0jQILVeoQKEwuxjbk4zGWXXMT4ps=" crossorigin="anonymous" defer></script>
 <script src="https://instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" crossorigin="anonymous"></script>
@@ -77,15 +77,6 @@
   };
 
   mermaid.initialize(mermaidConfig);
-
-  /* $('.collapse').on('shown.bs.collapse', function () {
-    mermaid.initialize(mermaidConfig);
-  }); */
-
-  /*mermaidAPI.initialize({
-    startOnLoad: true,
-    secure: ['parameter1', 'parameter2'] }
-  );*/
   </script>
 {{end}}
 

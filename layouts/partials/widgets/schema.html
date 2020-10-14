@@ -1,27 +1,50 @@
-{{ if eq .Section "recommandations" }}
 <script type="application/ld+json">
-  {
-      "@context" : "http://schema.org",
-      "@type" : "BlogPosting",
-      "mainEntityOfPage": {
-           "@type": "WebPage",
-           "@id": "{{ .Site.BaseURL }}"
+{{ if .IsHome }}
+  { 
+    "@context": "http://schema.org", 
+    "@type": "WebSite", 
+    "url": "{{ .Permalink }}", 
+    "name": "{{ .Site.Title | markdownify }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ .Site.Params.author }}"
       },
-      "articleSection" : "{{ .Section | humanize }}",
-      "name" : "{{ .Title }}",
-      "headline" : "Les recommandations pour {{ htmlUnescape .Params.prefix  }}{{ .Title }} en {{ now.Format "2006"}}",
-      "description" : "{{ if .Description }}{{ .Description | safeJS }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
-      "inLanguage" : "{{ .Site.LanguageCode }}",
-      "author" : "{{with .Params.auteurs}}{{delimit . ", " }}{{ end }}",
-      "creator" : "{{with .Params.auteurs}}{{delimit . ", " }}{{ end }}",
-      "publisher": "{{ .Site.Params.Author }}",
-      "copyrightHolder" : "{{ .Site.Params.Author }}",
-      "copyrightYear" : "{{ .Date.Format "2006" }}",
-      "datePublished": "{{ .Date }}",
-      "dateModified" : "{{ .Lastmod }}",
-      "url" : "{{ .Permalink }}",
-      "wordCount" : "{{ .WordCount }}",
-      "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }} ]
+    "description": "{{ .Site.Params.description }}",
   }
-  </script>
-  {{ end }}
+{{ end }}
+{{ if eq .Section "recommandations" }}
+  {
+    "@context" : "http://schema.org",
+    "@type" : "BlogPosting",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ .Site.BaseURL }}"
+      },
+    "articleSection" : "{{ .Section | humanize }}",
+    "name" : "{{ .Title }}",
+    "headline" : "{{ .Title }}",
+    "description" : "{{ if .Description }}{{ .Description | safeJS }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
+    "inLanguage" : "{{ .Site.LanguageCode }}",
+    "author" : "{{with .Params.auteurs}}{{delimit . ", " }}{{ end }}",
+    "creator" : "{{with .Params.auteurs}}{{delimit . ", " }}{{ end }}",
+    "publisher": "{{ .Site.Params.Author }}",
+    "copyrightHolder" : "{{ .Site.Params.Author }}",
+    "copyrightYear" : "{{ .Date.Format "2006" }}",
+    "datePublished": "{{ .PublishDate }}",
+    "dateModified" : "{{ .Lastmod }}",
+    "url" : "{{ .Permalink }}",
+    "wordCount" : "{{ .WordCount }}",
+    "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }} ]
+  }
+{{ end }}
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": {{ .Site.Title }},
+  "url": {{ .Site.BaseURL }},
+  "sameAs": [
+    {{ .Site.Params.github }}
+  ]
+}
+</script>
+
