@@ -13,7 +13,7 @@ sources = ["FMC"]
 tags = ["MICI", "crohn", "RCH"]
 anglais = []
 sctid = ""
-draft = false
+draft = true
 +++
 
 {{%article-summary%}}

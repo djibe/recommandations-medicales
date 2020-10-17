@@ -92,7 +92,7 @@ Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, i
 - Entéro-colopathie inflammatoire (diarrhée, amaigrissement)
 - Troubles du rythme/conduction et valvulopathies
 
-{{%warning%}}Recherche systématique de [MICI]({{< ref mici.md >}}) si diarrhée ou amaigrissement inexpliqué.{{%/warning%}}
+{{% warning %}}Recherche systématique de MICI si diarrhée ou amaigrissement inexpliqué.{{% /warning %}}
 
 {{% /collapse %}}
 {{%collapse "Critères diagnostics ESSG" %}}
