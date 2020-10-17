@@ -18,6 +18,4 @@
   
   <link rel="stylesheet" {{ printf "href=%q" .Site.Params.cdn.material_css | safeHTMLAttr }}>
   <link rel="stylesheet" href="{{ .Site.Params.cdn.css | absURL }}">
-
-  {{ partial "widgets/schema.html" . }}
 </head>
