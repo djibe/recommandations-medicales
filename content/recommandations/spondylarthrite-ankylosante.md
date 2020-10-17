@@ -1,7 +1,7 @@
 +++
 title = "Spondylarthrite ankylosante"
 prefix = "la "
-shortname = "SPA"
+shortname = "SpA"
 synonyms = ["Spondyloarthrite"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-15T20:39:41+02:00
@@ -14,19 +14,47 @@ tags = ["spondylarthrite", "AINS", "biotherapie", "anti-TNF"]
 anglais = ["Axial spondyloarthritis"]
 sctid = "723116002"
 draft = false
+scores = "basdai, basfi"
 todo = "foreach score modal"
 +++
 
+{{< scores/basdai >}}
+{{< scores/basfi >}}
+
 {{%article-summary%}}
 
-
+TODO
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
-Spondylarthrite ankylosante (SPA)
+### Formes de spondylarthrites
+
+On distingue les:
+
+- Spondylarthrites axiales (radiographiques ou non)
+- Périphériques articulaires (érosives ou non)
+- Périphériques enthésitiques
+
+Spondylarthrite ankylosante (SpA)
 : Rhumatisme inflammatoire chronique survenant chez l’adulte jeune (< 35 ans).
-: Appartient au groupe des spondylarthrites (SpA) avec les plus fréquents rhumatisme psoriasique et arthrites réactionnelles, arthrite associée au MICI, spondylarthrites indifférenciées.
+: Spondylarthrite la plus typique et la plus sévère. Atteinte rachidienne et sacro-iliaque conduisant à l’ankylose. Atteinte périphérique associée dans 50% des cas (uvéite surtout).
+
+Rhumatisme psoriasique
+: TODO
+
+Arthrites réactionnelles
+: Arthrites aseptiques associées à une conjonctivite, urétrite homme/cervicite femme.  
+Survenue dans les semaines qui suivent une infection génitale ou digestive.  
+Au maximum syndrome de Fiessinger-Leroy-Reiter (triade arthrite-urétrite-conjonctivite).
+: Association au HLA-B27. Chronicisation dans 10-20% des cas voire évolution en SpA.
+: Germes impliqués: Chlamydia, Shigella, Yersinia, Salmonella, Campylobacter.
+
+MICI
+: TODO
+
+Spondylarthropaties indifférenciées
+: Remplissent les critères ESSG/Amor.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -71,7 +99,34 @@ Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, i
 
 ESSG: *European Spondylarthropathy Study Group* (Se 87%, Spe 96%).
 
-{{% info %}}Diagnostic formel de spondylarthropathie si 1 critère majeur ET 1 critère mineur{{% /info %}}
+{{% info %}}
+
+**Diagnostic formel de spondylarthropathie si 1 critère majeur ET 1 critère mineur.**
+
+**CRITÈRES MAJEURS**
+
+1. Synovites (passées ou présentes) asymétriques ou prédominant aux membres inférieurs
+2. Douleurs du rachis (lombaire, dorsal ou cervical passées ou présentes) avec au-moins 3 critères parmi:
+    - début avant 45 ans
+    - début progressif
+    - Améliorées à l’exercice
+    - raideur matinale
+    - depuis plus de 3 mois
+
+---
+
+**CRITÈRES MINEURS**
+
+1. ATCD familiaux de spondylarthrite, psoriasis, uvéite, arthrite réactionnelle, MICI
+2. Psoriasis (antécédent ou actif)
+3. Infection génitale ou digestive 1 mois avant l’arthrite
+4. MICI (antécédent ou active)
+5. Enthésopathie achilléenne ou plantaire
+6. Fessalgie à bascule
+7. Sacro-iliite radiologique  
+(stade 2-4 bilatéral ou 3-4 unilatéral ; 0=normal, 1=possible, 2=modéré, 3=évolué, 4=ankylose)
+
+{{% /info %}}
 
 {{% /collapse %}}
 {{%collapse "Facteurs de mauvais pronostic" %}}
@@ -115,6 +170,8 @@ NFS, VS, CRP. Syndrome inflammatoire modeste (60%)
 {{% /table %}}
 
 > Tableau. Classification radiologique de la sacro-iliite
+
+**NB. La sacro-iliite radiologique ne survient en moyenne que 7 ans après le début des symptômes.**
 
 ### IRM des sacro-iliaques et des rachis dorso-lombaires
 
@@ -190,10 +247,6 @@ Indications: Douleurs réfractaires et gêne fonctionnelle sévère.
 
 Consultation de suivi tous les 3 à 6 mois (au moins annuelle).
 
-
-
-{{< scores/basdai >}}
-
 - {{< score "basdai" "Auto-score BASDAI" >}}  
 {{% class %}}Réalisé la semaine avant la consultation.{{% /class %}}
 - Axiale  
@@ -203,7 +256,7 @@ Nombre d’articulations douloureuses et gonflées.
 - Enthèses  
 Nombre d’enthèses douloureuses.
 - Retentissement fonctionnel  
-BASFI, HAQ.
+Échelles {{< score "basfi" "BASFI" >}}, HAQ.
 - Cutané. Recherche de psoriasis
 - Digestif. Recherche MICI
 - Ophtalmo. Recherche uvéite
