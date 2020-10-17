@@ -90,7 +90,7 @@ h4 {
   width: min(100%, 760px);
 }
 
-.recommandation__content li {
+.recommandation__content .alert-summary li {
   color: #424242;
 }
 

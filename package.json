@@ -32,7 +32,8 @@
   },
   "homepage": "https://recommandations-medicales.netlify.app",
   "devDependencies": {
-    "htmllint-cli": "0.0.7"
+    "htmllint-cli": "0.0.7",
+    "vnu-jar": "^20.6.30"
   },
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^2.2.0",
