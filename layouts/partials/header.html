@@ -3,22 +3,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="canonical" href="{{ .Permalink }}">
   <meta name="robots" content="index, follow">
-  <title>{{ if .IsPage }}Recommandations {{.Date.Format "2006"}} pour {{.Params.prefix}}{{ end }}{{ humanize .Title | truncate 60 | markdownify }} - {{ .Site.Title | markdownify }}</title>
+  <title>{{ if .IsPage }}Recommandations {{.Date.Format "2006"}} pour {{.Params.prefix}}{{ end }}{{ humanize .Title | truncate 58 | markdownify }} - {{ .Site.Title }}</title>
   <meta name="description" content="{{ if .IsPage }}{{ printf "%s %s %s %s %s%s" "Les recommandations" (now.Format "2006") "pour" .Params.prefix (lower .Title) ". Conduite à tenir en consultation et bilan de première intention pour les médecins généralistes."}}{{ else if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-
-  <meta name="mobile-web-app-capable" content="yes">
-	<meta name="apple-mobile-web-app-status-bar-style" content="default">
-	<meta name="apple-mobile-web-app-title" content="{{ .Site.Title | markdownify }}">
-  <meta name="keywords" content="{{with .Params.tags}}{{delimit . "," }}{{ end }}">
-  <meta name="author" content="{{with .Params.auteurs}}{{delimit . "," }}{{ end }}">
-  {{ hugo.Generator }}
-
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}">
-  <meta name="twitter:title" content="{{ .Title }}{{ if .IsHome }} - {{ .Site.Title | markdownify }}{{ else }} - {{ .Site.Title | markdownify }}{{ end }}">
-  <!--<meta name="twitter:site" content="{{ .Site.Params.twitter }}">-->
-  <!--<meta name="twitter:creator" content="{{ .Site.Params.twitter }}">-->
 
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
   <link rel="preconnect" href="https://cdn.jsdelivr.net/" crossorigin>

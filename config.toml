@@ -2,6 +2,7 @@ baseURL = "https://recommandations-medicales.netlify.app/"
 canonifyURLs = true
 copyright = "Tous droits réservés ©"
 DefaultContentLanguage = "fr"
+disableHugoGeneratorInject = true
 enableInlineShortcodes = true
 enableRobotsTXT = true
 languageCode = "fr-FR"

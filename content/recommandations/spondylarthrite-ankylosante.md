@@ -14,7 +14,7 @@ tags = ["spondylarthrite", "AINS", "biotherapie", "anti-TNF"]
 anglais = ["Axial spondyloarthritis"]
 sctid = "723116002"
 draft = false
-scores = "basdai, basfi"
+scores = ["basdai", "basfi"]
 todo = "foreach score modal"
 +++
 
@@ -243,7 +243,7 @@ Indications: Douleurs réfractaires et gêne fonctionnelle sévère.
 {{% /collapse %}}
 {{%collapse "Surveillance" %}}
 
-### Clinique
+### Surveillance clinique
 
 Consultation de suivi tous les 3 à 6 mois (au moins annuelle).
 

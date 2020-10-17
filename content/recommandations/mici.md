@@ -10,7 +10,7 @@ lastmod = 2020-10-14
 categories = ["hepato-gastro-enterologie"]
 guidelineyears = "2019"
 sources = ["FMC"]
-tags = ["MICI", "crohn", "RCH"]
+tags = ["MICI","Crohn","RCH"]
 anglais = []
 sctid = ""
 draft = true
@@ -71,7 +71,7 @@ Coproculture, recherche de toxines de clostridium difficile
 CRP élevée corélée à la sévérité du Crohn, pas vrai en RCH (sauf colite aigue grave).
 CRP normale n'élimne pas le diag de MICI.
 
-CF) est recommandé pour le diagnostic initial. C’est le marqueur biologique le plus sensible de l’inflammation intestinale dans les MICI avec une bonne corrélation avec les indices d’activité endoscopique
+CF est recommandé pour le diagnostic initial. C’est le marqueur biologique le plus sensible de l’inflammation intestinale dans les MICI avec une bonne corrélation avec les indices d’activité endoscopique
 Seuil diag 150 µg /g de selles.
 
 Les tests génétiques et les sérologies (ASCA/ANCA) ne sont pas recommandés pour le diagnostic de routine de MC ou de RCH.
@@ -103,5 +103,3 @@ sérologie rougeole et varicelle
 vérif 1er bilan. VHB, VHC, VIH, EBV, CMV
 Quantiferon
 VACCINATION IMMUNODEP
-
-

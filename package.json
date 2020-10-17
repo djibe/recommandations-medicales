@@ -1,7 +1,7 @@
 {
   "name": "univ-medicale",
-  "version": "0.1.0",
-  "description": "Site communautaire des recommandations en 1er recours en médecine générale",
+  "version": "0.2.0",
+  "description": "Site communautaire des recommandations en premier recours en médecine générale",
   "scripts": {
     "build": "hugo --minify",
     "css:purge": "purgecss -c build/postcss.config.js",

@@ -226,7 +226,8 @@ Doxycycline 100 mg x 2/jour per os pendant 28 jours
 {{% /collapse %}}
 {{%collapse "Surveillance du traitement" %}}
 
-### Clinique
+### Surveillance clinique
+
 Disparition du chancre ou de l’éruption en 3 à 15 jours.
 
 ### Sérologique
