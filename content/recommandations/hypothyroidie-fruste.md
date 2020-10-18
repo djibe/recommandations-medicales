@@ -24,34 +24,21 @@ TSH > 10 mUI/L, anticorps anti-TPO positifs, TSH > 4 mUI/L pendant la grossesse
 - Traitement d'épreuve si hypothyroïdie fruste avec signes cliniques évocateurs
 
 {{%/article-summary%}}
-{{%collapse "Conduite à tenir" %}}
+{{%collapse "Définitions" %}}
 
-**Découverte fortuite de TSH > 4 mUI/L sans signes cliniques:**
-
-- Dépistage chez population à risque (à revoir)
-- Bilan systématique
-
-**Bilan à 1 mois avec TSH, T4L, anticorps anti-TPO**
-
-- Si T4L basse : hypothyroïdie (voir fiche)
-- Si T4L normale et TSH > 10 mUI/L : traitement immédiat
-- Si T4L normale et anticorps anti-TPO+ : traitement immédiat
-- Si enceinte avec TSH > 4 mUI/L : traitement immédiat
-- Sinon : contrôle TSH à 6 mois puis annuel en l'absence de normalisation
-
-{{% /collapse %}}
-{{%collapse "Définition" %}}
-
-- L'**hypothyroïdie fruste** (ou infraclinique) : **TSH élevée de façon isolée**  
+Hypothyroïdie fruste (ou infraclinique)
+: **TSH élevée de façon isolée**  .
 TSH > 4mUI/L à 2 reprises (espacées d'un mois) avec T4L normale.
-Chez le > 80 ans : prendre comme valeur limite haute 7 mUI/L
-- de l'[hypothyroïdie patente]({{< ref "hypothyroidie.md" >}}) : **TSH élevée et T4L diminuée**.
+: Chez le +80 ans: prendre comme valeur limite haute 7 mUI/L.
+
+[Hypothyroïdie patente]({{< ref "hypothyroidie.md" >}})
+: **TSH élevée et T4L diminuée**.
 
 Lorsque la TSH est modérément élevée, de 4 à 10 mUI/L, renouveler le dosage TSH + T4L à 2 mois.
 
 ### Épidémiologie
 
-Prévalence en France : 2,5%
+Prévalence en France: 2,5%.
 
 ### Évolution
 
@@ -73,15 +60,15 @@ Prévalence en France : 2,5%
 
 Clinique inconstante.
 
-Si TSH > 10 : augmentation du risque cardio-vasculaire, de répercussions neuro-psychologiques et qualité de vie.
+Si TSH > 10: augmentation du risque cardio-vasculaire, de répercussions neuro-psychologiques et qualité de vie.
 
 Perturbations du bilan lipidique.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Pas de dépistage de la population générale. 
-Dépistage ciblé : femme > 60 ans et facteurs de risque.
+Pas de dépistage de la population générale.  
+Dépistage ciblé: femme > 60 ans et facteurs de risque.
 
 ### Indications au traitement 
 
@@ -100,6 +87,30 @@ Débuter la lévothyroxine à posologie basse, croissante par paliers jusqu'à o
 - Si TSH > 3 mUI/L : surveillance rapprochée avec TSH à 1 mois
 - Traitement systématique dès que la TSH > 4 mUI/L
 - TSH cible < 2,5 mUI/L
+
+{{% /collapse %}}
+{{%collapse "Conduite à tenir" "show" %}}
+
+**Découverte fortuite de TSH > 4 mUI/L sans signes cliniques:**
+
+- Dépistage chez population à risque (à revoir)
+- Bilan systématique
+
+**Bilan à 1 mois avec TSH, T4L, anticorps anti-TPO**
+
+- Si T4L basse : hypothyroïdie (voir fiche)
+- Si T4L normale et TSH > 10 mUI/L : traitement immédiat
+- Si T4L normale et anticorps anti-TPO+ : traitement immédiat
+- Si enceinte avec TSH > 4 mUI/L : traitement immédiat
+- Sinon : contrôle TSH à 6 mois puis annuel en l'absence de normalisation
+
+{{< mermaid >}}
+graph TB
+  decouverte["TSH augmentée"] --"Contrôle à 1 mois"--> TSH["TSH augmentée"] -- "T4L normale" --> hTFruste("Hypothyroïdie fruste") --> anomalies("<strong>Anomalies?</strong><br>- TSH > 10<br>- Anticorps anti-TPO +<br>- Grossesse et TSH > 4<br>- Clinique d'hypothyroïdie") --"Oui"--> traitement("Traitement")
+  style decouverte stroke:#6200ee, stroke-width:1px
+  TSH -- "T4L basse" --> hT("Hypothyroïdie patente")
+    anomalies --"Non"--> surveillance("Surveillance à 6 mois<br>puis annuelle")
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

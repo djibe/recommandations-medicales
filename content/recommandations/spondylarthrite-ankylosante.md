@@ -6,15 +6,16 @@ synonyms = ["Spondyloarthrite"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-15T20:39:41+02:00
 publishdate = 2020-10-15
-lastmod = 2020-10-15
+lastmod = 2020-10-18
 categories = ["rhumatologie"]
-guidelineyears = "2017"
-sources = ["SFRhumato"]
+guidelineyears = "2018"
+sources = ["SFRhumato", "EULAR"]
 tags = ["spondylarthrite", "AINS", "biotherapie", "anti-TNF"]
 anglais = ["Axial spondyloarthritis"]
 sctid = "723116002"
 draft = false
 scores = ["basdai", "basfi"]
+http = true
 todo = "foreach score modal"
 +++
 
@@ -37,7 +38,7 @@ On distingue les:
 - Périphériques enthésitiques
 
 Spondylarthrite ankylosante (SpA)
-: Rhumatisme inflammatoire chronique survenant chez l’adulte jeune (< 35 ans).
+: Rhumatisme inflammatoire chronique potentiellement grave et handicapante survenant chez l’adulte jeune (< 35 ans).
 : Spondylarthrite la plus typique et la plus sévère. Atteinte rachidienne et sacro-iliaque conduisant à l’ankylose. Atteinte périphérique associée dans 50% des cas (uvéite surtout).
 
 Rhumatisme psoriasique
@@ -93,6 +94,15 @@ Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, i
 - Troubles du rythme/conduction et valvulopathies
 
 {{% warning %}}Recherche systématique de MICI si diarrhée ou amaigrissement inexpliqué.{{% /warning %}}
+
+### Comorbidités
+
+- Antécédents
+- Traitements en cours
+- Tabagisme, activité physique, corpulence (poids, taille, IMC)
+- Dépistages recommandés et calendrier vaccinal
+- Mesure de la pression artérielle et symptômes cardio-vasculaires
+- Palpation des aires ganglionnaires
 
 {{% /collapse %}}
 {{%collapse "Critères diagnostics ESSG" %}}
@@ -153,7 +163,7 @@ ESSG: *European Spondylarthropathy Study Group* (Se 87%, Spe 96%).
 
 ### Biologie
 
-NFS, VS, CRP. Syndrome inflammatoire modeste (60%)
+NFS, VS, CRP (syndrome inflammatoire modeste, 60% des cas).
 
 ### Radiographies
 
@@ -180,24 +190,27 @@ Importante pour un diagnostic précoce.
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Objectif: rémission ou activité minimale de la maladie.
+Objectif: rémission ou activité minimale de la maladie. Cibles objectivables définies avec le patient.
 
-- Déclaration ALD 27 (100 %)  
+- Déclarer l'ALD 27 (100 %)  
 ± MDPH
 - Suivi spécialisé systématique par le rhumatologue
 - Éducation du patient
-- Arrêt du tabac  
+- Arrêt du tabac systématique  
 {{% class %}}Augmente la sévérité de la maladie.{{% /class %}}
+- Encourager l'activité physique
 - Contrôle du poids
 {{% class %}}Obésité est facteur de résistance aux anti-TNF.{{% /class %}}
+- Dépistage des comorbidités cardio-vasculaires et ostéoporose
 - AINS  
 Intérêt d’AINS à libération prolongée en 1<sup>re</sup> intention.  
 Souvent rechute douloureuse en moins de 48h après leur arrêt.
-Essai de 3 à 5 molécules différentes pendant quelques jours chacune avant de conclure à l’inefficacité de chacune (n’ont pas d’effets sur l’inflammation biologique).  
+Essai ≥ 2 molécules différentes pendant ≥ 2 semaines chacune avant de conclure à l’inefficacité de chacune (aucun effet sur l’inflammation biologique).  
 Utiliser à dose optimale (même si doses maximales), mais en conservant posologie et durée minimales.  
 Selon Prescrire®: ibuprofène (max 400mg x 3/j) et naproxène (max 550mg x 2/j) ont le meilleur rapport bénéfice/risque parmi les AINS.
-- La corticothérapie générale n’est pas justifiée pour l’atteinte axiale.
-- Antalgiques
+- "La corticothérapie générale n’est pas justifiée dans la majorité des cas"
+- Antalgiques  
+{{% class %}}Pour contrôler les douleurs résiduelles.{{% /class %}}
 - Physiothérapie, ergothérapie, appareillages
 - Kinésithérapie en extension rachidienne  
 Travail d’amplitude respiratoire  
@@ -206,26 +219,31 @@ Auto-exercices
 - Associations de malades
 - Participer à la recherche (cohorte APHP Compare)
 
-### Arthrite
+### Arthrite périphérique
 
 - Infiltration de corticoïdes
 - Synoviorthèse isotopique.
 
 ### Enthésopathies
 
-Infiltrations de corticoïdes
+Infiltrations de corticoïdes.
 
 ### Traitement de fond
 
-Lors de réponse partielle aux AINS, prescription par rhumatologue.
+Lors de réponse partielle aux AINS, prescription par le rhumatologue.
 
-Les traitements conventionnels (méthotrexate, léflunomide-Arava®, sulfasalazine-Salazopyrine®) n’ont pas d’indication en atteinte axiale ou enthésitique isolée.  
+#### Traitements conventionnels
+
+Les traitements conventionnels (**méthotrexate**, **léflunomide**/Arava®, **sulfasalazine**/Salazopyrine®) n’ont pas d’indication en atteinte axiale ou enthésitique isolée.  
 Ils peuvent être envisagés en cas d’arthrite périphérique réfractaire au traitement symptomatique.
 
-#### Anti-TNFα en monothérapie
-En cas de réponse insuffisante sous traitement conventionnel (symptômes persistants sous AINS pleine dose ou BASDAI ≥ 4/10 ou ASDAS ≥ 2,1 sous AINS).
+#### Biothérapies
 
-Possibilité de survenue d’effets paradoxaux: déclenchement d’uvéite, psoriasis, Crohn de novo.  
+**Indications:**
+
+1. En cas de réponse insuffisante aux AINS (symptômes persistants sous AINS pleine dose ou BASDAI ≥ 4 ou ASDAS ≥ 2,1 sous AINS).
+
+Possibilité de survenue d’effets paradoxaux: déclenchement d’uvéite, psoriasis, maladie de Crohn de novo.  
 Rotation possible en cas de perte d’efficacité.  
 Réduction et espacement en rémission stable et prolongée.
 
@@ -247,6 +265,10 @@ Indications: Douleurs réfractaires et gêne fonctionnelle sévère.
 
 Consultation de suivi tous les 3 à 6 mois (au moins annuelle).
 
+Une amélioration doit être obtenue à 3 mois pour poursuivre une stratégie, avec objectif de contrôle cible à 6 mois.
+
+- Score composite de contrôle de la maladie  
+ASDAS si axial et DAS si périphérique.
 - {{< score "basdai" "Auto-score BASDAI" >}}  
 {{% class %}}Réalisé la semaine avant la consultation.{{% /class %}}
 - Axiale  
@@ -274,9 +296,19 @@ VS, CRP.
 {{% class %}}Dépistage et surveillance d’atteinte ophtalmo.{{% /class %}}
 
 {{% /collapse %}}
+{{%collapse "Conduite à tenir" "show" %}}
+
+{{< mermaid >}}
+graph TB
+  suspicion["SpA"]
+  style suspicion stroke:#6200ee, stroke-width:1px
+{{< /mermaid >}}
+
+{{% /collapse %}}
 {{%collapse "Sources" %}}
 
 - [Société Française de Rhumatologie. Actualisation 2018 des recommandations de la Société française de rhumatologie (SFR) pour la prise en charge en pratique courante des malades atteints de spondyloarthrite](https://www.em-consulte.com/article/1202013/figures/actualisation-2018%C2%A0des-recommandations-de-la-socie)
+- [Gossec L. et al. Collecte et prise en charge de certaines comorbidités et facteurs de risque associés dans le cadre des rhumatismes inflammatoires chroniques dans la pratique quotidienne en France. Revue du Rhumatisme Volume 84, Issue 2, March 2017, Pages 123-131](https://www.sciencedirect.com/science/article/abs/pii/S1169833016308250)
 - [Société Française de Rhumatologie. Recommandations de la Société française de rhumatologie pour la prise en charge en pratique courante des malades atteints de spondylarthrite. 2014.](http://dev.larhumato.fr/wp-content/uploads/2017/11/SA20recos20SFR20Rev20Rhum.pdf)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Spondylarthrite inflammatoire - Item 193.](http://www.lecofer.org/item-cours-1-20.php)
 
