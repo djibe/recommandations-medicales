@@ -90,7 +90,7 @@ Corticodépendance, érythème desquamatif, grandes télangiectasies des zones p
 Pas de flushs, pas de papules/pustules, atrophie et hyperkératose, photosensibilité, vespertilio.
 - [Acné]({{< ref "acne.md" >}})  
 Adolescent, comédons, pas de flushs.
-- [Dermatite séborrhéique]({{< ref dermatite-seborrheique.md >}})  
+- [Dermatite séborrhéique]({{< ref "dermatite-seborrheique.md" >}})  
 Localisations séborrhées, fond érythémateux parsemé de squames grasses.
 
 {{% /collapse %}}
