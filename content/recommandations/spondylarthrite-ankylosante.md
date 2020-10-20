@@ -16,7 +16,7 @@ sctid = "723116002"
 draft = false
 scores = ["basdai", "basfi"]
 http = true
-todo = "foreach score modal"
+todo = "foreach score modal, bilan pré-thérap antitnfa"
 +++
 
 {{< scores/basdai >}}
@@ -24,7 +24,10 @@ todo = "foreach score modal"
 
 {{%article-summary%}}
 
-TODO
+- Dorso-lombalgies durée > 3 mois, réveil nocturne, dérouillage matinal > 30 minutes, aggravées au repos, diminuées à l’activité physique.
+- Grande efficacité des AINS
+- Bilan biologique + Rx + IRM
+- Avis rhumatologique systématique
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -99,13 +102,15 @@ Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, i
 
 - Antécédents
 - Traitements en cours
-- Tabagisme, activité physique, corpulence (poids, taille, IMC)
-- Dépistages recommandés et calendrier vaccinal
+- Tabagisme
+- Activité physique et corpulence (poids, taille, IMC)
+- Dépistages recommandés et mise à jour du calendrier vaccinal
 - Mesure de la pression artérielle et symptômes cardio-vasculaires
 - Palpation des aires ganglionnaires
+- Facteurs de risque d'ostéoporose et calcul du FRAX
 
 {{% /collapse %}}
-{{%collapse "Critères diagnostics ESSG" %}}
+{{%collapse "Critères diagnostiques ESSG" %}}
 
 ESSG: *European Spondylarthropathy Study Group* (Se 87%, Spe 96%).
 
@@ -164,6 +169,8 @@ ESSG: *European Spondylarthropathy Study Group* (Se 87%, Spe 96%).
 ### Biologie
 
 NFS, VS, CRP (syndrome inflammatoire modeste, 60% des cas).
+
+Mise à jour du bilan cardio-vasculaire (glycémie à jeun, bilan lipidique pour calcul du Heart SCORE).
 
 ### Radiographies
 
@@ -230,33 +237,64 @@ Infiltrations de corticoïdes.
 
 ### Traitement de fond
 
+Voir le chapitre dédié.
+
+### Chirurgie
+
+Indications: arthrite périphérique destructrice, ankylose rachidienne avec déformation majeure ou de fracture rachidienne.
+
+{{% /collapse %}}
+{{%collapse "Traitement de fond" %}}
+
 Lors de réponse partielle aux AINS, prescription par le rhumatologue.
 
-#### Traitements conventionnels
+### Traitements conventionnels
 
 Les traitements conventionnels (**méthotrexate**, **léflunomide**/Arava®, **sulfasalazine**/Salazopyrine®) n’ont pas d’indication en atteinte axiale ou enthésitique isolée.  
 Ils peuvent être envisagés en cas d’arthrite périphérique réfractaire au traitement symptomatique.
 
-#### Biothérapies
+### Biothérapies
 
 **Indications:**
 
-1. En cas de réponse insuffisante aux AINS (symptômes persistants sous AINS pleine dose ou BASDAI ≥ 4 ou ASDAS ≥ 2,1 sous AINS).
+1. SpA axiale  
+    - Réponse insuffisante aux AINS (symptômes persistants sous AINS pleine dose)
+    - ET ASDAS ≥ 2,1 ou BASDAI ≥ 4
+    - ET Rx+ ou inflammation IRM ou CRP+
+2. SpA périphérique Enthésitique
+    - Réponse insuffisante aux AINS ± infiltration
+    - ET CRP élevée ou inflammation IRM
+    - EVA ≥ 4
+3. SpA périphérique Articulaire
+    - Réponse insuffisante aux AINS ± infiltration
+    - ET échec ≥ 1 DMARD
+    - ET NAG et NAD ≥ 3 (ou nombre inférieur si coxite ou arthrite réfractaire aux infiltrations ou progression radiographique)
+
+Évaluation de l'efficacité à 3 mois. En l'absence d'efficacité à 6 mois le traitement doit être modifié.
 
 Possibilité de survenue d’effets paradoxaux: déclenchement d’uvéite, psoriasis, maladie de Crohn de novo.  
 Rotation possible en cas de perte d’efficacité.  
 Réduction et espacement en rémission stable et prolongée.
 
-- Adalimumab (Humira® 814€/mois)
+#### Classes thérapeutiques
+
+##### Anti-TNFα
+
+- Adalimumab (Humira® ou biosim Amgevita®, Hulio®, Hyrimoz®, Idacio®, Imraldi®)
 - Certolizumab (Cimzia®)
-- Étanercept (Benepali®, Enbrel®)
+- Étanercept (Enbrel® ou biosim Benepali®, Erelzi®)
 - Golimumab (Simponi®)
-- Infliximab (Inflectra®, Remicade®, Remsima®)
+- Infliximab (Remicade® ou biosim Flixabi®, Inflectra®, Remsima®)
+
+###### Bilan pré-thérapeutique des Anti-TNFα
+
+{{< pretherapeutiques/antitnf >}}
+
+#### Anti-IL
+
 - Sécukinumab (Cosentyx®)
 
-### Chirurgie
-
-Indications: Douleurs réfractaires et gêne fonctionnelle sévère.
+[Bilan pré-thérapeutique et surveillance sous biothérapie](http://www.cri-net.com/fiches-pratiques-et-eSessions/dernieres-mises-a-jour).
 
 {{% /collapse %}}
 {{%collapse "Surveillance" %}}
@@ -283,6 +321,7 @@ Nombre d’enthèses douloureuses.
 - Digestif. Recherche MICI
 - Ophtalmo. Recherche uvéite
 - Tolérance des traitements
+- Surveillance du risque cardio-vasculaire
 
 ### Autres
 
@@ -300,8 +339,9 @@ VS, CRP.
 
 {{< mermaid >}}
 graph TB
-  suspicion["SpA"]
+  suspicion["Suspicion de SpA"] --> bilan("Biologie<br>Rx rachis complet F+P<br>et bassin F<br>IRM rachis DL + SI") --> rhumato("AINS pleine dose<br>et avis rhumatologique SYSTÉMATIQUE")
   style suspicion stroke:#6200ee, stroke-width:1px
+
 {{< /mermaid >}}
 
 {{% /collapse %}}
