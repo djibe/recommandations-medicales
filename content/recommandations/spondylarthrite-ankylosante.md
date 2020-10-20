@@ -244,7 +244,7 @@ Voir le chapitre dédié.
 Indications: arthrite périphérique destructrice, ankylose rachidienne avec déformation majeure ou de fracture rachidienne.
 
 {{% /collapse %}}
-{{%collapse "Traitement de fond" %}}
+{{%collapse "Traitements de fond" %}}
 
 Lors de réponse partielle aux AINS, prescription par le rhumatologue.
 

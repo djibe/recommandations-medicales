@@ -46,7 +46,7 @@ Le diagnostic est clinique pour ses différentes variantes cliniques.
 - Ancienneté, flushs
 - Traitements essayés
 
-### Clinique
+### Examen clinique
 
 - Phototype
 - Signes différentiels  
@@ -88,7 +88,7 @@ Corticodépendance, érythème desquamatif, grandes télangiectasies des zones p
 
 - Lupus érythémateux  
 Pas de flushs, pas de papules/pustules, atrophie et hyperkératose, photosensibilité, vespertilio.
-- [Acné]({{< ref acne.md >}})  
+- [Acné]({{< ref "acne.md" >}})  
 Adolescent, comédons, pas de flushs.
 - [Dermatite séborrhéique]({{< ref dermatite-seborrheique.md >}})  
 Localisations séborrhées, fond érythémateux parsemé de squames grasses.
