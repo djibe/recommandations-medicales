@@ -169,15 +169,16 @@ Autre traitement possible mais de faible efficacité: acide azélaïque gel 15% 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
+[Haute Autorité de Santé. Acné: quand et comment la traiter?](https://www.has-sante.fr/jcms/c_2564525/fr/acne-quand-et-comment-la-traiter)
+
+[Carnet de suivi patient sous isotrétinoïde (ANSM septembre 2015)](https://vidalbox.vidal.fr/files/uploads/resources/document_2742.pdf)
+
 Selon la SFDermato, informer le patient:
+
 - du caractère suspensif du traitement et de la nécessité d’un traitement d’entretien local aussi longtemps que nécessaire
 - du délai de quelques semaines nécessaire à l’obtention d’une amélioration
 - de la nécessité de la régularité des applications
 - des effets irritants fréquents des traitements locaux et des mesures à prendre pour les prévenir et les prendre en charge
-
-[Haute Autorité de Santé. Acné: quand et comment la traiter?](https://www.has-sante.fr/jcms/c_2564525/fr/acne-quand-et-comment-la-traiter)
-
-[Carnet de suivi patient sous isotrétinoïde (ANSM septembre 2015)](https://vidalbox.vidal.fr/files/uploads/resources/document_2742.pdf)
 
 {{%/collapse%}}
 {{%collapse "Outils en ligne" %}}
@@ -189,9 +190,9 @@ Selon la SFDermato, informer le patient:
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
+- [ANSM. Traitement contre l’acné : règles de bon usage de l’isotrétinoïne pour limiter les risques - Point d'Information. 21/10/2020.](https://ansm.sante.fr/S-informer/Actualite/Traitement-contre-l-acne-regles-de-bon-usage-de-l-isotretinoine-pour-limiter-les-risques-Point-d-Information)
 - La Revue Prescrire. Patients ayant une acné. Mars 2017.
 - La Revue Prescrire. Premiers choix Prescrire. Acné. Octobre 2016.
-- [ANSM. À propos de l’isotrétinoïne orale. Novembre 2015.](//www.ansm.sante.fr/var/ansm_site/storage/original/application/6db6daaa7b5797f8320db36d161a7adf.pdf)
 - [Société Française de Dermatologie (label HAS). Prise en charge de l’acné. 10 juin 2015](//www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)
 - [ANSM. Mai 2015. Restriction de la prescription initiale de l’isotrétinoïne orale aux dermatologues – Lettre aux professionnels de santé](//www.ansm.sante.fr/content/download/76973/976491/version/1/file/DHCP_Isotretinoine-medecins_13-05-2015.pdf)
 

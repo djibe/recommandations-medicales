@@ -14,6 +14,7 @@ tags = ["hirsutisme"]
 anglais = ["Hirsutism"]
 sctid = "399939002"
 draft = false
+todo = "summary, bilan paraclinique"
 +++
 
 {{%article-summary%}}

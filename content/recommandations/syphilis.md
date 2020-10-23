@@ -167,7 +167,7 @@ Permet diagnostic immédiat mais prélèvement nécessite expertise.{{% class %}
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-Port du préservatif avec tout partenaire en l'absence de bilan d'IST récent des 2 partenaire. Également si multi-partenaires. 
+Port du préservatif avec tout partenaire en l'absence de bilan d'IST récent des 2 partenaires. Également si multi-partenaires. 
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}

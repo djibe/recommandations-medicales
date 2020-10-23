@@ -73,7 +73,7 @@ Systématique avant de débuter le traitement.
 
 La supplémentation en acide folique (vitamine B9) réduit les effets indésirables:
 
-- Symptômes  gastro-intestinaux
+- Symptômes gastro-intestinaux
 - Stomatite
 - Alopécie
 - Augmentation  des enzymes hépatiques

@@ -14,6 +14,7 @@ tags = ["certificat"]
 anglais = []
 sctid = ""
 draft = false
+todo = "indication ecg et ecomp, quel examen clinique"
 +++
 
 {{%article-summary%}}

@@ -55,7 +55,7 @@ Applications de dermocorticoïdes, atrophie, hyperkératose, photosensibilité, 
 ### Forme vasculaire
 
 Bouffées vasomotrices paroxystiques ou **flushs**.  
-Rougeur paroxystique des visage et cou avec sensation de chaleur durant quelques minutes.  
+Rougeur paroxystique du visage et du cou avec sensation de chaleur durant quelques minutes.  
 **Facteurs déclenchants**: changement de température, ingestion de boisson chaude, alcool, épices.  
 Aucun signe systémique et récupération spontanée totale en quelques minutes.
 
@@ -170,9 +170,9 @@ Lavage quotidien, expression du contenu des glandes de Mebomius, gels palpébrau
 
 {{< mermaid >}}
 graph TB
-  rosacee["Rosacée"] --> mineure("<strong>Forme mineure</strong><br>métronidazole gel 0,75% x 2/j 3 mois")
+  rosacee["Rosacée"] --"Forme mineure"--> mineure("métronidazole gel 0,75% x 2/j 3 mois")
   style rosacee stroke:#6200ee, stroke-width:1px
-  rosacee --> diffuse("<strong>Forme diffuse</strong><br>doxycycline 50mg/j 3 mois") --> entretien("<strong>Traitement d'entretien</strong><br>Métronidazole gel 0,75 % x 1-2/j") -.-> autres("Résistance aux traitements<br>Rhinophyma<br>Télangiectasies") --> dermato("Avis dermatologique")
+  rosacee --"Forme diffuse"--> diffuse("<strong>Traitement d'attaque</strong><br>doxycycline 50mg/j 3 mois") --> entretien("<strong>Traitement d'entretien</strong><br>Métronidazole gel 0,75 % x 1-2/j") -.-> autres("Résistance aux traitements<br>Rhinophyma<br>Télangiectasies") --> dermato("Avis dermatologique")
   rosacee --"Diagnostic différentiel"--> differentiel("Lupus<br>Acné<br>Dermatite séborrhéique")
 
 {{< /mermaid >}}
