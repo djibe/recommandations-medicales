@@ -14,6 +14,7 @@ tags = ["ferritine", "hemochromatose", "syndrome metabolique"]
 anglais = ["Hyperferritinemia"]
 sctid = "390943009"
 draft = false
+todo = "Lire la fmc"
 +++
 
 {{%article-summary%}}
@@ -25,7 +26,7 @@ draft = false
 
 La ferritine est une protéine intracellulaire du stockage du fer. Elle est donc un reflet indirect de ce stock.
 
-De nombreuses maladies influent la ferritinémie, en dehors de l'hémochromatose HFE C282Y dont la prise en soins est cadrée.
+De nombreuses maladies influent la ferritinémie, en dehors de l'hémochromatose HFE C282Y dont la prise en charge est cadrée.
 
 {{% /collapse %}}
 {{%collapse "Étiologie" %}}

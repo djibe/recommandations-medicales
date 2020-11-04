@@ -14,6 +14,7 @@ tags = ["HSH", "IST"]
 anglais = ["MSM", "Men who have sex with men"]
 sctid = "76102007"
 draft = false
+todo = "https://www.eacsociety.org/files/2019_guidelines-10.0_final.pdf p. 24"
 +++
 
 {{%article-summary%}}

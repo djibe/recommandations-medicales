@@ -14,7 +14,7 @@ tags = ["polyarthrite", "anti-TNF", "methotrexate"]
 anglais = ["Rheumatoid arthritis"]
 sctid = "69896004"
 draft = false
-todo = "latest reco, scores"
+todo = "lire la reco, 1re ordo, scores"
 +++
 
 {{%article-summary%}}
@@ -45,9 +45,7 @@ Ils sont appelés **csDMARDs** par l’EULAR (conventional synthetic Disease Mod
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques ACR/EULAR" %}}
 
-diagnostic retenu si 
-≥ 1 synovite clinique ET pas d’autre diagnostic  
-ET score ≥ 6/10
+{{%info%}}Diagnostic retenu si ≥ 1 synovite clinique ET pas d’autre diagnostic ET score ≥ 6/10{{%info%}}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -125,7 +123,7 @@ Goutte, chondrocalcinose articulaire
 - Créatininémie
 - Bandelette urinaire (protéinurie, hématurie)
 - Facteur rhumatoïde (FR)
-- Anticorps anti-CCP (ACPA, anticorps anti-peptide citruliné)
+- Anticorps anti-peptide citruliné (ACPA)
 - Anticorps antinucléaires (AAN)
 
 {{%/info%}}

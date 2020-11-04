@@ -14,6 +14,7 @@ tags = ["epreuve effort", "angor", "diabete", "HTA", "sport"]
 anglais = ["Cardiopulmonary exercise test (CPET)"]
 sctid = "447346005"
 draft = false
+todo = "probabilite pre-test, rcv score"
 +++
 
 {{%article-summary%}}

@@ -15,6 +15,7 @@ anglais = ["Product containing only nicotine"]
 sctid = "776904000"
 qualite = "bonne"
 draft = false
+todo = "score fagerstrom"
 +++
 
 ## {{< class "typography-headline-5" >}}Sevrage tabagique - les substituts nicotiniques remboursés{{</class>}}

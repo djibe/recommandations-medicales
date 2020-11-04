@@ -14,6 +14,7 @@ tags = ["acide folique"]
 anglais = ["Methotrexate"]
 sctid = "387381009"
 draft = false
+todo = "complications, EI"
 +++
 
 {{%article-summary%}}

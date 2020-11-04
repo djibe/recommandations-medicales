@@ -14,6 +14,7 @@ tags = ["insuffisance renale", "risque cardiovasculaire", "HTA", "diabete"]
 anglais = ["Renal failure syndrome"]
 sctid = "42399005"
 draft = false
+todo = "etiologie"
 +++
 
 {{% article-summary %}}
