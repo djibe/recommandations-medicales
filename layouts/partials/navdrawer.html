@@ -6,19 +6,19 @@
          </div>
          <div class="navdrawer-nav">
             {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-            {{ if eq "categories" $taxonomyname }}
-            {{ range $category, $pageOfCategory := $taxonomy }}
-            <a class="nav-item nav-link collapsed text-capitalize" data-toggle="collapse"
-               href="#navdrawer-{{ $category | urlize }}"><strong>{{ $category | truncate 20 }}</strong>
-               <span class="ml-2">({{ len $pageOfCategory }})</span></a>
-            <div class="collapse" id="navdrawer-{{$category | urlize | lower}}">
-               {{ range $pageOfCategory.Pages }}
-               <a class="nav-item nav-link text-black-secondary my-0" href="{{ .Permalink }}">
-                  <span class="font-weight-normal">{{ .Title }}</span></a>
+               {{ if eq "categories" $taxonomyname }}
+                  {{ range $category, $pageOfCategory := $taxonomy }}
+                  <a class="nav-item nav-link collapsed text-capitalize" data-toggle="collapse"
+                     href="#navdrawer-{{ $category | urlize }}"><strong>{{ $category | truncate 20 }}</strong>
+                     <span class="ml-2">({{ len $pageOfCategory }})</span></a>
+                  <div class="collapse" id="navdrawer-{{$category | urlize | lower}}">
+                     {{ range $pageOfCategory.Pages.ByTitle }}
+                     <a class="nav-item nav-link text-black-secondary my-0" href="{{ .Permalink }}">
+                        <span class="font-weight-normal">{{ .Title }}</span></a>
+                     {{ end }}
+                  </div>
+                  {{ end }}
                {{ end }}
-            </div>
-            {{ end }}
-            {{ end }}
             {{ end }}
          </div>
 

@@ -6,9 +6,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-17T14:11:29+02:00
 publishdate = 2020-06-17
-lastmod = 2020-07-29
+lastmod = 2020-11-04
 categories = ["addictologie"]
-guidelineyears = "2019"
+guidelineyears = "2020"
 sources = ["Ameli"]
 tags = ["sevrage tabagique"]
 anglais = ["Product containing only nicotine"]
@@ -76,7 +76,7 @@ todo = "score fagerstrom"
     <h6 class="typography-overline font-weighy-bolder mt-lg-5">Gommes à mâcher</h6>
     {{% class "typography-body-2 text-black-secondary" %}} Mâcher 1 fois puis placer entre gencive et joue. Mâcher à nouveau en cas d'envie de fumer. {{%/class%}}
     <ul class="list-group">
-      {{< list-item-twoline title="Nicorette sans sucre 2 mg (Fruits, menthe fraîche, menthe glaciale)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 30/j." >}}
+      {{< list-item-twoline title="Nicorette sans sucre 2 mg (Fruits, menthe fraîche, menthe glaciale, neutre)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 30/j." >}}
       {{< list-item-twoline title="Nicotine EG sans sucre 2 mg (Fruit, menthe)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 24/j." >}}
       {{< list-item-twoline title="Niquitin sans sucre 2 mg (Fruits tropicaux, menthe glaciale)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 25/j." >}}
       {{< list-item-twoline title="Nicotinell sans sucre 2 mg (Fruit, fruit exotique, menthe fraîcheur)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 25/j." >}}
@@ -86,18 +86,20 @@ todo = "score fagerstrom"
     {{% class "typography-body-2 text-black-secondary" %}} Sucer les comprimés lentement sans croquer. {{%/class%}}
     <ul class="list-group">
       {{< list-item-twoline title="Niquitin sans sucre 2 mg (Menthe douce)" subtitle="1 comprimé à sucer toutes les 1 à 2 heures. Max 15/j." >}}
-      {{< list-item-twoline title="NiquitinMinis sans sucre 1,5 mg (Menthe fraîche)" subtitle="1 comprimé à sucer toutes les 1 à 2 heures. Max 15/j." >}}
       {{< list-item-twoline title="Nicotinell 1 mg (Menthe)" subtitle="1 comprimé à sucer toutes les 1 à 2 heures. Max 30/j." >}}
     </ul>
+    <!-- Pastilles à sucer -->
     <h6 class="typography-overline mt-lg-3">Pastilles à sucer</h6>
     <ul class="list-group">
       {{< list-item-twoline title="Nicopass sans sucre 1,5 mg (Eucalyptus, menthe fraîcheur, réglisse-menthe)" subtitle="8 à 12 par jour. Max 30/j." >}}
     </ul>
+    <!-- Cp sublinguaux -->
     <h6 class="typography-overline mt-lg-3">Comprimés sublinguaux</h6>
     {{% class "typography-body-2 text-black-secondary" %}} Laisser fondre sous la langue. Possibilité de le retirer quand l'envie est passée. {{%/class%}}
     <ul class="list-group">
       {{< list-item-twoline title="Nicorette Microtab 2mg (Citron ou neutre)" subtitle="1 comprimé toutes les 1 à 2 heures. Max 30/j." >}}
     </ul>
+    <!-- Sprays buccaux -->
     <h6 class="typography-overline mt-lg-3">Sprays buccaux</h6>
     <ul class="list-group">
       {{< list-item-twoline title="Nicotine EG 1mg/dose" subtitle="Je ne trouve pas la fiche de RCP du médicament." >}}
@@ -126,18 +128,8 @@ todo = "score fagerstrom"
     </ul>
     <h6 class="typography-overline mt-lg-5">Gommes à mâcher</h6>
     <ul class="list-group">
-      <li class="list-group-item d-flex list-group-item-two-line">
-        <span class="list-group-item-text">
-          <span>Nicorette sans sucre 4 mg (Fruits, menthe fraîche, menthe glaciale)</span>
-          <span>En cas d'envie de fumer. 8 à 12 par jour. Max 15/j.</span>
-        </span>
-      </li>
-      <li class="list-group-item d-flex list-group-item-two-line">
-        <span class="list-group-item-text">
-          <span>Nicotine EG sans sucre 4 mg (Fruit, menthe)</span>
-          <span>En cas d'envie de fumer. 8 à 12 par jour. Max 15/j.</span>
-        </span>
-      </li>
+      {{< list-item-twoline title="Nicorette sans sucre 4 mg (Fruits, menthe fraîche, menthe glaciale)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
+      {{< list-item-twoline title="Nicotine EG sans sucre 4 mg (Fruit, menthe)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
       <li class="list-group-item d-flex list-group-item-two-line">
         <span class="list-group-item-text">
           <span>Niquitin sans sucre 4 mg (Fruits tropicaux, menthe glaciale)</span>
@@ -161,13 +153,7 @@ todo = "score fagerstrom"
       </li>
       <li class="list-group-item d-flex list-group-item-two-line">
         <span class="list-group-item-text">
-          <span>NiquitinMinis sans sucre 4 mg (Menthe fraîche)</span>
-          <span>1 comprimé à sucer toutes les 1 à 2 heures. Max 11/j.</span>
-        </span>
-      </li>
-      <li class="list-group-item d-flex list-group-item-two-line">
-        <span class="list-group-item-text">
-          <span>Nicotinell 2 mg (Menthe)</span>
+          <span>Nicotinell menthe 2 mg</span>
           <span>1 comprimé à sucer toutes les 1 à 2 heures. Max 15/j.</span>
         </span>
       </li>
@@ -195,8 +181,8 @@ todo = "score fagerstrom"
     rel="nofollow noopener noreferrer" class="stretched-link"></a>
 </div>
 <blockquote class="blockquote mt-5">
-  <h6 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au <time datetime="2020-05-27">27 mai 2020</time>.</h6>
+  <h6 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au <time datetime="2020-09-27">27 septembre 2020</time>.</h6>
   <footer class="blockquote-footer"><cite title="Source Title"><a
-        href="//www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/prise-charge-substituts-nicotiniques"
+        href="https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/prise-charge-substituts-nicotiniques"
         target="_blank" rel="nofollow noopener noreferrer">L'Assurance Maladie</a></cite></footer>
 </blockquote>
