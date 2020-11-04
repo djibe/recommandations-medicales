@@ -45,7 +45,7 @@ Ils sont appelés **csDMARDs** par l’EULAR (conventional synthetic Disease Mod
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques ACR/EULAR" %}}
 
-{{%info%}}Diagnostic retenu si ≥ 1 synovite clinique ET pas d’autre diagnostic ET score ≥ 6/10{{%info%}}
+{{%info%}}Diagnostic retenu si ≥ 1 synovite clinique ET pas d’autre diagnostic ET score ≥ 6/10.{{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

@@ -6,7 +6,7 @@
     "build": "hugo --minify",
     "css:purge": "purgecss -c build/postcss.config.js",
     "html:lint": "htmllint --rc build/.htmllintrc \"public/**/*.html\"",
-    "server": "hugo server -D -w -d dev"
+    "server": "hugo server -D -w -d dev --verbose"
   },
   "keywords": [
     "hugo",
