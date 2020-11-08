@@ -42,7 +42,7 @@ todo = "score fagerstrom"
 </article>
 <div class="accordion" id="accordionExample" style="max-width: 800px">
   <div class="collapse" id="patchs-moins20" data-parent="#accordionExample">
-    <div class="card mb-3">
+    <div class="card rounded mb-3">
       <div class="card-body">
         <h5 class="card-subtitle">Exemple de prescription</h5>
         <p class="card-text user-select-all">Nicopatchlib 14 mg. 1 patch/jour (laisser en place 24 heures) pendant 1
@@ -107,7 +107,7 @@ todo = "score fagerstrom"
   </div>
   <!--+20-->
   <div class="collapse" id="patchs-plus20" data-parent="#accordionExample">
-    <div class="card mb-3">
+    <div class="card rounded mb-3">
       <div class="card-body">
         <h5 class="card-subtitle">Exemple de prescription</h5>
         <p class="card-text user-select-all">Nicopatchlib 21 mg. 1 patch/jour (laisser en place 24 heures) pendant 1

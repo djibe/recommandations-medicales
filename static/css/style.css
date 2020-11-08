@@ -5,9 +5,18 @@ main,
   min-height: 100%;
 }
 
+main {
+  margin-top: 56px;
+}
+
 main h1,
 main h2 {
   font-family: "Comfortaa", "Roboto", sans-serif;
+}
+
+.navbar .dropdown-menu::before {
+  border-radius: 0 0 4px 4px;
+  transform-origin: top center;
 }
 
 .taxonomyList::first-letter {
@@ -217,12 +226,6 @@ blockquote > p a {
   .recommandation__content
     h3:not(.typography-overline):not(.typography-subtitle-1) {
     font-size: 18px;
-  }
-}
-
-@media screen and (max-width: 1023.98px) {
-  main {
-    margin-top: 56px;
   }
 }
 

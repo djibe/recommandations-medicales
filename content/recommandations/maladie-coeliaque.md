@@ -1,5 +1,5 @@
 +++
-title = "Maladie Cœliaque"
+title = "Maladie cœliaque"
 prefix = "la "
 shortname = "cœliaque"
 synonyms = ["intolérance au gluten", "sprue cœliaque", "cœliaquie"]

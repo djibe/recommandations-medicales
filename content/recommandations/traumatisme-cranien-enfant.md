@@ -33,6 +33,7 @@ Traumatisme crânien léger (TCL)
 {{% /collapse %}}
 {{%collapse "Signes de gravité du TC chez l'enfant" %}}
 
+{{%warning%}}
 Indications à l'**hospitalisation en urgence** avec **scanner cérébral** (≥ 1 parmi)  
 OU si **appréciation de gravité par le médecin**:
 
@@ -56,15 +57,16 @@ OU si **appréciation de gravité par le médecin**:
 - Vomissements ou céphalées importantes chez l'enfant après 2 ans
 - Hématome sous-cutané ou céphalhématome occipital, temporal ou pariétal avant 2 ans
 - Suspicion de maltraitance
+{{%/warning%}}
 
 > Critères PECARN (Pediatric Emergency Care Applied Research Network) 2009.
 
-En l'absence de signes de gravité, la prise en charge ambulatoire est envisageable.
+**En l'absence de signes de gravité, la prise en charge ambulatoire est envisageable**.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> "la radiographie de crâne n’a pas d’indication, à l’exception de la suspicion de maltraitance". (SFMU)
+> "La radiographie de crâne n’a pas d’indication, à l’exception de la suspicion de maltraitance". (SFMU)
 
 Aucun examen en l'absence de signe de gravité ou de gravité estimée par le médecin.
 
@@ -101,6 +103,22 @@ Appeler le 15 en cas de:
 - Perte d’audition de l’une ou des deux oreilles
 
 Remise des [Consignes de surveillance à donner aux parents](/print/tc-enfant-consignes.pdf)
+
+{{% /collapse %}}
+{{%collapse "Conduite à tenir" "show" %}}
+
+{{< mermaid >}}
+graph TB
+  TC["Traumatisme crânien"] --> GCS("Score de Glasgow")
+  style TC stroke:#6200ee, stroke-width:1px
+  GCS --"< 13"--> TCgrave("TC grave") --> SAMU("<strong>SAMU</strong>")
+  GCS --"≥ 13"--> TCleger("TC léger") --> gravite("Signes de gravité ?")
+    gravite --"Oui"--> SAMU
+    gravite --"Non"--> ambulatoirePossible("Examen sans impression de gravité<br>ET Surveillance à domicile 48h par les parents<br>ET Entourage adapté")
+      ambulatoirePossible --"Non"--> SAMU
+      ambulatoirePossible --"Oui"--> consignes("Surveillance ambulatoire<br>Consignes orales et écrites")
+
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
