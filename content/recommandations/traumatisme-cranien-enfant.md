@@ -10,10 +10,9 @@ lastmod = 2020-11-08
 categories = ["neurologie", "traumatologie"]
 guidelineyears = "2015"
 sources = ["SFMU"]
-tags = ["enfant", "TC"]
-anglais = []
-sctid = ""
-draft = true
+tags = ["enfant", "trauma cranien", "Glasgow"]
+anglais = ["Head injury"]
+sctid = "82271004"
 todo = "score glasgow, examen clinique"
 +++
 
