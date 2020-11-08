@@ -4,7 +4,7 @@
   <link rel="canonical" href="{{ .Permalink }}">
   <meta name="robots" content="index, follow">
   <title>{{ if .IsPage }}Recommandations {{.Date.Format "2006"}} pour {{.Params.prefix}}{{ end }}{{ humanize .Title | truncate 58 | safeHTML }} - L'Univ Médicale</title>
-  <meta name="description" content="{{ if .IsPage }}{{ printf "%s %s %s %s %s%s" "Les recommandations" (now.Format "2006") "pour" .Params.prefix (lower .Title) ". Conduite à tenir en consultation et bilan de première intention pour les médecins généralistes."}}{{ else if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="description" content="{{ if .IsPage }}{{ printf "%s %s %s %s %s%s" "Les recommandations pour" .Params.prefix (lower .Title) " en premier recours. Conduite à tenir en consultation et bilan de première intention pour les médecins généralistes."}}{{ else if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   {{ if .Params.http }}<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">{{ end }}
   {{ hugo.Generator }}
 

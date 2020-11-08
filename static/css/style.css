@@ -6,7 +6,19 @@ main,
 }
 
 main {
-  margin-top: 56px;
+  margin-top: 93px;
+}
+
+@media (max-width: 767.98px){
+  main > div {
+    padding-top: 16px;
+  }
+}
+
+@media (min-width: 768px){
+  main {
+    margin-top: 56px;
+  }
 }
 
 main h1,

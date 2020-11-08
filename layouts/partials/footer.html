@@ -126,7 +126,8 @@
     "content" : 1
   }
 </script>
-<script src="/js/search.js"></script>
+{{ $searchjs := resources.Get "js/search.js" | minify }}
+<script src="{{ $searchjs.Permalink }}"></script>
 <script>
   $(function() {
 
