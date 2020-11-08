@@ -13,6 +13,7 @@ sources = ["Ameli"]
 tags = ["examens obligatoires", "nourrisson", "enfant", "adolescent"]
 qualite = "moyenne"
 draft = false
+datatable = true
 +++
 
 {{%collapse "Calendrier des 20 examens médicaux" "show" %}}

@@ -118,12 +118,12 @@ Selon les Annales de Dermato, intérêt de rechercher systématiquement:
 
 {{% info %}}1<sup>re</sup> intention: métronidazole gel 0,75% (Rozex®, gén) x 2/j pendant 3 mois{{% /info %}}
 
-Effets indésirables: xérose cutanée
+**Effet indésirable**: xérose cutanée.
 
 #### Traitement de 2<sup>e</sup> intention
 
 acide azélaïque gel 15 % (Finacéa®) x 2/j pendant 3 mois  
-**Contre-indications**: grossesse.
+**Contre-indication**: grossesse.  
 **Effets indésirables**: irritation locale, érythème ,desquamation, xérose, sensation de brûlure, prurit, photosensibilité, hypopigmentation de peau mate.
 
 ### Forme diffuse
@@ -137,7 +137,7 @@ Atteinte papulo-pustuleuse marquée et oculaire.
 
 **NB.** Prescrire® observe que les études évaluent une efficacité comparable par doxycycline **50mg** x 1/j pour avec une tolérance bien meilleure.
 
-**Effets indésirables**: troubles digestifs, réactions cutanées, vaginites, HTIC, photosensibilité, atteinte hépatique.
+**Effets indésirables**: troubles digestifs, réactions cutanées, vaginites, HTIC, photosensibilité, atteinte hépatique.  
 **Contre-indications**: grossesse/allaitement.
 
 **2<sup>e</sup> intention**  
