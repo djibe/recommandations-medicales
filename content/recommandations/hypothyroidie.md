@@ -20,29 +20,26 @@ draft = false
 
 - Pas de dépistage systématique en population générale.
 - Doser la TSH seule en cas de symptômes évocateurs.
-- Traitement par LT : dosage de la TSH à 6 semaines et adaptation par paliers de 12µg toutes les 6 à 12 semaines sur critères clinico-TSH.
+- Traitement par LT: dosage de la TSH à 6 semaines et adaptation par paliers de 12 µg toutes les 6 à 12 semaines sur critères clinico-TSH.
 
 {{%/article-summary%}}
-{{%collapse Définition %}}
+{{%collapse "Définition" %}}
 
-Dysfonctionnement thyroïdien le plus fréquent consistant en une sécrétion insuffisante d'hormones thyroïdiennes. Souvent par altération de la glande mais parfois par atteinte centrale hypothalamo-hypophysaire.
-
-**Les principales causes sont auto-immune et iatrogène** (médicament, radiothérapie).
-
-**Pas de dépistage systématique de l’hypothyroïdie en population générale.**
-
-On distingue :
-
-- L'[**hypothyroïdie fruste**]({{< ref "hypothyroidie-fruste.md" >}}) (ou infraclinique) : **TSH élevée de façon isolée**
-- de l'hypothyroïdie patente : **TSH élevée et T4L diminuée**.
+Hypothyroïdie
+: Dysfonctionnement thyroïdien le plus fréquent consistant en une sécrétion insuffisante d'hormones thyroïdiennes.  
+Souvent par altération de la glande mais parfois par atteinte centrale hypothalamo-hypophysaire.  
+La TSH est élevée et la T4L basse.
+: **Les principales causes sont auto-immune et iatrogène** (médicament, radiothérapie).
+: **Pas de dépistage systématique de l’hypothyroïdie en population générale.**
+: On la distingue de l'[**hypothyroïdie fruste ou infraclinique**]({{< ref "hypothyroidie-fruste.md" >}}) où la **TSH est élevée de façon isolée**.
 
 {{% /collapse %}}
-{{%collapse Épidémiologie %}}
+{{%collapse "Épidémiologie" %}}
 
 L'hypothyroïdie atteint 5% de la population, dont ⅔ de femmes et 10% des sujets âgés.
 
 {{% /collapse %}}
-{{%collapse "Facteurs favorisants" %}}
+{{%collapse "Facteurs favorisants l'hypothyroïdie" %}}
 
 - Post-partum
 - Antécédents personnels ou familiaux auto-immuns (ex. [Maladie coeliaque]({{< ref "maladie-coeliaque.md" >}}))
@@ -50,7 +47,7 @@ L'hypothyroïdie atteint 5% de la population, dont ⅔ de femmes et 10% des suje
 - Trisomie 21 et Syndrome de Turner
 
 {{% /collapse %}}
-{{%collapse Étiologie %}}
+{{%collapse "Étiologie" %}}
 
 - **Thyroïdite lymphocytaire chronique de Hashimoto**  
   Forme hypertrophique prédominant chez la femme.  
@@ -89,7 +86,7 @@ Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le
   - Polluants
 
 {{% /collapse %}}
-{{% collapse Clinique %}}
+{{% collapse "Clinique" %}}
 
 ### Interrogatoire
 
@@ -121,7 +118,7 @@ Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le
 - Aménorrhée, infertilité
 
 {{%/collapse %}}
-{{%collapse Examens complémentaires %}}
+{{%collapse "Examens complémentaires" %}}
 
 ### Biologie
 
@@ -149,39 +146,39 @@ Si arguments pour étiologie auto-immune, dosage des **anticoprs anti-TPO**. Il 
 
 #### Interprétation des résultats
 
-- TSH élevée et T4L basse : hypothyroïdie avérée
-Doser les anticorps anti-TPO ???
-
-- TSH modérément élevée de 4 à 10 mUI/L et T4L normale : renouveler les dosages à 3-6 mois
-- TSH élevée et T4L normale : hypothyroïdie fruste (cf fiche hypothyroïdie fruste)
-- Iodémie/iodurie élevée : hypothyroïdie par surcharge iodée
-- Anticorps anti-TPO positifs : origine auto-immune
+- TSH élevée et T4L basse: **hypothyroïdie avérée**.  
+Doser les **anticorps anti-TPO**.
+- TSH modérément élevée de 4 à 10 mUI/L et T4L normale: renouveler les dosages à 3-6 mois.
+- TSH élevée et T4L normale: hypothyroïdie fruste (voir {{[hypothyroïdie fruste](< ref "hypothyroidie-fruste.md">)}}).
+- Iodémie/iodurie élevée: hypothyroïdie par surcharge iodée
+- Anticorps anti-TPO positifs: origine auto-immune.
 
 #### Cas particuliers
 
-- Hypothyroïdie dans les suites du traitement d'une hyperthyroïdie : T4L basse et la TSH peut rester basse/effondrée qq semaines à qq mois
-- TSH élevée de façon isolée : artefact ou insuffisance rénale
-- TSH normale ou diminuée, T4L basse : possible hypothyroïdie centrale par maladie générale sévère (syndrome de basse T4), perfusion de dopamine/dobutamine, corticoïdes à doses massives/Cushing sévère, dépression, grossesse
-- TSH basse et T4L basse : traitement par carbamazépine (Tegretol®), phénytoïne
+- Hypothyroïdie dans les suites du traitement d'une hyperthyroïdie: T4L basse et la TSH peut rester basse/effondrée quelques semaines à quelques mois.
+- TSH élevée de façon isolée: artefact ou insuffisance rénale.
+- TSH normale ou diminuée et T4L basse: possible hypothyroïdie centrale par maladie générale sévère (syndrome de basse T4), perfusion de dopamine/dobutamine, corticoïdes à doses massives/Cushing sévère, dépression, grossesse.
+- TSH basse et T4L basse: traitement par **carbamazépine** (Tegretol®), **phénytoïne**.
 
-### Rechercher une maladie coeliaque
+### Rechercher une maladie cœliaque
 
 En cas de Maladie de Hashimoto, rechercher une [maladie cœliaque associée]({{< ref "maladie-coeliaque.md" >}}).
 
 ### Échographie cervicale
 
 Systématique. Aide au diagnostic étiologique et recherche une pathologie associée (nodule, goitre).
+
 Pas d'indication à la scintigraphie en hypothyroïdie.
 
 ### ECG
 
-Recherche bradycardie, allongement du QT, aplatissement ou inversion des ondes T.  
+Recherche complication: bradycardie, allongement du QT, aplatissement ou inversion des ondes T.  
 Plus rarement bloc de branche, micro-voltage, torsade de pointe, extrasystoles ventriculaires.
 
 Signes résolutifs sous lévothyroxine.
 
 {{% /collapse %}}
-{{%collapse Traitement %}}
+{{%collapse "Traitement" %}}
 
 Délai avant amélioration des symptômes de **2 semaines après instauration du traitement**. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
 
@@ -196,7 +193,7 @@ Délai avant amélioration des symptômes de **2 semaines après instauration du
 
 {{% info %}}
 Initier à 1,7 µg/kg/j chez l'adulte.  
-{{% class %}}Sujet âgé: 1,3 | Enfant: 2 | Coronarien 12,5 à 25 µg/j).{{% /class %}}
+{{% class %}}Sujet âgé: 1,3 | Enfant: 2 | Coronarien 12,5 à 25 µg/j.{{% /class %}}
 
 Adaptation par paliers de 12 µg.
 {{% /info %}}
@@ -219,7 +216,6 @@ Adaptation par paliers de 12 µg.
 - Prise unique le matin à jeun 30 minutes avant toute prise orale (ou ≥ 3 heures après le dernier repas de la journée).
 - En cas d'oubli: doubler la dose du lendemain ou prendre la dose du jour 3 heures après le dernier repas de la journée.
 
-
 **Dosage de la TSH à 6 semaines** et adaptation par **paliers de 6 à 12 semaines** sur critères clinico-TSH.
 
 Surveillance au long cours :
@@ -230,41 +226,53 @@ NB. Pas de surveillance du dosage des anticorps ou de l'iodémie/iodurie
 - Si TSH légèrement anormale chez patient bien équilibrée et sans explication pour le déséquilibre : recontrôler la TSH à distance
 - Si patient se plaint de persistance des symptômes malgré une TSH normalisée : Augmenter par petits paliers pour obtenir une TSH à la moitié de la fourchette des valeurs normales
 
-EI. En cas de surdosage : tachycardie/palpitations, agitation, insomnie.
-Surveiller la survenue d’attaques de paniques même en concentrations plasmatiques thérapeutiques.
+**Effets indésirables en cas de surdosage**: tachycardie/palpitations, agitation, insomnie.  
+Surveiller la survenue d’**attaques de paniques** même en concentrations plasmatiques thérapeutiques.
 
 ### Sujets à risque
 
-- La lévothyroxine perturbe l'INR chez les sujets traités par **AVK**
-
+- La lévothyroxine perturbe l'INR chez les sujets traités par **AVK**.  
 - Sujet **coronarien** ou **âgé**  
-Débuter à posologie basse, augmentation prudente et surveillance symptômes + clinique + ECG  
+Débuter à posologie basse, augmentation prudente et surveillance symptômes + clinique + ECG.  
 Débuter à 12,5 µg/j, augmentation par paliers de 12 µg toutes les 3 semaines.  
-**NB.** On ne recherche pas toujours une normalisation de la TSH.
-
+**NB.** On ne recherche pas toujours une normalisation de la TSH.  
 - [Hypothyroïdie fruste]({{< ref "hypothyroidie-fruste.md" >}})  
-Cf fiche spécifique
-
+Cf fiche spécifique  
 - **Grossesse**  
   - Augmentation des besoins en L-thyroxine de 30 à 50% durant la grossesse.
   - Urgence thérapeutique: Augmenter la dose en pré-conceptionnel et dès 7 SA, puis continuellement jusqu'à 14 SA. Stabilisation des besoins après 14 SA.
   - Suivi rapproché et endocrinologique.
-  - Revenir aux doses habituelles dès l'accouchement sauf allaitement.
-
+  - Revenir aux doses habituelles dès l'accouchement sauf allaitement.  
 - **Coma myxœdémateux**  
-Urgence thérapeutique avec pronostic engagé (20-30% de décès).  
+**Urgence thérapeutique** avec pronostic engagé (20-30% de décès).  
 Appeler le 15 pour transfert médicalisé en réanimation.
 
 ### Hypothyroïdie secondaire
 
 Une origine centrale est très rare et cliniquement moins sévère que lors de cause périphérique.  
-Syndrome d'insuffisance thyréotrope : Asthénie, céphalées, troubles de la fonction sexuelle.  
+**Syndrome d'insuffisance thyréotrope**: Asthénie, céphalées, troubles de la fonction sexuelle.  
 Absence d'infiltration myxœdémateuse.  
 Autres axes hormonaux perturbés.  
 Diagnostic confirmé si TSH normale (85% des cas)/élevée (10%)/basse ET T4L basse  
 Cause hypothalamique ou hypophysaire le plus souvent tumorale ou iatrogène (chirurgie, radiothérapie, inhibiteur tyrosine kinase)  
 Suivi spécialisé.  
 Suivi thérapeutique par dosage de T3L + T4L qui doit être dans le tiers supérieur des valeurs normales, dosage de la TSH sans intérêt.
+
+{{% /collapse %}}
+{{%collapse "Conduite à tenir" "show" %}}
+
+{{< mermaid >}}
+graph TB
+  decouverte["TSH augmentée"] --"Contrôle à 1 mois"--> TSH["TSH augmentée"]
+  style decouverte stroke:#6200ee, stroke-width:1px
+    TSH --"T4L normale"--> hTFruste("Hypothyroïdie fruste")
+    TSH --"T4L basse"--> hT("Hypothyroïdie patente")
+      hT --> bilan("Anticorps anti-TPO +/- dépistage cœliaque<br>Échographie cervicale<br>ECG")
+        bilan --> traitement("Traitement par lévothyroxine")
+          traitement --> adulte("<strong>Adulte</strong><br>Débuter à 1,7 µg/kg/j")
+          traitement --> enfant("<strong>Enfant</strong><br>Débuter à 2 µg/kg/j")
+          traitement --"Fragilité"--> fragile("<strong>Sujet âgé</strong>: Débuter à 1,7 µg/kg/j<br><strong>Coronarien</strong>: Débuter à 12,5 µg/j")
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%collapse Sources %}}

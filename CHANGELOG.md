@@ -3,8 +3,14 @@
 ## TODO
 
 - Datatables sur fiche
+- BASDAI, Glasgow
 - Autoprefix  
 https://regisphilibert.com/blog/2018/07/hugo-pipes-and-asset-processing-pipeline/
+- TOC
+- SEO  
+https://www.webrankinfo.com/dossiers/techniques/quelles-donnees-structurees?utm_source=wri&utm_medium=email&utm_campaign=newsletter-2020-10-13&utm_content=newsletter-actualites  
+https://developers.google.com/search/docs/data-types/breadcrumb#json-ld  
+https://github.com/jeremyjaymes/jeremyjaymes.com/blob/master/themes/j/layouts/partials/seo.html
 - Readme
 - Related content
 - Collapse en pur javascript

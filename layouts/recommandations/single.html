@@ -60,7 +60,7 @@
 
             {{- range .Params.auteurs }}
               {{- with $.Site.GetPage "taxonomyTerm" (printf "auteurs/%s" (urlize .)) }}
-              <a class="text-primary" tabindex="0" data-toggle="popover" data-trigger="focus" title="{{ .Params.name }}" data-content="<a href='{{ .Permalink }}'>Toutes ses publications</a>">{{ .Params.name }}</a>
+              <!--<a class="text-primary" tabindex="0" data-toggle="popover" data-trigger="focus" title="{{ .Params.name }}" data-content="<a href='{{ .Permalink }}'>Toutes ses publications</a>">{{ .Params.name }}</a>-->
               {{ end }}
             {{ end }}
 
