@@ -40,7 +40,7 @@ L'hirsutisme atteint de 5 à 15% des femmes.
   - Acromégalie
   - Hyperprolactinémie
   - Syndrome sévère de résistance à l’insuline
-  - Hypothyroïdie
+  - [Hypothyroïdie]({{< ref "hypothyroidie.md" >}})
   - Hyperplasie congénitale des surrénale
   - Idiopathique
 

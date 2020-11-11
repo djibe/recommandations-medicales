@@ -45,7 +45,7 @@ Diminution du débit de filtration glomérulaire (DFG ou clairance) < 60 mL/min/
 {{%/collapse%}}
 {{%collapse "Qui dépister?" %}}
 
-### Population à risque définie par la présence d'au-moins 1 facteur de risque parmi
+### Population à risque définie par la présence d'au moins 1 facteur de risque parmi
 
 - Diabète
 - Hypertension artérielle

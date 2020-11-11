@@ -68,7 +68,7 @@ Radiographies du crâne uniquement en suspicion de craniosynostose ou d’aggrav
 
 - Alterner tous les jours la position dans le lit en inversant sa position tête – pieds
 - Coucher bébé sur le dos dans une position contraire à sa préférence
-- Augmenter le temps d’éveil passé en décubitus ventral. Au-moins 10 à 15 minutes au-moins 3 fois par jour.
+- Augmenter le temps d’éveil passé en décubitus ventral. Au moins 10 à 15 minutes au moins 3 fois par jour.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}

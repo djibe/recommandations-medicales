@@ -95,7 +95,7 @@ Pas de bénéfices à modifier son alimentation.
 ### Traitements de l'acné
 
 - Ils sont utilisés sur une longue période, alternant les traitements d'attaque et d'entretien.
-- Le traitement d'attaque doit être poursuivi au-moins 3 mois avant de juger de son efficacité.
+- Le traitement d'attaque doit être poursuivi au moins 3 mois avant de juger de son efficacité.
 - Poursuivre un traitement d'entretien, même lorsqu'une rémission complète a été obtenue avec le traitement d'attaque.
 
 **Les traitements locaux sont utilisés en 1 seule application par jour.**
@@ -144,7 +144,7 @@ Doit être réalisée après plusieurs semaine de rétinoïdes topiques.
 #### Forme localisée
 
 En première intention: **Peroxyde de benzoyle 5%** en 1 application par jour.  
-Effets indésirables: photosensibilité, allergie, décoloration des phanères et vêtements.
+**Effets indésirables**: photosensibilité, allergie, décoloration des phanères et vêtements.
 
 {{% info %}}
 Curaspot® 5% gel (ou Cutacnyl, Eclaran, Effacné, Pannogel, Panoxyl, Papclair).  
@@ -167,6 +167,19 @@ Autre traitement possible mais de faible efficacité: acide azélaïque gel 15% 
 **NB. Il n'est pas recommandé d'utiliser un antibiotique local en monothérapie en raison du risque de résistance bactérienne.**
 
 {{% /collapse %}}
+{{% collapse "Conduite à tenir" "show" %}}
+
+{{< mermaid >}}
+graph TB
+  suspicion[Suspicion d'acné] --> diagnostic("Diagnostic clinique<br>d'acné")
+  style suspicion stroke:#6200ee, stroke-width:1px
+  suspicion --"Diagnostic différentiel"--> differentiel("Dermatite péri-orale<br>Rosacée papulo-pustuleuse<br>Syphilis")
+    diagnostic --> personne("Enfant et adulte")
+      personne --> tresLeger("Très léger")
+    diagnostic --> grossesse("Femme enceinte")
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
 [Haute Autorité de Santé. Acné: quand et comment la traiter?](https://www.has-sante.fr/jcms/c_2564525/fr/acne-quand-et-comment-la-traiter)

@@ -29,16 +29,18 @@ L'intégralité du suivi préconisé pour la personne vivant avec un diabète de
 
 En effet, **il est inenvisageable de tenter une synthèse pour la prise en soins du diabète** tant elle est vaste et pluridisciplinaire.
 
-## Les points vitaux du diabète type 1
+## Les points vitaux du diabète de type 1
 
-- Toute personne avec un diabète type 1 est à cardiovasculaire (?)
+- Toute personne avec un diabète type 1 est à cardiovasculaire élevé (ESC 2019)
+  - Très élevé si complication micro ou macrovasculaire ou si ≥ 3 FRCV.
+  - Modéré si âge < 35 sans complication.
 - Arrêt du tabac
 - HTA  
 Objectif tensionnel **< 130/80** mmHg (ESC 2019).
 - LDL  
 LDL cible **< 0,55 g/L** (ESC 2019)
 - Activité physique  
-**Au-moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense).
+**Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense).
 - Cible d'HbA1C  
 Globalement **6,5%** (sauf complications avancées).
 - En cas de surpoids  

@@ -37,7 +37,7 @@ FA persistante
 : Devient permanente quand une cardioversion n'a pas été proposée ou a échoué.
 
 FA permanente
-: Tous les ECG sont en FA pendant au-moins 1 an.
+: Tous les ECG sont en FA pendant au moins 1 an.
 
 FA de détection récente
 : Découverte de la FA sans aucun recul pour typer la durée de l'épisode.

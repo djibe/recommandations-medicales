@@ -32,7 +32,7 @@ Affection hors liste (ALD 31)
 : Forme évolutive ou invalidante de maladie grave dont le traitement prévisible est supérieur à 6 mois et une thérapeutique coûteuse.
 
 Polypathologies (ALD 32)
-: Lorsque le patient est atteint de plusieurs pathologies à l'origine d'une invalidité et de soins continus pendant au-moins 6 mois.
+: Lorsque le patient est atteint de plusieurs pathologies à l'origine d'une invalidité et de soins continus pendant au moins 6 mois.
 
 ALD non exonérante
 : Affection nécessitant une interruption du travail ou des soins d'une durée prévisible supérieure à 6 mois.  

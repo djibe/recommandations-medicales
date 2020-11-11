@@ -14,6 +14,7 @@ tags = ["diarrhee"]
 anglais = ["Chronic diarrhea", "chronic diarrhoea"]
 sctid = "236071009"
 draft = false
+todo = "bilan 1re intention"
 +++
 
 {{%collapse "Étiologie" %}}

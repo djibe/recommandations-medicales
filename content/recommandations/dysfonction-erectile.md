@@ -108,7 +108,7 @@ Centré sur ROT, RCP, sensibilité des pieds, anesthésie en selle et des membre
 
 ### Avis cardiologique
 
-Systématique en présence d'au-moins 3 facteurs de risque cardiovasculaires (en vue d'une épreuve d’effort).
+Systématique en présence d'au moins 3 facteurs de risque cardiovasculaires (en vue d'une épreuve d’effort).
 
 ### EMG des membres inférieurs
 

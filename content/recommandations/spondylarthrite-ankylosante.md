@@ -121,7 +121,7 @@ ESSG: *European Spondylarthropathy Study Group* (Se 87%, Spe 96%).
 **CRITÈRES MAJEURS**
 
 1. Synovites (passées ou présentes) asymétriques ou prédominant aux membres inférieurs
-2. Douleurs du rachis (lombaire, dorsal ou cervical passées ou présentes) avec au-moins 3 critères parmi:
+2. Douleurs du rachis (lombaire, dorsal ou cervical passées ou présentes) avec au moins 3 critères parmi:
     - début avant 45 ans
     - début progressif
     - Améliorées à l’exercice
