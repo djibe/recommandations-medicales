@@ -3,7 +3,8 @@
 ## TODO
 
 - Datatables sur fiche
-- BASDAI, Glasgow
+- Zona > Papillomavirus > Bronchiolite > Melanome > Urticaire > Gale > Migraine > Dépistage cancer prostate
+- Score de Wells, BASDAI, Glasgow
 - Autoprefix  
 https://regisphilibert.com/blog/2018/07/hugo-pipes-and-asset-processing-pipeline/
 - TOC

@@ -51,13 +51,14 @@ Rattrapage vaccinal
 | 65-74 ans   | Zona      | Zostavax   |
 {{% /table %}}
 
+> Calendrier vaccinal 2020.
 
 {{% /collapse %}}
 {{%collapse "Schémas de rattrapage" %}}
 
 {{%table "table" %}}
 | Germe        | Âge limite de rattrapage |
-|--------------|--------------------------|
+|--------------|:------------------------:|
 | Haemophilus  | 5 ans                 |
 | Hépatite B   | 15 ans                |
 | Méningocoque C | 24 ans              |

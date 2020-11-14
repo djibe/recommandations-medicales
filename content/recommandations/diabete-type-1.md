@@ -46,6 +46,8 @@ Globalement **6,5%** (sauf complications avancées).
 - En cas de surpoids  
 Négocier une perte de poids (5-10%).
 - Régimé méditerranéen
+- Dépistage de la [maladie cœliaque]({{< ref "maladie-coeliaque.md" >}})  
+Au diagnostic puis 1/an pendant 5 ans (ISPAD).
 
 ## Participer à des études
 

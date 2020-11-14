@@ -21,38 +21,39 @@ draft = false
 
 L'unité internationale est le **nmol/L**.
 
-Carence de l'adulte et de l'enfant (risque élevé de rachitisme)
+Carence de l'adulte et de l'enfant en vitamine D (risque élevé de rachitisme)
 : Taux sérique de vitamine D < 30 nmol/L.
 
-Déficit de l’adulte et de l’enfant
+Déficit de l’adulte et de l’enfant en vitamine D
 : 30 < taux sérique < 50 nmol/L.
 
-Seuil de toxicité
-: Taux sérique > 375 nmol/L.
+Seuil de toxicité de la vitamine D
+: Taux sérique > 375 nmol/L.  
 Ne pas supplémenter au-delà 150 nmol/L.
 
-- **À tous les âges, des apports quotidiens de 1000 UI/j sont recommandés**.
+{{%info%}}À tous les âges, des apports quotidiens de 1000 UI/j sont recommandés.{{%/info%}}
+
 - La vitamine D participe à la régulation du métabolisme phosphocalcique et prévient:  **rachitisme, ostéomalacie, douleurs musculaires diffuses**.
-- Bénéfices de la supplémentation: réduit les fractures non vertébrales des +65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 30 ng/mL.
+- **Bénéfices de la supplémentation**: réduit les fractures non vertébrales des +65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 30 ng/mL.
 - Selon des travaux récents de l’Inserm, une carence en vitamine D serait fortement liée au développement de la maladie d’Alzheimer. D’autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés.
 
 {{%/collapse%}}
 {{%collapse "Épidémiologie" %}}
 
-- Déficit : 75% des adultes, 70% des enfants
-- Carence : 7% des adultes, 13% des adolescents, 4% des enfants
+- **Déficit en vitamine D**: 75% des adultes, 70% des enfants.
+- **Carence en vitamine D**: 7% des adultes, 13% des adolescents, 4% des enfants.
 
 {{%/collapse%}}
 {{%collapse "Patients à risque" %}}
 
-### Personnes à risque de complications:
+### Personnes à risque de complications
 
-- Traitements  
+- Iatrogène  
 Corticoïdes au long cours, anti-aromatases, analogues de la GnRH
 - Maladies endocriniennes  
 Hyperparathyroïdie
 - Malabsorptions  
-[Maladie cœliaque]({{< ref "maladie-coeliaque.md" >}}), mucoviscidose, chirurgie bariatrique
+[Maladie cœliaque]({{< ref "maladie-coeliaque.md" >}}), mucoviscidose, chirurgie bariatrique.
 - [Insuffisance rénale chronique]({{< ref "insuffisance-renale-chronique.md" >}})
 - Sujets âgés à risque de chute
 
