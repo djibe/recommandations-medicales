@@ -3,6 +3,9 @@
 ## TODO
 
 - Datatables sur fiche
+- If is page menu is active
+- Style SASS
+- Expand all
 - Zona > Papillomavirus > Bronchiolite > Melanome > Urticaire > Gale > Migraine > Dépistage cancer prostate
 - Score de Wells, BASDAI, Glasgow
 - Autoprefix  

@@ -1,5 +1,5 @@
 +++
-title = "Puberté précoce et pathologique"
+title = "Puberté précoce"
 prefix = "la "
 shortname = "PP"
 synonyms = []
@@ -55,7 +55,7 @@ L'âge classique de début des caractères sexuels secondaiers est de 11 +/- 2 a
 
 #### Ordre d'apparition des caractères sexuels secondaires
 
-- Filles. Seins > poils pubiens > 1<sup>res</sup> règles
+- Filles. Seins > Poils pubiens > Menstruations
 - Garçons. Testicules (> 4 mL) > Pénis > Poils pubiens
 
 {{%info%}}30 à 65 % des garçons développent au milieu de la puberté une gynécomastie bilatérale pendant quelques mois.{{%/info%}}
@@ -70,26 +70,31 @@ Petite taille à l'âge adulte.
 
 2 grands groupes:
 
-1. **Pubertés précoces centrales (PPC)**  
-Hypothalamo-hypophysaire par activation précoce de la sécrétion de hypothalamique GnRH.  
-  - Idiopathique (80-95% des filles)
-  - Tumeurs du SNC  
-  {{%class%}}**Hamartome hypothalamique**, gliome du chiasma, astrocytome, autres (50% des garçons).{{%/class%}}
-  - Radiothérapie cérébrale
-  - Infections. Méningite
-  - Pathologie inflammatoire  
-  {{%class%}}Neurofibromatose de type 1, sclérose tubéreuse de Bourneville.{{%/class%}}
-  - Congénitale et malformative  
-  Hydrocéphalie, atrophie corticale, kyste arachnoïdien.
-2. **Pubertés précoces périphériques**  
+### 1. Pubertés précoces centrales (PPC)
+
+Hypothalamo-hypophysaire par activation précoce de la sécrétion de hypothalamique GnRH.
+
+- Idiopathique (80-95% des filles)
+- Tumeurs du SNC  
+{{%class%}}**Hamartome hypothalamique**, gliome du chiasma, astrocytome, autres (50% des garçons).{{%/class%}}
+- Radiothérapie cérébrale
+- Infections. Méningite
+- Pathologie inflammatoire  
+{{%class%}}Neurofibromatose de type 1, sclérose tubéreuse de Bourneville.{{%/class%}}
+- Congénitale et malformative  
+Hydrocéphalie, atrophie corticale, kyste arachnoïdien.
+
+### 2. Pubertés précoces périphériques
+
 Sécrétion de stéroïdes sexuels par une gonade autonome.
-  - **Tumeurs ovariennes**
-  - Kystes folliculaires
-  - Syndrome de McCune-Albright
-  - Médicaments: **pilule COC, crème avec œstrogènes**
-  - Testotoxicose et adénomes Leydigiens de l’enfant
-  - Tumeurs à hCG (garçon)
-  - Tumeurs de la corticosurrénale
+
+- **Tumeurs ovariennes**
+- Kystes folliculaires
+- Syndrome de McCune-Albright
+- Médicaments: **pilule COC, crème avec œstrogènes**
+- Testotoxicose et adénomes Leydigiens de l’enfant
+- Tumeurs à hCG (garçon)
+- Tumeurs de la corticosurrénale
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -104,7 +109,7 @@ Sécrétion de stéroïdes sexuels par une gonade autonome.
 - Céphalées
 - Troubles visuels  
 {{%class%}}Baisse d'acuité visuelle, scotome.{{%/class%}}
-- Syndrome polyuro-polydipsique
+- Syndrome polyuro-polydipsique  
 {{%class%}}Suspicion de diabète insipide.{{%/class%}}
 - Symptômes digestifs
 - Crises de rires immotivés  
@@ -128,7 +133,7 @@ Réservé au spécialiste avec **test LHRH**.
 
 ### Âge osseux +++
 
-Bilan de première intention par radiographie de la main gauche.
+**Bilan de première intention** par radiographie de la main gauche.
 
 ### Échographie pelvienne +++
 

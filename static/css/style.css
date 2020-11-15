@@ -35,6 +35,10 @@ main h2 {
   text-transform: uppercase;
 }
 
+dt:not(:first-child) {
+  margin-top: 32px;
+}
+
 h1 {
   font-size: 3.75rem;
   font-weight: 300;
@@ -60,6 +64,11 @@ h2 {
   font-weight: 400;
   letter-spacing: 0;
   line-height: 2rem;
+}
+
+.recommandation__content .collapse h3:not(:first-child),
+.recommandation__content .collapse h4:not(:first-child) {
+  margin-top: 32px;
 }
 
 h4 {
