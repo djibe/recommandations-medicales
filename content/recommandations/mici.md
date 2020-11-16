@@ -1,6 +1,6 @@
 +++
 title = "Maladies inflammatoire chroniques intestinales"
-prefix = "la "
+prefix = "les "
 shortname = "MICI"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

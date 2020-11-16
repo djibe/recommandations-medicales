@@ -19,7 +19,7 @@ draft = true
 {{%article-summary%}}
 
 TODO
-< 94% en air ambiant impose une hospitalisation)
+< 94% en air ambiant impose une hospitalisation
 
 {{%/article-summary%}}
 
@@ -72,9 +72,6 @@ Difficultés d'alimentation et signes de déshydratation
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](//solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+
 
 {{% /collapse %}}
-
-
-≥±

@@ -14,7 +14,7 @@ tags = ["zona"]
 anglais = ["Herpes zoster"]
 sctid = "4740000"
 draft = false
-todo = "famciclovir 500mg x 3/j ?, algo"
+todo = "algo"
 +++
 
 {{%article-summary%}}
@@ -115,7 +115,8 @@ Le traitement doit être débuté dans les 48-72 premières heures.
 
 {{%info%}}Valaciclovir 1g x 3/j pendant 7 jours, début immédiat.{{%/info%}}
 
-**Alternative**: aciclovir 800 mg x 5/j pendant 7 jours.
+**Alternatives**: aciclovir 800 mg x 5/j pendant 7 jours  
+ou famciclovir 500 mg x 3/j pendant 7 jours.
 
 #### Indications au traitement antiviral
 
