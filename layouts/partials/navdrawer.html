@@ -8,13 +8,11 @@
             {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
                {{ if eq "categories" $taxonomyname }}
                   {{ range $category, $pageOfCategory := $taxonomy }}
-                  <a class="nav-item nav-link collapsed text-capitalize" data-toggle="collapse"
-                     href="#navdrawer-{{ $category | urlize }}"><strong>{{ $category | truncate 20 }}</strong>
-                     <span class="ml-2">({{ len $pageOfCategory }})</span></a>
+                  <a class="nav-item nav-link collapsed text-capitalize font-weight-bold" data-toggle="collapse"
+                     href="#navdrawer-{{ $category | urlize }}">{{ $category | truncate 20 }} <span class="ml-2">({{ len $pageOfCategory }})</span></a>
                   <div class="collapse" id="navdrawer-{{$category | urlize | lower}}">
                      {{ range $pageOfCategory.Pages.ByTitle }}
-                     <a class="nav-item nav-link text-black-secondary my-0" href="{{ .Permalink }}">
-                        <span class="font-weight-normal">{{ .Title }}</span></a>
+                     <a class="nav-sub" href="{{ .Permalink }}">{{ .Title }}</a>
                      {{ end }}
                   </div>
                   {{ end }}
