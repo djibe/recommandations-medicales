@@ -2,7 +2,7 @@
 title = "Asplénie ou hyposplénie"
 prefix = "l'"
 shortname = "Asplénie"
-synonyms = ["Hyposplénie"]
+synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-29T23:51:41+02:00
 publishdate = 2020-09-29
@@ -19,8 +19,8 @@ todo = "améliorer vaccins, graph"
 
 {{%article-summary%}}
 
-- Antibioprophylaxie
-- 5 vaccinations
+- Antibioprophylaxie par pénicilline V.
+- 5 vaccinations (pneumocoque, méningocoques ACYW135 et B, Haemophilus, grippe).
 
 {{%/article-summary%}}
 {{%collapse "Épidémiologie" %}}
@@ -61,7 +61,7 @@ Germes: pneumocoque (50-90%) et Haemophilus influenzae (10-15%).
 Oracilline® (Pénicilline V, phénoxyméthylpénicilline) à débuter dès le lendemain de la splénectomie.  
 {{%class%}}Existe en sirop (250.000 UI/5mL, 500.000 UI/5 mL, 1 MUI/10mL) ou comprimés à 1 MUI.{{%/class%}}
 
-- Enfant 10-40 kg  
+- Enfant de 10 à 40 kg  
 25.000 UI/kg x 2/j (max 2 MUI/j) pendant 5 ans.  
 - Enfant < 10 kg  
 100.000 UI/kg/j pendant 5 ans.
