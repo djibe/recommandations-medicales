@@ -8,13 +8,13 @@ date = 2020-11-14T19:48:41+02:00
 publishdate = 2020-11-16
 lastmod = 2020-11-16
 categories = ["dermatologie", "infectiologie", "ophtalmologie"]
-guidelineyears = "2000"
+guidelineyears = "1998"
 sources = ["MinSanté", "SPILF"]
 tags = ["zona"]
 anglais = ["Herpes zoster"]
 sctid = "4740000"
 draft = false
-todo = "famciclovir 500mg x 3/j ?"
+todo = "famciclovir 500mg x 3/j ?, algo"
 +++
 
 {{%article-summary%}}

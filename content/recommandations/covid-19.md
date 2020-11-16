@@ -6,7 +6,7 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
-lastmod = 2020-10-13
+lastmod = 2020-11-16
 categories = ["infectiologie"]
 guidelineyears = "2020"
 sources = ["HCSP", "MinSante"]
@@ -66,25 +66,25 @@ Contact à risque négligeable
 Principaux: HTA, les pathologies cardiaques et le diabète.
 
 - Âge ≥ 65 ans  
-De 50 à 65 ans: surveillance plus rapprochée
-- Pathologie respiratoire chronique  
-Broncho pneumopathie obstructive, asthme sévère, fibrose pulmonaire, syndrome d'apnées du sommeil, mucoviscidose
+De 60 à 65 ans: sur-risque significatif
 - Antécédents cardiovasculaires  
 Hypertension artérielle compliquée (complications cardiaques, rénales et vasculo-cérébrales),  antécédents d’accident vasculaire cérébral ou de coronaropathie, de chirurgie cardiaque, insuffisance cardiaque stade NYHA III ou IV.
-- Diabète chronique non équilibré ou avec complications
+- Diabète non équilibré ou compliqué
+- Pathologie respiratoire chronique  
+BPCO, asthme sévère, fibrose pulmonaire, syndrome d'apnées du sommeil, mucoviscidose
 - Insuffisance rénale chronique dialysée
+- Obésité
 - Cancer évolutif sous traitement (sauf hormonothérapie seule)
 - Cirrhose ≥ stade B
-- Immunodépression
-  - Médicamenteuse: chimiothérapie anti-cancéreuse, immunosuppresseur, biothérapie et/ou corticothérapie à dose immunosuppressive
-  - Infection à VIH non contrôlée ou avec des CDA < 200/mm3
-  - Greffe d’organe solide ou de cellules souches hématopoïétique
-  - Hémopathie maligne en cours de traitement
-- Obésité
-- Syndrome drépanocytaire majeur en raison d’un risque accru de surinfection bactérienne ou de syndrome thoracique aigu ou ayant un antécédent de splénectomie
+- Immunodépression congénitale ou acquise
+- Syndrome drépanocytaire majeur ou antécédent de splénectomie
+- Maladies du motoneurone, myasthénie grave, SEP, Parkinson, paralysie cérébrale, quadriplégie  ou hémiplégie, tumeur maligne primitive cérébrale, maladie cérébelleuse progressive.
+
+
+
 - Grossesse au 3<sup>e</sup> trimestre
 
-> [Source HCSP 20.04](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=807)
+> [Source HCSP 14.11](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=942)
 
 {{%/collapse%}}
 {{%collapse "Séquelles" %}}

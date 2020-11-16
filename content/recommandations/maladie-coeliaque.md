@@ -2,57 +2,49 @@
 title = "Maladie cœliaque"
 prefix = "la "
 shortname = "cœliaque"
-synonyms = ["intolérance au gluten", "sprue cœliaque", "cœliaquie"]
+synonyms = ["Intolérance au gluten", "sprue cœliaque", "cœliaquie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-16T12:31:11+02:00
 publishdate = 2020-04-16
 lastmod = 2020-08-26
 categories = ["hepato-gastro-enterologie"]
 guidelineyears = "2019"
-sources = ["EssCD", "HAS", "SNFGE", "Prescrire"]
+sources = ["EssCD", "HAS", "SNFGE"]
 tags = ["coeliaque", "allergie", "intolerance", "gluten", "auto-immun", "EOGD"]
 anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac gluten sensitivity (NCGS) and extra-intestinal manifestations related to gluten)", "celiac"]
 sctid = "396331005"
 draft = false
+todo = "dermatite herpétiforme"
 +++
 
 {{%article-summary%}}
 
-- Fréquente et possible à tout âge
-- Diagnostic par sérologie IgA anti-transglutaminase et IgA totales ou EOGD d'emblée selon la probabilité clinique sans régime
-- Éviction du gluten à vie après confirmation du diagnostic par les biopsies et le gastro-entérologue
-- Disparition des symptômes après 6 à 12 mois d'éviction du gluten
-- Dépistage de l'entourage au 1er degré
+- Fréquente et possible à tout âge.
+- Dépistage par sérologie IgA anti-transglutaminase et IgA totales ou EOGD d'emblée selon la probabilité clinique sans régime.
+- Éviction du gluten à vie après confirmation du diagnostic par les biopsies et le gastro-entérologue.
+- Disparition des symptômes après 6 à 12 mois d'éviction du gluten.
+- Dépistage de l'entourage au 1<sup>er</sup> degré.
 
 {{%/article-summary%}}
-{{% info %}}
-Dépistage par sérologie
-
-IgA anti-transglutaminase et IgA totales
-
-{{% /info %}}
 {{%collapse "Définition" %}}
 
-### Maladie cœliaque MC
+Maladie cœliaque (**MC**)
+: Maladie chronique auto-immune polyorganique affectant l’intestin grêle chez des personnes génétiquement prédisposées, déclenchée par l’ingestion de **gluten**.  
+Elle peut survenir à tout âge, prédomine chez la femme et la majorité des patients n’est pas diagnostiquée.  
+À l’origine d’une malabsorption et ses complications.
+: {{%class%}} Peut être classée en sous-types selon des critères cliniques, immunologiques et histopathologiques.{{%/class%}}
 
-Maladie chronique auto-immune polyorganique affectant l’intestin grêle chez des personnes génétiquement prédisposées, déclenchée par l’ingestion de **gluten**.
-
-- {{%class%}} Peut être classée en sous-types selon des critères cliniques, immunologiques et histopathologiques.{{%/class%}}
-- La majorité des patients n’est pas diagnostiquée.
-- À l’origine d’une malabsorption et ses complications.
-
-### Dermatite herpétiforme DH
-
-Souvent résolutive après l’éviction du gluten.
+Dermatite herpétiforme DH
+: Souvent résolutive après l’éviction du gluten (*À compléter*).
 
 {{%/collapse%}}
 {{%collapse "Épidémiologie" %}}
 
-- Prévalence: 1% dans le monde en l'absence d'antécédents familiaux.
-- 700 000 malades cœliaques en France. Seulement 10 à 20% seraient diagnostiqués.
-- La maladie peut arriver à tout âge, avec 70% des patients diagnostiqués après 20 ans.  
+- **Prévalence**: 1% dans le monde en l'absence d'antécédents familiaux.
+- 700.000 malades cœliaques en France. Seulement **10 à 20%** seraient diagnostiqués.
+- 70% des patients diagnostiqués après 20 ans.  
 La maladie survient le plus souvent de 6 mois à 2 ans puis de 20 à 40 ans.
-- Elle est 2 à 3 fois plus fréquente chez la femme.
+- 2 à 3 fois plus fréquente chez la femme.
 
 {{%/collapse %}}
 {{%collapse "Complications" %}}
@@ -67,12 +59,14 @@ La maladie survient le plus souvent de 6 mois à 2 ans puis de 20 à 40 ans.
 
 - Antécédents familiaux (peu importe le degré, 10%)
 - Diabète de type 1 (prévalence 3-10 %)
-- Maladie de Hashimoto ou de Basedow
+- Maladie de [Hashimoto]({{< ref "hypothyroidie.md" >}}) ou de Basedow
 - HLA-DQ2 et HLA-DQ8
-- Autres. Voir Qui dépister par sérologie ?
+- Autres. Voir *Qui dépister par sérologie ?*
 
 {{%/collapse%}}
 {{%collapse "Qui dépister par fibroscopie d’emblée ?" %}}
+
+Personnes à risque élevé de maladie cœliaque:
 
 - Diarrhée chronique non sanglante
 - Diarrhée avec malabsorption (amaigrissement ++)
@@ -89,7 +83,7 @@ La maladie survient le plus souvent de 6 mois à 2 ans puis de 20 à 40 ans.
 
 - Syndrome de l’intestin irritable (SII)
 - Transaminases augmentées inexpliquées
-- Diabète type 1 (tous les 5 ans)
+- [Diabète type 1]({{< ref "diabete-type-1.md" >}}) (tous les 5 ans)
 - Symptômes évocateurs de MC ou malabsorption sans d’antécédents familiaux ni auto-immuns
 - Colite miscoscopique
 - [Thyroïdite de Hashimoto]({{< ref "hypothyroidie.md" >}}) ou maladie de Basedow
@@ -159,7 +153,7 @@ En cas de déficit en IgA: sérologie IgG anti-TG2 et IgG anti-EMA avec EOGD.
 
 ### Biopsie du grêle en fibroscopie sous AL
 
-Indications: sérologie positive chez un adulte ou risque clinique élevé.
+**Indications**: sérologie positive chez un adulte ou risque clinique élevé.
 
 Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 4) et du grêle sont systématiques.
 
@@ -206,7 +200,7 @@ Par le gastro-entérologue et le diététicien spécialisé.
 
 {{%table "table" %}}
 | Période          | Bilan associé |
-|:-----------------|:--------------|
+|------------------|---------------|
 | **Au diagnostic**<br>Médecin et diététicien | - Examen physique, y compris l'IMC<br>- Éducation sur la MC<br>- Conseils diététiques par un diététicien qualifié<br>- Recommander un dépistage familial (DQ2/D8 et sérologie cœliaque)<br>- Recommander l'adhésion à une association de patients<br>- Sérologie cœliaque (si elle n'a pas déjà été réalisée)<br>- Analyses de routine (NFS, ferritinémie, vitamines D B9 B12, TSH,<br>enzymes hépatiques, calcium, phosphate)<br>- Ostéodensitométrie au moment du diagnostic avant 35 ans |
 | **3-4 mois**<br>Médecin et diététicien | - Évaluer les symptômes et les modifications du mode de vie<br>Évaluation diététique<br>Sérologie cœliaque (transglutaminase IgA-TG2)|
 | **6 mois**<br>Médecin (à distance) | - Évaluer les symptômes<br>- Évaluation diététique<br>- Sérologie cœliaque<br>- Recontrôler les autres anomalies du bilan initial |
@@ -264,6 +258,22 @@ Logo présent sur les produits sans gluten
 Des  produits  diététiques  sans  gluten  sont  rem-boursés  partiellement  par  l’assurance  maladie  française sous certaines conditions.
 
 {{% /collapse%}}
+{{%collapse "Conduite à tenir" "show" %}}
+
+{{< mermaid >}}
+graph TB
+  symptomatique["Symptomatique"] --> examen("Sérologie ou fibroscopie d'emblée<br>selon le cas")
+  style symptomatique stroke:#6200ee, stroke-width:1px
+  personneARisque["Personne à risque"] --> examen
+  style personneARisque stroke:#6200ee, stroke-width:1px
+    examen --> gastro("Consultation du gastro-entérologue")
+      gastro --"Diagnostic de maladie coœliaque"--> traitement("<strong>Éviction du gluten à vie</strong><br>Surveillance clinico-biologique<br>Bilan diététique<br>Dépistage de l'entourage")
+      gastro --"Diagnostic infirmé"--> explo("Poursuite du bilan<br>par le spécialiste")
+{{< /mermaid >}}
+
+> Algorithme de prise en charge de la maladie coœliaque d'après EssCD 2019.
+
+{{% /collapse %}}
 {{%collapse "FMC" %}}
 
 [Olives JP. Maladie coeliaque : de l’enfance à l’âge adulte. POST'U 2013 - Paris](https://www.fmcgastro.org/postu-main/postu-2013-paris/textes-postu-2013-paris/maladie-coeliaque-de-lenfance-a-lage-adulte/)
