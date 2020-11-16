@@ -6,21 +6,6 @@
       <h1 class="pt-3 pt-lg-5">{{ .Title }}</h1>
       <h2 class="typography-headline-6">Collection de fiches pour la pratique clinique des médecins généralistes et internes en médecine.</h2>
       <p class="typography-body-1 text-black-secondary">Il s'agit en réalité d'une démonstration technologique d'une université collaborative en ligne (Ordonnance de 1<sup>re</sup> intention et références multi-axiales par Source, Mots-clés).</p>
-
-      <!--
-      <form class="form-group bg-white p-2 rounded">
-        <div class="input-group">
-          <input aria-describedby="exampleIconInput2Help" aria-label="Default icon signifier example input"
-            class="form-control" id="exampleIconInput2" placeholder="Default" type="text" disabled>
-          <span class="input-group-icon" id="exampleIconInput2Help">
-            <i class="material-icons">search</i>
-          </span>
-        </div>
-      </form>
-      <input id="search-input" type="text" placeholder="Loading..." name="search">
-
-      <section id="search-results" class="search"></section>
-      -->
     </div>
   </div>
   <section class="row mt-lg-5 mb-5">
@@ -37,7 +22,7 @@
             {{ delimit . ", " }}{{ end }} le
             <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .Lastmod.Format "02 January" }}</time>
           </p>
-          <p class="card-text">{{ replace .Summary "Définition" "" | safeHTML}} ...</p>
+          <p class="card-text">{{ replace .Summary "Définition" "" | safeHTML | truncate 300 }} ...</p>
           <a href="{{ .Permalink }}" class="stretched-link"></a>
         </div>
         <div class="card-actions mt-0 pb-2">

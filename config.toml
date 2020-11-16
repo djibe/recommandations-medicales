@@ -6,7 +6,7 @@ disableHugoGeneratorInject = true
 enableInlineShortcodes = true
 enableRobotsTXT = true
 languageCode = "fr-FR"
-summaryLength = 20
+summaryLength = 50
 title = "L'Univ médicale"
 
 [permalinks]
