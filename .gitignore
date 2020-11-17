@@ -2,4 +2,5 @@
 dev/
 node_modules/
 public/
+resources/
 *.xd

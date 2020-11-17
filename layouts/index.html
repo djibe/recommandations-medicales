@@ -10,7 +10,7 @@
   </div>
   <section class="row mt-lg-5 mb-5">
     <div class="col-12">
-      <p class="typography-overline">Les dernières mises à jour</p>
+      <p class="typography-overline" style="color: #666">Les dernières mises à jour</p>
     </div>
     {{ range ( where site.RegularPages "Section" "recommandations" | first 6 ) }}
     <div class="col-12 col-sm-6 col-xl-4 d-flex mb-1 mb-lg-3">
@@ -22,7 +22,8 @@
             {{ delimit . ", " }}{{ end }} le
             <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .Lastmod.Format "02 January" }}</time>
           </p>
-          <p class="card-text">{{ replace .Summary "Définition" "" | safeHTML | truncate 300 }} ...</p>
+          <p class="card-text">{{ replace .Summary "Définition" "" | safeHTML | truncate 300 }}</p><!-- TODO: multiple replace -->
+          <!-- TODO: multiple replace -->
           <a href="{{ .Permalink }}" class="stretched-link"></a>
         </div>
         <div class="card-actions mt-0 pb-2">

@@ -39,5 +39,8 @@
     "@fullhuman/postcss-purgecss": "^3.0.0",
     "autoprefixer": "^10.0.2",
     "postcss-cli": "^8.3.0"
-  }
+  },
+  "browserslist": [
+    "defaults"
+  ]
 }

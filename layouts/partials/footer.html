@@ -6,7 +6,7 @@
     <span class="material-icons">message</span></button>
 </div>
 
-<!-- Modal -->
+<!-- Contact -->
 <div class="modal fade" id="modal-contact" tabindex="-1" role="dialog" aria-labelledby="modal-contact-title"
   aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
@@ -19,8 +19,8 @@
           Une suggestion, une remarque ou une critique ? Dites-le.
           <div class="form-group mt-4">
             <div class="input-group">
-              <input class="form-control" placeholder="Mon adresse email" type="email" name="email" autocomplete="email"
-                required>
+              <input class="form-control" placeholder="Mon adresse e-mail" type="email" name="email" autocomplete="email"
+                required oninvalid="setCustomValidity('Merci de renseigner votre e-mail.')">
               <span class="input-group-icon">
                 <i class="material-icons">mail</i>
               </span>
@@ -28,7 +28,7 @@
           </div>
           <div class="form-group">
             <div class="input-group">
-              <textarea class="form-control" placeholder="Commentaires et remarques" rows="5" name="message" required></textarea>
+              <textarea class="form-control" placeholder="Commentaires et remarques" rows="5" name="message" required oninvalid="setCustomValidity('Merci de m\'en dire un peu plus.')"></textarea>
               <span class="input-group-icon">
                 <i class="material-icons">create</i>
               </span>

@@ -1,7 +1,7 @@
 html,
 body,
 main,
-[class*="container"] {
+[class*='container'] { /* TODO */
   min-height: 100%;
 }
 
@@ -46,7 +46,7 @@ h1 {
   line-height: 3.75rem;
 }
 
-@media (max-width 359.98px) {
+@media (max-width: 359.98px) {
   h1 {
     line-height: 1;
   }
@@ -88,7 +88,7 @@ h4 {
 
 .site-title h2,
 .site-title p {
-  width: min(100%, 768px);
+  width: Min(100%, 768px); // Uppercase to prevent SASS-CSS conflict
 }
 
 .recommandation__content {
@@ -114,15 +114,15 @@ h4 {
   margin-top: 0;
 }
 
-.recommandation__content p {
-  width: min(100%, 768px);
+.recommandation__content p,
+.recommandation__content ul:not(.list-group) {
+  width: Min(100%, 768px);
 }
 
 .recommandation__content ul:not(.list-group) {
   list-style: disc outside;
   margin-bottom: 1rem;
   padding-left: 1.25rem;
-  width: min(100%, 760px);
 }
 
 .recommandation__content .alert-summary li,
@@ -276,7 +276,7 @@ blockquote > p a {
 }
 
 .alert {
-  width: min(100%, 768px);
+  width: Min(100%, 768px);
 }
 
 .card {

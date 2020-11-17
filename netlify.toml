@@ -42,4 +42,4 @@ HUGO_ENABLEGITINFO = "true"
 [[headers]]
   for = "favicon.ico"
   [headers.values]
-    Cache-Control = "public, max-age=1209600" # 2 weeks
+    Cache-Control = "public, max-age=1209600" # 2 weeks ; 3M = 7257600
