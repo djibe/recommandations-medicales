@@ -1,6 +1,6 @@
 ## Le site des Recommandations Médicales
 
-Projet Open Source, gratuit et indépendant visant à partager l'**État de l'Art de la pratique en médecine de premier recours**.
+**Projet Open Source, gratuit et indépendant visant à partager l'État de l'Art de la pratique en médecine de premier recours**.
 
 Recommandations Médicales cible donc tous les médecins généralistes et les internes qui souhaitent s'informer, se former et accéder en 2 clics à tout ce dont ils ont besoin en consultation.
 
@@ -11,6 +11,7 @@ Recommandations Médicales cible donc tous les médecins généralistes et les i
 Tout le monde peut éditer le projet ou commenter le travail.
 - Indépendant  
 Aucun financement de l'industrie. Jamais.
+- Gratuit
 - \+ Simple  
 Segmentation des chapitres pour accéder rapidement à l'info recherchée.
 - \+ Visuel  
@@ -27,8 +28,10 @@ L'objectif est de proposer les connaissances validées les plus récentes.
 Le site s'adapte à tous les écrans.
 - \+ Rapide  
 Très léger (bientôt encore +)
-- \+ Transparent 
+- \+ Transparent  
 Toute modification est historisée pour plus de transparence.
+- \+ Ouvert  
+Accessible à toute la francophonie.
 
 et aussi...
 

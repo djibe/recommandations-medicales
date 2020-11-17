@@ -5,6 +5,9 @@
 - Sitemap que pour index + reco
 - PurgeCSS
 - Replace guidelineyears
+- Github
+  - Sponsorship
+- Logo
 - Datatables sur fiche
 - If is page menu is active
 - Style SASS
@@ -30,4 +33,5 @@ https://networkhobo.com/hugo-staticman-nested-replies-and-email-notifications/
 - AMP pages  
 https://www.stackbit.com/blog/amp-for-jamstack/  
 https://discourse.gohugo.io/t/how-to-make-a-specific-layout-for-amp/11536
+- https://www.magicpattern.design/tools/css-backgrounds/
 

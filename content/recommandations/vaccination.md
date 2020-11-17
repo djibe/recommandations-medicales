@@ -51,7 +51,7 @@ Rattrapage vaccinal
 | 65-74 ans   | Zona      | Zostavax   |
 {{% /table %}}
 
-> Calendrier vaccinal 2020.
+> *Tableau récapitulatif du Calendrier vaccinal 2020*.
 
 {{% /collapse %}}
 {{%collapse "Schémas de rattrapage" %}}
@@ -64,11 +64,11 @@ Rattrapage vaccinal
 | Méningocoque C | 24 ans              |
 | Papillomavirus | 19 ans              |
 | Pneumocoque  | 23 mois               |
-| Rougeole<br>Oreillons<br>Rubéole     | 40 ans |
+| Rougeole<br>Oreillons<br>Rubéole | 40 ans |
 | Varicelle    | 18 ans                |
 {{% /table %}}
 
-> Tableau récapitulatif des rattrapages vaccinaux à réaliser.
+> *Tableau récapitulatif des rattrapages vaccinaux*.
 
 {{% /collapse %}}
 {{%collapse "Vaccins obligatoires" %}}

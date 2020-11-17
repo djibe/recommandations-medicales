@@ -28,3 +28,18 @@ HUGO_VERSION = "0.78.1"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[headers]]
+  for = "*.css"
+  [headers.values]
+    Cache-Control = "max-age=0, must-revalidate, public"
+
+[[headers]]
+  for = "*.js*"
+  [headers.values]
+    Cache-Control = "max-age=0, must-revalidate, public"
+
+[[headers]]
+  for = "favicon.ico"
+  [headers.values]
+    Cache-Control = "public, max-age=1209600" # 2 weeks

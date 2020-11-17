@@ -6,6 +6,7 @@ disableHugoGeneratorInject = true
 enableInlineShortcodes = true
 enableRobotsTXT = true
 languageCode = "fr-FR"
+rssLimit = 20
 summaryLength = 50
 title = "L'Univ médicale"
 
@@ -35,9 +36,6 @@ title = "L'Univ médicale"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "JSON"]
-
-[outputFormats.RSS]
-  baseName = "rss"
 
 # Dependencies
 [params.cdn]
