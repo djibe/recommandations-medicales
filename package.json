@@ -36,8 +36,8 @@
     "vnu-jar": "^20.6.30"
   },
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "^2.2.0",
-    "autoprefixer": "^9.8.6",
-    "postcss-cli": "^7.1.1"
+    "@fullhuman/postcss-purgecss": "^3.0.0",
+    "autoprefixer": "^10.0.2",
+    "postcss-cli": "^8.3.0"
   }
 }
