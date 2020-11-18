@@ -1,5 +1,6 @@
 {{ define "main" }}
-<div class="w-100 min-vh-100 bg-light">
+<!-- Example: Page like Tags > Bronchiolite ou Guidelineyears > 2017-->
+<div class="bg-light" id="list-wrapper">
   <div class="container-md">
     <div class="row">
       <div class="col-12">
@@ -21,8 +22,8 @@
         </nav>
       </div>
       {{ range .Pages.ByTitle }}
-      <div class="col-sm-6">
-        <div class="card mb-2">
+      <div class="col-sm-6 col-lg-4 d-flex">
+        <div class="card flex-fill mb-3">
           <div class="card-body position-relative card-primary-action ">
             <h2 class="card-title">{{ .Title }}</h2>
             <h3 class="card-subtitle text-black-secondary pb-0">{{ with .Params.categories}}{{ delimit . ", " }}{{end}}</h3>

@@ -18,9 +18,6 @@
   <link rel="stylesheet" {{ printf "href=%q" .Site.Params.cdn.md_icons | safeHTMLAttr }}>
   
   <link rel="stylesheet" {{ printf "href=%q" .Site.Params.cdn.material_css | safeHTMLAttr }}>
-  <!--<link rel="stylesheet" href="{{ .Site.Params.cdn.css | absURL }}">-->
-
-  <!-- TODO: postCSS -->
-  {{ $style := resources.Get "sass/style.scss" | toCSS | minify | fingerprint }}
-  <link rel="stylesheet" href="{{ $style.Permalink }}">
+  <!-- Inline small style -->
+  {{ with resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint }}<style>{{ .Content | safeCSS }}</style>{{ end }}
 </head>

@@ -12,14 +12,12 @@
         </ol>
       </nav>
     </div>
-    <div class="col-10 col-lg-5 offset-lg-1">
-      <div class="list-group">
+    <div class="col-10 col-lg-5 offset-lg-1 d-flex justify-content-center">
+      <div class="list-group list-group-flush" style="width: 280px">
         {{ range $items := (.Pages.ByTitle).Reverse }}
-
-        <a class="list-group-item list-group-item-action" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <a class="list-group-item list-group-item-action text-center" href="{{ .RelPermalink }}">{{ .Title }}</a>
         {{ end }}
       </div>
     </div>
-
   </div>
   {{ end }}
