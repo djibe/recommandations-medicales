@@ -1,10 +1,10 @@
 {{ define "main" }}
 <!-- Example: Page like Tags > Bronchiolite ou Guidelineyears > 2017-->
-<div class="bg-light" id="list-wrapper">
+<div class="bg-light list-page">
   <div class="container-md">
     <div class="row">
       <div class="col-12">
-        <h1 class="taxonomyList my-lg-5">{{ .Title }}</h1>
+        <h1 class="taxonomyList my-xl-5">{{ .Title }}</h1>
         <!-- TODO: Functional ? -->
         {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
         {{ $.Scratch.Add "path" .Site.BaseURL }}

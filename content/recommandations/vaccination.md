@@ -34,7 +34,7 @@ Rattrapage vaccinal
 {{%collapse "Calendrier vaccinal" %}}
 
 {{%table "table" %}}
-| Âge     | Valences      | Spécialités                    |
+| Âge     | Valences      | Spécialités équivalentes       |
 |:-------:|---------------|--------------------------------|
 | 2 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
 | 4 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |

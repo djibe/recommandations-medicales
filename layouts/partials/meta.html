@@ -1,0 +1,80 @@
+<!-- Title Tags -->
+<title itemprop="name">{{ if .IsPage }}Recommandations {{.Date.Format "2006"}} pour {{.Params.prefix}}{{ end }}{{ humanize .Title | truncate 58 | safeHTML }} | {{ .Site.Title }}</title>
+<meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}">
+<meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}">
+<meta itemprop="name" content="{{ .Title }} | {{ .Site.Title }}">
+<meta name="application-name" content="{{ .Title }} | {{ .Site.Title }}">
+<meta property="og:site_name" content="{{ .Site.Params.sitename }}">
+
+<!-- Description Tags -->
+<meta name="description" content="{{ if .IsPage }}{{ printf "%s %s %s %s %s%s" "Les recommandations pour" .Params.prefix (lower .Title) " en premier recours. Conduite à tenir en consultation et bilan de première intention pour les médecins généralistes."}}{{ else if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<!-- TODO: Desc à revoir -->
+<meta name="description" content="{{ .Params.description }}">
+<meta itemprop="description" content="{{ .Params.description }}">
+<meta property="og:description" content="{{ .Params.description }}">
+<meta name="twitter:description" content="{{ .Params.description }}">
+
+<!-- Link Tags -->
+<base href="{{ .Permalink }}">
+<link rel="canonical" href="{{ .Permalink }}" itemprop="url"> 
+<meta name="url" content="{{ .Permalink }}">
+<meta name="twitter:url" content="{{ .Permalink }}"> 
+<meta property="og:url" content="{{ .Permalink }}">
+
+<!-- Language Tags -->
+<meta property="og:locale" content="{{ .Language.Lang }}">
+<meta name="language" content="{{ .Language.LanguageName }}">
+<!-- {{ range .AllTranslations }}
+  <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+{{ end }} -->
+
+<!-- TODO: Image Tags -->
+
+<!-- Date Tags, Sitemap & RSS Feed Tags -->
+<meta property="og:updated_time" content={{ .Lastmod.Format "2006-01-02T15:04:05Z0700" | safeHTML }}>
+<link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}sitemap.xml"> 
+{{ with .OutputFormats.Get "RSS" }}
+  <link href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }} - Dernières recommandations">
+  <link href="{{ .Permalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }} - Dernières recommandations">
+{{ end }}
+
+<!-- TODO: Article tags -->
+
+<!-- Website tags -->
+<meta property="og:type" content="website">
+<meta name="author" content="{{ .Site.Params.author }}">
+<script defer type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "url": "{{ .Permalink }}",
+    "sameAs": [
+      "{{ .Site.Params.github }}"
+    ],
+    "name": "{{ .Title }}",
+    "logo": "{{ .Site.BaseURL }}favicon.ico"
+  }
+</script>
+
+<!-- TODO: Favicon -->
+<link rel="icon" href="{{ .Site.BaseURL }}favicon.ico">
+
+<!-- Crawlers -->
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="index,follow">
+
+<!--TODO: Others -->
+<!--<link rel="manifest" href="{{ .Site.BaseURL }}manifest.json">-->
+<meta name="theme-color" content="#6200ee">
+<meta name="msapplication-TileColor" content="#6200ee">
+
+<meta name="keywords" content="">
+<meta name="imagemode" content="force">
+<meta name="coverage" content="Worldwide">
+<meta name="distribution" content="Global">
+<meta name="HandheldFriendly" content="True">
+<meta name="msapplication-tap-highlight" content="no">
+<meta name="apple-mobile-web-app-title" content="{{ .Site.Params.sitename }}">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-touch-fullscreen" content="yes">

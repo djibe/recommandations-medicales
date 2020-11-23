@@ -60,10 +60,10 @@ Post systématique avec tout partenaire dont le statut sérologique n'est pas co
 
 Réaliser une sérologie avant la vaccination, sauf statut immunitaire certain.
 
-Adulte:
-- Avaxim  160® : une dose puis une dose de rappel 6 à 12 mois plus tard, cette dose de rappel pouvant être administrée jusqu’à 36 mois après la première dose.
-- Havrix  1440® : une dose puis une dose de rappel 6 à 12 mois plus tard, cette dose de rappel pouvant être administrée jusqu’à 5 ans après la première dose.
-- Vaqta 50® : une dose puis une dose de rappel 6 à 18 mois après cette première dose
+Adulte:  
+- [Avaxim  160®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62756524&typedoc=R)
+- [Havrix  1440®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60386414&typedoc=R) 
+- [Vaqta 50®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62087670&typedoc=R)
 
 #### Vaccination hépatite B
 

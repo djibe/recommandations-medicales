@@ -36,12 +36,13 @@ Accessible à toute la francophonie.
 et aussi...
 
 - Low tech  
-Seulement à base de fichiers textes pour tout le monde.
+Seulement à base de fichiers textes éditables par tout le monde.
 - Résistant  
-Pas de bases de données, facile à sauvegarder et migrer.
-- Coûts 0 d'hébergement
+Pas de bases de données, facile à sauvegarder et déménager.
+- Sans frais  
+Aucun coût d'hébergement.
 - Flux RSS  
-Pour se tenir informé sans surfer.
+Pour se tenir informé sans naviguer de site en site.
 
 ### Ce qui manque
 

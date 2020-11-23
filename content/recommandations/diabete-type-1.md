@@ -37,17 +37,17 @@ En effet, **il est inenvisageable de tenter une synthèse pour la prise en soins
 - Arrêt du tabac
 - HTA  
 Objectif tensionnel **< 130/80** mmHg (ESC 2019).
-- LDL  
+- Dyslipidémie  
 LDL cible **< 0,55 g/L** (ESC 2019)
 - Activité physique  
-**Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense).
+**Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire.
 - Cible d'HbA1C  
 Globalement **6,5%** (sauf complications avancées).
-- En cas de surpoids  
+- Surpoids  
 Négocier une perte de poids (5-10%).
 - Régimé méditerranéen
 - Dépistage de la [maladie cœliaque]({{< ref "maladie-coeliaque.md" >}})  
-Au diagnostic puis 1/an pendant 5 ans (ISPAD).
+Au diagnostic puis annuel pendant 5 ans (ISPAD).
 
 ## Participer à des études
 

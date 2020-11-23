@@ -5,6 +5,7 @@
   "scripts": {
     "build": "hugo --gc --minify",
     "css:purge": "purgecss -c build/postcss.config.js",
+    "favicon": "real-favicon generate ./build/faviconDescription.json ./build/faviconData.json ./favicons",
     "html:lint": "htmllint --rc build/.htmllintrc \"public/**/*.html\"",
     "server": "hugo server -D -w -d dev --verbose"
   },
@@ -32,6 +33,7 @@
   },
   "homepage": "https://recommandations-medicales.netlify.app",
   "devDependencies": {
+    "cli-real-favicon": "0.0.8",
     "htmllint-cli": "0.0.7",
     "vnu-jar": "^20.6.30"
   },

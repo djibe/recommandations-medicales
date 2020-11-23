@@ -19,8 +19,8 @@ todo = "<1 ng or 2 ng, Ref HAS"
 
 {{%article-summary%}}
 
-- Dépistage ≥ 45 ans avec espérance de vie ≥ 10 ans
-- PSA tous les 1 à 8 ans selon le résultat
+- Proposer le dépistage à partir de 45 ans si espérance de vie ≥ 10 ans.
+- Répéter le PSA tous les 1 à 8 ans selon le PSA précédent.
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

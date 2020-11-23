@@ -19,8 +19,8 @@ todo = "complications, EI"
 
 {{%article-summary%}}
 
-- Maladie inflammatoire: Préciser le jour de la prise unique sur l'ordonnance
-- Associer l'acide folique 5mg 1cp 1 prise/sem 48h après le MTX
+- Préciser le jour de la prise unique sur l'ordonnance.
+- Associer l'acide folique 5 mg 1cp en 1 prise/sem 48h après le MTX.
 
 {{%/article-summary%}}
 {{%collapse "Contre-indications" %}}
@@ -64,8 +64,10 @@ Systématique avant de débuter le traitement.
 {{% /collapse %}}
 {{%collapse "Spécialités - Fiches RCP - Grossesse" %}}
 
+<div class="d-flex">
 {{< references/bdpm >}}
-{{< references/lecrat >}}
+{{< references/le-crat >}}
+</div>
 
 {{% /collapse %}}
 {{%collapse "Co-prescription" %}}

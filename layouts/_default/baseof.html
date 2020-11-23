@@ -1,6 +1,6 @@
 <!doctype html>
-<html lang="{{ .Site.Language.Lang }}">
-  {{- partial "header.html" . -}}
+<html prefix="og: http://ogp.me/ns#" lang="{{ .Language }}">
+  {{ partial "header.html" . }}
   <body>
     {{- partial "nav.html" . -}}
     {{- partial "navdrawer.html" . -}}

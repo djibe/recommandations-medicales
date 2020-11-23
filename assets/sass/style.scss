@@ -1,34 +1,42 @@
 html,
 body {
   height: 100vh;
-  user-select: none;
 }
 
 main {
   display: flex;
   min-height: 100%;
-  padding-top: 93px;
 
   h1,
   h2 {
     font-family: Comfortaa, Roboto, sans-serif;
   }
 
-  @media (max-width: 767.98px){
-    & > div {
-      padding-top: 16px;
-    }
+  > .container-lg,
+  > .recommandation {
+    padding-top: 64px;
   }
 
-  @media (min-width: 768px){
-    & {
+  @media (min-width: 1024px){
+    & > .container-lg,
+    & > .recommandation {
       padding-top: 56px;
     }
   }
 }
 
-#list-wrapper {
-  flex: 1 0 auto;
+
+// List pages
+
+.list-page {
+  flex-grow: 1;
+  padding-top: 100px;
+
+  @media (min-width: 768px){
+    & {
+      padding-top: 80px;
+    }
+  }
 }
 
 .navbar .dropdown-menu::before {
@@ -261,7 +269,7 @@ blockquote {
 
 @media screen and (max-width: 767.98px) {
   h1 {
-    font-size: 24px;
+    font-size: 32px;
     line-height: 1.5rem;
     padding: 0;
   }
