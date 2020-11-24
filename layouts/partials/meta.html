@@ -9,14 +9,14 @@
 <!-- Description Tags -->
 <meta name="description" content="{{ if .IsPage }}{{ printf "%s %s %s %s %s%s" "Les recommandations pour" .Params.prefix (lower .Title) " en premier recours. Conduite à tenir en consultation et bilan de première intention pour les médecins généralistes."}}{{ else if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <!-- TODO: Desc à revoir -->
-<meta name="description" content="{{ .Params.description }}">
+<!--<meta name="description" content="{{ .Params.description }}">-->
 <meta itemprop="description" content="{{ .Params.description }}">
 <meta property="og:description" content="{{ .Params.description }}">
 <meta name="twitter:description" content="{{ .Params.description }}">
 
 <!-- Link Tags -->
 <base href="{{ .Permalink }}">
-<link rel="canonical" href="{{ .Permalink }}" itemprop="url"> 
+<link rel="canonical" href="{{ .Permalink }}">
 <meta name="url" content="{{ .Permalink }}">
 <meta name="twitter:url" content="{{ .Permalink }}"> 
 <meta property="og:url" content="{{ .Permalink }}">
@@ -43,7 +43,7 @@
 <!-- Website tags -->
 <meta property="og:type" content="website">
 <meta name="author" content="{{ .Site.Params.author }}">
-<script defer type="application/ld+json">
+<script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -68,7 +68,7 @@
 <meta name="theme-color" content="#6200ee">
 <meta name="msapplication-TileColor" content="#6200ee">
 
-<meta name="keywords" content="">
+<meta name="keywords" content="recommandations, médecine, medecine, conduite à tenir, prise en charge, première intention">
 <meta name="imagemode" content="force">
 <meta name="coverage" content="Worldwide">
 <meta name="distribution" content="Global">

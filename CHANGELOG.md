@@ -4,6 +4,7 @@
 
 - Check comment
 - fix meta description
+- Charte HON
 - Sitemap que pour index + reco
 - PurgeCSS
 - Replace guidelineyears
@@ -12,7 +13,7 @@
 - Logo
 - Datatables sur fiche
 - If is page menu is active
-- Expand all
+- Expand all avec localstorage
 - Papillomavirus > Melanome > Urticaire > Gale > Migraine > Dépistage cancer prostate
 - Score de Wells, BASDAI, Glasgow
 - TOC

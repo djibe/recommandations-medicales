@@ -39,7 +39,11 @@ childProcess.exec('java -version', (error, stdout, stderr) => {
     'The “main” role is unnecessary for element “main”.',
     // Material ignores
     'The “month” input type is not supported in all browsers.*',
-    'The “week” input type is not supported in all browsers.*'
+    'The “week” input type is not supported in all browsers.*',
+    // Netlify ignore
+    'Attribute “netlify” not allowed on element “form” at this point.*',
+    // Modern ignore
+    'Attribute “loading” not allowed on element “iframe” at this point.*'
   ].join('|')
 
   const args = [
@@ -51,8 +55,7 @@ childProcess.exec('java -version', (error, stdout, stderr) => {
     '--no-langdetect',
     '--Werror',
     `--filterpattern "${ignores}"`,
-    'gh_pages/',
-    'js/tests/'
+    'public/'
   ]
 
   // For the 32-bit Java we need to pass `-Xss512k`

@@ -2,7 +2,7 @@
 title = "Hypothyroïdie"
 prefix = "l'"
 shortname = "hThyroïdie"
-synonyms = [""]
+synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-14T23:30:41+02:00
 publishdate = 2020-04-14
@@ -271,7 +271,7 @@ graph TB
         bilan --> traitement("Traitement par lévothyroxine")
           traitement --> adulte("<strong>Adulte</strong><br>Débuter à 1,7 µg/kg/j")
           traitement --> enfant("<strong>Enfant</strong><br>Débuter à 2 µg/kg/j")
-          traitement --"Fragilité"--> fragile("<strong>Sujet âgé</strong>: Débuter à 1,7 µg/kg/j<br><strong>Coronarien</strong>: Débuter à 12,5 µg/j")
+          traitement --"Fragilité"--> fragile("<strong>Sujet âgé</strong><br>Débuter à 1,7 µg/kg/j<br><br><strong>Coronarien</strong><br>Débuter à 12,5 µg/j")
 {{< /mermaid >}}
 
 {{% /collapse %}}

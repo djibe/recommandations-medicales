@@ -19,7 +19,12 @@ draft = false
 
 {{%collapse "Définition" %}}
 
+Vitamine D
+: La vitamine D participe à la régulation du métabolisme phosphocalcique et prévient: **rachitisme, ostéomalacie, douleurs musculaires diffuses**.  
 L'unité internationale est le **nmol/L**.
+: **Bénéfices de la supplémentation**  
+Réduit les fractures non vertébrales des +65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 30 ng/mL.
+: Selon l’[Inserm](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/), une carence en vitamine D serait fortement liée au développement de la maladie d’Alzheimer. D’autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés.
 
 Carence de l'adulte et de l'enfant en vitamine D (risque élevé de rachitisme)
 : Taux sérique de vitamine D < 30 nmol/L.
@@ -33,15 +38,13 @@ Ne pas supplémenter au-delà 150 nmol/L.
 
 {{%info%}}À tous les âges, des apports quotidiens de 1000 UI/j sont recommandés.{{%/info%}}
 
-- La vitamine D participe à la régulation du métabolisme phosphocalcique et prévient:  **rachitisme, ostéomalacie, douleurs musculaires diffuses**.
-- **Bénéfices de la supplémentation**: réduit les fractures non vertébrales des +65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 30 ng/mL.
-- Selon des travaux récents de l’Inserm, une carence en vitamine D serait fortement liée au développement de la maladie d’Alzheimer. D’autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés.
-
 {{%/collapse%}}
 {{%collapse "Épidémiologie" %}}
 
-- **Déficit en vitamine D**: 75% des adultes, 70% des enfants.
-- **Carence en vitamine D**: 7% des adultes, 13% des adolescents, 4% des enfants.
+- **Déficit en vitamine D**  
+75% des adultes, 70% des enfants.
+- **Carence en vitamine D**  
+7% des adultes, 13% des adolescents, 4% des enfants.
 
 {{%/collapse%}}
 {{%collapse "Patients à risque" %}}
@@ -57,7 +60,7 @@ Hyperparathyroïdie
 - [Insuffisance rénale chronique]({{< ref "insuffisance-renale-chronique.md" >}})
 - Sujets âgés à risque de chute
 
-### Objectifs pour les personnes à risque
+### 3 objectifs pour les personnes à risque
 
 1. Taux ≥ 75 nmol/L avec dosage initial
 1. Protocole de correction rapide
@@ -132,8 +135,7 @@ et aussi
 
 En dehors des 6 indications, préciser sur l’ordonnance la raison.  
 En dosage de complaisance, préciser « Non remboursable » sur la prescription (11,34€, code 35 B).  
-{{%class%}}92 millions d’euros de dosages de vitamine D en 2011.  
-NB. Il n'y a pas d'utilité prouvée à doser la vitamine D en-dehors de ces situations. {{%/class %}}
+{{%class%}}92 millions d’euros de dosages de vitamine D en 2011.{{%/class %}}
 
 {{% /collapse %}}
 {{%collapse "Protocoles d'administration" %}}

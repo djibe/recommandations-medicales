@@ -2,7 +2,7 @@
 title = "Phimosis"
 prefix = "le "
 shortname = ""
-synonyms = [""]
+synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:35:35+02:00"
 publishdate = "2020-04-27"
@@ -98,7 +98,7 @@ Définir si phimosis physiologique persistant ou secondaire.
 - Pas de traitement médical/chirurgical du phimosis avant 3 ans (6 ans pour certains).
 - Le traitement chirurgical s'adresse aux échecs du traitement médical et du phimosis acquis très scléreux.
 
-### A) Traitement médical
+### A. Traitement médical
 
 En 1<sup>re</sup> intention dans le phimosis congénital avec application de **corticoïdes locaux de classe forte** couplées à des **manœuvres douces de rétraction du prépuce** (études discordantes).
 
@@ -114,7 +114,7 @@ Etudiés avec effets secondaires : pommades aux œstrogènes.
 
 Les adhérences balano-préputiales. Si persistent après 5 ans : elles peuvent être levées en appliquant un anesthésique local type EMLA crème 30min avant le geste, puis levées par des tractions douces.
 
-### B) Traitement chirurgical
+### B. Traitement chirurgical
 
 **Indications**: échecs ou contre-indication au traitement médical, porteurs de malformations urologiques sévères (RVU sévères, valves de l'urètre postérieur, sondage intermittent).  
 Vérifier l'absence d'anomalie de verge type hypospadias avant le geste.
@@ -130,7 +130,7 @@ Si volonté de chirurgie conservatrice, requiert un prépuce suffisamment long.
 1. Plastie de prépuce  
 Conserve la totalité de la longueur du prépuce.
 
-### C) Traitement des complications
+### C. Traitement des complications
 
 - Posthite et balano-posthite  
 Antiseptique local. Type Dakin® ou chlorhexidine aqueuse dilué dans ⅔ d'eau, matin et soir pendant 5 minutes, 5 jours.

@@ -37,8 +37,8 @@ Guérison spontanée le plus souvent en 3-4 semaines.
 Taux de récidive élevé: 23 à 60% avant 2 ans.
 
 Asthme du nourrisson
-: ≥ 3 bronchiolites de 0 à 36 mois.  
-Terrain atopique fréquent.
+: Au moins 3 épisodes de bronchiolite de 0 à 36 mois.  
+On retrouve fréquemment un terrain atopique.
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}

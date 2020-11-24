@@ -14,7 +14,7 @@ tags = ["depistage", "cancer", "PSA"]
 anglais = ["Carcinoma of prostate"]
 sctid = "254900004"
 draft = false
-todo = "<1 ng or 2 ng, Ref HAS"
+todo = "<1 ng or 2 ng, Ref HAS, https://curie.fr/dossier-pedagogique/cancer-de-la-prostate-les-facteurs-de-risque"
 +++
 
 {{%article-summary%}}

@@ -16,9 +16,9 @@ title = "L'Univ médicale"
 [taxonomies]
   category = "categories"
   tag = "tags"
-  auteur = "auteurs"
+  # auteur = "auteurs"
   guidelineyear = "guidelineyears"
-  source = "sources"
+  # source = "sources"
 
 [params]
   author = "Jean-Baptiste FRON"

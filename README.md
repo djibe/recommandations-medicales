@@ -2,7 +2,7 @@
 
 **Projet Open Source, gratuit et indépendant visant à partager l'État de l'Art de la pratique en médecine de premier recours**.
 
-Recommandations Médicales cible donc tous les médecins généralistes et les internes qui souhaitent s'informer, se former et accéder en 2 clics à tout ce dont ils ont besoin en consultation.
+*Recommandations Médicales* cible tous les médecins généralistes et les internes qui souhaitent s'informer, se former et accéder en 2 clics à tout ce dont ils ont besoin en consultation.
 
 ### Les points forts
 
@@ -15,7 +15,7 @@ Aucun financement de l'industrie. Jamais.
 - \+ Simple  
 Segmentation des chapitres pour accéder rapidement à l'info recherchée.
 - \+ Visuel  
-Présence d'un algorithme décisionnel pour un balayage visuel des possibilités devant une pathologie.
+Présence d'un algorithme décisionnel (diagramme de flux) pour balayer rapidement la prise en charge de la pathologie.
 - \+ Pratique  
 Accès immédiat au score ou calcul de risque.
 - \+ Sûr  

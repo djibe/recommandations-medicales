@@ -1,4 +1,4 @@
-<nav aria-hidden="true" class="navdrawer navdrawer-permanent-lg doc-navdrawer" id="doc-navdrawer" tabindex="-1">
+<nav class="navdrawer navdrawer-permanent-lg doc-navdrawer" id="doc-navdrawer" tabindex="-1">
    <div class="navdrawer-content custom-scrollbar">
       <div class="d-flex flex-column min-vh-100">
          <div class="navdrawer-header">
@@ -8,7 +8,7 @@
             {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
                {{ if eq "categories" $taxonomyname }}
                   {{ range $category, $pageOfCategory := $taxonomy }}
-                  <a class="nav-item nav-link collapsed text-capitalize font-weight-bold" data-toggle="collapse"
+                  <a class="nav-item nav-link collapsed text-capitalize" data-toggle="collapse"
                      href="#navdrawer-{{ $category | urlize }}">{{ $category | truncate 20 }} <span class="ml-2">({{ len $pageOfCategory }})</span></a>
                   <div class="collapse" id="navdrawer-{{$category | urlize | lower}}">
                      {{ range $pageOfCategory.Pages.ByTitle }}

@@ -163,8 +163,8 @@ Le traitement relève du **pédiatre spécialisé en endocrinologie**.
 
 Il consiste en des injections (SC/IM) d'**analogues du GnRH** (tryptoréline ou leuproréline en formes LP).
 
-{{%class%}}Les analogues du GnRH bloquent le développement pubertaire, limitent l'avance de l'âge osseux, normalisent la vitesse de croissance et permettent d'obtenir une taille adulte entre -1 et 0 DS.  
-Action réversible quelques mois après l'arrêt du traitement.{{%/class%}}
+{{%class-block%}}Les analogues du GnRH bloquent le développement pubertaire, limitent l'avance de l'âge osseux, normalisent la vitesse de croissance et permettent d'obtenir une taille adulte entre -1 et 0 DS.  
+Action réversible quelques mois après l'arrêt du traitement.{{%/class-block%}}
 
 Des tests de provocation cutanée (Prick tests) sont réalisés au préalable.
 

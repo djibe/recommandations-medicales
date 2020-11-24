@@ -7,6 +7,7 @@
     "css:purge": "purgecss -c build/postcss.config.js",
     "favicon": "real-favicon generate ./build/faviconDescription.json ./build/faviconData.json ./favicons",
     "html:lint": "htmllint --rc build/.htmllintrc \"public/**/*.html\"",
+    "html:lint-vnu": "node build/vnu-jar.js",
     "server": "hugo server -D -w -d dev --verbose"
   },
   "keywords": [
@@ -40,7 +41,7 @@
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^3.0.0",
     "autoprefixer": "^10.0.2",
-    "postcss": "^8.1.7",
+    "postcss": "^8.1.10",
     "postcss-cli": "^8.3.0"
   },
   "browserslist": [

@@ -179,7 +179,7 @@ Une autre approche consiste à associer les 3 traitements jusqu'à amélioration
 
 {{< mermaid >}}
 graph TB
-  toux[Toux > 8 semaines] --> examen("Anamnèse, examen clinique, RT")
+  toux["Toux > 8 semaines"] --> examen("Anamnèse, examen clinique, RT")
   style toux stroke:#6200ee, stroke-width:1px
     examen --> IEC
       IEC("IEC ou tabac") --Arrêt--> resolution(Résolution) --Non--> RT
