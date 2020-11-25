@@ -178,7 +178,7 @@ graph TB
 
 {{< mermaid >}}
 graph TB
-  enfant[Enfant < 6 ans<br>sans fragilité] --"Suspicion si &ge; 1 parmi"--> symptomes("Fièvre > 38&deg;C, irritabilité inhabituelle, tachycardie, marbrures<br>Toux fébrile, polypnée, gène respiratoire<br>Diarrhées") --Signes de gravité? --> gravite
+  enfant["Enfant &lt; 6 ans<br>sans fragilité"] -- "Suspicion si &ge; 1 parmi" --> symptomes("Fièvre > 38&deg;C, irritabilité inhabituelle, tachycardie, marbrures<br>Toux fébrile, polypnée, gène respiratoire<br>Diarrhées") -- "Signes de gravité ?" --> gravite
   style enfant stroke:#6200ee, stroke-width:1px
 {{< /mermaid >}}
 

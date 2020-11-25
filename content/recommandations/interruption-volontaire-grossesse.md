@@ -20,7 +20,7 @@ todo = "liste centres, arbre décisionnel"
 {{%article-summary%}}
 
 - Temps de réflexion d'une semaine.
-- Calcul de la DDR + examen gynécologique + groupe sanguin + échographie pelvienne systématiques.
+- Systématiques: Calcul de la DDR + examen gynécologique + groupe sanguin + échographie pelvienne.
 - Possible en ville avant 7 SA.  
 [Extension exceptionnelle Covid jusqu'à 9 semaines](https://www.has-sante.fr/jcms/p_3179352/fr/la-has-valide-l-extension-de-l-ivg-medicamenteuse-a-domicile-jusqu-a-9-semaines).
 - Centres et praticiens réalisant des IVG: [ivglesadressess.org](https://www.ivglesadresses.org/) ou téléphone <a href="tel:+33800081111">0 800 08 11 11</a>.
@@ -40,7 +40,7 @@ todo = "liste centres, arbre décisionnel"
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
 
-- En 2018: 209.500 IVG en métropole soit 1 IVG pour 4 naissances: record historique depuis 1990.
+- En 2018: 209.500 IVG en métropole soit 1 IVG pour 4 naissances (record historique depuis 1990).
 - Taux de recours de 15 IVG pour 1000 femmes de 15 à 49 ans en métropole (27,8 dans les DROM).  
 Pic chez **20-29 ans** avec 27 IVG/1000 femmes.
 - 25% sont réalisées en ville

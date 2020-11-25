@@ -185,23 +185,23 @@ Les symptômes disparaissent après quelques semaines ou relèvent de traitement
 - Activité physique soutenue en cas de surpoids
 - Enquête diététique des apports calciques
 - Syndrome des ovaires polykystiques (SOPK)  
-{{%class%}}La prévalence peut atteindre 20% après une puberté précoce.  
-Surveillance des signes d'hyperandrogénie.{{%/class%}}
+Surveillance des signes d'hyperandrogénie.  
+{{%class%}}La prévalence peut atteindre 20% après une puberté précoce.{{%/class%}}
 
 {{%/collapse%}}
 {{%collapse "Conduite à tenir" "show" %}}
 
 {{< mermaid >}}
 graph TB
-  pp["Observation de caractères sexuels"] --"Fille"--> fille["Âge < 8 ans"]
+  pp["Observation de caractères sexuels"] -- Fille --> fille["Âge #lt; 8 ans"]
   style pp stroke:#6200ee, stroke-width:1px
-    pp --"Garçon"--> garcon("Âge < 9,5 ans")
-      fille --"Oui"--> examen("Interrogatoire<br>Examen clinique<br>Courbes de croissance")
-      garcon --"Oui"--> examen
+    pp -- "Garçon" --> garcon("Âge #lt; 9,5 ans")
+      fille -- Oui --> examen("Interrogatoire<br>Examen clinique<br>Courbes de croissance")
+      garcon -- Oui --> examen
         examen --> bilan("Âge osseux<br>Fille: Échographie pelvienne")
           bilan --> specialiste("Consultation d'endocrinologue<br>pédiatrique")
-        examen --"Signes de gravité ?"--> gravite("Céphalées<br>Troubles visuels<br>Polyuro-polydipsie")
-          gravite --"Oui"-->  IRM("IRM hypophysaire<br>en semi-urgence")
+        examen -- Signes de gravité ? --> gravite("Céphalées<br>Troubles visuels<br>Polyuro-polydipsie")
+          gravite -- Oui -->  IRM("IRM hypophysaire<br>en semi-urgence")
             IRM --> specialiste
 {{< /mermaid >}}
 

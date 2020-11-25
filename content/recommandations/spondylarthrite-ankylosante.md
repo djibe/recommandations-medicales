@@ -19,9 +19,6 @@ http = true
 todo = "foreach score modal, bilan pré-thérap antitnfa"
 +++
 
-{{< scores/basdai >}}
-{{< scores/basfi >}}
-
 {{%article-summary%}}
 
 - Dorso-lombalgies durée > 3 mois, réveil nocturne, dérouillage matinal > 30 minutes, aggravées au repos, diminuées à l’activité physique.
@@ -307,7 +304,7 @@ Une amélioration doit être obtenue à 3 mois pour poursuivre une stratégie, a
 
 - Score composite de contrôle de la maladie  
 ASDAS si axial et DAS si périphérique.
-- {{< score "basdai" "Auto-score BASDAI" >}}  
+- Auto-score BASDAI"  
 {{% class %}}Réalisé la semaine avant la consultation.{{% /class %}}
 - Axiale  
 EVA, réveils nocturnes, taille annuelle, indice de Schöber, ampliation thoracique.

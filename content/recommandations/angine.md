@@ -105,12 +105,12 @@ Indication: angine chez les +3 ans avec TDR positif.
 
 {{< mermaid >}}
 graph TB
-  angine["Angine"] --> moins3("< 3 ans") --> viral("Viral")
+  angine[Angine] --> moins3("&lt; 3 ans") --> viral(Viral)
   style angine stroke:#6200ee, stroke-width:1px
     angine --> 314ans("3 à 14 ans") --> TDR("TDR") -- "Positif" --> ATB("Antibiothérapie<br>Amoxicilline 1g x 2/j 6j")
-      TDR -- "Négatif" --> viral
-    angine --> 15plus("≥ 15 ans") --> score("Mac Isaac") -- "≥ 2" --> ATB
-      score -- "< 2" --> viral
+      TDR -- Négatif --> viral
+    angine --> 15plus("≥ 15 ans") --> score(Mac Isaac) -- "≥ 2" --> ATB
+      score -- "&lt; 2" --> viral
 {{< /mermaid >}}
 
 {{% /collapse %}}

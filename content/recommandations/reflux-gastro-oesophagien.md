@@ -200,9 +200,10 @@ Efficaces sur les symptômes en cures courtes mais non indiqués en traitement d
 Traitement pendant 6 à 12 semaines.
 
 Molécules privilégiées:
-- ranitidine 300mg/j (en 1 à 2 prises)
-- nizatidine (150-300mg x 2/j)
-- famotidine (20mg x 2/j)
+
+- ranitidine 300 mg/j en 1 à 2 prises
+- nizatidine 150-300 mg x 2/j
+- famotidine 20 mg x 2/j
 
 ### Chirurgie
 
@@ -231,7 +232,7 @@ graph TB
   RGO[Suspicion de RGO] --> atypique
   style RGO stroke:#6200ee, stroke-width:1px
   RGO --> typique
-  typique[Symptômes typiques] --> 50-(< 50 ans)
+  typique["Symptômes typiques"] --> 50-("&lt; 50 ans")
   typique --> 50+("#ge; 50 ans")
     50+ --> EOGD(EOGD)
     50- --> RHD(RHD<br>Alginates ou anti-acides<br>Anti-H2 ou IPP 1/2 dose cure courte)

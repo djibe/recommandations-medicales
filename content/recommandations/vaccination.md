@@ -104,11 +104,12 @@ Rattrapage vaccinal
 
 <div class="card card-body card-primary-action flex-row my-3" style="width: 250px;">
   <div>
-    <h5 class="typography-body-2 font-weight-bold">e-learning vaccination</h5>
+    <h5 class="typography-body-2 font-weight-bold">
+      <a href="http://www.formationvaccinationpaca.fr" target="_blank" rel="nofollow noopener" class="text-reset stretched-link">
+      e-learning vaccination</a>
+    </h5>
     <h6 class="typography-body-2 mb-0">Par la Région PACA.</h6>
   </div>
-  <a href="http://www.formationvaccinationpaca.fr" target="_blank"
-    rel="nofollow noopener noreferrer" class="stretched-link"></a>
 </div>
 
 {{% /collapse %}}

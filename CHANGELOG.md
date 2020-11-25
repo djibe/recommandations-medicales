@@ -2,14 +2,16 @@
 
 ## TODO
 
-- Check comment
 - fix meta description
 - Charte HON
+- Table title
+- Schema.org
+- Shortcode téléphone
+- Substituts nicotiniques
+- Check target="_blank"
 - Sitemap que pour index + reco
 - PurgeCSS
 - Replace guidelineyears
-- Github
-  - Sponsorship
 - Logo
 - Datatables sur fiche
 - If is page menu is active
