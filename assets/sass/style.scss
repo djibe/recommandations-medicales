@@ -127,6 +127,8 @@ h4 {
     }
   }
 
+  dt,
+  dl,
   p,
   ul:not(.list-group) {
     width: Min(100%, 768px);

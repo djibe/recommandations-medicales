@@ -40,7 +40,7 @@ S'y ajoute le retentissement psychologique du patient/couple (DSM IV).
 
 > Prévalence de la dysfonction érectile selon l'âge
 
-{{%table "table" %}}
+{{% table %}}
 Âge  |Prévalence
 :---:|:---:
 18-39 ans|1-10%

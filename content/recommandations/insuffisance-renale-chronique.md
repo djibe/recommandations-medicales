@@ -85,7 +85,7 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 
 ### Évaluer le stade la maladie rénale chronique
 
-{{%table "table" %}}
+{{% table %}}
 | Stade | DFG (CDK-EPI) | Définition |
 |:-----:|:-------------:|------------|
 | 1     | &gt; 90       | MRC avec DFG normal ou augmenté |

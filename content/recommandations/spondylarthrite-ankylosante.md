@@ -177,7 +177,7 @@ Mise à jour du bilan cardio-vasculaire (glycémie à jeun, bilan lipidique pour
 - Rachis cervico-thoraco-lombaire Face + Profil
 - Bassin de face
 
-{{%table "table" %}}
+{{% table %}}
 | Stade   | Image   |
 |---------|---------|
 | Stade 0 | Inflammation de l’enthèse non visible en radio |

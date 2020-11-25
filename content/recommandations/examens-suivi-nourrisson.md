@@ -24,7 +24,7 @@ Examens médicaux de la naissance à 16 ans, réalisés en **tiers payant total 
 - Les consultations COE correspondent aux certificats obligatoires (8 jours, 9 mois, 24 mois).  
 - Les tarifs ci-dessous concernent la Métropole.
 
-{{%table "table" %}}
+{{% table %}}
 
 | N°    | Âge           | Cotation MG |
 |------:|:-------------:|:-----------:|

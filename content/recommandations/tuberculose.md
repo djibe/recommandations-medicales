@@ -46,7 +46,7 @@ Pour les professionnels de santé : évaluation de l'exposition au cas par cas p
 {{%/collapse%}}
 {{%collapse "Suivi thérapeutique" %}}
 
-{{%table "table" %}}
+{{% table %}}
 | Délai | Consultation | BK  | Radio | BH  | Bio | Opht |
 |:-----:|:------------:|:---:|:-----:|:---:|:---:|:----:|
 |  J0   | X            | X   | X     | X   | X   | X    |

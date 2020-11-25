@@ -18,7 +18,7 @@ draft = false
 
 {{%article-summary%}}
 
-
+TODO
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -33,7 +33,14 @@ Rattrapage vaccinal
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal" %}}
 
-{{%table "table" %}}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Table",
+    "about": "Calendrier vaccinal 2020"
+  }
+</script>
+{{% table %}}
 | Âge     | Valences      | Spécialités équivalentes       |
 |:-------:|---------------|--------------------------------|
 | 2 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
@@ -56,7 +63,7 @@ Rattrapage vaccinal
 {{% /collapse %}}
 {{%collapse "Schémas de rattrapage" %}}
 
-{{%table "table" %}}
+{{% table %}}
 | Germe        | Âge limite de rattrapage |
 |--------------|:------------------------:|
 | Haemophilus  | 5 ans                 |

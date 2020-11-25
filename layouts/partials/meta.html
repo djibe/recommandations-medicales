@@ -38,7 +38,7 @@
   <link href="{{ .Permalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }} - Dernières recommandations">
 {{ end }}
 
-<!-- TODO: Article tags -->
+<!-- TODO: Article tags https://jsonld.com/article/ -->
 
 <!-- Website tags -->
 <meta property="og:type" content="website">
@@ -47,12 +47,11 @@
   {
     "@context": "http://schema.org",
     "@type": "WebSite",
+    "name": "{{ .Title }}",
     "url": "{{ .Permalink }}",
     "sameAs": [
       "{{ .Site.Params.github }}"
-    ],
-    "name": "{{ .Title }}",
-    "logo": "{{ .Site.BaseURL }}favicon.ico"
+    ]
   }
 </script>
 

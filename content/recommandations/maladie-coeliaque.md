@@ -198,7 +198,7 @@ Ostéodensitométrie avant 35 ans ???
 
 Par le gastro-entérologue et le diététicien spécialisé.
 
-{{%table "table" %}}
+{{% table %}}
 | Période          | Bilan associé |
 |------------------|---------------|
 | **Au diagnostic**<br>Médecin et diététicien | - Examen physique, y compris l'IMC<br>- Éducation sur la MC<br>- Conseils diététiques par un diététicien qualifié<br>- Recommander un dépistage familial (DQ2/D8 et sérologie cœliaque)<br>- Recommander l'adhésion à une association de patients<br>- Sérologie cœliaque (si elle n'a pas déjà été réalisée)<br>- Analyses de routine (NFS, ferritinémie, vitamines D B9 B12, TSH,<br>enzymes hépatiques, calcium, phosphate)<br>- Ostéodensitométrie au moment du diagnostic avant 35 ans |

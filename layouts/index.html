@@ -16,15 +16,13 @@
     <div class="col-12 col-sm-6 col-xl-4 d-flex mb-1 mb-lg-3">
       <div class="card flex-fill">
         <div class="card-body position-relative card-primary-action ">
-          <h3 class="card-title">{{ .Title }}</h3>
+          <h3 class="card-title"><a href="{{ .Permalink }}" class="text-reset stretched-link">{{ .Title }}</a></h3>
           <p class="card-subtitle">
             {{ with .Params.auteurs}}
             {{ delimit . ", " }}{{ end }} le
             <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .Lastmod.Format "02 January" }}</time>
           </p>
           <p class="card-text">{{ replace .Summary "Définition" "" | safeHTML | truncate 300 }}</p><!-- TODO: multiple replace -->
-          <!-- TODO: multiple replace -->
-          <a href="{{ .Permalink }}" class="stretched-link"></a>
         </div>
         <div class="card-actions mt-0 pb-2">
           {{ partial "widgets/guidelineyear-render.html" . }}{{ partial "widgets/tags-render.html" . }}

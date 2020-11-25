@@ -108,14 +108,14 @@ Remise des [Consignes de surveillance à donner aux parents](/print/tc-enfant-co
 
 {{< mermaid >}}
 graph TB
-  TC["Traumatisme crânien"] --> GCS("Score de Glasgow")
+  TC[Traumatisme crânien] --> GCS(Score de Glasgow)
   style TC stroke:#6200ee, stroke-width:1px
-  GCS --"< 13"--> TCgrave("TC grave") --> SAMU("<strong>SAMU</strong>")
-  GCS --"≥ 13"--> TCleger("TC léger") --> gravite("Signes de gravité ?")
-    gravite --"Oui"--> SAMU
-    gravite --"Non"--> ambulatoirePossible("Examen sans impression de gravité<br>ET Surveillance à domicile 48h par les parents<br>ET Entourage adapté")
-      ambulatoirePossible --"Non"--> SAMU
-      ambulatoirePossible --"Oui"--> consignes("Surveillance ambulatoire<br>Consignes orales et écrites")
+  GCS -- < 13 --> TCgrave(TC grave) --> SAMU("<strong>SAMU</strong>")
+  GCS -- "≥ 13" --> TCleger(TC léger) --> gravite(Signes de gravité ?)
+    gravite -- Oui --> SAMU
+    gravite -- Non --> ambulatoirePossible("Examen sans impression de gravité<br>ET Surveillance à domicile 48h par les parents<br>ET Entourage adapté")
+      ambulatoirePossible -- Non --> SAMU
+      ambulatoirePossible -- Oui --> consignes("Surveillance ambulatoire<br>Consignes orales et écrites")
 
 {{< /mermaid >}}
 

@@ -50,7 +50,7 @@ La vitamine K1 prévient la **maladie hémorragique du nouveau-né (MHN)**, qui 
 La 1<sup>re</sup> ampoule doit être administrée durant la 1<sup>re</sup> heure de vie.
 Voir le tableau ci-dessous.
 
-{{%table "table" %}}
+{{% table %}}
 |               | Naissance     | J3-J4      | 1 mois     |
 |:-------------:|:-------------:|:----------:|:----------:|
 | Né à terme    | 2mg per os    | 2mg per os | 2mg per os |

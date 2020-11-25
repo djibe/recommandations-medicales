@@ -2,10 +2,11 @@
 {{ $class := .Get 0 }}
 {{ $old := "<table>" }}
 {{ $new := printf "<table class=\"%s\">" $class }}
+{{ $new := printf "<table class=\"table\">" }}
 {{ $htmlTable := replace $htmlTable $old $new }}
 {{ $htmlTable := replaceRE "align=\"([a-z]+)\"" "style=\"text-align: $1\"" $htmlTable}}
 
-<div class="data-table">
+<div class="data-table" itemscope itemtype="https://schema.org/Table">
   {{ $htmlTable | safeHTML }}
 </div>
 

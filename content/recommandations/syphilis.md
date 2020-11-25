@@ -141,7 +141,7 @@ Autres signes:
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-{{% class %}}Nombreux diagnostics différentiels, c'est pourquoi on appelle la syphilis la "grande simulatrice".{{%/class%}}
+{{% class %}}Nombreux diagnostics différentiels, c'est pourquoi on appelle la syphilis la "grande simulatrice".{{% /class%}}
 
 - Acné
 - Alopécie
@@ -157,9 +157,9 @@ Autres signes:
 - Sérologie syphilis  
 Les sérologies se positivent quelques jours après le début du chancre et atteignent un titre maximum vers 6 mois, correspondant à la phase secondaire si elle est présente.  
 Le diagnostic sérologique est plus difficile en recontamination du fait de la positivité des anticorps.  
-{{% class %}}Test tréponémique unique depuis 2015, anciennement TPHA + VDRL.{{% class %}}
-- {{% class %}}Examen au microscope à fond noir de prélèvement lésionnel  
-Permet diagnostic immédiat mais prélèvement nécessite expertise.{{% class %}}
+{{% class %}}Test tréponémique unique depuis 2015, anciennement TPHA + VDRL.{{% /class %}}
+- Examen au microscope à fond noir de prélèvement lésionnel  
+Permet un diagnostic immédiat mais le prélèvement nécessite un microscope et une expertise.
 - Sérologies et prélèvements des autres IST
 
 {{% warning %}}Une sérologie négative n’élimine pas une syphilis primaire.{{% /warning %}}
@@ -167,7 +167,8 @@ Permet diagnostic immédiat mais prélèvement nécessite expertise.{{% class %}
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-Port du préservatif avec tout partenaire en l'absence de bilan d'IST récent des 2 partenaires. Également si multi-partenaires. 
+Port du **préservatif** avec tout partenaire en l'absence de bilan d'IST récent des 2 partenaires.  
+Également si multi-partenaires.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
