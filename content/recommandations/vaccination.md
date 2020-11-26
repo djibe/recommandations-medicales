@@ -40,7 +40,7 @@ Rattrapage vaccinal
     "about": "Calendrier vaccinal 2020"
   }
 </script>
-{{% table %}}
+{{< table title="Calendrier vaccinal 2020" >}}
 | Âge     | Valences      | Spécialités équivalentes       |
 |:-------:|---------------|--------------------------------|
 | 2 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
@@ -56,14 +56,12 @@ Rattrapage vaccinal
 | 45 ans  | dTPolio       | Revaxis    |
 | ≥ 65 ans    | dTPolio tous les 10 ans<br>Antigrippal annuel | Revaxis<br>Influxvactetra, VaxigripTetra |
 | 65-74 ans   | Zona      | Zostavax   |
-{{% /table %}}
-
-> *Tableau récapitulatif du Calendrier vaccinal 2020*.
+{{< /table >}}
 
 {{% /collapse %}}
 {{%collapse "Schémas de rattrapage" %}}
 
-{{% table %}}
+{{< table title="Âges limites du rattrapage vaccinal 2020" >}}
 | Germe        | Âge limite de rattrapage |
 |--------------|:------------------------:|
 | Haemophilus  | 5 ans                 |
@@ -73,9 +71,7 @@ Rattrapage vaccinal
 | Pneumocoque  | 23 mois               |
 | Rougeole<br>Oreillons<br>Rubéole | 40 ans |
 | Varicelle    | 18 ans                |
-{{% /table %}}
-
-> *Tableau récapitulatif des rattrapages vaccinaux*.
+{{< /table >}}
 
 {{% /collapse %}}
 {{%collapse "Vaccins obligatoires" %}}

@@ -38,16 +38,14 @@ Pour les garçons de moins de 18 ans, la prise en charge relève de psychologue/
 Incapacité persistante ou répétée à obtenir/maintenir une érection suffisante pour permettre une activité sexuelle satisfaisante **durant plus de 3 mois**.  
 S'y ajoute le retentissement psychologique du patient/couple (DSM IV).
 
-> Prévalence de la dysfonction érectile selon l'âge
-
-{{% table %}}
+{{< table title="Prévalence de la dysfonction érectile selon l'âge." >}}
 Âge  |Prévalence
 :---:|:---:
 18-39 ans|1-10%
 40-59 ans|2-30%
 60-69 ans|20-40%
 70 ans|50-75%
-{{% /table %}}
+{{< /table >}}
 
 ### Facteurs de risque indépendants de l'âge
 

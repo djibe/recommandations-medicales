@@ -24,7 +24,7 @@ Examens médicaux de la naissance à 16 ans, réalisés en **tiers payant total 
 - Les consultations COE correspondent aux certificats obligatoires (8 jours, 9 mois, 24 mois).  
 - Les tarifs ci-dessous concernent la Métropole.
 
-{{% table %}}
+{{< table title="Examens de suivi du nourrisson remboursés à 100%" >}}
 
 | N°    | Âge           | Cotation MG |
 |------:|:-------------:|:-----------:|
@@ -48,7 +48,7 @@ Examens médicaux de la naissance à 16 ans, réalisés en **tiers payant total 
 | 18    | 8-9 ans | COB (25€) |
 | 19    | 11-13 ans | COB (25€) |
 | 20    | 15-16 ans | COB (25€) |
-{{% /table %}}
+{{< /table >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

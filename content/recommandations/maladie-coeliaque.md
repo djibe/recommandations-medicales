@@ -198,7 +198,7 @@ Ostéodensitométrie avant 35 ans ???
 
 Par le gastro-entérologue et le diététicien spécialisé.
 
-{{% table %}}
+{{< table title="Suivi de la maladie coœliaque" >}}
 | Période          | Bilan associé |
 |------------------|---------------|
 | **Au diagnostic**<br>Médecin et diététicien | - Examen physique, y compris l'IMC<br>- Éducation sur la MC<br>- Conseils diététiques par un diététicien qualifié<br>- Recommander un dépistage familial (DQ2/D8 et sérologie cœliaque)<br>- Recommander l'adhésion à une association de patients<br>- Sérologie cœliaque (si elle n'a pas déjà été réalisée)<br>- Analyses de routine (NFS, ferritinémie, vitamines D B9 B12, TSH,<br>enzymes hépatiques, calcium, phosphate)<br>- Ostéodensitométrie au moment du diagnostic avant 35 ans |
@@ -208,7 +208,7 @@ Par le gastro-entérologue et le diététicien spécialisé.
 | **24 mois**<br>Médecin | - Évaluer les symptômes<br>- Évaluer le recours au diététicien<br>- Sérologie cœliaque<br>- TSH<br>- Tests selon l’examen |
 | **36 mois**<br>Médecin | - Ostéodensitométrie de contrôle si anormale<br>- Évaluer les symptômes |
 | Puis tous les 1-2 ans | - Évaluer le recours au diététicien<br>- Sérologie cœliaque<br>- TSH<br>- Tests selon l’examen |
-{{% /table %}}
+{{< /table >}}
 
 {{% /collapse%}}
 {{%collapse "Information du patient" %}}

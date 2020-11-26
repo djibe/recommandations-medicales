@@ -3,12 +3,13 @@
 ## TODO
 
 - fix meta description
-- Charte HON
-- Table title
+- CSS fix h+h
+- Automate table SC  
+https://gist.github.com/clvs7-gh/77b1f50d51d4e238c8482fc31296d4c4
+- Search in synonyms
 - Schema.org
 - Shortcode téléphone
 - Substituts nicotiniques
-- Check target="_blank"
 - Sitemap que pour index + reco
 - PurgeCSS
 - Replace guidelineyears
@@ -20,6 +21,7 @@
 - Score de Wells, BASDAI, Glasgow
 - TOC
 - SEO  
+https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/
 https://www.webrankinfo.com/dossiers/techniques/quelles-donnees-structurees?utm_source=wri&utm_medium=email&utm_campaign=newsletter-2020-10-13&utm_content=newsletter-actualites  
 https://developers.google.com/search/docs/data-types/breadcrumb#json-ld  
 https://github.com/jeremyjaymes/jeremyjaymes.com/blob/master/themes/j/layouts/partials/seo.html
@@ -42,3 +44,4 @@ https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf
 - Display RSS  
 https://github.com/hongkiat/js-rss-reader  
 https://github.com/sdepold/vanilla-rss
+- https://developers.google.com/search/docs/data-types/faqpage

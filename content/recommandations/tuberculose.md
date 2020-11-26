@@ -46,7 +46,7 @@ Pour les professionnels de santé : évaluation de l'exposition au cas par cas p
 {{%/collapse%}}
 {{%collapse "Suivi thérapeutique" %}}
 
-{{% table %}}
+{{< table title="Examens de suivi de la tuberculose maladie" >}}
 | Délai | Consultation | BK  | Radio | BH  | Bio | Opht |
 |:-----:|:------------:|:---:|:-----:|:---:|:---:|:----:|
 |  J0   | X            | X   | X     | X   | X   | X    |
@@ -58,9 +58,9 @@ Pour les professionnels de santé : évaluation de l'exposition au cas par cas p
 | 9 mois | X           |     | X     |     |     |      |
 | 12 mois | X          |     | X     |     |     |      |
 | 18 mois | X          |     | X     |     |     |      |
-{{% /table %}}
+{{< /table >}}
 
-BH (ASAT, ALAT), Bio (NFS-plaq, créatininémie), Opht (Examen ophtalmologique)
+*Légende. BH (ASAT, ALAT), Bio (NFS-plaq, créatininémie), Opht (Examen ophtalmologique).*
 
 {{%/collapse%}}
 {{%collapse "Informations du patient" %}}

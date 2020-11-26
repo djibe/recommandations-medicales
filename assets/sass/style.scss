@@ -25,6 +25,18 @@ main {
   }
 }
 
+caption {
+  color: #545454;
+  font-size: 0.875rem;
+  padding: calc(1rem - 1px) 1rem;
+  letter-spacing: .007143em;
+  line-height: 1.375rem;
+  border-top: 1px solid rgba(0,0,0,.12);
+}
+
+.data-table > table > thead > tr > th {
+  border-top: 0;
+}
 
 // List pages
 
@@ -152,10 +164,6 @@ h4 {
   font-weight: 400;
   letter-spacing: normal;
   line-height: 1.5rem;
-}
-
-.recommandation__content #sources + .collapse li {
-  font-size: inherit;
 }
 
 .recommandation__content .alert > :last-child {

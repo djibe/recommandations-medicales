@@ -50,12 +50,12 @@ La vitamine K1 prévient la **maladie hémorragique du nouveau-né (MHN)**, qui 
 La 1<sup>re</sup> ampoule doit être administrée durant la 1<sup>re</sup> heure de vie.
 Voir le tableau ci-dessous.
 
-{{% table %}}
+{{< table title="Rythme d'administration de la vitamine K" >}}
 |               | Naissance     | J3-J4      | 1 mois     |
 |:-------------:|:-------------:|:----------:|:----------:|
 | Né à terme    | 2mg per os    | 2mg per os | 2mg per os |
 | Né à terme avec<br> FDR de MHN | 2mg per os<br> ou 1mg IVL   | 2mg per os<br> ou 1mg IM/IVL| 2mg per os<br> ou 1mg IM/IVL |
-{{% /table %}}
+{{< /table >}}
 
 {{% /collapse %}}
 {{%collapse "Informations du patient" %}}

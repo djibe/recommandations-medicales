@@ -45,7 +45,7 @@ OU si **appréciation de gravité par le médecin**:
   - TC par un objet à forte cinétique
 - GCS pédiatrique < 15
 - Agitation, somnolence, lenteur du discours ou questions répétitives
-- Pleurs inconsolables ou comportement anormal selon els parents
+- Pleurs inconsolables ou comportement anormal selon les parents
 - Perte de connaissance
 - Signes cliniques de lésion de base du crâne
   - Embarrure

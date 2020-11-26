@@ -28,19 +28,19 @@ todo = "reco"
 {{%collapse "Définition" %}}
 
 Urticaire
-: Dermatose caractérisée par les lésions papuleuses, œdémateuses prurigineuses bien limitées en petits éléments ou confluants en larges plaques mobiles et fugaces.
-: Réaction inflammatoire générée par la libération d’histamine par les mastocytes lors de lur rencontre avec un antigène.
+: Dermatose caractérisée par les lésions papuleuses, œdémateuses prurigineuses bien limitées en petits éléments ou confluants en **larges plaques mobiles et fugaces**.
+: Réaction inflammatoire générée par la libération d’histamine par les mastocytes lors de leur rencontre avec un antigène.
 : Le plus souvent sans cicatrice ni lésion de grattage.
 
 Urticaire superficielle
-: Œdème dermique uniquement.
+: Œdème **dermique uniquement**.
 
 Urticaire profonde
-: Aussi appelée angio-œdème ou œdème de Quicke (en atteinte pharyngée)
+: Aussi appelée **angio-œdème** ou **œdème de Quicke** (en atteinte pharyngée).
 : L'atteinte est dermo-hypodermique.
 
 Urticaire chronique
-: Durée > 6 semaines.
+: urticaire durant **> 6 semaines**.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

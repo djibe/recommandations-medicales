@@ -38,16 +38,87 @@
   <link href="{{ .Permalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }} - Dernières recommandations">
 {{ end }}
 
-<!-- TODO: Article tags https://jsonld.com/article/ -->
+<!-- Article tags https://jsonld.com/article/ -->
+{{ if eq .Section "recommandations" }}
+  <meta property="og:type" content="article">
+  <meta property="og:article:published_time" content={{ .Date.Format "2006-01-02T15:04:05Z0700" | safeHTML }}>
+  <meta property="article:published_time" content={{ .Date.Format "2006-01-02T15:04:05Z0700" | safeHTML }}>
+
+  {{ with .Params.auteurs }}
+    <meta property="og:article:author" content="{{ . }}">
+    <meta property="article:author" content="{{ . }}">
+    <meta name="author" content="{{ . }}">
+  {{ end }}
+
+  {{ with.Params.category }}
+    <meta name="news_keywords" content="{{ index . 0 }}">
+    <meta property="article:section" content="{{ index . 0 }}">
+  {{ end }}
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Permalink }}"
+      },
+      "headline": "{{ .Title }}, les recommandations 2020",
+      "description": "{{ .Description }}",
+      "articleBody": "{{ .Plain }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ range first 1 .Params.auteurs }}{{.}}{{end}}"
+      },
+      {{ with .Params.tags }}"keywords": "{{ delimit . ", " }}",{{ end }}
+      "wordCount": "{{ .WordCount }}",
+      "datePublished": "{{ .PublishDate.Format "2006-01-02" }}",
+      "dateCreated": "{{ .Date.Format "2006-01-02" }}",
+      "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "logo": {
+          "@type": "imageObject",
+          "url": "{{ .Site.BaseURL }}favicon.png"
+        }
+      },
+      "url": "{{ .Permalink }}"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Recommandations",
+          "item": "{{ .Site.BaseURL }}/recommandations"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ .Title }}",
+          "item": "{{ .Permalink }}"
+        }
+      ]
+    }
+  </script>
+{{ end }}
 
 <!-- Website tags -->
 <meta property="og:type" content="website">
 <meta name="author" content="{{ .Site.Params.author }}">
 <script type="application/ld+json">
   {
-    "@context": "http://schema.org",
+    "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "{{ .Title }}",
+    "name": "{{ .Site.Title | markdownify }}",
+    "description": "{{ .Site.Params.description | markdownify }}",
+    "author": {
+      "@type": "Person",
+      "name": "{{ .Site.Params.author }}"
+    },
     "url": "{{ .Permalink }}",
     "sameAs": [
       "{{ .Site.Params.github }}"

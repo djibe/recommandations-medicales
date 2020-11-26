@@ -174,16 +174,14 @@ Mise à jour du bilan cardio-vasculaire (glycémie à jeun, bilan lipidique pour
 - Rachis cervico-thoraco-lombaire Face + Profil
 - Bassin de face
 
-{{% table %}}
+{{< table title="Classification radiologique de la sacro-iliite" >}}
 | Stade   | Image   |
 |---------|---------|
 | Stade 0 | Inflammation de l’enthèse non visible en radio |
 | Stade 1 | Érosion/irrégularité du cortex et ostéopénie sous-chondrale <br>de la zone d’enthèse |
 | Stade 2 | Érosion avec ébauche d’apposition périostée |
 | Stade 3 | Enthésophyte (ossification cicatricielle le long de l’enthèse) |
-{{% /table %}}
-
-> Tableau. Classification radiologique de la sacro-iliite
+{{< /table >}}
 
 **NB. La sacro-iliite radiologique ne survient en moyenne que 7 ans après le début des symptômes.**
 

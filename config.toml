@@ -25,7 +25,7 @@ title = "L'Univ médicale"
   dateFormat = "02/01/2006"
   description = "Site communautaire des recommandations en premier recours en médecine générale"
   github = "https://github.com/djibe/recommandations-medicales"
-  GitHubUser = "djibe"
+  githubUser = "djibe"
   SidebarRecentLimit = 5
 
 # todo

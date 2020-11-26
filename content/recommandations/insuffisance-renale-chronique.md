@@ -85,7 +85,7 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 
 ### Évaluer le stade la maladie rénale chronique
 
-{{% table %}}
+{{< table title="Stades de la maladie rénale chronique" >}}
 | Stade | DFG (CDK-EPI) | Définition |
 |:-----:|:-------------:|------------|
 | 1     | &gt; 90       | MRC avec DFG normal ou augmenté |
@@ -94,7 +94,7 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 | 3B    | 30-44         | IRC modérée |
 | 4     | 15-29         | IRC sévère  |
 | 5     | < 15          | IRC terminale |
-{{% /table %}}
+{{< /table >}}
 
 ### Examen clinique
 

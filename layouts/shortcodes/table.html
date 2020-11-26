@@ -1,12 +1,17 @@
 {{ $htmlTable := .Inner | markdownify }}
-{{ $class := .Get 0 }}
 {{ $old := "<table>" }}
-{{ $new := printf "<table class=\"%s\">" $class }}
-{{ $new := printf "<table class=\"table\">" }}
-{{ $htmlTable := replace $htmlTable $old $new }}
-{{ $htmlTable := replaceRE "align=\"([a-z]+)\"" "style=\"text-align: $1\"" $htmlTable}}
+{{ $new := "" }}
+{{ $title := .Get "title" }}
 
-<div class="data-table" itemscope itemtype="https://schema.org/Table">
+{{ if $title }}
+  {{ $new = printf "<table class=\"table\"><caption itemprop=\"about\">Tableau. %s.</caption>" $title }}
+{{ else }}
+  {{ $new = printf "<table class=\"table\" itemscope itemtype=\"https://schema.org/Table\">" }}
+{{ end }}
+{{ $htmlTable := replace $htmlTable $old $new }}
+{{ $htmlTable := replaceRE "align=\"([a-z]+)\"" "style=\"text-align: $1\"" $htmlTable }}
+
+<div class="data-table">
   {{ $htmlTable | safeHTML }}
 </div>
 
