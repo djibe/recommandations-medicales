@@ -8,7 +8,8 @@
     "favicon": "real-favicon generate ./build/faviconDescription.json ./build/faviconData.json ./favicons",
     "html:lint": "htmllint --rc build/.htmllintrc \"public/**/*.html\"",
     "html:lint-vnu": "node build/vnu-jar.js",
-    "server": "hugo server -D -w -d dev --verbose"
+    "hugo:debug": "hugo --minify --debug --logFile ./hugo.log --verboseLog",
+    "server": "hugo server --buildDrafts --watch --destination dev --verbose --cleanDestinationDir"
   },
   "keywords": [
     "hugo",

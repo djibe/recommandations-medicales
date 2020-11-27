@@ -3,4 +3,5 @@ dev/
 node_modules/
 public/
 resources/
+hugo.log
 *.xd
