@@ -116,7 +116,7 @@ Les adhérences balano-préputiales. Si persistent après 5 ans : elles peuvent
 
 ### B. Traitement chirurgical
 
-**Indications**: échecs ou contre-indication au traitement médical, porteurs de malformations urologiques sévères (RVU sévères, valves de l'urètre postérieur, sondage intermittent).  
+**Indications:** échecs ou contre-indication au traitement médical, porteurs de malformations urologiques sévères (RVU sévères, valves de l'urètre postérieur, sondage intermittent).  
 Vérifier l'absence d'anomalie de verge type hypospadias avant le geste.
 
 Méthodes chirugicales:

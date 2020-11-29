@@ -130,8 +130,19 @@
 {{ $searchjs := resources.Get "js/search.js" | minify }}
 <script src="{{ $searchjs.Permalink }}" async></script>
 <script>
-  $(function() {
+  {{ if eq .Section "recommandations" }}
 
+    // Don't follow external sources
+    document.addEventListener("DOMContentLoaded", function(event) { // When DOM is ready
+      let externalSources = document.querySelectorAll('#sources + div a');
+      externalSources.forEach((elem) => {
+        elem.setAttribute('target', '_blank')
+        elem.setAttribute('rel', 'nofollow noopener')
+      })
+    })
+  {{ end }}
+
+  $(function() {
     $('.breadcrumb-item:last-of-type').addClass('active').find('a').each(function() {
       let linkText = $(this).text();
       $(this).before(linkText);
@@ -156,15 +167,8 @@
       }
     });
 
-    // Paragraphs
-    $('.recommandation__content p').addClass('typography-body-1');
+    // $('.recommandation__content .list-group li:not(.list-group-divider)').addClass('list-group-item list-group-item-action');
 
-    // Lists
-    $('.recommandation__content > ul:not(.list-group) > li').addClass('typography-body-1');
-    $('.recommandation__content .list-group').addClass('mb-4').css("width","min(100%, 768px)");
-    $('.recommandation__content .list-group li:not(.list-group-divider)').addClass('list-group-item list-group-item-action');
-
-    $('.recommandation__content .collapse:last-of-type a').prop('target', '_blank').prop('rel',
-      'nofollow noopener');
+    // $('#sources a').prop('target', '_blank').prop('rel', 'nofollow noopener');
   });
 </script>

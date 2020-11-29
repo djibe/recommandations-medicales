@@ -102,7 +102,7 @@ Par le spécialiste. Test non invasif en 1<sup>re</sup> intention.
 {{% collapse "Traitement" %}}
 
 **Objectifs:** réduire la mortalité toutes causes et obtenir une guérison virologique.  
-**Guérison**: ARN du VHC indétectable dans le plasma au moins 12 semaines après l'arrêt du traitement. Obtenue dans 90% des cas avec les AAD.
+**Guérison:** ARN du VHC indétectable dans le plasma au moins 12 semaines après l'arrêt du traitement. Obtenue dans 90% des cas avec les AAD.
 
 ### Mesures générales
 

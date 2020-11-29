@@ -150,8 +150,8 @@ Confirme synovite dans certains cas. Peut être complété par l'IRM.
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-**Objectif**: rémission clinique (absence de signes ou symptômes inflammatoires significatifs) ou plus faible activité possible.  
-**Rémission**: DAS28 < 2,6.
+**Objectif:** rémission clinique (absence de signes ou symptômes inflammatoires significatifs) ou plus faible activité possible.  
+**Rémission:** DAS28 < 2,6.
 
 - Suivi spécialisé par rhumatologue systématique
 - Prévention des complications: cardiovasculaires, respiratoires, infectieuses, lymphomes et fractures ostéoporotiques.

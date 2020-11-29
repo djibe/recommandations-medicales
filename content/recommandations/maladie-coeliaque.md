@@ -40,7 +40,7 @@ Dermatite herpétiforme DH
 {{%/collapse%}}
 {{%collapse "Épidémiologie" %}}
 
-- **Prévalence**: 1% dans le monde en l'absence d'antécédents familiaux.
+- **Prévalence:** 1% dans le monde en l'absence d'antécédents familiaux.
 - 700.000 malades cœliaques en France. Seulement **10 à 20%** seraient diagnostiqués.
 - 70% des patients diagnostiqués après 20 ans.  
 La maladie survient le plus souvent de 6 mois à 2 ans puis de 20 à 40 ans.
@@ -153,7 +153,7 @@ En cas de déficit en IgA: sérologie IgG anti-TG2 et IgG anti-EMA avec EOGD.
 
 ### Biopsie du grêle en fibroscopie sous AL
 
-**Indications**: sérologie positive chez un adulte ou risque clinique élevé.
+**Indications:** sérologie positive chez un adulte ou risque clinique élevé.
 
 Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 4) et du grêle sont systématiques.
 
@@ -267,7 +267,7 @@ graph TB
   personneARisque["Personne à risque"] --> examen
   style personneARisque stroke:#6200ee, stroke-width:1px
     examen --> gastro("Consultation du gastro-entérologue")
-      gastro --"Diagnostic de maladie coœliaque"--> traitement("<strong>Éviction du gluten à vie</strong><br>Surveillance clinico-biologique<br>Bilan diététique<br>Dépistage de l'entourage")
+      gastro --"Diagnostic de maladie coœliaque"--> traitement("<b>Éviction du gluten à vie</b><br>Surveillance clinico-biologique<br>Bilan diététique<br>Dépistage de l'entourage")
       gastro --"Diagnostic infirmé"--> explo("Poursuite du bilan<br>par le spécialiste")
 {{< /mermaid >}}
 

@@ -3,6 +3,7 @@ title = "Zona"
 prefix = "le "
 shortname = "Zona"
 synonyms = []
+photocredits = "Gzzz, CC BY-SA 4.0"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-14T19:48:41+02:00
 publishdate = 2020-11-16
@@ -33,7 +34,7 @@ Zona
 Zona et personne immunodéprimée
 : Intérêt d'éduquer les patients à la reconnaissance des symptômes.  
 Ce sont les principales personens qui développent des fomes compliquée.  
-**Pathologies pourvoyeuses de zona**: Leucémie aiguë, lymphome en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, VIH (CD4 < 350/mm<sup>3</sup> surtout).
+**Pathologies pourvoyeuses de zona:** Leucémie aiguë, lymphome en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, VIH (CD4 < 350/mm<sup>3</sup> surtout).
 
 ### Zona selon l'âge
 
@@ -83,13 +84,13 @@ Surtout patient > 50 ans, fréquentes complications oculaires et douleurs chroni
 
 Vaccin vivant: Zostavax® (Sanofi, 103,49€, remb 30% SS).
 
-**Indication**: Dose unique en SC de 65 à 74 ans (y compris en antécédents de zona. Calendrier vaccinal).  
-**Contre-indication**: grossesse, immunodépression.  
-**Avis de Prescrire®**: Efficacité modeste. Pas d'intéret à une vaccination systématique.
+**Indication:** Dose unique en SC de 65 à 74 ans (y compris en antécédents de zona. Calendrier vaccinal).  
+**Contre-indication:** grossesse, immunodépression.  
+**Avis de Prescrire®:** Efficacité modeste. Pas d'intéret à une vaccination systématique.
 
 ### Information des personnes immunodéprimées
 
-**Pathologies pourvoyeuses de zona**: Leucémie aiguë, lymphome en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, VIH (CD4 < 350/mm<sup>3</sup> surtout).
+**Pathologies pourvoyeuses de zona:** Leucémie aiguë, lymphome en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, VIH (CD4 < 350/mm<sup>3</sup> surtout).
 
 Informer sur la nécessité de consultation immédiate en cas de survenue de brûlures cutanées ou d'éruption cutanée.
 
@@ -115,7 +116,7 @@ Le traitement doit être débuté dans les 48-72 premières heures.
 
 {{%info%}}Valaciclovir 1g x 3/j pendant 7 jours, début immédiat.{{%/info%}}
 
-**Alternatives**: aciclovir 800 mg x 5/j pendant 7 jours  
+**Alternatives:** aciclovir 800 mg x 5/j pendant 7 jours  
 ou famciclovir 500 mg x 3/j pendant 7 jours.
 
 #### Indications au traitement antiviral

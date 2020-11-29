@@ -34,7 +34,7 @@ Traumatisme crânien léger (TCL)
 
 {{%warning%}}
 Indications à l'**hospitalisation en urgence** avec **scanner cérébral** (≥ 1 parmi)  
-OU si **appréciation de gravité par le médecin**:
+OU si **appréciation de gravité par le médecin:**
 
 - Âge < 3 mois
 - AVP  
@@ -110,7 +110,7 @@ Remise des [Consignes de surveillance à donner aux parents](/print/tc-enfant-co
 graph TB
   TC[Traumatisme crânien] --> GCS(Score de Glasgow)
   style TC stroke:#6200ee, stroke-width:1px
-  GCS -- "#lt; 13" --> TCgrave(TC grave) --> SAMU("<strong>SAMU</strong>")
+  GCS -- "#lt; 13" --> TCgrave(TC grave) --> SAMU("<b>SAMU</b>")
   GCS -- "≥ 13" --> TCleger(TC léger) --> gravite(Signes de gravité ?)
     gravite -- Oui --> SAMU
     gravite -- Non --> ambulatoirePossible("Examen sans impression de gravité<br>ET Surveillance à domicile 48h par les parents<br>ET Entourage adapté")

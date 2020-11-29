@@ -2,12 +2,12 @@
 
 ## TODO
 
-- fix meta description
+- fix meta description  
+check SERP: https://www.referencement.com/simulateur-serp-pixels/
 - CSS fix h+h
 - Automate table SC  
 https://gist.github.com/clvs7-gh/77b1f50d51d4e238c8482fc31296d4c4
 - Search in synonyms
-- Schema.org
 - Shortcode téléphone
 - Substituts nicotiniques
 - Sitemap que pour index + reco
@@ -24,9 +24,11 @@ https://gist.github.com/clvs7-gh/77b1f50d51d4e238c8482fc31296d4c4
 https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/
 https://www.webrankinfo.com/dossiers/techniques/quelles-donnees-structurees?utm_source=wri&utm_medium=email&utm_campaign=newsletter-2020-10-13&utm_content=newsletter-actualites  
 https://developers.google.com/search/docs/data-types/breadcrumb#json-ld  
-https://github.com/jeremyjaymes/jeremyjaymes.com/blob/master/themes/j/layouts/partials/seo.html
+https://github.com/jeremyjaymes/jeremyjaymes.com/blob/master/themes/j/layouts/partials/seo.html  
+https://code.luasoftware.com/tutorials/hugo/schema-markup-for-hugo/
 - Related content
 - Collapse en pur javascript
+- Turbolinks
 - Add a page for Societes savantes table
 - Add a page for journal de la santé  
 https://stackoverflow.com/questions/10943544/how-to-parse-an-rss-feed-using-javascript
@@ -45,3 +47,10 @@ https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf
 https://github.com/hongkiat/js-rss-reader  
 https://github.com/sdepold/vanilla-rss
 - https://developers.google.com/search/docs/data-types/faqpage
+- Responsive images  
+https://laurakalbag.com/processing-responsive-images-with-hugo/
+- Photos  
+https://developers.google.com/style/images?hl=en
+- Others  
+https://developers.google.com/style/headings?hl=en  
+https://www.stackbit.com/blog/advanced-hugo-templates/

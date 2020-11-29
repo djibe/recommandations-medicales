@@ -226,7 +226,7 @@ NB. Pas de surveillance du dosage des anticorps ou de l'iodémie/iodurie
 - Si TSH légèrement anormale chez patient bien équilibrée et sans explication pour le déséquilibre : recontrôler la TSH à distance
 - Si patient se plaint de persistance des symptômes malgré une TSH normalisée : Augmenter par petits paliers pour obtenir une TSH à la moitié de la fourchette des valeurs normales
 
-**Effets indésirables en cas de surdosage**: tachycardie/palpitations, agitation, insomnie.  
+**Effets indésirables en cas de surdosage:** tachycardie/palpitations, agitation, insomnie.  
 Surveiller la survenue d’**attaques de paniques** même en concentrations plasmatiques thérapeutiques.
 
 ### Sujets à risque
@@ -250,7 +250,7 @@ Appeler le 15 pour transfert médicalisé en réanimation.
 ### Hypothyroïdie secondaire
 
 Une origine centrale est très rare et cliniquement moins sévère que lors de cause périphérique.  
-**Syndrome d'insuffisance thyréotrope**: Asthénie, céphalées, troubles de la fonction sexuelle.  
+**Syndrome d'insuffisance thyréotrope:** Asthénie, céphalées, troubles de la fonction sexuelle.  
 Absence d'infiltration myxœdémateuse.  
 Autres axes hormonaux perturbés.  
 Diagnostic confirmé si TSH normale (85% des cas)/élevée (10%)/basse ET T4L basse  
@@ -269,9 +269,9 @@ graph TB
     TSH --"T4L basse"--> hT("Hypothyroïdie patente")
       hT --> bilan("Anticorps anti-TPO +/- dépistage cœliaque<br>Échographie cervicale<br>ECG")
         bilan --> traitement("Traitement par lévothyroxine")
-          traitement --> adulte("<strong>Adulte</strong><br>Débuter à 1,7 µg/kg/j")
-          traitement --> enfant("<strong>Enfant</strong><br>Débuter à 2 µg/kg/j")
-          traitement --"Fragilité"--> fragile("<strong>Sujet âgé</strong><br>Débuter à 1,7 µg/kg/j<br><br><strong>Coronarien</strong><br>Débuter à 12,5 µg/j")
+          traitement --> adulte("<b>Adulte</b><br>Débuter à 1,7 µg/kg/j")
+          traitement --> enfant("<b>Enfant</b><br>Débuter à 2 µg/kg/j")
+          traitement --"Fragilité"--> fragile("<b>Sujet âgé</b><br>Débuter à 1,7 µg/kg/j<br><br><b>Coronarien</b><br>Débuter à 12,5 µg/j")
 {{< /mermaid >}}
 
 {{% /collapse %}}

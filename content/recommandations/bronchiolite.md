@@ -9,7 +9,7 @@ publishdate = 2020-11-16
 lastmod = 2020-11-18
 categories = ["pediatrie", "pneumologie"]
 guidelineyears = "2000"
-sources = []
+sources = ["HAS", "SFP"]
 tags = ["bronchiolite"]
 anglais = ["Bronchiolitis"]
 sctid = "4120002"
@@ -206,9 +206,9 @@ Fréquence et nombre total de séances dépendent de l'évolution.
 **Selon la Revue Prescrire: pas de place pour la kiné respi sauf mauvaise compréhension des parents pour assurer une surveillance.**
 
 {{% /collapse %}}
-{{%collapse "Permanence des soins" %}}
+{{%collapse "Bronchiolite et Permanence des soins" %}}
 
-### En Île-de-France
+### Réseau Bronchiolite en Île-de-France
 
 - **Médecins** 7j/7 de 9h à 23h: 0820 800 880.
 - **Kiné** disponibles samedi, dimanche et férié de 9h à 18h: 0820 820 603.

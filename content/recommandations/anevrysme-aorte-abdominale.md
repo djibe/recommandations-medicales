@@ -44,7 +44,7 @@ Pour l’histoire: Einstein et de Gaulle en sont morts.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-**Fissuration**: douleur brutale avec irradiation (dos-abdomen, dos-aine, dos-jambe) ou des vomissements, résistante aux antalgiques.
+**Fissuration:** douleur brutale avec irradiation (dos-abdomen, dos-aine, dos-jambe) ou des vomissements, résistante aux antalgiques.
 
 {{%/collapse%}}
 {{%collapse "Dépistage" %}}

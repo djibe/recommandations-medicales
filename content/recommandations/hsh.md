@@ -67,7 +67,7 @@ Adulte:
 
 #### Vaccination hépatite B
 
-**Indication**: "personnes ayant des relations sexuelles avec des partenaires multiples, exposées aux IST ou ayant une IST en cours ou récente".
+**Indication:** "personnes ayant des relations sexuelles avec des partenaires multiples, exposées aux IST ou ayant une IST en cours ou récente".
 
 #### Vaccination papillomavirus
 

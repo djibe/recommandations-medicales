@@ -144,7 +144,7 @@ Doit être réalisée après plusieurs semaine de rétinoïdes topiques.
 #### Forme localisée
 
 En première intention: **Peroxyde de benzoyle 5%** en 1 application par jour.  
-**Effets indésirables**: photosensibilité, allergie, décoloration des phanères et vêtements.
+**Effets indésirables:** photosensibilité, allergie, décoloration des phanères et vêtements.
 
 {{% info %}}
 Curaspot® 5% gel (ou Cutacnyl, Eclaran, Effacné, Pannogel, Panoxyl, Papclair).  

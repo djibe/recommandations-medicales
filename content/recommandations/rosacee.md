@@ -56,7 +56,7 @@ Applications de dermocorticoïdes, atrophie, hyperkératose, photosensibilité, 
 
 Bouffées vasomotrices paroxystiques ou **flushs**.  
 Rougeur paroxystique du visage et du cou avec sensation de chaleur durant quelques minutes.  
-**Facteurs déclenchants**: changement de température, ingestion de boisson chaude, alcool, épices.  
+**Facteurs déclenchants:** changement de température, ingestion de boisson chaude, alcool, épices.  
 Aucun signe systémique et récupération spontanée totale en quelques minutes.
 
 Rosacée érythémato-télangiectasique permanente.  
@@ -96,7 +96,7 @@ Localisations séborrhées, fond érythémateux parsemé de squames grasses.
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-**Objectifs**: réduire les symptômes, préserver le capital esthétique et prévenir les complications.
+**Objectifs:** réduire les symptômes, préserver le capital esthétique et prévenir les complications.
 
 {{% warning %}}Contre-indication formelle aux dermocorticoïdes dans la rosacée.{{% /warning %}}
 
@@ -118,13 +118,13 @@ Selon les Annales de Dermato, intérêt de rechercher systématiquement:
 
 {{% info %}}1<sup>re</sup> intention: métronidazole gel 0,75% (Rozex®, gén) x 2/j pendant 3 mois{{% /info %}}
 
-**Effet indésirable**: xérose cutanée.
+**Effet indésirable:** xérose cutanée.
 
 #### Traitement de 2<sup>e</sup> intention
 
 acide azélaïque gel 15 % (Finacéa®) x 2/j pendant 3 mois  
-**Contre-indication**: grossesse.  
-**Effets indésirables**: irritation locale, érythème ,desquamation, xérose, sensation de brûlure, prurit, photosensibilité, hypopigmentation de peau mate.
+**Contre-indication:** grossesse.  
+**Effets indésirables:** irritation locale, érythème ,desquamation, xérose, sensation de brûlure, prurit, photosensibilité, hypopigmentation de peau mate.
 
 ### Forme diffuse
 
@@ -137,12 +137,12 @@ Atteinte papulo-pustuleuse marquée et oculaire.
 
 **NB.** Prescrire® observe que les études évaluent une efficacité comparable par doxycycline **50mg** x 1/j pour avec une tolérance bien meilleure.
 
-**Effets indésirables**: troubles digestifs, réactions cutanées, vaginites, HTIC, photosensibilité, atteinte hépatique.  
-**Contre-indications**: grossesse/allaitement.
+**Effets indésirables:** troubles digestifs, réactions cutanées, vaginites, HTIC, photosensibilité, atteinte hépatique.  
+**Contre-indications:** grossesse/allaitement.
 
 **2<sup>e</sup> intention**  
 érythromycine per os (Erythrocine®). Active sur les lésions papulo-pustuleuses.  
-**Effets indésirables**: diarrhées, allongement QT, atteinte auditive réversible.
+**Effets indésirables:** diarrhées, allongement QT, atteinte auditive réversible.
 
 #### 2. Traitement d'entretien
 
@@ -172,7 +172,7 @@ Lavage quotidien, expression du contenu des glandes de Mebomius, gels palpébrau
 graph TB
   rosacee["Rosacée"] --"Forme mineure"--> mineure("métronidazole gel 0,75% x 2/j 3 mois")
   style rosacee stroke:#6200ee, stroke-width:1px
-  rosacee --"Forme diffuse"--> diffuse("<strong>Traitement d'attaque</strong><br>doxycycline 50mg/j 3 mois") --> entretien("<strong>Traitement d'entretien</strong><br>Métronidazole gel 0,75 % x 1-2/j") -.-> autres("Résistance aux traitements<br>Rhinophyma<br>Télangiectasies") --> dermato("Avis dermatologique")
+  rosacee --"Forme diffuse"--> diffuse("<b>Traitement d'attaque</b><br>doxycycline 50mg/j 3 mois") --> entretien("<b>Traitement d'entretien</b><br>Métronidazole gel 0,75 % x 1-2/j") -.-> autres("Résistance aux traitements<br>Rhinophyma<br>Télangiectasies") --> dermato("Avis dermatologique")
   rosacee --"Diagnostic différentiel"--> differentiel("Lupus<br>Acné<br>Dermatite séborrhéique")
 
 {{< /mermaid >}}

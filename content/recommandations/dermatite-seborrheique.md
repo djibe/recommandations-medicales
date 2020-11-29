@@ -60,7 +60,7 @@ Le diagnostic est clinique.
 Zones atteintes:
 
 - **Visage**  
-**Plaques érythémateuses recouvertes de petites squames grasses** des **zones séborrhéiques**: sillons nasogéniens, sourcils, gabelle (entre les sourcils), lisière antérieure du cuir chevelu.  
+**Plaques érythémateuses recouvertes de petites squames grasses** des **zones séborrhéiques:** sillons nasogéniens, sourcils, gabelle (entre les sourcils), lisière antérieure du cuir chevelu.  
 Forme extensive: menton et paupières (blépharite).  
 - **Cuir chevelu**  
 L'atteinte peut être isolée.  

@@ -4,7 +4,7 @@
 {{ $title := .Get "title" }}
 
 {{ if $title }}
-  {{ $new = printf "<table class=\"table\"><caption itemprop=\"about\">Tableau. %s.</caption>" $title }}
+  {{ $new = printf "<table class=\"table\"><caption itemprop=\"about\"><b>Tableau.</b> %s.</caption>" $title }}
 {{ else }}
   {{ $new = printf "<table class=\"table\" itemscope itemtype=\"https://schema.org/Table\">" }}
 {{ end }}

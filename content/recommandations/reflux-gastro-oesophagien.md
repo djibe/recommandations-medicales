@@ -140,7 +140,7 @@ Réalisé sous IPP double dose.
 {{%/collapse%}}
 {{%collapse "Traitement" %}}
 
-**Objectifs**: soulager les symptômes, cicatrisation des lésions et prévention des récidives.
+**Objectifs:** soulager les symptômes, cicatrisation des lésions et prévention des récidives.
 
 Débuter par: Mesures hygiéno-diététiques > Anti-acides > IPP
 

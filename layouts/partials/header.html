@@ -1,4 +1,4 @@
-<head itemscope itemtype="{{ .Site.BaseURL }}">
+<head itemscope itemtype="http://schema.org/WebSite">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -6,7 +6,6 @@
 
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
   <link rel="preconnect" href="https://cdn.jsdelivr.net/" crossorigin>
-  <link rel="canonical" href="{{ .Permalink }}">
 
   <!-- CSS -->
   <link rel="stylesheet" {{ printf "href=%q" .Site.Params.cdn.md_font | safeHTMLAttr }}>

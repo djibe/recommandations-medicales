@@ -25,17 +25,8 @@ main {
   }
 }
 
-caption {
-  color: #545454;
-  font-size: 0.875rem;
-  padding: calc(1rem - 1px) 1rem;
-  letter-spacing: .007143em;
-  line-height: 1.375rem;
-  border-top: 1px solid rgba(0,0,0,.12);
-}
-
-.data-table > table > thead > tr > th {
-  border-top: 0;
+.data-table > .table > thead > th {
+  // border-top: 0;
 }
 
 // List pages
@@ -61,7 +52,7 @@ caption {
 }
 
 dt:not(:first-child) {
-  margin-top: 32px;
+  // margin-top: 32px;
 }
 
 h1 {
@@ -116,6 +107,14 @@ h4 {
   width: Min(100%, 768px); // Uppercase to prevent SASS-CSS conflict
 }
 
+.typography-body-1 {
+  color: #424242;
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: normal;
+  line-height: 1.5rem;
+}
+
 .recommandation__content {
   margin-bottom: 5rem;
 
@@ -139,10 +138,14 @@ h4 {
     }
   }
 
+  p {
+    @extend .typography-body-1;
+  }
+
   dt,
   dl,
   p,
-  ul:not(.list-group) {
+  ul {
     width: Min(100%, 768px);
   }
 
@@ -150,6 +153,41 @@ h4 {
     list-style: disc outside;
     margin-bottom: 1rem;
     padding-left: 1.25rem;
+  }
+
+  > ul:not(.list-group) > li {
+    @extend .typography-body-1;
+  }
+
+  .list-group {
+    margin-bottom: 1.5rem;
+
+    li:not(.list-group-divider) {
+        align-items: center;
+        // background-color: #ffffff;
+        border: 0;
+        color: #212121;
+        // display: block;
+        flex-shrink: 0;
+        // font-size: 1rem;
+        letter-spacing: 0.009375em;
+        line-height: 1.5;
+        min-height: 3rem;
+        padding: 0.75rem 1rem;
+        position: relative;
+        transition: background-color 15ms linear;
+      
+      &:hover, &:focus, &:active {
+        background-color: rgba(0, 0, 0, 0.04);
+        cursor: pointer;
+        text-decoration: none;
+      }
+
+      &:focus {
+        background-color: rgba(0, 0, 0, 0.12);
+        outline: 0;
+      }
+    }
   }
 
   .alert-summary li,

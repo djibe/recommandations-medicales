@@ -96,7 +96,7 @@ Bon de prise en charge n°850 sur Ameli pro.
 - Incubation de 2 jours. Contagieux jusqu'à 5 jours après l'apparition des signes.
 - Tableau de syndrome grippal fébrile  
 Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
-- **Grossesse**: 3<sup>e</sup> trimestre ++, mortalité élevée chez obèse et asthmatique
+- **Grossesse:** 3<sup>e</sup> trimestre ++, mortalité élevée chez obèse et asthmatique
 - Particularités du sujet âgé: dyspnée, confusion mentale, déshydratation, troubles digestifs
 - Enfant: somnolence, troubles digestifs
 - Immunodéprimés (greffé, SIDA): mortalité identique aux +65 ans.
