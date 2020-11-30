@@ -2,6 +2,10 @@
 
 ## TODO
 
+- Couleur
+- Bandeau lat
+- Police
+- Photos
 - check SERP: https://www.referencement.com/simulateur-serp-pixels/
 - CSS fix h+h
 - Automate table SC  

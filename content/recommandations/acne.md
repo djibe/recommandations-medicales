@@ -14,6 +14,7 @@ tags = ["acne", "retinoide"]
 anglais = ["Acne"]
 sctid = "11381005"
 draft = false
+todo= "TODO: arbre"
 +++
 
 {{%article-summary%}}

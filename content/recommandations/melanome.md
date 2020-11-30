@@ -13,7 +13,7 @@ sources = ["HAS", "SFDermato"]
 tags = ["naevus"]
 anglais = ["Malignant melanoma"]
 sctid = "2092003"
-draft = true
+draft = false
 +++
 
 {{%article-summary%}}
@@ -51,15 +51,19 @@ Il n'est donné que pour les mélanomes envahissant le derme.
 Le type histologique ne modifie pas le pronostic à indice de Breslow identique.  
 La lésion primitive n'est parfois jamais retrouvé au stade métastatique.
 
+### Facteurs pronostics anatomo-pathologiques du mélanome
+
+Indice de Breslow, de Clark, ulcération, index mitotique, emboles vasculaires.
+
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
 
-- Incidence: 15 400 nouveaux cas en 2017 (47% de femmes).  
-En augmentation de 10 %/an depuis 50 ans.
+- **Incidence:** 15.400 nouveaux cas en 2017  
+{{%class%}}47% de femmes. Incidence en augmentation de 10 %/an depuis 50 ans.{{%/class%}}
 - Âge moyen au diagnostic: 56 ans.
-- 1783 morts en 2017 (58% d’hommes)  
-Soit 1,2 % des décès par cancer.
-- **Survie à 5 ans:** 88 % en stade localisé versus 18 % si métastatique (TODO: mettre à jour).
+- Décès: 1783 en 2017  
+{{%class%}}58% d’hommes. 1,2% des décès par cancer.{{%/class%}}
+- **Survie à 5 ans:** 88% en stade localisé versus 18 % si métastatique (TODO: mettre à jour).
 - 80 % surviennent de novo sur peau saine et 20 % sur nævus pré-existant.
 - 10 % des mélanomes sont familiaux (≥ 2 personnes atteintes dans une famille).
 - Très rares formes muqueuses ou rétiniennes.
@@ -81,13 +85,13 @@ Cheveux roux ou blonds, yeux clairs.
   - Nævus congénital géant
   - Nnævus atypique (> 5mm, irrégulier)
   - Sensibilité au soleil (coups de soleil fréquents, bronze peu)
-  - Photo-exposition solaire/UV/latitude  
-  Brûlures dans l'enfance ++
-  - Antécédents familiaux de cancer cutané (mélanome sur nævi dysplasiques +++)
-  - Antécédent personnel de mélanome  
+- Photo-exposition solaire/UV/latitude  
+Brûlures dans l'enfance ++
+- Antécédents familiaux de cancer cutané (mélanome sur nævi dysplasiques +++)
+- Antécédent personnel de mélanome  
   Risque de 2<sup>e</sup> de 5 à 8 %
-  - Immunodépression
-  - Exposition professionnelle  
+- Immunodépression
+- Exposition professionnelle  
 Travail en extérieur, rayonnements ionisants, soudure de métaux, sidérurgie, pesticides.
 
 ### Phototypes
@@ -153,24 +157,97 @@ Recherche mélanome, nævus atypique, nodules sous-cutanés.
 - Palpation de toutes les aires ganglionnaires
 
 {{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
+
+Aucun examen complémentaire en première intention.  
+Ils relèvent du bilan d'extension après réunion de concertation pluridisciplinaire.
+
+### En savoir plus: examens du mélanome
+
+Toute suspicion de mélanome doit bénéficier d'une exérèse macroscopique complète (sauf mélanome géant) avec analyse anatomo-pathologique.  
+L'exérèse doit être réalisée avec une marge de 1 à 3 mm de peau saine et doit inclure toutes les couches de peau et un peu de graisse sous-cutanée.  
+La recherche de *mutation BRAF V600* est systématique.
+
+Le dossier doit être pésenté en RCP.
+
+#### Reprise chirurgicale
+
+Dépend du classement pT de la tumeur.
+
+#### Imagerie
+
+- Échographie des aires ganglionnaires locorégionales.  
+Indications: mélanome stade II ou III.
+- Scanner cérébro-TAP ± TEP-FDG  
+Indications: envahissement ganglionnaire ou Breslow > 4 mm avec ulcération.
+
+#### Ganglion sentinelle
+
+Indication: Breslow > 1 mm OU ulcéré ET absence d'adénopathie suspecte.
+
+#### LDH
+
+Facteur pronostic en cas de métastases
+Aucun dosage de marqueurs tumoraux n'est recommandé.
+
+#### Évaluation gériatrique
+
+systématique pour les patients de plus de 75 ans avant la RCP
+
+{{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-- Photoprotection
+- Information sur les risques liés à l'exposition solaire
+- Photoprotection cutanée
 - Limiter les expositions solaires
 - Personnes à risque
   - Auto-dépistage tous les 3 mois
   - Surveillance annuelle par le dermatologue
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du mélanome" %}}
 
 {{%warning%}} Dès suspicion, adresser en semi-urgence au dermatologue pour une exérèse complète.{{%/warning%}}
 
 **NB**. Jamais de biopsie de lésion pigmentée, l'exérèse complète doit être systématique.
 
+Le traitement est décidé en réunion de concertation plutidisciplinaire.
+
+### En savoir plus: traitements du mélanome
+
+- Immunomodulateurs  
+Interféron-alpha 2a et 2b (TODO: encore ?).
+- Immunothérapies
+  - anti-CTLA-4: ipilimumab (Yervoy®)
+  - anti-PD-1: nivolumab (Opdivo®), pembrolizumab (Keytruda®)
+- Thérapies ciblées
+  - anti-BRAF: vémurafénib (Zelboraf®), dabrafénib (Tafinlar®)
+  - anti-MEK: cobimetinib (Cotellic®), trametinib (Mekinist®)
+- Chimiothérapies
+  - dacarbazine
+  - fotémustine
+- Radiothérapie
+- Curage ganglionnaire
+
+{{% /collapse %}}
+{{%collapse "Surveillance du patient" %}}
+
+Le risque d'apparition d'un 2<sup>e</sup> cancer cutané est supérieur à la population générale.
+
+- Mesures de prévention (voir [*Prévention*]({{< ref "#prévention" >}}))
+- Photoprotection systématique personnelle + familiale
+- Dépistage cutané des apparentés du 1<sup>er</sup> degré
+- Examen clinique complet (généraliste + dermatologue)
+  - Rythme selon recommandations en vigueur.
+  - Rapproché pendant 5 ans, puis annuel à vie.
+  - Inspection et palpation des tégument, cicatrice d'exérèse, muqueuses, aires ganglionnaires.
+- Examens complémentaires selon recommandations
+  - Échographie
+  - TEP-scan
+
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-
+- [INCa. Traitements du mélanome avancé. Novembre 2017.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Traitements-du-melanome-avance)
 
 {{% /collapse %}}

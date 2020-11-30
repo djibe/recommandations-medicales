@@ -25,6 +25,14 @@ main {
   }
 }
 
+.external-link::after {
+  content: "open_in_new";
+  font: normal normal normal 18px/1 'Material Icons';
+  font-family: var(--font-family-material-icons);
+  margin-left: 4px;
+  vertical-align: text-bottom;
+}
+
 .data-table > .table > thead > th {
   // border-top: 0;
 }
@@ -49,10 +57,6 @@ main {
 
 .taxonomyList::first-letter {
   text-transform: uppercase;
-}
-
-dt:not(:first-child) {
-  // margin-top: 32px;
 }
 
 h1 {

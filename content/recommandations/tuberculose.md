@@ -63,6 +63,13 @@ Pour les professionnels de santé : évaluation de l'exposition au cas par cas p
 *Légende. BH (ASAT, ALAT), Bio (NFS-plaq, créatininémie), Opht (Examen ophtalmologique).*
 
 {{%/collapse%}}
+{{%collapse "Cas contacts de tuberculose" "show" %}}
+
+Pour l'**enquête autout d'un cas de tuberculose**, il faut appeler le *Centre de Lutte AntiTuberculeuse* (CLAT) départemental.
+
+{{< iframe url="https://splf.fr/clat/" >}}
+
+{{%/collapse%}}
 {{%collapse "Informations du patient" %}}
 
 [HAS. ALD n°29 - Guide patient: Comprendre la tuberculose](https://www.has-sante.fr/jcms/c_609444/fr/ald-n-29-guide-patient-comprendre-la-tuberculose)

@@ -3,8 +3,7 @@
     class="border-0 w-100"
     src="{{ .Get "url" }}"
     allowfullscreen
-    {{ with .Get "width" }} width="{{ . }}"{{ end }}
-    {{ with .Get "height" }} height="{{ . }}"{{ else }} height="600px" {{ end }}
-    laoding="lazy"
+    height="600"
+    loading="lazy"
   ></iframe>
 </div>

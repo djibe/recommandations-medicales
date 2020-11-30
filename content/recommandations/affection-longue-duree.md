@@ -14,6 +14,7 @@ tags = ["ALD"]
 anglais = ["Chronic disease"]
 sctid = "27624003"
 draft = false
+todo= "TODO: Affections psychiatriques de longue durée"
 +++
 
 {{%article-summary%}}
@@ -69,7 +70,7 @@ Liste établie par décret [révision 2011-77](https://www.ameli.fr/sites/defaul
   {{< list-item-counter "Paraplégie" >}}
   {{< list-item-counter "Vascularite, lupus érythémateux systémique, sclérodermie systémiques" >}}
   {{< list-item-counter "Polyarthrite rhumatoïde évolutive" >}}
-  {{< list-item-counter "Affections psychiatriques de longue durée TODO" >}}
+  {{< list-item-counter "Affections psychiatriques de longue durée" >}}
   {{< list-item-counter "Rectocolite hémorragique et Maladie de Crohn évolutives" >}}
   {{< list-item-counter "Sclérose en plaques" >}}
   {{< list-item-counter "Scoliose idiopathique structurale évolutive (angle ≥ 25°) jusqu'à maturation rachidienne" >}}
