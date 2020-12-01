@@ -6,8 +6,8 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-03T15:14:20+02:00
 publishdate = 2020-06-03
-lastmod = 2020-06-03
-categories = ["infectiologie"]
+lastmod = 2020-12-01
+categories = ["infectiologie", "pneumologie"]
 guidelineyears = "2000"
 sources = ["HAS"]
 tags = ["BCG", "tuberculose"]
@@ -63,7 +63,7 @@ Pour les professionnels de santé : évaluation de l'exposition au cas par cas p
 *Légende. BH (ASAT, ALAT), Bio (NFS-plaq, créatininémie), Opht (Examen ophtalmologique).*
 
 {{%/collapse%}}
-{{%collapse "Cas contacts de tuberculose" "show" %}}
+{{%collapse "Cas contacts de tuberculose" %}}
 
 Pour l'**enquête autout d'un cas de tuberculose**, il faut appeler le *Centre de Lutte AntiTuberculeuse* (CLAT) départemental.
 

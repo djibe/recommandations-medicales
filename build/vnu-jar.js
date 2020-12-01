@@ -52,7 +52,7 @@ childProcess.exec('java -version', (error, stdout, stderr) => {
     '--asciiquotes',
     '--skip-non-html',
     // Ignore the language code warnings
-    '--no-langdetect',
+    // '--no-langdetect',
     '--Werror',
     `--filterpattern "${ignores}"`,
     'public/'

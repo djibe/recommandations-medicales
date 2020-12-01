@@ -4,9 +4,9 @@
 {{ $title := .Get "title" }}
 
 {{ if $title }}
-  {{ $new = printf "<table class=\"table\"><caption itemprop=\"about\"><b>Tableau.</b> %s.</caption>" $title }}
+  {{ $new = printf "<table class=\"table\" itemscope itemtype=\"https://schema.org/Table\"><caption itemprop=\"about\"><b>Tableau.</b> %s.</caption>" $title }}
 {{ else }}
-  {{ $new = printf "<table class=\"table\" itemscope itemtype=\"https://schema.org/Table\">" }}
+  {{ $new = printf "<table class=\"table\">" }}
 {{ end }}
 {{ $htmlTable := replace $htmlTable $old $new }}
 {{ $htmlTable := replaceRE "align=\"([a-z]+)\"" "style=\"text-align: $1\"" $htmlTable }}

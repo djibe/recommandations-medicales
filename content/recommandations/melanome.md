@@ -6,9 +6,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-29T14:54:41+02:00
 publishdate = 2020-11-30
-lastmod = 2020-11-30
+lastmod = 2020-12-01
 categories = ["cancerologie", "dermatologie"]
-guidelineyears = "2000"
+guidelineyears = "2017"
 sources = ["HAS", "SFDermato"]
 tags = ["naevus"]
 anglais = ["Malignant melanoma"]
@@ -61,13 +61,13 @@ Indice de Breslow, de Clark, ulcération, index mitotique, emboles vasculaires.
 - **Incidence:** 15.400 nouveaux cas en 2017  
 {{%class%}}47% de femmes. Incidence en augmentation de 10 %/an depuis 50 ans.{{%/class%}}
 - Âge moyen au diagnostic: 56 ans.
-- Décès: 1783 en 2017  
+- Décès annuels: 1783 en 2017  
 {{%class%}}58% d’hommes. 1,2% des décès par cancer.{{%/class%}}
 - **Survie à 5 ans:** 88% en stade localisé versus 18 % si métastatique (TODO: mettre à jour).
 - 80 % surviennent de novo sur peau saine et 20 % sur nævus pré-existant.
 - 10 % des mélanomes sont familiaux (≥ 2 personnes atteintes dans une famille).
 - Très rares formes muqueuses ou rétiniennes.
-- 80 % sont détectés par le patient (FMC EREVO)  
+- 80 % sont détectés par le patient (*FMC EREVO*)  
 Attention à toute lésion présentée par le patient. 
 
 {{% /collapse %}}
@@ -112,11 +112,11 @@ Travail en extérieur, rayonnements ionisants, soudure de métaux, sidérurgie, 
 
 - Nævus atypique
 - Kératose séborrhéique  
-Surface mate, bords nets, petits grains blanchâtres.
+{{%class "text-black-secondary"%}}Surface mate, bords nets, petits grains blanchâtres.{{%/class%}}
 - Carcinome basocellulaire pigmenté  
-Aspect translucide perlé.
+{{%class "text-black-secondary"%}}Aspect translucide perlé.{{%/class%}}
 - Histiocytofibrome pigmenté  
-Palpation caractéristique: pastille indurée.
+{{%class "text-black-secondary"%}}Palpation caractéristique: pastille indurée.{{%/class%}}
 - Angiome thrombosé
 
 {{% /collapse %}}
@@ -138,8 +138,8 @@ Palpation caractéristique: pastille indurée.
 
 ### Examen clinique
 
-{{ %warning% }}
-Mélanome est lésion pigmentée avec caractères ABCDE suivants:
+{{%warning%}}
+Un mélanome est lésion pigmentée avec caractères ABCDE suivants:
 
 - Asymétrique
 - Bordure irrégulière, encochée, polycyclique
@@ -148,7 +148,7 @@ Mélanome est lésion pigmentée avec caractères ABCDE suivants:
 - **Évolution** en aspect, taille, couleur, épaisseur  
 Critère majeur.
 
-{{ %/warning% }}
+{{%/warning%}}
 
 - Une lésion mélanocytaire est considérée comme **suspecte si ≥ 2 critères ABCDE sont validés**.
 - Un **nævus est considéré comme suspect s'il est différent des autres**.
@@ -192,7 +192,7 @@ Aucun dosage de marqueurs tumoraux n'est recommandé.
 
 #### Évaluation gériatrique
 
-systématique pour les patients de plus de 75 ans avant la RCP
+Systématique pour les patients de plus de 75 ans avant la RCP.
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
