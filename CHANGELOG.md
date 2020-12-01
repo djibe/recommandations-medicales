@@ -5,7 +5,9 @@
 - Couleur
 - Bandeau lat
 - Police
-- Substituts nicotiniques
+- Fix Substituts nicotiniques
+- Partager
+- Doctissimo
 - Photos
 - check SERP: https://www.referencement.com/simulateur-serp-pixels/
 - CSS fix h+h
