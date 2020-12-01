@@ -5,6 +5,7 @@
 - Couleur
 - Bandeau lat
 - Police
+- Substituts nicotiniques
 - Photos
 - check SERP: https://www.referencement.com/simulateur-serp-pixels/
 - CSS fix h+h
@@ -12,7 +13,6 @@
 https://gist.github.com/clvs7-gh/77b1f50d51d4e238c8482fc31296d4c4
 - Search in synonyms
 - Shortcode téléphone
-- Substituts nicotiniques
 - Sitemap que pour index + reco
 - PurgeCSS
 - Replace guidelineyears
