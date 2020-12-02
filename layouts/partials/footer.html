@@ -49,16 +49,16 @@
 </div>
 
 <script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }}
-  crossorigin="anonymous"></script>
+  crossorigin=""></script>
 <script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }}
-  crossorigin="anonymous" defer></script>
+  crossorigin="" defer></script>
 <script src="{{ .Site.Params.cdn.material_js}}" async></script>
 <!--<script src="https://cdn.jsdelivr.net/npm/lunr@2.3.8/lunr.min.js"
-  integrity="sha256-34Si1Y6llMBKM3G0jQILVeoQKEwuxjbk4zGWXXMT4ps=" crossorigin="anonymous" defer></script>-->
-<script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" async></script>
+  integrity="sha256-34Si1Y6llMBKM3G0jQILVeoQKEwuxjbk4zGWXXMT4ps=" crossorigin="" defer></script>-->
+<script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" crossorigin="" async></script>
 
-{{ if .IsPage }}
-<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+{{ if eq .Section "recommandations" }}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.8.3/mermaid.min.js" crossorigin=""></script>
 <script>
   // https://mermaid-js.github.io/mermaid/#/Setup?id=fontfamily
   const MermaidConfig = {
@@ -84,9 +84,9 @@
 {{end}}
 {{- with .Params.datatable }}
 
-<script src="https://cdn.jsdelivr.net/npm/pdfmake@0.1.68/build/pdfmake.min.js" integrity="sha256-Xf58sgO5ClVXPyDzPH+NtjN52HMC0YXBJ3rp8sWnyUk=" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/pdfmake@0.1.68/build/vfs_fonts.js" integrity="sha256-vEmrkqA2KrdjNo0/IWMNelI6jHuWAOkIJxGf88r4iic=" crossorigin="anonymous"></script>
-<script src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.10.22/b-1.6.5/b-colvis-1.6.5/b-flash-1.6.5/b-html5-1.6.5/b-print-1.6.5/cr-1.5.2/fc-3.3.1/r-2.2.6/rr-1.2.7/sl-1.3.1/datatables.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/pdfmake@0.1.68/build/pdfmake.min.js" integrity="sha256-Xf58sgO5ClVXPyDzPH+NtjN52HMC0YXBJ3rp8sWnyUk=" crossorigin=""></script>
+<script src="https://cdn.jsdelivr.net/npm/pdfmake@0.1.68/build/vfs_fonts.js" integrity="sha256-vEmrkqA2KrdjNo0/IWMNelI6jHuWAOkIJxGf88r4iic=" crossorigin=""></script>
+<script src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.10.22/b-1.6.5/b-colvis-1.6.5/b-flash-1.6.5/b-html5-1.6.5/b-print-1.6.5/cr-1.5.2/fc-3.3.1/r-2.2.6/rr-1.2.7/sl-1.3.1/datatables.min.js" crossorigin=""></script>
 
 {{- end -}}
 
@@ -160,7 +160,8 @@
     $('[data-toggle="popover"]').popover({
       html: true
     });
-    $('.popover-hover').popover({
+
+    /* $('.popover-hover').popover({
       html: true,
       trigger: 'hover',
       placement: 'bottom',
@@ -168,10 +169,6 @@
       delay: {
         show: 500
       }
-    });
-
-    // $('.recommandation__content .list-group li:not(.list-group-divider)').addClass('list-group-item list-group-item-action');
-
-    // $('#sources a').prop('target', '_blank').prop('rel', 'nofollow noopener');
+    }); */
   });
 </script>

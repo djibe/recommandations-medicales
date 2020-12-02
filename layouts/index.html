@@ -24,7 +24,7 @@
           </p>
           <p class="card-text">{{ replace .Summary "Définition" "" | safeHTML | truncate 300 }}</p><!-- TODO: multiple replace -->
         </div>
-        <div class="card-actions mt-0 pb-2">
+        <div class="card-actions p-2 mt-0 align-items-end">
           {{ partial "widgets/guidelineyear-render.html" . }}{{ partial "widgets/tags-render.html" . }}
         </div>
       </div>

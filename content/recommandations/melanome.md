@@ -63,11 +63,11 @@ Indice de Breslow, de Clark, ulcération, index mitotique, emboles vasculaires.
 - Âge moyen au diagnostic: 56 ans.
 - Décès annuels: 1783 en 2017  
 {{%class%}}58% d’hommes. 1,2% des décès par cancer.{{%/class%}}
-- **Survie à 5 ans:** 88% en stade localisé versus 18 % si métastatique (TODO: mettre à jour).
-- 80 % surviennent de novo sur peau saine et 20 % sur nævus pré-existant.
-- 10 % des mélanomes sont familiaux (≥ 2 personnes atteintes dans une famille).
+- **Survie à 5 ans:** 88% en stade localisé versus 18% si métastatique (TODO: mettre à jour).
+- 80% surviennent de novo sur peau saine et 20% sur nævus pré-existant.
+- 10% des mélanomes sont familiaux (≥ 2 personnes atteintes dans une famille).
 - Très rares formes muqueuses ou rétiniennes.
-- 80 % sont détectés par le patient (*FMC EREVO*)  
+- 80% sont détectés par le patient (*FMC EREVO*)  
 Attention à toute lésion présentée par le patient. 
 
 {{% /collapse %}}
@@ -89,14 +89,14 @@ Cheveux roux ou blonds, yeux clairs.
 Brûlures dans l'enfance ++
 - Antécédents familiaux de cancer cutané (mélanome sur nævi dysplasiques +++)
 - Antécédent personnel de mélanome  
-  Risque de 2<sup>e</sup> de 5 à 8 %
+  Risque de 2<sup>e</sup> de 5 à 8%
 - Immunodépression
 - Exposition professionnelle  
 Travail en extérieur, rayonnements ionisants, soudure de métaux, sidérurgie, pesticides.
 
 ### Phototypes
 
-{{< table title="Phototypes" >}}
+{{< table title="Les caractéristiques des différents phototypes" >}}
 | Phototype  | Peau | Cheveux | Yeux | Coups de soleil |
 |:----------:|------|---------|------|-----------------|
 | I          | Très blanche ± tâches de rousseur | Blonds/roux | Bleus/verts | Systématique<br>Jamais de bronzage, rougeur systématique |
@@ -106,6 +106,8 @@ Travail en extérieur, rayonnements ionisants, soudure de métaux, sidérurgie, 
 | V          | Brun foncé    | Noirs | Noirs | Rares, bronzage intense |
 | VI         | Noire         | Noirs | Noirs | Exceptionnels |
 {{< /table >}}
+
+>  Fitzpatrick, T.B. (1988), The validity and practicality of sun reactive skin types I through VI, Arch Dermatol 124 ; 869-871
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}

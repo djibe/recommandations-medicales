@@ -2,17 +2,19 @@
 {{ $old := "<table>" }}
 {{ $new := "" }}
 {{ $title := .Get "title" }}
+{{ $id := delimit (shuffle (seq 1 9)) "" }}
 
 {{ if $title }}
-  {{ $new = printf "<table class=\"table\" itemscope itemtype=\"https://schema.org/Table\" role=\"region\" aria-labelledby=\"table-caption\" tabindex=\"0\"><caption id=\"table-caption\" itemprop=\"about\"><b>Tableau.</b> %s.</caption>" $title }}
+  {{ $new = printf "<table class=\"table\" itemscope itemtype=\"https://schema.org/Table\"><caption id=\"table-caption-%s\" itemprop=\"about\"><b>Tableau.</b> %s</caption>" $id $title }}
 {{ else }}
-  {{ $new = printf "<table class=\"table\" role=\"region\" tabindex=\"0\">" }}
+  {{ $new = printf "<table class=\"table\">" }}
 {{ end }}
 {{ $htmlTable := replace $htmlTable $old $new }}
 {{ $htmlTable := replaceRE "align=\"([a-z]+)\"" "style=\"text-align: $1\"" $htmlTable }}
 
-<div class="data-table">
+<div class="data-table" role="region" tabindex="0" {{ if $title }}{{ printf "aria-labelledby=table-caption-%s" $id | safeHTMLAttr }}{{ end }}>
   {{ $htmlTable | safeHTML }}
 </div>
 
-<!-- Inspired by https://zwbetz.com/style-a-markdown-table-with-bootstrap-classes-in-hugo/ -->
+<!-- Inspired by https://zwbetz.com/style-a-markdown-table-with-bootstrap-classes-in-hugo/ and improved by djibe-->
+<!-- 7 Features: HTML5 compatibility (no align-*), Bootstrap 4 compatibility, djibe Material UI compatibility, <caption> support, Schema.org markup, WAI accessibility, responsive (with CSS) -->

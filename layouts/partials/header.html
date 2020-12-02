@@ -4,11 +4,11 @@
 
   {{ partial "meta" . }}
 
-  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-  <link rel="preconnect" href="https://cdn.jsdelivr.net/" crossorigin>
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net/" crossorigin="">
 
   <!-- CSS -->
-  <link rel="stylesheet" {{ printf "href=%q" .Site.Params.cdn.md_font | safeHTMLAttr }}>
+  <link rel="stylesheet" {{ printf "href=%q" .Site.Params.cdn.md_font | safeHTMLAttr }} crossorigin="">
   <!--<link rel="stylesheet" {{ printf "href=%q" .Site.Params.cdn.md_icons | safeHTMLAttr }}>-->
   <!--<link rel="stylesheet" {{ printf "href=%q" .Site.Params.cdn.material_css | safeHTMLAttr }}>-->
   {{ $material := resources.Get "css/material.css" | postCSS | minify | fingerprint }}

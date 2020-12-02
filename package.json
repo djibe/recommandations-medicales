@@ -36,6 +36,7 @@
   "homepage": "https://recommandations-medicales.netlify.app",
   "devDependencies": {
     "cli-real-favicon": "0.0.8",
+    "cross-env": "^7.0.3",
     "htmllint-cli": "0.0.7",
     "vnu-jar": "^20.6.30"
   },

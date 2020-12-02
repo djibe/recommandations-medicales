@@ -13,7 +13,7 @@
 <meta name="application-name" content="{{ $.Site.Title }}">
 <meta property="og:site_name" content="{{ $.Site.Title }}">
 
-<!-- TODO: Description Tags -->
+<!-- TODO: Description Tags 50-160 ch -->
 {{ $metaDescription := "" }}
 {{ if eq .Section "recommandations" }}
   {{ $metaDescription = (printf "%s %s%s %s %s%s" "Recommandations pour" .Params.Prefix .Params.Title "en premier recours. Conduite à tenir en consultation de médecine générale et bilan de première intention pour" .Params.Prefix .Params.Title ) }}
