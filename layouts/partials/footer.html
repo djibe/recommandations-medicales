@@ -49,16 +49,14 @@
 </div>
 
 <script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }}
-  crossorigin=""></script>
+  crossorigin></script>
 <script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }}
-  crossorigin="" defer></script>
-<script src="{{ .Site.Params.cdn.material_js}}" async></script>
-<!--<script src="https://cdn.jsdelivr.net/npm/lunr@2.3.8/lunr.min.js"
-  integrity="sha256-34Si1Y6llMBKM3G0jQILVeoQKEwuxjbk4zGWXXMT4ps=" crossorigin="" defer></script>-->
-<script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" crossorigin="" async></script>
+  crossorigin defer></script>
+<script src="{{ .Site.Params.cdn.material_js}}" crossorigin async></script>
+<script src="//instant.page/5.1.0" type="module" crossorigin integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" crossorigin async></script>
 
 {{ if eq .Section "recommandations" }}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.8.3/mermaid.min.js" crossorigin=""></script>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@8.8.3/dist/mermaid.min.js" integrity="sha256-6gc5qw+D6x9boi0vM05uaTCVBaYVSo5kbl8dEC5wTmk=" crossorigin></script>
 <script>
   // https://mermaid-js.github.io/mermaid/#/Setup?id=fontfamily
   const MermaidConfig = {
