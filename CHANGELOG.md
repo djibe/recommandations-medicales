@@ -5,6 +5,8 @@
 - Couleur
 - Bandeau lat
 - Police
+- https://github.com/thedaviddias/Front-End-Checklist
+- https://github.com/h5bp/html5-boilerplate
 - Fix Substituts nicotiniques
 - Partager
 - Doctissimo

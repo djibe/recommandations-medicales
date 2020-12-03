@@ -26,7 +26,7 @@
         <div class="d-flex flex-wrap">{{ partial "widgets/tags-render.html" . }}</div>
 
         {{ with .Params.Sctid }}
-        <p class="typography-overline text-black-secondary mb-0">SNOMED-CT</p>
+        <p class="typography-overline text-black-secondary mb-0" lang="en">SNOMED-CT</p>
         <p><a href="https://browser.ihtsdotools.org/?perspective=full&conceptId1={{.}}&release=&languages=en" target="_blank" rel="nofollow noopener" data-toggle="tooltip" title="La terminologie médicale de référence">{{ . }}</a></p>{{ end }}
 
         <p class="typography-overline text-black-secondary mt-4 mb-0">Dernières fiches</p>

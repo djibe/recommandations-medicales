@@ -152,12 +152,6 @@ h4 {
   }
 
   ul:not(.list-group) {
-    list-style: disc outside;
-    margin-bottom: 1rem;
-    padding-left: 1.25rem;
-  }
-
-  > ul:not(.list-group) > li {
     @extend .typography-body-1;
   }
 
