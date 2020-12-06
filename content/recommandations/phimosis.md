@@ -150,4 +150,10 @@ Chirurgie ± conservatrice
 
 - Dr Biserte CHRU Lille (Urologie 2008, JPP 2009)
 - Dr Panait HFME Bron
+
 {{%/collapse%}}
+{{%collapse "Photos" %}}
+
+{{< wikiphoto "Phimosis" >}}
+
+{{% /collapse %}}

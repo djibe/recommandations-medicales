@@ -211,3 +211,8 @@ Selon la SFDermato, informer le patient:
 - [ANSM. Mai 2015. Restriction de la prescription initiale de l’isotrétinoïne orale aux dermatologues – Lettre aux professionnels de santé](//www.ansm.sante.fr/content/download/76973/976491/version/1/file/DHCP_Isotretinoine-medecins_13-05-2015.pdf)
 
 {{% /collapse %}}
+{{%collapse "Photos" %}}
+
+{{< wikiphoto "Acne" >}}
+
+{{% /collapse %}}

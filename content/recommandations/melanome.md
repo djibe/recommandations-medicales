@@ -253,3 +253,8 @@ Le risque d'apparition d'un 2<sup>e</sup> cancer cutané est supérieur à la po
 - [INCa. Traitements du mélanome avancé. Novembre 2017.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Traitements-du-melanome-avance)
 
 {{% /collapse %}}
+{{%collapse "Photos" %}}
+
+{{< wikiphoto "Melanoma" >}}
+
+{{% /collapse %}}

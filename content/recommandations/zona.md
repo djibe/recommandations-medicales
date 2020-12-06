@@ -157,7 +157,8 @@ carbamazépine (Tegretol®) 400-1200mg/j
 - Prescrire 02/2016
 
 {{% /collapse %}}
-
-## Photos de zona
+{{%collapse "Photos" %}}
 
 {{< wikiphoto "Herpes_zoster" >}}
+
+{{% /collapse %}}

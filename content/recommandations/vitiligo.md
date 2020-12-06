@@ -99,3 +99,8 @@ Récidives++
 - [Cochrane. Traitements du vitiligo. 07/12/2011](https://www.cochrane.org/fr/CD003263/SKIN_traitements-du-vitiligo-maladie-entrainant-une-perte-de-la-couleur-de-la-peau-en-plaques)
 
 {{% /collapse %}}
+{{%collapse "Photos" %}}
+
+{{< wikiphoto "Vitiligo" >}}
+
+{{% /collapse %}}

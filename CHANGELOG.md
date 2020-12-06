@@ -2,6 +2,7 @@
 
 ## TODO
 
+- Fix: chevron-right, menu
 - Couleur
 - Bandeau lat
 - Police
@@ -12,7 +13,6 @@ https://github.com/purifycss/purifycss
 - Fix Substituts nicotiniques
 - Partager
 - Doctissimo
-- Photos
 - check SERP: https://www.referencement.com/simulateur-serp-pixels/
 - CSS fix h+h
 - Automate table SC  
@@ -20,7 +20,6 @@ https://gist.github.com/clvs7-gh/77b1f50d51d4e238c8482fc31296d4c4
 - Search in synonyms
 - Shortcode téléphone
 - Sitemap que pour index + reco
-- PurgeCSS
 - Replace guidelineyears
 - Logo
 - Datatables sur fiche

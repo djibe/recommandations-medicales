@@ -4,6 +4,7 @@
   "description": "Site communautaire des recommandations en premier recours en médecine générale",
   "scripts": {
     "build": "hugo --gc --minify",
+    "css:compile": "node-sass --output-style expanded --precision 6 assets/sass/material-custom.scss assets/css/material.css",
     "css:purge": "purgecss -c build/postcss.config.js",
     "favicon": "real-favicon generate ./build/faviconDescription.json ./build/faviconData.json ./favicons",
     "html:lint": "htmllint --rc build/.htmllintrc \"public/**/*.html\"",
@@ -18,10 +19,10 @@
     "site",
     "recommandations",
     "medecine",
+    "médecine",
     "conduite",
     "à",
     "tenir",
-    "médecine",
     "guidelines"
   ],
   "author": "Jean-Baptiste FRON",
@@ -38,6 +39,7 @@
     "cli-real-favicon": "0.0.8",
     "cross-env": "^7.0.3",
     "htmllint-cli": "0.0.7",
+    "node-sass": "^5.0.0",
     "vnu-jar": "^20.6.30"
   },
   "dependencies": {

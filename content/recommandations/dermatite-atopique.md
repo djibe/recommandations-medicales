@@ -39,3 +39,8 @@ draft = true
 - [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](//solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
 
 {{% /collapse %}}
+{{%collapse "Photos" %}}
+
+{{< wikiphoto "Atopic_dermatitis" >}}
+
+{{% /collapse %}}

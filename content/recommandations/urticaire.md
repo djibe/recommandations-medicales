@@ -8,11 +8,11 @@ date = 2020-10-27T17:43:41+02:00
 publishdate = 2020-10-27
 lastmod = 2020-10-27
 categories = ["dermatologie"]
-guidelineyears = "2020"
-sources = ["HAS", "MinSante"]
-tags = ["HSH"]
-anglais = ["MSM"]
-sctid = "76102007"
+guidelineyears = "2000"
+sources = ["FMC Erevo"]
+tags = ["anti-histaminiques"]
+anglais = ["Urticaria"]
+sctid = "126485001"
 draft = true
 todo = "reco"
 +++
@@ -54,5 +54,10 @@ Urticaire chronique
 {{%collapse "Sources" %}}
 
 - [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](//solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+
+{{% /collapse %}}
+{{%collapse "Photos" %}}
+
+{{< wikiphoto "Urticaria" >}}
 
 {{% /collapse %}}

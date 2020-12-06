@@ -1,0 +1,13 @@
+{{ if .Get 0 }}
+<div class="border rounded">
+  <iframe
+    class="border-0 w-100"
+    src="https://commons.wikimedia.org/wiki/Category:{{ .Get 0 }}?gsAutoPlay=1&gsDelay=4000&gsDir=desc&gsAutoStart=1&gsReadFromScreen=1&withJS=MediaWiki:Gadget-GallerySlideshow.js&withCSS=MediaWiki:Gadget-GallerySlideshow.css"
+    allowfullscreen
+    height="600"
+    loading="lazy"
+  ></iframe>
+</div>
+{{ else }}
+<div class="alert alert-warning">La référence de la gallerie photos de Wikimedia est manquante.</div>
+{{ end }}

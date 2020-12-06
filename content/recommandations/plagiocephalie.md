@@ -71,7 +71,7 @@ Radiographies du crâne uniquement en suspicion de craniosynostose ou d’aggrav
 - Augmenter le temps d’éveil passé en décubitus ventral. Au moins 10 à 15 minutes au moins 3 fois par jour.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la plagiocéphalie" %}}
 
 **Rappel**. « Le couchage à plat sur le dos strict pour le sommeil est recommandé pour prévenir la mort inattendue du nourrisson » (HAS 02/2020).
 
@@ -97,5 +97,10 @@ En cas de craniosynostose confirmée.
 
 - [HAS/CNP. Prévention des déformations crâniennes positionnelles et mort inattendue du nourrisson. Février 2020.](HAS/CNP. Prévention des déformations crâniennes positionnelles et mort inattendue du nourrisson. Février 2020.)
 - [Société Canadienne de Pédiatrie. La plagiocéphalie positionnelle. Octobre 2011.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3202395/)
+
+{{% /collapse %}}
+{{%collapse "Photos" %}}
+
+{{< wikiphoto "Plagiocephaly" >}}
 
 {{% /collapse %}}

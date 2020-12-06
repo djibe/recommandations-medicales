@@ -197,3 +197,8 @@ L'évolution fluctue. 4 personnes sur 10 guérissent spontanément après plusie
 - La Revue Prescrire
 
 {{% /collapse %}}
+{{%collapse "Photos" %}}
+
+{{< wikiphoto "Rosacea" >}}
+
+{{% /collapse %}}
