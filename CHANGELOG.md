@@ -5,6 +5,8 @@
 - Couleur
 - Bandeau lat
 - Police
+- Purify or PurgeCSS ?  
+https://github.com/purifycss/purifycss
 - https://github.com/thedaviddias/Front-End-Checklist
 - https://github.com/h5bp/html5-boilerplate
 - Fix Substituts nicotiniques
@@ -24,7 +26,7 @@ https://gist.github.com/clvs7-gh/77b1f50d51d4e238c8482fc31296d4c4
 - Datatables sur fiche
 - If is page menu is active
 - Expand all avec localstorage
-- Papillomavirus > Melanome > Urticaire > Gale > Migraine > Dépistage cancer prostate
+- Papillomavirus > Urticaire > OMAP > Eczéma > Gale > Migraine > Dépistage cancer prostate
 - Score de Wells, BASDAI, Glasgow
 - TOC
 - SEO  
