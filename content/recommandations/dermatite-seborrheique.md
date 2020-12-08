@@ -169,7 +169,7 @@ Ciclopirox, kétoconazole, dermocroticoïdes, sulfure de sélénium, AINS, acide
 {{< mermaid >}}
 graph TB
   suspicion[Suspicion de dermatite séborrhéique] --> diagnostic(Diagnostic clinique<br>de DS)
-  style suspicion stroke:#6200ee, stroke-width:1px
+  style suspicion stroke:#0077ff, stroke-width:1px
   suspicion -- Diagnostic différentiel --> differentiel(Psoriasis<br>Rosacée<br>Dermatite atopique<br>Syphilis)
   diagnostic --> scalp(Cuir chevelu<br>Ciclopirox shampooing 1%<br>OU kétoconazole gel 2%)
   diagnostic --> face(Face et tronc<br>Kétoconazole gel/crème 2% x 2/sem<br>OU ciclopirox crème 1% x 2/j)

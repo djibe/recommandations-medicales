@@ -157,7 +157,7 @@ Obtenir un test RT-PCR dans les 24h pour symptômatiques ou cas contacts:
 {{< mermaid >}}
 graph TB
   adulte[Adulte et Enfant > 6 ans<br>sans fragilité] --> contact(Cas Contact<br>Isolement 7J<br>À compter du contact<br>Arrêt sur declare.ameli.fr) --> testJ7("Test à J7<br>(Immédiat si je vis avec)<br>Isolement jusqu'aux résultats") --Test+--> isolementContact(Isolement 7J sup.<br>À compter du test) --> retour
-  style adulte stroke:#6200ee, stroke-width:1px
+  style adulte stroke:#0077ff, stroke-width:1px
   testJ7 --Test- --> retour
   adulte --> symptomatique(Symptomatique<br>= Cas possible<br>Isolement durant analyse) --Test+--> isolementSymptomatique(Isolement 7J<br>À compter du J1 des symptômes) -.-> fievrePersistante(Fièvre persistante à J7) --> isolementFievre(Isolement +48h) --> retour(Travail<br>ou École)
   isolementSymptomatique --> retour
@@ -179,7 +179,7 @@ graph TB
 {{< mermaid >}}
 graph TB
   enfant["Enfant &lt; 6 ans<br>sans fragilité"] -- "Suspicion si &ge; 1 parmi" --> symptomes("Fièvre > 38&deg;C, irritabilité inhabituelle, tachycardie, marbrures<br>Toux fébrile, polypnée, gène respiratoire<br>Diarrhées") -- "Signes de gravité ?" --> gravite
-  style enfant stroke:#6200ee, stroke-width:1px
+  style enfant stroke:#0077ff, stroke-width:1px
 {{< /mermaid >}}
 
 > [SFP. COVID19 et écoles - Propositions de la Société Française de Pédiatrie. 09/09/2020](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/Recommandations_09092020.pdf)

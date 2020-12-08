@@ -165,7 +165,7 @@ Les fils sont retirés au bout de 15 jours à 3 semaines après l’intervention
 {{< mermaid >}}
 graph TD
 diagnostic[Diagnostic clinique] --> gravite{Signes de gravité}
-style diagnostic stroke:#6200ee, stroke-width:1px
+style diagnostic stroke:#0077ff, stroke-width:1px
   gravite -->|Oui| emg[ENMG pré-opératoire] --> chir[Chirurgie]
   gravite -->|Non| medical[Traitement médical<br>Orthèse - Infiltration]
 {{< /mermaid >}}

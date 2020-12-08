@@ -6,26 +6,28 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-02T08:27:41+02:00
 publishdate = 2020-09-02
-lastmod = 2020-09-02
+lastmod = 2020-12-08
 categories = ["dermatologie", "infectiologie"]
 guidelineyears = "2016"
-sources = []
+sources = ["SFDermato"]
 tags = ["IST"]
 anglais = ["Syphilis"]
 sctid = "76272004"
 draft = false
-todo = "arbre ttt"
+todo = ""
 +++
 
 {{%article-summary%}}
 
 - Évoquer un chancre devant toute ulcération génitale
+- Traiter comme une syphilis tardive quand la date de contamination n'est pas connue
 - Sérologies des autres IST
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Maladie infectieuse à transmission directe principalement sexuelle par contact avec une lésion génitale (fellation comprise) de la bactérie **treponema pallidum** (spirochète, trépanomatose), ou materno-fœtale.  
+Syphilis
+: Maladie infectieuse à transmission directe principalement sexuelle par contact avec une lésion génitale (fellation comprise) de la bactérie *treponema pallidum* (spirochète, trépanomatose), ou materno-fœtale.  
 La contamination lors de la grossesse entraîne des complications graves chez le fœtus.
 
 La majorité des cas survient chez les [HSH]({{< ref "hsh.md" >}}) (86% des cas en 2013, +56% entre 2013 et 2015) et entre 20 et 29 ans.
@@ -35,7 +37,7 @@ La majorité des cas survient chez les [HSH]({{< ref "hsh.md" >}}) (86% des cas 
 ---
 
 Syphilis précoce
-: Évolution datant de moins d’un an (J1 étant le 1er jour du chancre).  
+: Évolution datant de moins d’un an (J1 étant le 1<sup>er</sup> jour du chancre).  
 **Risque de contagion le plus important** (charge en tréponèmes +++).  
 Elle comprend:
 - la syphilis primaire
@@ -49,7 +51,7 @@ Syphilis tardive
 ---
 
 Syphilis primaire
-: Présence du **chancre syphilitique**.  
+: Présence du **chancre syphilitique** indolore très contagieux.  
 Survient environ un mois après la contamination.
 
 Syphilis sérologique (ou latente, précoce)
@@ -61,7 +63,11 @@ Syphilis secondaire
 : Manifestations cliniques essentiellement cutanéo-muqueuses dans l’année qui suit le chancre.
 
 Syphilis tertiaire
-: Complications neurologiques, oculaires et cardiovasculaires.
+: Complications neurologiques (neurosyphilis), oculaires et cardiovasculaires.
+
+Réaction d'Herxeimer
+: Réaction à la pénicilline quasi constante en syphilis précoce, le plus souvent sans gravité (aggravation clinique, fièvre, céphalées, éruption) durant les 24 premières heures. Disparaît spontanément en 24 heure.  
+Ne pas confondre avec une *allergie aux bêtalactamines*.
 
 {{% /collapse %}}
 {{%collapse "Qui dépister?" %}}
@@ -80,7 +86,7 @@ Syphilis tertiaire
 - Contexte d'IST récente
 - Viol
 
-### Comment faciliter le la discussion?
+### Faciliter la discussion au cabinet
 
 - Afficher des documents d’information en salle d’attente
 - Évoquer la santé sexuelle dès la 1<sup>re</sup> consultation
@@ -108,14 +114,14 @@ Inconstante (1/3 des patients), survient en cas de syphilis primaire non traité
 
 Atteinte cutanée préférentielle:
 
-- 1<sup>re</sup> floraison: roséole syphilitique  
+- 1<sup>re</sup> floraison: **roséole syphilitique**  
 Discrètes macules rosées non prurigineuses des tronc, cou, racine des membres. Épargne le visage.  
 Régression en 1-2 mois sans séquelles
-- 2<sup>e</sup> floraison: syphilides cutanées papulo-squameuses  
+- 2<sup>e</sup> floraison: **syphilides** cutanées papulo-squameuses  
 Papules non prurigineuses, rouge brun, collerette squameuse (de Biett) des visages, OGE, palmo-plantaire symétrique.  
 Évolution par poussées.
 
-**Toutes les lésions élémentaires dermatologiques sont possibles sauf vésicules et bulles.**  
+**Toutes les lésions élémentaires dermatologiques sont possibles au cours de la syphilis, sauf vésicules et bulles.**  
 Ex: Dépilation des sourcils, lésions d'aspect séborrhéiques des sillons naso-géniens, papules acnéiformes du menton, alopécie en petite plaques
 
 **Lésions prédominantes sur tronc et visage**, prurit rare.
@@ -124,7 +130,7 @@ Ex: Dépilation des sourcils, lésions d'aspect séborrhéiques des sillons naso
 
 Atteintes muqueuses fréquentes.
 
-Autres signes:
+#### Autres signes
 
 - Fébricule
 - Poladénopathies
@@ -136,12 +142,12 @@ Autres signes:
 
 {{% warning %}}Les atteintes ophtalmologiques et neurologiques peuvent engager le pronostic fonctionnel.{{% /warning %}}
 
-**Réaction d’Herxeimer** quasi constante en syphilis précoce, le plus souvent sans gravité (aggravation clinique, fièvre, céphalées, éruption). Ne pas confondre avec une allergie aux bêtalactamines.
+**NB.** Ne pas confondre la *réaction d’Herxeimer* avec une allergie bêtalactamines.
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-{{% class %}}Nombreux diagnostics différentiels, c'est pourquoi on appelle la syphilis la "grande simulatrice".{{% /class%}}
+Nombreux diagnostics différentiels, c'est pourquoi on appelle la syphilis la "grande simulatrice".
 
 - Acné
 - Alopécie
@@ -173,32 +179,42 @@ Port du **préservatif** avec tout partenaire en l'absence de bilan d'IST récen
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
+### Mesures générales
+
+- Éviter tout rapport sexuel  
+Même protégé, pendant toute la durée du traitement et jusqu'à 2 semaines après, et jusqu'à la guérison des lésions cutanéo-muqueuses.
+- Hospitalisation si signes neurologiques
+
 ### Syphilis précoce
 
-- Hospitalisation si signes neurologiques
-- Antibiothérapie  
-**Benzathine pénicilline G (BPG) 2,4 MU en dose unique IM** (fesse/cuisse face latérale)  
-OU 2 injections IM de 1,2 MU.  
-Administration intra-musculaire exclusivement (ni IV, ni SC).  
-Garder le patient sous surveillance pendant 30 minutes en présence de matériel d’urgence.    
-Contre-indications : Allergie bêtalactamines, anticoagulants.  
-Prévenir de la réaction d’Herxeimer, associer du paracétamol systématique.
+{{%info%}}Benzathine pénicilline G (BPG) 2,4 MU en dose unique IM{{%/info%}}
 
-{{% info %}}Affirmer la guérison est impossible, nécessité de surveiller les patients pendant plusieurs années.  
-Répéter les sérologies dans les populations à risque (contaminées ou non).{{% /info %}}
+- Paracétamol systématique  
+Informer sur la réaction d’Herxeimer.
+- Antibiothérapie  
+Benzathine pénicilline G (BPG) 2,4 MU dans fesse ou cuisse face latérale OU 2 injections IM de 1,2 MU.  
+Administration intra-musculaire exclusivement.  
+Garder le patient sous surveillance pendant 30 minutes en présence de matériel d’urgence.    
+**Contre-indications:** Allergie bêtalactamines, anticoagulants.
+- Dépistage des contacts  
+Tous les contacts des 3 mois précédents.
+
+{{%info%}}Affirmer la guérison est impossible, nécessité de surveiller les patients pendant plusieurs années.  
+Répéter les sérologies dans les populations à risque (contaminées ou non).{{%/info%}}
 
 #### Situations particulières
 
 - Allergie aux bêtalactamines  
 doxycycline 100 mg x 2/jour per os pendant 14 jours  
-Contre-indications: enfant < 8 ans, grossesse
+Contre-indications: enfant < 8 ans, grossesse, allaitement  
+(TODO: Prescrire cite la ceftriaxone IM 1g/j 10 à 14j)
 - Anticoagulants  
-Idem Allergie aux bêtalactamines
+Idem *Allergie aux bêtalactamines*
 - Patient VIH
 Schéma BPG
 - Grossesse
 Schéma BPG  
-ET prévention de la réaction d’Herxeimer (paracétamol)  
+ET paracétamol (prévention d’Herxeimer)  
 ± prednisone 0,5 mg/kg la veille et les 3 jours suivants l’injection en cas de syphilis secondaire profuse.
 - Congénital  
 Hospitalisation
@@ -206,9 +222,27 @@ Hospitalisation
 Hospitaliser pour ponction lombaire et traiter comme une neurosyphilis
 - Avis infectiologue si cas problématique
 
+### Syphilis tardive ou date de contamination inconnue
+
+Traitement d'une syphilis de plus d'un an ou ancienneté non connue:
+
+{{%info%}}1 injection de Benzathine pénicilline G (BPG) 2,4 MU IM par semaine pendant 3 semaines{{%/info%}}.
+
+- Grossesse: Pas d’alternative à la pénicilline G  
+Désensibilisation si nécessaire.
+- Allergie aux bêtalactamines  
+Doxycycline 100 mg x 2/j per os pendant 28 jours
+
 ### Traitement du partenaire
 
-Syphilis certaine chez patient source: examiner le contact.
+Syphilis certaine chez patient source, examiner les contacts:
+
+- Syphilis primaire  
+Tous les contacts de moins de 3 mois, même en rapports protégés.
+- Syphilis secondaire ou latente  
+Tous les contacts de l'année précédente (même si protégés).
+
+#### Méthode du dépistage des contacts
 
 - Si contact ≥ 6 semaines: sérologie  
 Si positive: traiter, sinon refaire la sérologie à 3 mois.
@@ -216,36 +250,87 @@ Si positive: traiter, sinon refaire la sérologie à 3 mois.
 - Syphilis douteuse chez patient source: examiner le contact et sérologie  
 Si positive: traiter, sinon refaire à 3 mois.
 
-### Syphilis tardive
-
-1 injection de Benzathine pénicilline G (BPG) 2,4 MU IM par semaine pendant 3 semaines lorsque l’infection date de plus d’un an ou est impossible à dater.
-
-- Pas d’alternative à la pénicilline G chez la femme enceinte. Désensibilisation si nécessaire.
-- Allergie aux bêtalactamines  
-Doxycycline 100 mg x 2/jour per os pendant 28 jours
-
 {{% /collapse %}}
 {{%collapse "Surveillance du traitement" %}}
+
+L'efficacité du traitement doit être contrôlée cliniquement et par sérologie du VDRL.
 
 ### Surveillance clinique
 
 Disparition du chancre ou de l’éruption en 3 à 15 jours.
 
-### Sérologique
+### Sérologique par VDRL
 
-VDRL à 3 mois, 6 mois (taux divisé par 4), 1 an (négatif si primaire) puis 1/an jusqu’à négativation (négatif à 2 ans si secondaire).  
-Toutefois la décroissance du VDRL dans la syphilis latente précoce (ou en cas de recontamination) n’est pas franche pour 1/4 des patients.
+{{%info%}}
+Au laboratoire
+
+VDRL  
+À renouveler dans 3 mois, 6 mois, 1 an
+
+{{%/info%}}
+
+Contrôles du VDRL:
+
+- Juste avant le début du traitement
+- 3 mois
+- 6 mois  
+Cible: taux divisé par 4.  
+Évoquer échec du traitement ou recontamination si taux hors cible (voir plus bas).  
+- 12 mois  
+Négatif si primaire.
+- Puis 1/an jusqu’à négativation  
+Négatif à 2 ans si secondaire.
+
+**NB.** La décroissance du VDRL dans la syphilis latente précoce (ou en cas de recontamination) n’est pas franche pour 1/4 des patients.
 
 {{% info %}} La négativation du VDRL est considérée comme le meilleur critère de guérison.{{% /info %}}
 
+Le TPHA ne se négative que rarement sauf chez le patient *VIH+*. Il n’est pas utilisé dans la surveillance.
+
+### Échec du traitement et recontamination
+
+Évoquer lorsque le VDRL n'est pas divisé par 4 à 6 mois.
 On parle de **recontamination** lorsque le VDRL est multiplié d’un facteur ≥ 4.
-      
-Le TPHA ne se négative que rarement sauf chez le patient VIH+. Il n’est pas utilisé dans la surveillance.
+
+Dans ce cas:
+
+- Recommencer le traitement d'une syphilis tardive  
+1 injection de Benzathine pénicilline G (BPG) 2,4 MU IM par semaine pendant 3 semaines
+- Sérologie VIH
+- Adresser en dermatologie pour ponction lombaire  
+{{%class%}}Recherche d'une neurosyphilis.{{%/class%}}
+
+{{% /collapse %}}
+{{%collapse "informations du patient" %}}
+
+- Maladie sexuelle avec de graves atteintes neurologiques et cécité en l'absence de traitement
+- Dépistage des contacts pour enrayer la transmission
+- L'infection n'entraîne pas d'immunité durable, ce qui expose à des réinfections
+- Le traitement se fait uniquement par injections intramusculaires
+- La surveillance de la guérison s'étale sur plusieurs années
+
+{{% /collapse %}}
+{{%collapse "Conduite à tenir devant une syphilis" "show" %}}
+
+{{< mermaid >}}
+graph TB
+  chancre[Chancre] -- Syphilis primaire --> ttt("VDRL, sérologies IST<br>BPG 2,4 MU IM unique<br>Paracétamol<br>Dépistage contacts < 3 mois")
+  style chancre stroke:#0077ff, stroke-width:1px
+    ttt --> surv("Clinique<br>VDRL M3, M6, M12")
+      surv -. "Échec" .-> echec(Adresser infectiologie H)
+  clinique["Lésions suspectes<br>Dépistage IST"] -- Sérologie + --> anciennete("Date de contamination<br>connue ?")
+  style clinique stroke:#0077ff, stroke-width:1px
+    anciennete -- Oui --> adapte("Schéma BPG adapté<br>Dépistage contacts adapté") --> surv
+    anciennete -- Non --> tardive("<b>Traiter syphilis tardive</b><br>BPG 2,4 MU IM 1/sem 3 sem<br>Dépistage contacts < 1 an") --> surv
+{{< /mermaid >}}
+
+> Arbre décisionnel. Traitement de la syphilis en soins primaires
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Académie Nationale de Médecine. La Syphilis en France en 2016 : une situation précoccupante. 2017.](http://www.academie-medecine.fr/wp-content/uploads/2017/03/17.3.7-JANIER-site.pdf)
+- [Prescrire Rédaction. Syphilis Précoce. Octobre 2020.](https://prescrire.org/fr/Summary.aspx)
+- [Académie Nationale de Médecine. La Syphilis en France en 2016 : une situation précoccupante. 17/03/2017.](http://www.academie-medecine.fr/wp-content/uploads/2017/03/17.3.7-JANIER-site.pdf)
 - [Société Française de Dermatologie. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement Transmissibles. Février 2016](http://www.sfdermato.org/media/pdf/recommandation/syphilis-precoce-b61913fb8de5bca222326904654c6b30.pdf)
 - [Organisation Mondiale de la Santé. La résistance aux antibiotiques oblige à actualiser les recommandations sur le traitement des infections sexuellement transmissibles. Août 2016.](http://www.who.int/mediacentre/news/releases/2016/antibiotics-sexual-infections/fr/)
 - [Santé Publique France. Infections Sexuellement Transmissibles. Décembre 2015.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/notices/bulletin-des-reseaux-de-surveillance-des-infections-sexuellement-transmissibles-ist-au-31-decembre-2016)

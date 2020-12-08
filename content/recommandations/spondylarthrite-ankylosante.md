@@ -335,7 +335,7 @@ VS, CRP.
 {{< mermaid >}}
 graph TB
   suspicion["Suspicion de SpA"] --> bilan("Biologie<br>Rx rachis complet F+P<br>et bassin F<br>IRM rachis DL + SI") --> rhumato("AINS pleine dose<br>et avis rhumatologique SYSTÉMATIQUE")
-  style suspicion stroke:#6200ee, stroke-width:1px
+  style suspicion stroke:#0077ff, stroke-width:1px
 
 {{< /mermaid >}}
 

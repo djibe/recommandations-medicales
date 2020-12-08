@@ -122,7 +122,7 @@ Risque chirurgical dans  les  cirrhoses, la splénomégalie myéloïde.
 {{< mermaid >}}
 graph TB
   SM["Splénomégalie de l'adulte"] --> bio("NFS, VS, CRP<br>Bilan hépatique, TP TCA<br>Électrophorèse des protéines<br><br>+")
-  style SM stroke:#6200ee, stroke-width:1px
+  style SM stroke:#0077ff, stroke-width:1px
     bio --> aigu("Tableau aigu<br>Fièvre, ADP, cardio,<br>éruption, ictère, angine") --> aiguBio("Hémoccultures<br>Sérologies virales?")
     bio --> hepatique("Hépatique<br>Hépatite, alcool, ictère<br>HTP, ascite") --> hepatiqueBio("Anomalies au 1er bilan")
     bio --> hemopathies("Hémopathies<br>ADP, anémie, hémorragies,<br>ictère, fièvre") --> hemopathiesBio("Myélogramme<br>Biopsie médullaire<br>RT<br>Scanner TA")

@@ -263,9 +263,9 @@ Des  produits  diététiques  sans  gluten  sont  rem-boursés  partiellement  p
 {{< mermaid >}}
 graph TB
   symptomatique["Symptomatique"] --> examen("Sérologie ou fibroscopie d'emblée<br>selon le cas")
-  style symptomatique stroke:#6200ee, stroke-width:1px
+  style symptomatique stroke:#0077ff, stroke-width:1px
   personneARisque["Personne à risque"] --> examen
-  style personneARisque stroke:#6200ee, stroke-width:1px
+  style personneARisque stroke:#0077ff, stroke-width:1px
     examen --> gastro("Consultation du gastro-entérologue")
       gastro --"Diagnostic de maladie coœliaque"--> traitement("<b>Éviction du gluten à vie</b><br>Surveillance clinico-biologique<br>Bilan diététique<br>Dépistage de l'entourage")
       gastro --"Diagnostic infirmé"--> explo("Poursuite du bilan<br>par le spécialiste")

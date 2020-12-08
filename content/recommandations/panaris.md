@@ -129,7 +129,7 @@ Pansement à changer tous les jours pendant 1 semaine puis toutes les 48h jusqu'
 {{< mermaid >}}
 graph TB
   diagnostic["Diagnostic de panaris"] --> inflammatoire(Inflammatoire) --> bains(Bains antiseptiques x3/j) --> immunodepression("Immunodépression,<br>valuvulopathie, diabète ?") -- Oui --> ATB(Antibiothérapie<br>Pristinamycine 1g x 2-3/j 7 jours)
-  style diagnostic stroke:#6200ee, stroke-width:1px 
+  style diagnostic stroke:#0077ff, stroke-width:1px 
   diagnostic --> collecte(Collecté) --> chir("Drainage chirurgical")
   diagnostic -- "Diagnostic différentiel" --> differentiel("Pseudo-panaris herpétique<br>Faux panaris d'Osler")
 {{< /mermaid >}}

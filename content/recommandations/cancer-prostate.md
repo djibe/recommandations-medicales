@@ -80,7 +80,7 @@ Arrêter le dépistage quand l’espérance de vie est < 10 ans.
 {{< mermaid >}}
 graph TB
   homme["Homme ≥ 45 ans<br>et Espérance de vie > 10 ans"] --> symptomes("Symptômes urinaires<br>Signes d'alarme<br>≥ 3 cas au 1<sup>er</sup> degré")
-  style homme stroke:#6200ee, stroke-width:1px
+  style homme stroke:#0077ff, stroke-width:1px
     symptomes -- Non --> PSA
       PSA -- "&lt; 2 ng/mL" --> leger(PSA à 8 ans)
       PSA -- "2-4 ng/mL" --> modere(PSA à 2-4 ans)

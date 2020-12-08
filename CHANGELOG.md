@@ -3,13 +3,13 @@
 ## TODO
 
 - Fix: chevron-right, menu
-- Couleur
+- Check italic
+- Merge SASS
 - Bandeau lat
 - Police
 - Purify or PurgeCSS ?  
 https://github.com/purifycss/purifycss
 - https://github.com/thedaviddias/Front-End-Checklist
-- https://github.com/h5bp/html5-boilerplate
 - Fix Substituts nicotiniques
 - Partager
 - Doctissimo

@@ -230,7 +230,7 @@ Utiliser les RHD et l'oméprazole (voire la ranitidine).
 {{< mermaid >}}
 graph TB
   RGO[Suspicion de RGO] --> atypique
-  style RGO stroke:#6200ee, stroke-width:1px
+  style RGO stroke:#0077ff, stroke-width:1px
   RGO --> typique
   typique["Symptômes typiques"] --> 50-("&lt; 50 ans")
   typique --> 50+("#ge; 50 ans")

@@ -109,7 +109,7 @@ Remise des [Consignes de surveillance à donner aux parents](/print/tc-enfant-co
 {{< mermaid >}}
 graph TB
   TC[Traumatisme crânien] --> GCS(Score de Glasgow)
-  style TC stroke:#6200ee, stroke-width:1px
+  style TC stroke:#0077ff, stroke-width:1px
   GCS -- "#lt; 13" --> TCgrave(TC grave) --> SAMU("<b>SAMU</b>")
   GCS -- "≥ 13" --> TCleger(TC léger) --> gravite(Signes de gravité ?)
     gravite -- Oui --> SAMU
