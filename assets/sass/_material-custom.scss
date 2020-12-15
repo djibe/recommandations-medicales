@@ -1,0 +1,164 @@
+/* Custom variables */
+
+// Palette
+// https://mycolor.space/?hex=%230077FF&sub=1
+
+$primary: (
+  color: #0077ff,
+  dark:  #2242cd,
+  light: #14aaff
+) !default;
+
+$secondary: (
+  color: #ff8800,
+  dark:  #f36703,
+  light: #ffca7f
+) !default;
+
+$danger: (
+  color: #e3536b,
+  dark:  #b7374f,
+  light: #f194a6
+) !default;
+
+$info: (
+  color: #53b3e3,
+  dark:  #3b86bc,
+  light: #b7e4f6
+) !default;
+
+$success: (
+  color: #1dc198,
+  dark:  #008a65,
+  light: #6bfbce
+) !default;
+
+$warning: (
+  color: #e3cb53,
+  dark:  #ee6002,
+  light: #ffc77d
+) !default;
+
+// Typography
+
+$font-size-base: 1rem;
+$font-weight-regular: 400;
+
+$font-size-headline-1:      ($font-size-base * 5.9375) !default;   // 95px
+$font-size-headline-2:      ($font-size-base * 3.6875) !default;   // 59px
+$font-size-headline-3:      ($font-size-base * 3) !default;        // 48px
+$font-size-headline-4:      ($font-size-base * 2.125) !default;    // 34px
+$font-size-headline-5:      ($font-size-base * 1.5) !default;      // 24px
+$font-size-headline-6:      ($font-size-base * 1.25) !default;     // 20px
+$font-size-subtitle-1:      $font-size-base !default;              // 16px
+$font-size-subtitle-2:      ($font-size-base * 0.875) !default;    // 14px
+
+$font-weight-headline-1:     100 !default;
+$font-weight-headline-2:     $font-weight-headline-1 !default;
+// $font-weight-headline-3:     $font-weight-regular !default;
+// $font-weight-headline-4:     $font-weight-regular !default;
+// $font-weight-headline-5:     $font-weight-regular !default;
+$font-weight-headline-6:     $font-weight-regular !default;
+$font-weight-subtitle-1:     $font-weight-regular !default;
+$font-weight-subtitle-2:     $font-weight-regular !default;
+
+$letter-spacing-headline-1:  -1.5px !default;
+$letter-spacing-headline-2:  -0.5px !default;
+// $letter-spacing-headline-3:  0 !default;
+$letter-spacing-headline-4:  0.25px !default;
+// $letter-spacing-headline-5:  0 !default;
+$letter-spacing-headline-6:  0.15px !default;
+$letter-spacing-subtitle-1:  0.15px !default;
+$letter-spacing-subtitle-2:  0.1px !default;
+
+$line-height-headline-1: normal !default;
+$line-height-headline-2: normal !default;
+$line-height-headline-3: normal !default;
+$line-height-headline-4: normal !default;
+$line-height-headline-5: normal !default;
+$line-height-headline-6: normal !default;
+$line-height-subtitle-1: normal !default;
+$line-height-subtitle-2: normal !default;
+
+// Components
+$card-border-radius: 0;
+$navdrawer-content-bg: #444655;
+
+$enable-dark-theme-media-query: false !default;
+$enable-validation-valid:  false !default; // Apply Success color to valid inputs (not recommended)
+
+/*!
+ * Daemonite Material UI 4.5.3 (https://djibe.github.io/material/)
+ * Copyright 2011-2020 The Bootstrap Authors
+ * Copyright 2011-2020 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Material UI by djibe, Maya, Geoff Bowers and Alex Skinner
+ */
+
+@import '../material/assets/scss/colors';
+@import '../material/assets/scss/functions';
+@import '../material/assets/scss/variables';
+@import '../material/assets/scss/mixins';
+
+// Base CSS
+ 
+@import '../material/assets/scss/base/base'; // root + reboot
+@import '../material/assets/scss/base/grid';
+@import '../material/assets/scss/base/typography'; // type
+
+// Bootstrap components
+// Components covered in Bootstrap's css but not in Material design
+
+@import '../material/assets/scss/bootstrap/alert';
+// @import '../material/assets/scss/bootstrap/badge';
+@import '../material/assets/scss/bootstrap/breadcrumb';
+// @import '../material/assets/scss/bootstrap/carousel';
+// @import '../material/assets/scss/bootstrap/close';
+// @import '../material/assets/scss/bootstrap/code';
+@import '../material/assets/scss/bootstrap/forms';
+@import '../material/assets/scss/bootstrap/images';
+// @import '../material/assets/scss/bootstrap/jumbotron';
+// @import '../material/assets/scss/bootstrap/media';
+@import '../material/assets/scss/bootstrap/nav';
+@import '../material/assets/scss/bootstrap/pagination';
+// @import '../material/assets/scss/bootstrap/popover';
+// @import '../material/assets/scss/bootstrap/responsive-embed';
+@import '../material/assets/scss/bootstrap/transitions';
+
+// Material components
+// Components covered in Material design (https://material.google.com/components)
+
+@import '../material/assets/scss/material/buttons';
+@import '../material/assets/scss/material/button-flat';
+@import '../material/assets/scss/material/button-float';
+// @import '../material/assets/scss/material/button-group';
+@import '../material/assets/scss/material/card';
+@import '../material/assets/scss/material/chip';
+// @import '../material/assets/scss/material/dark-theme';
+@import '../material/assets/scss/material/data-table'; // tables
+@import '../material/assets/scss/material/dialog'; // modal
+@import '../material/assets/scss/material/expansion-panel'; // list-group
+@import '../material/assets/scss/material/menu'; // dropdown
+@import '../material/assets/scss/material/navdrawer';
+// @import '../material/assets/scss/material/picker';
+// @import '../material/assets/scss/material/progress';
+// @import '../material/assets/scss/material/progress-circular'; // spinners
+@import '../material/assets/scss/material/selection-control'; // custom-forms
+@import '../material/assets/scss/material/sliders';
+@import '../material/assets/scss/material/snackbars'; // toasts
+// @import '../material/assets/scss/material/stepper';
+// @import '../material/assets/scss/material/tab';
+@import '../material/assets/scss/material/text-field';
+@import '../material/assets/scss/material/text-field-box';
+@import '../material/assets/scss/material/text-field-floating-label';
+@import '../material/assets/scss/material/text-field-input-group'; // input-group
+@import '../material/assets/scss/material/toolbar'; // navbar
+@import '../material/assets/scss/material/tooltip';
+
+// Utilities
+
+@import '../material/assets/scss/utilities';
+
+// Very basic print styles
+
+@import '../material/assets/scss/print';
