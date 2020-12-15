@@ -12,7 +12,8 @@
 https://github.com/purifycss/purifycss
 - https://github.com/thedaviddias/Front-End-Checklist
 - Fix Substituts nicotiniques  
-https://dev.to/5t3ph/pure-css-custom-styled-radio-buttons-3dm5
+https://cloudfour.com/thinks/styling-complex-labels/  
+https://dev.to/5t3ph/pure-css-custom-styled-radio-buttons-3dm5  
 https://uglyduck.ca/easy-custom-radio-inputs/
 - Partager
 - Doctissimo

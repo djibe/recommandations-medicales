@@ -189,7 +189,9 @@ graph TB
 - [HAS et CNPHGE. Traitement de l’infection par Helicobacter pylori chez l’adulte. Mai 2017.](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf)
 - [Groupe d'Études Français des Helicobacter (GEFH). Site officiel.](http://www.helicobacter.fr/)
 
-TODO: http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/diagnostic-traitement-et-suivi-deradication/suivi-de-leradication/
-https://www.has-sante.fr/jcms/c_2911396/fr/helicobacter-pylori-recherche-et-traitement
+TODO:
+
+- http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/diagnostic-traitement-et-suivi-deradication/suivi-de-leradication/
+- https://www.has-sante.fr/jcms/c_2911396/fr/helicobacter-pylori-recherche-et-traitement
 
 {{% /collapse %}}

@@ -6,14 +6,14 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-27T17:43:41+02:00
 publishdate = 2020-10-27
-lastmod = 2020-10-27
+lastmod = 2020-12-15
 categories = ["dermatologie"]
 guidelineyears = "2003"
 sources = ["ANAES", "SFDermato"]
-tags = ["anti-histaminiques"]
+tags = ["angio-oedeme", "anti-histaminiques", "histamine"]
 anglais = ["Urticaria"]
 sctid = "126485001"
-draft = true
+draft = false
 todo = "scinder"
 +++
 
@@ -78,9 +78,14 @@ Angio-œdème vibratoire
 
 {{% /collapse %}}
 {{%collapse "Signes de gravité" %}}
-Signes de gravité TODO:
+
+{{%warning%}}
+**Signes de gravité de l'urticaire**:
+
 - Dysphonie
 - Troubles de la déglutition
+
+{{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -93,12 +98,12 @@ Le diagnostic d'urticaire est clinique.
 Atopie, urticaire, maladie générale.
 - Traitements pris  
 Histamino-libérateurs: surtout **IEC/sartans**, **AINS/aspirine**, **codéine/morphiniques**.  
-Aussi: curares et bêtalactamines (égalemment allergie vraie), vancomycine, PDC iodés, atropine, pentamidine, polymyxine B, macromolécules.
+Voir plus bas *Aliments et médicaments histamino-libérateurs*.
 - Habitudes alimentaires    
-Aliments riches en *histamine* et *histamino-libérateurs* (TODO:)
+Aliments riches en *histamine* et *histamino-libérateurs* (voir *Aliments et médicaments histamino-libérateurs*.)
 - Profession
 - Notion d'urticaire de contact (latex)
-- Facteur déclenchant d'*urticaire physique*  
+- Facteur déclenchant d'urticaire physique  
 Effort, frottement, pression, chaleur, froid, eau, exposition solaire, vibrations.
 - Stress
 - Signes 
@@ -221,15 +226,88 @@ Essayer successivement tous les antihistaminique anti-H1 si échec et adresser a
 
 ##### Urticaire chronique physique  
 
-Anti-histaminique H1 au long cours.
+Anti-histaminique anti-H1 au long cours.
 
 ##### Urticaire chronique de contact
 
 Éviction de l'allergène.
 
 {{% /collapse %}}
+{{%collapse "Aliments et médicaments histamino-libérateurs" %}}
+
+Substances pouvant provoquer une *dégranulation mastocytaire*.  
+Il n'y a pas d'interdit a priori. Mais le patient utilise cette liste pour identifier une substance causale.
+
+### Aliments riches en histamine
+
+- Conserves de poissons
+- Poissons fumés
+- Fruits de mer
+- Charcuterie, choucroute
+- Petits pois
+- Fromages fermentés  
+Gruyère, brie, roquefort.
+- Chocolat
+- Levure de bière
+- Tomate, chou, épinard
+- Avocat, figue, raisin
+- Vin
+
+### Aliments histamino-libérateurs
+
+- Alcool  
+Vin, bières, cidre, liqueurs.
+- Crustacés, poissons à chair rouge (thon, maquereau, saumon), sardines, anchois, hareng
+- Charcuterie
+- Gibier faisandés, abats
+- Choucroute
+- Fromages à pâte cuite  
+Gruyère, emmental, beaufort, gouda, cheddar.
+- Chocolat
+- Tomate et sauce tomate, lentille, haricot, fève, petits pois
+- Fraise, agrumes, banane, ananas, fruits exotiques
+- Fruits à coque  
+Cacahuète, noix, noisette.
+- Blanc d’œuf en quantité importante
+- Épices (aliments très épicés), sauce Nuoc Man
+- Abus de caféine ou thé
+
+### Médicaments
+
+- Aspirine et salicylés
+- AINS
+- Morphiniques, opiacés, codéine
+- Produits de contraste iodés
+- Antibiotiques  
+Bêtalactamines (égalemment allergie vraie) polymyxine B, colimycine, néomycine, vancomycine.
+- Curares (égalemment allergie vraie)
+- Atropine
+- Protamine
+- Amphétamines
+- Macromolécules  
+Dextran, gélatines modifiées.
+- Antihypertenseurs
+Népressol, réserpine, hydralazine, trasipressol.
+- Alpha-chymotrypsine, ACTH
+- Thiamine, quinine, scopolamine, pilocarpine
+- Vitamine B1
+- Anesthésiques généraux  
+Tubocurarine, halothane.
+
+### Facteurs physiques
+
+- Variations brutales de température
+- Bains chauds, épilation
+- Chaleur, fièvre
+- Stress et émotions, efforts physiques
+- Coups, traumatismes
+- Interventions chirurgicales
+- Piqûres de guêpes, d’abeilles, morsures de serpents
+
+{{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Necker. Facteurs susceptibles d’induire la dégranulation mastocytaire](http://www.maladiesrares-necker.aphp.fr/facteurs-susceptibles-dinduire-la-degranulation-mastocytaire/)
 - [ANAES/SFDermato. Conférence de consensus - Prise en charge de l'urticaire chronique. 08/01/2003](https://www.has-sante.fr/upload/docs/application/pdf/urticaire_court.pdf)
 
 {{% /collapse %}}

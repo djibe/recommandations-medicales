@@ -6,15 +6,15 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-02T17:43:41+02:00
 publishdate = 2020-10-02
-lastmod = 2020-10-03
+lastmod = 2020-12-15
 categories = ["dermatologie"]
 guidelineyears = "2000"
-sources = []
+sources = ["CEDEF"]
 tags = ["prurit"]
 anglais = ["Itching"]
 sctid = "418290006"
 draft = false
-todo = "Prescrire, sources, médicaments, algo"
+todo = "Prescrire, médicaments, algo, dermato-info"
 +++
 
 {{%article-summary%}}
@@ -25,7 +25,16 @@ todo = "Prescrire, sources, médicaments, algo"
 {{%collapse "Définition" %}}
 
 Prurit
-: Sensation de démangeaison.
+: Sensation de démangeaison localisée ou généralisée, atteignant la peau ou certaines muqueuses.
+
+Prurit physiologique
+: Discret, principalement le soir ou lors du déshabillage.
+
+Prurit pathologique
+: Prurit entraînant des **lésions de grattage** ou ayant un retentissement sur la vie quotidienne.
+
+Prurigo
+: Lésions provoquées par le grattage.
 
 {{% /collapse %}}
 {{%collapse "Étiologie" %}}
@@ -72,6 +81,8 @@ Pathologie psychiatrique associée, événement stressant.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
+
+Le prurit est un diagnostic d'interrogatoire.
 
 ### Interrogatoire
 
@@ -139,6 +150,7 @@ Substitution d'un traitement suspect.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-
+- [CEDEF. Item 113 - UE 4. Prurit. Ann Dermatol Venereol. 2018](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2481.pdf)
+- [Dermato-info. Le prurit et le prurigo.](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-prurit-et-le-prurigo)
 
 {{% /collapse %}}

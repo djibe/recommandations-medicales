@@ -133,7 +133,7 @@
 
     // Don't follow external sources
     document.addEventListener("DOMContentLoaded", function(event) { // When DOM is ready
-      let externalSources = document.querySelectorAll('#sources + div a');
+      let externalSources = document.querySelectorAll('#sources + section a');
       externalSources.forEach((elem) => {
         elem.setAttribute('target', '_blank')
         elem.setAttribute('rel', 'nofollow noopener')

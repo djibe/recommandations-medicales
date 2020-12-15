@@ -36,14 +36,37 @@ main {
   }
 }
 
-.external-link::after {
-  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%236200ee' height='24' viewBox='0 0 24 24' width='24'%3E%3Cpath d='M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z'/%3E%3C/svg%3E") 100% 50%/18px 18px no-repeat;
+%material-icon {
   content: '';
   display: inline-block;
   height: 24px;
-  margin-left: 4px;
-  vertical-align: text-bottom;
+  transition: transform 280ms;
   width: 24px;
+}
+
+%material-icon-content {
+  display: inline-block;
+  vertical-align: text-top;
+} 
+
+.external-link::after {
+  @extend %material-icon-content;
+  content: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" height="18" viewBox="0 0 24 24" fill="red" width="18"%3E%3Cpath d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/%3E%3C/svg%3E');
+  margin-left: 4px;
+}
+
+.navbar-toggler-icon {
+  font-size: 1rem;
+  line-height: 1rem;
+}
+
+.navbar-toggler-icon::before {
+  @extend %material-icon-content;
+  content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white' width='24px' height='24px'%3E%3Cpath d='M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z'/%3E%3C/svg%3E");
+}
+
+.navbar-toggler:not(.collapsed) .navbar-toggler-icon {
+  content: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" fill="white" width="24"%3E%3Cpath d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/%3E%3C/svg%3E');
 }
 
 // List pages
