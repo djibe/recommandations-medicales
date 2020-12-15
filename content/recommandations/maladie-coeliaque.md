@@ -267,11 +267,11 @@ graph TB
   personneARisque["Personne à risque"] --> examen
   style personneARisque stroke:#0077ff, stroke-width:1px
     examen --> gastro("Consultation du gastro-entérologue")
-      gastro --"Diagnostic de maladie coœliaque"--> traitement("<b>Éviction du gluten à vie</b><br>Surveillance clinico-biologique<br>Bilan diététique<br>Dépistage de l'entourage")
+      gastro --"Diagnostic de maladie cœliaque"--> traitement("<b>Éviction du gluten à vie</b><br>Surveillance clinico-biologique<br>Bilan diététique<br>Dépistage de l'entourage")
       gastro --"Diagnostic infirmé"--> explo("Poursuite du bilan<br>par le spécialiste")
 {{< /mermaid >}}
 
-> Algorithme de prise en charge de la maladie coœliaque d'après EssCD 2019.
+> Conduite à tenir en cas de suspicion de maladie coœliaque d'après EssCD 2019.
 
 {{% /collapse %}}
 {{%collapse "FMC" %}}

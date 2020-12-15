@@ -7,10 +7,13 @@
 - Merge SASS
 - Bandeau lat
 - Police
+- https://github.com/algolia/algoliasearch-netlify/blob/master/docs/GettingStarted.md
 - Purify or PurgeCSS ?  
 https://github.com/purifycss/purifycss
 - https://github.com/thedaviddias/Front-End-Checklist
-- Fix Substituts nicotiniques
+- Fix Substituts nicotiniques  
+https://dev.to/5t3ph/pure-css-custom-styled-radio-buttons-3dm5
+https://uglyduck.ca/easy-custom-radio-inputs/
 - Partager
 - Doctissimo
 - check SERP: https://www.referencement.com/simulateur-serp-pixels/

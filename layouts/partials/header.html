@@ -10,10 +10,6 @@
 
   <!-- CSS -->
   <link rel="stylesheet" {{ printf "href=%q" .Site.Params.cdn.md_font | safeHTMLAttr }} crossorigin>
-  <!--<link rel="stylesheet" {{ printf "href=%q" .Site.Params.cdn.md_icons | safeHTMLAttr }}>-->
-  <!--<link rel="stylesheet" {{ printf "href=%q" .Site.Params.cdn.material_css | safeHTMLAttr }}>-->
-  {{ $material := resources.Get "css/material.css" | postCSS | minify | fingerprint }}
-  <link rel="stylesheet" href="{{ $material.Permalink }}">
-  <!-- Inline small style -->
-  {{ with resources.Get "sass/style.scss" | toCSS | postCSS | minify }}<style>{{ .Content | safeCSS }}</style>{{ end }}
+  {{ $sass := resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $sass.Permalink }}">
 </head>
