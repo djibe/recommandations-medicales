@@ -23,6 +23,10 @@ h1 {
   font-weight: 400;
 }
 
+dd + dt {
+  margin-top: 32px;
+}
+
 main {
   display: flex;
   min-height: 100%;
@@ -55,7 +59,7 @@ main {
 
 .external-link::after {
   @extend %material-icon-content;
-  content: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" height="18" viewBox="0 0 24 24" fill="red" width="18"%3E%3Cpath d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/%3E%3C/svg%3E');
+  content: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" height="18" viewBox="0 0 24 24" fill="%230077ff" width="18"%3E%3Cpath d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/%3E%3C/svg%3E');
   margin-left: 4px;
 }
 
@@ -127,7 +131,7 @@ h4 {
 .site-title {
   h1 {
     font-size: calc(1.525rem + 3.3vw);
-    line-height: 1;
+    line-height: 1.1;
 
     @media (min-width: 768px){
       & {
@@ -166,6 +170,13 @@ h4 {
 .recommandation {
   h1 {
     line-height: 1;
+  }
+}
+
+.recommandation__info {
+  .typography-overline {
+    color: #616161;
+    margin-bottom: 0;
   }
 }
 
@@ -251,7 +262,7 @@ h4 {
 
     h2 {
       border-top: 0;
-      color: var(--primary);
+      color: var(--secondary);
       margin: 0 0 1rem;
       padding: 0;
 
@@ -477,6 +488,10 @@ blockquote {
 
 .chip-primary:hover {
   filter: brightness(86%);
+}
+
+.navbar-brand {
+  font-weight: 600;
 }
 
 .navdrawer-nav .nav-link {

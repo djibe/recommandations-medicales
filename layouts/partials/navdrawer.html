@@ -2,7 +2,7 @@
    <div class="navdrawer-content custom-scrollbar">
       <div class="d-flex flex-column min-vh-100">
          <div class="navdrawer-header">
-            <a class="navbar-brand" href="/">Univ Médicale</a>
+            <a class="navbar-brand" href="/">{{ .Title }}</a>
          </div>
          <div class="navdrawer-nav">
             {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}

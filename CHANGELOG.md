@@ -2,11 +2,8 @@
 
 ## TODO
 
-- Fix: chevron-right, menu
-- Check italic
-- Merge SASS
-- Bandeau lat
 - Police
+- Bandeau lat
 - https://github.com/algolia/algoliasearch-netlify/blob/master/docs/GettingStarted.md
 - Purify or PurgeCSS ?  
 https://github.com/purifycss/purifycss

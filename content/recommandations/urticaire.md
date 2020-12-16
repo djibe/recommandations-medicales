@@ -20,9 +20,10 @@ todo = "scinder"
 {{%article-summary%}}
 
 - Pas de corticoïdes (effet rebond)
-- Anti-histaminiques H1 seuls
-- Bilan uniquement en urticaire chronique
-- **Une** urticaire et un **é**dème (œdème)
+- Anti-histaminique anti-H1 seul
+- Bilan uniquement en urticaire chronique résistant
+- **Une** urticaire et un **é**dème {{%class%}}(œdème){{%/class%}}
+- Pour l'enfant, lire [Urticaire aiguë de l’enfant](https://pap-pediatrie.fr/urticaire-aigue-de-lenfant)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

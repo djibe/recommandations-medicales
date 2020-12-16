@@ -5,31 +5,31 @@
       <img class="img-fluid"
         src="https://via.placeholder.com/640x360"
         alt="Image de {{ .Title }}">
-      <div class="px-3">
+      <div class="px-3 recommandation__info">
         {{ with .Params.Categories }}
-        <p class="typography-overline text-black-secondary mb-0">Système</p>
+        <p class="typography-overline">Système</p>
         <p class="font-weight-bold text-capitalize">{{ delimit . ", " }}</p>{{ end }}
 
         {{ with .Params.Auteurs }}
-        <p class="typography-overline text-black-secondary mb-0">Rédacteur</p>
+        <p class="typography-overline">Rédacteur</p>
         <p class="font-weight-bold">{{ delimit . ", " }}</p>{{ end }}
 
         {{ with .Params.sources }}
-        <p class="typography-overline text-black-secondary mb-0">Sources</p>
+        <p class="typography-overline">Sources</p>
         <p class="font-weight-bold">{{ delimit . ", " }}</p>{{ end }}
 
         {{ with .Params.Anglais }}
-        <p class="typography-overline text-black-secondary mb-0">Anglais</p>
+        <p class="typography-overline">Anglais</p>
         <p lang="en">{{ delimit . ", " }}</p>{{ end }}
 
-        <p class="typography-overline text-black-secondary mb-0">Mots-clés</p>
+        <p class="typography-overline">Mots-clés</p>
         <div class="d-flex flex-wrap">{{ partial "widgets/tags-render.html" . }}</div>
 
         {{ with .Params.Sctid }}
-        <p class="typography-overline text-black-secondary mb-0" lang="en">SNOMED-CT</p>
+        <p class="typography-overline" lang="en">SNOMED-CT</p>
         <p><a href="https://browser.ihtsdotools.org/?perspective=full&conceptId1={{.}}&release=&languages=en" target="_blank" rel="nofollow noopener" data-toggle="tooltip" title="La terminologie médicale de référence">{{ . }}</a></p>{{ end }}
 
-        <p class="typography-overline text-black-secondary mt-4 mb-0">Dernières fiches</p>
+        <p class="typography-overline mt-4">Dernières fiches</p>
         {{ range first 4 ( where .Site.RegularPages "Section" "recommandations") }}
         <p class="typography-body-2">
           <a href="{{ .Permalink }}">{{ .Title }} <span class="text-muted ml-2">{{ .Lastmod.Format "2 Jan"}}</span></a>
@@ -49,11 +49,11 @@
             <div class="d-flex align-items-center">
             {{ with .Params.guidelineyears }}
             {{ $href := print (absURL "guidelineyears/") (urlize .) }}
-            <a class="chip chip-primary chip-action" href="{{ $href }}" data-toggle="tooltip" title="Toutes les recos de {{ . }}" data-placement="bottom">Reco {{ . }}</a>
+            <a class="chip chip-secondary" href="{{ $href }}" data-toggle="tooltip" title="Toutes les recos de {{ . }}" data-placement="bottom">Reco {{ . }}</a>
             {{ end }}
 
-            {{ with .Lastmod }}        
-              <span class="chip chip-outline">Mise à jour <time class="ml-1" datetime="{{.Format "2006-01-02T15:04:05Z07:00" | safeHTML}}">{{ if eq .Year now.Year }}{{ .Format "2 Jan" }}{{ else }}{{ .Format "2 Jan 2006" }}{{ end }}</time></span>
+            {{ with .Lastmod }}
+              <span class="chip chip-outline">Mis à jour <time class="ml-1" datetime="{{.Format "2006-01-02T15:04:05Z07:00" | safeHTML}}">{{ if eq .Year now.Year }}{{ .Format "2 January" }}{{ else }}{{ .Format "2 January 2006" }}{{ end }}</time></span>
             {{ end }}
 
             {{- range .Params.auteurs }}
@@ -62,11 +62,10 @@
               {{ end }}
             {{ end }}
 
-              <button class="ml-auto btn btn-icon text-black-secondary d-print-none d-none d-lg-flex" type="button" onclick="javascript:window.print()" data-toggle="tooltip" title="Imprimer la reco">
+              <button class="ml-auto btn btn-icon text-black-secondary d-print-none d-none d-lg-flex" type="button" aria-label="Imprimer la page" onclick="javascript:window.print()" data-toggle="tooltip" title="Imprimer la reco">
                 <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M19 8h-1V3H6v5H5c-1.66 0-3 1.34-3 3v6h4v4h12v-4h4v-6c0-1.66-1.34-3-3-3zM8 5h8v3H8V5zm8 12v2H8v-4h8v2zm2-2v-2H6v2H4v-4c0-.55.45-1 1-1h14c.55 0 1 .45 1 1v4h-2z"/><circle cx="18" cy="11.5" r="1"/></svg>
               </button>
             </div>
-
             <div class="mt-4 recommandation__content">
               {{ .Content }}
             </div>
