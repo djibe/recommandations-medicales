@@ -3,6 +3,7 @@
 ## TODO
 
 - Police
+- https://developers.google.com/style/tables
 - Bandeau lat
 - https://github.com/algolia/algoliasearch-netlify/blob/master/docs/GettingStarted.md
 - Purify or PurgeCSS ?  

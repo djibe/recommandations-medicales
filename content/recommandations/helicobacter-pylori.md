@@ -155,7 +155,7 @@ graph TB
       grossesse -- Oui --> reporter("Reporter le<br>traitement")
 {{< /mermaid >}}
 
-> Arbre décisionnel. Traitement de l'Helicobacter pylori. D'après [HAS/CNPHGE 2017](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf).
+> Arbre décisionnel. Traitement de l'Helicobacter pylori guidé par antibiogramme. JB FRON d'après [HAS/CNPHGE 2017](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf).
 
 ### Traitement probabiliste en l'absence de l'antibiogramme d'H. pylori
 
@@ -176,6 +176,8 @@ graph TB
     grossesse -- Oui --> reporter("Reporter le<br>traitement")
 
 {{< /mermaid >}}
+
+> Arbre décisionnel. Traitement de l'Helicobacter pylori en l'absence d'antibiogramme. JB FRON d'après [HAS/CNPHGE 2017](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf).
 
 {{% /collapse %}}
 {{%collapse "Informations du patient" %}}
