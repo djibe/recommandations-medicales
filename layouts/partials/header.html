@@ -10,6 +10,11 @@
 
   <!-- CSS -->
   <link rel="stylesheet" {{ printf "href=%q" .Site.Params.cdn.md_font | safeHTMLAttr }} crossorigin>
-  {{ $sass := resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint }}
+  {{ $sass := "" }}
+  {{ if hugo.IsProduction }}
+    {{ $sass = resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint }}
+  {{ else }}
+    {{ $sass = resources.Get "sass/style.scss" | toCSS }}
+  {{ end }}
   <link rel="stylesheet" href="{{ $sass.Permalink }}">
 </head>

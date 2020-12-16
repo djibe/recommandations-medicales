@@ -8,8 +8,8 @@
             {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
                {{ if eq "categories" $taxonomyname }}
                   {{ range $category, $pageOfCategory := $taxonomy }}
-                  <a class="nav-item nav-link collapsed text-capitalize" data-toggle="collapse"
-                     href="#navdrawer-{{ $category | urlize }}">{{ $category | truncate 20 }} <span class="text-muted ml-2">{{ len $pageOfCategory }}</span></a>
+                  <a class="nav-item nav-link collapsed" data-toggle="collapse"
+                     href="#navdrawer-{{ $category | urlize }}">{{ $category | truncate 20 }}</a>
                   <div class="collapse" id="navdrawer-{{$category | urlize | lower}}">
                      {{ range $pageOfCategory.Pages.ByTitle }}
                      <a class="nav-sub" href="{{ .Permalink }}">{{ .Title }}</a>
