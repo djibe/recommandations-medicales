@@ -19,7 +19,9 @@ draft = true
 {{%article-summary%}}
 
 - L’absence de pic étroit à l'EPS ne permet pas d’écarter le diagnostic de myélome à chaînes légères (10 % des myélomes) ou non sécrétant.
-TODO:
+- Indications limitées de la réalisation de l'EPS (voir *Indications*)
+- Compléter la découverte du pic monoclonal avec le bilan adapté (voir *Examens complémentaires*)
+- En cas de suspicion d'hémopathie (voir *Qui adresser au spécialiste?*), adresser rapidement au spécialiste. Sinon surveillance à 6 mois puis annuelle.
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -75,7 +77,7 @@ Bilan minimal de première intention en présence d'un pic monoclonal d'immunogl
 {{% /collapse %}}
 {{%collapse "Qui adresser au spécialiste?" %}}
 
-Personnes avec suspicion d'hémopathie maligne:
+Personnes avec suspicion d'hémopathie maligne devant être adressées rapidement au spécialiste:
 
 {{%warning%}}
 - Patient < 60 ans
@@ -98,9 +100,9 @@ Voir *Surveillance* pour les patients non adressés.
 
 Lorsque le patient présente une immunoglobuline monoclone de façon asymptomatique, sans anomalie biologique ni radiologique, une surveillance simple est nécessaire (voir *Qui adresser au spécialiste?*).
 
-**Surveillance à 6 mois de la découverte puis annuelle**.
+**Surveillance à 6 mois de la découverte puis annuelle**:
 
-- Surveillance de l'EPS  
+- Électrophorèse des protéins sériques
 Dans le même laboratoire avec la même technique.
 - NFS
 - Créatininémie
@@ -112,6 +114,6 @@ Dans le même laboratoire avec la même technique.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [HAS. Quand prescrire une électrophorèse des protéines sériques (EPS) et conduite à tenir en cas d’une immunoglobuline monoclonale. Janvier 2017](https://www.has-sante.fr/upload/docs/application/pdf/2017-01/dir1/fiche_memo_eps__v2.pdf)
+[HAS. Quand prescrire une électrophorèse des protéines sériques (EPS) et conduite à tenir en cas d’une immunoglobuline monoclonale. Janvier 2017](https://www.has-sante.fr/upload/docs/application/pdf/2017-01/dir1/fiche_memo_eps__v2.pdf)
 
 {{% /collapse %}}

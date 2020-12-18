@@ -3147,7 +3147,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
   display: flex;
   flex-wrap: wrap;
   min-height: 3.25rem;
-  padding: 0 0.5rem;
+  padding: 0.5rem;
 }
 
 .card-actions.flex-column {
@@ -3160,7 +3160,9 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 }
 
 .card-body + .card-actions {
+  background-color: #ffffff;
   margin-top: -0.5rem;
+  z-index: 1;
 }
 
 .card-actions .btn, .card-actions .card-link {

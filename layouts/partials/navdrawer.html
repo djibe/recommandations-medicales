@@ -1,8 +1,8 @@
 <nav class="navdrawer navdrawer-permanent-lg doc-navdrawer" id="doc-navdrawer" tabindex="-1">
    <div class="navdrawer-content custom-scrollbar">
       <div class="d-flex flex-column min-vh-100">
-         <div class="navdrawer-header">
-            <a class="navbar-brand" href="/">{{ .Title }}</a>
+         <div class="navdrawer-header text-primary">
+            <a class="navbar-brand" href="/">{{ .Site.Title }}</a>
          </div>
          <div class="navdrawer-nav">
             {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}

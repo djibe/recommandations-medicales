@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-23T22:24:41+02:00
 publishdate = 2020-10-23
-lastmod = 2020-10-23
+lastmod = 2020-12-17
 categories = ["rhumatologie"]
 guidelineyears = "2018"
 sources = ["SFRhumato", "EULAR", "ACR"]
@@ -14,12 +14,16 @@ tags = ["polyarthrite", "anti-TNF", "methotrexate"]
 anglais = ["Rheumatoid arthritis"]
 sctid = "69896004"
 draft = false
-todo = "lire la reco, 1re ordo, scores"
+todo = "1re ordo, scores"
 +++
 
 {{%article-summary%}}
 
-TODO
+- Évoquer devant toute arthrite, dérouillage > 30 min, douleur en pression des MCP/MTP.
+- Une suspicion de PR nécessite un diagnostic et traitement rapide.
+- Prescrire le bilan biologique avec les radios pour adresser au rhumatologue dans les 6 semaines (voir *Examens complémentaires*).
+- Le traitement spécifique relève exclusivement du rhumatologue.
+- Dépistage des cancers, facteurs de risque cardiovasculaire, dTP tous les 10 ans, pneumocoque 5 ans.
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -31,16 +35,16 @@ La destruction articulaire entraîne altération de la qualité de vie, handicap
 : Intérêt des diagnostic et traitement précoces.
 
 Scores d'activité de la polyarthrite rhumatoïde
-: DAS28 (Disease Activity Score 28)
-: SDAI (Simplified Disease Activity Index)
-: CDAI (Clinical Disease Activity Index)
+: {{%lang%}}DAS28 (Disease Activity Score 28){{%/lang%}}
+: {{%lang%}}SDAI (Simplified Disease Activity Index){{%/lang%}}
+: {{%lang%}}CDAI (Clinical Disease Activity Index){{%/lang%}}
 
 Rémission de la polyarthrite rhumatoïde
-: Score DAS28 < 2,6.
+: Lorsque le score DAS28 est < 2,6.
 
 Traitements conventionnels
 : Méthotrexate, léflunomide ou sulfasalazine.  
-Ils sont appelés **csDMARDs** par l’EULAR (conventional synthetic Disease Modifying AntiRheumatic Drugs).
+Ils sont appelés **csDMARDs** par l’EULAR ({{%lang%}}conventional synthetic Disease Modifying AntiRheumatic Drugs{{%/lang%}}).
 
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques ACR/EULAR" %}}
@@ -51,6 +55,8 @@ Ils sont appelés **csDMARDs** par l’EULAR (conventional synthetic Disease Mod
 {{%collapse "Clinique" %}}
 
 {{%warning%}}Un patient avec arthrite atteignant plus d’une articulation devrait rencontrer le rhumatologue dans les 6 semaines suivant l’apparition des symptômes.{{%/warning%}}
+
+Évoquer une polyarthrite rhumatoïde devant toute arthrite clinique, raideur matinale > 30 minutes, douleurs à la pression transverse des mains (MCP) ou avant-pieds (MTP), évolution > 1 an, antécédent de PR hcer un parent au 1<sup>er</sup> degré, difficultés à fermer le poing.
 
 L’examen clinique a une place primordiale dans la détection et le traitement de l’arthrite.
 
@@ -103,28 +109,26 @@ Goutte, chondrocalcinose articulaire
 {{% /collapse %}}
 {{%collapse "Facteurs de mauvais pronostic" %}}
 
-1. Niveau modéré (après traitement conventionnel) ou élevé d'activité aux scores composites de surveillance
-2. High acute phase reactant levels
-3. Nombreuses articulations enflées
-4. Facteur rhumatoïde et/ou anticorps anti-CCP (surtout si taux élevés)
-5. Association des éléments ci-dessus
-6. Érosions précoces
-7. Échec d’au moins 2 traitements conventionnels (voir Traitement)
+- Érosions précoces
+- Présence de facteur rhumatoïde et d'ACPA (surtout si taux élevés ≥ 3N)
+- Persistance d'une activité modérée à forte sous traitement conventionnel avec niveau élevé de VS et CRP et/ou nombre élevé d'articulations gonflées
+- Échec de ≥ 2 traitements conventionnels
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 ### Biologie
 
-{{%info%}}Bilan de 1re intention
+{{%info%}}Bilan de 1<sup>re</sup> intention
 
 - NFS, VS, CRP
 - ASAT, ALAT
-- Créatininémie
+- Créatininémie, CDK-EPI
 - Bandelette urinaire (protéinurie, hématurie)
 - Facteur rhumatoïde (FR)
 - Anticorps anti-peptide citruliné (ACPA)
 - Anticorps antinucléaires (AAN)
+- Sérologie hépatites B et [C]({{< ref "hepatite-c.md">}})
 
 {{%/info%}}
 
@@ -133,8 +137,6 @@ Selon le contexte:
 - Sérologie de borréliose (Maladie de Lyme)
 - Uricémie
 - Ponction et culture de liquide synovial
-
-Pré-thérapeutique: Sérologies des hépatite B et C.
 
 ### Radiographies
 
@@ -150,26 +152,62 @@ Confirme synovite dans certains cas. Peut être complété par l'IRM.
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-**Objectif:** rémission clinique (absence de signes ou symptômes inflammatoires significatifs) ou plus faible activité possible.  
-**Rémission:** DAS28 < 2,6.
+**La décision du traitement dépend du rhumatologue, partagée avec le patient.**
 
-- Suivi spécialisé par rhumatologue systématique
+- Déclaration à 100%  
+ALD 22-Polyarthrite évolutive.
+- AINS  
+Si symptomatique et état rénal ou cardio-vasculaire correct.
+- **Éducation thérapeutique**  
+Gérer la douleur, handicap, observance, maintien de l’activité professionnelle.
+- **Suivi bucco-dentaire rigoureux**
+- Mise à jour du [calendrier vaccinal]({{< ref "vaccination.md">}})  
+dTP tous les 10 ans, pneumocoque tous les 5 ans.
+- Mise à jour des dépistages des cancers
+- Arrêt du tabac
+- Correction des facteurs de risque cardiovasculaires
+  - Risque SCORE
+  - Activité physique régulière
+  - Régimé méditerranéen
+  - Echodoppler des TSA  
+  Classer à haut risque CV si plaques carotidiennes.
+- Si méthotrexate:
+  - Prise unique hebdomadaire
+  - acide folique 10 mg/semaine systématique.
+- Association de patients  
+[AFPric](https://www.polyarthrite.org/), [ANDAR](http://www.polyarthrite-andar.com/)
+- Proposer un soutien psychologique
+- Accompagnement socioprofessionnel
+- Rééducation fonctionnelle
+- Kinésithérapie, exercices dynamiques
+- Ergothérapie, balnéothérapie
+- Pédicurie-podologie
+- Diététique
+- Chirurgie
+
+{{% /collapse %}}
+{{%collapse "Traitements spécifiques de la PR" %}}
+
+{{%info%}}Chapitre pour en savoir plus sur les traitements de fond de la PR. Ceux-ci relèvent exclusivement du rhumatologue.{{%/info%}}
+
+**Objectif:** rémission clinique (absence de signes ou symptômes inflammatoires significatifs) ou plus faible activité possible.  
+**Rémission:** absence de signes et symptômes d'activité inflammatoire significative.
+
 - Prévention des complications: cardiovasculaires, respiratoires, infectieuses, lymphomes et fractures ostéoporotiques.
-- Déclaration à 100% (ALD 22 - Polyarthrite évolutive)
+- Éducation thérapeutique
 
 ### Traitement de fond conventionnel
 
 Systématique "en urgence" dès le diagnostic. Même si ne remplit pas encore les critères de rhumatisme défini.
-Modifié si traitement inaugural est inactif à 3 mois ou à 6 mois si 2<sup>e</sup> ligne.
+Modifié en cas d'inefficacité à 3 mois (ou objectif thérapeutique non atteint à 6 mois).
 
-{{%info%}}**Méthotrexate (MTX)** en 1<sup>re</sup> intention, dose optimale (25mg/semaine) à atteindre en 1-2 mois.{{%/info%}}  
+{{%info%}}**Méthotrexate (MTX)** en 1<sup>re</sup> intention, dose optimale (25 mg/semaine) à atteindre en 4-8 semaines.{{%/info%}}  
 Débuter à 10-15 mg/mg en prise unique par semaine per os (Novatrex®, Imeth®, génériques),  
-augmentation de 5mg/1 à 4 semaines selon efficacité-tolérance.
+augmentation de 5 mg/1 à 4 semaines selon efficacité-tolérance.
 
 Voie sous-cutanée si efficacité insuffisante (Imeth injectable®, Metoject®, Nordimet®, génériques).
 
-Prise de 5 mg/semaine d’acide folique systématique.  
-Revue Cochrane®: pas de bénéfice de coupler le MTX à autre traitement de fond.
+Prise de 10 mg/semaine d’acide folique systématique.
 
 Décroissance de dose seulement après rémission persistante et prolongée.
 
@@ -184,16 +222,16 @@ En 2<sup>e</sup> intention.
 
 En association avec le méthotrexate (≥ 10 mg/semaine), selon la tolérance, parmi:
 
-- **Anti-TNFα**  
-Sous-cutanés: adalimumab (Humira®), certolizumab (Cimzia®), étanercept (Benepali®, Enbrel®), golimumab (Simponi®)  
-Intra-veineux : infliximab (Remicade®, Inflectra®, Remsima®)
-- Anti-IL6  
-Tocilizumab (Roactemra®)  
-Sarilumab (Kevzara®). N’apporte rien de nouveau.
+- **Anti-TNFα**
+  - Sous-cutanés: adalimumab (Humira®), certolizumab (Cimzia®), étanercept (Benepali®, Enbrel®), golimumab (Simponi®)
+  - IV: infliximab (Remicade®, Inflectra®, Remsima®)
+- Anti-IL6
+  - Tocilizumab (Roactemra®)
+  - Sarilumab (Kevzara®, n’apporte rien de nouveau selon Prescrire®)
 - Anti-CD20  
-Rituximab (pour cas spécifiques: Mabthera®, Truxima®)
+Rituximab (pour cas spécifiques: Mabthera®, Truxima®).
 - Modulateur de costimulation lymphocytes T  
-Abatacept (Orencia®)
+Abatacept (Orencia®).
 
 Relayer par un autre en inefficacité d’un.  
 Décroissance quand rémission persistante ≥ 6 mois et arrêt des corticoïdes (ou dose quotidienne ≤ 5 mg/j).  
@@ -209,47 +247,32 @@ OU rotation léflunomide - sulfasalazine.
 En attente de l’efficacité du traitement de fond ou lors du échange de traitement de fond.  
 Posologie initiale ex. 0,15 mg/kg.
 
-Arrêt sous 3 mois avec décroissance progressive (maximum 6 mois), dose minimale suffisante.  
-Complications fréquentes (ostéoporose, surinfections).  
-Alternative: méthylprednisolone IV 80-120 mg
+**Arrêt sous 3 mois avec décroissance progressive (maximum 6 mois)**, dose minimale suffisante.  
+Complications fréquentes: ostéoporose, surinfections.  
+Alternative: méthylprednisolone IV 80-120 mg.
 
 ### Infiltrations de corticoïdes
 
 Infiltrations ciblées des articulations douloureuses.
 
 {{% /collapse %}}
-{{%collapse "Autres traitements" %}}
-
-- AINS  
-Si symptomatique et état rénal ou cardio-vasculaire correct
-- **Suivi bucco-dentaire rigoureux**
-- **Éducation thérapeutique**  
-Gérer la douleur, handicap, maintien de l’activité professionnelle.
-- Association de patients
-- Correction des facteurs de risque cardiovasculaires
-- Soutien psychologique
-- Accompagnement socioprofessionnel
-- Rééducation fonctionnelle
-- Kinésithérapie, exercices dynamiques
-- Ergothérapie, balnéothérapie
-- Pédicurie-podologie
-- Diététique
-- Chirurgie
-
-{{% /collapse %}}
 {{%collapse "Surveillance" %}}
 
-- Tous les 1 à 3 mois tant que maladie active (tight control)
-- Nombre d’articulations douloureuses et gonflées
-- Indice articulaire DAS28
 - Biologique  
-VS, CRP, BU
+VS, CRP, BU.
 - Douleurs  
 EVA, réveils nocturnes, durée de la raideur.
-- Évaluation annuelle du retentissement  
-Échelle HAQ.
 - Radiographies  
 Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
+- Correction des facteurs de risque cardiovasculaire et risque SCORE
+
+### Pour en savoir plus: suivi par le rhumatologue
+
+- Par le rhumatologue tous les 1 à 3 mois tant que maladie active ({{%lang%}}"tight control"{{%/lang%}})
+- Nombre d’articulations douloureuses et gonflées
+- Indice articulaire DAS28
+- Évaluation annuelle du retentissement  
+Échelle HAQ.
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
@@ -259,10 +282,13 @@ Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
 - Progrès réalisés avec les traitements actuels
 - Efficacité et tolérance des traitements
 - Importance de l’observance et de la prise unique hebdomadaire de méthotrexate
+- Arrêt du tabac, contrôle cardiovasculaire, régime méditerranéen, vaccins, cancers, ostéoporose
 - Suivi clinico-bio-radiologique
 - Associations de malades
 - Prise en charge à 100% en ALD 22
 - Prévenir du risque de dépression sous anti-TNF
+
+**NB.** Régimes sans gluten et lactose n'ont pas fait preuve d'efficacité.
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

@@ -6,15 +6,15 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-27T17:43:41+02:00
 publishdate = 2020-10-27
-lastmod = 2020-12-15
+lastmod = 2020-12-17
 categories = ["dermatologie"]
 guidelineyears = "2003"
 sources = ["ANAES", "SFDermato"]
-tags = ["angio-oedeme", "anti-histaminiques", "histamine"]
+tags = ["angio-oedeme", "anti-histaminique", "histamine"]
 anglais = ["Urticaria"]
 sctid = "126485001"
 draft = false
-todo = "scinder"
+todo = "scinder, gs, enfant, choc anaphyla, Quincke"
 +++
 
 {{%article-summary%}}
@@ -29,16 +29,16 @@ todo = "scinder"
 {{%collapse "Définition" %}}
 
 Urticaire
-: Dermatose caractérisée par les lésions papuleuses, œdémateuses prurigineuses bien limitées en petits éléments ou confluants en **larges plaques mobiles et fugaces**.
+: Dermatose caractérisée par les lésions papuleuses, œdémateuses prurigineuses bien limitées en petits éléments ou confluants en **larges plaques fugaces, migratrices et prurigineuses**.
 : Réaction inflammatoire générée par la libération d’histamine par les mastocytes lors de leur rencontre avec un antigène.
 : Le plus souvent épisode unique et résolutif sans cicatrice ni lésion de grattage.
 
 Urticaire superficielle
-: Œdème **dermique uniquement**.
+: Œdème **dermiqique uniquement**.
 
 Urticaire profonde
 : Aussi appelée **angio-œdème** ou **œdème de Quicke** (en atteinte pharyngée). Souvent associée à la forme superficielle.
-: L'atteinte est dermo-hypodermique donnant une tuméfaction ferme, mal limitée, non prurigineuse (paupières et lèvres).  
+: L'atteinte est *dermo-hypodermique* donnant une tuméfaction ferme, mal limitée, non prurigineuse (paupières et lèvres).  
 Le pronostic vital est engagé en manifestations ORL (dysphonie, troubles de la déglutition).
 : Angio-œdème du visage: cause alimentaire chez l’enfant, médicamenteuse chez l’adulte.
 
@@ -84,7 +84,7 @@ Angio-œdème vibratoire
 **Signes de gravité de l'urticaire**:
 
 - Dysphonie
-- Troubles de la déglutition
+- Hypersalivation et troubles de la déglutition
 
 {{%/warning%}}
 

@@ -2,9 +2,11 @@
 
 ## TODO
 
-- Police
-- https://developers.google.com/style/tables
+- Responsive
 - Bandeau lat
+- Photo principale
+- separate JS
+- https://metatags.io/
 - https://github.com/algolia/algoliasearch-netlify/blob/master/docs/GettingStarted.md
 - Purify or PurgeCSS ?  
 https://github.com/purifycss/purifycss
