@@ -6,19 +6,21 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-27T17:43:41+02:00
 publishdate = 2020-10-27
-lastmod = 2020-12-17
-categories = ["dermatologie"]
+lastmod = 2020-12-21
+categories = ["allergologie", "dermatologie"]
 guidelineyears = "2003"
 sources = ["ANAES", "SFDermato"]
 tags = ["angio-oedeme", "anti-histaminique", "histamine"]
 anglais = ["Urticaria"]
 sctid = "126485001"
 draft = false
-todo = "scinder, gs, enfant, choc anaphyla, Quincke"
+todo = "Signes gravite, scinder, gs, enfant, choc anaphyla, Quincke, https://onlinelibrary.wiley.com/doi/full/10.1111/all.13397, https://www.dropbox.com/sh/9ivszpuwnxdp4t8/AAB04JahlYn6qounsCr-dQKwa/2019?dl=0&preview=Grille+capacit%C3%A9+urticaire+physique+Q4.docx&subfolder_nav_tracking=1, fiche"
 +++
 
 {{%article-summary%}}
 
+- Signes de gravité:  
+Dysphonie, hypersalivation et troubles de la déglutition.
 - Pas de corticoïdes (effet rebond)
 - Anti-histaminique anti-H1 seul
 - Bilan uniquement en urticaire chronique résistant
@@ -195,11 +197,20 @@ Biopsie cutanée.
 
 ### Traitement de l'urticaire aiguë
 
-- Éviction d'un médicament en cas de suspicion
-- Remettre la liste des aliments histamino-libérateurs
-- Anti-histaminique anti-H1 (seconde génération) pendant TODO:
+- Éviction d'un médicament en cas de suspicion.
+- Remettre la liste des aliments histamino-libérateurs.
+- Anti-histaminique anti-H1 (2G = seconde génération) pendant 2 semaines.  
+En cas d'échec à 2 semaines, augmenter la posologie jusqu'à x4 (EAACI/GA2LEN/EDF/WAO 2013).  
+TODO: 3e ligne de traitement:ajouter omalizumab (Xolair®) ou ciclosporine (Néoral®) ou antileucotriènes (Singulair®).
 
 **NB.** Pas de corticoïdes (risque d'effet rebond) ni de bilan allergologique (sauf orientation).
+
+#### Antihistaminiques anti-H1 de seconde génération
+
+Molécules peu ou pas sédatives de première intention (selon Prescrire): **Cétirizine** ou **loratadine**.
+
+**Autres molécules étudiées chez l'adulte:** Bilastine, desloratadine, fexofénadine, lévocétirizine, rupatadine.  
+**Autres molécules étudiées chez l'enfant:** Desloratadine, fexofénadine, lévocétirizine.
 
 ### Traitement de l'urticaire chronique
 
@@ -303,12 +314,37 @@ Tubocurarine, halothane.
 - Stress et émotions, efforts physiques
 - Coups, traumatismes
 - Interventions chirurgicales
-- Piqûres de guêpes, d’abeilles, morsures de serpents
+- Piqûres de guêpes, abeilles, morsures de serpents
+
+{{% /collapse %}}
+{{%collapse "Conduite à tenir" "show" %}}
+
+{{< mermaid >}}
+graph TB
+  UA["Urticaire aiguë"] --> gravite("<b>Signes de gravité ?</b><br>- Dysphonie<br>- Hypersalivation<br>- Troubles de la déglutition")
+  style UA stroke:#0077ff, stroke-width:1px
+    gravite -- Non --> tttUA("Anti-H1 2G 2 semaines")
+      tttUA -- Efficace --> Guérison
+      tttUA -- Persistance --> prolongation("Prolonger l'anti-H1 pendant<br>6 semaines") -- Persistance --> UC(Urticaire chronique)
+    gravite -- Oui --> urgence("Appel du 15<br>Traitement du choc<br>anaphylactique/Quincke")
+{{< /mermaid >}}
+
+> Figure. Conduite à tenir devant une urticaire aiguë. Dr JB FRON d'après CEILF.
+
+{{< mermaid >}}
+graph TB
+  UC["Urticaire chronique"] --> gravite
+  style UC stroke:#0077ff, stroke-width:1px
+{{< /mermaid >}}
+
+> Figure. Conduite à tenir devant une urticaire chronique. Dr JB FRON d'après ANAES 2003.
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Necker. Facteurs susceptibles d’induire la dégranulation mastocytaire](http://www.maladiesrares-necker.aphp.fr/facteurs-susceptibles-dinduire-la-degranulation-mastocytaire/)
+- [Hôpital Necker. Facteurs susceptibles d’induire la dégranulation mastocytaire.](http://www.maladiesrares-necker.aphp.fr/facteurs-susceptibles-dinduire-la-degranulation-mastocytaire/)
+- [Collège des Enseignants d'Immunologie de Langue Française. Item 114 : Urticaire et œdème de Quincke : diagnostic, étiologie, traitement.](http://campus.cerimes.fr/immunologie/enseignement/immuno_114a/site/html/cours.pdf)
+- [Dermato-info. L'urticaire.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99urticaire)
 - [ANAES/SFDermato. Conférence de consensus - Prise en charge de l'urticaire chronique. 08/01/2003](https://www.has-sante.fr/upload/docs/application/pdf/urticaire_court.pdf)
 
 {{% /collapse %}}

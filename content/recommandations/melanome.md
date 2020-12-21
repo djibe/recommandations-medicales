@@ -14,6 +14,8 @@ tags = ["naevus"]
 anglais = ["Malignant melanoma"]
 sctid = "2092003"
 draft = false
+image = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Melanoma.jpg/640px-Melanoma.jpg"
+imageSrc = "National Cancer Institute"
 +++
 
 {{%article-summary%}}

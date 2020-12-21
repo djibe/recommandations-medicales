@@ -31,16 +31,9 @@ Rattrapage vaccinal
 : "Si un retard est intervenu dans le programme de vaccination, il n'est pas nécessaire de recommencer. Il suffit de reprendre ce programme au stade où il a été interrompu et de compléter la vaccination en fonction de l'âge et du nombre de doses de vaccin manquantes" (INPES).
 
 {{% /collapse %}}
-{{%collapse "Calendrier vaccinal" %}}
+{{%collapse "Calendrier vaccinal" "show" %}}
 
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Table",
-    "about": "Calendrier vaccinal 2020"
-  }
-</script>
-{{< table title="Calendrier vaccinal 2020" >}}
+{{< table title="Calendrier vaccinal 2020 (Ministère de la Santé)" >}}
 | Âge     | Valences      | Spécialités équivalentes       |
 |:-------:|---------------|--------------------------------|
 | 2 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |

@@ -2,9 +2,18 @@
 <div class="container-fluid recommandation">
   <div class="row min-vh-100">
     <aside class="col-lg-3 col-xl-2 order-3 order-lg-1 d-flex flex-column px-0 d-print-none" id="recommandation-aside">
-      <img class="img-fluid"
-        src="https://via.placeholder.com/640x360"
-        alt="Image de {{ .Title }}">
+      <figure class="figure">
+        <img class="figure-img img-fluid rounded"
+          {{ with .Params.Image }}
+          src="{{ . }}"
+          {{ else }}
+          src="https://via.placeholder.com/640x360"
+          {{ end }}
+          alt="Image de {{ .Title }}">
+          {{ with .Params.ImageSrc }}
+            <figcaption class="figure-caption px-2">{{ . }}</figcaption>
+          {{ end }}
+      </figure>
       <div class="px-3 recommandation__info">
         {{ with .Params.Categories }}
         <p class="typography-overline">Système</p>
@@ -70,9 +79,9 @@
               {{ .Content }}
             </div>
           </article>
-          <!--<div class="col-xl-1">
+          <!--<aside class="col-xl-1">
             {{.TableOfContents}}
-          </div>-->
+          </aside>-->
         </div>
       </div>
   </div>

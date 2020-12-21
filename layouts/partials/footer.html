@@ -53,7 +53,7 @@
 <script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }}
   crossorigin defer></script>
 <script src="{{ .Site.Params.cdn.material_js}}" crossorigin async></script>
-<script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" crossorigin async></script>
+<script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" crossorigin></script>
 
 {{ if eq .Section "recommandations" }}
 <script src="https://cdn.jsdelivr.net/npm/mermaid@8.8.3/dist/mermaid.min.js" integrity="sha256-6gc5qw+D6x9boi0vM05uaTCVBaYVSo5kbl8dEC5wTmk=" crossorigin></script>

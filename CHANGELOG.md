@@ -2,7 +2,10 @@
 
 ## TODO
 
+- Check
 - Bandeau lat
+- Raccourcis: vaccins, cs enfant
+- MD
 - navdrawer toggle
 - Photo principale
 - separate JS
