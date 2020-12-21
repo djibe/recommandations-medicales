@@ -5,20 +5,20 @@
 - Responsive
 - Bandeau lat
 - Photo principale
+- Base and relative url  
+<base href={{.Site.BaseURL }} />  
+relativeURLs = true  
+.Permalink > .RelPermalink  
+ref > relref
 - separate JS
 - https://metatags.io/
 - https://github.com/algolia/algoliasearch-netlify/blob/master/docs/GettingStarted.md
 - Purify or PurgeCSS ?  
 https://github.com/purifycss/purifycss
 - https://github.com/thedaviddias/Front-End-Checklist
-- Fix Substituts nicotiniques  
-https://cloudfour.com/thinks/styling-complex-labels/  
-https://dev.to/5t3ph/pure-css-custom-styled-radio-buttons-3dm5  
-https://uglyduck.ca/easy-custom-radio-inputs/
 - Partager
 - Doctissimo
 - check SERP: https://www.referencement.com/simulateur-serp-pixels/
-- CSS fix h+h
 - Automate table SC  
 https://gist.github.com/clvs7-gh/77b1f50d51d4e238c8482fc31296d4c4
 - Search in synonyms
@@ -32,6 +32,7 @@ https://gist.github.com/clvs7-gh/77b1f50d51d4e238c8482fc31296d4c4
 - Papillomavirus > Urticaire > OMAP > Eczéma > Gale > Migraine > Dépistage cancer prostate
 - Score de Wells, BASDAI, Glasgow
 - TOC
+- Section lacks heading. Consider using "h2"-"h6" elements to add identifying headings to all sections
 - SEO  
 https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/
 https://www.webrankinfo.com/dossiers/techniques/quelles-donnees-structurees?utm_source=wri&utm_medium=email&utm_campaign=newsletter-2020-10-13&utm_content=newsletter-actualites  

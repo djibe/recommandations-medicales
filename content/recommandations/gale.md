@@ -44,7 +44,7 @@ Pathognomonique, rouge/brun cuivré infiltré en palpation, persistant quelques 
 Il s'agit d'une réaction inflammatoire, ils ne contiennent pas de sarcopte. Recours aux dermocorticoïdes en cas de persistance.
 
 {{% /collapse %}}
-{{%collapse "Examen clinique" %}}
+{{%collapse "Clinique" %}}
 
 {{%info%}}Évoquer une gale devant tout prurit ou impétiginisation.{{%/info%}}
 

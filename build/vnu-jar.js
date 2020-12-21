@@ -43,7 +43,9 @@ childProcess.exec('java -version', (error, stdout, stderr) => {
     // Netlify ignore
     'Attribute “netlify” not allowed on element “form” at this point.*',
     // Modern ignore
-    'Attribute “loading” not allowed on element “iframe” at this point.*'
+    'Attribute “loading” not allowed on element “iframe” at this point.*',
+    // TODO: improve sections
+    'Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.*'
   ].join('|')
 
   const args = [

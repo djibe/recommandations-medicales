@@ -42,7 +42,7 @@ Urticaire profonde
 Le pronostic vital est engagé en manifestations ORL (dysphonie, troubles de la déglutition).
 : Angio-œdème du visage: cause alimentaire chez l’enfant, médicamenteuse chez l’adulte.
 
-Urticaire chronique
+Urticaire chronique (UC)
 : Persistance ou récidive des lésions d'urticaire durant **plus de 6 semaines**.
 : Pathologie fréquente (prévalence 0,5%, exceptionnelle chez l'enfant) avec altération de la qualité de vie pendant une durée moyenne de 3 à 5 ans.  
 Peut être grave lorsqu'un angio-oedème laryngé ou digestif est associé.

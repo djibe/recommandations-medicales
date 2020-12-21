@@ -22,21 +22,21 @@ todo = "score fagerstrom, card radio span"
 
 ### {{< class "typography-subtitle-1 text-black-primary" >}}Aide au choix des médicaments remboursés à 65% par l'Assurance Maladie sur prescription.{{</class>}}
 
-<hr class="my-3" role="separator">
+<hr class="my-3">
 <article class="my-3 my-lg-4" style="max-width: 800px">
   <h4 class="typography-headline-6 mb-3">Nombre de cigarettes quotidiennes</h4>
   <div class="d-flex">
     <label class="radio-card" data-toggle="collapse" data-target="#patchs-moins20">
       <input type="radio" name="demo" class="card-input-element d-none" id="moins20" required>
-      <div class="card card-primary-action rounded-lg card-body d-flex flex-row justify-content-center align-items-center">
+      <span class="card card-primary-action rounded-lg card-body d-flex flex-row justify-content-center align-items-center">
         Moins de 20
-      </div>
+      </span>
     </label>
     <label class="radio-card" data-toggle="collapse" data-target="#patchs-plus20">
       <input type="radio" name="demo" class="card-input-element d-none" value="plus20">
-      <div class="card card-primary-action rounded-lg card-body d-flex flex-row justify-content-center align-items-center">
+      <span class="card card-primary-action rounded-lg card-body d-flex flex-row justify-content-center align-items-center">
         20 et plus
-      </div>
+      </span>
     </label>
   </div>
 </article>
