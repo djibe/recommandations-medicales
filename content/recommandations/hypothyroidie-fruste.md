@@ -31,7 +31,7 @@ Hypothyroïdie fruste (ou infraclinique)
 TSH > 4mUI/L à 2 reprises (espacées d'un mois) avec T4L normale.
 : Chez le +80 ans: prendre comme valeur limite haute 7 mUI/L.
 
-[Hypothyroïdie patente]({{< ref "hypothyroidie.md" >}})
+[Hypothyroïdie patente]({{< relref "hypothyroidie.md" >}})
 : **TSH élevée et T4L diminuée**.
 
 Lorsque la TSH est modérément élevée, de 4 à 10 mUI/L, renouveler le dosage TSH + T4L à 2 mois.
@@ -77,7 +77,7 @@ Dépistage ciblé: femme > 60 ans et facteurs de risque.
 - TSH > 4 mUI/L pendant la grossesse
 - Traitement d'épreuve si hypothyroïdie fruste avec signes cliniques évocateurs
 
-Débuter la lévothyroxine à posologie basse, croissante par paliers jusqu'à obtenir une TSH normale (voir la [fiche hypothyroïdie]({{< ref "hypothyroidie.md" >}})).
+Débuter la lévothyroxine à posologie basse, croissante par paliers jusqu'à obtenir une TSH normale (voir la [fiche hypothyroïdie]({{< relref "hypothyroidie.md" >}})).
 
 ### Femme enceinte
 

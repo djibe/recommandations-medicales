@@ -56,8 +56,8 @@ Corticoïdes au long cours, anti-aromatases, analogues de la GnRH
 - Maladies endocriniennes  
 Hyperparathyroïdie
 - Malabsorptions  
-[Maladie cœliaque]({{< ref "maladie-coeliaque.md" >}}), mucoviscidose, chirurgie bariatrique.
-- [Insuffisance rénale chronique]({{< ref "insuffisance-renale-chronique.md" >}})
+[Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), mucoviscidose, chirurgie bariatrique.
+- [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
 - Sujets âgés à risque de chute
 
 ### 3 objectifs pour les personnes à risque

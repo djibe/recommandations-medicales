@@ -71,7 +71,7 @@ Bon de prise en charge n°850 sur Ameli pro.
 - Néphropathies chroniques graves
 - Syndromes néphrotiques
 - Drépanocytoses, homozygotes et doubles hétérozygotes S/C, thalasso-drépanocytose
-- Diabètes de type 1 et de [type 2]({{< ref "diabete-type-2.md" >}})
+- Diabètes de type 1 et de [type 2]({{< relref "diabete-type-2.md" >}})
 - Maladie hépatique chronique avec ou sans cirrhose
 - Déficits immunitaires primitifs ou acquis
   - Pathologies oncologiques et hématologiques, transplantations d’organe et de cellules souches hématopoïétiques, déficits immunitaires héréditaires

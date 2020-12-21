@@ -236,7 +236,7 @@ Interféron-alpha 2a et 2b (TODO: encore ?).
 
 Le risque d'apparition d'un 2<sup>e</sup> cancer cutané est supérieur à la population générale.
 
-- Mesures de prévention (voir [*Prévention*]({{< ref "#prévention" >}}))
+- Mesures de prévention (voir [*Prévention*]({{< relref "#prévention" >}}))
 - Photoprotection systématique personnelle + familiale
 - Dépistage cutané des apparentés du 1<sup>er</sup> degré
 - Examen clinique complet (généraliste + dermatologue)

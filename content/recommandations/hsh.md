@@ -45,7 +45,7 @@ Sérologies à proposer en cas de conduites sexuelles à risque:
 - VIH 1 et 2
 - Hépatite A
 - Hépatite B
-- [Syphilis]({{< ref "syphilis.md" >}})
+- [Syphilis]({{< relref "syphilis.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}

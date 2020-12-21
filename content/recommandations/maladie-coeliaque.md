@@ -59,7 +59,7 @@ La maladie survient le plus souvent de 6 mois à 2 ans puis de 20 à 40 ans.
 
 - Antécédents familiaux (peu importe le degré, 10%)
 - Diabète de type 1 (prévalence 3-10 %)
-- Maladie de [Hashimoto]({{< ref "hypothyroidie.md" >}}) ou de Basedow
+- Maladie de [Hashimoto]({{< relref "hypothyroidie.md" >}}) ou de Basedow
 - HLA-DQ2 et HLA-DQ8
 - Autres. Voir *Qui dépister par sérologie ?*
 
@@ -83,10 +83,10 @@ Personnes à risque élevé de maladie cœliaque:
 
 - Syndrome de l’intestin irritable (SII)
 - Transaminases augmentées inexpliquées
-- [Diabète type 1]({{< ref "diabete-type-1.md" >}}) (tous les 5 ans)
+- [Diabète type 1]({{< relref "diabete-type-1.md" >}}) (tous les 5 ans)
 - Symptômes évocateurs de MC ou malabsorption sans d’antécédents familiaux ni auto-immuns
 - Colite miscoscopique
-- [Thyroïdite de Hashimoto]({{< ref "hypothyroidie.md" >}}) ou maladie de Basedow
+- [Thyroïdite de Hashimoto]({{< relref "hypothyroidie.md" >}}) ou maladie de Basedow
 - Ostéopénie, ostéoporose
 - Ataxie ou neuropathie périphérique inexpliquée
 - Aphtes récurrents ou défauts de l’émail dentaire

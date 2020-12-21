@@ -30,7 +30,7 @@ Syphilis
 : Maladie infectieuse à transmission directe principalement sexuelle par contact avec une lésion génitale (fellation comprise) de la bactérie *treponema pallidum* (spirochète, trépanomatose), ou materno-fœtale.  
 La contamination lors de la grossesse entraîne des complications graves chez le fœtus.
 
-La majorité des cas survient chez les [HSH]({{< ref "hsh.md" >}}) (86% des cas en 2013, +56% entre 2013 et 2015) et entre 20 et 29 ans.
+La majorité des cas survient chez les [HSH]({{< relref "hsh.md" >}}) (86% des cas en 2013, +56% entre 2013 et 2015) et entre 20 et 29 ans.
 
 **Co-infection VIH** dans 1/4 des cas.
 
@@ -151,7 +151,7 @@ Nombreux diagnostics différentiels, c'est pourquoi on appelle la syphilis la "g
 
 - Acné
 - Alopécie
-- [Dermatite séborrhéique]({{< ref "dermatite-seborrheique.md" >}})
+- [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
 - Leucémie aiguë
 - Lichen
 - Psoriasis et parapsoriasis en goutte

@@ -93,7 +93,7 @@ Autres causes à éliminer (par ordre anatomique):
 
 - Syndrome de toux d'origine des voies aériennes supérieures (STOVAS ou écoulement postérieur)
 - Asthme
-- [RGO]({{< ref "reflux-gastro-oesophagien.md" >}})
+- [RGO]({{< relref "reflux-gastro-oesophagien.md" >}})
 
 Autres causes fréquentes:
 

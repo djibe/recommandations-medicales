@@ -2,11 +2,9 @@
 
 ## TODO
 
-- Responsive
 - Bandeau lat
+- navdrawer toggle
 - Photo principale
-- Base and relative url  
-ref > relref
 - separate JS
 - https://metatags.io/
 - https://github.com/algolia/algoliasearch-netlify/blob/master/docs/GettingStarted.md

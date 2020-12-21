@@ -37,8 +37,8 @@ Son atteinte est à l'origine de troubles de la sensibilité des 3 premiers doig
 
 - Idiopathique le plus souvent
 - Maladie professionnelle
-- [Diabète]({{< ref "diabete-type-2.md" >}})
-- [Hypothyroïdie]({{< ref "hypothyroidie.md" >}})
+- [Diabète]({{< relref "diabete-type-2.md" >}})
+- [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
 - Acromégalie
 - Grossesse
 - Maladie de système.
@@ -57,7 +57,7 @@ Son atteinte est à l'origine de troubles de la sensibilité des 3 premiers doig
 - Examen moteur de l’opposition pouce-index, atrophie thénarienne
 
 - Éliminer un déficit moteur ou sensitif du territoire. Piquer l’index.
-- Éliminer [diabète]({{< ref "diabete-type-2.md" >}}), [hypothyroïdie]({{< ref "hypothyroidie.md" >}}), polyarthrite rhumatoïde.
+- Éliminer [diabète]({{< relref "diabete-type-2.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), polyarthrite rhumatoïde.
 - Éliminer une cause iatrogène : anti-aromatases (anastrozole, exémestane, létrozole), fluoroquinolones, biphosphonates, anticoagulants oraux, hormone de croissance
 
 Si survient pendant la grossesse, 50% guérison à 1 an.

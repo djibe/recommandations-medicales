@@ -103,7 +103,7 @@ L’examen clinique a une place primordiale dans la détection et le traitement 
 - Ostéoarthrite
 - Arthrite microcristalline  
 Goutte, chondrocalcinose articulaire
-- [Spondylarthrite]({{< ref "spondylarthrite-ankylosante.md" >}})
+- [Spondylarthrite]({{< relref "spondylarthrite-ankylosante.md" >}})
 - Connectivite (Lupus, Gougerot-Sjögren). Leucopénie-lymphopénie, anticorps anti-nucléaires +, hématurie/protéinurie, thrombopénie (lupus), radio de thorax (sarcoïdose, tuberculose)
 
 {{% /collapse %}}
@@ -128,7 +128,7 @@ Goutte, chondrocalcinose articulaire
 - Facteur rhumatoïde (FR)
 - Anticorps anti-peptide citruliné (ACPA)
 - Anticorps antinucléaires (AAN)
-- Sérologie hépatites B et [C]({{< ref "hepatite-c.md">}})
+- Sérologie hépatites B et [C]({{< relref "hepatite-c.md">}})
 
 {{%/info%}}
 
@@ -161,7 +161,7 @@ Si symptomatique et état rénal ou cardio-vasculaire correct.
 - **Éducation thérapeutique**  
 Gérer la douleur, handicap, observance, maintien de l’activité professionnelle.
 - **Suivi bucco-dentaire rigoureux**
-- Mise à jour du [calendrier vaccinal]({{< ref "vaccination.md">}})  
+- Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md">}})  
 dTP tous les 10 ans, pneumocoque tous les 5 ans.
 - Mise à jour des dépistages des cancers
 - Arrêt du tabac

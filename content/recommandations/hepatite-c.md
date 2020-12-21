@@ -43,7 +43,7 @@ Soins à la naissance en néonatalogie ou en pédiatrie (grand prématuré, exsa
 - Drogue IV ou pernasale
 - Né de mère VHC+
 - Partenaires sexuels de VHC+
-- [HSH]({{< ref "hsh.md" >}})
+- [HSH]({{< relref "hsh.md" >}})
 - Entourage de VHC+
 - Prisonnier
 - Tatoutage, piercing, mésothérapie, acupuncture

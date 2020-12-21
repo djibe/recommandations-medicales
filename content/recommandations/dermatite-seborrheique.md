@@ -86,7 +86,7 @@ Plaques bien limitées extra-faciales, début précoce, antécédents.
 Bouffées vasomotrices, érythrose faciale permanente, télangiectasies, absence de squames.
 - **Dermatite atopique**  
 Une érythrodermie du nourrisson pourrait inaugurer une DA ou un psoriasis. Chez l'adulte, la DA déborde des zones séborrhéiques avec respect médio-facial.
-- **[Syphilis]({{< ref "syphilis.md" >}})**  
+- **[Syphilis]({{< relref "syphilis.md" >}})**  
 Comportement sexuel, notion de chancre.
 
 {{% /collapse %}}

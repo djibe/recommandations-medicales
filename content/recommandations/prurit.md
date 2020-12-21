@@ -61,7 +61,7 @@ Mycosis fongoïde et syndrome de Sézary
 - Maladie de Hodgkin et Vaquez
 - Dysthyroïdies
 - Infection chronique  
-VIH, hépatite B, [hépatite C]({{< ref "hepatite-c.md" >}})
+VIH, hépatite B, [hépatite C]({{< relref "hepatite-c.md" >}})
 - Carences  
 Fer, vitamines
 - Parasitoses  

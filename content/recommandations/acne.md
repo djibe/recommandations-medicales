@@ -62,7 +62,7 @@ Risque de laisser des cicatrices atrophiques définitives, des cicatrices hypert
 Flushs du visage, conjonctivite, télangiectasies, symétrie des lésions et absence de comédons
 - Dermatite péri-orale ou des folliculites  
 Absence de comédons
-- [Syphilis]({{< ref "syphilis.md" >}})
+- [Syphilis]({{< relref "syphilis.md" >}})
 Évoquer en âge atypique, notion de chancre.
 
 {{% /collapse %}}

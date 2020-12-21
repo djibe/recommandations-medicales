@@ -31,7 +31,7 @@ Souvent par altération de la glande mais parfois par atteinte centrale hypothal
 La TSH est élevée et la T4L basse.
 : **Les principales causes sont auto-immune et iatrogène** (médicament, radiothérapie).
 : **Pas de dépistage systématique de l’hypothyroïdie en population générale.**
-: On la distingue de l'[**hypothyroïdie fruste ou infraclinique**]({{< ref "hypothyroidie-fruste.md" >}}) où la **TSH est élevée de façon isolée**.
+: On la distingue de l'[**hypothyroïdie fruste ou infraclinique**]({{< relref "hypothyroidie-fruste.md" >}}) où la **TSH est élevée de façon isolée**.
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
@@ -42,7 +42,7 @@ L'hypothyroïdie atteint 5% de la population, dont ⅔ de femmes et 10% des suje
 {{%collapse "Facteurs favorisants l'hypothyroïdie" %}}
 
 - Post-partum
-- Antécédents personnels ou familiaux auto-immuns (ex. [Maladie coeliaque]({{< ref "maladie-coeliaque.md" >}}))
+- Antécédents personnels ou familiaux auto-immuns (ex. [Maladie coeliaque]({{< relref "maladie-coeliaque.md" >}}))
 - Irradiation cervicale
 - Trisomie 21 et Syndrome de Turner
 
@@ -149,7 +149,7 @@ Si arguments pour étiologie auto-immune, dosage des **anticoprs anti-TPO**. Il 
 - TSH élevée et T4L basse: **hypothyroïdie avérée**.  
 Doser les **anticorps anti-TPO**.
 - TSH modérément élevée de 4 à 10 mUI/L et T4L normale: renouveler les dosages à 3-6 mois.
-- TSH élevée et T4L normale: [hypothyroïdie fruste]({{< ref "hypothyroidie-fruste.md">}}).
+- TSH élevée et T4L normale: [hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md">}}).
 - Iodémie/iodurie élevée: hypothyroïdie par surcharge iodée
 - Anticorps anti-TPO positifs: origine auto-immune.
 
@@ -162,7 +162,7 @@ Doser les **anticorps anti-TPO**.
 
 ### Rechercher une maladie cœliaque
 
-En cas de Maladie de Hashimoto, rechercher une [maladie cœliaque associée]({{< ref "maladie-coeliaque.md" >}}).
+En cas de Maladie de Hashimoto, rechercher une [maladie cœliaque associée]({{< relref "maladie-coeliaque.md" >}}).
 
 ### Échographie cervicale
 
@@ -236,7 +236,7 @@ Surveiller la survenue d’**attaques de paniques** même en concentrations plas
 Débuter à posologie basse, augmentation prudente et surveillance symptômes + clinique + ECG.  
 Débuter à 12,5 µg/j, augmentation par paliers de 12 µg toutes les 3 semaines.  
 **NB.** On ne recherche pas toujours une normalisation de la TSH.  
-- [Hypothyroïdie fruste]({{< ref "hypothyroidie-fruste.md" >}})
+- [Hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md" >}})
 - **Grossesse**  
   - Augmentation des besoins en L-thyroxine de 30 à 50% durant la grossesse.
   - Urgence thérapeutique: Augmenter la dose en pré-conceptionnel et dès 7 SA, puis continuellement jusqu'à 14 SA. Stabilisation des besoins après 14 SA.

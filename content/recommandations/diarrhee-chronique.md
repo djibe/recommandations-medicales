@@ -19,7 +19,7 @@ todo = "bilan 1re intention"
 
 {{%collapse "Étiologie" %}}
 
-- [Maladie cœliaque]({{< ref "maladie-coeliaque.md" >}})
+- [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})
 - Intolérance au lactose ou au fructose
 - Insuffisance pancréatique
 - Maladie de Crohn et Rectocolite hémorragique
