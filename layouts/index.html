@@ -18,7 +18,7 @@
     <div class="col-12 col-sm-6 col-xl-4 d-flex mb-1 mb-lg-3">
       <div class="card flex-fill">
         <div class="card-body card-primary-action">
-          <h3 class="card-title"><a href="{{ .Permalink }}" class="text-reset stretched-link">{{ .Title }}</a></h3>
+          <h3 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h3>
           <p class="card-subtitle">
             {{ with .Params.auteurs}}
             {{ delimit . ", " }}{{ end }} le

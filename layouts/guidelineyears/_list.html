@@ -23,7 +23,7 @@
                   {{ delimit . ", " }}{{ end }} le
                   <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .Lastmod.Format "02 January" }}</time>
                 </p>
-                <a href="{{ .Permalink }}" class="stretched-link"></a>
+                <a href="{{ .RelPermalink }}" class="stretched-link"></a>
               </div>
               <div class="card-actions mt-0 pb-2">
                 {{ partial "widgets/guidelineyear-render.html" . }}{{ partial "widgets/tags-render.html" . }}

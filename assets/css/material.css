@@ -5632,7 +5632,6 @@ input:disabled + .chip {
 .navdrawer-nav .nav-link.active, .navdrawer-nav .nav-link:active {
   background-color: rgba(0, 119, 255, 0.12);
   color: #0077ff;
-  font-weight: 500;
 }
 
 .navdrawer-nav .nav-link.disabled {

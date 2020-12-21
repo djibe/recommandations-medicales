@@ -366,6 +366,11 @@ blockquote {
     margin: 0 8px 0 0;
     user-select: none;
 
+    &[aria-expanded='true']{
+      background-color: rgba(0, 119, 255, 0.12);
+      color: var(--primary);
+    }
+
     & + .collapse {
       border-bottom: 1px solid #e0e0e0;
     }

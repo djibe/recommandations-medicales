@@ -6,7 +6,6 @@
 - Bandeau lat
 - Photo principale
 - Base and relative url  
-<base href={{.Site.BaseURL }} />  
 relativeURLs = true  
 .Permalink > .RelPermalink  
 ref > relref

@@ -12,7 +12,7 @@
                      href="#navdrawer-{{ $category | urlize }}">{{ $category | truncate 20 }}</a>
                   <div class="collapse" id="navdrawer-{{$category | urlize | lower}}">
                      {{ range $pageOfCategory.Pages.ByTitle }}
-                     <a class="nav-sub" href="{{ .Permalink }}">{{ .Title }}</a>
+                     <a class="nav-sub" href="{{ .RelPermalink }}">{{ .Title }}</a>
                      {{ end }}
                   </div>
                   {{ end }}
