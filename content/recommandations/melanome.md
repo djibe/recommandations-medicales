@@ -16,6 +16,7 @@ sctid = "2092003"
 draft = false
 image = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Melanoma.jpg/640px-Melanoma.jpg"
 imageSrc = "National Cancer Institute"
+todo = "complications K: lymphoedeme, erysipele, dl neurop"
 +++
 
 {{%article-summary%}}
@@ -109,7 +110,7 @@ Travail en extérieur, rayonnements ionisants, soudure de métaux, sidérurgie, 
 | VI         | Noire         | Noirs | Noirs | Exceptionnels |
 {{< /table >}}
 
->  Fitzpatrick, T.B. (1988), The validity and practicality of sun reactive skin types I through VI, Arch Dermatol 124 ; 869-871
+>  JB FRON d'après Fitzpatrick, T.B. (1988), The validity and practicality of sun reactive skin types I through VI, Arch Dermatol 124 ; 869-871
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -238,9 +239,12 @@ Interféron-alpha 2a et 2b (TODO: encore ?).
 
 Le risque d'apparition d'un 2<sup>e</sup> cancer cutané est supérieur à la population générale.
 
+- Déclaration ALD n°30
 - Mesures de prévention (voir [*Prévention*]({{< relref "#prévention" >}}))
 - Photoprotection systématique personnelle + familiale
 - Dépistage cutané des apparentés du 1<sup>er</sup> degré
+- Auto-surveillance (dépistage + récidive)  
+Consulter au plus vite en cas d'anomalie.
 - Examen clinique complet (généraliste + dermatologue)
   - Rythme selon recommandations en vigueur.
   - Rapproché pendant 5 ans, puis annuel à vie.
@@ -248,11 +252,55 @@ Le risque d'apparition d'un 2<sup>e</sup> cancer cutané est supérieur à la po
 - Examens complémentaires selon recommandations
   - Échographie
   - TEP-scan
+  - Examens selon signes d'appel
+- Associations et organismes de soutien, handicap, aide financière
+
+**NB.** Pas de régime alimentaire particulier.
+
+En cas de suspicion de récidive, le patient doit être ré-adressé à l'équipe initiale pour repasser en RCP.
+
+{{% /collapse %}}
+{{%collapse "Éducation thérapeutique" %}}
+
+### Compétences à acquérir
+
+- Comprendre sa maladie, les traitements et leurs effets indésirables éventuels, assimiler les méthodes appropriées de protection solaire.
+- Effectuer le dépistage d’un nouveau mélanome et la détection d’une récidive (méthode d’auto-examen cutané et ganglionnaire).
+- Souligner l’intérêt d’un examen clinique cutané auprès des membres de sa parenté du premier degré (parents, enfants, fratrie).
+- Améliorer son adhésion au traitement ambulatoire en particulier pour mieux soulager les symptômes
+- Participer à la planification du suivi et d’accepter son observance après le traitement (nécessité de contrôles réguliers)
+- Impliquer selon les cas son entourage dans la gestion de la maladie, des traitements et des répercussions qui en découlent
+- Recourir si besoin à des modalités d’accompagnement psychologique appropriées.
+
+> Source HAS 2006
+
+### Méthode d'auto-examen cutané
+
+**Objectif:** recherche une lésion mélanocytaire différente des autres nævi ou d'apparition récente ou évolutive par sa taille, sa couleur ou son épaisseur.  
+**Temps de réalisation:** 15 minutes, avec aide si possible.
+
+#### Étape 1
+
+Examen direct: examen à l'œil nu des paumes et pieds, ongles, doigts et orteils et les espaces entre. Face avant des bras et avant-bras, cuisses et jambes.
+
+#### Étape 2
+
+Avce miroir en pied et examen de haut en bas. Tourner le côté gauche puis le côté droit du corps, les bras levés.
+
+#### Étape 3
+
+Examen avec miroir à main: Surélever chaque jambe poru examiner la face interne, externe et postérieure du mollet et de la cuisse. Face postérieure des bras, la nuque, le dos, le cuir chevelu et la région génitale.
+
+> Source HAS 2006
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
 - [INCa. Traitements du mélanome avancé. Novembre 2017.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Traitements-du-melanome-avance)
+- [INCa. Détection précoce des cancers de la peau - Médecins généralistes. Octobre 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Detection-precoce-des-cancers-de-la-peau-Medecins-generalistes)
+- [HAS. Mélanome cutané. Janvier 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2012-03/ald_30_guide_melanome_web.pdf)
+- [Collège National des Enseignants de Dermatologie. Item 149 : Tumeurs cutanées épithéliales et mélaniques : mélanomes. 2011](http://campus.cerimes.fr/dermatologie/enseignement/dermato_26/site/html/cours.pdf)
+- [SFDermato. Recommandations pour la Pratique Clinique : Standards, Options et Recommandations 2005 pour la prise en charge des patients adultes atteints d’un mélanome cutané MO. Décembre 2005](https://www.oncoderm.fr/upload/recommandations/9738-Prise-en-charge-des-meAlanome.pdf)
 
 {{% /collapse %}}
 {{%collapse "Photos" %}}
