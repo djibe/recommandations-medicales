@@ -13,7 +13,7 @@
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <img src="/images/icons/undraw_Typing.svg" alt="Écrire un commentaire" aria-hidden="true" width="250" loading="lazy">
+        <img class="d-none d-md-block" src="/images/icons/undraw_Typing.svg" alt="Écrire un commentaire" aria-hidden="true" width="250" loading="lazy">
         <p class="modal-title" id="modal-contact-title">Commentaires</p>
       </div>
       <form name="contact" method="post" netlify>
@@ -134,7 +134,7 @@
 
     // Don't follow external sources
     document.addEventListener("DOMContentLoaded", function(event) { // When DOM is ready
-      let externalSources = document.querySelectorAll('#sources + section a');
+      let externalSources = document.querySelectorAll('#sources-block a');
       externalSources.forEach((elem) => {
         elem.setAttribute('target', '_blank')
         elem.setAttribute('rel', 'nofollow noopener')
@@ -158,15 +158,5 @@
     $('[data-toggle="popover"]').popover({
       html: true
     });
-
-    /* $('.popover-hover').popover({
-      html: true,
-      trigger: 'hover',
-      placement: 'bottom',
-      container: 'body',
-      delay: {
-        show: 500
-      }
-    }); */
   });
 </script>

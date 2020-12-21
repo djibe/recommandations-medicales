@@ -6,8 +6,6 @@
 - Bandeau lat
 - Photo principale
 - Base and relative url  
-relativeURLs = true  
-.Permalink > .RelPermalink  
 ref > relref
 - separate JS
 - https://metatags.io/
