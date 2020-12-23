@@ -31,7 +31,7 @@ Dysphonie, hypersalivation et troubles de la déglutition.
 {{%collapse "Définition" %}}
 
 Urticaire
-: Dermatose caractérisée par les lésions papuleuses, œdémateuses prurigineuses bien limitées en petits éléments ou confluants en **larges plaques fugaces, migratrices et prurigineuses**.
+: Dermatose inflammatoire caractérisée par les lésions papuleuses, œdémateuses prurigineuses bien limitées en petits éléments ou confluants en **larges plaques fugaces, migratrices et prurigineuses**.
 : Réaction inflammatoire générée par la libération d’histamine par les mastocytes lors de leur rencontre avec un antigène.
 : Le plus souvent épisode unique et résolutif sans cicatrice ni lésion de grattage.
 
@@ -325,7 +325,7 @@ graph TB
   style UA stroke:#0077ff, stroke-width:1px
     gravite -- Non --> tttUA("Anti-H1 2G 2 semaines")
       tttUA -- Efficace --> Guérison
-      tttUA -- Persistance --> prolongation("Prolonger l'anti-H1 pendant<br>6 semaines") -- Persistance --> UC(Urticaire chronique)
+      tttUA -- Persistance --> prolongation("Anti-H1 x2-4 pendant<br>6 semaines") -- Persistance --> UC(Urticaire chronique)
     gravite -- Oui --> urgence("Appel du 15<br>Traitement du choc<br>anaphylactique/Quincke")
 {{< /mermaid >}}
 
@@ -333,8 +333,11 @@ graph TB
 
 {{< mermaid >}}
 graph TB
-  UC["Urticaire chronique"] --> gravite
+  UC["Urticaire chronique (UC)<br>Durée &gt; 6 semaines"] --> orientation("Maladie générale?<br>Forme particulière?")
   style UC stroke:#0077ff, stroke-width:1px
+    orientation --> isolee("UC isolée<br>Pas de bilan") --> ttt1(Anti-H1 2G 4 à 8 sem)
+        ttt1 -- Résistance --> bilan("Bilan de l'UC<br>NFS, VS, CRP<br>anti-TPO +/- TSH")
+        ttt1 -- Résolution --> fin(Pas de bilan)
 {{< /mermaid >}}
 
 > Figure. Conduite à tenir devant une urticaire chronique. Dr JB FRON d'après ANAES 2003.
@@ -343,7 +346,7 @@ graph TB
 {{%collapse "Sources" %}}
 
 - [Hôpital Necker. Facteurs susceptibles d’induire la dégranulation mastocytaire.](http://www.maladiesrares-necker.aphp.fr/facteurs-susceptibles-dinduire-la-degranulation-mastocytaire/)
-- [Collège des Enseignants d'Immunologie de Langue Française. Item 114 : Urticaire et œdème de Quincke : diagnostic, étiologie, traitement.](http://campus.cerimes.fr/immunologie/enseignement/immuno_114a/site/html/cours.pdf)
+- [Collège des Enseignants d'Immunologie de Langue Française. Item 114 : Urticaire et œdème de Quincke : diagnostic, étiologie, traitement. 2011](http://campus.cerimes.fr/immunologie/enseignement/immuno_114a/site/html/cours.pdf)
 - [Dermato-info. L'urticaire.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99urticaire)
 - [ANAES/SFDermato. Conférence de consensus - Prise en charge de l'urticaire chronique. 08/01/2003](https://www.has-sante.fr/upload/docs/application/pdf/urticaire_court.pdf)
 

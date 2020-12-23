@@ -2,8 +2,10 @@
 
 ## TODO
 
+- Allergie croisée APLV > SAP > Papillomavirus > OMAP > Eczéma > Migraine
 - Check
 - Bandeau lat
+- https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 - Raccourcis: vaccins, cs enfant
 - MD
 - navdrawer toggle
@@ -27,7 +29,6 @@ https://gist.github.com/clvs7-gh/77b1f50d51d4e238c8482fc31296d4c4
 - Datatables sur fiche
 - If is page menu is active
 - Expand all avec localstorage
-- Papillomavirus > Urticaire > OMAP > Eczéma > Gale > Migraine > Dépistage cancer prostate
 - Score de Wells, BASDAI, Glasgow
 - TOC
 - Section lacks heading. Consider using "h2"-"h6" elements to add identifying headings to all sections

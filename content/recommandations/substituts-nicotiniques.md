@@ -72,7 +72,7 @@ todo = "score fagerstrom, card radio span"
       <!--GlaxoSmithKline-->
       <li class="list-group-item">Nicotinell TTS 7 mg<span class="text-muted">/24h</span></li>
     </ul>
-    <h6 class="typography-overline font-weight-bolder mt-lg-5">Gommes à mâcher</h6>
+    <h6 class="typography-overline mt-lg-5">Gommes à mâcher</h6>
     {{% class "typography-body-2 text-black-secondary" %}}Mâcher 1 fois puis placer entre gencive et joue. Mâcher à nouveau en cas d'envie de fumer.{{%/class%}}
     <ul class="list-group">
       {{< list-item title="Nicorette sans sucre 2 mg (Fruits, menthe fraîche, menthe glaciale, neutre)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 30/j." >}}

@@ -19,7 +19,7 @@ todo = "privilégier aliments primaires https://presse.inserm.fr/les-emulsifiant
 
 {{%article-summary%}}
 
-TODO
+TODO:
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

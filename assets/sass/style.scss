@@ -41,7 +41,7 @@ h4 {
 
 @media (min-width: 1200px){
   h1 {
-    font-size: 2.5rem;
+    font-size: 3.5rem;
   }
 
   h2 {
@@ -207,22 +207,12 @@ main {
   h3 {
     color: var(--primary);
     margin-bottom: 12px;
-
-    &:first-of-type {
-      margin-top: 0;
-    }
-
-    h3:not(:first-child) {
-      margin-top: 32px;
-    }
+    margin-top: 32px;
   }
 
   h4 {
     margin-bottom: 12px;
-
-    h4:not(:first-child) {
-      margin-top: 32px;
-    }
+    margin-top: 32px;
   }
 
   p {
@@ -506,12 +496,12 @@ blockquote {
   background: #fafafa !important;
 }
 
-[class*='chip-']:hover {
-  filter: brightness(86%);
+.chip {
+  overflow: hidden;
 }
 
-.navbar-brand {
-  font-weight: 600;
+[class*='chip-']:hover {
+  filter: brightness(86%);
 }
 
 .navdrawer-nav .nav-link {
