@@ -2,14 +2,14 @@
 title = "Dysfonction érectile"
 prefix = "la "
 shortname = "DE"
-synonyms = ["impuissance"]
+synonyms = ["Impuissance"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-05-05T12:48:09+02:00"
 publishdate = "2020-05-05"
 lastmod = "2020-05-05"
 categories = ["urologie"]
 guidelineyears = "2019"
-source-recommandations = ["AIUS", "Prescrire"]
+sources = ["AIUS", "Prescrire"]
 tags = ["dysfonction erectile", "IPDE5", "risque cardiovasculaire"]
 anglais = ["Erectile dysfunction"]
 sctid = "860914002"

@@ -18,4 +18,8 @@
     {{ $sass = resources.Get "sass/style.scss" | toCSS }}
   {{ end }}
   <link rel="stylesheet" href="{{ $sass.Permalink }}">
+
+  {{- if (.Params.datatable) }}
+  <link href="https://cdn.jsdelivr.net/gh/djibe/material@latest/css/material-plugins.min.css" rel="stylesheet" crossorigin>
+  {{- end -}}
 </head>

@@ -32,7 +32,7 @@ Dysphonie, hypersalivation et troubles de la déglutition.
 
 Urticaire
 : Dermatose inflammatoire caractérisée par les lésions papuleuses, œdémateuses prurigineuses bien limitées en petits éléments ou confluants en **larges plaques fugaces, migratrices et prurigineuses**.
-: Réaction inflammatoire générée par la libération d’histamine par les mastocytes lors de leur rencontre avec un antigène.
+: Réaction inflammatoire générée par la libération d’histamine par les mastocytes lors de leur rencontre avec un antigène. Le plus souvcent l'activation est non spécifique et donc non allergique. Rarement par IgE dirigées contre un antigène = anaphylaxie.
 : Le plus souvent épisode unique et résolutif sans cicatrice ni lésion de grattage.
 
 Urticaire superficielle
@@ -85,8 +85,12 @@ Angio-œdème vibratoire
 {{%warning%}}
 **Signes de gravité de l'urticaire**:
 
+- Dyspnée
 - Dysphonie
 - Hypersalivation et troubles de la déglutition
+- Malaise
+- Hypotension artérielle
+- Troubles digestifs
 
 {{%/warning%}}
 

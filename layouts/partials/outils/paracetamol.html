@@ -1,0 +1,74 @@
+<script>
+$(function () {
+  const Slider = $('#weight');
+  const Input = $('#weightInput');
+  const min = 3;
+  const max = 50;
+  const Paracetamol = $('#paracetamol');
+  const Ibuprofene = $('#ibuprofene');
+
+  Slider.ionRangeSlider({
+    skin: 'material',
+    min: min,
+    max: max,
+    postfix: ' kg',
+    max_postfix: '+',
+    extra_classes: 'flex-fill'
+  });
+
+  let sliderInstance = Slider.data('ionRangeSlider');
+
+  Input.on('input', function() {
+      let val = this.value;
+  
+      // Validate Slider
+      if (val < min) {
+          val = min;
+      } else if (val > max) {
+          val = max;
+      }
+  
+      sliderInstance.update({
+          from: val
+      });
+  });
+
+  Slider.on('change', function() {
+    let weight = Slider.val();
+
+    // Paracetamol
+    if ( weight >= 3 && weight <= 4 ) {
+      str = '1 dose-kg toutes les 6 heures';
+    } else if ( weight >= 5 && weight <= 6 ) {
+      str = '1 dose-kg ou <b>80 mg</b> toutes les 6 heures';
+    } else if ( weight >= 7 && weight <= 8 ) {
+      str = '1 dose-kg ou <b>100 mg</b> toutes les 6 heures';
+    } else if ( weight >= 9 && weight <= 11 ) {
+      str = '1 dose-kg ou <b>150 mg</b> toutes les 6 heures';
+    } else if ( weight >= 12 && weight <= 15 ) {
+      str = '1 dose-kg ou <b>200 mg</b> toutes les 6 heures';
+    } else if ( weight >= 16 && weight <= 20 ) {
+      str = '1 dose-kg ou <b>250 mg</b> toutes les 6 heures';
+    } else if ( weight >= 21 && weight <= 25 ) {
+      str = '1 dose-kg ou <b>300 mg</b> toutes les 6 heures';
+    } else if ( weight >= 26 && weight <= 40 ) {
+      str = '500 mg toutes les 6 heures';
+    } else if ( weight >= 41 && weight < 50 ) {
+      str = '500 mg toutes les 4 heures';
+    } else if ( weight >= 50 ) {
+      str = '1 g toutes les 6 heures';
+    }
+    Paracetamol.html(str);
+
+    // Ibuprofene
+    if ( weight < 20) {
+      str2 = '1 dose-kg toutes les 8 heures';
+    } else if ( weight >= 20 && weight < 30 ) {
+      str2 = '200 mg toutes les 8 heures';
+    } else if ( weight >= 30 ) {
+      str2 = '400 mg toutes les 8 heures';
+    }
+    return Ibuprofene.html(str2);
+  });
+});
+</script>

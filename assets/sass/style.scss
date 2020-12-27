@@ -215,7 +215,7 @@ main {
     margin-top: 32px;
   }
 
-  p {
+  p:not([class]) {
     @extend .typography-body-1;
   }
 
@@ -226,7 +226,7 @@ main {
     width: Min(100%, 768px);
   }
 
-  ul:not(.list-group) {
+  ul:not(.list-group):not(.nav) {
     @extend .typography-body-1;
   }
 
@@ -235,11 +235,11 @@ main {
 
     li:not(.list-group-divider) {
       
-      &:hover, &:focus, &:active {
+      /* &:hover, &:focus, &:active {
         background-color: rgba(0, 0, 0, 0.04);
         cursor: pointer;
         text-decoration: none;
-      }
+      } */
 
       &:focus {
         background-color: rgba(0, 0, 0, 0.12);
@@ -496,6 +496,15 @@ blockquote {
   background: #fafafa !important;
 }
 
+.card-paracetamol {
+  max-width: 480px;
+  transition: box-shadow 150ms;
+
+  &:hover {
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,.14),0 1px 10px 0 rgba(0,0,0,.12),0 2px 4px -1px rgba(0,0,0,.2);
+  }
+}
+
 .chip {
   overflow: hidden;
 }
@@ -506,4 +515,16 @@ blockquote {
 
 .navdrawer-nav .nav-link {
   text-transform: capitalize;
+}
+
+.form-alternative {
+  appearance: none;
+  background: #f5f5f5;
+  border: 0;
+  border-radius: 4px;
+  color: #666666;
+  font-weight: 500;
+  padding: 8px 4px 8px 8px;
+  text-align: center;
+  width: 64px;
 }

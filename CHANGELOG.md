@@ -6,7 +6,7 @@
 - Check
 - Bandeau lat
 - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
-- Raccourcis: vaccins, cs enfant
+- Raccourcis: paracetamol, vaccins, cs enfant
 - MD
 - navdrawer toggle
 - Photo principale

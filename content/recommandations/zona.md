@@ -34,7 +34,7 @@ Zona
 Zona et personne immunodéprimée
 : Intérêt d'éduquer les patients à la reconnaissance des symptômes.  
 Ce sont les principales personens qui développent des fomes compliquée.  
-**Pathologies pourvoyeuses de zona:** Leucémie aiguë, lymphome en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, VIH (CD4 < 350/mm<sup>3</sup> surtout).
+: **Pathologies pourvoyeuses de zona:** Leucémie aiguë, lymphome en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, VIH (CD4 < 350/mm<sup>3</sup> surtout).
 
 ### Zona selon l'âge
 
@@ -121,12 +121,12 @@ ou famciclovir 500 mg x 3/j pendant 7 jours.
 
 #### Indications au traitement antiviral
 
-- Zona ophatlmique (voir ci-dessous)
+- Zona ophtalmique (voir ci-dessous)
 - Âge > 50 ans  
 {{%class%}}En prévention des algies-post-zostériennes.{{%/class%}}
-- Âge < 50 avec
+- Âge < 50 avec *Facteurs prédictifs d’algies post-zostériennes*
 
-### Zona ophtalmique
+### Traitement du zona ophtalmique
 
 Traitement antiviral comme ci-dessus. **Début immédiat du traitement**.
 

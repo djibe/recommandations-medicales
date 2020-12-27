@@ -39,6 +39,10 @@ $warning: (
   light: #ffc77d
 ) !default;
 
+@function selection-theme-color() {
+  @return theme-color(secondary);
+}
+
 // Typography
 
 $font-size-base: 1rem;
@@ -82,8 +86,8 @@ $line-height-subtitle-2: normal !default;
 
 // Components
 $card-border-radius: 0;
-// $navdrawer-content-bg: #444655;
 
+$secondary-color-for-controls:  true !default;
 $enable-dark-theme-media-query: false !default;
 $enable-validation-valid:  false !default; // Apply Success color to valid inputs (not recommended)
 
@@ -145,9 +149,9 @@ $enable-validation-valid:  false !default; // Apply Success color to valid input
 // @import '../material/assets/scss/material/progress-circular'; // spinners
 @import '../material/assets/scss/material/selection-control'; // custom-forms
 @import '../material/assets/scss/material/sliders';
-@import '../material/assets/scss/material/snackbars'; // toasts
+@import '../material/assets/scss/material/snackbars';
 // @import '../material/assets/scss/material/stepper';
-// @import '../material/assets/scss/material/tab';
+@import '../material/assets/scss/material/tab';
 @import '../material/assets/scss/material/text-field';
 @import '../material/assets/scss/material/text-field-box';
 @import '../material/assets/scss/material/text-field-floating-label';
@@ -162,3 +166,7 @@ $enable-validation-valid:  false !default; // Apply Success color to valid input
 // Very basic print styles
 
 @import '../material/assets/scss/print';
+
+// Slider plugin
+
+@import '../material/assets/scss/plugins/ion-rangeslider';
