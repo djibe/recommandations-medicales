@@ -2,11 +2,11 @@
 title = "Antalgie chez l'enfant"
 prefix = "l'"
 shortname = "Antalgie"
-synonyms = ["Antidouleurs de l'enfant"]
+synonyms = ["Antidouleurs en pédiatrie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-26T00:12:41+02:00
 publishdate = 2020-12-26
-lastmod = 2020-12-26
+lastmod = 2020-12-28
 categories = ["pediatrie"]
 guidelineyears = "2019"
 sources = ["HAS", "Pediadol"]
@@ -55,7 +55,7 @@ En première intention pour les douleurs faibles à modérées.
         </div>
       </div>
       <p class="card-text">Paracétamol</p>
-      <p id="paracetamol">1 dose-kg ou 300 mg toutes les 6 heures</p>
+      <p id="paracetamol">1 dose-kg ou <b>300 mg</b> toutes les 6 heures</p>
       <hr>
       <p class="card-text">Ibuprofène</p>
       <p id="ibuprofene">200 mg toutes les 8 heures</p>

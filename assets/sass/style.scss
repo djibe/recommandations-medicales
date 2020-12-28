@@ -166,7 +166,7 @@ main {
     color: #757575;
     font-size: calc(1.275rem + .3vw);
     line-height: 1.25;
-    width: Min(100%, 768px); // Uppercase to prevent SASS-CSS conflict
+    // width: Min(100%, 768px); // Uppercase to prevent SASS-CSS conflict
 
     @media (min-width: 1200px){
       & {
@@ -223,10 +223,10 @@ main {
   dl,
   p,
   ul {
-    width: Min(100%, 768px);
+    // width: Min(100%, 768px);
   }
 
-  ul:not(.list-group):not(.nav) {
+  ul:not([class]) {
     @extend .typography-body-1;
   }
 
@@ -527,4 +527,10 @@ blockquote {
   padding: 8px 4px 8px 8px;
   text-align: center;
   width: 64px;
+}
+
+// Utilities
+
+.w-768 {
+  width: Min(100%, 768px);
 }

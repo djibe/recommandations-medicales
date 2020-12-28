@@ -1,6 +1,6 @@
 {{ with .Params.tags }}
   {{ range . }}
-    {{ $href := print (absURL "tags/") (urlize .) }}
+    {{ $href := print ("tags/") (urlize .) }}
     <a class="chip chip-action chip-xs" href="{{ $href }}">{{ . }}</a>
   {{ end }}
 {{ end }}
