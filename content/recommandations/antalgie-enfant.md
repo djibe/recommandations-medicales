@@ -16,6 +16,8 @@ sctid = ""
 draft = false
 slider = true
 paracetamol = true
+image = "https://live.staticflickr.com/4067/4383990220_3b17dfa8da_z.jpg"
+imageSrc = "Photo by Nathan Phillips on Foter.com / CC BY-NC"
 todo = "douleur neuropathique"
 +++
 
