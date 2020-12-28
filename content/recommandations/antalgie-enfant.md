@@ -55,10 +55,10 @@ En première intention pour les douleurs faibles à modérées.
         </div>
       </div>
       <p class="card-text">Paracétamol</p>
-      <p id="paracetamol">Utiliser la réglette</p>
+      <p id="paracetamol">1 dose-kg ou 300 mg toutes les 6 heures</p>
       <hr>
       <p class="card-text">Ibuprofène</p>
-      <p id="ibuprofene">Utiliser la réglette</p>
+      <p id="ibuprofene">200 mg toutes les 8 heures</p>
     </div>
     <div aria-labelledby="sirop-tab" class="tab-pane fade" id="sirop" role="tabpanel">
       <p class="typography-overline text-black-secondary m-0">Spécialités</p>
