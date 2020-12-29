@@ -219,13 +219,6 @@ main {
     @extend .typography-body-1;
   }
 
-  dt,
-  dl,
-  p,
-  ul {
-    // width: Min(100%, 768px);
-  }
-
   ul:not([class]) {
     @extend .typography-body-1;
   }

@@ -37,12 +37,14 @@
 <!-- Language Tags -->
 <meta property="og:locale" content="fr_FR">
 
-<!-- TODO: Image Tags -->
-{{ with .Params.image }} 
-  <meta itemprop="image" content="{{ . | absURL }}">
-  <meta property="og:image" content="{{ . | absURL }}">
-  <meta name="twitter:image" content="{{ . | absURL }}">
-  <meta name="twitter:image:alt" content="Image de {{ $.Title }}">
+<!-- Image Tags -->
+{{ with .Params.image }}
+{{ $image := $.File.BaseFileName }}
+{{ $imageUrl := printf "/images/photos/%s.jpg" $image }}
+  <meta itemprop="image" content="{{ $imageUrl | absURL }}">
+  <meta property="og:image" content="{{ $imageUrl | absURL }}">
+  <meta name="twitter:image" content="{{ $imageUrl | absURL }}">
+  <meta name="twitter:image:alt" content="Image de {{ $.Params.Prefix }}{{ $.Title }}">
 {{ else }}
   <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}">
   <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}">
@@ -90,7 +92,7 @@
       "headline": "{{ .Title }}, les recommandations 2020",
       "description": "{{ .Description }}",
       "articleBody": "{{ .Plain }}",
-      {{ with .Params.image }}"image": ["{{ . | absURL }}"],{{ else }}"image": ["{{ .Site.Params.ogimage | absURL }}"],{{ end }}
+      {{ with .Params.image }}{{ $image := $.File.BaseFileName }}{{ $imageUrl := printf "/images/photos/%s.jpg" $image }}"image": ["{{ $imageUrl | absURL }}"],{{ else }}"image": ["{{ .Site.Params.ogimage | absURL }}"],{{ end }}
       "author": {
         "@type": "Person",
         "name": "{{ range first 1 .Params.auteurs }}{{.}}{{end}}"

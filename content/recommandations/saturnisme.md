@@ -14,7 +14,7 @@ tags = ["declaration obligatoire", "pica", "plomb", "retard psychomoteur"]
 anglais = ["Plumbism", "Lead poisoning"]
 sctid = "38342005"
 draft = false
-image = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sympt%C3%B4mes_du_saturnisme_%28lead_poisoning_symptoms%29%2C_from_Mikael_H%C3%A4ggstr%C3%B6m_2015_%28_cc-zero%29.jpg/309px-Sympt%C3%B4mes_du_saturnisme_%28lead_poisoning_symptoms%29%2C_from_Mikael_H%C3%A4ggstr%C3%B6m_2015_%28_cc-zero%29.jpg"
+image = true
 imageSrc = "Lamiot, from Mikael Häggström 2015 - CC BY-SA 4.0"
 todo = "Liens InVS, MAJ"
 +++

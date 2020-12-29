@@ -14,7 +14,7 @@ tags = ["HSH", "IST"]
 anglais = ["MSM"]
 sctid = "76102007"
 draft = true
-image = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Melanoma.jpg/640px-Melanoma.jpg"
+image = false
 imageSrc = "National Cancer Institute"
 todo = ""
 +++

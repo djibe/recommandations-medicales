@@ -14,8 +14,9 @@ tags = ["BPCO", "diabete", "HTA", "insuffisance cardiaque", "obesite", "PPC", "r
 anglais = ["Obstructive sleep apnea syndrome"]
 sctid = "78275009"
 draft = false
-image = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Obstruction_ventilation_apn%C3%A9e_sommeil.svg/500px-Obstruction_ventilation_apn%C3%A9e_sommeil.svg.png"
+image = true
 imageSrc = "Habib M’henni / Wikimedia Commons"
+imagePNG = true
 todo = "https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/"
 +++
 

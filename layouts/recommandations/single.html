@@ -4,11 +4,18 @@
     <aside class="col-lg-3 col-xl-2 order-3 order-lg-1 d-flex flex-column px-0 d-print-none" id="recommandation-aside">
       <figure class="figure">
         <img class="figure-img img-fluid rounded"
-          {{ with .Params.Image }}
-          src="{{ . }}"
+          {{ with .Params.image }}
+            {{ $image := $.File.BaseFileName }}
+            {{ $imageUrl := "" }}
+            {{ if $.Params.imagePNG }}
+              {{ $imageUrl = printf "/images/photos/%s.png" $image }}
+            {{ else }}
+              {{ $imageUrl = printf "/images/photos/%s.jpg" $image }}
+            {{ end }}
+            src="{{ $imageUrl }}"
           {{ else }}
-          src="/images/icons/placeholder.svg"
-          aria-hidden="true"
+            src="/images/icons/placeholder.svg"
+            aria-hidden="true"
           {{ end }}
           alt="Image de {{ .Title }}">
           {{ with .Params.ImageSrc }}
