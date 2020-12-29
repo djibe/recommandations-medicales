@@ -38,6 +38,17 @@
 <meta property="og:locale" content="fr_FR">
 
 <!-- TODO: Image Tags -->
+{{ with .Params.image }} 
+  <meta itemprop="image" content="{{ . | absURL }}">
+  <meta property="og:image" content="{{ . | absURL }}">
+  <meta name="twitter:image" content="{{ . | absURL }}">
+  <meta name="twitter:image:alt" content="Image de {{ $.Title }}">
+{{ else }}
+  <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}">
+  <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}">
+  <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}">
+  <meta name="twitter:image:alt" content="Logo de {{ .Site.Title }}">
+{{ end }}
 
 <!-- Date Tags, Sitemap & RSS Feed Tags -->
 <meta property="og:updated_time" content={{ .Lastmod.Format "2006-01-02T15:04:05Z0700" }}>
@@ -153,8 +164,8 @@
 <!--TODO: Others -->
 {{ hugo.Generator }}
 <!--<link rel="manifest" href="{{ .Site.BaseURL }}manifest.json">-->
-<meta name="theme-color" content="#6200ee">
-<meta name="msapplication-TileColor" content="#6200ee">
+<meta name="theme-color" content="#0077ff">
+<meta name="msapplication-TileColor" content="#0077ff">
 
 <meta name="imagemode" content="force">
 <meta name="coverage" content="Worldwide">

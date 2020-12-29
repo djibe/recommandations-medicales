@@ -8,6 +8,7 @@
           src="{{ . }}"
           {{ else }}
           src="/images/icons/placeholder.svg"
+          aria-hidden="true"
           {{ end }}
           alt="Image de {{ .Title }}">
           {{ with .Params.ImageSrc }}
