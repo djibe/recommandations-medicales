@@ -90,6 +90,7 @@
       "headline": "{{ .Title }}, les recommandations 2020",
       "description": "{{ .Description }}",
       "articleBody": "{{ .Plain }}",
+      {{ with .Params.image }}"image": ["{{ . | absURL }}"],{{ else }}"image": ["{{ .Site.Params.ogimage | absURL }}"],{{ end }}
       "author": {
         "@type": "Person",
         "name": "{{ range first 1 .Params.auteurs }}{{.}}{{end}}"

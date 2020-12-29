@@ -27,7 +27,7 @@ title = "L'Université médicale"
   description = "Site communautaire des recommandations en premier recours en médecine générale"
   github = "https://github.com/djibe/recommandations-medicales"
   githubUser = "djibe"
-  og_image = "/images/icons/banner-og.png"
+  ogimage = "/images/icons/banner-og.png"
   SidebarRecentLimit = 5
 
 # todo
