@@ -2,8 +2,8 @@
 
 ## TODO
 
+- External link
 - Allergie croisée APLV > SAP > Papillomavirus > OMAP > Eczéma > Migraine
-- Check
 - Bandeau lat
 - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 - Raccourcis: paracetamol, vaccins, cs enfant

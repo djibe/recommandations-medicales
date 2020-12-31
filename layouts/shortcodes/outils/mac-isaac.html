@@ -16,30 +16,21 @@
       <label for="age" class="chip chip-action chip-filter">Âge ≥ 45 ans</label>
     </div>
     <div class="col-12 col-md-3">
-      <p class="typography-overline text-black-secondary mt-4 mt-md-0 mb-1">Score de Mac Isaac</p>
+      <p class="typography-overline letter-spacing-normal text-black-secondary mt-4 mt-md-0 mb-1">Score de Mac Isaac</p>
       <p id="counter" class="font-weight-bold" style="font-size: 3rem;line-height: 1.2;margin-bottom: 0;">0</p>
-      <p id="explain" class="typography-body-2 text-muted mb-0">Origine virale.</p>
+      <p id="explainMcIsaac" class="typography-body-2 text-black-secondary mb-0">Origine virale.</p>
     </div>
   </div>
 </div>
 {{ $script := `
   // Score de Mac Isaac by djibe
   let score = 0;
-  const Text = document.getElementById('explain');
+  const Text = document.getElementById('explainMcIsaac');
   [...document.querySelectorAll('input[type=\"checkbox\"]')].forEach(function(checkbox) {
     checkbox.addEventListener('change', function(e) {
-      if (e.target.checked) {
-        score += parseInt(e.target.value, 10)
-      } else {
-        score -= parseInt(e.target.value, 10)
-      }
+      e.target.checked ? score += parseInt(e.target.value, 10) : score -= parseInt(e.target.value, 10)
       document.getElementById('counter').innerHTML = score
-
-      if ( score >= 2){
-        Text.innerHTML = 'Faire un TDR.'
-      } else {
-        Text.innerHTML = 'Origine virale.'
-      }
+      score >= 2 ? Text.innerHTML = 'Faire un TDR.' : Text.innerHTML = 'Origine virale.'
     })
   })` }}
 <script>{{ $script | safeJS }}</script>

@@ -18,7 +18,7 @@ slider = true
 paracetamol = true
 image = true
 imageSrc = "Photo by Nathan Phillips on Foter.com / CC BY-NC"
-todo = "douleur neuropathique"
+todo = "délais d'action pour les sachets, nubin, douleur neuropathique"
 +++
 
 {{%article-summary%}}
@@ -65,7 +65,6 @@ En première intention pour les douleurs faibles à modérées.
     <div aria-labelledby="sirop-tab" class="tab-pane fade" id="sirop" role="tabpanel">
       <p class="typography-overline text-black-secondary m-0">Spécialités</p>
       <ul class="list-group list-group-flush">
-        <li class="list-group-item">Dafalgan pédiatrique 3%</li>
         <li class="list-group-item">Doliprane 2,4%</li>
         <li class="list-group-item">Dolko 60 mg/2mL buvable</li>
         <li class="list-group-item">Efferalganmed pédiatrique</li>

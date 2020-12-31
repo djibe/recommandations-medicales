@@ -4,6 +4,7 @@ prefix = "le "
 shortname = "SAOS"
 synonyms = ["Apnées du sommeil"]
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Dr S. LAUNOIS (SFRMS)"
 date = 2020-12-22T09:52:41+02:00
 publishdate = 2020-12-22
 lastmod = 2020-12-22
@@ -22,7 +23,7 @@ todo = "https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources
 
 {{%article-summary%}}
 
-- Dépister, dépister, dépister
+- Interroger systématiquement sur les signes de SAOS
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
