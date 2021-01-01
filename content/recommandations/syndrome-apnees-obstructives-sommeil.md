@@ -7,9 +7,9 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS)"
 date = 2020-12-22T09:52:41+02:00
 publishdate = 2020-12-22
-lastmod = 2020-12-22
-categories = ["medecine sommeil"]
-guidelineyears = "2014"
+lastmod = 2021-01-01
+categories = ["medecine du sommeil"]
+guidelineyears = "2018"
 sources = ["AASM", "HAS", "SFRMS"]
 tags = ["BPCO", "diabete", "HTA", "insuffisance cardiaque", "obesite", "PPC", "risque cardiovasculaire", "SAOS"]
 anglais = ["Obstructive sleep apnea syndrome"]
@@ -18,19 +18,27 @@ draft = false
 image = true
 imageSrc = "Habib M’henni / Wikimedia Commons"
 imagePNG = true
-todo = "https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/"
+todo = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC, dépistage NOSAS, prévalence, doc explication PPC, durée minimale 4h, comor SOPK"
 +++
 
 {{%article-summary%}}
 
-- Interroger systématiquement sur les signes de SAOS
+- Interroger systématiquement sur les signes de SAOS.
+- Dépister les personnes avec facteur de risque de SAOS (voir *Qui dépister ?*) par le questionnaire STOP-BANG ou 8 questions (voir *Comment dépister ...* )
+- [Liste des centres d'exploration du sommeil par région](https://www.sfrms-sommeil.org/centres-du-sommeil/ile-de-france/)
+- PPC doit être utilisée ≥ 4h/nuit et renouvelée au bout de 3 ans par le médecin traitant.
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Syndrome d’apnée du sommeil (SAS)
 : Survenue pendant le sommeil d’épisodes anormalement fréquents d’interruptions de la ventilation (apnées) ou de réductions significatives de la ventilation (hypopnées), entraînant une hypoxémie et des micro-éveils associés à des symptômes.  
 Il a une origine *obstructive* (SAOS), *centrale* (SACS) ou *mixte*.
+
+Index Apnées-Hypopnées (IAH)
+: ({{%lang%}}Apnea-hypopnea index AHI{{%/lang%}})
+: Le comptage est électro-physiologique et définit la sévérité du SAS.
+: Il est calculé comme la somme des événements d’apnées et d’hypopnées = nombre d’apnées + nombre d’hypopnées / nombre d’heures de sommeil enregistrés.
 
 Insomnie
 : Trouble persistant portant sur l’initiation, la durée, le maintien ou la qualité du sommeil, qui se manifeste en dépit de circonstances et d’occasions satisfaisantes pour le sommeil et qui retentit sur le fonctionnement de la personne au cours de la journée.
@@ -71,10 +79,6 @@ Suite d’inspirations associée à un effort respiratoire croissant aboutissant
 Aspect durant ≥ 10 secondes de dépression de la pression œsophagienne se terminant par une remontée brutale de la pression associée à un micro-éveil.
 Visibles uniquement à l’EEG et donc invisible à la polygraphie ventilatoire (PV).
 
-Index Apnées-Hypopnées (IAH)
-: ({{%lang%}}Apnea-hypopnea index AHI{{%/lang%}})
-: Somme des événements d’apnées et d’hypopnées = nombre d’apnées + nombre d’hypopnées / nombre d’heures de sommeil enregistrés.
-
 {{%lang%}}Respiratory Disturbance Index (RDI){{%/lang%}}
 : Somme des événements respiratoires en incluant les Efforts respiratoires inducteurs de micro-éveil = IAH + ERIM.
 
@@ -92,6 +96,7 @@ Index Apnées-Hypopnées (IAH)
 **SFRMS.** Société Française de Recherche en Médecine du Sommeil  
 **SHRVAS.** Syndrome de haute résistance des voies aériennes supérieures  
 **TILE.** Test itératif de latence à l’endormissement  
+**TRS.**  Troubles respiratoires du sommeil  
 **VEMS.** Volume expiratoire maximal pendant la 1<sup>re</sup> seconde
 
 ### Qui peut être médecin du sommeil?
@@ -145,14 +150,26 @@ Rechercher les apnées du sommeil de façon systématique chez:
 - [Diabète type 2]({{< relref "diabete-type-2.md">}})
 - Maladie cardiovasculaire
   - Hypertension artérielle réfractaire
-  - Insuffisant cardiaque congestif
+  - Insuffisance cardiaque congestive
   - Fibrillation atriale
   - Arythmies nocturnes
   - AVC
   - HTAP
 - Chauffeurs professionnels (ou métiers à risque)
 - Pré-opératoire de chirurgie bariatrique
+
 {{%/info%}}
+
+{{%warning%}}
+Enregistrement du sommeil systématique chez diabétique avec:
+
+- Chauffeur professionnel
+- HTA résistante
+- IRC d'évolution rapide (> 5 mL/min/1,73 m²/an)
+- Rétinopathie
+- Forte insulinorésistance
+
+{{%/warning%}}
 
 ### Facteurs de risque d'apnées du sommeil
 
@@ -176,14 +193,38 @@ Rechercher les apnées du sommeil de façon systématique chez:
 
 Score validé avec la plus grande sensibilité pour le dépistage des apnées du sommeil.
 
+**Il ne doit pas être utilisé en cas de diabète** (voir plus bas).
+
 {{< outils/stop-bang >}}
+
+### Dépistage à l'interrogatoire
+
+Alternative au *STOP-BANG*. La présence de 3 symptômes parmi les 8 ci-dessous justifie un enregistrement du sommeil.
+
+Seules questions validées pour le dépistage du SAOS en cas de diabète.
+
+{{%info%}}
+
+1. Avez-vous un ronflement régulier et gênant pour l’entourage ?
+1. Votre entourage vous a-t-il signalé des arrêts respiratoires pendant que vous dormez ?
+1. Vous réveillez-vous parfois avec l’impression de suffoquer ?
+1. Vous levez-vous plus d’une fois par nuit pour uriner ?
+1. Avez-vous des maux de tête ?
+1. Vous sentez-vous anormalement fatigué la journée ?
+1. Avez-vous l’impression que votre sommeil n’est pas réparateur ?
+1. Ressentez-vous de la somnolence dans la journée ?
+
+{{%/info%}}
+
+> Source SFD/SFRMS/SPLF 2018
 
 ### Échelle de somnolence d'Epworth
 
-({{%lang%}}Epworth sleepiness scale; ESS{{%/lang%}}).
+({{%lang%}}Epworth sleepiness scale = ESS{{%/lang%}})
 
-Il s'agit du meilleur outil pour l’évaluation subjective de la somnolence (AASM 2017). Il est utile d’avoir une confirmation du score par un proche.  
-L'échelle est auto-administrée.
+- Il s'agit du meilleur outil pour l’évaluation subjective de la somnolence (AASM 2017).
+- Il est utile d’avoir une confirmation du score par un proche.
+-  L'échelle est auto-administrée.
 
 [Voir l'échelle d'Epworth](https://reseau-morphee.fr/wp-content/uploads/dlm_uploads/2016/11/Epworth.pdf).  
 **Interprétation:** Score 0-10 normal | 11-15 faible à modérée | 16-24 modérée à sévère
@@ -196,7 +237,7 @@ L'échelle est auto-administrée.
 ### Interrogatoire
 
 - Facteurs de risque cardiovasculaires (tabagisme, HTA)
-- Antécédents cardio-vasculaires (AVC, FA, IC, DT2, HTAP) et généraux
+- Antécédents cardiovasculaires (AVC, FA, IC, DT2, HTAP) et généraux
 - Antécédents familiaux
 - Facteurs aggravants  
 Liste des médicaments, rhinite chronique.
@@ -224,7 +265,7 @@ Liste des médicaments, rhinite chronique.
   - Sévérité de la somnolence et score à l'*Epworth*
 - Signes d'autres pathologies du sommeil
   - Besoin impérieux de bouger les jambes par paresthésies  
-  Aggravation au repos surtout couché, amélioration à l’activité, rythme nycthéméral)
+  Aggravation au repos surtout couché, amélioration à l’activité, rythme nycthéméral).
   - Périodes de sommeil irrépressibles
 - Signes différentiels
   - Syndrome dépressif
@@ -233,7 +274,7 @@ Liste des médicaments, rhinite chronique.
   - Mauvaise hygiène de sommeil
   - Dette de sommeil
   - Affection neurologique  
-  Narcolepsie, hypersomnie idiopathique
+  Narcolepsie, hypersomnie idiopathique.
   - Asthme nocturne
   - Douleurs (rhumatismales, artéritiques, polynévrite ou neurologiques)
   - RGO
@@ -263,7 +304,7 @@ Diagnostic différentiel du syndrome obstructif d'apnées du sommeil:
 Ronflement isolé.
 - De la somnolence diurne  
 Narcolepsie, hypersomnie idiopathique, dette de sommeil, syndrome obésité-hypoventilation.
-- De dyspnée nocturne:  
+- De dyspnée nocturne  
 Attaques de paniques nocturnes, RGO, asthme, insuffisance cardiaque, angor nocturne.
 - Des apnées  
 Syndrome d'apnées centrales du sommeil (SACS).
@@ -279,7 +320,7 @@ Polygraphie ventilatoire voire polysomnographie (couplée à l'EEG) en cas de su
 
 ### Gaz du sang
 
-Indications: tout SAOS avec:
+Indiqué pour tout SAOS avec:
 
 - BPCO, trouble ventilatoire obstructif
 - Obésité ≥ grade 2 (35 kg/m²)
@@ -310,15 +351,29 @@ Test lourd et coûteux d’évaluation objective de la somnolence diurne.
 Le traitement spécifique relève exclusivement du spécialiste.  
 Il consiste en une ventilation à pression positive continue (PPC) ou un orthèse d'avancée mandibulaire (OAM).
 
-**NB.** Le médecin traitant peut renouveler annuellement la demande d'entente préalable de la PPC après 3 ans de traitement.
-
 ### Mesures générales
 
-- Perte de poids si patient obèse  
+- Perte de poids si surpoids  
 {{%class%}}Améliore l’IAH et les désaturations.{{%/class%}}
-- Évaluer le bénéfice/risque d’une chirurgie bariatrique chez les sujets obèses.
+- Évaluer le bénéfice/risque d’une chirurgie bariatrique chez les sujets obèses (35 kg/m²).
 - Traitement d’une rhinite chronique/obstruction nasale associée.
-- SAOS Positionnel: Dormir sur le côté.
+- Arrêt du tabac  
+{{%class%}}N'améliore pas le SAOS mais réduit l'impact des comorbidités.{{%/class%}}
+- Réduire la consommation d'alcool.
+- Réduire la consommation d'hypnotiques.
+- SAOS Positionnel: dormir sur le côté.
+- Dépister une dépression.
+- Proposer des parcours d'éducation thérapeutique
+
+### Les grands principes à connaître
+
+1. Principe de la PPC  
+Le maintien d'une pression permanente dans les voies aériennes prévient le collapsus du pharynx pendant le sommeil et donc toute interruption des débits d'air.
+1. La PPC doit être utilisée au moins 4 heures par nuit
+1. La PPC peut être renouvelée par le médecin traitant au bout de 3 ans  
+Après 3 ans de traitement, le médecin traitant peut renouveler la demande d'entente préalable de la PPC.  
+Conditions: observance des 12 derniers mois (≥ 112 heures sur 10 mois et ≥ 56 heures sur les 2 restants).  
+Les données sont fournies par le prestataire.
 
 ### En savoir plus sur le traitement du SAOS
 
@@ -363,6 +418,41 @@ si peut consulter observance des 12 derniers mois (≥ 112 heures sur 10 mois et
 > [*Source HAS 2014*](https://www.has-sante.fr/portail/jcms/c_1761160/fr/apnees-du-sommeil-de-nouvelles-recommandations-de-prise-en-charge-des-patients)
 
 {{% /collapse %}}
+{{%collapse "Surveillance du traitement" %}}
+
+Rappeler les risques du SAOS et insister sur les bénéfices du traitement (amélioration de la qualité de vie, somnolence diurne et autres symptômes, sensibilité à l'insuline, réduction HTA, risque cardiovasculaire et risque d'AVP).
+
+Relever les désagréments du traitement pour favoriser l'observance.
+
+Rappeler que la PPC doit être utilisée au moins 4 heures par nuit.
+
+### Contrôle de l'efficacité du traitement du SAOS
+
+- Observance
+- Somnolence diurne  
+Évaluer avec l'[échelle d'Epworth](https://reseau-morphee.fr/wp-content/uploads/dlm_uploads/2016/11/Epworth.pdf).
+- Insomnie
+- Céphalées matinales
+- Ronflements
+- Nycturie
+- Troubles cognitifs
+- Machine de PPC
+  - IAH résiduel
+  - Fuites  
+  En rapport avec un masque ou des pressions de ventilation inadaptées.
+
+### Contrôle des effets indésirables de la PPC
+
+- Irritation cutanée du visage
+- Intolérance nasale  
+Rhinorrhée, éternuements, obstruction nasale.
+
+Effets facilement réversibles par intervention du prestataire.  
+(Ajustement du masque, humidificateur, température de la chambre)
+
+Environ 10% des patients peuvent avoir une somnolence résiduelle malgré un traitement adapté. Le suivi est spécialisé.
+
+{{% /collapse %}}
 {{%collapse "En savoir plus" %}}
 
 ### Critères diagnostiques pour le SAOS de l'adulte ICSD-3 2014
@@ -374,7 +464,7 @@ A. Présence ≥ 1 vrai parmi:
   1. Plainte de somnolence diurne, sommeil non réparateur, fatigue ou d’insomnie
   2. Le patient se réveille avec un arrêt de la respiration, haletant ou suffocant
   3. Ronflements habituels, interruptions de la respiration ou les 2 constatés par l’entourage durant le sommeil
-  4. Comorbidités diagnostiquées : HTA, troubles de l’humeur, troubles cognitifs, coronaropathie, AVC, IC congestive, FA, diabète type 2
+  4. Comorbidités diagnostiquées: hypertension artérielle, troubles de l’humeur, troubles cognitifs, coronaropathie, AVC, insuffisance cardiaque congestive, fibrillation atriale, diabète type 2
 
 B. Polysomnographie ou polygraphie ambulatoire mesure:  
 RDI ≥ 5 (événements respiratoires principalement obstructifs : apnées obstructives ou mixtes, hypopnées ou ERIM) par heure de sommeil (PSG) ou heure d’enregistrement (PV)
@@ -419,6 +509,7 @@ Les évolutions successives de la définition des hypopnées par l’AASM entra�
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [SFD/SFRMS/SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. MMM septembre 2018.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
 - [Ramar K et al, AASM. Clinical Practice Guideline for the Treatment of Obstructive Sleep Apnea and Snoring with Oral Appliance Therapy: An Update for 2015. J Clin Sleep Med JCSM Off Publ Am Acad Sleep Med. 15 juill 2015;11(7):773‑827.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481062/)
 - [HAS. Apnées du sommeil : de nouvelles recommandations de prise en charge des patients. 10/09/2014.](https://www.has-sante.fr/jcms/c_1761160/fr/apnees-du-sommeil-de-nouvelles-recommandations-de-prise-en-charge-des-patients)
 - [SPLF, SFAR, SFC, SFMT, SFORL, SFRMS. Recommandations pour la Pratique Clinique - Syndrome d’apnées hypopnées obstructives du sommeil de l’adulte. 2010](http://www.sfrms-sommeil.org/IMG/pdf/reco_courtes_sas.pdf)

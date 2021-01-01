@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $href := print (absURL "guidelineyears/") (urlize .) }}
+{{ $href := print ("guidelineyears/") (urlize .) }}
 <div class="w-100 min-vh-100 bg-light">
   <div class="container-md">
     <div class="row">
@@ -17,15 +17,14 @@
           <div class="col-sm-4 d-flex">
             <div class="card flex-fill">
               <div class="card-body card-primary-action">
-                <h3 class="card-title">{{ .Title }}</h3>
+                <h3 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h3>
                 <p class="card-subtitle">
                   {{ with .Params.auteurs}}
                   {{ delimit . ", " }}{{ end }} le
                   <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .Lastmod.Format "02 January" }}</time>
                 </p>
-                <a href="{{ .RelPermalink }}" class="stretched-link"></a>
               </div>
-              <div class="card-actions mt-0 pb-2">
+              <div class="card-actions">
                 {{ partial "widgets/guidelineyear-render.html" . }}{{ partial "widgets/tags-render.html" . }}
               </div>
             </div>

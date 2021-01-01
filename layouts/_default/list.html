@@ -1,12 +1,11 @@
 {{ define "main" }}
-<!-- Example: Page like Tags > Bronchiolite ou Guidelineyears > 2017-->
+<!-- Example: Page like Tags > Bronchiolite ou Accueil > Guidelineyears > 2017-->
 <div class="bg-light list-page">
   <div class="container-md">
     <div class="row">
       <div class="col-12">
         <h1 class="taxonomyList my-xl-5">{{ .Title }}</h1>
-        <!-- TODO: Functional ? -->
-        {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+        {{ $url := replace .RelPermalink ( printf "%s" .Site.BaseURL) "" }}
         {{ $.Scratch.Add "path" .Site.BaseURL }}
         <nav aria-label="breadcrumb" class="mb-4">
           <ol class="breadcrumb">
@@ -25,11 +24,10 @@
       <div class="col-sm-6 col-lg-4 d-flex">
         <div class="card flex-fill mb-3">
           <div class="card-body position-relative card-primary-action ">
-            <h2 class="card-title">{{ .Title }}</h2>
-            <h3 class="card-subtitle text-black-secondary pb-0">{{ with .Params.categories}}{{ delimit . ", " }}{{end}}</h3>
-            <a class="stretched-link" href="{{ .RelPermalink }}"></a>
+            <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <h3 class="card-subtitle">{{ with .Params.categories}}{{ delimit . ", " }}{{end}}</h3>
           </div>
-          <div class="card-actions mt-0 pb-2">
+          <div class="card-actions">
             {{ partial "widgets/guidelineyear-render.html" . }}
             {{ partial "widgets/tags-render.html" . }}
           </div>
