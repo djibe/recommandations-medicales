@@ -140,12 +140,11 @@
   {{ if eq .Section "recommandations" }}
 
     // Don't follow external sources
-    document.addEventListener("DOMContentLoaded", function(event) { // When DOM is ready
-      let externalSources = document.querySelectorAll('#sources-block a');
-      externalSources.forEach((elem) => {
+    document.addEventListener( 'DOMContentLoaded', event => { // When DOM is ready
+      let externalLinks = document.querySelectorAll('a[href^="http"]:not([href*="netlify.app"])');
+      externalLinks.forEach((elem) => {
         elem.setAttribute('target', '_blank')
         elem.setAttribute('rel', 'nofollow noopener')
-        // elem.classList.add('external-link')
       })
     })
   {{ end }}

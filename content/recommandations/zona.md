@@ -104,11 +104,11 @@ Informer sur la nécessité de consultation immédiate en cas de survenue de br�
 - Éviter les bains (macération)
 - Chlorhexidine aqueuse stérile 0,2% 1 application x 2/j sur les lésions cutanées uniquement
 - Réévaluation clinique régulière
-- Si surinfection cutanée:  
-antibiothérapie per os pénicilline M cloxacilline (staph+strepto)
+- Si surinfection cutanée: Antibiothérapie per os pénicilline M cloxacilline (staph+strepto)
 
-{{%info%}}Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anesthésiques, antipririgineux)
-ne doit être appliqué.{{%/info%}}
+{{%info%}}Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anesthésiques, antipririgineux) ne doit être appliqué.{{%/info%}}
+
+**NB**. Pas de bénéfice prouvé des antiH1 sur le prurit au cours d'un zona.
 
 ### Antiviral
 

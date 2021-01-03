@@ -4261,12 +4261,11 @@ input:disabled + .chip {
   color: rgba(0, 0, 0, 0.54);
   display: inline-block;
   fill: currentColor;
-  flex: 0 0 auto;
+  flex: 0 0 1.5rem;
   font-size: 1.5rem;
   height: 1.5rem;
   margin-right: 2rem;
   vertical-align: top;
-  width: 1.5rem;
 }
 
 .list-group-item.active .list-group-item-icon {
@@ -4277,11 +4276,11 @@ input:disabled + .chip {
   border-radius: 50%;
   color: rgba(0, 0, 0, 0.3);
   fill: rgba(0, 0, 0, 0.3);
+  flex: 0 0 2.5rem;
   font-size: 2.5rem;
   height: 2.5rem;
   line-height: 2.5rem;
   margin: 0.5rem 1rem 0.5rem 0;
-  width: 2.5rem;
 }
 
 .list-group-shaped .list-group-item {
