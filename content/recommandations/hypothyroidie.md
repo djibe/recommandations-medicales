@@ -269,9 +269,11 @@ graph TB
       hT --> bilan("Anticorps anti-TPO +/- dépistage cœliaque<br>Échographie cervicale<br>ECG")
         bilan --> traitement("Traitement par lévothyroxine")
           traitement --> adulte("<b>Adulte</b><br>Débuter à 1,7 µg/kg/j")
+            adulte --"Fragilité"--> fragile("<b>Sujet âgé</b>: Débuter à 1,7 µg/kg/j<hr><b>Coronarien</b>: Débuter à 12,5 µg/j")
           traitement --> enfant("<b>Enfant</b><br>Débuter à 2 µg/kg/j")
-          traitement --"Fragilité"--> fragile("<b>Sujet âgé</b><br>Débuter à 1,7 µg/kg/j<br><br><b>Coronarien</b><br>Débuter à 12,5 µg/j")
 {{< /mermaid >}}
+
+> Figure. Conduite à tenir devant une hypothyroïdie.
 
 {{% /collapse %}}
 {{%collapse Sources %}}

@@ -14,13 +14,13 @@ tags = ["angio-oedeme", "anti-histaminique", "histamine", "prurit"]
 anglais = ["Urticaria"]
 sctid = "126485001"
 draft = false
-todo = "Signes gravite, scinder, gs, enfant, choc anaphyla, Quincke, https://onlinelibrary.wiley.com/doi/full/10.1111/all.13397, https://www.dropbox.com/sh/9ivszpuwnxdp4t8/AAB04JahlYn6qounsCr-dQKwa/2019?dl=0&preview=Grille+capacit%C3%A9+urticaire+physique+Q4.docx&subfolder_nav_tracking=1, fiche"
+todo = "gs, enfant, choc anaphyla, Quincke, https://onlinelibrary.wiley.com/doi/full/10.1111/all.13397, https://www.dropbox.com/sh/9ivszpuwnxdp4t8/AAB04JahlYn6qounsCr-dQKwa/2019?dl=0&preview=Grille+capacit%C3%A9+urticaire+physique+Q4.docx&subfolder_nav_tracking=1, fiche"
 +++
 
 {{%article-summary%}}
 
 - Signes de gravité:  
-Dysphonie, hypersalivation et troubles de la déglutition.
+Dysphonie, hyper-salivation et troubles de la déglutition.
 - Pas de corticoïdes (effet rebond)
 - Anti-histaminique anti-H1 seul
 - Bilan uniquement en urticaire chronique résistant
@@ -32,49 +32,68 @@ Dysphonie, hypersalivation et troubles de la déglutition.
 
 Urticaire
 : Dermatose inflammatoire caractérisée par les lésions papuleuses, œdémateuses prurigineuses bien limitées en petits éléments ou confluants en **larges plaques fugaces, migratrices et prurigineuses**.
-: Réaction inflammatoire générée par la libération d’histamine par les mastocytes lors de leur rencontre avec un antigène. Le plus souvcent l'activation est non spécifique et donc non allergique. Rarement par IgE dirigées contre un antigène = anaphylaxie.
+: Réaction inflammatoire générée par la libération d’histamine par les mastocytes lors de leur rencontre avec un antigène.  
+Le plus souvent l'activation est non spécifique et donc non allergique. Rarement par IgE dirigées contre un antigène = urticaire immunologique pouvant déclencher une anaphylaxie.
 : Le plus souvent épisode unique et résolutif sans cicatrice ni lésion de grattage.
+: Vient d'"urtica", ortie en latin.
 
 Urticaire superficielle
 : Œdème **dermiqique uniquement**.
 
 Urticaire profonde
-: Aussi appelée **angio-œdème** ou **œdème de Quicke** (en atteinte pharyngée). Souvent associée à la forme superficielle.
+: Aussi appelée **angio-œdème** voire **œdème de Quicke** en atteinte pharyngée. Souvent associée à la forme superficielle.
 : L'atteinte est *dermo-hypodermique* donnant une tuméfaction ferme, mal limitée, non prurigineuse (paupières et lèvres).  
 Le pronostic vital est engagé en manifestations ORL (dysphonie, troubles de la déglutition).
 : Angio-œdème du visage: cause alimentaire chez l’enfant, médicamenteuse chez l’adulte.
 
 Urticaire chronique (UC)
-: Persistance ou récidive des lésions d'urticaire durant **plus de 6 semaines**.
+: Poussées d'urticaire, le plus souvent quotidiennes, évoluant depuis **plus de 6 semaines**.
 : Pathologie fréquente (prévalence 0,5%, exceptionnelle chez l'enfant) avec altération de la qualité de vie pendant une durée moyenne de 3 à 5 ans.  
 Peut être grave lorsqu'un angio-oedème laryngé ou digestif est associé.
 **Éliminer une maladie inflammatoire ou néoplasique** (rares). Une cause allergique est exceptionnelle.
 
 Urticaire cholinergique
-: Ou urticaire réflexe à la chaleur.
-: Survenue lors d'une exposition à la chaleur, à l’effort ou une émotion, de durée brève.  
+: Ou *urticaire réflexe à la chaleur*.
+: Survenue lors d'une exposition à la chaleur, à l’effort ou une émotion, de durée brève (< 30 minutes).  
+Siège principalement sur le tronc et déclenchée par chaleur, sudation, émotion ou efforts.  
 Test de provocation par exercice physique avec sudation.
 
 Urticaire au froid
-: Test de provocation par glaçon emballé appliqué sur l'avant-bras pendant 20 minutes.  
-Si négatif: test d'immersion de l'avant-bras dans l'eau de 5 à 10°C pendant 10 à 15 minutes.
+: Déclenchée par eau ou air froids, pluie, neige, baignade. Touche principalement les mains et visage.  
+Doit faire rechercher cryoglobulinémie et agglutinines froides.  
+Risque d'hydrocution lors des baignades.
+: Test de provocation par glaçon emballé appliqué sur l'avant-bras pendant 20 minutes.
+: Les urticaires physiques doivent être testés après 1 semaine de sevrage en antihistaminiques.
+Si négatif: test hospitalier d'immersion de l'avant-bras dans l'eau de 5 à 10°C pendant 10 à 15 minutes.
 
 Urticaire de contact au chaud
 : La réaction est immédiate sauf en forme familiale.
 : Test de provocation par application d'un tube en verre contenant de l'eau 38°C et 50 °C pendant 1 et 5 minutes.
 
+Urticaire de contact
+: Fréquentes. Immunologiques (latex, aliments, médicaments) ou non immunologique (orties, méduses, chenilles processionnaires).  
+Lésions apparaissent en moins de 30 minutes au point de contact avec parfois généralisation et choc anaphylactique.
+
 Urticaire solaire
+: Rare. Survient dans les premières minutes des zones habituellement couvertes. Disparait en moins d'une heure.
 : Test de provocation par l'exposition au soleil ou un simulateur.
 
 Urticaire retardée à la pression
+: Œdème douloureux survenant 3 à 12 heures après une pression répétée (plantes après longue marche, paumes après port de sac ...).
 : Test de provocation par l'application de poids 2,5 à 7 kg pendant 20 minutes sur au moins 2 zones différentes (épaule, cuisse)
 
 Urticaire aquagénique
-: Test de provocation par application d'une compresse humide à 37°C sur le dos de la main pendant 20 à 30 minutes.
+: Rare. Test de provocation par application d'une compresse humide à 37°C sur le dos de la main pendant 20 à 30 minutes.
+
+Urticaire alimentaire
+: Allergie vraie IgE dépendante comme l'APLV, œufs, poissons, crustacés, moutarde, arachide, céleri, pêche, amande, tournesol, orange, noisettes, kiwi, fruits exotiques, blé, lentilles.  
+Survient rapidement après l'ingestion.
 
 Dermographisme
 : Lésions linéaires reproduites par le grattage.  
-Test diagnostique avec pointe mousse sur 10 cm.
+Aussi appelé *urticaire factice*, déclenché par la friction cutanée.
+Test diagnostique avec frottement d'une pointe mousse sur 10 cm.
+: De cause inconnue, il peut être isolé ou associée à une autre étiologie.
 
 Angio-œdème vibratoire
 : Test de provocation par un appareil vibratoire.
@@ -123,13 +142,16 @@ Effort, frottement, pression, chaleur, froid, eau, exposition solaire, vibration
   - Migrateur
   - Prurigineux
   - Chaleur locale
-  - (Extension en plaque de géographie, peau d'orange)
+  - Extension en plaque de géographie ou peau d'orange
+- Manifestations associées  
+Hyperthermie modérée, douleurs abdominales ou arthralgies possibles.
 
 ### Examen clinique
 
-Les lésions d'urticaire sont des **papules mobiles, fugaces (habituellement < 24h) et prurigineuses**.
+Les lésions d'urticaire superficielle sont des **papules ou plaques mobiles, fugaces (habituellement < 24h), récidivantes, migratrices et prurigineuses**.
 
-L'atteinte des dermes et hypoderme donne des tuméfactions fermes, pâles, plus douloureuses que prurigineuses, pouvant persister 48 à 72 heures.
+L'urticaire profonde donne des tuméfactions fermes, pâles, non prurigineuses avec sensation de tension douloureuse pouvant persister 48 à 72 heures.  
+En cas d'atteinte muqueuse intestinale, les douleurs peuvent simuler une urgence chirurgicale.
 
 - Entourer les lésions  
 Elles doivent disparaitre en 24h.
@@ -140,6 +162,16 @@ Elles doivent disparaitre en 24h.
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
+
+### De l'urticaire aiguë
+
+- Eczéma aigu du visage  
+Absence de lésion muqueuse, suintement.
+- Exanthème viral
+- Toxidermie maculo-papuleuse
+Les lésions sont fixes.
+- Maladie de Still  
+Éruption fébrile à tendance vespérale, maculeuse ou parfois urticarienne.
 
 ### De l'urticaire chronique
 
@@ -279,24 +311,34 @@ Vin, bières, cidre, liqueurs.
 - Choucroute
 - Fromages à pâte cuite  
 Gruyère, emmental, beaufort, gouda, cheddar.
-- Chocolat
+- **Chocolat**
 - Tomate et sauce tomate, lentille, haricot, fève, petits pois
-- Fraise, agrumes, banane, ananas, fruits exotiques
+- **Fraise**, agrumes, banane, ananas, fruits exotiques
 - Fruits à coque  
 Cacahuète, noix, noisette.
 - Blanc d’œuf en quantité importante
 - Épices (aliments très épicés), sauce Nuoc Man
 - Abus de caféine ou thé
 
-### Médicaments
+### Médicaments responsables d'urticaires
+
+> Tous les médicaments peuvent être en cause et ce quelles que soient leurs voies d'administration. *Collège d'Immunologie*
+
+Les principaux:
 
 - Aspirine et salicylés
 - AINS
 - Morphiniques, opiacés, codéine
-- Produits de contraste iodés
+- IEC
 - Antibiotiques  
 Bêtalactamines (égalemment allergie vraie) polymyxine B, colimycine, néomycine, vancomycine.
+- Produits de contraste iodés
+- Anesthésiques généraux  
+Tubocurarine, halothane.
 - Curares (égalemment allergie vraie)
+
+Et aussi:
+
 - Atropine
 - Protamine
 - Amphétamines
@@ -307,8 +349,6 @@ Népressol, réserpine, hydralazine, trasipressol.
 - Alpha-chymotrypsine, ACTH
 - Thiamine, quinine, scopolamine, pilocarpine
 - Vitamine B1
-- Anesthésiques généraux  
-Tubocurarine, halothane.
 
 ### Facteurs physiques
 
@@ -333,7 +373,7 @@ graph TB
     gravite -- Oui --> urgence("Appel du 15<br>Traitement du choc<br>anaphylactique/Quincke")
 {{< /mermaid >}}
 
-> Figure. Conduite à tenir devant une urticaire aiguë. Dr JB FRON d'après CEILF.
+> Figure. Conduite à tenir devant une urticaire aiguë (*Dr JB FRON d'après CEILF*).
 
 {{< mermaid >}}
 graph TB
@@ -344,7 +384,7 @@ graph TB
         ttt1 -- Résolution --> fin(Pas de bilan)
 {{< /mermaid >}}
 
-> Figure. Conduite à tenir devant une urticaire chronique. Dr JB FRON d'après ANAES 2003.
+> Figure. Conduite à tenir devant une urticaire chronique (*Dr JB FRON d'après ANAES 2003*).
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

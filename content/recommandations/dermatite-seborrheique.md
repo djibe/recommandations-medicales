@@ -180,6 +180,8 @@ graph TB
   entretien -.-> severe(Sévère et résistant<br>Sérologie VIH<br>Avis dermatologue)
 {{< /mermaid >}}
 
+> Figure. Conduite à tenir devant une dermatite séborrhéique.
+
 {{%/collapse%}}
 {{% collapse "Information du patient" %}}
 

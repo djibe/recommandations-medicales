@@ -88,7 +88,7 @@ graph TB
     symptomes -- Oui --> severe
 {{< /mermaid >}}
 
-> [European Association of Urology 2019](https://www.europeanurology.com/article/S0302-2838(19)30347-1/fulltext)
+> Figure. Dépistage du cancer de la prostate et conduite à tenir devant une augmentation du PSA d'après [European Association of Urology 2019](https://www.europeanurology.com/article/S0302-2838(19)30347-1/fulltext)
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

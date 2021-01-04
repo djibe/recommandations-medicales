@@ -6,36 +6,65 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-02T15:14:41+02:00
 publishdate = 2020-12-02
-lastmod = 2020-12-07
+lastmod = 2021-01-04
 categories = ["hepato-gastro-enterologie"]
 guidelineyears = "2017"
 sources = ["HAS", "CNPGHE"]
-tags = ["EOGD", "IPP"]
-anglais = [" Helicobacter pylori"]
+tags = ["B12", "bariatrique", "carence martiale", "EOGD", "IPP"]
+anglais = ["Helicobacter pylori"]
 sctid = "80774000"
 draft = false
+todo = "sérologie, ttt quel moment de prise, http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/diagnostic-traitement-et-suivi-deradication/suivi-de-leradication/, dépistage en AINS long cours maastricht III"
 +++
 
 {{%article-summary%}}
 
-- Confirmation systématique par EOGD et antibiogramme
-- Reporter le traitement si grossesse/allaitement
-- Traitement adapté à l'antibiogramme
-- Contrôle de l'éradication systématique
+- Confirmation systématique par EOGD et antibiogramme.
+- Reporter le traitement si grossesse/allaitement.
+- Traitement adapté à l'antibiogramme.
+- Contrôle de l'éradication systématique (arrêt ATB > 1 mois et IPP > 2 sem).
+- Dépistage du 1<sup>er</sup> degré en cas de lésion (pré)-cancéreuse et d'antécédent familial de cancer gastrique.
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Helicobacter pylori
 : **Abréviation:** H. pylori.  
-Bactérie intestinale responsable d'infections aboutissants  des *ulcères gastro-duodénaux* et de *cancers gastriques* (adénocarcinomes et lymphomes du MALT).  
+Bactérie à tropisme gastrique chronique responsable d'infections compliquée d'*ulcères gastro-duodénaux* et de 80% des *cancers gastriques* (adénocarcinomes et lymphomes du MALT). Contamination dans l'enfance par régurgitations gastriques.  
 Son éradication prévient la survenue de ces complications.
 
 ### Abréviations
 
-**EOGD:** Endoscopie œso-gastro-duodénale  
-**HP:** Helicobacter pylori (ou H. pylori)  
+**EOGD:** Endoscopie œso-gastro-duodénale (ou gastroscopie)  
 **IPP:** Inhibiteurs de la pompe à protons
+
+{{% /collapse %}}
+{{%collapse "Épidémiologie" %}}
+
+La France est un pays de faible incidence.
+
+- 15 à 30% de la population serait infectée  
+< 20% avant 30 ans et > 50% après 50 ans.
+- 10% développent un ulcère et 1% un cancer
+
+{{% /collapse %}}
+{{%collapse "Facteurs de risque et Indications à la recherche d'H. pylori" %}}
+
+- Ulcère gastrique ou duodénal  
+ou antécédent d'ulcère sans EOGD.
+- Avant prise d'AINS ou aspirine faible dose en antécédent d'ulcère
+- Dyspepsie chronique avec EOGD normale
+- Anémie ferriprive sans cause retrouvée ou résistante à la supplémentation
+- Carence en vitamine B12 sans cause retrouvée
+- **Facteur de risque de cancer gastrique**
+  - Antécédent familial au premier degré de cancer de l'estomac ou de lésion pré-cancéreuse gastrique
+  - Porteur HNPCC/Lynch
+  - Antécédent personnel de lésion cancéreuse gastrique
+- Lymphome gastrique du MALT
+- Avant chirurgie bariatrique touchant l'estomac
+- Purpura thrombopénique immunologique de l'adulte
+
+> *Source HAS 2017*
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -45,7 +74,7 @@ Son éradication prévient la survenue de ces complications.
 L'*EOGD* doit être systématique pour analyse anatomopathologique, mise en culture avec recherche d'*H. pylori* et antibiogramme.
 
 {{% /collapse %}}
-{{%collapse "Traitement de Helicobacter pylori" %}}
+{{%collapse "Traitement d'Helicobacter pylori avec antibiogramme" %}}
 
 {{%warning%}} En cas de grossesse ou d'allaitement, il faut différer le traitement.{{%/warning%}}
 
@@ -104,6 +133,13 @@ IPP: une dose matin et soir pendant 10 jours
 Ésoméprazole 20 mg, lansoprazole 30 mg, oméprazole 20 mg, pantoprazole 40 mg ou rabéprazole 20 mg pendant le repas.
 
 {{% /collapse %}}
+{{%collapse "Traitement d'Helicobacter pylori sans antibiogramme" %}}
+
+{{%warning%}} En cas de grossesse ou d'allaitement, il faut différer le traitement.{{%/warning%}}
+
+Voir plus bas le schéma du traitement.
+
+{{% /collapse %}}
 {{%collapse "Contrôle de la guérison" %}}
 
 ### Test respiratoire à l'urée marquée
@@ -143,19 +179,23 @@ La recherche fécale d'H. pylori est une alternative au test respiratoire mais m
 graph TB
   suspicion["Suspicion d'ulcère"] --> gastro("Gastro-entérologue<br>EOGD")
   style suspicion stroke:#0077ff, stroke-width:1px
+  ATCD["Lésion (pré)-cancéreuse<br>chez apparenté 1er degré<br>ou autre indication"] --> gastro
+  style asympt stroke:#0077ff, stroke-width:1px
     gastro --> grossesse("Grossesse ou<br>allaitement ?")
       grossesse -- Non --> antibiogramme("Antibiogramme<br>Sensible clarithromycine ?")
-        antibiogramme -- Sensible --> tri1("<b>Trithérapie 10j</b><br>IPP + amoxicilline<br>+ clarithromycine")
-          tri1 --> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>(≥ 2 semaines sans IPP)")
+        antibiogramme -- Sensible --> triAmox("<b>Trithérapie 10j</b><br>IPP + amoxicilline<br>+ clarithromycine")
+          triAmox -- "Allergie péni" --> triAmoxAllergie("<b>Trithérapie 10j</b><br>IPP + métronidazole<br>+ clarithromycine") --> controle
+          triAmox --> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>(≥ 2 semaines sans IPP)")
         antibiogramme -- "Résistant" --> levofloS("Sensible lévofloxacine ?")
           levofloS -- Sensible --> levoflo("<b>Trithérapie 10j</b><br>IPP + amoxicilline<br>+ lévofloxacine") --> controle
+            levoflo -- "Allergie péni" --> quadrit
           levofloS -- "Résistant" --> quadrit("<b>Quadrithérapie 10j</b><br>IPP + sel de bismuth<br>+ tétracycline + métronidazole") --> controle
           controle -- Négatif --> ok(Bactérie éradiquée)
-          controle -- Positif --> avis(Avis du gastro-entérologue)
+          controle -- Positif --> avis(Avis du Centre de Référence)
       grossesse -- Oui --> reporter("Reporter le<br>traitement")
 {{< /mermaid >}}
 
-> Arbre décisionnel. Traitement de l'Helicobacter pylori guidé par antibiogramme. JB FRON d'après [HAS/CNPHGE 2017](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf).
+> Figure. Conduite à tenir pour le traitement d'Helicobacter pylori guidé par antibiogramme (*Dr JB FRON d'après* [*HAS/CNPHGE 2017*](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf)).
 
 ### Traitement probabiliste en l'absence de l'antibiogramme d'H. pylori
 
@@ -172,28 +212,45 @@ graph TB
           controle -- Positif --> switch(Utiliser le traitement alternatif)
             switch --> surv("<b>Test respiratoire</b>")
               surv -- Négatif --> ok2(Bactérie éradiquée)
-              surv -- Positif --> EOGD("EOGD + antibiogramme<br>Avis spécialisé de HP")
+              surv -- Positif --> EOGD("EOGD + antibiogramme<br>Avis du Centre de Référence")
     grossesse -- Oui --> reporter("Reporter le<br>traitement")
-
 {{< /mermaid >}}
 
-> Arbre décisionnel. Traitement de l'Helicobacter pylori en l'absence d'antibiogramme. JB FRON d'après [HAS/CNPHGE 2017](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf).
+> Figure. Conduite à tenir pour le traitement d'Helicobacter pylori en l'absence d'antibiogramme (*Dr JB FRON d'après* [*HAS/CNPHGE 2017*](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf)).
 
 {{% /collapse %}}
 {{%collapse "Informations du patient" %}}
 
-- [Fiche info patient HAS et CNPHGE. La recherche de Helicobacter pylori (03.2019)](https://www.has-sante.fr/upload/docs/application/pdf/2019-03/helicobacter_recherche.pdf)
+- [Fiche info patient HAS et CNPHGE. La recherche de Helicobacter pylori. Mars 2019.](https://www.has-sante.fr/upload/docs/application/pdf/2019-03/helicobacter_recherche.pdf)
 - [Questions-réponses HAS. Helicobacter pylori : recherche et traitement](https://www.has-sante.fr/jcms/c_2911396/fr/helicobacter-pylori-recherche-et-traitement)
+
+S'assurer de la bonne compréhension de chaque étape pour favoriser la participation au traitement.
+
+- Infection digestive par la bactérie *Helicobacter pylori*. L'infection a lieu le plus souvent durant l'enfance et dure toute la vie. Elle entraîne une inflammation chronique de l'estomac (gastrite) souvent asymptomatique. Elle peut se compliquer d'ulcères et de cancers de l'estomac.
+- La gastroscopie (aussi appelée fibroscopie ou endoscopie) permet d'aller vérifier l'état de l'estomac et de réaliser des prélèvements à la fois pour vérifier l'état des tissus mais aussi pour étudier la présence d'H. pylori et sa résistance aux antibiotiques.
+TODO: Effets indésirables de l'EOGD.
+- Le traitement antibiotique permet d'éradiquer la bactérie.
+- Les antibiotiques causent souvent des problèmes digestifs (nausées, vomissements, diarrhées), vertiges et maux de tête. Mais leur arrêt est rarement nécessaire.
+- Montrer l'ordonnance avec les médicaments, leur posologie et les effets indésirables.
+  - Arrêt immédiat du bismuth/Pylera® en signes neurologiques
+  - Métronidazole et Pylera®: pas d'alcool.
+  - Bismuth et levofloxacine: photosensibilité
+  - FQ: tendinopathies
+- Nécessité de prendre intégralement le traitement pour éradiquer la bactérie.
+- Contrôle systématique de la guérison avec le test à l'urée compte-tenu des résistances aux antibiotiques en France (1 cas sur 5).
+- Le test de guérison à l'urée marquée
+  - Au moins 4 semaines après la fin des antibiotiques et 2 semaines après l'arrêt des anti-acides.
+  - Achat du test en pharmacie (remboursé)
+  - Réalisation du test à jeun au laboratoire d'analyses médicales
+- Dépistage de la famille proche en cas de lésion (pré)-cancéreuse de l'estomac.
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [HAS et CNPHGE. Traitement de l’infection par Helicobacter pylori chez l’adulte. Mai 2017.](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf)
 - [Groupe d'Études Français des Helicobacter (GEFH). Site officiel.](http://www.helicobacter.fr/)
-
-TODO:
-
-- http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/diagnostic-traitement-et-suivi-deradication/suivi-de-leradication/
-- https://www.has-sante.fr/jcms/c_2911396/fr/helicobacter-pylori-recherche-et-traitement
+- [HAS. Helicobacter pylori : recherche et traitement. 26/03/2019](https://www.has-sante.fr/jcms/c_2911396/fr/helicobacter-pylori-recherche-et-traitement)
+- [HAS et CCNPHGE. Diagnostic de l’infection par Helicobacter pylori chez l’adulte. Mai 2017.](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
+- [HAS et CNPHGE. Traitement de l’infection par Helicobacter pylori chez l’adulte. Mai 2017.](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf)
+- [HAS. Dépistage de l’infection à Helicobacter pylori. Avril 2010.](https://www.has-sante.fr/upload/docs/application/pdf/2010-08/synthese_-_depistage_de_linfection_a_helicobacter_pylori.pdf)
 
 {{% /collapse %}}

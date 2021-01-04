@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-14T18:30:29+02:00
 publishdate = 2020-07-14
-lastmod = 2020-07-14
+lastmod = 2021-01-04
 categories = ["rhumatologie"]
 guidelineyears = "2013"
-sources = ["Prescrire", "HAS"]
+sources = ["HAS", "Prescrire"]
 tags = ["canal carpien"]
 anglais = ["Carpal tunnel syndrome"]
 sctid = "57406009"
@@ -41,32 +41,47 @@ Son atteinte est à l'origine de troubles de la sensibilité des 3 premiers doig
 - [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
 - Acromégalie
 - Grossesse
-- Maladie de système.
+- Maladie de système ([Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}))
+
+{{% /collapse %}}
+{{%collapse "Signes de gravité"%}}
+
+{{%warning%}}
+Signes de gravité devant un canal carpien:
+
+- Déficit moteur de flexion du pouce
+- Déficit sensitif du dermatome
+- Amyotrophie
+{{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 **Le diagnostic est clinique, évoqué lors de symptômes évocateurs (l'examen clinique peut être normal, pas de gold standard)**
 
-- **Paresthésies surtout nocturnes** des 3 premiers doigts, obligeant le lever, déclenchées par certains mouvements, engourdissement, décharges électriques ; diminués lorsque secoue la main atteinte ou la laisse pendante.
-- Parfois troubles vasomoteurs associés : sueur, xérose cutanée, modifification de couleur de la main
-- Signe de Mac Murthy-Durkan. Paresthésies du nerf médian lors de la pression du poignet face palmaire
-- Signe de Tinel. idem lors de percussion
-- Test de Phalen. Avant-bras vertical, flexion maximale du poignet 1 minute déclenche des paresthésies du nerf médian
-- Examen de sensibilité au niveau de la pulpe index : tact et piqûre, diapason, mono-filament
-- Examen moteur de l’opposition pouce-index, atrophie thénarienne
-
-- Éliminer un déficit moteur ou sensitif du territoire. Piquer l’index.
-- Éliminer [diabète]({{< relref "diabete-type-2.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), polyarthrite rhumatoïde.
-- Éliminer une cause iatrogène : anti-aromatases (anastrozole, exémestane, létrozole), fluoroquinolones, biphosphonates, anticoagulants oraux, hormone de croissance
+- **Paresthésies surtout nocturnes** des 3 premiers doigts  
+Obligeant le lever, déclenchées par certains mouvements, engourdissement, décharges électriques.
+  Diminués lorsque secoue la main atteinte ou la laisse pendante.
+- Troubles vasomoteurs  
+Sueur, xérose cutanée, modifification de couleur de la main.
+- Signe de Mac Murthy-Durkan  
+Paresthésies du nerf médian lors de la pression du poignet face palmaire.
+- Signe de Tinel  
+Idem lors de percussion du poignet.
+- Test de Phalen  
+Avant-bras vertical, flexion maximale du poignet pendant une minute déclenche des paresthésies du nerf médian.
+- Examen de sensibilité au niveau de la pulpe index  
+Tact et piqûre, diapason, mono-filament.
+- Examen moteur  
+Opposition pouce-index, atrophie thénarienne.
+- Examen sensitif  
+Piquer l’index.
+- Examen étiologique  
+Éliminer [diabète]({{< relref "diabete-type-2.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}).
+- Éliminer une cause iatrogène  
+Anti-aromatases (anastrozole, exémestane, létrozole), fluoroquinolones, biphosphonates, anticoagulants oraux, hormone de croissance.
 
 Si survient pendant la grossesse, 50% guérison à 1 an.
-
-#### Signes de gravité
-
-- Déficit moteur de flexion du pouce
-- Déficit sensitif du dermatome
-- Amyotrophie
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -157,18 +172,21 @@ Le pansement laisse toujours les doigts libres, pour permettre leurs mouvements.
 
 Les fils sont retirés au bout de 15 jours à 3 semaines après l’intervention. La cicatrisation de la paume de la main est en effet très longue. Et même lorsqu’on enlève les fils au bout de ce délai, il n’est pas rare de voir les 2 berges de l’incision s’écarter l’une de l’autre à la façon d’une crevasse. Cela est dû à l’épaisseur importante de la couche cornée de la peau à ce niveau, et il n’en résulte aucun inconvénient. Comme pour n’importe quelle cicatrice du corps, l’évolution s’étale sur 6 à 12 mois au moins, avec une phase de rougeur et d’induration initiale de la cicatrice pendant 2 à 3 mois.
 
-*Source. Hôpital Saint-Louis (Paris)*
+> Source. *Hôpital Saint-Louis (Paris)*
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show"%}}
 
 {{< mermaid >}}
 graph TD
-diagnostic[Diagnostic clinique] --> gravite{Signes de gravité}
+diagnostic["Diagnostic clinique"] --> gravite{"Signes de gravité ?"}
 style diagnostic stroke:#0077ff, stroke-width:1px
-  gravite -->|Oui| emg[ENMG pré-opératoire] --> chir[Chirurgie]
-  gravite -->|Non| medical[Traitement médical<br>Orthèse - Infiltration]
+diagnostic --"Diagnostic différentiel"--> differentiel("- Atteintes radiculaires C6-C7<br>- Syndrome de la traversée thoraco-brachiale<br>- Myélopathies cervicales<br>- Plexopathies<br>- Neuropathies périphériques<br>- Compression du n. médian en amont<br>- Acrosyndromes vasculaires<br>- Paresthésies fonctionnelles")
+  gravite -- Oui --> emg(ENMG pré-opératoire) --> chir("Chirurgie")
+  gravite -- Non --> medical(Traitement médical<br>Orthèse - Infiltration)
 {{< /mermaid >}}
+
+> Figure. Conduite à tenir devant un canal carpien
 
 {{% /collapse %}}
 {{%collapse "Vidéos de formation" %}}
@@ -178,7 +196,7 @@ style diagnostic stroke:#0077ff, stroke-width:1px
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- La Revue Prescrire. Syndrome du canal carpien: parfois d’origine médicamenteuse. Avril 2019.
-- [HAS. Syndrome du canal carpien - Optimiser la pertinence du parcours patient. Février 2013.](//www.has-sante.fr/upload/docs/application/pdf/2013-03/syndrome_du_canal_carpien_optimiser_la_pertinence_du_parcours_patient.pdf)
+- [La Revue Prescrire. Syndrome du canal carpien: parfois d’origine médicamenteuse. Avril 2019.](https://prescrire.org/)
+- [HAS. Syndrome du canal carpien - Optimiser la pertinence du parcours patient. Février 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-03/syndrome_du_canal_carpien_optimiser_la_pertinence_du_parcours_patient.pdf)
 
 {{% /collapse %}}
