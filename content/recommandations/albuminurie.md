@@ -14,11 +14,12 @@ tags = ["microalbuminurie", "albuminurie"]
 anglais = ["Albuminuria"]
 sctid = "274769005"
 draft = true
+todo = "TODO: summary"
 +++
 
 {{%article-summary%}}
 
-
+À compléter
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -31,14 +32,6 @@ Albuminurie A2 Moderately increaseda
 
 Albuminurie A3 Severely increased
 > 30 mg/mmol (> 300 mg/g)
-
-{{% /collapse %}}
-{{%collapse "Examens complémentaires" %}}
-
-
-{{% /collapse %}}
-{{%collapse "Prévention" %}}
-
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

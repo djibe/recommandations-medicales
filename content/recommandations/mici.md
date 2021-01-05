@@ -14,12 +14,12 @@ tags = ["MICI","Crohn","RCH"]
 anglais = []
 sctid = ""
 draft = true
-todo = "privilégier aliments primaires https://presse.inserm.fr/les-emulsifiants-alimentaires-augmentent-le-pouvoir-pathogene-de-certaines-bacteries-et-le-risque-dinflammation-intestinale/41250/"
+todo = "summary, privilégier aliments primaires https://presse.inserm.fr/les-emulsifiants-alimentaires-augmentent-le-pouvoir-pathogene-de-certaines-bacteries-et-le-risque-dinflammation-intestinale/41250/"
 +++
 
 {{%article-summary%}}
 
-TODO:
+À compléter...
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -33,10 +33,6 @@ TODO:
 **VCE** : vidéocapsule endoscopique
 
 {{% /collapse %}}
-{{%collapse "Examens complémentaires" %}}
-
-
-{{% /collapse %}}
 {{%collapse "FMC" %}}
 
 [Viennot S. Diagnostic initial, suivi des MICI et détection des complications. POST'U 2019 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-initial-suivi-des-mici-et-detection-des-complications-reco-ecco-esgar-2019/)
@@ -47,10 +43,6 @@ TODO:
 - [Viennot S. Diagnostic initial, suivi des MICI et détection des complications. POST'U 2019 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-initial-suivi-des-mici-et-detection-des-complications-reco-ecco-esgar-2019/)
 
 {{% /collapse %}}
-
-
-
-
 
 Diagnostic de MICI: examen de ref est colo + iléo.
 Surv régulière pour contrôle efficacité ttt et cicat endoscopique.

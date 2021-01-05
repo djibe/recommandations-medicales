@@ -14,12 +14,12 @@ tags = ["arret"]
 anglais = []
 sctid = ""
 draft = false
-todo = "modalite papier/ameli"
+todo = "TODO: summary, modalite papier/ameli"
 +++
 
 {{%article-summary%}}
 
-
+À compléter
 
 {{%/article-summary%}}
 {{%collapse "Arrêt de travail et vacances" %}}

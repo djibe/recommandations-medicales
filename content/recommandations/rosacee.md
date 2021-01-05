@@ -61,6 +61,7 @@ Aucun signe systémique et récupération spontanée totale en quelques minutes.
 
 Rosacée érythémato-télangiectasique permanente.  
 Atteinte permanente des joues, nez, menton, front en partie médiane avec:
+
 - érythrose (érythème diffus s'effaçant en vitropression)
 - et télangiectasies des joues et ailes du nez (ou couperose).
 - Flushs parfois surajoutés.

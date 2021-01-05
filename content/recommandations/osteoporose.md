@@ -14,11 +14,12 @@ tags = ["osteodensitometrie", "biphosphonate"]
 anglais = ["Osteoporosis"]
 sctid = "64859006"
 draft = true
+todo = "summary"
 +++
 
 {{%article-summary%}}
 
-
+À compléter...
 
 {{%/article-summary%}}
 {{%collapse "Risque de fracture (calcul du FRAX)" %}}

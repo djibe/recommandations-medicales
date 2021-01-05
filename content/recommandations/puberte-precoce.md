@@ -44,7 +44,8 @@ La survenue précoce de la puberté est associée à une maturation sexuelle plu
 Seins de S1 à S4 chez les filles - Testicules de G1 à G5 chez les garçons - Pilosité pubienne de P1 à P5.
 
 Prémature thélarche
-: Développement isolé des seins sans:  
+: Développement isolé des seins sans:
+
 - Accélération de la croissance  
 - Pilosité pubienne  
 - Avance de l'âge osseux

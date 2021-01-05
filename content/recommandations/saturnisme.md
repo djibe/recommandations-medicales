@@ -156,7 +156,7 @@ Nécessite d’informer les familles et le dosage trimestriel de la plombémie a
 {{%collapse "Sources" %}}
 
 - [Inserm. Le saturnisme ou intoxication au plomb. Août 2015.](https://www.inserm.fr/information-en-sante/dossiers-information/saturnisme)
-- [InVS. Saturnisme chez l’enfant. Juin 2015.]()
-- [InVS, Inserm. Saturnisme - Quelles stratégies de dépistage chez l'enfant ? 2008.]()
+- InVS. Saturnisme chez l’enfant. Juin 2015.
+- [InVS et Inserm. Saturnisme - Quelles stratégies de dépistage chez l'enfant ? 2008.](http://www.ipubli.inserm.fr/bitstream/handle/10608/106/?sequence=150)
 
 {{% /collapse %}}

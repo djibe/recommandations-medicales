@@ -14,12 +14,12 @@ tags = ["epreuve effort", "angor", "diabete", "HTA", "sport"]
 anglais = ["Cardiopulmonary exercise test (CPET)"]
 sctid = "447346005"
 draft = false
-todo = "probabilite pre-test, rcv score"
+todo = "TODO: summary, probabilite pre-test, rcv score"
 +++
 
 {{%article-summary%}}
 
-
+À compléter
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -71,7 +71,7 @@ Au diagnostic puis tous les 6 à 12 mois (EEVO<sub>2</sub>).
 - Sportif
   - avec angor
   - avec RCV élevé/très élevé
- 
+
 ### Épreuve d'effort doit être envisagée
 
 - Probabilité pré-test de coronaropathie **Faible**  
@@ -107,6 +107,7 @@ ou débutant une activité intense (> 6 METs)
 {{%collapse "Contre-indications" %}}
 
 {{% warning %}}
+
 ### Contre-indications absolues
 
 - SCA ST+ ou ST- (< 2 jours)

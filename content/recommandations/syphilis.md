@@ -40,6 +40,7 @@ Syphilis précoce
 : Évolution datant de moins d’un an (J1 étant le 1<sup>er</sup> jour du chancre).  
 **Risque de contagion le plus important** (charge en tréponèmes +++).  
 Elle comprend:
+
 - la syphilis primaire
 - la syphilis sérologique
 - la syphilis secondaire
@@ -194,7 +195,7 @@ Informer sur la réaction d’Herxeimer.
 - Antibiothérapie  
 Benzathine pénicilline G (BPG) 2,4 MU dans fesse ou cuisse face latérale OU 2 injections IM de 1,2 MU.  
 Administration intra-musculaire exclusivement.  
-Garder le patient sous surveillance pendant 30 minutes en présence de matériel d’urgence.    
+Garder le patient sous surveillance pendant 30 minutes en présence de matériel d’urgence.  
 **Contre-indications:** Allergie bêtalactamines, anticoagulants.
 - Dépistage des contacts  
 Tous les contacts des 3 mois précédents.

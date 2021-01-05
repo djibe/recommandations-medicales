@@ -29,7 +29,8 @@ todo = "spirométrie?, ttt épreuve?, EOGD?, MAJ graph"
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-Toux chronique native
+Toux chronique native:
+
 1. Durée > 3 semaines
 1. Sans tendance à l'amélioration
 1. En dehors d'un épisode identifié susceptible d'être en cause
@@ -53,6 +54,7 @@ Se manifeste par une congestion nasale, un écoulement postérieur ou une rhinor
 {{%collapse "Signes de gravité" %}}
 
 {{% danger %}}
+
 - AEG
 - Syndrome infectieux (fièvre, sueurs nocturnes…)
 - Dyspnée d’effort
@@ -195,6 +197,6 @@ graph TB
 {{%collapse "Sources" %}}
 
 - [SFORL. Recommandation pour la pratique clinique - La toux chronique chez l'adulte. Texte court. 06/2020](https://www.sforl.org/wp-content/uploads/2020/02/TOUX-CHRONIQUE-ADULTE-long.pdf)
-- [Revue Médicale Suisse. Toux chronique de l’adulte : évaluation et prise en charge.  Rev Med Suisse 2014; volume 10. 2196-2201 ](https://www.revmed.ch/RMS/2014/RMS-N-451/Toux-chronique-de-l-adulte-evaluation-et-prise-en-charge)
+- [Revue Médicale Suisse. Toux chronique de l’adulte : évaluation et prise en charge.  Rev Med Suisse 2014; volume 10. 2196-2201.](https://www.revmed.ch/RMS/2014/RMS-N-451/Toux-chronique-de-l-adulte-evaluation-et-prise-en-charge)
 
 {{% /collapse %}}

@@ -14,12 +14,12 @@ tags = ["ferritine", "hemochromatose", "syndrome metabolique"]
 anglais = ["Hyperferritinemia"]
 sctid = "390943009"
 draft = false
-todo = "Lire la fmc"
+todo = "Summary, lire la fmc"
 +++
 
 {{%article-summary%}}
 
-
+À compléter
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -34,8 +34,8 @@ De nombreuses maladies influent la ferritinémie, en dehors de l'hémochromatose
 - Syndrome métabolique. 1<sup>re</sup> cause  
 Peut précéder les syndrome métabolique clinique.
 1/3 des diabètes et HGM ont HF.
-- Stéato-hépatite non alcoolique (NASH) 
-20% ont HF et 1/3 a hépatosidérose métabolique
+- Stéato-hépatite non alcoolique (NASH)  
+20% ont HF et 1/3 a hépatosidérose métabolique.
 - Hépatosidérose métabolique
 HF associée à obésitée abdominale et/ou HTA et/ou dyslipidémie et/ou intolérance au glucose.
 Ferritine vers 800 µg/L avec un CST normal/peu augmenté.

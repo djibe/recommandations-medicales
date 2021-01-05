@@ -224,7 +224,7 @@ Seules questions validées pour le dépistage du SAOS en cas de diabète.
 
 - Il s'agit du meilleur outil pour l’évaluation subjective de la somnolence (AASM 2017).
 - Il est utile d’avoir une confirmation du score par un proche.
--  L'échelle est auto-administrée.
+- L'échelle est auto-administrée.
 
 [Voir l'échelle d'Epworth](https://reseau-morphee.fr/wp-content/uploads/dlm_uploads/2016/11/Epworth.pdf).  
 **Interprétation:** Score 0-10 normal | 11-15 faible à modérée | 16-24 modérée à sévère

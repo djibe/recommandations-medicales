@@ -14,7 +14,7 @@ tags = ["insuffisance renale", "risque cardiovasculaire", "HTA", "diabete"]
 anglais = ["Renal failure syndrome"]
 sctid = "42399005"
 draft = false
-todo = "etiologie"
+todo = "etiologie + manque"
 +++
 
 {{% article-summary %}}
@@ -128,15 +128,6 @@ ECBU + échantillon protéinurie/créatU + albuminurie/créatU
 - Si anémie : ferritinémie + CRP
 
 {{%/collapse %}}
-
-
-
-
-
-
-
-
-
 {{%collapse "Éducation thérapeutique" %}}
 
 ### Reprendre en consultation dédiée
@@ -174,6 +165,7 @@ Coter C + ALD ???
 **Protection du capital veineux quand clairance < 45 mL/min**.
 
 #### Symptômes
+
 Connaître les signes et symptômes de la MRC et savoir qui prévenir
 
 {{%/collapse%}}

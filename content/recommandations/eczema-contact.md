@@ -27,7 +27,6 @@ Nickel +++
 Dermatose d'hypersensibilité cutanée provoquée par des allergènes de l'environnement, par voie cutanée ou aérienne.
 La phase de sensibilisation est asymptomatique et la révélation intervient 24-48h après un nouveau contact avec l'allergène.
 
-
 Lésions prurigineuses avec placard érythémateux, formes géométriques
 Mains: visage et paupières.
 Voie aérienne: accumulation dans les rides, sillons nasogéniens et paupières

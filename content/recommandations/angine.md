@@ -55,7 +55,8 @@ TDR
 - Angine érythémateuse ou érythémato-pultacée
 - Scarlatine
 
-Autres formes
+Autres formes d'angine:
+
 - Diphtérie
 - Gonocoque
 - Anaérobies

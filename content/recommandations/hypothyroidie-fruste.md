@@ -70,7 +70,7 @@ Perturbations du bilan lipidique.
 Pas de dépistage de la population générale.  
 Dépistage ciblé: femme > 60 ans et facteurs de risque.
 
-### Indications au traitement 
+### Indications au traitement
 
 - TSH > 10 mUI/L
 - Anticorps anti-TPO positifs

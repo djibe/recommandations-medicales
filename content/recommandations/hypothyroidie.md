@@ -201,6 +201,7 @@ Adaptation par paliers de 12 µg.
 #### Spécialités disponibles
 
 {{%list "list-group" %}}
+
 - L-Thyroxin Henning®
 - Euthyrox® (ancienne formulation de Levothyrox®)
 - Lévothyrox® (nouvelle formulation)

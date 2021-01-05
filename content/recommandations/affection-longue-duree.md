@@ -14,12 +14,12 @@ tags = ["ALD"]
 anglais = ["Chronic disease"]
 sctid = "27624003"
 draft = false
-todo= "TODO: Affections psychiatriques de longue durée"
+todo= "TODO: summary, Affections psychiatriques de longue durée"
 +++
 
 {{%article-summary%}}
 
-
+À compléter
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

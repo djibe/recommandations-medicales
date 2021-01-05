@@ -90,7 +90,7 @@ Principalement sur la pulpe, douloureux survenant lors d'une endocardite infecti
 - Arrêt de travail systématique si profession à risque  
 Industrie agro-alimentaire ou restauration.
 
-### Stade inflammatoire
+### Stade inflammatoire: traitement
 
 {{%info%}}Bains de chlorhexidine 2 à 3 fois par jour.{{%/info%}}
 
@@ -116,7 +116,7 @@ ou amoxicilline + a. clavulanique (Augmentin®) 1g x 3/j 7 jours
 ou cloxacilline (Orbénine®) 50mg/kg/j en 3 prises (max 4g/j) 7 jours  
 ou amoxicilline + a. clavulanique (Augmentin®) 1 dose-kg x 3/j 7 jours (seul traitement pour les < 6 ans)
 
-### Stade collecté
+### Stade collecté: traitement
 
 Exérèse chirurgicale en ambulatoire sous anesthésie locale/loco-régionale avec prélèvements bactériologiques.
 
@@ -129,7 +129,7 @@ Pansement à changer tous les jours pendant 1 semaine puis toutes les 48h jusqu'
 {{< mermaid >}}
 graph TB
   diagnostic["Diagnostic de panaris"] --> inflammatoire(Inflammatoire) --> bains(Bains antiseptiques x3/j) --> immunodepression("Immunodépression,<br>valuvulopathie, diabète ?") -- Oui --> ATB(Antibiothérapie<br>Pristinamycine 1g x 2-3/j 7 jours)
-  style diagnostic stroke:#0077ff, stroke-width:1px 
+  style diagnostic stroke:#0077ff, stroke-width:1px
   diagnostic --> collecte(Collecté) --> chir("Drainage chirurgical")
   diagnostic -- "Diagnostic différentiel" --> differentiel("Pseudo-panaris herpétique<br>Faux panaris d'Osler")
 {{< /mermaid >}}

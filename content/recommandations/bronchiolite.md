@@ -91,7 +91,7 @@ Dyspnée avec polypnée, geignements expiratoires (grunting)
 {{%warning%}}Toujours rechercher une hépatomégalie, seul signe permettant d'éliminer une insuffisance cardiaque aiguë.{{%/warning%}}
 
 - Pouls, fréquence respiratoire, SpO2, température
-- Signes de détresse respiratoire aiguë 
+- Signes de détresse respiratoire aiguë
   - Frein expiratoire
   - Battement des ailes du nez, tirage sous-costal, rétraction our respiration abdominale
 Difficultés d'alimentation et signes de déshydratation

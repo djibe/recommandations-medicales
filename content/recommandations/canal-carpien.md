@@ -57,7 +57,7 @@ Signes de gravité devant un canal carpien:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-**Le diagnostic est clinique, évoqué lors de symptômes évocateurs (l'examen clinique peut être normal, pas de gold standard)**
+**Le diagnostic est clinique**, évoqué lors de symptômes évocateurs (l'examen clinique peut être normal, pas de gold standard).
 
 - **Paresthésies surtout nocturnes** des 3 premiers doigts  
 Obligeant le lever, déclenchées par certains mouvements, engourdissement, décharges électriques.
@@ -140,7 +140,7 @@ En cas d'échecs répétés des traitements fonctionnels ou si syndrome grave (d
 Section du ligament annulaire antérieur du carpe en **chirurgie ambulatoire**.  
 Diminution des paresthésies et douleurs dès le lendemain de l’intervention, persistance possible plusieurs mois. L'amyotrophie peut persister.
 
-##### Complications de la chirurgie
+#### Complications de la chirurgie
 
 Algodystrophie, section incomplète avec récidive, blessure nerveuse, adhérences des fléchisseurs si immobilisation prolongée, générales
 

@@ -14,6 +14,7 @@ tags = ["dysfonction erectile", "IPDE5", "risque cardiovasculaire"]
 anglais = ["Erectile dysfunction"]
 sctid = "860914002"
 draft = false
+todo = "TODO: https://www.revmed.ch/RMS/2019/RMS-N-642/Nouvelles-recommandations-pour-la-prise-en-charge-de-la-dysfonction-erectile-a-l-usage-du-praticien"
 +++
 
 *Les recommandations concernent l'homme de plus de 18 ans.  
@@ -176,8 +177,6 @@ Examen clinique de suivi annuel.
 {{%/collapse%}}
 
 {{%collapse "Sources" %}}
-
-TODO https://www.revmed.ch/RMS/2019/RMS-N-642/Nouvelles-recommandations-pour-la-prise-en-charge-de-la-dysfonction-erectile-a-l-usage-du-praticien
 
 - [Allen MS. Physical activity as an adjunct treatment for erectile dysfunction. Nat Rev Urol. 2019;16(9):553-562. doi: 10.1038/s41585-019-0210-6. PMID: 31239541](https://www.ncbi.nlm.nih.gov/pubmed/31239541)
 - [Colson MH et al. Démarche diagnostique et prise en charge du patient souffrant de dysfonction érectile, actualisation et consignes pratiques. Sexologies. 1 janv 2018;27(1):23‑30.](https://www.em-consulte.com/en/article/1198573)

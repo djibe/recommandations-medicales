@@ -49,7 +49,7 @@ Lésions correspondant à des follicules pilo-sébacés distendus.
 
 ### Lésions inflammatoires superficielles (papules et pustules) et profondes (nodules)
 
-Papule 
+Papule
 : Élément rouge en relief, de 1 à 5 mm de diamètre, parfois sensible, évoluant vers la **pustule** (collection purulente blanc-jaunâtre).
 
 Nodule
@@ -142,7 +142,7 @@ EI: tératogènes, photosensibilité, irritants.
 Extraction des microkystes par médecin formé.  
 Doit être réalisée après plusieurs semaine de rétinoïdes topiques.
 
-### Acné à prédominance rétentionnelle
+### Acné à prédominance inflammatoire
 
 #### Forme localisée
 

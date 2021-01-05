@@ -80,6 +80,7 @@ Bilan minimal de première intention en présence d'un pic monoclonal d'immunogl
 Personnes avec suspicion d'hémopathie maligne devant être adressées rapidement au spécialiste:
 
 {{%warning%}}
+
 - Patient < 60 ans
 - Suspicion d'hémopathie maligne  
 AEG, douleurs osseuses, adénopathies, syndrome tumoral

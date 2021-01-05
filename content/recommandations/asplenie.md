@@ -20,7 +20,7 @@ todo = "améliorer vaccins, graph"
 {{%article-summary%}}
 
 - Antibioprophylaxie par pénicilline V.
-- 5 vaccinations (pneumocoque, méningocoques ACYW135 et B, Haemophilus, grippe).
+- 5 vaccinations: pneumocoque, méningocoques ACYW135 et B, Haemophilus, grippe.
 
 {{%/article-summary%}}
 {{%collapse "Épidémiologie" %}}

@@ -125,14 +125,14 @@ Atopie, urticaire, maladie générale.
 - Traitements pris  
 Histamino-libérateurs: surtout **IEC/sartans**, **AINS/aspirine**, **codéine/morphiniques**.  
 Voir plus bas *Aliments et médicaments histamino-libérateurs*.
-- Habitudes alimentaires    
+- Habitudes alimentaires  
 Aliments riches en *histamine* et *histamino-libérateurs* (voir *Aliments et médicaments histamino-libérateurs*.)
 - Profession
 - Notion d'urticaire de contact (latex)
 - Facteur déclenchant d'urticaire physique  
 Effort, frottement, pression, chaleur, froid, eau, exposition solaire, vibrations.
 - Stress
-- Signes 
+- Signes généraux
 - Urticaire aiguë
   - Infection virale
   - Piqûre d'insecte
@@ -259,7 +259,7 @@ Molécules peu ou pas sédatives de première intention (selon Prescrire): **Cé
 - Proposer un soutien psychologique  
 Éviter antidépresseurs tricycliques et IMAO.
 
-##### Persistance à 8 semaines et échec du traitement
+#### Persistance à 8 semaines et échec du traitement
 
 - Réaliser le bilan biologique (voir *Examens complémentaires*).
 - Vérifier l'observance.

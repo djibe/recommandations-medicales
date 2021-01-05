@@ -18,7 +18,7 @@ draft = true
 
 {{%article-summary%}}
 
-
+À compléter...
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -79,7 +79,7 @@ Kala-Azar, kyste hydatique de la rate
 - Kystes spléniques congénitaux
 - Fibromes, angiomes spléniques
 - Maladies de surcharge
-Maladie de Gaucher, de Niemann-Pick 
+Maladie de Gaucher, de Niemann-Pick.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

@@ -34,7 +34,6 @@ todo = "liste centres, arbre décisionnel"
 {{%collapse "Introduction" %}}
 
 > « Les échecs contraceptifs dus au défaut d’observance sont l’une des principales causes de recours à l’interruption volontaire de grossesse (IVG) en France » (CNGOF 2018).
-
 > « Dans tous les cas où cela est possible, les femmes doivent pouvoir choisir la méthode, médicamenteuse ou chirurgicale, et recevoir une information détaillée. Cette information renforce la satisfaction des femmes après IVG. »
 
 {{% /collapse %}}
@@ -56,8 +55,9 @@ Pic chez **20-29 ans** avec 27 IVG/1000 femmes.
 **Possible jusqu'à 9 semaines d'aménorrhée (SA)** par association:
 
 {{% info %}}
-- Anti-progestérone mifépristone 600 mg par voie orale (Mifégyne® 200mg cp)
-- Prostaglandine misoprostol 400 µg par voie orale 36-48h plus tard (Gymiso® 200µg cp)  
+
+- Anti-progestérone mifépristone 600 mg par voie orale (Mifégyne® 200 mg cp)
+- Prostaglandine misoprostol 400 µg par voie orale 36-48h plus tard (Gymiso® 200 µg cp)  
 ou géméprost 1 mg par voie vaginale (Cervageme® 1 mg ovule, réservé à l'usage hospitalier)
 {{% /info %}}
 

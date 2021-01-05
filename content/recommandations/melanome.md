@@ -16,7 +16,7 @@ sctid = "2092003"
 draft = false
 image = true
 imageSrc = "National Cancer Institute"
-todo = "complications K: lymphoedeme, erysipele, dl neurop"
+todo = "survie melanome, complications K: lymphoedeme, erysipele, dl neurop"
 +++
 
 {{%article-summary%}}
@@ -24,7 +24,7 @@ todo = "complications K: lymphoedeme, erysipele, dl neurop"
 - Personnes à risque: auto-examen cutané tous les 3 mois et consultation annuelle du dermatologue.
 - Une lésion mélanocytaire est suspecte si elle remplit ≥ 2 critères ABCDE.
 - Un nævus est suspect s'il est différent des autres.
-- Suspicion de mélanome = avis dermatologique en semi-urgence. 
+- Suspicion de mélanome = avis dermatologique en semi-urgence.
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -66,12 +66,12 @@ Indice de Breslow, de Clark, ulcération, index mitotique, emboles vasculaires.
 - Âge moyen au diagnostic: 56 ans.
 - Décès annuels: 1783 en 2017  
 {{%class%}}58% d’hommes. 1,2% des décès par cancer.{{%/class%}}
-- **Survie à 5 ans:** 88% en stade localisé versus 18% si métastatique (TODO: mettre à jour).
+- **Survie à 5 ans:** 88% en stade localisé versus 18% si métastatique.
 - 80% surviennent de novo sur peau saine et 20% sur nævus pré-existant.
 - 10% des mélanomes sont familiaux (≥ 2 personnes atteintes dans une famille).
 - Très rares formes muqueuses ou rétiniennes.
 - 80% sont détectés par le patient (*FMC EREVO*)  
-Attention à toute lésion présentée par le patient. 
+Attention à toute lésion présentée par le patient.
 
 {{% /collapse %}}
 {{%collapse "Facteurs de risques de mélanome" %}}
@@ -110,7 +110,7 @@ Travail en extérieur, rayonnements ionisants, soudure de métaux, sidérurgie, 
 | VI         | Noire         | Noirs | Noirs | Exceptionnels |
 {{< /table >}}
 
->  JB FRON d'après Fitzpatrick, T.B. (1988), The validity and practicality of sun reactive skin types I through VI, Arch Dermatol 124 ; 869-871
+> Dr JB FRON d'après Fitzpatrick, T.B. (1988), The validity and practicality of sun reactive skin types I through VI, Arch Dermatol 124 ; 869-871.
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}

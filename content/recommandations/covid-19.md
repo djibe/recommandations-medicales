@@ -47,6 +47,7 @@ Contact
 
 Contact à risque
 : Contact avec:
+
 - Personne ayant partagé le même lieu de vie que le cas
 - Contact direct avec un cas, en face à face, à moins d’1 mètre, quelle que soit la durée.  
 {{%class%}}Des personnes croisées dans l’espace public de manière fugace ne sont pas considérées comme des personnes-contacts à risque.{{%/class%}}
@@ -79,9 +80,6 @@ BPCO, asthme sévère, fibrose pulmonaire, syndrome d'apnées du sommeil, mucovi
 - Immunodépression congénitale ou acquise
 - Syndrome drépanocytaire majeur ou antécédent de splénectomie
 - Maladies du motoneurone, myasthénie grave, SEP, Parkinson, paralysie cérébrale, quadriplégie  ou hémiplégie, tumeur maligne primitive cérébrale, maladie cérébelleuse progressive.
-
-
-
 - Grossesse au 3<sup>e</sup> trimestre
 
 > [Source HCSP 14.11](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=942)
@@ -136,7 +134,7 @@ Atteintes possibles après une infection à Sars-Cov-2.
 {{%/collapse%}}
 {{%collapse "Outils de télésuivi" %}}
 
-### Ile-de-France
+### Télésuivi en Ile-de-France
 
 - [COVI Contact. Suivi des personnes infectées ou en isolement.](https://www.iledefrance.ars.sante.fr/covi-contact-solution-de-telesuivi-et-dappui-des-personnes-isolees)  
 Le suivi est initié par l'ARS sans intervention du médecin.

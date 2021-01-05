@@ -30,6 +30,7 @@ TODO
 - Sa prévalence est élevée, 16 % à 6 semaines, 20 % à 4 mois. La majorité est résorbée à 2 ans.
 
 ### Facteurs de risque de plagiocéphalie
+
 - Garçon
 - Aîné
 - Torticolis congénital

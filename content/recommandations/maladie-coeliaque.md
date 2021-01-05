@@ -165,7 +165,7 @@ En cas de maladie prouvée, dépistage de tout les proches au 1<sup>er</sup> deg
 
 ### Autres examens
 
-**Bilan biologique**  
+#### Bilan biologique
 
 - NFS, ferritinémie, folates
 - Vitamine B12
@@ -227,7 +227,8 @@ Par le gastro-entérologue et le diététicien spécialisé.
 
 [SNFGE/CREGG. Alimentation sans gluten](https//www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/alimentation_sans_gluten-snfge-cregg_2017.pdf)
 
-Le gluten est présent dans toutes les variétés de blé, froment, épeautre, orge et seigle sous toutes leurs formes et donc dans les :
+Le gluten est présent dans toutes les variétés de blé, froment, épeautre, orge et seigle sous toutes leurs formes et donc dans les:
+
 - Pâtes
 - Pains
 - Pâtisseries

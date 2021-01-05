@@ -117,7 +117,7 @@ En première intention pour les douleurs faibles à modérées.
     </div>
     <div aria-labelledby="suppo-tab" class="tab-pane fade" id="suppo" role="tabpanel">
       <p class="text-warning">Uniquement en voie orale impossible.</p>
-      <p class="typography-overline text-black-secondary m-0">Spécialités</p>                
+      <p class="typography-overline text-black-secondary m-0">Spécialités</p>
       <ul class="list-group list-group-flush">
         <li class="list-group-item d-flex list-group-item-two-line">
           <span class="list-group-item-text">
@@ -164,7 +164,7 @@ En première intention pour les douleurs faibles à modérées.
 
 **Posologie:** 20-30 mg/kg/j par voie orale sur période courte (max 72h).
 
-**NB.** L'OMS insiste sur le fait qu'il s'agit du seul AINS suffisamment étudié chez l'enfant. 
+**NB.** L'OMS insiste sur le fait qu'il s'agit du seul AINS suffisamment étudié chez l'enfant.
 
 Classé en palier 1 mais peut être plus efficace que des paliers 2 voire 3 après certains traumatismes ou phases post-opératoires.
 
@@ -192,7 +192,8 @@ Même si aucun lien prouvé.
 ### Codéine chez l'enfant
 
 {{%warning%}}
-- La codéine n'est utilisable qu'à partir de 12 ans après échec de paracétamol + AINS.  
+
+- La codéine n'est utilisable qu'à partir de 12 ans après échec de paracétamol + AINS.
 - Elle est contre-indiquée après amygdalectomie et adénoïdectomie.  
 - Proscrire chez la femme qui allaite.
 {{%/warning%}}
@@ -208,7 +209,7 @@ Surveillance par soignant pendant 1h.
 
 {{< table title="Échelles d'évaluation de la douleur chez l'enfant (source Pediadol)" >}}
 | Âge          | Échelle                  | Seuil de traitement |
-|--------------|--------------------------|:-------------------:|        
+|--------------|--------------------------|:-------------------:|
 | Nouveau-né   | EDIN<br>EVENDOL          | 4-5/15              |
 | 0 - 7 ans    | EVENDOL                  | 4-5/15              |
 | <b>Auto-évaluation</b>    |             |                     |

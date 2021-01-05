@@ -120,7 +120,7 @@ Si allergie documentée à l’amoxicilline et souche sensible à la clarithromy
 - Clarithromycine 500 mg matin et soir pendant 10 jours
 - Métronidazole 500 mg matin et soir
 
-###### Allergie amoxicilline et résistance clarithromycine
+##### Allergie amoxicilline et résistance clarithromycine
 
 Quadrithérapie avec bismuth (idem *Résistance clarithromycine et lévofloxacine*):
 
@@ -179,8 +179,8 @@ La recherche fécale d'H. pylori est une alternative au test respiratoire mais m
 graph TB
   suspicion["Suspicion d'ulcère"] --> gastro("Gastro-entérologue<br>EOGD")
   style suspicion stroke:#0077ff, stroke-width:1px
-  ATCD["Lésion (pré)-cancéreuse<br>chez apparenté 1er degré<br>ou autre indication"] --> gastro
-  style asympt stroke:#0077ff, stroke-width:1px
+  suspect["Lésion (pré)-cancéreuse<br>chez apparenté 1er degré<br>ou autre indication"] --> gastro
+  style suspect stroke:#0077ff, stroke-width:1px
     gastro --> grossesse("Grossesse ou<br>allaitement ?")
       grossesse -- Non --> antibiogramme("Antibiogramme<br>Sensible clarithromycine ?")
         antibiogramme -- Sensible --> triAmox("<b>Trithérapie 10j</b><br>IPP + amoxicilline<br>+ clarithromycine")
@@ -193,6 +193,7 @@ graph TB
           controle -- Négatif --> ok(Bactérie éradiquée)
           controle -- Positif --> avis(Avis du Centre de Référence)
       grossesse -- Oui --> reporter("Reporter le<br>traitement")
+  asympt["Asymptomatique:<br>"]
 {{< /mermaid >}}
 
 > Figure. Conduite à tenir pour le traitement d'Helicobacter pylori guidé par antibiogramme (*Dr JB FRON d'après* [*HAS/CNPHGE 2017*](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf)).

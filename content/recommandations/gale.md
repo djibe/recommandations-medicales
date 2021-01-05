@@ -14,7 +14,7 @@ tags = ["gale"]
 anglais = ["Scabies"]
 sctid = "128869009"
 draft = false
-todo = "antiH1, collectivité, lire sources, revoir fiche patient, impétiginisation, ttt < 2 mois, source Prescrire"
+todo = "fix MD, collectivité, lire sources, revoir fiche patient, impétiginisation, ttt < 2 mois, source Prescrire"
 +++
 
 {{%article-summary%}}
@@ -27,7 +27,7 @@ todo = "antiH1, collectivité, lire sources, revoir fiche patient, impétiginisa
 {{%collapse "Définition" %}}
 
 Gale humaine
-: Contamination cutanée inter-humaine par le *sarcopte* (acarien *Sarcoptes scabiei* variété hominis). Les signes cliniques sont la conséquence à la fois de l’infestation parasitaire et de la réaction de l’organisme contre les sarcoptes et leurs déjections. 
+: Contamination cutanée inter-humaine par le *sarcopte* (acarien *Sarcoptes scabiei* variété hominis). Les signes cliniques sont la conséquence à la fois de l’infestation parasitaire et de la réaction de l’organisme contre les sarcoptes et leurs déjections.  
 Pic de contamination août-novembre.
 
 Sillon
@@ -136,10 +136,6 @@ Voir *Information du patient*.
 Fiche de gestion du linge et de la literie.  
 Prévenir que le prurit peut persister 1 mois et n'est pas signe d'échec du traitement.
 - Bilan d'IST avec accord du patient
-
-TODO:
-- AntiH1 ?  
-- Collectivité traitement oral ?
 
 **NB.** Le linge doit être manipulé avec des gants jetables car les solutions hydro-alcooliques sont inefficaces sur le sarcopte.
 
@@ -263,11 +259,9 @@ Pulvérisez du scabicides spray  pendant la journée sur toute la literie et ore
   - Ne pas oublier : derrière les oreilles, la nuque, insistez sur les plis/aisselles et les organes, génitaux
   - Attendez un peu que le produit sèche (si Spregal : ré-appliquez une 2e couche 15 minutes après)
 
-7. Enfilez un t-shirt à manches longues, pantalon, chaussettes propres, ne rien toucher !  
-
-8. 22 heures: avalez le nombre de comprimés de Stromectol prescrit.  
-
-9. couchez vous dans les draps propres
+7. Enfilez un t-shirt à manches longues, pantalon, chaussettes propres, ne rien toucher !
+8. 22 heures: avalez le nombre de comprimés de Stromectol prescrit.
+9. Couchez vous dans les draps propres
 
 #### Jour 2
 

@@ -115,7 +115,7 @@ ESSG: *European Spondylarthropathy Study Group* (Se 87%, Spe 96%).
 
 **Diagnostic formel de spondylarthropathie si 1 critère majeur ET 1 critère mineur.**
 
-**CRITÈRES MAJEURS**
+### CRITÈRES MAJEURS
 
 1. Synovites (passées ou présentes) asymétriques ou prédominant aux membres inférieurs
 2. Douleurs du rachis (lombaire, dorsal ou cervical passées ou présentes) avec au moins 3 critères parmi:
@@ -127,7 +127,7 @@ ESSG: *European Spondylarthropathy Study Group* (Se 87%, Spe 96%).
 
 ---
 
-**CRITÈRES MINEURS**
+### CRITÈRES MINEURS
 
 1. ATCD familiaux de spondylarthrite, psoriasis, uvéite, arthrite réactionnelle, MICI
 2. Psoriasis (antécédent ou actif)

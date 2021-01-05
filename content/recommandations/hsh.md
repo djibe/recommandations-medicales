@@ -60,9 +60,10 @@ Post systématique avec tout partenaire dont le statut sérologique n'est pas co
 
 Réaliser une sérologie avant la vaccination, sauf statut immunitaire certain.
 
-Adulte:  
+Adulte:
+
 - [Avaxim  160®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62756524&typedoc=R)
-- [Havrix  1440®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60386414&typedoc=R) 
+- [Havrix  1440®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60386414&typedoc=R)
 - [Vaqta 50®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62087670&typedoc=R)
 
 #### Vaccination hépatite B
@@ -81,6 +82,6 @@ TODO
 {{%collapse "Sources" %}}
 
 - [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](//solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
-- [Le Bourhis-Zaimi M et al. Épidémie d’hépatite A parmi des hommes ayant des rapports sexuels avec des hommes, Rouen, décembre 2016 – avril 2017. Bull Epidémiol Hebd. 2017;(18):355-61. ](http://beh.santepubliquefrance.fr/beh/2017/18/2017_18_2.html)
+- [Le Bourhis-Zaimi M et al. Épidémie d’hépatite A parmi des hommes ayant des rapports sexuels avec des hommes, Rouen, décembre 2016 – avril 2017. Bull Epidémiol Hebd. 2017;(18):355-61.](http://beh.santepubliquefrance.fr/beh/2017/18/2017_18_2.html)
 
 {{% /collapse %}}

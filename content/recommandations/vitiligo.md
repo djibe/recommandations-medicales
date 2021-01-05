@@ -85,7 +85,6 @@ Dépigmentation de zones restantes par laser
 Repigmentation longue sur 6 à 24 mois. Meilleure réponse visage que les extrémités.
 Récidives++
 
-
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
