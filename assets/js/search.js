@@ -3,26 +3,26 @@
 
 
 // pass query string by CGI parameter: [URL]?query=[search string]
-var query = new URLSearchParams(window.location.search).get("query");
+var query = new URLSearchParams(window.location.search).get('query');
 if ((query != '') && (query != null)) {
-  document.getElementById("custom-search-field").value = query;
+  document.getElementById('custom-search-field').value = query;
 }
 
 // Debug mode: shows number of hits in the search result. [URL]?debug=1
-let debug = new URLSearchParams(window.location.search).get("debug");
+let debug = new URLSearchParams(window.location.search).get('debug');
 
 let merge_data = [];
 
 window.addEventListener('load', function() {
-  document.getElementById("custom-search").querySelectorAll("input").forEach(item => {
+  document.getElementById('custom-search').querySelectorAll('input').forEach(item => {
     item.disabled = 'disabled';
   });
   if (!merge_data.length) {
-  	document.getElementById("custom-search-results").innerHTML = params['json_wait'];
+  	document.getElementById('custom-search-results').innerHTML = params['json_wait'];
 
     if (params['json_src'] != '') {
-      var json_src_str = params['json_src'].replace("/\s/g", "");
-      var json_sources = json_src_str.split(",");
+      var json_src_str = params['json_src'].replace('/\s/g', '');
+      var json_sources = json_src_str.split(',');
 
       var src_count = 0;
 	  for (var i = 0; i < json_sources.length; i++) {
@@ -37,12 +37,12 @@ window.addEventListener('load', function() {
             src_count++;
 
 		    if (src_count == json_sources.length) {
-	          document.getElementById("custom-search").querySelectorAll("input").forEach(item => {
+	          document.getElementById('custom-search').querySelectorAll('input').forEach(item => {
                 item.disabled = '';
               });
 
-		      document.getElementById("custom-search-field").focus();
-		      document.getElementById("custom-search-results").innerHTML = params['json_ready'];
+		      document.getElementById('custom-search-field').focus();
+		      document.getElementById('custom-search-results').innerHTML = params['json_ready'];
 
               if ((query != '') && (query != null)) {
                 customSearchResults();
@@ -50,39 +50,39 @@ window.addEventListener('load', function() {
 	        }
           } 
 		  if (this.status == 404) {
-            document.getElementById("custom-search-results").innerHTML = params['err_filefailed'];
+            document.getElementById('custom-search-results').innerHTML = params['err_filefailed'];
 	      }
         };
-        xmlhttp.open("GET", url, true);
+        xmlhttp.open('GET', url, true);
         xmlhttp.send();
 	  }
     }
   }
 }, false); 
 
-document.getElementById("custom-search-field").addEventListener('keyup', function(e) {
+document.getElementById('custom-search-field').addEventListener('keyup', function(e) {
   if (params['autocomplete'] == 1) {
-    document.getElementById("custom-search-results").innerHTML = '';
+    document.getElementById('custom-search-results').innerHTML = '';
     if (this.value == '') {
-      document.getElementById("custom-search-results").innerHTML = params['err_nostring'];
+      document.getElementById('custom-search-results').innerHTML = params['err_nostring'];
       return false;
     } else if (this.value.length < params['minlength']) {
-      document.getElementById("custom-search-results").innerHTML = params['err_badstring'];
+      document.getElementById('custom-search-results').innerHTML = params['err_badstring'];
       return false;
     } else if (this.value.length >= params['minlength']) {
       customSearchResults();
     }
   } else {
     if (this.value == '') {
-      document.getElementById("custom-search-results").innerHTML = params['err_nostring'];
+      document.getElementById('custom-search-results').innerHTML = params['err_nostring'];
 	}
   }
 });
 
-let sForm = document.getElementById("custom-search");
+let sForm = document.getElementById('custom-search');
 
 if (params['defaultsearch'] != '') {
-  sForm.querySelectorAll("input[name='option']").forEach(item => {
+  sForm.querySelectorAll('input[name="option"]').forEach(item => {
     item.addEventListener('click', event => {
       customSearchResults();
     });
@@ -90,21 +90,21 @@ if (params['defaultsearch'] != '') {
 }
 
 let sSection = '';
-if ((params['section_search'] == 1) && (sForm.elements["section[]"])) {
-  sSection = sForm.elements["section[]"];
-  sForm.querySelectorAll("input[name='section[]']").forEach(item => {
+if ((params['section_search'] == 1) && (sForm.elements['section[]'])) {
+  sSection = sForm.elements['section[]'];
+  sForm.querySelectorAll('input[name="section[]"]').forEach(item => {
     item.addEventListener('click', event => {
       if (item.value == 'site') {
         if (item.checked) {
-          sForm.querySelectorAll("input[name='section[]']").forEach(node => {
+          sForm.querySelectorAll('input[name="section[]"]').forEach(node => {
             node.checked = false;
           });
-          sForm.querySelector("input[value='site']").checked = true;
+          sForm.querySelector('input[value="site"]').checked = true;
           customSearchResults();
         }
       } else {
         if (item.checked) {
-          sForm.querySelector("input[value='site']").checked = false;
+          sForm.querySelector('input[value="site"]').checked = false;
         } else {
           var section_checked = [];
           for (var i = 0; i < sSection.length; i++) {
@@ -114,10 +114,10 @@ if ((params['section_search'] == 1) && (sForm.elements["section[]"])) {
               continue;
             }
           }
-          if (section_checked.length < 1) sForm.querySelector("input[value='site']").checked = true;
+          if (section_checked.length < 1) sForm.querySelector('input[value="site"]').checked = true;
         }
       }
-      if (document.getElementById("custom-search-field").value != '') {
+      if (document.getElementById('custom-search-field').value != '') {
         customSearchResults();
       }
     });
@@ -128,8 +128,8 @@ function customSearchResults() {
   if (!merge_data.length) {
     return false;
   }
-  var sOutput = document.getElementById("custom-search-results");
-  var sString = document.getElementById("custom-search-field").value;
+  var sOutput = document.getElementById('custom-search-results');
+  var sString = document.getElementById('custom-search-field').value;
   if (sString == '') {
     sOutput.innerHTML = params['err_nostring'];
     return false;
@@ -147,7 +147,7 @@ function customSearchResults() {
   }
 
   var sOption = '';
-  var optionField = document.forms["custom-search"]["option"];
+  var optionField = document.forms['custom-search']['option'];
   if (optionField) {
     sOption = optionField.value;
   } else {
@@ -157,12 +157,12 @@ function customSearchResults() {
   var badwords = [];
   if (params['badwords'] != '') {
     var badwords_str = params['badwords'];
-    badwords_str = badwords_str.replace("/\s/g", "");
-    badwords = badwords_str.split(",");
+    badwords_str = badwords_str.replace('/\s/g', '');
+    badwords = badwords_str.split(',');
   }
 
   var words = [];
-  var search_words = sString.split(" ");
+  var search_words = sString.split(' ');
   for (var i = 0; i < search_words.length; i++) {
     if (badwords.includes(search_words[i])) {
       continue;
@@ -225,7 +225,7 @@ function customSearchResults() {
           var searchstr = '';
           var count = '';
           if (key == 'title') searchstr = title;
-          if ((key == 'tags') && (tags != '')) searchstr = tags.join(",");
+          if ((key == 'tags') && (tags != '')) searchstr = tags.join(',');
           if (key == 'summary') searchstr = summary;
           if (key == 'content') searchstr = content; 
            
@@ -276,7 +276,7 @@ function customSearchResults() {
     } else {
       results_header = params['res_one_item'];
     } 
-    results_header = results_header.replace("[CNT]", results.length);
+    results_header = results_header.replace('[CNT]', results.length);
     if ((add_searchlink) && (add_searchlink != '')) {
       results_header += add_searchlink;
     }
@@ -336,37 +336,37 @@ function customSearchResults() {
       var templ = params['res_item_tpl'];
 
       if (templ) {
-        templ = templ.replace("[TITLE]", title);
+        templ = templ.replace('[TITLE]', title);
         templ = templ.replace(/\[URL\]/g, url);
 
-        if (templ.includes("[DATE]")) {
+        if (templ.includes('[DATE]')) {
           if (date != '') { 
-            templ = templ.replace("[DATE]", datestr);
+            templ = templ.replace('[DATE]', datestr);
           } else {
-            templ = templ.replace("[DATE]", '');
+            templ = templ.replace('[DATE]', '');
           }
         }
-        if (templ.includes("[SUMMARY]")) {
+        if (templ.includes('[SUMMARY]')) {
           if (summary != '') { 
-            templ = templ.replace("[SUMMARY]", summary);
+            templ = templ.replace('[SUMMARY]', summary);
           } else {
-            templ = templ.replace("[SUMMARY]", '');
+            templ = templ.replace('[SUMMARY]', '');
           }
         }
-        if (templ.includes("[TAGS]")) {
+        if (templ.includes('[TAGS]')) {
           if (tags != '') { 
-            tags  = tags.join(",");
-            tags  = tags.replace(/,/g, ", ");
-            templ = templ.replace("[TAGS]", tags);
+            tags  = tags.join(',');
+            tags  = tags.replace(/,/g, ', ');
+            templ = templ.replace('[TAGS]', tags);
           } else {
-            templ = templ.replace("[TAGS]", '');
+            templ = templ.replace('[TAGS]', '');
           }
         }
-        if (templ.includes("[SECTION]")) {
+        if (templ.includes('[SECTION]')) {
           if (section != '') { 
-            templ = templ.replace("[SECTION]", '['+section+'] ');
+            templ = templ.replace('[SECTION]', '['+section+'] ');
           } else {
-            templ = templ.replace("[SECTION]", '');
+            templ = templ.replace('[SECTION]', '');
           }
         }
         results_content += templ;

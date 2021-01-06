@@ -15,11 +15,12 @@ anglais = ["Plagiocephaly"]
 sctid = "21850008"
 qualite = "moyenne"
 draft = false
+todo = "TODO: summary"
 +++
 
 {{%article-summary%}}
 
-TODO
+À compléter...
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

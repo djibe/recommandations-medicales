@@ -39,7 +39,9 @@ https://developers.google.com/search/docs/data-types/breadcrumb#json-ld
 https://github.com/jeremyjaymes/jeremyjaymes.com/blob/master/themes/j/layouts/partials/seo.html  
 https://code.luasoftware.com/tutorials/hugo/schema-markup-for-hugo/
 - Related content
-- Collapse en pur javascript
+- Collapse en pur javascript  
+https://stackoverflow.com/questions/43034782/simplest-way-to-wrap-multiple-elements-with-a-parent-container-in-javascript
+https://plainjs.com/javascript/manipulation/wrap-an-html-structure-around-an-element-28/
 - Turbolinks
 - Add a page for Societes savantes table
 - Add a page for journal de la santé  
