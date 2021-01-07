@@ -150,6 +150,7 @@
   {{ end }}
 
   $(function() {
+    // TODO
     $('.breadcrumb-item:last-of-type').addClass('active').find('a').each(function() {
       let linkText = $(this).text();
       $(this).before(linkText);
@@ -161,8 +162,6 @@
       html: true,
       placement: 'bottom'
     });
-    $('[data-toggle="popover"]').popover({
-      html: true
-    });
+    $('[data-toggle="popover"]').popover({ html: true });
   });
 </script>

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-02T15:14:41+02:00
 publishdate = 2020-12-02
-lastmod = 2021-01-04
+lastmod = 2021-01-07
 categories = ["hepato-gastro-enterologie"]
 guidelineyears = "2017"
 sources = ["HAS", "CNPGHE"]
@@ -19,24 +19,28 @@ todo = "sérologie, ttt quel moment de prise, http://www.helicobacter.fr/acces-a
 
 {{%article-summary%}}
 
-- Confirmation systématique par EOGD et antibiogramme.
+- Confirmation par sérologie ou fibroscopie selon symptômes et facteurs de risque de cancer.
 - Reporter le traitement si grossesse/allaitement.
 - Traitement adapté à l'antibiogramme.
 - Contrôle de l'éradication systématique (arrêt ATB > 1 mois et IPP > 2 sem).
-- Dépistage du 1<sup>er</sup> degré en cas de lésion (pré)-cancéreuse et d'antécédent familial de cancer gastrique.
+- Dépistage du 1<sup>er</sup> degré en cas de lésion (pré)-cancéreuse.
+- Signes d'alarmes en symptômes digestifs hauts:  
+Dysphagie, amaigrissement, anémie.
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Helicobacter pylori
-: **Abréviation:** H. pylori.  
-Bactérie à tropisme gastrique chronique responsable d'infections compliquée d'*ulcères gastro-duodénaux* et de 80% des *cancers gastriques* (adénocarcinomes et lymphomes du MALT). Contamination dans l'enfance par régurgitations gastriques.  
+: **Abréviation:** H. pylori.
+: Bactérie à tropisme gastrique chronique responsable d'infections compliquée d'*ulcères gastro-duodénaux* et de 80% des *cancers gastriques* (adénocarcinomes et lymphomes du MALT).
+: Contamination dans l'enfance par régurgitations gastriques.  
 Son éradication prévient la survenue de ces complications.
 
 ### Abréviations
 
-**EOGD:** Endoscopie œso-gastro-duodénale (ou gastroscopie)  
-**IPP:** Inhibiteurs de la pompe à protons
+**EOGD:** Endoscopie œso-gastro-duodénale (ou fibroscopie/gastroscopie)  
+**IPP:** Inhibiteurs de la pompe à protons  
+**K:** Cancer
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
@@ -69,9 +73,39 @@ ou antécédent d'ulcère sans EOGD.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+### Sérologie Helicobacter pylori
+
+Indications à la sérologie:
+
+**Chez un sujet asymptomatique et ...**
+
+- < 40-45 ans avec antécédent au 1<sup>er</sup> de cancer gastrique  
+ou lésion pré-cancéreuse de l'estomac.
+- Antécédent d'ulcère sans preuve d'éradication d'HP
+- Purpura thrombopénique immunologique
+
+> *Source HAS 2017*
+
 ### Endoscopie œso-gastro-duodénale
 
-L'*EOGD* doit être systématique pour analyse anatomopathologique, mise en culture avec recherche d'*H. pylori* et antibiogramme.
+L'*EOGD* doit être **systématique en cas de symptômes ulcéreux, en cas de sérologie positive ou douteuse et pour tous les autres patients à risque** pour analyse anatomopathologique, mise en culture avec recherche d'*H. pylori* et antibiogramme.
+
+Indication en première intention:
+
+- **Patient symptomatique**
+  - Syndrome ulcéreux
+  - Dyspepsie chez un patient > 40-45 ans
+  - Signes d'alarme  
+  Dysphagie, amaigrissement, anémie.
+  - Anémie ferriprive ou carence en vitamine B12 sans autre cause
+- Patient avec facteurs de risque de cancer gastrique
+  - &gt; 40-45 ans avec antécédent au 1<sup>er</sup> de cancer gastrique  
+  ou lésion pré-cancéreuse de l'estomac.
+  - Autres facteurs de risque (Voir plus haut *Facteurs de risque ...*)
+- Lymphome gastrique du MALT
+- Chirurgie bariatrique prévue
+
+> *Source HAS 2017*
 
 {{% /collapse %}}
 {{%collapse "Traitement d'Helicobacter pylori avec antibiogramme" %}}
@@ -177,12 +211,16 @@ La recherche fécale d'H. pylori est une alternative au test respiratoire mais m
 
 {{< mermaid >}}
 graph TB
-  suspicion["Suspicion d'ulcère"] --> gastro("Gastro-entérologue<br>EOGD")
+  asymptomatique["<b>Asymptomatique</b><br>- &lt; 40 ans et ATCD K gastrique 1er degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie(Sérologie H. pylori)
+  style asymptomatique stroke:#0077ff, stroke-width:1px
+    serologie -- Négative --> indemne(Pas d'infection active)
+    serologie -- Positive/Douteuse --> gastro
+  suspicion["<b>Symptomatique</b><br>- Suspicion d'ulcère<br>- Dyspepsie chez &gt; 40 ans<br>- Signes d'alarme"] --> gastro("<b>Gastro-entérologue</b><br>EOGD")
   style suspicion stroke:#0077ff, stroke-width:1px
-  suspect["Lésion (pré)-cancéreuse<br>chez apparenté 1er degré<br>ou autre indication"] --> gastro
+  suspect["- &gt; 40 ans avec ATCD K gastrique 1er degré<br>- Anémie ferriprive ou B12 sans cause<br>- Lymphome gastrique du MALT<br>- Chirurgie bariatrique"] --> gastro
   style suspect stroke:#0077ff, stroke-width:1px
     gastro --> grossesse("Grossesse ou<br>allaitement ?")
-      grossesse -- Non --> antibiogramme("Antibiogramme<br>Sensible clarithromycine ?")
+      grossesse -- Non --> antibiogramme("<b>Antibiogramme</b><br>Sensible clarithromycine?")
         antibiogramme -- Sensible --> triAmox("<b>Trithérapie 10j</b><br>IPP + amoxicilline<br>+ clarithromycine")
           triAmox -- "Allergie péni" --> triAmoxAllergie("<b>Trithérapie 10j</b><br>IPP + métronidazole<br>+ clarithromycine") --> controle
           triAmox --> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>(≥ 2 semaines sans IPP)")
@@ -193,10 +231,9 @@ graph TB
           controle -- Négatif --> ok(Bactérie éradiquée)
           controle -- Positif --> avis(Avis du Centre de Référence)
       grossesse -- Oui --> reporter("Reporter le<br>traitement")
-  asympt["Asymptomatique:<br>"]
 {{< /mermaid >}}
 
-> Figure. Conduite à tenir pour le traitement d'Helicobacter pylori guidé par antibiogramme (*Dr JB FRON d'après* [*HAS/CNPHGE 2017*](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf)).
+> Figure. Conduite à tenir pour le traitement d'Helicobacter pylori guidé par antibiogramme (*Dr JB FRON d'après HAS/CNPHGE 2017*).
 
 ### Traitement probabiliste en l'absence de l'antibiogramme d'H. pylori
 
@@ -243,7 +280,7 @@ TODO: Effets indésirables de l'EOGD.
   - Au moins 4 semaines après la fin des antibiotiques et 2 semaines après l'arrêt des anti-acides.
   - Achat du test en pharmacie (remboursé)
   - Réalisation du test à jeun au laboratoire d'analyses médicales
-- Dépistage de la famille proche en cas de lésion (pré)-cancéreuse de l'estomac.
+- Dépistage de la famille proche en cas de lésion cancéreuse ou pré-cancéreuse de l'estomac.
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
