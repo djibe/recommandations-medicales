@@ -3,7 +3,6 @@ title = "Zona"
 prefix = "le "
 shortname = "Zona"
 synonyms = []
-photocredits = "Gzzz, CC BY-SA 4.0"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-14T19:48:41+02:00
 publishdate = 2020-11-16
@@ -15,6 +14,8 @@ tags = ["zona"]
 anglais = ["Herpes zoster"]
 sctid = "4740000"
 draft = false
+image = true
+imageSrc = "Gzzz, CC BY-SA 4.0"
 todo = "algo"
 +++
 

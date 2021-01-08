@@ -315,6 +315,10 @@ blockquote {
   }
 }
 
+.card-body .card-title + .card-subtitle {
+  margin-top: -0.625rem;
+}
+
 .card-subtitle::first-letter {
   text-transform: uppercase;
 }

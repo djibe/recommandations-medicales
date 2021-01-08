@@ -1,0 +1,81 @@
+<script src="https://cdn.jsdelivr.net/npm/pdfmake@0.1.68/build/pdfmake.min.js" integrity="sha256-Xf58sgO5ClVXPyDzPH+NtjN52HMC0YXBJ3rp8sWnyUk=" crossorigin></script>
+<script src="https://cdn.jsdelivr.net/npm/pdfmake@0.1.68/build/vfs_fonts.js" integrity="sha256-vEmrkqA2KrdjNo0/IWMNelI6jHuWAOkIJxGf88r4iic=" crossorigin></script>
+<script src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.10.22/b-1.6.5/b-colvis-1.6.5/b-flash-1.6.5/b-html5-1.6.5/b-print-1.6.5/cr-1.5.2/fc-3.3.1/r-2.2.6/rr-1.2.7/sl-1.3.1/datatables.min.js" crossorigin></script>
+<script>
+  $.extend($.fn.dataTable.defaults, {
+    // Display
+    dom: '<"top"f><"data-table"rt<"bottom"Blip>>', // https://datatables.net/examples/basic_init/dom.html
+    lengthMenu: [ // https://datatables.net/examples/advanced_init/length_menu.html
+      [10, 25, 50, -1],
+      [10, 25, 50, "Tous"],
+    ],
+    language: {
+      search: '_INPUT_',
+      searchPlaceholder: 'Rechercher', // https://datatables.net/reference/option/language.searchPlaceholder
+      info: '_START_-_END_ de _MAX_', // https://datatables.net/examples/basic_init/language.html
+      lengthMenu: 'Lignes par page _MENU_',
+      infoEmpty: '0 de _MAX_',
+      infoFiltered: '',
+      paginate: {
+        first: '<svg class="dataTables-svg" viewBox="0 0 24 24"><path d="M18.41 16.59L13.82 12l4.59-4.59L6l-6 6 6 6zM6 6h2v12H6z"/></svg>',
+        previous: '<svg class="dataTables-svg" viewBox="0 0 24 24"><path d="M15.41 16.59L10.83 12l4.58-4.59L14 6l-6 6 6 6 1.4141z"/></svg>',
+        next: '<svg class="dataTables-svg" viewBox="0 0 24 24"><path d="M8.59 16.34l4.58-4.59-4.58-4.59L10 5.75l6 6-6 6z"/></svg>',
+        last: '<svg class="dataTables-svg" viewBox="0 0 24 24"><path d="M5.59 7.41L10.18 12l-4.59 4.59L7 18l6-6-6-6zM6h2v12h-2z"/></svg>'
+      },
+      decimal: ',',
+      thousands: '.',
+      zeroRecords: 'Aucun résultat'
+    },
+    buttons: {
+      buttons: [
+        {
+          extend: 'copy',
+          text: '<svg class="dataTables-svg" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"/></svg>',
+          className: 'btn-icon',
+          attr: { title: 'Copier les données', 'data-toggle': 'tooltip' }
+        },
+        {
+          extend: 'print',
+          text: '<svg class="dataTables-svg" viewBox="0 0 24 24"><path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"/></svg>',
+          className: 'btn-icon',
+          attr: { title: 'Imprimer le tableau', 'data-toggle': 'tooltip' }
+        },
+        {
+          extend: 'pdf',
+          download: 'open',
+          text: '<svg class="dataTables-svg" viewBox="0 0 24 24"><path d="M14,2L20,8V20A2,2 0 0,1 18,22H6A2,2 0 0,1 4,20V4A2,2 0 0,1 6,2H14M18,20V9H13V4H6V20H18M10.92,12.31C10.68,11.54 10.15,9.08 11.55,9.04C12.95,9 12.03,12.16 12.03,12.16C12.42,13.65 14.05,14.72 14.05,14.72C14.55,14.57 17.4,14.24 17,15.72C16.57,17.2 13.5,15.81 13.5,15.81C11.55,15.95 10.09,16.47 10.09,16.47C8.96,18.58 7.64,19.5 7.1,18.61C6.43,17.5 9.23,16.07 9.23,16.07C10.68,13.72 10.9,12.35 10.92,12.31M11.57,13.15C11.17,14.45 10.37,15.84 10.37,15.84C11.22,15.5 13.08,15.11 13.08,15.11C11.94,14.11 11.59,13.16 11.57,13.15M14.71,15.32C14.71,15.32 16.46,15.97 16.5,15.71C16.57,15.44 15.17,15.2 14.71,15.32M9.05,16.81C8.28,17.11 7.54,18.39 7.72,18.39C7.9,18.4 8.63,17.79 9.05,16.81M11.57,11.26C11.57,11.21 12,9.58 11.57,9.53C11.27,9.5 11.56,11.22 11.57,11.26Z"/></svg>',
+          className: 'btn-icon',
+          attr: { title: 'Exporter en PDF', 'data-toggle': 'tooltip' }
+        }
+      ],
+      dom: {
+        container: { className: 'dt-buttons d-none d-md-flex flex-wrap mr-3' },
+        buttonContainer: {},
+        button: { className: 'btn' }
+      }
+    },
+    // Data display
+    colReorder: true,
+    fixedHeader: true,
+    ordering: true,
+    paging: true,
+    pageLength: 10,
+    pagingType: 'full', // https://datatables.net/reference/option/pagingType
+    responsive: true,
+    searching: true,
+    select: {
+      style: 'multi+shift', // https://datatables.net/reference/option/select.style
+      className: 'table-active' // https://datatables.net/reference/option/select.className
+    },
+    stateSave: true,
+  })
+
+  $(function() {
+    $('.table').DataTable({
+      dom: '<"top"f><rt<"bottom"Bi>>'
+    })
+    .on('page.dt', function () {
+      $('[data-toggle="tooltip"]').tooltip({placement: 'bottom'})
+    })
+  })
+</script>

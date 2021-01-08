@@ -26,7 +26,6 @@ https://gist.github.com/clvs7-gh/77b1f50d51d4e238c8482fc31296d4c4
 - Sitemap que pour index + reco
 - Replace guidelineyears
 - Logo
-- Datatables sur fiche
 - If is page menu is active
 - Expand all avec localstorage
 - Score de Wells, BASDAI, Glasgow

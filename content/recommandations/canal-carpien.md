@@ -15,11 +15,14 @@ anglais = ["Carpal tunnel syndrome"]
 sctid = "57406009"
 qualite = "moyenne"
 draft = false
+image = true
+imageSrc = "Photo by handarmdoc on Foter.com / CC BY"
+todo = "TODO: lire reco 2013"
 +++
 
 {{%article-summary%}}
 
-- Signes de gravité : Déficit moteur de flexion du pouce, sensitif du dermatome et amyotrophie
+- Signes de gravité: Déficit moteur de flexion du pouce, sensitif du dermatome et amyotrophie
 - Pas de bilan et orthèse seule en 1<sup>re</sup> intention
 - Reconnaissance possible en maladie professionnelle
 

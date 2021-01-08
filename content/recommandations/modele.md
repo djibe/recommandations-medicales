@@ -4,9 +4,9 @@ prefix = "la "
 shortname = "M"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-12-15T17:43:41+02:00
-publishdate = 2020-12-15
-lastmod = 2020-12-15
+date = 2021-01-15T17:43:00+02:00
+publishdate = 2021-01-15
+lastmod = 2021-01-15
 categories = ["dermatologie"]
 guidelineyears = "2020"
 sources = ["HAS", "MinSante"]
@@ -15,7 +15,7 @@ anglais = ["MSM"]
 sctid = "76102007"
 draft = true
 image = false
-imageSrc = "National Cancer Institute"
+imageSrc = ""
 todo = ""
 +++
 

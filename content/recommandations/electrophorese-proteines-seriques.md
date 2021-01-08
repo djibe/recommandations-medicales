@@ -1,5 +1,5 @@
 +++
-title = "Électrophorèse des protéines sériques et immunoglobuline monoclonale"
+title = "Electrophorèse des protéines sériques et immunoglobuline monoclonale"
 prefix = "l'"
 shortname = "EPS"
 synonyms = []

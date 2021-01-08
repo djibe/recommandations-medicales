@@ -17,18 +17,38 @@ qualite = "moyenne"
 draft = false
 +++
 
+{{%article-summary%}}
+
+- Rechercher des arguments neurorologiques, métaboliques et auto-immuns
+- Talonnettes, contention, kiné, éviter debout prolongé
+
+{{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Enthésopathie mécanique, secondaire à des microtraumatismes répétés sur l'insertion calcanéenne de l'aponévrose plantaire.
+Enthésopathie calcanéenne
+: Enthésopathie mécanique, secondaire à des microtraumatismes répétés sur l'insertion calcanéenne de l'aponévrose plantaire.
 
 ### Facteurs de risque
 
-Sport (course à pied, basket-ball), surpoids, troubles de statique du pied, âge
+- Sport  
+Course à pied, basket-ball.
+- Surpoids
+- Troubles de statique du pied
+- Âge
 
 {{%/collapse%}}
-{{%collapse "Diagnostics différentiels" %}}
+{{%collapse "Diagnostic différentiel" %}}
 
-Tendinopathie plantaire, talonnade, fracture de fatigue du calcaneus, bursite sous-calcanéenne, calcanéite inflammatoire ou métabolique, neuropathie du nerf calcanéen, sciatique S1 tronquée, compression de la première branche du nerf plantaire latéral, tumeur, varice plantaire.
+- Tendinopathie plantaire
+- Talonnade
+- Fracture de fatigue du calcaneus
+- Bursite sous-calcanéenne
+- Calcanéite inflammatoire ou métabolique
+- Neuropathie du nerf calcanéen
+- Sciatique S1 tronquée
+- Compression de la première branche du nerf plantaire latéral
+- Tumeur
+- Varice plantaire
 
 {{%/collapse%}}
 {{%collapse "Clinique" %}}
@@ -37,7 +57,8 @@ Talalgie plantaire. Les douleurs surviennent souvent dès le lever puis s'améli
 
 ### Interrogatoire
 
-- Caractères des douleurs : talalgie plantaire mécanique
+- Caractères des douleurs  
+Talalgie plantaire mécanique.
 - Antécédents neurorologiques, métaboliques et auto-immuns
 - Métier
 
@@ -61,30 +82,35 @@ Recherche d'enthésophyte calcanéen (épine) et élimine une lésion osseuse ca
 
 ### Bilan biologique
 
-En cas de poussées récurenttes : uricémie, glycémie à jeun
+En cas de poussées récurenttes: uricémie, glycémie à jeun.
 
 ### Autres, selon la clinique
 
-- Échographie. Élimine une bursite sous-calcanéenne ou tendinopathie
-- +/- Échographie +/- doppler veineux. Épaississement de l'aponévrose plantaire
-- Scintigraphie osseuse. Examen de 2e intention
-- Scanner/IRM. Examen de 2e intention.
+- Échographie +/- doppler veineux  
+Élimine une bursite sous-calcanéenne ou tendinopathie.  
+Épaississement de l'aponévrose plantaire.
+
+Examens de 2<sup>e</sup> intention:
+
+- Scintigraphie osseuse
+- Scanner/IRM
 
 {{%/collapse%}}
 {{%collapse "Traitement" %}}
 
 - Repos
 - Port de chaussures à talon ou talonnette amortissante  
-Dès le matin.  
-Éviter la station debout et le piétinement prolongé  
-Chaussettes de contention
-
-- Kinésithérapie pour décontraction du système suro-achilléo-calcanéo-plantaire  
-Massages transverses profonds, séquences de contraction isométrique, relâchement puis étirement passif
+Dès le matin.
+- Éviter la station debout et le piétinement prolongé
+- Chaussettes de contention  
+- Kinésithérapie  
+Décontraction du système suro-achilléo-calcanéo-plantaire.  
+Massages transverses profonds, séquences de contraction isométrique, relâchement puis étirement passif.
 - Antalgiques
 - AINS
-- Confection de semelles orthopédiques si trouble de la statique plantaire
-- Si persistance : orthèse plantaire voire infiltrations de corticoïdes.
+- Semelles orthopédiques si trouble de la statique plantaire
+
+En cas de persistance: orthèse plantaire voire infiltrations de corticoïdes.
 
 {{%/collapse%}}
 {{%collapse "Sources" %}}
