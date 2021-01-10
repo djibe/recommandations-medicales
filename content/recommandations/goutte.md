@@ -16,7 +16,7 @@ sctid = "90560007"
 draft = false
 image = false
 imageSrc = ""
-todo = "TODO: Prescrire, CI AINS, HAS, Coffer, arbre, naproxene 750/j"
+todo = "TODO: Prescrire, CI AINS, HAS, arbre, naproxene 750/j, comp goutte"
 +++
 
 {{%article-summary%}}
@@ -34,12 +34,13 @@ Perte poids, arrêt bière, réduire alcool/sodas/jus, viandes/abats, crustacés
 {{%collapse "Définition" %}}
 
 Goutte
-: Rhumatisme inflammatoire le plus fréquent dans le monde, surtout chez l'homme. Elle est la conséquence d'une hyperuricémie chronique.
+: Rhumatisme inflammatoire le plus fréquent dans le monde, surtout chez l'homme âgé. Elle est la conséquence d'une hyperuricémie chronique.
 : Famille des *arthropathies microcristallines* par dépôts de cristaux d’*urate de sodium* (monosodique UMS) dans les articulations. Ces derniers provoquent des arthrites aiguës, récidivantes et de résolution spontanée.  
 Prévalence de 0,9 à 2,5% selon les pays, en augmentation.
 
 Tophus
-: Dépôt sous-cutané de cristaux d'acide urique entouré de cellules inflammatoires.
+: Dépôt tissulaire de cristaux d'acide urique entouré de cellules inflammatoires lors de chronicité de la maladie.  
+Localisés autour des articulations atteintes et préférentiellement oreille (pavillon et hélix), bursite olécrânienne, tendon d'Achille et patellaire, IPD ou pulpe digitale.
 
 Allopurinol
 : Médicament hypo-uricémiant utilisé trop largement.  
@@ -50,7 +51,11 @@ La mortalité est de 20-30% et 60% de ces accidents sous *allopurinol* survienn
 {{%collapse "Complications" %}}
 
 - Tophus
-- Arthropathies uratiques
+- Arthropathies uratiques  
+Par tophi intra-articulaires et osseux.
+- Colique néphrétique  
+Lithiases uriques radiotransparentes.
+- Néphropathie goutteuse
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -62,18 +67,22 @@ La mortalité est de 20-30% et 60% de ces accidents sous *allopurinol* survienn
 Tabagisme, HTA, diabète, dyslipidémie, obésité.
 - Traitements en cours  
 - Médicaments hyperuricémiants  
-Interactions médicamenteuses (biphosphonates).
+Diurétiques, interactions médicamenteuses (biphosphonates).
+- Antécédents familiaux de goutte
 - Antécédents  
-Insuffisance rénale, ulcère gastro-duodénal, infections ...
+Greffe d'organe, colique néphrétique, insuffisance rénale, ulcère gastro-duodénal, infections ...
 - Alcool
 - Antécédents de crise de goutte (délai entre 2 crises), hyperuricémie connue, signes radiologiques
 - Anamnèse de la crise  
-Début brutal, extrêmement douloureux atteignant préférentiellement MTP1 ou pied/cheville avec impotence.
+  - Début brutal avec max sous 24h, extrêmement douloureux.
+  - Gonflement et rougeur locale.
+  - Atteint surtout les membres inférieurs (MTP1 ou pied/cheville voire genou) avec impotence.
+  - Sensibilité rapide à la colchine précoce.
 
 ### Examen clinique
 
 - Articulations, déformations
-- Tophus
+- Tophi
 - Examen cardiovasculaire (pression artérielle, pouls périphériques)
 
 {{% /collapse %}}
@@ -86,6 +95,16 @@ Compléte le bilan des facteurs de risque cardiovasculaires.
 - Créatininémie et clairance CDK-EPI
 - Glycémie à jeun si facteur de risque ou ≥ 45 ans
 - Dyslipidémie selon le terrain
+
+### Radiographies articulaires
+
+radiographies des articulations atteintes au diagnostic pour le diagnostic différentiel (chondrocalcinose articulaire, arthrite infectieuse).
+
+L'arthropathie uratique est tardive avec géodes, encoches épiphysaires et ostéophytose marginale.
+
+### Échographie articulaire
+
+Peut être utile pour affirmer le diagnostic et étayer le diagnostic différentiel.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la crise de goutte" %}}
@@ -313,5 +332,6 @@ Intérêt de colchicine prophylactique.
 - [ANSM. RCP des spécialités à base d’allopurinol. 25 Février 2013.](https://ansm.sante.fr/content/download/46769/603569/version/1/file/ddl-130225-Allopurinol_rcp.pdf)
 - [ANSM. Allopurinol et risque de survenue de toxidermies graves – Lettre aux professionnels de santé. 25 Février 2013.](https://ansm.sante.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Allopurinol-et-risque-de-survenue-de-toxidermies-graves-Lettre-aux-professionnels-de-sante)
 - Société Française de Rhumatologie. Traitement de la goutte. Revue du Rhumatisme 74. 2007.
+- [Collège Français des Enseignants en Rhumatologie (COFER). Item 194 UE 7 - Arthropathie microcristalline.](http://www.lecofer.org/item-cours-1-21.php#ch_2_1)
 
 {{% /collapse %}}
