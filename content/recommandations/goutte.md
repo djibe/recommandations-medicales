@@ -16,14 +16,14 @@ sctid = "90560007"
 draft = false
 image = false
 imageSrc = ""
-todo = "TODO: Prescrire, CI AINS, HAS, arbre, naproxene 750/j, comp goutte"
+todo = "TODO: CI AINS, HAS, arbre, naproxene 750/j, comp goutte, https://www.ebmfrance.net/fr/Pages/ebm/ebm00451.aspx"
 +++
 
 {{%article-summary%}}
 
-- Traitement de la  crise:  
-Glaçage, paracétamol, naproxène 550 x 2/j, forcer la diurèse.
-- Privilégier infiltration en monoarthrite de grosse articulation
+- Traitement de la  crise  
+Glaçage, paracétamol, naproxène, forcer la diurèse.
+- Privilégier l'infiltration en monoarthrite de grosse articulation.
 - Régime  
 Perte poids, arrêt bière, réduire alcool/sodas/jus, viandes/abats, crustacés, laits maigres, substituer diurétique.
 - Contrôle des facteurs de risque cardiovasculaire.
@@ -35,7 +35,7 @@ Perte poids, arrêt bière, réduire alcool/sodas/jus, viandes/abats, crustacés
 
 Goutte
 : Rhumatisme inflammatoire le plus fréquent dans le monde, surtout chez l'homme âgé. Elle est la conséquence d'une hyperuricémie chronique.
-: Famille des *arthropathies microcristallines* par dépôts de cristaux d’*urate de sodium* (monosodique UMS) dans les articulations. Ces derniers provoquent des arthrites aiguës, récidivantes et de résolution spontanée.  
+: Famille des *arthropathies microcristallines* par dépôts de cristaux d’*urate de sodium* (monosodique dit UMS) dans les articulations. Ces derniers provoquent des arthrites aiguës, récidivantes et de résolution spontanée.  
 Prévalence de 0,9 à 2,5% selon les pays, en augmentation.
 
 Tophus
@@ -135,8 +135,10 @@ Efficacité thérapeutique non prouvée pour la ponction, pas de différence d'e
 
 En 2<sup>e</sup> intention selon Prescrire®. En remplacement des AINS.
 
+{{%info%}}
 Colchicine 1 mg per os avec 2<sup>e</sup> prise de 0,5 mg 1 heure après.  
 Puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours).
+{{%/info%}}
 
 - Réduire/arrêter la dose en cas de survenue de diarrhées.
 - Débuter si crise datant < 12 heures (à avoir toujours sur soi).
@@ -149,12 +151,13 @@ Puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours
 
 ### Corticoïdes
 
+En 1<sup>re</sup> intention en cas de monoarthrite de grosse articulation infiltrable.
 En 3<sup>e</sup> intention, en remplacement des AINS et de la colchicine.
 
 Corticothérapie orale 30-35mg x 1/j d’équivalent prednisolone pendant 3 à 5 jours.
 
 Ne pas associer AINS et corticoïdes.  
-Ne pas utiliser en cas de daibète ou d'HTA désequilibrés.
+Ne pas utiliser en cas de diabète ou d'HTA désequilibrés.
 
 {{%info%}}
 Possibilité d'infiltrations de corticoïdes pour une arthrite facilement accessible (ex. genou).  
@@ -223,11 +226,13 @@ Losartan, fénofibrate, atorvastatine, amlodipine.
 
 {{%info%}}Traitement de fond à débuter dès que le diagnostic de goutte symptomatique est posé avec cible d'uricémie < 50 mg/L(SFRhumato).{{%/info%}}
 
-{{%class%}}
+{{%class-block%}}
+
 Proposé d'emblée car la goutte est un facteur de risque indépendant de mortalité prématurée (SFRhumato).
 
 Le traitement est long: à 2 ans des cristaux sont encore visibles en imagerie malgré un traitement efficace.
-{{%/class%}}
+
+{{%/class-block%}}
 
 **Objectif:** maintenir l'uricémie < 60 mg/L (360 µmol/L) au long cours avec cible < 50 mg/L (300 µmol/L).  
 Contrôle de l'uricémie 1-2/an.
@@ -263,6 +268,8 @@ La dissolution des dépôts d’urate expose à des crises de goutte durant les 
 
 #### Échec de l'allopurinol
 
+##### Fébuxostat
+
 Indications au fébuxostat:
 
 - Persistance des crises et cible non atteinte avec l'allopurinol sous régime bien conduit
@@ -270,9 +277,13 @@ Indications au fébuxostat:
 - Insuffisance rénale chronique < 30 mL/min/1,73m² (voire < 60)
 
 {{%warning%}}
-Fébuxostat contre-indiqué en maladie cardiovasculaire sévère.  
-(IDM, angor instable, AIT/AVC, AOMI symptomatique, revascularisation carotidienne/coronarienne, diabète compliqué)
+Fébuxostat contre-indiqué en maladie cardiovasculaire sévère:
 
+- Infarctus du myocarde
+- Angor instable
+- AIT/AVC, AOMI symptomatique
+- Revascularisation carotidienne/coronarienne
+- Diabète compliqué
 {{%/warning%}}
 
 Arrêt de l'allopurinol et remplacement par **fébuxostat** (Adénuric®) 40 mg x 2/j au long cours.
@@ -281,7 +292,11 @@ Arrêt de l'allopurinol et remplacement par **fébuxostat** (Adénuric®) 40 mg 
 
 Si maladie invalidante et traitements insuffisants: adresser au spécialiste pour introduire la pegloticase.
 
-**Traitements de fond retirés du marché:** benzbromarone (Desuric®, retiré en 2008) et probenecid (Bénémide, retiré en 2016).
+##### Probénécide
+
+Uricosurique alternatif de l'allopurinol et du fébuxostat, le probénécide (Santuril®) est de maniement délicat (*Prescrire Rédaction*).
+
+**Traitement de fond retiré du marché:** benzbromarone (Desuric®, retiré en 2008).
 
 {{% /collapse %}}
 {{%collapse "Surveillance du traitement" %}}
@@ -294,6 +309,51 @@ Si maladie invalidante et traitements insuffisants: adresser au spécialiste pou
   - Surveillance cardiovasculaire
 
 {{% /collapse %}}
+{{% collapse "Conduite à tenir devant une crise de goutte" "show" %}}
+
+{{< mermaid >}}
+graph TB
+  crise[Crise de goutte] --> rhd("Éducation<br>Traitement à avoir sur soi<br>Envisager hypouricémiant")
+  style crise stroke:#0077ff, stroke-width:1px
+    rhd --> comorbidites("Comorbidités et<br>coprescriptions")
+      comorbidites -- Sans --> sans("AINS +/- IPP<br>ou colchicine<br>ou corticoïdes") .-> echec("Échec des possibilités")
+      comorbidites -- IRC sévère --> irc(Corticoïdes) .-> echec
+      comorbidites -- MCV sévère --> mcv(Colchicine<br>ou corticoïdes) .-> echec
+      comorbidites -- Inhibiteurs CYP3A4/GP --> inh(AINS<br>ou corticoïdes) .-> echec
+        echec --> spe(Adresser au spécialiste<br>pour IL-1)
+    rhd -- Monoarthrite infiltrable --> infiltration(Infiltration de corticoïdes)
+{{< /mermaid >}}
+
+> **Figure.** Conduite à tenir thérapeutique devant une crise de goutte (*Dr JB FRON d'après SFR oct 2020*).  
+**MCV:** maladie cardiovasculaire  
+**Inhibiteurs CYP3A4/GP:** [pristinamycine, macrolides...](https://www.ansm.sante.fr/Dossiers/Interactions-medicamenteuses/Interactions-medicamenteuses-et-cytochromes/(offset)/1)  
+**Colchicine** J1: 1 mg puis 0,5 mg à H1 puis jours suivants 0,5 mg x 2-3/j.  
+**AINS:** Naproxène.  
+**Corticoïdes:** 30-35 mg/j prednisolone 5 jours ou infiltration de grosse articulation.  
+
+{{%/collapse%}}
+{{% collapse "Conduite à tenir pour le traitement hypouricémiant" "show" %}}
+
+{{< mermaid >}}
+graph TB
+  diagnostic[Diagnostic de goutte] --> education(Éducation<br>Traitement sur soi<br>RHD)
+  style diagnostic stroke:#0077ff, stroke-width:1px
+    education --> clairance(Évaluation clairance et<br>cardiovasculaire)
+      clairance -- Sans comorbidités --> allopurinol(Allopurinol 50<br>à 100 mg/j) --> prophylaxie("Prophylaxie<br>colchicine 0,5 à 1 mg/j &ge; 6 mois")
+      clairance -- IRC modérée --> ircmoderee(Allopurinol 50 mg<br>ou fébuxostat 40 mg x 2/j) --> prophylaxie
+      clairance -- IRC sévère --> ircsevere(Fébuxostat 40 mg x 2/j) --> prophylaxie
+      clairance -- MCV sévère --> mcv(<b>Pas de fébuxostat</b>)
+        prophylaxie -- Titration --> titration("<b>Augmenter l'hypouricémiant de:</b><br>- allopurinol 50-100 mg/j (max 900)<br>- fébuxostat 40 mg/j (max 120)")
+          titration --> uricemie(Uricémie à 2 ou 4 semaines<br>Cible &lt; 50 mg/L soit 300 µmol/L) --> titration
+            uricemie -- "&lt; 50 mg/L" --> cible(<b>Cible atteinte</b><br>Poursuite à vie) --> surv("Uricémie 1-2/an et <br>adaptation hypouricémiant")
+            uricemie -- "&lt; 60 mg/L" --> presque(Maintenir la dose à vie<br>Envisager autres mesures<br>hypouricémiantes) --> surv
+            uricemie -- "> 60 mg/L" --> hors(Maintenir doses maximales<br>Considérer uricosuriques) --> surv
+{{< /mermaid >}}
+
+> **Figure.** Conduite à tenir thérapeutique pour le traitement hypouricémiant (*Dr JB FRON d'après SFR oct 2020*).  
+**MCV:** Maladie cardiovasculaire
+
+{{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
 - Les douleurs sont causées par les dépôts d'urate de sodium dans les articulations
@@ -325,8 +385,10 @@ Intérêt de colchicine prophylactique.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Prescrire Rédaction. Probénécide : de retour en ville, avec AMM. Novembre 2020.](https://prescrire.org)
 - [Société Française de Rhumatologie. Recommandations 2020 de la Société française de rhumatologie pour la prise en charge de la goutte : traitement des crises de goutte. Octobre 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301502)
 - [Société Française de Rhumatologie. Recommandations de la Société française de rhumatologie pour la prise en charge de la goutte : le traitement hypo-uricémiant. Octobre 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301514)
+- [Prescrire Rédaction. Douleur et crise de goutte. Septembre 2020.](https://prescrire.org)
 - [EULAR. 2016 updated EULAR evidence-based recommandations for the management of gout. July 25, 2016.](https://ard.bmj.com/content/76/1/29)
 - [La Revue Prescrire. Fébuxostat : syndromes de Lyell et hypersensibilités graves ajoutés dans le RCP. Février 2015.](https://prescrire.org/)
 - [ANSM. RCP des spécialités à base d’allopurinol. 25 Février 2013.](https://ansm.sante.fr/content/download/46769/603569/version/1/file/ddl-130225-Allopurinol_rcp.pdf)

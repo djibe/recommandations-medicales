@@ -7,7 +7,7 @@
         <h1 class="taxonomyList my-xl-5">{{ .Title }}</h1>
         {{ $url := replace .RelPermalink ( printf "%s" .Site.BaseURL) "" }}
         {{ $.Scratch.Add "path" .Site.BaseURL }}
-        <nav role="navigation" aria-label="breadcrumb" class="mb-4">
+        <nav aria-label="breadcrumb" class="mb-4">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="/">Accueil</a></li>
             {{ range $index, $element := split $url "/" }}

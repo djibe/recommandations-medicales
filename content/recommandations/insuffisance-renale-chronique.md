@@ -19,22 +19,22 @@ todo = "etiologie + manque"
 
 {{% article-summary %}}
 
-- Dépistage annuel des populations à risque par créatininémie + albuminurie sur échantillon
-- Le diagnostic est biologique
-- Néphroprotection : IEC, contrôle strict des facteurs de risque cardiovasculaires
+- Dépistage annuel des populations à risque par créatininémie + albuminurie sur échantillon.
+- Le diagnostic est biologique.
+- Néphroprotection: IEC, contrôle strict des facteurs de risque cardiovasculaires.
 
 {{%/article-summary%}}
 {{%collapse "Définition"%}}
 
-### Maladie rénale chronique (MRC)
+Maladie rénale chronique (MRC)
+: Présence d'une **insuffisance rénale chronique**  
+Diminution du débit de filtration glomérulaire (DFG ou clairance) < 60 mL/min/1,73 m² (formule CKD-EPI)  
+OU présence ≥ 1 **marqueur d'atteinte rénale** persistant plus de 3 mois:
 
-- Présence d'une **insuffisance rénale chronique**  
-Diminution du débit de filtration glomérulaire (DFG ou clairance) < 60 mL/min/1,73 m² (formule CKD-EPI)
-- OU présence ≥ 1 **marqueur d'atteinte rénale** persistant plus de 3 mois :
-  - Protéinurie ou albuminurie
-  - Hématurie > 10/mm<sup>3</sup> (hors cause urologique)
-  - Leucocyturie > 10/mm<sup>3</sup>
-  - Anomalie morphologique à l’échographie rénale: asymétrie de taille, contours bosselés, reins de petite taille/gros reins polykystiques, néphrocalcinose, kyste
+- Protéinurie ou albuminurie
+- Hématurie > 10/mm<sup>3</sup> (hors cause urologique)
+- Leucocyturie > 10/mm<sup>3</sup>
+- Anomalie morphologique à l’échographie rénale: asymétrie de taille, contours bosselés, reins de petite taille/gros reins polykystiques, néphrocalcinose, kyste
 
 ### Épidémiologie
 
@@ -43,9 +43,9 @@ Diminution du débit de filtration glomérulaire (DFG ou clairance) < 60 mL/min/
 9500 nouveaux dialysés par an, augmentation de 4 %/an, liés aux facteurs de risque cardiovasculaires: hypertension artérielle, diabète pour la moitié des cas.
 
 {{%/collapse%}}
-{{%collapse "Qui dépister?" %}}
+{{%collapse "Facteurs de risque - Qui dépister?" %}}
 
-### Population à risque définie par la présence d'au moins 1 facteur de risque parmi
+Population à risque d'insuffisance rénale chronique définie par la présence d'au moins 1 facteur de risque parmi:
 
 - Diabète
 - Hypertension artérielle
@@ -173,22 +173,23 @@ Connaître les signes et symptômes de la MRC et savoir qui prévenir
 
 {{< mermaid >}}
 graph TB
-1[Personne à risque] --> 2[Bilan annuel]
-2 --> 3N[Normal]
+fdr[Personne à risque] --> 2(Bilan annuel)
+style fdr stroke:#0077ff, stroke-width:1px
+2 --> 3N(Normal)
   3N --> 2
-2 --> 3A[Anormal]
-3A --> 4[Contrôle à 3 mois]
-4 --> 5N[Normal]
-  5N --> 2
-4 --> 5A[Anormal]
-5A --> 6[Bilan initial de la MRC + Stade <br> Néphroprotection maximale]
-6 --> 7[Avis néphro]
+2 --> 3A(Anormal)
+3A --> 4(Contrôle à 3 mois)
+4 --> Normal
+  Normal --> 2
+4 --> Anormal
+Anormal --> bilan(Bilan initial de la MRC + Stade <br> Néphroprotection maximale)
+bilan --> 7(Avis néphro)
 {{< /mermaid >}}
 
 {{%/collapse%}}
-{{%collapse "Sources" %}}
+{{%collapse "Source" %}}
 
-- [HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012](
+[HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012](
 //www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
 
 {{%/collapse%}}
