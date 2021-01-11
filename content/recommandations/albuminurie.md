@@ -27,7 +27,7 @@ todo = "TODO: summary"
 Albuminurie A1 = Normal to mildly increased
 < 3 mg/mmol (< 30 mg/g)
 
-Albuminurie A2 Moderately increaseda
+Albuminurie A2 Moderately increased
 3-30 mg/mmol (30-300 mg/g)
 
 Albuminurie A3 Severely increased

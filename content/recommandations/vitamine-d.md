@@ -107,7 +107,8 @@ Cible de 25(OH)D = 75 nmol/L.
 Apports naturels généralement insuffisants.  
 Cible de 25(OH)D ≥ 75 nmol/L.
 
-- **Résident en EHPAD**
+- **Résident en 
+**
 Cible calcique quotidienne : 1200 mg/j.  
 Cible de 25(OH)D ≥ 75 nmol/L.
 

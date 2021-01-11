@@ -179,7 +179,7 @@ Soulagent les symptômes, mais ne permettent pas la cicatrisation muqueuse.
 
 ### Inhibiteurs de la pompe à protons
 
-Cure courte d’IPP ½ dose si insuffisemment soulagé par RHD et anti-acides ou d'emblée en oesophagite. Prise de manière intermittente ou à la demande en RGO modéré sans œsophagite.  
+Cure courte d’IPP ½ dose si insuffisamment soulagé par RHD et anti-acides ou d'emblée en œsophagite. Prise de manière intermittente ou à la demande en RGO modéré sans œsophagite.  
 **À prendre le matin ou le soir 15 à 30 minutes avant un repas**.  
 Poursuite jusqu'à disparition des symptômes (souvent < 1 mois). Un arrêt brutal peut entraîner un effet rebond.
 Leur efficacité est maintenue dans le temps.

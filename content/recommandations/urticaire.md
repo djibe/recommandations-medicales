@@ -49,7 +49,7 @@ Le pronostic vital est engagé en manifestations ORL (dysphonie, troubles de la 
 Urticaire chronique (UC)
 : Poussées d'urticaire, le plus souvent quotidiennes, évoluant depuis **plus de 6 semaines**.
 : Pathologie fréquente (prévalence 0,5%, exceptionnelle chez l'enfant) avec altération de la qualité de vie pendant une durée moyenne de 3 à 5 ans.  
-Peut être grave lorsqu'un angio-oedème laryngé ou digestif est associé.
+Peut être grave lorsqu'un angio-œdème laryngé ou digestif est associé.
 **Éliminer une maladie inflammatoire ou néoplasique** (rares). Une cause allergique est exceptionnelle.
 
 Urticaire cholinergique
@@ -154,7 +154,7 @@ L'urticaire profonde donne des tuméfactions fermes, pâles, non prurigineuses a
 En cas d'atteinte muqueuse intestinale, les douleurs peuvent simuler une urgence chirurgicale.
 
 - Entourer les lésions  
-Elles doivent disparaitre en 24h.
+Elles doivent disparaître en 24h.
 - Examen dermatologique
   - Dermographisme
   - Plaques d'urticaires persistantes
@@ -331,11 +331,11 @@ Les principaux:
 - Morphiniques, opiacés, codéine
 - IEC
 - Antibiotiques  
-Bêtalactamines (égalemment allergie vraie) polymyxine B, colimycine, néomycine, vancomycine.
+Bêtalactamines (également allergie vraie) polymyxine B, colimycine, néomycine, vancomycine.
 - Produits de contraste iodés
 - Anesthésiques généraux  
 Tubocurarine, halothane.
-- Curares (égalemment allergie vraie)
+- Curares (également allergie vraie)
 
 Et aussi:
 

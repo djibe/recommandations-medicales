@@ -65,7 +65,7 @@ Pour les professionnels de santé : évaluation de l'exposition au cas par cas p
 {{%/collapse%}}
 {{%collapse "Cas contacts de tuberculose" %}}
 
-Pour l'**enquête autout d'un cas de tuberculose**, il faut appeler le *Centre de Lutte AntiTuberculeuse* (CLAT) départemental.
+Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre de Lutte AntiTuberculeuse* (CLAT) départemental.
 
 {{< iframe url="https://splf.fr/clat/" >}}
 

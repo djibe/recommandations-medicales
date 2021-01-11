@@ -100,7 +100,7 @@ Antibioclic: Bains antiseptiques pluriquotidiens (x 2-3 /jour)
 
 ### Antibiothérapie ambulatoire
 
-Indications: immunodépression, valuvulopathies, diabète.
+Indications: immunodépression, valvulopathies, diabète.
 
 #### Adulte
 

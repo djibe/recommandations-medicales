@@ -173,7 +173,7 @@ Toute suspicion de mélanome doit bénéficier d'une exérèse macroscopique com
 L'exérèse doit être réalisée avec une marge de 1 à 3 mm de peau saine et doit inclure toutes les couches de peau et un peu de graisse sous-cutanée.  
 La recherche de *mutation BRAF V600* est systématique.
 
-Le dossier doit être pésenté en RCP.
+Le dossier doit être présenté en RCP.
 
 #### Reprise chirurgicale
 
@@ -216,7 +216,7 @@ Systématique pour les patients de plus de 75 ans avant la RCP.
 
 **NB**. Jamais de biopsie de lésion pigmentée, l'exérèse complète doit être systématique.
 
-Le traitement est décidé en réunion de concertation plutidisciplinaire.
+Le traitement est décidé en réunion de concertation pluridisciplinaire.
 
 ### En savoir plus: traitements du mélanome
 
@@ -285,11 +285,11 @@ Examen direct: examen à l'œil nu des paumes et pieds, ongles, doigts et orteil
 
 #### Étape 2
 
-Avce miroir en pied et examen de haut en bas. Tourner le côté gauche puis le côté droit du corps, les bras levés.
+Avec miroir en pied et examen de haut en bas. Tourner le côté gauche puis le côté droit du corps, les bras levés.
 
 #### Étape 3
 
-Examen avec miroir à main: Surélever chaque jambe poru examiner la face interne, externe et postérieure du mollet et de la cuisse. Face postérieure des bras, la nuque, le dos, le cuir chevelu et la région génitale.
+Examen avec miroir à main: Surélever chaque jambe pour examiner la face interne, externe et postérieure du mollet et de la cuisse. Face postérieure des bras, la nuque, le dos, le cuir chevelu et la région génitale.
 
 > Source HAS 2006
 

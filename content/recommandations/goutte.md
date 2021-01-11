@@ -77,7 +77,7 @@ Greffe d'organe, colique néphrétique, insuffisance rénale, ulcère gastro-duo
   - Début brutal avec max sous 24h, extrêmement douloureux.
   - Gonflement et rougeur locale.
   - Atteint surtout les membres inférieurs (MTP1 ou pied/cheville voire genou) avec impotence.
-  - Sensibilité rapide à la colchine précoce.
+  - Sensibilité rapide à la colchicine précoce.
 
 ### Examen clinique
 
@@ -93,6 +93,7 @@ Greffe d'organe, colique néphrétique, insuffisance rénale, ulcère gastro-duo
 Compléte le bilan des facteurs de risque cardiovasculaires.
 
 - Créatininémie et clairance CDK-EPI
+- Uricémie
 - Glycémie à jeun si facteur de risque ou ≥ 45 ans
 - Dyslipidémie selon le terrain
 
@@ -123,11 +124,11 @@ Paracétamol 4 g/j.
 Force la diurèse à 2-3 L/jour.
 - Régime hypocalorique (< 2000 kcal/j) et hypo-uricémiant
 - **AINS**  
-  - À prendre dès le début des symptômes, uniqument le temps de la poussée
-  - Naproxène 550 mg x 2/j le temps de la crise.
-  - Ne pas utiliser en maladie cardiovasculaire grave ou d'IRC
+  - À prendre dès le début des symptômes, uniquement le temps de la poussée.
+  - Naproxène 550 mg x 2/j le temps de la crise (max 7j).
+  - Ne pas utiliser en maladie cardiovasculaire grave ou IRC.
 - Ponction évacuatrice et infiltration de corticoïdes  
-Indication formelle si sepsis, intérêt pour confirmation diagnostique.  
+Contre-indication formelle si sepsis, intérêt pour confirmation diagnostique.  
 Efficacité thérapeutique non prouvée pour la ponction, pas de différence d'efficacité pour les dérivés cortisoniques prouvée.
 - Envisager un traitement de fond
 
@@ -157,7 +158,7 @@ En 3<sup>e</sup> intention, en remplacement des AINS et de la colchicine.
 Corticothérapie orale 30-35mg x 1/j d’équivalent prednisolone pendant 3 à 5 jours.
 
 Ne pas associer AINS et corticoïdes.  
-Ne pas utiliser en cas de diabète ou d'HTA désequilibrés.
+Ne pas utiliser en cas de diabète ou d'HTA déséquilibrés.
 
 {{%info%}}
 Possibilité d'infiltrations de corticoïdes pour une arthrite facilement accessible (ex. genou).  
@@ -190,8 +191,8 @@ Traitement contre-indiqué en infection active.
 
 Ces mesures ont plus d’effets sur le profil cardiovasculaire que sur l’uricémie. Le discours doit être individualisé.
 
-- Si diurétique de l’anse ou thiazidique:  
-Substituer si possible car très uricosuriques, par losartan ou anticalcique.
+- Si traité par diurétique de l’anse ou thiazidique:  
+Substituer si possible car très uricosuriques, par losartan ou amlodipine.
 - Si dyslipidémie associée:  
 Préférer la substitution de la statine par fénofibrate car très hypouricémiant.
 - Si surpoids:
@@ -216,7 +217,7 @@ Voir *Information du patient*.
 - Ciclosporine, tacrolimus
 - Pyrazinamide, éthambutol
 
-Remplacer si possible par hyperuricémiants:
+Remplacer si possible par hypouricémiants:
 
 Losartan, fénofibrate, atorvastatine, amlodipine.
 
@@ -256,7 +257,7 @@ Fébuxostat uniquement.
 
 - Dosage de l'uricémie 1 à 2/an.
 - Si fonction rénale altérée:  
-Ttiliser une dose adaptée d’allopurinol.
+Utiliser une dose adaptée d’allopurinol.
 - si intolérance digestive:  
 Tenter de poursuivre le traitement sauf symptômes majeurs.
 

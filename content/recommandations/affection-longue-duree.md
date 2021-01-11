@@ -49,7 +49,7 @@ Liste établie par décret [révision 2011-77](https://www.ameli.fr/sites/defaul
 
 <ul class="list-group my-4 list-counter">
   {{< list-item-counter "AVC invalidant" >}}
-  {{< list-item-counter "Insuffisances médullaires et autres cytopénies chroniques" >}}
+  {{< list-item-counter "Insuffisances médullaires et autres chroniques" >}}
   {{< list-item-counter "Artériopathie chronique avec manifestations ischémiques (AOMI)" >}}
   {{< list-item-counter "Bilharziose compliquée" >}}
   {{< list-item-counter "Insuffisance cardiaque grave, trouble du rythme grave, cardiopathie valvulaire grave, cardiopathie congénitale grave" >}}

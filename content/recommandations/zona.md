@@ -34,7 +34,7 @@ Zona
 
 Zona et personne immunodéprimée
 : Intérêt d'éduquer les patients à la reconnaissance des symptômes.  
-Ce sont les principales personens qui développent des fomes compliquée.  
+Ce sont les principales personnes qui développent des formes compliquée.  
 : **Pathologies pourvoyeuses de zona:** Leucémie aiguë, lymphome en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, VIH (CD4 < 350/mm<sup>3</sup> surtout).
 
 ### Zona selon l'âge
@@ -83,11 +83,11 @@ Surtout patient > 50 ans, fréquentes complications oculaires et douleurs chroni
 
 ### Vaccination
 
-Vaccin vivant: Zostavax® (Sanofi, 103,49€, remb 30% SS).
+Vaccin vivant: Zostavax® (Sanofi, 103,49€, remb. 30% SS).
 
 **Indication:** Dose unique en SC de 65 à 74 ans (y compris en antécédents de zona. Calendrier vaccinal).  
 **Contre-indication:** grossesse, immunodépression.  
-**Avis de Prescrire®:** Efficacité modeste. Pas d'intéret à une vaccination systématique.
+**Avis de Prescrire®:** Efficacité modeste. Pas d'intérêt à une vaccination systématique.
 
 ### Information des personnes immunodéprimées
 
@@ -107,7 +107,7 @@ Informer sur la nécessité de consultation immédiate en cas de survenue de br�
 - Réévaluation clinique régulière
 - Si surinfection cutanée: Antibiothérapie per os pénicilline M cloxacilline (staph+strepto)
 
-{{%info%}}Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anesthésiques, antipririgineux) ne doit être appliqué.{{%/info%}}
+{{%info%}}Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anesthésiques, antiprurigineux) ne doit être appliqué.{{%/info%}}
 
 **NB**. Pas de bénéfice prouvé des antiH1 sur le prurit au cours d'un zona.
 
