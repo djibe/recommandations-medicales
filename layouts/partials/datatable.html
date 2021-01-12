@@ -70,9 +70,11 @@
     stateSave: true,
   })
 
+  // Any table
   $(function() {
     $('.table').DataTable({
-      dom: '<"top"f><rt<"bottom"Bi>>'
+      dom: '<"top"f><rt<"bottom"Bi>>',
+      paging: false
     })
     .on('page.dt', function () {
       $('[data-toggle="tooltip"]').tooltip({placement: 'bottom'})
