@@ -15,7 +15,7 @@ anglais = []
 sctid = ""
 draft = true
 image = true
-imageSrc = " Photo by urbanworkbench on Foter.com / CC BY-NC-ND "
+imageSrc = "Photo by urbanworkbench on Foter.com / CC BY-NC-ND"
 todo = ""
 datatable = true
 +++

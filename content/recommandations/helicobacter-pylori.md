@@ -81,7 +81,7 @@ Indications à la sérologie:
 
 **Chez un sujet asymptomatique et ...**
 
-- < 40-45 ans avec antécédent au 1<sup>er</sup> de cancer gastrique  
+- < 40-45 ans avec antécédent au 1<sup>er</sup> degré de cancer gastrique  
 ou lésion pré-cancéreuse de l'estomac.
 - Antécédent d'ulcère sans preuve d'éradication d'HP
 - Purpura thrombopénique immunologique
@@ -101,7 +101,7 @@ Indication en première intention:
   Dysphagie, amaigrissement, anémie.
   - Anémie ferriprive ou carence en vitamine B12 sans autre cause
 - Patient avec facteurs de risque de cancer gastrique
-  - &gt; 40-45 ans avec antécédent au 1<sup>er</sup> de cancer gastrique  
+  - &gt; 40-45 ans avec antécédent au 1<sup>er</sup> degré de cancer gastrique  
   ou lésion pré-cancéreuse de l'estomac.
   - Autres facteurs de risque (Voir plus haut *Facteurs de risque ...*)
 - Lymphome gastrique du MALT
