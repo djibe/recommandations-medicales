@@ -16,7 +16,7 @@ sctid = ""
 draft = false
 image = true
 imageSrc = "Photo by urbanworkbench on Foter.com / CC BY-NC-ND"
-todo = "Carto, Pitié ?, http://www.ch-larochelle.fr/ch-la-rochelle/infos-pratiques/urgences-et-numeros-utiles, nantes, montpellier, strasbourg, rennes, reims, le havre, toulon, grenoble, dijon, angers, nimes, villeurbanne, avignon, pau, bayonne, poitiers, annecy, lorient, valence, angouleme, chartres, niort, béziers"
+todo = "Carto, Pitié ?, http://www.ch-larochelle.fr/ch-la-rochelle/infos-pratiques/urgences-et-numeros-utiles, https://www.polevision.fr/urgence.php, nantes, montpellier, strasbourg, rennes, reims, le havre, toulon, grenoble, dijon, angers, nimes, villeurbanne, avignon, pau, bayonne, poitiers, annecy, lorient, valence, angouleme, chartres, niort, béziers"
 datatable = true
 +++
 

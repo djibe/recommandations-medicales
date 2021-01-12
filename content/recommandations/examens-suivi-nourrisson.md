@@ -6,14 +6,13 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-02T11:57:29+02:00
 publishdate = 2020-06-02
-lastmod = 2020-06-02
+lastmod = 2021-01-12
 categories = ["pediatrie"]
-guidelineyears = "2020"
+guidelineyears = "2021"
 sources = ["Ameli"]
 tags = ["examens obligatoires", "nourrisson", "enfant", "adolescent"]
 qualite = "moyenne"
 draft = false
-datatable = true
 +++
 
 {{%collapse "Calendrier des 20 examens médicaux" "show" %}}
@@ -51,7 +50,8 @@ Examens médicaux de la naissance à 16 ans, réalisés en **tiers payant total 
 {{< /table >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%collapse "Source" %}}
 
-- [Ameli. Les examens de suivi médical de l'enfant et de l'adolescent. 14/11/2019](https://www.ameli.fr/medecin/sante-prevention/enfants-et-adolescents/examens-de-suivi-medical-de-lenfant-et-de-ladolescent/les-examens-de-suivi-medical-de-lenfant-et-de-ladolescent)
+[Ameli. Les examens de suivi médical de l'enfant et de l'adolescent. 03/01/2021](https://www.ameli.fr/medecin/sante-prevention/enfants-et-adolescents/examens-de-suivi-medical-de-lenfant-et-de-ladolescent/les-examens-de-suivi-medical-de-lenfant-et-de-ladolescent)
+
 {{% /collapse %}}

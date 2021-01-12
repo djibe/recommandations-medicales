@@ -209,7 +209,7 @@ En cas de test positif, recours à un avis spécialisé (Centre national de réf
 La recherche fécale d'H. pylori est une alternative au test respiratoire mais mais n'est pas remboursé.
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir" "show" %}}
+{{%collapse "Conduite à tenir en présence d'Helicobacter pylori" "show" %}}
 
 {{< mermaid >}}
 graph TB
@@ -221,7 +221,7 @@ graph TB
   style suspicion stroke:#0077ff, stroke-width:1px
   suspect["- &gt; 40 ans avec ATCD K gastrique 1er degré<br>- Anémie ferriprive ou B12 sans cause<br>- Lymphome gastrique du MALT<br>- Chirurgie bariatrique"] --> gastro
   style suspect stroke:#0077ff, stroke-width:1px
-    gastro --> grossesse("Grossesse ou<br>allaitement ?")
+    gastro -- Helicobacter + --> grossesse("Grossesse ou<br>allaitement ?")
       grossesse -- Non --> antibiogramme("<b>Antibiogramme</b><br>Sensible clarithromycine?")
         antibiogramme -- Sensible --> triAmox("<b>Trithérapie 10j</b><br>IPP + amoxicilline<br>+ clarithromycine")
           triAmox -- "Allergie péni" --> triAmoxAllergie("<b>Trithérapie 10j</b><br>IPP + métronidazole<br>+ clarithromycine") --> controle
