@@ -89,6 +89,10 @@
 {{ partial "outils/paracetamol" . }}
 {{- end -}}
 
+{{- with .Params.epreuveeffort }}
+{{ partial "outils/epreuve-effort" . }}
+{{- end -}}
+
 {{- with .Params.datatable }}
   {{ partial "datatable" . }}
 {{- end -}}

@@ -3537,7 +3537,6 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 [type='checkbox'] + .chip-filter::before {
   content: '';
   height: 1.125rem;
-  margin-right: 0.25rem;
   opacity: 0;
   transform: translateX(-0.25rem);
   transition: width 180ms ease-in;
@@ -3546,6 +3545,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 
 [type='checkbox']:checked + .chip-filter::before {
   content: url('data:image/svg+xml,%3csvg xmlns="http://www.w3.org/2000/svg" height="18" viewBox="0 0 24 24" width="18"%3e%3cpath d="M9 16.2L4.8 12l-1.4 1.4L9 19 21 7l-1.4-1.4L9 16.2z"/%3e%3c/svg%3e');
+  margin-right: 0.25rem;
   opacity: 1;
   transition: opacity 180ms 90ms, width 180ms ease-in;
   width: 1.125rem;

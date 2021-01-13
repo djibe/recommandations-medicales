@@ -3,13 +3,12 @@
 ## TODO
 
 - Fix list.html
-- urgences ophtalmo > Allergie croisée APLV > SAP > Papillomavirus > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
+- Allergie croisée APLV > SAP > Papillomavirus > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
 - Bandeau lat
 - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 - Raccourcis: paracetamol, vaccins, cs enfant
 - MD
 - navdrawer toggle
-- Photo principale
 - separate JS
 - https://metatags.io/
 - https://github.com/algolia/algoliasearch-netlify/blob/master/docs/GettingStarted.md
@@ -23,7 +22,8 @@ https://github.com/purifycss/purifycss
 https://gist.github.com/clvs7-gh/77b1f50d51d4e238c8482fc31296d4c4
 - Search in synonyms
 - Shortcode téléphone
-- Sitemap que pour index + reco
+- Sitemap que pour index + reco  
+https://howtocode.io/how-to-customize-your-sitemap-in-hugo
 - Replace guidelineyears
 - Logo
 - If is page menu is active
