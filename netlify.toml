@@ -32,14 +32,24 @@ HUGO_ENABLEGITINFO = "true"
 [[headers]]
   for = "*.css"
   [headers.values]
-    Cache-Control = "max-age=7257600, must-revalidate, public"
+    Cache-Control = "max-age=31536000, immutable"
 
 [[headers]]
   for = "*.js*"
   [headers.values]
-    Cache-Control = "max-age=0, must-revalidate, public"
+    Cache-Control = "max-age=31536000, immutable"
 
 [[headers]]
   for = "favicon.ico"
   [headers.values]
-    Cache-Control = "public, max-age=1209600" # 2 weeks ; 3M = 7257600
+    Cache-Control = "max-age=1209600" # 2 weeks ; 3M = 7257600
+
+[[headers]]
+  for = "*.jpg*"
+  [headers.values]
+    Cache-Control = "max-age=2419200, must-revalidate, stale-while-revalidate=86400"
+
+[[headers]]
+  for = "*.svg*"
+  [headers.values]
+    Cache-Control = "max-age=2419200, must-revalidate, stale-while-revalidate=86400"

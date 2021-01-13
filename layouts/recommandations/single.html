@@ -14,6 +14,7 @@
                 {{ $imageUrl = printf "/images/photos/%s.jpg" $image }}
               {{ end }}
               src="{{ $imageUrl }}"
+              importance="high"
             {{ else }}
               src="/images/icons/placeholder.svg"
               aria-hidden="true"

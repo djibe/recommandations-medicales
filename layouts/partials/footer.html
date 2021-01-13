@@ -133,7 +133,7 @@
 </script>
 
 {{ $searchjs := resources.Get "js/search.js" | minify }}
-<script src="{{ $searchjs.Permalink }}" async></script>
+<script src="{{ $searchjs.Permalink }}" defer></script>
 <script>
   {{ if eq .Section "recommandations" }}
 
