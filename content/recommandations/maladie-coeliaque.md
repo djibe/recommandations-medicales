@@ -14,6 +14,7 @@ tags = ["coeliaque", "allergie", "intolerance", "gluten", "auto-immun", "EOGD"]
 anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac gluten sensitivity (NCGS) and extra-intestinal manifestations related to gluten)", "celiac"]
 sctid = "396331005"
 draft = false
+flowchart = true
 todo = "dermatite herpétiforme"
 +++
 

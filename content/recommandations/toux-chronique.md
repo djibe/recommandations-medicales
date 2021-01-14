@@ -14,6 +14,7 @@ tags = ["toux", "RGO", "asthme", "ORL"]
 anglais = ["chronic cough"]
 sctid = "68154008"
 draft = false
+flowchart = true
 todo = "spirométrie?, ttt épreuve?, EOGD?, MAJ graph"
 +++
 

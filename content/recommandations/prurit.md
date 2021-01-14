@@ -14,6 +14,7 @@ tags = ["prurit"]
 anglais = ["Itching"]
 sctid = "418290006"
 draft = false
+flowchart = true
 todo = "Prescrire, médicaments responsables, algo, lire dermato-info"
 +++
 

@@ -39,29 +39,22 @@ Allergies croisées à étayer 1 par 1:
 
 - lait de bufflonne
 - lait de jument très rare (4% selon Businco et al.)
-- lait d'anêsse
+- lait d'ânesse
 - œuf de poule
 - viande d'ovins, porc
-
-crustacés, jument/anesse
 
 {{% /collapse %}}
 {{%collapse "Laits sans protéines de lait de vaches disponibles en France" %}}
 
-Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de vache.
+Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de vache, en complément ou après arrêt de l'allaitement maternel.
 
 ### Lait à base de protéines de riz
 
 - Bébé Mandorle Riz 1, 2 et 3
 - Modilac Expert Riz 1, 2 et 3
+- Modilac Expert Riz AR <del>1</del>, 2 et 3
 - Novalac Riz ou Riz AR de 1 à 3
 - Prémiriz 1 et 2
-
-### Lait à base de lait de jument
-
-Seulement 4% d'allergie croisée (*Businco et al.*).
-
-- Chevalait 2
 
 ### Hydrolysat de caséine
 
@@ -76,6 +69,12 @@ Seulement 4% d'allergie croisée (*Businco et al.*).
 - Alfaré HMO 1 à 3
 - Pepti Junior 1 et 2
 - Pepticate Syneo 1 et 2
+
+### Lait à base de lait de jument
+
+Seulement 4% d'allergie croisée (*Businco et al.*).
+
+- Chevalait 2
 
 ### Base d'acides aminés
 

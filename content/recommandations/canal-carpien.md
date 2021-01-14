@@ -17,6 +17,7 @@ qualite = "moyenne"
 draft = false
 image = true
 imageSrc = "Photo by handarmdoc on Foter.com / CC BY"
+flowchart = true
 todo = "TODO: lire reco 2013"
 +++
 

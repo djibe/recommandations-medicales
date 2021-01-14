@@ -14,6 +14,7 @@ tags = ["IST"]
 anglais = ["Syphilis"]
 sctid = "76272004"
 draft = false
+flowchart = true
 todo = ""
 +++
 

@@ -16,6 +16,7 @@ sctid = "90176007"
 draft = false
 image = true
 imageSrc = "Photo by Fireflyez76 on Foter.com / CC BY-ND"
+flowchart = true
 todo = "lire campus ORL"
 +++
 

@@ -74,46 +74,35 @@ La supplémentation en vitamine D3 peut être instaurée et suivie sans dosage d
 
 - **Allaitement maternel**  
 Supplémentation quotidienne 1000-1200 UI/j (avec un peu de lait) jusqu'à 18 mois,  
-soit ZymaD® buvable en 3-4 gouttes par jour (300 UI/goutte).
-
+soit ZymaD® buvable en 3-4 gouttes par jour (300 UI/goutte).  
 - **Allaitement artificiel**  
-  - Enfant à terme et lait enrichi en vitD : 600-800 UI/j soit ZymaD® 2-3 gouttes/j.  
-  - Enfant à terme et lait non enrichi en vitD : 100-1200 UI/j soit ZymaD® 3-4 gouttes/j.  
-  - Prématuré: 800-1000 UI/j soit 3 gouttes/j.
-
+  - Enfant à terme et lait enrichi en vitD: 600-800 UI/j soit ZymaD® 2-3 gouttes/j.  
+  - Enfant à terme et lait non enrichi en vitD: 100-1200 UI/j soit ZymaD® 3-4 gouttes/j.  
+  - Prématuré: 800-1000 UI/j soit 3 gouttes/j.  
 - **18 mois à 5 ans**  
 80 à 100.000 UI en novembre ET février,  
-soit ZymaD® 80.000 UI/Uvedose® 100.000 UI 1 amp.
-
+soit ZymaD® 80.000 UI/Uvedose® 100.000 UI 1 amp.  
 - 5 ans à 10 ans  
-Études en cours.
-
+Études en cours.  
 - **10 à 18 ans**  
 Idem 18 mois à 5 ans OU 200.000 UI en 1 fois durant l'hiver,  
-soit ZymaD® 200.000 UI 1 amp ou Uvedose® 100.000 UI 2 amp.
-
+soit ZymaD® 200.000 UI 1 amp ou Uvedose® 100.000 UI 2 amp.  
 - **Grossesse**  
-80 à 100.000 UI au début du 7e mois de grossesse  
-soit ZymaD® 80.000 UI/Uvedose® 100.000 UI 1 amp
-
+80 à 100.000 UI au début du 7<sup>e</sup> mois de grossesse  
+soit ZymaD® 80.000 UI/Uvedose® 100.000 UI 1 amp.  
 - **Adulte**  
-Cible de 25(OH)D = 50 nmol/L.
-
+Cible de 25(OH)D: ≥ 50 nmol/L.  
 - **Adulte > 65 ans**  
 Supplémentation de correction systématique  
-Cible de 25(OH)D = 75 nmol/L.
-
+Cible de 25(OH)D: ≥ 75 nmol/L.  
 - **Adulte dépendant, fragile, IRC/syndrome néphrotique, malabsorption digestive/cholestase, risque de chute**  
 Apports naturels généralement insuffisants.  
-Cible de 25(OH)D ≥ 75 nmol/L.
-
-- **Résident en 
-**
-Cible calcique quotidienne : 1200 mg/j.  
-Cible de 25(OH)D ≥ 75 nmol/L.
-
+Cible de 25(OH)D: ≥ 75 nmol/L.  
+- **Résident en EHPAD**
+Cible calcique quotidienne: 1200 mg/j.  
+Cible de 25(OH)D: ≥ 75 nmol/L.  
 - **Traitement par biphosphonates**  
-Cible de 25(OH)D ≥ 75 nmol/L.
+Cible de 25(OH)D: ≥ 75 nmol/L.
 
 {{% /collapse %}}
 {{%collapse "Quand doser la vitamine D?" %}}

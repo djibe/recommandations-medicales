@@ -14,6 +14,8 @@ tags = ["rosacee", "flush", "metronidazole", "doxycycline"]
 anglais = ["Rosacea"]
 sctid = "398909004"
 draft = false
+flowchart = true
+todo = "TODO: photo"
 +++
 
 {{%article-summary%}}

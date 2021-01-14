@@ -10,10 +10,12 @@ lastmod = 2020-09-27
 categories = ["hematologie"]
 guidelineyears = "2000"
 sources = []
-tags = ["splenomgalie"]
-anglais = []
-sctid = ""
+tags = ["splenomegalie"]
+anglais = ["Splenomegaly"]
+sctid = "16294009"
 draft = true
+flowchart = true
+todo = "TODO: more sources"
 +++
 
 {{%article-summary%}}

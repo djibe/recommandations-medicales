@@ -3,7 +3,7 @@
 ## TODO
 
 - Fix list.html
-- Allergie croisée APLV > SAP > Papillomavirus > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
+- SAP > Papillomavirus > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
 - Bandeau lat
 - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 - Raccourcis: paracetamol, vaccins, cs enfant

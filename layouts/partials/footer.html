@@ -53,10 +53,10 @@
 <script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }}
   crossorigin></script>
 <script src="{{ .Site.Params.cdn.material_js}}" crossorigin></script>
-<script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" crossorigin></script>
+<script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" async crossorigin></script>
 
-{{ if eq .Section "recommandations" }}
-<script src="https://cdn.jsdelivr.net/npm/mermaid@8.8.3/dist/mermaid.min.js" integrity="sha256-6gc5qw+D6x9boi0vM05uaTCVBaYVSo5kbl8dEC5wTmk=" crossorigin></script>
+{{- with .Params.flowchart }}
+<script src="https://cdn.jsdelivr.net/npm/mermaid@8.8.4/dist/mermaid.min.js" integrity="sha256-/+BzMP7spK5kZq/eJyTUBpewugOb45C/VbvZkziFAB4=" crossorigin></script>
 <script>
   // https://mermaid-js.github.io/mermaid/#/Setup?id=fontfamily
   const MermaidConfig = {
@@ -76,10 +76,11 @@
     }
   };
 
-  mermaid.initialize(MermaidConfig);
-
+  document.addEventListener( 'DOMContentLoaded', event => {
+    mermaid.initialize(MermaidConfig);
+  })
 </script>
-{{end}}
+{{- end -}}
 
 {{- with .Params.slider }}
 <script src="https://cdn.jsdelivr.net/npm/ion-rangeslider/js/ion.rangeSlider.min.js" crossorigin></script>

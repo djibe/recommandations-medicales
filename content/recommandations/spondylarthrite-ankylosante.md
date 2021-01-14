@@ -15,7 +15,7 @@ anglais = ["Axial spondyloarthritis"]
 sctid = "723116002"
 draft = false
 scores = ["basdai", "basfi"]
-http = true
+flowchart = true
 todo = "foreach score modal, bilan pré-thérap antitnfa"
 +++
 
@@ -334,10 +334,12 @@ VS, CRP.
 
 {{< mermaid >}}
 graph TB
-  suspicion["Suspicion de SpA"] --> bilan("Biologie<br>Rx rachis complet F+P<br>et bassin F<br>IRM rachis DL + SI") --> rhumato("AINS pleine dose<br>et avis rhumatologique SYSTÉMATIQUE")
+  suspicion["Suspicion de SpA"] --> bilan("Biologie<br>Rx rachis complet F+P<br>et bassin F<br>IRM rachis DL + SI") --> rhumato("AINS pleine dose<br>Avis rhumatologique SYSTÉMATIQUE")
   style suspicion stroke:#0077ff, stroke-width:1px
 
 {{< /mermaid >}}
+
+> Figure. Conduite à tenir devant une suspicion de spondylarthrite ankylosante (*Dr JB FRON d'après SFRhumato 2018*).
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

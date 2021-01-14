@@ -14,6 +14,7 @@ tags = ["hepatite", "prurit"]
 anglais = ["Viral hepatitis type C"]
 sctid = "50711007"
 draft = false
+flowchart = true
 +++
 
 {{%article-summary%}}

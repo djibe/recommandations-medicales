@@ -14,6 +14,7 @@ tags = ["hypothyroidie", "TSH", "Hashimoto"]
 anglais = ["Subclinical hypothyroidism"]
 sctid = "54823002"
 draft = false
+flowchart = true
 +++
 
 {{%article-summary%}}

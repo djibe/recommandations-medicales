@@ -14,6 +14,7 @@ tags = ["covid", "grippe", "vaccin"]
 anglais = ["CoViD-19"]
 sctid = "840539006"
 draft = false
+flowchart = true
 todo = "https://www.has-sante.fr/jcms/p_3216523/fr/tests-isolement-traitements-quelle-prise-en-charge-en-medecine-de-ville-pour-les-patients-suspectes-de-covid-19"
 +++
 

@@ -16,12 +16,13 @@ sctid = "90560007"
 draft = false
 image = false
 imageSrc = ""
+flowchart = true
 todo = "TODO: CI AINS, HAS, arbre, naproxene 750/j, comp goutte, https://www.ebmfrance.net/fr/Pages/ebm/ebm00451.aspx"
 +++
 
 {{%article-summary%}}
 
-- Traitement de la  crise  
+- Traitement de la crise  
 Glaçage, paracétamol, naproxène, forcer la diurèse.  
 Privilégier l'infiltration en monoarthrite de grosse articulation.
 - Traitement de fond  

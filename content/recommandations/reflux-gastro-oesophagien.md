@@ -14,6 +14,7 @@ tags = ["RGO", "EOGD"]
 anglais = ["Gastroesophageal reflux disease"]
 sctid = "235595009"
 draft = false
+flowchart = true
 todo = "Médicaments et doses"
 +++
 

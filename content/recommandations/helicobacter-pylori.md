@@ -16,6 +16,7 @@ sctid = "80774000"
 draft = false
 image = true
 imageSrc = "CDC/Dr. Patricia Fields, Dr. Collette Fitzgerald (PHIL #5715), 2004"
+flowchart = true
 todo = "sérologie, ttt quel moment de prise, http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/diagnostic-traitement-et-suivi-deradication/suivi-de-leradication/, dépistage en AINS long cours maastricht III"
 +++
 

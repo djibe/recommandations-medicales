@@ -13,6 +13,7 @@ sources = []
 tags = ["panaris"]
 anglais = ["Whitlow"]
 sctid = "32021005"
+flowchart = true
 draft = false
 +++
 
