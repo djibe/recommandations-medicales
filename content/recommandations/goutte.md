@@ -22,13 +22,15 @@ todo = "TODO: CI AINS, HAS, arbre, naproxene 750/j, comp goutte, https://www.ebm
 {{%article-summary%}}
 
 - Traitement de la  crise  
-Glaçage, paracétamol, naproxène, forcer la diurèse.
-- Privilégier l'infiltration en monoarthrite de grosse articulation.
+Glaçage, paracétamol, naproxène, forcer la diurèse.  
+Privilégier l'infiltration en monoarthrite de grosse articulation.
+- Traitement de fond  
+Allopurinol dès la 1<sup>re</sup> crise avec uricémie cible < 50 mg/L et couverture colchicine 0,5-1 mg/j ≥ 6 mois.
 - Régime  
 Perte poids, arrêt bière, réduire alcool/sodas/jus, viandes/abats, crustacés, laits maigres, substituer diurétique.
 - Contrôle des facteurs de risque cardiovasculaire.
 - Éducation thérapeutique et observance +++.
-- Allopurinol dès la 1<sup>re</sup> crise avec uricémie cible < 50 mg/L.
+
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
