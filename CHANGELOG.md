@@ -2,6 +2,7 @@
 
 ## TODO
 
+- index Hx order
 - Fix list.html
 - SAP > Papillomavirus > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
 - Bandeau lat

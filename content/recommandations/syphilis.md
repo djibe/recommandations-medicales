@@ -317,11 +317,11 @@ Dans ce cas:
 {{< mermaid >}}
 graph TB
   chancre[Chancre] -- Syphilis primaire --> ttt("VDRL, sérologies IST<br>BPG 2,4 MU IM unique<br>Paracétamol<br>Dépistage contacts &lt; 3 mois")
-  style chancre stroke:#0077ff, stroke-width:1px
+  style chancre stroke:#006ef4, stroke-width:1px
     ttt --> surv("Clinique<br>VDRL M3, M6, M12")
       surv -. "Échec" .-> echec(Adresser infectiologie H)
   clinique["Lésions suspectes<br>Dépistage IST"] -- Sérologie + --> anciennete("Date de contamination<br>connue ?")
-  style clinique stroke:#0077ff, stroke-width:1px
+  style clinique stroke:#006ef4, stroke-width:1px
     anciennete -- Oui --> adapte("Schéma BPG adapté<br>Dépistage contacts adapté") --> surv
     anciennete -- Non --> tardive("<b>Traiter syphilis tardive</b><br>BPG 2,4 MU IM 1/sem 3 sem<br>Dépistage contacts &lt; 1 an") --> surv
 {{< /mermaid >}}

@@ -215,13 +215,13 @@ La recherche fécale d'H. pylori est une alternative au test respiratoire mais m
 {{< mermaid >}}
 graph TB
   asymptomatique["<b>Asymptomatique</b><br>- &lt; 40 ans et ATCD K gastrique 1er degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie(Sérologie H. pylori)
-  style asymptomatique stroke:#0077ff, stroke-width:1px
+  style asymptomatique stroke:#006ef4, stroke-width:1px
     serologie -- Négative --> indemne(Pas d'infection active)
     serologie -- Positive/Douteuse --> gastro
   suspicion["<b>Symptomatique</b><br>- Suspicion d'ulcère<br>- Dyspepsie chez &gt; 40 ans<br>- Signes d'alarme"] --> gastro("<b>Gastro-entérologue</b><br>EOGD")
-  style suspicion stroke:#0077ff, stroke-width:1px
+  style suspicion stroke:#006ef4, stroke-width:1px
   suspect["- &gt; 40 ans avec ATCD K gastrique 1er degré<br>- Anémie ferriprive ou B12 sans cause<br>- Lymphome gastrique du MALT<br>- Chirurgie bariatrique"] --> gastro
-  style suspect stroke:#0077ff, stroke-width:1px
+  style suspect stroke:#006ef4, stroke-width:1px
     gastro -- Helicobacter + --> grossesse("Grossesse ou<br>allaitement ?")
       grossesse -- Non --> antibiogramme("<b>Antibiogramme</b><br>Sensible clarithromycine?")
         antibiogramme -- Sensible --> triAmox("<b>Trithérapie 10j</b><br>IPP + amoxicilline<br>+ clarithromycine")
@@ -243,7 +243,7 @@ graph TB
 {{< mermaid >}}
 graph TB
   probabiliste["H. pylori prouvé<br>ET antibiogramme manquant"] --> grossesse("Grossesse ou<br>allaitement ?")
-  style probabiliste stroke:#0077ff, stroke-width:1px
+  style probabiliste stroke:#006ef4, stroke-width:1px
     grossesse -- Non --> choix("Traitement au choix")
       choix -- Alternative 1 --> concomitant("<b>Quadrithérapie 14j</b><br>IPP + amoxicilline<br>+ clarithromycine<br>+ métronidazole")
       concomitant --> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>(≥ 2 semaines sans IPP)")

@@ -173,7 +173,7 @@ Substitution d'un traitement suspect.
 {{< mermaid >}}
 graph TB
   prurit["Prurit"] --> examen("Interrogatoire<br>Clinique")
-  style prurit stroke:#0077ff, stroke-width:1px
+  style prurit stroke:#006ef4, stroke-width:1px
     examen --> orientation("Signes évocateurs <br>de pathologie ?")
       orientation -- Oui --> tttSpe("Traitement spécifique")
       orientation -- Non --> bilan("<b>Prurit nu: éliminer un lymphome</b><br>NFS, BH, BR, TSH<br>Sérologies VIH et VH<br>RxT<br>Échographie abdominale")

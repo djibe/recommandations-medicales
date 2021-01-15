@@ -148,7 +148,7 @@ Contrôle de la RT-PCR VHC 12 semaines après la fin du traitement.
 {{< mermaid >}}
 graph TB
   serologie[Sérologie VHC] --> serologie+(Positive)
-  style serologie stroke:#0077ff, stroke-width:1px
+  style serologie stroke:#006ef4, stroke-width:1px
   serologie+ --> controle(Sérologie de contrôle)
     controle -- Positive --> pcr(RT-PCR VHC<br>Sérologies VIH 1 + 2 + VHB)
     controle -- Négative --> controleNegatif(To Do)
@@ -163,7 +163,7 @@ graph TB
 {{< mermaid >}}
 graph TB
   trod[TROD VHC] --> trod+(Positif)
-  style trod stroke:#0077ff, stroke-width:1px
+  style trod stroke:#006ef4, stroke-width:1px
   trod+ --> serologie(Sérologie VHC)
     serologie -- Positive --> pcr(RT-PCR sur même prélèvement)
     pcr --> mg(Adresser Hépatologue<br>Dépister l'entourage)

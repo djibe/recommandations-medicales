@@ -367,7 +367,7 @@ Népressol, réserpine, hydralazine, trasipressol.
 {{< mermaid >}}
 graph TB
   UA["Urticaire aiguë"] --> gravite("<b>Signes de gravité ?</b><br>- Dysphonie<br>- Hypersalivation<br>- Troubles de la déglutition")
-  style UA stroke:#0077ff, stroke-width:1px
+  style UA stroke:#006ef4, stroke-width:1px
     gravite -- Non --> tttUA("Anti-H1 2G 2 semaines")
       tttUA -- Efficace --> Guérison
       tttUA -- Persistance --> prolongation("Anti-H1 x2-4 pendant<br>6 semaines") -- Persistance --> UC(Urticaire chronique)
@@ -379,7 +379,7 @@ graph TB
 {{< mermaid >}}
 graph TB
   UC["Urticaire chronique (UC)<br>Durée &gt; 6 semaines"] --> orientation("Maladie générale?<br>Forme particulière?")
-  style UC stroke:#0077ff, stroke-width:1px
+  style UC stroke:#006ef4, stroke-width:1px
     orientation --> isolee("UC isolée<br>Pas de bilan") --> ttt1(Anti-H1 2G 4 à 8 sem)
         ttt1 -- Résistance --> bilan("Bilan de l'UC<br>NFS, VS, CRP<br>anti-TPO +/- TSH")
         ttt1 -- Résolution --> fin(Pas de bilan)

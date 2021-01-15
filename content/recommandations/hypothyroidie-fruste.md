@@ -108,7 +108,7 @@ Débuter la lévothyroxine à posologie basse, croissante par paliers jusqu'à o
 {{< mermaid >}}
 graph TB
   decouverte["TSH augmentée"] --"Contrôle à 1 mois"--> TSH["TSH augmentée"] -- "T4L normale" --> hTFruste("Hypothyroïdie fruste") --> anomalies("<b>Anomalies?</b><br>- TSH > 10<br>- Anticorps anti-TPO +<br>- Grossesse et TSH > 4<br>- Clinique d'hypothyroïdie") --"Oui"--> traitement("Traitement")
-  style decouverte stroke:#0077ff, stroke-width:1px
+  style decouverte stroke:#006ef4, stroke-width:1px
   TSH -- "T4L basse" --> hT("Hypothyroïdie patente")
     anomalies --"Non"--> surveillance("Surveillance à 6 mois<br>puis annuelle")
 {{< /mermaid >}}

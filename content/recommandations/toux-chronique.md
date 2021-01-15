@@ -183,7 +183,7 @@ Une autre approche consiste à associer les 3 traitements jusqu'à amélioration
 {{< mermaid >}}
 graph TB
   toux["Toux > 8 semaines"] --> examen("Anamnèse, examen clinique, RT")
-  style toux stroke:#0077ff, stroke-width:1px
+  style toux stroke:#006ef4, stroke-width:1px
     examen --> IEC
       IEC("IEC ou tabac") --Arrêt--> resolution(Résolution) --Non--> RT
     examen --> RT(Radio évocatrice ?)

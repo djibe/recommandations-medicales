@@ -265,7 +265,7 @@ Suivi thérapeutique par dosage de T3L + T4L qui doit être dans le tiers supér
 {{< mermaid >}}
 graph TB
   decouverte["TSH augmentée"] --"Contrôle à 1 mois"--> TSH["TSH augmentée"]
-  style decouverte stroke:#0077ff, stroke-width:1px
+  style decouverte stroke:#006ef4, stroke-width:1px
     TSH --"T4L normale"--> hTFruste("Hypothyroïdie fruste")
     TSH --"T4L basse"--> hT("Hypothyroïdie patente")
       hT --> bilan("Anticorps anti-TPO +/- dépistage cœliaque<br>Échographie cervicale<br>ECG")

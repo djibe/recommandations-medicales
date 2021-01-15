@@ -175,7 +175,7 @@ Connaître les signes et symptômes de la MRC et savoir qui prévenir
 {{< mermaid >}}
 graph TB
 fdr[Personne à risque] --> 2(Bilan annuel)
-style fdr stroke:#0077ff, stroke-width:1px
+style fdr stroke:#006ef4, stroke-width:1px
 2 --> 3N(Normal)
   3N --> 2
 2 --> 3A(Anormal)
