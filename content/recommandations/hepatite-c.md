@@ -194,6 +194,6 @@ graph TB
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [HAS. Hépatite C : prise en charge simplifiée chez l'adulte. Septembre 2019](https://www.has-sante.fr/jcms/c_2911891/fr/hepatite-c-prise-en-charge-simplifiee-chez-l-adulte)
+- [HAS. Hépatite C : prise en charge simplifiée chez l'adulte. Mars 2019 MAJ Septembre 2019.](https://www.has-sante.fr/jcms/c_2911891/fr/hepatite-c-prise-en-charge-simplifiee-chez-l-adulte)
 
 {{% /collapse %}}

@@ -37,6 +37,7 @@ datatable = true
 | Lyon | Hôpital Edouart Herriot: Pavillon C | 5 pl. d’Arsonval<br>69003 Lyon | 24/7 | 04 72 11 62 33 | |
 | Marseille | Hôpital Nord<br>Pavillon Mistral, 2<sup>e</sup> étage | Chemin des Bourrely<br>13015 Marseille | 24/7 | 04 91 96 44 44 | Après 17h/WE/JF, aller aux Urgences adultes |
 | Marseille | Hôpital de la Timone | 264 Rue Saint-Pierre<br>13005 Marseille | lun-ven<br>8:00-16:45 | 04 91 38 54 68 | Hôpital Nord Urgences adultes en dehors des horaires |
+| Melun | Centre Opth. du Pr Dighiero | 96 bis de la Grande Rue<br>77022 Barbizon | lun-ven<br>Journée | 01 60 66 14 26 | Appeler avant |
 | Montpellier | Hôpital Gui de Chauliac<br>RDC | 80 avenue Augustin Fliche<br>34090 Montpellier | 24/7 | 04 67 33 77 90 | |
 | Montpellier | Clinique Saint-Roch SOS Rétine<br>Urgences | 560 av. du Colonel André Pavelet dit Villars<br>34000 Montpellier | 24/7 | 04 67 60 03 40 | |
 | Montpellier | Chirurgie Myopie Montpellier | 9 rue de la république<br>34000 Montpellier | lun-ven<br>8:30-19:00 | 04 67 92 48 08 | |
@@ -55,12 +56,14 @@ datatable = true
 | Paris | Centre Ophtalmologique Paris 17<br>SOS ŒIL | 33-35 Rue de Chazelles<br>75017 Paris | 9:00-18:00 | 01 47 64 50 88<br>01 47 64 46 75 | |
 | Reims | Hôpital Robert Debré | Rue du Général Koenig<br>51100 Reims | lun-ven<br>8:00-17:30 | 03 26 78 77 20 | Urgences en dehors des horaires |
 | Rennes | Hôpital Pontchaillou | 2 rue Henri Le Guilloux<br>35000 Rennes | 24/7 | 02 99 28 42 89 | |
+| Roissy-en-Brie | Seima-Ophta | Place de la Révolution<br>77680 Roissy-en-Brie | lun-sam<br>Journée | 01 60 62 41 72 | Appeler avant |
 | Saint-Etienne | Hôpital de Bellevue<br>Bâtiment B, niveau 0 | 25 bd Pasteur<br>42100 Saint-Etienne | 24/7 | 04 77 12 77 93 | Après 17:30 (17h vendredi) Bâtiment G urgences adultes |
 | Strasbourg | Hôpital Civil<br>Unité Urgences UF4 | 1 pl. de l’Hôpital<br>67000 Strasbourg | lun-ven<br>8:15-18:00 | 03 69 55 02 70<br>03 69 55 05 61 | Urgences du Nouvel Hôpital Civil en dehors des horaires |
 | Strasbourg | Centre Ophtalmo. Maison Rouge | 6 rue de l’église<br>67000 Strasbourg | lun-ven<br>9:00-19:00<br>sam 8:30-11:30 | 03 88 23 88 25 | Urgences Clinique Rhena en dehors des horaires |
 | Toulon | Ophtaval | pl Gén de Gaulle Le Médival Bat A<br>83160 La Valette du Var | Journée | 04 94 61 00 88 | |
 | Toulouse | Site Purpan - Hôpital Riquet<br>3e étage, Hall C | Pl. du Dr Baylac<br>31300 Toulouse | 24/7 | 05 61 77 22 33 | |
 | Toulouse | Centre ophtalmologique de la<br>clinique de l'union | Bd de Ratalens<br>31240 Saint-Jean | lun-ven<br>9:00-12:00<br>14:00-18:00 | 05 61 37 87 34 | Urgences de la clinique we et jf |
+| Villeneuve-Saint-Georges | Hôpital Intercommunal CHIV | 40 All. de la source<br>94190 Villeneuve-St-Georges | 24/7 | 01 43 86 20 20 | Urgences de 17:00 à 8:30 |
 {{< /table >}}
 
 {{% /collapse %}}

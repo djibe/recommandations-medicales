@@ -4,7 +4,7 @@
 
 - index Hx order
 - Fix list.html
-- SAP > Papillomavirus > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
+- VIH > Hyperferr > Cirrhose > SAP > Papillomavirus > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
 - Bandeau lat
 - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 - Raccourcis: paracetamol, vaccins, cs enfant

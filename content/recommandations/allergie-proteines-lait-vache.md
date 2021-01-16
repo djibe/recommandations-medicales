@@ -4,7 +4,7 @@ prefix = "l'"
 shortname = "APLV"
 synonyms = ["Intolérance lait de vache"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-11-15T06:43:00+02:00
+date = 2021-01-11T06:43:00+02:00
 publishdate = 2021-01-11
 lastmod = 2021-01-14
 categories = ["pediatrie"]
@@ -45,6 +45,10 @@ Allergies croisées à étayer 1 par 1:
 
 {{% /collapse %}}
 {{%collapse "Laits sans protéines de lait de vaches disponibles en France" %}}
+
+{{%warning%}}
+Conformément à la législation, ce contenu est réservé aux professionnels de santé.
+{{%/warning%}}
 
 Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de vache, en complément ou après arrêt de l'allaitement maternel.
 
