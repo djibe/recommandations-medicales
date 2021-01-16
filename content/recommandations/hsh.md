@@ -20,7 +20,7 @@ todo = "TODO: Prep, https://www.eacsociety.org/files/2019_guidelines-10.0_final.
 {{%article-summary%}}
 
 - Port du préservatif systématique
-- Dépistage du VIH tous les 3 mois
+- Dépistage du VIH tous les 3 mois (HAS 2017)
 - Vaccination hépatite A (après sérologie), hépatite B, papillomavirus (jusqu'à 26 ans)
 
 {{%/article-summary%}}
