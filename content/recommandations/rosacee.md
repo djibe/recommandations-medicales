@@ -15,7 +15,7 @@ anglais = ["Rosacea"]
 sctid = "398909004"
 draft = false
 flowchart = true
-todo = "TODO: photo"
+todo = "TODO: photo, liens sources"
 +++
 
 {{%article-summary%}}
@@ -171,7 +171,7 @@ Lavage quotidien, expression du contenu des glandes de Mebomius, gels palpébrau
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir devant une rosacée" >}}
 graph TB
   rosacee["Rosacée"] --"Forme mineure"--> mineure("métronidazole gel 0,75% x 2/j 3 mois")
   style rosacee stroke:#006ef4, stroke-width:1px

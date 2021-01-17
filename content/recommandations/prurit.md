@@ -170,7 +170,7 @@ Substitution d'un traitement suspect.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir devant un prurit" >}}
 graph TB
   prurit["Prurit"] --> examen("Interrogatoire<br>Clinique")
   style prurit stroke:#006ef4, stroke-width:1px
@@ -179,8 +179,6 @@ graph TB
       orientation -- Non --> bilan("<b>Prurit nu: éliminer un lymphome</b><br>NFS, BH, BR, TSH<br>Sérologies VIH et VH<br>RxT<br>Échographie abdominale")
     examen --> etiologie("<b>Causes principales</b><br>- Gale, poux<br>- Dermatite atopique/contact<br>- Urticaire<br>- Psoriasis<br>- Lichen<br>- Pemphigoïde<br>- Autres")
 {{< /mermaid >}}
-
-> Diagramme. Conduite à tenir devant un prurit.
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

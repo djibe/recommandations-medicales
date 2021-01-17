@@ -32,11 +32,11 @@ todo = "lire campus ORL"
 Angine
 : Infection des amygdales palatines voire de l'ensemble du pharynx.  
 La majorité des infections est virale.
-: Le streptocoque β hémolytique du groupe A (**SGA ou Streptococcus pyogenes**) est la 1<sup>re</sup> bactérie responsable des angines bactériennes avec un pic entre 4 et 15 ans.  
+: Le streptocoque β hémolytique du groupe A (*SGA ou Streptococcus pyogenes*) est la 1<sup>re</sup> bactérie responsable des angines bactériennes avec un pic entre 4 et 15 ans.  
 Il est responsable de 25-40 % des angines de l'enfant, 10-25 % des angines de l'adulte.
 
 TDR
-: Test de Diagnostic Rapide du SGA. Test de dépistage Rapide à Orientation Diagnostique (TROD) de l'angine. Aussi appelé Streptatest®.
+: Test de Diagnostic Rapide du SGA, Test de dépistage Rapide à Orientation Diagnostique (TROD) de l'angine. Aussi appelé Streptatest®.
 
 {{% /collapse %}}
 {{%collapse "Complications" %}}
@@ -107,7 +107,7 @@ Indication: angine chez les +3 ans avec TDR positif.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir devant une angine" >}}
 graph TB
   angine[Angine] --> moins3("&lt; 3 ans") --> viral(Viral)
   style angine stroke:#006ef4, stroke-width:1px
@@ -116,8 +116,6 @@ graph TB
     angine --> 15plus("≥ 15 ans") --> score(Mac Isaac) -- "≥ 2" --> ATB
       score -- "&lt; 2" --> viral
 {{< /mermaid >}}
-
-> Figure. Conduite à tenir devant une angine.
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

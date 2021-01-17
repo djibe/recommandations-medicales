@@ -3,6 +3,7 @@
 ## TODO
 
 - index Hx order
+- Fix RSS length
 - Fix list.html
 - Hyperferr > Prep > Cirrhose > SAP > Papillomavirus > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
 - Bandeau lat

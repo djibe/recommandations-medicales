@@ -180,7 +180,7 @@ Une autre approche consiste à associer les 3 traitements jusqu'à amélioration
 {{% /collapse %}}
 {{%collapse "Conduite à tenir chez l'adulte" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir devant une toux chronique" >}}
 graph TB
   toux["Toux > 8 semaines"] --> examen("Anamnèse, examen clinique, RT")
   style toux stroke:#006ef4, stroke-width:1px

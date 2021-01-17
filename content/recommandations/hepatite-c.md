@@ -15,6 +15,7 @@ anglais = ["Viral hepatitis type C"]
 sctid = "50711007"
 draft = false
 flowchart = true
+todo = "TODO: Séro+ puis -"
 +++
 
 {{%article-summary%}}
@@ -145,7 +146,7 @@ Contrôle de la RT-PCR VHC 12 semaines après la fin du traitement.
 {{% /collapse %}}
 {{% collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir devant un résultat de sérologie d'hépatite C. Dr JB FRON d'après HAS 2019" >}}
 graph TB
   serologie[Sérologie VHC] --> serologie+(Positive)
   style serologie stroke:#006ef4, stroke-width:1px
@@ -160,7 +161,7 @@ graph TB
     immunodep --> pcr2(RT-PCR VHC)
 {{< /mermaid >}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir dans les suites de la réalisation d'un TROD VHC. Dr JB FRON d'après HAS 2019" >}}
 graph TB
   trod[TROD VHC] --> trod+(Positif)
   style trod stroke:#006ef4, stroke-width:1px
@@ -178,7 +179,7 @@ graph TB
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
-- [Proposer de participer à la cohorte ComPare de l'APHP](https://compare.aphp.fr/participer/je-participe.html)
+- [Proposer de participer à la cohorte ComPare](https://compare.aphp.fr/participer/je-participe.html)
 - Maladie grave pouvant être guérie le plus souvent
 - Les soins liés à la maladie et ses complications sont intégralement remboursés
 - Informations sur les modes de transmission
@@ -192,8 +193,8 @@ graph TB
 - Associations de patients
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%collapse "Source" %}}
 
-- [HAS. Hépatite C : prise en charge simplifiée chez l'adulte. Mars 2019 MAJ Septembre 2019.](https://www.has-sante.fr/jcms/c_2911891/fr/hepatite-c-prise-en-charge-simplifiee-chez-l-adulte)
+[HAS. Hépatite C : prise en charge simplifiée chez l'adulte. Mars 2019 MAJ Septembre 2019.](https://www.has-sante.fr/jcms/c_2911891/fr/hepatite-c-prise-en-charge-simplifiee-chez-l-adulte)
 
 {{% /collapse %}}

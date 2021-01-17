@@ -212,7 +212,7 @@ La recherche fécale d'H. pylori est une alternative au test respiratoire mais m
 {{% /collapse %}}
 {{%collapse "Conduite à tenir en présence d'Helicobacter pylori" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir pour le traitement d'Helicobacter pylori guidé par antibiogramme. Dr JB FRON d'après HAS/CNPHGE 2017" >}}
 graph TB
   asymptomatique["<b>Asymptomatique</b><br>- &lt; 40 ans et ATCD K gastrique 1er degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie(Sérologie H. pylori)
   style asymptomatique stroke:#006ef4, stroke-width:1px
@@ -236,11 +236,9 @@ graph TB
       grossesse -- Oui --> reporter("Reporter le<br>traitement")
 {{< /mermaid >}}
 
-> Figure. Conduite à tenir pour le traitement d'Helicobacter pylori guidé par antibiogramme (*Dr JB FRON d'après HAS/CNPHGE 2017*).
-
 ### Traitement probabiliste en l'absence de l'antibiogramme d'H. pylori
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir pour le traitement d'Helicobacter pylori en l'absence d'antibiogramme. Dr JB FRON d'après HAS/CNPHGE 2017" >}}
 graph TB
   probabiliste["H. pylori prouvé<br>ET antibiogramme manquant"] --> grossesse("Grossesse ou<br>allaitement ?")
   style probabiliste stroke:#006ef4, stroke-width:1px
@@ -256,8 +254,6 @@ graph TB
               surv -- Positif --> EOGD("EOGD + antibiogramme<br>Avis du Centre de Référence")
     grossesse -- Oui --> reporter("Reporter le<br>traitement")
 {{< /mermaid >}}
-
-> Figure. Conduite à tenir pour le traitement d'Helicobacter pylori en l'absence d'antibiogramme (*Dr JB FRON d'après* [*HAS/CNPHGE 2017*](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf)).
 
 {{% /collapse %}}
 {{%collapse "Informations du patient" %}}

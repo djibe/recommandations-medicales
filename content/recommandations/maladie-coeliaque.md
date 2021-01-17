@@ -262,7 +262,7 @@ Des  produits  diététiques  sans  gluten  sont  rem-boursés  partiellement  p
 {{% /collapse%}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir en cas de suspicion de maladie coœliaque. Dr JB FRON d'après EssCD 2019" >}}
 graph TB
   symptomatique["Symptomatique"] --> examen("Sérologie ou fibroscopie d'emblée<br>selon le cas")
   style symptomatique stroke:#006ef4, stroke-width:1px
@@ -273,8 +273,6 @@ graph TB
       gastro --"Diagnostic infirmé"--> explo("Poursuite du bilan<br>par le spécialiste")
 {{< /mermaid >}}
 
-> Conduite à tenir en cas de suspicion de maladie coœliaque d'après EssCD 2019.
-
 {{% /collapse %}}
 {{%collapse "FMC" %}}
 
@@ -283,11 +281,11 @@ graph TB
 {{% /collapse%}}
 {{%collapse "Sources" %}}
 
-- [Prescrire. Intolérance au gluten - L'essentiel sur les soins de premier choix. Janvier 2020.](//prescrire.org)
-- [EssCD. Guideline for coeliac disease and other gluten-related disorders. April 2019](//journals.sagepub.com/doi/full/10.1177/2050640619844125?utm_source=SAGE_social&hootPostID=125b0aec0fa6dfe1312e0d2a5a622756&#articleCitationDownloadContainer)
+- [Prescrire. Intolérance au gluten - L'essentiel sur les soins de premier choix. Janvier 2020.](https://prescrire.org)
+- [EssCD. Guideline for coeliac disease and other gluten-related disorders. April 2019](https://doi.org/10.1177%2F2050640619844125)
 - [Olives JP. Maladie coeliaque : de l’enfance à l’âge adulte. POST'U 2013 - Paris](https://www.fmcgastro.org/postu-main/postu-2013-paris/textes-postu-2013-paris/maladie-coeliaque-de-lenfance-a-lage-adulte/)
-- [HAS. Recherche d'anticorps dans la maladie cœliaque et suivi de l'observance du régime sans gluten. Janvier 2007](//www.has-sante.fr/upload/docs/application/pdf/synthese_maladie_coeliaque.pdf)
-- [SNFGE. Maladie cœliaque](//www.snfge.org/content/maladie-coeliaque)
-- [Asmeli. Intolérance au gluten.](//www.ameli.fr/hauts-de-seine/assure/sante/themes/intolerance-gluten-maladie-coeliaque)
+- [HAS. Recherche d'anticorps dans la maladie cœliaque et suivi de l'observance du régime sans gluten. Janvier 2007](https://www.has-sante.fr/upload/docs/application/pdf/synthese_maladie_coeliaque.pdf)
+- [SNFGE. Maladie cœliaque](https://www.snfge.org/content/maladie-coeliaque)
+- [Asmeli. Intolérance au gluten.](https://www.ameli.fr/hauts-de-seine/assure/sante/themes/intolerance-gluten-maladie-coeliaque)
 
 {{%/collapse%}}

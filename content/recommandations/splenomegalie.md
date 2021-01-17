@@ -121,7 +121,7 @@ Risque chirurgical dans  les  cirrhoses, la splénomégalie myéloïde.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir chez l'adulte" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir devant une splénomégalie chez l'adulte" >}}
 graph TB
   SM["Splénomégalie de l'adulte"] --> bio("NFS, VS, CRP<br>Bilan hépatique, TP TCA<br>Électrophorèse des protéines<br><br>+")
   style SM stroke:#006ef4, stroke-width:1px

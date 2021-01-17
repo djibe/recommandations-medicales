@@ -173,7 +173,7 @@ Autre traitement possible mais de faible efficacité: acide azélaïque gel 15% 
 {{% /collapse %}}
 {{% collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Choix du traitement devant une acné">}}
 graph TB
   suspicion["Suspicion d'acné"] --> diagnostic("Diagnostic clinique<br>d'acné")
   style suspicion stroke:#006ef4, stroke-width:1px
@@ -210,8 +210,8 @@ Selon la SFDermato, informer le patient:
 - [ANSM. Traitement contre l’acné : règles de bon usage de l’isotrétinoïne pour limiter les risques - Point d'Information. 21/10/2020.](https://ansm.sante.fr/S-informer/Actualite/Traitement-contre-l-acne-regles-de-bon-usage-de-l-isotretinoine-pour-limiter-les-risques-Point-d-Information)
 - La Revue Prescrire. Patients ayant une acné. Mars 2017.
 - La Revue Prescrire. Premiers choix Prescrire. Acné. Octobre 2016.
-- [Société Française de Dermatologie (label HAS). Prise en charge de l’acné. 10 juin 2015](//www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)
-- [ANSM. Mai 2015. Restriction de la prescription initiale de l’isotrétinoïne orale aux dermatologues – Lettre aux professionnels de santé](//www.ansm.sante.fr/content/download/76973/976491/version/1/file/DHCP_Isotretinoine-medecins_13-05-2015.pdf)
+- [Société Française de Dermatologie (label HAS). Prise en charge de l’acné. 10 juin 2015](https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)
+- [ANSM. Mai 2015. Restriction de la prescription initiale de l’isotrétinoïne orale aux dermatologues – Lettre aux professionnels de santé](https://www.ansm.sante.fr/content/download/76973/976491/version/1/file/DHCP_Isotretinoine-medecins_13-05-2015.pdf)
 
 {{% /collapse %}}
 {{%collapse "Photos" %}}

@@ -107,7 +107,7 @@ Remise des [Consignes de surveillance à donner aux parents](/print/tc-enfant-co
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir devant un traumatisme crânien de l'enfant. Dr JB FRON d'après SFMU 2015" >}}
 graph TB
   TC[Traumatisme crânien] --> GCS(Score de Glasgow)
   style TC stroke:#006ef4, stroke-width:1px

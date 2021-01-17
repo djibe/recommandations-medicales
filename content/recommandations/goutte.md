@@ -315,7 +315,7 @@ Uricosurique alternatif de l'allopurinol et du fébuxostat, le probénécide (Sa
 {{% /collapse %}}
 {{% collapse "Conduite à tenir devant une crise de goutte" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir thérapeutique devant une crise de goutte. Dr JB FRON d'après SFR oct 2020" >}}
 graph TB
   crise[Crise de goutte] --> rhd("Éducation<br>Traitement à avoir sur soi<br>Envisager hypouricémiant")
   style crise stroke:#006ef4, stroke-width:1px
@@ -328,7 +328,7 @@ graph TB
     rhd -- Monoarthrite infiltrable --> infiltration(Infiltration de corticoïdes)
 {{< /mermaid >}}
 
-> **Figure.** Conduite à tenir thérapeutique devant une crise de goutte (*Dr JB FRON d'après SFR oct 2020*).  
+> **Légende**  
 **MCV:** maladie cardiovasculaire  
 **Inhibiteurs CYP3A4/GP:** [pristinamycine, macrolides...](https://www.ansm.sante.fr/Dossiers/Interactions-medicamenteuses/Interactions-medicamenteuses-et-cytochromes/(offset)/1)  
 **Colchicine** J1: 1 mg puis 0,5 mg à H1 puis jours suivants 0,5 mg x 2-3/j.  
@@ -338,7 +338,7 @@ graph TB
 {{%/collapse%}}
 {{% collapse "Conduite à tenir pour le traitement hypouricémiant" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir thérapeutique pour le traitement hypouricémiant. Dr JB FRON d'après SFR oct 2020" >}}
 graph TB
   diagnostic[Diagnostic de goutte] --> education(Éducation<br>Traitement sur soi<br>RHD)
   style diagnostic stroke:#006ef4, stroke-width:1px
@@ -354,8 +354,7 @@ graph TB
             uricemie -- "> 60 mg/L" --> hors(Maintenir doses maximales<br>Considérer uricosuriques) --> surv
 {{< /mermaid >}}
 
-> **Figure.** Conduite à tenir thérapeutique pour le traitement hypouricémiant (*Dr JB FRON d'après SFR oct 2020*).  
-**MCV:** Maladie cardiovasculaire
+> **MCV:** Maladie cardiovasculaire
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}

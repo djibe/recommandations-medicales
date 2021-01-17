@@ -192,7 +192,7 @@ Surveillance des signes d'hyperandrogénie.
 {{%/collapse%}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir devant une suspicion de puberté précoce" >}}
 graph TB
   pp["Observation de caractères sexuels"] -- Fille --> fille["Âge #lt; 8 ans"]
   style pp stroke:#006ef4, stroke-width:1px

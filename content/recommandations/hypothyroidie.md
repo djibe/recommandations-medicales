@@ -262,7 +262,7 @@ Suivi thérapeutique par dosage de T3L + T4L qui doit être dans le tiers supér
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir devant une TSH augmentée et une hypothyroïdie. Dr JB FRON d'après HAS 2019" >}}
 graph TB
   decouverte["TSH augmentée"] --"Contrôle à 1 mois"--> TSH["TSH augmentée"]
   style decouverte stroke:#006ef4, stroke-width:1px
@@ -274,8 +274,6 @@ graph TB
             adulte --"Fragilité"--> fragile("<b>Sujet âgé</b>: Débuter à 1,7 µg/kg/j<hr><b>Coronarien</b>: Débuter à 12,5 µg/j")
           traitement --> enfant("<b>Enfant</b><br>Débuter à 2 µg/kg/j")
 {{< /mermaid >}}
-
-> Figure. Conduite à tenir devant une hypothyroïdie.
 
 {{% /collapse %}}
 {{%collapse Sources %}}

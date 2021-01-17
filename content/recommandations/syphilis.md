@@ -314,7 +314,7 @@ Dans ce cas:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une syphilis" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir pour le traitement de la syphilis" >}}
 graph TB
   chancre[Chancre] -- Syphilis primaire --> ttt("VDRL, sérologies IST<br>BPG 2,4 MU IM unique<br>Paracétamol<br>Dépistage contacts &lt; 3 mois")
   style chancre stroke:#006ef4, stroke-width:1px
@@ -325,8 +325,6 @@ graph TB
     anciennete -- Oui --> adapte("Schéma BPG adapté<br>Dépistage contacts adapté") --> surv
     anciennete -- Non --> tardive("<b>Traiter syphilis tardive</b><br>BPG 2,4 MU IM 1/sem 3 sem<br>Dépistage contacts &lt; 1 an") --> surv
 {{< /mermaid >}}
-
-> Arbre décisionnel. Traitement de la syphilis en soins primaires
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

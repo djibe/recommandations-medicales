@@ -172,7 +172,7 @@ Connaître les signes et symptômes de la MRC et savoir qui prévenir
 {{%/collapse%}}
 {{%collapse "Dépistage - Arbre décisionnel" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir pour le dépistage de la maladie rénale chronique. Dr JB FRON d'après HAS 2012" >}}
 graph TB
 fdr[Personne à risque] --> 2(Bilan annuel)
 style fdr stroke:#006ef4, stroke-width:1px

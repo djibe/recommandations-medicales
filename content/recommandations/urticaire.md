@@ -364,7 +364,7 @@ Népressol, réserpine, hydralazine, trasipressol.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir devant une urticaire aiguë. Dr JB FRON d'après CEILF" >}}
 graph TB
   UA["Urticaire aiguë"] --> gravite("<b>Signes de gravité ?</b><br>- Dysphonie<br>- Hypersalivation<br>- Troubles de la déglutition")
   style UA stroke:#006ef4, stroke-width:1px
@@ -374,9 +374,7 @@ graph TB
     gravite -- Oui --> urgence("Appel du 15<br>Traitement du choc<br>anaphylactique/Quincke")
 {{< /mermaid >}}
 
-> Figure. Conduite à tenir devant une urticaire aiguë (*Dr JB FRON d'après CEILF*).
-
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir devant une urticaire chronique. Dr JB FRON d'après ANAES 2003" >}}
 graph TB
   UC["Urticaire chronique (UC)<br>Durée &gt; 6 semaines"] --> orientation("Maladie générale?<br>Forme particulière?")
   style UC stroke:#006ef4, stroke-width:1px
@@ -384,8 +382,6 @@ graph TB
         ttt1 -- Résistance --> bilan("Bilan de l'UC<br>NFS, VS, CRP<br>anti-TPO +/- TSH")
         ttt1 -- Résolution --> fin(Pas de bilan)
 {{< /mermaid >}}
-
-> Figure. Conduite à tenir devant une urticaire chronique (*Dr JB FRON d'après ANAES 2003*).
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

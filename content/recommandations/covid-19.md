@@ -153,6 +153,8 @@ Obtenir un test RT-PCR dans les 24h pour symptômatiques ou cas contacts:
 {{%/collapse%}}
 {{%collapse "Conduite à tenir Adulte" "show"%}}
 
+{{%warning%}}Pas à jour !{{%/warning%}}
+
 {{< mermaid >}}
 graph TB
   adulte[Adulte et Enfant > 6 ans<br>sans fragilité] --> contact(Cas Contact<br>Isolement 7J<br>À compter du contact<br>Arrêt sur declare.ameli.fr) --> testJ7("Test à J7<br>(Immédiat si je vis avec)<br>Isolement jusqu'aux résultats") --Test+--> isolementContact(Isolement 7J sup.<br>À compter du test) --> retour

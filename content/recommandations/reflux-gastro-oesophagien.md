@@ -228,7 +228,7 @@ Utiliser les RHD et l'oméprazole (voire la ranitidine).
 {{%/collapse%}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir devant un reflux gastro-œsophagien" >}}
 graph TB
   RGO[Suspicion de RGO] --> atypique
   style RGO stroke:#006ef4, stroke-width:1px

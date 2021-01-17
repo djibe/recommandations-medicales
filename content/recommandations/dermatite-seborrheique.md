@@ -167,7 +167,7 @@ Ciclopirox, kétoconazole, dermocroticoïdes, sulfure de sélénium, AINS, acide
 {{% /collapse %}}
 {{% collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir devant une dermatite séborrhéique" >}}
 graph TB
   suspicion[Suspicion de dermatite séborrhéique] --> diagnostic(Diagnostic clinique<br>de DS)
   style suspicion stroke:#006ef4, stroke-width:1px
@@ -180,8 +180,6 @@ graph TB
   attaque --> entretien(Phase d'entretien)
   entretien -.-> severe(Sévère et résistant<br>Sérologie VIH<br>Avis dermatologue)
 {{< /mermaid >}}
-
-> Figure. Conduite à tenir devant une dermatite séborrhéique.
 
 {{%/collapse%}}
 {{% collapse "Information du patient" %}}

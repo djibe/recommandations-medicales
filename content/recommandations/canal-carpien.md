@@ -181,7 +181,7 @@ Les fils sont retirés au bout de 15 jours à 3 semaines après l’intervention
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show"%}}
 
-{{< mermaid >}}
+{{< mermaid title="Conduite à tenir devant un syndrome du canal carpien" >}}
 graph TD
 diagnostic["Diagnostic clinique"] --> gravite{"Signes de gravité ?"}
 style diagnostic stroke:#006ef4, stroke-width:1px
@@ -189,8 +189,6 @@ diagnostic --"Diagnostic différentiel"--> differentiel("- Atteintes radiculaire
   gravite -- Oui --> emg(ENMG pré-opératoire) --> chir("Chirurgie")
   gravite -- Non --> medical(Traitement médical<br>Orthèse - Infiltration)
 {{< /mermaid >}}
-
-> Figure. Conduite à tenir devant un canal carpien
 
 {{% /collapse %}}
 {{%collapse "Vidéos de formation" %}}

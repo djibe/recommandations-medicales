@@ -118,7 +118,7 @@ RCV
   <h4 class="typography-headline-6">Chirurgie cardiaque</h4>
   <dl>
     <dt>Épreuve d'effort doit être envisagée</dt>
-    <dd>Avant la chirurgie cardiaque si faible capacité fonctionnelle (< 4 METs) et/ou haut risque cardiovasculaire.</dd>
+    <dd>Avant la chirurgie cardiaque si faible capacité fonctionnelle (&lt; 4 METs) et/ou haut risque cardiovasculaire.</dd>
   </dl>
 </div>
 <div class="collapse" id="collapse-coro">
