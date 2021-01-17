@@ -18,7 +18,7 @@ draft = false
 image = true
 imageSrc = "Habib M’henni / Wikimedia Commons"
 imagePNG = true
-todo = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC, dépistage NOSAS, prévalence, doc explication PPC, durée minimale 4h, comor SOPK"
+todo = "simplifier SAOS, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC, dépistage NOSAS, prévalence, doc explication PPC, durée minimale 4h, comor SOPK"
 +++
 
 {{%article-summary%}}
