@@ -14,25 +14,30 @@ tags = ["hirsutisme"]
 anglais = ["Hirsutism"]
 sctid = "399939002"
 draft = false
-todo = "summary, bilan paraclinique"
+image = true
+imageSrc = "Charles Eisenmann, Wikimedia Commons"
+todo = "TODO: summary, bilan paraclinique"
 +++
 
 {{%article-summary%}}
 
-TODO
+Fiche en construction.
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
-Excès de poils longs, drus et pigmentés, présents chez les femmes sur des zones androgénodépendantes.
-
+Hirsutisme
+: Excès de poils longs, drus et pigmentés, présents chez les femmes sur des zones androgénodépendantes.  
 L'hirsutisme atteint de 5 à 15% des femmes.
 
-**Zones androgénodépendantes** : lèvre supérieure, menton, joue, poitrine, ligne ombilico-pubienne, fesse, dos, région lombaire, bras, face antérieure des cuisses.
+Zones androgénodépendantes
+: Lèvre supérieure, menton, joue, poitrine, ligne ombilico-pubienne, fesse, dos, région lombaire, bras, face antérieure des cuisses.
 
 {{%/collapse %}}
 
 {{%collapse "Étiologie" %}}
+
+Les causes de l'hirsutisme sont gynécologiques, endocriniennes et idiopathique:
 
 - Le **syndrome des ovaires polykystiques** (**SOPK**) est la première cause.
 - Hirsutisme sans hyperandrogénie
@@ -74,7 +79,7 @@ Si iatrogène, apparition le plus souvent après plusieurs mois et régression e
   - Phénytoine
 
 {{%/collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'hirsutisme" %}}
 
 Rasage ou épilation mécanique.
 
