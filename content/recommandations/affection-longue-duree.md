@@ -17,11 +17,6 @@ draft = false
 todo= "TODO: summary, Affections psychiatriques de longue durée"
 +++
 
-{{%article-summary%}}
-
-À compléter
-
-{{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 ALD exonérante

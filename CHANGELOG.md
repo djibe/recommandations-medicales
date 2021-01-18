@@ -5,7 +5,7 @@
 - index Hx order
 - Fix RSS length
 - Fix list.html
-- Hyperferr > Prep > SAOS > Cirrhose > SAP > Papillomavirus > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
+- Hyperferr > Prep > SAOS > lavage colique > Cirrhose > FA > Papillomavirus > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
 - Bandeau lat
 - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 - Raccourcis: paracetamol, vaccins, cs enfant

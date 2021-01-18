@@ -214,9 +214,9 @@ Voir *Information du patient*.
 
 ### Médicaments hyperuricémiants
 
+- Aspirine (même à faible dose)
 - Diurétiques thiazidiques et de l'anse
 - Bêtabloquants
-- Aspirine faible dose
 - Ciclosporine, tacrolimus
 - Pyrazinamide, éthambutol
 
