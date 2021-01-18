@@ -231,7 +231,20 @@ a[href^='http']::after {
     margin-bottom: 1.5rem;
 
     li:not(.list-group-divider) {
-      
+      align-items: center;
+      background-color: #fff;
+      border: 0;
+      color: rgba(0,0,0,.87);
+      display: block;
+      flex-shrink: 0;
+      font-size: 1rem;
+      letter-spacing: .009375em;
+      line-height: 1.5;
+      min-height: 3rem;
+      padding: .75rem 1rem;
+      position: relative;
+      transition: background-color 15ms linear;
+
       /* &:hover, &:focus, &:active {
         background-color: rgba(0, 0, 0, 0.04);
         cursor: pointer;

@@ -1,5 +1,5 @@
 +++
-title = "Gastrite"
+title = "Gastrite aiguë"
 prefix = "la "
 shortname = "M"
 synonyms = []
@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-15T17:43:00+02:00
 publishdate = 2021-01-15
 lastmod = 2021-01-15
-categories = ["dermatologie"]
+categories = ["hepato-gastro-enterologie"]
 guidelineyears = "2020"
 sources = ["HAS", "MinSante"]
 tags = ["HSH", "IST"]

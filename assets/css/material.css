@@ -3073,7 +3073,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 .card-body + .card-actions {
   background-color: #ffffff;
   margin-top: -0.5rem;
-  z-index: 1;
+  z-index: 2;
 }
 
 .card-actions .btn, .card-actions .card-link {

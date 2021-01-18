@@ -14,8 +14,8 @@ tags = ["grossesse", "HSH", "IST", "VIH"]
 anglais = ["Human immunodeficiency virus infection"]
 sctid = "86406008"
 draft = false
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Photo by NIAID on Foter.com / CC BY"
 todo = "TODO: prophylaxie pré-exposition (PrEP), CAT en urgence, suivi, Gardasil 3 doses 11-19, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, lutte tabac et cannabis CNS 2017"
 +++
 
@@ -136,6 +136,8 @@ Indications au scanner thoracique:
 En cas d'exposition pendant au moins 1 an à un agent cancérigène vésical.  
 À partir de la 20<sup>e</sup> année qui suit la période d'exposition.  
 **Méthode:** cytologie urinaire tous les 6 mois.
+
+> Source CNS 2017
 
 {{% /collapse %}}
 {{%collapse "Source" %}}

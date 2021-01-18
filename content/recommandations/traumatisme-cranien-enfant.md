@@ -31,7 +31,7 @@ Traumatisme crânien léger (TCL)
 : Ils représentent 95% des traumatismes crâniens de l'enfant. < 10% ont lésion intracrânienne (LIC) et < 1% nécessitent neurochirurgie.
 
 {{% /collapse %}}
-{{%collapse "Signes de gravité du TC chez l'enfant" %}}
+{{%collapse "Signes de gravité du traumatisme crânien chez l'enfant" %}}
 
 {{%warning%}}
 Indications à l'**hospitalisation en urgence** avec **scanner cérébral** (≥ 1 parmi)  
@@ -59,7 +59,7 @@ OU si **appréciation de gravité par le médecin:**
 - Suspicion de maltraitance
 {{%/warning%}}
 
-> Critères PECARN (Pediatric Emergency Care Applied Research Network) 2009.
+> Critères PECARN ({{%lang%}}Pediatric Emergency Care Applied Research Network{{%/lang%}}) 2009.
 
 **En l'absence de signes de gravité, la prise en charge ambulatoire est envisageable**.
 

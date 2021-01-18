@@ -10,14 +10,14 @@ lastmod = 2021-01-07
 categories = ["hepato-gastro-enterologie"]
 guidelineyears = "2017"
 sources = ["HAS", "CNPGHE"]
-tags = ["B12", "bariatrique", "carence martiale", "EOGD", "IPP"]
+tags = ["B12", "bariatrique", "carence martiale", "EOGD", "gastrite", "IPP"]
 anglais = ["Helicobacter pylori"]
 sctid = "80774000"
 draft = false
 image = true
 imageSrc = "CDC/Dr. Patricia Fields, Dr. Collette Fitzgerald (PHIL #5715), 2004"
 flowchart = true
-todo = "sérologie, ttt quel moment de prise, http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/diagnostic-traitement-et-suivi-deradication/suivi-de-leradication/, dépistage en AINS long cours maastricht III"
+todo = "ttt quel moment de prise, http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/diagnostic-traitement-et-suivi-deradication/suivi-de-leradication/, dépistage en AINS long cours maastricht III"
 +++
 
 {{%article-summary%}}
@@ -35,7 +35,7 @@ Dysphagie, amaigrissement, anémie.
 
 Helicobacter pylori
 : **Abréviation:** H. pylori.
-: Bactérie à tropisme gastrique chronique responsable d'infections compliquée d'*ulcères gastro-duodénaux* et de 80% des *cancers gastriques* (adénocarcinomes et lymphomes du MALT).
+: Bactérie à tropisme gastrique responsable de *gastrite chronique*, compliquée d'*ulcères gastro-duodénaux* et de 80% des *cancers gastriques* (adénocarcinomes et lymphomes du MALT).
 : Contamination dans l'enfance par régurgitations gastriques.  
 Son éradication prévient la survenue de ces complications.
 

@@ -13,11 +13,13 @@ sources = ["CNGOF", "SFDiabète", "SFRhumato"]
 tags = ["ferritine", "uricemie"]
 anglais = []
 sctid = ""
-draft = true
+draft = false
 image = false
 imageSrc = ""
-todo = "HbA1C, LDL"
+todo = "TODO: HbA1C, LDL"
 +++
+
+Cette page est en construction
 
 {{%collapse "Cibles de marqueurs biologiques" "show" %}}
 
@@ -25,10 +27,10 @@ todo = "HbA1C, LDL"
 | Élément      | Population concernée | Cible de concentration | Source |
 |--------------|----------------------|------------------------|--------|
 | Ferritinémie | Femme jeune<br>Grossesse | > 50 ng/mL<br>> 80 ng/mL | CNGOF |
-| HbA<sub>1C</sub> | DT2 récent<br>DT2 | < 6,5%<br>7%     | SFDiabete |
-| Uricémie     | Goutte          | < 50 mg/L              | SFRhumato 2020 |
+| HbA<sub>1C</sub> | DT2 récent<br>DT2 | < 6,5%<br>7%          | SFDiabete |
+| Uricémie     | Goutte               | < 50 mg/L              | SFRhumato 2020 |
 | VDRL         | M6 post-PéniG<br>M12 post-PéniG | Taux /4<br>Négatif | SFDermato 2016 |
-| Vitamine D   | Adulte<br>≥ 65 ans | > 50 nmol/L<br>> 75 noml/L | Annweiler C 2018 |
+| Vitamine D   | Adulte<br>≥ 65 ans   | > 50 nmol/L<br>> 75 noml/L | Annweiler C 2018 |
 
 {{< /table >}}
 

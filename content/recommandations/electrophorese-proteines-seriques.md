@@ -11,9 +11,9 @@ categories = ["rhumatologie"]
 guidelineyears = "2017"
 sources = ["HAS"]
 tags = ["EPS", "Ig monoclonale"]
-anglais = []
-sctid = ""
-draft = true
+anglais = ["Serum protein electrophoresis"]
+sctid = "4903000"
+draft = false
 +++
 
 {{%article-summary%}}

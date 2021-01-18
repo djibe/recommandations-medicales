@@ -29,7 +29,7 @@ todo = "survie melanome, complications K: lymphoedeme, erysipele, dl neurop"
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Mélanome
+Mélanome malin
 : Tumeur maligne développée aux dépens des mélanocytes.  
 La majorité survient sur peau saine, 20% sur nævus pré-existant.
 : Le mélanome atteint surtout les personnes avec *Facteurs de risque* (voir chapitre plus bas).  
@@ -78,7 +78,7 @@ Attention à toute lésion présentée par le patient.
 
 {{%warning%}}Pour toutes les personnes à risque: auto-examen cutané tous les 3 mois et consultation annuelle chez le dermatologue.{{%/warning%}}
 
-Personnes à risque de mélanome:
+### Personnes à risque de mélanome malin
 
 - Physique
   - Sujet à peau claire  

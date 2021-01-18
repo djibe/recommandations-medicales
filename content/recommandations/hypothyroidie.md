@@ -15,6 +15,8 @@ anglais = ["Hypothyroidism"]
 sctid = "40930008"
 draft = false
 flowchart = true
+image = true
+imageSrc = "Photo by National Institutes of Health (NIH) on Foter.com / CC BY-NC"
 +++
 
 {{%article-summary%}}
@@ -194,7 +196,7 @@ Délai avant amélioration des symptômes de **2 semaines après instauration du
 
 {{% info %}}
 Initier à 1,7 µg/kg/j chez l'adulte.  
-{{% class %}}Sujet âgé: 1,3 | Enfant: 2 | Coronarien 12,5 à 25 µg/j.{{% /class %}}
+{{% class "text-black-secondary" %}}Sujet âgé: 1,3 | Enfant: 2 | Coronarien 12,5 à 25 µg/j.{{% /class %}}
 
 Adaptation par paliers de 12 µg.
 {{% /info %}}

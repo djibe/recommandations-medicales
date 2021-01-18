@@ -67,10 +67,12 @@ Hyperparathyroïdie
 1. Apports calciques ≥ 1g/j
 
 {{%/collapse%}}
-{{%collapse "Apports cibles selon l'âge" %}}
+{{%collapse "Apports cibles en vitamine D selon l'âge" %}}
 
 La supplémentation en vitamine D3 peut être instaurée et suivie sans dosage de la vitamine D sauf chez les sujets à risque mentionnés ci-dessus.  
-Éviter une supplémentation forte trop espacée (voir protocole de correction plus bas).
+Éviter une supplémentation forte trop espacée (voir *Protocole d'administration* plus bas).
+
+Recommandations pour les apports de vitamine D en 2021:
 
 - **Allaitement maternel**  
 Supplémentation quotidienne 1000-1200 UI/j (avec un peu de lait) jusqu'à 18 mois,  
@@ -105,7 +107,7 @@ Cible de 25(OH)D: ≥ 75 nmol/L.
 Cible de 25(OH)D: ≥ 75 nmol/L.
 
 {{% /collapse %}}
-{{%collapse "Quand doser la vitamine D?" %}}
+{{%collapse "Quand doser la vitamine D ?" %}}
 
 1. Suspicion de rachitisme
 1. Suspicion d'ostéomalacie (fatigue musculaire, douleurs osseuses)
@@ -128,9 +130,9 @@ En dosage de complaisance, préciser « Non remboursable » sur la prescriptio
 {{%class%}}92 millions d’euros de dosages de vitamine D en 2011.{{%/class %}}
 
 {{% /collapse %}}
-{{%collapse "Protocoles d'administration" %}}
+{{%collapse "Protocoles d'administration de la vitamine D" %}}
 
-### Protocole de correction
+### Protocole de correction de la carence en vitamine D
 
 Selon le résultat du dosage de vitamine D:
 
@@ -163,6 +165,12 @@ Intensification si :
 - Absence d’exposition estivale
 - Traitement à risque: rifampicine, phénobarbital, phénytoïne
 - Obésité, régime carencé
+
+{{% /collapse %}}
+{{%collapse "Spécialités de colécalciférol disponibles" %}}
+
+{{%list "list-group" %}}
+{{% /list %}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
