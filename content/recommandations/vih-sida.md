@@ -6,23 +6,24 @@ synonyms = ["Virus de l'immunodéficience humaine"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-16T22:06:00+02:00
 publishdate = 2021-01-16
-lastmod = 2021-01-16
+lastmod = 2021-01-18
 categories = ["infectiologie"]
 guidelineyears = "2017"
 sources = ["HAS"]
 tags = ["grossesse", "HSH", "IST", "VIH"]
-anglais = []
-sctid = ""
+anglais = ["Human immunodeficiency virus infection"]
+sctid = "86406008"
 draft = false
 image = false
 imageSrc = ""
-todo = "TODO: snomed, prophylaxie pré-exposition (PrEP), CAT en urgence, suivi"
+todo = "TODO: prophylaxie pré-exposition (PrEP), CAT en urgence, suivi, Gardasil 3 doses 11-19, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, lutte tabac et cannabis CNS 2017"
 +++
 
 {{%article-summary%}}
 
 - Dépister largement
 - Répéter le dépistage chez les populations à risque
+- Dépistage des complications
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -30,6 +31,7 @@ todo = "TODO: snomed, prophylaxie pré-exposition (PrEP), CAT en urgence, suivi"
 ### Abréviations
 
 **HSH:** Hommes ayant des rapports sexuels avec des hommes
+**PVVIH:** Personnes vivant avec le VIH
 **UDI:** Usagers de drogues par injection
 
 {{% /collapse %}}
@@ -104,8 +106,41 @@ Plusieurs méthodes de dépistage sont accessibles afin de s'adapter aux populat
 - Laboratoire d'analyses médicales
 
 {{% /collapse %}}
+{{%collapse "Dépistage spécifique au cours du VIH" %}}
+
+Dépistage généralisé des cancers du sein et du colon.
+
+### Dépistage du cancer du col de l'utérus
+
+Suivi spécifique.
+
+> Source CNS 2017
+
+### Dépistage du cancer de l'anus
+
+{{< clinique/depistage-cancer-anus >}}
+
+### Dépistage du cancer du poumon
+
+Indications au scanner thoracique:
+
+- Toux persistante
+- Hémoptysie
+- Douleur chronique
+- Altération de l'état général
+
+> Source CNS 2017
+
+### Dépistage du cancer de la vessie
+
+En cas d'exposition pendant au moins 1 an à un agent cancérigène vésical.  
+À partir de la 20<sup>e</sup> année qui suit la période d'exposition.  
+**Méthode:** cytologie urinaire tous les 6 mois.
+
+{{% /collapse %}}
 {{%collapse "Source" %}}
 
+- [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017.](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)
 
 {{% /collapse %}}
