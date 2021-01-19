@@ -97,7 +97,7 @@ En cas de craniosynostose confirmée.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [HAS/CNP. Prévention des déformations crâniennes positionnelles et mort inattendue du nourrisson. Février 2020.](HAS/CNP. Prévention des déformations crâniennes positionnelles et mort inattendue du nourrisson. Février 2020.)
+- [HAS/CNP. Prévention des déformations crâniennes positionnelles et mort inattendue du nourrisson. Février 2020.](https://www.has-sante.fr/jcms/p_3151574/fr/prevention-des-deformations-craniennes-positionnelles-dcp-et-mort-inattendue-du-nourrisson)
 - [Société Canadienne de Pédiatrie. La plagiocéphalie positionnelle. Octobre 2011.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3202395/)
 
 {{% /collapse %}}

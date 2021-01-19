@@ -206,6 +206,16 @@ ou moxifloxacine (effets indésirables graves)
 Prélèvements bactériologiques, scanner, antibiothérapie intraveineuse urgente.
 
 {{% /collapse %}}
+{{%collapse "Conduite à tenir" "show" %}}
+
+{{< mermaid title="Conduite à tenir devant une rosacée" >}}
+graph TB
+  sinusite[Sinusite] --> mineure("métronidazole gel 0,75% x 2/j 3 mois")
+  style sinusite stroke:#006ef4, stroke-width:1px
+
+{{< /mermaid >}}
+
+{{% /collapse %}}
 {{%collapse "Sources" %}}
 
 - [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017.](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)

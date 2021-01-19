@@ -3,6 +3,8 @@
 ## TODO
 
 - index Hx order
+- Désindexer pages inutiles
+- https://www.webrankinfo.com/dossiers/techniques/quelles-donnees-structurees
 - Fix RSS length
 - Fix list.html
 - Gonarthrose > Hyperferr > Prep > SAOS > lavage colique > Cirrhose > FA > OMAP > Eczéma > Migraine > Cortico éq. prednisolone

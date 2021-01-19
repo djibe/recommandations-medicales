@@ -121,6 +121,19 @@ Atteintes possibles après une infection à Sars-Cov-2.
 [*Source DGS-Urgent 20/08/2020*](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=31000&cmd=visualiserMessage)
 
 {{% /collapse %}}
+{{%collapse "Indications à la vaccination" %}}
+
+- Cancer/hémopathie maligne en cours de traitement par chimiothérapie
+- Maladie rénale chronique sévère et hémodialyse
+- Transplanté d'organe solide
+- Transplanté par allogreffe de cellules souches hématopoïétiques
+- Polypathologie avec au moins 2 insuffisnaces d'organe
+- Certaines maladies rares à risque infectieux
+- Triomie 21
+
+> DGS Urgent 2021-04
+
+{{% /collapse %}}
 {{%collapse "Certificats" %}}
 
 > “L’Ordre rappelle que les médecins n’ont pas à établir de certificat médical pour le retour à l’école”. [CNOM. 11/09/2020](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificat-medical-lecole)

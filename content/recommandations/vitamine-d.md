@@ -29,10 +29,11 @@ L'unité internationale est le **nmol/L**.
 Réduit les fractures non vertébrales des +65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 30 ng/mL.
 : Selon l’[Inserm](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/), une carence en vitamine D serait fortement liée au développement de la maladie d’Alzheimer. D’autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés.
 
-Carence de l'adulte et de l'enfant en vitamine D (risque élevé de rachitisme)
-: Taux sérique de vitamine D < 30 nmol/L.
+Carence en vitamine D de l'adulte et de l'enfant
+: Taux sérique de vitamine D < 30 nmol/L.  
+Risque élevé de *rachitisme*.
 
-Déficit de l’adulte et de l’enfant en vitamine D
+Déficit en vitamine D de l’adulte et de l’enfant
 : 30 < taux sérique < 50 nmol/L.
 
 Seuil de toxicité de la vitamine D
@@ -49,15 +50,17 @@ Ne pas supplémenter au-delà 150 nmol/L.
 - **Carence en vitamine D**  
 7% des adultes, 13% des adolescents, 4% des enfants.
 
+> Santé Publique France. Étude Esteban.
+
 {{%/collapse%}}
 {{%collapse "Patients à risque" %}}
 
 ### Personnes à risque de complications
 
 - Iatrogène  
-Corticoïdes au long cours, anti-aromatases, analogues de la GnRH
+Corticoïdes au long cours, anti-aromatases, analogues de la GnRH.
 - Maladies endocriniennes  
-Hyperparathyroïdie
+Hyperparathyroïdie.
 - Malabsorptions  
 [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), mucoviscidose, chirurgie bariatrique.
 - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
@@ -85,16 +88,14 @@ soit ZymaD® buvable en 3-4 gouttes par jour (300 UI/goutte).
   - Enfant à terme et lait non enrichi en vitD: 100-1200 UI/j soit ZymaD® 3-4 gouttes/j.  
   - Prématuré: 800-1000 UI/j soit 3 gouttes/j.  
 - **18 mois à 5 ans**  
-80 à 100.000 UI en novembre ET février,  
-soit ZymaD® 80.000 UI/Uvedose® 100.000 UI 1 amp.  
+80 à 100.000 UI en novembre ET février.  
 - 5 ans à 10 ans  
 Études en cours.  
 - **10 à 18 ans**  
-Idem 18 mois à 5 ans OU 200.000 UI en 1 fois durant l'hiver,  
-soit ZymaD® 200.000 UI 1 amp ou Uvedose® 100.000 UI 2 amp.  
+80 à 100.000 UI en novembre ET février,  
+ou 200.000 UI 1 fois l'hiver (facilite l'observance).  
 - **Grossesse**  
-80 à 100.000 UI au début du 7<sup>e</sup> mois de grossesse  
-soit ZymaD® 80.000 UI/Uvedose® 100.000 UI 1 amp.  
+80 à 100.000 UI au début du 7<sup>e</sup> mois de grossesse.  
 - **Adulte**  
 Cible de 25(OH)D: ≥ 50 nmol/L.  
 - **Adulte > 65 ans**  
