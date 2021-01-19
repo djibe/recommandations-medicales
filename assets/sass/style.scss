@@ -230,7 +230,7 @@ a[href^='http']::after {
   .list-group {
     margin-bottom: 1.5rem;
 
-    li:not(.list-group-divider) {
+    li:not(.list-group-divider):not(.list-group-item-two-line) {
       align-items: center;
       background-color: #fff;
       border: 0;

@@ -1,4 +1,4 @@
-{{ $list := .Inner | markdownify }}
+{{ $list := .Inner }}
 {{ $class := .Get 0 }}
 {{ $old := "<ul>" }}
 {{ $new := printf "<ul class=\"%s\">" $class }}

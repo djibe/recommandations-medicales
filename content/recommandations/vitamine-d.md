@@ -170,10 +170,13 @@ Intensification si :
 - Obésité, régime carencé
 
 {{% /collapse %}}
-{{%collapse "Spécialités de colécalciférol disponibles" %}}
+{{%collapse "Spécialités de cholécalciférol disponibles" %}}
 
-{{%list "list-group" %}}
-{{% /list %}}
+<ul class="list-group" style="max-width: 360px">
+  {{< list-item title="Ampoule" subtitle="Cholécalciférol 200, 100, 80 ou 50.000 UI" >}}
+  {{< list-item title="Capsule molle" subtitle="Kipos 100.000 UI" >}}
+  {{< list-item title="Gouttes" subtitle="Adrigyl 333 UI/goutte" >}}
+</ul>
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
