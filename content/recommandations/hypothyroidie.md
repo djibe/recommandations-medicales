@@ -16,7 +16,7 @@ sctid = "40930008"
 draft = false
 flowchart = true
 image = true
-imageSrc = "Photo by National Institutes of Health (NIH) on Foter.com / CC BY-NC"
+imageSrc = "Photo de National Institutes of Health (NIH) sur Foter.com / CC BY-NC"
 +++
 
 {{%article-summary%}}

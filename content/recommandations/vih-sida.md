@@ -15,7 +15,7 @@ anglais = ["Human immunodeficiency virus infection"]
 sctid = "86406008"
 draft = false
 image = true
-imageSrc = "Photo by NIAID on Foter.com / CC BY"
+imageSrc = "Photo de NIAID sur Foter.com / CC BY"
 todo = "TODO: prophylaxie pré-exposition (PrEP), CAT en urgence, suivi, Gardasil 3 doses 11-19, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, lutte tabac et cannabis CNS 2017"
 +++
 

@@ -14,6 +14,8 @@ tags = ["EPS", "Ig monoclonale"]
 anglais = ["Serum protein electrophoresis"]
 sctid = "4903000"
 draft = false
+image = false
+imageSrc = ""
 +++
 
 {{%article-summary%}}

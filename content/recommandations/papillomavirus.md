@@ -14,8 +14,8 @@ tags = ["cancer anal", "cancer col", "IST", "HSH", "vaccin"]
 anglais = []
 sctid = ""
 draft = false
-image = false
-imageSrc = ""
+image = true
+imageSrc = "CIN 1/HPV sur ThinPrep. Photo de euthman sur Foter.com / CC BY-SA"
 todo = "pharynx"
 +++
 

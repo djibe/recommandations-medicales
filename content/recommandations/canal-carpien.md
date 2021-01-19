@@ -16,7 +16,7 @@ sctid = "57406009"
 qualite = "moyenne"
 draft = false
 image = true
-imageSrc = "Photo by handarmdoc on Foter.com / CC BY"
+imageSrc = "Photo de handarmdoc sur Foter.com / CC BY"
 flowchart = true
 todo = "TODO: lire reco 2013"
 +++

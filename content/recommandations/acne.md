@@ -15,7 +15,7 @@ anglais = ["Acne"]
 sctid = "11381005"
 draft = false
 image = true
-imageSrc = "Photo by profeticsbeta on Foter.com / CC BY-NC-SA"
+imageSrc = "Photo de profeticsbeta sur Foter.com / CC BY-NC-SA"
 flowchart = true
 todo= "TODO: arbre"
 +++

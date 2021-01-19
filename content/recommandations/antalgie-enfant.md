@@ -17,7 +17,7 @@ draft = false
 slider = true
 paracetamol = true
 image = true
-imageSrc = "Photo by Nathan Phillips on Foter.com / CC BY-NC"
+imageSrc = "Photo de Nathan Phillips sur Foter.com / CC BY-NC"
 todo = "délais d'action pour les sachets, nubin, douleur neuropathique"
 +++
 
@@ -158,7 +158,7 @@ En première intention pour les douleurs faibles à modérées.
   </div>
 </div>
 
-**Posologie:** 15 mg/kg/6h (max 80 mg/kg/j sans dépasser 4g/j).
+**Posologie:** 15 mg/kg/6h (max 60 mg/kg/j sans dépasser 4g/j).
 
 ### Ibuprofène (unique AINS)
 

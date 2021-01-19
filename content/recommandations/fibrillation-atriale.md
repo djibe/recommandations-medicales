@@ -193,7 +193,7 @@ Score proposé en 2010 par l'ESC (source 44).
   </div>
 </div>
 <script>
-  // Score CHA2DS2VASc by djibe
+  // Score CHA2DS2VASc par djibe
   let score = 0;
   const Text = document.getElementById('explain');
   const Age75 = document.getElementById('age75');

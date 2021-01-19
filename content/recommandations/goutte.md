@@ -14,8 +14,8 @@ tags = ["arthropathie"]
 anglais = ["Gout"]
 sctid = "90560007"
 draft = false
-image = false
-imageSrc = ""
+image = true
+imageSrc = "scientificanimations.com / CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
 todo = "TODO: CI AINS, HAS, arbre, naproxene 750/j, comp goutte, https://www.ebmfrance.net/fr/Pages/ebm/ebm00451.aspx"
 +++

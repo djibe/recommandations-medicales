@@ -15,7 +15,7 @@ anglais = ["Tonsilitis"]
 sctid = "90176007"
 draft = false
 image = true
-imageSrc = "Photo by Fireflyez76 on Foter.com / CC BY-ND"
+imageSrc = "Photo de Fireflyez76 sur Foter.com / CC BY-ND"
 flowchart = true
 todo = "lire campus ORL"
 +++

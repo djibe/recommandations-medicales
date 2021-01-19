@@ -5,7 +5,7 @@
 - index Hx order
 - Fix RSS length
 - Fix list.html
-- Gonarthrose > Hyperferr > Prep > SAOS > lavage colique > Cirrhose > FA > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
+- Spe vit D > Gonarthrose > Hyperferr > Prep > SAOS > lavage colique > Cirrhose > FA > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
 - Bandeau lat
 - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 - Raccourcis: paracetamol, vaccins, cs enfant
