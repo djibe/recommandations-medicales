@@ -22,7 +22,7 @@ todo = "pharynx"
 {{%article-summary%}}
 
 - Vaccination pour tous de 11 à 19 ans  
-Étendue à 26 ans pour les HSH.
+Étendue à 26 ans pour les [HSH](< relref "hsh.md" >).
 - Dépistage organisé du cancer du col de l'utérus
 - Dépistage ciblé du cancer anal
 

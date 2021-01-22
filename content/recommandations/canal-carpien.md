@@ -193,7 +193,7 @@ diagnostic --"Diagnostic différentiel"--> differentiel("- Atteintes radiculaire
 {{% /collapse %}}
 {{%collapse "Vidéos de formation" %}}
 
-{{< youtube U8cPjPeZgFw >}}
+{{< youtube id="U8cPjPeZgFw" title="Le signe de Tinel" >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

@@ -133,9 +133,7 @@ Atteintes possibles après une infection à Sars-Cov-2.
 {{%/collapse%}}
 {{%collapse "Vidéos" %}}
 
-### Technique de prélèvement de la RT-PCR
-
-{{< youtube Aj3reT1GI_8 >}}
+{{< youtube id="Aj3reT1GI_8" title="Technique de prélèvement nasal" >}}
 
 {{%/collapse%}}
 {{%collapse "Outils de télésuivi" %}}

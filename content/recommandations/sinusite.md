@@ -208,7 +208,7 @@ Prélèvements bactériologiques, scanner, antibiothérapie intraveineuse urgent
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une rosacée" >}}
+{{< mermaid title="Conduite à tenir devant une sinusite aiguë purulente" >}}
 graph TB
   sinusite[Sinusite]
   style sinusite stroke:#006ef4, stroke-width:1px

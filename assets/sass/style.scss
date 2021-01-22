@@ -274,6 +274,10 @@ a[href^='http']::after {
     }
   }
 
+  .alert-warning {
+    color: #836e00;
+  }
+
   .alert-summary {
     width: Min(100%,768px);
 
@@ -566,4 +570,38 @@ div.data-table {
 
 .w-768 {
   width: Min(100%, 768px);
+}
+
+@media print {
+  main > .recommandation {
+    padding-top: 0;
+  }
+
+  .alert {
+    border: 1px solid rgba(0, 0, 0, 0.12);
+
+    &-info {
+      color: #212121;
+    }
+  }
+
+  .recommandation .chip-secondary {
+    color: var(--secondary);
+  }
+
+  figure {
+    break-inside: avoid;
+  }
+
+  h1.my-xl-5 {
+    margin-top: 0 !important;
+  }
+
+  a[target='_blank']::after {
+    content: attr(href) !important;
+  }
+
+  blockquote {
+    border: 0;
+  }
 }

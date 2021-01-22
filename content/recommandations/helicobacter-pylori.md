@@ -1,23 +1,24 @@
 +++
 title = "Helicobacter pylori"
-prefix = " "
+prefix = ""
 shortname = "HP"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = ""
 date = 2020-12-02T15:14:41+02:00
 publishdate = 2020-12-02
-lastmod = 2021-01-07
+lastmod = 2021-01-22
 categories = ["hepato-gastro-enterologie"]
 guidelineyears = "2017"
 sources = ["HAS", "CNPGHE"]
 tags = ["B12", "bariatrique", "carence martiale", "EOGD", "gastrite", "IPP"]
-anglais = ["Helicobacter pylori"]
+anglais = ["*Helicobacter pylori*"]
 sctid = "80774000"
 draft = false
 image = true
 imageSrc = "CDC/Dr. Patricia Fields, Dr. Collette Fitzgerald (PHIL #5715), 2004"
 flowchart = true
-todo = "ttt quel moment de prise, http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/diagnostic-traitement-et-suivi-deradication/suivi-de-leradication/, dépistage en AINS long cours maastricht III"
+todo = "Effets indésirables de l'EOGD, ttt quel moment de prise, http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/diagnostic-traitement-et-suivi-deradication/suivi-de-leradication/, dépistage en AINS long cours maastricht III"
 +++
 
 {{%article-summary%}}
@@ -26,22 +27,23 @@ todo = "ttt quel moment de prise, http://www.helicobacter.fr/acces-aux-professio
 - Reporter le traitement si grossesse/allaitement.
 - Traitement adapté à l'antibiogramme.
 - Contrôle de l'éradication systématique (arrêt ATB > 1 mois et IPP > 2 sem).
-- Dépistage du 1<sup>er</sup> degré en cas de lésion (pré)-cancéreuse.
+- Dépistage du 1<sup>er</sup> degré en cas de lésion cancéreuse.
 - Signes d'alarmes en symptômes digestifs hauts:  
 Dysphagie, amaigrissement, anémie.
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Helicobacter pylori
-: **Abréviation:** H. pylori.
+*Helicobacter pylori*
+: **Abréviation:** *H. pylori*.
 : Bactérie à tropisme gastrique responsable de *gastrite chronique*, compliquée d'*ulcères gastro-duodénaux* et de 80% des *cancers gastriques* (adénocarcinomes et lymphomes du MALT).
-: Contamination dans l'enfance par régurgitations gastriques.  
+: Contamination dans l'enfance par transmission familiale {{%class%}}(oro-orale ou féco-orale){{%/class%}}.  
 Son éradication prévient la survenue de ces complications.
 
 ### Abréviations
 
 **EOGD:** Endoscopie œso-gastro-duodénale (ou fibroscopie/gastroscopie)  
+**GEFH:** Groupe d'Études Français des *Helicobacter*
 **IPP:** Inhibiteurs de la pompe à protons  
 **K:** Cancer
 
@@ -52,21 +54,21 @@ La France est un pays de faible incidence.
 
 - 15 à 30% de la population serait infectée  
 < 20% avant 30 ans et > 50% après 50 ans.
-- 10% développent un ulcère et 1% un cancer
+- 10% développent un ulcère et 1% un cancer.
 
 {{% /collapse %}}
-{{%collapse "Facteurs de risque et Indications à la recherche d'H. pylori" %}}
+{{%collapse "Facteurs de risque et Indications à la recherche de H. pylori" %}}
 
 - Ulcère gastrique ou duodénal  
-ou antécédent d'ulcère sans EOGD.
-- Avant prise d'AINS ou aspirine faible dose en antécédent d'ulcère
-- Dyspepsie chronique avec EOGD normale
+- Antécédent d'ulcère gastro-duodénal sans endoscopie
+- Avant prise d'AINS ou aspirine faible dose en cas d'antécédent d'ulcère
+- Dyspepsie chronique avec endoscopie normale
 - Anémie ferriprive sans cause retrouvée ou résistante à la supplémentation
 - Carence en vitamine B12 sans cause retrouvée
 - **Facteur de risque de cancer gastrique**
-  - Antécédent familial au premier degré de cancer de l'estomac ou de lésion pré-cancéreuse gastrique
+  - Antécédent familial au premier degré de cancer de l'estomac
   - Porteur HNPCC/Lynch
-  - Antécédent personnel de lésion cancéreuse gastrique
+  - Antécédent personnel de lésion cancéreuse ou pré-cancéreuse gastrique
 - Lymphome gastrique du MALT
 - Avant chirurgie bariatrique touchant l'estomac
 - Purpura thrombopénique immunologique de l'adulte
@@ -76,34 +78,32 @@ ou antécédent d'ulcère sans EOGD.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Sérologie Helicobacter pylori
+### Sérologie *Helicobacter pylori*
 
 Indications à la sérologie:
 
 **Chez un sujet asymptomatique et ...**
 
-- < 40-45 ans avec antécédent au 1<sup>er</sup> degré de cancer gastrique  
-ou lésion pré-cancéreuse de l'estomac.
-- Antécédent d'ulcère sans preuve d'éradication d'HP
+- < 40-45 ans avec antécédent au 1<sup>er</sup> degré de cancer gastrique
+- Antécédent d'ulcère gastro-duodénal sans preuve d'éradication de *HP*
 - Purpura thrombopénique immunologique
 
 > *Source HAS 2017*
 
 ### Endoscopie œso-gastro-duodénale
 
-L'*EOGD* doit être **systématique en cas de symptômes ulcéreux, en cas de sérologie positive ou douteuse et pour tous les autres patients à risque** pour analyse anatomopathologique, mise en culture avec recherche d'*H. pylori* et antibiogramme.
+L'*EOGD* doit être **systématique en cas de symptômes ulcéreux, en cas de sérologie positive ou douteuse et pour tous les autres patients à risque** pour analyse anatomopathologique, mise en culture avec recherche de *H. pylori* et antibiogramme.
 
-Indication en première intention:
+Indications en première intention:
 
 - **Patient symptomatique**
   - Syndrome ulcéreux
   - Dyspepsie chez un patient > 40-45 ans
-  - Signes d'alarme  
+  - Signe d'alarme  
   Dysphagie, amaigrissement, anémie.
   - Anémie ferriprive ou carence en vitamine B12 sans autre cause
 - Patient avec facteurs de risque de cancer gastrique
-  - &gt; 40-45 ans avec antécédent au 1<sup>er</sup> degré de cancer gastrique  
-  ou lésion pré-cancéreuse de l'estomac.
+  - &gt; 40-45 ans avec antécédent au 1<sup>er</sup> degré de cancer gastrique
   - Autres facteurs de risque (Voir plus haut *Facteurs de risque ...*)
 - Lymphome gastrique du MALT
 - Chirurgie bariatrique prévue
@@ -111,70 +111,82 @@ Indication en première intention:
 > *Source HAS 2017*
 
 {{% /collapse %}}
-{{%collapse "Traitement d'Helicobacter pylori avec antibiogramme" %}}
+{{%collapse "Traitement de Helicobacter pylori avec antibiogramme" %}}
 
-{{%warning%}} En cas de grossesse ou d'allaitement, il faut différer le traitement.{{%/warning%}}
+{{%warning%}}En cas de grossesse ou d'allaitement, il faut différer le traitement.{{%/warning%}}
 
-### Traitement de référence de l'Helicobacter pylori
+### Traitement de référence de *H. pylori*
 
-Traitement de première intention d'une infection prouvée à H. pylori avec fonction rénale normale.
+Traitement de première intention d'une infection prouvée à *H. pylori* avec fonction rénale normale.
 
-**Tout traitement antibiotique doit être suivi d'un contrôle d'éradication** (voir chapitre suivant *Contrôle de la guérison*).
+{{%warning%}}Tout traitement antibiotique doit être suivi d'un contrôle d'éradication (voir chapitre suivant *Contrôle de la guérison*).{{%/warning%}}
 
 {{%info%}}
+En cas de sensibilité à la clarithromycine, trithérapie pendant 14 jours:
 
-Trithérapie pendant 10 jours:
-
-- Oméprazole 20 mg matin et soir pendant le repas
-- Amoxicilline 1 g matin et soir
+- Ésoméprazole 40 mg matin et soir pendant le repas
+- Amoxicilline 500 mg matin, midi et soir
 - Clarithromycine 500 mg matin et soir
 
+**NB.** Modèle GEFH. La HAS préconisait 10j de traitement avec amoxicilline 1g x 2/j.
 {{%/info%}}
 
 #### Résistance à la clarithromycine
 
-En cas de résistance à la *clarithromycine*, la *lévofloxacine* remplace la clarithromycine:
+En cas de résistance à la *clarithromycine*, la *lévofloxacine* remplace la clarithromycine.
 
-- Oméprazole 20 mg matin et soir pendant le repas pendant 10 jours
-- Amoxicilline 1 g matin et soir pendant 10 jours
-- Lévofloxacine 500 mg x 1/j pendant 10 jours
+Trithérapie pendant 14 jours:
+
+- Ésoméprazole 40 mg matin et soir pendant le repas
+- Amoxicilline 500 mg matin, midi et soir
+- Lévofloxacine 500 mg x 1/j
+
+**NB.** Modèle GEFH. La HAS préconisait 10j de traitement avec amoxicilline 1g x 2/j.
 
 #### Résistance clarithromycine et lévofloxacine
 
-En cas de double résistance *clarithromycine* et *lévofloxacine*, quadrithérapie avec bismuth:
+En cas de double résistance *clarithromycine* et *lévofloxacine*, quadrithérapie avec bismuth pendant 10 jours:
 
-- Oméprazole 20 mg matin et soir pendant le repas pendant 10 jours
+- Oméprazole 20 mg matin et soir pendant le repas 
+{{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
 - Pylera®: 3 gélules **x 4/j**  
-(Après les repas du matin, du midi, du soir et au coucher, avec un grand verre d’eau)
+{{%class%}}Après les repas du matin, du midi, du soir et au coucher, avec un grand verre d’eau.{{%/class%}}
 
-{{%warning%}} Arrêt immédiat du traitement et avis médical en cas de signes neurologiques {{%/warning%}}
+{{%warning%}}Arrêt immédiat du traitement et avis médical en cas de signes neurologiques{{%/warning%}}
 
 #### Allergie documentée à l'amoxicilline
 
-Si allergie documentée à l’amoxicilline et souche sensible à la clarithromycine, trithérapie par:
+Si allergie documentée à l’amoxicilline et souche sensible à la clarithromycine, trithérapie 14 jours:
 
-- Oméprazole 20 mg matin et soir pendant le repas pendant 10 jours
-- Clarithromycine 500 mg matin et soir pendant 10 jours
+- Ésoméprazole 40 mg matin et soir pendant le repas
+- Clarithromycine 500 mg matin et soir
 - Métronidazole 500 mg matin et soir
+
+**NB.** Modèle GEFH. La HAS préconisait 10j de traitement.
 
 ##### Allergie amoxicilline et résistance clarithromycine
 
-Quadrithérapie avec bismuth (idem *Résistance clarithromycine et lévofloxacine*):
+Quadrithérapie avec bismuth pendant 10 jours (idem *Résistance clarithromycine et lévofloxacine*):
 
-- Oméprazole 20 mg matin et soir pendant le repas pendant 10 jours
-- Pylera®: 3 gélules **x 4/j**  
+- Oméprazole 20 mg matin et soir pendant le repas 
+{{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
+- Pylera®: 3 gélules **x 4/j**
+
+### Échec des traitements préconisés
+
+Le Groupe d'Études Français des *Helicobacter* propose de [présenter votre dossier en RCP](http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/) en cas d'échec des traitements préconisés dans ces recommandations.
 
 ### Équivalences des IPP
 
-IPP: une dose matin et soir pendant 10 jours  
-Ésoméprazole 20 mg, lansoprazole 30 mg, oméprazole 20 mg, pantoprazole 40 mg ou rabéprazole 20 mg pendant le repas.
+IPP: une dose matin et soir pendant le repas pendant 10 jours.  
+Ésoméprazole 40 mg | Lansoprazole 30 mg | Oméprazole 20 mg | Pantoprazole 40 mg | Rabéprazole 20 mg.
 
 {{% /collapse %}}
-{{%collapse "Traitement d'Helicobacter pylori sans antibiogramme" %}}
+{{%collapse "Traitement de Helicobacter pylori sans antibiogramme" %}}
 
 {{%warning%}} En cas de grossesse ou d'allaitement, il faut différer le traitement.{{%/warning%}}
 
-Voir plus bas le schéma du traitement.
+Voir plus bas l'arbre décisionnel du traitement.
 
 {{% /collapse %}}
 {{%collapse "Contrôle de la guérison" %}}
@@ -184,19 +196,19 @@ Voir plus bas le schéma du traitement.
 {{%info%}}
 **Ordonnance pour la pharmacie**
 
-Helikit® 75 mg. 1 boîte
+Helikit® ou Infai® 75 mg. 1 boîte
 
 ---
 
 **Ordonnance pour le laboratoire**
 
-Réalisation du test Helikit®
+Réalisation du test Helikit® ou Infai®
 
 Au moins 4 semaines après la fin du traitement.  
 Vous ne devez pas avoir bu, ni mangé, ni fumé depuis la veille au soir.
 {{%/info%}}
 
-**Le contrôle de l'éradication d'H. pylori doit être systématique.**
+**Le contrôle de l'éradication de *H. pylori* doit être systématique.**
 
 Il doit être réalisé au moins 4 semaines après la fin de tout traitement  
 ET au moins 2 semaines après l'arrêt total des IPP.
@@ -207,51 +219,53 @@ En cas de test positif, recours à un avis spécialisé (Centre national de réf
 
 ### Antigène fécal
 
-La recherche fécale d'H. pylori est une alternative au test respiratoire mais mais n'est pas remboursé.
+La recherche fécale de *H. pylori* est une alternative au test respiratoire mais mais n'est pas remboursé.
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir en présence d'Helicobacter pylori" "show" %}}
+{{%collapse "Conduite à tenir en présence de Helicobacter pylori" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le traitement d'Helicobacter pylori guidé par antibiogramme. Dr JB FRON d'après HAS/CNPHGE 2017" >}}
+{{< mermaid title="Conduite à tenir pour le traitement de Helicobacter pylori guidé par antibiogramme. Dr JB FRON d'après HAS/CNPHGE 2017 et GEFH 2019" >}}
 graph TB
-  asymptomatique["<b>Asymptomatique</b><br>- &lt; 40 ans et ATCD K gastrique 1er degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie(Sérologie H. pylori)
+  asymptomatique["<b>Asymptomatique</b><br>- &lt; 40 ans et ATCD K gastrique 1er degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie("Sérologie <em>H. pylori</em>")
   style asymptomatique stroke:#006ef4, stroke-width:1px
     serologie -- Négative --> indemne(Pas d'infection active)
     serologie -- Positive/Douteuse --> gastro
-  suspicion["<b>Symptomatique</b><br>- Suspicion d'ulcère<br>- Dyspepsie chez &gt; 40 ans<br>- Signes d'alarme"] --> gastro("<b>Gastro-entérologue</b><br>EOGD")
+  suspicion["<b>Symptomatique</b><br>- Suspicion d'ulcère<br>- Dyspepsie chez &gt; 40 ans<br>- Signe d'alarme"] --> gastro("<b>Gastro-entérologue</b><br>EOGD")
   style suspicion stroke:#006ef4, stroke-width:1px
-  suspect["- &gt; 40 ans avec ATCD K gastrique 1er degré<br>- Anémie ferriprive ou B12 sans cause<br>- Lymphome gastrique du MALT<br>- Chirurgie bariatrique"] --> gastro
+  suspect["<b>Comorbidités</b><br>- &gt; 40 ans avec ATCD K gastrique 1er degré<br>- Anémie ferriprive ou B12 sans cause<br>- Lymphome gastrique du MALT<br>- Chirurgie bariatrique"] --> gastro
   style suspect stroke:#006ef4, stroke-width:1px
-    gastro -- Helicobacter + --> grossesse("Grossesse ou<br>allaitement ?")
-      grossesse -- Non --> antibiogramme("<b>Antibiogramme</b><br>Sensible clarithromycine?")
-        antibiogramme -- Sensible --> triAmox("<b>Trithérapie 10j</b><br>IPP + amoxicilline<br>+ clarithromycine")
-          triAmox -- "Allergie péni" --> triAmoxAllergie("<b>Trithérapie 10j</b><br>IPP + métronidazole<br>+ clarithromycine") --> controle
-          triAmox --> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>(≥ 2 semaines sans IPP)")
+    gastro -- H. pylori + ---> grossesse("Grossesse ou<br>allaitement ?")
+      grossesse == Non ===> antibiogramme("<b>Antibiogramme</b><br>Sensible clarithromycine?")
+        antibiogramme == Sensible ==> triAmox("<b>Trithérapie 14j</b><br>IPP + amoxicilline<br>+ clarithromycine")
+          triAmox -- "Allergie péni" --> triAmoxAllergie("<b>Trithérapie 14j</b><br>IPP + métronidazole<br>+ clarithromycine") --> controle
+          triAmox ===> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et ≥ 2 semaines sans IPP")
         antibiogramme -- "Résistant" --> levofloS("Sensible lévofloxacine ?")
-          levofloS -- Sensible --> levoflo("<b>Trithérapie 10j</b><br>IPP + amoxicilline<br>+ lévofloxacine") --> controle
+          levofloS -- Sensible --> levoflo("<b>Trithérapie 14j</b><br>IPP + amoxicilline<br>+ lévofloxacine") --> controle
             levoflo -- "Allergie péni" --> quadrit
           levofloS -- "Résistant" --> quadrit("<b>Quadrithérapie 10j</b><br>IPP + sel de bismuth<br>+ tétracycline + métronidazole") --> controle
           controle -- Négatif --> ok(Bactérie éradiquée)
-          controle -- Positif --> avis(Avis du Centre de Référence)
+          controle -- Positif --> avis("Avis du Centre de Référence &#40;lien&#41;")
+            click avis "http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" _blank
       grossesse -- Oui --> reporter("Reporter le<br>traitement")
 {{< /mermaid >}}
 
-### Traitement probabiliste en l'absence de l'antibiogramme d'H. pylori
+### Traitement probabiliste en l'absence de l'antibiogramme de *H. pylori*
 
-{{< mermaid title="Conduite à tenir pour le traitement d'Helicobacter pylori en l'absence d'antibiogramme. Dr JB FRON d'après HAS/CNPHGE 2017" >}}
+{{< mermaid title="Conduite à tenir pour le traitement de Helicobacter pylori en l'absence d'antibiogramme. Dr JB FRON d'après HAS/CNPHGE 2017 et GEFH 2019" >}}
 graph TB
-  probabiliste["H. pylori prouvé<br>ET antibiogramme manquant"] --> grossesse("Grossesse ou<br>allaitement ?")
+  probabiliste["<em>H. pylori</em> prouvé<br>ET antibiogramme manquant"] --> grossesse("Grossesse ou<br>allaitement ?")
   style probabiliste stroke:#006ef4, stroke-width:1px
     grossesse -- Non --> choix("Traitement au choix")
       choix -- Alternative 1 --> concomitant("<b>Quadrithérapie 14j</b><br>IPP + amoxicilline<br>+ clarithromycine<br>+ métronidazole")
-      concomitant --> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>(≥ 2 semaines sans IPP)")
+      concomitant --> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et ≥ 2 semaines sans IPP")
       choix -- Alternative 2 --> bismuth("<b>Quadrithérapie 10j</b><br>IPP + sel de bismuth<br>+ tétracycline + métronidazole")
         bismuth --> controle
           controle -- Négatif --> ok(Bactérie éradiquée)
           controle -- Positif --> switch(Utiliser le traitement alternatif)
             switch --> surv("<b>Test respiratoire</b>")
               surv -- Négatif --> ok2(Bactérie éradiquée)
-              surv -- Positif --> EOGD("EOGD + antibiogramme<br>Avis du Centre de Référence")
+              surv -- Positif --> EOGD("EOGD + antibiogramme<br>Avis du Centre de Référence &#40;lien&#41;")
+                click EOGD "http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" _blank
     grossesse -- Oui --> reporter("Reporter le<br>traitement")
 {{< /mermaid >}}
 
@@ -264,8 +278,7 @@ graph TB
 S'assurer de la bonne compréhension de chaque étape pour favoriser la participation au traitement.
 
 - Infection digestive par la bactérie *Helicobacter pylori*. L'infection a lieu le plus souvent durant l'enfance et dure toute la vie. Elle entraîne une inflammation chronique de l'estomac (gastrite) souvent asymptomatique. Elle peut se compliquer d'ulcères et de cancers de l'estomac.
-- La gastroscopie (aussi appelée fibroscopie ou endoscopie) permet d'aller vérifier l'état de l'estomac et de réaliser des prélèvements à la fois pour vérifier l'état des tissus mais aussi pour étudier la présence d'H. pylori et sa résistance aux antibiotiques.
-TODO: Effets indésirables de l'EOGD.
+- La gastroscopie (aussi appelée fibroscopie ou endoscopie) permet d'aller vérifier l'état de l'estomac et de réaliser des prélèvements à la fois pour vérifier l'état des tissus mais aussi pour étudier la présence de *H. pylori* et sa résistance aux antibiotiques.
 - Le traitement antibiotique permet d'éradiquer la bactérie.
 - Les antibiotiques causent souvent des problèmes digestifs (nausées, vomissements, diarrhées), vertiges et maux de tête. Mais leur arrêt est rarement nécessaire.
 - Montrer l'ordonnance avec les médicaments, leur posologie et les effets indésirables.
@@ -280,6 +293,15 @@ TODO: Effets indésirables de l'EOGD.
   - Achat du test en pharmacie (remboursé)
   - Réalisation du test à jeun au laboratoire d'analyses médicales
 - Dépistage de la famille proche en cas de lésion cancéreuse ou pré-cancéreuse de l'estomac.
+
+{{% /collapse %}}
+{{%collapse "Vidéos" %}}
+
+{{< youtube id="2AvWB-hTsHs" title="Vidéo d'explications du test respiratoire" >}}
+
+{{< youtube id="QxQudpqfe08" title="Vidéo d'explications sur les précautions pour la réalisation du test respiratoire" >}}
+
+{{< youtube id="PZ76-gJ0Nz8" title="Vidéo d'explications la sérologie Helicobacter pylori" >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

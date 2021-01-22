@@ -258,9 +258,7 @@ Favorisée par l'obésité et une hernie hiatale.
 {{%/collapse%}}
 {{%collapse "Vidéos" %}}
 
-### Traitement du reflux gastro-œsophagien
-
-{{< youtube Kf2iGE3aUrI >}}
+{{< youtube id="Kf2iGE3aUrI" title="Vidéo d'explications du traitement du reflux gastro-œsophagien" >}}
 
 {{%/collapse%}}
 {{%collapse "FMC" %}}
