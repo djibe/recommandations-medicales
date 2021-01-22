@@ -20,7 +20,7 @@ todo = "TODO: Séro+ puis -"
 
 {{%article-summary%}}
 
-- Dépister largement (voir Qui dépister?)
+- Dépister largement (voir *Qui dépister?*)
 - Prise en charge spécialisée
 
 {{%/article-summary%}}
@@ -75,7 +75,7 @@ Soins à la naissance en néonatalogie ou en pédiatrie (grand prématuré, exsa
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Sérologie VHC
+### Sérologie hépatite C
 
 - Négative  
 Pas d'infection par le VHC, sauf infection récente ou immunodépression sévère (voir Conduite à tenir).
@@ -101,7 +101,7 @@ Systématique lorsque 2 sérologies sont positives (ou 1 TROD+ + 1 sérologie+).
 Par le spécialiste. Test non invasif en 1<sup>re</sup> intention.
 
 {{% /collapse %}}
-{{% collapse "Traitement" %}}
+{{% collapse "Traitement de l'hépatite C" %}}
 
 **Objectifs:** réduire la mortalité toutes causes et obtenir une guérison virologique.  
 **Guérison:** ARN du VHC indétectable dans le plasma au moins 12 semaines après l'arrêt du traitement. Obtenue dans 90% des cas avec les AAD.
@@ -122,7 +122,7 @@ Enquête sur l'automédication++
 Pas de partage des rasoirs, brosse à dent.  
 Matériel à usage unique en cas d'acte invasif (drogue IV).
 
-### Antiviraux d'Action Directe (AAD)
+### Antiviraux d'Action Directe (AAD) du VHC
 
 Manipulation par le spécialiste.
 

@@ -2,12 +2,13 @@
 
 ## TODO
 
+- Bug link on card-action
 - index Hx order
 - Désindexer pages inutiles
 - https://www.webrankinfo.com/dossiers/techniques/quelles-donnees-structurees
 - Fix RSS length
 - Fix list.html
-- Gonarthrose > Hyperferr > Prep > SAOS > lavage colique > Cirrhose > FA > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
+- Gonarthrose > Hyperferr > Bronchiolite > Prep > SAOS > Score de Wells > lavage colique > Cirrhose > FA > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
 - Bandeau lat
 - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 - Raccourcis: paracetamol, vaccins, cs enfant

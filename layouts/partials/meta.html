@@ -1,7 +1,7 @@
 <!-- Title Tags -->
 {{ $metaTitle := "" }}
 {{ if eq .Section "recommandations" }}
-  {{ $metaTitle = (printf "%s %s %s" .Params.Title ": Les recommandations 2021 -" $.Site.Title ) }}
+  {{ $metaTitle = (printf "%s %s %s" .Params.Title ": Recommandations 2021 -" $.Site.Title ) }}
 {{ else }}
   {{ $metaTitle = (printf "%s %s %s" .Title "-" $.Site.Title ) }}
 {{ end }}
@@ -16,7 +16,7 @@
 <!-- TODO: Description Tags 50-160 ch -->
 {{ $metaDescription := "" }}
 {{ if eq .Section "recommandations" }}
-  {{ $metaDescription = (printf "%s %s%s %s %s%s" "Recommandations pour" .Params.Prefix .Params.Title "en premier recours. Conduite à tenir en consultation de médecine générale et bilan de première intention pour" .Params.Prefix .Params.Title ) }}
+  {{ $metaDescription = (printf "%s %s%s %s %s%s" "Recommandations pour" .Params.Prefix .Params.Title "en médecine générale. Conduite à tenir en consultation et bilan de première intention pour" .Params.Prefix .Params.Title ) }}
 {{ else if .Description }}
   {{ $metaDescription = .Params.description }}
 {{ else }}

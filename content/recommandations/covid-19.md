@@ -121,17 +121,9 @@ Atteintes possibles après une infection à Sars-Cov-2.
 [*Source DGS-Urgent 20/08/2020*](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=31000&cmd=visualiserMessage)
 
 {{% /collapse %}}
-{{%collapse "Indications à la vaccination" %}}
+{{%collapse "Indications et lieux de vaccination" %}}
 
-- Cancer/hémopathie maligne en cours de traitement par chimiothérapie
-- Maladie rénale chronique sévère et hémodialyse
-- Transplanté d'organe solide
-- Transplanté par allogreffe de cellules souches hématopoïétiques
-- Polypathologie avec au moins 2 insuffisnaces d'organe
-- Certaines maladies rares à risque infectieux
-- Triomie 21
-
-> DGS Urgent 2021-04
+[Sur sante.fr](https://www.sante.fr/centres-vaccination-covid.html)
 
 {{% /collapse %}}
 {{%collapse "Certificats" %}}
