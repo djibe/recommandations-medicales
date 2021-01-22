@@ -210,7 +210,7 @@ Prélèvements bactériologiques, scanner, antibiothérapie intraveineuse urgent
 
 {{< mermaid title="Conduite à tenir devant une rosacée" >}}
 graph TB
-  sinusite[Sinusite] --> mineure("métronidazole gel 0,75% x 2/j 3 mois")
+  sinusite[Sinusite]
   style sinusite stroke:#006ef4, stroke-width:1px
 
 {{< /mermaid >}}
