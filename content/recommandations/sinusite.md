@@ -14,9 +14,10 @@ tags = []
 anglais = ["Sinusitis"]
 sctid = "36971009"
 draft = true
+flowchart = true
 image = false
 imageSrc = ""
-todo = "age ethmoidite, indications scanner, sources prescrire, update"
+todo = "ANTIBIOS durée age ethmoidite, indications scanner, sources prescrire, update"
 +++
 
 {{%article-summary%}}
@@ -27,7 +28,7 @@ todo = "age ethmoidite, indications scanner, sources prescrire, update"
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Sinusite aiguë
+Sinusite aiguë purulente
 : Infection d'une ou plusieurs cavités sinusiennes de la face par des bactéries évoluant depuis < 4 semaines.  
 Les sinusites maxillaires aiguës représentent la grande majorité. Elles surviennent souvent au décours d'une rhinopharyngite aiguë.
 : Germes: Pneumocoque, H. influenzae.
@@ -147,7 +148,7 @@ Pas d'antibiothérapie si diagnostic incertain.
 {{%info%}}
 Première intention
 : **Adulte:** Amoxicilline 1 g x 3/j pendant 7 jours
-: **Enfant:** Amoxicilline 80-90 mg/kg/j x 2-3/j pendant 10 jours (SPILF 2017)
+: **Enfant:** Amoxicilline 80-90 mg/kg/j x 2-3/j pendant 7 jours
 {{%/info%}}
 
 Si échec ou origine dentaire
@@ -170,8 +171,8 @@ ou azithromycine 2 x 250 mg x 1/j pendant 3 jours
 
 {{%info%}}
 Première intention
-: **Adulte:** Amoxicilline-a. clavulanique 1 g/125 mg x 3/j pendant 10 jours (SPILF 2017)
-: **Enfant:** Amoxicilline 80 mg/kg/j x 2-3/j pendant 10 jours (SPILF 2017)
+: **Adulte:** Amoxicilline-a. clavulanique 1 g/125 mg x 3/j pendant 7 jours
+: **Enfant:** Amoxicilline 80 mg/kg/j x 2-3/j pendant 7 jours
 {{%/info%}}
 
 Allergie à la pénicilline sans allergie céphalosporines
@@ -188,7 +189,7 @@ ou moxifloxacine (effets indésirables graves)
 
 Première intention
 : **Adulte:** Amoxicilline-a. clavulanique 1 g/125 mg x 3/j pendant 7 jours
-: **Enfant:** Amoxicilline-a. clavulanique 1 dose-kg x 3/j pendant 10 jours
+: **Enfant:** Amoxicilline-a. clavulanique 1 dose-kg x 3/j pendant 7 jours
 
 Allergie à la pénicilline sans allergie céphalosporines
 : **Adulte:** céfpodoxime-proxétil 200 mg x 2/j pendant 5 jours  
@@ -208,17 +209,21 @@ Prélèvements bactériologiques, scanner, antibiothérapie intraveineuse urgent
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une sinusite aiguë purulente" >}}
+{{< mermaid title="Conduite à tenir devant une sinusite aiguë purulente. Dr JB FRON d'après SPILF 2011" >}}
 graph TB
-  sinusite[Sinusite]
+  sinusite[Sinusite] --> maxillaire("Sinusite maxillaire si<hr>- si diagnostic certain<br>- échec ttt sympt 3j<br>- infection dentaire sup homolat<br>- RPA > 10j sans amélioration")
   style sinusite stroke:#006ef4, stroke-width:1px
+    maxillaire --> dentaire(Avis odontologique)
+    maxillaire -.-> atb(Antibiothérapie selon l'âge)
+  sinusite --> frontale(Sinusite frontale) --> atb
+  sinusite --> ethm(Sinusite ethmoïdale<br>ou sphénoïdale) --> atb
 
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017.](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)
+- [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017. N'a pas été reprise dans des Recommandations plus récentes.](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)
 - [HAS. Fiche mémo - Sinusite de l'adulte. Novembre 2016.](https://www.has-sante.fr/upload/docs/application/pdf/2016-11/v1-fm_sinusite_adulte-171116.pdf)
 - [Société Française de Pédiatrie. Guide de prescription d’antibiotique en pédiatrie. Archives de Pédiatrie. Juin 2016. Vol. 23. HS n°3.](http://www.sfpediatrie.com/sites/default/files/arcped_gpip_15_juin_new_couvbs.pdf)
 - [SPILF. Antibiothérapie par voie générale en pratique courante dans les infections respiratoires hautes de l’adulte et de l’enfant. Recommandations de bonne pratique. Novembre 2011.](http://www.infectiologie.com/UserFiles/File/medias/Recos/2011-infections-respir-hautes-argumentaire.pdf)

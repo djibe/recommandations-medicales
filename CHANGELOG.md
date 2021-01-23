@@ -2,7 +2,6 @@
 
 ## TODO
 
-- Bug link on card-action
 - index Hx order
 - Désindexer pages inutiles
 - https://www.webrankinfo.com/dossiers/techniques/quelles-donnees-structurees
