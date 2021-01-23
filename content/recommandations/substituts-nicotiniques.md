@@ -143,11 +143,11 @@ todo = "score fagerstrom, card radio span"
   </div>
 </div>
 
-{{< references/tabac-info-service >}}
-
 <blockquote class="blockquote mt-5">
   <h6 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au <time datetime="2020-09-27">27 septembre 2020</time>.</h6>
   <footer class="blockquote-footer"><cite title="Source Title"><a
         href="https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/prise-charge-substituts-nicotiniques"
         target="_blank" rel="nofollow noopener">L'Assurance Maladie</a></cite></footer>
 </blockquote>
+
+{{< references/tabac-info-service >}}

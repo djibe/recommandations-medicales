@@ -100,7 +100,7 @@ main {
   vertical-align: text-top;
 } 
 
-a[href^='http']::after {
+a[href^='http']:not([class])::after {
   @extend %material-icon-content;
   content: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" height="18" viewBox="0 0 24 24" fill="%230077ff" width="18"%3E%3Cpath d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/%3E%3C/svg%3E');
   margin-left: 4px;
@@ -387,11 +387,18 @@ div.data-table {
 .navdrawer {
   box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14),
     0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2) !important;
-  z-index: 60;
 
   &-header {
     background: transparent;
     border-bottom: 0;
+  }
+}
+
+.navdrawer-content {
+  overflow-y: hidden;
+
+  &:hover {
+    overflow-y: scroll;
   }
 }
 
@@ -442,6 +449,10 @@ div.data-table {
   .navbar {
     border-bottom: 0;
     margin-left: 16rem;
+  }
+
+  .navdrawer-permanent-lg {
+    z-index: 160;
   }
 
   .navdrawer-permanent-lg ~ main {

@@ -1,9 +1,9 @@
 <nav id="nav" class="navbar navbar-dark bg-primary fixed-top navbar-expand-md">
   <div class="container-lg">
-    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="d-lg-none btn btn-icon" type="button" data-toggle="navdrawer" data-type="permanent" data-breakpoint="lg" data-target="#doc-navdrawer" aria-label="Afficher le menu">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <div class="d-none d-md-flex">
       <ul class="navbar-nav">
       {{- range .Site.Menus.main -}}
         {{- $text := print .Name | safeHTML -}}

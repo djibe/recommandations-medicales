@@ -13,11 +13,11 @@ sources = ["SPILF"]
 tags = []
 anglais = ["Sinusitis"]
 sctid = "36971009"
-draft = true
+draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "ANTIBIOS durée age ethmoidite, indications scanner, sources prescrire, update"
+todo = "ANTIBIOS durée age ethmoidite, indications scanner, sources prescrire"
 +++
 
 {{%article-summary%}}
