@@ -30,7 +30,7 @@ Cette page est en construction
 | HbA<sub>1C</sub> | DT2 récent<br>DT2 | < 6,5%<br>7%          | SFDiabete |
 | Uricémie     | Goutte               | < 50 mg/L              | SFRhumato 2020 |
 | VDRL         | M6 post-PéniG<br>M12 post-PéniG | Taux /4<br>Négatif | SFDermato 2016 |
-| Vitamine D   | Adulte<br>≥ 65 ans   | > 50 nmol/L<br>> 75 noml/L | Annweiler C 2018 |
+| Vitamine D   | Adulte<br>≥ 65 ans   | > 50 nmol/L<br>> 75 nmol/L | Annweiler C 2018 |
 
 {{< /table >}}
 

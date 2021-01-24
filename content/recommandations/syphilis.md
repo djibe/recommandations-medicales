@@ -135,7 +135,7 @@ Atteintes muqueuses fréquentes.
 #### Autres signes
 
 - Fébricule
-- Poladénopathies
+- Polyadénopathies
 - Arthroses
 - Ostéite
 - Hépatite

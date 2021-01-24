@@ -30,8 +30,8 @@ La phase de sensibilisation est asymptomatique et la révélation intervient 24-
 Lésions prurigineuses avec placard érythémateux, formes géométriques
 Mains: visage et paupières.
 Voie aérienne: accumulation dans les rides, sillons nasogéniens et paupières
-Lésions: vésicules voires bulles, suintement puis croutes.
-Réactio nne peut arriver qu'en photo-exposition.
+Lésions: vésicules voire bulles, suintement puis croûtes.
+Réaction ne peut arriver qu'en photo-exposition.
 
 - Facteur de contact (bijoux, pulvérisations)
 - Chronologie des événements
@@ -46,7 +46,7 @@ DC forts à très forts
 
 {{< traitements/dermocorticoides >}}
 
-Si surinfection (croutes jaunatres, écoulements purulents): ATB cocci+ (pyostacine, Augmentin)
+Si surinfection (croûtes jaunâtres, écoulements purulents): ATB cocci+ (pyostacine, Augmentin)
 AntiH1 sédatif pour prurit
 
 Inutiles: AntiH1 non sédatifs, cortico générale

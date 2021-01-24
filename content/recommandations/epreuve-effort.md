@@ -50,7 +50,7 @@ RCV
 : Risque cardiovasculaire
 
 {{%/collapse%}}
-{{%collapse "Indications par parhologie ou symptômes" "show" %}}
+{{%collapse "Indications par pathologie ou symptômes" "show" %}}
 
 ### Profil cardiovasculaire
 

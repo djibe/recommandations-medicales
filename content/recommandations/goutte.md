@@ -32,7 +32,6 @@ Perte poids, arrêt bière, réduire alcool/sodas/jus, viandes/abats, crustacés
 - Contrôle des facteurs de risque cardiovasculaire.
 - Éducation thérapeutique et observance +++.
 
-
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 

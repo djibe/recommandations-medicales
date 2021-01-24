@@ -16,7 +16,7 @@ sctid= "30085007"
 draft = false
 qualite = "faible"
 image = true
-umageSrc = "Photo de gm.esthermax sur Foter.com / CC BY"
+imageSrc = "Photo de gm.esthermax sur Foter.com / CC BY"
 todo = "TODO: relire reco"
 +++
 

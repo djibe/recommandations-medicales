@@ -126,7 +126,7 @@ Goutte, chondrocalcinose articulaire
 - Créatininémie, CDK-EPI
 - Bandelette urinaire (protéinurie, hématurie)
 - Facteur rhumatoïde (FR)
-- Anticorps anti-peptide citruliné (ACPA)
+- Anticorps anti-peptide citrulliné (ACPA)
 - Anticorps antinucléaires (AAN)
 - Sérologie hépatites B et [C]({{< relref "hepatite-c.md">}})
 
@@ -214,7 +214,7 @@ Décroissance de dose seulement après rémission persistante et prolongée.
 Si traitement inaugural ou contre-indication au méthotrexate: **léflunomide** (Arava®, générique) 3 g/j ou **sulfasalazine** (Salazopyrine®) 20 mg/j.  
 Ces traitements conventionnels sont appelés **csDMARDs** par l’EULAR.
 
-### Traitement de fond par biotherapie
+### Traitement de fond par biothérapie
 
 En 2<sup>e</sup> intention.
 

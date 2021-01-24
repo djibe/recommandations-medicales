@@ -21,7 +21,7 @@ todo = "algo"
 
 {{%article-summary%}}
 
-- Valaciclovir 1g x 3/j 7 jours si ophtalmique, > 50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs +++ en phase aiguë, lésions cutanées graves).
+- Valaciclovir 1 g x 3/j pendant 7 jours si ophtalmique, > 50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs +++ en phase aiguë, lésions cutanées graves).
 - Hospitalisation en urgence si immunodéprimé ou atteinte organique.
 - Sérologie VIH si adulte < 50 ans.
 - Vaccination de 65 à 74 ans.

@@ -54,7 +54,7 @@ Rétraction possible mais aboutit à un anneau de striction ± marqué.
 - Ce phimosis physiologique disparaît progressivement et spontanément vers 3-4 ans grâce à une kératinisation progressive.
 
 Selon J. Oster :
-> À 1 an : décallotage possible 50%, 6-7 ans à 8%, 3 % à 12-13 ans, 1% après 16 ans
+> À 1 an: décalottage possible 50%, 6-7 ans à 8%, 3 % à 12-13 ans, 1% après 16 ans
 
 Selon Branger (France)
 > À 10 ans : normal 89%, adhérences 10% dont 3% importantes et phimosis vrai 1,1% (6,5% si ajoute déjà opérés)
@@ -67,7 +67,7 @@ Selon Branger (France)
 
 - Paraphimosis  
 Complication du phimosis moyennement serré. Rétraction du prépuce possible quoique douloureuse avec blocage de l'anneau préputial au niveau du sillon balano-préputial. Constitue un garrot avec constitution d'œdème du gland s'auto-amplifiant entraînant une ischémie et la nécrose du prépuce, exceptionnellement du gland. Urgence chirurgicale.  
-**NB**. Peut survenir chez prépuce serré avec sonde urinaire. Recalloter après pose de sonde urinaire. Peut survenir après rapports sexuels.
+**NB**. Peut survenir chez prépuce serré avec sonde urinaire. Recalotter après pose de sonde urinaire. Peut survenir après rapports sexuels.
 
 - Gêne mictionnelle.  
 Les examens de débitmétrie ou d'échographie n'objectivent que rarement un réel retentissement (même si le prépuce se ballonise). Surtout retrouvé dans les phimosis serrés secondaires de l'adulte.
@@ -109,8 +109,8 @@ Taux de succès voisin des 80% (79-96%).
 Possibilité de 2e cycle de traitement identique en cas d'échec.  
 NB. Pas d'effets secondaires. Facteur déterminant est l'observance du traitement. Risque de récidive faible.
 
-Aussi étudiés : triamcinolone 0,02 % x 2/j pendant 6 semaines, proprionate de clobétasole, furoate de mométasone, diclofénac.
-Etudiés avec effets secondaires : pommades aux œstrogènes.
+Aussi étudiés : triamcinolone 0,02 % x 2/j pendant 6 semaines, proprionate de clobétasol, furoate de mométasone, diclofénac.
+Étudiés avec effets secondaires: pommades aux œstrogènes.
 
 Les adhérences balano-préputiales. Si persistent après 5 ans : elles peuvent être levées en appliquant un anesthésique local type EMLA crème 30min avant le geste, puis levées par des tractions douces.
 
@@ -119,7 +119,7 @@ Les adhérences balano-préputiales. Si persistent après 5 ans : elles peuvent
 **Indications:** échecs ou contre-indication au traitement médical, porteurs de malformations urologiques sévères (RVU sévères, valves de l'urètre postérieur, sondage intermittent).  
 Vérifier l'absence d'anomalie de verge type hypospadias avant le geste.
 
-Méthodes chirugicales:
+Méthodes chirurgicales:
 
 1. Circoncision (posthectomie totale)  
 Ablation totale du prépuce. Complications exceptionnelles. Hypersensibilité du gland persistant quelques semaines.
@@ -137,9 +137,9 @@ Antiseptique local. Type Dakin® ou chlorhexidine aqueuse dilué dans ⅔ d'eau,
 
 - Para-phimosis  
 Urgence chirurgicale. Contexte de manipulation de phimosis.  
-D'abord manuelle par compression du prépuce en recallotage, sinon incision chirurgicale de l'anneau de constriction.  
+D'abord manuelle par compression du prépuce en recalottage, sinon incision chirurgicale de l'anneau de constriction.  
 Traitement du phimosis à distance.  
-Préventif. Eviter les manipulations des phimosis, toujours recalloter après la pose de sonde urinaire.
+Préventif. Éviter les manipulations des phimosis, toujours recalotter après la pose de sonde urinaire.
 
 - Dysurie vraie  
 Chirurgie ± conservatrice

@@ -57,7 +57,7 @@ Prévalence en France: 2,5%.
 - Anticorps anti-TPO positifs
 - Age > 60 ans
 - Antécédents thyroïdiens
-- Antécédents médicamenteux (Amiodarone, Lithium, Interféron)
+- Antécédents médicamenteux (amiodarone, lithium, interféron)
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

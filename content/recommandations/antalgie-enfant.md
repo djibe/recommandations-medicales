@@ -174,7 +174,7 @@ Classé en palier 1 mais peut être plus efficace que des paliers 2 voire 3 apr�
 Même si aucun lien prouvé.
 - Infection pulmonaire ou ORL sévère, cutanées ou des tissus mous
 - risque hémorragique ou trouble de la coagulation
-- Risque de déhydratation
+- Risque de déshydratation
 
 {{% /collapse %}}
 {{%collapse "Palier 2" %}}

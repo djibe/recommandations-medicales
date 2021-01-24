@@ -39,7 +39,7 @@ Le plus souvent l'activation est non spécifique et donc non allergique. Raremen
 : Vient d'"urtica", ortie en latin.
 
 Urticaire superficielle
-: Œdème **dermiqique uniquement**.
+: Œdème **dermique uniquement**.
 
 Urticaire profonde
 : Aussi appelée **angio-œdème** voire **œdème de Quicke** en atteinte pharyngée. Souvent associée à la forme superficielle.
@@ -76,7 +76,7 @@ Urticaire de contact
 Lésions apparaissent en moins de 30 minutes au point de contact avec parfois généralisation et choc anaphylactique.
 
 Urticaire solaire
-: Rare. Survient dans les premières minutes des zones habituellement couvertes. Disparait en moins d'une heure.
+: Rare. Survient dans les premières minutes des zones habituellement couvertes. Disparaît en moins d'une heure.
 : Test de provocation par l'exposition au soleil ou un simulateur.
 
 Urticaire retardée à la pression
@@ -197,7 +197,7 @@ Et TSH si anticorps positifs.
 
 > Consensus ANAES/SFDermato 2003
 
-En cas de syndromme inflammatoire biologique, d'anomalie de la NFS ou de signes cliniques évocateurs:
+En cas de syndrome inflammatoire biologique, d'anomalie de la NFS ou de signes cliniques évocateurs:
 
 - Dosage du complément
 - Facteurs antinucléaires
@@ -225,7 +225,7 @@ Biopsie cutanée.
 
 **Indications:**
 
-- Troubles dyspeptiques prostprandiaux
+- Troubles dyspeptiques postprandiaux
 - Urticaire localisée de contact
 - Épisodes d'angio-œdèmes récidivants du visage chez l'enfant
 
@@ -238,7 +238,7 @@ Biopsie cutanée.
 - Remettre la liste des aliments histamino-libérateurs.
 - Anti-histaminique anti-H1 (2G = seconde génération) pendant 2 semaines.  
 En cas d'échec à 2 semaines, augmenter la posologie jusqu'à x4 (EAACI/GA2LEN/EDF/WAO 2013).  
-TODO: 3e ligne de traitement:ajouter omalizumab (Xolair®) ou ciclosporine (Néoral®) ou antileucotriènes (Singulair®).
+TODO: 3e ligne de traitement: ajouter omalizumab (Xolair®) ou ciclosporine (Néoral®) ou antileucotriènes (Singulair®).
 
 **NB.** Pas de corticoïdes (risque d'effet rebond) ni de bilan allergologique (sauf orientation).
 

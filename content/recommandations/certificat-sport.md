@@ -28,7 +28,7 @@ todo = "indication ecg et ecomp, quel examen clinique"
 Certificat de non contre-indication à la pratique du sport
 : Réglementé par les dispositions du code du sport (L. 231-2 et L. 231-2-3) qui prévoient la présentation d'un license de moins d'un an pour l'inscription à une fédération sportive.
 : La présentation du certificat médical est exigée tous les 3 ans.  
-Les autres années, le licensié (ou son représentant légal) renseigne un questionnaire de santé "QS-SPORT".
+Les autres années, le licencié (ou son représentant légal) renseigne un questionnaire de santé "QS-SPORT".
 
 {{% /collapse %}}
 {{%collapse "Disciplines nécessitant un certificat annuel" %}}

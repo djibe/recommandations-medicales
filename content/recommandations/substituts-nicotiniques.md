@@ -15,6 +15,8 @@ anglais = ["Product containing only nicotine"]
 sctid = "776904000"
 qualite = "bonne"
 draft = false
+image = true
+imageSrc = "Photo par Free Grunge Textures - www.freestock.ca sur Foter.com / CC BY"
 todo = "score fagerstrom, card radio span"
 +++
 

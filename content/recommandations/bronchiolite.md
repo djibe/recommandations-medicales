@@ -78,7 +78,7 @@ Rares: bronchiolites oblitérantes, dilatation des bronches.
 {{%collapse "Clinique" %}}
 
 - Antécédents +++  
-Asthme, néonataux
+Asthme, néonataux.
 - Contage
 - **Incubation 2-8 jours**, élimination en 3-7 jours (pouvant aller jusqu'à 1 mois)  
 La maladie a tendance à s’aggraver sur les 3 premiers jours: noter la date de début.  
@@ -108,7 +108,7 @@ Difficultés d'alimentation et signes de déshydratation
 **Pas d'examen complémentaire en cas de forme typique de bronchiolite.**
 
 Pas d’intérêt à un bilan biologique.  
-Pas d’écouvillonage nasopharyngé.
+Pas d’écouvillonnage nasopharyngé.
 
 ### Radiographie pulmonaire
 

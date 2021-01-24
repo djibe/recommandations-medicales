@@ -20,7 +20,7 @@ todo = "fix MD, collectivité, lire sources, revoir fiche patient, impétiginisa
 {{%article-summary%}}
 
 - Évoquer d'emblée devant tout prurit
-- Traitement concommitant de tout le foyer
+- Traitement concomitant de tout le foyer
 - Perméthrine en 1<sup>re</sup> intention
 
 {{%/article-summary%}}
@@ -168,7 +168,7 @@ Efficacité de 85%.
 Selon Le CRAT: pas de souci pendant la grossesse.
 
 {{< table title="Posologie de l'ivermectine en fonction du poids (source VIDAL)" >}}
-Poids (kg) | Nombre de cp à 3 mg 
+Poids (kg) | Nombre de cp à 3 mg
 :---------:|--------------------:
 15 à 24    | 1
 25 à 35    | 2

@@ -32,7 +32,7 @@ En effet, **il est inenvisageable de tenter une synthèse pour la prise en soins
 ## Les points vitaux du diabète de type 1
 
 - Toute personne avec un diabète type 1 est à cardiovasculaire élevé (ESC 2019)
-  - Très élevé si complication micro ou macrovasculaire ou si ≥ 3 FRCV.
+  - Très élevé si complication micro ou macrovasculaire ou si ≥ 3 facteurs de risque cardiovasculaires.
   - Modéré si âge < 35 sans complication.
 - Arrêt du tabac
 - HTA  

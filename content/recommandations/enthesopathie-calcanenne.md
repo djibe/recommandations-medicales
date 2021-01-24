@@ -19,7 +19,7 @@ draft = false
 
 {{%article-summary%}}
 
-- Rechercher des arguments neurorologiques, métaboliques et auto-immuns
+- Rechercher des arguments neurologiques, métaboliques et auto-immuns
 - Talonnettes, contention, kiné, éviter debout prolongé
 
 {{%/article-summary%}}
@@ -59,7 +59,7 @@ Talalgie plantaire. Les douleurs surviennent souvent dès le lever puis s'améli
 
 - Caractères des douleurs  
 Talalgie plantaire mécanique.
-- Antécédents neurorologiques, métaboliques et auto-immuns
+- Antécédents neurologiques, métaboliques et auto-immuns
 - Métier
 
 ### Examen clinique
@@ -82,7 +82,7 @@ Recherche d'enthésophyte calcanéen (épine) et élimine une lésion osseuse ca
 
 ### Bilan biologique
 
-En cas de poussées récurenttes: uricémie, glycémie à jeun.
+En cas de poussées récurrentes: uricémie, glycémie à jeun.
 
 ### Autres, selon la clinique
 

@@ -73,7 +73,7 @@ Accroissement progressif de la pilosité, premières règles tardives chez une p
 Si iatrogène, apparition le plus souvent après plusieurs mois et régression en quelques mois après l’arrêt du traitement.
   - Testostérone/DHEA, danazol, tibolone
   - Lévonorgestrel et progestatifs
-  - Corticoides (même inhalés)
+  - Corticoïdes (même inhalés)
   - Minoxidil
   - Ciclosporine, tacrolimus
   - Phénytoine

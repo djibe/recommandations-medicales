@@ -63,6 +63,6 @@ Voir le tableau ci-dessous.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Société Française de Néonatalogie. Vitamine K - Mise à jour des recommandations. Décembre 2015.](//afpa.org/content/uploads/2017/07/4_-7_sfn_recommandations_vitamine_k_maj_2015.pdf)
+- [Société Française de Néonatalogie. Vitamine K - Mise à jour des recommandations. Décembre 2015.](https://afpa.org/content/uploads/2017/07/4_-7_sfn_recommandations_vitamine_k_maj_2015.pdf)
 
 {{% /collapse %}}

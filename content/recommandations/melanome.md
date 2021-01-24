@@ -16,7 +16,7 @@ sctid = "2092003"
 draft = false
 image = true
 imageSrc = "National Cancer Institute"
-todo = "survie melanome, complications K: lymphoedeme, erysipele, dl neurop"
+todo = "survie mélanome, complications K: lymphoedeme, erysipele, dl neurop"
 +++
 
 {{%article-summary%}}
@@ -86,7 +86,7 @@ Cheveux roux ou blonds, yeux clairs.
   - Éphélides nombreuses
   - Nombreux nævi (≥ 40)
   - Nævus congénital géant
-  - Nnævus atypique (> 5mm, irrégulier)
+  - Nævus atypique (> 5mm, irrégulier)
   - Sensibilité au soleil (coups de soleil fréquents, bronze peu)
 - Photo-exposition solaire/UV/latitude  
 Brûlures dans l'enfance ++

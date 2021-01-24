@@ -120,7 +120,7 @@ OU kétoconazole (Ketoderm®, gén) gel moussant 2%
 
 - Effets indésirables communs: prurit, sensation de brûlure, xérose cutanée, interactions med
 - Contre-indications: grossesse
-- Autres produits: climbazole shampooing, huilde de cade (Caditar®), kéluamide, piroctone olamine, pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
+- Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine, pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
 
 #### Face et tronc
 
@@ -160,7 +160,7 @@ Kétoconazole topique
 {{% warning %}}
 **Ne pas utiliser**
 
-Ciclopirox, kétoconazole, dermocroticoïdes, sulfure de sélénium, AINS, acide salicylique.
+Ciclopirox, kétoconazole, dermocorticoïdes, sulfure de sélénium, AINS, acide salicylique.
 
 {{% /warning %}}
 

@@ -147,7 +147,7 @@ Trithérapie pendant 14 jours:
 
 En cas de double résistance *clarithromycine* et *lévofloxacine*, quadrithérapie avec bismuth pendant 10 jours:
 
-- Oméprazole 20 mg matin et soir pendant le repas 
+- Oméprazole 20 mg matin et soir pendant le repas  
 {{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
 - Pylera®: 3 gélules **x 4/j**  
 {{%class%}}Après les repas du matin, du midi, du soir et au coucher, avec un grand verre d’eau.{{%/class%}}
@@ -168,7 +168,7 @@ Si allergie documentée à l’amoxicilline et souche sensible à la clarithromy
 
 Quadrithérapie avec bismuth pendant 10 jours (idem *Résistance clarithromycine et lévofloxacine*):
 
-- Oméprazole 20 mg matin et soir pendant le repas 
+- Oméprazole 20 mg matin et soir pendant le repas  
 {{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
 - Pylera®: 3 gélules **x 4/j**
 

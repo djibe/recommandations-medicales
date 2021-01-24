@@ -130,9 +130,9 @@ Bilan de première intention devant un prurit nu sans cause évidente: biologie,
 
 ### Biologique
 
-- NFS-plaq
+- NFS
 - Bilan hépatique  
-ASAT, ALAT, GGT, PAL, bilirubine totale
+ASAT, ALAT, GGT, PAL, bilirubine totale.
 - Créatininémie
 - TSH
 - Sérologies VIH, VHB, VHC

@@ -67,7 +67,7 @@ Signes de gravité devant un canal carpien:
 Obligeant le lever, déclenchées par certains mouvements, engourdissement, décharges électriques.
   Diminués lorsque secoue la main atteinte ou la laisse pendante.
 - Troubles vasomoteurs  
-Sueur, xérose cutanée, modifification de couleur de la main.
+Sueur, xérose cutanée, modification de couleur de la main.
 - Signe de Mac Murthy-Durkan  
 Paresthésies du nerf médian lors de la pression du poignet face palmaire.
 - Signe de Tinel  
@@ -131,7 +131,7 @@ Le traitement de première intention est médical.
 Port nocturne, en position neutre pendant plusieurs mois.  
 Se limiter à l’orthèse chez la femme enceinte.
 
-### Infiltrations locales de corticoides
+### Infiltrations locales de corticoïdes
 
 Infiltrations locales de méthylprednisolone.  
 Efficace sous 4h, délai entre 2 injections de 1 à 6 mois. Échec si inefficace après 1 à 3 injections.  

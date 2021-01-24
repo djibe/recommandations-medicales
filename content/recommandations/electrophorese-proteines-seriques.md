@@ -101,7 +101,7 @@ Voir *Surveillance* pour les patients non adressés.
 {{% /collapse %}}
 {{%collapse "Surveillance" %}}
 
-Lorsque le patient présente une immunoglobuline monoclone de façon asymptomatique, sans anomalie biologique ni radiologique, une surveillance simple est nécessaire (voir *Qui adresser au spécialiste?*).
+Lorsque le patient présente une immunoglobuline monoclonale de façon asymptomatique, sans anomalie biologique ni radiologique, une surveillance simple est nécessaire (voir *Qui adresser au spécialiste?*).
 
 **Surveillance à 6 mois de la découverte puis annuelle**:
 

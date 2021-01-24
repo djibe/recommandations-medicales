@@ -55,9 +55,9 @@ NFS, sérologies hépatites, quantiféron
 - Radiographie thoracique  
 Systématique avant de débuter le traitement.
 - Echo abdo
-- Fibroscan ,
+- Fibroscan
 - bHCG
-- Spirométrie si  
+- Spirométrie si:  
   - Tabagisme
   - BPCO, emphysème
 

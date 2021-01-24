@@ -21,7 +21,7 @@ draft = false
 
 - Le diagnostic est clinique
 - Bains antiseptiques pluriquotidiens (x 2-3 /jour)
-- Antibiothérapie si immunodépression, valuvulopathies, diabète
+- Antibiothérapie si immunodépression, valvulopathies, diabète
 - Consignes de prévention pour prévenir les récidives
 
 {{%/article-summary%}}

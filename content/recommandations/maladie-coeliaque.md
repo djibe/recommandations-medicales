@@ -86,7 +86,7 @@ Personnes à risque élevé de maladie cœliaque:
 - Transaminases augmentées inexpliquées
 - [Diabète type 1]({{< relref "diabete-type-1.md" >}}) (tous les 5 ans)
 - Symptômes évocateurs de MC ou malabsorption sans d’antécédents familiaux ni auto-immuns
-- Colite miscoscopique
+- Colite microscopique
 - [Thyroïdite de Hashimoto]({{< relref "hypothyroidie.md" >}}) ou maladie de Basedow
 - Ostéopénie, ostéoporose
 - Ataxie ou neuropathie périphérique inexpliquée
@@ -109,7 +109,7 @@ Personnes à risque élevé de maladie cœliaque:
 #### De la malabsorption
 
 - Diarrhée chronique
-- Stéatorhée
+- Stéatorrhée
 - Amaigrissement
 - Retard de croissance
 - Douleurs abdominales et ballonnements
@@ -199,7 +199,7 @@ Ostéodensitométrie avant 35 ans ???
 
 Par le gastro-entérologue et le diététicien spécialisé.
 
-{{< table title="Suivi de la maladie coœliaque" >}}
+{{< table title="Suivi de la maladie cœliaque" >}}
 | Période          | Bilan associé |
 |------------------|---------------|
 | **Au diagnostic**<br>Médecin et diététicien | - Examen physique, y compris l'IMC<br>- Éducation sur la MC<br>- Conseils diététiques par un diététicien qualifié<br>- Recommander un dépistage familial (DQ2/D8 et sérologie cœliaque)<br>- Recommander l'adhésion à une association de patients<br>- Sérologie cœliaque (si elle n'a pas déjà été réalisée)<br>- Analyses de routine (NFS, ferritinémie, vitamines D B9 B12, TSH,<br>enzymes hépatiques, calcium, phosphate)<br>- Ostéodensitométrie au moment du diagnostic avant 35 ans |
@@ -262,7 +262,7 @@ Des  produits  diététiques  sans  gluten  sont  rem-boursés  partiellement  p
 {{% /collapse%}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir en cas de suspicion de maladie coœliaque. Dr JB FRON d'après EssCD 2019" >}}
+{{< mermaid title="Conduite à tenir en cas de suspicion de maladie cœliaque. Dr JB FRON d'après EssCD 2019" >}}
 graph TB
   symptomatique["Symptomatique"] --> examen("Sérologie ou fibroscopie d'emblée<br>selon le cas")
   style symptomatique stroke:#006ef4, stroke-width:1px

@@ -81,10 +81,10 @@ Examen clinique annuel en cas de DE avec :
 - Uro-génital  
 testicules (taille, consistance), pénis (prépuce, frein, phimosis, déformation, taille, mycose), toucher rectal après 50 ans, gynécomastie  
 - Cardio-vasculaire  
-PA, pouls périphériques, souffles vasculaires
-Eval risque CV SCORE
+Pression artérielle, pouls périphériques, souffles vasculaires.  
+Évaluation du risque Heart SCORE.
 - Neurologique  
-Centré sur ROT, RCP, sensibilité des pieds, anesthésie en selle et des membres inférieurs, hypotension orthostatique
+Centré sur ROT, RCP, sensibilité des pieds, anesthésie en selle et des membres inférieurs, hypotension orthostatique.
 
 {{%/collapse%}}
 
@@ -125,9 +125,9 @@ Traitements expliqués et discutés avec le patient.
 
 ### Information sexuelle
 
-« Rassurer, dédramatiser de façon adaptée à l’âge et la demande ».
+> "Rassurer, dédramatiser de façon adaptée à l’âge et la demande."
 
-Explications sur la physiologie érection, part psychologique (anxiété de performance), prévalence de la dysfonction avec l'âge, sexualité féminine.  Importance des préléminaires.
+Explications sur la physiologie érection, part psychologique (anxiété de performance), prévalence de la dysfonction avec l'âge, sexualité féminine.  Importance des préliminaires.
 
 Une information adaptée peut parfois suffire.
 
@@ -145,7 +145,7 @@ Exemple : 2 séances d'endurance, 2 séances de renforcement et 1 activité en g
 
 - Privilégier les **sports d'endurance** d'intensité modérée pour améliorer la qualité des érections.
 - Le **renforcement musculaire** peut accroître la production de testostérone.
-- Les **sports de combat** peuvent améliorer l'estime de soi et la festion du stress.
+- Les **sports de combat** peuvent améliorer l'estime de soi et la gestion du stress.
 - Les **sports collectifs** diminuent le stress, l'anxiété et la dépression ( en extérieur ++)
 
 ### Adaptation de l'ordonnance
