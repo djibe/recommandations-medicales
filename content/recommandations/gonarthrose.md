@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-15T19:21:00+02:00
 publishdate = 2021-01-17
-lastmod = 2021-01-17
+lastmod = 2021-01-25
 categories = ["rhumatologie"]
 guidelineyears = "2020"
 sources = ["SFRhumato"]
@@ -15,7 +15,7 @@ anglais = ["Osteoarthritis of knee, gonarthrosis"]
 sctid = "239873007"
 draft = false
 image = true
-imageSrc = "Par le Dr Ian Bickle publié sur Radiopaedia.org</a>"
+imageSrc = "Disparition de l'interligne des 3 compartiments avec ostéophytose. Sclérose sous-chondrale. Dr Ian Bickle publié sur Radiopaedia.org"
 todo = "https://radiopaedia.org/articles/osteoarthritis-of-the-knee?lang=gb"
 +++
 

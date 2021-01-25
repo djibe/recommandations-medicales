@@ -31,7 +31,7 @@ Splénectomie chirurgicale est la 1<sup>re</sup> cause avec 6 à 9000 cas par an
 Drépanocytose, 10.000 porteurs (50% adultes).
 
 {{% /collapse %}}
-{{%collapse "Complications" %}}
+{{%collapse "Complications de l'asplénie" %}}
 
 ### Risque infectieux
 
@@ -54,7 +54,7 @@ Germes: pneumocoque (50-90%) et Haemophilus influenzae (10-15%).
 - Cirrhose alcoolique
 
 {{% /collapse %}}
-{{%collapse "Antibioprophylaxie" %}}
+{{%collapse "Antibioprophylaxie de l'asplénie" %}}
 
 {{%info%}}Oracilline® 1 MUI, 1 cp x 2/j pendant 2 ans (5 ans chez l'enfant){{%/info%}}
 
@@ -69,7 +69,7 @@ Oracilline® (Pénicilline V, phénoxyméthylpénicilline) à débuter dès le l
 Macrolide roxythromycine (Rulid®, gén) 150 mg x 2/j.
 
 {{% /collapse %}}
-{{%collapse "Vaccination" %}}
+{{%collapse "Vaccination chez l'asplénique" %}}
 
 ### Quand vacciner ?
 

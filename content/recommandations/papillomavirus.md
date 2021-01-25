@@ -22,7 +22,7 @@ todo = "pharynx"
 {{%article-summary%}}
 
 - Vaccination pour tous de 11 à 19 ans  
-Étendue à 26 ans pour les [HSH](< relref "hsh.md" >).
+Étendue à 26 ans pour les [HSH]({{< relref "hsh.md" >}}).
 - Dépistage organisé du cancer du col de l'utérus de 25 à 65 ans
 - Dépistage ciblé du cancer anal
 
@@ -97,7 +97,7 @@ Intérêt de co-administrer avec le rappel dTcaPolio.
 Vaccination des garçons depuis le 1<sup>er</sup> janvier 2021.
 - Rattrapage vaccinal de 15 à 19 ans révolus avec 3 doses  
 Schéma: Gardasil 9® à M0, M2 et M6.  
-- Homme ayant des rapports sexuels avec des hommes ([HSH](< relref "hsh.md" >))  
+- Homme ayant des rapports sexuels avec des hommes ([HSH]({{< relref "hsh.md" >}}))  
 Jusqu'à 26 ans révolus avec schéma en 3 doses.  
 Schéma: Gardasil 9® à M0, M2 et M6.
 - Enfant/Adolescent transplanté ou en attente de transplantation jusqu'à 19 ans avec 3 doses  

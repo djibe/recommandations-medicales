@@ -7,7 +7,7 @@ disableHugoGeneratorInject = false
 enableInlineShortcodes = true
 enableRobotsTXT = true
 languageCode = "fr"
-rssLimit = 20
+rssLimit = 30
 summaryLength = 50
 title = "L'Université médicale"
 
@@ -37,7 +37,7 @@ title = "L'Université médicale"
 # search https://learn.netlify.app/en/basics/configuration/
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-  section = ["HTML", "JSON"]
+  section = ["HTML"]
 
 # Dependencies
 [params.cdn]

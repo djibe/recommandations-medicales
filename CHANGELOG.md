@@ -2,6 +2,11 @@
 
 ## TODO
 
+- Manifest  
+Icons 192 and 512
+- 404 layout  
+https://moonbooth.com/hugo/custom-404/#seo-issue
+- Brand in title
 - index Hx order  
 Section lacks heading. Consider using "h2"-"h6" elements to add identifying headings to all section
 - https://www.webrankinfo.com/dossiers/techniques/quelles-donnees-structurees
@@ -26,7 +31,8 @@ https://gist.github.com/clvs7-gh/77b1f50d51d4e238c8482fc31296d4c4
 - Search in synonyms
 - Shortcode téléphone
 - Sitemap que pour index + reco  
-https://howtocode.io/how-to-customize-your-sitemap-in-hugo
+https://howtocode.io/how-to-customize-your-sitemap-in-hugo  
+https://gohugo.io/templates/sitemap-template/
 - Replace guidelineyears
 - Logo
 - If is page menu is active

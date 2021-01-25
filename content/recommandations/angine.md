@@ -39,7 +39,7 @@ TDR
 : Test de Diagnostic Rapide du SGA, Test de dépistage Rapide à Orientation Diagnostique (TROD) de l'angine. Aussi appelé Streptatest®.
 
 {{% /collapse %}}
-{{%collapse "Complications" %}}
+{{%collapse "Complications de l'angine" %}}
 
 - Phlegmon péri-amygdalien
 - Complications infectieuses locales
@@ -68,7 +68,7 @@ Autres formes d'angine:
 {{< outils/mac-isaac >}}
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'angine" %}}
 
 - Antalgique, antipyrétique  
 Paracétamol voire antalgique palier 2.

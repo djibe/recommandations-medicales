@@ -55,10 +55,7 @@
 <!-- Date Tags, Sitemap & RSS Feed Tags -->
 <meta property="og:updated_time" content={{ .Lastmod.Format "2006-01-02T15:04:05Z0700" }}>
 <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}sitemap.xml"> 
-{{ with .OutputFormats.Get "RSS" }}
-  <link href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }} - Dernières recommandations">
-  <!--<link href="{{ .Permalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }} - Feed">-->
-{{ end }}
+<link href="{{ .Site.BaseURL }}index.xml" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }} - Dernières recommandations">
 
 <!-- Article tags https://jsonld.com/article/ -->
 {{ if eq .Section "recommandations" }}
@@ -161,12 +158,15 @@
 <link rel="icon" href="{{ .Site.BaseURL }}favicon.ico">
 
 <!-- Crawlers -->
-<meta name="robots" content="index,follow">
-<meta name="googlebot" content="index,follow">
+{{ if and (eq .Kind "taxonomy") (eq .Type "categories")}}
+<meta name="robots" content="noindex, follow"/>
+{{ else }}
+<meta name="robots" content="index, follow"/>
+{{ end }}
 
 <!--TODO: Others -->
 {{ hugo.Generator }}
-<!--<link rel="manifest" href="{{ .Site.BaseURL }}manifest.json">-->
+<link rel="manifest" href="{{ .Site.BaseURL }}manifest.webmanifest">
 <meta name="theme-color" content="#0077ff">
 <meta name="msapplication-TileColor" content="#0077ff">
 

@@ -1,0 +1,16 @@
+{
+  "name": "L'Université Médicale",
+  "short_name": "UM",
+  "description": "Les dernières recommandations médicales pour la pratique au cabinet médical.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32",
+      "type": "image/ico"
+    }
+  ],
+  "start_url": "/",
+  "display": "minimal-ui",
+  "theme_color": "#006ef4",
+  "background_color": "#006ef4"
+}
