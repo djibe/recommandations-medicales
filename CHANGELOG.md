@@ -2,17 +2,16 @@
 
 ## TODO
 
-- index Hx order
-- Désindexer pages inutiles
+- index Hx order  
+Section lacks heading. Consider using "h2"-"h6" elements to add identifying headings to all section
 - https://www.webrankinfo.com/dossiers/techniques/quelles-donnees-structurees
 - Fix RSS length
 - Fix list.html
-- Gonarthrose > Allergie péni > Hyperferr > Bronchiolite > Prep > SAOS > Score de Wells > lavage colique > Cirrhose > FA > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
+- Gonarthrose > AIT > Allergie péni > Hyperferr > Bronchiolite > Prep > SAOS > Score de Wells > lavage colique > Cirrhose > FA > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
 - Bandeau lat
 - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 - Raccourcis: paracetamol, vaccins, cs enfant
 - MD
-- navdrawer toggle
 - separate JS
 - https://metatags.io/
 - https://github.com/algolia/algoliasearch-netlify/blob/master/docs/GettingStarted.md
@@ -34,7 +33,6 @@ https://howtocode.io/how-to-customize-your-sitemap-in-hugo
 - Expand all avec localstorage
 - Score de Wells, BASDAI, Glasgow
 - TOC
-- Section lacks heading. Consider using "h2"-"h6" elements to add identifying headings to all sections
 - SEO  
 https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/
 https://www.webrankinfo.com/dossiers/techniques/quelles-donnees-structurees?utm_source=wri&utm_medium=email&utm_campaign=newsletter-2020-10-13&utm_content=newsletter-actualites  
@@ -49,8 +47,6 @@ https://plainjs.com/javascript/manipulation/wrap-an-html-structure-around-an-ele
 - Add a page for Societes savantes table
 - Add a page for journal de la santé  
 https://stackoverflow.com/questions/10943544/how-to-parse-an-rss-feed-using-javascript
-- Add a blog for articles (news)
-- Add a Pratique section (Mettre à jour CPS)
 - Mois en français
 - Comments  
 https://networkhobo.com/hugo-staticman-nested-replies-and-email-notifications/

@@ -10,7 +10,7 @@ lastmod = 2021-01-18
 categories = ["infectiologie"]
 guidelineyears = "2020"
 sources = ["HAS", "MinSante"]
-tags = ["cancer anal", "cancer col", "IST", "HSH", "vaccin"]
+tags = ["cancer anal", "cancer col", "depistage", "IST", "HSH", "vaccin"]
 anglais = []
 sctid = ""
 draft = false
@@ -23,7 +23,7 @@ todo = "pharynx"
 
 - Vaccination pour tous de 11 à 19 ans  
 Étendue à 26 ans pour les [HSH](< relref "hsh.md" >).
-- Dépistage organisé du cancer du col de l'utérus
+- Dépistage organisé du cancer du col de l'utérus de 25 à 65 ans
 - Dépistage ciblé du cancer anal
 
 {{%/article-summary%}}

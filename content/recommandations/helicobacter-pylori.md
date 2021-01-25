@@ -11,7 +11,7 @@ lastmod = 2021-01-22
 categories = ["hepato-gastro-enterologie"]
 guidelineyears = "2017"
 sources = ["HAS", "GEFH"]
-tags = ["B12", "bariatrique", "carence martiale", "EOGD", "gastrite", "IPP"]
+tags = ["B12", "bariatrique", "carence martiale", "depistage", "EOGD", "gastrite", "IPP"]
 anglais = ["Helicobacter pylori"]
 sctid = "80774000"
 draft = false
@@ -23,6 +23,7 @@ todo = "Effets indésirables de l'EOGD, ttt quel moment de prise, http://www.hel
 
 {{%article-summary%}}
 
+- Dépistage par sérologie pour tout antécédent d'ulcère sans confirmation d'éradication.
 - Confirmation par sérologie ou fibroscopie selon symptômes et facteurs de risque de cancer.
 - Reporter le traitement si grossesse/allaitement.
 - Traitement adapté à l'antibiogramme.
@@ -43,7 +44,7 @@ Son éradication prévient la survenue de ces complications.
 ### Abréviations
 
 **EOGD:** Endoscopie œso-gastro-duodénale (ou fibroscopie/gastroscopie)  
-**GEFH:** Groupe d'Études Français des *Helicobacter*
+**GEFH:** Groupe d'Études Français des *Helicobacter*  
 **IPP:** Inhibiteurs de la pompe à protons  
 **K:** Cancer
 
@@ -128,7 +129,7 @@ En cas de sensibilité à la clarithromycine, trithérapie pendant 14 jours:
 - Amoxicilline 500 mg matin, midi et soir
 - Clarithromycine 500 mg matin et soir
 
-**NB.** Modèle GEFH. La HAS préconisait 10j de traitement avec amoxicilline 1g x 2/j.
+**NB.** Modèle GEFH. La HAS préconisait 10j de traitement avec amoxicilline 1 g x 2/j.
 {{%/info%}}
 
 #### Résistance à la clarithromycine
@@ -141,7 +142,7 @@ Trithérapie pendant 14 jours:
 - Amoxicilline 500 mg matin, midi et soir
 - Lévofloxacine 500 mg x 1/j
 
-**NB.** Modèle GEFH. La HAS préconisait 10j de traitement avec amoxicilline 1g x 2/j.
+**NB.** Modèle GEFH. La HAS préconisait 10j de traitement avec amoxicilline 1 g x 2/j.
 
 #### Résistance clarithromycine et lévofloxacine
 
@@ -215,7 +216,7 @@ ET au moins 2 semaines après l'arrêt total des IPP.
 
 Il est réalisé à jeun au laboratoire avec un test acheté sur ordonnance en pharmacie.
 
-En cas de test positif, recours à un avis spécialisé (Centre national de référence des Campylobacters et Hélicobacters).
+En cas de test positif, recours à un avis spécialisé (Centre national de référence des *Campylobacters* et *Helicobacters*).
 
 ### Antigène fécal
 
@@ -226,7 +227,7 @@ La recherche fécale de *H. pylori* est une alternative au test respiratoire mai
 
 {{< mermaid title="Conduite à tenir pour le traitement de Helicobacter pylori guidé par antibiogramme. Dr JB FRON d'après HAS/CNPHGE 2017 et GEFH 2019" >}}
 graph TB
-  asymptomatique["<b>Asymptomatique</b><br>- &lt; 40 ans et ATCD K gastrique 1er degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie("Sérologie <em>H. pylori</em>")
+  asymptomatique["<b>Asymptomatique</b><br>- &lt; 40 ans et ATCD K gastrique 1<sup>er</sup> degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie("Sérologie <em>H. pylori</em>")
   style asymptomatique stroke:#006ef4, stroke-width:1px
     serologie -- Négative --> indemne(Pas d'infection active)
     serologie -- Positive/Douteuse --> gastro
