@@ -18,7 +18,7 @@ slider = true
 paracetamol = true
 image = true
 imageSrc = "Photo de Nathan Phillips sur Foter.com / CC BY-NC"
-todo = "délais d'action pour les sachets, nubin, douleur neuropathique"
+todo = "délais d'action pour les sachets, nubin, douleur neuropathique, https://www.phel.ch/upload/docs/application/pdf/2016-05/a4_poster_gsasa_2015_rotation_opiaces_mj.pdf"
 +++
 
 {{%article-summary%}}
@@ -114,9 +114,13 @@ En première intention pour les douleurs faibles à modérées.
           </span>
          </li>
       </ul>
+      <p class="typography-overline text-black-secondary mt-2 mb-0">Délai d'action</p>
+      <p>45 minutes</p>
+      <p class="typography-overline text-black-secondary mt-2 mb-0">Efficacité maximale</p>
+      <p>Obtenue à 1-2 heures</p>
     </div>
     <div aria-labelledby="suppo-tab" class="tab-pane fade" id="suppo" role="tabpanel">
-      <p class="text-warning">Uniquement en voie orale impossible.</p>
+      <p class="text-warning">Uniquement si voie orale impossible.</p>
       <p class="typography-overline text-black-secondary m-0">Spécialités</p>
       <ul class="list-group list-group-flush">
         <li class="list-group-item d-flex list-group-item-two-line">
@@ -160,7 +164,7 @@ En première intention pour les douleurs faibles à modérées.
 
 **Posologie:** 15 mg/kg/6h (max 60 mg/kg/j sans dépasser 4g/j).
 
-### Ibuprofène (unique AINS)
+### AINS - Ibuprofène
 
 **Posologie:** 20-30 mg/kg/j par voie orale sur période courte (max 72h).
 
@@ -203,6 +207,10 @@ Même si aucun lien prouvé.
 
 Morphine 0,1 mg/kg/prise chez le moins d'1 an.
 Surveillance par soignant pendant 1h.
+
+### Convertisseur Opioconvert
+
+{{< outils/conversion-opioides height="800px" >}}
 
 {{% /collapse %}}
 {{%collapse "Évaluation de la douleur" %}}

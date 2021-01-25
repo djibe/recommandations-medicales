@@ -10,7 +10,8 @@ https://moonbooth.com/hugo/custom-404/#seo-issue
 - index Hx order  
 Section lacks heading. Consider using "h2"-"h6" elements to add identifying headings to all section
 - https://www.webrankinfo.com/dossiers/techniques/quelles-donnees-structurees
-- Fix RSS length
+- Fix RSS length  
+https://bemnlam.github.io/posts/displaying-the-full-content-in-hugo-rss-feed/
 - Fix list.html
 - Gonarthrose > AIT > Allergie péni > Hyperferr > Bronchiolite > Prep > SAOS > Score de Wells > lavage colique > Cirrhose > FA > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
 - Bandeau lat

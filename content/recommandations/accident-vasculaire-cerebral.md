@@ -16,12 +16,12 @@ sctid = ""
 draft = true
 image = false
 imageSrc = ""
-todo = "aspirine"
+todo = ""
 +++
 
 {{%article-summary%}}
 
-
+- 
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -30,17 +30,22 @@ Accident vasculaire cérébral (AVC)
 : TODO:
 
 Accident ischémique transitoire (AIT)
-: TODO:
+: Urgence vitale par déficit neurologique transitoire sans anomalie à l'imagerie cérébrale.
+: Risque d'AVC de 90% à 3 mois, dont la moitié dans les 48h suivantes.
 
 {{% /collapse %}}
-{{%collapse "Examens complémentaires" %}}
+{{%collapse "Épidémiologie" %}}
 
+Accident ischémique transitoire
+: 30.000 AIT/an
 
 {{% /collapse %}}
 {{%collapse "Traitement post-AVC" %}}
 
 Identique en cas d'accident ischémique transitoire.
 
+- **Aspirine 75-325 mg/j**  
+Si non cardioembolique (voire clopidogrel).
 - Pression artérielle  
   - **Cible < 140/90 mmHg** avec surveillance par **automesure tensionnelle** voire MAPA.
   - Molécules: thiazidiques, IEC, dihydropyridines.
@@ -61,11 +66,23 @@ Identique en cas d'accident ischémique transitoire.
 
 Anticoagulation au long cours par warfarine ou AOD selon le profil du patient.
 
+### Prothèse valvulaire mécanique
+
+Warfarine uniquement.  
+Cible selon prothèse et facteurs de risque du patient.
+
+### Foramen ovale perméable
+
+Traitement antiplaquettaire.  
+Si maladie thrombo-embolique veineuse concomitante: anticoagulation.
+
+### Autres
+
+Selon les résultats du bilan spécialisé cardiologique et neurologique.
+
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
 - [HAS. Prévention vasculaire après un infarctus cérébral ou un accident ischémique transitoire. Juin 2014 MAJ Juin 2018.](https://www.has-sante.fr/upload/docs/application/pdf/2014-09/avc_synthese_des_recommandations.pdf)
 
 {{% /collapse %}}
-
-≥±®œŒ
