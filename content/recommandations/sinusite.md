@@ -15,8 +15,8 @@ anglais = ["Sinusitis"]
 sctid = "36971009"
 draft = false
 flowchart = true
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Photo de NIAID sur Foter.com / CC BY"
 todo = "https://www.sforl.org/wp-content/uploads/2020/02/recoRSIA.pdf, age ethmoidite, indications scanner, sources prescrire"
 +++
 

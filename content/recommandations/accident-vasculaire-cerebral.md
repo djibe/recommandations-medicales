@@ -10,13 +10,13 @@ lastmod = 2021-01-25
 categories = ["neurologie"]
 guidelineyears = "2018"
 sources = ["HAS"]
-tags = ["diabete", "risque cardiovasculaire"]
-anglais = []
-sctid = ""
+tags = ["antiplaquettaire", "diabete", "HTA", "risque cardiovasculaire"]
+anglais = ["Cerebrovascular accident"]
+sctid = "230690007"
 draft = false
-image = false
-imageSrc = ""
-todo = "fiche standardisée du recueil événements ? à imprimer, contacts"
+image = true
+imageSrc = "Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
+todo = "anglais, rééduc, fiche standardisée du recueil événements ? à imprimer"
 +++
 
 {{%article-summary%}}

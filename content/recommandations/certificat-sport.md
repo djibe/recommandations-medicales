@@ -15,6 +15,8 @@ anglais = []
 sctid = ""
 draft = false
 todo = "indication ecg et ecomp, quel examen clinique"
+image = true
+imageSrc = "Photo sur Foter.com"
 +++
 
 {{%article-summary%}}

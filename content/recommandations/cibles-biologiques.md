@@ -14,8 +14,8 @@ tags = ["ferritine", "uricemie"]
 anglais = []
 sctid = ""
 draft = false
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Photo de ZEISS Microscopy sur Foter.com / CC BY-SA"
 todo = "TODO: HbA1C, LDL"
 +++
 
