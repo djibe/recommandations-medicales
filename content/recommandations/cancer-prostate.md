@@ -63,7 +63,7 @@ Métastatique (douleurs lombaires osseuses surtout)
 Physiologique: prostate souple, régulière, élastique, bords bien délimités, sillon médian palpable.
 
 {{% /collapse %}}
-{{%collapse "Dépistage" %}}
+{{%collapse "Dépistage du cancer de la prostate" %}}
 
 {{%info%}}Dosage du PSA pour tous les hommes à partir de 45 ans ayant une espérance de vie ≥ 10 ans.{{%/info%}}
 

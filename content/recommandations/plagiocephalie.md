@@ -66,7 +66,7 @@ Examiner le sommet de la tête, vue du dessus et regarder la position des oreill
 Radiographies du crâne uniquement en suspicion de craniosynostose ou d’aggravation à un âge où les DCP devraient s’atténuer.
 
 {{% /collapse %}}
-{{%collapse "Prévention" %}}
+{{%collapse "Prévention de la plagiocéphalie" %}}
 
 - Alterner tous les jours la position dans le lit en inversant sa position tête – pieds
 - Coucher bébé sur le dos dans une position contraire à sa préférence

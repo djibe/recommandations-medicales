@@ -31,7 +31,7 @@ Certificat de non contre-indication à la pratique du sport
 Les autres années, le licencié (ou son représentant légal) renseigne un questionnaire de santé "QS-SPORT".
 
 {{% /collapse %}}
-{{%collapse "Disciplines nécessitant un certificat annuel" %}}
+{{%collapse "Disciplines nécessitant un certificat de sport annuel" %}}
 
 - Environnement spécifique
   - Alpinisme

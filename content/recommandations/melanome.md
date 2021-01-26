@@ -200,7 +200,7 @@ Aucun dosage de marqueurs tumoraux n'est recommandé.
 Systématique pour les patients de plus de 75 ans avant la RCP.
 
 {{% /collapse %}}
-{{%collapse "Prévention" %}}
+{{%collapse "Prévention du mélanome" %}}
 
 - Information sur les risques liés à l'exposition solaire
 - Photoprotection cutanée

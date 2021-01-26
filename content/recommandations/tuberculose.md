@@ -44,7 +44,7 @@ Pour les professionnels de santé : évaluation de l'exposition au cas par cas p
 - Europe centrale (sauf Grèce, Hongrie, Slovaquie, Slovénie et République Tchéque)
 
 {{%/collapse%}}
-{{%collapse "Suivi thérapeutique" %}}
+{{%collapse "Suivi thérapeutique de la tuberculose" %}}
 
 {{< table title="Examens de suivi de la tuberculose maladie" >}}
 | Délai | Consultation | BK  | Radio | BH  | Bio | Opht |

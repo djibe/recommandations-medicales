@@ -181,7 +181,7 @@ Plus rarement bloc de branche, micro-voltage, torsade de pointe, extrasystoles v
 Signes résolutifs sous lévothyroxine.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'hypothyroïdie" %}}
 
 Délai avant amélioration des symptômes de **2 semaines après instauration du traitement**. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
 

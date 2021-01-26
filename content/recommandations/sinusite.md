@@ -2,7 +2,7 @@
 title = "Sinusite aiguë purulente"
 prefix = "la "
 shortname = "SAP"
-synonyms = []
+synonyms = ["Rhinosinusites infectieuses aiguës"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-18T09:20:00+02:00
 publishdate = 2021-01-18
@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "ANTIBIOS durée age ethmoidite, indications scanner, sources prescrire"
+todo = "https://www.sforl.org/wp-content/uploads/2020/02/recoRSIA.pdf, age ethmoidite, indications scanner, sources prescrire"
 +++
 
 {{%article-summary%}}

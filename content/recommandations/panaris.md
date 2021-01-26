@@ -78,7 +78,7 @@ Principalement sur la pulpe, douloureux survenant lors d'une endocardite infecti
 - Lavage des mains pluriquotidiens à l'eau et au savon.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du panaris" %}}
 
 ### Mesures générales
 

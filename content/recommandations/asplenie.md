@@ -69,7 +69,7 @@ Oracilline® (Pénicilline V, phénoxyméthylpénicilline) à débuter dès le l
 Macrolide roxythromycine (Rulid®, gén) 150 mg x 2/j.
 
 {{% /collapse %}}
-{{%collapse "Vaccination chez l'asplénique" %}}
+{{%collapse "Vaccinations chez l'asplénique" %}}
 
 ### Quand vacciner ?
 

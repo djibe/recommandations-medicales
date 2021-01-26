@@ -13,7 +13,7 @@ Section lacks heading. Consider using "h2"-"h6" elements to add identifying head
 - Fix RSS length  
 https://bemnlam.github.io/posts/displaying-the-full-content-in-hugo-rss-feed/
 - Fix list.html
-- Gonarthrose > AIT > Allergie péni > Hyperferr > Bronchiolite > Prep > SAOS > Score de Wells > lavage colique > Cirrhose > FA > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
+- AIT > Sinusite 2020 > Allergie péni > Gastrite > Hyperferr > Bronchiolite > Prep > SAOS > Score de Wells > lavage colique > Cirrhose > FA > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
 - Bandeau lat
 - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 - Raccourcis: paracetamol, vaccins, cs enfant

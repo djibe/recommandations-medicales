@@ -139,7 +139,7 @@ Indication: EOGD documentée avec résistance au traitement optimisé.
 Réalisé sous IPP double dose.
 
 {{%/collapse%}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du RGO" %}}
 
 **Objectifs:** soulager les symptômes, cicatrisation des lésions et prévention des récidives.
 

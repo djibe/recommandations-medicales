@@ -14,7 +14,7 @@ tags = ["depistage", "HSH", "IST", "vaccin", "VIH"]
 anglais = ["MSM", "Men who have sex with men"]
 sctid = "76102007"
 draft = false
-todo = "TODO: Prep, https://www.eacsociety.org/files/2019_guidelines-10.0_final.pdf p. 24"
+todo = "TODO: gono, chlam, Prep, https://www.eacsociety.org/files/2019_guidelines-10.0_final.pdf p. 24"
 +++
 
 {{%article-summary%}}
@@ -45,8 +45,6 @@ Sérologies à proposer en cas de conduites sexuelles à risque:
 - Hépatite A
 - Hépatite B
 - [Syphilis]({{< relref "syphilis.md" >}})
-
-TODO: gono, chlam
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}

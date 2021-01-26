@@ -156,7 +156,7 @@ Notion de malaise, antécédents, gène respiratoire traînante.
 > Hospitalisation si ≥ 1 critère ci-dessus (l'isolement en chambre individuelle n'est pas justifié).
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la bronchiolite" %}}
 
 Hospitalisation si critères ci-dessus.
 

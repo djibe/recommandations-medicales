@@ -150,7 +150,7 @@ Selon le contexte:
 Confirme synovite dans certains cas. Peut être complété par l'IRM.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la PR" %}}
 
 **La décision du traitement dépend du rhumatologue, partagée avec le patient.**
 
@@ -186,7 +186,7 @@ dTP tous les 10 ans, pneumocoque tous les 5 ans.
 - Chirurgie
 
 {{% /collapse %}}
-{{%collapse "Traitements spécifiques de la PR" %}}
+{{%collapse "Traitements spécifiques de la polyarthrite rhumatoïde" %}}
 
 {{%info%}}Chapitre pour en savoir plus sur les traitements de fond de la PR. Ceux-ci relèvent exclusivement du rhumatologue.{{%/info%}}
 

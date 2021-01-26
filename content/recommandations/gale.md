@@ -117,7 +117,7 @@ Diagnostics différentiels d'un prurit tenace ou d'une gale:
 Cholestases et insuffisances hépatiques ou rénales.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la gale" %}}
 
 Le traitement est ambulatoire sauf gale norvégienne.  
 Traitement concomitant de toute la famille/entourage.

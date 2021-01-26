@@ -108,7 +108,6 @@ Recherche de signes étiologiques et du retentissement de la MRC.
 - Urologiques : troubles de la miction, globe vésical, touchers pelvien.
 
 {{%/collapse%}}
-
 {{%collapse "Examens complémentaires" %}}
 
 Bilan initial au diagnostic de la maladie rénale chronique :

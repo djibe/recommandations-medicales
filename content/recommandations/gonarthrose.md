@@ -176,7 +176,7 @@ Pour le diagnostic positif et différentiel.
   - Défilé 30°: raccourcissement de l'interligne externe, ostéophytose rotulienne trochléenne externe.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la gonarthrose" %}}
 
 > Aucun traitement ne ralentit la perte du cartilage (chondroprotecteur). *SFRhumato 2020*
 

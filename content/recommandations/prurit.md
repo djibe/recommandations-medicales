@@ -124,7 +124,7 @@ Le prurit est un diagnostic d'interrogatoire.
 - Adénopathies palpables
 
 {{% /collapse %}}
-{{%collapse "Examens complémentaires" %}}
+{{%collapse "Examens complémentaires devant un prurit" %}}
 
 Bilan de première intention devant un prurit nu sans cause évidente: biologie, radio de thorax, écho abdo.
 

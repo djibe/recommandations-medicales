@@ -97,7 +97,7 @@ Adolescent, comédons, pas de flushs.
 Localisations séborrhées, fond érythémateux parsemé de squames grasses.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la rosacée" %}}
 
 **Objectifs:** réduire les symptômes, préserver le capital esthétique et prévenir les complications.
 

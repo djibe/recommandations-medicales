@@ -55,7 +55,7 @@ Pour diagnostic différentiel.
 En cas de doute diagnostique.
 
 {{%/collapse%}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du névrome de Morton" %}}
 
 - Semelles sur mesure
 - Infiltrations de corticoïdes

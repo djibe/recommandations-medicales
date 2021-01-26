@@ -179,7 +179,7 @@ Port du **préservatif** avec tout partenaire en l'absence de bilan d'IST récen
 Également si multi-partenaires.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la syphilis" %}}
 
 ### Mesures générales
 
@@ -253,7 +253,7 @@ Si positive: traiter, sinon refaire la sérologie à 3 mois.
 Si positive: traiter, sinon refaire à 3 mois.
 
 {{% /collapse %}}
-{{%collapse "Surveillance du traitement" %}}
+{{%collapse "Surveillance du traitement par pénicilline" %}}
 
 L'efficacité du traitement doit être contrôlée cliniquement et par sérologie du VDRL.
 

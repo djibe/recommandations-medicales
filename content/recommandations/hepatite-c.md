@@ -29,7 +29,7 @@ todo = "TODO: Séro+ puis -"
 74.000 personnes non diagnostiquées en France en 2014 (chez les 18-80 ans contre 101.000 en 2004).
 
 {{% /collapse %}}
-{{%collapse "Qui dépister?" %}}
+{{%collapse "Hépatite C - Qui dépister?" %}}
 
 - Toute personne qui a pu avoir un contact avec le VHC
 - Personnes ayant eu avant 1992:

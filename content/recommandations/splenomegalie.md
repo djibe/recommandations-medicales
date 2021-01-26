@@ -105,7 +105,7 @@ Permet de ne pas confondre avec un gros rein gauche ou les autres organes de la 
 La rate normale ne dépasse pas 12 x 6 x 3 cm (l x L x h).
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la splénomégalie" %}}
 
 ### Chirurgical: la splénectomie
 

@@ -47,7 +47,7 @@ Pour l’histoire: Einstein et de Gaulle en sont morts.
 **Fissuration:** douleur brutale avec irradiation (dos-abdomen, dos-aine, dos-jambe) ou des vomissements, résistante aux antalgiques.
 
 {{%/collapse%}}
-{{%collapse "Dépistage" %}}
+{{%collapse "Dépistage de l'anévrysme de l'aorte abdominale" %}}
 
 À réaliser une seule fois par écho-doppler artériel (angiologue) chez:
 

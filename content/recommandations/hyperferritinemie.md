@@ -13,7 +13,7 @@ sources = ["FMC"]
 tags = ["ferritine", "hemochromatose", "syndrome metabolique"]
 anglais = ["Hyperferritinemia"]
 sctid = "390943009"
-draft = false
+draft = true
 todo = "Summary, lire la fmc"
 +++
 

@@ -71,7 +71,7 @@ OU si **appréciation de gravité par le médecin:**
 Aucun examen en l'absence de signe de gravité ou de gravité estimée par le médecin.
 
 {{% /collapse %}}
-{{%collapse "Prise en charge ambulatoire du TC léger" %}}
+{{%collapse "Prise en charge ambulatoire du traumatisme crânien léger" %}}
 
 La surveillance du traumatisme crânien léger à domicile est possible si:
 

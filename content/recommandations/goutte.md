@@ -50,7 +50,7 @@ Il est la 1<sup>re</sup> de cause survenue de toxidermies bulleuses graves en Eu
 La mortalité est de 20-30% et 60% de ces accidents sous *allopurinol* surviennent chez des patients qui n’ont aucune indication au traitement.
 
 {{% /collapse %}}
-{{%collapse "Complications" %}}
+{{%collapse "Complications de la goutte" %}}
 
 - Tophus
 - Arthropathies uratiques  

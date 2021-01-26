@@ -190,7 +190,7 @@ Mise à jour du bilan cardio-vasculaire (glycémie à jeun, bilan lipidique pour
 Importante pour un diagnostic précoce.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la spondylarthrite ankylosante" %}}
 
 Objectif: rémission ou activité minimale de la maladie. Cibles objectivables définies avec le patient.
 

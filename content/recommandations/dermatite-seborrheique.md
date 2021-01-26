@@ -96,7 +96,7 @@ Comportement sexuel, notion de chancre.
 **Aucun examen complémentaire** en l’absence d’arguments pour une autre cause.
 
 {{% /collapse %}}
-{{% collapse "Traitement" %}}
+{{% collapse "Traitement de la dermatite séborrhéique" %}}
 
 Le traitement est suspensif et doit donc être répété.
 
@@ -127,7 +127,7 @@ OU kétoconazole (Ketoderm®, gén) gel moussant 2%
 Kétoconazole gel moussant ou crème 2% x 2/semaine  
 OU ciclopirox crème 1% x 2/j
 
-{{% warning %}}
+{{%warning%}}
 **Ne pas utiliser**
 
 - Dermocorticoïdes
@@ -135,7 +135,7 @@ OU ciclopirox crème 1% x 2/j
 - Gluconate de lithium
 - Acide salicylique.
 
-{{% /warning %}}
+{{%/warning%}}
 
 ### Phases du traitement
 

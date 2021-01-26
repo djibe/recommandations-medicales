@@ -99,7 +99,7 @@ Lésions osseuses.
 Voir *Surveillance* pour les patients non adressés.
 
 {{% /collapse %}}
-{{%collapse "Surveillance" %}}
+{{%collapse "Surveillance d'une immunoglobuline monoclonale" %}}
 
 Lorsque le patient présente une immunoglobuline monoclonale de façon asymptomatique, sans anomalie biologique ni radiologique, une surveillance simple est nécessaire (voir *Qui adresser au spécialiste?*).
 

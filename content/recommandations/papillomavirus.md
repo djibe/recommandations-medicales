@@ -67,7 +67,7 @@ La vaccination prévient 90% des infections causant ces cancers.
 Cancer (carcinome épidermoïde) et lésions précancéreuses sous-entendues.
 
 {{% /collapse %}}
-{{%collapse "Dépistage" %}}
+{{%collapse "Dépistage des papillomavirus" %}}
 
 ### Dépistage du cancer du col de l'utérus
 

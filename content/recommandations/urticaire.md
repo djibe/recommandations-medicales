@@ -230,7 +230,7 @@ Biopsie cutanée.
 - Épisodes d'angio-œdèmes récidivants du visage chez l'enfant
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'urticaire" %}}
 
 ### Traitement de l'urticaire aiguë
 

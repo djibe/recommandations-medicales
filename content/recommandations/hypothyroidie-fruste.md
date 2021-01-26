@@ -69,7 +69,7 @@ Si TSH > 10: augmentation du risque cardio-vasculaire, de répercussions neuro-p
 Perturbations du bilan lipidique.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'hypothyroïdie fruste" %}}
 
 Pas de dépistage de la population générale.  
 Dépistage ciblé: femme > 60 ans et facteurs de risque.
@@ -108,7 +108,7 @@ Débuter la lévothyroxine à posologie basse, croissante par paliers jusqu'à o
 - Si enceinte avec TSH > 4 mUI/L : traitement immédiat
 - Sinon : contrôle TSH à 6 mois puis annuel en l'absence de normalisation
 
-{{< mermaid title="Conduite à tenir devant une hypothyroïdie fruste. Dr JB FRON d'après HAS 2019" >}}
+{{< mermaid title="Conduite à tenir devant une hypothyroïdie fruste. Dr JB FRON d'après *HAS 2019*" >}}
 graph TB
   decouverte["TSH augmentée"] --"Contrôle à 1 mois"--> TSH["TSH augmentée"] -- "T4L normale" --> hTFruste("Hypothyroïdie fruste") --> anomalies("<b>Anomalies?</b><br>- TSH > 10<br>- Anticorps anti-TPO +<br>- Grossesse et TSH > 4<br>- Clinique d'hypothyroïdie") --"Oui"--> traitement("Traitement")
   style decouverte stroke:#006ef4, stroke-width:1px

@@ -17,7 +17,7 @@ qualite = "bonne"
 draft = false
 image = true
 imageSrc = "Photo par Free Grunge Textures - www.freestock.ca sur Foter.com / CC BY"
-todo = "score fagerstrom, card radio span"
+todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests_fagerstrom.pdf"
 +++
 
 ## {{< class "typography-headline-5" >}}Sevrage tabagique - les substituts nicotiniques remboursés{{</class>}}

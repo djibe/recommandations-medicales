@@ -109,7 +109,7 @@ Pas de bénéfices à modifier son alimentation.
 {{% warning %}} Tous les rétinoïdes sont tératogènes, même en gel ou crème. {{% /warning %}}
 
 {{% /collapse %}}
-{{%collapse "Traitement de forme minime à modérée" %}}
+{{%collapse "Traitement de l'acné minime à modérée" %}}
 
 ### Acné à prédominance rétentionnelle
 

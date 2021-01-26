@@ -115,7 +115,7 @@ En cas de suspicion de neuropathie périphérique (diabète ancien, alcoolisme c
 
 {{%/collapse%}}
 
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la dysfonction érectile" %}}
 
 Prise en charge par le médecin généraliste quand :  
 « homme avec partenaire intéressée par l’amélioration de la sexualité du couple et si possible avec érections spontanées conservées ».

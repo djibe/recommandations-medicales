@@ -15,7 +15,7 @@ anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac
 sctid = "396331005"
 draft = false
 flowchart = true
-todo = "dermatite herpétiforme"
+todo = "Ostéodensitométrie avant 35 ans ???, dermatite herpétiforme"
 +++
 
 {{%article-summary%}}
@@ -174,10 +174,8 @@ En cas de maladie prouvée, dépistage de tout les proches au 1<sup>er</sup> deg
 - ASAT, ALAT, GGT
 - Calcémie, phosphates, vitamine D.
 
-Ostéodensitométrie avant 35 ans ???
-
 {{%/collapse%}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la maladie cœliaque" %}}
 
 **NB.** Le diagnostic de certitude doit être posé par un gastro-entérologue.
 
