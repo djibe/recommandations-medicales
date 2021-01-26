@@ -210,7 +210,7 @@ Surveillance par soignant pendant 1h.
 
 ### Convertisseur Opioconvert
 
-{{< outils/conversion-opioides height="800px" >}}
+{{< outils/conversion-opioides height="800" >}}
 
 {{% /collapse %}}
 {{%collapse "Évaluation de la douleur" %}}
