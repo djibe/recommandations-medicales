@@ -1,7 +1,7 @@
 <!-- Title Tags -->
 {{ $metaTitle := "" }}
 {{ if eq .Section "recommandations" }}
-  {{ $metaTitle = (printf "%s %s %s" .Params.Title ": Recommandations 2021 -" $.Site.Title ) }}
+  {{ $metaTitle = (printf "%s %s %s %s %s" .Params.Title ": Recommandations" now.Year "-" $.Site.Title ) }}
 {{ else }}
   {{ $metaTitle = (printf "%s %s %s" .Title "-" $.Site.Title ) }}
 {{ end }}

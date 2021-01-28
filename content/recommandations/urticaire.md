@@ -15,6 +15,8 @@ anglais = ["Urticaria"]
 sctid = "126485001"
 draft = false
 flowchart = true
+image = true
+imageSrc = "Photo de woofiegrrl sur Foter.com / CC BY-ND"
 todo = "TODO: relire fiche, gs, enfant, choc anaphyla, Quincke, https://onlinelibrary.wiley.com/doi/full/10.1111/all.13397, https://www.dropbox.com/sh/9ivszpuwnxdp4t8/AAB04JahlYn6qounsCr-dQKwa/2019?dl=0&preview=Grille+capacit%C3%A9+urticaire+physique+Q4.docx&subfolder_nav_tracking=1, fiche"
 +++
 

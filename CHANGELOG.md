@@ -2,26 +2,33 @@
 
 ## TODO
 
+- List année
+- Custom robots and sitemap  
+https://discourse.gohugo.io/t/custom-robots-txt-and-sitemap-xml-templates/11869
+- Index only content  
+https://discourse.gohugo.io/t/change-meta-data-if-tags-listing/13496/2  
+https://discourse.gohugo.io/search?q=SEO%20index%20only%20content  
 - Manifest  
 Icons 192 and 512
 - 404 layout  
 https://moonbooth.com/hugo/custom-404/#seo-issue
-- Brand in title
+- 500  
+https://recommandations-medicales.netlify.app/tags/fogd/
 - index Hx order  
 Section lacks heading. Consider using "h2"-"h6" elements to add identifying headings to all section
 - https://www.webrankinfo.com/dossiers/techniques/quelles-donnees-structurees
 - Fix RSS length  
 https://bemnlam.github.io/posts/displaying-the-full-content-in-hugo-rss-feed/
 - Fix list.html
-- AIT > Sinusite 2020 > Allergie péni > Gastrite > Hyperferr > Bronchiolite > Prep > SAOS > Score de Wells > lavage colique > Cirrhose > FA > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
+- AIT > Sinusite 2020 > Allergie péni > Gastrite > Hyperferr > Bronchiolite > Prep > coloscopie > HTA > plainte mnesique > épaule > lombalgie > SAOS > Score de Wells > lavage colique > Cirrhose > FA > OMAP > Eczéma > Migraine > Cortico éq. prednisolone
 - Bandeau lat
 - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 - Raccourcis: paracetamol, vaccins, cs enfant
 - MD
-- separate JS
 - https://metatags.io/
 - https://github.com/algolia/algoliasearch-netlify/blob/master/docs/GettingStarted.md
-- Purify or PurgeCSS ?  
+- Purify or PurgeCSS ?    
+https://discourse.gohugo.io/t/how-i-can-implement-purgecss-uncss-or-purifycss-in-hugo/24446
 https://github.com/purifycss/purifycss
 - https://github.com/thedaviddias/Front-End-Checklist
 - Partager

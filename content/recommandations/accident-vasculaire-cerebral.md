@@ -6,7 +6,7 @@ synonyms = ["Accident ischémique transitoire", "infarctus cérébral"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-25T14:04:00+02:00
 publishdate = 2021-01-25
-lastmod = 2021-01-25
+lastmod = 2021-01-26
 categories = ["neurologie"]
 guidelineyears = "2018"
 sources = ["HAS"]
@@ -16,7 +16,7 @@ sctid = "230690007"
 draft = false
 image = true
 imageSrc = "Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
-todo = "anglais, rééduc, fiche standardisée du recueil événements ? à imprimer"
+todo = "rééduc, fiche standardisée du recueil événements à imprimer"
 +++
 
 {{%article-summary%}}
