@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-15T00:28:29+02:00
 publishdate = 2020-04-15
 lastmod = 2020-02-05
-categories = ["endocrinologie", "pediatrie"]
+specialites = ["endocrinologie", "pediatrie"]
 guidelineyears = "2019"
 sources = ["HAS", "SFP", "Prescrire"]
 tags = ["depistage", "supplementation", "vitamine d", "osteoporose", "chute", "nourrisson", "enfant", "adolescent"]
@@ -153,17 +153,17 @@ Utiliser des ampoules de 100.000 UI en cas de nécessité d'une 2e correction.
 
 > 50.000 UI x 1/mois pendant 3 à 6 mois.
 
-Dosage de contrôle de la vitamine D, une semaine après la prise de la dernière ampoule du protocole d’entretien :
+Dosage de contrôle de la vitamine D, une semaine après la prise de la dernière ampoule du protocole d’entretien:
 
-- Dosage < 75 nmol/L
+- Dosage < 75 nmol/L  
 Recommencer le protocole de correction avec des ampoules de 100.000 UI en remplacement des ampoules de 50.000 UI
-ou supplémenter avec 50.000 UI x 2/mois
-- Dosage > 150 nmol/L
+ou supplémenter avec 50.000 UI x 2/mois.
+- Dosage > 150 nmol/L  
 Espacer l’entretien à 50.000 UI tous les 2 mois.
-- Entre 75 et 150
-Conserver le rythme d’entretien
+- Entre 75 et 150  
+Conserver le rythme d’entretien.
 
-Intensification si :
+Intensification si:
 
 - Sujet à peau très foncée
 - Absence d’exposition estivale

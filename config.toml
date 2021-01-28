@@ -15,7 +15,7 @@ title = "L'Université Médicale"
   recommandations = "/recommandations/:filename/"
 
 [taxonomies]
-  category = "categories"
+  specialite = "specialites"
   tag = "tags"
   # auteur = "auteurs"
   guidelineyear = "guidelineyears"
@@ -32,7 +32,7 @@ title = "L'Université Médicale"
 
 # todo
 [related.indices]
-  name = "categories"
+  name = "specialites"
 
 # search https://learn.netlify.app/en/basics/configuration/
 [outputs]

@@ -158,7 +158,7 @@
 <link rel="icon" href="{{ .Site.BaseURL }}favicon.ico">
 
 <!-- Crawlers -->
-{{ if and (eq .Kind "taxonomy") (eq .Type "categories")}}
+{{ if and (eq .Kind "taxonomy") (eq .Type "specialites")}}
 <meta name="robots" content="noindex, follow"/>
 {{ else }}
 <meta name="robots" content="index, follow"/>
@@ -175,7 +175,7 @@
 <meta name="distribution" content="Global">
 <meta name="HandheldFriendly" content="True">
 <meta name="msapplication-tap-highlight" content="no">
-<meta name="apple-mobile-web-app-title" content="{{ .Site.Params.sitename }}">
+<meta name="apple-mobile-web-app-title" content="{{ $.Site.Title }}">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-touch-fullscreen" content="yes">

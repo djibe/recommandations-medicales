@@ -2,6 +2,8 @@
 
 ## TODO
 
+- Mois  
+https://www.christopheducamp.com/2017/07/27/r1d4--mise-en-forme-des-dates-dans-gohugo/
 - List année
 - Custom robots and sitemap  
 https://discourse.gohugo.io/t/custom-robots-txt-and-sitemap-xml-templates/11869

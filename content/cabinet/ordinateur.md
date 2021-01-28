@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-23T19:15:41+02:00
 publishdate = 2021-01-23
 lastmod = 2021-01-23
-categories = []
+specialites = []
 sources = []
 tags = ["ordinateur", "windows"]
 sctid = "11381005"
@@ -17,9 +17,9 @@ imageSrc = ""
 todo= "TODO:"
 +++
 
-L'ordinateur (Mac ou PC) est essentiel au sein du cabinet afin de gérer à long terme le suivi des patients. Il permet égalemment l'accès aux outils Ameli Pro. Bref, il est vital. Et pourtant, sans aucune connaissance, on vous vendra ce qui rapporte, pas ce dont vous avez besoin.
+L'ordinateur (Mac ou PC) est essentiel au sein du cabinet afin de gérer à long terme le suivi des patients. Il permet également l'accès aux outils Ameli Pro. Bref, il est vital. Et pourtant, sans aucune connaissance, on vous vendra ce qui rapporte, pas ce dont vous avez besoin.
 
-Je ne parle ici que de l'ordinateur + écran. Un autre article présente les périphériques pour bein tarvailler (clavier/souris, imprimante).
+Je ne parle ici que de l'ordinateur + écran. Un autre article présente les périphériques pour bien travailler (clavier/souris, imprimante).
 
 ## L'ordinateur minimum pour le médecin généraliste
 

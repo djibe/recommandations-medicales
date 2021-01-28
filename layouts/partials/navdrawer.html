@@ -6,7 +6,7 @@
          </div>
          <div class="navdrawer-nav">
             {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-               {{ if eq "categories" $taxonomyname }}
+               {{ if eq "specialites" $taxonomyname }}
                   {{ range $category, $pageOfCategory := $taxonomy }}
                   <a class="nav-item nav-link collapsed" data-toggle="collapse"
                      href="#navdrawer-{{ $category | urlize }}">{{ $category | truncate 30 }}</a>
