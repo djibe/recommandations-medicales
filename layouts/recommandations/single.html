@@ -69,8 +69,8 @@
               {{ end }}
 
               <div class="d-flex flex-wrap align-items-center">
-              {{ with .Params.guidelineyears }}
-              {{ $href := print ("guidelineyears/") (urlize .) }}
+              {{ with .Params.annees }}
+              {{ $href := print ("annees/") (urlize .) }}
               <a class="chip chip-secondary" href="{{ $href }}" data-toggle="tooltip" title="Toutes les recos de {{ . }}" data-placement="bottom">Reco {{ . }}</a>
               {{ end }}
 

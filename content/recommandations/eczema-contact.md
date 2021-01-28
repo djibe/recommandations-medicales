@@ -8,15 +8,14 @@ date = 2020-09-01T10:58:41+02:00
 publishdate = 2020-09-01
 lastmod = 2020-09-01
 specialites = ["dermatologie"]
-guidelineyears = "2000"
+annees = "2000"
 sources = ["FMC"]
 tags = ["eczema"]
 anglais = []
 sctid = ""
 draft = true
+todo = "Nickel +++"
 +++
-
-Nickel +++
 
 {{%article-summary%}}
 

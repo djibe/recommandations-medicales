@@ -43,7 +43,6 @@ https://gist.github.com/clvs7-gh/77b1f50d51d4e238c8482fc31296d4c4
 - Sitemap que pour index + reco  
 https://howtocode.io/how-to-customize-your-sitemap-in-hugo  
 https://gohugo.io/templates/sitemap-template/
-- Replace guidelineyears
 - Logo
 - If is page menu is active
 - Expand all avec localstorage
@@ -59,8 +58,8 @@ https://code.luasoftware.com/tutorials/hugo/schema-markup-for-hugo/
 - Collapse en pur javascript  
 https://stackoverflow.com/questions/43034782/simplest-way-to-wrap-multiple-elements-with-a-parent-container-in-javascript
 https://plainjs.com/javascript/manipulation/wrap-an-html-structure-around-an-element-28/
-- Turbolinks
-- Add a page for Societes savantes table
+- Turbo  
+https://github.com/hotwired/turbo
 - Add a page for journal de la santé  
 https://stackoverflow.com/questions/10943544/how-to-parse-an-rss-feed-using-javascript
 - Mois en français

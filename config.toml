@@ -18,7 +18,7 @@ title = "L'Université Médicale"
   specialite = "specialites"
   tag = "tags"
   # auteur = "auteurs"
-  guidelineyear = "guidelineyears"
+  annee = "annees"
   # source = "sources"
 
 [params]

@@ -9,7 +9,7 @@ publishdate = "{{ now.Format "2006-01-02" }}"
 lastmod = "{{ now.Format "2006-01-02" }}"
 draft = true
 specialites = ["endocrinologie"]
-guidelineyears = "2000"
+annees = "2020"
 source-recommandations = ["Society1", "Society2"]
 tags = ["tag 1"]
 +++
