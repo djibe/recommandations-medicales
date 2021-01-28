@@ -15,7 +15,7 @@ anglais = ["Rosacea"]
 sctid = "398909004"
 draft = false
 flowchart = true
-todo = "TODO: photo, liens sources"
+todo = "TODO: liens sources"
 +++
 
 {{%article-summary%}}
