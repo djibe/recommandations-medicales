@@ -63,3 +63,13 @@ HUGO_ENABLEGITINFO = "true"
   for = "*.svg*"
   [headers.values]
     Cache-Control = "public, max-age=2419200, must-revalidate, stale-while-revalidate=86400"
+
+[[redirects]]
+  from = "/guidelineyears/*"
+  to = " /annees/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/categories/*"
+  to = " /specialites/:splat"
+  status = 301
