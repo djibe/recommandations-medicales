@@ -15,12 +15,15 @@ anglais = ["Viral hepatitis type C"]
 sctid = "50711007"
 draft = false
 flowchart = true
-todo = "Séro+ puis -, Associations de patients, hépatoprotection"
+image = true
+imageSrc = "scientificanimations.com, CC BY-SA 4.0, via Wikimedia Commons"
+todo = "hépatoprotection"
+
 +++
 
 {{%article-summary%}}
 
-- Maladie guérissable
+- Maladie guérissable.
 - Dépister largement (voir *Qui dépister?*).
 - Prise en charge spécialisée ou par tout médecin pour obtenir une éradication d'ici 2025.
 
@@ -28,23 +31,32 @@ todo = "Séro+ puis -, Associations de patients, hépatoprotection"
 {{%collapse "Définition" %}}
 
 Hépatite C
-: Maladie infectieuse du foie causée par le virus de l'hépatite C (VHC), à l'origine d'une hépatite le plus souvent silencieuse qui devient chronique dans 80% des cas.  
+: Maladie infectieuse du foie causée par le virus de l'hépatite C (VHC), à l'origine d'une hépatite le plus souvent silencieuse qui devient chronique dans 80% des cas. La transmission est sanguine (drogues intraveineuses ou sniffées, sexe).  
 Des médicaments antiviraux permettent une guérison totale dans la grande majorité des cas.
 : Enjeux liés à la diffusion du virus, la cirrhose et ses complications: hypertension portale, carcinome hépatocellulaire.
 
 ### Abréviations
 
 **AAD:** Antiviral d'action directe
+**AFEF:** Association française pour l'étude du foie
 **HSH:** Homme ayant des relations sexuelles avec des hommes
+**TROD:** Test rapide d'orientation diagnostique
 **VHC:** Virus de l'hépatite C
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
 
-2700 morts par an en France.  
-1 personne sur 2 ignore son infection.  
-75.000 personnes non diagnostiquées en France en 2014 (chez les 18-80 ans contre 101.000 en 2004).  
-Virus identifié en 1989.
+- 2700 morts par an en France
+- 1 personne sur 2 n'est pas diagnostiquée
+- 75.000 personnes non diagnostiquées en France en 2014  
+Chez les 18-80 ans contre 101.000 en 2004.
+- Virus identifié en 1989
+
+### L'hépatite C dans le monde
+
+- 170 millions de personnes infectées dans le monde (3%)
+- Incidence: 3 à 4 millions de nouveaux cas par an
+- Responsable de 70% des hépatopathies chroniques
 
 {{% /collapse %}}
 {{%collapse "Hépatite C - Qui dépister?" %}}
@@ -100,12 +112,12 @@ Surpoids, obésité, syndrome métabolique.
 
 {{%warning%}}Le dépistage VHB-VHC-VIH doit être combiné (*AFEF*){{%/warning%}}
 
+Sérologie ([Remb. 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=3784&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)):
+
 - Positive  
 Nécessité de sérologie de contrôle et charge virale (RT-PCR) VHC.
 - Négative  
 Pas d'infection par le VHC, sauf infection récente ou immunodépression sévère (voir Conduite à tenir).
-
-[Remboursée à 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=3784&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI).
 
 Ou TROD VHC au plus près du patient (remboursé à 100%).
 
@@ -114,31 +126,61 @@ Ou TROD VHC au plus près du patient (remboursé à 100%).
 Systématique lorsque 2 sérologies sont positives (ou 1 TROD+ + 1 sérologie+).  
 [Remboursée à 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=4124&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI).
 
+> "la recherche du génotype du VHC n’est pas nécessaire." (*AFEF*)
+
 ### Bilan si diagnostic positif
 
-- Sérologie VIH et VHB
+- Sérologie VIH
+- Ag Hbs, anticorps anti-HBs, anticorps anti-HBc
 - NFS-plaquettes
 - INR
 - Créatininémie et clairance CDK-EPI
-- ASAT, ALAT, GGT, PAL, bilirubine totale
+- ASAT, ALAT, GGT, bilirubine
 - Albuminémie
 - Glycémie à jeun
 
 ### Fibrose hépatique
 
-Par le spécialiste. Test non invasif en 1<sup>re</sup> intention.
+Systématique.  
+Par le spécialiste ou sur prescription pour un traitement ambulatoire.
+
+Test non invasif en 1<sup>re</sup> intention:
+
+- Élasticité hépatique: Fibroscan®  
+Absence de maladie sévère si résultat < 10 kPa
+- Tests sanguins
+  - FibroTest®  
+  Absence de maladie sévère si résultat ≤ 0,58
+  - Fibromètre®  
+  Absence de maladie sévère si résultat ≤ 0,786
+
+Indiquer "hépatite chronique C non traitée".
 
 {{% /collapse %}}
-{{% collapse "Traitement de l'hépatite C" %}}
+{{% collapse "Traitement simplifié de l'hépatite C" %}}
+
+Le traitement antiviral peut être prescrit par tout médecin pour maximiser les chances de traitement en contexte de parcours de soins difficile.
 
 **Objectifs:** réduire la mortalité toutes causes et obtenir une guérison virologique.  
 **Guérison:** ARN du VHC indétectable dans le plasma au moins 12 semaines après l'arrêt du traitement. Obtenue dans 90% des cas avec les AAD.
 
+### Conditions du traitement anti VHC par le médecin généraliste
+
+- Absence de traitement anti-VHC antérieur
+- Absence de co-infection VHB-VIH
+- Absence d'insuffisance rénale sévère
+- Absence de comorbidité hépatique mal contrôlée
+- Absence de maladie hépatique sévère  
+{{%class%}}Objectivée par Fibroscan®, FibroTest® ou Fibromètre®.{{%/class%}}
+- Bilan clinique et complémentaire sans anomalie majeure (voir *Clinique* et *Examens complémentaires*)
+
 ### Mesures générales
 
 - Déclarer l'ALD 6
+- Observance maximale du traitement
 - Proscrire toute interaction avec les antiviraux ([Outil en ligne HEP Drug Interactions](https://www.hep-druginteractions.org/checker))  
 Enquête sur l'automédication+++.
+- Aucune consommation de pamplemousse ou d’orange sanguine pendant le traitement
 - Éviter toute consommation d'alcool
 - Lutte contre surpoids/obésité
 - Équilibre strict d'un diabète
@@ -146,47 +188,71 @@ Enquête sur l'automédication+++.
 - Vaccination hépatite B (après sérologie négative)
 - Vaccination grippe annuelle
 - Vaccination pneumocoque
-- Prévention des contaminations  
-Pas de partage des rasoirs, brosse à dent.  
-Matériel à usage unique en cas d'acte invasif (drogue IV).
+- Dépistage de l'entourage et des partenaires
+- Prévention des contaminations
+  - Charge virale VHC répétée en cas de comportements à risque
+  - Pas de partage des rasoirs, brosse à dent.
+  - Matériel à usage unique en cas d'acte invasif (drogue IV).
 
 ### Antiviraux d'Action Directe (AAD) du VHC
 
-Manipulation par le spécialiste.
+Tout médecin peut prescrire les AAD.  
+Mesure de la charge virale obligatoire avant de débuter le traitement.
 
-Contrôle de la RT-PCR VHC 12 semaines après la fin du traitement.  
+Traitement au choix:
+
+- [Epclusa®](https://ec.europa.eu/health/documents/community-register/2020/20200825148798/anx_148798_fr.pdf) (sofosbuvir + velpastavir) pendant 12 semaines  
+Epclusa® 400/100 mg 1 cp par jour.
+- [Maviret®](https://ec.europa.eu/health/documents/community-register/2020/20200303147380/anx_147380_fr.pdf) (glécaprévir + pibrentasvir) pendant 8 semaines  
+Maviret® 100/40 mg 3 cp en 1 prise quotidienne lors d'un repas.
+
+{{%info%}}
+Contrôle de la charge virale VHC 12 semaines après la fin du traitement.  
 **NB.** Persistance des anticorps après la guérison.
+{{%/info%}}
 
-3 classes avec associations variées:
+- Charge virale négative  
+Patient guéri.
+- Charge virale positive  
+Adresser au spécialiste.
 
-- Inhibiteurs de protéase NS3A/4A (grazoprévir, voxilaprévir, glécaprévir)
-- Inhibiteurs de la protéine NS5A (lédipasvir, elbasvir, pibrentasvir, velpastavir)
-- Inhibiteurs de NS5B (sofosbuvir)
+{{% /collapse %}}
+{{% collapse "Traitement spécialisé de l'hépatite C" %}}
+
+Adresser au gastro-entérologue lorsque les conditions d'accès aux soins le permettent, que les conditions de prise en charge en premier recours ne sont pas remplies (voir *Conditions du traitement...*) ou en cas de persistance d'une charge virale 12 semaines après la fin du traitement antiviral.
 
 {{% /collapse %}}
 {{% collapse "Surveillance" %}}
 
 - Surveillance adaptée au traitement
-- Contrôle de la RT-PCR VHC 12 semaines après la fin du traitement.
-- Si persistance de conduites à risque: RT-PCR VHC annuelle.
-- Persistance des mesures d'hépatoprotection
+- Contrôle de la charge virale VHC 12 semaines après la fin du traitement.
+- Si persistance de conduites à risque: charge virale annuelle.
+- Persistance des mesures d'hépatoprotection  
+Alcool, syndrome métabolique, automédication.
+- Comportements à risque
 
 {{% /collapse %}}
 {{% collapse "Conduite à tenir" "show" %}}
 
 {{< mermaid title="Conduite à tenir devant un résultat de sérologie d'hépatite C. Dr JB FRON d'après HAS 2019" >}}
 graph TB
-  serologie[Sérologie VHC] --> serologie+(Positive)
+  serologie["Sérologie VHC<br>(+ VHB + VIH)"] --> serologie+(Positive)
   style serologie stroke:#006ef4, stroke-width:1px
-  serologie+ --> controle(Sérologie de contrôle)
-    controle -- Positive --> pcr(Charge virale VHC<br>Sérologies VIH 1 + 2 + VHB)
-    controle -- Négative --> controleNegatif(To Do)
-    pcr --> mg(Adresser Hépatologue<br>Dépister l'entourage)
+  serologie+ --> pcr(Charge virale VHC)
+    pcr -- Détectable --> comorbidite("Déjà traité VHC?<br>Alcool?<br>Diabète?<br>Obésité?")
+      comorbidite -- Oui --> spe(Adresser au spécialiste)
+      comorbidite -- Non --> elasticite("Critères élasticité<br>remplis ?<br>(voir <em>Examens comp.</em>)")
+        elasticite -- Non --> spe
+        elasticite -- Oui --> aad("Traitement simplifié<br>Epclusa&reg; ou Maviret&reg;")
+          aad --> eradication("Charge virale à 12 sem<br>post traitement")
+            eradication -- Détectable --> spe
+            eradication -- Indétectable --> guerison
+    pcr -- Indétectable --> guerison(Guérison virologique)
   serologie --> serologie-(Négative<br>Diagnostic infirmé)
-  serologie- -.-> infRecente(Suspicion d'infection récente)
+  serologie- -.-> infRecente(Suspicion d'infection<br>récente)
     infRecente -- 3 mois --> 3mois(Sérologie de contrôle)
   serologie- -.-> immunodep(Immunodépression)
-    immunodep --> pcr2(RT-PCR VHC)
+    immunodep --> pcr2(Charge virale VHC)
 {{< /mermaid >}}
 
 {{< mermaid title="Conduite à tenir dans les suites de la réalisation d'un TROD VHC. Dr JB FRON d'après HAS 2019" >}}
@@ -194,13 +260,13 @@ graph TB
   trod[TROD VHC] --> trod+(Positif)
   style trod stroke:#006ef4, stroke-width:1px
   trod+ --> serologie(Sérologie VHC)
-    serologie -- Positive --> pcr(Charge virale VHC sur même prélèvement)
-    pcr --> mg(Adresser Hépatologue<br>Dépister l'entourage)
-    serologie -- Négative --> TODO(To Do)
+    serologie -- Positive --> pcr(Charge virale VHC<br>sur même prélèvement)
+    pcr --> mg(Envisager traitement<br>simplifié)
+    serologie -- Négative --> TODO(???)
   trod --> trod-(Négatif<br>Diagnostic infirmé)
-    trod- -.-> infRecente(Suspicion d'infection récente)
+    trod- -.-> infRecente("Suspicion d'infection<br>récente")
     infRecente -- 3 mois --> 3mois(Sérologie VHC<br>ou TROD)
-  trod --> trodIncertain(TROD ininterprétable)
+  trod --> trodIncertain(Ininterprétable)
     trodIncertain --> 3mois
 {{< /mermaid >}}
 
@@ -215,18 +281,27 @@ graph TB
 - Informations sur les traitements
   - Importance de l'observance
   - Effets indésirables des traitements
+  - Persistance d'une sérologie positive à vie
+  - Aucune consommation de pamplemousse ou d’orange sanguine pendant le traitement
 - Contrôle des comorbidités
 - Contrôle des addictions
 - Nécessité de prévenir tous les sujets avec contact à risque
 - Consignes d'hépatoprotection
-- Associations de patients
+- Associations de patients  
+[SOS hépatites](https://soshepatites.org/), [actions traitements](https://www.actions-traitements.org/)
 - [Proposer de participer à la cohorte ComPare](https://compare.aphp.fr/participer/je-participe.html)
+
+{{% /collapse %}}
+{{%collapse "Vidéos" %}}
+
+[Vidéos de l'AFEF sur l'hépatite C](https://www.youtube.com/channel/UCgWEPppp0YbWbvpcWoXd9fg/search?query=h%C3%A9patite%20C)
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
 - [HAS. Hépatite C : prise en charge simplifiée chez l'adulte. Mars 2019 MAJ Septembre 2019.](https://www.has-sante.fr/jcms/c_2911891/fr/hepatite-c-prise-en-charge-simplifiee-chez-l-adulte)
 - [AFEF, SPILF. Recommandations AFEF pour l'élimination de l'infection par le virus de l'hépatite C en France. Mars 2018.](https://afef.asso.fr/wp-content/uploads/2018/06/VF-INTERACTIF-RECO-VHC-AFEF-v2103.pdf)
+- [Fourcher J., Rosa I. Traitement de l'hépatite C en 2018. POST'U 2018 Paris](https://www.fmcgastro.org/texte-postu/postu-2018-paris/traitement-de-lhepatite-c-en-2018/)
 - [Hépatites Info Service](https://www.hepatites-info-service.org/hepatite-c/)
 
 {{% /collapse %}}

@@ -1,7 +1,9 @@
-<!-- Title Tags -->
+<!-- Title Tags 70 ch -->
 {{ $metaTitle := "" }}
-{{ if eq .Section "recommandations" }}
-  {{ $metaTitle = (printf "%s %s %s" .Title ": Recommandations 2021 -" $.Site.Title ) }}
+{{ if .IsHome }}
+  {{ $metaTitle = (printf "%s : Dernières recommandations médicales au cabinet" $.Site.Title ) }}
+{{ else if (eq .Section "recommandations") }}
+  {{ $metaTitle = (printf "%s %s" .Title ": Recommandations 2021 - UnivMédicale" ) }}
 {{ else }}
   {{ $metaTitle = (printf "%s %s %s" .Title "-" $.Site.Title ) }}
 {{ end }}
