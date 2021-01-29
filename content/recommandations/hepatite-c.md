@@ -6,31 +6,50 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-06T20:18:41+02:00
 publishdate = 2020-09-06
-lastmod = 2020-09-07
+lastmod = 2021-01-29
 specialites = ["infectiologie"]
 annees = "2019"
-sources = ["HAS"]
+sources = ["AFEF", "HAS"]
 tags = ["depistage", "hepatite", "prurit"]
 anglais = ["Viral hepatitis type C"]
 sctid = "50711007"
 draft = false
 flowchart = true
-todo = "TODO: Séro+ puis -"
+todo = "Séro+ puis -, Associations de patients, hépatoprotection"
 +++
 
 {{%article-summary%}}
 
-- Dépister largement (voir *Qui dépister?*)
-- Prise en charge spécialisée
+- Maladie guérissable
+- Dépister largement (voir *Qui dépister?*).
+- Prise en charge spécialisée ou par tout médecin pour obtenir une éradication d'ici 2025.
 
 {{%/article-summary%}}
+{{%collapse "Définition" %}}
+
+Hépatite C
+: Maladie infectieuse du foie causée par le virus de l'hépatite C (VHC), à l'origine d'une hépatite le plus souvent silencieuse qui devient chronique dans 80% des cas.  
+Des médicaments antiviraux permettent une guérison totale dans la grande majorité des cas.
+: Enjeux liés à la diffusion du virus, la cirrhose et ses complications: hypertension portale, carcinome hépatocellulaire.
+
+### Abréviations
+
+**AAD:** Antiviral d'action directe
+**HSH:** Homme ayant des relations sexuelles avec des hommes
+**VHC:** Virus de l'hépatite C
+
+{{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
 
-74.000 personnes non diagnostiquées en France en 2014 (chez les 18-80 ans contre 101.000 en 2004).
+2700 morts par an en France.  
+1 personne sur 2 ignore son infection.  
+75.000 personnes non diagnostiquées en France en 2014 (chez les 18-80 ans contre 101.000 en 2004).  
+Virus identifié en 1989.
 
 {{% /collapse %}}
 {{%collapse "Hépatite C - Qui dépister?" %}}
 
+- Tout adulte au moins 1 fois dans sa vie (*AFEF*)
 - Toute personne qui a pu avoir un contact avec le VHC
 - Personnes ayant eu avant 1992:
   - une transfusion ou ayant pu être transfusés  
@@ -48,11 +67,11 @@ Soins à la naissance en néonatalogie ou en pédiatrie (grand prématuré, exsa
 - [HSH]({{< relref "hsh.md" >}})
 - Entourage de VHC+
 - Prisonnier
-- Tatoutage, piercing, mésothérapie, acupuncture
+- Tatouage, piercing, mésothérapie, acupuncture
 - Immigré, soigné ou séjour prolongé en zone d'endémie (Égypte, Pakistan, Europe de l'Est et méditerranéenne, Afrique et Asie)
 - ALAT élevées sans cause connue
-- VIH+ ou VHB+
-- Professionnel de santé lors d'AES
+- [VIH+]({{< relref "vih-sida.md" >}}) ou VHB+
+- Professionnel de santé lors d'un AES
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -60,7 +79,8 @@ Soins à la naissance en néonatalogie ou en pédiatrie (grand prématuré, exsa
 ### Interrogatoire
 
 - Traitements déjà utilisés contre le VHC
-- Consommation d'alcool (questionnaires AUDIT, CAGE-DETA, FACE)
+- Consommation d'alcool  
+Questionnaires [AUDIT](http://test-addicto.fr/tests/alcool/audit.html), [CAGE-DETA](https://test-addicto.fr/tests/alcool/deta-cage.html) ou [FACE](http://test-addicto.fr/tests/alcool/questionnaire-face.html).
 - Consommation de drogues
 - Rapports sexuels à risque
 - Antécédents de transfusion
@@ -68,30 +88,38 @@ Soins à la naissance en néonatalogie ou en pédiatrie (grand prématuré, exsa
 
 ### Examen clinique
 
-- Poids, taille, **IMC**
+- Poids, taille, **IMC**  
+Surpoids, obésité, syndrome métabolique.
 - Signes d'insuffisance hépatique
 - Signes de cirrhose
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Sérologie hépatite C
+### Sérologie hépatite C et co-infections VHB et VIH
 
+{{%warning%}}Le dépistage VHB-VHC-VIH doit être combiné (*AFEF*){{%/warning%}}
+
+- Positive  
+Nécessité de sérologie de contrôle et charge virale (RT-PCR) VHC.
 - Négative  
 Pas d'infection par le VHC, sauf infection récente ou immunodépression sévère (voir Conduite à tenir).
-- Positive  
-Nécessité de sérologie de contrôle et RT-PCR VHC.
 
-### RT-PCR VHC (ou charge virale)
+[Remboursée à 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=3784&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI).
 
-Systématique lorsque 2 sérologies sont positives (ou 1 TROD+ + 1 sérologie+).
+Ou TROD VHC au plus près du patient (remboursé à 100%).
+
+### Charge virale VHC
+
+Systématique lorsque 2 sérologies sont positives (ou 1 TROD+ + 1 sérologie+).  
+[Remboursée à 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=4124&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI).
 
 ### Bilan si diagnostic positif
 
 - Sérologie VIH et VHB
 - NFS-plaquettes
 - INR
-- créatininémie et clairance CDK-EPI
+- Créatininémie et clairance CDK-EPI
 - ASAT, ALAT, GGT, PAL, bilirubine totale
 - Albuminémie
 - Glycémie à jeun
@@ -109,8 +137,8 @@ Par le spécialiste. Test non invasif en 1<sup>re</sup> intention.
 ### Mesures générales
 
 - Déclarer l'ALD 6
-- Proscire toute interaction avec les antiviraux ([Outil en ligne HEP Drug Interactions](https://www.hep-druginteractions.org/checker))  
-Enquête sur l'automédication++
+- Proscrire toute interaction avec les antiviraux ([Outil en ligne HEP Drug Interactions](https://www.hep-druginteractions.org/checker))  
+Enquête sur l'automédication+++.
 - Éviter toute consommation d'alcool
 - Lutte contre surpoids/obésité
 - Équilibre strict d'un diabète
@@ -151,7 +179,7 @@ graph TB
   serologie[Sérologie VHC] --> serologie+(Positive)
   style serologie stroke:#006ef4, stroke-width:1px
   serologie+ --> controle(Sérologie de contrôle)
-    controle -- Positive --> pcr(RT-PCR VHC<br>Sérologies VIH 1 + 2 + VHB)
+    controle -- Positive --> pcr(Charge virale VHC<br>Sérologies VIH 1 + 2 + VHB)
     controle -- Négative --> controleNegatif(To Do)
     pcr --> mg(Adresser Hépatologue<br>Dépister l'entourage)
   serologie --> serologie-(Négative<br>Diagnostic infirmé)
@@ -166,7 +194,7 @@ graph TB
   trod[TROD VHC] --> trod+(Positif)
   style trod stroke:#006ef4, stroke-width:1px
   trod+ --> serologie(Sérologie VHC)
-    serologie -- Positive --> pcr(RT-PCR sur même prélèvement)
+    serologie -- Positive --> pcr(Charge virale VHC sur même prélèvement)
     pcr --> mg(Adresser Hépatologue<br>Dépister l'entourage)
     serologie -- Négative --> TODO(To Do)
   trod --> trod-(Négatif<br>Diagnostic infirmé)
@@ -179,7 +207,8 @@ graph TB
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
-- [Proposer de participer à la cohorte ComPare](https://compare.aphp.fr/participer/je-participe.html)
+[Hépatites Info Service](https://www.hepatites-info-service.org/hepatite-c/): 0 800 845 800
+
 - Maladie grave pouvant être guérie le plus souvent
 - Les soins liés à la maladie et ses complications sont intégralement remboursés
 - Informations sur les modes de transmission
@@ -191,10 +220,13 @@ graph TB
 - Nécessité de prévenir tous les sujets avec contact à risque
 - Consignes d'hépatoprotection
 - Associations de patients
+- [Proposer de participer à la cohorte ComPare](https://compare.aphp.fr/participer/je-participe.html)
 
 {{% /collapse %}}
-{{%collapse "Source" %}}
+{{%collapse "Sources" %}}
 
-[HAS. Hépatite C : prise en charge simplifiée chez l'adulte. Mars 2019 MAJ Septembre 2019.](https://www.has-sante.fr/jcms/c_2911891/fr/hepatite-c-prise-en-charge-simplifiee-chez-l-adulte)
+- [HAS. Hépatite C : prise en charge simplifiée chez l'adulte. Mars 2019 MAJ Septembre 2019.](https://www.has-sante.fr/jcms/c_2911891/fr/hepatite-c-prise-en-charge-simplifiee-chez-l-adulte)
+- [AFEF, SPILF. Recommandations AFEF pour l'élimination de l'infection par le virus de l'hépatite C en France. Mars 2018.](https://afef.asso.fr/wp-content/uploads/2018/06/VF-INTERACTIF-RECO-VHC-AFEF-v2103.pdf)
+- [Hépatites Info Service](https://www.hepatites-info-service.org/hepatite-c/)
 
 {{% /collapse %}}

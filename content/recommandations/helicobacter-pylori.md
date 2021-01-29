@@ -7,10 +7,10 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = ""
 date = 2020-12-02T15:14:41+02:00
 publishdate = 2020-12-02
-lastmod = 2021-01-22
+lastmod = 2021-01-29
 specialites = ["hepato-gastro-enterologie"]
 annees = "2017"
-sources = ["HAS", "GEFH"]
+sources = ["GEFH", "HAS", "SNFGE"]
 tags = ["B12", "bariatrique", "carence martiale", "depistage", "EOGD", "gastrite", "IPP"]
 anglais = ["Helicobacter pylori"]
 sctid = "80774000"
@@ -311,6 +311,7 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 - [HAS. Helicobacter pylori : recherche et traitement. 26/03/2019](https://www.has-sante.fr/jcms/c_2911396/fr/helicobacter-pylori-recherche-et-traitement)
 - [HAS et CNPHGE. Diagnostic de l’infection par Helicobacter pylori chez l’adulte. Mai 2017.](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
 - [HAS et CNPHGE. Traitement de l’infection par Helicobacter pylori chez l’adulte. Mai 2017.](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf)
+- [SNFGE. Infection à Helicobacter pylori de l'adulte. Conseil de pratique. Juin 2015.](https://www.snfge.org/sites/default/files/recommandations/cp011-infection-a-helicobacter-pylori-de-ldulte_2015-06.pdf)
 - [HAS. Dépistage de l’infection à Helicobacter pylori. Avril 2010.](https://www.has-sante.fr/upload/docs/application/pdf/2010-08/synthese_-_depistage_de_linfection_a_helicobacter_pylori.pdf)
 
 {{% /collapse %}}

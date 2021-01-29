@@ -6,7 +6,7 @@ synonyms = ["Accident ischémique transitoire", "infarctus cérébral"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-25T14:04:00+02:00
 publishdate = 2021-01-25
-lastmod = 2021-01-26
+lastmod = 2021-01-29
 specialites = ["neurologie"]
 annees = "2018"
 sources = ["HAS"]
@@ -86,7 +86,7 @@ Si patient appelle au cabinet, transférer l'appel au 15 et essayer de rester en
   - Glycémie capillaire
   - ECG si disponible
   - Échelle NIHSS (voir plus bas)
-  - Préciser si contre-indications à la  (voir chap. suivant *CI à la thrombolyse*)
+  - Préciser si contre-indications à la thrombolyse (voir chap. suivant *CI à la thrombolyse*)
 - Personnes contact
 
 ### Score NIHSS
@@ -142,13 +142,13 @@ Si non cardioembolique (voire clopidogrel).
   - Molécules: thiazidiques, IEC, dihydropyridines.
 - LDL
   - **Cible < 1g/L**
-  - Cible plus stricte si haut risque ou très haut risque (antécédent cardiaque, rénal, [diabète](< relref "diabete-type-2.md" >))
+  - Cible plus stricte si haut risque ou très haut risque (antécédent cardiaque, rénal, [diabète]({{< relref "diabete-type-2.md" >}}))
 - Arrêt du tabac
 - Arrêt de l'alcool
 - Perte de poids si surpoids
 - HbA1c
   - Cible < 8% en AVC récent < 6 mois
-  - Après 6 mois, cible [réadaptée selon le profil](< relref "diabete-type-2.md" >) (souvent 7%)
+  - Après 6 mois, cible [réadaptée selon le profil]({{< relref "diabete-type-2.md" >}}) (souvent 7%)
 - ALD  
 Si séquelles neurologique nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.
 
@@ -173,13 +173,36 @@ Si maladie thrombo-embolique veineuse concomitante: anticoagulation.
 
 Selon les résultats du bilan spécialisé cardiologique et neurologique.
 
-### Rééducation
+{{% /collapse %}}
+{{%collapse "Rééducation post AVC" %}}
 
-{{%info%}}Il est recommandé de débuter la rééducation motrice dès que possible. (*HAS 2012*){{%/info%}}
+### Rééducation motrice de l'AVC
 
-#### Séquelles
+{{%info%}}Il est recommandé de débuter la rééducation motrice dès que possible avec poursuite au long cours. (*HAS 2012*){{%/info%}}
 
-Des exercices plus longs améliorent les performances de la marche.
+Les auto-exercices sont recommandés.  
+Le dossier de soin est partagé entre intervenants.
+
+#### À distance
+
+- Rééducation intensive de la marche dès que possible  
+  - Des exercices prolongés améliorent les performances de la marche.
+  - Rééducation de la mise en charge et de l’équilibre.
+  - Goniofeedback du genou pour améliorer la marche.
+  - Myofeedback pour améliorer la marche.
+  - Stimulation électrique fonctionnelle pour la marche.
+  - Rééducation tâche orientée (répétition) pour la marche.
+  - Orthèse de marche en cas d’insuffisance de la commande.
+  - Aide technique de marche, avec apprentissage personnalisé.
+  - Entraînement électromécanique de la marche sans kiné.
+- Membres supérieurs
+  - Myofeedback et stimulation électrique fonctionnelle.
+  - Contrainte induite.
+  - Entraînement par robot et traitement conventionnel.
+- Pratiquer un activité physique et gymnique
+- Renforcement musculaire
+- Approches neurophysiologiques
+- Imagerie mentale motrice associée à d’autres traitements
 
 {{% /collapse %}}
 {{%collapse "Éducation de la population et des personnes à risque" %}}

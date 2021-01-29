@@ -54,14 +54,14 @@ La vaccination prévient 90% des infections causant ces cancers.
 
 - Condylomes
 - Cancer du col de l'utérus  
-{{%class%}}Tous les cancers du col sont dus aux HPV.{{%/class%}}
+{{%class "text-black-secondary" %}}Tous les cancers du col sont dus aux HPV.{{%/class%}}
 - Cancer du vagin
 - Cancer de la vulve
 - Cancer de l'anus et du canal anal  
-360 annuels, incidence augmente de 5,8%/an sur la période 2010-2018 (Inca).
+{{%class%}}360 cas annuels, incidence augmente de 5,8%/an sur la période 2010-2018 (Inca).{{%/class%}}
 - Cancer du rectum
 - Cancer du pénis  
-90 cas annuels.
+{{%class%}}90 cas annuels.{{%/class%}}
 - Cancer du pharynx
 
 Cancer (carcinome épidermoïde) et lésions précancéreuses sous-entendues.
