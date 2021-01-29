@@ -1,7 +1,7 @@
 <!-- Title Tags -->
 {{ $metaTitle := "" }}
 {{ if eq .Section "recommandations" }}
-  {{ $metaTitle = (printf "%s %s %s" .Params.Title ": Recommandations 2021 -" $.Site.Title ) }}
+  {{ $metaTitle = (printf "%s %s %s" .Title ": Recommandations 2021 -" $.Site.Title ) }}
 {{ else }}
   {{ $metaTitle = (printf "%s %s %s" .Title "-" $.Site.Title ) }}
 {{ end }}
@@ -23,7 +23,6 @@
   {{ $metaDescription = $.Site.Params.description }}
 {{ end }}
 <meta name="description" content="{{ $metaDescription }}">
-<!--<meta itemprop="description" content="{{ $metaDescription }}">-->
 <meta property="og:description" content="{{ $metaDescription }}">
 <meta name="twitter:description" content="{{ $metaDescription }}">
 
@@ -158,10 +157,10 @@
 <link rel="icon" href="{{ .Site.BaseURL }}favicon.ico">
 
 <!-- Crawlers -->
-{{ if and (eq .Kind "taxonomy") (eq .Type "specialites")}}
-<meta name="robots" content="noindex, follow"/>
+{{ if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+<meta name="robots" content="noindex, follow">
 {{ else }}
-<meta name="robots" content="index, follow"/>
+<meta name="robots" content="index, follow">
 {{ end }}
 
 <!--TODO: Others -->

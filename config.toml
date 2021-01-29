@@ -34,10 +34,14 @@ title = "L'Université Médicale"
 [related.indices]
   name = "specialites"
 
+# https://gohugo.io/templates/output-formats/#output-formats-for-pages
 # search https://learn.netlify.app/en/basics/configuration/
 [outputs]
+  page = ["HTML"]
   home = ["HTML", "RSS", "JSON"]
   section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
 
 # Dependencies
 [params.cdn]
