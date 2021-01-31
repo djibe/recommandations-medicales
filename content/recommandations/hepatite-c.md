@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-06T20:18:41+02:00
 publishdate = 2020-09-06
-lastmod = 2021-01-29
+lastmod = 2021-01-31
 specialites = ["infectiologie"]
 annees = "2019"
 sources = ["AFEF", "HAS"]
@@ -23,9 +23,12 @@ todo = "hépatoprotection"
 
 {{%article-summary%}}
 
-- Maladie guérissable.
+- Maladie guérissable (> 90%).
 - Dépister largement (voir *Qui dépister?*).
-- Prise en charge spécialisée ou par tout médecin pour obtenir une éradication d'ici 2025.
+- Tout médecin pour prescrire les antiviraux.
+- Évaluation des comorbidités, interactions médicamenteuses et de la fibrose avant le traitement.
+- Traitement par Epclusa® ou Maviret® pendant respectivement 12 ou 8 semaines.
+- Surveillance chronique de la cirrhose et de la charge virale (guérison, réinfection).
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -94,9 +97,10 @@ Soins à la naissance en néonatalogie ou en pédiatrie (grand prématuré, exsa
 - Consommation d'alcool  
 Questionnaires [AUDIT](http://test-addicto.fr/tests/alcool/audit.html), [CAGE-DETA](https://test-addicto.fr/tests/alcool/deta-cage.html) ou [FACE](http://test-addicto.fr/tests/alcool/questionnaire-face.html).
 - Consommation de drogues
+- Comorbidités majeures pour le traitement  
+HTA, diabète, dyslipidémie et surpoids.
 - Rapports sexuels à risque
 - Antécédents de transfusion
-- Diabète
 
 ### Examen clinique
 
@@ -130,8 +134,8 @@ Systématique lorsque 2 sérologies sont positives (ou 1 TROD+ + 1 sérologie+).
 
 ### Bilan si diagnostic positif
 
-- Sérologie VIH
-- Ag Hbs, anticorps anti-HBs, anticorps anti-HBc
+- Sérologie VIH et Ag Hbs, anticorps anti-HBs, anticorps anti-HBc  
+Normalement déjà recherchés au dépistage.
 - NFS-plaquettes
 - INR
 - Créatininémie et clairance CDK-EPI
@@ -196,8 +200,9 @@ Enquête sur l'automédication+++.
 
 ### Antiviraux d'Action Directe (AAD) du VHC
 
-Tout médecin peut prescrire les AAD.  
-Mesure de la charge virale obligatoire avant de débuter le traitement.
+**Tout médecin peut prescrire les antiviraux**.  
+Mesure de la charge virale obligatoire avant de débuter le traitement.  
+Taux de guérison > 90%.
 
 Traitement au choix:
 
@@ -205,6 +210,8 @@ Traitement au choix:
 Epclusa® 400/100 mg 1 cp par jour.
 - [Maviret®](https://ec.europa.eu/health/documents/community-register/2020/20200303147380/anx_147380_fr.pdf) (glécaprévir + pibrentasvir) pendant 8 semaines  
 Maviret® 100/40 mg 3 cp en 1 prise quotidienne lors d'un repas.
+
+**Effets indésirables principaux:** asthénie, céphalées, nausées d'intensité modérée, atteignant 10% des patients.
 
 {{%info%}}
 Contrôle de la charge virale VHC 12 semaines après la fin du traitement.  
@@ -224,12 +231,14 @@ Adresser au gastro-entérologue lorsque les conditions d'accès aux soins le per
 {{% /collapse %}}
 {{% collapse "Surveillance" %}}
 
+Surveillance à vie.
+
 - Surveillance adaptée au traitement
 - Contrôle de la charge virale VHC 12 semaines après la fin du traitement.
 - Si persistance de conduites à risque: charge virale annuelle.
-- Persistance des mesures d'hépatoprotection  
+- Mesures d'hépatoprotection à vie  
 Alcool, syndrome métabolique, automédication.
-- Comportements à risque
+- Surveillance de la cirrhose
 
 {{% /collapse %}}
 {{% collapse "Conduite à tenir" "show" %}}

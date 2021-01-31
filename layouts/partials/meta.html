@@ -18,7 +18,7 @@
 <!-- TODO: Description Tags 50-160 ch -->
 {{ $metaDescription := "" }}
 {{ if eq .Section "recommandations" }}
-  {{ $metaDescription = (printf "%s %s%s %s %s%s" "Recommandations pour" .Params.Prefix .Params.Title "en médecine générale. Conduite à tenir en consultation et bilan de première intention pour" .Params.Prefix .Params.Title ) }}
+  {{ $metaDescription = (printf "%s %s%s %s" "Recommandations pour" .Params.Prefix .Params.Title "en médecine générale. Conduite à tenir en consultation et bilan de première intention." ) }}
 {{ else if .Description }}
   {{ $metaDescription = .Params.description }}
 {{ else }}
@@ -70,7 +70,7 @@
 
 {{ if eq .Section "recommandations" }}
   {{ with .Params.auteurs }}
-    <meta property="article:author" content="{{ index . 0 }}">
+    <meta property="article:author" content="{{ index . 0 }}"> <!-- https://www.facebook.com/jeanbaptiste.fron -->
     <meta name="author" content="{{ index . 0 }}">
   {{ end }}
 
