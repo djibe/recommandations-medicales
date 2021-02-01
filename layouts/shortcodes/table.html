@@ -12,7 +12,7 @@
 {{ $htmlTable := replace $htmlTable $old $new }}
 {{ $htmlTable := replaceRE "align=\"([a-z]+)\"" "style=\"text-align: $1\"" $htmlTable }}
 
-<div class="data-table" role="region" tabindex="0" {{ if $title }}{{ printf "aria-labelledby=table-caption-%s" $id | safeHTMLAttr }}{{ end }}>
+<div class="data-table" role="region" tabindex="0" {{ if $title }}{{ printf "aria-labelledby=\"table-caption-%s\"" $id | safeHTMLAttr }}{{ end }}>
   {{ $htmlTable | safeHTML }}
 </div>
 

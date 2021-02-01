@@ -22,7 +22,7 @@ todo = "https://radiopaedia.org/articles/osteoarthritis-of-the-knee?lang=gb"
 {{%article-summary%}}
 
 - Risque cardiovasculaire par sédentarité
-- Maintient de l'activité physique
+- Maintien de l'activité physique
 - Traitement de la crise: AINS topiques, per os, infiltrations
 - Chirurgie en résistance au traitement et altération de la qualité de vie
 

@@ -2,10 +2,14 @@
 {{ $metaTitle := "" }}
 {{ if .IsHome }}
   {{ $metaTitle = (printf "%s : Dernières recommandations médicales au cabinet" $.Site.Title ) }}
-{{ else if (eq .Section "recommandations") }}
-  {{ $metaTitle = (printf "%s %s" .Title ": Recommandations 2021 - UnivMédicale" ) }}
+{{ else if and (eq .Section "recommandations") (eq .Kind "page") }}
+  {{ if lt (len .Title) 37 }}
+    {{ $metaTitle = ( printf "%s %s" .Title ": Recommandations 2021 - UnivMédicale" ) }}
+  {{ else }}
+    {{ $metaTitle = ( printf "%s %s" .Title ": Recommandations 2021" ) }}
+  {{ end }}
 {{ else }}
-  {{ $metaTitle = (printf "%s %s %s" .Title "-" $.Site.Title ) }}
+  {{ $metaTitle = ( printf "%s %s %s" .Title "-" $.Site.Title ) }}
 {{ end }}
 
 <title itemprop="name">{{ $metaTitle }}</title>
@@ -15,9 +19,9 @@
 <meta name="application-name" content="{{ $.Site.Title }}">
 <meta property="og:site_name" content="{{ $.Site.Title }}">
 
-<!-- TODO: Description Tags 50-160 ch -->
+<!-- Description Tags 50-160 ch -->
 {{ $metaDescription := "" }}
-{{ if eq .Section "recommandations" }}
+{{ if and (eq .Section "recommandations") (eq .Kind "page") }}
   {{ $metaDescription = (printf "%s %s%s %s" "Recommandations pour" .Params.Prefix .Params.Title "en médecine générale. Conduite à tenir en consultation et bilan de première intention." ) }}
 {{ else if .Description }}
   {{ $metaDescription = .Params.description }}
@@ -53,15 +57,16 @@
   <meta name="twitter:image:alt" content="Logo de {{ .Site.Title }}">
 {{ end }}
 
-<!-- Date Tags, Sitemap & RSS Feed Tags -->
-<meta property="og:updated_time" content={{ .Lastmod.Format "2006-01-02T15:04:05Z0700" }}>
+<!-- Sitemap & RSS Feed -->
 <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}sitemap.xml"> 
 <link href="{{ .Site.BaseURL }}index.xml" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }} - Dernières recommandations">
 
 <!-- Article tags https://jsonld.com/article/ -->
-{{ if (eq .Section "recommandations") }}
-  {{ if .IsPage }}
+{{ $ISO8601 := "2006-01-02T15:04:05-07:00" }}
+{{- if (eq .Section "recommandations") -}}
+  {{- if .IsPage -}}
     <meta property="og:type" content="article">
+    <meta property="og:updated_time" {{ .Lastmod.Format $ISO8601 | printf "content=%q" | safeHTMLAttr }}>
     <meta property="article:published_time" content="{{ .Date.Format "2006-01-02" }}">
   {{ end }}
 {{ else }}
@@ -79,7 +84,6 @@
     <meta property="article:section" content="{{ index . 0 }}">
   {{ end }}
 
-  {{ $ISO8601 := "2006-01-02T15:04:05-07:00" }}
   {{ $name := (printf "%s%s" .Params.prefix .Title | safeJS) }}
   <script type="application/ld+json">
     {

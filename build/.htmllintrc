@@ -43,9 +43,7 @@
   "link-req-noopener": false,
   "spec-char-escape": false,
   "table-req-header": false,
-  "tag-bans": [
-    "b"
-  ],
+  "tag-bans": [],
   "tag-close": false,
   "tag-name-match": true,
   "tag-self-close": false,
