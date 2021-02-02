@@ -281,9 +281,9 @@ graph TB
 {{%collapse Sources %}}
 
 - [Mooijaart SP et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 30 oct 2019;1‑11.](https://jamanetwork.com/journals/jama/fullarticle/2753909)
-- [HAS. Hypothyroïdie – pertinence des soins. Mars 2019](https://www.has-sante.fr/portail/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)
-- [ANSM. Médicaments à base de lévothyroxine. 31/10/2018](https://ansm.sante.fr/S-informer/Actualite/Medicaments-a-base-de-levothyroxine-Point-de-suivi-de-la-diversification-de-l-offre-therapeutique)
-- [S. Laboureau-Soares et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8](https://www.em-select.com/article/224074)
+- [HAS. Hypothyroïdie – pertinence des soins. Mars 2019.](https://www.has-sante.fr/portail/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)
+- [ANSM. Médicaments à base de lévothyroxine. 31/10/2018.](https://ansm.sante.fr/S-informer/Actualite/Medicaments-a-base-de-levothyroxine-Point-de-suivi-de-la-diversification-de-l-offre-therapeutique)
+- [S. Laboureau-Soares et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8.](https://www.em-select.com/article/224074)
 - Prescrire 2015
 
 {{% /collapse %}}

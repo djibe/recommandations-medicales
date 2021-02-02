@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "hépatoprotection"
+todo = "prescription fibrotest, remboursement des tests, hépatoprotection"
 
 +++
 
@@ -200,6 +200,9 @@ Enquête sur l'automédication+++.
 
 ### Antiviraux d'Action Directe (AAD) du VHC
 
+{{%info%}}Epclusa® 400/100 mg 1 cp par jour pendant 12 semaines  
+ou Maviret® 3cp en 1 prise par jour, pendant le repas, pendant 8 semaines.{{%/info%}}
+
 **Tout médecin peut prescrire les antiviraux**.  
 Mesure de la charge virale obligatoire avant de débuter le traitement.  
 Taux de guérison > 90%.
@@ -271,7 +274,7 @@ graph TB
   trod+ --> serologie(Sérologie VHC)
     serologie -- Positive --> pcr(Charge virale VHC<br>sur même prélèvement)
     pcr --> mg(Envisager traitement<br>simplifié)
-    serologie -- Négative --> TODO(???)
+    serologie -- Négative --> trod-
   trod --> trod-(Négatif<br>Diagnostic infirmé)
     trod- -.-> infRecente("Suspicion d'infection<br>récente")
     infRecente -- 3 mois --> 3mois(Sérologie VHC<br>ou TROD)

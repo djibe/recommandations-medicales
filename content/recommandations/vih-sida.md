@@ -16,7 +16,7 @@ sctid = "86406008"
 draft = false
 image = true
 imageSrc = "Photo de NIAID sur Foter.com / CC BY"
-todo = "TODO: prophylaxie pré-exposition (PrEP), CAT en urgence, suivi, Gardasil 3 doses 11-19, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, lutte tabac et cannabis CNS 2017"
+todo = "TODO: prophylaxie pré-exposition (PrEP), CAT en urgence, suivi, Gardasil 3 doses 11-19, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, lutte tabac et cannabis CNS 2017, https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih"
 +++
 
 {{%article-summary%}}

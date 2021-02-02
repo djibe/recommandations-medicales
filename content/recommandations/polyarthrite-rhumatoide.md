@@ -14,7 +14,7 @@ tags = ["polyarthrite", "anti-TNF", "methotrexate"]
 anglais = ["Rheumatoid arthritis"]
 sctid = "69896004"
 draft = false
-todo = "1re ordo, scores"
+todo = "1re ordo, scores, https://www.has-sante.fr/jcms/c_664454/fr/ald-n-22-polyarthrite-rhumatoide-evolutive-grave"
 +++
 
 {{%article-summary%}}
@@ -155,7 +155,7 @@ Confirme synovite dans certains cas. Peut être complété par l'IRM.
 **La décision du traitement dépend du rhumatologue, partagée avec le patient.**
 
 - Déclaration à 100%  
-ALD 22-Polyarthrite évolutive.
+ALD 22: Polyarthrite évolutive.
 - AINS  
 Si symptomatique et état rénal ou cardio-vasculaire correct.
 - **Éducation thérapeutique**  
