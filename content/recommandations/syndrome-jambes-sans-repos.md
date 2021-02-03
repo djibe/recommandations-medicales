@@ -242,5 +242,3 @@ Arthrite, blessure de jambe.
 Volume 16, Issue 2, 2019, Pages 97-105.](https://doi.org/10.1016/j.msom.2018.10.002)
 
 {{% /collapse %}}
-
-≤≥±®œŒ
