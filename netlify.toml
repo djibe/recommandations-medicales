@@ -5,7 +5,7 @@ command = "hugo --cleanDestinationDir --gc --minify"
 [context.production.environment]
 HUGO_VERSION = "0.80.0"
 HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
+HUGO_ENABLEGITINFO = "false"
 
 [context.split1]
 command = "hugo --gc --minify"
@@ -27,7 +27,7 @@ command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 HUGO_VERSION = "0.80.0"
 
 [context.next.environment]
-HUGO_ENABLEGITINFO = "true"
+HUGO_ENABLEGITINFO = "false"
 
 [[headers]]
   for = "*.html*"
