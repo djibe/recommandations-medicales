@@ -15,7 +15,7 @@ anglais = ["Precocious puberty"]
 sctid = "400179000"
 draft = false
 flowchart = true
-todo = "Avances pubertaires dissociées"
+todo = "https://pap-pediatrie.fr/endocrinologie/puberte-precoce, Avances pubertaires dissociées"
 +++
 
 {{%article-summary%}}
@@ -36,7 +36,7 @@ Puberté normale
 
 Puberté précoce (PP)
 : Le diagnostic est clinique, défini par l'âge d'apparition des caractères sexuels (CS II): Fille < 8 ans et garçon < 9,5 ans.
-: La puberté précoce atteint surtout les filles (4,5 / 1) avec pour origine une tumeur dans 40% des cas (Klein. JCEM 86).
+: La puberté précoce atteint surtout les filles (4,5/1) avec pour origine une tumeur dans 40% des cas (Klein. JCEM 86).
 
 La survenue précoce de la puberté est associée à une maturation sexuelle plus rapide et plus marquée du développement physique.  
 **Âge osseux >> Âge statural > Âge chronologique**
@@ -144,7 +144,7 @@ Réservé au spécialiste avec **test LHRH**.
 ### IRM hypophysaire
 
 Prescrite par le spécialiste.  
-Étude du volume hyophysaire et recherche syndrome tumoral supra sellaire.
+Étude du volume hypophysaire et recherche syndrome tumoral supra sellaire.
 
 {{%warning%}}
 Indications à l'IRM en semi-urgence:
@@ -209,7 +209,7 @@ graph TB
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [SFE. Polycopié des enseignants en endocrinologie - Puberté normale et pathologique.](http://sfendocrino.org/article.php?id=712)
+- [Société Française d'Endocrinologie. Polycopié des enseignants en endocrinologie - Puberté normale et pathologique.](http://sfendocrino.org/article.php?id=712)
 - [Collège National des Pédiatres Universitaires. Puberté normale et pathologique.](http://campus.cerimes.fr/media/campus/deploiement/pediatrie/enseignement/puberte_normale/site/html/1.html)
 - [Pienkowski C. et al. La puberté avant l’âge - Nouveaux aspects.](http://www.medecine.ups-tlse.fr/desc/fichiers/Puberte%20precoce.pdf)
 

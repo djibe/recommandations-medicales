@@ -19,15 +19,18 @@ imageSrc = "Photo de ZEISS Microscopy sur Foter.com / CC BY-SA"
 todo = "TODO: HbA1C, LDL"
 +++
 
-Cette page est en construction
+*Cette page est en construction*
 
 {{%collapse "Cibles de marqueurs biologiques" "show" %}}
 
-{{< table title="Objectifs sériques de nutriments et marqueurs de risque cardiovasculaires" >}}
+{{< table title="Synthèse des recommandations des objectifs sériques des nutriments et marqueurs de risque cardiovasculaires" >}}
 | Élément      | Population concernée | Cible de concentration | Source |
 |--------------|----------------------|------------------------|--------|
-| Ferritinémie | Femme jeune<br>Grossesse | > 50 ng/mL<br>> 80 ng/mL | CNGOF |
-| HbA<sub>1C</sub> | DT2 récent<br>DT2 | < 6,5%<br>7%          | SFDiabete |
+| Ferritinémie | Femme jeune          | > 50 ng/mL             | CNGOF  |
+| Ferritinémie | Grossesse            | > 80 ng/mL             | CNGOF  |
+| Ferritinémie | SJSR                 | > 75 ng/mL             | SFRMS 2019 |
+| HbA<sub>1C</sub> | DT2 récent<br>DT2 | < 6,5%                | SFDiabete 2019 |
+| HbA<sub>1C</sub> | DT2              | 7%                     | SFDiabete 2019 |
 | Uricémie     | Goutte               | < 50 mg/L              | SFRhumato 2020 |
 | VDRL         | M6 post-PéniG<br>M12 post-PéniG | Taux /4<br>Négatif | SFDermato 2016 |
 | Vitamine D   | Adulte<br>≥ 65 ans   | > 50 nmol/L<br>> 75 nmol/L | Annweiler C 2018 |

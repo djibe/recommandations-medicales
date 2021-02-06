@@ -16,7 +16,7 @@ sctid = "32914008"
 draft = true
 image = false
 imageSrc = ""
-todo = "Tremblement orthostatique, painful legs and moving toes, Insuffisance rénale est diag diff?"
+todo = "Tremblement orthostatique, painful legs and moving toes, Insuffisance rénale est diag diff?, orga perf quand fer po non toléré"
 +++
 
 {{%article-summary%}}

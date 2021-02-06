@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-06T20:18:41+02:00
 publishdate = 2020-09-06
-lastmod = 2021-01-31
+lastmod = 2021-02-06
 specialites = ["infectiologie"]
 annees = "2019"
 sources = ["AFEF", "HAS"]
@@ -48,6 +48,8 @@ Des médicaments antiviraux permettent une guérison totale dans la grande major
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
+
+### L'hépatite C en France
 
 - 2700 morts par an en France
 - 1 personne sur 2 n'est pas diagnostiquée
@@ -124,6 +126,8 @@ Nécessité de sérologie de contrôle et charge virale (RT-PCR) VHC.
 Pas d'infection par le VHC, sauf infection récente ou immunodépression sévère (voir Conduite à tenir).
 
 Ou TROD VHC au plus près du patient (remboursé à 100%).
+
+**NB.** Dépistage tous les 3 à 6 mois en cas de VIH (*HAS 2018*).
 
 ### Charge virale VHC
 
@@ -312,6 +316,7 @@ graph TB
 {{%collapse "Sources" %}}
 
 - [HAS. Hépatite C : prise en charge simplifiée chez l'adulte. Mars 2019 MAJ Septembre 2019.](https://www.has-sante.fr/jcms/c_2911891/fr/hepatite-c-prise-en-charge-simplifiee-chez-l-adulte)
+- [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
 - [AFEF, SPILF. Recommandations AFEF pour l'élimination de l'infection par le virus de l'hépatite C en France. Mars 2018.](https://afef.asso.fr/wp-content/uploads/2018/06/VF-INTERACTIF-RECO-VHC-AFEF-v2103.pdf)
 - [Fourcher J., Rosa I. Traitement de l'hépatite C en 2018. POST'U 2018 Paris](https://www.fmcgastro.org/texte-postu/postu-2018-paris/traitement-de-lhepatite-c-en-2018/)
 - [Hépatites Info Service](https://www.hepatites-info-service.org/hepatite-c/)
