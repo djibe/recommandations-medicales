@@ -5,12 +5,11 @@
 
   {{ partial "meta" . }}
 
-  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
   <link rel="preconnect" href="https://cdn.jsdelivr.net/" crossorigin>
 
-  <!-- CSS -->
-  <link rel="preload" href="{{ .Site.Params.cdn.md_font | safeURL }}" as="style" crossorigin>
-  <link rel="stylesheet" href="{{ .Site.Params.cdn.md_font | safeURL }}" crossorigin>
+  {{ partial "font" . }}
+
+  <!--<link rel="stylesheet" href="{{ .Site.Params.cdn.md_font | safeURL }}" crossorigin>-->
   {{ $sass := "" }}
   {{ if hugo.IsProduction }}
     {{ $sass = resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint }}

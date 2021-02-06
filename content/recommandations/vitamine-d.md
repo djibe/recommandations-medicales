@@ -174,7 +174,7 @@ Intensification si:
 {{%collapse "Spécialités de cholécalciférol disponibles" %}}
 
 <ul class="list-group" style="max-width: 360px">
-  {{< list-item title="Ampoule" subtitle="Cholécalciférol 200, 100, 80 ou 50.000 UI" >}}
+  {{< list-item title="Ampoule" subtitle="Cholécalciférol 200, 100, 80 ou 50.000 UI (Uvédose ou autre)" >}}
   {{< list-item title="Capsule molle" subtitle="Kipos 100.000 UI" >}}
   {{< list-item title="Gouttes" subtitle="Adrigyl 333 UI/goutte" >}}
 </ul>

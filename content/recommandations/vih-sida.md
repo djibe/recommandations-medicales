@@ -15,7 +15,7 @@ anglais = ["Human immunodeficiency virus infection"]
 sctid = "86406008"
 image = true
 imageSrc = "Photo de NIAID sur Foter.com / CC BY"
-todo = "TODO: verif def, prophylaxie pré-exposition (PrEP), CAT en urgence, suivi, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, lutte tabac et cannabis CNS 2017, https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih"
+todo = "TODO: verif def, prophylaxie pré-exposition (PrEP), CAT en urgence, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih"
 +++
 
 {{%article-summary%}}
@@ -197,7 +197,8 @@ Encourager la prise maximale.
 et suivi de l'IMC.
 - Interactions alimentaires  
 Compléments alimentaires hyperprotéinés, millepertuis, jus de pamplemousse, kaolin...
-- Addictions
+- Addictions  
+Lutte tabac et cannabis, alcool, psychotropes.
 - Vaccinations multiples (voir *Vaccinations spécifiques au cours du VIH*)
 - Rechercher une dépression, démence
 - Santé sexuelle

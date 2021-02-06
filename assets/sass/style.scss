@@ -1,5 +1,9 @@
 @import '../css/material';
 
+@font-face {
+  unicode-range: U+0020-007F, U+0100-017F;
+}
+
 html,
 body {
   height: 100vh;

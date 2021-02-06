@@ -147,8 +147,8 @@ Si non cardioembolique (voire clopidogrel).
 - Arrêt de l'alcool
 - Perte de poids si surpoids
 - HbA1c
-  - Cible < 8% en AVC récent < 6 mois
-  - Après 6 mois, cible [réadaptée selon le profil]({{< relref "diabete-type-2.md" >}}) (souvent 7%)
+  - Cible < 8% en AVC récent (< 6 mois)
+  - Après 6 mois, [cible réadaptée selon le profil]({{< relref "diabete-type-2.md" >}}) (souvent 7%)
 - ALD  
 Si séquelles neurologique nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.
 
