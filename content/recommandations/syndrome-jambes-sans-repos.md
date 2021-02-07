@@ -56,9 +56,9 @@ Tremblement orthostatique primaire
 
 ### Abréviations
 
-**IRLS:** {{%lang%}}IRLSSSG rating scale{{%/lang%}}
-**IRLSSG:** {{%lang%}}International Restless Legs Syndrome Study Group{{%/lang%}}
-**MPM:** Mouvements périodiques des membres
+**IRLS:** {{%lang%}}IRLSSSG rating scale{{%/lang%}}  
+**IRLSSG:** {{%lang%}}International Restless Legs Syndrome Study Group{{%/lang%}}  
+**MPM:** Mouvements périodiques des membres  
 **SJSR:** Syndrome des jambes sans repos
 
 {{% /collapse %}}

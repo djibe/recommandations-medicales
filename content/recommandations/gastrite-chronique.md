@@ -39,7 +39,7 @@ todo = ""
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](//solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+- [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
 
 {{% /collapse %}}
 
