@@ -15,58 +15,72 @@ anglais = ["Renal failure syndrome"]
 sctid = "42399005"
 draft = false
 flowchart = true
-todo = "etiologie + manque"
+todo = "etiologie + manque, consultation dediee Coter C + ALD ???"
 +++
 
 {{% article-summary %}}
 
 - Dépistage annuel des populations à risque par créatininémie + albuminurie sur échantillon.
 - Le diagnostic est biologique.
-- Néphroprotection: IEC, contrôle strict des facteurs de risque cardiovasculaires.
+- Néphroprotection  
+IEC, contrôle strict des facteurs de risque cardiovasculaires.
 
 {{%/article-summary%}}
-{{%collapse "Définition"%}}
+{{%collapse "Définitions"%}}
 
 Maladie rénale chronique (MRC)
-: Présence d'une **insuffisance rénale chronique**  
+: Présence d'une **insuffisance rénale chronique** (IRC):  
 Diminution du débit de filtration glomérulaire (DFG ou clairance) < 60 mL/min/1,73 m² (formule CKD-EPI)  
-OU présence ≥ 1 **marqueur d'atteinte rénale** persistant plus de 3 mois:
+OU présence ≥ 1 **marqueur d'atteinte rénale** persistant plus de 3 mois:  
+\- Protéinurie ou albuminurie  
+\- Hématurie > 10/mm³ (hors cause urologique)  
+\- Leucocyturie > 10/mm³  
+\- Anomalie morphologique à l’échographie rénale  
+Asymétrie de taille, contours bosselés, reins de petite taille/gros reins polykystiques, néphrocalcinose, kyste.
 
-- Protéinurie ou albuminurie
-- Hématurie > 10/mm<sup>3</sup> (hors cause urologique)
-- Leucocyturie > 10/mm<sup>3</sup>
-- Anomalie morphologique à l’échographie rénale: asymétrie de taille, contours bosselés, reins de petite taille/gros reins polykystiques, néphrocalcinose, kyste
+Insuffisance rénale chronique terminale (IRCT)
+: Insuffisance rénale chronique avec un débit de filtration glomérulaire < 15 mL/min/1,73 m², dite de stade 5 ou terminale.
+
+### Abréviations
+
+**DFG:** Débit de filtration glomérulaire
+Insuffisance rénale chronique terminale ()
+**IRCT:** Insuffisance rénale chronique terminale
 
 ### Épidémiologie
 
-3 millions de français atteints (10 % des adultes).
+3 millions de français atteints d'insuffisance rénale chronique (10% des adultes).
 
-9500 nouveaux dialysés par an, augmentation de 4 %/an, liés aux facteurs de risque cardiovasculaires: hypertension artérielle, diabète pour la moitié des cas.
+9500 nouveaux dialysés par an, augmentation de 4 %/an, liés aux facteurs de risque cardiovasculaires: **hypertension artérielle** et **diabète** pour la moitié des cas.
 
 {{%/collapse%}}
 {{%collapse "Facteurs de risque - Qui dépister?" %}}
 
 Population à risque d'insuffisance rénale chronique définie par la présence d'au moins 1 facteur de risque parmi:
 
-- Diabète
+- [Diabète]({{< relref "diabete-type-2.md" >}})
 - Hypertension artérielle
 - Âge > 60 ans
 - Obésité
 - Athérome
 - Insuffisance cardiaque
-- Maladie de système ou auto-immune (lupus, vascularite, polyarthrite rhumatoïde)
-- Pathologie urologique (uropathie obstructive, infections urinaires récidivantes)
+- Maladie de système ou auto-immune  
+Lupus, vascularite, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}).
+- Pathologie urologique  
+Uropathie obstructive, infections urinaires récidivantes.
 - Antécédents familiaux d'insuffisance rénale chronique terminale (IRCT)
 - Antécédents de néphropathie aiguë
-- Exposition professionnelle au plomb, cadmium, mercure
-- Traitement par néphrotoxiques: produit de contraste iodés, chimiothérapie, radiothérapie
+- Exposition professionnelle  
+[Plomb]({{< relref "saturnisme.md" >}}), cadmium, mercure.
+- Traitement par néphrotoxiques  
+Produit de contraste iodés, chimiothérapie, radiothérapie.
 
-**Le dépistage des populations à risque doit être répété 1 fois par an.**  
+{{%info%}}Le dépistage des populations à risque doit être répété 1 fois par an.{{%/info%}}
 
 ### Comment dépister la maladie rénale chronique ?
 
-- Créatininémie avec débit de filtration glomérulaire (DFG) CKD-EPI.
-- Albuminurie sur échantillon (Albuminurie/créatininurie (A/C). Recueil à tout moment de la journée.
+- Créatininémie avec clairance CKD-EPI.
+- Albuminurie sur échantillon (Albuminurie/créatininurie - A/C). Recueil à tout moment de la journée.
 
 En cas d'anomalie (hématurie, protéinurie, clairance < 60), le bilan doit être **recontrôlé à 3 mois** dans le même laboratoire. La persistance à 3 mois de l'anomalie affirme la maladie rénale chronique.  
 Le recours au néphrologue est recommandé en cas de doute sur la nature de la maladie rénale.
@@ -101,31 +115,40 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 
 Recherche de signes étiologiques et du retentissement de la MRC.
 
-- Poids, taille, IMC, tour de taille, pression artérielle
+- Poids, taille, IMC, tour de taille
+- Pression artérielle
 - ± Auto-mesure tensionnelle
 - Auscultation cardiaque, souffle carotidien/rénal, pouls périphériques
 - Œdèmes, hydratation, reins palpables, signes de maladie de système
-- Urologiques : troubles de la miction, globe vésical, touchers pelvien.
+- Urologiques  
+Troubles de la miction, globe vésical, touchers pelvien.
 
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
 
-Bilan initial au diagnostic de la maladie rénale chronique :
+{{%info%}}
 
-- Échographie rénale  
-Si diabète : et de la vessie avec mesure du résidu post-mictionnel
+Bilan initial au diagnostic de la maladie rénale chronique:
+
+- Échographie rénale
+  - Si diabète: + vessie avec mesure du résidu post-mictionnel
 - NFS
-- créatininémie avec clairance CKD-EPI
+- Créatininémie avec clairance CKD-EPI
 - Ionogramme sanguin, bicarbonates
 - Uricémie
 - Bilan lipidique (de moins d’un an)
-- Glycémie à jeun ou HbA1C
+- Glycémie à jeun ou HbA<sub>1C</sub>
 - Vitamine D
 - Urinaire  
 ECBU + échantillon protéinurie/créatU + albuminurie/créatU
-- Si DFG < 60 : PTH, calcémie, phosphorémie
-- Si DFG < 45 : albuminémie, urémie, AgHBs, anticorps anti-HBs et anti-HBc, urée et sodium sur urines de 24h
-- Si anémie : ferritinémie + CRP
+{{%/info%}}
+
+- DFG < 60  
+PTH, calcémie, phosphorémie.
+- DFG < 45  
+Albuminémie, urémie, AgHBs, anticorps anti-HBs et anti-HBc, urée et sodium sur urines de 24h.
+- Anémie  
+Ferritinémie + CRP.
 
 {{%/collapse %}}
 {{%collapse "Éducation thérapeutique" %}}
@@ -137,8 +160,6 @@ ECBU + échantillon protéinurie/créatU + albuminurie/créatU
 - ses capacités à modifier son mode de vie
 - les freins à une prise en charge efficace (psychologiques, socioprofessionnels)
 - problèmes de santé posés par la maladie
-
-Coter C + ALD ???
 
 ### Connaissances à acquérir
 
@@ -189,7 +210,7 @@ bilan --> 7(Avis néphro)
 {{%/collapse%}}
 {{%collapse "Source" %}}
 
-[HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012](
-//www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
+[HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012.](
+https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
 
 {{%/collapse%}}

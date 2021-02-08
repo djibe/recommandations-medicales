@@ -6,7 +6,7 @@ synonyms = ["Virus de l'immunodéficience humaine"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-16T22:06:00+02:00
 publishdate = 2021-01-16
-lastmod = 2021-02-06
+lastmod = 2021-02-08
 specialites = ["infectiologie"]
 annees = "2017"
 sources = ["CNS", "HAS"]
@@ -15,7 +15,7 @@ anglais = ["Human immunodeficiency virus infection"]
 sctid = "86406008"
 image = true
 imageSrc = "Photo de NIAID sur Foter.com / CC BY"
-todo = "TODO: verif def, prophylaxie pré-exposition (PrEP), CAT en urgence, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih"
+todo = "TODO: rythme suivi min, verif def, prophylaxie pré-exposition (PrEP), CAT en urgence, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih, depistage DT2"
 +++
 
 {{%article-summary%}}
@@ -23,14 +23,15 @@ todo = "TODO: verif def, prophylaxie pré-exposition (PrEP), CAT en urgence, htt
 - Dépister largement
 - Répéter le dépistage chez les populations à risque
 - Dépistages et vaccinations spécifiques
+- Observance et suivi spécialisé
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Virus de l’Immunodéficience Humaine (VIH)
-: Rétrovirus humain sexuellement transmissible qui infecte et prend pour hôte chronique les cellules présentant un récepteur CD4 en surface, immunitaires (lymphocytes T CD4+, macrophages) ou du système nerveux central ( cellules dendritiques, gliales).  
-Après plusieurs années, le système immunitaire est amoindri avec infections opportunistes, le stade SIDA.  
-Il a la capacité de rentrer dans le noyau cellulaire et de s'intégrer dans le génome.
+: Rétrovirus humain sexuellement transmissible qui infecte et prend pour hôte chronique les cellules présentant un récepteur CD4 en surface, immunitaires (lymphocytes T CD4+, macrophages) ou du système nerveux central (cellules dendritiques, gliales).  
+Après plusieurs années, le système immunitaire est amoindri avec infections opportunistes, le *stade SIDA*.  
+Le VIH a la capacité de rentrer dans le noyau cellulaire et de s'intégrer dans le génome.
 
 Syndrome d'immunodéficience acquise (SIDA)
 : Dernier stade de l'infection par le VIH avec disparition des cellules immunitaires CD4+ donnant lieu à des infections opportunistes mortelles.
@@ -50,7 +51,7 @@ Syndrome d'immunodéficience acquise (SIDA)
 70% d'hommes et 2x moins de dépistage chez les hommes.  
 +50% vivraient dans les 3 régions à risque (voir plus bas).
 - **Stade de la maladie au diagnostic:** 40% au stade tardif  
-Soit SIDA ou taux de CD4 ≤ 200/mm<sup>3</sup>.
+Soit SIDA ou taux de CD4 ≤ 200/mm³.
 - **Délai entre infection et diagnostic:** ~3 ans
 - **Régions concernées:** 50% des diagnostics sont faits dans 3 régions  
 Ile-de-France et PACA surtout, puis Rhône-Alpes.
@@ -115,7 +116,7 @@ Plusieurs méthodes de dépistage sont accessibles afin de s'adapter aux populat
 - Laboratoire d'analyses médicales
 
 {{% /collapse %}}
-{{%collapse "Dépistages spécifiques au cours du VIH" %}}
+{{%collapse "Dépistages des cancers et IST au cours du VIH" %}}
 
 ### Dépistage des infections sexuellement transmissibles
 
@@ -129,9 +130,12 @@ Dépistage identique au dépistage généralisé des cancers du sein et du colon
 
 ### Dépistage du cancer du col de l'utérus
 
-Suivi spécifique.
+Tous les 3 ans comme en population générale.  
+CD4+ < 200/mm³: frottis annuel.
 
-> Source *CNS 2017*
+### Dépistage des cancers cutanéo-muqueux
+
+Examen cutanéo-muqueux annuel.
 
 ### Dépistage du cancer de l'anus
 
@@ -157,6 +161,10 @@ En cas d'exposition pendant au moins 1 an à un agent cancérigène vésical.
 
 > Source *CNS 2017*
 
+### Dépistage du lymphome
+
+Palpation des aires ganglionnaires au moins 1/an.
+
 {{% /collapse %}}
 {{%collapse "Vaccinations spécifiques au cours du VIH" %}}
 
@@ -168,7 +176,7 @@ Schéma: 2 Engerix B20® 4 fois à M0, M1, M2, M6.
 Contrôle taux d'anticorps post-vaccinal puis annuel.  
 Rappel si anticorps anti-HBs < 10 UI/mL.
 - [Papillomavirus]({{< relref "papillomavirus.md" >}})  
-Enfants de 11 à 19 ans vivant avec le VIH se fait avec le schéma d'injection en 3 doses:  
+Enfants de 11 à 19 ans vivant avec le VIH par le schéma d'injection en 3 doses:  
 Gardasil 9® à M0, M2 et M6.
 - Pneumocoque
 
@@ -183,13 +191,13 @@ Gardasil 9® à M0, M2 et M6.
 
 [Fiche HAS des points clés du suivi](https://www.has-sante.fr/upload/docs/application/pdf/2018-11/infographie_vih_consultation_de_suivi_medecine_generale_pour_impression_a4.pdf)
 
-{{%info%}}Cette section ne concerne que les patients avec une charge virale indétectable. Le suivi est spécialisé dans le cas contraire.{{%/info%}}
+{{%info%}}Cette section ne concerne que les patients avec une charge virale indétectable.  
+Le suivi est spécialisé dans le cas contraire.{{%/info%}}
 
-- Interactions médicamenteuses  
+- Contrôle des interactions médicamenteuses  
 [HIV Drug Interactions](https://www.hiv-druginteractions.org/checker)
-
 - Liste des derniers examens réalisés lors du bilan annuel de synthèse
-- Vérifier l'observance du traitement ARV  
+- **Observance du traitement ARV**  
 Encourager la prise maximale.
 - Encourager une activité physique régulière
 - Rechercher une fragilité physique, psychique, sociale
@@ -202,10 +210,31 @@ Lutte tabac et cannabis, alcool, psychotropes.
 - Vaccinations multiples (voir *Vaccinations spécifiques au cours du VIH*)
 - Rechercher une dépression, démence
 - Santé sexuelle
-  - Comportements à risque
+  - Comportements à risque  
+  Dépistage hépatite C 1-2/an, sexologue, psychologue.
   - Contexte à risque (alcool, stimulants, chemsex, violences)
   - Importance du préservatif
   - Dépistage régulier des IST (voir *Dépistages spécifiques*)
+- Contraception
+  - Adaptée aux besoins, contrôle des [interactions](https://www.hiv-druginteractions.org/checker)
+  - Informer sur la contraception d'urgence
+- Grossesse  
+Grossesse à risque préparée avec équipe pluridisciplinaire.  
+AMP identique à la population générale.
+- Si (pré-)cirrhose: échographie hépatique x 2/an
+
+### VIH et suivi cardiovasculaire
+
+- VIH est un *facteur de risque cardiovasculaire*  
+Évaluation *SCORE* et pression artérielle contrôlés 1/an.
+- Si maladie cardiovasculaire: risque très élevé
+- Bilan lipidique
+  - Contrôlé tous les 5 ans  
+  - Contrôlé 6 mois après chaque changement d'ARV
+- Bilan rénal
+  - 1/an (2/an si ≥ 2 FR rénal)
+  - En changement d'ARV
+  - Contrôle à 3 mois si anomalie et néphrologue
 
 {{% /collapse %}}
 {{%collapse "Source" %}}

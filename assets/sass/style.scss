@@ -225,6 +225,10 @@ a[href^='http']:not([class])::after {
 
   ul:not([class]) {
     @extend .typography-body-1;
+
+    li {
+      font-size: 1rem;
+    }
   }
 
   .list-group {
@@ -244,12 +248,6 @@ a[href^='http']:not([class])::after {
       padding: .75rem 1rem;
       position: relative;
       transition: background-color 15ms linear;
-
-      /* &:hover, &:focus, &:active {
-        background-color: rgba(0, 0, 0, 0.04);
-        cursor: pointer;
-        text-decoration: none;
-      } */
 
       &:focus {
         background-color: rgba(0, 0, 0, 0.12);

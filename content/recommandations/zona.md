@@ -35,7 +35,7 @@ Zona
 Zona et personne immunodéprimée
 : Intérêt d'éduquer les patients à la reconnaissance des symptômes.  
 Ce sont les principales personnes qui développent des formes compliquée.  
-: **Pathologies pourvoyeuses de zona:** Leucémie aiguë, lymphome en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, VIH (CD4 < 350/mm<sup>3</sup> surtout).
+: **Pathologies pourvoyeuses de zona:** Leucémie aiguë, lymphome en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, VIH (CD4 < 350/mm³ surtout).
 
 ### Zona selon l'âge
 
@@ -91,7 +91,7 @@ Vaccin vivant: Zostavax® (Sanofi, 103,49€, remb. 30% SS).
 
 ### Information des personnes immunodéprimées
 
-**Pathologies pourvoyeuses de zona:** Leucémie aiguë, lymphome en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, VIH (CD4 < 350/mm<sup>3</sup> surtout).
+**Pathologies pourvoyeuses de zona:** Leucémie aiguë, lymphome en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, VIH (CD4 < 350/mm³ surtout).
 
 Informer sur la nécessité de consultation immédiate en cas de survenue de brûlures cutanées ou d'éruption cutanée.
 
