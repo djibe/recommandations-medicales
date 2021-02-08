@@ -206,7 +206,6 @@ a {
 
 a:hover {
   color: #ff8800;
-  text-decoration: underline;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -278,9 +277,8 @@ button {
   border-radius: 0;
 }
 
-button:focus {
-  outline: dotted 1px;
-  outline: -webkit-focus-ring-color auto 5px;
+button:focus:not(:focus-visible) {
+  outline: 0;
 }
 
 input,
@@ -937,7 +935,7 @@ tr.collapse.show {
   margin: 0;
   max-width: 100%;
   min-width: 4rem;
-  outline: none;
+  outline: 0;
   padding: 0 1rem;
   position: relative;
   text-transform: uppercase;
@@ -1158,7 +1156,6 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
 }
 
 .card {
-  background-clip: border-box;
   background-color: #ffffff;
   border-radius: 0;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 2px 1px -1px rgba(0, 0, 0, 0.2);
@@ -1296,6 +1293,10 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
 
 .card-actions .btn-icon:not(:disabled) {
   color: rgba(0, 0, 0, 0.6);
+}
+
+.card-actions > * {
+  z-index: 3;
 }
 
 .card-body {
@@ -1790,6 +1791,7 @@ input:disabled + .chip {
 }
 
 .list-group {
+  background-color: #ffffff;
   border: 1px solid rgba(0, 0, 0, 0.12);
   border-radius: 4px;
   display: flex;
@@ -1801,7 +1803,6 @@ input:disabled + .chip {
 
 .list-group-item {
   align-items: center;
-  background-color: #ffffff;
   border: 0;
   color: rgba(0, 0, 0, 0.87);
   display: block;

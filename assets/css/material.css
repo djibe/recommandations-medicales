@@ -237,7 +237,6 @@ a {
 
 a:hover {
   color: #ff8800;
-  text-decoration: underline;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -316,9 +315,8 @@ button {
   border-radius: 0;
 }
 
-button:focus {
-  outline: dotted 1px;
-  outline: -webkit-focus-ring-color auto 5px;
+button:focus:not(:focus-visible) {
+  outline: 0;
 }
 
 input,
@@ -2132,7 +2130,7 @@ tr.collapse.show {
   margin: 0;
   max-width: 100%;
   min-width: 4rem;
-  outline: none;
+  outline: 0;
   padding: 0 1rem;
   position: relative;
   text-transform: uppercase;
@@ -2853,7 +2851,6 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 }
 
 .card {
-  background-clip: border-box;
   background-color: #ffffff;
   border-radius: 0;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 2px 1px -1px rgba(0, 0, 0, 0.2);
@@ -3095,6 +3092,10 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 
 .card-actions .dropdown-toggle::after {
   margin-right: 0;
+}
+
+.card-actions > * {
+  z-index: 3;
 }
 
 .card-body {
@@ -4214,6 +4215,7 @@ input:disabled + .chip {
 }
 
 .list-group {
+  background-color: #ffffff;
   border: 1px solid rgba(0, 0, 0, 0.12);
   border-radius: 4px;
   display: flex;
@@ -4225,7 +4227,6 @@ input:disabled + .chip {
 
 .list-group-item {
   align-items: center;
-  background-color: #ffffff;
   border: 0;
   color: rgba(0, 0, 0, 0.87);
   display: block;
@@ -6686,6 +6687,7 @@ textarea.form-control-sm:not([rows='1']) {
   height: 2.25rem;
   margin: 0;
   opacity: 0;
+  overflow: hidden;
   position: relative;
   width: 100%;
   z-index: 2;
@@ -7965,6 +7967,9 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   .navbar-expand-sm > .container-fluid, .navbar-expand-sm > .container-sm, .navbar-expand-sm > .container-md, .navbar-expand-sm > .container-lg, .navbar-expand-sm > .container-xl {
     flex-wrap: nowrap;
   }
+  .navbar-expand-sm .navbar-nav-scroll {
+    overflow: visible;
+  }
   .navbar-expand-sm .navbar-collapse {
     display: flex !important;
     flex-basis: auto;
@@ -8000,6 +8005,9 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   .navbar-expand-md > .container,
   .navbar-expand-md > .container-fluid, .navbar-expand-md > .container-sm, .navbar-expand-md > .container-md, .navbar-expand-md > .container-lg, .navbar-expand-md > .container-xl {
     flex-wrap: nowrap;
+  }
+  .navbar-expand-md .navbar-nav-scroll {
+    overflow: visible;
   }
   .navbar-expand-md .navbar-collapse {
     display: flex !important;
@@ -8037,6 +8045,9 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   .navbar-expand-lg > .container-fluid, .navbar-expand-lg > .container-sm, .navbar-expand-lg > .container-md, .navbar-expand-lg > .container-lg, .navbar-expand-lg > .container-xl {
     flex-wrap: nowrap;
   }
+  .navbar-expand-lg .navbar-nav-scroll {
+    overflow: visible;
+  }
   .navbar-expand-lg .navbar-collapse {
     display: flex !important;
     flex-basis: auto;
@@ -8072,6 +8083,9 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   .navbar-expand-xl > .container,
   .navbar-expand-xl > .container-fluid, .navbar-expand-xl > .container-sm, .navbar-expand-xl > .container-md, .navbar-expand-xl > .container-lg, .navbar-expand-xl > .container-xl {
     flex-wrap: nowrap;
+  }
+  .navbar-expand-xl .navbar-nav-scroll {
+    overflow: visible;
   }
   .navbar-expand-xl .navbar-collapse {
     display: flex !important;
@@ -8109,6 +8123,10 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
 .navbar-expand > .container,
 .navbar-expand > .container-fluid, .navbar-expand > .container-sm, .navbar-expand > .container-md, .navbar-expand > .container-lg, .navbar-expand > .container-xl {
   flex-wrap: nowrap;
+}
+
+.navbar-expand .navbar-nav-scroll {
+  overflow: visible;
 }
 
 .navbar-expand .navbar-collapse {
@@ -8207,6 +8225,11 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
 
 .navbar-toggler-icon::before {
   content: "menu";
+}
+
+.navbar-nav-scroll {
+  max-height: 75vh;
+  overflow-y: auto;
 }
 
 /* .navbar-light {
@@ -12073,7 +12096,7 @@ input:-webkit-autofill:active {
 
 .irs-line {
   display: block;
-  outline: none !important;
+  outline: 0 !important;
   overflow: hidden;
   position: relative;
 }
@@ -12199,7 +12222,7 @@ input:-webkit-autofill:active {
   height: 0 !important;
   line-height: 0 !important;
   margin: 0 !important;
-  outline: none !important;
+  outline: 0 !important;
   overflow: hidden;
   padding: 0 !important;
   position: absolute !important;

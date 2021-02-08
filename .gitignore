@@ -3,6 +3,6 @@ dev/
 node_modules/
 public/
 resources/
-hugo.log
+*.log
 TODO.md
 *.xd
