@@ -41,8 +41,8 @@ Surexposition au [VIH] (prévalence 13%, 45% des cas), [syphilis]({{< relref "sy
 
 Sérologies à proposer en cas de conduites sexuelles à risque:
 
-- [VIH 1 et 2]({{< relref "vih-sida.md" >}})
-- Hépatite A
+- [VIH]({{< relref "vih-sida.md" >}})
+- [Hépatite A]({{< relref "hepatite-a.md" >}})
 - Hépatite B
 - [Syphilis]({{< relref "syphilis.md" >}})
 
@@ -65,9 +65,7 @@ Réaliser une sérologie avant la vaccination, sauf statut immunitaire certain.
 
 Spécialités chez l'adulte:
 
-- [Avaxim  160®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62756524&typedoc=R)
-- [Havrix  1440®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60386414&typedoc=R)
-- [Vaqta 50®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62087670&typedoc=R)
+{{< traitements/vaccin-hepatite-a >}}
 
 #### Vaccin hépatite B
 

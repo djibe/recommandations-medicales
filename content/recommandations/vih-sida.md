@@ -6,16 +6,16 @@ synonyms = ["Virus de l'immunodéficience humaine"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-16T22:06:00+02:00
 publishdate = 2021-01-16
-lastmod = 2021-02-08
+lastmod = 2021-02-09
 specialites = ["infectiologie"]
-annees = "2017"
+annees = "2018"
 sources = ["CNS", "HAS"]
 tags = ["depistage", "grossesse", "HSH", "IST", "VIH"]
 anglais = ["Human immunodeficiency virus infection"]
 sctid = "86406008"
 image = true
 imageSrc = "Photo de NIAID sur Foter.com / CC BY"
-todo = "TODO: rythme suivi min, verif def, prophylaxie pré-exposition (PrEP), CAT en urgence, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih, depistage DT2, info transmission/guérison, marqueurs CD4/charge virale, sang/sperme/sécr vaginales"
+todo = "TODO: prophylaxie pré-exposition (PrEP), CAT en urgence, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih, depistage DT2, info transmission/guérison, marqueurs CD4/charge virale, sang/sperme/sécr vaginales"
 +++
 
 {{%article-summary%}}

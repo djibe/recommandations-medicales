@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-06T20:18:41+02:00
 publishdate = 2020-09-06
-lastmod = 2021-02-06
+lastmod = 2021-02-09
 specialites = ["infectiologie"]
 annees = "2019"
 sources = ["AFEF", "HAS"]
@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "prescription fibrotest, remboursement des tests, hépatoprotection"
+todo = "hépatoprotection"
 
 +++
 
@@ -118,7 +118,7 @@ Surpoids, obésité, syndrome métabolique.
 
 {{%warning%}}Le dépistage VHB-VHC-VIH doit être combiné (*AFEF*){{%/warning%}}
 
-Sérologie ([Remb. 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=3784&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)):
+Sérologie VHC ([Remb. 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=3784&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)):
 
 - Positive  
 Nécessité de sérologie de contrôle et charge virale (RT-PCR) VHC.
@@ -154,13 +154,17 @@ Par le spécialiste ou sur prescription pour un traitement ambulatoire.
 
 Test non invasif en 1<sup>re</sup> intention:
 
-- Élasticité hépatique: Fibroscan®  
-Absence de maladie sévère si résultat < 10 kPa
+- Élasticité hépatique échographique: Fibroscan®  
+Absence de maladie sévère si résultat < 10 kPa.  
+[Remb. 100% en ALD x 1/an](https://www.aideaucodage.fr/ccam-hlqm002)
+Fibroscan® le plus proche: appeler 0 800 004 372
 - Tests sanguins
   - FibroTest®  
-  Absence de maladie sévère si résultat ≤ 0,58
+  Absence de maladie sévère si résultat ≤ 0,58.  
+  [Remb. 100% en ALD x 1/an](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=1000&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
   - Fibromètre®  
-  Absence de maladie sévère si résultat ≤ 0,786
+  Absence de maladie sévère si résultat ≤ 0,786.  
+  [Remb. 100% en ALD x 1/an](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=1001&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
 
 Indiquer "hépatite chronique C non traitée".
 
