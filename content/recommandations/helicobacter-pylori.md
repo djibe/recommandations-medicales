@@ -1,13 +1,13 @@
 +++
 title = "Helicobacter pylori"
-prefix = ""
+prefix = "l'"
 shortname = "HP"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = ""
 date = 2020-12-02T15:14:41+02:00
 publishdate = 2020-12-02
-lastmod = 2021-01-29
+lastmod = 2021-02-10
 specialites = ["hepato-gastro-enterologie"]
 annees = "2017"
 sources = ["GEFH", "HAS", "SNFGE"]
@@ -18,7 +18,7 @@ draft = false
 image = true
 imageSrc = "CDC/Dr. Patricia Fields, Dr. Collette Fitzgerald (PHIL #5715), 2004"
 flowchart = true
-todo = "Effets indésirables de l'EOGD, ttt quel moment de prise, http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/diagnostic-traitement-et-suivi-deradication/suivi-de-leradication/, dépistage en AINS long cours maastricht III"
+todo = "Effets indésirables de l'EOGD, http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/diagnostic-traitement-et-suivi-deradication/suivi-de-leradication/, dépistage en AINS long cours maastricht III"
 +++
 
 {{%article-summary%}}
@@ -125,30 +125,30 @@ Traitement de première intention d'une infection prouvée à *H. pylori* avec f
 {{%info%}}
 En cas de sensibilité à la clarithromycine, trithérapie pendant 14 jours:
 
-- Ésoméprazole 40 mg matin et soir pendant le repas
-- Amoxicilline 500 mg matin, midi et soir
-- Clarithromycine 500 mg matin et soir
+- Ésoméprazole 40 mg matin et soir 15 minutes avant le repas
+- Amoxicilline 500 mg matin, midi et soir pendant le repas
+- Clarithromycine 500 mg matin et soir pendant le repas
 
 **NB.** Modèle GEFH. La HAS préconisait 10j de traitement avec amoxicilline 1 g x 2/j.
 {{%/info%}}
 
 #### Résistance à la clarithromycine
 
-En cas de résistance à la *clarithromycine*, la *lévofloxacine* remplace la clarithromycine.
+En cas de résistance à la clarithromycine, remplacement par la *lévofloxacine*.
 
 Trithérapie pendant 14 jours:
 
-- Ésoméprazole 40 mg matin et soir pendant le repas
-- Amoxicilline 500 mg matin, midi et soir
-- Lévofloxacine 500 mg x 1/j
+- Ésoméprazole 40 mg matin et soir 15 minutes avant le repas
+- Amoxicilline 500 mg matin, midi et soir pendant le repas
+- Lévofloxacine 500 mg x 1/j pendant le repas
 
 **NB.** Modèle GEFH. La HAS préconisait 10j de traitement avec amoxicilline 1 g x 2/j.
 
 #### Résistance clarithromycine et lévofloxacine
 
-En cas de double résistance *clarithromycine* et *lévofloxacine*, quadrithérapie avec bismuth pendant 10 jours:
+En cas de double résistance clarithromycine et lévofloxacine, quadrithérapie avec *bismuth* pendant 10 jours:
 
-- Oméprazole 20 mg matin et soir pendant le repas  
+- Oméprazole 20 mg matin et soir 15 minutes avant le repas
 {{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
 - Pylera®: 3 gélules **x 4/j**  
 {{%class%}}Après les repas du matin, du midi, du soir et au coucher, avec un grand verre d’eau.{{%/class%}}
@@ -159,9 +159,9 @@ En cas de double résistance *clarithromycine* et *lévofloxacine*, quadrithéra
 
 Si allergie documentée à l’amoxicilline et souche sensible à la clarithromycine, trithérapie 14 jours:
 
-- Ésoméprazole 40 mg matin et soir pendant le repas
-- Clarithromycine 500 mg matin et soir
-- Métronidazole 500 mg matin et soir
+- Ésoméprazole 40 mg matin et soir 15 minutes avant le repas
+- Clarithromycine 500 mg matin et soir pendant le repas
+- Métronidazole 500 mg matin et soir pendant le repas
 
 **NB.** Modèle GEFH. La HAS préconisait 10j de traitement.
 
@@ -169,7 +169,7 @@ Si allergie documentée à l’amoxicilline et souche sensible à la clarithromy
 
 Quadrithérapie avec bismuth pendant 10 jours (idem *Résistance clarithromycine et lévofloxacine*):
 
-- Oméprazole 20 mg matin et soir pendant le repas  
+- Oméprazole 20 mg matin et soir 15 minutes avant le repas  
 {{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
 - Pylera®: 3 gélules **x 4/j**
 
@@ -179,7 +179,7 @@ Le Groupe d'Études Français des *Helicobacter* propose de [présenter votre do
 
 ### Équivalences des IPP
 
-IPP: une dose matin et soir pendant le repas pendant 10 jours.  
+IPP: une dose matin et soir 15 minutes avant le repas pendant 10 jours.  
 Ésoméprazole 40 mg | Lansoprazole 30 mg | Oméprazole 20 mg | Pantoprazole 40 mg | Rabéprazole 20 mg.
 
 {{% /collapse %}}
@@ -187,7 +187,24 @@ IPP: une dose matin et soir pendant le repas pendant 10 jours.
 
 {{%warning%}} En cas de grossesse ou d'allaitement, il faut différer le traitement.{{%/warning%}}
 
-Voir plus bas l'arbre décisionnel du traitement.
+### Alternative 1
+
+Quadrithérapie pendant 14 jours:
+
+- Ésoméprazole 40 mg matin et soir 15 minutes avant le repas
+- Amoxicilline 500 mg matin, midi et soir pendant le repas
+- Clarithromycine 500 mg matin et soir pendant le repas
+- Métronidazole 500 mg matin et soir pendant le repas
+
+**NB.** Modèle GEFH. La HAS préconisait 10j de traitement avec amoxicilline 1 g x 2/j.
+
+### Alternative 2
+
+Quadrithérapie avec bismuth pendant 10 jours:
+
+- Oméprazole 20 mg matin et soir 15 minutes avant le repas  
+{{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
+- Pylera®: 3 gélules **x 4/j**
 
 {{% /collapse %}}
 {{%collapse "Contrôle de la guérison" %}}
@@ -311,6 +328,7 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 - [HAS. Helicobacter pylori : recherche et traitement. 26/03/2019](https://www.has-sante.fr/jcms/c_2911396/fr/helicobacter-pylori-recherche-et-traitement)
 - [HAS et CNPHGE. Diagnostic de l’infection par Helicobacter pylori chez l’adulte. Mai 2017.](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
 - [HAS et CNPHGE. Traitement de l’infection par Helicobacter pylori chez l’adulte. Mai 2017.](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf)
+- [Bonfils C. et Zuliani S. La prise de traitements chroniques au quotidien : évaluer les pratiques des patients et optimiser l’horaire de prise des médicaments. Sciences pharmaceutiques. 2015. dumas-01169981](https://dumas.ccsd.cnrs.fr/dumas-01169981/document)
 - [SNFGE. Infection à Helicobacter pylori de l'adulte. Conseil de pratique. Juin 2015.](https://www.snfge.org/sites/default/files/recommandations/cp011-infection-a-helicobacter-pylori-de-ldulte_2015-06.pdf)
 - [HAS. Dépistage de l’infection à Helicobacter pylori. Avril 2010.](https://www.has-sante.fr/upload/docs/application/pdf/2010-08/synthese_-_depistage_de_linfection_a_helicobacter_pylori.pdf)
 

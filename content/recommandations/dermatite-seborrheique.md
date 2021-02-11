@@ -142,7 +142,7 @@ OU ciclopirox crème 1% x 2/j
 - **Traitement d'attaque**  
 Pendant 2 à 4 semaines, relayé par un traitement d'entretien séquentiel.  
 Antifongique local: Kétoconazole ou ciclopirox (cf Traitements pharmacologiques)
-- **Traitement d'entretien**
+- **Traitement d'entretien**  
 En relais du traitement d'attaque.
 
 ### Cas particuliers
