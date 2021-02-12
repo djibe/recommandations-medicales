@@ -72,8 +72,7 @@ Sérologie si antécédent d'ictère, enfance en zone d'endémie ou né avant 19
 {{% /collapse %}}
 {{%collapse "Voyage - Faut-il vacciner contre l'hépatite A ?" %}}
 
-[Vaccins recommandés par l'Institut Pasteur pour un voyage](https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage)  
-Compléter le champ *Mon pays de destination*.
+{{< card-link title="Vaccins recommandés par l'Institut Pasteur pour un voyage" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
 
 {{% /collapse %}}
 {{%collapse "Vaccins disponibles" %}}

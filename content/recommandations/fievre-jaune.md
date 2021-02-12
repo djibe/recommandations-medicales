@@ -13,7 +13,7 @@ sources = ["MinSante"]
 tags = ["vaccin", "voyage"]
 anglais = ["Yellow fever"]
 sctid = "16541001"
-image = false
+image = true
 imageSrc = "James Gathany, Public domain, via Wikimedia Commons"
 todo = ""
 +++
@@ -41,20 +41,19 @@ Fièvre jaune
   - Rappel à 10 ans pour professionnel de laboratoire à risque d'exposition
 - Voyage. Vaccination recommandée pour de nombreux pays (voir le chapitre suivant)
 
-Vaccin vivant contre-indiqué chez l'immunodéprimé ou la femme allaitante.
+**NB.** Vaccin vivant contre-indiqué chez l'immunodéprimé ou la femme allaitante.
 
 {{% /collapse %}}
 {{%collapse "Voyage - Faut-il vacciner contre la fièvre jaune ?" %}}
 
-[Vaccins recommandés par l'Institut Pasteur pour un voyage](https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage)  
-Compléter le champ *Mon pays de destination*.
+{{< card-link title="Vaccins recommandés par l'Institut Pasteur pour un voyage" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
 
 {{% /collapse %}}
 {{%collapse "Liste des centres de vaccinations fièvre jaune agréés" %}}
 
 La **vaccination anti-amarile** est réalisée dans un centre homologué avec remise d'un **certificat de vaccination**.
 
-[Liste des centres de vaccination fièvre jaune par département](https://solidarites-sante.gouv.fr/IMG/pdf/tableau_cvfj_janvier_2019.pdf)
+{{< card-link title="Liste des centres de vaccination fièvre jaune par département" url="https://solidarites-sante.gouv.fr/IMG/pdf/tableau_cvfj_janvier_2019.pdf" subtitle="Ministère de la Santé" image="ministere" >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
