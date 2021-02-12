@@ -15,7 +15,7 @@ anglais = ["Seborrheic dermatitis"]
 sctid = "50563003"
 draft = false
 flowchart = true
-todo = "ttt grossesse"
+todo = "refaire ttt, ttt grossesse"
 +++
 
 {{%article-summary%}}

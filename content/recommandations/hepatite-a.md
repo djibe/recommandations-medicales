@@ -10,7 +10,7 @@ lastmod = 2021-02-10
 specialites = ["infectiologie"]
 annees = "2019"
 sources = ["MinSante"]
-tags = ["hepatite", "HSH"]
+tags = ["hepatite", "HSH", "vaccin", "voyage"]
 anglais = ["Viral hepatitis type A"]
 sctid = ""
 flowchart = false
@@ -68,6 +68,12 @@ Dans les 14 jours après le début des signes chez le cas.
 Toute personne > 1 an voyageant en zone avec hygiène précaire.  
 Injection > 15 jours avant le départ.  
 Sérologie si antécédent d'ictère, enfance en zone d'endémie ou né avant 1945.
+
+{{% /collapse %}}
+{{%collapse "Voyage - Faut-il vacciner contre l'hépatite A ?" %}}
+
+[Vaccins recommandés par l'Institut Pasteur pour un voyage](https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage)  
+Compléter le champ *Mon pays de destination*.
 
 {{% /collapse %}}
 {{%collapse "Vaccins disponibles" %}}
