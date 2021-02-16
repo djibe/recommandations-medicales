@@ -72,8 +72,8 @@ Personnes à risque élevé de maladie cœliaque:
 - Diarrhée chronique non sanglante
 - Diarrhée avec malabsorption (amaigrissement ++)
 - Anémie par carence martiale en l’absence d’autre cause
-- Symptômes évocateurs de MC ET antécédents familiaux
-- Symptômes évocateurs de MC en présence de maladie auto-immune ou de déficit en IgA
+- Symptômes évocateurs de maladie cœliaque ET antécédents familiaux
+- Symptômes évocateurs de maladie cœliaque en présence de maladie auto-immune ou de déficit en IgA
 - Retard de croissance de l’enfant
 - Dermatite herpétiforme confirmée par biopsie cutanée
 - Atrophies des villosités observée en vidéocapsule
@@ -85,18 +85,22 @@ Personnes à risque élevé de maladie cœliaque:
 - Syndrome de l’intestin irritable (SII)
 - Transaminases augmentées inexpliquées
 - [Diabète type 1]({{< relref "diabete-type-1.md" >}}) (tous les 5 ans)
-- Symptômes évocateurs de MC ou malabsorption sans d’antécédents familiaux ni auto-immuns
+- Symptômes évocateurs de maladie cœliaque  
+ou malabsorption sans antécédents familiaux ni auto-immuns
 - Colite microscopique
-- [Thyroïdite de Hashimoto]({{< relref "hypothyroidie.md" >}}) ou maladie de Basedow
+- [Thyroïdite de Hashimoto]({{< relref "hypothyroidie.md" >}})  
+ou maladie de Basedow
 - Ostéopénie, ostéoporose
 - Ataxie ou neuropathie périphérique inexpliquée
 - Aphtes récurrents ou défauts de l’émail dentaire
-- Infertilité, fausses couches répétées, règle tardives, ménopause précoce
+- Infertilité, fausses couches répétées, règles tardives, ménopause précoce
 - Syndrome de fatigue chronique
 - Pancréatite aiguë ou chronique en l’absence d’autres facteur causal
-- Épilepsie, céphalées, migraines, troubles de l’humeur, trouble déficitaire de l’attention, déficience cognitive
-- Hyposplénisme ou asplénie fonctionnelle
-- Psoriasis ou autres lésions dermatologiques autres que la dermatite herpétiforme
+- Épilepsie
+- Céphalées, migraines
+- Troubles de l’humeur, trouble déficitaire de l’attention, déficience cognitive
+- [Hyposplénisme ou asplénie fonctionnelle]({{< relref "asplenie.md" >}})
+- Psoriasis ou lésions dermatologiques autres que la dermatite herpétiforme
 - Syndrome de Down ou de Turner
 - Hémosidérose pulmonaire
 - Néphropathie à IgA
