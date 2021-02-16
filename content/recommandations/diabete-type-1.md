@@ -51,4 +51,4 @@ Au diagnostic puis annuel pendant 5 ans (ISPAD).
 
 ## Participer à des études
 
-[SFDT1](https://sfdt1.fr/) et Compare.
+[SFDT1](https://sfdt1.fr/) et [Compare](https://compare.aphp.fr/) (APHP).

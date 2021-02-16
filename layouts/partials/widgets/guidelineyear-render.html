@@ -1,7 +1,3 @@
 {{ with .Params.annees }}
-
-  {{ $href := print ("annees/") }}
-
-  <a class="chip chip-primary chip-xs" href="{{ $href }}">{{ . }}</a>
-
+  <a class="chip chip-primary chip-xs" href="/annees/{{ . }}/">{{ . }}</a>
 {{ end }}
