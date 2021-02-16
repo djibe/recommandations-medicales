@@ -102,7 +102,7 @@ RCV
 <div class="collapse" id="collapse-aomi">
   <h4 class="typography-headline-6">AOMI</h4>
   <dl>
-    <dt>Épreuve d'effort recommandée.</dt>
+    <dt>Épreuve d'effort recommandée</dt>
     <dd>Pour tous les patients.</dd>
   </dl>
 </div>
@@ -141,7 +141,7 @@ RCV
     <dt>Épreuve d'effort recommandée</dt>
     <dd>Avec angor et ECG normal.</dd>
     <dt>Épreuve d'effort doit être envisagée</dt>
-    <dd>sédentaire avec angor d'effort.</dd>
+    <dd>Sédentaire avec angor d'effort.</dd>
   </dl>
 </div>
 <div class="collapse" id="collapse-hta">

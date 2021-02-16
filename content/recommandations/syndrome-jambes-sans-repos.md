@@ -67,7 +67,7 @@ Tremblement orthostatique primaire
 ### Données françaises
 
 - Prévalence chez l'adulte: 8,5%  
-Symptômes hebdomadaires 2,5% | quotidiens 1,9%.
+Symptômes hebdomadaires 2,5% et quotidiens 1,9%.
 - Prévalence chez l'enfant: 2-4%  
 15-35% en *trouble du déficit de l'attention et hyperactivité* (TDAH).
 - Sex-ratio: 2/3 de femmes

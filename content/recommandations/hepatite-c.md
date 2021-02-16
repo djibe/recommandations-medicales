@@ -25,7 +25,7 @@ todo = "hépatoprotection"
 
 - Maladie guérissable (> 90%).
 - Dépister largement (voir *Qui dépister?*).
-- Tout médecin pour prescrire les antiviraux.
+- Tout médecin peut prescrire les antiviraux.
 - Évaluation des comorbidités, interactions médicamenteuses et de la fibrose avant le traitement.
 - Traitement par Epclusa® ou Maviret® pendant respectivement 12 ou 8 semaines.
 - Surveillance chronique de la cirrhose et de la charge virale (guérison, réinfection).
