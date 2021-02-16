@@ -13,7 +13,7 @@
             {{ range $index, $element := split $url "/" }}
               {{ $.Scratch.Add "path" $element }}
                 {{ if ne $element "" }}
-                  <li class="breadcrumb-item text-capitalize"><a href="{{ $.Scratch.Get "path" }}/">{{ . }}</a></li>
+                  <li class="breadcrumb-item"><a href="{{ $.Scratch.Get "path" }}/">{{ . }}</a></li>
                 {{ $.Scratch.Add "path" "/" }}
               {{ end }}
             {{ end }}

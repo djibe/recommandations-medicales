@@ -76,8 +76,8 @@ Indications opératoires basées sur : diamètre > 5 cm, croissance > 10 mm/an,
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
-- [European Society of Cardiology. Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS). 2017.](//academic.oup.com/eurheartj/article/39/9/763/4095038)
-- [European Society of Cardiology. Guidelines on the diagnosis and treatment of aortic diseases. 2014.](//academic.oup.com/eurheartj/article/35/41/2873/407693)
+- [European Society of Cardiology. Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS). 2017.](https://doi.org/10.1093/eurheartj/ehx095)
+- [European Society of Cardiology. Guidelines on the diagnosis and treatment of aortic diseases. 2014.](https://doi.org/10.1093/eurheartj/ehu281)
 - [Haute Autorité de Santé. Dépistage et prévention des anévrismes de l’aorte abdominale. Novembre 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2013-02/aaa_fiche_med_vfinale.pdf)
 
 {{% /collapse %}}

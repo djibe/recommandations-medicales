@@ -1,5 +1,5 @@
 +++
-title = "Insuffisance Rénale Chronique"
+title = "Insuffisance rénale chronique"
 prefix = "l'"
 shortname = "IRC"
 synonyms = ["et maladie rénale chronique"]
