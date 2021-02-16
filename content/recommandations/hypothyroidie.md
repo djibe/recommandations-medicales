@@ -205,13 +205,13 @@ Adaptation par paliers de 12 µg.
 
 {{%list "list-group" %}}
 
+- {{%class%}}Euthyrox® (ancienne formulation de Lévothyrox®, bientôt retiré){{%/class%}}
 - L-Thyroxin Henning®
-- Euthyrox® (ancienne formulation de Levothyrox®)
-- Lévothyrox® (nouvelle formulation)
-- Thyrofix (cp non sécable)
+- Lévothyrox®
+- Thyrofix
 - Tcaps (capsule molle, non remboursable)
 - **Buvables**
-- L-Thyroxine Serb® en gouttes pour les enfants
+- L-Thyroxine Serb® en gouttes pédiatriques
 - Tsoludose (non remboursable)
 {{% /list %}}
 
@@ -280,9 +280,9 @@ graph TB
 {{% /collapse %}}
 {{%collapse Sources %}}
 
+- [ANSM. Liste des médicaments à base de lévothyroxine disponibles en France. 11/08/2020.](https://ansm.sante.fr/Dossiers/Levothyrox-et-medicaments-a-base-de-levothyroxine/A-quoi-servent-les-medicaments-contenant-de-la-levothyroxine/(offset)/0#paragraph_155067)
 - [Mooijaart SP et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 30 oct 2019;1‑11.](https://jamanetwork.com/journals/jama/fullarticle/2753909)
 - [HAS. Hypothyroïdie – pertinence des soins. Mars 2019.](https://www.has-sante.fr/portail/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)
-- [ANSM. Médicaments à base de lévothyroxine. 31/10/2018.](https://ansm.sante.fr/S-informer/Actualite/Medicaments-a-base-de-levothyroxine-Point-de-suivi-de-la-diversification-de-l-offre-therapeutique)
 - [S. Laboureau-Soares et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8.](https://www.em-select.com/article/224074)
 - Prescrire 2015
 

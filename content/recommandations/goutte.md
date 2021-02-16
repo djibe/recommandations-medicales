@@ -393,7 +393,6 @@ Intérêt de colchicine prophylactique.
 - [Prescrire Rédaction. Douleur et crise de goutte. Septembre 2020.](https://prescrire.org)
 - [EULAR. 2016 updated EULAR evidence-based recommandations for the management of gout. July 25, 2016.](https://ard.bmj.com/content/76/1/29)
 - [La Revue Prescrire. Fébuxostat : syndromes de Lyell et hypersensibilités graves ajoutés dans le RCP. Février 2015.](https://prescrire.org/)
-- [ANSM. RCP des spécialités à base d’allopurinol. 25 Février 2013.](https://ansm.sante.fr/content/download/46769/603569/version/1/file/ddl-130225-Allopurinol_rcp.pdf)
 - [ANSM. Allopurinol et risque de survenue de toxidermies graves – Lettre aux professionnels de santé. 25 Février 2013.](https://ansm.sante.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Allopurinol-et-risque-de-survenue-de-toxidermies-graves-Lettre-aux-professionnels-de-sante)
 - Société Française de Rhumatologie. Traitement de la goutte. Revue du Rhumatisme 74. 2007.
 - [Collège Français des Enseignants en Rhumatologie (COFER). Item 194 UE 7 - Arthropathie microcristalline.](http://www.lecofer.org/item-cours-1-21.php#ch_2_1)

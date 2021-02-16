@@ -207,7 +207,7 @@ Selon la SFDermato, informer le patient:
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
-- [ANSM. Traitement contre l’acné : règles de bon usage de l’isotrétinoïne pour limiter les risques - Point d'Information. 21/10/2020.](https://ansm.sante.fr/S-informer/Actualite/Traitement-contre-l-acne-regles-de-bon-usage-de-l-isotretinoine-pour-limiter-les-risques-Point-d-Information)
+- [ANSM. Traitement contre l’acné : règles de bon usage de l’isotrétinoïne pour limiter les risques - Point d'Information. 21/10/2020.](https://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Traitement-contre-l-acne-regles-de-bon-usage-de-l-isotretinoine-pour-limiter-les-risques-Point-d-Information)
 - La Revue Prescrire. Patients ayant une acné. Mars 2017.
 - La Revue Prescrire. Premiers choix Prescrire. Acné. Octobre 2016.
 - [Société Française de Dermatologie (label HAS). Prise en charge de l’acné. 10 juin 2015](https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)

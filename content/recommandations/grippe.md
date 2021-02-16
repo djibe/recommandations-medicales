@@ -126,7 +126,7 @@ Chez le sujet vivant en établissement, la vaccination réduit la survenue de pa
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [ANSM. Vaccination contre la grippe 2020-2021 : une priorité pour les personnes à risque. Communiqué. 13/10/2020](https://ansm.sante.fr/S-informer/Actualite/Vaccination-contre-la-grippe-2020-2021-une-priorite-pour-les-personnes-a-risque-Communique)
+- [ANSM. Vaccination contre la grippe 2020-2021 : une priorité pour les personnes à risque. Communiqué. 13/10/2020](https://ansm.sante.fr/S-informer/Communiques-Communiques-Points-presse/Vaccination-contre-la-grippe-2020-2021-une-priorite-pour-les-personnes-a-risque-Communique)
 - [HAS. Vaccination antigrippale : la stratégie de la prochaine campagne annuelle réaffirmée dans le contexte de l’épidémie de COVID-19. 02/06/2020](https://www.has-sante.fr/jcms/p_3187536/fr/vaccination-antigrippale-la-strategie-de-la-prochaine-campagne-annuelle-reaffirmee-dans-le-contexte-de-l-epidemie-de-covid-19)
 - [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe ! 13/05/2020](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
 - [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
