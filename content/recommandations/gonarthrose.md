@@ -275,6 +275,6 @@ Limiter vélo, ski.
 {{%collapse "Sources" %}}
 
 - [Sellam J et al. Recommandations de la Société Française de Rhumatologie sur la prise en charge pharmacologique de la gonarthrose. Revue du Rhumatisme (2020).](https://doi.org/10.1016/j.rhum.2020.07.013)
-- [Le Cofer. Arthrose. Item 125 UE 5.](http://www.lecofer.org/item-cours-1-10.php#ch_3_1)
+- Le Cofer. Arthrose. Item 129 UE 6.
 
 {{% /collapse %}}

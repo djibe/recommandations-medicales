@@ -395,6 +395,6 @@ Intérêt de colchicine prophylactique.
 - [La Revue Prescrire. Fébuxostat : syndromes de Lyell et hypersensibilités graves ajoutés dans le RCP. Février 2015.](https://prescrire.org/)
 - [ANSM. Allopurinol et risque de survenue de toxidermies graves – Lettre aux professionnels de santé. 25 Février 2013.](https://ansm.sante.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Allopurinol-et-risque-de-survenue-de-toxidermies-graves-Lettre-aux-professionnels-de-sante)
 - Société Française de Rhumatologie. Traitement de la goutte. Revue du Rhumatisme 74. 2007.
-- [Collège Français des Enseignants en Rhumatologie (COFER). Item 194 UE 7 - Arthropathie microcristalline.](http://www.lecofer.org/item-cours-1-21.php#ch_2_1)
+- Collège Français des Enseignants en Rhumatologie (COFER). Item 198 UE 8 - Arthropathie microcristalline.
 
 {{% /collapse %}}
