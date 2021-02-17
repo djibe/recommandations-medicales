@@ -16,7 +16,7 @@ sctid = ""
 draft = false
 image = true
 imageSrc = "Photo sur Foter.com"
-todo = "liste mallette"
+todo = "liste mallette, snomed"
 +++
 
 {{%article-summary%}}

@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-10T18:52:41+02:00
 publishdate = 2021-02-10
-lastmod = 2021-02-10
+lastmod = 2021-02-17
 specialites = ["infectiologie"]
 annees = "2019"
-sources = ["MinSante"]
+sources = ["MinSante", "Pasteur"]
 tags = ["hepatite", "HSH", "vaccin", "voyage"]
 anglais = ["Viral hepatitis type A"]
 sctid = ""
@@ -22,9 +22,9 @@ todo = "lieux haute endémie"
 
 {{%article-summary%}}
 
-- Ébauche de fiche
 - Vaccination HSH, enfant de parent de zone endémique si séjour, 14 jours autour d'un cas.
 - Le seul traitement est préventif par les mesures d'hygiène et la vaccination.
+- Voyage: 1 injection 15 jours avant le départ et rappel à 6 mois (voire +), dès 1 an.
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -66,7 +66,7 @@ Dans les 14 jours après le début des signes chez le cas.
   - militaires
 - Voyageurs  
 Toute personne > 1 an voyageant en zone avec hygiène précaire.  
-Injection > 15 jours avant le départ.  
+Injection au moins 15 jours avant le départ.  
 Sérologie si antécédent d'ictère, enfance en zone d'endémie ou né avant 1945.
 
 {{% /collapse %}}
@@ -83,10 +83,17 @@ Sérologie si antécédent d'ictère, enfance en zone d'endémie ou né avant 19
 
 ### Vaccins hépatite A pour enfants
 
+Possible à partir de 1 an.
+
 - [Avaxim 80®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63777215&typedoc=R)  
 1 dose avec rappel à 6-36 mois (max 7 ans).
 - [Havrix 720®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60152436&typedoc=R)  
 1 dose avec rappel à 6-12 mois (max 5 ans).
+
+### Vaccination hépatite A et voyage
+
+1 injection au moins 15 jours avant le départ.  
+Rappel à 6 mois ou plus selon la spécialité administrée.
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
