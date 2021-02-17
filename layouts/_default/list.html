@@ -13,7 +13,7 @@
             {{ range $index, $element := split $url "/" }}
               {{ $.Scratch.Add "path" $element }}
                 {{ if ne $element "" }}
-                  <li class="breadcrumb-item"><a href="{{ $.Scratch.Get "path" }}/">{{ . }}</a></li>
+                  <li class="breadcrumb-item text-capitalize"><a href="{{ $.Scratch.Get "path" }}/">{{ . }}</a></li>
                 {{ $.Scratch.Add "path" "/" }}
               {{ end }}
             {{ end }}
@@ -23,7 +23,7 @@
       {{ range .Pages.ByTitle }}
       <div class="col-sm-6 col-lg-4 d-flex">
         <div class="card flex-fill mb-3">
-          <div class="card-body position-relative card-primary-action ">
+          <div class="card-body position-relative card-primary-action">
             <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
             <h3 class="card-subtitle">{{ with .Params.specialites}}{{ delimit . ", " }}{{end}}</h3>
           </div>

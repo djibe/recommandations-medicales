@@ -38,7 +38,7 @@ En effet, **il est inenvisageable de tenter une synthèse pour la prise en soins
 - HTA  
 Objectif tensionnel **< 130/80** mmHg (ESC 2019).
 - Dyslipidémie  
-LDL cible **< 0,55 g/L** (ESC 2019)
+LDL cible **< 0,55 g/L** (ESC 2019).
 - Activité physique  
 **Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire.
 - Cible d'HbA1C  
