@@ -189,7 +189,7 @@ function customSearchResults() {
   var results = [];
   for (var i = 0; i < data.length; i++) {
     var title   = data[i].title;
-    var summary = data[i].summary;
+    // var summary = data[i].summary;
     var content = data[i].content;
     var tags    = data[i].tags;
     var section = data[i].section;
@@ -202,7 +202,7 @@ function customSearchResults() {
 
     var searchtext = '';
     if (title != '')   searchtext += title;
-    if (summary != '') searchtext += ' '+summary;
+    // if (summary != '') searchtext += ' '+summary;
     if (content != '') searchtext += ' '+content;
     if (tags != '')    searchtext += ' '+tags;
 
@@ -211,7 +211,7 @@ function customSearchResults() {
     var matches_calc = 0;
     var title_matches = 0;
     var tags_matches = 0;
-    var summary_matches = 0;
+    //var summary_matches = 0;
     var content_matches = 0;
     for (var y = 0; y < words.length; y++) {
       var searchword = new RegExp(words[y], 'gi');
@@ -226,7 +226,7 @@ function customSearchResults() {
           var count = '';
           if (key == 'title') searchstr = title;
           if ((key == 'tags') && (tags != '')) searchstr = tags.join(',');
-          if (key == 'summary') searchstr = summary;
+          // if (key == 'summary') searchstr = summary;
           if (key == 'content') searchstr = content; 
            
           if (searchword.test(searchstr) === true) {
@@ -234,7 +234,7 @@ function customSearchResults() {
             count = searchstr.match(searchword).length;
             if (key == 'title') title_matches = title_matches + count;
             if ((key == 'tags') && (tags != '')) tags_matches = tags_matches + count;
-            if (key == 'summary') summary_matches = summary_matches + count;
+            // if (key == 'summary') summary_matches = summary_matches + count;
             if (key == 'content') content_matches = content_matches + count; 
           }           
         }
@@ -246,7 +246,7 @@ function customSearchResults() {
       data[i]['matches'] = matches;
       data[i]['title_matches'] = title_matches;
       data[i]['tags_matches'] = tags_matches;
-      data[i]['summary_matches'] = summary_matches;
+      // data[i]['summary_matches'] = summary_matches;
       data[i]['content_matches'] = content_matches;
     }
     if (sOption == 'OR') {
@@ -287,7 +287,7 @@ function customSearchResults() {
     var results_content = '';
     for (var i = 0; i < results.length; i++) {
       var title   = results[i].title;
-      var summary = results[i].summary;
+      // var summary = results[i].summary;
       var date    = results[i].date;
       var url     = results[i].url;
       var tags    = results[i].tags;
@@ -301,19 +301,19 @@ function customSearchResults() {
         var matches_calc    = results[i].matches_calc;
         var title_matches   = results[i].title_matches;
         var tags_matches    = results[i].tags_matches;
-        var summary_matches = results[i].summary_matches;
+        // var summary_matches = results[i].summary_matches;
         var content_matches = results[i].content_matches;
 
         var plus_title   = title_matches >=1   ? '+ '+searchfield_weight['title']   : '+ 0';
         var plus_tags    = tags_matches >=1    ? '+ '+searchfield_weight['tags']    : '+ 0';
-        var plus_summary = summary_matches >=1 ? '+ '+searchfield_weight['summary'] : '+ 0';
+        // var plus_summary = summary_matches >=1 ? '+ '+searchfield_weight['summary'] : '+ 0';
         var plus_content = content_matches >=1 ? '+ '+searchfield_weight['content'] : '+ 0';
 
         infos += '<table style="font-size: 12px; color: #666666;">';
         infos += '<tr><td style="width: 100px;"><b>Gesamt:</b></td><td style="text-align: right;">'+matches+'</td></tr>';
         infos += '<tr><td>Title ('+title_matches+'):</td><td style="text-align: right;">'+plus_title+'</td></tr>';
         infos += '<tr><td>Tags ('+tags_matches+'):</td><td style="text-align: right;">'+plus_tags+'</td></tr>';
-        infos += '<tr><td>Summary ('+summary_matches+'):</td><td style="text-align: right;">'+plus_summary+'</td></tr>';
+        // infos += '<tr><td>Summary ('+summary_matches+'):</td><td style="text-align: right;">'+plus_summary+'</td></tr>';
         infos += '<tr><td>Content ('+content_matches+'):</td><td style="text-align: right;">'+plus_content+'</td></tr>';
         infos += '<tr><td><b>Gesamt neu:</b></td><td style="text-align: right;">'+matches_calc+'</td></tr>';
         infos += '</table><br>';
@@ -346,13 +346,13 @@ function customSearchResults() {
             templ = templ.replace('[DATE]', '');
           }
         }
-        if (templ.includes('[SUMMARY]')) {
+        /*if (templ.includes('[SUMMARY]')) {
           if (summary != '') { 
             templ = templ.replace('[SUMMARY]', summary);
           } else {
             templ = templ.replace('[SUMMARY]', '');
           }
-        }
+        }*/
         if (templ.includes('[TAGS]')) {
           if (tags != '') { 
             tags  = tags.join(',');

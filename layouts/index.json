@@ -2,7 +2,7 @@
   {{- range where .Site.RegularPages "Section" "ne" "" -}}
      {{- if not .Params.noSearch -}}
         {{- if gt $i 0 }},{{ end -}}
-        {"date":"{{ .Date.Unix }}", "url":"{{ .RelPermalink }}", "title":{{ .Title | jsonify  }}, "summary":{{ with .Description}}{{ . | plainify | jsonify }}{{ else }}{{ .Summary | plainify | jsonify }}{{ end }}, "content":{{ .Content | plainify | jsonify }},"tags":[ {{- $t := 0 }}{{- range .Param "tags" -}}{{ if gt $t 0 }},{{ end }}{{ . | jsonify }}{{ $t = add $t 1 }}{{ end -}} ], "section": {{ .Section | jsonify -}} }
+        {"date":"{{ .Date.Unix }}", "url":"{{ .RelPermalink }}", "title":{{ .Title | jsonify  }}, "content":{{ .Content | plainify | jsonify }},"tags":[ {{- $t := 0 }}{{- range .Param "tags" -}}{{ if gt $t 0 }},{{ end }}{{ . | jsonify }}{{ $t = add $t 1 }}{{ end -}} ], "section": {{ .Section | jsonify -}} }
         {{- $i = add $i 1 -}}
      {{- end -}}
   {{- end -}} ]
