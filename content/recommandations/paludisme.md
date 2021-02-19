@@ -45,12 +45,12 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 
 Spécialité: [Nivaquine®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65130778&typedoc=R) (cp, sirop) uniquement.
 
-- Personne > 60 kg  
+- Patient ≥ 60 kg  
 Chloroquine 100 mg 1 cp par jour
 - Adulte et enfant < 60 kg  
-1,7 mg/kg en 1 prise par jour.
+1,7 mg/kg en 1 prise par jour
 - Enfant < 10 kg  
-1 cuillère-mesure (25 mg), 1 jour sur 2.
+1 cuillère-mesure (25 mg), 1 jour sur 2
 
 {{%info%}}
 À débuter le jour du départ et jusqu'à 4 semaines après le retour.  
