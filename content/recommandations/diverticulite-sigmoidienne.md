@@ -13,6 +13,7 @@ sources = ["HAS"]
 tags = []
 anglais = ["Diverticulitis of sigmoid colon"]
 sctid = "427910000"
+draft = false
 flowchart = true
 image = false
 imageSrc = ""
@@ -22,8 +23,10 @@ todo = "délai scanner, éviter cortico/AINS, Prescrire"
 {{%article-summary%}}
 
 - La diverticulose colique est asymptomatique dans 80% des cas.
-- Pas d'antibiotiques en crise non compliquée en l'absence de comorbidités.
-- Chirurgie au cas par cas.
+- Scanner abdomino-pelvien pour le diagnostic.
+- Pas d'antibiotiques si crise non compliquée, sans gravité et sans grossesse.
+- Chirurgie prophylactique si comorbidités  
+{{%class%}}Immunodépression, IRC, altération qualité de vie, fistule, abcès, sténose symptomatique.{{%/class%}}
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -98,7 +101,8 @@ Perforation ou abcès.
 {{% /collapse %}}
 {{%collapse "Traitement ambulatoire de la diverticulite sigmoïdienne" %}}
 
-- Aucun traitement ou régime ne permet de prévenir les crises.
+{{%info%}}Aucun traitement ou régime ne permet de prévenir les crises.{{%/info%}}
+
 - Antalgie simple
 - Surveillance clinique des symptômes  
 {{%class%}}Après scanner et bilan biologique.{{%/class%}}
