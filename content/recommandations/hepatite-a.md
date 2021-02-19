@@ -30,11 +30,13 @@ todo = "lieux haute endémie"
 {{%collapse "Définition" %}}
 
 Hépatite A
-: Maladie infectieuse du foie causée par le virus de l'hépatite A (VHA). La transmission est féco-orale (péril fécal). L'hépatite peut être bénigne à grave (exceptionnellement fulminante) avec une immunité à vie.
+: Maladie infectieuse du foie causée par le virus de l'hépatite A (VHA).  
+La transmission est féco-orale (péril fécal).  
+L'hépatite peut être bénigne à grave (exceptionnellement fulminante) avec une immunité à vie.
 
 ### Abréviations
 
-**HSH:** Homme ayant des relations sexuelles avec des hommes
+**HSH:** Homme ayant des relations sexuelles avec des hommes  
 **VHA:** Virus de l'hépatite A
 
 {{% /collapse %}}
