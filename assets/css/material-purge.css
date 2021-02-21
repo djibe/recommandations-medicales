@@ -817,9 +817,6 @@ small,
     align-items: center;
     justify-content: center;
   }
-  .form-inline .custom-control-label {
-    margin-bottom: 0;
-  }
 }
 
 .img-fluid {
@@ -1852,27 +1849,6 @@ input:disabled + .chip {
   width: 100%;
 }
 
-.list-group-item .custom-control-label {
-  flex-grow: 1;
-  font-size: inherit;
-  letter-spacing: inherit;
-  line-height: 3rem;
-}
-
-.list-group-item .custom-control-label::before {
-  line-height: 3rem;
-  margin-top: 0;
-  right: 0;
-  left: auto;
-}
-
-.list-group-item .custom-control-label::after {
-  line-height: 3rem !important;
-  padding: 0 0.6875rem;
-  right: 0;
-  left: auto;
-}
-
 .list-group-item.active {
   background-color: rgba(0, 110, 244, 0.12);
   color: #006ef4;
@@ -2406,90 +2382,6 @@ input:disabled + .chip {
 
 .custom-control-inline + .custom-control-inline {
   margin-top: 0;
-}
-
-.custom-control-label {
-  color: inherit;
-  font-size: 0.875rem;
-  letter-spacing: 0.017857em;
-  line-height: 1.25rem;
-  margin-bottom: 0;
-  user-select: none;
-  vertical-align: top;
-}
-
-.custom-control-label::before {
-  transition: background-color, opacity, transform 100ms cubic-bezier(0.4, 0, 0.2, 1);
-  background-color: currentColor;
-  border-radius: 50%;
-  color: rgba(0, 0, 0, 0.54);
-  content: '';
-  display: block;
-  height: 3rem;
-  margin-top: -0.75rem;
-  margin-left: -0.75rem;
-  opacity: 0;
-  position: absolute;
-  top: 0;
-  left: 0;
-  transform: scale(0.87, 0.87) translateZ(0);
-  width: 3rem;
-}
-
-.custom-control-label::after {
-  color: rgba(0, 0, 0, 0.54);
-  display: block;
-  position: absolute;
-  top: 0rem;
-  left: 0;
-}
-
-.custom-control-input {
-  height: 1.25rem;
-  opacity: 0;
-  position: absolute;
-  left: 0;
-  width: 1rem;
-  z-index: -1;
-}
-
-.custom-control-input:not([disabled]):hover ~ .custom-control-label {
-  cursor: pointer;
-}
-
-.custom-control-input:active ~ .custom-control-label::before {
-  opacity: 0.12;
-  transform: scale(1, 1) translateZ(0);
-}
-
-.custom-control-input:checked ~ .custom-control-label::after {
-  color: #ff8800;
-}
-
-.custom-control-input:checked ~ .custom-control-label::before {
-  background-color: #ff8800;
-}
-
-.custom-radio .custom-control-label::after {
-  font-size: 1.5rem;
-  line-height: 1.5rem;
-  vertical-align: -0.362637em;
-  font-family: var(--font-family-material-icons);
-  font-feature-settings: 'liga';
-  font-style: normal;
-  font-weight: normal;
-  letter-spacing: normal;
-  text-rendering: optimizeLegibility;
-  text-transform: none;
-  white-space: nowrap;
-  word-wrap: normal;
-  content: "radio_button_unchecked";
-  line-height: 1;
-  vertical-align: middle;
-}
-
-.custom-radio .custom-control-input:checked ~ .custom-control-label::after {
-  content: "radio_button_checked";
 }
 
 .nav-tabs {
@@ -3375,6 +3267,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 
 .d-none {
   display: none !important;
+}
+
+.d-block {
+  display: block !important;
 }
 
 .d-flex {

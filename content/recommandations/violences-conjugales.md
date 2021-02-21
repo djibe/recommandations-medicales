@@ -43,14 +43,14 @@ todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaq
 > << Les données dans la littérature sont contradictoires concernant l’association entre le statut socioéconomique et les violences conjugales >> (*Santé Publique France*)
 
 {{% /collapse %}}
-{{%collapse "Dépistage des violences conjugales: questionnaire WAST" "show" %}}
+{{%collapse "Dépistage des violences conjugales: questionnaire WAST" %}}
 
 > << Le questionnaire WAST (Woman Abuse Screening Tool) en français est un outil valide et rapide d’utilisation à destination de tous les professionnels de santé. >> (*Santé Publique France*)
 
 <p class="lead">Ces questions portent sur les 12 derniers mois</p>
 
 <div class="form-group">
-  <label class="font-weight-bold">1. En général, comment décririez-vous votre relation avec votre conjoint ?</label>
+  <label class="font-weight-bold d-block">1. En général, comment décririez-vous votre relation avec votre conjoint ?</label>
   <div class="custom-control custom-radio custom-control-inline">
     <input type="radio" id="radio11" name="radio1" class="" value="2">
     <label class="" for="radio11">Très tendue</label>
@@ -65,7 +65,7 @@ todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaq
   </div>
 </div>
 <div class="form-group">
-  <label class="font-weight-bold">2. Comment vous et votre conjoint arrivez-vous à résoudre vos disputes ?</label>
+  <label class="font-weight-bold d-block">2. Comment vous et votre conjoint arrivez-vous à résoudre vos disputes ?</label>
   <div class="custom-control custom-radio custom-control-inline">
     <input type="radio" id="radio21" name="radio2" class="" value="2">
     <label class="" for="radio21">Très difficilement</label>
@@ -80,7 +80,7 @@ todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaq
   </div>
 </div>
 <div class="form-group">
-  <label class="font-weight-bold">3. Les disputes avec votre conjoint font-elles que vous vous sentez rabaissée ou que vous vous sentez dévalorisée ?</label>
+  <label class="font-weight-bold d-block">3. Les disputes avec votre conjoint font-elles que vous vous sentez rabaissée ou que vous vous sentez dévalorisée ?</label>
   <div class="custom-control custom-radio custom-control-inline">
     <input type="radio" id="radio31" name="radio3" class="" value="2">
     <label class="" for="radio31">Souvent</label>
@@ -95,7 +95,7 @@ todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaq
   </div>
 </div>
 <div class="form-group">
-  <label class="font-weight-bold">4. Les disputes avec votre conjoint se terminent-elles par le fait d'être frappée, de recevoir des coups de pieds ou d'être poussée (bousculée) ?</label>
+  <label class="font-weight-bold d-block">4. Les disputes avec votre conjoint se terminent-elles par le fait d'être frappée, de recevoir des coups de pieds ou d'être poussée (bousculée) ?</label>
   <div class="custom-control custom-radio custom-control-inline">
     <input type="radio" id="radio41" name="radio4" class="" value="2">
     <label class="" for="radio41">Souvent</label>
@@ -110,7 +110,7 @@ todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaq
   </div>
 </div>
 <div class="form-group">
-  <label class="font-weight-bold">5. Vous-êtes vous déjà sentie effrayée par ce que votre conjoint dit ou fait ?</label>
+  <label class="font-weight-bold d-block">5. Vous-êtes vous déjà sentie effrayée par ce que votre conjoint dit ou fait ?</label>
   <div class="custom-control custom-radio custom-control-inline">
     <input type="radio" id="radio51" name="radio5" class="" value="2">
     <label class="" for="radio51">Souvent</label>
@@ -125,7 +125,7 @@ todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaq
   </div>
 </div>
 <div class="form-group">
-  <label class="font-weight-bold">6. Votre conjoint vous a-t-il déjà maltraitée physiquement ?</label>
+  <label class="font-weight-bold d-block">6. Votre conjoint vous a-t-il déjà maltraitée physiquement ?</label>
   <div class="custom-control custom-radio custom-control-inline">
     <input type="radio" id="radio61" name="radio6" class="" value="2">
     <label class="" for="radio61">Souvent</label>
@@ -140,7 +140,7 @@ todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaq
   </div>
 </div>
 <div class="form-group">
-  <label class="font-weight-bold">7. Votre conjoint a-t-il déjà abusé de vous psychologiquement ?</label>
+  <label class="font-weight-bold d-block">7. Votre conjoint a-t-il déjà abusé de vous psychologiquement ?</label>
   <div class="custom-control custom-radio custom-control-inline">
     <input type="radio" id="radio71" name="radio7" class="" value="2">
     <label class="" for="radio71">Souvent</label>
@@ -155,7 +155,7 @@ todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaq
   </div>
 </div>
 <div class="form-group">
-  <label class="font-weight-bold">8. Votre conjoint a-t-il déjà abusé de vous sexuellement ?</label>
+  <label class="font-weight-bold d-block">8. Votre conjoint a-t-il déjà abusé de vous sexuellement ?</label>
   <div class="custom-control custom-radio custom-control-inline">
     <input type="radio" id="radio81" name="radio8" class="" value="2">
     <label class="" for="radio81">Souvent</label>

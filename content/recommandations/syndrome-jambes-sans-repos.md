@@ -93,7 +93,7 @@ Symptômes hebdomadaires 2,5% et quotidiens 1,9%.
 - Impact socio-économique
 
 {{% /collapse %}}
-{{%collapse "Critères diagnostiques" %}}
+{{%collapse "Critères diagnostiques du syndrome des jambes sans repos" %}}
 
 > "Il est souhaitable que ce diagnostic soit posé par un neurologue ou un médecin spécialiste du sommeil." (*SFRMS*)
 
@@ -185,13 +185,33 @@ Lister avec le patient:
 
 Interrogatoire difficile: Proposer à l'entourage de filmer les épisodes.
 
-### Évaluation de la sévérité du syndrome des jambes sans repos
-
-TODO: p. 5
-
 ### Examen clinique
 
 Examen neurologique +++
+
+{{% /collapse %}}
+{{%collapse "Évaluation de la sévérité" %}}
+
+### Échelle IRLS  
+
+[Auto-questionnaire](http://www.antalvite.fr/pdf/IRLSS.pdf) pour le suivi des symptômes et de l'efficacité thérapeutique.
+
+{{< table title="Sévérité du syndrome des jambes sans repos selon l'échelle IRLS" >}}
+| Score | Sévérité |
+|:-----:|----------|
+| ≤ 10  | Léger    |
+| 11-20 | Modéré   |
+| 21-30 | Sévère   |
+| ≥ 31  | Très sévère |
+{{< /table >}}
+
+### À l'Interrogatoire
+
+Ressenti, humeur, sommeil.
+
+### Agenda des symptômes
+
+Agenda des symptômes diurne et nocturne sur 14 jours.
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
