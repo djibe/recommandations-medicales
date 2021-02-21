@@ -6,26 +6,73 @@ synonyms = ["Malaria"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-17T12:42:00+02:00
 publishdate = 2021-02-17
-lastmod = 2021-02-20
+lastmod = 2021-02-21
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["MinSante", "Pasteur"]
 tags = ["vaccin", "voyage"]
-anglais = []
-sctid = ""
+anglais = ["Malaria"]
+sctid = "61462000"
 draft = false
 slider = true
 paludisme = true
-image = false
-imageSrc = ""
-todo = "snomed, piqures, http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf"
+image = true
+imageSrc = "Culicidae, Anopheles sp. Photo de Techuser sur Foter.com / CC BY-NC-ND"
+todo = "piqures, http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf"
 +++
 
 {{%article-summary%}}
 
-- Évoquer devant toute fièvre en retour de voyage
+- Toute fièvre dans les 3 mois suivant le retour de voyage est un paludisme jusqu'à preuve du contraire.
+- Toute suspicion de paludisme est une urgence diagnostique et thérapeutique.
+- Voyage tropical: protection contre les moustiques et chimioprophylaxie.
 
 {{%/article-summary%}}
+{{%collapse "Épidémiologie" %}}
+
+- 4000 cas/an (importés)  
+95% contractés en Afrique subsaharienne  
+90% par *P. falciparum*
+- 10 à 20 morts/an
+
+L'Afrique subsaharienne comptabilise 90% des cas mondiaux.
+
+{{% /collapse %}}
+{{%collapse "Signes de gravité" %}}
+
+Accès palustres graves: seuls *P. falciparum* (> 90% des diag en France) et *P. knowlesi*
+
+Appel du 15 en cas de signes gravité:
+
+- Troubles neurologiques  
+Obnubilation, confusion, somnolence, prostration, convulsion
+- Défaillance viscérale
+- Hypotension sévère
+- Hémorragie
+- Ictère
+- Pâleur marquée
+- Hypoglycémie
+
+{{% /collapse %}}
+{{%collapse "Clinique" %}}
+
+Incubation:
+
+- Minimum 7 jours pour *P. falciparum*, 10 à 15 jours pour les autres
+- Maximum 2 mois pour *P. falciparum*, 3 ans *P. vivax* et *ovale*, plus de 10 ans pour *P. malariae*.
+
+**Anémie hémolytique fébrile**:
+
+- Accès de fièvre intermittente (rarement stéréotypée tierce/quarte)
+- Frissons, sueurs
+- Céphalées
+- Myalgies
+- Troubles digestifs  
+nausées, vomissements, diarrhées.
+- Ictère
+- Splénomégalie après un certain temps
+
+{{% /collapse %}}
 {{%collapse "Indications à la prophylaxie palustre selon le pays de destination" %}}
 
 Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité d'un traitement préventif contre le paludisme.
@@ -42,6 +89,8 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 
 {{% /collapse %}}
 {{%collapse "Molécules en prévention du paludisme" %}}
+
+{{%warning%}}La prophylaxie n'élimine pas complètement le risque infectieux.{{%/warning%}}
 
 <div class="card card-body">
   <p class="card-title">Prophylaxie palustre selon le poids</p>
@@ -144,8 +193,9 @@ Contre-indiqué avant 8 ans et pendant la grossesse.
 {{%/info%}}
 
 {{% /collapse %}}
-{{%collapse "Source" %}}
+{{%collapse "Sources" %}}
 
-[Institut Pasteur. Recommandations générales - Prévention du paludisme.](https://www.pasteur.fr/fr/centre-medical/vaccination/recommandations-generales#prvention-du-paludisme)
+- [Institut Pasteur. Recommandations générales - Prévention du paludisme.](https://www.pasteur.fr/fr/centre-medical/vaccination/recommandations-generales#prvention-du-paludisme)
+- [CMIT. Paludisme. ECN.Pilly 2020. UE 6 166.](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-166-nb.pdf)
 
 {{% /collapse %}}

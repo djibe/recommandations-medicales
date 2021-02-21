@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-04T19:26:00+02:00
 publishdate = 2021-02-04
-lastmod = 2021-02-04
+lastmod = 2021-02-21
 specialites = ["certificats"]
 annees = "2020"
 sources = ["HAS"]
@@ -23,14 +23,160 @@ todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaq
 
 {{%article-summary%}}
 
-- **3 à 4 patientes sur 10 de votre salle d'attente !**
+- **3 patientes sur 10 de votre salle d'attente !**
 - [Modèle de certificat initial](https://www.conseil-national.medecin.fr/sites/default/files/certificat_en_cas_de_violences_sur_personne_majeure.pdf)
-- Conseiller de déposer plainte
-- Naviguer sur internet en mode *Incognito*
-- Appeler le 15 ou aller aux Urgences à toute heure
+- Conseiller
+  - de déposer plainte
+  - de naviguer sur internet en mode *Incognito*
+  - d'appeler le 15 ou d'aller aux Urgences à toute heure
 - [Declicviolence pour le médecin](https://declicviolence.fr/)
 
 {{%/article-summary%}}
+{{%collapse "Épidémiologie" %}}
+
+### État des lieux des violences conjugales en France
+
+- Prévalence au cours de la vie d'une femme: 26%
+- Incidence: 225.000 femmes majeures/an
+- Décès: 121 en 2018
+
+> << Les données dans la littérature sont contradictoires concernant l’association entre le statut socioéconomique et les violences conjugales >> (*Santé Publique France*)
+
+{{% /collapse %}}
+{{%collapse "Dépistage des violences conjugales: questionnaire WAST" "show" %}}
+
+> << Le questionnaire WAST (Woman Abuse Screening Tool) en français est un outil valide et rapide d’utilisation à destination de tous les professionnels de santé. >> (*Santé Publique France*)
+
+<p class="lead">Ces questions portent sur les 12 derniers mois</p>
+
+<div class="form-group">
+  <label class="font-weight-bold">1. En général, comment décririez-vous votre relation avec votre conjoint ?</label>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio11" name="radio1" class="" value="2">
+    <label class="" for="radio11">Très tendue</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio12" name="radio1" class="" value="1">
+    <label class="" for="radio12">Assez tendue</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio13" name="radio1" class="" value="0">
+    <label class="" for="radio13">Sans tension</label>
+  </div>
+</div>
+<div class="form-group">
+  <label class="font-weight-bold">2. Comment vous et votre conjoint arrivez-vous à résoudre vos disputes ?</label>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio21" name="radio2" class="" value="2">
+    <label class="" for="radio21">Très difficilement</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio22" name="radio2" class="" value="1">
+    <label class="" for="radio22">Assez difficilement</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio23" name="radio2" class="" value="0">
+    <label class="" for="radio23">Sans difficulté</label>
+  </div>
+</div>
+<div class="form-group">
+  <label class="font-weight-bold">3. Les disputes avec votre conjoint font-elles que vous vous sentez rabaissée ou que vous vous sentez dévalorisée ?</label>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio31" name="radio3" class="" value="2">
+    <label class="" for="radio31">Souvent</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio32" name="radio3" class="" value="1">
+    <label class="" for="radio32">Parfois</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio33" name="radio3" class="" value="0">
+    <label class="" for="radio33">Jamais</label>
+  </div>
+</div>
+<div class="form-group">
+  <label class="font-weight-bold">4. Les disputes avec votre conjoint se terminent-elles par le fait d'être frappée, de recevoir des coups de pieds ou d'être poussée (bousculée) ?</label>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio41" name="radio4" class="" value="2">
+    <label class="" for="radio41">Souvent</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio42" name="radio4" class="" value="1">
+    <label class="" for="radio42">Parfois</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio43" name="radio4" class="" value="0">
+    <label class="" for="radio43">Jamais</label>
+  </div>
+</div>
+<div class="form-group">
+  <label class="font-weight-bold">5. Vous-êtes vous déjà sentie effrayée par ce que votre conjoint dit ou fait ?</label>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio51" name="radio5" class="" value="2">
+    <label class="" for="radio51">Souvent</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio52" name="radio5" class="" value="1">
+    <label class="" for="radio52">Parfois</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio53" name="radio5" class="" value="0">
+    <label class="" for="radio53">Jamais</label>
+  </div>
+</div>
+<div class="form-group">
+  <label class="font-weight-bold">6. Votre conjoint vous a-t-il déjà maltraitée physiquement ?</label>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio61" name="radio6" class="" value="2">
+    <label class="" for="radio61">Souvent</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio62" name="radio6" class="" value="1">
+    <label class="" for="radio62">Parfois</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio63" name="radio6" class="" value="0">
+    <label class="" for="radio63">Jamais</label>
+  </div>
+</div>
+<div class="form-group">
+  <label class="font-weight-bold">7. Votre conjoint a-t-il déjà abusé de vous psychologiquement ?</label>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio71" name="radio7" class="" value="2">
+    <label class="" for="radio71">Souvent</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio72" name="radio7" class="" value="1">
+    <label class="" for="radio72">Parfois</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio73" name="radio7" class="" value="0">
+    <label class="" for="radio73">Jamais</label>
+  </div>
+</div>
+<div class="form-group">
+  <label class="font-weight-bold">8. Votre conjoint a-t-il déjà abusé de vous sexuellement ?</label>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio81" name="radio8" class="" value="2">
+    <label class="" for="radio81">Souvent</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio82" name="radio8" class="" value="0">
+    <label class="" for="radio82">Parfois</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline">
+    <input type="radio" id="radio83" name="radio8" class="" value="0">
+    <label class="" for="radio83">Jamais</label>
+  </div>
+</div>
+
+Une valeur seuil du score total du WAST à 5 apparaît comme discriminante.  
+Cela signifie qu’un score supérieur ou égal à 5 identifie une femme comme victime potentielle de violence conjugale.  
+Pour cette valeur seuil, la sensibilité et la spécificité sont supérieures à 95%.
+
+**NB.** "les femmes plébiscitent des approches garantissant la confidentialité et l’intimité tel que remplir un questionnaire seule et en privé" (*Santé publique France*)
+
+{{% /collapse %}}
 {{%collapse "Situation jugée grave" %}}
 
 - Appel au 15 pour hospitalisation sans délai  
@@ -139,6 +285,7 @@ Aborder les violences, évaluer, le certificat médical, le signalement, ITT, ou
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Guiguet-Auclair C et al. Validation de la version française d’un outil de dépistage des violences conjugales faites aux femmes, le WAST (Woman Abuse Screening Tool). Bull Epidémiol Hebd. 2021;(2):32-40.](http://beh.santepubliquefrance.fr/beh/2021/2/2021_2_2.html)
 - [HAS. Repérage des femmes victimes de violences au sein du couple Comment agir. Juin 2019 MAJ Décembre 2020.](https://webzine.has-sante.fr/upload/docs/application/pdf/2019-09/fs_femmes_violence_agir_092019.pdf)
 
 https://www.has-sante.fr/jcms/p_3116900/fr/violences-reperer-proteger-accompagner
