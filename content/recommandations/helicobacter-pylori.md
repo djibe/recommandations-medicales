@@ -18,7 +18,7 @@ draft = false
 image = true
 imageSrc = "CDC/Dr. Patricia Fields, Dr. Collette Fitzgerald (PHIL #5715), 2004"
 flowchart = true
-todo = "Effets indésirables de l'EOGD, http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/diagnostic-traitement-et-suivi-deradication/suivi-de-leradication/, dépistage en AINS long cours maastricht III"
+todo = "Effets indésirables de l'EOGD, comment diag quand rosacée, http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/diagnostic-traitement-et-suivi-deradication/suivi-de-leradication/, dépistage en AINS long cours maastricht III"
 +++
 
 {{%article-summary%}}

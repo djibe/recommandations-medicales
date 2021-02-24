@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-20T20:11:41+02:00
 publishdate = 2020-10-20
-lastmod = 2020-10-20
+lastmod = 2021-02-24
 specialites = ["dermatologie"]
 annees = "2011"
 sources = ["CEDEF"]
@@ -15,13 +15,16 @@ anglais = ["Rosacea"]
 sctid = "398909004"
 draft = false
 flowchart = true
-todo = "TODO: liens sources"
+image = true
+imageSrc = "Photo de The Thinking Doll sur Foter.com / CC BY-NC"
+todo = "image"
 +++
 
 {{%article-summary%}}
 
-- Le diagnostic est clinique
-- Le traitement est suspensif
+- Le diagnostic est clinique: visage rouge de l'adulte avec bouffées vasomotrices
+- Le traitement est suspensif avec rechutes à l'arrêt (chronicité +++)
+- Atteinte oculaire possible
 - Métronidazole gel 0,75% (Rozex®, gén) x 2/j pendant 3 mois en première intention
 - Contre-indication aux dermocorticoïdes
 
@@ -114,7 +117,7 @@ Traitement au long cours car suspensif seulement.
 
 Selon les Annales de Dermato, intérêt de rechercher systématiquement:
 
-- Une infection à Helicobacter pylori avec traitement ad-hoc.
+- Une infection à [Helicobacter pylori]({{< relref "helicobacter-pylori.md" >}}) avec traitement ad-hoc.
 - Une pullulation microbienne digestive, traitée par rifampicine 600 mg x 2/j pendant 10 jours.
 
 ### Forme mineure
@@ -125,7 +128,8 @@ Selon les Annales de Dermato, intérêt de rechercher systématiquement:
 
 #### Traitement de 2<sup>e</sup> intention
 
-acide azélaïque gel 15 % (Finacéa®) x 2/j pendant 3 mois  
+acide azélaïque gel 15 % (Finacéa®) x 2/j pendant 3 mois
+
 **Contre-indication:** grossesse.  
 **Effets indésirables:** irritation locale, érythème ,desquamation, xérose, sensation de brûlure, prurit, photosensibilité, hypopigmentation de peau mate.
 
@@ -135,10 +139,13 @@ Atteinte papulo-pustuleuse marquée et oculaire.
 
 #### 1. Traitement d'attaque
 
-{{% info %}}doxycycline 100 mg/j (Vibramycine N®, gén) pendant le dîner (ne pas s'allonger dans l'heure qui suit) pendant 3 mois  
-± associée au métronidazole topique{{% /info %}}
+{{% info %}}
+doxycycline 100 mg/j (Vibramycine N®, gén) pendant le dîner pendant 3 mois  
+Ne pas s'allonger dans l'heure qui suit.  
+± associée au métronidazole topique
+{{% /info %}}
 
-**NB.** Prescrire® observe que les études évaluent une efficacité comparable par doxycycline **50mg** x 1/j pour avec une tolérance bien meilleure.
+**NB.** Prescrire® rapporte une efficacité comparable de la **doxycycline 50mg** x 1/j pour une tolérance bien meilleure.
 
 **Effets indésirables:** troubles digestifs, réactions cutanées, vaginites, HTIC, photosensibilité, atteinte hépatique.  
 **Contre-indications:** grossesse/allaitement.
@@ -149,9 +156,9 @@ Atteinte papulo-pustuleuse marquée et oculaire.
 
 #### 2. Traitement d'entretien
 
-{{% info %}}métronidazole gel 0,75% (Rozex®, gén) x 1-2/j{{% /info %}}
+{{% info %}}Métronidazole gel 0,75% (Rozex®, gén) 1 à 2/j{{% /info %}}
 
-{{% warning %}}Adresser au dermatologue en cas de résistance aux traitements de 1<sup>re</sup> intention.{{% /warning %}}
+{{% warning %}}Adresser au dermatologue en cas de résistance aux traitements de première intention.{{% /warning %}}
 
 ### Rhinophyma
 
@@ -173,9 +180,9 @@ Lavage quotidien, expression du contenu des glandes de Mebomius, gels palpébrau
 
 {{< mermaid title="Conduite à tenir devant une rosacée" >}}
 graph TB
-  rosacee["Rosacée"] --"Forme mineure"--> mineure("métronidazole gel 0,75% x 2/j 3 mois")
+  rosacee["Rosacée"] --"Forme mineure"--> mineure("Métronidazole gel 0,75%<br>2/j pendant 3 mois")
   style rosacee stroke:#006ef4, stroke-width:1px
-  rosacee --"Forme diffuse"--> diffuse("<b>Traitement d'attaque</b><br>doxycycline 50mg/j 3 mois") --> entretien("<b>Traitement d'entretien</b><br>Métronidazole gel 0,75 % x 1-2/j") -.-> autres("Résistance aux traitements<br>Rhinophyma<br>Télangiectasies") --> dermato("Avis dermatologique")
+  rosacee --"Forme diffuse"--> diffuse("<b>Traitement d'attaque</b><br>Doxycycline 50mg/j 3 mois") --> entretien("<b>Traitement d'entretien</b><br>Métronidazole gel 0,75 % x 1-2/j") -.-> autres("Résistance aux traitements<br>Rhinophyma<br>Télangiectasies") --> dermato("Avis dermatologique")
   rosacee --"Diagnostic différentiel"--> differentiel("Lupus<br>Acné<br>Dermatite séborrhéique")
 
 {{< /mermaid >}}
@@ -195,8 +202,8 @@ L'évolution fluctue. 4 personnes sur 10 guérissent spontanément après plusie
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- Annales de Dermatologie 2011
-- CEDEF Item 232
+- [T. Jansen. Formes cliniques et classification de la rosacée. Annales de Dermatologie et de Vénéréologie. Volume 138, Supplement 2,2011.](https://doi.org/10.1016/S0151-9638(11)70079-5)
+- [Collège National des Enseignants de Dermatologie. Dermatoses faciales : Rosacée. Item 232. 2011.](http://campus.cerimes.fr/dermatologie/enseignement/dermato_34/site/html/cours.pdf)
 - La Revue Prescrire
 
 {{% /collapse %}}
