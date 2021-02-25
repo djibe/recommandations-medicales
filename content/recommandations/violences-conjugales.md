@@ -11,12 +11,12 @@ specialites = ["certificats"]
 annees = "2020"
 sources = ["HAS"]
 tags = []
-anglais = []
-sctid = ""
+anglais = ["Domestic violence"]
+sctid = "404189009"
 draft = false
-image = false
-imageSrc = ""
-todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaque droit"
+image = true
+imageSrc = "Photo de European Parliament sur Foter.com / CC BY-NC-ND"
+todo = "chip, liste centre hébergement urgence, commissariat + proche, lien vers chaque droit"
 +++
 
 *Page en construction*

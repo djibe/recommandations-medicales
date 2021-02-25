@@ -14,6 +14,8 @@ tags = ["AAA", "depistage", "tabac"]
 anglais = ["Abdominal aortic aneurysm"]
 sctid = "233985008"
 draft = false
+image = true
+imageSrc = "Photo de loudista sur Foter.com / CC BY"
 +++
 
 {{%article-summary%}}

@@ -15,6 +15,8 @@ anglais = ["Cardiopulmonary exercise test (CPET)"]
 sctid = "447346005"
 draft = false
 epreuveeffort = true
+image = true
+imageSrc = "Photo de Mizzou CAFNR sur Foter.com / CC BY-NC"
 todo = "TODO: summary, probabilite pre-test, rcv score"
 +++
 
