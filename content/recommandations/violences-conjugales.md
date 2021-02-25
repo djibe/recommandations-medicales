@@ -47,127 +47,81 @@ todo = "chip, liste centre hébergement urgence, commissariat + proche, lien ver
 
 > << Le questionnaire WAST (Woman Abuse Screening Tool) en français est un outil valide et rapide d’utilisation à destination de tous les professionnels de santé. >> (*Santé Publique France*)
 
-<p class="lead">Ces questions portent sur les 12 derniers mois</p>
+<div class="card card-body border shadow-none my-4">
+<p class="lead mb-lg-4">Ces questions portent sur les 12 derniers mois</p>
 
 <div class="form-group">
-  <label class="font-weight-bold d-block">1. En général, comment décririez-vous votre relation avec votre conjoint ?</label>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio11" name="radio1" class="" value="2">
-    <label class="" for="radio11">Très tendue</label>
-  </div>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio12" name="radio1" class="" value="1">
-    <label class="" for="radio12">Assez tendue</label>
-  </div>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio13" name="radio1" class="" value="0">
-    <label class="" for="radio13">Sans tension</label>
-  </div>
+  <p class="typography-body-1 font-weight-bold">1. En général, comment décririez-vous votre relation avec votre conjoint&nbsp;?</p>
+  <input type="radio" id="radio11" name="radio1" class="d-none" value="2">
+  <label for="radio11" class="chip chip-action chip-choice">Très tendue</label>
+  <input type="radio" id="radio12" name="radio1" class="d-none" value="1">
+  <label for="radio12" class="chip chip-action chip-choice">Assez tendue</label>
+  <input type="radio" id="radio13" name="radio1" class="d-none" value="0">
+  <label for="radio13" class="chip chip-action chip-choice">Sans tension</label>
 </div>
 <div class="form-group">
-  <label class="font-weight-bold d-block">2. Comment vous et votre conjoint arrivez-vous à résoudre vos disputes ?</label>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio21" name="radio2" class="" value="2">
-    <label class="" for="radio21">Très difficilement</label>
-  </div>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio22" name="radio2" class="" value="1">
-    <label class="" for="radio22">Assez difficilement</label>
-  </div>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio23" name="radio2" class="" value="0">
-    <label class="" for="radio23">Sans difficulté</label>
-  </div>
+  <p class="typography-body-1 font-weight-bold">2. Comment vous et votre conjoint arrivez-vous à résoudre vos disputes&nbsp;?</p>
+  <input type="radio" id="radio21" name="radio2" class="d-none" value="2">
+  <label for="radio21" class="chip chip-action chip-choice">Très difficilement</label>
+  <input type="radio" id="radio22" name="radio2" class="d-none" value="2">
+  <label for="radio22" class="chip chip-action chip-choice">Assez difficilement</label>
+  <input type="radio" id="radio23" name="radio2" class="d-none" value="2">
+  <label for="radio23" class="chip chip-action chip-choice">Sans difficulté</label>
 </div>
 <div class="form-group">
-  <label class="font-weight-bold d-block">3. Les disputes avec votre conjoint font-elles que vous vous sentez rabaissée ou que vous vous sentez dévalorisée ?</label>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio31" name="radio3" class="" value="2">
-    <label class="" for="radio31">Souvent</label>
-  </div>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio32" name="radio3" class="" value="1">
-    <label class="" for="radio32">Parfois</label>
-  </div>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio33" name="radio3" class="" value="0">
-    <label class="" for="radio33">Jamais</label>
-  </div>
+  <p class="typography-body-1 font-weight-bold">3. Les disputes avec votre conjoint font-elles que vous vous sentez rabaissée ou que vous vous sentez dévalorisée&nbsp;?</p>
+  <input type="radio" id="radio31" name="radio3" class="d-none" value="2">
+  <label for="radio31" class="chip chip-action chip-choice">Souvent</label>
+  <input type="radio" id="radio32" name="radio3" class="d-none" value="1">
+  <label for="radio32" class="chip chip-action chip-choice">Parfois</label>
+  <input type="radio" id="radio33" name="radio3" class="d-none" value="0">
+  <label for="radio33" class="chip chip-action chip-choice">Jamais</label>
 </div>
 <div class="form-group">
-  <label class="font-weight-bold d-block">4. Les disputes avec votre conjoint se terminent-elles par le fait d'être frappée, de recevoir des coups de pieds ou d'être poussée (bousculée) ?</label>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio41" name="radio4" class="" value="2">
-    <label class="" for="radio41">Souvent</label>
-  </div>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio42" name="radio4" class="" value="1">
-    <label class="" for="radio42">Parfois</label>
-  </div>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio43" name="radio4" class="" value="0">
-    <label class="" for="radio43">Jamais</label>
-  </div>
+  <p class="typography-body-1 font-weight-bold">4. Les disputes avec votre conjoint se terminent-elles par le fait d'être frappée, de recevoir des coups de pieds ou d'être poussée (bousculée)&nbsp;?</p>
+  <input type="radio" id="radio41" name="radio4" class="d-none" value="2">
+  <label for="radio41" class="chip chip-action chip-choice">Souvent</label>
+  <input type="radio" id="radio42" name="radio4" class="d-none" value="1">
+  <label for="radio42" class="chip chip-action chip-choice">Parfois</label>
+  <input type="radio" id="radio43" name="radio4" class="d-none" value="0">
+  <label for="radio43" class="chip chip-action chip-choice">Jamais</label>
 </div>
 <div class="form-group">
-  <label class="font-weight-bold d-block">5. Vous-êtes vous déjà sentie effrayée par ce que votre conjoint dit ou fait ?</label>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio51" name="radio5" class="" value="2">
-    <label class="" for="radio51">Souvent</label>
-  </div>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio52" name="radio5" class="" value="1">
-    <label class="" for="radio52">Parfois</label>
-  </div>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio53" name="radio5" class="" value="0">
-    <label class="" for="radio53">Jamais</label>
-  </div>
+  <p class="typography-body-1 font-weight-bold">5. Vous-êtes vous déjà sentie effrayée par ce que votre conjoint dit ou fait&nbsp;?</p>
+  <input type="radio" id="radio51" name="radio5" class="d-none" value="2">
+  <label for="radio51" class="chip chip-action chip-choice">Souvent</label>
+  <input type="radio" id="radio52" name="radio5" class="d-none" value="1">
+  <label for="radio52" class="chip chip-action chip-choice">Parfois</label>
+  <input type="radio" id="radio53" name="radio5" class="d-none" value="0">
+  <label for="radio53" class="chip chip-action chip-choice">Jamais</label>
 </div>
 <div class="form-group">
-  <label class="font-weight-bold d-block">6. Votre conjoint vous a-t-il déjà maltraitée physiquement ?</label>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio61" name="radio6" class="" value="2">
-    <label class="" for="radio61">Souvent</label>
-  </div>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio62" name="radio6" class="" value="1">
-    <label class="" for="radio62">Parfois</label>
-  </div>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio63" name="radio6" class="" value="0">
-    <label class="" for="radio63">Jamais</label>
-  </div>
+  <p class="typography-body-1 font-weight-bold">6. Votre conjoint vous a-t-il déjà maltraitée physiquement&nbsp;?</p>
+  <input type="radio" id="radio61" name="radio6" class="d-none" value="2">
+  <label for="radio61" class="chip chip-action chip-choice">Souvent</label>
+  <input type="radio" id="radio62" name="radio6" class="d-none" value="1">
+  <label for="radio62" class="chip chip-action chip-choice">Parfois</label>
+  <input type="radio" id="radio63" name="radio6" class="d-none" value="0">
+  <label for="radio63" class="chip chip-action chip-choice">Jamais</label>
 </div>
 <div class="form-group">
-  <label class="font-weight-bold d-block">7. Votre conjoint a-t-il déjà abusé de vous psychologiquement ?</label>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio71" name="radio7" class="" value="2">
-    <label class="" for="radio71">Souvent</label>
-  </div>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio72" name="radio7" class="" value="1">
-    <label class="" for="radio72">Parfois</label>
-  </div>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio73" name="radio7" class="" value="0">
-    <label class="" for="radio73">Jamais</label>
-  </div>
+  <p class="typography-body-1 font-weight-bold">7. Votre conjoint a-t-il déjà abusé de vous psychologiquement&nbsp;?</p>
+  <input type="radio" id="radio71" name="radio7" class="d-none" value="2">
+  <label for="radio71" class="chip chip-action chip-choice">Souvent</label>
+  <input type="radio" id="radio72" name="radio7" class="d-none" value="1">
+  <label for="radio72" class="chip chip-action chip-choice">Parfois</label>
+  <input type="radio" id="radio73" name="radio7" class="d-none" value="0">
+  <label for="radio73" class="chip chip-action chip-choice">Jamais</label>
 </div>
 <div class="form-group">
-  <label class="font-weight-bold d-block">8. Votre conjoint a-t-il déjà abusé de vous sexuellement ?</label>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio81" name="radio8" class="" value="2">
-    <label class="" for="radio81">Souvent</label>
-  </div>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio82" name="radio8" class="" value="0">
-    <label class="" for="radio82">Parfois</label>
-  </div>
-  <div class="custom-control custom-radio custom-control-inline">
-    <input type="radio" id="radio83" name="radio8" class="" value="0">
-    <label class="" for="radio83">Jamais</label>
-  </div>
+  <p class="typography-body-1 font-weight-bold">8. Votre conjoint a-t-il déjà abusé de vous sexuellement&nbsp;?</p>
+  <input type="radio" id="radio81" name="radio8" class="d-none" value="2">
+  <label for="radio81" class="chip chip-action chip-choice">Souvent</label>
+  <input type="radio" id="radio82" name="radio8" class="d-none" value="1">
+  <label for="radio82" class="chip chip-action chip-choice">Parfois</label>
+  <input type="radio" id="radio83" name="radio8" class="d-none" value="0">
+  <label for="radio83" class="chip chip-action chip-choice">Jamais</label>
+</div>
 </div>
 
 Une valeur seuil du score total du WAST à 5 apparaît comme discriminante.  

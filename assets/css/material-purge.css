@@ -611,6 +611,13 @@ h6,
   line-height: normal;
 }
 
+.typography-body-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 0.03125em;
+  line-height: 1.5rem;
+}
+
 .typography-body-2 {
   font-size: 0.875rem;
   font-weight: 400;
@@ -812,10 +819,6 @@ small,
   }
   .form-inline .input-group {
     width: auto;
-  }
-  .form-inline .custom-control {
-    align-items: center;
-    justify-content: center;
   }
 }
 
@@ -1467,6 +1470,23 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   background-color: rgba(0, 0, 0, 0.24);
 }
 
+[type='radio']:checked + .chip-choice {
+  background-color: rgba(0, 110, 244, 0.24);
+  color: #006ef4;
+}
+
+[type='radio']:checked + .chip-choice:hover, [type='radio']:checked + .chip-choice:active {
+  background-color: rgba(0, 110, 244, 0.32);
+}
+
+[type='radio']:checked + .chip-choice.chip-outline {
+  background-color: rgba(0, 110, 244, 0.12);
+}
+
+[type='radio']:checked + .chip-choice.chip-outline:hover, [type='radio']:checked + .chip-choice.chip-outline:active {
+  background-color: rgba(0, 110, 244, 0.24);
+}
+
 [type='checkbox'] + .chip-filter:not(.chip-outline) {
   color: rgba(0, 0, 0, 0.54);
 }
@@ -1841,12 +1861,6 @@ input:disabled + .chip {
 
 .list-group-item .btn-icon {
   color: rgba(0, 0, 0, 0.6);
-}
-
-.list-group-item .custom-control {
-  display: flex;
-  padding-left: 0;
-  width: 100%;
 }
 
 .list-group-item.active {
@@ -2362,28 +2376,6 @@ input:disabled + .chip {
   }
 }
 
-.custom-control {
-  display: block;
-  min-height: 1.5rem;
-  padding-left: 2.25rem;
-  position: relative;
-  z-index: 1;
-}
-
-.custom-control + .custom-control {
-  margin-top: 0.75rem;
-}
-
-.custom-control-inline {
-  align-items: center;
-  display: inline-flex;
-  margin-right: 1.5rem;
-}
-
-.custom-control-inline + .custom-control-inline {
-  margin-top: 0;
-}
-
 .nav-tabs {
   flex-wrap: nowrap;
   width: 100%;
@@ -2639,10 +2631,6 @@ textarea.form-control {
 
 .form-control[class*='valid'] {
   padding-right: calc(1.5rem + 0.5rem);
-}
-
-.form-group:focus-within label:not(.custom-control-label):not(.form-check-label):not(.btn):not(.card-link) {
-  color: #ff8800;
 }
 
 .input-group {
@@ -3269,10 +3257,6 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   display: none !important;
 }
 
-.d-block {
-  display: block !important;
-}
-
 .d-flex {
   display: flex !important;
 }
@@ -3381,6 +3365,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   right: 0;
   left: 0;
   z-index: 40;
+}
+
+.shadow-none {
+  box-shadow: none !important;
 }
 
 .w-100 {
@@ -3533,7 +3521,7 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   .my-lg-4 {
     margin-top: 1.5rem !important;
   }
-  
+  .mb-lg-4,
   .my-lg-4 {
     margin-bottom: 1.5rem !important;
   }
