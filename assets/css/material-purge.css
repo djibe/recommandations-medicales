@@ -611,13 +611,6 @@ h6,
   line-height: normal;
 }
 
-.typography-body-1 {
-  font-size: 1rem;
-  font-weight: 400;
-  letter-spacing: 0.03125em;
-  line-height: 1.5rem;
-}
-
 .typography-body-2 {
   font-size: 0.875rem;
   font-weight: 400;
@@ -3481,6 +3474,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   padding-left: 1rem !important;
 }
 
+.m-auto {
+  margin: auto !important;
+}
+
 .mt-auto {
   margin-top: auto !important;
 }
@@ -3504,6 +3501,9 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   }
   .ml-md-3 {
     margin-left: 1rem !important;
+  }
+  .mt-md-4 {
+    margin-top: 1.5rem !important;
   }
   .mt-md-5 {
     margin-top: 3rem !important;

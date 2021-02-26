@@ -30,7 +30,7 @@ todo = "survie mélanome, complications K: lymphoedeme, erysipele, dl neurop"
 {{%collapse "Définition" %}}
 
 Mélanome malin
-: Tumeur maligne développée aux dépens des mélanocytes.  
+: Tumeur maligne cutanée la plus grave développée aux dépens des mélanocytes.  
 La majorité survient sur peau saine, 20% sur nævus pré-existant.
 : Le mélanome atteint surtout les personnes avec *Facteurs de risque* (voir chapitre plus bas).  
 Le facteur pronostic pronostic majeur est l'*indice de Breslow*.
@@ -296,6 +296,7 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [HAS. Mélanome cutané : la détection précoce est essentielle. 11/02/2020.](https://www.has-sante.fr/jcms/pprd_2974838/fr/melanome-cutane-la-detection-precoce-est-essentielle?fbclid=IwAR0lsNr1vfC7AvM-SeKrLZlYNiRb0q4bgx4_mgwkQRRjHLJNMPPIlmxWC_U)
 - [INCa. Traitements du mélanome avancé. Novembre 2017.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Traitements-du-melanome-avance)
 - [INCa. Détection précoce des cancers de la peau - Médecins généralistes. Octobre 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Detection-precoce-des-cancers-de-la-peau-Medecins-generalistes)
 - [HAS. Mélanome cutané. Janvier 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2012-03/ald_30_guide_melanome_web.pdf)
