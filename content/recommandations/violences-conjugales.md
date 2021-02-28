@@ -43,7 +43,7 @@ todo = "calcul, liste centre hébergement urgence, commissariat + proche, lien v
 > << Les données dans la littérature sont contradictoires concernant l’association entre le statut socioéconomique et les violences conjugales >> (*Santé Publique France*)
 
 {{% /collapse %}}
-{{%collapse "Dépistage des violences conjugales: questionnaire WAST" "show" %}}
+{{%collapse "Dépistage des violences conjugales: questionnaire WAST" %}}
 
 > << Le questionnaire WAST (Woman Abuse Screening Tool) en français est un outil valide et rapide d’utilisation à destination de tous les professionnels de santé. >> (*Santé Publique France*)
 
