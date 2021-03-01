@@ -13,6 +13,8 @@ sources = ["HAS", "MinSante"]
 tags = ["HSH", "IST"]
 anglais = ["Atopic dermatitis"]
 sctid = "24079001"
+image = true
+imageSrc = "Photo de Care_SMC sur Foter.com / CC BY-ND"
 draft = true
 +++
 

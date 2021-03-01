@@ -14,6 +14,8 @@ tags = ["eczema"]
 anglais = []
 sctid = ""
 draft = true
+image = false
+imageSrc = ""
 todo = "Nickel +++"
 +++
 

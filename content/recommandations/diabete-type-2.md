@@ -13,6 +13,8 @@ sources = ["HAS"]
 tags = ["diabete", "risque cardiovasculaire", "HTA", "insuline", "retinopathie", "nephropathie", "neuropathie", "obesite", "SAOS", "vaccin"]
 anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
+image = false
+imageSrc = ""
 todo = "rythme depistage"
 +++
 

@@ -15,6 +15,8 @@ anglais = ["Carcinoma of prostate"]
 sctid = "254900004"
 draft = false
 flowchart = true
+image = false
+imageSrc = ""
 todo = "<1 ng or 2 ng, Ref HAS, https://curie.fr/dossier-pedagogique/cancer-de-la-prostate-les-facteurs-de-risque"
 +++
 

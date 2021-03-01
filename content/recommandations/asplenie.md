@@ -14,6 +14,8 @@ tags = ["asplenie", "oracilline", "penicilline V", "vaccin"]
 anglais = ["Asplenia"]
 sctid = "707147002"
 draft = false
+image = true
+imageSrc = "scientificanimations.com, CC BY-SA 4.0, via Wikimedia Commons"
 todo = "améliorer vaccins, graph"
 +++
 

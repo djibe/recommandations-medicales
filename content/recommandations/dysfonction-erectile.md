@@ -14,6 +14,8 @@ tags = ["dysfonction erectile", "IPDE5", "risque cardiovasculaire"]
 anglais = ["Erectile dysfunction"]
 sctid = "860914002"
 draft = false
+image = true
+imageSrc = "scientificanimations.com, CC BY-SA 4.0, via Wikimedia Commons"
 todo = "TODO: https://www.revmed.ch/RMS/2019/RMS-N-642/Nouvelles-recommandations-pour-la-prise-en-charge-de-la-dysfonction-erectile-a-l-usage-du-praticien"
 +++
 

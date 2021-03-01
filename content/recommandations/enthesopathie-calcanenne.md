@@ -11,9 +11,10 @@ specialites = ["rhumatologie"]
 annees = "2002"
 sources = ["RevMedSuis"]
 tags = []
-anglais = ["Heel spurs", "plantar fasciitis"]
+anglais = ["Heel spur", "plantar fasciitis"]
 sctid= "202882003"
-qualite = "moyenne"
+image = true
+imageSrc = "Injurymap, CC BY 4.0, via Wikimedia Commons"
 draft = false
 +++
 

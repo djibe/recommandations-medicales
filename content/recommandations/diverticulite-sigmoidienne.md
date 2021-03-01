@@ -15,8 +15,8 @@ anglais = ["Diverticulitis of sigmoid colon"]
 sctid = "427910000"
 draft = false
 flowchart = true
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Anpol42, CC BY-SA 4.0, via Wikimedia Commons"
 todo = "constipation, délai scanner, éviter cortico/AINS, Prescrire"
 +++
 
