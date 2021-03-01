@@ -33,7 +33,11 @@ Vaccination:
 
 Fièvre jaune
 : Maladie hémorragique virale aiguë transmise par des moustiques infectés aux tropiques d’Afrique, d’Amérique centrale et d’Amérique du Sud. L'ictère engendré est à l'origine du nom de la maladie.
-: La prévention passe par la lutte contre les piqûres de moustiques et la vaccination en voyage en zone infectée.
+: La prévention passe par la lutte contre les piqûres de moustiques et la vaccination avant un voyage en zone infectée.
+
+### Abréviations
+
+**PVVIH:** Personne vivant avec le VIH
 
 {{% /collapse %}}
 {{%collapse "Personnes à vacciner" %}}
@@ -49,9 +53,9 @@ Obligatoire si > 1 an.
 - Personnel de laboratoire manipulant du virus de fièvre jaune  
 Rappel à 10 ans.
 - Voyage  
-Vaccination recommandée voire **obligatoire** pour de nombreux pays (voir le chapitre suivant).
+Vaccination recommandée voire **obligatoire** pour de nombreux pays (voir plus bas).
 
-**NB.** Vaccin vivant contre-indiqué chez l'immunodéprimé ou la femme allaitante.
+**NB.** Vaccin vivant contre-indiqué chez l'immunodéprimé et la femme allaitante.
 
 {{% /collapse %}}
 {{%collapse "Voyage - Faut-il vacciner contre la fièvre jaune ?" %}}

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-29T14:54:41+02:00
 publishdate = 2020-11-30
-lastmod = 2020-12-01
+lastmod = 2021-03-01
 specialites = ["cancerologie", "dermatologie"]
 annees = "2017"
 sources = ["HAS", "SFDermato"]
@@ -16,7 +16,7 @@ sctid = "2092003"
 draft = false
 image = true
 imageSrc = "National Cancer Institute"
-todo = "survie mélanome, complications K: lymphoedeme, erysipele, dl neurop"
+todo = ""
 +++
 
 {{%article-summary%}}
@@ -25,6 +25,7 @@ todo = "survie mélanome, complications K: lymphoedeme, erysipele, dl neurop"
 - Une lésion mélanocytaire est suspecte si elle remplit ≥ 2 critères ABCDE.
 - Un nævus est suspect s'il est différent des autres.
 - Suspicion de mélanome = avis dermatologique en semi-urgence.
+- Cabines de bronzage = cancérigènes certains.
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -32,7 +33,7 @@ todo = "survie mélanome, complications K: lymphoedeme, erysipele, dl neurop"
 Mélanome malin
 : Tumeur maligne cutanée la plus grave développée aux dépens des mélanocytes.  
 La majorité survient sur peau saine, 20% sur nævus pré-existant.
-: Le mélanome atteint surtout les personnes avec *Facteurs de risque* (voir chapitre plus bas).  
+: Le mélanome atteint tous les âges, surtout les personnes avec *Facteurs de risque* (voir chapitre plus bas).  
 Le facteur pronostic pronostic majeur est l'*indice de Breslow*.
 
 Indice de Breslow
@@ -61,6 +62,7 @@ Indice de Breslow, de Clark, ulcération, index mitotique, emboles vasculaires.
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
 
+- 13<sup>e</sup> cancer de la femme, 7<sup>e</sup> de l'homme
 - **Incidence:** 15.400 nouveaux cas en 2017  
 {{%class%}}47% de femmes. Incidence en augmentation de 10 %/an depuis 50 ans.{{%/class%}}
 - Âge moyen au diagnostic: 56 ans.
@@ -89,22 +91,24 @@ Cheveux roux ou blonds, yeux clairs.
   - Nævus atypique (> 5mm, irrégulier)
   - Sensibilité au soleil (coups de soleil fréquents, bronze peu)
 - Photo-exposition solaire/UV/latitude  
-Brûlures dans l'enfance ++
-- Antécédents familiaux de cancer cutané (mélanome sur nævi dysplasiques +++)
+Brûlures dans l'enfance (cloques) ++
+- Antécédents familiaux de cancer cutané (mélanome sur nævi dysplasiques)
 - Antécédent personnel de mélanome  
-  Risque de 2<sup>e</sup> de 5 à 8%
+  Risque de 2<sup>e</sup> de 5 à 8%.
 - Immunodépression
 - Exposition professionnelle  
 Travail en extérieur, rayonnements ionisants, soudure de métaux, sidérurgie, pesticides.
 
+Ces personnes doivent réaliser un auto-examen trimestriel et un suivi dermatologique annuel.
+
 ### Phototypes
 
-{{< table title="Les caractéristiques des différents phototypes" >}}
+{{< table title="Caractéristiques des différents phototypes cutanés" >}}
 | Phototype  | Peau | Cheveux | Yeux | Coups de soleil |
 |:----------:|------|---------|------|-----------------|
 | I          | Très blanche ± tâches de rousseur | Blonds/roux | Bleus/verts | Systématique<br>Jamais de bronzage, rougeur systématique |
 | II         | Claire ± tâches de rousseur | Blonds/roux à châtains | Clairs à bruns | Fréquents, bronze à peine ou très lentement      |
-| III        | Intermédiaire | châtains à bruns | Bruns | Occasionnels, bronzage graduel |
+| III        | Intermédiaire | Châtains à bruns | Bruns | Occasionnels, bronzage graduel |
 | IV         | Mate          | Bruns/noirs | Bruns/noirs | Occasionnels, bronzage rapide |
 | V          | Brun foncé    | Noirs | Noirs | Rares, bronzage intense |
 | VI         | Noire         | Noirs | Noirs | Exceptionnels |
@@ -130,7 +134,8 @@ Travail en extérieur, rayonnements ionisants, soudure de métaux, sidérurgie, 
 ### Interrogatoire
 
 - Antécédents personnels et familiaux de cancers cutanés
-- Antécédents d'exposition à risque aux UV
+- Antécédents d'exposition à risque aux UV  
+Cabine de bronzage, soudure à l'arc.
 - Facteurs de risque (voir ci-dessus)
 - Immunodépression
 - Comorbidités
@@ -202,21 +207,23 @@ Systématique pour les patients de plus de 75 ans avant la RCP.
 {{% /collapse %}}
 {{%collapse "Prévention du mélanome" %}}
 
-- Information sur les risques liés à l'exposition solaire
-- Photoprotection cutanée
+- Information sur les risques liés à l'exposition solaire ou artificielle
+- Photoprotection cutanée  
+Il n'est pas prouvé qu'elle réduise le risque de mélanome.
 - Limiter les expositions solaires
 - Personnes à risque
-  - Auto-dépistage tous les 3 mois
+  - Auto-dépistage tous les 3 mois  
+  Voir *Éducation thérapeutique*.
   - Surveillance annuelle par le dermatologue
 
 {{% /collapse %}}
 {{%collapse "Traitement du mélanome" %}}
 
-{{%warning%}} Dès suspicion, adresser en semi-urgence au dermatologue pour une exérèse complète.{{%/warning%}}
+{{%warning%}}Dès suspicion, adresser en semi-urgence au dermatologue pour une exérèse complète.{{%/warning%}}
 
 **NB**. Jamais de biopsie de lésion pigmentée, l'exérèse complète doit être systématique.
 
-Le traitement est décidé en réunion de concertation pluridisciplinaire.
+Le traitement est décidé en **réunion de concertation pluridisciplinaire**.
 
 ### En savoir plus: traitements du mélanome
 
@@ -297,6 +304,8 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 {{%collapse "Sources" %}}
 
 - [HAS. Mélanome cutané : la détection précoce est essentielle. 11/02/2020.](https://www.has-sante.fr/jcms/pprd_2974838/fr/melanome-cutane-la-detection-precoce-est-essentielle?fbclid=IwAR0lsNr1vfC7AvM-SeKrLZlYNiRb0q4bgx4_mgwkQRRjHLJNMPPIlmxWC_U)
+- [Oncologik. Mélanomes vulvaires et vaginaux. 24/01/2020.](http://oncologik.fr/referentiels/rrc/melanomes-vulvaires-et-vaginaux)
+- [Oncologik. Mélanome cutané. 22/03/2019.](http://oncologik.fr/referentiels/oncolor/melanome-cutane)
 - [INCa. Traitements du mélanome avancé. Novembre 2017.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Traitements-du-melanome-avance)
 - [INCa. Détection précoce des cancers de la peau - Médecins généralistes. Octobre 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Detection-precoce-des-cancers-de-la-peau-Medecins-generalistes)
 - [HAS. Mélanome cutané. Janvier 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2012-03/ald_30_guide_melanome_web.pdf)

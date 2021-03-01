@@ -167,11 +167,16 @@ a[href^='http']:not([class])::after {
     }
   }
 
+  h2,
   p {
     color: #757575;
-    font-size: calc(1.275rem + .3vw);
+    font-family: var(--font-family-sans-serif);
+    font-weight: 400;
     line-height: 1.25;
-    // width: Min(100%, 768px); // Uppercase to prevent SASS-CSS conflict
+  }
+
+  h2 {
+    font-size: calc(1.275rem + .3vw);
 
     @media (min-width: 1200px){
       & {
@@ -183,8 +188,6 @@ a[href^='http']:not([class])::after {
 
 .typography-body-1 {
   color: #424242;
-  // font-size: 1rem;
-  // font-weight: 400;
   letter-spacing: normal;
   line-height: 1.5rem;
 }
@@ -194,6 +197,13 @@ a[href^='http']:not([class])::after {
     color: #616161;
     margin-bottom: 0;
   }
+}
+
+.recommandation__header {
+    h2 {
+      color: rgba(0, 0, 0, 0.6);
+      font-weight: initial;
+    }
 }
 
 .recommandation__content {
@@ -561,14 +571,6 @@ div.data-table {
   &:hover {
     box-shadow: 0 4px 5px 0 rgba(0,0,0,.14),0 1px 10px 0 rgba(0,0,0,.12),0 2px 4px -1px rgba(0,0,0,.2);
   }
-}
-
-.chip {
-  overflow: hidden;
-}
-
-[class*='chip-']:hover {
-  filter: brightness(86%);
 }
 
 .form-alternative {

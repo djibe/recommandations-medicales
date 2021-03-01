@@ -220,7 +220,7 @@ Cancer classant Sida.
 
 ### Dépistage des cancers cutanéo-muqueux
 
-Examen cutanéo-muqueux annuel.
+Examen cutanéo-muqueux annuel par un dermatologue.
 
 ### Dépistage du cancer de l'anus
 

@@ -124,7 +124,7 @@ todo = "calcul, liste centre hébergement urgence, commissariat + proche, lien v
 </div>
 <div class="alert bg-light d-flex mt-md-4">
   <div class="d-flex flex-column align-items-center">
-    <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem">Score WAST</p>
+    <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score WAST</p>
     <span class="font-weight-bold" id="wastScore" style="font-size:2rem">0</span>
   </div>
   <p id="wastText" class="lead m-auto">Veuillez répondre aux 8 questions.</p>
@@ -273,9 +273,11 @@ Aborder les violences, évaluer, le certificat médical, le signalement, ITT, ou
 - [Guiguet-Auclair C et al. Validation de la version française d’un outil de dépistage des violences conjugales faites aux femmes, le WAST (Woman Abuse Screening Tool). Bull Epidémiol Hebd. 2021;(2):32-40.](http://beh.santepubliquefrance.fr/beh/2021/2/2021_2_2.html)
 - [HAS. Repérage des femmes victimes de violences au sein du couple Comment agir. Juin 2019 MAJ Décembre 2020.](https://webzine.has-sante.fr/upload/docs/application/pdf/2019-09/fs_femmes_violence_agir_092019.pdf)
 
-https://www.has-sante.fr/jcms/p_3116900/fr/violences-reperer-proteger-accompagner
-https://www.has-sante.fr/jcms/p_3104867/fr/reperage-des-femmes-victimes-de-violences-au-sein-du-couple
-http://beh.santepubliquefrance.fr/beh/2021/2/2021_2_2.html
-https://www.has-sante.fr/upload/docs/application/pdf/2019-09/170919_reperage_des_femmes_victimes_de_violences_au_sein_du_couple_argumentaire.pdf
+### À lire
+
+- https://www.has-sante.fr/jcms/p_3116900/fr/violences-reperer-proteger-accompagner
+- https://www.has-sante.fr/jcms/p_3104867/fr/reperage-des-femmes-victimes-de-violences-au-sein-du-couple
+- http://beh.santepubliquefrance.fr/beh/2021/2/2021_2_2.html
+- https://www.has-sante.fr/upload/docs/application/pdf/2019-09/170919_reperage_des_femmes_victimes_de_violences_au_sein_du_couple_argumentaire.pdf
 
 {{% /collapse %}}

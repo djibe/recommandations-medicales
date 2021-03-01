@@ -18,8 +18,10 @@ slider = true
 paludisme = true
 image = true
 imageSrc = "Culicidae, Anopheles sp. Photo de Techuser sur Foter.com / CC BY-NC-ND"
-todo = "piqures, http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf"
+todo = "ttt accès palustre, piqures, http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf"
 +++
+
+*Le traitement de l'accès palustre n'est pas encore traité*.
 
 {{%article-summary%}}
 

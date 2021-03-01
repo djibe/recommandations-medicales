@@ -16,8 +16,8 @@ image = true
 imageSrc = "Sbrools, CC BY-SA 3.0 via Wikimedia Commons"
 imagePNG = true
 sctid = "30178006"
-qualite = "bonne"
 draft = false
+todo = "convertisseur unités, apports cibles mettre en tableau, graph cible âge"
 +++
 
 {{%collapse "Définition" %}}
@@ -80,13 +80,13 @@ La supplémentation en vitamine D3 peut être instaurée et suivie sans dosage d
 
 Recommandations pour les apports de vitamine D en 2021:
 
-- **Allaitement maternel**  
+- **Enfant en allaitement maternel**  
 Supplémentation quotidienne 1000-1200 UI/j (avec un peu de lait) jusqu'à 18 mois,  
-soit ZymaD® buvable en 3-4 gouttes par jour (300 UI/goutte).  
-- **Allaitement artificiel**  
-  - Enfant à terme et lait enrichi en vitD: 600-800 UI/j soit ZymaD® 2-3 gouttes/j.  
-  - Enfant à terme et lait non enrichi en vitD: 100-1200 UI/j soit ZymaD® 3-4 gouttes/j.  
-  - Prématuré: 800-1000 UI/j soit 3 gouttes/j.  
+soit ZymaD® buvable en 3-4 gouttes par jour (300 UI/goutte).
+- **Enfant en allaitement artificiel**
+  - Enfant à terme et lait enrichi en vitD: 600-800 UI/j soit ZymaD® 2-3 gouttes/j.
+  - Enfant à terme et lait non enrichi en vitD: 100-1200 UI/j soit ZymaD® 3-4 gouttes/j.
+  - Prématuré: 800-1000 UI/j soit 3 gouttes/j.
 - **18 mois à 5 ans**  
 80 à 100.000 UI en novembre ET février.  
 - 5 ans à 10 ans  
@@ -118,7 +118,7 @@ Cible de 25(OH)D: ≥ 75 nmol/L.
 1. À 3 mois d'une transplantation rénale
 1. Avant et après une chirurgie bariatrique
 1. Personne âgée avec chutes répétées.  
-Noter sur l’ordonnance « Évaluation et prise en charge des personnes âgées sujettes aux chute répétées »
+Noter sur l’ordonnance « Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées »
 1. Traitement préconisant une mesure de la vitamine D
 
 et aussi

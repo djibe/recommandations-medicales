@@ -18,7 +18,7 @@ draft = false
 image = true
 imageSrc = "CDC/Dr. Patricia Fields, Dr. Collette Fitzgerald (PHIL #5715), 2004"
 flowchart = true
-todo = "Effets indésirables de l'EOGD, comment diag quand rosacée, http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/diagnostic-traitement-et-suivi-deradication/suivi-de-leradication/, dépistage en AINS long cours maastricht III"
+todo = "comment diag quand rosacée, forme héréditaire de K gastrique (SNFGE thésaurus), dépistage en AINS long cours maastricht III"
 +++
 
 {{%article-summary%}}
@@ -62,7 +62,7 @@ La France est un pays de faible incidence.
 
 - Ulcère gastrique ou duodénal  
 - Antécédent d'ulcère gastro-duodénal sans endoscopie
-- Avant prise d'AINS ou aspirine faible dose en cas d'antécédent d'ulcère
+- Avant prise d'AINS ou d'aspirine faible dose en cas d'antécédent d'ulcère
 - Dyspepsie chronique avec endoscopie normale
 - Anémie ferriprive sans cause retrouvée ou résistante à la supplémentation
 - Carence en vitamine B12 sans cause retrouvée
@@ -244,13 +244,13 @@ La recherche fécale de *H. pylori* est une alternative au test respiratoire mai
 
 {{< mermaid title="Conduite à tenir pour le traitement de Helicobacter pylori guidé par antibiogramme. Dr JB FRON d'après HAS/CNPHGE 2017 et GEFH 2019" >}}
 graph TB
-  asymptomatique["<b>Asymptomatique</b><br>- &lt; 40 ans et ATCD K gastrique 1<sup>er</sup> degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie("Sérologie <em>H. pylori</em>")
+  asymptomatique["<b>Asymptomatique</b><br>- &lt; 45 ans et ATCD K gastrique 1<sup>er</sup> degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie("Sérologie <em>H. pylori</em>")
   style asymptomatique stroke:#006ef4, stroke-width:1px
     serologie -- Négative --> indemne(Pas d'infection active)
     serologie -- Positive/Douteuse --> gastro
   suspicion["<b>Symptomatique</b><br>- Suspicion d'ulcère<br>- Dyspepsie chez &gt; 40 ans<br>- Signe d'alarme"] --> gastro("<b>Gastro-entérologue</b><br>EOGD")
   style suspicion stroke:#006ef4, stroke-width:1px
-  suspect["<b>Comorbidités</b><br>- &gt; 40 ans avec ATCD K gastrique 1er degré<br>- Anémie ferriprive ou B12 sans cause<br>- Lymphome gastrique du MALT<br>- Chirurgie bariatrique"] --> gastro
+  suspect["<b>Comorbidités</b><br>- &ge; 45 ans avec ATCD K gastrique 1er degré<br>- Anémie ferriprive ou B12 sans cause<br>- Lymphome gastrique du MALT<br>- Chirurgie bariatrique"] --> gastro
   style suspect stroke:#006ef4, stroke-width:1px
     gastro -- H. pylori + ---> grossesse("Grossesse ou<br>allaitement ?")
       grossesse == Non ===> antibiogramme("<b>Antibiogramme</b><br>Sensible clarithromycine?")
@@ -325,6 +325,7 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 {{%collapse "Sources" %}}
 
 - [Groupe d'Études Français des Helicobacter (GEFH). Site officiel.](http://www.helicobacter.fr/)
+- [SNFGE et al. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 24/06/2019.](https://www.snfge.org/content/2-cancer-de-lestomac)
 - [HAS. Helicobacter pylori : recherche et traitement. 26/03/2019](https://www.has-sante.fr/jcms/c_2911396/fr/helicobacter-pylori-recherche-et-traitement)
 - [HAS et CNPHGE. Diagnostic de l’infection par Helicobacter pylori chez l’adulte. Mai 2017.](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
 - [HAS et CNPHGE. Traitement de l’infection par Helicobacter pylori chez l’adulte. Mai 2017.](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf)

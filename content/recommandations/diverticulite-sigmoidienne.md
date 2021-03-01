@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "délai scanner, éviter cortico/AINS, Prescrire"
+todo = "constipation, délai scanner, éviter cortico/AINS, Prescrire"
 +++
 
 {{%article-summary%}}
@@ -148,7 +148,7 @@ graph TB
             scanner -.-> autre
             scanner -- Oui --> Hospitalisation
             scanner -- Non --> med(Surveillance clinique)
-              med -.-> echec("Aggravation à 48h<br>sans critère d'hospitalisation") --> atb("<b>Antibiothérapie orale</b><br>Amox + a. clavulanique 7j")
+              med -.-> echec("Aggravation à 48h<br>sans critère d'hospitalisation") --> atb("<b>Antibiothérapie orale</b><br>Amox + a. clavulanique 1g x 3/j 7j<br>") -. Allergie vraie .-> allergie("lévofloxacine 500mg 1/j<br>ou ciprofloxacine 500mg x 2/j<br>+ métronidazole 500mg x 3/j 7j")
         bio --> SIB-(Pas de SIB) --> autre(Autre diagnostic)
 {{< /mermaid >}}
 

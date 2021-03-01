@@ -16,13 +16,13 @@ sctid = ""
 flowchart = false
 image = false
 imageSrc = ""
-todo = "lieux haute endémie"
+todo = "vaccin combiné"
 
 +++
 
 {{%article-summary%}}
 
-- Vaccination HSH, enfant de parent de zone endémique si séjour, 14 jours autour d'un cas.
+- Vacciner: HSH, enfant amené à séjourner en zone endémique, 14 jours autour d'un cas.
 - Le seul traitement est préventif par les mesures d'hygiène et la vaccination.
 - Voyage: 1 injection 15 jours avant le départ et rappel à 6 mois (voire +), dès 1 an.
 
@@ -32,7 +32,8 @@ todo = "lieux haute endémie"
 Hépatite A
 : Maladie infectieuse du foie causée par le virus de l'hépatite A (VHA).  
 La transmission est féco-orale (péril fécal).  
-L'hépatite peut être bénigne à grave (exceptionnellement fulminante) avec une immunité à vie.
+L'hépatite A est l'hépatite la plus fréquente au monde et peut être bénigne à grave (exceptionnellement fulminante) avec une guérison entraînant une immunité à vie.
+: Les zones de **haute endémicité** de l'hépatite A sont: Afrique, Moyen-Orient, Asie et Amérique latine.
 
 ### Abréviations
 
@@ -52,7 +53,7 @@ Hépatite B, hépatite C, alcool.
 - Enfant > 1 an né de personne venant de zone endémique et susceptible d'y séjourner
 - [HSH]({{< relref "hsh.md" >}})
 - Entourage d'un cas d'hépatite A aiguë  
-Le + tôt possible sans sérologie préalable, délai max de 14j après les premiers signes du cas si:
+Le plus tôt possible sans sérologie préalable, délai max de 14j après les premiers signes du cas si:
   - Jamais vacciné hépatite A
   - et né après 1945
   - et sans antécédent d'ictère
@@ -100,7 +101,9 @@ Rappel à 6 mois ou plus selon la spécialité administrée.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Organisation Mondiale de la Santé. Hépatite A. 27/07/2020.](https://www.who.int/fr/news-room/fact-sheets/detail/hepatitis-a)
 - [Vaccination Info Service Professionnels. Hépatite A. 21/04/2020](https://professionnels.vaccination-info-service.fr/Maladies-et-leurs-vaccins/Hepatite-A)
 - [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+- [Ministère de la Santé. L'hépatite A. 13/07/2016.](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/article/l-hepatite-a)
 
 {{% /collapse %}}
