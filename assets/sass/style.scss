@@ -234,6 +234,7 @@ a[href^='http']:not([class])::after {
     @extend .typography-body-1;
   }
 
+  ol:not([class]),
   ul:not([class]) {
     @extend .typography-body-1;
 
@@ -272,6 +273,10 @@ a[href^='http']:not([class])::after {
     p,
     li {
       font-size: 1rem;
+    }
+
+    h3 {
+      color: inherit;
     }
 
     > :first-child {

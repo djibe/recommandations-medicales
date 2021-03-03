@@ -21,7 +21,8 @@ todo = "Ostéodensitométrie avant 35 ans ???, dermatite herpétiforme"
 {{%article-summary%}}
 
 - Fréquente et possible à tout âge.
-- Dépistage par sérologie IgA anti-transglutaminase et IgA totales ou EOGD d'emblée selon la probabilité clinique sans régime.
+- Dépistage par sérologie IgA anti-transglutaminase + IgA totales  
+ou EOGD d'emblée selon la probabilité clinique sans régime.
 - Éviction du gluten à vie après confirmation du diagnostic par les biopsies et le gastro-entérologue.
 - Disparition des symptômes après 6 à 12 mois d'éviction du gluten.
 - Dépistage de l'entourage au 1<sup>er</sup> degré.
@@ -266,11 +267,11 @@ Des  produits  diététiques  sans  gluten  sont  rem-boursés  partiellement  p
 
 {{< mermaid title="Conduite à tenir en cas de suspicion de maladie cœliaque. Dr JB FRON d'après EssCD 2019" >}}
 graph TB
-  symptomatique["Symptomatique"] --> examen("Sérologie ou fibroscopie d'emblée<br>selon le cas")
+  symptomatique[Symptomatique] --> examen("Sérologie ou fibroscopie d'emblée<br>selon le cas (voir Qui dépister) ")
   style symptomatique stroke:#006ef4, stroke-width:1px
-  personneARisque["Personne à risque"] --> examen
+  personneARisque[Personne à risque] --> examen
   style personneARisque stroke:#006ef4, stroke-width:1px
-    examen --> gastro("Consultation du gastro-entérologue")
+    examen --> gastro(Consultation du gastro-entérologue)
       gastro --"Diagnostic de maladie cœliaque"--> traitement("<b>Éviction du gluten à vie</b><br>Surveillance clinico-biologique<br>Bilan diététique<br>Dépistage de l'entourage")
       gastro --"Diagnostic infirmé"--> explo("Poursuite du bilan<br>par le spécialiste")
 {{< /mermaid >}}

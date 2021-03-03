@@ -22,16 +22,16 @@ todo = "TODO: relire fiche, gs, enfant, choc anaphyla, Quincke, https://onlineli
 
 {{%article-summary%}}
 
-- Signes de gravité:  
+- Signes de gravité  
 Dysphonie, hyper-salivation et troubles de la déglutition.
-- Pas de corticoïdes (effet rebond)
+- Pas de corticoïdes par effet rebond
 - Anti-histaminique anti-H1 seul
 - Bilan uniquement en urticaire chronique résistant
 - **Une** urticaire et un **é**dème {{%class%}}(œdème){{%/class%}}
 - Pour l'enfant, lire [Urticaire aiguë de l’enfant](https://pap-pediatrie.fr/urticaire-aigue-de-lenfant)
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Urticaire
 : Dermatose inflammatoire caractérisée par les lésions papuleuses, œdémateuses prurigineuses bien limitées en petits éléments ou confluants en **larges plaques fugaces, migratrices et prurigineuses**.
@@ -105,7 +105,8 @@ Angio-œdème vibratoire
 {{%collapse "Signes de gravité" %}}
 
 {{%warning%}}
-**Signes de gravité de l'urticaire**:
+
+### Signes de gravité de l'urticaire
 
 - Dyspnée
 - Dysphonie
@@ -161,12 +162,12 @@ Elles doivent disparaître en 24h.
 - Examen dermatologique
   - Dermographisme
   - Plaques d'urticaires persistantes
-- Signes de maladie inflammatoire (TODO:)
+- Signes de maladie inflammatoire
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-### De l'urticaire aiguë
+### Diagnostic différentiel de l'urticaire aiguë
 
 - Eczéma aigu du visage  
 Absence de lésion muqueuse, suintement.
@@ -176,11 +177,11 @@ Les lésions sont fixes.
 - Maladie de Still  
 Éruption fébrile à tendance vespérale, maculeuse ou parfois urticarienne.
 
-### De l'urticaire chronique
+### Diagnostic différentiel de l'urticaire chronique
 
-- Érythème polymorphe (enfant)
 - Mastocytose
 - Pemphigoïde au stade pré-bulleux
+- Enfant: Érythème polymorphe
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -239,10 +240,11 @@ Biopsie cutanée.
 - Éviction d'un médicament en cas de suspicion.
 - Remettre la liste des aliments histamino-libérateurs.
 - Anti-histaminique anti-H1 (2G = seconde génération) pendant 2 semaines.  
-En cas d'échec à 2 semaines, augmenter la posologie jusqu'à x4 (EAACI/GA2LEN/EDF/WAO 2013).  
-TODO: 3e ligne de traitement: ajouter omalizumab (Xolair®) ou ciclosporine (Néoral®) ou antileucotriènes (Singulair®).
+En cas d'échec à 2 semaines, augmenter la posologie jusqu'à 4 fois (*EAACI/GA2LEN/EDF/WAO 2013*).
 
-**NB.** Pas de corticoïdes (risque d'effet rebond) ni de bilan allergologique (sauf orientation).
+Si échec, adresser au dermatologue.
+
+**NB.** Pas de corticoïdes par risque d'effet rebond ni de bilan allergologique (sauf orientation).
 
 #### Antihistaminiques anti-H1 de seconde génération
 
@@ -256,20 +258,23 @@ Molécules peu ou pas sédatives de première intention (selon Prescrire): **Cé
 {{%info%}}Cétirizine 10 mg 1 par jour pendant 8 semaines.{{%/info%}}
 
 - Anti-histaminique anti-H1 pendant 4 à 8 semaines
-- Éviter les médicaments histaminolibérateurs (AINS/aspirine surtout)
-- Éviter les aliments riches en amines biogènes TODO:
+- Éviter les médicaments histaminolibérateurs  
+AINS/aspirine surtout.
+- Éviter les aliments riches en amines biogènes
 - Bilan allergologique exceptionnel
 - Proposer un soutien psychologique  
 Éviter antidépresseurs tricycliques et IMAO.
 
 #### Persistance à 8 semaines et échec du traitement
 
-- Réaliser le bilan biologique (voir *Examens complémentaires*).
-- Vérifier l'observance.
-- Rechercher des facteurs aggravants ou des signes spécifiques.
-- Substitution de l'antihistaminique anti-H1 de seconde génération (2G)  
-ou bithérapie anti-H1 2G le matin et anti-H1 1G le soir (prurit, troubles du sommeil).  
-Réévaluation à 4-8 semaines.
+- Réaliser le bilan biologique  
+Voir *Examens complémentaires*.
+- Vérifier l'observance
+- Rechercher des facteurs aggravants ou des signes spécifiques
+- Substitution de l'antihistaminique anti-H1 de seconde génération (2G)
+- En cas de prurit ou troubles du sommeil:  
+bithérapie anti-H1 2G le matin et anti-H1 1G le soir.  
+- Réévaluation à 4-8 semaines
 
 Essayer successivement tous les antihistaminique anti-H1 si échec et adresser au spécialiste pour avis pluridisciplinaire.
 
@@ -368,21 +373,22 @@ Népressol, réserpine, hydralazine, trasipressol.
 
 {{< mermaid title="Conduite à tenir devant une urticaire aiguë. Dr JB FRON d'après CEILF" >}}
 graph TB
-  UA["Urticaire aiguë"] --> gravite("<b>Signes de gravité ?</b><br>- Dysphonie<br>- Hypersalivation<br>- Troubles de la déglutition")
+  UA[Urticaire aiguë] --> gravite("<b>Signes de gravité ?</b><br>- Dysphonie<br>- Hypersalivation<br>- Troubles de la déglutition")
   style UA stroke:#006ef4, stroke-width:1px
-    gravite -- Non --> tttUA("Anti-H1 2G 2 semaines")
+    gravite -- Non --> tttUA(Anti-H1 2G 2 semaines)
       tttUA -- Efficace --> Guérison
-      tttUA -- Persistance --> prolongation("Anti-H1 x2-4 pendant<br>6 semaines") -- Persistance --> UC(Urticaire chronique)
+      tttUA -- Persistance --> prolongation("Anti-H1 dose x 2 à 4 pendant<br>6 semaines") -- Persistance --> UC(Urticaire chronique)
     gravite -- Oui --> urgence("Appel du 15<br>Traitement du choc<br>anaphylactique/Quincke")
 {{< /mermaid >}}
 
 {{< mermaid title="Conduite à tenir devant une urticaire chronique. Dr JB FRON d'après ANAES 2003" >}}
 graph TB
-  UC["Urticaire chronique (UC)<br>Durée &gt; 6 semaines"] --> orientation("Maladie générale?<br>Forme particulière?")
+  UC["Urticaire chronique<br>&gt; 6 semaines"] --> orientation("Maladie générale<br> ou forme particulière?")
   style UC stroke:#006ef4, stroke-width:1px
-    orientation --> isolee("UC isolée<br>Pas de bilan") --> ttt1(Anti-H1 2G 4 à 8 sem)
-        ttt1 -- Résistance --> bilan("Bilan de l'UC<br>NFS, VS, CRP<br>anti-TPO +/- TSH")
+    orientation -- Non --> isolee("Urticaire isolée<br>= pas de bilan") --> ttt1(Anti-H1 2G 4 à 8 sem)
+        ttt1 -- Résistance --> bilan("<b>Bilan biologique</b><br>NFS, VS, CRP<br>anti-TPO +/- TSH")
         ttt1 -- Résolution --> fin(Pas de bilan)
+    orientation -- Oui --> maladie(Bilan spécifique)
 {{< /mermaid >}}
 
 {{% /collapse %}}
