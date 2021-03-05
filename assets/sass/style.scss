@@ -561,8 +561,32 @@ div.data-table {
   margin-bottom: 0 !important;
 }
 
-.mermaid {
+svg[id*='mermaid'] {
   margin-bottom: 24px;
+
+  .node rect,
+  .node circle,
+  .node ellipse,
+  .node polygon,
+  .node path {
+    fill: #E0EEFF !important;
+  }
+}
+
+div.mermaidTooltip {
+  position: absolute;
+  text-align: center;
+  max-width: 250px;
+  border-radius: 4px;
+  font-size: .625rem;
+  font-weight: 500;
+  background: #6d6d6d;
+  color: #fff;
+  padding: 0 .5rem;
+  line-height: 1.5rem;
+  
+  pointer-events: none;
+  z-index: 240;
 }
 
 .bg-light {

@@ -19,6 +19,8 @@ imageSrc = ""
 todo = "bilan 1re intention"
 +++
 
+*Ébauche de fiche*.
+
 {{%collapse "Étiologie" %}}
 
 - [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})

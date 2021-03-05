@@ -59,6 +59,7 @@
 <script src="https://cdn.jsdelivr.net/npm/mermaid@8.9.1/dist/mermaid.min.js" integrity="sha256-2yot/aJXP4DvaYLR+OFn+x1FbiNosHse7PXK+TodJiA=" crossorigin></script>
 <script>
   // https://mermaid-js.github.io/mermaid/#/Setup?id=fontfamily
+
   const MermaidConfig = {
     fontFamily: 'Roboto',
     fontSize: '1rem',
@@ -66,13 +67,17 @@
     nodeTextColor: '#212121',
     // logLevel: 1,
     startOnLoad: true,
-    securityLevel:'loose',
-    themeCSS: ".node rect, .node polygon {fill: #E0EEFF; stroke-width: 0;} .edgePath {opacity: 0.3 !important} .edgePath .path {stroke-width: 2px;}",
+    securityLevel: 'loose',
+    themeCSS: ".node rect, .node polygon {stroke-width: 0;} .edgePath {opacity: 0.3 !important} .edgePath .path {stroke-width: 2px;}",
     flowchart: {
       curve: 'Basis',
       htmlLabels: true,
       nodeSpacing: 30,
       rankSpacing: 40,
+    }, mermaid: {
+      callback:function(id) {
+        //$('#' + id).css('opacity', '0');
+      }
     }
   };
 
@@ -169,6 +174,6 @@
       html: true,
       placement: 'bottom'
     });
-    $('[data-toggle="popover"]').popover({ html: true });
+    // $('[data-toggle="popover"]').popover({ html: true });
   });
 </script>

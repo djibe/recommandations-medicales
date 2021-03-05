@@ -762,6 +762,7 @@ small,
   font-size: 1.5rem;
   line-height: 1.5rem;
   vertical-align: -0.362637em;
+  font-family: 'Material Icons';
   font-family: var(--font-family-material-icons);
   font-feature-settings: 'liga';
   font-style: normal;
@@ -1388,6 +1389,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   border-radius: 1rem;
   color: inherit;
   display: inline-flex;
+  font-size: inherit;
   height: 2rem;
   justify-content: center;
   letter-spacing: 0.017857em;
@@ -1406,7 +1408,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
 }
 
 .chip .close {
-  background-image: url('data:image/svg+xml;charset=utf8,%3csvg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"%3e%3cpath fill="%23666" d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z"/%3e%3c/svg%3e');
+  background-image: url('data:image/svg+xml,%3csvg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"%3e%3cpath fill="%23666" d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z"/%3e%3c/svg%3e');
   height: 18px;
   margin-right: -0.25rem;
   margin-left: 0.5rem;
@@ -1432,7 +1434,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
 }
 
 .chip-outline .close {
-  background-image: url('data:image/svg+xml;charset=utf8,%3csvg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"%3e%3cpath fill="%239e9e9e" d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z"/%3e%3cpath d="M0 0h24v24H0z" fill="none"/%3e%3c/svg%3e');
+  background-image: url('data:image/svg+xml,%3csvg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"%3e%3cpath fill="%239e9e9e" d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z"/%3e%3cpath d="M0 0h24v24H0z" fill="none"/%3e%3c/svg%3e');
 }
 
 .chip-action:hover, .chip-action:focus, .chip-action:active {
@@ -3014,6 +3016,7 @@ textarea.form-control {
   font-size: 1.5rem;
   line-height: 1.5rem;
   vertical-align: -0.362637em;
+  font-family: 'Material Icons';
   font-family: var(--font-family-material-icons);
   font-feature-settings: 'liga';
   font-style: normal;
@@ -3143,12 +3146,10 @@ textarea.form-control {
   display: block;
   font-size: 0.875rem;
   font-weight: 500;
-  line-height: 1.5;
   margin: 1.5rem;
   max-width: 250px;
   opacity: 0;
   position: absolute;
-  word-break: break-word;
   z-index: 240;
 }
 
@@ -3183,26 +3184,24 @@ textarea.form-control {
 }
 
 .tooltip-inner {
-  border-radius: 4px;
-  align-items: center;
-  background-color: #6d6d6d;
-  color: white;
-  display: flex;
-  height: 2rem;
-  margin: auto;
-  max-width: 234px;
   overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  background-color: #6d6d6d;
+  border-radius: 4px;
+  color: white;
+  height: 2rem;
+  line-height: 2rem;
   padding: 0 1rem;
-  text-overflow: clip;
   transform: scale(0.87);
   transform-origin: center top;
   transition: transform 75ms cubic-bezier(0.4, 0, 1, 1);
-  white-space: nowrap;
 }
 
 @media (min-width: 992px) {
   .tooltip-inner {
     height: 1.5rem;
+    line-height: 1.5rem;
     padding: 0 0.5rem;
   }
 }
