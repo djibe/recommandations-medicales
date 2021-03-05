@@ -1,0 +1,46 @@
++++
+title = "Névralgie du trijumeau"
+prefix = "la "
+shortname = "NTC"
+synonyms = ["Névralgie trigéminale classique de l’adulte"]
+auteurs = ["Jean-Baptiste FRON"]
+date = 2021-03-15T17:43:00+02:00
+publishdate = 2021-03-15
+lastmod = 2021-03-15
+specialites = ["dermatologie"]
+annees = "2020"
+sources = ["HAS"]
+tags = ["HSH", "IST"]
+anglais = ["MSM"]
+sctid = "76102007"
+draft = true
+image = false
+imageSrc = ""
+todo = ""
++++
+
+{{%article-summary%}}
+
+
+
+{{%/article-summary%}}
+{{%collapse "Définition" %}}
+
+
+
+{{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
+
+
+{{% /collapse %}}
+{{%collapse "Prévention" %}}
+
+
+{{% /collapse %}}
+{{%collapse "Sources" %}}
+
+- [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+
+{{% /collapse %}}
+
+≤≥±®œŒ³

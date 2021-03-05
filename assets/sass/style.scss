@@ -630,6 +630,17 @@ div.mermaidTooltip {
   width: Min(100%, 768px);
 }
 
+// TODO: remove Material Icons
+
+.custom-radio {
+	.custom-control-input {
+	  opacity: 0.8;
+	}
+	.custom-control-label::after {
+ 	  opacity: 0;
+	}
+}
+
 @media print {
   main > .recommandation {
     padding-top: 0;
