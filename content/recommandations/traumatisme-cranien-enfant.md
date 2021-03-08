@@ -14,7 +14,7 @@ tags = ["enfant", "trauma cranien", "Glasgow"]
 anglais = ["Head injury"]
 sctid = "82271004"
 flowchart = true
-todo = "score glasgow, examen clinique"
+todo = "examen clinique"
 +++
 
 {{%article-summary%}}

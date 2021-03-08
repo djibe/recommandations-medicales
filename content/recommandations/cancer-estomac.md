@@ -16,7 +16,7 @@ sctid = "363349007"
 draft = false
 image = true
 imageSrc = "Coupe histopathologique comparative d'adénocarcinome gastrique par Green, John et al. CC BY 4.0, via Wikimedia Commons"
-todo = "FDR: IPP > 1 an ?, dénutrition"
+todo = "algo, FDR: IPP > 1 an ?, dénutrition"
 +++
 
 {{%article-summary%}}

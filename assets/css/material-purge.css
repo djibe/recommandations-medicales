@@ -790,6 +790,54 @@ small,
   margin-right: 0.5rem;
 }
 
+.close {
+  /* transition: $transition-duration-mobile;
+  transition-property: $property;
+  transition-timing-function: $transition-timing-function-standard; */
+  transition: color 300ms cubic-bezier(0.4, 0, 0.2, 1);
+  appearance: none;
+  background-color: transparent;
+  background-image: none;
+  border: 0;
+  color: rgba(0, 0, 0, 0.38);
+  float: right;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1;
+  padding: 0;
+}
+
+@media (min-width: 576px) {
+  .close {
+    transition-duration: 390ms;
+  }
+}
+
+@media (min-width: 992px) {
+  .close {
+    transition-duration: 280ms;
+  }
+}
+
+.close:hover, .close:focus, .close:active {
+  color: rgba(0, 0, 0, 0.87);
+  text-decoration: none;
+}
+
+.close:focus {
+  outline: 0;
+}
+
+.close:not(:disabled):not(.disabled) {
+  cursor: pointer;
+}
+
+button.close {
+  background-color: transparent;
+  border: 0;
+  padding: 0;
+}
+
 .form-group {
   margin-bottom: 1rem;
 }
@@ -1039,42 +1087,42 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   height: 2.5rem;
 }
 
-
+[class*='btn-flat'],
 .modal .btn {
   padding: 0 0.5rem;
 }
 
-
+[class*='btn-flat'],
 .modal .btn {
   background: transparent;
   box-shadow: none;
 }
 
-
+[class*='btn-flat']:hover, [class*='btn-flat']:focus, [class*='btn-flat']:active,
 .modal .btn:hover,
 .modal .btn:focus,
 .modal .btn:active {
   box-shadow: inherit;
 }
 
-
+.btn-flat-primary, .btn-flat-primary:hover, .btn-flat-primary:focus,
 .modal .btn-primary,
 .modal .btn-primary:hover,
 .modal .btn-primary:focus {
   color: #006ef4;
 }
 
-
+.btn-flat-primary:hover,
 .modal .btn-primary:hover {
   background-image: linear-gradient(to bottom, rgba(0, 110, 244, 0.04), rgba(0, 110, 244, 0.04));
 }
 
-
+.btn-flat-primary:focus,
 .modal .btn-primary:focus {
   background-image: linear-gradient(to bottom, rgba(0, 110, 244, 0.12), rgba(0, 110, 244, 0.12));
 }
 
-
+.btn-flat-primary:disabled,
 .modal .btn-primary:disabled {
   color: rgba(0, 0, 0, 0.37);
 }
@@ -1679,6 +1727,34 @@ input:disabled + .chip {
   transform: scale(1);
 }
 
+.modal-dialog-scrollable {
+  display: flex;
+  max-height: calc(100% - 2rem);
+}
+
+.modal-dialog-scrollable .modal-content {
+  max-height: calc(100vh - 2rem);
+  overflow: hidden;
+}
+
+.modal-dialog-scrollable .modal-header,
+.modal-dialog-scrollable .modal-footer {
+  flex-shrink: 0;
+}
+
+.modal-dialog-scrollable .modal-header {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  padding-bottom: calc(1rem - 1px);
+}
+
+.modal-dialog-scrollable .modal-footer {
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.modal-dialog-scrollable .modal-body {
+  overflow-y: auto;
+}
+
 .modal-dialog-centered {
   align-items: center;
   display: flex;
@@ -1690,6 +1766,20 @@ input:disabled + .chip {
   display: block;
   height: calc(100vh - 2rem);
   height: min-content;
+}
+
+.modal-dialog-centered.modal-dialog-scrollable {
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+}
+
+.modal-dialog-centered.modal-dialog-scrollable::before {
+  content: none;
+}
+
+.modal-dialog-centered.modal-dialog-scrollable .modal-content {
+  max-height: none;
 }
 
 .modal-content {
@@ -1758,6 +1848,10 @@ input:disabled + .chip {
 
 .modal-header + .modal-body {
   padding: 0 1.5rem 1.25rem;
+}
+
+.modal-dialog-scrollable .modal-header + .modal-body {
+  padding: 0.5rem 1.5rem;
 }
 
 .modal-body > :last-child {
@@ -2674,7 +2768,7 @@ input:disabled + .chip {
   letter-spacing: 0.15px;
   line-height: 1.5;
   padding: 0.375rem 0 calc(0.375rem - 1px);
-  transition: border-color 15ms linear;
+  transition: border-color 15ms linear, box-shadow 180ms cubic-bezier(0.4, 0, 0.2, 1);
   width: 100%;
 }
 
@@ -3282,7 +3376,6 @@ textarea.form-control {
   }
 } */
 .tooltip {
-  display: block;
   font-size: 0.875rem;
   font-weight: 500;
   margin: 1.5rem;
@@ -3304,22 +3397,8 @@ textarea.form-control {
 }
 
 .tooltip.show .tooltip-inner {
-  transition-duration: 225ms;
-  transition-property: transform;
-  transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
   transform: scale(1);
-}
-
-@media (min-width: 576px) {
-  .tooltip.show .tooltip-inner {
-    transition-duration: 292.5ms;
-  }
-}
-
-@media (min-width: 992px) {
-  .tooltip.show .tooltip-inner {
-    transition-duration: 150ms;
-  }
+  transition: transform 225ms cubic-bezier(0, 0, 0.2, 1);
 }
 
 .tooltip-inner {

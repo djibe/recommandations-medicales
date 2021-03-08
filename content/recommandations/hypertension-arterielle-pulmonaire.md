@@ -95,5 +95,3 @@ Le traitement est choisi par le centre de référence. Le suivi est au moins ann
 - [Réseau HTAP](http://www.reseau-htap.fr/)
 
 {{% /collapse %}}
-
-≤≥±®œŒ³
