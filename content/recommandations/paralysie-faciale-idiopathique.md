@@ -17,51 +17,8 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Photo de l'Internet Archive Book Images sur Foter.com"
-todo = "algo, soins oculaires"
+todo = "soins oculaires"
 +++
-
-{{% modal title="Classification de House-Brackmann" id="score-house" %}}
-
-Grade I
-: Mobilité faciale et tonus normaux
-
----
-
-Grade II
-: Dysfonction légère.
-  - Au repos: visage symétrique et tonus normal
-  - Aux mouvements: légère asymétrie sans contracture avec présence possible de discrètes syncinésies.
-
----
-
-Grade III
-: Dysfonction modérée.
-  - Au repos: visage symétrique et tonus normal
-  - Aux mouvements: diminution globale de la mobilité avec asymétrie non défigurante, fermeture oculaire complète avec effort, spasmes et syncinésies modérées.
-
----
-
-Grade IV
-: Dysfonction modérée à sévère.
-  - Au repos: symétrie globalement conservée, tonus normal
-  - Aux mouvements: asymétrie importante et/ou défigurante, fermeture oculaire incomplète même avec effort, syncinésies ou spasmes sévères.
-
----
-
-Grade V
-: Dysfonction sévère.
-  - Au repos: asymétrie évidente et diminution du tonus
-  - Aux mouvements: mobilité à peine perceptible au niveau de l'œil et de la bouche.  
-  À ce stade, pas de syncinésie ni spasme possible.
-
----
-
-Grade VI
-: Paralysie faciale complète, aucun mouvement.
-
-> House JW, Brackmann DE. Facial nerve grading system. Otolaryngology Head Neck Surgery 1985;93:146-7.
-
-{{% /modal %}}
 
 Ces recommandations concernent l'adulte.
 
@@ -288,8 +245,13 @@ Hospitalisation en urgence, [voir *Zona*]({{< relref "zona.md" >}}).
 
 {{< mermaid title="Conduite à tenir devant une paralysie faciale idiopathique. Dr JB FRON d'après SFORL 2020" >}}
 graph TB
-  PF[Paralysie faciale]
+  PF[Paralysie faciale] --> atypie("<b>Clinique:</b> &ge; 1 signe parmi ?<hr>- Antécédent de PF<br>- Installation &gt; 72h<br>- Dissociation A-V<br>- Bilatérale, fluctuante<br>- Otalgie, surdité, vertiges<br>- PFP atypique<br>- Éruption vésiculeuse<br>- ADP cervicales<br>- Déficit autre")
   style PF stroke:#006ef4, stroke-width:1px
+    atypie -- Oui --> differentiel("Éliminer une cause urgente<br>de paralysie faciale")
+    atypie -- Non --> PFI("<b>Paralysie faciale idiopathique</b><br>si aucun des éléments ci-dessus")
+      PFI --> bilan("<b>Examens</b><hr>- NFS<br>- sérologies Lyme, VIH<br>- Audiométrie<br>- IRM n. facial<br>- ENMG si grave")
+        bilan --> ttt("<b>Traitement urgent</b><hr>- Prednisolone po 1 mg/kg 5j<br>puis 10 mg/j 5j<br>- Valaciclovir 1g x 3/j<br>- Prévention kératite<br>- Kiné forme sévère/séq.")
+          ttt --> surv(Surveillance de la récupération)
 {{< /mermaid >}}
 
 {{%/collapse%}}
@@ -299,3 +261,46 @@ graph TB
 - [Collège des enseignants de neurologie. Paralysie faciale.](https://www.cen-neurologie.fr/deuxieme-cycle/paralysie-faciale)
 
 {{% /collapse %}}
+
+{{% modal title="Classification de House-Brackmann" id="score-house" %}}
+
+Grade I
+: Mobilité faciale et tonus normaux
+
+---
+
+Grade II
+: Dysfonction légère.
+  - Au repos: visage symétrique et tonus normal
+  - Aux mouvements: légère asymétrie sans contracture avec présence possible de discrètes syncinésies.
+
+---
+
+Grade III
+: Dysfonction modérée.
+  - Au repos: visage symétrique et tonus normal
+  - Aux mouvements: diminution globale de la mobilité avec asymétrie non défigurante, fermeture oculaire complète avec effort, spasmes et syncinésies modérées.
+
+---
+
+Grade IV
+: Dysfonction modérée à sévère.
+  - Au repos: symétrie globalement conservée, tonus normal
+  - Aux mouvements: asymétrie importante et/ou défigurante, fermeture oculaire incomplète même avec effort, syncinésies ou spasmes sévères.
+
+---
+
+Grade V
+: Dysfonction sévère.
+  - Au repos: asymétrie évidente et diminution du tonus
+  - Aux mouvements: mobilité à peine perceptible au niveau de l'œil et de la bouche.  
+  À ce stade, pas de syncinésie ni spasme possible.
+
+---
+
+Grade VI
+: Paralysie faciale complète, aucun mouvement.
+
+> House JW, Brackmann DE. Facial nerve grading system. Otolaryngology Head Neck Surgery 1985;93:146-7.
+
+{{% /modal %}}
