@@ -15,7 +15,7 @@ anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac
 sctid = "396331005"
 draft = false
 flowchart = true
-todo = "Ostéodensitométrie avant 35 ans ???, dermatite herpétiforme"
+todo = "attente OK Pr Christophe Cellier (HEGP), Ostéodensitométrie avant 35 ans ???, dermatite herpétiforme"
 +++
 
 {{%article-summary%}}

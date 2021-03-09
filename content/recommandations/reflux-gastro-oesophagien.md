@@ -14,6 +14,8 @@ tags = ["RGO", "EOGD"]
 anglais = ["Gastroesophageal reflux disease"]
 sctid = "235595009"
 draft = false
+image = true
+imageSrc = "BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
 todo = "Attente accord Pr Frank Zerbib (CHU Bordeaux), Médicaments et doses"
 +++
