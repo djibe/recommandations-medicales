@@ -18,6 +18,8 @@ flowchart = true
 todo = "spirométrie?, ttt épreuve?, EOGD?, MAJ graph"
 +++
 
+*Cette fiche va être retravaillée avec les recommandations SFORL 2020*.
+
 {{%article-summary%}}
 
 - Recommandations pour la toux chronique native (voir Définitions)

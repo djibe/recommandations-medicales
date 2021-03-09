@@ -39,16 +39,18 @@ et l'accident vasculaire hémorragique par rupture artérielle (HTA, anévrisme,
 
 Accident ischémique transitoire (AIT)
 : **Urgence vitale** par déficit neurologique ou rétinien transitoire (typiquement < 1h) sans anomalie à l'imagerie cérébrale.
-: Risque d'AVC de 90% à 3 mois, dont la moitié dans les 48h suivantes. La prise en charge est identique à celle de l'AVC.
+: Risque d'AVC de 90% à 3 mois, dont la moitié dans les 48 heures suivantes. La prise en charge est identique à celle de l'AVC.
 
 ### Abréviations
 
-**AIC:**Accident ischémique cérébral
-**FRCV:** Facteurs de risque cardiovasculaires  
-**HTA:** Hypertension artérielle  
-**MAPA:** Mesure ambulatoire de la pression artérielle sur 24 heures ou Holter tensionnel  
-**MAV:** Malformation artério-veineuse  
-**PAS:** Pression artérielle systolique
+**AIC:** accident ischémique cérébral  
+**AVC:** accident vasculaire cérébral  
+**FRCV:** facteurs de risque cardiovasculaires  
+**HTA:** hypertension artérielle  
+**MAPA:** mesure ambulatoire de la pression artérielle sur 24 heures ou Holter tensionnel  
+**MAV:** malformation artério-veineuse  
+**PAS:** Pression artérielle systolique  
+**TZD:** diurétiques thiazidiques
 **UNV:** Unité neuro-vasculaire
 
 {{% /collapse %}}

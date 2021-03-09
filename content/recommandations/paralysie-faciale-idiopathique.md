@@ -33,7 +33,7 @@ Ces recommandations concernent l'adulte.
 {{%collapse "Définition" %}}
 
 Paralysie faciale idiopathique (PFI)
-: Anciennement paralysie faciale *a frigore*. *Paralysie faciale périphérique* (PFP) d'installation brutale pouvant s'aggraver pendant maximum 72 heures. Elle touche les territoires supérieur et inférieur de l'hémiface avec une atteinte des motricités volontaire, automatique et émotionnelle. La guérison spontanée sous 6 mois est observée dans 70% des cas et corrélé à la gravité initiale.
+: Anciennement paralysie faciale *a frigore*. *Paralysie faciale périphérique* (PFP) d'installation brutale pouvant s'aggraver pendant maximum 72 heures. Elle touche les territoires supérieur et inférieur du nerf facial (VII) de l'hémiface avec une atteinte des motricités volontaire, automatique et émotionnelle. La guérison spontanée sous 6 mois est observée dans 70% des cas et corrélé à la gravité initiale.
 : La PFI est un diagnostic d'élimination et la fréquence des causes infectieuses et tumorales mimant une PFI imposent un bilan systématique.  
 Les récidives sont exceptionnelles (6%).
 
@@ -212,7 +212,7 @@ Traitement de toute paralysie faciale idiopathique en urgence et au mieux dans l
   Contrôler l'absence de contact entre le pansement adhésif et l'œil.  
   Associer à la pommade vitamine A.
   - Surveillance prolongée des signes ophtalmiques
-- Rééducation par KDE/orthophonistes formés
+- Rééducation par kinésithérapeute/orthophonistes formés
   - Prise en charge précoce en forme grave ou risques de mauvaise récupération  
   {{%class%}}Ne permet pas d'affirmer la réduction des séquelles.{{%/class%}}
   - Exercices musculaires du visage, biofeedback, traitement au laser, massage et thermothérapie au cours des premiers mois + auto-exercices.

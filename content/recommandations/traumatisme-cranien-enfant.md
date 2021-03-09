@@ -42,7 +42,7 @@ Traumatisme crânien léger (TCL)
       <a aria-controls="zerodeux" aria-selected="false" class="nav-link" data-toggle="tab" href="#zerodeux" id="zerodeux-tab" role="tab">0 à 2 ans</a></li>
   </ul>
   <div class="card-body tab-content">
-    <div aria-labelledby="plus5-tab" class="tab-pane fade show active" id="plus5" role="tabpanel">
+    <div aria-labelledby="5plus-tab" class="tab-pane fade show active" id="plus5" role="tabpanel">
       <form class="my-4 form" autocomplete="off">
         <h4 class="card-title mb-lg-4">Échelle de Glasgow standard</h4>
         <div class="row">
@@ -214,7 +214,7 @@ Traumatisme crânien léger (TCL)
             <div class="form-group">
               <p class="font-weight-bold">Ouverture des yeux</p>
               <div class="custom-control custom-radio">
-                <input type="radio" id="radio1111" name="radio111" class="custom-control-input" value="4"required>
+                <input type="radio" id="radio1111" name="radio111" class="custom-control-input" value="4" required>
                 <label class="custom-control-label" for="radio1111">4 - spontanément</label>
               </div>
               <div class="custom-control custom-radio">
@@ -235,7 +235,7 @@ Traumatisme crânien léger (TCL)
             <div class="form-group">
               <p class="font-weight-bold">Réponse verbale</p>
               <div class="custom-control custom-radio">
-                <input type="radio" id="radio2111" name="radio211" class="custom-control-input" value="5"required>
+                <input type="radio" id="radio2111" name="radio211" class="custom-control-input" value="5" required>
                 <label class="custom-control-label" for="radio2111">5 - agit normalement</label>
               </div>
               <div class="custom-control custom-radio">
@@ -260,8 +260,8 @@ Traumatisme crânien léger (TCL)
             <div class="form-group">
               <p class="font-weight-bold">Réponse motrice</p>
               <div class="custom-control custom-radio">
-                <input type="radio" id="radio3111" name="radio311" class="custom-control-input" value="6"required>
-                <label class="custom-control-label" for="radio3111">6 - mouvements spontanés intentionnels<label>
+                <input type="radio" id="radio3111" name="radio311" class="custom-control-input" value="6" required>
+                <label class="custom-control-label" for="radio3111">6 - mouvements spontanés intentionnels</label>
               </div>
               <div class="custom-control custom-radio">
                 <input type="radio" id="radio3121" name="radio311" class="custom-control-input" value="5">

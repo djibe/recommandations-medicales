@@ -10,10 +10,10 @@ lastmod = 2021-03-04
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["HAS"]
-tags = []
-anglais = []
-sctid = ""
-draft = true
+tags = ["epreuve effort"]
+anglais = ["Pulmonary arterial hypertension"]
+sctid = "11399002"
+draft = false
 image = false
 imageSrc = ""
 todo = "interrog, NYHA, ttt, surveillance (aggrav signes + IRC), psycho, social, fam, ALD, personnes à risque"
@@ -29,9 +29,10 @@ todo = "interrog, NYHA, ttt, surveillance (aggrav signes + IRC), psycho, social,
 
 Hypertension pulmonaire (HTP)
 : Ensemble de pathologies cardio-pulmonaires entraînant une augmentation progressive des *résistances vasculaires pulmonaires* (RVP) pouvant entraîner une insuffisance cardiaque droite.
+: Diagnostic de certitude par cathétérisme cardiaque: PAPm > 20 mmHg.
 
 Hypertension artérielle pulmonaire
-: Maladies caractérisées par des modifications importantes des artères pulmonaires de petit calibre.
+: Maladies rares caractérisées par des modifications importantes des artères pulmonaires de petit calibre.
 
 ### Abréviations
 
@@ -43,8 +44,11 @@ Hypertension artérielle pulmonaire
 
 - Héréditaire
 - Congénitale
-- Secondaire à une pathologie  
+- Secondaire à une pathologie générale  
 Connectivite, hypertension portale, [infection VIH]({{< relref "vih-sida.md" >}})...
+- Secondaire à une maladie respiratoire
+- Secondaire à une cardiopathie gauche
+- Secondaire à une maladie thromboembolique chronique
 - Iatrogène  
 Anorexigènes, immunothérapies...
 - Idiopathique
@@ -52,13 +56,14 @@ Anorexigènes, immunothérapies...
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+Les symptômes prédominent à l'effort.  
 Les signes cliniques de l'hypertension artérielle pulmonaire sont peu spécifiques et doivent être évoqués devant:
 
 - Asthénie
 - Dyspnée d'effort inexpliquée malgré le bilan
 - Syncope et lipothymies
 - Signes d'insuffisance cardiaque droite
-Œdèmes des membres inférieurs, reflux hépatojugulaire, hépatalgie, anasarque.
+Distension de la jugulaire, reflux hépatojugulaire, hépatomégalie, œdèmes des membres inférieurs, ascite.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -92,6 +97,7 @@ Le traitement est choisi par le centre de référence. Le suivi est au moins ann
 {{%collapse "Sources" %}}
 
 - [HAS. Hypertension artérielle pulmonaire. PNDS. 2020.](https://www.has-sante.fr/jcms/p_3167172/fr/hypertension-arterielle-pulmonaire)
+- [Orphanet. Hypertension artérielle pulmonaire idiopathique/familiale.](https://www.orpha.net/consor/www/cgi-bin/OC_Exp.php?lng=FR&Expert=422)
 - [Réseau HTAP](http://www.reseau-htap.fr/)
 
 {{% /collapse %}}

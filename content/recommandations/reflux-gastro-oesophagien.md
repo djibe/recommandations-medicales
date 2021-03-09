@@ -6,16 +6,16 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-26T12:55:41+02:00
 publishdate = 2020-08-26
-lastmod = 2020-08-31
+lastmod = 2021-03-09
 specialites = ["hepato-gastro-enterologie"]
 annees = "2018"
-sources = ["HAS", "MinSante"]
+sources = ["SNFGE"]
 tags = ["RGO", "EOGD"]
 anglais = ["Gastroesophageal reflux disease"]
 sctid = "235595009"
 draft = false
 flowchart = true
-todo = "Médicaments et doses"
+todo = "Attente accord Pr Frank Zerbib (CHU Bordeaux), Médicaments et doses"
 +++
 
 {{%article-summary%}}
@@ -23,7 +23,7 @@ todo = "Médicaments et doses"
 - Diagnostic d'interrogatoire
 - Indications à l'EOGD: symptômes atypiques isolés, signes d’alarme (perte de poids, anémie, dysphagie, hémorragie digestive), âge > 50 ans, résistance aux IPP ou rechute précoce à l’arrêt.
 - Traitement: RHD > antiacides > oméprazole 1/2 dose
-- Prononcer ésophage
+- Rappel: on prononce "ésophage"
 
 {{%/article-summary%}}
 {{%collapse "Signes d'alarme" %}}
@@ -40,16 +40,26 @@ Signes de gravité nécessitant la réalisation d'examens complémentaires.
 {{%/danger%}}
 
 {{%/collapse%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
-Ensemble des manifestations liées à la remontée d'acidités gastriques vers l'œsophage. Affection le plus souvent bénigne.
-
+Reflux gastro-œsophagien
+: Ensemble des manifestations liées à la remontée d'acidités gastriques vers l'œsophage. Affection le plus souvent bénigne.  
 Il est physiologique lorsqu'il est bref et occasionnel.
+
+Pyrosis
+: Brûlure rétro-sternale ascendante.
+
+### Abréviations
+
+**EOGD:** endoscopie œso-gastro-duodénale (ou gastroscopie)  
+**IPP:** inhibiteurs de la pompe à protons  
+**RGO:** reflux gastro-œsophagien  
+**RHD:** régime hygiéno-diététique (ou mesures hygiéno-diététiques)
 
 {{%/collapse%}}
 {{%collapse "Épidémiologie" %}}
 
-Atteint 10% de la population (SNFGE).
+Le RGO atteint 10% de la population (SNFGE).
 
 {{%/collapse%}}
 {{%collapse "Complications" %}}
@@ -68,7 +78,7 @@ Le reflux gastro-œsophagien est un diagnostic d'interrogatoire devant des signe
 #### Signes typiques
 
 - **Pyrosis**  
-Brûlure rétro-sternale ascendante. Spécificité de 90% pour le RGO.
+{{%class%}}Spécificité de 90% pour le RGO.{{%/class%}}
 - **Régurgitations acides** (liquides ou alimentaires)
 - **Syndrome postural**  
 Aggravation allongé, penché en avant et en post-prandial.
@@ -77,19 +87,9 @@ Aggravation allongé, penché en avant et en post-prandial.
 
 - Brûlures épigastriques
 - Douleurs thoraciques rétro-sternales ou pharyngées
-- Toux chronique (prédominance nocturne), asthme difficile à contrôler
+- [Toux chronique]({{< relref "toux-chronique.md" >}}) (prédominance nocturne), asthme difficile à contrôler
 - Enrouement, laryngite chronique
 - Érosions dentaires
-
-#### Médicaments aggravants
-
-- Théophylline
-- Inhibiteurs calciques
-- Dérivés nitrés
-- Nicotine
-- Hypoglycémiants GLP1
-- Tériparatide
-- Médicaments atropiniques
 
 {{%/collapse%}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -124,7 +124,7 @@ Aucun examen devant des signes typiques et l'absence de signe d'alarme.
 - Âge > 50 ans
 - Résistance au traitement initial ou rechute précoce à l’arrêt du traitement
 
-Le RGO n'est pas démontré en cas d'EOGD normale ou avec œsophagite de bas grade. Il faut compléter avec une **pHmétrie** réalisée 7 jours après l'arrêt des IPP.
+Le RGO n'est pas démontré en cas d'EOGD normale ou avec œsophagite de bas grade. Il faut compléter avec une **pH-métrie** réalisée 7 jours après l'arrêt des IPP.
 
 Si endobrachyœsophage, endoscopies répétées tous les 3 à 5 ans.
 
@@ -143,7 +143,7 @@ Réalisé sous IPP double dose.
 
 **Objectifs:** soulager les symptômes, cicatrisation des lésions et prévention des récidives.
 
-Débuter par: Mesures hygiéno-diététiques > Anti-acides > IPP
+Débuter par: mesures hygiéno-diététiques > Anti-acides > IPP
 
 ### Mesures hygiéno-diététiques
 
@@ -155,23 +155,13 @@ Débuter par: Mesures hygiéno-diététiques > Anti-acides > IPP
 - Correction d'un surpoids ou obésité abdominale
 - Augmenter l'activité physique
 - Mastiquer suffisamment et manger lentement  
-20-30 en position assise et détendue.
+Repas > 20-30 min en position assise et détendue.
 - Arrêt du tabac
 - Adaptation de l'alimentation
-  - En cas de **RGO nocturne, dîner léger et intervalle dîner-coucher de 3 heures.**
-  - Cuissons sans matières grasses et limiter les graisses et alcool
+  - RGO nocturne: dîner léger et intervalle dîner-coucher de 3 heures
+  - Cuissons sans matières grasses et limiter les graisses et l'alcool
   - Limiter les soupes/bouillons à 400 mL
-
-{{% warning %}}**Aliments à éviter**
-
-- Café
-- Alcool
-- Tabac
-- Jus d'orange et de tomate
-- Vinaigre
-- Citron
-- Aliments gras
-{{%/warning%}}
+- Aucune liste d'aliments à éviter ne peut être recommandée
 
 ### Anti-acides et alginates
 
@@ -189,7 +179,7 @@ Effets secondaires: diarrhée, céphalées < 10%.
 
 {{% info %}}Débuter le traitement
 
-Oméprazole 10mg x 1/j pendant 1 mois  
+Oméprazole 10 mg x 1/j pendant 1 mois  
 Augmentation possible à 20 voire 40 mg/j.
 {{%/info%}}
 
@@ -221,8 +211,8 @@ Utiliser les RHD et l'oméprazole (voire la ranitidine).
 
 ### Ne pas utiliser
 
-- Dompéridone (Motilium, gén)
-- Cimétidine
+- Dompéridone (Motilium®, gén)
+- Cimétidine (Stomédine®, gén)
 - Argiles médicamenteuses
 
 {{%/collapse%}}
@@ -233,15 +223,15 @@ graph TB
   RGO[Suspicion de RGO] --> atypique
   style RGO stroke:#006ef4, stroke-width:1px
   RGO --> typique
-  typique["Symptômes typiques"] --> 50-("&lt; 50 ans")
-  typique --> 50+("#ge; 50 ans")
-    50+ --> EOGD(EOGD)
-    50- --> RHD(RHD<br>Alginates ou anti-acides<br>Anti-H2 ou IPP 1/2 dose cure courte)
-    RHD -.-> typIncomplet(Échec/rechute précoce)
-    typIncomplet --> EOGD
-    EOGD --> csGastro(Consultation gastro-entérologue)
-  atypique[Symptômes atypiques<br>Signes d'alarme] --> EOGD
-  RGO --Différentiel--> differentiel(Dyspepsie<br>Cancer<br>Ulcère gastrique/duodénal<br>Sténose peptique de l'œsophage<br>Lithiase biliaire<br>Angor)
+    typique["Symptômes typiques"] --> 50-("&lt; 50 ans")
+    typique --> 50+("&ge; 50 ans")
+      50+ --> EOGD
+      50- --> RHD("RHD<br>Alginates ou anti-acides<br>Anti-H2 ou IPP 1/2 dose cure courte")
+        RHD -.-> typIncomplet(Échec/rechute précoce)
+          typIncomplet --> EOGD
+        EOGD --> csGastro(Consultation gastro-entérologue)
+    atypique["Symptômes atypiques<br>Signes d'alarme"] --> EOGD
+  RGO -- Différentiel --> differentiel("Dyspepsie<br>Cancer<br>Ulcère gastrique/duodénal<br>Sténose peptique de l'œsophage<br>Lithiase biliaire<br>Angor")
 {{< /mermaid >}}
 
 {{%/collapse%}}
