@@ -26,8 +26,8 @@ todo = "TODO: HbA1C, LDL"
 {{< table title="Synthèse des recommandations des objectifs sériques des nutriments et marqueurs de risque cardiovasculaires" >}}
 | Élément      | Population concernée | Cible de concentration | Source |
 |--------------|----------------------|------------------------|--------|
-| Ferritinémie | Femme jeune          | > 50 ng/mL             | CNGOF  |
-| Ferritinémie | Grossesse            | > 80 ng/mL             | CNGOF  |
+| Ferritinémie | Femme jeune          | > 50 ng/mL             | HAS  |
+| Ferritinémie | Grossesse            | > 80 ng/mL             | HAS  |
 | Ferritinémie | SJSR                 | > 75 ng/mL             | SFRMS 2019 |
 | HbA<sub>1C</sub> | DT2 récent<br>DT2 | < 6,5%                | SFDiabete 2019 |
 | HbA<sub>1C</sub> | DT2              | 7%                     | SFDiabete 2019 |

@@ -288,7 +288,7 @@ Guyane.
 > Source *Ministère de la Santé. Calendrier vaccinal 2020* et *HAS 2018*
 
 {{% /collapse %}}
-{{%collapse "Suivi du patient sous antirétroviral" %}}
+{{%collapse "Suivi clinique du patient sous antirétroviral" %}}
 
 **Objectif majeur:** maintien de la charge virale indétectable par adhésion au traitement (et CD4 > 500).  
 Toute PVVIH a une indication de traitement ARV à vie.

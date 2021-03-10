@@ -1,24 +1,27 @@
 {{ define "main" }}
+{{ $image := $.File.BaseFileName }}
+{{ $imageUrl := "" }}
+{{ with .Params.image }}
+  {{ if $.Params.imagePNG }}
+    {{ $imageUrl = printf "/images/photos/%s.png" $image }}
+  {{ else if $.Params.imageWEBP }}
+    {{ $imageUrl = printf "/images/photos/%s.webp" $image }}
+  {{ else }}
+    {{ $imageUrl = printf "/images/photos/%s.jpg" $image }}
+  {{ end }}
+{{ else }}
+  {{ $imageUrl = "/images/icons/placeholder.svg" }}
+{{ end }}
+
 <div class="container-fluid recommandation">
   <div class="row min-vh-100">
     <aside class="col-lg-3 col-xl-2 order-3 order-lg-1 d-flex flex-column px-0 d-print-none" id="recommandation-aside">
       <figure class="figure">
-        {{ $image := $.File.BaseFileName }}
-        {{ $imageUrl := "" }}
-        <a href="{{ printf "/images/photos/%s.jpg" $image }}" target="_blank" rel="nofollow">
+        <a href="{{ $imageUrl }}" target="_blank" rel="nofollow">
           <img class="figure-img img-fluid"
-            {{ with .Params.image }}
-              {{ if $.Params.imagePNG }}
-                {{ $imageUrl = printf "/images/photos/%s.png" $image }}
-              {{ else }}
-                {{ $imageUrl = printf "/images/photos/%s.jpg" $image }}
-              {{ end }}
-              src="{{ $imageUrl }}"
-            {{ else }}
-              src="/images/icons/placeholder.svg"
-              aria-hidden="true"
-            {{ end }}
+            src="{{ $imageUrl }}"
             loading="eager"
+            decoding="async"
             importance="high"
             alt="Image de {{ .Title }}"
             style="width: 100%; height: 300px; object-fit: cover">

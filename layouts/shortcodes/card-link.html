@@ -12,7 +12,7 @@
 {{ end }}
 
 <div class="card card-body card-primary-action flex-row mb-4" style="width: 250px;">
-  <img class="mt-2 mr-4 rounded-circle" src="{{ $imageURL }}" style="width: 48px;height:48px" {{with .Get "subtitle" }}alt="Logo de {{.}}"{{else}}alt=""{{end}} loading="lazy">
+  <img class="mt-2 mr-4 rounded-circle" src="{{ $imageURL }}" style="width: 48px;height:48px" {{with .Get "subtitle" }}alt="Logo de {{.}}"{{else}}alt=""{{end}} loading="lazy" decoding="async">
   <div>
     <h5 class="typography-body-2 font-weight-bold"><a href="{{ .Get "url" }}" class="stretched-link text-reset">{{ .Get "title" }}</a></h5>
     {{ with .Get "subtitle" }}<h6 class="typography-body-2 mb-0">{{ . }}</h6>{{ end }}

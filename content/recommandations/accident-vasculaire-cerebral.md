@@ -169,7 +169,7 @@ Cible selon prothèse et facteurs de risque du patient.
 ### Foramen ovale perméable
 
 Traitement antiplaquettaire.  
-Si maladie thrombo-embolique veineuse concomitante: anticoagulation.
+Si maladie veineuse thrombo-embolique concomitante: anticoagulation.
 
 ### Autres traitements cardiovasculaires
 

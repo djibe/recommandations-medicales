@@ -9,7 +9,7 @@ enableRobotsTXT = true
 languageCode = "fr"
 rssLimit = 30
 summaryLength = 50
-title = "L'Université Médicale"
+title = "Recommandations médicales"
 
 [permalinks]
   recommandations = "/recommandations/:filename/"

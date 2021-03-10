@@ -4,6 +4,7 @@ prefix = "le "
 shortname = "RGO"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Pr F. ZERBIB (SNFGE)"
 date = 2020-08-26T12:55:41+02:00
 publishdate = 2020-08-26
 lastmod = 2021-03-09
@@ -17,7 +18,7 @@ draft = false
 image = true
 imageSrc = "BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "Attente accord Pr Frank Zerbib (CHU Bordeaux), Médicaments et doses"
+todo = "Médicaments et doses"
 +++
 
 {{%article-summary%}}

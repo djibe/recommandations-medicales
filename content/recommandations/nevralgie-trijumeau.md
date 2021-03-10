@@ -11,11 +11,12 @@ specialites = ["dermatologie"]
 annees = "2018"
 sources = ["SFEMC", "SFNC"]
 tags = []
-anglais = []
-sctid = ""
+anglais = ["Trigeminal neuralgia"]
+sctid = "31681005"
 draft = true
-image = false
-imageSrc = ""
+image = true
+imageWEBP = true
+imageSrc = "BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 todo = "revoir critères diag et source"
 +++
 
