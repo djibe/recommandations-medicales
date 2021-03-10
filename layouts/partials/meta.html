@@ -4,9 +4,9 @@
   {{ $metaTitle = (printf "%s : Dernières recommandations médicales au cabinet" $.Site.Title ) }}
 {{ else if and (eq .Section "recommandations") (eq .Kind "page") }}
   {{ if lt (len .Title) 37 }}
-    {{ $metaTitle = ( printf "%s %s" .Title ": Recommandations 2021 - UnivMédicale" ) }}
+    {{ $metaTitle = ( printf "%s %s %s" (.Params.prefix | humanize) .Title "en 2021 - Recommandations Médicales" ) }}
   {{ else }}
-    {{ $metaTitle = ( printf "%s %s" .Title ": Recommandations 2021" ) }}
+    {{ $metaTitle = ( printf "%s %s" .Title "en 2021 - Recommandations Médicales" ) }}
   {{ end }}
 {{ else }}
   {{ $metaTitle = ( printf "%s %s %s" .Title "-" $.Site.Title ) }}

@@ -9,7 +9,7 @@ enableRobotsTXT = true
 languageCode = "fr"
 rssLimit = 30
 summaryLength = 50
-title = "Recommandations médicales"
+title = "Recommandations Médicales"
 
 [permalinks]
   recommandations = "/recommandations/:filename/"
