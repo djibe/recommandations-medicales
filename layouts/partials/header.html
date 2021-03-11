@@ -13,7 +13,7 @@
   {{ $sass := "" }}
   {{ if hugo.IsProduction }}
     {{ $sass = resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $sass.Permalink }}" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="{{ $sass.Permalink }}"><!--media="print" onload="this.media='all'"-->
   {{ else }}
     {{ $sass = resources.Get "sass/style.scss" | toCSS }}
     <link rel="stylesheet" href="{{ $sass.Permalink }}">
