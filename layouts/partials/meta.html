@@ -95,7 +95,6 @@
       },
       "headline": "{{ .Title | truncate 110 }} : recommandations 2021",
       "description": "Les recommandations pour la prise en charge de {{ .Title }} en médecine générale.",
-      "articleBody": "{{ .Plain }}",
       {{ with .Params.image }}{{ $image := $.File.BaseFileName }}{{ $imageUrl := printf "/images/photos/%s.jpg" $image }}"image": [{{ $imageUrl | absURL }}],{{ else }}"image": ["{{ .Site.Params.ogimage | absURL }}"],{{ end }}
       "author": {
         "@type": "Person",
