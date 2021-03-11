@@ -2298,21 +2298,15 @@ input:disabled + .chip {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  align-items: center;
   background: none;
   border: 0;
-  clear: both;
-  color: rgba(0, 0, 0, 0.87);
-  display: flex;
-  font-weight: 400;
-  height: 3rem;
+  color: inherit;
+  display: block;
   letter-spacing: 0.15px;
-  overflow: hidden;
+  line-height: 3rem;
   padding: 0 1rem;
   position: relative;
-  text-align: inherit;
   transform-origin: 0 0;
-  width: 100%;
 }
 
 @media (min-width: 576px) {
@@ -2328,7 +2322,7 @@ input:disabled + .chip {
 }
 
 .dropdown-item:hover, .dropdown-item:focus, .dropdown-item:active {
-  color: rgba(0, 0, 0, 0.87);
+  color: inherit;
   text-decoration: none;
 }
 
