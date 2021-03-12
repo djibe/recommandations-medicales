@@ -2,11 +2,11 @@
 title = "Vitamine D"
 prefix = "la "
 shortname = "vit-D"
-synonyms = ["cholécalciferol"]
+synonyms = ["Cholécalciferol"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-15T00:28:29+02:00
 publishdate = 2020-04-15
-lastmod = 2020-02-05
+lastmod = 2021-03-12
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2019"
 sources = ["HAS", "SFP", "Prescrire"]
@@ -16,8 +16,9 @@ image = true
 imageSrc = "Sbrools, CC BY-SA 3.0 via Wikimedia Commons"
 imagePNG = true
 sctid = "30178006"
+flowchart = true
 draft = false
-todo = "convertisseur unités http://unitslab.com/fr/node/84, graph cible âge, protocole correction ok?"
+todo = "convertisseur unités http://unitslab.com/fr/node/84, graph correction, protocole correction ok?"
 +++
 
 {{%collapse "Définitions" %}}
@@ -41,6 +42,12 @@ Seuil de toxicité de la vitamine D
 Ne pas supplémenter au-delà 150 nmol/L.
 
 {{%info%}}À tous les âges, des apports quotidiens de 1000 UI/j sont recommandés.{{%/info%}}
+
+### Abréviations
+
+**25OHD:** cholécalciférol  
+**IRC:** insuffisance rénale chronique  
+**UI:** unités internationales
 
 {{%/collapse%}}
 {{%collapse "Épidémiologie" %}}
@@ -90,7 +97,7 @@ La supplémentation en vitamine D3 peut être instaurée et suivie sans dosage d
 | Adulte                              | ≥ 50 nmol/L |
 | Adulte &ge; 65 ans                  | ≥ 75 nmol/L |
 | Adulte à risque, dépendant, chuteur | ≥ 75 nmol/L |
-| Résident en EHPAD                   | ≥ 75 nmol/L<br>Cible calcique 1200 mg/j |
+| Résident en EHPAD                   | ≥ 75 nmol/L et cible calcique 1200 mg/j |
 | Traitement par biphosphonates       | ≥ 75 nmol/L  |
 {{< /table >}}
 
@@ -110,11 +117,10 @@ et aussi
 - Enfant en allaitement maternel sans supplémentation pendant des mois (SFD)
 - Enfants à peau pigmentée sans supplémentation avec arcature des membres inférieurs (SFD)
 - Bilan initial de maladie rénale chronique (HAS 02/2012)
-
 - Probablement pour tous les épileptiques et diabétiques
 
-En dehors des 6 indications, préciser sur l’ordonnance la raison.  
-En dosage de complaisance, préciser « Non remboursable » sur la prescription (11,34€, code 35 B).  
+En dehors des 6 indications (+ suppléments), préciser sur l’ordonnance la raison.  
+En dosage de complaisance, préciser << Non remboursable >> sur la prescription (11,34€, code 35 B).  
 {{%class%}}92 millions d’euros de dosages de vitamine D en 2011.{{%/class %}}
 
 {{% /collapse %}}
@@ -169,11 +175,27 @@ Intensification si:
 {{% /collapse %}}
 {{%collapse "Spécialités de cholécalciférol disponibles" %}}
 
-<ul class="list-group" style="max-width: 360px">
+### Spécialités de vitamine D par galénique
+
+<ul class="list-group" style="max-width: 480px">
   {{< list-item title="Ampoule" subtitle="Cholécalciférol 200, 100, 80 ou 50.000 UI (Uvedose® ou autre)" >}}
   {{< list-item title="Capsule molle" subtitle="Kipos® 100.000 UI" >}}
   {{< list-item title="Gouttes" subtitle="Adrigyl® 333 UI/goutte, ZymaD® 300 UI/goutte" >}}
 </ul>
+
+{{% /collapse %}}
+{{%collapse "Conduite à tenir pour la supplémentation en vitamine D" "show" %}}
+
+{{< mermaid title="Cibles d'apports en vitamine D (schéma simplifié). Dr JB FRON d'après Souberbielle 2019" >}}
+graph TB
+  apports["Objectifs d'apports<br>en vitamine D"]
+  style apports stroke:#006ef4, stroke-width:1px
+    apports --> ns(<b>Nourrisson</b><br>2 à 4 gtte/j)
+    apports --> enfant(<b>18 mois à<br>18 ans</b><br>80-100.000 UI<br> 2x l'hiver)
+    apports --> adulte(<b>Adulte &gt; 50 ans</b><br>25OHD &gt; 50 nmol/L)
+      adulte --> 65(<b>&gt; 65 ans</b><br>25OHD &gt; 75 nmol/L)
+    apports --> risque(<b>Patient à risque</b><br>- Risque de chutes<br>- Corticoïdes, aromatases...<br>-Hyperparathyroïdie<br>- Malabsorption<br>- IRC) --> intensif("- Dosage initial<br>- 25OHD &gt; 75 nmol/L<br>- Correction rapide<br>- Apports calciques &gt; 1g/j")
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

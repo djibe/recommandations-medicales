@@ -337,6 +337,7 @@ function customSearchResults() {
 
       if (templ) {
         templ = templ.replace('[TITLE]', title);
+        templ = templ.replace('[TITLECAPT]', title);
         templ = templ.replace(/\[URL\]/g, url);
 
         if (templ.includes('[DATE]')) {

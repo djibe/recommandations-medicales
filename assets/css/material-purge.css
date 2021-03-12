@@ -2300,7 +2300,7 @@ input:disabled + .chip {
   white-space: nowrap;
   background: none;
   border: 0;
-  color: inherit;
+  color: rgba(0, 0, 0, 0.87);
   display: block;
   letter-spacing: 0.15px;
   line-height: 3rem;
@@ -2322,7 +2322,7 @@ input:disabled + .chip {
 }
 
 .dropdown-item:hover, .dropdown-item:focus, .dropdown-item:active {
-  color: inherit;
+  color: rgba(0, 0, 0, 0.87);
   text-decoration: none;
 }
 
