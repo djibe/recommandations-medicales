@@ -18,7 +18,7 @@ imagePNG = true
 sctid = "30178006"
 flowchart = true
 draft = false
-todo = "convertisseur unités http://unitslab.com/fr/node/84, graph correction, protocole correction ok?"
+todo = "graph correction, relecture protocole correction"
 +++
 
 {{%collapse "Définitions" %}}
@@ -58,6 +58,18 @@ Ne pas supplémenter au-delà 150 nmol/L.
 7% des adultes, 13% des adolescents, 4% des enfants.
 
 > Santé Publique France. Étude Esteban.
+
+{{%/collapse%}}
+{{%collapse "Conversion d'unités de la vitamine D" %}}
+
+Convertir dans les 2 sens nmol/L (unités internationales) et ng/mL.
+
+<div class="form-group">
+  <label for="nmolInput">nmol/L</label>
+  <input type="number" class="form-alternative" id="nmolInput" value="50" min="1" max="400" oninput="ngInput.value = Math.round(this.value * 0.4)">
+  <label for="ngInput" class="ml-5">ng/mL</label>
+  <input type="number" style="width:68px" class="form-alternative" id="ngInput" value="20" oninput="nmolInput.value = Math.round(this.value * 2.5)">
+</div>
 
 {{%/collapse%}}
 {{%collapse "Patients à risque" %}}
@@ -200,7 +212,6 @@ graph TB
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Conversion des unités de vitamine D](http://unitslab.com/fr/node/84)
 - [Ameli. Dosage de la vitamine D. 14 Novembre 2019.](https://www.ameli.fr/paris/laboratoire-danalyses-medicales/exercice-liberal/memos/dosage-vitamine)
 - [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d’ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 03/05/2019.](https://www.sciencedirect.com/science/article/abs/pii/S1169833019300821)
 - [Esteban 2014-2016 – Chapitre dosages biologiques des vitamines et minéraux : pas de déficit important ou de carence à grande échelle](https://www.santepubliquefrance.fr/les-actualites/2019/esteban-2014-2016-chapitre-dosages-biologiques-des-vitamines-et-mineraux-pas-de-deficit-important-ou-de-carence-a-grande-echelle)
