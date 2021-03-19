@@ -65,7 +65,7 @@ Autres formes d'angine:
 {{% /collapse %}}
 {{%collapse "Score de Mac Isaac" %}}
 
-{{< outils/mac-isaac >}}
+{{< scores/mac-isaac >}}
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'angine" %}}

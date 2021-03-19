@@ -287,7 +287,7 @@ graph TB
           levofloS -- "Résistant" --> quadrit("<b>Quadrithérapie 10j</b><br>IPP + sel de bismuth<br>+ tétracycline + métronidazole") --> controle
           controle -- Négatif --> ok(Bactérie éradiquée)
           controle -- Positif --> avis("Avis du Centre de Référence &#40;lien&#41;")
-            click avis "http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" _blank
+            click avis "http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" "Ouvrir dans un onglet" _blank
       grossesse -- Oui --> reporter("Reporter le<br>traitement")
 {{< /mermaid >}}
 
@@ -315,7 +315,7 @@ graph TB
                 ClariRLevoS -. Échec .-> RCP
               seClaLevo --> ClariRLevoR(Double résistance)
                 ClariRLevoR --> RCP("RCP GEFH &#40;lien&#41;")
-                  click RCP "http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" _blank
+                  click RCP "http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" "Ouvrir dans un onglet" _blank
     grossesse -- Oui --> reporter("Reporter le<br>traitement")
 {{< /mermaid >}}
 

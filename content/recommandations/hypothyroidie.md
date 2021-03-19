@@ -9,7 +9,7 @@ publishdate = 2020-04-14
 lastmod = 2020-07-21
 specialites = ["endocrinologie"]
 annees = "2019"
-sources = ["HAS", "ANSM", "Prescrire"]
+sources = ["ANSM", "HAS"]
 tags = ["hypothyroidie", "TSH", "Hashimoto"]
 anglais = ["Hypothyroidism"]
 sctid = "40930008"
@@ -17,6 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Photo de National Institutes of Health (NIH) sur Foter.com / CC BY-NC"
+todo = "https://www.scientificanimations.com/wp-content/uploads/2019/05/Hypothyroidism.jpg"
 +++
 
 {{%article-summary%}}
@@ -269,8 +270,9 @@ graph TB
   decouverte["TSH augmentée"] --"Contrôle à 1 mois"--> TSH["TSH augmentée"]
   style decouverte stroke:#006ef4, stroke-width:1px
     TSH --"T4L normale"--> hTFruste("Hypothyroïdie fruste")
+      click hTFruste "{{< relref "hypothyroidie-fruste.md" >}}" "Ouvrir dans un onglet" _blank
     TSH --"T4L basse"--> hT("Hypothyroïdie patente")
-      hT --> bilan("Anticorps anti-TPO +/- dépistage cœliaque<br>Échographie cervicale<br>ECG")
+      hT --> bilan("- Anticorps anti-TPO<br>+/- dépistage M. cœliaque<br>- Échographie cervicale<br>- ECG")
         bilan --> traitement("Traitement par lévothyroxine")
           traitement --> adulte("<b>Adulte</b><br>Débuter à 1,7 µg/kg/j")
             adulte --"Fragilité"--> fragile("<b>Sujet âgé</b>: Débuter à 1,7 µg/kg/j<hr><b>Coronarien</b>: Débuter à 12,5 µg/j")

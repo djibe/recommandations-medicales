@@ -1,5 +1,5 @@
 +++
-title = "Paralysie faciale idiopathique"
+title = "Paralysie faciale périphérique idiopathique"
 prefix = "la "
 shortname = "PFI"
 synonyms = ["Paralysie faciale a frigore"]
@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Photo de l'Internet Archive Book Images sur Foter.com"
-todo = "soins oculaires"
+todo = "soins oculaires, relecture en cours Stéphane Tringali et Maxime Fieux, excuse relecture/morceaux manquants/a frigore mots clés/Borrelia burgdorferi"
 +++
 
 Ces recommandations concernent l'adulte.
@@ -32,13 +32,10 @@ Ces recommandations concernent l'adulte.
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Paralysie faciale idiopathique (PFI)
-: Anciennement paralysie faciale *a frigore*. *Paralysie faciale périphérique* (PFP) d'installation brutale pouvant s'aggraver pendant maximum 72 heures. Elle touche les territoires supérieur et inférieur du nerf facial (VII) de l'hémiface avec une atteinte des motricités volontaire, automatique et émotionnelle. La guérison spontanée sous 6 mois est observée dans 70% des cas et corrélé à la gravité initiale.
+Paralysie faciale périphérique idiopathique (PFI)
+: Anciennement appelée paralysie faciale périphérique *a frigore*. *Paralysie faciale périphérique* (PFP) d'installation brutale pouvant s'aggraver pendant maximum 72 heures. Elle touche les territoires supérieur et inférieur du nerf facial (VII) de l'hémiface avec une atteinte des motricités volontaire, automatique et émotionnelle. La guérison spontanée sous 6 mois est observée dans 70% des cas, elle est corrélée à la gravité initiale.
 : La PFI est un diagnostic d'élimination et la fréquence des causes infectieuses et tumorales mimant une PFI imposent un bilan systématique.  
 Les récidives sont exceptionnelles (6%).
-
-Lagophtalmie
-: Diminution ou abolition de la fermeture palpébrale.
 
 ### Abréviations
 
@@ -104,10 +101,11 @@ Obésité et hypertension artérielle.
   {{%class%}}Paralysie au mouvement volontaire ET automatique (mimiques spontanées, rire).{{%/class%}}  
   L'examen du **côté paralysé** retrouve:
   - Diminution/abolition des rides du front
-  - Diminution ou abolition de la fermeture palpébrale (lagophtalmie)
+  - Lagophtalmie  
+  {{%class%}}Diminution ou abolition de la fermeture palpébrale.{{%/class%}}
   - Diminution des sécrétions lacrymales du côté paralysé
-  - Occlusion forcée, cils plus apparents du côté paralysé (cils de Souques)
-  - Occlusion forcée incomplète avec globe oculaire révulsé (Charles Bell)
+  - Occlusion forcée, cils plus apparents du côté paralysé (signe de Souques)
+  - Occlusion forcée incomplète avec globe oculaire révulsé (signe de Charles Bell)
   - Abolition du réflexe cornéen
   - Abolition du réflexe naso-palpébral et du clignement à la menace
   - Effacement du sillon naso-génien
@@ -121,9 +119,8 @@ Obésité et hypertension artérielle.
   Noter le score dans le dossier.
 - Reste de l'examen neurologique complet normal
 - Signes négatifs  
-Remettre en cause le diagnostic en présence de ces signes.
-  - Tous les critères ci-dessus ne sont pas remplis
-  - Otoscopie anormale
+Remettre en cause le diagnostic en présence de ces signes:
+  - Otalgie ou otoscopie anormale
   - Éruption vésiculeuse de la zone de Ramsay Hunt
   - Anomalie parotidienne
   - Mastication anormale
@@ -135,18 +132,17 @@ Remettre en cause le diagnostic en présence de ces signes.
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-La paralysie faciale a frigore étant un diagnostic d'élimination, il faut s'assurer qu'il ne s'agisse pas d'une paralysie faciale centrale et éliminer les autres causes de paralysie faciale périphérique.
+La PFI étant un diagnostic d'élimination, il faut s'assurer qu'il ne s'agisse pas d'une paralysie faciale centrale et éliminer les autres causes de paralysie faciale périphérique.
 
-### Étiologie d'une paralysie faciale périphérique
-
-Principalement tumorale, traumatique ou zostérienne.
+Les diagnostics différentiels sont dominés par les causes tumorales, traumatiques ou zostériennes.
 
 - Tumorale surtout  
 Neurinome du nerf acoustique, tumeur ORL, tronc cérébral, angle ponto-cérébelleux, rocher, parotide.
 - Traumatique
 - Cause infectieuse
   - [Zona]({{< relref "zona.md" >}})
-  - Maladie de Lyme
+  - Maladie de Lyme  
+  {{%class%}}*Borrelia burgdorferi*.{{%/class%}}
   - [Tuberculose]({{< relref "tuberculose.md" >}})
   - [VIH]({{< relref "vih-sida.md" >}})
 - Iatrogène
@@ -165,7 +161,7 @@ Neurinome du nerf acoustique, tumeur ORL, tronc cérébral, angle ponto-cérébe
 ### Bilan complémentaire devant une paralysie faciale périphérique d'allure idiopathique
 
 - NFS
-- sérologie Lyme
+- Sérologie Lyme
 - Glycémie à jeun si facteurs de risque  
 Antécédents familiaux, obésité, âge ≥ 40 ans.
 - Sérologie VIH  
@@ -178,8 +174,8 @@ Audiométrie avec test du réflexe stapédien (aboli)
 
 ---
 
-IRM avec injection cérébrale et de tout le trajet du nerf facial.  
-Dans les 30 jours ou en urgence si signes atypiques.
+IRM cérébrale et parotidienne sans et avec injection de gadolinium étudiant tout le trajet du nerf facial.  
+Doit être réalisée dans les 30 jours ou en urgence en signes atypiques.
 
 ---
 
@@ -249,7 +245,7 @@ graph TB
   style PF stroke:#006ef4, stroke-width:1px
     atypie -- Oui --> differentiel("Éliminer une cause urgente<br>de paralysie faciale")
     atypie -- Non --> PFI("<b>Paralysie faciale idiopathique</b><br>si aucun des éléments ci-dessus")
-      PFI --> bilan("<b>Examens</b><hr>- NFS<br>- sérologies Lyme, VIH<br>- Audiométrie<br>- IRM n. facial<br>- ENMG si grave")
+      PFI --> bilan("<b>Examens</b><hr>- NFS<br>- Sérologies Lyme et VIH<br>- Audiométrie<br>- IRM n. facial<br>- ENMG si grave")
         bilan --> ttt("<b>Traitement urgent</b><hr>- Prednisolone po 1 mg/kg 5j<br>puis 10 mg/j 5j<br>- Valaciclovir 1g x 3/j<br>- Prévention kératite<br>- Kiné forme sévère/séq.")
           ttt --> surv(Surveillance de la récupération)
 {{< /mermaid >}}

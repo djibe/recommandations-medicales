@@ -195,7 +195,7 @@ Score validé avec la plus grande sensibilité pour le dépistage des apnées du
 
 **Il ne doit pas être utilisé en cas de diabète** (voir plus bas).
 
-{{< outils/stop-bang >}}
+{{< scores/stop-bang >}}
 
 ### Dépistage à l'interrogatoire
 

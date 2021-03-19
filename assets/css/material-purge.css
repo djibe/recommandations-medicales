@@ -2306,7 +2306,9 @@ input:disabled + .chip {
   line-height: 3rem;
   padding: 0 1rem;
   position: relative;
+  text-align: inherit;
   transform-origin: 0 0;
+  width: 100%;
 }
 
 @media (min-width: 576px) {

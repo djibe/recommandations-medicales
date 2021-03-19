@@ -5246,6 +5246,7 @@ input:disabled + .chip {
   height: 1px;
   margin: 0.5rem 0;
   overflow: hidden;
+  border: 0;
 }
 
 .dropdown-header {
@@ -5263,7 +5264,6 @@ input:disabled + .chip {
   transform-origin: 0 0;
   /* .dropdown-menu-sm &,
   .menu-cascading & {
-    font-size: $menu-font-size-cascading;
     line-height: $menu-line-height-cascading;
     padding: $menu-link-padding-y-cascading $menu-link-padding-x-cascading;
   } */
@@ -5285,7 +5285,9 @@ input:disabled + .chip {
   line-height: 3rem;
   padding: 0 1rem;
   position: relative;
+  text-align: inherit;
   transform-origin: 0 0;
+  width: 100%;
 }
 
 @media (min-width: 576px) {
@@ -5338,7 +5340,7 @@ input:disabled + .chip {
 
 .dropdown-menu-sm .dropdown-item,
 .menu-cascading .dropdown-item {
-  height: 2rem;
+  line-height: 2rem;
 }
 
 .dropdown-item-text {

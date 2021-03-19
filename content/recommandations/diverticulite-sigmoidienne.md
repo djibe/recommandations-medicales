@@ -9,7 +9,7 @@ publishdate = 2021-02-09
 lastmod = 2021-02-09
 specialites = ["hepato-gastro-enterologie"]
 annees = "2017"
-sources = ["HAS"]
+sources = ["HAS", "SNFGE"]
 tags = []
 anglais = ["Diverticulitis of sigmoid colon"]
 sctid = "427910000"
@@ -26,7 +26,7 @@ todo = "constipation, délai scanner, éviter cortico/AINS, Prescrire"
 - Scanner abdomino-pelvien pour le diagnostic.
 - Pas d'antibiotiques si crise non compliquée, sans gravité et sans grossesse.
 - Chirurgie prophylactique si comorbidités  
-{{%class%}}Immunodépression, IRC, altération qualité de vie, fistule, abcès, sténose symptomatique.{{%/class%}}
+{{%class "text-black-secondary" %}}Immunodépression, IRC, altération qualité de vie, fistule, abcès, sténose symptomatique.{{%/class%}}
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

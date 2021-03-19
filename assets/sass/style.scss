@@ -587,6 +587,7 @@ svg[id*='mermaid'] {
 
 div.mermaidTooltip {
   position: absolute;
+  transform: translate(-50%, -100%);
   text-align: center;
   max-width: 250px;
   border-radius: 4px;
@@ -594,6 +595,7 @@ div.mermaidTooltip {
   font-weight: 500;
   background: #6d6d6d;
   color: #fff;
+  opacity: 0.9;
   padding: 0 .5rem;
   line-height: 1.5rem;
   
@@ -652,6 +654,16 @@ div.mermaidTooltip {
  	  opacity: 0;
 	}
 }
+
+.custom-checkbox {
+	.custom-control-input {
+	  opacity: 0.8;
+	}
+	.custom-control-label::after {
+ 	  opacity: 0;
+	}
+}
+
 
 input[type="search"]::-webkit-search-decoration,
 input[type="search"]::-webkit-search-cancel-button,
