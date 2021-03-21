@@ -16,7 +16,8 @@ sctid = "57406009"
 qualite = "moyenne"
 draft = false
 image = true
-imageSrc = "Photo de handarmdoc sur Foter.com / CC BY"
+imageWEBP = true
+imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
 todo = "TODO: lire reco 2013"
 +++

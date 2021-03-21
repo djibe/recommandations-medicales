@@ -14,15 +14,20 @@ tags = ["cephalees"]
 anglais = ["Trigeminal neuralgia"]
 sctid = "31681005"
 draft = false
+flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "relecture Alex"
+todo = "relecture Alex, relecture A. Donnet"
 +++
 
 {{%article-summary%}}
 
 - Les recommandations concernent la forme essentielle/idiopathique de l'adulte
+- Critères cliniques stricts
+- Normalité de l'examen neurologique intercritique
+- IRM cérébrale 3T systématique
+- Carbamazépine ou oxcarbazépine
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -80,7 +85,7 @@ Signes incompatibles avec la névralgie trigéminale classique:
 - Troubles sensitifs persistants
 - Surdité ou problèmes auditifs
 - Faible réponse à la carbamazépine
-- Notion d'atteinte cutané ou buccale
+- Notion d'atteinte cutanée ou buccale
 - Atteinte isolée du nerf ophtalmique (V1) uni/bilatérale
 - Âge < 40 ans
 - Névrite optique
@@ -181,10 +186,10 @@ Céphalée en coup de poignard très brève (1 à 10 s) et migratrice à la surf
 ### IRM cérébrale 3T
 
 Systématique pour la recherche d'un conflit vasculo-nerveux (NTC) ou différentiel (NTD).  
-Avec séquences spécifiques.
+Avec **séquences spécifiques**.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la névralgie du trijumeau" %}}
 
 Traitement de fond de 1<sup>re</sup> intention: carbamazépine ou oxcarbazépine.
 
@@ -193,7 +198,7 @@ Traitement de fond de 1<sup>re</sup> intention: carbamazépine ou oxcarbazépine
 ### Carbamazépine
 
 {{%info%}}
-Carbamazépine 200 mg matin et 200 mg LP soir 30 minutes avant le repas.  
+Carbamazépine 100 mg matin, midi et 100 mg LP le soir 30 minutes avant le repas.  
 Augmentation par paliers de 100 mg matin et soir tous les 2 à 5 jours.
 {{%/info%}}
 
@@ -236,6 +241,25 @@ Indications pour une NTC certaine:
 
 - Échec du traitement médical bien conduit
 - Échec de 3 molécules à doses efficaces dont la carbamazépine
+
+{{% /collapse %}}
+{{%collapse "Conduite à tenir devant une névralgie du trijumeau" "show" %}}
+
+{{< mermaid title="Conduite à tenir devant une suspicion de névralgie trigéminale classique. Dr JB FRON d'après Donnet 2018" >}}
+graph TB
+  suspNtc["Suspicion de<br>névralgie trigéminale classique"] --> exclusion("<b>Signes d'alerte ?</b><hr>- Âge &lt; 40 ans<br>- Déficitaire<br>- Surdité/otologique<br>- Atteinte cutanée ou buccale<br>- Atteinte V1 isolée<br>- Névrite optique<br>- ATCD familial de SEP<br>- Carbamazépine inefficace")
+  style suspNtc stroke:#006ef4, stroke-width:1px
+  exclusion -- Non --> criteres("<b>Critères cliniques</b><hr>- &ge; 3 crises<br>- Douleurs stéréotypées avec critères<br>- Topographie stricte<br>- Circonstances de déclenchement<br>- Intervalle libre<br>- Non déficitaire<br>- Sans autre diagnostic compatible")
+    criteres --> irm(IRM cérébrale 3T)
+      irm -- Normale --> ntc(NTC certaine)
+      style ntc stroke:#006ef4, stroke-width:1px
+        ntc --> traitement(<b>Traitement</b><br>Carbamazépine ou oxcarbazépine)
+          traitement --> escalade("- Augmentation par paliers<br>- Recherche dose minimale<br>- Surveillance clinico-biologique")
+            escalade -. Échec thérapeutique .-> echec(Avis neurologique)
+      irm -- Anormale --> neuro(Avis neurologique)
+  exclusion -- Oui --> neuro
+
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%collapse "Source" %}}

@@ -14,6 +14,9 @@ tags = ["enfant", "trauma cranien", "Glasgow"]
 anglais = ["Head injury"]
 sctid = "82271004"
 flowchart = true
+image = true
+imageWEBP = true
+imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 todo = "examen clinique"
 +++
 

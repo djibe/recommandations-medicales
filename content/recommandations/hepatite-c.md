@@ -16,7 +16,8 @@ sctid = "50711007"
 draft = false
 flowchart = true
 image = true
-imageSrc = "scientificanimations.com, CC BY-SA 4.0, via Wikimedia Commons"
+imageWEBP = true
+imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 todo = "hépatoprotection"
 
 +++
@@ -284,7 +285,7 @@ graph TB
     pcr --> mg(Envisager traitement<br>simplifié)
     serologie -- Négative --> trod-
   trod --> trod-(Négatif<br>Diagnostic infirmé)
-    trod- -.-> infRecente("Suspicion d'infection<br>récente")
+    trod- -.-> infRecente(Suspicion d'infection<br>récente)
     infRecente -- 3 mois --> 3mois(Sérologie VHC<br>ou TROD)
   trod --> trodIncertain(Ininterprétable)
     trodIncertain --> 3mois

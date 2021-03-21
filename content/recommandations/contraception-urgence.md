@@ -6,14 +6,15 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-05T14:50:00+02:00
 publishdate = 2021-03-05
-lastmod = 2021-03-05
+lastmod = 2021-03-21
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["HAS"]
 tags = ["contraception"]
-anglais = []
-sctid = ""
+anglais = ["Postcoital contraception"]
+sctid = "268463003"
 draft = false
+flowchart = true
 image = false
 imageSrc = ""
 todo = ""
@@ -105,6 +106,25 @@ Mêmes précautions que pour la PCU (préservatif, contraception, si retard de r
 **Effets indésirables:** modérés et de courte durée. Troubles des règles (spotting, retard de règles ou règles en avance), fatigue, nausées, vomissements, douleurs abdominales, céphalées, vertiges, tension mammaire, troubles de l’humeur, myalgies, douleurs dorsales, douleurs pelviennes.
 
 Même délivrance que la PCU.
+
+{{% /collapse %}}
+{{%collapse "Conduite à tenir pour une contraception en urgence" "show" %}}
+
+*En cours de construction...*
+
+{{< mermaid title="Conduite à tenir pour la contraception d'urgence. Dr JB FRON d'après HAS 2019" >}}
+graph TB
+  rapport["Rapport non protégé<br>sans contraception"] --> 3jours("&lt; 3 jours")
+  style rapport stroke:#006ef4, stroke-width:1px
+  rapport --> 5jours("&lt; 5 jours")
+    3jours --> levonorgestrel(Lévonorgestrel 1,5 mg)
+    3jours --> ulipristal(Ulipristal acétate 30 mg)
+    3jours --> diu(DIU)
+    5jours --> ulipristal
+    5jours --> diu
+{{< /mermaid >}}
+
+> **NB.** Le risque infectieux n'est pas traité ici.
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

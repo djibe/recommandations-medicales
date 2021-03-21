@@ -10,15 +10,17 @@ lastmod = 2021-03-19
 specialites = ["cardiologie"]
 annees = "2019"
 sources = ["SFC", "SPLF"]
-tags = ["MVTE"]
-anglais = []
-sctid = ""
-draft = true
+tags = ["anticoagulant", "HBPM", "MVTE"]
+anglais = ["Deep venous thrombosis"]
+sctid = "128053003"
+draft = false
 flowchart = true
 image = false
 imageSrc = ""
 todo = "mieux est Wells ou Wells modifié?, proba forte et doppler neg?, éducation AVK, reperfusion, risque récidive, differentiel, interrogatoire"
 +++
+
+Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'état.
 
 {{%article-summary%}}
 
@@ -91,6 +93,8 @@ TVP certaine.
 {{%collapse "Critères d'hospitalisation" %}}
 
 {{%warning%}}
+
+### Critères d'hospitalisation en thrombose veineuse profonde
 
 - Suspicion d'embolie pulmonaire
 - TVP bilatérale
@@ -202,8 +206,8 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%collapse "Source" %}}
 
-- [Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires (2019).](https://doi.org/10.1016/j.rmr.2019.01.003)
+[Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires (2019).](https://doi.org/10.1016/j.rmr.2019.01.003)
 
 {{% /collapse %}}

@@ -14,6 +14,9 @@ tags = ["polyarthrite", "anti-TNF", "methotrexate"]
 anglais = ["Rheumatoid arthritis"]
 sctid = "69896004"
 draft = false
+image = true
+imageWEBP = true
+imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 todo = "1re ordo, scores, https://www.has-sante.fr/jcms/c_664454/fr/ald-n-22-polyarthrite-rhumatoide-evolutive-grave"
 +++
 

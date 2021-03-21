@@ -21,6 +21,8 @@ flowchart = true
 todo = "revoir ttt orienté, update graph, comment diag quand rosacée, forme héréditaire de K gastrique (SNFGE thésaurus), dépistage en AINS long cours maastricht III"
 +++
 
+Page en cours de mise à jour avec les dernières recommandations 2021.
+
 {{%article-summary%}}
 
 - Dépistage par sérologie pour tout antécédent d'ulcère sans confirmation d'éradication.

@@ -16,7 +16,8 @@ sctid = "840539006"
 draft = false
 flowchart = true
 image = true
-imageSrc = "Photo de Atelier Teee sur Foter.com / CC BY-NC-ND"
+imageWEBP = true
+imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 todo = "https://www.has-sante.fr/jcms/p_3216523/fr/tests-isolement-traitements-quelle-prise-en-charge-en-medecine-de-ville-pour-les-patients-suspectes-de-covid-19"
 +++
 

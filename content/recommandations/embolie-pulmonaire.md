@@ -14,8 +14,9 @@ tags = ["MVTE"]
 anglais = []
 sctid = ""
 draft = true
-image = false
-imageSrc = ""
+image = true
+imageWEBP = true
+imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 todo = ""
 +++
 

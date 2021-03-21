@@ -15,7 +15,8 @@ anglais = ["Asplenia"]
 sctid = "707147002"
 draft = false
 image = true
-imageSrc = "scientificanimations.com, CC BY-SA 4.0, via Wikimedia Commons"
+imageWEBP = true
+imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 todo = "améliorer vaccins, graph"
 +++
 

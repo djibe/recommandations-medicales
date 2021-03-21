@@ -15,6 +15,9 @@ anglais = ["Renal failure syndrome"]
 sctid = "42399005"
 draft = false
 flowchart = true
+image = true
+imageWEBP = true
+imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 todo = "etiologie + manque, consultation dediee Coter C + ALD ???"
 +++
 

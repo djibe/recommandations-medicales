@@ -14,6 +14,9 @@ tags = ["depistage", "osteodensitometrie", "biphosphonate"]
 anglais = ["Osteoporosis"]
 sctid = "64859006"
 draft = true
+image = true
+imageWEBP = true
+imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 todo = "summary"
 +++
 
