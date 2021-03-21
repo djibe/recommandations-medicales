@@ -14,13 +14,15 @@ tags = ["MVTE"]
 anglais = []
 sctid = ""
 draft = true
+flowchart = true
 image = false
 imageSrc = ""
-todo = "coder Constans et LEFt, mieux est Wells ou Wells modifié?, proba forte et doppler neg?, éducation AVK"
+todo = "mieux est Wells ou Wells modifié?, proba forte et doppler neg?, éducation AVK, reperfusion, risque récidive, differentiel, interrogatoire"
 +++
 
 {{%article-summary%}}
 
+- En l'absence de dyspnée, malaise, tachycardie et douleur thoracique, sinon voir *Embolie pulmonaire*
 - Score clinique systématique et D-dimères ou écho-doppler veineux selon le résultat
 - Thrombose veineuse superficielle, voir la fiche dédiée (*en cours*).
 
@@ -34,157 +36,27 @@ todo = "coder Constans et LEFt, mieux est Wells ou Wells modifié?, proba forte 
 **EP:** embolie pulmonaire  
 **HBPM:** héparine de bas poids moléculaire  
 **HNF:** héparine non fractionnée  
+**LEFt:** Left Edema First trimester  
 **MI:** membre inférieur  
 **MVTE:** maladie veineuse thromboembolique  
+**TIH:** thrombopénie induite à l'héparine  
 **TVP:** thrombose veineuse profonde  
 **UI:** unités internationales
 
 {{% /collapse %}}
 {{%collapse "Probabilité clinique et score de Wells" %}}
 
-Il est recommandé d'utiliser un des scores ci-dessous plutôt qu'un appréciation clinique.
+Rechercher des signes d'embolie pulmonaire: dyspnée, malaise, tachycardie et douleur thoracique.
 
-<div class="card my-3 my-xl-5">
-  <ul class="nav nav-justified nav-tabs" id="justifiedTab" role="tablist">
-    <li class="nav-item">
-      <a aria-controls="wells-tab" aria-selected="true" class="nav-link active" data-toggle="tab" href="#wells-tab" id="wells" role="tab">Wells modifié</a></li>
-    <li class="nav-item">
-      <a aria-controls="constans-tab" aria-selected="false" class="nav-link" data-toggle="tab" href="#constans-tab" id="constans" role="tab">Constans</a></li>
-    <li class="nav-item">
-      <a aria-controls="grossesse" aria-selected="false" class="nav-link" data-toggle="tab" href="#grossesse-tab" id="grossesse" role="tab">Grossesse</a></li>
-  </ul>
-  <div class="card-body tab-content">
-    <div aria-labelledby="wells" class="tab-pane fade show active" id="wells-tab" role="tabpanel">
-      <h4 class="card-title mb-lg-4">Score de Wells modifié</h4>
-      <form class="form-group">
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="wells1" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="wells1">Cancer actif</label>
-          <p class="typography-caption">Traitement actif ou &lt; 6 mois ou palliatif.</p>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="wells2" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="wells2">Paralysie/parésie ou plâtre récent des MI</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="wells3" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="wells3">Alitement &ge; 3j ou chirurgie sous AG/ARégionale dans les 12 dernières semaines</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="wells4" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="wells4">Douleur localisée sur le trajet d'une veine profonde</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="wells5" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="wells5">Augmentation de volume de tout le MI</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="wells6" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="wells6">Augmentation de volume du mollet avec 3 cm de plus que sur l'asymptomatique</label>
-          <p class="typography-caption">Mesure à 10 cm sous la tubérosité tibiale.</p>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="wells7" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="wells7">Œdème prenant le godet confiné au MI symptomatique</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="wells8" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="wells8">Circulation collatérale veineuse superficielle (non variqueuse)</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="wells9" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="wells9">Antécédent de TVP documentée</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="wells10" class="custom-control-input" value="-2">
-          <label class="custom-control-label" for="wells10">Alternative diagnostique au moins aussi probable que celui de TVP</label>
-        </div>
-      </form>
-    </div>
-    <div aria-labelledby="constans" class="tab-pane fade" id="constans-tab" role="tabpanel">
-      <h4 class="card-title mb-lg-4">Score de Constans</h4>
-      <div class="form-group">
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="constans1" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="constans1">Homme</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="constans2" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="constans2">Paralysie ou immobilisation du MI</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="constans3" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="constans3">Alitement &gt; 3 jours</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="constans4" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="constans4">Augmentation de volume du MI</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="constans5" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="constans5">Douleur unilatérale du MI</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="constans6" class="custom-control-input" value="-1">
-          <label class="custom-control-label" for="constans6">Autre diagnostic au moins aussi plausible</label>
-        </div>
-      </div>
-    </div>
-    <div aria-labelledby="grossesse" class="tab-pane fade" id="grossesse-tab" role="tabpanel">
-      <h4 class="card-title mb-lg-4">Score LEFt pendant la grossesse</h4>
-      <div class="form-group">
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="left1" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="left1">Symptômes au MI gauche</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="left2" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="left2">Différence de circonférence du mollet &ge; 2 cm</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="left3" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="left3">Premier trimestre de grossesse</label>
-        </div>
-      </div>
-    </div>
-    <div class="alert bg-light d-flex mt-md-4">
-      <div class="d-flex flex-column align-items-center">
-        <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score de Wells</p>
-        <span class="font-weight-bold" id="wellsScore" style="font-size:2rem">0</span>
-      </div>
-      <p id="wellsText" class="lead m-auto">Répondre aux questions.</p>
-    </div>
-  </div>
-</div>
-<script>
-  // Score de Wells modifié by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
-    const scoreElem = document.getElementById('wellsScore')
-    const textElem = document.getElementById('wellsText')
-    const radioElems = document.querySelectorAll('input[type="checkbox"]')
-    radioElems.forEach((radioElem) => { radioElem.addEventListener('change', () => {
-      wells()
-    }) })
-    const wells = () => {
-      let score = 0
-      const radioElemsChecked = document.querySelectorAll('input[type="checkbox"]:checked')
-      if (radioElemsChecked.length >= 0) {
-        radioElemsChecked.forEach(radioChecked => {
-        score += parseInt(radioChecked.value, 10)
-        scoreElem.innerHTML = score
-        if (score <= 1) {
-          textElem.innerHTML = 'Probabilité faible - doser les D-dimères'
-        } else if (score >= 2) {
-          textElem.innerHTML = 'Probabilité forte - écho-doppler veineux'
-        }
-        })
-      }
-    }
-  })
-</script>
+En l'absence de singes d'EP, il est recommandé d'utiliser un des scores ci-dessous plutôt qu'une appréciation clinique pour l'évaluation d'une suspicion de thrombose veineuse profonde.  
+Utiliser le score LEFt chez la femme enceinte.
+
+{{< scores/wells >}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
+
+Une suspicion de TVP (sans EP) devrait être explorée en ambulatoire (sauf critères d'hospitalisation ci-dessus).
 
 ### D-dimères
 
@@ -200,7 +72,7 @@ Recours d'emblée à l'écho-doppler veineux si non accessible.
 - D-dimères anormaux  
 Réaliser l'écho-doppler veineux.
 
-{{%info%}}Après 50 ans, la borne est à 10% de l'âge {{%class%}}(700 à 70 ans){{%/class%}}.{{%/info%}}
+{{%info%}}Après 50 ans, la borne des D-dimères est à 10% de l'âge {{%class%}}(700 à 70 ans){{%/class%}}.{{%/info%}}
 
 ### Écho-doppler veineux
 
@@ -214,6 +86,33 @@ Pas de TVP.
 Écho-doppler veineux complet de contrôle à J7.
 - Écho-doppler veineux anormal avec thrombus proximal/distal  
 TVP certaine.
+
+{{% /collapse %}}
+{{%collapse "Critères d'hospitalisation" %}}
+
+{{%warning%}}
+
+- Suspicion d'embolie pulmonaire
+- TVP bilatérale
+- Syndrome obstructif sévère
+- Survenue sous anticoagulants
+- Suspicion de thrombopénie induite à l'héparine
+- Hémorragie active ou risque hémorragique élevé  
+{{%class "text-black-secondary"%}}Voir le score hémorragique RIETE plus bas.{{%/class%}}
+- Insuffisance rénale sévère  
+{{%class "text-black-secondary"%}}Cockroft < 30 mL/min.{{%/class%}}
+- Cancer ou comorbidités à risque de décompensation
+- Contexte médico-social ou géographique défavorable
+- Absence d'entourage
+- Absence de téléphone
+{{%/warning%}}
+
+En l'absence de ces signes, la prise en charge de la TVP est préconisée en ambulatoire.
+
+{{% /collapse %}}
+{{%collapse "Score hémorragique RIETE" %}}
+
+{{< scores/riete >}}
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
@@ -232,6 +131,8 @@ Traitement de référence en l'absence de cancer connu.
 #### Anticoagulation par AOD
 
 En première intention en TVP proximale pour les 3 premiers mois de traitement.
+
+{{%info%}}Apixaban 10 mg x 2/j pendant au moins 3 mois{{%/info%}}
 
 2 AOD ont l'AMM pour la TVP:
 
@@ -268,10 +169,41 @@ Avec éducation thérapeutique et carnet de suivi.
 
 - Chaussettes de contention classe III ≥ 6 mois
 - Si TVP stable: mobilisation précoce
+- Expliquer la cause de survenue de la thrombose
+- Consultation de suivi  
+TODO:
+- À distance: rechercher une dyspnée d'effort (score NYHA ou MRC)
+
+### Filtre cave
+
+Indication: TVP proximale diagnostiquée dans les 30 jours (avec ou sans EP) avec contre-indication à l'anticoagulation curative.
+
+{{% /collapse %}}
+{{%collapse "Conduite à tenir devant une TVP" "show" %}}
+
+{{< mermaid title="Conduite à tenir devant une suspicion de thrombose veineuse profonde. Dr JB FRON d'après Sanchez 2019" >}}
+graph TB
+  tvp[Suspicion de TVP<br>sans argument d'EP] --> score(<b>Score clinique</b><br>Wells, Constans ou LEFt)
+  style tvp stroke:#006ef4, stroke-width:1px
+    score --> probaFaible(Probabilité faible<br>ou intermédiaire)
+      probaFaible --> ddimeres(D-dimères)
+        ddimeres -- Négatifs --> arret(Diagnostic écarté)
+        ddimeres -- Positifs --> doppler
+    score --> probaForte(Probabilité forte)
+      probaForte --> doppler(Écho-doppler des MI)
+        doppler -- Négatif --> differentiel(Diagnostic autre)
+        doppler -- Positif --> certitude[TVP certaine]
+          style certitude stroke:#006ef4, stroke-width:1px
+          certitude --> critereHospi("<b>Critères d'hospitalisation ?</b><hr>- TVP bilatérale<br>- Survenue sous anticoagulants/TIH<br>- Hémorragie active<br>- IRC sévère<br>- Cancer ou comorbidités<br>- Contexte social/isolement")
+            critereHospi -- Non --> scoreHemorragique("Score hémorragique RIETE<br>à risque élevé ?")
+              scoreHemorragique -- Non --> anticoag(Anticoagulation 3 mois)
+              scoreHemorragique -- Oui --> hospit
+            critereHospi -- Oui --> hospit(Hospitalisation)
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte? Revue des Maladies Respiratoires (2019).](https://doi.org/10.1016/j.rmr.2019.01.003)
+- [Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires (2019).](https://doi.org/10.1016/j.rmr.2019.01.003)
 
 {{% /collapse %}}

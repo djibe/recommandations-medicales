@@ -1,0 +1,213 @@
+<div class="card my-3 my-xl-5">
+  <ul class="nav nav-justified nav-tabs" id="justifiedTab" role="tablist">
+    <li class="nav-item">
+      <a aria-controls="wells-tab" aria-selected="true" class="nav-link active" data-toggle="tab" href="#wells-tab" id="wells" role="tab">Wells modifié</a></li>
+    <li class="nav-item">
+      <a aria-controls="constans-tab" aria-selected="false" class="nav-link" data-toggle="tab" href="#constans-tab" id="constans" role="tab">Constans</a></li>
+    <li class="nav-item">
+      <a aria-controls="grossesse" aria-selected="false" class="nav-link" data-toggle="tab" href="#grossesse-tab" id="grossesse" role="tab">Grossesse</a></li>
+  </ul>
+  <div class="card-body tab-content" id="score-clinique-tvp">
+    <div aria-labelledby="wells" class="tab-pane fade show active" id="wells-tab" role="tabpanel">
+      <h4 class="card-title mb-lg-4">Score de Wells modifié</h4>
+      <div class="form-group">
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells1" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="wells1">Cancer actif</label>
+          <p class="typography-caption">Traitement actif ou &lt; 6 mois ou palliatif.</p>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells2" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="wells2">Paralysie/parésie ou plâtre récent des MI</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells3" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="wells3">Alitement &ge; 3j ou chirurgie sous AG/ARégionale dans les 12 dernières semaines</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells4" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="wells4">Douleur localisée sur le trajet d'une veine profonde</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells5" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="wells5">Augmentation de volume de tout le MI</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells6" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="wells6">Augmentation de volume du mollet avec 3 cm de plus que sur l'asymptomatique</label>
+          <p class="typography-caption">Mesure à 10 cm sous la tubérosité tibiale.</p>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells7" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="wells7">Œdème prenant le godet confiné au MI symptomatique</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells8" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="wells8">Circulation collatérale veineuse superficielle (non variqueuse)</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells9" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="wells9">Antécédent de TVP documentée</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells10" class="custom-control-input" value="-2">
+          <label class="custom-control-label" for="wells10">Alternative diagnostique au moins aussi probable que celui de TVP</label>
+        </div>
+      </div>
+      <div class="alert bg-light d-flex mt-md-4">
+        <div class="d-flex flex-column align-items-center">
+          <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score de Wells</p>
+          <span class="font-weight-bold" id="wellsScore" style="font-size:2rem">0</span>
+        </div>
+        <p id="wellsText" class="lead m-auto"><b>Probabilité faible</b><br>Doser les D-dimères</p>
+      </div>
+    </div>
+    <div aria-labelledby="constans" class="tab-pane fade" id="constans-tab" role="tabpanel">
+      <h4 class="card-title mb-lg-4">Score de Constans</h4>
+      <div class="form-group">
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="constans1" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="constans1">Homme</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="constans2" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="constans2">Paralysie ou immobilisation du MI</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="constans3" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="constans3">Alitement &gt; 3 jours</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="constans4" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="constans4">Augmentation de volume du MI</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="constans5" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="constans5">Douleur unilatérale du MI</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="constans6" class="custom-control-input" value="-1">
+          <label class="custom-control-label" for="constans6">Autre diagnostic au moins aussi plausible</label>
+        </div>
+      </div>
+      <div class="alert bg-light d-flex mt-md-4">
+        <div class="d-flex flex-column align-items-center">
+          <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score de Constans</p>
+          <span class="font-weight-bold" id="constansScore" style="font-size:2rem">0</span>
+        </div>
+        <p id="constansText" class="lead m-auto"></p>
+      </div>
+    </div>
+    <div aria-labelledby="grossesse" class="tab-pane fade" id="grossesse-tab" role="tabpanel">
+      <h4 class="card-title mb-lg-4">Score LEFt pendant la grossesse</h4>
+      <div class="form-group">
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="left1" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="left1">Symptômes au MI gauche</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="left2" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="left2">Différence de circonférence du mollet &ge; 2 cm</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="left3" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="left3">Premier trimestre de grossesse</label>
+        </div>
+      </div>
+      <div class="alert bg-light d-flex mt-md-4">
+        <div class="d-flex flex-column align-items-center">
+          <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score LEFt</p>
+          <span class="font-weight-bold" id="leftScore" style="font-size:2rem">0</span>
+        </div>
+        <p id="leftText" class="lead m-auto"><b>Probabilité faible</b><br>Doser les D-dimères</p>
+      </div>
+    </div>
+  </div>
+</div>
+{{ $script := `
+  // Score de Wells/Constans/LEFt modifié by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scoreElem = document.getElementById('wellsScore')
+    const textElem = document.getElementById('wellsText')
+    const scoreConstans = document.getElementById('constansScore')
+    const textConstans = document.getElementById('constansText')
+    const scoreLeft = document.getElementById('leftScore')
+    const textLeft = document.getElementById('leftText')
+    const radioElems = document.querySelectorAll('#score-clinique-tvp input[type=\"checkbox\"]')
+    const panels = document.querySelectorAll('.nav-tabs .nav-link')
+    radioElems.forEach((radioElem) => { radioElem.addEventListener('click', () => {
+      wells()
+      constans()
+      left()
+    }) })
+    // Reset counter on tab switch
+    panels.forEach((panel) => { panel.addEventListener('click', () => {
+        reset()
+      })
+    })
+    const reset = () => {
+      radioElems.forEach(radio => {
+        radio.checked = false
+        scoreElem.innerHTML = 0
+        textElem.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+        scoreConstans.innerHTML = 0
+        textConstans.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+        scoreLeft.innerHTML = 0
+        textLeft.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+      })
+    }
+    const wells = () => {
+      let score = 0
+      const radioElemsChecked = document.querySelectorAll('#score-clinique-tvp input[type=\"checkbox\"]:checked')
+        radioElemsChecked.forEach(radioChecked => {
+        score += parseInt(radioChecked.value, 10)
+        scoreElem.innerHTML = score
+        if (score <= 1) {
+          textElem.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+        } else if (score >= 2) {
+          textElem.innerHTML = '<b>Probabilité forte</b><br>Écho-doppler veineux<br>Anticoagulation immédiate'
+        }
+      })
+      if (radioElemsChecked.length === 0) {
+        scoreElem.innerHTML = 0
+        textElem.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+      }
+    }
+    const constans = () => {
+      let score = 0
+      const radioElemsChecked = document.querySelectorAll('#score-clinique-tvp input[type=\"checkbox\"]:checked')
+        radioElemsChecked.forEach(radioChecked => {
+        score += parseInt(radioChecked.value, 10)
+        scoreConstans.innerHTML = score
+        if (score <= 0) {
+          textConstans.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+        } else if (score >= 1 && score < 3) {
+          textConstans.innerHTML = '<b>Probabilité intermédiaire</b><br>Doser les D-dimères'
+        } else if (score >= 3) {
+          textConstans.innerHTML = '<b>Probabilité forte</b><br>Écho-doppler veineux<br>Anticoagulation immédiate'
+        }
+        })
+      if (radioElemsChecked.length === 0) {
+        scoreConstans.innerHTML = 0
+        textConstans.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+      }
+    }
+    const left = () => {
+      let score = 0
+      const radioElemsChecked = document.querySelectorAll('#score-clinique-tvp input[type=\"checkbox\"]:checked')
+        radioElemsChecked.forEach(radioChecked => {
+        score += parseInt(radioChecked.value, 10)
+        scoreLeft.innerHTML = score
+        if (score === 0) {
+          textLeft.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+        } else if (score >= 1) {
+          textLeft.innerHTML = '<b>Probabilité forte</b><br>Écho-doppler veineux<br>Anticoagulation immédiate'
+        }
+        })
+      if (radioElemsChecked.length === 0) {
+        scoreLeft.innerHTML = 0
+        textLeft.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+      }
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>

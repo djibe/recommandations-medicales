@@ -57,4 +57,9 @@ Concentration hépatique en fer (IRM) < 100 µmol/g
 
 - [Bardou Jacquet E. Hyperferritinémie non hémochromatosique : diagnostic et prise en charge. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/hyperferritinemie-non-hemochromatosique-diagnostic-et-prise-en-charge/)
 
+À lire:
+
+https://www.snfge.org/sites/default/files/recommandations/brissot_2019.pdf
+
+
 {{% /collapse %}}

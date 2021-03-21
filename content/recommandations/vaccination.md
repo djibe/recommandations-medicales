@@ -89,7 +89,7 @@ Rattrapage vaccinal
 - Pneumocoque
 
 {{% /collapse %}}
-{{%collapse "FMC" %}}
+{{%collapse "FMC gratuite" %}}
 
 <div class="card card-body card-primary-action flex-row my-3" style="width: 250px;">
   <div>

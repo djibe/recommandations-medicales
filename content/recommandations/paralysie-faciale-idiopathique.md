@@ -222,7 +222,7 @@ Traitement de toute paralysie faciale idiopathique en urgence et au mieux dans l
 
 {{%info%}}Prednisolone orale 1 mg/kg/j (max 60 mg/j) pendant 5 jours, puis 10 mg/j pendant 5 jours.{{%/info%}}
 
-En **forme sévère** ({{< modal-btn score-house >}}grades V et VI du House-Brackmann {{< /modal-btn >}}): prednisolone 2 mg/kg/j pendant 10 jours.
+En **forme sévère** ({{< modal-btn score-house >}}grades V et VI du House-Brackmann{{< /modal-btn >}}): prednisolone 2 mg/kg/j pendant 10 jours.
 
 Alternative: méthylprednisolone intra-veineuse.
 
@@ -260,43 +260,6 @@ graph TB
 
 {{% modal title="Classification de House-Brackmann" id="score-house" %}}
 
-Grade I
-: Mobilité faciale et tonus normaux
-
----
-
-Grade II
-: Dysfonction légère.
-  - Au repos: visage symétrique et tonus normal
-  - Aux mouvements: légère asymétrie sans contracture avec présence possible de discrètes syncinésies.
-
----
-
-Grade III
-: Dysfonction modérée.
-  - Au repos: visage symétrique et tonus normal
-  - Aux mouvements: diminution globale de la mobilité avec asymétrie non défigurante, fermeture oculaire complète avec effort, spasmes et syncinésies modérées.
-
----
-
-Grade IV
-: Dysfonction modérée à sévère.
-  - Au repos: symétrie globalement conservée, tonus normal
-  - Aux mouvements: asymétrie importante et/ou défigurante, fermeture oculaire incomplète même avec effort, syncinésies ou spasmes sévères.
-
----
-
-Grade V
-: Dysfonction sévère.
-  - Au repos: asymétrie évidente et diminution du tonus
-  - Aux mouvements: mobilité à peine perceptible au niveau de l'œil et de la bouche.  
-  À ce stade, pas de syncinésie ni spasme possible.
-
----
-
-Grade VI
-: Paralysie faciale complète, aucun mouvement.
-
-> House JW, Brackmann DE. Facial nerve grading system. Otolaryngology Head Neck Surgery 1985;93:146-7.
+{{< scores/house-brackmann >}}
 
 {{% /modal %}}

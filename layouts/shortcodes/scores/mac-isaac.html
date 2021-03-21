@@ -1,7 +1,7 @@
 <p>Doit être utilisé à partir de 15 ans.<br>
   Réaliser le TDR si score ≥ 2 <span class="text-muted">(VPN 95%)</span>.
 </p>
-<div class="alert border rounded-lg mb-4 mb-lg-5" style="max-width: 768px">
+<div class="alert border rounded-lg mb-4 mb-lg-5" id="score-mcisaac" style="max-width: 768px">
   <div class="row">
     <div class="col-12 col-md-9">
       <input type="checkbox" id="temperature" class="d-none" value="1">
@@ -26,7 +26,7 @@
   // Score de Mac Isaac by djibe
   let score = 0;
   const Text = document.getElementById('explainMcIsaac');
-  [...document.querySelectorAll('input[type=\"checkbox\"]')].forEach(function(checkbox) {
+  [...document.querySelectorAll('#score-mcisaac input[type=\"checkbox\"]')].forEach(function(checkbox) {
     checkbox.addEventListener('change', function(e) {
       e.target.checked ? score += parseInt(e.target.value, 10) : score -= parseInt(e.target.value, 10)
       document.getElementById('counter').innerHTML = score

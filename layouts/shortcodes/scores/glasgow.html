@@ -7,7 +7,7 @@
     <li class="nav-item">
       <a aria-controls="zerodeux" aria-selected="false" class="nav-link" data-toggle="tab" href="#zerodeux" id="zerodeux-tab" role="tab">0 à 2 ans</a></li>
   </ul>
-  <div class="card-body tab-content">
+  <div class="card-body tab-content" id="score-glasgow">
     <div aria-labelledby="5plus-tab" class="tab-pane fade show active" id="plus5" role="tabpanel">
       <form class="my-4 form" autocomplete="off">
         <h4 class="card-title mb-lg-4">Échelle de Glasgow standard</h4>
@@ -268,10 +268,9 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreElem = document.getElementById('glasgowScore')
     const textElem = document.getElementById('glasgowText')
-    const radioElems = document.querySelectorAll('input[type=\"radio\"]')
+    const radioElems = document.querySelectorAll('#score-glasgow input[type=\"radio\"]')
     const panels = document.querySelectorAll('.nav-tabs .nav-link')
     const forms = document.getElementsByClassName('form')
-    // Score de Glasgow by djibe
     radioElems.forEach((radioElem) => { radioElem.addEventListener('change', () => {
       count()
     }) })

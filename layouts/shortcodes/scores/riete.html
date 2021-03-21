@@ -1,0 +1,80 @@
+<div class="card card-body">
+  <h3 class="card-title mb-lg-4" style="color:#212121;margin-top:0;">Score hémorragique RIETE</h3>
+  <div class="form-group" id="score-riete">
+    <div class="custom-control custom-checkbox">
+      <input type="checkbox" id="riete1" class="custom-control-input" value="1">
+      <label class="custom-control-label" for="riete1">Âge &gt; 75 ans</label>
+    </div>
+    <div class="custom-control custom-checkbox">
+      <input type="checkbox" id="riete2" class="custom-control-input" value="2">
+      <label class="custom-control-label" for="riete2">Cancer métastatique</label>
+    </div>
+    <div class="custom-control custom-checkbox">
+      <input type="checkbox" id="riete3" class="custom-control-input" value="1">
+      <label class="custom-control-label" for="riete3">Immobilisation &gt; 4 jours</label>
+    </div>
+    <div class="custom-control custom-checkbox">
+      <input type="checkbox" id="riete4" class="custom-control-input" value="1.5">
+      <label class="custom-control-label" for="riete4">Hémorragie majeure dans les 30 jours</label>
+    </div>
+    <div class="custom-control custom-checkbox">
+      <input type="checkbox" id="riete5" class="custom-control-input" value="1">
+      <label class="custom-control-label" for="riete5">TP anormal</label>
+    </div>
+    <div class="custom-control custom-checkbox">
+      <input type="checkbox" id="riete6" class="custom-control-input" value="1">
+      <label class="custom-control-label" for="riete6">IRC sévère</label>
+      <p class="typography-caption">Clairance selon Cockroft &lt; 30 mL/min.</p>
+    </div>
+    <div class="custom-control custom-checkbox">
+      <input type="checkbox" id="riete7" class="custom-control-input" value="1">
+      <label class="custom-control-label" for="riete7">Plaquettes &lt; 100.000/mm³</label>
+    </div>
+    <div class="custom-control custom-checkbox">
+      <input type="checkbox" id="riete8" class="custom-control-input" value="1">
+      <label class="custom-control-label" for="riete8">Anémie</label>
+      <p class="typography-caption">Hb femme &lt; 12 g/dL, homme &lt; 13 g/dL.</p>
+    </div>
+    <div class="custom-control custom-checkbox">
+      <input type="checkbox" id="riete9" class="custom-control-input" value="-1">
+      <label class="custom-control-label" for="riete9">TVP distale</label>
+    </div>
+  </div>
+  <div class="alert bg-light d-flex mt-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score RIETE</p>
+      <span class="font-weight-bold" id="rieteScore" style="font-size:2rem">0</span>
+    </div>
+    <p id="rieteText" class="lead m-auto">Risque hémorragique <b>faible</b></p>
+  </div>
+</div>
+{{ $script := `
+  // Score RIETE by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scoreRiete = document.getElementById('rieteScore')
+    const textRiete = document.getElementById('rieteText')
+    const rieteElems = document.querySelectorAll('#score-riete input[type=\"checkbox\"]')
+    rieteElems.forEach((rieteElem) => { rieteElem.addEventListener('click', () => {
+      riete()
+    }) })
+    const riete = () => {
+      let score = 0
+      const rieteElemsChecked = document.querySelectorAll('#score-riete input[type=\"checkbox\"]:checked')
+        rieteElemsChecked.forEach(rieteElemChecked => {
+        score += parseInt(rieteElemChecked.value, 10)
+        scoreRiete.innerHTML = score
+        if (score === 0) {
+          textRiete.innerHTML = 'Risque hémorragique <b>faible</b>'
+        } else if (score >= 1 && score <= 4) {
+          textRiete.innerHTML = 'Risque hémorragique <b>intermédiaire</b>'
+        } else if (score > 4) {
+          textRiete.innerHTML = 'Risque hémorragique <b>élevé</b><br>Hospitalisation'
+        }
+      })
+      if (rieteElemsChecked.length === 0) {
+        scoreRiete.innerHTML = 0
+        textRiete.innerHTML = 'Risque hémorragique <br>faible</br>'
+      }
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>

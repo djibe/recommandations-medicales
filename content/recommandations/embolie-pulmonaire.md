@@ -88,7 +88,7 @@ La réponse au 8 questions doit être négative pour infirmer une suspicion faib
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte? Revue des Maladies Respiratoires (2019).](https://doi.org/10.1016/j.rmr.2019.01.003)
+- [Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires (2019).](https://doi.org/10.1016/j.rmr.2019.01.003)
 
 {{% /collapse %}}
 
