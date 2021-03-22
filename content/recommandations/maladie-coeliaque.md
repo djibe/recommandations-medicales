@@ -4,6 +4,7 @@ prefix = "la "
 shortname = "cœliaque"
 synonyms = ["Intolérance au gluten", "sprue cœliaque", "cœliaquie"]
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Pr C. Cellier (SNFGE)"
 date = 2020-04-16T12:31:11+02:00
 publishdate = 2020-04-16
 lastmod = 2020-08-26
@@ -18,7 +19,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "attente OK Pr Christophe Cellier (HEGP), Ostéodensitométrie avant 35 ans ???, dermatite herpétiforme"
+todo = "Ostéodensitométrie avant 35 ans ???, dermatite herpétiforme"
 +++
 
 {{%article-summary%}}

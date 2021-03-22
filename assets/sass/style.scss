@@ -288,6 +288,10 @@ a[href^='http']:not([class])::after {
     }
   }
 
+  .alert-info {
+    color: #0073a9;
+  }
+
   .alert-warning {
     color: #836e00;
   }
