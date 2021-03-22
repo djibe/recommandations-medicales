@@ -4,6 +4,7 @@ prefix = "l'"
 shortname = "VIH"
 synonyms = ["Virus de l'immunodéficience humaine"]
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Pr C. CAZANAVE (CMIT)"
 date = 2021-01-16T22:06:00+02:00
 publishdate = 2021-01-16
 lastmod = 2021-02-09

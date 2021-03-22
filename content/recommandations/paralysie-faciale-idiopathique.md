@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Photo de l'Internet Archive Book Images sur Foter.com"
-todo = "soins oculaires, relecture en cours Stéphane Tringali et Maxime Fieux, excuse relecture/morceaux manquants/a frigore mots clés/Borrelia burgdorferi"
+todo = "soins oculaires, relecture faite Pr Stéphane Tringali et Dr Maxime Fieux, excuse relecture/morceaux manquants/a frigore mots clés/Borrelia burgdorferi"
 +++
 
 Ces recommandations concernent l'adulte.

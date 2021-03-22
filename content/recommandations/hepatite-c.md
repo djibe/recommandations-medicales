@@ -18,7 +18,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "hépatoprotection"
+todo = "hépatoprotection, attente relcture Dr FONTAINE Hélène"
 
 +++
 

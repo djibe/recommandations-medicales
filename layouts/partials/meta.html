@@ -1,3 +1,16 @@
+<!-- Generate image var -->
+{{ $image := $.File.BaseFileName }}
+{{ $imageUrl := "" }}
+{{ with .Params.image }}
+  {{ if $.Params.imageWEBP }}
+    {{ $imageUrl = printf "/images/photos/%s.webp" $image }}
+  {{ else }}
+    {{ $imageUrl = printf "/images/photos/%s.jpg" $image }}
+  {{ end }}
+{{ else }}
+  {{ $imageUrl = $.Site.Params.ogimage }}
+{{ end }}
+
 <!-- Title Tags 70 ch -->
 {{ $metaTitle := "" }}
 {{ if .IsHome }}
@@ -35,7 +48,6 @@
 <!-- Link Tags -->
 <base href="{{ .Site.BaseURL }}">
 <link rel="canonical" href="{{ .Permalink }}">
-<meta name="url" content="{{ .Permalink }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta name="twitter:url" content="{{ .Permalink }}">
 
@@ -43,19 +55,10 @@
 <meta property="og:locale" content="fr_FR">
 
 <!-- Image Tags -->
-{{ with .Params.image }}
-{{ $image := $.File.BaseFileName }}
-{{ $imageUrl := printf "/images/photos/%s.jpg" $image }}
-  <meta itemprop="image" content="{{ $imageUrl | absURL }}">
-  <meta property="og:image" content="{{ $imageUrl | absURL }}">
-  <meta name="twitter:image" content="{{ $imageUrl | absURL }}">
-  <meta name="twitter:image:alt" content="Image de {{ $.Params.Prefix }}{{ $.Title }}">
-{{ else }}
-  <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}">
-  <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}">
-  <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}">
-  <meta name="twitter:image:alt" content="Logo de {{ .Site.Title }}">
-{{ end }}
+<meta itemprop="image" content="{{ $imageUrl | absURL }}">
+<meta property="og:image" content="{{ $imageUrl | absURL }}">
+<meta name="twitter:image" content="{{ $imageUrl | absURL }}">
+<meta name="twitter:image:alt" content="Image de {{ $.Params.Prefix }}{{ $.Title }}">
 
 <!-- Sitemap & RSS Feed -->
 <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}sitemap.xml"> 
@@ -95,7 +98,7 @@
       },
       "headline": "{{ .Title | truncate 110 }} : recommandations 2021",
       "description": "Les recommandations pour la prise en charge de {{ .Title }} en médecine générale.",
-      {{ with .Params.image }}{{ $image := $.File.BaseFileName }}{{ $imageUrl := printf "/images/photos/%s.jpg" $image }}"image": [{{ $imageUrl | absURL }}],{{ else }}"image": ["{{ .Site.Params.ogimage | absURL }}"],{{ end }}
+      "image": [{{ $imageUrl | absURL }}],
       "author": {
         "@type": "Person",
         "name": "{{ range first 1 .Params.auteurs }}{{.}}{{end}}"

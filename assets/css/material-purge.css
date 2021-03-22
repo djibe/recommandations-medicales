@@ -2574,6 +2574,42 @@ input:disabled + .chip {
   background-color: #e87500;
 }
 
+.custom-checkbox.custom-control {
+  align-items: center;
+  display: flex;
+}
+
+.custom-checkbox .custom-control-label::after {
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  vertical-align: -0.362637em;
+  font-family: 'Material Icons';
+  font-family: var(--font-family-material-icons);
+  font-feature-settings: 'liga';
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: normal;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  white-space: nowrap;
+  word-wrap: normal;
+  content: "check_box_outline_blank";
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.custom-checkbox .custom-control-input:checked ~ .custom-control-label::after {
+  content: "check_box";
+}
+
+.custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::after {
+  content: "indeterminate_check_box";
+}
+
+.custom-checkbox .custom-control-input:indeterminate:not([disabled]) ~ .custom-control-label::after {
+  color: #e87500;
+}
+
 .custom-radio .custom-control-label::after {
   font-size: 1.5rem;
   line-height: 1.5rem;
