@@ -39,6 +39,10 @@
         <p class="typography-overline">Rédacteur</p>
         <p>{{ delimit . ", " }}</p>{{ end }}
 
+        {{ with .Params.Relecteur }}
+        <p class="typography-overline">Relecteur</p>
+        <p>{{ . }}</p>{{ end }}
+
         {{ with .Params.sources }}
         <p class="typography-overline">Sources</p>
         <p class="font-weight-bold">{{ delimit . ", " }}</p>{{ end }}
@@ -104,6 +108,7 @@
                 </div>
               </div>
               <div class="mt-4 recommandation__content">
+                {{ with .Params.Relecteur }}<p class="my-4">Tous mes remerciements au {{ . }} pour sa relecture attentive.</p>{{ end }}
                 {{ .Content }}
               </div>
             </div>

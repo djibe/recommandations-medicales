@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-05T14:50:00+02:00
 publishdate = 2021-03-05
-lastmod = 2021-03-21
+lastmod = 2021-03-23
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["HAS"]
@@ -22,7 +22,7 @@ todo = ""
 
 {{%article-summary%}}
 
-- Information systématique de tous sur la contraception d'urgence
+- Information systématique de tous sur la contraception d'urgence, notamment lors de la prescription d'une contraception
 - La pilule du lendemain est accessible directement en pharmacie, gratuite pour les mineures
 - La pose d'un DIU est la méthode la plus efficace et possible jusqu'à J5
 - Envisager une prescription en prévention surtout si: adolescente, préservatif, VIH, voyage à l'étranger, milieu rural.
@@ -39,7 +39,7 @@ Elle peut être hormonale (lévonorgestrel ou ulipristal acétate) ou mécanique
 ### Abréviations
 
 **CPEF:** centres de planification et d’éducation familiale  
-**DIU:** dispositif intra-utérin au cuivre (ou stérilet)  
+**DIU:** dispositif intra-utérin (ou stérilet)  
 **PCU:** pilule contraceptive d'urgence (ou pilule du lendemain)  
 **UPA:** ulipristal acétate
 
@@ -51,13 +51,14 @@ Usage lié à 30% d'oubli de pilule, 30% de rupture de préservatif, 17% d'absen
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-Intérêt d'une contraception efficace pendant toute la période de vie sexuelle active.  
-La contraception d'urgence peut être prescrite "au cas où".
+{{%info%}}Intérêt d'une contraception efficace pendant toute la période de vie sexuelle active.{{%/info%}}
+
+La contraception d'urgence peut être prescrite en prévision "au cas où".
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Traitement en urgence et préparation de la prochain contraception.  
+Traitement en urgence (le + tôt possible) et préparation de la prochain contraception.  
 Intérêt de fournir une ordonnance en avance surtout si: adolescente, préservatif, VIH, voyage à l'étranger, milieu rural.
 
 ### Dispositif intra-utérin au cuivre (DIU)
@@ -71,14 +72,15 @@ Avant la pose, bilan en urgence: **auto-prélèvement vaginal** pour PCR *Chlamy
 
 Consultation de contrôle à 3 mois puis annuelle, ainsi qu'en complications possibles (douleurs pelviennes, saignements, fièvre).
 
-Sur prescription de sage-femme ou médecin pour remboursement à 60%.
+Sur prescription de sage-femme ou médecin pour un remboursement à 60%.
 
 ### Pilule contraceptive d'urgence (PCU)
 
 À prendre le plus tôt possible (de préférence dans les 12 heures) et jusqu'à 3 jours suivant le rapport.
 
 {{%info%}}
-[Lévonorgestrel 1,5 mg en 1 prise](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66791234&typedoc=R)
+[Lévonorgestrel 1,5 mg en 1 prise](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66791234&typedoc=R)  
+AR 1 fois si besoin.
 
 Utiliser le préservatif jusqu'au 1<sup>er</sup> jour des règles suivantes et débuter la contraception efficace à ce moment.  
 Utiliser un test de grossesse si retard des règles > 5 jours.  
@@ -91,8 +93,12 @@ Aucun risque décrit, aucune contre-indication hormis la grossesse.
 
 **NB.** La PCU n'a aucun effet délétère si une grossesse est déjà en cours.
 
-Disponible en pharmacie sans prescription (remboursée sur ordonnance).  
-Délivrance gratuite aux mineures en urgence en: pharmacie, collège/lycée/université, [planning familial](https://ivg.gouv.fr/les-centres-de-planification-ou-d-education-familiale.html) (CPEF, accès aussi aux majeures sans couverture sociale).
+### La pilule du lendemain en pratique
+
+- Disponible en pharmacie sans prescription  
+Remboursée sur ordonnance.
+- Gratuite pour les mineures  
+Accessible en pharmacie, collège/lycée/université, [planning familial](https://ivg.gouv.fr/les-centres-de-planification-ou-d-education-familiale.html) (CPEF, accès aussi aux **majeures sans couverture sociale**).
 
 ### Ulipristal acétate (UPA)
 
@@ -110,18 +116,23 @@ Même délivrance que la PCU.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour une contraception en urgence" "show" %}}
 
-*En cours de construction...*
-
 {{< mermaid title="Conduite à tenir pour la contraception d'urgence. Dr JB FRON d'après HAS 2019" >}}
 graph TB
-  rapport["Rapport non protégé<br>sans contraception"] --> 3jours("&lt; 3 jours")
+  rapport[Rapport non protégé<br>sans contraception] -- + tôt possible --> 3jours(&lt; 3 jours)
   style rapport stroke:#006ef4, stroke-width:1px
-  rapport --> 5jours("&lt; 5 jours")
-    3jours --> levonorgestrel(Lévonorgestrel 1,5 mg)
-    3jours --> ulipristal(Ulipristal acétate 30 mg)
-    3jours --> diu(DIU)
-    5jours --> ulipristal
-    5jours --> diu
+  rapport -- + tôt possible --> 5jours("&lt; 5 jours")
+    3jours --> LN(<b>Lévonorgestrel 1,5 mg</b>)
+      LN --> preservatif("Préservatif jusqu'au<br>1<sup>er</sup> jours des règles")
+        preservatif --> contraception("- Contraception efficace<br>le 1<sup>er</sup> jours des règles<br>&#177; PCU d'avance")
+          contraception -. Retard &gt; 5j .-> retard(Test de grossesse)
+    3jours --> UPA(Ulipristal acétate 30 mg)
+      UPA --> preservatif
+    3jours --> DIU(<b>DIU cuivre</b><hr>Obèse +++)
+     DIU --> autoprlt(Autoprélèvement vaginal<br>en urgence Gono + Chlam)
+       autoprlt --> controleDIU(Contrôle à M3)
+         controleDIU --> controle(Contrôle annuel)
+    5jours --> UPA
+    5jours --> DIU
 {{< /mermaid >}}
 
 > **NB.** Le risque infectieux n'est pas traité ici.

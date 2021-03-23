@@ -50,7 +50,7 @@ Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'
 
 Rechercher des signes d'embolie pulmonaire: dyspnée, malaise, tachycardie et douleur thoracique.
 
-En l'absence de singes d'EP, il est recommandé d'utiliser un des scores ci-dessous plutôt qu'une appréciation clinique pour l'évaluation d'une suspicion de thrombose veineuse profonde.  
+En l'absence de signes d'EP, il est recommandé d'utiliser un des scores ci-dessous plutôt qu'une appréciation clinique pour l'évaluation d'une suspicion de thrombose veineuse profonde.  
 Utiliser le score LEFt chez la femme enceinte.
 
 {{< scores/wells >}}
@@ -74,7 +74,7 @@ Recours d'emblée à l'écho-doppler veineux si non accessible.
 - D-dimères anormaux  
 Réaliser l'écho-doppler veineux.
 
-{{%info%}}Après 50 ans, la borne des D-dimères est à 10% de l'âge {{%class%}}(700 à 70 ans){{%/class%}}.{{%/info%}}
+{{%info%}}Après 50 ans, la borne des D-dimères est à 10x l'âge {{%class%}}(700 à 70 ans){{%/class%}}.{{%/info%}}
 
 ### Écho-doppler veineux
 
@@ -115,6 +115,8 @@ En l'absence de ces signes, la prise en charge de la TVP est préconisée en amb
 
 {{% /collapse %}}
 {{%collapse "Score hémorragique RIETE" %}}
+
+Un score hémorragique élevé impose une hospitalisation.
 
 {{< scores/riete >}}
 

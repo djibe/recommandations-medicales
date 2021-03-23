@@ -648,27 +648,6 @@ div.mermaidTooltip {
   width: Min(100%, 768px);
 }
 
-// TODO: remove Material Icons
-
-.custom-radio {
-	.custom-control-input {
-	  opacity: 0.8;
-	}
-	.custom-control-label::after {
- 	  opacity: 0;
-	}
-}
-
-.custom-checkbox {
-	.custom-control-input {
-	  opacity: 0.8;
-	}
-	.custom-control-label::after {
- 	  opacity: 0;
-	}
-}
-
-
 input[type="search"]::-webkit-search-decoration,
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-results-button,

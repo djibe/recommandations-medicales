@@ -2,7 +2,7 @@
 
 **Projet Open Source, gratuit et indépendant visant à partager l'État de l'Art de la pratique en médecine de premier recours.**
 
-*Recommandations Médicales* cible tous les médecins généralistes et les internes qui souhaitent s'informer, se former et accéder en 2 clics à tout ce dont ils ont besoin en consultation.
+*Recommandations Médicales* cible tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder en 2 clics à tout ce dont ils ont besoin en consultation.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/327af24a-1868-47c1-959c-7c0afe3b1891/deploy-status)](https://app.netlify.com/sites/recommandations-medicales/deploys)
 
@@ -10,7 +10,7 @@
 
 - Open Source
 - Participatif  
-Tout le monde peut éditer le projet ou commenter le travail.
+Tout le monde peut commenter le travail et demander plus d'informations.
 - Indépendant  
 Aucun financement de l'industrie. Jamais.
 - Gratuit
@@ -31,7 +31,7 @@ L'objectif est de proposer les connaissances validées les plus récentes.
 - \+ Mobile  
 Le site s'adapte à tous les écrans.
 - \+ Rapide  
-Très léger (bientôt encore +)
+Très léger
 - \+ Transparent  
 Toute modification est historisée pour plus de transparence.
 - \+ Ouvert  
@@ -51,6 +51,7 @@ Pour se tenir informé sans naviguer de site en site.
 ### Ce qui manque pour le moment
 
 - **Vous !**
+- Plus de contenu
 - La certification des Sociétés savantes (en cours avec GEFH, AFEF, SFRMS)
 - La certification des autorités (HAS...)
 - L'agrégation des actualités médicales

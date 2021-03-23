@@ -321,11 +321,6 @@ Reste du traitement à venir.
 - Symptômes diurnes à type de troubles attentionnels, hyperactivité ou instabilité motrice.
 
 {{% /collapse %}}
-{{%collapse "Information du patient" %}}
-
-Chapitre à venir.
-
-{{% /collapse %}}
 {{%collapse "Source" %}}
 
 - [SFRMS, Leclair-Visonneau L et al. Comment poser le diagnostic d'un syndrome des jambes sans repos ? Médecine du Sommeil,

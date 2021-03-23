@@ -139,8 +139,8 @@ Systématique lorsque 2 sérologies sont positives (ou 1 TROD+ + 1 sérologie+).
 
 ### Bilan si diagnostic positif
 
-- Sérologie VIH et Ag Hbs, anticorps anti-HBs, anticorps anti-HBc  
-Normalement déjà recherchés au dépistage.
+- Sérologie VIH  
+- Ag Hbs, anticorps anti-HBs, anticorps anti-HBc
 - NFS-plaquettes
 - INR
 - Créatininémie et clairance CDK-EPI
