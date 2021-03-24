@@ -1,5 +1,8 @@
 <!-- Generate image var -->
-{{ $image := $.File.BaseFileName }}
+{{ $image := "" }}
+{{ with .File }}
+  {{ $image := .BaseFileName }}
+{{ end }}
 {{ $imageUrl := "" }}
 {{ with .Params.image }}
   {{ if $.Params.imageWEBP }}

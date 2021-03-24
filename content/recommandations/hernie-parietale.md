@@ -4,11 +4,11 @@ prefix = "la "
 shortname = "M"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-03-15T17:43:00+02:00
-publishdate = 2021-03-15
-lastmod = 2021-03-15
-specialites = ["dermatologie"]
-annees = "2020"
+date = 2021-03-24T19:43:00+02:00
+publishdate = 2021-03-25
+lastmod = 2021-03-25
+specialites = ["hepato-gastro-enterologie"]
+annees = "2012"
 sources = ["HAS", "Collèges"]
 tags = []
 anglais = []
@@ -83,5 +83,3 @@ Pas d'examens complémentaires.
 - https://www.medg.fr/hernie-inguinale/
 
 {{% /collapse %}}
-
-≤≥±®œŒ³

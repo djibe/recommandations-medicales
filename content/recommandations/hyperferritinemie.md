@@ -1,8 +1,8 @@
 +++
-title = "Conduite à tenir devant une hyperferritinémie"
+title = "Hyperferritinémie"
 prefix = "l'"
 shortname = "Hyperferritinémie"
-synonyms = []
+synonyms = ["Conduite à tenir devant une hyperferritinémie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-27T20:02:41+02:00
 publishdate = 2020-08-27
