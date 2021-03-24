@@ -1,7 +1,7 @@
 +++
-title = "Hyperferritinémie"
+title = "Conduite à tenir devant une hyperferritinémie"
 prefix = "l'"
-shortname = "Hferritinémie"
+shortname = "Hyperferritinémie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-27T20:02:41+02:00
@@ -17,7 +17,7 @@ draft = false
 image = false
 imageSrc = ""
 flowchart = true
-todo = "échoabdo?, collège, Buffet C. EMC-Hépatologie ; 2019 ; 14(1) :1-5 [article 7-007-B-23] / Brissot P. Transfus Clin Biol 2019 ; 26(1) :80-88."
+todo = "échoabdo?, collège, Buffet C. EMC-Hépatologie ; 2019 ; 14(1) :1-5 [article 7-007-B-23] / Brissot P. Transfus Clin Biol 2019 ; 26(1) :80-88. Gérer seul sd métabo"
 +++
 
 {{%article-summary%}}
@@ -59,43 +59,43 @@ Hyperferritinémie (HF)
 
 ### Causes fréquentes d'hyperferritinémie
 
-- Syndrome métabolique. 1<sup>re</sup> cause  
-HF souvent < 1000, peut précéder le syndrome | CST normal | surcharge en fer absente/modérée.  
+- **Syndrome métabolique. 1<sup>re</sup> cause**  
+HF souvent < 1000, peut précéder le syndrome, CST normal, surcharge en fer absente/modérée.  
 On parle d'hépatosidérose métabolique même si le syndrome métabolique est incomplet.
-- Syndrome inflammatoire aigu ou chronique  
-HF < 500 | CST normal | pas surcharge en fer | CRP élevée
-- Hépatite aiguë ou chronique  
-CST > 45% | pas de surcharge en fer | transaminases élevées
-- Alcoolisme  
-**HF fluctuante** | CST normal/peu élevé | surcharge en fer absente/modérée
-- Transfusions multiples
+- **Syndrome inflammatoire** (aigu ou chronique)  
+HF < 500, CST normal, pas surcharge en fer, CRP élevée
+- **Hépatite** (aiguë ou chronique)  
+CST > 45%, pas de surcharge en fer, transaminases élevées
+- **Alcoolisme**  
+**HF fluctuante**, CST normal/peu élevé, surcharge en fer absente/modérée
+- **Transfusions multiples**
   - Myélodysplasie, thalassémie
-  - CST élevé | surcharge en fer globale | anémie chronique
-- Génétique: hémochromatose liée à HFE (type 1)  
-CST très élevé (60-100%) | surcharge en fer globale | homozygotie C282Y
+  - CST élevé, surcharge en fer globale, anémie chronique
+- **Génétique - hémochromatose liée à HFE** (type 1)  
+CST très élevé (60-100%), surcharge en fer globale, homozygotie C282Y
 
 ### Causes rares d'hyperferritinémie
 
 - Acquises avec surcharge en fer
   - Dysérythropoïèse (myélodysplasie, thalassémie) sans transfusions  
-  CST élevée | surcharge en fer globale
+  CST élevée, surcharge en fer globale
   - Supplémentation parentérale excessive de fer
-  CST élevée | surcharge en fer globale
+  CST élevée, surcharge en fer globale
 - Acquise sans surcharge en fer
   - Syndrome d'activation macrophagique (SAM)  
-  HF > 1000 | CST abaissé | pas de surcharge | CRP élevée | Contexte viral/hémato-immuno
+  HF > 1000, CST abaissé, pas de surcharge, CRP élevée, Contexte viral/hémato-immuno
 - Génétique avec surcharge en fer
   - Maladie de la ferroportine  
-  HF très élevée et familiale | CST normal | surcharge en fer globale
+  HF très élevée et familiale, CST normal, surcharge en fer globale
   - Hémochromatose non HFE  
-  CST élevé | surcharge en fer globale
+  CST élevé, surcharge en fer globale
   - Acéruloplasminémie héréditaire  
-  CST bas | surcharge en fer globale | céruloplasminémie effondrée
+  CST bas, surcharge en fer globale, céruloplasminémie effondrée
 - Génétique sans surcharge en fer
   - Syndrome ferritine-cataracte  
-  HF familiale | CST normal | pas de surcharge | mutations du gène de la L-ferritine
+  HF familiale, CST normal, pas de surcharge, mutations du gène de la L-ferritine
   - Maladie de Gaucher  
-  CST normal | pas de surcharge | splénomégalie
+  CST normal, pas de surcharge, splénomégalie
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -159,7 +159,7 @@ Réservée au gastro-entérologue.
 Uniquement par le gastro-entérologue:
 
 - Surcharge en fer sans anémie: saignées
-- Surcharge en fer sans anémie: chélation orale
+- Surcharge en fer avec anémie: chélation orale
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une hyperferritinémie" "show" %}}
@@ -187,11 +187,6 @@ graph TB
 > **HF:** hyperferritinémie
 
 {{% /collapse %}}
-{{%collapse "FMC gratuite" %}}
-
-[Bardou Jacquet E. Hyperferritinémie non hémochromatosique : diagnostic et prise en charge. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/hyperferritinemie-non-hemochromatosique-diagnostic-et-prise-en-charge/)
-
-{{% /collapse%}}
 {{%collapse "Sources" %}}
 
 - [Centre de référence des hémochromatoses.](https://centre-reference-fer-rennes.org/)
@@ -199,5 +194,12 @@ graph TB
 - [Brissot P., SNFGE et AFEF. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. Février 2019.](https://www.snfge.org/sites/default/files/recommandations/brissot_2019.pdf)
 - [Sogni P. Prise en charge de l'hyperferritinémie. POST'U 2017 Paris](https://www.fmcgastro.org/textes-postus/postu-2017/prise-en-charge-de-lhyperferritinemie/)
 - [Brissot P. Diagnostic d'une hyperferritinémie.](https://www.hemochromatose.org/wp-content/uploads/2012/12/hyperferritinemie.pdf)
+
+### À lire
+
+- Brissot 2018
+- CDU-HGE https://www.snfge.org/sites/default/files/SNFGE/Rubrique_Professionnels/abrege_hepato_gastro/abrege_d_hge_2012-chap23_item242.pdf
+- SFEndocrino http://www.sfendocrino.org/article/816/poly2016-item-215-ndash-ue-7-pathologie-du-fer-chez-l-adulte-et-l-enfant-hemochromatose
+- https://www.sciencedirect.com/science/article/pii/S0248866314011114
 
 {{% /collapse %}}

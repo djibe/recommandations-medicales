@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "mieux est Wells ou Wells modifié?, proba forte et doppler neg?, éducation AVK, reperfusion, risque récidive, differentiel, interrogatoire"
+todo = "mieux est Wells ou Wells modifié?, proba forte et doppler neg?, éducation AVK, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/"
 +++
 
 Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'état.

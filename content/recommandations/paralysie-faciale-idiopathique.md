@@ -4,9 +4,10 @@ prefix = "la "
 shortname = "PFI"
 synonyms = ["Paralysie faciale a frigore"]
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Pr S. TRINGALI et Dr M. FIEUX (SFORL)"
 date = 2021-03-07T17:12:00+02:00
 publishdate = 2021-03-08
-lastmod = 2021-03-22
+lastmod = 2021-03-24
 specialites = ["ORL"]
 annees = "2020"
 sources = ["SFORL"]
@@ -17,7 +18,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Photo de l'Internet Archive Book Images sur Foter.com"
-todo = "soins oculaires, attente accord Pr Stéphane Tringali et Dr Maxime Fieux"
+todo = "soins oculaires"
 +++
 
 Ces recommandations concernent l'adulte.
@@ -103,8 +104,8 @@ Remettre en cause le diagnostic en présence de ces signes.
 L'examen du **côté paralysé** retrouve:
 
 - Atteinte identique des territoires supérieur et inférieur
-- Sans dissociation automatico-volontaire  
-{{%class%}}Paralysie au mouvement volontaire ET automatique (mimiques spontanées, rire).{{%/class%}}
+- Absence de dissociation automatico-volontaire  
+{{%class%}}Paralysie visible aux mouvements volontaires ET aux mouvements automatiques (mimiques spontanées, rire).{{%/class%}}
 - Atteintes du territoire facial supérieur:  
   - Diminution/abolition des rides du front
   - Lagophtalmie  
@@ -114,11 +115,12 @@ L'examen du **côté paralysé** retrouve:
   - Occlusion forcée incomplète avec globe oculaire révulsé (signe de Charles Bell)
   - Abolition du réflexe cornéen
   - Abolition du réflexe naso-palpébral et du clignement à la menace
-  - Effacement du sillon naso-génien
 - Atteintes du territoire facial inférieur:
+  - Effacement du sillon naso-génien
   - Bouche déviée du côté sain
   - Chute de la commissure labiale
   - Impossibilité de siffler et gonfler les joues
+- Autres atteintes:
   - Agueusie des 2/3 antérieurs de l’hémilangue
   - Hypoesthésie de la zone de Ramsay Hunt (conque de l'oreille, CAE)
   - Hyperacousie douloureuse (abolition du réflex stapédien)
@@ -151,14 +153,15 @@ Les diagnostics différentiels sont dominés par les **causes tumorales, traumat
 
 - Tumorale surtout  
   - Sur le trajet du nerf facial: tronc cérébral, angle ponto-cérébelleux, conduit auditif interne, rocher.  
-  Tumeur bénigne: neurinome du n. facial, méningiome voire neurinome du n. acoustique, cholestéatome, paragangliome tympano-jugulaire.  
+  Tumeur bénigne: neurinome du nerf facial, méningiome voire neurinome de l'acoustique, cholestéatome, paragangliome tympano-jugulaire.  
   Tumeur maligne: métastase, hémopathie.
   - Tumeur maligne parotidienne
 - Traumatique  
 Fracture du rocher ou péri-parotidienne.
 - Cause infectieuse
   - [Zona]({{< relref "zona.md" >}})
-  - Maladie de Lyme
+  - Maladie de Lyme  
+  {{%class%}}*Borrelia burgdorferi*.{{%/class%}}
   - [Tuberculose]({{< relref "tuberculose.md" >}})
   - [VIH]({{< relref "vih-sida.md" >}})
 - [Diabète]({{< relref "diabete-type-2.md" >}})

@@ -38,19 +38,22 @@ Accident vasculaire cérébral (AVC)
 et l'accident vasculaire hémorragique par rupture artérielle (HTA, anévrisme, MAV, tumeur).
 
 Accident ischémique transitoire (AIT)
-: **Urgence vitale** par déficit neurologique ou rétinien transitoire (typiquement < 1h) sans anomalie à l'imagerie cérébrale.
-: Risque d'AVC de 90% à 3 mois, dont la moitié dans les 48 heures suivantes. La prise en charge est identique à celle de l'AVC.
+: **Urgence vitale** par déficit neurologique ou rétinien transitoire (typiquement < 1h) sans anomalie à l'imagerie cérébrale.  
+**La prise en charge est identique à celle de l'AVC**.
+: Risque d'AVC de 90% à 3 mois, dont la moitié dans les 48 heures suivantes.
 
 ### Abréviations
 
 **AIC:** accident ischémique cérébral  
+**AIT:** accident ischémique transitoire  
 **AVC:** accident vasculaire cérébral  
 **FRCV:** facteurs de risque cardiovasculaires  
+**HIP:** hémorragie intra-parenchymateuse  
 **HTA:** hypertension artérielle  
 **MAPA:** mesure ambulatoire de la pression artérielle sur 24 heures ou Holter tensionnel  
 **MAV:** malformation artério-veineuse  
 **PAS:** Pression artérielle systolique  
-**TZD:** diurétiques thiazidiques
+**TZD:** diurétiques thiazidiques  
 **UNV:** Unité neuro-vasculaire
 
 {{% /collapse %}}
@@ -235,8 +238,9 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [HAS. Prévention vasculaire après un infarctus cérébral ou un accident ischémique transitoire. Juin 2014 MAJ Juin 2018.](https://www.has-sante.fr/upload/docs/application/pdf/2014-09/avc_synthese_des_recommandations.pdf)
+- [HAS. Prévention vasculaire après un infarctus cérébral ou un accident ischémique transitoire. 13/06/2018.](https://www.has-sante.fr/jcms/c_1252051/fr/prevention-vasculaire-apres-un-infarctus-cerebral-ou-un-accident-ischemique-transitoire)
 - [HAS. Accident vasculaire cérébral : méthodes de rééducation de la fonction motrice chez l’adulte. Juin 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2012-11/11irp01_synt_avc_methodes_de_reeducation.pdf)
-- [HAS. Accident vasculaire cérébral :  prise en charge précoce. Mai 2009](https://www.has-sante.fr/upload/docs/application/pdf/2009-07/avc_prise_en_charge_precoce_-_recommandations.pdf)
+- [HAS. Accident vasculaire cérébral :  prise en charge précoce. Mai 2009.](https://www.has-sante.fr/upload/docs/application/pdf/2009-07/avc_prise_en_charge_precoce_-_recommandations.pdf)
+- [HAS. Prise en charge diagnostique et traitement immédiat de l’accident ischémique transitoire de l’adulte. 03/05/2004.](https://www.has-sante.fr/jcms/c_272368/fr/prise-en-charge-diagnostique-et-traitement-immediat-de-laccident-ischemique-transitoire-de-ladulte)
 
 {{% /collapse %}}
