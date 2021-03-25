@@ -24,7 +24,7 @@ title = "Recommandations Médicales"
 [params]
   author = "Jean-Baptiste FRON"
   dateFormat = "02/01/2006"
-  description = "Site communautaire des recommandations en premier recours en médecine générale"
+  description = "Les recommandations de référence pour la médecine générale"
   github = "https://github.com/djibe/recommandations-medicales"
   githubUser = "djibe"
   ogimage = "/images/icons/banner-og.png"

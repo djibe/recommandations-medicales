@@ -1,10 +1,7 @@
 <!-- Generate image var -->
-{{ $image := "" }}
-{{ with .File }}
-  {{ $image := .BaseFileName }}
-{{ end }}
 {{ $imageUrl := "" }}
 {{ with .Params.image }}
+  {{ $image := $.File.BaseFileName }}
   {{ if $.Params.imageWEBP }}
     {{ $imageUrl = printf "/images/photos/%s.webp" $image }}
   {{ else }}
@@ -154,9 +151,9 @@
       "@type": "Person",
       "name": "{{ .Site.Params.author }}"
     },
-    "url": "{{ .Site.BaseURL }}",
+    "url": {{ .Site.BaseURL }},
     "sameAs": [
-      "{{ .Site.Params.github }}"
+      {{ .Site.Params.github }}
     ]
   }
 </script>
