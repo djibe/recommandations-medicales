@@ -38,9 +38,9 @@ Les sinusites maxillaires aiguës représentent la grande majorité. Elles survi
 
 - Ethmoïdite  
 Limitée aux jeunes enfants.
-- Sinusite sphénoïdale ou maxillaire
+- Sinusite sphénoïdale ou maxillaire  
 À partir de 3 ans.
-- Sinusite frontale
+- Sinusite frontale  
 À partir de 10 ans.
 
 {{% /collapse %}}
@@ -217,7 +217,6 @@ graph TB
     maxillaire -.-> atb(Antibiothérapie selon l'âge)
   sinusite --> frontale(Sinusite frontale) --> atb
   sinusite --> ethm(Sinusite ethmoïdale<br>ou sphénoïdale) --> atb
-
 {{< /mermaid >}}
 
 {{% /collapse %}}

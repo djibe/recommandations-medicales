@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr S. TRINGALI et Dr M. FIEUX (SFORL)"
 date = 2021-03-07T17:12:00+02:00
 publishdate = 2021-03-08
-lastmod = 2021-03-24
+lastmod = 2021-03-25
 specialites = ["ORL"]
 annees = "2020"
 sources = ["SFORL"]
@@ -52,7 +52,8 @@ Les récidives sont exceptionnelles (6%).
 {{%collapse "Épidémiologie" %}}
 
 - 70% de guérison complète à 6 mois  
-Corrélée à la gravité initiale: 61% en PF totale, 94% en atteinte partielle.
+Corrélée à la gravité initiale.  
+Taux de récupération de 61% en PFP totale initiale et de 94% pour une PFP partielle initiale.
 - Maladie de Lyme  
 6 à 20% des PFP selon les régions.
 - [Diabète]({{< relref "diabete-type-2.md" >}})  
