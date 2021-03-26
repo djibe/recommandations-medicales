@@ -632,10 +632,22 @@ div.mermaidTooltip {
   width: 64px;
 }
 
-/* Keep input accessibility */
+/* Keep input accessibility, TODO: update in Material */
 .d-input-none {
   position: absolute;
   left: -9999px;
+}
+
+legend {
+  font-size: 1rem;
+  // font-weight: 500;
+  margin-bottom: .5rem;
+}
+
+fieldset {
+  border: 0;
+  margin-bottom: 1.5rem;
+  padding: 0;
 }
 
 // Utilities

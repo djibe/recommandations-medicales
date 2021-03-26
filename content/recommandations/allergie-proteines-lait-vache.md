@@ -11,12 +11,12 @@ specialites = ["pediatrie"]
 annees = "2017"
 sources = []
 tags = ["urticaire"]
-anglais = ["Allergy to cow's milk protein"]
+anglais = ["Cow's milk protein allergy (CMA)"]
 sctid = "782555009"
 draft = false
 image = false
 imageSrc = ""
-todo = "TODO: Reco PAP, algo, https://pap-pediatrie.fr/hepato-gastro/allergie-aux-proteines-du-lait-de-vache, https://www.chu-toulouse.fr/IMG/pdf/quel_lait_prescrire_dans_l_aplv_a_benhamou_opt.pdf"
+todo = "algo, https://www.sciencedirect.com/science/article/abs/pii/S1877032018304500, https://pap-pediatrie.fr/hepato-gastro/allergie-aux-proteines-du-lait-de-vache, https://pap-pediatrie.fr/allergo-pneumo/reintroduction-des-proteines-de-lait-de-vache, https://www.chu-toulouse.fr/IMG/pdf/quel_lait_prescrire_dans_l_aplv_a_benhamou_opt.pdf"
 +++
 
 {{%article-summary%}}

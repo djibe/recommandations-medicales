@@ -100,28 +100,28 @@ Des rémissions spontanées sont possibles.
 
 5 éléments diagnostiques majeurs:
 
-- 1\. **Décours temporel et tonalité de la douleur**
-  - Douleur unilatérale
-  - strictement trigéminale (branche unique le + souvent, V2+++)
-  - paroxystique de 3 à 20 secondes
-  - avec période réfractaire brève
-  - de début et fin brutales
-  - insupportable
-  - diurne
-  - neuropathique  
-  Décharge électrique ou coup de poignard voire broiement, arrachement.
-  - Salves de quelques fois par jour à quasi continuelles  
-  En crise, figement avec une attitude douloureuse et grimaçante.  
-  Cette phase peut être suivie d’un phase motrice de la face, puis vasomotrice (larmoiement, injection, hypersécrétions muqueuses).
-- 2\. **Topographie de la douleur**  
+1. **Décours temporel et tonalité de la douleur**
+    - Douleur unilatérale
+    - strictement trigéminale (branche unique le + souvent, V2+++)
+    - paroxystique de 3 à 20 secondes
+    - avec période réfractaire brève
+    - de début et fin brutales
+    - insupportable
+    - diurne
+    - neuropathique  
+    Décharge électrique ou coup de poignard voire broiement, arrachement.
+    - Salves de quelques fois par jour à quasi continuelles  
+    En crise, figement avec une attitude douloureuse et grimaçante.  
+    Cette phase peut être suivie d’un phase motrice de la face, puis vasomotrice (larmoiement, injection, hypersécrétions muqueuses).
+2. **Topographie de la douleur**  
 Unilatérale (prédominance droite) et localisée sur le métamère du trijumeau.  
 Initialement 1 branche (maxillaire V2 surtout) mais extension possible à 2 (V2+V3 surtout).
-- 3\. **Circonstances de déclenchement de la douleur**
-  - Déclenchement par stimulation du territoire concerné (**zone gâchette**) avec une latence avec extension progressive de la douleur. Déclenchement possible par le froid, vent, rire, mastication...
-  - Comportements d'évitement: arrêt de rasage, maquillage, brossage des dents.
-  - À l'inverse une pression très forte sur la zone gâchette peut éviter les accès.
-- 4\. **Intervalle libre entre les crises douloureuses**
-- 5\. **Aucun déficit neurologique durant l’intervalle libre**
+3. **Circonstances de déclenchement de la douleur**
+    - Déclenchement par stimulation du territoire concerné (**zone gâchette**) avec une latence avec extension progressive de la douleur. Déclenchement possible par le froid, vent, rire, mastication...
+    - Comportements d'évitement: arrêt de rasage, maquillage, brossage des dents.
+    - À l'inverse une pression très forte sur la zone gâchette peut éviter les accès.
+4. **Intervalle libre entre les crises douloureuses**
+5. **Aucun déficit neurologique durant l’intervalle libre**
 
 Et 1 critère d’ordre thérapeutique: la **très bonne efficacité (au moins initiale) de la carbamazépine**.
 

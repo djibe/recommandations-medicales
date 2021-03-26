@@ -6,32 +6,39 @@ synonyms = ["Maladie de Willis-Ekbom"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-02T08:52:00+02:00
 publishdate = 2021-03-10
-lastmod = 2021-03-10
+lastmod = 2021-03-26
 specialites = ["medecine du sommeil"]
 annees = "2019"
 sources = ["SFRMS"]
-tags = ["ferritine"]
+tags = ["fatigue", "ferritine"]
 anglais = ["Restless legs syndrome"]
 sctid = "32914008"
 draft = false
+flowchart = true
 image = true
 imagePNG = true
-imageSrc = "Comparaison entre le sommeil d'une personne atteinte du syndrome des jambes sans repos (en rouge) et celui d'une personne en bonne santé (en bleu). Markus Muellerderivative, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "algo, IRLS, painful legs and moving toes, orga perf quand fer po non toléré"
+imageSrc = "Comparaison entre le sommeil d'une personne atteinte du syndrome des jambes sans repos (en rouge) et celui d'une personne en bonne santé (en bleu). Markus Mueller derivative, CC BY-SA 3.0, via Wikimedia Commons"
+todo = "algo, IRLS, info du patient, painful legs and moving toes"
 +++
 
 {{%article-summary%}}
 
 - 5 critères diagnostiques, examen neurologique +++
-- Étude de tous les diagnostics différentiels
 - Dissociation temps de sommeil-somnolence
+- Étude de tous les diagnostics différentiels
+- Retentissement: {{< modal-btn score-irls >}}IRLS{{< /modal-btn >}}, qualité de vie (sommeil, vie sociale, humeur)
+- Ferritinémie cible > 75 ng/mL
+- Conseils d'hygiène de vie
+- Traitement par palier 2 à la demande en SJSR léger
+- Avis du spécialiste pour les formes modérées à très sévères ou doute diagnostique
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Syndrome des jambes sans repos (SJSR)
 : Maladie chronique neurologique sensorimotrice entraînant un besoin impérieux de bouger les jambes (voire bras, hanche) selon l'occupation et le moment de la journée.  
-Il atteint préférentiellement les femmes et altère la qualité de vie.
+Il atteint préférentiellement les femmes et altère la qualité de vie.  
+Le traitement est symptomatique et vise à réduire la plainte sans éradiquer les symptômes (épargne thérapeutique).
 : L'origine de la maladie est mal compris mais comporte une carence intra-cérébrale en **fer** (insuffisance de transport par les barrière hémato-encéphalique et neuronal) et des troubles du système **dopaminergique**.
 
 Forme chronique-persistante
@@ -58,9 +65,11 @@ Tremblement orthostatique primaire
 ### Abréviations
 
 **CST:** coefficient de saturation de la transferrine  
+**HDJ:** hôpital de jour  
 **IRLS:** {{%lang%}}IRLSSSG rating scale{{%/lang%}}  
 **IRLSSG:** {{%lang%}}International Restless Legs Syndrome Study Group{{%/lang%}}  
 **MPM:** mouvements périodiques des membres  
+**PSG:** polysomnographie  
 **SAS:** syndrome d'apnées du sommeil  
 **SJSR:** syndrome des jambes sans repos  
 **TDAH:** trouble du déficit de l'attention et hyperactivité
@@ -87,7 +96,7 @@ Symptômes hebdomadaires 2,5% et quotidiens 1,9%.
 - Carence martiale  
 {{%class%}}Prévalence de 25 à 35% si anémie.{{%/class%}}
 - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})  
-Aggravation par inhibiteurs calciques, PTH basse, CST bas, diabète type 2.  
+Aggravation par inhibiteurs calciques, PTH basse, CST bas, diabète de type 2.  
 {{%class%}}Prévalence de 15 à 68%.{{%/class%}}
 - Pathologie cardiovasculaire (moindre)
 - Migraine  
@@ -108,7 +117,7 @@ Rythme veille-sommeil irrégulier, privation chronique de sommeil.
 - Consommation excessive de psychostimulants  
 Alcool, café, thé.
 - Traitements aggravants  
-Antidépresseurs (tous), neuroleptiques, lithium, anti-histaminiques, oxybate de sodium.
+Antidépresseurs (toute classe), neuroleptiques, lithium, anti-histaminiques, oxybate de sodium.
 
 {{% /collapse %}}
 {{%collapse "Complications" %}}
@@ -122,7 +131,7 @@ Antidépresseurs (tous), neuroleptiques, lithium, anti-histaminiques, oxybate de
 - Enfant: troubles du comportement et irritabilité
 
 {{% /collapse %}}
-{{%collapse "Critères diagnostiques du syndrome des jambes sans repos" %}}
+{{%collapse "Critères diagnostiques" %}}
 
 > "Il est souhaitable que ce diagnostic soit posé par un neurologue ou un médecin spécialiste du sommeil." *SFRMS 2019*
 
@@ -130,11 +139,11 @@ Antidépresseurs (tous), neuroleptiques, lithium, anti-histaminiques, oxybate de
 
 1. Besoin impérieux de bouger les jambes  
 Sensations inconfortables, désagréables ou douloureuses des jambes.
-1. Apparition ou aggravation au repos/inactivité  
-1. Amélioration (partielle ou complète) au mouvement (étirement, marche)  
+2. Apparition ou aggravation au repos/inactivité  
+3. Amélioration (partielle ou complète) au mouvement (étirement, marche)  
 Au moins aussi longtemps que dure cette activité.
-1. Apparition ou aggravation le soir ou la nuit
-1. Exclusion des diagnostics différentiels
+4. Apparition ou aggravation le soir ou la nuit
+5. Exclusion des diagnostics différentiels
 
 {{%class%}}Sensibilité 86% et spécificité > 90%.{{%/class%}}
 
@@ -229,7 +238,10 @@ Possibles: sensibilité anormale/augmentée à la piqûre mousse et vibration, h
 
 ### Échelle IRLS  
 
-[Auto-questionnaire](http://www.antalvite.fr/pdf/IRLSS.pdf) pour le suivi des symptômes et de l'efficacité thérapeutique.
+{{< modal-btn score-irls >}}Auto-questionnaire{{< /modal-btn >}} essentiel pour le suivi des symptômes et de l'efficacité thérapeutique.  
+Un traitement spécifique est indiqué d'emblée pour les formes modérée à très sévères (score IRLS ≥ 11).
+
+*IRLS* = {{%lang%}}IRLSSSG rating scale{{%/lang%}}
 
 {{< table title="Sévérité du syndrome des jambes sans repos selon l'échelle IRLS" >}}
 | Score | Sévérité |
@@ -280,6 +292,13 @@ Agenda des symptômes diurne et nocturne sur 14 jours.
   - TDAH
 
 {{% /collapse %}}
+{{%collapse "Syndrome des jambes sans repos en pédiatrie" %}}
+
+- Très fréquent en TDAH
+- Antécédent parental dans 80% des cas
+- Symptômes diurnes à type de troubles attentionnels, hyperactivité ou instabilité motrice
+
+{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 ### Bilan biologique
@@ -294,7 +313,7 @@ Agenda des symptômes diurne et nocturne sur 14 jours.
 
 ### Polysomnographie
 
-La PSG a des indications limitées (en l'absence de traitement):
+La PSG a des indications limitées:
 
 - Doute diagnostique
 - Doute sur la nécessité de traiter
@@ -302,28 +321,121 @@ La PSG a des indications limitées (en l'absence de traitement):
 - Sommeil très perturbé non expliqué par un SJSR
 - Enfant sans langage et jeune < 30 ans si comorbidités
 - Enfant avant l'introduction d'un traitement spécifique
-- SJSR résistant au traitement bien conduit
+- Patient traité: SJSR résistant au traitement bien conduit
 
 {{% /collapse %}}
 {{%collapse "Traitement du syndrome des jambes sans repos" %}}
 
-- Correction d'une anémie/carence martiale  
-Cible de ferritinémie > 75 ng/mL.  
-Peut entraîner une amélioration voire la guérison.
+1. Correction des facteurs aggravants  
+Arrêter si possible ou substituer les classes suivantes: antidépresseurs (toute classe), neuroleptiques, lithium, anti-histaminiques, oxybate de sodium.
+2. Association de patients  
+[France Ekbom](https://www.france-ekbom.fr/)
+3. Conseils d'hygiène de vie  
+{{%class%}}Voir chapitre dédié plus bas.{{%/class%}}
+4. Correction d'une carence martiale
+{{%class%}}Voir chapitre dédié plus bas.{{%/class%}}
+5. Traitement à la demande  
+Indications: SJSR léger avec ferritinémie > 75 ng/mL
+{{%class%}}Voir chapitre dédié plus bas.{{%/class%}}
+6. Traitement spécifique  
+Réservé au médecin du sommeil.
+Indications: SJS modéré à très sévère ({{< modal-btn score-irls >}}score IRLS{{< /modal-btn >}} ≥ 11) ou impactant la qualité de vie malgré les mesures ci-dessus.
 
-Reste du traitement à venir.
+{{%info%}}
+
+### Conseils d'hygiène de vie
+
+- Horaires veille-sommeils réguliers
+- Se détendre avant l'endormissement
+- Éviter les écrans avant l'endormissement
+- Maintenir 19°C dans la chambre
+- Pas d'activité physique le soir
+- Éviter alcool, tabac et café
+- Avancer l'heure du coucher pour éviter l'endormissement au maximum des symptômes
+- Conseiller une activité intellectuelle minutieuse
+{{%/info%}}
+
+### Correction d'une anémie et d'une carence martiale
+
+Traitement de première intention avec une cible de ferritinémie > 75 ng/mL.
+
+- Supplémentation 3 mois avec contrôle à la fin du traitement
+- Supplémentation IV en HDJ en cas d'échec ou de mauvaise tolérance de la supplémentation orale
+- Recherche étiologique en carence non évidente
+- Peut entraîner une amélioration voire la guérison
+
+#### Supplémentation en fer chez l'enfant
+
+Privilégier une supplémentation orale en surveillant la tolérance digestive du traitement.
+
+Proposition de la SFRMS: [Ferrostrane®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68994621&typedoc=R) 1-3 cuillères à café/j.  
+Voire Fumafer® ou Timoférol®.  
+Si échec: Venofer® IV.
+
+### Traitement à la demande: antalgiques de palier 2
+
+Pour les SJSR avec ferritinémie > 75 ng/mL et persistances de symptômes "légers" ({{< modal-btn score-irls >}}score IRLS{{< /modal-btn >}} ≤ 10).
+
+Prise à la demande ou en période de recrudescence des symptômes.  
+Prendre 1 à 2h avant l'apparition des symptômes.  
+Trouver la posologie minimale efficace à base de:
+
+- Tramadol non associé
+- ou codéine
+
+Adresser au spécialiste en cas de persistance de symptômes altérant la qualité de vie.
+
+Seule la codéine peut être utilisée pendant la grossesse en accord avec l'obstétricien.
+
+### Pour en savoir plus: Traitements spécifiques du SJSR
+
+La prescription de ces traitements est réservée au spécialiste, à visée symptomatique.
+Monothérapie en première intention après correction d'une carence martiale pour les formes sévères à très sévères ({{< modal-btn score-irls >}}IRLS{{< /modal-btn >}} ≥ 21).  
+Suivi au moins annuel.
+
+1. Agonistes dopaminergiques
+    - Ropinirole, pramipexole, rotigotine (Neupro®).
+    - Non remboursés pour le SJSR.
+    - Vérifier systématiquement la survenue d'un syndrome de dysrégulation dopaminergique: **contrôle des impulsions**.
+2. Antiépileptiques, dits ligands α2ẟ-1  
+Gabapentine et prégabaline.
+3. Opiacés  
+Palier 2 ou 3.
 
 {{% /collapse %}}
-{{%collapse "Syndrome des jambes sans repos en pédiatrie" %}}
+{{%collapse "Conduite à tenir devant un syndrome des jambes sans repos" "show" %}}
 
-- Très fréquent en TDAH
-- Antécédent parental dans 80% des cas
-- Symptômes diurnes à type de troubles attentionnels, hyperactivité ou instabilité motrice.
+{{< mermaid title="Conduite à tenir devant une suspicion de syndrome des jambes sans repos. Dr JB FRON d'après SFRMS 2019" >}}
+graph TB
+  suspSJSR[Suspicion de SJSR]
+  style suspSJSR stroke:#006ef4, stroke-width:1px
+    suspSJSR -- Adulte --> criteres("<b>Critères diagnostiques ?</b><hr>- Besoin impérieux de bouger les jambes<br>- Apparition repos<br>- Amélioration mouvement<br>- Aggravation soir/nuit<br>- Exclusion d'autres diagnostics")
+      criteres -- Oui --> SJSR[SJS certain]
+      style SJSR stroke:#006ef4, stroke-width:1px
+        SJSR --> RHD("<b>Mesures systématiques</b><hr>- Information du patient<br>- Correction des facteurs aggravants<br>- Adaptation des habitudes de vie")
+          RHD --> ferritine(Ferritinémie ?)
+            ferritine -- "&le; 75 ng/mL" --> correction(Supplémentation en fer<br>Contrôle à M3)
+              correction --> ferritine
+            ferritine -- "&gt; 75 ng/mL" --> IRLS(Score IRLS et<br>qualité de vie)
+              IRLS --> leger(<b>SJSR léger</b><br>Traitement à la demande<br>Tramadol ou codéine)
+                leger -. Échec .-> avis2
+              IRLS --> avis2(<b>SJSR modéré à très sévère</b><br>Avis du médecin<br>du sommeil)
+      criteres -- Diagnostic différentiel --> differentiel("- Inconfort positionnel<br>- Tics<br>- Iatrogène<br>- Arthrite, blessure<br>- Œdème, insuffisance veineuse<br>- AOMI, acrosyndrome<br>- Sciatique, myalgie, neuropathie<br>- Autres")
+    suspSJSR -- Enfant --> avis1(Avis du médecin<br>du sommeil)
+
+{{< /mermaid >}}
+
+> **SJSR:** syndrome des jambes sans repos
 
 {{% /collapse %}}
-{{%collapse "Source" %}}
+{{%collapse "Sources" %}}
 
-- [SFRMS, Leclair-Visonneau L et al. Comment poser le diagnostic d'un syndrome des jambes sans repos ? Médecine du Sommeil,
-Volume 16, Issue 2, 2019, Pages 97-105.](https://doi.org/10.1016/j.msom.2018.10.002)
+- [SFRMS, Limousin N. et al. Traitement du syndrome des jambes sans repos nouvellement diagnostiqué. Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 106-113.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302449?via%3Dihub)
+- [SFRMS, Leclair-Visonneau L et al. Comment poser le diagnostic d'un syndrome des jambes sans repos ? Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 97-105.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302437?via%3Dihub)
 
 {{% /collapse %}}
+{{% modal title="Échelle internationale de sévérité du syndrome des jambes sans repos (IRLS)" id="score-irls" size="lg"%}}
+
+{{< scores/irls >}}
+
+{{% /modal %}}

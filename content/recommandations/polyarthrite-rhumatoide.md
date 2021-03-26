@@ -300,5 +300,6 @@ Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
 - [EULAR. 2016 update of the EULAR recommandations for the management of early arthritis. 03/31/2017.](https://ard.bmj.com/content/76/6/948)
 - [EULAR. EULAR recommandations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs : 2016 update. 03/17/2017.](https://ard.bmj.com/content/76/6/960)
 - [Société Française de Rhumatologie. Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. Juin 2014.](https://www.sciencedirect.com/science/article/pii/S1169833014001148)
+- [Cofer. Polyarthrite rhumatoïde. Item 192 UE 7.](https://web.archive.org/web/20200923115550/http://www.lecofer.org/item-cours-1-19.php)
 
 {{% /collapse %}}

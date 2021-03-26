@@ -12,11 +12,11 @@ annees = "2019"
 sources = ["MinSante", "Pasteur"]
 tags = ["hepatite", "HSH", "vaccin", "voyage"]
 anglais = ["Viral hepatitis type A"]
-sctid = ""
+sctid = "40468003"
 flowchart = false
 image = false
 imageSrc = ""
-todo = "vaccin combiné"
+todo = "symptômes/fatigue, vaccin combiné"
 
 +++
 

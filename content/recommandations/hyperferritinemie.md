@@ -10,14 +10,14 @@ lastmod = 2021-03-23
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["SNFGE"]
-tags = ["ferritine", "syndrome metabolique"]
+tags = ["fatigue", "ferritine", "syndrome metabolique"]
 anglais = ["Hyperferritinemia"]
 sctid = "390943009"
 draft = false
 image = false
 imageSrc = ""
 flowchart = true
-todo = "échoabdo?, collège, Buffet C. EMC-Hépatologie ; 2019 ; 14(1) :1-5 [article 7-007-B-23] / Brissot P. Transfus Clin Biol 2019 ; 26(1) :80-88. Gérer seul sd métabo"
+todo = "échoabdo?, gérer seul sd métabo, https://www.fmcgastro.org/postu-main/archives/postu-2006-paris/que-faire-devant-une-hyperferritinemie/"
 +++
 
 {{%article-summary%}}
@@ -192,13 +192,13 @@ graph TB
 - [Centre de référence des hémochromatoses.](https://centre-reference-fer-rennes.org/)
 - [Bardou Jacquet E. Hyperferritinémie non hémochromatosique : diagnostic et prise en charge. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/hyperferritinemie-non-hemochromatosique-diagnostic-et-prise-en-charge/)
 - [Brissot P., SNFGE et AFEF. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. Février 2019.](https://www.snfge.org/sites/default/files/recommandations/brissot_2019.pdf)
+- [Brissot P. et al. Pathophysiology and classification of iron overload diseases; update 2018. Transfusion Clinique et Biologique (2018).](https://doi.org/10.1016/j.tracli.2018.08.006)
 - [Sogni P. Prise en charge de l'hyperferritinémie. POST'U 2017 Paris](https://www.fmcgastro.org/textes-postus/postu-2017/prise-en-charge-de-lhyperferritinemie/)
 - [Brissot P. Diagnostic d'une hyperferritinémie.](https://www.hemochromatose.org/wp-content/uploads/2012/12/hyperferritinemie.pdf)
+- [CDU-HGE. Hémochromatose. Item 242.](https://www.snfge.org/sites/default/files/SNFGE/Rubrique_Professionnels/abrege_hepato_gastro/abrege_d_hge_2012-chap23_item242.pdf)
 
 ### À lire
 
-- Brissot 2018
-- CDU-HGE https://www.snfge.org/sites/default/files/SNFGE/Rubrique_Professionnels/abrege_hepato_gastro/abrege_d_hge_2012-chap23_item242.pdf
 - SFEndocrino http://www.sfendocrino.org/article/816/poly2016-item-215-ndash-ue-7-pathologie-du-fer-chez-l-adulte-et-l-enfant-hemochromatose
 - https://www.sciencedirect.com/science/article/pii/S0248866314011114
 
