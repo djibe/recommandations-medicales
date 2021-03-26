@@ -229,11 +229,11 @@ Par le gastro-entérologue et le diététicien spécialisé.
 
 ### Association de patients
 
-[Association Française Des Intolérants Au Gluten (AFDIAG)](//www.afdiag.fr/accueil)
+[Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
 
 ### Aliments à éviter
 
-[SNFGE/CREGG. Alimentation sans gluten](https//www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/alimentation_sans_gluten-snfge-cregg_2017.pdf)
+[SNFGE/CREGG. Alimentation sans gluten.](https://www.snfge.org/sites/default/files/recommandations/alimentation_sans_gluten-snfge-cregg_2017.pdf)
 
 Le gluten est présent dans toutes les variétés de blé, froment, épeautre, orge et seigle sous toutes leurs formes et donc dans les:
 
