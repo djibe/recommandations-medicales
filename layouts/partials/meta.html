@@ -4,6 +4,8 @@
   {{ $image := $.File.BaseFileName }}
   {{ if $.Params.imageWEBP }}
     {{ $imageUrl = printf "/images/photos/%s.webp" $image }}
+  {{ else if $.Params.imagePNG }}
+  {{ $imageUrl = printf "/images/photos/%s.png" $image }}
   {{ else }}
     {{ $imageUrl = printf "/images/photos/%s.jpg" $image }}
   {{ end }}
