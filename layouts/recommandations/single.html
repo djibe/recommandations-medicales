@@ -79,8 +79,7 @@
 
                 <div class="d-flex flex-wrap align-items-center">
                 {{ with .Params.annees }}
-                  {{ $href := print ("annees/") (urlize .) }}
-                  <a class="chip chip-secondary" href="{{ $href }}" data-toggle="tooltip" title="Toutes les recos de {{ . }}" data-placement="bottom">Recommandation {{ . }}</a>
+                  <a class="chip chip-secondary" href="annees/{{ . | urlize }}/" data-toggle="tooltip" title="Toutes les recos de {{ . }}" data-placement="bottom">Recommandation {{ . }}</a>
                 {{ end }}
 
                 {{ if .Lastmod }}
