@@ -6,10 +6,12 @@
   {{ else if eq (.Get "image") "pasteur"}}
     {{ $image = "pasteur.webp" }}
   {{ else }}
-    {{ $image = "favicon.ico" }}
+    {{ $image = .Get "image" }}
   {{ end }}
-  {{ $imageURL = printf "/images/logos/%s" $image }}
+{{ else }}
+  {{ $image = "favicon.ico" }}
 {{ end }}
+{{ $imageURL = printf "/images/logos/%s" $image }}
 
 <div class="card card-body card-primary-action flex-row mb-4" style="width: 250px;">
   <img class="mt-2 mr-4 rounded-circle" src="{{ $imageURL }}" style="width: 48px;height:48px" {{with .Get "subtitle" }}alt="Logo de {{.}}"{{else}}alt=""{{end}} loading="lazy" decoding="async">

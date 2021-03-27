@@ -23,8 +23,9 @@ todo = "TODO: prophylaxie pré-exposition (PrEP), CAT en urgence, https://cns.sa
 
 - Dépister largement
 - Répéter le dépistage chez les populations à risque, conseils de prévention et transmission
-- Dépistages et vaccinations spécifiques
+- Dépistages de comorbidités et vaccinations spécifiques
 - Observance et suivi spécialisé
+- Maladie à déclaration obligatoire
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -334,7 +335,7 @@ AMP identique à la population générale.
 - Si (pré-)cirrhose: échographie hépatique x 2/an
 - Ostéodensitométrie  
 Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
-- Déclaration obligatoire anonyme
+- [Déclaration obligatoire anonyme]({{< relref "maladies-declaration-obligatoire.md" >}})
 - ALD 7
 
 ### VIH et suivi cardiovasculaire

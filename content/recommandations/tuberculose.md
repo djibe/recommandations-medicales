@@ -13,10 +13,17 @@ sources = ["HAS"]
 tags = ["BCG", "tuberculose", "vaccin"]
 anglais = ["Tuberculosis"]
 sctid = "56717001"
-qualite = "moyenne"
 draft = false
+image = false
+imageSrc = ""
 +++
 
+{{%article-summary%}}
+
+- Indications vaccinales ++
+- Maladie à déclaration obligatoire
+
+{{%/article-summary%}}
 {{%collapse "Vaccination" %}}
 
 ### Indications au BCG en 2020
@@ -28,7 +35,7 @@ Pour les enfants à risque élevé de tuberculose :
 - Enfant devant séjourner au moins un mois d’affilée dans l’un de ces pays
 - Enfant ayant un antécédent familial de tuberculose (collatéraux ou ascendants directs)
 - Enfant résidant en Île-de-France, en Guyane ou à Mayotte
-- Enfant dans toute situation jugée par le médecin à risque d’exposition au bacille tuberculeux, notamment enfant vivant dans des conditions de logement défavorables (habitat précaire ou surpeuplé ou socioéconomiques défavorables ou précaires (en particulier parmi les bénéficiaires de la CMU/CSS) ou en contact régulier avec des adultes originaires d’un pays de forte endémie.
+- Enfant dans toute situation jugée par le médecin à risque d’exposition au bacille tuberculeux, notamment enfant vivant dans des conditions de logement défavorables (habitat précaire ou surpeuplé) ou socioéconomiques défavorables (en particulier parmi les bénéficiaires de la CMU/CSS) ou en contact régulier avec des adultes originaires d’un pays de forte endémie.
 
 - Vaccination réalisée à partir de 1 mois, idéalement à 2 mois.
 - Pas d'intradermoréaction préalable avant 6 ans.
@@ -39,9 +46,9 @@ Pour les professionnels de santé : évaluation de l'exposition au cas par cas p
 
 - France. Guyane
 - Afrique
-- Amérique centrale et du Sud (sauf Antigua, Barbuda, Barbade, Bermudes, Bonaire, Cuba et du Costa Rica, Curaçao, Jamaïque, Iles Vierges et Caïmans, Porto Rico)
-- Asie (sauf Japon, Chypre, des Emirats Arabes Unis, d’Israël, de la Jordanie et d’Oman)
-- Europe centrale (sauf Grèce, Hongrie, Slovaquie, Slovénie et République Tchéque)
+- Amérique centrale et du Sud (sauf Antigua, Barbuda, Barbade, Bermudes, Bonaire, Cuba et du Costa Rica, Curaçao, Jamaïque, Îles Vierges et Caïmans, Porto Rico)
+- Asie (sauf Japon, Chypre, des Émirats Arabes Unis, d’Israël, de la Jordanie et d’Oman)
+- Europe centrale (sauf Grèce, Hongrie, Slovaquie, Slovénie et République Tchèque)
 
 {{%/collapse%}}
 {{%collapse "Suivi thérapeutique de la tuberculose" %}}

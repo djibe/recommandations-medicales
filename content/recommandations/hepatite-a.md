@@ -25,6 +25,7 @@ todo = "symptômes/fatigue, vaccin combiné"
 - Vacciner: HSH, enfant amené à séjourner en zone endémique, 14 jours autour d'un cas.
 - Le seul traitement est préventif par les mesures d'hygiène et la vaccination.
 - Voyage: 1 injection 15 jours avant le départ et rappel à 6 mois (voire +), dès 1 an.
+- Hépatite A aiguë: maladie à déclaration obligatoire.
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

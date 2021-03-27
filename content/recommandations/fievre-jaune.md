@@ -20,6 +20,8 @@ todo = ""
 
 {{%article-summary%}}
 
+Maladie à déclaration obligatoire.
+
 Vaccination:
 
 - obligatoire pour tout séjour en Guyane, dès 9 mois

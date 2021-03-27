@@ -27,6 +27,7 @@ todo = "ttt accès palustre, piqures, http://medecinetropicale.free.fr/cours/con
 
 - Toute fièvre dans les 3 mois suivant le retour de voyage est un paludisme jusqu'à preuve du contraire.
 - Toute suspicion de paludisme est une urgence diagnostique et thérapeutique.
+- Maladie à déclaration obligatoire
 - Voyage tropical: protection contre les moustiques et chimioprophylaxie.
 
 {{%/article-summary%}}
