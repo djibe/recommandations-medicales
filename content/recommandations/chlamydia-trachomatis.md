@@ -11,12 +11,12 @@ specialites = ["gynecologie-obstetrique"]
 annees = "2018"
 sources = ["HAS", "Inpes"]
 tags = ["HSH", "IST", "IVG"]
-anglais = []
-sctid = ""
+anglais = ["Chlamydia trachomatis infection"]
+sctid = "240589008"
 draft = false
 image = false
 imageSrc = ""
-todo = "verif indic vacc VHB, clinique, flowchart"
+todo = "améliorer clinique, flowchart"
 +++
 
 {{%article-summary%}}
@@ -38,7 +38,7 @@ todo = "verif indic vacc VHB, clinique, flowchart"
 Problème de Santé publique du fait des complications: stérilité, grossesse extra-utérine, algies pelviennes chroniques.  
 Elle atteint 3% des 18-29 ans avec co-infection *gonocoque* de 2-24%.
 : Symptomatologie:
-    - Femme. Asymptomatique 70%, inflammation pelvienne, salpingite, GEU, stérilité
+    - Femme. Asymptomatique 70%, cervicite, inflammation pelvienne et salpingite, GEU, stérilité
     - Homme. Asymptomatique 50%, urétrite
     - [HSH]({{< relref "hsh.md" >}}). Lymphogranulomatose vénérienne (LGV, co-infection VIH 76%) et ano-rectites à Ct, [co-infection VIH]({{< relref "vih-sida.md" >}}) 30%
 
@@ -59,13 +59,25 @@ Elle atteint 3% des 18-29 ans avec co-infection *gonocoque* de 2-24%.
 
 - Asymptomatique (70%)
 - Cervicite  
-Leucorrhées jaunes/blanches.
-- Douleurs pelviennes chroniques par inflammation
-- Salpingite
+Leucorrhées jaunes/blanches, cystalgies, syndrome urétral, dyspareunie, spotting.
+- Salpingite et douleurs pelviennes chroniques  
+Majoritairement subaiguë ou chronique, douleurs abdominales augmentées pendant les règles.
 - Grossesse extra-utérine
 - Stérilité
 
 ### Homme
+
+- Asymptomatique (50%)
+- Urétrite (asymptomatique 50%)  
+Écoulement clair, modéré, intermittent.
+- Épididymite aiguë
+- Syndrome de Fieissinger-Leroy-Reiter
+  - Dans les suites d'une urétrite
+  - Conjonctivite bilatérale
+  - Polyarthrite asymétrique (sub)aigüe des grosses articulations
+  - Fréquentes rachialgie, talalgie et tendinites
+  - Balanite circinée
+  - Lésions psoriasiformes
 
 {{% /collapse %}}
 {{%collapse "Qui dépister ?" %}}
