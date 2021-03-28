@@ -21,14 +21,12 @@ todo = "améliorer clinique, flowchart"
 
 {{%article-summary%}}
 
-- Dépister largement (voir *Qui dépister ?*)
+- Dépister largement (voir *Qui dépister ?*), tous les 3-6 mois chez les HSH
 - PCR sur prélèvement vaginal pour les femmes et urinaires pour les hommes
 - Prélèvement des autres sites selon les pratiques
 - Azithromycine per os 1 g dose unique
-- Éradication systématique en test positif ou co-infection gonocoque
 - Contrôle de l'éradication à 6 mois
 - Dépister les partenaires des 12 derniers mois
-- Dépistage tous les 3-6 mois chez les HSH
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -131,7 +129,7 @@ PCR de contrôle à 6 mois
 - Contacter les partenaires des 12 derniers mois
 - Dépistage des autres IST
 - Statut vaccinal hépatite B ± vaccination VHB  
-Indication: Personnes ayant des relations sexuelles avec des partenaires multiples, exposées aux IST ou ayant une IST en cours ou récente (Calendrier vaccinal 2020).
+Indication: << e. Personnes ayant des relations sexuelles avec des partenaires multiples, exposées aux IST ou ayant une IST en cours ou récente >> (*Calendrier vaccinal. MinSanté 2020*).
 
 #### Cas particuliers
 

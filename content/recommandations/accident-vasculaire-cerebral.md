@@ -25,7 +25,7 @@ todo = "rééduc, fiche standardisée du recueil événements à imprimer"
 - Urgence vitale, protocole FAST et appel du 15, allonger la victime, fiche pour le SAMU  
 4h30 pour thrombolyser.
 - 1<sup>re</sup> cause de mortalité de la femme, 3<sup>e</sup> de l'homme
-- Post-AVC: aspirine, IEC, TZD, PA < 14/9, LDL < 1 et contrôle des FRCV
+- Post-AVC: aspirine, IEC, TZD, PA < 14/9, LDL < 1 g/L et contrôle des FRCV
 - Bilan spécialisé cardiaque et neurovasculaire
 - [Éducation de toute la population](https://solidarites-sante.gouv.fr/IMG/png/infographieavcsignes.png)
 
@@ -74,11 +74,33 @@ Accident ischémique transitoire
 : 30.000 AIT/an
 
 {{% /collapse %}}
+{{%collapse "Clinique" %}}
+
+{{%info%}}
+5 signes d'alerte de l'American Stroke Association:
+
+1. Déficit moteur (> 50%)  
+Faiblesse ou engourdissement soudain, uni ou bilatéral de la face, du bras ou de la jambe.
+2. Trouble visuel (28%)  
+Diminution ou perte de vision uni ou bilatérale.
+3. Dysarthrie/aphasie (> 42%)  
+Difficulté de langage ou de la compréhension.
+4. Céphalées  
+Mal de tête sévère, soudain ou inhabituel sans cause apparente (saignement intra-crânien).
+5. Troubles de l'équilibre (17%)  
+Instabilité à la marche ou chutes inexpliquées.
+
+Et déficit sensitif brutal (35%)
+{{%/info%}}
+
+{{% /collapse %}}
 {{%collapse "Traitement en urgence au cabinet" %}}
+
+{{%warning%}}
 
 - Appel du 15 pour transfert en UNV  
 Prise des constantes en même temps.  
-Si patient appelle au cabinet, transférer l'appel au 15 et essayer de rester en ligne.
+Si le patient appelle au cabinet, transférer l'appel au 15 et essayer de rester en ligne.
 - Allonger et surveiller le patient
 - Rédiger pour le SAMU
   - Heure de début des symptômes
@@ -90,13 +112,10 @@ Si patient appelle au cabinet, transférer l'appel au 15 et essayer de rester en
   - SpO<sub>2</sub>
   - Glycémie capillaire
   - ECG si disponible
-  - Échelle NIHSS (voir plus bas)
+  - {{< modal-btn score-nihss >}}Score NIHSS{{< /modal-btn >}}
   - Préciser si contre-indications à la thrombolyse (voir chap. suivant *CI à la thrombolyse*)
-- Personnes contact
-
-### Score NIHSS
-
-{{< scores/nihss >}}
+- Personnes à contacter
+{{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Contre-indications à la thrombolyse" %}}
@@ -146,7 +165,7 @@ Si non cardioembolique (voire clopidogrel).
   - **Cible < 140/90 mmHg** avec surveillance par **automesure tensionnelle** voire MAPA.
   - Molécules: thiazidiques, IEC, dihydropyridines.
 - LDL
-  - **Cible < 1g/L**
+  - **Cible < 1 g/L**
   - Cible plus stricte si haut risque ou très haut risque (antécédent cardiaque, rénal, [diabète]({{< relref "diabete-type-2.md" >}}))
 - Arrêt du tabac
 - Arrêt de l'alcool
@@ -228,7 +247,7 @@ ex: lorsque la personne sourit le sourire n’est pas symétrique.
 - une faiblesse d’un côté du corps, bras ou jambe  
 ex: lorsqu’on demande à la personne de lever les deux bras devant elle, l’un des bras ne peut être levé ou rester en hauteur, il retombe.
 - des troubles de la parole  
-ex : lorsqu’on demande à la personne de répéter une phrase, elle a des difficultés à parler ou à comprendre.
+ex: lorsqu’on demande à la personne de répéter une phrase, elle a des difficultés à parler ou à comprendre.
 
 Si vous êtes témoin d’un de ces 3 signes, réagissez. Appelez immédiatement le SAMU, faites le 15.
 « AVC, agir vite c’est important »
@@ -244,3 +263,8 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 - [HAS. Prise en charge diagnostique et traitement immédiat de l’accident ischémique transitoire de l’adulte. 03/05/2004.](https://www.has-sante.fr/jcms/c_272368/fr/prise-en-charge-diagnostique-et-traitement-immediat-de-laccident-ischemique-transitoire-de-ladulte)
 
 {{% /collapse %}}
+{{% modal title="Score NIHSS" id="score-nihss" size="lg"%}}
+
+{{< scores/nihss >}}
+
+{{% /modal %}}
