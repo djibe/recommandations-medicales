@@ -4,6 +4,7 @@ prefix = "le "
 shortname = "SJSR"
 synonyms = ["Maladie de Willis-Ekbom"]
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-02-02T08:52:00+02:00
 publishdate = 2021-03-10
 lastmod = 2021-03-26
