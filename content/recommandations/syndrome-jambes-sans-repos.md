@@ -33,7 +33,7 @@ todo = "algo, IRLS, info du patient, painful legs and moving toes"
 - Avis du spécialiste pour les formes modérées à très sévères ou doute diagnostique
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Syndrome des jambes sans repos (SJSR)
 : Maladie chronique neurologique sensorimotrice entraînant un besoin impérieux de bouger les jambes (voire bras, hanche) selon l'occupation et le moment de la journée.  
@@ -50,7 +50,7 @@ Forme intermittente
 Mouvements périodiques des membres (MPM)
 : Mouvements involontaires de dorsiflexion de chevilles, orteils, flexion partielle de genou et parfois de hanche.  
 Ils surviennent en veille calme, avant le sommeil ou pendant le sommeil. Prédominants en début de nuit, ils s'estompent sur la nuit.  
-Ils sont rarement détectés par le patient ou son entourage.
+Ils sont parfois détectés par le conjoint.
 : La survenue à l'éveil est spécifique, décrite comme des mouvements involontaires des jambes: << Mes jambes sautent/bougent toutes seules >>.
 : 30% de la population en a, le seuil diagnostique est spécifié à 15 MPM/h.
 
@@ -133,7 +133,7 @@ Antidépresseurs (toute classe), neuroleptiques, lithium, anti-histaminiques, ox
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques" %}}
 
-> "Il est souhaitable que ce diagnostic soit posé par un neurologue ou un médecin spécialiste du sommeil." *SFRMS 2019*
+> << Il est souhaitable que ce diagnostic soit posé par un neurologue ou un médecin spécialiste du sommeil. >> *SFRMS 2019*
 
 ### 5 critères diagnostiques du syndrome des jambes sans repos
 

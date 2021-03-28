@@ -14,19 +14,20 @@ tags = ["depistage", "HSH", "IST", "vaccin", "VIH"]
 anglais = ["MSM", "Men who have sex with men"]
 sctid = "76102007"
 draft = false
-todo = "TODO: gono, chlam, Prep, https://www.eacsociety.org/files/2019_guidelines-10.0_final.pdf p. 24"
+todo = "TODO: gono, Prep, https://www.eacsociety.org/files/2019_guidelines-10.0_final.pdf p. 24"
 +++
 
 {{%article-summary%}}
 
 - Port du préservatif systématique
 - Dépistage du VIH tous les 3 mois (HAS 2017)
+- Dépistage du *Chlamydia* tous les 3-6 mois (HAS 2018)
 - Vaccination hépatite A (après sérologie), hépatite B, papillomavirus (jusqu'à 26 ans)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Surexposition au [VIH] (prévalence 13%, 45% des cas), [syphilis]({{< relref "syphilis.md" >}}) (80% des cas), HPV, hépatite A, autres IST.
+Surexposition au [VIH] (prévalence 13%, 45% des cas), [syphilis]({{< relref "syphilis.md" >}}) (80% des cas), [HPV]({{< relref "papillomavirus.md" >}}), [hépatite A]({{< relref "hepatite-A.md" >}}), autres IST.
 
 - **45% des personnes fréquentant les milieux sociaux HSH (bars, backrooms) déclarent plus de 10 partenaires par an**
 - 1/3 n’utilise pas de préservatif
@@ -51,7 +52,8 @@ Sérologies à proposer en cas de conduites sexuelles à risque:
 
 ### Dépistage des IST
 
-Dépistage trimestriel du VIH.
+- Dépistage tous les 3 mois du VIH
+- Dépistage tous les 3 à 6 mois de *Chlaymdia trachomatis*
 
 ### Préservatif
 
@@ -83,6 +85,7 @@ Spécialités chez l'adulte:
 {{%collapse "Sources" %}}
 
 - [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+- [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)
 - [Le Bourhis-Zaimi M et al. Épidémie d’hépatite A parmi des hommes ayant des rapports sexuels avec des hommes, Rouen, décembre 2016 – avril 2017. Bull Epidémiol Hebd. 2017;(18):355-61.](http://beh.santepubliquefrance.fr/beh/2017/18/2017_18_2.html)
 

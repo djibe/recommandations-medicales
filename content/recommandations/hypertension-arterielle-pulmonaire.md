@@ -6,38 +6,47 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-02T11:46:00+02:00
 publishdate = 2021-03-02
-lastmod = 2021-03-09
+lastmod = 2021-03-28
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["HAS"]
-tags = ["epreuve effort"]
+tags = ["dyspnee", "VIH"]
 anglais = ["Pulmonary arterial hypertension"]
 sctid = "11399002"
 draft = false
 image = false
 imageSrc = ""
-todo = "interrog, NYHA, ttt, surveillance (aggrav signes + IRC), psycho, social, fam, ALD, personnes à risque"
+todo = "ttt, surveillance (aggrav signes + IRC), psycho, social, fam"
 +++
 
 {{%article-summary%}}
 
-- Adresser au cardiologue devant dyspnée d'effort inexpliquée, syncope, signes droits
+- Suspecter une HTAP devant dyspnée d'effort inexpliquée, syncope, signes droits
+- Adresser au cardiologue avec biologie + RxT
 - Suivi annuel en centre de référence
+- Dépistage systématique en pathologie à haut risque d'HTAP
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Hypertension pulmonaire (HTP)
-: Ensemble de pathologies cardio-pulmonaires entraînant une augmentation progressive des *résistances vasculaires pulmonaires* (RVP) pouvant entraîner une insuffisance cardiaque droite.
-: Diagnostic de certitude par cathétérisme cardiaque: PAPm > 20 mmHg.
+: Ensemble de pathologies cardio-pulmonaires entraînant une augmentation progressive des *résistances vasculaires pulmonaires* (RVP) pouvant entraîner une insuffisance cardiaque droite.  
+Il s'agit d'une complication de plusieurs pathologies (par ordre de fréquence): cardiopathie gauche, insuffisance respiratoire chronique, séquelles d'embolie pulmonaire.
+: Diagnostic de certitude par cathétérisme cardiaque: PAPm ≥ 25 mmHg.
+: La complication est la survenue d'une insuffisance cardiaque droite (pronostic majeur).
 
 Hypertension artérielle pulmonaire
-: Maladies rares caractérisées par des modifications importantes des artères pulmonaires de petit calibre.
+: Maladie rare caractérisée par des modifications importantes des artères pulmonaires de petit calibre (HTP pré-capillaire).
+: Elle est le plus souvent idiopathique, mais peut avoir une origine médicamenteuse ou compliquant une autre pathologie.  
+Elle peut arriver à tout âge, atteint préférentiellement les femmes (65%) avec un âge moyen au diagnostic de 40-50 ans.  
+Il n'existe aucun traitement curatif et le pronostic est mauvais.
 
 ### Abréviations
 
-**HTAP:** Hypertension artérielle pulmonaire
-**HTP:** Hypertension pulmonaire
+**ETT:** échocardiographie transthoracique  
+**HTAP:** Hypertension artérielle pulmonaire  
+**HTP:** Hypertension pulmonaire  
+**RxT:** radiographie thoracique
 
 {{% /collapse %}}
 {{%collapse "Étiologie" %}}
@@ -45,32 +54,93 @@ Hypertension artérielle pulmonaire
 - Héréditaire
 - Congénitale
 - Secondaire à une pathologie générale  
-Connectivite, hypertension portale, [infection VIH]({{< relref "vih-sida.md" >}})...
+Connectivite (sclérodermie), cirrhose et hypertension portale, [infection VIH]({{< relref "vih-sida.md" >}}), bilharziose...
 - Secondaire à une maladie respiratoire
 - Secondaire à une cardiopathie gauche
 - Secondaire à une maladie thromboembolique chronique
 - Iatrogène  
 Anorexigènes, immunothérapies...
-- Idiopathique
+- Idiopathique surtout
+
+{{% /collapse %}}
+{{%collapse "Dépistage systématique" %}}
+
+Dépistage systématique de l'HTAP par ETT dans les pathologies à risque:
+
+- Cardiopathie congénitale
+- Insuffisance respiratoire chronique
+- Sclérodermie
+- Antécédent familial d'HTAP
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Les symptômes prédominent à l'effort.  
-Les signes cliniques de l'hypertension artérielle pulmonaire sont peu spécifiques et doivent être évoqués devant:
+Les symptômes prédominent **à l'effort**.  
+Les signes cliniques de l'hypertension artérielle pulmonaire sont peu spécifiques et doivent être évoqués à tout âge devant:
 
-- Asthénie
-- Dyspnée d'effort inexpliquée malgré le bilan
-- Syncope et lipothymies
+{{%info%}}
+
+- **Dyspnée d'effort** inexpliquée malgré le bilan
+  - Principal symptôme
+  - Valeur pronostique du {{< modal-btn score-nyha >}}score NYHA{{< /modal-btn >}} au diagnostic
+  - Chronique et d'aggravation progressive
+- Asthénie et fatigue à l'effort
+- Syncope et lipothymies (à l'effort)
+- Angor
+- Hémoptysie
+- Signes d'HTP  
+Insuffisance tricuspidienne ou pulmonaire.
 - Signes d'insuffisance cardiaque droite
-Distension de la jugulaire, reflux hépatojugulaire, hépatomégalie, œdèmes des membres inférieurs, ascite.
+
+{{%/info%}}
+
+### Interrogatoire
+
+- Antécédents personnels  
+  - Embolie pulmonaire et [TVP]({{< relref "thrombose-veineuse-profonde.md" >}}), cardiopathie congénitale, sclérodermie, [VIH]({{< relref "vih-sida.md" >}}), hypertension portale, bilharziose
+  - Asthme, BPCO, tabagisme
+- Facteurs de risque cardiovasculaires
+- Antécédent familial d'HTAP
+- Traitements  
+Anorexigène ou immunothérapie.
+- Toxiques  
+Amphétamines, cocaïne.
+- Symptômes de repos et d'effort
+- {{< modal-btn score-nyha >}}Score NYHA{{< /modal-btn >}}
+
+### Examen clinique
+
+- Pression artérielle, pouls
+- Auscultation cardiaque  
+Insuffisance tricuspidienne (souffle holosystolique majoré en inspiration profonde), éclat du B2 pulmonaire, souffle diastolique d'insuffisance pulmonaire.
+- Auscultation pulmonaire  
+Normale, discordante avec la sévérité des symptômes.
+- Signes d'insuffisance cardiaque droite  
+Tachycardie, galop, turgescence jugulaire, reflux hépato-jugulaire, hépatomégalie, œdèmes des membres inférieurs, ascite.
+- Signes d'hypertension portale
+- Signes de sclérodermie  
+Syndrome de Raynaud, sclérodactylie, télangiectasies, calcifications sous-cutanées, ulcérations digitales, dysphagie, dyspepsie ...
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Le patient doit être adressé au cardiologue qui réalise le dépistage avec l'**échodoppler cardiaque** et permet de définir le niveau de probabilité.
+### Biologie
 
-C'est le **cathétérisme cardiaque** droit qui affirme le diagnostic. Il est réalisé dans un centre de référence de l'HTAP.
+- Glycémie à jeun
+- Bilan lipidique
+- Sérologies VHB, VHC et VIH.
+
+### Radiographie thoracique de face
+
+Sa normalité n'infirme pas le diagnostic.
+
+### Échocardiographie transthoracique
+
+Examen de référence pour définir le niveau de probabilité d'HTP.  
+{{%class%}}Suspecte une HTP quand PAPS > 35 mmHg.{{%/class%}}
+
+C'est le **cathétérisme cardiaque** droit qui affirme le diagnostic. Il est réalisé dans un centre de référence de l'HTAP.  
+{{%class%}}PAPm ≥ 25 mmHg et PCP ≤ 15 mmHg.{{%/class%}}
 
 {{% /collapse %}}
 {{%collapse "Centres de référence de l'HTAP" %}}
@@ -82,7 +152,7 @@ C'est le **cathétérisme cardiaque** droit qui affirme le diagnostic. Il est r�
 
 Le traitement est choisi par le centre de référence. Le suivi est au moins annuel.
 
-- ALD
+- ALD n°5
 - Observance
 - Tolérance des traitements
 - Proposer des associations de patients  
@@ -97,7 +167,14 @@ Le traitement est choisi par le centre de référence. Le suivi est au moins ann
 {{%collapse "Sources" %}}
 
 - [HAS. Hypertension artérielle pulmonaire. PNDS. 2020.](https://www.has-sante.fr/jcms/p_3167172/fr/hypertension-arterielle-pulmonaire)
+- [Collège National des Enseignants de Cardiologie. Hypertension artérielle pulmonaire de l’enfant et de l’adulte. Item 222. Cardiologie 2e édition. Octobre 2019.](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch19_hypertension_pulmonaire.pdf)
+- [Collège des enseignants de pneumologie. Hypertension artérielle pulmonaire. Item 222. 2017.](http://cep.splf.fr/wp-content/uploads/2018/09/item_222_HTP_2017-cor2018.pdf)
 - [Orphanet. Hypertension artérielle pulmonaire idiopathique/familiale.](https://www.orpha.net/consor/www/cgi-bin/OC_Exp.php?lng=FR&Expert=422)
 - [Réseau HTAP](http://www.reseau-htap.fr/)
 
 {{% /collapse %}}
+{{% modal title="Échelle NYHA" id="score-nyha"%}}
+
+{{< scores/nyha >}}
+
+{{% /modal %}}

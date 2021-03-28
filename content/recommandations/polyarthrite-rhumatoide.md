@@ -158,7 +158,7 @@ Confirme synovite dans certains cas. Peut être complété par l'IRM.
 **La décision du traitement dépend du rhumatologue, partagée avec le patient.**
 
 - Déclaration à 100%  
-ALD 22: Polyarthrite évolutive.
+{{%class%}}ALD 22: Polyarthrite évolutive.{{%/class%}}
 - AINS  
 Si symptomatique et état rénal ou cardio-vasculaire correct.
 - **Éducation thérapeutique**  
@@ -288,7 +288,7 @@ Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
 - Arrêt du tabac, contrôle cardiovasculaire, régime méditerranéen, vaccins, cancers, ostéoporose
 - Suivi clinico-bio-radiologique
 - Associations de malades
-- Prise en charge à 100% en ALD 22
+- Prise en charge à 100% en ALD n°22
 - Prévenir du risque de dépression sous anti-TNF
 
 **NB.** Régimes sans gluten et lactose n'ont pas fait preuve d'efficacité.

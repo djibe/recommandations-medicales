@@ -41,11 +41,12 @@ Délai contamination-Sida d'environ 10 ans.
 
 ### Abréviations
 
-**ARV:** Traitement antirétroviral  
-**HSH:** Hommes ayant des rapports sexuels avec des hommes  
-**IST:** Infections sexuellement transmissibles  
-**PVVIH:** Personnes vivant avec le VIH  
-**UDI:** Usagers de drogues par injection
+**ARV:** traitement antirétroviral  
+**HSH:** homme ayant des rapports sexuels avec des hommes  
+**IST:** infection sexuellement transmissible  
+**PVVIH:** personne vivant avec le VIH  
+**UDI:** usager de drogues par injection  
+**VIH:** virus de l’immunodéficience humaine
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}

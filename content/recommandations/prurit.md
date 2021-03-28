@@ -25,7 +25,7 @@ todo = "Prescrire, médicaments responsables, algo, lire dermato-info"
 - Prurit nu non évident: biologie, radio de thorax, écho abdo.
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Prurit
 : Sensation de démangeaison localisée ou généralisée, atteignant la peau ou certaines muqueuses.  

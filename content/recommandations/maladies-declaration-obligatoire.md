@@ -11,8 +11,8 @@ specialites = ["certificats"]
 annees = "2021"
 sources = ["SPF"]
 tags = []
-anglais = ["Chronic disease"]
-sctid = "27624003"
+anglais = []
+sctid = ""
 draft = false
 image = false
 imageSrc = ""
@@ -63,4 +63,4 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme.
 
 ## Déclarer une maladie à déclaration obligatoire
 
-{{< card-link title="Déclaration en ligne de maladie obligatoire" url="http://e-do.santepubliquefrance.fr/teleDO/Bienvenue.do" subtitle="Santé Publique France" image="edo.png" >}}
+{{< card-link title="Réaliser en ligne une déclaration obligatoire" url="http://e-do.santepubliquefrance.fr/teleDO/Bienvenue.do" subtitle="Santé Publique France" image="edo.png" >}}

@@ -30,7 +30,7 @@ todo = "lire reco HAS 2019, algo"
 
 Les recommandations concernent seulement les nourrissons de 1 mois à 2 ans.
 
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Bronchiolite
 : Infection virale respiratoire épidémique du nourrisson (VRS 50-80 % des cas, co-infection 10%) d'évolution favorable dans la très grande majorité des cas.  
