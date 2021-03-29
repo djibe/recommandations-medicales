@@ -90,6 +90,7 @@
   {{ end }}
 
   {{ $name := (printf "%s%s" .Params.prefix .Title | safeJS) }}
+  <!-- L'image doit faire au moins 112 pixels de largeur et de hauteur. -->
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",

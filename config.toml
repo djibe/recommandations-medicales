@@ -28,7 +28,7 @@ title = "Recommandations Médicales"
   github = "https://github.com/djibe/recommandations-medicales"
   githubUser = "djibe"
   ogimage = "/images/icons/banner-og.png"
-  icon = "/favicon.ico"
+  icon = "/android-chrome-192x192.png"
   SidebarRecentLimit = 5
 
 # todo
