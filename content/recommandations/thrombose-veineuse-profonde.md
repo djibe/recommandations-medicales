@@ -2,7 +2,7 @@
 title = "Thrombose veineuse profonde"
 prefix = "la "
 shortname = "TVP"
-synonyms = ["Phlébite"]
+synonyms = ["Phlébite profonde"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-19T18:21:00+02:00
 publishdate = 2021-03-19
@@ -30,6 +30,10 @@ Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
+
+Thrombose veineuse profonde
+: Occlusion d'une veine de gros calibre par un thrombus sanguin atteignant surtout les membres inférieurs.  
+Le risque est augmenté par l'insuffisance veineuse et une maladie thrombogène.
 
 ### Abréviations
 
@@ -140,13 +144,13 @@ En première intention en TVP proximale pour les 3 premiers mois de traitement.
 Contre-indiqué pendant la grossesse.
 
 {{%info%}}
-Apixaban 10 mg x 2/j pendant 7 jours  
-puis 5mg x 2/j au moins 3 mois
+Apixaban 5 mg 2 cp matin et soir pendant 7 jours  
+puis 5 mg x 2/j au moins 3 mois
 {{%/info%}}
 
 2 AOD ont l'AMM pour la TVP:
 
-- Apixaban 10 mg x 2/j  
+- [Apixaban 5 mg 2cp x 2/j](https://ec.europa.eu/health/documents/community-register/2021/20210111150212/anx_150212_fr.pdf)  
 CI quand Cockroft < 25 mL/min.  
 Préféré par Prescrire®.
 - Rivaroxaban 15 mg x 2/j  

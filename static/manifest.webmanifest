@@ -1,16 +1,21 @@
 {
-  "name": "L'Université Médicale",
-  "short_name": "UM",
+  "name": "Recommandations M\u00e9dicales",
+  "short_name": "RM",
   "description": "Les dernières recommandations médicales pour la pratique au cabinet médical.",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "32x32",
-      "type": "image/ico"
+        "src": "/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    },
+    {
+        "src": "/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
     }
   ],
   "start_url": "/",
-  "display": "minimal-ui",
+  "display": "standalone",
   "theme_color": "#006ef4",
   "background_color": "#006ef4"
 }

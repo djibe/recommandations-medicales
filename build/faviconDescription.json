@@ -1,6 +1,6 @@
 {
-  "masterPicture": "example/favicon.png",
-  "iconsPath": "/",
+  "masterPicture": "favicon.png",
+  "iconsPath": "./build/",
   "design": {
     "ios": {
       "pictureAspect": "noChange"
