@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T12:09:00+02:00
 publishdate = 2021-03-28
-lastmod = 2021-03-28
+lastmod = 2021-03-29
 specialites = ["gynecologie-obstetrique"]
 annees = "2018"
 sources = ["HAS", "Inpes"]
@@ -22,7 +22,7 @@ todo = "améliorer clinique, flowchart"
 {{%article-summary%}}
 
 - Dépister largement (voir *Qui dépister ?*), tous les 3-6 mois chez les HSH
-- PCR sur prélèvement vaginal pour les femmes et urinaires pour les hommes
+- PCR sur prélèvement vaginal pour les femmes et urinaire pour les hommes
 - Prélèvement des autres sites selon les pratiques
 - Azithromycine per os 1 g dose unique
 - Contrôle de l'éradication à 6 mois
@@ -69,11 +69,11 @@ Majoritairement subaiguë ou chronique, douleurs abdominales augmentées pendant
 - Urétrite (asymptomatique 50%)  
 Écoulement clair, modéré, intermittent.
 - Épididymite aiguë
-- Syndrome de Fieissinger-Leroy-Reiter
+- Syndrome de Fiessinger-Leroy-Reiter
   - Dans les suites d'une urétrite
   - Conjonctivite bilatérale
   - Polyarthrite asymétrique (sub)aigüe des grosses articulations
-  - Fréquentes rachialgie, talalgie et tendinites
+  - Fréquentes: rachialgies, talalgies et tendinites
   - Balanite circinée
   - Lésions psoriasiformes
 
@@ -114,9 +114,10 @@ Traitement selon les résultats
 
 **Dépistage annuel** si rapports non protégés avec un nouveau partenaire.
 
-### Dépistage positif ou co-infection gonococcique
+### Dépistage positif
 
-Traitement des formes non compliquées (pas de salpingite).
+- Traitement des formes non compliquées (pas de salpingite)
+- Traitement systématique en cas d'infection par le gonocoque (voir le chapitre dédié pour le traitement du gonocoque)
 
 {{%info%}}
 Azithromycine per os 1 g dose unique  

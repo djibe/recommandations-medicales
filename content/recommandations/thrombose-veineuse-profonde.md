@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "mieux est Wells ou Wells modifié?, proba forte et doppler neg?, éducation AVK, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/"
+todo = "RIETE avec NFS et créat, mieux est Wells ou Wells modifié?, proba forte et doppler neg?, éducation AVK, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/"
 +++
 
 Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'état.
@@ -58,7 +58,7 @@ Utiliser le score LEFt chez la femme enceinte.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Une suspicion de TVP (sans EP) devrait être explorée en ambulatoire (sauf critères d'hospitalisation ci-dessus).
+Une suspicion de TVP (sans EP) devrait être explorée en ambulatoire (sauf critères d'hospitalisation, voir chap. suivant).
 
 ### D-dimères
 
@@ -82,11 +82,11 @@ Indications: **probabilité forte** de TVP (selon le score clinique initial) ou 
 
 #### Interpréter les résultats de l'écho-doppler veineux
 
-- Écho-doppler veineux complet normal ET probabilité non forte  
+- Écho-doppler veineux complet normal ET probabilité non forte:  
 Pas de TVP.
-- Écho-doppler veineux incomplet normal  
-Écho-doppler veineux complet de contrôle à J7.
-- Écho-doppler veineux anormal avec thrombus proximal/distal  
+- Écho-doppler veineux incomplet normal:  
+Prévoir un écho-doppler veineux complet de contrôle à J7.
+- Écho-doppler veineux anormal avec thrombus proximal/distal:  
 TVP certaine.
 
 {{% /collapse %}}
@@ -94,7 +94,7 @@ TVP certaine.
 
 {{%warning%}}
 
-### Critères d'hospitalisation en thrombose veineuse profonde
+### Critères d'hospitalisation en cas de TVP
 
 - Suspicion d'embolie pulmonaire
 - TVP bilatérale
@@ -111,7 +111,7 @@ TVP certaine.
 - Absence de téléphone
 {{%/warning%}}
 
-En l'absence de ces signes, la prise en charge de la TVP est préconisée en ambulatoire.
+En l'absence de ces signes, la prise en charge préconisée de la TVP est ambulatoire.
 
 {{% /collapse %}}
 {{%collapse "Score hémorragique RIETE" %}}
@@ -136,14 +136,19 @@ Traitement de référence en l'absence de cancer connu.
 
 #### Anticoagulation par AOD
 
-En première intention en TVP proximale pour les 3 premiers mois de traitement.
+En première intention en TVP proximale pour les 3 premiers mois de traitement.  
+Contre-indiqué pendant la grossesse.
 
-{{%info%}}Apixaban 10 mg x 2/j pendant au moins 3 mois{{%/info%}}
+{{%info%}}
+Apixaban 10 mg x 2/j pendant 7 jours  
+puis 5mg x 2/j au moins 3 mois
+{{%/info%}}
 
 2 AOD ont l'AMM pour la TVP:
 
 - Apixaban 10 mg x 2/j  
-CI quand Cockroft < 25 mL/min.
+CI quand Cockroft < 25 mL/min.  
+Préféré par Prescrire®.
 - Rivaroxaban 15 mg x 2/j  
 CI quand Cockroft < 30 mL/min.
 
@@ -208,7 +213,7 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%collapse "Source" %}}
 
 [Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires (2019).](https://doi.org/10.1016/j.rmr.2019.01.003)
 

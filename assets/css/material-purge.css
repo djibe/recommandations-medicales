@@ -1593,6 +1593,10 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   width: 1.125rem;
 }
 
+.chip-sm {
+  height: 1.75rem;
+}
+
 .chip-xs {
   height: 1.5rem;
 }

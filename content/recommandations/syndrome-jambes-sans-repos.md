@@ -19,7 +19,7 @@ flowchart = true
 image = true
 imagePNG = true
 imageSrc = "Comparaison entre le sommeil d'une personne atteinte du syndrome des jambes sans repos (en rouge) et celui d'une personne en bonne santé (en bleu). Markus Mueller derivative, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "algo, IRLS, info du patient, painful legs and moving toes"
+todo = "suicide, methodes Sandrine, info du patient, painful legs and moving toes"
 +++
 
 {{%article-summary%}}
@@ -27,7 +27,7 @@ todo = "algo, IRLS, info du patient, painful legs and moving toes"
 - 5 critères diagnostiques, examen neurologique +++
 - Dissociation temps de sommeil-somnolence
 - Étude de tous les diagnostics différentiels
-- Retentissement: {{< modal-btn score-irls >}}IRLS{{< /modal-btn >}}, qualité de vie (sommeil, vie sociale, humeur)
+- Retentissement: {{< modal-btn modal-score-irls >}}IRLS{{< /modal-btn >}}, qualité de vie (sommeil, vie sociale, humeur)
 - Ferritinémie cible > 75 ng/mL
 - Conseils d'hygiène de vie
 - Traitement par palier 2 à la demande en SJSR léger
@@ -239,7 +239,7 @@ Possibles: sensibilité anormale/augmentée à la piqûre mousse et vibration, h
 
 ### Échelle IRLS  
 
-{{< modal-btn score-irls >}}Auto-questionnaire{{< /modal-btn >}} essentiel pour le suivi des symptômes et de l'efficacité thérapeutique.  
+{{< modal-btn modal-score-irls >}}Auto-questionnaire{{< /modal-btn >}} essentiel pour le suivi des symptômes et de l'efficacité thérapeutique.  
 Un traitement spécifique est indiqué d'emblée pour les formes modérée à très sévères (score IRLS ≥ 11).
 
 *IRLS* = {{%lang%}}IRLSSSG rating scale{{%/lang%}}
@@ -340,7 +340,7 @@ Indications: SJSR léger avec ferritinémie > 75 ng/mL
 {{%class%}}Voir chapitre dédié plus bas.{{%/class%}}
 6. Traitement spécifique  
 Réservé au médecin du sommeil.
-Indications: SJS modéré à très sévère ({{< modal-btn score-irls >}}score IRLS{{< /modal-btn >}} ≥ 11) ou impactant la qualité de vie malgré les mesures ci-dessus.
+Indications: SJS modéré à très sévère ({{< modal-btn modal-score-irls >}}score IRLS{{< /modal-btn >}} ≥ 11) ou impactant la qualité de vie malgré les mesures ci-dessus.
 
 {{%info%}}
 
@@ -371,11 +371,11 @@ Privilégier une supplémentation orale en surveillant la tolérance digestive d
 
 Proposition de la SFRMS: [Ferrostrane®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68994621&typedoc=R) 1-3 cuillères à café/j.  
 Voire Fumafer® ou Timoférol®.  
-Si échec: Venofer® IV.
+Si échec: fer saccharose IV (Venofer®, préféré par Prescrire®).
 
 ### Traitement à la demande: antalgiques de palier 2
 
-Pour les SJSR avec ferritinémie > 75 ng/mL et persistances de symptômes "légers" ({{< modal-btn score-irls >}}score IRLS{{< /modal-btn >}} ≤ 10).
+Pour les SJSR avec ferritinémie > 75 ng/mL et persistances de symptômes "légers" ({{< modal-btn modal-score-irls >}}score IRLS{{< /modal-btn >}} ≤ 10).
 
 Prise à la demande ou en période de recrudescence des symptômes.  
 Prendre 1 à 2h avant l'apparition des symptômes.  
@@ -391,7 +391,7 @@ Seule la codéine peut être utilisée pendant la grossesse en accord avec l'obs
 ### Pour en savoir plus: Traitements spécifiques du SJSR
 
 La prescription de ces traitements est réservée au spécialiste, à visée symptomatique.
-Monothérapie en première intention après correction d'une carence martiale pour les formes sévères à très sévères ({{< modal-btn score-irls >}}IRLS{{< /modal-btn >}} ≥ 21).  
+Monothérapie en première intention après correction d'une carence martiale pour les formes sévères à très sévères ({{< modal-btn modal-score-irls >}}IRLS{{< /modal-btn >}} ≥ 21).  
 Suivi au moins annuel.
 
 1. Agonistes dopaminergiques
@@ -431,11 +431,12 @@ graph TB
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Prescrire Redaction. Fer isomaltoside : pas plus de réactions d'hypersensibilité qu'avec le fer saccharose ?. Prescrire en questions. Revue Prescrire 2020; 40 : 469-470.](https://prescrire.org/)
 - [SFRMS, Limousin N. et al. Traitement du syndrome des jambes sans repos nouvellement diagnostiqué. Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 106-113.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302449?via%3Dihub)
 - [SFRMS, Leclair-Visonneau L et al. Comment poser le diagnostic d'un syndrome des jambes sans repos ? Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 97-105.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302437?via%3Dihub)
 
 {{% /collapse %}}
-{{% modal title="Échelle internationale de sévérité du syndrome des jambes sans repos (IRLS)" id="score-irls" size="lg"%}}
+{{% modal title="Échelle internationale de sévérité du syndrome des jambes sans repos (IRLS)" id="modal-score-irls" size="lg"%}}
 
 {{< scores/irls >}}
 

@@ -6,7 +6,7 @@ synonyms = ["Bartonellose à Bartonella henselae, lymphogranulomatose bénigne d
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T19:47:00+02:00
 publishdate = 2021-03-28
-lastmod = 2021-03-28
+lastmod = 2021-03-29
 specialites = ["infectiologie"]
 annees = "2018"
 sources = ["Pilly", "MinAgri"]
@@ -52,7 +52,7 @@ Aucun examen complémentaire en forme typique.
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-- Ne pas de frotter les yeux après un contact avec des animaux
+- Ne pas se frotter les yeux après un contact avec des animaux
 - Se laver les mains (eau + savon) systématiquement après contact avec l’animal ou ses déjections
 
 {{% /collapse %}}
@@ -69,7 +69,7 @@ Si allergie ou contre-indication: doxycycline 200 mg x 1/j pendant 14 jours.
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-- Ne pas de frotter les yeux après contact avec des animaux
+- Ne pas se frotter les yeux après contact avec des animaux
 - Se laver les mais (eau + savon) systématiquement après contact avec l’animal ou déjections
 - En cas de griffure ou morsure par un animal domestique:
   - Laver, savonner puis rincer

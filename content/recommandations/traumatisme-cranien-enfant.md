@@ -42,7 +42,7 @@ Le traumatisme crânien est la première cause de mortalité chez les enfants de
 ### Abréviations
 
 **AVP:** accident de la voie publique  
-**GCS:** {{%lang%}}Glasgow Coma Scale{{%lang%}}  
+**GCS:** {{%lang%}}Glasgow Coma Scale{{%/lang%}}  
 **LIC:** lésions intracrâniennes  
 **LICcs:** lésions intracrâniennes cliniquement sévères  
 **PEC:** prise en charge  
@@ -114,7 +114,7 @@ Troubles de l'hémostase, accidents, intoxications, pathologies.
 - Comportement habituel ou non
 - Pleurs inconsolables
 
-### Clinique
+### Examen clinique
 
 - Constantes, périmètre crânien, fontanelles
 - Rechercher:
@@ -126,7 +126,7 @@ Troubles de l'hémostase, accidents, intoxications, pathologies.
   - Hématome sous-cutané ou céphalhématome occipital, temporal ou pariétal avant 2 ans
 - Examen neurologique
   - Score de Glasgow
-  - Réflexe photo-moteur et ostéo-tendineux, signe de Babinski, paires 
+  - Réflexe photo-moteur et ostéo-tendineux, signe de Babinski, paires crâniennes
   - Raideur méningée
 - Palpation du rachis
 - Contracture cervicale

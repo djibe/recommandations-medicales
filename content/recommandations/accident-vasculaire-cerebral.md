@@ -112,7 +112,7 @@ Si le patient appelle au cabinet, transférer l'appel au 15 et essayer de rester
   - SpO<sub>2</sub>
   - Glycémie capillaire
   - ECG si disponible
-  - {{< modal-btn score-nihss >}}Score NIHSS{{< /modal-btn >}}
+  - {{< modal-btn modal-score-nihss >}}Score NIHSS{{< /modal-btn >}}
   - Préciser si contre-indications à la thrombolyse (voir chap. suivant *CI à la thrombolyse*)
 - Personnes à contacter
 {{%/warning%}}
@@ -263,7 +263,7 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 - [HAS. Prise en charge diagnostique et traitement immédiat de l’accident ischémique transitoire de l’adulte. 03/05/2004.](https://www.has-sante.fr/jcms/c_272368/fr/prise-en-charge-diagnostique-et-traitement-immediat-de-laccident-ischemique-transitoire-de-ladulte)
 
 {{% /collapse %}}
-{{% modal title="Score NIHSS" id="score-nihss" size="lg"%}}
+{{% modal title="Score NIHSS" id="modal-score-nihss" size="lg"%}}
 
 {{< scores/nihss >}}
 
