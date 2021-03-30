@@ -439,8 +439,8 @@ graph TB
 
 - [Prescrire Redaction. Fer isomaltoside : pas plus de réactions d'hypersensibilité qu'avec le fer saccharose ?. Prescrire en questions. Revue Prescrire 2020; 40 : 469-470.](https://prescrire.org/)
 - [Prescrire Redaction. Jambes sans repos : soulager sans médicament. Août 2019.]((https://prescrire.org/))
-- [SFRMS, Limousin N. et al. Traitement du syndrome des jambes sans repos nouvellement diagnostiqué. Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 106-113.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302449?via%3Dihub)
-- [SFRMS, Leclair-Visonneau L et al. Comment poser le diagnostic d'un syndrome des jambes sans repos ? Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 97-105.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302437?via%3Dihub)
+- [Limousin N. et al.; SFRMS. Traitement du syndrome des jambes sans repos nouvellement diagnostiqué. Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 106-113.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302449?via%3Dihub)
+- [Leclair-Visonneau L et al.; SFRMS. Comment poser le diagnostic d'un syndrome des jambes sans repos ? Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 97-105.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302437?via%3Dihub)
 - [Silber MH. et al; Medical Advisory Board of the Willis-Ekbom Disease Foundation. Willis-Ekbom Disease Foundation revised consensus statement on the management of restless legs syndrome. Mayo Clin Proc. 2013 Sep;88(9):977-86.](https://doi.org/10.1016/j.mayocp.2013.06.016)
 - [Aurora RN and al. Update to the AASM clinical practice guideline: “the treatment of restless legs syndrome and periodic limb movement disorder in adults—an update for 2012: practice parameters with an evidence-based systematic review and meta-analyses.” SLEEP 2012;35(8):1037.](https://aasm.org/clinical-resources/practice-standards/practice-guidelines/)
 - [IRLSSG. 2012 revised IRLSSG diagnostic criteria for RLS](http://irlssg.org/Diagnostic-criteria)
