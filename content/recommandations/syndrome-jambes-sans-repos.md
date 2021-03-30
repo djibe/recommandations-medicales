@@ -19,7 +19,7 @@ flowchart = true
 image = true
 imagePNG = true
 imageSrc = "Comparaison entre le sommeil d'une personne atteinte du syndrome des jambes sans repos (en rouge) et celui d'une personne en bonne santé (en bleu). Markus Mueller derivative, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "suicide, methodes Sandrine, info du patient, painful legs and moving toes"
+todo = "suicide, methodes Sandrine, info du patient, diag diff dans SJSR 2019 pharmacoR p3, painful legs and moving toes"
 +++
 
 {{%article-summary%}}
@@ -38,7 +38,7 @@ todo = "suicide, methodes Sandrine, info du patient, painful legs and moving toe
 
 Syndrome des jambes sans repos (SJSR)
 : Maladie chronique neurologique sensorimotrice entraînant un besoin impérieux de bouger les jambes (voire bras, hanche) selon l'occupation et le moment de la journée.  
-Il atteint préférentiellement les femmes et altère la qualité de vie.  
+Il atteint préférentiellement les femmes et altère la qualité de vie. Le sous-diagnostic est majeur.  
 Le traitement est symptomatique et vise à réduire la plainte sans éradiquer les symptômes (épargne thérapeutique).
 : L'origine de la maladie est mal compris mais comporte une carence intra-cérébrale en **fer** (insuffisance de transport par les barrière hémato-encéphalique et neuronal) et des troubles du système **dopaminergique**.
 
@@ -46,7 +46,7 @@ Forme chronique-persistante
 : En l'absence de traitement, survenue moyenne au moins 2 fois par semaine des épisodes l'année précédente.
 
 Forme intermittente
-: En l'absence de traitement, survenue moyenne < 2 fois par semaine des épisodes l'année précédente et au moins 5 épisodes sur la vie entière.
+: En l'absence de traitement, survenue moyenne < 2 fois par semaine l'année précédente et au moins 5 épisodes sur la vie entière.
 
 Mouvements périodiques des membres (MPM)
 : Mouvements involontaires de dorsiflexion de chevilles, orteils, flexion partielle de genou et parfois de hanche.  
@@ -93,9 +93,9 @@ Symptômes hebdomadaires 2,5% et quotidiens 1,9%.
 ### Facteurs de risque du syndrome des jambes sans repos
 
 - Âge
-- Antécédent familial (20%, 80% si enfant)
+- Antécédent familial (40%)
 - Carence martiale  
-{{%class%}}Prévalence de 25 à 35% si anémie.{{%/class%}}
+{{%class%}}Prévalence du SJSR de 25 à 35% si anémie.{{%/class%}}
 - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})  
 Aggravation par inhibiteurs calciques, PTH basse, CST bas, diabète de type 2.  
 {{%class%}}Prévalence de 15 à 68%.{{%/class%}}
@@ -146,7 +146,7 @@ Au moins aussi longtemps que dure cette activité.
 4. Apparition ou aggravation le soir ou la nuit
 5. Exclusion des diagnostics différentiels
 
-{{%class%}}Sensibilité 86% et spécificité > 90%.{{%/class%}}
+{{%class%}}IRLSSG 2012. Sensibilité 86% et spécificité > 90%.{{%/class%}}
 
 Intérêt de laisser le patient décrire ses symptômes, ou l'enfant avec ses mots.
 
@@ -353,7 +353,8 @@ Indications: SJS modéré à très sévère ({{< modal-btn modal-score-irls >}}s
 - Pas d'activité physique le soir
 - Éviter alcool, tabac et café
 - Avancer l'heure du coucher pour éviter l'endormissement au maximum des symptômes
-- Conseiller une activité intellectuelle minutieuse
+- Conseiller une activité intellectuelle minutieuse (mots-croisés...)
+- Massage énergique, bain chaud ou froid (Prescrire 2019)
 {{%/info%}}
 
 ### Correction d'une anémie et d'une carence martiale
@@ -370,19 +371,23 @@ Traitement de première intention avec une cible de ferritinémie > 75 ng/mL.
 Privilégier une supplémentation orale en surveillant la tolérance digestive du traitement.
 
 Proposition de la SFRMS: [Ferrostrane®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68994621&typedoc=R) 1-3 cuillères à café/j.  
-Voire Fumafer® ou Timoférol®.  
-Si échec: fer saccharose IV (Venofer®, préféré par Prescrire®).
+Voire Fumafer® (cp ou pdr) ou [Timoferol®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67843958&typedoc=R).  
+Si échec: fer saccharose IV (Venofer®, préféré par Prescrire®) en hôpital de jour.
 
 ### Traitement à la demande: antalgiques de palier 2
 
 Pour les SJSR avec ferritinémie > 75 ng/mL et persistances de symptômes "légers" ({{< modal-btn modal-score-irls >}}score IRLS{{< /modal-btn >}} ≤ 10).
 
 Prise à la demande ou en période de recrudescence des symptômes.  
-Prendre 1 à 2h avant l'apparition des symptômes.  
+Prendre 1 à 2h avant l'apparition des symptômes.
+
 Trouver la posologie minimale efficace à base de:
 
-- Tramadol non associé
-- ou codéine
+- Tramadol non associé  
+Débuter à 50 mg, augmentation si besoin jusqu'à 100 mg.
+- Codéine
+  - Débuter à 30 mg: paracetamol codéiné 500/30 mg
+  - Augmentation si besoin jusqu'à 60 mg voire plus de codéine.
 
 Adresser au spécialiste en cas de persistance de symptômes altérant la qualité de vie.
 
@@ -411,14 +416,15 @@ graph TB
   suspSJSR[Suspicion de SJSR]
   style suspSJSR stroke:#006ef4, stroke-width:1px
     suspSJSR -- Adulte --> criteres("<b>Critères diagnostiques ?</b><hr>- Besoin impérieux de bouger les jambes<br>- Apparition repos<br>- Amélioration mouvement<br>- Aggravation soir/nuit<br>- Exclusion d'autres diagnostics")
-      criteres -- Oui --> SJSR[SJS certain]
+      criteres -- Tous évidents --> SJSR[SJS certain]
+      criteres -- Doute diagnostique --> avis3(Avis du médecin<br>du sommeil)
       style SJSR stroke:#006ef4, stroke-width:1px
         SJSR --> RHD("<b>Mesures systématiques</b><hr>- Information du patient<br>- Correction des facteurs aggravants<br>- Adaptation des habitudes de vie")
           RHD --> ferritine(Ferritinémie ?)
             ferritine -- "&le; 75 ng/mL" --> correction(Supplémentation en fer<br>Contrôle à M3)
               correction --> ferritine
             ferritine -- "&gt; 75 ng/mL" --> IRLS(Score IRLS et<br>qualité de vie)
-              IRLS --> leger(<b>SJSR léger</b><br>Traitement à la demande<br>Tramadol ou codéine)
+              IRLS --> leger(<b>SJSR léger</b><br>Traitement à la demande<br>Tramadol 50 ou codéine 30)
                 leger -. Échec .-> avis2
               IRLS --> avis2(<b>SJSR modéré à très sévère</b><br>Avis du médecin<br>du sommeil)
       criteres -- Diagnostic différentiel --> differentiel("- Inconfort positionnel<br>- Tics<br>- Iatrogène<br>- Arthrite, blessure<br>- Œdème, insuffisance veineuse<br>- AOMI, acrosyndrome<br>- Sciatique, myalgie, neuropathie<br>- Autres")
@@ -432,8 +438,13 @@ graph TB
 {{%collapse "Sources" %}}
 
 - [Prescrire Redaction. Fer isomaltoside : pas plus de réactions d'hypersensibilité qu'avec le fer saccharose ?. Prescrire en questions. Revue Prescrire 2020; 40 : 469-470.](https://prescrire.org/)
+- [Prescrire Redaction. Jambes sans repos : soulager sans médicament. Août 2019.]((https://prescrire.org/))
 - [SFRMS, Limousin N. et al. Traitement du syndrome des jambes sans repos nouvellement diagnostiqué. Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 106-113.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302449?via%3Dihub)
 - [SFRMS, Leclair-Visonneau L et al. Comment poser le diagnostic d'un syndrome des jambes sans repos ? Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 97-105.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302437?via%3Dihub)
+- [Silber MH. et al; Medical Advisory Board of the Willis-Ekbom Disease Foundation. Willis-Ekbom Disease Foundation revised consensus statement on the management of restless legs syndrome. Mayo Clin Proc. 2013 Sep;88(9):977-86.](https://doi.org/10.1016/j.mayocp.2013.06.016)
+- [Aurora RN and al. Update to the AASM clinical practice guideline: “the treatment of restless legs syndrome and periodic limb movement disorder in adults—an update for 2012: practice parameters with an evidence-based systematic review and meta-analyses.” SLEEP 2012;35(8):1037.](https://aasm.org/clinical-resources/practice-standards/practice-guidelines/)
+- [IRLSSG. 2012 revised IRLSSG diagnostic criteria for RLS](http://irlssg.org/Diagnostic-criteria)
+- [Allen RP, Stillman P, Myers AJ. Physician-diagnosed restless legs syndrome in a large sample of primary medical care patients in western Europe: Prevalence and characteristics. Sleep Med. 2010 Jan;11(1):31-7.](https://pubmed.ncbi.nlm.nih.gov/19464949/)
 
 {{% /collapse %}}
 {{% modal title="Échelle internationale de sévérité du syndrome des jambes sans repos (IRLS)" id="modal-score-irls" size="lg"%}}
