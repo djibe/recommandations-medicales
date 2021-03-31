@@ -16,7 +16,7 @@ sctid = "128545000"
 draft = false
 image = true
 imageSrc = "Hernie inguinale de l'homme, myupchar.com, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "snfge, fmc-gastro"
+todo = "fmc-gastro, hernie ombilicale, éventration"
 +++
 
 {{%article-summary%}}
@@ -70,12 +70,10 @@ La hernie inguinale est très fréquente et atteint surtout l'homme. Elle est co
 - Recherche de l'orifice herniaire  
 {{%class%}}Charge le scrotum et recherche le canal inguinal où normalement le doigt ne peut s'infiltrer.{{%/class%}}
 - Prendre en compte la profession et le niveau d'activité physique
-- Sources d'hyper-pression abdominale  
+- Facteurs favorisants la hernie  
 BPCO et toux chronique, constipation, dysurie.
-- Troubles de cicatrisation  
-Diabète, artérite, corticothérapie.
 
-Pas d'examen complémentaires.
+Pas d'examen complémentaire.
 
 ### Diagnostic différentiel
 
@@ -91,7 +89,7 @@ Surtout chez la femme, tuméfaction à la racine de la cuisse, difficile en cas 
 
 ### Traitement de la hernie inguinale
 
-Adresser au chirurgien digestif pour une évaluer une chirurgie prophylactique par risque d'étranglement.  
+Adresser au chirurgien digestif pour évaluer une chirurgie prophylactique par risque d'étranglement.  
 Chirurgie systématique si hernie inguinale symptomatique avec risque anesthésique acceptable.  
 Chirurgie ambulatoire sous anesthésie locale avec fermeture de l'orifice.
 
@@ -100,7 +98,7 @@ Chirurgie ambulatoire sous anesthésie locale avec fermeture de l'orifice.
 
 - 95% sont congénitales, 80% de garçons
 - Le diagnostic est clinique
-- Pas d'examens complémentaires
+- Pas d'examen complémentaire
 - Fille: jamais de réduction car contient l'ovaire
 - Garçon: par persistance du canal péritonéo-vaginal.
 - Chirurgie systématique chez l'enfant > 6 mois
@@ -109,15 +107,17 @@ Chirurgie ambulatoire sous anesthésie locale avec fermeture de l'orifice.
 {{%collapse "Hernie crurale" %}}
 
 - Le diagnostic est clinique et atteint majoritairement les femmes
-- Pas d'examens complémentaires
+- Pas d'examen complémentaire
 - Chirurgie systématique par risque élevé d'étranglement herniaire
 
 {{% /collapse %}}
 {{%collapse "Hernie ombilicale de l'enfant" %}}
 
+{{%info%}}En cours de rédaction.{{%/info%}}
+
 Le diagnostic est clinique.
 
-Pas d'examens complémentaires.
+Pas d'examen complémentaire.
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

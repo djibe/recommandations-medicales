@@ -219,7 +219,7 @@ Dépistage identique au dépistage généralisé des cancers du sein et du colon
 
 Tous les 3 ans comme en population générale.  
 CD4+ < 200/mm³: frottis annuel.  
-Cancer classant Sida.
+La survenue de ce cancer définit l'entrée au stade Sida.
 
 ### Dépistage des cancers cutanéo-muqueux
 

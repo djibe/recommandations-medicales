@@ -228,7 +228,7 @@ Losartan, fénofibrate, atorvastatine, amlodipine.
 
 {{%warning%}}Informer systématiquement sur la nécessité d’interrompre immédiatement le traitement en cas de réaction cutanée et de consulter immédiatement un médecin.{{%/warning%}}
 
-{{%info%}}Traitement de fond à débuter dès que le diagnostic de goutte symptomatique est posé avec cible d'uricémie < 50 mg/L(SFRhumato).{{%/info%}}
+{{%info%}}Traitement de fond à débuter dès que le diagnostic de goutte symptomatique est posé avec cible d'uricémie < 50 mg/L (SFRhumato).{{%/info%}}
 
 {{%class-block%}}
 

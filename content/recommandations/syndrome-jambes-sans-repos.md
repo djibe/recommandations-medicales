@@ -40,16 +40,17 @@ Syndrome des jambes sans repos (SJSR)
 : Maladie chronique neurologique sensorimotrice entraînant un besoin impérieux de bouger les jambes (voire bras, hanche) selon l'occupation et le moment de la journée.  
 Il atteint préférentiellement les femmes et altère la qualité de vie. Le sous-diagnostic est majeur.  
 Le traitement est symptomatique et vise à réduire la plainte sans éradiquer les symptômes (épargne thérapeutique).
-: L'origine de la maladie est mal compris mais comporte une carence intra-cérébrale en **fer** (insuffisance de transport par les barrière hémato-encéphalique et neuronal) et des troubles du système **dopaminergique**.
+: L'origine de la maladie est mal comprise mais comporte une carence intra-cérébrale en **fer** (insuffisance de transport par les barrières hémato-encéphalique et neuronale) et des troubles du système **dopaminergique**.
 
 Forme chronique-persistante
-: En l'absence de traitement, survenue moyenne au moins 2 fois par semaine des épisodes l'année précédente.
+: En l'absence de traitement, survenue moyenne des symptômes au moins 2 fois par semaine durant l'année précédente.
 
 Forme intermittente
-: En l'absence de traitement, survenue moyenne < 2 fois par semaine l'année précédente et au moins 5 épisodes sur la vie entière.
+: En l'absence de traitement, survenue moyenne des symptômes < 2 fois par semaine durant l'année précédente  
+ET au moins 5 épisodes sur la vie entière.
 
 Mouvements périodiques des membres (MPM)
-: Mouvements involontaires de dorsiflexion de chevilles, orteils, flexion partielle de genou et parfois de hanche.  
+: Mouvements involontaires de dorsiflexion des chevilles, orteils, flexion partielle de genou et parfois de hanche.  
 Ils surviennent en veille calme, avant le sommeil ou pendant le sommeil. Prédominants en début de nuit, ils s'estompent sur la nuit.  
 Ils sont parfois détectés par le conjoint.
 : La survenue à l'éveil est spécifique, décrite comme des mouvements involontaires des jambes: << Mes jambes sautent/bougent toutes seules >>.
@@ -95,15 +96,15 @@ Symptômes hebdomadaires 2,5% et quotidiens 1,9%.
 - Âge
 - Antécédent familial (40%)
 - Carence martiale  
-{{%class%}}Prévalence du SJSR de 25 à 35% si anémie.{{%/class%}}
+{{%class text-black-secondary %}}Prévalence du SJSR de 25 à 35% si anémie.{{%/class%}}
 - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})  
 Aggravation par inhibiteurs calciques, PTH basse, CST bas, diabète de type 2.  
-{{%class%}}Prévalence de 15 à 68%.{{%/class%}}
+{{%class text-black-secondary %}}Prévalence de 15 à 68%.{{%/class%}}
 - Pathologie cardiovasculaire (moindre)
 - Migraine  
-{{%class%}}Prévalence de 9 à 39%.{{%/class%}}
+{{%class text-black-secondary %}}Prévalence de 9 à 39%.{{%/class%}}
 - Maladie de Parkinson traitée  
-{{%class%}}Prévalence de 11 à 24%.{{%/class%}}
+{{%class text-black-secondary %}}Prévalence de 11 à 24%.{{%/class%}}
 - Neuropathie périphérique
 
 ### Facteurs favorisants ou aggravants le SJSR
@@ -148,6 +149,7 @@ Au moins aussi longtemps que dure cette activité.
 
 {{%class%}}IRLSSG 2012. Sensibilité 86% et spécificité > 90%.{{%/class%}}
 
+Tous les critères doivent être remplis.  
 Intérêt de laisser le patient décrire ses symptômes, ou l'enfant avec ses mots.
 
 {{% /collapse %}}
@@ -164,7 +166,7 @@ Intérêt de laisser le patient décrire ses symptômes, ou l'enfant avec ses mo
 - Traitements essayés
 - Histoire de la maladie
   - Âge de début
-  - Évolution des symptômes sur le temps (syndrome d'augmentation)
+  - Évolution des symptômes dans le temps
   - Femme: survenue au cours d'une grossesse
 - Réponse au traitement dopaminergique  
 {{%class%}}Réponse initiale chez 3/4 des patients.{{%/class%}}
@@ -185,9 +187,9 @@ Immobile, au repos, allongé ou assis.
 Déclenchées ou augmentées au repos forcé (avion, théâtre, dîner, lit hôpital).
 - **Facteurs soulageants**  
   - La conjonction d'une attention accrue et de mouvements soulage les symptômes.  
-  {{%class%}}Conducteur au volant, travail sur ordinateur, écriture de texte complexe,bricolage, tricot.{{%/class%}}  
+  {{%class%}}Conducteur au volant, travail sur ordinateur, écriture de texte complexe, bricolage, tricot.{{%/class%}}  
   - Mouvement, frictions, eau froide.  
-  Obligés de se lever, marcher, étirer les jambes pour amélioration partielle ou totale,temporaire.
+  Obligés de se lever, marcher, étirer les jambes pour amélioration partielle ou totale, temporaire.
 - **Facteurs aggravants**  
 Attention diminuée (télévision, passager en transport).
 - **Fréquence**
@@ -424,7 +426,7 @@ graph TB
             ferritine -- "&le; 75 ng/mL" --> correction(Supplémentation en fer<br>Contrôle à M3)
               correction --> ferritine
             ferritine -- "&gt; 75 ng/mL" --> IRLS(Score IRLS et<br>qualité de vie)
-              IRLS --> leger(<b>SJSR léger</b><br>Traitement à la demande<br>Tramadol 50 ou codéine 30)
+              IRLS --> leger(<b>SJSR léger</b><br>Traitement à la demande<br>Tramadol 50 ou codéine 30 mg)
                 leger -. Échec .-> avis2
               IRLS --> avis2(<b>SJSR modéré à très sévère</b><br>Avis du médecin<br>du sommeil)
       criteres -- Diagnostic différentiel --> differentiel("- Inconfort positionnel<br>- Tics<br>- Iatrogène<br>- Arthrite, blessure<br>- Œdème, insuffisance veineuse<br>- AOMI, acrosyndrome<br>- Sciatique, myalgie, neuropathie<br>- Autres")

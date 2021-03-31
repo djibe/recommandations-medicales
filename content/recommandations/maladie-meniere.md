@@ -16,12 +16,13 @@ sctid = "13445001"
 draft = false
 image = true
 imageSrc = "Oreille interne. Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "ttt, score AAO, stop-bang modal, https://pubmed.ncbi.nlm.nih.gov/19195928/"
+todo = "ttt betahistine, score AAO, https://pubmed.ncbi.nlm.nih.gov/19195928/"
 +++
 
 {{%article-summary%}}
 
-TODO:
+- Tétrade: vertiges, surdité unilatérale, acouphènes et plénitude de l'oreille chez un sujet d'âge moyen
+- Bilan biologique et IRM pour l'avis ORL
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

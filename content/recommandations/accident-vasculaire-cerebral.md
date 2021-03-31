@@ -16,7 +16,7 @@ sctid = "230690007"
 draft = false
 image = true
 imageSrc = "Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
-todo = "rééduc, fiche standardisée du recueil événements à imprimer"
+todo = "rééduc, fiche standardisée du recueil événements à imprimer, bilan étiologique"
 +++
 
 {{%article-summary%}}

@@ -17,12 +17,15 @@ draft = true
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = ""
+todo = "score Wells de l'EP et révisé de Genève"
 +++
 
 {{%article-summary%}}
 
-- Toute suspicion d'EP doit être adressée aux urgences
+- Évoquer devant une dyspnée, douleur thoracique ou malaise non expliqué par un autre diagnostic
+- La suspicion clinique d'un cas stable est évaluée avec le score de Genève ou de Wells
+- Une suspicion faible d'EP peut être infirmée par la règle PERC
+- Adresser aux urgences toute suspicion d'EP ne répondant pas au cas ci-dessus
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -65,17 +68,17 @@ TODO: Score révisé de Genève (3 niveaux) | Score de Wells
 {{% /collapse %}}
 {{%collapse "Éliminer une embolie pulmonaire - Règle PERC" %}}
 
-La **règle PERC** permet d'éliminer une suspicion faible d'embolie pulmonaire avant 50 ans en-dehors de la grossesse et du post-partum.  
+La **règle PERC** permet d'éliminer une suspicion faible d'embolie pulmonaire avant 50 ans **en-dehors de la grossesse et du post-partum**.  
 L'hémodynamique doit être stable.
 
-La réponse au 8 questions doit être négative pour infirmer une suspicion faible d'EP:
+La réponse aux 8 questions suivantes doit être négative pour infirmer une suspicion faible d'EP:
 
 1. Âge ≥ 50 ans
 2. Fréquence cardiaque ≥ 100/min
 3. SpO<sub>2</sub> < 95% AA
 4. Hémoptysie ?
 5. Œdème unilatéral d’un membre inférieur ?
-6. Traitement estrogénique ?
+6. Traitement œstrogénique ?
 7. Antécédent personnel MVTE ?
 8. Hospitalisation pour traumatisme ou chirurgie sous AG dans les 4 dernières semaines ?
 

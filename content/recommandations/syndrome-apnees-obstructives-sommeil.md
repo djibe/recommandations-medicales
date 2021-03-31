@@ -103,7 +103,8 @@ Visibles uniquement à l’EEG et donc invisible à la polygraphie ventilatoire 
 
 Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire ou pharmacie ou internes en médecine, étrangers titulaires de diplômes équivalents.
 
-> [*Université Paris Descartes*](https://odf.u-paris.fr/fr/offre-de-formation/diplome-d-universite-du-diu-1/sciences-technologies-sante-STS/diu-le-sommeil-et-sa-pathologie-IGXS3RYI.html)
+- [Université Paris Descartes](https://odf.u-paris.fr/fr/offre-de-formation/diplome-d-universite-du-diu-1/sciences-technologies-sante-STS/diu-le-sommeil-et-sa-pathologie-IGXS3RYI.html)
+- [Lyon 1](http://offre-de-formations.univ-lyon1.fr/parcours-658/physiologie-et-pathologie-du-sommeil.html)
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}

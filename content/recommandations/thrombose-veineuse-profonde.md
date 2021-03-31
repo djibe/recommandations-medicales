@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "RIETE avec NFS et créat, mieux est Wells ou Wells modifié?, proba forte et doppler neg?, éducation AVK, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/"
+todo = "RIETE nécessite bio NFS et créat, mieux est Wells ou Wells modifié?, proba forte et doppler neg?, éducation AVK, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/, IRC avec CDK-EPI ou cockroft ?"
 +++
 
 Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'état.
@@ -108,7 +108,7 @@ TVP certaine.
 - Hémorragie active ou risque hémorragique élevé  
 {{%class "text-black-secondary"%}}Voir le score hémorragique RIETE plus bas.{{%/class%}}
 - Insuffisance rénale sévère  
-{{%class "text-black-secondary"%}}Cockroft < 30 mL/min.{{%/class%}}
+{{%class "text-black-secondary"%}}{{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 30 mL/min.{{%/class%}}
 - Cancer ou comorbidités à risque de décompensation
 - Contexte médico-social ou géographique défavorable
 - Absence d'entourage
@@ -151,10 +151,10 @@ puis 5 mg x 2/j au moins 3 mois
 2 AOD ont l'AMM pour la TVP:
 
 - [Apixaban 5 mg 2cp x 2/j](https://ec.europa.eu/health/documents/community-register/2021/20210111150212/anx_150212_fr.pdf)  
-CI quand Cockroft < 25 mL/min.  
+CI quand {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 25 mL/min.  
 Préféré par Prescrire®.
 - Rivaroxaban 15 mg x 2/j  
-CI quand Cockroft < 30 mL/min.
+CI quand {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 30 mL/min.
 
 Pas de traitement héparinique préalable, posologie fixe sans adaptation.  
 Avec éducation thérapeutique.  
@@ -228,3 +228,8 @@ graph TB
 - https://journals.lww.com/ejanaesthesiology/fulltext/2018/02000/european_guidelines_on_perioperative_venous.2.aspx
 
 {{% /collapse %}}
+{{% modal title="Clairance selon Cockroft" id="modal-score-cockroft"%}}
+
+{{< scores/cockroft >}}
+
+{{% /modal %}}

@@ -23,6 +23,7 @@ todo = "revoir def, clinique, provoquée ou non, classes contention, revoir mol�
 {{%article-summary%}}
 
 - Échodoppler veineux systématique pour éliminer une TVP surajoutée
+- Femme: une TVS bannit l'utilisation des œstrogènes
 
 TODO:
 
@@ -53,6 +54,8 @@ Systématique en suspicion de TVS afin de ne pas méconnaître une TVP.
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
+Femmes: la survenue d'une TVS contre-indique l'utilisation des œstrogènes.
+
 ### Anticoagulation
 
 Ne pas utiliser d'AOD en première intention.  
@@ -79,10 +82,14 @@ Première récidive de TVS non provoquée (doses préventives): Fondaparinux SC 
 
 Cancer
 : Discussion au cas par cas de la poursuite de l'anticoagulation préventive > 45 jours.
-: Si extension sous anticoagulation préventive confirmée au doppler: HBPM dose curative pendant 3 mois.
+: En cas d'extension de la thrombose sous anticoagulation préventive (confirmée au doppler): HBPM *curative* pendant 3 mois.
 
 Grossesse
-: dd
+: HBPM *préventive* (pas de fondaparinux).
+: Discussion au cas par cas de la prolongation au-delà de 45 jours et pendant le post-partum.
+
+Insuffisance rénale sévère
+: Seule la tinzaparine à dose *préventive* doit être utilisée pour une clairance de 20 à 30 mL/min.
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une TVS" "show" %}}
