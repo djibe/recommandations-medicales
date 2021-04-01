@@ -55,7 +55,7 @@ Mortalité hospitalière: 5%
 
 Sauf critères de gravité, utiliser l'un de ces scores validés pour déterminer la probabilité clinique d'embolie pulmonaire.
 
-TODO: Score révisé de Genève (3 niveaux) | Score de Wells
+{{< scores/wells-ep >}}
 
 ### Signes cliniques d'une embolie pulmonaire
 
@@ -68,8 +68,10 @@ TODO: Score révisé de Genève (3 niveaux) | Score de Wells
 {{% /collapse %}}
 {{%collapse "Éliminer une embolie pulmonaire - Règle PERC" %}}
 
+{{%info%}}
 La **règle PERC** permet d'éliminer une suspicion faible d'embolie pulmonaire avant 50 ans **en-dehors de la grossesse et du post-partum**.  
 L'hémodynamique doit être stable.
+{{%/info%}}
 
 La réponse aux 8 questions suivantes doit être négative pour infirmer une suspicion faible d'EP:
 

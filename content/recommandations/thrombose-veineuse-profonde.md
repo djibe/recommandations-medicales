@@ -57,7 +57,7 @@ Rechercher des signes d'embolie pulmonaire: dyspnée, malaise, tachycardie et do
 En l'absence de signes d'EP, il est recommandé d'utiliser un des scores ci-dessous plutôt qu'une appréciation clinique pour l'évaluation d'une suspicion de thrombose veineuse profonde.  
 Utiliser le score LEFt chez la femme enceinte.
 
-{{< scores/wells >}}
+{{< scores/wells-tvp >}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

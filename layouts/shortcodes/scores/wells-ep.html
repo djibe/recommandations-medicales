@@ -1,0 +1,170 @@
+<div class="card my-3 my-xl-5">
+  <ul class="nav nav-justified nav-tabs" id="justifiedTab" role="tablist">
+    <li class="nav-item">
+      <a aria-controls="wells-ep-tab" aria-selected="true" class="nav-link active" data-toggle="tab" href="#wells-ep-tab" id="wells-ep-nav" role="tab">Wells</a></li>
+    <li class="nav-item">
+      <a aria-controls="geneve-ep-tab" aria-selected="false" class="nav-link" data-toggle="tab" href="#geneve-ep-tab" id="geneve-ep-nav" role="tab">Genève révisé</a></li>
+  </ul>
+  <div class="card-body tab-content" id="score-clinique-ep">
+    <div aria-labelledby="wells-ep-nav" class="tab-pane fade show active" id="wells-ep-tab" role="tabpanel">
+      <h4 class="card-title">Score de Wells pour l'embolie pulmonaire</h4>
+      <h5 class="card-subtitle mb-lg-4">Version originale à 3 catégories</h5>
+      <fieldset class="form-group">
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells-ep-1" class="custom-control-input" value="3">
+          <label class="custom-control-label" for="wells-ep-1">Signes et symptômes de TVP</label>
+          <p class="typography-caption text-black-secondary">Gonflement et douleur</p>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells-ep-2" class="custom-control-input" value="3">
+          <label class="custom-control-label" for="wells-ep-2">Diagnostic différentiel moins probable que l'EP</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells-ep-3" class="custom-control-input" value="1.5">
+          <label class="custom-control-label" for="wells-ep-3">Fréquence cardiaque &gt; 100/min</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells-ep-4" class="custom-control-input" value="1.5">
+          <label class="custom-control-label" for="wells-ep-4">Immobilisation ou chirurgie sous AG &lt; 4 semaines</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells-ep-5" class="custom-control-input" value="1.5">
+          <label class="custom-control-label" for="wells-ep-5">Antécédent personnel de TVP ou EP</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells-ep-6" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="wells-ep-6">Hémoptysie</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="wells-ep-7" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="wells-ep-7">Cancer en cours</label>
+          <p class="typography-caption text-black-secondary">Traitement en cours, &lt; 6 mois ou palliatif</p>
+        </div>
+      </fieldset>
+      <div class="alert bg-light d-flex mt-md-4">
+        <div class="d-flex flex-column align-items-center">
+          <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score de Wells</p>
+          <span class="font-weight-bold" id="wellsEpScore" style="font-size:2rem">0</span>
+        </div>
+        <p id="wellsEpText" class="lead m-auto"><b>Probabilité clinique faible</b></p>
+      </div>
+    </div>
+    <div aria-labelledby="geneve-ep-nav" class="tab-pane fade" id="geneve-ep-tab" role="tabpanel">
+      <h4 class="card-title">Score de révisé de Genève</h4>
+      <h5 class="card-subtitle mb-lg-4">Version originale à 3 catégories</h5>
+      <div class="form-group">
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="geneve-ep-1" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="geneve-ep-1">Âge &gt; 65 ans</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="geneve-ep-2" class="custom-control-input" value="3">
+          <label class="custom-control-label" for="geneve-ep-2">Antécédent personnel de TVP ou EP</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="geneve-ep-3" class="custom-control-input" value="2">
+          <label class="custom-control-label" for="geneve-ep-3">Immobilisation ou chirurgie sous AG &lt; 4 semaines</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="geneve-ep-4" class="custom-control-input" value="2">
+          <label class="custom-control-label" for="geneve-ep-4">Cancer actif</label>
+          <p class="typography-caption text-black-secondary">Traitement en cours, &lt; 6 mois ou palliatif</p>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="geneve-ep-5" class="custom-control-input" value="3">
+          <label class="custom-control-label" for="geneve-ep-5">Douleur de jambe unilatérale</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="geneve-ep-6" class="custom-control-input" value="2">
+          <label class="custom-control-label" for="geneve-ep-6">Hémoptysie</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="geneve-ep-7" class="custom-control-input" value="3">
+          <label class="custom-control-label" for="geneve-ep-7">Fréquence cardiaque entre 75 et 94/min</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="geneve-ep-8" class="custom-control-input" value="5">
+          <label class="custom-control-label" for="geneve-ep-8">Fréquence cardiaque &ge; 95/min</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="geneve-ep-9" class="custom-control-input" value="4">
+          <label class="custom-control-label" for="geneve-ep-9">Douleur à la palpation et œdème unilatéral de jambe</label>
+        </div>
+      </div>
+      <div class="alert bg-light d-flex mt-md-4">
+        <div class="d-flex flex-column align-items-center">
+          <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score de Genève</p>
+          <span class="font-weight-bold" id="geneveEpScore" style="font-size:2rem">0</span>
+        </div>
+        <p id="geneveEpText" class="lead m-auto"><b>Probabilité clinique faible</b></p>
+      </div>
+    </div>
+  </div>
+</div>
+{{ $script := `
+  // Score de Wells/Révisé de Genève by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scoreElem = document.getElementById('wellsEpScore')
+    const textElem = document.getElementById('wellsEpText')
+    const scoreGeneve = document.getElementById('geneveEpScore')
+    const textGeneve = document.getElementById('geneveEpText')
+    const radioElems = document.querySelectorAll('#score-clinique-ep input[type=\"checkbox\"]')
+    const panels = document.querySelectorAll('.nav-tabs .nav-link')
+    radioElems.forEach((radioElem) => { radioElem.addEventListener('click', () => {
+      wellsEp()
+      geneveRevise()
+    }) })
+    // Reset counter on tab switch
+    panels.forEach((panel) => { panel.addEventListener('click', () => {
+        reset()
+      })
+    })
+    const reset = () => {
+      radioElems.forEach(radio => {
+        radio.checked = false
+        scoreElem.innerHTML = 0
+        textElem.innerHTML = '<b>Probabilité clinique faible</b>'
+        scoreGeneve.innerHTML = 0
+        textGeneve.innerHTML = 'TODO'
+      })
+    }
+    const wellsEp = () => {
+      let score = 0
+      const radioElemsChecked = document.querySelectorAll('#score-clinique-ep input[type=\"checkbox\"]:checked')
+        radioElemsChecked.forEach(radioChecked => {
+        score += parseInt(radioChecked.value, 10)
+        scoreElem.innerHTML = score
+        if (score < 2) {
+          textElem.innerHTML = '<b>Probabilité clinique faible</b>'
+        } else if (score >= 2 && score <= 6) {
+          textElem.innerHTML = '<b>Probabilité clinique modérée</b>'
+        } else if (score >  6) {
+          textElem.innerHTML = '<b>Probabilité clinique élevée</b>'
+        }
+      })
+      if (radioElemsChecked.length === 0) {
+        scoreElem.innerHTML = 0
+        textElem.innerHTML = '<b>Probabilité clinique faible</b>'
+      }
+    }
+    const geneveRevise = () => {
+      let score = 0
+      const radioElemsChecked = document.querySelectorAll('#score-clinique-ep input[type=\"checkbox\"]:checked')
+        radioElemsChecked.forEach(radioChecked => {
+        score += parseInt(radioChecked.value, 10)
+        scoreGeneve.innerHTML = score
+        if (score <= 3) {
+          textGeneve.innerHTML = '<b>Probabilité clinique faible</b>'
+        } else if (score >= 4 && score <= 10) {
+          textGeneve.innerHTML = '<b>Probabilité clinique modérée</b>'
+        } else if (score >= 1) {
+          textGeneve.innerHTML = '<b>Probabilité clinique forte</b>'
+        }
+        })
+      if (radioElemsChecked.length === 0) {
+        scoreGeneve.innerHTML = 0
+        textGeneve.innerHTML = '<b>Probabilité clinique faible</b>'
+      }
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>
