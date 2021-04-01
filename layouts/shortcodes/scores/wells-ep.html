@@ -46,7 +46,7 @@
           <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score de Wells</p>
           <span class="font-weight-bold" id="wellsEpScore" style="font-size:2rem">0</span>
         </div>
-        <p id="wellsEpText" class="lead m-auto"><b>Probabilité clinique faible</b></p>
+        <p id="wellsEpText" class="lead m-auto"><b>Probabilité clinique faible</b><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences</p>
       </div>
     </div>
     <div aria-labelledby="geneve-ep-nav" class="tab-pane fade" id="geneve-ep-tab" role="tabpanel">
@@ -96,7 +96,7 @@
           <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score de Genève</p>
           <span class="font-weight-bold" id="geneveEpScore" style="font-size:2rem">0</span>
         </div>
-        <p id="geneveEpText" class="lead m-auto"><b>Probabilité clinique faible</b></p>
+        <p id="geneveEpText" class="lead m-auto"><b>Probabilité clinique faible</b><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences</p>
       </div>
     </div>
   </div>
@@ -110,6 +110,9 @@
     const textGeneve = document.getElementById('geneveEpText')
     const radioElems = document.querySelectorAll('#score-clinique-ep input[type=\"checkbox\"]')
     const panels = document.querySelectorAll('.nav-tabs .nav-link')
+    constTextFaible = '<b>Probabilité clinique faible</b><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences'
+    constTextModeree = '<b>Probabilité clinique intermédiaire</b><br>D-dimères aux Urgences'
+    constTextElevee = '<b>Probabilité clinique forte</b><br>Urgences pour angioscanner'
     radioElems.forEach((radioElem) => { radioElem.addEventListener('click', () => {
       wellsEp()
       geneveRevise()
@@ -123,9 +126,9 @@
       radioElems.forEach(radio => {
         radio.checked = false
         scoreElem.innerHTML = 0
-        textElem.innerHTML = '<b>Probabilité clinique faible</b>'
+        textElem.innerHTML = constTextFaible
         scoreGeneve.innerHTML = 0
-        textGeneve.innerHTML = 'TODO'
+        textGeneve.innerHTML = constTextFaible
       })
     }
     const wellsEp = () => {
@@ -135,16 +138,16 @@
         score += parseInt(radioChecked.value, 10)
         scoreElem.innerHTML = score
         if (score < 2) {
-          textElem.innerHTML = '<b>Probabilité clinique faible</b>'
+          textElem.innerHTML = constTextFaible
         } else if (score >= 2 && score <= 6) {
-          textElem.innerHTML = '<b>Probabilité clinique modérée</b>'
+          textElem.innerHTML = constTextModeree
         } else if (score >  6) {
-          textElem.innerHTML = '<b>Probabilité clinique élevée</b>'
+          textElem.innerHTML = constTextElevee
         }
       })
       if (radioElemsChecked.length === 0) {
         scoreElem.innerHTML = 0
-        textElem.innerHTML = '<b>Probabilité clinique faible</b>'
+        textElem.innerHTML = constTextFaible
       }
     }
     const geneveRevise = () => {
@@ -154,16 +157,16 @@
         score += parseInt(radioChecked.value, 10)
         scoreGeneve.innerHTML = score
         if (score <= 3) {
-          textGeneve.innerHTML = '<b>Probabilité clinique faible</b>'
+          textGeneve.innerHTML = constTextFaible
         } else if (score >= 4 && score <= 10) {
-          textGeneve.innerHTML = '<b>Probabilité clinique modérée</b>'
+          textGeneve.innerHTML = constTextModeree
         } else if (score >= 1) {
-          textGeneve.innerHTML = '<b>Probabilité clinique forte</b>'
+          textGeneve.innerHTML = constTextElevee
         }
         })
       if (radioElemsChecked.length === 0) {
         scoreGeneve.innerHTML = 0
-        textGeneve.innerHTML = '<b>Probabilité clinique faible</b>'
+        textGeneve.innerHTML = constTextFaible
       }
     }
   })` }}

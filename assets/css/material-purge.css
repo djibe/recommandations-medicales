@@ -1244,6 +1244,31 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   margin-top: 1.25rem;
 }
 
+/* .btn-group-fluid {
+  background-color: transparent;
+  box-shadow: none;
+} */
+[data-toggle='buttons'] > .btn {
+  margin-bottom: 0;
+}
+
+[data-toggle='buttons'] > .btn [type='checkbox'],
+[data-toggle='buttons'] > .btn [type='radio'] {
+  clip: rect(0, 0, 0, 0);
+  pointer-events: none;
+  position: absolute;
+}
+
+/* .btn-sm + .dropdown-toggle-split {
+  padding-right: $btn-padding-x-sm * .75;
+  padding-left: $btn-padding-x-sm * .75;
+}
+
+.btn-lg + .dropdown-toggle-split {
+  padding-right: $btn-padding-x-lg * .75;
+  padding-left: $btn-padding-x-lg * .75;
+} */
+
 .card {
   background-color: #ffffff;
   border-radius: 0;

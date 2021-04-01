@@ -65,7 +65,7 @@ Anorexigènes, immunothérapies...
 {{% /collapse %}}
 {{%collapse "Dépistage systématique" %}}
 
-Dépistage systématique de l'HTAP par ETT dans les pathologies à risque:
+Dépistage systématique de l'HTAP par échocardiographie dans les pathologies à risque:
 
 - Cardiopathie congénitale
 - Insuffisance respiratoire chronique
@@ -97,7 +97,7 @@ Insuffisance tricuspidienne ou pulmonaire.
 ### Interrogatoire
 
 - Antécédents personnels  
-  - Embolie pulmonaire et [TVP]({{< relref "thrombose-veineuse-profonde.md" >}}), cardiopathie congénitale, sclérodermie, [VIH]({{< relref "vih-sida.md" >}}), hypertension portale, bilharziose
+  - [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) et [TVP]({{< relref "thrombose-veineuse-profonde.md" >}}), cardiopathie congénitale, sclérodermie, [VIH]({{< relref "vih-sida.md" >}}), hypertension portale, bilharziose
   - Asthme, BPCO, tabagisme
 - Facteurs de risque cardiovasculaires
 - Antécédent familial d'HTAP
