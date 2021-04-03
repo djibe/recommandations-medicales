@@ -59,7 +59,7 @@
         <p><a href="https://browser.ihtsdotools.org/?perspective=full&conceptId1={{.}}&release=&languages=en" target="_blank" rel="nofollow noopener" data-toggle="tooltip" title="La terminologie médicale de référence">{{ . }}</a></p>{{ end }}
 
         <p class="typography-overline mt-4">Dernières fiches</p>
-        {{ range first 4 ( where .Site.RegularPages "Section" "recommandations") }}
+        {{ range first 6 ( where .Site.RegularPages "Section" "recommandations") }}
         <p class="typography-body-2 font-weight-bold">
           <a href="{{ .RelPermalink }}">{{ .Title }} <span class="text-muted ml-2" aria-hidden="true">{{ .Lastmod.Format "2 Jan"}}</span></a>
         </p>

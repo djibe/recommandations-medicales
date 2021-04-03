@@ -204,6 +204,11 @@ dd:not([class*='col']) {
   padding-left: 2.5rem;
 }
 
+dd:not([class*='col']) > ol,
+dd:not([class*='col']) > ul {
+  padding-left: 0;
+}
+
 blockquote {
   margin: 0 0 1rem;
 }
@@ -305,7 +310,7 @@ th {
   text-align: -webkit-match-parent;
 }
 
-label {
+label, legend {
   font-size: 0.75rem;
   font-weight: 400;
   letter-spacing: 0.033333em;
@@ -371,7 +376,8 @@ button:not(:disabled),
 }
 
 .btn:not(.disabled):not(:disabled), .card-link:not(.disabled):not(:disabled),
-input:enabled + label:hover {
+input:enabled + label:hover,
+input:enabled + legend:hover {
   cursor: pointer;
 }
 
@@ -1879,7 +1885,7 @@ a.close.disabled {
 }
 
 @media (min-width: 576px) {
-  .form-inline label {
+  .form-inline label, .form-inline legend {
     align-items: center;
     display: flex;
     justify-content: center;
@@ -6158,7 +6164,6 @@ input:disabled + .chip {
 .custom-control-label::after {
   color: rgba(0, 0, 0, 0.54);
   display: block;
-  opacity: 0.54;
   position: absolute;
   top: 0rem;
   left: 0;
@@ -6205,7 +6210,7 @@ input:disabled + .chip {
 }
 
 .custom-checkbox .custom-control-label::after {
-  content: url('data:image/svg+xml,%3csvg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"%3e%3cpath d="M0 0h24v24H0z" fill="none"/%3e%3cpath d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"/%3e%3c/svg%3e');
+  content: url('data:image/svg+xml,%3csvg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" opacity="0.54"%3e%3cpath d="M0 0h24v24H0z" fill="none"/%3e%3cpath d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"/%3e%3c/svg%3e');
 }
 
 .custom-checkbox .custom-control-input {
@@ -6539,6 +6544,16 @@ input:disabled + .chip {
   overflow-x: auto;
   overflow-y: hidden;
   padding-left: 2.5rem;
+}
+
+fieldset {
+  border: 0;
+  margin-bottom: 1.5rem;
+  padding: 0;
+}
+
+legend {
+  margin-bottom: 0.5rem;
 }
 
 .form-control, .custom-select, .form-control-file {
@@ -7014,7 +7029,7 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   padding-right: calc(1.5rem + 0.5rem);
 }
 
-[class*='form-ripple']:focus-within label:not(.custom-control-label):not(.form-check-label):not(.btn):not(.card-link) {
+[class*='form-ripple']:focus-within label:not(.custom-control-label):not(.form-check-label):not(.btn):not(.card-link), [class*='form-ripple']:focus-within legend:not(.custom-control-label):not(.form-check-label):not(.btn):not(.card-link) {
   color: #e87500;
 }
 
@@ -7168,8 +7183,9 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   position: relative;
 }
 
-.floating-label.has-value label,
-.floating-label.is-focused label {
+.floating-label.has-value label, .floating-label.has-value legend,
+.floating-label.is-focused label,
+.floating-label.is-focused legend {
   top: 0;
   transform: scale(0.75);
 }
@@ -7178,7 +7194,7 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   color: transparent;
 }
 
-.floating-label label {
+.floating-label label, .floating-label legend {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -7227,13 +7243,15 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   }
 }
 
-.floating-label-lg.has-value label, .input-group-lg > .has-value.floating-label label,
+.floating-label-lg.has-value label, .input-group-lg > .has-value.floating-label label, .floating-label-lg.has-value legend, .input-group-lg > .has-value.floating-label legend,
 .floating-label-lg.is-focused label,
-.input-group-lg > .is-focused.floating-label label {
+.input-group-lg > .is-focused.floating-label label,
+.floating-label-lg.is-focused legend,
+.input-group-lg > .is-focused.floating-label legend {
   transform: scale(0.411765);
 }
 
-.floating-label-lg label, .input-group-lg > .floating-label label {
+.floating-label-lg label, .input-group-lg > .floating-label label, .floating-label-lg legend, .input-group-lg > .floating-label legend {
   font-size: 2.125rem;
   line-height: 1.176471;
   top: 1.5rem;
@@ -7253,13 +7271,15 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   padding: 0.875rem 1rem calc(0.875rem - 1px);
 }
 
-.floating-label-sm.has-value label, .input-group-sm > .has-value.floating-label label,
+.floating-label-sm.has-value label, .input-group-sm > .has-value.floating-label label, .floating-label-sm.has-value legend, .input-group-sm > .has-value.floating-label legend,
 .floating-label-sm.is-focused label,
-.input-group-sm > .is-focused.floating-label label {
+.input-group-sm > .is-focused.floating-label label,
+.floating-label-sm.is-focused legend,
+.input-group-sm > .is-focused.floating-label legend {
   transform: scale(0.769231);
 }
 
-.floating-label-sm label, .input-group-sm > .floating-label label {
+.floating-label-sm label, .input-group-sm > .floating-label label, .floating-label-sm legend, .input-group-sm > .floating-label legend {
   font-size: 0.8125rem;
   line-height: 1.538462;
   top: 1.0rem;
@@ -7283,13 +7303,14 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   padding-top: 0;
 }
 
-.floating-label.textfield-box.has-value label,
-.floating-label.textfield-box.is-focused label {
+.floating-label.textfield-box.has-value label, .floating-label.textfield-box.has-value legend,
+.floating-label.textfield-box.is-focused label,
+.floating-label.textfield-box.is-focused legend {
   line-height: 1;
   top: 0.5rem;
 }
 
-.floating-label.textfield-box label {
+.floating-label.textfield-box label, .floating-label.textfield-box legend {
   color: rgba(0, 0, 0, 0.6);
   top: 1rem;
   left: 1rem;
@@ -7308,11 +7329,13 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   padding-bottom: calc(0.5rem - 1px);
 }
 
-.floating-label.is-focused label {
+
+.floating-label.is-focused label,
+.floating-label.is-focused legend {
   color: rgba(232, 117, 0, 0.87);
 }
 
-.floating-label-lg.textfield-box label, .input-group-lg > .textfield-box.floating-label label {
+.floating-label-lg.textfield-box label, .input-group-lg > .textfield-box.floating-label label, .floating-label-lg.textfield-box legend, .input-group-lg > .textfield-box.floating-label legend {
   top: 0.875rem;
   left: 1rem;
 }
@@ -7337,7 +7360,7 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   padding-right: 1.5em;
 }
 
-.floating-label-sm.textfield-box label, .input-group-sm > .textfield-box.floating-label label {
+.floating-label-sm.textfield-box label, .input-group-sm > .textfield-box.floating-label label, .floating-label-sm.textfield-box legend, .input-group-sm > .textfield-box.floating-label legend {
   top: 0.75rem;
   left: 0.75rem;
 }
@@ -7570,13 +7593,15 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   margin-top: 0.75rem;
 }
 
-.input-group-lg > .floating-label.has-value label,
-.input-group-lg > .floating-label.is-focused label {
+.input-group-lg > .floating-label.has-value label, .input-group-lg > .floating-label.has-value legend,
+.input-group-lg > .floating-label.is-focused label,
+.input-group-lg > .floating-label.is-focused legend {
   top: 0;
 }
 
-.input-group-lg > .floating-label.textfield-box.has-value label,
-.input-group-lg > .floating-label.textfield-box.is-focused label {
+.input-group-lg > .floating-label.textfield-box.has-value label, .input-group-lg > .floating-label.textfield-box.has-value legend,
+.input-group-lg > .floating-label.textfield-box.is-focused label,
+.input-group-lg > .floating-label.textfield-box.is-focused legend {
   top: 0.5rem;
 }
 
@@ -7614,13 +7639,15 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   line-height: 1.176471;
 }
 
-.input-group-sm > .floating-label.has-value label,
-.input-group-sm > .floating-label.is-focused label {
+.input-group-sm > .floating-label.has-value label, .input-group-sm > .floating-label.has-value legend,
+.input-group-sm > .floating-label.is-focused label,
+.input-group-sm > .floating-label.is-focused legend {
   top: 0;
 }
 
-.input-group-sm > .floating-label.textfield-box.has-value label,
-.input-group-sm > .floating-label.textfield-box.is-focused label {
+.input-group-sm > .floating-label.textfield-box.has-value label, .input-group-sm > .floating-label.textfield-box.has-value legend,
+.input-group-sm > .floating-label.textfield-box.is-focused label,
+.input-group-sm > .floating-label.textfield-box.is-focused legend {
   top: 0.5rem;
 }
 

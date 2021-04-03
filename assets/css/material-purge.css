@@ -173,6 +173,11 @@ dd:not([class*='col']) {
   padding-left: 2.5rem;
 }
 
+dd:not([class*='col']) > ol,
+dd:not([class*='col']) > ul {
+  padding-left: 0;
+}
+
 blockquote {
   margin: 0 0 1rem;
 }
@@ -267,7 +272,7 @@ th {
   text-align: -webkit-match-parent;
 }
 
-label {
+label, legend {
   font-size: 0.75rem;
   font-weight: 400;
   letter-spacing: 0.033333em;
@@ -328,7 +333,8 @@ button:not(:disabled),
 }
 
 .btn:not(.disabled):not(:disabled),
-input:enabled + label:hover {
+input:enabled + label:hover,
+input:enabled + legend:hover {
   cursor: pointer;
 }
 
@@ -870,7 +876,7 @@ button.close {
 }
 
 @media (min-width: 576px) {
-  .form-inline label {
+  .form-inline label, .form-inline legend {
     align-items: center;
     display: flex;
     justify-content: center;
@@ -1243,31 +1249,6 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
 .fab-actions > .btn {
   margin-top: 1.25rem;
 }
-
-/* .btn-group-fluid {
-  background-color: transparent;
-  box-shadow: none;
-} */
-[data-toggle='buttons'] > .btn {
-  margin-bottom: 0;
-}
-
-[data-toggle='buttons'] > .btn [type='checkbox'],
-[data-toggle='buttons'] > .btn [type='radio'] {
-  clip: rect(0, 0, 0, 0);
-  pointer-events: none;
-  position: absolute;
-}
-
-/* .btn-sm + .dropdown-toggle-split {
-  padding-right: $btn-padding-x-sm * .75;
-  padding-left: $btn-padding-x-sm * .75;
-}
-
-.btn-lg + .dropdown-toggle-split {
-  padding-right: $btn-padding-x-lg * .75;
-  padding-left: $btn-padding-x-lg * .75;
-} */
 
 .card {
   background-color: #ffffff;
@@ -2600,7 +2581,6 @@ input:disabled + .chip {
 .custom-control-label::after {
   color: rgba(0, 0, 0, 0.54);
   display: block;
-  opacity: 0.54;
   position: absolute;
   top: 0rem;
   left: 0;
@@ -2634,7 +2614,7 @@ input:disabled + .chip {
 }
 
 .custom-checkbox .custom-control-label::after {
-  content: url('data:image/svg+xml,%3csvg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"%3e%3cpath d="M0 0h24v24H0z" fill="none"/%3e%3cpath d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"/%3e%3c/svg%3e');
+  content: url('data:image/svg+xml,%3csvg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" opacity="0.54"%3e%3cpath d="M0 0h24v24H0z" fill="none"/%3e%3cpath d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"/%3e%3c/svg%3e');
 }
 
 .custom-checkbox .custom-control-input {
@@ -2823,6 +2803,16 @@ input:disabled + .chip {
 
 .nav-tabs-material .nav-tabs-indicator.show {
   display: block;
+}
+
+fieldset {
+  border: 0;
+  margin-bottom: 1.5rem;
+  padding: 0;
+}
+
+legend {
+  margin-bottom: 0.5rem;
 }
 
 .form-control {
@@ -3753,6 +3743,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 
 .px-2 {
   padding-left: 0.5rem !important;
+}
+
+.pt-3 {
+  padding-top: 1rem !important;
 }
 
 
