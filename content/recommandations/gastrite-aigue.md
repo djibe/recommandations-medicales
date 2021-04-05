@@ -1,18 +1,18 @@
 +++
 title = "Gastrite aiguë"
 prefix = "la "
-shortname = "M"
+shortname = "gastrite aiguë"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-15T17:43:00+02:00
-publishdate = 2021-01-15
-lastmod = 2021-01-15
+publishdate = 2021-04-04
+lastmod = 2021-04-04
 specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
-sources = ["HAS", "MinSante"]
-tags = ["HSH", "IST"]
-anglais = ["MSM"]
-sctid = "76102007"
+sources = ["SNFGE"]
+tags = []
+anglais = []
+sctid = ""
 draft = true
 image = false
 imageSrc = ""
@@ -21,10 +21,16 @@ todo = ""
 
 {{%article-summary%}}
 
-
+Gastrite aiguë
+: Inflammation de la muqueuse gastrique datant de moins de 3 mois. Le plus souvent liée à une infection par *Helicobacter pylori*, elle 
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
+
+
+
+{{% /collapse %}}
+{{%collapse "Clinique" %}}
 
 
 
@@ -39,7 +45,7 @@ todo = ""
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+- [SNFGE. Gastrite.](https://www.snfge.org/content/gastrite)
 
 {{% /collapse %}}
 

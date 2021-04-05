@@ -145,22 +145,6 @@ ul {
   margin-bottom: 1rem;
 }
 
-ol {
-  list-style: decimal outside;
-}
-
-ol ol {
-  list-style-type: lower-alpha;
-}
-
-ul {
-  list-style: disc outside;
-}
-
-li > ul > li {
-  list-style-type: circle;
-}
-
 dt {
   font-weight: 600;
 }
@@ -353,7 +337,6 @@ input[type='checkbox'] {
 }
 
 textarea {
-  overflow: auto;
   resize: vertical;
 }
 
@@ -365,31 +348,27 @@ fieldset {
 }
 
 legend {
-  font-size: 1.25rem;
+  font-size: 0.75rem;
   font-weight: 400;
-  letter-spacing: 0.15px;
-  line-height: normal;
-  color: inherit;
-  display: block;
+  letter-spacing: 0.033333em;
+  line-height: 1.25rem;
+  float: left;
   margin-bottom: 0.5rem;
-  max-width: 100%;
   padding: 0;
-  white-space: normal;
   width: 100%;
 }
 
-[type='number']::-webkit-inner-spin-button,
-[type='number']::-webkit-outer-spin-button {
-  height: auto;
+legend + * {
+  clear: left;
 }
 
 [type='search'] {
-  -webkit-appearance: none;
+  -webkit-appearance: textfield;
   outline-offset: -2px;
 }
 
-[type='search']::-webkit-search-decoration {
-  -webkit-appearance: none;
+iframe {
+  border: 0;
 }
 
 summary {
@@ -683,6 +662,32 @@ small,
 .small {
   font-size: 80%;
   font-weight: 400;
+}
+
+ol {
+  list-style: decimal outside;
+}
+
+ol ol {
+  list-style-type: lower-alpha;
+}
+
+ul {
+  list-style: disc outside;
+}
+
+ul:not([class]) {
+  padding-left: 2.5rem;
+}
+
+ul li {
+  font-size: inherit;
+  margin: 0.75rem 0;
+  padding: 0;
+}
+
+li > ul > li {
+  list-style-type: circle;
 }
 
 .blockquote {
@@ -1477,9 +1482,9 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   background-color: #e0e0e0;
   border: 0;
   border-radius: 1rem;
-  color: inherit;
+  color: rgba(0, 0, 0, 0.87);
   display: inline-flex;
-  font-size: inherit;
+  font-size: 0.875rem;
   height: 2rem;
   justify-content: center;
   letter-spacing: 0.017857em;
@@ -1528,7 +1533,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
 }
 
 .chip-action:hover, .chip-action:focus, .chip-action:active {
-  color: inherit;
+  color: rgba(0, 0, 0, 0.87);
   text-decoration: none;
 }
 
@@ -1947,6 +1952,9 @@ input:disabled + .chip {
     height: 3rem;
     letter-spacing: 0.04em;
     text-transform: lowercase;
+  }
+  .modal-footer .btn:first-of-type {
+    border-top: 0;
   }
   .modal-footer .btn::first-letter {
     text-transform: uppercase;
