@@ -10,14 +10,14 @@ lastmod = 2021-04-05
 specialites = ["gynecologie-obstetrique"]
 annees = "2017"
 sources = ["CNGOF", "HAS"]
-tags = ["contraception", "douleur pelvienne"]
-anglais = []
-sctid = ""
-draft = true
+tags = ["contraception", "douleur pelvienne", "infertilite"]
+anglais = ["Endometriosis"]
+sctid = "129103003"
+draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "EHP-5, prescrire, autres sources"
+todo = "autres sources"
 +++
 
 {{%article-summary%}}
@@ -25,6 +25,7 @@ todo = "EHP-5, prescrire, autres sources"
 - Le diagnostic est clinique
 - Prise en charge seulement quand symptomatique ou avec retentissement
 - Examen gynécologique et échographie pelvienne
+- Étayer le diagnostic différentiel
 - Contraception œstroprogestative ou DIU au LNG
 - IRM pelvienne et avis du spécialiste si signes profonds, désir de grossesse, échec du traitement ou masse ovarienne
 
@@ -33,10 +34,12 @@ todo = "EHP-5, prescrire, autres sources"
 
 Endométriose
 : Atteinte pelvienne féminine de définition histologique avec la présence de glandes ou stroma endométrial en dehors de l'utérus.  
-Elle est pathologique lorsqu'elle entraîne des **douleurs pelviennes** ou une **infertilité**.
+Elle est pathologique lorsqu'elle entraîne des **douleurs pelviennes** ou une **infertilité**.  
+Les douleurs sont souvent améliorées pendant les grossesses et après la ménopause.
 : L'origine de l'endométriose est multifactorielle avec l'action de facteurs génétiques (hérédité), environnementaux et liés aux menstruations (ménarche précoce, volume important, cycles courts).  
 Il n'existe pas d'arguments pour une aggravation de l'importance et l'étendue des lésions endométriosiques avec le temps.
-: Aucune association endométriose-cancer de l'ovaire n'est prouvée.
+: Aucune association endométriose-cancer de l'ovaire n'est prouvée.  
+Des complications obstructives (occlusion digestive ou urétérale) sont exceptionnelles.
 
 Endométriose superficielle
 : Endométriose limitée au péritoine.
@@ -69,26 +72,41 @@ Dysménorrhée
   - Résistance aux paliers 1
   - Absentéisme
   - Qualité de vie: {{< modal-btn modal-score-ehp5 >}}échelle EHP-5{{< /modal-btn >}}
+  - Agenda des symptômes
 - Signes de lésions profondes
   - Dyspareunies profondes
   - Douleurs à la défécation à recrudescence cataméniale
-  - Signes fonctionnels urinaires à recrudescence cataméniale
+  - Signes fonctionnels urinaires à recrudescence cataméniale  
+  Dysurie, pollakiurie.
 - Infertilité
 
 ### Examen clinique
 
 - Examen gynécologique orienté
-  - Lésions bleutées à l'examen
+  - Lésions vaginales bleutées pathognomoniques
   - Palpation de nodules  
   Au niveau des ligaments utérosacrés ou du cul-de-sac de Douglas
   - Douleur en mise en tension des ligaments utérosacrés
   - Utérus rétroversé
-  - Annexes fixées au TV
+  - Annexes fixées au toucher vaginal
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+- Adénomyose
+- Salpingite et inflammation pelvienne chronique
+- Fibromyomes utérins
+- Kyste ovarien
+- Cancer de l'ovaire
+- Douleurs d'origine digestive
+- Violences sexuelles
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 Pas de bilan biologique.
+
+{{%info%}}Une imagerie normale n'infirme pas le diagnostic (20% de faux négatifs){{%/info%}}
 
 ### Échographie pelvienne
 
@@ -122,7 +140,8 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
 ### Mesures générales
 
 - Antalgie
-  - Palier 1
+  - Paliers 1  
+  Paracétamol voire AINS (ibuprofène ou naproxène) pendant ≥ 3 mois.
   - Éviter les AINS au long cours
   - Évaluation spécialisée en douleurs chronique  
   Gynéco, douleur, sexologue, psychologue, assistant social.
@@ -133,9 +152,11 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
 ### Traitements de première intention
 
 - Contraception orale combinée (COC = œstroprogestative)
+  - Lévonorgestrel ou noréthistérone + éthinylestradiol 30 à 40 µg
+  - Prise continue si aggravation dans la période d'interruption
 - DIU au lévonorgestrel 52 mg
 
-Chez l'adolescente: COC ou microprogestative et avis si échec.
+Chez l'adolescente: COC ou microprogestative et avis spécialisé si échec.
 
 ### Traitements de deuxième intention
 
@@ -143,6 +164,7 @@ Chez l'adolescente: COC ou microprogestative et avis si échec.
 - Implant à l'étonogestrel
 - Diénogest
 - GnRHa en association
+- Exploration chirurgicale par cœlioscopie
 
 ### Infertilité
 
@@ -157,16 +179,20 @@ graph TB
   style endometriose stroke:#006ef4, stroke-width:1px
     clinique --> indicationsBilan("- Signes d'endométriose profonde ?<br>(dyspareunies, dl défécation, SFU)<br>- Infertilité ?<br>- Endométriome en écho ?")
       indicationsBilan -- Non --> souhaitGrossesse(Souhait de grossesse&nbsp;?)
-        souhaitGrossesse -- Non --> contraception(Contraception hormonale)
+        souhaitGrossesse -- Non --> contraception(Pilule combinée ou DIU LNG)
           contraception -- Efficace --> poursuite(Poursuite sans bilan)
           contraception -- Résistance --> bilan
         souhaitGrossesse -- Oui --> bilan
       indicationsBilan -- Oui --> bilan("<b>Bilan d'endométriose profonde</b><hr>- IRM pelvienne<br>&#177; Écho endovaginale")
 {{< /mermaid >}}
 
+> DIU: stérilet  
+LNG: lévonorgestrel
+
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Prescrire Rédaction. Endométriose douloureuse. En absence de projet de grossesse : paracétamol et AINS, voire estroprogestatif ou DIU au lévonorgestrel. Rev Prescrire 2019 ; 39 (433) : 833-841](https://prescrire.org/)
 - [HAS et CNGOF. Prise en charge de l’endométriose. Recommandation de bonne pratique. Décembre 2017.](https://www.has-sante.fr/jcms/c_2819733/fr/prise-en-charge-de-l-endometriose)
 
 {{% /collapse %}}
