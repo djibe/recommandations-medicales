@@ -34,7 +34,7 @@ todo = "EHP-5, prescrire, autres sources"
 Endométriose
 : Atteinte pelvienne féminine de définition histologique avec la présence de glandes ou stroma endométrial en dehors de l'utérus.  
 Elle est pathologique lorsqu'elle entraîne des **douleurs pelviennes** ou une **infertilité**.
-: L'origine de l'endométriose est multifactorielle avec l'action de facteurs génétiques, environnementaux et liés aux menstruations.  
+: L'origine de l'endométriose est multifactorielle avec l'action de facteurs génétiques (hérédité), environnementaux et liés aux menstruations (ménarche précoce, volume important, cycles courts).  
 Il n'existe pas d'arguments pour une aggravation de l'importance et l'étendue des lésions endométriosiques avec le temps.
 : Aucune association endométriose-cancer de l'ovaire n'est prouvée.
 
@@ -53,7 +53,7 @@ Dysménorrhée
 ### Abréviations
 
 **DIU:** dispositif intra-utérin (ou stérilet)  
-**EHP-5:** échelle de qualité de vie {{%lang%}}Endometriosis Health Profile 5{{%/lang%}}  
+**EHP-5:** échelle de qualité de vie {{%lang%}}Endometriosis Health Profile-5{{%/lang%}}  
 **LNG:** lévonorgestrel  
 **TV:** toucher vaginal
 
@@ -65,7 +65,7 @@ Dysménorrhée
 ### Interrogatoire
 
 - Dysménorrhées intenses
-  - Intensité ≥ 8
+  - Intensité ≥ 8 (EAN)
   - Résistance aux paliers 1
   - Absentéisme
   - Qualité de vie: {{< modal-btn modal-score-ehp5 >}}échelle EHP-5{{< /modal-btn >}}
@@ -153,7 +153,7 @@ Accompagnement par une équipe d'Assistance Médicale à la Procréation (AMP).
 
 {{< mermaid title="Conduite à tenir devant une suspicion d'endométriose. Dr JB FRON d'après HAS 2017" >}}
 graph TB
-  endometriose["<b>Suspicion d'endométriose</b><hr>- Dysménorrhées intenses<br>- Dyspareunies<br>- Douleurs pelviennes<br>non menstruelles<br>- Infertilité"] --> clinique("- Symptômes<br>- Évaluation du retentissement<br>(EVA, EHP-5, absentéisme)<br>- Examen gynécologique<br>- Échographie pelvienne")
+  endometriose["<b>Suspicion d'endométriose</b><hr>- Dysménorrhées intenses<br>- Dyspareunies<br>- Douleurs pelviennes<br>non menstruelles<br>- Infertilité"] --> clinique("- Symptômes<br>- Évaluation du retentissement<br>(EAN, EHP-5, absentéisme)<br>- Examen gynécologique<br>- Échographie pelvienne")
   style endometriose stroke:#006ef4, stroke-width:1px
     clinique --> indicationsBilan("- Signes d'endométriose profonde ?<br>(dyspareunies, dl défécation, SFU)<br>- Infertilité ?<br>- Endométriome en écho ?")
       indicationsBilan -- Non --> souhaitGrossesse(Souhait de grossesse&nbsp;?)

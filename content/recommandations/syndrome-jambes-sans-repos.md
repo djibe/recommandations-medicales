@@ -126,8 +126,7 @@ Antidépresseurs (toute classe), neuroleptiques, lithium, anti-histaminiques, ox
 
 - Troubles du sommeil
 - Altération de la vigilance diurne
-- Anxiété, dépression  
-{{%class%}}x 2-5.{{%/class%}}
+- Anxiété, dépression {{%class%}}x 2-5{{%/class%}}
 - Altération de la qualité de vie
 - Impact socio-économique
 - Enfant: troubles du comportement et irritabilité
@@ -149,7 +148,7 @@ Au moins aussi longtemps que dure cette activité.
 
 {{%class%}}IRLSSG 2012. Sensibilité 86% et spécificité > 90%.{{%/class%}}
 
-Tous les critères doivent être remplis.  
+**Tous les critères doivent être remplis**.  
 Intérêt de laisser le patient décrire ses symptômes, ou l'enfant avec ses mots.
 
 {{% /collapse %}}
