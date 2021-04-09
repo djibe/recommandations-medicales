@@ -14,9 +14,8 @@ tags = []
 anglais = ["Cat scratch disease"]
 sctid = "79974007"
 draft = false
-image = false
-imageSrc = ""
-todo = ""
+image = true
+imageSrc = "CDC, domaine public, via Wikimedia Commons"
 +++
 
 {{%article-summary%}}

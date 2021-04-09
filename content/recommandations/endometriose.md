@@ -15,8 +15,8 @@ anglais = ["Endometriosis"]
 sctid = "129103003"
 draft = false
 flowchart = true
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Design par vectorjuice / Freepik"
 todo = "molécules, information de la patiente"
 +++
 

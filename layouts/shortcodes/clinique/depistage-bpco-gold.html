@@ -37,7 +37,6 @@
     <input type="radio" id="depBpco-52" name="radio-depistage-bpco-5" class="d-input-none" value="0">
     <label for="depBpco-52" class="chip chip-action chip-sm chip-choice">Non</label>
   </fieldset>
-  <p>Auto-questionnaire de dépistage de la BPCO, adaptation <a href="https://www.has-sante.fr/upload/docs/application/pdf/2014-06/questionnaire_depistage_bpco_gold_web.pdf" target="_blank" rel="nofollow noopener">HAS d'après GOLD 2014</a></p>
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center mr-3" style="min-width:116px;">
       <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:2rem">Nombre de OUI</p>
@@ -46,19 +45,20 @@
     <p id="depistageBpcoText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
 </form>
+<p>Auto-questionnaire de dépistage de la BPCO, adaptation <a href="https://www.has-sante.fr/upload/docs/application/pdf/2014-06/questionnaire_depistage_bpco_gold_web.pdf" target="_blank" rel="nofollow noopener">HAS d'après GOLD 2014</a></p>
 {{ $script := `
   // Depistage BPCO GOLD 2014 by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreDepBPCO = document.getElementById('depistageBPCOScore')
     const textDepBPCO = document.getElementById('depistageBpcoText')
     const depBPCOEls = document.querySelectorAll('#depistage-bpco-gold input[type=\"radio\"]')
-    const fumeur = document.getElementById('depBpco-51')
     depBPCOEls.forEach((depBPCOEl) => { depBPCOEl.addEventListener('click', () => {
       depBpcoGold()
     }) })
     const depBpcoGold = () => {
       let score = 0
       const depBPCOElsChecked = document.querySelectorAll('#depistage-bpco-gold input[type=\"radio\"]:checked')
+      const fumeur = document.getElementById('depBpco-51')
       depBPCOElsChecked.forEach(depBPCOElChecked => {
         score += parseInt(depBPCOElChecked.value, 10)
         if (depBPCOElsChecked.length === 5) {
@@ -67,7 +67,7 @@
             textDepBPCO.innerHTML = 'Il est important de réaliser une mesure de votre souffle'
           } else if (score === 2) {
             textDepBPCO.innerHTML = 'Il est important de parler de votre souffle à votre médecin'
-          } else if (fumeur) {
+          } else if (fumeur.checked) {
             textDepBPCO.innerHTML = 'Vous ne présentez pas de signe de BPCO mais il est important de stopper le tabac pour votre santé. Parlez-en à votre médecin'
           } else {
             textDepBPCO.innerHTML = 'Vous ne présentez pas de signe de BPCO'

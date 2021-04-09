@@ -10,13 +10,13 @@ lastmod = 2021-04-09
 specialites = ["pneumologie"]
 annees = "2019"
 sources = ["GOLD", "HAS"]
-tags = ["dyspnee", "toux"]
+tags = ["dyspnee", "fatigue", "toux"]
 anglais = ["Chronic Obstructive Pulmonary Disease (COPD)"]
 sctid = ""
 draft = true
-image = false
-imageSrc = ""
-todo = "GOLD"
+image = true
+imageSrc = "Design de Freepik"
+todo = "lire GOLD, CAT, GOLD 4 gpes, score BODE, éval nutri"
 +++
 
 {{%article-summary%}}
@@ -33,7 +33,7 @@ TODO:
 
 Bronchopneumopathie chronique obstructive (BPCO)
 : Maladie respiratoire chronique définie par des symptômes respiratoires persistants avec une obstruction permanente et progressive des voies aériennes et/ou alvéolaires causée par l’exposition à des particules ou gaz toxiques.
-: Le diagnostic est *spirométrique* avec un *trouble ventilatoire obstructif* (VEMS/CV < 0,7) non réversible.
+: Le diagnostic est *spirométrique* avec un *trouble ventilatoire obstructif* (VEMS/CVF < 0,7) non réversible.
 : Les symptômes respiratoires les plus fréquents sont: dyspnée, toux et/ou expectorations. Ils sont sous-rapportés par les patients et 3/4 des cas de ne sont pas diagnostiqués.
 : Le tabagisme est la 1<sup>re</sup> cause suivie par l'expositions aux fumées.
 : Causes de mortalité: insuffisance respiratoire (10% en Gold 1, 50% en Gold 4), maladies cardio-vasculaires (20–40%), cancers (10-20%).
@@ -66,17 +66,18 @@ Grave si PaO<sub>2</sub> ≤ 55 mmHg ou < 60 si polyglobulie ou insuffisance car
 **BDLA:** bronchodilatateur de longue durée d'action  
 **BPCO:** bronchopneumopathie chronique obstructive  
 **CSI:** corticostéroïde inhalé  
+**CVF:**  
 **DEP:** débit expiratoire de pointe  
 **EABPCO:** exacerbation de BPCO  
 **EFR:** épreuves fonctionnelles respiratoires  
 GDS
-**GOLD:** {{%lang%}}Global Initiative for Chronic Obstructive Lung Disease{{%/lang%}}
-RxT
+**GOLD:** {{%lang%}}Global Initiative for Chronic Obstructive Lung Disease{{%/lang%}}  
+**VEMS:**
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
 
-Causes de décès: 3<sup>e</sup> cause mondiale (OMS).
+3<sup>e</sup> cause de décès mondiale (OMS).
 
 ### En France
 
@@ -91,15 +92,34 @@ Parmi lesquels seulement 1/3 cite le tabac comme cause.
 {{% /collapse %}}
 {{%collapse "Dépistage de la BPCO" %}}
 
-{{< clinique/depistage-bpco-gold >}}
+### BPCO - Qui dépister ?
+
+Dépister par spirométrie toute personne par l'{{< modal-btn modal-depistage-bpco >}}Auto-questionnaire de dépistage{{< /modal-btn >}} OU tout sujet de plus de 40 ans avec au moins 1 facteur de risque ou signe parmi:
+
+- Tabagisme
+- Pollution atmosphérique
+- Chauffage bois ou charbon
+- Exposition professionnelle  
+Silice, charbon, moisissures, gaz, vapeurs, fumées.
+- Toux chronique
+- Expectoration fréquente
+- Dyspnée
+
+> Source HAS 2019
 
 **NB.** L'utilisation d'un **mini-spiromètre au cabinet** est fortement encouragé par les différentes sociétés savantes. La mesure nécessite une confirmation pneumologique spécialisée.
+
+### BPCO - Comment dépister ?
+
+- Au cabinet avec mini-spiromètre ou chez le pneumologue
+- Chez un sujet avec facteur de risque ou signes cliniques (voir plus haut *BPCO - Qui dépister*)
+- **Spirométrie après bronchodilatateur: VEMS/CVF < 70%**
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 {{%info%}}
-La clinique est antagoniste de l'asthme (sauf tabagisme associé).
+La clinique est antagoniste de l'asthme (sauf tabagisme associé):
 
 Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme nécessitant un effort pour inspirer, une pression thoracique, un manque d’air ou un halètement, toux productive chronique (30% des patients), essoufflement nocturne avec sifflements rare, variabilité significative nycthémérale rare.
 {{%/info%}}
@@ -107,44 +127,83 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
 ### Interrogatoire
 
 - Antécédents  
-Asthme, allergie, atopie, sinusite, polypes du rhinopharynx, infections respiratoires infantiles, hospitalisations pour pathologies respiratoires.  
-Comorbidités: coronaropathie, AVC, AOMI, ostéoporose, pathologies musculo-squelettiques.
+Asthme, allergie, atopie, sinusite, polypes du rhinopharynx, infections respiratoires infantiles, hospitalisations pour pathologies respiratoires.
+- Comorbidités  
+Coronaropathie, AVC, AOMI, ostéoporose, pathologies musculo-squelettiques.
 - Antécédents familiaux  
 BPCO et maladies respiratoires.
 - Terrain  
-Tabagisme actif ou passif, cannabis, exposition professionnelle et aux vapeurs et feux.
-- Histoire de la maladie  
-Âge de début, dyspnée, rhumes traînants, renoncement à des activités.
+Tabagisme actif ou passif, cannabis, exposition professionnelle, exposition aux vapeurs et feux.
 - Symptômes  
-Fatigue, perte de poids, anorexie.  
+Toux, expectoration, dyspnée, sifflements, fatigue, perte de poids, anorexie.  
 Évolution pondérale, appétit.
+- Histoire de la maladie  
+Âge de début, dyspnée, rhumes traînants, bronchites hivernales fréquentes, consommation d'antibiotiques, renoncement à des activités.
+- {{< modal-btn modal-score-mmrc >}}Échelle de dyspnée mMRC{{< /modal-btn >}}
 - Retentissement  
 Limitation des activités, arrêts de travail, activité physique, dépression/anxiété, qualité de vie, vie sexuelle.
 - Entourage
-- Échelle mMRC
 
 ### Examen clinique
 
-- Pression artérielle, pouls, oxymétrie SpO<sub>2</sub>, poids, taille, IMC
+- Pression artérielle, pouls, SpO<sub>2</sub>, poids, taille, IMC, périmètre cervical
 - Auscultation pulmonaire  
 Sibilants, tirage, cyanose.
-- Dépister apnées du sommeil STOP-BANG
+- {{< modal-btn modal-score-stopbang >}}Dépister les apnées du sommeil{{< /modal-btn >}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+{{%info%}}
+Bilan systématique:
+
+- NFS
+- Glycémie à jeun
+- Bilan lipidique
+- Radiographie de thorax
+
+---
+
+- Consultation de cardiologie
+
+{{%/info%}}
+
 ### Spirométrie
 
-Examen diagnostique de référence.
-
+Examen diagnostique de référence.  
+Mesure également la {{< modal-btn modal-severite-tvo >}}sévérité de l'obstruction bronchique VEMS/CVF{{< /modal-btn >}}.  
 Les autres examens recherchent des complications.
 
-### Biologie
+### Gaz du sang
 
-TODO:
+Indications: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3{{< /modal-btn >}}, {{< modal-btn modal-severite-tvo >}}stade obstructif ≥ 3{{< /modal-btn >}}, suspicion d'embolie pulmonaire ou d'overlap syndrome.
+
+### Autres
+
+Scanner thoracique, ECBC, alpha1 antitrypsine... selon le pneumologue.
 
 {{% /collapse %}}
-{{%collapse "Traitement à l'état stable" %}}
+{{%collapse "Évaluation de la sévérité" %}}
+
+Sévérité et pronostic dépendent des facteurs suivants:
+
+- Statut tabagique
+- Sévérité des signes respiratoires
+  - {{< modal-btn modal-severite-tvo >}}Sévérité de l'obstruction bronchique{{< /modal-btn >}}
+  - {{< modal-btn modal-score-mmrc >}}Dyspnée selon l'échelle mMRC{{< /modal-btn >}}
+  - Test de marche de 6 minutes, lever de chaise ou stepper test
+- État nutritionnel  
+IMC (< 21), perte de poids.
+- Retentissement de la maladie
+  - Nombre d'exacerbations annuelles
+  - Nombre d'hospitalisations
+  - Oxymétrie de repos ± Gaz du sang
+  - Limitation des activités  
+  Fatigue, activités quotidiennes et sociales, {{< modal-btn modal-score-cat >}}Évaluation CAT{{< /modal-btn >}}.
+- Comorbidités
+
+{{% /collapse %}}
+{{%collapse "Traitement - état stable" %}}
 
 - ALD n°14 en BPCO sévère
 - Arrêt du tabac
@@ -155,6 +214,9 @@ TODO:
 - Vaccination
   - Antigrippale annuelle
   - IRespC: pneumocoque tous les 5 ans
+
+{{% /collapse %}}
+{{%collapse "Traitement - exacerbation de BPCO" %}}
 
 {{% /collapse %}}
 {{%collapse "BPCO et hospitalisation" %}}
@@ -170,9 +232,6 @@ TODO:
 - Réadaptation respiratoire dans les 3 mois
 
 {{% /collapse %}}
-{{%collapse "Traitement: exacerbation de BPCO" %}}
-
-{{% /collapse %}}
 {{%collapse "Surveillance" %}}
 
 {{% /collapse %}}
@@ -183,3 +242,28 @@ TODO:
 - [Delmas MC et al; Groupe Baromètre santé 2017. Connaissance de la bronchopneumopathie chronique obstructive (BPCO) en France : Baromètre santé 2017. Bull Epidémiol Hebd. 2018;(35-36):703-8.](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)
 
 {{% /collapse %}}
+{{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}
+
+{{< clinique/depistage-bpco-gold >}}
+
+{{% /modal %}}
+{{% modal title="Échelle de dyspnée du Medical Research Council modifiée" id="modal-score-mmrc"%}}
+
+{{< scores/mmrc >}}
+
+{{% /modal %}}
+{{% modal title="Sévérité de l'obstruction bronchique" id="modal-severite-tvo"%}}
+
+{{< scores/severite-tvo >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire STOP-BANG" id="modal-score-stopbang" size="lg"%}}
+
+{{< scores/stop-bang >}}
+
+{{% /modal %}}
+{{% modal title="Score CAT" id="modal-score-cat" size="lg"%}}
+
+{{< scores/copd-assessment-test >}}
+
+{{% /modal %}}

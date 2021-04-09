@@ -356,7 +356,12 @@ blockquote {
 
 .modal legend {
   color: #212121;
-  font-size: 1rem;
+  font-size: 0.875rem;
+}
+@media screen and (min-width: 1200px) {
+  .modal legend {
+    font-size: 1rem;
+  }
 }
 
 .card.card-primary-action {
