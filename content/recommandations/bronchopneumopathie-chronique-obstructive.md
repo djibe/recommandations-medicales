@@ -5,8 +5,8 @@ shortname = "BPCO"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T23:07:00+02:00
-publishdate = 2021-03-28
-lastmod = 2021-03-28
+publishdate = 2021-04-09
+lastmod = 2021-04-09
 specialites = ["pneumologie"]
 annees = "2019"
 sources = ["GOLD", "HAS"]
@@ -16,14 +16,15 @@ sctid = ""
 draft = true
 image = false
 imageSrc = ""
-todo = "MMRC, stop-bang"
+todo = "GOLD"
 +++
 
 {{%article-summary%}}
 
+- Dépistage et arrêt du tabac pour tout le monde
 - Le diagnostic est spirométrique: TVO non réversible
 - Le VEMS est le facteur pronostique majeur
-- 3 traitements majeurs: arrêt du tabac, vaccination antigrippale, réhabilitation respiratoire
+- 3 piliers du traitement: arrêt du tabac, vaccination antigrippale, réhabilitation respiratoire
 - Prévention cardiovasculaire
 TODO:
 
@@ -31,12 +32,13 @@ TODO:
 {{%collapse "Définitions" %}}
 
 Bronchopneumopathie chronique obstructive (BPCO)
-: Maladie respiratoire chronique définie par des symptômes respiratoires persistants et une obstruction permanente et progressive des voies aériennes et/ou alvéolaires causée par l’exposition à des particules ou gaz toxiques.
+: Maladie respiratoire chronique définie par des symptômes respiratoires persistants avec une obstruction permanente et progressive des voies aériennes et/ou alvéolaires causée par l’exposition à des particules ou gaz toxiques.
+: Le diagnostic est *spirométrique* avec un *trouble ventilatoire obstructif* (VEMS/CV < 0,7) non réversible.
 : Les symptômes respiratoires les plus fréquents sont: dyspnée, toux et/ou expectorations. Ils sont sous-rapportés par les patients et 3/4 des cas de ne sont pas diagnostiqués.
-: Tabagisme est la 1<sup>re</sup> cause, expositions aux fumées.
+: Le tabagisme est la 1<sup>re</sup> cause suivie par l'expositions aux fumées.
 : Causes de mortalité: insuffisance respiratoire (10% en Gold 1, 50% en Gold 4), maladies cardio-vasculaires (20–40%), cancers (10-20%).
 
-Exacerbation de BPCO
+Exacerbation de BPCO (EABPCO)
 : Le diagnostic est clinique: aggravation aiguë des symptômes respiratoires justifiant une modification thérapeutique.  
 Critères: augmentation de la dyspnée, toux, volume/aspect des expectorations.  
 **Exacerbation fréquentes quand ≥ 2 épisodes/an**. Facteur prédictif majeur de survenue d’exacerbations.
@@ -45,7 +47,7 @@ Critères: augmentation de la dyspnée, toux, volume/aspect des expectorations.
     - **Sévère**. Passage aux urgences ou hospitalisation
 
 Bronchite chronique
-: Abandonnée par le GOLD car n’est présent que chez une minorité de patients atteints de BPCO.
+: Abandonnée par le GOLD car n’est présente que chez une minorité de patients atteints de BPCO.
 
 Emphysème
 : N’est qu’une petite composante de la BPCO.  
@@ -60,10 +62,15 @@ Grave si PaO<sub>2</sub> ≤ 55 mmHg ou < 60 si polyglobulie ou insuffisance car
 
 ### Abréviations
 
-BDCA
-BPCO
+**BDCA:** bronchodilatateur de courte durée d'action  
+**BDLA:** bronchodilatateur de longue durée d'action  
+**BPCO:** bronchopneumopathie chronique obstructive  
+**CSI:** corticostéroïde inhalé  
+**DEP:** débit expiratoire de pointe  
+**EABPCO:** exacerbation de BPCO  
+**EFR:** épreuves fonctionnelles respiratoires  
 GDS
-GOLD
+**GOLD:** {{%lang%}}Global Initiative for Chronic Obstructive Lung Disease{{%/lang%}}
 RxT
 
 {{% /collapse %}}
@@ -73,26 +80,20 @@ Causes de décès: 3<sup>e</sup> cause mondiale (OMS).
 
 ### En France
 
-- Prévalence: 10% des adultes
-- Hospitalisations: 100-150.000/an
+- Prévalence: 10% des adultes (3 millions)
+- Hospitalisations: 100-160.000/an
+- Décès: 19.000/an (2013)
+- Coût moyen: 7628€ à 20 747€ (coût annuel de moins sévère à OLD)
 - Sous-diagnostic: 3/4 ne sont pas diagnostiqués
-- Méconnaissance: 22% ont déjà entendu parler de BPCO (InVS)  
-Parmi lesquels 1/3 cite le tabac comme cause.
+- Méconnaissance: 22% des français ont déjà entendu parler de BPCO (InVS)  
+Parmi lesquels seulement 1/3 cite le tabac comme cause.
 
 {{% /collapse %}}
 {{%collapse "Dépistage de la BPCO" %}}
 
-Questionnaire de dépistage de la BPCO (GOLD 2018):
+{{< clinique/depistage-bpco-gold >}}
 
-1. Avez-vous plus de 40 ans? O / N
-2. Êtes-vous fumeur ou ex-fumeur? O / N
-3. Toussez-vous tous les jours? O / N
-4. Crachez-vous souvent? O / N
-5. Êtes-vous plus facilement essoufflé que les autres personnes de votre âge? O / N
-
-Si Oui à ≥ 3 questions, BPCO possible.
-
-**NB.** L'utilisation de **mini-spiromètre au cabinet** est fortement encouragé par les différentes sociétés savantes. La mesure nécessite une confirmation pneumologique spécialisée.
+**NB.** L'utilisation d'un **mini-spiromètre au cabinet** est fortement encouragé par les différentes sociétés savantes. La mesure nécessite une confirmation pneumologique spécialisée.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -120,7 +121,7 @@ Fatigue, perte de poids, anorexie.
 - Retentissement  
 Limitation des activités, arrêts de travail, activité physique, dépression/anxiété, qualité de vie, vie sexuelle.
 - Entourage
-- Échelle MMRC
+- Échelle mMRC
 
 ### Examen clinique
 
@@ -143,9 +144,9 @@ Les autres examens recherchent des complications.
 TODO:
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement à l'état stable" %}}
 
-- ALD en BPCO sévère
+- ALD n°14 en BPCO sévère
 - Arrêt du tabac
   - Principal facteur pronostique
   - Conseil minimal d'aide l'arrêt régulier
@@ -169,11 +170,16 @@ TODO:
 - Réadaptation respiratoire dans les 3 mois
 
 {{% /collapse %}}
+{{%collapse "Traitement: exacerbation de BPCO" %}}
+
+{{% /collapse %}}
 {{%collapse "Surveillance" %}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-{{% /collapse %}}
+- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. December 2019.](https://goldcopd.org/wp-content/uploads/2019/12/GOLD-2020-FINAL-ver1.2-03Dec19_WMV.pdf)
+- [HAS. Bronchopneumopathie chronique obstructive. Guide du parcours de soins. Novembre 2019.](https://www.has-sante.fr/jcms/c_1242507/fr/guide-du-parcours-de-soins-bronchopneumopathie-chronique-obstructive-bpco)
+- [Delmas MC et al; Groupe Baromètre santé 2017. Connaissance de la bronchopneumopathie chronique obstructive (BPCO) en France : Baromètre santé 2017. Bull Epidémiol Hebd. 2018;(35-36):703-8.](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)
 
-≤≥±®œŒ³Â
+{{% /collapse %}}
