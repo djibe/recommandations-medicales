@@ -84,7 +84,7 @@ Malformation de Chiari type 1.
 - Migraine vestibulaire  
 Vertiges de qq minutes à qq jours, céphalées.
 - Névrite vestibulaire et labyrinthite virale  
-Vertiges de qq jours à qq semaines avec surdité.
+Vertiges de quelques jours à quelques semaines avec surdité.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -107,7 +107,7 @@ Coupes axiales et sagittales, sans et après injection de produit de contraste, 
 
 ### Bilan ORL
 
-Adresser à l'ORL pour une batterie de bilans:
+Adresser à l'ORL pour bilan exhaustif:
 
 - Audiométrie tonale et vocale
 - Vidéonystagmographie avec épreuve calorique calibrée
@@ -159,7 +159,7 @@ En cas de troubles de la vergence et du suivi oculaire.
 
 ### Pour en savoir plus
 
-#### +: Traitement médical
+#### En savoir plus: Traitement médical
 
 Bétahistine
 : Bétahistine 24 mg x 2/j au long cours.  
@@ -182,7 +182,7 @@ Gentamycine transtympanique
 Titration fonctionnelle.  
 Contre-indiquée en oreille unique ou atteinte bilatérale.
 
-### +: Chirurgie
+### En savoir plus: Chirurgie
 
 5 opérations possibles:
 

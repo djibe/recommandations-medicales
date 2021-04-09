@@ -18,7 +18,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "Embolie segmentaire par scientificanimations.com, CC BY-SA 4.0"
-todo = "flowchart duree, def cancer actif, carnet AVK"
+todo = "p.21, flowchart duree, def cancer actif, carnet AVK"
 +++
 
 En voie de finalisation. La durée de traitement est manquante
@@ -227,12 +227,14 @@ TODO: Figure 11
 
 #### AOD
 
-Seuls apixaban et rivaroxaban ont l'AMM.  
-Éducation du patient.
+- Seuls apixaban et rivaroxaban ont l'AMM
+- Pas de surveillance biologique
+- Éducation du patient
 
 #### AVK
 
-- INR cible 2,5 (2 - 3)
+- INR cible 2,5 (2 - 3)  
+Toutes les 3-4 semaines.
 - Éducation du patient
 - Carnet de suivi
 

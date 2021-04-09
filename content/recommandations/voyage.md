@@ -31,7 +31,7 @@ todo = "liste mallette, snomed"
 Ces 3 sites permettent d'évaluer le statut vaccinal nécessaire pour un voyage en sécurité.  
 Certains vaccins peuvent être obligatoires pour entrer dans le pays, ils nécessitent alors un certificat international de vaccination.
 
-Se référer à la page dédiée à chaque maladie pour en savoir plus (ex. [fièvre jaune]({{< relref "fievre-jaune.md" >}}), [hépatite A]({{< relref "hepatite-a.md" >}}) ...).
+Se référer à la page dédiée à chaque maladie pour en savoir plus (ex. [fièvre jaune]({{< relref "fievre-jaune.md" >}}), [hépatite A]({{< relref "hepatite-a.md" >}}), [paludisme]({{< relref "paludisme.md" >}}), ...).
 
 <div class="d-flex flex-wrap">
 {{< card-link title="Vaccins recommandés et prévention palustre selon l'Institut Pasteur pour un voyage" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}

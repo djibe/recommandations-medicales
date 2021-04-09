@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-02-02T08:52:00+02:00
 publishdate = 2021-03-10
-lastmod = 2021-03-26
+lastmod = 2021-04-09
 specialites = ["medecine du sommeil"]
 annees = "2019"
 sources = ["SFRMS"]
@@ -19,7 +19,7 @@ flowchart = true
 image = true
 imagePNG = true
 imageSrc = "Comparaison entre le sommeil d'une personne atteinte du syndrome des jambes sans repos (en rouge) et celui d'une personne en bonne santé (en bleu). Markus Mueller derivative, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "suicide, methodes Sandrine, info du patient, diag diff dans SJSR 2019 pharmacoR p3, painful legs and moving toes"
+todo = "suicide, methodes Sandrine, info du patient"
 +++
 
 {{%article-summary%}}
@@ -68,6 +68,7 @@ Tremblement orthostatique primaire
 
 **CST:** coefficient de saturation de la transferrine  
 **HDJ:** hôpital de jour  
+**ENMG:** électroneuromyogramme  
 **IRLS:** {{%lang%}}IRLSSSG rating scale{{%/lang%}}  
 **IRLSSG:** {{%lang%}}International Restless Legs Syndrome Study Group{{%/lang%}}  
 **MPM:** mouvements périodiques des membres  
@@ -100,6 +101,7 @@ Symptômes hebdomadaires 2,5% et quotidiens 1,9%.
 - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})  
 Aggravation par inhibiteurs calciques, PTH basse, CST bas, diabète de type 2.  
 {{%class text-black-secondary %}}Prévalence de 15 à 68%.{{%/class%}}
+- Hémochromatose
 - Pathologie cardiovasculaire (moindre)
 - Migraine  
 {{%class text-black-secondary %}}Prévalence de 9 à 39%.{{%/class%}}
@@ -266,29 +268,38 @@ Agenda des symptômes diurne et nocturne sur 14 jours.
 {{%collapse "Diagnostic différentiel" %}}
 
 - Inconfort positionnel  
-{{%class%}}Inconfort survenant assis, jambes croisées.{{%/class%}}
+{{%class%}}Inconfort survenant assis, jambes croisées. Paresthésies systématisées améliorées au mouvement sans recrudescence vespérale.{{%/class%}}
 - Mouvements inconscients des membres  
 {{%class%}}Tic ou comportement rythmé de balancement, frappe du pied.{{%/class%}}
-- Akathisie iatrogène
+- Akathisie iatrogène  
+{{%class%}}Neuroleptiques, envie de bouger, impossibilité de rester assis sans recrudescence vespérale. Syndrome extrapyramidal.{{%/class%}}
 - Myoclonies d'endormissement
 - Ostéo-articulaire  
-{{%class%}}Arthrite, blessure de jambe.{{%/class%}}
+{{%class%}}Arthrite, blessure de jambe. Articulaires, non modifiées au mouvement/immobilité/soirée.{{%/class%}}
 - Vasculaire
   - Œdème des membres inférieurs
   - Insuffisance veineuse  
-  {{%class%}}Survient debout, s'aggrave sur la journée, diminue jambes surélevées.{{%/class%}}
-  - AOMI
+  {{%class%}}Lourdeur des MI debout, aggravation sur la journée, diminue jambes surélevées. Varices, œdèmes.{{%/class%}}
+  - AOMI  
+  {{%class%}}Claudication, aggravation allongé, FRCV. Pouls, troubles trophiques.{{%/class%}}
   - Ischémie
   - Acrosyndrome
 - Neurologique
-  - Crampes musculaires
-  - Neuropathie périphérique
+  - Crampes musculaires  
+  {{%class%}}Mollets, cuisses, MS. Améliorées au mouvement, sans aggravation immobile ou le soir.{{%/class%}}
+  - Neuropathie périphérique  
+  {{%class%}}Douleurs, paresthésies sans amélioration au mouvement ni aggravation au repos/soirée, déficitaire, ENMG.{{%/class%}}
   - Sciatique ou cruralgie
   - Myalgies
-  - Myélopathie
+  - Myélopathie  
+  {{%class%}}Douleurs neuropathiques systématisées, sans amélioration au mouvement ou aggravation au repos/soirée.{{%/class%}}
   - Myopathie
   - Tremblement orthostatique
-  - {{%lang%}}Painful legs and moving toes{{%/lang%}}
+  - {{%lang%}}Painful legs and moving toes{{%/lang%}}  
+  Syndrome des jambes douloureuses avec mouvements des orteils.  
+  {{%class%}}Douleurs des MI, sans {{%/class%}}
+- Fibromyalgie  
+{{%class%}}Douleurs diffuses musculaires/articulaires sans amélioration au mouvement ou aggravation au repos/soirée. ENMG.{{%/class%}}
 - Enfant
   - Douleurs de croissance
   - TDAH
@@ -440,6 +451,7 @@ graph TB
 
 - [Prescrire Redaction. Fer isomaltoside : pas plus de réactions d'hypersensibilité qu'avec le fer saccharose ?. Prescrire en questions. Revue Prescrire 2020; 40 : 469-470.](https://prescrire.org/)
 - [Prescrire Redaction. Jambes sans repos : soulager sans médicament. Août 2019.]((https://prescrire.org/))
+- [Chenini S. et al; SFRMS. Syndrome des jambes sans repos pharmaco-résistant. Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 114-125.](https://doi.org/10.1016/j.msom.2018.10.004)
 - [Limousin N. et al.; SFRMS. Traitement du syndrome des jambes sans repos nouvellement diagnostiqué. Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 106-113.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302449?via%3Dihub)
 - [Leclair-Visonneau L et al.; SFRMS. Comment poser le diagnostic d'un syndrome des jambes sans repos ? Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 97-105.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302437?via%3Dihub)
 - [Silber MH. et al; Medical Advisory Board of the Willis-Ekbom Disease Foundation. Willis-Ekbom Disease Foundation revised consensus statement on the management of restless legs syndrome. Mayo Clin Proc. 2013 Sep;88(9):977-86.](https://doi.org/10.1016/j.mayocp.2013.06.016)
