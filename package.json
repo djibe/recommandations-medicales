@@ -21,9 +21,11 @@
     "medecine",
     "médecine",
     "conduite",
-    "à",
     "tenir",
-    "guidelines"
+    "guidelines",
+    "aide",
+    "decision",
+    "clinique"
   ],
   "author": "Jean-Baptiste FRON",
   "license": "GPL-3.0",
@@ -40,7 +42,7 @@
     "cross-env": "^7.0.3",
     "htmllint-cli": "0.0.7",
     "node-sass": "^5.0.0",
-    "vnu-jar": "^20.6.30"
+    "vnu-jar": "^21.4.9"
   },
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^4.0.0",
@@ -50,5 +52,8 @@
   },
   "browserslist": [
     "defaults"
-  ]
+  ],
+  "engines": {
+    "node": ">=14.16.1"
+  }
 }
