@@ -2,6 +2,9 @@
 publish = "public"
 command = "hugo --cleanDestinationDir --gc --minify"
 
+[build.environment]
+  NODE_VERSION = "14.16"
+
 [context.production.environment]
 HUGO_VERSION = "0.81.0"
 HUGO_ENV = "production"

@@ -10,7 +10,8 @@
     "html:lint": "htmllint --rc build/.htmllintrc \"public/**/*.html\"",
     "html:lint-vnu": "npm run build && node build/vnu-jar.js",
     "hugo:debug": "hugo --cleanDestinationDir --minify --debug --logFile ./hugo.log --verboseLog",
-    "server": "hugo server --buildDrafts --watch --destination dev --verbose --cleanDestinationDir"
+    "server": "hugo server --buildDrafts --watch --destination dev --verbose --cleanDestinationDir",
+    "start": "hugo --cleanDestinationDir --gc --minify"
   },
   "keywords": [
     "hugo",
@@ -54,6 +55,7 @@
     "defaults"
   ],
   "engines": {
-    "node": ">=14.16.1"
+    "node": ">=14.16.0",
+    "npm": ">=7.9.0"
   }
 }
