@@ -8,8 +8,6 @@
 
   {{ partial "font" . }}
 
-  <!--<link rel="stylesheet" href="{{ .Site.Params.cdn.md_font | safeURL }}" crossorigin>-->
-  <!-- Use with CriticalCSS Via Scott Jehl. https://www.filamentgroup.com/lab/load-css-simpler/ -->
   {{ $sass := "" }}
   {{ if hugo.IsProduction }}
     {{ $sass = resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint }}

@@ -12,6 +12,7 @@ annees = "2020"
 sources = ["MinSante"]
 tags = ["aides", "droits"]
 draft = false
+todo = "https://www.has-sante.fr/upload/docs/application/pdf/2018-03/annexes2.pdf"
 +++
 
 {{%collapse "Outils en ligne" "show" %}}
