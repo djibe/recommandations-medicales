@@ -2,7 +2,7 @@
 title = "Infections à chlamydia trachomatis"
 prefix = "les "
 shortname = "CT"
-synonyms = []
+synonyms = ["Chlamydiose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T12:09:00+02:00
 publishdate = 2021-03-28
@@ -16,7 +16,7 @@ sctid = "240589008"
 draft = false
 image = false
 imageSrc = ""
-todo = "améliorer clinique, flowchart"
+todo = "améliorer clinique, flowchart, Prescrire Chlamydiose liée à un rapport sexuel"
 +++
 
 {{%article-summary%}}

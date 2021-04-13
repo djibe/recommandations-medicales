@@ -16,7 +16,7 @@ sctid = "4740000"
 draft = false
 image = true
 imageSrc = "Gzzz, CC BY-SA 4.0"
-todo = "algo"
+todo = "flowchart, Prescrire Zona"
 +++
 
 {{%article-summary%}}

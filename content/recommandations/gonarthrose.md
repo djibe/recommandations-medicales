@@ -55,8 +55,8 @@ Rechercher une chondrocalcinose associée.
 
 ### Abréviations
 
-**AH:** Acide hyaluronique  
-**AASAL:** Anti-arthrosiques symptomatiques d'action lente
+**AH:** acide hyaluronique  
+**AASAL:** anti-arthrosiques symptomatiques d'action lente
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
@@ -77,16 +77,16 @@ Traumatismes articulaires, rhumatismes, cardiovasculaires, rénales, gastriques.
   - Essayés (posologies, efficacité, tolérance)
   - Nombre d'infiltrations des genoux
 - Arthrose fémoro-tibiale
-  - Douleur mécanique diffuse du genou ou interne.  
-  Augmentée aux escaliers, remise en charge, soulagée au repos.  
-  Pas de réveil nocturne sauf changement de position.
-  Chronique avec crises inflammatoires locales.
-  - Arthrose fémoro-patellaire
-    - Douleur mécanique de la face antérieure du genou.  
-    Augmentée à la descente des escaliers, station assise prolongée, agenouillement.
-  - Raideur
-  - Gêne fonctionnelle  
-  Questionnaires types: [Indice de Lequesne](https://www.chu-clermontferrand.fr/Internet/Documents/Rhumatologie/Gonarthrose.Lequesne.pdf), [KOOS](http://fr.scale-library.com/resultat_echelle.php?echelle=Knee%20injury%20and%20Osteoarthritis%20Outcome%20Score%20(KOOS)&theme=&type=&scalage=adulte&retour=liste&cle=&echelle_box=Index%20de%20WOMAC) ou [WOMAC](http://fr.scale-library.com/resultat_echelle.php?echelle=Knee%20injury%20and%20Osteoarthritis%20Outcome%20Score%20(KOOS)&theme=&type=&scalage=adulte&retour=liste&cle=&echelle_box=Index%20de%20WOMAC).
+  - Douleur mécanique diffuse du genou ou interne
+  - Augmentée aux escaliers, remise en charge, soulagée au repos
+  - Pas de réveil nocturne sauf changement de position
+  - Chronique avec crises inflammatoires locales
+- Arthrose fémoro-patellaire
+  - Douleur mécanique de la face antérieure du genou
+  - Augmentée à la descente des escaliers, station assise prolongée et agenouillement
+- Raideur
+- Gêne fonctionnelle  
+Questionnaires types: [Indice de Lequesne](https://www.chu-clermontferrand.fr/Internet/Documents/Rhumatologie/Gonarthrose.Lequesne.pdf), [KOOS](http://fr.scale-library.com/resultat_echelle.php?echelle=Knee%20injury%20and%20Osteoarthritis%20Outcome%20Score%20(KOOS)&theme=&type=&scalage=adulte&retour=liste&cle=&echelle_box=Index%20de%20WOMAC) ou [WOMAC](http://fr.scale-library.com/resultat_echelle.php?echelle=Knee%20injury%20and%20Osteoarthritis%20Outcome%20Score%20(KOOS)&theme=&type=&scalage=adulte&retour=liste&cle=&echelle_box=Index%20de%20WOMAC).
 - Niveau d'activité physique
 - Qualité de vie
 

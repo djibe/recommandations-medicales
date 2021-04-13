@@ -4,9 +4,10 @@ prefix = "l'"
 shortname = "VHC"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Comité de l'AFEF"
 date = 2020-09-06T20:18:41+02:00
 publishdate = 2020-09-06
-lastmod = 2021-02-09
+lastmod = 2021-04-13
 specialites = ["infectiologie"]
 annees = "2019"
 sources = ["AFEF", "HAS"]
@@ -25,8 +26,8 @@ todo = "symptômes/fatigue, hépatoprotection, attente relecture Dr FONTAINE H�
 {{%article-summary%}}
 
 - Maladie guérissable (> 90%).
-- Dépister largement (voir *Qui dépister?*).
-- Tout médecin peut prescrire les antiviraux.
+- Dépister largement (voir *Qui dépister?*) car sous-diagnostiquée.
+- Tout médecin peut prescrire les antiviraux pour la guérison.
 - Évaluation des comorbidités, interactions médicamenteuses et de la fibrose avant le traitement.
 - Traitement par Epclusa® ou Maviret® pendant respectivement 12 ou 8 semaines.
 - Surveillance chronique de la cirrhose et de la charge virale (guérison, réinfection).
@@ -35,34 +36,35 @@ todo = "symptômes/fatigue, hépatoprotection, attente relecture Dr FONTAINE H�
 {{%collapse "Définition" %}}
 
 Hépatite C
-: Maladie infectieuse du foie causée par le virus de l'hépatite C (VHC), à l'origine d'une hépatite le plus souvent silencieuse qui devient chronique dans 80% des cas. La transmission est sanguine (drogues intraveineuses ou sniffées, sexe).  
+: Maladie infectieuse du foie causée par le virus de l'hépatite C (VHC), à l'origine d'une hépatite le plus souvent silencieuse qui devient chronique dans 80% des cas.  
+La transmission est sanguine (drogues intraveineuses ou sniffées, sexe).  
 Des médicaments antiviraux permettent une guérison totale dans la grande majorité des cas.
-: Enjeux liés à la diffusion du virus, la cirrhose et ses complications: hypertension portale, carcinome hépatocellulaire.
+: Enjeux liés à la diffusion du virus, la cirrhose et ses complications: hypertension portale et carcinome hépatocellulaire.
 
 ### Abréviations
 
-**AAD:** Antiviral d'action directe
-**AFEF:** Association française pour l'étude du foie
-**HSH:** Homme ayant des relations sexuelles avec des hommes
-**TROD:** Test rapide d'orientation diagnostique
-**VHC:** Virus de l'hépatite C
+**AAD:** antiviral d'action directe  
+**AFEF:** Association française pour l'étude du foie  
+**HSH:** homme ayant des relations sexuelles avec des hommes  
+**TROD:** test rapide d'orientation diagnostique  
+**VHC:** virus de l'hépatite C
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
 
 ### L'hépatite C en France
 
-- 2700 morts par an en France
+- 2700 morts/an
 - 1 personne sur 2 n'est pas diagnostiquée
-- 75.000 personnes non diagnostiquées en France en 2014  
-Chez les 18-80 ans contre 101.000 en 2004.
-- Virus identifié en 1989
+- 75 000 personnes non diagnostiquées en 2014  
+{{%class%}}Chez les 18-80 ans contre 101.000 en 2004.{{%/class%}}
 
 ### L'hépatite C dans le monde
 
-- 170 millions de personnes infectées dans le monde (3%)
+- 170 millions de personnes infectées (3%)
 - Incidence: 3 à 4 millions de nouveaux cas par an
 - Responsable de 70% des hépatopathies chroniques
+- Virus identifié en 1989
 
 {{% /collapse %}}
 {{%collapse "Hépatite C - Qui dépister?" %}}

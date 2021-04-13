@@ -29,7 +29,7 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
   <h4 class="typography-headline-6 mb-3">Nombre de cigarettes quotidiennes</h4>
   <div class="d-flex">
     <label class="radio-card" data-toggle="collapse" data-target="#patchs-moins20">
-      <input type="radio" name="demo" class="card-input-element d-none" id="moins20" required>
+      <input type="radio" name="demo" class="card-input-element d-none" id="moins20" checked required>
       <span class="card card-primary-action rounded-lg card-body d-flex flex-row justify-content-center align-items-center">
         Moins de 20
       </span>
@@ -43,7 +43,7 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
   </div>
 </article>
 <div class="accordion" id="accordionExample" style="max-width: 800px">
-  <div class="collapse" id="patchs-moins20" data-parent="#accordionExample">
+  <div class="collapse show" id="patchs-moins20" data-parent="#accordionExample">
     <div class="card rounded mb-3">
       <div class="card-body">
         <h5 class="card-subtitle">Exemple de prescription</h5>
@@ -146,7 +146,7 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
 </div>
 
 <blockquote class="blockquote mt-5">
-  <h6 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au <time datetime="2020-09-27">27 septembre 2020</time>.</h6>
+  <h6 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au <time datetime="2020-09-27">27/09/2020</time>.</h6>
   <footer class="blockquote-footer"><cite title="Source Title"><a
         href="https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/prise-charge-substituts-nicotiniques"
         target="_blank" rel="nofollow noopener">L'Assurance Maladie</a></cite></footer>

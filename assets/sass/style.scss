@@ -354,16 +354,6 @@ blockquote {
   }
 }
 
-.modal legend {
-  color: #212121;
-  font-size: 0.875rem;
-}
-@media screen and (min-width: 1200px) {
-  .modal legend {
-    font-size: 1rem;
-  }
-}
-
 .card.card-primary-action {
   flex-grow: 0;
   margin-right: 1rem;
@@ -390,6 +380,16 @@ div.data-table {
   line-height: 1;
   margin: 5rem 0;
   text-shadow: 10px 10px 20px #f5f5f5, -10px -10px 20px #f5f5f5;
+}
+
+.modal legend {
+  color: #212121;
+  font-size: 0.875rem;
+}
+@media screen and (min-width: 1200px) {
+  .modal legend {
+    font-size: 1rem;
+  }
 }
 
 .modal-title {
@@ -716,4 +716,5 @@ input[type="search"]::-webkit-search-results-decoration {
 
 h2[data-toggle="collapse"]{
   background: calc(100% - 1rem) center no-repeat url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='24px' viewBox='0 0 24 24' width='24px' fill='%23545454'%3E%3Cpath d='M0 0h24v24H0z' fill='none'/%3E%3Cpath d='M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z'/%3E%3C/svg%3E");
+  user-select: none;
 }
