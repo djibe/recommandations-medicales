@@ -60,7 +60,7 @@ En première intention pour les douleurs faibles à modérées.
       <p id="paracetamol">1 dose-kg ou <b>300 mg</b> toutes les 6 heures</p>
       <hr>
       <p class="card-text">Ibuprofène</p>
-      <p id="ibuprofene">200 mg toutes les 8 heures</p>
+      <p id="ibuprofene" class="user-select-all">200 mg toutes les 8 heures</p>
     </div>
     <div aria-labelledby="sirop-tab" class="tab-pane fade" id="sirop" role="tabpanel">
       <p class="typography-overline text-black-secondary m-0">Spécialités</p>

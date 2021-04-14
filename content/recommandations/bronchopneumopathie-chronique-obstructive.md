@@ -5,23 +5,25 @@ shortname = "BPCO"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T23:07:00+02:00
-publishdate = 2021-04-09
-lastmod = 2021-04-09
+publishdate = 2021-04-14
+lastmod = 2021-04-14
 specialites = ["pneumologie"]
 annees = "2019"
 sources = ["GOLD", "HAS", "SPLF"]
 tags = ["dyspnee", "fatigue", "toux"]
 anglais = ["Chronic Obstructive Pulmonary Disease (COPD)"]
 sctid = ""
-draft = true
+draft = false
 image = true
 imageSrc = "Dessin de Freepik"
 todo = "def. VEMS, lire Sociétés, p.61++++, quest. CAT, GOLD 4 gpes, score BODE, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://splf.fr/wp-content/uploads/2015/01/Fiches-BPCO/F-PlanAction_2013.pdf, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58"
 +++
 
+Rédaction en cours mais bien avancée.
+
 {{%article-summary%}}
 
-- Dépistage et arrêt du tabac pour tout le monde  
+- {{< modal-btn modal-depistage-bpco >}}Dépistage{{< /modal-btn >}} et arrêt du tabac pour tout le monde  
 Principal facteur du déclin du VEMS.
 - Le diagnostic est spirométrique: TVO non réversible
 - Le VEMS est le facteur pronostique majeur
@@ -75,7 +77,8 @@ Grave si PaO<sub>2</sub> ≤ 55 mmHg ou < 60 si polyglobulie ou insuffisance car
 **GOLD:** {{%lang%}}Global Initiative for Chronic Obstructive Lung Disease{{%/lang%}}  
 **LABA:** {{%lang%}}Long Acting ß2 Agent{{%/lang%}}, bêta-2-agoniste de longue durée d'action  
 **LAMA:** {{%lang%}}Long Acting Muscarinic Agent{{%/lang%}}, anticholinergique de longue durée d'action  
-**RR:** réadaptation respiratoire
+**RR:** réadaptation respiratoire  
+**VEMS:** volume expiré maximal à la première seconde ({{%lang%}}FEV1{{%/lang%}} en anglais)
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
@@ -124,7 +127,7 @@ Silice, charbon, moisissures, gaz, vapeurs, fumées.
 {{%info%}}
 La clinique est antagoniste de l'asthme (sauf tabagisme associé):
 
-Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme nécessitant un effort pour inspirer, une pression thoracique, un manque d’air ou un halètement, toux productive chronique (30% des patients), essoufflement nocturne avec sifflements rare, variabilité significative nycthémérale rare.
+Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme nécessitant un effort pour inspirer, une pression thoracique, un manque d’air ou un halètement, toux productive chronique (30% des patients), essoufflement nocturne avec sifflements rare, variabilité significative (> 400 mL) nycthémérale rare.
 {{%/info%}}
 
 ### Interrogatoire
@@ -178,6 +181,7 @@ Bilan systématique:
 
 Examen diagnostique de référence.  
 Mesure également la {{< modal-btn modal-severite-tvo >}}sévérité de l'obstruction bronchique VEMS/CVF{{< /modal-btn >}}.  
+Cotation CCAM: GLQP012, 40,28€.  
 Les autres examens recherchent des complications.
 
 ### Gaz du sang
@@ -227,12 +231,12 @@ Formes: spray, poudre, brumisateur.
 
 #### Dyspnée intermittente ou à l'exercice
 
-BDCA à la demande.
+{{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} à la demande.
 
 #### Dyspnée persistante
 
-LABA systématique.  
-Préférer LAMA en antécédent d'exacerbation.
+{{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} systématique.  
+Préférer un {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} en antécédent d'exacerbation.
 
 Si insuffisant:
 
@@ -246,16 +250,16 @@ Dyspnée sous monothérapie toujours {{< modal-btn modal-score-mmrc >}}mMRC ≥ 
 Choix selon le profil clinique:
 
 - Dyspnée prédominante  
-LABA + LAMA.
+{{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} + {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-lama >}}associations LABA+LAMA{{< /modal-btn >}}.
 - Exacerbations récurrentes de composante asthmatique (variabilité, atopie)  
-LABA + CSI.  
+{{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}.  
 Arrêt si pneumonie ou autres EI des corticoïdes et remplacement par bithérapie LABA + LAMA.
 
 **NB.** Sur-risque de pneumonie avec les corticoïdes inhalés.
 
 #### 3<sup>e</sup> intention - Prescription spécialisée
 
-Triple association: LABA + LAMA + CSI.  
+Triple association: {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}.  
 Arrêt des corticoïdes si pneumonie ou autres EI.
 
 Seul le pneumologue peut prescrire une trithérapie ou des nébulisations.
@@ -378,6 +382,7 @@ Asthme, insuffisance cardiaque, [hypertension pulmonaire]({{< relref "hypertensi
 {{%collapse "Sources" %}}
 
 - [HAS. Bronchopneumopathie chronique obstructive. Guide du parcours de soins. Novembre 2019.](https://www.has-sante.fr/jcms/c_1242507/fr/guide-du-parcours-de-soins-bronchopneumopathie-chronique-obstructive-bpco)
+- [Prescrire Redaction. Bronchodilatateurs pour inhalation buccale dans la bronchopneumopathie chronique obstructive (BPCO) (commercialisés en France au 11 décembre 2018). Rev Prescrire 2019 ; 39 (424) : 91.](https://prescrire.org/)
 - [Delmas MC et al; Groupe Baromètre santé 2017. Connaissance de la bronchopneumopathie chronique obstructive (BPCO) en France : Baromètre santé 2017. Bull Epidémiol Hebd. 2018;(35-36):703-8.](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)
 - [Zysman M. et al; SPLF. Propositions de la SPLF pour l’optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016.](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
 
@@ -385,8 +390,11 @@ Asthme, insuffisance cardiaque, [hypertension pulmonaire]({{< relref "hypertensi
 
 - [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. December 2019.](https://goldcopd.org/wp-content/uploads/2019/12/GOLD-2020-FINAL-ver1.2-03Dec19_WMV.pdf)
 - [Jouneau S. et al; SPLF. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017.](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
+- [Prescrire Redaction. Questionner sa pratique : préserver la qualité de vie des patients souffrant de BPCO. Rev Prescrire 2020 ; 40 (445) : 861-864.](https://prescrire.org/)
+- [Prescrire Redaction. Bronchopneumopathie chronique obstructive - Premiers Choix Prescrire, actualisation juillet 2020. Rev Prescrire 2020 ; 40 (444) : 737.](https://prescrire.org/)
 
 {{% /collapse %}}
+<!-- Scores -->
 {{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}
 
 {{< clinique/depistage-bpco-gold >}}
@@ -410,5 +418,36 @@ Asthme, insuffisance cardiaque, [hypertension pulmonaire]({{< relref "hypertensi
 {{% modal title="Score CAT" id="modal-score-cat" size="lg"%}}
 
 {{< scores/copd-assessment-test >}}
+
+{{% /modal %}}
+<!-- Traitements -->
+{{% modal title="Bêta-2 stimulants de courte durée d'action" id="modal-ttt-bdca"%}}
+
+{{< traitements/bdca >}}
+
+{{% /modal %}}
+{{% modal title="Bêta-2 stimulants de longue durée d'action" id="modal-ttt-laba"%}}
+
+{{< traitements/laba >}}
+
+{{% /modal %}}
+{{% modal title="Atropiniques de longue durée d'action" id="modal-ttt-lama"%}}
+
+{{< traitements/lama >}}
+
+{{% /modal %}}
+{{% modal title="Associations B2 et atropiniques de longue durée" id="modal-ttt-laba-lama"%}}
+
+{{< traitements/laba-lama >}}
+
+{{% /modal %}}
+{{% modal title="Associations B2LD et corticoïdes" id="modal-ttt-laba-csi"%}}
+
+{{< traitements/laba-csi >}}
+
+{{% /modal %}}
+{{% modal title="Associations bi-BDLA et corticoïdes" id="modal-ttt-laba-lama-csi"%}}
+
+{{< traitements/laba-lama-csi >}}
 
 {{% /modal %}}

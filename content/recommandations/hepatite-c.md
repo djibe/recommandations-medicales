@@ -19,7 +19,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "symptômes/fatigue, hépatoprotection, attente relecture Dr FONTAINE Hélène"
+todo = "symptômes/fatigue, signes d'insuffisance hépatique, signes de cirrhose, hépatoprotection"
 
 +++
 
@@ -103,14 +103,13 @@ Soins à la naissance en néonatalogie ou en pédiatrie (grand prématuré, exsa
 Questionnaires [AUDIT](http://test-addicto.fr/tests/alcool/audit.html), [CAGE-DETA](https://test-addicto.fr/tests/alcool/deta-cage.html) ou [FACE](http://test-addicto.fr/tests/alcool/questionnaire-face.html).
 - Consommation de drogues
 - Comorbidités majeures pour le traitement  
-HTA, diabète, dyslipidémie et surpoids.
+Hypertension artérielle, diabète, dyslipidémie et surpoids.
 - Rapports sexuels à risque
 - Antécédents de transfusion
 
 ### Examen clinique
 
-- Poids, taille, **IMC**  
-Surpoids, obésité, syndrome métabolique.
+- Poids, taille, **IMC**, pression artérielle
 - Signes d'insuffisance hépatique
 - Signes de cirrhose
 
@@ -191,7 +190,7 @@ Le traitement antiviral peut être prescrit par tout médecin pour maximiser les
 
 ### Mesures générales
 
-- Déclarer l'ALD 6
+- Déclarer l'[ALD n°6]({{< relref "affection-longue-duree.md" >}})
 - Observance maximale du traitement
 - Proscrire toute interaction avec les antiviraux ([Outil en ligne HEP Drug Interactions](https://www.hep-druginteractions.org/checker))  
 Enquête sur l'automédication+++.
@@ -199,9 +198,9 @@ Enquête sur l'automédication+++.
 - Éviter toute consommation d'alcool
 - Lutte contre surpoids/obésité
 - Équilibre strict d'un diabète
-- Vaccination hépatite A
+- Vaccination [hépatite A]({{< relref "hepatite-a.md" >}})
 - Vaccination hépatite B (après sérologie négative)
-- Vaccination grippe annuelle
+- Vaccination [grippe]({{< relref "grippe.md" >}}) annuelle
 - Vaccination pneumocoque
 - Dépistage de l'entourage et des partenaires
 - Prévention des contaminations
