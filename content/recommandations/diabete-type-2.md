@@ -15,7 +15,7 @@ anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = false
 imageSrc = ""
-todo = "rythme depistage"
+todo = "rythme depistage, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf"
 +++
 
 {{%article-summary%}}

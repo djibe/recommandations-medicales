@@ -331,7 +331,7 @@ TODO:
 {{%collapse "Surveillance" %}}
 
 Reprendre tous les points de *Traitement - état stable* ainsi que les mesures suivantes.  
-Suivi tous les 1 à 3 mois après chaque modification de traitement.
+Suivi tous les 1 à 3 mois après chaque modification de traitement et tous les 3 à 12 mois selon la sévérité de la BPCO.
 
 Sévérité et pronostic dépendent des facteurs suivants:
 
@@ -379,12 +379,12 @@ Asthme, insuffisance cardiaque, [hypertension pulmonaire]({{< relref "hypertensi
 
 - [HAS. Bronchopneumopathie chronique obstructive. Guide du parcours de soins. Novembre 2019.](https://www.has-sante.fr/jcms/c_1242507/fr/guide-du-parcours-de-soins-bronchopneumopathie-chronique-obstructive-bpco)
 - [Delmas MC et al; Groupe Baromètre santé 2017. Connaissance de la bronchopneumopathie chronique obstructive (BPCO) en France : Baromètre santé 2017. Bull Epidémiol Hebd. 2018;(35-36):703-8.](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)
+- [Zysman M. et al; SPLF. Propositions de la SPLF pour l’optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016.](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
 
 ### À lire
 
 - [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. December 2019.](https://goldcopd.org/wp-content/uploads/2019/12/GOLD-2020-FINAL-ver1.2-03Dec19_WMV.pdf)
 - [Jouneau S. et al; SPLF. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017.](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
-- [Zysman M. et al; SPLF. Propositions de la SPLF pour l’optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016.](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
 
 {{% /collapse %}}
 {{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}
