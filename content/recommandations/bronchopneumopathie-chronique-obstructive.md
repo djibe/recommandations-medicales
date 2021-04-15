@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2021-04-14
+lastmod = 2021-04-15
 specialites = ["pneumologie"]
 annees = "2019"
 sources = ["GOLD", "HAS", "SPLF"]
@@ -29,6 +29,7 @@ Principal facteur du déclin du VEMS.
 - Le VEMS est le facteur pronostique majeur
 - 3 piliers du traitement: arrêt du tabac, vaccination antigrippale, réadaptation respiratoire
 - Prévention cardiovasculaire
+- Bronchodilatateurs: {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}}, {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama >}}LABA + LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
