@@ -162,8 +162,6 @@
   {{ end }}
 
   $(function() {
-    $('[rel="tooltip"]').tooltip({trigger: 'hover', placement: 'bottom'});
-
     $('.breadcrumb-item:last-of-type').addClass('active').find('a').each(function() {
       let linkText = $(this).text();
       $(this).before(linkText);
@@ -175,5 +173,9 @@
       html: true,
       placement: 'bottom'
     });
+    if (matchMedia('(pointer:fine)').matches) {
+      // Device has a mouse
+      $('[rel="tooltip"]').tooltip({trigger: 'hover', placement: 'bottom'});
+    }
   });
 </script>
