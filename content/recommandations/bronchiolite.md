@@ -129,7 +129,10 @@ Indication: suspicion d’insuffisance respiratoire.
 {{%collapse "Indications à l'hospitalisation" %}}
 
 {{%warning%}}
-Indications à l'hospitalisation:
+
+### Indications à l'hospitalisation lors d'une bronchiolite
+
+Hospitalisation si ≥ 1 parmi:
 
 - Âge < 3 mois
 - Prématurité < 35 semaines
@@ -155,7 +158,7 @@ Notion de malaise, antécédents, gène respiratoire traînante.
 
 {{%/warning%}}
 
-> Hospitalisation si ≥ 1 critère ci-dessus (l'isolement en chambre individuelle n'est pas justifié).
+**NB.** L'isolement en chambre individuelle n'est pas justifié.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la bronchiolite" %}}
@@ -258,9 +261,9 @@ Les récidives sont possibles mais l'asthme du nourrisson guérit le plus souven
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Haute Autorité de Santé et Collège National Professionnel de Pédiatrie. Prise en charge du premier épisode de bronchiolite aiguë chez le nourrisson de moins de 12 mois. 11/2019](https://www.has-sante.fr/upload/docs/application/pdf/2019-11/hascnpp_bronchiolite_texte_recommandations_2019.pdf)
-- La Revue Prescrire. Bronchiolite chez un nourrisson. Octobre 2017
-- [Société Canadienne de Pédiatrie. Recommandations pour le diagnostic, la surveillance et les prise en charge des enfants de un à 24 mois. 03/11/2014 MAJ 31/01/2018](https://www.cps.ca/fr/documents/position/bronchiolitis1)
+- [Haute Autorité de Santé et Collège National Professionnel de Pédiatrie. Prise en charge du premier épisode de bronchiolite aiguë chez le nourrisson de moins de 12 mois. Novembre 2019.](https://www.has-sante.fr/upload/docs/application/pdf/2019-11/hascnpp_bronchiolite_texte_recommandations_2019.pdf)
+- [Société Canadienne de Pédiatrie. Recommandations pour le diagnostic, la surveillance et les prise en charge des enfants de un à 24 mois. 31/01/2018.](https://www.cps.ca/fr/documents/position/bronchiolitis1)
+- Prescrire Rédaction. Bronchiolite chez un nourrisson. Octobre 2017.
 - [Haute Autorité de Santé. Pertinence du recours à l’hospitalisation pour bronchiolite (GHM 04M18). 04/2013](https://www.has-sante.fr/upload/docs/application/pdf/2013-04/pertinence_du_recours_a_lhospitalisation_pour_bronchiolite.pdf)
 - Société Française de Pédiatrie. Prise en charge de la bronchiolite du nourrisson. 09/2000
 

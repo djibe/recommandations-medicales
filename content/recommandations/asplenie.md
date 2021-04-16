@@ -130,7 +130,7 @@ Mise à jour du calendrier vaccinal de l'entourage (voir fiche vaccination).
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [HCSP 2014 – Vaccination des personnes immunodéprimées ou aspléniques 2e édition](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
-- [Omedit Centre 2010 – Prévention des infections chez le splénectomisé et dans l'asplénie fonctionnelle](http://www.omedit-centre.fr/fichiers/upload/Prevention-des-infections_Splenectomise-et-asplenie-fonctionnelle_Fiche-bon-usage_Mars-2010.pdf)
+- [HCSP. Vaccination des personnes immunodéprimées ou aspléniques. Recommandations actualisées. 22/05/2015.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
+- [Omedit Centre. Prévention des infections chez le splénectomisé et dans l'asplénie fonctionnelle. 2010.](http://www.omedit-centre.fr/fichiers/upload/Prevention-des-infections_Splenectomise-et-asplenie-fonctionnelle_Fiche-bon-usage_Mars-2010.pdf)
 
 {{% /collapse %}}

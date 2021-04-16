@@ -149,22 +149,18 @@ En relais du traitement d'attaque.
 
 ### Cas particuliers
 
+{{% warning %}}
+**Pendant la grossesse, ne pas utiliser:**
+
+Ciclopirox, kétoconazole, dermocorticoïdes, sulfure de sélénium, AINS ou acide salicylique.
+{{% /warning %}}
+
 - Formes très inflammatoire  
 Les dermocorticoïdes d'activité modérée (faible sur visage) sont réservés pendant quelques jours avec relais par un traitement d'attaque.
 - Formes sévères et résistantes  
 Avis du dermatologue
 - Érythrodermie de Leiner-Moussous  
 Kétoconazole topique
-
-{{% /collapse %}}
-{{% collapse "Traitement pendant la grossesse" %}}
-
-{{% warning %}}
-**Ne pas utiliser**
-
-Ciclopirox, kétoconazole, dermocorticoïdes, sulfure de sélénium, AINS, acide salicylique.
-
-{{% /warning %}}
 
 {{% /collapse %}}
 {{% collapse "Conduite à tenir" "show" %}}
@@ -177,10 +173,10 @@ graph TB
   diagnostic --> scalp(Cuir chevelu<br>Ciclopirox shampooing 1%<br>OU kétoconazole gel 2%)
   diagnostic --> face(Face et tronc<br>Kétoconazole gel/crème 2% x 2/sem<br>OU ciclopirox crème 1% x 2/j)
   diagnostic --> grossesse(Grossesse<br>TODO)
-  scalp --> attaque(Phase d'attaque<br>Traitement 2 à 4 sem)
-  face --> attaque
-  attaque --> entretien(Phase d'entretien)
-  entretien -.-> severe(Sévère et résistant<br>Sérologie VIH<br>Avis dermatologue)
+    scalp --> attaque(Phase d'attaque<br>Traitement 2 à 4 sem)
+    face --> attaque
+      attaque --> entretien(Phase d'entretien)
+        entretien -.-> severe(Sévère et résistant<br>Sérologie VIH<br>Avis dermatologue)
 {{< /mermaid >}}
 
 {{%/collapse%}}

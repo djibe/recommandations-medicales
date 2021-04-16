@@ -77,5 +77,10 @@ HUGO_ENABLEGITINFO = "false"
   to = " /specialites/:splat"
   status = 301
 
+[[redirects]]
+  from = "/duree-sommeil-recommande/"
+  to = " /duree-sommeil-recommandee/"
+  status = 301
+
   [[plugins]]
   package = "netlify-plugin-inline-critical-css"

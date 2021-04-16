@@ -153,10 +153,14 @@
 
     // Don't follow external sources
     document.addEventListener( 'DOMContentLoaded', event => { // When DOM is ready
-      let externalLinks = document.querySelectorAll('a[href^="http"]:not([href*="netlify.app"])');
+      let externalLinks = document.querySelectorAll('a[href^="http"]:not([href*="netlify.app"])')
       externalLinks.forEach((elem) => {
         elem.setAttribute('target', '_blank')
         elem.setAttribute('rel', 'nofollow noopener')
+      })
+      let internalLinks = document.querySelectorAll('.recommandation__content a[href^="/recommandations/"]')
+      internalLinks.forEach((elem) => {
+        elem.setAttribute('target', '_blank')
       })
     })
   {{ end }}

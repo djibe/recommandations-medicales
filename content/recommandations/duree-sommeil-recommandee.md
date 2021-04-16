@@ -1,12 +1,12 @@
 +++
-title = "Durée de sommeil recommandé chez l'adulte et les enfants"
+title = "Durée de sommeil recommandée chez l'adulte et les enfants"
 prefix = "le "
 shortname = "Durée de sommeil"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-14T15:36:00+02:00
 publishdate = 2021-04-14
-lastmod = 2021-04-14
+lastmod = 2021-04-16
 specialites = ["medecine du sommeil", "pediatrie"]
 annees = "2016"
 sources = ["AASM"]
@@ -15,7 +15,7 @@ anglais = ["Amount of sleep"]
 sctid = ""
 draft = false
 image = true
-imageSrc = " Photo de Anne Marthe Widvey sur Foter.com "
+imageSrc = "Photo de Anne Marthe Widvey sur Foter.com"
 +++
 
 {{%article-summary%}}
@@ -44,7 +44,7 @@ Un temps de sommeil souvent inférieur aux durées recommandées provoque une au
 {{% /collapse %}}
 {{%collapse "Durée recommandée de sommeil chez l'enfant" %}}
 
-{{< table title="Durées recommandées de sommeil quotidien selon l'âge de l'enfant (AASM 2016)" >}}
+{{< table title="Temps recommandés de sommeil quotidien selon l'âge de l'enfant (AASM 2016)" >}}
 | Âge         | Temps de sommeil (/24h) |
 |:-----------:|------------------------:|
 | 4 à 12 mois | 12-16 |

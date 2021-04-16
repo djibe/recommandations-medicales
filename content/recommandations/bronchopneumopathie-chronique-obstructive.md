@@ -16,7 +16,7 @@ sctid = ""
 draft = false
 image = true
 imageSrc = "Dessin de Freepik"
-todo = "def. VEMS, lire Sociétés, p.61++++, quest. CAT, GOLD 4 gpes, score BODE, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://splf.fr/wp-content/uploads/2015/01/Fiches-BPCO/F-PlanAction_2013.pdf, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58"
+todo = "def. VEMS, lire Sociétés, p.61++++, quest. CAT, GOLD 4 gpes, score BODE, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://splf.fr/wp-content/uploads/2015/01/Fiches-BPCO/F-PlanAction_2013.pdf, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, vérif def exacerbation légère"
 +++
 
 Rédaction en cours mais bien avancée.
@@ -44,7 +44,7 @@ Bronchopneumopathie chronique obstructive (BPCO)
 Exacerbation de BPCO (EABPCO)
 : Le diagnostic est clinique: aggravation aiguë des symptômes respiratoires au-delà des variations quotidiennes justifiant une modification thérapeutique (augmentation des Bronchodilatateurs > 24h ou ajout d'un traitement).
 : Critères: augmentation de la dyspnée, toux, volume/aspect des expectorations.  
-**Exacerbations fréquentes quand ≥ 2 épisodes/an**. Facteur prédictif majeur de survenue d’exacerbations.
+**Exacerbations fréquentes quand ≥ 2 épisodes/an**.
     - **Exacerbation légère**. Résolutive sous BDCA seuls
     - **Modérée**. BDCA + antibiotiques ± corticoïdes inhalés
     - **Sévère**. Passage aux urgences ou hospitalisation
@@ -59,9 +59,9 @@ Le diagnostic est anatomique: élargissement permanent anormal des espaces aéri
 Surtout révélé par une dyspnée limitant l’activité (< 65 ans +++).
 
 Insuffisance respiratoire chronique
-: Incapacité permanente de l’appareil respiratoire à assurer une hématoses normale au repos.
-: La définition est gazométrique: PaO<sub>2</sub> < 70 mmHg sur 2 gaz du sang artériels en état stable à ≥ 3 mois d’intervalle.  
-Grave si PaO<sub>2</sub> ≤ 55 mmHg ou < 60 si polyglobulie ou insuffisance cardiaque droite associée.
+: Incapacité permanente de l’appareil respiratoire à assurer une *hématose* (échanges gazeux pulmonaires) normale au repos.
+: La définition est *gazométrique*: PaO<sub>2</sub> < 70 mmHg sur 2 gaz du sang artériels en état stable à ≥ 3 mois d’intervalle.  
+*Grave* si PaO<sub>2</sub> ≤ 55 mmHg ou < 60 si *polyglobulie* ou *insuffisance cardiaque droite* associée.
 
 ### Abréviations
 
@@ -84,16 +84,17 @@ Grave si PaO<sub>2</sub> ≤ 55 mmHg ou < 60 si polyglobulie ou insuffisance car
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
 
-3<sup>e</sup> cause de décès mondiale (OMS).
+3<sup>e</sup> cause mondiale de décès (*OMS*).
 
 ### En France
 
 - Prévalence: 10% des adultes (3 millions)
 - Hospitalisations: 100-160.000/an
 - Décès: 19.000/an (2013)
-- Coût moyen: 7628€ à 20 747€ (coût annuel de moins sévère à OLD)
+- Coût moyen: de 7628€ à 20 747€  
+Coût annuel moyen respectif d'un patient avec BPCO légère et oxygénorequérant.
 - Sous-diagnostic: 3/4 ne sont pas diagnostiqués
-- Méconnaissance: 22% des français ont déjà entendu parler de BPCO (InVS)  
+- Méconnaissance: 22% des français ont déjà entendu parler de BPCO (*InVS*)  
 Parmi lesquels seulement 1/3 cite le tabac comme cause.
 
 {{% /collapse %}}
@@ -112,9 +113,9 @@ Silice, charbon, moisissures, gaz, vapeurs, fumées.
 - Expectoration fréquente
 - Dyspnée
 
-> Source HAS 2019
+> Source *HAS 2019*
 
-**NB.** L'utilisation d'un **mini-spiromètre au cabinet** est fortement encouragé par les différentes sociétés savantes. La mesure nécessite une confirmation pneumologique spécialisée.
+**NB.** L'utilisation d'un **mini-spiromètre au cabinet** est fortement encouragée par les différentes sociétés savantes. La mesure nécessite une confirmation pneumologique spécialisée.
 
 ### BPCO - Comment dépister ?
 
@@ -158,7 +159,7 @@ Limitation des activités, arrêts de travail, activité physique, anxiété/dé
 - Auscultation pulmonaire  
 Sibilants, tirage, cyanose.
 - Calcul du risque cardiovasculaire SCORE
-- {{< modal-btn modal-score-stopbang >}}Dépister les apnées du sommeil{{< /modal-btn >}}
+- [Dépister les apnées du sommeil](https://www.diabeclic.com/questionnaire-stop-bang)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -181,7 +182,7 @@ Bilan systématique:
 ### Spirométrie
 
 Examen diagnostique de référence.  
-Mesure également la {{< modal-btn modal-severite-tvo >}}sévérité de l'obstruction bronchique VEMS/CVF{{< /modal-btn >}}.  
+Mesure également la {{< modal-btn modal-severite-tvo >}}sévérité de l'obstruction bronchique par le VEMS{{< /modal-btn >}}.  
 Cotation CCAM: GLQP012, 40,28€.  
 Les autres examens recherchent des complications.
 
@@ -196,12 +197,12 @@ Scanner thoracique, ECBC, alpha1 antitrypsine... selon le pneumologue.
 {{% /collapse %}}
 {{%collapse "Traitement - état stable" %}}
 
-- ALD n°14  
+- [ALD n°14]({{< relref "affection-longue-duree.md" >}})
 Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-tvo >}}VEMS < 50%{{< /modal-btn >}}
 - Arrêt du tabac
   - Principal facteur pronostique
   - Conseil minimal d'aide l'arrêt régulier
-  - Prise en charge optimale (substituts, [tabac-info-service](https://www.tabac-info-service.fr/), tabacologue, psychothérapie), varénicline
+  - Prise en charge optimale ([substituts]({{< relref "substituts-nicotiniques.md" >}}), [tabac-info-service](https://www.tabac-info-service.fr/), tabacologue, psychothérapie), varénicline
   - Autres expositions aux toxiques et gaz domestiques et professionnels  
   Aérosols, combustion de bois ou biomasse, moisissures.
 - Vaccination
@@ -297,6 +298,8 @@ Cible de repos: SpO<sub>2</sub> > 90% (PaO<sub>2</sub> > 60 mmHg).
 
 #### Ventilation mécanique ± Pression Positive Continue
 
+Relève exclusivement du spécialiste.
+
 {{% /collapse %}}
 {{%collapse "Traitement - exacerbation de BPCO et Plan d'Action" %}}
 
@@ -320,11 +323,13 @@ Récupération incomplète: spirométrie à 3 mois
 {{% /collapse %}}
 {{%collapse "BPCO et hospitalisation" %}}
 
+{{%info%}}Chantier en cours{{%/info%}}
+
 ### Indications à l'hospitalisation en exacerbation
 
 TODO:
 
-### Sortie d'hospitalisation pour EAPBCO
+### Sortie d'hospitalisation après une exacerbation de BPCO
 
 - Consultation du médecin traitant dans la semaine, 1 mois, 6 mois
 - Contrôle du traitement par BDLA
@@ -353,7 +358,7 @@ IMC (< 21), perte de poids, santé bucco-dentaire.
   - Nombre d'hospitalisations
   - SpO<sub>2</sub> ± Gaz du sang
   - Limitation des activités  
-  Fatigue, activités quotidiennes et sociales, {{< modal-btn modal-score-cat >}}évaluation CAT{{< /modal-btn >}}.
+  Fatigue, activités quotidiennes et sociales, [évaluation CAT](https://www.catestonline.org/patient-site-test-page-french-belgium.html).
 - Comorbidités
 - Recherche des diagnostics différentiels  
 Asthme, insuffisance cardiaque, [hypertension pulmonaire]({{< relref "hypertension-arterielle-pulmonaire.md" >}}).
@@ -409,16 +414,6 @@ Asthme, insuffisance cardiaque, [hypertension pulmonaire]({{< relref "hypertensi
 {{% modal title="Sévérité de l'obstruction bronchique" id="modal-severite-tvo"%}}
 
 {{< scores/severite-tvo >}}
-
-{{% /modal %}}
-{{% modal title="Questionnaire STOP-BANG" id="modal-score-stopbang" size="lg"%}}
-
-{{< scores/stop-bang >}}
-
-{{% /modal %}}
-{{% modal title="Score CAT" id="modal-score-cat" size="lg"%}}
-
-{{< scores/copd-assessment-test >}}
 
 {{% /modal %}}
 <!-- Traitements -->

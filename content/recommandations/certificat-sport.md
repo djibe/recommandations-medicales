@@ -19,6 +19,8 @@ image = true
 imageSrc = "Photo de Foter.com"
 +++
 
+Cette section n'est qu'une ébauche.
+
 {{%article-summary%}}
 
 - Certificat réalisé tous les 3 ans sauf liste plus bas.

@@ -434,8 +434,15 @@ div.data-table {
     0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2) !important;
 
   &-header {
+    align-items: center;
     background: transparent;
     border-bottom: 0;
+  }
+
+  &-logo {
+    width: 32px;
+    height: 32px;
+    background: url('/android-chrome-192x192.png') 100% 50%/auto 100% no-repeat;
   }
 }
 
