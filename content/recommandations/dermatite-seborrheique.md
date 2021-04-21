@@ -6,7 +6,7 @@ synonyms = ["Eczéma séborrhéique, Dermite séborrhéique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-01T22:39:41+02:00
 publishdate = 2020-09-01
-lastmod = 2020-09-01
+lastmod = 2021-04-21
 specialites = ["dermatologie"]
 annees = "2011"
 sources = ["CEDEF"]
@@ -15,9 +15,8 @@ anglais = ["Seborrheic dermatitis"]
 sctid = "50563003"
 draft = false
 flowchart = true
-image = false
-imageSrc = ""
-todo = "refaire ttt, ttt grossesse"
+image = true
+imageSrc = "Roymishali, CC BY-SA 3.0, via Wikimedia Commons"
 +++
 
 {{%article-summary%}}
@@ -40,7 +39,7 @@ Prolifération d'une levure lipophile: *Malassezia furfur*.
 - Maladie de Parkinson et syndromes extrapyramidaux iatrogènes
 - Alcoolisme chronique
 - Carcinome des VADS
-- VIH (40% des séropositifs, 80% au stade SIDA)
+- [VIH]({{< relref "vih-sida.md" >}}) (40% des séropositifs, 80% au stade SIDA)
 
 {{% warning %}}
 Une DS grave et/ou chronique doit faire dépister le VIH.
@@ -77,8 +76,8 @@ Autres atteintes: régions pileuses ou génitales.
 ### Clinique chez le nourrisson
 
 La dermatite séborrhéique débute après 15 jours de vie chez l'enfant en bonne santé et est d'évolution spontanément favorable.  
-Croûtes jaunes du cuir chevelu (« **croûtes de lait** ») et du visage, voire du siège et des plis axillaires.  
-Forme extensive: érythrodermie (de Leiner-Moussous).
+Croûtes jaunes du cuir chevelu (croûtes de lait) et du visage, voire du siège et des plis axillaires.  
+Forme extensive: érythrodermie de Leiner-Moussous.
 
 {{% /collapse %}}
 {{% collapse "Diagnostic différentiel" %}}
@@ -100,65 +99,57 @@ Comportement sexuel, notion de chancre.
 {{% /collapse %}}
 {{% collapse "Traitement de la dermatite séborrhéique" %}}
 
-Le traitement est suspensif et doit donc être répété.
+Le traitement est suspensif et doit donc être répété.  
+**Traitement d'attaque** pendant 2 à 4 semaines puis **entretien** 2 à 4 fois par mois au long cours.
 
 ### Mesures hygiéno-diététiques
 
-- Éviction des facteurs déclenchants identifiés (stress).
-- Toilette quotidienne avec savon doux.
+- Éviction des facteurs déclenchants identifiés (stress)
+- Toilette quotidienne avec savon doux
+- Respecter les conditions d'application des produits
 
 ### Traitements pharmacologiques
 
 #### Cuir chevelu
 
-Shampooing antipelliculaire en alternance avec shampooing non spécifique.
+Shampooing antipelliculaire en alternance avec shampooing doux.
 
-{{% info %}}
-**Initier le traitement**
-
+{{%info%}}
 Ciclopirox (Sebiprox®, gén) shampooing 1% (ou +)  
 OU kétoconazole (Ketoderm®, gén) gel moussant 2%
-{{% /info %}}
+{{%/info%}}
 
-- Effets indésirables communs: prurit, sensation de brûlure, xérose cutanée, interactions med
-- Contre-indications: grossesse
-- Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine, pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
+**Effets indésirables:** prurit, sensation de brûlure, xérose cutanée, interactions médicamenteuses.  
+Seule le kétoconazole topique peut être utilisé pendant la grossesse.
+
+Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine, pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
 
 #### Face et tronc
 
+{{%info%}}
 Kétoconazole gel moussant ou crème 2% x 2/semaine  
 OU ciclopirox crème 1% x 2/j
+{{%/info%}}
 
 {{%warning%}}
-**Ne pas utiliser**
+**Ne pas utiliser:**
 
-- Dermocorticoïdes
+- Dermocorticoïdes  
+Ou sur de très courtes périodes.
 - Photothérapie
 - Gluconate de lithium
-- Acide salicylique.
+- Acide salicylique
 
 {{%/warning%}}
 
-### Phases du traitement
-
-- **Traitement d'attaque**  
-Pendant 2 à 4 semaines, relayé par un traitement d'entretien séquentiel.  
-Antifongique local: Kétoconazole ou ciclopirox (cf Traitements pharmacologiques)
-- **Traitement d'entretien**  
-En relais du traitement d'attaque.
-
 ### Cas particuliers
 
-{{% warning %}}
-**Pendant la grossesse, ne pas utiliser:**
-
-Ciclopirox, kétoconazole, dermocorticoïdes, sulfure de sélénium, AINS ou acide salicylique.
-{{% /warning %}}
-
-- Formes très inflammatoire  
+- Grossesse  
+[Kétoconazole](https://lecrat.fr/spip.php?page=article&id_article=494) uniquement
+- Forme très inflammatoire  
 Les dermocorticoïdes d'activité modérée (faible sur visage) sont réservés pendant quelques jours avec relais par un traitement d'attaque.
-- Formes sévères et résistantes  
-Avis du dermatologue
+- Forme sévère et résistante  
+Avis dermatologique
 - Érythrodermie de Leiner-Moussous  
 Kétoconazole topique
 
@@ -170,13 +161,13 @@ graph TB
   suspicion[Suspicion de dermatite séborrhéique] --> diagnostic(Diagnostic clinique<br>de DS)
   style suspicion stroke:#006ef4, stroke-width:1px
   suspicion -- Diagnostic différentiel --> differentiel(Psoriasis<br>Rosacée<br>Dermatite atopique<br>Syphilis)
-  diagnostic --> scalp(Cuir chevelu<br>Ciclopirox shampooing 1%<br>OU kétoconazole gel 2%)
-  diagnostic --> face(Face et tronc<br>Kétoconazole gel/crème 2% x 2/sem<br>OU ciclopirox crème 1% x 2/j)
-  diagnostic --> grossesse(Grossesse<br>TODO)
-    scalp --> attaque(Phase d'attaque<br>Traitement 2 à 4 sem)
+  diagnostic --> scalp(Cuir chevelu<hr>Ciclopirox shampooing 1%<br>OU kétoconazole gel 2%)
+  diagnostic --> face(Face et tronc<hr>Kétoconazole gel/crème 2% x 2/sem<br>OU ciclopirox crème 1% x 2/j)
+  diagnostic --> grossesse(Grossesse<hr>Kétoconazole<br>gel/crème<br>2% x 2/sem)
+    scalp --> attaque(<b>Phase d'attaque</b><br>Traitement 2 à 4 sem)
     face --> attaque
-      attaque --> entretien(Phase d'entretien)
-        entretien -.-> severe(Sévère et résistant<br>Sérologie VIH<br>Avis dermatologue)
+      attaque --> entretien(<b>Phase d'entretien</b><br>2 à 4 appli/mois)
+        entretien -.-> severe(Sévère et résistant<hr>Sérologie VIH<br>Avis dermatologue)
 {{< /mermaid >}}
 
 {{%/collapse%}}

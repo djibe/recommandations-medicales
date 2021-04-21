@@ -91,7 +91,7 @@ Après 30 ans, dépistage tous les 5 ans avec analyse génétique, dit *test HPV
 
 Indications au vaccin HPV:
 
-- Adolescent de 11 à 14 ans révolus avec 2 doses
+- Adolescent de 11 à 14 ans révolus avec 2 doses  
 Schéma: Gardasil 9® à M0 M6-13.  
 Intérêt de co-administrer avec le rappel dTcaPolio.  
 Vaccination des garçons depuis le 1<sup>er</sup> janvier 2021.
@@ -108,7 +108,7 @@ Schéma en 3 doses de 11 à 19 ans.
 
 Spécialité unique recommandée en France: [Gardasil 9®](https://ec.europa.eu/health/documents/community-register/2020/20201124149982/anx_149982_fr.pdf)
 
-#### Intérêts de la vaccination
+#### Pour en savoir plus: Intérêts de la vaccination
 
 Prévention des lésions précancéreuses de tous les sites atteints (voir *Complications*).
 
