@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2021-04-15
+lastmod = 2021-04-21
 specialites = ["pneumologie"]
 annees = "2019"
 sources = ["GOLD", "HAS", "SPLF"]
@@ -16,7 +16,7 @@ sctid = ""
 draft = false
 image = true
 imageSrc = "Dessin de Freepik"
-todo = "def. VEMS, lire Sociétés, p.61++++, quest. CAT, GOLD 4 gpes, score BODE, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://splf.fr/wp-content/uploads/2015/01/Fiches-BPCO/F-PlanAction_2013.pdf, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, vérif def exacerbation légère"
+todo = "def. VEMS, lire Sociétés, p.61++++, quest. CAT, GOLD 4 gpes, score BODE, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://splf.fr/wp-content/uploads/2015/01/Fiches-BPCO/F-PlanAction_2013.pdf, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, vérif def exacerbation légère, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86"
 +++
 
 Rédaction en cours mais bien avancée.
@@ -42,7 +42,7 @@ Bronchopneumopathie chronique obstructive (BPCO)
 : Causes de mortalité: insuffisance respiratoire (10% en Gold 1, 50% en Gold 4), maladies cardio-vasculaires (20-40%), cancers (10-20%).
 
 Exacerbation de BPCO (EABPCO)
-: Le diagnostic est clinique: aggravation aiguë des symptômes respiratoires au-delà des variations quotidiennes justifiant une modification thérapeutique (augmentation des Bronchodilatateurs > 24h ou ajout d'un traitement).
+: Le diagnostic est clinique: aggravation aiguë des symptômes respiratoires au-delà des variations quotidiennes justifiant une modification thérapeutique (augmentation des bronchodilatateurs > 24h ou ajout d'un traitement).
 : Critères: augmentation de la dyspnée, toux, volume/aspect des expectorations.  
 **Exacerbations fréquentes quand ≥ 2 épisodes/an**.
     - **Exacerbation légère**. Résolutive sous BDCA seuls
@@ -137,7 +137,13 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
 - Antécédents  
 Asthme, allergie, atopie, sinusite, polypes du rhinopharynx, infections respiratoires infantiles, hospitalisations pour pathologies respiratoires.
 - Comorbidités  
-Coronaropathie, AVC, AOMI, ostéoporose, pathologies musculo-squelettiques.
+  - Cardiovasculaires  
+  Coronaropathie, AVC, AOMI, insuffisance cardiaque, arythmie, diabète
+  - Cancers liés au tabac (VADS, vessie, digestifs)
+  - Dépression, anxiété, addictions
+  - Ostéoporose et amyotrophie
+  - Obésité, dénutrition, anémie et polyglobulie
+  - Troubles du sommeil, apnées du sommeil
 - Antécédents familiaux  
 BPCO et maladies respiratoires.
 - Terrain  
@@ -211,6 +217,8 @@ Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-tvo >}}
 - Réadaptation respiratoire
   - Essentielle pour tous pour réduire la dyspnée, le stress et améliorer la qualité de vie
   - [Liste des centres de RR](https://splf.fr/la-carte-de-la-rehabilitation-respiratoire/)
+  - Voire à domicile par kiné  
+  "Séances de réadaptation respiratoire kinésithérapique pour maladie respiratoire chronique obstructive".
 - Activité physique régulière
   - Augmenter le temps de marche quotidien, escaliers, vélo
   - [Annuaire pour l'Activité Physique Adaptée (APA)](https://www.sfp-apa.fr/annuaire/)
@@ -222,8 +230,11 @@ Dont santé bucco-dentaire et diététicien.
 Systématique, voir le chapitre suivant.
 - Observance et techniques de prises de tous les traitements
 - Soutien psychologique
+- Personne de confiance
 - Associations de patients  
 [Santé Respiratoire France](https://sante-respiratoire.com/), [FFAAIR](https://www.ffaair.org/), [arairlor](https://arairlor.asso.fr/), [lesouffle](https://www.lesouffle.org/).
+- Déclin respiratoire  
+Directives anticipées, [soins palliatifs](http://www.sfap.org/annuaire).
 
 ### Bronchodilatateurs
 
@@ -303,9 +314,68 @@ Relève exclusivement du spécialiste.
 {{% /collapse %}}
 {{%collapse "Traitement - exacerbation de BPCO et Plan d'Action" %}}
 
+### 1. Éliminer un diagnostic différentiel
+
+- Syndrome coronarien aigu
+- Aggravation de l'insuffisance cardiaque
+- [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
+- Pneumopathie aiguë communautaire
+
+### 2. Rechercher le facteur déclenchant
+
+- Infection virale ou bactérienne
+- Pollution intérieure/extérieure
+- Arrêt du traitement de fond
+
+**Facteurs favorisants les EABPCO:** manque d'activité physique, tabagisme, douleur, anxiété, médicaments dépresseur respiratoire.
+
+### 3. Hospitaliser ?
+
+Critères d'hospitalisation en exacerbation de BPCO:
+
+- Âge > 85 ans
+- Dyspnée basale {{< modal-btn modal-score-mmrc >}}mMRC 4 ou 5{{< /modal-btn >}}
+- Oxygénorequérant
+- Exacerbations antérieures sévères
+- Mauvaise tolérance  
+SpO<sub>2</sub> < 90%, pouls > 110/min, respiration paradoxale, tirage, cyanose.
+- Hypercapnie  
+{{< clinique/hypercapnie >}}
+- Encombrement important, difficultés à la toux
+- Troubles de conscience
+- Anomalies radiologiques ou ECG
+- Comorbidités
+- Contexte social
+- Échec du traitement ambulatoire
+
+Joindre le courrier détaillé des traitements en cours, contexte social, derniers bilans, personne de confiance, directives anticipées.
+
+### 4. Examens complémentaires en EABPCO
+
+- SpO<sub>2</sub>, gaz du sang si oxygénorequérant
+- Biologie selon comorbidités et examen  
+Urémie, créatininémie, BNP, D-dimères
+- Radiographie thoracique en incertitude
+
+### 5. Traitement de l'exacerbation de BPCO
+
+- Réévaluation toutes les 48-72h
+- Augmenter la dose et la fréquence des {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} jusqu'à l'amélioration des symptômes
+- Kinésithérapie respiratoire si encombrement
+- [Antibiothérapie](https://antibioclic.com/questionnaire/36) si augmentation de la purulence des crachats
+- Corticothérapie orale si dyspnée invalidante  
+Prednisolone 40 mg pendant 5 jours
+- Avis pneumologique
+  - Urgent: suspicion de germe résistant, récidive d'exacerbation, nébulisations
+  - À distance: réévaluation
+
+Si récupération incomplète: spirométrie à 3 mois.
+
 ### Plan d'action personnalisé en cas d'exacerbation
 
-{{%info%}}Toujours remettre au patient le Plan d'action. Son entourage doit aussi le connaître.{{%/info%}}
+[Modèle SPLF du Plan d'action BPCO](https://splf.fr/wp-content/uploads/2017/09/F-PlanAction_2013-o.pdf)
+
+{{%info%}}Toujours remettre au patient le Plan d'Action. Son entourage doit aussi le connaître.{{%/info%}}
 
 - Savoir quand appeler son médecin généraliste ou son pneumologue
 - Ajuster le traitement bronchodilatateur aux symptômes
@@ -318,8 +388,6 @@ bénéfices
 - Savoir consulter ou rapprocher les séances de drainage bronchiques avec le kiné, connaître les méthodes d'auto-drainage et avoir une ordonnance d'avance
 - Connaître les critères justifiant le recours aux urgences: dyspnée de repos, cyanose, œdèmes des membres inférieurs, troubles de la conscience. Connaître les numéros d'urgence.
 
-Récupération incomplète: spirométrie à 3 mois
-
 {{% /collapse %}}
 {{%collapse "BPCO et hospitalisation" %}}
 
@@ -327,15 +395,34 @@ Récupération incomplète: spirométrie à 3 mois
 
 ### Indications à l'hospitalisation en exacerbation
 
-TODO:
+- Âge > 85 ans
+- Dyspnée basale {{< modal-btn modal-score-mmrc >}}mMRC 4 ou 5{{< /modal-btn >}}
+- Oxygénorequérant
+- Exacerbations antérieures sévères
+- Mauvaise tolérance  
+SpO<sub>2</sub> < 90%, pouls > 110/min, respiration paradoxale, tirage, cyanose.
+- Hypercapnie  
+{{< clinique/hypercapnie >}}
+- Encombrement important, difficultés à la toux
+- Troubles de conscience
+- Anomalies radiologiques ou ECG
+- Comorbidités
+- Contexte social
+- Échec du traitement ambulatoire
 
 ### Sortie d'hospitalisation après une exacerbation de BPCO
 
-- Consultation du médecin traitant dans la semaine, 1 mois, 6 mois
-- Contrôle du traitement par BDLA
-- Consultation du pneumologue entre 1 et 2 mois
+- Programme de retour à domicile Prado  
+Inclure le patient sur Ameli Pro.
+- Consultation du médecin traitant dans la semaine, puis 1 mois, 3 mois et 6 mois
+- Contrôle du traitement par BDLA ({{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-lama >}}association{{< /modal-btn >}})
+- Consultation du pneumologue dans le mois (voire 2 mois)  
+{{%class%}}Avec EFR et gaz du sang.{{%/class%}}
+- Réadaptation respiratoire dans les 2 à 4 semaines  
+{{%class%}}Diminue la mortalité et le risque de ré-hospitalisation.{{%/class%}}
+- Suivi infirmier à domicile
 - Contrôler le PPS
-- Réadaptation respiratoire dans les 3 mois
+- Poursuivre les traitements de l'état stable
 
 {{% /collapse %}}
 {{%collapse "Surveillance" %}}
@@ -366,6 +453,8 @@ Asthme, insuffisance cardiaque, [hypertension pulmonaire]({{< relref "hypertensi
 {{% /collapse %}}
 {{%collapse "Information du patient BPCO" %}}
 
+[Carnet de suivi BPCO par la SPLF](http://www.carnet-bpco.fr/)
+
 - Explication de la BPCO: l’acronyme, la maladie et ses symptômes
 - Conseils pour arrêter de fumer (tabac, cannabis) et son intérêt pour l’évolution de la maladie
 - Conseils pour éviter le tabagisme passif et les aéropolluants professionnels
@@ -390,12 +479,12 @@ Asthme, insuffisance cardiaque, [hypertension pulmonaire]({{< relref "hypertensi
 - [HAS. Bronchopneumopathie chronique obstructive. Guide du parcours de soins. Novembre 2019.](https://www.has-sante.fr/jcms/c_1242507/fr/guide-du-parcours-de-soins-bronchopneumopathie-chronique-obstructive-bpco)
 - [Prescrire Redaction. Bronchodilatateurs pour inhalation buccale dans la bronchopneumopathie chronique obstructive (BPCO) (commercialisés en France au 11 décembre 2018). Rev Prescrire 2019 ; 39 (424) : 91.](https://prescrire.org/)
 - [Delmas MC et al; Groupe Baromètre santé 2017. Connaissance de la bronchopneumopathie chronique obstructive (BPCO) en France : Baromètre santé 2017. Bull Epidémiol Hebd. 2018;(35-36):703-8.](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)
+- [Jouneau S. et al; SPLF. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017.](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
 - [Zysman M. et al; SPLF. Propositions de la SPLF pour l’optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016.](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
 
 ### À lire
 
 - [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. December 2019.](https://goldcopd.org/wp-content/uploads/2019/12/GOLD-2020-FINAL-ver1.2-03Dec19_WMV.pdf)
-- [Jouneau S. et al; SPLF. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017.](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
 - [Prescrire Redaction. Questionner sa pratique : préserver la qualité de vie des patients souffrant de BPCO. Rev Prescrire 2020 ; 40 (445) : 861-864.](https://prescrire.org/)
 - [Prescrire Redaction. Bronchopneumopathie chronique obstructive - Premiers Choix Prescrire, actualisation juillet 2020. Rev Prescrire 2020 ; 40 (444) : 737.](https://prescrire.org/)
 

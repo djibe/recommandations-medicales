@@ -53,7 +53,8 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
       </div>
     </div>
     <h6 class="typography-overline font-weight-bolder mt-lg-5">Patchs remboursés (systématique)</h6>
-    {{% class "typography-body-2 text-black-secondary" %}}Le matin au réveil sur zone au choix. Changer de place quotidiennement.{{%/class%}}
+    {{% class "typography-body-2 text-black-secondary" %}}Le matin au réveil sur la zone au choix. Changer de place quotidiennement.{{%/class%}}
+    <p>Une cigarette = environ 1 mg de nicotine</p>
     <ul class="list-group list-group-xs">
       <li class="list-group-item">Nicopatchlib 14 mg<span class="text-muted">/24h</span></li>
       <!--Pierre Fabre-->

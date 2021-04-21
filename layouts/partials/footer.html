@@ -52,8 +52,8 @@
   crossorigin></script>
 <script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }}
   crossorigin></script>
-<script src="{{ .Site.Params.cdn.material_js}}" crossorigin></script>
-<script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" async crossorigin></script>
+<script src="{{ .Site.Params.cdn.material_js}}" crossorigin defer></script>
+<script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" crossorigin defer></script>
 
 {{- with .Params.flowchart }}
 <script src="https://cdn.jsdelivr.net/npm/mermaid@8.9.2/dist/mermaid.min.js" integrity="sha256-Zmpaaj+GXFsPF5WdPArSrnW3b30dovldeKsW00xBVwE=" crossorigin async></script>
@@ -147,8 +147,8 @@
 </script>
 
 {{ $searchjs := resources.Get "js/search.js" | minify }}
-<script src="{{ $searchjs.Permalink }}" async></script>
-<script>
+<script src="{{ $searchjs.Permalink }}" defer></script>
+<script><!-- Custom scripts -->
   {{ if eq .Section "recommandations" }}
 
     // Don't follow external sources
