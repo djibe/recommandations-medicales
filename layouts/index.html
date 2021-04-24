@@ -13,19 +13,18 @@
   </div>
   <section class="row mt-lg-5 mb-5">
     <div class="col-12">
-      <p class="typography-overline" style="color: #666">Les dernières mises à jour</p>
+      <p class="typography-overline" style="color: #666">Dernières recommandations publiées</p>
     </div>
     {{ range ( where site.RegularPages "Section" "recommandations" | first 6 ) }}
     <div class="col-12 col-sm-6 col-xl-4 d-flex mb-1 mb-lg-3">
       <div class="card flex-fill">
         <div class="card-body card-primary-action">
           <h3 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h3>
-          <p class="card-subtitle">
+          <p class="card-subtitle pb-0">
             {{ with .Params.auteurs}}
             {{ delimit . ", " }}{{ end }} le
             <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .Lastmod.Format "2 Jan" }}</time>
           </p>
-          <p class="card-text">{{ replace .Summary "Résumé des recommandations" "" | safeHTML | truncate 300 }}</p><!-- TODO: multiple replace -->
         </div>
         <div class="card-actions">
           {{ partial "widgets/guidelineyear-render.html" . }}{{ partial "widgets/tags-render.html" . }}

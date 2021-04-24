@@ -10,7 +10,7 @@ lastmod = 2021-04-02
 specialites = ["cardiologie"]
 annees = "2019"
 sources = ["SFC", "SPLF"]
-tags = ["dyspnee", "MVTE"]
+tags = ["anticoagulant", "dyspnee", "MVTE"]
 anglais = ["Pulmonary embolism"]
 sctid = "59282003"
 draft = false
@@ -21,7 +21,7 @@ imageSrc = "Embolie segmentaire par scientificanimations.com, CC BY-SA 4.0"
 todo = "p.21, flowchart duree, def cancer actif, carnet AVK"
 +++
 
-En voie de finalisation. La durée de traitement est manquante
+En voie de finalisation. La durée de traitement est manquante.
 
 {{%article-summary%}}
 

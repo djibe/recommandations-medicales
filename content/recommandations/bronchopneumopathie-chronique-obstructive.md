@@ -19,8 +19,6 @@ imageSrc = "Dessin de Freepik"
 todo = "def. VEMS, lire Sociétés, p.61++++, quest. CAT, GOLD 4 gpes, score BODE, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://splf.fr/wp-content/uploads/2015/01/Fiches-BPCO/F-PlanAction_2013.pdf, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, vérif def exacerbation légère, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86"
 +++
 
-Rédaction en cours mais bien avancée.
-
 {{%article-summary%}}
 
 - {{< modal-btn modal-depistage-bpco >}}Dépistage{{< /modal-btn >}} et arrêt du tabac pour tout le monde  
@@ -45,9 +43,9 @@ Exacerbation de BPCO (EABPCO)
 : Le diagnostic est clinique: aggravation aiguë des symptômes respiratoires au-delà des variations quotidiennes justifiant une modification thérapeutique (augmentation des bronchodilatateurs > 24h ou ajout d'un traitement).
 : Critères: augmentation de la dyspnée, toux, volume/aspect des expectorations.  
 **Exacerbations fréquentes quand ≥ 2 épisodes/an**.
-    - **Exacerbation légère**. Résolutive sous BDCA seuls
-    - **Modérée**. BDCA + antibiotiques ± corticoïdes inhalés
-    - **Sévère**. Passage aux urgences ou hospitalisation
+    - **Exacerbation légère**: résolutive en majorant le traitement actuel
+    - **Modérée**: nécessitant 1/+ traitements supplémentaires
+    - **Sévère**: passage aux urgences ou hospitalisation
 
 Bronchite chronique
 : Abandonnée par le GOLD car n’est présente que chez une minorité de patients atteints de BPCO.
@@ -203,7 +201,7 @@ Scanner thoracique, ECBC, alpha1 antitrypsine... selon le pneumologue.
 {{% /collapse %}}
 {{%collapse "Traitement - état stable" %}}
 
-- [ALD n°14]({{< relref "affection-longue-duree.md" >}})
+- [ALD n°14]({{< relref "affection-longue-duree.md" >}})  
 Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-tvo >}}VEMS < 50%{{< /modal-btn >}}
 - Arrêt du tabac
   - Principal facteur pronostique
@@ -216,9 +214,9 @@ Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-tvo >}}
   - IRespC: pneumocoque tous les 5 ans
 - Réadaptation respiratoire
   - Essentielle pour tous pour réduire la dyspnée, le stress et améliorer la qualité de vie
-  - [Liste des centres de RR](https://splf.fr/la-carte-de-la-rehabilitation-respiratoire/)
+  - [Liste des centres de réadaptation respiratoire (RR)](https://splf.fr/la-carte-de-la-rehabilitation-respiratoire/)
   - Voire à domicile par kiné  
-  "Séances de réadaptation respiratoire kinésithérapique pour maladie respiratoire chronique obstructive".
+  Prescrire: "Séances de réadaptation respiratoire kinésithérapique pour maladie respiratoire chronique obstructive".
 - Activité physique régulière
   - Augmenter le temps de marche quotidien, escaliers, vélo
   - [Annuaire pour l'Activité Physique Adaptée (APA)](https://www.sfp-apa.fr/annuaire/)

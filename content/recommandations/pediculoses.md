@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-18T18:48:00+02:00
 publishdate = 2021-04-21
 lastmod = 2021-04-21
-specialites = ["infectiologie"]
+specialites = ["dermatologie"]
 annees = "2020"
 sources = ["CMIT", "CSHP", "SFDermato"]
 tags = []
@@ -82,8 +82,7 @@ Le traitement d'une pédiculose active doit être systématique.
 
 ### Pédiculose du cuir chevelu
 
-- Examiner et traiter simultanément l'entourage atteint  
-Traitement systématique de la fratrie.
+- Examiner et traiter simultanément l'entourage atteint
 - Diméticone lotion (Pouxit® ou autre)
   - Produit inflammable
   - [Possible pendant la grossesse](http://lecrat.fr/articleSearchSaisie.php?recherche=dimeticone)

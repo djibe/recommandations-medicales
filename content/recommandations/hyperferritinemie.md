@@ -31,11 +31,11 @@ todo = "échoabdo?, gérer seul sd métabo, https://www.fmcgastro.org/postu-main
 
 Ferritine
 : Protéine intracellulaire du stockage du fer. La ferritinémie est donc un reflet indirect de ce stock.  
-De nombreuses maladies influent sur la ferritinémie, en dehors de l'*hémochromatose HFE C282Y* dont la prise en charge est cadrée (chapitre dédié à venir).
+De nombreuses maladies influent sur la ferritinémie, en dehors de l'*hémochromatose HFE C282Y* dont la prise en charge est codifiée (chapitre dédié à venir).
 
 Hyperferritinémie (HF)
-: Ferritinémie > 200 µg/L chez la femme et 300 µg/L chez l'homme.
-: Elle est modérée jusqu'à 500 µg/L, nette jusqu'à 1000 µg/L et majeure > 1000 µg/L.
+: Ferritinémie **> 200 µg/L chez la femme** et **300 µg/L chez l'homme**.
+: Elle est *modérée* jusqu'à 500 µg/L, *nette* jusqu'à 1000 µg/L et *majeure* > 1000 µg/L.
 
 ### Abréviations
 
@@ -184,7 +184,7 @@ graph TB
 
 {{< /mermaid >}}
 
-> **HF:** hyperferritinémie
+> **HF:** hyperferritinémie (en µg/L)
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

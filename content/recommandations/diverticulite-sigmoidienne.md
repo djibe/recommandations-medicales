@@ -148,7 +148,7 @@ graph TB
             scanner -.-> autre
             scanner -- Oui --> Hospitalisation
             scanner -- Non --> med(Surveillance clinique)
-              med -.-> echec("Aggravation à 48h<br>sans critère d'hospitalisation") --> atb("<b>Antibiothérapie orale</b><br>Amox + a. clavulanique 1g x 3/j 7j<br>") -. Allergie vraie .-> allergie("lévofloxacine 500mg 1/j<br>ou ciprofloxacine 500mg x 2/j<br>+ métronidazole 500mg x 3/j 7j")
+              med -.-> echec("Aggravation à 48h<br>sans critère d'hospitalisation") --> atb("<b>Antibiothérapie orale</b><br>Amox + a. clavulanique 1 g x 3/j 7j<br>") -. Allergie vraie .-> allergie("ATB 7 jours par<br>lévofloxacine 500 mg 1/j<br>OU ciprofloxacine 500 mg x 2/j<br>+ métronidazole 500 mg x 3/j")
         bio --> SIB-(Pas de SIB) --> autre(Autre diagnostic)
 {{< /mermaid >}}
 
@@ -156,7 +156,7 @@ graph TB
 {{%collapse "Sources" %}}
 
 - [Meurette G. et Vitton V. Diverticulite sigmoïdienne à l’heure des recommandations. POST'U 2019 - Paris](https://www.fmcgastro.org/texte-postu/postu-2019-paris/diverticulite-en-2019/)
-- [Rouillon JM, SNFGE. Prise en charge de la diverticulite sigmoïdienne.](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/prise_en_charge_de_la_diverticulite.pdf)
+- [Rouillon JM; SNFGE. Prise en charge de la diverticulite sigmoïdienne.](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/prise_en_charge_de_la_diverticulite.pdf)
 - [HAS. Prise en charge médicale et chirurgicale de la diverticulite colique. Novembre 2017.](https://www.has-sante.fr/jcms/c_2806798/fr/prise-en-charge-medicale-et-chirurgicale-de-la-diverticulite-colique)
 
 {{% /collapse %}}

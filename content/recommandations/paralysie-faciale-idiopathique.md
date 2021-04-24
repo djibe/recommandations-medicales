@@ -34,7 +34,7 @@ Ces recommandations concernent l'adulte.
 {{%collapse "Définition" %}}
 
 Paralysie faciale périphérique idiopathique (PFI)
-: Anciennement appelée paralysie faciale périphérique a frigore.  
+: Anciennement appelée *paralysie faciale périphérique a frigore*.  
 *Paralysie faciale périphérique* (PFP) d'installation brutale pouvant s'aggraver pendant maximum 72 heures.  
 Elle touche les territoires supérieur et inférieur du nerf facial (VII) de l'hémiface avec une atteinte des motricités volontaire, automatique et émotionnelle.  
 La guérison spontanée sous 6 mois est observée dans 70% des cas, elle est corrélée à la gravité initiale.
@@ -45,7 +45,7 @@ Les récidives sont exceptionnelles (6%).
 
 **ENMG:** électroneuromyogramme  
 **PF:** paralysie faciale  
-**PFI:** paralysie faciale idiopathique (anciennement *a frigore*)  
+**PFI:** paralysie faciale idiopathique (anciennement *paralysie faciale a frigore*)  
 **PFP:** paralysie faciale périphérique
 
 {{% /collapse %}}
