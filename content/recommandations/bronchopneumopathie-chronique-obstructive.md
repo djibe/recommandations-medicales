@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2021-04-21
+lastmod = 2021-04-25
 specialites = ["pneumologie"]
 annees = "2019"
 sources = ["GOLD", "HAS", "SPLF"]
@@ -15,8 +15,8 @@ anglais = ["Chronic Obstructive Pulmonary Disease (COPD)"]
 sctid = ""
 draft = false
 image = true
-imageSrc = "Dessin de Freepik"
-todo = "def. VEMS, lire Sociétés, p.61++++, quest. CAT, GOLD 4 gpes, score BODE, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://splf.fr/wp-content/uploads/2015/01/Fiches-BPCO/F-PlanAction_2013.pdf, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, vérif def exacerbation légère, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86"
+imageSrc = "Illustration de Freepik"
+todo = "def. CVF, vacc. pneumocoque pour tous?, p.61++++, quest. CAT, GOLD 4 gpes, score BODE, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://splf.fr/wp-content/uploads/2015/01/Fiches-BPCO/F-PlanAction_2013.pdf, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, vérif def exacerbation légère, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86"
 +++
 
 {{%article-summary%}}
@@ -68,11 +68,12 @@ Insuffisance respiratoire chronique
 **BDLA:** bronchodilatateur de longue durée d'action  
 **BPCO:** bronchopneumopathie chronique obstructive  
 **CSI:** corticostéroïde inhalé  
-**CVF:**  
+**CVF:** TODO:  
 **DEP:** débit expiratoire de pointe  
 **EABPCO:** exacerbation de BPCO  
 **EFR:** épreuves fonctionnelles respiratoires  
 **EI:** effet indésirable  
+**FC:** fréquence cardiaque  
 **GOLD:** {{%lang%}}Global Initiative for Chronic Obstructive Lung Disease{{%/lang%}}  
 **LABA:** {{%lang%}}Long Acting ß2 Agent{{%/lang%}}, bêta-2-agoniste de longue durée d'action  
 **LAMA:** {{%lang%}}Long Acting Muscarinic Agent{{%/lang%}}, anticholinergique de longue durée d'action  
@@ -185,7 +186,7 @@ Bilan systématique:
 
 ### Spirométrie
 
-Examen diagnostique de référence.  
+Examen diagnostique de référence: VEMS/CV post-bronchodilatateur < 0,7.  
 Mesure également la {{< modal-btn modal-severite-tvo >}}sévérité de l'obstruction bronchique par le VEMS{{< /modal-btn >}}.  
 Cotation CCAM: GLQP012, 40,28€.  
 Les autres examens recherchent des complications.
@@ -197,6 +198,15 @@ Indications: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3
 ### Autres
 
 Scanner thoracique, ECBC, alpha1 antitrypsine... selon le pneumologue.
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+- Asthme (voir Clinique)
+- Dilatation des bronches
+- Emphysème pulmonaire
+- Insuffisance cardiaque chronique
+- [Tuberculose]({{< relref "tuberculose.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Traitement - état stable" %}}
@@ -211,7 +221,7 @@ Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-tvo >}}
   Aérosols, combustion de bois ou biomasse, moisissures.
 - Vaccination
   - Antigrippale annuelle
-  - IRespC: pneumocoque tous les 5 ans
+  - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque tous les 5 ans{{< /modal-btn >}}
 - Réadaptation respiratoire
   - Essentielle pour tous pour réduire la dyspnée, le stress et améliorer la qualité de vie
   - [Liste des centres de réadaptation respiratoire (RR)](https://splf.fr/la-carte-de-la-rehabilitation-respiratoire/)
@@ -226,6 +236,8 @@ Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-tvo >}}
 Dont santé bucco-dentaire et diététicien.
 - Éducation thérapeutique et Plan d'action  
 Systématique, voir le chapitre suivant.
+- Réévaluation de médicaments bronchoconstricteurs  
+Bêtabloquant (même cardiosélectif ou oculaire), ticagrélor, adénosine, latanoprost
 - Observance et techniques de prises de tous les traitements
 - Soutien psychologique
 - Personne de confiance
@@ -344,7 +356,7 @@ SpO<sub>2</sub> < 90%, pouls > 110/min, respiration paradoxale, tirage, cyanose.
 - Anomalies radiologiques ou ECG
 - Comorbidités
 - Contexte social
-- Échec du traitement ambulatoire
+- Échec du traitement ambulatoire ou aggravation à 48-72h (SPLF 2017)
 
 Joindre le courrier détaillé des traitements en cours, contexte social, derniers bilans, personne de confiance, directives anticipées.
 
@@ -352,20 +364,23 @@ Joindre le courrier détaillé des traitements en cours, contexte social, dernie
 
 - SpO<sub>2</sub>, gaz du sang si oxygénorequérant
 - Biologie selon comorbidités et examen  
-Urémie, créatininémie, BNP, D-dimères
+  - Urémie, créatininémie, BNP, D-dimères
+  - Les CRP et PCT ne sont pas fiables pour étayer une surinfection (SPLF 2017)
+- ECG si FC > 100 ou < 60/min (SPLF 2017)
 - Radiographie thoracique en incertitude
 
 ### 5. Traitement de l'exacerbation de BPCO
 
-- Réévaluation toutes les 48-72h
+- Réévaluation toutes les 24-72h
 - Augmenter la dose et la fréquence des {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} jusqu'à l'amélioration des symptômes
+- Envisager l'utilisation d'une chambre d'inhalation (3-5 inspirations par dose de BDCA)
 - Kinésithérapie respiratoire si encombrement
 - [Antibiothérapie](https://antibioclic.com/questionnaire/36) si augmentation de la purulence des crachats
 - Corticothérapie orale si dyspnée invalidante  
 Prednisolone 40 mg pendant 5 jours
 - Avis pneumologique
-  - Urgent: suspicion de germe résistant, récidive d'exacerbation, nébulisations
-  - À distance: réévaluation
+  - Urgent si: suspicion de germe résistant, récidive d'exacerbation, nébulisations
+  - Réévaluation systématique à distance de l'exacerbation
 
 Si récupération incomplète: spirométrie à 3 mois.
 
@@ -373,7 +388,7 @@ Si récupération incomplète: spirométrie à 3 mois.
 
 [Modèle SPLF du Plan d'action BPCO](https://splf.fr/wp-content/uploads/2017/09/F-PlanAction_2013-o.pdf)
 
-{{%info%}}Toujours remettre au patient le Plan d'Action. Son entourage doit aussi le connaître.{{%/info%}}
+{{%info%}}Toujours remettre au patient le *Plan d'Action*. Son entourage doit aussi le connaître.{{%/info%}}
 
 - Savoir quand appeler son médecin généraliste ou son pneumologue
 - Ajuster le traitement bronchodilatateur aux symptômes
@@ -406,18 +421,19 @@ SpO<sub>2</sub> < 90%, pouls > 110/min, respiration paradoxale, tirage, cyanose.
 - Anomalies radiologiques ou ECG
 - Comorbidités
 - Contexte social
-- Échec du traitement ambulatoire
+- Échec du traitement ambulatoire ou aggravation à 48-72h (SPLF 2017)
 
 ### Sortie d'hospitalisation après une exacerbation de BPCO
 
 - Programme de retour à domicile Prado  
 Inclure le patient sur Ameli Pro.
-- Consultation du médecin traitant dans la semaine, puis 1 mois, 3 mois et 6 mois
+- Consultation du médecin traitant dans la semaine, puis 1 mois, 3 mois, 6 mois et 1 an
 - Contrôle du traitement par BDLA ({{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-lama >}}association{{< /modal-btn >}})
 - Consultation du pneumologue dans le mois (voire 2 mois)  
 {{%class%}}Avec EFR et gaz du sang.{{%/class%}}
 - Réadaptation respiratoire dans les 2 à 4 semaines  
 {{%class%}}Diminue la mortalité et le risque de ré-hospitalisation.{{%/class%}}
+- Encourager à l'arrêt du tabac (voir *État stable*)
 - Suivi infirmier à domicile
 - Contrôler le PPS
 - Poursuivre les traitements de l'état stable
@@ -474,17 +490,17 @@ Asthme, insuffisance cardiaque, [hypertension pulmonaire]({{< relref "hypertensi
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Prescrire Redaction. Questionner sa pratique : préserver la qualité de vie des patients souffrant de BPCO. Rev Prescrire 2020 ; 40 (445) : 861-864.](https://prescrire.org/)
+- [Prescrire Redaction. Bronchopneumopathie chronique obstructive - Premiers Choix Prescrire, actualisation juillet 2020. Rev Prescrire 2020 ; 40 (444) : 737.](https://prescrire.org/)
 - [HAS. Bronchopneumopathie chronique obstructive. Guide du parcours de soins. Novembre 2019.](https://www.has-sante.fr/jcms/c_1242507/fr/guide-du-parcours-de-soins-bronchopneumopathie-chronique-obstructive-bpco)
 - [Prescrire Redaction. Bronchodilatateurs pour inhalation buccale dans la bronchopneumopathie chronique obstructive (BPCO) (commercialisés en France au 11 décembre 2018). Rev Prescrire 2019 ; 39 (424) : 91.](https://prescrire.org/)
 - [Delmas MC et al; Groupe Baromètre santé 2017. Connaissance de la bronchopneumopathie chronique obstructive (BPCO) en France : Baromètre santé 2017. Bull Epidémiol Hebd. 2018;(35-36):703-8.](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)
-- [Jouneau S. et al; SPLF. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017.](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
+- [Jouneau S. et al; SPLF. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017. FR, EN.](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
 - [Zysman M. et al; SPLF. Propositions de la SPLF pour l’optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016.](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
 
 ### À lire
 
 - [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. December 2019.](https://goldcopd.org/wp-content/uploads/2019/12/GOLD-2020-FINAL-ver1.2-03Dec19_WMV.pdf)
-- [Prescrire Redaction. Questionner sa pratique : préserver la qualité de vie des patients souffrant de BPCO. Rev Prescrire 2020 ; 40 (445) : 861-864.](https://prescrire.org/)
-- [Prescrire Redaction. Bronchopneumopathie chronique obstructive - Premiers Choix Prescrire, actualisation juillet 2020. Rev Prescrire 2020 ; 40 (444) : 737.](https://prescrire.org/)
 
 {{% /collapse %}}
 <!-- Scores -->
@@ -532,5 +548,10 @@ Asthme, insuffisance cardiaque, [hypertension pulmonaire]({{< relref "hypertensi
 {{% modal title="Associations bi-BDLA et corticoïdes" id="modal-ttt-laba-lama-csi"%}}
 
 {{< traitements/laba-lama-csi >}}
+
+{{% /modal %}}
+{{% modal title="Vaccination anti-pneumococcique" id="modal-vaccin-pneumocoque"%}}
+
+{{< traitements/vaccin-pneumocoque >}}
 
 {{% /modal %}}

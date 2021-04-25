@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-23T22:24:41+02:00
 publishdate = 2020-10-23
-lastmod = 2020-12-17
+lastmod = 2021-04-25
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "EULAR", "ACR"]
@@ -165,7 +165,8 @@ Si symptomatique et état rénal ou cardio-vasculaire correct.
 Gérer la douleur, handicap, observance, maintien de l’activité professionnelle.
 - **Suivi bucco-dentaire rigoureux**
 - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md">}})  
-dTP tous les 10 ans, pneumocoque tous les 5 ans.
+  - dTP tous les 10 ans
+  - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque tous les 5 ans{{< /modal-btn >}}
 - Mise à jour des dépistages des cancers
 - Arrêt du tabac
 - Correction des facteurs de risque cardiovasculaires
@@ -303,3 +304,9 @@ Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
 - [Cofer. Polyarthrite rhumatoïde. Item 192 UE 7.](https://web.archive.org/web/20200923115550/http://www.lecofer.org/item-cours-1-19.php)
 
 {{% /collapse %}}
+<!-- Modal -->
+{{% modal title="Vaccination anti-pneumococcique" id="modal-vaccin-pneumocoque"%}}
+
+{{< traitements/vaccin-pneumocoque >}}
+
+{{% /modal %}}

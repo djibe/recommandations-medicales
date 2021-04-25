@@ -48,15 +48,13 @@
   </div>
 </div>
 
-<script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }}
-  crossorigin></script>
-<script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }}
-  crossorigin></script>
+<script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin></script>
+<script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin></script>
 <script src="{{ .Site.Params.cdn.material_js}}" crossorigin defer></script>
 <script src="https://instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" crossorigin defer></script>
 
 {{- with .Params.flowchart }}
-<script src="https://cdn.jsdelivr.net/npm/mermaid@8.9.2/dist/mermaid.min.js" integrity="sha256-Zmpaaj+GXFsPF5WdPArSrnW3b30dovldeKsW00xBVwE=" crossorigin async></script>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@8.9.3/dist/mermaid.min.js" integrity="sha256-OyJHvRcZHaRR6Ig73ppxF4QXk8HzvfgTprRWkulCkfY=" crossorigin async></script>
 <script>
   // https://mermaid-js.github.io/mermaid/#/Setup?id=fontfamily
 

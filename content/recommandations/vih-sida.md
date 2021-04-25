@@ -261,7 +261,7 @@ Palpation des aires ganglionnaires au moins 1/an.
   - Méningocoque C  
   Jusqu'à 26 ans, 2 injections à M0M6.
 - Grippe annuelle
-- Hépatite A  
+- {{< modal-btn modal-vaccin-hepatite-a >}}Hépatite A{{< /modal-btn >}}  
 Indications: co-infection VHB ou VHC, hépatopathie chronique, alcool, voyage zone endémique.
 Contrôle sérologique préalable.  
 Contrôle IgG post-vaccinal 2 mois après la 2<sup>e</sup> injection.
@@ -273,18 +273,18 @@ Rappel si anticorps anti-HBs < 10 UI/mL.
 - [Papillomavirus]({{< relref "papillomavirus.md" >}})  
 Enfants de 11 à 19 ans vivant avec le VIH par le schéma d'injection en 3 doses:  
 Gardasil 9® à M0, M2 et M6.
-- Pneumocoque
+- {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque tous les 5 ans{{< /modal-btn >}}
 
 ### Vaccinations lorsque CD4 > 200/mm³
 
 - ROR  
-Contrôle sérologique préalable +/- bHCG.
+Contrôle sérologique préalable ± ßHCG.
 2 injections à M0M2.
 - Varicelle  
 Contrôle sérologique préalable.  
 2 injections à M0M2.
-- Fièvre jaune  
-Guyane.
+- [Fièvre jaune]({{< relref "fievre-jaune.md" >}})  
+Séjour en Guyane.
 
 {{%warning%}}Contre-indication au BCG quel que soit le taux de CD4.{{%/warning%}}
 
@@ -375,3 +375,14 @@ Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)
 
 {{% /collapse %}}
+<!-- Modal -->
+{{% modal title="Vaccination hépatite A" id="modal-vaccin-hepatite-a"%}}
+
+{{< traitements/vaccin-hepatite-a >}}
+
+{{% /modal %}}
+{{% modal title="Vaccination anti-pneumococcique" id="modal-vaccin-pneumocoque"%}}
+
+{{< traitements/vaccin-pneumocoque >}}
+
+{{% /modal %}}

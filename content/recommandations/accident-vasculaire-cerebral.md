@@ -16,7 +16,7 @@ sctid = "230690007"
 draft = false
 image = true
 imageSrc = "Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
-todo = "rééduc, fiche standardisée du recueil événements à imprimer, bilan étiologique"
+todo = "carnet automesure, rééduc, fiche standardisée du recueil événements à imprimer, bilan étiologique"
 +++
 
 {{%article-summary%}}
@@ -160,7 +160,7 @@ Si le patient appelle au cabinet, transférer l'appel au 15 et essayer de rester
 Identique en cas d'accident ischémique transitoire.
 
 - **Aspirine 75-325 mg/j**  
-Si non cardioembolique (voire clopidogrel).
+Si non cardioembolique. Clopidogrel si allergie.
 - Pression artérielle  
   - **Cible < 140/90 mmHg** avec surveillance par **automesure tensionnelle** voire MAPA.
   - Molécules: thiazidiques, IEC, dihydropyridines.

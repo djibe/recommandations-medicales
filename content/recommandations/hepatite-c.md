@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Comité de l'AFEF"
 date = 2020-09-06T20:18:41+02:00
 publishdate = 2020-09-06
-lastmod = 2021-04-13
+lastmod = 2021-04-25
 specialites = ["infectiologie"]
 annees = "2019"
 sources = ["AFEF", "HAS"]
@@ -201,7 +201,7 @@ Enquête sur l'automédication+++.
 - Vaccination [hépatite A]({{< relref "hepatite-a.md" >}})
 - Vaccination hépatite B (après sérologie négative)
 - Vaccination [grippe]({{< relref "grippe.md" >}}) annuelle
-- Vaccination pneumocoque
+- {{< modal-btn modal-vaccin-pneumocoque >}}Vaccination pneumocoque tous les 5 ans{{< /modal-btn >}}
 - Dépistage de l'entourage et des partenaires
 - Prévention des contaminations
   - Charge virale VHC répétée en cas de comportements à risque
@@ -328,3 +328,9 @@ graph TB
 - [Hépatites Info Service](https://www.hepatites-info-service.org/hepatite-c/)
 
 {{% /collapse %}}
+<!-- Modal -->
+{{% modal title="Vaccination anti-pneumococcique" id="modal-vaccin-pneumocoque"%}}
+
+{{< traitements/vaccin-pneumocoque >}}
+
+{{% /modal %}}

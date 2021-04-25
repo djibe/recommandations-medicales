@@ -18,7 +18,7 @@ draft = false
 image = true
 imageSrc = "Habib M’henni / Wikimedia Commons"
 imagePNG = true
-todo = "simplifier SAOS, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC, dépistage NOSAS, prévalence, doc explication PPC, durée minimale 4h, comor SOPK"
+todo = "simplifier SAOS, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, prévalence, doc explication PPC, durée minimale 4h, comor SOPK"
 +++
 
 {{%article-summary%}}
@@ -52,7 +52,24 @@ Hypersomnolence
 Hypersomnie
 : Se rapporte à des maladies spécifiques.
 
-### Définitions des événements du SAOS
+### Abréviations en médecine du sommeil
+
+**AASM:** {{%lang%}}American Academy of Sleep Medicine{{%/lang%}}  
+**IA:** index d’apnée par heure de sommeil  
+**PV:** polygraphie ventilatoire (PGR pour la HAS)  
+**SJSR:** syndrome des jambes sans repos ({{%lang%}}PLMD. Periodic limb movement disorder{{%/lang%}}  
+**MPJS:** mouvements périodiques des jambes pendant le sommeil ({{%lang%}}PLMS. Periodic limb movement during sleep{{%/lang%}})  
+**PMO:** phase de mouvements oculaires  
+**PSDM:** Prestataire de service et distributeurs de matériels  
+**REM:** {{%lang%}}Rapid eye movement{{%/lang%}} ou phase de sommeil paradoxal  
+**SDE:** Somnolence diurne excessive  
+**SFRMS:** Société Française de Recherche en Médecine du Sommeil  
+**SHRVAS:** Syndrome de haute résistance des voies aériennes supérieures  
+**TILE:** Test itératif de latence à l’endormissement  
+**TRS:**  Troubles respiratoires du sommeil  
+**VEMS:** Volume expiratoire maximal pendant la 1<sup>re</sup> seconde
+
+### Pour en savoir plus: définitions des événements du SAOS
 
 > Définitions de l'AASM Manual 2.4 (2017)
 
@@ -81,23 +98,6 @@ Visibles uniquement à l’EEG et donc invisible à la polygraphie ventilatoire 
 
 {{%lang%}}Respiratory Disturbance Index (RDI){{%/lang%}}
 : Somme des événements respiratoires en incluant les Efforts respiratoires inducteurs de micro-éveil = IAH + ERIM.
-
-### Abréviations en médecine du sommeil
-
-**AASM.** {{%lang%}}American Academy of Sleep Medicine{{%/lang%}}  
-**IA.** Index d’apnée par heure de sommeil  
-**PV (PGR pour la HAS).** Polygraphie ventilatoire  
-**SJSR.** Syndrome des jambes sans repos ({{%lang%}}PLMD. Periodic limb movement disorder{{%/lang%}}  
-**MPJS.** Mouvements périodiques des jambes pendant le sommeil ({{%lang%}}PLMS. Periodic limb movement during sleep{{%/lang%}})  
-**PMO.** Phase de mouvements oculaires  
-**PSDM.** Prestataire de service et distributeurs de matériels  
-**REM.** {{%lang%}}Rapid eye movement{{%/lang%}} ou phase de sommeil paradoxal  
-**SDE.** Somnolence diurne excessive  
-**SFRMS.** Société Française de Recherche en Médecine du Sommeil  
-**SHRVAS.** Syndrome de haute résistance des voies aériennes supérieures  
-**TILE.** Test itératif de latence à l’endormissement  
-**TRS.**  Troubles respiratoires du sommeil  
-**VEMS.** Volume expiratoire maximal pendant la 1<sup>re</sup> seconde
 
 ### Qui peut être médecin du sommeil?
 
@@ -158,7 +158,6 @@ Rechercher les apnées du sommeil de façon systématique chez:
   - HTAP
 - Chauffeurs professionnels (ou métiers à risque)
 - Pré-opératoire de chirurgie bariatrique
-
 {{%/info%}}
 
 {{%warning%}}
