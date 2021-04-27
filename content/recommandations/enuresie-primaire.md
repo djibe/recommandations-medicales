@@ -5,18 +5,18 @@ shortname = "Énurésie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-24T16:33:00+02:00
-publishdate = 2021-04-24
-lastmod = 2021-04-24
+publishdate = 2021-04-27
+lastmod = 2021-04-27
 specialites = ["urologie"]
 annees = "2019"
 sources = ["AFU", "Prescrire"]
 tags = []
 anglais = ["Primary nocturnal enuresis"]
 sctid = "450842007"
-draft = true
+draft = false
 image = false
 imageSrc = ""
-todo = "NICE, calendrier mictionnel, info parents"
+todo = "NICE, info parents, https://afpa.org/content/uploads/2018/11/Enur%C3%A9sie-Dr-Desvignes.pdf"
 +++
 
 {{%article-summary%}}
@@ -24,7 +24,7 @@ todo = "NICE, calendrier mictionnel, info parents"
 - Éliminer: infection urinaire, [diabète]({{< relref "diabete-type-1.md" >}}), constipation
 - Définition stricte après 5 ans
 - N'a pas d'origine psychologique, déculpabiliser l'enfant
-- Diagnostic clinique, calendrier mictionnel
+- Diagnostic clinique, [calendrier mictionnel](https://afpa.org/content/uploads/2017/08/nuit-au-sec-carre%CC%81-blanc.jpg)
 - Mesures hygiéno-diétetiques
 - Adresser à l'urologue en cas d'échec
 
@@ -46,7 +46,7 @@ Pathologie sensible à la desmopressine.
 
 Le diagnostic est clinique après exclusion de pathologies urinaires.
 
-- Calendrier mictionnel  
+- [Calendrier mictionnel](https://afpa.org/content/uploads/2017/08/nuit-au-sec-carre%CC%81-blanc.jpg)  
 Rythme, volume mictionnel et nuits mouillées.  
 Intensité:
   - modérée < 1 épisode/semaine
@@ -70,12 +70,12 @@ Avis urologique si présent.
 - Constipation  
 Efforts de poussée, selles dures ou incontinence fécale.
 - Mictions la journée  
-Sécrétion inversée de vasopressine
+{{%class%}}Sécrétion inversée de vasopressine{{%/class%}}
 - Ronflements et apnées du sommeil observées
 - Troubles associés  
 Seuil d'éveil anormal, troubles avec déficit d'attention et hyperactivité (TDAH), baisse de l'estime de soi (pas de sur-représentation des autres troubles psychiatriques)
 - Enquête des apports hydriques/heure  
-Polyurie nocturne par hydratation excessive.
+{{%class%}}Polyurie nocturne par hydratation excessive.{{%/class%}}
 - Épisodes d'énurésie  
 Fréquence, horaire, circonstances des épisodes.
 - Port de couches
@@ -112,7 +112,7 @@ Boissons sucrées ou gazeuses, laitages.
 - Clarifier l'objectif de se lever la nuit et d'utiliser les toilettes, faciliter l'accès aux toilettes
 - Rassurer et déculpabiliser l'enfant voire proposer un soutien psychologique
 - Informer sur la maladie
-- Calendrier mictionnel en suivant les conseils pendant ≥ 2 semaines
+- [Calendrier mictionnel](https://afpa.org/content/uploads/2017/08/nuit-au-sec-carre%CC%81-blanc.jpg) en suivant les conseils pendant ≥ 2 semaines
 - Correction d'une constipation ou infection urinaire
 
 {{%info%}}Aucune étude fiable sur: hypnose, psychothérapie, acupuncture, homéopathie et chiropraxie{{%/info%}}
@@ -144,6 +144,6 @@ Oxybutynine en monothérapie
 
 - [Prescrire Redaction. Patients ayant une énurésie nocturne. Janvier 2021.](https://prescrire.org/)
 - [Prescrire Redaction. Énurésie isolée des enfants. Revue Prescrire 2019; 39 (434):914-922.](https://prescrire.org/)
-- [Aubert D. et al; Association Française d’Urologie. Énurésie nocturne primaire isolée : diagnostic et prise en charge. Mai 2010.](https://www.urofrance.org/base-bibliographique/enuresie-nocturne-primaire-isolee-diagnostic-et-prise-en-charge-0)
+- [Aubert D. et al. Énurésie nocturne primaire isolée : diagnostic et prise en charge. Progrès en Urologie, Volume 20, Issue 5, 2010, Pages 343-349.](https://afpa.org/content/uploads/2017/09/main.pdf)
 
 {{% /collapse %}}

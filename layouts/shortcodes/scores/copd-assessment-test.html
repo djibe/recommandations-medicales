@@ -1,13 +1,66 @@
-<!-- TODO: -->
-<div class="border rounded mb-2">
-  <iframe
-    title="Retentissement de la BPCO"
-    class="border-0 w-100"
-    src="https://www.catestonline.org/patient-site-test-page-french-belgium.html"
-    allowfullscreen {{ with .Get "height" }} height="{{ . }}" {{ else }} height="600" {{ end }}
-    loading="lazy"
-  ></iframe>
+<p class="mb-3 mb-lg-5">Quel est l’état de votre BPCO ? Répondez au questionnaire CAT (COPD Assessment Test™) pour évaluer votre BPCO.</p>
+<p>Ce questionnaire vous aidera, ainsi que votre médecin, à mesurer l’impact de la BPCO sur votre bien-être et votre santé au quotidien. Vous pourrez, ainsi que votre médecin, utiliser les réponses et les scores du questionnaire pour mieux prendre soin de votre BPCO et tirer le plus grand bénéfice de votre traitement.</p>
+<p>Pour chaque élément ci-dessous, veuillez indiquer le niveau correspondant au mieux à votre état actuel.</p>
+<div class="cat-container" id="score-cat">
+  <span>Je ne tousse jamais</span>
+  <input type="range" class="custom-range" value="3" min="0" max="5" id="cat-1">
+  <span>Je tousse tout le temps</span>
+  <span>Je n’ai pas du tout de glaire (mucus) dans les poumons</span>
+  <input type="range" class="custom-range" value="3" min="0" max="5" id="cat-2">
+  <span>J’ai la poitrine très encombrée de glaire (mucus)</span>
+  <span>Je n’ai pas du tout la poitrine oppressée</span>
+  <input type="range" class="custom-range" value="3" min="0" max="5" id="cat-3">
+  <span>J’ai la poitrine très oppressée</span>
+  <span>Quand je monte une côte ou une volée de marches, je ne suis pas essoufflé(e)</span>
+  <input type="range" class="custom-range" value="3" min="0" max="5" id="cat-4">
+  <span>Quand je monte une côte ou une volée de marches, je suis très essoufflé(e)</span>
+  <span>Je ne suis pas limité(e) dans mes activités chez moi</span>
+  <input type="range" class="custom-range" value="3" min="0" max="5" id="cat-5">
+  <span>Je suis très limité(e) dans mes activités chez moi</span>
+  <span>Je ne suis pas inquièt(e) quand je quitte la maison, en dépit de mes problèmes pulmonaires</span>
+  <input type="range" class="custom-range" value="3" min="0" max="5" id="cat-6">
+  <span>Je suis très inquièt(e) quand je quitte la maison, en raison de mes problèmes pulmonaires</span>
+  <span>Je dors bien</span>
+  <input type="range" class="custom-range" value="3" min="0" max="5" id="cat-7">
+  <span>Je dors mal à cause de mes problèmes pulmonaires</span>
+  <span>Je suis plein(e) d’énergie</span>
+  <input type="range" class="custom-range" value="3" min="0" max="5" id="cat-8">
+  <span>Je n’ai pas d’énergie du tout</span>
 </div>
-<p class="text-center text-muted font-italic w-auto mb-3">
-  État de la BPCO avec le <a href="https://www.diabeclic.com" target="_blank" rel="nofollow noopener">CAT <span lang="en">COPD Assessment Test</span></a>.
-</p>
+<div class="alert bg-light d-flex mt-md-4">
+  <div class="d-flex flex-column align-items-center">
+    <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:2rem">Score CAT</p>
+    <span class="font-weight-bold" id="catScore" style="font-size:2rem"></span>
+  </div>
+  <p id="catText" class="lead m-auto"></p>
+</div>
+<p class="typography-caption">Le Test d'évaluation COPD a été développé par un groupe pluridisciplinaire d'experts internationaux spécialisés dans la COPD, soutenu par GSK. Les activités de GSK en rapport avec le Test d'évaluation COPD sont supervisées par un Conseil de gouvernance composé d'experts externes indépendants, dont l'un d'eux préside le Conseil.</p>
+<p class="typography-caption">CAT, COPD Assessment Test et le logo CAT sont des marques du groupe de sociétés GSK. ©2009 GSK. Tous droits réservés.<br>
+  <a href="https://www.catestonline.org/patient-site-test-page-french-belgium.html">Version francophone originale</a><br>
+  <a href="https://www.catestonline.org/content/dam/global/catestonline/questionnaires/French_Belgium_CAT_combined.pdf">Version papier</a></p>
+{{ $script := `
+  // Score COPD Assessment Test by djibe from GSK
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scoreCAT = document.getElementById('catScore')
+    const textCAT = document.getElementById('catText')
+    const catElems = document.querySelectorAll('#score-cat input[type="range"]')
+    const goldb = "<p>Groupe <b>GOLD B</b> si &le; 1 exacerbation sans hospitalisation</p><p>Sinon groupe <b>GOLD D</b></p>"
+    catElems.forEach((catElem) => {
+      catElem.value = 3
+      scoreCAT.innerHTML = catElem.value * catElems.length
+      textCAT.innerHTML = goldb
+      catElem.addEventListener('input', () => cat() ) })
+    const cat = () => {
+      let score = 0
+        catElems.forEach(catElem => {
+        score += parseInt(catElem.value, 10)
+          catScore.innerHTML = score
+          if (score < 10) {
+            catText.innerHTML = "<p>Groupe <b>GOLD A</b> si &le; 1 exacerbation sans hospitalisation</p><p>Sinon groupe <b>GOLD C</b></p>"
+            return;
+          }
+          return catText.innerHTML = goldb
+      })
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>

@@ -16,8 +16,8 @@ sctid = "129103003"
 draft = false
 flowchart = true
 image = true
-imageSrc = "Design par vectorjuice / Freepik"
-todo = "molécules, information de la patiente"
+imageSrc = "Illustration par vectorjuice / Freepik"
+todo = "molécules, information de la patiente, quid bilan IST/salpingite ?"
 +++
 
 {{%article-summary%}}

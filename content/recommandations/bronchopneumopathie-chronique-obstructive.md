@@ -6,17 +6,17 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2021-04-25
+lastmod = 2021-04-26
 specialites = ["pneumologie"]
-annees = "2019"
+annees = "2021"
 sources = ["GOLD", "HAS", "SPLF"]
-tags = ["dyspnee", "fatigue", "toux"]
+tags = ["depistage", "dyspnee", "fatigue", "tabac", "toux"]
 anglais = ["Chronic Obstructive Pulmonary Disease (COPD)"]
-sctid = ""
+sctid = "13645005"
 draft = false
 image = true
 imageSrc = "Illustration de Freepik"
-todo = "def. CVF, vacc. pneumocoque pour tous?, p.61++++, quest. CAT, GOLD 4 gpes, score BODE, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://splf.fr/wp-content/uploads/2015/01/Fiches-BPCO/F-PlanAction_2013.pdf, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, vérif def exacerbation légère, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86"
+todo = "p.61++++, GOLD 4 gpes, score BODE, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://splf.fr/wp-content/uploads/2015/01/Fiches-BPCO/F-PlanAction_2013.pdf, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, vérif def exacerbation légère, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86"
 +++
 
 {{%article-summary%}}
@@ -35,15 +35,17 @@ Principal facteur du déclin du VEMS.
 Bronchopneumopathie chronique obstructive (BPCO)
 : Maladie respiratoire chronique définie par des symptômes respiratoires persistants avec une obstruction permanente et progressive des voies aériennes et/ou alvéolaires causée par l’exposition à des particules ou gaz toxiques.
 : Le diagnostic est *spirométrique* avec un *trouble ventilatoire obstructif* (VEMS/CVF < 0,7) non réversible.
-: Les symptômes respiratoires les plus fréquents sont: dyspnée, toux et/ou expectorations. Ils sont sous-rapportés par les patients et 3/4 des cas de ne sont pas diagnostiqués.
-: Le tabagisme est la 1<sup>re</sup> cause suivie par l'expositions aux fumées.
+: Les symptômes respiratoires les plus fréquents sont: dyspnée, toux et/ou expectorations. Ils sont sous-rapportés par les patients et 3/4 des cas ne sont pas diagnostiqués.
+: Le tabagisme est la 1<sup>re</sup> cause (90%) suivie par l'expositions aux fumées.
 : Causes de mortalité: insuffisance respiratoire (10% en Gold 1, 50% en Gold 4), maladies cardio-vasculaires (20-40%), cancers (10-20%).
 
 Exacerbation de BPCO (EABPCO)
 : Le diagnostic est clinique: aggravation aiguë des symptômes respiratoires au-delà des variations quotidiennes justifiant une modification thérapeutique (augmentation des bronchodilatateurs > 24h ou ajout d'un traitement).
-: Critères: augmentation de la dyspnée, toux, volume/aspect des expectorations.  
-**Exacerbations fréquentes quand ≥ 2 épisodes/an**.
-    - **Exacerbation légère**: résolutive en majorant le traitement actuel
+: Critères: augmentation de la dyspnée, toux, volume/aspect des expectorations.
+: Définitions (GOLD 2021)
+    - **Exacerbations fréquentes quand ≥ 2 épisodes/an**  
+    1<sup>er</sup> facteur prédictif de survenue d'EABPCO
+    - **Exacerbation légère**: résolutive en majorant les {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}
     - **Modérée**: nécessitant 1/+ traitements supplémentaires
     - **Sévère**: passage aux urgences ou hospitalisation
 
@@ -64,11 +66,12 @@ Insuffisance respiratoire chronique
 ### Abréviations
 
 **BD:** bronchodilatateur  
-**BDCA:** bronchodilatateur de courte durée d'action (ß2 ou anticholinergique)  
+**BDCA:** bronchodilatateur de courte durée d'action (ß2 ou anticholinergique, SABD en anglais)  
 **BDLA:** bronchodilatateur de longue durée d'action  
 **BPCO:** bronchopneumopathie chronique obstructive  
+**CAT:** {{%lang%}}COPD Assessment Test{{%/lang%}}
 **CSI:** corticostéroïde inhalé  
-**CVF:** TODO:  
+**CVF:** capacité vitale forcée  
 **DEP:** débit expiratoire de pointe  
 **EABPCO:** exacerbation de BPCO  
 **EFR:** épreuves fonctionnelles respiratoires  
@@ -83,11 +86,13 @@ Insuffisance respiratoire chronique
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
 
-3<sup>e</sup> cause mondiale de décès (*OMS*).
+3<sup>e</sup> cause mondiale de décès (*OMS*).  
+6% des dépenses de santé européennes.  
+Aux USA: coût estimé de 52,4 milliards de $ annuels (32 directs + 20,4 indirects).
 
 ### En France
 
-- Prévalence: 10% des adultes (3 millions)
+- Prévalence: 10% des adultes (3,5 millions en 2010)
 - Hospitalisations: 100-160.000/an
 - Décès: 19.000/an (2013)
 - Coût moyen: de 7628€ à 20 747€  
@@ -187,13 +192,13 @@ Bilan systématique:
 ### Spirométrie
 
 Examen diagnostique de référence: VEMS/CV post-bronchodilatateur < 0,7.  
-Mesure également la {{< modal-btn modal-severite-tvo >}}sévérité de l'obstruction bronchique par le VEMS{{< /modal-btn >}}.  
+Mesure également la {{< modal-btn modal-severite-bpco >}}sévérité de l'obstruction bronchique par le VEMS{{< /modal-btn >}}.  
 Cotation CCAM: GLQP012, 40,28€.  
 Les autres examens recherchent des complications.
 
 ### Gaz du sang
 
-Indications: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3{{< /modal-btn >}}, {{< modal-btn modal-severite-tvo >}}stade obstructif ≥ 3{{< /modal-btn >}}, suspicion d'embolie pulmonaire ou d'overlap syndrome.
+Indications: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3{{< /modal-btn >}}, {{< modal-btn modal-severite-bpco >}}stade obstructif ≥ 3{{< /modal-btn >}}, suspicion d'embolie pulmonaire ou d'overlap syndrome.
 
 ### Autres
 
@@ -202,17 +207,22 @@ Scanner thoracique, ECBC, alpha1 antitrypsine... selon le pneumologue.
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-- Asthme (voir Clinique)
-- Dilatation des bronches
-- Emphysème pulmonaire
-- Insuffisance cardiaque chronique
+Autres causes de toux chronique d'origine thoracique:
+
+- Asthme (voir *Clinique*)
+- Cancer du poumon
 - [Tuberculose]({{< relref "tuberculose.md" >}})
+- Dilatation des bronches et emphysème pulmonaire
+- Insuffisance cardiaque chronique
+- Pneumopathie interstitielle
+- Mucoviscidose
+- Idiopathique
 
 {{% /collapse %}}
 {{%collapse "Traitement - état stable" %}}
 
 - [ALD n°14]({{< relref "affection-longue-duree.md" >}})  
-Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-tvo >}}VEMS < 50%{{< /modal-btn >}}
+Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-bpco >}}VEMS < 50%{{< /modal-btn >}}
 - Arrêt du tabac
   - Principal facteur pronostique
   - Conseil minimal d'aide l'arrêt régulier
@@ -257,6 +267,8 @@ Formes: spray, poudre, brumisateur.
 {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} à la demande.
 
 #### Dyspnée persistante
+
+Pet être objectivée par un {{< modal-btn modal-score-cat >}}CAT ≥ 10{{< /modal-btn >}} (GOLD 2021).
 
 {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} systématique.  
 Préférer un {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} en antécédent d'exacerbation.
@@ -309,7 +321,7 @@ Traitements réservés au pneumologue (prescription et renouvellement).
 
 Envisager si:
 
-- {{< modal-btn modal-severite-tvo >}}Obstruction très sévère (voire sévère){{< /modal-btn >}}
+- {{< modal-btn modal-severite-bpco >}}Obstruction très sévère (voire sévère){{< /modal-btn >}}
 - Cyanose
 - Polyglobulie
 - Signes d'insuffisance cardiaque droite
@@ -404,8 +416,6 @@ bénéfices
 {{% /collapse %}}
 {{%collapse "BPCO et hospitalisation" %}}
 
-{{%info%}}Chantier en cours{{%/info%}}
-
 ### Indications à l'hospitalisation en exacerbation
 
 - Âge > 85 ans
@@ -425,7 +435,9 @@ SpO<sub>2</sub> < 90%, pouls > 110/min, respiration paradoxale, tirage, cyanose.
 
 ### Sortie d'hospitalisation après une exacerbation de BPCO
 
-- Programme de retour à domicile Prado  
+[Carnet de suivi après mon hospitalisation pour BPCO (Prado)](https://www.ameli.fr/node/400222)
+
+- Programme de [retour à domicile Prado](https://www.ameli.fr/medecin/exercice-liberal/services-patients/prado#text_19402)
 Inclure le patient sur Ameli Pro.
 - Consultation du médecin traitant dans la semaine, puis 1 mois, 3 mois, 6 mois et 1 an
 - Contrôle du traitement par BDLA ({{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-lama >}}association{{< /modal-btn >}})
@@ -444,12 +456,14 @@ Inclure le patient sur Ameli Pro.
 Reprendre tous les points de *Traitement - état stable* ainsi que les mesures suivantes.  
 Suivi tous les 1 à 3 mois après chaque modification de traitement et tous les 3 à 12 mois selon la sévérité de la BPCO.
 
-Sévérité et pronostic dépendent des facteurs suivants:
+Bilan à reprendre régulièrement:
 
-- Statut tabagique
+- Date du diagnostic de la BPCO
+- Statut tabagique et traitements essayés
+- Expositions professionnelles et domestiques
 - Sévérité des signes respiratoires
   - Spirométrie/EFR annuelle
-  - {{< modal-btn modal-severite-tvo >}}Sévérité de l'obstruction bronchique{{< /modal-btn >}}
+  - {{< modal-btn modal-severite-bpco >}}Sévérité de l'obstruction bronchique{{< /modal-btn >}}
   - {{< modal-btn modal-score-mmrc >}}Dyspnée selon l'échelle mMRC{{< /modal-btn >}}
   - Test de marche de 6 minutes, lever de chaise ou stepper test
 - État nutritionnel  
@@ -457,12 +471,13 @@ IMC (< 21), perte de poids, santé bucco-dentaire.
 - Retentissement de la maladie
   - Nombre d'exacerbations annuelles
   - Nombre d'hospitalisations
+  - Dates des stages de réadaptation respiratoire
+  - Traitements en cours et technique
   - SpO<sub>2</sub> ± Gaz du sang
   - Limitation des activités  
-  Fatigue, activités quotidiennes et sociales, [évaluation CAT](https://www.catestonline.org/patient-site-test-page-french-belgium.html).
-- Comorbidités
-- Recherche des diagnostics différentiels  
-Asthme, insuffisance cardiaque, [hypertension pulmonaire]({{< relref "hypertension-arterielle-pulmonaire.md" >}}).
+  Fatigue, activités quotidiennes et sociales, qualité de vie, {{< modal-btn modal-score-cat >}}évaluation CAT{{< /modal-btn >}}.
+- Recherche de comorbidités aggravantes  
+Anémie, asthme, cancer, insuffisance cardiaque, surpoids, troubles anxieux/dépressifs, troubles musculosquelettiques, [hypertension pulmonaire]({{< relref "hypertension-arterielle-pulmonaire.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Information du patient BPCO" %}}
@@ -490,6 +505,7 @@ Asthme, insuffisance cardiaque, [hypertension pulmonaire]({{< relref "hypertensi
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. December 2019.](https://goldcopd.org/wp-content/uploads/2019/12/GOLD-2020-FINAL-ver1.2-03Dec19_WMV.pdf)
 - [Prescrire Redaction. Questionner sa pratique : préserver la qualité de vie des patients souffrant de BPCO. Rev Prescrire 2020 ; 40 (445) : 861-864.](https://prescrire.org/)
 - [Prescrire Redaction. Bronchopneumopathie chronique obstructive - Premiers Choix Prescrire, actualisation juillet 2020. Rev Prescrire 2020 ; 40 (444) : 737.](https://prescrire.org/)
 - [HAS. Bronchopneumopathie chronique obstructive. Guide du parcours de soins. Novembre 2019.](https://www.has-sante.fr/jcms/c_1242507/fr/guide-du-parcours-de-soins-bronchopneumopathie-chronique-obstructive-bpco)
@@ -497,10 +513,6 @@ Asthme, insuffisance cardiaque, [hypertension pulmonaire]({{< relref "hypertensi
 - [Delmas MC et al; Groupe Baromètre santé 2017. Connaissance de la bronchopneumopathie chronique obstructive (BPCO) en France : Baromètre santé 2017. Bull Epidémiol Hebd. 2018;(35-36):703-8.](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)
 - [Jouneau S. et al; SPLF. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017. FR, EN.](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
 - [Zysman M. et al; SPLF. Propositions de la SPLF pour l’optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016.](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
-
-### À lire
-
-- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. December 2019.](https://goldcopd.org/wp-content/uploads/2019/12/GOLD-2020-FINAL-ver1.2-03Dec19_WMV.pdf)
 
 {{% /collapse %}}
 <!-- Scores -->
@@ -514,9 +526,14 @@ Asthme, insuffisance cardiaque, [hypertension pulmonaire]({{< relref "hypertensi
 {{< scores/mmrc >}}
 
 {{% /modal %}}
-{{% modal title="Sévérité de l'obstruction bronchique" id="modal-severite-tvo"%}}
+{{% modal title="Sévérité de l'obstruction bronchique" id="modal-severite-bpco"%}}
 
-{{< scores/severite-tvo >}}
+{{< scores/severite-bpco >}}
+
+{{% /modal %}}
+{{% modal title="COPD Assessment Test" id="modal-score-cat" size="lg"%}}
+
+{{< scores/copd-assessment-test >}}
 
 {{% /modal %}}
 <!-- Traitements -->

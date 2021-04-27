@@ -6,11 +6,11 @@ synonyms = ["Chlamydiose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T12:09:00+02:00
 publishdate = 2021-03-28
-lastmod = 2021-03-29
+lastmod = 2021-04-26
 specialites = ["gynecologie-obstetrique"]
 annees = "2018"
 sources = ["HAS", "Inpes"]
-tags = ["HSH", "IST", "IVG"]
+tags = ["depistage", "HSH", "IST", "IVG"]
 anglais = ["Chlamydia trachomatis infection"]
 sctid = "240589008"
 draft = false
@@ -24,9 +24,10 @@ todo = "améliorer clinique, flowchart, Prescrire Chlamydiose liée à un rappor
 - Dépister largement (voir *Qui dépister ?*), tous les 3-6 mois chez les HSH
 - PCR sur prélèvement vaginal pour les femmes et urinaire pour les hommes
 - Prélèvement des autres sites selon les pratiques
-- Azithromycine per os 1 g dose unique
-- Contrôle de l'éradication à 6 mois
+- Azithromycine per os 1 g dose unique + traitement du partenaire + préservatif 7 jours
+- Dépistage des autres IST
 - Dépister les partenaires des 12 derniers mois
+- Contrôle de l'éradication à 6 mois
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -55,6 +56,7 @@ Elle atteint 3% des 18-29 ans avec co-infection *gonocoque* de 2-24%.
 
 ### Femme
 
+- Incubation 5-14 jours
 - Asymptomatique (70%)
 - Cervicite  
 Leucorrhées jaunes/blanches, cystalgies, syndrome urétral, dyspareunie, spotting.
@@ -65,8 +67,9 @@ Majoritairement subaiguë ou chronique, douleurs abdominales augmentées pendant
 
 ### Homme
 
+- Incubation 5-10 jours
 - Asymptomatique (50%)
-- Urétrite (asymptomatique 50%)  
+- Urétrite  
 Écoulement clair, modéré, intermittent.
 - Épididymite aiguë
 - Syndrome de Fiessinger-Leroy-Reiter
@@ -108,11 +111,12 @@ Ano-rectal, pharyngé.
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Traitement selon les résultats
+Traitement selon les résultats de l'analyse PCR.
 
 ### Dépistage négatif
 
-**Dépistage annuel** si rapports non protégés avec un nouveau partenaire.
+**Dépistage annuel** si rapports non protégés avec un nouveau partenaire.  
+Dépistage tous les 3-6 mois chez les HSH.
 
 ### Dépistage positif
 
@@ -120,28 +124,31 @@ Traitement selon les résultats
 - Traitement systématique en cas d'infection par le gonocoque (voir le chapitre dédié pour le traitement du gonocoque)
 
 {{%info%}}
-Azithromycine per os 1 g dose unique  
-OU doxycycline per os 100 mg x 2/j pendant 7 jours
+Azithromycine per os 1 g dose unique
 
 PCR de contrôle à 6 mois
 {{%/info%}}
 
+**Alternative:** doxycycline per os 100 mg x 2/j pendant 7 jours.
+
+- Traiter simultanément le partenaire
+- Préservatif pendant 7 jours
 - Contrôle tous les **3-6 mois pour les HSH**
 - Contacter les partenaires des 12 derniers mois
-- Dépistage des autres IST
+- Dépistage des autres [IST](/tags/ist/)  
+Gonocoque, trichomonase, syphilis, VIH, VHC.
 - Statut vaccinal hépatite B ± vaccination VHB  
 Indication: << e. Personnes ayant des relations sexuelles avec des partenaires multiples, exposées aux IST ou ayant une IST en cours ou récente >> (*Calendrier vaccinal. MinSanté 2020*).
 
 #### Cas particuliers
 
-- Grossesse  
-Utiliser le schéma avec l'azithromycine.
-- PVVIH  
-Utiliser le schéma habituel.
+- Grossesse et allaitement: [azithromycine](http://lecrat.fr/articleSearchSaisie.php?recherche=azithromycine)
+- PVVIH: azithromycine
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Prescrire Redaction. Chlamydiose liée à un rapport sexuel. Premiers choix Prescrire. Mars 2021.](https://prescrire.org/)
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [Société Française de Dermatologie. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement Transmissibles. Février 2016.](http://www.sfdermato.org/media/pdf/recommandation/syphilis-precoce-b61913fb8de5bca222326904654c6b30.pdf)
 - [Ministère de la Santé. Infections sexuellement transmissibles (IST). 05/01/2016.](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/article/infections-sexuellement-transmissibles-ist)

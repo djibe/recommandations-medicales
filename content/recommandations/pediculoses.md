@@ -56,7 +56,7 @@ Peuvent transmettre des infections.
 - Atteinte du cuir chevelu  
 Tempes, contour des oreilles, nuque.
 - Poux de corps  
-Dos, ceinture et racine des membres. Vivent dans les vêtements.
+Dos, ceinture et racine des membres. Vivent dans les vêtements (coutures +++).
 - Contage familial ou scolaire
 
 {{% /collapse %}}

@@ -6,31 +6,33 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-14T19:48:41+02:00
 publishdate = 2020-11-16
-lastmod = 2021-03-08
+lastmod = 2021-04-26
 specialites = ["dermatologie", "infectiologie", "ophtalmologie"]
 annees = "1998"
-sources = ["MinSanté", "SFORL", "SPILF"]
+sources = ["Prescrire", "SPILF"]
 tags = ["vaccin", "zona"]
 anglais = ["Herpes zoster"]
 sctid = "4740000"
 draft = false
 image = true
 imageSrc = "Gzzz, CC BY-SA 4.0"
-todo = "flowchart, Prescrire Zona"
+todo = "flowchart, collège/Pilly"
 +++
 
 {{%article-summary%}}
 
-- Valaciclovir 1 g x 3/j 7 jours si ophtalmique, > 50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs +++ en phase aiguë, lésions cutanées graves).
-- Hospitalisation en urgence si immunodéprimé, atteinte organique ou PFP zostérienne.
-- Sérologie VIH si adulte < 50 ans.
-- Vaccination de 65 à 74 ans.
+- Valaciclovir 1 g x 3/j 7 jours si:  
+Ophtalmique, > 50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs +++ en phase aiguë, lésions cutanées graves)
+- Hospitalisation en urgence si immunodéprimé, atteinte organique ou PFP zostérienne
+- Sérologie VIH si adulte < 50 ans
+- Vaccination de 65 à 74 ans
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Zona
-: Réactivation du virus de la varicelle VZV dans le ganglion sensitif où il reste quiescent avec apparition de vésicules et douleurs dans le dermatome correspondant.
+: Réactivation du virus de la varicelle VZV dans le ganglion sensitif où il reste quiescent avec apparition de vésicules et douleurs dans le dermatome correspondant.  
+Complications liées aux douleurs neuropathiques séquellaires et au pronostic visuel en zona ophtalmique.
 
 Zona et personne immunodéprimée
 : Intérêt d'éduquer les patients à la reconnaissance des symptômes.  
@@ -71,18 +73,25 @@ Douleurs, récidives et 50 à 85% de parésie séquellaire.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-- Cutanés  
-Éruption vésiculeuse systématisée à un dermatome.
+- Rechercher une immunodépression
+- Signes cutanés  
+  - Éruption vésiculeuse systématisée à un dermatome
+  - Risque de surinfection
+  - Évolution en croûtes en 7-10 jours
+  - Croûtes disparaissent en 1 mois avec parfois des cicatrices
 - Douleurs du dermatome  
 Quasi constantes en phase aiguë. Risque de chronicisation des douleurs neuropathiques.
 - Zona ophtalmique  
 Surtout patient > 50 ans, fréquentes complications oculaires et douleurs chroniques.
+- Paralysie faciale périphérique
 
 {{%warning%}}Facteurs prédictifs d'algies post-zostériennes
 
 - Douleurs pré-éruptives
 - Intensité des douleurs en phase aiguë
 - Gravité de l'éruption cutanée
+
+**Diagnostic différentiel:** herpès ou coxsackie.
 
 {{%/warning%}}
 
@@ -104,16 +113,22 @@ Vaccin vivant: [Zostavax®](https://ec.europa.eu/health/documents/community-regi
 Informer sur la nécessité de consultation immédiate en cas de survenue de brûlures cutanées ou d'éruption cutanée.
 
 {{% /collapse %}}
-{{%collapse "Traitement des atteintes du zona" %}}
+{{%collapse "Traitement du zona" %}}
 
 {{%warning%}}Hospitalisation en cas d'immunodépression ou d'atteinte organique.{{%/warning%}}
 
-- Antalgie palier 1 ± 2 ou 3.
-- Douches (bi-) quotidiennes à l'eau tiède avec savon dermatologique.
-- Éviter les bains (macération)
-- Chlorhexidine aqueuse stérile 0,2% 1 application x 2/j sur les lésions cutanées uniquement
+- Antalgie palier 1 ± 2 ou 3  
+et application de glace
+- Mesures d'hygiène
+  - Lavage fréquent des mains
+  - Couvrir les lésions avec des pansements humides
+  - Éviter les bains (macération)
+  - Douches (bi-) quotidiennes à l'eau tiède avec savon dermatologique
+  - Chlorhexidine aqueuse stérile 0,2% 1 application x 2/j sur les lésions cutanées uniquement
 - Réévaluation clinique régulière
-- Si surinfection cutanée: Antibiothérapie per os pénicilline M cloxacilline (staph+strepto)
+- Éviter le contact avec les femmes enceintes non immunisées et immunodéprimées
+- Si surinfection cutanée  
+Antibiothérapie per os cloxacilline.
 
 {{%info%}}Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anesthésiques, antiprurigineux) ne doit être appliqué.{{%/info%}}
 
@@ -125,7 +140,7 @@ Le traitement doit être débuté en urgence dans les 48-72 premières heures.
 
 {{%info%}}Valaciclovir 1 g x 3/j pendant 7 jours, début immédiat.{{%/info%}}
 
-**Alternatives:** aciclovir 800 mg x 5/j pendant 7 jours  
+**Alternatives:** aciclovir 800 mg x 5/j pendant 7 jours (seule forme buvable)  
 ou famciclovir 500 mg x 3/j pendant 7 jours.
 
 #### Indications au traitement antiviral
@@ -140,7 +155,8 @@ ou famciclovir 500 mg x 3/j pendant 7 jours.
 
 Traitement antiviral comme ci-dessus. **Début immédiat du traitement**.
 
-{{%warning%}}Indications à l'avis ophtalmologique en urgence:
+{{%warning%}}
+Indications à l'avis ophtalmologique en urgence:
 
 - Zona ophtalmique intéressant l'aile du nez
 - Œdème palpébral
@@ -159,19 +175,29 @@ Hospitalisation pour aciclovir intra-veineux et (méthyl-)prednisolone.
 {{% /collapse %}}
 {{%collapse "Traitement des douleurs post-zostériennes" %}}
 
-- Fond douloureux permanent  
-amitriptyline ([Laroxyl®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65892928&typedoc=R)) 75 mg x 1/j
-- Paroxysmes hyperalgiques  
-carbamazépine ([Tegretol® ou gén](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61547468&typedoc=R)) 400-1200 mg/j
+Persistance de douleurs neuropathiques d'un dermatome atteint par un zona.
+
+- Fond douloureux permanent: amitriptyline ([Laroxyl®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65892928&typedoc=R))
+  - Débuter 12,5 ou 25 mg x 1/j
+  - Titration jusqu'à la dose minimale efficace
+  - Max 150 mg/j
+  - Alternatives: gabapentine, prégabaline.
+- Paroxysmes hyperalgiques: carbamazépine ([Tegretol® ou gén](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61547468&typedoc=R))
+  - 400-1200 mg/j
+- Morphine
+- Lidocaïne locale
+- Couvrir la zone douloureuse
+- Glaçage local
 - Soutien psychologique
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Prescrire Redaction. Zona. L'essentiel sur les soins de premier choix. Premiers choix Prescrire. Mars 2021.](https://prescrire.org/)
+- [Prescrire Redaction. Douleurs post-zostériennes. Premiers choix Prescrire. Avril 2021.](https://prescrire.org/)
 - [SFORL. Prise en charge de la Paralysie Faciale Idiopathique à la phase aiguë chez l’adulte. 2020.](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-de-la-Paralysie-Faciale-Idiopathique-%C3%A0-la-phase-aigu%C3%AB-chez-l-adulte-2020.pdf)
 - [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
 - [SPILF. Prise en charge des infections à VZV. Méd Mal Infect. 1998 ; 28: 1-8](https://www.infectiologie.com/UserFiles/File/medias/_documents/consensus/vzv98.pdf)
-- Prescrire 02/2016
 
 {{% /collapse %}}
 {{%collapse "Photos" %}}

@@ -206,6 +206,15 @@ a[href^='http']:not([class])::after {
     }
 }
 
+.home {
+  @media (min-width: 1200px){
+    .card {
+      border: 1px solid rgba(0, 0, 0, 0.12);
+      box-shadow: none;
+    }
+  }
+}
+
 .recommandation__content {
   margin-bottom: 5rem;
 
@@ -329,6 +338,28 @@ a[href^='http']:not([class])::after {
 
 .recommandation__content .collapse.show:last-child {
   margin-bottom: 2.5rem;
+}
+
+// Questionnaire CAT
+.cat-container {
+  @extend .typography-caption;
+  display: grid;
+  grid-template-columns: 0.8fr 1fr 0.8fr;
+  grid-template-rows: repeat(8, 1fr);
+  gap: 0 .5rem;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+@media (min-width: 768px) {
+  .cat-container {
+    grid-template-columns: 160px 1fr 160px;
+    gap: .5rem 1.5rem;
+    font-size: 0.875rem;
+    font-weight: 400;
+    letter-spacing: 0.017857em;
+    line-height: 1.25rem;
+  }
 }
 
 a:hover {
