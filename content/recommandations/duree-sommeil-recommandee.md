@@ -1,6 +1,6 @@
 +++
 title = "Durée de sommeil recommandée chez l'adulte et les enfants"
-prefix = "le "
+prefix = "la "
 shortname = "Durée de sommeil"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

@@ -16,7 +16,7 @@ sctid = "13645005"
 draft = false
 image = true
 imageSrc = "Illustration de Freepik"
-todo = "p.61++++, GOLD 4 gpes, score BODE, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://splf.fr/wp-content/uploads/2015/01/Fiches-BPCO/F-PlanAction_2013.pdf, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, vérif def exacerbation légère, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86"
+todo = "Plan d'action, CAT avec chiffres, ABCD 2011? 2.4, p.61++++, score BODE, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://splf.fr/wp-content/uploads/2015/01/Fiches-BPCO/F-PlanAction_2013.pdf, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, vérif def exacerbation légère, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86"
 +++
 
 {{%article-summary%}}
@@ -438,7 +438,7 @@ SpO<sub>2</sub> < 90%, pouls > 110/min, respiration paradoxale, tirage, cyanose.
 [Carnet de suivi après mon hospitalisation pour BPCO (Prado)](https://www.ameli.fr/node/400222)
 
 - Programme de [retour à domicile Prado](https://www.ameli.fr/medecin/exercice-liberal/services-patients/prado#text_19402)
-Inclure le patient sur Ameli Pro.
+L'inclusion est réalisée par l'hôpital.
 - Consultation du médecin traitant dans la semaine, puis 1 mois, 3 mois, 6 mois et 1 an
 - Contrôle du traitement par BDLA ({{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-lama >}}association{{< /modal-btn >}})
 - Consultation du pneumologue dans le mois (voire 2 mois)  

@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "molécules, information de la patiente, quid bilan IST/salpingite ?"
+todo = "MOOC, molécules, information de la patiente, quid bilan IST/salpingite ?"
 +++
 
 {{%article-summary%}}
@@ -33,7 +33,7 @@ todo = "molécules, information de la patiente, quid bilan IST/salpingite ?"
 {{%collapse "Définition" %}}
 
 Endométriose
-: Atteinte pelvienne féminine fréquente (2,5 millions de patientes en France).  
+: Atteinte pelvienne féminine fréquente (2,5 millions de patientes en France, environ 10% des femmes).  
 La définition est histologique avec la présence de glandes ou stroma endométrial en dehors de l'utérus.  
 Elle est pathologique lorsqu'elle entraîne des **douleurs pelviennes chroniques** ou une **infertilité**.  
 Les douleurs sont souvent améliorées pendant les grossesses et après la ménopause.
@@ -56,6 +56,7 @@ Dysménorrhée
 
 ### Abréviations
 
+**AMP:** assistance médicale à la procréation  
 **COP:** contraception œstroprogestative  
 **DIU:** dispositif intra-utérin (ou stérilet)  
 **EHP-5:** échelle de qualité de vie {{%lang%}}Endometriosis Health Profile-5{{%/lang%}}  
@@ -150,7 +151,7 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
   Paracétamol voire AINS (ibuprofène ou naproxène) pendant ≥ 3 mois.
   - Éviter les AINS au long cours
   - Évaluation spécialisée en douleurs chronique  
-  Gynéco, douleur, sexologue, psychologue, assistant social.
+  Gynécologue, médecine de la douleur, sexologue, psychologue, assistant social.
 - Autres
   - Acupuncture, ostéopathie, yoga
   - Aucun régime ou supplémentation n'a de bénéfice prouvé
@@ -166,7 +167,7 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
   - Prise continue si aggravation dans la période d'interruption
 - DIU au lévonorgestrel 52 mg
 
-Chez l'adolescente: COC ou microprogestative et avis spécialisé si échec.
+**Chez l'adolescente:** COP ou microprogestative et avis spécialisé si échec.
 
 **NB.** Pas de différence d'efficacité en augmentant la dose d'éthinylestradiol (EE).
 
@@ -180,7 +181,7 @@ Chez l'adolescente: COC ou microprogestative et avis spécialisé si échec.
 
 ### Infertilité
 
-Accompagnement par une équipe d'Assistance Médicale à la Procréation (AMP).
+Accompagnement par une équipe d'[Assistance Médicale à la Procréation](https://www.agence-biomedecine.fr/Autorisation-des-centres) (AMP).
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une endométriose" "show" %}}
