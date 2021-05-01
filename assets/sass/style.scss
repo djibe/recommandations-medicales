@@ -406,11 +406,16 @@ div.data-table {
 .text-404 {
   color: #ffffff;
   font-family: Roboto, sans-serif;
-  font-size: 16rem;
+  font-size: 6rem;
   font-weight: 700;
   line-height: 1;
   margin: 5rem 0;
   text-shadow: 10px 10px 20px #f5f5f5, -10px -10px 20px #f5f5f5;
+}
+@media (min-width: 992px) {
+  .text-404 {
+    font-size: 16rem;
+  }
 }
 
 .modal legend {

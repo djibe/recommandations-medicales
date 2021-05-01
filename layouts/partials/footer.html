@@ -87,6 +87,10 @@
 
 {{- with .Params.slider }}
 <script src="https://cdn.jsdelivr.net/npm/ion-rangeslider/js/ion.rangeSlider.min.js" crossorigin></script>
+<script>
+  $('.slider-default').ionRangeSlider()
+</script>
+
 {{- end -}}
 
 {{- with .Params.paludisme }}

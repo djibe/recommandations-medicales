@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2021-04-26
+lastmod = 2021-04-30
 specialites = ["pneumologie"]
 annees = "2021"
 sources = ["GOLD", "HAS", "SPLF"]
@@ -14,9 +14,10 @@ tags = ["depistage", "dyspnee", "fatigue", "tabac", "toux"]
 anglais = ["Chronic Obstructive Pulmonary Disease (COPD)"]
 sctid = "13645005"
 draft = false
+slider = true
 image = true
 imageSrc = "Illustration de Freepik"
-todo = "Plan d'action, CAT avec chiffres, ABCD 2011? 2.4, p.61++++, score BODE, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://splf.fr/wp-content/uploads/2015/01/Fiches-BPCO/F-PlanAction_2013.pdf, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, vérif def exacerbation légère, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86"
+todo = "Plan d'action, CAT avec chiffres, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, vérif def exacerbation légère, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, a1antitrypsine"
 +++
 
 {{%article-summary%}}
@@ -24,10 +25,12 @@ todo = "Plan d'action, CAT avec chiffres, ABCD 2011? 2.4, p.61++++, score BODE, 
 - {{< modal-btn modal-depistage-bpco >}}Dépistage{{< /modal-btn >}} et arrêt du tabac pour tout le monde  
 Principal facteur du déclin du VEMS.
 - Le diagnostic est spirométrique: TVO non réversible
-- Le VEMS est le facteur pronostique majeur
-- 3 piliers du traitement: arrêt du tabac, vaccination antigrippale, réadaptation respiratoire
-- Prévention cardiovasculaire
+- Le VEMS est le facteur pronostique majeur: {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
+- 4 piliers du traitement: arrêt du tabac, vaccination grippe+pneumocoque, activité physique et réadaptation respiratoire
+- Adaptation des bronchodilatateurs selon les symptômes et les exacerbations ({{< modal-btn modal-score-cat >}}évaluation CAT{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}dyspnée mMRC{{< /modal-btn >}})
 - Bronchodilatateurs: {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}}, {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama >}}LABA + LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}
+- EFR de suivi annuelle
+- Prévention cardiovasculaire
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -192,7 +195,7 @@ Bilan systématique:
 ### Spirométrie
 
 Examen diagnostique de référence: VEMS/CV post-bronchodilatateur < 0,7.  
-Mesure également la {{< modal-btn modal-severite-bpco >}}sévérité de l'obstruction bronchique par le VEMS{{< /modal-btn >}}.  
+Mesure également la {{< modal-btn modal-severite-bpco >}}sévérité de l'obstruction bronchique par le VEMS{{< /modal-btn >}} et le suivi de la capacité respiratoire.  
 Cotation CCAM: GLQP012, 40,28€.  
 Les autres examens recherchent des complications.
 
@@ -230,6 +233,7 @@ Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-bpco >}
   - Autres expositions aux toxiques et gaz domestiques et professionnels  
   Aérosols, combustion de bois ou biomasse, moisissures.
 - Vaccination
+  - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) (avec la coqueluche)
   - Antigrippale annuelle
   - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque tous les 5 ans{{< /modal-btn >}}
 - Réadaptation respiratoire
@@ -268,7 +272,7 @@ Formes: spray, poudre, brumisateur.
 
 #### Dyspnée persistante
 
-Pet être objectivée par un {{< modal-btn modal-score-cat >}}CAT ≥ 10{{< /modal-btn >}} (GOLD 2021).
+Peut être objectivée par un {{< modal-btn modal-score-cat >}}CAT ≥ 10{{< /modal-btn >}} (GOLD 2021).
 
 {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} systématique.  
 Préférer un {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} en antécédent d'exacerbation.
@@ -295,7 +299,7 @@ Arrêt si pneumonie ou autres EI des corticoïdes et remplacement par bithérapi
 #### 3<sup>e</sup> intention - Prescription spécialisée
 
 Triple association: {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}.  
-Arrêt des corticoïdes si pneumonie ou autres EI.
+Arrêt des corticoïdes si pneumonie ou autres effets indésirables.
 
 Seul le pneumologue peut prescrire une trithérapie ou des nébulisations.
 
@@ -462,7 +466,7 @@ Bilan à reprendre régulièrement:
 - Statut tabagique et traitements essayés
 - Expositions professionnelles et domestiques
 - Sévérité des signes respiratoires
-  - Spirométrie/EFR annuelle
+  - **Spirométrie/EFR annuelle**
   - {{< modal-btn modal-severite-bpco >}}Sévérité de l'obstruction bronchique{{< /modal-btn >}}
   - {{< modal-btn modal-score-mmrc >}}Dyspnée selon l'échelle mMRC{{< /modal-btn >}}
   - Test de marche de 6 minutes, lever de chaise ou stepper test
@@ -505,9 +509,10 @@ Anémie, asthme, cancer, insuffisance cardiaque, surpoids, troubles anxieux/dép
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. December 2019.](https://goldcopd.org/wp-content/uploads/2019/12/GOLD-2020-FINAL-ver1.2-03Dec19_WMV.pdf)
+- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. 2020.](https://goldcopd.org/2021-gold-reports/)
 - [Prescrire Redaction. Questionner sa pratique : préserver la qualité de vie des patients souffrant de BPCO. Rev Prescrire 2020 ; 40 (445) : 861-864.](https://prescrire.org/)
 - [Prescrire Redaction. Bronchopneumopathie chronique obstructive - Premiers Choix Prescrire, actualisation juillet 2020. Rev Prescrire 2020 ; 40 (444) : 737.](https://prescrire.org/)
+- [HAS. Patients à risque ou atteints de BPCO. Indicateurs de qualité du parcours de soins. 30/01/2020.](https://www.has-sante.fr/jcms/p_3151500/fr/patients-a-risque-ou-atteints-de-bronchopneumopathie-chronique-obstructive-bpco-indicateurs-de-qualite-du-parcours-de-soins)
 - [HAS. Bronchopneumopathie chronique obstructive. Guide du parcours de soins. Novembre 2019.](https://www.has-sante.fr/jcms/c_1242507/fr/guide-du-parcours-de-soins-bronchopneumopathie-chronique-obstructive-bpco)
 - [Prescrire Redaction. Bronchodilatateurs pour inhalation buccale dans la bronchopneumopathie chronique obstructive (BPCO) (commercialisés en France au 11 décembre 2018). Rev Prescrire 2019 ; 39 (424) : 91.](https://prescrire.org/)
 - [Delmas MC et al; Groupe Baromètre santé 2017. Connaissance de la bronchopneumopathie chronique obstructive (BPCO) en France : Baromètre santé 2017. Bull Epidémiol Hebd. 2018;(35-36):703-8.](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)

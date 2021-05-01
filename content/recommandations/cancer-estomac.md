@@ -66,7 +66,7 @@ La moitié après 75 ans, 2/3 d'hommes.
 
 - Antécédent personnel de lésion cancéreuse ou pré-cancéreuse gastrique
 - Lésions précancéreuses
-  - **Gastrite chronique à [*Helicobacter pylori*]**({{< relref "helicobacter-pylori.md" >}})
+  - **Gastrite chronique à [*Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}})**
   - Gastrite atrophique auto-immune (maladie de Biermer)
   - Ulcère gastrique chronique
   - Polype gastrique adénomateux

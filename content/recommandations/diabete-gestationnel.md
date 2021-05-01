@@ -1,0 +1,183 @@
++++
+title = "Diabète gestationnel"
+prefix = "le "
+shortname = "DG"
+synonyms = []
+auteurs = ["Jean-Baptiste FRON"]
+date = 2021-04-30T19:57:00+02:00
+publishdate = 2021-05-01
+lastmod = 2021-05-01
+specialites = ["gynecologie-obstetrique"]
+annees = "2010"
+sources = ["CNGOF", "SFD"]
+tags = ["diabete"]
+anglais = ["Gestational diabetes mellitus"]
+sctid = "11687002"
+draft = false
+flowchart = true
+image = false
+imageSrc = ""
+todo = "flowchart, https://www.reseauperinatallorrain.fr/app/download/33353837/Diab%C3%A8te+gestationnel_10-09-20.pdf, https://www.louvainmedical.be/sites/default/files/content/article/pdf/lmed-12-2016-01-pirson.pdf"
++++
+
+{{%article-summary%}}
+
+- Dépister si: âge ≥ 35 ans, surpoids, ATCD 1<sup>er</sup> degré de DT2, ATCD de DG ou macrosomie
+- Glycémie à jeun au T1 puis HGPO 75g entre 24 et 28 SA
+- DG si GAJ ≥ 0,92 g/L ou HGPO H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L
+- Adresser à la maternité pour ASG et diététique
+- GAJ à la consultation post-natale et tous les 1-3 ans à vie
+- En pandémie Covid-19, si HGPO non réalisable, remplacer par GAJ + HbA1C (seuil à 5,7%)([Vambergue 2020](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf))
+
+{{%/article-summary%}}
+{{%collapse "Définition" %}}
+
+Diabète gestationnel (DG)
+: Hyperglycémie à jeun gravidique sans hyperglycémie pré-existante à la grossesse.  
+Facteur de risque de complications obstétricales:  
+    - Maternelles: pré-éclampsie, césarienne
+    - Fœtales : macrosomie, hydramnios (rare), hyperbilirubinémie
+: La prévalence du DG est de 2 à 6%. Le risque de survenue d'un [diabète de type 2]({{< relref "diabete-type-2.md" >}}) est **x7**.
+
+Le diabète gestationnel ne modifie pas l'incidence des asphyxie néonatale, décès périnatal et hypocalcémie.
+
+**Rappel:** la glycémie baisse de 20% pendant la grossesse chez la femme non diabétique.  
+Étude Diagest2: 18% des femmes avec un DG ont eu un diabète de type 2 dans les 6 ans.
+
+### Abréviations
+
+**ADO:** antidiabétiques oraux  
+**ASG:** autosurveillance glycémique  
+**GAJ:** glycémie à jeun  
+**SOPK:** syndrome des ovaires polykystiques
+
+{{% /collapse %}}
+{{%collapse "Dépistage du diabète gestationnel" %}}
+
+### Qui dépister ?
+
+Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque parmi:
+
+{{%info%}}
+
+1. Âge ≥ 35 ans
+2. Surpoids (IMC ≥ 25 kg/m²)
+3. Antécédent familial de [diabète type 2]({{< relref "diabete-type-2.md" >}}) au 1<sup>er</sup> degré
+4. Antécédent de diabète gestationnel  
+5. Antécédent de macrosomie (> 4 kg)
+{{%/info%}}
+
+### Comment dépister le diabète gestationnel?
+
+{{%info%}}
+Diabète gestationnel si:
+
+- **glycémie à jeun ≥ 0,92 g/L** (seuil IADPSG)  
+- ou **HGPO 75g**  
+H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L.
+
+---
+
+Adresser à la maternité de son choix pour la mise en place d'une auto-surveillance glycémique et consultation diététique.
+{{%/info%}}
+
+- En périconceptionnel ou 1<sup>er</sup> trimestre  
+Glycémie à jeun.
+- et nouveau dépistage entre 24 et 28 SA
+  - HGPO avec 75 g de glucose
+  - Test positif si glycémie: H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L
+
+**NB.** Si glycémie à jeun > 1,26 g/L en début de grossesse (à 2 reprises), il s'agit d'un diabète de type 2.
+
+{{% /collapse %}}
+{{%collapse "Traitement" %}}
+
+{{%info%}}Objectifs glycémiques: glycémie à jeun < 0,95 g/L et post-prandiale H2 < 1,20 g/L{{%/info%}}
+
+### Mesures hygiéno-diététiques (RHD)
+
+- Activité physique 30 min x 3/semaine  
+Marche, natation.
+- 3 repas + 2-3 collations /j  
+Apports 25-35 kcal/kg/j.
+- Évaluation diététique
+
+### Auto-surveillance glycémique (ASG)
+
+- ASG pendant 7 à 10 jours avant mise sous insuline
+- Si GAJ ≥ 0,95 g/L à jeun ou ≥ 1,20 g/L 2 heures après le repas, recours à l'insulinothérapie
+- ASG poursuivie en post-partum immédiat
+
+### Insulinothérapie
+
+Indication: glycémies dépassants les objectifs après 10 jours de RHD (grade A).
+
+- ASG systématique x 4-6/j (à jeun, pré-prandiale et H2 post-prandiale)
+- Télésurveillance ([MyDiabby](https://www.mydiabby.com/diabete-gestationnel), ...)
+
+#### Molécules
+
+Privilégier les NPH (manque de recul sur les analogues lents): Insuman Basal® (Sanofi), Umuline NPH® (Lilly), Insulatard NPH® (Novo)
+
+**NB.** Pas d'ADO pendant la grossesse.
+
+### Pour en savoir plus: surveillance obstétricale périnatale
+
+- Diabète gestationnel bien équilibré  
+Pas de suivi spécialisé particulier si pas de pathologie ou facteur de risque surajouté.
+- Diabète type 2 découvert pendant la grossesse  
+Renforcer la surveillance fœtale après 32 SA.
+- Si maturation pulmonaire fœtale par corticoïdes:  
+Auto-surveillance glycémique stricte ± insuline.
+- Objectif de terme: 39 SA
+- Césarienne proposée quand poids fœtal > 4250-4500 g (grade C)
+- Si DG + ATCD césarienne:  
+Césarienne non systématique (grade C)
+
+{{% /collapse %}}
+{{%collapse "Surveillance post-partum et à distance" %}}
+
+- Surveillance de la normalisation des glycémies sans traitement
+- Si autres facteurs de risque cardiovasculaire:  
+Contraception par DIU préférable.
+- Grossesse ultérieure programmée  
+{{%class%}}Risque de récidive 30-84 %, DT2 x7, CV x7.{{%/class%}}
+- Information de la patiente + **dépistage du diabète** par glycémie à jeun ou HGPO
+  - en consultation post-natale
+  - avant nouvelle grossesse
+  - tous les 1 à 3 ans pendant ≥ 25 ans
+- Mesures hygiéno-diététiques
+  - Activité physique 30-60 min/j 5j/sem
+  - Alimentation équilibrée
+  - Arrêt du tabac
+- Pour l'enfant  
+Surveillance pondérale + activité physique.
+
+{{% /collapse %}}
+{{%collapse "Conduite à tenir" "show" %}}
+
+{{< mermaid title="Conduite à tenir pour le dépistage du diabète gestationnel. Dr JB FRON d'après SFD/CNGOF 2010" >}}
+graph TB
+fdr["<b>Facteurs de risque de diabète gestationnel</b><hr>1. Âge &ge; 35 ans<br>2. IMC &ge; 25 kg/m²<br>3. ATCD 1<sup>er</sup> degré de DT2<br>4. ATCD de DG<br>5. ATCD de macrosomie"]
+style fdr stroke:#006ef4, stroke-width:1px
+  fdr -- Oui --> gaj("<b>1<sup>er</sup> trimestre</b><br>Glycémie à jeun")
+    gaj -- "&lt; 0,92" --> hgpo("<b>24-28 SA: HGPO 75 g</b><hr>H0 &ge; 0,92<br>H1 &ge; 1,8<br>H2 &ge; 1,53")
+      hgpo -- Négative --> arret2(Arrêt des bilans)
+      hgpo -- "Positive si &ge; 1" --> DG
+    gaj -- "&ge; 0,92" --> DG(Diabète gestationnel)
+      DG --> diabeto(Diabétologue)
+    gaj -- "&ge; 1,26 contrôlée" --> DT2(Diabète type 2)
+      DT2 --> diabeto
+  fdr -- Non --> arret(Pas de dépistage du DG)
+{{< /mermaid >}}
+
+> Glycémie exprimée en g/L
+
+{{%/collapse%}}
+{{%collapse "Sources" %}}
+
+- [Vambergue A. et al; SFD, CNGOF. Diabète gestationnel et pandémie SARS-Cov2 (COVID-19). Avril 2020.](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)
+- SFD. Le livre blanc du diabète. 2011.
+- [CNGOF, SFD. Le diabète gestationnel. Recommandations pour la pratique clinique. 2010.](http://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/diabete%20gesta%20cngof.pdf)
+
+{{% /collapse %}}

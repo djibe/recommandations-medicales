@@ -110,7 +110,7 @@ Amphétamines, cocaïne.
 
 ### Examen clinique
 
-- Pression artérielle, pouls
+- Pression artérielle, pouls, SpO<sub>2</sub>
 - Auscultation cardiaque  
 Insuffisance tricuspidienne (souffle holosystolique majoré en inspiration profonde), éclat du B2 pulmonaire, souffle diastolique d'insuffisance pulmonaire.
 - Auscultation pulmonaire  
