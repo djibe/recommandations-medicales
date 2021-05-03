@@ -15,15 +15,16 @@ anglais = ["Postcoital contraception"]
 sctid = "268463003"
 draft = false
 flowchart = true
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Crédit OnSexPrime.fr"
 todo = ""
 +++
 
 {{%article-summary%}}
 
 - Information systématique de tous sur la contraception d'urgence, notamment lors de la prescription d'une contraception
-- La pilule du lendemain est accessible directement en pharmacie, gratuite pour les mineures
+- Information sur sa grande efficacité prise précocement et son innocuité
+- La pilule du lendemain est accessible sans ordonnance jusqu'à 72h, anonyme et gratuite pour les mineures
 - La pose d'un DIU est la méthode la plus efficace et possible jusqu'à J5
 - Envisager une prescription en prévention surtout si: adolescente, préservatif, VIH, voyage à l'étranger, milieu rural.
 - Il existe un risque de grossesse à tout moment du cycle en rapport non protégé
@@ -46,7 +47,10 @@ Elle peut être hormonale (lévonorgestrel ou ulipristal acétate) ou mécanique
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
 
-Usage lié à 30% d'oubli de pilule, 30% de rupture de préservatif, 17% d'absence de contraception.
+- Usage lié à 30% d'oubli de pilule, 30% de rupture de préservatif, 17% d'absence de contraception
+- Principe bien connu: 95% des -30 ans
+- Délai maximal inconnu: **1%** des -30 ans connaît le délai maximum de 5 jours
+- Peu utilisée: 11,5% des 15-29 ans avec rapport à risque y ont recours
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
@@ -114,6 +118,13 @@ Mêmes précautions que pour la PCU (préservatif, contraception, si retard de r
 Même délivrance que la PCU.
 
 {{% /collapse %}}
+{{%collapse "Information du patient" %}}
+
+- [OnSexPrime. La contraception d'urgence](https://www.onsexprime.fr/Sexe-sante/Que-faire-en-cas-d-urgence/La-contraception-d-urgence)
+- Fil santé jeunes: {{<phone>}}0 800 235 236{{</phone>}} (9:00-23:00)
+- Info sexualité, contraception, IVG, violences: {{<phone>}}0800 08 11 11{{</phone>}} (9:00-23:00)
+
+{{% /collapse %}}
 {{%collapse "Conduite à tenir pour une contraception en urgence" "show" %}}
 
 {{< mermaid title="Conduite à tenir pour la contraception d'urgence. Dr JB FRON d'après HAS 2019" >}}
@@ -140,6 +151,7 @@ graph TB
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Ameli. La contraception d’urgence gratuite et anonyme pour les mineures. 02/03/2021.](https://www.ameli.fr/assure/sante/themes/contraception-urgence/contraception-gratuite-anonyme-mineures)
 - [HAS. Contraception d’urgence : dispensation en officine. 17/09/2019.](https://www.has-sante.fr/jcms/c_1759990/fr/contraception-d-urgence-dispensation-en-officine)
 - [HAS. Contraception d’urgence. Juillet 2019.](https://www.has-sante.fr/upload/docs/application/pdf/2013-04/fiche-contraception-urgence.pdf)
 - [Rahib D., Lydié N. Contraception. Baromètre de Santé Publique France 2016. Santé Publique France. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/sante-sexuelle/documents/rapport-synthese/barometre-de-sante-publique-france-2016.-contraception.-la-contraception-d-urgence-des-delais-de-prise-toujours-sous-estimes)
