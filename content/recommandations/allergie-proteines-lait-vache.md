@@ -56,7 +56,7 @@ Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de 
 
 - Bébé Mandorle Riz 1, 2 et 3
 - Modilac Expert Riz 1, 2 et 3
-- Modilac Expert Riz AR <del>1</del>, 2 et 3
+- Modilac Expert Riz AR ~~1~~, 2 et 3
 - Novalac Riz ou Riz AR de 1 à 3
 - Prémiriz 1 et 2
 

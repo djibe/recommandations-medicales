@@ -62,6 +62,8 @@ title = "Recommandations Médicales"
 
 [minify]
 
+[markup.goldmark.parser.attribute]
+  block = true
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md
 

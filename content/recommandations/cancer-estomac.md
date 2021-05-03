@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-16T20:52:00+02:00
 publishdate = 2021-02-16
-lastmod = 2021-02-16
+lastmod = 2021-05-02
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["HAS", "SNFGE"]
@@ -35,6 +35,7 @@ Cancer de l'estomac
 Autres types rares: lymphomes (du MALT, *HP* +++) > stromales (GIST) > endocrine.
 : Classées en 2 entités par facteurs de risque différents: cancer du cardia (*jonction œso-gastrique* *JOG*) et non-cardia (distal).
 : 80% sont causés par une [**gastrite chronique à ***Helicobacter pylori*****]({{< relref "helicobacter-pylori.md" >}}).
+: Survie à 5 ans de 30%
 
 ### Abréviations
 
@@ -182,6 +183,7 @@ NFS, folates x 1/an.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Nousbaum JB. et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Estomac. BEH. Santé Publique France. 2021.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-estomac)
 - [Zaanan A. Bilan pré-thérapeutique et traitement péri-opératoire des adénocarcinomes de l’estomac. POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/bilan-pre-therapeutique-et-traitement-peri-operatoire-des-adenocarcinomes-de-lestomac/)
 - [SNFGE et al. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 24/06/2019.](https://www.snfge.org/content/2-cancer-de-lestomac)
 - [SNFGE. Traitement du RGO.](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)

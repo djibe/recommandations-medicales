@@ -159,7 +159,7 @@ Test non invasif en 1<sup>re</sup> intention:
 - Élasticité hépatique échographique: Fibroscan®  
 Absence de maladie sévère si résultat < 10 kPa.  
 [Remb. 100% en ALD x 1/an](https://www.aideaucodage.fr/ccam-hlqm002)
-Fibroscan® le plus proche: appeler 0 800 004 372
+Fibroscan® le plus proche: appeler {{<phone>}}0 800 004 372{{</phone>}}
 - Tests sanguins
   - FibroTest®  
   Absence de maladie sévère si résultat ≤ 0,58.  
@@ -295,7 +295,7 @@ graph TB
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
-[Hépatites Info Service](https://www.hepatites-info-service.org/hepatite-c/): 0 800 845 800
+[Hépatites Info Service](https://www.hepatites-info-service.org/hepatite-c/): {{<phone>}}0 800 845 800{{</phone>}}
 
 - Maladie grave pouvant être guérie le plus souvent
 - Les soins liés à la maladie et ses complications sont intégralement remboursés

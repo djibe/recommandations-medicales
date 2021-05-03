@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CAZANAVE (CMIT)"
 date = 2021-01-16T22:06:00+02:00
 publishdate = 2021-01-16
-lastmod = 2021-02-09
+lastmod = 2021-05-03
 specialites = ["infectiologie"]
 annees = "2018"
 sources = ["CNS", "HAS"]
@@ -37,7 +37,7 @@ Le VIH a la capacité de rentrer dans le noyau cellulaire et de s'intégrer dans
 
 Syndrome d'immunodéficience acquise (SIDA)
 : Dernier stade de l'infection par le VIH avec disparition des cellules immunitaires CD4+ donnant lieu à des infections opportunistes mortelles, souvent lorsque le taux CD4 est < 200/mm³.  
-Délai contamination-Sida d'environ 10 ans.
+Délai contamination-Sida d'environ **10 ans**.
 
 ### Abréviations
 
@@ -55,11 +55,12 @@ Délai contamination-Sida d'environ 10 ans.
 
 - 165.000 personnes infectées
 - **Non diagnostiquées:** 24 800 personnes (2013)  
-70% d'hommes et 2x moins de dépistage chez les hommes.  
+70% d'hommes (2x moins de dépistage chez les hommes).  
 +50% vivraient dans les 3 régions à risque (voir plus bas).
-- **Incidence:** 6500 nouveaux cas par an (25-49 ans surtout)
-- **Stade de la maladie au diagnostic:** 40% au stade tardif  
-{{%class%}}SIDA ou taux de CD4 ≤ 200/mm³.{{%/class%}}
+- **Incidence:** 6200 nouveaux cas par an (25-49 ans surtout)
+- **Stade de la maladie au diagnostic:** 29% au stade tardif  
+{{%class%}}SIDA ou taux de CD4 ≤ 200/mm³.{{%/class%}}  
+Surtout chez UDI (55%) et hétérosexuels (né en France ou non).  
 - **Délai entre infection et diagnostic:** ~3 ans
 - **Régions concernées:** 50% des diagnostics sont faits dans 3 régions  
 Ile-de-France et PACA surtout, puis Rhône-Alpes.
@@ -369,6 +370,7 @@ Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
 {{%collapse "Sources" %}}
 
 - [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+- [Cazein F. et al. Activité de dépistage du VIH et circonstances de découverte de l’infection à VIH, France 2018. Bull Epidémiol Hebd. 2019;(31-32):615-24.](http://beh.santepubliquefrance.fr/beh/2019/31-32/2019_31-32_1.html)
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
 - [CMIT. Infection à VIH. ECN.Pilly 2018, UE6 165.](http://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2018/ecn-2018-ue6-165-nb.pdf)
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017.](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)

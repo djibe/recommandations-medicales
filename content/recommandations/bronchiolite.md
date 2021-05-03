@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-16T08:08:41+02:00
 publishdate = 2020-11-16
-lastmod = 2020-11-18
+lastmod = 2021-05-02
 specialites = ["pediatrie", "pneumologie"]
 annees = "2000"
 sources = ["HAS", "SFP"]
@@ -215,13 +215,14 @@ Fréquence et nombre total de séances dépendent de l'évolution.
 
 ### Réseau Bronchiolite en Île-de-France
 
-- **Médecins** 7j/7 de 9h à 23h: 0820 800 880.
+- **Médecins** 7j/7 de 9h à 23h: {{<phone>}}0820 800 880{{</phone>}}.
 - **Kiné** disponibles samedi, dimanche et férié de 9h à 18h: 0820 820 603.
 
 {{% /collapse %}}
 {{%collapse "Information des parents" %}}
 
-[Fiche conseils aux parents (HAS/CNP)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
+[Fiche conseils aux parents (HAS/CNP)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)  
+[Santé Publique France. Votre enfant a la bronchiolite.](https://www.santepubliquefrance.fr/content/download/340939/3015336)
 
 Revenir consulter rapidement si:
 
@@ -261,6 +262,7 @@ Les récidives sont possibles mais l'asthme du nourrisson guérit le plus souven
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Santé Publique France. Bronchiolite. 28/04/2021.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite)
 - [Haute Autorité de Santé et Collège National Professionnel de Pédiatrie. Prise en charge du premier épisode de bronchiolite aiguë chez le nourrisson de moins de 12 mois. Novembre 2019.](https://www.has-sante.fr/upload/docs/application/pdf/2019-11/hascnpp_bronchiolite_texte_recommandations_2019.pdf)
 - [Société Canadienne de Pédiatrie. Recommandations pour le diagnostic, la surveillance et les prise en charge des enfants de un à 24 mois. 31/01/2018.](https://www.cps.ca/fr/documents/position/bronchiolitis1)
 - Prescrire Rédaction. Bronchiolite chez un nourrisson. Octobre 2017.

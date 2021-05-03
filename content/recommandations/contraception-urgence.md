@@ -1,12 +1,12 @@
 +++
-title = "Contraception d'urgence et pilule du lendemain"
+title = "Contraception d'urgence"
 prefix = "la "
 shortname = "CU"
-synonyms = []
+synonyms = ["Pilule du lendemain"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-05T14:50:00+02:00
 publishdate = 2021-03-05
-lastmod = 2021-03-23
+lastmod = 2021-05-03
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["HAS"]
@@ -27,7 +27,7 @@ todo = ""
 - La pose d'un DIU est la méthode la plus efficace et possible jusqu'à J5
 - Envisager une prescription en prévention surtout si: adolescente, préservatif, VIH, voyage à l'étranger, milieu rural.
 - Il existe un risque de grossesse à tout moment du cycle en rapport non protégé
-- Hotline: 0 800 08 11 11
+- Hotline: {{<phone>}}0 800 08 11 11{{</phone>}}
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -142,5 +142,6 @@ graph TB
 
 - [HAS. Contraception d’urgence : dispensation en officine. 17/09/2019.](https://www.has-sante.fr/jcms/c_1759990/fr/contraception-d-urgence-dispensation-en-officine)
 - [HAS. Contraception d’urgence. Juillet 2019.](https://www.has-sante.fr/upload/docs/application/pdf/2013-04/fiche-contraception-urgence.pdf)
+- [Rahib D., Lydié N. Contraception. Baromètre de Santé Publique France 2016. Santé Publique France. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/sante-sexuelle/documents/rapport-synthese/barometre-de-sante-publique-france-2016.-contraception.-la-contraception-d-urgence-des-delais-de-prise-toujours-sous-estimes)
 
 {{% /collapse %}}

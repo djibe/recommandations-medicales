@@ -6,28 +6,29 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-30T19:57:00+02:00
 publishdate = 2021-05-01
-lastmod = 2021-05-01
+lastmod = 2021-05-03
 specialites = ["gynecologie-obstetrique"]
-annees = "2010"
+annees = "2020"
 sources = ["CNGOF", "SFD"]
 tags = ["diabete"]
 anglais = ["Gestational diabetes mellitus"]
 sctid = "11687002"
 draft = false
 flowchart = true
-image = false
-imageSrc = ""
-todo = "flowchart, https://www.reseauperinatallorrain.fr/app/download/33353837/Diab%C3%A8te+gestationnel_10-09-20.pdf, https://www.louvainmedical.be/sites/default/files/content/article/pdf/lmed-12-2016-01-pirson.pdf"
+image = true
+imageSrc = "Illustration par vectorjuice / Freepik"
+todo = "insulines du DG"
 +++
 
 {{%article-summary%}}
 
-- Dépister si: âge ≥ 35 ans, surpoids, ATCD 1<sup>er</sup> degré de DT2, ATCD de DG ou macrosomie
+- Dépister systématiquement mais uniquement si: âge ≥ 35 ans, surpoids, ATCD 1<sup>er</sup> degré de DT2, ATCD de DG ou macrosomie
 - Glycémie à jeun au T1 puis HGPO 75g entre 24 et 28 SA
 - DG si GAJ ≥ 0,92 g/L ou HGPO H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L
 - Adresser à la maternité pour ASG et diététique
+- Objectif de terme: 39 SA
 - GAJ à la consultation post-natale et tous les 1-3 ans à vie
-- En pandémie Covid-19, si HGPO non réalisable, remplacer par GAJ + HbA1C (seuil à 5,7%)([Vambergue 2020](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf))
+- En pandémie Covid-19, si HGPO non réalisable, remplacer par GAJ + HbA1C avec un seuil diagnostique à 5,7% ([Vambergue 2020](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf))
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -37,12 +38,14 @@ Diabète gestationnel (DG)
 Facteur de risque de complications obstétricales:  
     - Maternelles: pré-éclampsie, césarienne
     - Fœtales : macrosomie, hydramnios (rare), hyperbilirubinémie
-: La prévalence du DG est de 2 à 6%. Le risque de survenue d'un [diabète de type 2]({{< relref "diabete-type-2.md" >}}) est **x7**.
+: La prévalence du DG est de 8% (2012) et en augmentation. Le risque ultérieur de [diabète de type 2]({{< relref "diabete-type-2.md" >}}) est alors **x7**.
 
 Le diabète gestationnel ne modifie pas l'incidence des asphyxie néonatale, décès périnatal et hypocalcémie.
 
 **Rappel:** la glycémie baisse de 20% pendant la grossesse chez la femme non diabétique.  
-Étude Diagest2: 18% des femmes avec un DG ont eu un diabète de type 2 dans les 6 ans.
+Étude *Diagest2*: 18% des femmes avec un DG ont eu un diabète de type 2 dans les 6 ans.
+
+*Sur-dépistage du DG: 76% versus 42% attendus (Regnault 2012)*
 
 ### Abréviations
 
@@ -82,7 +85,7 @@ Adresser à la maternité de son choix pour la mise en place d'une auto-surveill
 {{%/info%}}
 
 - En périconceptionnel ou 1<sup>er</sup> trimestre  
-Glycémie à jeun.
+Dépistage précoce d'un diabète par glycémie à jeun.
 - et nouveau dépistage entre 24 et 28 SA
   - HGPO avec 75 g de glucose
   - Test positif si glycémie: H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L
@@ -117,7 +120,8 @@ Indication: glycémies dépassants les objectifs après 10 jours de RHD (grade A
 
 #### Molécules
 
-Privilégier les NPH (manque de recul sur les analogues lents): Insuman Basal® (Sanofi), Umuline NPH® (Lilly), Insulatard NPH® (Novo)
+Privilégier les NPH: Umuline NPH® (Lilly), Insulatard NPH® (Novo)  
+ou des analogues rapides avec données rassurantes (insulines lispro ou asparte).
 
 **NB.** Pas d'ADO pendant la grossesse.
 
@@ -141,7 +145,7 @@ Césarienne non systématique (grade C)
 - Si autres facteurs de risque cardiovasculaire:  
 Contraception par DIU préférable.
 - Grossesse ultérieure programmée  
-{{%class%}}Risque de récidive 30-84 %, DT2 x7, CV x7.{{%/class%}}
+{{%class%}}Risque de récidive de DG de 30-84%, risque de DT2 x7, maladie cardiovasculaire x1,7.{{%/class%}}
 - Information de la patiente + **dépistage du diabète** par glycémie à jeun ou HGPO
   - en consultation post-natale
   - avant nouvelle grossesse
@@ -177,6 +181,9 @@ style fdr stroke:#006ef4, stroke-width:1px
 {{%collapse "Sources" %}}
 
 - [Vambergue A. et al; SFD, CNGOF. Diabète gestationnel et pandémie SARS-Cov2 (COVID-19). Avril 2020.](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)
+- [Brown J. et al. L'insuline pour le traitement des femmes atteintes de diabète gestationnel. Cochrane Database of Systematic Reviews 2017, Issue 11. Art.](https://www.cochrane.org/fr/CD012037/PREG_linsuline-pour-le-traitement-des-femmes-atteintes-de-diabete-gestationnel)
+- [Pirson N. et al. Prise en charge du diabète gestationnel en 2016 : une revue de la littérature. Louvain med 2016; 135 (10): 661-668](https://www.louvainmedical.be/sites/default/files/content/article/pdf/lmed-12-2016-01-pirson.pdf)
+- [Regnault N. et al. Diabète gestationnel en France en 2012 : dépistage, prévalence et modalités de prise en charge pendant la grossesse. BEH. Santé Publique France. Mars 2016.](http://beh.santepubliquefrance.fr/beh/2016/9/2016_9_2.html)
 - SFD. Le livre blanc du diabète. 2011.
 - [CNGOF, SFD. Le diabète gestationnel. Recommandations pour la pratique clinique. 2010.](http://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/diabete%20gesta%20cngof.pdf)
 

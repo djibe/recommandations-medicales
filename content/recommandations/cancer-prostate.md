@@ -45,9 +45,9 @@ Héréditaire si ≥ 3 cas dans les apparentés au 1<sup>er</sup> degré.
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
 
-- 1<sup>er</sup> cancer en France (71.000 cas/an)
-- 3<sup>e</sup> cause de décès par cancer de l'homme (8700/an).
-- Âge médian au diagnostic: 74 ans.
+- Incidence: 1<sup>er</sup> cancer en France (71.000 cas/an)
+- 3<sup>e</sup> cause de décès par cancer de l'homme (8700/an)
+- Âge médian au diagnostic: 74 ans
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

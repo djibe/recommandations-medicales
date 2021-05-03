@@ -6,7 +6,7 @@ synonyms = ["Chlamydiose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T12:09:00+02:00
 publishdate = 2021-03-28
-lastmod = 2021-04-26
+lastmod = 2021-05-03
 specialites = ["gynecologie-obstetrique"]
 annees = "2018"
 sources = ["HAS", "Inpes"]
@@ -14,8 +14,8 @@ tags = ["depistage", "HSH", "IST", "IVG"]
 anglais = ["Chlamydia trachomatis infection"]
 sctid = "240589008"
 draft = false
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Frottis cervical avec Chlamydia dans des vacuoles en grossissement 500. Dr. Lance Liotta Laboratory via Wikimedia Commons"
 todo = "améliorer clinique, flowchart, Prescrire Chlamydiose liée à un rapport sexuel"
 +++
 
@@ -35,7 +35,7 @@ todo = "améliorer clinique, flowchart, Prescrire Chlamydiose liée à un rappor
 *Chlamydia trachomatis* (Ct)
 : Bactérie intracellulaire pathogène (sérotype D et K) responsable d'infections urogénitales sexuellement transmises.  
 Problème de Santé publique du fait des complications: stérilité, grossesse extra-utérine, algies pelviennes chroniques.  
-Elle atteint 3% des 18-29 ans avec co-infection *gonocoque* de 2-24%.
+Elle atteint 3% des 18-29 ans avec co-infection *gonocoque* de 2-24%. +30% entre 2017 et 2019.
 : Symptomatologie:
     - Femme. Asymptomatique 70%, cervicite, inflammation pelvienne et salpingite, GEU, stérilité
     - Homme. Asymptomatique 50%, urétrite
@@ -149,6 +149,7 @@ Indication: << e. Personnes ayant des relations sexuelles avec des partenaires m
 {{%collapse "Sources" %}}
 
 - [Prescrire Redaction. Chlamydiose liée à un rapport sexuel. Premiers choix Prescrire. Mars 2021.](https://prescrire.org/)
+- [Santé Publique France. Chlamydiae. 01/12/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/chlamydiae)
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [Société Française de Dermatologie. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement Transmissibles. Février 2016.](http://www.sfdermato.org/media/pdf/recommandation/syphilis-precoce-b61913fb8de5bca222326904654c6b30.pdf)
 - [Ministère de la Santé. Infections sexuellement transmissibles (IST). 05/01/2016.](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/article/infections-sexuellement-transmissibles-ist)

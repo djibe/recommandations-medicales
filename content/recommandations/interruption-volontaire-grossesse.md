@@ -23,7 +23,7 @@ todo = "liste centres, arbre décisionnel"
 - Systématiques: Calcul de la DDR + examen gynécologique + groupe sanguin + échographie pelvienne.
 - Possible en ville avant 7 SA.  
 [Extension exceptionnelle Covid jusqu'à 9 semaines](https://www.has-sante.fr/jcms/p_3179352/fr/la-has-valide-l-extension-de-l-ivg-medicamenteuse-a-domicile-jusqu-a-9-semaines).
-- Centres et praticiens réalisant des IVG: [ivglesadressess.org](https://www.ivglesadresses.org/) ou téléphone <a href="tel:+33800081111">0 800 08 11 11</a>.
+- Centres et praticiens réalisant des IVG: [ivglesadressess.org](https://www.ivglesadresses.org/) ou téléphone {{<phone>}}0 800 08 11 11{{</phone>}}.
 
 {{%/article-summary%}}
 {{%collapse "Calcul du terme" %}}

@@ -6,7 +6,7 @@ synonyms = ["Accident ischémique transitoire", "infarctus cérébral"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-25T14:04:00+02:00
 publishdate = 2021-01-25
-lastmod = 2021-01-29
+lastmod = 2021-05-02
 specialites = ["neurologie"]
 annees = "2018"
 sources = ["HAS"]
@@ -210,7 +210,7 @@ Le dossier de soin est partagé entre intervenants.
 #### À distance
 
 - Rééducation intensive de la marche dès que possible  
-  - Des exercices prolongés améliorent les performances de la marche.
+  - Des exercices prolongés améliorent les performances de la marche (> 90 min, Schnitzler 2018).
   - Rééducation de la mise en charge et de l’équilibre.
   - Goniofeedback du genou pour améliorer la marche.
   - Myofeedback pour améliorer la marche.
@@ -257,7 +257,10 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Gabet A. et al; Santé Publique France. Connaissance de l'accident vasculaire cérébral et de ses symptômes en France en 2019.Bulletin épidémiologique hebdomadaire, 2020, n°. 28, p. 554-561.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/connaissance-de-l-accident-vasculaire-cerebral-et-de-ses-symptomes-en-france-en-2019)
 - [HAS. Prévention vasculaire après un infarctus cérébral ou un accident ischémique transitoire. 13/06/2018.](https://www.has-sante.fr/jcms/c_1252051/fr/prevention-vasculaire-apres-un-infarctus-cerebral-ou-un-accident-ischemique-transitoire)
+- [Schnitzler A. et al; Santé Publique France. Bulletin Epidémiologique Hebdomadaire, 2018, n°. 29, p. 595-601.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/impact-de-la-reeducation-a-la-phase-subaigue-d-un-accident-vasculaire-cerebral-en-france-en-2016)
+- [Lecoffre C. et al; Santé Publique France. L'accident vasculaire cérébral en France : patients hospitalisés pour AVC en 2014 et évolutions 2008-2014. Bulletin Epidémiologique Hebdomadaire, 2017, n°. 5, p. 84-94 ](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/l-accident-vasculaire-cerebral-en-france-patients-hospitalises-pour-avc-en-2014-et-evolutions-2008-2014)
 - [HAS. Accident vasculaire cérébral : méthodes de rééducation de la fonction motrice chez l’adulte. Juin 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2012-11/11irp01_synt_avc_methodes_de_reeducation.pdf)
 - [HAS. Accident vasculaire cérébral :  prise en charge précoce. Mai 2009.](https://www.has-sante.fr/upload/docs/application/pdf/2009-07/avc_prise_en_charge_precoce_-_recommandations.pdf)
 - [HAS. Prise en charge diagnostique et traitement immédiat de l’accident ischémique transitoire de l’adulte. 03/05/2004.](https://www.has-sante.fr/jcms/c_272368/fr/prise-en-charge-diagnostique-et-traitement-immediat-de-laccident-ischemique-transitoire-de-ladulte)

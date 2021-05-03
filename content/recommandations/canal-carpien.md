@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-14T18:30:29+02:00
 publishdate = 2020-07-14
-lastmod = 2021-01-04
+lastmod = 2021-05-02
 specialites = ["rhumatologie"]
 annees = "2013"
 sources = ["HAS", "Prescrire"]
@@ -19,7 +19,7 @@ image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "TODO: lire reco 2013"
+todo = "rec maladie pro, lire reco 2013"
 +++
 
 {{%article-summary%}}
@@ -31,11 +31,19 @@ todo = "TODO: lire reco 2013"
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Atteinte du **nerf médian** uni (voire bilatérale) le plus souvent progressive.
+Syndrome du canal carpien (SCC)
+: Compression du *nerf médian*  lors de son passage sous le *ligament annulaire antérieur du carpe*.  
+L'atteinte est le plus souvent unilatérale, d'apparition progressive et féminine (65%).
+: Son atteinte est à l'origine de troubles de la sensibilité des 3 premiers doigts et à la moitié externe du 4<sup>e</sup> doigt à la face palmaire et à la face dorsale aux 2 dernières phalanges des 3 premiers doigts et à la moitié externe du 4<sup>e</sup> doigt.
+: Parfois décrit par le malade comme atteignant toute la main ou forme atypique avec douleurs ascendantes de l’avant-bras (différencier des douleurs descendantes des NCB).
+: 127.000 chirurgies (2014), soit une incidence Femme - Homme de 2,5 et 1,4/1000 respectivement.
+: 2<sup>e</sup> cause de *Maladie professionnelle* (MP) 
+Chez les ouvriers, 75% seraient provoqués par leur métier. Pourtant la sous-déclaration atteindrait les 60%.
 
-Son atteinte est à l'origine de troubles de la sensibilité des 3 premiers doigts et à la moitié externe du 4e doigt à la face palmaire et à la face dorsale aux 2 dernières phalanges des 3 premiers doigts et à la moitié externe du 4e doigt.
+### Abréviations
 
-**NB.** Parfois décrit par le malade comme atteignant toute la main ou forme atypique avec douleurs ascendantes de l’avant-bras (différencier des douleurs descendantes des NCB).
+**NCB:** névralgie cervico-brachiale  
+**SCC:** syndrome du canal carpien
 
 {{% /collapse %}}
 {{%collapse "Étiologie" %}}
@@ -184,7 +192,7 @@ Les fils sont retirés au bout de 15 jours à 3 semaines après l’intervention
 
 {{< mermaid title="Conduite à tenir devant un syndrome du canal carpien" >}}
 graph TD
-diagnostic["Diagnostic clinique"] --> gravite{"Signes de gravité ?"}
+diagnostic["Diagnostic clinique<br>de canal carpien"] --> gravite{Signes de gravité ?}
 style diagnostic stroke:#006ef4, stroke-width:1px
 diagnostic --"Diagnostic différentiel"--> differentiel("- Atteintes radiculaires C6-C7<br>- Syndrome de la traversée thoraco-brachiale<br>- Myélopathies cervicales<br>- Plexopathies<br>- Neuropathies périphériques<br>- Compression du n. médian en amont<br>- Acrosyndromes vasculaires<br>- Paresthésies fonctionnelles")
   gravite -- Oui --> emg(ENMG pré-opératoire) --> chir("Chirurgie")
@@ -199,6 +207,7 @@ diagnostic --"Diagnostic différentiel"--> differentiel("- Atteintes radiculaire
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Santé Publique France. Syndrome du canal carpien. 18/08/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-liees-au-travail/troubles-musculo-squelettiques/donnees/syndrome-du-canal-carpien)
 - [La Revue Prescrire. Syndrome du canal carpien: parfois d’origine médicamenteuse. Avril 2019.](https://prescrire.org/)
 - [HAS. Syndrome du canal carpien - Optimiser la pertinence du parcours patient. Février 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-03/syndrome_du_canal_carpien_optimiser_la_pertinence_du_parcours_patient.pdf)
 

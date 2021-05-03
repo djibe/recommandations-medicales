@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2021-04-30
+lastmod = 2021-05-02
 specialites = ["pneumologie"]
 annees = "2021"
 sources = ["GOLD", "HAS", "SPLF"]
@@ -95,13 +95,15 @@ Aux USA: coût estimé de 52,4 milliards de $ annuels (32 directs + 20,4 indirec
 
 ### En France
 
-- Prévalence: 10% des adultes (3,5 millions en 2010)
-- Hospitalisations: 100-160.000/an
-- Décès: 19.000/an (2013)
+- Prévalence: 7-10% des 40-64 ans (3,5 millions en 2010)
+- Hospitalisations: 100-160.000/an (2017)  
+22,5% des patients hospitalisés ont été ré-hospitalisés.
+- Décès: 18.000/an
 - Coût moyen: de 7628€ à 20 747€  
 Coût annuel moyen respectif d'un patient avec BPCO légère et oxygénorequérant.
-- Sous-diagnostic: 3/4 ne sont pas diagnostiqués
-- Méconnaissance: 22% des français ont déjà entendu parler de BPCO (*InVS*)  
+- Sous-diagnostic: 70% ne seraient pas diagnostiqués
+- 80% des cas dus au tabac
+- Méconnaissance: 22% des français ont déjà entendu parler de BPCO (*SPF 2017*)  
 Parmi lesquels seulement 1/3 cite le tabac comme cause.
 
 {{% /collapse %}}
@@ -175,6 +177,20 @@ Sibilants, tirage, cyanose.
 - [Dépister les apnées du sommeil](https://www.diabeclic.com/questionnaire-stop-bang)
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Autres causes de toux chronique d'origine thoracique:
+
+- Asthme (voir *Clinique*)
+- Cancer du poumon
+- [Tuberculose]({{< relref "tuberculose.md" >}})
+- Dilatation des bronches et emphysème pulmonaire
+- Insuffisance cardiaque chronique
+- Pneumopathie interstitielle
+- Mucoviscidose
+- Idiopathique
+
+{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 {{%info%}}
@@ -206,20 +222,6 @@ Indications: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3
 ### Autres
 
 Scanner thoracique, ECBC, alpha1 antitrypsine... selon le pneumologue.
-
-{{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-Autres causes de toux chronique d'origine thoracique:
-
-- Asthme (voir *Clinique*)
-- Cancer du poumon
-- [Tuberculose]({{< relref "tuberculose.md" >}})
-- Dilatation des bronches et emphysème pulmonaire
-- Insuffisance cardiaque chronique
-- Pneumopathie interstitielle
-- Mucoviscidose
-- Idiopathique
 
 {{% /collapse %}}
 {{%collapse "Traitement - état stable" %}}
@@ -477,7 +479,8 @@ IMC (< 21), perte de poids, santé bucco-dentaire.
   - Nombre d'hospitalisations
   - Dates des stages de réadaptation respiratoire
   - Traitements en cours et technique
-  - SpO<sub>2</sub> ± Gaz du sang
+  - SpO<sub>2</sub>
+  - Gaz du sang annuel si {{< modal-btn modal-severite-bpco >}}GOLD 4{{< /modal-btn >}}
   - Limitation des activités  
   Fatigue, activités quotidiennes et sociales, qualité de vie, {{< modal-btn modal-score-cat >}}évaluation CAT{{< /modal-btn >}}.
 - Recherche de comorbidités aggravantes  
@@ -513,8 +516,10 @@ Anémie, asthme, cancer, insuffisance cardiaque, surpoids, troubles anxieux/dép
 - [Prescrire Redaction. Questionner sa pratique : préserver la qualité de vie des patients souffrant de BPCO. Rev Prescrire 2020 ; 40 (445) : 861-864.](https://prescrire.org/)
 - [Prescrire Redaction. Bronchopneumopathie chronique obstructive - Premiers Choix Prescrire, actualisation juillet 2020. Rev Prescrire 2020 ; 40 (444) : 737.](https://prescrire.org/)
 - [HAS. Patients à risque ou atteints de BPCO. Indicateurs de qualité du parcours de soins. 30/01/2020.](https://www.has-sante.fr/jcms/p_3151500/fr/patients-a-risque-ou-atteints-de-bronchopneumopathie-chronique-obstructive-bpco-indicateurs-de-qualite-du-parcours-de-soins)
+- [Marques C et al. Évolution des connaissances de la bronchopneumopathie chronique obstructive après la campagne nationale du 31 mai 2019 : résultats d’une évaluation avant/après. Synthèse. Santé publique France ; 2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bpco-et-insuffisance-respiratoire-chronique/documents/rapport-synthese/evolution-des-connaissances-de-la-bronchopneumopathie-chronique-obstructive-apres-la-campagne-nationale-du-31-mai-2019-resultats-d-une-evaluation)
 - [HAS. Bronchopneumopathie chronique obstructive. Guide du parcours de soins. Novembre 2019.](https://www.has-sante.fr/jcms/c_1242507/fr/guide-du-parcours-de-soins-bronchopneumopathie-chronique-obstructive-bpco)
 - [Prescrire Redaction. Bronchodilatateurs pour inhalation buccale dans la bronchopneumopathie chronique obstructive (BPCO) (commercialisés en France au 11 décembre 2018). Rev Prescrire 2019 ; 39 (424) : 91.](https://prescrire.org/)
+- [Santé Publique France. BPCO et insuffisance respiratoire chronique. 27/06/2019](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bpco-et-insuffisance-respiratoire-chronique)
 - [Delmas MC et al; Groupe Baromètre santé 2017. Connaissance de la bronchopneumopathie chronique obstructive (BPCO) en France : Baromètre santé 2017. Bull Epidémiol Hebd. 2018;(35-36):703-8.](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)
 - [Jouneau S. et al; SPLF. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017. FR, EN.](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
 - [Zysman M. et al; SPLF. Propositions de la SPLF pour l’optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016.](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)

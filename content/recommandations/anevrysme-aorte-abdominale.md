@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-29T17:51:41+02:00
 publishdate = 2020-07-29
-lastmod = 2020-07-29
+lastmod = 2021-05-02
 specialites = ["cardiologie"]
 annees = "2017"
 sources = ["ESC", "HAS"]
@@ -28,11 +28,13 @@ imageSrc = "Photo de loudista sur Foter.com / CC BY"
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-L'anévrysme de l'aorte abdominale (AAA) est une dilatation localisée d’un segment de l’aorte abdominale (le plus souvent sous-rénale) amenant à une perte de parallélisme des bords, des turbulences et ainsi la formation d’un caillot.
+Anévrysme de l'aorte abdominale (AAA)
+: Dilatation localisée d’un segment de l’aorte abdominale (le plus souvent sous-rénale) amenant à une perte de parallélisme des bords, des turbulences du flux sanguin et ainsi la formation d’un caillot.
 
 80% des anévrysmes sont de forme fusiforme, parfois sacciforme.
 
-**80% de mortalité** en AAA rompu contre 5% en intervention programmée.
+**80% de mortalité** en AAA rompu contre 5% en intervention programmée.  
+2000 morts/an et 10.000 hospitalisations annuelles.
 
 Pour l’histoire: Einstein et de Gaulle en sont morts.
 
@@ -79,6 +81,7 @@ Indications opératoires basées sur : diamètre > 5 cm, croissance > 10 mm/an,
 {{%collapse "Sources" %}}
 
 - [European Society of Cardiology. Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS). 2017.](https://doi.org/10.1093/eurheartj/ehx095)
+- [Robert M. et al; Santé Publique France. Anévrismes de l'aorte abdominale et dissections aortiques : patients hospitalisés et mortalité, France, 2000-2013. Bulletin Epidémiologique Hebdomadaire, 2015, n°. 38-39, p. 724-32.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/anevrisme-de-l-aorte-abdominale/documents/article/anevrismes-de-l-aorte-abdominale-et-dissections-aortiques-patients-hospitalises-et-mortalite-france-2000-2013)
 - [European Society of Cardiology. Guidelines on the diagnosis and treatment of aortic diseases. 2014.](https://doi.org/10.1093/eurheartj/ehu281)
 - [Haute Autorité de Santé. Dépistage et prévention des anévrismes de l’aorte abdominale. Novembre 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2013-02/aaa_fiche_med_vfinale.pdf)
 
