@@ -450,7 +450,7 @@ graph TB
 {{%collapse "Sources" %}}
 
 - [Prescrire Redaction. Fer isomaltoside : pas plus de réactions d'hypersensibilité qu'avec le fer saccharose ?. Prescrire en questions. Revue Prescrire 2020; 40 : 469-470.](https://prescrire.org/)
-- [Prescrire Redaction. Jambes sans repos : soulager sans médicament. Août 2019.]((https://prescrire.org/))
+- [Prescrire Redaction. Jambes sans repos : soulager sans médicament. Août 2019.](https://prescrire.org/)
 - [Chenini S. et al; SFRMS. Syndrome des jambes sans repos pharmaco-résistant. Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 114-125.](https://doi.org/10.1016/j.msom.2018.10.004)
 - [Limousin N. et al.; SFRMS. Traitement du syndrome des jambes sans repos nouvellement diagnostiqué. Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 106-113.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302449?via%3Dihub)
 - [Leclair-Visonneau L et al.; SFRMS. Comment poser le diagnostic d'un syndrome des jambes sans repos ? Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 97-105.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302437?via%3Dihub)

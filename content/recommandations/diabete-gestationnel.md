@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "insulines du DG"
+todo = "insulines du DG, enfant obèse ?"
 +++
 
 {{%article-summary%}}
@@ -40,10 +40,10 @@ Facteur de risque de complications obstétricales:
     - Fœtales : macrosomie, hydramnios (rare), hyperbilirubinémie
 : La prévalence du DG est de 8% (2012) et en augmentation. Le risque ultérieur de [diabète de type 2]({{< relref "diabete-type-2.md" >}}) est alors **x7**.
 
-Le diabète gestationnel ne modifie pas l'incidence des asphyxie néonatale, décès périnatal et hypocalcémie.
+Le diabète gestationnel ne modifie pas l'incidence des asphyxies néonatales, décès périnataux et hypocalcémies néonatales.
 
 **Rappel:** la glycémie baisse de 20% pendant la grossesse chez la femme non diabétique.  
-Étude *Diagest2*: 18% des femmes avec un DG ont eu un diabète de type 2 dans les 6 ans.
+Conclusion de l'étude *Diagest2*: 18% des femmes avec un DG développeront un diabète de type 2 dans les 6 ans.
 
 *Sur-dépistage du DG: 76% versus 42% attendus (Regnault 2012)*
 
@@ -66,7 +66,7 @@ Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque par
 1. Âge ≥ 35 ans
 2. Surpoids (IMC ≥ 25 kg/m²)
 3. Antécédent familial de [diabète type 2]({{< relref "diabete-type-2.md" >}}) au 1<sup>er</sup> degré
-4. Antécédent de diabète gestationnel  
+4. Antécédent personnel de diabète gestationnel  
 5. Antécédent de macrosomie (> 4 kg)
 {{%/info%}}
 
@@ -85,10 +85,11 @@ Adresser à la maternité de son choix pour la mise en place d'une auto-surveill
 {{%/info%}}
 
 - En périconceptionnel ou 1<sup>er</sup> trimestre  
-Dépistage précoce d'un diabète par glycémie à jeun.
+Vise un dépistage précoce d'un diabète par glycémie à jeun.
 - et nouveau dépistage entre 24 et 28 SA
   - HGPO avec 75 g de glucose
   - Test positif si glycémie: H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L
+  - Peut être rattrapé après 28 SA
 
 **NB.** Si glycémie à jeun > 1,26 g/L en début de grossesse (à 2 reprises), il s'agit d'un diabète de type 2.
 

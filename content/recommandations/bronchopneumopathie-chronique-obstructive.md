@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2021-05-02
+lastmod = 2021-05-03
 specialites = ["pneumologie"]
 annees = "2021"
 sources = ["GOLD", "HAS", "SPLF"]
@@ -17,7 +17,7 @@ draft = false
 slider = true
 image = true
 imageSrc = "Illustration de Freepik"
-todo = "Plan d'action, CAT avec chiffres, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, vérif def exacerbation légère, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, a1antitrypsine"
+todo = "Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, vérif def exacerbation légère, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, a1antitrypsine"
 +++
 
 {{%article-summary%}}
@@ -27,7 +27,7 @@ Principal facteur du déclin du VEMS.
 - Le diagnostic est spirométrique: TVO non réversible
 - Le VEMS est le facteur pronostique majeur: {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
 - 4 piliers du traitement: arrêt du tabac, vaccination grippe+pneumocoque, activité physique et réadaptation respiratoire
-- Adaptation des bronchodilatateurs selon les symptômes et les exacerbations ({{< modal-btn modal-score-cat >}}évaluation CAT{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}dyspnée mMRC{{< /modal-btn >}})
+- Adaptation des bronchodilatateurs selon les symptômes et les exacerbations ({{< modal-btn modal-score-cat >}}évaluation CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}dyspnée mMRC{{< /modal-btn >}})
 - Bronchodilatateurs: {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}}, {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama >}}LABA + LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}
 - EFR de suivi annuelle
 - Prévention cardiovasculaire
@@ -43,10 +43,10 @@ Bronchopneumopathie chronique obstructive (BPCO)
 : Causes de mortalité: insuffisance respiratoire (10% en Gold 1, 50% en Gold 4), maladies cardio-vasculaires (20-40%), cancers (10-20%).
 
 Exacerbation de BPCO (EABPCO)
-: Le diagnostic est clinique: aggravation aiguë des symptômes respiratoires au-delà des variations quotidiennes justifiant une modification thérapeutique (augmentation des bronchodilatateurs > 24h ou ajout d'un traitement).
+: Le diagnostic est clinique: aggravation aiguë des symptômes respiratoires au-delà des variations quotidiennes justifiant une modification thérapeutique (augmentation des bronchodilatateurs > 24h ou ajout d'un traitement). Elle dure souvent de 7 à 10 jours mais parfois plus (20% à 2 mois).
 : Critères: augmentation de la dyspnée, toux, volume/aspect des expectorations.
 : Définitions (GOLD 2021)
-    - **Exacerbations fréquentes quand ≥ 2 épisodes/an**  
+    - **Exacerbations fréquentes: ≥ 2 exacerbations/an**  
     1<sup>er</sup> facteur prédictif de survenue d'EABPCO
     - **Exacerbation légère**: résolutive en majorant les {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}
     - **Modérée**: nécessitant 1/+ traitements supplémentaires
@@ -72,7 +72,7 @@ Insuffisance respiratoire chronique
 **BDCA:** bronchodilatateur de courte durée d'action (ß2 ou anticholinergique, SABD en anglais)  
 **BDLA:** bronchodilatateur de longue durée d'action  
 **BPCO:** bronchopneumopathie chronique obstructive  
-**CAT:** {{%lang%}}COPD Assessment Test{{%/lang%}}
+**CAT™:** {{%lang%}}COPD Assessment Test{{%/lang%}}
 **CSI:** corticostéroïde inhalé  
 **CVF:** capacité vitale forcée  
 **DEP:** débit expiratoire de pointe  
@@ -237,14 +237,17 @@ Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-bpco >}
 - Vaccination
   - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) (avec la coqueluche)
   - Antigrippale annuelle
-  - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque tous les 5 ans{{< /modal-btn >}}
+  - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}} si > 65 ans ou comorbidités (cardiaque ou respiratoire)  
+  Rappel tous les 5 ans.
 - Réadaptation respiratoire
   - Essentielle pour tous pour réduire la dyspnée, le stress et améliorer la qualité de vie
+  - Répétée si besoin
   - [Liste des centres de réadaptation respiratoire (RR)](https://splf.fr/la-carte-de-la-rehabilitation-respiratoire/)
   - Voire à domicile par kiné  
   Prescrire: "Séances de réadaptation respiratoire kinésithérapique pour maladie respiratoire chronique obstructive".
-- Activité physique régulière
-  - Augmenter le temps de marche quotidien, escaliers, vélo
+- Activité physique quotidienne
+  - Augmenter le temps de marche quotidien, escaliers, vélo  
+  Favoriser avec podomètre, appli (Google Fit ...)
   - [Annuaire pour l'Activité Physique Adaptée (APA)](https://www.sfp-apa.fr/annuaire/)
   - Kinésithérapie respiratoire
 - Prise en charge des comorbidités
@@ -274,7 +277,7 @@ Formes: spray, poudre, brumisateur.
 
 #### Dyspnée persistante
 
-Peut être objectivée par un {{< modal-btn modal-score-cat >}}CAT ≥ 10{{< /modal-btn >}} (GOLD 2021).
+Peut être objectivée par un {{< modal-btn modal-score-cat >}}CAT™ ≥ 10{{< /modal-btn >}} (GOLD 2021).
 
 {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} systématique.  
 Préférer un {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} en antécédent d'exacerbation.
@@ -325,15 +328,17 @@ Traitements réservés au pneumologue (prescription et renouvellement).
 
 ≥ 15 h/j en hypoxémie avec suivi au moins annuel.
 
-Envisager si:
+Envisager si (HAS 2019):
 
 - {{< modal-btn modal-severite-bpco >}}Obstruction très sévère (voire sévère){{< /modal-btn >}}
 - Cyanose
 - Polyglobulie
 - Signes d'insuffisance cardiaque droite
 - SpO<sub>2</sub> ≤ 92% en air ambiant
+  - SaO<sub>2</sub> < 88% pour GOLD 2021
+  - 88% < SaO<sub>2</sub> < 90% avec insuffisance cardiaque droite ou polyglobulie pour GOLD 2021
 
-Cible de repos: SpO<sub>2</sub> > 90% (PaO<sub>2</sub> > 60 mmHg).
+Cible de repos: SpO<sub>2</sub> ≥ 90% (PaO<sub>2</sub> ≥ 60 mmHg).
 
 #### Ventilation mécanique ± Pression Positive Continue
 
@@ -345,9 +350,11 @@ Relève exclusivement du spécialiste.
 ### 1. Éliminer un diagnostic différentiel
 
 - Syndrome coronarien aigu
+- Arythmie cardiaque
 - Aggravation de l'insuffisance cardiaque
 - [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
 - Pneumopathie aiguë communautaire
+- Pneumothorax et pleurésie
 
 ### 2. Rechercher le facteur déclenchant
 
@@ -450,11 +457,12 @@ L'inclusion est réalisée par l'hôpital.
 - Consultation du pneumologue dans le mois (voire 2 mois)  
 {{%class%}}Avec EFR et gaz du sang.{{%/class%}}
 - Réadaptation respiratoire dans les 2 à 4 semaines  
-{{%class%}}Diminue la mortalité et le risque de ré-hospitalisation.{{%/class%}}
+{{%class%}}Diminue la mortalité (50% à 5 ans) et le risque de ré-hospitalisation.{{%/class%}}
 - Encourager à l'arrêt du tabac (voir *État stable*)
 - Suivi infirmier à domicile
 - Contrôler le PPS
 - Poursuivre les traitements de l'état stable
+- Recherche et correction d'une [carence en vitamine D]({{< relref "vitamine-d.md" >}}) (GOLD 2021)
 
 {{% /collapse %}}
 {{%collapse "Surveillance" %}}
@@ -482,7 +490,7 @@ IMC (< 21), perte de poids, santé bucco-dentaire.
   - SpO<sub>2</sub>
   - Gaz du sang annuel si {{< modal-btn modal-severite-bpco >}}GOLD 4{{< /modal-btn >}}
   - Limitation des activités  
-  Fatigue, activités quotidiennes et sociales, qualité de vie, {{< modal-btn modal-score-cat >}}évaluation CAT{{< /modal-btn >}}.
+  Fatigue, activités quotidiennes et sociales, qualité de vie, {{< modal-btn modal-score-cat >}}évaluation CAT™{{< /modal-btn >}}.
 - Recherche de comorbidités aggravantes  
 Anémie, asthme, cancer, insuffisance cardiaque, surpoids, troubles anxieux/dépressifs, troubles musculosquelettiques, [hypertension pulmonaire]({{< relref "hypertension-arterielle-pulmonaire.md" >}}).
 

@@ -6,7 +6,7 @@ synonyms = ["Fièvre amarile, typhus amaril, vomito negro"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-12T08:55:00+02:00
 publishdate = 2021-02-12
-lastmod = 2021-02-17
+lastmod = 2021-05-03
 specialites = ["infectiologie"]
 annees = "2019"
 sources = ["MinSante"]
@@ -14,8 +14,8 @@ tags = ["vaccin", "voyage"]
 anglais = ["Yellow fever"]
 sctid = "16541001"
 image = true
-imageSrc = "James Gathany, Public domain, via Wikimedia Commons"
-todo = ""
+imageSrc = "James Gathany, domaine public via Wikimedia Commons"
+todo = "clinique"
 +++
 
 {{%article-summary%}}
@@ -28,6 +28,7 @@ Vaccination:
 - recommandée voire obligatoire pour de nombreux pays
 - réalisée en centre de vaccination internationale
 - au moins 10 jours avant le départ
+- par 1 dose unique
 - associée à la prévention contre les moustiques
 
 {{%/article-summary%}}
@@ -69,7 +70,7 @@ Vaccination recommandée voire **obligatoire** pour de nombreux pays (voir plus 
 
 La **vaccination anti-amarile** est réalisée dans un centre homologué avec remise d'un **certificat de vaccination** valable à vie.
 
-1 injection au moins 10 jours avant le départ.  
+1 injection au moins 10 jours avant le départ sans rappel.  
 Possible dès 9 mois.
 
 {{< card-link title="Liste des centres de vaccination fièvre jaune par département" url="https://solidarites-sante.gouv.fr/IMG/pdf/tableau_cvfj_janvier_2019.pdf" subtitle="Ministère de la Santé" image="ministere" >}}
@@ -77,6 +78,7 @@ Possible dès 9 mois.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Institut Pasteur. Fièvre jaune : mieux comprendre les rares effets secondaires des vaccins. 26/04/2021.](https://www.pasteur.fr/fr/journal-recherche/actualites/fievre-jaune-mieux-comprendre-rares-effets-secondaires-vaccins)
 - [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
 - [OMS. Fièvre jaune. 07/05/2019.](https://www.who.int/fr/news-room/fact-sheets/detail/yellow-fever)
 - [Ministère de la Santé. Liste des centres de vaccination habilités à effectuer la vaccination contre la fièvre jaune (anti-amarile). 07/02/2019.](https://solidarites-sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination-fievre-jaune)

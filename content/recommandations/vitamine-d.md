@@ -6,7 +6,7 @@ synonyms = ["Cholécalciferol"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-15T00:28:29+02:00
 publishdate = 2020-04-15
-lastmod = 2021-03-12
+lastmod = 2021-05-03
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2019"
 sources = ["HAS", "SFP", "Prescrire"]
@@ -126,9 +126,10 @@ Noter sur l’ordonnance « Évaluation et prise en charge des personnes âgée
 
 et aussi
 
+- Hospitalisation pour exacerbation de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (GOLD 2021)
 - Enfant en allaitement maternel sans supplémentation pendant des mois (SFD)
 - Enfants à peau pigmentée sans supplémentation avec arcature des membres inférieurs (SFD)
-- Bilan initial de maladie rénale chronique (HAS 02/2012)
+- Bilan initial de [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) (HAS 02/2012)
 - Probablement pour tous les épileptiques et diabétiques
 
 En dehors des 6 indications (+ suppléments), préciser sur l’ordonnance la raison.  
@@ -212,6 +213,7 @@ graph TB
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. 2020.](https://goldcopd.org/2021-gold-reports/)
 - [Ameli. Dosage de la vitamine D. 14 Novembre 2019.](https://www.ameli.fr/paris/laboratoire-danalyses-medicales/exercice-liberal/memos/dosage-vitamine)
 - [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d’ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 03/05/2019.](https://www.sciencedirect.com/science/article/abs/pii/S1169833019300821)
 - [Esteban 2014-2016 – Chapitre dosages biologiques des vitamines et minéraux : pas de déficit important ou de carence à grande échelle](https://www.santepubliquefrance.fr/les-actualites/2019/esteban-2014-2016-chapitre-dosages-biologiques-des-vitamines-et-mineraux-pas-de-deficit-important-ou-de-carence-a-grande-echelle)

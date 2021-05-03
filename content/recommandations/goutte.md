@@ -30,8 +30,8 @@ Privilégier l'infiltration en monoarthrite de grosse articulation.
 Allopurinol dès la 1<sup>re</sup> crise avec uricémie cible < 50 mg/L et couverture colchicine 0,5-1 mg/j ≥ 6 mois.
 - Régime  
 Perte poids, arrêt bière, réduire alcool/sodas/jus, viandes/abats, crustacés, laits maigres, substituer diurétique.
-- Contrôle des facteurs de risque cardiovasculaire.
-- Éducation thérapeutique et observance +++.
+- Contrôle des facteurs de risque cardiovasculaire
+- Éducation thérapeutique et observance +++
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
