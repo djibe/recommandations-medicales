@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-30T14:06:29+02:00
 publishdate = 2020-06-30
-lastmod = 2020-11-14
+lastmod = 2021-05-04
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2015"
 sources = ["SFE", "CNPU"]
@@ -20,7 +20,7 @@ todo = "https://pap-pediatrie.fr/endocrinologie/puberte-precoce, Avances puberta
 
 {{%article-summary%}}
 
-- Définition: caractères sexuels secondaires chez fille < 8 ans et garçon < 9,5 ans.
+- Caractères sexuels secondaires chez fille < 8 ans et garçon < 9,5 ans.
 - IRM semi-urgente si troubles visuels ou syndrome polyuro-polydipsique.
 - Tracer les courbes à chaque consultation.
 - Bilan de 1<sup>re</sup> intention: âge osseux et échographie pelvienne (chez la fille).
@@ -52,7 +52,7 @@ Prémature thélarche
 
 ### Calendrier pubertaire
 
-L'âge classique de début des caractères sexuels secondaiers est de 11 +/- 2 ans pour les filles et 12 +/- 2 ans pour les garçons.
+L'âge classique de début des caractères sexuels secondaires est de 11 +/- 2 ans pour les filles et 12 +/- 2 ans pour les garçons.
 
 #### Ordre d'apparition des caractères sexuels secondaires
 
@@ -92,7 +92,7 @@ Sécrétion de stéroïdes sexuels par une gonade autonome.
 - **Tumeurs ovariennes**
 - Kystes folliculaires
 - Syndrome de McCune-Albright
-- Médicaments: **pilule COC, crème avec œstrogènes**
+- Médicaments: **pilule œstroprogestative, crème avec œstrogènes**
 - Testotoxicose et adénomes Leydigiens de l’enfant
 - Tumeurs à hCG (garçon)
 - Tumeurs de la corticosurrénale
@@ -121,7 +121,7 @@ Sécrétion de stéroïdes sexuels par une gonade autonome.
 
 - Poids, taille, IMC
 - **Courbes de croissance**
-- **Examen des caractères sexuels**
+- [**Examen des caractères sexuels**](https://wikimedi.ca/index.php?title=ULaval:MED-1230/Puberté_normale_et_anormale#Pubert.C3.A9_normale)
 - Examen cutané  
 {{%class%}}Tâches café au lait de la neurofibromatose type 1 (syndrome de McCune Albright).{{%/class%}}
 
@@ -144,7 +144,7 @@ Réservé au spécialiste avec **test LHRH**.
 ### IRM hypophysaire
 
 Prescrite par le spécialiste.  
-Étude du volume hypophysaire et recherche syndrome tumoral supra sellaire.
+Étude du volume hypophysaire et recherche syndrome tumoral supra-sellaire.
 
 {{%warning%}}
 Indications à l'IRM en semi-urgence:

@@ -416,7 +416,7 @@ Suivi au moins annuel.
     - Non remboursés pour le SJSR.
     - Vérifier systématiquement la survenue d'un syndrome de dysrégulation dopaminergique: **contrôle des impulsions**.
 2. Antiépileptiques, dits ligands α2ẟ-1  
-Gabapentine et prégabaline.
+Gabapentine et prégabaline (ordonnance sécurisée).
 3. Opiacés  
 Palier 2 ou 3.
 

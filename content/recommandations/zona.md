@@ -181,7 +181,7 @@ Persistance de douleurs neuropathiques d'un dermatome atteint par un zona.
   - Débuter 12,5 ou 25 mg x 1/j
   - Titration jusqu'à la dose minimale efficace
   - Max 150 mg/j
-  - Alternatives: gabapentine, prégabaline.
+  - Alternatives: gabapentine, prégabaline (ordonnance sécurisée renouv. max 5x).
 - Paroxysmes hyperalgiques: carbamazépine ([Tegretol® ou gén](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61547468&typedoc=R))
   - 400-1200 mg/j
 - Morphine
