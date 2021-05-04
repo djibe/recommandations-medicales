@@ -15,7 +15,7 @@ anglais = ["chronic cough"]
 sctid = "68154008"
 draft = false
 flowchart = true
-todo = "spirométrie?, ttt épreuve?, EOGD?, MAJ graph"
+todo = "lire SFORL, spirométrie?, ttt épreuve?, EOGD?, MAJ graph"
 +++
 
 *Cette fiche va être retravaillée avec les recommandations SFORL 2020*.
@@ -182,7 +182,7 @@ Une autre approche consiste à associer les 3 traitements jusqu'à amélioration
 {{% /collapse %}}
 {{%collapse "Conduite à tenir chez l'adulte" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une toux chronique" >}}
+{{< mermaid title="Conduite à tenir devant une toux chronique. Dr JB FRON d'après SFORL 2020" >}}
 graph TB
   toux["Toux > 8 semaines"] --> examen("Anamnèse, examen clinique, RT")
   style toux stroke:#006ef4, stroke-width:1px
@@ -199,7 +199,7 @@ graph TB
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [SFORL. Recommandation pour la pratique clinique - La toux chronique chez l'adulte. Texte court. 06/2020](https://www.sforl.org/wp-content/uploads/2020/02/TOUX-CHRONIQUE-ADULTE-long.pdf)
+- [SFORL. Recommandation pour la pratique clinique - La toux chronique chez l'adulte. Texte court. Juin 2020.](https://www.sforl.org/wp-content/uploads/2020/02/TOUX-CHRONIQUE-ADULTE-long.pdf)
 - [Revue Médicale Suisse. Toux chronique de l’adulte : évaluation et prise en charge.  Rev Med Suisse 2014; volume 10. 2196-2201.](https://www.revmed.ch/RMS/2014/RMS-N-451/Toux-chronique-de-l-adulte-evaluation-et-prise-en-charge)
 
 {{% /collapse %}}

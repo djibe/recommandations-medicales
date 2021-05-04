@@ -315,7 +315,7 @@ Uricosurique alternatif de l'allopurinol et du fébuxostat, le probénécide (Sa
 {{% /collapse %}}
 {{% collapse "Conduite à tenir devant une crise de goutte" "show" %}}
 
-{{< mermaid title="Conduite à tenir thérapeutique devant une crise de goutte. Dr JB FRON d'après SFR oct 2020" >}}
+{{< mermaid title="Conduite à tenir thérapeutique devant une crise de goutte. Dr JB FRON d'après SFR 2020" >}}
 graph TB
   crise[Crise de goutte] --> rhd("Éducation<br>Traitement à avoir sur soi<br>Envisager hypouricémiant")
   style crise stroke:#006ef4, stroke-width:1px
@@ -338,7 +338,7 @@ graph TB
 {{%/collapse%}}
 {{% collapse "Conduite à tenir pour le traitement hypouricémiant" "show" %}}
 
-{{< mermaid title="Conduite à tenir thérapeutique pour le traitement hypouricémiant. Dr JB FRON d'après SFR oct 2020" >}}
+{{< mermaid title="Conduite à tenir thérapeutique pour le traitement hypouricémiant. Dr JB FRON d'après SFR 2020" >}}
 graph TB
   diagnostic[Diagnostic de goutte] --> education(Éducation<br>Traitement sur soi<br>RHD)
   style diagnostic stroke:#006ef4, stroke-width:1px

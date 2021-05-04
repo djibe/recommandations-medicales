@@ -14,6 +14,8 @@ tags = ["ALD"]
 anglais = ["Chronic disease"]
 sctid = "27624003"
 draft = false
+image = false
+imageSrc = "Illustration par pch.vector - www.freepik.com"
 todo= "TODO: summary, Affections psychiatriques de longue durée"
 +++
 

@@ -15,7 +15,7 @@ anglais = ["Splenomegaly"]
 sctid = "16294009"
 draft = true
 flowchart = true
-todo = "TODO: more sources and publish"
+todo = "TODO: more sources and publish, source on flowchart"
 +++
 
 {{%article-summary%}}

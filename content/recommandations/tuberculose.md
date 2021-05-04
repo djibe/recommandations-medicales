@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-03T15:14:20+02:00
 publishdate = 2020-06-03
-lastmod = 2020-12-01
+lastmod = 2021-05-04
 specialites = ["infectiologie", "pneumologie"]
 annees = "2000"
 sources = ["HAS"]
@@ -14,14 +14,15 @@ tags = ["BCG", "tuberculose", "vaccin"]
 anglais = ["Tuberculosis"]
 sctid = "56717001"
 draft = false
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Jeune femme de 20 ans avec toux chronique et perte de poids. Cas clinique par Dr Hani Makky Al Salam, Radiopaedia.org, rID: 12437"
+todo = "https://erj.ersjournals.com/content/51/5/1702678"
 +++
 
 {{%article-summary%}}
 
-- Indications vaccinales ++
-- Maladie à déclaration obligatoire
+- Indications au BCG +++
+- [Maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Vaccination" %}}
@@ -35,12 +36,12 @@ Pour les enfants à risque élevé de tuberculose :
 - Enfant devant séjourner au moins un mois d’affilée dans l’un de ces pays
 - Enfant ayant un antécédent familial de tuberculose (collatéraux ou ascendants directs)
 - Enfant résidant en Île-de-France, en Guyane ou à Mayotte
-- Enfant dans toute situation jugée par le médecin à risque d’exposition au bacille tuberculeux, notamment enfant vivant dans des conditions de logement défavorables (habitat précaire ou surpeuplé) ou socioéconomiques défavorables (en particulier parmi les bénéficiaires de la CMU/CSS) ou en contact régulier avec des adultes originaires d’un pays de forte endémie.
+- Enfant dans toute situation jugée par le médecin à risque d’exposition au bacille tuberculeux, notamment enfant vivant dans des conditions de logement défavorables (habitat précaire ou surpeuplé) ou socio-économiques défavorables (en particulier parmi les bénéficiaires de la CMU/CSS) ou en contact régulier avec des adultes originaires d’un pays de forte endémie.
 
-- Vaccination réalisée à partir de 1 mois, idéalement à 2 mois.
-- Pas d'intradermoréaction préalable avant 6 ans.
+Vaccination réalisée à partir de 1 mois, idéalement à **2 mois**.  
+Pas d'intradermoréaction préalable avant 6 ans.
 
-Pour les professionnels de santé : évaluation de l'exposition au cas par cas par le médecin du travail.
+Pour les professionnels de santé: évaluation de l'exposition au cas par cas par le médecin du travail.
 
 ### Pays de forte endémie tuberculeuse
 
@@ -67,10 +68,13 @@ Pour les professionnels de santé : évaluation de l'exposition au cas par cas p
 | 18 mois | X          |     | X     |     |     |      |
 {{< /table >}}
 
-*Légende. BH (ASAT, ALAT), Bio (NFS-plaq, créatininémie), Opht (Examen ophtalmologique).*
+> **Légende**  
+  BH (ASAT, ALAT)  
+  Bio (NFS-plaq, créatininémie)  
+  Opht (Examen ophtalmologique)
 
 {{%/collapse%}}
-{{%collapse "Cas contacts de tuberculose" %}}
+{{%collapse "Cas contact de tuberculose" %}}
 
 Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre de Lutte AntiTuberculeuse* (CLAT) départemental.
 

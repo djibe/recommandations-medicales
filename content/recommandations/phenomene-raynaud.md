@@ -8,7 +8,7 @@ date = 2021-05-04T10:57:00+02:00
 publishdate = 2021-05-04
 lastmod = 2021-05-04
 specialites = ["medecine interne"]
-annees = "2013"
+annees = "2018"
 sources = ["CEDEF"]
 tags = []
 anglais = []
@@ -16,12 +16,17 @@ sctid = ""
 draft = false
 image = false
 imageSrc = ""
-todo = "TSH"
+todo = "lire reco 2013, TSH ?"
 +++
 
 {{%article-summary%}}
 
-- Dépister les sujets à risque de maladie systémique par triade clinico-bio-capillaroscopique.
+- 10% sont secondaires à une maladie de système
+- Forme idiopathique = maladie de Raynaud
+- Interrogatoire et examen +++
+- Bilan systématique
+- Avis de l'interniste au moindre doute
+- Mesures d'hygiène pour tous voire nifédipine LP
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -65,13 +70,13 @@ Diagnostic d'interrogatoire: acrosyndrome constitué d'épisodes paroxystiques d
 ### Interrogatoire
 
 - Antécédents personnels  
-[Canal carpien]({{< relref "canal-carpien.md" >}}), syndrome du défilé thoracique.
+[Canal carpien]({{< relref "canal-carpien.md" >}}), syndrome du défilé thoracique, thromboses.
 - Antécédents familiaux  
 Raynaud, autres.
 - Traitements  
-Bêtabloquants et estrogènes, nicotine, dérivés ergot, cytotoxiques, triptans, interférons, clonidine.
+Bêtabloquants (dont oculaire) et œstrogènes, nicotine, dérivés ergot, cytotoxiques, triptans, interférons, clonidine.
 - Toxiques  
-Tabac, cocaïne.
+Tabac, cannabis, cocaïne.
 - Profession et activités  
 Exposition aux vibrations, mouvements répétitifs, karaté, handball.
 - Symptômes
@@ -83,7 +88,7 @@ Exposition aux vibrations, mouvements répétitifs, karaté, handball.
   - Respect des pouces, rémission estivale, phase bleue d'emblée
 - Crises stéréotypées du phénomène de Raynaud primitif (PR)
   - Facteur déclenchant: froid, humidité, stress
-  - Phase syncopale blanche constante: Désagréable ± douloureuse avec hypoesthésie
+  - **Phase syncopale blanche** constante: Désagréable ± douloureuse avec hypoesthésie
   - Phase cyanique bleue inconstante
   - Phase hyperhémique rouge
   - Rythme des crises, durée (15-20 min en primitif), aspect, contexte de survenue, périodes de rémission estivale
@@ -91,11 +96,19 @@ Exposition aux vibrations, mouvements répétitifs, karaté, handball.
 
 ### Examen clinique
 
-Recherche 4 causes:
+Recherche une cause secondaire au phénomène de Raynaud:
 
-1. Sclérodermie et Buerger
-    - Sclérodactylie, calcinose des doigts, cicatrice rétractile d'ulcère pulpaire, télangiectasies des doigts/visage (CREST).
-    - Pouls radiaux, pression artérielle aux 2 bras, test d'Allen (clampage séquentiel des artères de la main), auscultation pulmonaire (crépitants) et palpation thyroïdienne.
+1. Sclérodermie
+    - Phénomène de Raynaud quasi constant, précoce et bilatéral sans phase hyperhémique rouge
+    - Doigts boudinés, sclérodactylie, calcinose des doigts, cicatrice rétractile d'ulcère pulpaire, télangiectasies des doigts/visage (CREST).
+    - Pouls radiaux, pression artérielle aux 2 bras, manœuvre d'Allen (clampage séquentiel des artères de la main), auscultation pulmonaire (crépitants) et palpation thyroïdienne.
+1. Maladie de Buerger (thromboangéiteoblitérante)
+    - Artériopathie distale non athéromateuse
+    - Jeune < 45 ans fumeur tabac/cannabis
+    - Abolition des pouls, TVS/TVP, ischémies hyperalgiques de l'hallux
+1. Syndrome de Gougerot-Sjögren
+1. Lupus
+1. [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}})
 1. Cryoglobulinémie  
 Ischémie digitale, purpura, neuropathie périphérique, atteinte rénale.
 1. Canal carpien ou pathologie cervico-thoracique  
@@ -157,7 +170,14 @@ Bilan systématique
 - NFS, VS, CRP
 - Électrophorèse des protéines sériques
 - Anticorps anti-nucléaires
+- Anticorps anti-Scl70
+- Anticorps anti-centromères
 - Facteur rhumatoïde
+
+---
+
+Capillaroscopie  
+Par l'angiologue: recherche une micro-angiopathie spécifique débutante de sclérodermie.
 
 {{%/info%}}
 
@@ -165,20 +185,17 @@ Bilan systématique
 
 - Radiographie des mains, pieds et thorax
 - Anticorps anticorps anti-RiboNucléoProtéine
-- Anticorps anti-Scl70
-- Anticorps anti-centromères
 - Anticorps anti-cardiolipine
 - Cryoglobuline
 - Echodoppler des artères des membres supérieurs
-- Capillaroscopie  
-Par l'angiologue: recherche une micro-angiopathie spécifique débutante de sclérodermie.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
 - Mesures d'hygiène pour limiter les crises
   - Arrêt du tabac
-  - Arrêt des médicaments vasoconstricteurs
+  - Arrêt des médicaments vasoconstricteurs  
+  Déclaration en pharmacovigilance.
   - Lutte contre le froid et l'humidité  
   Moufles et chaufferettes, chaussettes, vêtements chauds.
   - Éviter les facteurs déclenchants

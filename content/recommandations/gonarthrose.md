@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-15T19:21:00+02:00
 publishdate = 2021-01-17
-lastmod = 2021-01-25
+lastmod = 2021-05-04
 specialites = ["rhumatologie"]
 annees = "2020"
-sources = ["SFRhumato"]
+sources = ["COFER", "SFRhumato"]
 tags = ["arthrose"]
 anglais = ["Osteoarthritis of knee, gonarthrosis"]
 sctid = "239873007"
@@ -186,7 +186,7 @@ Pour le diagnostic positif et différentiel.
 
 - Arrêt des traitements inefficaces et/ou mal tolérés.
 - Contrôle des contre-indications et interactions médicamenteuses.
-- Paracétamol: 1 g x 3/j
+- Paracétamol 1 g x 3/j
   - "Son profil d'efficacité/tolérance n'incite pas à le prescrire comme un traitement de fond antalgique au long cours"
   - Pas d'efficacité au delà de 3 g/j  
   - Voire cotraitement avec opioïdes faibles (association significative de surmortalité observée avec le tramadol)
@@ -272,9 +272,30 @@ Limiter vélo, ski.
 - Chirurgie en cas d'échec du traitement conservateur
 
 {{% /collapse %}}
+{{%collapse "FMC" %}}
+
+### Sémiologie du genou par Le COFER
+
+{{< video mp4="http://www.videos.lecofer.org/semiologie/genou/01ReperesAnat.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/01ReperesAnat.webm" description="Le COFER. Genou: Repères anatomiques" >}}
+
+{{< video mp4="http://www.videos.lecofer.org/semiologie/genou/02ChocRotulien.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/02ChocRotulien.webm" description="Le COFER. Genou: Recherche choc rotulien" >}}
+
+{{< video mp4="http://www.videos.lecofer.org/semiologie/genou/03FlexionGenou.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/03FlexionGenou.webm" description="Le COFER. Genou: Flexion passive" >}}
+
+{{< video mp4="http://www.videos.lecofer.org/semiologie/genou/04RotationGenou.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/04RotationGenou.webm" description="Le COFER. Genou: Rotations passives" >}}
+
+{{< video mp4="http://www.videos.lecofer.org/semiologie/genou/05LigtsGenou.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/05LigtsGenou.webm" description="Le COFER. Genou: Evaluation ligamentaire" >}}
+
+{{< video mp4="http://www.videos.lecofer.org/semiologie/genou/05LigtsGenou.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/05LigtsGenou.webm" description="Le COFER. Genou: Evaluation ligamentaire" >}}
+
+{{< video mp4="http://www.videos.lecofer.org/semiologie/genou/06ExamRotule.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/06ExamRotule.webm" description="Le COFER. Genou: Examen rotule" >}}
+
+{{< video mp4="http://www.videos.lecofer.org/semiologie/genou/07PctionArtic.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/07PctionArtic.webm" description="Le COFER. Genou: Ponction articulaire" >}}
+
+{{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Sellam J et al. Recommandations de la Société Française de Rhumatologie sur la prise en charge pharmacologique de la gonarthrose. Revue du Rhumatisme (2020).](https://doi.org/10.1016/j.rhum.2020.07.013)
-- Le Cofer. Arthrose. Item 129 UE 6.
+- [Sellam J et al. Recommandations de la Société Française de Rhumatologie sur la prise en charge pharmacologique de la gonarthrose. Revue du Rhumatisme. 2020.](https://doi.org/10.1016/j.rhum.2020.07.013)
+- [COFER. Arthrose. Item 129 UE 6.](http://www.lecofer.org/item-cours-1-8-0.php)
 
 {{% /collapse %}}

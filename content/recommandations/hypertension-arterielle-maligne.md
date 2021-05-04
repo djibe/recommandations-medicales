@@ -22,7 +22,7 @@ todo = ""
 {{%article-summary%}}
 
 - Interrogatoire et examen neurologique complet
-- Appel du 15 en cas d'hypertension grade 3 (PAS ≥ 180 ou PAD ≥ 110) avec suspicion de souffrance viscérale
+- Appel du 15 en cas d'hypertension grade 3 (PAS ≥ 180 mmHg ou PAD ≥ 110 mmHg) avec suspicion de souffrance viscérale
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -77,29 +77,26 @@ Autres urgences hypertensives: AVC, dissection aortique, infarctus du myocarde, 
 
 ### Pour en savoir plus: étiologie de l'HTA maligne
 
-Principalement essentielle.  
+Principalement essentielle (20-30% chez blancs et 80% chez noirs).  
 1<sup>re</sup> cause organique est rénale (glomérulonéphrite, néphropathie sur reflux, sténose de l'artère rénale). Plus rarement toxique (amphétamines, ecstasy) ou endocrinienne (phéochromocytome).
 
-- Hypertension artérielle essentielle  
-Cause essentielle de 20-30% chez blancs et 80% chez noirs.
+#### Autres causes
+
 - Néphropathie parenchymateuse
-  - Glomérulonéphrite
   - Néphropathie interstitielle
   - Maladie de système avec atteinte rénale  
   Sclérodermie, [diabète]({{< relref "diabete-type-2.md" >}}), micro-angiopathie, lupus, vascularite.
   - Aplasie rénale
 - Rénovasculaire
   - Athérome
-  - Sténose de l'artère rénale
   - Maladie de Takayashu
   - Occlusion artérielle aiguë
   - Péri-artérite noueuse
 - Endocrinienne
-  - Phéochromocytome
   - Syndrome de Conn
   - Syndrome de Cushing
 - Médicamenteuse et toxique
-  - Cocaïne, amphétamines, ecstasy
+  - Cocaïne
   - Arrêt de la prise de clonidine
   - Interaction avec les IMAO
   - EPO

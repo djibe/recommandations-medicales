@@ -8,7 +8,7 @@ date = 2020-10-02T17:43:41+02:00
 publishdate = 2020-10-02
 lastmod = 2021-01-03
 specialites = ["dermatologie"]
-annees = "2018"
+annees = "2017"
 sources = ["CEDEF"]
 tags = ["prurit"]
 anglais = ["Itching"]
@@ -170,7 +170,7 @@ Substitution d'un traitement suspect.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant un prurit" >}}
+{{< mermaid title="Conduite à tenir devant un prurit. Dr JB FRON d'après CEDEF 2017" >}}
 graph TB
   prurit["Prurit"] --> examen("Interrogatoire<br>Clinique")
   style prurit stroke:#006ef4, stroke-width:1px
@@ -184,7 +184,7 @@ graph TB
 {{%collapse "Sources" %}}
 
 - [Prescrire Rédaction. Prurit lié à une affection cutanée et antihistaminiques H1 oraux. Février 2019.](https://prescrire.org/)
-- [CEDEF. Item 113 - UE 4. Prurit. Ann Dermatol Venereol. 2018](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2481.pdf)
+- [CEDEF. Prurit. Item 113. UE 4. 2017.](https://undf.cedef.org/fr/document/Prurit_r%C3%A9f%C3%A9rentiel-CEDEF)
 - [Dermato-info. Le prurit et le prurigo.](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-prurit-et-le-prurigo)
 
 {{% /collapse %}}

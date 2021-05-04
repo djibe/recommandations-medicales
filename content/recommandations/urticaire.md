@@ -371,7 +371,7 @@ Népressol, réserpine, hydralazine, trasipressol.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une urticaire aiguë. Dr JB FRON d'après CEILF" >}}
+{{< mermaid title="Conduite à tenir devant une urticaire aiguë. Dr JB FRON d'après CEILF 2011" >}}
 graph TB
   UA[Urticaire aiguë] --> gravite("<b>Signes de gravité ?</b><br>- Dysphonie<br>- Hypersalivation<br>- Troubles de la déglutition")
   style UA stroke:#006ef4, stroke-width:1px

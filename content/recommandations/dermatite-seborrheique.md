@@ -8,7 +8,7 @@ date = 2020-09-01T22:39:41+02:00
 publishdate = 2020-09-01
 lastmod = 2021-04-21
 specialites = ["dermatologie"]
-annees = "2011"
+annees = "2017"
 sources = ["CEDEF"]
 tags = ["VIH"]
 anglais = ["Seborrheic dermatitis"]
@@ -156,7 +156,7 @@ Kétoconazole topique
 {{% /collapse %}}
 {{% collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une dermatite séborrhéique" >}}
+{{< mermaid title="Conduite à tenir devant une dermatite séborrhéique. Dr JB FRON d'après CEDEF 2017" >}}
 graph TB
   suspicion[Suspicion de dermatite séborrhéique] --> diagnostic(Diagnostic clinique<br>de DS)
   style suspicion stroke:#006ef4, stroke-width:1px
@@ -179,8 +179,8 @@ Il doit donc être répété lors des poussées.
 Des effets secondaires peuvent survenir à la suite d'un traitement excessif.
 
 {{% /collapse %}}
-{{% collapse "Sources" %}}
+{{% collapse "Source" %}}
 
-- Collège National des Enseignants de Dermatologie (CEDEF). Item 232 Dermatoses faciales: Dermatite séborrhéique. 2010-2011.
+[CEDEF. Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
 
 {{% /collapse %}}

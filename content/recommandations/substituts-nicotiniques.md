@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-17T14:11:29+02:00
 publishdate = 2020-06-17
-lastmod = 2020-11-04
+lastmod = 2021-05-04
 specialites = ["addictologie"]
 annees = "2020"
 sources = ["Ameli"]
@@ -16,8 +16,8 @@ sctid = "776904000"
 qualite = "bonne"
 draft = false
 image = true
-imageSrc = "Photo par Free Grunge Textures - www.freestock.ca sur Foter.com / CC BY"
-todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests_fagerstrom.pdf"
+imageSrc = "Illustration de freepik - www.freepik.com"
+todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests_fagerstrom.pdf, https://ers.app.box.com/v/ERSTCCHarmReductionPosition"
 +++
 
 ## {{< class "typography-headline-5" >}}Sevrage tabagique - les substituts nicotiniques remboursés{{</class>}}

@@ -148,57 +148,6 @@ Le suivi est initié par l'ARS sans intervention du médecin.
 - [Covidom. Suivi des personnes infectées](https://inscription.covidom.fr/1)
 
 {{%/collapse%}}
-{{%collapse "Autres Outils" %}}
-
-### Ile-de-France
-
-Obtenir un test RT-PCR dans les 24h pour symptômatiques ou cas contacts:  
-**0800 08 02 25**  
-{{%class%}}(7j/7 9h-20h. Uniquement sur appel du médecin){{%/class%}}
-
-{{%/collapse%}}
-{{%collapse "Conduite à tenir Adulte" "show"%}}
-
-{{%warning%}}Pas à jour !{{%/warning%}}
-
-{{< mermaid >}}
-graph TB
-  adulte[Adulte et Enfant > 6 ans<br>sans fragilité] --> contact(Cas Contact<br>Isolement 7J<br>À compter du contact<br>Arrêt sur declare.ameli.fr) --> testJ7("Test à J7<br>(Immédiat si je vis avec)<br>Isolement jusqu'aux résultats") --Test+--> isolementContact(Isolement 7J sup.<br>À compter du test) --> retour
-  style adulte stroke:#006ef4, stroke-width:1px
-  testJ7 --Test- --> retour
-  adulte --> symptomatique(Symptomatique<br>= Cas possible<br>Isolement durant analyse) --Test+--> isolementSymptomatique(Isolement 7J<br>À compter du J1 des symptômes) -.-> fievrePersistante(Fièvre persistante à J7) --> isolementFievre(Isolement +48h) --> retour(Travail<br>ou École)
-  isolementSymptomatique --> retour
-  adulte --> asymptomatique(Asymptomatique<br>testé positif) --> isolementAsympt(Isolement 7J<br>À compter du jour du test) -.-> devSympt(Apparition de symptômes) --> isolementSymptomatique
-  symptomatique --Test- --> retour
-{{< /mermaid >}}
-
-À la reprise:
-
-- Port rigoureux du masque (chirurgical si test +)
-- Suivi scrupuleux des mesures d’hygiène de la distanciation physique pendant la semaine qui suit la levée de l’isolement
-- Éviter tout contact avec des personnes à risque de forme grave.
-
-> DGS Urgent. 2020-INF-46.
-
-{{%/collapse%}}
-{{%collapse "Conduite à tenir Enfant" "show"%}}
-
-{{< mermaid >}}
-graph TB
-  enfant["Enfant &lt; 6 ans<br>sans fragilité"] -- "Suspicion si &ge; 1 parmi" --> symptomes("Fièvre > 38&deg;C, irritabilité inhabituelle, tachycardie, marbrures<br>Toux fébrile, polypnée, gène respiratoire<br>Diarrhées") -- "Signes de gravité ?" --> gravite
-  style enfant stroke:#006ef4, stroke-width:1px
-{{< /mermaid >}}
-
-> [SFP. COVID19 et écoles - Propositions de la Société Française de Pédiatrie. 09/09/2020](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/Recommandations_09092020.pdf)
-
-Chez l'enfant:
-
-- Port du masque systématique en milieu scolaire après 11 ans (HCSP 17.09)
-- Ne pas considérer comme contact un adulte encadrant équipé d'un masque AFNOR/médical au contact d'un enfant < 11 ans Covid+ (HCSP 17.09)
-
-> "Le risque de transmission existe principalement d’adulte à adulte et d’adulte à enfant et rarement d’enfant à enfant ou d’enfant à adulte. HCSP 17/09/2020
-
-{{% /collapse %}}
 {{%collapse "Sources" %}}
 
 ### Haut Conseil de la Santé Publique

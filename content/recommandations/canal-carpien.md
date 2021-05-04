@@ -190,7 +190,7 @@ Les fils sont retirés au bout de 15 jours à 3 semaines après l’intervention
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show"%}}
 
-{{< mermaid title="Conduite à tenir devant un syndrome du canal carpien" >}}
+{{< mermaid title="Conduite à tenir devant un syndrome du canal carpien. Dr JB FRON d'après HAS 2013" >}}
 graph TD
 diagnostic["Diagnostic clinique<br>de canal carpien"] --> gravite{Signes de gravité ?}
 style diagnostic stroke:#006ef4, stroke-width:1px
@@ -208,7 +208,7 @@ diagnostic --"Diagnostic différentiel"--> differentiel("- Atteintes radiculaire
 {{%collapse "Sources" %}}
 
 - [Santé Publique France. Syndrome du canal carpien. 18/08/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-liees-au-travail/troubles-musculo-squelettiques/donnees/syndrome-du-canal-carpien)
-- [La Revue Prescrire. Syndrome du canal carpien: parfois d’origine médicamenteuse. Avril 2019.](https://prescrire.org/)
+- [Prescrire Redaction. Syndrome du canal carpien: parfois d’origine médicamenteuse. Avril 2019.](https://prescrire.org/)
 - [HAS. Syndrome du canal carpien - Optimiser la pertinence du parcours patient. Février 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-03/syndrome_du_canal_carpien_optimiser_la_pertinence_du_parcours_patient.pdf)
 
 {{% /collapse %}}

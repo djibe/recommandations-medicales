@@ -107,7 +107,7 @@ Indication: angine chez les +3 ans avec TDR positif.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une angine" >}}
+{{< mermaid title="Conduite à tenir devant une angine. Dr JB FRON d'après SPILF/HAS 2016" >}}
 graph TB
   angine[Angine] --> moins3("&lt; 3 ans") --> viral(Viral)
   style angine stroke:#006ef4, stroke-width:1px

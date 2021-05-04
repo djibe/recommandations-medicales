@@ -8,7 +8,7 @@ date = 2020-07-27T21:48:41+02:00
 publishdate = 2020-07-27
 lastmod = 2020-08-14
 specialites = ["dermatologie"]
-annees = "2015"
+annees = "2017"
 sources = ["ANSM", "HAS", "Prescrire", "SFDermato"]
 tags = ["acne", "contraception", "retinoide"]
 anglais = ["Acne"]
@@ -17,7 +17,7 @@ draft = false
 image = true
 imageSrc = "Photo de profeticsbeta sur Foter.com / CC BY-NC-SA"
 flowchart = true
-todo= "TODO: arbre, https://ansm.sante.fr/S-informer/Actualite/Traitement-contre-l-acne-severe-avec-isotretinoine-orale-l-ANSM-informe-d-un-risque-potentiel-de-troubles-neuro-developpementaux-en-cas-d-exposition-pendant-la-grossesse"
+todo= "TODO: flowchart, CEDEF, https://ansm.sante.fr/S-informer/Actualite/Traitement-contre-l-acne-severe-avec-isotretinoine-orale-l-ANSM-informe-d-un-risque-potentiel-de-troubles-neuro-developpementaux-en-cas-d-exposition-pendant-la-grossesse"
 +++
 
 {{%article-summary%}}
@@ -120,7 +120,7 @@ Pour les mesures d'hygiène, voir la section *Traitements*.
 **Adapalène 0,1%** ou **trétinoïne 0,025%** en 1 seule application par jour.  
 Effets indésirables: l'irritation locale peut être prévenue ou limitée par l'espacement des applications en début de traitement et l'utilisation quotidienne d'émollients.
 
-{{% info %}}
+{{%info%}}
 Exemple de prescription
 
 [Adapalène 0,1% crème](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67245747&typedoc=R) (ou gel) (Differine® ou gén).  
@@ -136,7 +136,7 @@ Puis entretien par 2 à 3 applications par semaine.
 Diminuer à 1 application tous les 2 jours si irritation. Efficacité visible à 6 semaines.
 EI: tératogènes, photosensibilité, irritants.
 
-{{% /info %}}
+{{%/info%}}
 
 #### Microchirurgie
 
@@ -173,7 +173,7 @@ Autre traitement possible mais de faible efficacité: acide azélaïque gel 15% 
 {{% /collapse %}}
 {{% collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Choix du traitement devant une acné">}}
+{{< mermaid title="Choix du traitement devant une acné. Dr JB FRON d'après SFDermato 2015">}}
 graph TB
   suspicion["Suspicion d'acné"] --> diagnostic("Diagnostic clinique<br>d'acné")
   style suspicion stroke:#006ef4, stroke-width:1px
@@ -200,18 +200,21 @@ Selon la SFDermato, informer le patient:
 {{%/collapse%}}
 {{%collapse "Outils en ligne" %}}
 
-- [SFDermato. Recommandations Acné](https://reco.sfdermato.org/fr/recommandations-acn%C3%A9)
-- [Prescrisur. Acné](https://www.prescrisur.fr/#/)
-- [Dermatoclic. Acné](https://www.dermatoclic.com/acne)
+{{< card-link title="Recommandations Acné" url="https://reco.sfdermato.org/fr/recommandations-acn%C3%A9" subtitle="SFDermato">}}
+
+{{< card-link title="Acné" url="https://www.prescrisur.fr/" subtitle="Prescrisur">}}
+
+{{< card-link title="Acné" url="https://www.dermatoclic.com/acne" subtitle="Dermatoclic">}}
 
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
 - [ANSM. Traitement contre l’acné : règles de bon usage de l’isotrétinoïne pour limiter les risques - Point d'Information. 21/10/2020.](https://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Traitement-contre-l-acne-regles-de-bon-usage-de-l-isotretinoine-pour-limiter-les-risques-Point-d-Information)
-- La Revue Prescrire. Patients ayant une acné. Mars 2017.
-- La Revue Prescrire. Premiers choix Prescrire. Acné. Octobre 2016.
-- [Société Française de Dermatologie (label HAS). Prise en charge de l’acné. 10 juin 2015](https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)
-- [ANSM. Mai 2015. Restriction de la prescription initiale de l’isotrétinoïne orale aux dermatologues – Lettre aux professionnels de santé](https://www.ansm.sante.fr/content/download/76973/976491/version/1/file/DHCP_Isotretinoine-medecins_13-05-2015.pdf)
+- [CEDEF. Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
+- Prescrire Redaction. Patients ayant une acné. Mars 2017.
+- Prescrire Redaction. Premiers choix Prescrire. Acné. Octobre 2016.
+- [Société Française de Dermatologie. Prise en charge de l’acné. Label HAS. 10 juin 2015.](https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)
+- [ANSM. Mai 2015. Restriction de la prescription initiale de l’isotrétinoïne orale aux dermatologues – Lettre aux professionnels de santé.](https://www.ansm.sante.fr/content/download/76973/976491/version/1/file/DHCP_Isotretinoine-medecins_13-05-2015.pdf)
 
 {{% /collapse %}}
 {{%collapse "Photos" %}}

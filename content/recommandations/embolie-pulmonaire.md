@@ -18,7 +18,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "Embolie segmentaire par scientificanimations.com, CC BY-SA 4.0"
-todo = "p.21, flowchart duree, def cancer actif, carnet AVK"
+todo = "p.21, flowchart duree, def cancer actif, carnet AVK, https://erj.ersjournals.com/content/54/3/1901647"
 +++
 
 En voie de finalisation. La durée de traitement est manquante.

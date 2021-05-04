@@ -261,7 +261,7 @@ Favorisée par l'obésité et une hernie hiatale.
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
-- [Prescrire. Reflux gastro-œsophagien chez un adulte - L’essentiel sur les soins de premier choix. Juin 2020.](https://www.prescrire.org/)
+- [Prescrire Redaction. Reflux gastro-œsophagien chez un adulte - L’essentiel sur les soins de premier choix. Juin 2020.](https://www.prescrire.org/)
 - [Zerbib F. Diagnostic actuel du RGO : Consensus de Lyon (GUT 2018). POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-actuel-du-rgo-consensus-de-lyon-gut-2018/)
 - [SNFGE. Traitement du RGO.](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
 - [SNFGE. Reflux gastro-œsophagien (RGO)](https://www.snfge.org/content/reflux-gastro-oesophagien-rgo)

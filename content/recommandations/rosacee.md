@@ -8,7 +8,7 @@ date = 2020-10-20T20:11:41+02:00
 publishdate = 2020-10-20
 lastmod = 2021-02-24
 specialites = ["dermatologie"]
-annees = "2011"
+annees = "2017"
 sources = ["CEDEF"]
 tags = ["rosacee", "flush", "metronidazole", "doxycycline"]
 anglais = ["Rosacea"]
@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Photo de The Thinking Doll sur Foter.com / CC BY-NC"
-todo = "image"
+todo = "CEDEF"
 +++
 
 {{%article-summary%}}
@@ -25,7 +25,7 @@ todo = "image"
 - Le diagnostic est clinique: visage rouge de l'adulte avec bouffées vasomotrices
 - Le traitement est suspensif avec rechutes à l'arrêt (chronicité +++)
 - Atteinte oculaire possible
-- Métronidazole gel 0,75% (Rozex®, gén) x 2/j pendant 3 mois en première intention
+- Métronidazole gel 0,75% x 2/j pendant 3 mois en première intention
 - Contre-indication aux dermocorticoïdes
 
 {{%/article-summary%}}
@@ -156,9 +156,9 @@ Ne pas s'allonger dans l'heure qui suit.
 
 #### 2. Traitement d'entretien
 
-{{% info %}}Métronidazole gel 0,75% (Rozex®, gén) 1 à 2/j{{% /info %}}
+{{%info%}}Métronidazole gel 0,75% (Rozex®, gén) 1 à 2/j{{%/info%}}
 
-{{% warning %}}Adresser au dermatologue en cas de résistance aux traitements de première intention.{{% /warning %}}
+{{%warning%}}Adresser au dermatologue en cas de résistance aux traitements de première intention.{{%/warning%}}
 
 ### Rhinophyma
 
@@ -178,7 +178,7 @@ Lavage quotidien, expression du contenu des glandes de Mebomius, gels palpébrau
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une rosacée" >}}
+{{< mermaid title="Conduite à tenir devant une rosacée. Dr JB FRON d'après CEDEF 2017" >}}
 graph TB
   rosacee["Rosacée"] --"Forme mineure"--> mineure("Métronidazole gel 0,75%<br>2/j pendant 3 mois")
   style rosacee stroke:#006ef4, stroke-width:1px
@@ -202,9 +202,9 @@ L'évolution fluctue. 4 personnes sur 10 guérissent spontanément après plusie
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [CEDEF. Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
 - [T. Jansen. Formes cliniques et classification de la rosacée. Annales de Dermatologie et de Vénéréologie. Volume 138, Supplement 2,2011.](https://doi.org/10.1016/S0151-9638(11)70079-5)
 - [Collège National des Enseignants de Dermatologie. Dermatoses faciales : Rosacée. Item 232. 2011.](http://campus.cerimes.fr/dermatologie/enseignement/dermato_34/site/html/cours.pdf)
-- La Revue Prescrire
 
 {{% /collapse %}}
 {{%collapse "Photos" %}}

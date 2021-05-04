@@ -16,7 +16,7 @@ sctid = "230690007"
 draft = false
 image = true
 imageSrc = "Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
-todo = "carnet automesure, rééduc, fiche standardisée du recueil événements à imprimer, bilan étiologique"
+todo = "carnet automesure, rééduc, fiche standardisée du recueil événements à imprimer, bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104"
 +++
 
 {{%article-summary%}}

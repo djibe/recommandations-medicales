@@ -14,7 +14,9 @@ tags = ["IVG"]
 anglais = ["legally induced abortion"]
 sctid = "76102007"
 draft = false
-todo = "liste centres, arbre décisionnel"
+image = false
+imageSrc = "Illustration médicale par stories - www.freepik.com"
+todo = "arbre décisionnel, modif extension 9 SA"
 +++
 
 {{%article-summary%}}

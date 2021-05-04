@@ -119,7 +119,7 @@ Normale, discordante avec la sévérité des symptômes.
 Tachycardie, galop, turgescence jugulaire, reflux hépato-jugulaire, hépatomégalie, œdèmes des membres inférieurs, ascite.
 - Signes d'hypertension portale
 - Signes de sclérodermie  
-Syndrome de Raynaud, sclérodactylie, télangiectasies, calcifications sous-cutanées, ulcérations digitales, dysphagie, dyspepsie ...
+[Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), sclérodactylie, télangiectasies, calcifications sous-cutanées, ulcérations digitales, dysphagie, dyspepsie ...
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

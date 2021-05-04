@@ -6,6 +6,11 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/327af24a-1868-47c1-959c-7c0afe3b1891/deploy-status)](https://app.netlify.com/sites/recommandations-medicales/deploys)
 
+### Pourquoi ce projet ?
+
+Les enjeux de Santé publique (hypertension artérielle, diabète, BPCO, ostéoporose) sont d'une complexité croissante, hors de portée de simples fiches et de nos petits cerveaux. La preuve ? Rien ne change dans nos pratiques et aucun outil n'a su engager les médecins généralistes.  
+Nous avons besoin d'outils faciles accessibles facilement. C'est pourquoi *Recommandations Médicales* est construit.
+
 ### Les points forts du projet
 
 - Open Source

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-23T22:24:41+02:00
 publishdate = 2020-10-23
-lastmod = 2021-04-25
+lastmod = 2021-05-04
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "EULAR", "ACR"]
@@ -35,7 +35,7 @@ Polyarthrite rhumatoïde
 : Maladie chronique évoluant par poussées inflammatoires de la membrane synoviale.  
 Premier rhumatisme inflammatoire de l’adulte (prévalence de 0,3 à 1%).  
 La destruction articulaire entraîne altération de la qualité de vie, handicap et réduction de l’espérance de vie (~10 ans)
-: Intérêt des diagnostic et traitement précoces.
+: Intérêt d'un diagnostic et d'un traitement précoce.
 
 Scores d'activité de la polyarthrite rhumatoïde
 : {{%lang%}}DAS28 (Disease Activity Score 28){{%/lang%}}
@@ -79,7 +79,7 @@ L’examen clinique a une place primordiale dans la détection et le traitement 
 - Douleur à la pression transverse des mains ou avant-pieds (métacarpophalangiennes/métatarsophalangiennes = **squeeze-test**)
 - Nodules rhumatoïdes
 - Syndrome sec
-- Syndrome de Raynaud
+- [Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}})
 - Syndrome rachidien
 - Douleurs des enthèses
 - Uvéite

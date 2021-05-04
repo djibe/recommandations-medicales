@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-03T13:12:00+02:00
 publishdate = 2021-04-05
-lastmod = 2021-04-09
+lastmod = 2021-05-04
 specialites = ["gynecologie-obstetrique"]
 annees = "2017"
 sources = ["CNGOF", "HAS"]
@@ -186,7 +186,11 @@ Accompagnement par une équipe d'[Assistance Médicale à la Procréation](https
 {{% /collapse %}}
 {{%collapse "FMC" %}}
 
-[Endométriose - L'affaire de tous](https://endometriose-affairedetous.com/)
+{{< card-link title="Endométriose - L'affaire de tous" url="https://endometriose-affairedetous.com/" subtitle="Gratuit">}}
+
+{{< youtube id="mRnCMWZMDhk" title="Diagnostic de l'endométriose (Dr Thierry Brillac)" >}}
+
+{{< youtube id="Fg2XYcw5Bk8" title="Douleur et endométriose (Dr Delphine Lhuillery)" >}}
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une endométriose" "show" %}}
