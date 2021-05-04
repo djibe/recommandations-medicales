@@ -160,7 +160,7 @@
         elem.setAttribute('target', '_blank')
         elem.setAttribute('rel', 'nofollow noopener')
       })
-      let internalLinks = document.querySelectorAll('.recommandation__content a[href^="/recommandations/"]')
+      let internalLinks = document.querySelectorAll('.recommandation__content a[href^="/recommandations/"]:not([href*="#"])')
       internalLinks.forEach((elem) => {
         elem.setAttribute('target', '_blank')
       })

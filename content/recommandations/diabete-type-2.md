@@ -10,7 +10,7 @@ lastmod = "2020-04-27"
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["HAS"]
-tags = ["diabete", "risque cardiovasculaire", "HTA", "insuline", "retinopathie", "nephropathie", "neuropathie", "obesite", "SAOS", "vaccin"]
+tags = ["diabete", "HTA", "insuline", "retinopathie", "nephropathie",  "risque cardiovasculaire", "neuropathie", "obesite", "SAOS", "vaccin"]
 anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = false
@@ -40,7 +40,7 @@ Objectif tensionnel **< 130/80** mmHg (ESC 2019).
 LDL cible **< 0,55 g/L** (ESC 2019)
 - Activité physique  
 **Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense).
-- Cible d'HbA1C  
+- Cible d'HbA1c  
 Globalement **6,5% voire 7%** (sauf complications avancées).
 - En cas de surpoids  
 Négocier une perte de poids (5-10%).

@@ -28,7 +28,7 @@ todo = "insulines du DG, enfant obèse ?"
 - Adresser à la maternité pour ASG et diététique
 - Objectif de terme: 39 SA
 - GAJ à la consultation post-natale et tous les 1-3 ans à vie
-- En pandémie Covid-19, si HGPO non réalisable, remplacer par GAJ + HbA1C avec un seuil diagnostique à 5,7% ([Vambergue 2020](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf))
+- En pandémie Covid-19, si HGPO non réalisable, remplacer par GAJ + HbA1c avec un seuil diagnostique à 5,7% ([Vambergue 2020](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf))
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

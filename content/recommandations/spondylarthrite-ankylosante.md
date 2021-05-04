@@ -6,17 +6,16 @@ synonyms = ["Spondyloarthrite"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-15T20:39:41+02:00
 publishdate = 2020-10-15
-lastmod = 2020-10-18
+lastmod = 2021-05-04
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "EULAR"]
-tags = ["spondylarthrite", "AINS", "biotherapie", "anti-TNF"]
+tags = ["AINS", "anti-TNF", "biotherapie", "spondylarthrite"]
 anglais = ["Axial spondyloarthritis"]
 sctid = "723116002"
 draft = false
-scores = ["basdai", "basfi"]
 flowchart = true
-todo = "foreach score modal, bilan pré-thérap antitnfa"
+todo = "def rhumatisme pso + MICI, foreach score modal, bilan pré-thérap antitnfa"
 +++
 
 {{%article-summary%}}
@@ -41,21 +40,19 @@ Spondylarthrite ankylosante (SpA)
 : Rhumatisme inflammatoire chronique potentiellement grave et handicapante survenant chez l’adulte jeune (< 35 ans).
 : Spondylarthrite la plus typique et la plus sévère. Atteinte rachidienne et sacro-iliaque conduisant à l’ankylose. Atteinte périphérique associée dans 50% des cas (uvéite surtout).
 
-Rhumatisme psoriasique
-: TODO
-
 Arthrites réactionnelles
 : Arthrites aseptiques associées à une conjonctivite, urétrite homme/cervicite femme.  
 Survenue dans les semaines qui suivent une infection génitale ou digestive.  
-Au maximum syndrome de Fiessinger-Leroy-Reiter (triade arthrite-urétrite-conjonctivite).
-: Association au HLA-B27. Chronicisation dans 10-20% des cas voire évolution en SpA.
-: Germes impliqués: Chlamydia, Shigella, Yersinia, Salmonella, Campylobacter.
-
-MICI
-: TODO
+Au maximum *syndrome de Fiessinger-Leroy-Reiter* (triade arthrite-urétrite-conjonctivite).
+: Association au *HLA-B27*. Chronicisation dans 10-20% des cas voire évolution en SpA.
+: Germes impliqués: *Chlamydia*, *Shigella*, *Yersinia*, *Salmonella*, *Campylobacter*.
 
 Spondylarthropaties indifférenciées
 : Remplissent les critères ESSG/Amor.
+
+### Abréviations
+
+**ESSG:** European Spondylarthropathy Study Group
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -109,8 +106,6 @@ Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, i
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques ESSG" %}}
 
-ESSG: *European Spondylarthropathy Study Group* (Se 87%, Spe 96%).
-
 {{% info %}}
 
 **Diagnostic formel de spondylarthropathie si 1 critère majeur ET 1 critère mineur.**
@@ -137,6 +132,8 @@ ESSG: *European Spondylarthropathy Study Group* (Se 87%, Spe 96%).
 6. Fessalgie à bascule
 7. Sacro-iliite radiologique  
 (stade 2-4 bilatéral ou 3-4 unilatéral ; 0=normal, 1=possible, 2=modéré, 3=évolué, 4=ankylose)
+
+Se 87%, Spe 96%
 
 {{% /info %}}
 
@@ -165,9 +162,10 @@ ESSG: *European Spondylarthropathy Study Group* (Se 87%, Spe 96%).
 
 ### Biologie
 
-NFS, VS, CRP (syndrome inflammatoire modeste, 60% des cas).
-
-Mise à jour du bilan cardio-vasculaire (glycémie à jeun, bilan lipidique pour calcul du Heart SCORE).
+- NFS
+- VS, CRP  
+{{%class%}}Syndrome inflammatoire modeste (60% des cas).{{%/class%}}
+- Bilan cardiovasculaire (glycémie à jeun, bilan lipidique pour calcul du Heart SCORE).
 
 ### Radiographies
 
@@ -192,39 +190,41 @@ Importante pour un diagnostic précoce.
 {{% /collapse %}}
 {{%collapse "Traitement de la spondylarthrite ankylosante" %}}
 
-Objectif: rémission ou activité minimale de la maladie. Cibles objectivables définies avec le patient.
+**Objectif:** rémission ou activité minimale de la maladie. Cibles objectivables définies avec le patient.
 
 - Déclarer l'ALD 27 (100 %)  
 ± MDPH
 - Suivi spécialisé systématique par le rhumatologue
 - Éducation du patient
 - Arrêt du tabac systématique  
-{{% class %}}Augmente la sévérité de la maladie.{{% /class %}}
-- Encourager l'activité physique
+{{%class%}}Augmente la sévérité de la maladie.{{%/class%}}
+- Activité physique quotidienne
 - Contrôle du poids
-{{% class %}}Obésité est facteur de résistance aux anti-TNF.{{% /class %}}
+{{%class%}}L'obésité est facteur de résistance aux anti-TNF.{{%/class%}}
 - Dépistage des comorbidités cardio-vasculaires et ostéoporose
 - AINS  
-Intérêt d’AINS à libération prolongée en 1<sup>re</sup> intention.  
-Souvent rechute douloureuse en moins de 48h après leur arrêt.
-Essai ≥ 2 molécules différentes pendant ≥ 2 semaines chacune avant de conclure à l’inefficacité de chacune (aucun effet sur l’inflammation biologique).  
-Utiliser à dose optimale (même si doses maximales), mais en conservant posologie et durée minimales.  
-Selon Prescrire®: ibuprofène (max 400mg x 3/j) et naproxène (max 550mg x 2/j) ont le meilleur rapport bénéfice/risque parmi les AINS.
+  - AINS à libération prolongée en 1<sup>re</sup> intention
+  - Souvent rechute douloureuse en moins de 48h après leur arrêt
+  - Essai ≥ 2 molécules différentes pendant ≥ 2 semaines chacune avant de conclure à l’inefficacité de chacune (aucun effet sur l’inflammation biologique).  
+  - Utiliser à dose optimale (même si doses maximales), mais en conservant posologie et durée minimales
+  - Selon *Prescrire*: ibuprofène (max 400 mg x 3/j) et naproxène (max 550 mg x 2/j) ont le meilleur rapport bénéfice/risque parmi les AINS.
 - "La corticothérapie générale n’est pas justifiée dans la majorité des cas"
 - Antalgiques  
-{{% class %}}Pour contrôler les douleurs résiduelles.{{% /class %}}
+{{%class%}}Pour contrôler les douleurs résiduelles.{{%/class%}}
 - Physiothérapie, ergothérapie, appareillages
-- Kinésithérapie en extension rachidienne  
-Travail d’amplitude respiratoire  
-Auto-exercices
+- Kinésithérapie en extension rachidienne
+  - Travail d’amplitude respiratoire
+  - Auto-exercices
 - Soutien psychologique
-- Associations de malades
-- Participer à la recherche (cohorte APHP Compare)
+- Associations de patients  
+[Action contre les Spondylarthropathies](https://www.acs-france.org/), [Association Française de Lutte Anti-Rhumatismale](https://www.aflar.org/), [Association France Spondyloarthrites](https://www.spondy.fr/), [Spondyl(O)action](https://spondyloaction.fr/)
+- Participer à la recherche  
+[Cohorte ComPaRe](https://compare.aphp.fr/)
 
 ### Arthrite périphérique
 
 - Infiltration de corticoïdes
-- Synoviorthèse isotopique.
+- Synoviorthèse isotopique
 
 ### Enthésopathies
 
@@ -256,7 +256,7 @@ Ils peuvent être envisagés en cas d’arthrite périphérique réfractaire au 
     - Réponse insuffisante aux AINS (symptômes persistants sous AINS pleine dose)
     - ET ASDAS ≥ 2,1 ou BASDAI ≥ 4
     - ET Rx+ ou inflammation IRM ou CRP+
-2. SpA périphérique Enthésitique
+2. SpA périphérique enthésitique
     - Réponse insuffisante aux AINS ± infiltration
     - ET CRP élevée ou inflammation IRM
     - EVA ≥ 4
@@ -301,11 +301,11 @@ Consultation de suivi tous les 3 à 6 mois (au moins annuelle).
 Une amélioration doit être obtenue à 3 mois pour poursuivre une stratégie, avec objectif de contrôle cible à 6 mois.
 
 - Score composite de contrôle de la maladie  
-ASDAS si axial et DAS si périphérique.
-- Auto-score BASDAI"  
-{{% class %}}Réalisé la semaine avant la consultation.{{% /class %}}
+[ASDAS](http://medicalcul.free.fr/asdas.html) si axial et [DAS 28](http://medicalcul.free.fr/das28.html) si périphérique.
+- [Auto-score BASDAI](http://medicalcul.free.fr/basdai.html)  
+{{%class%}}Réalisé la semaine avant la consultation.{{%/class%}}
 - Axiale  
-EVA, réveils nocturnes, taille annuelle, indice de Schöber, ampliation thoracique.
+EVA, réveils nocturnes, taille annuelle, [indice de Schöber](https://webtv.univ-rouen.fr/videos/examen-du-rachis-signe-de-schober/), ampliation thoracique.
 - Périphérique  
 Nombre d’articulations douloureuses et gonflées.
 - Enthèses  
@@ -323,18 +323,18 @@ Nombre d’enthèses douloureuses.
 - Biologique  
 VS, CRP.
 - Radio thoracique, EFR  
-{{% class %}}Documente l’atteinte restrictive et la fibrose pulmonaire.{{% /class %}}
+{{%class%}}Documente l’atteinte restrictive et la fibrose pulmonaire.{{%/class%}}
 - ECG  
-{{% class %}}Dépistage des troubles du rythme/conduction.{{% /class %}}
+{{%class%}}Dépistage des troubles du rythme/conduction.{{%/class%}}
 - Ophtalmologique  
-{{% class %}}Dépistage et surveillance d’atteinte ophtalmo.{{% /class %}}
+{{%class%}}Dépistage et surveillance d’atteinte ophtalmologique.{{%/class%}}
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
 {{< mermaid title="Conduite à tenir devant une suspicion de spondylarthrite ankylosante. Dr JB FRON d'après SFRhumato 2018" >}}
 graph TB
-  suspicion["Suspicion de SpA"] --> bilan("Biologie<br>Rx rachis complet F+P<br>et bassin F<br>IRM rachis DL + SI") --> rhumato("AINS pleine dose<br>Avis rhumatologique SYSTÉMATIQUE")
+  suspicion[Suspicion de SpA] --> bilan("Biologie<br>Rx rachis complet F+P<br>et bassin F<br>IRM rachis DL + SI") --> rhumato("AINS pleine dose<br>Avis rhumatologique SYSTÉMATIQUE")
   style suspicion stroke:#006ef4, stroke-width:1px
 
 {{< /mermaid >}}

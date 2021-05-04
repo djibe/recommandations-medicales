@@ -98,7 +98,7 @@ Centré sur ROT, RCP, sensibilité des pieds, anesthésie en selle et des membre
 - NFS
 - ionogramme, créatininémie et CDK-EPI
 - Bilan hépatique (sauf résultat < 5 ans)
-- Glycémie à jeun (sauf résultat < 1 an) ou HbA1C
+- Glycémie à jeun (sauf résultat < 1 an) ou HbA1c
 - Bilan lipidique (sauf résultat < 1 an)
 - PSA si > 50 ans (ou 45 si ATCD familiaux)
 - Testostéronémie totale  

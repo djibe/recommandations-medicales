@@ -41,7 +41,7 @@ Objectif tensionnel **< 130/80** mmHg (ESC 2019).
 LDL cible **< 0,55 g/L** (ESC 2019).
 - Activité physique  
 **Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire.
-- Cible d'HbA1C  
+- Cible d'HbA1c  
 Globalement **6,5%** (sauf complications avancées).
 - Surpoids  
 Négocier une perte de poids (5-10%).

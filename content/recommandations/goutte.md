@@ -10,7 +10,7 @@ lastmod = 2021-01-10
 specialites = ["rhumatologie"]
 annees = "2020"
 sources = ["EULAR", "SFRhumato"]
-tags = ["arthropathie"]
+tags = ["arthropathie", "HTA", "risque cardiovasculaire"]
 anglais = ["Gout"]
 sctid = "90560007"
 draft = false
@@ -113,7 +113,7 @@ Peut être utile pour affirmer le diagnostic et étayer le diagnostic différent
 {{% /collapse %}}
 {{%collapse "Traitement de la crise de goutte" %}}
 
-{{%info%}}Naproxène 550 mg x 2/j et paracétamol 1g x 4/j{{%/info%}}
+{{%info%}}Naproxène 550 mg x 2/j et paracétamol 1 g x 4/j{{%/info%}}
 
 Le plus précoce possible (12 premières heures), dès les prodromes (auto-médication adaptée aux comorbidités).  
 Traitement adapté à la tolérance et à l’efficacité passée.
@@ -158,7 +158,7 @@ Puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours
 En 1<sup>re</sup> intention en cas de monoarthrite de grosse articulation infiltrable.
 En 3<sup>e</sup> intention, en remplacement des AINS et de la colchicine.
 
-Corticothérapie orale 30-35mg x 1/j d’équivalent prednisolone pendant 3 à 5 jours.
+{{%info%}}Prednisone 30-35 mg x 1/j pendant 3 à 5 jours{{%/info%}}
 
 Ne pas associer AINS et corticoïdes.  
 Ne pas utiliser en cas de diabète ou d'HTA déséquilibrés.
@@ -333,7 +333,7 @@ graph TB
 **Inhibiteurs CYP3A4/GP:** [pristinamycine, macrolides...](https://www.ansm.sante.fr/Dossiers/Interactions-medicamenteuses/Interactions-medicamenteuses-et-cytochromes/(offset)/1)  
 **Colchicine** J1: 1 mg puis 0,5 mg à H1 puis jours suivants 0,5 mg x 2-3/j.  
 **AINS:** Naproxène.  
-**Corticoïdes:** 30-35 mg/j prednisolone 5 jours ou infiltration de grosse articulation.  
+**Corticoïdes:** 30-35 mg/j prednisone 5 jours ou infiltration de grosse articulation.  
 
 {{%/collapse%}}
 {{% collapse "Conduite à tenir pour le traitement hypouricémiant" "show" %}}

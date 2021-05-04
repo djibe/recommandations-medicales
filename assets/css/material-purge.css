@@ -1124,13 +1124,26 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   padding: 0 0.5rem;
 }
 
+[class*='btn-outline'] {
+  border: 1px solid currentColor;
+  padding: 0 calc(1rem - 1px);
+}
+
+[class*='btn-outline']:disabled {
+  border-color: rgba(0, 0, 0, 0.37);
+}
+
 [class*='btn-flat'],
+[class*='btn-outline'],
 .modal .btn {
   background: transparent;
   box-shadow: none;
 }
 
 [class*='btn-flat']:hover, [class*='btn-flat']:focus, [class*='btn-flat']:active,
+[class*='btn-outline']:hover,
+[class*='btn-outline']:focus,
+[class*='btn-outline']:active,
 .modal .btn:hover,
 .modal .btn:focus,
 .modal .btn:active {
@@ -1157,6 +1170,32 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
 .btn-flat-primary:disabled,
 .modal .btn-primary:disabled {
   color: rgba(0, 0, 0, 0.37);
+}
+
+
+.btn-outline-secondary,
+.btn-outline-secondary:hover,
+.btn-outline-secondary:focus {
+  color: #e87500;
+}
+
+
+.btn-outline-secondary:hover {
+  background-image: linear-gradient(to bottom, rgba(232, 117, 0, 0.04), rgba(232, 117, 0, 0.04));
+}
+
+
+.btn-outline-secondary:focus {
+  background-image: linear-gradient(to bottom, rgba(232, 117, 0, 0.12), rgba(232, 117, 0, 0.12));
+}
+
+
+.btn-outline-secondary:disabled {
+  color: rgba(0, 0, 0, 0.37);
+}
+
+.btn-outline-secondary {
+  border-color: #e87500;
 }
 
 /*

@@ -184,6 +184,11 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
 Accompagnement par une équipe d'[Assistance Médicale à la Procréation](https://www.agence-biomedecine.fr/Autorisation-des-centres) (AMP).
 
 {{% /collapse %}}
+{{%collapse "FMC" %}}
+
+[Endométriose - L'affaire de tous](https://endometriose-affairedetous.com/)
+
+{{% /collapse %}}
 {{%collapse "Conduite à tenir devant une endométriose" "show" %}}
 
 {{< mermaid title="Conduite à tenir devant une suspicion d'endométriose. Dr JB FRON d'après HAS 2017" >}}

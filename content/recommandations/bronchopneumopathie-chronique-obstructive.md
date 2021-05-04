@@ -4,6 +4,7 @@ prefix = "la "
 shortname = "BPCO"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
 lastmod = 2021-05-03
@@ -17,7 +18,7 @@ draft = false
 slider = true
 image = true
 imageSrc = "Illustration de Freepik"
-todo = "Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, vérif def exacerbation légère, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, a1antitrypsine"
+todo = "Sandrine, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, a1antitrypsine"
 +++
 
 {{%article-summary%}}
@@ -31,6 +32,7 @@ Principal facteur du déclin du VEMS.
 - Bronchodilatateurs: {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}}, {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama >}}LABA + LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}
 - EFR de suivi annuelle
 - Prévention cardiovasculaire
+- Voir les [vidéos de formations sur les techniques d'inhalation]({{< relref "bronchopneumopathie-chronique-obstructive.md#vidéos-de-formation" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -147,16 +149,16 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
 Asthme, allergie, atopie, sinusite, polypes du rhinopharynx, infections respiratoires infantiles, hospitalisations pour pathologies respiratoires.
 - Comorbidités  
   - Cardiovasculaires  
-  Coronaropathie, AVC, AOMI, insuffisance cardiaque, arythmie, diabète
+  Coronaropathie, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), AOMI, insuffisance cardiaque, arythmie, [diabète]({{< relref "diabete-type-2.md" >}})
   - Cancers liés au tabac (VADS, vessie, digestifs)
   - Dépression, anxiété, addictions
   - Ostéoporose et amyotrophie
   - Obésité, dénutrition, anémie et polyglobulie
-  - Troubles du sommeil, apnées du sommeil
+  - Troubles du sommeil ([apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) ...)
 - Antécédents familiaux  
-BPCO et maladies respiratoires.
+Tabagisme, BPCO et maladies respiratoires.
 - Terrain  
-Tabagisme actif ou passif, cannabis, exposition professionnelle, exposition aux vapeurs et feux.
+Tabagisme actif ou passif, cannabis, exposition professionnelle, exposition aux vapeurs et combustions (bois, charbon).
 - Symptômes  
 Toux, expectoration, dyspnée, sifflements, fatigue, perte de poids, anorexie.  
 Évolution pondérale, appétit.
@@ -165,7 +167,7 @@ Toux, expectoration, dyspnée, sifflements, fatigue, perte de poids, anorexie.
 - {{< modal-btn modal-score-mmrc >}}Échelle de dyspnée mMRC{{< /modal-btn >}}
 - Retentissement  
 Limitation des activités, arrêts de travail, activité physique, anxiété/dépression, qualité de vie, vie sexuelle.
-- Signes de reflux gastro-œsophagien
+- Signes de [reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
 - Entourage
 
 ### Examen clinique
@@ -179,7 +181,7 @@ Sibilants, tirage, cyanose.
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Autres causes de toux chronique d'origine thoracique:
+Autres causes de toux et dyspnée chronique d'origine thoracique:
 
 - Asthme (voir *Clinique*)
 - Cancer du poumon
@@ -217,7 +219,7 @@ Les autres examens recherchent des complications.
 
 ### Gaz du sang
 
-Indications: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3{{< /modal-btn >}}, {{< modal-btn modal-severite-bpco >}}stade obstructif ≥ 3{{< /modal-btn >}}, suspicion d'embolie pulmonaire ou d'overlap syndrome.
+Indications: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3{{< /modal-btn >}}, {{< modal-btn modal-severite-bpco >}}stade obstructif ≥ 3{{< /modal-btn >}}, suspicion d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) ou d'hypercapnie.
 
 ### Autres
 
@@ -396,13 +398,15 @@ Joindre le courrier détaillé des traitements en cours, contexte social, dernie
 
 ### 5. Traitement de l'exacerbation de BPCO
 
-- Réévaluation toutes les 24-72h
-- Augmenter la dose et la fréquence des {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} jusqu'à l'amélioration des symptômes
+- Réévaluation clinique toutes les 24-72h
+- Bronchodilatateurs
+  - Augmenter la dose et la fréquence des {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} jusqu'à l'amélioration des symptômes
+  - Ex: 1-2 bouffées toutes les 2-4 heures
 - Envisager l'utilisation d'une chambre d'inhalation (3-5 inspirations par dose de BDCA)
 - Kinésithérapie respiratoire si encombrement
-- [Antibiothérapie](https://antibioclic.com/questionnaire/36) si augmentation de la purulence des crachats
+- [Antibiothérapie 5-7 jours](https://antibioclic.com/questionnaire/36) si augmentation de la purulence des crachats
 - Corticothérapie orale si dyspnée invalidante  
-Prednisolone 40 mg pendant 5 jours
+Prednisone 40 mg x 1/j pendant 5 jours (max 7)
 - Avis pneumologique
   - Urgent si: suspicion de germe résistant, récidive d'exacerbation, nébulisations
   - Réévaluation systématique à distance de l'exacerbation
@@ -492,7 +496,7 @@ IMC (< 21), perte de poids, santé bucco-dentaire.
   - Limitation des activités  
   Fatigue, activités quotidiennes et sociales, qualité de vie, {{< modal-btn modal-score-cat >}}évaluation CAT™{{< /modal-btn >}}.
 - Recherche de comorbidités aggravantes  
-Anémie, asthme, cancer, insuffisance cardiaque, surpoids, troubles anxieux/dépressifs, troubles musculosquelettiques, [hypertension pulmonaire]({{< relref "hypertension-arterielle-pulmonaire.md" >}}).
+Anémie, asthme, cancer, insuffisance cardiaque, surpoids, troubles du sommeil, troubles anxieux/dépressifs, troubles musculosquelettiques, [hypertension pulmonaire]({{< relref "hypertension-arterielle-pulmonaire.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Information du patient BPCO" %}}
@@ -516,6 +520,15 @@ Anémie, asthme, cancer, insuffisance cardiaque, surpoids, troubles anxieux/dép
 - Aides extérieures, réseaux et associations de patients pour un soutien du patient et de son entourage
 
 > Source HAS 2019
+
+{{% /collapse %}}
+{{%collapse "Vidéos de formation" %}}
+
+### Techniques d'inhalation des bronchodilatateurs
+
+*Ouvrir chaque vidéo dans un nouvel onglet.* (clic droit > Ouvrir le lien dans un nouvel onglet)
+
+{{< iframe url="https://splf.fr/videos-zephir/" >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

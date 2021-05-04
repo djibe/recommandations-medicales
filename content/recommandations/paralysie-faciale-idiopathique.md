@@ -228,9 +228,9 @@ La surveillance clinique de la récupération doit être prolongée.
 
 ### Corticothérapie systémique
 
-{{%info%}}Prednisolone orale 1 mg/kg/j (max 120 mg/j) pendant 7 à 10 jours.{{%/info%}}
+{{%info%}}Prednisone orale 1 mg/kg/j (max 120 mg/j) pendant 7 à 10 jours.{{%/info%}}
 
-En **forme sévère** ({{< modal-btn score-house >}}grades V et VI du House-Brackmann{{< /modal-btn >}}): prednisolone 2 mg/kg/j pendant 10 jours.
+En **forme sévère** ({{< modal-btn score-house >}}grades V et VI du House-Brackmann{{< /modal-btn >}}): prednisone 2 mg/kg/j pendant 10 jours.
 
 Alternative: méthylprednisolone intra-veineuse.
 
@@ -279,7 +279,7 @@ graph TB
     atypie -- Oui --> differentiel("Éliminer une cause urgente<br>de paralysie faciale")
     atypie -- Non --> PFI("<b>Paralysie faciale idiopathique</b><br>si aucun des éléments ci-dessus")
       PFI --> bilan("<b>Examens</b><hr>- NFS<br>- Glycémie à jeûn<br>- Sérologies Lyme et VIH<br>- Audiométrie<br>- IRM n. facial<br>- ENMG si grave")
-        bilan --> ttt("<b>Traitement urgent</b><hr>- Prednisolone po 1 mg/kg 7-10j<br>- Valaciclovir 1g x 3/j<br>- Prévention kératite<br>- Kiné en forme sévère/séq.")
+        bilan --> ttt("<b>Traitement urgent</b><hr>- Prednisone po 1 mg/kg 7-10j<br>- Valaciclovir 1g x 3/j<br>- Prévention kératite<br>- Kiné en forme sévère/séq.")
           ttt --> surv(Surveillance de la récupération<br>+/- Kiné, orthophoniste)
 {{< /mermaid >}}
 
