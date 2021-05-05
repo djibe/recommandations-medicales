@@ -219,6 +219,8 @@ Accompagnement par une équipe d'[Assistance Médicale à la Procréation](https
 
 {{< youtube id="Fg2XYcw5Bk8" title="Douleur et endométriose (Dr Delphine Lhuillery)" >}}
 
+*Nouveaux cours à venir*
+
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une endométriose" "show" %}}
 
@@ -236,9 +238,9 @@ graph TB
         bilan --> specialiste(Avis gynécologique)
 {{< /mermaid >}}
 
-> DIU: stérilet  
-LNG: lévonorgestrel  
-SFR: signes fonctionnels urinaires
+> **DIU:** stérilet  
+**LNG:** lévonorgestrel  
+**SFR:** signes fonctionnels urinaires
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
