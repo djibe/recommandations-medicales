@@ -5,7 +5,7 @@ shortname = "HTA maligne"
 synonyms = ["et urgences hypertensives"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-04T08:54:00+02:00
-publishdate = 2021-05-04
+publishdate = 2021-05-05
 lastmod = 2021-05-04
 specialites = ["cardiologie"]
 annees = "2018"
@@ -16,7 +16,7 @@ sctid = "132721000119104"
 draft = false
 image = false
 imageSrc = ""
-todo = ""
+todo = "https://academic.oup.com/ehjcvp/article/5/1/37/5079054"
 +++
 
 {{%article-summary%}}
@@ -116,7 +116,9 @@ Tumeurs
 {{% /collapse %}}
 {{%collapse "FMC" %}}
 
-[ESC Councils webinar - Diagnosis and management of hypertensive emergencies](https://www.escardio.org/Education/E-Learning/Webinars/diagnosis-and-management-of-hypertensive-emergencies)
+{{< card-link title="Diagnosis and management of hypertensive emergencies" url="https://www.escardio.org/Education/E-Learning/Webinars/diagnosis-and-management-of-hypertensive-emergencies" subtitle="ESC Councils webinar">}}
+
+{{< youtube id="EFpLquawfqg" title="Reconnaître et traiter les urgences hypertensives hors AVC (Dr Aurélien Lorthioir)" >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

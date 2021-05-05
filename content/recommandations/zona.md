@@ -24,8 +24,8 @@ todo = "flowchart, collège/Pilly"
 - Valaciclovir 1 g x 3/j 7 jours si:  
 Ophtalmique, > 50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs +++ en phase aiguë, lésions cutanées graves)
 - Hospitalisation en urgence si immunodéprimé, atteinte organique ou PFP zostérienne
-- Sérologie VIH si adulte < 50 ans
 - Vaccination de 65 à 74 ans
+- PCR VIH si adulte < 50 ans
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -43,12 +43,13 @@ Ce sont les principales personnes qui développent des formes compliquée.
 
 - Jeune enfant  
 Zona possible dans les premières années de vie. Rare avant 4 ans et ne présente pas de caractère de gravité.
-- Sujet < 50 ans  
-Localisé et guérison sans séquelles.  
-Proposer une **sérologie VIH**.
+- Sujet < 50 ans
+  - Localisé et guérison sans séquelles.  
+  - Proposer une [**PCR VIH**]({{< relref "vih-sida.md" >}})
 - Sujet > 50 ans  
-Incidence max après 75 ans (> 1,4/100).  
-Ne pas rechercher un cancer ou le VIH.
+  - Incidence max après 75 ans (> 1,4/100)
+  - Ne pas rechercher un cancer ou le VIH systématiquement
+  - Proposer la vaccination de 65 à 74 ans
 
 ### Abréviations
 
@@ -85,7 +86,8 @@ Quasi constantes en phase aiguë. Risque de chronicisation des douleurs neuropat
 Surtout patient > 50 ans, fréquentes complications oculaires et douleurs chroniques.
 - Paralysie faciale périphérique
 
-{{%warning%}}Facteurs prédictifs d'algies post-zostériennes
+{{%warning%}}
+Facteurs prédictifs d'algies post-zostériennes:
 
 - Douleurs pré-éruptives
 - Intensité des douleurs en phase aiguë
@@ -129,6 +131,7 @@ et application de glace
 - Éviter le contact avec les femmes enceintes non immunisées et immunodéprimées
 - Si surinfection cutanée  
 Antibiothérapie per os cloxacilline.
+- PCR VIH si < 50 ans
 
 {{%info%}}Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anesthésiques, antiprurigineux) ne doit être appliqué.{{%/info%}}
 
@@ -197,6 +200,7 @@ Persistance de douleurs neuropathiques d'un dermatome atteint par un zona.
 - [Prescrire Redaction. Douleurs post-zostériennes. Premiers choix Prescrire. Avril 2021.](https://prescrire.org/)
 - [SFORL. Prise en charge de la Paralysie Faciale Idiopathique à la phase aiguë chez l’adulte. 2020.](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-de-la-Paralysie-Faciale-Idiopathique-%C3%A0-la-phase-aigu%C3%AB-chez-l-adulte-2020.pdf)
 - [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+- [CEDEF. Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 - UE 6. 2017.](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2486.pdf)
 - [SPILF. Prise en charge des infections à VZV. Méd Mal Infect. 1998 ; 28: 1-8](https://www.infectiologie.com/UserFiles/File/medias/_documents/consensus/vzv98.pdf)
 
 {{% /collapse %}}

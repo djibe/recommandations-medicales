@@ -2,43 +2,48 @@
 
 **Projet Open Source, gratuit et indépendant visant à partager l'État de l'Art de la pratique en médecine de premier recours.**
 
-*Recommandations Médicales* cible tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder en 2 clics à tout ce dont ils ont besoin en consultation.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/327af24a-1868-47c1-959c-7c0afe3b1891/deploy-status)](https://app.netlify.com/sites/recommandations-medicales/deploys)
+[Recommandations Médicales](https://recommandations-medicales.netlify.app/) est développé pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder en 2 clics à tout ce dont ils ont besoin en consultation.
 
 ### Pourquoi ce projet ?
 
-Les enjeux de Santé publique (hypertension artérielle, diabète, BPCO, ostéoporose) sont d'une complexité croissante, hors de portée de simples fiches et de nos petits cerveaux. La preuve ? Rien ne change dans nos pratiques et aucun outil n'a su engager les médecins généralistes.  
-Nous avons besoin d'outils faciles accessibles facilement. C'est pourquoi *Recommandations Médicales* est construit.
+Plusieurs constats:
+
+- Le médecin généraliste est exposé à toutes les situations
+- Or nous ne retenons que 10% de ce que nous lisons
+- Donc même en apprenant TOUT, nous ne retiendrions que 10%
+- Nous avons donc besoin d'avoir un accès permanent à de l'information fiable pour guider nos consultations
+- De plus, les enjeux de Santé publique (hypertension artérielle, [diabète](https://recommandations-medicales.netlify.app/recommandations/diabete-type-2/), [BPCO](https://recommandations-medicales.netlify.app/recommandations/bronchopneumopathie-chronique-obstructive/), ostéoporose) sont d'une complexité croissante, hors de portée de simples fiches textes et de nos petits cerveaux.
+
+Seul un outil numérique peut nous aider.
 
 ### Les points forts du projet
 
 - Open Source
 - Participatif  
-Tout le monde peut commenter le travail et demander plus d'informations.
+Tout le monde peut commenter le travail, participer à l'élaboration et demander plus d'informations.
 - Indépendant  
 Aucun financement de l'industrie. Jamais.
 - Gratuit
 - Validé  
 Faire valider chaque fiche par un expert ou la Société savante de référence (certaines fiches pour le moment).
 - \+ Simple  
-Segmentation des chapitres pour accéder rapidement à l'info recherchée.
+Segmentation des chapitres pour accéder rapidement à l'info recherchée: 1 question = 1 réponse.
 - \+ Visuel  
-Présence d'un algorithme décisionnel (diagramme de flux) pour balayer rapidement la prise en charge de la pathologie.
+Présence d'un arbre décisionnel pour balayer rapidement la prise en charge de la pathologie.
 - \+ Pratique  
-Accès immédiat au score ou calcul de risque.
+Accès immédiat au score ou calcul de risque numérique.
 - \+ Sûr  
 Accès à l'ordonnance ou bilan de première intention.
 - \+ Moderne  
-Finie l'information cachée au fond du PDF.
+Finie l'information cachée au fond d'un PDF.
 - \+ Récent  
-L'objectif est de proposer les connaissances validées les plus récentes.
+Proposer les connaissances validées les plus récentes.
 - \+ Mobile  
 Le site s'adapte à tous les écrans.
 - \+ Rapide  
-Très léger
+Très léger.
 - \+ Transparent  
-Toute modification est historisée pour plus de transparence.
+Toute modification est historisée pour plus de traçabilité.
 - \+ Ouvert  
 Accessible à toute la francophonie.
 
@@ -58,5 +63,9 @@ Pour se tenir informé sans naviguer de site en site.
 - **Vous !**
 - Plus de contenu
 - La certification des Sociétés savantes (en cours avec GEFH, AFEF, SFRMS)
-- La certification des autorités (HAS...)
+- La certification des autorités (HAS ...)
 - L'agrégation des actualités médicales
+
+### Dernière compilation du site
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/327af24a-1868-47c1-959c-7c0afe3b1891/deploy-status)](https://app.netlify.com/sites/recommandations-medicales/deploys)

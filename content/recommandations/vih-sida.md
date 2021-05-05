@@ -7,25 +7,26 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CAZANAVE (CMIT)"
 date = 2021-01-16T22:06:00+02:00
 publishdate = 2021-01-16
-lastmod = 2021-05-03
+lastmod = 2021-05-05
 specialites = ["infectiologie"]
 annees = "2018"
 sources = ["CNS", "HAS"]
-tags = ["depistage", "grossesse", "HSH", "IST", "VIH"]
+tags = ["depistage", "fatigue", "fievre", "grossesse", "HSH", "IST", "sueurs nocturnes", "VIH"]
 anglais = ["Human immunodeficiency virus infection"]
 sctid = "86406008"
 image = true
 imageSrc = "Photo de NIAID sur Foter.com / CC BY"
-todo = "TODO: prophylaxie pré-exposition (PrEP), CAT en urgence, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih, depistage DT2, info transmission/guérison, marqueurs CD4/charge virale, sang/sperme/sécr vaginales"
+todo = "TODO: RT-PCR en urg, prophylaxie pré-exposition (PrEP), CAT en urgence, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih, depistage DT2, info transmission/guérison, marqueurs CD4/charge virale, sang/sperme/sécr vaginales"
 +++
 
 {{%article-summary%}}
 
 - Dépister largement
 - Répéter le dépistage chez les populations à risque, conseils de prévention et transmission
+- PCR + sérologie VIH (répéter à 1 mois) devant: fièvre ou fatigue inexpliquées, exanthème fébrile de l'adulte, zona de l'adulte jeune ...
 - Dépistages de comorbidités et vaccinations spécifiques
 - Observance et suivi spécialisé
-- Maladie à déclaration obligatoire
+- Maladie à [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -81,21 +82,31 @@ Respectivement 23% et 16% des infections détectées concernaient des femmes (in
 {{% /collapse %}}
 {{%collapse "Primo-infection" %}}
 
-{{%warning%}}Tout tableau fébrile et/ou AEG inexpliquée doit faire proposer une sérologie VIH.{{%/warning%}}
+{{%warning%}}
+Proposer PCR + sérologie VIH systématiquement devant:
 
-Signes cliniques aspécifiques le plus souvent, présents dans 3/4 des cas.
+- Tableau fébrile inexpliqué
+- AEG ou fatigue inexpliquées
+- Exanthème fébrile de l'adulte
 
-- Fièvre, syndrome pseudo-grippal > 7 jours
+Répéter le dépistage à 1 mois.
+{{%/warning%}}
+
+Signes cliniques aspécifiques le plus souvent, présents dans 3/4 des cas avec guérison spontanée en 1-3 semaines:
+
+- Fièvre, syndrome pseudo-grippal > 7 jours (90%)
 - Asthénie
-- Polyadénopathies
+- Polyadénopathies fermes et indolores (75%)
+- Exanthème maculopapuleux (70%)  
+Prédomine au tronc, racine des membres, cou et parfois visage. Prurit rare.
 - Pharyngite
-- Éruption maculopapuleuse
-- Ulcérations génitales/buccales
+- Énanthème et ulcérations muqueuses
 - Candidose buccale
+- Toux (10%)
 - Troubles digestifs
 - Signes sévères plus rares:
-  - Syndrome méningé lymphocytaire
-  - Paralysie faciale, polyradiculonévrite
+  - Syndrome méningé lymphocytaire (20%)
+  - Paralysie faciale périphérique, polyradiculonévrite
   - Pneumopathie interstitielle
 
 ### Signes biologiques
@@ -110,7 +121,14 @@ Signes cliniques aspécifiques le plus souvent, présents dans 3/4 des cas.
 Signes cliniques mineurs:
 
 - Dermatologiques  
-[Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}}), [prurigo]({{< relref "prurit.md" >}}), [zona]({{< relref "zona.md" >}}), folliculite, condylomes, molluscum contagiosum, candidose buccale ou génitale récidivante, leucoplasie chevelue de la langue.
+  - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
+  - [Prurigo]({{< relref "prurit.md" >}})
+  - [Zona]({{< relref "zona.md" >}})
+  - Psoriasis
+  - Candidose buccale ou génitale récidivante
+  - Maladie de Kaposi
+  - Autres  
+  Porphyrie cutanée tardive, folliculite, condylomes, molluscum contagiosum, leucoplasie chevelue de la langue.
 - AEG, fébricule
 - Sueurs nocturnes
 
@@ -155,7 +173,7 @@ Le dépistage doit être large et pour les personnes à risque, systématique et
 Au moins 1 fois.  
 D'autant plus chez les hommes et régions à risque (IDF, PACA, DROM).
 - Proposer systématiquement devant:
-  - Diagnostic d'IST
+  - Diagnostic d'[IST](/tags/ist/)
   - Hépatite B
   - [Hépatite C]({{< relref "hepatite-c.md">}})
   - Diagnostic de [tuberculose]({{< relref "tuberculose.md" >}})
@@ -325,7 +343,8 @@ Lutte tabac et cannabis, alcool, psychotropes.
 - Santé sexuelle
   - Comportements à risque  
   Sexologue, psychologue.
-  - Contexte à risque (alcool, stimulants, chemsex, violences)
+  - Contexte à risque  
+  Alcool, stimulants, chemsex, violences.
   - Importance du préservatif
   - Dépistage régulier des IST (voir *Dépistage des cancers et IST*)
 - Contraception
@@ -338,7 +357,7 @@ AMP identique à la population générale.
 - Ostéodensitométrie  
 Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
 - [Déclaration obligatoire anonyme]({{< relref "maladies-declaration-obligatoire.md" >}})
-- ALD 7
+- Déclarer l'[ALD 7]({{< relref "affection-longue-duree.md" >}})
 
 ### VIH et suivi cardiovasculaire
 
@@ -357,7 +376,7 @@ Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
 {{%collapse "Suivi biologique du patient sous antirétroviral" %}}
 
 - Dépistage des IST
-  - *Chlamydia* et gonocoques selon le contexte
+  - [*Chlamydia*]({{< relref "chlamydia-trachomatis.md" >}}) et gonocoques selon le contexte
   - [Hépatite C]({{< relref "hepatite-c.md" >}}) tous les 3 à 6 mois
   - [Syphilis]({{< relref "syphilis.md" >}}) tous les 3 à 6 mois
 - Créatininémie et clairance 1/an
@@ -370,11 +389,12 @@ Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
 {{%collapse "Sources" %}}
 
 - [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+- [CMIT. Infection à VIH. Item 165 - UE6 165. ECN.Pilly 2020.](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-165-nb.pdf)
 - [Cazein F. et al. Activité de dépistage du VIH et circonstances de découverte de l’infection à VIH, France 2018. Bull Epidémiol Hebd. 2019;(31-32):615-24.](http://beh.santepubliquefrance.fr/beh/2019/31-32/2019_31-32_1.html)
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
-- [CMIT. Infection à VIH. ECN.Pilly 2018, UE6 165.](http://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2018/ecn-2018-ue6-165-nb.pdf)
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017.](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)
+- [CEDEF. Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 - UE 6. 2017.](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2486.pdf)
 
 {{% /collapse %}}
 <!-- Modal -->

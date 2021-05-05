@@ -2,11 +2,11 @@
 title = "Violences conjugales"
 prefix = "les "
 shortname = "Violences conjugales"
-synonyms = []
+synonyms = ["Violences faites aux femmes"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-04T19:26:00+02:00
 publishdate = 2021-02-04
-lastmod = 2021-02-21
+lastmod = 2021-05-05
 specialites = ["certificats"]
 annees = "2020"
 sources = ["HAS"]
@@ -16,7 +16,7 @@ sctid = "404189009"
 draft = false
 image = true
 imageSrc = "Photo de European Parliament sur Foter.com / CC BY-NC-ND"
-todo = "calcul, liste centre hébergement urgence, commissariat + proche, lien vers chaque droit"
+todo = "lire sources, liste centre hébergement urgence, commissariat + proche, lien vers chaque droit"
 +++
 
 *Page en construction*
@@ -234,6 +234,11 @@ Les violences psychologiques constituent une effraction psychique au même titre
 - Mentionner si besoin des éléments cliniques négatifs ainsi que la prise de photos ou la réalisation de schémas anatomiques datées et identifiées, avec l’accord de la victime et en conservant un double des photographies.
 - Déterminer une ITT (Incapacité totale de travail) lors du certificat initial n’est pas obligatoire : à éviter en l’absence de
 compétences spécifiques (l’ITT sera fixée ultérieurement à la demande des autorités par les services compétents).
+
+{{% /collapse %}}
+{{%collapse "FMC" %}}
+
+{{< card-link title="Violences faites aux femmes" url="https://www.youtube.com/playlist?list=PL1J3p7EV5Esb6twJhoYUCptt1uzpcHuvl" subtitle="Pédagogie Numérique en Santé">}}
 
 {{% /collapse %}}
 {{%collapse "Ressources" %}}

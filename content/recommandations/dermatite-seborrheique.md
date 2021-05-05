@@ -23,7 +23,7 @@ imageSrc = "Roymishali, CC BY-SA 3.0, via Wikimedia Commons"
 
 - Le diagnostic est clinique
 - Ciclopirox ou kétoconazole
-- Dépister le VIH en forme grave
+- Dépister le [VIH]({{< relref "vih-sida.md" >}}) si récente, extensive ou résistante
 
 {{%/article-summary%}}
 {{% collapse "Définition" %}}
@@ -41,10 +41,6 @@ Prolifération d'une levure lipophile: *Malassezia furfur*.
 - Carcinome des VADS
 - [VIH]({{< relref "vih-sida.md" >}}) (40% des séropositifs, 80% au stade SIDA)
 
-{{% warning %}}
-Une DS grave et/ou chronique doit faire dépister le VIH.
-{{%/warning%}}
-
 {{% /collapse %}}
 {{% collapse "Épidémiologie" %}}
 
@@ -52,6 +48,10 @@ Dermatose assez fréquente avec une prévalence de 1 à 3% en France.
 
 {{% /collapse %}}
 {{% collapse "Clinique" %}}
+
+{{% warning %}}
+Une DS grave ou résistante au traitement et/ou chronique doit faire dépister le VIH.
+{{%/warning%}}
 
 Le diagnostic est clinique.
 
@@ -179,8 +179,9 @@ Il doit donc être répété lors des poussées.
 Des effets secondaires peuvent survenir à la suite d'un traitement excessif.
 
 {{% /collapse %}}
-{{% collapse "Source" %}}
+{{% collapse "Sources" %}}
 
-[CEDEF. Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
+- [CEDEF. Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
+- [CEDEF. Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 - UE 6. 2017.](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2486.pdf)
 
 {{% /collapse %}}

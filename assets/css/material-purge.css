@@ -1958,7 +1958,7 @@ input:disabled + .chip {
     text-transform: lowercase;
   }
   .modal-footer .btn:first-of-type {
-    border-top: 0;
+    border-radius: 0;
   }
   .modal-footer .btn::first-letter {
     text-transform: uppercase;

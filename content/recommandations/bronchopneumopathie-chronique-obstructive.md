@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2021-05-03
+lastmod = 2021-05-05
 specialites = ["pneumologie"]
 annees = "2021"
 sources = ["GOLD", "HAS", "SPLF"]
@@ -18,7 +18,7 @@ draft = false
 slider = true
 image = true
 imageSrc = "Illustration de Freepik"
-todo = "Sandrine, https://erj.ersjournals.com/content/50/3/1602265, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, vidéos dispositifs, planification des soins futurs et les directives anticipées (43), travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, a1antitrypsine"
+todo = "https://erj.ersjournals.com/content/50/3/1602265, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, planification des soins futurs et les directives anticipées (43), travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, a1antitrypsine"
 +++
 
 {{%article-summary%}}
@@ -27,7 +27,7 @@ todo = "Sandrine, https://erj.ersjournals.com/content/50/3/1602265, Plan d'actio
 Principal facteur du déclin du VEMS.
 - Le diagnostic est spirométrique: TVO non réversible
 - Le VEMS est le facteur pronostique majeur: {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
-- 4 piliers du traitement: arrêt du tabac, vaccination grippe+pneumocoque, activité physique et réadaptation respiratoire
+- 4 piliers du traitement: arrêt du tabac, vaccination grippe + pneumocoque, activité physique et réadaptation respiratoire
 - Adaptation des bronchodilatateurs selon les symptômes et les exacerbations ({{< modal-btn modal-score-cat >}}évaluation CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}dyspnée mMRC{{< /modal-btn >}})
 - Bronchodilatateurs: {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}}, {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama >}}LABA + LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}
 - EFR de suivi annuelle
@@ -149,12 +149,13 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
 Asthme, allergie, atopie, sinusite, polypes du rhinopharynx, infections respiratoires infantiles, hospitalisations pour pathologies respiratoires.
 - Comorbidités  
   - Cardiovasculaires  
-  Coronaropathie, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), AOMI, insuffisance cardiaque, arythmie, [diabète]({{< relref "diabete-type-2.md" >}})
+  Coronaropathie, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), AOMI (8,8%), insuffisance cardiaque (20-70%), arythmie, [diabète]({{< relref "diabete-type-2.md" >}})
   - Cancers liés au tabac (VADS, vessie, digestifs)
-  - Dépression, anxiété, addictions
+  - Dépression, anxiété, addictions, troubles cognitifs
   - Ostéoporose et amyotrophie
   - Obésité, dénutrition, anémie et polyglobulie
-  - Troubles du sommeil ([apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) ...)
+  - DDB, [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
+  - [RGO]({{< relref "reflux-gastro-oesophagien.md" >}})
 - Antécédents familiaux  
 Tabagisme, BPCO et maladies respiratoires.
 - Terrain  
@@ -167,7 +168,6 @@ Toux, expectoration, dyspnée, sifflements, fatigue, perte de poids, anorexie.
 - {{< modal-btn modal-score-mmrc >}}Échelle de dyspnée mMRC{{< /modal-btn >}}
 - Retentissement  
 Limitation des activités, arrêts de travail, activité physique, anxiété/dépression, qualité de vie, vie sexuelle.
-- Signes de [reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
 - Entourage
 
 ### Examen clinique
@@ -279,7 +279,7 @@ Formes: spray, poudre, brumisateur.
 
 #### Dyspnée persistante
 
-Peut être objectivée par un {{< modal-btn modal-score-cat >}}CAT™ ≥ 10{{< /modal-btn >}} (GOLD 2021).
+Objectivée par un {{< modal-btn modal-score-cat >}}CAT™ ≥ 10{{< /modal-btn >}} (GOLD 2021).
 
 {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} systématique.  
 Préférer un {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} en antécédent d'exacerbation.
@@ -381,7 +381,7 @@ SpO<sub>2</sub> < 90%, pouls > 110/min, respiration paradoxale, tirage, cyanose.
 - Encombrement important, difficultés à la toux
 - Troubles de conscience
 - Anomalies radiologiques ou ECG
-- Comorbidités
+- Comorbidités (cardiovasculaire ++)
 - Contexte social
 - Échec du traitement ambulatoire ou aggravation à 48-72h (SPLF 2017)
 
@@ -389,7 +389,7 @@ Joindre le courrier détaillé des traitements en cours, contexte social, dernie
 
 ### 4. Examens complémentaires en EABPCO
 
-- SpO<sub>2</sub>, gaz du sang si oxygénorequérant
+- Gaz du sang si oxygénorequérant
 - Biologie selon comorbidités et examen  
   - Urémie, créatininémie, BNP, D-dimères
   - Les CRP et PCT ne sont pas fiables pour étayer une surinfection (SPLF 2017)
@@ -404,14 +404,18 @@ Joindre le courrier détaillé des traitements en cours, contexte social, dernie
   - Ex: 1-2 bouffées toutes les 2-4 heures
 - Envisager l'utilisation d'une chambre d'inhalation (3-5 inspirations par dose de BDCA)
 - Kinésithérapie respiratoire si encombrement
-- [Antibiothérapie 5-7 jours](https://antibioclic.com/questionnaire/36) si augmentation de la purulence des crachats
+- [Antibiothérapie 5-7 jours](https://antibioclic.com/questionnaire/36) si augmentation du volume ou de la purulence des crachats  
+ECBC en exacerbations fréquentes.
 - Corticothérapie orale si dyspnée invalidante  
 Prednisone 40 mg x 1/j pendant 5 jours (max 7)
 - Avis pneumologique
   - Urgent si: suspicion de germe résistant, récidive d'exacerbation, nébulisations
   - Réévaluation systématique à distance de l'exacerbation
+- Si oxygénothérapie ambulatoire: cible SpO<sub>2</sub> 88-92% (surveillance des gaz du sang)
 
 Si récupération incomplète: spirométrie à 3 mois.
+
+**NB.** Le risque d'évènement cardiovasculaire est augmenté dans les 3 mois suivant une exacerbation.
 
 ### Plan d'action personnalisé en cas d'exacerbation
 
@@ -446,7 +450,7 @@ SpO<sub>2</sub> < 90%, pouls > 110/min, respiration paradoxale, tirage, cyanose.
 - Encombrement important, difficultés à la toux
 - Troubles de conscience
 - Anomalies radiologiques ou ECG
-- Comorbidités
+- Comorbidités (cardiovasculaires ++)
 - Contexte social
 - Échec du traitement ambulatoire ou aggravation à 48-72h (SPLF 2017)
 
@@ -457,11 +461,11 @@ SpO<sub>2</sub> < 90%, pouls > 110/min, respiration paradoxale, tirage, cyanose.
 - Programme de [retour à domicile Prado](https://www.ameli.fr/medecin/exercice-liberal/services-patients/prado#text_19402)
 L'inclusion est réalisée par l'hôpital.
 - Consultation du médecin traitant dans la semaine, puis 1 mois, 3 mois, 6 mois et 1 an
-- Contrôle du traitement par BDLA ({{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-lama >}}association{{< /modal-btn >}})
+- Contrôle de la technique d'inhalation et du traitement par BDLA ({{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-lama >}}association{{< /modal-btn >}})
 - Consultation du pneumologue dans le mois (voire 2 mois)  
 {{%class%}}Avec EFR et gaz du sang.{{%/class%}}
 - Réadaptation respiratoire dans les 2 à 4 semaines  
-{{%class%}}Diminue la mortalité (50% à 5 ans) et le risque de ré-hospitalisation.{{%/class%}}
+{{%class%}}Diminue la mortalité (50% à 5 ans) et les ré-hospitalisations.{{%/class%}}
 - Encourager à l'arrêt du tabac (voir *État stable*)
 - Suivi infirmier à domicile
 - Contrôler le PPS
@@ -477,7 +481,7 @@ Suivi tous les 1 à 3 mois après chaque modification de traitement et tous les 
 Bilan à reprendre régulièrement:
 
 - Date du diagnostic de la BPCO
-- Statut tabagique et traitements essayés
+- Statut tabagique et traitements de sevrage essayés
 - Expositions professionnelles et domestiques
 - Sévérité des signes respiratoires
   - **Spirométrie/EFR annuelle**

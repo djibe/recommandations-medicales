@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-30T19:57:00+02:00
 publishdate = 2021-05-01
-lastmod = 2021-05-03
+lastmod = 2021-05-05
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
 sources = ["CNGOF", "SFD"]
@@ -146,7 +146,7 @@ Césarienne non systématique (grade C)
 - Si autres facteurs de risque cardiovasculaire:  
 Contraception par DIU préférable.
 - Grossesse ultérieure programmée  
-{{%class%}}Risque de récidive de DG de 30-84%, risque de DT2 x7, maladie cardiovasculaire x1,7.{{%/class%}}
+{{%class%}}Risque de récidive de DG de 30-84%, de syndrome métabolique x 2-5, de DT2 x7 et de maladie cardiovasculaire x1,7.{{%/class%}}
 - Information de la patiente + **dépistage du diabète** par glycémie à jeun ou HGPO
   - en consultation post-natale
   - avant nouvelle grossesse

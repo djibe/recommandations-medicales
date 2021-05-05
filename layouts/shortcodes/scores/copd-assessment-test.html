@@ -43,7 +43,7 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreCAT = document.getElementById('catScore')
     const textCAT = document.getElementById('catText')
-    const goldb = "<p>Groupe <b>GOLD B</b> si &le; 1 exacerbation sans hospitalisation</p><p>Sinon groupe <b>GOLD D</b></p>"
+    const goldb = "<p>Groupe <b>GOLD B</b> si &lt; 2 exacerbations sans hospitalisation, sinon <b>GOLD D</b></p><p>Intensifier le traitement bronchodilatateur</p>"
     scoreCAT.innerHTML = 24
     textCAT.innerHTML = goldb
     $(function () {
@@ -54,7 +54,7 @@
         })
         scoreCAT.innerHTML = sum
         if (sum < 10) {
-          catText.innerHTML = "<p>Groupe <b>GOLD A</b> si &le; 1 exacerbation sans hospitalisation</p><p>Sinon groupe <b>GOLD C</b></p>"
+          catText.innerHTML = "<p>Groupe <b>GOLD A</b> si &lt; 2 exacerbations sans hospitalisation, sinon <b>GOLD C</b></p><p>Dyspnée contrôlée</p>"
             return;
         }
         return catText.innerHTML = goldb

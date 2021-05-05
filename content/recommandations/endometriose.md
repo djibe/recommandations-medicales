@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-03T13:12:00+02:00
 publishdate = 2021-04-05
-lastmod = 2021-05-04
+lastmod = 2021-05-05
 specialites = ["gynecologie-obstetrique"]
 annees = "2017"
 sources = ["CNGOF", "HAS"]
@@ -17,11 +17,12 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "MOOC, molécules, information de la patiente, quid bilan IST/salpingite ?"
+todo = "activité physique bassin, contraceptions, information de la patiente, quid bilan IST/salpingite ?"
 +++
 
 {{%article-summary%}}
 
+- Évoquer devant des douleurs pelviennes chroniques
 - Le diagnostic est clinique
 - Explorations seulement quand douloureuse ou avec retentissement (infertilité, qualité de vie)
 - 1<sup>re</sup> intention: examen gynécologique et échographie pelvienne
@@ -30,7 +31,7 @@ todo = "MOOC, molécules, information de la patiente, quid bilan IST/salpingite 
 - IRM pelvienne et avis du spécialiste si signes profonds, désir de grossesse, échec du traitement ou masse ovarienne
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Endométriose
 : Atteinte pelvienne féminine fréquente (2,5 millions de patientes en France, environ 10% des femmes).  
@@ -54,6 +55,19 @@ Endométriome ovarien
 Dysménorrhée
 : Douleurs pelviennes ou dorsales menstruelles ou quelques jours avant.
 
+{{%info%}}
+Les douleurs, à savoir:
+
+1. Une part importante des douleurs est *neuropathique* par l'atteinte des nerfs par l'endométriose  
+Ce sont des douleurs à type de coups d'aiguille ou d'étau irradiant le long des structures pelviennes.
+1. La fibrose endométriale entraîne une immobilité tissulaire douloureuse avec perte de fonction des organes  
+Traitée par auto-exercices, acupuncture, ostéopathie, yoga.
+1. Hypersensibilité centrale  
+Accessible à l'hypnose, psychothérapie, sexologie.
+1. Les douleurs inflammatoires sont surtout liées aux règles  
+Les AINS ne sont donc utilisés qu'en péri-menstruel.
+{{%/info%}}
+
 ### Abréviations
 
 **AMP:** assistance médicale à la procréation  
@@ -73,10 +87,12 @@ Dysménorrhée
 ### Interrogatoire
 
 - Dysménorrhées intenses
-  - Douleurs pelviennes chroniques menstruelles
+  - Douleurs pelviennes cycliques péri-menstruelles
+  - Type  
+  Parts nociceptive ou neuropathique.
   - Intensité ≥ 8 (EAN)
   - Résistance aux paliers 1
-  - Absentéisme
+  - Absentéisme scolaire/professionnel
   - Qualité de vie: {{< modal-btn modal-score-ehp5 >}}échelle EHP-5{{< /modal-btn >}}
   - Agenda des symptômes
 - Signes de lésions profondes
@@ -84,11 +100,16 @@ Dysménorrhée
   - Douleurs à la défécation à recrudescence cataméniale
   - Signes fonctionnels urinaires à recrudescence cataméniale  
   Dysurie, pollakiurie.
+- Troubles digestifs récurrents
 - Infertilité
+- Adolescente
+  - Temps sans les parents
+  - Recherche de violences
 
 ### Examen clinique
 
 - Examen gynécologique orienté
+  - Adapté à l'âge
   - Lésions vaginales bleutées pathognomoniques
   - Palpation de nodules  
   Au niveau des ligaments utérosacrés ou du cul-de-sac de Douglas
@@ -117,7 +138,7 @@ Pas de bilan biologique.
 
 ### Échographie pelvienne
 
-Dans le bilan initial, pour une évaluation de l'extension des lésions.  
+Par voie sus-pubienne dans le bilan initial, pour une évaluation de l'extension des lésions.  
 L'écho a les mêmes performances que l'IRM pour le diagnostic d'endométriome.
 
 L'échographie endovaginale peut faire partie du bilan de 2<sup>e</sup> intention.
@@ -147,13 +168,17 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
 ### Mesures générales
 
 - Antalgie
-  - Paliers 1  
-  Paracétamol voire AINS (ibuprofène ou naproxène) pendant ≥ 3 mois.
+  - Paliers 1 pendant ≥ 3 mois
+  - Paracétamol
+  - AINS en péri-menstruel uniquement  
+  Ibuprofène ou naproxène ± opioïdes si insuffisants.
   - Éviter les AINS au long cours
-  - Évaluation spécialisée en douleurs chronique  
-  Gynécologue, médecine de la douleur, sexologue, psychologue, assistant social.
+  - Évaluation spécialisée en douleurs chroniques  
+  Gynécologue, médecine de la douleur, sexologue, psychologue, assistant social.  
+  Principalement neuropathiques.
 - Autres
   - Acupuncture, ostéopathie, yoga
+  - Activité physique quotidienne avec exercices du bassin
   - Aucun régime ou supplémentation n'a de bénéfice prouvé
 - Association de patientes  
 [EndoFrance](https://www.endofrance.org/)
@@ -166,10 +191,12 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
   - Lévonorgestrel ou noréthistérone + éthinylestradiol 30 à 40 µg
   - Prise continue si aggravation dans la période d'interruption
 - DIU au lévonorgestrel 52 mg
+- Adolescente  
+COP ou microprogestative et IRM pelvienne avec avis spécialisé si échec.
 
-**Chez l'adolescente:** COP ou microprogestative et avis spécialisé si échec.
+Réévaluation sous quelques semaines pour tolérance-efficacité.
 
-**NB.** Pas de différence d'efficacité en augmentant la dose d'éthinylestradiol (EE).
+**NB.** Pas de différence d'efficacité en augmentant la dose d'éthinylestradiol (EE) > 40 µg.
 
 ### Traitements de deuxième intention
 
@@ -195,7 +222,7 @@ Accompagnement par une équipe d'[Assistance Médicale à la Procréation](https
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une endométriose" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion d'endométriose. Dr JB FRON d'après HAS 2017" >}}
+{{< mermaid title="Conduite à tenir devant une suspicion d'endométriose. Dr JB FRON d'après CNGOF/HAS 2017" >}}
 graph TB
   endometriose["<b>Suspicion d'endométriose</b><hr>- Dysménorrhées intenses<br>- Dyspareunies<br>- Douleurs pelviennes<br>non menstruelles<br>- Infertilité"] --> clinique("- Symptômes<br>- Évaluation du retentissement<br>(EAN, EHP-5, absentéisme)<br>- Examen gynécologique<br>- Échographie pelvienne")
   style endometriose stroke:#006ef4, stroke-width:1px
@@ -205,11 +232,13 @@ graph TB
           contraception -- Efficace --> poursuite(Poursuite sans bilan)
           contraception -- Résistance --> bilan
         souhaitGrossesse -- Oui --> bilan
-      indicationsBilan -- Oui --> bilan("<b>Bilan d'endométriose profonde</b><hr>- IRM pelvienne<br>&#177; Écho endovaginale")
+      indicationsBilan -- Oui --> bilan("<b>Bilan d'endométriose profonde</b><hr>- IRM pelvienne<br>&#177; Échographie endovaginale")
+        bilan --> specialiste(Avis gynécologique)
 {{< /mermaid >}}
 
 > DIU: stérilet  
-LNG: lévonorgestrel
+LNG: lévonorgestrel  
+SFR: signes fonctionnels urinaires
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-16T16:50:41+01:00
 publishdate = 2020-12-15
-lastmod = 2020-12-16
+lastmod = 2021-05-05
 specialites = ["dermatologie"]
 annees = "2018"
 sources = ["CEDEF", "CMIT"]
@@ -14,7 +14,7 @@ tags = ["gale"]
 anglais = ["Scabies"]
 sctid = "128869009"
 draft = false
-todo = "fix MD, collectivité, lire sources, revoir fiche patient, impétiginisation, ttt < 2 mois, source Prescrire"
+todo = "collectivité, impétiginisation, ttt < 2 mois, source Prescrire"
 +++
 
 {{%article-summary%}}
@@ -24,7 +24,7 @@ todo = "fix MD, collectivité, lire sources, revoir fiche patient, impétiginisa
 - Perméthrine en 1<sup>re</sup> intention
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Gale humaine
 : Contamination cutanée inter-humaine par le *sarcopte* (acarien *Sarcoptes scabiei* variété hominis). Les signes cliniques sont la conséquence à la fois de l’infestation parasitaire et de la réaction de l’organisme contre les sarcoptes et leurs déjections.  
@@ -241,37 +241,28 @@ Tous les sprays ascaricides doivent être utilisés dans des pièces aérées (f
 
 1. Dans la journée, le matin:  
 Retirez tout le linge de maison contaminé et faites un tas.  
-Pulvérisez du scabicides spray  pendant la journée sur toute la literie et oreillers puis quittez la pièce pendant 12 heures. Laissez la pièce avec les fenêtres ouvertes.  
-
-2. Coupez vous les ongles courts et brossez-les.  
-
+Pulvérisez du scabicides spray  pendant la journée sur toute la literie et oreillers puis quittez la pièce pendant 12 heures. Laissez la pièce avec les fenêtres ouvertes.
+2. Coupez vous les ongles courts et brossez-les.
 3. Lancez une machine à 60°C avec le linge de maison. Mettre des gants jetables pour étendre le linge propre.  
-
-4. Le soir: enfilez vos gants jetables pour mettre des draps propres et préparer des vêtements non fragiles pour la nuit.  
-
+4. Le soir: enfilez vos gants jetables pour mettre des draps propres et préparer des vêtements non fragiles pour la nuit.
 5. Dînez à 19h30 en prenant votre comprimé d'anti-histaminique puis:
-  - rassemblez tous les vêtements des 3 derniers jours, placez-les dans des sacs, ils seront exclus pour 4 jours. Fermez hermétiquement les sacs.  
-  - ne pas oublier : manteaux, serviettes de table, draps, plaids, taies d'oreiller, housse de couette, tapis de salon, tapis de bain, couvertures, chaussons, chaussures, gants, doudous, bonnets/chapeaux, foulards, casques et bijoux.  
-
-6. Prenez une douche, séchez vous avec une serviette propre, puis ne touchez plus la serviette, il faudra la laver à 60°C.  
-
+    - rassemblez tous les vêtements des 3 derniers jours, placez-les dans des sacs, ils seront exclus pour 4 jours. Fermez hermétiquement les sacs.  
+    - ne pas oublier : manteaux, serviettes de table, draps, plaids, taies d'oreiller, housse de couette, tapis de salon, tapis de bain, couvertures, chaussons, chaussures, gants, doudous, bonnets/chapeaux, foulards, casques et bijoux.
+6. Prenez une douche, séchez vous avec une serviette propre, puis ne touchez plus la serviette, il faudra la laver à 60°C.
 7. Étalez le tube entier sur tout le corps sauf le visage (Topiscab)
-  - Ne pas oublier : derrière les oreilles, la nuque, insistez sur les plis/aisselles et les organes, génitaux
-  - Attendez un peu que le produit sèche (si Spregal : ré-appliquez une 2e couche 15 minutes après)
-
-7. Enfilez un t-shirt à manches longues, pantalon, chaussettes propres, ne rien toucher !
-8. 22 heures: avalez le nombre de comprimés de Stromectol prescrit.
-9. Couchez vous dans les draps propres
+    - Ne pas oublier : derrière les oreilles, la nuque, insistez sur les plis/aisselles et les organes, génitaux
+    - Attendez un peu que le produit sèche (si Spregal : ré-appliquez une 2e couche 15 minutes après).
+8. Enfilez un t-shirt à manches longues, pantalon, chaussettes propres, ne rien toucher !
+9. 22 heures: avalez le nombre de comprimés de Stromectol prescrit.
+10. Couchez vous dans les draps propres
 
 #### Jour 2
 
 12 heures plus tard, le matin:
 
-1. prenez une douche, séchez-vous avec une serviette propre, vos vêtements de la nuit doivent être exclus 4 jours, lavez la serviette à 60°C.  
-
-2. Mettre des vêtements propres, ou non touchés plus de 4 jours avant.  
-
-3. Mettre des gants jetables : Retirez les draps et lavez les à 60°C 
+1. prenez une douche, séchez-vous avec une serviette propre, vos vêtements de la nuit doivent être exclus 4 jours, lavez la serviette à 60°C.
+2. Mettre des vêtements propres, ou non touchés plus de 4 jours avant.
+3. Mettre des gants jetables : Retirez les draps et lavez les à 60°C  
 Ouvrez la fenêtre et aspergez la literie et les oreillers, la couette, les canapés, les tapis d' ascaricide de façon systématique.  
 Changez intégralement de vêtements tous les jours.  
 
@@ -290,8 +281,8 @@ Si traitement oral: 2<sup>e</sup> prise orale du nombre de comprimés prescrits.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Pilly. Item 167 - UE 6 - Ectoparasitoses cutanées : gale et pédiculose. Ann Dermatol Venereol. 2018](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-167-nb.pdf)
-- [CEDEF. Item 167 - UE 6 - Ectoparasitoses cutanées : gale et pédiculose. Ann Dermatol Venereol. 2018](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2487.pdf)
+- [CMIT. Ectoparasitoses cutanées : gale et pédiculose. Item 167 - UE 6. E.PILLY 2020.](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-167-nb.pdf)
+- [CEDEF. Ectoparasitoses cutanées : gale et pédiculose. Item 167 - UE 6. 2017.](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2487.pdf)
 - [HCSP. Survenue de un ou plusieurs cas de gale. Conduite à tenir. 2012](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=312)
 - [Omedit Centre. Prise en charge et traitement des sujets atteints de gale. Mars 2010](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/6308.pdf)
 
