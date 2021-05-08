@@ -6,11 +6,11 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-17T20:27:29+02:00
 publishdate = 2020-07-17
-lastmod = 2020-07-17
+lastmod = 2021-05-08
 specialites = ["pediatrie"]
 annees = "2015"
-sources = ["SFN"]
-tags = ["vitamine K", "nouveau-né"]
+sources = ["SFNeonat"]
+tags = ["nourrisson", "vitamine K"]
 anglais = ["Vitamin K"]
 sctid = "65183007"
 qualite = "moyenne"
@@ -19,10 +19,13 @@ draft = false
 
 {{%article-summary%}}
 
+Vitamine K1 2 mg/0,2 mL, 1 ampoule à 4h, 4 jours et 4 semaines
+
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-La vitamine K1 prévient la **maladie hémorragique du nouveau-né (MHN)**, qui est maximale après la première semaine de vie et entraîne des hémorragies digestives ou des hématomes aux points de ponction.
+Vitamine K1
+: Elle prévient la **maladie hémorragique du nouveau-né (MHN)**, qui est maximale après la première semaine de vie et entraîne des hémorragies digestives ou des hématomes aux points de ponction.
 
 {{% /collapse %}}
 {{%collapse "Facteurs de risque de la maladie hémorragique du nouveau-né" %}}
@@ -36,33 +39,30 @@ La vitamine K1 prévient la **maladie hémorragique du nouveau-né (MHN)**, qui 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-**Mnémotechnique : administration à 4 heures, 4 jours, 4 semaines.**
+{{%info%}}Administration à 4 heures, 4 jours, 4 semaines{{%/info%}}
 
-**Prescrire** : 1 ampoule de vitamine K1 2mg/0,2 mL nourrissons buvable et injectable.
+**Prescrire**: 1 ampoule de vitamine K1 2 mg/0,2 mL nourrissons buvable et injectable.
 
 ### Enfant né à terme
 
-- En cas de sortie précoce de maternité (48h), la 2e ampoule peut être administrée avant la sortie
-- En allaitement artificiel, la 3e ampoule n’est pas obligatoire
+- En cas de sortie précoce de maternité (48h), la 2<sup>e</sup> ampoule peut être administrée avant la sortie
+- En allaitement artificiel, la <sup>e</sup> ampoule n’est pas obligatoire
 
 ### Autres situations
 
 La 1<sup>re</sup> ampoule doit être administrée durant la 1<sup>re</sup> heure de vie.
 Voir le tableau ci-dessous.
 
-{{< table title="Rythme d'administration de la vitamine K" >}}
+{{< table title="Rythme d'administration de la vitamine K1 en périnatal" >}}
 |               | Naissance     | J3-J4      | 1 mois     |
-|:-------------:|:-------------:|:----------:|:----------:|
-| Né à terme    | 2mg per os    | 2mg per os | 2mg per os |
-| Né à terme avec<br> FDR de MHN | 2mg per os<br> ou 1mg IVL   | 2mg per os<br> ou 1mg IM/IVL| 2mg per os<br> ou 1mg IM/IVL |
+|---------------|:-------------:|------------|------------|
+| Né à terme    | 2 mg per os    | 2 mg per os | 2 mg per os |
+| Né à terme avec<br> FDR de MHN | 2 mg per os<br>ou 1 mg IVL | 2 mg per os<br>ou 1 mg IM/IVL | 2 mg per os<br>ou 1 mg IM/IVL |
 {{< /table >}}
 
 {{% /collapse %}}
-{{%collapse "Informations du patient" %}}
+{{%collapse "Source" %}}
 
-{{% /collapse %}}
-{{%collapse "Sources" %}}
-
-- [Société Française de Néonatalogie. Vitamine K - Mise à jour des recommandations. Décembre 2015.](https://afpa.org/content/uploads/2017/07/4_-7_sfn_recommandations_vitamine_k_maj_2015.pdf)
+[Société Française de Néonatalogie. Vitamine K - Mise à jour des recommandations. Décembre 2015.](https://afpa.org/content/uploads/2017/07/4_-7_sfn_recommandations_vitamine_k_maj_2015.pdf)
 
 {{% /collapse %}}

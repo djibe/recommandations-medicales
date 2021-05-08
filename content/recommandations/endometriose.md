@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "activité physique bassin, contraceptions, information de la patiente, quid bilan IST/salpingite ?"
+todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité physique bassin, contraceptions, information de la patiente, quid bilan IST/salpingite ?"
 +++
 
 {{%article-summary%}}
@@ -213,13 +213,17 @@ Accompagnement par une équipe d'[Assistance Médicale à la Procréation](https
 {{% /collapse %}}
 {{%collapse "FMC" %}}
 
-{{< card-link title="Endométriose - L'affaire de tous" url="https://endometriose-affairedetous.com/" subtitle="Gratuit">}}
+{{< card-link title="Endométriose - L'affaire de tous" url="https://endometriose-affairedetous.com/" subtitle="MOOC gratuit">}}
 
 {{< youtube id="mRnCMWZMDhk" title="Diagnostic de l'endométriose (Dr Thierry Brillac)" >}}
 
 {{< youtube id="Fg2XYcw5Bk8" title="Douleur et endométriose (Dr Delphine Lhuillery)" >}}
 
-*Nouveaux cours à venir*
+{{< youtube id="1iWCCP_XHLI" title="Infertilité et endométriose (Pr Pietro Santulli)" >}}
+
+{{< youtube id="Pq_oTiL4yYo" title="Péri-ménopause et endométriose (Dr Louis Marcellin)" >}}
+
+*Nouveaux cours à venir*.
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une endométriose" "show" %}}
@@ -243,8 +247,19 @@ graph TB
 **SFR:** signes fonctionnels urinaires
 
 {{% /collapse %}}
+{{%collapse "Information de la patiente" %}}
+
+- [EndoFrance. Fascicule d'information](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/Informations-sur-lendome%CC%81triose-ENDOFRANCE-.pdf)
+- [EndoFrance. Comprendre l'endométriose (+25 ans)](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/Comprendre-lendome%CC%81triose-25-ans.pdf)
+- [EndoFrance. Comprendre l'endométriose (-25 ans)](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/Comprendre-lendome%CC%81triose-15-25-ans.pdf)
+- [EndoFrance. La BD sur l'endométriose](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/BD-Endome%CC%81triose.pdf)
+- [EndoFrance. L'échographie pelvienne](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/Le%CC%81chographie-pelvienne.pdf)
+- [EndoFrance. L'IRM pelvienne](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/LIRM.pdf)
+
+{{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [CNGOF, ARS IDF, PNS-MOOC. Endométriose : l'affaire de tous. Mai 2021.](https://endometriose-affairedetous.com/)
 - [Prescrire Rédaction. Endométriose douloureuse. En absence de projet de grossesse : paracétamol et AINS, voire estroprogestatif ou DIU au lévonorgestrel. Rev Prescrire 2019 ; 39 (433) : 833-841](https://prescrire.org/)
 - [Inserm. Endométriose. Dossiers d'information. 11/12/2018.](https://www.inserm.fr/information-en-sante/dossiers-information/endometriose)
 - [HAS et CNGOF. Prise en charge de l’endométriose. Recommandation de bonne pratique. Décembre 2017.](https://www.has-sante.fr/jcms/c_2819733/fr/prise-en-charge-de-l-endometriose)

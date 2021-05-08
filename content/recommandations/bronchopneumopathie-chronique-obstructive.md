@@ -85,7 +85,7 @@ Insuffisance respiratoire chronique
 **GOLD:** {{%lang%}}Global Initiative for Chronic Obstructive Lung Disease{{%/lang%}}  
 **LABA:** {{%lang%}}Long Acting ß2 Agent{{%/lang%}}, bêta-2-agoniste de longue durée d'action  
 **LAMA:** {{%lang%}}Long Acting Muscarinic Agent{{%/lang%}}, anticholinergique de longue durée d'action  
-**RR:** réadaptation respiratoire  
+**RR:** réadaptation respiratoire (ex réhabilitation respiratoire)  
 **VEMS:** volume expiré maximal à la première seconde ({{%lang%}}FEV1{{%/lang%}} en anglais)
 
 {{% /collapse %}}
@@ -175,7 +175,7 @@ Limitation des activités, arrêts de travail, activité physique, anxiété/dé
 - Pression artérielle, pouls, SpO<sub>2</sub>, poids, taille, IMC, périmètre cervical
 - Auscultation pulmonaire  
 Sibilants, tirage, cyanose.
-- Calcul du risque cardiovasculaire SCORE
+- Calcul du risque cardiovasculaire [SCORE](https://www.ldlcible.com/index.html)
 - [Dépister les apnées du sommeil](https://www.diabeclic.com/questionnaire-stop-bang)
 
 {{% /collapse %}}

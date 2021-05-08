@@ -249,7 +249,7 @@ Débuter à 12,5 µg/j, augmentation par paliers de 12 µg toutes les 3 semaines
   - Revenir aux doses habituelles dès l'accouchement sauf allaitement.  
 - **Coma myxœdémateux**  
 **Urgence thérapeutique** avec pronostic engagé (20-30% de décès).  
-Appeler le 15 pour transfert médicalisé en réanimation.
+Appeler le {{<phone>}}15{{</phone>}} pour transfert médicalisé en réanimation.
 
 ### Hypothyroïdie secondaire
 

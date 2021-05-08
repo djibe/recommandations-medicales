@@ -22,7 +22,7 @@ todo = "https://academic.oup.com/ehjcvp/article/5/1/37/5079054"
 {{%article-summary%}}
 
 - Interrogatoire et examen neurologique complet
-- Appel du 15 en cas d'hypertension grade 3 (PAS ≥ 180 mmHg ou PAD ≥ 110 mmHg) avec suspicion de souffrance viscérale
+- Appel du {{<phone>}}15{{</phone>}} en cas d'hypertension grade 3 (PAS ≥ 180 mmHg ou PAD ≥ 110 mmHg) avec suspicion de souffrance viscérale
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

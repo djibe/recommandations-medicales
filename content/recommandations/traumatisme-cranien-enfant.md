@@ -23,7 +23,7 @@ todo = "relecture"
 {{%article-summary%}}
 
 - Rechercher immédiatement les signes de gravité.
-- Appel du 15 en cas de signes de signe de gravité ou d'impression de gravité pour scanner cérébral.
+- Appel du {{<phone>}}15{{</phone>}} en cas de signes de signe de gravité ou d'impression de gravité pour scanner cérébral.
 - Remettre les [Consignes de surveillance à donner aux parents](/print/tc-enfant-consignes.pdf) dans les autres cas.
 
 {{%/article-summary%}}
@@ -148,13 +148,13 @@ La surveillance du traumatisme crânien léger à domicile est possible si:
 - L'examen ne donne pas d'impression de gravité.
 - Surveillance possible à domicile pendant 48 heures par les parents
 - Entourage adapté
-- Explications des signes devant amener à appeler le 15
+- Explications des signes devant amener à appeler le {{<phone>}}15{{</phone>}}
 - Remise des [Consignes de surveillance à donner aux parents](/print/tc-enfant-consignes.pdf)
 
 {{% /collapse %}}
 {{%collapse "Informations aux parents lors d'une PEC ambulatoire du TC léger" %}}
 
-Appeler le 15 en cas de:
+Appeler le {{<phone>}}15{{</phone>}} en cas de:
 
 - Perte de conscience ou baisse de vigilance telle la somnolence  
 Difficultés à garder les yeux ouverts.

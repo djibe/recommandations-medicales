@@ -59,7 +59,7 @@ Mortalité hospitalière: 5%
 {{%collapse "Signes de gravité" %}}
 
 {{%warning%}}
-Appel du 15 en présence d'au moins 1 parmi:
+Appel du {{<phone>}}15{{</phone>}} en présence d'au moins 1 parmi:
 
 - Hypotension artérielle
 - État de choc

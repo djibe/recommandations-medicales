@@ -16,7 +16,7 @@ sctid = "56717001"
 draft = false
 image = true
 imageSrc = "Jeune femme de 20 ans avec toux chronique et perte de poids. Cas clinique par Dr Hani Makky Al Salam, Radiopaedia.org, rID: 12437"
-todo = "https://erj.ersjournals.com/content/51/5/1702678"
+todo = "https://erj.ersjournals.com/content/51/5/1702678, mooc, lecture tubertest"
 +++
 
 {{%article-summary%}}

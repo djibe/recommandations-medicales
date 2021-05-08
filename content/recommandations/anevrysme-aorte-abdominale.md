@@ -20,10 +20,11 @@ imageSrc = "Photo de loudista sur Foter.com / CC BY"
 
 {{%article-summary%}}
 
-- Indications au dépistage par échodoppler:
-  - Homme de 65 à 75 ans avec tabagisme actif ou sevré depuis < 20 ans
-  - Homme de 50 à 75 ans avec antécédent familial d’AAA au 1er degré (parents/fratrie)
-  - En cas d’AOMI
+Indications au dépistage par échodoppler:
+
+- Homme de 65 à 75 ans avec tabagisme actif ou sevré depuis < 20 ans
+- Homme de 50 à 75 ans avec antécédent familial d’AAA au 1<sup>er</sup> degré (parents/fratrie)
+- AOMI
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -71,9 +72,9 @@ Imagerie complémentaire par angio-scanner ou angio-IRM si images anormales.
 - Exercice physique régulier
 - Dépistage annuel ou contrôle d’un diabète
 - Surveillance spécialisée régulière par angiologue ou cardiologue
-- Avis de chirurgien vasculaire quand diamètre > 50 mm  
-Le traitement est chirurgical (référence) ou endo-vasculaire.  
-Indications opératoires basées sur : diamètre > 5 cm, croissance > 10 mm/an, AAA symptomatique
+- Avis de chirurgien vasculaire quand diamètre > 50 mm
+  - Le traitement est chirurgical (référence) ou endo-vasculaire
+  - Indications opératoires basées sur: diamètre > 5 cm, croissance > 10 mm/an, AAA symptomatique
 
 **NB.** Le traitement des AAA < 50 mm n’a montré aucun bénéfice par rapport à l’abstention.
 

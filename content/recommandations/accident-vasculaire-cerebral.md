@@ -22,7 +22,7 @@ todo = "carnet automesure, rééduc, fiche standardisée du recueil événements
 {{%article-summary%}}
 
 - Considérer tout déficit neurologique brutal, transitoire ou prolongé, comme une urgence absolue
-- Urgence vitale, protocole FAST et appel du 15, allonger la victime, fiche pour le SAMU  
+- Urgence vitale, protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU  
 4h30 pour thrombolyser.
 - 1<sup>re</sup> cause de mortalité de la femme, 3<sup>e</sup> de l'homme
 - Post-AVC: aspirine, IEC, TZD, PA < 14/9, LDL < 1 g/L et contrôle des FRCV
@@ -98,9 +98,9 @@ Et déficit sensitif brutal (35%)
 
 {{%warning%}}
 
-- Appel du 15 pour transfert en UNV  
+- Appel du {{<phone>}}15{{</phone>}} pour transfert en UNV  
 Prise des constantes en même temps.  
-Si le patient appelle au cabinet, transférer l'appel au 15 et essayer de rester en ligne.
+Si le patient appelle au cabinet, transférer l'appel au {{<phone>}}15{{</phone>}} et essayer de rester en ligne.
 - Allonger et surveiller le patient
 - Rédiger pour le SAMU
   - Heure de début des symptômes
@@ -234,7 +234,7 @@ Le dossier de soin est partagé entre intervenants.
 Éduquer les personnes à risque cardiovasculaire (antécédents CV, HTA, diabète, FA, AOMI...) et leur entourage, mais aussi la population générale aux signes de l'AVC.
 
 - Savoir reconnaître l'AVC: FAST (Face Arm Speech Time).  
-Appeler le 15 en urgence vitale devant tout déficit indolore du visage-bras-parole et noter l'heure.
+Appeler le {{<phone>}}15{{</phone>}} en urgence vitale devant tout déficit indolore du visage-bras-parole et noter l'heure.
 - Même procédure si les symptômes régressent
 - Allonger la victime
 
@@ -249,7 +249,7 @@ ex: lorsqu’on demande à la personne de lever les deux bras devant elle, l’u
 - des troubles de la parole  
 ex: lorsqu’on demande à la personne de répéter une phrase, elle a des difficultés à parler ou à comprendre.
 
-Si vous êtes témoin d’un de ces 3 signes, réagissez. Appelez immédiatement le SAMU, faites le 15.
+Si vous êtes témoin d’un de ces 3 signes, réagissez. Appelez immédiatement le SAMU, faites le {{<phone>}}15{{</phone>}}.
 « AVC, agir vite c’est important »
 
 Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de troubles de l’équilibre, de maux de tête intenses ou d’une baisse de vision.

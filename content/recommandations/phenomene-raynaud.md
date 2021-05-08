@@ -16,7 +16,7 @@ sctid = ""
 draft = false
 image = false
 imageSrc = ""
-todo = "lire reco 2013, TSH ?"
+todo = "lire https://www.em-consulte.com/article/833156/article/bilan-etiologique-minimal-du-phenomene-de-raynaud%C2%A0, TSH ?"
 +++
 
 {{%article-summary%}}

@@ -1,7 +1,7 @@
 +++
-title = "L'ordinateur"
+title = "L'ordinateur au cabinet de médecine générale"
 prefix = ""
-shortname = "PC"
+shortname = "PC pour médecin"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-23T19:15:41+02:00
@@ -21,7 +21,7 @@ L'ordinateur (Mac ou PC) est essentiel au sein du cabinet afin de gérer à long
 
 Je ne parle ici que de l'ordinateur + écran. Un autre article présente les périphériques pour bien travailler (clavier/souris, imprimante).
 
-## L'ordinateur minimum pour le médecin généraliste
+{{%collapse "L'ordinateur minimum pour le médecin généraliste" %}}
 
 Je ne m'étendrai pas sur les Mac, qui ont une offre moindre avec très peu de logiciels métiers compatibles, pour des prix très marqués.
 
@@ -36,7 +36,8 @@ Windows 7 et 8 peuvent encore être mis à jour gratuitement vers Windows 10.
 - De très nombreuses prises USB  
 Comptez l'imprimante, les lecteurs de carte à puce pour la carte vitale, la carte CPS, souris, clavier, webcam...
 
-## Les pièges à éviter ou simplement à connaître pour un choix éclairé
+{{% /collapse %}}
+{{%collapse "Les pièges à éviter pour un choix éclairé" %}}
 
 ### Le Mac
 
@@ -50,6 +51,9 @@ Il fait joli, il y a moins de câbles, il est parfait... sur le bureau.
 
 Attention au nombre limité de ports USB qui termine avec un joli hub USB sur le bureau qui amène de joyeux conflits entre les appareils.
 
-## La configuration proposée pour travailler efficacement
+{{% /collapse %}}
+{{%collapse "La configuration proposée pour travailler efficacement" %}}
 
 Ce PC peut être assemblé sur mesure par les grands magasins avec la garantie dont vous avez besoin. Il a ce qu'il faut, est réparable pièce par pièce et coûte une bouchée de pain par rapports à ce qu'on vous vend. Il tiendra 10 ans.
+
+{{% /collapse %}}

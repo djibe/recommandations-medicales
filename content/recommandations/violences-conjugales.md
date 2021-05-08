@@ -28,7 +28,7 @@ todo = "lire sources, liste centre hébergement urgence, commissariat + proche, 
 - Conseiller
   - de déposer plainte
   - de naviguer sur internet en mode *Incognito*
-  - d'appeler le 15 ou d'aller aux Urgences à toute heure
+  - d'appeler le {{<phone>}}15{{</phone>}} ou d'aller aux Urgences à toute heure
 - [Declicviolence pour le médecin](https://declicviolence.fr/)
 
 {{%/article-summary%}}
@@ -164,7 +164,7 @@ todo = "lire sources, liste centre hébergement urgence, commissariat + proche, 
 {{% /collapse %}}
 {{%collapse "Situation jugée grave" %}}
 
-- Appel au 15 pour hospitalisation sans délai  
+- Appel au {{<phone>}}15{{</phone>}} pour hospitalisation sans délai  
 ou centre d'hébergement urgence.
 - Conseiller de déposer plainte  
 Police ou gendarmerie.
@@ -198,7 +198,7 @@ Même sans dépôt de plainte, pour demander une ordonnance de protection (pour 
 
 Informer toute victime de violence conjugale sur:
 
-- Appeler le 15 ou aller aux Urgences 24/7
+- Appeler le {{<phone>}}15{{</phone>}} ou aller aux Urgences 24/7
 - L'inciter à déposer plainte maintenant ou plus tard  
 Dès qu’elle se sentira prête et en sécurité pour le faire.
 - Conseiller d'appeler le 3919 (Violences Femmes Info)  

@@ -85,7 +85,7 @@ Examen clinique annuel en cas de DE avec :
 testicules (taille, consistance), pénis (prépuce, frein, phimosis, déformation, taille, mycose), toucher rectal après 50 ans, gynécomastie  
 - Cardio-vasculaire  
 Pression artérielle, pouls périphériques, souffles vasculaires.  
-Évaluation du risque Heart SCORE.
+Évaluation du risque [Heart SCORE](https://www.ldlcible.com/index.html).
 - Neurologique  
 Centré sur ROT, RCP, sensibilité des pieds, anesthésie en selle et des membres inférieurs, hypotension orthostatique.
 
