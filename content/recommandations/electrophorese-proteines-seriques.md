@@ -41,9 +41,9 @@ Indications à l'EPS:
 
 - Syndrome d’hyperviscosité  
 Dosage en urgence.
-- Infections à répétition des voies aériennes supérieures et pulmonaires.
-- Douleurs osseuses non traumatiques sans anomalies à l’examen radiologique standard.
-- Polyarthrite inexpliquée.
+- Infections à répétition des voies aériennes supérieures et pulmonaires
+- Douleurs osseuses non traumatiques sans anomalies à l’examen radiologique standard
+- Polyarthrite inexpliquée
 - Adénopathies
 - Splénomégalie
 - Neuropathie périphérique inexpliquée
@@ -60,6 +60,10 @@ Anémie, lymphopénie isolée ou hyperlymphocytose.
 Fracture vertébrale suspecte, fracture pathologique, géodes.
 
 > Source HAS 2017
+
+Et:
+
+- [Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}) (systématique)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

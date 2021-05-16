@@ -6,10 +6,10 @@ synonyms = ["Accident ischémique transitoire", "infarctus cérébral"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-25T14:04:00+02:00
 publishdate = 2021-01-25
-lastmod = 2021-05-02
+lastmod = 2021-05-16
 specialites = ["neurologie"]
-annees = "2018"
-sources = ["HAS"]
+annees = "2019"
+sources = ["ESC", "HAS"]
 tags = ["antiplaquettaire", "diabete", "HTA", "risque cardiovasculaire", "vertige"]
 anglais = ["Cerebrovascular accident"]
 sctid = "230690007"
@@ -25,7 +25,8 @@ todo = "carnet automesure, rééduc, fiche standardisée du recueil événements
 - Urgence vitale, protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU  
 4h30 pour thrombolyser.
 - 1<sup>re</sup> cause de mortalité de la femme, 3<sup>e</sup> de l'homme
-- Post-AVC: aspirine, IEC, TZD, PA < 14/9, LDL < 1 g/L et contrôle des FRCV
+- Un antécédent d'AIT ou d'AVC détermine un {{< modal-btn modal-risque-cardiovasculaire >}}très haut RCV{{< /modal-btn >}}
+- Post-AVC: aspirine, IEC, TZD, PA < 14/9, LDL < 0,55 g/L et contrôle des FRCV
 - Bilan spécialisé cardiaque et neurovasculaire
 - [Éducation de toute la population](https://solidarites-sante.gouv.fr/IMG/png/infographieavcsignes.png)
 
@@ -36,6 +37,7 @@ Accident vasculaire cérébral (AVC)
 : Déficit neurologique survenant par interruption de la vascularisation cérébrale ou parfois par un saignement intra-cérébral (hémorragie intra-parenchymateuse HIP).
 : 2 types: l'accident ischémique (AIC, 80%) par caillot occlusif (athérosclérose, embole cardiaque)  
 et l'accident vasculaire hémorragique par rupture artérielle (HTA, anévrisme, MAV, tumeur).
+: La survenue d'un AVC/AIT détermine un très haut risque cardiovasculaire.
 
 Accident ischémique transitoire (AIT)
 : **Urgence vitale** par déficit neurologique ou rétinien transitoire (typiquement < 1h) sans anomalie à l'imagerie cérébrale.  
@@ -52,7 +54,8 @@ Accident ischémique transitoire (AIT)
 **HTA:** hypertension artérielle  
 **MAPA:** mesure ambulatoire de la pression artérielle sur 24 heures ou Holter tensionnel  
 **MAV:** malformation artério-veineuse  
-**PAS:** Pression artérielle systolique  
+**PAS:** pression artérielle systolique  
+**RCV:** risque cardiovasculaire  
 **TZD:** diurétiques thiazidiques  
 **UNV:** Unité neuro-vasculaire
 
@@ -164,16 +167,15 @@ Si non cardioembolique. Clopidogrel si allergie.
 - Pression artérielle  
   - **Cible < 140/90 mmHg** avec surveillance par **automesure tensionnelle** voire MAPA.
   - Molécules: thiazidiques, IEC, dihydropyridines.
-- LDL
-  - **Cible < 1 g/L**
-  - Cible plus stricte si haut risque ou très haut risque (antécédent cardiaque, rénal, [diabète]({{< relref "diabete-type-2.md" >}}))
+- LDL cible < 0,55 g/L et réduction ≥ 50% ({{< modal-btn modal-risque-cardiovasculaire >}}très haut RCV{{< /modal-btn >}})
 - Arrêt du tabac
 - Arrêt de l'alcool
 - Perte de poids si surpoids
+- Activité physique 30-60 min/j
 - HbA1c
-  - Cible < 8% en AVC récent (< 6 mois)
+  - AVC < 6 mois: cible < 8%
   - Après 6 mois, [cible réadaptée selon le profil]({{< relref "diabete-type-2.md" >}}) (souvent 7%)
-- ALD  
+- [ALD]({{< relref "affection-longue-duree.md" >}})  
 Si séquelles neurologique nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.
 
 {{% /collapse %}}
@@ -257,7 +259,9 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Gabet A. et al; Santé Publique France. Connaissance de l'accident vasculaire cérébral et de ses symptômes en France en 2019.Bulletin épidémiologique hebdomadaire, 2020, n°. 28, p. 554-561.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/connaissance-de-l-accident-vasculaire-cerebral-et-de-ses-symptomes-en-france-en-2019)
+- {{< references/esc-dyslipidemie >}}
+- {{< references/sfd-dt2 >}}
+- [Gabet A. et al; Santé Publique France. Connaissance de l'accident vasculaire cérébral et de ses symptômes en France en 2019. Bulletin épidémiologique hebdomadaire, 2020, n°. 28, p. 554-561.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/connaissance-de-l-accident-vasculaire-cerebral-et-de-ses-symptomes-en-france-en-2019)
 - [HAS. Prévention vasculaire après un infarctus cérébral ou un accident ischémique transitoire. 13/06/2018.](https://www.has-sante.fr/jcms/c_1252051/fr/prevention-vasculaire-apres-un-infarctus-cerebral-ou-un-accident-ischemique-transitoire)
 - [Schnitzler A. et al; Santé Publique France. Bulletin Epidémiologique Hebdomadaire, 2018, n°. 29, p. 595-601.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/impact-de-la-reeducation-a-la-phase-subaigue-d-un-accident-vasculaire-cerebral-en-france-en-2016)
 - [Lecoffre C. et al; Santé Publique France. L'accident vasculaire cérébral en France : patients hospitalisés pour AVC en 2014 et évolutions 2008-2014. Bulletin Epidémiologique Hebdomadaire, 2017, n°. 5, p. 84-94 ](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/l-accident-vasculaire-cerebral-en-france-patients-hospitalises-pour-avc-en-2014-et-evolutions-2008-2014)
@@ -269,5 +273,10 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 {{% modal title="Score NIHSS" id="modal-score-nihss" size="lg"%}}
 
 {{< scores/nihss >}}
+
+{{% /modal %}}
+{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-risque-cardiovasculaire"%}}
+
+{{< clinique/risque-cardiovasculaire >}}
 
 {{% /modal %}}

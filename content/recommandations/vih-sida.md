@@ -388,7 +388,7 @@ Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+- {{< references/calendrier-vaccinal >}}
 - [CMIT. Infection à VIH. Item 165 - UE6 165. ECN.Pilly 2020.](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-165-nb.pdf)
 - [Cazein F. et al. Activité de dépistage du VIH et circonstances de découverte de l’infection à VIH, France 2018. Bull Epidémiol Hebd. 2019;(31-32):615-24.](http://beh.santepubliquefrance.fr/beh/2019/31-32/2019_31-32_1.html)
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)

@@ -6,14 +6,15 @@ synonyms = ["Maladie de Raynaud", "syndrome de Raynaud"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-04T10:57:00+02:00
 publishdate = 2021-05-04
-lastmod = 2021-05-04
+lastmod = 2021-05-11
 specialites = ["medecine interne"]
 annees = "2018"
-sources = ["CEDEF"]
+sources = ["CEDEF", "SFMV"]
 tags = []
-anglais = []
-sctid = ""
+anglais = ["Raynaud's phenomenon"]
+sctid = "266261006"
 draft = false
+flowchart = true
 image = false
 imageSrc = ""
 todo = "lire https://www.em-consulte.com/article/833156/article/bilan-etiologique-minimal-du-phenomene-de-raynaud%C2%A0, TSH ?"
@@ -102,7 +103,7 @@ Recherche une cause secondaire au phénomène de Raynaud:
     - Phénomène de Raynaud quasi constant, précoce et bilatéral sans phase hyperhémique rouge
     - Doigts boudinés, sclérodactylie, calcinose des doigts, cicatrice rétractile d'ulcère pulpaire, télangiectasies des doigts/visage (CREST).
     - Pouls radiaux, pression artérielle aux 2 bras, manœuvre d'Allen (clampage séquentiel des artères de la main), auscultation pulmonaire (crépitants) et palpation thyroïdienne.
-1. Maladie de Buerger (thromboangéiteoblitérante)
+1. Maladie de Buerger (thromboangéite oblitérante)
     - Artériopathie distale non athéromateuse
     - Jeune < 45 ans fumeur tabac/cannabis
     - Abolition des pouls, TVS/TVP, ischémies hyperalgiques de l'hallux
@@ -147,7 +148,7 @@ Nécessité de surveillance et de bilan complémentaire.
   - Cyanose permanente, froide, indolore, majorée au froid
   - Hyperhidrose souvent associée
   - Stase capillaro-veinulaire bénigne
-- Erythermalgie
+- Érythermalgie
   - Acrosyndrome paroxystique déclenché par la chaleur et l'effort
   - Extrémités rouges, chaudes, douloureuses
   - Étiologie: idiopathique, syndrome myéloprolifératif ou traitement vasodilatateur
@@ -184,7 +185,7 @@ Par l'angiologue: recherche une micro-angiopathie spécifique débutante de scl�
 ### En signes d'alerte
 
 - Radiographie des mains, pieds et thorax
-- Anticorps anticorps anti-RiboNucléoProtéine
+- Anticorps anti-RiboNucléoProtéine
 - Anticorps anti-cardiolipine
 - Cryoglobuline
 - Echodoppler des artères des membres supérieurs
@@ -207,6 +208,24 @@ Suivi par l'interniste.
 - Reconnaissance en maladie professionnelle possible
 
 {{% /collapse %}}
+{{%collapse "Conduite à tenir devant un phénomène de Raynaud" "show" %}}
+
+{{< mermaid title="Conduite à tenir devant un phénomène de Raynaud. Dr JB FRON d'après SFMV 2013" >}}
+graph TB
+susp[Suspicion de phénomène de Raynaud]
+style susp stroke:#006ef4, stroke-width:1px
+  susp --> diagnostic("Diagnostic clinique de<br>phénomène de Raynaud")
+  susp --> differentiel("Diagnostic différentiel<hr>- Acrocyanose<br>- Érythermalgie<br>- Engelures<br>- Algodystrophie<br>- Canal carpien<br>- Défilé thoracique<br>- Sténose artérielle MS")
+    diagnostic --> gravite("Signes d'alerte ?<hr>- Invalidant et pluriquotidien<br>- Température modérée<br>- Sans amélioration estivale<br>- Début +40 ans<br>- Atteinte des pouces<br>- Aggravation inexpliquée<br>- Ulcération digitale<br>- Télangiectasies, sclérodactylie<br>- Purpura<br>- Xérophtalmie<br>- Tbles déglutition<br>- Arthralgies<br>- Souffle vasculaire, pouls non perçu<br>- Fièvre persistante<br>- Neuropathie")
+    gravite -- Oui --> bilanComp("Bilan systématique et<hr>- Rx mains, pieds, thorax<br>- Anti-RNP<br>- Anti-cardiolipine<br>- Cryoglobuline<br>- Doppler artères MS")
+      bilanComp --> interniste(Interniste)
+    gravite -- Non --> bilan("Bilan systématique<hr>- NFS, VS, CRP<br>- EPS<br>- AAN<br>- Anti-scl70, anti-centromères<br>- FR<br>- Capillaroscopie")
+      bilan -- Normal --> maladie("Maladie de Raynaud<br>Mesures d'hygiène<br>Voire nifédipine LP")
+        maladie -.-> aggravation(Aggravation) --> interniste
+      bilan -- Anormal --> interniste
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%collapse "Sources" %}}
 
 - [CEDEF. Acrosyndromes. Phénomène de Raynaud, érythermalgie, acrocyanose, engelures, ischémie digitale. Item 237. UE8. 2017.](https://undf.cedef.org/fr/document/Acrosyndromes.-Ph%C3%A9nom%C3%A8ne-de-Raynaud,-%C3%A9rythermalgie,-acrocyanose,-engelures,-isch%C3%A9mie-digitale)

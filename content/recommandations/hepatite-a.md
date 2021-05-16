@@ -104,7 +104,7 @@ Rappel à 6 mois ou plus selon la spécialité administrée.
 
 - [Organisation Mondiale de la Santé. Hépatite A. 27/07/2020.](https://www.who.int/fr/news-room/fact-sheets/detail/hepatitis-a)
 - [Vaccination Info Service Professionnels. Hépatite A. 21/04/2020](https://professionnels.vaccination-info-service.fr/Maladies-et-leurs-vaccins/Hepatite-A)
-- [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+- {{< references/calendrier-vaccinal >}}
 - [Ministère de la Santé. L'hépatite A. 13/07/2016.](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/article/l-hepatite-a)
 
 {{% /collapse %}}

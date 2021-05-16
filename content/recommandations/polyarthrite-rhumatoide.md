@@ -268,7 +268,7 @@ VS, CRP, BU.
 EVA, réveils nocturnes, durée de la raideur.
 - Radiographies  
 Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
-- Correction des facteurs de risque cardiovasculaire et risque [SCORE](https://www.ldlcible.com/index.html)
+- Correction des facteurs de risque cardiovasculaire et calcul du {{< scores/score >}}
 
 ### Pour en savoir plus: suivi par le rhumatologue
 

@@ -45,9 +45,11 @@ On retrouve fréquemment un terrain atopique.
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
 
-- 30% des nourrisson atteints chaque hiver (pic chez les 2 à 8 mois).
-- Taux d'hospitalisation 2010 de 0,6/1000, hétérogénéité selon les centres (45% d'hospitalisations à La Roche-Guyon).
-- 1 à 2% de cas graves.
+- 30% des nourrisson atteints chaque hiver  
+Pic chez les 2 à 8 mois.
+- Taux d'hospitalisation: 0,6/1000 (2010)  
+Hétérogénéité selon les centres.
+- 1 à 2% de cas graves
 
 {{% /collapse %}}
 {{%collapse "Complications" %}}

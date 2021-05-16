@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-03T13:12:00+02:00
 publishdate = 2021-04-05
-lastmod = 2021-05-05
+lastmod = 2021-05-16
 specialites = ["gynecologie-obstetrique"]
 annees = "2017"
 sources = ["CNGOF", "HAS"]
@@ -187,12 +187,15 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
 
 ### Traitements de première intention
 
+{{%info%}}
+
 - Contraception œstroprogestative (COP)
   - Lévonorgestrel ou noréthistérone + éthinylestradiol 30 à 40 µg
   - Prise continue si aggravation dans la période d'interruption
 - DIU au lévonorgestrel 52 mg
 - Adolescente  
 COP ou microprogestative et IRM pelvienne avec avis spécialisé si échec.
+{{%/info%}}
 
 Réévaluation sous quelques semaines pour tolérance-efficacité.
 
@@ -213,7 +216,7 @@ Accompagnement par une équipe d'[Assistance Médicale à la Procréation](https
 {{% /collapse %}}
 {{%collapse "FMC" %}}
 
-{{< card-link title="Endométriose - L'affaire de tous" url="https://endometriose-affairedetous.com/" subtitle="MOOC gratuit">}}
+{{< card-link title="Endométriose - L'affaire de tous" url="https://pns-mooc.com/fr/mooc/19/presentation" subtitle="MOOC gratuit">}}
 
 {{< youtube id="mRnCMWZMDhk" title="Diagnostic de l'endométriose (Dr Thierry Brillac)" >}}
 
@@ -222,8 +225,6 @@ Accompagnement par une équipe d'[Assistance Médicale à la Procréation](https
 {{< youtube id="1iWCCP_XHLI" title="Infertilité et endométriose (Pr Pietro Santulli)" >}}
 
 {{< youtube id="Pq_oTiL4yYo" title="Péri-ménopause et endométriose (Dr Louis Marcellin)" >}}
-
-*Nouveaux cours à venir*.
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une endométriose" "show" %}}

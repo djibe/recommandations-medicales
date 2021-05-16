@@ -199,7 +199,7 @@ Persistance de douleurs neuropathiques d'un dermatome atteint par un zona.
 - [Prescrire Redaction. Zona. L'essentiel sur les soins de premier choix. Premiers choix Prescrire. Mars 2021.](https://prescrire.org/)
 - [Prescrire Redaction. Douleurs post-zostériennes. Premiers choix Prescrire. Avril 2021.](https://prescrire.org/)
 - [SFORL. Prise en charge de la Paralysie Faciale Idiopathique à la phase aiguë chez l’adulte. 2020.](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-de-la-Paralysie-Faciale-Idiopathique-%C3%A0-la-phase-aigu%C3%AB-chez-l-adulte-2020.pdf)
-- [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+- {{< references/calendrier-vaccinal >}}
 - [CEDEF. Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 - UE 6. 2017.](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2486.pdf)
 - [SPILF. Prise en charge des infections à VZV. Méd Mal Infect. 1998 ; 28: 1-8](https://www.infectiologie.com/UserFiles/File/medias/_documents/consensus/vzv98.pdf)
 

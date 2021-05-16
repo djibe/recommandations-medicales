@@ -18,7 +18,7 @@ draft = false
 slider = true
 image = true
 imageSrc = "Illustration de Freepik"
-todo = "https://erj.ersjournals.com/content/50/3/1602265, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, planification des soins futurs et les directives anticipées (43), travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, a1antitrypsine"
+todo = "SPLF 2021, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, planification des soins futurs et les directives anticipées (43), travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, a1antitrypsine"
 +++
 
 {{%article-summary%}}
@@ -175,7 +175,7 @@ Limitation des activités, arrêts de travail, activité physique, anxiété/dé
 - Pression artérielle, pouls, SpO<sub>2</sub>, poids, taille, IMC, périmètre cervical
 - Auscultation pulmonaire  
 Sibilants, tirage, cyanose.
-- Calcul du risque cardiovasculaire [SCORE](https://www.ldlcible.com/index.html)
+- Calcul du risque cardiovasculaire {{< scores/score >}}
 - [Dépister les apnées du sommeil](https://www.diabeclic.com/questionnaire-stop-bang)
 
 {{% /collapse %}}

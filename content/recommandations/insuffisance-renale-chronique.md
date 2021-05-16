@@ -6,10 +6,10 @@ synonyms = ["et maladie rénale chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2018-11-28"
+lastmod = "2021-05-16"
 specialites = ["nephrologie"]
-annees = "2012"
-sources = ["HAS"]
+annees = "2019"
+sources = ["ESC", "HAS"]
 tags = ["depistage", "diabete", "HTA", "insuffisance renale", "risque cardiovasculaire"]
 anglais = ["Renal failure syndrome"]
 sctid = "42399005"
@@ -23,8 +23,9 @@ todo = "etiologie + manque, consultation dediee Coter C + ALD ???"
 
 {{% article-summary %}}
 
-- Dépistage annuel des populations à risque par créatininémie + albuminurie sur échantillon.
-- Le diagnostic est biologique.
+- Dépistage annuel des populations à risque par créatininémie + albuminurie sur échantillon
+- Le diagnostic est biologique
+- {{< modal-btn modal-risque-cardiovasculaire >}}Risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Néphroprotection  
 IEC, contrôle strict des facteurs de risque cardiovasculaires.
 
@@ -35,20 +36,20 @@ Maladie rénale chronique (MRC)
 : Présence d'une **insuffisance rénale chronique** (IRC):  
 Diminution du débit de filtration glomérulaire (DFG ou clairance) < 60 mL/min/1,73 m² (formule CKD-EPI)  
 OU présence ≥ 1 **marqueur d'atteinte rénale** persistant plus de 3 mois:  
-\- Protéinurie ou albuminurie  
-\- Hématurie > 10/mm³ (hors cause urologique)  
-\- Leucocyturie > 10/mm³  
-\- Anomalie morphologique à l’échographie rénale  
-Asymétrie de taille, contours bosselés, reins de petite taille/gros reins polykystiques, néphrocalcinose, kyste.
+    - Protéinurie ou albuminurie  
+    - Hématurie > 10/mm³ (hors cause urologique)  
+    - Leucocyturie > 10/mm³  
+    - Anomalie morphologique à l’échographie rénale  
+    Asymétrie de taille, contours bosselés, reins de petite taille/gros reins polykystiques, néphrocalcinose, kyste.
 
 Insuffisance rénale chronique terminale (IRCT)
-: Insuffisance rénale chronique avec un débit de filtration glomérulaire < 15 mL/min/1,73 m², dite de stade 5 ou terminale.
+: Insuffisance rénale chronique avec un débit de filtration glomérulaire < 15 mL/min/1,73 m² (*stade 5* ou *terminale*).
 
 ### Abréviations
 
-**DFG:** Débit de filtration glomérulaire
-Insuffisance rénale chronique terminale ()
-**IRCT:** Insuffisance rénale chronique terminale
+**DFG:** débit de filtration glomérulaire  
+**IRC:** insuffisance rénale chronique  
+**IRCT:** insuffisance rénale chronique terminale
 
 ### Épidémiologie
 
@@ -82,8 +83,9 @@ Produit de contraste iodés, chimiothérapie, radiothérapie.
 
 ### Comment dépister la maladie rénale chronique ?
 
-- Créatininémie avec clairance CKD-EPI.
-- Albuminurie sur échantillon (Albuminurie/créatininurie - A/C). Recueil à tout moment de la journée.
+- Créatininémie avec clairance CKD-EPI
+- Albuminurie sur échantillon (Albuminurie/créatininurie - A/C)  
+Recueil à tout moment de la journée.
 
 En cas d'anomalie (hématurie, protéinurie, clairance < 60), le bilan doit être **recontrôlé à 3 mois** dans le même laboratoire. La persistance à 3 mois de l'anomalie affirme la maladie rénale chronique.  
 Le recours au néphrologue est recommandé en cas de doute sur la nature de la maladie rénale.
@@ -94,12 +96,13 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 ### Interrogatoire
 
 - Antécédents personnels et familiaux de maladie rénale ou urinaire
-- Antécédents cardio-vasculaires, diabète, FRCV, tabagisme
+- Antécédents cardiovasculaires, diabète, FRCV, tabagisme
 - Exposition aux néphrotoxiques
   - Professionnelle (plomb, mercure, cadmium, solvants organiques)
   - Médicamenteuse (Aminoside, produit de contraste iodé, chimiothérapie)
   - Alimentaire (phytothérapie, herbes chinoises)
 - Résultats antérieurs de créatininémie et analyses urinaires
+- {{< modal-btn modal-risque-cardiovasculaire >}}Risque cardiovasculaire{{< /modal-btn >}}
 
 ### Évaluer le stade la maladie rénale chronique
 
@@ -172,11 +175,19 @@ Ferritinémie + CRP.
 - Précautions pour injections d'iode ou Gadolinium
 - Précautions professionnelles (médecin du travail)
 
-#### Cardio-vasculaire
+#### Cardiovasculaire
 
 - Arrêt du tabac
-- Auto-mesure tensionnelle et suivi poids
-- Lutte surpoids et sédentarité, activité physique régulière
+- {{< modal-btn modal-risque-cardiovasculaire >}}Risque cardiovasculaire{{< /modal-btn >}}
+  - Élevé: LDL cible < 0,7 g/L et réduction ≥ 50%
+  - Très élevé: LDL cible < 0,55 g/L et réduction ≥ 50%
+- Si diabète
+  - HbA1c cible ≤ 7%
+  - IRC sévère ou terminale: HbA1c ≤ 8%
+  - Attention au risque hypoglycémique (SU, glinide, insuline)
+- Automesure tensionnelle et suivi du poids
+- Lutte surpoids et sédentarité
+- Activité physique: 30-60 min/j
 
 #### Diététique
 
@@ -211,9 +222,15 @@ bilan --> 7(Avis néphro)
 {{< /mermaid >}}
 
 {{%/collapse%}}
-{{%collapse "Source" %}}
+{{%collapse "Sources" %}}
 
-[HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012.](
-https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
+- {{< references/esc-dyslipidemie >}}
+- {{< references/sfd-dt2 >}}
+- [HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
 
 {{%/collapse%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-risque-cardiovasculaire"%}}
+
+{{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}

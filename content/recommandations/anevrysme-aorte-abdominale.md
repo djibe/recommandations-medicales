@@ -58,7 +58,7 @@ Pour l’histoire: Einstein et de Gaulle en sont morts.
 
 - Homme de 65 à 75 ans avec tabagisme actif ou sevré depuis < 20 ans
 - Homme de 50 à 75 ans avec antécédent familial d’AAA au 1er degré (parents/fratrie)
-- En cas d’AOMI (ESC 2017 PAD)
+- En cas d’AOMI (ESC 2017)
 
 Imagerie complémentaire par angio-scanner ou angio-IRM si images anormales.
 

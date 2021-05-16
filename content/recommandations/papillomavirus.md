@@ -130,7 +130,7 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 {{%collapse "Sources" %}}
 
 - [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. Décembre 2020.](https://www.e-cancer.fr/Professionnels-de-sante/Facteurs-de-risque-et-de-protection/Agents-infectieux/Prevenir-les-cancers-lies-aux-HPV)
-- [Ministère de la Santé. Calendrier des vaccinations et recommandations vaccinales 2020. Mars 2020.](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+- {{< references/calendrier-vaccinal >}}
 - [Abramovitz L. Vaccin contre le Papilloma virus : De l’AMM au pragmatisme. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/
 )
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017.](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
