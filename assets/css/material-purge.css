@@ -3863,6 +3863,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   z-index: 1;
 }
 
+.text-right {
+  text-align: right !important;
+}
+
 .text-center {
   text-align: center !important;
 }

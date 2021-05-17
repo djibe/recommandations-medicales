@@ -362,7 +362,7 @@ Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
 ### VIH et suivi cardiovasculaire
 
 - VIH est un *facteur de risque cardiovasculaire*  
-Évaluation [Heart SCORE](https://www.ldlcible.com/index.html) et pression artérielle contrôlés 1/an.
+Évaluation {{< scores/score >}} et pression artérielle contrôlés 1/an.
 - Si maladie cardiovasculaire: risque très élevé
 - Bilan lipidique
   - Contrôlé tous les 5 ans  

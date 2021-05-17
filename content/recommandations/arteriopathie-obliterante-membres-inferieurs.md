@@ -17,16 +17,16 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "statines, score PREVALENT >= 7, Questionnaire d’Édimbourg, BEH, https://pubmed.ncbi.nlm.nih.gov/12900694/, https://pubmed.ncbi.nlm.nih.gov/8437031/, centres réadapt vasculaire, ETP, QDV EQ-5D, SFMV p. 119 ++++++++"
+todo = "score PREVALENT >= 7, Questionnaire d’Édimbourg, BEH, centres réadapt vasculaire, ETP, QDV EQ-5D, association patient"
 +++
 
 {{%article-summary%}}
 
-- Dépister par IPS largement: ≥ 65 ans, ≥ 50 ans avec ATCD familial ou ≥ 1 autre FRCV, claudication vasculaire, athérome, AAA, IRC, IC ...
-- Classe {{< modal-btn modal-risque-cardiovasculaire >}}très haut risque cardiovasculaire{{< /modal-btn >}}
+- Dépister par IPS largement: ≥ 65 ans, ≥ 50 ans avec ATCD familial ou ≥ 1 autre FRCV, claudication vasculaire, athérome, AAA, IRC, IC, RCV élevé ...
+- Définit un {{< modal-btn modal-risque-cardiovasculaire >}}très haut risque cardiovasculaire{{< /modal-btn >}}
 - Bilan des autres localisations athéromateuses
 - Suivi cardiologue et angiologue
-- Statine, IEC, sevrage tabagique, régime méditerranéen, réadaptation physique supervisée ...
+- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}}, IEC, sevrage tabagique, régime méditerranéen, réadaptation physique supervisée ...
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -44,12 +44,12 @@ AOMI masquée
 : Artériopathie asymptomatique liée à une neuropathie ou un niveau d'activité physique insuffisant pour révéler la claudication ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), insuffisance cardiaque, sédentarité).
 
 Ischémie permanente chronique
-: Présence de douleurs ischémiques des membres inférieurs au repos avec ou sans ulcères, gangrène ou infection.  
+: Présence de douleurs ischémiques des membres inférieurs *au repos* avec ou sans ulcères, gangrène ou infection.  
 Une neuropathie doit être éliminée lorsque les douleurs sont absentes.
 : Critère diagnostique: PAS cheville ≤ 50 mmHg pour un non spécialiste ou TcPO<sub>2</sub> < 30 mmHg (SFMV 2020).
 
 Blue toe syndrome
-: Ischémie aigue d'un ou plusieurs orteils par embolie athéroscléreuse à l'origine d'une coloration cyanosée de l'orteil. Urgence thérapeutique.
+: Ischémie aiguë d'un ou plusieurs orteils par embolie athéroscléreuse à l'origine d'une coloration cyanosée de l'orteil. Urgence thérapeutique.
 
 ### Abréviations
 
@@ -90,7 +90,7 @@ Blue toe syndrome
   - Insuffisance cardiaque
 - Asymptomatique à risque d'AOMI
   - **Âge ≥ 65 ans**
-  - Âge < 65 ans avec {{< modal-btn modal-risque-cardiovasculaire >}}RCV élevé{{< /modal-btn >}}
+  - {{< modal-btn modal-risque-cardiovasculaire >}}RCV élevé{{< /modal-btn >}}
   - Âge ≥ 50 ans avec antécédent familial d’AOMI
   - Âge ≥ 50 ans avec ≥ 1 autre facteur de risque cardiovasculaire (SFMV 2020)
 
@@ -102,7 +102,7 @@ Le dépistage de l’artériopathie par l’IPS est à **renouveler tous les 5 a
 
 ### Comment ?
 
-Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se 75%, Spe 86%) et de l'index de pression orteil/bras < 0,7 (SFMV 2020).  
+Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se 75%, Spe 86%) et de l'*index de pression orteil/bras* ≤ 0,7 (SFMV 2020).  
 {{%class%}}IPS = rapport PAS cheville / PAS humérale.{{%/class%}}  
 **Valeurs normales de l'IPS:** 0,91-1,40.
 
@@ -133,7 +133,7 @@ AOMI, coronaropathie, cérébrovasculaire, [anévrysme aortique]({{< relref "ane
 
 **NB.** Si neuropathie, sédentarité ou intolérance à l'exercice, la claudication peut être indolore (*AOMI masquée*).
 
-### Clinique
+### Examen Clinique
 
 - Pression artérielle aux 2 bras  
 {{%class%}}Une différence ≥ 15 mmHg est un marqueur de maladie cardiovasculaire et de décès.{{%/class%}}
@@ -210,7 +210,7 @@ Dépiste une coronaropathie ou un trouble du rythme associé.
 - [ALD n°3]({{< relref "affection-longue-duree.md" >}})  
 Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant nécessité revascularisation ou amputation.
 - Arrêt du tabac
-- Statine systématique
+- {{< modal-btn modal-statine-intensite >}}Statine systématique{{< /modal-btn >}}
   - LDL cible < **0,55 g/L** avec contrôle annuel
   - Ajout d'ézétimibe voire evolocumab sur avis spécialisé
 - Clopidogrel 75 mg/j
@@ -257,9 +257,14 @@ Suivi déterminé par l'angiologue après revascularisation.
 
 {{< mermaid title="Conduite à tenir pour le dépistage de l'AOMI. Dr JB FRON d'après SFMV 2020 et ESC 2017" >}}
 graph TB
-depister["Personne à risque"] --> clinique(Clinique)
+depister["Personne à risque<br>ou symptomatique<hr>- Suspicion clinique<br>- Athérome connu<br>- AAA<br>- IRC<br>- IC<br>- Âge &ge; 65 ans<br>- RCV élevé<br>- &ge; 50 ans avec ATCD familial AOMI<br>ou &ge; 1 autre FRCV"] --> clinique("- Interrogatoire<br>- Examen clinique")
 style depister stroke:#006ef4, stroke-width:1px
-  clinique --> ips
+  clinique --> ips("Mesure de l'IPS<br>et IOB &le; 0,7")
+    ips -- "&le; 0,9" --> AOMI(AOMI)
+      AOMI --> bilan("- Biologie<br>- Doppler MI, Ao et TSA<br>- ECG<br>- Cardiologue")
+        bilan --> ttt("- Arrêt tabac<br>- LDL &lt; 0,55<br>- Clopidogrel si claudication/masquée<br>- IEC<br>- PA 120-140/90<br>- Suivi cardio<br>- Réadaptation vasculaire<br>- Vaccin grippe + tétanos<br>- Sel &lt; 5g/j<br>- Régime méditerranéen<br>30-60 min activité/j")
+    ips -- "&gt; 1,4" --> doppler(Bilan angiologique)
+  clinique --> differentiel("Diagnostic différentiel<hr>- Sciatalgie<br>- Coxarthrose<br>- Métastase osseuse<br>- Congestion veineuse pelvienne")
 
 {{< /mermaid >}}
 
@@ -292,5 +297,10 @@ style depister stroke:#006ef4, stroke-width:1px
 {{% modal title="RCV du diabétique selon ESC 2019" id="modal-risque-cardiovasculaire-diabete"%}}
 
 {{< clinique/risque-cardiovasculaire-diabete >}}
+
+{{% /modal %}}
+{{% modal title="Statines et réduction du LDL" id="modal-statine-intensite"%}}
+
+{{< traitements/statine-intensite >}}
 
 {{% /modal %}}

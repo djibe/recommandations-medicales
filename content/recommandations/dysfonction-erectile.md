@@ -85,7 +85,7 @@ Examen clinique annuel en cas de DE avec :
 testicules (taille, consistance), pénis (prépuce, frein, phimosis, déformation, taille, mycose), toucher rectal après 50 ans, gynécomastie  
 - Cardio-vasculaire  
 Pression artérielle, pouls périphériques, souffles vasculaires.  
-Évaluation du risque [Heart SCORE](https://www.ldlcible.com/index.html).
+Évaluation du {{< modal-btn modal-risque-cardiovasculaire >}}risque cardiovasculaire{{< /modal-btn >}} ({{< scores/score >}})
 - Neurologique  
 Centré sur ROT, RCP, sensibilité des pieds, anesthésie en selle et des membres inférieurs, hypotension orthostatique.
 
@@ -189,3 +189,8 @@ Examen clinique de suivi annuel.
 - [La Revue Prescrire](https://www.prescrire.org/fr/)
 
 {{%/collapse%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-risque-cardiovasculaire"%}}
+
+{{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}

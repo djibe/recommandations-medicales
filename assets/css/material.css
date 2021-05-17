@@ -2592,10 +2592,6 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
   color: rgba(0, 0, 0, 0.37);
 }
 
-.btn-outline-primary {
-  border-color: #006ef4;
-}
-
 .btn-flat-secondary, .btn-flat-secondary:hover, .btn-flat-secondary:focus,
 .btn-outline-secondary,
 .btn-outline-secondary:hover,
@@ -2624,10 +2620,6 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 .modal .btn-secondary:disabled,
 .modal .btn-secondary.disabled {
   color: rgba(0, 0, 0, 0.37);
-}
-
-.btn-outline-secondary {
-  border-color: #e87500;
 }
 
 .btn-flat-danger, .btn-flat-danger:hover, .btn-flat-danger:focus,
@@ -2660,10 +2652,6 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
   color: rgba(0, 0, 0, 0.37);
 }
 
-.btn-outline-danger {
-  border-color: #e3536b;
-}
-
 .btn-flat-info, .btn-flat-info:hover, .btn-flat-info:focus,
 .btn-outline-info,
 .btn-outline-info:hover,
@@ -2692,10 +2680,6 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 .modal .btn-info:disabled,
 .modal .btn-info.disabled {
   color: rgba(0, 0, 0, 0.37);
-}
-
-.btn-outline-info {
-  border-color: #53b3e3;
 }
 
 .btn-flat-success, .btn-flat-success:hover, .btn-flat-success:focus,
@@ -2728,10 +2712,6 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
   color: rgba(0, 0, 0, 0.37);
 }
 
-.btn-outline-success {
-  border-color: #1dc198;
-}
-
 .btn-flat-warning, .btn-flat-warning:hover, .btn-flat-warning:focus,
 .btn-outline-warning,
 .btn-outline-warning:hover,
@@ -2762,20 +2742,12 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
   color: rgba(0, 0, 0, 0.37);
 }
 
-.btn-outline-warning {
-  border-color: #e3cb53;
-}
-
 .btn-flat-dark:disabled, .btn-flat-dark.disabled,
 .btn-outline-dark:disabled,
 .btn-outline-dark.disabled,
 .modal .btn-dark:disabled,
 .modal .btn-dark.disabled {
   color: rgba(0, 0, 0, 0.37);
-}
-
-.btn-outline-dark {
-  border-color: #424242;
 }
 
 .btn-flat-light, .btn-flat-light:hover, .btn-flat-light:focus,
@@ -2794,10 +2766,6 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 .modal .btn-light:disabled,
 .modal .btn-light.disabled {
   color: rgba(0, 0, 0, 0.37);
-}
-
-.btn-outline-light {
-  border-color: #f5f5f5;
 }
 
 /*

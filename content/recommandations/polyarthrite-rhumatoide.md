@@ -170,7 +170,7 @@ Gérer la douleur, handicap, observance, maintien de l’activité professionnel
 - Mise à jour des dépistages des cancers
 - Arrêt du tabac
 - Correction des facteurs de risque cardiovasculaires
-  - Risque [Heart SCORE](https://www.ldlcible.com/index.html)
+  - Risque {{< scores/score >}}
   - Activité physique régulière
   - Régimé méditerranéen
   - Echodoppler des TSA  

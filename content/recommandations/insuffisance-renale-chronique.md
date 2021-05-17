@@ -6,7 +6,7 @@ synonyms = ["et maladie rénale chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-05-16"
+lastmod = "2021-05-17"
 specialites = ["nephrologie"]
 annees = "2019"
 sources = ["ESC", "HAS"]
@@ -64,7 +64,7 @@ Population à risque d'insuffisance rénale chronique définie par la présence 
 
 - [Diabète]({{< relref "diabete-type-2.md" >}})
 - Hypertension artérielle
-- Âge > 60 ans
+- Âge ≥ 60 ans
 - Obésité
 - Athérome
 - Insuffisance cardiaque
@@ -178,23 +178,22 @@ Ferritinémie + CRP.
 #### Cardiovasculaire
 
 - Arrêt du tabac
-- {{< modal-btn modal-risque-cardiovasculaire >}}Risque cardiovasculaire{{< /modal-btn >}}
-  - Élevé: LDL cible < 0,7 g/L et réduction ≥ 50%
-  - Très élevé: LDL cible < 0,55 g/L et réduction ≥ 50%
+- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,7 g/L et réduction ≥ 50%
+  - {{< modal-btn modal-risque-cardiovasculaire >}}DFG < 30{{< /modal-btn >}}: LDL cible < 0,55 g/L et réduction ≥ 50%
 - Si diabète
   - HbA1c cible ≤ 7%
   - IRC sévère ou terminale: HbA1c ≤ 8%
   - Attention au risque hypoglycémique (SU, glinide, insuline)
 - Automesure tensionnelle et suivi du poids
 - Lutte surpoids et sédentarité
-- Activité physique: 30-60 min/j
+- Activité physique 30-60 min/j
 
 #### Diététique
 
 - Équilibre alimentaire et énergétique 30-40 kcal/kg/j
 - Apports en eau, adaptés à la soif (env. 1,5 L/j)
 - Restriction sodée < 6 g/j sauf diarrhées
-- Limiter les protéines < 1g/kg/j dès que la clairance est < 60 mL/min
+- Limiter les protéines < 1 g/kg/j dès que la clairance est < 60
 - Apports en calcium, phosphore, potassium
 
 **Protection du capital veineux quand clairance < 45 mL/min**.
@@ -208,7 +207,7 @@ Connaître les signes et symptômes de la MRC et savoir qui prévenir
 
 {{< mermaid title="Conduite à tenir pour le dépistage de la maladie rénale chronique. Dr JB FRON d'après HAS 2012" >}}
 graph TB
-fdr[Personne à risque] --> 2(Bilan annuel)
+fdr["Personne à risque<hr>- Âge ≥ 60 ans<br>- HTA, diabète<br>- Obésité<br>- Athérome<br>- IC<br>- Maladie de système<br>- Pathologie urologique<br>- ATCD familiaux d'IRCT<br>- Exposition professionnelle<br>- Néphrotoxiques"] --> 2(Bilan annuel)
 style fdr stroke:#006ef4, stroke-width:1px
 2 --> 3N(Normal)
   3N --> 2
@@ -232,5 +231,10 @@ bilan --> 7(Avis néphro)
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-risque-cardiovasculaire"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}
+{{% modal title="Statines et réduction du LDL" id="modal-statine-intensite"%}}
+
+{{< traitements/statine-intensite >}}
 
 {{% /modal %}}

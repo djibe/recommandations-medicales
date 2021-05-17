@@ -37,7 +37,7 @@ En effet, **il est inenvisageable de tenter une synthèse pour la prise en soins
 - Hypertension artérielle  
 Objectif tensionnel **< 130/80** mmHg (ESC 2019).
 - LDL  
-LDL cible **< 0,55 g/L** (ESC 2019)
+{{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} cible **< 0,55 g/L** (ESC 2019)
 - Activité physique  
 **Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense).
 - Cible d'HbA1c  
@@ -55,5 +55,10 @@ Négocier une perte de poids (5-10%).
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-risque-cardiovasculaire-diabete"%}}
 
 {{< clinique/risque-cardiovasculaire-diabete >}}
+
+{{% /modal %}}
+{{% modal title="Statines et réduction du LDL" id="modal-statine-intensite"%}}
+
+{{< traitements/statine-intensite >}}
 
 {{% /modal %}}

@@ -14,7 +14,7 @@ tags = ["diabete", "risque cardiovasculaire", "insuline", "retinopathie", "nephr
 anglais = ["Diabetes mellitus type 1"]
 sctid = ""
 draft = false
-todo = "relire"
+todo = "LDL cible **< 0,55 g/L** (ESC 2019)"
 +++
 
 {{%article-summary%}}
@@ -37,8 +37,7 @@ En effet, **il est inenvisageable de tenter une synthèse pour la prise en soins
 - Arrêt du tabac
 - HTA  
 Objectif tensionnel **< 130/80** mmHg (ESC 2019).
-- Dyslipidémie  
-LDL cible **< 0,55 g/L** (ESC 2019).
+- Dyslipidémie
 - Activité physique  
 **Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire.
 - Cible d'HbA1c  
