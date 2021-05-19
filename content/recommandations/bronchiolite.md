@@ -16,7 +16,7 @@ sctid = "4120002"
 draft = false
 image = false
 imageSrc = ""
-todo = "lire reco HAS 2019, algo"
+todo = "BEH, lire reco HAS 2019, algo"
 +++
 
 {{%article-summary%}}

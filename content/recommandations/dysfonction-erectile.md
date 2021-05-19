@@ -17,7 +17,7 @@ draft = false
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "TODO: https://www.revmed.ch/RMS/2019/RMS-N-642/Nouvelles-recommandations-pour-la-prise-en-charge-de-la-dysfonction-erectile-a-l-usage-du-praticien"
+todo = "TODO: https://www.revmed.ch/RMS/2019/RMS-N-642/Nouvelles-recommandations-pour-la-prise-en-charge-de-la-dysfonction-erectile-a-l-usage-du-praticien, https://www.sfcardio.fr/publication/chemin-clinique-pour-le-depistage-et-la-prise-en-charge-de-la-dysfonction-erectile-des"
 +++
 
 *Les recommandations concernent l'homme de plus de 18 ans.  

@@ -6,7 +6,7 @@ synonyms = ["Artériopathie aorto-iliaque et des membres inférieurs", "artérit
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-05T18:53:00+02:00
 publishdate = 2021-05-16
-lastmod = 2021-05-16
+lastmod = 2021-05-19
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["ESC", "HAS", "SFMV"]
@@ -17,12 +17,12 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "score PREVALENT >= 7, Questionnaire d’Édimbourg, BEH, centres réadapt vasculaire, ETP, QDV EQ-5D, association patient"
+todo = "Questionnaire d’Édimbourg, centres réadapt vasculaire, ETP, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/28222583/, https://pubmed.ncbi.nlm.nih.gov/33401955/, https://pubmed.ncbi.nlm.nih.gov/1474406/"
 +++
 
 {{%article-summary%}}
 
-- Dépister par IPS largement: ≥ 65 ans, ≥ 50 ans avec ATCD familial ou ≥ 1 autre FRCV, claudication vasculaire, athérome, AAA, IRC, IC, RCV élevé ...
+- Dépister par IPS largement: {{< modal-btn modal-depistage-prevalent >}}ciblé ≥ 55 ans{{< /modal-btn >}}, ≥ 65 ans, ≥ 50 ans avec ATCD familial ou ≥ 1 autre FRCV, claudication vasculaire, athérome, AAA, IRC, IC, RCV élevé ...
 - Définit un {{< modal-btn modal-risque-cardiovasculaire >}}très haut risque cardiovasculaire{{< /modal-btn >}}
 - Bilan des autres localisations athéromateuses
 - Suivi cardiologue et angiologue
@@ -32,8 +32,9 @@ todo = "score PREVALENT >= 7, Questionnaire d’Édimbourg, BEH, centres réadap
 {{%collapse "Définitions" %}}
 
 Artériopathie oblitérante des membres inférieurs (AOMI)
-: Obstruction athéromateuse partielle ou totale des artères des membres inférieurs.
+: Obstruction athéromateuse partielle ou totale des artères des membres inférieurs, le plus souvent asymptomatique.
 : Les facteurs majeurs sont: âge, tabac, hypertension artérielle, dyslipidémie et diabète.
+: 3 stades: asymptomatique (20-50%), ischémie d'effort (45%, dont seulement 10-35% de claudication typique) et ischémie de repos (ou *critique*, < 5%).
 : Patients à {{< modal-btn modal-risque-cardiovasculaire >}}très haut risque cardiovasculaire{{< /modal-btn >}} par atteinte artérielle globale:
     - Coronaropathie (50%) et infarctus du myocarde (IDM)
     - [Accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}})
@@ -41,10 +42,12 @@ Artériopathie oblitérante des membres inférieurs (AOMI)
     Corrélation IPS-mortalité forte
 
 AOMI masquée
-: Artériopathie asymptomatique liée à une neuropathie ou un niveau d'activité physique insuffisant pour révéler la claudication ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), insuffisance cardiaque, sédentarité).
+: Artériopathie *asymptomatique* liée à une neuropathie ou un niveau d'activité physique insuffisant pour révéler la claudication ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), insuffisance cardiaque, sédentarité).
+: La morbi-mortalité est identique aux patients ayant une claudication (ischémie d'effort).
 
 Ischémie permanente chronique
-: Présence de douleurs ischémiques des membres inférieurs *au repos* avec ou sans ulcères, gangrène ou infection.  
+: Ischémie de repos ou critique
+: Présence de douleurs ischémiques des membres inférieurs depuis > 15 jours *au repos* avec ou sans ulcères, gangrène ou infection.  
 Une neuropathie doit être éliminée lorsque les douleurs sont absentes.
 : Critère diagnostique: PAS cheville ≤ 50 mmHg pour un non spécialiste ou TcPO<sub>2</sub> < 30 mmHg (SFMV 2020).
 
@@ -57,6 +60,8 @@ Blue toe syndrome
 **FRCV:** facteurs de risque cardiovasculaire  
 **IDM:** infarctus du myocarde  
 **IPS:** index de pression systolique ({{%lang%}}ankle-brachial index (ABI){{%/lang%}})  
+**IPSGO:** index de pression au gros orteil  
+**MI:** membre inférieur  
 **PAS:** pression artérielle systolique  
 **RCV:** risque cardiovasculaire  
 **RV:** rapport de vraisemblance
@@ -77,11 +82,12 @@ Blue toe syndrome
 
 ### Qui dépister ?
 
-- Questionnaire d'Édimbourg
+- {{< modal-btn modal-depistage-prevalent >}}Ciblé ≥ 55 ans{{< /modal-btn >}} (Bendermacher 2007)
 - Suspicion clinique
   - Abolition des pouls distaux ou souffle vasculaire
-  - Claudication vasculaire ou symptômes évocateurs d'AOMI
-  - Plaie distale avec retard de cicatrisation
+  - Douleur d'effort
+  - Limitation d'effort
+  - Douleurs de repos ou plaie distale avec retard de cicatrisation
 - Patients à risque d'AOMI
   - Toute autre localisation athéromateuse connue  
   Symptomatique ou non, coronaropathie +++.
@@ -102,7 +108,7 @@ Le dépistage de l’artériopathie par l’IPS est à **renouveler tous les 5 a
 
 ### Comment ?
 
-Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se 75%, Spe 86%) et de l'*index de pression orteil/bras* ≤ 0,7 (SFMV 2020).  
+Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se 75%, Spe 86%) et de l'*index de pression au gros orteil* (IPSGO) ≤ 0,7 (SFMV 2020).  
 {{%class%}}IPS = rapport PAS cheville / PAS humérale.{{%/class%}}  
 **Valeurs normales de l'IPS:** 0,91-1,40.
 
@@ -119,9 +125,11 @@ Ischémie aigüe, maladie cardiovasculaire.
 AOMI, coronaropathie, cérébrovasculaire, [anévrysme aortique]({{< relref "anevrysme-aorte-abdominale.md" >}}), diabète.
 - Facteurs de risque cardiovasculaire
 - Symptômes
-  - Douleurs, crampe ou fatigue musculaire à la marche le plus souvent (*claudication intermittente*) voire au repos, soulagée au repos
-  - Facteurs aggravants et soulageants
-  - Périmètre de marche (test de marche de 6 minutes)
+  - Douleurs en aval de l'obstacle, crampe ou fatigue musculaire à la marche le plus souvent (*claudication intermittente*) voire au repos  
+  {{%class%}}Aussi possible au pied, cuisse, hanche ou fesse.{{%/class%}}
+  - Facteurs aggravants et soulageants  
+  Soulagée au repos en < 10 minutes, reproduite à la marche, non modifiée (voire aggravée) jambe surélevée.
+  - Distance maximale de marche (ex *périmètre de marche* par le *test de marche de 6 minutes*)
   - Niveau d'activité physique
   - Ulcères
   - Douleurs thoraciques
@@ -139,8 +147,9 @@ AOMI, coronaropathie, cérébrovasculaire, [anévrysme aortique]({{< relref "ane
 {{%class%}}Une différence ≥ 15 mmHg est un marqueur de maladie cardiovasculaire et de décès.{{%/class%}}
 - Auscultation cardiaque et vasculaire  
 Iliaque, fémorale ou poplité, souffle systolique au triangle de Scarpa ++ (RV+ 4), abdominale (AAA).
+- Palpation abdominale
 - Palpation des pouls périphériques des 4 membres  
-{{%class%}}Pédieux et tibiaux postérieurs ++,  RV+ 5.{{%/class%}}
+{{%class%}}Fémoraux, poplité; pédieux et tibiaux postérieurs ++ (RV+ 5).{{%/class%}}
 - Examen des jambes et pieds
   - Dépilation, peau sèche, blanche, froide (RV+ 6)
   - Temps de recoloration cutanée (> 2 s)
@@ -162,12 +171,21 @@ L'ESC encourage la **mesure de l’index de pression systolique** (IPS) par tout
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Autres douleurs mécaniques:
+Autres douleurs à l'effort:
 
-- Sciatalgie
+- Syndrome de loges  
+  - Sujet sportif, compression ou serrement des mollets après un exercice important
+  - Douleur diminue très lentement
+  - Soulagement jambes surélevées
+- Claudication veineuse  
+ATCD de TVP. Après la marche, compression/serrement de tout le MI, soulagement rapide jambe surélevée.
+- Sciatalgie/cruralgie
+- Canal lombaire étroit  
+Soulagement variable au repos, aggravé debout.
+- Kyste poplité  
+ATCD arthrosique. Sensibilité, inconfort, œdème rétro-gonal ou du mollet, au repos et à l'exercice sans effet positionnel.
 - Coxarthrose
 - Métastase osseuse
-- Congestion veineuse pelvienne
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -225,8 +243,9 @@ Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant
   - Associé à un TZD ou anticalcique
   - Possibles: TZD, IEC/ARA2, anticalcique, BB
   - Précautions avec les BB en ischémie chronique
-- Avis cardiologique systématique  
+- Suivi cardiologique systématique  
 Par haut risque cardiovasculaire pour évaluer le risque coronarien et d'insuffisance cardiaque.
+- Suivi angiologique
 - Vaccination antigrippale annuelle (SFMV 2020)
 - Mise à jour de la vaccination antitétanique
 - Apports sodés < 5 g/j
@@ -257,15 +276,15 @@ Suivi déterminé par l'angiologue après revascularisation.
 
 {{< mermaid title="Conduite à tenir pour le dépistage de l'AOMI. Dr JB FRON d'après SFMV 2020 et ESC 2017" >}}
 graph TB
-depister["Personne à risque<br>ou symptomatique<hr>- Suspicion clinique<br>- Athérome connu<br>- AAA<br>- IRC<br>- IC<br>- Âge &ge; 65 ans<br>- RCV élevé<br>- &ge; 50 ans avec ATCD familial AOMI<br>ou &ge; 1 autre FRCV"] --> clinique("- Interrogatoire<br>- Examen clinique")
+depister["<b>Personne à risque</b><br><b>ou symptomatique</b><hr>- Suspicion clinique<br>- Athérome connu<br>- Anévrysme aortique<br>- Insuff. rénale<br>- Insuff. cardiaque<br>- Dépistage PREVALENT<br>- Âge &ge; 65 ans<br>- Risque CV élevé<br>- &ge; 50 ans et ATCD familial AOMI<br>ou &ge; 1 autre FRCV"] --> clinique("- Interrogatoire<br>- Examen clinique")
 style depister stroke:#006ef4, stroke-width:1px
-  clinique --> ips("Mesure de l'IPS<br>et IOB &le; 0,7")
-    ips -- "&le; 0,9" --> AOMI(AOMI)
-      AOMI --> bilan("- Biologie<br>- Doppler MI, Ao et TSA<br>- ECG<br>- Cardiologue")
-        bilan --> ttt("- Arrêt tabac<br>- LDL &lt; 0,55<br>- Clopidogrel si claudication/masquée<br>- IEC<br>- PA 120-140/90<br>- Suivi cardio<br>- Réadaptation vasculaire<br>- Vaccin grippe + tétanos<br>- Sel &lt; 5g/j<br>- Régime méditerranéen<br>30-60 min activité/j")
-    ips -- "&gt; 1,4" --> doppler(Bilan angiologique)
-  clinique --> differentiel("Diagnostic différentiel<hr>- Sciatalgie<br>- Coxarthrose<br>- Métastase osseuse<br>- Congestion veineuse pelvienne")
-
+  clinique --> ips("Mesure de l'IPS<br>et IPSGO")
+    ips -- "IPS-IPSGO &le; 0,9-0,7" --> AOMI(Diagnostic d'AOMI)
+    style AOMI stroke:#006ef4, stroke-width:1px
+      AOMI --> bilan("<b>Bilan de l'athérome</b><hr>- Biologie<br>- Doppler MI, Ao et TSA<br>- ECG<br>- Cardiologue")
+        bilan --> ttt("<b>Très haut risque cardiovasculaire</b><hr>- Sevrage tabagique<br>- LDL &lt; 0,55 g/L<br>- Clopidogrel si claudication/masquée<br>- IEC<br>- PA 120-140/90 mmHg<br>- Suivi cardiologique<br>- Réadaptation vasculaire<br>- Vaccin grippe + tétanos<br>- Sel &lt; 5 g/j<br>- Régime méditerranéen<br>- Activité 30-60 min/j")
+    ips -- "&gt; 1,4-0,7" --> doppler(Bilan angiologique)
+  clinique -- Différentiel --> diff("- Sciatalgie<br>- Coxarthrose<br>- Métastase osseuse<br>- Congestion veineuse<br>pelvienne")
 {{< /mermaid >}}
 
 {{%/collapse%}}
@@ -276,11 +295,12 @@ style depister stroke:#006ef4, stroke-width:1px
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Mahé G et al, the SFMV/SCVE group, Disparities between international guidelines (AHA/ESC/ESVS/ESVM/SVS) concerning - Lower extremity arterial disease: consensus of the French Society of Vascular Medicine (SFMV) and the French Society for Vascular and Endovascular Surgery (SCVE), Annals of Vascular Surgery (2021)](https://doi.org/10.1016/j.avsg.2020.11.011)
+- [Mahé G. et al, the SFMV/SCVE group, Disparities between international guidelines (AHA/ESC/ESVS/ESVM/SVS) concerning - Lower extremity arterial disease: consensus of the French Society of Vascular Medicine (SFMV) and the French Society for Vascular and Endovascular Surgery (SCVE), Annals of Vascular Surgery (2021)](https://doi.org/10.1016/j.avsg.2020.11.011)
 - {{< references/esc-dyslipidemie >}}
 - Prescrire Redaction. Signes d’artériopathie des membres inférieurs. Août 2019.
 - {{< references/sfd-dt2 >}}
 - [Aboyans A. et al, ESC Scientific Document Group, 2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS): Document covering atherosclerotic disease of extracranial carotid and vertebral, mesenteric, renal, upper and lower extremity arteries. Endorsed by: the European Stroke Organization (ESO) The Task Force for the Diagnosis and Treatment of Peripheral Arterial Diseases of the European Society of Cardiology (ESC) and of the European Society for Vascular Surgery (ESVS), European Heart Journal, Volume 39, Issue 9, 01 March 2018, Pages 763–816](https://doi.org/10.1093/eurheartj/ehx095)
+- [Mahé G., Jaquinandi V. Artériopathie des membres inférieurs athéromateuse : diagnostic. La Presse Médicale. Volume 47. Issue 1. 20183 Pages 47-55.ISSN 0755-4982.](https://doi.org/10.1016/j.lpm.2017.09.021)
 - [HAS. Actes et prestations – ALD. Artériopathie oblitérante des membres inférieurs. Novembre 2016.](https://www.has-sante.fr/upload/docs/application/pdf/liste_actes_presta_aomi_ald3.pdf)
 - [Mounier-Vehier C et al. Quand doit-on dépister l’artériopathie oblitérante des membres inférieurs ? Quelle stratégie médicale proposer ? Mal Coeur Vaiss Prat. 15 déc 2009;15(182):13‑24.](https://www.em-consulte.com/article/237143)
 - [TASC II. Management of Peripheral Arterial Disease. 2007.](https://www.jvascsurg.org/article/S0741-5214(06)02296-8/pdf)
@@ -302,5 +322,10 @@ style depister stroke:#006ef4, stroke-width:1px
 {{% modal title="Statines et réduction du LDL" id="modal-statine-intensite"%}}
 
 {{< traitements/statine-intensite >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage selon PREVALENT" id="modal-depistage-prevalent"%}}
+
+{{< scores/aomi-prevalent >}}
 
 {{% /modal %}}

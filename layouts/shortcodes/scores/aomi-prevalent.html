@@ -1,0 +1,99 @@
+<form class="my-4" id="score-prevalent" autocomplete="off">
+  <p>Dépistage ciblé de l'AOMI en soins primaires à partir de 55 ans.</p>
+  <fieldset>
+    <legend>Âge</legend>
+    <input type="radio" id="radio11" name="radio1" class="d-input-none" value="0" required>
+    <label for="radio11" class="chip chip-action chip-sm chip-choice">55-59</label>
+    <input type="radio" id="radio12" name="radio1" class="d-input-none" value="1">
+    <label for="radio12" class="chip chip-action chip-sm chip-choice">60-64</label>
+    <input type="radio" id="radio13" name="radio1" class="d-input-none" value="2">
+    <label for="radio13" class="chip chip-action chip-sm chip-choice">65-69</label>
+    <input type="radio" id="radio14" name="radio1" class="d-input-none" value="3">
+    <label for="radio14" class="chip chip-action chip-sm chip-choice">70-74</label>
+    <input type="radio" id="radio15" name="radio1" class="d-input-none" value="4">
+    <label for="radio15" class="chip chip-action chip-sm chip-choice">75-79</label>
+    <input type="radio" id="radio16" name="radio1" class="d-input-none" value="5">
+    <label for="radio16" class="chip chip-action chip-sm chip-choice">80-84</label>
+    <input type="radio" id="radio17" name="radio1" class="d-input-none" value="6">
+    <label for="radio17" class="chip chip-action chip-sm chip-choice">&ge; 85</label>
+  </fieldset>
+  <fieldset>
+    <legend>Tabagisme</legend>
+    <input type="radio" id="radio31" name="radio3" class="d-input-none" value="0" required>
+    <label for="radio31" class="chip chip-action chip-sm chip-choice">Jamais</label>
+    <input type="radio" id="radio32" name="radio3" class="d-input-none" value="2">
+    <label for="radio32" class="chip chip-action chip-sm chip-choice">Sevré</label>
+    <input type="radio" id="radio33" name="radio3" class="d-input-none" value="7">
+    <label for="radio33" class="chip chip-action chip-sm chip-choice">Actif</label>
+  </fieldset>
+  <fieldset>
+    <legend>Hypertension artérielle</legend>
+    <input type="radio" id="radio41" name="radio4" class="d-input-none" value="0" required>
+    <label for="radio41" class="chip chip-action chip-sm chip-choice">Absente</label>
+    <input type="radio" id="radio42" name="radio4" class="d-input-none" value="1">
+    <label for="radio42" class="chip chip-action chip-sm chip-choice">Contrôlée</label>
+    <input type="radio" id="radio43" name="radio4" class="d-input-none" value="3">
+    <label for="radio43" class="chip chip-action chip-sm chip-choice">Non contrôlée</label>
+  </fieldset>
+  <div class="alert bg-light d-flex mt-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:2rem">Score</p>
+      <span class="font-weight-bold" id="prevalentScore" style="font-size:2rem">0</span>
+    </div>
+    <p id="prevalentText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  </div>
+</form>
+<blockquote class="mt-4">
+  <p>
+    <a
+      href="https://doi.org/10.1177%2F1358863X07076827"
+      target="_blank"
+      rel="nofollow noopener"
+      >Bendermacher BL et al. A clinical prediction model for the presence of peripheral arterial disease--the benefit of 
+      screening individuals before initiation of measurement of the ankle-brachial index: an observational study. 
+      Vasc Med. 2007 Feb;12(1):5-11. doi: 10.1177/1358863X07076827. PMID: 17451087.</a>
+  </p>
+</blockquote>
+{{ $script := `
+  // Score PREVALENT by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scorePREVALENT = document.getElementById('prevalentScore')
+    const textPREVALENT = document.getElementById('prevalentText')
+    const PREVALENTElems = document.querySelectorAll('#score-prevalent input[type=\"radio\"]')
+    PREVALENTElems.forEach((PREVALENTElem) => { PREVALENTElem.addEventListener('click', () => {
+      prevalent()
+    }) })
+    const prevalent = () => {
+      let score = 0
+      const prevalentElemsChecked = document.querySelectorAll('#score-prevalent input[type=\"radio\"]:checked')
+        prevalentElemsChecked.forEach(prevalentElemChecked => {
+        score += parseInt(prevalentElemChecked.value, 10)
+        if (prevalentElemsChecked.length === 3) {
+          scorePREVALENT.innerHTML = score
+          let explainPrevalent = "<span class='d-block text-muted mt-2'>Risque d'AOMI de " + prevalence(score) + "%</span>"
+          if (score <= 7) {
+            textPREVALENT.innerHTML = "Pas de dépistage de l'AOMI sauf comorbidités" + explainPrevalent
+          }
+          else if (score > 7) {
+            textPREVALENT.innerHTML = "Adresser à l'angiologue pour la mesure de l'IPS" + explainPrevalent
+          }
+        } else {
+          textPREVALENT.innerHTML = "Veuillez répondre à toutes les questions" + explainPrevalent
+        }
+      })
+    }
+    const prevalence = (score) => {
+      if (score <= 3) { return 7 }
+      else if (score === 4) { return 11.9 }
+      else if (score === 5) { return 14.5 }
+      else if (score === 6) { return 17.5 }
+      else if (score === 7) { return 19.3 }
+      else if (score === 8) { return 23.5 }
+      else if (score === 9) { return 25.9 }
+      else if (score === 10) { return 24.3 }
+      else if (score === 11) { return 25.1 }
+      else if (score === 12) { return 31.1 }
+      else if (score >= 13) { return 40.6 }
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>

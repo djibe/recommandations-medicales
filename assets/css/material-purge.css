@@ -3539,6 +3539,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   display: none !important;
 }
 
+.d-block {
+  display: block !important;
+}
+
 .d-flex {
   display: flex !important;
 }
