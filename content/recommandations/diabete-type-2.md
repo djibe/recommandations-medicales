@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-05-16"
+lastmod = "2021-05-19"
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["HAS"]
@@ -32,12 +32,13 @@ En effet, **il est inenvisageable de tenter une synthèse pour la prise en soins
 
 ## Les points vitaux du diabète type 2
 
-- Toute personne avec un diabète type 2 est à {{< modal-btn modal-risque-cardiovasculaire >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}}
+- Toute personne avec un diabète type 2 est à {{< modal-btn modal-risque-cardiovasculaire-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}}
 - Arrêt du tabac
 - Hypertension artérielle  
 Objectif tensionnel **< 130/80** mmHg (ESC 2019).
-- LDL  
-{{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} cible **< 0,55 g/L** (ESC 2019)
+- LDL cible (ESC 2019)  
+  - {{< modal-btn modal-statine-intensite >}}< 0,7 g/L{{< /modal-btn >}}
+  - {{< modal-btn modal-statine-intensite >}}< 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-risque-cardiovasculaire-diabete >}}maladie CV, > 20 ans ou ≥ 3 autres FRCV{{< /modal-btn >}}
 - Activité physique  
 **Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense).
 - Cible d'HbA1c  
@@ -52,7 +53,7 @@ Négocier une perte de poids (5-10%).
 - {{< references/sfd-dt2 >}}
 
 {{% /collapse %}}
-{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-risque-cardiovasculaire-diabete"%}}
+{{% modal title="Diabète et RCV selon ESC 2019" id="modal-risque-cardiovasculaire-diabete"%}}
 
 {{< clinique/risque-cardiovasculaire-diabete >}}
 

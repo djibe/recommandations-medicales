@@ -10,7 +10,7 @@ lastmod = 2021-05-19
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["ESC", "HAS", "SFMV"]
-tags = ["AAA", "depistage", "HTA", "risque cardiovasculaire", "tabac", "vaccin"]
+tags = ["AAA", "depistage", "diabete", "HTA", "risque cardiovasculaire", "tabac", "vaccin"]
 anglais = ["Lower extremity artery disease (LEAD)"]
 sctid = "789703007"
 draft = false
@@ -33,7 +33,7 @@ todo = "Questionnaire d’Édimbourg, centres réadapt vasculaire, ETP, QDV EQ-5
 
 Artériopathie oblitérante des membres inférieurs (AOMI)
 : Obstruction athéromateuse partielle ou totale des artères des membres inférieurs, le plus souvent asymptomatique.
-: Les facteurs majeurs sont: âge, tabac, hypertension artérielle, dyslipidémie et diabète.
+: Les facteurs majeurs sont: âge, tabac, hypertension artérielle, dyslipidémie et [diabète]({{< relref "diabete-type-2.md" >}}).
 : 3 stades: asymptomatique (20-50%), ischémie d'effort (45%, dont seulement 10-35% de claudication typique) et ischémie de repos (ou *critique*, < 5%).
 : Patients à {{< modal-btn modal-risque-cardiovasculaire >}}très haut risque cardiovasculaire{{< /modal-btn >}} par atteinte artérielle globale:
     - Coronaropathie (50%) et infarctus du myocarde (IDM)
@@ -122,7 +122,7 @@ Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se
 - Antécédents  
 Ischémie aigüe, maladie cardiovasculaire.
 - Antécédents familiaux  
-AOMI, coronaropathie, cérébrovasculaire, [anévrysme aortique]({{< relref "anevrysme-aorte-abdominale.md" >}}), diabète.
+AOMI, coronaropathie, cérébrovasculaire, [anévrysme aortique]({{< relref "anevrysme-aorte-abdominale.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}).
 - Facteurs de risque cardiovasculaire
 - Symptômes
   - Douleurs en aval de l'obstacle, crampe ou fatigue musculaire à la marche le plus souvent (*claudication intermittente*) voire au repos  
@@ -279,12 +279,12 @@ graph TB
 depister["<b>Personne à risque</b><br><b>ou symptomatique</b><hr>- Suspicion clinique<br>- Athérome connu<br>- Anévrysme aortique<br>- Insuff. rénale<br>- Insuff. cardiaque<br>- Dépistage PREVALENT<br>- Âge &ge; 65 ans<br>- Risque CV élevé<br>- &ge; 50 ans et ATCD familial AOMI<br>ou &ge; 1 autre FRCV"] --> clinique("- Interrogatoire<br>- Examen clinique")
 style depister stroke:#006ef4, stroke-width:1px
   clinique --> ips("Mesure de l'IPS<br>et IPSGO")
-    ips -- "IPS-IPSGO &le; 0,9-0,7" --> AOMI(Diagnostic d'AOMI)
+    ips -- "IPS &le; 0,9 et IPSGO &le; 0,7" --> AOMI(Diagnostic d'AOMI)
     style AOMI stroke:#006ef4, stroke-width:1px
       AOMI --> bilan("<b>Bilan de l'athérome</b><hr>- Biologie<br>- Doppler MI, Ao et TSA<br>- ECG<br>- Cardiologue")
-        bilan --> ttt("<b>Très haut risque cardiovasculaire</b><hr>- Sevrage tabagique<br>- LDL &lt; 0,55 g/L<br>- Clopidogrel si claudication/masquée<br>- IEC<br>- PA 120-140/90 mmHg<br>- Suivi cardiologique<br>- Réadaptation vasculaire<br>- Vaccin grippe + tétanos<br>- Sel &lt; 5 g/j<br>- Régime méditerranéen<br>- Activité 30-60 min/j")
-    ips -- "&gt; 1,4-0,7" --> doppler(Bilan angiologique)
-  clinique -- Différentiel --> diff("- Sciatalgie<br>- Coxarthrose<br>- Métastase osseuse<br>- Congestion veineuse<br>pelvienne")
+        bilan --> ttt("<b>Très haut risque cardiovasculaire</b><hr>- Sevrage tabagique<br>- LDL &lt; 0,55 g/L<br>- Clopidogrel si claudication/masquée<br>- IEC<br>- PA 120-140/90 mmHg<br>- Suivi cardio + angiologue<br>- Réadaptation vasculaire<br>- Vaccin grippe + tétanos<br>- Sel &lt; 5 g/j<br>- Régime méditerranéen<br>- Activité 30-60 min/j")
+    ips -- "Autres" --> doppler(Bilan angiologique)
+  clinique -- Différentiel --> diff("- Sd des loges<br>- Sciatalgie<br>- Canal lombaire étroit<br>- Coxarthrose<br>- Kyste poplité<br>- Métastase osseuse<br>- Congestion veineuse")
 {{< /mermaid >}}
 
 {{%/collapse%}}
