@@ -250,6 +250,7 @@ graph TB
 {{% /collapse %}}
 {{%collapse "Information de la patiente" %}}
 
+- [Sante.fr Petite chronique de l'endométriose](https://microlearning-sante.fr/fr/endometriose)
 - [EndoFrance. Fascicule d'information](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/Informations-sur-lendome%CC%81triose-ENDOFRANCE-.pdf)
 - [EndoFrance. Comprendre l'endométriose (+25 ans)](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/Comprendre-lendome%CC%81triose-25-ans.pdf)
 - [EndoFrance. Comprendre l'endométriose (-25 ans)](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/Comprendre-lendome%CC%81triose-15-25-ans.pdf)

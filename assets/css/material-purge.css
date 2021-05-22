@@ -426,7 +426,7 @@ summary {
   margin-left: -15px;
 }
 
- .col-8, .col-10, .col-12, .col, .col-sm-6, .col-sm, .col-md-3, .col-md-4, .col-md-8, .col-md-9, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-7, .col-lg-9, .col-xl-2, .col-xl-4, .col-xl-9 {
+ .col-10, .col-12, .col, .col-sm-6, .col-sm, .col-md-3, .col-md-4, .col-md-8, .col-md-9, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-7, .col-lg-9, .col-xl-2, .col-xl-9 {
   position: relative;
   width: 100%;
   padding-right: 15px;
@@ -437,11 +437,6 @@ summary {
   flex-basis: 0;
   flex-grow: 1;
   max-width: 100%;
-}
-
-.col-8 {
-  flex: 0 0 66.666667%;
-  max-width: 66.666667%;
 }
 
 .col-10 {
@@ -460,10 +455,6 @@ summary {
 
 .order-3 {
   order: 3;
-}
-
-.order-12 {
-  order: 12;
 }
 
 @media (min-width: 576px) {
@@ -495,8 +486,8 @@ summary {
     flex: 0 0 75%;
     max-width: 75%;
   }
-  .order-md-0 {
-    order: 0;
+  .order-md-2 {
+    order: 2;
   }
 }
 
@@ -533,10 +524,6 @@ summary {
   .col-xl-2 {
     flex: 0 0 16.666667%;
     max-width: 16.666667%;
-  }
-  .col-xl-4 {
-    flex: 0 0 33.333333%;
-    max-width: 33.333333%;
   }
   .col-xl-9 {
     flex: 0 0 75%;
@@ -3632,8 +3619,8 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   align-items: center !important;
 }
 
-@media (min-width: 992px) {
-  .align-items-lg-center {
+@media (min-width: 768px) {
+  .align-items-md-center {
     align-items: center !important;
   }
 }
@@ -3780,6 +3767,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   padding-left: 1rem !important;
 }
 
+.pt-4 {
+  padding-top: 1.5rem !important;
+}
+
 .m-auto {
   margin: auto !important;
 }
@@ -3811,17 +3802,19 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   .mt-md-4 {
     margin-top: 1.5rem !important;
   }
-  .mt-md-5 {
+  .mt-md-5,
+  .my-md-5 {
     margin-top: 3rem !important;
+  }
+  
+  .my-md-5 {
+    margin-bottom: 3rem !important;
   }
 }
 
 @media (min-width: 992px) {
   .mt-lg-3 {
     margin-top: 1rem !important;
-  }
-  .mb-lg-3 {
-    margin-bottom: 1rem !important;
   }
   
   .my-lg-4 {
@@ -3838,9 +3831,6 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   .mb-lg-5,
   .my-lg-5 {
     margin-bottom: 3rem !important;
-  }
-  .pt-lg-5 {
-    padding-top: 3rem !important;
   }
 }
 
@@ -3873,6 +3863,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 
 .text-center {
   text-align: center !important;
+}
+
+.text-uppercase {
+  text-transform: uppercase !important;
 }
 
 .text-capitalize {

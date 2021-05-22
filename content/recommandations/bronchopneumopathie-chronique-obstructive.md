@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2021-05-05
+lastmod = 2021-05-21
 specialites = ["pneumologie"]
 annees = "2021"
 sources = ["GOLD", "HAS", "SPLF"]
@@ -27,7 +27,7 @@ todo = "SPLF 2021, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2
 Principal facteur du déclin du VEMS.
 - Le diagnostic est spirométrique: TVO non réversible
 - Le VEMS est le facteur pronostique majeur: {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
-- 4 piliers du traitement: arrêt du tabac, vaccination grippe + pneumocoque, activité physique et réadaptation respiratoire
+- 4 piliers du traitement: arrêt du tabac, vaccination grippe + pneumocoque, activité physique et réhabilitation respiratoire
 - Adaptation des bronchodilatateurs selon les symptômes et les exacerbations ({{< modal-btn modal-score-cat >}}évaluation CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}dyspnée mMRC{{< /modal-btn >}})
 - Bronchodilatateurs: {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}}, {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama >}}LABA + LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}
 - EFR de suivi annuelle
@@ -85,7 +85,7 @@ Insuffisance respiratoire chronique
 **GOLD:** {{%lang%}}Global Initiative for Chronic Obstructive Lung Disease{{%/lang%}}  
 **LABA:** {{%lang%}}Long Acting ß2 Agent{{%/lang%}}, bêta-2-agoniste de longue durée d'action  
 **LAMA:** {{%lang%}}Long Acting Muscarinic Agent{{%/lang%}}, anticholinergique de longue durée d'action  
-**RR:** réadaptation respiratoire (ex réhabilitation respiratoire)  
+**RR:** réhabilitation respiratoire (ou *réadaptation respiratoire*)  
 **VEMS:** volume expiré maximal à la première seconde ({{%lang%}}FEV1{{%/lang%}} en anglais)
 
 {{% /collapse %}}
@@ -241,10 +241,10 @@ Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-bpco >}
   - Antigrippale annuelle
   - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}} si > 65 ans ou comorbidités (cardiaque ou respiratoire)  
   Rappel tous les 5 ans.
-- Réadaptation respiratoire
+- Réhabilitation respiratoire
   - Essentielle pour tous pour réduire la dyspnée, le stress et améliorer la qualité de vie
   - Répétée si besoin
-  - [Liste des centres de réadaptation respiratoire (RR)](https://splf.fr/la-carte-de-la-rehabilitation-respiratoire/)
+  - [Liste des centres de réhabilitation respiratoire (RR)](https://splf.fr/la-carte-de-la-rehabilitation-respiratoire/)
   - Voire à domicile par kiné  
   Prescrire: "Séances de réadaptation respiratoire kinésithérapique pour maladie respiratoire chronique obstructive".
 - Activité physique quotidienne
@@ -464,7 +464,7 @@ L'inclusion est réalisée par l'hôpital.
 - Contrôle de la technique d'inhalation et du traitement par BDLA ({{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-lama >}}association{{< /modal-btn >}})
 - Consultation du pneumologue dans le mois (voire 2 mois)  
 {{%class%}}Avec EFR et gaz du sang.{{%/class%}}
-- Réadaptation respiratoire dans les 2 à 4 semaines  
+- Réhabilitation respiratoire dans les 2 à 4 semaines  
 {{%class%}}Diminue la mortalité (50% à 5 ans) et les ré-hospitalisations.{{%/class%}}
 - Encourager à l'arrêt du tabac (voir *État stable*)
 - Suivi infirmier à domicile
@@ -493,7 +493,7 @@ IMC (< 21), perte de poids, santé bucco-dentaire.
 - Retentissement de la maladie
   - Nombre d'exacerbations annuelles
   - Nombre d'hospitalisations
-  - Dates des stages de réadaptation respiratoire
+  - Dates des stages de réhabilitation respiratoire
   - Traitements en cours et technique
   - SpO<sub>2</sub>
   - Gaz du sang annuel si {{< modal-btn modal-severite-bpco >}}GOLD 4{{< /modal-btn >}}
@@ -505,14 +505,15 @@ Anémie, asthme, cancer, insuffisance cardiaque, surpoids, troubles du sommeil, 
 {{% /collapse %}}
 {{%collapse "Information du patient BPCO" %}}
 
-[Carnet de suivi BPCO par la SPLF](http://www.carnet-bpco.fr/)
+[Carnet de suivi en ligne de la BPCO par la SPLF](http://www.carnet-bpco.fr/)  
+[Carnet de suivi à imprimer de la BPCO par la SPLF](https://splf.fr/wp-content/uploads/2016/03/Carnet-de-suivi_BPCO-SPLF-r-ouvert.pdf)
 
 - Explication de la BPCO: l’acronyme, la maladie et ses symptômes
 - Conseils pour arrêter de fumer (tabac, cannabis) et son intérêt pour l’évolution de la maladie
 - Conseils pour éviter le tabagisme passif et les aéropolluants professionnels
 - Gestion de la dyspnée
 - Importance et modalités d’une activité physique régulière, intégrée dans sa vie quotidienne
-- Intérêt de la réadaptation respiratoire (le cas échéant)
+- Intérêt de la réhabilitation respiratoire (le cas échéant)
 - Intérêt du traitement médicamenteux et de sa gestion optimale
   - Compréhension de l’action des médicaments
   - Enjeu de la bonne adhésion aux traitements prescrits
@@ -537,6 +538,7 @@ Anémie, asthme, cancer, insuffisance cardiaque, surpoids, troubles du sommeil, 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Georges M. Réhabilitation respiratoire dans la BPCO : bis repetita. 18/05/2021.](https://splf.fr/rehabilitation-respiratoire-dans-la-bpco-bis-repetita/?utm_source=rss&utm_medium=rss&utm_campaign=rehabilitation-respiratoire-dans-la-bpco-bis-repetita)
 - [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. 2020.](https://goldcopd.org/2021-gold-reports/)
 - [Prescrire Redaction. Questionner sa pratique : préserver la qualité de vie des patients souffrant de BPCO. Rev Prescrire 2020 ; 40 (445) : 861-864.](https://prescrire.org/)
 - [Prescrire Redaction. Bronchopneumopathie chronique obstructive - Premiers Choix Prescrire, actualisation juillet 2020. Rev Prescrire 2020 ; 40 (444) : 737.](https://prescrire.org/)

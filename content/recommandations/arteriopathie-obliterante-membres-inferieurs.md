@@ -2,7 +2,7 @@
 title = "Artériopathie oblitérante des membres inférieurs"
 prefix = "l'"
 shortname = "AOMI"
-synonyms = ["Artériopathie aorto-iliaque et des membres inférieurs", "artérite des membres inférieurs"]
+synonyms = ["ou Artériopathie aorto-iliaque et des membres inférieurs", "artérite des membres inférieurs"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-05T18:53:00+02:00
 publishdate = 2021-05-16
@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "Questionnaire d’Édimbourg, centres réadapt vasculaire, ETP, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/28222583/, https://pubmed.ncbi.nlm.nih.gov/33401955/, https://pubmed.ncbi.nlm.nih.gov/1474406/"
+todo = "https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch06_arteriopathie_anevrysmes.pdf, Questionnaire d’Édimbourg, centres réadapt vasculaire, ETP, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/28222583/, https://pubmed.ncbi.nlm.nih.gov/33401955/, https://pubmed.ncbi.nlm.nih.gov/1474406/"
 +++
 
 {{%article-summary%}}
@@ -26,7 +26,7 @@ todo = "Questionnaire d’Édimbourg, centres réadapt vasculaire, ETP, QDV EQ-5
 - Définit un {{< modal-btn modal-risque-cardiovasculaire >}}très haut risque cardiovasculaire{{< /modal-btn >}}
 - Bilan des autres localisations athéromateuses
 - Suivi cardiologue et angiologue
-- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}}, IEC, sevrage tabagique, régime méditerranéen, réadaptation physique supervisée ...
+- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}}, IEC, sevrage tabagique, régime méditerranéen, réadaptation vasculaire supervisée ...
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -46,7 +46,7 @@ AOMI masquée
 : La morbi-mortalité est identique aux patients ayant une claudication (ischémie d'effort).
 
 Ischémie permanente chronique
-: Ischémie de repos ou critique
+: Aussi appelée *ischémie de repos* ou *ischémie critique*
 : Présence de douleurs ischémiques des membres inférieurs depuis > 15 jours *au repos* avec ou sans ulcères, gangrène ou infection.  
 Une neuropathie doit être éliminée lorsque les douleurs sont absentes.
 : Critère diagnostique: PAS cheville ≤ 50 mmHg pour un non spécialiste ou TcPO<sub>2</sub> < 30 mmHg (SFMV 2020).

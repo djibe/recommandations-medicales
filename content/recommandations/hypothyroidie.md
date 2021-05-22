@@ -10,7 +10,7 @@ lastmod = 2020-07-21
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["ANSM", "HAS"]
-tags = ["hypothyroidie", "TSH", "Hashimoto"]
+tags = ["fatigue", "hypothyroidie", "TSH", "Hashimoto"]
 anglais = ["Hypothyroidism"]
 sctid = "40930008"
 draft = false
@@ -278,6 +278,11 @@ graph TB
             adulte --"Fragilité"--> fragile("<b>Sujet âgé</b>: Débuter à 1,7 µg/kg/j<hr><b>Coronarien</b>: Débuter à 12,5 µg/j")
           traitement --> enfant("<b>Enfant</b><br>Débuter à 2 µg/kg/j")
 {{< /mermaid >}}
+
+{{% /collapse %}}
+{{%collapse Information du patient %}}
+
+[Sante.fr. Petite chronique de l'hypothyroïdie](https://microlearning-sante.fr/fr/levothyrox)
 
 {{% /collapse %}}
 {{%collapse Sources %}}

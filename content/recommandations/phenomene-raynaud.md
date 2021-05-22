@@ -6,7 +6,7 @@ synonyms = ["Maladie de Raynaud", "syndrome de Raynaud"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-04T10:57:00+02:00
 publishdate = 2021-05-04
-lastmod = 2021-05-11
+lastmod = 2021-05-19
 specialites = ["medecine interne"]
 annees = "2018"
 sources = ["CEDEF", "SFMV"]
@@ -215,12 +215,12 @@ graph TB
 susp[Suspicion de phénomène de Raynaud]
 style susp stroke:#006ef4, stroke-width:1px
   susp --> diagnostic("Diagnostic clinique de<br>phénomène de Raynaud")
-  susp --> differentiel("Diagnostic différentiel<hr>- Acrocyanose<br>- Érythermalgie<br>- Engelures<br>- Algodystrophie<br>- Canal carpien<br>- Défilé thoracique<br>- Sténose artérielle MS")
-    diagnostic --> gravite("Signes d'alerte ?<hr>- Invalidant et pluriquotidien<br>- Température modérée<br>- Sans amélioration estivale<br>- Début +40 ans<br>- Atteinte des pouces<br>- Aggravation inexpliquée<br>- Ulcération digitale<br>- Télangiectasies, sclérodactylie<br>- Purpura<br>- Xérophtalmie<br>- Tbles déglutition<br>- Arthralgies<br>- Souffle vasculaire, pouls non perçu<br>- Fièvre persistante<br>- Neuropathie")
-    gravite -- Oui --> bilanComp("Bilan systématique et<hr>- Rx mains, pieds, thorax<br>- Anti-RNP<br>- Anti-cardiolipine<br>- Cryoglobuline<br>- Doppler artères MS")
+  susp -- Différentiel --> differentiel("- Acrocyanose<br>- Érythermalgie<br>- Engelures<br>- Algodystrophie<br>- Canal carpien<br>- Défilé thoracique<br>- Sténose artérielle MS")
+    diagnostic --> gravite("<b>Signes d'alerte ?</b><hr>- Invalidant et pluriquotidien<br>- Température modérée<br>- Sans amélioration estivale<br>- Début +40 ans<br>- Atteinte des pouces<br>- Aggravation inexpliquée<br>- Ulcération digitale<br>- Télangiectasies, sclérodactylie<br>- Purpura<br>- Xérophtalmie<br>- Tbles déglutition<br>- Arthralgies<br>- Souffle vasculaire, pouls non perçu<br>- Fièvre persistante<br>- Neuropathie")
+    gravite -- Oui --> bilanComp("Bilan systématique +<hr>- Rx mains, pieds, thorax<br>- Anti-RNP<br>- Anti-cardiolipine<br>- Cryoglobuline<br>- Doppler artères MS")
       bilanComp --> interniste(Interniste)
-    gravite -- Non --> bilan("Bilan systématique<hr>- NFS, VS, CRP<br>- EPS<br>- AAN<br>- Anti-scl70, anti-centromères<br>- FR<br>- Capillaroscopie")
-      bilan -- Normal --> maladie("Maladie de Raynaud<br>Mesures d'hygiène<br>Voire nifédipine LP")
+    gravite -- Non --> bilan("<b>Bilan systématique</b><hr>- NFS, VS, CRP<br>- EPS<br>- AAN<br>- Anti-scl70, anti-centromères<br>- FR<br>- Capillaroscopie")
+      bilan -- Normal --> maladie("<b>Maladie de Raynaud</b><hr>- Mesures d'hygiène<br>- &plusmn; nifédipine LP")
         maladie -.-> aggravation(Aggravation) --> interniste
       bilan -- Anormal --> interniste
 {{< /mermaid >}}

@@ -141,7 +141,7 @@ Antibiothérapie per os cloxacilline.
 
 Le traitement doit être débuté en urgence dans les 48-72 premières heures.
 
-{{%info%}}Valaciclovir 1 g x 3/j pendant 7 jours, début immédiat.{{%/info%}}
+{{%info%}}Valaciclovir 2 x 500 mg x 3/j pendant 7 jours, début immédiat.{{%/info%}}
 
 **Alternatives:** aciclovir 800 mg x 5/j pendant 7 jours (seule forme buvable)  
 ou famciclovir 500 mg x 3/j pendant 7 jours.

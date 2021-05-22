@@ -17,7 +17,7 @@ draft = false
 image = true
 imageSrc = "Photo de profeticsbeta sur Foter.com / CC BY-NC-SA"
 flowchart = true
-todo= "TODO: flowchart, CEDEF, https://ansm.sante.fr/S-informer/Actualite/Traitement-contre-l-acne-severe-avec-isotretinoine-orale-l-ANSM-informe-d-un-risque-potentiel-de-troubles-neuro-developpementaux-en-cas-d-exposition-pendant-la-grossesse"
+todo= "TODO: flowchart, CEDEF, https://ansm.sante.fr/S-informer/Actualite/Traitement-contre-l-acne-severe-avec-isotretinoine-orale-l-ANSM-informe-d-un-risque-potentiel-de-troubles-neuro-developpementaux-en-cas-d-exposition-pendant-la-grossesse, https://ansm.sante.fr/actualites/traitement-de-lacne-severe-premieres-recommandations-pour-ameliorer-la-securite-dutilisation-de-lisotretinoine"
 +++
 
 {{%article-summary%}}

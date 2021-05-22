@@ -19,7 +19,7 @@ draft = false
 
 {{%article-summary%}}
 
-Vitamine K1 2 mg/0,2 mL, 1 ampoule à 4h, 4 jours et 4 semaines
+Vitamine K1 2 mg/0,2 mL, 1 ampoule per os à 4h, 4 jours et 4 semaines
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -53,7 +53,7 @@ Vitamine K1
 La 1<sup>re</sup> ampoule doit être administrée durant la 1<sup>re</sup> heure de vie.
 Voir le tableau ci-dessous.
 
-{{< table title="Rythme d'administration de la vitamine K1 en périnatal" >}}
+{{< table title="Rythme d'administration de la vitamine K1 en périnatal d'après SFNéonat 2015" >}}
 |               | Naissance     | J3-J4      | 1 mois     |
 |---------------|:-------------:|------------|------------|
 | Né à terme    | 2 mg per os    | 2 mg per os | 2 mg per os |

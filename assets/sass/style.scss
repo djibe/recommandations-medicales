@@ -106,25 +106,6 @@ a[href^='http']:not([class])::after {
   margin-left: 4px;
 }
 
-.navbar-toggler-icon {
-  font-size: 1rem;
-  line-height: 1rem;
-
-  &::before {
-    @extend %material-icon-content;
-    content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white' width='24px' height='24px'%3E%3Cpath d='M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z'/%3E%3C/svg%3E");
-  }
-
-  .navbar-toggler:not(.collapsed) & {
-    content: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" fill="white" width="24"%3E%3Cpath d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/%3E%3C/svg%3E');
-  }
-}
-
-.breadcrumb-item + .breadcrumb-item::before {
-  @extend %material-icon-content;
-  content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23757575' width='24px' height='24px'%3E%3Cpath d='M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z'/%3E%3C/svg%3E");
-  line-height: 0.5;
-}
 
 // List pages
 
@@ -149,16 +130,10 @@ a[href^='http']:not([class])::after {
 }
 
 .site-title {
-  h1 {
+  .h1 {
     font-size: calc(1.5rem + 3vw);
     letter-spacing: -1.5px;
     line-height: 1.1;
-
-    @media (min-width: 768px){
-      & {
-        text-align: start;
-      }
-    }
 
     @media (min-width: 1200px){
       & {
@@ -167,7 +142,7 @@ a[href^='http']:not([class])::after {
     }
   }
 
-  h2,
+  h3,
   p {
     color: #757575;
     font-family: var(--font-family-sans-serif);
@@ -175,7 +150,7 @@ a[href^='http']:not([class])::after {
     line-height: 1.25;
   }
 
-  h2 {
+  h3 {
     font-size: calc(1.275rem + .3vw);
 
     @media (min-width: 1200px){
@@ -184,6 +159,32 @@ a[href^='http']:not([class])::after {
       }
     }
   }
+}
+
+// SECTIONS
+
+.home-reco {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width:576px) {
+  .home-reco {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width:992px) {
+  .home-reco {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.home-outils {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, 240px);
 }
 
 .typography-body-1 {
@@ -277,6 +278,12 @@ a[href^='http']:not([class])::after {
     }
   }
 
+  .collapse.show:last-child {
+    margin-bottom: 2.5rem;
+  }
+
+  // Elements
+
   [class*='alert']{
     &,
     p,
@@ -285,7 +292,9 @@ a[href^='http']:not([class])::after {
     }
 
     h3 {
+      @extend .h6;
       color: inherit;
+      margin-bottom: 2rem;
     }
 
     > :first-child {
@@ -336,8 +345,24 @@ a[href^='http']:not([class])::after {
   }
 }
 
-.recommandation__content .collapse.show:last-child {
-  margin-bottom: 2.5rem;
+.navbar-toggler-icon {
+  font-size: 1rem;
+  line-height: 1rem;
+
+  &::before {
+    @extend %material-icon-content;
+    content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white' width='24px' height='24px'%3E%3Cpath d='M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z'/%3E%3C/svg%3E");
+  }
+
+  .navbar-toggler:not(.collapsed) & {
+    content: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" fill="white" width="24"%3E%3Cpath d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/%3E%3C/svg%3E');
+  }
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  @extend %material-icon-content;
+  content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23757575' width='24px' height='24px'%3E%3Cpath d='M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z'/%3E%3C/svg%3E");
+  line-height: 0.5;
 }
 
 // Questionnaire CAT
