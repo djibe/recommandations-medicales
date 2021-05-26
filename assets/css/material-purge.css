@@ -3843,6 +3843,9 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   .my-xl-5 {
     margin-bottom: 3rem !important;
   }
+  .pt-xl-5 {
+    padding-top: 3rem !important;
+  }
 }
 
 .stretched-link::after {

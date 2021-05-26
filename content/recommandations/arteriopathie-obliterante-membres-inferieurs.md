@@ -6,7 +6,7 @@ synonyms = ["ou Artériopathie aorto-iliaque et des membres inférieurs", "arté
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-05T18:53:00+02:00
 publishdate = 2021-05-16
-lastmod = 2021-05-19
+lastmod = 2021-05-22
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["ESC", "HAS", "SFMV"]
@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch06_arteriopathie_anevrysmes.pdf, Questionnaire d’Édimbourg, centres réadapt vasculaire, ETP, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/28222583/, https://pubmed.ncbi.nlm.nih.gov/33401955/, https://pubmed.ncbi.nlm.nih.gov/1474406/"
+todo = "Questionnaire d’Édimbourg, centres réadapt vasculaire, ETP, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/28222583/, https://pubmed.ncbi.nlm.nih.gov/33401955/, https://pubmed.ncbi.nlm.nih.gov/1474406/, Éducation thérapeutique, Associations de patients"
 +++
 
 {{%article-summary%}}
@@ -26,7 +26,7 @@ todo = "https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch06_
 - Définit un {{< modal-btn modal-risque-cardiovasculaire >}}très haut risque cardiovasculaire{{< /modal-btn >}}
 - Bilan des autres localisations athéromateuses
 - Suivi cardiologue et angiologue
-- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}}, IEC, sevrage tabagique, régime méditerranéen, réadaptation vasculaire supervisée ...
+- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}}, IEC, sevrage tabagique, régime méditerranéen, réhabilitation vasculaire supervisée ...
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -39,7 +39,7 @@ Artériopathie oblitérante des membres inférieurs (AOMI)
     - Coronaropathie (50%) et infarctus du myocarde (IDM)
     - [Accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}})
     - Mortalité cardiovasculaire  
-    Corrélation IPS-mortalité forte
+    Corrélation IPS-mortalité forte.
 
 AOMI masquée
 : Artériopathie *asymptomatique* liée à une neuropathie ou un niveau d'activité physique insuffisant pour révéler la claudication ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), insuffisance cardiaque, sédentarité).
@@ -57,6 +57,7 @@ Blue toe syndrome
 ### Abréviations
 
 **AAA:** anévrysme de l'aorte abdominale  
+**AAP:** antiagrégant plaquettaire  
 **FRCV:** facteurs de risque cardiovasculaire  
 **IDM:** infarctus du myocarde  
 **IPS:** index de pression systolique ({{%lang%}}ankle-brachial index (ABI){{%/lang%}})  
@@ -96,7 +97,7 @@ Blue toe syndrome
   - Insuffisance cardiaque
 - Asymptomatique à risque d'AOMI
   - **Âge ≥ 65 ans**
-  - {{< modal-btn modal-risque-cardiovasculaire >}}RCV élevé{{< /modal-btn >}}
+  - {{< modal-btn modal-risque-cardiovasculaire >}}Risque cardiovasculaire élevé{{< /modal-btn >}}
   - Âge ≥ 50 ans avec antécédent familial d’AOMI
   - Âge ≥ 50 ans avec ≥ 1 autre facteur de risque cardiovasculaire (SFMV 2020)
 
@@ -164,7 +165,7 @@ Iliaque, fémorale ou poplité, souffle systolique au triangle de Scarpa ++ (RV+
 {{%info%}}
 L'IPS sert au dépistage, au diagnostic et à la surveillance de l’AOMI.
 
-L'ESC encourage la **mesure de l’index de pression systolique** (IPS) par tout médecin au cours d'une consultation dédiée.  
+L'*ESC* encourage la **mesure de l’index de pression systolique** (IPS) par tout médecin au cours d'une consultation dédiée.  
 8 minutes pour un médecin entraîné.
 {{%/info%}}
 
@@ -174,9 +175,7 @@ L'ESC encourage la **mesure de l’index de pression systolique** (IPS) par tout
 Autres douleurs à l'effort:
 
 - Syndrome de loges  
-  - Sujet sportif, compression ou serrement des mollets après un exercice important
-  - Douleur diminue très lentement
-  - Soulagement jambes surélevées
+Sujet sportif, compression ou serrement des mollets après un exercice important, la douleur diminue très lentement, soulagement jambes surélevées.
 - Claudication veineuse  
 ATCD de TVP. Après la marche, compression/serrement de tout le MI, soulagement rapide jambe surélevée.
 - Sciatalgie/cruralgie
@@ -223,7 +222,7 @@ Dépiste une coronaropathie ou un trouble du rythme associé.
 
 **Objectif:** obtenir une amélioration du périmètre de marche et restaurer une qualité de vie.
 
-{{%class%}}Suivi cardiologique spécialisé, traitement systématique par statine et IEC, sevrage tabagique et mesures d’hygiène.{{%/class%}}
+{{%info%}}Suivi cardiologique spécialisé, traitement systématique par statine et IEC, sevrage tabagique et mesures d’hygiène.{{%/info%}}
 
 - [ALD n°3]({{< relref "affection-longue-duree.md" >}})  
 Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant nécessité revascularisation ou amputation.
@@ -237,7 +236,6 @@ Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant
   - Si double antiagrégant: pantoprazole
 - IEC systématique (voire ARA2, SFMV 2020)
 - Pression artérielle cible 120-140/90 mmHg
-  - PAD cible de 85 mmHg si diabète
   - Cible moindre en atteinte sévère pour maintien de pression distale
   - IEC voire telmisartan en 1<sup>re</sup> intention
   - Associé à un TZD ou anticalcique
@@ -246,7 +244,7 @@ Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant
 - Suivi cardiologique systématique  
 Par haut risque cardiovasculaire pour évaluer le risque coronarien et d'insuffisance cardiaque.
 - Suivi angiologique
-- Vaccination antigrippale annuelle (SFMV 2020)
+- [Vaccination antigrippale]({{< relref "grippe.md" >}}) annuelle (SFMV 2020)
 - Mise à jour de la vaccination antitétanique
 - Apports sodés < 5 g/j
 - Régime méditerranéen et correction d'un surpoids  
@@ -254,12 +252,12 @@ Par haut risque cardiovasculaire pour évaluer le risque coronarien et d'insuffi
 - Réadaptation vasculaire en centre voire par kinésithérapeute
 - Activité physique quotidienne  
 Auto-exercices et podomètre.
-- Si diabète: HbA1c cible ≤ 7% (SFD 2019, SFMV 2020)
+- Si diabète
+  - PAD cible < 85 mmHg
+  - HbA1c cible ≤ 7% (SFD 2019, SFMV 2020)
   - ≤ 8% si comorbidité sévère ou espérance de vie < 5 ans
   - 1<sup>re</sup> ligne: metformine
   - 2<sup>e</sup> ligne: dapagliflozine ou GLP-1 RA (liraglutide, dulaglutide)
-- Éducation thérapeutique
-- Associations de patients
 - Participer à la recherche  
 [ComPaRe](https://compare.aphp.fr/)
 

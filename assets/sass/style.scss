@@ -130,6 +130,9 @@ a[href^='http']:not([class])::after {
 }
 
 .site-title {
+  h1 {
+    letter-spacing: 1px;
+  }
   .h1 {
     font-size: calc(1.5rem + 3vw);
     letter-spacing: -1.5px;
@@ -162,6 +165,11 @@ a[href^='http']:not([class])::after {
 }
 
 // SECTIONS
+
+article {
+  content-visibility: auto;
+  contain-intrinsic-size: 700px;
+}
 
 .home-reco {
   display: grid;

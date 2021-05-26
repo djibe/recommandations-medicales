@@ -335,7 +335,8 @@ Envisager si (HAS 2019):
 - {{< modal-btn modal-severite-bpco >}}Obstruction très sévère (voire sévère){{< /modal-btn >}}
 - Cyanose
 - Polyglobulie
-- Signes d'insuffisance cardiaque droite
+- Signes d'insuffisance cardiaque droite  
+{{< clinique/insuffisance-cardiaque-droite >}}
 - SpO<sub>2</sub> ≤ 92% en air ambiant
   - SaO<sub>2</sub> < 88% pour GOLD 2021
   - 88% < SaO<sub>2</sub> < 90% avec insuffisance cardiaque droite ou polyglobulie pour GOLD 2021

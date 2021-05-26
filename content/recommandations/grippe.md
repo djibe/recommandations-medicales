@@ -37,25 +37,26 @@ ainsi que toutes les personnes fragiles pour la Covid-19.
 Insuffisance respiratoire, insuffisance cardiaque, diabète, insuffisance rénale, asthme, bronchopneumopathie obstructive…
 - Obésité morbide (IMC ≥ 40 kg/m<sup>2</sup>)
 - Femmes enceintes
-- Entourage des nourrissons de moins de 6 mois présentant des facteurs de risque de grippe grave: prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d’une affection de longue durée ainsi que l’entourage des personnes mmunodéprimées.
+- Entourage des nourrissons de moins de 6 mois présentant des facteurs de risque de grippe grave: prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d’une affection de longue durée ainsi que l’entourage des personnes immunodéprimées.
 
-> ANSM 13.10
+> ANSM 13/10/2020
 
 **Pour les autres personnes, différer la vaccination à début décembre.**
 
 {{%/collapse%}}
 {{%collapse "Personnes à risque de grippe grave" %}}
 
-{{% info %}}Vaccination annuelle en octobre pour ces personnes.
+{{%info%}}
+Vaccination annuelle en octobre pour ces personnes.
 
 InfluvacTetra® (ou VaxigripTetra®) 1 dose.
 
 Bon de prise en charge n°850 sur Ameli pro.
-{{% /info %}}
+{{%/info%}}
 
 - Personnes de plus de 65 ans
 - Femmes enceintes
-- Asthme et BPCO (ALD 14)
+- Asthme et [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (ALD 14)
 - Insuffisances respiratoires chroniques obstructives ou restrictives
 - Maladies respiratoires chroniques ne remplissant pas les critères de l’ALD mais susceptibles d’être aggravées ou décompensées par une affection grippale (asthme, bronchite chronique, bronchiectasies, hyper-réactivité bronchique)
 - Dysplasies broncho-pulmonaires
@@ -65,30 +66,31 @@ Bon de prise en charge n°850 sur Ameli pro.
 - Valvulopathies graves
 - Troubles du rythme graves justifiant un traitement au long cours
 - Maladies des coronaires
-- Antécédents d’accident vasculaire cérébral
+- [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (SFMV 2020)
+- Antécédents d’[accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}})
 - Formes graves des affections neurologiques et musculaires (dont myopathie, poliomyélite, myasthénie et maladie de Charcot)
 - Paraplégies et tétraplégies avec atteinte diaphragmatique
 - Néphropathies chroniques graves
 - Syndromes néphrotiques
 - Drépanocytoses, homozygotes et doubles hétérozygotes S/C, thalasso-drépanocytose
-- Diabètes de type 1 et de [type 2]({{< relref "diabete-type-2.md" >}})
+- Diabètes de [type 1]({{< relref "diabete-type-1.md" >}}) et de [type 2]({{< relref "diabete-type-2.md" >}})
 - Maladie hépatique chronique avec ou sans cirrhose
 - Déficits immunitaires primitifs ou acquis
   - Pathologies oncologiques et hématologiques, transplantations d’organe et de cellules souches hématopoïétiques, déficits immunitaires héréditaires
   - Maladies inflammatoires et/ou auto-immunes recevant un traitement immunosuppresseur,
-  - Personnes infectées par le VIH quels que soient leur âge et leur statut immunovirologique
+  - Toute [PVVIH]({{< relref "vih-sida.md" >}})
 - Obésité morbide (IMC ≥ 40 kg/m<sup>2</sup>)
 - Personnes séjournant en SSR, EHPAD ou médico-social
-- Entourage des nourrissons de moins de 6 mois présentant des facteurs de risque de grippe grave: prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d’une affection de longue durée ainsi que l’entourage des personnes mmunodéprimées.
+- Entourage des nourrissons de moins de 6 mois présentant des facteurs de risque de grippe grave: prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d’une affection de longue durée ainsi que l’entourage des personnes immunodéprimées.
 
-> [Calendrier vaccinal 2020](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+> {{< references/calendrier-vaccinal >}}
 
 ### Recommandations pour les professionnels
 
 - Professionnels de santé et tout professionnel en contact régulier et prolongé avec des personnes à risque de grippe sévère.
 - Personnel navigant des bateaux de croisière et des avions et personnel de l’industrie des voyages accompagnant les groupes de voyageurs (guides).
 
-> [Calendrier vaccinal 2020](https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf)
+> {{< references/calendrier-vaccinal >}}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

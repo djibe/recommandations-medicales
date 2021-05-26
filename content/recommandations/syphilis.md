@@ -6,16 +6,16 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-02T08:27:41+02:00
 publishdate = 2020-09-02
-lastmod = 2021-02-06
+lastmod = 2021-05-26
 specialites = ["dermatologie", "infectiologie"]
 annees = "2016"
-sources = ["SFDermato"]
+sources = ["SFDermato", "SPILF"]
 tags = ["depistage", "HSH", "IST", "VIH"]
 anglais = ["Syphilis"]
 sctid = "76272004"
 draft = false
 flowchart = true
-todo = ""
+todo = "Prescrire cite la ceftriaxone IM 1g/j 10 à 14j"
 +++
 
 {{%article-summary%}}
@@ -41,10 +41,9 @@ Syphilis précoce
 : Évolution datant de moins d’un an (J1 étant le 1<sup>er</sup> jour du chancre).  
 **Risque de contagion le plus important** (charge en tréponèmes +++).  
 Elle comprend:
-
-- la syphilis primaire
-- la syphilis sérologique
-- la syphilis secondaire
+    - la syphilis primaire
+    - la syphilis sérologique
+    - la syphilis secondaire
 : L’atteinte neurologique parenchymateuse est exceptionnelle.
 
 Syphilis tardive
@@ -77,9 +76,10 @@ Ne pas confondre avec une *allergie aux bêtalactamines*.
 - Demande du patient (arrêt du préservatif, changement de partenaire, comportement à risque, accident de préservatif)
 - Toute consultation pour motif urologique ou gynécologique bénin
 - Grossesse
-- 1<sup>re</sup> consultation avec personne jeune, population à risque, ATCD d’IST
-- Vulnérabilité. Parcours sentimental ou addictions
-- **HSH avec rapports non protégés**
+- 1<sup>re</sup> consultation avec personne jeune, population à risque, antécédent d’IST
+- Vulnérabilité  
+Parcours sentimental ou addictions.
+- **[HSH]({{< relref "hsh.md" >}}) avec rapports non protégés**
 - Prisonnier
 - Prostitué&bull;e
 - Rapports non protégés avec prostitué&bull;es
@@ -199,7 +199,7 @@ Informer sur la réaction d’Herxeimer.
 Benzathine pénicilline G (BPG) 2,4 MU dans fesse ou cuisse face latérale OU 2 injections IM de 1,2 MU.  
 Administration intra-musculaire exclusivement.  
 Garder le patient sous surveillance pendant 30 minutes en présence de matériel d’urgence.  
-**Contre-indications:** Allergie bêtalactamines, anticoagulants.
+**Contre-indications:** allergie bêtalactamines, anticoagulants.
 - Dépistage des contacts  
 Tous les contacts des 3 mois précédents.
 
@@ -209,9 +209,8 @@ Répéter les sérologies dans les populations à risque (contaminées ou non).{
 #### Situations particulières
 
 - Allergie aux bêtalactamines  
-doxycycline 100 mg x 2/jour per os pendant 14 jours  
-Contre-indications: enfant < 8 ans, grossesse, allaitement  
-(TODO: Prescrire cite la ceftriaxone IM 1g/j 10 à 14j)
+doxycycline 100 mg x 2/j pendant 14 jours  
+Contre-indications: enfant < 8 ans, grossesse, allaitement
 - Anticoagulants  
 Idem *Allergie aux bêtalactamines*
 - Patient VIH
@@ -331,6 +330,7 @@ graph TB
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [SPILF. Info-antibio N°92. Mai 2021.](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2021-05-tt-courts.pdf)
 - [Prescrire Rédaction. Syphilis Précoce. Octobre 2020.](https://prescrire.org/fr/Summary.aspx)
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
 - [Académie Nationale de Médecine. La Syphilis en France en 2016 : une situation précoccupante. 17/03/2017.](http://www.academie-medecine.fr/wp-content/uploads/2017/03/17.3.7-JANIER-site.pdf)

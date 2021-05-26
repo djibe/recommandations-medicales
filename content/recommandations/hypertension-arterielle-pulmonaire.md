@@ -89,7 +89,7 @@ Les signes cliniques de l'hypertension artérielle pulmonaire sont peu spécifiq
 - Angor
 - Hémoptysie
 - Signes d'HTP  
-Insuffisance tricuspidienne ou pulmonaire.
+Insuffisance tricuspide ou pulmonaire.
 - Signes d'insuffisance cardiaque droite
 
 {{%/info%}}
@@ -112,11 +112,11 @@ Amphétamines, cocaïne.
 
 - Pression artérielle, pouls, SpO<sub>2</sub>
 - Auscultation cardiaque  
-Insuffisance tricuspidienne (souffle holosystolique majoré en inspiration profonde), éclat du B2 pulmonaire, souffle diastolique d'insuffisance pulmonaire.
+Insuffisance tricuspide (souffle holosystolique majoré en inspiration profonde), éclat du B2 pulmonaire, souffle diastolique d'insuffisance pulmonaire.
 - Auscultation pulmonaire  
 Normale, discordante avec la sévérité des symptômes.
 - Signes d'insuffisance cardiaque droite  
-Tachycardie, galop, turgescence jugulaire, reflux hépato-jugulaire, hépatomégalie, œdèmes des membres inférieurs, ascite.
+{{< clinique/insuffisance-cardiaque-droite >}}
 - Signes d'hypertension portale
 - Signes de sclérodermie  
 [Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), sclérodactylie, télangiectasies, calcifications sous-cutanées, ulcérations digitales, dysphagie, dyspepsie ...

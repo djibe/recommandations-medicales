@@ -18,7 +18,7 @@ draft = false
 image = true
 imageSrc = "Habib M’henni / Wikimedia Commons"
 imagePNG = true
-todo = "simplifier SAOS, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, prévalence, doc explication PPC, durée minimale 4h, comor SOPK"
+todo = "simplifier, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, prévalence, doc explication PPC, durée minimale 4h, comor SOPK"
 +++
 
 {{%article-summary%}}
@@ -62,6 +62,7 @@ Hypersomnie
 **PMO:** phase de mouvements oculaires  
 **PSDM:** Prestataire de service et distributeurs de matériels  
 **REM:** {{%lang%}}Rapid eye movement{{%/lang%}} ou phase de sommeil paradoxal  
+**SAOS:** syndrome d'apnées obstructives du sommeil (ex-SAHOS)  
 **SDE:** Somnolence diurne excessive  
 **SFRMS:** Société Française de Recherche en Médecine du Sommeil  
 **SHRVAS:** Syndrome de haute résistance des voies aériennes supérieures  
@@ -84,9 +85,9 @@ Absence de débit aérien naso-buccal ≥ 10 secondes en l’absence d’efforts
 Absence de débit aérien naso-buccal ≥ 10 et l’apnée débute de façon centrale mais se combine ensuite à des efforts respiratoires.
 
 Hypopnée
-: Définition recommandée: Réduction du débit aérien nasal durant ≥ 10 secondes avec une diminution ≥ 30% du débit associé à une désaturation de la Sp02 ≥ 3% OU un micro-éveil.
+: Réduction du débit aérien nasal durant ≥ 10 secondes avec une diminution ≥ 30% du débit associé à une désaturation de la Sp02 ≥ 3% OU un micro-éveil.
 : Définition alternative: Réduction du débit aérien nasal durant ≥ 10 secondes avec une diminution ≥ 30% du débit associé à une désaturation de la Sp02 ≥ 4%.
-: Hypopnée obstructive si ≥ 1 parmi: ronflement pendant l’événement, (there is increased inspiratory flattening of the nasal pressure or PAP device flow signal compared to baseline breathing), efforts antagonistes thoraco-adbominaux pendant l’événement mais pas avant.
+: Hypopnée obstructive si ≥ 1 parmi: ronflement pendant l’événement, (there is increased inspiratory flattening of the nasal pressure or PAP device flow signal compared to baseline breathing), efforts antagonistes thoraco-abdominaux pendant l’événement mais pas avant.
 : Hypopnée centrale si aucun des événements ci-dessus.
 
 Efforts respiratoires inducteurs de micro-éveil (ERIM)
@@ -98,13 +99,6 @@ Visibles uniquement à l’EEG et donc invisible à la polygraphie ventilatoire 
 
 {{%lang%}}Respiratory Disturbance Index (RDI){{%/lang%}}
 : Somme des événements respiratoires en incluant les Efforts respiratoires inducteurs de micro-éveil = IAH + ERIM.
-
-### Qui peut être médecin du sommeil?
-
-Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire ou pharmacie ou internes en médecine, étrangers titulaires de diplômes équivalents.
-
-- [Université Paris Descartes](https://odf.u-paris.fr/fr/offre-de-formation/diplome-d-universite-du-diu-1/sciences-technologies-sante-STS/diu-le-sommeil-et-sa-pathologie-IGXS3RYI.html)
-- [Lyon 1](http://offre-de-formations.univ-lyon1.fr/parcours-658/physiologie-et-pathologie-du-sommeil.html)
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
@@ -121,9 +115,9 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 
 ### Comorbidités des apnées du sommeil
 
-- 20% ont une *BPCO* associée
+- 20% ont une [*BPCO*]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) associée
 - Association forte au [diabète de type 2]({{< relref "diabete-type-2.md">}})  
-15-30% des SAOS ont un DT2, 40-70% des DT2 ont SAOS
+15-30% des SAOS ont un DT2, 40-70% des DT2 ont SAOS.
 - 60% des *insuffisants cardiaques* ont une forme d’apnées du sommeil
 
 {{% /collapse %}}
@@ -150,15 +144,19 @@ Rechercher les apnées du sommeil de façon systématique chez:
 - Obèse > 35 kg/m²
 - [Diabète type 2]({{< relref "diabete-type-2.md">}})
 - Maladie cardiovasculaire
+  - Coronaropathie
+  - [AVC]({{< relref "accident-vasculaire-cerebral.md" >}})
   - Hypertension artérielle réfractaire
-  - Insuffisance cardiaque congestive
+  - Insuffisance respiratoire
+  - Insuffisance cardiaque
   - Fibrillation atriale
   - Arythmies nocturnes
-  - AVC
   - HTAP
 - Chauffeurs professionnels (ou métiers à risque)
 - Pré-opératoire de chirurgie bariatrique
 {{%/info%}}
+
+> SPLF 2010
 
 {{%warning%}}
 Enregistrement du sommeil systématique chez diabétique avec:
@@ -168,7 +166,6 @@ Enregistrement du sommeil systématique chez diabétique avec:
 - IRC d'évolution rapide (> 5 mL/min/1,73 m²/an)
 - Rétinopathie
 - Forte insulinorésistance
-
 {{%/warning%}}
 
 ### Facteurs de risque d'apnées du sommeil
@@ -236,7 +233,7 @@ Seules questions validées pour le dépistage du SAOS en cas de diabète.
 
 ### Interrogatoire
 
-- Facteurs de risque cardiovasculaires (tabagisme, HTA)
+- Facteurs de risque cardiovasculaires (tabagisme, HTA, dyslipidémie)
 - Antécédents cardiovasculaires (AVC, FA, IC, DT2, HTAP) et généraux
 - Antécédents familiaux
 - Facteurs aggravants  
@@ -506,16 +503,23 @@ IAH ≥ 30
 
 Les évolutions successives de la définition des hypopnées par l’AASM entraîne de grands reclassements des groupes de patients par modifications profondes de l’IAH. En effet, le score a été établi avec des capteurs de l’époque et n’incluait pas les micro-éveils (ERIM).
 
+### Qui peut être médecin du sommeil?
+
+Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire ou pharmacie ou internes en médecine, étrangers titulaires de diplômes équivalents.
+
+- [Université Paris Descartes](https://odf.u-paris.fr/fr/offre-de-formation/diplome-d-universite-du-diu-1/sciences-technologies-sante-STS/diu-le-sommeil-et-sa-pathologie-IGXS3RYI.html)
+- [Lyon 1](http://offre-de-formations.univ-lyon1.fr/parcours-658/physiologie-et-pathologie-du-sommeil.html)
+
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [SFD/SFRMS/SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. MMM septembre 2018.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
+- [SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. MMM septembre 2018.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
 - [Ramar K et al, AASM. Clinical Practice Guideline for the Treatment of Obstructive Sleep Apnea and Snoring with Oral Appliance Therapy: An Update for 2015. J Clin Sleep Med JCSM Off Publ Am Acad Sleep Med. 15 juill 2015;11(7):773‑827.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481062/)
 - [HAS. Apnées du sommeil : de nouvelles recommandations de prise en charge des patients. 10/09/2014.](https://www.has-sante.fr/jcms/c_1761160/fr/apnees-du-sommeil-de-nouvelles-recommandations-de-prise-en-charge-des-patients)
-- [SPLF, SFAR, SFC, SFMT, SFORL, SFRMS. Recommandations pour la Pratique Clinique - Syndrome d’apnées hypopnées obstructives du sommeil de l’adulte. 2010](http://www.sfrms-sommeil.org/IMG/pdf/reco_courtes_sas.pdf)
+- [SPLF, SFAR, SFC, SFMT, SFORL, SFRMS. Recommandations pour la Pratique Clinique - Syndrome d’apnées hypopnées obstructives du sommeil de l’adulte. 2010.](https://splf.fr/wp-content/uploads/2014/07/HS3_reco_sas2010.pdf)
 - [AASM. Obstructive Sleep Apnea. 2008](https://aasm.org/resources/factsheets/sleepapnea.pdf)
-- Ruehland WR et al. The new AASM criteria for scoring hypopneas: impact on the apnea hypopnea index. Sleep. févr 2009;32(2):150‑7.
-- Chiu H-Y et al. Diagnostic accuracy of the Berlin questionnaire, STOP-BANG, STOP, and Epworth sleepiness scale in detecting obstructive sleep apnea: A bivariate meta-analysis. Sleep Med Rev. déc 2017;36:57‑70.
-- Morgenthaler TI et al. Practice parameters for the medical therapy of obstructive sleep apnea. Sleep. août 2006;29(8):1031‑5.
+- [Ruehland WR et al. The new AASM criteria for scoring hypopneas: impact on the apnea hypopnea index. Sleep. févr 2009;32(2):150‑7.](https://pubmed.ncbi.nlm.nih.gov/19238801/)
+- [Chiu H-Y et al. Diagnostic accuracy of the Berlin questionnaire, STOP-BANG, STOP, and Epworth sleepiness scale in detecting obstructive sleep apnea: A bivariate meta-analysis. Sleep Med Rev. déc 2017;36:57‑70.](https://pubmed.ncbi.nlm.nih.gov/27919588/)
+- [Morgenthaler TI et al. Practice parameters for the medical therapy of obstructive sleep apnea. Sleep. août 2006;29(8):1031‑5.](https://pubmed.ncbi.nlm.nih.gov/16944671/)
 
 {{% /collapse %}}
