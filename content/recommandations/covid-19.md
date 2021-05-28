@@ -6,7 +6,7 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
-lastmod = 2020-11-16
+lastmod = 2021-05-28
 specialites = ["infectiologie"]
 annees = "2020"
 sources = ["HCSP", "MinSante"]
@@ -124,14 +124,16 @@ Atteintes possibles après une infection à Sars-Cov-2.
 [*Source DGS-Urgent 20/08/2020*](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=31000&cmd=visualiserMessage)
 
 {{% /collapse %}}
-{{%collapse "Indications et lieux de vaccination" %}}
+{{%collapse "Vaccination" %}}
 
-[Sur sante.fr](https://www.sante.fr/centres-vaccination-covid.html)
+- [Trouver une dose](https://www.sante.fr/cf/centres-vaccination-covid.html)
+- [Trouver une dose d'ARNm](https://vitemadose.covidtracker.fr/)
+- [Imprimer son attestation de vaccination](https://www.mgfrance.org/publication/infoexpress/2925-certificat-de-vaccination-vos-patients-peuvent-l-imprimer-en-ligne)
 
 {{% /collapse %}}
 {{%collapse "Certificats" %}}
 
-> “L’Ordre rappelle que les médecins n’ont pas à établir de certificat médical pour le retour à l’école”. [CNOM. 11/09/2020](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificat-medical-lecole)
+> << L’Ordre rappelle que les médecins n’ont pas à établir de certificat médical pour le retour à l’école. >> [CNOM. 11/09/2020](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificat-medical-lecole)
 
 {{%/collapse%}}
 {{%collapse "Vidéos" %}}

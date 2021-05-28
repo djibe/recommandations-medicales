@@ -6,24 +6,29 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
 publishdate = 2021-05-17
-lastmod = 2021-05-17
+lastmod = 2021-05-28
 specialites = ["cardiologie"]
 annees = "2016"
 sources = ["ESC", "HAS"]
 tags = ["dyspnee", "fatigue", "HTA", "risque cardiovasculaire", "tabac", "vaccin"]
 anglais = ["Chronic heart failure"]
-sctid = ""
+sctid = "48447003"
 draft = true
 flowchart = true
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "signaler collège bumétaNide, vérif obj PA, cotation sortie hospit, ETP, bilan sortie hospit, apnées sommeil, surveillance poids rythme, observance, BB asthme-bpco, https://www.has-sante.fr/jcms/c_2906058/fr/insuffisance-cardiaque-parcours-de-soins, https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical"
+todo = "signaler collège bumétaNide, vérif obj PA, bilan sortie hospit, apnées sommeil, https://www.has-sante.fr/jcms/c_2906058/fr/insuffisance-cardiaque-parcours-de-soins, https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Questionnaire de qualité de vie
+du Minnesota HAS p.54, https://www.ameli.fr/sites/default/files/Documents/5074/document/evaluation-observance-traitement_assurance-maladie.pdf"
 +++
 
 {{%article-summary%}}
 
 - Les prochaines recommandations *ESC* sortiront cet été
-TODO:
+- Évoquer devant des signes spécifiques ou non
+- ECG, NT-proBNP et consultation de cardiologie
+- Réduire le poids des comorbidités (HTA, tabac...)
+- Maximiser les posologies du traitement
+- Éducation thérapeutique pour la surveillance du poids et l'adaptation des diurétiques
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -34,7 +39,7 @@ Insuffisance cardiaque (IC)
 La 1<sup>re</sup> cause est **ischémique** secondée par l'**hypertension artérielle**.
 : Elle atteint surtout les personnes de plus de 70 ans.
 : La *fraction d'éjection* est le paramètre le plus utilisé pour caractériser la fonction systolique.
-: Principaux facteurs pronostiques: {{< modal-btn score-nyha >}}dyspnée NYHA III-IV{{< /modal-btn >}}, hospitalisations, FEVG basse, débit cardiaque bas, pressions pulmonaires augmentées, bloc de branche gauche, hyponatrémie, BNP augmentés, VO<sub>2</sub>max basse.
+: Principaux facteurs pronostiques: âge, {{< modal-btn score-nyha >}}dyspnée NYHA III-IV{{< /modal-btn >}}, hospitalisations, FEVG basse, bas débit cardiaque, pressions pulmonaires augmentées, bloc de branche gauche, hyponatrémie, BNP augmentés, VO<sub>2</sub>max basse.
 
 Insuffisance cardiaque à fraction d'éjection conservée
 : Patients plus âgés, prédominance féminine avec antécédent d'hypertension ou de fibrillation atriale.
@@ -53,7 +58,9 @@ Désynchronisation cardiaque
 ### Abréviations
 
 **BNP:** {{%lang%}}brain natriuretic peptide{{%/lang%}}  
+**ECG:** électrocardiogramme  
 **DAI:** défibrillateur automatique implantable  
+**ETT:** échocardiographie transthoracique  
 **FE:** fraction d'éjection (sous-entendu FEVG)  
 **FEVG:** fraction d'éjection ventriculaire gauche ({{%lang%}}LVEF - left ventricular ejection fraction{{%/lang%}})  
 **HTA:** hypertension artérielle  
@@ -101,6 +108,7 @@ Alcool, cocaïne, amphétamines, anabolisants.
 - Exposition aux métaux lourds
 - Symptômes typiques
   - Dyspnée d'effort ou de repos ({{< modal-btn score-nyha >}}score NYHA{{< /modal-btn >}}), orthopnée, dyspnée paroxystique nocturne
+  - Difficultés à réaliser les activités quotidiennes
   - Intolérance à l'exercice physique, récupération lente
   - Fatigue
   - Œdèmes des chevilles
@@ -161,7 +169,8 @@ TODO: Table 4.1
 
 ### Peptides natriurétiques
 
-Seuil diagnostique en état stable: BNP ≥ 35 pg/mL ou NT-proBNP ≥ 125 pg/mL.
+Seuil diagnostique en état stable: BNP ≥ 35 pg/mL ou NT-proBNP ≥ 125 pg/mL.  
+Utiliser toujours le même au cours du suivi.
 
 **NB.** L'obésité sous-estime anormalement les taux.
 
@@ -188,17 +197,23 @@ Uniquement si: cardiomyopathie hypertrophique, TODO:idiopathic DCM ou cardiomyop
 - 3<sup>e</sup> intention: association possible
   - IEC remplacé par [valsartan/sacubitril](https://www.ema.europa.eu/en/documents/product-information/entresto-epar-product-information_fr.pdf)
 - Pression artérielle cible 120-140/90 mmHg
+  - Auto-surveillance 1-2/semaine
   - ≥ 75 ans ou haut risque: PAS < 120 mmHg
 - LDL cible
 - Bradycardisant ivabradine  
 Tachycardie persistante sous BB dose maximale.
-- Diurétiques à visée symptomatique  
-[Furosémide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68009803&typedoc=R) 20-1000 mg/j ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68232635&typedoc=R). Éducation pour adaptation aux apports sodés.
-- Réadaptation cardiaque supervisée
-- Vaccination antigrippale et {{< modal-btn modal-pneumocoque >}}anti-pneumococcique{{< /modal-btn >}}
+- Diurétiques à visée symptomatique
+  - [Furosémide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68009803&typedoc=R) 20-40 mg jusqu'à 1000 mg/j. Fractionner au-delà de 40 mg
+  - ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68232635&typedoc=R) 0,5-1 mg jusqu'à 5 mg/j. Fractionner au-delà de 1 mg
+  - Éducation pour adaptation aux apports sodés
+  - Augmenter dès prise de 2-3 kg en quelques jours
+- 30 minutes d'activité physique/j
+- Réadaptation cardiaque supervisée en SSR
+- Vaccination antigrippale et {{< modal-btn modal-pneumocoque >}}anti-pneumococcique{{< /modal-btn >}} tous les 5 ans
 - Mesures hygiéno-diététiques
-  - Régime sans sel
-  - Surveillance du poids
+  - Régime sans sel < 5 g/j
+  - Surveillance du poids 1-2/semaine, 3-4 si {{< modal-btn score-nyha >}}NYHA 3-4{{< /modal-btn >}}
+  - Évaluation diététique
   - Arrêt du tabac
   - Réduction d'une consommation d'alcool  
   Courbe en U.
@@ -231,7 +246,73 @@ Les études sont en cours. Aucun traitement n'a démontré son efficacité.
 - IEC voire ARA2
 - Bêtabloquants  
 Voire anticalciques bradycardisants (diltiazem, vérapamil)
-- Diurétique thiazidique ou de l'anse
+- Furosémide à visée symptomatique
+- Vaccination antigrippale et {{< modal-btn modal-pneumocoque >}}anti-pneumococcique{{< /modal-btn >}} tous les 5 ans
+
+{{% /collapse %}}
+{{%collapse "Hospitalisation" %}}
+
+{{%warning%}}
+
+### Indications à l'hospitalisation
+
+- Sévérité clinique
+  - Dyspnée, cyanose
+  - Œdèmes majeurs
+  - Fibrillation atriale
+  - Bradycardie < 50 mal tolérée ou BAH haut degré
+  - Hypotension mal tolérée
+  - Angor aggravé ou d'apparition récente
+- Sévérité biologique
+  - Hyponatrémie ou hyperkaliémie menaçante
+  - Anémie
+  - Insuffisance rénale d'aggravation progressive
+- Comorbidités
+  - Valvulopathie sévère ou autre
+  - Maintien à domicile impossible
+
+{{%/warning%}}
+
+### Sortie d'hospitalisation
+
+- Consultation dans la semaine qui suit la sortie
+Coter *GS* + *MIC* (23€, total 48€).
+- Puis minimum toutes les 2 semaines pour la titration des IEC + BB
+- Consultation avec le cardiologue  
+dans un délai de 1 semaine à 2 mois.
+
+{{% /collapse %}}
+{{%collapse "Surveillance" %}}
+
+{{< table title="Rythme minimal de suivi annuel de l'ICFEd en état stable. HAS 2014" >}}
+| NYHA  | Généraliste | Cardiologue |
+|:------|------------:|------------:|
+| I     | 2 | 1 |
+| II    | 4 | 2 |
+| III-IV   | 4-12 | 4-12 |
+{{< /table >}}
+
+{{< table title="Rythme minimal de suivi annuel de l'ICFEp en état stable. HAS 2014" >}}
+| NYHA  | Généraliste | Cardiologue |
+|:------|------------:|------------:|
+| I     | 2 | 1 |
+| II    | 4 | 1 |
+| III-IV   | 4-12 | 2-3 |
+{{< /table >}}
+
+- Observance du traitement
+- Auto-surveillance du poids et adaptation du furosémide
+- Consulter en aggravation des symptômes ou l'absence d'amélioration sous traitement
+- Intensité des symptômes
+- Activités de la vie quotidienne
+- PA-FC-poids
+- Sel, alcool, tabac
+- Activité physique
+- Posologies en cours
+- Suivi iono-créat, NFS (min 2/an)
+- Vaccinations
+- ECG à chaque consultation de cardiologie
+- ETT si symptômes (NYHA 2 1-2 ans, 3+ si aggravation)
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une insuffisance cardiaque" "show" %}}
@@ -266,9 +347,86 @@ style ICFEd stroke:#006ef4, stroke-width:1px
 > ICFEd: IC à fraction d'éjection diminuée
 
 {{%/collapse%}}
-{{%collapse "information du patient" %}}
+{{%collapse "Information du patient" %}}
 
 [HAS. Vivre avec une insuffisance cardiaque](https://www.has-sante.fr/upload/docs/application/pdf/2008-06/08-096_gp_insuf-cardia.pdf)
+
+- L'insuffisance cardiaque et ses symptômes
+- Traitements prescrits, effets indésirables possibles, le suivi de routine
+- Aucune automédication
+- Médicaments à éviter: potassium, AINS, anticalciques, corticoïdes, formes effervescentes
+- Auto-surveillance 1-2/semaine: poids, PA, fréquence cardiaque  
+Pesée à jeun, après avoir uriné, sur la même balance, valeur notée.
+- Ordonnance en avance pour dosage NT-proNBP en cas de décompensation
+- Eau 1-2 L/j
+- Importance de l'activité physique quotidienne de 30 minutes
+- Régime sans sel < 5 g/j  
+Limiter charcuterie, fromage, pain, conserves.
+- Évaluation diététique
+- Arrêt du tabac
+- Réduction d'une consommation d'alcool
+- Identifier les facteurs de décompensation
+- Numéros à appeler en urgence
+- Consulter devant
+  - Perte de poids trop rapide, soif, sécheresse de la bouche
+  - Prise de 2-3 kg en quelques jours
+  - Aggravation d'œdèmes
+  - PAS < 110 mmHg
+  - FC < 45/min
+  - Pouls irrégulier
+  - Aggravation de l'essoufflement, essoufflement couché
+  - Toux
+
+> HAS 2014
+
+### Points essentiels de l'ETP pour l'insuffisance cardiaque
+
+- Définition et étiologie de l'IC  
+Comprendre les causes de l'IC et de survenue des symptômes.
+- Symptômes et signes
+  - Surveiller et reconnaître les signes et symptômes
+  - Se peser chaque jour et reconnaître une prise de poids rapide (min 2-3/semaine)
+  - Savoir quand et comment contacter un soignant
+  - Prendre des diurétiques à la demande si pertinent et conseillé
+- Traitement
+  - Comprendre les indications, les doses et les effets des médicaments
+  - Reconnaître les effets indésirables courants de chaque médicament prescrit
+- Modification des facteurs de risque
+  - Comprendre l’importance de l’arrêt du tabac
+  - Surveiller la pression artérielle en cas d’HTA
+  - Obtenir un bon contrôle de la glycémie en cas de diabète
+  - Éviter l’obésité
+- Recommandations diététiques
+  - Restriction sodée < 5 g/j
+  - Apport hydrique 1-2 L/j
+  - Réduire l'alcool
+  - Surveiller et prévenir la malnutrition
+- Activité physique
+  - Vaincre les réticences à l’activité physique
+  - Comprendre les bénéfices de l’exercice
+  - Entraînement physique quotidien
+- Activité sexuelle
+  - Ne pas craindre les rapports sexuels et discuter des problèmes avec les
+professionnels de santé
+  - Comprendre les problèmes sexuels spécifiques et développer des stratégies
+permettant de les surmonter
+- Vaccination grippe + pneumocoque
+- Troubles du sommeil et de la respiration
+  - Correction des FRCV, obésité, alcool
+  - S’informer des options thérapeutiques si approprié
+- Observance  
+Comprendre l’importance du respect des recommandations thérapeutiques et
+d’une motivation soutenue à suivre le plan de soins.
+- Psychologie
+  - Comprendre que la dépression et les troubles cognitifs sont fréquents et que
+l’accompagnement social est important
+  - S’informer des options thérapeutiques si approprié
+- Pronostic
+  - Comprendre l’importance des facteurs pronostiques et prendre des décisions
+réalistes
+  - Chercher un soutien psychosocial si approprié
+
+> HAS 2014
 
 {{%/collapse%}}
 {{%collapse "Sources" %}}

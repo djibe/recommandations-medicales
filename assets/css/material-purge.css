@@ -3685,6 +3685,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   margin-left: 0.5rem !important;
 }
 
+.m-3 {
+  margin: 1rem !important;
+}
+
 .mt-3,
 .my-3 {
   margin-top: 1rem !important;

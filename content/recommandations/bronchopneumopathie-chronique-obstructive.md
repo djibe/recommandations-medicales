@@ -7,10 +7,10 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2021-05-21
+lastmod = 2021-05-28
 specialites = ["pneumologie"]
 annees = "2021"
-sources = ["GOLD", "HAS", "SPLF"]
+sources = ["ERS", "GOLD", "HAS", "SPLF"]
 tags = ["depistage", "dyspnee", "fatigue", "tabac", "toux"]
 anglais = ["Chronic Obstructive Pulmonary Disease (COPD)"]
 sctid = "13645005"
@@ -232,33 +232,29 @@ Scanner thoracique, ECBC, alpha1 antitrypsine... selon le pneumologue.
 Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-bpco >}}VEMS < 50%{{< /modal-btn >}}
 - Arrêt du tabac
   - Principal facteur pronostique
-  - Conseil minimal d'aide l'arrêt régulier
-  - Prise en charge optimale ([substituts]({{< relref "substituts-nicotiniques.md" >}}), [tabac-info-service](https://www.tabac-info-service.fr/), tabacologue, psychothérapie), varénicline
+  - Prise en charge optimale (conseil minimal, [substituts]({{< relref "substituts-nicotiniques.md" >}}), [tabac-info-service](https://www.tabac-info-service.fr/), tabacologue, psychothérapie, varénicline)
   - Autres expositions aux toxiques et gaz domestiques et professionnels  
   Aérosols, combustion de bois ou biomasse, moisissures.
 - Vaccination
   - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) (avec la coqueluche)
   - Antigrippale annuelle
-  - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}} si > 65 ans ou comorbidités (cardiaque ou respiratoire)  
-  Rappel tous les 5 ans.
+  - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}} /5 ans si > 65 ans ou comorbidités (cardio-respiratoire)
 - Réhabilitation respiratoire
   - Essentielle pour tous pour réduire la dyspnée, le stress et améliorer la qualité de vie
   - Répétée si besoin
   - [Liste des centres de réhabilitation respiratoire (RR)](https://splf.fr/la-carte-de-la-rehabilitation-respiratoire/)
-  - Voire à domicile par kiné  
+  - Voire kinésithérapie respiratoire à domicile  
   Prescrire: "Séances de réadaptation respiratoire kinésithérapique pour maladie respiratoire chronique obstructive".
 - Activité physique quotidienne
   - Augmenter le temps de marche quotidien, escaliers, vélo  
   Favoriser avec podomètre, appli (Google Fit ...)
   - [Annuaire pour l'Activité Physique Adaptée (APA)](https://www.sfp-apa.fr/annuaire/)
-  - Kinésithérapie respiratoire
-- Prise en charge des comorbidités
 - Évaluation nutritionnelle  
 Dont santé bucco-dentaire et diététicien.
 - Éducation thérapeutique et Plan d'action  
 Systématique, voir le chapitre suivant.
 - Réévaluation de médicaments bronchoconstricteurs  
-Bêtabloquant (même cardiosélectif ou oculaire), ticagrélor, adénosine, latanoprost
+Bêtabloquant (même cardiosélectif ou oculaire), ticagrélor, adénosine, latanoprost.
 - Observance et techniques de prises de tous les traitements
 - Soutien psychologique
 - Personne de confiance
@@ -308,14 +304,18 @@ Arrêt si pneumonie ou autres EI des corticoïdes et remplacement par bithérapi
 Triple association: {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}.  
 Arrêt des corticoïdes si pneumonie ou autres effets indésirables.
 
-Seul le pneumologue peut prescrire une trithérapie ou des nébulisations.
+Seul le pneumologue peut prescrire une trithérapie ou des nébulisations.  
+Il est également le seul à décider du bénéfice des:
+
+- mucolytiques (prévention des exacerbations par N-acétylcystéine 600 mg x 2/j, faible niveau de preuve)
+- macrolides (prévention des exacerbations par azithromycine 250 mg/j, faible niveau de preuve)
+- {{%class%}}roflumilast (Daxas® non commercialisé en France){{%/class%}}
 
 {{%warning%}}
 Ne jamais utiliser:
 
 - Corticoïdes inhalés en monothérapie
 - Corticoïdes oraux prolongés
-- Mucolytiques
 - Antileucotriènes
 - Antitussifs  
 Opiacés formellement contre-indiqués.
@@ -539,6 +539,7 @@ Anémie, asthme, cancer, insuffisance cardiaque, surpoids, troubles du sommeil, 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Wedzicha JA et al. Prevention of COPD exacerbations: a European Respiratory Society/American Thoracic Society guideline. Eur Respir J 2017; 50: 1602265.](https://doi.org/10.1183/13993003.02265-2016)
 - [Georges M. Réhabilitation respiratoire dans la BPCO : bis repetita. 18/05/2021.](https://splf.fr/rehabilitation-respiratoire-dans-la-bpco-bis-repetita/?utm_source=rss&utm_medium=rss&utm_campaign=rehabilitation-respiratoire-dans-la-bpco-bis-repetita)
 - [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. 2020.](https://goldcopd.org/2021-gold-reports/)
 - [Prescrire Redaction. Questionner sa pratique : préserver la qualité de vie des patients souffrant de BPCO. Rev Prescrire 2020 ; 40 (445) : 861-864.](https://prescrire.org/)

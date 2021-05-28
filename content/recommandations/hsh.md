@@ -27,15 +27,31 @@ todo = "TODO: gono, Prep, https://www.eacsociety.org/files/2019_guidelines-10.0_
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
+**HSH:** Homme ayant des rapports sexuel avec des hommes
+
 Surexposition au [VIH] (prévalence 13%, 45% des cas), [syphilis]({{< relref "syphilis.md" >}}) (80% des cas), [HPV]({{< relref "papillomavirus.md" >}}), [hépatite A]({{< relref "hepatite-A.md" >}}), autres IST.
 
-- **45% des personnes fréquentant les milieux sociaux HSH (bars, backrooms) déclarent plus de 10 partenaires par an**
+### Épidémiologie
+
+En 2019, durant les 12 deniers mois:
+
+- 28% ont reçu des injures à caractère homophobe
+- 5% ont été agressés physiquement
+
+Principalement dans les lieux publics > professionnel et scolaire > familial.
+
+> [Duchesne L et al. Violences homophobes subies par les hommes ayant des relations sexuelles avec des hommes en 2019. Enquête rapport au sexe. Bull Epidémiol Hebd. 2021;(6-7):105-11.](http://beh.santepubliquefrance.fr/beh/2021/6-7/2021_6-7_2.html)
+
+Au moins 2 fois plus de dépressions (1/4 expliquées par les agressions), tentatives de suicides et suicides que les personnes hétérosexuelles.
+
+> [El Khoury Lesueur F et al. Le groupe Baromètre de Santé publique France 2017. Santé mentale des adultes selon l’orientation sexuelle et violences subies. Résultats du Baromètre de Santé publique France 2017. Bull Epidémiol Hebd. 2021;(6-7):97-104.](http://beh.santepubliquefrance.fr/beh/2021/6-7/2021_6-7_1.html)
+
+Parmi les HSH fréquentant les milieux sociaux HSH (bars, backrooms):
+
+- 45% déclarent plus de 10 partenaires par an
 - 1/3 n’utilise pas de préservatif
-- 20% ont une utilisation concomitante de produits psychoactifs
-
-### Abréviations
-
-**HSH:** Homme ayant des rapports sexuel avec des hommes
+- 20% ont des relations avec prise de produits psychoactifs
+- 14,3% ont le VIH ([Velter  A. 2017](https://portaildocumentaire.santepubliquefrance.fr/exl-php/util/documents/accede_document.php?1622191525936))
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -75,7 +91,7 @@ Spécialités chez l'adulte:
 
 #### Vaccin papillomavirus
 
-"GARDASIL 9® recommandée jusqu’à l’âge de 26 ans, en prévention des lésions précancéreuses anales, des cancers anaux et des condylomes. Dans cette situation, la vaccination peut être proposée dans certains CeGIDD et dans certains centres publics de vaccination".
+<< GARDASIL 9® recommandée jusqu’à l’âge de 26 ans, en prévention des lésions précancéreuses anales, des cancers anaux et des condylomes. Dans cette situation, la vaccination peut être proposée dans certains CeGIDD et dans certains centres publics de vaccination. >>
 
 ### PreEp
 
