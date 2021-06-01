@@ -17,7 +17,7 @@ qualite = "bonne"
 draft = false
 image = true
 imageSrc = "Illustration de freepik - www.freepik.com"
-todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests_fagerstrom.pdf, https://ers.app.box.com/v/ERSTCCHarmReductionPosition"
+todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests_fagerstrom.pdf"
 +++
 
 ## {{< class "typography-headline-5" >}}Sevrage tabagique - les substituts nicotiniques remboursés{{</class>}}

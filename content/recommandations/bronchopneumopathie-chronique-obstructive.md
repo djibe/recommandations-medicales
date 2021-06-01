@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2021-05-28
+lastmod = 2021-06-01
 specialites = ["pneumologie"]
 annees = "2021"
 sources = ["ERS", "GOLD", "HAS", "SPLF"]
@@ -21,12 +21,14 @@ imageSrc = "Illustration de Freepik"
 todo = "SPLF 2021, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, planification des soins futurs et les directives anticipées (43), travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, a1antitrypsine"
 +++
 
+*Les recommandations SPLF 2021 ne sont pas encore intégrées*
+
 {{%article-summary%}}
 
 - {{< modal-btn modal-depistage-bpco >}}Dépistage{{< /modal-btn >}} et arrêt du tabac pour tout le monde  
 Principal facteur du déclin du VEMS.
 - Le diagnostic est spirométrique: TVO non réversible
-- Le VEMS est le facteur pronostique majeur: {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
+- Le VEMS est le facteur pronostique majeur de la {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
 - 4 piliers du traitement: arrêt du tabac, vaccination grippe + pneumocoque, activité physique et réhabilitation respiratoire
 - Adaptation des bronchodilatateurs selon les symptômes et les exacerbations ({{< modal-btn modal-score-cat >}}évaluation CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}dyspnée mMRC{{< /modal-btn >}})
 - Bronchodilatateurs: {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}}, {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama >}}LABA + LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}
@@ -305,11 +307,11 @@ Triple association: {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{
 Arrêt des corticoïdes si pneumonie ou autres effets indésirables.
 
 Seul le pneumologue peut prescrire une trithérapie ou des nébulisations.  
-Il est également le seul à décider du bénéfice des:
+Il est également le seul à décider du bénéfice des (ERS 2021):
 
 - mucolytiques (prévention des exacerbations par N-acétylcystéine 600 mg x 2/j, faible niveau de preuve)
 - macrolides (prévention des exacerbations par azithromycine 250 mg/j, faible niveau de preuve)
-- {{%class%}}roflumilast (Daxas® non commercialisé en France){{%/class%}}
+- {{%class%}}roflumilast (Daxas®, non commercialisé en France){{%/class%}}
 
 {{%warning%}}
 Ne jamais utiliser:
@@ -529,6 +531,8 @@ Anémie, asthme, cancer, insuffisance cardiaque, surpoids, troubles du sommeil, 
 
 {{% /collapse %}}
 {{%collapse "Vidéos de formation" %}}
+
+{{< video poster="https://splf.fr/wp-content/uploads/2021/05/Webinaire-2021-05-26-1300-500.png" mp4="http://dts.podtrac.com/redirect.mp4/docs.splf.fr/videos/Webinaires/2021/Webinaire-SPLF-2021-05-26.mp4" description="Webinaire SPLF/Groupe BPCO Optimisation du traitement médicamenteux des patients atteints de BPCO en état stable" width="100%" >}}
 
 ### Techniques d'inhalation des bronchodilatateurs
 

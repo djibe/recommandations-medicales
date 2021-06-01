@@ -224,7 +224,7 @@ Fréquence et nombre total de séances dépendent de l'évolution.
 {{%collapse "Information des parents" %}}
 
 [Fiche conseils aux parents (HAS/CNP)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)  
-[Santé Publique France. Votre enfant a la bronchiolite.](https://www.santepubliquefrance.fr/content/download/340939/3015336)
+[Santé Publique France. Votre enfant a la bronchiolite.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite/documents/depliant-flyer/votre-enfant-et-la-bronchiolite)
 
 Revenir consulter rapidement si:
 

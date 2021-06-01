@@ -137,6 +137,14 @@ p {
   margin-bottom: 1rem;
 }
 
+abbr[title] {
+  border-bottom: 0;
+  cursor: help;
+  text-decoration: underline;
+  text-decoration: underline dotted;
+  text-decoration-skip-ink: none;
+}
+
 
 dd,
 ol,
@@ -3677,6 +3685,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   margin-top: 0.5rem !important;
 }
 
+.mr-2 {
+  margin-right: 0.5rem !important;
+}
+
 .mb-2 {
   margin-bottom: 0.5rem !important;
 }
@@ -3982,6 +3994,9 @@ input:-webkit-autofill:active {
   *::after {
     box-shadow: none !important;
     text-shadow: none !important;
+  }
+  abbr[title]::after {
+    content: ' ("attr(title) ") ';
   }
   pre {
     white-space: pre-wrap !important;

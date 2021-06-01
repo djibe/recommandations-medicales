@@ -330,7 +330,7 @@ graph TB
 
 > **Légende**  
 **MCV:** maladie cardiovasculaire  
-**Inhibiteurs CYP3A4/GP:** [pristinamycine, macrolides...](https://www.ansm.sante.fr/Dossiers/Interactions-medicamenteuses/Interactions-medicamenteuses-et-cytochromes/(offset)/1)  
+**Inhibiteurs CYP3A4/GP:** pristinamycine, macrolides...  
 **Colchicine** J1: 1 mg puis 0,5 mg à H1 puis jours suivants 0,5 mg x 2-3/j.  
 **AINS:** Naproxène.  
 **Corticoïdes:** 30-35 mg/j prednisone 5 jours ou infiltration de grosse articulation.  
@@ -394,7 +394,7 @@ Intérêt de colchicine prophylactique.
 - [Prescrire Rédaction. Douleur et crise de goutte. Septembre 2020.](https://prescrire.org)
 - [EULAR. 2016 updated EULAR evidence-based recommandations for the management of gout. July 25, 2016.](https://ard.bmj.com/content/76/1/29)
 - [La Revue Prescrire. Fébuxostat : syndromes de Lyell et hypersensibilités graves ajoutés dans le RCP. Février 2015.](https://prescrire.org/)
-- [ANSM. Allopurinol et risque de survenue de toxidermies graves – Lettre aux professionnels de santé. 25 Février 2013.](https://ansm.sante.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Allopurinol-et-risque-de-survenue-de-toxidermies-graves-Lettre-aux-professionnels-de-sante)
+- ANSM. Allopurinol et risque de survenue de toxidermies graves – Lettre aux professionnels de santé. 25 Février 2013.
 - Société Française de Rhumatologie. Traitement de la goutte. Revue du Rhumatisme 74. 2007.
 - Collège Français des Enseignants en Rhumatologie (COFER). Item 198 UE 8 - Arthropathie microcristalline.
 

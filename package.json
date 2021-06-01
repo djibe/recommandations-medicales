@@ -11,6 +11,7 @@
     "html:lint-vnu": "npm run build && node build/vnu-jar.js",
     "hugo:debug": "hugo --cleanDestinationDir --minify --debug --logFile ./hugo.log --verboseLog",
     "hugo:update": "choco upgrade hugo-extended",
+    "links:check": "linkinator ./content/recommandations/*.md --markdown --verbosity WARNING",
     "server": "hugo server --buildDrafts --watch --destination dev --verbose --cleanDestinationDir",
     "start": "hugo --cleanDestinationDir --gc --minify"
   },
@@ -43,6 +44,7 @@
     "cli-real-favicon": "0.0.8",
     "cross-env": "^7.0.3",
     "htmllint-cli": "0.0.7",
+    "linkinator": "^2.13.6",
     "node-sass": "^5.0.0",
     "vnu-jar": "^21.4.9"
   },

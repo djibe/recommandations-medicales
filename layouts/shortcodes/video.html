@@ -1,7 +1,7 @@
 <figure class="figure">
   <video {{ with .Get "poster" }}poster="{{ . }}"{{ end }} 
-    width="320"
-    height="240"
+  {{ with .Get "width" }}width="{{ . }}"{{ else }} width="320"{{ end }}
+    height="auto"
     preload="metadata"
     controls
   >{{ with .Get "mp4" }}

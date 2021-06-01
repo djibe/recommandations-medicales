@@ -272,7 +272,7 @@ Limiter vélo, ski.
 - Chirurgie en cas d'échec du traitement conservateur
 
 {{% /collapse %}}
-{{%collapse "FMC" %}}
+{{%collapse "FMC gratuite" %}}
 
 ### Sémiologie du genou par Le COFER
 

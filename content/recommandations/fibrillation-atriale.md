@@ -14,7 +14,7 @@ tags = ["FA", "anticoagulant", "AOD", "HTA", "SAOS"]
 anglais = ["MSM"]
 sctid = "76102007"
 draft = true
-todo = "ESC 2020, Source 2013 bonne pour EGS, source 2013 pour AVK sujet âgé, https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch14_fibrillation_atriale.pdf, https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/insuffisance-cardiaque/documents/article/epidemiologie-de-la-fibrillation-atriale-en-france.-incidence-des-patients-nouvellement-traites-par-un-anticoagulant-oral-evolutions-temporelles-e"
+todo = "ESC 2020, Source 2013 bonne pour EGS, source 2013 pour AVK sujet âgé, https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch14_fibrillation_atriale.pdf, http://beh.santepubliquefrance.fr/beh/2021/5/2021_5_1.html"
 +++
 
 {{%article-summary%}}

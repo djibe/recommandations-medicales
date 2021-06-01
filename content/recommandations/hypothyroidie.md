@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-14T23:30:41+02:00
 publishdate = 2020-04-14
-lastmod = 2020-07-21
+lastmod = 2021-05-31
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["ANSM", "HAS"]
@@ -204,17 +204,15 @@ Adaptation par paliers de 12 µg.
 
 #### Spécialités disponibles
 
-{{%list "list-group" %}}
-
 - {{%class%}}Euthyrox® (ancienne formulation de Lévothyrox®, bientôt retiré){{%/class%}}
 - L-Thyroxin Henning®
 - Lévothyrox®
-- Thyrofix
-- Tcaps (capsule molle, non remboursable)
+- Thyrofix®
+- Tcaps® (capsule molle, non remboursable)
 - **Buvables**
 - L-Thyroxine Serb® en gouttes pédiatriques
-- Tsoludose (non remboursable)
-{{% /list %}}
+- Tsoludose® (non remboursable)
+{.list-group}
 
 #### Consignes d'administration de la lévothyroxine
 
@@ -287,7 +285,7 @@ graph TB
 {{% /collapse %}}
 {{%collapse Sources %}}
 
-- [ANSM. Liste des médicaments à base de lévothyroxine disponibles en France. 11/08/2020.](https://ansm.sante.fr/Dossiers/Levothyrox-et-medicaments-a-base-de-levothyroxine/A-quoi-servent-les-medicaments-contenant-de-la-levothyroxine/(offset)/0#paragraph_155067)
+- [ANSM. Liste des médicaments à base de lévothyroxine disponibles en France. 19/03/2021.](https://ansm.sante.fr/dossiers-thematiques/les-medicaments-a-base-de-levothyroxine-disponibles-en-france-1/les-medicaments-a-base-de-levothyroxine-disponibles-en-france)
 - [Mooijaart SP et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 30 oct 2019;1‑11.](https://jamanetwork.com/journals/jama/fullarticle/2753909)
 - [HAS. Hypothyroïdie – pertinence des soins. Mars 2019.](https://www.has-sante.fr/portail/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)
 - [S. Laboureau-Soares et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8.](https://www.em-select.com/article/224074)

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-03T13:12:00+02:00
 publishdate = 2021-04-05
-lastmod = 2021-05-16
+lastmod = 2021-06-01
 specialites = ["gynecologie-obstetrique"]
 annees = "2017"
 sources = ["CNGOF", "HAS"]
@@ -34,7 +34,7 @@ todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité 
 {{%collapse "Définitions" %}}
 
 Endométriose
-: Atteinte pelvienne féminine fréquente (2,5 millions de patientes en France, environ 10% des femmes).  
+: Atteinte pelvienne féminine fréquente (10% des femmes en âge de procréer).  
 La définition est histologique avec la présence de glandes ou stroma endométrial en dehors de l'utérus.  
 Elle est pathologique lorsqu'elle entraîne des **douleurs pelviennes chroniques** ou une **infertilité**.  
 Les douleurs sont souvent améliorées pendant les grossesses et après la ménopause.
@@ -76,6 +76,15 @@ Les AINS ne sont donc utilisés qu'en péri-menstruel.
 **EHP-5:** échelle de qualité de vie {{%lang%}}Endometriosis Health Profile-5{{%/lang%}}  
 **LNG:** lévonorgestrel  
 **TV:** toucher vaginal
+
+{{% /collapse %}}
+{{%collapse "Épidémiologie" %}}
+
+- 2,5 millions de patientes en France, environ 10% des femmes en âge de procréer
+- Endométriose responsable de 30% des infertilités féminines
+- et 30% des femmes avec douleurs pelviennes chroniques
+- 75% des douleurs pelviennes chroniques résistantes sont endométriosiques
+- 70% des adolescentes avec dysménorrhées
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

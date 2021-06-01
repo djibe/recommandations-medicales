@@ -5,8 +5,8 @@ shortname = "IC"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
-publishdate = 2021-05-17
-lastmod = 2021-05-28
+publishdate = 2021-06-01
+lastmod = 2021-06-01
 specialites = ["cardiologie"]
 annees = "2016"
 sources = ["ESC", "HAS"]
@@ -17,15 +17,15 @@ draft = true
 flowchart = true
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "signaler collège bumétaNide, vérif obj PA, bilan sortie hospit, apnées sommeil, https://www.has-sante.fr/jcms/c_2906058/fr/insuffisance-cardiaque-parcours-de-soins, https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Questionnaire de qualité de vie
-du Minnesota HAS p.54, https://www.ameli.fr/sites/default/files/Documents/5074/document/evaluation-observance-traitement_assurance-maladie.pdf"
+todo = "signaler college bumétaNide, vérif obj PA, bilan sortie hospit, apnees sommeil, https://www.has-sante.fr/jcms/c_2906058/fr/insuffisance-cardiaque-parcours-de-soins, https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Questionnaire de qualité de vie du Minnesota HAS p.54, https://www.ameli.fr/sites/default/files/Documents/5074/document/evaluation-observance-traitement_assurance-maladie.pdf"
 +++
 
 {{%article-summary%}}
 
-- Les prochaines recommandations *ESC* sortiront cet été
+- Les prochaines recommandations *ESC* sortiront été 2021
 - Évoquer devant des signes spécifiques ou non
-- ECG, NT-proBNP et consultation de cardiologie
+- ECG, NT-proBNP et consultation de cardiologie...
+- Et bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}))
 - Réduire le poids des comorbidités (HTA, tabac...)
 - Maximiser les posologies du traitement
 - Éducation thérapeutique pour la surveillance du poids et l'adaptation des diurétiques
@@ -34,23 +34,32 @@ du Minnesota HAS p.54, https://www.ameli.fr/sites/default/files/Documents/5074/d
 {{%collapse "Définitions" %}}
 
 Insuffisance cardiaque (IC)
-: Syndrome caractérisé par des symptômes peu spécifiques (dyspnée, œdème des chevilles, fatigue...), des signes variables (crépitants, turgescence jugulaire...) causé par une dysfonctionnement cardiaque souvent objectivé en échocardiographie.
-: Toutes les pathologies cardiaques peuvent aboutir à une insuffisance cardiaque. L'enquête étiologique relève du spécialiste.  
-La 1<sup>re</sup> cause est **ischémique** secondée par l'**hypertension artérielle**.
+: Syndrome caractérisé par des symptômes peu spécifiques ({{< modal-btn score-nyha >}}dyspnée{{< /modal-btn >}}, œdème des chevilles, fatigue...), des signes variables (crépitants, turgescence jugulaire...) causé par une dysfonctionnement cardiaque souvent objectivé en *échocardiographie*.
+: Dite *chronique* quand présente depuis quelques temps. *Stable* lorsque les symptômes et signes sont inchangés pendant 1 mois, *décompensée* lors de leur aggravation menant à une hospitalisation.
+: Toutes les pathologies cardiaques peuvent aboutir à une insuffisance cardiaque, souvent précédée de *dysfonction du ventricule gauche* systolique ou diastolique. L'enquête étiologique relève du spécialiste.  
+La 1<sup>re</sup> cause est **ischémique** secondée par l'**hypertension artérielle**.  
+L'IC à fraction d'éjection conservée est mal comprise, atteint des patients plus âgés, plus souvent les femmes avec un contexte d'hypertension ou de fibrillation atriale.
 : Elle atteint surtout les personnes de plus de 70 ans.
 : La *fraction d'éjection* est le paramètre le plus utilisé pour caractériser la fonction systolique.
-: Principaux facteurs pronostiques: âge, {{< modal-btn score-nyha >}}dyspnée NYHA III-IV{{< /modal-btn >}}, hospitalisations, FEVG basse, bas débit cardiaque, pressions pulmonaires augmentées, bloc de branche gauche, hyponatrémie, BNP augmentés, VO<sub>2</sub>max basse.
+: Les principaux facteurs pronostiques sont: âge, {{< modal-btn score-nyha >}}dyspnée NYHA III-IV{{< /modal-btn >}}, hospitalisations, FEVG basse, bas débit cardiaque, pressions pulmonaires augmentées, bloc de branche gauche, hyponatrémie, BNP augmentés, VO<sub>2</sub>max basse.
 
 Insuffisance cardiaque à fraction d'éjection conservée
 : Patients plus âgés, prédominance féminine avec antécédent d'hypertension ou de fibrillation atriale.
 
-{{< table title="Critères de classification de l'insuffisance cardiaque" >}}
+{{< table title="Critères de classification de l'insuffisance cardiaque selon ESC 2016" >}}
 | Critère | ICFEd         | ICFEmd                  | ICFEp              |
 |--------:|---------------|-------------------------|--------------------|
 | 1       | Symptômes ± signes | Symptômes ± signes | Symptômes ± signes |
 | 2       | FEVG < 40%    | FEVG 40-49%             | FEVG ≥ 50%         |
-| 3       | -             | 1. Augmentation des BNP |                    |
+| 3       | -             | 1. Augmentation des PN<br>2. Anomalie cardiaque et/ou<br>dysfonction diastolique | 1. Augmentation des PN<br>2. Anomalie cardiaque et/ou<br>dysfonction diastolique |
 {{< /table >}}
+
+> PN: peptides natriurétiques  
+BNP > 35 pg/mL ou NT-proBNP > 125 pg/mL
+
+Dysfonction systolique ventriculaire gauche asymptomatique
+: {{%lang%}}Asymptomatic LV systolic dysfunction{{%/lang%}}
+: Fraction d'éjection réduite en l'absence totale de signes d'insuffisance cardiaque.
 
 Désynchronisation cardiaque
 : Contraction myocardique non homogène par des troubles de la conduction. Elle aggrave l'insuffisance cardiaque.
@@ -61,6 +70,7 @@ Désynchronisation cardiaque
 **ECG:** électrocardiogramme  
 **DAI:** défibrillateur automatique implantable  
 **ETT:** échocardiographie transthoracique  
+**FA:** fibrillation atriale  
 **FE:** fraction d'éjection (sous-entendu FEVG)  
 **FEVG:** fraction d'éjection ventriculaire gauche ({{%lang%}}LVEF - left ventricular ejection fraction{{%/lang%}})  
 **HTA:** hypertension artérielle  
@@ -100,7 +110,7 @@ Insuffisance cardiaque, maladie cardiovasculaire, génétiques.
   - Tumoraux
   - Carences ou déficits enzymatiques, anémie, anorexie
 - Médicaments en cours  
-Amélioration des symptômes par les diurétiques.
+et notion d'amélioration des symptômes par les diurétiques.
 - Traitements exposés  
 Mediator, radiothérapie thoracique, chimiothérapie, immunomodulateurs, antiarythmiques, AINS, anesthésiques.
 - Toxiques  
@@ -117,13 +127,14 @@ Alcool, cocaïne, amphétamines, anabolisants.
 {{< clinique/insuffisance-cardiaque-droite >}}
 - Symptômes moins typiques
   - Toux nocturne ou à l'effort
+  - Essoufflement penché en avant
   - Sibilants (asthme cardiaque)
   - Gonflement, ballonnements, anorexie
   - Confusion, dépression
   - Vertiges
-  - Palpitations
+  - Palpitations, tachycardie
   - Syncope
-  - Essoufflement penché en avant
+  - Prise de poids rapide (> 2 kg/sem)
   - Apnées du sommeil (*respiration de Cheynes-Stokes*)
 
 ### Examen clinique
@@ -138,10 +149,9 @@ En état stable l'examen est pauvre. La présence de signes cliniques est donc u
   - Souffle d'insuffisance mitrale ou tricuspide (dilatation) ou organique
   - Éclat B2 pulmonaire (HTAP)
   - Choc de pointe dévié en bas à gauche (dilatation VG)
+  - Signes d'IC droite (voir *Interrogatoire*)
 - Pulmonaire
   - Crépitants
-
-TODO: Table 4.1
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -163,16 +173,17 @@ TODO: Table 4.1
 - ECG de repos 12D
 - Consultation de cardiologie
 - Échocardiographie
+- Bilan des autres suspicions diagnostiques
 
 > Bilan initial selon *ESC 2016*
 {{%/info%}}
 
 ### Peptides natriurétiques
 
-Seuil diagnostique en état stable: BNP ≥ 35 pg/mL ou NT-proBNP ≥ 125 pg/mL.  
-Utiliser toujours le même au cours du suivi.
+Seuil diagnostique en état stable: BNP ≥ **35 pg/mL** ou NT-proBNP ≥ **125 pg/mL**.  
+Utiliser toujours le même marqueur au cours du suivi.
 
-**NB.** L'obésité sous-estime anormalement les taux.
+**NB.** La FA, l'âge et l'insuffisance rénale majorent les taux. À l'inverse, l'obésité les sous-estime.
 
 ### ECG de repos
 
@@ -182,7 +193,7 @@ L'épreuve d'effort (EEVO<sub>2</sub>) est systématique en diagnostic d'IC (SFC
 
 ### Examen génétique
 
-Uniquement si: cardiomyopathie hypertrophique, TODO:idiopathic DCM ou cardiomyopathie du ventricule droit arythmogène.
+Indications: cardiomyopathie hypertrophique (CMH), cardiomyopathie dilatée idiopathique ou cardiomyopathie ventriculaire droit arythmogène.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'IC à FE diminuée" %}}
@@ -198,7 +209,8 @@ Uniquement si: cardiomyopathie hypertrophique, TODO:idiopathic DCM ou cardiomyop
   - IEC remplacé par [valsartan/sacubitril](https://www.ema.europa.eu/en/documents/product-information/entresto-epar-product-information_fr.pdf)
 - Pression artérielle cible 120-140/90 mmHg
   - Auto-surveillance 1-2/semaine
-  - ≥ 75 ans ou haut risque: PAS < 120 mmHg
+  - ≥ 75 ans: PAS < 120 mmHg
+  - Escalade thérapeutique: IEC (ARA2) + BB + diurétique > anti-aldostérone > amlodipine
 - LDL cible
 - Bradycardisant ivabradine  
 Tachycardie persistante sous BB dose maximale.
@@ -207,6 +219,7 @@ Tachycardie persistante sous BB dose maximale.
   - ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68232635&typedoc=R) 0,5-1 mg jusqu'à 5 mg/j. Fractionner au-delà de 1 mg
   - Éducation pour adaptation aux apports sodés
   - Augmenter dès prise de 2-3 kg en quelques jours
+- Ferritinémie > 100 ng/mL (fer maltose IV)
 - 30 minutes d'activité physique/j
 - Réadaptation cardiaque supervisée en SSR
 - Vaccination antigrippale et {{< modal-btn modal-pneumocoque >}}anti-pneumococcique{{< /modal-btn >}} tous les 5 ans
@@ -215,22 +228,21 @@ Tachycardie persistante sous BB dose maximale.
   - Surveillance du poids 1-2/semaine, 3-4 si {{< modal-btn score-nyha >}}NYHA 3-4{{< /modal-btn >}}
   - Évaluation diététique
   - Arrêt du tabac
-  - Réduction d'une consommation d'alcool  
-  Courbe en U.
+  - Réduction d'une consommation d'alcool (courbe en U)
   - Correction d'un surpoids
 - Éducation thérapeutique
 - Pacemaker triple chambre (resynchronisation ventriculaire)  
-Indication: IC grave {{< modal-btn score-nyha >}}NYHA 3-4{{< /modal-btn >}} sinusale avec FEVG ≤ 35% et BB complet.
+Indications spécifiques
 - Défibrillateur automatique implantable  
-Indication: FEVG ≤ 30% d'origine ischémique ou avec cardiomyopathie dilatée, arrêt cardiaque, arythmie ventriculaire symptomatique.
-- Si diabète: empagliflozine
+Indications: FEVG ≤ 30% d'origine ischémique, cardiomyopathie dilatée, arrêt cardiaque, arythmie ventriculaire symptomatique.
+- Si diabète: metformine en 1<sup>re</sup> intention > Empagliflozine
 - Dépistage des apnées du sommeil (TODO:)
-- IC avancée: soins palliatifs
+- Stade avancé: préparer les soins palliatifs et les directives anticipées
 
 {{%warning%}}
 << Les ARA2 n'ont pas démontré de réduction de mortalité en FE diminuée >> (*ESC 2016*)
 
-Le sotalol, le diltiazem, le vérapamil et la flécaïne sont contre-indiqués.
+Les AINS, anti-COX2, le sotalol, le diltiazem, le vérapamil et la flécaïne sont contre-indiqués.
 {{%/warning%}}
 
 ### Pour en savoir plus: transplantation cardiaque
@@ -240,12 +252,11 @@ Indication: symptômes invalidants, mauvais pronostic, absence d'alternative th�
 {{% /collapse %}}
 {{%collapse "Traitement de l'IC à FE conservée" %}}
 
-Les études sont en cours. Aucun traitement n'a démontré son efficacité.
+Les études sont en cours. Aucun traitement n'a démontré son efficacité.  
+Intègre les patients avec une ICFEmd.
 
 - Contrôle strict des facteurs de risque cardiovasculaire, des comorbidités (arythmie...) et surcharges volumiques (solutés, produits de contraste iodés)
-- IEC voire ARA2
-- Bêtabloquants  
-Voire anticalciques bradycardisants (diltiazem, vérapamil)
+- Faible niveau de preuve d'efficacité: nébivolol, candésartan, spironolactone.
 - Furosémide à visée symptomatique
 - Vaccination antigrippale et {{< modal-btn modal-pneumocoque >}}anti-pneumococcique{{< /modal-btn >}} tous les 5 ans
 
@@ -284,7 +295,7 @@ dans un délai de 1 semaine à 2 mois.
 {{% /collapse %}}
 {{%collapse "Surveillance" %}}
 
-{{< table title="Rythme minimal de suivi annuel de l'ICFEd en état stable. HAS 2014" >}}
+{{< table title="Rythme minimal de suivi annuel de l'<strong>ICFEd</strong> en état stable. HAS 2014" >}}
 | NYHA  | Généraliste | Cardiologue |
 |:------|------------:|------------:|
 | I     | 2 | 1 |
@@ -292,7 +303,7 @@ dans un délai de 1 semaine à 2 mois.
 | III-IV   | 4-12 | 4-12 |
 {{< /table >}}
 
-{{< table title="Rythme minimal de suivi annuel de l'ICFEp en état stable. HAS 2014" >}}
+{{< table title="Rythme minimal de suivi annuel de l'<strong>ICFEp</strong> en état stable. HAS 2014" >}}
 | NYHA  | Généraliste | Cardiologue |
 |:------|------------:|------------:|
 | I     | 2 | 1 |
@@ -321,14 +332,16 @@ dans un délai de 1 semaine à 2 mois.
 graph TB
 suspicion[Suspicion d'insuffisance cardiaque]
 style suspicion stroke:#006ef4, stroke-width:1px
-  suspicion --> clinique("<b>Évaluation clinique</b><hr>- HTA, coronarien<br>- Cardiotoxiques, diurétiques<br>- Orthopnée<hr>- Crépitants, œdèmes chevilles<br>- Souffle cardiaque<br>- Turgescence jugulaire<br>- Broadened apical beat TODO:<hr>- ECG anormal")
-    clinique -- "&ge; 1 signe"--> BNP("NT-ptoBNP &ge; 125<br>ou BNP &ge; 35 pg/mL")
+  suspicion --> clinique("<b>Probabilité clinique</b><hr>- HTA, coronarien<br>- Cardiotoxiques, diurétiques<br>- Orthopnée ou autre<hr>- Crépitants, œdèmes chevilles<br>- Souffle cardiaque<br>- Turgescence jugulaire<br>- Choc de pointe<hr>- ECG anormal")
+    clinique -- "&ge; 1 signe"--> BNP("NT-proBNP &ge; 125<br>ou BNP &ge; 35 pg/mL")
       BNP -- Oui --> ETT(Échocardiographie)
         ETT -- Anormale --> diagnostic("Diagnostic d'IC<br>Ttt étiologique")
         ETT -- Normale --> differentiel
       BNP -- Non --> differentiel
     clinique -- Aucun --> differentiel("<b>IC peu probable</b><br>Étayer d'autres diagnostics")
 {{< /mermaid >}}
+
+---
 
 {{< mermaid title="Conduite à tenir pour le traitement l'insuffisance cardiaque symptomatique à l'état stable. Dr JB FRON d'après ESC 2016" >}}
 graph TB
@@ -338,7 +351,7 @@ style ICFEd stroke:#006ef4, stroke-width:1px
     systematique -- "Symptomatique et FE &le; 35%" --> antialdosterone(Spironolactone)
       antialdosterone --> choix("Symptomatique<br>et FEVG &le; 35%<br>(association possible)")
         choix -- Oui --> ARNI("Tolère IEC/ARA2 ?<hr>IEC remplacé par sacubitril")
-        choix -- Oui --> CRT("Sinusal, QRS &ge; 130 ms ?<hr>CRT TODO:")
+        choix -- Oui --> CRT("Sinusal et QRS &ge; 130 ms ?<hr>Resynchronisation<br>cardiaque")
         choix -- Oui --> ivabradine("Sinusal &ge; 70 ?<hr>Ivabradine")
       antialdosterone -- Asymptomatique --> poursuite
     systematique -- Asymptomatique --> poursuite(Poursuite du traitement<br>Envisager la réduction du diurétique)
