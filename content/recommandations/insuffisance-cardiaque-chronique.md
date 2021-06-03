@@ -5,19 +5,19 @@ shortname = "IC"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
-publishdate = 2021-06-01
-lastmod = 2021-06-01
+publishdate = 2021-06-03
+lastmod = 2021-06-03
 specialites = ["cardiologie"]
 annees = "2016"
 sources = ["ESC", "HAS"]
 tags = ["dyspnee", "fatigue", "HTA", "risque cardiovasculaire", "tabac", "vaccin"]
 anglais = ["Chronic heart failure"]
 sctid = "48447003"
-draft = true
+draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "signaler college bumétaNide, vérif obj PA, bilan sortie hospit, apnees sommeil, https://www.has-sante.fr/jcms/c_2906058/fr/insuffisance-cardiaque-parcours-de-soins, https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Questionnaire de qualité de vie du Minnesota HAS p.54, https://www.ameli.fr/sites/default/files/Documents/5074/document/evaluation-observance-traitement_assurance-maladie.pdf"
+todo = "signaler college bumétaNide, bilan sortie hospit, apnees sommeil, https://www.has-sante.fr/jcms/c_2906058/fr/insuffisance-cardiaque-parcours-de-soins, https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Questionnaire de qualité de vie du Minnesota HAS p.54, https://www.ameli.fr/sites/default/files/Documents/5074/document/evaluation-observance-traitement_assurance-maladie.pdf"
 +++
 
 {{%article-summary%}}
@@ -25,7 +25,7 @@ todo = "signaler college bumétaNide, vérif obj PA, bilan sortie hospit, apnees
 - Les prochaines recommandations *ESC* sortiront été 2021
 - Évoquer devant des signes spécifiques ou non
 - ECG, NT-proBNP et consultation de cardiologie...
-- Et bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}))
+- Et bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), anémie)
 - Réduire le poids des comorbidités (HTA, tabac...)
 - Maximiser les posologies du traitement
 - Éducation thérapeutique pour la surveillance du poids et l'adaptation des diurétiques
@@ -41,7 +41,6 @@ La 1<sup>re</sup> cause est **ischémique** secondée par l'**hypertension arté
 L'IC à fraction d'éjection conservée est mal comprise, atteint des patients plus âgés, plus souvent les femmes avec un contexte d'hypertension ou de fibrillation atriale.
 : Elle atteint surtout les personnes de plus de 70 ans.
 : La *fraction d'éjection* est le paramètre le plus utilisé pour caractériser la fonction systolique.
-: Les principaux facteurs pronostiques sont: âge, {{< modal-btn score-nyha >}}dyspnée NYHA III-IV{{< /modal-btn >}}, hospitalisations, FEVG basse, bas débit cardiaque, pressions pulmonaires augmentées, bloc de branche gauche, hyponatrémie, BNP augmentés, VO<sub>2</sub>max basse.
 
 Insuffisance cardiaque à fraction d'éjection conservée
 : Patients plus âgés, prédominance féminine avec antécédent d'hypertension ou de fibrillation atriale.
@@ -78,6 +77,25 @@ Désynchronisation cardiaque
 **ICFEd:** insuffisance cardiaque à fraction d'éjection diminuée (*IC à FE basse*, *IC à fonction systolique diminuée* ou *IC systolique ICS*)({{%lang%}}HFrEF - reduced{{%/lang%}})  
 **ICFEmd:** insuffisance cardiaque à fonction systolique modérément diminuée ({{%lang%}}HFmrEF - mid-range{{%/lang%}})  
 **ICFEp:** insuffisance cardiaque à fraction d'éjection préservée (*IC à fonction systolique conservée* ou *IC diastolique*)({{%lang%}}HFpEF - preserved{{%/lang%}})
+
+### Pour en savoir plus: facteurs pronostiques péjoratifs
+
+- Démographiques  
+Âge, homme, bas niveau socio-économique.
+- Sévérité de l'insuffisance cardiaque  
+{{< modal-btn score-nyha >}}Dyspnée NYHA III-IV{{< /modal-btn >}}, ancienneté de l'IC, VO<sub>2</sub>max basse, respiration de Cheyne-Stokes, performances limitées (test de marche de 6 minutes), hospitalisations, activité du DAI.
+- Clinique  
+FC de repos élevée, PA basse, rétention hydro-sodée, dénutrition.
+- Dysfonction cardiaque  
+FEVG basse, dilatation VG, dysfonction VG sévère...
+- Biomarqueurs  
+Hyponatrémie, PN élevés...
+- Gènes de cardiomyopathies
+- Cardiovasculaire  
+FA, troubles du rythme, AVC, AOMI.
+- Comorbidités  
+Diabète, anémie, carence martiale, BPCO, insuffisance rénale, hépatopathie, apnées du sommeil, dépression, démence
+- Non observance
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
@@ -134,8 +152,9 @@ Alcool, cocaïne, amphétamines, anabolisants.
   - Vertiges
   - Palpitations, tachycardie
   - Syncope
-  - Prise de poids rapide (> 2 kg/sem)
-  - Apnées du sommeil (*respiration de Cheynes-Stokes*)
+  - Prise de poids rapide (> 2 kg en 3j)
+  - Apnées du sommeil  
+  {{%class%}}Surtout centrales avec *respiration de Cheynes-Stokes* ou obstructives.{{%/class%}}
 
 ### Examen clinique
 
@@ -218,24 +237,28 @@ Tachycardie persistante sous BB dose maximale.
   - [Furosémide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68009803&typedoc=R) 20-40 mg jusqu'à 1000 mg/j. Fractionner au-delà de 40 mg
   - ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68232635&typedoc=R) 0,5-1 mg jusqu'à 5 mg/j. Fractionner au-delà de 1 mg
   - Éducation pour adaptation aux apports sodés
-  - Augmenter dès prise de 2-3 kg en quelques jours
-- Ferritinémie > 100 ng/mL (fer maltose IV)
-- 30 minutes d'activité physique/j
+  - Augmenter dès prise de 2 kg 3j
+- Ferritinémie > 100 ng/mL (bilan étiologique et fer maltose IV)
+- 30 minutes d'activité physique quotidienne avec cible de dyspnée légère à modérée  
+Min 20 min x 3/sem.
 - Réadaptation cardiaque supervisée en SSR
 - Vaccination antigrippale et {{< modal-btn modal-pneumocoque >}}anti-pneumococcique{{< /modal-btn >}} tous les 5 ans
 - Mesures hygiéno-diététiques
-  - Régime sans sel < 5 g/j
-  - Surveillance du poids 1-2/semaine, 3-4 si {{< modal-btn score-nyha >}}NYHA 3-4{{< /modal-btn >}}
+  - Régime sans sel < 6 g/j
+  - [Surveillance du poids 1-2/semaine](https://www.heartfailurematters.org/static-file/HeartFailureMatters/Documents/FR/Surveiller%20vos%20signes%20vitaux.pdf?mts=1594029980000.pdf), 3-4 si {{< modal-btn score-nyha >}}NYHA 3-4{{< /modal-btn >}}
   - Évaluation diététique
   - Arrêt du tabac
   - Réduction d'une consommation d'alcool (courbe en U)
-  - Correction d'un surpoids
+  - Correction d'un obésité ≥ 35 kg/m²
 - Éducation thérapeutique
 - Pacemaker triple chambre (resynchronisation ventriculaire)  
 Indications spécifiques
 - Défibrillateur automatique implantable  
 Indications: FEVG ≤ 30% d'origine ischémique, cardiomyopathie dilatée, arrêt cardiaque, arythmie ventriculaire symptomatique.
-- Si diabète: metformine en 1<sup>re</sup> intention > Empagliflozine
+- Diabète: metformine en 1<sup>re</sup> intention, empagliflozine en 2<sup>e</sup> ligne
+- Dysfonction érectile  
+  - Urologue/sexologue, IPDE5 (sauf dérivés nitrés)
+  - Aggravée par TZD, BB et spironolactone.
 - Dépistage des apnées du sommeil (TODO:)
 - Stade avancé: préparer les soins palliatifs et les directives anticipées
 
@@ -288,9 +311,11 @@ Intègre les patients avec une ICFEmd.
 
 - Consultation dans la semaine qui suit la sortie
 Coter *GS* + *MIC* (23€, total 48€).
-- Puis minimum toutes les 2 semaines pour la titration des IEC + BB
+- Puis consultation minimum toutes les 2 semaines pour la titration des IEC + BB
 - Consultation avec le cardiologue  
-dans un délai de 1 semaine à 2 mois.
+Sous 2 semaines +++ à 2 mois.
+
+> [Mebazaa 2015](https://doi.org/10.1002/ejhf.289)
 
 {{% /collapse %}}
 {{%collapse "Surveillance" %}}
@@ -316,14 +341,15 @@ dans un délai de 1 semaine à 2 mois.
 - Consulter en aggravation des symptômes ou l'absence d'amélioration sous traitement
 - Intensité des symptômes
 - Activités de la vie quotidienne
-- PA-FC-poids
+- [PA-FC-poids](https://www.heartfailurematters.org/static-file/HeartFailureMatters/Documents/FR/Surveiller%20vos%20signes%20vitaux.pdf?mts=1594029980000.pdf)
 - Sel, alcool, tabac
 - Activité physique
 - Posologies en cours
-- Suivi iono-créat, NFS (min 2/an)
+- Suivi iono-créat, NFS (min 2/an), ferritinémie
 - Vaccinations
 - ECG à chaque consultation de cardiologie
 - ETT si symptômes (NYHA 2 1-2 ans, 3+ si aggravation)
+- Dépistage annuel d'une dépression
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une insuffisance cardiaque" "show" %}}
@@ -362,7 +388,8 @@ style ICFEd stroke:#006ef4, stroke-width:1px
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
-[HAS. Vivre avec une insuffisance cardiaque](https://www.has-sante.fr/upload/docs/application/pdf/2008-06/08-096_gp_insuf-cardia.pdf)
+[HAS. Vivre avec une insuffisance cardiaque](https://www.has-sante.fr/upload/docs/application/pdf/2008-06/08-096_gp_insuf-cardia.pdf)  
+[HeartFailureMatters. Voyage à travers l'insuffisance cardiaque.](https://www.heartfailurematters.org/fr_FR)
 
 - L'insuffisance cardiaque et ses symptômes
 - Traitements prescrits, effets indésirables possibles, le suivi de routine
@@ -371,18 +398,18 @@ style ICFEd stroke:#006ef4, stroke-width:1px
 - Auto-surveillance 1-2/semaine: poids, PA, fréquence cardiaque  
 Pesée à jeun, après avoir uriné, sur la même balance, valeur notée.
 - Ordonnance en avance pour dosage NT-proNBP en cas de décompensation
-- Eau 1-2 L/j
-- Importance de l'activité physique quotidienne de 30 minutes
-- Régime sans sel < 5 g/j  
+- Apports hydriques 1,5-2 L/j, augmenter en chaleur
+- Importance de l'activité physique quotidienne de 30 minutes (min 20 min x 3/sem.)
+- Régime sans sel < 6 g/j  
 Limiter charcuterie, fromage, pain, conserves.
 - Évaluation diététique
 - Arrêt du tabac
 - Réduction d'une consommation d'alcool
 - Identifier les facteurs de décompensation
 - Numéros à appeler en urgence
-- Consulter devant
+- [Signes d'alerte](https://www.heartfailurematters.org/static-file/HeartFailureMatters/Documents/FR/Signes%20d'alerte.pdf?mts=1594026854000.pdf)
   - Perte de poids trop rapide, soif, sécheresse de la bouche
-  - Prise de 2-3 kg en quelques jours
+  - Prise de 2 kg en 3j
   - Aggravation d'œdèmes
   - PAS < 110 mmHg
   - FC < 45/min
@@ -390,19 +417,19 @@ Limiter charcuterie, fromage, pain, conserves.
   - Aggravation de l'essoufflement, essoufflement couché
   - Toux
 
-> HAS 2014
+> HAS 2014, [HFA 2010](https://doi.org/10.1093/eurjhf/hfq219)
 
 ### Points essentiels de l'ETP pour l'insuffisance cardiaque
 
 - Définition et étiologie de l'IC  
-Comprendre les causes de l'IC et de survenue des symptômes.
+Comprendre les causes de l'IC, les symptômes et l'évolution.
 - Symptômes et signes
   - Surveiller et reconnaître les signes et symptômes
   - Se peser chaque jour et reconnaître une prise de poids rapide (min 2-3/semaine)
   - Savoir quand et comment contacter un soignant
   - Prendre des diurétiques à la demande si pertinent et conseillé
 - Traitement
-  - Comprendre les indications, les doses et les effets des médicaments
+  - Comprendre les indications, les bénéfices, les doses et les effets des médicaments
   - Reconnaître les effets indésirables courants de chaque médicament prescrit
 - Modification des facteurs de risque
   - Comprendre l’importance de l’arrêt du tabac
@@ -410,14 +437,15 @@ Comprendre les causes de l'IC et de survenue des symptômes.
   - Obtenir un bon contrôle de la glycémie en cas de diabète
   - Éviter l’obésité
 - Recommandations diététiques
-  - Restriction sodée < 5 g/j
-  - Apport hydrique 1-2 L/j
+  - Restriction sodée < 6 g/j
+  - Apport hydrique 1,5-2 L/j, augmenter en chaleur
   - Réduire l'alcool
   - Surveiller et prévenir la malnutrition
 - Activité physique
   - Vaincre les réticences à l’activité physique
   - Comprendre les bénéfices de l’exercice
-  - Entraînement physique quotidien
+  - Entraînement physique quotidien en ciblant une dyspnée légère à modérée
+  - Effets de l'altitude sur la respiration
 - Activité sexuelle
   - Ne pas craindre les rapports sexuels et discuter des problèmes avec les
 professionnels de santé
@@ -439,7 +467,7 @@ l’accompagnement social est important
 réalistes
   - Chercher un soutien psychosocial si approprié
 
-> HAS 2014
+> HAS 2014, ESC 2016, [HFA 2010](https://doi.org/10.1093/eurjhf/hfq219)
 
 {{%/collapse%}}
 {{%collapse "Sources" %}}
@@ -452,6 +480,7 @@ réalistes
 - [Ponikowski P. et al, ESC Scientific Document Group. 2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) Developed with the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. Volume 37. Issue 27. 14 July 2016. Pages 2129–2200.](https://doi.org/10.1093/eurheartj/ehw128) + [Web addenda](https://www.escardio.org/static-file/Escardio/Guidelines/ehw128_Addenda.pdf)
 - [HAS. Insuffisance cardiaque systolique. ALD n°5. Actes et prestations - Affection de longue durée. Juillet 2015.](https://www.has-sante.fr/upload/docs/application/pdf/liste_ald_insuf_card_systolique.pdf)
 - [HAS. Insuffisance cardiaque. Guide du parcours de soins. Juin 2014.](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_ic_web.pdf)
+- [Lainscak M. et al. Self-care management of heart failure: practical recommendations from the Patient Care Committee of the Heart Failure Association of the European Society of Cardiology. European Journal of Heart Failure. 13: 115-126.](https://doi.org/10.1093/eurjhf/hfq219)
 
 {{% /collapse %}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}

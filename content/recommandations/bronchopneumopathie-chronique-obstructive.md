@@ -35,6 +35,7 @@ Principal facteur du déclin du VEMS.
 - EFR de suivi annuelle
 - Prévention cardiovasculaire
 - Voir les [vidéos de formations sur les techniques d'inhalation]({{< relref "bronchopneumopathie-chronique-obstructive.md#vidéos-de-formation" >}})
+- Pas de contre-indication aux bêtabloquants (ESC 2016 IC)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -151,7 +152,7 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
 Asthme, allergie, atopie, sinusite, polypes du rhinopharynx, infections respiratoires infantiles, hospitalisations pour pathologies respiratoires.
 - Comorbidités  
   - Cardiovasculaires  
-  Coronaropathie, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), AOMI (8,8%), insuffisance cardiaque (20-70%), arythmie, [diabète]({{< relref "diabete-type-2.md" >}})
+  Coronaropathie, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), AOMI (8,8%), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (20-70%), arythmie, [diabète]({{< relref "diabete-type-2.md" >}})
   - Cancers liés au tabac (VADS, vessie, digestifs)
   - Dépression, anxiété, addictions, troubles cognitifs
   - Ostéoporose et amyotrophie
@@ -256,7 +257,8 @@ Dont santé bucco-dentaire et diététicien.
 - Éducation thérapeutique et Plan d'action  
 Systématique, voir le chapitre suivant.
 - Réévaluation de médicaments bronchoconstricteurs  
-Bêtabloquant (même cardiosélectif ou oculaire), ticagrélor, adénosine, latanoprost.
+  - Ticagrélor, adénosine, latanoprost
+  - Absence de contre-indication aux bêtabloquants, préférer biso/méto-prolol ou nébivolol (ESC 2016)
 - Observance et techniques de prises de tous les traitements
 - Soutien psychologique
 - Personne de confiance
@@ -503,7 +505,7 @@ IMC (< 21), perte de poids, santé bucco-dentaire.
   - Limitation des activités  
   Fatigue, activités quotidiennes et sociales, qualité de vie, {{< modal-btn modal-score-cat >}}évaluation CAT™{{< /modal-btn >}}.
 - Recherche de comorbidités aggravantes  
-Anémie, asthme, cancer, insuffisance cardiaque, surpoids, troubles du sommeil, troubles anxieux/dépressifs, troubles musculosquelettiques, [hypertension pulmonaire]({{< relref "hypertension-arterielle-pulmonaire.md" >}}).
+Anémie, asthme, cancer, [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), surpoids, troubles du sommeil, troubles anxieux/dépressifs, troubles musculosquelettiques, [hypertension pulmonaire]({{< relref "hypertension-arterielle-pulmonaire.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Information du patient BPCO" %}}
@@ -532,7 +534,7 @@ Anémie, asthme, cancer, insuffisance cardiaque, surpoids, troubles du sommeil, 
 {{% /collapse %}}
 {{%collapse "Vidéos de formation" %}}
 
-{{< video poster="https://splf.fr/wp-content/uploads/2021/05/Webinaire-2021-05-26-1300-500.png" mp4="http://dts.podtrac.com/redirect.mp4/docs.splf.fr/videos/Webinaires/2021/Webinaire-SPLF-2021-05-26.mp4" description="Webinaire SPLF/Groupe BPCO Optimisation du traitement médicamenteux des patients atteints de BPCO en état stable" width="100%" >}}
+{{< video poster="https://splf.fr/wp-content/uploads/2021/05/Webinaire-2021-05-26-1300-500.png" mp4="https://dts.podtrac.com/redirect.mp4/docs.splf.fr/videos/Webinaires/2021/Webinaire-SPLF-2021-05-26.mp4" description="Webinaire SPLF/Groupe BPCO Optimisation du traitement médicamenteux des patients atteints de BPCO en état stable" width="100%" >}}
 
 ### Techniques d'inhalation des bronchodilatateurs
 
@@ -556,6 +558,7 @@ Anémie, asthme, cancer, insuffisance cardiaque, surpoids, troubles du sommeil, 
 - [Delmas MC et al; Groupe Baromètre santé 2017. Connaissance de la bronchopneumopathie chronique obstructive (BPCO) en France : Baromètre santé 2017. Bull Epidémiol Hebd. 2018;(35-36):703-8.](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)
 - [Jouneau S. et al; SPLF. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017. FR, EN.](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
 - [Zysman M. et al; SPLF. Propositions de la SPLF pour l’optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016.](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
+- [Ponikowski P. et al, ESC Scientific Document Group. 2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) Developed with the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. Volume 37. Issue 27. 14 July 2016. Pages 2129–2200.](https://doi.org/10.1093/eurheartj/ehw128)
 
 {{% /collapse %}}
 <!-- Scores -->

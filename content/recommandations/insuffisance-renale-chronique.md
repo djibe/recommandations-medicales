@@ -33,6 +33,7 @@ IEC, contrôle strict des facteurs de risque cardiovasculaires.
 {{%collapse "Définitions"%}}
 
 Maladie rénale chronique (MRC)
+: {{%lang%}}Chronic kidney disease{{%/lang%}}
 : Présence d'une **insuffisance rénale chronique** (IRC):  
 Diminution du débit de filtration glomérulaire (DFG ou clairance) < 60 mL/min/1,73 m² (formule CKD-EPI)  
 OU présence ≥ 1 **marqueur d'atteinte rénale** persistant plus de 3 mois:  

@@ -171,8 +171,7 @@ a[href^='http']:not([class])::after {
 // SECTIONS
 
 article {
-  content-visibility: auto;
-  contain-intrinsic-size: 700px;
+  // content-visibility: auto; Ruins modals
 }
 
 .home-reco {
@@ -327,7 +326,7 @@ article {
   }
 
   .alert-summary {
-    width: Min(100%,768px);
+    // width: Min(100%,768px);
 
     &:last-child {
       margin-bottom: 0;
