@@ -121,7 +121,7 @@ Sécrétion de stéroïdes sexuels par une gonade autonome.
 
 - Poids, taille, IMC
 - **Courbes de croissance**
-- [**Examen des caractères sexuels**](https://wikimedi.ca/index.php?title=ULaval:MED-1230/Puberté_normale_et_anormale#Pubert.C3.A9_normale)
+- **[Examen des caractères sexuels](https://wikimedi.ca/index.php?title=ULaval:MED-1230/Puberté_normale_et_anormale#Pubert.C3.A9_normale)**
 - Examen cutané  
 {{%class%}}Tâches café au lait de la neurofibromatose type 1 (syndrome de McCune Albright).{{%/class%}}
 

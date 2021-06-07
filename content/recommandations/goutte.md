@@ -347,14 +347,14 @@ graph TB
       clairance -- IRC modérée --> ircmoderee(Allopurinol 50 mg<br>ou fébuxostat 40 mg x 2/j) --> prophylaxie
       clairance -- IRC sévère --> ircsevere(Fébuxostat 40 mg x 2/j) --> prophylaxie
       clairance -- MCV sévère --> mcv(<b>Pas de fébuxostat</b>)
-        prophylaxie -- Titration --> titration("<b>Augmenter l'hypouricémiant de:</b><br>- allopurinol 50-100 mg/j (max 900)<br>- fébuxostat 40 mg/j (max 120)")
-          titration --> uricemie(Uricémie à 2 ou 4 semaines<br>Cible &lt; 50 mg/L soit 300 µmol/L) --> titration
+        prophylaxie -- Titration --> titration("<b>Augmenter l'hypouricémiant de:</b><br>- Allopurinol: 50-100 mg/j (max 900)<br>- Fébuxostat: 40 mg/j (max 120)")
+          titration --> uricemie(Uricémie à 2 ou 4 semaines<br>Cible &lt; 50 mg/L) --> titration
             uricemie -- "&lt; 50 mg/L" --> cible(<b>Cible atteinte</b><br>Poursuite à vie) --> surv("Uricémie 1-2/an et <br>adaptation hypouricémiant")
             uricemie -- "&lt; 60 mg/L" --> presque(Maintenir la dose à vie<br>Envisager autres mesures<br>hypouricémiantes) --> surv
             uricemie -- "> 60 mg/L" --> hors(Maintenir doses maximales<br>Considérer uricosuriques) --> surv
 {{< /mermaid >}}
 
-> **MCV:** Maladie cardiovasculaire
+> **MCV:** Maladie cardiovasculaire, 50 mg/L = 300 µmol/L
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}

@@ -281,7 +281,7 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse "FMC" %}}
+{{%collapse "FMC gratuite" %}}
 
 [Olives JP. Maladie coeliaque : de l’enfance à l’âge adulte. POST'U 2013 - Paris](https://www.fmcgastro.org/postu-main/postu-2013-paris/textes-postu-2013-paris/maladie-coeliaque-de-lenfance-a-lage-adulte/)
 

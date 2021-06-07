@@ -114,7 +114,7 @@ Tumeurs
 {{%warning%}}Appel du 15 pour bilan en urgence{{%/warning%}}
 
 {{% /collapse %}}
-{{%collapse "FMC" %}}
+{{%collapse "FMC gratuite" %}}
 
 {{< card-link title="Diagnosis and management of hypertensive emergencies" url="https://www.escardio.org/Education/E-Learning/Webinars/diagnosis-and-management-of-hypertensive-emergencies" subtitle="ESC Councils webinar">}}
 

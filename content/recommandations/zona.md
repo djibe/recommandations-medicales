@@ -45,7 +45,7 @@ Ce sont les principales personnes qui développent des formes compliquée.
 Zona possible dans les premières années de vie. Rare avant 4 ans et ne présente pas de caractère de gravité.
 - Sujet < 50 ans
   - Localisé et guérison sans séquelles.  
-  - Proposer une [**PCR VIH**]({{< relref "vih-sida.md" >}})
+  - Proposer une **[PCR VIH]({{< relref "vih-sida.md" >}})**
 - Sujet > 50 ans  
   - Incidence max après 75 ans (> 1,4/100)
   - Ne pas rechercher un cancer ou le VIH systématiquement

@@ -115,7 +115,7 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 
 ### Comorbidités des apnées du sommeil
 
-- 20% ont une [*BPCO*]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) associée
+- 20% ont une *[BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})* associée
 - Association forte au [diabète de type 2]({{< relref "diabete-type-2.md">}})  
 15-30% des SAOS ont un DT2, 40-70% des DT2 ont SAOS.
 - 60% des *insuffisants cardiaques* ont une forme d’apnées du sommeil
@@ -412,7 +412,7 @@ si peut consulter observance des 12 derniers mois (≥ 112 heures sur 10 mois et
 - Remboursable à 65%
 - Nécessite une demande d’entente préalable par le spécialiste avec renouvellement annuel si respect des conditions ci-dessus
 
-> [*Source HAS 2014*](https://www.has-sante.fr/portail/jcms/c_1761160/fr/apnees-du-sommeil-de-nouvelles-recommandations-de-prise-en-charge-des-patients)
+> *[Source HAS 2014](https://www.has-sante.fr/portail/jcms/c_1761160/fr/apnees-du-sommeil-de-nouvelles-recommandations-de-prise-en-charge-des-patients)*
 
 {{% /collapse %}}
 {{%collapse "Surveillance du traitement" %}}

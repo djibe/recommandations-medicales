@@ -6,25 +6,24 @@ synonyms = ["Avortement"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-16T10:54:41+02:00
 publishdate = 2020-09-16
-lastmod = 2020-09-16
+lastmod = 2021-06-07
 specialites = ["gynecologie-obstetrique"]
-annees = "2010"
+annees = "2021"
 sources = ["CNGOF", "HAS"]
 tags = ["IVG"]
 anglais = ["legally induced abortion"]
 sctid = "76102007"
 draft = false
-image = false
+image = true
 imageSrc = "Illustration médicale par stories - www.freepik.com"
 todo = "arbre décisionnel, modif extension 9 SA"
 +++
 
 {{%article-summary%}}
 
-- Temps de réflexion d'une semaine.
-- Systématiques: Calcul de la DDR + examen gynécologique + groupe sanguin + échographie pelvienne.
-- Possible en ville avant 7 SA.  
-[Extension exceptionnelle Covid jusqu'à 9 semaines](https://www.has-sante.fr/jcms/p_3179352/fr/la-has-valide-l-extension-de-l-ivg-medicamenteuse-a-domicile-jusqu-a-9-semaines).
+- Temps de réflexion d'une semaine
+- Systématiques: Calcul de la DDR + examen gynécologique + groupe sanguin + échographie pelvienne
+- Possible en ville jusqu'à 9 SA ([04/2021](https://www.has-sante.fr/jcms/p_3223429/fr/interruption-volontaire-de-grossesse-par-methode-medicamenteuse-mise-a-jour))
 - Centres et praticiens réalisant des IVG: [ivglesadressess.org](https://www.ivglesadresses.org/) ou téléphone {{<phone>}}0 800 08 11 11{{</phone>}}.
 
 {{%/article-summary%}}
@@ -50,41 +49,43 @@ Pic chez **20-29 ans** avec 27 IVG/1000 femmes.
 {{% /collapse %}}
 {{%collapse "Traitement médical" %}}
 
+{{%info%}}Possible jusqu'à 9 SA en médecine générale en ambulatoire, à condition de formation suffisante et de convention avec établissement de santé autorisé.{{%/info%}}
+
 ### Conditions
 
-{{% warning %}}Informer du risque d'échec (avec recours à la chirurgie possible).{{% /warning %}}
+{{%warning%}}Informer du risque d'échec (avec recours à la chirurgie possible).{{%/warning%}}
 
-**Possible jusqu'à 9 semaines d'aménorrhée (SA)** par association:
-
-{{% info %}}
-
-- Anti-progestérone mifépristone 600 mg par voie orale (Mifégyne® 200 mg cp)
-- Prostaglandine misoprostol 400 µg par voie orale 36-48h plus tard (Gymiso® 200 µg cp)  
-ou géméprost 1 mg par voie vaginale (Cervageme® 1 mg ovule, réservé à l'usage hospitalier)
-{{% /info %}}
-
-Les métrorragies (témoin de l'efficacité) surviennent 3-4 h après la prise de prostaglandine.  
+Les métrorragies (témoin de l'efficacité) surviennent 3-4 h après la prise du misoprostol.  
 Douleurs abdomino-pelviennes quasi-constantes.
 
 ### Grossesse de moins de 7 SA
 
 Légalement possible jusqu’à 49 jours d'aménorrhée avec 1% d'échecs.
 
-{{% info %}}Seul terme possible en médecine générale en ambulatoire, à condition de formation suffisante et de convention avec établissement de santé autorisé.{{% /info %}}
+{{%info%}}
 
-- Schéma thérapeutique ci-dessus
-- **Visite de contrôle à 2 semaines** SYSTÉMATIQUE pour vérifier l’expulsion (IVG chirurgicale sinon, possible jusqu’à 14 SA)
+- Mifépristone 600 mg par voie orale (Mifégyne® 200 mg cp)
+- À 24-48h: misoprostol 400 µg par voie orale (Gymiso® 200 µg cp)
+
+OU
+
+- Mifépristone 200 mg par voie orale (Mifégyne® 200 mg cp)
+- À 24-48h: misoprostol 400 µg par voie transmuqueuse orale ou sublinguale (Gymiso® 200 µg cp)
+{{%/info%}}
+
+> Voie transmuqueuse orale: placer les comprimés entre la joue et la gencive, puis avaler les fragments résiduels après 30 minutes.
+
+**Visite de contrôle à 2 semaines** SYSTÉMATIQUE pour vérifier l’expulsion (IVG chirurgicale sinon, possible jusqu’à 14 SA).
 
 ### Grossesse de 7 à 9 SA
 
-**NB.** Misoprostol a une efficacité insuffisante après 8 SA.
+{{%info%}}
 
-Prise en charge en établissement de santé (public ou privé), en Hôpital De Jour ou par les médecins des Centres de planification et d'éducation familiale (CPEF).
+- Mifépristone 200 mg par voie orale (Mifégyne® 200 mg cp)
+- À 24-48h: misoprostol 800 µg par voie transmuqueuse orale ou sublinguale (Gymiso® 200 µg cp)
+{{%/info%}}
 
-- Mifépristone 200 mg
-- Géméprost 1 mg 36-48h plus tard
-
-(Taux de grossesse évolutive: < 8 SA - 0,5% | 8-9 SA - 1,5%)
+{{%class%}}Taux de grossesse évolutive: < 8 SA - 0,5% | 8-9 SA - 1,5%{{%/class%}}
 
 {{% /collapse %}}
 {{%collapse "Déroulement de l'IVG" %}}
@@ -143,7 +144,8 @@ Contraception efficace adaptée pour tous les couples en âge de procréer en l'
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [HAS. La HAS valide l’extension de l’IVG médicamenteuse à domicile jusqu’à 9 semaines. 10/04/2020](https://www.has-sante.fr/jcms/p_3179352/fr/la-has-valide-l-extension-de-l-ivg-medicamenteuse-a-domicile-jusqu-a-9-semaines)
+- [HAS. Interruption volontaire de grossesse par méthode médicamenteuse - Mise à jour. 12/04/2021.](https://www.has-sante.fr/jcms/p_3223429/fr/interruption-volontaire-de-grossesse-par-methode-medicamenteuse-mise-a-jour)
+- [HAS. La HAS valide l’extension de l’IVG médicamenteuse à domicile jusqu’à 9 semaines. 10/04/2020.](https://www.has-sante.fr/jcms/p_3179352/fr/la-has-valide-l-extension-de-l-ivg-medicamenteuse-a-domicile-jusqu-a-9-semaines)
 - [Drees. 224300 interruptions volontaires de grossesse en 2018. Septembre 2019.](https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/publications/etudes-et-resultats/article/224-300-interruptions-volontaires-de-grossesse-en-2018)
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [CNGOF.  Contraception – Recommandations pour la pratique clinique. 2018](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique?folder=RPC%2BCOLLEGE%252F2018)

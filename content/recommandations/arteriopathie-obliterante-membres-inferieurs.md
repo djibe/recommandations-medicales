@@ -15,9 +15,9 @@ anglais = ["Lower extremity artery disease (LEAD)"]
 sctid = "789703007"
 draft = false
 flowchart = true
-image = false
-imageSrc = ""
-todo = "Questionnaire d’Édimbourg, centres réadapt vasculaire, ETP, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/28222583/, https://pubmed.ncbi.nlm.nih.gov/33401955/, https://pubmed.ncbi.nlm.nih.gov/1474406/, Éducation thérapeutique, Associations de patients"
+image = true
+imageSrc = "Illustration par macrovector / Freepik"
+todo = "Questionnaire d’Édimbourg, centres réadapt vasculaire, ETP, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/28222583/, https://pubmed.ncbi.nlm.nih.gov/33401955/, https://pubmed.ncbi.nlm.nih.gov/1474406/, Éducation thérapeutique"
 +++
 
 {{%article-summary%}}

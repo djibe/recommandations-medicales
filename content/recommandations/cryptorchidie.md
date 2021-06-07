@@ -14,8 +14,8 @@ tags = []
 anglais = ["Cryptorchidism"]
 sctid = "204878001"
 draft = false
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Lamiot via Wikipedia Commons, CC BY-SA 3.0"
 todo = "beh"
 +++
 

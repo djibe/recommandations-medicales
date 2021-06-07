@@ -492,12 +492,9 @@ div.data-table {
 .navbar {
   border-bottom: 1px solid #e0e0e0;
 
-  .input-group {
-    opacity: 1;
-  }
-
+  .input-group,
   .nav-link {
-    opacity: 0.8;
+    opacity: 1;
   }
 }
 
@@ -788,8 +785,18 @@ input[type="search"]::-webkit-search-results-decoration {
     content: attr(href) !important;
   }
 
-  blockquote {
+  h3 {
+    color: initial !important;
+  }
+
+  blockquote,
+  .list-group,
+  .list-group-item {
     border: 0;
+  }
+
+  .embed-responsive {
+    display: none;
   }
 }
 

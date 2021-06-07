@@ -22,7 +22,7 @@ todo = "algo, FDR: IPP > 1 an ?, dénutrition"
 {{%article-summary%}}
 
 - Atteint préférentiellement l'homme +65 ans.
-- Principaux facteurs de risque: gastrite à [*HP*]({{< relref "helicobacter-pylori.md" >}}) (80%), tabagisme, alimentation salée/fumée, antécédent familial de cancer gastrique, Lynch/HNPCC.
+- Principaux facteurs de risque: gastrite à *[HP]({{< relref "helicobacter-pylori.md" >}})* (80%), tabagisme, alimentation salée/fumée, antécédent familial de cancer gastrique, Lynch/HNPCC.
 - Signes d'alarmes en symptômes digestifs hauts:  
 Dysphagie, amaigrissement, anémie.
 - Dépistage du 1<sup>er</sup> degré en cas de lésion cancéreuse (sérologie HP < 45 ans, fibroscopie après).
@@ -34,7 +34,7 @@ Cancer de l'estomac
 : Tumeurs malignes de l'estomac de pronostic intermédiaire composées à 90% d'*adénocarcinomes* atteignant préférentiellement les hommes (2/3) âgés.  
 Autres types rares: lymphomes (du MALT, *HP* +++) > stromales (GIST) > endocrine.
 : Classées en 2 entités par facteurs de risque différents: cancer du cardia (*jonction œso-gastrique* *JOG*) et non-cardia (distal).
-: 80% sont causés par une [**gastrite chronique à ***Helicobacter pylori*****]({{< relref "helicobacter-pylori.md" >}}).
+: 80% sont causés par une **[gastrite chronique à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}})**.
 : Survie à 5 ans de 30%
 
 ### Abréviations

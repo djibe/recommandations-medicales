@@ -15,6 +15,8 @@ anglais = ["Itching"]
 sctid = "418290006"
 draft = false
 flowchart = true
+image = true
+imageSrc = "Photo par wayhomestudio - www.freepik.com"
 todo = "Prescrire, médicaments responsables, algo, lire dermato-info"
 +++
 
@@ -172,12 +174,12 @@ Substitution d'un traitement suspect.
 
 {{< mermaid title="Conduite à tenir devant un prurit. Dr JB FRON d'après CEDEF 2017" >}}
 graph TB
-  prurit["Prurit"] --> examen("Interrogatoire<br>Clinique")
+  prurit["Prurit"] --> examen("- Interrogatoire<br>- Clinique")
   style prurit stroke:#006ef4, stroke-width:1px
     examen --> orientation("Signes évocateurs <br>de pathologie ?")
       orientation -- Oui --> tttSpe("Traitement spécifique")
-      orientation -- Non --> bilan("<b>Prurit nu: éliminer un lymphome</b><br>NFS, BH, BR, TSH<br>Sérologies VIH et VH<br>RxT<br>Échographie abdominale")
-    examen --> etiologie("<b>Causes principales</b><br>- Gale, poux<br>- Dermatite atopique/contact<br>- Urticaire<br>- Psoriasis<br>- Lichen<br>- Pemphigoïde<br>- Autres")
+      orientation -- Non --> bilan("<b>Prurit nu: éliminer un lymphome</b><hr>- NFS, BH, BR, TSH<br>- Sérologies VIH et hépatites<br>- RxT<br>- Échographie abdominale")
+    examen --> etiologie("<b>Causes principales</b><hr>- Gale, poux<br>- Dermatite atopique/contact<br>- Urticaire<br>- Psoriasis<br>- Lichen<br>- Pemphigoïde<br>- Autres")
 {{< /mermaid >}}
 
 {{% /collapse %}}

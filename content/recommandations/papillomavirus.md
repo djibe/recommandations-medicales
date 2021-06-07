@@ -121,7 +121,7 @@ Une diminution de plus de 50% de l’incidence des lésions précancéreuses cer
 Dans ce pays, le succès de la campagne de vaccination, associée au dépistage, ouvre la perspective d’une éradication du cancer du col de l’utérus d’ici une quinzaine d’année. (INCa)
 
 {{% /collapse %}}
-{{%collapse "FMC" %}}
+{{%collapse "FMC gratuite" %}}
 
 [Abramovitz L. Vaccin contre le Papilloma virus : De l’AMM au pragmatisme. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/
 )

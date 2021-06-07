@@ -121,7 +121,7 @@ Atteintes possibles après une infection à Sars-Cov-2.
 - Retour de zone à risque (étranger, Guyanne, Mayotte, foyer de cas/cluster)
 - Revient de congés et soigne des personnes à risque de forme grave
 
-[*Source DGS-Urgent 20/08/2020*](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=31000&cmd=visualiserMessage)
+> [Source DGS-Urgent 20/08/2020](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=31000&cmd=visualiserMessage)
 
 {{% /collapse %}}
 {{%collapse "Vaccination" %}}

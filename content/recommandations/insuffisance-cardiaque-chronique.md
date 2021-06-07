@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
 publishdate = 2021-06-03
-lastmod = 2021-06-03
+lastmod = 2021-06-07
 specialites = ["cardiologie"]
 annees = "2016"
 sources = ["ESC", "HAS"]
@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "signaler college bumétaNide, bilan sortie hospit, apnees sommeil, https://www.has-sante.fr/jcms/c_2906058/fr/insuffisance-cardiaque-parcours-de-soins, https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Questionnaire de qualité de vie du Minnesota HAS p.54, https://www.ameli.fr/sites/default/files/Documents/5074/document/evaluation-observance-traitement_assurance-maladie.pdf"
+todo = "simplifier Info patient, signaler college bumétaNide, bilan sortie hospit, apnees sommeil, https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Questionnaire de qualité de vie du Minnesota HAS p.54, https://www.ameli.fr/sites/default/files/Documents/5074/document/evaluation-observance-traitement_assurance-maladie.pdf"
 +++
 
 {{%article-summary%}}
@@ -34,16 +34,24 @@ todo = "signaler college bumétaNide, bilan sortie hospit, apnees sommeil, https
 {{%collapse "Définitions" %}}
 
 Insuffisance cardiaque (IC)
-: Syndrome caractérisé par des symptômes peu spécifiques ({{< modal-btn score-nyha >}}dyspnée{{< /modal-btn >}}, œdème des chevilles, fatigue...), des signes variables (crépitants, turgescence jugulaire...) causé par une dysfonctionnement cardiaque souvent objectivé en *échocardiographie*.
-: Dite *chronique* quand présente depuis quelques temps. *Stable* lorsque les symptômes et signes sont inchangés pendant 1 mois, *décompensée* lors de leur aggravation menant à une hospitalisation.
-: Toutes les pathologies cardiaques peuvent aboutir à une insuffisance cardiaque, souvent précédée de *dysfonction du ventricule gauche* systolique ou diastolique. L'enquête étiologique relève du spécialiste.  
+: Syndrome caractérisé par des symptômes peu spécifiques ({{< modal-btn score-nyha >}}dyspnée{{< /modal-btn >}}, œdème des chevilles, fatigue...), des signes variables (crépitants, turgescence jugulaire...) causé par un dysfonctionnement cardiaque souvent objectivé en *échocardiographie*.
+: Dite *stable* lorsque les symptômes et signes sont inchangés pendant 1 mois, *décompensée* lors de leur aggravation menant à une hospitalisation.
+: **Toutes les pathologies cardiaques peuvent aboutir à une insuffisance cardiaque**, souvent précédée de *dysfonction du ventricule gauche* systolique ou diastolique. L'enquête étiologique relève du spécialiste.  
 La 1<sup>re</sup> cause est **ischémique** secondée par l'**hypertension artérielle**.  
-L'IC à fraction d'éjection conservée est mal comprise, atteint des patients plus âgés, plus souvent les femmes avec un contexte d'hypertension ou de fibrillation atriale.
 : Elle atteint surtout les personnes de plus de 70 ans.
 : La *fraction d'éjection* est le paramètre le plus utilisé pour caractériser la fonction systolique.
 
 Insuffisance cardiaque à fraction d'éjection conservée
-: Patients plus âgés, prédominance féminine avec antécédent d'hypertension ou de fibrillation atriale.
+: Cette forme est mal comprise, atteint des patients plus âgés, plus souvent les femmes avec un contexte d'hypertension ou de fibrillation atriale.
+
+Dysfonction systolique ventriculaire gauche asymptomatique
+: {{%lang%}}Asymptomatic LV systolic dysfunction{{%/lang%}}
+: Fraction d'éjection réduite en l'absence totale de signes d'insuffisance cardiaque.
+
+Désynchronisation cardiaque
+: Contraction myocardique non homogène par des troubles de la conduction. Elle aggrave l'insuffisance cardiaque.
+
+### Classification de l'insuffisance cardiaque
 
 {{< table title="Critères de classification de l'insuffisance cardiaque selon ESC 2016" >}}
 | Critère | ICFEd         | ICFEmd                  | ICFEp              |
@@ -56,27 +64,25 @@ Insuffisance cardiaque à fraction d'éjection conservée
 > PN: peptides natriurétiques  
 BNP > 35 pg/mL ou NT-proBNP > 125 pg/mL
 
-Dysfonction systolique ventriculaire gauche asymptomatique
-: {{%lang%}}Asymptomatic LV systolic dysfunction{{%/lang%}}
-: Fraction d'éjection réduite en l'absence totale de signes d'insuffisance cardiaque.
-
-Désynchronisation cardiaque
-: Contraction myocardique non homogène par des troubles de la conduction. Elle aggrave l'insuffisance cardiaque.
-
 ### Abréviations
 
+**BAV:** bloc atrio-ventriculaire  
 **BNP:** {{%lang%}}brain natriuretic peptide{{%/lang%}}  
+**CV:** cardiovasculaire  
 **ECG:** électrocardiogramme  
 **DAI:** défibrillateur automatique implantable  
 **ETT:** échocardiographie transthoracique  
 **FA:** fibrillation atriale  
 **FE:** fraction d'éjection (sous-entendu FEVG)  
 **FEVG:** fraction d'éjection ventriculaire gauche ({{%lang%}}LVEF - left ventricular ejection fraction{{%/lang%}})  
+**FC:** fréquence cardiaque  
 **HTA:** hypertension artérielle  
 **IC:** insuffisance cardiaque ({{%lang%}}HF - heart failure{{%/lang%}})  
 **ICFEd:** insuffisance cardiaque à fraction d'éjection diminuée (*IC à FE basse*, *IC à fonction systolique diminuée* ou *IC systolique ICS*)({{%lang%}}HFrEF - reduced{{%/lang%}})  
 **ICFEmd:** insuffisance cardiaque à fonction systolique modérément diminuée ({{%lang%}}HFmrEF - mid-range{{%/lang%}})  
-**ICFEp:** insuffisance cardiaque à fraction d'éjection préservée (*IC à fonction systolique conservée* ou *IC diastolique*)({{%lang%}}HFpEF - preserved{{%/lang%}})
+**ICFEp:** insuffisance cardiaque à fraction d'éjection préservée (*IC à fonction systolique conservée* ou *IC diastolique*)({{%lang%}}HFpEF - preserved{{%/lang%}})  
+**PA:** pression artérielle  
+**VG:** ventricule gauche
 
 ### Pour en savoir plus: facteurs pronostiques péjoratifs
 
@@ -103,12 +109,12 @@ Diabète, anémie, carence martiale, BPCO, insuffisance rénale, hépatopathie, 
 - Prévalence: 2,3%  
   - 10% après 70 ans
   - 22-73% ont une FE conservée
-- Dyspnée d'effort chez +65 ans: 1/6 par IC
+- Dyspnée d'effort chez +65 ans: 1/6 ont une IC
 - Hospitalisations: 160 000/an
 - Décès: 70 000/an
 - Mortalité à 1 an: 17% si hospitalisation, 7% sans hospitalisation
-- Greffés en 2019: 425 (2019)
-- Nouveaux inscrits pour greffe: 573 (2019)
+- Greffes cardiaques en 2019: 425 (2019)
+- Nouveaux inscrits pour greffe cardiaque: 573 (2019)
 - Vivant avec greffe: 5093 (2019)
 - Survie avec greffe: 1 an 77% - 5 ans 68% - 10 ans 57% (2014-2018)
 
@@ -121,14 +127,15 @@ Diabète, anémie, carence martiale, BPCO, insuffisance rénale, hépatopathie, 
 Insuffisance cardiaque, maladie cardiovasculaire, génétiques.
 - Facteurs de risque cardiovasculaire
 - Antécédents  
-  - CV. Hypertension, [diabète]({{< relref "diabete-type-2.md" >}}), angor, syndrome coronarien/IDM, AOMI, myocardite/péricardite, valvulopathie, trouble du rythme.
+  - Cardiovasculaires  
+  Hypertension, [diabète]({{< relref "diabete-type-2.md" >}}), angor, syndrome coronarien/IDM, AOMI, myocardite/péricardite, valvulopathie, trouble du rythme.
   - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
-  - Auto-immuns et hormonaux. [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), Basedow, connectivite, lupus, sarcoïdose, amylose.
-  - Infectieux. VIH, parasites.
+  - Auto-immuns et hormonaux  
+  [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), Basedow, connectivite, lupus, sarcoïdose, amylose.
+  - Infectieux ([VIH]({{< relref "vih-sida.md" >}}), parasites)
   - Tumoraux
   - Carences ou déficits enzymatiques, anémie, anorexie
-- Médicaments en cours  
-et notion d'amélioration des symptômes par les diurétiques.
+- Médicaments en cours, notion d'amélioration sous diurétiques
 - Traitements exposés  
 Mediator, radiothérapie thoracique, chimiothérapie, immunomodulateurs, antiarythmiques, AINS, anesthésiques.
 - Toxiques  
@@ -163,14 +170,10 @@ En état stable l'examen est pauvre. La présence de signes cliniques est donc u
 - Pression artérielle, fréquence cardiaque, pouls
 - Poids et variations, taille, IMC
 - Cardiaque
-  - Tachycardie modérée voire trouble du rythme
-  - Galop protodiastolique B3
-  - Souffle d'insuffisance mitrale ou tricuspide (dilatation) ou organique
-  - Éclat B2 pulmonaire (HTAP)
+  - Tachycardie modérée voire trouble du rythme, souffle
   - Choc de pointe dévié en bas à gauche (dilatation VG)
   - Signes d'IC droite (voir *Interrogatoire*)
-- Pulmonaire
-  - Crépitants
+- Crépitants pulmonaires
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -212,7 +215,7 @@ L'épreuve d'effort (EEVO<sub>2</sub>) est systématique en diagnostic d'IC (SFC
 
 ### Examen génétique
 
-Indications: cardiomyopathie hypertrophique (CMH), cardiomyopathie dilatée idiopathique ou cardiomyopathie ventriculaire droit arythmogène.
+Indications: cardiomyopathie hypertrophique (CMH), cardiomyopathie dilatée idiopathique ou cardiomyopathie ventriculaire droite arythmogène.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'IC à FE diminuée" %}}
@@ -237,12 +240,14 @@ Tachycardie persistante sous BB dose maximale.
   - [Furosémide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68009803&typedoc=R) 20-40 mg jusqu'à 1000 mg/j. Fractionner au-delà de 40 mg
   - ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68232635&typedoc=R) 0,5-1 mg jusqu'à 5 mg/j. Fractionner au-delà de 1 mg
   - Éducation pour adaptation aux apports sodés
-  - Augmenter dès prise de 2 kg 3j
+  - Augmenter dès prise de 2 kg/3j
 - Ferritinémie > 100 ng/mL (bilan étiologique et fer maltose IV)
-- 30 minutes d'activité physique quotidienne avec cible de dyspnée légère à modérée  
-Min 20 min x 3/sem.
-- Réadaptation cardiaque supervisée en SSR
-- Vaccination antigrippale et {{< modal-btn modal-pneumocoque >}}anti-pneumococcique{{< /modal-btn >}} tous les 5 ans
+- Activité physique
+  - 30 minutes d'activité physique quotidienne (atteindre une dyspnée légère à modérée)
+  - Minimum 20 min x 3/sem
+  - Réadaptation cardiaque supervisée en SSR
+- Vaccination  
+Antigrippale annuelle et {{< modal-btn modal-pneumocoque >}}anti-pneumococcique{{< /modal-btn >}}/5 ans.
 - Mesures hygiéno-diététiques
   - Régime sans sel < 6 g/j
   - [Surveillance du poids 1-2/semaine](https://www.heartfailurematters.org/static-file/HeartFailureMatters/Documents/FR/Surveiller%20vos%20signes%20vitaux.pdf?mts=1594029980000.pdf), 3-4 si {{< modal-btn score-nyha >}}NYHA 3-4{{< /modal-btn >}}
@@ -251,22 +256,25 @@ Min 20 min x 3/sem.
   - Réduction d'une consommation d'alcool (courbe en U)
   - Correction d'un obésité ≥ 35 kg/m²
 - Éducation thérapeutique
-- Pacemaker triple chambre (resynchronisation ventriculaire)  
-Indications spécifiques
-- Défibrillateur automatique implantable  
-Indications: FEVG ≤ 30% d'origine ischémique, cardiomyopathie dilatée, arrêt cardiaque, arythmie ventriculaire symptomatique.
-- Diabète: metformine en 1<sup>re</sup> intention, empagliflozine en 2<sup>e</sup> ligne
-- Dysfonction érectile  
-  - Urologue/sexologue, IPDE5 (sauf dérivés nitrés)
-  - Aggravée par TZD, BB et spironolactone.
 - Dépistage des apnées du sommeil (TODO:)
-- Stade avancé: préparer les soins palliatifs et les directives anticipées
 
 {{%warning%}}
 << Les ARA2 n'ont pas démontré de réduction de mortalité en FE diminuée >> (*ESC 2016*)
 
 Les AINS, anti-COX2, le sotalol, le diltiazem, le vérapamil et la flécaïne sont contre-indiqués.
 {{%/warning%}}
+
+### Autres traitements
+
+- Stade avancé: préparer les soins palliatifs et les directives anticipées
+- Diabète: metformine en 1<sup>re</sup> intention, empagliflozine en 2<sup>e</sup> ligne
+- Dysfonction érectile  
+  - Urologue/sexologue, IPDE5 (sauf dérivés nitrés)
+  - Aggravée par TZD, BB et spironolactone.
+- Pacemaker triple chambre (resynchronisation ventriculaire)  
+Indications spécifiques.
+- Défibrillateur automatique implantable  
+Indications: FEVG ≤ 30% d'origine ischémique, cardiomyopathie dilatée, arrêt cardiaque, arythmie ventriculaire symptomatique.
 
 ### Pour en savoir plus: transplantation cardiaque
 
@@ -281,7 +289,7 @@ Intègre les patients avec une ICFEmd.
 - Contrôle strict des facteurs de risque cardiovasculaire, des comorbidités (arythmie...) et surcharges volumiques (solutés, produits de contraste iodés)
 - Faible niveau de preuve d'efficacité: nébivolol, candésartan, spironolactone.
 - Furosémide à visée symptomatique
-- Vaccination antigrippale et {{< modal-btn modal-pneumocoque >}}anti-pneumococcique{{< /modal-btn >}} tous les 5 ans
+- Vaccination antigrippale annuelle et {{< modal-btn modal-pneumocoque >}}anti-pneumococcique{{< /modal-btn >}} tous les 5 ans
 
 {{% /collapse %}}
 {{%collapse "Hospitalisation" %}}
@@ -294,7 +302,7 @@ Intègre les patients avec une ICFEmd.
   - Dyspnée, cyanose
   - Œdèmes majeurs
   - Fibrillation atriale
-  - Bradycardie < 50 mal tolérée ou BAH haut degré
+  - Bradycardie < 50/min mal tolérée ou BAV haut degré
   - Hypotension mal tolérée
   - Angor aggravé ou d'apparition récente
 - Sévérité biologique
@@ -309,7 +317,7 @@ Intègre les patients avec une ICFEmd.
 
 ### Sortie d'hospitalisation
 
-- Consultation dans la semaine qui suit la sortie
+- Consultation dans la semaine qui suit la sortie  
 Coter *GS* + *MIC* (23€, total 48€).
 - Puis consultation minimum toutes les 2 semaines pour la titration des IEC + BB
 - Consultation avec le cardiologue  
@@ -320,7 +328,7 @@ Sous 2 semaines +++ à 2 mois.
 {{% /collapse %}}
 {{%collapse "Surveillance" %}}
 
-{{< table title="Rythme minimal de suivi annuel de l'<strong>ICFEd</strong> en état stable. HAS 2014" >}}
+{{< table title="Nombre minimal de consultations par an de l'<strong>ICFEd</strong> en état stable. HAS 2014" >}}
 | NYHA  | Généraliste | Cardiologue |
 |:------|------------:|------------:|
 | I     | 2 | 1 |
@@ -328,7 +336,7 @@ Sous 2 semaines +++ à 2 mois.
 | III-IV   | 4-12 | 4-12 |
 {{< /table >}}
 
-{{< table title="Rythme minimal de suivi annuel de l'<strong>ICFEp</strong> en état stable. HAS 2014" >}}
+{{< table title="Nombre minimal de consultations par an de l'<strong>ICFEp</strong> en état stable. HAS 2014" >}}
 | NYHA  | Généraliste | Cardiologue |
 |:------|------------:|------------:|
 | I     | 2 | 1 |
@@ -341,7 +349,7 @@ Sous 2 semaines +++ à 2 mois.
 - Consulter en aggravation des symptômes ou l'absence d'amélioration sous traitement
 - Intensité des symptômes
 - Activités de la vie quotidienne
-- [PA-FC-poids](https://www.heartfailurematters.org/static-file/HeartFailureMatters/Documents/FR/Surveiller%20vos%20signes%20vitaux.pdf?mts=1594029980000.pdf)
+- [Pression artérielle - fréquence cardiaque - poids](https://www.heartfailurematters.org/static-file/HeartFailureMatters/Documents/FR/Surveiller%20vos%20signes%20vitaux.pdf?mts=1594029980000.pdf)
 - Sel, alcool, tabac
 - Activité physique
 - Posologies en cours
@@ -359,9 +367,10 @@ graph TB
 suspicion[Suspicion d'insuffisance cardiaque]
 style suspicion stroke:#006ef4, stroke-width:1px
   suspicion --> clinique("<b>Probabilité clinique</b><hr>- HTA, coronarien<br>- Cardiotoxiques, diurétiques<br>- Orthopnée ou autre<hr>- Crépitants, œdèmes chevilles<br>- Souffle cardiaque<br>- Turgescence jugulaire<br>- Choc de pointe<hr>- ECG anormal")
-    clinique -- "&ge; 1 signe"--> BNP("NT-proBNP &ge; 125<br>ou BNP &ge; 35 pg/mL")
+    clinique -- "&ge; 1 signe"--> BNP("NT-proBNP &ge; 125 pg/mL<br>ou BNP &ge; 35 pg/mL")
       BNP -- Oui --> ETT(Échocardiographie)
-        ETT -- Anormale --> diagnostic("Diagnostic d'IC<br>Ttt étiologique")
+        ETT -- Anormale --> diagnostic("Diagnostic d'IC<br>Traitement étiologique")
+        style diagnostic stroke:#006ef4, stroke-width:1px
         ETT -- Normale --> differentiel
       BNP -- Non --> differentiel
     clinique -- Aucun --> differentiel("<b>IC peu probable</b><br>Étayer d'autres diagnostics")
@@ -373,12 +382,12 @@ style suspicion stroke:#006ef4, stroke-width:1px
 graph TB
 ICFEd["Patient symptomatique avec ICFEd<br>FEVG &lt; 40%"]
 style ICFEd stroke:#006ef4, stroke-width:1px
-  ICFEd --> systematique("- IEC et BB dose maximale<br>- Diurétiques symptomatiques")
+  ICFEd --> systematique("- IEC et BB à dose maximale<br>- Diurétiques selon symptômes")
     systematique -- "Symptomatique et FE &le; 35%" --> antialdosterone(Spironolactone)
       antialdosterone --> choix("Symptomatique<br>et FEVG &le; 35%<br>(association possible)")
-        choix -- Oui --> ARNI("Tolère IEC/ARA2 ?<hr>IEC remplacé par sacubitril")
-        choix -- Oui --> CRT("Sinusal et QRS &ge; 130 ms ?<hr>Resynchronisation<br>cardiaque")
-        choix -- Oui --> ivabradine("Sinusal &ge; 70 ?<hr>Ivabradine")
+        choix -- Oui --> ARNI(Tolère IEC/ARA2 ?) -- Oui --> sacubitril("IEC remplacé<br>par sacubitril")
+        choix -- Oui --> CRT("Sinusal et QRS &ge; 130 ms ?") -- Oui --> resynchronisation("Resynchronisation<br>cardiaque")
+        choix -- Oui --> qIvabradine("Sinusal &ge; 70 ?") -- Oui --> ivabradine(Ivabradine)
       antialdosterone -- Asymptomatique --> poursuite
     systematique -- Asymptomatique --> poursuite(Poursuite du traitement<br>Envisager la réduction du diurétique)
 {{< /mermaid >}}
@@ -409,7 +418,7 @@ Limiter charcuterie, fromage, pain, conserves.
 - Numéros à appeler en urgence
 - [Signes d'alerte](https://www.heartfailurematters.org/static-file/HeartFailureMatters/Documents/FR/Signes%20d'alerte.pdf?mts=1594026854000.pdf)
   - Perte de poids trop rapide, soif, sécheresse de la bouche
-  - Prise de 2 kg en 3j
+  - Prise de 2 kg en 3 jours
   - Aggravation d'œdèmes
   - PAS < 110 mmHg
   - FC < 45/min

@@ -35,7 +35,7 @@ Souvent par altération de la glande mais parfois par atteinte centrale hypothal
 La TSH est élevée et la T4L basse.
 : **Les principales causes sont auto-immune et iatrogène** (médicament, radiothérapie).
 : **Pas de dépistage systématique de l’hypothyroïdie en population générale.**
-: On la distingue de l'[**hypothyroïdie fruste ou infraclinique**]({{< relref "hypothyroidie-fruste.md" >}}) où la **TSH est élevée de façon isolée**.
+: On la distingue de l'**[hypothyroïdie fruste ou infraclinique]({{< relref "hypothyroidie-fruste.md" >}})** où la **TSH est élevée de façon isolée**.
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}

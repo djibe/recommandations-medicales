@@ -62,7 +62,7 @@ Akathisie
 [En savoir plus sur l'akathisie](https://www.edimark.fr/Front/frontpost/getfiles/23099.pdf)
 
 Tremblement orthostatique primaire
-: Mouvement anormal rare, caractérisé par un tremblement postural spécifique rapide, qui touche les membres inférieurs et le tronc en position debout ([*Orphanet*](https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=FR&Expert=238606)).
+: Mouvement anormal rare, caractérisé par un tremblement postural spécifique rapide, qui touche les membres inférieurs et le tronc en position debout *([Orphanet](https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=FR&Expert=238606))*.
 
 ### Abréviations
 

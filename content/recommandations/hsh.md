@@ -91,7 +91,7 @@ Spécialités chez l'adulte:
 
 #### Vaccin papillomavirus
 
-<< GARDASIL 9® recommandée jusqu’à l’âge de 26 ans, en prévention des lésions précancéreuses anales, des cancers anaux et des condylomes. Dans cette situation, la vaccination peut être proposée dans certains CeGIDD et dans certains centres publics de vaccination. >>
+<< GARDASIL 9® recommandée jusqu’à l’âge de 26 ans, en prévention des lésions précancéreuses anales, des cancers anaux et des condylomes. Dans cette situation, la vaccination peut être proposée dans certains {{< references/cegidd >}} et dans certains centres publics de vaccination. >>
 
 ### PreEp
 

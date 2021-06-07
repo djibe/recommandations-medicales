@@ -16,8 +16,7 @@ sctid = "42399005"
 draft = false
 flowchart = true
 image = true
-imageWEBP = true
-imageSrc = "scientificanimations.com, CC BY-SA 4.0"
+imageSrc = "Illustration par pch.vector / Freepik"
 todo = "etiologie + manque, consultation dediee Coter C + ALD ???"
 +++
 
@@ -208,7 +207,7 @@ Connaître les signes et symptômes de la MRC et savoir qui prévenir
 
 {{< mermaid title="Conduite à tenir pour le dépistage de la maladie rénale chronique. Dr JB FRON d'après HAS 2012" >}}
 graph TB
-fdr["Personne à risque<hr>- Âge ≥ 60 ans<br>- HTA, diabète<br>- Obésité<br>- Athérome<br>- IC<br>- Maladie de système<br>- Pathologie urologique<br>- ATCD familiaux d'IRCT<br>- Exposition professionnelle<br>- Néphrotoxiques"] --> 2(Bilan annuel)
+fdr["Personne à risque<hr>- Âge ≥ 60 ans<br>- HTA, diabète<br>- Obésité<br>- Athérome<br>- Insuffisance cardiaque<br>- Maladie de système<br>- Pathologie urologique<br>- ATCD familial d'IRCT<br>- Exposition professionnelle<br>- Néphrotoxiques"] --> 2(Bilan annuel)
 style fdr stroke:#006ef4, stroke-width:1px
 2 --> 3N(Normal)
   3N --> 2

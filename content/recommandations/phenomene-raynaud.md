@@ -15,8 +15,8 @@ anglais = ["Raynaud's phenomenon"]
 sctid = "266261006"
 draft = false
 flowchart = true
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Tcal via wikipedia, CC BY-SA 3.0"
 todo = "lire https://www.em-consulte.com/article/833156/article/bilan-etiologique-minimal-du-phenomene-de-raynaud%C2%A0, TSH ?"
 +++
 
