@@ -286,8 +286,6 @@ Limiter vélo, ski.
 
 {{< video mp4="http://www.videos.lecofer.org/semiologie/genou/05LigtsGenou.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/05LigtsGenou.webm" description="Le COFER. Genou: Evaluation ligamentaire" >}}
 
-{{< video mp4="http://www.videos.lecofer.org/semiologie/genou/05LigtsGenou.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/05LigtsGenou.webm" description="Le COFER. Genou: Evaluation ligamentaire" >}}
-
 {{< video mp4="http://www.videos.lecofer.org/semiologie/genou/06ExamRotule.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/06ExamRotule.webm" description="Le COFER. Genou: Examen rotule" >}}
 
 {{< video mp4="http://www.videos.lecofer.org/semiologie/genou/07PctionArtic.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/07PctionArtic.webm" description="Le COFER. Genou: Ponction articulaire" >}}

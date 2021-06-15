@@ -51,7 +51,7 @@
 <script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin></script>
 <script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin></script>
 <script src="{{ .Site.Params.cdn.material_js}}" crossorigin defer></script>
-<script src="https://instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" crossorigin defer></script>
+<script src="https://instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" crossorigin></script>
 
 {{- with .Params.flowchart }}
 <script src="https://cdn.jsdelivr.net/npm/mermaid@8.10.2/dist/mermaid.min.js" integrity="sha256-VCwgPHytr103lKi7COURCy056chJehHMLqvOVKGXBIc=" crossorigin async></script>

@@ -74,6 +74,7 @@
     <meta property="og:type" content="article">
     <meta property="og:updated_time" {{ .Lastmod.Format $ISO8601 | printf "content=%q" | safeHTMLAttr }}>
     <meta property="article:published_time" content="{{ .Date.Format "2006-01-02" }}">
+    <link rel="index" href="/recommandations/"><!-- Links to top level resource in an hierarchical structure -->
   {{ end }}
 {{ else }}
   <meta property="og:type" content="website">
@@ -172,10 +173,11 @@
 
 <!--TODO: Others -->
 {{ hugo.Generator }}
+<!-- https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs -->
+<link rel="icon" href="/favicon.ico"><!-- 32×32 -->
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="manifest" href="{{ .Site.BaseURL }}manifest.webmanifest">
-<meta name="theme-color" content="#0077ff">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <meta name="theme-color" content="#0077ff">
 <meta name="imagemode" content="force">
 <meta name="coverage" content="Worldwide">
@@ -183,7 +185,6 @@
 <meta name="HandheldFriendly" content="True">
 <meta name="msapplication-tap-highlight" content="no">
 <meta name="msapplication-starturl" content="/">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="application-name" content="{{ $.Site.Title }}">

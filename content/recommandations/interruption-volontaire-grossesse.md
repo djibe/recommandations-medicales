@@ -11,19 +11,20 @@ specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF", "HAS"]
 tags = ["IVG"]
-anglais = ["legally induced abortion"]
+anglais = ["Legally induced abortion"]
 sctid = "76102007"
 draft = false
+flowchart = true
 image = true
-imageSrc = "Illustration médicale par stories - www.freepik.com"
+imageSrc = "Illustration par stories - www.freepik.com"
 todo = "arbre décisionnel, modif extension 9 SA"
 +++
 
 {{%article-summary%}}
 
-- Temps de réflexion d'une semaine
-- Systématiques: Calcul de la DDR + examen gynécologique + groupe sanguin + échographie pelvienne
-- Possible en ville jusqu'à 9 SA ([04/2021](https://www.has-sante.fr/jcms/p_3223429/fr/interruption-volontaire-de-grossesse-par-methode-medicamenteuse-mise-a-jour))
+- Autorisée jusqu'à 14 SA, en ville jusqu'à 9 SA (depuis [avril 2021](https://www.has-sante.fr/jcms/p_3223429/fr/interruption-volontaire-de-grossesse-par-methode-medicamenteuse-mise-a-jour))
+- Temps de réflexion d'une semaine (sauf délai avancé)
+- Systématiques: calcul du terme + examen gynécologique + groupe sanguin + échographie pelvienne
 - Centres et praticiens réalisant des IVG: [ivglesadressess.org](https://www.ivglesadresses.org/) ou téléphone {{<phone>}}0 800 08 11 11{{</phone>}}.
 
 {{%/article-summary%}}
@@ -34,7 +35,8 @@ todo = "arbre décisionnel, modif extension 9 SA"
 {{% /collapse %}}
 {{%collapse "Introduction" %}}
 
-> « Les échecs contraceptifs dus au défaut d’observance sont l’une des principales causes de recours à l’interruption volontaire de grossesse (IVG) en France » (CNGOF 2018).
+> « Les échecs contraceptifs dus au défaut d’observance sont l’une des principales causes de recours à l’interruption volontaire de grossesse (IVG) en France » (*CNGOF 2018*).
+
 > « Dans tous les cas où cela est possible, les femmes doivent pouvoir choisir la méthode, médicamenteuse ou chirurgicale, et recevoir une information détaillée. Cette information renforce la satisfaction des femmes après IVG. »
 
 {{% /collapse %}}
@@ -49,7 +51,7 @@ Pic chez **20-29 ans** avec 27 IVG/1000 femmes.
 {{% /collapse %}}
 {{%collapse "Traitement médical" %}}
 
-{{%info%}}Possible jusqu'à 9 SA en médecine générale en ambulatoire, à condition de formation suffisante et de convention avec établissement de santé autorisé.{{%/info%}}
+{{%info%}}Possible jusqu'à 9 SA en médecine générale ambulatoire (ou sage-femme), à condition d'une formation suffisante et de convention avec établissement de santé autorisé.{{%/info%}}
 
 ### Conditions
 
@@ -59,8 +61,6 @@ Les métrorragies (témoin de l'efficacité) surviennent 3-4 h après la prise d
 Douleurs abdomino-pelviennes quasi-constantes.
 
 ### Grossesse de moins de 7 SA
-
-Légalement possible jusqu’à 49 jours d'aménorrhée avec 1% d'échecs.
 
 {{%info%}}
 
@@ -87,6 +87,10 @@ OU
 
 {{%class%}}Taux de grossesse évolutive: < 8 SA - 0,5% | 8-9 SA - 1,5%{{%/class%}}
 
+### Grossesse après 9 SA
+
+Traitement chirurgical uniquement.
+
 {{% /collapse %}}
 {{%collapse "Déroulement de l'IVG" %}}
 
@@ -97,17 +101,17 @@ Plus l'IVG intervient précocement pendant la grossesse, plus le risque de compl
 
 - Informations claires et précises sur la procédure et remise de documents écrits
 - Temps de réflexion d'une semaine avant la 2<sup>e</sup> consultation
-- Proposer un entretien spécialisé d'information, soutien et écoute. OBLIGATOIRE pour les mineures
+- Proposer un entretien spécialisé d'information, soutien et écoute (obligatoire pour les mineures)
 - Préciser l’âge gestationnel par **DDR + examen clinique + échographie pelvienne**
 
 ### 2<sup>e</sup> consultation
 
 - Consentement écrit
-- Proposer le dépistage des IST (*Chlamydia*, [VIH]({{< relref "vih-sida.md" >}})...), vérifier le statut du FCV
+- Proposer le dépistage des IST (*[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})*, [VIH]({{< relref "vih-sida.md" >}})...), vérifier le statut du FCV
 - Aborder la contraception future, possibilité de la prescrire en avance
 - **Groupage ABO-Rhésus systématique**
 
-**NB.** Comprendre l'échec de la contraception actuelle + éducation contraception d'urgence
+**NB.** Comprendre l'échec de la contraception actuelle + éducation contraception d'urgence.
 
 ### 3<sup>e</sup> consultation
 
@@ -128,11 +132,11 @@ Si prise à domicile et Rhésus -: injection immédiate des Ig anti-D
 ### 4<sup>e</sup> consultation: si choix de prise avec le médecin généraliste
 
 - Prise du misoprostol + check-list ci-dessus
-- Prévention de l'incompatibilité rhésus si femme Rh-: immunoglobulines anti-D 200 µg IM au plus tard dans les 72h qui suivent les saignements.
+- Prévention de l'incompatibilité rhésus si femme Rhésus négatif: immunoglobulines anti-D 200 µg IM au plus tard dans les 72h qui suivent les saignements.
 - Visite de contrôle OBLIGATOIRE  
 Prévue entre 14 et 21<sup>e</sup> jour post-IVG
 - Examen clinique, dosage bêta-hCG plasmatiques OU échographie pelvienne  
-Recours à l'IVG chirurgicale si échec
+Recours à l'IVG chirurgicale si échec.
 - Vérifier l’observance de la contraception
 - Proposer un accompagnement psychologique
 
@@ -140,6 +144,20 @@ Recours à l'IVG chirurgicale si échec
 {{%collapse "Prévention" %}}
 
 Contraception efficace adaptée pour tous les couples en âge de procréer en l'absence de désir de grossesse.
+
+{{% /collapse %}}
+{{%collapse "Conduite à tenir pour une interruption volontaire de grossesse" "show" %}}
+
+{{< mermaid title="Conduite à tenir pour l'IVG. Dr JB FRON d'après HAS 2021" >}}
+graph TB
+  demande[Demande d'IVG]
+  style demande stroke:#006ef4, stroke-width:1px
+    demande --> cs("Calcul du terme (DDR)<br>&plusmn; examen")
+    cs --> orientation("Orienter pour RDV sous 5j<hr>0 800 08 11 11<br>ivglesadresses.org")
+      orientation -- "&lt; 10 SA" --> med(Traitement médical<br>ambulatoire)
+        med --> suivi("<b>Consultation de suivi</b><hr>- Contrôle à J14-J21<br>- bHCG, examen<br>- Contraception<br>&plusmn; Prévention alloI rhésus<br>- Suivi psychologique")
+      orientation -- "10-14 SA" --> chir(Aspiration chirurgicale) --> suivi
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

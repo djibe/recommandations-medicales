@@ -4895,7 +4895,6 @@ input:disabled + .chip {
   background-color: #ffffff;
   box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
   content: '';
-  display: block;
   position: absolute;
   top: 0;
   right: 0;
@@ -6150,7 +6149,6 @@ input:disabled + .chip {
   border-radius: 50%;
   color: rgba(0, 0, 0, 0.54);
   content: '';
-  display: block;
   height: 3rem;
   margin-top: -0.75rem;
   margin-left: -0.75rem;
@@ -6164,7 +6162,6 @@ input:disabled + .chip {
 
 .custom-control-label::after {
   color: rgba(0, 0, 0, 0.54);
-  display: block;
   position: absolute;
   top: 0rem;
   left: 0;
@@ -6423,7 +6420,6 @@ input:disabled + .chip {
   transition: opacity 300ms cubic-bezier(0.4, 0, 0.2, 1);
   background-color: #e87500;
   content: '';
-  display: block;
   height: 0.125rem;
   opacity: 0;
   position: absolute;
@@ -7036,19 +7032,16 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
 }
 
 [class*='form-ripple'],
-.floating-label,
-.textfield-box {
+.floating-label {
   position: relative;
 }
 
 [class*='form-ripple']::before,
-.floating-label::before,
-.textfield-box::before {
+.floating-label::before {
   background: #e87500;
   content: '';
   height: 2px;
   position: absolute;
-  bottom: 0;
   left: 0;
   transform: scaleX(0);
   transition: transform 180ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -7058,19 +7051,40 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
 }
 
 [class*='form-ripple'] .form-control:focus,
-.floating-label .form-control:focus,
-.textfield-box .form-control:focus {
+.floating-label .form-control:focus {
   box-shadow: none;
 }
 
-[class*='form-ripple']:focus-within::before,
-.floating-label.is-focused::before,
-.textfield-box:focus-within::before {
+[class*='form-ripple']:focus-within::before {
   transform: scaleX(1);
 }
 
-.form-ripple-text::before {
-  bottom: 1.1875rem;
+.form-ripple::before {
+  top: calc(57px - 2px);
+}
+
+.form-ripple-lg::before {
+  top: calc(82px - 2px);
+}
+
+.form-ripple-sm::before {
+  top: calc(53px - 2px);
+}
+
+.form-ripple-nolabel::before {
+  top: calc(36px - 2px);
+}
+
+.form-ripple-lg-nolabel::before {
+  top: calc(61px - 2px);
+}
+
+.form-ripple-sm-nolabel::before {
+  top: calc(32px - 2px);
+}
+
+.form-ripple-bottom::before {
+  bottom: 0 !important;
 }
 
 .textfield-box .form-control, .textfield-box .custom-select, .textfield-box .form-control-file {
@@ -7170,16 +7184,33 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   max-height: 2.75rem;
 }
 
-.floating-label.textfield-box::before {
-  top: calc(3rem - 2px);
-}
-
-.floating-label-lg.floating-label::before, .input-group-lg > .floating-label::before {
-  top: calc(5rem - 2px);
-}
-
-.floating-label-sm.floating-label::before, .input-group-sm > .floating-label::before {
+.textfield-box.form-ripple-nolabel::before,
+.floating-label.textfield-box.form-ripple::before {
   top: calc(3.5rem - 2px);
+}
+
+.textfield-box-lg.form-ripple-nolabel::before, .input-group-lg > .form-ripple-nolabel.textfield-box::before,
+.floating-label-lg.textfield-box.form-ripple::before,
+.input-group-lg > .textfield-box.form-ripple.floating-label::before {
+  top: calc(4.25rem - 1px);
+}
+
+.textfield-box-sm.form-ripple-nolabel::before, .input-group-sm > .form-ripple-nolabel.textfield-box::before,
+.floating-label-sm.textfield-box.form-ripple::before,
+.input-group-sm > .textfield-box.form-ripple.floating-label::before {
+  top: calc(2.75rem - 2px);
+}
+
+.textfield-box.form-ripple::before {
+  top: calc(85px - 2px);
+}
+
+.textfield-box-lg.form-ripple::before, .input-group-lg > .form-ripple.textfield-box::before {
+  top: calc(98px - 2px);
+}
+
+.textfield-box-sm.form-ripple::before, .input-group-sm > .form-ripple.textfield-box::before {
+  top: calc(73px - 2px);
 }
 
 .floating-label {
@@ -7203,7 +7234,6 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   text-overflow: ellipsis;
   white-space: nowrap;
   color: rgba(0, 0, 0, 0.54);
-  display: block;
   font-size: 1rem;
   letter-spacing: 0.15px;
   line-height: 1.15;
@@ -7390,15 +7420,15 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   padding-right: 1.5em;
 }
 
-.floating-label::before {
+.floating-label.form-ripple::before {
   top: calc(3rem - 2px);
 }
 
-.floating-label-lg.floating-label::before, .input-group-lg > .floating-label::before {
+.floating-label-lg.form-ripple::before, .input-group-lg > .form-ripple.floating-label::before {
   top: calc(4.5rem - 2px);
 }
 
-.floating-label-sm.floating-label::before, .input-group-sm > .floating-label::before {
+.floating-label-sm.form-ripple::before, .input-group-sm > .form-ripple.floating-label::before {
   top: calc(2.75rem - 2px);
 }
 
@@ -7923,7 +7953,6 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   transition: opacity 300ms cubic-bezier(0.4, 0, 0.2, 1);
   background-color: rgba(0, 0, 0, 0.12);
   content: '';
-  display: block;
   opacity: 0;
   position: absolute;
   top: 0;
@@ -8270,7 +8299,6 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   background-color: rgba(0, 0, 0, 0.12);
   border-radius: 50%;
   content: '';
-  display: block;
   opacity: 0;
   position: absolute;
   top: 0;
@@ -12201,7 +12229,6 @@ input:-webkit-autofill:active {
 .irs-handle {
   box-sizing: border-box;
   cursor: default;
-  display: block;
   position: absolute;
   z-index: 1;
 }
@@ -12213,7 +12240,6 @@ input:-webkit-autofill:active {
 .irs-min,
 .irs-max {
   cursor: default;
-  display: block;
   position: absolute;
 }
 
@@ -12229,7 +12255,6 @@ input:-webkit-autofill:active {
 .irs-to,
 .irs-single {
   cursor: default;
-  display: block;
   position: absolute;
   top: 0;
   left: 0;
@@ -12277,7 +12302,6 @@ input:-webkit-autofill:active {
 .irs-disable-mask {
   background: rgba(0, 0, 0, 0);
   cursor: default;
-  display: block;
   height: 100%;
   position: absolute;
   top: 0;
@@ -12300,7 +12324,6 @@ input:-webkit-autofill:active {
   background: none !important;
   border-color: transparent !important;
   border-style: solid !important;
-  display: block !important;
   font-size: 0 !important;
   height: 0 !important;
   line-height: 0 !important;
@@ -12424,7 +12447,6 @@ input:-webkit-autofill:active {
   border: 3px solid transparent;
   border-top-color: #6d6d6d;
   content: '';
-  display: block;
   height: 0;
   margin-left: -3px;
   overflow: hidden;

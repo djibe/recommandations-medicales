@@ -72,7 +72,7 @@ Intérêt de fournir une ordonnance en avance surtout si: adolescente, préserva
 À poser dans les 5 jours suivant le rapport non protégé.  
 À privilégier chez les obèses.
 
-Avant la pose, bilan en urgence: **auto-prélèvement vaginal** pour PCR *Chlamydia trachomatis* et *Neisseria gonorrhoeae* notamment en cas d’IST, d’infection génitale haute en cours ou récente, d’âge < 25 ans ou de partenaires multiples.
+Avant la pose, bilan en urgence: **auto-prélèvement vaginal** pour PCR *[Chlamydia trachomatis]({{< relref "chlamydia-trachomatis.md" >}})* et *Neisseria gonorrhoeae* notamment en cas d’IST, d’infection génitale haute en cours ou récente, d’âge < 25 ans ou de partenaires multiples.
 
 Consultation de contrôle à 3 mois puis annuelle, ainsi qu'en complications possibles (douleurs pelviennes, saignements, fièvre).
 

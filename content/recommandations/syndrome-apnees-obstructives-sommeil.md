@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2020-12-22T09:52:41+02:00
 publishdate = 2020-12-22
-lastmod = 2021-01-01
+lastmod = 2021-06-08
 specialites = ["medecine du sommeil"]
 annees = "2018"
 sources = ["AASM", "HAS", "SFRMS"]
@@ -27,13 +27,23 @@ todo = "simplifier, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renou
 - Dépister les personnes avec facteur de risque de SAOS (voir *Qui dépister ?*) par le questionnaire STOP-BANG ou 8 questions (voir *Comment dépister ...* )
 - [Liste des centres d'exploration du sommeil par région](https://www.sfrms-sommeil.org/centres-du-sommeil/ile-de-france/)
 - PPC doit être utilisée ≥ 4h/nuit et renouvelée au bout de 3 ans par le médecin traitant.
+- À venir: aide à la prescription du renouvellement de la PPC
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Syndrome d’apnée du sommeil (SAS)
-: Survenue pendant le sommeil d’épisodes anormalement fréquents d’interruptions de la ventilation (apnées) ou de réductions significatives de la ventilation (hypopnées), entraînant une hypoxémie et des micro-éveils associés à des symptômes.  
+: Survenue pendant le sommeil d’épisodes anormalement fréquents d’interruptions de la ventilation (*apnées*) ou de réductions significatives de la ventilation (*hypopnées*), entraînant une hypoxémie et des micro-éveils associés à des symptômes.  
 Il a une origine *obstructive* (SAOS), *centrale* (SACS) ou *mixte*.
+: Les complications des apnées du sommeil sont nombreuses et sévères:
+    - Coronaropathie et insuffisance cardiaque (+50%)  
+    HTA diastolique, nocturne et résistante (> 60% des HTA résistantes)
+    - AVC (x 2-3)
+    - Insulino-résistance
+    - Troubles de la concentration et de l’humeur
+    - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md">}})
+    - Accidents de la route (x 2-3)  
+  Le traitement des apnées réduit significativement les risques.
 
 Index Apnées-Hypopnées (IAH)
 : ({{%lang%}}Apnea-hypopnea index AHI{{%/lang%}})
@@ -121,21 +131,6 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 - 60% des *insuffisants cardiaques* ont une forme d’apnées du sommeil
 
 {{% /collapse %}}
-{{%collapse "Complications" %}}
-
-Les complications des apnées du sommeil sont nombreuses et sévères:
-
-- Coronaropathie et insuffisance cardiaque (+50%)  
-HTA diastolique, nocturne et résistante (> 60% des HTA résistantes)
-- AVC (x 2-3)
-- Insulino-résistance
-- Troubles de la concentration et de l’humeur
-- [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md">}})
-- Accidents de la route (x 2-3)
-
-Le traitement des apnées réduit significativement les risques.
-
-{{% /collapse %}}
 {{%collapse "Qui dépister ?" %}}
 
 {{%info%}}
@@ -148,15 +143,15 @@ Rechercher les apnées du sommeil de façon systématique chez:
   - [AVC]({{< relref "accident-vasculaire-cerebral.md" >}})
   - Hypertension artérielle réfractaire
   - Insuffisance respiratoire
-  - Insuffisance cardiaque
+  - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
   - Fibrillation atriale
   - Arythmies nocturnes
-  - HTAP
+  - [HTAP]({{< relref "hypertension-arterielle-pulmonaire.md" >}})
 - Chauffeurs professionnels (ou métiers à risque)
 - Pré-opératoire de chirurgie bariatrique
 {{%/info%}}
 
-> SPLF 2010
+> Indications selon *SPLF 2010*
 
 {{%warning%}}
 Enregistrement du sommeil systématique chez diabétique avec:
@@ -171,7 +166,7 @@ Enregistrement du sommeil systématique chez diabétique avec:
 ### Facteurs de risque d'apnées du sommeil
 
 - Surpoids ou obèse
-- Cou large (> 43 cm homme, 40 cm femme)
+- Cou large (> 43 cm homme - 40 cm femme)
 - Âge moyen
 - Ménopause
 - Maladies des tissus mous
@@ -186,45 +181,125 @@ Enregistrement du sommeil systématique chez diabétique avec:
 {{% /collapse %}}
 {{%collapse "Comment dépister les apnées du sommeil ?" %}}
 
-### Dépistage par le questionnaire STOP-BANG
-
-Score validé avec la plus grande sensibilité pour le dépistage des apnées du sommeil.
-
-**Il ne doit pas être utilisé en cas de diabète** (voir plus bas).
-
-{{< scores/stop-bang >}}
-
-### Dépistage à l'interrogatoire
-
-Alternative au *STOP-BANG*. La présence de 3 symptômes parmi les 8 ci-dessous justifie un enregistrement du sommeil.
-
-Seules questions validées pour le dépistage du SAOS en cas de diabète.
-
-{{%info%}}
-
-1. Avez-vous un ronflement régulier et gênant pour l’entourage ?
-1. Votre entourage vous a-t-il signalé des arrêts respiratoires pendant que vous dormez ?
-1. Vous réveillez-vous parfois avec l’impression de suffoquer ?
-1. Vous levez-vous plus d’une fois par nuit pour uriner ?
-1. Avez-vous des maux de tête ?
-1. Vous sentez-vous anormalement fatigué la journée ?
-1. Avez-vous l’impression que votre sommeil n’est pas réparateur ?
-1. Ressentez-vous de la somnolence dans la journée ?
-
-{{%/info%}}
-
-> Source SFD/SFRMS/SPLF 2018
+<div class="card card-paracetamol my-3 my-xl-5">
+  <ul class="nav nav-justified nav-tabs" id="tabs-saos" role="tablist">
+    <li class="nav-item">
+      <a aria-controls="stop-bang" aria-selected="true" class="nav-link active" data-toggle="tab" href="#stop-bang" id="stop-bang-tab" role="tab">STOP-BANG</a>
+    </li>
+    <li class="nav-item">
+      <a aria-controls="stop" aria-selected="false" class="nav-link" data-toggle="tab" href="#stop" id="stop-tab" role="tab">STOP</a>
+    </li>
+    <li class="nav-item">
+      <a aria-controls="saos-diabete" aria-selected="false" class="nav-link" data-toggle="tab" href="#saos-diabete" id="saos-diabete-tab" role="tab">Diabète</a>
+    </li>
+  </ul>
+  <div class="tab-content" id="tabs-saos-content">
+    <div aria-labelledby="stop-bang-tab" class="tab-pane fade show active" id="stop-bang" role="tabpanel">
+        <div class="card-body" id="score-stop-bang">
+          <p>Score validé avec la plus grande sensibilité pour le dépistage des apnées du sommeil.<br>
+          <strong>Il ne doit pas être utilisé en cas de diabète.</strong></p>
+          <div class="custom-control custom-checkbox">
+            <input type="checkbox" id="stopbang1" class="custom-control-input" value="1">
+            <label class="custom-control-label" for="stopbang1">Ronfle fort</label>
+            <p class="typography-caption text-black-secondary">Entendu à travers les portes ou coups de coude du partenaire.</p>
+          </div>
+          <div class="custom-control custom-checkbox">
+            <input type="checkbox" id="stopbang2" class="custom-control-input" value="1">
+            <label class="custom-control-label" for="stopbang2">Fatigue pendant la journée</label>
+            <p class="typography-caption text-black-secondary">Fatigué, épuisé ou somnolent (ex: s'endormir au volant).</p>
+          </div>
+          <div class="custom-control custom-checkbox">
+            <input type="checkbox" id="stopbang3" class="custom-control-input" value="1">
+            <label class="custom-control-label" for="stopbang3">Pauses respiratoires constatées</label>
+            <p class="typography-caption text-black-secondary">Observation de pauses, étouffement ou suffocation pendant le sommeil.</p>
+          </div>
+          <div class="custom-control custom-checkbox">
+            <input type="checkbox" id="stopbang4" class="custom-control-input" value="1">
+            <label class="custom-control-label" for="stopbang4">HTA</label>
+          </div>
+          <div class="custom-control custom-checkbox">
+            <input type="checkbox" id="stopbang5" class="custom-control-input" value="1">
+            <label class="custom-control-label" for="stopbang5">IMC &ge; 35 kg/m²</label>
+          </div>
+          <div class="custom-control custom-checkbox">
+            <input type="checkbox" id="stopbang6" class="custom-control-input" value="1">
+            <label class="custom-control-label" for="stopbang6">Âge &ge; 50 ans</label>
+          </div>
+          <div class="custom-control custom-checkbox">
+            <input type="checkbox" id="stopbang7" class="custom-control-input" value="1">
+            <label class="custom-control-label" for="stopbang7">Homme</label>
+          </div>
+          <div class="custom-control custom-checkbox">
+            <input type="checkbox" id="stopbang8" class="custom-control-input" value="1">
+            <label class="custom-control-label" for="stopbang8">Tour de cou &ge; 43 cm (41 cm si femme)</label>
+          </div>
+        </div>
+        <div class="alert bg-light d-flex mt-md-4">
+          <div class="d-flex flex-column align-items-center">
+            <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score STOP-BANG</p>
+            <span class="font-weight-bold" id="stopbangScore" style="font-size:2rem">0</span>
+          </div>
+          <p id="stopbangText" class="lead m-auto"></p>
+        </div>
+    </div>
+    <div aria-labelledby="stop-tab" class="tab-pane fade" id="stop" role="tabpanel">
+      <div class="card-body">
+        TODO
+      </div>
+    </div>
+    <div aria-labelledby="saos-diabete-tab" class="tab-pane fade" id="saos-diabete" role="tabpanel">
+      <div class="card-body" id="score-saos-diabete">
+      <p>Seules questions validées pour le dépistage du SAOS en cas de diabète. Utilisable en l'absence de diabète.<br>
+      3 réponses positives justifient un enregistrement du sommeil.</p>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="diabete1" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="diabete1">Ronflement régulier et gênant pour l’entourage</label>
+          <p class="typography-caption text-black-secondary">Entendu à travers les portes ou coups de coude du partenaire.</p>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="diabete2" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="diabete2">Arrêts respiratoires pendant le sommeil signalés pour l’entourage</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="diabete3" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="diabete3">Réveils avec impression de suffoquer</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="diabete4" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="diabete4">&gt; 1 lever nocturne pour uriner</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="diabete5" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="diabete5">Céphalées</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="diabete6" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="diabete7">Fatigue anormale la journée</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="diabete7" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="diabete8">Sommeil non réparateur</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" id="diabete8" class="custom-control-input" value="1">
+          <label class="custom-control-label" for="diabete8">Somnolence diurne</label>
+        </div>
+        <blockquote class="blockquote">
+          <p class="mb-0">Source SFD/SFRMS/SPLF 2018</p>
+        </blockquote>
+      </div>
+    </div>
+  </div>
+</div>
 
 ### Échelle de somnolence d'Epworth
 
-({{%lang%}}Epworth sleepiness scale = ESS{{%/lang%}})
+({{%lang%}}Epworth sleepiness scale (ESS){{%/lang%}})
 
-- Il s'agit du meilleur outil pour l’évaluation subjective de la somnolence (AASM 2017).
-- Il est utile d’avoir une confirmation du score par un proche.
-- L'échelle est auto-administrée.
+[Échelle auto-administrée](https://reseau-morphee.fr/wp-content/uploads/dlm_uploads/2016/11/Epworth.pdf) obtenant la meilleure évaluation subjective de la somnolence (*AASM 2017*).  
+Il est utile d’avoir une confirmation du score par un proche.
 
-[Voir l'échelle d'Epworth](https://reseau-morphee.fr/wp-content/uploads/dlm_uploads/2016/11/Epworth.pdf).  
-**Interprétation:** Score 0-10 normal | 11-15 faible à modérée | 16-24 modérée à sévère
+**Niveau de la somnolence selon Epworth:** Score 0-10 normale | 11-15 faible à modérée | 16-24 modérée à sévère
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

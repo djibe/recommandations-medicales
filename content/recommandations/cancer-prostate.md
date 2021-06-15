@@ -20,6 +20,8 @@ imageSrc = ""
 todo = "<1 ng or 2 ng, Ref HAS, https://curie.fr/dossier-pedagogique/cancer-de-la-prostate-les-facteurs-de-risque"
 +++
 
+*Ébauche de fiche en cours*
+
 {{%article-summary%}}
 
 - Proposer le dépistage à partir de 45 ans si espérance de vie ≥ 10 ans.
@@ -35,10 +37,10 @@ Histologie
 : Initiale intra-capsulaire (cancer localisé) puis **métastatique ganglionnaire et osseux** (foie et poumon rares).  
 < 20% des patients ont des métastases à 10 ans.
 
-Facteurs pronostics
+Facteurs pronostiques
 : Volume tumoral, **score de Gleason** au diagnostic.
 
-Facteurs de risque
+Facteurs de risque du cancer de la prostate
 : Principal: Âge > 55 ans.  
 Héréditaire si ≥ 3 cas dans les apparentés au 1<sup>er</sup> degré.
 

@@ -45,7 +45,7 @@ Arthrites réactionnelles
 Survenue dans les semaines qui suivent une infection génitale ou digestive.  
 Au maximum *syndrome de Fiessinger-Leroy-Reiter* (triade arthrite-urétrite-conjonctivite).
 : Association au *HLA-B27*. Chronicisation dans 10-20% des cas voire évolution en SpA.
-: Germes impliqués: *Chlamydia*, *Shigella*, *Yersinia*, *Salmonella*, *Campylobacter*.
+: Germes impliqués: *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})*, *Shigella*, *Yersinia*, *Salmonella*, *Campylobacter*.
 
 Spondylarthropaties indifférenciées
 : Remplissent les critères ESSG/Amor.

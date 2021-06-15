@@ -16,7 +16,7 @@ anglais = ["Human immunodeficiency virus infection"]
 sctid = "86406008"
 image = true
 imageSrc = "Photo de NIAID sur Foter.com / CC BY"
-todo = "relecture CNS, TPE et PrEP, VIHclic, brochure AIDES, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih, depistage DT2, info transmission/guérison, marqueurs CD4/charge virale"
+todo = "relecture CNS, TPE et PrEP, https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil, VIHclic, brochure AIDES, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih, depistage DT2, info transmission/guérison, marqueurs CD4/charge virale"
 +++
 
 {{%article-summary%}}
@@ -281,8 +281,8 @@ En l'absence de suspicion de primo-infection VIH:
   - Sérologie VHC, [syphilis]({{< relref "syphilis.md" >}})
   - Sérologie VHA (et [rattrapage vaccinal]({{< relref "hepatite-a.md" >}}))
   - PCR *[chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* des sites possibles
-  - Femme: ßHCG
   - ALAT
+  - Femme: ßHCG
 
 ### Prescription de la PrEP
 
@@ -316,13 +316,13 @@ Si rapports répétés: poursuivre à 1 cp/j jusqu'à 2j après le dernier rappo
 | Période | Bilan       | Remarque   |
 |:-------:|-------------|------------|
 | 1 mois  | - Sérologie VIH<br>- Créatininémie, CDK-EPI | ßHCG non systématique |
-| 4 mois  | Idem + IST<br>- ALAT  | Clairance ≥ 90: bilan annuel<br>70-90 ou âge ≥ 55: 6 mois<br>< 70: 3 mois |
-| Trimestriel | - Sérologie VIH<br> IST, ALAT | Rythme de la créatinine selon la clairance |
+| 4 mois  | - Idem + IST<br>- ALAT  | Clairance ≥ 90: bilan annuel<br>70-90 ou âge ≥ 55: 6 mois<br>< 70: 3 mois |
+| Trimestriel | - Sérologie VIH<br>- IST, ALAT | Rythme de la créatinine selon la clairance |
 | Annuel  | - Sérologie VHC*<br>- Protéinurie/créatininurie sur échantillon | |
 {{< /table >}}
 
 > Sites de dépistage des IST gono + chlam selon les pratiques  
-Sérologie VHC plus fréquente si UDI, chemsex ou pratiques traumatisantes
+*Sérologie VHC plus fréquente si UDI, chemsex ou pratiques traumatisantes
 
 ### Arrêt de la PrEP
 

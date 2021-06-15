@@ -6,22 +6,25 @@ synonyms = ["Homosexuel ou bisexuel masculin"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-22T17:43:41+02:00
 publishdate = 2020-07-22
-lastmod = 2021-01-16
+lastmod = 2021-06-08
 specialites = ["infectiologie"]
 annees = "2020"
 sources = ["HAS", "MinSante"]
 tags = ["depistage", "HSH", "IST", "vaccin", "VIH"]
-anglais = ["MSM", "Men who have sex with men"]
+anglais = ["Men who have sex with men (MSM)"]
 sctid = "76102007"
 draft = false
-todo = "TODO: gono, Prep, https://www.eacsociety.org/files/2019_guidelines-10.0_final.pdf p. 24"
+image = true
+imageSrc = "Illustration par pch.vector / Freepik"
+todo = "TODO: gono, https://www.eacsociety.org/files/2019_guidelines-10.0_final.pdf p. 24"
 +++
 
 {{%article-summary%}}
 
 - Port du préservatif systématique
-- Dépistage du VIH tous les 3 mois (HAS 2017)
-- Dépistage du *Chlamydia* tous les 3-6 mois (HAS 2018)
+- Parler de la [PrEP]({{< relref "vih-sida.md" >}})
+- Dépistage du VIH tous les 3 mois (*HAS 2017*)
+- Dépistage du *Chlamydia* tous les 3-6 mois (*HAS 2018*)
 - Vaccination hépatite A (après sérologie), hépatite B, papillomavirus (jusqu'à 26 ans)
 
 {{%/article-summary%}}
@@ -56,20 +59,26 @@ Parmi les HSH fréquentant les milieux sociaux HSH (bars, backrooms):
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Sérologies à proposer en cas de conduites sexuelles à risque:
+Bilans à proposer en cas de conduites sexuelles à risque:
 
 - [VIH]({{< relref "vih-sida.md" >}})
 - [Hépatite A]({{< relref "hepatite-a.md" >}})
 - Hépatite B
+- Hépatite C
 - [Syphilis]({{< relref "syphilis.md" >}})
+- PCR *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* + gonocoque selon les pratiques
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
 ### Dépistage des IST
 
-- Dépistage tous les 3 mois du VIH
-- Dépistage tous les 3 à 6 mois de *Chlaymdia trachomatis*
+- Dépistage tous les 3 mois du [VIH]({{< relref "vih-sida.md" >}})
+- Dépistage tous les 3 à 6 mois de *[Chlamydia trachomatis]({{< relref "chlamydia-trachomatis.md" >}})*
+
+### PreEp
+
+Aborder avec toutes les personnes ayant des rapports non protégés avec des personnes de statut virologique inconnu (voir [PrEP]({{< relref "vih-sida.md" >}})).
 
 ### Préservatif
 
@@ -92,10 +101,6 @@ Spécialités chez l'adulte:
 #### Vaccin papillomavirus
 
 << GARDASIL 9® recommandée jusqu’à l’âge de 26 ans, en prévention des lésions précancéreuses anales, des cancers anaux et des condylomes. Dans cette situation, la vaccination peut être proposée dans certains {{< references/cegidd >}} et dans certains centres publics de vaccination. >>
-
-### PreEp
-
-(*En construction*)
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

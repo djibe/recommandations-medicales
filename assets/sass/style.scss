@@ -140,7 +140,7 @@ a[href^='http']:not([class])::after {
   .h1 {
     font-size: calc(1.5rem + 3vw);
     letter-spacing: -1.5px;
-    line-height: 1.1;
+    line-height: 1.2;
 
     @media (min-width: 1200px){
       & {
@@ -526,7 +526,16 @@ div.data-table {
 }
 
 .navdrawer-nav {
-  .nav-link {
+  > li {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    align-items: center;
+    display: flex;
+    font-weight: 500;
+    height: 2.5rem;
+    letter-spacing: .1px;
+    transition: background-color 15ms;
     border-radius: 0 20px 20px 0;
     color: rgba(0,0,0,0.65);
     font-size: 14px;
@@ -545,26 +554,26 @@ div.data-table {
       border-bottom: 1px solid #e0e0e0;
     }
   }
-}
 
-.nav-sub {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  align-items: center;
-  border-radius: 4px;
-  color: inherit;
-  display: flex;
-  font-weight: 400;
-  height: 2.5rem;
-  letter-spacing: .007143em;
-  line-height: 1.375rem;
-  margin: 0 8px 0 0;
-  padding: 4px 8px 4px 24px;
-  transition: background-color 15ms;
+  > div > a {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    align-items: center;
+    border-radius: 4px;
+    color: inherit;
+    display: flex;
+    font-weight: 400;
+    height: 2.5rem;
+    letter-spacing: .007143em;
+    line-height: 1.375rem;
+    margin: 0 8px 0 0;
+    padding: 4px 8px 4px 24px;
+    transition: background-color 15ms;
 
-  &:hover {
-    color: var(--primary);
+    &:hover {
+      color: var(--primary);
+    }
   }
 }
 

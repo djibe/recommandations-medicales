@@ -237,8 +237,8 @@ Indications: cardiomyopathie hypertrophique (CMH), cardiomyopathie dilatée idio
 - Bradycardisant ivabradine  
 Tachycardie persistante sous BB dose maximale.
 - Diurétiques à visée symptomatique
-  - [Furosémide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68009803&typedoc=R) 20-40 mg jusqu'à 1000 mg/j. Fractionner au-delà de 40 mg
-  - ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68232635&typedoc=R) 0,5-1 mg jusqu'à 5 mg/j. Fractionner au-delà de 1 mg
+  - [Furosémide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68009803&typedoc=R) 20-40 mg jusqu'à 1000 mg/j. Fractionner quand ≥ 40 mg
+  - ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68232635&typedoc=R) 0,5-1 mg jusqu'à 5 mg/j. Fractionner quand ≥ 1 mg
   - Éducation pour adaptation aux apports sodés
   - Augmenter dès prise de 2 kg/3j
 - Ferritinémie > 100 ng/mL (bilan étiologique et fer maltose IV)

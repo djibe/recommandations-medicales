@@ -34,7 +34,7 @@ Principal facteur du déclin du VEMS.
 - Bronchodilatateurs: {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}}, {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama >}}LABA + LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}
 - EFR de suivi annuelle
 - Prévention cardiovasculaire
-- Voir les [vidéos de formations sur les techniques d'inhalation]({{< relref "bronchopneumopathie-chronique-obstructive.md#vidéos-de-formation" >}})
+- Voir les [vidéos de formations sur les techniques d'inhalation]({{< relref "bronchopneumopathie-chronique-obstructive.md#fmc-gratuites" >}})
 - Pas de contre-indication aux bêtabloquants (ESC 2016 IC)
 
 {{%/article-summary%}}
@@ -532,9 +532,9 @@ Anémie, asthme, cancer, [insuffisance cardiaque]({{< relref "insuffisance-cardi
 > Source HAS 2019
 
 {{% /collapse %}}
-{{%collapse "Vidéos de formation" %}}
+{{%collapse "FMC gratuites" %}}
 
-{{< video poster="https://splf.fr/wp-content/uploads/2021/05/Webinaire-2021-05-26-1300-500.png" mp4="https://dts.podtrac.com/redirect.mp4/docs.splf.fr/videos/Webinaires/2021/Webinaire-SPLF-2021-05-26.mp4" description="Webinaire SPLF/Groupe BPCO Optimisation du traitement médicamenteux des patients atteints de BPCO en état stable" width="100%" >}}
+{{< video poster="https://splf.fr/wp-content/uploads/2021/05/Webinaire-2021-05-26-1300-500.png" mp4="https://dts.podtrac.com/redirect.mp4/docs.splf.fr/videos/Webinaires/2021/Webinaire-SPLF-2021-05-26.mp4" description="Webinaire SPLF/Groupe BPCO Optimisation du traitement médicamenteux des patients atteints de BPCO en état stable" width="768" height="432" >}}
 
 ### Techniques d'inhalation des bronchodilatateurs
 
