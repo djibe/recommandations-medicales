@@ -167,7 +167,7 @@ Uniquement par le gastro-entérologue:
 {{< mermaid title="Conduite à tenir diagnostique devant une hyperferritinémie. Dr JB FRON d'après SNFGE 2019" >}}
 graph TB
   HF["<b>Hyperferritinémie</b><hr>Femme &gt; 200<br>Homme &gt; 300"] --> CST(CST à jeun)
-  style HF stroke:#006ef4, stroke-width:1px
+  style HF stroke:#4150f5, stroke-width:1px
     CST -- "&lt; 45%" --> CRP(CRP ?)
       CRP -- Augmentée --> inflam(Inflammation<br>HF majeure ?)
         inflam --> gastro(Gastro-entérologue)

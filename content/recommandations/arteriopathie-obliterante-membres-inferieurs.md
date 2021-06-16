@@ -275,10 +275,10 @@ Suivi déterminé par l'angiologue après revascularisation.
 {{< mermaid title="Conduite à tenir pour le dépistage de l'AOMI. Dr JB FRON d'après SFMV 2020 et ESC 2017" >}}
 graph TB
 depister["<b>Personne à risque</b><br><b>ou symptomatique</b><hr>- Suspicion clinique<br>- Athérome connu<br>- Anévrysme aortique<br>- Insuff. rénale<br>- Insuff. cardiaque<br>- Dépistage PREVALENT<br>- Âge &ge; 65 ans<br>- Risque CV élevé<br>- &ge; 50 ans et ATCD familial AOMI<br>ou &ge; 1 autre FRCV"] --> clinique("- Interrogatoire<br>- Examen clinique")
-style depister stroke:#006ef4, stroke-width:1px
+style depister stroke:#4150f5, stroke-width:1px
   clinique --> ips("Mesure de l'IPS<br>et IPSGO")
     ips -- "IPS &le; 0,9 et IPSGO &le; 0,7" --> AOMI(Diagnostic d'AOMI)
-    style AOMI stroke:#006ef4, stroke-width:1px
+    style AOMI stroke:#4150f5, stroke-width:1px
       AOMI --> bilan("<b>Bilan de l'athérome</b><hr>- Biologie<br>- Doppler MI, Ao et TSA<br>- ECG<br>- Cardiologue")
         bilan --> ttt("<b>Très haut risque cardiovasculaire</b><hr>- Sevrage tabagique<br>- LDL &lt; 0,55 g/L<br>- Clopidogrel si claudication/masquée<br>- IEC<br>- PA 120-140/90 mmHg<br>- Suivi cardio + angiologue<br>- Réadaptation vasculaire<br>- Vaccin grippe + tétanos<br>- Sel &lt; 5 g/j<br>- Régime méditerranéen<br>- Activité 30-60 min/j")
     ips -- "Autres" --> doppler(Bilan angiologique)

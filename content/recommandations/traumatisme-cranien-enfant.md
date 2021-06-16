@@ -181,7 +181,7 @@ Remise des [Consignes de surveillance à donner aux parents](/print/tc-enfant-co
 {{< mermaid title="Conduite à tenir devant un traumatisme crânien de l'enfant. Dr JB FRON d'après SFMU 2015" >}}
 graph TB
   TC[Traumatisme crânien] --> GCS(Score de Glasgow)
-  style TC stroke:#006ef4, stroke-width:1px
+  style TC stroke:#4150f5, stroke-width:1px
   GCS -- "&lt; 13" --> TCgrave(TC grave) --> SAMU("<b>SAMU</b>")
   GCS -- "&ge; 13" --> TCleger(TC léger) --> gravite(Signes de gravité ?)
     gravite -- Oui --> SAMU

@@ -4,27 +4,27 @@
 // https://mycolor.space/?hex=%230077FF&sub=1
 
 $primary: (
-  color: #006ef4,
-  dark:  #2242cd,
-  light: #14aaff
+  color: #4150f5,
+  dark:  #292ed1,
+  light: #a6acfc
 ) !default;
 
 $secondary: (
-  color: #e87500,
-  dark:  #c05500,
-  light: #ffca7f
+  color: #ffc525,
+  dark:  #c48900,
+  light: #ffd151
 ) !default;
 
 $danger: (
-  color: #e3536b,
+  color: #f54150,
   dark:  #b7374f,
   light: #f194a6
 ) !default;
 
 $info: (
-  color: #53b3e3,
-  dark:  #3b86bc,
-  light: #b7e4f6
+  color: #41aaf5,
+  dark:  #097cd3,
+  light: #91cdf9
 ) !default;
 
 $success: (
@@ -40,7 +40,7 @@ $warning: (
 ) !default;
 
 @function selection-theme-color() {
-  @return theme-color(secondary);
+  @return theme-color(primary);
 }
 
 // Typography
@@ -87,7 +87,7 @@ $line-height-subtitle-2: normal !default;
 // Components
 $border-radius: 0;
 
-$secondary-color-for-controls:  true !default;
+$secondary-color-for-controls:  false !default;
 $enable-dark-theme-media-query: false !default;
 $enable-validation-valid:  false !default; // Apply Success color to valid inputs (not recommended)
 

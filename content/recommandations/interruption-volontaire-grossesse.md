@@ -151,7 +151,7 @@ Contraception efficace adaptée pour tous les couples en âge de procréer en l'
 {{< mermaid title="Conduite à tenir pour l'IVG. Dr JB FRON d'après HAS 2021" >}}
 graph TB
   demande[Demande d'IVG]
-  style demande stroke:#006ef4, stroke-width:1px
+  style demande stroke:#4150f5, stroke-width:1px
     demande --> cs("Calcul du terme (DDR)<br>&plusmn; examen")
     cs --> orientation("Orienter pour RDV sous 5j<hr>0 800 08 11 11<br>ivglesadresses.org")
       orientation -- "&lt; 10 SA" --> med(Traitement médical<br>ambulatoire)

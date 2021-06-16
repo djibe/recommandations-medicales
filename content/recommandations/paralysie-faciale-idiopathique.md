@@ -275,7 +275,7 @@ Traitements non recommandés au cours d'une PFI:
 {{< mermaid title="Conduite à tenir devant une paralysie faciale idiopathique. Dr JB FRON d'après SFORL 2020" >}}
 graph TB
   PF[Paralysie faciale] --> atypie("<b>Clinique:</b> &ge; 1 signe parmi ?<hr>- Antécédent de PF<br>- Installation &gt; 72h<br>- Dissociation A-V<br>- Bilatérale, fluctuante<br>- Otalgie, surdité, vertiges<br>- PFP atypique<br>- Éruption vésiculeuse<br>- ADP cervicales<br>- Déficit autre")
-  style PF stroke:#006ef4, stroke-width:1px
+  style PF stroke:#4150f5, stroke-width:1px
     atypie -- Oui --> differentiel("Éliminer une cause urgente<br>de paralysie faciale")
     atypie -- Non --> PFI("<b>Paralysie faciale idiopathique</b><br>si aucun des éléments ci-dessus")
       PFI --> bilan("<b>Examens</b><hr>- NFS<br>- Glycémie à jeûn<br>- Sérologies Lyme et VIH<br>- Audiométrie<br>- IRM n. facial<br>- ENMG si grave")

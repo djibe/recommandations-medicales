@@ -365,12 +365,12 @@ Sous 2 semaines +++ à 2 mois.
 {{< mermaid title="Conduite à tenir pour le diagnostic de l'insuffisance cardiaque chronique. Dr JB FRON d'après ESC 2016" >}}
 graph TB
 suspicion[Suspicion d'insuffisance cardiaque]
-style suspicion stroke:#006ef4, stroke-width:1px
+style suspicion stroke:#4150f5, stroke-width:1px
   suspicion --> clinique("<b>Probabilité clinique</b><hr>- HTA, coronarien<br>- Cardiotoxiques, diurétiques<br>- Orthopnée ou autre<hr>- Crépitants, œdèmes chevilles<br>- Souffle cardiaque<br>- Turgescence jugulaire<br>- Choc de pointe<hr>- ECG anormal")
     clinique -- "&ge; 1 signe"--> BNP("NT-proBNP &ge; 125 pg/mL<br>ou BNP &ge; 35 pg/mL")
       BNP -- Oui --> ETT(Échocardiographie)
         ETT -- Anormale --> diagnostic("Diagnostic d'IC<br>Traitement étiologique")
-        style diagnostic stroke:#006ef4, stroke-width:1px
+        style diagnostic stroke:#4150f5, stroke-width:1px
         ETT -- Normale --> differentiel
       BNP -- Non --> differentiel
     clinique -- Aucun --> differentiel("<b>IC peu probable</b><br>Étayer d'autres diagnostics")
@@ -381,7 +381,7 @@ style suspicion stroke:#006ef4, stroke-width:1px
 {{< mermaid title="Conduite à tenir pour le traitement l'insuffisance cardiaque symptomatique à l'état stable. Dr JB FRON d'après ESC 2016" >}}
 graph TB
 ICFEd["Patient symptomatique avec ICFEd<br>FEVG &lt; 40%"]
-style ICFEd stroke:#006ef4, stroke-width:1px
+style ICFEd stroke:#4150f5, stroke-width:1px
   ICFEd --> systematique("- IEC et BB à dose maximale<br>- Diurétiques selon symptômes")
     systematique -- "Symptomatique et FE &le; 35%" --> antialdosterone(Spironolactone)
       antialdosterone --> choix("Symptomatique<br>et FEVG &le; 35%<br>(association possible)")

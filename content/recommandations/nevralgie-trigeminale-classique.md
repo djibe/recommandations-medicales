@@ -248,11 +248,11 @@ Indications pour une NTC certaine:
 {{< mermaid title="Conduite à tenir devant une suspicion de névralgie trigéminale classique. Dr JB FRON d'après Donnet 2018" >}}
 graph TB
   suspNtc["Suspicion de<br>névralgie trigéminale classique"] --> exclusion("<b>Signes d'alerte ?</b><hr>- Âge &lt; 40 ans<br>- Déficitaire<br>- Surdité/otologique<br>- Atteinte cutanée ou buccale<br>- Atteinte V1 isolée<br>- Névrite optique<br>- ATCD familial de SEP<br>- Carbamazépine inefficace")
-  style suspNtc stroke:#006ef4, stroke-width:1px
+  style suspNtc stroke:#4150f5, stroke-width:1px
   exclusion -- Non --> criteres("<b>Critères cliniques</b><hr>- &ge; 3 crises<br>- Douleurs stéréotypées avec critères<br>- Topographie stricte<br>- Circonstances de déclenchement<br>- Intervalle libre<br>- Non déficitaire<br>- Sans autre diagnostic compatible")
     criteres --> irm(IRM cérébrale 3T)
       irm -- Normale --> ntc(NTC certaine)
-      style ntc stroke:#006ef4, stroke-width:1px
+      style ntc stroke:#4150f5, stroke-width:1px
         ntc --> traitement(<b>Traitement</b><br>Carbamazépine ou oxcarbazépine)
           traitement --> escalade("- Augmentation par paliers<br>- Recherche dose minimale<br>- Surveillance clinico-biologique")
             escalade -. Échec thérapeutique .-> echec(Avis neurologique)

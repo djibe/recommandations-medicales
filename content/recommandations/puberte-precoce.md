@@ -195,7 +195,7 @@ Surveillance des signes d'hyperandrogénie.
 {{< mermaid title="Conduite à tenir devant une suspicion de puberté précoce. Dr JB FRON d'après SFEndocrino" >}}
 graph TB
   pp["Observation de caractères sexuels"] -- Fille --> fille["Âge &lt; 8 ans"]
-  style pp stroke:#006ef4, stroke-width:1px
+  style pp stroke:#4150f5, stroke-width:1px
     pp -- "Garçon" --> garcon("Âge &lt; 9,5 ans")
       fille -- Oui --> examen("Interrogatoire<br>Examen clinique<br>Courbes de croissance")
       garcon -- Oui --> examen

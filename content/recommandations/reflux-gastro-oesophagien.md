@@ -224,7 +224,7 @@ Utiliser les RHD et l'oméprazole (voire la ranitidine).
 {{< mermaid title="Conduite à tenir devant un reflux gastro-œsophagien. Dr JB FRON d'après SNFGE" >}}
 graph TB
   RGO[Suspicion de RGO] --> atypique
-  style RGO stroke:#006ef4, stroke-width:1px
+  style RGO stroke:#4150f5, stroke-width:1px
   RGO --> typique
     typique["Symptômes typiques"] --> 50-("&lt; 50 ans")
     typique --> 50+("&ge; 50 ans")

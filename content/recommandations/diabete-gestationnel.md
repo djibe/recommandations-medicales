@@ -164,7 +164,7 @@ Surveillance pondérale + activité physique.
 {{< mermaid title="Conduite à tenir pour le dépistage du diabète gestationnel. Dr JB FRON d'après SFD/CNGOF 2010" >}}
 graph TB
 fdr["<b>Facteurs de risque de diabète gestationnel</b><hr>1. Âge &ge; 35 ans<br>2. IMC &ge; 25 kg/m²<br>3. ATCD 1<sup>er</sup> degré de DT2<br>4. ATCD de DG<br>5. ATCD de macrosomie"]
-style fdr stroke:#006ef4, stroke-width:1px
+style fdr stroke:#4150f5, stroke-width:1px
   fdr -- Oui --> gaj("<b>1<sup>er</sup> trimestre</b><br>Glycémie à jeun")
     gaj -- "&lt; 0,92" --> hgpo("<b>24-28 SA: HGPO 75 g</b><hr>H0 &ge; 0,92<br>H1 &ge; 1,8<br>H2 &ge; 1,53")
       hgpo -- Négative --> arret2(Arrêt des bilans)

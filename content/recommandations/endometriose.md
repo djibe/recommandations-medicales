@@ -241,7 +241,7 @@ Accompagnement par une équipe d'[Assistance Médicale à la Procréation](https
 {{< mermaid title="Conduite à tenir devant une suspicion d'endométriose. Dr JB FRON d'après CNGOF/HAS 2017" >}}
 graph TB
   endometriose["<b>Suspicion d'endométriose</b><hr>- Dysménorrhées intenses<br>- Dyspareunies<br>- Douleurs pelviennes<br>non menstruelles<br>- Infertilité"] --> clinique("- Symptômes<br>- Évaluation du retentissement<br>(EAN, EHP-5, absentéisme)<br>- Examen gynécologique<br>- Échographie pelvienne")
-  style endometriose stroke:#006ef4, stroke-width:1px
+  style endometriose stroke:#4150f5, stroke-width:1px
     clinique --> indicationsBilan("- Signes d'endométriose profonde ?<br>(dyspareunies, dl défécation, SFU)<br>- Infertilité ?<br>- Endométriome en écho ?")
       indicationsBilan -- Non --> souhaitGrossesse(Souhait de grossesse&nbsp;?)
         souhaitGrossesse -- Non --> contraception(Pilule combinée ou DIU LNG)

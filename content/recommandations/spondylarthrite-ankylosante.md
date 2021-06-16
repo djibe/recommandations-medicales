@@ -335,7 +335,7 @@ VS, CRP.
 {{< mermaid title="Conduite à tenir devant une suspicion de spondylarthrite ankylosante. Dr JB FRON d'après SFRhumato 2018" >}}
 graph TB
   suspicion[Suspicion de SpA] --> bilan("Biologie<br>Rx rachis complet F+P<br>et bassin F<br>IRM rachis DL + SI") --> rhumato("AINS pleine dose<br>Avis rhumatologique SYSTÉMATIQUE")
-  style suspicion stroke:#006ef4, stroke-width:1px
+  style suspicion stroke:#4150f5, stroke-width:1px
 
 {{< /mermaid >}}
 

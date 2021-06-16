@@ -426,11 +426,11 @@ Palier 2 ou 3.
 {{< mermaid title="Conduite à tenir devant une suspicion de syndrome des jambes sans repos. Dr JB FRON d'après SFRMS 2019" >}}
 graph TB
   suspSJSR[Suspicion de SJSR]
-  style suspSJSR stroke:#006ef4, stroke-width:1px
+  style suspSJSR stroke:#4150f5, stroke-width:1px
     suspSJSR -- Adulte --> criteres("<b>Critères diagnostiques ?</b><hr>- Besoin impérieux de bouger les jambes<br>- Apparition repos<br>- Amélioration mouvement<br>- Aggravation soir/nuit<br>- Exclusion d'autres diagnostics")
       criteres -- Tous évidents --> SJSR[SJS certain]
       criteres -- Doute diagnostique --> avis3(Avis du médecin<br>du sommeil)
-      style SJSR stroke:#006ef4, stroke-width:1px
+      style SJSR stroke:#4150f5, stroke-width:1px
         SJSR --> RHD("<b>Mesures systématiques</b><hr>- Information du patient<br>- Correction des facteurs aggravants<br>- Adaptation des habitudes de vie")
           RHD --> ferritine(Ferritinémie ?)
             ferritine -- "&le; 75 ng/mL" --> correction(Supplémentation en fer<br>Contrôle à M3)

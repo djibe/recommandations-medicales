@@ -28,7 +28,7 @@ todo = "TODO: summary"
 - Asymétrie crânienne par appui prolongé, décrite souvent comme un parallélogramme
 - La **plagiocéphalie positionnelle** (PP) est de type postérieure non synostotique (absence de synostoses des sutures). On parle de **déformations crâniennes positionnelles** (DCP).
 - N’entraîne pas de retard neuro-développemental
-- Sa prévalence est élevée, 16 % à 6 semaines, 20 % à 4 mois. La majorité est résorbée à 2 ans.
+- Sa prévalence est élevée, 16% à 6 semaines, 20% à 4 mois. La majorité est résorbée à 2 ans.
 
 ### Facteurs de risque de plagiocéphalie
 

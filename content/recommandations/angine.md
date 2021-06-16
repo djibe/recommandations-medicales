@@ -33,7 +33,7 @@ Angine
 : Infection des amygdales palatines voire de l'ensemble du pharynx.  
 La majorité des infections est virale.
 : Le streptocoque β hémolytique du groupe A (*SGA* ou *Streptococcus pyogenes*) est la 1<sup>re</sup> bactérie responsable des angines bactériennes avec un pic entre 4 et 15 ans.  
-Il est responsable de 25-40 % des angines de l'enfant, 10-25 % des angines de l'adulte.
+Il est responsable de 25-40% des angines de l'enfant, 10-25% des angines de l'adulte.
 
 TDR
 : Test de Diagnostic Rapide du SGA ou Test de dépistage Rapide à Orientation Diagnostique (TROD) de l'angine. Aussi appelé Streptatest®.
@@ -83,7 +83,7 @@ Indication: angine chez les +3 ans avec TDR positif.
 
 #### Adulte
 
-{{% info %}}Amoxicilline 1g matin et soir pendant 6 jours{{% /info %}}
+{{% info %}}Amoxicilline 1 g matin et soir pendant 6 jours{{% /info %}}
 
 - Allergie vraie à la pénicilline
   - C2G céfuroxime-axétil 250 mg x 2/j pendant 4 jours
@@ -92,11 +92,11 @@ Indication: angine chez les +3 ans avec TDR positif.
 - Contre-indication aux bêtalactamines
   - macrolide azithromycine 500 mg 1 prise quotidienne pendant 3 jours  
   - ou clarithromycine 250 mg x 2/j pendant 5 jours
-  - ou josamycine 1g x 2/j pendant 5 jours
+  - ou josamycine 1 g x 2/j pendant 5 jours
 
 #### Enfant
 
-{{% info %}}Amoxicilline 50 mg/kg/j en 2 prises pendant 6 jours{{% /info %}}
+{{%info%}}Amoxicilline 50 mg/kg/j en 2 prises pendant 6 jours{{%/info%}}
 
 - Allergie vraie à la pénicilline
   - C3G céfpodoxime 8 mg/kg/j en 2 prises (max 400 mg/j) 5 jours
@@ -110,7 +110,7 @@ Indication: angine chez les +3 ans avec TDR positif.
 {{< mermaid title="Conduite à tenir devant une angine. Dr JB FRON d'après SPILF/HAS 2016" >}}
 graph TB
   angine[Angine] --> moins3("&lt; 3 ans") --> viral(Viral)
-  style angine stroke:#006ef4, stroke-width:1px
+  style angine stroke:#4150f5, stroke-width:1px
     angine --> 314ans("3 à 14 ans") --> TDR("TDR") -- "Positif" --> ATB("<b>Antibiothérapie 6j</b><hr>Adulte: amoxicilline 1g x 2/j<br>Enfant: amox 25 mg/kg x 2/j")
       TDR -- Négatif --> viral
     angine --> 15plus("≥ 15 ans") --> score(Mac Isaac) -- "≥ 2" --> ATB

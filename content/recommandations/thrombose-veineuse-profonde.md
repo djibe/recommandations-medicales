@@ -52,10 +52,9 @@ Le risque est augmenté par l'insuffisance veineuse et une maladie thrombogène.
 {{% /collapse %}}
 {{%collapse "Probabilité clinique et score de Wells" %}}
 
-Rechercher des signes d'embolie pulmonaire: dyspnée, malaise, tachycardie et douleur thoracique.
+{{%warning%}}Rechercher des signes d'embolie pulmonaire: dyspnée, malaise, tachycardie et douleur thoracique.{{%/warning%}}
 
-En l'absence de signes d'EP, il est recommandé d'utiliser un des scores ci-dessous plutôt qu'une appréciation clinique pour l'évaluation d'une suspicion de thrombose veineuse profonde.  
-Utiliser le score LEFt chez la femme enceinte.
+En l'absence de signes d'EP, il est recommandé d'utiliser l'un des scores ci-dessous plutôt qu'une appréciation clinique pour l'évaluation d'une suspicion de thrombose veineuse profonde.
 
 {{< scores/wells-tvp >}}
 
@@ -199,7 +198,7 @@ Indication: TVP proximale diagnostiquée dans les 30 jours (avec ou sans EP) ave
 {{< mermaid title="Conduite à tenir devant une suspicion de thrombose veineuse profonde. Dr JB FRON d'après Sanchez 2019" >}}
 graph TB
   tvp[Suspicion de TVP<br>sans argument d'EP] --> score(<b>Score clinique</b><br>Wells, Constans ou LEFt)
-  style tvp stroke:#006ef4, stroke-width:1px
+  style tvp stroke:#4150f5, stroke-width:1px
     score --> probaFaible(Probabilité faible<br>ou intermédiaire)
       probaFaible --> ddimeres(D-dimères)
         ddimeres -- Négatifs --> arret(Diagnostic écarté)
@@ -208,7 +207,7 @@ graph TB
       probaForte --> doppler(Écho-doppler des MI)
         doppler -- Négatif --> differentiel(Diagnostic autre)
         doppler -- Positif --> certitude[TVP certaine]
-          style certitude stroke:#006ef4, stroke-width:1px
+          style certitude stroke:#4150f5, stroke-width:1px
           certitude --> critereHospi("<b>Critères d'hospitalisation ?</b><hr>- TVP bilatérale<br>- Survenue sous anticoagulants/TIH<br>- Hémorragie active<br>- IRC sévère<br>- Cancer ou comorbidités<br>- Contexte social/isolement")
             critereHospi -- Non --> scoreHemorragique("Score hémorragique RIETE<br>à risque élevé ?")
               scoreHemorragique -- Non --> anticoag(Anticoagulation 3 mois)

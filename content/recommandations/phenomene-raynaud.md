@@ -213,7 +213,7 @@ Suivi par l'interniste.
 {{< mermaid title="Conduite à tenir devant un phénomène de Raynaud. Dr JB FRON d'après SFMV 2013" >}}
 graph TB
 susp[Suspicion de phénomène de Raynaud]
-style susp stroke:#006ef4, stroke-width:1px
+style susp stroke:#4150f5, stroke-width:1px
   susp --> diagnostic("Diagnostic clinique de<br>phénomène de Raynaud")
   susp -- Différentiel --> differentiel("- Acrocyanose<br>- Érythermalgie<br>- Engelures<br>- Algodystrophie<br>- Canal carpien<br>- Défilé thoracique<br>- Sténose artérielle MS")
     diagnostic --> gravite("<b>Signes d'alerte ?</b><hr>- Invalidant et pluriquotidien<br>- Température modérée<br>- Sans amélioration estivale<br>- Début +40 ans<br>- Atteinte des pouces<br>- Aggravation inexpliquée<br>- Ulcération digitale<br>- Télangiectasies, sclérodactylie<br>- Purpura<br>- Xérophtalmie<br>- Tbles déglutition<br>- Arthralgies<br>- Souffle vasculaire, pouls non perçu<br>- Fièvre persistante<br>- Neuropathie")

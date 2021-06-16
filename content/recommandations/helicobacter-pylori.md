@@ -271,13 +271,13 @@ La recherche fécale de *H. pylori* est une alternative au test respiratoire mai
 {{< mermaid title="Conduite à tenir pour le traitement de Helicobacter pylori guidé par antibiogramme. Dr JB FRON d'après GEFH 2021" >}}
 graph TB
   asymptomatique["<b>Asymptomatique</b><br>- &lt; 45 ans et ATCD K gastrique 1<sup>er</sup> degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie("Sérologie <em>H. pylori</em>")
-  style asymptomatique stroke:#006ef4, stroke-width:1px
+  style asymptomatique stroke:#4150f5, stroke-width:1px
     serologie -- Négative --> indemne(Pas d'infection active)
     serologie -- Positive/Douteuse --> gastro
   suspicion["<b>Symptomatique</b><br>- Suspicion d'ulcère<br>- Dyspepsie chez &gt; 40 ans<br>- Signe d'alarme"] --> gastro("<b>Gastro-entérologue</b><br>EOGD")
-  style suspicion stroke:#006ef4, stroke-width:1px
+  style suspicion stroke:#4150f5, stroke-width:1px
   suspect["<b>Comorbidités</b><br>- &ge; 45 ans avec ATCD K gastrique 1er degré<br>- Anémie ferriprive ou B12 sans cause<br>- Lymphome gastrique du MALT<br>- Chirurgie bariatrique"] --> gastro
-  style suspect stroke:#006ef4, stroke-width:1px
+  style suspect stroke:#4150f5, stroke-width:1px
     gastro -- H. pylori + ---> grossesse("Grossesse ou<br>allaitement ?")
       grossesse == Non ===> antibiogramme("<b>Antibiogramme</b><br>Sensible clarithromycine?")
         antibiogramme == Sensible ==> triAmox("<b>Trithérapie 14j</b><br>IPP + amoxicilline<br>+ clarithromycine")
@@ -298,7 +298,7 @@ graph TB
 {{< mermaid title="Conduite à tenir pour le traitement de Helicobacter pylori en l'absence d'antibiogramme. Dr JB FRON d'après GEFH 2021" >}}
 graph TB
   probabiliste["<em>H. pylori</em> prouvé<br>ET antibiogramme manquant"] --> grossesse("Grossesse ou<br>allaitement ?")
-  style probabiliste stroke:#006ef4, stroke-width:1px
+  style probabiliste stroke:#4150f5, stroke-width:1px
     grossesse == Non ==> choix("Traitement au choix")
       choix -- Alternative 1 ---> concomitant("<b>Concomitant 14j</b><br>IPP + amoxicilline<br>+ clarithromycine<br>+ métronidazole")
       concomitant --> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et ≥ 2 semaines sans IPP")

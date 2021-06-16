@@ -201,7 +201,7 @@ Intensification si:
 {{< mermaid title="Cibles d'apports en vitamine D (schéma simplifié). Dr JB FRON d'après Souberbielle 2019" >}}
 graph TB
   apports["Objectifs d'apports<br>en vitamine D"]
-  style apports stroke:#006ef4, stroke-width:1px
+  style apports stroke:#4150f5, stroke-width:1px
     apports --> ns(<b>Nourrisson</b><br>2 à 4 gtte/j)
     apports --> enfant(<b>18 mois à<br>18 ans</b><br>80-100 000 UI<br> 2x l'hiver)
     apports --> adulte(<b>Adulte &gt; 50 ans</b><br>25OHD &gt; 50 nmol/L)

@@ -139,7 +139,7 @@ Intérêt d'une **coloscopie** avant la chirurgie, surtout si > 50 ans ou risque
 {{< mermaid title="Conduite à tenir devant une suspicion de diverticulite sigmoïdienne. Dr JB FRON d'après HAS 2017" >}}
 graph TB
   diverticulite[Suspicion de diverticulite]
-  style diverticulite stroke:#006ef4, stroke-width: 1px
+  style diverticulite stroke:#4150f5, stroke-width: 1px
     diverticulite --> gravite("<b>Fragilité ?</b><br>- Grossesse<br>- Gravité clinique<br>- Contexte social<br>- Comorbidités")
       gravite -- Oui --> Hospitalisation
       gravite -- Non --> bio("<b>Biologie</b><br>NFS, CRP, créatinine")

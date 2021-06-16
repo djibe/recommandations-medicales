@@ -21,21 +21,23 @@ imageSrc = "Embolie segmentaire par scientificanimations.com, CC BY-SA 4.0"
 todo = "p.21, flowchart duree, def cancer actif, carnet AVK, https://erj.ersjournals.com/content/54/3/1901647"
 +++
 
-En voie de finalisation. La durée de traitement est manquante.
+*En voie de finalisation. La durée de traitement est manquante.*
 
 {{%article-summary%}}
 
-- Évoquer devant une dyspnée, douleur thoracique ou malaise non expliqué par un autre diagnostic
-- Signes de gravité: hypotension artérielle, état de choc, détresse respiratoire
-- La suspicion clinique d'un cas stable est évaluée avec le score de Genève ou de Wells
-- Une suspicion faible d'EP peut être infirmée par la règle PERC  
-Sauf ≥ 50 ans, grossesse ou post-partum (> urgences)
+- Évoquer devant dyspnée, douleur thoracique ou malaise non expliqué par un autre diagnostic
+- Signes de gravité: hypotension artérielle, état de choc, détresse respiratoire. Appel du 15
+- La suspicion clinique (cas stable) est évaluée avec le score de Genève ou de Wells
+- Une suspicion faible d'EP peut être infirmée par la règle PERC (sauf ≥ 50 ans, grossesse ou post-partum)
 - Adresser aux urgences toute suspicion d'EP non infirmée par la règle PERC
-- Voir [thrombose veineuse profonde]({{< relref "thrombose-veineuse-profonde.md" >}})
+- Connexes: [thrombose veineuse profonde (TVP)]({{< relref "thrombose-veineuse-profonde.md" >}})
 
 {{%/article-summary%}}
 
 {{%collapse "Définition" %}}
+
+Hospitalisations annuelles: 35.000  
+Mortalité hospitalière: 5%
 
 ### Abréviations
 
@@ -48,12 +50,6 @@ Sauf ≥ 50 ans, grossesse ou post-partum (> urgences)
 **SAPL:** syndrome des anticorps anti-phospholipides  
 **THM:** traitement hormonal de la ménopause  
 **TVP:** thrombose veineuse profonde
-
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
-
-Hospitalisations annuelles: 35.000  
-Mortalité hospitalière: 5%
 
 {{% /collapse %}}
 {{%collapse "Signes de gravité" %}}
@@ -87,15 +83,14 @@ Sauf critères de gravité ou profil cité ci-dessus, utiliser l'un de ces score
 {{%collapse "Éliminer une embolie pulmonaire - Règle PERC" %}}
 
 {{%info%}}
-La **règle PERC** permet d'éliminer une suspicion faible d'embolie pulmonaire **avant 50 ans, en-dehors de la grossesse et du post-partum**.  
-L'hémodynamique doit être stable.
+La **règle PERC** permet d'éliminer une suspicion faible d'embolie pulmonaire **avant 50 ans, en-dehors de la grossesse et du post-partum** (l'hémodynamique doit être stable).
 {{%/info%}}
 
 La réponse aux 8 questions suivantes doit être négative pour infirmer une *suspicion faible* d'embolie pulmonaire:
 
-1. Âge ≥ 50 ans
-2. Fréquence cardiaque ≥ 100/min
-3. SpO<sub>2</sub> < 95% AA
+1. Âge ≥ 50 ans ?
+2. Fréquence cardiaque ≥ 100/min ?
+3. SpO<sub>2</sub> < 95% ?
 4. Hémoptysie ?
 5. Œdème unilatéral d’un membre inférieur ?
 6. Traitement œstrogénique ?
@@ -248,7 +243,7 @@ Si posé temporairement, le retrait doit être programmé dès la reprise de l'a
 {{< mermaid title="Conduite à tenir devant une suspicion d'embolie pulmonaire. Dr JB FRON d'après Sanchez 2019" >}}
 graph TB
   ep[Suspicion d'<br>embolie pulmonaire] --> gravite(Signes de gravité ?)
-  style ep stroke:#006ef4, stroke-width:1px
+  style ep stroke:#4150f5, stroke-width:1px
     gravite -- Non --> probaClin("<b>Score de probabilité clinique</b><br>Score de Wells ou Genève")
       probaClin -- Faible --> age("Âge &lt; 50 ans et<br>pas de grossesse/post-partum ?")
         age -- Oui --> perc(Règle PERC)
@@ -261,9 +256,10 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse "Source" %}}
+{{%collapse "Sources" %}}
 
-[Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires (2019).](https://doi.org/10.1016/j.rmr.2019.01.003)
+- [Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires (2019).](https://doi.org/10.1016/j.rmr.2019.01.003)
+- [Collège National des Enseignants de Cardiologie. Thrombose veineuse profonde et embolie pulmonaire. Item 224. Cardiologie 2e édition. Octobre 2019.](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch21_maladie_veineuse_te.pdf)
 
 {{% /collapse %}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}

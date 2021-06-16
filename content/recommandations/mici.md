@@ -115,7 +115,7 @@ objectif thérapeutique dans la RCH une rémission clinique et une cicatrisation
 Dans la MC, l’objectif thérapeutique a également été défini dans le consensus STRIDE et repris dans le consensus ECCO : il associe une réponse clinique et une réponse endoscopique et/ou morphologique. La réponse clinique et biologique doit être évaluée 3 mois après l’instauration d’un traitement et pas avant 6 mois pour la réponse endoscopique ou trans-murale (imagerie).
 
 la CF est un biomarqueur fiable de la cicatrisation muqueuse colique dans la MC.
- la CF est efficace pour détecter une maladie active du grêle et ce avec une VPN de 90 %.
+ la CF est efficace pour détecter une maladie active du grêle et ce avec une VPN de 90%.
 
 MC. L’iléo-coloscopie est l’examen de référence.
 Exaammens controle activité transmurale: L’échographie et l’entéro-IRM 
@@ -139,14 +139,14 @@ L’intervalle de surveillance proposé par le consensus ECCO est de 3 à 6 mois
 
 En cas de coloscopie normale, une exploration de l’intestin grêle est nécessaire, soit par VCE, soit par entéro-IRM, soit par échographie
 
-Il est également important d’évaluer la cicatrisation muqueuse avant toute désescalade ou arrêt de traitement. En effet, il a été mis en évidence que le taux de rechute à 1 an après l’arrêt des anti-TNF était de 42 %, et que ce taux baissait à 26 % si la rémission endoscopique avait été obtenue au préalable.
+Il est également important d’évaluer la cicatrisation muqueuse avant toute désescalade ou arrêt de traitement. En effet, il a été mis en évidence que le taux de rechute à 1 an après l’arrêt des anti-TNF était de 42%, et que ce taux baissait à 26% si la rémission endoscopique avait été obtenue au préalable.
 
 
 
 Surveillance d’un patient symptomatique
 
 
-1. Eliminer une infection
+1. Éliminer une infection
 
 en cas de suspicion de poussée de MICI, une cause infectieuse doit être éliminée par coproculture et recherche de toxine de Clostridium difficile dans les selles (+ f dans RCH).
 

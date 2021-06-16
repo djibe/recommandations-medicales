@@ -175,7 +175,7 @@ Substitution d'un traitement suspect.
 {{< mermaid title="Conduite à tenir devant un prurit. Dr JB FRON d'après CEDEF 2017" >}}
 graph TB
   prurit["Prurit"] --> examen("- Interrogatoire<br>- Clinique")
-  style prurit stroke:#006ef4, stroke-width:1px
+  style prurit stroke:#4150f5, stroke-width:1px
     examen --> orientation("Signes évocateurs <br>de pathologie ?")
       orientation -- Oui --> tttSpe("Traitement spécifique")
       orientation -- Non --> bilan("<b>Prurit nu: éliminer un lymphome</b><hr>- NFS, BH, BR, TSH<br>- Sérologies VIH et hépatites<br>- RxT<br>- Échographie abdominale")

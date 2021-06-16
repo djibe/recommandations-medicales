@@ -70,6 +70,10 @@ dd + dt {
   margin-top: 32px;
 }
 
+abbr {
+  display: inline-block;
+}
+
 main {
   display: flex;
   min-height: 100%;
@@ -131,6 +135,10 @@ a[href^='http']:not([class])::after {
 
 .taxonomyList::first-letter {
   text-transform: uppercase;
+}
+
+.text-secondary {
+  color: var(--secondary-dark) !important;
 }
 
 .site-title {
@@ -322,7 +330,7 @@ article {
   }
 
   .alert-warning {
-    color: #836e00;
+    color: var(--secondary-dark);
   }
 
   .alert-summary {
@@ -334,7 +342,7 @@ article {
 
     h2 {
       border-top: 0;
-      color: var(--secondary);
+      color: var(--secondary-dark);
       margin: 0 0 1rem;
       padding: 0;
 
@@ -482,7 +490,7 @@ div.data-table {
   }
 
   .modal-title {
-    color: var(--secondary);
+    color: var(--secondary-dark);
     font-size: 2rem;
     font-weight: 500;
     margin-top: 2rem;
@@ -511,7 +519,7 @@ div.data-table {
   &-logo {
     width: 32px;
     height: 32px;
-    background: url('/android-chrome-192x192.png') 100% 50%/auto 100% no-repeat;
+    background: url('/favicon.svg') 100% 50%/auto 100% no-repeat;
   }
 }
 

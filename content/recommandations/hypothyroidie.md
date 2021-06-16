@@ -266,7 +266,7 @@ Suivi thérapeutique par dosage de T3L + T4L qui doit être dans le tiers supér
 {{< mermaid title="Conduite à tenir devant une TSH augmentée et une hypothyroïdie. Dr JB FRON d'après HAS 2019" >}}
 graph TB
   decouverte["TSH augmentée"] --"Contrôle à 1 mois"--> TSH["TSH augmentée"]
-  style decouverte stroke:#006ef4, stroke-width:1px
+  style decouverte stroke:#4150f5, stroke-width:1px
     TSH --"T4L normale"--> hTFruste("Hypothyroïdie fruste")
       click hTFruste "{{< relref "hypothyroidie-fruste.md" >}}" "Ouvrir dans un onglet" _blank
     TSH --"T4L basse"--> hT("Hypothyroïdie patente")

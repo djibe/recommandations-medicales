@@ -318,7 +318,7 @@ Uricosurique alternatif de l'allopurinol et du fébuxostat, le probénécide (Sa
 {{< mermaid title="Conduite à tenir thérapeutique devant une crise de goutte. Dr JB FRON d'après SFR 2020" >}}
 graph TB
   crise[Crise de goutte] --> rhd("Éducation<br>Traitement à avoir sur soi<br>Envisager hypouricémiant")
-  style crise stroke:#006ef4, stroke-width:1px
+  style crise stroke:#4150f5, stroke-width:1px
     rhd --> comorbidites("Comorbidités et<br>coprescriptions")
       comorbidites -- Sans --> sans("AINS +/- IPP<br>ou colchicine<br>ou corticoïdes") .-> echec("Échec des possibilités")
       comorbidites -- IRC sévère --> irc(Corticoïdes) .-> echec
@@ -341,7 +341,7 @@ graph TB
 {{< mermaid title="Conduite à tenir thérapeutique pour le traitement hypouricémiant. Dr JB FRON d'après SFR 2020" >}}
 graph TB
   diagnostic[Diagnostic de goutte] --> education(Éducation<br>Traitement sur soi<br>RHD)
-  style diagnostic stroke:#006ef4, stroke-width:1px
+  style diagnostic stroke:#4150f5, stroke-width:1px
     education --> clairance(Évaluation clairance et<br>cardiovasculaire)
       clairance -- Sans comorbidités --> allopurinol(Allopurinol 50<br>à 100 mg/j) --> prophylaxie("Prophylaxie<br>colchicine 0,5 à 1 mg/j &ge; 6 mois")
       clairance -- IRC modérée --> ircmoderee(Allopurinol 50 mg<br>ou fébuxostat 40 mg x 2/j) --> prophylaxie

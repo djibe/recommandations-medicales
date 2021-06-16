@@ -193,7 +193,7 @@ Les fils sont retirés au bout de 15 jours à 3 semaines après l’intervention
 {{< mermaid title="Conduite à tenir devant un syndrome du canal carpien. Dr JB FRON d'après HAS 2013" >}}
 graph TD
 diagnostic["Diagnostic clinique<br>de canal carpien"] --> gravite{Signes de gravité ?}
-style diagnostic stroke:#006ef4, stroke-width:1px
+style diagnostic stroke:#4150f5, stroke-width:1px
 diagnostic --"Diagnostic différentiel"--> differentiel("- Atteintes radiculaires C6-C7<br>- Syndrome de la traversée thoraco-brachiale<br>- Myélopathies cervicales<br>- Plexopathies<br>- Neuropathies périphériques<br>- Compression du n. médian en amont<br>- Acrosyndromes vasculaires<br>- Paresthésies fonctionnelles")
   gravite -- Oui --> emg(ENMG pré-opératoire) --> chir("Chirurgie")
   gravite -- Non --> medical(Traitement médical<br>Orthèse - Infiltration)

@@ -176,7 +176,7 @@ Autre traitement possible mais de faible efficacité: acide azélaïque gel 15% 
 {{< mermaid title="Choix du traitement devant une acné. Dr JB FRON d'après SFDermato 2015">}}
 graph TB
   suspicion["Suspicion d'acné"] --> diagnostic("Diagnostic clinique<br>d'acné")
-  style suspicion stroke:#006ef4, stroke-width:1px
+  style suspicion stroke:#4150f5, stroke-width:1px
   suspicion --"Diagnostic différentiel"--> differentiel("Dermatite péri-orale<br>Rosacée papulo-pustuleuse<br>Syphilis")
     diagnostic --> personne("Enfant et adulte")
       personne --> tresLeger("Très léger")

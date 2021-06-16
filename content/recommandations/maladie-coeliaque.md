@@ -272,9 +272,9 @@ Des  produits  diététiques  sans  gluten  sont  rem-boursés  partiellement  p
 {{< mermaid title="Conduite à tenir en cas de suspicion de maladie cœliaque. Dr JB FRON d'après EssCD 2019" >}}
 graph TB
   symptomatique[Symptomatique] --> examen("Sérologie ou fibroscopie d'emblée<br>selon le cas (voir Qui dépister) ")
-  style symptomatique stroke:#006ef4, stroke-width:1px
+  style symptomatique stroke:#4150f5, stroke-width:1px
   personneARisque[Personne à risque] --> examen
-  style personneARisque stroke:#006ef4, stroke-width:1px
+  style personneARisque stroke:#4150f5, stroke-width:1px
     examen --> gastro(Consultation du gastro-entérologue)
       gastro --"Diagnostic de maladie cœliaque"--> traitement("<b>Éviction du gluten à vie</b><br>Surveillance clinico-biologique<br>Bilan diététique<br>Dépistage de l'entourage")
       gastro --"Diagnostic infirmé"--> explo("Poursuite du bilan<br>par le spécialiste")

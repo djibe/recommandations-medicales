@@ -374,7 +374,7 @@ Népressol, réserpine, hydralazine, trasipressol.
 {{< mermaid title="Conduite à tenir devant une urticaire aiguë. Dr JB FRON d'après CEILF 2011" >}}
 graph TB
   UA[Urticaire aiguë] --> gravite("<b>Signes de gravité ?</b><br>- Dysphonie<br>- Hypersalivation<br>- Troubles de la déglutition")
-  style UA stroke:#006ef4, stroke-width:1px
+  style UA stroke:#4150f5, stroke-width:1px
     gravite -- Non --> tttUA(Anti-H1 2G 2 semaines)
       tttUA -- Efficace --> Guérison
       tttUA -- Persistance --> prolongation("Anti-H1 dose x 2 à 4 pendant<br>6 semaines") -- Persistance --> UC(Urticaire chronique)
@@ -384,7 +384,7 @@ graph TB
 {{< mermaid title="Conduite à tenir devant une urticaire chronique. Dr JB FRON d'après ANAES 2003" >}}
 graph TB
   UC["Urticaire chronique<br>&gt; 6 semaines"] --> orientation("Maladie générale<br> ou forme particulière?")
-  style UC stroke:#006ef4, stroke-width:1px
+  style UC stroke:#4150f5, stroke-width:1px
     orientation -- Non --> isolee("Urticaire isolée<br>= pas de bilan") --> ttt1(Anti-H1 2G 4 à 8 sem)
         ttt1 -- Résistance --> bilan("<b>Bilan biologique</b><br>NFS, VS, CRP<br>anti-TPO +/- TSH")
         ttt1 -- Résolution --> fin(Pas de bilan)

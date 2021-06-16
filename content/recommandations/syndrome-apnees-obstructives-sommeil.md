@@ -25,7 +25,7 @@ todo = "simplifier, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renou
 
 - Interroger systématiquement sur les signes de SAOS.
 - Dépister les personnes avec facteur de risque de SAOS (voir *Qui dépister ?*) par le questionnaire STOP-BANG ou 8 questions (voir *Comment dépister ...* )
-- [Liste des centres d'exploration du sommeil par région](https://www.sfrms-sommeil.org/centres-du-sommeil/ile-de-france/)
+- [Liste des centres homologués SFRMS par région](https://www.sfrms-sommeil.org/carte-des-centres-agrees/)
 - PPC doit être utilisée ≥ 4h/nuit et renouvelée au bout de 3 ans par le médecin traitant.
 - À venir: aide à la prescription du renouvellement de la PPC
 
@@ -196,7 +196,7 @@ Enregistrement du sommeil systématique chez diabétique avec:
   <div class="tab-content" id="tabs-saos-content">
     <div aria-labelledby="stop-bang-tab" class="tab-pane fade show active" id="stop-bang" role="tabpanel">
         <div class="card-body" id="score-stop-bang">
-          <p>Score validé avec la plus grande sensibilité pour le dépistage des apnées du sommeil.<br>
+          <p class="mb-4">Score validé avec la plus grande sensibilité pour le dépistage des apnées du sommeil.<br>
           <strong>Il ne doit pas être utilisé en cas de diabète.</strong></p>
           <div class="custom-control custom-checkbox">
             <input type="checkbox" id="stopbang1" class="custom-control-input" value="1">
@@ -234,7 +234,7 @@ Enregistrement du sommeil systématique chez diabétique avec:
             <label class="custom-control-label" for="stopbang8">Tour de cou &ge; 43 cm (41 cm si femme)</label>
           </div>
         </div>
-        <div class="alert bg-light d-flex mt-md-4">
+        <div class="alert bg-light d-flex mb-0">
           <div class="d-flex flex-column align-items-center">
             <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score STOP-BANG</p>
             <span class="font-weight-bold" id="stopbangScore" style="font-size:2rem">0</span>
@@ -249,8 +249,8 @@ Enregistrement du sommeil systématique chez diabétique avec:
     </div>
     <div aria-labelledby="saos-diabete-tab" class="tab-pane fade" id="saos-diabete" role="tabpanel">
       <div class="card-body" id="score-saos-diabete">
-      <p>Seules questions validées pour le dépistage du SAOS en cas de diabète. Utilisable en l'absence de diabète.<br>
-      3 réponses positives justifient un enregistrement du sommeil.</p>
+      <p>Seules questions validées pour le dépistage du SAOS en cas de diabète. Utilisable aussi en l'absence de diabète.</p>
+      <p class="mb-4">3 réponses positives justifient un enregistrement du sommeil.</p>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="diabete1" class="custom-control-input" value="1">
           <label class="custom-control-label" for="diabete1">Ronflement régulier et gênant pour l’entourage</label>
@@ -284,7 +284,7 @@ Enregistrement du sommeil systématique chez diabétique avec:
           <input type="checkbox" id="diabete8" class="custom-control-input" value="1">
           <label class="custom-control-label" for="diabete8">Somnolence diurne</label>
         </div>
-        <blockquote class="blockquote">
+        <blockquote class="blockquote mt-4">
           <p class="mb-0">Source SFD/SFRMS/SPLF 2018</p>
         </blockquote>
       </div>

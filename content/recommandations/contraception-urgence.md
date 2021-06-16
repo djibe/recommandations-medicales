@@ -130,7 +130,7 @@ Même délivrance que la PCU.
 {{< mermaid title="Conduite à tenir pour la contraception d'urgence. Dr JB FRON d'après HAS 2019" >}}
 graph TB
   rapport[Rapport non protégé<br>sans contraception] -- + tôt possible --> 3jours(&lt; 3 jours)
-  style rapport stroke:#006ef4, stroke-width:1px
+  style rapport stroke:#4150f5, stroke-width:1px
   rapport -- + tôt possible --> 5jours("&lt; 5 jours")
     3jours --> LN(<b>Lévonorgestrel 1,5 mg</b>)
       LN --> preservatif("Préservatif jusqu'au<br>1<sup>er</sup> jours des règles")

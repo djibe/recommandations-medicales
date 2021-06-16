@@ -159,7 +159,7 @@ Kétoconazole topique
 {{< mermaid title="Conduite à tenir devant une dermatite séborrhéique. Dr JB FRON d'après CEDEF 2017" >}}
 graph TB
   suspicion[Suspicion de dermatite séborrhéique] --> diagnostic(Diagnostic clinique<br>de DS)
-  style suspicion stroke:#006ef4, stroke-width:1px
+  style suspicion stroke:#4150f5, stroke-width:1px
   suspicion -- Diagnostic différentiel --> differentiel(Psoriasis<br>Rosacée<br>Dermatite atopique<br>Syphilis)
   diagnostic --> scalp(Cuir chevelu<hr>Ciclopirox shampooing 1%<br>OU kétoconazole gel 2%)
   diagnostic --> face(Face et tronc<hr>Kétoconazole gel/crème 2% x 2/sem<br>OU ciclopirox crème 1% x 2/j)

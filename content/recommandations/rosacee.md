@@ -181,7 +181,7 @@ Lavage quotidien, expression du contenu des glandes de Mebomius, gels palpébrau
 {{< mermaid title="Conduite à tenir devant une rosacée. Dr JB FRON d'après CEDEF 2017" >}}
 graph TB
   rosacee["Rosacée"] --"Forme mineure"--> mineure("Métronidazole gel 0,75%<br>2/j pendant 3 mois")
-  style rosacee stroke:#006ef4, stroke-width:1px
+  style rosacee stroke:#4150f5, stroke-width:1px
   rosacee --"Forme diffuse"--> diffuse("<b>Traitement d'attaque</b><br>Doxycycline 50mg/j 3 mois") --> entretien("<b>Traitement d'entretien</b><br>Métronidazole gel 0,75 % x 1-2/j") -.-> autres("Résistance aux traitements<br>Rhinophyma<br>Télangiectasies") --> dermato("Avis dermatologique")
   rosacee --"Diagnostic différentiel"--> differentiel("Lupus<br>Acné<br>Dermatite séborrhéique")
 

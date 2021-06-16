@@ -33,7 +33,7 @@ Les recommandations concernent seulement les nourrissons de 1 mois à 2 ans.
 {{%collapse "Définitions" %}}
 
 Bronchiolite
-: Infection virale respiratoire épidémique du nourrisson (VRS 50-80 % des cas, co-infection 10%) d'évolution favorable dans la très grande majorité des cas.  
+: Infection virale respiratoire épidémique du nourrisson (VRS 50-80% des cas, co-infection 10%) d'évolution favorable dans la très grande majorité des cas.  
 Persistance des signes d'obstruction respiratoire pendant 8-10 jours et une toux résiduelle peut persister 15 jours.  
 Guérison spontanée le plus souvent en 3-4 semaines.  
 Taux de récidive élevé: 23 à 60% avant 2 ans.
@@ -146,7 +146,7 @@ Hospitalisation si ≥ 1 parmi:
 Indications susceptibles de justifier une hospitalisation:
 
 - Polypnée > 60-70/min, tirage sous-costal, geignement expiratoire.
-- SpO2 < 92-94 % AA au repos ou lors de la prise des biberons.
+- SpO2 < 92-94% AA au repos ou lors de la prise des biberons.
 - Difficultés d'hydratation, déshydratation avec perte de poids > 5%.
 - Trouble ventilatoire suspecté en clinique, confirmé par la RP.
 - Difficultés psychosociales, accessibilité médicale.
