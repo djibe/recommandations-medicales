@@ -534,7 +534,7 @@ div.data-table {
 }
 
 .navdrawer-nav {
-  > li {
+  > a {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
@@ -714,8 +714,7 @@ div.mermaidTooltip {
   background: #fafafa !important;
 }
 
-.card-paracetamol {
-  max-width: 480px;
+.card-hover {
   transition: box-shadow 150ms;
 
   &:hover {

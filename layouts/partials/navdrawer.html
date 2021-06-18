@@ -5,12 +5,12 @@
             <div class="navdrawer-logo"></div>
             <a class="navbar-brand" href="/">Reco Médicales</a>
          </div>
-         <ul class="navdrawer-nav">
+         <div class="navdrawer-nav">
             {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
                {{ if eq "specialites" $taxonomyname }}
                   {{- range $category, $pageOfCategory := $taxonomy -}}
-                  <li class="collapsed" data-toggle="collapse"
-                     href="#navdrawer-{{ $category | urlize }}">{{ $category | truncate 30 }}</li>
+                  <a class="collapsed" data-toggle="collapse"
+                     href="#navdrawer-{{ $category | urlize }}">{{ $category | truncate 30 }}</a>
                   <div class="collapse" id="navdrawer-{{$category | urlize | lower}}">
                      {{- range $pageOfCategory.Pages.ByTitle -}}
                      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
@@ -19,7 +19,7 @@
                   {{ end }}
                {{ end }}
             {{ end }}
-         </ul>
+         </div>
          <div class="mt-auto">
             <div class="navdrawer-divider"></div>
             <div class="navdrawer-nav">

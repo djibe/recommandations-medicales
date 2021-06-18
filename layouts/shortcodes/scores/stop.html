@@ -1,54 +1,36 @@
-<div class="card-body" id="score-stop-bang">
-  <p class="mb-4">Score validé avec la plus grande sensibilité pour le dépistage des apnées du sommeil.<br>
-  <strong>Il ne doit pas être utilisé en cas de diabète.</strong></p>
+<div class="card-body" id="score-stop">
   <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="stopbang1" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="stopbang1">Ronfle fort</label>
+    <input type="checkbox" id="stop1" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="stop1">Ronfle fort</label>
     <p class="typography-caption text-black-secondary">Entendu à travers les portes ou coups de coude du partenaire.</p>
   </div>
   <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="stopbang2" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="stopbang2">Fatigue pendant la journée</label>
+    <input type="checkbox" id="stop2" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="stop2">Fatigue pendant la journée</label>
     <p class="typography-caption text-black-secondary">Fatigué, épuisé ou somnolent (ex: s'endormir au volant).</p>
   </div>
   <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="stopbang3" class="custom-control-input" value="1">
+    <input type="checkbox" id="stop3" class="custom-control-input" value="1">
     <label class="custom-control-label" for="stopbang3">Pauses respiratoires constatées</label>
     <p class="typography-caption text-black-secondary">Observation de pauses, étouffement ou suffocation pendant le sommeil.</p>
   </div>
   <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="stopbang4" class="custom-control-input" value="1">
+    <input type="checkbox" id="stop4" class="custom-control-input" value="1">
     <label class="custom-control-label" for="stopbang4">HTA</label>
-  </div>
-  <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="stopbang5" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="stopbang5">IMC &ge; 35 kg/m²</label>
-  </div>
-  <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="stopbang6" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="stopbang6">Âge &ge; 50 ans</label>
-  </div>
-  <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="stopbang7" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="stopbang7">Homme</label>
-  </div>
-  <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="stopbang8" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="stopbang8">Tour de cou &ge; 43 cm (41 cm si femme)</label>
   </div>
 </div>
 <div class="alert bg-light d-flex mb-0">
   <div class="d-flex flex-column align-items-center">
-    <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score STOP-BANG</p>
-    <span class="font-weight-bold" id="stopbangScore" style="font-size:2rem">0</span>
+    <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score STOP</p>
+    <span class="font-weight-bold" id="stopScore" style="font-size:2rem">0</span>
   </div>
-  <p id="stopbangText" class="lead m-auto"></p>
+  <p id="stopText" class="lead m-auto"></p>
 </div>
 <blockquote class="blockquote my-4">
   <p class="mb-0"><b>Bas risque</b> de SAOS</p>
 </blockquote>
 {{ $script := `
-  // Score STOP-BANG by djibe
+  // Score STOP by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreStop = document.getElementById('stopScore')
     const textStop = document.getElementById('stopText')

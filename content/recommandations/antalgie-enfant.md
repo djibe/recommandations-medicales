@@ -32,7 +32,7 @@ En première intention pour les douleurs faibles à modérées.
 
 ### Paracétamol
 
-<div class="card card-paracetamol my-3 my-xl-5">
+<div class="card card-hover my-3 my-xl-5" style="max-width:480px">
   <ul class="nav nav-justified nav-tabs" id="justifiedTab" role="tablist">
     <li class="nav-item">
       <a aria-controls="posologie" aria-selected="true" class="nav-link active" data-toggle="tab" href="#posologie" id="posologie-tab" role="tab">Posologie</a>

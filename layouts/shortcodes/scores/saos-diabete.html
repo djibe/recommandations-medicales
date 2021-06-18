@@ -1,0 +1,75 @@
+<div class="card-body" id="score-saos-diabete">
+  <p class="mt-4">Seules questions validées pour le dépistage du SAOS en cas de diabète. Utilisable aussi en l'absence de diabète.</p>
+  <p class="mb-4">3 réponses positives justifient un enregistrement du sommeil.</p>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="diabete1" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="diabete1">Ronflement régulier et gênant pour l’entourage</label>
+    <p class="typography-caption text-black-secondary">Entendu à travers les portes ou coups de coude du partenaire.</p>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="diabete2" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="diabete2">Arrêts respiratoires pendant le sommeil signalés pour l’entourage</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="diabete3" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="diabete3">Réveils avec impression de suffoquer</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="diabete4" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="diabete4">&gt; 1 lever nocturne pour uriner</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="diabete5" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="diabete5">Céphalées</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="diabete6" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="diabete7">Fatigue anormale la journée</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="diabete7" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="diabete8">Sommeil non réparateur</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="diabete8" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="diabete8">Somnolence diurne</label>
+  </div>
+</div>
+<div class="alert bg-light d-flex mb-0">
+  <div class="d-flex flex-column align-items-center">
+    <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score</p>
+    <span class="font-weight-bold" id="saosDiabeteScore" style="font-size:2rem">0</span>
+  </div>
+  <p id="saosDiabeteText" class="lead m-auto"></p>
+</div>
+<blockquote class="blockquote my-4">
+  <p class="mb-0">Source SFD/SFRMS/SPLF 2018</p>
+</blockquote>
+{{ $script := `
+  // Score depistage SAOS diabete by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scoreStop = document.getElementById('saosDiabeteScore')
+    const textStop = document.getElementById('saosDiabeteText')
+    const stopElems = document.querySelectorAll('#score-stop input[type=\"checkbox\"]')
+    stopElems.forEach((stopElem) => { stopElem.addEventListener('click', () => {
+      saosDiabete()
+    }) })
+    const saosDiabete = () => {
+      let score = 0
+      const stopElemsChecked = document.querySelectorAll('#score-stop input[type=\"checkbox\"]:checked')
+        stopElemsChecked.forEach(rieteElemChecked => {
+        score += parseInt(stopElemChecked.value, 10)
+        scoreStop.innerHTML = score
+        if (score >= 2) {
+          textStop.innerHTML = '<b>Haut risque</b> de SAOS'
+          break
+        }
+        textStop.innerHTML = '<b>Bas risque</b> de SAOS'
+      })
+      if (stopElemsChecked.length === 0) {
+        scoreStop.innerHTML = 0
+        textStop.innerHTML = 'Risque hémorragique <b>faible</b>'
+      }
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>

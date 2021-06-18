@@ -39,19 +39,18 @@ Vitamine K1
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-{{%info%}}Administration à 4 heures, 4 jours, 4 semaines{{%/info%}}
+{{%info%}}Administration à 4 heures - 4 jours - 4 semaines{{%/info%}}
 
-**Prescrire**: 1 ampoule de vitamine K1 2 mg/0,2 mL nourrissons buvable et injectable.
+**Prescrire**: 1 ampoule de vitamine K1 2 mg/0,2 mL nourrissons buvable.
 
 ### Enfant né à terme
 
 - En cas de sortie précoce de maternité (48h), la 2<sup>e</sup> ampoule peut être administrée avant la sortie
-- En allaitement artificiel, la <sup>e</sup> ampoule n’est pas obligatoire
+- En allaitement artificiel, la 3<sup>e</sup> ampoule n’est pas obligatoire
 
 ### Autres situations
 
-La 1<sup>re</sup> ampoule doit être administrée durant la 1<sup>re</sup> heure de vie.
-Voir le tableau ci-dessous.
+La 1<sup>re</sup> ampoule doit être administrée durant la 1<sup>re</sup> heure de vie (cf. tableau ci-dessous).
 
 {{< table title="Rythme d'administration de la vitamine K1 en périnatal d'après SFNéonat 2015" >}}
 |               | Naissance     | J3-J4      | 1 mois     |
