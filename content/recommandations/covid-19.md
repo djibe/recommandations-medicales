@@ -111,22 +111,9 @@ Atteintes possibles après une infection à Sars-Cov-2.
 - Psychiques
 
 {{%/collapse%}}
-{{%collapse "Professionnels de santé" %}}
-
-### Indications à la RT-PCR
-
-- Symptômes évocateurs de COVID-19
-- Contact de cas COVID-19
-- Ayant participé à un rassemblement (déjeuner de famille, mariage, festival et autres)
-- Retour de zone à risque (étranger, Guyanne, Mayotte, foyer de cas/cluster)
-- Revient de congés et soigne des personnes à risque de forme grave
-
-> [Source DGS-Urgent 20/08/2020](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=31000&cmd=visualiserMessage)
-
-{{% /collapse %}}
 {{%collapse "Vaccination" %}}
 
-- [Trouver une dose](https://www.sante.fr/cf/centres-vaccination-covid.html)
+- [Centres de vaccination](https://www.sante.fr/cf/centres-vaccination-covid.html)
 - [Trouver une dose d'ARNm](https://vitemadose.covidtracker.fr/)
 - [Imprimer son attestation de vaccination](https://www.mgfrance.org/publication/infoexpress/2925-certificat-de-vaccination-vos-patients-peuvent-l-imprimer-en-ligne)
 

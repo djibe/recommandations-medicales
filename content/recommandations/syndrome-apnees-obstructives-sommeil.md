@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2020-12-22T09:52:41+02:00
 publishdate = 2020-12-22
-lastmod = 2021-06-18
+lastmod = 2021-06-20
 specialites = ["medecine du sommeil"]
 annees = "2018"
 sources = ["AASM", "HAS", "SFRMS"]
@@ -117,7 +117,7 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 
 - **Prévalence**  
   - US: 14% des hommes et 9% des femmes (Peppard P, et al. AJE 2013; 177:1006-1014.)
-  - 4% de la population française (HAS)
+  - France: 4% de la population (HAS)
   - 1 à 4% des enfants
 - 82% des hommes et 92% des femmes ne sont pas diagnostiqués
 - 60% des SAOS modérés à sévères sont attribuables au surpoids
@@ -127,7 +127,7 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 
 - 20% ont une *[BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})* associée
 - Association forte au [diabète de type 2]({{< relref "diabete-type-2.md">}})  
-15-30% des SAOS ont un DT2, 40-70% des DT2 ont SAOS.
+15-30% des SAOS ont un DT2, 40-70% des DT2 ont un SAOS.
 - 60% des *insuffisants cardiaques* ont une forme d’apnées du sommeil
 
 {{% /collapse %}}
@@ -194,141 +194,15 @@ Enregistrement du sommeil systématique chez diabétique avec:
     </li>
   </ul>
   <div class="tab-content">
-    <div aria-labelledby="stop-bang-tab" class="tab-pane fade show active" id="stop-bang-panel" role="tabpanel">...</div>
-    <div aria-labelledby="stop-tab" class="tab-pane fade" id="stop-panel" role="tabpanel">
-      <div class="card-body" id="score-stop">
-        <p class="my-4">Score avec le meilleur compromis vitesse/sensibilité.</p>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="stop1" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="stop1">Ronfle fort</label>
-          <p class="typography-caption text-black-secondary">Entendu à travers les portes ou coups de coude du partenaire.</p>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="stop2" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="stop2">Fatigue pendant la journée</label>
-          <p class="typography-caption text-black-secondary">Fatigué, épuisé ou somnolent (ex: s'endormir au volant).</p>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="stop3" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="stop3">Pauses respiratoires constatées</label>
-          <p class="typography-caption text-black-secondary">Observation de pauses, étouffement ou suffocation pendant le sommeil.</p>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="stop4" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="stop4">HTA</label>
-        </div>
-        <blockquote class="blockquote my-4">
-          <small class="mb-0"><a href="https://doi.org/10.1097/ALN.0b013e31816d83e4">Chung F. et al. STOP Questionnaire: A Tool to Screen Patients for Obstructive Sleep Apnea. Anesthesiology 2008; 108:812–821.</a></small>
-        </blockquote>
-      </div>
-      <div class="alert bg-light d-flex mb-0">
-        <div class="d-flex flex-column align-items-center">
-          <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score STOP</p>
-          <span class="font-weight-bold" id="stopScore" style="font-size:2rem">0</span>
-        </div>
-        <p id="stopText" class="lead m-auto"><b>Bas risque</b> de SAOS</p>
-      </div>
-      <script>// Score STOP by djibe
-    document.addEventListener( 'DOMContentLoaded', event => {
-      const scoreStop = document.getElementById('stopScore')
-      const textStop = document.getElementById('stopText')
-      const stopElems = document.querySelectorAll('#score-stop input[type="checkbox"]')
-      stopElems.forEach((stopElem) => { stopElem.addEventListener('click', () => {
-        stop()
-      }) })
-      const stop = () => {
-        let score = 0
-        const stopElemsChecked = document.querySelectorAll('#score-stop input[type="checkbox"]:checked')
-          stopElemsChecked.forEach(stopElemChecked => {
-          score += parseInt(stopElemChecked.value, 10)
-          scoreStop.innerHTML = score
-          if (score >= 2) {
-            textStop.innerHTML = '<b>Haut risque</b> de SAOS'
-          } else if (score < 2) {
-            textStop.innerHTML = '<b>Bas risque</b> de SAOS'
-          }
-        })
-        if (stopElemsChecked.length === 0) {
-          scoreStop.innerHTML = 0
-          textStop.innerHTML = '<b>Bas risque</b> de SAOS'
-        }
-      }
-    })</script>
-    </div>
-    <div aria-labelledby="saos-diabete-tab" class="tab-pane fade" id="saos-diabete-panel" role="tabpanel">
-      <div class="card-body" id="score-saos-diabete">
-        <p class="my-4">Seules questions validées pour le dépistage du SAOS en cas de diabète.<br>Utilisable aussi en l'absence de diabète.</p>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="diabete1" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="diabete1">Ronflement régulier et gênant pour l’entourage</label>
-          <p class="typography-caption text-black-secondary">Entendu à travers les portes ou coups de coude du partenaire.</p>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="diabete2" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="diabete2">Arrêts respiratoires pendant le sommeil signalés pour l’entourage</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="diabete3" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="diabete3">Réveils avec impression de suffoquer</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="diabete4" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="diabete4">&gt; 1 lever nocturne pour uriner</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="diabete5" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="diabete5">Céphalées</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="diabete6" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="diabete6">Fatigue anormale la journée</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="diabete7" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="diabete7">Sommeil non réparateur</label>
-        </div>
-        <div class="custom-control custom-checkbox">
-          <input type="checkbox" id="diabete8" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="diabete8">Somnolence diurne</label>
-        </div>
-        <blockquote class="blockquote my-4">
-          <small class="mb-0"><a href="https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf">Source SFD/SFRMS/SPLF 2018</a></small>
-        </blockquote>
-      </div>
-      <div class="alert bg-light d-flex mb-0">
-        <div class="d-flex flex-column align-items-center">
-          <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score</p>
-          <span class="font-weight-bold" id="saosDiabeteScore" style="font-size:2rem">0</span>
-        </div>
-        <p id="saosDiabeteText" class="lead m-auto">Pas de recherche de SAOS</p>
-      </div>
-    <script>// Score depistage SAOS diabete by djibe
-    document.addEventListener( 'DOMContentLoaded', event => {
-    const scoreSaosDiabete = document.getElementById('saosDiabeteScore')
-    const textSaosDiabete = document.getElementById('saosDiabeteText')
-    const saosDiabeteElems = document.querySelectorAll('#score-saos-diabete input[type="checkbox"]')
-    saosDiabeteElems.forEach((saosDiabeteElem) => { saosDiabeteElem.addEventListener('click', () => {
-      saosDiabete()
-    }) })
-    const saosDiabete = () => {
-      let score = 0
-      const saosDiabeteElemsChecked = document.querySelectorAll('#score-saos-diabete input[type="checkbox"]:checked')
-        saosDiabeteElemsChecked.forEach(saosDiabeteElemChecked => {
-        score += parseInt(saosDiabeteElemChecked.value, 10)
-        saosDiabeteScore.innerHTML = score
-        if (score >= 3) {
-          saosDiabeteText.innerHTML = 'Enregistrement du sommeil nécessaire'
-        } else if (score < 3) {
-          saosDiabeteText.innerHTML = 'Pas de recherche de SAOS'
-        }
-      })
-      if (saosDiabeteElemsChecked.length === 0) {
-        saosDiabeteScore.innerHTML = 0
-        saosDiabeteText.innerHTML = 'Pas de recherche de SAOS'
-      }
-    }
-  })</script>
-    </div>
+    <div aria-labelledby="stop-bang-tab" class="tab-pane fade show active" id="stop-bang-panel" role="tabpanel">
+    {{< scores/stop-bang >}}
+  </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
+  <div aria-labelledby="stop-tab" class="tab-pane fade" id="stop-panel" role="tabpanel">
+    {{< scores/stop >}}
+  </div>
+  <div aria-labelledby="saos-diabete-tab" class="tab-pane fade" id="saos-diabete-panel" role="tabpanel">
+    {{< scores/saos-diabete >}}
+  </div>
   </div>
 </div>
 

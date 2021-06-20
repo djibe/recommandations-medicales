@@ -1,4 +1,5 @@
 <div class="card-body" id="score-stop">
+  <p class="my-4">Score avec le meilleur compromis vitesse/sensibilité.</p>
   <div class="custom-control custom-checkbox">
     <input type="checkbox" id="stop1" class="custom-control-input" value="1">
     <label class="custom-control-label" for="stop1">Ronfle fort</label>
@@ -11,48 +12,48 @@
   </div>
   <div class="custom-control custom-checkbox">
     <input type="checkbox" id="stop3" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="stopbang3">Pauses respiratoires constatées</label>
+    <label class="custom-control-label" for="stop3">Pauses respiratoires constatées</label>
     <p class="typography-caption text-black-secondary">Observation de pauses, étouffement ou suffocation pendant le sommeil.</p>
   </div>
   <div class="custom-control custom-checkbox">
     <input type="checkbox" id="stop4" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="stopbang4">HTA</label>
+    <label class="custom-control-label" for="stop4">HTA</label>
   </div>
+  <blockquote class="blockquote my-4">
+    <small class="mb-0"><a href="https://doi.org/10.1097/ALN.0b013e31816d83e4">Chung F. et al. STOP Questionnaire: A Tool to Screen Patients for Obstructive Sleep Apnea. Anesthesiology 2008; 108:812–821.</a></small>
+  </blockquote>
 </div>
 <div class="alert bg-light d-flex mb-0">
   <div class="d-flex flex-column align-items-center">
     <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score STOP</p>
     <span class="font-weight-bold" id="stopScore" style="font-size:2rem">0</span>
   </div>
-  <p id="stopText" class="lead m-auto"></p>
+  <p id="stopText" class="lead m-auto"><b>Bas risque</b> de SAOS</p>
 </div>
-<blockquote class="blockquote my-4">
-  <p class="mb-0"><b>Bas risque</b> de SAOS</p>
-</blockquote>
 {{ $script := `
   // Score STOP by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreStop = document.getElementById('stopScore')
     const textStop = document.getElementById('stopText')
-    const stopElems = document.querySelectorAll('#score-stop input[type=\"checkbox\"]')
+    const stopElems = document.querySelectorAll('#score-stop input[type="checkbox"]')
     stopElems.forEach((stopElem) => { stopElem.addEventListener('click', () => {
       stop()
     }) })
     const stop = () => {
       let score = 0
-      const stopElemsChecked = document.querySelectorAll('#score-stop input[type=\"checkbox\"]:checked')
-        stopElemsChecked.forEach(rieteElemChecked => {
-        score += parseInt(stopElemChecked.value, 10)
+      const elemsChecked = document.querySelectorAll('#score-stop input[type="checkbox"]:checked')
+        elemsChecked.forEach(elemChecked => {
+        score += parseInt(elemChecked.value, 10)
         scoreStop.innerHTML = score
         if (score >= 2) {
           textStop.innerHTML = '<b>Haut risque</b> de SAOS'
-          break
+        } else if (score < 2) {
+          textStop.innerHTML = '<b>Bas risque</b> de SAOS'
         }
-        textStop.innerHTML = '<b>Bas risque</b> de SAOS'
       })
-      if (stopElemsChecked.length === 0) {
+      if (elemsChecked.length === 0) {
         scoreStop.innerHTML = 0
-        textStop.innerHTML = 'Risque hémorragique <b>faible</b>'
+        textStop.innerHTML = '<b>Bas risque</b> de SAOS'
       }
     }
   })` }}

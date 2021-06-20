@@ -1,24 +1,24 @@
 <div class="card-body" id="score-stop-bang">
-  <p class="mb-4">Score validé avec la plus grande sensibilité pour le dépistage des apnées du sommeil.<br>
-  <strong>Il ne doit pas être utilisé en cas de diabète.</strong></p>
+  <p class="my-4">Score validé avec le plus puissant pour le dépistage des apnées du sommeil.<br>
+  <strong>NB. Il ne doit pas être utilisé en cas de diabète.</strong></p>
   <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="stopbang1" class="custom-control-input" value="1">
+    <input type="checkbox" id="stopbang1" class="custom-control-input stopbang-majeur" value="1">
     <label class="custom-control-label" for="stopbang1">Ronfle fort</label>
     <p class="typography-caption text-black-secondary">Entendu à travers les portes ou coups de coude du partenaire.</p>
   </div>
   <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="stopbang2" class="custom-control-input" value="1">
+    <input type="checkbox" id="stopbang2" class="custom-control-input stopbang-majeur" value="1">
     <label class="custom-control-label" for="stopbang2">Fatigue pendant la journée</label>
     <p class="typography-caption text-black-secondary">Fatigué, épuisé ou somnolent (ex: s'endormir au volant).</p>
   </div>
   <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="stopbang3" class="custom-control-input" value="1">
+    <input type="checkbox" id="stopbang3" class="custom-control-input stopbang-majeur" value="1">
     <label class="custom-control-label" for="stopbang3">Pauses respiratoires constatées</label>
     <p class="typography-caption text-black-secondary">Observation de pauses, étouffement ou suffocation pendant le sommeil.</p>
   </div>
   <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="stopbang4" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="stopbang4">HTA</label>
+    <input type="checkbox" id="stopbang4" class="custom-control-input stopbang-majeur" value="1">
+    <label class="custom-control-label" for="stopbang4">Hypertension artérielle</label>
   </div>
   <div class="custom-control custom-checkbox">
     <input type="checkbox" id="stopbang5" class="custom-control-input" value="1">
@@ -34,43 +34,59 @@
   </div>
   <div class="custom-control custom-checkbox">
     <input type="checkbox" id="stopbang8" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="stopbang8">Tour de cou &ge; 43 cm (41 cm si femme)</label>
+    <label class="custom-control-label" for="stopbang8">Tour de cou &ge; <span id="message-tour-cou">41</span> cm</label>
   </div>
+  <blockquote class="blockquote my-2 my-lg-4">
+    <small class="mb-0"><a href="http://www.stopbang.ca/translation/pdf/frenchbe.pdf">Chung F et al. Anesthesiology 2008; 108:812-21, Chung F et al Br J Anaesth 2012; 108:768–75, Chung F et al  J Clin Sleep Med Sept 2014</a></small>
+  </blockquote>
 </div>
 <div class="alert bg-light d-flex mb-0">
   <div class="d-flex flex-column align-items-center">
     <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score STOP-BANG</p>
     <span class="font-weight-bold" id="stopbangScore" style="font-size:2rem">0</span>
   </div>
-  <p id="stopbangText" class="lead m-auto"></p>
+  <p id="stopbangText" class="lead m-auto">Faible risque de SAOS</p>
 </div>
-<blockquote class="blockquote my-4">
-  <p class="mb-0"><b>Bas risque</b> de SAOS</p>
-</blockquote>
 {{ $script := `
   // Score STOP-BANG by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
-    const scoreStop = document.getElementById('stopScore')
-    const textStop = document.getElementById('stopText')
-    const stopElems = document.querySelectorAll('#score-stop input[type=\"checkbox\"]')
-    stopElems.forEach((stopElem) => { stopElem.addEventListener('click', () => {
-      stop()
+    const scoreStopBang = document.getElementById('stopbangScore')
+    const textStopBang = document.getElementById('stopbangText')
+    const stopBangElems = document.querySelectorAll('#score-stop-bang input[type=\"checkbox\"]')
+    const checkboxHomme = document.getElementById('stopbang7')
+    const checkboxObesite = document.getElementById('stopbang5')
+    const checkboxTourCou = document.getElementById('stopbang8')
+    const messageTourCou = document.getElementById('message-tour-cou')
+    stopBangElems.forEach((stopBangElem) => { stopBangElem.addEventListener('click', () => {
+      messageSexe()
+      stopBang()
     }) })
-    const stop = () => {
+    const messageSexe = () => {
+      checkboxHomme.checked ? messageTourCou.innerHTML = 43 : messageTourCou.innerHTML = 41
+    }
+    const stopBang = () => {
       let score = 0
-      const stopElemsChecked = document.querySelectorAll('#score-stop input[type=\"checkbox\"]:checked')
-        stopElemsChecked.forEach(rieteElemChecked => {
-        score += parseInt(stopElemChecked.value, 10)
-        scoreStop.innerHTML = score
-        if (score >= 2) {
-          textStop.innerHTML = '<b>Haut risque</b> de SAOS'
-          break
+      let majeur = 0
+      const elemsChecked = document.querySelectorAll('#score-stop-bang input[type=\"checkbox\"]:checked')
+      elemsChecked.forEach(elemChecked => {
+        if (elemChecked.classList.contains('stopbang-majeur')) {
+          majeur += 1
         }
-        textStop.innerHTML = '<b>Bas risque</b> de SAOS'
+        score += parseInt(elemChecked.value, 10)
+        scoreStopBang.innerHTML = score
+        if (majeur >= 2 && checkboxHomme.checked 
+        || majeur >= 2 && checkboxObesite.checked 
+        || majeur >= 2 && checkboxTourCou.checked 
+        || score >= 5 && score <= 8) {
+          textStopBang.innerHTML = '<b>Risque élevé</b> de SAOS'
+        } else if (score <= 2) {
+          textStopBang.innerHTML = '<b>Faible risque</b> de SAOS'
+        } else if (score >= 3 && score <= 4) {
+          textStopBang.innerHTML = '<b>Risque moyen</b> de SAOS'
+        }
       })
-      if (stopElemsChecked.length === 0) {
-        scoreStop.innerHTML = 0
-        textStop.innerHTML = 'Risque hémorragique <b>faible</b>'
+      if (elemsChecked.length === 0) {
+        scoreStopBang.innerHTML = 0
       }
     }
   })` }}

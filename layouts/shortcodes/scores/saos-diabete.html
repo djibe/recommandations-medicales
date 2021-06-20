@@ -1,6 +1,5 @@
 <div class="card-body" id="score-saos-diabete">
-  <p class="mt-4">Seules questions validées pour le dépistage du SAOS en cas de diabète. Utilisable aussi en l'absence de diabète.</p>
-  <p class="mb-4">3 réponses positives justifient un enregistrement du sommeil.</p>
+  <p class="my-4">Seules questions validées pour le dépistage du SAOS en cas de diabète.<br>Utilisable aussi en l'absence de diabète.</p>
   <div class="custom-control custom-checkbox">
     <input type="checkbox" id="diabete1" class="custom-control-input" value="1">
     <label class="custom-control-label" for="diabete1">Ronflement régulier et gênant pour l’entourage</label>
@@ -24,51 +23,51 @@
   </div>
   <div class="custom-control custom-checkbox">
     <input type="checkbox" id="diabete6" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="diabete7">Fatigue anormale la journée</label>
+    <label class="custom-control-label" for="diabete6">Fatigue anormale la journée</label>
   </div>
   <div class="custom-control custom-checkbox">
     <input type="checkbox" id="diabete7" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="diabete8">Sommeil non réparateur</label>
+    <label class="custom-control-label" for="diabete7">Sommeil non réparateur</label>
   </div>
   <div class="custom-control custom-checkbox">
     <input type="checkbox" id="diabete8" class="custom-control-input" value="1">
     <label class="custom-control-label" for="diabete8">Somnolence diurne</label>
   </div>
+  <blockquote class="blockquote my-4">
+    <small class="mb-0"><a href="https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf">SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. MMM septembre 2018.</a></small>
+  </blockquote>
 </div>
 <div class="alert bg-light d-flex mb-0">
   <div class="d-flex flex-column align-items-center">
     <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score</p>
     <span class="font-weight-bold" id="saosDiabeteScore" style="font-size:2rem">0</span>
   </div>
-  <p id="saosDiabeteText" class="lead m-auto"></p>
+  <p id="saosDiabeteText" class="lead m-auto">Pas de recherche de SAOS</p>
 </div>
-<blockquote class="blockquote my-4">
-  <p class="mb-0">Source SFD/SFRMS/SPLF 2018</p>
-</blockquote>
 {{ $script := `
   // Score depistage SAOS diabete by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
-    const scoreStop = document.getElementById('saosDiabeteScore')
-    const textStop = document.getElementById('saosDiabeteText')
-    const stopElems = document.querySelectorAll('#score-stop input[type=\"checkbox\"]')
-    stopElems.forEach((stopElem) => { stopElem.addEventListener('click', () => {
+    document.addEventListener( 'DOMContentLoaded', event => {
+    const scoreSaosDiabete = document.getElementById('saosDiabeteScore')
+    const textSaosDiabete = document.getElementById('saosDiabeteText')
+    const saosDiabeteElems = document.querySelectorAll('#score-saos-diabete input[type="checkbox"]')
+    saosDiabeteElems.forEach((saosDiabeteElem) => { saosDiabeteElem.addEventListener('click', () => {
       saosDiabete()
     }) })
     const saosDiabete = () => {
       let score = 0
-      const stopElemsChecked = document.querySelectorAll('#score-stop input[type=\"checkbox\"]:checked')
-        stopElemsChecked.forEach(rieteElemChecked => {
-        score += parseInt(stopElemChecked.value, 10)
-        scoreStop.innerHTML = score
-        if (score >= 2) {
-          textStop.innerHTML = '<b>Haut risque</b> de SAOS'
-          break
+      const saosDiabeteElemsChecked = document.querySelectorAll('#score-saos-diabete input[type="checkbox"]:checked')
+        saosDiabeteElemsChecked.forEach(saosDiabeteElemChecked => {
+        score += parseInt(saosDiabeteElemChecked.value, 10)
+        saosDiabeteScore.innerHTML = score
+        if (score >= 3) {
+          saosDiabeteText.innerHTML = 'Enregistrement du sommeil nécessaire'
+        } else if (score < 3) {
+          saosDiabeteText.innerHTML = 'Pas de recherche de SAOS'
         }
-        textStop.innerHTML = '<b>Bas risque</b> de SAOS'
       })
-      if (stopElemsChecked.length === 0) {
-        scoreStop.innerHTML = 0
-        textStop.innerHTML = 'Risque hémorragique <b>faible</b>'
+      if (saosDiabeteElemsChecked.length === 0) {
+        saosDiabeteScore.innerHTML = 0
+        saosDiabeteText.innerHTML = 'Pas de recherche de SAOS'
       }
     }
   })` }}
