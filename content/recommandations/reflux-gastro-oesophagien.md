@@ -18,7 +18,7 @@ draft = false
 image = true
 imageSrc = "BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "Médicaments et doses"
+todo = ""
 +++
 
 {{%article-summary%}}
@@ -26,6 +26,7 @@ todo = "Médicaments et doses"
 - Diagnostic d'interrogatoire
 - Indications à l'EOGD: symptômes atypiques isolés, signes d’alarme (perte de poids, anémie, dysphagie, hémorragie digestive), âge > 50 ans, résistance aux IPP ou rechute précoce à l’arrêt.
 - Traitement: RHD > antiacides > oméprazole 1/2 dose
+- L'anti-H2 ranitidine est suspendu
 - Rappel: on prononce "ésophage"
 
 {{%/article-summary%}}
@@ -45,12 +46,19 @@ Signes de gravité nécessitant la réalisation d'examens complémentaires.
 {{%/collapse%}}
 {{%collapse "Définitions" %}}
 
-Reflux gastro-œsophagien
+Reflux gastro-œsophagien (RGO)
 : Ensemble des manifestations liées à la remontée d'acidités gastriques vers l'œsophage. Affection le plus souvent bénigne.  
 Il est physiologique lorsqu'il est bref et occasionnel.
+: Le RGO atteint 10% de la population (*SNFGE*).
 
 Pyrosis
 : Brûlure rétro-sternale ascendante.
+
+### Complications du RGO
+
+- **Œsophagite** voire ulcères œsophagiens
+- **Sténose** œsophagienne
+- **Endobrachyœsophage** (ou muqueuse de Barrett) et adénocarcinome œsophagien (rare)
 
 ### Abréviations
 
@@ -58,18 +66,6 @@ Pyrosis
 **IPP:** inhibiteurs de la pompe à protons  
 **RGO:** reflux gastro-œsophagien  
 **RHD:** régime hygiéno-diététique (ou mesures hygiéno-diététiques)
-
-{{%/collapse%}}
-{{%collapse "Épidémiologie" %}}
-
-Le RGO atteint 10% de la population (SNFGE).
-
-{{%/collapse%}}
-{{%collapse "Complications" %}}
-
-- **Œsophagite** voire ulcères œsophagiens
-- **Sténose** œsophagienne
-- **Endobrachyœsophage** (ou muqueuse de Barrett) et adénocarcinome œsophagien (rare)
 
 {{%/collapse%}}
 {{%collapse "Clinique" %}}
@@ -98,7 +94,7 @@ Aggravation allongé, penché en avant et en post-prandial.
 {{%collapse "Diagnostic différentiel" %}}
 
 - Dyspepsie
-- Cancer
+- Cancer de l'estomac
 - Ulcère gastrique ou duodénal
 - Sténose peptique de l'œsophage
 - Lithiases biliaires
@@ -146,14 +142,27 @@ Réalisé sous IPP double dose.
 
 **Objectifs:** soulager les symptômes, cicatrisation des lésions et prévention des récidives.
 
-Débuter par: mesures hygiéno-diététiques > Anti-acides > IPP
+{{%info%}}
+
+Mesures hygiéno-diététiques
+
+---
+
+Antiacides: [alginate de sodium + bicarbonate de sodium](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67008933&typedoc=R), 1 sachet 3-4 fois par jour après le repas et avant le coucher.  
+Attention aux apports en sodium.
+
+---
+
+Oméprazole 10 mg x 1/j 15 minutes avant le repas pendant 1 mois  
+Augmentation possible à 20 voire 40 mg/j.
+{{%/info%}}
 
 ### Mesures hygiéno-diététiques
 
-- Postures  
+- Postures
   - Surélévation de la tête du lit de 45° (10-15 cm)
-  - Éviter les vêtements serrés et de s'allonger ou jardiner après les repas.
-  - Éviter les postures à risque  
+  - Éviter les vêtements serrés et de s'allonger ou jardiner après les repas
+  - Éviter les postures à risque
 - Lutte contre la constipation
 - Correction d'un surpoids ou obésité abdominale
 - Augmenter l'activité physique
@@ -169,22 +178,24 @@ Repas > 20-30 min en position assise et détendue.
 ### Anti-acides et alginates
 
 Soulagent les symptômes, mais ne permettent pas la cicatrisation muqueuse.  
-À prendre au moment des symptômes ou au coucher.
+À prendre au moment des symptômes ou au coucher, à 2-3h d'intervalle des traitements.
+
+- Sels d'aluminium: risque de constipation
+- Sels de magnésium: risque de diarrhées
+- Carbonate de calcium: constipation et flatulences
+- Bicarbonate de sodium: risque chez le patient vasculaire
 
 ### Inhibiteurs de la pompe à protons
 
-Cure courte d’IPP ½ dose si insuffisamment soulagé par RHD et anti-acides ou d'emblée en œsophagite. Prise de manière intermittente ou à la demande en RGO modéré sans œsophagite.  
-**À prendre le matin ou le soir 15 à 30 minutes avant un repas**.  
+- Cure courte à ½ dose si insuffisamment soulagé par RHD et anti-acides
+- D'emblée en œsophagite
+- Prise intermittente ou à la demande en RGO modéré sans œsophagite
+
+**À prendre le matin ou le soir 15-30 minutes avant le repas**.  
 Poursuite jusqu'à disparition des symptômes (souvent < 1 mois). Un arrêt brutal peut entraîner un effet rebond.
 Leur efficacité est maintenue dans le temps.
 
-Effets secondaires: diarrhée, céphalées < 10%.
-
-{{% info %}}Débuter le traitement
-
-Oméprazole 10 mg x 1/j pendant 1 mois  
-Augmentation possible à 20 voire 40 mg/j.
-{{%/info%}}
+**Effets secondaires:** diarrhée, céphalées < 10%.
 
 En cas d'œsophagite, la guérison est souvent obtenue en 8 semaines.
 
@@ -195,9 +206,16 @@ Traitement pendant 6 à 12 semaines.
 
 Molécules privilégiées:
 
-- ranitidine 300 mg/j en 1 à 2 prises
-- nizatidine 150-300 mg x 2/j
-- famotidine 20 mg x 2/j
+- ~~Ranitidine 300 mg/j en 1 à 2 prises~~
+- **Famotidine** 20 mg x 2/j
+
+{{%warning%}}
+Ne pas utiliser:
+
+- Dompéridone (Motilium®, gén)
+- Cimétidine (Stomédine®, gén)
+- Argiles médicamenteuses
+{{%/warning%}}
 
 ### Chirurgie
 
@@ -208,15 +226,32 @@ Indications limitées:
 
 Elle consiste en une fundoplicature par cœlioscopie.
 
-### Grossesse
+### Grossesse et RGO
 
-Utiliser les RHD et l'oméprazole (voire la ranitidine).
+Utiliser les RHD et l'oméprazole (voire ~~la ranitidine~~).
 
-### Ne pas utiliser
+### Nourrisson et RGO
 
-- Dompéridone (Motilium®, gén)
-- Cimétidine (Stomédine®, gén)
-- Argiles médicamenteuses
+Le RGO est très fréquent chez le nourrisson et le plus souvent physiologique.  
+Il débute avant 3 mois et disparaît généralement vers 12-18 mois.
+
+Utiliser dans l'ordre:
+
+- Épaississant du lait (caroube)
+- Fractionner le repas
+- Réduire le débit du biberon
+- Maintenir vertical en postprandial
+- Surélever la tête du lit
+- Rester attentif à une [APLV]({{< relref "allergie-proteines-lait-vache.md" >}}) devant une irritabilité et troubles digestifs associés
+- Oméprazole uniquement si œsophagite (voire ~~la ranitidine~~)
+
+#### Signes d'œsophagite du nourrisson
+
+- Vomissements sanglants
+- Pleurs persistants au cours des repas
+- Refus répétés du biberon
+- Perte d'appétit
+- Faible prise de poids
 
 {{%/collapse%}}
 {{%collapse "Conduite à tenir" "show" %}}
@@ -229,7 +264,7 @@ graph TB
     typique["Symptômes typiques"] --> 50-("&lt; 50 ans")
     typique --> 50+("&ge; 50 ans")
       50+ --> EOGD
-      50- --> RHD("RHD<br>Alginates ou anti-acides<br>Anti-H2 ou IPP 1/2 dose cure courte")
+      50- --> RHD("- RHD<br>- Alginates ou anti-acides<br>- IPP 1/2 dose cure courte (ou famotidine)")
         RHD -.-> typIncomplet(Échec/rechute précoce)
           typIncomplet --> EOGD
         EOGD --> csGastro(Consultation gastro-entérologue)
@@ -254,13 +289,15 @@ Favorisée par l'obésité et une hernie hiatale.
 {{< youtube id="Kf2iGE3aUrI" title="Vidéo d'explications du traitement du reflux gastro-œsophagien" >}}
 
 {{%/collapse%}}
-{{%collapse "FMC" %}}
+{{%collapse "FMC gratuite" %}}
 
 [Zerbib F. Diagnostic actuel du RGO : Consensus de Lyon (GUT 2018). POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-actuel-du-rgo-consensus-de-lyon-gut-2018/)
 
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
+- [Prescrire Redaction. Patients ayant un reflux gastro-œsophagien. Janvier 2021.](https://www.prescrire.org/)
+- [Prescrire Redaction. Reflux gastro-œsophagien chez un nourrisson. Août 2020.](https://www.prescrire.org/)
 - [Prescrire Redaction. Reflux gastro-œsophagien chez un adulte - L’essentiel sur les soins de premier choix. Juin 2020.](https://www.prescrire.org/)
 - [Zerbib F. Diagnostic actuel du RGO : Consensus de Lyon (GUT 2018). POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-actuel-du-rgo-consensus-de-lyon-gut-2018/)
 - [SNFGE. Traitement du RGO.](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)

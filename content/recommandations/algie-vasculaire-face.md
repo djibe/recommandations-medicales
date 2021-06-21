@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-06-18T16:20:00+02:00
 publishdate = 2021-06-19
-lastmod = 2021-06-19
+lastmod = 2021-06-21
 specialites = ["neurologie"]
 annees = "2014"
 sources = ["SFEMC"]
@@ -14,6 +14,7 @@ tags = ["cephalees", "tabac"]
 anglais = ["Cluster headache syndrome"]
 sctid = "193031009"
 draft = false
+flowchart = true
 image = false
 imageSrc = ""
 todo = "Examen, arbre"
@@ -75,6 +76,14 @@ AVF chronique
     1. Crises répondant aux critères 3.1 de l’AVF
     1. Survenant sans rémission ou avec des rémissions durant < 1 mois pendant au moins 1 an
     {.liste-lettres}
+
+### Abréviations
+
+**AVF:** algie vasculaire de la face  
+**CTA:** céphalées trigémino-autonomiques  
+**ECG:** électrocardiogramme  
+**SC:** sous-cutané  
+**SFEMC:** Société française d'études des migraines et des céphalées
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -249,6 +258,20 @@ Indication au traitement de fond: épisodique avec période douloureuse > 2 sema
 - Chirurgie
 
 {{% /collapse %}}
+{{%collapse "Conduite à tenir devant une AVF" "show" %}}
+
+{{< mermaid title="Conduite à tenir devant une suspicion d'algie vasculaire de la face. Dr JB FRON d'après SFEMC 2014" >}}
+graph TB
+  suspicion[Suspicion d'AVF] --> ICHD3(Critères diagnostiques ICHD-3)
+  style suspicion stroke:#4150f5, stroke-width:1px
+    ICHD3 --> examens("IRM et ARM cérébrale<br>au diagnostic")
+      examens --> suivi("- Suivi spécialisé (neuro, ORL, douleur)<br>- Arrêt toxiques")
+        suivi --> crise("<b>Traitement de la crise</b><hr>- Sumatriptan SC 6 mg<br>- Oxygénothérapie 12-15 L/min")
+          crise --> fond("<b>Traitement de fond</b><hr>- Débuter dès la 1<sup>re</sup> récidive<br>- Vérapamil en titration de<br>240 à 480 mg<br>- Sous surveillance ECG<br>&plusmn; traitement transitionnel")
+    ICHD3 -- Diagnostic différentiel --> differentiel("- Migraine<br>- Névralgie du trijumeau<br>- Autres CTA")
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%collapse "Sources" %}}
 
 - [Donnet A. et al. Recommandations pour le diagnostic et le traitement de l'algie vasculaire de la face](https://dx.doi.org/10.1016/j.neurol.2014.03.016)

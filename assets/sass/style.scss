@@ -238,6 +238,10 @@ article {
 .recommandation__content {
   margin-bottom: 5rem;
 
+  section > :last-child {
+    margin-bottom: 3rem;
+  }
+
   > h2 {
     border-top: 1px solid rgba(0, 0, 0, 0.12);
     margin: 0;
