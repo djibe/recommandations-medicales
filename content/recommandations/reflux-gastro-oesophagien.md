@@ -153,7 +153,7 @@ Attention aux apports en sodium.
 
 ---
 
-Oméprazole 10 mg x 1/j 15 minutes avant le repas pendant 1 mois  
+[Oméprazole 10 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69606819&typedoc=R) x 1/j 15 minutes avant le repas pendant 1 mois  
 Augmentation possible à 20 voire 40 mg/j.
 {{%/info%}}
 
@@ -207,7 +207,7 @@ Traitement pendant 6 à 12 semaines.
 Molécules privilégiées:
 
 - ~~Ranitidine 300 mg/j en 1 à 2 prises~~
-- **Famotidine** 20 mg x 2/j
+- [Famotidine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60005856&typedoc=R) 20 mg x 2/j
 
 {{%warning%}}
 Ne pas utiliser:
