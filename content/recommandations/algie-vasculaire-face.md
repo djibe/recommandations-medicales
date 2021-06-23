@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-06-18T16:20:00+02:00
 publishdate = 2021-06-19
-lastmod = 2021-06-21
+lastmod = 2021-06-23
 specialites = ["neurologie"]
 annees = "2014"
 sources = ["SFEMC"]
@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "Examen, collège, relecture Alex et demande SFEMC"
+todo = "Examen, collège"
 +++
 
 {{%article-summary%}}
@@ -41,7 +41,7 @@ Algie vasculaire de la face (AVF)
 : Conséquences sur la qualité de vie, dépression (x 5,6), idées suicidaires (55%) et perte de productivité professionnelle.
 
 Algie vasculaire de la face réfractaire
-: Forme chronique depuis ≥ 3 ans, crises quotidiennes et résistance aux traitements de fond (vérapamil à 960 mg/j, lithium efficace et bithérapie).
+: Forme chronique depuis plus de 3 ans, crises quotidiennes et résistantes aux traitements de fond (vérapamil à 960 mg/j, lithium efficace et bithérapie).
 : Le traitement chirurgical peut être envisagé.
 
 {{% /collapse %}}
@@ -66,15 +66,15 @@ Critères généraux de l'AVF (IHS 3.1):
 {.liste-lettres}
 
 AVF épisodique
-:  (Code 3.1.1)
+:  
     1. Crises répondant aux critères 3.1 de l’AVF et survenant par périodes
     1. Au moins deux périodes durant de 7 jours à 1 an (sans traitement) et séparées par une rémission durant ≥ 1 mois
     {.liste-lettres}
 
 AVF chronique
-:  (Code 3.1.2)
+:  
     1. Crises répondant aux critères 3.1 de l’AVF
-    1. Survenant sans rémission ou avec des rémissions durant < 1 mois pendant au moins 1 an
+    1. Survenant sans rémission ou avec des rémissions durant moins d'un mois pendant au moins 1 an
     {.liste-lettres}
 
 ### Abréviations
@@ -82,13 +82,14 @@ AVF chronique
 **AVF:** algie vasculaire de la face  
 **CTA:** céphalées trigémino-autonomiques  
 **ECG:** électrocardiogramme  
+**HC:** haute concentration  
 **SC:** sous-cutané  
 **SFEMC:** Société française d'études des migraines et des céphalées
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%warning%}}< 25% des cas sont diagnostiqués au début de la maladie{{%/warning%}}
+{{%warning%}}Moins de 25% des cas sont diagnostiqués au début de la maladie{{%/warning%}}
 
 ### Interrogatoire
 
@@ -127,12 +128,12 @@ Dérivés nitrés, sildénafil.
   - Prodromes: troubles de l'humeur ou de la concentration
   - Signes critiques: nausées/vomissements, photophobie, aura visuelle, hyperacousie  
   Ces derniers peuvent entraîner un mauvais diagnostic.
-- Signes différentiels
+- Signes négatifs
   - Début dans l'enfance ou après 50 ans
   - Antécédents de zona ou traumatisme crânien
   - Prostration pendant la crise
   - Zone gâchette
-- Tabac (3/4 des patients)
+- Tabagisme (3/4 des patients)
 - Alcool, cannabis, cocaïne
 
 > En gras, les éléments majeurs du questionnaire de dépistage *QATCH* (*Wilbrink 2013*)
@@ -160,10 +161,6 @@ Moins sévère et plus longue, signes dysautonomiques bilatéraux, tendance au r
 Après 50 ans, salves très brèves de quelques minutes. Territoires V2 et V3, dysautonomie minime, zone gâchette.
 - Autres céphalées trigémino-autonomiques (CTA)  
 Crises plus courtes et plus fréquentes, sans périodicité, sensibilité thérapeutique différente.
-  - Hémicrânie paroxystique
-  - SUNCT
-  - SUNA
-  - Hemicrania continua
 - Céphalée hypnique  
 Céphalée nocturne uniquement. Après 50 ans, intensité légère/modérée sans agitation.
 
@@ -217,7 +214,7 @@ Objectif: disparition ou persistance de céphalée légère à 15 ou 30 minutes.
 
 Prescription (initiale et renouvellement) réservée à un neurologue, ORL ou centre de la douleur.
 
-Normobare au masque HC 12-15 L/min pendant 15-20 minutes.
+Normobare au masque haute concentration 12-15 L/min pendant 15-20 minutes.
 
 Traiter ≥ 3 crises à 12-15 L/min pendant 30 minutes avant de conclure à son inefficacité.  
 *Effet rebond* possible.
@@ -242,15 +239,18 @@ Indication au traitement de fond: épisodique avec période douloureuse > 2 sema
 - Arrêt du tabac
 - Éviction de l'alcool, cannabis et cocaïne
 - Traitement transitionnel si besoin le temps de la titration (voir *Traitement de la crise*)
-- Vérapamil
-  - Prescription spécialisée
-  - Débuter dès le début de la période douloureuse: vérapamil LI 120 mg x 2/j
-  - Augmentation de 120 mg tous les 2-7 jours jusqu'à 480 mg (max 720 mg ou + en forme chronique)
-  - Poursuivre la durée du cycle antérieur et jusqu'à ≥ 2 semaines après la dernière crise
-  - Puis réduction de 120 mg tous les 15 jours jusqu'à l'arrêt
-  - En cas de résurgence pendant la décroissance: repasser à la posologie précédente
-  - Surveillance ECG initiale, puis tous les 6 mois ou chaque augmentation de dose
-- Voire lithium
+
+### Vérapamil
+
+- Prescription spécialisée
+- Débuter dès le début de la période douloureuse: vérapamil 120 mg x 2/j
+- Augmentation de 120 mg tous les 2-7 jours jusqu'à 480 mg (max 720 mg ou plus en forme chronique)
+- Poursuivre la durée du cycle antérieur et jusqu'à ≥ 2 semaines après la dernière crise
+- Puis réduction de 120 mg tous les 15 jours jusqu'à l'arrêt
+- En cas de résurgence pendant la décroissance: repasser à la posologie précédente
+- Surveillance ECG initiale, puis tous les 6 mois ou chaque augmentation de dose
+
+Voire lithium.
 
 ### Autres traitements des formes réfractaires
 

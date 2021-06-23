@@ -767,6 +767,10 @@ div.mermaidTooltip {
 
 .liste-lettres {
   list-style-type: upper-alpha;
+
+  > li > ol {
+    list-style-type: decimal;
+  }
 }
 
 .w-768 {
