@@ -146,13 +146,13 @@ a[href^='http']:not([class])::after {
     letter-spacing: 1px;
   }
   .h1 {
-    font-size: calc(1.5rem + 3vw);
+    font-size: calc(1.5rem + 2vw);
     letter-spacing: -1.5px;
     line-height: 1.2;
 
     @media (min-width: 1200px){
       & {
-        font-size: 4rem;
+        font-size: 3.5rem;
       }
     }
   }
@@ -466,12 +466,12 @@ div.data-table {
   }
 }
 
-.modal legend {
+legend {
   color: #212121;
   font-size: 0.875rem;
 }
 @media screen and (min-width: 1200px) {
-  .modal legend {
+  legend {
     font-size: 1rem;
   }
 }

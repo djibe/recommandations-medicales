@@ -6,9 +6,9 @@ synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-06-21T10:56:00+02:00
 publishdate = 2021-06-22
-lastmod = 2021-06-22
+lastmod = 2021-06-23
 specialites = ["pneumologie"]
-annees = "2016"
+annees = "2019"
 sources = ["GINA", "SPLF"]
 tags = ["dyspnee", "tabac", "toux"]
 anglais = ["Asthma"]
@@ -16,11 +16,12 @@ sctid = "195967001"
 draft = true
 image = false
 imageSrc = ""
-todo = "ACT, HAS, ERS, Prescrire, vidéos, BEH"
+todo = "HAS, ERS, Prescrire, vidéos, BEH"
 +++
 
 {{%article-summary%}}
 
+- {{< modal-btn modal-score-act >}}Contrôle de l'asthme par questionnaire *ACT* systématique{{< /modal-btn >}}
 - Le DEP est répété 3 fois de suite
 - Jamais de BACA (bronchodilatateurs de courte durée) seuls
 - Bannir le terme << bronchite asthmatiforme >>
@@ -48,6 +49,7 @@ Bannir le terme << bronchite asthmatiforme >>: il s'agit d'une maladie chronique
 
 ### Abréviations
 
+**ACT:** {{%lang%}}Asthma Control Test™{{%/lang%}}  
 **BACA:** bêta<sub>2</sub>-agoniste de courte durée d'action  
 **BALA:** bêta<sub>2</sub>-agoniste de longue durée d'action  
 **CSI:** corticostéroïdes inhalé  
@@ -55,16 +57,17 @@ Bannir le terme << bronchite asthmatiforme >>: il s'agit d'une maladie chronique
 **DEP:** débit expiratoire de pointe
 
 {{% /collapse %}}
-{{%collapse "Signes de gravité" %}}
+{{%collapse "Gravité" %}}
+
+### Signes de gravité
 
 TODO:
 
-{{% /collapse %}}
-{{%collapse "Patients à risque de décès" %}}
+### Patients à risque de décès
 
 {{%warning%}}
 
-### Patients à risque de décès par asthme (*SPLF 2015*)
+### Patients à risque de décès par asthme
 
 - Mauvais contrôle sur les 12 derniers mois  
 Hospitalisation, urgences, corticoïdes oraux.
@@ -72,9 +75,20 @@ Hospitalisation, urgences, corticoïdes oraux.
 - Absence de CSI, mauvaise observance du CSI ou du plan d'action écrit
 - Consommation élevée de SABA/B2CA avec ≥ 1 boîte d'équivalent salbutamol par mois
 - Allergie alimentaire associée
+
+> *SPLF 2015*
 {{%/warning%}}
 
 Ces personnes doivent bénéficier d'un suivi médical et d'une éducation thérapeutique renforcés.
+
+{{% /collapse %}}
+{{%collapse "Contrôle de l'asthme" %}}
+
+Le contrôle de l'asthme doit être réévalué à chaque consultation:
+
+- {{< modal-btn modal-score-act >}}Asthma Control Test™ (ACT){{< /modal-btn >}}
+- Exposition aux fumées et allergènes
+- Consommation de corticoïdes oraux
 
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques" %}}
@@ -110,10 +124,10 @@ Atopiques, maladies respiratoires.
 - Expositions domestiques, professionnelles/scolaires  
 et amélioration en vacances
 - Tabac
-- Symptômes
+- Symptômes des 4 dernières semaines
   - Variabilité en intensité
   - Variabilité dans le temps
-  - Toux
+  - Toux chronique
   - Sibilants, wheezing
   - Dyspnée
   - Oppression thoracique
@@ -127,12 +141,6 @@ et amélioration en vacances
 - Exacerbation
   - Facteur déclenchant  
   Virose, allergène, fumée, exercice, stress, traitement (BB, aspirine, AINS).
-
-Contrôle de l'asthme à chaque consultation:
-
-- ACT
-- sur les 4 dernières semaines: symptômes diurnes (gêne respiratoire, toux), symptômes nocturnes, conso BACA, limitation des activités
-- Conso de corticoïdes oraux
 
 ### Examen clinique
 
@@ -164,14 +172,16 @@ Confirmer le diagnostic avant de démarrer un traitement.
 
 ### Mesures générales
 
-- Suivi spécialisé quand asthme non contrôlé ou exacerbations répétées (> 2/an)  
+- Suivi spécialisé quand asthme non contrôlé, exacerbations répétées (> 2/an) ou patient fumeur  
 Centre pneumologique spécialisé quand asthme sévère non contrôlé.
+- Suivi au moins annuel
 - Sevrage tabagique total
-- Éviction des allergènes, aérosols, polluants
+- Éviction totale des allergènes, aérosols, polluants
 - Déconditionnement à l'exercice: réhabilitation respiratoire en SSR
 - Traitements à éviter  
 Bêtabloquants de façon relative, parfois aspirine/AINS
-- {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} à faible dose pour tous
+- {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} à faible dose pour tous  
+Même si BPCO associée.
 
 {{%info%}}Les CSI réduisent de façon marquée la fréquence et la gravité des symptômes de l'asthme ainsi que les risques d'exacerbation ou de décès causé par l'asthme (*GINA 2019*){{%/info%}}
 
@@ -222,5 +232,10 @@ L'arrêt total n'est envisageable qu'en asthme parfaitement contrôlé depuis au
 {{% modal title="Corticoïdes inhalés" id="modal-ttt-csi"%}}
 
 {{< traitements/csi >}}
+
+{{% /modal %}}
+{{% modal title="Asthma Control Test" id="modal-score-act"%}}
+
+{{< scores/asthma-control-test >}}
 
 {{% /modal %}}
