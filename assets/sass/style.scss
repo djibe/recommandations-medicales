@@ -446,6 +446,12 @@ blockquote {
   text-transform: uppercase;
 }
 
+.card-icon {
+  flex-shrink: 0;
+  height: 36px;
+  width: 36px;
+}
+
 div.data-table {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;

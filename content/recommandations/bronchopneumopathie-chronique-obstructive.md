@@ -73,6 +73,7 @@ Insuffisance respiratoire chronique
 
 ### Abréviations
 
+**BALA:** bêta2-agoniste de longue durée d'action ({{%lang%}}Long Acting ß2 Agent{{%/lang%}})  
 **BD:** bronchodilatateur  
 **BDCA:** bronchodilatateur de courte durée d'action (ß2 ou anticholinergique, SABD en anglais)  
 **BDLA:** bronchodilatateur de longue durée d'action  
@@ -86,7 +87,6 @@ Insuffisance respiratoire chronique
 **EI:** effet indésirable  
 **FC:** fréquence cardiaque  
 **GOLD:** {{%lang%}}Global Initiative for Chronic Obstructive Lung Disease{{%/lang%}}  
-**LABA:** {{%lang%}}Long Acting ß2 Agent{{%/lang%}}, bêta-2-agoniste de longue durée d'action  
 **LAMA:** {{%lang%}}Long Acting Muscarinic Agent{{%/lang%}}, anticholinergique de longue durée d'action  
 **RR:** réhabilitation respiratoire (ou *réadaptation respiratoire*)  
 **VEMS:** volume expiré maximal à la première seconde ({{%lang%}}FEV1{{%/lang%}} en anglais)
@@ -281,7 +281,7 @@ Formes: spray, poudre, brumisateur.
 
 Objectivée par un {{< modal-btn modal-score-cat >}}CAT™ ≥ 10{{< /modal-btn >}} (GOLD 2021).
 
-{{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} systématique.  
+{{< modal-btn modal-ttt-laba >}}BALA{{< /modal-btn >}} systématique.  
 Préférer un {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} en antécédent d'exacerbation.
 
 Si insuffisant:
@@ -296,16 +296,16 @@ Dyspnée sous monothérapie toujours {{< modal-btn modal-score-mmrc >}}mMRC ≥ 
 Choix selon le profil clinique:
 
 - Dyspnée prédominante  
-{{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} + {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-lama >}}associations LABA+LAMA{{< /modal-btn >}}.
+{{< modal-btn modal-ttt-laba >}}BALA{{< /modal-btn >}} + {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-lama >}}associations BALA+LAMA{{< /modal-btn >}}.
 - Exacerbations récurrentes de composante asthmatique (variabilité, atopie)  
-{{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}.  
-Arrêt si pneumonie ou autres EI des corticoïdes et remplacement par bithérapie LABA + LAMA.
+{{< modal-btn modal-ttt-laba-csi >}}BALA + CSI{{< /modal-btn >}}.  
+Arrêt si pneumonie ou autres EI des corticoïdes et remplacement par bithérapie BALA + LAMA.
 
 **NB.** Sur-risque de pneumonie avec les corticoïdes inhalés.
 
 #### 3<sup>e</sup> intention - Prescription spécialisée
 
-Triple association: {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}.  
+Triple association: {{< modal-btn modal-ttt-laba-lama-csi >}}BALA + LAMA + CSI{{< /modal-btn >}}.  
 Arrêt des corticoïdes si pneumonie ou autres effets indésirables.
 
 Seul le pneumologue peut prescrire une trithérapie ou des nébulisations.  
@@ -583,12 +583,12 @@ Anémie, asthme, cancer, [insuffisance cardiaque]({{< relref "insuffisance-cardi
 
 {{% /modal %}}
 <!-- Traitements -->
-{{% modal title="Bêta-2 stimulants de courte durée d'action" id="modal-ttt-bdca"%}}
+{{% modal title="Bêta2-agonistes de courte durée d'action" id="modal-ttt-bdca"%}}
 
 {{< traitements/bdca >}}
 
 {{% /modal %}}
-{{% modal title="Bêta-2 stimulants de longue durée d'action" id="modal-ttt-laba"%}}
+{{% modal title="Bêta2-agonistes de longue durée d'action" id="modal-ttt-laba"%}}
 
 {{< traitements/laba >}}
 
@@ -603,12 +603,12 @@ Anémie, asthme, cancer, [insuffisance cardiaque]({{< relref "insuffisance-cardi
 {{< traitements/laba-lama >}}
 
 {{% /modal %}}
-{{% modal title="Associations B2LD et corticoïdes" id="modal-ttt-laba-csi"%}}
+{{% modal title="Associations BALA et CSI" id="modal-ttt-laba-csi"%}}
 
 {{< traitements/laba-csi >}}
 
 {{% /modal %}}
-{{% modal title="Associations bi-BDLA et corticoïdes" id="modal-ttt-laba-lama-csi"%}}
+{{% modal title="Associations bi-BDLA et CSI" id="modal-ttt-laba-lama-csi"%}}
 
 {{< traitements/laba-lama-csi >}}
 

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-30T19:57:00+02:00
 publishdate = 2021-05-01
-lastmod = 2021-05-05
+lastmod = 2021-06-25
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
 sources = ["CNGOF", "SFD"]
@@ -22,19 +22,19 @@ todo = "insulines du DG, enfant obèse ?"
 
 {{%article-summary%}}
 
-- Dépister systématiquement mais uniquement si: âge ≥ 35 ans, surpoids, ATCD 1<sup>er</sup> degré de DT2, ATCD de DG ou macrosomie
+- Dépister systématiquement mais uniquement si: âge ≥ 35 ans, surpoids, ATCD 1<sup>er</sup> degré familial de DT2, ATCD de DG ou macrosomie
 - Glycémie à jeun au T1 puis HGPO 75g entre 24 et 28 SA
 - DG si GAJ ≥ 0,92 g/L ou HGPO H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L
 - Adresser à la maternité pour ASG et diététique
 - Objectif de terme: 39 SA
 - GAJ à la consultation post-natale et tous les 1-3 ans à vie
-- En pandémie Covid-19, si HGPO non réalisable, remplacer par GAJ + HbA1c avec un seuil diagnostique à 5,7% ([Vambergue 2020](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf))
+- En pandémie Covid-19, si HGPO non réalisable, remplacer par GAJ + HbA1c avec un seuil diagnostique à 5,7% (*[Vambergue 2020](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)*)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Diabète gestationnel (DG)
-: Hyperglycémie à jeun gravidique sans hyperglycémie pré-existante à la grossesse.  
+: Hyperglycémie à jeun gravidique sans hyperglycémie avant la grossesse.  
 Facteur de risque de complications obstétricales:  
     - Maternelles: pré-éclampsie, césarienne
     - Fœtales : macrosomie, hydramnios (rare), hyperbilirubinémie
@@ -52,6 +52,8 @@ Conclusion de l'étude *Diagest2*: 18% des femmes avec un DG développeront un d
 **ADO:** antidiabétiques oraux  
 **ASG:** autosurveillance glycémique  
 **GAJ:** glycémie à jeun  
+**IADPSG**: {{%lang%}}International Association of Diabetes and Pregnancy Study Group{{%/lang%}}  
+**SA:**: semaines d'aménorrhée  
 **SOPK:** syndrome des ovaires polykystiques
 
 {{% /collapse %}}
@@ -75,23 +77,17 @@ Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque par
 {{%info%}}
 Diabète gestationnel si:
 
-- **glycémie à jeun ≥ 0,92 g/L** (seuil IADPSG)  
-- ou **HGPO 75g**  
-H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L.
+- **glycémie à jeun ≥ 0,92 g/L** au 1<sup>er</sup> trimestre  
+{{%class%}}Seuil *IADPSG*.{{%/class%}}
+- ou **HGPO 75g** entre 24 et 28 SA  
+Glycémie H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L.
 
 ---
 
 Adresser à la maternité de son choix pour la mise en place d'une auto-surveillance glycémique et consultation diététique.
 {{%/info%}}
 
-- En périconceptionnel ou 1<sup>er</sup> trimestre  
-Vise un dépistage précoce d'un diabète par glycémie à jeun.
-- et nouveau dépistage entre 24 et 28 SA
-  - HGPO avec 75 g de glucose
-  - Test positif si glycémie: H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L
-  - Peut être rattrapé après 28 SA
-
-**NB.** Si glycémie à jeun > 1,26 g/L en début de grossesse (à 2 reprises), il s'agit d'un diabète de type 2.
+{{%warning%}}Si glycémie à jeun > 1,26 g/L en début de grossesse (à 2 reprises), il s'agit d'un diabète de type 2.{{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
@@ -108,13 +104,13 @@ Apports 25-35 kcal/kg/j.
 
 ### Auto-surveillance glycémique (ASG)
 
-- ASG pendant 7 à 10 jours avant mise sous insuline
-- Si GAJ ≥ 0,95 g/L à jeun ou ≥ 1,20 g/L 2 heures après le repas, recours à l'insulinothérapie
+- Surveillance glycémique à jeun et post-prandiale (H2)
+- Si GAJ ≥ 0,95 g/L à jeun ou ≥ 1,20 g/L 2 heures après le repas pendant 7-10 jours malgré les RHD, recours à l'insulinothérapie
 - ASG poursuivie en post-partum immédiat
 
 ### Insulinothérapie
 
-Indication: glycémies dépassants les objectifs après 10 jours de RHD (grade A).
+Indication: glycémies dépassant les objectifs après 10 jours de RHD (grade A).
 
 - ASG systématique x 4-6/j (à jeun, pré-prandiale et H2 post-prandiale)
 - Télésurveillance ([MyDiabby](https://www.mydiabby.com/diabete-gestationnel), ...)
@@ -140,17 +136,18 @@ Auto-surveillance glycémique stricte ± insuline.
 Césarienne non systématique (grade C)
 
 {{% /collapse %}}
-{{%collapse "Surveillance post-partum et à distance" %}}
+{{%collapse "Surveillance en post-partum et à distance" %}}
+
+{{%info%}}Risque de récidive de DG de 30-84%, de syndrome métabolique x 2-5, de DT2 x7 et de maladie cardiovasculaire x1,7{{%/info%}}
 
 - Surveillance de la normalisation des glycémies sans traitement
 - Si autres facteurs de risque cardiovasculaire:  
 Contraception par DIU préférable.
-- Grossesse ultérieure programmée  
-{{%class%}}Risque de récidive de DG de 30-84%, de syndrome métabolique x 2-5, de DT2 x7 et de maladie cardiovasculaire x1,7.{{%/class%}}
-- Information de la patiente + **dépistage du diabète** par glycémie à jeun ou HGPO
-  - en consultation post-natale
+- Information de la patiente
+  - En cas de nouvelle grossesse: dépistage du DG
+  - GAJ en consultation post-natale
   - avant nouvelle grossesse
-  - tous les 1 à 3 ans pendant ≥ 25 ans
+  - et tous les 1 à 3 ans pendant ≥ 25 ans
 - Mesures hygiéno-diététiques
   - Activité physique 30-60 min/j 5j/sem
   - Alimentation équilibrée
@@ -163,7 +160,7 @@ Surveillance pondérale + activité physique.
 
 {{< mermaid title="Conduite à tenir pour le dépistage du diabète gestationnel. Dr JB FRON d'après SFD/CNGOF 2010" >}}
 graph TB
-fdr["<b>Facteurs de risque de diabète gestationnel</b><hr>1. Âge &ge; 35 ans<br>2. IMC &ge; 25 kg/m²<br>3. ATCD 1<sup>er</sup> degré de DT2<br>4. ATCD de DG<br>5. ATCD de macrosomie"]
+fdr["<b>Facteurs de risque de diabète gestationnel</b><hr>1. Âge &ge; 35 ans<br>2. IMC &ge; 25 kg/m²<br>3. ATCD familial 1<sup>er</sup> degré de DT2<br>4. ATCD de DG<br>5. ATCD de macrosomie"]
 style fdr stroke:#4150f5, stroke-width:1px
   fdr -- Oui --> gaj("<b>1<sup>er</sup> trimestre</b><br>Glycémie à jeun")
     gaj -- "&lt; 0,92" --> hgpo("<b>24-28 SA: HGPO 75 g</b><hr>H0 &ge; 0,92<br>H1 &ge; 1,8<br>H2 &ge; 1,53")
@@ -171,7 +168,7 @@ style fdr stroke:#4150f5, stroke-width:1px
       hgpo -- "Positive si &ge; 1" --> DG
     gaj -- "&ge; 0,92" --> DG(Diabète gestationnel)
       DG --> diabeto(Diabétologue)
-    gaj -- "&ge; 1,26 contrôlée" --> DT2(Diabète type 2)
+    gaj -- "&ge; 1,26 à 2 reprises" --> DT2(Diabète type 2)
       DT2 --> diabeto
   fdr -- Non --> arret(Pas de dépistage du DG)
 {{< /mermaid >}}
