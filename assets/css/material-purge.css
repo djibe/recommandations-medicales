@@ -3676,7 +3676,8 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   margin-left: 0.25rem !important;
 }
 
-.mt-2 {
+.mt-2,
+.my-2 {
   margin-top: 0.5rem !important;
 }
 
@@ -3684,7 +3685,8 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   margin-right: 0.5rem !important;
 }
 
-.mb-2 {
+.mb-2,
+.my-2 {
   margin-bottom: 0.5rem !important;
 }
 
