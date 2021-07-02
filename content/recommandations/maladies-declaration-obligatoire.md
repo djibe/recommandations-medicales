@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-27T17:24:00+02:00
 publishdate = 2021-03-27
-lastmod = 2021-03-27
+lastmod = 2021-06-30
 specialites = ["certificats"]
 annees = "2021"
 sources = ["SPF"]
@@ -30,6 +30,7 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme.
 - Choléra
 - Dengue
 - Diphtérie
+- Encéphalite à tiques
 - Fièvres hémorragiques africaines
 - Fièvre jaune
 - Fièvres typhoïdes et paratyphoïdes
@@ -55,9 +56,10 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme.
 - [Tuberculose]({{< relref "tuberculose.md" >}})
 - Tularémie
 - Typhus exanthématique
+- West nile virus
 - Zika
 
-> [CNOM. Maladies à déclaration obligatoire](https://www.conseil-national.medecin.fr/medecin/sante-publique/maladies-declaration-obligatoire)
+> [Santé Publique France. Liste des maladies à déclaration obligatoire](https://www.santepubliquefrance.fr/maladies-a-declaration-obligatoire/liste-des-maladies-a-declaration-obligatoire)
 
 {{% /collapse %}}
 

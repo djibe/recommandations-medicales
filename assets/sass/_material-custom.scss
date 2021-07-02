@@ -10,9 +10,9 @@ $primary: (
 ) !default;
 
 $secondary: (
-  color: #ffc525,
-  dark:  #c48900,
-  light: #ffd151
+  color: #e87500,
+  dark:  #c05500,
+  light: #ffca7f
 ) !default;
 
 $danger: (
@@ -87,7 +87,7 @@ $line-height-subtitle-2: normal !default;
 // Components
 $border-radius: 0;
 
-$secondary-color-for-controls:  false !default;
+$secondary-color-for-controls:  true !default;
 $enable-dark-theme-media-query: false !default;
 $enable-validation-valid:  false !default; // Apply Success color to valid inputs (not recommended)
 

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-17T14:11:29+02:00
 publishdate = 2020-06-17
-lastmod = 2021-05-04
+lastmod = 2021-07-01
 specialites = ["addictologie"]
 annees = "2020"
 sources = ["Ameli"]
@@ -99,12 +99,12 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
     <h6 class="typography-overline mt-lg-3">Comprimés sublinguaux</h6>
     {{% class "typography-body-2 text-black-secondary" %}} Laisser fondre sous la langue. Possibilité de le retirer quand l'envie est passée. {{%/class%}}
     <ul class="list-group">
-      {{< list-item title="Nicorette Microtab 2mg (Citron ou neutre)" subtitle="1 comprimé toutes les 1 à 2 heures. Max 30/j." >}}
+      {{< list-item title="Nicorette Microtab 2 mg (Citron ou neutre)" subtitle="1 comprimé toutes les 1 à 2 heures. Max 30/j." >}}
     </ul>
     <!-- Sprays buccaux -->
     <h6 class="typography-overline mt-lg-3">Sprays buccaux</h6>
     <ul class="list-group">
-      {{< list-item title="Nicotine EG 1mg/dose" subtitle="1 à 2 pulv en cas d'envie (réitérer après qq minutes si insuff.). Max 64/j" >}}
+      {{< list-item title="Nicotine EG 1 mg/dose" subtitle="1 à 2 pulv en cas d'envie (réitérer après qq minutes si insuff.). Max 64/j" >}}
     </ul>
   </div>
   <!--+20-->

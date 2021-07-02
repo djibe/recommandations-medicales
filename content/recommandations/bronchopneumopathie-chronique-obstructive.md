@@ -585,7 +585,7 @@ Anémie, asthme, cancer, [insuffisance cardiaque]({{< relref "insuffisance-cardi
 <!-- Traitements -->
 {{% modal title="Bêta2-agonistes de courte durée d'action" id="modal-ttt-bdca"%}}
 
-{{< traitements/bdca >}}
+{{< traitements/baca >}}
 
 {{% /modal %}}
 {{% modal title="Bêta2-agonistes de longue durée d'action" id="modal-ttt-laba"%}}

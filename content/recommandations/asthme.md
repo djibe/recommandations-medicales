@@ -16,12 +16,15 @@ sctid = "195967001"
 draft = false
 image = true
 imageSrc = "Illustration par brgfx / Freepik"
-todo = "Prescrire, collège, CSI + ARL, revoir Stades GINA, plan d'action, FeNO, vaccins, assoc patients"
+todo = "Prescrire, collège, CSI + ARL, revoir Stades GINA, plan d'action, vaccins, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure"
 +++
+
+*Version préliminaire: ACT et traitements utilisables en l'état*
 
 {{%article-summary%}}
 
 - Bannir le terme de << bronchite asthmatiforme >>
+- Éviction du tabac
 - Diagnostic de certitude par symptômes évocateurs répétés et EFR concluantes
 - Contrôle des symptômes par {{< modal-btn modal-score-act >}}questionnaire *ACT™*{{< /modal-btn >}} à chaque consultation
 - Le DEP est toujours répété 3 fois de suite
@@ -66,6 +69,7 @@ Bannir le terme de << bronchite asthmatiforme >>: il s'agit d'une maladie chroni
 **DEP:** débit expiratoire de pointe  
 **EFR:** exploration fonctionnelle respiratoire  
 **ERS:** {{%lang%}}European Respiratory Society{{%/lang%}}  
+**FeNO:** fraction de monoxyde d’azote mesurée dans un débit de gaz expiré  
 **GINA:** {{%lang%}}Global Initiative for Asthma{{%/lang%}}  
 **ITSL:** immunothérapie par voie sublinguale  
 **VEMS:** volume expiratoire maximal en une seconde
@@ -75,12 +79,13 @@ Bannir le terme de << bronchite asthmatiforme >>: il s'agit d'une maladie chroni
 
 ### Signes de gravité = asthme aigu grave
 
-Présence chez l'adulte d'au moins un signe parmi:
+Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 
 - Pouls > 110/min
-- Fréquence respiratoire ≥ 25/min
+- Fréquence respiratoire ≥ 25/min ou pauses respiratoires
 - Impossibilité de terminer les phrases en une inspiration
 - DEP ≤ 50% de la théorique ou de la meilleure valeur connue du patient
+- SpO<sub>2<sub> < 92%
 - Bradycardie
 - Hypotension
 - Silence auscultatoire
@@ -126,7 +131,9 @@ Revoir la *maîtrise de l'asthme*:
     - Consommation de corticoïdes oraux
     - Plan d'action écrit contre l'asthme
     - Tabagisme
-    - Exposition aux fumées et allergènes
+    - Exposition aux fumées
+    - Contrôle des allergènes  
+    Literie avec textiles anti-acariens, éviction tapis-moquettes, animaux en extérieur, contrôle humidité intérieure.
     - Confirmation des allergies alimentaires
     - Contrôle de comorbidités  
     Rhinite, sinusite, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), obésité, anxiété, dépression.
@@ -169,11 +176,18 @@ Réévaluer l'efficacité du traitement initial à 2-3 mois.
 
 ### Interrogatoire
 
-- Antécédents  
-Atopiques, allergiques, respiratoires, [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}).
+- Antécédents
+  - Allergiques  
+  Pollens, poussières, poils d'animaux, humidité-moisissures, acariens (tapis-moquettes), sulfites, Insectes, substances végétales.
+  - Atopiques  
+  Dermatite atopique, rhinite allergique.
+  - Gaz  
+  Sprays ménagers, fumée de tabac, échappements de véhicules, BTP, peintures, parfums, huiles essentielles.
+  - Respiratoires  
+  Toux à l'effort par temps froid et sec ++
+  - Pathologies: [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}).
 - Antécédents familiaux  
 Atopiques, maladies respiratoires.
-- Allergies alimentaires
 - Profession  
 Chômage, boulangerie-pâtisserie, industrie alimentaire, coiffure, taxi, ambulance, auto-école, forain.
 - Expositions domestiques, professionnelles/scolaires
@@ -183,7 +197,7 @@ Chômage, boulangerie-pâtisserie, industrie alimentaire, coiffure, taxi, ambula
 - Symptômes des 4 dernières semaines
   - Variabilité en intensité
   - Variabilité dans le temps
-  - **Toux chronique**
+  - **Toux spasmodique**
   - **Sibilants, wheezing répétés** voire à l'effort
   - **Dyspnée**
   - Oppression thoracique
@@ -215,6 +229,23 @@ Mesure du DEP pour les personnes perçevant mal leurs symptômes.
 - Étayer un diagnostic différentiel: insuffisance cardiaque, corps étranger, embolie pulmonaire
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Selon le terrain:
+
+- [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
+- [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
+- Bronchite
+- Bronchiolite
+- Rhinite
+- Dilatation des bronches
+- [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
+- Pneumopathie interstitielle
+- [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
+- Obésité
+- Pathologie ostéoarticulaire ou musculaire
+
+{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 ### *Spirométrie* avec *test de réversibilité*
@@ -222,7 +253,7 @@ Mesure du DEP pour les personnes perçevant mal leurs symptômes.
 Répéter 1-3 fois/an (*SPLF 2015*)  
 Répéter au diagnostic pour obtenir une certitude.
 
-Également test au FeNo de 5 à 16 ans en cas d'EFR non concluantes.
+Également test du monoxyde d'azote dans l'air expiré (FeNo) de 5 à 16 ans en cas d'EFR non concluantes.
 
 ### Radiographie thoracique
 
@@ -282,7 +313,7 @@ Confirmer le diagnostic avant de démarrer un traitement (*GINA 2019*), puis ins
 Centre pneumologique spécialisé quand asthme sévère non contrôlé.
 - **Maîtrise de l'asthme**
   - Sevrage tabagique total
-  - Et tout le reste: voir plus haut *Contrôle de l'asthme*
+  - Et toutes les mesures du *Contrôle de l'asthme* (voir partie dédiée plus haut)
 - **{{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous** (voir *Stratégie de traitement de l'asthme selon GINA*)  
 Même si BPCO associée.
 - Toujours disposer de {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} de secours
@@ -291,6 +322,7 @@ Même si BPCO associée.
 - Déconditionnement à l'exercice: réhabilitation respiratoire en SSR
 - Traitements à éviter  
 Bêtabloquants de façon relative, aspirine et AINS.
+- Éducation thérapeutique: les [Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/)
 - Asthme professionnel  
 Déclarer la maladie professionnelle, médecin du travail, reclassement, RQTH.
 - [HAS guide patient: vivre avec un asthme](https://www.has-sante.fr/upload/docs/application/pdf/guide_patient-asthme.pdf)
@@ -301,6 +333,8 @@ Déclarer la maladie professionnelle, médecin du travail, reclassement, RQTH.
 - ALD 14 pour l'enfant si asthme persistant sévère
   - Persistance des symptômes et/ou anomalies EFR
   - Malgré BALA + CSI fortes doses
+- Association de patients  
+[Asthme & Allergies](https://asthme-allergies.org/), locale.
 
 {{%info%}}Les CSI réduisent de façon marquée la fréquence et la gravité des symptômes de l'asthme ainsi que les risques d'exacerbation ou de décès causé par l'asthme (*GINA 2019*){{%/info%}}
 
@@ -361,7 +395,7 @@ Dupilumab SC.
     <li>ou <a data-toggle="modal" href="#modal-ttt-bala-csi">CSI + BALA faible dose</a></li></ul>
   </div>
   <div class="tab-pane fade" id="nav-asthme-stade4" role="tabpanel" aria-labelledby="nav-tab-stade4">
-    <ul><li><a data-toggle="modal" href="#modal-ttt-bala-csii">CSI + formotérol faible dose</a> en traitement de fond ET de secours</li>
+    <ul><li><a data-toggle="modal" href="#modal-ttt-bala-csi">CSI + formotérol faible dose</a> en traitement de fond ET de secours</li>
     <li>ou <a data-toggle="modal" href="#modal-ttt-bala-csi">CSI + BALA dose moyenne</a> + <a data-toggle="modal" href="#modal-ttt-baca">BACA</a> au besoin</li></ul>
   </div>
   <div class="tab-pane fade" id="nav-asthme-stade5" role="tabpanel" aria-labelledby="nav-tab-stade5">
@@ -395,18 +429,31 @@ Maintenir au long cours un {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} 
 {{% /collapse %}}
 {{%collapse "Techniques d'inhalation des bronchodilatateurs" %}}
 
-[À voir ausis: Asthma education videos](https://ginasthma.org/asthma-education-videos/)
+[À voir aussi: Asthma education videos](https://ginasthma.org/asthma-education-videos/)
 
 *Ouvrir chaque vidéo dans un nouvel onglet.* (clic droit > Ouvrir le lien dans un nouvel onglet)
 
 {{< iframe url="https://splf.fr/videos-zephir/" >}}
 
 {{% /collapse %}}
+{{%collapse "Information du patient" %}}
+
+L'asthme est une maladie dont les symptômes sont variables et bien les reconnaître aide à la maîtriser.
+
+### Maladie
+
+- Maladie respiratoire par inflammation bronchique
+
+### Traitements
+
+{{% /collapse %}}
 {{%collapse "Sources" %}}
 
 - [GINA. Global strategy for the asthma management and prevention. 2021.](https://ginasthma.org/reports/)
 - [Gaillard EA. et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5–16 years. Eur Respir J 2021.](https://doi.org/10.1183/13993003.04173-2020)
+- [Collège des enseignants de pneumologie. Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2021.](http://cep.splf.fr/wp-content/uploads/2020/12/item_188_ASTHME-RHINITE_2021_ex_item_1841.pdf)
 - [Santé Publique France. Asthme. 05/10/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/asthme)
+- Prescrire Redaction. Asthme. Premiers choix Prescrire. Juin 2020.
 - [Raherison C. et al. Updated guidelines (2015) for management and monitoring of adult and adolescent asthmatic patients (from 12 years and older) of the Société de pneumologie de langue française (SPLF) (summary). Revue des Maladies Respiratoires. Volume 33, Issue 4. 2016. Pages 271-278. ISSN 0761-8425.](https://splf.fr/wp-content/uploads/2016/11/reco-asthme-re%CC%81sume%CC%81-2016.pdf)
 - [HAS. insuffisance respiratoire chronique grave secondaire à un asthme. Octobre 2006.](https://www.has-sante.fr/upload/docs/application/pdf/07-008_insuf-asthm-guide_sans_lap.pdf)
 - [HAS. Recommandations pour le suivi médical des patients asthmatiques adultes et adolescents. Recommandations de bonne pratique. 01/09/2004.](https://www.has-sante.fr/jcms/c_272363/fr/recommandations-pour-le-suivi-medical-des-patients-asthmatiques-adultes-et-adolescents)
@@ -419,7 +466,7 @@ Maintenir au long cours un {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} 
 {{% /collapse %}}
 {{% modal title="Bêta2-agonistes de courte durée d'action inhalés" id="modal-ttt-baca"%}}
 
-{{< traitements/bdca >}}
+{{< traitements/baca >}}
 
 {{% /modal %}}
 {{% modal title="Corticoïdes inhalés" id="modal-ttt-csi"%}}
