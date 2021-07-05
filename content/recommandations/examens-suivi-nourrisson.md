@@ -6,15 +6,30 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-02T11:57:29+02:00
 publishdate = 2020-06-02
-lastmod = 2021-05-04
+lastmod = 2021-07-05
 specialites = ["pediatrie"]
 annees = "2021"
-sources = ["Ameli"]
+sources = ["Service-public"]
 tags = ["examens obligatoires", "nourrisson", "enfant", "adolescent"]
-qualite = "moyenne"
+image = true
+imageSrc = "Illustration par pch.vector / Freepik"
 draft = false
 +++
 
+{{%collapse "Définitions" %}}
+
+Nouveau-né
+: Période de vie de 0 à 28 jours
+
+Nourrisson
+: Période de 29 jours à 23 mois
+
+Enfant
+: Période de vie de 2 à 18 ans.
+
+> {{< references/calendrier-vaccinal >}}
+
+{{% /collapse %}}
 {{%collapse "Calendrier des 20 examens médicaux" "show" %}}
 
 Examens médicaux de la naissance à 16 ans, réalisés en **tiers payant total sur l'Assurance Maladie Obligatoire** de l'enfant.
@@ -29,29 +44,26 @@ Examens médicaux de la naissance à 16 ans, réalisés en **tiers payant total 
 |------:|:-------------:|:-----------:|
 | 1     | **Dans les 8 premiers jours** | COE (46€) |
 | 2     | 13 ou 14 jours | COD (30€) |
-| 3     | De 14 jours à 1 mois | COD (30€) |
-| 4     | 1 mois | COD (30€) |
-| 5     | 2 mois | COD (30€) |
-| 6     | 3 mois | COD (30€) |
-| 7     | 4 mois | COD (30€) |
-| 8     | 5 mois | COD (30€) |
-| 9     | **8 ou 9 mois** | COE (46€) |
-| 10    | 11 mois | COD (30€) |
-| 11    | 12 mois | COD (30€) |
+| 3     | 1 mois | COD (30€) |
+| 4     | 2 mois | COD (30€) |
+| 5     | 3 mois | COD (30€) |
+| 6     | 4 mois | COD (30€) |
+| 7     | 5 mois | COD (30€) |
+| 8     | 6 mois | COD (30€) |
+| 9     | **9 mois** | COE (46€) |
+| 10    | 12 mois | COD (30€) |
+| 11    | 13 mois | COD (30€) |
 | 12    | 16 à 18 mois | COD (30€) |
-| 13    | **23 ou 24 mois** | COE (46€) |
-| 14    | 2 ans | COD (30€) |
-| 15    | 3 ans | COD (30€) |
-| 16    | 4 ans | COD (30€) |
-| 17    | 5 ans | COD (30€) |
+| 13    | **24 ou 25 mois** | COE (46€) |
+| 14    | 3 ans | COD (30€) |
+| 15    | 4 ans | COD (30€) |
+| 16    | 5 ans | COD (30€) |
+| 17    | 6 ans | COD (30€) |
 | 18    | 8-9 ans | COB (25€) |
 | 19    | 11-13 ans | COB (25€) |
 | 20    | 15-16 ans | COB (25€) |
 {{< /table >}}
 
-{{% /collapse %}}
-{{%collapse "Source" %}}
-
-[Ameli. Les examens de suivi médical de l'enfant et de l'adolescent. 03/01/2021](https://www.ameli.fr/medecin/sante-prevention/enfants-et-adolescents/examens-de-suivi-medical-de-lenfant-et-de-ladolescent/les-examens-de-suivi-medical-de-lenfant-et-de-ladolescent)
+> [Service-public. Visites médicales de l'enfant : examens obligatoires. 21/05/2021](https://www.service-public.fr/particuliers/vosdroits/F967)
 
 {{% /collapse %}}

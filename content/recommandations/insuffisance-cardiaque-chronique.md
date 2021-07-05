@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "simplifier Info patient, signaler college bumétaNide, bilan sortie hospit, apnees sommeil, https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Questionnaire de qualité de vie du Minnesota HAS p.54, https://www.ameli.fr/sites/default/files/Documents/5074/document/evaluation-observance-traitement_assurance-maladie.pdf"
+todo = "simplifier Info patient +++, signaler college bumétaNide, bilan sortie hospit, apnees sommeil, https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Questionnaire de qualité de vie du Minnesota HAS p.54, https://www.ameli.fr/sites/default/files/Documents/5074/document/evaluation-observance-traitement_assurance-maladie.pdf"
 +++
 
 {{%article-summary%}}
@@ -442,7 +442,7 @@ Comprendre les causes de l'IC, les symptômes et l'évolution.
   - Reconnaître les effets indésirables courants de chaque médicament prescrit
 - Modification des facteurs de risque
   - Comprendre l’importance de l’arrêt du tabac
-  - Surveiller la pression artérielle en cas d’HTA
+  - Automesure tensionnelle, fréquence cardiaque
   - Obtenir un bon contrôle de la glycémie en cas de diabète
   - Éviter l’obésité
 - Recommandations diététiques

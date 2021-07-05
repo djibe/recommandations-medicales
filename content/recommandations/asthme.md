@@ -6,7 +6,7 @@ synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-06-21T10:56:00+02:00
 publishdate = 2021-06-29
-lastmod = 2021-06-30
+lastmod = 2021-07-05
 specialites = ["pneumologie"]
 annees = "2019"
 sources = ["GINA", "ERS", "SPLF", "HAS"]
@@ -16,7 +16,7 @@ sctid = "195967001"
 draft = false
 image = true
 imageSrc = "Illustration par brgfx / Freepik"
-todo = "Prescrire, collège, CSI + ARL, revoir Stades GINA, plan d'action, vaccins, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure"
+todo = "Prescrire, CSI + ARL, revoir Stades GINA, plan d'action, vaccins, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique"
 +++
 
 *Version préliminaire: ACT et traitements utilisables en l'état*
@@ -39,8 +39,10 @@ todo = "Prescrire, collège, CSI + ARL, revoir Stades GINA, plan d'action, vacci
 {{%collapse "Définitions" %}}
 
 Asthme
-: Maladie respiratoire chronique par hyperréactivité bronchique, inflammation et obstruction réversible des voies aériennes. Les symptômes sont peu spécifiques (dyspnée, toux, sifflements respiratoires), leur fréquence et leur intensité varie avec le temps.  
+: Maladie respiratoire chronique des voies aériennes par hyperréactivité bronchique, inflammation et obstruction réversible des voies aériennes. Les symptômes sont peu spécifiques (dyspnée, toux, sifflements respiratoires, oppression thoracique), leur fréquence et leur intensité varie avec le temps.  
 Ils sont associés à une variabilité du débit expiratoire de pointe (DEP) par bronchoconstriction, épaississement de la paroi bronchique et production accrue de mucus.
+: L'obstruction est objectivée par l'observation d'un trouble ventilatoire obstructif (TVO) réversible (partiellement ou complètement), à l'état basal ou après un test de provocation bronchique.
+: Les principaux facteurs favorisants et entretenant ces anomalies sont les *infections virales*, les *allergies respiratoires* et les *irritants bronchiques*.
 : 300 millions de malades dans le monde, 4 millions en France (*SPF*) à l'origine de 60.000 séjours hospitaliers et 1000 décès annuels.
 
 Exacerbation d'asthme
@@ -72,12 +74,13 @@ Bannir le terme de << bronchite asthmatiforme >>: il s'agit d'une maladie chroni
 **FeNO:** fraction de monoxyde d’azote mesurée dans un débit de gaz expiré  
 **GINA:** {{%lang%}}Global Initiative for Asthma{{%/lang%}}  
 **ITSL:** immunothérapie par voie sublinguale  
+**TVO:** trouble ventilatoire obstructif  
 **VEMS:** volume expiratoire maximal en une seconde
 
 {{% /collapse %}}
 {{%collapse "Gravité" %}}
 
-### Signes de gravité = asthme aigu grave
+### Signes de défaillance = asthme aigu grave
 
 Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 
@@ -94,6 +97,16 @@ Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 - Épuisement
 
 > *ANAES 2004*
+
+### Signes de lutte
+
+- Parle avec des phrases
+- Préfère la position assise qu'allongée
+- Non agité
+- Augmentation de la fréquence respiratoire
+- Pouls > 100/min
+- SpO<sub>2<sub> < 95%
+- DEP > 50% de la meilleure valeur connue
 
 ### Patients à risque de décès
 
@@ -131,9 +144,10 @@ Revoir la *maîtrise de l'asthme*:
     - Consommation de corticoïdes oraux
     - Plan d'action écrit contre l'asthme
     - Tabagisme
-    - Exposition aux fumées
+    - Exposition aux fumées  
+    Sprays ménagers, fumée de tabac, échappements de véhicules, BTP, peintures, parfums, huiles essentielles.
     - Contrôle des allergènes  
-    Literie avec textiles anti-acariens, éviction tapis-moquettes, animaux en extérieur, contrôle humidité intérieure.
+    Pollens, poussière, literie avec textiles anti-acariens, éviction tapis-moquettes, animaux en extérieur, contrôle de l'humidité intérieure.
     - Confirmation des allergies alimentaires
     - Contrôle de comorbidités  
     Rhinite, sinusite, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), obésité, anxiété, dépression.
@@ -178,9 +192,9 @@ Réévaluer l'efficacité du traitement initial à 2-3 mois.
 
 - Antécédents
   - Allergiques  
-  Pollens, poussières, poils d'animaux, humidité-moisissures, acariens (tapis-moquettes), sulfites, Insectes, substances végétales.
+  Pollens, poussières, poils d'animaux, humidité-moisissures, acariens (tapis-moquettes), sulfites, insectes, substances végétales.
   - Atopiques  
-  Dermatite atopique, rhinite allergique.
+  Dermatite atopique, rhinite allergique (80%).
   - Gaz  
   Sprays ménagers, fumée de tabac, échappements de véhicules, BTP, peintures, parfums, huiles essentielles.
   - Respiratoires  
@@ -196,11 +210,13 @@ Chômage, boulangerie-pâtisserie, industrie alimentaire, coiffure, taxi, ambula
 - Tabac
 - Symptômes des 4 dernières semaines
   - Variabilité en intensité
-  - Variabilité dans le temps
+  - Variabilité dans le temps  
+  Aggravation la nuit ou au petit matin ++
   - **Toux spasmodique**
   - **Sibilants, wheezing répétés** voire à l'effort
-  - **Dyspnée**
+  - **Dyspnée** ou gêne respiratoire
   - Oppression thoracique
+  - Déclenchement par: infections virales, exercice, exposition aux allergènes/irritants, rire, pleurs.
 - Limitation variable du débit expiratoire de pointe  
 {{%class%}}Meilleure des 3 mesures consécutives.{{%/class%}}
 - Diagnostic d'asthme
@@ -239,11 +255,14 @@ Selon le terrain:
 - Bronchiolite
 - Rhinite
 - Dilatation des bronches
+- Mucoviscidose
 - [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
 - Pneumopathie interstitielle
+- Syndrome d'hyperventilation
 - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
 - Obésité
 - Pathologie ostéoarticulaire ou musculaire
+- Dysfonction des cordes vocales
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -321,7 +340,7 @@ Même si BPCO associée.
 - Activité physique quotidienne et traitement adapté si bronchoconstriction d'effort
 - Déconditionnement à l'exercice: réhabilitation respiratoire en SSR
 - Traitements à éviter  
-Bêtabloquants de façon relative, aspirine et AINS.
+Bêtabloquants de façon relative, aspirine et AINS si Hypersensibilité.
 - Éducation thérapeutique: les [Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/)
 - Asthme professionnel  
 Déclarer la maladie professionnelle, médecin du travail, reclassement, RQTH.
@@ -333,6 +352,7 @@ Déclarer la maladie professionnelle, médecin du travail, reclassement, RQTH.
 - ALD 14 pour l'enfant si asthme persistant sévère
   - Persistance des symptômes et/ou anomalies EFR
   - Malgré BALA + CSI fortes doses
+- ALD 14: vaccination antigrippale annuelle et {{< modal-btn modal-vaccin-pneumocoque >}}anti-pneumococcique{{< /modal-btn >}}
 - Association de patients  
 [Asthme & Allergies](https://asthme-allergies.org/), locale.
 
@@ -345,7 +365,8 @@ La prescription dépend uniquement du spécialiste:
 - Modificateurs de leucotriènes  
 Montélukast, pranlukast, zafirlukast, zileuton.
 - Rhinite et allergie aux acariens: immunothérapie par voie sublinguale (ITSL)
-- Omalizumab SC
+- Anticorps anti-IgE  
+Omalizumab SC
 - Anticorps anti-IL5 et IL5R  
 Mépolizumab SC, reslizumab IV, benralizumab SC.
 - Anticorps anti-IL4R  
@@ -442,7 +463,7 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 
 ### Maladie
 
-- Maladie respiratoire par inflammation bronchique
+- Maladie respiratoire par inflammation bronchique entraînant une inflammation anormale des bronches
 
 ### Traitements
 

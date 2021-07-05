@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-18T10:55:00+02:00
 publishdate = 2021-01-18
-lastmod = 2021-01-18
+lastmod = 2021-07-05
 specialites = ["infectiologie"]
 annees = "2020"
 sources = ["HAS", "MinSante"]
@@ -89,24 +89,21 @@ Après 30 ans, dépistage tous les 5 ans avec analyse génétique, dit *test HPV
 
 ### Vaccination
 
-Indications au vaccin HPV:
+Indications au vaccin HPV ([Gardasil 9®](https://ec.europa.eu/health/documents/community-register/2020/20201124149982/anx_149982_fr.pdf), seul recommandé):
 
 - Adolescent de 11 à 14 ans révolus avec 2 doses  
-Schéma: Gardasil 9® à M0 M6-13.  
+**Schéma:** Gardasil 9® à M0 M6-13.  
 Intérêt de co-administrer avec le rappel dTcaPolio.  
 Vaccination des garçons depuis le 1<sup>er</sup> janvier 2021.
-- Rattrapage vaccinal de 15 à 19 ans révolus avec 3 doses  
-Schéma: Gardasil 9® à M0, M2 et M6.  
+- Rattrapage vaccinal de 15 à 19 ans révolus avec 3 doses ou Enfant/Adolescent avec VIH de 11-19 ans  
+Schéma en 3 doses de 11 à 19 ans.  
+**Schéma:** Gardasil 9® à M0, M2 et M6.  
 - Homme ayant des rapports sexuels avec des hommes ([HSH]({{< relref "hsh.md" >}}))  
 Jusqu'à 26 ans révolus avec schéma en 3 doses.  
-Schéma: Gardasil 9® à M0, M2 et M6.
+**Schéma:** Gardasil 9® à M0, M2 et M6.
 - Enfant/Adolescent transplanté ou en attente de transplantation jusqu'à 19 ans avec 3 doses  
 Possible à partir de 9 ans en prévision de transplantation d'organe solide.
-Schéma: Gardasil 9® à M0, M2 et M6.
-- Enfant/Adolescent avec VIH  
-Schéma en 3 doses de 11 à 19 ans.
-
-Spécialité unique recommandée en France: [Gardasil 9®](https://ec.europa.eu/health/documents/community-register/2020/20201124149982/anx_149982_fr.pdf)
+**Schéma:** Gardasil 9® à M0, M2 et M6.
 
 #### Pour en savoir plus: Intérêts de la vaccination
 
