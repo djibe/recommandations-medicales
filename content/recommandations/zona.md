@@ -180,12 +180,12 @@ Hospitalisation pour aciclovir intra-veineux et (méthyl-)prednisolone.
 
 Persistance de douleurs neuropathiques d'un dermatome atteint par un zona.
 
-- Fond douloureux permanent: amitriptyline ([Laroxyl®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65892928&typedoc=R))
+- Fond douloureux permanent: amitriptyline ([Laroxyl®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65892928&typedoc=R))
   - Débuter 12,5 ou 25 mg x 1/j
   - Titration jusqu'à la dose minimale efficace
   - Max 150 mg/j
   - Alternatives: gabapentine, prégabaline (ordonnance sécurisée renouv. max 5x).
-- Paroxysmes hyperalgiques: carbamazépine ([Tegretol® ou gén](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61547468&typedoc=R))
+- Paroxysmes hyperalgiques: carbamazépine ([Tegretol® ou gén](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61547468&typedoc=R))
   - 400-1200 mg/j
 - Morphine
 - Lidocaïne locale

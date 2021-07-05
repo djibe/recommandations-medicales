@@ -89,9 +89,9 @@ Sérologie si antécédent d'ictère, enfance en zone d'endémie ou né avant 19
 
 Possible à partir de 1 an.
 
-- [Avaxim 80®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63777215&typedoc=R)  
+- [Avaxim 80®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63777215&typedoc=R)  
 1 dose avec rappel à 6-36 mois (max 7 ans).
-- [Havrix 720®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60152436&typedoc=R)  
+- [Havrix 720®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60152436&typedoc=R)  
 1 dose avec rappel à 6-12 mois (max 5 ans).
 
 ### Vaccination hépatite A et voyage

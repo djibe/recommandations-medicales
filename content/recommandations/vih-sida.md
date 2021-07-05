@@ -16,7 +16,7 @@ anglais = ["Human immunodeficiency virus infection"]
 sctid = "86406008"
 image = true
 imageSrc = "Photo de NIAID sur Foter.com / CC BY"
-todo = "relecture CNS, TPE et PrEP, https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil, VIHclic, brochure AIDES, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih, depistage DT2, info transmission/guérison, marqueurs CD4/charge virale"
+todo = "relecture CNS, TPE et PrEP, https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih, depistage DT2, info transmission/guérison, https://www.aides.org/sites/default/files/Aides/bloc_telechargement/AIDES_GUIDE%20PREP%20PHARMA_2018_WEB.pdf"
 +++
 
 {{%article-summary%}}

@@ -16,7 +16,7 @@ sctid = "195967001"
 draft = false
 image = true
 imageSrc = "Illustration par brgfx / Freepik"
-todo = "Prescrire, CSI + ARL, revoir Stades GINA, plan d'action, vaccins, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique"
+todo = "GINA 2021 p21, Prescrire, CSI + ARL, revoir Stades GINA, plan d'action, vaccins, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique"
 +++
 
 *Version préliminaire: ACT et traitements utilisables en l'état*
@@ -43,11 +43,12 @@ Asthme
 Ils sont associés à une variabilité du débit expiratoire de pointe (DEP) par bronchoconstriction, épaississement de la paroi bronchique et production accrue de mucus.
 : L'obstruction est objectivée par l'observation d'un trouble ventilatoire obstructif (TVO) réversible (partiellement ou complètement), à l'état basal ou après un test de provocation bronchique.
 : Les principaux facteurs favorisants et entretenant ces anomalies sont les *infections virales*, les *allergies respiratoires* et les *irritants bronchiques*.
+: Dit sévère quand nécessite de fortes doses de {{< modal-btn modal-ttt-bala-csi >}}CSI-BALA{{< /modal-btn >}} (*GINA 2021*)
 : 300 millions de malades dans le monde, 4 millions en France (*SPF*) à l'origine de 60.000 séjours hospitaliers et 1000 décès annuels.
 
 Exacerbation d'asthme
 : Majoration des symptômes respiratoires habituels et de l'obstruction bronchique pendant plus de 48 heures (*SPLF 2015*).  
-Parler de *poussée* avec le patient (*GINA*).
+Parler de *poussée* avec le patient (*GINA 2019*).
 : Dite *sévère* si nécessite des corticoïdes oraux, un passage aux urgences ou une hospitalisation.
 
 Maîtrise de l'asthme
@@ -152,7 +153,7 @@ Revoir la *maîtrise de l'asthme*:
     - Contrôle de comorbidités  
     Rhinite, sinusite, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), obésité, anxiété, dépression.
     - Grossesse  
-    Suivi toutes les 4-6 semaines.
+    Suivi toutes les 4-6 semaines et supplémentation en vitamine D (*GINA 2021*).
     - Problèmes socio-économiques
     - EFR au moins annuelles
 

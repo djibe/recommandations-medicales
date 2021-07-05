@@ -155,7 +155,7 @@ Si le patient appelle au cabinet, transférer l'appel au {{<phone>}}15{{</phone>
 - PAS > 185 mmHg ou PAD > 110 mmHg, ou traitement d'attaque IV nécessaire pour réduire la pression artérielle à ces valeurs seuils.
 - Glycémie inférieure à 50 mg/dL ou supérieure à 400 mg/dL (< 2,8 mmol/l ou > 22,2 mmol/l).
 
-> *[Source BDPM](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67177673&typedoc=R#RcpContreindications)*
+> *[Source BDPM](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67177673&typedoc=R#RcpContreindications)*
 
 {{% /collapse %}}
 {{%collapse "Traitement post-AVC" %}}

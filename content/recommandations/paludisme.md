@@ -119,7 +119,7 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 
 ### Chloroquine
 
-Spécialité: [Nivaquine®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65130778&typedoc=R) (cp, sirop) uniquement.
+Spécialité: [Nivaquine®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65130778&typedoc=R) (cp, sirop) uniquement.
 
 - Patient ≥ 60 kg  
 Chloroquine 100 mg 1 cp par jour
@@ -136,7 +136,7 @@ Contre-indiqué si grossesse ou allaitement.
 
 ### Atovaquone-proguanil
 
-Spécialités: [atovaquone/proguanil gén 250/100 mg](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66395950&typedoc=R) et [atovaquone/proguanil gén 62,5/25 mg](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68303281&typedoc=R), cp uniquement.
+Spécialités: [atovaquone/proguanil gén 250/100 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66395950&typedoc=R) et [atovaquone/proguanil gén 62,5/25 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68303281&typedoc=R), cp uniquement.
 
 - Personne ≥ 40 kg  
 1 cp (250/100 mg) par jour pendant le repas à heure fixe
@@ -155,7 +155,7 @@ La prise en continu est limitée à 3 mois consécutifs.
 
 ### Méfloquine
 
-Spécialité: [Lariam®](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65999556&typedoc=R) (cp sécable) uniquement.
+Spécialité: [Lariam®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65999556&typedoc=R) (cp sécable) uniquement.
 
 - Personne ≥ 45 kg  
 1 cp à 250 mg 1 fois par semaine
@@ -180,7 +180,7 @@ Au mieux 3 semaines avant pour évaluer correctement la tolérance.
 
 Spécialités uniquement si **âge ≥ 8 ans**
 
-- [Doxycycline monohydratée](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63307856&typedoc=R) cp 50/100 mg ou [Doxycycline hyclate](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67061569&typedoc=R) cp 50/100 mg
+- [Doxycycline monohydratée](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63307856&typedoc=R) cp 50/100 mg ou [Doxycycline hyclate](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67061569&typedoc=R) cp 50/100 mg
   - Poids ≥ 40 kg  
   1 cp à 100 mg pendant le dîner
   - Poids < 40 kg  

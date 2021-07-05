@@ -202,7 +202,7 @@ Carbamazépine 100 mg matin, midi et 100 mg LP le soir 30 minutes avant le repas
 Augmentation par paliers de 100 mg matin et soir tous les 2 à 5 jours.
 {{%/info%}}
 
-Débuter: [carbamazépine](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61009918&typedoc=R) (Tegretol® ou autre, non LP de préférence) 200-400 mg/j en 2-3 prises.  
+Débuter: [carbamazépine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61009918&typedoc=R) (Tegretol® ou autre, non LP de préférence) 200-400 mg/j en 2-3 prises.  
 Augmenter jusqu'à suppression de la douleur (max 1600 mg/j) puis obtention de la dose minimale efficace.
 
 - Non LP de préférence sauf au coucher.
@@ -221,7 +221,7 @@ Oxcarbazépine 300 mg matin et soir.
 Augmentation par paliers de 300-600 mg par semaine.
 {{%/info%}}
 
-Débuter: [oxcarbazépine](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60043077&typedoc=R) (Trileptal® ou autre) 300 mg/j x 2/j.  
+Débuter: [oxcarbazépine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60043077&typedoc=R) (Trileptal® ou autre) 300 mg/j x 2/j.  
 Augmenter jusqu'à suppression de la douleur (max 1800 mg/j) puis obtention de la dose minimale efficace.
 
 - Bien mieux tolérée que la carbamazépine (3x moins d'effets indésirables) mais n'a pas l'AMM en France.

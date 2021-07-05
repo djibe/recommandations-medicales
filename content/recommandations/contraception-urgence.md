@@ -83,7 +83,7 @@ Sur prescription de sage-femme ou médecin pour un remboursement à 60%.
 À prendre le plus tôt possible (de préférence dans les 12 heures) et jusqu'à 3 jours suivant le rapport.
 
 {{%info%}}
-[Lévonorgestrel 1,5 mg en 1 prise](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66791234&typedoc=R)  
+[Lévonorgestrel 1,5 mg en 1 prise](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66791234&typedoc=R)  
 AR 1 fois si besoin.
 
 Utiliser le préservatif jusqu'au 1<sup>er</sup> jour des règles suivantes et débuter la contraception efficace à ce moment.  
@@ -108,7 +108,7 @@ Accessible en pharmacie, collège/lycée/université, [planning familial](https:
 
 À prendre le plus tôt possible et jusqu'à 5 jours suivant le rapport, sur ordonnance.
 
-[Ulipristal acétate 30 mg en 1 prise](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62621512&typedoc=R) (Ellaone® ou gén).
+[Ulipristal acétate 30 mg en 1 prise](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62621512&typedoc=R) (Ellaone® ou gén).
 
 Mêmes précautions que pour la PCU (préservatif, contraception, si retard de règles, si vomissements).
 

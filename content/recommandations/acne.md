@@ -121,14 +121,14 @@ Effets indésirables: l'irritation locale peut être prévenue ou limitée par l
 {{%info%}}
 Exemple de prescription
 
-[Adapalène 0,1% crème](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67245747&typedoc=R) (ou gel) (Differine® ou gén).  
+[Adapalène 0,1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67245747&typedoc=R) (ou gel) (Differine® ou gén).  
 1 application le soir sur peau propre pendant 3 mois.  
 Appliquer l'équivalent d'un pois de crème.  
 Efficacité visible en 1 à 2 mois. Tolérance démontrée pendant 6 mois.
 
 OU
 
-[Trétinoïne Effederm® 0,05%](http://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67020138&typedoc=R) (ou Ketrel®, Locacid®) crème ou lotion.  
+[Trétinoïne Effederm® 0,05%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67020138&typedoc=R) (ou Ketrel®, Locacid®) crème ou lotion.  
 1 application le soir pendant 7 jours, puis 2 applications par jour pendant 14 semaines.  
 Puis entretien par 2 à 3 applications par semaine.
 Diminuer à 1 application tous les 2 jours si irritation. Efficacité visible à 6 semaines.
