@@ -63,7 +63,7 @@ title = "Recommandations Médicales"
 [minify]
 
 [markup.goldmark.parser.attribute]
-  block = true
+  block = true # Allow classes on HTML entities
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md
 
@@ -82,3 +82,8 @@ title = "Recommandations Médicales"
     name = "Tags"
     url = "/tags/"
     weight = 3
+  [[menu.main]]
+    identifier = "projet"
+    name = "Projet"
+    url = "/projet/"
+    weight = 4

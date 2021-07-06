@@ -53,11 +53,20 @@
 <script src="{{ .Site.Params.cdn.material_js}}" crossorigin defer></script>
 <script src="https://instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" crossorigin></script>
 
+{{- with .Params.chart }}
+<script src="https://cdn.jsdelivr.net/npm/apexcharts@3.27.1/dist/apexcharts.min.js" integrity="sha256-TURz9bFQSIVTGwKKPjiA24IRBghSEMSvPZvQbGeVYps=" crossorigin async></script>
+<script>
+document.addEventListener( 'DOMContentLoaded', event => {
+  const chart = new ApexCharts(document.querySelector("#chart"), chartOptions)
+  chart.render()
+})
+</script>
+{{- end -}}
+
 {{- with .Params.flowchart }}
 <script src="https://cdn.jsdelivr.net/npm/mermaid@8.11.0/dist/mermaid.min.js" integrity="sha256-sVAx+v/Q7v0Q2xm5vN7h5ccSna6gaLREhG9sF8pKT6I=" crossorigin async></script>
 <script>
   // https://mermaid-js.github.io/mermaid/#/Setup?id=fontfamily
-
   const MermaidConfig = {
     fontFamily: 'Roboto',
     fontSize: '1rem',

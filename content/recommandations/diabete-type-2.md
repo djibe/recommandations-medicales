@@ -13,8 +13,8 @@ sources = ["HAS"]
 tags = ["diabete", "HTA", "insuline", "retinopathie", "nephropathie",  "risque cardiovasculaire", "neuropathie", "obesite", "SAOS", "vaccin"]
 anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Illustration par vectorjuice / Freepik"
 todo = "rythme depistage, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf"
 +++
 
@@ -38,7 +38,7 @@ En effet, **il est inenvisageable de tenter une synthèse pour la prise en soins
 Objectif tensionnel **< 130/80** mmHg (ESC 2019).
 - LDL cible (ESC 2019)  
   - {{< modal-btn modal-statine-intensite >}}&lt; 0,7 g/L{{< /modal-btn >}}
-  - {{< modal-btn modal-statine-intensite >}}&lt; 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-risque-cardiovasculaire-diabete >}}maladie CV, > 20 ans ou ≥ 3 autres FRCV{{< /modal-btn >}}
+  - {{< modal-btn modal-statine-intensite >}}&lt; 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-risque-cardiovasculaire-diabete >}}maladie cardiovasculaire, > 20 ans d'évolution ou ≥ 3 autres FRCV{{< /modal-btn >}}
 - Activité physique  
 **Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense).
 - Cible d'HbA1c  
@@ -47,7 +47,7 @@ Globalement **6,5% voire 7%** (sauf complications avancées)(SFD 2019).
 Négocier une perte de poids (5-10%).
 - Régimé méditerranéen
 
-{{%collapse "Escalade thérapeutique" %}}
+{{%collapse "Escalade thérapeutique" "show" %}}
 
 *Version préliminaire.*
 
