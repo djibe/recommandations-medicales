@@ -3,10 +3,11 @@ title = "Le projet de Recommandations médicales"
 prefix = ""
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-06T09:56:35+02:00"
-publishdate = "2021-07-06"
-lastmod = "2021-07-06"
+publishdate = "2021-07-07"
+lastmod = "2021-07-07"
 draft = true
 chart = true
+todo = "image"
 +++
 
 <div class="w-100 mb-5">
@@ -456,8 +457,8 @@ Or nous ne pouvons pas tout savoir, parce qu'au mieux nous ne retenons que 10% d
 
 ## Parce que nos pratiques n'évoluent pas
 
-La FMC des médecins est obligatoire depuis le 24 avril 1996[^fmc]. Et plusieurs modifications de la loi ont eu lieu depuis.  
-Pourtant, des exemples comme les prescriptions d'antibiotiques ou le contrôle du diabète ne montrent pas de signes d'amélioration à la hauteur du temps de formation consacrée.
+La FMC des médecins est obligatoire depuis le 24 avril 1996[^fmc]. Et plusieurs renforcements de la loi ont eu lieu depuis.  
+Pourtant, des exemples comme les prescriptions d'antibiotiques ou le contrôle du diabète (voir ci-dessous) ne montrent pas de signes d'amélioration à la hauteur du temps de formation consacrée.  
 **Si un schéma ne fonctionne pas, il faut essayer d'autres solutions.**
 
 > [^fmc]: [CN FMCH. L'obligation de formation médicale continue.](https://solidarites-sante.gouv.fr/IMG/pdf/diapos_fmcph.pdf)
@@ -507,9 +508,11 @@ const chartOptions = {
 > <small>DQD: doses quotidiennes définies/1000 hab/j</small>  
 [Santé Publique France. Consommation en ville de tous les antibiotiques à usages systémiques - tous âges. Géodes.](https://geodes.santepubliquefrance.fr/#c=indicator&f=0&i=antibio_conso.ddd_j01&s=2019&t=a01&view=map2)
 
+{{< figure title="Proportion de personnes diabétiques traitées pharmacologiquement ayant bénéficié des examens de suivi recommandés, France entière, 2001, 2007 et 2013. Fosse-Edorh S. 2015" image="/images/photos/suivi-diabete.webp" height="380">}}
+
 ## Parce que le texte ne suffit pas
 
 Initialement sur mon *Drive* personnel, mes fiches se sont heurtées à la complexité de la médecine moderne: des scores, des arbres de décisions qui ne peuvent tenir en texte.  
-Ce défaut est récurrent sur les sites déjà existants, pourtant d'une grande qualité: [Medg.fr](https://www.medg.fr/), ebmfrance, doctofiche, wikimedi.ca...
+Ce défaut est récurrent sur les sites déjà existants, pourtant d'une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net/), [doctofiche](https://doctofiche.fr/), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil)...
 
 Techniquement, il fallait faire simple pour centrer le travail sur contenu, tout en ayant un contenant léger, évolutif, gratuit et Open Source.

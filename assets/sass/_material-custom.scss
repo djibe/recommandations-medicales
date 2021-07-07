@@ -99,74 +99,74 @@ $enable-validation-valid:  false !default; // Apply Success color to valid input
  * Material UI by djibe, Maya, Geoff Bowers and Alex Skinner
  */
 
-@import '../material/assets/scss/colors';
-@import '../material/assets/scss/functions';
-@import '../material/assets/scss/variables';
-@import '../material/assets/scss/mixins';
+@import '../../../material/assets/scss/colors';
+@import '../../../material/assets/scss/functions';
+@import '../../../material/assets/scss/variables';
+@import '../../../material/assets/scss/mixins';
 
 // Base CSS
  
-@import '../material/assets/scss/base/base'; // root + reboot
-@import '../material/assets/scss/base/grid';
-@import '../material/assets/scss/base/typography'; // type
+@import '../../../material/assets/scss/base/base'; // root + reboot
+@import '../../../material/assets/scss/base/grid';
+@import '../../../material/assets/scss/base/typography'; // type
 
 // Bootstrap components
 // Components covered in Bootstrap's css but not in Material design
 
-@import '../material/assets/scss/bootstrap/alert';
-// @import '../material/assets/scss/bootstrap/badge';
-@import '../material/assets/scss/bootstrap/breadcrumb';
-// @import '../material/assets/scss/bootstrap/carousel';
-@import '../material/assets/scss/bootstrap/close';
-// @import '../material/assets/scss/bootstrap/code';
-@import '../material/assets/scss/bootstrap/forms';
-@import '../material/assets/scss/bootstrap/images';
-// @import '../material/assets/scss/bootstrap/jumbotron';
-// @import '../material/assets/scss/bootstrap/media';
-@import '../material/assets/scss/bootstrap/nav';
-// @import '../material/assets/scss/bootstrap/pagination';
-// @import '../material/assets/scss/bootstrap/popover';
-// @import '../material/assets/scss/bootstrap/responsive-embed';
-@import '../material/assets/scss/bootstrap/transitions';
+@import '../../../material/assets/scss/bootstrap/alert';
+// @import '../../../material/assets/scss/bootstrap/badge';
+@import '../../../material/assets/scss/bootstrap/breadcrumb';
+// @import '../../../material/assets/scss/bootstrap/carousel';
+@import '../../../material/assets/scss/bootstrap/close';
+// @import '../../../material/assets/scss/bootstrap/code';
+@import '../../../material/assets/scss/bootstrap/forms';
+@import '../../../material/assets/scss/bootstrap/images';
+// @import '../../../material/assets/scss/bootstrap/jumbotron';
+// @import '../../../material/assets/scss/bootstrap/media';
+@import '../../../material/assets/scss/bootstrap/nav';
+// @import '../../../material/assets/scss/bootstrap/pagination';
+// @import '../../../material/assets/scss/bootstrap/popover';
+// @import '../../../material/assets/scss/bootstrap/responsive-embed';
+@import '../../../material/assets/scss/bootstrap/transitions';
 
 // Material components
 // Components covered in Material design (https://material.google.com/components)
 
-@import '../material/assets/scss/material/buttons';
-@import '../material/assets/scss/material/button-flat';
-@import '../material/assets/scss/material/button-float';
-// @import '../material/assets/scss/material/button-group';
-@import '../material/assets/scss/material/card';
-@import '../material/assets/scss/material/chip';
-// @import '../material/assets/scss/material/dark-theme';
-@import '../material/assets/scss/material/data-table'; // tables
-@import '../material/assets/scss/material/dialog'; // modal
-@import '../material/assets/scss/material/expansion-panel'; // list-group
-@import '../material/assets/scss/material/menu'; // dropdown
-@import '../material/assets/scss/material/navdrawer';
-// @import '../material/assets/scss/material/picker';
-// @import '../material/assets/scss/material/progress';
-// @import '../material/assets/scss/material/progress-circular'; // spinners
-@import '../material/assets/scss/material/selection-control'; // custom-forms
-// @import '../material/assets/scss/material/sliders';
-// @import '../material/assets/scss/material/snackbars';
-// @import '../material/assets/scss/material/stepper';
-@import '../material/assets/scss/material/tab';
-@import '../material/assets/scss/material/text-field';
-@import '../material/assets/scss/material/text-field-box';
-@import '../material/assets/scss/material/text-field-floating-label';
-@import '../material/assets/scss/material/text-field-input-group'; // input-group
-@import '../material/assets/scss/material/toolbar'; // navbar
-@import '../material/assets/scss/material/tooltip';
+@import '../../../material/assets/scss/material/buttons';
+@import '../../../material/assets/scss/material/button-flat';
+@import '../../../material/assets/scss/material/button-float';
+// @import '../../../material/assets/scss/material/button-group';
+@import '../../../material/assets/scss/material/card';
+@import '../../../material/assets/scss/material/chip';
+// @import '../../../material/assets/scss/material/dark-theme';
+@import '../../../material/assets/scss/material/data-table'; // tables
+@import '../../../material/assets/scss/material/dialog'; // modal
+@import '../../../material/assets/scss/material/expansion-panel'; // list-group
+@import '../../../material/assets/scss/material/menu'; // dropdown
+@import '../../../material/assets/scss/material/navdrawer';
+// @import '../../../material/assets/scss/material/picker';
+// @import '../../../material/assets/scss/material/progress';
+// @import '../../../material/assets/scss/material/progress-circular'; // spinners
+@import '../../../material/assets/scss/material/selection-control'; // custom-forms
+// @import '../../../material/assets/scss/material/sliders';
+// @import '../../../material/assets/scss/material/snackbars';
+// @import '../../../material/assets/scss/material/stepper';
+@import '../../../material/assets/scss/material/tab';
+@import '../../../material/assets/scss/material/text-field';
+@import '../../../material/assets/scss/material/text-field-box';
+@import '../../../material/assets/scss/material/text-field-floating-label';
+@import '../../../material/assets/scss/material/text-field-input-group'; // input-group
+@import '../../../material/assets/scss/material/toolbar'; // navbar
+@import '../../../material/assets/scss/material/tooltip';
 
 // Utilities
 
-@import '../material/assets/scss/utilities';
+@import '../../../material/assets/scss/utilities';
 
 // Very basic print styles
 
-@import '../material/assets/scss/print';
+@import '../../../material/assets/scss/print';
 
 // Slider plugin
 
-@import '../material/assets/scss/plugins/ion-rangeslider';
+@import '../../../material/assets/scss/plugins/ion-rangeslider';

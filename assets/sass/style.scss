@@ -20,7 +20,7 @@ h2,
 .typography-subtitle-1,
 .typography-subtitle-2,
 .card-title {
-  font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif;
+  // font-family: Roboto,system-ui,-apple-system,"Segoe UI","Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif;
   letter-spacing: normal;
 }
 
@@ -49,7 +49,7 @@ h4 {
   }
 
   h2 {
-    font-size: 2rem;
+    font-size: 1.75rem;
     font-weight: 300;
   }
 
@@ -77,15 +77,18 @@ abbr {
 main {
   display: flex;
   min-height: 100%;
+  padding-bottom: 64px;
 
   > .container-lg,
-  > .recommandation {
+  > .recommandation,
+  > .projet {
     padding-top: 64px;
   }
 
   @media (min-width: 1024px){
     & > .container-lg,
-    & > .recommandation {
+    & > .recommandation,
+    & > .projet {
       padding-top: 56px;
     }
   }
@@ -160,7 +163,7 @@ a[href^='http']:not([class])::after {
   h3,
   p {
     color: #757575;
-    font-family: var(--font-family-sans-serif);
+    // font-family: var(--font-family-sans-serif);
     font-weight: 400;
     line-height: 1.25;
   }
@@ -350,7 +353,7 @@ article {
       margin: 0 0 1rem;
       padding: 0;
 
-      font-family: inherit;
+      // font-family: inherit;
       font-size: .75rem;
       font-weight: 500;
       letter-spacing: .166667em;
@@ -365,6 +368,35 @@ article {
 
   .alert li {
     color: #424242;
+  }
+}
+
+.projet .offset-xl-2 {
+  margin-left: auto;
+}
+
+.projet__content {
+  max-width: 80ch;
+
+  h2 {
+    letter-spacing: -.0083333333em;
+    margin: 48px 0 24px;
+  }
+
+  .lead {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .projet__content {
+    h2 {
+      font-size: 1.75rem;
+    }
+
+    p {
+      font-size: 18px;
+    }
   }
 }
 
@@ -459,7 +491,7 @@ div.data-table {
 
 .text-404 {
   color: #ffffff;
-  font-family: Roboto, sans-serif;
+  // font-family: Roboto, sans-serif;
   font-size: 6rem;
   font-weight: 700;
   line-height: 1;
