@@ -6,9 +6,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-14T15:52:41+02:00
 publishdate = 2020-10-14
-lastmod = 2020-10-14
+lastmod = 2021-07-08
 specialites = ["infectiologie"]
-annees = "2020"
+annees = "2021"
 sources = ["MinSante", "HCSP"]
 tags = ["prevention", "vaccin"]
 anglais = []
@@ -18,7 +18,7 @@ draft = false
 
 {{%article-summary%}}
 
-TODO
+- [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -33,7 +33,7 @@ Rattrapage vaccinal
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal" "show" %}}
 
-{{< table title="Calendrier vaccinal 2020 (Ministère de la Santé)" >}}
+{{< table title="Calendrier vaccinal 2021 (Ministère de la Santé)" >}}
 | Âge     | Valences      | Spécialités équivalentes       |
 |:-------:|---------------|--------------------------------|
 | 2 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
@@ -54,7 +54,7 @@ Rattrapage vaccinal
 {{% /collapse %}}
 {{%collapse "Schémas de rattrapage" %}}
 
-{{< table title="Âges limites du rattrapage vaccinal 2020" >}}
+{{< table title="Âges limites du rattrapage vaccinal 2021" >}}
 | Germe        | Âge limite de rattrapage |
 |--------------|:------------------------:|
 | Haemophilus  | 5 ans                 |

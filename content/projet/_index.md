@@ -4,8 +4,8 @@ prefix = ""
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-06T09:56:35+02:00"
 publishdate = "2021-07-07"
-lastmod = "2021-07-07"
-draft = true
+lastmod = "2021-07-09"
+draft = false
 chart = true
 todo = "image"
 +++
@@ -441,29 +441,36 @@ todo = "image"
 </div>
 
 *Recommandations médicales* est né de la nécessité d'obtenir rapidement les éléments de référence pour des prises en charge de qualité au cours de mes consultations de médecine générale.  
-Voici, rapidement, les constats qui m'ont obligé à me lancer à temps plein dans ce projet.
+Voici, rapidement, les constats qui m'ont conduit à travailler à temps plein sur ce projet.
 {.lead}
 
 ## Parce que l'information est cachée
 
-L'**État de l'art** est dispersé sur internet (HAS, sociétés savantes...), dans des PDF à rallonge (facilement 80 pages). Il n'est pas adaptés aux soins primaires, quand il n'est pas tout simplement piégé par des éditeurs (Elsevier...), à 30€ l'article. De plus, il évolue très vite.  
-**Au final, le progrès ne diffuse pas jusqu'aux médecins.**
+L'**État de l'art** est dispersé sur internet (HAS, sociétés savantes...), dans des documents trop longs. Il n'est pas adapté aux soins primaires, quand il n'est pas tout simplement détenu par des éditeurs (Elsevier...), à 30€ l'article. De plus, le rythme des publications est rapide.
+
+**Au final, le progrès n'atteint pas les médecins.**
 
 ## Parce que c'est humainement impossible
 
-L'essence de la médecine générale est d'être exposé à tout motif de consultation, qui sont en réalité une succession d'évènements rares.  
-Or nous ne pouvons pas tout savoir, parce qu'au mieux nous ne retenons que 10% de ce que nous apprenons. Comment réaliser le bon bilan devant un évènement nouveau ?  
-**L'accès à l'information doit être possible pendant la consultation.**
+Le médecin généraliste est le premier intervenant de la grande majorité des soins. Il est donc exposé à tous les motifs de consultation, sans avoir les ressources nécessaires pour offrir un premier bilan optimal.  
+De plus, nous ne pouvons pas tout savoir, parce qu'au mieux nous ne retenons que 10% de ce que nous apprenons. Seul un assistant informationnel permettrait de résoudre ce dilemme.
+
+**L'information doit être accessible rapidement pendant la consultation.**
 
 ## Parce que nos pratiques n'évoluent pas
 
-La FMC des médecins est obligatoire depuis le 24 avril 1996[^fmc]. Et plusieurs renforcements de la loi ont eu lieu depuis.  
-Pourtant, des exemples comme les prescriptions d'antibiotiques ou le contrôle du diabète (voir ci-dessous) ne montrent pas de signes d'amélioration à la hauteur du temps de formation consacrée.  
+La FMC des médecins est obligatoire depuis le 24 avril 1996[^fmc], et plusieurs renforcements de la loi ont eu lieu depuis.  
+Pourtant, des exemples comme les *prescriptions d'antibiotiques* ou le *suivi du diabète* (voir ci-dessous) ne montrent pas de signes d'amélioration à la hauteur du temps de formation consacré.
+
 **Si un schéma ne fonctionne pas, il faut essayer d'autres solutions.**
 
 > [^fmc]: [CN FMCH. L'obligation de formation médicale continue.](https://solidarites-sante.gouv.fr/IMG/pdf/diapos_fmcph.pdf)
 
-<div id="chart"></div>
+<figure class="figure mb-4">
+  <div id="chart"></div>
+  <figcaption><b>DQD:</b> doses quotidiennes définies/1000 hab/j<br>
+  <b>Figure.</b><a href="https://geodes.santepubliquefrance.fr/#c=indicator&f=0&i=antibio_conso.ddd_j01&s=2019&t=a01&view=map2"> Santé Publique France. Consommation en ville de tous les antibiotiques à usages systémiques - tous âges. Géodes.</a></figcaption>
+</figure>
 
 <script>
 const chartOptions = {
@@ -475,23 +482,15 @@ const chartOptions = {
     fontFamily: 'Roboto, sans-serif',
     height: 192,
     type: 'line',
-    zoom: {
-     enabled: false
-    }
+    zoom: { enabled: false }
   },
-  markers: {
-    size: 4,
-  },
-  stroke: {
-   curve: 'smooth'
-  },
+  markers: { size: 4 },
+  stroke: { curve: 'smooth' },
   title: {
    text: 'Consommation en ville de tous les antibiotiques à usage systémique',
    align: 'left'
   },
-  grid: {
-    show: false
-  },
+  grid: { show: false },
   xaxis: {
    categories: ['2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019'],
   },
@@ -505,14 +504,16 @@ const chartOptions = {
 }
 </script>
 
-> <small>DQD: doses quotidiennes définies/1000 hab/j</small>  
-[Santé Publique France. Consommation en ville de tous les antibiotiques à usages systémiques - tous âges. Géodes.](https://geodes.santepubliquefrance.fr/#c=indicator&f=0&i=antibio_conso.ddd_j01&s=2019&t=a01&view=map2)
-
 {{< figure title="Proportion de personnes diabétiques traitées pharmacologiquement ayant bénéficié des examens de suivi recommandés, France entière, 2001, 2007 et 2013. Fosse-Edorh S. 2015" image="/images/photos/suivi-diabete.webp" height="380">}}
 
 ## Parce que le texte ne suffit pas
 
-Initialement sur mon *Drive* personnel, mes fiches se sont heurtées à la complexité de la médecine moderne: des scores, des arbres de décisions qui ne peuvent tenir en texte.  
-Ce défaut est récurrent sur les sites déjà existants, pourtant d'une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net/), [doctofiche](https://doctofiche.fr/), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil)...
+Initialement sur mon stockage personnel, mes fiches textes ne me permettaient pas de répondre à la complexité croissante de la médecine moderne: des scores, des arbres de décisions qui ne peuvent tenir avec des mots.  
+Ce défaut est récurrent sur les sites déjà existants, pourtant d'une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net/), [doctofiche](https://doctofiche.fr/), [HEYDoctor](https://wiki.heydoctor.fr/fr/index), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil)...
 
-Techniquement, il fallait faire simple pour centrer le travail sur contenu, tout en ayant un contenant léger, évolutif, gratuit et Open Source.
+**Cette plateforme offre la démonstration technologique d'un outil simple, gratuit et Open Source afin que l'effort fourni soit entièrement dédié à la création de contenu didactique.**
+
+Je vous remercie pour votre attention,
+{.mt-5}
+
+Dr Jean-Baptiste FRON

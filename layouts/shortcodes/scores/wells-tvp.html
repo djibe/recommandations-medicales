@@ -7,10 +7,10 @@
     <li class="nav-item">
       <a aria-controls="grossesse" aria-selected="false" class="nav-link" data-toggle="tab" href="#grossesse-tab" id="grossesse" role="tab">Grossesse</a></li>
   </ul>
-  <div class="card-body tab-content" id="score-clinique-tvp">
+  <div class="tab-content" id="score-clinique-tvp">
     <div aria-labelledby="wells" class="tab-pane fade show active" id="wells-tab" role="tabpanel">
-      <h4 class="card-title mb-lg-4">Score de Wells modifié</h4>
-      <div class="form-group">
+      <div class="card-body">
+        <h4 class="card-title mt-2 mb-lg-4">Score de Wells modifié</h4>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="wells1" class="custom-control-input" value="1">
           <label class="custom-control-label" for="wells1">Cancer actif</label>
@@ -54,7 +54,7 @@
           <label class="custom-control-label" for="wells10">Alternative diagnostique au moins aussi probable que celui de TVP</label>
         </div>
       </div>
-      <div class="alert bg-light d-flex mt-md-4">
+      <div class="alert bg-light d-flex mt-md-4 mb-0">
         <div class="d-flex flex-column align-items-center">
           <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score de Wells</p>
           <span class="font-weight-bold" id="wellsScore" style="font-size:2rem">0</span>
@@ -63,8 +63,8 @@
       </div>
     </div>
     <div aria-labelledby="constans" class="tab-pane fade" id="constans-tab" role="tabpanel">
-      <h4 class="card-title mb-lg-4">Score de Constans</h4>
-      <div class="form-group">
+      <div class="card-body">
+      <h4 class="card-title mt-2 mb-lg-4">Score de Constans</h4>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="constans1" class="custom-control-input" value="1">
           <label class="custom-control-label" for="constans1">Homme</label>
@@ -90,7 +90,7 @@
           <label class="custom-control-label" for="constans6">Autre diagnostic au moins aussi plausible</label>
         </div>
       </div>
-      <div class="alert bg-light d-flex mt-md-4">
+      <div class="alert bg-light d-flex mt-md-4 mb-0">
         <div class="d-flex flex-column align-items-center">
           <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score de Constans</p>
           <span class="font-weight-bold" id="constansScore" style="font-size:2rem">0</span>
@@ -99,8 +99,8 @@
       </div>
     </div>
     <div aria-labelledby="grossesse" class="tab-pane fade" id="grossesse-tab" role="tabpanel">
-      <h4 class="card-title mb-lg-4">Score LEFt pendant la grossesse</h4>
-      <div class="form-group">
+      <div class="card-body">
+      <h4 class="card-title mt-2 mb-lg-4">Score LEFt pendant la grossesse</h4>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="left1" class="custom-control-input" value="1">
           <label class="custom-control-label" for="left1">Symptômes au MI gauche</label>
@@ -114,7 +114,7 @@
           <label class="custom-control-label" for="left3">Premier trimestre de grossesse</label>
         </div>
       </div>
-      <div class="alert bg-light d-flex mt-md-4">
+      <div class="alert bg-light d-flex mt-md-4 mb-0">
         <div class="d-flex flex-column align-items-center">
           <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score LEFt</p>
           <span class="font-weight-bold" id="leftScore" style="font-size:2rem">0</span>
@@ -135,6 +135,8 @@
     const textLeft = document.getElementById('leftText')
     const radioElems = document.querySelectorAll('#score-clinique-tvp input[type=\"checkbox\"]')
     const panels = document.querySelectorAll('.nav-tabs .nav-link')
+    const textDefault = '<b>Probabilité faible</b><br>Doser les D-dimères'
+    const textFort = '<b>Probabilité forte</b><br>Écho-doppler veineux<br>Anticoagulation immédiate'
     radioElems.forEach((radioElem) => { radioElem.addEventListener('click', () => {
       wells()
       constans()
@@ -149,11 +151,11 @@
       radioElems.forEach(radio => {
         radio.checked = false
         scoreElem.innerHTML = 0
-        textElem.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+        textElem.innerHTML = textDefault
         scoreConstans.innerHTML = 0
-        textConstans.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+        textConstans.innerHTML = textDefault
         scoreLeft.innerHTML = 0
-        textLeft.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+        textLeft.innerHTML = textDefault
       })
     }
     const wells = () => {
@@ -163,14 +165,14 @@
         score += parseInt(radioChecked.value, 10)
         scoreElem.innerHTML = score
         if (score <= 1) {
-          textElem.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+          textElem.innerHTML = textDefault
         } else if (score >= 2) {
-          textElem.innerHTML = '<b>Probabilité forte</b><br>Écho-doppler veineux<br>Anticoagulation immédiate'
+          textElem.innerHTML = textFort
         }
       })
       if (radioElemsChecked.length === 0) {
         scoreElem.innerHTML = 0
-        textElem.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+        textElem.innerHTML = textDefault
       }
     }
     const constans = () => {
@@ -180,16 +182,16 @@
         score += parseInt(radioChecked.value, 10)
         scoreConstans.innerHTML = score
         if (score <= 0) {
-          textConstans.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+          textConstans.innerHTML = textDefault
         } else if (score >= 1 && score < 3) {
           textConstans.innerHTML = '<b>Probabilité intermédiaire</b><br>Doser les D-dimères'
         } else if (score >= 3) {
-          textConstans.innerHTML = '<b>Probabilité forte</b><br>Écho-doppler veineux<br>Anticoagulation immédiate'
+          textConstans.innerHTML = textFort
         }
         })
       if (radioElemsChecked.length === 0) {
         scoreConstans.innerHTML = 0
-        textConstans.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+        textConstans.innerHTML = textDefault
       }
     }
     const left = () => {
@@ -199,14 +201,14 @@
         score += parseInt(radioChecked.value, 10)
         scoreLeft.innerHTML = score
         if (score === 0) {
-          textLeft.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+          textLeft.innerHTML = textDefault
         } else if (score >= 1) {
-          textLeft.innerHTML = '<b>Probabilité forte</b><br>Écho-doppler veineux<br>Anticoagulation immédiate'
+          textLeft.innerHTML = textFort
         }
         })
       if (radioElemsChecked.length === 0) {
         scoreLeft.innerHTML = 0
-        textLeft.innerHTML = '<b>Probabilité faible</b><br>Doser les D-dimères'
+        textLeft.innerHTML = textDefault
       }
     }
   })` }}

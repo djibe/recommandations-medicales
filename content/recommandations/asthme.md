@@ -451,7 +451,7 @@ Maintenir au long cours un {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} 
 {{% /collapse %}}
 {{%collapse "Techniques d'inhalation des bronchodilatateurs" %}}
 
-[À voir aussi: Asthma education videos](https://ginasthma.org/asthma-education-videos/)
+[Asthma education videos](https://ginasthma.org/asthma-education-videos/)
 
 *Ouvrir chaque vidéo dans un nouvel onglet.* (clic droit > Ouvrir le lien dans un nouvel onglet)
 
@@ -459,6 +459,8 @@ Maintenir au long cours un {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} 
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
+
+[Ameli. Comprendre ma maladie & bien utiliser mon dispositif d'inhalation](https://www.ameli.fr/sites/default/files/Documents/5358/document/asthme-bien-utiliser-dispositif-inhalation_assurance-maladie.pdf)
 
 L'asthme est une maladie dont les symptômes sont variables et bien les reconnaître aide à la maîtriser.
 

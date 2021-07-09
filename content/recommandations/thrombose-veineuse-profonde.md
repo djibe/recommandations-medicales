@@ -24,7 +24,7 @@ Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'
 
 {{%article-summary%}}
 
-- En l'absence de dyspnée, malaise, tachycardie et douleur thoracique, sinon voir *Embolie pulmonaire*
+- En l'absence de dyspnée, malaise, tachycardie et douleur thoracique, sinon voir *[Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})*
 - Score clinique systématique et D-dimères ou écho-doppler veineux selon le résultat
 - Thrombose veineuse superficielle, voir la fiche dédiée (*en cours*).
 

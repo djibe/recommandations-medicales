@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-06-18T16:20:00+02:00
 publishdate = 2021-06-19
-lastmod = 2021-06-23
+lastmod = 2021-07-08
 specialites = ["neurologie"]
 annees = "2014"
 sources = ["SFEMC"]
@@ -103,7 +103,7 @@ Dérivés nitrés, sildénafil.
   - Périorbitaire et/ou temporale
   - Intensité sévère à très sévère  
   {{%class%}}Décrite comme un pieu ou un fer rouge enfoncé dans l'œil.{{%/class%}}
-  - **Durée 15 à 180 minutes**  
+  - **Durée 15 min à 3 heures**  
   {{%class%}}Durée minimale moyenne: 1h10, durée max moyenne: 2h40 min{{%/class%}}
   - Quotidiennes voire pluri-quotidiennes (4-5/j)
   - Entraînant une agitation motrice (> 3/4)
@@ -208,16 +208,18 @@ Objectif: disparition ou persistance de céphalée légère à 15 ou 30 minutes.
 - Notamment si crise > 45 minutes ou ne tolérant pas le sumatriptan SC
 - **Effet indésirable:** goût amer
 
-> Zolmitriptan spray nasal 5 ou 10 mg non disponible en France.
+**NB.** Zolmitriptan spray nasal 5-10 mg non disponibles en France.
 
 ### Oxygénothérapie
 
-Prescription (initiale et renouvellement) réservée à un neurologue, ORL ou centre de la douleur.
+{{%info%}}Prescription (initiale et renouvellement) réservée à un neurologue, ORL ou centre de la douleur.{{%/info%}}
 
 Normobare au masque haute concentration 12-15 L/min pendant 15-20 minutes.
 
 Traiter ≥ 3 crises à 12-15 L/min pendant 30 minutes avant de conclure à son inefficacité.  
 *Effet rebond* possible.
+
+> [Modèle de prescription](http://www.urps-pharmaciens-paca.fr/wp-content/uploads/2016/03/Algie-Vasculaires-de-la-Face-AVF-%E2%80%93-Neurologue-ORL-ou-Structure-de-PEC-de-la-douleu.pdf), [Journal Officiel](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000030367524) et [forfaits de l'AM OAVF 4.28 et 4.29](http://www.codage.ext.cnamts.fr/cgi/tips/cgi-fiche?p_code_tips=1135392&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
 
 ### Pour en savoir plus: autres traitements de la crise
 
@@ -236,21 +238,25 @@ Traitements spécialisés:
 
 Indication au traitement de fond: épisodique avec période douloureuse > 2 semaines ou forme chronique.
 
+- Demander une ALD 31 (*à vérifier*)
 - Arrêt du tabac
 - Éviction de l'alcool, cannabis et cocaïne
 - Traitement transitionnel si besoin le temps de la titration (voir *Traitement de la crise*)
+- Association de patients  
+[AFCAVF](http://www.afcavf.org/index/page/id/accueil)
 
 ### Vérapamil
 
 - Prescription spécialisée
-- Débuter dès le début de la période douloureuse: vérapamil 120 mg x 2/j
-- Augmentation de 120 mg tous les 2-7 jours jusqu'à 480 mg (max 720 mg ou plus en forme chronique)
+- Débuter dès le début de la période douloureuse  
+**Vérapamil 120 mg x 2/j**
+- Augmentation de *120 mg tous les 2-7 jours* jusqu'à *480 mg* (max 720 mg ou plus en forme chronique)
 - Poursuivre la durée du cycle antérieur et jusqu'à ≥ 2 semaines après la dernière crise
 - Puis réduction de 120 mg tous les 15 jours jusqu'à l'arrêt
 - En cas de résurgence pendant la décroissance: repasser à la posologie précédente
-- Surveillance ECG initiale, puis tous les 6 mois ou chaque augmentation de dose
+- Surveillance *ECG* initiale, puis tous les 6 mois ou chaque augmentation de dose
 
-Voire lithium.
+Voire *lithium*.
 
 ### Autres traitements des formes réfractaires
 
@@ -274,8 +280,12 @@ graph TB
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
-- [Donnet A. et al. Recommandations pour le diagnostic et le traitement de l'algie vasculaire de la face](https://dx.doi.org/10.1016/j.neurol.2014.03.016)
+[**NB.** Demande d'ALD sans réponse du gouvernement](https://questions.assemblee-nationale.fr/q15/15-4922QE.htm)
+
+- [Collège des enseignants de neurologie. Paralysie faciale.](https://www.cen-neurologie.fr/deuxieme-cycle/paralysie-faciale)
+- [Donnet A. et al. Recommandations pour le diagnostic et le traitement de l'algie vasculaire de la face](https://www.sf-neuro.org/files/files/Recommandations%20pour%20le%20diagnostic%20et%20le%20traitement%20de%20l%2527algie%20vasculaire%20de%20la%20face%20(3).pdf)
 - [Wilbrink LA et al. Stepwise web-based questionnaires for diagnosing cluster headache: LUCA and QATCH. Cephalalgia. 2013;33(11):924-931.](https://doi.org/10.1177%2F0333102413479835)
 - Prescrire Redaction. Algie vasculaire de la face, en bref. Janvier 2012.
+- [CiSMeF. Algie vasculaire de la face](https://www.cismef.org/page/algie-vasculaire-de-la-face)
 
 {{% /collapse %}}
