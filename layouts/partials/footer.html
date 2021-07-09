@@ -51,10 +51,10 @@
 <script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin></script>
 <script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin></script>
 <script src="{{ .Site.Params.cdn.material_js}}" crossorigin defer></script>
-<script src="https://instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" crossorigin></script>
+<script src="https://instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
 
 {{- with .Params.chart }}
-<script src="https://cdn.jsdelivr.net/npm/apexcharts@3.27.1/dist/apexcharts.min.js" integrity="sha256-TURz9bFQSIVTGwKKPjiA24IRBghSEMSvPZvQbGeVYps=" crossorigin async></script>
+<script src="https://cdn.jsdelivr.net/npm/apexcharts@3.27.2/dist/apexcharts.min.js" integrity="sha256-yUVRp0kQO+IZ1jyn5vKrhRgeA1uQbPBbFoDX93BjjkI=" crossorigin async></script>
 <script>
 document.addEventListener( 'DOMContentLoaded', event => {
   const chart = new ApexCharts(document.querySelector("#chart"), chartOptions)
