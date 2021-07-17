@@ -1,4 +1,4 @@
 <figure class="figure">
-  {{ if .Get "image" }}<a href="{{ .Get "image" }}" target="_blank"><img class="img-fluid" src="{{ .Get "image" }}" {{ with .Get "height" }}style="height:{{.}}px"{{end}}{{ with .Get "title" }}alt="{{.}}"{{end}}></a>{{end}}
+  {{ if .Get "image" }}<a href="{{ .Get "image" }}" target="_blank"><img class="figure-img img-fluid" src="{{ .Get "image" }}" {{ with .Get "height" }}style="height:{{.}}px"{{end}}{{ with .Get "title" }}alt="{{.}}"{{end}}></a>{{end}}
   {{ with .Get "title" }}<figcaption><b>Figure.</b> {{ . }}.</figcaption>{{end}}
 </figure>

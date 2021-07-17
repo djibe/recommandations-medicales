@@ -310,6 +310,10 @@ select {
   word-wrap: normal;
 }
 
+ select[size] {
+  overflow: auto;
+}
+
 button,
 [type='button'],
 [type='reset'],
@@ -543,6 +547,9 @@ summary {
   }
   .offset-xl-1 {
     margin-left: 8.333333%;
+  }
+  .offset-xl-2 {
+    margin-left: 16.666667%;
   }
 }
 
@@ -1233,13 +1240,13 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   width: auto;
 }
 
-
+.btn-float-extended i,
 .btn-float-extended svg {
   margin-right: 0.75rem;
   margin-left: -0.5rem;
 }
 
-
+.btn-float-extended i[class*='order-'],
 .btn-float-extended svg[class*='order-'] {
   margin-right: -0.5rem;
   margin-left: 0.75rem;
@@ -2412,6 +2419,11 @@ input:disabled + .chip {
   pointer-events: none;
 }
 
+.dropdown-item > i {
+  margin-right: 1.25rem;
+  margin-left: 0.5rem;
+}
+
 .dropdown-item-text {
   color: rgba(0, 0, 0, 0.87);
   display: block;
@@ -2789,6 +2801,10 @@ input:disabled + .chip {
   height: 4.5rem;
 }
 
+.nav-tabs .nav-link.flex-column i {
+  margin: .75rem 0 -3px;
+}
+
 .nav-tabs .nav-link.active {
   color: #e87500;
 }
@@ -2801,6 +2817,10 @@ input:disabled + .chip {
   background-color: transparent;
   color: rgba(0, 0, 0, 0.38);
   opacity: 1;
+}
+
+.nav-tabs .nav-link i {
+  margin-right: 0.5rem;
 }
 
 .nav-tabs .nav-item.show .nav-link {
@@ -2940,7 +2960,11 @@ select.form-control {
   transition: background-image 180ms;
 }
 
- textarea.form-control:not([rows='1']) {
+ select.form-control[size]:not([size='1']) {
+  background-image: none;
+}
+
+ select.form-control[size]:not([size='1']), textarea.form-control:not([rows='1']) {
   background-image: none !important;
   border-color: rgba(0, 0, 0, 0.24);
   border-radius: 0;
@@ -2949,13 +2973,17 @@ select.form-control {
   padding: calc(1rem - 1px) 1rem;
 }
 
- textarea.form-control:hover:not([rows='1']) {
+ select.form-control:hover[size]:not([size='1']), textarea.form-control:hover:not([rows='1']) {
   border-color: rgba(0, 0, 0, 0.87);
 }
 
- textarea.form-control:focus:not([rows='1']) {
+ select.form-control:focus[size]:not([size='1']), textarea.form-control:focus:not([rows='1']) {
   border-color: #e87500;
   box-shadow: inset 2px 2px 0 -1px #e87500, inset -2px -2px 0 -1px #e87500;
+}
+
+ select.form-control[size]:not([size='1']) {
+  padding: 0.5rem 0;
 }
 
 select.form-control:focus {
@@ -3603,6 +3631,9 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 }
 
 @media (min-width: 768px) {
+  .d-md-none {
+    display: none !important;
+  }
   .d-md-block {
     display: block !important;
   }

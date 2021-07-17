@@ -2,36 +2,45 @@
 title = "{{ replace .Name '-' ' ' | title }}"
 prefix = "la "
 shortname = ""
-synonyms = [""]
+synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "{{ .Date }}"
 publishdate = "{{ now.Format "2006-01-02" }}"
 lastmod = "{{ now.Format "2006-01-02" }}"
-draft = true
 specialites = ["endocrinologie"]
 annees = "2020"
-source-recommandations = ["Society1", "Society2"]
+sources = ["Society1", "Society2"]
 tags = ["tag 1"]
+anglais = ["MSM"]
+sctid = "76102007"
+draft = true
+image = false
+imageSrc = ""
+todo = ""
 +++
-
-{{%class "text-muted" %}}Texte à griser{{%/class%}}
 
 {{%article-summary%}}
 
-- À compléter.
+
 
 {{%/article-summary%}}
-
 {{%collapse "Définition" %}}
 
-Definition ...
 
-{{%/collapse%}}
 
-{{%collapse "Clinique" %}}
+{{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
 
-Clinique ...
 
-{{%/collapse%}}
+{{% /collapse %}}
+{{%collapse "Prévention" %}}
 
-CONTENT
+
+{{% /collapse %}}
+{{%collapse "Sources" %}}
+
+
+
+{{% /collapse %}}
+
+≤≥±®œŒ³ÂSpO<sub>2</sub>
