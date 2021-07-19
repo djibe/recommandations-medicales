@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité physique bassin, contraceptions, information de la patiente, quid bilan IST/salpingite ?"
+todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité physique bassin, contraceptions, information de la patiente, quid bilan IST/salpingite ?, app Luna"
 +++
 
 {{%article-summary%}}

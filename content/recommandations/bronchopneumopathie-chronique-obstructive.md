@@ -510,7 +510,7 @@ Anémie, asthme, cancer, [insuffisance cardiaque]({{< relref "insuffisance-cardi
 {{% /collapse %}}
 {{%collapse "Information du patient BPCO" %}}
 
-[Carnet de suivi en ligne de la BPCO par la SPLF](http://www.carnet-bpco.fr/)  
+[Carnet de suivi en ligne de la BPCO par la SPLF](https://www.carnet-bpco.fr/)  
 [Carnet de suivi à imprimer de la BPCO par la SPLF](https://splf.fr/wp-content/uploads/2016/03/Carnet-de-suivi_BPCO-SPLF-r-ouvert.pdf)
 
 - Explication de la BPCO: l’acronyme, la maladie et ses symptômes

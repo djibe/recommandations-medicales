@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
 publishdate = 2021-06-03
-lastmod = 2021-06-07
+lastmod = 2021-07-19
 specialites = ["cardiologie"]
 annees = "2016"
 sources = ["ESC", "HAS"]
@@ -250,7 +250,7 @@ Tachycardie persistante sous BB dose maximale.
 Antigrippale annuelle et {{< modal-btn modal-pneumocoque >}}anti-pneumococcique{{< /modal-btn >}}/5 ans.
 - Mesures hygiéno-diététiques
   - Régime sans sel < 6 g/j
-  - [Surveillance du poids 1-2/semaine](https://www.heartfailurematters.org/static-file/HeartFailureMatters/Documents/FR/Surveiller%20vos%20signes%20vitaux.pdf?mts=1594029980000.pdf), 3-4 si {{< modal-btn score-nyha >}}NYHA 3-4{{< /modal-btn >}}
+  - [Surveillance du poids 1-2/semaine](https://www.heartfailurematters.org/wp-content/uploads/2021/02/Surveiller-vos-signes-vitaux.pdf), 3-4 si {{< modal-btn score-nyha >}}NYHA 3-4{{< /modal-btn >}}
   - Évaluation diététique
   - Arrêt du tabac
   - Réduction d'une consommation d'alcool (courbe en U)

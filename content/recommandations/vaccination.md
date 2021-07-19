@@ -91,7 +91,7 @@ Rattrapage vaccinal
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}
 
-{{< card-link title="e-learning vaccination" url="http://www.formationvaccinationpaca.fr" subtitle="Par la Région PACA">}}
+{{< card-link title="e-learning vaccination" url="https://www.formationvaccinationpaca.fr" subtitle="Par la Région PACA">}}
 
 {{% /collapse %}}
 {{%collapse "Informations du patient" %}}

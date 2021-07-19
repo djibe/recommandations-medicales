@@ -16,7 +16,7 @@ sctid = "76102007"
 draft = false
 flowchart = true
 image = true
-imageSrc = "Illustration par stories - www.freepik.com"
+imageSrc = "Illustration par stories / Freepik"
 todo = "arbre décisionnel, modif extension 9 SA"
 +++
 

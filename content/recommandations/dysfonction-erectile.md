@@ -6,7 +6,7 @@ synonyms = ["Impuissance"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-05-05T12:48:09+02:00"
 publishdate = "2020-05-05"
-lastmod = "2020-05-05"
+lastmod = "2021-07-19"
 specialites = ["urologie"]
 annees = "2019"
 sources = ["AIUS", "Prescrire"]
@@ -185,7 +185,7 @@ Examen clinique de suivi annuel.
 - [Colson MH et al. Démarche diagnostique et prise en charge du patient souffrant de dysfonction érectile, actualisation et consignes pratiques. Sexologies. 1 janv 2018;27(1):23‑30.](https://www.em-consulte.com/en/article/1198573)
 - [Colson M.H et al. La dysfonction érectile du diabétique. Sexologies Janvier 2018.](https://www.sciencedirect.com/science/article/pii/S1158136018300112?via%3Dihub)
 - [Nehra A et al. The Princeton III Consensus Recommendations for the Management of Erectile Dysfunction and Cardiovascular Disease. Mayo Clinic Proceedings. 1 août 2012;87(8):766‑78.](https://www.mayoclinicproceedings.org/article/S0025-6196(12)00635-0/abstract)
-- [AIUS. Recommandations aux médecins généralistes pour la prise en charge de première intention de la dysfonction érectile. 2010](https://www.aius.fr/v3/aius/pdf/recommandationsauxmedecins2010.pdf)
+- [Cuzin B. et al, AIUS. Recommandations aux médecins généralistes pour la prise en charge de première intention de la dysfonction érectile. 2010.](https://ur.booksc.eu/book/17263369/eede54)
 - [La Revue Prescrire](https://www.prescrire.org/fr/)
 
 {{%/collapse%}}

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-17T11:56:00+02:00
 publishdate = 2021-02-17
-lastmod = 2021-04-30
+lastmod = 2021-07-19
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["HCSP", "MinSante", "Pasteur"]
@@ -75,7 +75,7 @@ Se référer à la page dédiée à chaque maladie pour en savoir plus (ex. [fi�
 <div class="d-flex flex-wrap">
 {{< card-link title="Vaccins recommandés et prévention palustre selon l'Institut Pasteur pour un voyage" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
 
-{{< card-link title="Vaccins et conseils par pays" url="https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/" subtitle="France Diplomatie" image="ministere" >}}
+{{< card-link title="Vaccins et conseils par pays" url="https://www.diplomatie.gouv.fr/fr/dossiers-pays/" subtitle="France Diplomatie" image="ministere" >}}
 
 {{< card-link title="Vaccins recommandés et conseils médicaux par destination" url="https://www.pasteur-lille.fr/vaccinations-voyages/" subtitle="Pasteur Lille" image="pasteur" >}}
 </div>

@@ -6,7 +6,7 @@ synonyms = ["Spondyloarthrite"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-15T20:39:41+02:00
 publishdate = 2020-10-15
-lastmod = 2021-05-04
+lastmod = 2021-07-19
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "EULAR"]
@@ -344,7 +344,7 @@ graph TB
 
 - [Société Française de Rhumatologie. Actualisation 2018 des recommandations de la Société française de rhumatologie (SFR) pour la prise en charge en pratique courante des malades atteints de spondyloarthrite](https://www.em-consulte.com/article/1202013/figures/actualisation-2018%C2%A0des-recommandations-de-la-socie)
 - [Gossec L. et al. Collecte et prise en charge de certaines comorbidités et facteurs de risque associés dans le cadre des rhumatismes inflammatoires chroniques dans la pratique quotidienne en France. Revue du Rhumatisme Volume 84, Issue 2, March 2017, Pages 123-131](https://www.sciencedirect.com/science/article/abs/pii/S1169833016308250)
-- [Société Française de Rhumatologie. Recommandations de la Société française de rhumatologie pour la prise en charge en pratique courante des malades atteints de spondylarthrite. 2014.](http://dev.larhumato.fr/wp-content/uploads/2017/11/SA20recos20SFR20Rev20Rhum.pdf)
+- [Société Française de Rhumatologie. Recommandations de la Société française de rhumatologie pour la prise en charge en pratique courante des malades atteints de spondylarthrite. 2014.](https://www.larhumato.fr/wp-content/uploads/2017/11/SA20recos20SFR20Rev20Rhum.pdf)
 - Collège Français des Enseignants en Rhumatologie (COFER). Spondylarthrite inflammatoire - Item 197 UE 8.
 
 {{% /collapse %}}

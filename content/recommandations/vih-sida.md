@@ -16,7 +16,7 @@ anglais = ["Human immunodeficiency virus infection"]
 sctid = "86406008"
 image = true
 imageSrc = "Photo de NIAID sur Foter.com / CC BY"
-todo = "relecture CNS, TPE et PrEP, https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih, depistage DT2, info transmission/guérison, https://www.aides.org/sites/default/files/Aides/bloc_telechargement/AIDES_GUIDE%20PREP%20PHARMA_2018_WEB.pdf"
+todo = "relecture CNS, TPE et PrEP, https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih, depistage DT2, info transmission/guérison, https://www.aides.org/prep"
 +++
 
 {{%article-summary%}}
@@ -29,6 +29,7 @@ todo = "relecture CNS, TPE et PrEP, https://ansm.sante.fr/tableau-marr/emtricita
 - Observance et suivi spécialisé
 - Maladie à [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
 - Aide à la consultation: [VIHclic](https://vihclic.fr/)
+- [JeMeDépiste.com](https://jemedepiste.com/)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -240,7 +241,7 @@ La PrEP doit être couplée au *préservatif* pour prévenir les [IST](/tags/ist
 << Tout médecin peut faire la première prescription et le renouvellement de la PrEP >> (HAS 2021). Sinon adresser en {{< references/cegidd >}}, *COREVIH* régional ou centre spécialisé.
 {{%/info%}}
 
-{{< card-link title="La PrEP et ses enjeux" url="https://www.formaprep.org/" subtitle="MOOC gratuit">}}
+{{< card-link title="La PrEP et ses enjeux" url="https://www.formaprep.org" subtitle="MOOC gratuit">}}
 
 ### Indications HAS 2021
 
