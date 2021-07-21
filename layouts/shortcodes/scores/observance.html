@@ -1,0 +1,96 @@
+<form class="my-4" id="score-observance" autocomplete="off">
+  <p class="lead">Évaluation de l'observance d'un traitement médicamenteux</p>
+  <fieldset>
+    <legend>Ce matin avez-vous oublié de prendre votre traitement&nbsp;?</legend>
+    <input type="radio" id="observance-11" name="observance-1" class="d-input-none" value="0" required>
+    <label for="observance-11" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="observance-12" name="observance-1" class="d-input-none" value="1">
+    <label for="observance-12" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>Depuis la dernière consultation, avez-vous été en panne de médicament&nbsp;?</legend>
+    <input type="radio" id="observance-21" name="observance-2" class="d-input-none" value="0" required>
+    <label for="observance-21" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="observance-22" name="observance-2" class="d-input-none" value="1">
+    <label for="observance-22" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>Vous est-il arrivé de prendre votre traitement avec retard par rapport à l’heure habituelle&nbsp;?</legend>
+    <input type="radio" id="observance-31" name="observance-3" class="d-input-none" value="0" required>
+    <label for="observance-31" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="observance-32" name="observance-3" class="d-input-none" value="1">
+    <label for="observance-32" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>Vous est-il arrivé de ne pas prendre votre traitement parce que, certains jours, votre mémoire vous fait défaut&nbsp;?</legend>
+    <input type="radio" id="observance-41" name="observance-4" class="d-input-none" value="0" required>
+    <label for="observance-41" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="observance-42" name="observance-4" class="d-input-none" value="1">
+    <label for="observance-42" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>Vous est-il arrivé de ne pas prendre votre traitement
+      parce que, certains jours, vous avez l’impression que
+      votre traitement vous fait plus de mal que de bien&nbsp;?</legend>
+    <input type="radio" id="observance-51" name="observance-5" class="d-input-none" value="0" required>
+    <label for="observance-51" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="observance-52" name="observance-5" class="d-input-none" value="1">
+    <label for="observance-52" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>Pensez-vous que vous avez trop de comprimés à prendre&nbsp;?</legend>
+    <input type="radio" id="observance-61" name="observance-6" class="d-input-none" value="0" required>
+    <label for="observance-61" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="observance-62" name="observance-6" class="d-input-none" value="1">
+    <label for="observance-62" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <div class="alert bg-light d-flex mt-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:2rem">Score</p>
+      <span class="font-weight-bold" id="observanceScore" style="font-size:2rem">0</span>
+    </div>
+    <p id="observanceText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  </div>
+</form>
+<blockquote class="mt-4">
+  <p>
+    <a
+      href="https://www.ameli.fr/sites/default/files/Documents/5074/document/evaluation-observance-traitement_assurance-maladie.pdf"
+      target="_blank"
+      rel="nofollow noopener"
+      >Girerd X. et al. Évaluation de l’observance par l’interrogatoire au cours du suivi des hypertendus
+      dans des consultations spécialisées - Arch Mal Cœur Vaiss. 2001 Aug ; 94 (8) : 839-42</a>
+  </p>
+</blockquote>
+{{ $script := `
+  // Score Observance by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scoreObservance = document.getElementById('observanceScore')
+    const textObservance = document.getElementById('observanceText')
+    const observanceElems = document.querySelectorAll('#score-observance input[type=\"radio\"]')
+    observanceElems.forEach((observanceElem) => { observanceElem.addEventListener('click', () => {
+      observanceScore()
+    }) })
+    const observanceScore = () => {
+      let score = 0
+      const elemsChecked = document.querySelectorAll('#score-observance input[type=\"radio\"]:checked')
+        elemsChecked.forEach(observanceElemChecked => {
+        score += parseInt(observanceElemChecked.value, 10)
+        if (elemsChecked.length === 6) {
+          scoreObservance.innerHTML = score
+          if (score === 0) {
+            textObservance.innerHTML = "Bonne observance"
+          }
+          else if (score >= 1 && score <= 2) {
+            textObservance.innerHTML = "Non observant mineur"
+          }
+          else if (score >= 3) {
+            textObservance.innerHTML = "Non observant"
+          }
+        } else {
+          textObservance.innerHTML = "Veuillez répondre à toutes les questions"
+        }
+      })
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>

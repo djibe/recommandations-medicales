@@ -6,7 +6,7 @@ synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-06-21T10:56:00+02:00
 publishdate = 2021-06-29
-lastmod = 2021-07-05
+lastmod = 2021-07-21
 specialites = ["pneumologie"]
 annees = "2019"
 sources = ["GINA", "ERS", "SPLF", "HAS"]
@@ -89,7 +89,7 @@ Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 - Fréquence respiratoire ≥ 25/min ou pauses respiratoires
 - Impossibilité de terminer les phrases en une inspiration
 - DEP ≤ 50% de la théorique ou de la meilleure valeur connue du patient
-- SpO<sub>2<sub> < 92%
+- SpO<sub>2</sub> < 92%
 - Bradycardie
 - Hypotension
 - Silence auscultatoire
@@ -106,7 +106,7 @@ Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 - Non agité
 - Augmentation de la fréquence respiratoire
 - Pouls > 100/min
-- SpO<sub>2<sub> < 95%
+- SpO<sub>2</sub> < 95%
 - DEP > 50% de la meilleure valeur connue
 
 ### Patients à risque de décès
@@ -118,7 +118,7 @@ Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 - Mauvais contrôle sur les 12 derniers mois  
 Hospitalisation, urgences, corticoïdes oraux.
 - Antécédent d'asthme aigu grave avec intubation/VNI
-- Absence de traitement par {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}}, mauvaise observance du CSI
+- Absence de traitement par {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}}, {{< modal-btn modal-observance >}}mauvaise observance{{< /modal-btn >}} du CSI
 - Absence de plan d'action écrit contre l'asthme
 - Consommation élevée de BACA avec ≥ 1 boîte d'équivalent salbutamol par mois
 - Allergie alimentaire associée
@@ -141,7 +141,7 @@ Revoir la *maîtrise de l'asthme*:
     - Autosurveillance des symptômes et du DEP
 2. Contrôle des facteurs de risques modifiables
     - Faire le point au moins tous les 2 ans
-    - Observance et technique de prise des traitements
+    - {{< modal-btn modal-observance >}}Observance{{< /modal-btn >}} et technique de prise des traitements
     - Consommation de corticoïdes oraux
     - Plan d'action écrit contre l'asthme
     - Tabagisme
@@ -434,7 +434,7 @@ Conduite à tenir:
 
 - Augmentation d'un palier (stade supérieur)
 - Vérifier le diagnostic d'asthme
-- Vérifier l'observance
+- {{< modal-btn modal-observance >}}Vérifier l'observance{{< /modal-btn >}}
 - Vérifier la technique d'inhalation
 - Croyances à l'égard de l'asthme et des médicaments
 
@@ -506,5 +506,10 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 {{% modal title="Asthma Control Test" id="modal-score-act"%}}
 
 {{< scores/asthma-control-test >}}
+
+{{% /modal %}}
+{{% modal title="Observance des traitements" id="modal-observance"%}}
+
+{{< scores/observance >}}
 
 {{% /modal %}}

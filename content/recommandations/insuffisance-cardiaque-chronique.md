@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
 publishdate = 2021-06-03
-lastmod = 2021-07-19
+lastmod = 2021-07-21
 specialites = ["cardiologie"]
 annees = "2016"
 sources = ["ESC", "HAS"]
@@ -17,17 +17,17 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "simplifier Info patient +++, signaler college bumétaNide, bilan sortie hospit, apnees sommeil, https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Questionnaire de qualité de vie du Minnesota HAS p.54, https://www.ameli.fr/sites/default/files/Documents/5074/document/evaluation-observance-traitement_assurance-maladie.pdf"
+todo = "bilan sortie hospit, apnees sommeil, https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Questionnaire de qualité de vie du Minnesota HAS p.54"
 +++
 
 {{%article-summary%}}
 
 - Les prochaines recommandations *ESC* sortiront été 2021
-- Évoquer devant des signes spécifiques ou non
+- Évoquer devant fatigue, dyspnée, œdèmes chevilles...
 - ECG, NT-proBNP et consultation de cardiologie...
-- Et bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), anémie)
-- Réduire le poids des comorbidités (HTA, tabac...)
-- Maximiser les posologies du traitement
+- Bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), anémie)
+- Contrôle des FRCV: HTA, tabac...
+- Maximiser les posologies du traitement: {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, {{< modal-btn modal-bb >}}BB{{< /modal-btn >}}, ARM
 - Éducation thérapeutique pour la surveillance du poids et l'adaptation des diurétiques
 
 {{%/article-summary%}}
@@ -101,7 +101,7 @@ Hyponatrémie, PN élevés...
 FA, troubles du rythme, AVC, AOMI.
 - Comorbidités  
 Diabète, anémie, carence martiale, BPCO, insuffisance rénale, hépatopathie, apnées du sommeil, dépression, démence
-- Non observance
+- {{< modal-btn modal-observance >}}Non observance{{< /modal-btn >}}
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
@@ -224,7 +224,7 @@ Indications: cardiomyopathie hypertrophique (CMH), cardiomyopathie dilatée idio
 
 - [ALD n°5]({{< relref "affection-longue-duree.md" >}})
 - {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} systématique dose maximale
-- {{< modal-btn modal-bb >}}Bêtabloquants{{< /modal-btn >}} dose maximale
+- {{< modal-btn modal-bb >}}Bêtabloquant{{< /modal-btn >}} dose maximale
 - 2<sup>e</sup> intention: anti-aldosterone spironolactone ou éplérénone  
   Indication: FE ≤ 35% et IEC + BB insuffisants
 - 3<sup>e</sup> intention: association possible
@@ -235,7 +235,7 @@ Indications: cardiomyopathie hypertrophique (CMH), cardiomyopathie dilatée idio
   - Escalade thérapeutique: IEC (ARA2) + BB + diurétique > anti-aldostérone > amlodipine
 - LDL cible
 - Bradycardisant ivabradine  
-Tachycardie persistante sous BB dose maximale.
+Indication: tachycardie persistante sous BB dose maximale.
 - Diurétiques à visée symptomatique
   - [Furosémide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68009803&typedoc=R) 20-40 mg jusqu'à 1000 mg/j. Fractionner quand ≥ 40 mg
   - ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68232635&typedoc=R) 0,5-1 mg jusqu'à 5 mg/j. Fractionner quand ≥ 1 mg
@@ -319,7 +319,7 @@ Intègre les patients avec une ICFEmd.
 
 - Consultation dans la semaine qui suit la sortie  
 Coter *GS* + *MIC* (23€, total 48€).
-- Puis consultation minimum toutes les 2 semaines pour la titration des IEC + BB
+- Puis consultation minimum toutes les 2 semaines pour la titration des {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} et {{< modal-btn modal-bb >}}BB{{< /modal-btn >}}
 - Consultation avec le cardiologue  
 Sous 2 semaines +++ à 2 mois.
 
@@ -344,7 +344,7 @@ Sous 2 semaines +++ à 2 mois.
 | III-IV   | 4-12 | 2-3 |
 {{< /table >}}
 
-- Observance du traitement
+- {{< modal-btn modal-observance >}}Observance du traitement{{< /modal-btn >}}
 - Auto-surveillance du poids et adaptation du furosémide
 - Consulter en aggravation des symptômes ou l'absence d'amélioration sous traitement
 - Intensité des symptômes
@@ -397,25 +397,22 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
-[HAS. Vivre avec une insuffisance cardiaque](https://www.has-sante.fr/upload/docs/application/pdf/2008-06/08-096_gp_insuf-cardia.pdf)  
-[HeartFailureMatters. Voyage à travers l'insuffisance cardiaque.](https://www.heartfailurematters.org/fr_FR)
+[HAS. Vivre avec une insuffisance cardiaque](https://www.has-sante.fr/upload/docs/application/pdf/2008-06/08-096_gp_insuf-cardia.pdf) et [HeartFailureMatters. Voyage à travers l'insuffisance cardiaque.](https://www.heartfailurematters.org/fr_FR).
 
-- L'insuffisance cardiaque et ses symptômes
-- Traitements prescrits, effets indésirables possibles, le suivi de routine
-- Aucune automédication
-- Médicaments à éviter: potassium, AINS, anticalciques, corticoïdes, formes effervescentes
-- Auto-surveillance 1-2/semaine: poids, PA, fréquence cardiaque  
-Pesée à jeun, après avoir uriné, sur la même balance, valeur notée.
-- Ordonnance en avance pour dosage NT-proNBP en cas de décompensation
-- Apports hydriques 1,5-2 L/j, augmenter en chaleur
-- Importance de l'activité physique quotidienne de 30 minutes (min 20 min x 3/sem.)
-- Régime sans sel < 6 g/j  
-Limiter charcuterie, fromage, pain, conserves.
-- Évaluation diététique
-- Arrêt du tabac
-- Réduction d'une consommation d'alcool
-- Identifier les facteurs de décompensation
-- Numéros à appeler en urgence
+### Points essentiels de l'ETP pour l'insuffisance cardiaque
+
+- Définition et étiologie de l'IC  
+Comprendre les causes de l'IC, les symptômes et l'évolution.
+- Symptômes et signes
+  - Surveiller et reconnaître les signes et symptômes
+  - Se peser chaque jour et reconnaître une prise de poids rapide (min 2-3/semaine)  
+  {{%class%}}Pesée à jeun, après avoir uriné, sur la même balance, valeur notée.{{%/class%}}
+  - Auto-surveillance 1-2/semaine: PA, fréquence cardiaque
+  - Ordonnance en avance pour dosage NT-proNBP en cas de décompensation
+  - Savoir quand et comment contacter un soignant
+  - Numéros à appeler en urgence
+  - Prendre des diurétiques à la demande si pertinent et conseillé
+  - Identifier les facteurs de décompensation
 - [Signes d'alerte](https://www.heartfailurematters.org/static-file/HeartFailureMatters/Documents/FR/Signes%20d'alerte.pdf?mts=1594026854000.pdf)
   - Perte de poids trop rapide, soif, sécheresse de la bouche
   - Prise de 2 kg en 3 jours
@@ -425,35 +422,28 @@ Limiter charcuterie, fromage, pain, conserves.
   - Pouls irrégulier
   - Aggravation de l'essoufflement, essoufflement couché
   - Toux
-
-> HAS 2014, [HFA 2010](https://doi.org/10.1093/eurjhf/hfq219)
-
-### Points essentiels de l'ETP pour l'insuffisance cardiaque
-
-- Définition et étiologie de l'IC  
-Comprendre les causes de l'IC, les symptômes et l'évolution.
-- Symptômes et signes
-  - Surveiller et reconnaître les signes et symptômes
-  - Se peser chaque jour et reconnaître une prise de poids rapide (min 2-3/semaine)
-  - Savoir quand et comment contacter un soignant
-  - Prendre des diurétiques à la demande si pertinent et conseillé
 - Traitement
-  - Comprendre les indications, les bénéfices, les doses et les effets des médicaments
+  - Aucune automédication
+  - Médicaments à éviter  
+  {{%class%}}Potassium, AINS, anticalciques, corticoïdes, formes effervescentes.{{%/class%}}
+  - Comprendre les indications, les bénéfices, les doses et les effets indésirables des médicaments
   - Reconnaître les effets indésirables courants de chaque médicament prescrit
 - Modification des facteurs de risque
-  - Comprendre l’importance de l’arrêt du tabac
+  - Importance de l’arrêt du tabac
   - Automesure tensionnelle, fréquence cardiaque
   - Obtenir un bon contrôle de la glycémie en cas de diabète
   - Éviter l’obésité
 - Recommandations diététiques
-  - Restriction sodée < 6 g/j
+  - Restriction sodée < 6 g/j  
+  {{%class%}}Limiter charcuterie, fromage, pain, conserves.{{%/class%}}
   - Apport hydrique 1,5-2 L/j, augmenter en chaleur
   - Réduire l'alcool
-  - Surveiller et prévenir la malnutrition
+  - Évaluation diététique pour surveiller et prévenir la malnutrition
 - Activité physique
   - Vaincre les réticences à l’activité physique
   - Comprendre les bénéfices de l’exercice
-  - Entraînement physique quotidien en ciblant une dyspnée légère à modérée
+  - Importance de l'activité physique quotidienne de 30 minutes  
+  Min 20 min x 3/sem en ciblant une dyspnée légère à modérée.
   - Effets de l'altitude sur la respiration
 - Activité sexuelle
   - Ne pas craindre les rapports sexuels et discuter des problèmes avec les
@@ -510,5 +500,10 @@ réalistes
 {{% modal title="BB dans l'IC" id="modal-bb"%}}
 
 {{< traitements/bb-ic >}}
+
+{{% /modal %}}
+{{% modal title="Observance des traitements" id="modal-observance"%}}
+
+{{< scores/observance >}}
 
 {{% /modal %}}
