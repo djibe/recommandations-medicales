@@ -393,7 +393,7 @@ summary {
 }
 
 ::selection {
-  background: rgba(65, 80, 245, 0.08);
+  background-color: rgba(65, 80, 245, 0.08);
 }
 
 .disabled:hover {
@@ -1142,7 +1142,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
 
 [class*='btn-flat'],
 .modal .btn {
-  background: transparent;
+  background-color: transparent;
   box-shadow: none;
 }
 
@@ -1494,7 +1494,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
 }
 
 .card-primary-action:hover {
-  background: rgba(0, 0, 0, 0.04);
+  background-color: rgba(0, 0, 0, 0.04);
 }
 
 .card-primary-action:hover.card {
@@ -1548,7 +1548,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
 }
 
 .chip-outline {
-  background: transparent;
+  background-color: transparent;
   border: 1px solid rgba(0, 0, 0, 0.12);
 }
 

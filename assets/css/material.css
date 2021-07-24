@@ -470,7 +470,7 @@ dfn {
 }
 
 ::selection {
-  background: rgba(65, 80, 245, 0.08);
+  background-color: rgba(65, 80, 245, 0.08);
 }
 
 .disabled:hover,
@@ -2539,7 +2539,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 .card-link,
 .modal .btn,
 .modal .card-link {
-  background: transparent;
+  background-color: transparent;
   box-shadow: none;
 }
 
@@ -3036,7 +3036,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 }
 
 .accordion > .card > .card-header:hover {
-  background: rgba(0, 0, 0, 0.04);
+  background-color: rgba(0, 0, 0, 0.04);
   transition: background-color 150ms linear;
 }
 
@@ -3429,7 +3429,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 }
 
 .card-primary-action:hover {
-  background: rgba(0, 0, 0, 0.04);
+  background-color: rgba(0, 0, 0, 0.04);
 }
 
 .card-primary-action:hover.card {
@@ -3525,7 +3525,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 }
 
 .chip-outline {
-  background: transparent;
+  background-color: transparent;
   border: 1px solid rgba(0, 0, 0, 0.12);
 }
 
@@ -6263,7 +6263,7 @@ input:disabled + .chip {
 }
 
 .custom-switch .custom-control-label::before {
-  background: #000000;
+  background-color: #000000;
   border-radius: 0.4375rem;
   content: '';
   height: 0.875rem;
@@ -6278,7 +6278,7 @@ input:disabled + .chip {
 }
 
 .custom-switch .custom-control-label::after {
-  background: #ffffff;
+  background-color: #ffffff;
   border-radius: 50%;
   box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
   content: '';
@@ -6296,11 +6296,11 @@ input:disabled + .chip {
 }
 
 .custom-switch .custom-control-input:checked ~ .custom-control-label::before {
-  background: #e87500;
+  background-color: #e87500;
 }
 
 .custom-switch .custom-control-input:checked ~ .custom-control-label::after {
-  background: #e87500;
+  background-color: #e87500;
   transform: translateX(1.25rem);
 }
 
@@ -6321,7 +6321,7 @@ input:disabled + .chip {
 }
 
 .custom-switch .custom-control-input:disabled ~ .custom-control-label::before {
-  background: #e0e0e0;
+  background-color: #e0e0e0;
   display: block;
 }
 
@@ -6330,11 +6330,11 @@ input:disabled + .chip {
 }
 
 .custom-switch .custom-control-input:checked:disabled ~ .custom-control-label::before {
-  background: rgba(251, 229, 208, 0.8252);
+  background-color: rgba(251, 229, 208, 0.8252);
 }
 
 .custom-switch .custom-control-input:checked:disabled ~ .custom-control-label::after {
-  background: #f6cb9e;
+  background-color: #f6cb9e;
 }
 
 .nav-tabs {
@@ -6690,11 +6690,11 @@ select.form-control option, select.custom-select option {
 }
 
 select.form-control option:hover, select.custom-select option:hover {
-  background: rgba(0, 0, 0, 0.04);
+  background-color: rgba(0, 0, 0, 0.04);
 }
 
 select.form-control option:active, select.custom-select option:active {
-  background: rgba(0, 0, 0, 0.12) !important;
+  background-color: rgba(0, 0, 0, 0.12) !important;
 }
 
 select.form-control:focus, select.custom-select:focus {
@@ -7038,7 +7038,7 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
 
 [class*='form-ripple']::before,
 .floating-label::before {
-  background: #e87500;
+  background-color: #e87500;
   content: '';
   height: 2px;
   position: absolute;
@@ -12040,10 +12040,10 @@ a.text-light:hover, a.text-light:focus, a.text-light:active {
     height: 4px;
   }
   ::-webkit-scrollbar-track {
-    background: transparent;
+    background-color: transparent;
   }
   ::-webkit-scrollbar-track-piece {
-    background: transparent none;
+    background-color: transparent none;
     border: solid 4px transparent;
     border-right-width: 8px;
   }
@@ -12275,7 +12275,7 @@ input:-webkit-autofill:active {
 }
 
 .irs-grid-pol {
-  background: #000000;
+  background-color: #000000;
   height: 8px;
   position: absolute;
   top: 0;
@@ -12300,7 +12300,7 @@ input:-webkit-autofill:active {
 }
 
 .irs-disable-mask {
-  background: rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0);
   cursor: default;
   height: 100%;
   position: absolute;
@@ -12311,7 +12311,7 @@ input:-webkit-autofill:active {
 }
 
 .lt-ie9 .irs-disable-mask {
-  background: #000000;
+  background-color: #000000;
   cursor: not-allowed;
   filter: alpha(opacity=0);
 }

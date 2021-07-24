@@ -468,7 +468,7 @@ Pourtant, des exemples comme les *prescriptions d'antibiotiques* ou le *suivi du
 
 <figure class="figure mb-4">
   <div id="chart"></div>
-  <figcaption><b>DQD:</b> doses quotidiennes définies/1000 hab/j<br>
+  <figcaption><b>DQD:</b> doses quotidiennes définies/1000 hab/j (DDD en anglais)<br>
   <b>Figure.</b><a href="https://geodes.santepubliquefrance.fr/#c=indicator&f=0&i=antibio_conso.ddd_j01&s=2019&t=a01&view=map2"> Santé Publique France. Consommation en ville de tous les antibiotiques à usages systémiques - tous âges. Géodes.</a></figcaption>
 </figure>
 
