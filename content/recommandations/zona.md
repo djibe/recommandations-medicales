@@ -204,8 +204,3 @@ Persistance de douleurs neuropathiques d'un dermatome atteint par un zona.
 - [SPILF. Prise en charge des infections à VZV. Méd Mal Infect. 1998 ; 28: 1-8](https://www.infectiologie.com/UserFiles/File/medias/_documents/consensus/vzv98.pdf)
 
 {{% /collapse %}}
-{{%collapse "Photos" %}}
-
-{{< wikiphoto "Herpes_zoster" >}}
-
-{{% /collapse %}}

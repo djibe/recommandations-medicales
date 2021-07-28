@@ -4,9 +4,10 @@ prefix = "l'"
 shortname = "AVF"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Pr M. LANTERI-MINET (SFETD)"
 date = 2021-06-18T16:20:00+02:00
 publishdate = 2021-06-19
-lastmod = 2021-07-08
+lastmod = 2021-07-28
 specialites = ["neurologie"]
 annees = "2014"
 sources = ["SFEMC"]
@@ -106,12 +107,12 @@ Dérivés nitrés, sildénafil.
   - **Durée 15 min à 3 heures**  
   {{%class%}}Durée minimale moyenne: 1h10, durée max moyenne: 2h40 min{{%/class%}}
   - Quotidiennes voire pluri-quotidiennes (4-5/j)
-  - Entraînant une agitation motrice (> 3/4)
   - À heure fixe, souvent la nuit
   - Périodicité circannuelle  
   Épisodique: période de 6-12 semaines 1-2 fois/an (fin printemps et automne) ou chronique (15-20%).
   - Intervalles libres (sauf forme chronique)  
   **De 4 mois à 3 ans**.
+- **Agitation motrice per-critique** (> 3/4)
 - Signes dysautonomiques concomitants
   - Homolatéraux
   - D'intensité marquée
@@ -225,7 +226,7 @@ Traiter ≥ 3 crises à 12-15 L/min pendant 30 minutes avant de conclure à son 
 
 *Traitement transitionnel*, le temps d'augmenter le traitement de fond ou pour réduire une exacerbation d'AVF chronique:
 
-- Prednisolone 20 mg/j
+- Prednisolone 100 mg/j pendant 5 jours, puis réduction de 20 mg/j jusqu'à l'arrêt
 - Injection sous-occipitale de corticoïdes
 
 Traitements spécialisés:
@@ -238,7 +239,7 @@ Traitements spécialisés:
 
 Indication au traitement de fond: épisodique avec période douloureuse > 2 semaines ou forme chronique.
 
-- Demander une ALD 31 (*à vérifier*)
+- Pas d'ALD en 2021
 - Arrêt du tabac
 - Éviction de l'alcool, cannabis et cocaïne
 - Traitement transitionnel si besoin le temps de la titration (voir *Traitement de la crise*)
@@ -254,14 +255,15 @@ Indication au traitement de fond: épisodique avec période douloureuse > 2 sema
 - Poursuivre la durée du cycle antérieur et jusqu'à ≥ 2 semaines après la dernière crise
 - Puis réduction de 120 mg tous les 15 jours jusqu'à l'arrêt
 - En cas de résurgence pendant la décroissance: repasser à la posologie précédente
-- Surveillance *ECG* initiale, puis tous les 6 mois ou chaque augmentation de dose
+- **Surveillance ECG** initiale, puis tous les 6 mois ou chaque augmentation de dose
 
 Voire *lithium*.
 
-### Autres traitements des formes réfractaires
+### Chirurgies des formes réfractaires
 
-- Stimulation des grands nerfs occipitaux
-- Chirurgie
+- Stimulation du grand nerf occipital
+- Stimulation du ganglion sphéno-palatin
+- Stimulation cérébrale profonde (hypothalamique)
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une AVF" "show" %}}

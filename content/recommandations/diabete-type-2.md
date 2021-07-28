@@ -30,23 +30,24 @@ L'intégralité du suivi préconisé pour la personne vivant avec un diabète de
 
 En effet, **il est inenvisageable de tenter une synthèse pour la prise en soins du diabète** tant elle est vaste et pluridisciplinaire.
 
-## Les points vitaux du diabète type 2
+{{%collapse "Les points vitaux du diabète type 2" "show" %}}
 
 - Toute personne avec un diabète type 2 est à {{< modal-btn modal-risque-cardiovasculaire-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}}
 - Arrêt du tabac
 - Hypertension artérielle  
-Objectif tensionnel **< 130/80** mmHg (ESC 2019).
-- LDL cible (ESC 2019)  
+Objectif tensionnel **< 130/80** mmHg (*ESC 2019*).
+- LDL cible (*ESC 2019*)  
   - {{< modal-btn modal-statine-intensite >}}&lt; 0,7 g/L{{< /modal-btn >}}
   - {{< modal-btn modal-statine-intensite >}}&lt; 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-risque-cardiovasculaire-diabete >}}maladie cardiovasculaire, > 20 ans d'évolution ou ≥ 3 autres FRCV{{< /modal-btn >}}
 - Activité physique  
 **Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense).
 - Cible d'HbA1c  
-Globalement **6,5% voire 7%** (sauf complications avancées)(SFD 2019).
+Globalement **7%** (sauf complications avancées)(*SFD 2019*).
 - En cas de surpoids  
 Négocier une perte de poids (5-10%).
 - Régimé méditerranéen
 
+{{% /collapse %}}
 {{%collapse "Escalade thérapeutique" "show" %}}
 
 *Version préliminaire.*

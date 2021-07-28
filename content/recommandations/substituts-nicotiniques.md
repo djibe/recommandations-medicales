@@ -46,13 +46,13 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
   <div class="collapse show" id="patchs-moins20" data-parent="#accordionExample">
     <div class="card rounded mb-3">
       <div class="card-body">
-        <h5 class="card-subtitle">Exemple de prescription</h5>
+        <h4 class="card-subtitle">Exemple de prescription</h4>
         <p class="card-text user-select-all">Nicopatchlib 14 mg. 1 patch/jour (laisser en place 24 heures) pendant 1 mois,<br>
           puis Nicopatchlib 7 mg/j 1 mois<br>
           puis arrêt (ou sans dépasser 6 mois).</p>
       </div>
     </div>
-    <h6 class="typography-overline font-weight-bolder mt-lg-5">Patchs remboursés (systématique)</h6>
+    <h4 class="typography-overline font-weight-bolder mt-lg-5">Patchs remboursés (systématique)</h4>
     {{% class "typography-body-2 text-black-secondary" %}}Le matin au réveil sur la zone au choix. Changer de place quotidiennement.{{%/class%}}
     <p>Une cigarette = environ 1 mg de nicotine</p>
     <ul class="list-group list-group-xs">
@@ -75,7 +75,7 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
       <!--GlaxoSmithKline-->
       <li class="list-group-item">Nicotinell TTS 7 mg<span class="text-muted">/24h</span></li>
     </ul>
-    <h6 class="typography-overline mt-lg-5">Gommes à mâcher</h6>
+    <h4 class="typography-overline mt-lg-5">Gommes à mâcher</h4>
     {{% class "typography-body-2 text-black-secondary" %}}Mâcher 1 fois puis placer entre gencive et joue. Mâcher à nouveau en cas d'envie de fumer.{{%/class%}}
     <ul class="list-group">
       {{< list-item title="Nicorette sans sucre 2 mg (Fruits, menthe fraîche, menthe glaciale, neutre)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 30/j." >}}
@@ -84,25 +84,25 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
       {{< list-item title="Nicotinell sans sucre 2 mg (Fruit, fruit exotique, menthe fraîcheur)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 25/j." >}}
     </ul>
     <!-- Comprimés à sucer -->
-    <h6 class="typography-overline mt-lg-3">Comprimés à sucer</h6>
+    <h4 class="typography-overline mt-lg-3">Comprimés à sucer</h4>
     {{% class "typography-body-2 text-black-secondary" %}} Sucer les comprimés lentement sans croquer. {{%/class%}}
     <ul class="list-group">
       {{< list-item title="Niquitin sans sucre 2 mg (Menthe douce)" subtitle="1 comprimé à sucer toutes les 1 à 2 heures. Max 15/j." >}}
       {{< list-item title="Nicotinell 1 mg (Menthe)" subtitle="1 comprimé à sucer toutes les 1 à 2 heures. Max 30/j." >}}
     </ul>
     <!-- Pastilles à sucer -->
-    <h6 class="typography-overline mt-lg-3">Pastilles à sucer</h6>
+    <h4 class="typography-overline mt-lg-3">Pastilles à sucer</h4>
     <ul class="list-group">
       {{< list-item title="Nicopass sans sucre 1,5 mg (Eucalyptus, menthe fraîcheur, réglisse-menthe)" subtitle="8 à 12 par jour. Max 30/j." >}}
     </ul>
     <!-- Cp sublinguaux -->
-    <h6 class="typography-overline mt-lg-3">Comprimés sublinguaux</h6>
+    <h4 class="typography-overline mt-lg-3">Comprimés sublinguaux</h4>
     {{% class "typography-body-2 text-black-secondary" %}} Laisser fondre sous la langue. Possibilité de le retirer quand l'envie est passée. {{%/class%}}
     <ul class="list-group">
       {{< list-item title="Nicorette Microtab 2 mg (Citron ou neutre)" subtitle="1 comprimé toutes les 1 à 2 heures. Max 30/j." >}}
     </ul>
     <!-- Sprays buccaux -->
-    <h6 class="typography-overline mt-lg-3">Sprays buccaux</h6>
+    <h4 class="typography-overline mt-lg-3">Sprays buccaux</h4>
     <ul class="list-group">
       {{< list-item title="Nicotine EG 1 mg/dose" subtitle="1 à 2 pulv en cas d'envie (réitérer après qq minutes si insuff.). Max 64/j" >}}
     </ul>
@@ -111,14 +111,14 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
   <div class="collapse" id="patchs-plus20" data-parent="#accordionExample">
     <div class="card rounded mb-3">
       <div class="card-body">
-        <h5 class="card-subtitle">Exemple de prescription</h5>
+        <h4 class="card-subtitle">Exemple de prescription</h4>
         <p class="card-text user-select-all">Nicopatchlib 21 mg. 1 patch/jour (laisser en place 24 heures) pendant 1 mois,<br>
           puis Nicopatchlib 14 mg/j 1 mois<br>
           puis Nicopatchlib 7 mg/j 1 mois<br>
           puis arrêt (ou sans dépasser 6 mois).</p>
       </div>
     </div>
-    <h6 class="typography-overline">Patchs remboursés (systématique)</h6>
+    <h4 class="typography-overline">Patchs remboursés (systématique)</h4>
     <p class="text-black-secondary">Débuter avec ces dosages le 1er mois.</p>
     <ul class="list-group list-group-xs">
       <li class="list-group-item">Nicopatchlib 21 mg</li>
@@ -127,19 +127,19 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
       <li class="list-group-item">Niquitin 21 mg</li>
       <li class="list-group-item">Nicotinell TTS 21 mg</li>
     </ul>
-    <h6 class="typography-overline mt-lg-5">Gommes à mâcher</h6>
+    <h4 class="typography-overline mt-lg-5">Gommes à mâcher</h4>
     <ul class="list-group">
       {{< list-item title="Nicorette sans sucre 4 mg (Fruits, menthe fraîche, menthe glaciale)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
       {{< list-item title="Nicotine EG sans sucre 4 mg (Fruit, menthe)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
       {{< list-item title="Niquitin sans sucre 4 mg (Fruits tropicaux, menthe glaciale)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
       {{< list-item title="Nicotinell sans sucre 4 mg (Fruit, fruit exotique, menthe fraîcheur)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
     </ul>
-    <h6 class="typography-overline mt-lg-3">Comprimés à sucer</h6>
+    <h4 class="typography-overline mt-lg-3">Comprimés à sucer</h4>
     <ul class="list-group">
       {{< list-item title="Niquitin sans sucre 4 mg (Menthe douce)" subtitle="1 comprimé à sucer toutes les 1 à 2 heures. Max 11/j." >}}
       {{< list-item title="Nicotinell menthe 2 mg" subtitle="1 comprimé à sucer toutes les 1 à 2 heures. Max 15/j." >}}
     </ul>
-    <h6 class="typography-overline mt-lg-3">Pastilles à sucer</h6>
+    <h4 class="typography-overline mt-lg-3">Pastilles à sucer</h4>
     <ul class="list-group">
     {{< list-item title="Nicopass sans sucre 2,5 mg (Menthe fraîcheur, réglisse-menthe)" subtitle="8 à 12 par jour. Max 15/j." >}}
     </ul>
@@ -147,7 +147,7 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
 </div>
 
 <blockquote class="blockquote mt-5">
-  <h6 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au <time datetime="2020-09-27">27/09/2020</time>.</h6>
+  <h3 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au <time datetime="2020-09-27">27/09/2020</time>.</h3>
   <footer class="blockquote-footer"><cite title="Source Title"><a
         href="https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/prise-charge-substituts-nicotiniques"
         target="_blank" rel="nofollow noopener">L'Assurance Maladie</a></cite></footer>
