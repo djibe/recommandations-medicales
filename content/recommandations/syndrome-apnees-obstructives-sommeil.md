@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2020-12-22T09:52:41+02:00
 publishdate = 2020-12-22
-lastmod = 2021-06-20
+lastmod = 2021-07-28
 specialites = ["medecine du sommeil"]
 annees = "2018"
 sources = ["AASM", "HAS", "SFRMS"]
@@ -18,32 +18,36 @@ draft = false
 image = true
 imageSrc = "Habib M’henni / Wikimedia Commons"
 imagePNG = true
-todo = "simplifier, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, prévalence, doc explication PPC, durée minimale 4h, comor SOPK"
+todo = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, prévalence, doc explication PPC, comor SOPK"
 +++
 
 {{%article-summary%}}
 
-- Interroger systématiquement sur les signes de SAOS.
-- Dépister les personnes avec facteur de risque de SAOS (voir *Qui dépister ?*) par le questionnaire STOP-BANG ou 8 questions (voir *Comment dépister ...* )
-- [Liste des centres homologués SFRMS par région](https://www.sfrms-sommeil.org/carte-des-centres-agrees/)
-- PPC doit être utilisée ≥ 4h/nuit et renouvelée au bout de 3 ans par le médecin traitant.
-- À venir: aide à la prescription du renouvellement de la PPC
+- Suspecter un SAOS devant fatigue, sommeil non réparateur, HTA non contrôlée
+- Dépister systématiquement si obésité, diabète, maladie cardiovasculaire...
+- Dépister par le questionnaire STOP-BANG ou les *8 questions* (voir *Comment dépister ...* )
+- La PPC doit être utilisée ≥ 4h/nuit et renouvelée au bout de 3 ans par le médecin traitant
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Syndrome d’apnée du sommeil (SAS)
-: Survenue pendant le sommeil d’épisodes anormalement fréquents d’interruptions de la ventilation (*apnées*) ou de réductions significatives de la ventilation (*hypopnées*), entraînant une hypoxémie et des micro-éveils associés à des symptômes.  
+: Survenue pendant le sommeil d’interruptions anormalement fréquentes de la ventilation (*apnées*) ou de la réduction de celle-ci (*hypopnées*), entraînant une *hypoxémie* et des *micro-éveils* associés à des symptômes.  
 Il a une origine *obstructive* (SAOS), *centrale* (SACS) ou *mixte*.
-: Les complications des apnées du sommeil sont nombreuses et sévères:
-    - Coronaropathie et insuffisance cardiaque (+50%)  
-    HTA diastolique, nocturne et résistante (> 60% des HTA résistantes)
-    - AVC (x 2-3)
-    - Insulino-résistance
-    - Troubles de la concentration et de l’humeur
-    - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md">}})
-    - Accidents de la route (x 2-3)  
-  Le traitement des apnées réduit significativement les risques.
+
+{{%info%}}
+Les complications des apnées du sommeil sont nombreuses et sévères:
+
+- Coronaropathie et insuffisance cardiaque (+50%)  
+HTA diastolique, nocturne et résistante (> 60% des HTA résistantes).
+- AVC (x 2-3)
+- Insulino-résistance
+- Troubles de la concentration et de l’humeur
+- [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md">}})
+- Accidents de la route (x 2-3)  
+
+Le traitement des apnées réduit significativement les risques.
+{{%/info%}}
 
 Index Apnées-Hypopnées (IAH)
 : ({{%lang%}}Apnea-hypopnea index AHI{{%/lang%}})
@@ -66,9 +70,9 @@ Hypersomnie
 
 **AASM:** {{%lang%}}American Academy of Sleep Medicine{{%/lang%}}  
 **IA:** index d’apnée par heure de sommeil  
-**PV:** polygraphie ventilatoire (PGR pour la HAS)  
-**SJSR:** syndrome des jambes sans repos ({{%lang%}}PLMD. Periodic limb movement disorder{{%/lang%}}  
-**MPJS:** mouvements périodiques des jambes pendant le sommeil ({{%lang%}}PLMS. Periodic limb movement during sleep{{%/lang%}})  
+**PV:** polygraphie ventilatoire (*PGR* pour la HAS)  
+**SJSR:** syndrome des jambes sans repos ({{%lang%}}PLMD, Periodic limb movement disorder{{%/lang%}}  
+**MPJS:** mouvements périodiques des jambes pendant le sommeil ({{%lang%}}PLMS, Periodic limb movement during sleep{{%/lang%}})  
 **PMO:** phase de mouvements oculaires  
 **PSDM:** Prestataire de service et distributeurs de matériels  
 **REM:** {{%lang%}}Rapid eye movement{{%/lang%}} ou phase de sommeil paradoxal  
@@ -79,36 +83,6 @@ Hypersomnie
 **TILE:** Test itératif de latence à l’endormissement  
 **TRS:**  Troubles respiratoires du sommeil  
 **VEMS:** Volume expiratoire maximal pendant la 1<sup>re</sup> seconde
-
-### Pour en savoir plus: définitions des événements du SAOS
-
-> Définitions de l'AASM Manual 2.4 (2017)
-
-Apnée
-: Absence de débit aérien naso-buccal ≥ 10 secondes.  
-Précisément: capteur thermique enregistre un pic réduit de ≥ 90% par rapport au niveau de base.
-: **Apnée obstructive**  
-Absence de débit aérien naso-buccal ≥ 10 secondes avec persistances d’efforts respiratoires durant toute l’apnée.
-: **Apnée centrale**  
-Absence de débit aérien naso-buccal ≥ 10 secondes en l’absence d’efforts respiratoires thoraco-abdominaux durant toute l’apnée.
-: **Apnée mixte**  
-Absence de débit aérien naso-buccal ≥ 10 et l’apnée débute de façon centrale mais se combine ensuite à des efforts respiratoires.
-
-Hypopnée
-: Réduction du débit aérien nasal durant ≥ 10 secondes avec une diminution ≥ 30% du débit associé à une désaturation de la Sp02 ≥ 3% OU un micro-éveil.
-: Définition alternative: Réduction du débit aérien nasal durant ≥ 10 secondes avec une diminution ≥ 30% du débit associé à une désaturation de la Sp02 ≥ 4%.
-: Hypopnée obstructive si ≥ 1 parmi: ronflement pendant l’événement, (there is increased inspiratory flattening of the nasal pressure or PAP device flow signal compared to baseline breathing), efforts antagonistes thoraco-abdominaux pendant l’événement mais pas avant.
-: Hypopnée centrale si aucun des événements ci-dessus.
-
-Efforts respiratoires inducteurs de micro-éveil (ERIM)
-: {{%class%}}Anciennement Micro-éveil lié à un effort respiratoire (MELER).{{%/class%}}  
-{{%lang%}}Respiratory-effort related arousals (RERAs){{%/lang%}} en anglais.
-Suite d’inspirations associée à un effort respiratoire croissant aboutissant à un micro-éveil sans remplir les critères d’apnée ou hypopnée.
-Aspect durant ≥ 10 secondes de dépression de la pression œsophagienne se terminant par une remontée brutale de la pression associée à un micro-éveil.
-Visibles uniquement à l’EEG et donc invisible à la polygraphie ventilatoire (PV).
-
-{{%lang%}}Respiratory Disturbance Index (RDI){{%/lang%}}
-: Somme des événements respiratoires en incluant les Efforts respiratoires inducteurs de micro-éveil = IAH + ERIM.
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
@@ -128,7 +102,7 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 - 20% ont une *[BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})* associée
 - Association forte au [diabète de type 2]({{< relref "diabete-type-2.md">}})  
 15-30% des SAOS ont un DT2, 40-70% des DT2 ont un SAOS.
-- 60% des *insuffisants cardiaques* ont une forme d’apnées du sommeil
+- 60% des insuffisants cardiaques ont une forme d’apnées du sommeil
 
 {{% /collapse %}}
 {{%collapse "Qui dépister ?" %}}
@@ -138,6 +112,7 @@ Rechercher les apnées du sommeil de façon systématique chez:
 
 - Obèse > 35 kg/m²
 - [Diabète type 2]({{< relref "diabete-type-2.md">}})
+- Diabète type 1 (*SFD 2019*)
 - Maladie cardiovasculaire
   - Coronaropathie
   - [AVC]({{< relref "accident-vasculaire-cerebral.md" >}})
@@ -149,18 +124,22 @@ Rechercher les apnées du sommeil de façon systématique chez:
   - [HTAP]({{< relref "hypertension-arterielle-pulmonaire.md" >}})
 - Chauffeurs professionnels (ou métiers à risque)
 - Pré-opératoire de chirurgie bariatrique
-{{%/info%}}
 
 > Indications selon *SPLF 2010*
+{{%/info%}}
+
+### Chez le diabétique
 
 {{%warning%}}
-Enregistrement du sommeil systématique chez diabétique avec:
+**Enregistrement du sommeil systématique** chez le diabétique avec:
 
-- Chauffeur professionnel
 - HTA résistante
 - IRC d'évolution rapide (> 5 mL/min/1,73 m²/an)
 - Rétinopathie
 - Forte insulinorésistance
+- Chauffeur professionnel
+
+> Indications selon *SFD 2019*
 {{%/warning%}}
 
 ### Facteurs de risque d'apnées du sommeil
@@ -181,7 +160,7 @@ Enregistrement du sommeil systématique chez diabétique avec:
 {{% /collapse %}}
 {{%collapse "Comment dépister les apnées du sommeil ?" %}}
 
-<div class="card card-hover my-3 my-xl-5" style="max-width:640px">
+<div class="card card-hover my-3 mb-xl-5" style="max-width:640px">
   <ul class="nav nav-justified nav-tabs" id="tabs-saos" role="tablist">
     <li class="nav-item">
       <a aria-controls="stop-bang-panel" aria-selected="true" class="nav-link active" data-toggle="tab" href="#stop-bang-panel" id="stop-bang-tab" role="tab">STOP-BANG</a>
@@ -208,10 +187,10 @@ Enregistrement du sommeil systématique chez diabétique avec:
 
 ### Échelle de somnolence d'Epworth
 
-({{%lang%}}Epworth sleepiness scale (ESS){{%/lang%}})
+{{%lang%}}Epworth sleepiness scale - ESS{{%/lang%}}
 
 [Échelle auto-administrée](https://reseau-morphee.fr/wp-content/uploads/dlm_uploads/2016/11/Epworth.pdf) obtenant la meilleure évaluation subjective de la somnolence (*AASM 2017*).  
-Il est utile d’avoir une confirmation du score par un proche.
+{{%class%}}Il est utile d’avoir une confirmation du score par un proche.{{%/class%}}
 
 **Niveau de la somnolence selon Epworth:** Score 0-10 normale | 11-15 faible à modérée | 16-24 modérée à sévère
 
@@ -222,14 +201,15 @@ Il est utile d’avoir une confirmation du score par un proche.
 
 ### Interrogatoire
 
-- Facteurs de risque cardiovasculaires (tabagisme, HTA, dyslipidémie)
-- Antécédents cardiovasculaires (AVC, FA, IC, DT2, HTAP) et généraux
+- Facteurs de risque cardiovasculaires
+- Antécédents cardiovasculaires  
+AVC, FA, IC, diabète, HTA...
 - Antécédents familiaux
 - Facteurs aggravants  
 Liste des médicaments, rhinite chronique.
 - Symptômes diurnes
   - Somnolence diurne excessive
-  - Asthénie
+  - Fatigue
   - Troubles mnésiques ou de la concentration
   - Troubles de la libido
   - Céphalées matinales
@@ -276,7 +256,7 @@ Liste des médicaments, rhinite chronique.
   - Hypertrophie du palais mou et de ses piliers avec hypertrophie de la luette
   - Hypertrophie des amygdales
   - Obstruction nasale
-- Score de Mallampati, rétrognathie modifié ¾
+- [Score de Mallampati modifié](https://www.researchgate.net/figure/Score-de-Mallampati-modifie-classe-1-la-luette-et-les-loges-amygdaliennes-sont_fig2_309274013)
 - Examen cardio-respiratoire  
 Pression artérielle aux 2 bras avec pouls, SpO<sub>2</sub>.  
 Auscultation cardiaque et vasculaire.
@@ -291,18 +271,20 @@ Ronflement isolé.
 - De la somnolence diurne  
 Narcolepsie, hypersomnie idiopathique, dette de sommeil, syndrome obésité-hypoventilation.
 - De dyspnée nocturne  
-Attaques de paniques nocturnes, RGO, asthme, insuffisance cardiaque, angor nocturne.
+Attaques de paniques nocturnes, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), [asthme]({{< relref "asthme.md" >}}), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), angor nocturne.
 - Des apnées  
 Syndrome d'apnées centrales du sommeil (SACS).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+{{%info%}}Bilan des facteurs de risque cardiovasculaires{{%/info%}}
+
 ### Polygraphie ventilatoire et polysomnographie
 
 La prescription et l'interprétation relèvent d'un médecin formé à la médecine du sommeil.
 
-Polygraphie ventilatoire voire polysomnographie (couplée à l'EEG) en cas de suspicion de pathologies neurologiques associées.
+*Polygraphie ventilatoire* voire *polysomnographie* en cas de suspicion de pathologies neurologiques associées.
 
 ### Gaz du sang
 
@@ -501,6 +483,8 @@ Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire 
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
+
+[Liste des centres homologués SFRMS par région](https://www.sfrms-sommeil.org/carte-des-centres-agrees/)
 
 - [SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. MMM septembre 2018.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
 - [Ramar K et al, AASM. Clinical Practice Guideline for the Treatment of Obstructive Sleep Apnea and Snoring with Oral Appliance Therapy: An Update for 2015. J Clin Sleep Med JCSM Off Publ Am Acad Sleep Med. 15 juill 2015;11(7):773‑827.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481062/)
