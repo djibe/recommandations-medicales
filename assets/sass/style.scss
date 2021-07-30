@@ -726,6 +726,7 @@ svg[id*='mermaid'] {
   .node polygon,
   .node path {
     fill: #E0EEFF !important;
+    stroke: #fff;
   }
 
   hr {

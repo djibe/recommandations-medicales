@@ -167,7 +167,8 @@ Si non cardioembolique. Clopidogrel si allergie.
 - Pression artérielle  
   - **Cible < 140/90 mmHg** avec surveillance par **automesure tensionnelle** voire MAPA.
   - Molécules: thiazidiques, IEC, dihydropyridines.
-- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,55 g/L et réduction ≥ 50% ({{< modal-btn modal-risque-cardiovasculaire >}}très haut RCV{{< /modal-btn >}})
+- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,55 g/L et réduction ≥ 50%  
+Patient à {{< modal-btn modal-risque-cardiovasculaire >}}très haut RCV{{< /modal-btn >}}.
 - Arrêt du tabac
 - Arrêt de l'alcool
 - Perte de poids si surpoids
