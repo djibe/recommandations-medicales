@@ -6,7 +6,7 @@ synonyms = ["ou Artériopathie aorto-iliaque et des membres inférieurs", "arté
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-05T18:53:00+02:00
 publishdate = 2021-05-16
-lastmod = 2021-05-22
+lastmod = 2021-08-16
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["ESC", "HAS", "SFMV"]
@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par macrovector / Freepik"
-todo = "Questionnaire d’Édimbourg, centres réadapt vasculaire, ETP, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/28222583/, https://pubmed.ncbi.nlm.nih.gov/33401955/, https://pubmed.ncbi.nlm.nih.gov/1474406/, Éducation thérapeutique"
+todo = "IEC, centres réadapt vasculaire, ETP, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/33401955/, https://pubmed.ncbi.nlm.nih.gov/1474406/, Éducation thérapeutique"
 +++
 
 {{%article-summary%}}
@@ -49,7 +49,7 @@ Ischémie permanente chronique
 : Aussi appelée *ischémie de repos* ou *ischémie critique*
 : Présence de douleurs ischémiques des membres inférieurs depuis > 15 jours *au repos* avec ou sans ulcères, gangrène ou infection.  
 Une neuropathie doit être éliminée lorsque les douleurs sont absentes.
-: Critère diagnostique: PAS cheville ≤ 50 mmHg pour un non spécialiste ou TcPO<sub>2</sub> < 30 mmHg (SFMV 2020).
+: Critère diagnostique: PAS cheville ≤ 50 mmHg pour un non spécialiste ou TcPO<sub>2</sub> < 30 mmHg (*SFMV 2020*).
 
 Blue toe syndrome
 : Ischémie aiguë d'un ou plusieurs orteils par embolie athéroscléreuse à l'origine d'une coloration cyanosée de l'orteil. Urgence thérapeutique.
@@ -99,7 +99,7 @@ Blue toe syndrome
   - **Âge ≥ 65 ans**
   - {{< modal-btn modal-risque-cardiovasculaire >}}Risque cardiovasculaire élevé{{< /modal-btn >}}
   - Âge ≥ 50 ans avec antécédent familial d’AOMI
-  - Âge ≥ 50 ans avec ≥ 1 autre facteur de risque cardiovasculaire (SFMV 2020)
+  - Âge ≥ 50 ans avec ≥ 1 autre facteur de risque cardiovasculaire (*SFMV 2020*)
 
 > Indications au dépistage selon ESC 2017 (sauf mention contraire)
 
@@ -109,7 +109,7 @@ Le dépistage de l’artériopathie par l’IPS est à **renouveler tous les 5 a
 
 ### Comment ?
 
-Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se 75%, Spe 86%) et de l'*index de pression au gros orteil* (IPSGO) ≤ 0,7 (SFMV 2020).  
+Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se 75%, Spe 86%) et de l'*index de pression au gros orteil* (IPSGO) ≤ 0,7 (*SFMV 2020*).  
 {{%class%}}IPS = rapport PAS cheville / PAS humérale.{{%/class%}}  
 **Valeurs normales de l'IPS:** 0,91-1,40.
 
@@ -234,7 +234,8 @@ Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant
   - Indications: claudication ou AOMI masquée, prévention secondaire, revascularisation du MI ou {{< modal-btn modal-risque-cardiovasculaire-diabete >}}diabète à haut RCV{{< /modal-btn >}}
   - Sinon aspirine 75-100 mg/j
   - Si double antiagrégant: pantoprazole
-- IEC systématique (voire ARA2, SFMV 2020)
+- IEC systématique  
+Voire ARA2 (*SFMV 2020*).
 - Pression artérielle cible 120-140/90 mmHg
   - Cible moindre en atteinte sévère pour maintien de pression distale
   - IEC voire telmisartan en 1<sup>re</sup> intention
@@ -244,7 +245,7 @@ Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant
 - Suivi cardiologique systématique  
 Par haut risque cardiovasculaire pour évaluer le risque coronarien et d'insuffisance cardiaque.
 - Suivi angiologique
-- [Vaccination antigrippale]({{< relref "grippe.md" >}}) annuelle (SFMV 2020)
+- [Vaccination antigrippale]({{< relref "grippe.md" >}}) annuelle (*SFMV 2020*)
 - Mise à jour de la vaccination antitétanique
 - Apports sodés < 5 g/j
 - Régime méditerranéen et correction d'un surpoids  
@@ -254,7 +255,7 @@ Par haut risque cardiovasculaire pour évaluer le risque coronarien et d'insuffi
 Auto-exercices et podomètre.
 - Si diabète
   - PAD cible < 85 mmHg
-  - HbA1c cible ≤ 7% (SFD 2019, SFMV 2020)
+  - HbA1c cible ≤ 7% (*SFD 2019*, *SFMV 2020*)
   - ≤ 8% si comorbidité sévère ou espérance de vie < 5 ans
   - 1<sup>re</sup> ligne: metformine
   - 2<sup>e</sup> ligne: dapagliflozine ou GLP-1 RA (liraglutide, dulaglutide)
@@ -322,7 +323,7 @@ style depister stroke:#4150f5, stroke-width:1px
 {{< traitements/statine-intensite >}}
 
 {{% /modal %}}
-{{% modal title="Dépistage selon PREVALENT" id="modal-depistage-prevalent"%}}
+{{% modal title="Dépistage selon le score PREVALENT" id="modal-depistage-prevalent"%}}
 
 {{< scores/aomi-prevalent >}}
 

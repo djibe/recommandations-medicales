@@ -17,7 +17,7 @@ draft = false
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "1re ordo, scores, https://www.has-sante.fr/jcms/c_664454/fr/ald-n-22-polyarthrite-rhumatoide-evolutive-grave"
+todo = "échelles, 1re ordo, scores, https://www.has-sante.fr/jcms/c_664454/fr/ald-n-22-polyarthrite-rhumatoide-evolutive-grave"
 +++
 
 {{%article-summary%}}
@@ -205,13 +205,15 @@ Gérer la douleur, handicap, observance, maintien de l’activité professionnel
 Systématique "en urgence" dès le diagnostic. Même si ne remplit pas encore les critères de rhumatisme défini.
 Modifié en cas d'inefficacité à 3 mois (ou objectif thérapeutique non atteint à 6 mois).
 
-{{%info%}}**Méthotrexate (MTX)** en 1<sup>re</sup> intention, dose optimale (25 mg/semaine) à atteindre en 4-8 semaines.{{%/info%}}  
+{{%info%}}
+**Méthotrexate (MTX)** en 1<sup>re</sup> intention, dose optimale (25 mg/semaine) à atteindre en 4-8 semaines.  
 Débuter à 10-15 mg/mg en prise unique par semaine per os (Novatrex®, Imeth®, génériques),  
 augmentation de 5 mg/1 à 4 semaines selon efficacité-tolérance.
+{{%/info%}}
 
 Voie sous-cutanée si efficacité insuffisante (Imeth injectable®, Metoject®, Nordimet®, génériques).
 
-Prise de 10 mg/semaine d’acide folique systématique.
+Prise de 10 mg/semaine d’**acide folique systématique**.
 
 Décroissance de dose seulement après rémission persistante et prolongée.
 
@@ -272,7 +274,7 @@ Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
 
 ### Pour en savoir plus: suivi par le rhumatologue
 
-- Par le rhumatologue tous les 1 à 3 mois tant que maladie active ({{%lang%}}"tight control"{{%/lang%}})
+- Par le rhumatologue tous les 1 à 3 mois tant que maladie active
 - Nombre d’articulations douloureuses et gonflées
 - Indice articulaire DAS28
 - Évaluation annuelle du retentissement  

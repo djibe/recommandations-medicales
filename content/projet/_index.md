@@ -476,31 +476,15 @@ Pourtant, des exemples comme les *prescriptions d'antibiotiques* ou le *suivi du
 const chartOptions = {
   series: [{
     name: "DQD",
-    data: [23.3, 23.4, 24, 24.2, 24, 23.1, 23.8, 24.1, 23, 22.8, 22.2]
+    data: [[2009, 23.3], [2010, 23.4], [2011, 24], [2012, 24.2], [2013, 24], [2014, 23.1], [2015, 23.8], [2016, 24.1], [2017, 23], [2018, 22.8], [2019, 22.2]]
   }],
   chart: {
-    fontFamily: 'Roboto, sans-serif',
     height: 192,
     type: 'line',
-    zoom: { enabled: false }
   },
-  markers: { size: 4 },
-  stroke: { curve: 'smooth' },
-  title: {
-   text: 'Consommation en ville de tous les antibiotiques à usage systémique',
-   align: 'left'
-  },
-  grid: { show: false },
-  xaxis: {
-   categories: ['2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019'],
-  },
-  yaxis: {
-    min: 0,
-    forceNiceScale: true
-  },
-  theme: {
-    monochrome: {enabled: true, color: '#4150f5'}
-  }
+  stroke: { width: 4 },
+  title: { text: 'Consommation en ville de tous les antibiotiques à usage systémique' },
+  yaxis: { decimalsInFloat: 0 }
 }
 </script>
 

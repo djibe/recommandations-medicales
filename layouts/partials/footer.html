@@ -14,7 +14,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <img class="d-none d-md-block" src="/images/icons/undraw_Typing.svg" alt="Écrire un commentaire" aria-hidden="true" width="250" height="214" loading="lazy" decoding="async">
-        <p class="modal-title" id="modal-contact-title">Commentaires</p>
+        <p class="modal-title" id="modal-contact-title">Contact</p>
       </div>
       <form name="contact" method="post" netlify>
       <!--<script>document.querySelector("form").setAttribute("action", "")</script>-->
@@ -57,8 +57,81 @@
 <script src="https://cdn.jsdelivr.net/npm/apexcharts@3.27.2/dist/apexcharts.min.js" integrity="sha256-yUVRp0kQO+IZ1jyn5vKrhRgeA1uQbPBbFoDX93BjjkI=" crossorigin defer></script>
 <script>
 document.addEventListener( 'DOMContentLoaded', event => {
+  Apex = {
+    colors: ['#4150f5', '#ffa600', '#dc0fc3', '#ff6642', '#ff0581'],
+    chart: {
+      background: 'transparent',
+      defaultLocale: 'fr',
+      locales: [{
+        name: 'fr',
+        options: {
+          months: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+          shortMonths: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+          days: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+          shortDays: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
+          toolbar: {
+            download: 'Télécharger en SVG',
+            selection: 'Sélection',
+            selectionZoom: 'Selection Zoom',
+            zoomIn: 'Agrandir',
+            zoomOut: 'Réduire',
+            pan: 'Panning',
+            reset: 'Reset Zoom',
+          }
+        }
+      }],
+      fontFamily: 'Roboto, sans-serif',
+      foreColor: 'inherit',
+      type: 'bar',
+      zoom: { enabled: false }
+    },
+    dataLabels: {
+      style: {
+        // colors: ['#F44336', '#E91E63', '#9C27B0']
+      }
+    },
+    grid: { show: false },
+    markers: { size: 4 },
+    plotOptions: {
+      bar: { borderRadius: 2, }
+    },
+    stroke: {
+      width: 0
+    },
+    title: {
+      margin: 24,
+      offsetX: 48,
+      style: {
+        fontSize: '18px',
+        fontWeight: 'normal'
+      }
+    },
+    subtitle: {
+      margin: 16,
+      offsetX: 48,
+      style: { 
+        color:  'rgba(0,0,0,0.6)',
+        fontSize: '14px'
+      }
+    },
+    xaxis: {
+      style: { 
+        color:  'rgba(0,0,0,0.6)'
+      },
+      tickPlacement: 'between'
+    },
+    yaxis: {
+      decimalsInFloat: 1,
+      forceNiceScale: true,
+      labels: {
+        style: { colors: 'rgba(0,0,0,0.6)' }
+      },
+      min: 0
+    }
+  }
   const chart = new ApexCharts(document.getElementById('chart'), chartOptions)
   chart.render()
+  
 })
 </script>
 {{- end -}}

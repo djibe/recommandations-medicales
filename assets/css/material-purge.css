@@ -3952,7 +3952,7 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   .my-xl-5 {
     margin-top: 3rem !important;
   }
-  
+  .mb-xl-5,
   .my-xl-5 {
     margin-bottom: 3rem !important;
   }
@@ -4059,10 +4059,6 @@ a.text-warning:hover, a.text-warning:focus, a.text-warning:active {
 
 .visible {
   visibility: visible !important;
-}
-
-.invisible {
-  visibility: hidden !important;
 }
 
 @media (min-width: 992px) {
