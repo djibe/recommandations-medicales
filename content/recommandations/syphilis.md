@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-02T08:27:41+02:00
 publishdate = 2020-09-02
-lastmod = 2021-05-26
+lastmod = 2021-08-19
 specialites = ["dermatologie", "infectiologie"]
 annees = "2016"
 sources = ["SFDermato", "SPILF"]
@@ -162,15 +162,24 @@ Nombreux diagnostics différentiels, c'est pourquoi on appelle la syphilis la "g
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-- Sérologie syphilis  
-Les sérologies se positivent quelques jours après le début du chancre et atteignent un titre maximum vers 6 mois, correspondant à la phase secondaire si elle est présente.  
-Le diagnostic sérologique est plus difficile en recontamination du fait de la positivité des anticorps.  
-{{% class %}}Test tréponémique unique depuis 2015, anciennement TPHA + VDRL.{{% /class %}}
-- Examen au microscope à fond noir de prélèvement lésionnel  
-Permet un diagnostic immédiat mais le prélèvement nécessite un microscope et une expertise.
-- Sérologies et prélèvements des autres IST
+### Sérologie syphilis
 
-{{% warning %}}Une sérologie négative n’élimine pas une syphilis primaire.{{% /warning %}}
+Les sérologies se positivent quelques jours après le début du chancre et atteignent un titre maximum vers 6 mois, correspondant à la phase secondaire si elle est présente.
+
+Le diagnostic sérologique est plus difficile en recontamination du fait de la positivité des anticorps.
+
+{{%class%}}Test tréponémique unique depuis 2015, anciennement TPHA + VDRL.{{%/class%}}
+
+{{%warning%}}Une sérologie négative n’élimine pas une syphilis primaire.{{%/warning%}}
+
+### Examen au microscope
+
+Examen au microscope à fond noir de prélèvement lésionnel.
+Permet un diagnostic immédiat mais le prélèvement nécessite un microscope et une expertise.
+
+### Sérologies et prélèvements des autres IST
+
+Selon les expositions.
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}

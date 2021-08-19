@@ -101,10 +101,10 @@ Dépister systématiquement *Chlamydia trachomatis* chez:
 {{%collapse "Quel examen de dépistage ?" %}}
 
 - Femme  
-PCR par (auto)-prélèvement vaginal (co-détection Chlam/gono).  
+PCR par (auto)-prélèvement vaginal (co-détection Chlam-gono).  
 Si spéculum: prélèvement du col.
 - Homme  
-PCR sur 1<sup>er</sup> jet d'urines (co-détection Chlam/gono).
+PCR sur 1<sup>er</sup> jet d'urines (co-détection Chlam-gono).
 - Autres sites selon les pratiques sexuelles  
 Ano-rectal, pharyngé.
 
@@ -133,12 +133,12 @@ PCR de contrôle à 6 mois
 
 - Traiter simultanément le partenaire
 - Préservatif pendant 7 jours
-- Contrôle tous les **3-6 mois pour les HSH**
+- [HSH]({{< relref "hsh.md" >}}): PCR répétée tous les **3-6 mois**
 - Contacter les partenaires des 12 derniers mois
 - Dépistage des autres [IST](/tags/ist/)  
 Gonocoque, trichomonase, syphilis, VIH, VHC.
 - Statut vaccinal hépatite B ± vaccination VHB  
-Indication: << e. Personnes ayant des relations sexuelles avec des partenaires multiples, exposées aux IST ou ayant une IST en cours ou récente >> (*Calendrier vaccinal. MinSanté 2020*).
+Indication: << e. Personnes ayant des relations sexuelles avec des partenaires multiples, exposées aux IST ou ayant une IST en cours ou récente >> (*Calendrier vaccinal. MinSanté 2021*).
 
 #### Cas particuliers
 
