@@ -93,6 +93,12 @@ main {
   }
 }
 
+.figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .figure-caption {
   font-size: 0.875rem;
 }

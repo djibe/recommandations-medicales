@@ -25,12 +25,12 @@ todo = "symptômes/fatigue, signes d'insuffisance hépatique, signes de cirrhose
 
 {{%article-summary%}}
 
-- Maladie guérissable (> 90%).
-- Dépister largement (voir *Qui dépister?*) car sous-diagnostiquée.
-- Tout médecin peut prescrire les antiviraux pour la guérison.
-- Évaluation des comorbidités, interactions médicamenteuses et de la fibrose avant le traitement.
-- Traitement par Epclusa® ou Maviret® pendant respectivement 12 ou 8 semaines.
-- Surveillance chronique de la cirrhose et de la charge virale (guérison, réinfection).
+- Maladie guérissable (> 90%)
+- Dépister largement (voir *Qui dépister?*) car sous-diagnostiquée
+- Tout médecin peut prescrire les antiviraux pour la guérison
+- Évaluation des comorbidités, interactions médicamenteuses et de la fibrose avant le traitement
+- Traitement par Epclusa® ou Maviret® pendant respectivement 12 ou 8 semaines
+- Surveillance chronique de la cirrhose et de la charge virale (guérison, réinfection)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

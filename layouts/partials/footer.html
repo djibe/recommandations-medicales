@@ -54,32 +54,13 @@
 <script src="https://instant.page/5.1.0" type="module" crossorigin></script>
 
 {{- with .Params.chart }}
-<script src="https://cdn.jsdelivr.net/npm/apexcharts@3.27.2/dist/apexcharts.min.js" integrity="sha256-yUVRp0kQO+IZ1jyn5vKrhRgeA1uQbPBbFoDX93BjjkI=" crossorigin defer></script>
+<script src="https://cdn.jsdelivr.net/npm/apexcharts@3.27.3/dist/apexcharts.min.js" integrity="sha256-x4AZmQagtBywXlLkl+w68R39zbcAh9gN22tfqoi2cTQ=" crossorigin defer></script>
 <script>
 document.addEventListener( 'DOMContentLoaded', event => {
   Apex = {
     colors: ['#4150f5', '#ffa600', '#dc0fc3', '#ff6642', '#ff0581'],
     chart: {
       background: 'transparent',
-      defaultLocale: 'fr',
-      locales: [{
-        name: 'fr',
-        options: {
-          months: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
-          shortMonths: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
-          days: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
-          shortDays: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
-          toolbar: {
-            download: 'Télécharger en SVG',
-            selection: 'Sélection',
-            selectionZoom: 'Selection Zoom',
-            zoomIn: 'Agrandir',
-            zoomOut: 'Réduire',
-            pan: 'Panning',
-            reset: 'Reset Zoom',
-          }
-        }
-      }],
       fontFamily: 'Roboto, sans-serif',
       foreColor: 'inherit',
       type: 'bar',
@@ -90,7 +71,10 @@ document.addEventListener( 'DOMContentLoaded', event => {
         // colors: ['#F44336', '#E91E63', '#9C27B0']
       }
     },
-    grid: { show: false },
+    grid: {
+      show: false,
+      padding: { right: 16, left: 16}
+     },
     markers: { size: 4 },
     plotOptions: {
       bar: { borderRadius: 2, }
@@ -118,10 +102,10 @@ document.addEventListener( 'DOMContentLoaded', event => {
       style: { 
         color:  'rgba(0,0,0,0.6)'
       },
-      tickPlacement: 'between'
+      crosshairs: {show: false},
+      tooltip: {enabled: false}
     },
     yaxis: {
-      decimalsInFloat: 1,
       forceNiceScale: true,
       labels: {
         style: { colors: 'rgba(0,0,0,0.6)' }
@@ -137,7 +121,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 
 {{- with .Params.flowchart }}
-<script src="https://cdn.jsdelivr.net/npm/mermaid@8.11.0/dist/mermaid.min.js" integrity="sha256-sVAx+v/Q7v0Q2xm5vN7h5ccSna6gaLREhG9sF8pKT6I=" crossorigin></script>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@8.11.5/dist/mermaid.min.js" integrity="sha256-2XLXktqo631mxd0g+wX43tGWiURMz6JYlekFs0J8h2s=" crossorigin defer></script>
 <script>
   // https://mermaid-js.github.io/mermaid/#/Setup?id=fontfamily
   const MermaidConfig = {
@@ -149,7 +133,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
     // logLevel: 1,
     startOnLoad: true,
     securityLevel: 'loose',
-    themeCSS: ".node rect, .node polygon {stroke-width: 0;} .edgePath {opacity: 0.3 !important} .edgePath .path {stroke-width: 2px;}",
+    themeCSS: '.node rect, .node polygon {stroke-width: 0;} .edgePath {opacity: 0.3 !important} .edgePath .path {stroke-width: 2px;}',
     flowchart: {
       curve: 'Basis',
       htmlLabels: true,

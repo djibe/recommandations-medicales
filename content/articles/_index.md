@@ -1,6 +1,6 @@
 +++
 title = "Articles "
-description = "Les outils et informations pour être productif au cabinet."
+description = "Des articles pour aider à appréhender la pratique au cabinet"
 auteurs = ["Jean-Baptiste FRON"]
-draft = true
+draft = false
 +++

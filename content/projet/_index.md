@@ -459,14 +459,12 @@ De plus, nous ne pouvons pas tout savoir, parce qu'au mieux nous ne retenons que
 
 ## Parce que nos pratiques n'évoluent pas
 
-La FMC des médecins est obligatoire depuis le 24 avril 1996[^fmc], et plusieurs renforcements de la loi ont eu lieu depuis.  
+La FMC des médecins est obligatoire depuis le 24 avril 1996 ([CN FMCH. L'obligation de formation médicale continue](https://solidarites-sante.gouv.fr/IMG/pdf/diapos_fmcph.pdf)), et plusieurs renforcements de la loi ont eu lieu depuis.  
 Pourtant, des exemples comme les *prescriptions d'antibiotiques* ou le *suivi du diabète* (voir ci-dessous) ne montrent pas de signes d'amélioration à la hauteur du temps de formation consacré.
 
 **Si un schéma ne fonctionne pas, il faut essayer d'autres solutions.**
 
-> [^fmc]: [CN FMCH. L'obligation de formation médicale continue.](https://solidarites-sante.gouv.fr/IMG/pdf/diapos_fmcph.pdf)
-
-<figure class="figure mb-4">
+<figure class="figure border alert mb-4">
   <div id="chart"></div>
   <figcaption><b>DQD:</b> doses quotidiennes définies/1000 hab/j (DDD en anglais)<br>
   <b>Figure.</b><a href="https://geodes.santepubliquefrance.fr/#c=indicator&f=0&i=antibio_conso.ddd_j01&s=2019&t=a01&view=map2"> Santé Publique France. Consommation en ville de tous les antibiotiques à usages systémiques - tous âges. Géodes.</a></figcaption>
@@ -484,7 +482,7 @@ const chartOptions = {
   },
   stroke: { width: 4 },
   title: { text: 'Consommation en ville de tous les antibiotiques à usage systémique' },
-  yaxis: { decimalsInFloat: 0 }
+  yaxis: { decimalsInFloat: 1 }
 }
 </script>
 
