@@ -3852,6 +3852,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   padding-left: 0 !important;
 }
 
+.p-2 {
+  padding: 0.5rem !important;
+}
+
 
 .px-2 {
   padding-right: 0.5rem !important;
