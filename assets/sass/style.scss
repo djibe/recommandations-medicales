@@ -281,6 +281,11 @@ article {
 
     li {
       font-size: 1rem;
+      margin: 0.5rem 0;
+
+      > .alert {
+        margin-bottom: 0;
+      }
     }
   }
 

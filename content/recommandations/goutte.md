@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-08T09:35:00+02:00
 publishdate = 2021-01-08
-lastmod = 2021-01-10
+lastmod = 2021-08-20
 specialites = ["rhumatologie"]
 annees = "2020"
 sources = ["EULAR", "SFRhumato"]
@@ -18,7 +18,7 @@ image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "CI AINS, HAS, naproxene 750/j, comp goutte, https://www.ebmfrance.net/fr/Pages/ebm/ebm00451.aspx"
+todo = "monoarthrite aigue, CI AINS, HAS, naproxene 750/j, comp goutte, https://www.ebmfrance.net/fr/Pages/ebm/ebm00451.aspx"
 +++
 
 {{%article-summary%}}
@@ -37,36 +37,26 @@ Perte poids, arrêt bière, réduire alcool/sodas/jus, viandes/abats, crustacés
 {{%collapse "Définition" %}}
 
 Goutte
-: Rhumatisme inflammatoire le plus fréquent dans le monde, surtout chez l'homme âgé. Elle est la conséquence d'une hyperuricémie chronique.
+: Rhumatisme inflammatoire le plus fréquent dans le monde, surtout chez l'homme âgé. Elle est la conséquence d'une *hyperuricémie chronique*.
 : Famille des *arthropathies microcristallines* par dépôts de cristaux d’*urate de sodium* (monosodique dit UMS) dans les articulations. Ces derniers provoquent des arthrites aiguës, récidivantes et de résolution spontanée.  
 Prévalence de 0,9 à 2,5% selon les pays, en augmentation.
+: **Complications:** tophus, arthropathies uratiques, colique néphrétique, lithiases uriques radiotransparentes, néphropathie goutteuse.
 
 Tophus
 : Dépôt tissulaire de cristaux d'acide urique entouré de cellules inflammatoires lors de chronicité de la maladie.  
-Localisés autour des articulations atteintes et préférentiellement oreille (pavillon et hélix), bursite olécrânienne, tendon d'Achille et patellaire, IPD ou pulpe digitale.
+Localisés autour des articulations atteintes et préférentiellement oreille (pavillon et hélix), bursite olécrânienne, tendon d'Achille et patellaire, inter-phalangienne distale ou pulpe digitale.
 
 Allopurinol
 : Médicament hypo-uricémiant utilisé trop largement.  
 Il est la 1<sup>re</sup> de cause survenue de toxidermies bulleuses graves en Europe.  
-La mortalité est de 20-30% et 60% de ces accidents sous *allopurinol* surviennent chez des patients qui n’ont aucune indication au traitement.
-
-{{% /collapse %}}
-{{%collapse "Complications de la goutte" %}}
-
-- Tophus
-- Arthropathies uratiques  
-Par tophi intra-articulaires et osseux.
-- Colique néphrétique  
-Lithiases uriques radiotransparentes.
-- Néphropathie goutteuse
+La **mortalité** est de 20-30% et 60% de ces accidents sous *allopurinol* surviennent chez des patients qui n’ont aucune indication au traitement.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 ### Interrogatoire
 
-- Âge, sexe, IMC
-- Facteurs de risques cardiovasculaires  
+- Facteurs de risques cardiovasculaire  
 Tabagisme, HTA, diabète, dyslipidémie, obésité.
 - Traitements en cours  
 - Médicaments hyperuricémiants  
@@ -76,14 +66,15 @@ Diurétiques, interactions médicamenteuses (biphosphonates).
 Greffe d'organe, colique néphrétique, insuffisance rénale, ulcère gastro-duodénal, infections ...
 - Alcool
 - Antécédents de crise de goutte (délai entre 2 crises), hyperuricémie connue, signes radiologiques
-- Anamnèse de la crise  
-  - Début brutal avec max sous 24h, extrêmement douloureux.
-  - Gonflement et rougeur locale.
-  - Atteint surtout les membres inférieurs (MTP1 ou pied/cheville voire genou) avec impotence.
-  - Sensibilité rapide à la colchicine précoce.
+- **Anamnèse de la crise**  
+  - Début brutal avec maximum sous 24h, extrêmement douloureux
+  - Gonflement et rougeur locale
+  - Atteint surtout les membres inférieurs (MTP1 ou pied/cheville voire genou) avec impotence
+  - Sensibilité rapide à la colchicine précoce
 
 ### Examen clinique
 
+- Poids, taille, IMC
 - Articulations, déformations
 - Tophi
 - Examen cardiovasculaire (pression artérielle, pouls périphériques)
@@ -93,7 +84,7 @@ Greffe d'organe, colique néphrétique, insuffisance rénale, ulcère gastro-duo
 
 ### Biologie
 
-Compléte le bilan des facteurs de risque cardiovasculaires.
+Compléte le bilan des facteurs de risque cardiovasculaire.
 
 - Créatininémie et clairance CDK-EPI
 - Uricémie
@@ -102,9 +93,9 @@ Compléte le bilan des facteurs de risque cardiovasculaires.
 
 ### Radiographies articulaires
 
-radiographies des articulations atteintes au diagnostic pour le diagnostic différentiel (chondrocalcinose articulaire, arthrite infectieuse).
+Radiographies des articulations atteintes au diagnostic pour le diagnostic différentiel (chondrocalcinose articulaire, arthrite infectieuse).
 
-L'arthropathie uratique est tardive avec géodes, encoches épiphysaires et ostéophytose marginale.
+{{%class%}}L'arthropathie uratique est tardive avec géodes, encoches épiphysaires et ostéophytose marginale.{{%/class%}}
 
 ### Échographie articulaire
 
@@ -113,31 +104,25 @@ Peut être utile pour affirmer le diagnostic et étayer le diagnostic différent
 {{% /collapse %}}
 {{%collapse "Traitement de la crise de goutte" %}}
 
-{{%info%}}Naproxène 550 mg x 2/j et paracétamol 1 g x 4/j{{%/info%}}
-
 Le plus précoce possible (12 premières heures), dès les prodromes (auto-médication adaptée aux comorbidités).  
 Traitement adapté à la tolérance et à l’efficacité passée.
 
 - Repos au lit avec immobilisation de l'articulation
 - Glaçage de l'articulation  
 3 fois par jour pendant 10-15 minutes x 3/j (avec protection cutanée).
-- Antalgique palier 1 per os pleine dose  
-Paracétamol 4 g/j.
+- Paracétamol pleine dose
 - Hydratation  
 Force la diurèse à 2-3 L/jour.
 - Régime hypocalorique (< 2000 kcal/j) et hypo-uricémiant
 - **AINS**  
   - À prendre dès le début des symptômes, uniquement le temps de la poussée.
-  - Naproxène 550 mg x 2/j le temps de la crise (max 7j).
-  - Ne pas utiliser en maladie cardiovasculaire grave ou IRC.
-- Ponction évacuatrice et infiltration de corticoïdes  
-Contre-indication formelle si sepsis, intérêt pour confirmation diagnostique.  
-Efficacité thérapeutique non prouvée pour la ponction, pas de différence d'efficacité pour les dérivés cortisoniques prouvée.
+  - {{%info-span%}}Naproxène 550 mg x 2/j le temps de la crise (max 7j){{%/info-span%}}
+  - Ne pas utiliser si maladie cardiovasculaire grave ou IRC
 - Envisager un traitement de fond
 
 ### Colchicine
 
-En 2<sup>e</sup> intention selon Prescrire®. En remplacement des AINS.
+Indication: en 2<sup>e</sup> intention selon *Prescrire®* (à la place des AINS).
 
 {{%info%}}
 Colchicine 1 mg per os avec 2<sup>e</sup> prise de 0,5 mg 1 heure après.  
@@ -147,25 +132,26 @@ Puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours
 - Réduire/arrêter la dose en cas de survenue de diarrhées.
 - Débuter si crise datant < 12 heures (à avoir toujours sur soi).
 - Diminuer la dose chez l'insuffisant rénal et le sujet âgé.
-- Adapter la posologie avec certains traitements. [Vérifier les interactions avec la colchicine](https://go.drugbank.com/drugs/DB01394).
+- Adapter la posologie avec certains traitements  
+[Vérifier les interactions avec la colchicine](https://go.drugbank.com/drugs/DB01394).
 - Attention à l’association avec les statines (neuro et musculo-toxicité).
 - Contre-indiquée si insuffisance rénale sévère, ciclosporine, clarithromycine, vérapamil, kétoconazole (vérifier les interactions).
 
 **NB.** Lors d'un premier accès, elle est aussi utilisée comme test thérapeutique.
 
-### Corticoïdes
+### Corticoïdes per os
 
-En 1<sup>re</sup> intention en cas de monoarthrite de grosse articulation infiltrable.
-En 3<sup>e</sup> intention, en remplacement des AINS et de la colchicine.
+Indication: en 3<sup>e</sup> intention, en remplacement des AINS et de la colchicine.
 
-{{%info%}}Prednisone 30-35 mg x 1/j pendant 3 à 5 jours{{%/info%}}
-
+{{%info%}}Prednisone 30-35 mg x 1/j pendant 3-5 jours{{%/info%}}
+  
 Ne pas associer AINS et corticoïdes.  
 Ne pas utiliser en cas de diabète ou d'HTA déséquilibrés.
 
 {{%info%}}
 Possibilité d'infiltrations de corticoïdes pour une arthrite facilement accessible (ex. genou).  
-Elles doivent être privilégiées afin d'épargner un traitement général.
+Elles doivent être privilégiées afin d'épargner un traitement général.  
+Contre-indication formelle si sepsis, intérêt pour confirmation diagnostique.
 {{%/info%}}
 
 ### Inhibiteur IL-1
@@ -179,16 +165,15 @@ Traitement de dernier ressort en cas de:
 - Contre-indication ou résistance à la colchicine
 - ET ≥ 3 crises durant l’année précédente
 
-*Canakinumab* (Ilaris®) 150 mg SC x 1/j 1 dose unique.  
-Intervalle de 12 semaines entre 2 injections.  
+*Canakinumab* (Ilaris®) 150 mg SC dose unique.  
+Intervalle de 12 semaines entre 2 injections.
 
-Associer un traitement de fond.  
-Traitement contre-indiqué en infection active.
+Traitement contre-indiqué en cas d'infection active.
 
 {{% /collapse %}}
 {{%collapse "Traitement de fond et RHD" %}}
 
-**Objectif:** Prévenir les crises douloureuses et les complications par la dissolution des cristaux d'urate de sodium.
+{{%info%}}**Objectif:** Prévenir les crises douloureuses et les complications par la dissolution des cristaux d'urate de sodium.{{%/info%}}
 
 ### Mesures hygiéno-diétetiques en cas de goutte
 
@@ -198,7 +183,7 @@ Ces mesures ont plus d’effets sur le profil cardiovasculaire que sur l’uric�
 Substituer si possible car très uricosuriques, par losartan ou amlodipine.
 - Si dyslipidémie associée:  
 Préférer la substitution de la statine par fénofibrate car très hypouricémiant.
-- Si surpoids:
+- Si surpoids:  
 Perte de poids.
 - Réduction de la consommation d'alcool  
 Bière et spiritueux.
@@ -220,19 +205,18 @@ Voir *Information du patient*.
 - Ciclosporine, tacrolimus
 - Pyrazinamide, éthambutol
 
-Remplacer si possible par hypouricémiants:
-
+Remplacer si possible par hypouricémiants:  
 Losartan, fénofibrate, atorvastatine, amlodipine.
 
 ### Traitement de fond de la goutte
 
 {{%warning%}}Informer systématiquement sur la nécessité d’interrompre immédiatement le traitement en cas de réaction cutanée et de consulter immédiatement un médecin.{{%/warning%}}
 
-{{%info%}}Traitement de fond à débuter dès que le diagnostic de goutte symptomatique est posé avec cible d'uricémie < 50 mg/L (SFRhumato).{{%/info%}}
+{{%info%}}Traitement de fond à débuter dès que le diagnostic de goutte symptomatique est posé avec cible d'uricémie < 50 mg/L (*SFRhumato*).{{%/info%}}
 
 {{%class-block%}}
 
-Proposé d'emblée car la goutte est un facteur de risque indépendant de mortalité prématurée (SFRhumato).
+Proposé d'emblée car la goutte est un facteur de risque indépendant de mortalité prématurée (*SFRhumato*).
 
 Le traitement est long: à 2 ans des cristaux sont encore visibles en imagerie malgré un traitement efficace.
 
@@ -247,7 +231,7 @@ Ne pas descendre sous les 30 mg/L au long cours car probable rôle neuroprotecte
 
 Débuter à dose faible puis titration jusqu’à objectif biologique (< 50 mg/L).
 
-{{%info%}}Allopurinol (Zyloric®, générique) 50 à 100 mg/j, paliers de 50 à 100 mg /2-4 semaines jusqu’à l’objectif uricémique (max 900 mg/j) puis prolongé au long cours.{{%/info%}}
+{{%info%}}Allopurinol 50 à 100 mg/j, paliers de 50 à 100 mg /2-4 semaines jusqu’à l’objectif uricémique (max 900 mg/j) puis prolongé au long cours.{{%/info%}}
 
 Traitement de fond de choix selon la clairance:
 
@@ -317,7 +301,7 @@ Uricosurique alternatif de l'allopurinol et du fébuxostat, le probénécide (Sa
 
 {{< mermaid title="Conduite à tenir thérapeutique devant une crise de goutte. Dr JB FRON d'après SFR 2020" >}}
 graph TB
-  crise[Crise de goutte] --> rhd("Éducation<br>Traitement à avoir sur soi<br>Envisager hypouricémiant")
+  crise[Crise de goutte] --> rhd("- Éducation<br>- Traitement à avoir sur soi<br>- Envisager hypouricémiant")
   style crise stroke:#4150f5, stroke-width:1px
     rhd --> comorbidites("Comorbidités et<br>coprescriptions")
       comorbidites -- Sans --> sans("AINS +/- IPP<br>ou colchicine<br>ou corticoïdes") .-> echec("Échec des possibilités")
@@ -332,25 +316,25 @@ graph TB
 **MCV:** maladie cardiovasculaire  
 **Inhibiteurs CYP3A4/GP:** pristinamycine, macrolides...  
 **Colchicine** J1: 1 mg puis 0,5 mg à H1 puis jours suivants 0,5 mg x 2-3/j.  
-**AINS:** Naproxène.  
-**Corticoïdes:** 30-35 mg/j prednisone 5 jours ou infiltration de grosse articulation.  
+**AINS:** naproxène.  
+**Corticoïdes:** 30-35 mg/j prednisone 5 jours.
 
 {{%/collapse%}}
 {{% collapse "Conduite à tenir pour le traitement hypouricémiant" "show" %}}
 
 {{< mermaid title="Conduite à tenir thérapeutique pour le traitement hypouricémiant. Dr JB FRON d'après SFR 2020" >}}
 graph TB
-  diagnostic[Diagnostic de goutte] --> education(Éducation<br>Traitement sur soi<br>RHD)
+  diagnostic[Diagnostic de goutte] --> education(<b>Éducation</b><hr>- Traitement sur soi<br>- RHD)
   style diagnostic stroke:#4150f5, stroke-width:1px
     education --> clairance(Évaluation clairance et<br>cardiovasculaire)
-      clairance -- Sans comorbidités --> allopurinol(Allopurinol 50<br>à 100 mg/j) --> prophylaxie("Prophylaxie<br>colchicine 0,5 à 1 mg/j &ge; 6 mois")
+      clairance -- Sans comorbidités --> allopurinol(Allopurinol 50<br>à 100 mg/j) --> prophylaxie("Associer la prophylaxie:<br>colchicine 0,5 à 1 mg/j &ge; 6 mois")
       clairance -- IRC modérée --> ircmoderee(Allopurinol 50 mg<br>ou fébuxostat 40 mg x 2/j) --> prophylaxie
       clairance -- IRC sévère --> ircsevere(Fébuxostat 40 mg x 2/j) --> prophylaxie
       clairance -- MCV sévère --> mcv(<b>Pas de fébuxostat</b>)
-        prophylaxie -- Titration --> titration("<b>Augmenter l'hypouricémiant de:</b><br>- Allopurinol: 50-100 mg/j (max 900)<br>- Fébuxostat: 40 mg/j (max 120)")
-          titration --> uricemie(Uricémie à 2 ou 4 semaines<br>Cible &lt; 50 mg/L) --> titration
-            uricemie -- "&lt; 50 mg/L" --> cible(<b>Cible atteinte</b><br>Poursuite à vie) --> surv("Uricémie 1-2/an et <br>adaptation hypouricémiant")
-            uricemie -- "&lt; 60 mg/L" --> presque(Maintenir la dose à vie<br>Envisager autres mesures<br>hypouricémiantes) --> surv
+        prophylaxie -- Titration --> titration("<b>Augmentation par paliers:</b><br>- Allopurinol: 50-100 mg/j (max 900)<br>- Fébuxostat: 40 mg/j (max 120)")
+          titration -- 2 à 4 semaines --> uricemie(Contrôle de l'uricémie<hr>Cible d'uricémie &lt; 50 mg/L) --> titration
+            uricemie -- "&lt; 50 mg/L" --> cible(<b>Cible atteinte</b><br>Poursuite à vie) --> surv("Surveillance uricémie 1-2/an et <br>adaptation du traitement de fond")
+            uricemie -- "&lt; 60 mg/L" --> presque(Maintenir la dose à vie<br>Envisager d'autres mesures<br>hypouricémiantes) --> surv
             uricemie -- "> 60 mg/L" --> hors(Maintenir doses maximales<br>Considérer uricosuriques) --> surv
 {{< /mermaid >}}
 
