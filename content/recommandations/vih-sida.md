@@ -29,7 +29,7 @@ todo = "relecture CNS, TPE et PrEP, https://ansm.sante.fr/tableau-marr/emtricita
 - Observance et suivi spécialisé
 - Maladie à [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
 - Aide à la consultation: [VIHclic](https://vihclic.fr/)
-- [JeMeDépiste.com](https://jemedepiste.com/)
+- Rappels du dépistage pour le patient: [JeMeDépiste.com](https://jemedepiste.com/)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

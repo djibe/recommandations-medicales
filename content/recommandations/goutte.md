@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-08T09:35:00+02:00
 publishdate = 2021-01-08
-lastmod = 2021-08-20
+lastmod = 2021-08-25
 specialites = ["rhumatologie"]
 annees = "2020"
 sources = ["EULAR", "SFRhumato"]
@@ -18,7 +18,7 @@ image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "monoarthrite aigue, CI AINS, HAS, naproxene 750/j, comp goutte, https://www.ebmfrance.net/fr/Pages/ebm/ebm00451.aspx"
+todo = "monoarthrite aigue, HAS, comp goutte, https://www.ebmfrance.net/fr/Pages/ebm/ebm00451.aspx"
 +++
 
 {{%article-summary%}}
@@ -69,7 +69,8 @@ Greffe d'organe, colique néphrétique, insuffisance rénale, ulcère gastro-duo
 - **Anamnèse de la crise**  
   - Début brutal avec maximum sous 24h, extrêmement douloureux
   - Gonflement et rougeur locale
-  - Atteint surtout les membres inférieurs (MTP1 ou pied/cheville voire genou) avec impotence
+  - Atteint surtout les membres inférieurs  
+  **Gros orteil** = 1<sup>re</sup> métatarsophalangienne ou pied/cheville voire genou avec impotence
   - Sensibilité rapide à la colchicine précoce
 
 ### Examen clinique
@@ -338,7 +339,8 @@ graph TB
             uricemie -- "> 60 mg/L" --> hors(Maintenir doses maximales<br>Considérer uricosuriques) --> surv
 {{< /mermaid >}}
 
-> **MCV:** Maladie cardiovasculaire, 50 mg/L = 300 µmol/L
+> **MCV:** Maladie cardiovasculaire  
+**Acide urique:** 50 mg/L = 300 µmol/L
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
@@ -346,7 +348,7 @@ graph TB
 - Les douleurs sont causées par les dépôts d'urate de sodium dans les articulations
 - Importance du régime et surtout de la réduction de l'alcool
 - Arrêt définitif de la bière, même sans alcool
-- Arrêt des sodas, limiter jus d’orange et de pomme (fructose)
+- Limiter le fructose: arrêt des sodas, limiter jus d’orange et de pomme
 - Éviter les gros repas
 - Éviter les excès en viandes, abats et crustacés (riches en purines)
 - Encourager les produits quotidiens pauvres en graisses, le lait écrémé et les yaourts faibles en calories.  
@@ -378,8 +380,8 @@ Intérêt de colchicine prophylactique.
 - [Prescrire Rédaction. Douleur et crise de goutte. Septembre 2020.](https://prescrire.org)
 - [EULAR. 2016 updated EULAR evidence-based recommandations for the management of gout. July 25, 2016.](https://ard.bmj.com/content/76/1/29)
 - [La Revue Prescrire. Fébuxostat : syndromes de Lyell et hypersensibilités graves ajoutés dans le RCP. Février 2015.](https://prescrire.org/)
-- ANSM. Allopurinol et risque de survenue de toxidermies graves – Lettre aux professionnels de santé. 25 Février 2013.
+- [ANSM. Allopurinol et risque de survenue de toxidermies graves – Lettre aux professionnels de santé. 25 Février 2013.](http://dev4-afssaps-marche2017.integra.fr/content/download/46768/603562/version/1/file/ddl-130225-Allopurinol.pdf)
 - Société Française de Rhumatologie. Traitement de la goutte. Revue du Rhumatisme 74. 2007.
-- Collège Français des Enseignants en Rhumatologie (COFER). Item 198 UE 8 - Arthropathie microcristalline.
+- [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8.](http://www.lecofer.org/item-cours-1-19-0.php#ch_2_1)
 
 {{% /collapse %}}
