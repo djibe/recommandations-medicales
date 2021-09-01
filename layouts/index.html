@@ -28,7 +28,7 @@
             </p>
           </div>
           <div class="card-actions">
-            {{ partial "widgets/guidelineyear-render.html" . }}{{ partial "widgets/tags-render.html" . }}
+            {{ partial "widgets/guidelineyear-render.html" . }}{{ partial "widgets/tags-outline-render.html" . }}
           </div>
         </div>
       {{ end }}
@@ -57,7 +57,7 @@
       <p class="typography-overline mt-5" style="color: #666">Derniers articles</p>
       <div class="home-articles">
       {{ range ( where site.RegularPages "Section" "articles" | first 6 ) }}
-          <div class="card card-body" style="max-width: 380px;">
+          <div class="card card-primary-action card-body" style="max-width: 380px;">
             <h3 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h3>
             <p class="card-subtitle pb-0">
               {{ with .Params.auteurs}}

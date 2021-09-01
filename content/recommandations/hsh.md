@@ -6,7 +6,7 @@ synonyms = ["Homosexuel ou bisexuel masculin"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-22T17:43:41+02:00
 publishdate = 2020-07-22
-lastmod = 2021-06-08
+lastmod = 2021-08-25
 specialites = ["infectiologie"]
 annees = "2020"
 sources = ["HAS", "MinSante"]
@@ -22,7 +22,7 @@ todo = "TODO: gono, https://www.eacsociety.org/files/2019_guidelines-10.0_final.
 {{%article-summary%}}
 
 - Port du préservatif systématique
-- Parler de la [PrEP]({{< relref "vih-sida.md" >}})
+- Parler de la [PrEP]({{< relref "vih-sida.md" >}}#prophylaxie-pré-exposition-prep)
 - Dépistage du VIH tous les 3 mois (*HAS 2017*)
 - Dépistage du *Chlamydia* tous les 3-6 mois (*HAS 2018*)
 - Vaccination hépatite A (après sérologie), hépatite B, papillomavirus (jusqu'à 26 ans)
@@ -32,7 +32,7 @@ todo = "TODO: gono, https://www.eacsociety.org/files/2019_guidelines-10.0_final.
 
 **HSH:** Homme ayant des rapports sexuel avec des hommes
 
-Surexposition au [VIH] (prévalence 13%, 45% des cas), [syphilis]({{< relref "syphilis.md" >}}) (80% des cas), [HPV]({{< relref "papillomavirus.md" >}}), [hépatite A]({{< relref "hepatite-A.md" >}}), autres IST.
+Surexposition au [VIH]({{{{< relref "vih-sida.md" >}}}}) (prévalence 13%, 45% des cas), [syphilis]({{< relref "syphilis.md" >}}) (80% des cas), [HPV]({{< relref "papillomavirus.md" >}}), [hépatite A]({{< relref "hepatite-A.md" >}}), autres IST.
 
 ### Épidémiologie
 

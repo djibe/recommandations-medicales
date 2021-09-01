@@ -18,7 +18,7 @@ image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "monoarthrite aigue, HAS, comp goutte, https://www.ebmfrance.net/fr/Pages/ebm/ebm00451.aspx"
+todo = "relecture demandée, monoarthrite aigue, HAS, comp goutte, https://www.ebmfrance.net/fr/Pages/ebm/ebm00451.aspx"
 +++
 
 {{%article-summary%}}

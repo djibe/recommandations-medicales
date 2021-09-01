@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
 publishdate = 2021-06-03
-lastmod = 2021-07-21
+lastmod = 2021-09-01
 specialites = ["cardiologie"]
 annees = "2016"
 sources = ["ESC", "HAS"]
@@ -22,7 +22,7 @@ todo = "bilan sortie hospit, apnees sommeil, https://www.santepubliquefrance.fr/
 
 {{%article-summary%}}
 
-- Les prochaines recommandations *ESC* sortiront été 2021
+- Les recommandations *ESC 2021* sont disponibles (pas encore intégrées)[https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehab368/6358045]
 - Évoquer devant fatigue, dyspnée, œdèmes chevilles...
 - ECG, NT-proBNP et consultation de cardiologie...
 - Bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), anémie)
@@ -470,6 +470,8 @@ réalistes
 
 {{%/collapse%}}
 {{%collapse "Sources" %}}
+
+À lire: [McDonagh T et al, ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) With the special contribution of the Heart Failure Association (HFA) of the ESC.European Heart Journal. 2021.](https://doi.org/10.1093/eurheartj/ehab368)
 
 - Prescrire Redaction. Insuffisances cardiaques médicamenteuses en bref, Patients insuffisants cardiaques chroniques. Janvier 2021.
 - [Collège National des Enseignants de Cardiologie. Insuffisance cardiaque. Item 232 - UE8. Cardiologie 2e édition. Octobre 2019.](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch18_insuffisance_cardiaque.pdf)
