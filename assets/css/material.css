@@ -4292,6 +4292,7 @@ input:disabled + .chip {
 
 .list-group-item {
   align-items: center;
+  background-color: transparent;
   border: 0;
   color: rgba(0, 0, 0, 0.87);
   display: block;

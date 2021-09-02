@@ -253,8 +253,9 @@ graph TB
 {{< /mermaid >}}
 
 > **DIU:** stérilet  
+**EAN:** échelle de douleur numérique  
 **LNG:** lévonorgestrel  
-**SFR:** signes fonctionnels urinaires
+**SFU:** signes fonctionnels urinaires
 
 {{% /collapse %}}
 {{%collapse "Information de la patiente" %}}

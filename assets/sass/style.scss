@@ -270,6 +270,9 @@ article {
     margin-bottom: 12px;
     margin-top: 32px;
   }
+  .card-header > .card-title {
+    margin: 0;
+  }
 
   p:not([class]) {
     @extend .typography-body-1;
@@ -721,6 +724,13 @@ legend {
   background: var(--primary);
   color: white;
   transition: color 100ms 200ms, background-color 100ms 200ms;
+}
+
+.accordion {
+  .collapse.show,
+  .list-group {
+    margin-bottom: 0 !important;
+  }
 }
 
 /* Plugins */

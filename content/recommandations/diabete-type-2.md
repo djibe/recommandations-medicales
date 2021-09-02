@@ -52,8 +52,12 @@ Négocier une perte de poids (5-10%).
 
 *Version préliminaire.*
 
-<form>
-<fieldset class="border-bottom pb-4 mb-4">
+Les choix préférentiels sont entourés ou en couleur par défaut.
+
+---
+
+<form class="border p-4 mb-4">
+<fieldset class="m-0">
 <legend>Comorbidités</legend>
   <input type="checkbox" id="obese" class="d-none">
   <label for="obese" class="chip chip-action chip-filter">Obésité</label>
@@ -65,10 +69,11 @@ Négocier une perte de poids (5-10%).
   <label for="ic" class="chip chip-action chip-filter" data-toggle="tooltip" title="Insuffisance cardiaque">Insuf. cardiaque</label>
 </fieldset>
 </form>
-<p class="typography-overline">1<sup>re</sup> intention</p>
+<h3 class="typography-overline">1<sup>re</sup> intention</h3>
 <button class="chip chip-action mb-2" type="button" data-toggle="modal" data-target="#modal-metformine">Metformine</button>
+<p class="text-warning my-2">La metformine doit toujours être maintenue.</p>
 <!-- 2e intention -->
-<p class="typography-overline mt-3">Bithérapie - Ajouter au choix</p>
+<h3 class="typography-overline mt-3">Bithérapie - Ajouter au choix</h3>
 <div class="mb-2 choix-standard">
   <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-idpp4">iDDP4</button>
   <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-su">SU</button>
@@ -79,6 +84,87 @@ Négocier une perte de poids (5-10%).
 </div>
 <div class="mb-2 choix-ic">
   <button class="chip chip-action" type="button">iSGLT2</button>
+</div>
+<!-- 3e intention -->
+<h3 class="typography-overline mt-3">Trithérapie - Selon les traitements essayés</h3>
+<div class="mb-2 choix-standard">
+  <div class="accordion mb-5" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+      <h4 class="card-title">Après iDPP4</h4>
+    </div>
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item list-group-item-action text-info" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
+          <li class="list-group-item list-group-item-action text-info">Ajouter un iSGLT2</li>
+          <li class="list-group-item list-group-item-action text-info">Substituer par un GLP-1 RA</li>
+          <li class="list-group-item list-group-item-action">Substituer par une insuline basale</li>
+           <li class="list-group-divider" role="separator"></li>
+          <li class="list-group-item font-weight-bold">Si iDD4 inefficace</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Substituer par un SU</li>
+          <li class="list-group-item list-group-item-action">Substituer par un iSGLT2</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+      <h4 class="card-title">Après sulfamide</h4>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body">
+         <ul class="list-group list-group-flush">
+          <li class="list-group-item list-group-item-action text-info" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
+          <li class="list-group-item list-group-item-action text-info">Ajouter un iSGLT2</li>
+          <li class="list-group-item list-group-item-action text-info">Ajouter un GLP-1 RA</li>
+          <li class="list-group-item list-group-item-action">Substituer par une insuline basale</li>
+           <li class="list-group-divider" role="separator"></li>
+          <li class="list-group-item font-weight-bold">SU avec hypoglycémies sévères/répétées</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-idpp4">Substituer par un iDPP4</li>
+          <li class="list-group-item list-group-item-action">Substituer par un iSGLT2</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+      <h4 class="card-title">Après iSGLT2</h4>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+      <div class="card-body">
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item list-group-item-action text-info" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
+          <li class="list-group-item list-group-item-action text-info" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
+          <li class="list-group-item list-group-item-action text-info">Ajouter un GLP-1 RA</li>
+          <li class="list-group-item list-group-item-action">Ajouter une insuline basale</li>
+           <li class="list-group-divider" role="separator"></li>
+          <li class="list-group-item font-weight-bold">iSGLT2 inefficace</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Substituer par un SU</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-iddp4">Substituer par un iDPP4</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingFour" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+      <h4 class="card-title">Après GLP-1 RA</h4>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+      <div class="card-body">
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item list-group-item-action text-info">Ajouter une basale</li>
+          <li class="list-group-item list-group-item-action text-info" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
+          <li class="list-group-item list-group-item-action text-info">Ajouter un iSGLT2</li>
+           <li class="list-group-divider" role="separator"></li>
+          <li class="list-group-item font-weight-bold">GLP-1 RA inefficace</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Substituer par un SU</li>
+          <li class="list-group-item list-group-item-action">Substituer par un iSGLT2</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 </div>
 <script>
 window.onload = () => {
