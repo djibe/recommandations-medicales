@@ -90,7 +90,7 @@ Les choix préférentiels sont entourés ou en couleur par défaut.
 <div class="mb-2 choix-standard">
   <div class="accordion mb-5" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+    <div class="card-header" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" role="button">
       <h4 class="card-title">Après iDPP4</h4>
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
@@ -109,7 +109,7 @@ Les choix préférentiels sont entourés ou en couleur par défaut.
     </div>
   </div>
   <div class="card">
-    <div class="card-header" id="headingTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+    <div class="card-header" id="headingTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" role="button">
       <h4 class="card-title">Après sulfamide</h4>
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
@@ -128,7 +128,7 @@ Les choix préférentiels sont entourés ou en couleur par défaut.
     </div>
   </div>
   <div class="card">
-    <div class="card-header" id="headingThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+    <div class="card-header" id="headingThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" role="button">
       <h4 class="card-title">Après iSGLT2</h4>
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
@@ -147,7 +147,7 @@ Les choix préférentiels sont entourés ou en couleur par défaut.
     </div>
   </div>
   <div class="card">
-    <div class="card-header" id="headingFour" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+    <div class="card-header" id="headingFour" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" role="button">
       <h4 class="card-title">Après GLP-1 RA</h4>
     </div>
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">

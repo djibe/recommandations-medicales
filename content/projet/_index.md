@@ -4,13 +4,13 @@ prefix = ""
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-06T09:56:35+02:00"
 publishdate = "2021-07-07"
-lastmod = "2021-07-09"
+lastmod = "2021-09-04"
 draft = false
 chart = true
 todo = "image"
 +++
 
-<div class="w-100 mb-5">
+<div class="w-100 mb-5"><!-- illustration -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4306 2667">
   <defs>
     <clipPath id="a" clipPathUnits="userSpaceOnUse">
@@ -440,29 +440,30 @@ todo = "image"
 </svg>
 </div>
 
-*Recommandations médicales* est né de la nécessité d'obtenir rapidement les éléments de référence pour des prises en charge de qualité au cours de mes consultations de médecine générale.  
-Voici, rapidement, les constats qui m'ont conduit à travailler à temps plein sur ce projet.
+## Motivation du projet
+
+Comme tous mes confrères, je suis confronté quotidiennement à la nécessité d’obtenir rapidement les éléments de référence pour des prises en charge de qualité au cours de mes consultations de médecine générale. À cet effet, je me heurte à plusieurs obstacles:
 {.lead}
 
-## Parce que l'information est cachée
+### L’état de l’art évolue rapidement et sa dissémination aux généralistes est très limitée
 
 L'**État de l'art** est dispersé sur internet (HAS, sociétés savantes...), dans des documents trop longs. Il n'est pas adapté aux soins primaires, quand il n'est pas tout simplement détenu par des éditeurs (Elsevier...), à 30€ l'article. De plus, le rythme des publications est rapide.
 
-**Au final, le progrès n'atteint pas les médecins.**
+> Les progrès de la médecine n’atteignent guère les généralistes
 
-## Parce que c'est humainement impossible
+### Le généraliste ne peut tout savoir et ne peut souvent pas accéder aux informations pertinentes en temps utile pour la consultation
 
-Le médecin généraliste est le premier intervenant de la grande majorité des soins. Il est donc exposé à tous les motifs de consultation, sans avoir les ressources nécessaires pour offrir un premier bilan optimal.  
-De plus, nous ne pouvons pas tout savoir, parce qu'au mieux nous ne retenons que 10% de ce que nous apprenons. Seul un assistant informationnel permettrait de résoudre ce dilemme.
+Le médecin généraliste est le premier intervenant de la grande majorité des soins. Il est donc exposé à tous les motifs de consultation, sans avoir toujours accès aux informations nécessaires pour offrir un premier bilan optimal.  
+Il ne peut pas tout savoir, et l’humain ne retient au mieux que 10% de ce qu’il apprend. Seul un assistant informationnel permettrait de résoudre ce dilemme.
 
-**L'information doit être accessible rapidement pendant la consultation.**
+> L’information pertinente doit être accessible rapidement pendant la consultation
 
-## Parce que nos pratiques n'évoluent pas
+### La formation médicale continue (FMC) est peu efficace
 
-La FMC des médecins est obligatoire depuis le 24 avril 1996 ([CN FMCH. L'obligation de formation médicale continue](https://solidarites-sante.gouv.fr/IMG/pdf/diapos_fmcph.pdf)), et plusieurs renforcements de la loi ont eu lieu depuis.  
+La FMC des médecins est obligatoire depuis le 24 avril 1996 ([CN FMCH. L'obligation de formation médicale continue](https://solidarites-sante.gouv.fr/IMG/pdf/diapos_fmcph.pdf)), et la loi a été renforcée plusieurs fois depuis lors.  
 Pourtant, des exemples comme les *prescriptions d'antibiotiques* ou le *suivi du diabète* (voir ci-dessous) ne montrent pas de signes d'amélioration à la hauteur du temps de formation consacré.
 
-**Si un schéma ne fonctionne pas, il faut essayer d'autres solutions.**
+> Si un schéma ne donne pas les résultats escomptés, il faut en chercher d’autres
 
 <figure class="figure border alert mb-4">
   <div id="chart"></div>
@@ -488,12 +489,41 @@ const chartOptions = {
 
 {{< figure title="Proportion de personnes diabétiques traitées pharmacologiquement ayant bénéficié des examens de suivi recommandés, France entière, 2001, 2007 et 2013. Fosse-Edorh S. 2015" image="/images/photos/suivi-diabete.webp" height="380">}}
 
-## Parce que le texte ne suffit pas
+### Un texte ne suffit pas
 
-Initialement sur mon stockage personnel, mes fiches textes ne me permettaient pas de répondre à la complexité croissante de la médecine moderne: des scores, des arbres de décisions qui ne peuvent tenir avec des mots.  
-Ce défaut est récurrent sur les sites déjà existants, pourtant d'une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net/), [doctofiche](https://doctofiche.fr/), [HEYDoctor](https://wiki.heydoctor.fr/fr/index), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil)...
+Initialement sur mon stockage personnel, mes fiches textes ne me permettaient pas de répondre à la complexité croissante de la médecine moderne: des scores, des arbres de décisions se décrivent difficilement avec des mots.  
+Cette limitation est récurrente sur les sites existants, pourtant d’une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net/), [doctofiche](https://doctofiche.fr/), [HEYDoctor](https://wiki.heydoctor.fr/fr/index), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil)...
 
-**Cette plateforme offre la démonstration technologique d'un outil simple, gratuit et Open Source afin que l'effort fourni soit entièrement dédié à la création de contenu didactique.**
+## Objectifs du Projet
+
+Le projet << Recommandations Médicales >> vise à produire un démonstrateur de plateforme informatique **permettant à tous les généralistes d’accéder rapidement aux informations médicales les plus récentes nécessaires à chaque prise en charge**.
+
+Le démonstrateur doit être **hautement interactif, simple d’emploi, gratuit et Open Source**.
+
+Le **contenu** de la plateforme opérationnelle suivant le démonstrateur devra être **validé** par les autorités médicales et/ou spécialistes respectifs, et **tenu à jour en permanence**.
+
+**L’effort pourra alors être principalement consacré à la création, la validation et la mise à jour du contenu médical de la plateforme opérationnelle, ainsi qu’à sa maintenance.**
+
+**Cette plateforme pourrait également être utile à la formation permanente et/ou au retour d’expérience.**
+
+## Résultats actuels et moyens mis en œuvre
+
+Chaque personne compétente pourra juger sur le site à quel point ces objectifs sont déjà atteints.
+
+Il faut noter que le développement du démonstrateur a demandé un effort limité au regard des bénéfices attendus. Le démonstrateur disponible sur ce site a nécessité environ 1,5 ans de travail à temps partiel, avec des compétences médicales et informatiques.
+
+## Prochaines étapes
+
+- Finalisation du démonstrateur (fiches, validation, etc.)
+- Démonstrations aux praticiens, autorités et organisations compétentes, médias spécialisés
+- Test par un échantillon significatif de praticiens
+- Spécifications d’une plateforme opérationnelle
+- Développement de la plateforme informatique opérationnelle
+- Mise en place d’une structure permettant la diffusion, le service opérationnel, la maintenance, la mise à jour, le contrôle qualité, le contrôle d’accès et le financement d’une telle plateforme à l’échelle française et si possible au-delà car la science médicale n’a pas de frontière.
+
+## Remerciements
+
+Je tiens ici à remercier tous ceux qui m’ont soutenu dans ce projet, mon épouse médecin généraliste, les spécialistes qui ont bien voulu vérifier et valider les différentes fiches, et tous ceux qui m’ont aidé, conseillé et encouragé.
 
 Je vous remercie pour votre attention,
 {.mt-5}
