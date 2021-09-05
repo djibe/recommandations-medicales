@@ -22,7 +22,7 @@ todo = "bilan sortie hospit, apnees sommeil, https://www.santepubliquefrance.fr/
 
 {{%article-summary%}}
 
-- Les recommandations *ESC 2021* sont disponibles (pas encore intégrées)[https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehab368/6358045]
+- Les recommandations *ESC 2021* sont disponibles (pas encore intégrées)[https://doi.org/10.1093/eurheartj/ehab368]
 - Évoquer devant fatigue, dyspnée, œdèmes chevilles...
 - ECG, NT-proBNP et consultation de cardiologie...
 - Bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), anémie)
