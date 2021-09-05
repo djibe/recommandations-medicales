@@ -8,7 +8,7 @@ date = "2021-09-04T10:52:08+02:00"
 publishdate = "2021-09-04"
 lastmod = "2021-09-04"
 specialites = ["urologie"]
-annees = "2017"
+annees = "2021"
 sources = ["EAU"]
 tags = []
 anglais = []
@@ -16,7 +16,7 @@ sctid = ""
 draft = true
 image = false
 imageSrc = ""
-todo = "scores IPSS et IIEF, Prescrire"
+todo = "scores IPSS et IIEF, Prescrire, https://uroweb.org/guideline/treatment-of-non-neurogenic-male-luts/#5"
 +++
 
 Ces recommandations sont limitées au traitement de l'HBP non compliquée l'homme ≥ 50 ans.
@@ -150,11 +150,8 @@ Peut être associé aux inhibiteurs de la 5α-réductase chez les hommes avec g�
 Efficaces après 48h de traitement.
 
 - Alfuzosine (Xatral®, gén)
-- Doxazosine (Zoxan®, gén)
-- Prazosine (Minipress®, gén)
-- Silodosine (Silodyx®, Urorec®)
-- Tamsulosine (Josir®, Mecir®, Omexel®, Omix®, gén)
-- Térazosine (Dysalfa®, Hytrine®, gén)
+
+Autres: doxazosine (Zoxan®, gén), prazosine (Minipress®, gén), silodosine (Silodyx®, Urorec®), tamsulosine (Josir®, Mecir®, Omexel®, Omix®, gén), térazosine (Dysalfa®, Hytrine®, gén).
 
 ### Inhibiteur de la 5alpha-réductase
 
@@ -197,7 +194,7 @@ Prostate > 80 mL.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Gravas S. & al, European Association of Urology. Treatment of Non-neurogenic Male LUTS. 2017.]()
+- [Gravas S. et al, European Association of Urology. Management of Non-neurogenic Male LUTS. 2021.](https://uroweb.org/guideline/treatment-of-non-neurogenic-male-luts/)
 - Association Française d’Urologie. Descazeaud A. & al. Bilan initial, suivi et traitements des troubles mictionnels en rapport avec hyperplasie bénigne de la prostate. 1er octobre 2012
 - AFU. Item 123. Hypertrophie bénigne de la prostate
 - HAS. Mai 2013. Détection précoce du cancer de la prostate

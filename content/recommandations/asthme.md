@@ -16,7 +16,7 @@ sctid = "195967001"
 draft = false
 image = true
 imageSrc = "Illustration par brgfx / Freepik"
-todo = "GINA 2021 p21, Prescrire, CSI + ARL, revoir Stades GINA, plan d'action, vaccins, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique"
+todo = "doses Symbicort turbuhaler, GINA 2021 p21, Prescrire, CSI + ARL, revoir Stades GINA, plan d'action, vaccins, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique"
 +++
 
 *Version préliminaire: ACT et traitements utilisables en l'état*

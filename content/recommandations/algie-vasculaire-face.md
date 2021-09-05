@@ -36,14 +36,23 @@ Décroissance en fin de période douloureuse, ≥ 2 semaines après la dernière
 
 Algie vasculaire de la face (AVF)
 : Céphalée primaire unilatérale avec hyperactivité parasympathique homolatérale, déclenchée par une activation du système trigémino-vasculaire. Une anomalie hypothalamique est suspectée.
-: Elle atteint principalement l'homme (4,3/1) jeune, caractérisée par des crises douloureuses stéréotypées quotidiennes avec variations circannuelles et intervalles libres.
+: Rare, elle atteindrait 0,1% de la population. Elle atteint principalement l'homme (4,3/1) jeune, caractérisée par des crises douloureuses stéréotypées quotidiennes avec variations circannuelles et intervalles libres.
 : Le plus souvent *épisodique*, elle est dite *chronique* quand l'intervale libre est inférieur à 1 mois sur 12. Aucun facteur prédictif de passage à la forme chronique n'est identifié.
-: Rare, elle atteindrait 0,1% de la population.
 : Conséquences sur la qualité de vie, dépression (x 5,6), idées suicidaires (55%) et perte de productivité professionnelle.
 
 Algie vasculaire de la face réfractaire
 : Forme chronique depuis plus de 3 ans, crises quotidiennes et résistantes aux traitements de fond (vérapamil à 960 mg/j, lithium efficace et bithérapie).
 : Le traitement chirurgical peut être envisagé.
+
+### Abréviations
+
+**AVF:** algie vasculaire de la face  
+**CTA:** céphalées trigémino-autonomiques  
+**ECG:** électrocardiogramme  
+**HC:** haute concentration  
+**ICHD-3:** {{%lang%}}The International Classification of Headache Disorders 3rd edition{{%/lang%}}  
+**SC:** sous-cutané  
+**SFEMC:** Société française d'études des migraines et des céphalées
 
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques ICHD-3ß" %}}
@@ -77,15 +86,6 @@ AVF chronique
     1. Crises répondant aux critères 3.1 de l’AVF
     1. Survenant sans rémission ou avec des rémissions durant moins d'un mois pendant au moins 1 an
     {.liste-lettres}
-
-### Abréviations
-
-**AVF:** algie vasculaire de la face  
-**CTA:** céphalées trigémino-autonomiques  
-**ECG:** électrocardiogramme  
-**HC:** haute concentration  
-**SC:** sous-cutané  
-**SFEMC:** Société française d'études des migraines et des céphalées
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

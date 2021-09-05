@@ -492,7 +492,7 @@ const chartOptions = {
 ### Un texte ne suffit pas
 
 Initialement sur mon stockage personnel, mes fiches textes ne me permettaient pas de répondre à la complexité croissante de la médecine moderne: des scores, des arbres de décisions se décrivent difficilement avec des mots.  
-Cette limitation est récurrente sur les sites existants, pourtant d’une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net/), [doctofiche](https://doctofiche.fr/), [HEYDoctor](https://wiki.heydoctor.fr/fr/index), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil)...
+Cette limitation est récurrente sur les sites existants, pourtant d’une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net/), [doctofiche](https://doctofiche.fr/), [HEYDoctor](https://wiki.heydoctor.fr/fr/index), [Medix](http://www.medix.free.fr/), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil)...
 
 ## Objectifs du Projet
 
@@ -515,11 +515,9 @@ Il faut noter que le développement du démonstrateur a demandé un effort limit
 ## Prochaines étapes
 
 - Finalisation du démonstrateur (fiches, validation, etc.)
+- Engagement d'agence de santé
 - Démonstrations aux praticiens, autorités et organisations compétentes, médias spécialisés
 - Test par un échantillon significatif de praticiens
-- Spécifications d’une plateforme opérationnelle
-- Développement de la plateforme informatique opérationnelle
-- Mise en place d’une structure permettant la diffusion, le service opérationnel, la maintenance, la mise à jour, le contrôle qualité, le contrôle d’accès et le financement d’une telle plateforme à l’échelle française et si possible au-delà car la science médicale n’a pas de frontière.
 
 ## Remerciements
 

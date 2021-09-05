@@ -21,14 +21,14 @@ todo = ""
 
 {{%article-summary%}}
 
-- Personnes à risque: auto-examen cutané tous les 3 mois et consultation annuelle du dermatologue.
-- Une lésion mélanocytaire est suspecte si elle remplit ≥ 2 critères ABCDE.
-- Un nævus est suspect s'il est différent des autres.
-- Suspicion de mélanome = avis dermatologique en semi-urgence.
-- Cabines de bronzage = cancérigènes certains.
+- Personnes à risque: auto-examen cutané tous les 3 mois et consultation annuelle du dermatologue
+- Une lésion mélanocytaire est suspecte si elle remplit ≥ 2 critères ABCDE
+- Un nævus est suspect s'il est différent des autres
+- Suspicion de mélanome = avis dermatologique en semi-urgence
+- Cabines de bronzage = cancérigènes certains
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Mélanome malin
 : Tumeur maligne cutanée la plus grave développée aux dépens des mélanocytes.  
@@ -103,18 +103,7 @@ Ces personnes doivent réaliser un auto-examen trimestriel et un suivi dermatolo
 
 ### Phototypes
 
-{{< table title="Caractéristiques des différents phototypes cutanés" >}}
-| Phototype  | Peau | Cheveux | Yeux | Coups de soleil |
-|:----------:|------|---------|------|-----------------|
-| I          | Très blanche ± tâches de rousseur | Blonds/roux | Bleus/verts | Systématique<br>Jamais de bronzage, rougeur systématique |
-| II         | Claire ± tâches de rousseur | Blonds/roux à châtains | Clairs à bruns | Fréquents, bronze à peine ou très lentement      |
-| III        | Intermédiaire | Châtains à bruns | Bruns | Occasionnels, bronzage graduel |
-| IV         | Mate          | Bruns/noirs | Bruns/noirs | Occasionnels, bronzage rapide |
-| V          | Brun foncé    | Noirs | Noirs | Rares, bronzage intense |
-| VI         | Noire         | Noirs | Noirs | Exceptionnels |
-{{< /table >}}
-
-> Dr JB FRON d'après Fitzpatrick, T.B. (1988), The validity and practicality of sun reactive skin types I through VI, Arch Dermatol 124 ; 869-871.
+{{< clinique/phototype-fitzpatrick >}}
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}

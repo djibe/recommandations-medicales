@@ -9,7 +9,7 @@ publishdate = 2020-04-15
 lastmod = 2021-05-31
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2019"
-sources = ["HAS", "SFP", "Prescrire"]
+sources = ["HAS", "SFP"]
 tags = ["depistage", "supplementation", "vitamine d", "osteoporose", "chute", "nourrisson", "enfant", "adolescent"]
 anglais = ["Vitamin D"]
 image = true
@@ -215,7 +215,7 @@ graph TB
 - [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. 2020.](https://goldcopd.org/2021-gold-reports/)
 - [Omedit Centre Val de Loire. Protocole de supplémentation en vitamine D en EHPAD. Décembre 2020.](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/10827.pdf)
 - [Ameli. Dosage de la vitamine D. 14 Novembre 2019.](https://www.ameli.fr/paris/laboratoire-danalyses-medicales/exercice-liberal/memos/dosage-vitamine)
-- [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d’ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 03/05/2019.](https://www.sciencedirect.com/science/article/abs/pii/S1169833019300821)
+- [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d’ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 03/05/2019.](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
 - [Esteban 2014-2016 – Chapitre dosages biologiques des vitamines et minéraux : pas de déficit important ou de carence à grande échelle](https://www.santepubliquefrance.fr/les-actualites/2019/esteban-2014-2016-chapitre-dosages-biologiques-des-vitamines-et-mineraux-pas-de-deficit-important-ou-de-carence-a-grande-echelle)
 - [Annweiler C et al. Vitamine D chez l’adulte : mise au point sur le dosage et la supplémentation. Gériatrie et psychologie Neuropsychiatrie du Vieillissement. Vol 16, n°1, mars 2018](https://www.jle.com/fr/revues/gpn/e-docs/vitamine_d_chez_ladulte_mise_au_point_sur_le_dosage_et_la_supplementation_311580/article.phtml)
 - [Inserm. La vitamine D, une nouvelle piste contre la maladie d’Alzheimer ?. Mai 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)

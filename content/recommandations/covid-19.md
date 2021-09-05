@@ -6,7 +6,7 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
-lastmod = 2021-05-28
+lastmod = 2021-09-04
 specialites = ["infectiologie"]
 annees = "2020"
 sources = ["HCSP", "MinSante"]
@@ -71,7 +71,7 @@ Contact à risque négligeable
 Principaux: HTA, les pathologies cardiaques et le diabète.
 
 - Âge ≥ 65 ans  
-De 60 à 65 ans: sur-risque significatif
+De 60 à 65 ans: sur-risque significatif.
 - Antécédents cardiovasculaires  
 Hypertension artérielle compliquée (complications cardiaques, rénales et vasculo-cérébrales),  antécédents d’accident vasculaire cérébral ou de coronaropathie, de chirurgie cardiaque, insuffisance cardiaque stade NYHA III ou IV.
 - Diabète non équilibré ou compliqué
@@ -115,7 +115,8 @@ Atteintes possibles après une infection à Sars-Cov-2.
 
 - [Centres de vaccination](https://www.sante.fr/cf/centres-vaccination-covid.html)
 - [Trouver une dose d'ARNm](https://vitemadose.covidtracker.fr/)
-- [Imprimer son attestation de vaccination](https://www.mgfrance.org/publication/infoexpress/2925-certificat-de-vaccination-vos-patients-peuvent-l-imprimer-en-ligne)
+- [Imprimer son attestation de vaccination](https://attestation-vaccin.ameli.fr/)
+- [Demander la conversion d'un certificat de vaccination étranger en passe sanitaire français](https://www.demarches-simplifiees.fr/commencer/passe-sanitaire-francais-de-l-etranger)
 
 {{% /collapse %}}
 {{%collapse "Certificats" %}}
