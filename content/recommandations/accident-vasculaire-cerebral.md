@@ -162,8 +162,8 @@ Si le patient appelle au cabinet, transférer l'appel au {{<phone>}}15{{</phone>
 
 S'applique aussi après un AIT.
 
-- **Aspirine 75-325 mg/j**  
-Si non cardioembolique. Clopidogrel si allergie.
+- **Aspirine 50-325 mg/j**  
+Si non cardioembolique. Clopidogrel 75 mg/j si allergie.
 - Pression artérielle  
   - **Cible cabinet < 130/80 mmHg** (*AHA 2021*)
   - Automesure tensionnelle, MAPA
@@ -180,8 +180,11 @@ Patient à {{< modal-btn modal-risque-cardiovasculaire >}}très haut RCV{{< /mod
 - Diabète: HbA1c cible
   - AVC < 6 mois: < 8%
   - Après 6 mois: [cible réadaptée selon le profil]({{< relref "diabete-type-2.md" >}}) (souvent 7%)
+- [Dépister des apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) {{%class%}}(40%){{%/class%}}
 - [ALD]({{< relref "affection-longue-duree.md" >}})  
 Si séquelles neurologique nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.
+- Éducation du patient  
+Mode de vie, réagir, traitements.
 
 {{% /collapse %}}
 {{%collapse "Traitements spécifiques" %}}
@@ -257,7 +260,7 @@ ex: lorsqu’on demande à la personne de lever les deux bras devant elle, l’u
 ex: lorsqu’on demande à la personne de répéter une phrase, elle a des difficultés à parler ou à comprendre.
 
 Si vous êtes témoin d’un de ces 3 signes, réagissez. Appelez immédiatement le SAMU, faites le {{<phone>}}15{{</phone>}}.
-« AVC, agir vite c’est important »
+<< AVC, agir vite c’est important >>
 
 Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de troubles de l’équilibre, de maux de tête intenses ou d’une baisse de vision.
 

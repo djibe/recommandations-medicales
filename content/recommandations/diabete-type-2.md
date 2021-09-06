@@ -97,13 +97,13 @@ Les choix préférentiels sont entourés ou en couleur par défaut.
       <div class="card-body">
         <ul class="list-group list-group-flush">
           <li class="list-group-item list-group-item-action text-info" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
-          <li class="list-group-item list-group-item-action text-info">Ajouter un iSGLT2</li>
-          <li class="list-group-item list-group-item-action text-info">Substituer par un GLP-1 RA</li>
+          <li class="list-group-item list-group-item-action text-info" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
+          <li class="list-group-item list-group-item-action text-info" data-toggle="modal" data-target="#modal-glp1ra">Substituer par un GLP-1 RA</li>
           <li class="list-group-item list-group-item-action">Substituer par une insuline basale</li>
            <li class="list-group-divider" role="separator"></li>
           <li class="list-group-item font-weight-bold">Si iDD4 inefficace</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Substituer par un SU</li>
-          <li class="list-group-item list-group-item-action">Substituer par un iSGLT2</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-isglt2">Substituer par un iSGLT2</li>
         </ul>
       </div>
     </div>
@@ -116,13 +116,13 @@ Les choix préférentiels sont entourés ou en couleur par défaut.
       <div class="card-body">
          <ul class="list-group list-group-flush">
           <li class="list-group-item list-group-item-action text-info" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
-          <li class="list-group-item list-group-item-action text-info">Ajouter un iSGLT2</li>
-          <li class="list-group-item list-group-item-action text-info">Ajouter un GLP-1 RA</li>
+          <li class="list-group-item list-group-item-action text-info" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
+          <li class="list-group-item list-group-item-action text-info" data-toggle="modal" data-target="#modal-glp1ra">Ajouter un GLP-1 RA</li>
           <li class="list-group-item list-group-item-action">Substituer par une insuline basale</li>
            <li class="list-group-divider" role="separator"></li>
           <li class="list-group-item font-weight-bold">SU avec hypoglycémies sévères/répétées</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-idpp4">Substituer par un iDPP4</li>
-          <li class="list-group-item list-group-item-action">Substituer par un iSGLT2</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-isglt2">Substituer par un iSGLT2</li>
         </ul>
       </div>
     </div>
@@ -136,7 +136,7 @@ Les choix préférentiels sont entourés ou en couleur par défaut.
         <ul class="list-group list-group-flush">
           <li class="list-group-item list-group-item-action text-info" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
           <li class="list-group-item list-group-item-action text-info" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
-          <li class="list-group-item list-group-item-action text-info">Ajouter un GLP-1 RA</li>
+          <li class="list-group-item list-group-item-action text-info" data-toggle="modal" data-target="#modal-glp1ra">Ajouter un GLP-1 RA</li>
           <li class="list-group-item list-group-item-action">Ajouter une insuline basale</li>
            <li class="list-group-divider" role="separator"></li>
           <li class="list-group-item font-weight-bold">iSGLT2 inefficace</li>
@@ -155,11 +155,11 @@ Les choix préférentiels sont entourés ou en couleur par défaut.
         <ul class="list-group list-group-flush">
           <li class="list-group-item list-group-item-action text-info">Ajouter une basale</li>
           <li class="list-group-item list-group-item-action text-info" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
-          <li class="list-group-item list-group-item-action text-info">Ajouter un iSGLT2</li>
+          <li class="list-group-item list-group-item-action text-info" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
            <li class="list-group-divider" role="separator"></li>
           <li class="list-group-item font-weight-bold">GLP-1 RA inefficace</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Substituer par un SU</li>
-          <li class="list-group-item list-group-item-action">Substituer par un iSGLT2</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-isglt2">Substituer par un iSGLT2</li>
         </ul>
       </div>
     </div>
@@ -215,5 +215,15 @@ window.onload = () => {
 {{% modal title="Gliptines" id="modal-idpp4"%}}
 
 {{< traitements/idpp4 >}}
+
+{{% /modal %}}
+{{% modal title="Inhibiteurs du co-transporteur SGLT2" id="modal-isglt2"%}}
+
+{{< traitements/isglt2 >}}
+
+{{% /modal %}}
+{{% modal title="Agonistes du récepteur GLP-1" id="modal-glp1ra"%}}
+
+{{< traitements/glp1ra >}}
 
 {{% /modal %}}
