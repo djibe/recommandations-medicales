@@ -6,7 +6,7 @@ synonyms = ["Malaria"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-17T12:42:00+02:00
 publishdate = 2021-02-17
-lastmod = 2021-02-21
+lastmod = 2021-09-06
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["MinSante", "Pasteur"]
@@ -18,7 +18,7 @@ slider = true
 paludisme = true
 image = true
 imageSrc = "Culicidae, Anopheles sp. Photo de Techuser sur Foter.com / CC BY-NC-ND"
-todo = "ttt accès palustre, piqures, http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf"
+todo = "ttt ambulatoire accès palustre, piqures, http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf"
 +++
 
 *Le traitement de l'accès palustre n'est pas encore traité*.
@@ -93,7 +93,7 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 {{% /collapse %}}
 {{%collapse "Molécules en prévention du paludisme" %}}
 
-{{%warning%}}La prophylaxie n'élimine pas complètement le risque infectieux.{{%/warning%}}
+{{%warning%}}La prophylaxie n'élimine pas complètement le risque infectieux{{%/warning%}}
 
 <div class="card card-body">
   <p class="card-title">Prophylaxie palustre selon le poids</p>
@@ -104,17 +104,17 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
       <input type="number" class="form-alternative ml-3" id="weightInput" value="60" min="5" max="60">
     </div>
   </div>
-  <p class="card-text mb-1">Chloroquine</p>
-  <p id="nivaquine">1 cp par jour ou 4 cuillères-mesure par jour (100 mg)</p>
-  <hr>
   <p class="card-text mb-1">Atovaquone/proguanil</p>
-  <p id="atovaquone">1 cp (250/100 mg) par jour pendant le repas à heure fixe</p>
+  <p id="atovaquone" class="user-select-all">1 cp (250/100 mg) par jour pendant le repas à heure fixe</p>
   <hr>
   <p class="card-text mb-1">Méfloquine</p>
-  <p id="mefloquine">1 cp à 250 mg 1 fois par semaine</p>
+  <p id="mefloquine" class="user-select-all">1 cp à 250 mg 1 fois par semaine</p>
   <hr>
   <p class="card-text mb-1">Doxycycline monohydratée ou hyclate</p>
-  <p id="doxycycline">1 cp à 100 mg pendant le dîner <span class="text-muted">(si 8+ ans)</span></p>
+  <p id="doxycycline" class="user-select-all">1 cp à 100 mg pendant le dîner <span class="text-muted">(si 8+ ans)</span></p>
+  <hr>
+  <p class="card-text mb-1">Chloroquine</p>
+  <p id="nivaquine">1 cp par jour ou 4 cuillères-mesure par jour (100 mg)</p>
 </div>
 
 ### Chloroquine

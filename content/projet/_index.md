@@ -443,7 +443,6 @@ todo = "image"
 ## Motivation du projet
 
 Comme tous mes confrères, je suis confronté quotidiennement à la nécessité d’obtenir rapidement les éléments de référence pour des prises en charge de qualité au cours de mes consultations de médecine générale. À cet effet, je me heurte à plusieurs obstacles:
-{.lead}
 
 ### L’état de l’art évolue rapidement et sa dissémination aux généralistes est très limitée
 

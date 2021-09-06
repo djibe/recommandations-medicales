@@ -6,10 +6,10 @@ synonyms = ["Accident ischémique transitoire", "infarctus cérébral"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-25T14:04:00+02:00
 publishdate = 2021-01-25
-lastmod = 2021-05-16
+lastmod = 2021-09-06
 specialites = ["neurologie"]
-annees = "2019"
-sources = ["ESC", "HAS"]
+annees = "2021"
+sources = ["AHA", "ESC", "HAS"]
 tags = ["antiplaquettaire", "diabete", "HTA", "risque cardiovasculaire", "vertige"]
 anglais = ["Cerebrovascular accident"]
 sctid = "230690007"
@@ -35,9 +35,9 @@ todo = "carnet automesure, rééduc, fiche standardisée du recueil événements
 
 Accident vasculaire cérébral (AVC)
 : Déficit neurologique survenant par interruption de la vascularisation cérébrale ou parfois par un saignement intra-cérébral (hémorragie intra-parenchymateuse HIP).
-: 2 types: l'accident ischémique (AIC, 80%) par caillot occlusif (athérosclérose, embole cardiaque)  
-et l'accident vasculaire hémorragique par rupture artérielle (HTA, anévrisme, MAV, tumeur).
-: La survenue d'un AVC/AIT détermine un très haut risque cardiovasculaire.
+: 2 types: l'*accident ischémique* (AIC, 88%) par caillot occlusif (athérosclérose, embole cardiaque)  
+et l'*accident hémorragique* par rupture artérielle (HTA, anévrisme, MAV, tumeur).
+: La survenue d'un AVC/AIT détermine un *très haut risque cardiovasculaire*.
 
 Accident ischémique transitoire (AIT)
 : **Urgence vitale** par déficit neurologique ou rétinien transitoire (typiquement < 1h) sans anomalie à l'imagerie cérébrale.  
@@ -160,22 +160,26 @@ Si le patient appelle au cabinet, transférer l'appel au {{<phone>}}15{{</phone>
 {{% /collapse %}}
 {{%collapse "Traitement post-AVC" %}}
 
-Identique en cas d'accident ischémique transitoire.
+S'applique aussi après un AIT.
 
 - **Aspirine 75-325 mg/j**  
 Si non cardioembolique. Clopidogrel si allergie.
 - Pression artérielle  
-  - **Cible < 140/90 mmHg** avec surveillance par **automesure tensionnelle** voire MAPA.
-  - Molécules: thiazidiques, IEC, dihydropyridines.
+  - **Cible cabinet < 130/80 mmHg** (*AHA 2021*)
+  - Automesure tensionnelle, MAPA
+  - Molécules: thiazidiques, IEC (voire ARA2)
+  - Hypertendu: réduire la consommation de sel de 2,5 g/j
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,55 g/L et réduction ≥ 50%  
 Patient à {{< modal-btn modal-risque-cardiovasculaire >}}très haut RCV{{< /modal-btn >}}.
 - Arrêt du tabac
 - Arrêt de l'alcool
+- {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Perte de poids si surpoids
-- Activité physique 30-60 min/j
-- HbA1c
-  - AVC < 6 mois: cible < 8%
-  - Après 6 mois, [cible réadaptée selon le profil]({{< relref "diabete-type-2.md" >}}) (souvent 7%)
+- Activité physique ≥ 10 min x 4/semaine
+- Sédentaire: bouger 3 minutes toutes les 30 minutes
+- Diabète: HbA1c cible
+  - AVC < 6 mois: < 8%
+  - Après 6 mois: [cible réadaptée selon le profil]({{< relref "diabete-type-2.md" >}}) (souvent 7%)
 - [ALD]({{< relref "affection-longue-duree.md" >}})  
 Si séquelles neurologique nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.
 
@@ -184,7 +188,7 @@ Si séquelles neurologique nécessitant une prise en charge médicale lourde, de
 
 ### Fibrillation atriale
 
-Anticoagulation au long cours par warfarine ou AOD selon le profil du patient.
+Anticoagulation au long cours par warfarine ou AOD selon le score CHA2DS2VASc.
 
 ### Prothèse valvulaire mécanique
 
@@ -260,6 +264,7 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Kleindorfer DO et al. 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2021 Jul;52(7):e364-e467.](https://www.ahajournals.org/doi/10.1161/STR.0000000000000375)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/sfd-dt2 >}}
 - [Gabet A. et al; Santé Publique France. Connaissance de l'accident vasculaire cérébral et de ses symptômes en France en 2019. Bulletin épidémiologique hebdomadaire, 2020, n°. 28, p. 554-561.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/connaissance-de-l-accident-vasculaire-cerebral-et-de-ses-symptomes-en-france-en-2019)
@@ -284,5 +289,10 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 {{% modal title="Statines et réduction du LDL" id="modal-statine-intensite"%}}
 
 {{< traitements/statine-intensite >}}
+
+{{% /modal %}}
+{{% modal title="Régime méditerranéen" id="modal-regime"%}}
+
+{{< traitements/regime-mediterraneen >}}
 
 {{% /modal %}}
