@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "insulines du DG, enfant obèse ?"
+todo = "insulines du DG, enfant obèse ?, attente relecture C Brunet"
 +++
 
 {{%article-summary%}}

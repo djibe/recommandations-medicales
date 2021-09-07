@@ -17,13 +17,14 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "flowchart"
+todo = "relecture, image"
 +++
 
 {{%article-summary%}}
 
 - Mesures de prévention pour toutes les personnes à risque
 - Antibioprophylaxie uniquement pour les patients à haut risque
+- Amoxicilline per os 2 g 30-60 minutes avant (50 mg/kg chez l'enfant)
 - Soutien psychologique
 - Adresser aux urgences toute suspicion d'endocardite
 
