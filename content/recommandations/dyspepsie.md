@@ -14,7 +14,6 @@ tags = []
 anglais = ["Dyspepsia"]
 sctid = "162031009"
 flowchart = true
-draft = true
 image = false
 imageSrc = ""
 +++
