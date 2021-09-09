@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CELLIER (SNFGE)"
 date = 2020-04-16T12:31:11+02:00
 publishdate = 2020-04-16
-lastmod = 2020-08-26
+lastmod = 2021-09-09
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["EssCD", "HAS", "SNFGE"]
@@ -264,21 +264,23 @@ Logo présent sur les produits sans gluten
 
 ![Logo des produits sans gluten](/images/sans-gluten.webp)
 
-Des  produits  diététiques  sans  gluten  sont  rem-boursés  partiellement  par  l’assurance  maladie  française sous certaines conditions.
+Des  produits  diététiques  sans  gluten  sont  remboursés  partiellement  par  l’assurance  maladie  française sous certaines conditions.
 
 {{% /collapse%}}
 {{%collapse "Conduite à tenir" "show" %}}
 
 {{< mermaid title="Conduite à tenir en cas de suspicion de maladie cœliaque. Dr JB FRON d'après EssCD 2019" >}}
 graph TB
-  symptomatique[Symptomatique] --> examen("Sérologie ou fibroscopie d'emblée<br>selon le cas (voir Qui dépister) ")
+  symptomatique["<b>Risque élevé</b><hr>- Diarrhée chronique<br>- Diarrhée + amaigrissement<br>- Anémie par carence martiale <br>en l’absence d’autre cause<br>- Symptômes de MC + ATCD familiaux<br>- Symptômes de MC + auto-immunité/déficit IgA<br>- Retard de croissance de l’enfant<br>- Dermatite herpétiforme<br>- Atrophies des villosités<br>- Iléostomie/colostomie avec<br>hyperdébit non expliqué"] --> EOGD(EOGD) --> gastro
   style symptomatique stroke:#4150f5, stroke-width:1px
-  personneARisque[Personne à risque] --> examen
+  personneARisque["<b>Risque modéré</b><hr>- Intestin irritable<br>- Transaminases augmentées<br>- Diabète type 1 (/5 ans)<br>- Symptômes de MC/malabsorption<br>sans ATCDfam ni auto-immuns<br>- Colite microscopique<br>- Hypothyroïdie de Hashimoto<br>- Basedow<br>- Ostéopénie/ostéoporose<br>- Ataxie/neuropathie périphérique<br>- Aphtes récurrents ou défauts de l’émail dentaire<br>- Infertilité, fausses couches répétées<br>- Règles tardives, ménopause précoce<br>- Fatigue chronique<br>- Pancréatite idiopathique<br>- Épilepsie<br>- Céphalées, migraines<br>- Troubles de l’humeur/attention<br>- Retard mental<br>- Asplénie<br>- Psoriasis ou lésions dermatologiques<br>autres que la dermatite herpétiforme<br>- Trisomie 21, Turner<br>- Hémosidérose pulmonaire<br>- Néphropathie à IgA"] --> serologie("IgA totales<br>+ IgA anti-transglutaminase") --> gastro
   style personneARisque stroke:#4150f5, stroke-width:1px
-    examen --> gastro(Consultation du gastro-entérologue)
-      gastro --"Diagnostic de maladie cœliaque"--> traitement("<b>Éviction du gluten à vie</b><br>Surveillance clinico-biologique<br>Bilan diététique<br>Dépistage de l'entourage")
-      gastro --"Diagnostic infirmé"--> explo("Poursuite du bilan<br>par le spécialiste")
+      gastro(Gastro-entérologue)
+      gastro --"Diagnostic de maladie cœliaque"--> traitement("- <b>Éviction du gluten à vie</b><br>- Surveillance clinico-biologique<br>- Bilan diététique<br>- Dépistage de l'entourage")
+      gastro -- Diagnostic infirmé --> explo("Poursuite du bilan<br>par le spécialiste")
 {{< /mermaid >}}
+
+> **ATCD:** antécédents; **fam:** familiaux; **MC:** maladie cœliaque
 
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}

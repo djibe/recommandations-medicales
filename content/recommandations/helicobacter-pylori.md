@@ -25,12 +25,12 @@ Page en cours de mise à jour avec les dernières recommandations 2021.
 
 {{%article-summary%}}
 
-- Dépistage par sérologie pour tout antécédent d'ulcère sans confirmation d'éradication.
-- Confirmation par sérologie ou fibroscopie selon symptômes et facteurs de risque de cancer.
-- Reporter le traitement si grossesse/allaitement.
-- Traitement adapté à l'antibiogramme.
-- Contrôle de l'éradication systématique (arrêt ATB > 1 mois et IPP > 2 sem).
-- Dépistage du 1<sup>er</sup> degré en cas de lésion cancéreuse.
+- Dépistage par sérologie pour tout antécédent d'ulcère sans confirmation d'éradication
+- Confirmation par sérologie ou fibroscopie selon symptômes et facteurs de risque de cancer
+- Reporter le traitement si grossesse/allaitement
+- Traitement adapté à l'antibiogramme
+- Contrôle de l'éradication systématique (arrêt ATB > 1 mois et IPP > 2 sem)
+- Dépistage du 1<sup>er</sup> degré en cas de lésion cancéreuse
 - Signes d'alarmes en symptômes digestifs hauts:  
 Dysphagie, amaigrissement, anémie.
 

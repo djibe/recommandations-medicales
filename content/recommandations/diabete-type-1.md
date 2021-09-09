@@ -6,11 +6,11 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-04T19:15:12+02:00"
 publishdate = "2020-11-04"
-lastmod = "2020-11-04"
+lastmod = "2021-09-09"
 specialites = ["endocrinologie"]
 annees = "2019"
-sources = ["HAS"]
-tags = ["diabete", "risque cardiovasculaire", "insuline", "retinopathie", "nephropathie", "neuropathie", "vaccin"]
+sources = ["HAS", "ISPAD", "ESC"]
+tags = ["coeliaque", "diabete", "risque cardiovasculaire", "insuline", "retinopathie", "nephropathie", "neuropathie", "vaccin"]
 anglais = ["Diabetes mellitus type 1"]
 sctid = ""
 draft = false
@@ -31,12 +31,12 @@ En effet, **il est inenvisageable de tenter une synthèse pour la prise en soins
 
 ## Les points vitaux du diabète de type 1
 
-- Toute personne avec un diabète type 1 est à cardiovasculaire élevé (ESC 2019)
+- Toute personne avec un diabète type 1 est à cardiovasculaire élevé (*ESC 2019*)
   - Très élevé si complication micro ou macrovasculaire ou si ≥ 3 facteurs de risque cardiovasculaires.
   - Modéré si âge < 35 sans complication.
 - Arrêt du tabac
 - HTA  
-Objectif tensionnel **< 130/80** mmHg (ESC 2019).
+Objectif tensionnel **< 130/80** mmHg (*ESC 2019*).
 - Dyslipidémie
 - Activité physique  
 **Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire.
@@ -44,10 +44,16 @@ Objectif tensionnel **< 130/80** mmHg (ESC 2019).
 Globalement **6,5%** (sauf complications avancées).
 - Surpoids  
 Négocier une perte de poids (5-10%).
-- Régimé méditerranéen
+- {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Dépistage de la [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})  
-Au diagnostic puis annuel pendant 5 ans (ISPAD).
+Au diagnostic puis annuel pendant 5 ans *(ISPAD 2018)[https://cdn.ymaws.com/www.ispad.org/resource/resmgr/consensus_guidelines_2018_/19.other_complications_and_a.pdf]*.
 
 ## Participer à des études
 
 [SFDT1](https://sfdt1.fr/) et [Compare](https://compare.aphp.fr/) (APHP).
+
+{{% modal title="Régime méditerranéen" id="modal-regime"%}}
+
+{{< traitements/regime-mediterraneen >}}
+
+{{% /modal %}}

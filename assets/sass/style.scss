@@ -731,6 +731,12 @@ legend {
   .list-group {
     margin-bottom: 0 !important;
   }
+  .lgi-choice {
+    box-shadow: inset 4px 0px 0px 0px var(--primary);
+  }
+  .list-group-item-action:hover {
+    background-color: rgba(0, 0, 0, 0.04) !important;
+}
 }
 
 /* Plugins */
