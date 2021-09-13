@@ -6,16 +6,16 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-09-09"
+lastmod = "2021-09-13"
 specialites = ["endocrinologie"]
 annees = "2019"
-sources = ["HAS"]
+sources = ["SFD", "EASD", "ESC", "HAS"]
 tags = ["diabete", "HTA", "insuline", "retinopathie", "nephropathie",  "risque cardiovasculaire", "neuropathie", "obesite", "SAOS", "vaccin"]
 anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "rythme depistage, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf"
+todo = "def diabète EASD 2019, convertisseur unités HbA1c-mmol/mol-GlyMoyenne, rythme depistage, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf"
 +++
 
 {{%article-summary%}}
@@ -30,6 +30,23 @@ L'intégralité du suivi préconisé pour la personne vivant avec un diabète de
 
 En effet, **il est inenvisageable de tenter une synthèse pour la prise en soins du diabète** tant elle est vaste et pluridisciplinaire.
 
+{{%collapse "Définitions"%}}
+
+Diabète
+: Hyperglycémie chronique dont le diagnostic est biologique: 2 glycémies à jeun ≥ 1,26 g/L ou HbA1c ≥ 6,5% ou HGPO positive.
+
+Hyperglycémie modérée à jeun (HGMAJ)
+: Ou *prédiabète*, correspond au stade précurseur du diabète. La glycémie à jeun est comprise entre 1,10 et 1,26 g/L.
+
+Rémission du diabète
+: Définitions *EASD 2021*:
+    - Diabète sous régime seul depuis ≥ 3 mois avec HbA1c < 6,5% (48 mmol/mol)
+    - HbA1c < 6,5% à au moins 3 mois de la chirurgie bariatrique et de l'arrêt de tout traitement
+    - HbA1c < 6,5% à au moins 6 mois du changement de mode de vie et au moins 3 mois de l'arrêt de tout traitement
+: Lorsque la mesure de l'HbA1c n'est pas fiable, recours à la glycémie à jeun < 1,26 g/L ou estimation par automesure (la glycémie moyenne doit être < 6,5% d'équivalent HbA1c).
+: Le *dépistage des complications* doit être poursuivi, avec la surveillance de l'HbA1c tous les 3-12 mois.
+
+{{% /collapse %}}
 {{%collapse "Les points vitaux du diabète type 2" "show" %}}
 
 - Toute personne avec un diabète type 2 est à {{< modal-btn modal-risque-cardiovasculaire-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}}
@@ -52,7 +69,7 @@ Négocier une perte de poids (5-10%).
 
 *Version préliminaire.*
 
-Les choix préférentiels sont entourés ou avec un indicateur bleu.
+Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les classes thérapeutiques de préférence sont entourées ou signalées avec un indicateur bleu.
 
 ---
 
@@ -188,6 +205,7 @@ window.onload = () => {
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Riddle M.C. et al. Consensus report: definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021.](https://doi.org/10.1007/s00125-021-05542-z)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/sfd-dt2 >}}
 

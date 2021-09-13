@@ -123,7 +123,7 @@ L’examen clinique a une place primordiale dans la détection et le traitement 
 
 - NFS, VS, CRP
 - ASAT, ALAT
-- Créatininémie, CDK-EPI
+- Créatininémie, CKD-EPI
 - Bandelette urinaire (protéinurie, hématurie)
 - Facteur rhumatoïde (FR)
 - Anticorps anti-peptide citrulliné (ACPA)
@@ -280,7 +280,7 @@ Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
 graph TB
   suspicion["<b>Suspicion de PR</b><hr>- Arthrite<br>- Dérouillage matinal<br>- Douleur en pression MCP/MTP"]
   style suspicion stroke:#4150f5, stroke-width:1px
-    suspicion --> bilan("<b>Examens complémentaires</b><hr>- NFS, VS, CRP<br>- ASAT, ALAT<br>- Créatininémie, CDK-EPI<br>- BU<br>- Facteur rhumatoïde (FR)<br>- Anticorps anti-peptide citrulliné (ACPA)<br>- Anticorps antinucléaires (AAN)<br>- Sérologie hépatites B et C<br>- Radiographies")
+    suspicion --> bilan("<b>Examens complémentaires</b><hr>- NFS, VS, CRP<br>- ASAT, ALAT<br>- Créatininémie, CKD-EPI<br>- BU<br>- Facteur rhumatoïde (FR)<br>- Anticorps anti-peptide citrulliné (ACPA)<br>- Anticorps antinucléaires (AAN)<br>- Sérologie hépatites B et C<br>- Radiographies")
       bilan --> rhumato("Avis rhumatologique<br>sous 6 semaines")
     suspicion -- Diagnostic différentiel --> differentiel("- Traumatique<br>- Arthrite réactionnelle<br>- Arthrite septique<br>- Ostéoarthrite<br>- Arthrite microcristalline<br>- Spondylarthrite<br>- Connectivite<br>- Tuberculose")
 {{< /mermaid >}}

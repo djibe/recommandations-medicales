@@ -1,0 +1,62 @@
+<p>Lorsque le praticien suspecte une douleur neuropathique, le questionnaire DN4 est utile comme outil de diagnostic.</p>
+<form class="card-body" id="score-dn4">
+  <fieldset>
+    <legend>1. La douleur présente-t-elle une ou plusieurs des caractéristiques suivantes&nbsp;?</legend>
+    <input type="checkbox" id="brulure" class="d-input-none" value="1">
+    <label for="brulure" class="chip chip-action chip-filter">Brûlure</label>
+    <input type="checkbox" id="froid" class="d-input-none" value="1">
+    <label for="froid" class="chip chip-action chip-filter">Sensation de froid douloureux</label>
+    <input type="checkbox" id="electrique" class="d-input-none" value="1">
+    <label for="electrique" class="chip chip-action chip-filter">Décharges électriques</label>
+  </fieldset>
+  <fieldset>
+    <legend>2. La douleur est-elle associée dans la même région à un ou plusieurs des symptômes suivants&nbsp;?</legend>
+    <input type="checkbox" id="fourmillement" class="d-input-none" value="1">
+    <label for="fourmillement" class="chip chip-action chip-filter">Fourmillements</label>
+    <input type="checkbox" id="picotement" class="d-input-none" value="1">
+    <label for="picotement" class="chip chip-action chip-filter">Picotements</label>
+    <input type="checkbox" id="engourdissement" class="d-input-none" value="1">
+    <label for="engourdissement" class="chip chip-action chip-filter">Engourdissements</label>
+    <input type="checkbox" id="demangeaison" class="d-input-none" value="1">
+    <label for="demangeaison" class="chip chip-action chip-filter">Démangeaisons</label>
+  </fieldset>
+  <fieldset>
+    <legend>3. La douleur est-elle localisée dans un territoire où l'examen met en évidence&nbsp;?</legend>
+    <input type="checkbox" id="hypoesthésie" class="d-input-none" value="1">
+    <label for="hypoesthésie" class="chip chip-action chip-filter">Hypoesthésie au tact</label>
+    <input type="checkbox" id="tact" class="d-input-none" value="1">
+    <label for="tact" class="chip chip-action chip-filter">Hypoesthésie à la piqûre</label>
+  </fieldset>
+  <fieldset>
+    <legend>3. La douleur est-elle provoquée ou augmentée par le mouvement&nbsp;?</legend>
+    <input type="checkbox" id="mouvement" class="d-input-none" value="1">
+    <label for="mouvement" class="chip chip-action chip-filter">Oui</label>
+  </fieldset>
+  <div class="alert bg-light d-flex mb-0">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:1.5rem">Score DN4</p>
+      <span class="font-weight-bold" id="dn4Score" style="font-size:2rem">0</span>
+    </div>
+    <p id="dn4Text" class="lead m-auto">Douleur nociceptive</p>
+  </div>
+</form>
+<blockquote class="mt-4">
+  <p>Sensibilité 82,9% et spécificité 89,9%</p>
+  <p>
+    <a href="https://doi.org/10.1016/j.pain.2003.12.024">Bouhassira D. et al. Development and validation of the Neuropathic Pain Symptom Inventory. Pain. 2004 Apr;108(3):248-257.</a>
+  </p>
+</blockquote>
+{{ $script := `
+  // Questionnaire DN4 by djibe
+  let score = 0;
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const Text = document.getElementById('dn4Text');
+    [...document.querySelectorAll('#score-dn4 input[type=\"checkbox\"]')].forEach(function(checkbox) {
+      checkbox.addEventListener('change', function(e) {
+        e.target.checked ? score += parseInt(e.target.value, 10) : score -= parseInt(e.target.value, 10)
+        document.getElementById('dn4Score').innerHTML = score
+        score >= 4 ? Text.innerHTML = 'Douleur neuropathique' : Text.innerHTML = 'Douleur nociceptive'
+      })
+    })
+  })` }}
+<script>{{ $script | safeJS }}</script>

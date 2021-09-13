@@ -144,7 +144,7 @@ Systématique lorsque 2 sérologies sont positives (ou 1 TROD+ + 1 sérologie+).
 - Ag Hbs, anticorps anti-HBs, anticorps anti-HBc
 - NFS-plaquettes
 - INR
-- Créatininémie et clairance CDK-EPI
+- Créatininémie et clairance CKD-EPI
 - ASAT, ALAT, GGT, bilirubine
 - Albuminémie
 - Glycémie à jeun

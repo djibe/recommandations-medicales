@@ -316,7 +316,7 @@ Si rapports répétés: poursuivre à 1 cp/j jusqu'à 2j après le dernier rappo
 {{< table title="Suivi de la PrEP préconisé par la HAS 2021" >}}
 | Période | Bilan       | Remarque   |
 |:-------:|-------------|------------|
-| 1 mois  | - Sérologie VIH<br>- Créatininémie, CDK-EPI | ßHCG non systématique |
+| 1 mois  | - Sérologie VIH<br>- Créatininémie, CKD-EPI | ßHCG non systématique |
 | 4 mois  | - Idem + IST<br>- ALAT  | Clairance ≥ 90: bilan annuel<br>70-90 ou âge ≥ 55: 6 mois<br>< 70: 3 mois |
 | Trimestriel | - Sérologie VIH<br>- IST, ALAT | Rythme de la créatinine selon la clairance |
 | Annuel  | - Sérologie VHC*<br>- Protéinurie/créatininurie sur échantillon | |

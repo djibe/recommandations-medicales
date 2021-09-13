@@ -183,7 +183,7 @@ En état stable l'examen est pauvre. La présence de signes cliniques est donc u
 ### Bilan exploratoire d'une dyspnée inexpliquée
 
 - NFS
-- Ionogramme, créatininémie, CDK-EPI
+- Ionogramme, créatininémie, CKD-EPI
 - Urée, albumine (HAS 2015)
 - ASAT, ALAT, GGT, bilirubine
 - Glycémie à jeun ou HbA1c

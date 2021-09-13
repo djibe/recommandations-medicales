@@ -13,7 +13,7 @@
     "hugo:debug": "hugo --cleanDestinationDir --minify --debug --logFile ./hugo.log --verboseLog",
     "hugo:update": "choco upgrade hugo-extended",
     "links:check": "linkinator ./content/recommandations/*.md --markdown --verbosity error --skip '(%22)$'",
-    "server": "hugo server --buildDrafts --watch --destination dev --verbose --cleanDestinationDir",
+    "server": "hugo server --buildDrafts --watch --destination dev --verbose --cleanDestinationDir -p 1313",
     "start": "hugo --cleanDestinationDir --gc --minify"
   },
   "keywords": [

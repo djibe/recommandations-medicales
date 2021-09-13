@@ -87,7 +87,7 @@ Greffe d'organe, colique néphrétique, insuffisance rénale, ulcère gastro-duo
 
 Compléte le bilan des facteurs de risque cardiovasculaire.
 
-- Créatininémie et clairance CDK-EPI
+- Créatininémie et clairance CKD-EPI
 - Uricémie
 - Glycémie à jeun si facteur de risque ou ≥ 45 ans
 - Dyslipidémie selon le terrain
@@ -293,7 +293,7 @@ Uricosurique alternatif de l'allopurinol et du fébuxostat, le probénécide (Sa
 - Connaissances sur l’automédication des crises
 - Fréquence des crises, arthropathie microcristalline, tophus, lithiases uriques
 - Biologique
-  - Créatininémie et clairance CDK-EPI
+  - Créatininémie et clairance CKD-EPI
   - Uricémie 1-2/an si traitement de fond
   - Surveillance cardiovasculaire
 

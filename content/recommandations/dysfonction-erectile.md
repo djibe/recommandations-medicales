@@ -96,7 +96,7 @@ Centré sur ROT, RCP, sensibilité des pieds, anesthésie en selle et des membre
 ### Bilan biologique systématique
 
 - NFS
-- ionogramme, créatininémie et CDK-EPI
+- ionogramme, créatininémie et CKD-EPI
 - Bilan hépatique (sauf résultat < 5 ans)
 - Glycémie à jeun (sauf résultat < 1 an) ou HbA1c
 - Bilan lipidique (sauf résultat < 1 an)
