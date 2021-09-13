@@ -11,13 +11,13 @@ specialites = ["neurologie"]
 annees = "2020"
 sources = ["SFETD"]
 tags = ["cancer", "douleur"]
-anglais = []
-sctid = ""
-draft = true
+anglais = ["Neuropathic pain"]
+sctid = "247398009"
+draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "Caractères, Prescrire, lire 17, prescrire Emplâtres de lidocaïne"
+todo = "Collège, lire 17"
 +++
 
 {{%article-summary%}}
@@ -56,7 +56,7 @@ Seuls traitements ayant un niveau de preuve satisfaisant en 2020 sur les douleur
 - Antiépileptiques
   - **Gabapentine**
   - Prégabaline (preuves faibles)
-- Opioïdes forts et tramadol (recommandation faible)  
+- Opioïdes forts (morphine et oxycodone LP) et tramadol (recommandation faible)  
 {{%class%}}Tapentadol (faible) non disponible en France.{{%/class%}}
 - Traitements topiques  
 Recommandation faible.
@@ -69,14 +69,14 @@ Recommandation faible.
   - Antidépresseur (IRSNA ou tricyclique) + morphine
   - Antiépileptique (gabapentine voire prégabaline) + morphine
 - Neurostimulation électrique transcutanée (**TENS**, recommandation faible)
-- Stimulation magnétique transcrânienne répétitive à haute fréquence du cortex moteur primaire
+- Stimulation magnétique transcrânienne répétitive à haute fréquence du cortex moteur primaire (rTMS)
 - Radiofréquence pulsée (PRF, recommandation faible)  
 Limitée aux douleurs postzostériennes thoraciques.
 - Stimulation médullaire (preuves faibles)  
 Limitée aux douleurs radiculaires chroniques postchirurgicales et diabétique.
 - Psychothérapie  
 En complément des traitements pharmacologiques.
-  - Thérapie cognitivocomportementale (TCC)
+  - Thérapie cognitivo-comportementale (TCC)
   - Thérapie de pleine conscience
   - Personne âgée: thérapie de pleine conscience
 
@@ -87,8 +87,9 @@ Amitriptyline 10 mg/j et gabapentine 900 mg/j avec la même efficacité sans eff
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-[Liste des structures spécialisées douleur chronique (SDC)](https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)  
-Informer sur les risques pour la conduite automobile.
+- [Liste des structures spécialisées douleur chronique (SDC)](https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)
+- Informer sur les risques pour la conduite automobile
+- Manque d'efficacité: réduction de la douleur < 30% et/ou amélioration fonctionnelle < 30% après ≥ 6 semaines à dose maximale tolérée
 
 ### Douleur neuropathique périphérique focale
 
@@ -134,9 +135,17 @@ En association avec les autres traitements.
 
 #### Douleur neuropathique en 3e intention
 
+Prescription et réalisation uniquement en centre de la douleur chronique.
 
+- rTMS et stimulation médullaire
+- Morphine et oxycodone LP
+  - Les opioïdes forts ne doivent être proposés qu’en l’absence d’alternatives
+  - Max 150 mg éq. morphine/j
+- Combinaison opioïde + antidépresseur ou gabapentinoïde
 
 > Effets indésirables: sous-entendu, effets indésirables principaux.
+
+{{%warning%}}Les opioïdes forts ne doivent être proposés par un spécialiste de la douleur qu’en l’absence d’alternatives{{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour le traitement des douleurs neuropathiques" "show" %}}
@@ -149,11 +158,10 @@ graph TB
       locLigne1 -. 2e intention .-> TENS("Consultation douleur<br>pour TENS") -. Échec .-> centre(Centre de la douleur)
       locLigne1 -- ou --> autreLigne1
     DN --> autre(DN centrale<br>ou localisations multiples) --> autreLigne1("- Duloxétine<br>- Gabapentine<br>- Tricyclique")
-      autreLigne1 -. 2e intention .-> autreLigne2("- Prégabaline<br>- Tramadol<br>- Antidépresseur + AE") -. Échec .-> centre
+      autreLigne1 -. 2e intention .-> autreLigne2("- Prégabaline<br>- Tramadol<br>- Antidépresseur<br>+ gabapentinoïde") -. Échec .-> centre
 {{< /mermaid >}}
 
-> Psychothérapie associée dès la 2<sup>e</sup> ligne de traitement.  
-**AE:** antiépileptique
+> Psychothérapie associée dès la 2<sup>e</sup> ligne de traitement.
 
 {{%/collapse%}}
 {{%collapse "Sources" %}}
@@ -167,5 +175,3 @@ graph TB
 {{< scores/dn4 >}}
 
 {{% /modal %}}
-
-≤≥±®œŒ³ÂSpO<sub>2</sub>
