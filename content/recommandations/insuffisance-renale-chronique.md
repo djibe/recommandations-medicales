@@ -140,14 +140,13 @@ Troubles de la miction, globe vésical, touchers pelvien.
 
 ### Critères pour apprécier l'évolutivité de la MRC
 
-Considérée comme évolutive si présence de facteur ci-dessous:
+Considérée comme évolutive si présence de facteur ci-dessous (déclin annuel rapide du DFG, calculé par DFG année n – DFG année n+1)
 
-- Déclin annuel rapide du DFG, calculé par DFG année n – DFG année n+1
-  - Physiologique si < 2 mL/min/1,73m²/an
-  - Modéré si ≥ 2 et < 5
-  - Rapide si ≥ 5
-  - Albuminurie
-  - HTA non contrôlée
+- Physiologique si < 2 mL/min/1,73m²/an
+- Modéré si ≥ 2 et < 5
+- Rapide si ≥ 5
+- Albuminurie
+- HTA non contrôlée
 
 Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologique.
 

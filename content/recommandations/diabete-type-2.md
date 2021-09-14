@@ -59,12 +59,24 @@ Objectif tensionnel **< 130/80** mmHg (*ESC 2019*).
 - Activité physique  
 **Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense).
 - Cible d'HbA1c  
-Globalement **7%** (sauf complications avancées)(*SFD 2019*).
+{{< modal-btn modal-hba1c >}}Globalement **7%**{{< /modal-btn >}} (*SFD 2019*).
 - En cas de surpoids  
 Négocier une perte de poids (5-10%).
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 
 {{% /collapse %}}
+{{%collapse "Conversion des unités du diabète" %}}
+
+*Bug dans le sens glycémie moyenne > Hba1c estimée*
+
+<div class="form-group">
+  <label for="hba1cInput">HbA1c (%, dit NGSP)</label>
+  <input type="number" class="form-alternative" id="hba1cInput" step="0.5" value="7" min="1" max="16" oninput="eagInput.value = Math.round(this.value * 28.7 - 46.7)">
+  <label for="eagInput" class="ml-5">Glycémie moyenne estimée (mg/dL)</label>
+  <input type="number" style="width:68px" class="form-alternative" id="eagInput" value="154" min="1" oninput="hba1cInput.value = Math.round((this.value + 46.7) / 28.7)">
+</div>
+
+{{%/collapse%}}
 {{%collapse "Escalade thérapeutique" "show" %}}
 
 *Version préliminaire.*
@@ -210,6 +222,11 @@ window.onload = () => {
 - {{< references/sfd-dt2 >}}
 
 {{% /collapse %}}
+{{% modal title="Objectifs glycémiques selon SFD 2019" id="modal-hba1c"%}}
+
+{{< clinique/objectifs-hba1c >}}
+
+{{% /modal %}}
 {{% modal title="Diabète et RCV selon ESC 2019" id="modal-risque-cardiovasculaire-diabete"%}}
 
 {{< clinique/risque-cardiovasculaire-diabete >}}
