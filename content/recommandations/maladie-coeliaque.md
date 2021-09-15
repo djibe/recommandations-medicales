@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CELLIER (SNFGE)"
 date = 2020-04-16T12:31:11+02:00
 publishdate = 2020-04-16
-lastmod = 2021-09-09
+lastmod = 2021-09-15
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["EssCD", "HAS", "SNFGE"]
@@ -19,7 +19,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "Ostéodensitométrie avant 35 ans ???, dermatite herpétiforme"
+todo = "Ostéodensitométrie avant 35 ans ???, dermatite herpétiforme Souvent résolutive après l’éviction du gluten"
 +++
 
 {{%article-summary%}}
@@ -40,8 +40,9 @@ Elle peut survenir à tout âge, prédomine chez la femme et la majorité des pa
 À l’origine d’une malabsorption et ses complications.
 : {{%class%}} Peut être classée en sous-types selon des critères cliniques, immunologiques et histopathologiques.{{%/class%}}
 
-Dermatite herpétiforme DH
-: Souvent résolutive après l’éviction du gluten (*À compléter*).
+### Abréviation
+
+**EOGD:** endoscopie œso-gastro-duodénale (ou gastroscopie)
 
 {{%/collapse%}}
 {{%collapse "Épidémiologie" %}}
@@ -63,11 +64,14 @@ La maladie survient le plus souvent de 6 mois à 2 ans puis de 20 à 40 ans.
 {{%/collapse%}}
 {{%collapse "Facteurs de risque de maladie cœliaque" %}}
 
-- Antécédents familiaux (peu importe le degré, 10%)
-- Diabète de type 1 (prévalence 3-10 %)
+- Antécédents familiaux  
+Peu importe le degré, 10%.
+- Diabète de type 1  
+Prévalence 3-10%.
 - Maladie de [Hashimoto]({{< relref "hypothyroidie.md" >}}) ou de Basedow
 - HLA-DQ2 et HLA-DQ8
-- Autres. Voir *Qui dépister par sérologie ?*
+- Autres  
+Voir *Qui dépister par sérologie ?*
 
 {{%/collapse%}}
 {{%collapse "Qui dépister par fibroscopie d’emblée ?" %}}
@@ -150,12 +154,15 @@ Le diagnostic est affirmé par un faisceau d'arguments cliniques, biologiques, p
 
 ### Sérologie anti-transglutaminase
 
-En cas de faible risque clinique.
-
-**Réalisée à jeun pendant exposition au gluten**.  
+En cas de faible risque clinique.  
 {{%class%}}De 32 à 156.000 devraient être réalisées chaque année.{{%/class%}}
 
-IgA anti-transglutaminase (anticorps IgA anti-TGt) ET dosage des IgA totales.
+{{%info%}}
+Réalisée à jeun pendant exposition au gluten:
+
+- IgA anti-transglutaminase (anticorps IgA anti-TGt)
+- et dosage des IgA totales
+{{%/info%}}
 
 Adresser au gastro-entérologue pour confirmation en cas de résultat positif.
 
@@ -181,22 +188,23 @@ En cas de maladie prouvée, dépistage de tout les proches au 1<sup>er</sup> deg
 - Vitamine B12
 - TSH
 - ASAT, ALAT, GGT
-- Calcémie, phosphates, vitamine D.
+- Calcémie, phosphates
+- Vitamine D
 
 {{%/collapse%}}
 {{%collapse "Traitement de la maladie cœliaque" %}}
 
 **NB.** Le diagnostic de certitude doit être posé par un gastro-entérologue.
 
-- **Régime sans gluten à vie** (blé, épeautre, froment, orge, seigle)  
-  Indication : adulte avec biopsie positive, enfant avec sérologie positive.  
-  Amélioration des symptômes à partir de 2 semaines d'éviction.  
-  Les symptômes disparaissent le plus souvent après 6 à 12 mois de traitement.  
-  **NB.**« Chez les enfants qui se portent bien après l’arrêt du régime sans gluten, la recherche des auto-anticorps est **à répéter tous les ans**, afin de vérifier qu’il n’y a pas de rechutes ».
+- **Régime sans gluten à vie**
+  - Blé, épeautre, froment, orge, seigle.
+  - Indications: adulte avec biopsie positive, enfant avec sérologie positive
+  - Amélioration des symptômes à partir de 2 semaines d'éviction
+  - Les symptômes disparaissent le plus souvent après 6 à 12 mois de traitement
+  - **NB.** << Chez les enfants qui se portent bien après l’arrêt du régime sans gluten, la recherche des auto-anticorps est **à répéter tous les ans**, afin de vérifier qu’il n’y a pas de rechutes >>.
 - Encourager un régime alimentaire riche en fibres  
   Riz entier, maïs, pommes de terres, légumes.  
   L’avoine est toléré par la plupart des personnes (surveiller la survenue de complications).
-
 - Bilan par diététicien pour identifier des carences
 - **Recontrôler la sérologie initiale à 6 et 12 mois pour encourager le patient dans son régime**
 - **Dépistage de tout l’entourage du 1<sup>er</sup>** degré et suivi sérologique.
@@ -273,7 +281,7 @@ Des  produits  diététiques  sans  gluten  sont  remboursés  partiellement  pa
 graph TB
   symptomatique["<b>Risque élevé</b><hr>- Diarrhée chronique<br>- Diarrhée + amaigrissement<br>- Anémie par carence martiale <br>en l’absence d’autre cause<br>- Symptômes de MC + ATCD familiaux<br>- Symptômes de MC + auto-immunité/déficit IgA<br>- Retard de croissance de l’enfant<br>- Dermatite herpétiforme<br>- Atrophies des villosités<br>- Iléostomie/colostomie avec<br>hyperdébit non expliqué"] --> EOGD(EOGD) --> gastro
   style symptomatique stroke:#4150f5, stroke-width:1px
-  personneARisque["<b>Risque modéré</b><hr>- Intestin irritable<br>- Transaminases augmentées<br>- Diabète type 1 (/5 ans)<br>- Symptômes de MC/malabsorption<br>sans ATCDfam ni auto-immuns<br>- Colite microscopique<br>- Hypothyroïdie de Hashimoto<br>- Basedow<br>- Ostéopénie/ostéoporose<br>- Ataxie/neuropathie périphérique<br>- Aphtes récurrents ou défauts de l’émail dentaire<br>- Infertilité, fausses couches répétées<br>- Règles tardives, ménopause précoce<br>- Fatigue chronique<br>- Pancréatite idiopathique<br>- Épilepsie<br>- Céphalées, migraines<br>- Troubles de l’humeur/attention<br>- Retard mental<br>- Asplénie<br>- Psoriasis ou lésions dermatologiques<br>autres que la dermatite herpétiforme<br>- Trisomie 21, Turner<br>- Hémosidérose pulmonaire<br>- Néphropathie à IgA"] --> serologie("IgA totales<br>+ IgA anti-transglutaminase") --> gastro
+  personneARisque["<b>Risque modéré</b><hr>- Intestin irritable<br>- Transaminases augmentées<br>- Diabète type 1 (/5 ans)<br>- Symptômes de MC/malabsorption<br>sans ATCD familiaux ni auto-immuns<br>- Colite microscopique<br>- Hypothyroïdie de Hashimoto<br>- Basedow<br>- Ostéopénie/ostéoporose<br>- Ataxie/neuropathie périphérique<br>- Aphtes récurrents ou défauts de l’émail dentaire<br>- Infertilité, fausses couches répétées<br>- Règles tardives, ménopause précoce<br>- Fatigue chronique<br>- Pancréatite idiopathique<br>- Épilepsie<br>- Céphalées, migraines<br>- Troubles de l’humeur/attention<br>- Retard mental<br>- Asplénie<br>- Psoriasis ou lésions dermatologiques<br>autres que la dermatite herpétiforme<br>- Trisomie 21, Turner<br>- Hémosidérose pulmonaire<br>- Néphropathie à IgA"] --> serologie("IgA totales<br>+ IgA anti-transglutaminase") --> gastro
   style personneARisque stroke:#4150f5, stroke-width:1px
       gastro(Gastro-entérologue)
       gastro --"Diagnostic de maladie cœliaque"--> traitement("- <b>Éviction du gluten à vie</b><br>- Surveillance clinico-biologique<br>- Bilan diététique<br>- Dépistage de l'entourage")
