@@ -58,7 +58,8 @@ title = "Recommandations Médicales"
   #date = 2006-01-02
   #datetime = "2006-01-02T15:04:05Z0700"  # html ISO 8601 datetimeformat
 
-[minify]
+[minify.tdewolff.html]
+  keepWhitespace = false
 
 [markup.goldmark.parser.attribute]
   block = true # Allow classes on HTML entities

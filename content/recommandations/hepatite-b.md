@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = 2021-09-07T12:03:00+02:00
 publishdate = 2021-09-07
 lastmod = 2021-09-07
-specialites = ["infectiologie"]
+specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["MinSante"]
 tags = ["fatigue", "hepatite", "HSH", "vaccin", "VIH"]
@@ -106,8 +106,9 @@ Si prématuré < 32 semaines ou poids < 2 kg: schéma 4 doses à J0-M1-M2-M6 ave
 
 #### Rattrapage de 11 à 15 ans
 
+- 2 doses à M0-M6 par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R)  
+Sauf risque élevé entre les 2 doses.
 - 3 doses à M0-M1-M6
-- 2 doses à M0-M6 par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R) (sauf risque élevé entre les 2 doses)
 
 #### Adultes
 
