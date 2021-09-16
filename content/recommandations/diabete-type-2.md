@@ -71,9 +71,13 @@ Négocier une perte de poids (5-10%).
 
 <div class="form-group">
   <label for="hba1cInput">HbA1c (%, dit NGSP)</label>
-  <input type="number" class="form-alternative" id="hba1cInput" step="0.5" value="7" min="1" max="16" oninput="eagInput.value = Math.round(this.value * 28.7 - 46.7)">
-  <label for="eagInput" class="ml-5">Glycémie moyenne estimée (mg/dL)</label>
-  <input type="number" style="width:68px" class="form-alternative" id="eagInput" value="154" min="1" oninput="hba1cInput.value = Math.round((this.value + 46.7) / 28.7)">
+  <input type="number" class="form-alternative" id="hba1cInput" step="0.5" value="7" min="1" max="16" onchange="hba1cIfccInput.value = Math.round((this.value - 2.152) /0.09148); eagInput.value = Math.round(this.value * 28.7 - 46.7)">
+  <div class="my-3">
+  <label for="hba1cIfccInput">HbA1c (mmol/mol, dit IFCC)</label>
+  <input type="number" class="form-alternative" id="hba1cIfccInput" value="53" min="1" max="160" onchange="hba1cInput.value = Math.round((this.value * 0.09148 + 2.152) / 0.5) * 0.5">
+  </div>
+  <label for="eagInput">Glycémie moyenne estimée (mg/dL)</label>
+  <input type="number" style="width:68px" class="form-alternative" id="eagInput" value="154" min="1" onchange="hba1cInput.value = Math.round((this.value + 46.7) / 28.7)">
 </div>
 
 {{%/collapse%}}
@@ -106,6 +110,8 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
 <div class="mb-2 choix-standard">
   <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-idpp4">iDDP4</button>
   <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-su">SU</button>
+  <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-glp1ra">GLP1-RA</button>
+  <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
 </div>
 <div class="mb-2 choix-obese">
   <button class="chip chip-action flex-grow-1 border border-primary" type="button">iSGLT2</button>
@@ -114,6 +120,7 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
 <div class="mb-2 choix-ic">
   <button class="chip chip-action" type="button">iSGLT2</button>
 </div>
+<p class="mt-4 text-muted">Possibilité de proposer d'emblée une bithérapie quand déséquilibre initial important (HbA1c > 9%)</p>
 <!-- 3e intention -->
 <h3 class="typography-overline mt-3">Trithérapie - Selon les traitements essayés</h3>
 <div class="mb-2 choix-standard">
