@@ -6,9 +6,9 @@ synonyms = ["Sigmoïdite diverticulaire, diverticulite colique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-09T11:33:00+02:00
 publishdate = 2021-02-09
-lastmod = 2021-02-09
+lastmod = 2021-09-17
 specialites = ["hepato-gastro-enterologie"]
-annees = "2017"
+annees = "2021"
 sources = ["HAS", "SNFGE"]
 tags = []
 anglais = ["Diverticulitis of sigmoid colon"]
@@ -112,13 +112,10 @@ Perforation ou abcès.
 
 {{%info%}}Pas d’antibiothérapie en 1<sup>re</sup> intention si scanner sans complication.{{%/info%}}
 
-Indications à l'antibiothérapie ambulatoire:
-
-- Échec thérapeutique à 48h sans critère d'hospitalisation
-
+Indication à l'antibiothérapie ambulatoire: échec thérapeutique à 48h sans critère d'hospitalisation.  
 Amoxicilline + acide clavulanique 1 g x 3/j pendant 7 jours.
 
-Si allergie: ciprofloxacine + métronidazole
+Si allergie: ciprofloxacine 500 mg x 2/j OU lévofloxacine 500 mg x 1/j pendant 7 jours.
 
 ### Chirurgie
 
@@ -155,6 +152,7 @@ graph TB
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
+- [HAS. Choix et durées d’antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes?id=p_3278764&preview=true)
 - [Meurette G. et Vitton V. Diverticulite sigmoïdienne à l’heure des recommandations. POST'U 2019 - Paris](https://www.fmcgastro.org/texte-postu/postu-2019-paris/diverticulite-en-2019/)
 - [Rouillon JM; SNFGE. Prise en charge de la diverticulite sigmoïdienne.](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/prise_en_charge_de_la_diverticulite.pdf)
 - [HAS. Prise en charge médicale et chirurgicale de la diverticulite colique. Novembre 2017.](https://www.has-sante.fr/jcms/c_2806798/fr/prise-en-charge-medicale-et-chirurgicale-de-la-diverticulite-colique)

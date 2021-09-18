@@ -6,10 +6,10 @@ synonyms = ["Rhinosinusites infectieuses aiguës"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-18T09:20:00+02:00
 publishdate = 2021-01-18
-lastmod = 2021-01-18
-specialites = ["infectiologie", "ORL"]
-annees = "2017"
-sources = ["SPILF"]
+lastmod = 2021-09-17
+specialites = ["ORL"]
+annees = "2021"
+sources = ["HAS", "SPILF"]
 tags = ["toux"]
 anglais = ["Sinusitis"]
 sctid = "36971009"
@@ -148,11 +148,12 @@ Pas d'antibiothérapie si diagnostic incertain.
 {{%info%}}
 Première intention
 : **Adulte:** Amoxicilline 1 g x 3/j pendant 7 jours
-: **Enfant:** Amoxicilline 80-90 mg/kg/j x 2-3/j pendant 7 jours
+: **Enfant:** Amoxicilline 80-90 mg/kg/j x 2-3/j pendant 10 jours
 {{%/info%}}
 
 Si échec ou origine dentaire
-: Amoxicilline-a. clavulanique 1 g ou 1 dose-kg x 3/j pendant 7 jours
+: **Adulte:** Amoxicilline-a. clavulanique 1 g pendant 7 jours
+: **Enfant:** Amoxicilline-a. clavulanique 1 dose-kg x 3/j pendant 10 jours
 
 Allergie à la pénicilline sans allergie céphalosporines
 : **Adulte:** Céfuroxime-axétil 250 mg x 2/j pendant 5 jours  
@@ -222,6 +223,7 @@ graph TB
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [HAS. Choix et durées d’antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes?id=p_3278764&preview=true)
 - [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017.](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)
 - [HAS. Fiche mémo - Sinusite de l'adulte. Novembre 2016.](https://www.has-sante.fr/upload/docs/application/pdf/2016-11/v1-fm_sinusite_adulte-171116.pdf)
 - [Société Française de Pédiatrie. Guide de prescription d’antibiotique en pédiatrie. Archives de Pédiatrie. Juin 2016. Vol. 23. HS n°3.](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)

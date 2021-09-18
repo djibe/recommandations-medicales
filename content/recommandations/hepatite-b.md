@@ -6,17 +6,17 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-09-07T12:03:00+02:00
 publishdate = 2021-09-07
-lastmod = 2021-09-07
+lastmod = 2021-09-18
 specialites = ["hepato-gastro-enterologie"]
-annees = "2021"
-sources = ["MinSante"]
+annees = "2016"
+sources = ["HAS", "MinSante"]
 tags = ["fatigue", "hepatite", "HSH", "vaccin", "VIH"]
-anglais = ["Viral hepatitis type B"]
-sctid = ""
+anglais = ["Hepatitis B"]
+sctid = "66071002"
 draft = false
 flowchart = false
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Hépatite B, illustration par pch.vector / Freepik"
 todo = "clinique, BEH, flow, découverte hépatite B guérie"
 +++
 
@@ -139,35 +139,77 @@ Alcool, drogues, tabac.
 {{%info%}}
 Adresser au spécialiste avec le bilan initial:
 
-- AgHBs persistant > 6 mois
+- Ag HBs persistant > 6 mois
 - Anticorps IgM anti-HBc
-- AgHBe, anticorps anti-HBe
+- Ag HBe, anticorps anti-HBe
 - PCR VHB  
 \> 100.000 copies/mL pour hépatite chronique AgHBe+, > 10.000 si AgHBe-.
-- Sérologies VHD, VIH, VHA, VHC
+- Sérologies VHD, VHA, VHC, VIH
 - Bilan hépatique complet
 - TP
-- Coefficient de saturation de la transferrine à jeun
-- Créatininémie, clairance, protéinurie, albuminémie
-- Glycémie à jeun
+- Albuminémie
+- NFS
+- Ferritinémie
+- Créatininémie, clairance, protéinurie
 - TSH
+- Anti-TPO, anti-nucléaires, anti-muscle lisse, anti-LKM1
+- Glycémie à jeun
+- Bilan lipidique
 - bHCG
-- Stéatose: bilan lipidique
-- Alpha-fœtoprotéine TODO:
+- Alpha-fœtoprotéine
 - Échographie abdominale
+- ECG, consultation de cardiologie
 {{%/info%}}
 
-### Objectifs du traitement
+### Traitement de l'hépatite B active
 
+**Objectifs du traitement**: diminution de l'ADN sous 100.000 copies/mL (10.000 si AgHBe-), normalisation voire régression des anomalies biologiques et histologiques, obtention d'une séroconversion HBe et séroconversion HBs (plus rare).
 
+- [ALD 6]({{< relref "affection-longue-duree.md" >}})  
+Indications: Ag HBs+ + > 2000 copies/mL ou cytolyse + nécessité d'un traitement antiviral ou de suivi prolongé, séquelles graves.
+- Adresser au spécialiste pour initier un traitement  
+{{%class%}}Interféron alpha-2a/b, pégylé alpha-2a, lamivudine, adéfovir, entecavir, telbivudine, tenofovir.{{%/class%}}
+- Préservatif obligatoire
+- Vaccination
+  - VHB de l'entourage
+  - VHA avec sérologie préalable
+  - Pneumocoque
+  - Grippe annuelle
+- Arrêt de l'alcool et du tabac
+- Correction d'un surpoids
 
-- ALD 6  
-Hépatite B chronique.
+[Guide patient: vivre avec une hépatite B chronique](https://www.has-sante.fr/upload/docs/application/pdf/guide_patient_vhb.pdf)
+
+### Surveillance de l'hépatite B active
+
+- Interféron  
+Rythme mensuel poursuivi dans les 6 mois suivants la fin du traitement.
+- Suivi biologique selon le traitement antiviral
+- PCR VHB tous les 3 mois
+- Ag HBe+ avec réduction < 100.000 copies/mL
+  - Ag HBe tous les 6 mois
+  - Négativation de l'Ag HBe: ajouter anti-HBe tous les 6 mois.  
+  Si anti-HBe+: Ag HBs tous les 6 mois.  
+  Négativation de l'Ag HBs: surveillance Ag HBs et anti-HBs tous les 6 mois.  
+  Si anti-HBs+: surveillance tous les 3 mois pendant 1 an puis selon avis du spécialiste.
+- Ag HBe- avec réduction < 10.000 copies/mL
+  - Ag HBs tous les 6 mois
+  - Négativation de l'Ag HBs: surveillance Ag HBs et anti-HBs tous les 6 mois
+  - Si anti-HBs+: surveillance tous les 3 mois pendant 1 an puis selon avis du spécialiste
+
+#### Patient non traité
+
+- ASAT et ALAT tous les 3 mois pendant 1 an puis tous les 6 mois
+- GGT, TP tous les 6 mois
+- TODO: Alpha-fœtoprotéine annuelle ?
+- Échographie abdominale annuelle
+- PCR VHB et Ag HBe annuels
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
 - {{< references/calendrier-vaccinal >}}
-- [HAS. Hépatite B Chronique. Guide Affection de longue durée. Octobre 2006.]()
+- [HAS. Hépatite chronique B. Actes et prestations Affection de longue durée. Mai 2016.](https://www.has-sante.fr/upload/docs/application/pdf/lap_ald_6_final_juillet_2007.pdf)
+- [HAS. Hépatite B Chronique. Guide Affection de longue durée. Octobre 2006.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
 
 {{% /collapse %}}

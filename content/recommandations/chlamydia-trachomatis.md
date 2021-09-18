@@ -6,9 +6,9 @@ synonyms = ["Chlamydiose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T12:09:00+02:00
 publishdate = 2021-03-28
-lastmod = 2021-05-03
+lastmod = 2021-09-17
 specialites = ["gynecologie-obstetrique"]
-annees = "2018"
+annees = "2021"
 sources = ["HAS", "Inpes"]
 tags = ["depistage", "HSH", "IST", "IVG"]
 anglais = ["Chlamydia trachomatis infection"]
@@ -148,6 +148,7 @@ Indication: << e. Personnes ayant des relations sexuelles avec des partenaires m
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [HAS. Choix et durées d’antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes?id=p_3278764&preview=true)
 - [Prescrire Redaction. Chlamydiose liée à un rapport sexuel. Premiers choix Prescrire. Mars 2021.](https://prescrire.org/)
 - [Santé Publique France. Chlamydiae. 01/12/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/chlamydiae)
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)

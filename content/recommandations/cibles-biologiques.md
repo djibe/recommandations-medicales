@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-14T15:36:00+02:00
 publishdate = 2021-01-14
-lastmod = 2021-01-14
+lastmod = 2021-09-17
 specialites = ["biologie"]
 annees = "2021"
 sources = ["CNGOF", "SFDiabète", "SFRhumato"]
@@ -16,7 +16,7 @@ sctid = ""
 draft = false
 image = true
 imageSrc = "Photo de ZEISS Microscopy sur Foter.com / CC BY-SA"
-todo = "TODO: HbA1c, LDL"
+todo = "LDL"
 +++
 
 *Cette page est en construction*
@@ -28,9 +28,8 @@ todo = "TODO: HbA1c, LDL"
 |--------------|----------------------|------------------------|--------|
 | Ferritinémie | Femme jeune          | > 50 ng/mL             | HAS  |
 | Ferritinémie | Grossesse            | > 80 ng/mL             | HAS  |
-| Ferritinémie | SJSR                 | > 75 ng/mL             | SFRMS 2019 |
-| HbA<sub>1C</sub> | DT2 récent<br>DT2 | < 6,5%                | SFDiabete 2019 |
-| HbA<sub>1C</sub> | DT2              | 7%                     | SFDiabete 2019 |
+| Ferritinémie | Jambes sans repos    | > 75 ng/mL             | SFRMS 2019 |
+| HbA<sub>1C</sub> | {{< modal-btn modal-hba1c >}}Cliquer ici{{< /modal-btn >}} | ~ 7% | SFDiabete 2019 |
 | Uricémie     | Goutte               | < 50 mg/L              | SFRhumato 2020 |
 | VDRL         | M6 post-PéniG<br>M12 post-PéniG | Taux /4<br>Négatif | SFDermato 2016 |
 | Vitamine D   | Adulte<br>≥ 65 ans   | > 50 nmol/L<br>> 75 nmol/L | Annweiler C 2018 |
@@ -51,6 +50,11 @@ todo = "TODO: HbA1c, LDL"
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-Références respectives de chaque entité (vitamine D, carence martiale...).
+Références respectives mentionnées pour chaque entité (vitamine D, carence martiale...).
 
 {{% /collapse %}}
+{{% modal title="Objectifs glycémiques selon SFD 2019" id="modal-hba1c"%}}
+
+{{< clinique/objectifs-hba1c >}}
+
+{{% /modal %}}

@@ -15,9 +15,8 @@ anglais = ["Endocarditis"]
 sctid = "56819008"
 draft = false
 flowchart = true
-image = false
-imageSrc = ""
-todo = "relecture, image"
+image = true
+imageSrc = "Végétation sur la tricuspide. Daisuke Koya, Kazuyuki Shibuya, Ryuichi Kikkawa et Masakazu Haneda: Materialscientist, via Wikimedia Commons"
 +++
 
 {{%article-summary%}}
