@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-09T13:10:04+02:00"
 publishdate = "2021-09-13"
-lastmod = "2021-09-13"
+lastmod = "2021-09-19"
 specialites = ["neurologie"]
 annees = "2020"
-sources = ["SFETD"]
+sources = ["SFETD", "HAS"]
 tags = ["cancer", "douleur"]
 anglais = ["Neuropathic pain"]
 sctid = "247398009"
@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "Collège, lire 17"
+todo = "lire 17, carence B9B12?"
 +++
 
 {{%article-summary%}}
@@ -28,22 +28,90 @@ Emplâtre de lidocaïne ou TENS si 1 secteur localisé.
 - [Liste des structures spécialisées douleur chronique (SDC)](https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Douleur neuropathique
-: Douleur secondaire à une lésion ou maladie affectant le système nerveux somatosensoriel. Elle peut être d'origine périphérique ou centrale. Elle est chronique quand elle persiste plus de 3-6 mois.
+: Douleur secondaire à une lésion ou maladie affectant le système nerveux somatosensoriel (définition *IASP*). Elle peut être d'origine périphérique ou centrale. Elle est chronique quand elle persiste plus de 3-6 mois.
 : Impact important sur la qualité de vie avec coût socio-économique majeur.
+
+Allodynie
+: Douleurs provoquées par une stimulation normalement non douloureuse.
+
+Hyperalgésie
+: Douleurs anormalement intenses provoquées par une stimulation douloureuse (avec diffusion dans le temps et l’espace).
 
 ### Abréviations
 
 **AE:** antiépileptique  
 **DN:** douleur neuropathique  
+**ENMG:** électroneuromyogramme  
+**IASP:** {{%lang%}}Neuropathic Pain Special Interest Group{{%/lang%}}  
 **IRSNA:** inhibiteurs de la recapture de la sérotonine et de la noradrénaline  
 **SDC:** structures spécialisées douleur chronique, communément centres experts de la douleur  
 **SFETD:** Société Française d'Étude et de Traitement de la Douleur  
-**TENS:** {{%lang%}}transcutaneous electrical nerve stimulation{{%/lang%}}
+**TENS:** {{%lang%}}transcutaneous electrical nerve stimulation{{%/lang%}}, stimulation électrique transcutanée
 
-{{% /collapse %}}
+{{%/collapse%}}
+{{%collapse "Clinique" %}}
+
+{{%info%}}Avis neurologique devant toute douleur neuropathique dont l'étiologie ou le tableau n'est pas raisonnablement explicable{{%/info%}}
+
+### Interrogatoire et examen
+
+- Antécédents  
+Chirurgicaux, traumatiques, sciatique, diabète, zona, SIDA, maladie de système, AVC, SEP, séjours tropicaux prolongés, exposition aux métaux lourds...
+- Antécédents familiaux de neuropathie
+- Traitements neurotoxiques  
+Radio-chimiothérapie, isoniazide, métronidazole, éthambutol, nitrofurantoïne, colistine, dapsone, traitement antipaludéen, antirétroviraux...
+- Alcool, tabac, toxiques
+- Topographie nerveuse systématisée
+- Apparition et évolution des douleurs
+- Caractères douloureux
+  - Circonstance de déclenchement
+  - Fond continu
+  - Paroxysmes: décharges électriques, coups de couteau
+  - Prédominance nocturne
+  - Brûlures
+  - Froid douloureux
+  - Étau, compression, torsion
+  - **Paresthésies**  
+  En l'absence de stimulation: picotement, fourmillement, démangeaison, engourdissement.
+  - Dysesthésies (contact des draps...)
+  - {{< modal-btn modal-score-dn4 >}}Questionnaire DN4{{< /modal-btn >}}
+- Examen neurologique anormal avec signes sensoriels du même territoire
+  - An/hyper/**hypoesthésie**
+  - Trouble de la sensibilité vibratoire
+  - Hypo/hyper/analgésie, allodynie
+- Troubles neurovégétatifs locaux
+  - Sudation
+  - Troubles trophiques
+- Traitements essayés  
+Substance, posologie, durée, tolérance, efficacité.
+- Professionnels impliqués
+- Environnement pro-socio-économique
+- Qualité de vie
+
+{{%/collapse%}}
+{{%collapse "Examens complémentaires" %}}
+
+### Bilan biologique
+
+{{%info%}}
+Sauf étiologie évidente, bilan de première intention devant des douleurs neuropathiques:
+
+- Glycémie à jeun
+- NFS
+- CRP
+- ASAT, ALAT, GGT
+- Créatininémie et DFG
+- TSH
+{{%/info%}}
+
+### Électroneuromyogramme (ENMG)
+
+Uniquement sur avis du neurologue.
+
+{{%/collapse%}}
 {{%collapse "Classes thérapeutiques efficaces" %}}
 
 Seuls traitements ayant un niveau de preuve satisfaisant en 2020 sur les douleurs neuropathiques de l'adulte:
@@ -84,8 +152,8 @@ En complément des traitements pharmacologiques.
 
 Amitriptyline 10 mg/j et gabapentine 900 mg/j avec la même efficacité sans effets indésirables majeurs.
 
-{{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%/collapse%}}
+{{%collapse "Traitement des douleurs neuropathiques" %}}
 
 - [Liste des structures spécialisées douleur chronique (SDC)](https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)
 - Informer sur les risques pour la conduite automobile
@@ -147,7 +215,7 @@ Prescription et réalisation uniquement en centre de la douleur chronique.
 
 {{%warning%}}Les opioïdes forts ne doivent être proposés par un spécialiste de la douleur qu’en l’absence d’alternatives{{%/warning%}}
 
-{{% /collapse %}}
+{{%/collapse%}}
 {{%collapse "Conduite à tenir pour le traitement des douleurs neuropathiques" "show" %}}
 
 {{< mermaid title="Algorithme thérapeutique proposé pour la prise en charge de la douleur neuropathique de l'adulte. Dr JB FRON d'après SFETD 2020" >}}
@@ -167,11 +235,12 @@ graph TB
 {{%collapse "Sources" %}}
 
 - [Moisset X et al, SFETD. Traitements pharmacologiques et non pharmacologiques de la douleur neuropathique : une synthèse des recommandations françaises. Douleur Et Analgesie, 33 (2020): 101-112.](https://www.sfetd-douleur.org/wp-content/uploads/2021/02/synth%C3%A8se-RECOS-DN-langue-fran%C3%A7aise1.pdf)
+- [HAS. Prise en charge diagnostique des neuropathies périphériques. Recommandations professionnelles. Mai 2007.](https://www.has-sante.fr/upload/docs/application/pdf/diagnostic_neuropathies_peripheriques_recommandations.pdf)
 - [Collège des enseignants de neurologie. Bases neurophysiologiques, mécanismes physiopathologiques d’une douleur aiguë et d’une douleur chronique – Thérapeutiques antalgiques, médicamenteuses et non médicamenteuses. Item 131.](https://www.cen-neurologie.fr/deuxieme-cycle/bases-neurophysiologiques-mecanismes-physiopathologiques-dune-douleur-aigue-dune)
 
-{{% /collapse %}}
+{{%/collapse%}}
 {{% modal title="Questionnaire DN4" id="modal-score-dn4"%}}
 
 {{< scores/dn4 >}}
 
-{{% /modal %}}
+{{%/modal%}}
