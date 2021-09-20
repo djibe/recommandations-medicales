@@ -40,8 +40,7 @@ Objectif tensionnel **< 130/80** mmHg (*ESC 2019*).
 - Dyslipidémie
 - Activité physique  
 **Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire.
-- Cible d'HbA1c  
-Globalement **6,5%** (sauf complications avancées).
+- Cible d'HbA1c personnalisée
 - Surpoids  
 Négocier une perte de poids (5-10%).
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}

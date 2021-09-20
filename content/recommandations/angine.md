@@ -9,22 +9,22 @@ publishdate = 2020-09-28
 lastmod = 2021-09-17
 specialites = ["ORL"]
 annees = "2021"
-sources = ["HAS"]
+sources = ["HAS", "SPILF"]
 tags = ["TROD", "SGA"]
 anglais = ["Tonsilitis"]
 sctid = "90176007"
 draft = false
 image = true
-imageSrc = "Photo de Fireflyez76 sur Foter.com / CC BY-ND"
+imageSrc = "Angine, photo de Fireflyez76 sur Foter.com / CC BY-ND"
 flowchart = true
 todo = "lire campus ORL"
 +++
 
 {{%article-summary%}}
 
-- Toujours viral avant 3 ans.
-- TDR de 3 à 14 ans et score de Mc Isaac au-delà.
-- TDR et ATB accessibles directement en pharmacie si contrat de soins avec le pharmacien ([JO 08/03/2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041697956)).
+- Toujours viral avant 3 ans
+- TDR de 3 à 14 ans et score de Mc Isaac au-delà
+- TDR et ATB accessibles directement en pharmacie si contrat de soins avec le pharmacien ([JO 08/03/2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041697956))
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -120,7 +120,7 @@ graph TB
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [HAS. Choix et durées d’antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes?id=p_3278764&preview=true)
+- [HAS. Choix et durées d’antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/reco360_synthese_durees_antibiotherapies_coi_2021_07_15_v2.pdf)
 - [Journal Officiel. Arrêté du 6 mars 2020 relatif à l'autorisation du protocole de coopération « Prise en charge de l'odynophagie par l'infirmier diplômé d'Etat ou le pharmacien d'officine dans le cadre d'une structure pluri-professionnelle ». 08/03/2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041697956)
 - [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017.](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)
 - [SPILF/HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l’adulte. Novembre 2016.](https://www.has-sante.fr/upload/docs/application/pdf/2016-11/v1-fm_rhino-angine_adulte_cd-171116.pdf)
