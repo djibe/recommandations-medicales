@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-08T09:35:00+02:00
 publishdate = 2021-01-08
-lastmod = 2021-08-25
+lastmod = 2021-09-20
 specialites = ["rhumatologie"]
 annees = "2020"
-sources = ["EULAR", "SFRhumato"]
+sources = ["SFRhumato", "EULAR"]
 tags = ["arthropathie", "HTA", "risque cardiovasculaire"]
 anglais = ["Gout"]
 sctid = "90560007"
@@ -34,13 +34,14 @@ Perte poids, arrêt bière, réduire alcool/sodas/jus, viandes/abats, crustacés
 - Éducation thérapeutique et observance +++
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Goutte
 : Rhumatisme inflammatoire le plus fréquent dans le monde, surtout chez l'homme âgé. Elle est la conséquence d'une *hyperuricémie chronique*.
 : Famille des *arthropathies microcristallines* par dépôts de cristaux d’*urate de sodium* (monosodique dit UMS) dans les articulations. Ces derniers provoquent des arthrites aiguës, récidivantes et de résolution spontanée.  
 Prévalence de 0,9 à 2,5% selon les pays, en augmentation.
 : **Complications:** tophus, arthropathies uratiques, colique néphrétique, lithiases uriques radiotransparentes, néphropathie goutteuse.
+: Diagnostic différentiel: chondrocalcinose articulaire, arthrite infectieuse, rhumatisme psoriasique, poussée d'arthrose, polyarthrite rhumatoïde.
 
 Tophus
 : Dépôt tissulaire de cristaux d'acide urique entouré de cellules inflammatoires lors de chronicité de la maladie.  
@@ -60,7 +61,7 @@ La **mortalité** est de 20-30% et 60% de ces accidents sous *allopurinol* surv
 Tabagisme, HTA, diabète, dyslipidémie, obésité.
 - Traitements en cours  
 - Médicaments hyperuricémiants  
-Diurétiques, interactions médicamenteuses (biphosphonates).
+Diurétiques, aspirine, interactions médicamenteuses (biphosphonates), cytotoxiques, ivabradine, ciclosporine, tacrolimus.
 - Antécédents familiaux de goutte
 - Antécédents  
 Greffe d'organe, colique néphrétique, insuffisance rénale, ulcère gastro-duodénal, infections ...
@@ -85,16 +86,16 @@ Greffe d'organe, colique néphrétique, insuffisance rénale, ulcère gastro-duo
 
 ### Biologie
 
-Compléte le bilan des facteurs de risque cardiovasculaire.
+Complète le bilan des facteurs de risque cardiovasculaire.
 
-- Créatininémie et clairance CKD-EPI
+- Créatininémie et DFG CKD-EPI
 - Uricémie
 - Glycémie à jeun si facteur de risque ou ≥ 45 ans
 - Dyslipidémie selon le terrain
 
 ### Radiographies articulaires
 
-Radiographies des articulations atteintes au diagnostic pour le diagnostic différentiel (chondrocalcinose articulaire, arthrite infectieuse).
+Radiographies des articulations atteintes au diagnostic pour le diagnostic différentiel.
 
 {{%class%}}L'arthropathie uratique est tardive avec géodes, encoches épiphysaires et ostéophytose marginale.{{%/class%}}
 
@@ -116,9 +117,9 @@ Traitement adapté à la tolérance et à l’efficacité passée.
 Force la diurèse à 2-3 L/jour.
 - Régime hypocalorique (< 2000 kcal/j) et hypo-uricémiant
 - **AINS**  
-  - À prendre dès le début des symptômes, uniquement le temps de la poussée.
-  - {{%info-span%}}Naproxène 550 mg x 2/j le temps de la crise (max 7j){{%/info-span%}}
-  - Ne pas utiliser si maladie cardiovasculaire grave ou IRC
+  - À prendre dès le début des symptômes, uniquement le temps de la poussée
+  - {{%info-span%}}Naproxène 750 mg puis 250 mg x 3/j (max 7j){{%/info-span%}}
+  - Ne pas utiliser si maladie cardiovasculaire grave ou insuffisance rénale
 - Envisager un traitement de fond
 
 ### Colchicine
@@ -184,8 +185,7 @@ Ces mesures ont plus d’effets sur le profil cardiovasculaire que sur l’uric�
 Substituer si possible car très uricosuriques, par losartan ou amlodipine.
 - Si dyslipidémie associée:  
 Préférer la substitution de la statine par fénofibrate car très hypouricémiant.
-- Si surpoids:  
-Perte de poids.
+- Correction d'un surpoids
 - Réduction de la consommation d'alcool  
 Bière et spiritueux.
 - Arrêt des sodas, limiter jus d’orange et de pomme
@@ -317,7 +317,7 @@ graph TB
 **MCV:** maladie cardiovasculaire  
 **Inhibiteurs CYP3A4/GP:** pristinamycine, macrolides...  
 **Colchicine** J1: 1 mg puis 0,5 mg à H1 puis jours suivants 0,5 mg x 2-3/j.  
-**AINS:** naproxène.  
+**AINS:** naproxène 750 mg puis 250 mg x 3/j.  
 **Corticoïdes:** 30-35 mg/j prednisone 5 jours.
 
 {{%/collapse%}}
@@ -374,14 +374,12 @@ Intérêt de colchicine prophylactique.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Prescrire Rédaction. Probénécide : de retour en ville, avec AMM. Novembre 2020.](https://prescrire.org)
-- [Société Française de Rhumatologie. Recommandations 2020 de la Société française de rhumatologie pour la prise en charge de la goutte : traitement des crises de goutte. Octobre 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301502)
-- [Société Française de Rhumatologie. Recommandations de la Société française de rhumatologie pour la prise en charge de la goutte : le traitement hypo-uricémiant. Octobre 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301514)
-- [Prescrire Rédaction. Douleur et crise de goutte. Septembre 2020.](https://prescrire.org)
+- [Prescrire Rédaction. Crise de goutte. Premiers choix Prescrire. Mars 2021.](https://prescrire.org)
+- [Société Française de Rhumatologie. Recommandations 2020 de la Société française de rhumatologie pour la prise en charge de la goutte : traitement des crises de goutte. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.008)
+- [Société Française de Rhumatologie. Recommandations de la Société française de rhumatologie pour la prise en charge de la goutte : le traitement hypo-uricémiant. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.009)
 - [EULAR. 2016 updated EULAR evidence-based recommandations for the management of gout. July 25, 2016.](https://ard.bmj.com/content/76/1/29)
-- [La Revue Prescrire. Fébuxostat : syndromes de Lyell et hypersensibilités graves ajoutés dans le RCP. Février 2015.](https://prescrire.org/)
 - [ANSM. Allopurinol et risque de survenue de toxidermies graves – Lettre aux professionnels de santé. 25 Février 2013.](http://dev4-afssaps-marche2017.integra.fr/content/download/46768/603562/version/1/file/ddl-130225-Allopurinol.pdf)
-- Société Française de Rhumatologie. Traitement de la goutte. Revue du Rhumatisme 74. 2007.
+- [Société Française de Rhumatologie. Traitement de la goutte. Revue du Rhumatisme 74. 2007.](https://omeditlr.chu-nimes.fr/bibliographie/Traitement_de_la_goutte_societe_francaise_de_rhumatologie_2007.pdf)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8.](http://www.lecofer.org/item-cours-1-19-0.php#ch_2_1)
 
 {{% /collapse %}}

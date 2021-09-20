@@ -191,7 +191,7 @@ Injections uniquement par un centre de la douleur chronique.
 
 #### Douleur neuropathique en 2e intention
 
-- Prégabaline 150-600 mg/j en 2-3 prises
+- [Prégabaline 150-600 mg/j](https://ec.europa.eu/health/documents/community-register/2020/20200703148324/anx_148324_fr.pdf) en 2-3 prises
   - Ordonnance sécurisée
   - Effets indésirables: somnolence, vertiges, prise de poids et œdèmes périphériques
 - Tramadol LP 100-400 mg/j en 1-2 prises  

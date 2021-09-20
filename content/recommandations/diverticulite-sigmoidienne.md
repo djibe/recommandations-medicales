@@ -6,10 +6,10 @@ synonyms = ["Sigmoïdite diverticulaire, diverticulite colique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-09T11:33:00+02:00
 publishdate = 2021-02-09
-lastmod = 2021-09-17
+lastmod = 2021-09-20
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
-sources = ["HAS", "SNFGE"]
+sources = ["ESCP", "SNFGE", "HAS"]
 tags = []
 anglais = ["Diverticulitis of sigmoid colon"]
 sctid = "427910000"
@@ -22,17 +22,18 @@ todo = "constipation, délai scanner, éviter cortico/AINS, Prescrire"
 
 {{%article-summary%}}
 
-- La diverticulose colique est asymptomatique dans 80% des cas.
-- Scanner abdomino-pelvien pour le diagnostic.
-- Pas d'antibiotiques si crise non compliquée, sans gravité et sans grossesse.
+- La diverticulose colique est asymptomatique dans 80% des cas
+- Scanner abdomino-pelvien pour le diagnostic
+- Pas d'antibiotiques si crise non compliquée, sans gravité et sans grossesse
 - Chirurgie prophylactique si comorbidités  
-{{%class "text-black-secondary" %}}Immunodépression, IRC, altération qualité de vie, fistule, abcès, sténose symptomatique.{{%/class%}}
+{{%class "text-black-secondary" %}}Immunodépression, insuffisance rénale, altération qualité de vie, fistule, abcès, sténose symptomatique.{{%/class%}}
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Diverticulite sigmoïdienne aiguë
-: Inflammation infectieuse colique d'origine diverticulaire survenant le plus souvent entre 50 et 70 ans.  
+: Inflammation infectieuse colique d'origine diverticulaire survenant le plus souvent entre 50 et 70 ans.
+: Facteurs de risque: âge, hérédité, obésité.  
 30% de récidives à 5 ans. 16 à 35% se compliquent d'abcès.
 
 Diverticulose du côlon
@@ -75,7 +76,9 @@ Examens systématiques pour affirmer le diagnostic.
 
 Examen de référence pour le diagnostic et la recherche de complications.
 
-Il doit être réalisé dans les 24h suivant l'admission des patients hospitalisés ou 72h suivant le début des douleurs en ambulatoire.  
+Il doit être réalisé dans les *72h* suivant le début des douleurs en ambulatoire (24h si hospitalisation).  
+Échographie si contre-indication au scanner.
+
 Nouveau scanner à chaque nouvelle poussée inflammatoire.
 
 {{% /collapse %}}
@@ -86,10 +89,15 @@ Nouveau scanner à chaque nouvelle poussée inflammatoire.
 ### Indications à l'hospitalisation en poussée de diverticulite sigmoïdienne aiguë
 
 - Grossesse
+- Immunodépression
 - Mauvaise tolérance clinique
+  - Pression artérielle ≤ 100 mmHg
+  - Fréquence respiratoire ≥ 22/min
+  - Confusion
   - Signes d'irritation péritonéale
-  - Gravité clinique ou score ASA > 3
+  - {{< modal-btn modal-score-asa >}}Score ASA > 3{{< /modal-btn >}}
   - Hydratation orale impossible
+  - Rectorragie
   - Impossibilité de surveillance ambulatoire
   - Terrain fragile
   - Contexte social défavorable
@@ -104,9 +112,11 @@ Perforation ou abcès.
 {{%info%}}Aucun traitement ou régime ne permet de prévenir les crises.{{%/info%}}
 
 - Antalgie simple
+- Pas d'AINS
+- Pas de modification du régime alimentaire
 - Surveillance clinique des symptômes  
-{{%class%}}Après scanner et bilan biologique.{{%/class%}}
-- Pas de suivi biologique systématique ni de scanner de contrôle en cas d’évolution favorable.
+{{%class%}}Après bilan biologique ± scanner.{{%/class%}}
+- Pas de suivi biologique systématique ni de scanner de contrôle en cas d’évolution favorable
 
 ### Antibiothérapie
 
@@ -115,7 +125,8 @@ Perforation ou abcès.
 Indication à l'antibiothérapie ambulatoire: échec thérapeutique à 48h sans critère d'hospitalisation.  
 Amoxicilline + acide clavulanique 1 g x 3/j pendant 7 jours.
 
-Si allergie: ciprofloxacine 500 mg x 2/j OU lévofloxacine 500 mg x 1/j pendant 7 jours.
+Si allergie: ciprofloxacine 500 mg x 2/j OU lévofloxacine 500 mg x 1/j  
+\+ métronidazole 500 mg x 3/j pendant 7 jours.
 
 ### Chirurgie
 
@@ -128,12 +139,12 @@ Si allergie: ciprofloxacine 500 mg x 2/j OU lévofloxacine 500 mg x 1/j pendant 
 - Abcès
 - Sténose symptomatique
 
-Intérêt d'une **coloscopie** avant la chirurgie, surtout si > 50 ans ou risque élevée de cancer colorectal.
+Intérêt d'une **coloscopie** avant la chirurgie, surtout si > 50 ans ou risque élevé de cancer colorectal.
 
 {{% /collapse %}}
 {{% collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de diverticulite sigmoïdienne. Dr JB FRON d'après HAS 2017" >}}
+{{< mermaid title="Conduite à tenir devant une suspicion de diverticulite sigmoïdienne. Dr JB FRON d'après HAS 2017 et 2021" >}}
 graph TB
   diverticulite[Suspicion de diverticulite]
   style diverticulite stroke:#4150f5, stroke-width: 1px
@@ -145,16 +156,23 @@ graph TB
             scanner -.-> autre
             scanner -- Oui --> Hospitalisation
             scanner -- Non --> med(Surveillance clinique)
-              med -.-> echec("Aggravation à 48h<br>sans critère d'hospitalisation") --> atb("<b>Antibiothérapie orale</b><br>Amox + a. clavulanique 1 g x 3/j 7j<br>") -. Allergie vraie .-> allergie("ATB 7 jours par<br>lévofloxacine 500 mg 1/j<br>OU ciprofloxacine 500 mg x 2/j<br>+ métronidazole 500 mg x 3/j")
+              med -.-> echec("Aggravation à 48h<br>sans critère d'hospitalisation") --> atb("<b>Antibiothérapie orale</b><br>Amox + a. clavulanique 1 g x 3/j 7j<br>") -. Allergie vraie .-> allergie("ATB 7 jours par<br>lévofloxacine 500 x 1/j<br>OU ciprofloxacine 500 x 2/j<br>+ métronidazole 500 x 3/j")
         bio --> SIB-(Pas de SIB) --> autre(Autre diagnostic)
 {{< /mermaid >}}
 
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
-- [HAS. Choix et durées d’antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes?id=p_3278764&preview=true)
+- [HAS. Choix et durée de l'antibiothérapie : Diverticulite aiguë sigmoïdienne non compliquée. Recommander les bonnes pratiques. 27/08/2021.](https://www.has-sante.fr/jcms/p_3282886/fr/choix-et-duree-de-l-antibiotherapie-diverticulite-aigue-sigmoidienne-non-compliquee)
+- [Schultz J.K. et al. European Society of Coloproctology: guidelines for the management of diverticular disease of the colon. Colorectal Dis. 22: 5-28.](https://doi.org/10.1111/codi.15140)
 - [Meurette G. et Vitton V. Diverticulite sigmoïdienne à l’heure des recommandations. POST'U 2019 - Paris](https://www.fmcgastro.org/texte-postu/postu-2019-paris/diverticulite-en-2019/)
 - [Rouillon JM; SNFGE. Prise en charge de la diverticulite sigmoïdienne.](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/prise_en_charge_de_la_diverticulite.pdf)
+- [Prescrire Rédaction. Diverticulite aiguë du côlon. Novembre 2018.](https://prescrire.org)
 - [HAS. Prise en charge médicale et chirurgicale de la diverticulite colique. Novembre 2017.](https://www.has-sante.fr/jcms/c_2806798/fr/prise-en-charge-medicale-et-chirurgicale-de-la-diverticulite-colique)
 
-{{% /collapse %}}
+{{%/collapse%}}
+{{% modal title="Score ASA" id="modal-score-asa"%}}
+
+{{< scores/asa >}}
+
+{{% /modal %}}

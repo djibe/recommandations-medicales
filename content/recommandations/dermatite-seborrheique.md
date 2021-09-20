@@ -6,7 +6,7 @@ synonyms = ["Eczéma séborrhéique, Dermite séborrhéique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-01T22:39:41+02:00
 publishdate = 2020-09-01
-lastmod = 2021-04-21
+lastmod = 2021-09-20
 specialites = ["dermatologie"]
 annees = "2017"
 sources = ["CEDEF"]
@@ -16,7 +16,7 @@ sctid = "50563003"
 draft = false
 flowchart = true
 image = true
-imageSrc = "Roymishali, CC BY-SA 3.0, via Wikimedia Commons"
+imageSrc = "Dermatite séborrhéique, Roymishali, CC BY-SA 3.0, via Wikimedia Commons"
 +++
 
 {{%article-summary%}}
@@ -29,12 +29,11 @@ imageSrc = "Roymishali, CC BY-SA 3.0, via Wikimedia Commons"
 {{% collapse "Définition" %}}
 
 Dermatite séborrhéique (DS)
-: Dermatose chronique **faciale** fréquente, évoluant par **poussées**, localisée aux **zones séborrhéiques du visage**.  
-Elle atteint préférentiellement l'**homme adulte**, mais peut toucher les nourrissons.  
+: Dermatose chronique **faciale** fréquente (prévalence 1-3%), évoluant par **poussées**, localisée aux **zones séborrhéiques du visage**.  
 Prolifération d'une levure lipophile: *Malassezia furfur*.
+: Elle atteint préférentiellement l'homme à la puberté, mais parfois après 50 ans. Elle peut toucher les nourrissons.
 
-{{% /collapse %}}
-{{% collapse "Sujets à risque de forme sévère" %}}
+### Sujets à risque de forme sévère
 
 - Maladie de Parkinson et syndromes extrapyramidaux iatrogènes
 - Alcoolisme chronique
@@ -42,36 +41,29 @@ Prolifération d'une levure lipophile: *Malassezia furfur*.
 - [VIH]({{< relref "vih-sida.md" >}}) (40% des séropositifs, 80% au stade SIDA)
 
 {{% /collapse %}}
-{{% collapse "Épidémiologie" %}}
-
-Dermatose assez fréquente avec une prévalence de 1 à 3% en France.
-
-{{% /collapse %}}
 {{% collapse "Clinique" %}}
 
-{{% warning %}}
-Une DS grave ou résistante au traitement et/ou chronique doit faire dépister le VIH.
-{{%/warning%}}
+{{% warning %}}Dépister le VIH en dermatite séborrhéique grave, résistante ou chronique{{%/warning%}}
 
 Le diagnostic est clinique.
 
-- **Homme** surtout, mais peut survenir chez le nourrisson.
-- Facteur aggravant: **stress**
-- Facteur soulageant: **été**
+- *Homme* surtout, mais peut survenir chez le nourrisson.
+- Facteur aggravant: *stress*
+- Facteur soulageant: *été*
 
-Zones atteintes:
+Rougeurs et squames survenant sur les zones séborrhéiques:
 
 - **Visage**  
 **Plaques érythémateuses recouvertes de petites squames grasses** des **zones séborrhéiques:** sillons nasogéniens, sourcils, gabelle (entre les sourcils), lisière antérieure du cuir chevelu.  
 Forme extensive: menton et paupières (blépharite).  
-- **Cuir chevelu**  
-L'atteinte peut être isolée.  
-Crâne recouvert de petites squames non adhérentes (**pellicules**).  
-Le plus souvent asymptomatique, mais parfois prurigineux ou sensation de brûlures.  
-Forme extensive: aspect de casque engainant des touffes de cheveux.  
+- **Cuir chevelu**
+  - L'atteinte peut être isolée
+  - Crâne recouvert de petites squames non adhérentes (*pellicules*)
+  - Le plus souvent asymptomatique, mais parfois prurigineux ou sensation de brûlures
+  - Forme extensive: aspect de casque engainant des touffes de cheveux
 - **Tronc**  
 Plaques annulaires à bordure squameuse en région présternale.  
-Autres atteintes: régions pileuses ou génitales.
+- Autres atteintes: régions pileuses ou génitales
 
 ### Clinique chez le nourrisson
 
@@ -82,19 +74,19 @@ Forme extensive: érythrodermie de Leiner-Moussous.
 {{% /collapse %}}
 {{% collapse "Diagnostic différentiel" %}}
 
-- **Psoriasis des régions séborrhéiques**  
+- Psoriasis des régions séborrhéiques  
 Plaques bien limitées extra-faciales, début précoce, antécédents.
-- **Rosacée**  
+- [Rosacée]({{< relref "rosacee.md" >}})  
 Bouffées vasomotrices, érythrose faciale permanente, télangiectasies, absence de squames.
-- **Dermatite atopique**  
+- Dermatite atopique  
 Une érythrodermie du nourrisson pourrait inaugurer une DA ou un psoriasis. Chez l'adulte, la DA déborde des zones séborrhéiques avec respect médio-facial.
-- **[Syphilis]({{< relref "syphilis.md" >}})**  
+- [Syphilis]({{< relref "syphilis.md" >}})  
 Comportement sexuel, notion de chancre.
 
 {{% /collapse %}}
 {{% collapse "Examens complémentaires" %}}
 
-**Aucun examen complémentaire** en l’absence d’arguments pour une autre cause.
+Aucun examen complémentaire en l’absence d’arguments pour une autre cause.
 
 {{% /collapse %}}
 {{% collapse "Traitement de la dermatite séborrhéique" %}}
@@ -115,8 +107,8 @@ Le traitement est suspensif et doit donc être répété.
 Shampooing antipelliculaire en alternance avec shampooing doux.
 
 {{%info%}}
-Ciclopirox (Sebiprox®, gén) shampooing 1% (ou +)  
-OU kétoconazole (Ketoderm®, gén) gel moussant 2%
+Ciclopirox (Sebiprox®, gén) shampooing 1% (ou +) x 2/j pendant 4 semaines  
+OU kétoconazole (Ketoderm®, gén) gel moussant 2% x 2/j pendant 4 semaines
 {{%/info%}}
 
 **Effets indésirables:** prurit, sensation de brûlure, xérose cutanée, interactions médicamenteuses.  
@@ -173,14 +165,15 @@ graph TB
 {{%/collapse%}}
 {{% collapse "Information du patient" %}}
 
-Maladie chronique bénigne, évoluant par poussées.  
-Le traitement améliore l'aspect esthétique, mais est seulement suspensif.  
-Il doit donc être répété lors des poussées.  
-Des effets secondaires peuvent survenir à la suite d'un traitement excessif.
+- Maladie chronique bénigne, évoluant par poussées
+- Le traitement améliore l'aspect esthétique, mais est seulement suspensif
+- Il doit donc être répété lors des poussées
+- Des effets secondaires peuvent survenir à la suite d'un traitement excessif
 
 {{% /collapse %}}
 {{% collapse "Sources" %}}
 
+- [Prescrire Rédaction. Dermatite séborrhéique chez un adulte. Août 2020.](https://prescrire.org)
 - [CEDEF. Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
 - [CEDEF. Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 - UE 6. 2017.](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2486.pdf)
 
