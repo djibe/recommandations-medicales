@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-09T13:10:04+02:00"
 publishdate = "2021-09-13"
-lastmod = "2021-09-19"
+lastmod = "2021-09-20"
 specialites = ["neurologie"]
 annees = "2020"
 sources = ["SFETD", "HAS"]
@@ -118,9 +118,8 @@ Seuls traitements ayant un niveau de preuve satisfaisant en 2020 sur les douleur
 
 - Antidépresseurs
   - IRSNA  
-  **Duloxétine** {{%class%}}(supérieure à la venlafaxine){{%/class%}}, venlafaxine.
-  - **Tricycliques**  
-  Surveillance cardiaque quand > 75 mg/j. Préférer 10-50 mg/j.
+  **Duloxétine** > venlafaxine.
+  - **Tricycliques**
 - Antiépileptiques
   - **Gabapentine**
   - Prégabaline (preuves faibles)
@@ -161,14 +160,14 @@ Amitriptyline 10 mg/j et gabapentine 900 mg/j avec la même efficacité sans eff
 
 ### Douleur neuropathique périphérique focale
 
-- Emplâtres de lidocaïne 1 à 3 selon la superficie de la zone, 12 h/j.  
+- [Emplâtres de lidocaïne 700 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65538840&typedoc=R) (Versatis®) 1 à 3 selon la superficie de la zone, 12 h/j.  
 Effets indésirables: irritation cutanée, allergie.
 - TENS  
 Prescription uniquement par un centre de la douleur chronique.
 
 #### Douleur neuropathique périphérique focale en 2e intention
 
-- Capsaïcine en patchs de haute concentration à 8% (Qutenza®). 1–4 patchs selon la superficie.  
+- [Capsaïcine en patchs de haute concentration à 8%](https://ec.europa.eu/health/documents/community-register/2021/20210709152316/anx_152316_fr.pdf) (Qutenza®). 1–4 patchs selon la superficie.  
 Appliquer 30 minutes sur les pieds et 60 minutes sur les autres zones du corps.  
 Effets indésirables: HTA, sensation de brûlure initiale (appliquer du froid), rougeur, œdème.
 - Toxine botulique type A  
@@ -176,15 +175,29 @@ Injections uniquement par un centre de la douleur chronique.
 
 ### Douleur neuropathique périphérique ou centrale, focale ou diffuse
 
+{{%info%}}
+Duloxétine 12,5-25 mg x 1/j pendant 1 semaine. Paliers 12,5-25 mg/semaine. Max 120 mg/j.
+
+---
+
+Gabapentine 300 mg J1, 300 mg x 2 J2, 300 mg x 3 J3. Paliers de 300 mg tous les 2-3 jours. Max 3600 mg/j
+
+---
+
+Amitriptyline 10 mg le soir. Paliers de 10-25 mg tous les 3-7 jours.  
+Avis spécialisé au-delà de 50 mg/j.
+{{%/info%}}
+
 - IRSNA
-  - [Duloxétine 60 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64381382&typedoc=R) (Cymbalta®, gén) x 1-2/j +++
+  - [Duloxétine 60-120 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64381382&typedoc=R) (Cymbalta®, gén) en 1-2 prise/j +++
   - [Venlafaxine 150-225 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65018658&typedoc=R) en 2-3 prises/j
   - Effets indésirables: nausées, anorexie, constipation et troubles sexuels. Levée d'inhibition avec risque suicidaire.
-- [Gabapentine 400-1200 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62611895&typedoc=R) (Neurontin®, gén) x 3/j
+- [Gabapentine 1200-3600 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62611895&typedoc=R) (Neurontin®, gén) en 3 prises/j
   - Ordonnance sécurisée, rechercher un mésusage
   - Effets indésirables: somnolence, vertiges, prise de poids et œdèmes périphériques
 - Antidépresseurs tricycliques
-  - 10-150 mg/j en 1-2 prises/j. Généralement < 75 mg/J.
+  - Surveillance cardiaque quand > 75 mg/j. Préférer 10-50 mg/j.
+  - 10-150 mg/j en 1-2 prises/j.
   - [Amitriptyline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65892928&typedoc=R) (Elavil®, Laroxyl®), clomipramine (Anafranil®, gén), imipramine (Tofranil®)
   - Effets indésirables: somnolence et prise de poids. Levée d'inhibition avec risque suicidaire.
   - Surveillance: cardiaque, anticholinergique ou d’hypotension orthostatique
@@ -192,9 +205,9 @@ Injections uniquement par un centre de la douleur chronique.
 #### Douleur neuropathique en 2e intention
 
 - [Prégabaline 150-600 mg/j](https://ec.europa.eu/health/documents/community-register/2020/20200703148324/anx_148324_fr.pdf) en 2-3 prises
-  - Ordonnance sécurisée
+  - Ordonnance sécurisée de durée maximale de 6 mois
   - Effets indésirables: somnolence, vertiges, prise de poids et œdèmes périphériques
-- Tramadol LP 100-400 mg/j en 1-2 prises  
+- [Tramadol LP 100-400 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69934919&typedoc=R) en 1-2 prises  
 Peut être associé avec des antiépileptiques. Utilisation avec prudence en association à des antidépresseurs à forte posologie (syndrome sérotoninergique).
 - Association tricyclique 25-75 mg/j ou duloxétine 60 mg/j  
 \+ gabapentine 1200-1800 mg/j ou prégabaline 150-300 mg/j

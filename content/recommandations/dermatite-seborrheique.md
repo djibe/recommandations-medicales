@@ -2,7 +2,7 @@
 title = "Dermatite séborrhéique"
 prefix = "la "
 shortname = "DS"
-synonyms = ["Eczéma séborrhéique, Dermite séborrhéique"]
+synonyms = ["Eczéma séborrhéique, dermite séborrhéique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-01T22:39:41+02:00
 publishdate = 2020-09-01
@@ -102,26 +102,28 @@ Le traitement est suspensif et doit donc être répété.
 
 ### Traitements pharmacologiques
 
+#### Face et thorax
+
+{{%info%}}
+Kétoconazole gel moussant ou crème 2% x 2/sem pendant 4 semaines  
+OU ciclopirox crème 1% x 2/j pendant 4 semaines
+{{%/info%}}
+
+Puis application 2-4/mois.
+
 #### Cuir chevelu
 
 Shampooing antipelliculaire en alternance avec shampooing doux.
 
 {{%info%}}
-Ciclopirox (Sebiprox®, gén) shampooing 1% (ou +) x 2/j pendant 4 semaines  
-OU kétoconazole (Ketoderm®, gén) gel moussant 2% x 2/j pendant 4 semaines
+Ciclopirox (Sebiprox®, gén) shampooing 1% (ou +)  
+OU kétoconazole (Ketoderm®, gén) gel moussant 2%
 {{%/info%}}
 
 **Effets indésirables:** prurit, sensation de brûlure, xérose cutanée, interactions médicamenteuses.  
 Seule le kétoconazole topique peut être utilisé pendant la grossesse.
 
 Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine, pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
-
-#### Face et tronc
-
-{{%info%}}
-Kétoconazole gel moussant ou crème 2% x 2/semaine  
-OU ciclopirox crème 1% x 2/j
-{{%/info%}}
 
 {{%warning%}}
 **Ne pas utiliser:**
@@ -158,17 +160,21 @@ graph TB
   diagnostic --> grossesse(Grossesse<hr>Kétoconazole<br>gel/crème<br>2% x 2/sem)
     scalp --> attaque(<b>Phase d'attaque</b><br>Traitement 2 à 4 sem)
     face --> attaque
-      attaque --> entretien(<b>Phase d'entretien</b><br>2 à 4 appli/mois)
-        entretien -.-> severe(Sévère et résistant<hr>Sérologie VIH<br>Avis dermatologue)
+      attaque --> entretien(<b>Phase d'entretien</b><br>2 à 4 applications/mois)
+        entretien -.-> severe(Sévère et résistant<hr>Sérologie VIH<br>Avis dermatologique)
 {{< /mermaid >}}
 
 {{%/collapse%}}
 {{% collapse "Information du patient" %}}
 
 - Maladie chronique bénigne, évoluant par poussées
-- Le traitement améliore l'aspect esthétique, mais est seulement suspensif
+- Le traitement améliore l'aspect esthétique mais est seulement suspensif
 - Il doit donc être répété lors des poussées
 - Des effets secondaires peuvent survenir à la suite d'un traitement excessif
+- En atteinte du cuir chevelu
+  - Un shampooing antipelliculaire peut être utilisé en alternance avec un shampooing doux
+  - Essayer d'autres compositions en inefficacité (cilcopirox, pyrithione de zinc, sulfure de sélénium, piroctone olamine...)
+  - Si inefficace: kétoconazole 2% ou ciclopirox 1% pendant 1 mois
 
 {{% /collapse %}}
 {{% collapse "Sources" %}}
