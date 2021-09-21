@@ -150,7 +150,6 @@ Considérée comme évolutive si présence de facteur ci-dessous (déclin annuel
 
 Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologique.
 
-
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
 

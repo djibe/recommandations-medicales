@@ -2,7 +2,7 @@
 title = "Dermohypodermite bactérienne non nécrosante"
 prefix = "la "
 shortname = "DHB"
-synonyms = ["érysipèle", "érésipèle"]
+synonyms = ["Érysipèle", "érésipèle"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T19:35:02+02:00"
 publishdate = "2021-09-19"
@@ -16,7 +16,7 @@ sctid = ""
 draft = false
 image = false
 imageSrc = ""
-todo = "Prescrire, https://www.has-sante.fr/jcms/c_2911550/fr/prise-en-charge-des-infections-cutanees-bacteriennes-courantes"
+todo = "Prescrire"
 +++
 
 {{%article-summary%}}
