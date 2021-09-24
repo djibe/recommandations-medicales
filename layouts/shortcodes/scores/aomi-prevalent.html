@@ -65,10 +65,10 @@
     }) })
     const prevalent = () => {
       let score = 0
-      const prevalentElemsChecked = document.querySelectorAll('#score-prevalent input[type=\"radio\"]:checked')
-        prevalentElemsChecked.forEach(prevalentElemChecked => {
-        score += parseInt(prevalentElemChecked.value, 10)
-        if (prevalentElemsChecked.length === 3) {
+      const elemsChecked = document.querySelectorAll('#score-prevalent input[type=\"radio\"]:checked')
+        elemsChecked.forEach(elemChecked => {
+        score += parseInt(elemChecked.value, 10)
+        if (elemsChecked.length === 3) {
           scorePREVALENT.innerHTML = score
           let explainPrevalent = "<span class='d-block text-muted mt-2'>Risque d'AOMI de " + prevalence(score) + "%</span>"
           if (score <= 7) {

@@ -10,7 +10,7 @@ publishdate = 2020-12-22
 lastmod = 2021-07-28
 specialites = ["medecine du sommeil"]
 annees = "2018"
-sources = ["AASM", "HAS", "SFRMS"]
+sources = ["SFRMS", "AASM", "HAS"]
 tags = ["BPCO", "depistage", "diabete", "fatigue", "HTA", "insuffisance cardiaque", "obesite", "risque cardiovasculaire", "SAOS"]
 anglais = ["Obstructive sleep apnea syndrome"]
 sctid = "78275009"
@@ -18,12 +18,12 @@ draft = false
 image = true
 imageSrc = "Habib M’henni / Wikimedia Commons"
 imagePNG = true
-todo = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, prévalence, doc explication PPC, comor SOPK"
+todo = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, doc explication PPC, comor SOPK"
 +++
 
 {{%article-summary%}}
 
-- Suspecter un SAOS devant fatigue, sommeil non réparateur, HTA non contrôlée
+- Suspecter un SAOS devant: sommeil non réparateur, somnolence, fatigue, hypertension non contrôlée
 - Dépister systématiquement si obésité, diabète, maladie cardiovasculaire...
 - Dépister par le questionnaire STOP-BANG ou les *8 questions* (voir *Comment dépister ...* )
 - La PPC doit être utilisée ≥ 4h/nuit et renouvelée au bout de 3 ans par le médecin traitant
@@ -41,10 +41,13 @@ Les complications des apnées du sommeil sont nombreuses et sévères:
 - Coronaropathie et insuffisance cardiaque (+50%)  
 HTA diastolique, nocturne et résistante (> 60% des HTA résistantes).
 - AVC (x 2-3)
-- Insulino-résistance
+- Fibrillation atriale
+- Insulinorésistance
 - Troubles de la concentration et de l’humeur
 - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md">}})
-- Accidents de la route (x 2-3)  
+- Accidents de la route (x 2-3)
+- Altération de la qualité de vie
+- Décès
 
 Le traitement des apnées réduit significativement les risques.
 {{%/info%}}
@@ -66,23 +69,35 @@ Hypersomnolence
 Hypersomnie
 : Se rapporte à des maladies spécifiques.
 
+### Facteurs de risque d'apnées du sommeil
+
+- Surpoids ou obèse
+- Cou large (> 43 cm homme - 40 cm femme)
+- Âge moyen
+- Ménopause
+- Maladies des tissus mous
+- Trisomie 21
+- Volumineuses adénoïdes ou amygdales
+- Antécédent familial de SAOS
+- Acromégalie
+- [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
+- Tabagisme
+- Congestion nasale ou rhinite chronique
+
 ### Abréviations en médecine du sommeil
 
 **AASM:** {{%lang%}}American Academy of Sleep Medicine{{%/lang%}}  
 **IA:** index d’apnée par heure de sommeil  
-**PV:** polygraphie ventilatoire (*PGR* pour la HAS)  
+**PV:** polygraphie ventilatoire (ou *PGR* pour la HAS)  
 **SJSR:** syndrome des jambes sans repos ({{%lang%}}PLMD, Periodic limb movement disorder{{%/lang%}}  
 **MPJS:** mouvements périodiques des jambes pendant le sommeil ({{%lang%}}PLMS, Periodic limb movement during sleep{{%/lang%}})  
-**PMO:** phase de mouvements oculaires  
-**PSDM:** Prestataire de service et distributeurs de matériels  
 **REM:** {{%lang%}}Rapid eye movement{{%/lang%}} ou phase de sommeil paradoxal  
 **SAOS:** syndrome d'apnées obstructives du sommeil (ex-SAHOS)  
-**SDE:** Somnolence diurne excessive  
 **SFRMS:** Société Française de Recherche en Médecine du Sommeil  
 **SHRVAS:** Syndrome de haute résistance des voies aériennes supérieures  
-**TILE:** Test itératif de latence à l’endormissement  
-**TRS:**  Troubles respiratoires du sommeil  
-**VEMS:** Volume expiratoire maximal pendant la 1<sup>re</sup> seconde
+**TILE:** test itératif de latence à l’endormissement  
+**TRS:**  troubles respiratoires du sommeil  
+**VEMS:** volume expiratoire maximal pendant la 1<sup>re</sup> seconde
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
@@ -110,20 +125,20 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 {{%info%}}
 Rechercher les apnées du sommeil de façon systématique chez:
 
-- Obèse > 35 kg/m²
-- [Diabète type 2]({{< relref "diabete-type-2.md">}})
-- Diabète type 1 (*SFD 2019*)
+- Obèse ≥ 35 kg/m²
+- [Diabète type 2]({{< relref "diabete-type-2.md">}}) (65-85%)
+- [Diabète type 1]({{< relref "diabete-type-1.md">}}) (*SFD 2019*)
 - Maladie cardiovasculaire
   - Coronaropathie
-  - [AVC]({{< relref "accident-vasculaire-cerebral.md" >}})
-  - Hypertension artérielle réfractaire
+  - [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) (71%)
+  - Hypertension artérielle résistante (73-82%)
   - Insuffisance respiratoire
   - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
-  - Fibrillation atriale
+  - Fibrillation atriale (76-85%)
   - Arythmies nocturnes
   - [HTAP]({{< relref "hypertension-arterielle-pulmonaire.md" >}})
 - Chauffeurs professionnels (ou métiers à risque)
-- Pré-opératoire de chirurgie bariatrique
+- Pré-opératoire de chirurgie bariatrique (71-77%)
 
 > Indications selon *SPLF 2010*
 {{%/info%}}
@@ -134,7 +149,7 @@ Rechercher les apnées du sommeil de façon systématique chez:
 **Enregistrement du sommeil systématique** chez le diabétique avec:
 
 - HTA résistante
-- IRC d'évolution rapide (> 5 mL/min/1,73 m²/an)
+- Insuffisance rénale d'évolution rapide (> 5 mL/min/1,73 m²/an)
 - Rétinopathie
 - Forte insulinorésistance
 - Chauffeur professionnel
@@ -142,23 +157,10 @@ Rechercher les apnées du sommeil de façon systématique chez:
 > Indications selon *SFD 2019*
 {{%/warning%}}
 
-### Facteurs de risque d'apnées du sommeil
-
-- Surpoids ou obèse
-- Cou large (> 43 cm homme - 40 cm femme)
-- Âge moyen
-- Ménopause
-- Maladies des tissus mous
-- Trisomie 21
-- Volumineuses adénoïdes ou amygdales
-- Antécédent familial de SAOS
-- Acromégalie
-- [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
-- Tabagisme
-- Congestion nasale ou rhinite chronique
-
 {{% /collapse %}}
 {{%collapse "Comment dépister les apnées du sommeil ?" %}}
+
+[Liste des centres homologués SFRMS par région](https://www.sfrms-sommeil.org/carte-des-centres-agrees/)
 
 <div class="card card-hover my-3 mb-xl-5" style="max-width:640px">
   <ul class="nav nav-justified nav-tabs" id="tabs-saos" role="tablist">
@@ -187,12 +189,10 @@ Rechercher les apnées du sommeil de façon systématique chez:
 
 ### Échelle de somnolence d'Epworth
 
-{{%lang%}}Epworth sleepiness scale - ESS{{%/lang%}}
+{{%lang%}}*Epworth sleepiness scale - ESS*{{%/lang%}}
 
-[Échelle auto-administrée](https://reseau-morphee.fr/wp-content/uploads/dlm_uploads/2016/11/Epworth.pdf) obtenant la meilleure évaluation subjective de la somnolence (*AASM 2017*).  
+{{< modal-btn modal-score-epworth >}}Échelle auto-administrée{{< /modal-btn >}} pour objectiver la somnolence diurne.  
 {{%class%}}Il est utile d’avoir une confirmation du score par un proche.{{%/class%}}
-
-**Niveau de la somnolence selon Epworth:** Score 0-10 normale | 11-15 faible à modérée | 16-24 modérée à sévère
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -208,24 +208,24 @@ AVC, FA, IC, diabète, HTA...
 - Facteurs aggravants  
 Liste des médicaments, rhinite chronique.
 - Symptômes diurnes
-  - Somnolence diurne excessive
+  - **Sommeil non réparateur**
+  - **Somnolence diurne excessive** (15-50%)
   - Fatigue
   - Troubles mnésiques ou de la concentration
   - Troubles de la libido
   - Céphalées matinales
-  - Sommeil non réparateur
 - Symptômes nocturnes
   - **Ronflements**  
-  Sévères et quotidiens (95% des cas).
+  Sévères et quotidiens (50-60%).
+  - **Réveils fréquents**
   - Pauses respiratoires  
-  Constatées par l’entourage.
+  Constatées par l’entourage (10-15%).
   - Sensation d’étouffement ou de suffocation pendant le sommeil
   - Agitation nocturne
   - Insomnie
-  - Nycturie
+  - Nycturie (≥ 2/nuit)
 - Autres symptômes
   - Durée totale de sommeil
-  - Fragmentation du sommeil
   - Perturbations du sommeil du partenaire
   - Dyspnée de repos et d'effort
   - Sévérité de la somnolence et score à l'*Epworth*
@@ -446,7 +446,7 @@ Les critères pour le SAOS de l’enfant sont différents.
 
 #### Sévérité de la somnolence
 
-> AASM 1999, repris SPLF 2010
+> *AASM 1999*, repris *SPLF 2010*
 
 Légère
 : Somnolence indésirable ou épisodes de sommeil involontaire ayant peu de répercussion sur la vie sociale ou professionnelle et apparaissant pendant des activités nécessitant peu d’attention (regarder la télévision, lire, être passager d’une voiture).
@@ -459,7 +459,7 @@ Sévère
 
 #### Sévérité des événements obstructifs respiratoires
 
-> AASM Chicago 1997
+> *AASM Chicago 1997*
 
 Apnées obstructives du sommeil:
 
@@ -484,8 +484,7 @@ Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-[Liste des centres homologués SFRMS par région](https://www.sfrms-sommeil.org/carte-des-centres-agrees/)
-
+- [Gottlieb DJ, Punjabi NM. Diagnosis and Management of Obstructive Sleep Apnea: A Review. JAMA. 2020;323(14):1389–1400.](https://jamanetwork.com/journals/jama/article-abstract/2764461?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jama.2020.3514)
 - [SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. MMM septembre 2018.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
 - [Ramar K et al, AASM. Clinical Practice Guideline for the Treatment of Obstructive Sleep Apnea and Snoring with Oral Appliance Therapy: An Update for 2015. J Clin Sleep Med JCSM Off Publ Am Acad Sleep Med. 15 juill 2015;11(7):773‑827.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481062/)
 - [HAS. Apnées du sommeil : de nouvelles recommandations de prise en charge des patients. 10/09/2014.](https://www.has-sante.fr/jcms/c_1761160/fr/apnees-du-sommeil-de-nouvelles-recommandations-de-prise-en-charge-des-patients)
@@ -496,3 +495,8 @@ Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire 
 - [Morgenthaler TI et al. Practice parameters for the medical therapy of obstructive sleep apnea. Sleep. août 2006;29(8):1031‑5.](https://pubmed.ncbi.nlm.nih.gov/16944671/)
 
 {{% /collapse %}}
+{{% modal title="Échelle de somnolence d'Epworth" id="modal-score-epworth"%}}
+
+{{< scores/epworth >}}
+
+{{% /modal %}}

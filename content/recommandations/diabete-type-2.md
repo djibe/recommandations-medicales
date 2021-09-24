@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-09-14"
+lastmod = "2021-09-22"
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["SFD", "EASD", "ESC", "HAS"]
@@ -22,13 +22,12 @@ todo = "def diabète EASD 2019, convertisseur unités HbA1c-mmol/mol-GlyMoyenne,
 
 - Sevrage tabagique obligatoire
 - Points vitaux obligatoires (voir plus bas)
+- Traitements: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
 - Le suivi du diabète de type 2 doit être rigoureux et multidimensionnel, utiliser cet assistant du suivi adapté [le Suivi du diabète par Diabeclic](https://www.diabeclic.com/suivi-du-diabete)
 
 {{%/article-summary%}}
 
-L'intégralité du suivi préconisé pour la personne vivant avec un diabète de type 2 est visualisable sur [Diabeclic - Suivi du diabète](https://www.diabeclic.com/suivi-du-diabete), sous forme d'un tableau de soins adapté au patient (avec bibliographie et imprimable).
-
-En effet, **il est inenvisageable de tenter une synthèse pour la prise en soins du diabète** tant elle est vaste et pluridisciplinaire.
+Le suivi préconisé pour la personne vivant avec un diabète de type 2 est visualisable sur [Diabeclic - Suivi du diabète](https://www.diabeclic.com/suivi-du-diabete), sous forme d'un tableau de soins adapté au patient (avec bibliographie et imprimable).
 
 {{%collapse "Définitions"%}}
 

@@ -6,9 +6,9 @@ synonyms = ["Sigmoïdite diverticulaire, diverticulite colique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-09T11:33:00+02:00
 publishdate = 2021-02-09
-lastmod = 2021-09-20
+lastmod = 2021-09-22
 specialites = ["hepato-gastro-enterologie"]
-annees = "2021"
+annees = "2020"
 sources = ["ESCP", "SNFGE", "HAS"]
 tags = []
 anglais = ["Diverticulitis of sigmoid colon"]
@@ -17,7 +17,6 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Anpol42, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "constipation, délai scanner, éviter cortico/AINS, Prescrire"
 +++
 
 {{%article-summary%}}
@@ -43,13 +42,15 @@ Elle est asymptomatique dans 80% des cas.
 {{% /collapse %}}
 {{%collapse "Complications" %}}
 
+Les complications surviennent principalement à la première poussée.  
 Le traitement de la diverticulite compliquée est urgent et spécialisé:
 
 - Abcès
 - Fistule sigmoïdienne
 - Péritonite diverticulaire
 - Sténose colique
-- Hémorragie diverticulaire  
+- Hémorragie diverticulaire
+
 Facteurs de risque: aspirine, AINS, alcool.
 
 {{% /collapse %}}
@@ -60,6 +61,8 @@ Triade:
 - Douleur abdominale en fosse iliaque gauche ± défense
 - Fièvre, sepsis
 - Troubles du transit
+
+Le diagnostic clinique est erroné dans plus de 50% des cas (*[Werner 2003](https://doi.org/10.1007/s00330-003-1887-7)*).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -76,10 +79,17 @@ Examens systématiques pour affirmer le diagnostic.
 
 Examen de référence pour le diagnostic et la recherche de complications.
 
-Il doit être réalisé dans les *72h* suivant le début des douleurs en ambulatoire (24h si hospitalisation).  
-Échographie si contre-indication au scanner.
+Obligatoire en cas de 1<sup>er</sup> épisode.  
+Il peut être ensuite réalisé uniquement en cas de récidive d'intensité inhabituelle ou de syndrome inflammatoire biologique marqué (*ESCP 2020*).
 
-Nouveau scanner à chaque nouvelle poussée inflammatoire.
+Il doit être réalisé dans les *72h* suivant le début des douleurs en ambulatoire (24h si hospitalisation).  
+Échographie voire IRM si contre-indication au scanner.
+
+### Coloscopie
+
+Indication: ≥ 2 crises (en l'absence de coloscopie dans les 3 ans)(*ESCP 2020*)
+
+À réaliser au moins 6 semaines après l'épisode.
 
 {{% /collapse %}}
 {{%collapse "Indications à l'hospitalisation" %}}
@@ -100,27 +110,30 @@ Nouveau scanner à chaque nouvelle poussée inflammatoire.
   - Rectorragie
   - Impossibilité de surveillance ambulatoire
   - Terrain fragile
-  - Contexte social défavorable
 - Gravité scanographique  
 Perforation ou abcès.
+- Contexte social défavorable
 
 {{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Traitement ambulatoire de la diverticulite sigmoïdienne" %}}
 
-{{%info%}}Aucun traitement ou régime ne permet de prévenir les crises.{{%/info%}}
+Uniquement en l'absence d'*indications à l'hospitalisation* (voir ci-dessus).
+
+{{%info%}}Aucun traitement ou régime ne permet de prévenir les crises{{%/info%}}
 
 - Antalgie simple
-- Pas d'AINS
+- Pas d'AINS, corticoïdes, aspirine
 - Pas de modification du régime alimentaire
 - Surveillance clinique des symptômes  
 {{%class%}}Après bilan biologique ± scanner.{{%/class%}}
 - Pas de suivi biologique systématique ni de scanner de contrôle en cas d’évolution favorable
+- Coloscopie si ≥ 2 crises (en l'absence de coloscopie dans les 3 ans)(*ESCP 2020*)
 
 ### Antibiothérapie
 
-{{%info%}}Pas d’antibiothérapie en 1<sup>re</sup> intention si scanner sans complication.{{%/info%}}
+{{%info%}}Pas d’antibiothérapie en 1<sup>re</sup> intention si scanner sans complication{{%/info%}}
 
 Indication à l'antibiothérapie ambulatoire: échec thérapeutique à 48h sans critère d'hospitalisation.  
 Amoxicilline + acide clavulanique 1 g x 3/j pendant 7 jours.
@@ -164,7 +177,7 @@ graph TB
 {{%collapse "Sources" %}}
 
 - [HAS. Choix et durée de l'antibiothérapie : Diverticulite aiguë sigmoïdienne non compliquée. Recommander les bonnes pratiques. 27/08/2021.](https://www.has-sante.fr/jcms/p_3282886/fr/choix-et-duree-de-l-antibiotherapie-diverticulite-aigue-sigmoidienne-non-compliquee)
-- [Schultz J.K. et al. European Society of Coloproctology: guidelines for the management of diverticular disease of the colon. Colorectal Dis. 22: 5-28.](https://doi.org/10.1111/codi.15140)
+- [Schultz J.K. et al. European Society of Coloproctology: guidelines for the management of diverticular disease of the colon. Colorectal Dis. 22: 5-28. 2020.](https://doi.org/10.1111/codi.15140)
 - [Meurette G. et Vitton V. Diverticulite sigmoïdienne à l’heure des recommandations. POST'U 2019 - Paris](https://www.fmcgastro.org/texte-postu/postu-2019-paris/diverticulite-en-2019/)
 - [Rouillon JM; SNFGE. Prise en charge de la diverticulite sigmoïdienne.](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/prise_en_charge_de_la_diverticulite.pdf)
 - [Prescrire Rédaction. Diverticulite aiguë du côlon. Novembre 2018.](https://prescrire.org)
