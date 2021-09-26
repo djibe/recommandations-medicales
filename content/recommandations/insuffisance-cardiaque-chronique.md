@@ -10,7 +10,7 @@ lastmod = 2021-09-01
 specialites = ["cardiologie"]
 annees = "2016"
 sources = ["ESC", "HAS"]
-tags = ["dyspnee", "fatigue", "HTA", "risque cardiovasculaire", "tabac", "toux", "vaccin"]
+tags = ["dyspnee", "fatigue", "HTA", "risque cardiovasculaire", "SAOS", "tabac", "toux", "vaccin"]
 anglais = ["Chronic heart failure"]
 sctid = "48447003"
 draft = false
@@ -223,10 +223,9 @@ Indications: cardiomyopathie hypertrophique (CMH), cardiomyopathie dilatée idio
 **Objectif:** obtenir une amélioration des symptômes, des capacités fonctionnelles, de la qualité de vie et la réduction des hospitalisations et de la mortalité.
 
 - [ALD n°5]({{< relref "affection-longue-duree.md" >}})
-- {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} systématique dose maximale
+- {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} dose maximale
 - {{< modal-btn modal-bb >}}Bêtabloquant{{< /modal-btn >}} dose maximale
-- 2<sup>e</sup> intention: anti-aldosterone spironolactone ou éplérénone  
-  Indication: FE ≤ 35% et IEC + BB insuffisants
+- Anti-aldosterone spironolactone ou éplérénone
 - 3<sup>e</sup> intention: association possible
   - IEC remplacé par [valsartan/sacubitril](https://www.ema.europa.eu/en/documents/product-information/entresto-epar-product-information_fr.pdf)
 - Pression artérielle cible 120-140/90 mmHg
@@ -256,7 +255,7 @@ Antigrippale annuelle et {{< modal-btn modal-pneumocoque >}}anti-pneumococcique{
   - Réduction d'une consommation d'alcool (courbe en U)
   - Correction d'un obésité ≥ 35 kg/m²
 - Éducation thérapeutique
-- Dépistage des apnées du sommeil (TODO:)
+- Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
 
 {{%warning%}}
 << Les ARA2 n'ont pas démontré de réduction de mortalité en FE diminuée >> (*ESC 2016*)

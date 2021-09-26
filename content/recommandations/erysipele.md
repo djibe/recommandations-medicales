@@ -16,7 +16,7 @@ sctid = ""
 draft = false
 image = false
 imageSrc = ""
-todo = "Prescrire"
+todo = "Prescrire, flowchart"
 +++
 
 {{%article-summary%}}

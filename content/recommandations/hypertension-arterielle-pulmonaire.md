@@ -10,13 +10,13 @@ lastmod = 2021-03-28
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["HAS"]
-tags = ["dyspnee", "fatigue", "VIH"]
+tags = ["dyspnee", "fatigue", "SAOS", "VIH"]
 anglais = ["Pulmonary arterial hypertension"]
 sctid = "11399002"
 draft = false
 image = false
 imageSrc = ""
-todo = "ttt, surveillance (aggrav signes + IRC), psycho, social, fam"
+todo = "surveillance (aggrav signes + IRC), psycho, social, fam"
 +++
 
 {{%article-summary%}}
@@ -98,7 +98,7 @@ Insuffisance tricuspide ou pulmonaire.
 
 - Antécédents personnels  
   - [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) et [TVP]({{< relref "thrombose-veineuse-profonde.md" >}}), cardiopathie congénitale, sclérodermie, [VIH]({{< relref "vih-sida.md" >}}), hypertension portale, bilharziose
-  - Asthme, BPCO, tabagisme
+  - [Asthme]({{< relref "asthme.md" >}}), BPCO, tabagisme
 - Facteurs de risque cardiovasculaires
 - Antécédent familial d'HTAP
 - Traitements  
@@ -119,7 +119,7 @@ Normale, discordante avec la sévérité des symptômes.
 {{< clinique/insuffisance-cardiaque-droite >}}
 - Signes d'hypertension portale
 - Signes de sclérodermie  
-[Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), sclérodactylie, télangiectasies, calcifications sous-cutanées, ulcérations digitales, dysphagie, dyspepsie ...
+[Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), sclérodactylie, télangiectasies, calcifications sous-cutanées, ulcérations digitales, dysphagie, [dyspepsie]({{< relref "dyspepsie.md" >}}) ...
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -150,11 +150,12 @@ C'est le **cathétérisme cardiaque** droit qui affirme le diagnostic. Il est r�
 {{% /collapse %}}
 {{%collapse "Traitement et surveillance" %}}
 
-Le traitement est choisi par le centre de référence. Le suivi est au moins annuel.
+Le traitement relève uniquement du centre de référence. Le suivi est au moins annuel.
 
 - ALD n°5
 - Observance
 - Tolérance des traitements
+- Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
 - Proposer des associations de patients  
 [HTapFrance](http://www.htapfrance.com/new.asp), [France Assos Sante](https://www.france-assos-sante.org/)
 

@@ -6,11 +6,11 @@ synonyms = ["Accident ischémique transitoire", "infarctus cérébral"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-25T14:04:00+02:00
 publishdate = 2021-01-25
-lastmod = 2021-09-06
+lastmod = 2021-09-26
 specialites = ["neurologie"]
 annees = "2021"
 sources = ["AHA", "ESC", "HAS"]
-tags = ["antiplaquettaire", "diabete", "HTA", "risque cardiovasculaire", "vertige"]
+tags = ["antiplaquettaire", "diabete", "HTA", "risque cardiovasculaire", "SAOS", "vertige"]
 anglais = ["Cerebrovascular accident"]
 sctid = "230690007"
 draft = false
@@ -182,7 +182,7 @@ Patient à {{< modal-btn modal-risque-cardiovasculaire >}}très haut RCV{{< /mod
   - Après 6 mois: [cible réadaptée selon le profil]({{< relref "diabete-type-2.md" >}}) (souvent 7%)
 - [Dépister des apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) {{%class%}}(40%){{%/class%}}
 - [ALD]({{< relref "affection-longue-duree.md" >}})  
-Si séquelles neurologique nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.
+Critère: séquelles neurologiques nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.
 - Éducation du patient  
 Mode de vie, réagir, traitements.
 

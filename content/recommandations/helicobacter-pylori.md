@@ -74,7 +74,7 @@ La France est un pays de faible incidence.
 - Ulcère gastrique ou duodénal  
 - Antécédent d'ulcère gastro-duodénal sans endoscopie
 - Avant prise d'AINS ou d'aspirine faible dose en cas d'antécédent d'ulcère
-- Dyspepsie chronique avec endoscopie normale
+- [Dyspepsie chronique]({{< relref "dyspepsie.md" >}}) avec endoscopie normale
 - Anémie ferriprive sans cause retrouvée ou résistante à la supplémentation
 - Carence en vitamine B12 sans cause retrouvée
 - **Facteur de risque de cancer gastrique**
@@ -110,7 +110,7 @@ Indications en première intention:
 
 - **Patient symptomatique**
   - Syndrome ulcéreux
-  - Dyspepsie chez un patient > 40-45 ans
+  - [Dyspepsie]({{< relref "dyspepsie.md" >}}) chez un patient > 40-45 ans
   - Signe d'alarme  
   Dysphagie, amaigrissement, anémie.
   - Anémie ferriprive ou carence en vitamine B12 sans autre cause

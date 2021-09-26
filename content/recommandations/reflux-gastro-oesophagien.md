@@ -11,7 +11,7 @@ lastmod = 2021-03-09
 specialites = ["hepato-gastro-enterologie"]
 annees = "2018"
 sources = ["SNFGE"]
-tags = ["EOGD", "toux"]
+tags = ["EOGD", "SAOS", "toux"]
 anglais = ["Gastroesophageal reflux disease (GERD)"]
 sctid = "235595009"
 draft = false
@@ -93,7 +93,7 @@ Aggravation allongé, penché en avant et en post-prandial.
 {{%/collapse%}}
 {{%collapse "Diagnostic différentiel" %}}
 
-- Dyspepsie
+- [Dyspepsie]({{< relref "dyspepsie.md" >}} )
 - Cancer de l'estomac
 - Ulcère gastrique ou duodénal
 - Sténose peptique de l'œsophage
@@ -174,6 +174,7 @@ Repas > 20-30 min en position assise et détendue.
   - Cuissons sans matières grasses et limiter les graisses et l'alcool
   - Limiter les soupes/bouillons à 400 mL
 - Aucune liste d'aliments à éviter ne peut être recommandée
+- Évoquer des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) devant un reflux nocturne
 
 ### Anti-acides et alginates
 

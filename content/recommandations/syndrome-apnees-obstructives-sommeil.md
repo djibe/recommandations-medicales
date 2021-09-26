@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2020-12-22T09:52:41+02:00
 publishdate = 2020-12-22
-lastmod = 2021-07-28
+lastmod = 2021-09-26
 specialites = ["medecine du sommeil"]
 annees = "2018"
 sources = ["SFRMS", "AASM", "HAS"]
@@ -18,14 +18,15 @@ draft = false
 image = true
 imageSrc = "Habib M’henni / Wikimedia Commons"
 imagePNG = true
-todo = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, doc explication PPC, comor SOPK"
+todo = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, doc explication PPC"
 +++
 
 {{%article-summary%}}
 
-- Suspecter un SAOS devant: sommeil non réparateur, somnolence, fatigue, hypertension non contrôlée
+- Suspecter un SAOS devant: sommeil non réparateur, somnolence, fatigue, hypertension non contrôlée, reflux nocturne
 - Dépister systématiquement si obésité, diabète, maladie cardiovasculaire...
 - Dépister par le questionnaire STOP-BANG ou les *8 questions* (voir *Comment dépister ...* )
+- Probabilité forte de SAOS avec somnolence inexpliquée malgré une polygraphie normale: réaliser une polysomnographie
 - La PPC doit être utilisée ≥ 4h/nuit et renouvelée au bout de 3 ans par le médecin traitant
 
 {{%/article-summary%}}
@@ -72,12 +73,14 @@ Hypersomnie
 ### Facteurs de risque d'apnées du sommeil
 
 - Surpoids ou obèse
-- Cou large (> 43 cm homme - 40 cm femme)
-- Âge moyen
+- Homme
+- Âge
+- Cou large (≥ 43 cm homme - 41 cm femme)
 - Ménopause
 - Maladies des tissus mous
 - Trisomie 21
-- Volumineuses adénoïdes ou amygdales
+- Volumineuses végétations adénoïdes ou amygdales
+- Rétro ou micrognathie
 - Antécédent familial de SAOS
 - Acromégalie
 - [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
@@ -120,45 +123,7 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 - 60% des insuffisants cardiaques ont une forme d’apnées du sommeil
 
 {{% /collapse %}}
-{{%collapse "Qui dépister ?" %}}
-
-{{%info%}}
-Rechercher les apnées du sommeil de façon systématique chez:
-
-- Obèse ≥ 35 kg/m²
-- [Diabète type 2]({{< relref "diabete-type-2.md">}}) (65-85%)
-- [Diabète type 1]({{< relref "diabete-type-1.md">}}) (*SFD 2019*)
-- Maladie cardiovasculaire
-  - Coronaropathie
-  - [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) (71%)
-  - Hypertension artérielle résistante (73-82%)
-  - Insuffisance respiratoire
-  - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
-  - Fibrillation atriale (76-85%)
-  - Arythmies nocturnes
-  - [HTAP]({{< relref "hypertension-arterielle-pulmonaire.md" >}})
-- Chauffeurs professionnels (ou métiers à risque)
-- Pré-opératoire de chirurgie bariatrique (71-77%)
-
-> Indications selon *SPLF 2010*
-{{%/info%}}
-
-### Chez le diabétique
-
-{{%warning%}}
-**Enregistrement du sommeil systématique** chez le diabétique avec:
-
-- HTA résistante
-- Insuffisance rénale d'évolution rapide (> 5 mL/min/1,73 m²/an)
-- Rétinopathie
-- Forte insulinorésistance
-- Chauffeur professionnel
-
-> Indications selon *SFD 2019*
-{{%/warning%}}
-
-{{% /collapse %}}
-{{%collapse "Comment dépister les apnées du sommeil ?" %}}
+{{%collapse "Dépister les apnées du sommeil" %}}
 
 [Liste des centres homologués SFRMS par région](https://www.sfrms-sommeil.org/carte-des-centres-agrees/)
 
@@ -187,6 +152,30 @@ Rechercher les apnées du sommeil de façon systématique chez:
   </div>
 </div>
 
+### Dépistage systématique des apnées du sommeil
+
+{{%info%}}
+Sujets à haut risque d'apnées du sommeil:
+
+- Obèse ≥ 35 kg/m²
+- [Diabète type 2]({{< relref "diabete-type-2.md">}}) (65-85%)  
+Surtout si hypertension résistante, insuffisance rénale d'évolution rapide, rétinopathie, forte insulinorésistance, chauffeur professionnel (*SFD 2019*)
+- [Diabète type 1]({{< relref "diabete-type-1.md">}}) (*SFD 2019*)
+- Maladie cardiovasculaire
+  - Coronaropathie
+  - [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) (71%)
+  - Hypertension artérielle résistante (73-82%)
+  - Insuffisance respiratoire
+  - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
+  - Fibrillation atriale (76-85%)
+  - Arythmies nocturnes
+  - [HTAP]({{< relref "hypertension-arterielle-pulmonaire.md" >}})
+- Chauffeurs professionnels (ou métiers à risque)
+- Pré-opératoire de chirurgie bariatrique (71-77%)
+
+> Indications selon *SPLF 2010*
+{{%/info%}}
+
 ### Échelle de somnolence d'Epworth
 
 {{%lang%}}*Epworth sleepiness scale - ESS*{{%/lang%}}
@@ -197,7 +186,7 @@ Rechercher les apnées du sommeil de façon systématique chez:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Toute suspicion de SAOS doit être confirmée par un enregistrement du sommeil (PSG voire PV).{{%/info%}}
+{{%info%}}Toute suspicion de SAOS doit être confirmée par un enregistrement du sommeil (polygraphie voire polysomnographie).{{%/info%}}
 
 ### Interrogatoire
 
@@ -210,10 +199,10 @@ Liste des médicaments, rhinite chronique.
 - Symptômes diurnes
   - **Sommeil non réparateur**
   - **Somnolence diurne excessive** (15-50%)
-  - Fatigue
+  - **Fatigue**
   - Troubles mnésiques ou de la concentration
   - Troubles de la libido
-  - Céphalées matinales
+  - Céphalées matinales (12-18%)
 - Symptômes nocturnes
   - **Ronflements**  
   Sévères et quotidiens (50-60%).
@@ -221,9 +210,10 @@ Liste des médicaments, rhinite chronique.
   - Pauses respiratoires  
   Constatées par l’entourage (10-15%).
   - Sensation d’étouffement ou de suffocation pendant le sommeil
+  - **Reflux gastro-œsophagien** nocturne (50-75%)
   - Agitation nocturne
   - Insomnie
-  - Nycturie (≥ 2/nuit)
+  - Nycturie (≥ 2/nuit, 30%)
 - Autres symptômes
   - Durée totale de sommeil
   - Perturbations du sommeil du partenaire
@@ -243,7 +233,6 @@ Liste des médicaments, rhinite chronique.
   Narcolepsie, hypersomnie idiopathique.
   - Asthme nocturne
   - Douleurs (rhumatismales, artéritiques, polynévrite ou neurologiques)
-  - RGO
   - Dysthyroïdie
 - Qualité de Vie
 
@@ -286,6 +275,8 @@ La prescription et l'interprétation relèvent d'un médecin formé à la médec
 
 *Polygraphie ventilatoire* voire *polysomnographie* en cas de suspicion de pathologies neurologiques associées.
 
+{{%warning%}}En cas de somnolence avec suspicion forte de SAOS, une polygraphie normale n'exclut pas le diagnostic et doit faire pratiquer une polysomnographie (25-50% de faux négatifs, *Gottlieb 2020*){{%/warning%}}
+
 ### Gaz du sang
 
 Indiqué pour tout SAOS avec:
@@ -323,14 +314,15 @@ Il consiste en une ventilation à pression positive continue (PPC) ou un orthès
 
 - Perte de poids si surpoids  
 {{%class%}}Améliore l’IAH et les désaturations.{{%/class%}}
-- Évaluer le bénéfice/risque d’une chirurgie bariatrique chez les sujets obèses (35 kg/m²).
-- Traitement d’une rhinite chronique/obstruction nasale associée.
+- Activité physique régulière
+- Évaluer le bénéfice/risque d’une chirurgie bariatrique chez les sujets obèses (35 kg/m²)
+- Traitement d’une rhinite chronique/obstruction nasale associée
 - Arrêt du tabac  
 {{%class%}}N'améliore pas le SAOS mais réduit l'impact des comorbidités.{{%/class%}}
-- Réduire la consommation d'alcool.
-- Réduire la consommation d'hypnotiques.
-- SAOS Positionnel: dormir sur le côté.
-- Dépister une dépression.
+- Réduire la consommation d'alcool
+- Réduire la consommation d'hypnotiques
+- SAOS positionnel: dormir sur le côté
+- Dépister une dépression
 - Proposer des parcours d'éducation thérapeutique
 
 ### Les grands principes à connaître
@@ -388,9 +380,14 @@ si peut consulter observance des 12 derniers mois (≥ 112 heures sur 10 mois et
 {{% /collapse %}}
 {{%collapse "Surveillance du traitement" %}}
 
-Rappeler les risques du SAOS et insister sur les bénéfices du traitement (amélioration de la qualité de vie, somnolence diurne et autres symptômes, sensibilité à l'insuline, réduction HTA, risque cardiovasculaire et risque d'AVP).
+### Améliorer l'observance de la PPC
 
-Relever les désagréments du traitement pour favoriser l'observance.
+Chaque élément permet d'augmenter l'observance de 30 minutes par nuit:
+
+- Rappeler les risques du SAOS
+- Insister sur les bénéfices du traitement  
+Amélioration de la qualité de vie, somnolence diurne et autres symptômes, sensibilité à l'insuline, réduction HTA, risque cardiovasculaire et risque d'AVP.
+- Relever les désagréments du traitement pour résoudre les écueils
 
 Rappeler que la PPC doit être utilisée au moins 4 heures par nuit.
 

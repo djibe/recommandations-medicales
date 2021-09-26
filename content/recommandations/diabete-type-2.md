@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-09-22"
+lastmod = "2021-09-26"
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["SFD", "EASD", "ESC", "HAS"]
@@ -15,7 +15,7 @@ anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "def diabète EASD 2019, convertisseur unités HbA1c-mmol/mol-GlyMoyenne, rythme depistage, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf"
+todo = "def diabète EASD 2019, statine-aspirine-vaccins, rythme depistages, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf"
 +++
 
 {{%article-summary%}}
@@ -62,6 +62,7 @@ Objectif tensionnel **< 130/80** mmHg (*ESC 2019*).
 - En cas de surpoids  
 Négocier une perte de poids (5-10%).
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
+- Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) (65-85%)
 
 {{% /collapse %}}
 {{%collapse "Conversion des unités du diabète" %}}
@@ -74,7 +75,7 @@ Négocier une perte de poids (5-10%).
   <input type="number" class="form-alternative" id="hba1cIfccInput" value="53" min="1" max="160" onchange="hba1cInput.value = Math.round((parseInt(this.value, 10) * 0.09148 + 2.152) / 0.5) * 0.5">
   </div>
   <label for="eagInput">Glycémie moyenne estimée (mg/dL)</label>
-  <input type="number" style="width:68px" class="form-alternative" id="eagInput" value="154" min="1" onchange="hba1cInput.value = Math.round((parseInt(this.value, 10) + 46.7) / 28.7)">
+  <input type="number" style="width:68px" class="form-alternative" id="eagInput" value="154" min="1" onchange="hba1cInput.value = Math.round(((parseInt(this.value, 10) + 46.7) / 28.7) / 0.5) * 0.5">
 </div>
 
 {{%/collapse%}}
