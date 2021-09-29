@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-03T15:14:20+02:00
 publishdate = 2020-06-03
-lastmod = 2021-09-26
+lastmod = 2021-09-28
 specialites = ["infectiologie", "pneumologie"]
 annees = "2000"
 sources = ["HAS"]
@@ -16,7 +16,7 @@ sctid = "56717001"
 draft = false
 image = true
 imageSrc = "Jeune femme de 20 ans avec toux chronique et perte de poids. Cas clinique par Dr Hani Makky Al Salam, Radiopaedia.org, rID: 12437"
-todo = "Pilly 2020, https://erj.ersjournals.com/content/51/5/1702678, mooc, outil lecture tubertest"
+todo = "Pilly 2020, https://erj.ersjournals.com/content/51/5/1702678, lecture tubertest"
 +++
 
 {{%article-summary%}}
@@ -102,7 +102,7 @@ Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre d
 {{%collapse "Sources" %}}
 
 - {{< references/calendrier-vaccinal >}}
-- [ECN Pilly. Tuberculose de l’adulte et de l’enfant. 2018.](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2018/ecn-2018-ue6-155-nb.pdf)
+- [CMIT. Tuberculose de l’adulte et de l’enfant. ECN.Pilly. UE6 - 155. 2020.](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2018/ecn-2018-ue6-155-nb.pdf)
 - [HAS. Tuberculose maladie. Juin 2017.](https://www.has-sante.fr/upload/docs/application/pdf/actualisationlap_tuberculose__web_.pdf)
 
 {{% /collapse %}}

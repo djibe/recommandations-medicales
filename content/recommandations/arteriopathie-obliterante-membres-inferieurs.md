@@ -294,7 +294,7 @@ style depister stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Mahé G. et al, the SFMV/SCVE group, Disparities between international guidelines (AHA/ESC/ESVS/ESVM/SVS) concerning - Lower extremity arterial disease: consensus of the French Society of Vascular Medicine (SFMV) and the French Society for Vascular and Endovascular Surgery (SCVE), Annals of Vascular Surgery (2021)](https://doi.org/10.1016/j.avsg.2020.11.011)
+- [Mahé G. et al, the SFMV/SCVE group. Disparities between international guidelines (AHA/ESC/ESVS/ESVM/SVS) concerning - Lower extremity arterial disease: consensus of the French Society of Vascular Medicine (SFMV) and the French Society for Vascular and Endovascular Surgery (SCVE). Annals of Vascular Surgery. 2021.](https://doi.org/10.1016/j.avsg.2020.11.011)
 - {{< references/esc-dyslipidemie >}}
 - Prescrire Redaction. Signes d’artériopathie des membres inférieurs. Août 2019.
 - {{< references/sfd-dt2 >}}

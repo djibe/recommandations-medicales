@@ -35,9 +35,9 @@ todo = "arbre décisionnel, modif extension 9 SA"
 {{% /collapse %}}
 {{%collapse "Introduction" %}}
 
-> « Les échecs contraceptifs dus au défaut d’observance sont l’une des principales causes de recours à l’interruption volontaire de grossesse (IVG) en France » (*CNGOF 2018*).
+> << Les échecs contraceptifs dus au défaut d’observance sont l’une des principales causes de recours à l’interruption volontaire de grossesse (IVG) en France >> (*CNGOF 2018*).
 
-> « Dans tous les cas où cela est possible, les femmes doivent pouvoir choisir la méthode, médicamenteuse ou chirurgicale, et recevoir une information détaillée. Cette information renforce la satisfaction des femmes après IVG. »
+> << Dans tous les cas où cela est possible, les femmes doivent pouvoir choisir la méthode, médicamenteuse ou chirurgicale, et recevoir une information détaillée. Cette information renforce la satisfaction des femmes après IVG. >>
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}

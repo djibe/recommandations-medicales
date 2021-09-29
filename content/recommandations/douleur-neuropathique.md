@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-09T13:10:04+02:00"
 publishdate = "2021-09-13"
-lastmod = "2021-09-20"
+lastmod = "2021-09-29"
 specialites = ["neurologie"]
 annees = "2020"
 sources = ["SFETD", "HAS"]
@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "lire 17, carence B9B12?"
+todo = "carence B9B12?"
 +++
 
 {{%article-summary%}}
@@ -176,7 +176,7 @@ Injections uniquement par un centre de la douleur chronique.
 ### Douleur neuropathique périphérique ou centrale, focale ou diffuse
 
 {{%info%}}
-Duloxétine 12,5-25 mg x 1/j pendant 1 semaine. Paliers 12,5-25 mg/semaine. Max 120 mg/j.
+Duloxétine 60 mg x 1/j. Max 60 mg x 2/j.
 
 ---
 
@@ -204,7 +204,7 @@ Avis spécialisé au-delà de 50 mg/j.
 
 #### Douleur neuropathique en 2e intention
 
-- [Prégabaline 150-600 mg/j](https://ec.europa.eu/health/documents/community-register/2020/20200703148324/anx_148324_fr.pdf) en 2-3 prises
+- [Prégabaline 150-600 mg/j](https://ec.europa.eu/health/documents/community-register/2020/20200703148324/anx_148324_fr.pdf) (Lyrica®, gén) en 2-3 prises
   - Ordonnance sécurisée de durée maximale de 6 mois
   - Effets indésirables: somnolence, vertiges, prise de poids et œdèmes périphériques
 - [Tramadol LP 100-400 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69934919&typedoc=R) en 1-2 prises  

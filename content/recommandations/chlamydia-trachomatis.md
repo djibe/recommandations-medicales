@@ -52,6 +52,35 @@ Elle atteint 3% des 18-29 ans avec co-infection *gonocoque* de 2-24%. +30% entre
 **VIH:** virus de l’immunodéficience humaine
 
 {{% /collapse %}}
+{{%collapse "Dépistage des Chlamydia" %}}
+
+### Qui dépister ?
+
+Dépister systématiquement *Chlamydia trachomatis* chez:
+
+1. Femme sexuellement active de 15 à 25 ans
+2. Personne sexuellement active à tout âge avec facteur de risque parmi
+    - ≥ 2 partenaires dans l'année
+    - Changement de partenaire récent
+    - Autre IST diagnostiquée (personnelle ou du partenaire)
+    - Antécédent d'IST
+    - Prostitution
+    - Viol
+3. Femme consultant pour [IVG]({{< relref "interruption-volontaire-grossesse.md" >}})
+4. Homme ayant des rapports sexuels avec des hommes ([HSH]({{< relref "hsh.md" >}}))
+5. Avant pose de DIU en [contraception d’urgence]({{< relref "contraception-urgence.md" >}}) (HAS 2019)
+
+### Quel dépistage ?
+
+- Femme  
+PCR par (auto)-prélèvement vaginal (co-détection Chlam-gono).  
+Si spéculum: prélèvement du col.
+- Homme  
+PCR sur 1<sup>er</sup> jet d'urines (co-détection Chlam-gono).
+- Autres sites selon les pratiques sexuelles  
+Ano-rectal, pharyngé.
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 ### Femme
@@ -79,34 +108,6 @@ Majoritairement subaiguë ou chronique, douleurs abdominales augmentées pendant
   - Fréquentes: rachialgies, talalgies et tendinites
   - Balanite circinée
   - Lésions psoriasiformes
-
-{{% /collapse %}}
-{{%collapse "Qui dépister ?" %}}
-
-Dépister systématiquement *Chlamydia trachomatis* chez:
-
-1. Femme sexuellement active de 15 à 25 ans
-2. Personne sexuellement active à tout âge avec facteur de risque parmi
-    - ≥ 2 partenaires dans l'année
-    - Changement de partenaire récent
-    - Autre IST diagnostiquée (personnelle ou du partenaire)
-    - Antécédent d'IST
-    - Prostitution
-    - Viol
-3. Femme consultant pour [IVG]({{< relref "interruption-volontaire-grossesse.md" >}})
-4. Homme ayant des rapports sexuels avec des hommes (HSH)
-5. Avant pose de DIU en [contraception d’urgence]({{< relref "contraception-urgence.md" >}}) (HAS 2019)
-
-{{% /collapse %}}
-{{%collapse "Quel examen de dépistage ?" %}}
-
-- Femme  
-PCR par (auto)-prélèvement vaginal (co-détection Chlam-gono).  
-Si spéculum: prélèvement du col.
-- Homme  
-PCR sur 1<sup>er</sup> jet d'urines (co-détection Chlam-gono).
-- Autres sites selon les pratiques sexuelles  
-Ano-rectal, pharyngé.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}

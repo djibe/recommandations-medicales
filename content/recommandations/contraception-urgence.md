@@ -6,10 +6,10 @@ synonyms = ["Pilule du lendemain"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-05T14:50:00+02:00
 publishdate = 2021-03-05
-lastmod = 2021-05-03
+lastmod = 2021-09-27
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
-sources = ["HAS"]
+sources = ["HAS", "CNGOF"]
 tags = ["contraception"]
 anglais = ["Postcoital contraception"]
 sctid = "268463003"
@@ -99,14 +99,15 @@ Aucun risque décrit, aucune contre-indication hormis la grossesse.
 
 ### La pilule du lendemain en pratique
 
-- Disponible en pharmacie sans prescription  
-Remboursée sur ordonnance.
+- Disponible en pharmacie sans prescription
+- Remboursée sur ordonnance
 - Gratuite pour les mineures  
 Accessible en pharmacie, collège/lycée/université, [planning familial](https://ivg.gouv.fr/les-centres-de-planification-ou-d-education-familiale.html) (CPEF, accès aussi aux **majeures sans couverture sociale**).
 
 ### Ulipristal acétate (UPA)
 
-À prendre le plus tôt possible et jusqu'à 5 jours suivant le rapport, sur ordonnance.
+À prendre le plus tôt possible et jusqu'à 5 jours suivant le rapport, sur ordonnance.  
+Préférer le LNG en contraception hormonale au long cours.
 
 [Ulipristal acétate 30 mg en 1 prise](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62621512&typedoc=R) (Ellaone® ou gén).
 
@@ -123,6 +124,12 @@ Même délivrance que la PCU.
 - [OnSexPrime. La contraception d'urgence](https://www.onsexprime.fr/Sexe-sante/Que-faire-en-cas-d-urgence/La-contraception-d-urgence)
 - Fil santé jeunes: {{<phone>}}0 800 235 236{{</phone>}} (9:00-23:00)
 - Info sexualité, contraception, IVG, violences: {{<phone>}}0800 08 11 11{{</phone>}} (9:00-23:00)
+- La contraception d'urgence n'est pas efficace à 100%
+- Elle est à pratiquer le plus tôt possible après un rapport à risque  
+Sans contraception ou oubli.
+- Utiliser le préservatif jusqu'au 1<sup>er</sup> jour des règles suivantes et débuter la contraception efficace à ce moment
+- Utiliser un test de grossesse si retard des règles > 5 jours
+- En cas de vomissements survenant dans les 3 heures suivant la prise du comprimé ou en cas de fortes diarrhées, reprendre immédiatement un comprimé
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour une contraception en urgence" "show" %}}
@@ -155,5 +162,6 @@ graph TB
 - [HAS. Contraception d’urgence : dispensation en officine. 17/09/2019.](https://www.has-sante.fr/jcms/c_1759990/fr/contraception-d-urgence-dispensation-en-officine)
 - [HAS. Contraception d’urgence. Juillet 2019.](https://www.has-sante.fr/upload/docs/application/pdf/2013-04/fiche-contraception-urgence.pdf)
 - [Rahib D., Lydié N. Contraception. Baromètre de Santé Publique France 2016. Santé Publique France. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/sante-sexuelle/documents/rapport-synthese/barometre-de-sante-publique-france-2016.-contraception.-la-contraception-d-urgence-des-delais-de-prise-toujours-sous-estimes)
+- [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018.](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2018%252FCNGOF_RPC_2018-CONTRACEPTION.pdf&i=21002)
 
 {{% /collapse %}}
