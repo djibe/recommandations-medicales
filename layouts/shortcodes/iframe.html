@@ -5,5 +5,6 @@
     allowfullscreen
     height="600"
     loading="lazy"
+    title="{{ if .Get "title" }}{{ .Get "title" }}{{ else }}Description manquante{{ end }}"
   ></iframe>
 </div>

@@ -540,7 +540,7 @@ Anémie, asthme, cancer, [insuffisance cardiaque]({{< relref "insuffisance-cardi
 
 *Ouvrir chaque vidéo dans un nouvel onglet.* (clic droit > Ouvrir le lien dans un nouvel onglet)
 
-{{< iframe url="https://splf.fr/videos-zephir/" >}}
+{{< iframe url="https://splf.fr/videos-zephir/" title="SPLF: vidéos pour la maîtrise des inhalateurs">}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

@@ -145,7 +145,7 @@ C'est le **cathétérisme cardiaque** droit qui affirme le diagnostic. Il est r�
 {{% /collapse %}}
 {{%collapse "Centres de référence de l'HTAP" %}}
 
-{{< iframe url="https://respifil.fr/ou-consulter/" >}}
+{{< iframe url="https://respifil.fr/ou-consulter/" title="Liste des centres de référence de l'HTAP">}}
 
 {{% /collapse %}}
 {{%collapse "Traitement et surveillance" %}}

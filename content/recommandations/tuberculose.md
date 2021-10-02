@@ -86,7 +86,7 @@ Sauf Grèce, Hongrie, Slovaquie, Slovénie et République Tchèque.
 
 Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre de Lutte AntiTuberculeuse* (CLAT) départemental.
 
-{{< iframe url="https://splf.fr/clat/" >}}
+{{< iframe url="https://splf.fr/clat/" title="SPLF: Liste des centres de lutte AntiTuberculeuse">}}
 
 {{%/collapse%}}
 {{%collapse "Informations du patient" %}}

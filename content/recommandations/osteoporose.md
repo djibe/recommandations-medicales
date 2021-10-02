@@ -27,7 +27,7 @@ todo = "summary"
 {{%/article-summary%}}
 {{%collapse "Risque de fracture (calcul du FRAX)" %}}
 
-{{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" >}}
+{{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" title="Calcul du FRAX sur le site officiel">}}
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

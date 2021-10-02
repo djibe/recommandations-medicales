@@ -1,43 +1,59 @@
 +++
 title = "Maladie de Lyme"
 prefix = "la "
-shortname = ""
+shortname = "Lyme"
 synonyms = ["Borréliose de Lyme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-30T18:17:39+02:00"
-publishdate = "2021-09-30"
-lastmod = "2021-09-30"
+publishdate = "2021-10-02"
+lastmod = "2021-10-02"
 specialites = ["infectiologie"]
 annees = "2019"
 sources = ["DGS"]
 tags = []
-anglais = []
-sctid = ""
-draft = true
-image = false
-imageSrc = ""
-todo = ""
+anglais = ["Lyme disease"]
+sctid = "23502006"
+draft = false
+image = true
+imageSrc = "Érythème migrant. Photo de monkeypuzzle sur Foter"
 +++
 
 {{%article-summary%}}
 
-TODO:
+- Zones à risque: métropole entière (surtout Alsace, Lorraine, Limousin)
+- Érythème migrant: survient dans les 30 jours, diagnostic clinique, antibiothérapie 14j
+- Paralysie faciale ou péricardite idiopathique: sérologie systématique
+- Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose
+- Prévention en forêt
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Maladie de Lyme
-: Bactérie: *Borrelia burgdorferi*, *Borrelia garinii* et *Borrelia afzelii*.
-Pas de surmortalité même en neuroborréliose.
+: Infection survenant lors d'une piqûre par une tique infectée par une bactérie de la famille des spirochètes: *Borrelia burgdorferi* (voire *Borrelia garinii* et *Borrelia afzelii*).
+: Pas de surmortalité même en neuroborréliose.  
 Les autres maladies transmises par les tiques sont exceptionnelles.
+: En symptômes évocateurs, seuls 15% ont un diagnostic réel de Lyme (*[Jacquet 2019](https://doi.org/10.1016/j.medmal.2018.06.002)*).  
+Diagnostic différentiel: neurologique (12-19%), rhumatologique (15-43%), psychiatrique, psychologique (burn-out 13-25%), auto-immun.
+
+La sérologie de Lyme
+: Sérologie en 2 temps: technique *Elisa* puis *Western blot* si positive ou équivoque.  
+Elle peut être répétée à 3 semaines si négative en cas de forte suspicion clinique.
+: La sérologie ne doit pas être réalisée devant un érythème migrant, la clinique est pathognomonique.  
+Elle doit être réalisée en suspicion de *phase disséminée*.
+: Elle est considérée négative en l'absence d'apparition d'IgG au-delà de 6 semaines d'évolution.
+: Des taux élevés d'anticorps peuvent persister des années après la guérison clinique. Il n'existe pas de test permettant de différencier une cicatrice sérologique d'une infection active.
 
 ### Abréviations
 
+**CCMVT:** centre de compétences pour les maladies vectorielles à tiques  
 **EM:** érythème migrant  
 **LCS:** liquide cérébrospinal
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
+
+[Ministère de la Santé: Maladie de Lyme et prévention des piqûres de tiques](https://solidarites-sante.gouv.fr/IMG/pdf/maladie_de_lyme_depliant_gp.pdf) et [Santé Publique France. Prévention de la borréliose de Lyme](https://solidarites-sante.gouv.fr/IMG/pdf/borreliose_de_lyme_rpvp_072016.pdf)
 
 - Vêtements couvrants
   - Pantalon, inséré dans les chaussettes, chemise à manche longue
@@ -84,13 +100,25 @@ Avis médical en cas d'apparition d'un érythème migrant (EM) qui signe une bor
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-- de mars à novembre
+{{%info%}}
+La séropositivité ne peut suffire à elle seule pour diagnostiquer une infection (nombreux asymptomatiques)
+
+---
+
+La découverte fortuite d'une sérologie de Lyme positive sans signes évocateurs ne doit pas engager d'autres examens.
+{{%/info%}}
+
+- De mars à novembre
 - Maladie + fréquente après 60 ans
+- Signes négatifs
+  - Fièvre
+  - Syndrome inflammatoire
 
 ### Érythème migrant
 
 - Notion de piqûre locale de tique
 - Trace de piqûre de tique (inconstante)
+- Survenue dans les **30 jours**
 - Macule rose à rouge, ovalaire
 - Éclaircissement central inconstant
 - Croissance régulière centrifuge  
@@ -99,6 +127,8 @@ Souvent > 5 cm au diagnostic.
 - Plusieurs macules érythémateuses possibles  
 Surtout chez l'enfant: EM multiple.
 - Signes généraux possibles
+- Guérit en 7-13 jours sous antibiothérapie adaptée.  
+Remettre en cause le diagnostic si persiste.
 
 Antibiothérapie sans aucun examen complémentaire.
 
@@ -110,16 +140,30 @@ Antibiothérapie sans aucun examen complémentaire.
 Rose-rouge, rouge-brun.
 - Asymptomatique ou prurit léger
 - Localisation spécifique  
-Lobule oreille enfant, plaque aréolaire de l'dulte ou exceptionnellement visage, tronc ou membre.
+Lobule oreille enfant, plaque aréolaire de l'adulte ou exceptionnellement visage, tronc ou membre.
 - Biopsie cutanée
-- Sérologie Borrelia positive
+- Sérologie *Borrelia* positive
 
 ### Acrodermatite chronique atrophiante (ACA, phase disséminée tardive)
 
-- Adulte > 50 ans
+- Adulte ≥ 50 ans
 - Macule ou plaque d'un segment de membre
 - Couleur variable  
 Rouge sombre-violacée.
+
+### Autres signes cliniques
+
+- Rhumatologiques
+  - Phase précoce: **arthralgies** (50-70%)
+  - Phase disséminée: monoarthrite du genou (85%) ou oligoarthrite.  
+  Quelques semaines à 2 ans après la piqûre, poussées paroxystiques avec intervalles libres.  
+  Guérison sous 5 ans même sans antibiothérapie.
+- Cardiaques
+  - 0,3-4% des cas dans un délai de 7j-7 mois
+  - Avis cardiologique en cas de symptômes cardiaques
+  - Blocs atrio-ventriculaires surtout
+  - Péricardite  
+  Réaliser une sérologie en étiologie indéterminée.
 
 ### Neuroborréliose de Lyme
 
@@ -130,28 +174,60 @@ Survient dans la phase disséminée précoce (< 6 mois, > 90% des cas).
 
 Atteintes neurologiques évocatrices:
 
-- TODO:
+- Méningoradiculites  
+  - Radiculalgies atypiques, rebelles pouvant dépasser le territoire
+  - Atteinte d'un membre, tronc ou céphalique
+  - Sur la localisation d'une piqûre de tique
+  - [Paralysie faciale]({{< relref "paralysie-faciale-idiopathique.md" >}}) fréquemment associée avec céphalées
+  - Antibiothérapie très efficace en quelques jours sur les douleurs
+- *[Paralysie faciale]({{< relref "paralysie-faciale-idiopathique.md" >}})* (36% des neuroborrélioses)
+  - 1/3 bilatérale asynchrone
+  - Surtout l'enfant
+  - Sérologie *Borrelia* systématique
+- Méningites, myélites aiguës et les encéphalites, beaucoup plus rares
 
-Adresser au spécialiste pour investigations et ponction lombaire.
+Adresser au spécialiste du centre de compétence (CCMVT, identifié par l'ARS) pour investigations et ponction lombaire.
 
 #### Pour en savoir plus: critères diagnostiques européens
 
-1. Symptômes compatibles avec une neuroborréliose 
+1. Symptômes compatibles avec une neuroborréliose
 1. Pléiocytose du LCS
 1. Anticorps anti-Borrelia dans le LCS
 
-Diagnostic certain: 3 critères - possibles 2 - exclue 0-1
+Diagnostic certain si 3 critères - possible si 2 - exclu si ≤ 1.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Forestier: maladie professionnelle
-(tableau 19 du régime général et 5bis du régime agricole), définie
-par des manifestations cliniques, et confirmée par sérologies
+- **Forestier:** maladie professionnelle
+  - {{%class%}}Tableau 19 du régime général et 5bis du régime agricole.{{%/class%}}
+  - Critères: manifestations cliniques et confirmée par sérologies
+- Les anticorps ne protègent pas contre une nouvelle infection à *B. burgdorferi*
 
-### Érythème migrant
+{{%info%}}Le contrôle de la guérison est clinique. Des taux élevés d'anticorps peuvent persister des années après la guérison{{%/info%}}
 
-TODO:
+### Traitement de l'érythème migrant
+
+- Antibiothérapie pendant 14 jours
+- Privilégier la doxycycline car efficace sur les neuroborrélioses
+- Amoxicilline toutes les 8h si possible chez l'enfant, sinon 25 mg/kg toutes les 12h
+- Amoxicilline pendant la grossesse
+- Surveillance clinique de la guérison à 14 jours
+- Traitement identique en érythèmes migrants multiples (EMM)
+
+- Adulte: doxycycline 100 mg x 2/j
+  - 2<sup>e</sup> ligne: amoxicilline 1g x 3/j
+- Enfant ≥ 8 ans: doxycycline 4 mg/kg/j en 2 prises (max 100 mg/prise et 200 mg/j)
+  - 2<sup>e</sup> ligne: amoxicilline 50 mg/kg/j (max 3 g/j) en 3 prises
+- Enfant < 8 ans: amoxicilline 50 mg/kg/j en 3 prises
+  - 2<sup>e</sup> ligne: azithromycine 20 mg/kg/j (max 500 mg/j) pendant 5 jours
+
+### Traitement du lymphocytome borrélien
+
+Posologies identiques.  
+Antibiothérapie pendant 21 jours sauf enfant < 8 ans avec l'azithromycine: 10 jours.
+
+Traitement par l'infectiologue des autres formes de borréliose.
 
 {{% /collapse %}}
 {{%collapse "Source" %}}
@@ -159,5 +235,3 @@ TODO:
 [Gocko X. et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. Volume 49. Issue 5. 2019. Pages 296-317.](https://doi.org/10.1016/j.medmal.2019.05.006)
 
 {{% /collapse %}}
-
-≤≥±®œŒ³ÂSpO<sub>2</sub>

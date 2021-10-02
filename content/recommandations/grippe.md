@@ -14,6 +14,7 @@ tags = ["grippe", "vaccin"]
 anglais = ["influenza", "flu"]
 sctid = "6142004"
 draft = false
+todo = "grippe 2020, grippe grossesse"
 +++
 
 {{%article-summary%}}

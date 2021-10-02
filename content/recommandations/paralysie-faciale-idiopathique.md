@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr S. TRINGALI et Dr M. FIEUX (SFORL)"
 date = 2021-03-07T17:12:00+02:00
 publishdate = 2021-03-08
-lastmod = 2021-03-25
+lastmod = 2021-10-02
 specialites = ["ORL"]
 annees = "2020"
 sources = ["SFORL"]
@@ -17,7 +17,7 @@ sctid = "449916008"
 draft = false
 flowchart = true
 image = true
-imageSrc = "Photo de l'Internet Archive Book Images sur Foter.com"
+imageSrc = "Signes à l'examen de la paralysie faciale a frigore. Photo de l'Internet Archive Book Images sur Foter.com"
 todo = "soins oculaires"
 +++
 
@@ -27,7 +27,8 @@ Ces recommandations concernent l'adulte.
 
 - Diagnostic d'élimination d'une PFP
 - Interrogatoire et examen clinique majeurs
-- Bilan systématique: NFS, sérologie Lyme et VIH, audiométrie, IRM avec injection, ENMG si grave
+- Bilan systématique: NFS, glycémie, sérologie Lyme et VIH, audiométrie, IRM avec injection, ENMG si grave
+- PFP hyperalgique: sérologie VZV et HSV
 - Traitement en urgence prednisolone + valaciclovir
 
 {{%/article-summary%}}
@@ -186,8 +187,8 @@ PFP à bascule ou récidivante.
 
 - NFS
 - Sérologie Lyme
-- Glycémie à jeun si facteurs de risque  
-Antécédents familiaux, obésité, âge ≥ 40 ans.
+- Glycémie à jeun si facteurs de risque:  
+Antécédents familiaux de diabète, obésité, âge ≥ 40 ans.
 - Sérologie VIH  
 {{%class%}}Proposer à tout patient.{{%/class%}}
 - PFP hyperalgique: sérologie VZV et HSV
@@ -278,7 +279,7 @@ graph TB
   style PF stroke:#4150f5, stroke-width:1px
     atypie -- Oui --> differentiel("Éliminer une cause urgente<br>de paralysie faciale")
     atypie -- Non --> PFI("<b>Paralysie faciale idiopathique</b><br>si aucun des éléments ci-dessus")
-      PFI --> bilan("<b>Examens</b><hr>- NFS<br>- Glycémie à jeûn<br>- Sérologies Lyme et VIH<br>- Audiométrie<br>- IRM n. facial<br>- ENMG si grave")
+      PFI --> bilan("<b>Examens</b><hr>- NFS<br>- Glycémie à jeûn<br>- Sérologies Lyme et VIH<br>- Audiométrie<br>- IRM n. facial<br>- ENMG si grave<br>- Sérologies VZV et HSV si hyperalgique")
         bilan --> ttt("<b>Traitement urgent</b><hr>- Prednisone po 1 mg/kg 7-10j<br>- Valaciclovir 1g x 3/j<br>- Prévention kératite<br>- Kiné en forme sévère/séq.")
           ttt --> surv(Surveillance de la récupération<br>+/- Kiné, orthophoniste)
 {{< /mermaid >}}
