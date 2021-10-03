@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-09T13:10:04+02:00"
 publishdate = "2021-09-13"
-lastmod = "2021-09-29"
+lastmod = "2021-10-03"
 specialites = ["neurologie"]
 annees = "2020"
 sources = ["SFETD", "HAS"]
@@ -24,7 +24,7 @@ todo = "carence B9B12?"
 
 - {{< modal-btn modal-score-dn4 >}}Questionnaire DN4{{< /modal-btn >}}
 - 1<sup>re</sup> intention: duloxétine, gabapentine ou tricyclique.  
-Emplâtre de lidocaïne ou TENS si 1 secteur localisé.
+Emplâtre de lidocaïne ou TENS pour une atteinte superficielle localisée.
 - [Liste des structures spécialisées douleur chronique (SDC)](https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)
 
 {{%/article-summary%}}
@@ -59,7 +59,7 @@ Hyperalgésie
 ### Interrogatoire et examen
 
 - Antécédents  
-Chirurgicaux, traumatiques, sciatique, diabète, zona, SIDA, maladie de système, AVC, SEP, séjours tropicaux prolongés, exposition aux métaux lourds...
+Chirurgicaux, traumatiques, sciatique, diabète, [zona]({{< relref "zona.md" >}}), [SIDA]({{< relref "vih-sida.md" >}}), piqûre de tique, maladie de système, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), SEP, séjours tropicaux prolongés, exposition aux métaux lourds...
 - Antécédents familiaux de neuropathie
 - Traitements neurotoxiques  
 Radio-chimiothérapie, isoniazide, métronidazole, éthambutol, nitrofurantoïne, colistine, dapsone, traitement antipaludéen, antirétroviraux...
@@ -242,7 +242,8 @@ graph TB
       autreLigne1 -. 2e intention .-> autreLigne2("- Prégabaline<br>- Tramadol<br>- Antidépresseur<br>+ gabapentinoïde") -. Échec .-> centre
 {{< /mermaid >}}
 
-> Psychothérapie associée dès la 2<sup>e</sup> ligne de traitement.
+> Psychothérapie associée dès la 2<sup>e</sup> ligne de traitement.  
+Bilan étiologique par le neurologue en cause non évidente.
 
 {{%/collapse%}}
 {{%collapse "Sources" %}}

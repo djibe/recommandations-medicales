@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr S. TRINGALI et Dr M. FIEUX (SFORL)"
 date = 2021-03-07T17:12:00+02:00
 publishdate = 2021-03-08
-lastmod = 2021-10-02
+lastmod = 2021-10-03
 specialites = ["ORL"]
 annees = "2020"
 sources = ["SFORL"]
@@ -88,7 +88,7 @@ Remettre en cause le diagnostic en présence de ces signes.
   - Aggravation après 72 heures
   - PFP fluctuante
   - PFP bilatérale
-  - Morsure de tique
+  - [Morsure de tique]({{< relref "maladie-lyme.md" >}})
   - Otalgie
   - Traumatisme crânien
   - Surdité homolatérale
@@ -162,7 +162,7 @@ Les diagnostics différentiels sont dominés par les **causes tumorales, traumat
 Fracture du rocher ou péri-parotidienne.
 - Cause infectieuse
   - [Zona]({{< relref "zona.md" >}})
-  - Maladie de Lyme  
+  - [Maladie de Lyme]({{< relref "maladie-lyme.md" >}})  
   {{%class%}}*Borrelia burgdorferi*.{{%/class%}}
   - [Tuberculose]({{< relref "tuberculose.md" >}})
   - [VIH]({{< relref "vih-sida.md" >}})

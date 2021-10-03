@@ -17,12 +17,12 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "bilan sortie hospit, apnees sommeil, https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Questionnaire de qualité de vie du Minnesota HAS p.54"
+todo = "LDL cible, bilan sortie hospit, apnees sommeil, https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Questionnaire de qualité de vie du Minnesota HAS p.54"
 +++
 
 {{%article-summary%}}
 
-- Les recommandations *ESC 2021* sont disponibles (pas encore intégrées)[https://doi.org/10.1093/eurheartj/ehab368]
+- Les [recommandations *ESC 2021*](https://doi.org/10.1093/eurheartj/ehab368) sont disponibles (pas encore intégrées)
 - Évoquer devant fatigue, dyspnée, œdèmes chevilles...
 - ECG, NT-proBNP et consultation de cardiologie...
 - Bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), anémie)
@@ -232,7 +232,7 @@ Indications: cardiomyopathie hypertrophique (CMH), cardiomyopathie dilatée idio
   - Auto-surveillance 1-2/semaine
   - ≥ 75 ans: PAS < 120 mmHg
   - Escalade thérapeutique: IEC (ARA2) + BB + diurétique > anti-aldostérone > amlodipine
-- LDL cible
+- TODO: LDL cible
 - Bradycardisant ivabradine  
 Indication: tachycardie persistante sous BB dose maximale.
 - Diurétiques à visée symptomatique

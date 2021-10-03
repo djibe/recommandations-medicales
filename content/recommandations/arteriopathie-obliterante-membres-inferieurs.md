@@ -22,11 +22,11 @@ todo = "IEC, centres réadapt vasculaire, ETP, QDV EQ-5D, association patient, h
 
 {{%article-summary%}}
 
-- Dépister par IPS largement: {{< modal-btn modal-depistage-prevalent >}}ciblé ≥ 55 ans{{< /modal-btn >}}, ≥ 65 ans, ≥ 50 ans avec ATCD familial ou ≥ 1 autre FRCV, claudication vasculaire, athérome, AAA, IRC, IC, RCV élevé ...
+- Dépister par IPS largement: {{< modal-btn modal-depistage-prevalent >}}ciblé ≥ 55 ans{{< /modal-btn >}}, ≥ 65 ans, ≥ 50 ans avec ATCD familial ou ≥ 1 autre FRCV, claudication vasculaire, athérome, AAA, insuffisance rénale, insuffisance cardiaque, {{< modal-btn modal-risque-cardiovasculaire >}}risque CV élevé{{< /modal-btn >}}...
 - Définit un {{< modal-btn modal-risque-cardiovasculaire >}}très haut risque cardiovasculaire{{< /modal-btn >}}
 - Bilan des autres localisations athéromateuses
-- Suivi cardiologue et angiologue
-- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}}, IEC, sevrage tabagique, régime méditerranéen, réhabilitation vasculaire supervisée ...
+- Suivi par cardiologue et angiologue
+- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}}, IEC, sevrage tabagique, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -58,6 +58,8 @@ Blue toe syndrome
 
 **AAA:** anévrysme de l'aorte abdominale  
 **AAP:** antiagrégant plaquettaire  
+**BB:** bêtabloquant  
+**CV:** cardiovasculaire  
 **FRCV:** facteurs de risque cardiovasculaire  
 **IDM:** infarctus du myocarde  
 **IPS:** index de pression systolique ({{%lang%}}ankle-brachial index (ABI){{%/lang%}})  
@@ -65,7 +67,8 @@ Blue toe syndrome
 **MI:** membre inférieur  
 **PAS:** pression artérielle systolique  
 **RCV:** risque cardiovasculaire  
-**RV:** rapport de vraisemblance
+**RV:** rapport de vraisemblance  
+**TZD:** diurétique thiazidique
 
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
@@ -240,7 +243,7 @@ Voire ARA2 (*SFMV 2020*).
   - Cible moindre en atteinte sévère pour maintien de pression distale
   - IEC voire telmisartan en 1<sup>re</sup> intention
   - Associé à un TZD ou anticalcique
-  - Possibles: TZD, IEC/ARA2, anticalcique, BB
+  - Classes possibles: TZD, IEC/ARA2, anticalcique, BB
   - Précautions avec les BB en ischémie chronique
 - Suivi cardiologique systématique  
 Par haut risque cardiovasculaire pour évaluer le risque coronarien et d'insuffisance cardiaque.
@@ -326,5 +329,10 @@ style depister stroke:#4150f5, stroke-width:1px
 {{% modal title="Dépistage selon le score PREVALENT" id="modal-depistage-prevalent"%}}
 
 {{< scores/aomi-prevalent >}}
+
+{{% /modal %}}
+{{% modal title="Régime méditerranéen" id="modal-regime"%}}
+
+{{< traitements/regime-mediterraneen >}}
 
 {{% /modal %}}

@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par pch.vector / Freepik"
-todo = "ameliorer flowchart, consultation dediee Coter C + ALD ???"
+todo = "ameliorer flowchart, stades de la MRC source, consultation dediee Coter C + ALD ???"
 +++
 
 {{% article-summary %}}
@@ -187,7 +187,8 @@ Ferritinémie + CRP.
 - {{< modal-btn modal-risque-cardiovasculaire >}}Risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Sevrage tabagique
 - Contrôle tensionnel
-  - PAS cible < 120/90 mmHg (*KDIGO 2021*), < 130/80 si greffé
+  - PAS cible < 120/90 mmHg (*KDIGO 2021*)
+  - Greffe: < 130/80 mmHg (*KDIGO 2021*)
   - Par IEC (ou ARA2) ± thiazidique ou anticalcique
   - Automesure tensionnelle
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,7 g/L et réduction ≥ 50%

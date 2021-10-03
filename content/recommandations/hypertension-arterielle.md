@@ -5,23 +5,27 @@ shortname = "HTA"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
-publishdate = "2021-09-28"
-lastmod = "2021-09-28"
+publishdate = "2021-10-03"
+lastmod = "2021-10-03"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESH"]
-tags = ["risque cardiovasculaire"]
+tags = ["depistage", "HTA", "risque cardiovasculaire"]
 anglais = ["Hypertension disorder", "high blood pressure"]
 sctid = "38341003"
-draft = true
-image = false
-imageSrc = ""
-todo = "Objectifs, ESC, HAS, Hypotension orthostatique, Le tensiomètre électronique dans modale"
+draft = false
+image = true
+imageSrc = "Illustration de l'hypertension artérielle par vectorjuice / Freepik"
+todo = "liens vers la fiche, ESC, HAS, Hypotension orthostatique, Le tensiomètre électronique dans modale"
 +++
 
 {{%article-summary%}}
 
-TODO:
+- Conditions de mesures strictes
+- Appareil validé (voir *Mesure au cabinet*)
+- Confirmer le diagnostic par mesures et automesure/MAPA répétées
+- Cibles tensionnelles selon le profil
+- *Chapitre en cours de rédaction: classes, traitement, comorbidités, surveillance... à venir*
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -87,6 +91,7 @@ Mesure standardisée nécessaire pour le contrôle des objectifs tensionnels:
   - 3 mesures (2 si normales) espacées de 1 minute et noter la moyenne des 2 dernières
   - En manuel, gonfler 20-30 mmHg au-delà de la disparition du 1er bruit de Korotkoff. Dégonfler de 2-3 mmHg/s.
   - Enfants, grossesse, arythmie: contrôler manuellement
+  - Diagnostic si ≥ 140/90 mmHg
 - Dossier médical
   - Noter les valeurs systoliques et diastoliques dans le dossier médical
   - Noter l'heure de la dernière prise des antihypertenseurs
@@ -96,13 +101,15 @@ Mesure standardisée nécessaire pour le contrôle des objectifs tensionnels:
   - Diagnostic d'hypotension orthostatique si baisse de la PAS ≥ 20 mmHg dans les 3 minutes après le lever
 - Moyenne des pressions  
   - Utiliser ≥ 2 mesures sur ≥ 2 consultations espacées de 1-4 semaines pour estimer les pressions
-  - Confirmer le diagnostic autant que possible par automesure ou MAPA
+  - **Confirmer le diagnostic** par automesure ou MAPA
 - Information du patient  
 Donner au patient ses mesures oralement et par écrit.
 
 > ESH 2021 et ACC/AHA 2017. [Schéma](https://www.stridebp.org/images/training_bp/Office_BP_measurements_Poster.pdf).
 
 L'automesure tensionnelle doit être utilisée en complément (effet blouse blanche fréquent, hypertension masquée, hypertension résistante), d'autant plus si les valeurs sont limites 130-159/85-99 mmHg.
+
+En cas de discordance mesures au cabinet et automesure/MAPA, répéter les mesures ambulatoires et privilégier des MAPA. 
 
 ### Le tensiomètre électronique
 
@@ -141,10 +148,27 @@ L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hyp
   - Pendant 7 jours (au moins 3)
   - Avant la prise des traitements et des repas
   - Moyenne des valeurs des 6 derniers jours
-  - Seuil diagnostique ≥ 135/85 mmHg
+  - Diagnostic si moyenne ≥ 135/85 mmHg (130/80 mmHg en MAPA)
 - Mesures avec antihypertenseurs
   - 2 mesures consécutives
   - 1-2/semaine et minimum 1/mois
+
+{{% /collapse %}}
+{{%collapse "Objectifs tensionnels" "show" %}}
+
+{{< table title="Synthèse des objectifs tensionnels selon le profil du patient. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
+| Population          | Objectif &lt; à (mmHg) | Source |
+|---------------------|----------------:|------------|
+| Générique           | 140/90          | TODO       |
+| AOMI                | 120-140/90      | ESC 2017   |
+| Diabète (type 1 ou 2) | 130/80          | ESC 2019   |
+| Insuffisance cardiaque | 120-140/90 | ESC 2016 |
+| Insuffisance cardiaque &ge; 75 ans | 120/90 | ESC 2016 |
+| Insuffisance rénale | 120/90     | KDIGO 2021 |
+| Greffe rénale       | 130/80     | KDIGO 2021 |
+{{< /table >}}
+
+> Détail sur la page dédiée à chaque chapitre concerné
 
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}
