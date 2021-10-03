@@ -6,17 +6,18 @@ synonyms = ["Érysipèle", "érésipèle"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T19:35:02+02:00"
 publishdate = "2021-09-19"
-lastmod = "2021-09-20"
+lastmod = "2021-10-03"
 specialites = ["infectiologie"]
 annees = "2019"
 sources = ["HAS", "SPILF"]
 tags = []
-anglais = []
-sctid = ""
+anglais = ["Erysipelas"]
+sctid = "44653001"
 draft = false
-image = false
-imageSrc = ""
-todo = "Prescrire, flowchart"
+flowchart = true
+image = true
+imageSrc = "Érysipèle de jambe droite, Grook Da Oger, CC BY-SA 3.0 via Wikimedia Commons"
+todo = "Prescrire"
 +++
 
 {{%article-summary%}}
@@ -179,6 +180,23 @@ Ils pourraient favoriser les fasciites nécrosantes sauf traitement au long cour
 Aucune indication des corticoïdes (sauf traitement au long cours).
 
 {{% /collapse %}}
+{{%collapse "Conduite à tenir" "show" %}}
+
+{{< mermaid title="Conduite à tenir devant un érysipèle. Dr JB FRON d'après HAS/SPILF 2019 et 2021" >}}
+graph TB
+  diagnostic["Diagnostic clinique d'érysipèle"]
+  style diagnostic stroke:#4150f5, stroke-width:1px
+    diagnostic --> indichospitalisation("<b>Indication à l'hospitalisation ?</b><hr>- Fasciite nécrosante<br>- Doute diagnostique<br>- SG marqués<br>- Fragilité<br>- Contexte social<br>- Complication locale<br>- AINS, corticoïdes<br>- Échec à 24-48h")
+      indichospitalisation -- Non --> antibiotique("- Amoxicilline 50 mg/kg en 3 prises<br>7 jours (max 6 g/j)<br>- Surveillance clinique<br>- Porte d'entrée<br>- Vaccinations<br>- Anticoagulation selon déambulation")
+        antibiotique --> prevention("<b>Prévention</b><hr>- Contention veineuse<br>- Porte d'entrée<br>- &ge; récidives/an<br>Pénicilline V ou BPG")
+        antibiotique -- Allergie pénicilline --> allergie("- Clindamycine 600 mg x 3/j<br>x 4/j si poids > 100 kg<br>- ou pristinamycine 1 g x 3/j")
+      indichospitalisation -- Oui --> hospitalisation(Hospitalisation)
+    diagnostic -- Diagnostic différentiel --> differentiel("- Pied diabétique<br>- DH bactérienne aiguë<br>- DH sur insuffisance veineuse<br>- Eczéma")
+{{< /mermaid >}}
+
+> **BPG:** Benzathine-pénicilline G; **DH:** dermohypodermite; **SG:** signes généraux.
+
+{{%/collapse%}}
 {{%collapse "Sources" %}}
 
 - [HAS. Choix et durées d’antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/reco360_synthese_durees_antibiotherapies_coi_2021_07_15_v2.pdf)

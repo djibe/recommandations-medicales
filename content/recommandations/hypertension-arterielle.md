@@ -16,7 +16,7 @@ sctid = "38341003"
 draft = true
 image = false
 imageSrc = ""
-todo = "ESC, HAS, Hypotension orthostatique, Le tensiomètre électronique dans modale"
+todo = "Objectifs, ESC, HAS, Hypotension orthostatique, Le tensiomètre électronique dans modale"
 +++
 
 {{%article-summary%}}
