@@ -159,7 +159,7 @@ L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hyp
 {{< table title="Synthèse des objectifs tensionnels selon le profil du patient. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
 | Population          | Objectif &lt; à (mmHg) | Source |
 |---------------------|----------------:|------------|
-| Générique           | 140/90          | TODO       |
+| Cible minimale      | 140/90          | ESC 2018   |
 | AOMI                | 120-140/90      | ESC 2017   |
 | Diabète (type 1 ou 2) | 130/80          | ESC 2019   |
 | Insuffisance cardiaque | 120-140/90 | ESC 2016 |
