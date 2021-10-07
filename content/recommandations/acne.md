@@ -76,13 +76,14 @@ Soins systématiques avec:
 - **Toilette douce quotidienne** matin et soir avec gels/pains dermatologiques **SANS savon**, rinçage soigneux
 - Suivie d'application quotidienne de **crème hydratante** adaptée à la peau acnéique
 - **Photoprotection** en cas d'exposition solaire
-
-**NB.** L'utilisation de maquillages adaptés à la peau acnéique est possible.
+- L'utilisation de maquillages adaptés à la peau acnéique est possible
+- Arrêt du tabac
 
 ### Facteurs aggravants
 
 - Dermocorticoïdes et corticoïdes
-- Hormones (Androgènes, progestatifs)
+- Hormones  
+Androgènes, progestatifs.
 - Immunodépresseurs
 - Antiépileptiques
 
@@ -96,7 +97,7 @@ Pas de bénéfices à modifier son alimentation.
 
 ### Traitements de l'acné
 
-- Ils sont utilisés sur une longue période, alternant les traitements d'attaque et d'entretien.
+- Sur une longue période, alternant les traitements d'attaque et d'entretien
 - Le traitement d'attaque doit être poursuivi au moins 3 mois avant de juger de son efficacité.
 - Poursuivre un traitement d'entretien, même lorsqu'une rémission complète a été obtenue avec le traitement d'attaque.
 

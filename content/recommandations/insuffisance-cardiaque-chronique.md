@@ -246,7 +246,7 @@ Indications: cardiomyopathie hypertrophique (CMH), cardiomyopathie dilatée idio
 - Éducation thérapeutique
 - Ferritinémie ≥ 100 ng/mL  
 Bilan étiologique et fer maltose IV.
-- Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
+- Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) et mesure systématique de l'IPS (*ESC 2017 LEAD*)
 - Dépister annuellement une dépression
   - Échelle: Beck, Cardiac Depression Scale
   - Traitements sûrs: sertraline, escitalopram

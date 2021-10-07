@@ -6,7 +6,7 @@ synonyms = ["Accident ischémique transitoire", "infarctus cérébral"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-25T14:04:00+02:00
 publishdate = 2021-01-25
-lastmod = 2021-09-26
+lastmod = 2021-10-07
 specialites = ["neurologie"]
 annees = "2021"
 sources = ["AHA", "ESC", "HAS"]
@@ -164,9 +164,10 @@ S'applique aussi après un AIT.
 
 - **Aspirine 50-325 mg/j**  
 Si non cardioembolique. Clopidogrel 75 mg/j si allergie.
-- Pression artérielle  
-  - **Cible cabinet < 130/80 mmHg** (*AHA 2021*)
-  - Automesure tensionnelle, MAPA
+- Hypertension artérielle
+  - Seuil diagnostique ≥ 130/90 mmHg car très haut RCV (160 après 80 ans, *ESC 2018*)
+  - Cible 120-130/70-79 mmHg (*ESC 2018* et *AHA 2021*)
+  - ≥ 65 ans: 130-139/70-79 mmHg
   - Molécules: thiazidiques, IEC (voire ARA2)
   - Hypertendu: réduire la consommation de sel de 2,5 g/j
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,55 g/L et réduction ≥ 50%  
@@ -178,8 +179,8 @@ Patient à {{< modal-btn modal-risque-cardiovasculaire >}}très haut RCV{{< /mod
 - Activité physique ≥ 10 min x 4/semaine
 - Sédentaire: bouger 3 minutes toutes les 30 minutes
 - Diabète: HbA1c cible
-  - AVC < 6 mois: < 8%
-  - Après 6 mois: [cible réadaptée selon le profil]({{< relref "diabete-type-2.md" >}}) (souvent 7%)
+  - AVC < 6 mois: {{< modal-btn modal-hba1c >}}&lt; 8%{{< /modal-btn >}}
+  - Après 6 mois: {{< modal-btn modal-hba1c >}}&lt; 8%{{< /modal-btn >}}cible réadaptée selon le profil({{< relref "diabete-type-2.md" >}}) (souvent 7%)
 - [Dépister des apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) {{%class%}}(40%){{%/class%}}
 - [ALD]({{< relref "affection-longue-duree.md" >}})  
 Critère: séquelles neurologiques nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.
@@ -270,10 +271,11 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 - [Kleindorfer DO et al. 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2021 Jul;52(7):e364-e467.](https://www.ahajournals.org/doi/10.1161/STR.0000000000000375)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/sfd-dt2 >}}
-- [Gabet A. et al; Santé Publique France. Connaissance de l'accident vasculaire cérébral et de ses symptômes en France en 2019. Bulletin épidémiologique hebdomadaire, 2020, n°. 28, p. 554-561.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/connaissance-de-l-accident-vasculaire-cerebral-et-de-ses-symptomes-en-france-en-2019)
+- [Gabet A. et al; Santé Publique France. Connaissance de l'accident vasculaire cérébral et de ses symptômes en France en 2019. BEH. 2020. n°28. 554-561.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/connaissance-de-l-accident-vasculaire-cerebral-et-de-ses-symptomes-en-france-en-2019)
+- {{< references/esc-hta >}}
 - [HAS. Prévention vasculaire après un infarctus cérébral ou un accident ischémique transitoire. 13/06/2018.](https://www.has-sante.fr/jcms/c_1252051/fr/prevention-vasculaire-apres-un-infarctus-cerebral-ou-un-accident-ischemique-transitoire)
-- [Schnitzler A. et al; Santé Publique France. Bulletin Epidémiologique Hebdomadaire, 2018, n°. 29, p. 595-601.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/impact-de-la-reeducation-a-la-phase-subaigue-d-un-accident-vasculaire-cerebral-en-france-en-2016)
-- [Lecoffre C. et al; Santé Publique France. L'accident vasculaire cérébral en France : patients hospitalisés pour AVC en 2014 et évolutions 2008-2014. Bulletin Epidémiologique Hebdomadaire, 2017, n°. 5, p. 84-94 ](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/l-accident-vasculaire-cerebral-en-france-patients-hospitalises-pour-avc-en-2014-et-evolutions-2008-2014)
+- [Schnitzler A. et al; Santé Publique France. BEH. 2018. n°29. 595-601.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/impact-de-la-reeducation-a-la-phase-subaigue-d-un-accident-vasculaire-cerebral-en-france-en-2016)
+- [Lecoffre C. et al, Santé Publique France. L'accident vasculaire cérébral en France : patients hospitalisés pour AVC en 2014 et évolutions 2008-2014. BEH. 2017. n°5. 84-94.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/l-accident-vasculaire-cerebral-en-france-patients-hospitalises-pour-avc-en-2014-et-evolutions-2008-2014)
 - [HAS. Accident vasculaire cérébral : méthodes de rééducation de la fonction motrice chez l’adulte. Juin 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2012-11/11irp01_synt_avc_methodes_de_reeducation.pdf)
 - [HAS. Accident vasculaire cérébral :  prise en charge précoce. Mai 2009.](https://www.has-sante.fr/upload/docs/application/pdf/2009-07/avc_prise_en_charge_precoce_-_recommandations.pdf)
 - [HAS. Prise en charge diagnostique et traitement immédiat de l’accident ischémique transitoire de l’adulte. 03/05/2004.](https://www.has-sante.fr/jcms/c_272368/fr/prise-en-charge-diagnostique-et-traitement-immediat-de-laccident-ischemique-transitoire-de-ladulte)
@@ -292,6 +294,11 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 {{% modal title="Statines et réduction du LDL" id="modal-statine-intensite"%}}
 
 {{< traitements/statine-intensite >}}
+
+{{% /modal %}}
+{{% modal title="Objectifs glycémiques selon SFD 2019" id="modal-hba1c"%}}
+
+{{< clinique/objectifs-hba1c >}}
 
 {{% /modal %}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}

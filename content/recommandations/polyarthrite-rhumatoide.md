@@ -166,7 +166,7 @@ Gérer la douleur, handicap, observance, maintien de l’activité professionnel
 - Mise à jour des dépistages des cancers
 - Arrêt du tabac
 - Correction des facteurs de risque cardiovasculaire
-  - Risque {{< scores/score >}}
+  - Risque {{< scores/heartscore >}}
   - Activité physique régulière
   - Régimé méditerranéen
   - Echodoppler des TSA  
@@ -263,7 +263,7 @@ VS, CRP, BU.
 EVA, réveils nocturnes, durée de la raideur.
 - Radiographies  
 Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
-- Correction des facteurs de risque cardiovasculaire et calcul du {{< scores/score >}}
+- Correction des facteurs de risque cardiovasculaire et calcul du {{< scores/heartscore >}}
 
 ### Pour en savoir plus: suivi par le rhumatologue
 

@@ -6,7 +6,7 @@ synonyms = ["et maladie rénale chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-09-13"
+lastmod = "2021-10-07"
 specialites = ["nephrologie"]
 annees = "2021"
 sources = ["KDIGO", "ESC", "HAS"]
@@ -187,7 +187,8 @@ Ferritinémie + CRP.
 - {{< modal-btn modal-risque-cardiovasculaire >}}Risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Sevrage tabagique
 - Contrôle tensionnel
-  - PAS cible < 120/90 mmHg (*KDIGO 2021*)
+  - Seuil diagnostique: ≥ 140/90 mmHg (160 si ≥ 80 ans, *ESC 2018*)
+  - PA cible < 120/90 mmHg (*KDIGO 2021*)
   - Greffe: < 130/80 mmHg (*KDIGO 2021*)
   - Par IEC (ou ARA2) ± thiazidique ou anticalcique
   - Automesure tensionnelle
@@ -205,7 +206,8 @@ Ferritinémie + CRP.
   - Protection du *capital veineux*
   - Vitamine D cible ≥ 75 nmol/L (*Souberbielle 2019*)
 - Si diabète
-  - HbA1c cible ≤ 7% (8% si IRC sévère ou terminale)
+  - {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}}  
+  8% si IRC sévère ou terminale.
   - Suivi diabétologique impératif
   - Attention au risque hypoglycémique (SU, glinide, insuline)
 
@@ -273,12 +275,18 @@ bilan --> 7(Avis néphro)
 - [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. Volume 99. Issue 3. 559 - 569.](https://doi.org/10.1016/j.kint.2020.10.026)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/sfd-dt2 >}}
+- {{< references/esc-hta >}}
 - [HAS. Maladie rénale chronique de l’adulte. Guide du parcours de soins. Février 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
 
 {{%/collapse%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-risque-cardiovasculaire"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}
+{{% modal title="Objectifs glycémiques selon SFD 2019" id="modal-hba1c"%}}
+
+{{< clinique/objectifs-hba1c >}}
 
 {{% /modal %}}
 {{% modal title="Statines et réduction du LDL" id="modal-statine-intensite"%}}

@@ -165,7 +165,7 @@ Se 87%, Spe 96%
 - NFS
 - VS, CRP  
 {{%class%}}Syndrome inflammatoire modeste (60% des cas).{{%/class%}}
-- Bilan cardiovasculaire (glycémie à jeun, bilan lipidique pour calcul du {{< scores/score >}}.
+- Bilan cardiovasculaire (glycémie à jeun, bilan lipidique pour calcul du {{< scores/heartscore >}}.
 
 ### Radiographies
 

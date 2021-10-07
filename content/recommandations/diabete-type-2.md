@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-09-26"
+lastmod = "2021-10-07"
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["SFD", "EASD", "ESC", "HAS"]
@@ -50,8 +50,10 @@ Rémission du diabète
 
 - Toute personne avec un diabète type 2 est à {{< modal-btn modal-risque-cardiovasculaire-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}}
 - Arrêt du tabac
-- Hypertension artérielle  
-Objectif tensionnel **< 130/80** mmHg (*ESC 2019*).
+- Hypertension artérielle
+  - Seuil diagnostique ≥ 140/90 mmHg (160 après 80 ans, *ESC 2018*)
+  - Cible 120-130/70-79 mmHg (*ESC 2018*)
+  - ≥ 65 ans: 130-139/70-79 mmHg (*ESC 2018*)
 - LDL cible (*ESC 2019*)  
   - {{< modal-btn modal-statine-intensite >}}&lt; 0,7 g/L{{< /modal-btn >}}
   - {{< modal-btn modal-statine-intensite >}}&lt; 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-risque-cardiovasculaire-diabete >}}maladie cardiovasculaire, > 20 ans d'évolution ou ≥ 3 autres FRCV{{< /modal-btn >}}
@@ -225,6 +227,7 @@ window.onload = () => {
 - [Riddle M.C. et al. Consensus report: definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021.](https://doi.org/10.1007/s00125-021-05542-z)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/sfd-dt2 >}}
+- {{< references/esc-hta >}}
 
 {{% /collapse %}}
 {{% modal title="Objectifs glycémiques selon SFD 2019" id="modal-hba1c"%}}

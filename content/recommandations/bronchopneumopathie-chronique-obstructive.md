@@ -178,7 +178,7 @@ Limitation des activités, arrêts de travail, activité physique, anxiété/dé
 - Pression artérielle, pouls, SpO<sub>2</sub>, poids, taille, IMC, périmètre cervical
 - Auscultation pulmonaire  
 Sibilants, tirage, cyanose.
-- Calcul du risque cardiovasculaire {{< scores/score >}}
+- Calcul du risque cardiovasculaire {{< scores/heartscore >}}
 - [Dépister les apnées du sommeil](https://www.diabeclic.com/questionnaire-stop-bang)
 
 {{% /collapse %}}
