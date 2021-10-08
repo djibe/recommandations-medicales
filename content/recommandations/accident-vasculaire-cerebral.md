@@ -25,7 +25,7 @@ todo = "carnet automesure, rééduc, bilan étiologique, https://erj.ersjournals
 - Urgence vitale, protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU  
 4h30 pour thrombolyser.
 - 1<sup>re</sup> cause de mortalité de la femme, 3<sup>e</sup> de l'homme
-- Un antécédent d'AIT ou d'AVC détermine un {{< modal-btn modal-risque-cardiovasculaire >}}très haut RCV{{< /modal-btn >}}
+- Un antécédent d'AIT ou d'AVC détermine un {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}
 - Post-AVC: aspirine, IEC, TZD, PA < 14/9, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,55 g/L et contrôle des FRCV
 - Bilan spécialisé cardiaque et neurovasculaire
 - [Éducation de toute la population](https://solidarites-sante.gouv.fr/IMG/png/infographieavcsignes.png)
@@ -171,7 +171,7 @@ Si non cardioembolique. Clopidogrel 75 mg/j si allergie.
   - Molécules: thiazidiques, IEC (voire ARA2)
   - Hypertendu: réduire la consommation de sel de 2,5 g/j
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,55 g/L et réduction ≥ 50%  
-Patient à {{< modal-btn modal-risque-cardiovasculaire >}}très haut RCV{{< /modal-btn >}}.
+Patient à {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}.
 - Arrêt du tabac
 - Arrêt de l'alcool
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
@@ -286,7 +286,7 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 {{< scores/nihss >}}
 
 {{% /modal %}}
-{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-risque-cardiovasculaire"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

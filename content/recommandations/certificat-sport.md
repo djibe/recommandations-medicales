@@ -123,7 +123,8 @@ L'épreuve d'effort est menée jusqu'à épuisement (et non à 80% de la FMT).
 {{% /collapse %}}
 {{%collapse "Information des sportifs" %}}
   
-> << Appeler - masser - défibriller >>
+> << Appeler - masser - défibriller >>  
+[FédéCardio: Savez-vous sauver ?](https://fedecardio.org/je-me-teste/savez-vous-sauver/)
 
 Informer sur les 10 règles d'or:
 

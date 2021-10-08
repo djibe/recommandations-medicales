@@ -6,13 +6,13 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-18T10:55:00+02:00
 publishdate = 2021-01-18
-lastmod = 2021-07-05
+lastmod = 2021-10-07
 specialites = ["infectiologie"]
 annees = "2020"
 sources = ["HAS", "MinSante"]
 tags = ["cancer anal", "cancer col", "depistage", "IST", "HSH", "vaccin"]
-anglais = []
-sctid = ""
+anglais = ["Papillomavirus"]
+sctid = "243584004"
 draft = false
 image = true
 imageSrc = "CIN 1/HPV sur ThinPrep. Photo de euthman sur Foter.com / CC BY-SA"
@@ -118,7 +118,9 @@ Une diminution de plus de 50% de l’incidence des lésions précancéreuses cer
 Dans ce pays, le succès de la campagne de vaccination, associée au dépistage, ouvre la perspective d’une éradication du cancer du col de l’utérus d’ici une quinzaine d’année. (INCa)
 
 {{% /collapse %}}
-{{%collapse "FMC gratuite" %}}
+{{%collapse "FMC gratuites" %}}
+
+{{< card-link title="HPV - L'affaire de tous" url="https://pns-mooc.com/fr/mooc/21/presentation" subtitle="Université de Paris">}}
 
 [Abramovitz L. Vaccin contre le Papilloma virus : De l’AMM au pragmatisme. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/
 )

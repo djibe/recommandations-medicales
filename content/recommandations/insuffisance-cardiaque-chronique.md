@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
 publishdate = 2021-06-03
-lastmod = 2021-10-04
+lastmod = 2021-10-08
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS"]
@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration de l'insuffisance cardiaque par vectorjuice / Freepik"
-todo = "PA cible+++, sup. Table 4 MRA+5Sacu+7Diur https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Beck"
+todo = "sup. Table 4 MRA+5Sacu+7Diur https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Beck"
 +++
 
 {{%article-summary%}}
@@ -220,6 +220,11 @@ Indications: cardiomyopathie hypertrophique (CMH), cardiomyopathie dilatée idio
 {{% /collapse %}}
 {{%collapse "Mesures générales" %}}
 
+- Hypertension artérielle
+  - Seuil diagnostique > 140/90 mmHg (*ESC 2018*)
+  - Cible < 140/90 mmHg (cible mal connue, selon comorbidités, *ESC 2021*)
+  - Auto-surveillance 1-2/semaine
+  - Escalade thérapeutique: ajouter amlodipine/félodipine si PA non contrôlée
 - Diurétiques de l'anse à visée symptomatique
   - [Furosémide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68009803&typedoc=R) 20-40 mg jusqu'à 1000 mg/j. Fractionner quand ≥ 40 mg
   - ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68232635&typedoc=R) 0,5-1 mg jusqu'à 5 mg/j. Fractionner quand ≥ 1 mg
@@ -240,7 +245,7 @@ Indications: cardiomyopathie hypertrophique (CMH), cardiomyopathie dilatée idio
 - Diagnostic rapide des infections intercurrentes
 - Surveillance des cardiotoxiques
 - Dépistage et correction de l'hypertension artérielle
-- LDL cible selon les {{< modal-btn modal-risque-cardiovasculaire >}}comorbidités cardiovasculaires{{< /modal-btn >}}
+- LDL cible selon les {{< modal-btn modal-rcv >}}comorbidités cardiovasculaires{{< /modal-btn >}}
 - Si diabète: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
 - Évaluation diététique
 - Éducation thérapeutique
@@ -263,10 +268,6 @@ Remplacé par [valsartan/sacubitril](https://www.ema.europa.eu/en/documents/prod
 - {{< modal-btn modal-bb >}}Bêtabloquant{{< /modal-btn >}} dose maximale
 - Anti-aldostérone spironolactone ou éplérénone
 - {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} systématique
-- Pression artérielle cible 120-140/90 mmHg
-  - Auto-surveillance 1-2/semaine
-  - ≥ 75 ans: PAS < 120 mmHg
-  - Escalade thérapeutique: ajouter l'amlodipine si PA non contrôlée
 - Traitements de 2<sup>e</sup> ligne: symptômes persistants
   - Ivabradine  
   Indication: FEVG ≤ 35% et pouls ≥ 70/min sous BB dose maximale ou mal tolérés.
@@ -495,8 +496,8 @@ réalistes
 - [Collège National des Enseignants de Cardiologie. Insuffisance cardiaque. Item 232 - UE8. Cardiologie 2e édition. Octobre 2019.](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch18_insuffisance_cardiaque.pdf)
 - [Agence de la Biomédecine. Organes -Greffe cardiaque. 29/09/2019.](https://rams.agence-biomedecine.fr/greffe-cardiaque-0)
 - [Santé Publique France. Insuffisance cardiaque. 17/06/2019.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/insuffisance-cardiaque)
+- {{< references/esc-hta >}}
 - [SFC. Recommandations de la Société Française de Cardiologie pour les épreuves d'effort. 2018.](https://sfcardio.fr/publication/recommandations-pour-les-epreuves-deffort)
-- [Ponikowski P. et al, ESC Scientific Document Group. 2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) Developed with the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. Volume 37. Issue 27. 14 July 2016. Pages 2129–2200.](https://doi.org/10.1093/eurheartj/ehw128) + [Web addenda](https://www.escardio.org/static-file/Escardio/Guidelines/ehw128_Addenda.pdf)
 - [HAS. Insuffisance cardiaque systolique. ALD n°5. Actes et prestations - Affection de longue durée. Juillet 2015.](https://www.has-sante.fr/upload/docs/application/pdf/liste_ald_insuf_card_systolique.pdf)
 - [HAS. Insuffisance cardiaque. Guide du parcours de soins. Juin 2014.](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_ic_web.pdf)
 - [Lainscak M. et al. Self-care management of heart failure: practical recommendations from the Patient Care Committee of the Heart Failure Association of the European Society of Cardiology. European Journal of Heart Failure. 13: 115-126.](https://doi.org/10.1093/eurjhf/hfq219)

@@ -22,8 +22,8 @@ todo = "IEC, centres réadapt vasculaire, ETP, QDV EQ-5D, association patient, h
 
 {{%article-summary%}}
 
-- Dépister par IPS largement: {{< modal-btn modal-depistage-prevalent >}}ciblé ≥ 55 ans{{< /modal-btn >}}, ≥ 65 ans, ≥ 50 ans avec ATCD familial ou ≥ 1 autre FRCV, claudication vasculaire, athérome, AAA, insuffisance rénale, insuffisance cardiaque, {{< modal-btn modal-risque-cardiovasculaire >}}risque CV élevé{{< /modal-btn >}}...
-- Définit un {{< modal-btn modal-risque-cardiovasculaire >}}très haut risque cardiovasculaire{{< /modal-btn >}}
+- Dépister par IPS largement: {{< modal-btn modal-depistage-prevalent >}}ciblé ≥ 55 ans{{< /modal-btn >}}, ≥ 65 ans, ≥ 50 ans avec ATCD familial ou ≥ 1 autre FRCV, claudication vasculaire, athérome, AAA, insuffisance rénale, insuffisance cardiaque, {{< modal-btn modal-rcv >}}risque CV élevé{{< /modal-btn >}}...
+- Définit un {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}}
 - Bilan des autres localisations athéromateuses
 - Suivi par cardiologue et angiologue
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}}, IEC, sevrage tabagique, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
@@ -35,7 +35,7 @@ Artériopathie oblitérante des membres inférieurs (AOMI)
 : Obstruction athéromateuse partielle ou totale des artères des membres inférieurs, le plus souvent asymptomatique.
 : Les facteurs majeurs sont: âge, tabac, hypertension artérielle, dyslipidémie et [diabète]({{< relref "diabete-type-2.md" >}}).
 : 3 stades: asymptomatique (20-50%), ischémie d'effort (45%, dont seulement 10-35% de claudication typique) et ischémie de repos (ou *critique*, < 5%).
-: Patients à {{< modal-btn modal-risque-cardiovasculaire >}}très haut risque cardiovasculaire{{< /modal-btn >}} par atteinte artérielle globale:
+: Patients à {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} par atteinte artérielle globale:
     - Coronaropathie (50%) et infarctus du myocarde (IDM)
     - [Accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}})
     - Mortalité cardiovasculaire  
@@ -100,7 +100,7 @@ Blue toe syndrome
   - Insuffisance cardiaque
 - Asymptomatique à risque d'AOMI
   - **Âge ≥ 65 ans**
-  - {{< modal-btn modal-risque-cardiovasculaire >}}Risque cardiovasculaire élevé{{< /modal-btn >}}
+  - {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé{{< /modal-btn >}}
   - Âge ≥ 50 ans avec antécédent familial d’AOMI
   - Âge ≥ 50 ans avec ≥ 1 autre facteur de risque cardiovasculaire (*SFMV 2020*)
 
@@ -163,7 +163,7 @@ Iliaque, fémorale ou poplité, souffle systolique au triangle de Scarpa ++ (RV+
   - Amyotrophie
 - Signes d'insuffisance cardiaque
 - Périmètre de marche
-- {{< modal-btn modal-risque-cardiovasculaire >}}Risque cardiovasculaire{{< /modal-btn >}} (calcul du {{< scores/heartscore >}})
+- {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} (calcul du {{< scores/heartscore >}})
 
 {{%info%}}
 L'IPS sert au dépistage, au diagnostic et à la surveillance de l’AOMI.
@@ -234,16 +234,14 @@ Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant
   - LDL cible < **0,55 g/L** avec contrôle annuel
   - Ajout d'ézétimibe voire evolocumab sur avis spécialisé
 - Clopidogrel 75 mg/j
-  - Indications: claudication ou AOMI masquée, prévention secondaire, revascularisation du MI ou {{< modal-btn modal-risque-cardiovasculaire-diabete >}}diabète à haut RCV{{< /modal-btn >}}
+  - Indications: claudication ou AOMI masquée, prévention secondaire, revascularisation du MI ou {{< modal-btn modal-rcv-diabete >}}diabète à haut RCV{{< /modal-btn >}}
   - Sinon aspirine 75-100 mg/j
   - Si double antiagrégant: pantoprazole
 - IEC systématique  
 Voire ARA2 (*SFMV 2020*).
 - Pression artérielle cible 120-140/90 mmHg
   - Cible moindre en atteinte sévère pour maintien de pression distale
-  - IEC voire telmisartan en 1<sup>re</sup> intention
-  - Associé à un TZD ou anticalcique
-  - Classes possibles: TZD, IEC/ARA2, anticalcique, BB
+  - Classes possibles: TZD, IEC/ARA2, anticalcique voire BB
   - Précautions avec les BB en ischémie chronique
 - Suivi cardiologique systématique  
 Par haut risque cardiovasculaire pour évaluer le risque coronarien et d'insuffisance cardiaque.
@@ -258,10 +256,8 @@ Par haut risque cardiovasculaire pour évaluer le risque coronarien et d'insuffi
 Auto-exercices et podomètre.
 - Si diabète
   - PAD cible < 85 mmHg
-  - HbA1c cible ≤ 7% (*SFD 2019*, *SFMV 2020*)
+  - {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}} (*SFD 2019*, *SFMV 2020*)
   - ≤ 8% si comorbidité sévère ou espérance de vie < 5 ans
-  - 1<sup>re</sup> ligne: metformine
-  - 2<sup>e</sup> ligne: dapagliflozine ou GLP-1 RA (liraglutide, dulaglutide)
 - Participer à la recherche  
 [ComPaRe](https://compare.aphp.fr/)
 
@@ -311,14 +307,19 @@ style depister stroke:#4150f5, stroke-width:1px
 - [HAS. Prise en charge de l’artériopathie chronique oblitérante athéroscléreuse des membres inférieurs. Avril 2006.](https://www.has-sante.fr/upload/docs/application/pdf/AOMI_recos.pdf)
 
 {{% /collapse %}}
-{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-risque-cardiovasculaire"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 
 {{% /modal %}}
-{{% modal title="RCV du diabétique selon ESC 2019" id="modal-risque-cardiovasculaire-diabete"%}}
+{{% modal title="RCV du diabétique selon ESC 2019" id="modal-rcv-diabete"%}}
 
 {{< clinique/risque-cardiovasculaire-diabete >}}
+
+{{% /modal %}}
+{{% modal title="Objectifs glycémiques selon SFD 2019" id="modal-hba1c"%}}
+
+{{< clinique/objectifs-hba1c >}}
 
 {{% /modal %}}
 {{% modal title="Statines et réduction du LDL" id="modal-statine-intensite"%}}

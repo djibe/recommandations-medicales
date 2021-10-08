@@ -24,7 +24,7 @@ todo = "ameliorer flowchart, stades de la MRC source, consultation dediee Coter 
 
 - Dépistage annuel des populations à risque par créatininémie + albuminurie sur échantillon
 - Le diagnostic est biologique
-- {{< modal-btn modal-risque-cardiovasculaire >}}Risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
+- {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Néphroprotection  
 IEC, PA < 120/90 mmHg, LDL < 0,7 voire 0,55 g/L...
 
@@ -100,7 +100,7 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 ### Interrogatoire
 
 - Antécédents personnels et familiaux de maladie rénale ou urinaire
-- Antécédents cardiovasculaires et {{< modal-btn modal-risque-cardiovasculaire >}}risque cardiovasculaire{{< /modal-btn >}}
+- Antécédents cardiovasculaires et {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}}
 - Facteurs de risque cardiovasculaire  
 Diabète, tabagisme...
 - Exposition aux néphrotoxiques
@@ -182,9 +182,9 @@ Ferritinémie + CRP.
 
 **Objectifs du traitement:** traiter la maladie causale, ralentir la progression de la maladie, prévenir le risque cardiovasculaire et les complications de la MRC.
 
-- ALD 19
-- Adaptation médicamenteuse selon le DFG
-- {{< modal-btn modal-risque-cardiovasculaire >}}Risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
+- [ALD 19]({{< relref "affection-longue-duree.md" >}})
+- Adaptation médicamenteuse selon {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}}
+- {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Sevrage tabagique
 - Contrôle tensionnel
   - Seuil diagnostique: ≥ 140/90 mmHg (160 si ≥ 80 ans, *ESC 2018*)
@@ -193,7 +193,7 @@ Ferritinémie + CRP.
   - Par IEC (ou ARA2) ± thiazidique ou anticalcique
   - Automesure tensionnelle
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,7 g/L et réduction ≥ 50%
-  - {{< modal-btn modal-risque-cardiovasculaire >}}DFG < 30{{< /modal-btn >}}: LDL cible < 0,55 g/L et réduction ≥ 50%
+  - {{< modal-btn modal-rcv >}}DFG < 30{{< /modal-btn >}}: LDL cible < 0,55 g/L et réduction ≥ 50%
 - Si HTA
   - Régime désodé < 5 g/j (*KDIGO 2021*)
   - Activité physique d'intensité modérée ≥ 150 min/semaine (*KDIGO 2021*)
@@ -279,7 +279,7 @@ bilan --> 7(Avis néphro)
 - [HAS. Maladie rénale chronique de l’adulte. Guide du parcours de soins. Février 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
 
 {{%/collapse%}}
-{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-risque-cardiovasculaire"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 
@@ -292,5 +292,10 @@ bilan --> 7(Avis néphro)
 {{% modal title="Statines et réduction du LDL" id="modal-statine-intensite"%}}
 
 {{< traitements/statine-intensite >}}
+
+{{% /modal %}}
+{{% modal title="Clairance selon Cockroft" id="modal-score-cockroft"%}}
+
+{{< scores/cockroft >}}
 
 {{% /modal %}}

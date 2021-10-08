@@ -48,7 +48,7 @@ Rémission du diabète
 {{% /collapse %}}
 {{%collapse "Les points vitaux du diabète type 2" "show" %}}
 
-- Toute personne avec un diabète type 2 est à {{< modal-btn modal-risque-cardiovasculaire-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}}
+- Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}}
 - Arrêt du tabac
 - Hypertension artérielle
   - Seuil diagnostique ≥ 140/90 mmHg (160 après 80 ans, *ESC 2018*)
@@ -56,7 +56,7 @@ Rémission du diabète
   - ≥ 65 ans: 130-139/70-79 mmHg (*ESC 2018*)
 - LDL cible (*ESC 2019*)  
   - {{< modal-btn modal-statine-intensite >}}&lt; 0,7 g/L{{< /modal-btn >}}
-  - {{< modal-btn modal-statine-intensite >}}&lt; 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-risque-cardiovasculaire-diabete >}}maladie cardiovasculaire, > 20 ans d'évolution ou ≥ 3 autres FRCV{{< /modal-btn >}}
+  - {{< modal-btn modal-statine-intensite >}}&lt; 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-rcv-diabete >}}maladie cardiovasculaire, > 20 ans d'évolution ou ≥ 3 autres FRCV{{< /modal-btn >}}
 - Activité physique  
 **Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense).
 - Cible d'HbA1c  
@@ -235,7 +235,7 @@ window.onload = () => {
 {{< clinique/objectifs-hba1c >}}
 
 {{% /modal %}}
-{{% modal title="Diabète et RCV selon ESC 2019" id="modal-risque-cardiovasculaire-diabete"%}}
+{{% modal title="Diabète et RCV selon ESC 2019" id="modal-rcv-diabete"%}}
 
 {{< clinique/risque-cardiovasculaire-diabete >}}
 

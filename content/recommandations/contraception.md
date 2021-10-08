@@ -17,7 +17,7 @@ draft = false
 datatable = false
 image = false
 imageSrc = ""
-todo = "fiche patiente, https://www.has-sante.fr/jcms/p_3261764/fr/contraception, https://ansm.sante.fr/actualites/contraception-ou-en-sommes-nous, stérilisation, nb grossesses, ONU contraceptions pays, critères reconsult DIU"
+todo = "fiche patiente, https://www.has-sante.fr/jcms/p_3261764/fr/contraception, https://ansm.sante.fr/actualites/contraception-ou-en-sommes-nous, stérilisation, nb grossesses, ONU contraceptions pays, critères reconsult DIU, 5% dev HTA sous COP ESC 2018"
 +++
 
 *Rédaction en cours*
@@ -40,7 +40,7 @@ Le défaut d'observance est une des causes principales des IVG.
 **COC:** contraception orale combinée (ou œstroprogestative)  
 **COP:** contraception œstroprogestative  
 **EE:** éthinyl-estradiol  
-FRCV: 
+**FRCV:** facteur de risque cardiovasculaire  
 **GEU:** grossesse extra-utérine  
 **LNG:** lévonorgestrel  
 **MVTE:** maladie veineuse thromboembolique

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2021-10-03"
+lastmod = "2021-10-08"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESH", "ESC"]
@@ -16,28 +16,32 @@ sctid = "38341003"
 draft = false
 image = true
 imageSrc = "Illustration de l'hypertension artérielle par vectorjuice / Freepik"
-todo = "liens vers la fiche, HAS, Hypotension orthostatique, Le tensiomètre électronique dans modale, ESC 2018 tableau 4+19 - src157"
+todo = "liens vers la fiche, hypotension orthostatique, Le tensiomètre électronique dans modale, ESC 2018 tableau 4+19 - src157"
 +++
 
 Ces recommandations concernent l'adulte ≥ 18 ans.
 
 {{%article-summary%}}
 
+- Tout adulte doit être dépisté au moins tous les 5 ans (20% non traités)
 - Conditions de mesures strictes
 - Appareil validé (voir *Mesure au cabinet*)
 - Confirmer le diagnostic par mesures et automesure/MAPA répétées
-- Cibles tensionnelles selon le profil
-- *Chapitre en cours d'amélioration*
+- Recherche des complications, HTA secondaire et calcul du {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} avec le {{< scores/heartscore >}} (le LDL cible en découle)
+- Traitement selon le grade d'hypertension (voir *Définitions*) et RHD systématiques
+- Cibles tensionnelles selon le profil (120-129/70-79 mmHg avant 65 ans)
+- Objectif d'un seul comprimé combiné et informer sur les conséquences d'une HTA non traitée (accidents CV, démence)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Hypertension artérielle
-: Définie une pression artérielle systolique (PAS) ≥ 140 mmHg et/ou diastolique ≥ 90 mmHg au cabinet (135/85 mmHg en automesure et 130/80 mmHg en MAPA, *ESC 2018*).
+: Maladie chronique la plus fréquente définie une pression artérielle systolique (PAS) ≥ 140 mmHg et/ou diastolique ≥ 90 mmHg au cabinet (135/85 mmHg en automesure et 130/80 mmHg en MAPA, *ESC 2018*).
 : Premier facteur de morbi-mortalité modifiable dans le monde.  
-Elle augmente le risque de coronaropathie, AVC, fibrillation atriale, dégradation cognitive et démence.
-: La réduction de la systolique de 10 mmHg (et de 5 mmHg pour la diastolique) réduit le risque d'évènement CV de 20%, la mortalité de 10-15%, le risque d'AVC de 35%, de SCA de 20%, d'insuffisance cardiaque de 40%.
-: Principaux facteurs de non contrôle: défaut d'observance, inertie du médecin.
+La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance cardiaque, coronaropathie, AVC, fibrillation atriale, dégradation cognitive et démence.
+: La réduction de la systolique de 10 mmHg (et de 5 mmHg pour la diastolique) réduit le risque d'évènement CV de 20%, la mortalité de 10-15%, le risque d'AVC de 35%, de SCA de 20%, d'insuffisance cardiaque de 40%. Le traitement allonge l'espérance de vie.
+: 1 patient sur 2 est > 140/90 mmHg. Principaux facteurs de non contrôle: défaut d'observance et inertie du médecin.
+: Observance à 6 mois: 2/3, 1 an: 50%.
 
 {{< table title="Grades d'hypertension sur les mesures au cabinet à partir de 16 ans. Dr JB Fron d'après ESC 2018 et ESH 2021" >}}
 | Catégorie          | Systolique (mmHg) |       | Diastolique (mmHg) | Action |
@@ -59,16 +63,16 @@ Découverte ≥ 80 ans: traiter si ≥ grade 2.
 L'HTA systolique isolée et gradée selon la même échelle des valeurs systoliques.  
 Dépistage rapproché ≥ 50 ans.
 
-4 situations après la réalisation des mesures standardisées et ambulatoires (AMT et/ou MAPA):
+4 situations après la réalisation des mesures standardisées et au domicile (AMT et/ou MAPA):
 
 1. Normotendu  
 Pressions au cabinet et ambulatoires normales. Rythme de surveillance selon le tableau ci-dessus.
 2. Hypertension "permanente"  
 Hypertension au cabinet et au domicile. Traitement selon tableau ci-dessus.
 3. Hypertension blouse blanche (15-25%)  
-Hypertension au cabinet et absente au domicile. RHD et dépistage annuel. Envisager un traitement en {{%modal-btn "modal-risque-cardiovasculaire"%}}risque cardiovasculaire élevé ou très élevé{{%/modal-btn%}}
+Hypertension au cabinet et absente au domicile. RHD et dépistage annuel. Envisager un traitement en {{%modal-btn "modal-rcv"%}}risque cardiovasculaire élevé ou très élevé{{%/modal-btn%}}
 4. Hypertension masquée (10-20%)  
-Hypertension absente au cabinet et observée au domicile. RHD et traitement.
+Hypertension absente au cabinet et observée au domicile. RHD et traitement selon le grade de l'hypertension.
 
 Hypertension artérielle résistante
 : Pressions mesurées au cabinet ≥ 140/90 mmHg et confirmées au domicile malgré un traitement optimal et bien suivi avec RHD + ≥ 3 traitements à doses maximales tolérées (IEC/ARA2, TZD, ICa).  
@@ -78,14 +82,18 @@ Elle atteint < 10% des patients.
 ### Abréviations
 
 **AMT:** automesure tensionnelle ({{%lang%}}home BP monitoring HBPM{{%/lang%}})  
+**ARA2:** antagoniste des récepteurs de l'angiotensine II  
 **CV:** cardiovasculaire  
 **ECG:** électrocardiogramme  
 **FRCV:** facteur de risque cardiovasculaire  
+**ICa:** inhibiteur calcique  
+**IEC:** inhibiteur de l'enzyme de conversion de l'angiotensine  
 **MAPA:** mesure ambulatoire de la pression artérielle ({{%lang%}}ambulatory BP monitoring ABPM{{%/lang%}})  
 **MCV:** maladie cardiovasculaire  
 **PAD:** pression artérielle diastolique  
 **PAS:** pression artérielle systolique  
-**RHD:** régime hygiéno-diététiques, sous-entendu: mode de vie
+**RHD:** régime hygiéno-diététiques (ou mode de vie)  
+**TZD:** diurétique thiazidique
 
 ### Épidémiologie
 
@@ -190,16 +198,15 @@ L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hyp
 {{< table title="Synthèse des objectifs tensionnels selon le profil du patient. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
 | Population          | Objectif (mmHg) | Source |
 |---------------------|----------------:|------------|
-| Cible minimale      | &le; 140/90     | ESC 2018   |
+| Cible minimale      | &lt; 140/90     | ESC 2018   |
 | &lt; 65 ans         | 120-129/70-79   | ESC 2018   |
 | &ge; 65 ans         | 130-139/70-79   | ESC 2018   |
 | AIT/AVC             | idem générale   | ESC 2018   |
 | AOMI                | 120-140/90      | ESC 2017 LEAD |
 | Diabète (type 1 ou 2) | idem générale | ESC 2018 |
-| Insuffisance cardiaque | 120-140/90   | ESC 2016 HF |
-| Insuffisance cardiaque &ge; 75 ans | 120/90 | ESC 2016 HF |
-| Insuffisance rénale | 120/90     | KDIGO 2021 |
-| Greffe rénale       | 130/80     | KDIGO 2021 |
+| Insuffisance cardiaque | &lt; 140/90 (comorbidités) | ESC 2021 HF |
+| Insuffisance rénale | &lt; 120/90     | KDIGO 2021 |
+| Greffe rénale       | &lt; 130/80     | KDIGO 2021 |
 {{< /table >}}
 
 > Une PAD 70-79 mmHg doit être considérée pour tout hypertendu.
@@ -220,7 +227,8 @@ Détail sur la page dédiée de chaque chapitre concerné.
   - Alimentation, sel
   - Alcool
   - Niveau d'activité physique, sédentarité
-  - Dysfonction érectile
+  - Dysfonction érectile  
+  Aggravée par TZD et BB. IPDE5 sans risque sauf dérivés nitrés ou alpha-bloquant.
   - Rechercher des apnées du sommeil
 - Signes cardiovasculaires
   - Céphalées, vertiges, syncopes, troubles de la vision, régression cognitive
@@ -231,17 +239,21 @@ Détail sur la page dédiée de chaque chapitre concerné.
   - HTA grade 2-3 chez < 40 ans, apparition/aggravation rapide
   - Infections urinaires récidivantes
   - Drogues, corticoïdes, sprays nasaux, automédication, contraception, chimiothérapie, yohimbine, réglisse
-  - Épisodes répétés de sueurs - céphalées - palpitations
-  - Hypokaliémies spontanées ou sous diurétiques, fatigue musculaire, tétanie
+  - Phéochromocytome  
+  Épisodes répétés de sueurs - céphalées - palpitations.
+  - Hyperaldostéronisme primaire  
+  *Hypokaliémies* spontanées ou sous diurétiques, fatigue musculaire, tétanie.
+  - Syndrome de Cushing  
+  Faciès lunaire et rouge, obésité tronculaire et bosse de bison, fonte musculaire et fatigue, atrophie cutanée et ecchymoses faciles, vergetures pourpres, retard de cicatrisation, doigts très minces, hirsutisme, troubles de l'humeur, dysménorrhées, corticoïdes chroniques.
   - Dysthyroïdie
-  - Grossesse en cours ou contraception
+  - Grossesse en cours ou contraception œstroprogestative (5% développent une HTA)
   - Apnées du sommeil
 
 ### Examen clinique
 
 - Poids, taille, IMC, tour de taille
 - Comparaison de la pression artérielle aux 2 bras
-- Examen neurologique et cognitif
+- Examen neurologique et cognitif (MMSE)
 - Palpation et auscultation des trajets artériels
 - Tâches café au lait
 - Contact lombaire
@@ -266,11 +278,11 @@ Bilan après jeûne de 12 heures:
 1. Confirmer le diagnostic par automesure/MAPA
 1. Noter dans le dossier les valeurs pré-traitement et le grade de l'hypertension (voir *Définitions*)
 1. Rechercher une *maladie cardiovasculaire* (MCV) et des complications de l'hypertension  
-    - *ECG*, *Fond d'œil* (grade 2-3, diabète...), {{< modal-btn modal-depistage-prevalent >}}recherche d'AOMI{{< /modal-btn >}}
+    - *ECG 12D*, *Fond d'œil* (grade 2-3, diabète...), {{< modal-btn modal-depistage-prevalent >}}recherche d'AOMI{{< /modal-btn >}}
     - Échocardiographie si anomalie ECG ou suspicion d'HVG
     - Échodoppler des artères rénales si atteinte rénale ou suspicion d'HTA secondaire
     - IRM cérébrale si déclin cognitif, antécédent familial d'hémorragie cérébrale à l'âge moyen ou de démence précoce
-1. Définir le {{%modal-btn "modal-risque-cardiovasculaire"%}}risque cardiovasculaire{{%/modal-btn%}}.  
+1. Définir le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}}.  
 En l'absence de MCV, calculer le risque {{< scores/heartscore >}}.
 1. Adresser au service d'hypertension: HTA secondaire ou résistante, < 40 ans avec grade 2+, HTA d'installation rapide...
 
@@ -287,39 +299,73 @@ Cible < 94 cm homme et 80 cm femme.
 - Activité physique quotidienne  
 ≥ 30 minutes d'intensité modérée ≥ 5j/7
 - Arrêt du tabac
+- {{%modal-btn "modal-rcv"%}}LDL cible selon le risque cardiovasculaire{{%/modal-btn%}}
+- Pas de bénéfice avec l'aspirine en prévention primaire
+- Associations de patients  
+[Comité Français de Lutte Contre l’Hypertension Artérielle (CFLCHTA)](http://www.comitehta.org/), [Fédération Française de Cardiologie](http://www.fedecardio.com/).
 
 > *ESC 2018*
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
+- Toujours associé aux mesures hygiéno-diétetiques et surveillance de l'observance
 - Privilégier d'emblée une bithérapie en essayant de conserver un seul comprimé  
 Préférer une monothérapie si PAS < 150 mmHg ou ≥ 80 ans.
-- Le traitement pris le soir est plus efficace (TODO: *Chronotrial*)  
+- Le traitement pris le soir est plus efficace (*[ChronoTrial](https://doi.org/10.1093/eurheartj/ehz754)*)  
 Le principal: le traitement doit être pris.
 - Pas d'arrêt sur le critère d'âge isolé
 - Les bêtabloquants sont privilégiés en maladie cardiovasculaire (insuffisance cardiaque, angor, infarctus, FA) ou grossesse
+- Suivi tous les 3-6 mois
+- Surveillance biologique (*HAS 2016*)
+  - Annuelle: ionogramme, créatininémie, microalbuminurie
+  - Tous les 3 ans: glycémie à jeun, bilan lipidique, ECG (3-5 ans)
+- Réévaluation des complications au minimum tous les *2 ans*
 
 ### Traitement de 1<sup>re</sup> intention
 
 Traitement au choix parmi:
 
-<button class="chip" type="button" data-toggle="modal" data-target="#">IEC + TZD</button>
-<button class="chip" type="button" data-toggle="modal" data-target="#">IEC + ICa</button>
-<button class="chip" type="button" data-toggle="modal" data-target="#">ARA2 + TZD</button>
-<button class="chip" type="button" data-toggle="modal" data-target="#">ARA2 + ICa</button>
+<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-iec">IEC + TZD</button>
+<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-iec">IEC + ICa</button>
+<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + TZD</button>
+<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + ICa</button>
 
-Intérêt de l'éducation thérapeutique pour maximiser l'observance.
+- Chez le sujet noir: <a href="#modal-tzd-ica" data-toggle="modal">TZD + ICa</a> aussi possible
+- Intérêt de l'éducation thérapeutique pour maximiser l'observance
+- Réévaluation sous 2 mois, mensuelle les 6 premiers mois (*HAS 2016*)  
+{{%class%}}Réduction de la PA en 1-2 semaines après l'introduction du traitement, pouvant aller jusqu'à 2 mois.{{%/class%}}
 
 ### Traitement de niveau 2
 
-IEC/ARA2 + TZD + ICa en 1 seul comprimé.
+<a href="#modal-triple" data-toggle="modal">IEC/ARA2 + TZD + ICa</a> en 1 seul comprimé.
 
 ### Traitement de niveau 3
 
 Hypertension résistante: avis spécialisé + RHD rappelées + ajout de spironolactone 25-50 mg/j (ou autre diurétique, alpha ou bêtabloquant).
 
 > Éliminer: défaut d'observance, effet blouse blanche, mesures non standardisées, calcifications des artères brachiales, inertie du médecin, apnées du sommeil, consommation de sel, HTA secondaire, maladie rénale.
+
+### Améliorer l'observance
+
+Éléments pouvant favoriser l'observance:
+
+- Côté médecin
+  - Informer sur les conséquences de l'hypertension et donc les raisons et bénéfices du traitement et des RHD
+  - Autonomisation du patient
+  - Renforcer le comportement en informant sur l'amélioration des paramètres cliniques
+  - Réévaluer les freins à la prise du traitement
+  - Collaborer avec infirmiers et pharmaciens
+- Côté patient
+  - Automesure tensionnelle
+  - Sessions de groupe
+  - Stratégies de changement
+  - Auto-gestion
+  - Utilisation de rappels
+  - Soutien de l'entourage et de soignants
+- Traitement
+  - Objectif d'un comprimé unique
+  - Emballage façon pilulier
 
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}
@@ -330,11 +376,13 @@ Hypertension résistante: avis spécialisé + RHD rappelées + ajout de spironol
 {{%collapse "Sources" %}}
 
 - [Stergiou GS et al. 2021 European Society of Hypertension practice guidelines for office and out-of-office blood pressure measurement. J Hypertens. 2021;39(7):1293-1302.](https://doi.org/10.1097/hjh.0000000000002843)
-- [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. Volume 99. Issue 3. 559 - 569.](https://doi.org/10.1016/j.kint.2020.10.026)
+- [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. Volume 99. Issue 3. 559-569.](https://doi.org/10.1016/j.kint.2020.10.026)
 - {{< references/esc-hta >}}
+- [HAS, SFHTA. Prise en charge de l'hypertension artérielle de l'adulte. Fiche mémo. Septembre 2016.](https://www.has-sante.fr/jcms/c_2059286/fr/prise-en-charge-de-l-hypertension-arterielle-de-l-adulte)
+- [SFHTA. Hypertension artérielle du sujet noir. Décembre 2017.](https://www.sfhta.eu/wp-content/uploads/2018/10/SFHTA_Fiche_technique_HTA-du-sujet-noir_Decembre-2017.pdf)
 
 {{% /collapse %}}
-{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-risque-cardiovasculaire"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 
@@ -347,5 +395,25 @@ Hypertension résistante: avis spécialisé + RHD rappelées + ajout de spironol
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}
 
 {{< traitements/regime-mediterraneen >}}
+
+{{% /modal %}}
+{{% modal title="IEC dans l'hypertension" id="modal-iec" size="lg"%}}
+
+{{< traitements/iec >}}
+
+{{% /modal %}}
+{{% modal title="ARA2 dans l'hypertension" id="modal-ara2" size="lg"%}}
+
+{{< traitements/ara2 >}}
+
+{{% /modal %}}
+{{% modal title="Trithérapie dans l'hypertension" id="modal-triple"%}}
+
+{{< traitements/hta-tritherapie >}}
+
+{{% /modal %}}
+{{% modal title="Association TZD + ICa dans l'hypertension" id="modal-tzd-ica"%}}
+
+{{< traitements/hta-tzd-ica >}}
 
 {{% /modal %}}

@@ -85,7 +85,7 @@ Examen clinique annuel en cas de DE avec :
 testicules (taille, consistance), pénis (prépuce, frein, phimosis, déformation, taille, mycose), toucher rectal après 50 ans, gynécomastie  
 - Cardio-vasculaire  
 Pression artérielle, pouls périphériques, souffles vasculaires.  
-Évaluation du {{< modal-btn modal-risque-cardiovasculaire >}}risque cardiovasculaire{{< /modal-btn >}} ({{< scores/heartscore >}})
+Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ({{< scores/heartscore >}})
 - Neurologique  
 Centré sur ROT, RCP, sensibilité des pieds, anesthésie en selle et des membres inférieurs, hypotension orthostatique.
 
@@ -186,10 +186,9 @@ Examen clinique de suivi annuel.
 - [Colson M.H et al. La dysfonction érectile du diabétique. Sexologies Janvier 2018.](https://www.sciencedirect.com/science/article/pii/S1158136018300112?via%3Dihub)
 - [Nehra A et al. The Princeton III Consensus Recommendations for the Management of Erectile Dysfunction and Cardiovascular Disease. Mayo Clinic Proceedings. 1 août 2012;87(8):766‑78.](https://www.mayoclinicproceedings.org/article/S0025-6196(12)00635-0/abstract)
 - [Cuzin B. et al, AIUS. Recommandations aux médecins généralistes pour la prise en charge de première intention de la dysfonction érectile. 2010.](https://ur.booksc.eu/book/17263369/eede54)
-- [La Revue Prescrire](https://www.prescrire.org/fr/)
 
 {{%/collapse%}}
-{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-risque-cardiovasculaire"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 
