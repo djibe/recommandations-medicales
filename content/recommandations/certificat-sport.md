@@ -6,15 +6,16 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-08T20:02:41+02:00
 publishdate = 2020-10-08
-lastmod = 2021-10-05
+lastmod = 2021-10-11
 specialites = ["certificats"]
 annees = "2021"
-sources = ["CNOM", "JO"]
+sources = ["JO", "SFC"]
 tags = ["certificat"]
 anglais = []
 sctid = ""
 draft = false
-todo = "modal intensité activité, type 1A (sources 12-13), indication ecg et ecomp, quel examen clinique, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/guide_aps_chapitre_6_la_consultation_medicale_ap.pdf, https://www.sfcardio.fr/sites/default/files/2019-10/2009-SFC-Recommandations%20contenu%20bilan%20cardiovasculaire%20visite%20de%20non%20contre-indication%20sport.pdf"
+chart = true
+todo = "Bio > 35 ans, modal intensité activité, type 1A (sources 12-13), indication ecg et ecomp, quel examen clinique, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/guide_aps_chapitre_6_la_consultation_medicale_ap.pdf, tableau de Marijon Circ 2013"
 image = true
 imageSrc = "Le certificat du sportif. Photo de Foter.com"
 +++
@@ -43,10 +44,45 @@ Les autres années, le licencié (ou son représentant légal) renseigne un ques
 Mort subite du sportif
 : Environ 1000 cas/an. Elle atteint quasi exclusivement des hommes (95%) d'âge moyen (50 ans en moyenne) avec une pratique de loisir (5% de jeunes athlètes, 15-20/an).
 : Le risque de mort subite d'une femme (5% des cas) est infime (30x inférieure à 45-54 ans).
-: La cause n'est pas retrouvée dans 75% des cas (manque d'autopsies). Elle est principalement coronaire (75%) et inaugurale pour la moitié; et aussi cardiopathie non ischémique (15-20%), troubles du rythme (5-10%).  
+: La cause n'est pas retrouvée dans 75% des cas (manque d'autopsies). Elle est principalement coronaire (75%) et inaugurale pour la moitié; et aussi cardiopathie non ischémique (15-20%), troubles du rythme (5-10%). Avant 35 ans, la 1re cause est la cardiomyopathie hypertrophique.    
 \> 50% avaient eu des symptômes typiques dans le mois qui précède.
-: La survie sans séquelles dépend énormément de la formation de la population au massage cardiaque (> 90% dans le Nord, 10-20% en France). 300-400 décès pourraient être évités chaque année avec les gestes de 1<sup>er</sup> secours.
+: 93% des cas surviennent en présence d'un témoin mais il ne réanime que dans 31% des cas.  
+La survie sans séquelles dépend énormément de la formation de la population au massage cardiaque (> 90% dans le Nord, 10-20% en France). 300-400 décès pourraient être évités chaque année avec les gestes de 1<sup>er</sup> secours.
   > *Marijon 2021*
+
+<div id="chart" class="border alert mt-5"></div>
+<script>
+const chartOptions = {
+  series: [{
+    name: 'Femmes',
+    data: [0.39, 0.47, 0.5, 0.49, 0.67, 0.62]
+  }, {
+    name: 'Hommes',
+    data: [4.01, 6.53, 10.18, 14.81, 17.46, 8.5]
+  }],
+  chart: { height: 280 },
+  title: { text: 'Incidence de la mort subite chez le sportif' },
+  dataLabels: { enabled: false },
+  xaxis: {
+    categories: ['15-24', '25-34', '35-44', '45-54', '55-64', '65-75'],
+    title: { text: 'Tranche d\'âge' },
+  },
+  yaxis: {
+    title: { text: 'Incidence annuelle par million de participants' },
+    decimalsInFloat: 0
+  },
+  fill: { opacity: 1 },
+  tooltip: {
+    y: {
+      formatter: function (val) {
+        return val + " morts subites/million"
+      }
+    }
+  }
+}
+</script>
+
+> {{%class "typography-body-2 text-black-secondary" %}}Figure. Incidence moyenne annuelle de la mort subite du sportif par million de sportifs selon l'âge et le sexe. Se référer à l'article pour l'intervalle de confiance. Dr JB Fron d'après Marijon E. 2013.{{%/class%}}
 
 ### Abréviations
 
@@ -90,16 +126,30 @@ L'inscription à une *compétition* nécessite la présente d'une license sporti
 ### Signes d'appel chez le sportif
 
 - Baisse récente des performances
-- Sensation de bridage
+- Sensation de limitation
 {{%/warning%}}
 
-- Examen clinique cardio-vasculaire +++
+- Activité  
+Type, fréquence, intensité, niveau.
+- Antécédents familiaux  
+Cardiopathie, mort subite.
+- Antécédents personnels
+- Facteurs de risque cardiovasculaire
+- Vaccinations
+- Examen clinique rachis et cardio-vasculaire +++
+- Contre-indications
+  - Cardiomyopathie, myocardite (temporaire)
+  - Sport de combat. Myopie forte, organe pair unique. Avis ophtalmo.
+  - Plongée. Antécédent de pneumothorax, troubles ORL
 - Intérêt de l'ECG de repos 12D de 12 à 35 ans
+  - Compétition 12-20 ans: tous les 3 ans (*SFC*)
+  - Compétition 20-35 ans: tous les 5 ans (*SFC*)
+  - Intérêt de l'épreuve d'effort ≥ 35 ans
 - Éducation (voir *Information des sportifs*)
 - Enquête familiale  
 Indications: mort subite chez ≤ 45 ans ou cause héréditaire avérée.
 - Porteur de défibrillateur  
-Seuls les sports de type 1A sont autorisés (bowling, gold, pétanque).
+Seuls les sports de type 1A sont autorisés (bowling, golf, pétanque).
 
 ### Indications à l'épreuve d'effort (EE)
 
@@ -123,7 +173,7 @@ L'épreuve d'effort est menée jusqu'à épuisement (et non à 80% de la FMT).
 {{% /collapse %}}
 {{%collapse "Information des sportifs" %}}
   
-> << Appeler - masser - défibriller >>  
+> << Appeler - masser - défibriller >> (93% des morts subites au sport arrivent devant témoin)  
 [FédéCardio: Savez-vous sauver ?](https://fedecardio.org/je-me-teste/savez-vous-sauver/)
 
 Informer sur les 10 règles d'or:
@@ -143,7 +193,7 @@ Informer: les microbes ne sont pas éliminés par la sueur.
 > [ClubCardioSport. Les 10 règles d'or. Argumentaire.](https://www.clubcardiosport.com/sites/www.clubcardiosport.com/files/inline-files/argu_scientifique.pdf)
 
 {{% /collapse %}}
-{{%collapse "FMC gratuite" %}}
+{{%collapse "FMC gratuites" %}}
 
 {{< card-link title="Documentation des Cardiologues du Sport" url="https://www.clubcardiosport.com/documentation" subtitle="Club Cardio Sport'">}}
 
@@ -157,20 +207,23 @@ Informer: les microbes ne sont pas éliminés par la sueur.
 - [Marijon E. et al. Prévention de la mort subite du sportif : état des lieux. Archives des Maladies du Coeur et des Vaisseaux - Pratique. Volume 2021. Issue 299. Pages 2-9.](https://doi.org/10.1016/J.AMCP.2021.04.003)
 - [Journal Officiel. Décret 2021-564. 07/05/2021.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486809)
 - [CNOM. Certificats de non contre-indication à la pratique du sport. Médecins n°69. sept-oct 2020](https://www.conseil-national.medecin.fr/sites/default/files/external-package/bulletin/m05mhm/medecins_69.pdf)
+- [Marijon E et al. Characteristics and Outcomes of Sudden Cardiac Arrest During Sports in Women. Circ Arrhythm Electrophysiol. 2013 Dec;6(6):1185-91.](https://doi.org/10.1161/circep.113.000651)
+- [Marijon E et al. Incidence of Sports-Related Sudden Death in France by Specific Sports and Sex. JAMA. 2013;310(6):642–643.](https://jamanetwork.com/journals/jama/fullarticle/1728703)
+- [Marijon E et al. Sports-Related Sudden Death in the General Population. Circulation. 2011 Aug 9;124(6):672-81.](https://doi.org/10.1161/CIRCULATIONAHA.110.008979)
+- [SFC. Recommandations concernant le contenu du bilan cardiovasculaire de la visite de non contre indication à la pratique du sport en compétition entre 12 et 35 ans.](https://www.sfcardio.fr/publication/recommandations-concernant-le-contenu-du-bilan-cardiovasculaire-de-la-visite-de-non)
 - [CNOM. Certificats de non contre indication à la pratique du sport](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificats-indication-pratique-sport)
 - [Club des Cardiologues du Sport](https://www.clubcardiosport.com/)
+- [Dr Augé D. Visite de CNCI.](https://www.hjd.asso.fr/sites/default/files/Visite%20de%20non%20contre-indication%20%C3%A0%20la%20pratique%20sportive%20V2.pdf)
 
 ### Non encore lues
 
-- [Marijon E. Sports-Related Sudden Death in the General Population.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.110.008979?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
-- [Marijon E. Characteristics and Outcomes of Sudden Cardiac Arrest During Sports in Women.](https://www.ahajournals.org/doi/10.1161/CIRCEP.113.000651?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
-- [Marijon E. Incidence of Sports-Related Sudden Death in France by Specific Sports and Sex.](https://jamanetwork.com/journals/jama/fullarticle/1728703)
 - [Recommendations for competitive sports participation in athletes with cardiovascular disease: A consensus document from the Study Group of Sports Cardiology of the Working Group of Cardiac Rehabilitation and Exercise Physiology and the Working Group of Myocardial and Pericardial Diseases of the European Society of Cardiology.](https://academic.oup.com/eurheartj/article/26/14/1422/560900)
 - [Recommendations for participation in leisure-time physical activity and competitive sports of patients with arrhythmias and potentially arrhythmogenic conditions Part II: Ventricular arrhythmias, channelopathies and implantable defibrillators.](https://academic.oup.com/eurjpc/article/13/5/676/5933252)
 - [Eligibility and Disqualification Recommendations for Competitive Athletes With Cardiovascular Abnormalities: Preamble, Principles, and General Considerations: A Scientific Statement From the American Heart Association and American College of Cardiology.](https://www.sciencedirect.com/science/article/pii/S0735109715065481?via%3Dihub)
 - [Recommendations for participation in leisure-time physical activity and competitive sports of patients with arrhythmias and potentially arrhythmogenic conditions. Part 2: ventricular arrhythmias, channelopathies, and implantable defibrillators: A position statement of the Section of Sports Cardiology and Exercise from the European Association of Preventive Cardiology (EAPC) and the European Heart Rhythm Association (EHRA), both associations of the European Society of Cardiology.](https://academic.oup.com/europace/article/23/1/147/5864077)
-- [ECGClic. Certificat de non contre-indication à la pratique du sport.](https://ecgclic.fr/wp-content/uploads/Certificat-de-non-contre-indication-%C3%A0-la-pratique-du-sport.pdf)
-- [Augé D. Visite de CNCI.](https://www.hjd.asso.fr/sites/default/files/Visite%20de%20non%20contre-indication%20%C3%A0%20la%20pratique%20sportive%20V2.pdf)
+- MET: https://www.ncbi.nlm.nih.gov/pubmed/16551711
+- METs: https://www.ncbi.nlm.nih.gov/pubmed/8232456
+- https://medical.ffessm.fr/actualites/recommandations-de-bonnes-pratiques-suivi-medical-du-plongeur
 
 {{% /collapse %}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-risque-cv"%}}
