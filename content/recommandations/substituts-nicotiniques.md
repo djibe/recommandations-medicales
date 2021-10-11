@@ -16,7 +16,7 @@ sctid = "776904000"
 qualite = "bonne"
 draft = false
 image = true
-imageSrc = "Illustration de freepik - www.freepik.com"
+imageSrc = "Illustration de Freepik"
 todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests_fagerstrom.pdf"
 +++
 

@@ -6,11 +6,11 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-23T22:24:41+02:00
 publishdate = 2020-10-23
-lastmod = 2021-08-23
+lastmod = 2021-10-11
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "EULAR", "ACR"]
-tags = ["polyarthrite", "anti-TNF", "methotrexate"]
+tags = ["polyarthrite", "anti-TNF", "methotrexate", "vaccin"]
 anglais = ["Rheumatoid arthritis"]
 sctid = "69896004"
 draft = false
@@ -134,7 +134,7 @@ L’examen clinique a une place primordiale dans la détection et le traitement 
 
 Selon le contexte:
 
-- Sérologie de borréliose (Maladie de Lyme)
+- Sérologie de borréliose ([Maladie de Lyme]({{< relref "maladie-lyme.md" >}}))
 - Uricémie
 - Ponction et culture de liquide synovial
 
@@ -168,9 +168,8 @@ Gérer la douleur, handicap, observance, maintien de l’activité professionnel
 - Correction des facteurs de risque cardiovasculaire
   - Risque {{< scores/heartscore >}}
   - Activité physique régulière
-  - Régimé méditerranéen
-  - Echodoppler des TSA  
-  Classer à haut risque CV si plaques carotidiennes.
+  - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
+  - Échodoppler des TSA
 - Association de patients  
 [AFPric](https://www.polyarthrite.org/), [ANDAR](http://www.polyarthrite-andar.com/)
 - Proposer un soutien psychologique
@@ -312,6 +311,11 @@ graph TB
 
 {{% /collapse %}}
 <!-- Modal -->
+{{% modal title="Régime méditerranéen" id="modal-regime"%}}
+
+{{< traitements/regime-mediterraneen >}}
+
+{{% /modal %}}
 {{% modal title="Vaccination anti-pneumococcique" id="modal-vaccin-pneumocoque"%}}
 
 {{< traitements/vaccin-pneumocoque >}}

@@ -1,8 +1,13 @@
 @import '../css/material-purge';
 
-html,
+html {
+  height: -webkit-fill-available;
+}
+
 body {
-  height: 100vh;
+  min-height: 100vh;
+  /* mobile viewport bug fix */
+  min-height: -webkit-fill-available;
 }
 
 a {
@@ -886,7 +891,12 @@ input[type="search"]::-webkit-search-results-decoration {
     margin-top: 0 !important;
   }
 
+  a[target='_blank'] {
+    color: initial;
+  }
+
   a[target='_blank']::after {
+    color:rgba(0, 0, 0, 0.6);
     content: attr(href) !important;
   }
 

@@ -15,7 +15,7 @@ anglais = ["Chronic disease"]
 sctid = "27624003"
 draft = false
 image = false
-imageSrc = "Illustration par pch.vector / freepik.com"
+imageSrc = "Illustration par pch.vector / Freepik"
 todo= "TODO: summary, Affections psychiatriques de longue durée"
 +++
 

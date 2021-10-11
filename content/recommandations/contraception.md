@@ -20,11 +20,10 @@ imageSrc = ""
 todo = "fiche patiente, https://www.has-sante.fr/jcms/p_3261764/fr/contraception, https://ansm.sante.fr/actualites/contraception-ou-en-sommes-nous, stérilisation, nb grossesses, ONU contraceptions pays, critères reconsult DIU, 5% dev HTA sous COP ESC 2018"
 +++
 
-*Rédaction en cours*
-
 {{%article-summary%}}
 
-- Contraception gratuite jusqu'à 25 ans (au 1<sup>er</sup> janvier 2022. 15 ans actuellement)
+- *Rédaction du chapitre en cours*
+- Contraception gratuite jusqu'à 25 ans (au 1<sup>er</sup> janvier 2022, 15 ans actuellement)
 - Informations sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
 - [g-oubliemapilule.com](http://g-oubliemapilule.com/)
 
@@ -33,7 +32,7 @@ todo = "fiche patiente, https://www.has-sante.fr/jcms/p_3261764/fr/contraception
 
 On parle de COC  (contraception orale combinée) = COP (contraception œstroprogestative).
 
-Le défaut d'observance est une des causes principales des IVG.
+Le défaut d'observance est l'une des causes principales des grossesses non planifiées.
 
 ### Abréviations
 
@@ -82,7 +81,6 @@ La contraception progestative seule (pilule, implant, DIU) ne modifie pas le ris
 {{< table title="Spécialités de contraception disponibles en France par le Dr JB FRON" >}}
 | Type        | EE (µg) | Progestatif (mg) | Spécialités |
 |-------------|---------:|------------------|-------------|
-| 1G          | 35       | Noréthistérone 0,5-0,75-1 | Triella |
 | 2G          | 50       | Norgestrel 0,5   | Stédiril      |
 | 2G          | 30/40    | LNG 0,15-0,2     | Adepal, Pacilia |
 | 2G          | 30/40/30 | LNG 0,05-0,075-0,125 | Trinordiol, Daily ge, Evanecia, Amarance |

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-14T23:30:41+02:00
 publishdate = 2020-04-14
-lastmod = 2021-05-31
+lastmod = 2021-10-08
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["ANSM", "HAS"]
@@ -22,9 +22,11 @@ todo = "https://www.scientificanimations.com/wp-content/uploads/2019/05/Hypothyr
 
 {{%article-summary%}}
 
-- Pas de dépistage systématique en population générale.
-- Doser la TSH seule en cas de symptômes évocateurs.
-- Traitement par LT: dosage de la TSH à 6 semaines et adaptation par paliers de 12 µg toutes les 6 à 12 semaines sur critères clinico-TSH.
+- Pas de dépistage systématique en population générale
+- Doser la TSH seule en cas de symptômes évocateurs
+- Traitement par LT: dosage de la TSH à 6 semaines et adaptation par paliers de 12 µg toutes les 6 à 12 semaines sur critères clinico-TSH
+- Hashimoto: rechercher une maladie cœliaque associée
+- Prochaines recommandations HAS en 2022
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -36,22 +38,16 @@ La TSH est élevée et la T4L basse.
 : **Les principales causes sont auto-immune et iatrogène** (médicament, radiothérapie).
 : **Pas de dépistage systématique de l’hypothyroïdie en population générale.**
 : On la distingue de l'**[hypothyroïdie fruste ou infraclinique]({{< relref "hypothyroidie-fruste.md" >}})** où la **TSH est élevée de façon isolée**.
+: L'hypothyroïdie atteint 5% de la population, dont ⅔ de femmes et 10% des sujets âgés.
 
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
-
-L'hypothyroïdie atteint 5% de la population, dont ⅔ de femmes et 10% des sujets âgés.
-
-{{% /collapse %}}
-{{%collapse "Facteurs favorisants l'hypothyroïdie" %}}
+### Facteurs favorisants l'hypothyroïdie
 
 - Post-partum
 - Antécédents personnels ou familiaux auto-immuns (ex. [Maladie coeliaque]({{< relref "maladie-coeliaque.md" >}}))
 - Irradiation cervicale
 - Trisomie 21 et Syndrome de Turner
 
-{{% /collapse %}}
-{{%collapse "Étiologie" %}}
+### Étiologie
 
 - **Thyroïdite lymphocytaire chronique de Hashimoto**  
   Forme hypertrophique prédominant chez la femme.  
@@ -59,34 +55,30 @@ L'hypothyroïdie atteint 5% de la population, dont ⅔ de femmes et 10% des suje
   Anticorps anti-TPO à taux élevés et aspect échographiques caractéristiques.  
   Aggravation progressive avec diminution du volume de la glande et du taux des AC.  
   Favorise la maladie cœliaque (dépister systématiquement) et le lymphome thyroïdien (rare, < 1 % des cas).
-
 - Thyroïdite chronique  
   Souvent asymptomatique, euthyroïdie  
   Taux élevé d'anticorps circulants, parenchyme hétérogène  
   Surveillance clinique et TSH annuelle.
-
 - Thyroïdite lymphocytaire chronique atrophique  
   Fréquente, féminine, post-ménopausique++  
   Ressemble au Hashimoto mais avec thyroïde de taille normale/diminuée.  
   Anticorps anti-TPO+ (75%) et anti-TG+ (50%).  
   Aggravation progressive comparable au Hashimoto.
-
 - Thyroïdite subaiguë de De Quervain ou virale  
   Dans les suites d'une infection respiratoire : syndrome grippal, inflammatoire avec un goitre ferme et douloureux.  
   Phase de thyrotoxicose puis hypothyroïdie le plus souvent transitoire.  
-
 - Thyroïdite transitoire  
   Thyrotoxicose pauci-symptomatique puis hypothyroïdie séquellaire dans 20 % des cas.
-
 - Thyroïdite du post-partum  
 Fréquente (5-10 % des femmes), survient dans l'année, surtout si diabète type 1 ou taux élevés d'AC antithyroïdiens au 1er trimestre. Récidive dans 70 % des cas à la grossesse suivante.  
 Souvent transitoire (70 %), contrôle TSH à 1 an.  
 Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le 2e mois post-partum (reprise rapide du poids normal, nervosité).  
-
 - Autres causes
-  - Iatrogène. Médicaments ou traitement thyroïdien par iode 131, thyroïdectomie et radiothérapie cervicale
+  - Iatrogène  
+  Médicaments ou traitement thyroïdien par iode 131, thyroïdectomie et radiothérapie cervicale.
   - Hémochromatose
-  - Alimentaire. Manioc, cassave
+  - Alimentaire  
+  Manioc, cassave.
   - Polluants
 
 {{% /collapse %}}
@@ -94,11 +86,11 @@ Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le
 
 ### Interrogatoire
 
-- ATCD personnels  
-  Zone d'endémie de carence, polyarthrite rhumatoïde, insuffisance surrénalienne.
+- Antécédents personnels  
+  Zone d'endémie de carence, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), insuffisance surrénale.
 - Cause transitoire  
   Accouchement, iode 131, thyroïdectomie partielle, douleurs cervicales récentes.
-- ATCD familiaux (auto-immuns ++)
+- Antécédents familiaux (auto-immuns ++)
 - Traitements
   Amiodarone, lithium, IFNa, inhibiteurs tyrosine kinase, iode 131, radiothérapie cervicale, thyroïdectomie.
 - Symptômes
@@ -106,7 +98,7 @@ Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le
 ### Examen clinique
 
 - Palpation thyroïdienne  
-  Souvent ferme et hétérogène, pseudo-nodulaire, taille variable, goitre (maladie de Hashimoto) ou atrophique (thyroïdite).
+  Souvent ferme et hétérogène, pseudo-nodulaire, taille variable, goitre (Hashimoto) ou atrophique (thyroïdite).
 - Signes généraux  
   Asthénie (physique, intellectuelle, sexuelle), prise de poids modeste, constipation, sensibilité au froid.
 - Phanères  
@@ -126,6 +118,13 @@ Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le
 
 ### Biologie
 
+{{%info%}}
+En 1<sup>re</sup> intention, doser la TSH seule.  
+Le dosage de la TSH peut être réalisé à tout moment de la journée (seuil > 80 ans: 7 mUI/L).
+
+Si elle est augmentée, prescrire pour le mois suivant: TSH + T4L
+{{%/info%}}
+
 Retentissement biologique:
 
 - Hypercholestérolémie et hypertriglycéridémie
@@ -139,14 +138,9 @@ Retentissement biologique:
 
 Parfois troubles de la coagulation et du bilan hépatique.
 
-**En 1re intention, doser la TSH seule.**
+> << Il n'y a pas lieu de doser la T3L >>
 
-Le dosage de la TSH peut être réalisé à tout moment de la journée (seuil > 80 ans : 7 mUI/L)
-
-**Si elle est augmentée, prescrire pour le mois suivant : 2e TSH + T4L.**
-
-**NB. « Il n'y a pas lieu de doser la T3L ».**  
-Si arguments pour étiologie auto-immune, dosage des **anticoprs anti-TPO**. Il est inutile de renouveler ce dosage ainsi que de doser d’autres anticorps antithyroïdiens.
+Si arguments pour étiologie auto-immune, dosage des **anticorps anti-TPO**. Il est inutile de renouveler ce dosage ainsi que de doser d’autres anticorps antithyroïdiens.
 
 #### Interprétation des résultats
 
@@ -170,7 +164,7 @@ En cas de Maladie de Hashimoto, rechercher une [maladie cœliaque associée]({{<
 
 ### Échographie cervicale
 
-Systématique. Aide au diagnostic étiologique et recherche une pathologie associée (nodule, goitre).
+Indications: nodule ou adénopathie palpable, signes de compression, palpation difficile, facteur de risque de cancer de la thyroïde (*HAS 2021*).
 
 Pas d'indication à la scintigraphie en hypothyroïdie.
 
@@ -187,7 +181,7 @@ Signes résolutifs sous lévothyroxine.
 Délai avant amélioration des symptômes de **2 semaines après instauration du traitement**. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
 
 **NB. Le traitement ne doit pas être débuté sans dosage préalable de la TSH**  
-{{%class %}}(30% des traitements introduits sans TSH).{{%/class%}}
+{{%class%}}(30% des traitements introduits sans TSH).{{%/class%}}
 
 ### Lévothyroxine sodique (opothérapie substitutive)
 
@@ -195,12 +189,12 @@ Délai avant amélioration des symptômes de **2 semaines après instauration du
 
 #### Débuter le traitement
 
-{{% info %}}
+{{%info%}}
 Initier à 1,7 µg/kg/j chez l'adulte.  
-{{% class "text-black-secondary" %}}Sujet âgé: 1,3 | Enfant: 2 | Coronarien 12,5 à 25 µg/j.{{% /class %}}
+{{%class "text-black-secondary" %}}Sujet âgé: 1,3 | Enfant: 2 | Coronarien 12,5 à 25 µg/j.{{%/class%}}
 
 Adaptation par paliers de 12 µg.
-{{% /info %}}
+{{%/info%}}
 
 #### Spécialités disponibles
 
@@ -283,8 +277,9 @@ graph TB
 [Sante.fr. Petite chronique de l'hypothyroïdie](https://microlearning-sante.fr/fr/levothyrox)
 
 {{% /collapse %}}
-{{%collapse Sources %}}
+{{%collapse "Sources" %}}
 
+- [HAS. Quelle imagerie pour les pathologies de la thyroïde. 28/09/2021.](https://www.has-sante.fr/jcms/p_3288963/fr/quelle-imagerie-pour-les-pathologies-de-la-thyroide)
 - [ANSM. Liste des médicaments à base de lévothyroxine disponibles en France. 19/03/2021.](https://ansm.sante.fr/dossiers-thematiques/les-medicaments-a-base-de-levothyroxine-disponibles-en-france-1/les-medicaments-a-base-de-levothyroxine-disponibles-en-france)
 - [Mooijaart SP et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 30 oct 2019;1‑11.](https://jamanetwork.com/journals/jama/fullarticle/2753909)
 - [HAS. Hypothyroïdie – pertinence des soins. Mars 2019.](https://www.has-sante.fr/portail/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)

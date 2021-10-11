@@ -94,7 +94,7 @@ Débuter la lévothyroxine à posologie basse, croissante par paliers jusqu'à o
 - TSH cible < 2,5 mUI/L
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir" "show" %}}
+{{%collapse "Conduite à tenir devant une hypothyroïdie fruste" "show" %}}
 
 **Découverte fortuite de TSH > 4 mUI/L sans signes cliniques:**
 

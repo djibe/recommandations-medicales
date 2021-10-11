@@ -6,11 +6,11 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-14T15:36:00+02:00
 publishdate = 2021-01-14
-lastmod = 2021-09-17
+lastmod = 2021-10-11
 specialites = ["biologie"]
 annees = "2021"
 sources = ["CNGOF", "SFDiabète", "SFRhumato"]
-tags = ["ferritine", "uricemie"]
+tags = ["ferritine"]
 anglais = []
 sctid = ""
 draft = false
@@ -28,8 +28,9 @@ todo = "LDL"
 |--------------|----------------------|------------------------|--------|
 | Ferritinémie | Femme jeune          | > 50 ng/mL             | HAS  |
 | Ferritinémie | Grossesse            | > 80 ng/mL             | HAS  |
+| Ferritinémie | insuffisance cardiaque | > 100 ng/mL          | ESC 2021 |
 | Ferritinémie | Jambes sans repos    | > 75 ng/mL             | SFRMS 2019 |
-| HbA<sub>1C</sub> | {{< modal-btn modal-hba1c >}}Cliquer ici{{< /modal-btn >}} | ~ 7% | SFDiabete 2019 |
+| HbA<sub>1C</sub> | {{< modal-btn modal-hba1c >}}Détail des cibles{{< /modal-btn >}} | ~ 7% | SFDiabete 2019 |
 | Uricémie     | Goutte               | < 50 mg/L              | SFRhumato 2020 |
 | VDRL         | M6 post-PéniG<br>M12 post-PéniG | Taux /4<br>Négatif | SFDermato 2016 |
 | Vitamine D   | Adulte<br>≥ 65 ans   | > 50 nmol/L<br>> 75 nmol/L | Annweiler C 2018 |

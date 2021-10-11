@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CAZANAVE (CMIT)"
 date = 2021-01-16T22:06:00+02:00
 publishdate = 2021-01-16
-lastmod = 2021-06-07
+lastmod = 2021-10-11
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["CNS", "HAS"]
@@ -16,12 +16,12 @@ anglais = ["Human immunodeficiency virus infection"]
 sctid = "86406008"
 image = true
 imageSrc = "Photo de NIAID sur Foter.com / CC BY"
-todo = "relecture CNS, TPE et PrEP, https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih, depistage DT2, info transmission/guérison, https://www.aides.org/prep"
+todo = "relecture CNS, TPE, https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih, depistage DT2, info transmission/guérison, https://www.aides.org/prep"
 +++
 
 {{%article-summary%}}
 
-- Dépister largement
+- Dépister largement (gratuit sans ordonnance au 1er janvier 2022)
 - Répéter le dépistage chez les populations à risque, conseils de prévention et transmission
 - Toute personne exposée au VIH est éligible à la PrEP (gratuite), prescriptible par tout médecin
 - PCR + sérologie VIH (répéter à 1 mois) devant: fièvre ou fatigue inexpliquées, exanthème fébrile de l'adulte, zona de l'adulte jeune ...

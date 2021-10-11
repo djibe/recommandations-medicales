@@ -16,7 +16,7 @@ sctid = "38341003"
 draft = false
 image = true
 imageSrc = "Illustration de l'hypertension artérielle par vectorjuice / Freepik"
-todo = "liens vers la fiche, hypotension orthostatique, Le tensiomètre électronique dans modale, ESC 2018 tableau 4+19 - src157"
+todo = "flowchart, liens vers la fiche, hypotension orthostatique, Le tensiomètre électronique dans modale, ESC 2018 tableau 4+19 - src157, HTA et gs"
 +++
 
 Ces recommandations concernent l'adulte ≥ 18 ans.
@@ -273,7 +273,7 @@ Bilan après jeûne de 12 heures:
 - BU, microalbuminurie sur échantillon
 {{%/info%}}
 
-### Conduite à tenir
+### Conduite à tenir en découverte d'hypertension
 
 1. Confirmer le diagnostic par automesure/MAPA
 1. Noter dans le dossier les valeurs pré-traitement et le grade de l'hypertension (voir *Définitions*)
@@ -302,12 +302,12 @@ Cible < 94 cm homme et 80 cm femme.
 - {{%modal-btn "modal-rcv"%}}LDL cible selon le risque cardiovasculaire{{%/modal-btn%}}
 - Pas de bénéfice avec l'aspirine en prévention primaire
 - Associations de patients  
-[Comité Français de Lutte Contre l’Hypertension Artérielle (CFLCHTA)](http://www.comitehta.org/), [Fédération Française de Cardiologie](http://www.fedecardio.com/).
+[Comité Français de Lutte Contre l’Hypertension Artérielle (CFLCHTA)](http://www.comitehta.org/), [Fédération Française de Cardiologie](https://fedecardio.org/).
 
 > *ESC 2018*
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'hypertension artérielle" %}}
 
 - Toujours associé aux mesures hygiéno-diétetiques et surveillance de l'observance
 - Privilégier d'emblée une bithérapie en essayant de conserver un seul comprimé  

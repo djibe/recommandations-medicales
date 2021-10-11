@@ -10,13 +10,13 @@ lastmod = 2021-07-21
 specialites = ["pneumologie"]
 annees = "2019"
 sources = ["GINA", "ERS", "SPLF", "HAS"]
-tags = ["dyspnee", "tabac", "toux"]
+tags = ["dyspnee", "tabac", "toux", "vaccin"]
 anglais = ["Asthma"]
 sctid = "195967001"
 draft = false
 image = true
-imageSrc = "Illustration par brgfx / Freepik"
-todo = "doses Symbicort turbuhaler, GINA 2021 p21, Prescrire, CSI + ARL, revoir Stades GINA, plan d'action, vaccins, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique"
+imageSrc = "Illustration de l'asthme par brgfx / Freepik"
+todo = "doses Symbicort turbuhaler, GINA 2021 p21, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique"
 +++
 
 *Version préliminaire: ACT et traitements utilisables en l'état*

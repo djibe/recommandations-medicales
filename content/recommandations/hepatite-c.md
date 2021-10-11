@@ -19,7 +19,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "symptômes/fatigue, signes d'insuffisance hépatique, signes de cirrhose, hépatoprotection"
+todo = "Face/Audit/Deta-cage, symptômes/fatigue, signes d'insuffisance hépatique, signes de cirrhose, hépatoprotection"
 
 +++
 
@@ -100,7 +100,7 @@ Soins à la naissance en néonatalogie ou en pédiatrie (grand prématuré, exsa
 
 - Traitements déjà utilisés contre le VHC
 - Consommation d'alcool  
-Questionnaires [AUDIT](http://test-addicto.fr/tests/alcool/audit.html), [CAGE-DETA](https://test-addicto.fr/tests/alcool/deta-cage.html) ou [FACE](http://test-addicto.fr/tests/alcool/questionnaire-face.html).
+Questionnaires AUDIT, CAGE-DETA ou FACE.
 - Consommation de drogues
 - Comorbidités majeures pour le traitement  
 Hypertension artérielle, diabète, dyslipidémie et surpoids.

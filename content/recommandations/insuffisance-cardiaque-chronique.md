@@ -10,7 +10,7 @@ lastmod = 2021-10-08
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS"]
-tags = ["dyspnee", "fatigue", "HTA", "risque cardiovasculaire", "SAOS", "tabac", "toux", "vaccin"]
+tags = ["dyspnee", "fatigue", "ferritine", "HTA", "risque cardiovasculaire", "SAOS", "tabac", "toux", "vaccin"]
 anglais = ["Chronic heart failure"]
 sctid = "48447003"
 draft = false
@@ -221,7 +221,7 @@ Indications: cardiomyopathie hypertrophique (CMH), cardiomyopathie dilatée idio
 {{%collapse "Mesures générales" %}}
 
 - Hypertension artérielle
-  - Seuil diagnostique > 140/90 mmHg (*ESC 2018*)
+  - Seuil diagnostique ≥ 140/90 mmHg (*ESC 2018*)
   - Cible < 140/90 mmHg (cible mal connue, selon comorbidités, *ESC 2021*)
   - Auto-surveillance 1-2/semaine
   - Escalade thérapeutique: ajouter amlodipine/félodipine si PA non contrôlée

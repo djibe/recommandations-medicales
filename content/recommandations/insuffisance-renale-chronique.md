@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par pch.vector / Freepik"
-todo = "ameliorer flowchart, stades de la MRC source, consultation dediee Coter C + ALD ???"
+todo = "ameliorer flowchart, stades de la MRC source, consultation dediee Coter C + ALD ???, https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation, https://www.has-sante.fr/jcms/c_2677037/fr/prise-en-charge-des-patients-hemodialyses-chroniques-dia"
 +++
 
 {{% article-summary %}}
