@@ -5,19 +5,19 @@ shortname = "Anémie"
 synonyms = ["Carence en fer", "anémie ferriprive"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-08T13:02:19+02:00"
-publishdate = "2021-10-08"
-lastmod = "2021-10-08"
+publishdate = "2021-10-12"
+lastmod = "2021-10-12"
 specialites = ["hematologie"]
 annees = "2021"
 sources = ["BSG", "SNFGE"]
 tags = ["fatigue", "ferritine"]
 anglais = ["Iron deficiency anemia"]
 sctid = "87522002"
-draft = true
+draft = false
 flowchart = true
-image = false
-imageSrc = ""
-todo = "red flags NICE 23-24-184, Prescrire"
+image = true
+imageSrc = "Illustration de l'anémie par macrovector / Freepik"
+todo = "red flags NICE 23-24-184, Prescrire, risque K src 11-25-63"
 +++
 
 {{%article-summary%}}
@@ -25,19 +25,23 @@ todo = "red flags NICE 23-24-184, Prescrire"
 - Anémie = Hb < 12 g/dL femme et < 13 homme  
 Correction si tabagisme ou altitude.
 - Carence martiale = Ferritinémie < 45 ng/mL
+- Bilan étiologique: BU/ECBU, maladie cœliaque, examen gynécologique
+- EOGD et coloscopie si homme ou femme > 50 ans, ménopausée/sans menstruations, risque élevé de CCR, sévérité inexpliquée
+- Supplémentation: 50-100 mg de fer élément à jeun pendant 3 mois
+- Surveillance trimestrielle de la NFS pendant 1 an
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Anémie
 : Hémoglobinémie (au niveau de la mer) chez la femme < 12 g/dL (11 en grossesse) ou < 13 g/dL chez l'homme (*OMS 2011*). Elle entraîne une augmentation de la morbi-mortalité et une réduction de la qualité de vie.
-: La carence martiale est la 1<sup>re</sup> cause d'anémie (2-5% chez les adultes d'âge moyen, 20% des femmes en âge de procréer) et atteint 50% des femmes enceintes après 25 SA. La *thalassémie* (anémie microcytaire hypochrome mais régénérative) se présente sous le même tableau.  
+: La carence martiale (CM) est la 1<sup>re</sup> cause d'anémie (2-5% chez les adultes d'âge moyen, 20% des femmes en âge de procréer) et atteint 50% des femmes enceintes après 25 SA. La *thalassémie* (anémie microcytaire hypochrome mais régénérative) se présente sous le même tableau.  
 La carence martiale *non anémique* est fréquente (50% des femmes avec ménorragies).
 : L'*hypochromie* et la *microcytose* typiques de la carence en fer sont absentes en cas de maladie chronique ou carence en vitamines B9/12. L'anémie ferriprive est toujours arégénérative (réticulocytes sans intérêt).
 : Chez le sujet âgé, la cause est toujours multifactorielle (régime, carence B9/B12, aspirine, insuffisance d'organe, saignement occulte).
 
 Ferritinémie
-: Reflète les réserves en fer de l'organisme.
+: Reflète les réserves en fer de l'organisme. Le fer est essentiel à l'hématopoïèse et au myocarde.
 : < 15 ng/mL signe une déplétion en fer, < 30 des stocks de fer bas, **< 45** seuil pour diagnostic de carence en fer (avec meilleures Se/Spe).  
 Elle est augmentée en inflammation, mais même en sa présence une ferritinémie > 150 ng/mL rend peu probable une carence en fer.
 : Recherche endoscopique quand anémie avec ferritinémie < 45 ng/mL (spécificité 0,92), surtout si inflammation chronique.
@@ -73,10 +77,10 @@ Microcytose
 
 ### Étiologie de la carence martiale
 
-- Femme pré-ménopausée  
+- Femme non ménopausée  
 Les menstruations sont responsables de la perte en fer.
 - Hommes et femmes ménopausées  
-  - La perte est toujours intestinale et une cause tumorale doit être recherchée  
+  La perte est toujours intestinale et une cause tumorale doit être recherchée.  
   Autres causes fréquentes: ulcère gastro-duodénal, érosions gastriques et œsophagite.
 - Malabsorption  
 Maladie cœliaque, gastrectomie, gastrite atrophique.
@@ -99,6 +103,7 @@ Une cause digestive haute et basse est retrouvée dans 1-10% des cas (sujet âg�
 ### Abréviations
 
 **ACM:** anémie par carence martiale ({{%lang%}}Iron deficiency anaemia - IDA{{%/lang%}})  
+**CM:** carence martiale  
 **Hb:** hémoglobine  
 **CCR:** cancer colorectal
 
@@ -146,14 +151,17 @@ Ou d'une *carence martiale isolée* chez des sujets sans pertes physiologiques (
 
 Réaliser dans l'ordre:
 
-- ECBU
-- Recherche de maladie cœliaque (à tout âge, 3-5%)
+- BU, ECBU
+- Recherche de maladie cœliaque (à tout âge, 3-5%)  
+  IgA totales + IgA anti-transglutaminase
 - Électrophorèse de l'hémoglobine  
   Indication: ferritinémie normale chez sujet originaire d'Asie-Afrique-Méditerranée, avant bilan endoscopique.
 - Réticulocytes  
   Bas, ils objectivent la carence en fer, surtout en insuffisance rénale.
 - Femme  
 Examen gynécologique.
+- Facteur de risque d'insuffisance rénale: créatininémie
+- Sujet âgé: vitamines B9 et B12
 - Homme (tout âge)  
   ou femme > 50 ans, ménopausée/sans menstruations, risque élevé de CCR, sévérité inexpliquée
   - EOGD et coloscopie rapidement  
@@ -170,21 +178,32 @@ Une anémie par carence martiale pendant la **grossesse** dispense du bilan éti
 
 ### Supplémentation en fer
 
-1 cp/j de 50-100 mg de fer élément (fer sulphate, fumarate ou gluconate) à distance des repas jusqu'à 3 mois après la correction de l'anémie.  
+{{%info%}}1 cp/j de 50-100 mg de fer élément (fer sulphate, fumarate ou gluconate) à distance des repas jusqu'à 3 mois après la correction de l'anémie{{%/info%}}
 
 Surveillance de la remontée de l'hémoglobine à 1 mois, mensuelle jusqu'à correction de l'anémie, trimestrielle pendant 1 an puis semestrielle pendant 2-3 ans.
 
-Remarques sur la supplémentation en fer:
+{{< table title="Fers fumarate, gluconate et sulfate disponibles en France en 2021. Dr JB Fron d'après BDPM" >}}
+| Spécialité             | Famille  | Fer élément (mg) |
+|------------------------|----------|-----------------:|
+| Fumafer 66 mg cp       | Fumarate | 66               |
+| Tardyferon 50 ou 80 mg | Sulfate  | 50 ou 80         |
+| Tardyferon 20 mg/mL    | Sulfate  | 20/mL            |
+| Timoferol cp ou gél    | Sulfate  | 50               |
+{{< /table >}}
 
+### Éléments importants sur la supplémentation en fer
+
+- Supplémenter une carence martiale symptomatique chez la femme non ménopausée (fatigue, ralentissement cognitif) et pendant la grossesse
 - Débuter pendant la réalisation du bilan étiologique  
 Sauf si délai de coloscopie de 2 semaines (coloration des selles).
+- Biodisponibilité médiocre en prise pendant le repas
 - En cas de mauvaise tolérance: 1 j/2 > sirop > IV
 - Si remontée de l'Hb < 2 g/dL à 1 mois: fer 1 j/2 > fer IV, dosage vitamines B9 et B12
 - Elle peut être poursuivie au long cours sur conseil de l'hématologue
 - Elle est quasi-impossible à obtenir par des seuls apports alimentaires  
 Boudin noir, Moules, seiche, lentilles, soja, épinards, raison sec ([Anses. Tables Ciqual](https://ciqual.anses.fr/#/constituants/10260/fer-(mg-100-g)))
 - La supplémentation en [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}} ) ou rénale est spécifique
-- La voie orale est inefficace dans les MICI (TODO *SOURCE*)
+- La voie orale est inefficace dans les MICI (TODO: *SOURCE*)
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une anémie avec suspicion de carence en fer" "show" %}}
@@ -217,9 +236,8 @@ graph TB
 - [Abitbol V. Comment explorer et traiter une carence martiale ? POST'U 2021 - Paris](https://www.fmcgastro.org/texte-postu/postu-2021-paris/comment-explorer-et-traiter-une-carence-martiale-3/)
 - [Santé Publique France. Étude de santé sur l’environnement, la biosurveillance, l’activité physique et la nutrition (Esteban) 2014-2016. Volet Nutrition. Chapitre Dosages biologiques : vitamines et minéraux. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/rapport-synthese/etude-de-sante-sur-l-environnement-la-biosurveillance-l-activite-physique-et-la-nutrition-esteban-2014-2016-.-volet-nutrition.-chapitre-dosages)
 - [Rouillon JM, SNFGE. Prise en charge de l'anémie ferriprive. 2018.](https://www.snfge.org/download/file/fid/3372)
+- [Clair E, Nahon S. Prise en charge de l’anémie ferriprive chez la personne âgée. POST'U 2016 - Paris](https://www.fmcgastro.org/textes-postus/no-postu_year/prise-en-charge-de-lanemie-ferriprive-chez-la-personne-agee/)
 - [OMS. Concentrations en hémoglobine permettant de diagnostiquer l’anémie et d’en évaluer la sévérité. Système ’informations nutritionnelles sur les vitamines et les minéraux. Genève, Organisation mondiale de la Santé, 2011 (WHO/NMH/NHD/MNM/11.1)](https://www.who.int/fr/publications-detail/WHO-NMH-NHD-MNM-11.1)
 - [HAS. Choix des examens du métabolisme du fer en cas de suspicion de carence en fer. Mars 2011.](https://www.has-sante.fr/upload/docs/application/pdf/2011-11/rapport_devaluation_bilan_martial_carence_2011-11-09_17-21-31_723.pdf)
 
 {{% /collapse %}}
-
-≤≥±®œŒ³ÂSpO<sub>2</sub>

@@ -15,8 +15,8 @@ anglais = []
 sctid = ""
 draft = false
 datatable = false
-image = false
-imageSrc = ""
+image = true
+imageSrc = "La contraception illustrée par stories / Freepik"
 todo = "fiche patiente, https://www.has-sante.fr/jcms/p_3261764/fr/contraception, https://ansm.sante.fr/actualites/contraception-ou-en-sommes-nous, stérilisation, nb grossesses, ONU contraceptions pays, critères reconsult DIU, 5% dev HTA sous COP ESC 2018"
 +++
 
@@ -76,7 +76,7 @@ La contraception progestative seule (pilule, implant, DIU) ne modifie pas le ris
 {{% /collapse %}}
 {{%collapse "Spécialités" "show" %}}
 
-{{%info%}}La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares. *CNGOF 2018*{{%/info%}}
+{{%info%}}La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares (*CNGOF 2018*){{%/info%}}
 
 {{< table title="Spécialités de contraception disponibles en France par le Dr JB FRON" >}}
 | Type        | EE (µg) | Progestatif (mg) | Spécialités |

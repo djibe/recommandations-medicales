@@ -26,7 +26,7 @@ todo = "sup. Table 4 MRA+5Sacu+7Diur https://www.santepubliquefrance.fr/determin
 - ECG, NT-proBNP et consultation de cardiologie
 - Bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), anémie)
 - Contrôle des FRCV: HTA, tabac...
-- Maximiser les posologies du traitement: {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, {{< modal-btn modal-bb >}}BB{{< /modal-btn >}}, anti-aldostérone, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
+- Maximiser les posologies du traitement: {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, {{< modal-btn modal-bb >}}BB{{< /modal-btn >}}, anti-aldostérone, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, ferritine > 100 ng/mL
 - Éducation thérapeutique pour la surveillance des poids-tension et l'adaptation des diurétiques
 
 {{%/article-summary%}}

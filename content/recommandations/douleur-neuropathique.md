@@ -15,8 +15,8 @@ anglais = ["Neuropathic pain"]
 sctid = "247398009"
 draft = false
 flowchart = true
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Illustration de la douleur neuropathique par brgfx / Freepik"
 todo = "carence B9B12?"
 +++
 
