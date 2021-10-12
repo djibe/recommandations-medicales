@@ -16,7 +16,7 @@ sctid = "38341003"
 draft = false
 image = true
 imageSrc = "Illustration de l'hypertension artérielle par vectorjuice / Freepik"
-todo = "flowchart, liens vers la fiche, hypotension orthostatique, Le tensiomètre électronique dans modale, ESC 2018 tableau 4+19 - src157, HTA et gs"
+todo = "espérance de vie corrigée de l'incapacité, flowchart, liens vers la fiche, hypotension orthostatique, Le tensiomètre électronique dans modale, ESC 2018 tableau 4+19 - src157, HTA et grossesse"
 +++
 
 Ces recommandations concernent l'adulte ≥ 18 ans.
@@ -43,24 +43,24 @@ La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance car
 : 1 patient sur 2 est > 140/90 mmHg. Principaux facteurs de non contrôle: défaut d'observance et inertie du médecin.
 : Observance à 6 mois: 2/3, 1 an: 50%.
 
-{{< table title="Grades d'hypertension sur les mesures au cabinet à partir de 16 ans. Dr JB Fron d'après ESC 2018 et ESH 2021" >}}
+{{< table title="Grades d'hypertension sur les mesures au cabinet à partir de 16 ans. Dr JB Fron d'après ESC 2018 et ESH 2021" class="table-wrap" >}}
 | Catégorie          | Systolique (mmHg) |       | Diastolique (mmHg) | Action |
 |--------------------|:-----------------:|:-----:|:-----------:|---------------|
 | Optimale           | &lt; 120          | et    | &lt; 80     | Surveillance &ge; /5 ans |
 | Normale            | 120-129           | et/ou | 80-84       | Surv. &ge; / 3 ans (6 mois si FRCV) |
 | Normale haute      | 130-139           | et/ou | 85-89       | Surv. annuelle, éliminer HTA masquée par AMT/MAPA, traiter si THRCV |
-| Hypertension grade 1 | 140-159         | et/ou | 90-99       | Éliminer blouse blanche par AMT/MAPA, essai RHD 3-6 mois, traiter si HRCV |
-| Hypertension grade 2 | 160-179         | et/ou | 100-109     | Confirmer par AMT/MAPA en qq j/sem, traitement immédiat et contrôle sous 3 mois |
-| Hypertension grade 3 | &ge; 180        | et/ou | &ge; 110    | Traitement immédiat et contrôle sous 3 mois |
-| Hypertension systolique isolée | &ge; 140        | et | &lt; 90    | |
+| Hypertension grade&nbsp;1 | 140-159         | et/ou | 90-99       | Éliminer blouse blanche par AMT/MAPA, essai RHD 3-6 mois, traiter si HRCV |
+| Hypertension grade&nbsp;2 | 160-179         | et/ou | 100-109     | Confirmer par AMT/MAPA en qq j/sem, traitement immédiat et contrôle sous 3 mois |
+| Hypertension grade&nbsp;3 | &ge; 180        | et/ou | &ge; 110    | Traitement immédiat et contrôle sous 3 mois |
+| Hypertension systolique isolée | &ge; 140 | et | &lt; 90     | Traitement selon le grade de la PAS |
 {{< /table >}}
 
 > AMT: automesure tensionnelle; HRCV/THRCV: haut/très haut risque CV.  
 Utiliser la plus haute valeur des mesures standardisées effectuées au cabinet.  
 RHD pour tous dès tension *normale haute*.  
-Découverte ≥ 65 ans: traiter normalement si bien toléré. Sinon attendre grade 2.  
+Découverte ≥ 65 ans: traiter si antihypertenseurs bien tolérés. Sinon attendre grade 2.  
 Découverte ≥ 80 ans: traiter si ≥ grade 2.  
-L'HTA systolique isolée et gradée selon la même échelle des valeurs systoliques.  
+L'HTA systolique isolée est gradée selon la même échelle des valeurs systoliques.  
 Dépistage rapproché ≥ 50 ans.
 
 4 situations après la réalisation des mesures standardisées et au domicile (AMT et/ou MAPA):
@@ -93,6 +93,7 @@ Elle atteint < 10% des patients.
 **PAD:** pression artérielle diastolique  
 **PAS:** pression artérielle systolique  
 **RHD:** régime hygiéno-diététiques (ou mode de vie)  
+**SCA:** syndrome coronarien aigu  
 **TZD:** diurétique thiazidique
 
 ### Épidémiologie
@@ -144,7 +145,7 @@ Mesure standardisée nécessaire pour le contrôle des objectifs tensionnels:
 - Information du patient  
 Donner au patient ses mesures oralement et par écrit.
 
-> ESH 2021 et ACC/AHA 2017. [Schéma](https://www.stridebp.org/images/training_bp/Office_BP_measurements_Poster.pdf).
+> ESH 2021 et ACC/AHA 2017. [Poster](https://www.stridebp.org/images/training_bp/Office_BP_measurements_Poster.pdf).
 
 L'automesure tensionnelle doit être utilisée en complément (effet blouse blanche fréquent, hypertension masquée, hypertension résistante), d'autant plus si les valeurs sont limites 130-159/85-99 mmHg.
 

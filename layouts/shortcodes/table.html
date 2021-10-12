@@ -2,12 +2,18 @@
 {{ $old := "<table>" }}
 {{ $new := "" }}
 {{ $title := .Get "title" }}
-{{ $id := delimit (shuffle (seq 1 9)) "" }}
+{{ $extraClass := .Get "class" }}
+{{ $id := "" }}
+  {{ with .Get "id" }}
+    {{ $id = . }}
+  {{ else }}
+  {{ $id = delimit (shuffle (seq 1 9)) "" }}
+  {{ end }}
 
 {{ if $title }}
-  {{ $new = printf "<table class=\"table\" itemscope itemtype=\"https://schema.org/Table\"><caption id=\"table-caption-%s\" itemprop=\"about\"><b>Tableau.</b> %s</caption>" $id $title }}
+  {{ $new = printf "<table class=\"table %s\" id=\"%s\" itemscope itemtype=\"https://schema.org/Table\"><caption id=\"table-caption-%s\" itemprop=\"about\"><b>Tableau.</b> %s</caption>" $extraClass $id $id $title }}
 {{ else }}
-  {{ $new = printf "<table class=\"table\">" }}
+  {{ $new = printf "<table class=\"table %s\" id=\"%s\">" $extraClass $id}}
 {{ end }}
 {{ $htmlTable := replace $htmlTable $old $new }}
 {{ $htmlTable := replaceRE "align=\"([a-z]+)\"" "style=\"text-align: $1\"" $htmlTable }}
@@ -17,4 +23,4 @@
 </div>
 
 <!-- Inspired by https://zwbetz.com/style-a-markdown-table-with-bootstrap-classes-in-hugo/ and improved by djibe-->
-<!-- 7 Features: HTML5 compatibility (no align-*), Bootstrap 4 compatibility, djibe Material UI compatibility, <caption> support, Schema.org markup, WAI accessibility, responsive (with CSS) -->
+<!-- Features: HTML5 compatibility (no align-*), markdown alignment, Bootstrap 4/5 compatibility, <caption> support, Schema.org markup, WAI accessibility, custom CSS, custom Id, responsive (with CSS) -->

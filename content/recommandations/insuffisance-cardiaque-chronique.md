@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration de l'insuffisance cardiaque par vectorjuice / Freepik"
-todo = "sup. Table 4 MRA+5Sacu+7Diur https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Beck"
+todo = "sup. Table 4 MRA+5Sacu+7Diur https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Beck, https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fpc_i_ns_cardiaque_web.pdf"
 +++
 
 {{%article-summary%}}

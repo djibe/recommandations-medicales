@@ -809,16 +809,12 @@ div.mermaidTooltip {
   width: 64px;
 }
 
+.table.table-wrap tr td,
+.table.table-wrap tr th,
 .data-table.data-table-wrap > .table td,
 .data-table.data-table-wrap > .table th {
   white-space: normal;
 }
-
-/* Contraception */
-
-/* #spécialités-block .data-table {
-  width: 100%;
-} */
 
 /* Keep input accessibility, TODO: update in Material */
 .d-input-none {
