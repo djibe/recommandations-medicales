@@ -60,6 +60,7 @@ const chartOptions = {
     name: 'Hommes',
     data: [4.01, 6.53, 10.18, 14.81, 17.46, 8.5]
   }],
+  colors:['#ff0581', '#4150f5'],
   chart: { height: 280 },
   title: { text: 'Incidence de la mort subite chez le sportif' },
   dataLabels: { enabled: false },

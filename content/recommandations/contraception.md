@@ -85,7 +85,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 
 {{%info%}}La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares (*CNGOF 2018*){{%/info%}}
 
-{{< table title="Spécialités de contraception disponibles en France en 2021. Dr JB Fron d'après BDPM" >}}
+{{< table title="Spécialités de contraception disponibles en France en 2021. Dr JB Fron d'après BDPM" class="table-wrap" >}}
 | Type        | EE (µg)  | Progestatif (mg) | Spécialités     |
 |-------------|---------:|------------------|-----------------|
 | 2G          | 30/40    | LNG 0,15-0,2     | Adepal, Pacilia |
@@ -129,8 +129,8 @@ Symptômes cataméniaux, ménorragies fonctionnelles, [endométriose]({{< relref
 
 - Contraception la moins chère (28,37€ pour 5 ans)
 - Cotation CCAM
-  - pose du stérilet JKLD001 (38,40 €)
-  - Ablation de stérilet JKGD001 (62,70 €)
+  - Pose du stérilet JKLD001 (38,40 €)
+  - Ablation non cotée sauf changement de JKKD001 (38,40 €)
 - Seuls le toucher vaginal avec examen bimanuel et l’inspection cervicale sont formellement recommandés avant la pose d’un DIU
 - Informer sur la modification des saignements selon le stérilet
 - Pas de dépistage systématique des IST avant la pose
@@ -163,6 +163,9 @@ N'est pas un facteur d'infection pelvienne (sauf dans les 21j à 4 mois)
 
 - Contraception la plus efficace
 - Possible jusqu'à l'obésité morbide de 56 kg/m² pour une durée de 3 ans
+- Cotation CCAM
+  - Pose QZLA004 (17,99 €)
+  - Ablation QZGA002 (41,80 €)
 
 {{% /collapse %}}
 {{%collapse "Contraception définitive" %}}

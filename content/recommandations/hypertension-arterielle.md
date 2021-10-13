@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2021-10-08"
+lastmod = "2021-10-13"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESH", "ESC"]
@@ -16,7 +16,7 @@ sctid = "38341003"
 draft = false
 image = true
 imageSrc = "Illustration de l'hypertension artérielle par vectorjuice / Freepik"
-todo = "espérance de vie corrigée de l'incapacité, flowchart, liens vers la fiche, hypotension orthostatique, Le tensiomètre électronique dans modale, ESC 2018 tableau 4+19 - src157, HTA et grossesse"
+todo = "Bernatos plus de 80 ans dépendants polypatho ( ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, liens vers la fiche, hypotension orthostatique, Le tensiomètre électronique dans modale, ESC 2018 tableau 4+19 - src157, HTA et grossesse"
 +++
 
 Ces recommandations concernent l'adulte ≥ 18 ans.
@@ -31,6 +31,7 @@ Ces recommandations concernent l'adulte ≥ 18 ans.
 - Traitement selon le grade d'hypertension (voir *Définitions*) et RHD systématiques
 - Cibles tensionnelles selon le profil (120-129/70-79 mmHg avant 65 ans)
 - Objectif d'un seul comprimé combiné et informer sur les conséquences d'une HTA non traitée (accidents CV, démence)
+- Bithérapies de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -51,7 +52,7 @@ La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance car
 | Normale haute      | 130-139           | et/ou | 85-89       | Surv. annuelle, éliminer HTA masquée par AMT/MAPA, traiter si THRCV |
 | Hypertension grade&nbsp;1 | 140-159         | et/ou | 90-99       | Éliminer blouse blanche par AMT/MAPA, essai RHD 3-6 mois, traiter si HRCV |
 | Hypertension grade&nbsp;2 | 160-179         | et/ou | 100-109     | Confirmer par AMT/MAPA en qq j/sem, traitement immédiat et contrôle sous 3 mois |
-| Hypertension grade&nbsp;3 | &ge; 180        | et/ou | &ge; 110    | Traitement immédiat et contrôle sous 3 mois |
+| Hypertension grade&nbsp;3 | &ge; 180        | et/ou | &ge; 110    | Traitement immédiat et cible atteinte à 3 mois |
 | Hypertension systolique isolée | &ge; 140 | et | &lt; 90     | Traitement selon le grade de la PAS |
 {{< /table >}}
 
@@ -149,22 +150,22 @@ Donner au patient ses mesures oralement et par écrit.
 
 L'automesure tensionnelle doit être utilisée en complément (effet blouse blanche fréquent, hypertension masquée, hypertension résistante), d'autant plus si les valeurs sont limites 130-159/85-99 mmHg.
 
-En cas de discordance mesures au cabinet et automesure/MAPA, répéter les mesures ambulatoires et privilégier des MAPA. 
+En cas de discordance mesures au cabinet et automesure/MAPA, répéter les mesures ambulatoires et privilégier des MAPA.
 
 ### Le tensiomètre électronique
 
 - Appareils validés
-  - [Pour le cabinet](https://stridebp.dayonetech.uk/login.aspx?action=warn&ReturnUrl=%2f)
+  - [Pour le cabinet](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=office_clinic)
   - [Pour l'automesure](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=home)
   - [Enfants](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=children)
   - [Grossesse](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=pregnancy)
-  - [Rechercher un modèle](https://stridebp.org/bp-monitors) [ou autre liste](https://www.validatebp.org/)
+  - [Rechercher un modèle](https://stridebp.org/bp-monitors) [ou autre liste de modèles validés](https://www.validatebp.org/)
 - Le brassard est spécifique pour l'appareil
 
 {{% /collapse %}}
 {{%collapse "Automesure tensionnelle" %}}
 
-https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf
+[Le carnet d'automesure tensionnelle 2021](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
 
 L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hypertension en vie quotidienne et démasquer une HTA masquée.
 
@@ -210,7 +211,7 @@ L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hyp
 | Greffe rénale       | &lt; 130/80     | KDIGO 2021 |
 {{< /table >}}
 
-> Une PAD 70-79 mmHg doit être considérée pour tout hypertendu.
+> Une PAD 70-79 mmHg ets la cible pour tout hypertendu.
 
 Détail sur la page dédiée de chaque chapitre concerné.
 
@@ -313,9 +314,9 @@ Cible < 94 cm homme et 80 cm femme.
 - Toujours associé aux mesures hygiéno-diétetiques et surveillance de l'observance
 - Privilégier d'emblée une bithérapie en essayant de conserver un seul comprimé  
 Préférer une monothérapie si PAS < 150 mmHg ou ≥ 80 ans.
-- Le traitement pris le soir est plus efficace (*[ChronoTrial](https://doi.org/10.1093/eurheartj/ehz754)*)  
+- Le traitement pris le soir est plus efficace et réduit les événements CV (*[ChronoTrial](https://doi.org/10.1093/eurheartj/ehz754)*)  
 Le principal: le traitement doit être pris.
-- Pas d'arrêt sur le critère d'âge isolé
+- Pas d'arrêt du traitement sur le seul critère d'âge
 - Les bêtabloquants sont privilégiés en maladie cardiovasculaire (insuffisance cardiaque, angor, infarctus, FA) ou grossesse
 - Suivi tous les 3-6 mois
 - Surveillance biologique (*HAS 2016*)
@@ -334,8 +335,10 @@ Traitement au choix parmi:
 
 - Chez le sujet noir: <a href="#modal-tzd-ica" data-toggle="modal">TZD + ICa</a> aussi possible
 - Intérêt de l'éducation thérapeutique pour maximiser l'observance
-- Réévaluation sous 2 mois, mensuelle les 6 premiers mois (*HAS 2016*)  
-{{%class%}}Réduction de la PA en 1-2 semaines après l'introduction du traitement, pouvant aller jusqu'à 2 mois.{{%/class%}}
+- Réévaluation sous 2 mois  
+Intérêt de suivi mensuel les 6 premiers mois selon la HAS (*HAS 2016*).
+
+{{%class%}}La réduction de la PA intervient en 1-2 semaines après l'introduction du traitement, pouvant se prolonger jusqu'à 2 mois.{{%/class%}}
 
 ### Traitement de niveau 2
 
@@ -345,7 +348,7 @@ Traitement au choix parmi:
 
 Hypertension résistante: avis spécialisé + RHD rappelées + ajout de spironolactone 25-50 mg/j (ou autre diurétique, alpha ou bêtabloquant).
 
-> Éliminer: défaut d'observance, effet blouse blanche, mesures non standardisées, calcifications des artères brachiales, inertie du médecin, apnées du sommeil, consommation de sel, HTA secondaire, maladie rénale.
+> Éliminer: défaut d'observance, effet blouse blanche, mesures de PA non standardisées, calcifications des artères brachiales, inertie du médecin, apnées du sommeil, consommation de sel, HTA secondaire, maladie rénale.
 
 ### Améliorer l'observance
 
@@ -359,8 +362,8 @@ Hypertension résistante: avis spécialisé + RHD rappelées + ajout de spironol
   - Collaborer avec infirmiers et pharmaciens
 - Côté patient
   - Automesure tensionnelle
-  - Sessions de groupe
-  - Stratégies de changement
+  - ETP en groupe
+  - Élaborer les stratégies de changement
   - Auto-gestion
   - Utilisation de rappels
   - Soutien de l'entourage et de soignants
