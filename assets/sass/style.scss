@@ -1,13 +1,8 @@
 @import '../css/material-purge';
 
-html {
-  height: -webkit-fill-available;
-}
-
+html,
 body {
   min-height: 100vh;
-  /* mobile viewport bug fix */
-  min-height: -webkit-fill-available;
 }
 
 a {

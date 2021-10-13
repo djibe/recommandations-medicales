@@ -56,7 +56,7 @@ La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance car
 | Hypertension systolique isolée | &ge; 140 | et | &lt; 90     | Traitement selon le grade de la PAS |
 {{< /table >}}
 
-> AMT: automesure tensionnelle; HRCV/THRCV: haut/très haut risque CV.  
+> AMT: automesure tensionnelle; HRCV/THRCV: {{%modal-btn "modal-rcv"%}}haut/très haut risque CV{{%/modal-btn%}}.  
 Utiliser la plus haute valeur des mesures standardisées effectuées au cabinet.  
 RHD pour tous dès tension *normale haute*.  
 Découverte ≥ 65 ans: traiter si antihypertenseurs bien tolérés. Sinon attendre grade 2.  
