@@ -58,6 +58,7 @@ childProcess.exec('java -version', (error, stdout, stderr) => {
     // '--no-langdetect',
     '--Werror',
     `--filterpattern "${ignores}"`,
+    `--also-check-svg`,
     'public/'
   ]
 

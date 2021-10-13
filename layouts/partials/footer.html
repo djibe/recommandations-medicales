@@ -16,7 +16,7 @@
         <img class="d-none d-md-block" src="/images/icons/undraw_Typing.svg" alt="Écrire un commentaire" aria-hidden="true" width="250" height="214" loading="lazy" decoding="async">
         <p class="modal-title" id="modal-contact-title">Contact</p>
       </div>
-      <form name="contact" method="post" netlify>
+      <form name="contact" method="post" data-netlify="true">
       <!--<script>document.querySelector("form").setAttribute("action", "")</script>-->
         <div class="modal-body">
           Une suggestion, une remarque ou une critique ? Dites-le.
@@ -242,7 +242,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
       $(this).remove();
     });
 
-    $('[data-toggle="tooltip"]').tooltip({
+    $('[data-toggle="tooltip"], .data-tooltip').tooltip({
       container: 'body',
       html: true,
       placement: 'bottom'
