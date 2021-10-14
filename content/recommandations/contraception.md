@@ -10,7 +10,7 @@ lastmod = "2021-10-12"
 specialites = ["gynecologie-obstetrique"]
 annees = "2018"
 sources = ["CNGOF", "HAS"]
-tags = []
+tags = ["MVTE"]
 anglais = []
 sctid = ""
 draft = false
@@ -38,6 +38,7 @@ Le défaut d'observance est l'une des causes principales des grossesses non plan
 
 **COC:** contraception orale combinée (ou œstroprogestative. COP utilisée par le CNGOF)  
 **COP:** contraception œstroprogestative  
+**DMPA:** TODO:
 **EE:** éthinyl-estradiol  
 **FRCV:** facteur de risque cardiovasculaire  
 **GEU:** grossesse extra-utérine  
@@ -60,6 +61,7 @@ Seuls les COP contenant ≥ 50 µg d'EE sont associées au risque d'accident art
 - Dyslipidémie non contrôlée
 - Diabète type 1 > 20 ans ou compliqué
 - Migraine avec aura
+- Migraine de novo ou aggravation des migraines sous œstroprogestatifs
 - Thrombophilie
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé{{< /modal-btn >}}
 - Antécédent personnel de cancer du sein  
@@ -111,7 +113,12 @@ Intérêt de présenter les contraceptions par groupes d'efficacité (plutôt qu
 {{% /collapse %}}
 {{%collapse "Précisions sur les classes disponibles" %}}
 
-Les contraceptifs hormonaux sont habituellement démarrés le 1er jour des règles.
+{{%info%}}
+Les contraceptifs hormonaux sont habituellement démarrés le *1er jour des règles*.  
+Le << Quickstart >> ou démarrage à tout moment du cycle peut être proposé à toute femme avec les précautions suivantes: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1re plaquette.
+{{%/info%}}
+
+**Effets secondaires habituels:** métrorragies (progestatifs ++), acné, prise de poids, troubles de libido ou de l'humeur.
 
 ### Les œstroprogestatifs
 
@@ -171,6 +178,75 @@ N'est pas un facteur d'infection pelvienne (sauf dans les 21j à 4 mois)
 {{%collapse "Contraception définitive" %}}
 
 TODO:
+
+{{% /collapse %}}
+{{%collapse "Contraception selon la période de vie" %}}
+
+### Adolescente
+
+TODO:
+
+### Femme après 40 ans
+
+TODO:
+
+{{% /collapse %}}
+{{%collapse "Gestion des effets indésirables de la contraception" %}}
+
+### Métrorragies
+
+Elles sont souvent liées  à une observance médiocre (sauf progestatifs récents), mais peuvent être liées également à une infection, une
+pathologie endométriale, une cause fonctionnelle.
+
+Examens: examen gynécologique, échographie pelvienne, bactériologie des leucorrhées. Dosage de bhCG si suspicion de mauvaise observance ou de grossesse.
+
+Métrorragies idiopathiques mal tolérées depuis ≥ 3 mois, proposer:
+
+- Changement de contraception
+- Augmentation de la dose d'œstrogènes
+- Modification du progestatif
+- Patch ou anneau
+
+### Acné
+
+Habituelle avec COP de 2<sup>e</sup> génération.
+
+Proposer:
+
+- Changement de contraception
+- COP triphasique avec 35 µg d'EE et norgestimate: Triafemi (non remboursée)
+
+Si insuffisant: traitement de l'[acné]({{< relref "acne.md" >}}), avis dermatologique, autre progestatif anti-androgénique.
+
+### Libido
+
+Étayer la part hormonale et psychologique imputable.  
+Changement de contraception à discuter.
+
+### Prise de poids
+
+{{%info%}}Les contraceptions hormonales ne sont pas associées à une prise de poids (*CNGOF 2018*){{%/info%}}
+
+L'implant sous-cutané à l’étonogestrel ou le DMPA injectable peuvent parfois augmenter modérément le poids.  
+Réaliser un bilan complet en prise de poids importante.
+
+### Céphalées
+
+{{%warning%}}Contre-indication formelle aux œstroprogestatifs si migraines de novo ou aggravation des migraines pré-existantes{{%/warning%}}
+
+La survenue de céphalées sous contraceptifs hormonaux peuvent être le marqueur d'un risque vasculaire. Réévaluation clinique cardiovasculaire.
+
+Migraines cataméniales sous COP, proposer au choix:
+
+- Schéma continu
+- Œstrogènes percutanés  
+1,5 mg  gel/j ou patch 100 µg/24h pendant les 7 jours libres.
+
+### Troubles de l'humeur
+
+<< Il n’existe pas de preuve solide permettant d’établir que l’utilisation d’une contraception hormonale est un facteur de risque de troubles de l’humeur >> (*CNGOF 2018*)
+
+Étayer les aspects psychologiques et discuter un changement de contraception en parallèle.
 
 {{% /collapse %}}
 {{%collapse "Interactions médicamenteuses" %}}

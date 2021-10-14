@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-10-07"
+lastmod = "2021-10-14"
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["SFD", "EASD", "ESC", "HAS"]
@@ -20,6 +20,7 @@ todo = "def diabète EASD 2019, statine-aspirine-vaccins, rythme depistages, htt
 
 {{%article-summary%}}
 
+- [Findrisc: risque de diabète à 10 ans](https://www.diabeclic.com/findrisc)
 - Sevrage tabagique obligatoire
 - Points vitaux obligatoires (voir plus bas)
 - Traitements: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
@@ -120,11 +121,11 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
 <div class="mb-2 choix-ic">
   <button class="chip chip-action" type="button">iSGLT2</button>
 </div>
-<p class="mt-4 text-muted">Possibilité de proposer d'emblée une bithérapie quand déséquilibre initial important (HbA1c > 9%)</p>
+<p class="mt-4 text-muted">Possibilité de proposer d'emblée une bithérapie quand déséquilibre initial important (HbA<sub>1c</sub> &gt; 9%)</p>
 <!-- 3e intention -->
 <h3 class="typography-overline mt-3">Trithérapie - Selon les traitements essayés</h3>
 <div class="mb-2 choix-standard">
-  <div class="accordion mb-5" id="accordionExample">
+<div class="accordion mb-5" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" role="button">
       <h4 class="card-title">Après iDPP4</h4>
@@ -201,6 +202,15 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
     </div>
   </div>
 </div>
+<!-- 4e intention -->
+<h3 class="typography-overline mt-3">4e intention</h3>
+<p class="text-warning my-2">La <span data-toggle="modal" data-target="#modal-metformine">metformine</span> doit toujours être maintenue.</p>
+<ul>
+  <li><span data-toggle="modal" data-target="#modal-su">SU</span> + <span data-toggle="modal" data-target="#modal-idpp4">iDPP4</span> + <span data-toggle="modal" data-target="#modal-isglt2">iSGLT2</span></li>
+  <li><span data-toggle="modal" data-target="#modal-glp1ra">GLP1-RA</span>, &plusmn; arrêt <span data-toggle="modal" data-target="#modal-su">SU</span>/<span data-toggle="modal" data-target="#modal-isglt2">iSGLT2</span><br>
+  Arrêt iDPP4.</li>
+  <li>Insuline basale</li>
+</ul>
 </div>
 <script>
 window.onload = () => {

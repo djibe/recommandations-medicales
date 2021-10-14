@@ -242,14 +242,14 @@ document.addEventListener( 'DOMContentLoaded', event => {
       $(this).remove();
     });
 
-    $('[data-toggle="tooltip"], .data-tooltip').tooltip({
+    $('[data-toggle="tooltip"]').tooltip({
       container: 'body',
       html: true,
       placement: 'bottom'
     });
     if (matchMedia('(pointer:fine)').matches) {
       // Device has a mouse
-      $('[rel="tooltip"]').tooltip({trigger: 'hover', placement: 'bottom'});
+      $('.data-tooltip').tooltip({trigger: 'hover', placement: 'bottom'});
     }
-  });
+  })
 </script>

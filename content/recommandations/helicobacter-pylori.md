@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = ""
 date = 2020-12-02T15:14:41+02:00
 publishdate = 2020-12-02
-lastmod = 2021-03-04
+lastmod = 2021-10-14
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["GEFH", "HAS", "SNFGE"]
@@ -53,18 +53,18 @@ Son éradication prévient la survenue de ces complications.
 {{% /collapse %}}
 {{%collapse "Épidémiologie" %}}
 
-La France est un pays de faible incidence.
+La France est un pays de faible incidence:
 
 - 15 à 30% de la population serait infectée  
 < 20% avant 30 ans et > 50% après 50 ans.
 - 10% développent un ulcère et 1% un cancer.
 
-### Antibiorésistance d'*H. pylori* en France en 2018
+### Antibiorésistance d'*H. pylori* en France en 2020
 
-- Amoxicilline 0%
+- Amoxicilline 0,4%
 - Clarithromycine 21%
 - Lévofloxacine 18%
-- tétracycline 0%
+- Tétracycline 0%
 - Rifampicine 1%
 - Métronidazole 59%
 
@@ -75,11 +75,11 @@ La France est un pays de faible incidence.
 - Antécédent d'ulcère gastro-duodénal sans endoscopie
 - Avant prise d'AINS ou d'aspirine faible dose en cas d'antécédent d'ulcère
 - [Dyspepsie chronique]({{< relref "dyspepsie.md" >}}) avec endoscopie normale
-- Anémie ferriprive sans cause retrouvée ou résistante à la supplémentation
+- [Anémie ferriprive]({{< relref "anemie.md" >}}) sans cause retrouvée ou résistante à la supplémentation
 - Carence en vitamine B12 sans cause retrouvée
 - **Facteur de risque de cancer gastrique**
   - Antécédent familial au premier degré de cancer de l'estomac
-  - Porteur HNPCC/Lynch
+  - Porteur Lynch/HNPCC
   - Antécédent personnel de lésion cancéreuse ou pré-cancéreuse gastrique
 - Lymphome gastrique du MALT
 - Avant chirurgie bariatrique touchant l'estomac
@@ -362,6 +362,7 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 {{%collapse "Sources" %}}
 
 - [Groupe d'Études Français des Helicobacter (GEFH). Site officiel.](http://www.helicobacter.fr/)
+- [Bénéjat L et al. Épidémiologie de l’infection à Helicobacter pylori en France en 2020 : données de surveillance du CNR Campylobacters et Hélicobacters. Bull Epidémiol Hebd. 2021;(15):275-82.](http://beh.santepubliquefrance.fr/beh/2021/15/2021_15_2.html)
 - [GEFH. Recommandations de prise en charge de l'infection à *Helicobacter pylori* en 2021 pour les hépato-gastro-entérologues. 04/03/2021.](http://www.helicobacter.fr/2021/03/04/decouvrez-la-nouvelle-fiche-de-recommandation-de-prise-en-charge-de-linfection-a-helicobacter-pylori/)
 - [SNFGE et al. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 24/06/2019.](https://www.snfge.org/content/2-cancer-de-lestomac)
 - [HAS. Helicobacter pylori : recherche et traitement. 26/03/2019](https://www.has-sante.fr/jcms/c_2911396/fr/helicobacter-pylori-recherche-et-traitement)
