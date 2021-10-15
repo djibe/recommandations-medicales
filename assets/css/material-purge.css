@@ -3886,10 +3886,6 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   margin-left: 1rem !important;
 }
 
-.m-4 {
-  margin: 1.5rem !important;
-}
-
 .mt-4,
 .my-4 {
   margin-top: 1.5rem !important;
@@ -3902,6 +3898,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 .mb-4,
 .my-4 {
   margin-bottom: 1.5rem !important;
+}
+
+.ml-4 {
+  margin-left: 1.5rem !important;
 }
 
 .mt-5 {

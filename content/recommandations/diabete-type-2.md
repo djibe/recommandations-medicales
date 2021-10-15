@@ -15,7 +15,7 @@ anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "def diabète EASD 2019, statine-aspirine-vaccins, rythme depistages, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf"
+todo = "def diabète EASD 2019, statine-aspirine-vaccins, rythme depistages, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Agé: met > iDPP4 > basale (SU/glinide si bonne santé), peu arguments iSGLT2/GLP1 après 75 ans sauf CV | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IRC: met poso > iSGLT2 voire GLP1. Envisager maintien si insuline | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2 | Risque CV x 3-4"
 +++
 
 {{%article-summary%}}
@@ -235,6 +235,7 @@ window.onload = () => {
 {{%collapse "Sources" %}}
 
 - [Riddle M.C. et al. Consensus report: definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021.](https://doi.org/10.1007/s00125-021-05542-z)
+- [Monnier L. et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. Volume 1. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/sfd-dt2 >}}
 - {{< references/esc-hta >}}
