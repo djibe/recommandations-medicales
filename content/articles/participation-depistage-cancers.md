@@ -72,7 +72,6 @@ const chartOptions = {
     }
   ],
   tooltip: {
-    style: { fontSize: '14px' },
     x: { show: true },
     y: [{
       formatter: function(value) {

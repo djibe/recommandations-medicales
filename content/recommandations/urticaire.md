@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-27T17:43:41+02:00
 publishdate = 2020-10-27
-lastmod = 2020-12-21
+lastmod = 2021-10-18
 specialites = ["allergologie", "dermatologie"]
 annees = "2003"
 sources = ["ANAES", "SFDermato"]
@@ -16,8 +16,8 @@ sctid = "126485001"
 draft = false
 flowchart = true
 image = true
-imageSrc = "Photo de woofiegrrl sur Foter.com / CC BY-ND"
-todo = "TODO: relire fiche, gs, enfant, choc anaphyla, Quincke, https://onlinelibrary.wiley.com/doi/full/10.1111/all.13397, https://www.dropbox.com/sh/9ivszpuwnxdp4t8/AAB04JahlYn6qounsCr-dQKwa/2019?dl=0&preview=Grille+capacit%C3%A9+urticaire+physique+Q4.docx&subfolder_nav_tracking=1, fiche"
+imageSrc = "Urticaire superficielle. Photo de woofiegrrl sur Foter.com / CC BY-ND"
+todo = "gs, enfant, choc anaphyla, Quincke, https://onlinelibrary.wiley.com/doi/full/10.1111/all.13397, https://www.dropbox.com/sh/9ivszpuwnxdp4t8/AAB04JahlYn6qounsCr-dQKwa/2019?dl=0&preview=Grille+capacit%C3%A9+urticaire+physique+Q4.docx&subfolder_nav_tracking=1, fiche"
 +++
 
 {{%article-summary%}}
@@ -371,7 +371,7 @@ Népressol, réserpine, hydralazine, trasipressol.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une urticaire aiguë. Dr JB FRON d'après CEILF 2011" >}}
+{{< mermaid title="Conduite à tenir devant une urticaire aiguë. Dr JB Fron d'après CEILF 2011" >}}
 graph TB
   UA[Urticaire aiguë] --> gravite("<b>Signes de gravité ?</b><br>- Dysphonie<br>- Hypersalivation<br>- Troubles de la déglutition")
   style UA stroke:#4150f5, stroke-width:1px
@@ -381,12 +381,12 @@ graph TB
     gravite -- Oui --> urgence("Appel du 15<br>Traitement du choc<br>anaphylactique/Quincke")
 {{< /mermaid >}}
 
-{{< mermaid title="Conduite à tenir devant une urticaire chronique. Dr JB FRON d'après ANAES 2003" >}}
+{{< mermaid title="Conduite à tenir devant une urticaire chronique. Dr JB Fron d'après ANAES 2003" >}}
 graph TB
   UC["Urticaire chronique<br>&gt; 6 semaines"] --> orientation("Maladie générale<br> ou forme particulière?")
   style UC stroke:#4150f5, stroke-width:1px
     orientation -- Non --> isolee("Urticaire isolée<br>= pas de bilan") --> ttt1(Anti-H1 2G 4 à 8 sem)
-        ttt1 -- Résistance --> bilan("<b>Bilan biologique</b><br>NFS, VS, CRP<br>anti-TPO +/- TSH")
+        ttt1 -- Résistance --> bilan("<b>Bilan biologique</b><hr>- NFS, VS, CRP<br>- anti-TPO +/- TSH")
         ttt1 -- Résolution --> fin(Pas de bilan)
     orientation -- Oui --> maladie(Bilan spécifique)
 {{< /mermaid >}}

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-17T00:20:41+01:00
 publishdate = 2020-12-17
-lastmod = 2020-12-17
+lastmod = 2021-10-18
 specialites = ["rhumatologie"]
 annees = "2017"
 sources = ["HAS"]
@@ -58,12 +58,10 @@ Anémie, lymphopénie isolée ou hyperlymphocytose.
 - Protéinurie > 0,5 g/L
 - Certaines anomalies osseuses radiologiques  
 Fracture vertébrale suspecte, fracture pathologique, géodes.
+- [Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}) (*COFER*)
+- [Bouffées vasomotrices atypiques]({{< relref "menopause.md" >}} ) (*CNGOF 2021*)
 
 > Source HAS 2017
-
-Et:
-
-- [Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}) (systématique)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

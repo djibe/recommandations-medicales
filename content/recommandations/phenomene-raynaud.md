@@ -6,8 +6,8 @@ synonyms = ["Maladie de Raynaud", "syndrome de Raynaud"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-04T10:57:00+02:00
 publishdate = 2021-05-04
-lastmod = 2021-05-19
-specialites = ["medecine interne"]
+lastmod = 2021-10-18
+specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["CEDEF", "SFMV"]
 tags = []
@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Tcal via wikipedia, CC BY-SA 3.0"
-todo = "lire https://www.em-consulte.com/article/833156/article/bilan-etiologique-minimal-du-phenomene-de-raynaud%C2%A0, TSH ?"
+todo = "lire https://www.em-consulte.com/article/833156/article/bilan-etiologique-minimal-du-phenomene-de-raynaud%C2%A0"
 +++
 
 {{%article-summary%}}
@@ -166,29 +166,29 @@ Si le bilan est négatif: pas d'avis spécialisé sauf modification des caractè
 Sinon, adresser à l'interniste.
 
 {{%info%}}
-Bilan systématique
+Bilan systématique selon Le COFER:
 
 - NFS, VS, CRP
-- Électrophorèse des protéines sériques
+- TSH
 - Anticorps anti-nucléaires
-- Anticorps anti-Scl70
-- Anticorps anti-centromères
 - Facteur rhumatoïde
-
----
-
-Capillaroscopie  
-Par l'angiologue: recherche une micro-angiopathie spécifique débutante de sclérodermie.
+- Électrophorèse des protéines sériques
 
 {{%/info%}}
 
 ### En signes d'alerte
 
-- Radiographie des mains, pieds et thorax
+En signes de maladie systémique:
+
+- Anticorps anti-Scl70
+- Anticorps anti-centromères
 - Anticorps anti-RiboNucléoProtéine
 - Anticorps anti-cardiolipine
 - Cryoglobuline
+- Radiographie des mains, pieds et thorax
 - Echodoppler des artères des membres supérieurs
+- Capillaroscopie  
+Par l'angiologue: recherche une micro-angiopathie spécifique débutante de sclérodermie.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
@@ -230,7 +230,7 @@ style susp stroke:#4150f5, stroke-width:1px
 
 - [CEDEF. Acrosyndromes. Phénomène de Raynaud, érythermalgie, acrocyanose, engelures, ischémie digitale. Item 237. UE8. 2017.](https://undf.cedef.org/fr/document/Acrosyndromes.-Ph%C3%A9nom%C3%A8ne-de-Raynaud,-%C3%A9rythermalgie,-acrocyanose,-engelures,-isch%C3%A9mie-digitale)
 - [Prescrire Redaction. Phénomène de Raynaud primitif. Actualisation juin 2019. Premiers choix Prescrire. 2019.](https://prescrire.org/)
-- [Pistorius M.-A., P.-H. Carpentier, le groupe de travail « Microcirculation » de la Société française de médecine vasculaire, Bilan étiologique minimal du phénomène de Raynaud : un consensus d’experts, Volume 4048, Issue 8, 08/2013, Pages 497-586, ISSN 0151-9638.](https://doi.org/10.1016/j.annder.2015.04.001)
+- [Pistorius M-A., Carpentier P-H, le groupe de travail « Microcirculation » de la Société française de médecine vasculaire, Bilan étiologique minimal du phénomène de Raynaud : un consensus d’experts, Volume 4048, Issue 8, 08/2013, Pages 497-586, ISSN 0151-9638.](https://doi.org/10.1016/j.annder.2015.04.001)
 - [COFER. Phénomène de Raynaud. Item 327. 2011.](http://campus.cerimes.fr/rhumatologie/enseignement/rhumato40/site/html/cours.pdf)
 
 {{% /collapse %}}

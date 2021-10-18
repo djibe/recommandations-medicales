@@ -105,7 +105,7 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
 </form>
 <h3 class="typography-overline">1<sup>re</sup> intention</h3>
 <button class="chip chip-action mb-2" type="button" data-toggle="modal" data-target="#modal-metformine">Metformine</button>
-<p class="text-warning my-2">La metformine doit toujours être maintenue.</p>
+<p class="font-weight-bold my-2">La metformine doit être maintenue au long cours.</p>
 <!-- 2e intention -->
 <h3 class="typography-overline mt-3">Bithérapie - Ajouter au choix</h3>
 <div class="mb-2 choix-standard">

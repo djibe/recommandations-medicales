@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2021-10-12"
+lastmod = "2021-10-18"
 specialites = ["gynecologie-obstetrique"]
 annees = "2018"
 sources = ["CNGOF", "HAS"]
@@ -17,7 +17,7 @@ draft = false
 datatable = false
 image = true
 imageSrc = "La contraception illustrée par stories / Freepik"
-todo = "fiche patiente, https://www.has-sante.fr/jcms/p_3261764/fr/contraception, https://ansm.sante.fr/actualites/contraception-ou-en-sommes-nous, stérilisation, nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, 5% dev HTA sous COP ESC 2018, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers"
+todo = "fiche patiente, https://www.has-sante.fr/jcms/p_3261764/fr/contraception, https://ansm.sante.fr/actualites/contraception-ou-en-sommes-nous, stérilisation, nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, 5% dev HTA sous COP ESC 2018, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, barrière"
 +++
 
 {{%article-summary%}}
@@ -38,12 +38,14 @@ Le défaut d'observance est l'une des causes principales des grossesses non plan
 
 **COC:** contraception orale combinée (ou œstroprogestative. COP utilisée par le CNGOF)  
 **COP:** contraception œstroprogestative  
-**DMPA:** TODO:
+**DMPA:** produits contraceptifs injectables à base d'acétate de médroxyprogestérone dépôt  
 **EE:** éthinyl-estradiol  
+**EP:** embolie pulmonaire  
 **FRCV:** facteur de risque cardiovasculaire  
 **GEU:** grossesse extra-utérine  
 **LNG:** lévonorgestrel  
-**MVTE:** maladie veineuse thromboembolique
+**MVTE:** maladie veineuse thromboembolique  
+**TVP:** thrombose veineuse profonde
 
 {{% /collapse %}}
 {{%collapse "Contre-indications aux œstroprogestatifs" %}}
@@ -55,7 +57,7 @@ Seuls les COP contenant ≥ 50 µg d'EE sont associées au risque d'accident art
 
 - Antécédent familial au 1<sup>er</sup> degré
   - IDM/AVC chez homme < 55 ans ou femme < 65 ans
-  - MVTE (TVP, EP, TVS) < 50 ans  
+  - MVTE (TVP, EP) < 50 ans  
   Ou nombre élevé d'apparentés quelque soit le degré.
 - Hypertension artérielle
 - Dyslipidémie non contrôlée
