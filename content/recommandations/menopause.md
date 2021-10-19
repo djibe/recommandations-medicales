@@ -14,7 +14,7 @@ tags = ["sueurs nocturnes"]
 anglais = ["Menopause", "Postmenopausal hormone replacement therapy"]
 sctid = "276477006"
 chart = true
-draft = true
+draft = false
 image = false
 imageSrc = ""
 todo = "fiche Drive, Prescrire, relecture gemvi-secretariat@gemvi.org, bilan IOP"
@@ -22,7 +22,8 @@ todo = "fiche Drive, Prescrire, relecture gemvi-secretariat@gemvi.org, bilan IOP
 
 {{%article-summary%}}
 
-TODO:
+- *Version préliminaire*
+- TODO:
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
