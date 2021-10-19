@@ -30,7 +30,9 @@ todo = "ttt ambulatoire accès palustre, piqures, http://medecinetropicale.free.
 - Maladie à déclaration obligatoire
 - Voyage tropical: protection contre les moustiques et chimioprophylaxie.
 
-### Épidémiologie
+{{%/article-summary%}}
+
+{{%collapse "Épidémiologie" %}}
 
 - 4000 cas/an (importés)  
 95% contractés en Afrique subsaharienne  

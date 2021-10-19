@@ -37,6 +37,20 @@ Autres types rares: lymphomes (du MALT, *HP* +++) > stromales (GIST) > endocrine
 : 80% sont causés par une **[gastrite chronique à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}})**.
 : Survie à 5 ans de 30%
 
+### Épidémiologie
+
+#### Le cancer de l'estomac en France
+
+- **Incidence**: 6600 cas (2017).  
+La moitié après 75 ans, 2/3 d'hommes.
+- 4400 décès (2017)
+
+#### Le cancer de l'estomac dans le monde
+
+- 1 million de cas annuels
+- 5<sup>e</sup> cancer le plus fréquent chez la femme, 4<sup>e</sup> chez l'homme.
+- 5<sup>e</sup> cause de mortalité chez la femme, 3<sup>e</sup> chez l'homme.
+
 ### Abréviations
 
 **AE:** Accord d'experts  
@@ -44,21 +58,6 @@ Autres types rares: lymphomes (du MALT, *HP* +++) > stromales (GIST) > endocrine
 **HP**: *Helicobacter pylori*  
 **IPP:** Inhibiteurs de la pompe à protons  
 **K:** Cancer
-
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
-
-### Le cancer de l'estomac en France
-
-- **Incidence**: 6600 cas (2017).  
-La moitié après 75 ans, 2/3 d'hommes.
-- 4400 décès (2017)
-
-### Le cancer de l'estomac dans le monde
-
-- 1 million de cas annuels
-- 5<sup>e</sup> cancer le plus fréquent chez la femme, 4<sup>e</sup> chez l'homme.
-- 5<sup>e</sup> cause de mortalité chez la femme, 3<sup>e</sup> chez l'homme.
 
 {{% /collapse %}}
 {{%collapse "Facteurs de risque" %}}

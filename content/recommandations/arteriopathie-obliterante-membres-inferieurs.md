@@ -54,6 +54,14 @@ Une neuropathie doit être éliminée lorsque les douleurs sont absentes.
 Blue toe syndrome
 : Ischémie aiguë d'un ou plusieurs orteils par embolie athéroscléreuse à l'origine d'une coloration cyanosée de l'orteil. Urgence thérapeutique.
 
+### Épidémiologie
+
+- **Prévalence:** 3-10%  
+15-20% après 70 ans.
+- À 5 ans:
+  - 20% des personnes avec une claudication ont eu un AVC ou un IDM
+  - 10-15% sont morts
+
 ### Abréviations
 
 **AAA:** anévrysme de l'aorte abdominale  
@@ -69,15 +77,6 @@ Blue toe syndrome
 **RCV:** risque cardiovasculaire  
 **RV:** rapport de vraisemblance  
 **TZD:** diurétique thiazidique
-
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
-
-- **Prévalence:** 3-10%  
-15-20% après 70 ans.
-- À 5 ans:
-  - 20% des personnes avec une claudication ont eu un AVC ou un IDM
-  - 10-15% sont morts
 
 {{% /collapse %}}
 {{%collapse "Dépistage" %}}

@@ -36,18 +36,17 @@ La vaccination prévient 90% des infections causant ces cancers.
 : 1<sup>re</sup> *infection sexuellement transmissible* mondiale avec plus de 150 génotypes.  
 : En coloscopie, HPV retrouvé chez 43% des femmes et 24% des hommes (Vuitton 2018).
 
-### Abréviations
+### Épidémiologie
 
-**HSH:** Homme ayant des rapports sexuels avec des hommes
-
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
-
-- **Incidence:** 6300 cancers annuels et 35.000 dysplasies.
-- **Sex ratio:** 75% des cancers atteignent des femmes.
-- **Couverture vaccinale:** 23,7% des jeunes filles âgées de 16 ans ont un schéma vaccinal complet (2018).
+- **Incidence:** 6300 cancers annuels et 35.000 dysplasies
+- **Sex ratio:** 75% des cancers atteignent des femmes
+- **Couverture vaccinale:** 23,7% des jeunes filles âgées de 16 ans ont un schéma vaccinal complet (2018)
 
 > Source INCa
+
+### Abréviations
+
+**HSH:** homme ayant des rapports sexuels avec des hommes
 
 {{% /collapse %}}
 {{%collapse "Complications" %}}

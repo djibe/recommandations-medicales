@@ -42,8 +42,7 @@ Asthme du nourrisson
 : Au moins 3 épisodes de bronchiolite de 0 à 36 mois.  
 On retrouve fréquemment un terrain atopique.
 
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
 - 30% des nourrisson atteints chaque hiver  
 Pic chez les 2 à 8 mois.

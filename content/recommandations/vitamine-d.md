@@ -27,7 +27,7 @@ Vitamine D
 L'unité internationale est le **nmol/L**.
 : **Bénéfices de la supplémentation**  
 Réduit les fractures non vertébrales des +65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 30 ng/mL.
-: Selon l’Inserm, une carence en vitamine D serait fortement liée au développement de la maladie d’Alzheimer. D’autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés *([Féart C., Samieri C. 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/))*.
+: Selon l’Inserm, une carence en vitamine D serait fortement liée au développement de la maladie d’Alzheimer. D’autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés (*[Féart C., Samieri C. 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)*).
 
 Carence en vitamine D de l'adulte et de l'enfant
 : Taux sérique de vitamine D < 30 nmol/L.  
@@ -42,14 +42,7 @@ Ne pas supplémenter au-delà 150 nmol/L.
 
 {{%info%}}À tous les âges, des apports quotidiens de 1000 UI/j sont recommandés.{{%/info%}}
 
-### Abréviations
-
-**25OHD:** cholécalciférol  
-**IRC:** insuffisance rénale chronique  
-**UI:** unités internationales
-
-{{%/collapse%}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
 - **Déficit en vitamine D**  
 75% des adultes, 70% des enfants.
@@ -57,6 +50,12 @@ Ne pas supplémenter au-delà 150 nmol/L.
 7% des adultes, 13% des adolescents, 4% des enfants.
 
 > Santé Publique France. Étude Esteban.
+
+### Abréviations
+
+**25OHD:** cholécalciférol  
+**IRC:** insuffisance rénale chronique  
+**UI:** unités internationales
 
 {{%/collapse%}}
 {{%collapse "Conversion d'unités de la vitamine D" %}}

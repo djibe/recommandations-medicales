@@ -36,8 +36,7 @@ Le saturne était le plomb chez les grecs.
 Pica
 : Trouble du comportement alimentaire caractérisé par l'ingestion prolongée (> 1 mois) de substances non comestibles non nutritives.
 
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
 25% des enfants 1 à 6 ans ont une plombémie > 25 µg/L (InVS).
 

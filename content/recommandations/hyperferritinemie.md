@@ -37,6 +37,14 @@ Hyperferritinémie (HF)
 : Ferritinémie **> 200 µg/L chez la femme** et **300 µg/L chez l'homme**.
 : Elle est *modérée* jusqu'à 500 µg/L, *nette* jusqu'à 1000 µg/L et *majeure* > 1000 µg/L.
 
+### Épidémiologie
+
+- Une hyperferritinémie est associée à la survenue d'un syndrome métabolique et d'un diabète de type 2
+- 1/3 des diabétiques et 1/4 des pré-diabétiques ont une hyperferritinémie
+- 20% des NASH ont une HF et 1/3 a une hépatosidérose métabolique.
+
+> Source FMC POST'U
+
 ### Abréviations
 
 **CST:** coefficient de saturation de la transferrine  
@@ -44,15 +52,6 @@ Hyperferritinémie (HF)
 **HC:** hémochromatose  
 **HF:** hyperferritinémie (exprimée en µg/L sauf mention contraire)  
 **SAM:** syndrome d'activation macrophagique
-
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
-
-- Une hyperferritinémie est associée à la survenue d'un syndrome métabolique et d'un diabète de type 2
-- 1/3 des diabétiques et 1/4 des pré-diabétiques ont une hyperferritinémie
-- 20% des NASH ont une HF et 1/3 a une hépatosidérose métabolique.
-
-> Source FMC POST'U
 
 {{% /collapse %}}
 {{%collapse "Étiologie" %}}

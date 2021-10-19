@@ -39,8 +39,7 @@ todo = "arbre décisionnel, modif extension 9 SA"
 
 > << Dans tous les cas où cela est possible, les femmes doivent pouvoir choisir la méthode, médicamenteuse ou chirurgicale, et recevoir une information détaillée. Cette information renforce la satisfaction des femmes après IVG. >>
 
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
 - En 2018: 209.500 IVG en métropole soit 1 IVG pour 4 naissances (record historique depuis 1990).
 - Taux de recours de 15 IVG pour 1000 femmes de 15 à 49 ans en métropole (27,8 dans les DROM).  

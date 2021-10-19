@@ -68,6 +68,14 @@ Accessible à l'hypnose, psychothérapie, sexologie.
 Les AINS ne sont donc utilisés qu'en péri-menstruel.
 {{%/info%}}
 
+### Épidémiologie
+
+- 2,5 millions de patientes en France, environ 10% des femmes en âge de procréer
+- Endométriose responsable de 30% des infertilités féminines
+- et 30% des femmes avec douleurs pelviennes chroniques
+- 75% des douleurs pelviennes chroniques résistantes sont endométriosiques
+- 70% des adolescentes avec dysménorrhées
+
 ### Abréviations
 
 **AMP:** assistance médicale à la procréation  
@@ -76,15 +84,6 @@ Les AINS ne sont donc utilisés qu'en péri-menstruel.
 **EHP-5:** échelle de qualité de vie {{%lang%}}Endometriosis Health Profile-5{{%/lang%}}  
 **LNG:** lévonorgestrel  
 **TV:** toucher vaginal
-
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
-
-- 2,5 millions de patientes en France, environ 10% des femmes en âge de procréer
-- Endométriose responsable de 30% des infertilités féminines
-- et 30% des femmes avec douleurs pelviennes chroniques
-- 75% des douleurs pelviennes chroniques résistantes sont endométriosiques
-- 70% des adolescentes avec dysménorrhées
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

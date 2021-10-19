@@ -44,6 +44,13 @@ Nerf trijumeau
 : Le nerf crânien mixte trijumeau est responsable de la sensibilité somatique de la partie antérieure céphalique et motrice des muscles masticateurs.
 : Il est composé de 3 branches: *nerf ophtalmique V1*, *nerf maxillaire V2* et *nerf mandibulaire V3* et son ganglion (dit de Gasser) est localisé dans le *cavum de Meckel*.
 
+### Épidémiologie
+
+- Maladie rare avec prévalence h/f 10,7-20/100.000.  
+- Personne d’âge moyen (60+)
+- Atteint préférentiellement les femmes (2/3)
+- 1/3 n'a pas de récidives
+
 ### Abréviations
 
 **ICHD-3:** {{%lang%}}International Classification of Headache Disorders 3rd edition{{%/lang%}}
@@ -52,14 +59,6 @@ Nerf trijumeau
 **V1:** nerf ophtalmique  
 **V2:** nerf maxillaire  
 **V3:** nerf mandibulaire
-
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
-
-- Maladie rare avec prévalence h/f 10,7-20/100.000.  
-- Personne d’âge moyen (60+)
-- Atteint préférentiellement les femmes (2/3)
-- 1/3 n'a pas de récidives
 
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques ICHD-3" %}}

@@ -53,22 +53,20 @@ Rechercher une chondrocalcinose associée.
 - Vieillissement
 - Traumatismes articulaires répétés
 
+### Épidémiologie
+
+France: chez les 40-75 ans, prévalence de 2-10% pour les femmes et 1,5-15% pour les hommes.
+
 ### Abréviations
 
 **AH:** acide hyaluronique  
 **AASAL:** anti-arthrosiques symptomatiques d'action lente
 
 {{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
-
-En France, chez les personnes de 40 à 75 ans, la prévalence est de 2 à 10% pour les femmes et 1,5 à 15% pour les hommes.
-
-{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 ### Interrogatoire
 
-- Âge
 - Antécédents  
 Traumatismes articulaires, rhumatismes, cardiovasculaires, rénales, gastriques.
 - Facteurs de risque cardiovasculaires

@@ -37,20 +37,19 @@ Contraception d'urgence
 : Méthode de rattrapage, conçue pour être utilisée par une femme en situation d’urgence, après un rapport non protégé (voire un viol), un échec ou un usage défectueux d’une méthode contraceptive.  
 Elle peut être hormonale (lévonorgestrel ou ulipristal acétate) ou mécanique (stérilet).
 
+### Épidémiologie
+
+- Usage lié à 30% d'oubli de pilule, 30% de rupture de préservatif, 17% d'absence de contraception
+- Principe bien connu: 95% des -30 ans
+- Délai maximal inconnu: **1%** des -30 ans connaît le délai maximum de 5 jours
+- Peu utilisée: 11,5% des 15-29 ans avec rapport à risque y ont recours
+
 ### Abréviations
 
 **CPEF:** centres de planification et d’éducation familiale  
 **DIU:** dispositif intra-utérin (ou stérilet)  
 **PCU:** pilule contraceptive d'urgence (ou pilule du lendemain)  
 **UPA:** ulipristal acétate
-
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
-
-- Usage lié à 30% d'oubli de pilule, 30% de rupture de préservatif, 17% d'absence de contraception
-- Principe bien connu: 95% des -30 ans
-- Délai maximal inconnu: **1%** des -30 ans connaît le délai maximum de 5 jours
-- Peu utilisée: 11,5% des 15-29 ans avec rapport à risque y ont recours
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}

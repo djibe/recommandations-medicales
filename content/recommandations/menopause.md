@@ -5,19 +5,19 @@ shortname = "Ménopause"
 synonyms = ["Syndrome climatérique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
-publishdate = "2021-10-17"
-lastmod = "2021-10-17"
+publishdate = "2021-10-19"
+lastmod = "2021-10-19"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF"]
 tags = ["sueurs nocturnes"]
-anglais = ["Menopause"]
+anglais = ["Menopause", "Postmenopausal hormone replacement therapy"]
 sctid = "276477006"
 chart = true
 draft = true
 image = false
 imageSrc = ""
-todo = "fiche Drive, Prescrire"
+todo = "fiche Drive, Prescrire, relecture gemvi-secretariat@gemvi.org, bilan IOP"
 +++
 
 {{%article-summary%}}
@@ -33,7 +33,7 @@ Ménopause
 : Elle est *chirurgicale* si elle résulte d'ovariectomie bilatérale ou *iatrogène* si radio/chimio-induite.
 : Le diagnostic est *clinique*: période d'aménorrhée de 12 mois consécutifs sans cause évidente chez une femme de plus de 45 ans.  
 Les signes *climatériques* (bouffées de chaleur, sueurs nocturnes, sécheresse vaginale...) sont inconstants et ne sont pas nécessaires au diagnostic.
-: Après 50 ans, le risque de grossesse est de 1-5/1000 année-femme.
+: Après 50 ans, le risque de grossesse est de 1-5/1000 année-femme. 11 million de femmes ménopausées en France.
 : Après la ménopause, l'*ostéoporose* (40% de risque fracturaire) et les *maladies cardiovasculaires* (MCV, 45% des décès) augmentent considérablement.
 
 Insuffisance ovarienne prématurée
@@ -70,9 +70,12 @@ En revanche, un test *négatif* (absence de saignements) n'affirme pas une méno
 **DMO:** densité minérale osseuse  
 **DXA:** absorptiométrie biphotonique à rayons X  
 **FSH:** {{%lang%}}Follicle Stimulating Hormone{{%/lang%}} ou hormone folliculo-stimulante  
+**IMC:** indice de masse corporelle  
 **IOP:** insuffisance ovarienne prématurée (ex ménopause précoce)  
 **MVTE:** maladie veineuse thromboembolique (embolie pulmonaire ou thrombose veineuse profonde)  
-**SGUM**: syndrome génito-urinaire de la ménopause  
+**SDM:** syndrome douloureux mammaire  
+**SGUM:** syndrome génito-urinaire de la ménopause  
+**SUA:** saignements utérins anormaux  
 **THM:** traitement hormonal de la ménopause (ex THS)
 
 {{% /collapse %}}
@@ -110,11 +113,11 @@ Dosages répétés de FSH (≥ 30 UI/L) et estradiol (< 20 pg/mL) à distance de
 
 - Antécédents  
 Cardiovasculaires, fracturaires, chirurgicaux.
-- Suivi des dépistages organisés des cancers
 - Facteurs de risque cardiovasculaire +
   - Âge > 60 ans
   - Ancienneté de la ménopause
   - Antécédent de prééclampsie ou diabète gestationnel
+- Poids, taille, IMC, pression artérielle aux 2 bras, pouls périphériques
 - Symptômes cardiovasculaires  
   - Douleurs thoraciques, angor
   - Fatigue, dyspnée
@@ -136,6 +139,9 @@ Cardiovasculaires, fracturaires, chirurgicaux.
   Anti-aromatase.
 - Toxiques  
 Alcool, tabac, autres.
+- Suivi des dépistages organisés des cancers
+- Palpation des seins
+- Examen gynécologique complet
 - Syndrome climatérique
   - Bouffées vasomotrices (BVM, 80% dont 1/4 très invalidantes)  
   Durent 5-7 ans voire > 15.
@@ -146,6 +152,7 @@ Alcool, tabac, autres.
   - Syndrome génito-urinaire de la ménopause (SGUM, 27-70%)  
   Ex. *atrophie vulvovaginale*.  
   Diagnostic clinique si ≥ 1 symptôme: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (SFU, cystites récidivantes).
+- Information claire des bénéfices-risques à notifier dans le dossier médical
 
 > En début de ménopause, le score clinique *FRAX* a des performances prédictives de fracture médiocres. La mesure de la DMO par DXA est prédictive à 10 ans (Se 60%, Spe 70%)
 
@@ -153,12 +160,37 @@ Alcool, tabac, autres.
 
 Évoquer devant: persistance sous THM adapté, apparaissant/récidivant à distance de la ménopause, modifications des caractères habituels, associées (céphalées, palpitations, malaise, diarrhée, poussée hypertensive).
 
-TODO: Tableau 3
+Réaliser le bilan recommandé (voir *Examens complémentaires*) et adresser à l'endocrinologue.
+
+### Saignements utérins anormaux (SUA)
+
+Les saignements utérins anormaux chez une femme prenant un THM sont ceux survenant en dehors de la période d'arrêt du progestatif en schéma séquentiel (*FIGO 2011*).
+
+Sous THM, les SUA sont peu fréquents (15%) et surtout en début de THM. Ils sont une cause importante de mauvaise observance.  
+Le bilan différentiel doit être systématique (voir *Examens complémentaires*) pour éliminer un cancer de l'endomètre. Les autres causes sont: reprise de l'activité ovarienne, observance médiocre, troubles trophiques de l'endomètre.
+
+### Syndrome douloureux mammaire (SDM)
+
+Le THM entraîne la persistance des douleurs des seins associées à la ménopause.  
+Le risque de cancer du sein est augmenté en SDM modéré à intense.  
+Informer les patientes lors de la prescription.
+
+En SDM bilatéral en contexte de ménopause récente, il est proposé de réduire ou d'interrompre le THM.
+
+Le rythme des mammographies est inchangé lorsque les douleurs sont diffuses.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 Aucun examen n'est recommandé pour le diagnostic de ménopause.
+
+### Bilan pré-thérapeutique
+
+- Poids, taille, IMC, PA 2 bras, pouls périphériques
+- Palpation des seins, examen gynécologique complet
+- Mammographies de dépistage à jour
+- Frottis cervico-vaginal
+- Glycémie à jeun et bilan lipidique
 
 ### Ostéodensitométrie
 
@@ -167,6 +199,7 @@ Indications à l'ODM:
 - ≥ 1 facteur de risque fracturaire (voir *Clinique*)
 - La connaissance de la DMO peut modifier la balance bénéfices-risques du THM
 - Contrôle à 2 ans de THM pour risque fracturaire
+- Contrôle à l'arrêt du THM si prescrit pour risque fracturaire
 
 ### Examens à réaliser pour des bouffées vasomotrices atypiques
 
@@ -179,6 +212,15 @@ Indications à l'ODM:
 - ± Radiographie de thorax
 
 Le reste du bilan est réalisé par l'endocrinologue.
+
+### Examens à réaliser pour des saignements utérins anormaux
+
+- Échographie pelvienne
+  - Épaisseur endométriale normale ≤ 4 mm
+  - Doit être réalisée en fin de séquence progestative en schéma séquentiel ou à tout moment en schéma combiné
+  - Pas d'autre examen si épaisseur normale si épisode de saignement unique
+- Hystéroscopie et biopsies  
+Si endomètre > 4 mm ou saignements répétés.
 
 {{% /collapse %}}
 {{%collapse "Traitements non hormonaux" %}}
@@ -209,20 +251,35 @@ TODO: Souberbielle.
   - Hydratants ou lubrifiants locaux
   - Acide hyaluronique local
   - Sténose: dilatateurs de taille croissante
+- Antécédent de cancer du sein
+  - Contre-indication aux phytoœstrogènes
 
 {{%info%}}Prise de poids << Seuls les excès répétés et/ou un déséquilibre chronique quantitatif et qualitatif de l’alimentation peuvent être en cause >> (*CNGOF 2021*){{% /collapse %}}
 
-Cancer du sein, ne pas utiliser: phytoœstrogènes
-
 {{% /collapse %}}
-{{%collapse "Traitement hormonal de la ménopause" "show"%}}
+{{%collapse "Traitement hormonal de la ménopause" %}}
+
+[Information de la patiente - GEMVI: Fiche info ménopause et THM](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
 
 {{%warning%}}
 
 ### Contre-indications au traitement hormonal de la ménopause
 
+- Antécédent de cancer du sein  
+Quelque soit le statut hormonal ou invasif/in situ.
+- Cancer de l'endomètre (TODO:)
 - Antécédent d'infarctus du myocarde ou d'AVC ischémique
 - Maladie d'Alzheimer
+- Relatives
+  - Syndrome douloureux mammaire
+- Temporaires
+  - Exploration de masse mammaire
+  - Exploration de saignements utérins anormaux
+- Estradiol par voie orale
+  - Antécédent de MVTE
+  - Obésité
+  - Thrombophilie
+  - Risque cardiovasculaire marqué
 
 > *CNGOF 2021*
 
@@ -242,6 +299,8 @@ Le THM peut être proposé en ménopause récente (< 10 ans) selon la balance b�
   - Effet inconstant, partiel et suspensif
   - Estrogènes par voie vaginale
   - Effet synergique avec lactobacilles
+- Insuffisance ovarienne précoce (TODO:)  
+Au moins jusqu'à 51 ans.
 
 Précisions: aucun effet sur l'endomètre si durée < 2 ans.
 
@@ -266,9 +325,20 @@ L'absence d'efficacité doit faire rechercher des BVM atypiques (voir *Clinique*
   - Antécédent de MVTE
   - Obésité
   - Thrombophilie
+- Signes d'hyper-estrogénie  
+Réduire la posologie du THM.
 - Réévaluation annuelle du THM
-- L'arrêt peut être brutal ou dégressif  
-Identiques sur la récidive du syndrome climatérique.
+- Arrêt du THM
+  - Il peut être brutal ou dégressif  
+  Effet identique sur la récidive du syndrome climatérique.
+  - Il peut être repris en cas de dégradation de la qualité de vie (selon la balance B-R)
+  - Poursuite du suivi médical osseux et cardiovasculaire
+- Découverte de masse mammaire
+  - Suspendre le THM
+  - Réaliser échographie + mammographie
+  - Exploration habituelle du kyste (*CNGOF 2015*)
+  - Reprise possible du THM si lésion bénigne
+  - Contre-indication formelle si lésion maligne
 
 <div id="chart" class="border alert mb-4"></div>
 
@@ -396,7 +466,8 @@ Uniquement avec ECE + MPA mais principe de précaution.
 - MVTE  
   - Si estradiol + acétate de nomegestrol ou promegestone
   - Risque de récidive en antécédent de MVTE et estradiol oral
-- Cancer du sein si THM > 5 ans
+- Cancer du sein si THM > 5 ans  
+Disparaît en 2-10 ans après l'arrêt du THM.
 - Cancer de l'endomètre si estradiol seul  
 12 jours minimum de progestatif mensuels.
 - Cancer de l'ovaire  
@@ -405,7 +476,7 @@ Uniquement avec ECE + MPA mais principe de précaution.
 ##### Effets neutres marquants du THM
 
 - MVTE  
-Si estradiol cutané + progestérone micronisée (dydrogestérone, acétate de chlormadinone, medrogestone, acétate de cyprotérone, acétate de médroxyprogestérone) quelque soit l'IMC.
+Si estradiol cutané + progestérone micronisée (dydrogestérone, acétate de chlormadinone, médrogestone, acétate de cyprotérone, acétate de médroxyprogestérone) quelque soit l'IMC.
 - Incidence du cancer du sein si durée < 5 ans
 - Mortalité par cancer du sein
 - Cancer de l'endomètre en association recommandée
@@ -413,6 +484,39 @@ Si estradiol cutané + progestérone micronisée (dydrogestérone, acétate de c
 > *CNGOF 2021*
 
 {{%info%}}<< La mortalité par cancer du sein n'est pas augmentée chez les femmes recevant un THM que cela soit dans les essais randomisés ou les études d'observation et quel que soit le type de THM >> (*CNGOF 2021*){{%/info%}}
+
+{{% /collapse %}}
+{{%collapse "Spécialités disponibles pour le THM" %}}
+
+{{%info%}}
+**Débuter:** œstrogène transcutané 25-37,5 µg/j OU gel 0,5 mg/j  
+\+ progestérone naturelle orale selon le rythme du schéma.
+
+Efficace sur les bouffées vasomotrices sous 1 mois.  
+Aussi efficace sur: sommeil, fatigue, humeur, sécheresse vaginale.
+
+Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)  
+\+ Progesterone orale 100 mg x 1/j en continu
+{{%/info%}}
+
+{{< table title="THM recommandés par le CNGOF disponibles seuls ou en association en France en 2021. Dr JB Fron d'après BDPM" class="table-wrap">}}
+| Classe              | Molécule                   | Spécialités                                                                   |                      Dosages (mg) |
+|---------------------|----------------------------|-------------------------------------------------------------------------------|----------------------------------:|
+| Estradiol patch     | Estradiol                  | Dermestril (-Septem), Estrapatch, Femsept, Oesclim, Thais (-sept), Vivelledot | 25, 37,5, 40, 50, 60, 75, 80, 100 |
+| Estradiol gel       | Estradiol                  | Delidose, Estreva, Oestrodose                                                 |                      0,5, 0,75, 1 |
+| Progestatif         | Dydrogestérone             | Duphaston                                                                     |                                10 |
+|                     | Médrogestone               | Colprone                                                                      |                                 5 |
+|                     | Progestérone               | Progesterone                                                                  |                          100, 200 |
+| Progestatif vaginal | Progestérone               | Utrogestan                                                                    |                          100, 200 |
+| Association         | Estradiol + lévonorgestrel | Femseptcombi, Femseptevo                                                      |                       50/7, 50/10 |
+{{< /table >}}
+
+> Doses des patchs en µg/24h
+
+{{% /collapse %}}
+{{%collapse "FMC gratuite" %}}
+
+{{< card-link title="Ménopause: L'Affaire de tous" url="https://www.pns-mooc.com/fr/mooc/1/presentation" subtitle="CNGOF, GEMVI">}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
@@ -430,5 +534,3 @@ Si estradiol cutané + progestérone micronisée (dydrogestérone, acétate de c
 {{< traitements/regime-mediterraneen >}}
 
 {{% /modal %}}
-
-≤≥±®œŒ³ÂSpO<sub>2</sub>
