@@ -46,7 +46,7 @@ Il s'agit d'une réaction inflammatoire, ils ne contiennent pas de sarcopte. Rec
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Évoquer une gale devant tout prurit ou impétiginisation.{{%/info%}}
+{{%info%}}Évoquer une gale devant tout prurit ou impétiginisation{{%/info%}}
 
 **Forme typique**: prurit diffus à recrudescence nocturne, épargnant le visage à caractère conjugal ou familial.
 
@@ -205,6 +205,8 @@ En cas de persistance de prurit après 1 mois, évoquer:
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
+
+[Information du patient - Santé BD: La gale](https://santebd.org/les-fiches-santebd/docteur-generaliste/je-me-protege-contre-la-gale)
 
 ### Exemple de message d’information destiné à l'établissement scolaire ou crèche
 

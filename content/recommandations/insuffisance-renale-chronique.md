@@ -6,7 +6,7 @@ synonyms = ["et maladie rénale chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-10-07"
+lastmod = "2021-10-19"
 specialites = ["nephrologie"]
 annees = "2021"
 sources = ["KDIGO", "ESC", "HAS"]
@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par pch.vector / Freepik"
-todo = "ameliorer flowchart, stades de la MRC source, consultation dediee Coter C + ALD ???, https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation, https://www.has-sante.fr/jcms/c_2677037/fr/prise-en-charge-des-patients-hemodialyses-chroniques-dia"
+todo = "ameliorer flowchart, avec albumine, consultation dediee Coter C + ALD ???, https://kdigo.org/guidelines/ckd-evaluation-and-management/, https://kdigo.org/guidelines/ckd-mbd/"
 +++
 
 {{% article-summary %}}
@@ -26,7 +26,7 @@ todo = "ameliorer flowchart, stades de la MRC source, consultation dediee Coter 
 - Le diagnostic est biologique
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Néphroprotection  
-IEC, PA < 120/90 mmHg, LDL < 0,7 voire 0,55 g/L...
+{{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, PA < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}...
 
 {{%/article-summary%}}
 {{%collapse "Définitions"%}}
@@ -66,7 +66,7 @@ Insuffisance rénale chronique terminale (IRCT)
 Population à risque d'insuffisance rénale chronique définie par la présence d'au moins 1 facteur de risque parmi:
 
 - [Diabète]({{< relref "diabete-type-2.md" >}})
-- Hypertension artérielle
+- [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
 - Âge ≥ 60 ans
 - Obésité
 - Athérome
@@ -80,7 +80,7 @@ Uropathie obstructive, infections urinaires récidivantes.
 - Exposition professionnelle  
 [Plomb]({{< relref "saturnisme.md" >}}), cadmium, mercure.
 - Traitement par néphrotoxiques  
-Produit de contraste iodés, chimiothérapie, radiothérapie.
+Produit de contraste iodés, AINS, chimiothérapie, radiothérapie.
 
 {{%info%}}Le dépistage des populations à risque doit être répété 1 fois par an{{%/info%}}
 
@@ -114,15 +114,15 @@ Diabète, tabagisme...
 
 ### Évaluer le stade la maladie rénale chronique
 
-{{< table title="Stades de la maladie rénale chronique" >}}
+{{< table title="Stades de la maladie rénale chronique selon KDIGO 2012" >}}
 | Stade | DFG (CKD-EPI) | Définition |
 |:-----:|:-------------:|------------|
-| 1     | &gt; 90       | MRC avec DFG normal ou augmenté |
+| 1     | &ge; 90       | MRC avec DFG normal ou augmenté |
 | 2     | 60-89         | MRC avec DFG légèrement diminué |
 | 3A    | 45-59         | IRC modérée |
 | 3B    | 30-44         | IRC modérée |
 | 4     | 15-29         | IRC sévère  |
-| 5     | < 15          | IRC terminale |
+| 5     | &lt; 15       | IRC terminale |
 {{< /table >}}
 
 > Ajouter un T au stade quand patient greffé (ex: 4T)
@@ -187,10 +187,10 @@ Ferritinémie + CRP.
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Sevrage tabagique
 - Contrôle tensionnel
-  - Seuil diagnostique: ≥ 140/90 mmHg (160 si ≥ 80 ans, *ESC 2018*)
+  - Seuil diagnostique ≥ 140/90 mmHg (160 si ≥ 80 ans, *ESC 2018*)
   - PA cible < 120/90 mmHg (*KDIGO 2021*)
-  - Greffe: < 130/80 mmHg (*KDIGO 2021*)
-  - Par IEC (ou ARA2) ± thiazidique ou anticalcique
+  - Greffe < 130/80 mmHg (*KDIGO 2021*)
+  - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} (ou {{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}) ± thiazidique ou anticalcique
   - Automesure tensionnelle
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,7 g/L et réduction ≥ 50%
   - {{< modal-btn modal-rcv >}}DFG < 30{{< /modal-btn >}}: LDL cible < 0,55 g/L et réduction ≥ 50%
@@ -278,6 +278,12 @@ bilan --> 7(Avis néphro)
 - {{< references/esc-hta >}}
 - [HAS. Maladie rénale chronique de l’adulte. Guide du parcours de soins. Février 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
 
+### À lire
+
+- [HAS. Maladie rénale chronique de l’adulte. Guide du parcours de soins. Juillet 2021.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
+- [HAS. Suivi ambulatoire de l’adulte transplanté rénal au-delà de 3 mois après transplantation. Recommandations de bonne pratique. Novembre 2007.](https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation)
+- [Stevens PE, Levin A. Kidney Disease: Improving Global Outcomes Chronic Kidney Disease Guideline Development Work Group Members. Evaluation and management of chronic kidney disease: synopsis of the kidney disease: improving global outcomes 2012 clinical practice guideline. Ann Intern Med. 2013 Jun 4;158(11):825-30.](https://kdigo.org/wp-content/uploads/2017/02/KDIGO_2012_CKD_GL.pdf)
+
 {{%/collapse%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
@@ -297,5 +303,15 @@ bilan --> 7(Avis néphro)
 {{% modal title="Clairance selon Cockroft" id="modal-score-cockroft"%}}
 
 {{< scores/cockroft >}}
+
+{{% /modal %}}
+{{% modal title="IEC dans l'hypertension" id="modal-iec" size="lg"%}}
+
+{{< traitements/iec >}}
+
+{{% /modal %}}
+{{% modal title="ARA2 dans l'hypertension" id="modal-ara2" size="lg"%}}
+
+{{< traitements/ara2 >}}
 
 {{% /modal %}}

@@ -71,6 +71,8 @@ Cancer (carcinome épidermoïde) et lésions précancéreuses sous-entendues.
 
 ### Dépistage du cancer du col de l'utérus
 
+[Information de la patiente - Santé BD: Le frottis](https://santebd.org/les-fiches-santebd/cancer/gyneco-le-frottis)
+
 Dépistage organisé du *cancer du col de l'utérus* pour toutes les femmes de 25 à 65 ans par frottis cervico-vaginal (vaccinées HPV ou non, généralisé depuis 2020).
 
 Dépistage à 25 ans, 26 ans et 29 ans avec analyse cytologique.  

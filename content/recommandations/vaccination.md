@@ -178,7 +178,8 @@ Le don du sang est contre-indiqué durant quatre semaines après les vaccination
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-[CRES PACA. Des outils de promotion de la vaccination](http://www.cres-paca.org/a/157/des-outils-de-promotion-de-la-vaccination/?utm_source=phplist785&utm_medium=email&utm_content=HTML&utm_campaign=Vaccination+%3A+des+outils+pour+les+professionnels+de+sant%C3%A9+)
+- [Information du patient - Santé BD: La vaccination](https://santebd.org/les-fiches-santebd/docteur-generaliste/la-vaccination-mieux-comprendre-la-vaccination)
+- [CRES PACA. Des outils de promotion de la vaccination](http://www.cres-paca.org/a/157/des-outils-de-promotion-de-la-vaccination/?utm_source=phplist785&utm_medium=email&utm_content=HTML&utm_campaign=Vaccination+%3A+des+outils+pour+les+professionnels+de+sant%C3%A9+)
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

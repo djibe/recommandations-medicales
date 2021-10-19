@@ -71,6 +71,8 @@ Surtout le diagnostic d'un prurit de la tête. Les lentes sont pathognomoniques.
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
+[Information du patient - Santé BD: Les poux](https://santebd.org/les-fiches-santebd/docteur-generaliste/je-me-protege-contre-les-poux)
+
 {{%info%}}
 Diméticone lotion 2 applications à J1 et J7  
 Suivie par peignage anti-poux 30 minutes  

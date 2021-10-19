@@ -6,7 +6,7 @@ synonyms = ["Malaria"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-17T12:42:00+02:00
 publishdate = 2021-02-17
-lastmod = 2021-09-06
+lastmod = 2021-10-19
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["MinSante", "Pasteur"]
@@ -30,8 +30,7 @@ todo = "ttt ambulatoire accès palustre, piqures, http://medecinetropicale.free.
 - Maladie à déclaration obligatoire
 - Voyage tropical: protection contre les moustiques et chimioprophylaxie.
 
-{{%/article-summary%}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
 - 4000 cas/an (importés)  
 95% contractés en Afrique subsaharienne  
@@ -81,13 +80,11 @@ nausées, vomissements, diarrhées.
 Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité d'un traitement préventif contre le paludisme.
 
 <div class="d-flex flex-wrap">
-
 {{< card-link title="Vaccins recommandés et prévention palustre selon l'Institut Pasteur pour un voyage" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
 
 {{< card-link title="Vaccins et conseils par pays" url="https://www.diplomatie.gouv.fr/fr/dossiers-pays/" subtitle="France Diplomatie" image="ministere" >}}
 
 {{< card-link title="Vaccins recommandés et conseils médicaux par destination" url="https://www.pasteur-lille.fr/vaccinations-voyages/" subtitle="Pasteur Lille" image="pasteur" >}}
-
 </div>
 
 {{% /collapse %}}
@@ -116,6 +113,8 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
   <p class="card-text mb-1">Chloroquine</p>
   <p id="nivaquine">1 cp par jour ou 4 cuillères-mesure par jour (100 mg)</p>
 </div>
+
+{{%info%}}Un vaccin contre le paludisme existe (RTS,S), recommandé par l'OMS au Ghana, Kenya et Malawi (*(OMS)[https://www.who.int/fr/news/item/06-10-2021-who-recommends-groundbreaking-malaria-vaccine-for-children-at-risk]*){{%/info%}}
 
 ### Chloroquine
 

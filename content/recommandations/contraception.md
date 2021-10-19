@@ -332,6 +332,8 @@ BRCA1/2 et Syndrome de Lynch: Toute contraception peut être proposée.
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
+[Santé BD: La contraception, c'est quoi ?](https://santebd.org/les-fiches-santebd/sexualite-contraception/vie-affective-et-sexuelle-la-contraception-la-contraception-cest-quoi) et [Santé BD: Les moyens de contraception ?](https://santebd.org/les-fiches-santebd/sexualite-contraception/vie-affective-et-sexuelle-la-contraception-les-moyens-de-contraception)
+
 - Différence efficacité théorique-pratique: importance de l'observance
 - Éviter l'automédication avec un traitement hormonal  
 Y compris phytothérapie, compléments alimentaires.
