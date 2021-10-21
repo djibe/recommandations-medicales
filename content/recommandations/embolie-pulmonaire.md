@@ -33,8 +33,10 @@ todo = "p.21, flowchart duree, def cancer actif, carnet AVK, https://erj.ersjour
 - Connexes: [thrombose veineuse profonde (TVP)]({{< relref "thrombose-veineuse-profonde.md" >}})
 
 {{%/article-summary%}}
-
 {{%collapse "Définition" %}}
+
+Embolie pulmonaire
+: Obstruction d'une ou plusieurs artères pulmonaires par un thrombus.
 
 Hospitalisations annuelles: 35.000  
 Mortalité hospitalière: 5%
@@ -42,6 +44,7 @@ Mortalité hospitalière: 5%
 ### Abréviations
 
 **AOD:** anticoagulant oral direct (ex-NACO)  
+**AVK:** anti-vitamine K  
 **EP:** embolie pulmonaire  
 **HPN:** hémoglobinurie paroxystique nocturne  
 **MICI:** maladies inflammatoires chroniques intestinales  
@@ -49,6 +52,7 @@ Mortalité hospitalière: 5%
 **PERC:** {{%lang%}}Pulmonary Embolism Rule-out Criteria{{%/lang%}}  
 **SAPL:** syndrome des anticorps anti-phospholipides  
 **THM:** traitement hormonal de la ménopause  
+**TIH:** thrombopénie induite à l'héparine  
 **TVP:** thrombose veineuse profonde
 
 {{% /collapse %}}
@@ -132,27 +136,94 @@ En prenant en compte l'adaptation de l'âge après 50 ans.
 
 {{%warning%}}Toute suspicion d'EP doit être explorée aux urgences (sauf probabilité faible infirmée par la règle PERC).{{%/warning%}}
 
+### Traitement ambulatoire
+
+Traitement ambulatoire possible en cas stabilité hémodynamique et de réponse négative aux 11 *critères Hestia* (dite EP à faible risque de mortalité précoce):
+
+1. Instabilité hémodynamique  
+Avis du clinicien, PAS < 100 mmHg et FC > 100/min.
+2. Thrombolyse ou embolectomie nécessaire
+3. Hémorragie active ou risque élevé d'hémorragie  
+Hémorragie digestive dans les 14j précédents, AVC < 4 semaines, chirurgie < 2 semaines, pathologie hémorragique, thrombopénie < 75.000, HTA > 180 et/ou 110 mmHg.
+4. Besoin de > 24h d'oxygénothérapie pour SpO2 > 90%
+5. Diagnostic posé sous anticoagulant curatif
+6. Douleur intense nécessitant antalgie IV > 24h
+7. Clairance selon {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 30 mL/min
+8. Insuffisance hépatique sévère
+9. Grossesse
+10. Antécédent documenté de TIH  
+Non pertinent si traitement possible par AOD.
+11. Raison médicale ou sociale pour hospitalisation > 24h
+
+### Anticoagulation curative
+
+Doit être débutée dès la suspicion clinique en l'absence de contre-indication et de risque hémorragique élevé si:
+
+- Probabilité clinique forte
+- Probabilité clinique intermédiaire et délai pour les résultats > 4h
+- Probabilité clinique faible et délai pour les résultats > 24h
+
+Avec surveillance NFS, ionogramme, créatininémie, bilan hépatique.
+
+#### Durée de l'anticoagulation
+
+La durée dépend de la présence de {{< modal-btn clinique-mvte-facteur-risque-traitement >}}facteurs de risque de récidive thromboembolique{{< /modal-btn >}}.
+
+Au moins 3 voire 6 mois ou durée non limitée:
+
+- 1<sup>re</sup> EP provoquée par un facteur transitoire majeur  
+3 à 6 mois maximum.
+- 1<sup>re</sup> EP non provoquée en l'absence de facteur majeur persistant avec ≥ 1 parmi
+  - Femme avec {{< modal-btn modal-score-herdoo2 >}}règle HERDOO2{{< /modal-btn >}} ≤ 1
+  - Femme < 50 ans
+  - Risque hémorragique élevé
+  - Persistance d'un facteur de risque mineur transitoire
+  - Alors durée de 3 à 6 mois maximum.
+- 1<sup>re</sup> EP non provoquée en l'absence de facteur majeur persistant avec ≥ 1 parmi
+  - Thrombophilie majeure identifiée (voir *facteurs de risque plus haut*)
+  - EP à haut risque
+  - Alors durée non limitée (selon risque hémorragique)
+
+TODO: Figure 11
+
+#### Anticoagulant Oral Direct (AOD)
+
+- Seuls apixaban et rivaroxaban ont l'AMM
+- Pas de surveillance biologique
+- Éducation du patient
+
+#### AVK
+
+- INR cible 2,5 (2 - 3)  
+Toutes les 3-4 semaines.
+- Éducation du patient
+- Carnet de suivi
+
+### Filtre cave
+
+Si posé temporairement, le retrait doit être programmé dès la reprise de l'anticoagulation curative.
+
 {{% /collapse %}}
 {{%collapse "EP provoquée ou spontanée ?" %}}
 
-Pour toute survenue de MVTE, il faut rechercher la présence de facteurs de risque clinique:
+TODO: A reprendre
 
-{{< clinique/mvte-facteur-risque >}}
+{{%info%}}Pour toute survenue de MVTE, il faut rechercher la présence de {{< modal-btn modal-mvte-fdr-traitement >}}facteurs de risque clinique de MVTE{{< /modal-btn >}}{{%/info%}}
 
-{{%info%}}La MVTE est *non provoquée* en l'absence de facteur de risque clinique majeur.{{%/info%}}
+{{%info%}}La MVTE est **non provoquée** en l'absence de {{< modal-btn modal-mvte-fdr-traitement >}}facteur de risque clinique majeur{{< /modal-btn >}}.{{%/info%}}
 
 ### Bilan étiologique
 
-- Recherche de cancer seulement si point d'appel en risque transitoire majeur
-- EP avec nécrose cutanée ou antécédent de pathologie vasculaire placentaire: Rechercher un *SAPL*
-- EP avec signes d'hémolyse ou cytopénie: rechercher une hémoglobinurie paroxystique nocturne (HPN)
+- Pas de recherche systématique de cancer en {{< modal-btn modal-mvte-fdr-traitement >}}risque majeur transitoire{{< /modal-btn >}}
+- EP avec *nécrose cutanée* ou antécédent de pathologie vasculaire placentaire: rechercher un *SAPL*
+- EP avec *signes d'hémolyse* ou *cytopénie*: rechercher une *hémoglobinurie paroxystique nocturne* (HPN)
 
 #### 1<sup>er</sup> épisode de MVTE non provoquée (= pas de facteur majeur)
 
 - Antécédents personnels et familiaux, symptômes, examen physique complet
-- Dépistages des cancers à jour, répéter si > 1 an
+- Dépistages des cancers à jour, répéter si ancienneté > 1 an
 - Radio de thorax (en l'absence d'angioscanner thoracique)
-- NFS, calcémie
+- NFS, ionogramme, calcémie
 - < 50 ans: rechercher un *SAPL*
 - < 50 ans et antécédent familial de thrombose: rechercher une thrombophilie constitutionnelle
 - Répéter à 6 mois ce bilan
@@ -175,7 +246,6 @@ Si indiqué, le bilan de thrombophilie est réalisé à 3-6 mois comporte:
 - Déficit en antithrombine, protéine C et protéine S
 - Mutations Leiden du facteur V
 - Mutation G20210A du Facteur II
-
 {{%/info%}}
 
 {{% /collapse %}}
@@ -198,44 +268,6 @@ Si indiqué, le bilan de thrombophilie est réalisé à 3-6 mois comporte:
   - Argumenter la poursuite ou l'arrêt des anticoagulants
 - TVP proximale associée:  
 chaussettes de contention classe 3 au moins 6 mois.
-
-### Anticoagulation curative
-
-La durée dépend de la présence de {{< modal-btn clinique-mvte-facteur-risque-traitement >}}facteurs de risque de récidive thromboembolique{{< /modal-btn >}}.
-
-Au moins 3 voire 6 mois ou durée non limitée:
-
-- 1<sup>re</sup> EP provoquée par un facteur transitoire majeur  
-3 à 6 mois maximum.
-- 1<sup>re</sup> EP non provoquée en l'absence de facteur majeur persistant avec ≥ 1 parmi
-  - Femme avec {{< modal-btn modal-score-herdoo2 >}}règle HERDOO2{{< /modal-btn >}} ≤ 1
-  - Femme < 50 ans
-  - Risque hémorragique élevé
-  - Persistance d'un facteur de risque mineur transitoire
-  - Alors durée de 3 à 6 mois maximum.
-- 1<sup>re</sup> EP non provoquée en l'absence de facteur majeur persistant avec ≥ 1 parmi
-  - Thrombophilie majeure identifiée (voir *facteurs de risque plus haut*)
-  - EP à haut risque
-  - Alors durée non limitée (selon risque hémorragique)
-
-TODO: Figure 11
-
-#### AOD
-
-- Seuls apixaban et rivaroxaban ont l'AMM
-- Pas de surveillance biologique
-- Éducation du patient
-
-#### AVK
-
-- INR cible 2,5 (2 - 3)  
-Toutes les 3-4 semaines.
-- Éducation du patient
-- Carnet de suivi
-
-### Filtre cave
-
-Si posé temporairement, le retrait doit être programmé dès la reprise de l'anticoagulation curative.
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une EP" "show" %}}
@@ -272,7 +304,7 @@ graph TB
 {{< scores/mmrc >}}
 
 {{% /modal %}}
-{{% modal title="Facteurs de risque de récidive thromboembolique" id="clinique-mvte-facteur-risque-traitement"%}}
+{{% modal title="FDR de récidive thromboembolique" id="modal-mvte-fdr-traitement"%}}
 
 {{< clinique/mvte-facteur-risque-traitement >}}
 
@@ -280,5 +312,10 @@ graph TB
 {{% modal title="Score HERDOO2 de récidive thrombotique" id="modal-score-herdoo2"%}}
 
 {{< scores/herdoo2 >}}
+
+{{% /modal %}}
+{{% modal title="Clairance selon Cockroft" id="modal-score-cockroft"%}}
+
+{{< scores/cockroft >}}
 
 {{% /modal %}}

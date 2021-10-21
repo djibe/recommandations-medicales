@@ -6,7 +6,7 @@ synonyms = ["Syndrome climatérique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
 publishdate = "2021-10-19"
-lastmod = "2021-10-19"
+lastmod = "2021-10-21"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF"]
@@ -17,13 +17,22 @@ chart = true
 draft = false
 image = false
 imageSrc = ""
-todo = "fiche Drive, Prescrire, relecture gemvi-secretariat@gemvi.org, bilan IOP"
+todo = "relecture gemvi-secretariat@gemvi.org, IOP HAS 2021"
 +++
 
 {{%article-summary%}}
 
-- *Version préliminaire*
-- TODO:
+- Entraîne une augmentation importante du risque de fracture et de maladie cardiovasculaire
+- Diagnostic clinique rétrospectif
+- La VPP du test au progestatif n'a pas été évaluée
+- Contraception: interrompre la contraception et suivre l'aménorrhée
+- Bilan d'*insuffisance ovarienne prématurée* si survenue avant 40 ans (*détail à venir*)
+- Examen clinique complet et complémentaires adaptés
+- Traitements non hormonaux: arrêt tabac/alcool, activité physique, correction d'un surpoids, yoga, hypnose...
+- THM: indications et contre-indications précises (voir *Traitement hormonal de la ménopause*)  
+CI majeures sont antécédent de cancer du sein, infarctus du myocarde ou AVC et Alzheimer
+- Débuter quand diagnostic certain et seulement dans les 10 premières années
+- Doses minimales efficaces d'estrogène cutané + progestérone orale combinés continu (ou discontinu ou séquentiels si hémorragies souhaitées)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -77,7 +86,7 @@ En revanche, un test *négatif* (absence de saignements) n'affirme pas une méno
 **SDM:** syndrome douloureux mammaire  
 **SGUM:** syndrome génito-urinaire de la ménopause  
 **SUA:** saignements utérins anormaux  
-**THM:** traitement hormonal de la ménopause (ex THS)
+**THM:** traitement hormonal de la ménopause (ex Traitement hormonal substitutif THS)
 
 {{% /collapse %}}
 {{%collapse "Diagnostic de ménopause" %}}
@@ -85,7 +94,7 @@ En revanche, un test *négatif* (absence de saignements) n'affirme pas une méno
 {{%info%}}
 Chez une femme > 45 ans, avec ou sans contraception hormonale, aucun examen ou test n'est recommandé pour porter le diagnostic de ménopause (ou décider de l'arrêt de la contraception hormonale).
 
-En cas de contraception: interrompre la contraception et suivre l'aménorrhée.
+En cas de contraception: interrompre la contraception et suivre l'aménorrhée (contraception barrière).
 {{%/info%}}
 
 Le diagnostic est clinique après 12 mois d'aménorrhée chez une femme ≥ 40 ans (voir *Définitions*).
@@ -157,6 +166,10 @@ Alcool, tabac, autres.
 
 > En début de ménopause, le score clinique *FRAX* a des performances prédictives de fracture médiocres. La mesure de la DMO par DXA est prédictive à 10 ans (Se 60%, Spe 70%)
 
+#### Diagnostic différentiel
+
+Diagnostics à évoquer devant des sueurs et des cycles irréguliers: hyperthyroïdie, hyperprolactinémie, grossesse.
+
 ### Bouffées vasomotrices atypiques
 
 Évoquer devant: persistance sous THM adapté, apparaissant/récidivant à distance de la ménopause, modifications des caractères habituels, associées (céphalées, palpitations, malaise, diarrhée, poussée hypertensive).
@@ -191,7 +204,8 @@ Aucun examen n'est recommandé pour le diagnostic de ménopause.
 - Palpation des seins, examen gynécologique complet
 - Mammographies de dépistage à jour
 - Frottis cervico-vaginal
-- Glycémie à jeun et bilan lipidique
+- Glycémie à jeun
+- Bilan lipidique
 
 ### Ostéodensitométrie
 
@@ -228,7 +242,7 @@ Si endomètre > 4 mm ou saignements répétés.
 
 Objectifs: amélioration de la santé, des signes climatériques, du risque cardiovasculaire et ostéoporotique.
 
-- Arrêt de tabac et alcool
+- Arrêt tabac et alcool
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Correction d'un surpoids  
 Perte de 5-10% par réduction glucido-lipidique.
@@ -237,25 +251,27 @@ Perte de 5-10% par réduction glucido-lipidique.
   - Intensité faible à modérée
   - Avec impact (marche, course à pied)
   - Renforcement musculaire
-- Apports/supplémentation vitamino-calcique  
-TODO: Souberbielle.
+- Supplémentation vitamino-calcique  
+Globalement cible vitamine D > 75 nmol/L (détail au chapitre [Vitamine D]({{< relref "vitamine-d.md" >}}), *Souberbielle 2019*)
 - Dépistages organisés des cancers
 - Bouffées vasomotrices
   - Yoga
   - Hypnose
-  - TODO: génistéine
+  - Acupuncture, homéopathie
+  - Limiter les boissons chaudes
+  - Vêtements légers et chauffage limité
   - IRS. Paroxétine, Citalopram, escitalopram (interactions tamoxifène)
   - IRSNA. Venlafaxine
   - Gabapentine, prégabaline, clonidine
 - Syndrome génito-urinaire de la ménopause
   - Augmentation de la fréquence des rapports sexuels
-  - Hydratants ou lubrifiants locaux
-  - Acide hyaluronique local
+  - Hydratants ou lubrifiants locaux ("hydratant vaginal", "gel calmant/intime/vaginal", "sécheresse intime" en pharmacie)
+  - Acide hyaluronique local TODO:
   - Sténose: dilatateurs de taille croissante
-- Antécédent de cancer du sein
-  - Contre-indication aux phytoœstrogènes
+- Antécédent de cancer du sein  
+Contre-indication aux phytoœstrogènes.
 
-{{%info%}}Prise de poids << Seuls les excès répétés et/ou un déséquilibre chronique quantitatif et qualitatif de l’alimentation peuvent être en cause >> (*CNGOF 2021*){{% /collapse %}}
+{{%info%}}Prise de poids à la ménopause: << Seuls les excès répétés et/ou un déséquilibre chronique quantitatif et qualitatif de l’alimentation peuvent être en cause >> (*CNGOF 2021*){{% /collapse %}}
 
 {{% /collapse %}}
 {{%collapse "Traitement hormonal de la ménopause" %}}
@@ -268,7 +284,7 @@ TODO: Souberbielle.
 
 - Antécédent de cancer du sein  
 Quelque soit le statut hormonal ou invasif/in situ.
-- Cancer de l'endomètre (TODO:)
+- Cancer de l'endomètre (TODO: vérifier)
 - Antécédent d'infarctus du myocarde ou d'AVC ischémique
 - Maladie d'Alzheimer
 - Relatives
@@ -300,7 +316,7 @@ Le THM peut être proposé en ménopause récente (< 10 ans) selon la balance b�
   - Effet inconstant, partiel et suspensif
   - Estrogènes par voie vaginale
   - Effet synergique avec lactobacilles
-- Insuffisance ovarienne précoce (TODO:)  
+- Insuffisance ovarienne précoce (TODO: vérifier)  
 Au moins jusqu'à 51 ans.
 
 Précisions: aucun effet sur l'endomètre si durée < 2 ans.
@@ -326,8 +342,11 @@ L'absence d'efficacité doit faire rechercher des BVM atypiques (voir *Clinique*
   - Antécédent de MVTE
   - Obésité
   - Thrombophilie
-- Signes d'hyper-estrogénie  
-Réduire la posologie du THM.
+- Adaptation du THM
+  - Signes d'hyper-estrogénie: mastodynies, gonflement abdominal, prise de poids, nervosité/irritabilité.  
+  Réduire la posologie du THM.
+  - Signes d'hypo-estrogénie: bouffées vasomotrices, sécheresse vaginale, troubles du sommeil, asthénie, frilosité, douleurs articulaires.  
+  Augmenter les estrogènes.
 - Réévaluation annuelle du THM
 - Arrêt du THM
   - Il peut être brutal ou dégressif  
@@ -447,7 +466,36 @@ const chartOptions = {
 }
 </script>
 
-### Pour en savoir plus: balance bénéfices-risques du THM
+{{% /collapse %}}
+{{%collapse "Spécialités disponibles pour le THM" "show" %}}
+
+{{%info%}}
+**Débuter:** estradiol transcutané 25-37,5 µg/j ou gel 0,5 mg/j  
+\+ progestérone naturelle orale selon le rythme du schéma.
+
+Efficace sur les bouffées vasomotrices sous 1 mois.  
+Aussi efficace sur: sommeil, fatigue, humeur, sécheresse vaginale.
+
+Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)  
+\+ Progesterone orale 100 mg x 1/j en continu
+{{%/info%}}
+
+{{< table title="THM recommandés par le CNGOF disponibles seuls ou en association en France en 2021. Dr JB Fron d'après BDPM" class="table-wrap">}}
+| Classe              | Molécule                   | Spécialités                                                                   | Dosages (cp en mg, patch en µg/24h) |
+|---------------------|----------------------------|-------------------------------------------------------------------------------|------------------------------------:|
+| Estradiol patch     | Estradiol                  | Dermestril (-Septem), Estrapatch, Femsept, Oesclim, Thais (-sept), Vivelledot |   25, 37,5, 40, 50, 60, 75, 80, 100 |
+| Estradiol gel       | Estradiol                  | Delidose, Estreva, Oestrodose                                                 |                        0,5, 0,75, 1 |
+| Progestatif         | Dydrogestérone             | Duphaston                                                                     |                                  10 |
+|                     | Médrogestone               | Colprone                                                                      |                                   5 |
+|                     | Progestérone               | Progesterone, Utrogestan                                                      |                            100, 200 |
+| Progestatif vaginal | Progestérone               | Utrogestan                                                                    |                            100, 200 |
+| Association         | Estradiol + lévonorgestrel | Femseptcombi, Femseptevo                                                      |                         50/7, 50/10 |
+{{< /table >}}
+
+{{% /collapse %}}
+{{%collapse "Pour en savoir plus sur le THM" %}}
+
+### Balance bénéfices-risques du THM
 
 #### Bénéfices du THM avec réduction des risques
 
@@ -487,32 +535,21 @@ Si estradiol cutané + progestérone micronisée (dydrogestérone, acétate de c
 {{%info%}}<< La mortalité par cancer du sein n'est pas augmentée chez les femmes recevant un THM que cela soit dans les essais randomisés ou les études d'observation et quel que soit le type de THM >> (*CNGOF 2021*){{%/info%}}
 
 {{% /collapse %}}
-{{%collapse "Spécialités disponibles pour le THM" %}}
+{{%collapse "Information de la patiente" %}}
 
-{{%info%}}
-**Débuter:** œstrogène transcutané 25-37,5 µg/j OU gel 0,5 mg/j  
-\+ progestérone naturelle orale selon le rythme du schéma.
+[Information de la patiente - GEMVI: Fiche info ménopause et THM](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
 
-Efficace sur les bouffées vasomotrices sous 1 mois.  
-Aussi efficace sur: sommeil, fatigue, humeur, sécheresse vaginale.
-
-Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)  
-\+ Progesterone orale 100 mg x 1/j en continu
-{{%/info%}}
-
-{{< table title="THM recommandés par le CNGOF disponibles seuls ou en association en France en 2021. Dr JB Fron d'après BDPM" class="table-wrap">}}
-| Classe              | Molécule                   | Spécialités                                                                   |                      Dosages (mg) |
-|---------------------|----------------------------|-------------------------------------------------------------------------------|----------------------------------:|
-| Estradiol patch     | Estradiol                  | Dermestril (-Septem), Estrapatch, Femsept, Oesclim, Thais (-sept), Vivelledot | 25, 37,5, 40, 50, 60, 75, 80, 100 |
-| Estradiol gel       | Estradiol                  | Delidose, Estreva, Oestrodose                                                 |                      0,5, 0,75, 1 |
-| Progestatif         | Dydrogestérone             | Duphaston                                                                     |                                10 |
-|                     | Médrogestone               | Colprone                                                                      |                                 5 |
-|                     | Progestérone               | Progesterone                                                                  |                          100, 200 |
-| Progestatif vaginal | Progestérone               | Utrogestan                                                                    |                          100, 200 |
-| Association         | Estradiol + lévonorgestrel | Femseptcombi, Femseptevo                                                      |                       50/7, 50/10 |
-{{< /table >}}
-
-> Doses des patchs en µg/24h
+- Bénéfique pour symptômes (bouffées vasomotrices ++) et ralentissement du vieillissement des différents tissus (ostéoporose, trophicité)
+- Réduit le risque de cancer du côlon et de fracture ostéoporotique
+- Augmentation faible du risque de cancer du sein temps-dépendant  
+Décroît après l'arrêt du traitement.
+- Augmente le risque de cancer de l'ovaire
+- Avec le schéma du THM français (estrogène patch + progestérone naturelle orale), pas d'augmentation thrombo-embolique
+- Les études divergent sur les bénéfices cardiovasculaires et cognitifs du fait de la grande variété des traitements de la ménopause
+- On limite les risques avec le traitement œstrogénique par voie transdermique
+- Le suivi est au moins annuel et le traitement réévalué tous les ans
+- Risques éventuels lors de consommation de soja et ses dérivés
+- Pas d'automédication
 
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}
@@ -523,6 +560,7 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 {{%collapse "Sources" %}}
 
 - [Trémollieres F. et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. Volume 49. Issue 5.2021. Pages 305-317.](https://doi.org/10.1016/J.GOFS.2021.03.010)
+- Prescrire Redaction. Troubles liés à la ménopause. Premiers choix Prescrire. Juin 2020.
 
 {{% /collapse %}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}

@@ -51,7 +51,7 @@
 <script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin></script>
 <script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin></script>
 <script src="{{ .Site.Params.cdn.material_js}}" crossorigin defer></script>
-<script src="https://instant.page/5.1.0" type="module" crossorigin></script>
+<script src="https://instant.page/5.1.0" type="module" crossorigin importance="low"></script>
 
 {{- with .Params.chart }}
 <script src="https://cdn.jsdelivr.net/npm/apexcharts@3.27.3/dist/apexcharts.min.js" integrity="sha256-x4AZmQagtBywXlLkl+w68R39zbcAh9gN22tfqoi2cTQ=" crossorigin defer></script>
@@ -123,7 +123,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 
 {{- with .Params.flowchart }}
-<script src="https://cdn.jsdelivr.net/npm/mermaid@8.13.3/dist/mermaid.min.js" integrity="sha256-blHXaX2RMvNwEOnrYOl/6/RKqNi97Ig3o6Ae3bhXPvM=" crossorigin defer></script>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@8.13.3/dist/mermaid.min.js" integrity="sha256-blHXaX2RMvNwEOnrYOl/6/RKqNi97Ig3o6Ae3bhXPvM=" crossorigin defer importance="high"></script>
 <script>
   // https://mermaid-js.github.io/mermaid/#/Setup?id=fontfamily
   const MermaidConfig = {
@@ -217,7 +217,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 </script>
 
 {{ $searchjs := resources.Get "js/search.js" | minify }}
-<script src="{{ $searchjs.Permalink }}" defer></script>
+<script src="{{ $searchjs.Permalink }}" defer importance="low"></script>
 <script><!-- Custom scripts -->
   {{ if eq .Section "recommandations" }}
 

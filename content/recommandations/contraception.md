@@ -350,6 +350,15 @@ Y compris phytothérapie, compléments alimentaires.
 
 - [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018.](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2018%252FCNGOF_RPC_2018-CONTRACEPTION.pdf&i=21002)
 
+### À lire
+
+- [HAS. Contraception chez la femme en post-partum. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1369193/fr/contraception-chez-la-femme-en-post-partum)
+- [HAS. Contraception chez la femme à risque cardiovasculaire. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1638478/fr/contraception-chez-la-femme-a-risque-cardiovasculaire)
+- https://www.has-sante.fr/jcms/c_1720982/fr/contraception-hormonale-orale-dispensation-en-officine
+- https://www.has-sante.fr/jcms/c_1752432/fr/contraception-prescriptions-et-conseils-aux-femmes
+- https://www.has-sante.fr/jcms/c_1752765/fr/sterilisation-a-visee-contraceptive-chez-l-homme-et-chez-la-femme
+- https://www.has-sante.fr/jcms/c_1757909/fr/contraception-chez-l-homme
+
 {{% /collapse %}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 

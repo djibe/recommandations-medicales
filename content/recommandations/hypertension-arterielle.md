@@ -342,7 +342,7 @@ Intérêt de suivi mensuel les 6 premiers mois selon la HAS (*HAS 2016*).
 
 ### Traitement de niveau 2
 
-<a href="#modal-triple" data-toggle="modal">IEC/ARA2 + TZD + ICa</a> en 1 seul comprimé.
+<a href="#modal-triple" data-toggle="modal">IEC/ARA2 + TZD + ICa</a> en 1 seul comprimé (non remboursés).
 
 ### Traitement de niveau 3
 

@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "RIETE nécessite bio NFS et créat, mieux est Wells ou Wells modifié?, proba forte et doppler neg?, éducation AVK, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/, IRC avec CKD-EPI ou cockroft ?"
+todo = "proba forte et doppler neg?, éducation AVK, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/, IRC avec CKD-EPI ou cockroft ?"
 +++
 
 Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'état.
@@ -61,7 +61,10 @@ En l'absence de signes d'EP, il est recommandé d'utiliser l'un des scores ci-de
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Une suspicion de TVP (sans EP) devrait être explorée en ambulatoire (sauf critères d'hospitalisation, voir chap. suivant).
+Une suspicion de TVP (sans EP) devrait être explorée en ambulatoire (voir *Critères d'hospitalisation*).
+
+- NFS
+- Créatininémie
 
 ### D-dimères
 
@@ -77,17 +80,17 @@ Recours d'emblée à l'écho-doppler veineux si non accessible.
 - D-dimères anormaux  
 Réaliser l'écho-doppler veineux.
 
-{{%info%}}Après 50 ans, la borne des D-dimères est à 10x l'âge {{%class%}}(700 à 70 ans){{%/class%}}.{{%/info%}}
+{{%info%}}Après 50 ans, la borne des D-dimères est à 10x l'âge {{%class%}}(ex. 700 à 70 ans){{%/class%}}.{{%/info%}}
 
 ### Écho-doppler veineux
 
-Indications: **probabilité forte** de TVP (selon le score clinique initial) ou D-dimères élevés.
+Indications: **probabilité forte** de TVP (selon le score clinique initial), D-dimères élevés ou non accessibles.
 
 #### Interpréter les résultats de l'écho-doppler veineux
 
 - Écho-doppler veineux complet normal ET probabilité non forte:  
 Pas de TVP.
-- Écho-doppler veineux incomplet normal:  
+- Écho-doppler veineux douteux ou incomplet normal:  
 Prévoir un écho-doppler veineux complet de contrôle à J7.
 - Écho-doppler veineux anormal avec thrombus proximal/distal:  
 TVP certaine.
@@ -101,13 +104,12 @@ TVP certaine.
 
 - Suspicion d'embolie pulmonaire
 - TVP bilatérale
-- Syndrome obstructif sévère
-- Survenue sous anticoagulants
-- Suspicion de thrombopénie induite à l'héparine
+- Syndrome obstructif sévère ou signes d'ischémie
+- Symptômes mal tolérés après 15j d'anticoagulation efficace
+- Survenue sous anticoagulants ou suspicion de TIH
 - Hémorragie active ou risque hémorragique élevé  
-{{%class "text-black-secondary"%}}Voir le score hémorragique RIETE plus bas.{{%/class%}}
-- Insuffisance rénale sévère  
-{{%class "text-black-secondary"%}}{{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 30 mL/min.{{%/class%}}
+{{%class "text-black-secondary"%}}RIETE > 4, voir *Score hémorragique RIETE* plus bas.{{%/class%}}
+- Insuffisance rénale sévère ({{< modal-btn modal-score-cockroft >}}< 30 mL/min{{< /modal-btn >}})
 - Cancer ou comorbidités à risque de décompensation
 - Contexte médico-social ou géographique défavorable
 - Absence d'entourage
@@ -130,12 +132,14 @@ Traitement de référence en l'absence de cancer connu.
 
 ### Anticoagulation
 
-#### Indications aux anticoagulants dans la TVP
+#### Indications à l'anticoagulation immédiate dans la TVP
 
 - TVP proximale
 - Probabilité clinique forte de TVP
-- Probabilité clinique intermédiaire de TVP et délai prévisible des résultats  > 4h
+- Probabilité clinique intermédiaire de TVP et délai prévisible des résultats > 4h
 - Probabilité clinique faible de TVP et délai prévisible des résultats > 24h
+
+Avec surveillance NFS, ionogramme, créatininémie, bilan hépatique.
 
 #### Anticoagulation par AOD
 
@@ -149,10 +153,9 @@ puis 5 mg x 2/j au moins 3 mois
 
 2 AOD ont l'AMM pour la TVP:
 
-- [Apixaban 5 mg 2cp x 2/j](https://ec.europa.eu/health/documents/community-register/2021/20210111150212/anx_150212_fr.pdf)  
-CI quand {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 25 mL/min.  
-Préféré par Prescrire®.
-- Rivaroxaban 15 mg x 2/j  
+- **[Apixaban 5 mg](https://ec.europa.eu/health/documents/community-register/2021/20210111150212/anx_150212_fr.pdf)** 2 cp x 2/j 7 jours puis 5 mg x 2/j (préféré par Prescrire®)  
+CI quand {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 25 mL/min.
+- Rivaroxaban 15 mg x 2/j 21 jours puis 20 mg x 1/j  
 CI quand {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 30 mL/min.
 
 Pas de traitement héparinique préalable, posologie fixe sans adaptation.  
@@ -162,15 +165,16 @@ Contre-indiqués en instabilité hémodynamique.
 #### Anticoagulation par héparine et apparentés
 
 - HBPM
-  - Daltéparine 100 UI/kg/12h
-  - Énoxaparine 100 UI/kg/12h
-  - Nadroparine 85 UI/kg/12h ou 170 UI/kg/24h
-  - Tinzaparine 175 UI/kg/24h
-- Fondaparinux
+  - Daltéparine 100 UI/kg/12h (Fragmine)
+  - Énoxaparine 100 UI/kg/12h (Enoxaparine, Inhixa, Lovenox)
+  - Nadroparine 85 UI/kg/12h ou 170 UI/kg/24h (Fraxiparine)
+  - Tinzaparine 175 UI/kg/24h (Innohep)
+- Fondaparinux (Arixtra)
   - < 50 kg: 5 mg/24h
   - 50 à 100 kg: 7,5 mg/24h
   - \> 100 kg: 10 mg/24h
-- Voire HNF (allergie aux autres produits ou IRC sévère)
+- Voire HNF  
+Si allergie aux autres produits ou clairance < 30.
 
 Pas d'adaptation des doses ni tests d'hémostase (sauf HNF avec l'anti-Xa).  
 Poursuivre **au moins 5 jours**.  
@@ -181,16 +185,61 @@ Avec éducation thérapeutique et carnet de suivi.
 
 ### Autres soins
 
-- Chaussettes de contention classe III ≥ 6 mois
+- **Chaussettes de contention classe III** ≥ 6 mois
 - Si TVP stable: mobilisation précoce
 - Expliquer la cause de survenue de la thrombose
 - Consultation de suivi  
 TODO:
-- À distance: rechercher une dyspnée d'effort (score NYHA ou MRC)
+- À distance: rechercher une dyspnée d'effort (({{< modal-btn score-nyha >}}score NYHA{{< /modal-btn >}} ou {{< modal-btn score-mmrc >}}mMRC{{< /modal-btn >}}) )
 
 ### Filtre cave
 
 Indication: TVP proximale diagnostiquée dans les 30 jours (avec ou sans EP) avec contre-indication à l'anticoagulation curative.
+
+{{% /collapse %}}
+{{%collapse "TVP provoquée ou spontanée ?" %}}
+
+{{%info%}}Pour toute survenue de MVTE, il faut rechercher la présence de {{< modal-btn modal-mvte-fdr-traitement >}}facteurs de risque clinique de MVTE{{< /modal-btn >}}{{%/info%}}
+
+{{%info%}}La MVTE est **non provoquée** en l'absence de {{< modal-btn modal-mvte-fdr-traitement >}}facteur de risque clinique majeur{{< /modal-btn >}}.{{%/info%}}
+
+### Bilan étiologique
+
+- Pas de recherche systématique de cancer en {{< modal-btn modal-mvte-fdr-traitement >}}risque majeur transitoire{{< /modal-btn >}}
+- EP avec *nécrose cutanée* ou antécédent de pathologie vasculaire placentaire: rechercher un *SAPL*
+- EP avec *signes d'hémolyse* ou *cytopénie*: rechercher une *hémoglobinurie paroxystique nocturne* (HPN)
+
+#### 1<sup>er</sup> épisode de MVTE non provoquée (= pas de facteur majeur)
+
+- Antécédents personnels et familiaux, symptômes, examen physique complet
+- Dépistages des cancers à jour, répéter si ancienneté > 1 an
+- Radio de thorax (en l'absence d'angioscanner thoracique)
+- NFS, calcémie
+- < 50 ans avec TVP proximale, digestive, membre supérieur ou cérébrale: rechercher un *SAPL*
+- < 50 ans et antécédent familial de thrombose:  
+Rechercher une thrombophilie constitutionnelle.
+- NFS anormale, TVP digestive, membre supérieur ou cérébrale:
+Rechercher un syndrome myéloprolifératif.
+- Répéter à 6 mois ce bilan
+
+#### Récidive de MVTE
+
+- < 50 ans: rechercher un *SAPL* et une thrombophilie constitutionnelle
+
+#### Récidive de MVTE sous anticoagulant bien conduit
+
+- Idem ci-dessus avec...
+- Dépistages des cancers à jour, répéter si ancienneté > 1 an
+- Recherche mutation JAK-2
+- Scanner thoraco-abdomino-pelvien ou PETscan
+
+{{%info%}}
+Si indiqué, le bilan de thrombophilie est réalisé à 3-6 mois comporte:
+
+- Déficit en antithrombine, protéine C et protéine S
+- Mutations Leiden du facteur V
+- Mutation G20210A du Facteur II
+{{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une TVP" "show" %}}
@@ -230,5 +279,20 @@ graph TB
 {{% modal title="Clairance selon Cockroft" id="modal-score-cockroft"%}}
 
 {{< scores/cockroft >}}
+
+{{% /modal %}}
+{{% modal title="Échelle NYHA" id="score-nyha"%}}
+
+{{< scores/nyha >}}
+
+{{% /modal %}}
+{{% modal title="Échelle de dyspnée du Medical Research Council modifiée" id="score-mmrc"%}}
+
+{{< scores/mmrc >}}
+
+{{% /modal %}}
+{{% modal title="FDR de récidive thromboembolique" id="modal-mvte-fdr-traitement"%}}
+
+{{< clinique/mvte-facteur-risque-traitement >}}
 
 {{% /modal %}}

@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-02-02T08:52:00+02:00
 publishdate = 2021-03-10
-lastmod = 2021-04-09
+lastmod = 2021-10-21
 specialites = ["medecine du sommeil"]
 annees = "2019"
 sources = ["SFRMS"]
@@ -40,7 +40,14 @@ Syndrome des jambes sans repos (SJSR)
 : Maladie chronique neurologique sensorimotrice entraînant un besoin impérieux de bouger les jambes (voire bras, hanche) selon l'occupation et le moment de la journée.  
 Il atteint préférentiellement les femmes et altère la qualité de vie. Le sous-diagnostic est majeur.  
 Le traitement est symptomatique et vise à réduire la plainte sans éradiquer les symptômes (épargne thérapeutique).
-: L'origine de la maladie est mal comprise mais comporte une carence intra-cérébrale en **fer** (insuffisance de transport par les barrières hémato-encéphalique et neuronale) et des troubles du système **dopaminergique**.
+: L'origine de la maladie est mal comprise mais comporte une carence intra-cérébrale en *fer* (insuffisance de transport par les barrières hémato-encéphalique et neuronale) et des troubles du système *dopaminergique*.
+: **Complications du SJSR:**
+    - Troubles du sommeil
+    - Altération de la vigilance diurne
+    - Anxiété, dépression {{%class%}}x 2-5{{%/class%}}
+    - Altération de la qualité de vie
+    - Impact socio-économique
+    - Enfant: troubles du comportement et irritabilité
 
 Forme chronique-persistante
 : En l'absence de traitement, survenue moyenne des symptômes au moins 2 fois par semaine durant l'année précédente.
@@ -64,6 +71,15 @@ Akathisie
 Tremblement orthostatique primaire
 : Mouvement anormal rare, caractérisé par un tremblement postural spécifique rapide, qui touche les membres inférieurs et le tronc en position debout *([Orphanet](https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=FR&Expert=238606))*.
 
+### Épidémiologie en France
+
+- Prévalence chez l'adulte: 8,5%  
+Symptômes hebdomadaires 2,5% et quotidiens 1,9%.
+- Prévalence chez l'enfant: 2-4%  
+15-35% en *trouble du déficit de l'attention et hyperactivité* (TDAH).
+- Sex-ratio: 2/3 de femmes
+- 10% des personnes avec des troubles du sommeil ont un syndrome des jambes sans repos
+
 ### Abréviations
 
 **CST:** coefficient de saturation de la transferrine  
@@ -78,25 +94,13 @@ Tremblement orthostatique primaire
 **TDAH:** trouble du déficit de l'attention et hyperactivité
 
 {{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
-
-### Données françaises
-
-- Prévalence chez l'adulte: 8,5%  
-Symptômes hebdomadaires 2,5% et quotidiens 1,9%.
-- Prévalence chez l'enfant: 2-4%  
-15-35% en *trouble du déficit de l'attention et hyperactivité* (TDAH).
-- Sex-ratio: 2/3 de femmes
-- 10% des personnes avec des troubles du sommeil ont un syndrome des jambes sans repos
-
-{{% /collapse %}}
 {{%collapse "Facteurs de risque et favorisants" %}}
 
 ### Facteurs de risque du syndrome des jambes sans repos
 
 - Âge
 - Antécédent familial (40%)
-- Carence martiale  
+- [Carence martiale]({{< relref "anemie.md" >}})  
 {{%class text-black-secondary %}}Prévalence du SJSR de 25 à 35% si anémie.{{%/class%}}
 - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})  
 Aggravation par inhibiteurs calciques, PTH basse, CST bas, diabète de type 2.  
@@ -124,16 +128,6 @@ Alcool, café, thé.
 Antidépresseurs (toute classe), neuroleptiques, lithium, anti-histaminiques, oxybate de sodium.
 
 {{% /collapse %}}
-{{%collapse "Complications" %}}
-
-- Troubles du sommeil
-- Altération de la vigilance diurne
-- Anxiété, dépression {{%class%}}x 2-5{{%/class%}}
-- Altération de la qualité de vie
-- Impact socio-économique
-- Enfant: troubles du comportement et irritabilité
-
-{{% /collapse %}}
 {{%collapse "Critères diagnostiques" %}}
 
 > << Il est souhaitable que ce diagnostic soit posé par un neurologue ou un médecin spécialiste du sommeil. >> *SFRMS 2019*
@@ -148,8 +142,7 @@ Au moins aussi longtemps que dure cette activité.
 4. Apparition ou aggravation le soir ou la nuit
 5. Exclusion des diagnostics différentiels
 
-{{%class%}}IRLSSG 2012. Sensibilité 86% et spécificité > 90%.{{%/class%}}
-
+> Critères *IRLSSG 2012*. Se 86% et Spé > 90%  
 **Tous les critères doivent être remplis**.  
 Intérêt de laisser le patient décrire ses symptômes, ou l'enfant avec ses mots.
 
@@ -176,9 +169,9 @@ Intérêt de laisser le patient décrire ses symptômes, ou l'enfant avec ses mo
 
 - **Type et sensations**  
 Laisser le patient décrire avec ses mots.  
-Besoin de bouger les jambes +/- sensations désagréables, dysesthésies.  
+Besoin de bouger les jambes ± sensations désagréables, dysesthésies.  
 Qualificatifs: décharges électriques > picotements > brûlures > fourmillements > démangeaisons> énervant, agaçant, insupportable > Très rarement absentes.  
-Douleurs pour presque la moitié des patients.
+*Douleurs* chez 1/2.
 - **Localisation précise**  
 Partie supérieure des mollets (2/3 des cas) > cuisses > mollets partie basse > pieds, membres supérieurs (1/3).  
 Symptômes profonds, bilatéraux (2/3 des cas) et symétriques (75%).
@@ -214,15 +207,14 @@ Absente (légère à modérée) malgré le temps de sommeil moindre = **caracté
 Principaux marqueurs de l'insomnie.
 - Conséquences sociales, professionnelles/scolaires
 
-{{%info%}}
+{{%warning%}}
 Doivent faire reconsidérer le diagnostic:
 
 - La tolérance de l'immobilité forcée
 - L'inefficacité initiale des agonistes dopaminergiques
 
 Une somnolence sévère doit faire rechercher une autre cause de somnolence.
-
-{{%/info%}}
+{{%/warning%}}
 
 Lister avec le patient:
 

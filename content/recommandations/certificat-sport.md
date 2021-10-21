@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-08T20:02:41+02:00
 publishdate = 2020-10-08
-lastmod = 2021-10-11
+lastmod = 2021-10-21
 specialites = ["certificats"]
 annees = "2021"
 sources = ["JO", "SFC"]
@@ -15,9 +15,9 @@ anglais = []
 sctid = ""
 draft = false
 chart = true
-todo = "Bio > 35 ans, modal intensité activité, type 1A (sources 12-13), indication ecg et ecomp, quel examen clinique, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/guide_aps_chapitre_6_la_consultation_medicale_ap.pdf, relecture eloi.marijon@inserm.fr"
+todo = "Bio > 35 ans, modal intensité activité, type 1A (sources 12-13), indication ecg et ecomp, quel examen clinique, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/guide_aps_chapitre_6_la_consultation_medicale_ap.pdf"
 image = true
-imageSrc = "Le certificat du sportif. pikisuperstar / Freepik"
+imageSrc = "Le certificat du sportif illustré par pikisuperstar / Freepik"
 +++
 
 {{%article-summary%}}
@@ -28,7 +28,7 @@ Pour les parents: [Service-public du 12/05/2021](https://www.service-public.fr/p
 - Préciser l'accès aux compétitions le cas échéant
 - Informer systématiquement sur les 10 règles d'or de la pratique sportive
 - La consultation n'est pas prise en charge par l'*Assurance Maladie*
-- La mort subite atteint quasi exclusivement les hommes d'âge moyen
+- La mort subite atteint quasi exclusivement les hommes d'âge moyen et il est bien plus efficace d'apprendre à masser, de signaler les symptômes à l'effort et de corriger les FRCV avant les accidents *[Anys 2021](https://www.larevuedupraticien.fr/article/faut-il-un-screening-cardiaque-du-sportif-pour-ou-contre-2)*
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -39,12 +39,18 @@ Certificat de non contre-indication à la pratique du sport (CNCI)
 Les autres années, le licencié (ou son représentant légal) renseigne un questionnaire de santé [QS-SPORT](https://www.formulaires.service-public.fr/gf/cerfa_15699.do).
 : Les mineurs complètent un [questionnaire de santé](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486824) sauf sport à risque (voir *Disciplines nécessitant un certificat...*) ou réponse positive au *questionnaire de santé*.
 
-{{%info%}}Absence de preuve formelle de l'efficacité des bilans proposés pour prévenir la mort subite pendant le sport chez des sujets asymptomatiques (*Marijon 2021*){{%/info%}}
+{{%info%}}
+Absence de preuve formelle de l'efficacité des bilans proposés pour prévenir la mort subite pendant le sport chez des sujets asymptomatiques (*Marijon 2021*)
+
+---
+
+Tous mes remerciements au Pr E. Marijon pour sa relecture attentive de cette section.
+{{%/info%}}
 
 Mort subite du sportif
 : Environ 1000 cas/an. Elle atteint quasi exclusivement des hommes (95%) d'âge moyen (50 ans en moyenne) avec une pratique de loisir (5% de jeunes athlètes, 15-20/an).
 : Le risque de mort subite d'une femme (5% des cas) est infime (30x inférieure à 45-54 ans).
-: La cause n'est pas retrouvée dans 75% des cas (manque d'autopsies). Elle est principalement coronaire (75%) et inaugurale pour la moitié; et aussi cardiopathie non ischémique (15-20%), troubles du rythme (5-10%). Avant 35 ans, la 1re cause est la cardiomyopathie hypertrophique.    
+: La cause n'est pas retrouvée dans 75% des cas (manque d'autopsies). Elle est principalement coronaire (75%) et inaugurale pour la moitié; et aussi cardiopathie non ischémique (15-20%), troubles du rythme (5-10%). Avant 35 ans, la 1re cause est la cardiomyopathie hypertrophique.  
 \> 50% avaient eu des symptômes typiques dans le mois qui précède.
 : 93% des cas surviennent en présence d'un témoin mais il ne réanime que dans 31% des cas.  
 La survie sans séquelles dépend énormément de la formation de la population au massage cardiaque (> 90% dans le Nord, 10-20% en France). 300-400 décès pourraient être évités chaque année avec les gestes de 1<sup>er</sup> secours.

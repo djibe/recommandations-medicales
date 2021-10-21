@@ -77,6 +77,8 @@ Dépistage organisé du *cancer du col de l'utérus* pour toutes les femmes de 2
 Dépistage à 25 ans, 26 ans et 29 ans avec analyse cytologique.  
 Après 30 ans, dépistage tous les 5 ans avec analyse génétique, dit *test HPV haut risque (HPV-HR)*.
 
+Cotation: GS + JKHD001 (12,46€)
+
 ### Dépistage du cancer de l'anus
 
 {{< clinique/depistage-cancer-anus >}}

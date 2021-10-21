@@ -6,10 +6,10 @@ synonyms = ["Borréliose de Lyme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-30T18:17:39+02:00"
 publishdate = "2021-10-02"
-lastmod = "2021-10-02"
+lastmod = "2021-10-21"
 specialites = ["infectiologie"]
 annees = "2019"
-sources = ["DGS"]
+sources = ["DGS", "HAS"]
 tags = []
 anglais = ["Lyme disease"]
 sctid = "23502006"
@@ -56,7 +56,7 @@ Elle doit être réalisée en suspicion de *phase disséminée*.
 [Ministère de la Santé: Maladie de Lyme et prévention des piqûres de tiques](https://solidarites-sante.gouv.fr/IMG/pdf/maladie_de_lyme_depliant_gp.pdf) et [Santé Publique France. Prévention de la borréliose de Lyme](https://solidarites-sante.gouv.fr/IMG/pdf/borreliose_de_lyme_rpvp_072016.pdf)
 
 - Vêtements couvrants
-  - Pantalon, inséré dans les chaussettes, chemise à manche longue
+  - Pantalon, inséré dans les chaussettes (voire guêtres), chemise à manche longue
   - De couleur claire pour faciliter le repérage
 - Inspection minutieuse
   - À chaque retour de zone d'exposition
@@ -65,9 +65,10 @@ Elle doit être réalisée en suspicion de *phase disséminée*.
 - Protection chimique
   - En complément uniquement
   - Contre-indiqués si grossesse ou < 2 ans
-  - DEET
+  - DEET cutané
   - Appliquer sur les zones découvertes, respecter les consignes d'usage
   - Ne pas appliquer en même temps que la crème solaire
+  - Perméthrine possible sur les vêtements
 - Vaccination contre l'encéphalite à tiques  
 Avant séjour en zone rurale ou boisée en zone d'endémie.
 
@@ -85,10 +86,10 @@ Moins fréquent sur la méditerranée.
 Le risque de borréliose de Lyme est < 5% (même en zone de forte endémie avec fixation prolongée de la tique).
 
 - L'extraire le plus rapidement possible
-- Extraction mécanique avec un crochet à tique ou pince fine
+- Extraction mécanique avec un crochet à tique (tire-tique) ou pince fine
 - Ne pas utiliser de substances  
-Éther, huile, vernis.
-- Après le retrait, antisepsie locale
+Éther, huile, vernis...
+- Après le retrait, désinfection locale
 - Lavage des mains au savon
 - Photographie de la tique
 - Noter la date et le lieu de la piqûre
@@ -118,7 +119,7 @@ La découverte fortuite d'une sérologie de Lyme positive sans signes évocateur
 
 - Notion de piqûre locale de tique
 - Trace de piqûre de tique (inconstante)
-- Survenue dans les **30 jours**
+- Survenue dans les **3 à 30 jours**
 - Macule rose à rouge, ovalaire
 - Éclaircissement central inconstant
 - Croissance régulière centrifuge  
@@ -140,8 +141,8 @@ Antibiothérapie sans aucun examen complémentaire.
 Rose-rouge, rouge-brun.
 - Asymptomatique ou prurit léger
 - Localisation spécifique  
-Lobule oreille enfant, plaque aréolaire de l'adulte ou exceptionnellement visage, tronc ou membre.
-- Biopsie cutanée
+Lobule oreille enfant, plaque aréolaire ou scrotum de l'adulte ou exceptionnellement visage, tronc ou membre.
+- Avis dermatologique pour biopsie cutanée
 - Sérologie *Borrelia* positive
 
 ### Acrodermatite chronique atrophiante (ACA, phase disséminée tardive)
@@ -158,8 +159,11 @@ Rouge sombre-violacée.
   - Phase disséminée: monoarthrite du genou (85%) ou oligoarthrite.  
   Quelques semaines à 2 ans après la piqûre, poussées paroxystiques avec intervalles libres.  
   Guérison sous 5 ans même sans antibiothérapie.
+  - Sérologie *Borrelia*
+  - Avis rhumatologique pour ponction dès suspicion
 - Cardiaques
-  - 0,3-4% des cas dans un délai de 7j-7 mois
+  - 0,3-4% des cas dans un délai de 4j-7 mois
+  - Sérologie *Borrelia*
   - Avis cardiologique en cas de symptômes cardiaques
   - Blocs atrio-ventriculaires surtout
   - Péricardite  
@@ -213,6 +217,9 @@ Diagnostic certain si 3 critères - possible si 2 - exclu si ≤ 1.
 - Amoxicilline toutes les 8h si possible chez l'enfant, sinon 25 mg/kg toutes les 12h
 - Amoxicilline pendant la grossesse
 - Surveillance clinique de la guérison à 14 jours
+- Photos avant et évolution sous traitement
+- Disparition complète de l'érythème en 1 semaine à 1 mois  
+Persistance à 1 mois: observance et étude d'un diagnostic différentiel, avis dermatologique.
 - Traitement identique en érythèmes migrants multiples (EMM)
 
 - Adulte: doxycycline 100 mg x 2/j
@@ -230,8 +237,9 @@ Antibiothérapie pendant 21 jours sauf enfant < 8 ans avec l'azithromycine: 10 j
 Traitement par l'infectiologue des autres formes de borréliose.
 
 {{% /collapse %}}
-{{%collapse "Source" %}}
+{{%collapse "Sources" %}}
 
-[Gocko X. et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. Volume 49. Issue 5. 2019. Pages 296-317.](https://doi.org/10.1016/j.medmal.2019.05.006)
+- [Gocko X. et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. Volume 49. Issue 5. 2019. Pages 296-317.](https://doi.org/10.1016/j.medmal.2019.05.006)
+- [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques. Recommandation de bonne pratique. Juin 2018.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques)
 
 {{% /collapse %}}

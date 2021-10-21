@@ -48,7 +48,7 @@ Insuffisance rénale chronique terminale (IRCT)
 ### Abréviations
 
 **CKD-EPI:** {{%lang%}}Chronic Kidney Disease EPIdemiology collaboration (*Levey 2009*){{%/lang%}}, formule d'estimation simplifiée la plus précise en 2021
-**DFG:** débit de filtration glomérulaire  
+**DFGe:** débit de filtration glomérulaire estimé  
 **HTA:** hypertension artérielle  
 **IRC:** insuffisance rénale chronique  
 **IRCT:** insuffisance rénale chronique terminale  
@@ -115,10 +115,10 @@ Diabète, tabagisme...
 ### Évaluer le stade la maladie rénale chronique
 
 {{< table title="Stades de la maladie rénale chronique selon KDIGO 2012" >}}
-| Stade | DFG (CKD-EPI) | Définition |
+| Stade | DFGe (CKD-EPI)| Définition |
 |:-----:|:-------------:|------------|
-| 1     | &ge; 90       | MRC avec DFG normal ou augmenté |
-| 2     | 60-89         | MRC avec DFG légèrement diminué |
+| 1     | &ge; 90       | MRC avec DFGe normal ou augmenté |
+| 2     | 60-89         | MRC avec DFGe légèrement diminué |
 | 3A    | 45-59         | IRC modérée |
 | 3B    | 30-44         | IRC modérée |
 | 4     | 15-29         | IRC sévère  |
@@ -140,7 +140,7 @@ Troubles de la miction, globe vésical, touchers pelvien.
 
 ### Critères pour apprécier l'évolutivité de la MRC
 
-Considérée comme évolutive si présence de facteur ci-dessous (déclin annuel rapide du DFG, calculé par DFG année n – DFG année n+1)
+Considérée comme évolutive si présence de facteur ci-dessous (déclin annuel rapide du DFG, calculé par DFGe année n – DFGe année n+1)
 
 - Physiologique si < 2 mL/min/1,73m²/an
 - Modéré si ≥ 2 et < 5
@@ -160,7 +160,7 @@ Bilan initial au diagnostic de la maladie rénale chronique:
 - Échographie rénale
   - Si diabète: avec vessie et mesure du résidu post-mictionnel
 - NFS
-- Créatininémie avec estimation du DFG CKD-EPI
+- Créatininémie avec estimation du DFGe CKD-EPI
 - Ionogramme sanguin, bicarbonates
 - Uricémie
 - Bilan lipidique (de moins d’un an)
@@ -170,9 +170,9 @@ Bilan initial au diagnostic de la maladie rénale chronique:
 ECBU + échantillon protéinurie/créatininurie + albuminurie/créatininurie
 {{%/info%}}
 
-- DFG < 60  
+- DFGe < 60  
 PTH, calcémie, phosphorémie.
-- DFG < 45  
+- DFGe < 45  
 Albuminémie, urémie, AgHBs, anticorps anti-HBs et anti-HBc, urée et sodium sur urines de 24h.
 - Anémie  
 Ferritinémie + CRP.
@@ -193,13 +193,13 @@ Ferritinémie + CRP.
   - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} (ou {{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}) ± thiazidique ou anticalcique
   - Automesure tensionnelle
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,7 g/L et réduction ≥ 50%
-  - {{< modal-btn modal-rcv >}}DFG < 30{{< /modal-btn >}}: LDL cible < 0,55 g/L et réduction ≥ 50%
+  - {{< modal-btn modal-rcv >}}DFGe < 30{{< /modal-btn >}}: LDL cible < 0,55 g/L et réduction ≥ 50%
 - Si HTA
   - Régime désodé < 5 g/j (*KDIGO 2021*)
   - Activité physique d'intensité modérée ≥ 150 min/semaine (*KDIGO 2021*)
 - Albuminurie/créatininurie < 30 mg/mmol par IEC  
 < 3 mg/mmol chez le diabétique.
-- Si DFG < 45 mL/min
+- Si DFGe < 45 mL/min
   - Suivi par néphrologue impératif
   - Vaccin antigrippal annuel
   - Vérifier le statut [hépatite B]({{< relref "hepatite-b.md" >}}) ± vacciner
@@ -245,7 +245,7 @@ Ferritinémie + CRP.
 - Limiter les protéines < 1 g/kg/j dès que la clairance est < 60
 - Apports en calcium, phosphore, potassium
 
-**Protection du capital veineux quand DFG < 45 mL/min**.
+**Protection du capital veineux quand DFGe < 45 mL/min**.
 
 #### Symptômes
 

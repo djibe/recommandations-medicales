@@ -19,6 +19,7 @@ todo = "choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccinat
 
 {{%article-summary%}}
 
+- La HAS [recommande la vaccination Mégingo B](https://www.has-sante.fr/jcms/p_3273097/fr/meningocoques-b-la-has-recommande-la-vaccination-des-nourrissons) des nourrissons, sans remboursement acté à ce jour (22/06/2021)
 - [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
 
 {{%/article-summary%}}

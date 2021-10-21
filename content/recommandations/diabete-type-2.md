@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-10-14"
+lastmod = "2021-10-21"
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["SFD", "EASD", "ESC", "HAS"]
@@ -190,7 +190,7 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
       <div>
         <ul class="list-group list-group-flush">
-          <li class="list-group-item list-group-item-action lgi-choice">Ajouter une basale</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-insuline">Ajouter une basale</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
            <li class="list-group-divider" role="separator"></li>
@@ -204,12 +204,12 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
 </div>
 <!-- 4e intention -->
 <h3 class="typography-overline mt-3">4e intention</h3>
-<p class="text-warning my-2">La <span data-toggle="modal" data-target="#modal-metformine">metformine</span> doit toujours être maintenue.</p>
+<p class="font-weight-bold my-2">La <span data-toggle="modal" data-target="#modal-metformine">metformine</span> doit toujours être maintenue.</p>
 <ul>
   <li><span data-toggle="modal" data-target="#modal-su">SU</span> + <span data-toggle="modal" data-target="#modal-idpp4">iDPP4</span> + <span data-toggle="modal" data-target="#modal-isglt2">iSGLT2</span></li>
   <li><span data-toggle="modal" data-target="#modal-glp1ra">GLP1-RA</span>, &plusmn; arrêt <span data-toggle="modal" data-target="#modal-su">SU</span>/<span data-toggle="modal" data-target="#modal-isglt2">iSGLT2</span><br>
   Arrêt iDPP4.</li>
-  <li>Insuline basale</li>
+  <li data-toggle="modal" data-target="#modal-insuline">Insuline basale</li>
 </ul>
 </div>
 <script>
@@ -284,5 +284,10 @@ window.onload = () => {
 {{% modal title="Agonistes du récepteur GLP-1" id="modal-glp1ra"%}}
 
 {{< traitements/glp1ra >}}
+
+{{% /modal %}}
+{{% modal title="Insuline basale" id="modal-insuline"%}}
+
+{{< traitements/insuline >}}
 
 {{% /modal %}}
