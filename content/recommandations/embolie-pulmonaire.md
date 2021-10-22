@@ -208,13 +208,13 @@ Si posé temporairement, le retrait doit être programmé dès la reprise de l'a
 
 TODO: A reprendre
 
-{{%info%}}Pour toute survenue de MVTE, il faut rechercher la présence de {{< modal-btn modal-mvte-fdr-traitement >}}facteurs de risque clinique de MVTE{{< /modal-btn >}}{{%/info%}}
+{{%info%}}Pour toute survenue de MVTE, il faut rechercher la présence de {{< modal-btn modal-mvte-fdr >}}facteurs de risque clinique de MVTE{{< /modal-btn >}}{{%/info%}}
 
-{{%info%}}La MVTE est **non provoquée** en l'absence de {{< modal-btn modal-mvte-fdr-traitement >}}facteur de risque clinique majeur{{< /modal-btn >}}.{{%/info%}}
+{{%info%}}La MVTE est **non provoquée** en l'absence de {{< modal-btn modal-mvte-fdr >}}facteur de risque clinique majeur{{< /modal-btn >}}.{{%/info%}}
 
 ### Bilan étiologique
 
-- Pas de recherche systématique de cancer en {{< modal-btn modal-mvte-fdr-traitement >}}risque majeur transitoire{{< /modal-btn >}}
+- Pas de recherche systématique de cancer en {{< modal-btn modal-mvte-fdr >}}risque majeur transitoire{{< /modal-btn >}}
 - EP avec *nécrose cutanée* ou antécédent de pathologie vasculaire placentaire: rechercher un *SAPL*
 - EP avec *signes d'hémolyse* ou *cytopénie*: rechercher une *hémoglobinurie paroxystique nocturne* (HPN)
 
@@ -304,9 +304,14 @@ graph TB
 {{< scores/mmrc >}}
 
 {{% /modal %}}
-{{% modal title="FDR de récidive thromboembolique" id="modal-mvte-fdr-traitement"%}}
+{{% modal title="FDR clinique de MVTE" id="modal-mvte-fdr"%}}
 
-{{< clinique/mvte-facteur-risque-traitement >}}
+{{< clinique/mvte-facteur-clinique >}}
+
+{{% /modal %}}
+{{% modal title="FDR de récidive TE" id="modal-mvte-recidive"%}}
+
+{{< clinique/mvte-facteur-recidive >}}
 
 {{% /modal %}}
 {{% modal title="Score HERDOO2 de récidive thrombotique" id="modal-score-herdoo2"%}}
