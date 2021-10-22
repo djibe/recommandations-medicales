@@ -126,9 +126,49 @@ Un score hémorragique élevé impose une hospitalisation.
 {{< scores/riete >}}
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "TVP provoquée ou spontanée ?" %}}
 
-Traitement de référence en l'absence de cancer connu.
+{{%info%}}Pour toute survenue de MVTE, il faut rechercher la présence de {{< modal-btn modal-mvte-fdr >}}facteurs de risque clinique de MVTE{{< /modal-btn >}}{{%/info%}}
+
+{{%info%}}La MVTE est *non provoquée* en l'absence de {{< modal-btn modal-mvte-fdr >}}facteur de risque clinique majeur{{< /modal-btn >}}.{{%/info%}}
+
+### Bilan étiologique
+
+- Pas de recherche systématique de cancer en {{< modal-btn modal-mvte-fdr >}}risque majeur transitoire{{< /modal-btn >}}
+- EP avec *nécrose cutanée* ou antécédent de pathologie vasculaire placentaire: rechercher un *SAPL*
+- EP avec *signes d'hémolyse* ou *cytopénie*: rechercher une *hémoglobinurie paroxystique nocturne* (HPN)
+
+#### 1<sup>er</sup> épisode de MVTE non provoquée (= pas de facteur majeur)
+
+- Antécédents personnels et familiaux, symptômes, examen physique complet
+- Dépistages des cancers à jour, répéter si ancienneté > 1 an
+- Radio de thorax (en l'absence d'angioscanner thoracique)
+- NFS, calcémie
+- < 50 ans avec TVP proximale, digestive, membre supérieur ou cérébrale:  
+Rechercher un *SAPL*.
+- < 50 ans et antécédent familial de thrombose:  
+Rechercher une {{< modal-btn modal-thrombophilie >}}thrombophilie constitutionnelle{{< /modal-btn >}}.
+- TVP non provoquée digestive, membre supérieur ou cérébrale:
+Rechercher une {{< modal-btn modal-thrombophilie >}}thrombophilie constitutionnelle{{< /modal-btn >}}.
+- NFS anormale, TVP digestive, membre supérieur ou cérébrale:
+Rechercher un syndrome myéloprolifératif.
+- TVP digestive ou cérébrale associée à hémolyse/cytopénie:  
+Rechercher une hémoglobinurie paroxystique nocturne (HPN).
+- Répéter à 6 mois ce bilan
+
+#### Récidive de MVTE
+
+- < 50 ans: rechercher un *SAPL* et une {{< modal-btn modal-thrombophilie >}}thrombophilie constitutionnelle{{< /modal-btn >}}
+
+#### Récidive de MVTE sous anticoagulant bien conduit
+
+- Idem ci-dessus avec...
+- Dépistages des cancers à jour, répéter si ancienneté > 1 an
+- Recherche mutation JAK-2
+- Scanner thoraco-abdomino-pelvien ou PETscan
+
+{{% /collapse %}}
+{{%collapse "Traitement" %}}
 
 ### Anticoagulation
 
@@ -141,9 +181,26 @@ Traitement de référence en l'absence de cancer connu.
 
 Avec surveillance NFS, ionogramme, créatininémie, bilan hépatique.
 
+#### Durée de l'anticoagulation
+
+Le traitement doit durer 3 à 6 mois voire une durée non limitée et prend en compte le risque hémorragique.
+
+1<sup>re</sup> TVP proximale provoquée par {{< modal-btn modal-mvte-fdr >}}facteur majeur transitoire{{< /modal-btn >}}: 3 à 6 mois.
+
+1<sup>re</sup> TVP proximale non provoquée par {{< modal-btn modal-mvte-fdr >}}facteur majeur transitoire{{< /modal-btn >}} et sans {{< modal-btn modal-mvte-recidive >}}facteur persistant majeur{{< /modal-btn >}}:
+
+- Max 6 mois si:
+  - Règle HERDOO2 ≤ 1
+  - Femme < 50 ans
+  - Risque hémorragique élevé
+  - Présence de {{< modal-btn modal-mvte-recidive >}}facteur de risque mineur transitoire{{< /modal-btn >}}
+- Traitement au long cours si:
+  - Thrombophilie majeure  
+  Déficit AT, SAPL, certains déficits prot. C ou S.
+
 #### Anticoagulation par AOD
 
-En première intention en TVP proximale pour les 3 premiers mois de traitement.  
+En 1<sup>re</sup> intention en TVP proximale pour les 3 premiers mois de traitement.  
 Contre-indiqué pendant la grossesse.
 
 {{%info%}}
@@ -197,51 +254,6 @@ TODO:
 Indication: TVP proximale diagnostiquée dans les 30 jours (avec ou sans EP) avec contre-indication à l'anticoagulation curative.
 
 {{% /collapse %}}
-{{%collapse "TVP provoquée ou spontanée ?" %}}
-
-{{%info%}}Pour toute survenue de MVTE, il faut rechercher la présence de {{< modal-btn modal-mvte-fdr-traitement >}}facteurs de risque clinique de MVTE{{< /modal-btn >}}{{%/info%}}
-
-{{%info%}}La MVTE est **non provoquée** en l'absence de {{< modal-btn modal-mvte-fdr-traitement >}}facteur de risque clinique majeur{{< /modal-btn >}}.{{%/info%}}
-
-### Bilan étiologique
-
-- Pas de recherche systématique de cancer en {{< modal-btn modal-mvte-fdr-traitement >}}risque majeur transitoire{{< /modal-btn >}}
-- EP avec *nécrose cutanée* ou antécédent de pathologie vasculaire placentaire: rechercher un *SAPL*
-- EP avec *signes d'hémolyse* ou *cytopénie*: rechercher une *hémoglobinurie paroxystique nocturne* (HPN)
-
-#### 1<sup>er</sup> épisode de MVTE non provoquée (= pas de facteur majeur)
-
-- Antécédents personnels et familiaux, symptômes, examen physique complet
-- Dépistages des cancers à jour, répéter si ancienneté > 1 an
-- Radio de thorax (en l'absence d'angioscanner thoracique)
-- NFS, calcémie
-- < 50 ans avec TVP proximale, digestive, membre supérieur ou cérébrale: rechercher un *SAPL*
-- < 50 ans et antécédent familial de thrombose:  
-Rechercher une thrombophilie constitutionnelle.
-- NFS anormale, TVP digestive, membre supérieur ou cérébrale:
-Rechercher un syndrome myéloprolifératif.
-- Répéter à 6 mois ce bilan
-
-#### Récidive de MVTE
-
-- < 50 ans: rechercher un *SAPL* et une thrombophilie constitutionnelle
-
-#### Récidive de MVTE sous anticoagulant bien conduit
-
-- Idem ci-dessus avec...
-- Dépistages des cancers à jour, répéter si ancienneté > 1 an
-- Recherche mutation JAK-2
-- Scanner thoraco-abdomino-pelvien ou PETscan
-
-{{%info%}}
-Si indiqué, le bilan de thrombophilie est réalisé à 3-6 mois comporte:
-
-- Déficit en antithrombine, protéine C et protéine S
-- Mutations Leiden du facteur V
-- Mutation G20210A du Facteur II
-{{%/info%}}
-
-{{% /collapse %}}
 {{%collapse "Conduite à tenir devant une TVP" "show" %}}
 
 {{< mermaid title="Conduite à tenir devant une suspicion de thrombose veineuse profonde. Dr JB FRON d'après Sanchez 2019" >}}
@@ -291,8 +303,18 @@ graph TB
 {{< scores/mmrc >}}
 
 {{% /modal %}}
-{{% modal title="FDR de récidive thromboembolique" id="modal-mvte-fdr-traitement"%}}
+{{% modal title="FDR clinique de MVTE" id="modal-mvte-fdr"%}}
 
-{{< clinique/mvte-facteur-risque-traitement >}}
+{{< clinique/mvte-facteur-clinique >}}
+
+{{% /modal %}}
+{{% modal title="FDR de récidive TE" id="modal-mvte-recidive"%}}
+
+{{< clinique/mvte-facteur-recidive >}}
+
+{{% /modal %}}
+{{% modal title="Bilan de thrombophilie" id="modal-thrombophilie"%}}
+
+{{< clinique/thrombophilie >}}
 
 {{% /modal %}}

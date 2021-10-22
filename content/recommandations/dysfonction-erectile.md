@@ -10,7 +10,7 @@ lastmod = "2021-07-19"
 specialites = ["urologie"]
 annees = "2019"
 sources = ["AIUS", "Prescrire"]
-tags = ["dysfonction erectile", "IPDE5", "risque cardiovasculaire"]
+tags = ["dysfonction erectile", "risque cardiovasculaire"]
 anglais = ["Erectile dysfunction"]
 sctid = "860914002"
 draft = false
@@ -26,12 +26,12 @@ Pour les garçons de moins de 18 ans, la prise en charge relève de psychologue/
 {{%article-summary%}}
 
 1. Affirmer la DE et comprendre la demande du patient
-1. Cerner le contexte pour savoir si nécessite un sexologue
-1. Examen clinique et bilan biologique systématiques
-1. Prendre en compte le risque cardiovasculaire
-1. Informer sur la prévalence, les mécanismes de la DE
-1. Exposer les traitements disponibles et les mesures hygiéno-diétetiques
-1. Suivi médical régulier
+2. Cerner le contexte pour savoir si nécessite un sexologue
+3. Examen clinique et bilan biologique systématiques
+4. Prendre en compte le risque cardiovasculaire
+5. Informer sur la prévalence, les mécanismes de la DE
+6. Exposer les traitements disponibles et les mesures hygiéno-diétetiques
+7. Suivi médical régulier
 
 {{%/article-summary%}}
 

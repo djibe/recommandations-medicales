@@ -33,7 +33,7 @@ Pas de procréation jusqu'à 4 mois après son arrêt.
 - Insuffisance rénale grave
 - Insuffisance hépatique sévère
 
-### Associations
+### Associations contre-indiquées
 
 - AINS
 - Trimétoprime-sulfaméthoxazole (Bactrim&reg;)
