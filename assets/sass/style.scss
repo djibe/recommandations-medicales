@@ -243,6 +243,7 @@ article {
   }
 }
 
+.projet__content,
 .recommandation__content {
   margin-bottom: 5rem;
 
@@ -924,6 +925,19 @@ table.dataTable > tbody > tr.child ul.dtr-details > li {
 
 /* ApexCharts */
 
+.apexcharts-legend {
+  &.apexcharts-align-right,
+  &.apexcharts-align-left {
+    .apexcharts-legend-series {
+      display: inline-flex !important;
+    }
+  }
+}
+
+.apexcharts-legend-marker {
+  margin-right: 8px !important;
+}
+
 .apexcharts-tooltip {
   background: #fff !important;
   border-radius: 4px !important;
@@ -936,13 +950,13 @@ table.dataTable > tbody > tr.child ul.dtr-details > li {
 
   .apexcharts-tooltip-title {
     background: transparent !important;
-    color: rgba(0, 0, 0, 0.6) !important;
+    color: #666 !important;
     border-bottom: 0 !important;
     font-size: 14px !important;
   }
 
   .apexcharts-tooltip-text-y-label {
-    color: rgba(0, 0, 0, 0.6);
+    color: #666;
   }
 
   .apexcharts-tooltip-text-y-value {

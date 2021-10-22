@@ -466,8 +466,8 @@ Pourtant, des exemples comme les *prescriptions d'antibiotiques* ou le *suivi du
 
 <figure class="figure border alert mb-4">
   <div id="chart"></div>
-  <figcaption><b>DQD:</b> doses quotidiennes définies/1000 hab/j (DDD en anglais)<br>
-  <b>Figure.</b><a href="https://geodes.santepubliquefrance.fr/#c=indicator&f=0&i=antibio_conso.ddd_j01&s=2019&t=a01&view=map2"> Santé Publique France. Consommation en ville de tous les antibiotiques à usages systémiques - tous âges. Géodes.</a></figcaption>
+  <figcaption style="font-size: 14px"><b>DQD:</b> doses quotidiennes définies/1000 hab/j (DDD en anglais)<br>
+  <b>Figure. </b><a href="https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-associees-aux-soins-et-resistance-aux-antibiotiques/resistance-aux-antibiotiques/documents/rapport-synthese/la-consommation-d-antibiotiques-en-secteur-de-ville-en-france-2009-2019.-synthese-preliminaire-des-indicateurs-disponibles-sous-geodes">Santé Publique France. SPF. La consommation d'antibiotiques en secteur de ville en France 2009-2019. Synthèse préliminaire des indicateurs disponibles sous Géodes.</a></figcaption>
 </figure>
 
 <script>
@@ -480,7 +480,7 @@ const chartOptions = {
     height: 192,
     type: 'line',
   },
-  stroke: { width: 4 },
+  stroke: { colors: ['#4150f5'], curve: 'smooth', width: 4 },
   title: { text: 'Consommation en ville de tous les antibiotiques à usage systémique' },
   yaxis: { decimalsInFloat: 1 }
 }

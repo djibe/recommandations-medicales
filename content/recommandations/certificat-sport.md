@@ -68,17 +68,14 @@ const chartOptions = {
   }],
   colors:['#ff0581', '#4150f5'],
   chart: { height: 280 },
-  title: { text: 'Incidence de la mort subite chez le sportif' },
-  dataLabels: { enabled: false },
+  title: { text: 'Incidence annuelle de la mort subite chez le sportif' },
+  subtitle: { text: 'Par million de participants par tranche d\'âge' },
+  // dataLabels: { enabled: false },
   xaxis: {
-    categories: ['15-24', '25-34', '35-44', '45-54', '55-64', '65-75'],
-    title: { text: 'Tranche d\'âge' },
+    categories: ['15-24', '25-34', '35-44', '45-54', '55-64', '65-75']
   },
-  yaxis: {
-    title: { text: 'Incidence annuelle par million de participants' },
-    decimalsInFloat: 0
-  },
-  fill: { opacity: 1 },
+  yaxis: { decimalsInFloat: 0 },
+  // fill: { opacity: 1 },
   tooltip: {
     y: {
       formatter: function (val) {

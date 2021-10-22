@@ -49,26 +49,30 @@ const chartOptions = {
   },
   chart: {},
   title: { text: 'Taux de participation au dépistage des cancers en 2021' },
-  // subtitle: { text: 'Dr JB FRON d\'après dernières données SPF' },
   xaxis: {
     categories: ['Col de l\'utérus', 'Sein', 'Côlon-rectum'],
   },
   yaxis: [
     {
-      labels: { style: { colors: '#4150f5' }},
       title: {
         text: "Participation (%)",
         style: { color: '#4150f5' }
+      },
+      labels: {
+        style: { colors: '#757575' }
       }
     },
     {
       seriesName: 'Mortalité',
         opposite: true,
         decimalsInFloat: false,
-        labels: {style: {colors: '#ffa600'}},
         title: {
           text: "Mortalité annuelle",
-          style: {color: '#ffa600'}}
+          style: {color: '#ffa600'}
+        },
+        labels: {
+        style: { colors: '#757575' }
+      }
     }
   ],
   tooltip: {

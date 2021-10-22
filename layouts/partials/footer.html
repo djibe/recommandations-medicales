@@ -66,15 +66,21 @@ document.addEventListener( 'DOMContentLoaded', event => {
       type: 'bar',
       zoom: { enabled: false }
     },
-    dataLabels: {
-      style: {
-        // colors: ['#F44336', '#E91E63', '#9C27B0']
-      }
-    },
+    fill: { opacity: 1 },
     grid: {
       show: false,
-      padding: { right: 16, left: 16}
-     },
+      padding: { right: 16, left: 16 }
+    },
+    legend: {
+      horizontalAlign: 'left',
+      itemMargin: {
+        horizontal: 12,
+    },
+      offsetX: 24,
+      labels: {
+        colors: '#424242'
+      },
+    },
     markers: { size: 4 },
     plotOptions: {
       bar: { borderRadius: 2, columnWidth: '70%' }
@@ -86,7 +92,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
     },
     title: {
       margin: 24,
-      offsetX: 48,
+      offsetX: 8,
       style: {
         fontSize: '18px',
         fontWeight: 'normal'
@@ -94,23 +100,37 @@ document.addEventListener( 'DOMContentLoaded', event => {
     },
     subtitle: {
       margin: 16,
-      offsetX: 48,
+      offsetX: 8,
       style: { 
-        color:  'rgba(0,0,0,0.6)',
+        color:  '#666',
         fontSize: '14px'
       }
     },
     xaxis: {
-      style: { 
-        color:  'rgba(0,0,0,0.6)'
+      labels: {
+        style: { colors: '#757575' }
       },
-      crosshairs: {show: false},
+      crosshairs: {
+        stroke: { color: '#e0e0e0' }
+      },
+      title: {
+        style: {
+          color: '#666',
+          fontWeight: 400
+        }
+      },
       tooltip: {enabled: false}
     },
     yaxis: {
       forceNiceScale: true,
       labels: {
-        style: { colors: 'rgba(0,0,0,0.6)' }
+        style: { colors: ['#757575'], fontWeight: 400 }
+      },
+      title: {
+        style: {
+          color: '#666',
+          fontWeight: 400
+        }
       },
       min: 0
     }
