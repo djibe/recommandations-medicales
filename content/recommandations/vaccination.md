@@ -186,6 +186,7 @@ Le don du sang est contre-indiqué durant quatre semaines après les vaccination
 {{%collapse "Sources" %}}
 
 - {{< references/calendrier-vaccinal >}}
+- [Infovac](https://www.infovac.fr/)
 - [Vaccination Info Service](https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Administration-des-vaccins)
 
 {{% /collapse %}}
