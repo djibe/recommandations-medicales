@@ -44,7 +44,7 @@ Rattrapage vaccinal
 | 11 mois | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
 | 12 mois | Méningo CC<br>ROR          | Neisvac<br>MMRvaxPro, Priorix                 |
 | 16-18 mois | ROR        | MMRvaxPro, Priorix             |
-| 6 ans   | DTCaPolio     | Infanrix Tetra, Tetravac-acellulaire                       |
+| 6 ans   | DTCaPolio     | InfanrixTetra, Tetravac-acellulaire                       |
 | 11-13 ans   | dTcaPolio<br>(DTCaPolio si non fait)       | BoostrixTetra, Repevax<br>(voir 6 ans)    |
 | 11-14 ans   | HPV       | Gardasil9                      |
 | 25 ans  | dTcaPolio     | BoostrixTetra, Repevax         |

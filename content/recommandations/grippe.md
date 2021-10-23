@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
-lastmod = 2020-10-13
+lastmod = 2021-10-23
 specialites = ["infectiologie"]
 annees = "2020"
 sources = ["HAS", "MinSante"]
@@ -113,12 +113,13 @@ Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
 - Pneumopathie (virale, pneumocoque ou haemophilus)
 
 {{%/collapse%}}
-{{%collapse "Vaccins disponibles en 2020-2021" %}}
+{{%collapse "Vaccins disponibles en 2021-2022" %}}
 
-- InfluvacTetra®
-- VaxigripTetra®
+- Efluelda® (≥ 65 ans)
+- Influvac Tetra®
+- Vaxigrip Tetra®
 
-Campagne de vaccination du 13 octobre 2020 au 31 janvier 2021.
+Campagne de vaccination du 26 octobre 2021 au 31 janvier 2022.
 
 ### Bénéfices de la vaccination antigrippale
 
