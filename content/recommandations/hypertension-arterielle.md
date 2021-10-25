@@ -16,7 +16,7 @@ sctid = "38341003"
 draft = false
 image = true
 imageSrc = "Illustration de l'hypertension artérielle par vectorjuice / Freepik"
-todo = "Bernatos plus de 80 ans dépendants polypatho ( ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, liens vers la fiche, hypotension orthostatique, Le tensiomètre électronique dans modale, ESC 2018 tableau 4+19 - src157, HTA et grossesse"
+todo = "modale automesure, Bernatos plus de 80 ans dépendants polypatho ( ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, liens vers la fiche, hypotension orthostatique, Le tensiomètre électronique dans modale, ESC 2018 tableau 4+19 - src157, HTA et grossesse"
 +++
 
 Ces recommandations concernent l'adulte ≥ 18 ans.

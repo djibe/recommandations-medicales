@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-14T23:30:41+02:00
 publishdate = 2020-04-14
-lastmod = 2021-10-08
+lastmod = 2021-10-25
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["ANSM", "HAS"]
@@ -43,7 +43,7 @@ La TSH est élevée et la T4L basse.
 ### Facteurs favorisants l'hypothyroïdie
 
 - Post-partum
-- Antécédents personnels ou familiaux auto-immuns (ex. [Maladie coeliaque]({{< relref "maladie-coeliaque.md" >}}))
+- Antécédents personnels ou familiaux auto-immuns (ex. [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}))
 - Irradiation cervicale
 - Trisomie 21 et Syndrome de Turner
 
@@ -207,6 +207,8 @@ Adaptation par paliers de 12 µg.
 - L-Thyroxine Serb® en gouttes pédiatriques
 - Tsoludose® (non remboursable)
 {.list-group}
+
+<< Médicament à marge thérapeutique étroite >> permettant de mentionner << Non substituable >>.
 
 #### Consignes d'administration de la lévothyroxine
 
