@@ -6,9 +6,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
-lastmod = 2021-10-23
+lastmod = 2021-10-25
 specialites = ["infectiologie"]
-annees = "2020"
+annees = "2021"
 sources = ["HAS", "MinSante"]
 tags = ["grippe", "vaccin"]
 anglais = ["influenza", "flu"]
@@ -31,16 +31,20 @@ ainsi que toutes les personnes fragiles pour la Covid-19.
 - Admis en réanimation: mortalité de 20%.
 
 {{%/collapse%}}
-{{%collapse "Personnes prioritaires pour la vaccination en 2020" %}}
+{{%collapse "Personnes prioritaires pour la vaccination en 2021" %}}
 
-- Âge ≥ 65 ans
-- Pathologie chronique  
-Insuffisance respiratoire, insuffisance cardiaque, diabète, insuffisance rénale, asthme, bronchopneumopathie obstructive…
-- Obésité morbide (IMC ≥ 40 kg/m<sup>2</sup>)
+Personnes exclusives jusqu'au 22 novembre 2021:
+
+- Professionnels de santé
+- ≥ 65 ans
 - Femmes enceintes
-- Entourage des nourrissons de moins de 6 mois présentant des facteurs de risque de grippe grave: prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d’une affection de longue durée ainsi que l’entourage des personnes immunodéprimées.
+- Pathologie chronique  
+Insuffisance respiratoire, insuffisance cardiaque, diabète, insuffisance rénale, asthme, bronchopneumopathie obstructive, mucoviscidose, …
+- Obésité morbide (IMC ≥ 40 kg/m<sup>2</sup>)
+- Entourage des nourrissons de moins de 6 mois à risque de grippe grave  
+Prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d’une affection de longue durée ainsi - Immunodéprimé et son entourage
 
-> ANSM 13/10/2020
+> [Ameli Médecin 22/10/2021](https://www.ameli.fr/sites/default/files/Documents/707929/document/grippe-memos-medecins2021.pdf)
 
 **Pour les autres personnes, différer la vaccination à début décembre.**
 
@@ -50,12 +54,10 @@ Insuffisance respiratoire, insuffisance cardiaque, diabète, insuffisance rénal
 {{%info%}}
 Vaccination annuelle en octobre pour ces personnes.
 
-InfluvacTetra® (ou VaxigripTetra®) 1 dose.
-
 Bon de prise en charge n°850 sur Ameli pro.
 {{%/info%}}
 
-- Personnes de plus de 65 ans
+- ≥ 65 ans
 - Femmes enceintes
 - Asthme et [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (ALD 14)
 - Insuffisances respiratoires chroniques obstructives ou restrictives
@@ -130,9 +132,8 @@ Chez le sujet vivant en établissement, la vaccination réduit la survenue de pa
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [ANSM. Vaccination contre la grippe 2020-2021 : une priorité pour les personnes à risque. Communiqué. 13/10/2020](https://ansm.sante.fr/S-informer/Communiques-Communiques-Points-presse/Vaccination-contre-la-grippe-2020-2021-une-priorite-pour-les-personnes-a-risque-Communique)
-- [HAS. Vaccination antigrippale : la stratégie de la prochaine campagne annuelle réaffirmée dans le contexte de l’épidémie de COVID-19. 02/06/2020](https://www.has-sante.fr/jcms/p_3187536/fr/vaccination-antigrippale-la-strategie-de-la-prochaine-campagne-annuelle-reaffirmee-dans-le-contexte-de-l-epidemie-de-covid-19)
-- [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe ! 13/05/2020](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
+- [HAS. Vaccination antigrippale : la stratégie de la prochaine campagne annuelle réaffirmée dans le contexte de l’épidémie de COVID-19. 02/06/2020.](https://www.has-sante.fr/jcms/p_3187536/fr/vaccination-antigrippale-la-strategie-de-la-prochaine-campagne-annuelle-reaffirmee-dans-le-contexte-de-l-epidemie-de-covid-19)
+- [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe ! 13/05/2020.](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
 - {{< references/calendrier-vaccinal >}}
 
 {{% /collapse %}}
