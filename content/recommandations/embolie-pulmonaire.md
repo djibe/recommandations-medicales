@@ -132,7 +132,7 @@ En prenant en compte l'adaptation de l'âge après 50 ans.
 - Probabilité clinique forte
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'embolie pulmonaire" %}}
 
 {{%warning%}}Toute suspicion d'EP doit être explorée aux urgences (sauf probabilité faible infirmée par la règle PERC).{{%/warning%}}
 

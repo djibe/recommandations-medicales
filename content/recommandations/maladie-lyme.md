@@ -201,7 +201,7 @@ Adresser au spécialiste du centre de compétence (CCMVT, identifié par l'ARS) 
 Diagnostic certain si 3 critères - possible si 2 - exclu si ≤ 1.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la maladie de Lyme" %}}
 
 - **Forestier:** maladie professionnelle
   - {{%class%}}Tableau 19 du régime général et 5bis du régime agricole.{{%/class%}}

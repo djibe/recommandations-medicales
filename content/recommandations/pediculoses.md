@@ -69,7 +69,7 @@ Surtout le diagnostic d'un prurit de la tête. Les lentes sont pathognomoniques.
 - Dermatophytie
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement des poux" %}}
 
 [Information du patient - Santé BD: Les poux](https://santebd.org/les-fiches-santebd/docteur-generaliste/je-me-protege-contre-les-poux)
 

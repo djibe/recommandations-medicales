@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-08T20:02:41+02:00
 publishdate = 2020-10-08
-lastmod = 2021-10-21
+lastmod = 2021-10-26
 specialites = ["certificats"]
 annees = "2021"
 sources = ["JO", "SFC"]
@@ -26,7 +26,7 @@ imageSrc = "Le certificat du sportif illustré par pikisuperstar / Freepik"
 - Mineurs: [questionnaire de santé](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486824). Certificat requis si ≥ 1 réponse positive.  
 Pour les parents: [Service-public du 12/05/2021](https://www.service-public.fr/particuliers/actualites/A14888)
 - Préciser l'accès aux compétitions le cas échéant
-- Informer systématiquement sur les 10 règles d'or de la pratique sportive
+- Informer systématiquement sur les *10 règles d'or* de la pratique sportive
 - La consultation n'est pas prise en charge par l'*Assurance Maladie*
 - La mort subite atteint quasi exclusivement les hommes d'âge moyen et il est bien plus efficace d'apprendre à masser, de signaler les symptômes à l'effort et de corriger les FRCV avant les accidents *[Anys 2021](https://www.larevuedupraticien.fr/article/faut-il-un-screening-cardiaque-du-sportif-pour-ou-contre-2)*
 
@@ -48,7 +48,7 @@ Tous mes remerciements au Pr E. Marijon pour sa relecture attentive de cette sec
 {{%/info%}}
 
 Mort subite du sportif
-: Environ 1000 cas/an. Elle atteint quasi exclusivement des hommes (95%) d'âge moyen (50 ans en moyenne) avec une pratique de loisir (5% de jeunes athlètes, 15-20/an).
+: Environ 1000 cas/an (sur 40.000 morts subites annuelles). Elle atteint quasi exclusivement des hommes (95%) d'âge moyen (50 ans en moyenne) avec une pratique de loisir (5% de jeunes athlètes, 15-20/an).
 : Le risque de mort subite d'une femme (5% des cas) est infime (30x inférieure à 45-54 ans).
 : La cause n'est pas retrouvée dans 75% des cas (manque d'autopsies). Elle est principalement coronaire (75%) et inaugurale pour la moitié; et aussi cardiopathie non ischémique (15-20%), troubles du rythme (5-10%). Avant 35 ans, la 1re cause est la cardiomyopathie hypertrophique.  
 \> 50% avaient eu des symptômes typiques dans le mois qui précède.
@@ -70,12 +70,8 @@ const chartOptions = {
   chart: { height: 280 },
   title: { text: 'Incidence annuelle de la mort subite chez le sportif' },
   subtitle: { text: 'Par million de participants par tranche d\'âge' },
-  // dataLabels: { enabled: false },
-  xaxis: {
-    categories: ['15-24', '25-34', '35-44', '45-54', '55-64', '65-75']
-  },
+  xaxis: { categories: ['15-24', '25-34', '35-44', '45-54', '55-64', '65-75'] },
   yaxis: { decimalsInFloat: 0 },
-  // fill: { opacity: 1 },
   tooltip: {
     y: {
       formatter: function (val) {
@@ -139,8 +135,13 @@ Type, fréquence, intensité, niveau.
 Cardiopathie, mort subite.
 - Antécédents personnels
 - Facteurs de risque cardiovasculaire
+- {{< modal-btn modal-risque-cv >}}Risque cardiovasculaire{{< /modal-btn >}}
 - Vaccinations
 - Examen clinique rachis et cardio-vasculaire +++
+  - Pression artérielle aux 2 bras, fréquence cardiaque
+  - Souffle cardiaque, palpation des fémorales
+  - Signes de Marfan
+  - Examen couché et debout
 - Contre-indications
   - Cardiomyopathie, myocardite (temporaire)
   - Sport de combat. Myopie forte, organe pair unique. Avis ophtalmo.

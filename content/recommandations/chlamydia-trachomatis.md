@@ -110,7 +110,7 @@ Majoritairement subaiguë ou chronique, douleurs abdominales augmentées pendant
   - Lésions psoriasiformes
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du Chlamydia" %}}
 
 Traitement selon les résultats de l'analyse PCR.
 

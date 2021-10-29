@@ -6,7 +6,7 @@ synonyms = ["et maladie rénale chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-10-25"
+lastmod = "2021-10-26"
 specialites = ["nephrologie"]
 annees = "2021"
 sources = ["HAS", "KDIGO", "ESC"]
@@ -331,7 +331,7 @@ Uricémie.
   - Bilan CRP, dosage vitamines B9 et B12
   - Si insuffisants et Hb < 10 g/dL:  
   EPO par spécialiste avec cible 10-12 g/dL et surveillance tensionnelle.
-- Ostéodensitométrie si personne à risque de fracture
+- Ostéodensitométrie si {{< modal-btn modal-risque-fracture >}}personne à risque de fracture{{< /modal-btn >}}
 - Autres par coordination néphrologue-diététicien
 
 {{%/collapse %}}
@@ -420,6 +420,11 @@ bilan --> 7(Avis néphro)
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}
+{{% modal title="Facteurs de risque de fracture" id="modal-risque-fracture"%}}
+
+{{< clinique/risque-fracture >}}
 
 {{% /modal %}}
 {{% modal title="Objectifs glycémiques selon SFD 2019" id="modal-hba1c"%}}

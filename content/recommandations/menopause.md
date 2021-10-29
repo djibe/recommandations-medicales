@@ -6,7 +6,7 @@ synonyms = ["Syndrome climatérique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
 publishdate = "2021-10-19"
-lastmod = "2021-10-21"
+lastmod = "2021-10-26"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF"]
@@ -22,7 +22,7 @@ todo = "relecture gemvi-secretariat@gemvi.org, IOP HAS 2021"
 
 {{%article-summary%}}
 
-- Entraîne une augmentation importante du risque de fracture et de maladie cardiovasculaire
+- La ménopause entraîne une augmentation importante du risque de *fracture* et de *maladie cardiovasculaire*
 - Diagnostic clinique rétrospectif
 - La VPP du test au progestatif n'a pas été évaluée
 - Contraception: interrompre la contraception et suivre l'aménorrhée
@@ -135,18 +135,7 @@ Cardiovasculaires, fracturaires, chirurgicaux.
   - Palpitations
   - Apnées du sommeil
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}}
-- Facteurs de risque fracturaire
-  - Âge
-  - Antécédent de fracture par fragilité
-  - Antécédent parental de fracture vertébrale ou de hanche
-  - Insuffisance ovarienne précoce
-  - Endocrinopathie ou pathologie déminéralisante
-  - IMC < 19 kg/m²
-  - Tabagisme
-  - Corticothérapie systémique  
-  7,5 mg/j d'éq. prednisone > 3 mois.
-  - Traitement déminéralisant  
-  Anti-aromatase.
+- {{< modal-btn modal-risque-fracture >}}Facteurs de risque fracturaire{{< /modal-btn >}}
 - Toxiques  
 Alcool, tabac, autres.
 - Suivi des dépistages organisés des cancers
@@ -164,7 +153,7 @@ Alcool, tabac, autres.
   Diagnostic clinique si ≥ 1 symptôme: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (SFU, cystites récidivantes).
 - Information claire des bénéfices-risques à notifier dans le dossier médical
 
-> En début de ménopause, le score clinique *FRAX* a des performances prédictives de fracture médiocres. La mesure de la DMO par DXA est prédictive à 10 ans (Se 60%, Spe 70%)
+> En début de ménopause, le score clinique *FRAX* a des performances prédictives de fracture médiocres alors que la mesure de la DMO par DXA est prédictive à 10 ans (Se 60%, Spe 70%)
 
 #### Diagnostic différentiel
 
@@ -211,7 +200,7 @@ Aucun examen n'est recommandé pour le diagnostic de ménopause.
 
 Indications à l'ODM:
 
-- ≥ 1 facteur de risque fracturaire (voir *Clinique*)
+- ≥ 1 {{< modal-btn modal-risque-fracture >}}facteur de risque fracturaire{{< /modal-btn >}}
 - La connaissance de la DMO peut modifier la balance bénéfices-risques du THM
 - Contrôle à 2 ans de THM pour risque fracturaire
 - Contrôle à l'arrêt du THM si prescrit pour risque fracturaire
@@ -306,7 +295,7 @@ Quelque soit le statut hormonal ou invasif/in situ.
 
 Le THM peut être proposé en ménopause récente (< 10 ans) selon la balance bénéfices-risques individualisée:
 
-- Risque fracturaire et T-score < -2
+- {{< modal-btn modal-risque-fracture >}}Risque fracturaire{{< /modal-btn >}} et T-score < -2
   - Bénéfique si durée ≥ 5 ans
   - Cible: absence de perte osseuse à 2 ans
 - Bouffées vasomotrices altérant la qualité de vie
@@ -566,6 +555,11 @@ Décroît après l'arrêt du traitement.
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}
+{{% modal title="Facteurs de risque de fracture" id="modal-risque-fracture"%}}
+
+{{< clinique/risque-fracture >}}
 
 {{% /modal %}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}

@@ -118,7 +118,7 @@ Adresser à l'ORL pour bilan exhaustif:
 Test de déphasage acoustique, impédancemétrie multi-fréquentielle, électrocochléographie.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la maladie de Menière" %}}
 
 Dans l’ensemble, le niveau de preuve de chaque traitement est faible.  
 Le traitement dépend de la plainte et de la sévérité de la maladie; réserver les traitements suppresseurs au dernier recours.
@@ -182,7 +182,7 @@ Gentamycine transtympanique
 Titration fonctionnelle.  
 Contre-indiquée en oreille unique ou atteinte bilatérale.
 
-### En savoir plus: Chirurgie
+### Pour en savoir plus: Chirurgie
 
 5 opérations possibles:
 

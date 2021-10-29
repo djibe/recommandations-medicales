@@ -128,9 +128,9 @@ Le prurit est un diagnostic d'interrogatoire.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires devant un prurit" %}}
 
-Bilan de première intention devant un prurit nu sans cause évidente: biologie, radio de thorax, écho abdo.
+{{%info%}}
 
-### Biologique
+### Bilan devant un prurit sans orientation
 
 - NFS
 - Bilan hépatique  
@@ -138,10 +138,9 @@ ASAT, ALAT, GGT, PAL, bilirubine totale.
 - Créatininémie
 - TSH
 - Sérologies VIH, VHB, VHC
-
-### Radiographie thoracique
-
-### Échographie abdominale
+- Radiographie thoracique
+- Échographie abdominale
+{{%/info%}}
 
 La biopsie cutanée n’est pas indiquée si aucune lésion clinique. En pratique chez le sujet âgé , le dosage des anticorps anti-membrane basale est fréquent.
 

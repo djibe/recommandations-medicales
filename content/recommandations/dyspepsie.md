@@ -92,7 +92,7 @@ Alternative: IPP simple dose 4-8 semaines.
 Si résistance au traitement médical.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la dyspepsie" %}}
 
 - Âge > 50 ans: guidé par l'EOGD
 - Âge < 50 ans

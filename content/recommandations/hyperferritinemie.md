@@ -124,10 +124,10 @@ Hépatopathie, surcharge en fer, hémoglobinopathie, diabète, cataracte précoc
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan biologique
+### Bilan devant une hyperferritinémie
 
 {{%info%}}
-À jeûn pendant 12h:
+À jeun pendant 12h:
 
 - NFS, CRP
 - Ferritinémie, CST à jeun

@@ -169,7 +169,7 @@ Indications:
 Pour le bilan d'extension en vue d'un suivi gynécologique.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'endométriose" %}}
 
 {{%info%}}Tout traitement autre que la contraception et l'antalgie relève du spécialiste.{{%/info%}}
 

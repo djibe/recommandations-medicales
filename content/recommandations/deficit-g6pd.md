@@ -168,7 +168,7 @@ Remettre au patient la [liste ANSM](https://ansm.sante.fr/uploads/2021/03/11/lis
 Détail dans le document de l'*ANSM*
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du déficit en G6PD" %}}
 
 - Signaler le déficit à tout médecin
 - [Carte de déficit en G6PD](https://docs.google.com/forms/d/e/1FAIpQLSc6cF8E4i2j1jxGUqUwRaqu4E_gzP-qnX3spfBwfNq9tgAPEw/viewform?c=0&w=1)  

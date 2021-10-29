@@ -220,7 +220,7 @@ Dépiste une coronaropathie ou un trouble du rythme associé.
 Échodoppler des artère rénales si OAP flash ou [IRC]({{< relref "insuffisance-renale-chronique.md" >}}) rapidement progressive.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'AOMI" %}}
 
 **Objectif:** obtenir une amélioration du périmètre de marche et restaurer une qualité de vie.
 

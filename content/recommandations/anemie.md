@@ -174,7 +174,7 @@ Examen gynécologique.
 Une anémie par carence martiale pendant la **grossesse** dispense du bilan étiologique.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'anémie" %}}
 
 ### Supplémentation en fer
 

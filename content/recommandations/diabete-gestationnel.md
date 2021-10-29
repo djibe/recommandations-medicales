@@ -39,13 +39,12 @@ Facteur de risque de complications obstétricales:
     - Maternelles: pré-éclampsie, césarienne
     - Fœtales : macrosomie, hydramnios (rare), hyperbilirubinémie
 : La prévalence du DG est de 8% (2012) et en augmentation. Le risque ultérieur de [diabète de type 2]({{< relref "diabete-type-2.md" >}}) est alors **x7**.
+: Sur-dépistage du DG: 76% versus 42% attendus (*Regnault 2012*)
 
 Le diabète gestationnel ne modifie pas l'incidence des asphyxies néonatales, décès périnataux et hypocalcémies néonatales.
 
 **Rappel:** la glycémie baisse de 20% pendant la grossesse chez la femme non diabétique.  
 Conclusion de l'étude *Diagest2*: 18% des femmes avec un DG développeront un diabète de type 2 dans les 6 ans.
-
-*Sur-dépistage du DG: 76% versus 42% attendus (Regnault 2012)*
 
 ### Abréviations
 
@@ -69,7 +68,9 @@ Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque par
 2. Surpoids (IMC ≥ 25 kg/m²)
 3. Antécédent familial de [diabète type 2]({{< relref "diabete-type-2.md" >}}) au 1<sup>er</sup> degré
 4. Antécédent personnel de diabète gestationnel  
-5. Antécédent de macrosomie (> 4 kg)
+5. Antécédent de macrosomie (≥ 4 kg)
+
+> *CNGOF, SFD 2010*
 {{%/info%}}
 
 ### Comment dépister le diabète gestationnel?

@@ -168,7 +168,7 @@ Rechercher une hémoglobinurie paroxystique nocturne (HPN).
 - Scanner thoraco-abdomino-pelvien ou PETscan
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la TVP" %}}
 
 ### Anticoagulation
 

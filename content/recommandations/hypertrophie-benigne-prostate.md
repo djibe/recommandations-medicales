@@ -102,7 +102,7 @@ Indications: antécédents d’hématurie (micro ou macro), de rétrécissement 
 Le bilan urodynamique est réservé à l’urologue.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'HBP" %}}
 
 Informer le patient des modalités existantes pour un choix éclairé.  
 Pas de supériorité d'un traitement médical par rapport à un autre.
