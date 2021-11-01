@@ -6,9 +6,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-17T14:11:29+02:00
 publishdate = 2020-06-17
-lastmod = 2021-07-01
+lastmod = 2021-11-01
 specialites = ["addictologie"]
-annees = "2020"
+annees = "2021"
 sources = ["Ameli"]
 tags = ["asthme", "BPCO", "tabac"]
 anglais = ["Product containing only nicotine"]
@@ -55,16 +55,14 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
     <h4 class="typography-overline font-weight-bolder mt-lg-5">Patchs remboursés (systématique)</h4>
     {{% class "typography-body-2 text-black-secondary" %}}Le matin au réveil sur la zone au choix. Changer de place quotidiennement.{{%/class%}}
     <p>Une cigarette = environ 1 mg de nicotine</p>
-    <ul class="list-group list-group-xs">
+    <ul class="list-group list-group-xs"><!--Pierre Fabre-->
       <li class="list-group-item">Nicopatchlib 14 mg<span class="text-muted">/24h</span></li>
-      <!--Pierre Fabre-->
       <li class="list-group-item">Nicopatchlib 7 mg<span class="text-muted">/24h</span></li>
-      <li class="list-group-divider"></li>
-      <li class="list-group-item">Nicopatch 14 mg<span class="text-muted">/24h</span></li>
-      <li class="list-group-item">Nicopatch 7 mg<span class="text-muted">/24h</span></li>
-      <li class="list-group-divider"></li>
+      <li class="list-group-divider"></li><!--Nicotine EG-->
+      <li class="list-group-item">Nicotine EG 14 mg<span class="text-muted">/24h</span></li>
+      <li class="list-group-item">Nicotine EG 7 mg<span class="text-muted">/24h</span></li>
+      <li class="list-group-divider"></li><!--Johnson & Johnson, 16h-->
       <li class="list-group-item">NicoretteSkin 15 mg<span class="text-muted">/16h</span></li>
-      <!--Johnson & Johnson, 16h-->
       <li class="list-group-item">NicoretteSkin 10 mg<span class="text-muted">/16h</span></li>
       <li class="list-group-divider"></li>
       <li class="list-group-item">Niquitin 14 mg<span class="text-muted">/24h</span></li>
@@ -79,7 +77,7 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
     {{% class "typography-body-2 text-black-secondary" %}}Mâcher 1 fois puis placer entre gencive et joue. Mâcher à nouveau en cas d'envie de fumer.{{%/class%}}
     <ul class="list-group">
       {{< list-item title="Nicorette sans sucre 2 mg (Fruits, menthe fraîche, menthe glaciale, neutre)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 30/j." >}}
-      {{< list-item title="Nicotine EG sans sucre 2 mg (Fruit, menthe)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 24/j." >}}
+      {{< list-item title="Nicotine EG sans sucre 2 mg (Citron, fruit, menthe)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 24/j." >}}
       {{< list-item title="Niquitin sans sucre 2 mg (Fruits tropicaux, menthe glaciale)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 25/j." >}}
       {{< list-item title="Nicotinell sans sucre 2 mg (Fruit, fruit exotique, menthe fraîcheur)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 25/j." >}}
     </ul>
@@ -122,7 +120,7 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
     <p class="text-black-secondary">Débuter avec ces dosages le 1er mois.</p>
     <ul class="list-group list-group-xs">
       <li class="list-group-item">Nicopatchlib 21 mg</li>
-      <li class="list-group-item">Nicopatch 21 mg</li>
+      <li class="list-group-item">Nicotine EG 21 mg</li>
       <li class="list-group-item">NicoretteSkin 25 mg</li>
       <li class="list-group-item">Niquitin 21 mg</li>
       <li class="list-group-item">Nicotinell TTS 21 mg</li>
@@ -130,9 +128,9 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
     <h4 class="typography-overline mt-lg-5">Gommes à mâcher</h4>
     <ul class="list-group">
       {{< list-item title="Nicorette sans sucre 4 mg (Fruits, menthe fraîche, menthe glaciale)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
-      {{< list-item title="Nicotine EG sans sucre 4 mg (Fruit, menthe)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
+      {{< list-item title="Nicotine EG sans sucre 4 mg (Citron, fruit, menthe)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
       {{< list-item title="Niquitin sans sucre 4 mg (Fruits tropicaux, menthe glaciale)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
-      {{< list-item title="Nicotinell sans sucre 4 mg (Fruit, fruit exotique, menthe fraîcheur)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
+      {{< list-item title="Nicotinell sans sucre 4 mg (menthe fraîcheur)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
     </ul>
     <h4 class="typography-overline mt-lg-3">Comprimés à sucer</h4>
     <ul class="list-group">
@@ -147,10 +145,12 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
 </div>
 
 <blockquote class="blockquote mt-5">
-  <h3 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au <time datetime="2020-09-27">27/09/2020</time>.</h3>
-  <footer class="blockquote-footer"><cite title="Source Title"><a
-        href="https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/prise-charge-substituts-nicotiniques"
-        target="_blank" rel="nofollow noopener">L'Assurance Maladie</a></cite></footer>
+  <h3 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au 20/09/2021.</h3>
+  <footer class="blockquote-footer">
+    <cite title="Ameli"><a
+        href="https://www.ameli.fr/sites/default/files/Documents/441422/document/liste-substituts-nicotiniques_assurance-maladie_2021-10-15_0.pdf"
+        target="_blank" rel="nofollow noopener">L'Assurance Maladie</a></cite>
+  </footer>
 </blockquote>
 
 {{< references/tabac-info-service >}}

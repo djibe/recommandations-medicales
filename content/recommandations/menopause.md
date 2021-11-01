@@ -191,7 +191,8 @@ Aucun examen n'est recommandé pour le diagnostic de ménopause.
 
 - Poids, taille, IMC, PA 2 bras, pouls périphériques
 - Palpation des seins, examen gynécologique complet
-- Mammographies de dépistage à jour
+- Mammographies de dépistage à jour  
+puis dépistage organisé à partir de 50 ans (*HAS 2015 cancer du sein*)
 - Frottis cervico-vaginal
 - Glycémie à jeun
 - Bilan lipidique
@@ -263,9 +264,7 @@ Contre-indication aux phytoœstrogènes.
 {{%info%}}Prise de poids à la ménopause: << Seuls les excès répétés et/ou un déséquilibre chronique quantitatif et qualitatif de l’alimentation peuvent être en cause >> (*CNGOF 2021*){{% /collapse %}}
 
 {{% /collapse %}}
-{{%collapse "Traitement hormonal de la ménopause" %}}
-
-[Information de la patiente - GEMVI: Fiche info ménopause et THM](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
+{{%collapse "Contre-indications au THM" %}}
 
 {{%warning%}}
 
@@ -291,6 +290,11 @@ Quelque soit le statut hormonal ou invasif/in situ.
 
 {{%/warning%}}
 
+{{% /collapse %}}
+{{%collapse "Traitement hormonal de la ménopause" %}}
+
+[Information de la patiente - GEMVI: Fiche info ménopause et THM](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
+
 ### Indications
 
 Le THM peut être proposé en ménopause récente (< 10 ans) selon la balance bénéfices-risques individualisée:
@@ -314,8 +318,7 @@ Précisions: aucun effet sur l'endomètre si durée < 2 ans.
 
 Le traitement hormonal de la ménopause (THM) en pratique:
 
-- Débuté seulement après diagnostic clinique certain
-- Pas après > 10 ans de ménopause
+- Débuté seulement après diagnostic clinique certain et < 10 ans après le début de la ménopause
 - Association: estradiol par voie cutanée 17bêta-estradiol ou valérate d’estradiol + progestérone micronisée ou dydrogestérone ≥ 12 j/m
 - Utiliser les doses minimales efficaces
 - Hystérectomie  
@@ -325,7 +328,7 @@ Estradiol cutané seul.
   Évite hémorragies de privation et BVM concomitantes, migraines, simplicité.
   - ou *séquentiel* (hémorragies de privation)
   - La dose minimale efficace peut varier avec le temps
-- Délai d'efficacité sur BVM: 2-6 semaines.  
+- Délai d'efficacité sur les BVM: 2-6 semaines.  
 L'absence d'efficacité doit faire rechercher des BVM atypiques (voir *Clinique*).
 - Contre-indications à l'estradiol par voie orale
   - Antécédent de MVTE

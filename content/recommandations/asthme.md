@@ -1,14 +1,14 @@
 +++
-title = "Asthme de l'adulte et de l'enfant de plus de 5 ans"
+title = "Asthme de l'adulte et de l'enfant de plus de 6 ans"
 prefix = "l'"
 shortname = "Asthme"
 synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-06-21T10:56:00+02:00
 publishdate = 2021-06-29
-lastmod = 2021-07-21
+lastmod = 2021-10-30
 specialites = ["pneumologie"]
-annees = "2019"
+annees = "2021"
 sources = ["GINA", "ERS", "SPLF", "HAS"]
 tags = ["AINS", "dyspnee", "tabac", "toux", "vaccin"]
 anglais = ["Asthma"]
@@ -43,7 +43,7 @@ Asthme
 Ils sont associés à une variabilité du débit expiratoire de pointe (DEP) par bronchoconstriction, épaississement de la paroi bronchique et production accrue de mucus.
 : L'obstruction est objectivée par l'observation d'un trouble ventilatoire obstructif (TVO) réversible (partiellement ou complètement), à l'état basal ou après un test de provocation bronchique.
 : Les principaux facteurs favorisants et entretenant ces anomalies sont les *infections virales*, les *allergies respiratoires* et les *irritants bronchiques*.
-: Dit sévère quand nécessite de fortes doses de {{< modal-btn modal-ttt-bala-csi >}}CSI-BALA{{< /modal-btn >}} (*GINA 2021*)
+: *Asthme sévère*: nécessité de fortes doses de {{< modal-btn modal-ttt-bala-csi >}}CSI-BALA{{< /modal-btn >}} (*GINA 2021*)
 : 300 millions de malades dans le monde, 4 millions en France (*SPF*) à l'origine de 60.000 séjours hospitaliers et 1000 décès annuels.
 
 Exacerbation d'asthme
@@ -79,7 +79,7 @@ Bannir le terme de << bronchite asthmatiforme >>: il s'agit d'une maladie chroni
 **VEMS:** volume expiratoire maximal en une seconde
 
 {{% /collapse %}}
-{{%collapse "Gravité" %}}
+{{%collapse "Signes de gravité" %}}
 
 ### Signes de défaillance = asthme aigu grave
 
@@ -108,8 +108,6 @@ Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 - Pouls > 100/min
 - SpO<sub>2</sub> < 95%
 - DEP > 50% de la meilleure valeur connue
-
-### Patients à risque de décès
 
 {{%warning%}}
 
@@ -181,7 +179,7 @@ Très haut sur et sous-diagnostic de la maladie.
 > *GINA 2019*
 
 Pour le diagnostic de 5 à 16 ans, l'*ERS 2021* recommande d'obtenir 2 examens objectifs concluants pour affirmer le diagnostic.  
-Ne pas utiliser de traitement d'épreuve pour affirmer le diagnostic.
+**Ne pas utiliser de traitement d'épreuve pour affirmer le diagnostic.**
 
 Documenter et consigner dans le dossier les données démontrant le diagnostic d'asthme.  
 Réévaluer l'efficacité du traitement initial à 2-3 mois.
@@ -233,7 +231,7 @@ En gras, les symptômes clés de l'asthme.
 
 ### Examen clinique
 
-Mesure du DEP pour les personnes perçevant mal leurs symptômes.
+Mesure du DEP pour les personnes percevant mal leurs symptômes.
 
 #### En cas d'exacerbation
 
@@ -440,8 +438,8 @@ Conduite à tenir:
 
 ### Asthme parfaitement contrôlé
 
-Asthme parfaitement contrôlé sur les 3 derniers mois: discuter la décroissance vers la *dose minimale efficace*.  
-Paliers de 3 mois avec réévaluation par l'{{< modal-btn modal-score-act >}}Asthma Control Test™ (ACT){{< /modal-btn >}} à chaque consultation.
+Asthme parfaitement contrôlé sur les 2-3 derniers mois: discuter la décroissance vers la *dose minimale efficace*.  
+Paliers de 2-3 mois avec réévaluation par l'{{< modal-btn modal-score-act >}}Asthma Control Test™ (ACT){{< /modal-btn >}} à chaque consultation.
 
 La décroissance du {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} peut se faire par paliers de 25-50%.  
 Maintenir au long cours un {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} à faible dose.
