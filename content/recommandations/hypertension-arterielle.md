@@ -32,6 +32,7 @@ Ces recommandations concernent l'adulte ≥ 18 ans.
 - Cibles tensionnelles selon le profil (120-129/70-79 mmHg avant 65 ans)
 - Objectif d'un seul comprimé combiné et informer sur les conséquences d'une HTA non traitée (accidents CV, démence)
 - Bithérapies de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
+- [Le carnet d'automesure tensionnelle 2021](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

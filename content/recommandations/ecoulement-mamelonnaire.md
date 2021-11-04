@@ -6,10 +6,10 @@ synonyms = ["Galactorrhée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-21T19:43:29+02:00"
 publishdate = "2021-10-21"
-lastmod = "2021-10-21"
+lastmod = "2021-11-03"
 specialites = ["gynecologie-obstetrique"]
 annees = "2015"
-sources = ["CNGOF"]
+sources = ["CNGOF", "HAS"]
 tags = []
 anglais = ["Nipple discharge"]
 sctid = "54302000"
@@ -136,5 +136,6 @@ graph TB
 
 - [Boisserie-Lacroix M., Lippa N. Prise en charge d’un écoulement mamelonnaire. La lettre du sénologue. n°72. 2016.](https://www.edimark.fr/Front/frontpost/getfiles/24304.pdf)
 - [Ouldamer L. et al. CNGOF. Exploration d’un écoulement mamelonnaire du sein uni- ou bilatéral : recommandations. Journal de Gynécologie Obstétrique et Biologie de la Reproduction. Volume 44. Issue 10. 2015. Pages 927-937.](https://doi.org/10.1016/J.JGYN.2015.09.035)
+- [HAS. Dépistage et prévention du cancer du sein. Février 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
 
 {{% /collapse %}}

@@ -137,7 +137,7 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Substituer par un GLP-1 RA</li>
           <li class="list-group-item list-group-item-action">Substituer par une insuline basale</li>
-           <li class="list-group-divider" role="separator"></li>
+          <li class="list-group-divider" role="separator"></li>
           <li class="list-group-item font-weight-bold">Si iDD4 inefficace</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Substituer par un SU</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-isglt2">Substituer par un iSGLT2</li>
@@ -156,7 +156,7 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Ajouter un GLP-1 RA</li>
           <li class="list-group-item list-group-item-action">Substituer par une insuline basale</li>
-           <li class="list-group-divider" role="separator"></li>
+          <li class="list-group-divider" role="separator"></li>
           <li class="list-group-item font-weight-bold">SU avec hypoglycémies sévères/répétées</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-idpp4">Substituer par un iDPP4</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-isglt2">Substituer par un iSGLT2</li>
@@ -175,7 +175,7 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Ajouter un GLP-1 RA</li>
           <li class="list-group-item list-group-item-action">Ajouter une insuline basale</li>
-           <li class="list-group-divider" role="separator"></li>
+          <li class="list-group-divider" role="separator"></li>
           <li class="list-group-item font-weight-bold">iSGLT2 inefficace</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Substituer par un SU</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-iddp4">Substituer par un iDPP4</li>
@@ -193,7 +193,7 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-insuline">Ajouter une basale</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
-           <li class="list-group-divider" role="separator"></li>
+          <li class="list-group-divider" role="separator"></li>
           <li class="list-group-item font-weight-bold">GLP-1 RA inefficace</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Substituer par un SU</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-isglt2">Substituer par un iSGLT2</li>
@@ -204,12 +204,12 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
 </div>
 <!-- 4e intention -->
 <h3 class="typography-overline mt-3">4e intention</h3>
-<p class="font-weight-bold my-2">La <span data-toggle="modal" data-target="#modal-metformine">metformine</span> doit toujours être maintenue.</p>
+<p class="font-weight-bold my-2">La <a data-toggle="modal" href="#modal-metformine">metformine</a> doit toujours être maintenue.</p>
 <ul>
-  <li><span data-toggle="modal" data-target="#modal-su">SU</span> + <span data-toggle="modal" data-target="#modal-idpp4">iDPP4</span> + <span data-toggle="modal" data-target="#modal-isglt2">iSGLT2</span></li>
-  <li><span data-toggle="modal" data-target="#modal-glp1ra">GLP1-RA</span>, &plusmn; arrêt <span data-toggle="modal" data-target="#modal-su">SU</span>/<span data-toggle="modal" data-target="#modal-isglt2">iSGLT2</span><br>
+  <li><a data-toggle="modal" href="#modal-su">SU</a> + <a data-toggle="modal" href="#modal-idpp4">iDPP4</a> + <a data-toggle="modal" href="#modal-isglt2">iSGLT2</a></li>
+  <li><a data-toggle="modal" href="#modal-glp1ra">GLP1-RA</a>, &plusmn; arrêt <a data-toggle="modal" href="#modal-su">SU</a>/<a data-toggle="modal" href="#modal-isglt2">iSGLT2</a><br>
   Arrêt iDPP4.</li>
-  <li data-toggle="modal" data-target="#modal-insuline">Insuline basale</li>
+  <li><a data-toggle="modal" href="#modal-insuline">Insuline basale</a></li>
 </ul>
 </div>
 <script>

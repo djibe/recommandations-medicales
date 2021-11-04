@@ -47,7 +47,7 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
     <div class="card rounded mb-3">
       <div class="card-body">
         <h4 class="card-subtitle">Exemple de prescription</h4>
-        <p class="card-text user-select-all">Nicopatchlib 14 mg. 1 patch/jour (laisser en place 24 heures) pendant 1 mois,<br>
+        <p class="user-select-all">Nicopatchlib 14 mg. 1 patch/jour (laisser en place 24 heures) pendant 1 mois,<br>
           puis Nicopatchlib 7 mg/j 1 mois<br>
           puis arrêt (ou sans dépasser 6 mois).</p>
       </div>

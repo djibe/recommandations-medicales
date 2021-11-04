@@ -5,18 +5,18 @@ shortname = ""
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
-publishdate = "2021-10-29"
-lastmod = "2021-10-29"
+publishdate = "2021-11-03"
+lastmod = "2021-11-03"
 specialites = ["gynecologie-obstetrique"]
 annees = "2015"
 sources = ["HAS"]
 tags = ["depistage"]
 anglais = []
 sctid = ""
-draft = true
+draft = false
 image = false
 imageSrc = ""
-todo = "in situ en ital, algorithme 2, InCa, numéro IGR, maj écoulement mamelonnaire, prescr prothèse mammaire externe, Collège, https://www.has-sante.fr/jcms/c_1741602/fr/cancer-du-sein-quel-depistage-selon-vos-facteurs-de-risque-questions-/-reponses"
+todo = "algorithme 2 et 3, InCa, numéro IGR, Collège, https://www.has-sante.fr/jcms/c_1741602/fr/cancer-du-sein-quel-depistage-selon-vos-facteurs-de-risque-questions-/-reponses, EI hormonothérapie, perruque InCa"
 +++
 
 {{%article-summary%}}
@@ -73,6 +73,7 @@ Très fréquente (50-80% de 30 à 50 ans). Associée à une augmentation du risq
 
 ### Abréviations
 
+**DO:** programme de dépistage organisé du cancer du sein  
 **HER2:** {{%lang%}}Human Epidermal Growth Factor Receptor-2{{%/lang%}}
 
 {{% /collapse %}}
@@ -88,25 +89,27 @@ Seules personnes concernées par le dépistage organisé du cancer du sein.
 
 ### Niveau de risque élevé
 
-1. Antécédent de cancer invasif du sein ou de carcinome canalaire *in situ*
+1. Antécédent de cancer invasif du sein ou de carcinome canalaire *in situ*  
+Voir *Surveillance*.
 2. Antécédent de radiothérapie thoracique à haute dose
     - Examen clinique annuel 8 ans après la fin (si ≥ 20 ans)
-    - Mammographies + IRM mammaire annuelle 8 après la fin (si ≥ 30 ans)
+    - Mammographies (incidence oblique) + IRM mammaire annuelles 8 après la fin (si ≥ 30 ans)
 3. Antécédent d'hyperplasie canalaire atypique, d'hyperplasie lobulaire atypique ou de carcinome lobulaire *in situ*
-    - Mammographie annuelle pendant 10 ans, puis tous les 2 ans jusqu'au dépistage organisé
-4. Antécédent familial de cancer du sein avec {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} ≥ 3 et risque élevé estimé par l'oncogénéticien  
+    - Mammographie ± échographie annuelle pendant 10 ans, puis tous les 2 ans jusqu'au dépistage organisé
+4. Antécédent familial de cancer du sein avec {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} ≥ 3 et risque élevé estimé par l'oncogénéticien (*InCa 2017*)  
 Pour les apparenté au 1<sup>er</sup> degré ou nièce par un frère: Surveillance radiologique 5 ans avant l'âge du diagnostic de cancer chez le plus jeune:
     - Examen clinique annuel à partir de 20 ans
-    - Mammographies annuelles ± échographie de 40 à 50 ans
-    - Dépistage organisé après 50 ans
+    - Mammographies annuelles à partir de 5 ans avant le cas ± échographie jusqu'à 50 ans
+    - puis dépistage organisé
 
 ### Niveau de risque très élevé
 
-1. Prédisposition génétique (dont BRCA1 ou 2) ou apparenté au 1<sup>er</sup> degré ou nièce par un frère
+1. Mutation BRCA1 ou 2 ou apparenté au 1<sup>er</sup> degré ou nièce par un frère  
 2. Forme familiale avec {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} ≥ 3 et risque très élevé estimé par l'oncogénéticien
 
-Orientation vers la consultation d'oncogénétique.  
-Surveillance spécifique annuelle (mammographie ± échographie, IRM).
+- Orientation vers la consultation d'oncogénétique
+- Examen clinique tous les 6 mois après 20 ans
+- Mammographies + échographie + IRM annuelles après 30 ans
 
 #### Mutations BRCA1 et BRCA2
 
@@ -134,9 +137,10 @@ Toute suspicion diagnostique justifie un avis spécialisé sans délai.
 {{%/warning%}}
 
 - Antécédents personnels et familiaux  
-Cancers sein ou ovaire.
+Cancers sein ou ovaire (nombre, âge, bilatéralité, sexe).
 - Traitements en cours
 - Contraception ou statut ménopausique
+- Date et résultat des dernières mammographies (voire échographies, IRM)
 - Rapidité d'évolution des symptômes
 - Sein
   - Nodule persistant, induré, irrégulier, sensible, fixé, non modifié pendant le cycle
@@ -194,14 +198,16 @@ Effectuées et remboursées à 100% (les examens supplémentaires ne le sont pas
 
 {{%info%}}Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans (*HAS*){{%/info%}}
 
+La patiente ne reçoit pas ses invitations ? Elle contacte le [CRCDC régional](https://www.e-cancer.fr/Comprendre-prevenir-depister/Se-faire-depister/Centres-regionaux-de-coordination-des-depistages-des-cancers).
+
 ### Conduite à tenir selon les résultats de la mammographie
 
 - Mammographies ACR1 ou 2 (normales ou bénignes)  
-Poursuite du dépistage tous les 2 ans jusqu'à 74 ans.
+Poursuite du dépistage tous les 2 ans jusqu'à 74 ans, consultation sans délai si symptôme.
 - Mammographies ACR3 (probablement bénignes)  
-Surveillance clinique et radiologique.
+Surveillance clinique et radiologique tous les 6 mois pendant 2 ans.
 - Mammographies ACR4 ou 5 (anormales)  
-Biopsie échoguidée puis avis sénologique rapide.
+Biopsie échoguidée (sénologue, radiologue) puis avis sénologique rapide.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
@@ -246,7 +252,7 @@ Voir *Surveillance après cancer*.
 
 ### Suivi post traitement
 
-- Examen clinique tous les 3-6 mois pendant 5 ans, puis annuel
+- Examen clinique tous les 6 mois pendant 2 ans, puis annuel (*InCa 2017*)
   - Symptômes généraux
   - Palpation des seins
   - Aires ganglionnaires
@@ -271,9 +277,20 @@ TSH régulière.
 - Gants de protection en activité à risque de blessure
 - Savoir identifier les signes de lymphangite et consulter en urgence devant: œdème augmenté, rougeur, chaleur, fièvre
 
+### Prothèses mammaires externes
+
+- Remboursées sur ordonnance du chirurgien ou médecin traitant (sauf achat sur internet)
+- Renouvelable à 12 mois puis tous les 18 mois
+- En textile dans les 2 mois suivants la chirurgie. Remb. 25€.
+- En silicone *modèle standard* après 3 mois. Remb. 180€.
+- En silicone *modèle technique* (adhérente ou non) après 4 mois (14 mois si adhérente). Si symptômes (problème de cicatrisation, risque de lymphœdème, douleurs, bouffées de chaleur) ou meilleure convenance.  
+  Remb. 240€.
+
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [InCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
+- [InCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. Octobre 2017.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
 - [HAS. Dépistage et prévention du cancer du sein. Février 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
 
 {{% /collapse %}}
@@ -282,5 +299,3 @@ TSH régulière.
 {{< scores/eisinger >}}
 
 {{% /modal %}}
-
-≤≥±®œŒ³ÂSpO<sub>2</sub>

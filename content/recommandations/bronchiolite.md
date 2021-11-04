@@ -6,41 +6,55 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-16T08:08:41+02:00
 publishdate = 2020-11-16
-lastmod = 2021-05-02
-specialites = ["pediatrie", "pneumologie"]
-annees = "2000"
+lastmod = 2021-11-04
+specialites = ["pediatrie"]
+annees = "2018"
 sources = ["HAS", "SFP"]
-tags = ["bronchiolite", "nourrisson"]
+tags = ["nourrisson"]
 anglais = ["Bronchiolitis"]
 sctid = "4120002"
 draft = false
 image = false
 imageSrc = ""
-todo = "BEH, lire reco HAS 2019, algo"
+todo = "flowchart"
 +++
 
 {{%article-summary%}}
 
-- Éliminer insuffisance cardiaque et pneumopathie.
-- Hospitalisation si prématurité < 35 semaines, < 94% en air ambiant, < 3 mois ou selon clinique.
-- Dure de 3 à 8 jours (voire 1 mois).
-- DRP - proclive - fractionner - surveillance.
+- La bronchiolite concerne uniquement les enfants < 12 mois (asthme du nourrisson après ou si ≥ 3 épisodes)
+- Éliminer insuffisance cardiaque et pneumopathie
+- Hospitalisation si prématurité < 35 semaines, < 94% en air ambiant, < 3 mois ou selon clinique
+- Durée de 3 à 8 jours (voire 1 mois)
+- DRP - proclive - fractionner - surveillance
 
 {{%/article-summary%}}
 
-Les recommandations concernent seulement les nourrissons de 1 mois à 2 ans.
+Les recommandations concernent seulement les nourrissons de moins de 12 mois.
 
 {{%collapse "Définitions" %}}
 
 Bronchiolite
-: Infection virale respiratoire épidémique du nourrisson (VRS 50-80% des cas, co-infection 10%) d'évolution favorable dans la très grande majorité des cas.  
+: Infection virale respiratoire épidémique du nourrisson (VRS 50-80% des cas, co-infection 10%) d'évolution favorable dans la très grande majorité des cas.
+: Elle concerne le nourrisson < 12 mois à tout moment de l'année.
 Persistance des signes d'obstruction respiratoire pendant 8-10 jours et une toux résiduelle peut persister 15 jours.  
 Guérison spontanée le plus souvent en 3-4 semaines.  
 Taux de récidive élevé: 23 à 60% avant 2 ans.
 
 Asthme du nourrisson
-: Au moins 3 épisodes de bronchiolite de 0 à 36 mois.  
-On retrouve fréquemment un terrain atopique.
+: ≥ 3 épisodes de bronchiolite chez un nourrisson de < 12 mois  
+OU 2 épisodes de bronchiolite chez un nourrisson de < 12 mois avec atopie familiale ou personnelle  
+OU dyspnée sifflante après 12 mois (sans autre cause).
+
+### Complications de la bronchiolite
+
+- Difficultés d'alimentation
+- Détresse respiratoire aiguë  
+{{%class%}}Surtout nourrisson < 6 semaines.{{%/class%}}
+- Infection bactérienne concomitante  
+{{%class%}}*Haemophilus*, pneumocoque, *M. catarrhalis*.{{%/class%}}
+- Asthme du nourrisson
+- Pulmonaires  
+Rares: bronchiolites oblitérantes, dilatation des bronches.
 
 ### Épidémiologie
 
@@ -49,18 +63,6 @@ Pic chez les 2 à 8 mois.
 - Taux d'hospitalisation: 0,6/1000 (2010)  
 Hétérogénéité selon les centres.
 - 1 à 2% de cas graves
-
-{{% /collapse %}}
-{{%collapse "Complications" %}}
-
-- Difficultés d'alimentation
-- Détresse respiratoire aiguë  
-{{%class%}}Surtout nourrisson < 6 semaines.{{%/class%}}
-- Infection bactérienne concomitante  
-{{%class%}}Haemophilus, pneumocoque, M. catarrhalis.{{%/class%}}
-- Asthme du nourrisson
-- Pulmonaires  
-Rares: bronchiolites oblitérantes, dilatation des bronches.
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -80,7 +82,7 @@ Rares: bronchiolites oblitérantes, dilatation des bronches.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-- Antécédents +++  
+- Antécédents  
 Asthme, néonataux.
 - Contage
 - **Incubation 2-8 jours**, élimination en 3-7 jours (pouvant aller jusqu'à 1 mois)  
@@ -97,18 +99,17 @@ Dyspnée avec polypnée, geignements expiratoires (grunting)
 - Signes de détresse respiratoire aiguë
   - Frein expiratoire
   - Battement des ailes du nez, tirage sous-costal, rétraction our respiration abdominale
-Difficultés d'alimentation et signes de déshydratation
-
-- **Crépitants** (secs, inspiratoires) et/ou sous-crépitants (plus humides, expiratoires) puis apparition rapide de râles bronchiques et **sibilants** (**wheezing** fréquent).
-- Nourrisson > 1 an: auscultation plus riche dominée par les sibilants expiratoires.
-- Rechercher une fièvre pour éliminer une surinfection pulmonaire.
+- Difficultés d'alimentation et signes de déshydratation
+- **Crépitants** (secs, inspiratoires) et/ou sous-crépitants (plus humides, expiratoires) puis apparition rapide de râles bronchiques et **sibilants** (**wheezing** fréquent)
+- Nourrisson > 1 an: auscultation plus riche dominée par les sibilants expiratoires
+- Rechercher une fièvre pour éliminer une surinfection pulmonaire
 
 **NB.** L'auscultation peut être silencieuse en forme grave à thorax distendu.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-**Pas d'examen complémentaire en cas de forme typique de bronchiolite.**
+{{%info%}}Pas d'examen complémentaire en cas de forme typique de bronchiolite{{%/info%}}
 
 Pas d’intérêt à un bilan biologique.  
 Pas d’écouvillonnage nasopharyngé.
@@ -133,7 +134,7 @@ Indication: suspicion d’insuffisance respiratoire.
 
 ### Indications à l'hospitalisation lors d'une bronchiolite
 
-Hospitalisation si ≥ 1 parmi:
+Hospitalisation si ≥ 1 signe parmi:
 
 - Âge < 3 mois
 - Prématurité < 35 semaines
@@ -181,12 +182,11 @@ Fractionnement des repas, épaississement des biberons.
 - Proscrire le tabagisme passif
 - Aération correcte de la chambre, température optimale 19°C
 - Lavage des mains à l'eau + savon pluriquotidiens
-- En collectivité:  
-Décontamination quotidienne des objets de surface.
+- En collectivité: décontamination quotidienne des objets de surface
 - Promouvoir l'allaitement maternel  
 et retarder la mise en collectivité.
 
-{{%warning%}}Antitussifs, mucolytiques et mucorégulateurs sont contre-indiqués.{{%/warning%}}
+{{%warning%}}Antitussifs, mucolytiques et mucorégulateurs sont contre-indiqués{{%/warning%}}
 
 ### Traitement médical
 
@@ -195,7 +195,7 @@ Réservé à l'hospitalisation.
 Rappels:
 
 - Oxygénothérapie  
-SpO2 éveil > 94% et SpO2 sommeil > 92% (90 % en 2014)
+SpO2 éveil > 94% et SpO2 sommeil > 92% (90% en 2014)
 - Discuter une antibiothérapie si:
 fièvre ≥ 38,5°C pendant > 48h, OMAP associée, pathologie pulmonaire ou cardiaque sous-jacente, foyer pulmonaire radiologiquement documenté, élévation CRP/PNN.
 
@@ -205,25 +205,27 @@ fièvre ≥ 38,5°C pendant > 48h, OMAP associée, pathologie pulmonaire ou card
 
 ### Kinésithérapie respiratoire
 
-« Recours encouragé selon la clinique » pour une surveillance ambulatoire.  
+<< Recours encouragé selon la clinique >> pour une surveillance ambulatoire.  
 Comprend la DRP, l'expiration lente prolongée/augmentation du flux expiratoire AFE, toux provoquée (TP).  
 Fréquence et nombre total de séances dépendent de l'évolution.
 
-**Selon la Revue Prescrire: pas de place pour la kiné respi sauf mauvaise compréhension des parents pour assurer une surveillance.**
+{{%info%}}Selon la Revue Prescrire: pas de place pour la kinésithérapie respiratoire sauf mauvaise compréhension des parents pour assurer une surveillance{{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Bronchiolite et Permanence des soins" %}}
 
 ### Réseau Bronchiolite en Île-de-France
 
-- **Médecins** 7j/7 de 9h à 23h: {{<phone>}}0820 800 880{{</phone>}}.
-- **Kiné** disponibles samedi, dimanche et férié de 9h à 18h: 0820 820 603.
+- **Médecins** 7j/7 de 9h à 23h: {{<phone>}}0820 800 880{{</phone>}}
+- **Kiné** disponibles samedi, dimanche et férié de 9h à 18h: {{<phone>}}0820 820 603{{</phone>}}
 
 {{% /collapse %}}
 {{%collapse "Information des parents" %}}
 
-[Fiche conseils aux parents (HAS/CNP)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)  
-[Santé Publique France. Votre enfant a la bronchiolite.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite/documents/depliant-flyer/votre-enfant-et-la-bronchiolite)
+- [Fiche conseils aux parents (HAS/CNP)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
+- [Santé Publique France. Votre enfant a la bronchiolite](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite/documents/depliant-flyer/votre-enfant-et-la-bronchiolite)
+- [Ameli. Bronchiolite](https://www.ameli.fr/yvelines/assure/sante/themes/bronchiolite)
+- [MPedia. Mon enfant a une bronchiolite, que faire ?](https://afpa.org/content/uploads/2021/11/mpedia-Infographie-bronchiolite-octobre21.pdf)
 
 Revenir consulter rapidement si:
 
@@ -263,11 +265,11 @@ Les récidives sont possibles mais l'asthme du nourrisson guérit le plus souven
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Santé Publique France. Bronchiolite. 28/04/2021.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite)
+- [Santé Publique France. Bronchiolite. 03/11/2021.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite)
 - [Haute Autorité de Santé et Collège National Professionnel de Pédiatrie. Prise en charge du premier épisode de bronchiolite aiguë chez le nourrisson de moins de 12 mois. Novembre 2019.](https://www.has-sante.fr/upload/docs/application/pdf/2019-11/hascnpp_bronchiolite_texte_recommandations_2019.pdf)
 - [Société Canadienne de Pédiatrie. Recommandations pour le diagnostic, la surveillance et les prise en charge des enfants de un à 24 mois. 31/01/2018.](https://www.cps.ca/fr/documents/position/bronchiolitis1)
 - Prescrire Rédaction. Bronchiolite chez un nourrisson. Octobre 2017.
 - [Haute Autorité de Santé. Pertinence du recours à l’hospitalisation pour bronchiolite (GHM 04M18). 04/2013](https://www.has-sante.fr/upload/docs/application/pdf/2013-04/pertinence_du_recours_a_lhospitalisation_pour_bronchiolite.pdf)
-- Société Française de Pédiatrie. Prise en charge de la bronchiolite du nourrisson. 09/2000
+- Société Française de Pédiatrie. Prise en charge de la bronchiolite du nourrisson. Septembre 2000.
 
 {{% /collapse %}}

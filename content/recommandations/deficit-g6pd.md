@@ -1,7 +1,7 @@
 +++
 title = "Déficit en G6PD"
-prefix = "la "
-shortname = "M"
+prefix = "le "
+shortname = "G6PD"
 synonyms = ["Favisme", "déficit en Glucose-6-déshydrogénase"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-07-08T22:38:00+02:00
