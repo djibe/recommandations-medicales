@@ -16,6 +16,7 @@ sctid = "23502006"
 draft = false
 image = true
 imageSrc = "Érythème migrant. Photo de monkeypuzzle sur Foter"
+todo = "https://www.santepubliquefrance.fr/les-actualites/2021/borreliose-de-lyme-donnees-epidemiologiques-2020"
 +++
 
 {{%article-summary%}}

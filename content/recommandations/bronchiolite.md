@@ -1,35 +1,35 @@
 +++
-title = "Bronchiolite"
+title = "Bronchiolite aiguë du nourrisson"
 prefix = "la "
 shortname = "Bronchiolite"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-16T08:08:41+02:00
 publishdate = 2020-11-16
-lastmod = 2021-11-04
+lastmod = 2021-11-06
 specialites = ["pediatrie"]
-annees = "2018"
+annees = "2019"
 sources = ["HAS", "SFP"]
 tags = ["nourrisson"]
 anglais = ["Bronchiolitis"]
 sctid = "4120002"
 draft = false
+flowchart = true
 image = false
 imageSrc = ""
-todo = "flowchart"
+todo = "reco 2019"
 +++
 
 {{%article-summary%}}
 
-- La bronchiolite concerne uniquement les enfants < 12 mois (asthme du nourrisson après ou si ≥ 3 épisodes)
+- La bronchiolite concerne uniquement les enfants < 12 mois (*asthme du nourrisson* au-delà ou si ≥ 3 épisodes)
 - Éliminer insuffisance cardiaque et pneumopathie
-- Hospitalisation si prématurité < 35 semaines, < 94% en air ambiant, < 3 mois ou selon clinique
+- Hospitalisation: < 3 mois, prématurité < 35 semaines, < 94% en air ambiant ou selon clinique
 - Durée de 3 à 8 jours (voire 1 mois)
-- DRP - proclive - fractionner - surveillance
+- DRP - fractionner - surveillance
+- [Fiche conseils aux parents](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 
 {{%/article-summary%}}
-
-Les recommandations concernent seulement les nourrissons de moins de 12 mois.
 
 {{%collapse "Définitions" %}}
 
@@ -212,17 +212,33 @@ Fréquence et nombre total de séances dépendent de l'évolution.
 {{%info%}}Selon la Revue Prescrire: pas de place pour la kinésithérapie respiratoire sauf mauvaise compréhension des parents pour assurer une surveillance{{%/info%}}
 
 {{% /collapse %}}
+{{%collapse "Conduite à tenir devant une dyspnée sifflante" "show" %}}
+
+{{< mermaid title="Conduite à tenir devant une dyspnée sifflante. Dr JB FRON d'après HAS/CNPP 2019" >}}
+graph TB
+  dyspnee[Dyspnée sifflante] --> age(Âge)
+  style dyspnee stroke:#4150f5, stroke-width:1px
+    age --> moins12(&lt; 12 mois)
+      moins12 --> 1(1<sup>er</sup> épisode) --> bronchiolite(Bronchiolite)
+      moins12 --> 2(2<sup>e</sup> épisode) --> atopie(Atopie personnelle<br>ou familiale ?)
+        atopie -- Non --> bronchiolite
+        atopie -- Oui --> asthme
+      moins12 --> 3(3<sup>e</sup> épisode) --> asthme(Asthme du nourrisson)
+    age --> plus12("&ge; 12 mois") --> asthme
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%collapse "Bronchiolite et Permanence des soins" %}}
 
 ### Réseau Bronchiolite en Île-de-France
 
 - **Médecins** 7j/7 de 9h à 23h: {{<phone>}}0820 800 880{{</phone>}}
-- **Kiné** disponibles samedi, dimanche et férié de 9h à 18h: {{<phone>}}0820 820 603{{</phone>}}
+- **Kinésithérapeutes** disponibles samedi, dimanche et férié de 9h à 18h: {{<phone>}}0820 820 603{{</phone>}}
 
 {{% /collapse %}}
 {{%collapse "Information des parents" %}}
 
-- [Fiche conseils aux parents (HAS/CNP)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
+- [Fiche conseils aux parents (HAS/CNPP)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 - [Santé Publique France. Votre enfant a la bronchiolite](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite/documents/depliant-flyer/votre-enfant-et-la-bronchiolite)
 - [Ameli. Bronchiolite](https://www.ameli.fr/yvelines/assure/sante/themes/bronchiolite)
 - [MPedia. Mon enfant a une bronchiolite, que faire ?](https://afpa.org/content/uploads/2021/11/mpedia-Infographie-bronchiolite-octobre21.pdf)
@@ -266,7 +282,7 @@ Les récidives sont possibles mais l'asthme du nourrisson guérit le plus souven
 {{%collapse "Sources" %}}
 
 - [Santé Publique France. Bronchiolite. 03/11/2021.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite)
-- [Haute Autorité de Santé et Collège National Professionnel de Pédiatrie. Prise en charge du premier épisode de bronchiolite aiguë chez le nourrisson de moins de 12 mois. Novembre 2019.](https://www.has-sante.fr/upload/docs/application/pdf/2019-11/hascnpp_bronchiolite_texte_recommandations_2019.pdf)
+- [HAS et Collège National Professionnel de Pédiatrie. Prise en charge du premier épisode de bronchiolite aiguë chez le nourrisson de moins de 12 mois. Novembre 2019.](https://www.has-sante.fr/upload/docs/application/pdf/2019-11/hascnpp_bronchiolite_texte_recommandations_2019.pdf)
 - [Société Canadienne de Pédiatrie. Recommandations pour le diagnostic, la surveillance et les prise en charge des enfants de un à 24 mois. 31/01/2018.](https://www.cps.ca/fr/documents/position/bronchiolitis1)
 - Prescrire Rédaction. Bronchiolite chez un nourrisson. Octobre 2017.
 - [Haute Autorité de Santé. Pertinence du recours à l’hospitalisation pour bronchiolite (GHM 04M18). 04/2013](https://www.has-sante.fr/upload/docs/application/pdf/2013-04/pertinence_du_recours_a_lhospitalisation_pour_bronchiolite.pdf)

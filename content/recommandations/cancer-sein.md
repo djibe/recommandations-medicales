@@ -6,27 +6,31 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
 publishdate = "2021-11-03"
-lastmod = "2021-11-03"
+lastmod = "2021-11-07"
 specialites = ["gynecologie-obstetrique"]
-annees = "2015"
-sources = ["HAS"]
+annees = "2017"
+sources = ["HAS", "InCa"]
 tags = ["depistage"]
-anglais = []
-sctid = ""
+anglais = ["Malignant neoplasm of breast "]
+sctid = "254837009"
 draft = false
-image = false
-imageSrc = ""
-todo = "algorithme 2 et 3, InCa, numéro IGR, Collège, https://www.has-sante.fr/jcms/c_1741602/fr/cancer-du-sein-quel-depistage-selon-vos-facteurs-de-risque-questions-/-reponses, EI hormonothérapie, perruque InCa"
+image = true
+imageSrc = "Le cancer du sein - Illustration par Freepik"
+todo = "algorithme 2 et 3, EI hormonothérapie, perruque InCa, epidemio"
 +++
 
 {{%article-summary%}}
 
-
+- Vérifier la participation au dépistage organisé (consigner dans le dossier)
+- Palpation mammaire annuelle à partir de 25 ans
+- Dépistage spécifique si risque élevé ou très élevé (voir *Niveaux de risque*)
+- En antécédents familiaux, calcul du {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}}
+- Mammographies, échographie mammaire bilatérales et avis rapide en anomalie clinique
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-*Lors de la mention d'antécédent, il est sous-entendu antécédent personnel.*
+*NB.* Lors de la mention d'*antécédent*, il est sous-entendu *antécédent personnel*.
 
 Cancer du sein
 : 90% diagnostiqués suite à un dépistage.
@@ -66,10 +70,10 @@ Très fréquente (50-80% de 30 à 50 ans). Associée à une augmentation du risq
 
 ### Épidémiologie du cancer du sein en France
 
-- Incidence: TODO:
-- Mortalité: 11.883 (2018-2019)
-- Survie: 86% à 5 ans (76% à 10 ans, cohorte 89-07)
-- Taux de participation au dépistage organisé: 49,3%
+- Incidence: 58.459 (métropole 2018)
+- Mortalité: 12.146 (métropole 2018)
+- Survie: 88% à 5 ans (métropole, diagnostic en 2010-2015)
+- Participation au dépistage organisé: 50,3% (2018)
 
 ### Abréviations
 
@@ -210,6 +214,16 @@ Surveillance clinique et radiologique tous les 6 mois pendant 2 ans.
 Biopsie échoguidée (sénologue, radiologue) puis avis sénologique rapide.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge rapide d'anomalies du sein" %}}
+
+### En Île-de-France
+
+- Institut Gustave Roussy (IGR)
+  - Pas encore de diagnostic (fournir les examens): [en ligne](https://rdv.gustaveroussy.fr/) ou {{<phone>}}01 42 11 64 33{{</phone>}} (lun-ven 8:45-12:45 et 13:45-16:00)
+  - Diagnostic posé mais pas encore suivie: {{<phone>}}01 42 11 64 33{{</phone>}} (oncologie)
+  - 2e avis médical: [fiche](https://www.gustaveroussy.fr/sites/default/files/gustaveroussy-2d-avis-sein-form.docx) à renvoyer à <avis.sein@gustaveroussy.fr>
+
+{{% /collapse %}}
 {{%collapse "Traitement" %}}
 
 Chirurgie, radiothérapie, chimiothérapie, hormonothérapie (récepteur estrogène ou progestérone), thérapies ciblées (bévacizumab, HER2).
@@ -246,6 +260,8 @@ Voir *Surveillance après cancer*.
   - Éviter les vêtements synthétiques
   - Limiter l'exposition solaire
   - Hygiène rigoureuse et pommades émollientes
+- Associations  
+[étincelle](http://www.etincelle.asso.fr/), [Europa Donna](http://www.europadonna.fr/), [Rose up](https://www.rose-up.fr/#1), [Skin](https://associationskin.org/), [Vivre Comme Avant](https://www.vivrecommeavant.fr/).
 
 {{% /collapse %}}
 {{%collapse "Surveillance après cancer du sein" %}}
@@ -285,6 +301,11 @@ TSH régulière.
 - En silicone *modèle standard* après 3 mois. Remb. 180€.
 - En silicone *modèle technique* (adhérente ou non) après 4 mois (14 mois si adhérente). Si symptômes (problème de cicatrisation, risque de lymphœdème, douleurs, bouffées de chaleur) ou meilleure convenance.  
   Remb. 240€.
+
+{{% /collapse %}}
+{{%collapse "Vidéos de formation" %}}
+
+{{< youtube id="QXlT9651svA" title="Palpation des seins (Dr Jean-Philippe Harlicot)" >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

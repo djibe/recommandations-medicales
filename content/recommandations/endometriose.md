@@ -16,7 +16,7 @@ sctid = "129103003"
 draft = false
 flowchart = true
 image = true
-imageSrc = "Illustration par vectorjuice / Freepik"
+imageSrc = "Illustration de l'endométriose par vectorjuice / Freepik"
 todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité physique bassin, contraceptions, information de la patiente, quid bilan IST/salpingite ?, app Luna"
 +++
 
@@ -222,7 +222,7 @@ Réévaluation sous quelques semaines pour tolérance-efficacité.
 Accompagnement par une équipe d'[Assistance Médicale à la Procréation](https://www.agence-biomedecine.fr/Autorisation-des-centres) (AMP).
 
 {{% /collapse %}}
-{{%collapse "FMC" %}}
+{{%collapse "FMC gratuite" %}}
 
 {{< card-link title="Endométriose - L'affaire de tous" url="https://pns-mooc.com/fr/mooc/19/presentation" subtitle="MOOC gratuit">}}
 

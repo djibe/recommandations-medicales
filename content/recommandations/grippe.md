@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
-lastmod = 2021-10-25
+lastmod = 2021-11-07
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["HAS", "MinSante"]
@@ -14,24 +14,36 @@ tags = ["grippe", "vaccin"]
 anglais = ["influenza", "flu"]
 sctid = "6142004"
 draft = false
-todo = "grippe 2020, grippe grossesse"
+todo = "grippe grossesse, antiviral"
 +++
 
 {{%article-summary%}}
 
 - Vaccination annuelle des personnes à risque de forme grave à partir de mi-octobre (en métropole)  
-ainsi que toutes les personnes fragiles pour la Covid-19.
-- Adjoindre le vaccin Pneumocoque pour les +65 ans ([Académie 13.05](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)).
+ainsi que toutes les personnes fragiles pour la Covid-19
+- Adjoindre le vaccin Pneumocoque pour les +65 ans (*[Académie 13.05](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)*)
+- Pas de délai (voire co-injection) entre les vaccins anti-grippaux et anti-covid19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*)
 
 {{%/article-summary%}}
-{{%collapse "Épidémiologie" %}}
+{{%collapse "Définitions" %}}
+
+### Complications
+
+- Sinusite
+- Otite moyenne aiguë
+- Bronchite aiguë
+- Pneumopathie (virale, pneumocoque ou haemophilus)
+
+### Épidémiologie
 
 - 10.000 morts/an dont +90% chez les +65 ans.
 - Couverture vaccinale 2019-2020 des personnes à risque: 45% (objectif OMS 75%).
 - Admis en réanimation: mortalité de 20%.
 
 {{%/collapse%}}
-{{%collapse "Personnes prioritaires pour la vaccination en 2021" %}}
+{{%collapse "Personnes à risque de grippe grave" %}}
+
+### Personnes prioritaires pour la vaccination en 2021
 
 Personnes exclusives jusqu'au 22 novembre 2021:
 
@@ -47,9 +59,6 @@ Prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie
 > [Ameli Médecin 22/10/2021](https://www.ameli.fr/sites/default/files/Documents/707929/document/grippe-memos-medecins2021.pdf)
 
 **Pour les autres personnes, différer la vaccination à début décembre.**
-
-{{%/collapse%}}
-{{%collapse "Personnes à risque de grippe grave" %}}
 
 {{%info%}}
 Vaccination annuelle en octobre pour ces personnes.
@@ -107,14 +116,6 @@ Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
 - Immunodéprimés (greffé, SIDA): mortalité identique aux +65 ans.
 
 {{%/collapse%}}
-{{%collapse "Complications" %}}
-
-- Sinusite
-- Otite moyenne aiguë
-- Bronchite aiguë
-- Pneumopathie (virale, pneumocoque ou haemophilus)
-
-{{%/collapse%}}
 {{%collapse "Vaccins disponibles en 2021-2022" %}}
 
 - Efluelda® (≥ 65 ans)
@@ -122,6 +123,8 @@ Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
 - Vaxigrip Tetra®
 
 Campagne de vaccination du 26 octobre 2021 au 31 janvier 2022.
+
+Pas de délai (voire co-injection) entre les vaccins anti-grippaux et anti-covid19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
 
 ### Bénéfices de la vaccination antigrippale
 

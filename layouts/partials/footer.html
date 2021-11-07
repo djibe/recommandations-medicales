@@ -239,7 +239,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{ $searchjs := resources.Get "js/search.js" | minify }}
 <script src="{{ $searchjs.Permalink }}" defer importance="low"></script>
 <script><!-- Custom scripts -->
-  {{ if eq .Section "recommandations" }}
+  {{ with .Site.RegularPages }}
 
     // Don't follow external sources
     document.addEventListener( 'DOMContentLoaded', event => { // When DOM is ready
