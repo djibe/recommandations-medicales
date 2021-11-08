@@ -117,7 +117,7 @@ Associée dans la plupart des toux chronique. Peut être testée par la capsaïc
 
 - Antécédents (infections ORL à répétition), terrain atopique
 - Traitements en cours  
-Vérifier l'imputabilité sur [Pneumotox](https://www.pneumotox.com/drug/index/).
+Vérifier l'imputabilité sur [Pneumotox](https://www.pneumotox.com/).
 - Tabagisme et drogues
 - Profession et expositions professionnelles
 - Caractère invalidant

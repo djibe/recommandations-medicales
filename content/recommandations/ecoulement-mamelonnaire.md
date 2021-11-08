@@ -6,7 +6,7 @@ synonyms = ["Galactorrhée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-21T19:43:29+02:00"
 publishdate = "2021-10-21"
-lastmod = "2021-11-03"
+lastmod = "2021-11-08"
 specialites = ["gynecologie-obstetrique"]
 annees = "2015"
 sources = ["CNGOF", "HAS"]
@@ -35,6 +35,9 @@ todo = ""
 
 Galactorrhée
 : Physiologique pendant ou après la grossesse et jusqu'à 1 an après la fin de l'allaitement.
+
+Pyramidectomie
+: Mastectomie partielle, dite *chirurgie conservatrice*. Elle correspond à l'ablation d'un canal galactophorique et ses ramifications. [Procédé opératoire](https://www.docteur-benchimol.com/pyramidectomie-du-sein.html)
 
 ### Étiologie
 

@@ -36,7 +36,7 @@ Pas de procréation jusqu'à 4 mois après son arrêt.
 ### Associations contre-indiquées
 
 - AINS
-- Trimétoprime-sulfaméthoxazole (Bactrim&reg;)
+- Trimétoprime-sulfaméthoxazole (Bactrim®)
 - Vaccins vivants
 
 {{% /collapse %}}

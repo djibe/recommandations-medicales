@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "reco 2019"
+todo = "reco 2019, vidéos DRP, flowchart"
 +++
 
 {{%article-summary%}}
@@ -35,8 +35,8 @@ todo = "reco 2019"
 
 Bronchiolite
 : Infection virale respiratoire épidémique du nourrisson (VRS 50-80% des cas, co-infection 10%) d'évolution favorable dans la très grande majorité des cas.
-: Elle concerne le nourrisson < 12 mois à tout moment de l'année.
-Persistance des signes d'obstruction respiratoire pendant 8-10 jours et une toux résiduelle peut persister 15 jours.  
+: Premier épisode aigu de gêne respiratoire (rhinite suivie de signes respiratoires: toux, sibilants, crépitants ± polypnée ± signes de lutte) du nourrisson < 12 mois à tout moment de l'année.
+: Persistance des signes d'obstruction respiratoire pendant 8-10 jours et une toux résiduelle peut persister 15 jours.  
 Guérison spontanée le plus souvent en 3-4 semaines.  
 Taux de récidive élevé: 23 à 60% avant 2 ans.
 
@@ -63,6 +63,11 @@ Pic chez les 2 à 8 mois.
 - Taux d'hospitalisation: 0,6/1000 (2010)  
 Hétérogénéité selon les centres.
 - 1 à 2% de cas graves
+
+### Abréviations
+
+**DRP:** désobstruction rhinopharyngée  
+**NS:** nourrisson
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -95,14 +100,21 @@ Dyspnée avec polypnée, geignements expiratoires (grunting)
 
 {{%warning%}}Toujours rechercher une hépatomégalie, seul signe permettant d'éliminer une insuffisance cardiaque aiguë.{{%/warning%}}
 
-- Pouls, fréquence respiratoire, SpO2, température
+- **Après DRP**
+- Constantes
+  - Pouls, fréquence respiratoire, SpO2, température
+  - Rechercher une fièvre pour éliminer une surinfection pulmonaire
+- AEG
+  - Comportement, hypotonie
+  - Geignement
 - Signes de détresse respiratoire aiguë
   - Frein expiratoire
-  - Battement des ailes du nez, tirage sous-costal, rétraction our respiration abdominale
-- Difficultés d'alimentation et signes de déshydratation
+  - Signes de lutte: intercostaux inférieurs (tirage sous-costal), sternocléido-mastoidiens, battement des ailes du nez ou respiration abdominale
+- Difficultés d'alimentation (quantifier)
+- Signes de déshydratation
 - **Crépitants** (secs, inspiratoires) et/ou sous-crépitants (plus humides, expiratoires) puis apparition rapide de râles bronchiques et **sibilants** (**wheezing** fréquent)
 - Nourrisson > 1 an: auscultation plus riche dominée par les sibilants expiratoires
-- Rechercher une fièvre pour éliminer une surinfection pulmonaire
+- Classer selon les 3 niveaux de gravité
 
 **NB.** L'auscultation peut être silencieuse en forme grave à thorax distendu.
 
@@ -214,7 +226,7 @@ Fréquence et nombre total de séances dépendent de l'évolution.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une dyspnée sifflante" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une dyspnée sifflante. Dr JB FRON d'après HAS/CNPP 2019" >}}
+{{< mermaid title="Conduite à tenir devant une dyspnée sifflante. Dr JB FRON d'après HAS/CNPP 2019 et Verstraete 2013" >}}
 graph TB
   dyspnee[Dyspnée sifflante] --> age(Âge)
   style dyspnee stroke:#4150f5, stroke-width:1px

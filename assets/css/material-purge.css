@@ -3030,7 +3030,8 @@ legend {
 }
 
 input[type='date'].form-control,
-input[type='time'].form-control {
+input[type='time'].form-control,
+input[type='month'].form-control {
   appearance: none;
 }
 
@@ -3834,6 +3835,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   margin: 0 !important;
 }
 
+.mt-0 {
+  margin-top: 0 !important;
+}
+
 .mb-0 {
   margin-bottom: 0 !important;
 }
@@ -4214,6 +4219,9 @@ input:-webkit-autofill:active {
   .navbar,
   .tooltip {
     display: none;
+  }
+  .badge {
+    border: 1px solid #000000;
   }
   .table {
     border-collapse: collapse !important;

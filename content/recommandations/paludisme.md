@@ -116,7 +116,7 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
   <p id="nivaquine">1 cp par jour ou 4 cuillères-mesure par jour (100 mg)</p>
 </div>
 
-{{%info%}}Un vaccin contre le paludisme existe (RTS,S), recommandé par l'OMS au Ghana, Kenya et Malawi (*(OMS)[https://www.who.int/fr/news/item/06-10-2021-who-recommends-groundbreaking-malaria-vaccine-for-children-at-risk]*){{%/info%}}
+{{%info%}}Un vaccin contre le paludisme existe (RTS,S), recommandé par l'OMS au Ghana, Kenya et Malawi (*(OMS)[https://www.who.int/news/item/06-10-2021-who-recommends-groundbreaking-malaria-vaccine-for-children-at-risk]*){{%/info%}}
 
 ### Chloroquine
 

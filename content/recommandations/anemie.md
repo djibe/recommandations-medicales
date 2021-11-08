@@ -6,7 +6,7 @@ synonyms = ["Carence en fer", "anémie ferriprive"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-08T13:02:19+02:00"
 publishdate = "2021-10-12"
-lastmod = "2021-10-12"
+lastmod = "2021-11-08"
 specialites = ["hematologie"]
 annees = "2021"
 sources = ["BSG", "SNFGE"]
@@ -208,25 +208,25 @@ Boudin noir, Moules, seiche, lentilles, soja, épinards, raison sec ([Anses. Tab
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une anémie avec suspicion de carence en fer" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une anémie avec suspicion de carence en fer. Dr JB FRON d'après BSG 2021" >}}
+{{< mermaid title="Conduite à tenir devant une anémie avec suspicion de carence en fer. Dr JB Fron d'après BSG 2021" >}}
 graph TB
-  anemie["Anémie avec suspicion<br>de carence en fer"]
+  anemie[Anémie avec suspicion<br>de carence en fer]
   style anemie stroke:#4150f5, stroke-width:1px
     anemie --> ferritine(Ferritinémie)
-      ferritine -- &lt; 45 ng/mL --> basse["Ferritine basse<br>= Carence martiale"]
+      ferritine -- &lt; 45 ng/mL --> basse[Ferritine basse<br>= Carence martiale]
         style basse stroke:#4150f5, stroke-width:1px
-        basse --> enquete("- Enquête étiologique<br>selon âge et sexe<br>- Supplémentation en fer")
-      ferritine -- Normale 45-150 ng/mL --> inflammation("Maladie chronique ?<br>VS ou CRP augmentée ?")
-          inflammation -- Oui --> hypochromie("Hypochromie, microcytose<br>CST bas ou réticulocytes bas ?")
-            hypochromie -- Oui --> probable("Carence martiale<br>probable") --> enquete
-            hypochromie -- Non --> peuProbable("Carence martiale<br>peu probable")
-              peuProbable --> supplementation("Correction par<br>la supplémentation ?")
+        basse --> enquete("- Enquête étiologique<br>selon âge et sexe<br>(voir <em>Examens complémentaires</em>)<br>- Supplémentation en fer")
+      ferritine -- Normale 45-150 ng/mL --> inflammation(Maladie chronique ?<br>VS ou CRP augmentée ?)
+          inflammation -- Oui --> hypochromie(Hypochromie, microcytose<br>CST bas ou réticulocytes bas ?)
+            hypochromie -- Oui --> probable(Carence martiale<br>probable) --> enquete
+            hypochromie -- Non --> peuProbable(Carence martiale<br>peu probable)
+              peuProbable --> supplementation(Correction par<br>la supplémentation ?)
                 supplementation -- Oui --> enquete
                 supplementation -- Non --> autreCause
           inflammation -- Non --> absente
       ferritine -- &gt; 150 ng/mL --> haute(Haute)
         haute --> absente(Pas de carence martiale)
-          absente --> autreCause("Anémie par maladie chronique<br>ou autre cause d'anémie")
+          absente --> autreCause(Anémie par maladie chronique<br>ou autre cause d'anémie)
 {{< /mermaid >}}
 
 {{% /collapse %}}

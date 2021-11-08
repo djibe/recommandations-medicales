@@ -859,6 +859,36 @@ input[type="search"]::-webkit-search-results-decoration {
   -webkit-appearance: none;
 }
 
+.card-hp {
+  ::marker {
+    color: transparent;
+  }
+
+  ul {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  li {
+    margin: 1rem 0 !important;
+  }
+
+  li > span {
+    color: rgba(0,0,0,.54);
+    display: block;
+    font-size: 14px;
+
+    &::before {
+      content: "";
+      display: inline-block;
+      height: 20px;
+      width: 0;
+    }
+  }
+}
+
+/* Print */
+
 @media print {
   main > .recommandation {
     padding-top: 0;

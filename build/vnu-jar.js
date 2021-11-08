@@ -36,6 +36,8 @@ childProcess.exec('java -version', (error, stdout, stderr) => {
     // Modern ignore
     'Attribute “loading” not allowed on element “iframe” at this point.*',
     'Attribute “importance” not allowed on element “img” at this point.*',
+    'Attribute “importance” not allowed on element “script” at this point.*',
+    'CSS: “unicode-range”: Too many values or values are not recognized.*',
     // TODO: improve sections
     'Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.*'
   ].join('|')

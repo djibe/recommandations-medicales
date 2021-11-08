@@ -106,7 +106,7 @@ Patient, médecin, employeur.
 {{%collapse "Clinique" %}}
 
 - Antécédents personnels  
-Traumatismes, tumorale, neurologique, infectieuse ou inflammatoire.
+Traumatisme, tumeur, neurologique, infectieux ou inflammatoire.
 - Antécédents familiaux
 - Lombalgie
   - Antécédents
@@ -116,7 +116,7 @@ Traumatismes, tumorale, neurologique, infectieuse ou inflammatoire.
 - Examen neurologique
   - Examen et périmètre de marche déclaré
   - Douleurs neuropathiques ({{< modal-btn modal-score-dn4 >}}DN4{{< /modal-btn >}})
-- Identifier les peurs, croyances, contextes psychologique et social (facteurs de risque de chronicité)
+- Identifier les peurs, croyances, contexte psychologique et social (facteurs de risque de chronicité)
 - Évaluation du risque de chronicité: [STarT Back screening tool](http://sectionrachis.fr/index.php/recommandation-lombalgie/questionnaires/), [questionnaire Örebro version courte](https://kce.fgov.be/sites/default/files/atoms/files/OrebroFr.pdf)
 
 {{% /collapse %}}
@@ -163,7 +163,7 @@ Peuvent être envisagées pour aider à la reprise d'activités.
 - Arrêt de travail  
 Indication: douleurs intenses le justifiant, 5 jours puis réévaluation (*[Ameli 12/2017](https://www.ameli.fr/sites/default/files/Documents/347659/document/2017398_fiche_repere_at_lombalgie_v2_bd_0.pdf)*)
 
-{{%warning%}}Ne pas utiliser: néfopam (Acupan), corticoïdes, myorelaxants{{%/warning%}}
+{{%warning%}}Ne pas utiliser: néfopam (Acupan®), corticoïdes, myorelaxants{{%/warning%}}
 
 L'acupuncture n'a pas d'efficacité sur l'évolution de la lombalgie.
 

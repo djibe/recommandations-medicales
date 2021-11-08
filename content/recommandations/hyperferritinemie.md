@@ -17,7 +17,7 @@ draft = false
 image = false
 imageSrc = ""
 flowchart = true
-todo = "échoabdo?, gérer seul sd métabo, https://www.fmcgastro.org/postu-main/archives/postu-2006-paris/que-faire-devant-une-hyperferritinemie/"
+todo = "échoabdo?, gérer seul sd métabo, https://www.fmcgastro.org/postu-main/archives/postu-2006-paris/que-faire-devant-une-hyperferritinemie/, https://www.sciencedirect.com/science/article/pii/S0248866314011114"
 +++
 
 {{%article-summary%}}
@@ -195,10 +195,5 @@ graph TB
 - [Sogni P. Prise en charge de l'hyperferritinémie. POST'U 2017 Paris](https://www.fmcgastro.org/textes-postus/postu-2017/prise-en-charge-de-lhyperferritinemie/)
 - [Brissot P. Diagnostic d'une hyperferritinémie.](https://www.hemochromatose.org/wp-content/uploads/2012/12/hyperferritinemie.pdf)
 - [CDU-HGE. Hémochromatose. Item 242.](https://www.snfge.org/sites/default/files/SNFGE/Rubrique_Professionnels/abrege_hepato_gastro/abrege_d_hge_2012-chap23_item242.pdf)
-
-### À lire
-
-- SFEndocrino http://www.sfendocrino.org/article/816/poly2016-item-215-ndash-ue-7-pathologie-du-fer-chez-l-adulte-et-l-enfant-hemochromatose
-- https://www.sciencedirect.com/science/article/pii/S0248866314011114
 
 {{% /collapse %}}

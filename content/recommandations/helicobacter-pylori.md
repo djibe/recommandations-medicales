@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = ""
 date = 2020-12-02T15:14:41+02:00
 publishdate = 2020-12-02
-lastmod = 2021-10-14
+lastmod = 2021-11-08
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["GEFH", "HAS", "SNFGE"]
@@ -16,25 +16,125 @@ anglais = ["Helicobacter pylori"]
 sctid = "80774000"
 draft = false
 image = true
-imageSrc = "CDC/Dr. Patricia Fields, Dr. Collette Fitzgerald (PHIL #5715), 2004"
+imageSrc = "Helicobacter pylori, CDC/Dr Patricia Fields, Dr Collette Fitzgerald (PHIL #5715), 2004"
 flowchart = true
-todo = "revoir ttt orienté, update graph, comment diag quand rosacée, forme héréditaire de K gastrique (SNFGE thésaurus), dépistage en AINS long cours maastricht III"
+todo = "revoir flowchart, EI des ATB selon Prescrire, comment diag quand rosacée, dépistage en AINS long cours maastricht III"
 +++
-
-Page en cours de mise à jour avec les dernières recommandations 2021.
 
 {{%article-summary%}}
 
 - Dépistage par sérologie pour tout antécédent d'ulcère sans confirmation d'éradication
 - Confirmation par sérologie ou fibroscopie selon symptômes et facteurs de risque de cancer
 - Reporter le traitement si grossesse/allaitement
-- Traitement adapté à l'antibiogramme
+- Traitement adapté à l'antibiogramme au maximum
+- 2 IPP autorisés: ésoméprazole 40 ou rabéprazole 20 mg (sauf oméprazole pour Bismuth), pris matin et soir
 - Contrôle de l'éradication systématique (arrêt ATB > 1 mois et IPP > 2 sem)
 - Dépistage du 1<sup>er</sup> degré en cas de lésion cancéreuse
 - Signes d'alarmes en symptômes digestifs hauts:  
 Dysphagie, amaigrissement, anémie.
 
 {{%/article-summary%}}
+
+<div class="card card-hover card-hp my-4">
+  <div class="card-body">
+    <h3 class="card-title mt-0">Aide au choix du traitement d'<em>Helicobacter pylori</em></h3>
+    <h4 class="card-subtitle">par JB Fron</h4>
+    <p class="card-text">Le traitement devrait toujours être guidé (antibiogramme, PCR).</p>
+    <input type="checkbox" id="btn-atbgramme" class="d-input-none" checked onclick="functionHp()">
+    <label for="btn-atbgramme" class="chip chip-action chip-filter" data-toggle="collapse" data-target="#hp-1-reference">Antibiogramme</label>
+    <input type="checkbox" id="btn-allergie" class="d-input-none" disabled onclick="$('#hp-2').collapse('toggle')">
+    <label for="btn-allergie" class="chip chip-action chip-filter" data-toggle="collapse" data-target="#hp-allergie">Allergie pénicilline</label>
+    <script>
+      function functionHp() {
+        if ($('#btn-atbgramme').is(':checked')){
+          $('#btn-allergie').prop('disabled', true).prop('checked', false);
+          $('#hp-2').collapse('hide');
+          $('#hp-allergie').collapse('hide');
+        } else{ $('#btn-allergie').prop('disabled', false);$('#hp-2').collapse('show') }
+      }
+    </script>
+    <p class="typography-overline text-black-secondary pt-4">1<sup>re</sup> ligne</p>
+    <div class="collapse show" id="hp-1-reference">
+      <ul>
+        <li>Clari-S
+          <span>Amox 50 mg/kg/j (3-4 prises) + Clari 500 x 2/j + IPP x 2/j | 14 jours</span>
+        </li>
+        <li>Clari-R Quinolone-S
+          <span>Amox 50 mg/kg/j (3-4 prises) + Lévoflo 500 x 2/j + IPP x 2/j | 14 jours</span>
+        </li>
+        <li>Clari-R Quinolone-R (ou non testée)
+          <span>Amox 50 mg/kg/j (3-4 prises) + Métroni 500 x 2/j + IPP x 2/j | 14 jours<br>
+          OU Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours</span>
+        </li>
+      </ul>
+      <p class="typography-overline text-black-secondary pt-2">2<sup>e</sup> ligne</p>
+      <ul>
+        <li>Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours
+          <span>Si non utilisée en première ligne (sinon voir 3<sup>e</sup> ligne)</span>
+        </li>
+      </ul>
+      <p class="typography-overline text-black-secondary pt-2">3<sup>e</sup> ligne</p>
+      <p>EOGD souhaitable (sauf si Quinolone-S et non utilisées).</p>
+      <ul>
+        <li>Clari-S
+          <span>Amox 50 mg/kg/j (3-4 prises) + Clari 500 x 2/j + IPP x 2/j | 14 jours</span>
+        </li>
+        <li>Clari-R Quinolone-S
+          <span>Amox 50 mg/kg/j (3-4 prises) + Lévoflo 500 x 2/j + IPP x 2/j | 14 jours</span>
+        </li>
+        <li>Clari-R Quinolone-R (ou non testée)
+          <span><a href="http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/">Avis d'expert du GEFH</a></span>
+        </li>
+      </ul>
+    </div>
+    <div class="collapse" id="hp-2">
+      <ul>
+        <li>Traitement au choix
+          <span>Amox 50 mg/kg/j (3-4 prises) + Clari 500 x 2/j + Métro 500 x 2/j + IPP x 2/j | 14 jours<br>
+          OU Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours</span>
+        </li>
+      </ul>
+      <p class="typography-overline text-black-secondary pt-2">2<sup>e</sup> ligne</p>
+      <ul>
+        <li>Privilégier une EOGD
+          <span>Ou utiliser le traitement alternatif</span>
+        </li>
+      </ul>
+      <p class="typography-overline text-black-secondary pt-2">3<sup>e</sup> ligne</p>
+      <p>Traitement avec antibiogramme.</p>
+      <ul>
+        <li>Clari-S
+          <span>Amox 50 mg/kg/j (3-4 prises) + Clari 500 x 2/j + IPP x 2/j | 14 jours</span>
+        </li>
+        <li>Clari-R Quinolone-S
+          <span>Amox 50 mg/kg/j (3-4 prises) + Lévoflo 500 x 2/j + IPP x 2/j | 14 jours</span>
+        </li>
+        <li>Clari-R Quinolone-R (ou non testée)
+          <span><a href="http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/">Avis d'expert du GEFH</a></span>
+        </li>
+      </ul>
+    </div>
+    <div class="collapse" id="hp-allergie">
+      <ul>
+        <li>Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours</li>
+      </ul>
+      <p class="typography-overline text-black-secondary pt-2">2<sup>e</sup> ligne</p>
+      <p>Réaliser une EOGD.</p>
+      <ul>
+        <li>Clari-S Quinolone-S
+          <span>Clari 500 x 2/j + Lévoflo 500 x 2/j + IPP x 2/j | 14 jours</span>
+        </li>
+        <li>Clari-R
+          <span><a href="http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/">Avis d'expert du GEFH</a></span>
+        </li>
+      </ul>
+      <p class="typography-overline text-black-secondary pt-2">3<sup>e</sup> ligne</p>
+      <p>Traitement avec antibiogramme et <a href="http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/">avis d'expert du GEFH</a></p>
+    </div>
+    <small>Doses en mg, amox = amoxicilline (max 6g/j); lévoflo = lévofloxacine; métroni = métronidazole</small>
+  </div>
+</div>
+
 {{%collapse "Définition" %}}
 
 *Helicobacter pylori*
@@ -45,13 +145,13 @@ Son éradication prévient la survenue de ces complications.
 
 ### Abréviations
 
-**EOGD:** Endoscopie œso-gastro-duodénale (ou fibroscopie/gastroscopie)  
+**AMM:** autorisation de mise sur le marché  
+**EOGD:** endoscopie œso-gastro-duodénale (ou fibroscopie/gastroscopie)  
 **GEFH:** Groupe d'Études Français des *Helicobacter*  
-**IPP:** Inhibiteurs de la pompe à protons  
-**K:** Cancer
+**IPP:** inhibiteur de la pompe à protons  
+**K:** cancer
 
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
 La France est un pays de faible incidence:
 
@@ -59,7 +159,7 @@ La France est un pays de faible incidence:
 < 20% avant 30 ans et > 50% après 50 ans.
 - 10% développent un ulcère et 1% un cancer.
 
-### Antibiorésistance d'*H. pylori* en France en 2020
+#### Antibiorésistance d'*H. pylori* en France en 2020
 
 - Amoxicilline 0,4%
 - Clarithromycine 21%
@@ -71,21 +171,25 @@ La France est un pays de faible incidence:
 {{% /collapse %}}
 {{%collapse "Facteurs de risque et Indications à la recherche de H. pylori" %}}
 
-- Ulcère gastrique ou duodénal  
-- Antécédent d'ulcère gastro-duodénal sans endoscopie
-- Avant prise d'AINS ou d'aspirine faible dose en cas d'antécédent d'ulcère
-- [Dyspepsie chronique]({{< relref "dyspepsie.md" >}}) avec endoscopie normale
-- [Anémie ferriprive]({{< relref "anemie.md" >}}) sans cause retrouvée ou résistante à la supplémentation
-- Carence en vitamine B12 sans cause retrouvée
-- **Facteur de risque de cancer gastrique**
-  - Antécédent familial au premier degré de cancer de l'estomac
-  - Porteur Lynch/HNPCC
+- Ulcère ou situation à risque d'ulcère
+  - Ulcère gastroduodénal ou antécédent d'ulcère
+  - Avant prise d'AINS ou d'aspirine faible dose
+  - [Dyspepsie chronique]({{< relref "dyspepsie.md" >}}) avec endoscopie normale
+- Prévention du cancer gastrique
   - Antécédent personnel de lésion cancéreuse ou pré-cancéreuse gastrique
-- Lymphome gastrique du MALT
-- Avant chirurgie bariatrique touchant l'estomac
-- Purpura thrombopénique immunologique de l'adulte
+  - Antécédent familial au 1<sup>er</sup> degré de cancer de l'estomac
+  - Syndrome de Lynch/HNPCC
+  - Lymphome du MALT gastrique
+  - Traitement par IPP ≥ 6 mois
+  - Avant chirurgie bariatrique touchant l'estomac
+- Autres
+  - Toute endoscopie gastrique doit s'accompagner de biopsies
+  - [Anémie ferriprive]({{< relref "anemie.md" >}}) sans cause retrouvée ou résistante à la supplémentation
+  - Carence en vitamine B12 sans cause retrouvée
+  - Purpura thrombopénique immunologique de l'adulte
+  - Souhait du patient
 
-> *Source HAS 2017*
+> *GEFH 2021*
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -100,7 +204,7 @@ Indications à la sérologie:
 - Antécédent d'ulcère gastro-duodénal sans preuve d'éradication de *HP*
 - Purpura thrombopénique immunologique
 
-> *Source HAS 2017*
+> *HAS 2017*
 
 ### Endoscopie œso-gastro-duodénale
 
@@ -120,14 +224,16 @@ Indications en première intention:
 - Lymphome gastrique du MALT
 - Chirurgie bariatrique prévue
 
-> *Source HAS 2017*
+> *HAS 2017*
 
 {{% /collapse %}}
 {{%collapse "Traitement de Helicobacter pylori avec antibiogramme" %}}
 
-{{%warning%}}En cas de grossesse ou d'allaitement, il faut différer le traitement.{{%/warning%}}
+{{%warning%}}En cas de grossesse ou d'allaitement, il faut différer le traitement{{%/warning%}}
 
-### Traitement de référence de *H. pylori*
+### Traitement de première ligne de *H. pylori*
+
+#### Souche sensible à la clarithromycine
 
 Traitement de première intention d'une infection prouvée à *H. pylori* avec fonction rénale normale.
 
@@ -136,7 +242,7 @@ Traitement de première intention d'une infection prouvée à *H. pylori* avec f
 {{%info%}}
 En cas de sensibilité à la clarithromycine, trithérapie pendant 14 jours:
 
-- Amoxicilline 1 g matin, midi et soir pendant le repas
+- Amoxicilline 50 mg/kg/j (en 3-4 prises/j) pendant le repas
 - Clarithromycine 500 mg matin et soir pendant le repas
 - Ésoméprazole 40 mg matin et soir 15 minutes avant le repas
 
@@ -150,87 +256,115 @@ En cas de résistance à la clarithromycine, remplacement par la *lévofloxacine
 
 Trithérapie pendant 14 jours:
 
-- Amoxicilline 1 g matin, midi et soir pendant le repas
+- Amoxicilline 50 mg/kg/j (en 3-4 prises/j) pendant le repas
 - Lévofloxacine 500 mg matin et soir pendant le repas
 - Ésoméprazole 40 mg matin et soir 15 minutes avant le repas
 
 #### Résistance clarithromycine et lévofloxacine
 
-En cas de double résistance clarithromycine et lévofloxacine, 2 alternatives:
+En cas de double résistance clarithromycine et lévofloxacine (ou quinolone non testée), 2 alternatives:
 
 Quadrithérapie avec *bismuth* pendant 10 jours:
 
-- Oméprazole 20 mg matin et soir 15 minutes avant le repas
+- Pylera®: 3 gélules après les repas du matin, du midi, du soir et au coucher, avec un grand verre d’eau
+- Oméprazole 20 mg matin et soir 15 minutes avant le repas  
 {{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
-- Pylera®: 3 gélules après les repas du matin, du midi, du soir et au coucher, avec un grand verre d’eau.
 
 {{%warning%}}Arrêt immédiat du traitement et avis médical en cas de signes neurologiques{{%/warning%}}
 
-Ou trithérapie pendant 14 jours:
+voire trithérapie pendant 14 jours:
 
-- Amoxicilline 1 g matin, midi et soir pendant le repas
+- Amoxicilline 50 mg/kg/j (en 3-4 prises/j) pendant le repas
 - Métronidazole 500 mg matin et soir pendant le repas
 - Ésoméprazole 40 mg matin et soir 15 minutes avant le repas
 
-#### Allergie documentée à l'amoxicilline
+### Traitement de deuxième ligne
 
-Si allergie documentée à l’amoxicilline et souche sensible à la clarithromycine, trithérapie 14 jours:
-
-- Clarithromycine 500 mg matin et soir pendant le repas
-- Métronidazole 500 mg matin et soir pendant le repas
-- Ésoméprazole 40 mg matin et soir 15 minutes avant le repas
-
-##### Allergie amoxicilline et résistance clarithromycine
-
-Quadrithérapie avec bismuth pendant 10 jours (idem *Résistance clarithromycine et lévofloxacine*):
+Quadrithérapie avec bismuth pendant 10 jours:
 
 - Oméprazole 20 mg matin et soir 15 minutes avant le repas  
 {{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
 - Pylera® 3 gélules après les repas du matin, du midi, du soir et au coucher, avec un grand verre d’eau.
 
-### Échec des traitements préconisés
+Si quadrithérapie déjà utilisée en 1<sup>re</sup> ligne, voir 3<sup>e</sup> ligne.
 
-Le Groupe d'Études Français des *Helicobacter* propose de [présenter votre dossier en RCP](http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/) en cas d'échec des traitements préconisés dans ces recommandations.
+### Traitement de troisième ligne
 
-### Équivalences des IPP
+La réalisation d'une nouvelle endoscopie est préférable.
 
-- IPP: prise une dose matin et soir 15 minutes avant le repas pendant 10 jours.  
-- Seuls 2 IPP pour l'éradication  
-Ésoméprazole 40 mg = Rabéprazole 20 mg.
-- Oméprazole 20 mg x 2/j est le seul IPP avec l'AMM pour le bismuth
+- Souche Clari-S: idem ci-dessus
+- Souche Clari-R et Quinolone-S: idem ci-dessus
+- Souche Clari-R et quinolone-R: [avis du GEFH](http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/)
 
 {{% /collapse %}}
 {{%collapse "Traitement de Helicobacter pylori sans antibiogramme" %}}
 
-{{%warning%}} En cas de grossesse ou d'allaitement, il faut différer le traitement.{{%/warning%}}
+{{%warning%}}En cas de grossesse ou d'allaitement, il faut différer le traitement{{%/warning%}}
 
-Utiliser l'un des schémas ci-dessous.
+Traitement sans antibiogramme, dit *traitement empirique*.
 
-En cas d'échec: Privilégier la réalisation d'une nouvelle endoscopie pour antibiogramme.  
-Sinon, prolonger avec le schéma alternatif.  
-
-### Alternative 1
-
-Quadrithérapie du traitement concomitant pendant 14 jours:
-
-- Amoxicilline 1 g matin, midi et soir pendant le repas
-- Métronidazole 500 mg matin et soir pendant le repas
-- Clarithromycine 500 mg matin et soir pendant le repas
-- Ésoméprazole 40 mg matin et soir 15 minutes avant le repas
-
-### Alternative 2
+### Empirique de première ligne
 
 Quadrithérapie avec *bismuth* pendant 10 jours:
 
-- Pylera® 3 gélules après les repas du matin, du midi, du soir et au coucher, avec un grand verre d’eau.
-- Oméprazole 20 mg matin et soir 15 minutes avant le repas
+- Pylera® 3 gélules après les repas du matin, du midi, du soir et au coucher, avec un grand verre d’eau
+- Oméprazole 20 mg matin et soir 15 minutes avant le repas  
 {{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
 
 {{%warning%}}Arrêt immédiat du traitement et avis médical en cas de signes neurologiques{{%/warning%}}
 
-#### Deuxième ligne
+ou quadrithérapie du *traitement concomitant* pendant 14 jours:
 
-Privilégier une endoscopie avec antibiogramme.
+- Amoxicilline 50 mg/kg/j (en 3-4 prises/j) pendant le repas
+- Métronidazole 500 mg matin et soir pendant le repas
+- Clarithromycine 500 mg matin et soir pendant le repas
+- Ésoméprazole 40 mg matin et soir 15 minutes avant le repas
+
+### Empirique de deuxième ligne
+
+Privilégier une endoscopie avec antibiogramme ou utiliser la quadrithérapie alternative.
+
+### Empirique de troisième ligne
+
+Traitement guidé par antibiogramme ou PCR (ignorer la résistance au métronidazole).
+
+- Clari-S
+  - Amoxicilline 50 mg/kg/j (en 3-4 prises/j) pendant le repas
+  - Clarithromycine 500 mg matin et soir pendant le repas
+  - Ésoméprazole 40 mg matin et soir 15 minutes avant le repas
+- Clari-R et Quinolone-S
+  - Amoxicilline 50 mg/kg/j (en 3-4 prises/j) pendant le repas
+  - Lévofloxacine 500 mg matin et soir pendant le repas
+  - Ésoméprazole 40 mg matin et soir 15 minutes avant le repas
+- Clari-R et quinolone-R (ou non testée)  
+[Avis du GEFH](http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/).
+
+### Empirique avec allergie à la pénicilline
+
+Quadrithérapie avec *bismuth* pendant 10 jours:
+
+- Pylera® 3 gélules après les repas du matin, du midi, du soir et au coucher, avec un grand verre d’eau
+- Oméprazole 20 mg matin et soir 15 minutes avant le repas  
+{{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
+
+{{%warning%}}Arrêt immédiat du traitement et avis médical en cas de signes neurologiques{{%/warning%}}
+
+{{% /collapse %}}
+{{%collapse "Traitements de l'éradication de HP" %}}
+
+### Équivalences des IPP
+
+- IPP: prise une dose matin et soir 15 minutes avant le repas  
+- Seuls 2 IPP pour l'éradication de *Helicobacter pylori*
+Ésoméprazole 40 mg = Rabéprazole 20 mg.
+- Oméprazole 20 mg x 2/j est le seul IPP avec l'AMM pour le bismuth
+
+### Effets indésirables des antibiotiques
+
+- Bismuth  
+Selles noires, diarrhées, dysgueusie, langue noire, effet antabuse.
+- Métronidazole  
+Effet antabuse, troubles digestifs.
 
 {{% /collapse %}}
 {{%collapse "Contrôle de la guérison" %}}
@@ -270,7 +404,7 @@ La recherche fécale de *H. pylori* est une alternative au test respiratoire mai
 
 {{< mermaid title="Conduite à tenir pour le traitement de Helicobacter pylori guidé par antibiogramme. Dr JB FRON d'après GEFH 2021" >}}
 graph TB
-  asymptomatique["<b>Asymptomatique</b><br>- &lt; 45 ans et ATCD K gastrique 1<sup>er</sup> degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie("Sérologie <em>H. pylori</em>")
+  asymptomatique["<b>Asymptomatique</b><br>- &lt; 45 ans et ATCD K gastrique 1<sup>er</sup> degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie("Sérologie <em>H. pylori</em> ")
   style asymptomatique stroke:#4150f5, stroke-width:1px
     serologie -- Négative --> indemne(Pas d'infection active)
     serologie -- Positive/Douteuse --> gastro
@@ -281,25 +415,25 @@ graph TB
     gastro -- H. pylori + ---> grossesse("Grossesse ou<br>allaitement ?")
       grossesse == Non ===> antibiogramme("<b>Antibiogramme</b><br>Sensible clarithromycine?")
         antibiogramme == Sensible ==> triAmox("<b>Trithérapie 14j</b><br>IPP + amoxicilline<br>+ clarithromycine")
-          triAmox -- "Allergie péni" --> triAmoxAllergie("<b>Trithérapie 14j</b><br>IPP + métronidazole<br>+ clarithromycine") --> controle
+          triAmox -- Allergie péni --> triAmoxAllergie("<b>Trithérapie 14j</b><br>IPP + métronidazole<br>+ clarithromycine") --> controle
           triAmox ===> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et ≥ 2 semaines sans IPP")
         antibiogramme -- "Résistant" --> levofloS("Sensible lévofloxacine ?")
           levofloS -- Sensible --> levoflo("<b>Trithérapie 14j</b><br>IPP + amoxicilline<br>+ lévofloxacine") --> controle
-            levoflo -- "Allergie péni" --> quadrit
+            levoflo -- Allergie péni --> quadrit
           levofloS -- "Résistant" --> quadrit("<b>Quadrithérapie 10j</b><br>IPP + sel de bismuth<br>+ tétracycline + métronidazole") --> controle
           controle -- Négatif --> ok(Bactérie éradiquée)
           controle -- Positif --> avis("Avis du Centre de Référence &#40;lien&#41;")
             click avis "http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" "Ouvrir dans un onglet" _blank
-      grossesse -- Oui --> reporter("Reporter le<br>traitement")
+      grossesse -- Oui --> reporter(Reporter le<br>traitement)
 {{< /mermaid >}}
 
 ### Traitement probabiliste en l'absence de l'antibiogramme de *H. pylori*
 
 {{< mermaid title="Conduite à tenir pour le traitement de Helicobacter pylori en l'absence d'antibiogramme. Dr JB FRON d'après GEFH 2021" >}}
 graph TB
-  probabiliste["<em>H. pylori</em> prouvé<br>ET antibiogramme manquant"] --> grossesse("Grossesse ou<br>allaitement ?")
+  probabiliste["<em>H. pylori</em> prouvé<br>ET antibiogramme manquant"] --> grossesse(Grossesse ou<br>allaitement ?)
   style probabiliste stroke:#4150f5, stroke-width:1px
-    grossesse == Non ==> choix("Traitement au choix")
+    grossesse == Non ==> choix(Traitement au choix)
       choix -- Alternative 1 ---> concomitant("<b>Concomitant 14j</b><br>IPP + amoxicilline<br>+ clarithromycine<br>+ métronidazole")
       concomitant --> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et ≥ 2 semaines sans IPP")
       choix -- "Alternative 2 ou<br>allergie pénicilline" --> bismuth("<b>Quadrithérapie<br>bismuthée 10j</b>")
@@ -308,7 +442,7 @@ graph TB
           controle -- Positif ---> switch("Privilégier une EOGD<hr>Voire traitement alternatif")
             switch -- Traitement alternatif --> surv("<b>Test respiratoire</b>")
               surv -- Négatif --> ok2(Bactérie éradiquée)
-              surv -- Positif --> EOGD("EOGD")
+              surv -- Positif --> EOGD(EOGD)
                 EOGD --> RCP
             switch -- EOGD --> seClaLevo(Sensibilité clarithromycine<br>et lévofloxacine ?)
               seClaLevo --> ClariS("Clari-S: 14j<br>IPP + amoxicilline<br>+ clarithromycine")
@@ -322,10 +456,10 @@ graph TB
 {{< /mermaid >}}
 
 > **Légende**  
-EOGD: gastroscopie avec biopsies et antibiogramme
+EOGD = gastroscopie avec biopsies et antibiogramme
 
 {{% /collapse %}}
-{{%collapse "Informations du patient" %}}
+{{%collapse "Information du patient" %}}
 
 - [Fiche info patient HAS et CNPHGE. La recherche de Helicobacter pylori. Mars 2019.](https://www.has-sante.fr/upload/docs/application/pdf/2019-03/helicobacter_recherche.pdf)
 - [Questions-réponses HAS. Helicobacter pylori : recherche et traitement](https://www.has-sante.fr/jcms/c_2911396/fr/helicobacter-pylori-recherche-et-traitement)
@@ -350,13 +484,11 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 - Dépistage de la famille proche en cas de lésion cancéreuse ou pré-cancéreuse de l'estomac.
 
 {{% /collapse %}}
-{{%collapse "Vidéos" %}}
+{{%collapse "Vidéos de formation" %}}
 
 {{< youtube id="2AvWB-hTsHs" title="Vidéo d'explications du test respiratoire" >}}
 
 {{< youtube id="QxQudpqfe08" title="Vidéo d'explications sur les précautions pour la réalisation du test respiratoire" >}}
-
-{{< youtube id="PZ76-gJ0Nz8" title="Vidéo d'explications la sérologie Helicobacter pylori" >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
