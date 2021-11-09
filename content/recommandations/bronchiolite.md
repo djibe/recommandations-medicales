@@ -22,6 +22,8 @@ todo = "reco 2019, vidéos DRP, flowchart"
 
 {{%article-summary%}}
 
+Ce chapitre est en cours de mise à jour avec les recommandations 2019
+
 - La bronchiolite concerne uniquement les enfants < 12 mois (*asthme du nourrisson* au-delà ou si ≥ 3 épisodes)
 - Éliminer insuffisance cardiaque et pneumopathie
 - Hospitalisation: < 3 mois, prématurité < 35 semaines, < 94% en air ambiant ou selon clinique

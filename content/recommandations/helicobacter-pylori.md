@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = ""
 date = 2020-12-02T15:14:41+02:00
 publishdate = 2020-12-02
-lastmod = 2021-11-08
+lastmod = 2021-11-09
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["GEFH", "HAS", "SNFGE"]
@@ -16,17 +16,18 @@ anglais = ["Helicobacter pylori"]
 sctid = "80774000"
 draft = false
 image = true
-imageSrc = "Helicobacter pylori, CDC/Dr Patricia Fields, Dr Collette Fitzgerald (PHIL #5715), 2004"
+imageSrc = "Helicobacter pylori implantés sur la muqueuse gastrique, CDC/Dr Patricia Fields, Dr Collette Fitzgerald (PHIL #5715), 2004"
 flowchart = true
-todo = "revoir flowchart, EI des ATB selon Prescrire, comment diag quand rosacée, dépistage en AINS long cours maastricht III"
+todo = "comment diag quand rosacée, dépistage en AINS long cours maastricht III"
 +++
 
 {{%article-summary%}}
 
 - Dépistage par sérologie pour tout antécédent d'ulcère sans confirmation d'éradication
-- Confirmation par sérologie ou fibroscopie selon symptômes et facteurs de risque de cancer
+- Endoscopie si symptômes ou facteurs de risque de cancer
 - Reporter le traitement si grossesse/allaitement
 - Traitement adapté à l'antibiogramme au maximum
+- L'amoxicilline devrait être utilisé à 50 mg/kg/j en 3-4 prises (max 6 g/j)
 - 2 IPP autorisés: ésoméprazole 40 ou rabéprazole 20 mg (sauf oméprazole pour Bismuth), pris matin et soir
 - Contrôle de l'éradication systématique (arrêt ATB > 1 mois et IPP > 2 sem)
 - Dépistage du 1<sup>er</sup> degré en cas de lésion cancéreuse
@@ -196,7 +197,7 @@ La France est un pays de faible incidence:
 
 ### Sérologie *Helicobacter pylori*
 
-Indications à la sérologie:
+Indications à la sérologie (test diagnostique):
 
 **Chez un sujet asymptomatique et ...**
 
@@ -205,6 +206,8 @@ Indications à la sérologie:
 - Purpura thrombopénique immunologique
 
 > *HAS 2017*
+
+**NB.** Aucun intérêt de la sérologie *HP* pour le contrôle de la guérison.
 
 ### Endoscopie œso-gastro-duodénale
 
@@ -336,7 +339,7 @@ Traitement guidé par antibiogramme ou PCR (ignorer la résistance au métronida
   - Amoxicilline 50 mg/kg/j (en 3-4 prises/j) pendant le repas
   - Lévofloxacine 500 mg matin et soir pendant le repas
   - Ésoméprazole 40 mg matin et soir 15 minutes avant le repas
-- Clari-R et quinolone-R (ou non testée)  
+- Clari-R et Quinolone-R (ou non testée)  
 [Avis du GEFH](http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/).
 
 ### Empirique avec allergie à la pénicilline
@@ -348,6 +351,21 @@ Quadrithérapie avec *bismuth* pendant 10 jours:
 {{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
 
 {{%warning%}}Arrêt immédiat du traitement et avis médical en cas de signes neurologiques{{%/warning%}}
+
+#### Allergie à la pénicilline: 2e ligne
+
+Privilégier une endoscopie avec antibiogramme:
+
+- Clari-S et Quinolone-S
+  - Clarithromycine 500 mg matin et soir pendant le repas
+  - Lévofloxacine 500 mg matin et soir pendant le repas
+  - Ésoméprazole 40 mg matin et soir 15 minutes avant le repas
+- Clari-R  
+[Avis du GEFH](http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/).
+
+#### Allergie à la pénicilline: 3e ligne
+
+Antibiogramme obligatoire et [avis du GEFH](http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/).
 
 {{% /collapse %}}
 {{%collapse "Traitements de l'éradication de HP" %}}
@@ -363,8 +381,12 @@ Quadrithérapie avec *bismuth* pendant 10 jours:
 
 - Bismuth  
 Selles noires, diarrhées, dysgueusie, langue noire, effet antabuse.
+- Clarithromycine  
+Diarrhées, interactions.
+- Lévofloxacine  
+Diarrhées, tendinopathies, troubles neuropsy.
 - Métronidazole  
-Effet antabuse, troubles digestifs.
+Effet antabuse (jusqu'à 3 jours après), troubles digestifs, troubles neuropsy (vertiges, troubles de la marche, confusion, dépression).
 
 {{% /collapse %}}
 {{%collapse "Contrôle de la guérison" %}}
@@ -397,39 +419,40 @@ En cas de test positif, recours à un avis spécialisé (Centre national de réf
 
 ### Antigène fécal
 
-La recherche fécale de *H. pylori* est une alternative au test respiratoire mais mais n'est pas remboursé.
+La recherche fécale de *H. pylori* est une alternative au test respiratoire pour la guérison mais mais n'est pas remboursé.
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir en présence de Helicobacter pylori" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le traitement de Helicobacter pylori guidé par antibiogramme. Dr JB FRON d'après GEFH 2021" >}}
+{{< mermaid title="Conduite à tenir pour le traitement de Helicobacter pylori guidé par antibiogramme. Dr JB Fron d'après GEFH 2021" >}}
 graph TB
-  asymptomatique["<b>Asymptomatique</b><br>- &lt; 45 ans et ATCD K gastrique 1<sup>er</sup> degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie("Sérologie <em>H. pylori</em> ")
+  asymptomatique["<b>Asymptomatique</b><hr>- &lt; 45 ans et ATCD K gastrique 1<sup>er</sup> degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie("Sérologie <em>H. pylori</em> ")
   style asymptomatique stroke:#4150f5, stroke-width:1px
     serologie -- Négative --> indemne(Pas d'infection active)
     serologie -- Positive/Douteuse --> gastro
-  suspicion["<b>Symptomatique</b><br>- Suspicion d'ulcère<br>- Dyspepsie chez &gt; 40 ans<br>- Signe d'alarme"] --> gastro("<b>Gastro-entérologue</b><br>EOGD")
+  suspicion["<b>Symptomatique</b><hr>- Suspicion d'ulcère<br>- Dyspepsie chez &gt; 40 ans<br>- Signe d'alarme"] --> gastro("<b>Gastro-entérologue</b><br>EOGD")
   style suspicion stroke:#4150f5, stroke-width:1px
-  suspect["<b>Comorbidités</b><br>- &ge; 45 ans avec ATCD K gastrique 1er degré<br>- Anémie ferriprive ou B12 sans cause<br>- Lymphome gastrique du MALT<br>- Chirurgie bariatrique"] --> gastro
+  suspect["<b>Comorbidités</b><hr>- &ge; 45 ans avec ATCD K gastrique 1er degré<br>- Anémie ferriprive ou B12 sans cause<br>- Lymphome gastrique du MALT<br>- Chirurgie bariatrique"] --> gastro
   style suspect stroke:#4150f5, stroke-width:1px
     gastro -- H. pylori + ---> grossesse("Grossesse ou<br>allaitement ?")
       grossesse == Non ===> antibiogramme("<b>Antibiogramme</b><br>Sensible clarithromycine?")
         antibiogramme == Sensible ==> triAmox("<b>Trithérapie 14j</b><br>IPP + amoxicilline<br>+ clarithromycine")
-          triAmox -- Allergie péni --> triAmoxAllergie("<b>Trithérapie 14j</b><br>IPP + métronidazole<br>+ clarithromycine") --> controle
           triAmox ===> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et ≥ 2 semaines sans IPP")
-        antibiogramme -- "Résistant" --> levofloS("Sensible lévofloxacine ?")
+        antibiogramme -- Résistant --> levofloS("Sensible lévofloxacine ?")
           levofloS -- Sensible --> levoflo("<b>Trithérapie 14j</b><br>IPP + amoxicilline<br>+ lévofloxacine") --> controle
-            levoflo -- Allergie péni --> quadrit
-          levofloS -- "Résistant" --> quadrit("<b>Quadrithérapie 10j</b><br>IPP + sel de bismuth<br>+ tétracycline + métronidazole") --> controle
+          levofloS -- Résistant --> levofloR("<b>Quadrithérapie 10j</b><br>Oméprazole + Bismuth<hr>OU IPP + amoxicilline<br>+ métronidazole 14j") --> controle
           controle -- Négatif --> ok(Bactérie éradiquée)
-          controle -- Positif --> avis("Avis du Centre de Référence &#40;lien&#41;")
-            click avis "http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" "Ouvrir dans un onglet" _blank
+          controle -- Positif --> bismuth("Oméprazole + Bismuth 10j<br>&#40;si non utilisé&#41;")
+            bismuth --> controle2(Test respiratoire)
+              controle2 -- Positif --> final("- ClariS: amox + clari + IPP 14j<br>- Clari-R-Quinolone-S: amox + lévoflo + IPP 14j<br>- Double résistance: avis du GEFH")
+                click final "http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" "Ouvrir dans un onglet" _blank
+        antibiogramme -- Allergie péni --> bismuth
       grossesse -- Oui --> reporter(Reporter le<br>traitement)
 {{< /mermaid >}}
 
 ### Traitement probabiliste en l'absence de l'antibiogramme de *H. pylori*
 
-{{< mermaid title="Conduite à tenir pour le traitement de Helicobacter pylori en l'absence d'antibiogramme. Dr JB FRON d'après GEFH 2021" >}}
+{{< mermaid title="Conduite à tenir pour le traitement de Helicobacter pylori en l'absence d'antibiogramme. Dr JB Fron d'après GEFH 2021" >}}
 graph TB
   probabiliste["<em>H. pylori</em> prouvé<br>ET antibiogramme manquant"] --> grossesse(Grossesse ou<br>allaitement ?)
   style probabiliste stroke:#4150f5, stroke-width:1px
@@ -439,18 +462,19 @@ graph TB
       choix -- "Alternative 2 ou<br>allergie pénicilline" --> bismuth("<b>Quadrithérapie<br>bismuthée 10j</b>")
         bismuth --> controle
           controle -- Négatif --> ok(Bactérie éradiquée)
-          controle -- Positif ---> switch("Privilégier une EOGD<hr>Voire traitement alternatif")
+          controle -- Positif ---> switch(Privilégier une EOGD<hr>Voire traitement alternatif)
             switch -- Traitement alternatif --> surv("<b>Test respiratoire</b>")
               surv -- Négatif --> ok2(Bactérie éradiquée)
               surv -- Positif --> EOGD(EOGD)
-                EOGD --> RCP
-            switch -- EOGD --> seClaLevo(Sensibilité clarithromycine<br>et lévofloxacine ?)
-              seClaLevo --> ClariS("Clari-S: 14j<br>IPP + amoxicilline<br>+ clarithromycine")
+            switch ==> EOGD --> seClaLevo(Sensibilité clarithromycine<br>et lévofloxacine ?)
+              seClaLevo --> ClariS(Clari-S: 14j<br>IPP + amoxicilline<br>+ clarithromycine)
                 ClariS -. Échec .-> RCP
-              seClaLevo --> ClariRLevoS("Clari-R et lévo-S: 14j<br>IPP + amoxicilline<br>+ lévofloxacine")
+              seClaLevo --> ClariRLevoS(Clari-R et Lévo-S: 14j<br>IPP + amoxicilline<br>+ lévofloxacine)
                 ClariRLevoS -. Échec .-> RCP
               seClaLevo --> ClariRLevoR(Double résistance)
-                ClariRLevoR --> RCP("RCP GEFH &#40;lien&#41;")
+              seClaLevo -- Allergie péni --> allergie(Clari-S et Lévo-S: 14j<br>IPP + clarithromycine<br>+ lévofloxacine)
+                allergie -- Autres cas --> RCP
+                ClariRLevoR --> RCP("RCP GEFH &#40;cliquer&#41;")
                   click RCP "http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" "Ouvrir dans un onglet" _blank
     grossesse -- Oui --> reporter("Reporter le<br>traitement")
 {{< /mermaid >}}

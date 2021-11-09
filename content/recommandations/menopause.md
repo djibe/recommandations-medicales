@@ -6,7 +6,7 @@ synonyms = ["Syndrome climatérique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
 publishdate = "2021-10-19"
-lastmod = "2021-10-26"
+lastmod = "2021-11-09"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF"]
@@ -23,14 +23,13 @@ todo = "relecture gemvi-secretariat@gemvi.org, IOP HAS 2021"
 {{%article-summary%}}
 
 - La ménopause entraîne une augmentation importante du risque de *fracture* et de *maladie cardiovasculaire*
-- Diagnostic clinique rétrospectif
-- La VPP du test au progestatif n'a pas été évaluée
+- Diagnostic clinique rétrospectif (la VPP du test au progestatif n'est pas connue)
 - Contraception: interrompre la contraception et suivre l'aménorrhée
 - Bilan d'*insuffisance ovarienne prématurée* si survenue avant 40 ans (*détail à venir*)
 - Examen clinique complet et complémentaires adaptés
 - Traitements non hormonaux: arrêt tabac/alcool, activité physique, correction d'un surpoids, yoga, hypnose...
 - THM: indications et contre-indications précises (voir *Traitement hormonal de la ménopause*)  
-CI majeures sont antécédent de cancer du sein, infarctus du myocarde ou AVC et Alzheimer
+**CI majeures**: antécédent de cancer du sein, infarctus du myocarde ou AVC et Alzheimer
 - Débuter quand diagnostic certain et seulement dans les 10 premières années
 - Doses minimales efficaces d'estrogène cutané + progestérone orale combinés continu (ou discontinu ou séquentiels si hémorragies souhaitées)
 
@@ -41,7 +40,7 @@ Ménopause
 : Arrêt des possibilités de procréation féminine et des menstruations par insuffisance ovarienne. En France, elle survient en moyenne à 51 ans.
 : Elle est dite *naturelle* (ou *physiologique*) si spontanée après 45 ans et tardive après 55 ans.
 : Elle est *chirurgicale* si elle résulte d'ovariectomie bilatérale ou *iatrogène* si radio/chimio-induite.
-: Le diagnostic est *clinique*: période d'aménorrhée de 12 mois consécutifs sans cause évidente chez une femme de plus de 45 ans.  
+: **Le diagnostic est *clinique* : période d'aménorrhée de 12 mois consécutifs sans cause évidente chez une femme de plus de 45 ans.**  
 Les signes *climatériques* (bouffées de chaleur, sueurs nocturnes, sécheresse vaginale...) sont inconstants et ne sont pas nécessaires au diagnostic.
 : Après 50 ans, le risque de grossesse est de 1-5/1000 année-femme. 11 million de femmes ménopausées en France.
 : Après la ménopause, l'*ostéoporose* (40% de risque fracturaire) et les *maladies cardiovasculaires* (MCV, 45% des décès) augmentent considérablement.
@@ -92,12 +91,12 @@ En revanche, un test *négatif* (absence de saignements) n'affirme pas une méno
 {{%collapse "Diagnostic de ménopause" %}}
 
 {{%info%}}
-Chez une femme > 45 ans, avec ou sans contraception hormonale, aucun examen ou test n'est recommandé pour porter le diagnostic de ménopause (ou décider de l'arrêt de la contraception hormonale).
+Chez une femme ≥ 45 ans, avec ou sans contraception hormonale, aucun examen ou test n'est recommandé pour porter le diagnostic de ménopause (ou décider de l'arrêt de la contraception hormonale).
 
 En cas de contraception: interrompre la contraception et suivre l'aménorrhée (contraception barrière).
 {{%/info%}}
 
-Le diagnostic est clinique après 12 mois d'aménorrhée chez une femme ≥ 40 ans (voir *Définitions*).
+Le diagnostic est clinique (voir *Définitions*).
 
 #### Cas spécifiques
 
@@ -123,8 +122,8 @@ Dosages répétés de FSH (≥ 30 UI/L) et estradiol (< 20 pg/mL) à distance de
 
 - Antécédents  
 Cardiovasculaires, fracturaires, chirurgicaux.
-- Facteurs de risque cardiovasculaire +
-  - Âge > 60 ans
+- Facteurs de risque cardiovasculaire
+  - Âge ≥ 60 ans
   - Ancienneté de la ménopause
   - Antécédent de prééclampsie ou diabète gestationnel
 - Poids, taille, IMC, pression artérielle aux 2 bras, pouls périphériques
@@ -142,8 +141,8 @@ Alcool, tabac, autres.
 - Palpation des seins
 - Examen gynécologique complet
 - Syndrome climatérique
-  - Bouffées vasomotrices (BVM, 80% dont 1/4 très invalidantes)  
-  Durent 5-7 ans voire > 15.
+  - Bouffées vasomotrices (BVM, 80%)  
+  {{%class%}}Durent 5-7 ans voire > 15.{{%/class%}}
   - Sueurs nocturnes
   - Troubles du sommeil
   - Troubles de l'humeur
@@ -189,7 +188,7 @@ Aucun examen n'est recommandé pour le diagnostic de ménopause.
 
 ### Bilan pré-thérapeutique
 
-- Poids, taille, IMC, PA 2 bras, pouls périphériques
+- Poids, taille, IMC, pression artérielle (2 bras), pouls périphériques
 - Palpation des seins, examen gynécologique complet
 - Mammographies de dépistage à jour  
 puis dépistage organisé à partir de 50 ans (*HAS 2015 cancer du sein*)
@@ -255,8 +254,8 @@ Globalement cible vitamine D > 75 nmol/L (détail au chapitre [Vitamine D]({{< r
   - Gabapentine, prégabaline, clonidine
 - Syndrome génito-urinaire de la ménopause
   - Augmentation de la fréquence des rapports sexuels
-  - Hydratants ou lubrifiants locaux ("hydratant vaginal", "gel calmant/intime/vaginal", "sécheresse intime" en pharmacie)
-  - Acide hyaluronique local TODO:
+  - Hydratants ou lubrifiants locaux (en pharmacie: "hydratant vaginal", "gel calmant/intime/vaginal", "sécheresse intime")
+  - Acide hyaluronique local
   - Sténose: dilatateurs de taille croissante
 - Antécédent de cancer du sein  
 Contre-indication aux phytoœstrogènes.
@@ -494,10 +493,10 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 - Fracture de tous les sites osseux
 - Infarctus du myocarde  
 Si < 60 ans ou ménopause < 10 ans.
-- Cancer colorectal, du pancréas, de l'œsophage, de l'estomac et du foie
+- Cancers colorectal, du pancréas, de l'œsophage, de l'estomac et du foie
 - Démence (29-44% mais biais) surtout si IOP
 - Mortalité si < 60 ans  
-Effet cardiovasculaire +++.
+Effet cardiovasculaire très protecteur.
 
 #### Risques du THM
 
@@ -529,7 +528,7 @@ Si estradiol cutané + progestérone micronisée (dydrogestérone, acétate de c
 {{% /collapse %}}
 {{%collapse "Information de la patiente" %}}
 
-[Information de la patiente - GEMVI: Fiche info ménopause et THM](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
+[GEMVI: Fiche info ménopause et THM](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
 
 - Bénéfique pour symptômes (bouffées vasomotrices ++) et ralentissement du vieillissement des différents tissus (ostéoporose, trophicité)
 - Réduit le risque de cancer du côlon et de fracture ostéoporotique
