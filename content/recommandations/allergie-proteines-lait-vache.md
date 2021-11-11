@@ -6,10 +6,10 @@ synonyms = ["Intolérance lait de vache"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-11T06:43:00+02:00
 publishdate = 2021-01-11
-lastmod = 2021-01-14
+lastmod = 2021-11-11
 specialites = ["pediatrie"]
 annees = "2017"
-sources = []
+sources = ["Anses", "bibliographie"]
 tags = ["urticaire"]
 anglais = ["Cow's milk protein allergy (CMA)"]
 sctid = "782555009"
@@ -31,8 +31,8 @@ todo = "algo, https://www.sciencedirect.com/science/article/abs/pii/S18770320183
 
 Allergie quasi constante:
 
-- lait de chèvre et brebis (92% selon Sicherer, S., 2001)
-- viande de bœuf (88% selon Mamikoglu, B., 2005)
+- lait de chèvre et brebis (92% selon Sicherer S, 2001)
+- viande de bœuf (88% selon Mamikoglu B, 2005)
 - dérivés de soja
 
 Allergies croisées à étayer 1 par 1:
@@ -65,6 +65,8 @@ Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de 
 - Nutramigen LGG 1, 2 et 3
 - Nutriben APLV 1 et 2
 - Pregestimil 1 à 3
+
+> << Ne sont pas adaptées à la prise en charge de l'allergie aux protéines de lait de vache >> [Anses 2015](https://www.anses.fr/en/system/files/NUT2015SA0257.pdf)
 
 ### Hydrolysat de lactosérum
 
