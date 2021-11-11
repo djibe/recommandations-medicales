@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "reco 2019, vidéos DRP, flowchart"
+todo = "question HAS forme modérée et critères hospit, indication de traitement par palivizumab, flowchart, pouls + SpO2 selon l'âge"
 +++
 
 {{%article-summary%}}
@@ -69,7 +69,8 @@ Hétérogénéité selon les centres.
 ### Abréviations
 
 **DRP:** désobstruction rhinopharyngée  
-**NS:** nourrisson
+**NS:** nourrisson  
+**SCM:** sternocléido-mastoidiens
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -87,7 +88,42 @@ Hétérogénéité selon les centres.
 - Fistule œso-trachéale
 
 {{% /collapse %}}
+{{%collapse "Signes de gravité" %}}
+
+### Indications à l'hospitalisation lors d'une première bronchiolite
+
+L'hospitalisation est la règle en présence de signe de gravité (dite *forme grave*).
+
+- Altération de l'état général
+Modification du comportement, hypotonie, mauvaise impression clinique.
+- Critères de gravité
+  - Fréquence respiratoire sur 1 minute (> 60 ou < 30/min)
+  - Fréquence cardiaque (> 180 ou < 80/min)
+  - Pauses respiratoires
+  - Respiration superficielle
+  - Signes de lutte respiratoire intenses  
+  Mise en jeu des muscles accessoires intercostaux inférieurs, SCM, balancement thoraco abdominal, battement des ailes du nez.
+  - Alimentation  
+  < 50% de la quantité habituelle sur 3 prises consécutives ou refus alimentaire.
+  - SpO<sub>2</sub> < 92%
+
+### Critères de vulnérabilité
+
+Hospitalisation recommandée en forme modérée avec signe de fragilité et vigilance accrue en forme légère avec fragilité.
+
+- Début des signes de lutte ou de la toux depuis < 48 heures
+- Âge corrigé < 2 mois
+- Prématurité < 36 SA
+- Comorbidités  
+Cardiopathie congénitale avec shunt, pathologie pulmonaire chronique dont dysplasie broncho-pulmonaire, déficit immunitaire, pathologie neuromusculaire, polyhandicap, trisomie 21, indication de traitement par palivizumab.
+- Contexte social ou économique défavorable
+- Tabagisme passif
+- Capacité de recours aux soins ne permettant pas un retour au domicile
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
+
+{{%info%}}L'examen est réalisé APRÈS une DRP{{%/info%}}
 
 - Antécédents  
 Asthme, néonataux.
@@ -102,23 +138,40 @@ Dyspnée avec polypnée, geignements expiratoires (grunting)
 
 {{%warning%}}Toujours rechercher une hépatomégalie, seul signe permettant d'éliminer une insuffisance cardiaque aiguë.{{%/warning%}}
 
-- **Après DRP**
 - Constantes
-  - Pouls, fréquence respiratoire, SpO2, température
+  - Fréquence cardiaque (> 180 ou < 80/min), température
+  - Rythme respiratoire, fréquence respiratoire (sur 1 minute, > 60 ou < 30/min), SpO<sub>2</sub> (éveil en air ambiant, < 92%)
   - Rechercher une fièvre pour éliminer une surinfection pulmonaire
+  - Noter les valeurs dans le dossier
 - AEG
   - Comportement, hypotonie
   - Geignement
 - Signes de détresse respiratoire aiguë
+  - Pauses respiratoires
+  - Respiration superficielle
   - Frein expiratoire
   - Signes de lutte: intercostaux inférieurs (tirage sous-costal), sternocléido-mastoidiens, battement des ailes du nez ou respiration abdominale
-- Difficultés d'alimentation (quantifier)
+- Difficultés d'alimentation (quantifier la réduction sur prises consécutives) ou refus d'alimentation
 - Signes de déshydratation
 - **Crépitants** (secs, inspiratoires) et/ou sous-crépitants (plus humides, expiratoires) puis apparition rapide de râles bronchiques et **sibilants** (**wheezing** fréquent)
 - Nourrisson > 1 an: auscultation plus riche dominée par les sibilants expiratoires
 - Classer selon les 3 niveaux de gravité
 
 **NB.** L'auscultation peut être silencieuse en forme grave à thorax distendu.
+
+### 3 formes cliniques: légère, modérée et grave
+
+{{< table title="Formes cliniques de la bronchiolite selon HAS/CNPP 2019" class="table-wrap">}}
+| Forme clinique                      | Légère                | Modérée                        | Grave                                       |
+|-------------------------------------|-----------------------|--------------------------------|----------------------------------------------|
+| AEG                                 | Non                   | Non                            | Oui                                          |
+| FR (/min)                           | &lt; 60               | 60-69                          | &ge; 70 ou &lt; 30<br>ou respiration superficielle |
+| FC (&gt; 180 ou &lt; 80/min)        | Non                   | Non                            | Oui                                          |
+| Utilisation des muscles accessoires | Légère                | Modérée                        | Intense                                      |
+| SpO<sub>2</sub> (%)                 | &gt; 92               | 90 &lt; SpO<sub>2</sub> &le; 92  | &le; 90 ou cyanose                         |
+| Alimentation (%)                    | &gt; 50               | &lt; 50 sur 3 prises consécutives| Réduction importante<br>ou refus           |
+| Interprétation                      | Critères tous remplis | &ge; 1 critère<br>(et non grave) | ≥ 1 critère                                |
+{{< /table >}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -132,7 +185,6 @@ Pas d’écouvillonnage nasopharyngé.
 
 Indications à la radio de thorax:
 
-- Bronchiolite fébrile
 - Diagnostic incertain
 - Guérison trop lente
 - Gravité évoquant d’autres diagnostiques
@@ -140,41 +192,6 @@ Indications à la radio de thorax:
 ### Gaz du sang
 
 Indication: suspicion d’insuffisance respiratoire.
-
-{{% /collapse %}}
-{{%collapse "Indications à l'hospitalisation" %}}
-
-{{%warning%}}
-
-### Indications à l'hospitalisation lors d'une bronchiolite
-
-Hospitalisation si ≥ 1 signe parmi:
-
-- Âge < 3 mois
-- Prématurité < 35 semaines
-- AEG/aspect toxique
-- Apnée/cyanose
-- Maladie cardio-pulmonaire
-- Immunodépression
-
-Indications susceptibles de justifier une hospitalisation:
-
-- Polypnée > 60-70/min, tirage sous-costal, geignement expiratoire.
-- SpO2 < 92-94% AA au repos ou lors de la prise des biberons.
-- Difficultés d'hydratation, déshydratation avec perte de poids > 5%.
-- Trouble ventilatoire suspecté en clinique, confirmé par la RP.
-- Difficultés psychosociales, accessibilité médicale.
-
-Autres éléments à prendre en compte:
-
-- Facteurs cliniques  
-Importance de l'altération de l'état général, intensité de la gène respiratoire, âge de l'enfant.
-- Données anamnestiques  
-Notion de malaise, antécédents, gène respiratoire traînante.
-
-{{%/warning%}}
-
-**NB.** L'isolement en chambre individuelle n'est pas justifié.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la bronchiolite" %}}
@@ -215,12 +232,12 @@ fièvre ≥ 38,5°C pendant > 48h, OMAP associée, pathologie pulmonaire ou card
 
 #### Anticorps anti-VRS
 
-*Lire reco 2018*.
+*Lire reco 2019*.
 
 ### Kinésithérapie respiratoire
 
 << Recours encouragé selon la clinique >> pour une surveillance ambulatoire.  
-Comprend la DRP, l'expiration lente prolongée/augmentation du flux expiratoire AFE, toux provoquée (TP).  
+Comprend la DRP, l'expiration lente prolongée/augmentation du flux expiratoire (AFE), toux provoquée (TP).  
 Fréquence et nombre total de séances dépendent de l'évolution.
 
 {{%info%}}Selon la Revue Prescrire: pas de place pour la kinésithérapie respiratoire sauf mauvaise compréhension des parents pour assurer une surveillance{{%/info%}}
@@ -291,6 +308,11 @@ Si vous êtes très inquiets, la kinésithérapie respiratoire permet de faire �
 Les autres traitements exposent à des effets indésirables parfois graves.
 
 Les récidives sont possibles mais l'asthme du nourrisson guérit le plus souvent avant ses 3 ans.
+
+{{% /collapse %}}
+{{%collapse "Vidéos de formation" %}}
+
+{{< youtube id="cauyyD9omIY" title="Désobstruction rhinopharyngée (CHU de Besançon)" >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

@@ -43,4 +43,4 @@ todo = ""
 
 {{% /collapse %}}
 
-≤≥±®œŒ³ÂSpO<sub>2</sub>
+≤≥±®œŒÈ³ÂSpO<sub>2</sub>
