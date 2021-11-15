@@ -3,6 +3,7 @@ dev/
 node_modules/
 public/
 resources/
+.hugo_build.lock
 *.log
 TODO.md
 *.xd
