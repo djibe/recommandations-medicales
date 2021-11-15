@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-16T08:08:41+02:00
 publishdate = 2020-11-16
-lastmod = 2021-11-06
+lastmod = 2021-11-15
 specialites = ["pediatrie"]
 annees = "2019"
 sources = ["HAS", "SFP"]
@@ -17,30 +17,29 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "question HAS forme modérée et critères hospit, indication de traitement par palivizumab, flowchart, pouls + SpO2 selon l'âge"
+todo = "FC + SpO2 selon l'âge, relecture"
 +++
 
 {{%article-summary%}}
 
-Ce chapitre est en cours de mise à jour avec les recommandations 2019
-
 - La bronchiolite concerne uniquement les enfants < 12 mois (*asthme du nourrisson* au-delà ou si ≥ 3 épisodes)
 - Éliminer insuffisance cardiaque et pneumopathie
-- Hospitalisation: < 3 mois, prématurité < 35 semaines, < 94% en air ambiant ou selon clinique
-- Durée de 3 à 8 jours (voire 1 mois)
-- DRP - fractionner - surveillance
+- Hospitalisation: voir *Signes de gravité et hospitalisation*
+- Durée de 3 à 10 jours (voire 6 semaines)
+- DRP - fractionner - surveillance - 0 tabac
 - [Fiche conseils aux parents](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 
 {{%/article-summary%}}
 
 {{%collapse "Définitions" %}}
 
-Bronchiolite
+Bronchiolite aiguë (BA)
 : Infection virale respiratoire épidémique du nourrisson (VRS 50-80% des cas, co-infection 10%) d'évolution favorable dans la très grande majorité des cas.
 : Premier épisode aigu de gêne respiratoire (rhinite suivie de signes respiratoires: toux, sibilants, crépitants ± polypnée ± signes de lutte) du nourrisson < 12 mois à tout moment de l'année.
 : Persistance des signes d'obstruction respiratoire pendant 8-10 jours et une toux résiduelle peut persister 15 jours.  
 Guérison spontanée le plus souvent en 3-4 semaines.  
 Taux de récidive élevé: 23 à 60% avant 2 ans.
+: Tabagisme passif: facteur de risque majeur de BA, augmente le risque d'hospitalisation. Le tabagisme pendant la grossesse augmente le risque de BA et la gravité chez le prématuré.
 
 Asthme du nourrisson
 : ≥ 3 épisodes de bronchiolite chez un nourrisson de < 12 mois  
@@ -68,6 +67,7 @@ Hétérogénéité selon les centres.
 
 ### Abréviations
 
+**BA:** bronchiolite aiguë  
 **DRP:** désobstruction rhinopharyngée  
 **NS:** nourrisson  
 **SCM:** sternocléido-mastoidiens
@@ -88,37 +88,51 @@ Hétérogénéité selon les centres.
 - Fistule œso-trachéale
 
 {{% /collapse %}}
-{{%collapse "Signes de gravité" %}}
+{{%collapse "Signes de gravité et hospitalisation" %}}
 
 ### Indications à l'hospitalisation lors d'une première bronchiolite
 
-L'hospitalisation est la règle en présence de signe de gravité (dite *forme grave*).
+L'hospitalisation est la règle en présence de signe de gravité (*forme grave* ou *modérée* avec certains paramètres) avec appel du 15:
 
-- Altération de l'état général
+- Altération de l'état général  
 Modification du comportement, hypotonie, mauvaise impression clinique.
-- Critères de gravité
-  - Fréquence respiratoire sur 1 minute (> 60 ou < 30/min)
+- ≥1 critère de gravité
+  - Fréquence respiratoire sur 1 minute (≥ 70 ou < 30/min)
   - Fréquence cardiaque (> 180 ou < 80/min)
-  - Pauses respiratoires
+  - Apnées/pauses respiratoires
   - Respiration superficielle
   - Signes de lutte respiratoire intenses  
   Mise en jeu des muscles accessoires intercostaux inférieurs, SCM, balancement thoraco abdominal, battement des ailes du nez.
   - Alimentation  
   < 50% de la quantité habituelle sur 3 prises consécutives ou refus alimentaire.
   - SpO<sub>2</sub> < 92%
+  - Prématuré < 36 SA ET < 6 mois en début d'épidémie de VRS (indication palivizumab)
+- Forme modérée avec
+  - Âge corrigé < 2 mois
+  - Comorbidités  
+  Cardiopathie congénitale avec shunt, pathologie pulmonaire chronique dont dysplasie broncho-pulmonaire, déficit immunitaire, pathologie neuromusculaire, polyhandicap, trisomie 21, indication de traitement par palivizumab.
+  - Contexte social ou économique défavorable
+  - Capacité de recours aux soins ne permettant pas un retour au domicile
 
 ### Critères de vulnérabilité
 
-Hospitalisation recommandée en forme modérée avec signe de fragilité et vigilance accrue en forme légère avec fragilité.
+Vigilance accrue en forme légère avec signe de fragilité:
 
-- Début des signes de lutte ou de la toux depuis < 48 heures
-- Âge corrigé < 2 mois
+- Début des des symptômes respiratoires depuis < 48 heures
+- Âge corrigé < 2 mois  
+{{%class%}}Risque d'apnées.{{%/class%}}
 - Prématurité < 36 SA
 - Comorbidités  
 Cardiopathie congénitale avec shunt, pathologie pulmonaire chronique dont dysplasie broncho-pulmonaire, déficit immunitaire, pathologie neuromusculaire, polyhandicap, trisomie 21, indication de traitement par palivizumab.
 - Contexte social ou économique défavorable
 - Tabagisme passif
 - Capacité de recours aux soins ne permettant pas un retour au domicile
+
+#### Indications au palivizumab
+
+- Prématuré < 36 SA ET < 6 mois en début d'épidémie de VRS
+- < 2 ans ayant nécessité un traitement pour dysplasie bronchopulmonaire dans les 6 mois
+- < 2 ans avec cardiopathie congénitale avec retentissement hémodynamique
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -127,9 +141,12 @@ Cardiopathie congénitale avec shunt, pathologie pulmonaire chronique dont dyspl
 
 - Antécédents  
 Asthme, néonataux.
+- Pollution  
+Tabagisme, cannabis, cigarette électronique, poêle à bois.
 - Contage
 - **Incubation 2-8 jours**, élimination en 3-7 jours (pouvant aller jusqu'à 1 mois)  
-La maladie a tendance à s’aggraver sur les 3 premiers jours: noter la date de début.  
+- **Aggravation dans les 48 premières heures**  
+Noter la date de début et tenir compte des facteurs de vulnérabilité et d'environnement.
 - Rhinopharyngite aiguë peu fébrile avec toux sèche, rhinorrhée
 - **Phase d'état**  
 Dyspnée avec polypnée, geignements expiratoires (grunting)
@@ -138,9 +155,10 @@ Dyspnée avec polypnée, geignements expiratoires (grunting)
 
 {{%warning%}}Toujours rechercher une hépatomégalie, seul signe permettant d'éliminer une insuffisance cardiaque aiguë.{{%/warning%}}
 
+- Désinfection des mains et matériel et masque FFP2
 - Constantes
   - Fréquence cardiaque (> 180 ou < 80/min), température
-  - Rythme respiratoire, fréquence respiratoire (sur 1 minute, > 60 ou < 30/min), SpO<sub>2</sub> (éveil en air ambiant, < 92%)
+  - Rythme respiratoire, fréquence respiratoire (sur 1 minute), SpO<sub>2</sub> (éveil et air ambiant)
   - Rechercher une fièvre pour éliminer une surinfection pulmonaire
   - Noter les valeurs dans le dossier
 - AEG
@@ -162,7 +180,7 @@ Dyspnée avec polypnée, geignements expiratoires (grunting)
 ### 3 formes cliniques: légère, modérée et grave
 
 {{< table title="Formes cliniques de la bronchiolite selon HAS/CNPP 2019" class="table-wrap">}}
-| Forme clinique                      | Légère                | Modérée                        | Grave                                       |
+| Forme clinique                      | Légère                | Modérée                        | Grave                                        |
 |-------------------------------------|-----------------------|--------------------------------|----------------------------------------------|
 | AEG                                 | Non                   | Non                            | Oui                                          |
 | FR (/min)                           | &lt; 60               | 60-69                          | &ge; 70 ou &lt; 30<br>ou respiration superficielle |
@@ -194,69 +212,105 @@ Indications à la radio de thorax:
 Indication: suspicion d’insuffisance respiratoire.
 
 {{% /collapse %}}
+{{%collapse "Prévention" %}}
+
+- Allaitement maternel
+- Retarder la mise en collectivité
+- Nourrisson à haut risque de forme grave: ne pas fréquenter en période épidémique
+
+#### Immunoglobulines anti-VRS
+
+[Palivizumab](https://ec.europa.eu/health/documents/community-register/2021/20210701152506/anx_152506_fr.pdf) (Synagis®) mensuel pendant la période épidémique en risque élevé d'infection grave au VRS:
+
+- Prématuré ≤ 35 SA ET < 6 mois en début d'épidémie de VRS
+- < 2 ans ayant nécessité un traitement pour dysplasie bronchopulmonaire dans les 6 mois
+- < 2 ans avec cardiopathie congénitale avec retentissement hémodynamique
+
+L'injection intra-musculaire mensuelle est très douloureuse.
+
+{{% /collapse %}}
 {{%collapse "Traitement de la bronchiolite" %}}
 
 Hospitalisation si critères ci-dessus.
 
 ### Traitement symptomatique
 
+[Fiche conseils aux parents (HAS/CNPP)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
+
+- Désobstruction rhino-pharyngée pluri-quotidienne **DRP**  
+  - Sérum physiologique uniquement
+  - << Les aspirations nasopharyngées ont plus d’effets secondaires et ne sont pas recommandées >>
+- Couchage habituel sur le dos à plat
 - Surveillance régulière de la gêne respiratoire et de l’alimentation  
-Si possible: Fréquence respiratoire, SpO2, température, alimentation, poids, comportement.
+  - Si possible: Fréquence respiratoire, SpO<sub>2</sub>, température, alimentation, poids, comportement
+  - Guérison complète sous 4-6 semaines  
+  Bilan spécialisé si persistance au-delà.
 - Hydratation
 - Alimentation  
-Fractionnement des repas, épaississement des biberons.  
-**NB.** Pas d'intérêt à prescrire un agent anti-reflux.
-- Désobstruction rhino-pharyngée pluri-quotidienne **DRP**  
-{{%class%}}Sérum physiologique uniquement.{{%/class%}}
-- Couchage proclive 30°  
-{{%class%}}Tête en légère extension.{{%/class%}}
+Fractionnement des repas, pas de modification du régime habituel.
 - Proscrire le tabagisme passif
 - Aération correcte de la chambre, température optimale 19°C
 - Lavage des mains à l'eau + savon pluriquotidiens
 - En collectivité: décontamination quotidienne des objets de surface
-- Promouvoir l'allaitement maternel  
-et retarder la mise en collectivité.
+- Promouvoir l'allaitement maternel et retarder la mise en collectivité
+- Collectivité
+  - Fréquentation non souhaitable en phase aiguë
+  - Nourrisson à haut risque de forme grave: ne pas fréquenter en période épidémique
 
-{{%warning%}}Antitussifs, mucolytiques et mucorégulateurs sont contre-indiqués{{%/warning%}}
+{{%warning%}}Ne pas utiliser: bronchodilatateurs, corticoïdes, antibiotiques, anti-reflux, antitussifs et fluidifiants{{%/warning%}}
 
 ### Traitement médical
 
 Réservé à l'hospitalisation.
 
-Rappels:
+#### Pour en savoir plus: rappels
 
 - Oxygénothérapie  
-SpO2 éveil > 94% et SpO2 sommeil > 92% (90% en 2014)
+  - Forme grave: SpO<sub>2</sub> > 94%
+  - Forme modérée avec SpO<sub>2</sub> ≤ 92%: cible > 92% éveil et 90% sommeil
+  - Cardiopathie: cible habituelle ou > 92% par défaut
 - Discuter une antibiothérapie si:
 fièvre ≥ 38,5°C pendant > 48h, OMAP associée, pathologie pulmonaire ou cardiaque sous-jacente, foyer pulmonaire radiologiquement documenté, élévation CRP/PNN.
 
-#### Anticorps anti-VRS
-
-*Lire reco 2019*.
-
 ### Kinésithérapie respiratoire
 
-<< Recours encouragé selon la clinique >> pour une surveillance ambulatoire.  
-Comprend la DRP, l'expiration lente prolongée/augmentation du flux expiratoire (AFE), toux provoquée (TP).  
-Fréquence et nombre total de séances dépendent de l'évolution.
+Globalement non indiquée. Peut se discuter si comorbidités pour une surveillance ambulatoire.  
+Comprend la DRP, l'expiration lente prolongée/augmentation du flux expiratoire (AFE, non recommandée en hospitalisation), toux provoquée (TP).
+
+Sont contre-indiquées: drainage postural, vibration, clapping, désencombrement bronchique (en ambulatoire).
 
 {{%info%}}Selon la Revue Prescrire: pas de place pour la kinésithérapie respiratoire sauf mauvaise compréhension des parents pour assurer une surveillance{{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une dyspnée sifflante" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une dyspnée sifflante. Dr JB FRON d'après HAS/CNPP 2019 et Verstraete 2013" >}}
+{{< mermaid title="Conduite à tenir devant une dyspnée sifflante. Dr JB FRON d'après HAS/CNPP 2019" >}}
 graph TB
   dyspnee[Dyspnée sifflante] --> age(Âge)
   style dyspnee stroke:#4150f5, stroke-width:1px
     age --> moins12(&lt; 12 mois)
-      moins12 --> 1(1<sup>er</sup> épisode) --> bronchiolite(Bronchiolite)
+      moins12 --> 1(1<sup>er</sup> épisode) --> bronchiolite[Bronchiolite]
+      style bronchiolite stroke:#4150f5, stroke-width:1px
+        bronchiolite --> gravite("<b>&ge; 1 signe de gravité?</b><hr>- AEG<br>- FR &ge; 70 ou &lt; 30/min<br>- FC &gt; 180 ou &lt; 80/min<br>- Apnées, tirage intense<br>- SpO2 éveil AA < 92%<br>- Alimentation &lt; 50%<br>- Prématuré &lt; 36 SA ET &lt; 6 mois (palivizumab)<hr>Forme modérée +<br>- Âge corrigé &lt; 2 mois<br>- Comorbidités<br>- Contexte socio-économique<br>- Capacités de recours")
+          gravite -- Non --> impression(Considérations cliniques<br>et signes de fragilité)
+            impression --> legere("<b>Forme légère</b>")
+              legere --> education("- DRP<br>- Consignes de surveillance<br>- Fractionner<br>- 0 tabac")
+                education --> fragilite("<b>Signes de fragilité?</b><hr>- Début &lt; 48h<br>- Prématurité &lt; 36 SA<br>- Tabagisme passif<br>- Capacité de recours aux soins<hr>Forme légère +<br>- Âge corrigé &lt; 2 mois<br>- Comorbidités<br>- Contexte socio-économique")
+                  fragilite -- Oui --> vigilance(Surveillance quotidienne)
+                  fragilite -- Modérée + fragilité --> consultation(Consultation quotidienne)
+            impression --> moderee("<b>Forme modérée</b>")
+              moderee --> education
+          gravite -- Oui --> hospitalisation(Appel du 15 et<br>hospitalisation)
       moins12 --> 2(2<sup>e</sup> épisode) --> atopie(Atopie personnelle<br>ou familiale ?)
         atopie -- Non --> bronchiolite
         atopie -- Oui --> asthme
       moins12 --> 3(3<sup>e</sup> épisode) --> asthme(Asthme du nourrisson)
     age --> plus12("&ge; 12 mois") --> asthme
+    age -- Diagnostic différentiel --> differentiel("- Insuff. cardiaque<br>- Exacerbation d'asthme<br>- Pneumopathie<br>- Laryngotrachéomalacie<br>- Corps étranger<br>- RGO<br>- Anneau vasculaire<br>- Allergie<br>- Fibrose kystique<br>
+- Masse médiastinale<br>- Fistule œso-trachéale")
 {{< /mermaid >}}
+
+> AA = air ambiant; Alimentation considérées sur 3 prises consécutives; FC = fréquence cardiaque; FR = fréquence respiratoire
 
 {{%/collapse%}}
 {{%collapse "Bronchiolite et Permanence des soins" %}}
@@ -307,8 +361,6 @@ Il n’existe pas de traitement miracle, les lavages de nez et la surveillance d
 Si vous êtes très inquiets, la kinésithérapie respiratoire permet de faire évaluer l’enfant tous les jours par un professionnel.
 Les autres traitements exposent à des effets indésirables parfois graves.
 
-Les récidives sont possibles mais l'asthme du nourrisson guérit le plus souvent avant ses 3 ans.
-
 {{% /collapse %}}
 {{%collapse "Vidéos de formation" %}}
 
@@ -321,7 +373,5 @@ Les récidives sont possibles mais l'asthme du nourrisson guérit le plus souven
 - [HAS et Collège National Professionnel de Pédiatrie. Prise en charge du premier épisode de bronchiolite aiguë chez le nourrisson de moins de 12 mois. Novembre 2019.](https://www.has-sante.fr/upload/docs/application/pdf/2019-11/hascnpp_bronchiolite_texte_recommandations_2019.pdf)
 - [Société Canadienne de Pédiatrie. Recommandations pour le diagnostic, la surveillance et les prise en charge des enfants de un à 24 mois. 31/01/2018.](https://www.cps.ca/fr/documents/position/bronchiolitis1)
 - Prescrire Rédaction. Bronchiolite chez un nourrisson. Octobre 2017.
-- [Haute Autorité de Santé. Pertinence du recours à l’hospitalisation pour bronchiolite (GHM 04M18). 04/2013](https://www.has-sante.fr/upload/docs/application/pdf/2013-04/pertinence_du_recours_a_lhospitalisation_pour_bronchiolite.pdf)
-- Société Française de Pédiatrie. Prise en charge de la bronchiolite du nourrisson. Septembre 2000.
 
 {{% /collapse %}}
