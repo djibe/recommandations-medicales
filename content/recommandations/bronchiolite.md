@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-16T08:08:41+02:00
 publishdate = 2020-11-16
-lastmod = 2021-11-15
+lastmod = 2021-11-16
 specialites = ["pediatrie"]
 annees = "2019"
 sources = ["HAS", "SFP"]
@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "FC + SpO2 selon l'âge, relecture"
+todo = "avis CT, FC + SpO2 selon l'âge, relecture"
 +++
 
 {{%article-summary%}}
@@ -97,7 +97,7 @@ L'hospitalisation est la règle en présence de signe de gravité (*forme grave*
 - Altération de l'état général  
 Modification du comportement, hypotonie, mauvaise impression clinique.
 - ≥1 critère de gravité
-  - Fréquence respiratoire sur 1 minute (≥ 70 ou < 30/min)
+  - Fréquence respiratoire sur 1 minute (> 60 ou < 30/min)
   - Fréquence cardiaque (> 180 ou < 80/min)
   - Apnées/pauses respiratoires
   - Respiration superficielle
@@ -106,7 +106,7 @@ Modification du comportement, hypotonie, mauvaise impression clinique.
   - Alimentation  
   < 50% de la quantité habituelle sur 3 prises consécutives ou refus alimentaire.
   - SpO<sub>2</sub> < 92%
-  - Prématuré < 36 SA ET < 6 mois en début d'épidémie de VRS (indication palivizumab)
+  - Prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j ET < 6 mois en début d'épidémie de VRS (indication palivizumab)
 - Forme modérée avec
   - Âge corrigé < 2 mois
   - Comorbidités  
@@ -130,8 +130,8 @@ Cardiopathie congénitale avec shunt, pathologie pulmonaire chronique dont dyspl
 
 #### Indications au palivizumab
 
-- Prématuré < 36 SA ET < 6 mois en début d'épidémie de VRS
-- < 2 ans ayant nécessité un traitement pour dysplasie bronchopulmonaire dans les 6 mois
+- Prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j ET < 6 mois en début d'épidémie de VRS
+- < 2 ans en début épidémique, prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j et ayant nécessité un traitement pour dysplasie bronchopulmonaire dans les 6 mois
 - < 2 ans avec cardiopathie congénitale avec retentissement hémodynamique
 
 {{% /collapse %}}
@@ -222,11 +222,11 @@ Indication: suspicion d’insuffisance respiratoire.
 
 [Palivizumab](https://ec.europa.eu/health/documents/community-register/2021/20210701152506/anx_152506_fr.pdf) (Synagis®) mensuel pendant la période épidémique en risque élevé d'infection grave au VRS:
 
-- Prématuré ≤ 35 SA ET < 6 mois en début d'épidémie de VRS
-- < 2 ans ayant nécessité un traitement pour dysplasie bronchopulmonaire dans les 6 mois
+- Prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j ET < 6 mois en début d'épidémie de VRS
+- < 2 ans en début épidémique, prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j et ayant nécessité un traitement pour dysplasie bronchopulmonaire dans les 6 mois
 - < 2 ans avec cardiopathie congénitale avec retentissement hémodynamique
 
-L'injection intra-musculaire mensuelle est très douloureuse.
+L'injection intra-musculaire mensuelle est très douloureuse (max 5 injections).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la bronchiolite" %}}
@@ -291,7 +291,7 @@ graph TB
     age --> moins12(&lt; 12 mois)
       moins12 --> 1(1<sup>er</sup> épisode) --> bronchiolite[Bronchiolite]
       style bronchiolite stroke:#4150f5, stroke-width:1px
-        bronchiolite --> gravite("<b>&ge; 1 signe de gravité?</b><hr>- AEG<br>- FR &ge; 70 ou &lt; 30/min<br>- FC &gt; 180 ou &lt; 80/min<br>- Apnées, tirage intense<br>- SpO2 éveil AA &lt; 92%<br>- Alimentation &lt; 50%<br>- Prématuré &lt; 36 SA ET &lt; 6 mois (palivizumab)<hr>Forme modérée +<br>- Âge corrigé &lt; 2 mois<br>- Comorbidités<br>- Contexte socio-économique<br>- Capacités de recours")
+        bronchiolite --> gravite("<b>&ge; 1 signe de gravité?</b><hr>- AEG<br>- FR &gt; 60 ou &lt; 30/min<br>- FC &gt; 180 ou &lt; 80/min<br>- Apnées, tirage intense<br>- SpO2 éveil AA &lt; 92%<br>- Alimentation &lt; 50%<br>- Prématuré &le; 34 SA avec O2dep ET &lt; 6 mois (palivizumab)<hr>Forme modérée +<br>- Âge corrigé &lt; 2 mois<br>- Comorbidités<br>- Contexte socio-économique<br>- Capacités de recours")
           gravite -- Non --> impression(Considérations cliniques<br>et signes de fragilité)
             impression --> legere("<b>Forme légère</b>")
               legere --> education("- DRP<br>- Consignes de surveillance<br>- Fractionner<br>- 0 tabac")
@@ -370,8 +370,9 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 {{%collapse "Sources" %}}
 
 - [Santé Publique France. Bronchiolite. 03/11/2021.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite)
-- [HAS et Collège National Professionnel de Pédiatrie. Prise en charge du premier épisode de bronchiolite aiguë chez le nourrisson de moins de 12 mois. Novembre 2019.](https://www.has-sante.fr/upload/docs/application/pdf/2019-11/hascnpp_bronchiolite_texte_recommandations_2019.pdf)
+- [HAS et Collège National Professionnel de Pédiatrie. Prise en charge du premier épisode de bronchiolite aiguë chez le nourrisson de moins de 12 mois. Novembre 2019.](https://www.has-sante.fr/jcms/p_3118113/fr/prise-en-charge-du-1er-episode-de-bronchiolite-aigue-chez-le-nourrisson-de-moins-de-12-mois)
 - [Société Canadienne de Pédiatrie. Recommandations pour le diagnostic, la surveillance et les prise en charge des enfants de un à 24 mois. 31/01/2018.](https://www.cps.ca/fr/documents/position/bronchiolitis1)
 - Prescrire Rédaction. Bronchiolite chez un nourrisson. Octobre 2017.
+- [HAS. Synagis. Commission de la transparence. 05/04/2017.](https://www.has-sante.fr/jcms/c_2756580/fr/synagis-palivizumab)
 
 {{% /collapse %}}

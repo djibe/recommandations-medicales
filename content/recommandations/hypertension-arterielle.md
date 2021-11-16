@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2021-10-13"
+lastmod = "2021-11-16"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESH", "ESC"]
@@ -16,7 +16,7 @@ sctid = "38341003"
 draft = false
 image = true
 imageSrc = "Illustration de l'hypertension artérielle par vectorjuice / Freepik"
-todo = "modale automesure, Bernatos plus de 80 ans dépendants polypatho ( ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, liens vers la fiche, hypotension orthostatique, Le tensiomètre électronique dans modale, ESC 2018 tableau 4+19 - src157, HTA et grossesse"
+todo = "modale automesure, A LIRE, Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, hypotension orthostatique, Le tensiomètre électronique dans modale, ESC 2018 tableau 4+19 - src157"
 +++
 
 Ces recommandations concernent l'adulte ≥ 18 ans.
@@ -210,6 +210,7 @@ L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hyp
 | Insuffisance cardiaque | &lt; 140/90 (comorbidités) | ESC 2021 HF |
 | Insuffisance rénale | &lt; 120/90     | KDIGO 2021 |
 | Greffe rénale       | &lt; 130/80     | KDIGO 2021 |
+| Grossesse           | &lt; 140/90     | ESC 2018   |
 {{< /table >}}
 
 > Une PAD 70-79 mmHg ets la cible pour tout hypertendu.
@@ -373,6 +374,40 @@ Hypertension résistante: avis spécialisé + RHD rappelées + ajout de spironol
   - Emballage façon pilulier
 
 {{% /collapse %}}
+{{%collapse "HTA et grossesse" %}}
+
+Particularités de l'hypertension pendant la grossesse:
+
+- Seuil diagnostique habituel: PAS ≥ 140 mmHg et/ou PAD ≥ 90 mmHg avec brassard manuel
+- Classification différente
+  - HTA modérée: 140-159/90-109 mmHg
+  - HTA sévère: ≥ 160/110 mmHg  
+  Urgence si ≥ 170/110 mmHg
+- [Tensiomètres pour la grossesse](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=pregnancy)
+- Définitions
+  - HTA pré-existante: précède la grossesse ou apparaît avant 20 semaines de grossesse, persiste > 6 semaines post-partum ± protéinurie
+  - HTA gestationnelle: apparaît après 20 semaines de grossesse et se résout généralement dans les 6 semaines post-partum
+  - HTA pré-existante avec HTA gestationnelle surajoutée avec protéinurie
+  - Pré-éclampsie: HTA gestationnelle avec protéinurie ≥ 30 mg/mmol (*chapitre spécifique à venir*)
+  - Hypertension anténatale non classifiée: découverte après 20 semaines de grossesse sans connaissance de valeurs pré-gestationnelles. La surveillance après 6 semaines du post-partum aide au diagnostic rétrospectif.
+- Bilan mensuel  
+BU (albuminurie si protéines +), NFS, ASAT, ALAT, créatininémie, uricémie.
+- Bilan étiologique
+  - Échodoppler des artères utérines (après 22 SA)
+  - Recherche signes de phéochromocytome
+
+### Traitement de l'hypertension pendant la grossesse
+
+Traiter:
+
+- HTA gestationnelle (ou surajoutée) ou compliquée > 140/90 mmHg
+- Toutes les autres femmes avec HTA persistante ≥ 150/95 mmHg
+- Cible (mal connue) < 140/90 mmHg si traitement antihypertenseur
+
+Traitements de préférence: Methyldopa, labétalol, ICa.  
+Contre-indications aux IEC/ARA2 et inhibiteurs de la rénine.
+
+{{% /collapse %}}
 {{%collapse "FMC gratuite" %}}
 
 {{< card-link title="Blood pressure monitoring" url="https://stridebp.dayonetech.uk/login.aspx" subtitle="Par les ESH et ISH">}}
@@ -385,6 +420,10 @@ Hypertension résistante: avis spécialisé + RHD rappelées + ajout de spironol
 - {{< references/esc-hta >}}
 - [HAS, SFHTA. Prise en charge de l'hypertension artérielle de l'adulte. Fiche mémo. Septembre 2016.](https://www.has-sante.fr/jcms/c_2059286/fr/prise-en-charge-de-l-hypertension-arterielle-de-l-adulte)
 - [SFHTA. Hypertension artérielle du sujet noir. Décembre 2017.](https://www.sfhta.eu/wp-content/uploads/2018/10/SFHTA_Fiche_technique_HTA-du-sujet-noir_Decembre-2017.pdf)
+
+### À lire
+
+- [Xi B et al. Establishing International Blood Pressure References Among Nonoverweight Children and Adolescents Aged 6 to 17 Years. Circulation. 2016;133(4):398-408.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729639/#SD1)
 
 {{% /collapse %}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}

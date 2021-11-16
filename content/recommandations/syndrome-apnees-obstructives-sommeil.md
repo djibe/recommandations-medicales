@@ -164,7 +164,7 @@ Surtout si hypertension résistante, insuffisance rénale d'évolution rapide, r
 - Maladie cardiovasculaire
   - Coronaropathie
   - [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) (71%)
-  - Hypertension artérielle résistante (73-82%)
+  - [Hypertension artérielle résistante]({{< relref "hypertension-arterielle.md" >}}) (73-82%)
   - Insuffisance respiratoire
   - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
   - Fibrillation atriale (76-85%)

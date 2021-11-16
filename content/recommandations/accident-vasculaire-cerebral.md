@@ -37,7 +37,7 @@ Accident vasculaire cérébral (AVC)
 : Déficit neurologique survenant par interruption de la vascularisation cérébrale ou parfois par un saignement intra-cérébral (hémorragie intra-parenchymateuse HIP).
 : 2 types: l'*accident ischémique* (AIC, 88%) par caillot occlusif (athérosclérose, embole cardiaque)  
 et l'*accident hémorragique* par rupture artérielle (HTA, anévrisme, MAV, tumeur).
-: La survenue d'un AVC/AIT détermine un *très haut risque cardiovasculaire*.
+: La survenue d'un AVC/AIT détermine un {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}}.
 
 Accident ischémique transitoire (AIT)
 : **Urgence vitale** par déficit neurologique ou rétinien transitoire (typiquement < 1h) sans anomalie à l'imagerie cérébrale.  
@@ -137,7 +137,8 @@ Si le patient appelle au cabinet, transférer l'appel au {{<phone>}}15{{</phone>
 - Pancréatite aiguë.
 - Ulcères gastro-intestinaux documentés au cours des 3 derniers mois, varices œsophagiennes, anévrisme artériel, malformations artérielles ou veineuses.
 - Néoplasie majorant le risque hémorragique.
-- Hépatopathie sévère (insuffisance hépatique, cirrhose, hypertension portale, varices œsophagiennes, hépatite évolutive).
+- Hépatopathie sévère  
+Insuffisance hépatique, cirrhose, hypertension portale, varices œsophagiennes, hépatite évolutive.
 - Intervention chirurgicale ou traumatismes importants au cours des 3 derniers mois.
 
 ### Contre-indications en cas d'accident vasculaire cérébral aigu
@@ -149,11 +150,11 @@ Si le patient appelle au cabinet, transférer l'appel au {{<phone>}}15{{</phone>
 - Signes d'hémorragie intracrânienne (HIC) au scanner.
 - Symptômes suggérant une hémorragie sous-arachnoïdienne, même en l'absence d'anomalie au scanner.
 - Administration d'héparine au cours des 48 heures précédentes, avec TCA dépassant la limite supérieure de la normale.
-- Diabétique avec ATCD d'AVC.
-- AVC récent < 3 mois.
-- Plaquettes inférieures à 100.000/mm3.
-- PAS > 185 mmHg ou PAD > 110 mmHg, ou traitement d'attaque IV nécessaire pour réduire la pression artérielle à ces valeurs seuils.
-- Glycémie inférieure à 50 mg/dL ou supérieure à 400 mg/dL (< 2,8 mmol/l ou > 22,2 mmol/l).
+- Diabétique avec antécédent d'AVC
+- AVC récent (< 3 mois)
+- Plaquettes inférieures à 100.000/mm³
+- PAS > 185 mmHg ou PAD > 110 mmHg, ou traitement d'attaque IV nécessaire pour réduire la pression artérielle à ces valeurs seuils
+- Glycémie inférieure à 50 mg/dL ou supérieure à 400 mg/dL (< 2,8 mmol/l ou > 22,2 mmol/l)
 
 > *[Source BDPM](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67177673&typedoc=R#RcpContreindications)*
 

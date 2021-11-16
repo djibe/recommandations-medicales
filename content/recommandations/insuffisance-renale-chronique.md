@@ -63,7 +63,7 @@ Insuffisance rénale chronique terminale (IRCT)
 
 3 millions de français atteints de maladie rénale chronique (7-10% des adultes) avec un dépistage insuffisant.
 
-9500 nouveaux dialysés par an, augmentation de 4%/an, liés aux facteurs de risque cardiovasculaires: **hypertension artérielle** et **diabète** pour la moitié des cas.
+9500 nouveaux dialysés par an, augmentation de 4%/an, liés aux facteurs de risque cardiovasculaires: [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) et **diabète** pour la moitié des cas.
 
 Fin 2018: 89.692 malades en suppléance (55% dialyse et 45% greffés).  
 4 milliards d'euros annuels (82% pour la dialyse).

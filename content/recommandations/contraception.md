@@ -17,7 +17,7 @@ draft = false
 datatable = false
 image = true
 imageSrc = "La contraception illustrée par stories / Freepik"
-todo = "fiche patiente, https://www.has-sante.fr/jcms/p_3261764/fr/contraception, https://ansm.sante.fr/actualites/contraception-ou-en-sommes-nous, stérilisation, nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, 5% dev HTA sous COP ESC 2018, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, barrière"
+todo = "fiche patiente, https://www.has-sante.fr/jcms/p_3261764/fr/contraception, https://ansm.sante.fr/actualites/contraception-ou-en-sommes-nous, stérilisation, nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, 5% dev HTA sous COP ESC 2018, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, barrière, contraception et HTA ESC 2018"
 +++
 
 {{%article-summary%}}
@@ -59,7 +59,7 @@ Seuls les COP contenant ≥ 50 µg d'EE sont associées au risque d'accident art
   - IDM/AVC chez homme < 55 ans ou femme < 65 ans
   - MVTE (TVP, EP) < 50 ans  
   Ou nombre élevé d'apparentés quelque soit le degré.
-- Hypertension artérielle
+- [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
 - Dyslipidémie non contrôlée
 - Diabète type 1 > 20 ans ou compliqué
 - Migraine avec aura

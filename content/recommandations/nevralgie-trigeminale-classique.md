@@ -37,7 +37,7 @@ Névralgie trigéminale classique (NTC)
 Maladie rare atteignant le nerf trijumeau qui évolue par poussées douloureuses chez des sujets d'âge moyen (60 ans) avec 2/3 de femmes.
 : Un conflit vasculo-nerveux est le facteur causal majeur de la NTC.  
 Il se produit au niveau de la citerne pré-pontique entre une méga-dolicho-artère (artère cérébelleuse antéro-supérieure ++) et la portion centrale de la racine à l’origine de démyélinisation.  
-Ce conflit est aggravé par l’**hypertension artérielle**.
+Ce conflit est aggravé par l’[hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}).
 : Les poussées durent 49 jours (médiane). 1/3 des patients n'a pas de récidive et des périodes de rémissions variables sont fréquentes.
 
 Nerf trijumeau
