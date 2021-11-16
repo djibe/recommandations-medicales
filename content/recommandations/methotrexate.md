@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-20T19:04:41+02:00
 publishdate = 2020-09-20
-lastmod = 2020-09-20
+lastmod = 2021-11-16
 specialites = ["therapeutique"]
-annees = "2013"
-sources = ["HAS"]
+annees = "2020"
+sources = ["HAS", "ANSM"]
 tags = ["acide folique"]
 anglais = ["Methotrexate"]
 sctid = "387381009"
@@ -19,8 +19,8 @@ todo = "complications, EI"
 
 {{%article-summary%}}
 
-- Préciser le jour de la prise unique sur l'ordonnance.
-- Associer l'acide folique 5 mg 1cp en 1 prise/sem 48h après le MTX.
+- Préciser le jour de la prise unique sur l'ordonnance
+- Associer l'acide folique 5 mg 1cp en 1 prise/sem 48h après le MTX
 
 {{%/article-summary%}}
 {{%collapse "Contre-indications" %}}
@@ -50,11 +50,11 @@ Peut survenir à tout moment même à faible dose.
 {{%collapse "Bilan pré-thérapeutique" %}}
 
 - Recherche de foyer infectieux  
-NFS, sérologies hépatites, quantiféron
+NFS, sérologies VHB et VHC, quantiféron.
 - BH, BR, albumine, ionogramme
 - Radiographie thoracique  
 Systématique avant de débuter le traitement.
-- Echo abdo
+- Échographie abdominale
 - Fibroscan
 - bHCG
 - Spirométrie si:  
@@ -72,7 +72,7 @@ Systématique avant de débuter le traitement.
 {{% /collapse %}}
 {{%collapse "Co-prescription" %}}
 
-{{% info %}}Acide folique 5mg, 1cp 2 jours après la prise du méthotrexate.{{% /info %}}
+{{% info %}}Acide folique 5mg, 1cp 2 jours après la prise du méthotrexate{{% /info %}}
 
 La supplémentation en acide folique (vitamine B9) réduit les effets indésirables:
 
@@ -96,9 +96,9 @@ ou Cancer: Prise selon le protocole de chimiothérapie
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [ANSM. Médicaments à base de méthotrexate - Recommandations visant à éviter les erreurs de prise potentiellement fatales lors de l’utilisation du méthotrexate dans le traitement des maladies inflammatoires - Lettre aux professionnels de santé. 09/04/2020](https://www.ansm.sante.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Medicaments-a-base-de-methotrexate-Recommandations-visant-a-eviter-les-erreurs-de-prise-potentiellement-fatales-lors-de-l-utilisation-du-methotrexate-dans-le-traitement-des-maladies-inflammatoires-Lettre-aux-professionnels-de-sante)
+- [ANSM. Médicaments à base de méthotrexate - Recommandations visant à éviter les erreurs de prise potentiellement fatales lors de l’utilisation du méthotrexate dans le traitement des maladies inflammatoires - Lettre aux professionnels de santé. 09/04/2020.](https://www.ansm.sante.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Medicaments-a-base-de-methotrexate-Recommandations-visant-a-eviter-les-erreurs-de-prise-potentiellement-fatales-lors-de-l-utilisation-du-methotrexate-dans-le-traitement-des-maladies-inflammatoires-Lettre-aux-professionnels-de-sante)
 - [GETAID. Méthotrexate.](https://www.getaid.org/fiches-medicament/le-methotrexate-ledertrexate-methotrexate-metoject-nordimet-novatrex)
 - [CRI. Comment optimiser l'efficacité du méthotrexate ?](http://www.cri-net.com/ckfinder/userfiles/files/fiches-pratiques/MTX-Dec2016/MTX_02.pdf)
-- [HAS. Commission de la transparence. 20/11/2013](https://www.has-sante.fr/upload/docs/evamed/CT-12801_NOVATREX_PIS_RI_Avis1_CT12801.pdf)
+- [HAS. Commission de la transparence. 20/11/2013.](https://www.has-sante.fr/upload/docs/evamed/CT-12801_NOVATREX_PIS_RI_Avis1_CT12801.pdf)
 
 {{% /collapse %}}
