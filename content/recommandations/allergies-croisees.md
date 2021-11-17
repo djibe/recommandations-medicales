@@ -28,7 +28,7 @@ todo = ""
 
 Allergie croisée
 : Manifestation clinique d'allergie vis-à-vis de substances différentes en l'absence de sensibilisation préalable par un mécanisme immunologique IgE-médié.
-: 20-33% des populations européennes sont allergiques aux pollens de bouleau et de graminées. Sensibilisation aux fruits de 34-70% en allergie au bouleau.
+: 20-33% des populations européennes sont allergiques aux pollens de bouleau et de graminées. Sensibilisation aux fruits de 34-70% en cas d'allergie au bouleau.
 
 {{% /collapse %}}
 {{%collapse "Principales allergies croisées" %}}
@@ -83,7 +83,7 @@ Acariens présents dans les aliments: récipients hermétiques au congélateur.
 ### Allergies aux pollens
 
 - Alerte pollinique: [pollens.fr](https://www.pollens.fr/)
-- Éviter les promenades en prairies et chemins en alerte pollinique forte
+- Éviter les promenades en prairies et chemins en cas d'alerte pollinique forte
 - Fermer les fenêtres en milieu de matinée et début d'après-midi
 - Fermer les fenêtres en voiture
 - Ne pas tondre soi-même

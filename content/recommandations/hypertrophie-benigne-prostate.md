@@ -16,7 +16,7 @@ sctid = ""
 draft = true
 image = false
 imageSrc = ""
-todo = "scores IPSS et IIEF, Prescrire, https://uroweb.org/guideline/treatment-of-non-neurogenic-male-luts/#5"
+todo = "résumé, scores IPSS et IIEF, Prescrire, https://uroweb.org/guideline/treatment-of-non-neurogenic-male-luts/#5"
 +++
 
 Ces recommandations sont limitées au traitement de l'HBP non compliquée l'homme ≥ 50 ans.

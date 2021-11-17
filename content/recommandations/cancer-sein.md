@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
 publishdate = "2021-11-03"
-lastmod = "2021-11-07"
+lastmod = "2021-11-17"
 specialites = ["gynecologie-obstetrique"]
 annees = "2017"
 sources = ["HAS", "InCa"]
@@ -16,7 +16,7 @@ sctid = "254837009"
 draft = false
 image = true
 imageSrc = "Le cancer du sein - Illustration par Freepik"
-todo = "algorithme 2 et 3, EI hormonothérapie, perruque InCa, epidemio"
+todo = "revoir ttt > gg sentinelle, algorithme 2 et 3, EI hormonothérapie, perruque InCa"
 +++
 
 {{%article-summary%}}
@@ -25,12 +25,10 @@ todo = "algorithme 2 et 3, EI hormonothérapie, perruque InCa, epidemio"
 - Palpation mammaire annuelle à partir de 25 ans
 - Dépistage spécifique si risque élevé ou très élevé (voir *Niveaux de risque*)
 - En antécédents familiaux, calcul du {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}}
-- Mammographies, échographie mammaire bilatérales et avis rapide en anomalie clinique
+- En cas de suspicion de lésion du sein: mammographie, échographie mammaire bilatérales et avis sénologique
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
-
-*NB.* Lors de la mention d'*antécédent*, il est sous-entendu *antécédent personnel*.
 
 Cancer du sein
 : 90% diagnostiqués suite à un dépistage.
@@ -49,12 +47,12 @@ Maladie de Paget du mamelon
 ### Facteurs de risque de cancer du sein
 
 - Sexe  
-< 1% chez l'homme.
+{{%class%}}< 1% chez l'homme.{{%/class%}}
 - Âge  
-78% après 50 ans.
+{{%class%}}78% après 50 ans.{{%/class%}}
 - Prédisposition génétique (5-10%)
-- Antécédent de cancer du sein
-- Antécédent de radiothérapie thoracique à haut dose
+- Antécédent personnel de cancer du sein
+- Antécédent personnel de radiothérapie thoracique à haute dose
 
 ### Diagnostic différentiel
 
@@ -78,7 +76,8 @@ Très fréquente (50-80% de 30 à 50 ans). Associée à une augmentation du risq
 ### Abréviations
 
 **DO:** programme de dépistage organisé du cancer du sein  
-**HER2:** {{%lang%}}Human Epidermal Growth Factor Receptor-2{{%/lang%}}
+**HER2:** {{%lang%}}Human Epidermal Growth Factor Receptor-2{{%/lang%}}  
+**RCP:** réunion de concertation pluridisciplinaire
 
 {{% /collapse %}}
 {{%collapse "Niveaux de risque de cancer du sein" %}}
@@ -221,14 +220,30 @@ Biopsie échoguidée (sénologue, radiologue) puis avis sénologique rapide.
 - Institut Gustave Roussy (IGR)
   - Pas encore de diagnostic (fournir les examens): [en ligne](https://rdv.gustaveroussy.fr/) ou {{<phone>}}01 42 11 64 33{{</phone>}} (lun-ven 8:45-12:45 et 13:45-16:00)
   - Diagnostic posé mais pas encore suivie: {{<phone>}}01 42 11 64 33{{</phone>}} (oncologie)
-  - 2e avis médical: [fiche](https://www.gustaveroussy.fr/sites/default/files/gustaveroussy-2d-avis-sein-form.docx) à renvoyer à <avis.sein@gustaveroussy.fr>
+  - 2<sup>e</sup> avis médical: [fiche](https://www.gustaveroussy.fr/sites/default/files/gustaveroussy-2d-avis-sein-form.docx) à renvoyer à <avis.sein@gustaveroussy.fr>
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Chirurgie, radiothérapie, chimiothérapie, hormonothérapie (récepteur estrogène ou progestérone), thérapies ciblées (bévacizumab, HER2).
+Après RCP peuvent être proposés: Chirurgie, radiothérapie, chimiothérapie, hormonothérapie (récepteur estrogène ou progestérone), thérapies ciblées (bévacizumab, HER2).
 
-### Traitements selon la tumeur
+### Mesures associées
+
+- Femme non ménopausée: contraception non hormonale (préservatif, DIU cuivre)  
+Désir d'enfant, sur avis oncologique.
+- Contre-indication à vie au THM
+- Consignes pour le lymphœdème  
+Voir *Surveillance après cancer*.
+- Prévention de la radiodermite
+  - Savons naturels sans parfums ni alcool
+  - Éviter crème et déodorant
+  - Éviter les vêtements synthétiques
+  - Limiter l'exposition solaire
+  - Hygiène rigoureuse et pommades émollientes
+- Associations  
+[étincelle](http://www.etincelle.asso.fr/), [Europa Donna](http://www.europadonna.fr/), [Rose up](https://www.rose-up.fr/#1), [Skin](https://associationskin.org/), [Vivre Comme Avant](https://www.vivrecommeavant.fr/).
+
+### Pour en savoir plus: Principes des traitements selon la tumeur
 
 - Carcinome *in situ*
   - Tumorectomie voire mastectomie
@@ -247,22 +262,6 @@ Chimiothérapie ± hormonothérapie.
   - Tumorectomie: possible après quelques semaines-mois
   - Mastectomie: prothèse mammaire externe, reconstruction à distance de la guérison
 
-### Mesures associées
-
-- Femme non ménopausée: contraception non hormonale (préservatif, DIU cuivre)  
-Désir d'enfant, sur avis oncologique.
-- Contre-indication à vie au THM
-- Consignes pour le lymphœdème  
-Voir *Surveillance après cancer*.
-- Prévention de la radiodermite
-  - Savons naturels sans parfums ni alcool
-  - Éviter crème et déodorant
-  - Éviter les vêtements synthétiques
-  - Limiter l'exposition solaire
-  - Hygiène rigoureuse et pommades émollientes
-- Associations  
-[étincelle](http://www.etincelle.asso.fr/), [Europa Donna](http://www.europadonna.fr/), [Rose up](https://www.rose-up.fr/#1), [Skin](https://associationskin.org/), [Vivre Comme Avant](https://www.vivrecommeavant.fr/).
-
 {{% /collapse %}}
 {{%collapse "Surveillance après cancer du sein" %}}
 
@@ -273,11 +272,11 @@ Voir *Surveillance après cancer*.
   - Palpation des seins
   - Aires ganglionnaires
 - Mammographie annuelle (bilatérale si tumorectomie) ± échographie mammaire
-  - Tumorectomie: la 1<sup>re</sup> homolatérale est réalisée au moins 6 mois après la fin de la radiothérapie.
+  - Tumorectomie: la 1<sup>re</sup> mammographie homolatérale est réalisée au moins 6 mois après la fin de la radiothérapie.
 - Tamoxifène (SERM)  
 Échographie pelvienne et suivi gynécologique annuel.
 - Antiaromatase
-  - Ostéodensitométrie /1-3 ans
+  - Ostéodensitométrie tous les 1-3 ans
   - Bilan lipidique annuel
 - Thérapie ciblée  
 Échocardiographies.
@@ -289,8 +288,8 @@ TSH régulière.
 - Kinésithérapie (massage, drainage lymphatique)
 - Éviter le port de charges lourdes, mouvements répétés longuement
 - Éviter les prises de sang, de tension et injections
-- Désinfection immédiate en blessure
-- Gants de protection en activité à risque de blessure
+- Désinfection immédiate si blessure
+- Gants de protection si activité à risque de blessure
 - Savoir identifier les signes de lymphangite et consulter en urgence devant: œdème augmenté, rougeur, chaleur, fièvre
 
 ### Prothèses mammaires externes

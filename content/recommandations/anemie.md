@@ -6,7 +6,7 @@ synonyms = ["Carence en fer", "anémie ferriprive"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-08T13:02:19+02:00"
 publishdate = "2021-10-12"
-lastmod = "2021-11-08"
+lastmod = "2021-11-17"
 specialites = ["hematologie"]
 annees = "2021"
 sources = ["BSG", "SNFGE"]
@@ -46,7 +46,7 @@ Ferritinémie
 Elle est augmentée en inflammation, mais même en sa présence une ferritinémie > 150 ng/mL rend peu probable une carence en fer.
 : Recherche endoscopique quand anémie avec ferritinémie < 45 ng/mL (spécificité 0,92), surtout si inflammation chronique.
 
-{{< table title="Seuil du diagnostic de l'anémie au niveau de la mer. Dr JB Fron d'après OMS 2011" >}}
+{{< table title="Seuil du diagnostic de l'anémie au niveau de la mer. Dr JB Fron d'après OMS 2011" class="table-sm" >}}
 | Population (années) | Seuil (g/dL) |
 |--------------------:|-------------:|
 |            6 mois-4 | 11           |
@@ -57,9 +57,9 @@ Elle est augmentée en inflammation, mais même en sa présence une ferritinémi
 | Homme &ge; 15       | 13           |
 {{< /table >}}
 
-> T: trimestre. Correction de -0,2 g/dL à 1000 mètres et -0,5 à 1500 mètres au dessus du niveau de la mer
+> T = trimestre. Correction de -0,2 g/dL à 1000 mètres et -0,5 à 1500 mètres au dessus du niveau de la mer
 
-{{< table title="Ajustement du taux d'hémoglobine pour les fumeurs. Dr JB Fron d'après OMS 2011" >}}
+{{< table title="Ajustement du taux d'hémoglobine pour les fumeurs. Dr JB Fron d'après OMS 2011" class="table-sm" >}}
 | Tabagisme    | Ajustement du taux d'Hb (g/dL) |
 |--------------|-------------------------------:|
 | Non          | 0&nbsp;&nbsp;                  |
@@ -80,13 +80,12 @@ Microcytose
 - Femme non ménopausée  
 Les menstruations sont responsables de la perte en fer.
 - Hommes et femmes ménopausées  
-  La perte est toujours intestinale et une cause tumorale doit être recherchée.  
-  Autres causes fréquentes: ulcère gastro-duodénal, érosions gastriques et œsophagite.
+  Principalement d'origine digestive et une cause tumorale doit être recherchée.  
+  Autres causes fréquentes: *ulcère gastro-duodénal*, *érosions gastriques* et *œsophagite*.
 - Malabsorption  
-Maladie cœliaque, gastrectomie, gastrite atrophique.
+Maladie cœliaque, gastrectomie/sleeve, gastrite atrophique.
 - Alimentation carencée
 - Don du sang répété
-- Gastrectomie
 - AINS, anticoagulants au long cours
 
 Une cause digestive haute et basse est retrouvée dans 1-10% des cas (sujet âgé ++).

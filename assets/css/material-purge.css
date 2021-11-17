@@ -1815,6 +1815,17 @@ input:disabled + .chip {
   border-top: 0;
 }
 
+.table-sm tbody td,
+.table-sm tbody th {
+  height: 2.25rem;
+}
+
+
+.table-sm thead td,
+.table-sm thead th {
+  height: 2.5rem;
+}
+
 
 .data-table tbody tr:not(.table-active):hover {
   background-color: rgba(0, 0, 0, 0.04);
@@ -3939,6 +3950,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   padding: 0.5rem !important;
 }
 
+.pt-2 {
+  padding-top: 0.5rem !important;
+}
+
 
 .px-2 {
   padding-right: 0.5rem !important;
@@ -4219,9 +4234,6 @@ input:-webkit-autofill:active {
   .navbar,
   .tooltip {
     display: none;
-  }
-  .badge {
-    border: 1px solid #000000;
   }
   .table {
     border-collapse: collapse !important;
