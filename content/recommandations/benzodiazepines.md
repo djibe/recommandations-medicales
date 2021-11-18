@@ -5,18 +5,18 @@ shortname = ""
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-16T13:47:19+01:00"
-publishdate = "2021-11-16"
-lastmod = "2021-11-16"
+publishdate = "2021-11-18"
+lastmod = "2021-11-18"
 specialites = ["therapeutique"]
 annees = "2007"
 sources = ["HAS"]
 tags = []
-anglais = []
-sctid = ""
-draft = true
+anglais = [" Benzodiazepine"]
+sctid = "372664007"
+draft = false
 image = false
 imageSrc = ""
-todo = "flowchart"
+todo = "terminer HAS"
 +++
 
 Ces recommandations concernent le sevrage après > 30 jours chez le sujet âgé ≥ 65 ans
@@ -31,7 +31,7 @@ TODO:
 
 Benzodiazépines
 : Médicament psychotrope anxiolytique caractérisé chimiquement par un cycle benzénique fusionné à un cycle diazépine.
-: Complications chez le sujet âgé: chutes, troubles cognitifs, accidents de la voie publique.
+: Complications chez le sujet âgé: troubles de la mémoire et de la concentration, somnolence, chutes, accidents de voiture.
 : L'arrêt progressif et encadré des BZD n'altère pas la qualité de vie et peut améliorer les fonctions cognitives.
 
 Syndrome de sevrage
@@ -61,26 +61,59 @@ Rechute
 {{%info%}}Tout consommateur chronique de BZD est exposé en cas d’arrêt brutal accidentel ou non (oubli, hospitalisation...) à un risque de syndrome de sevrage{{%/info%}}
 
 - Traitements en cours
+- Consommation d'alcool
 - Benzodiazépine
   - Motif
   - Ancienneté, posologie
   - Molécules en cours
 - État psychologique  
 Troubles anxieux, dépression, insomnie...
-- Alcool
+- Troubles du sommeil  
+Rechercher un SAOS ou syndrome des jambes sans repos.
 
 {{% /collapse %}}
-{{%collapse "Benzodiazépines" %}}
+{{%collapse "Traitement par BZD et molécules disponibles" %}}
 
-TODO: tableau
+### Durée du traitement
+
+Respecter l'AMM de la spécialité:
+
+- Troubles du sommeil  
+  - Durée de quelques jours à quelques semaines
+  - Insomnie occasionnelle: 2-5 jours
+  - Insomnie transitoire: 2-3 semaines
+- Anxiété
+  - Anxiété sévère: 8-12 semaines en tenant compte de la période de décroissance
+  - Sevrage en alcool: 8-10 jours
+
+{{< table title="Benzodiazépines et apparentés disponibles en France par voie orale en 2021. Dr JB Fron d'après BDPM" class="table-wrap" >}}
+| Molécule                 | Spécialité        | Demi-vie (h) | AMM                                |
+|--------------------------|-------------------|-------------:|------------------------------------|
+| Alprazolam               | Xanax, gén        |        10-20 | Anxiété, sevrage alcool            |
+| Bromazépam               | Lexomil, gén      |           20 | Anxiete, sevrage alcool            |
+| Clobazam                 | Likozam, Urbanyl  |           36 | Anxiété, épilepsie, sevrage alcool |
+| Clonazépam               | Rivotril          |           35 | Épilepsie                          |
+| Clorazépate dipotassique | Tranxene          |       30-150 | Anxiété, sevrage alcool            |
+| Clotiazépam              | Veratran          |            4 | Anxiété, sevrage alcool            |
+| Diazépam                 | Valium, gén       |        32-47 | Anxiété, sevrage alcool            |
+| Loflazépate d'éthyle     | Victan            |           77 | Anxiété, sevrage alcool            |
+| Lorazépam                | Temesta, gén      |        10-20 | Anxiété, sevrage alcool            |
+| Lormétazépam             | Ex-noctamide, gén |         13,5 | Insomnie occasionnelle/transitoire |
+| <b>Oxazépam</b>          | Seresta           |            8 | Anxiété, sevrage alcool            |
+| Prazépam                 | Lysanxia, gén     |           65 | Anxiété, sevrage alcool            |
+| Zolpidem                 | Stilnox, gén      |          2,5 | Insomnie occasionnelle/transitoire |
+| Zopiclone                | Imovane, gén      |            5 | Insomnie occasionnelle/transitoire |
+{{< /table >}}
+
+Données insuffisantes pour comparer les efficacités hypnotiques ou anxiolytiques. L'oxazépam est la BZD de préférence de *Prescrire* en insomnie transitoire.
 
 {{% /collapse %}}
-{{%collapse "Décroissance des benzodiazépine" %}}
+{{%collapse "Décroissance des benzodiazépines" %}}
 
 - Expliquer: la durée du traitement, les modalités d'arrêt et le risque de dépendance
 - ≥ 65 ans traité depuis > 30j: proposer systématiquement l'arrêt  
 Intervention brève orale et écrite (efficace à court et long terme).
-- {{< modal-btn modal-score-ecab >}}règle HERDOO2{{< /modal-btn >}}Évaluation ECAB de la dépendance
+- {{< modal-btn modal-score-ecab >}}Évaluation ECAB{{< /modal-btn >}} de la dépendance
 
 ### Consultation dédiée
 
@@ -122,9 +155,9 @@ Hospitalisation.
 
 Madame, Monsieur,
 
-Parmi vos médicaments, vous recevez *nom de la BZD* à la dose de   *cp/j*. Ce médicament fait partie du groupe des benzodiazépines et médicaments apparentés.
+Parmi vos médicaments, vous recevez *nom de la BZD* à la dose de ... *cp/j*. Ce médicament fait partie du groupe des benzodiazépines et médicaments apparentés.
 
-L’analyse de votre dossier médical montre que désormais ce médicament pourrait vous être arrêté sans altérer votre santé ni votre bien-être. En effet, il est connu aujourd’hui que l’efficacité des benzodiazépines prescrites dans votre cas diminue fortement au fur et à mesure de leur utilisation.
+L’analyse de votre dossier médical montre que désormais ce médicament pourrait vous être arrêté sans altérer votre santé ni votre bien-être. En effet, il est connu aujourd’hui que l’efficacité des benzodiazépines prescrites dans votre cas diminue fortement au fur et à mesure de leur utilisation (dès 2 semaines d'utilisation).
 
 De plus, ces médicaments peuvent produire des effets néfastes, en particulier chez la personne âgée: ils peuvent provoquer des chutes et des troubles de la mémoire, et ils favoriseraient la survenue d’accidents de la route chez les conducteurs prenant ce traitement.
 
@@ -139,11 +172,12 @@ Dr ...
 
 ### Calendrier de suivi de l'arrêt de BZD
 
-
+TODO:
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- Prescrire Redaction. Benzodiazépines ou apparentés. Prescrire. Janvier 2021.
 - [HAS. Modalités d'arrêt des benzodiazépines et médicaments apparentés chez le patient âgé. Recommandations professionnelles. Octobre 2007.](https://www.has-sante.fr/jcms/c_601509/fr/modalites-d-arret-des-benzodiazepines-et-medicaments-apparentes-chez-le-patient-age)
 
 {{% /collapse %}}
@@ -152,5 +186,3 @@ Dr ...
 {{< scores/ecab >}}
 
 {{% /modal %}}
-
-≤≥±®œŒÈ³ÂSpO<sub>2</sub>

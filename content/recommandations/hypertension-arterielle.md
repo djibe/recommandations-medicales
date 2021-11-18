@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2021-11-16"
+lastmod = "2021-11-18"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESH", "ESC"]
@@ -199,7 +199,7 @@ L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hyp
 {{%collapse "Objectifs tensionnels" "show" %}}
 
 {{< table title="Synthèse des objectifs tensionnels selon le profil du patient. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
-| Population          | Objectif (mmHg) | Source |
+| Population          | Objectif (mmHg) | Source     |
 |---------------------|----------------:|------------|
 | Cible minimale      | &lt; 140/90     | ESC 2018   |
 | &lt; 65 ans         | 120-129/70-79   | ESC 2018   |
@@ -207,6 +207,7 @@ L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hyp
 | AIT/AVC             | idem générale   | ESC 2018   |
 | AOMI                | 120-140/90      | ESC 2017 LEAD |
 | Diabète (type 1 ou 2) | idem générale | ESC 2018 |
+| FA                  | &le; 130/80     | ESC 2020 AF |
 | Insuffisance cardiaque | &lt; 140/90 (comorbidités) | ESC 2021 HF |
 | Insuffisance rénale | &lt; 120/90     | KDIGO 2021 |
 | Greffe rénale       | &lt; 130/80     | KDIGO 2021 |

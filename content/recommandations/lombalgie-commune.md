@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-26T09:21:22+02:00"
 publishdate = "2021-10-26"
-lastmod = "2021-10-29"
+lastmod = "2021-11-18"
 specialites = ["rhumatologie"]
 annees = "2019"
 sources = ["HAS"]
@@ -105,17 +105,24 @@ Patient, médecin, employeur.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+- Âge (risque de fracture après 70 ans ++)
 - Antécédents personnels  
-Traumatisme, tumeur, neurologique, infectieux ou inflammatoire.
+**Traumatisme récent**, tumeur, neurologique, infectieux ou inflammatoire-rhumatismal.
 - Antécédents familiaux
+- Traitements  
+**Corticothérapie** prolongée (> 3 mois, dont inhalée).
+- Toxiques
 - Lombalgie
   - Antécédents
   - Ancienneté
   - Caractères
   - Radiculalgie
+  - Déformation rachidienne
 - Examen neurologique
   - Examen et périmètre de marche déclaré
   - Douleurs neuropathiques ({{< modal-btn modal-score-dn4 >}}DN4{{< /modal-btn >}})
+- Signes généraux  
+AEG, fièvre.
 - Identifier les peurs, croyances, contexte psychologique et social (facteurs de risque de chronicité)
 - Évaluation du risque de chronicité: [STarT Back screening tool](http://sectionrachis.fr/index.php/recommandation-lombalgie/questionnaires/), [questionnaire Örebro version courte](https://kce.fgov.be/sites/default/files/atoms/files/OrebroFr.pdf)
 
@@ -180,6 +187,7 @@ Ne pas utiliser: ultrasons, tractions lombaires.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- Prescrire Redaction. Signes de fracture vertébrale en cas de lombalgie récente. Prescrire. Juin 2020.
 - [HAS. Prise en charge du patient présentant une lombalgie commune. Mars 2019.](https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient-presentant-une-lombalgie-commune)
 
 ### À lire
