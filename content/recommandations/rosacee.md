@@ -153,7 +153,7 @@ Acide azélaïque 15% gel (Finacéa®) x 2/j pendant 3 mois
 
 Autres:
 
-- Ivermectine 1% crème (Soolantra®) x 1/j pendant 3 mois
+- [Ivermectine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69444281&typedoc=R) x 1/j pendant 3 mois
 - {{%class%}}Minocycline crème (non disponible en France){{%/class%}}
 
 ### Papulopustules diffuses
@@ -163,7 +163,7 @@ Atteinte papulopustuleuse marquée et oculaire.
 #### 1. Traitement d'attaque
 
 {{%info%}}
-Doxycycline 100 mg/j (Vibramycine N®, gén) pendant le dîner pendant 3 mois  
+Doxycycline 100 mg (Vibramycine N®, gén) pendant le dîner pendant 3 mois  
 Ne pas s'allonger dans l'heure qui suit.  
 ± associée au métronidazole topique
 {{%/info%}}

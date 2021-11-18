@@ -11,7 +11,7 @@ lastmod = 2021-09-15
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["EssCD", "HAS", "SNFGE"]
-tags = ["allergie", "depistage", "coeliaque", "fatigue", "Hashimoto", "intolerance", "gluten", "auto-immun", "EOGD"]
+tags = ["allergie", "auto-immun", "carence martiale", "coeliaque", "depistage", "EOGD", "fatigue", "Hashimoto", "intolerance", "TSH"]
 anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac gluten sensitivity (NCGS) and extra-intestinal manifestations related to gluten)", "celiac"]
 sctid = "396331005"
 draft = false
@@ -181,8 +181,6 @@ En cas de maladie prouvée, dépistage de tout les proches au 1<sup>er</sup> deg
 {{% /warning %}}
 
 ### Autres examens
-
-#### Bilan biologique
 
 - NFS, ferritinémie, folates
 - Vitamine B12

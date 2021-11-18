@@ -22,6 +22,8 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
 
 ## {{< class "typography-headline-5" >}}Sevrage tabagique - les substituts nicotiniques remboursés{{</class>}}
 
+Liste des substituts nicotiniques remboursés par la Sécurité Sociale en 2021.
+
 ### {{< class "typography-subtitle-1 text-black-primary" >}}Aide au choix des médicaments remboursés à 65% par l'Assurance Maladie sur prescription.{{</class>}}
 
 <hr class="my-3">

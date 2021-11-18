@@ -10,7 +10,7 @@ lastmod = 2021-10-08
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS"]
-tags = ["dyspnee", "fatigue", "ferritine", "HTA", "insuffisance cardiaque", "risque cardiovasculaire", "SAOS", "tabac", "toux", "vaccin"]
+tags = ["carence martiale", "dyspnee", "fatigue", "ferritine", "HTA", "insuffisance cardiaque", "risque cardiovasculaire", "SAOS", "tabac", "toux", "TSH", "vaccin", "vertige"]
 anglais = ["Chronic heart failure"]
 sctid = "48447003"
 draft = false
@@ -19,6 +19,8 @@ image = true
 imageSrc = "Illustration de l'insuffisance cardiaque par vectorjuice / Freepik"
 todo = "sup. Table 4 MRA+5Sacu+7Diur https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Beck, https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fpc_i_ns_cardiaque_web.pdf"
 +++
+
+Chapitre mis à jour avec les nouvelles recommandations insuffisance cardiaque 2021.
 
 {{%article-summary%}}
 

@@ -38,8 +38,8 @@ Dysphagie, amaigrissement, anémie.
 
 <div class="card card-hover card-hp my-4">
   <div class="card-body">
-    <h3 class="card-title mt-0">Aide au choix du traitement d'<em>Helicobacter pylori</em></h3>
-    <h4 class="card-subtitle">par JB Fron</h4>
+    <h3 class="card-title mt-0">Aide au choix du traitement d'<em>Helicobacter pylori</em> 2021</h3>
+    <h4 class="card-subtitle">Dr JB Fron</h4>
     <p class="card-text">Le traitement devrait toujours être guidé (antibiogramme, PCR).</p>
     <input type="checkbox" id="btn-atbgramme" class="d-input-none" checked onclick="functionHp()">
     <label for="btn-atbgramme" class="chip chip-action chip-filter" data-toggle="collapse" data-target="#hp-1-reference">Antibiogramme</label>
@@ -519,7 +519,7 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 
 - [Groupe d'Études Français des Helicobacter (GEFH). Site officiel.](http://www.helicobacter.fr/)
 - [Bénéjat L et al. Épidémiologie de l’infection à Helicobacter pylori en France en 2020 : données de surveillance du CNR Campylobacters et Hélicobacters. Bull Epidémiol Hebd. 2021;(15):275-82.](http://beh.santepubliquefrance.fr/beh/2021/15/2021_15_2.html)
-- [GEFH. Recommandations de prise en charge de l'infection à *Helicobacter pylori* en 2021 pour les hépato-gastro-entérologues. 04/03/2021.](http://www.helicobacter.fr/2021/03/04/decouvrez-la-nouvelle-fiche-de-recommandation-de-prise-en-charge-de-linfection-a-helicobacter-pylori/)
+- [GEFH. Recommandations de prise en charge de l'infection à *Helicobacter pylori* en 2021 pour les hépato-gastro-entérologues. 04/03/2021. (PDF)](http://www.helicobacter.fr/wp-content/uploads/2021/03/Fiche-HP-specialistes-2021.pdf)
 - [SNFGE et al. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 24/06/2019.](https://www.snfge.org/content/2-cancer-de-lestomac)
 - [HAS. Helicobacter pylori : recherche et traitement. 26/03/2019](https://www.has-sante.fr/jcms/c_2911396/fr/helicobacter-pylori-recherche-et-traitement)
 - [HAS et CNPHGE. Diagnostic de l’infection par Helicobacter pylori chez l’adulte. Mai 2017.](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)

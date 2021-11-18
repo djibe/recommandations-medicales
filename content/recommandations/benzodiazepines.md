@@ -24,10 +24,11 @@ Ces recommandations concernent le sevrage après > 30 jours chez le sujet âgé 
 {{%article-summary%}}
 
 - Respecter les durées de traitement de l'AMM
+
 TODO:
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Benzodiazépines
 : Médicament psychotrope anxiolytique caractérisé chimiquement par un cycle benzénique fusionné à un cycle diazépine.
@@ -66,6 +67,7 @@ Rechute
   - Motif
   - Ancienneté, posologie
   - Molécules en cours
+  - {{< modal-btn modal-score-ecab >}}Évaluation ECAB{{< /modal-btn >}} de la dépendance
 - État psychologique  
 Troubles anxieux, dépression, insomnie...
 - Troubles du sommeil  

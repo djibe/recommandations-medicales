@@ -68,7 +68,7 @@ Les autres gestes (coloscopie, endoscopie bronchique ...) ne nécessitent pas d'
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Les manifestations sont variées avec des présentations parfois trompeuses.
+Les manifestations de l'endocardite infectieuse sont variées avec des présentations parfois trompeuses.
 
 **Tableau typique:** apparition ou majoration d'un *souffle cardiaque* en contexte *fébrile*.  
 Évoquer devant: AVC, purpura, lombalgies fébriles.
@@ -102,7 +102,7 @@ Protéinurie/hématurie isolée, insuffisance rénale.
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-Pour les personnes à risque d'endocardite:
+Pour les personnes à risque d'endocardite infectieuse:
 
 - Carte patient avec niveau de risque
 - Éducation du patient  
@@ -131,7 +131,7 @@ Prise orale unique (voire IV) 30-60 minutes avant le geste invasif à risque.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour les personnes à risque" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour les personnes à haut risque d'endocardite infectieuse. Dr JB FRON d'après ESC 2015" >}}
+{{< mermaid title="Conduite à tenir pour les personnes à haut risque d'endocardite infectieuse. Dr JB Fron d'après ESC 2015" >}}
 graph TB
   fdr[Personne à haut risque ?]
   style fdr stroke:#4150f5, stroke-width:1px

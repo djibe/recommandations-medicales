@@ -10,7 +10,7 @@ lastmod = 2020-09-29
 specialites = ["infectiologie", "hematologie"]
 annees = "2020"
 sources = ["HAS"]
-tags = ["asplenie", "oracilline", "penicilline V", "vaccin"]
+tags = ["asplenie", "oracilline", "penicilline V", "vaccin", "voyage"]
 anglais = ["Asplenia"]
 sctid = "707147002"
 draft = false
@@ -120,12 +120,12 @@ Mise à jour du calendrier vaccinal de l'entourage (voir fiche vaccination).
 {{% /collapse %}}
 {{%collapse "Éducation thérapeutique" %}}
 
-- Risque accru d'infections nécessitant un avis médical rapide en cas de fièvre/frissons.
-- Carte de signalement d'asplénie.
-- Notification de la date et du motif sur le carnet de santé.
-- Intérêt du suivi vaccinal rigoureux.
-- Consulter avant de voyager à l'étranger.
-- Prophylaxie en morsure animale ou de tiques.
+- Risque accru d'infections nécessitant un avis médical rapide en cas de fièvre/frissons
+- Carte de signalement d'asplénie
+- Notification de la date et du motif sur le carnet de santé
+- Intérêt du suivi vaccinal rigoureux
+- Consulter avant de voyager à l'étranger
+- Prophylaxie en morsure animale ou de tiques
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
