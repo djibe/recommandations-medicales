@@ -98,6 +98,10 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
+
+  video {
+    max-width: 100%;
+  }
 }
 
 .figure-caption {

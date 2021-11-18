@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2021-06-01
+lastmod = 2021-11-18
 specialites = ["pneumologie"]
 annees = "2021"
 sources = ["ERS", "GOLD", "HAS", "SPLF"]
@@ -29,7 +29,7 @@ todo = "SPLF 2021, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2
 Principal facteur du déclin du VEMS.
 - Le diagnostic est spirométrique: TVO non réversible
 - Le VEMS est le facteur pronostique majeur de la {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
-- 4 piliers du traitement: arrêt du tabac, vaccination grippe + pneumocoque, activité physique et réhabilitation respiratoire
+- 4 piliers du traitement: arrêt du tabac, vaccination grippe + {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, activité physique et réhabilitation respiratoire
 - Adaptation des bronchodilatateurs selon les symptômes et les exacerbations ({{< modal-btn modal-score-cat >}}évaluation CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}dyspnée mMRC{{< /modal-btn >}})
 - Bronchodilatateurs: {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}}, {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama >}}LABA + LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}
 - EFR de suivi annuelle
@@ -240,8 +240,8 @@ Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-bpco >}
   Aérosols, combustion de bois ou biomasse, moisissures.
 - Vaccination
   - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) (avec la coqueluche)
-  - Antigrippale annuelle
-  - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}} /5 ans si > 65 ans ou comorbidités (cardio-respiratoire)
+  - Grippe annuelle
+  - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}} /5 ans si ≥ 65 ans ou comorbidités (cardio-respiratoire)
 - Réhabilitation respiratoire
   - Essentielle pour tous pour réduire la dyspnée, le stress et améliorer la qualité de vie
   - Répétée si besoin

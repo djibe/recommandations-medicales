@@ -6,7 +6,7 @@ synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-06-21T10:56:00+02:00
 publishdate = 2021-06-29
-lastmod = 2021-10-30
+lastmod = 2021-11-18
 specialites = ["pneumologie"]
 annees = "2021"
 sources = ["GINA", "ERS", "SPLF", "HAS"]
@@ -18,8 +18,6 @@ image = true
 imageSrc = "Illustration de l'asthme par brgfx / Freepik"
 todo = "doses Symbicort turbuhaler, GINA 2021 p21, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique"
 +++
-
-*Version préliminaire: ACT et traitements utilisables en l'état*
 
 {{%article-summary%}}
 
@@ -75,6 +73,7 @@ Bannir le terme de << bronchite asthmatiforme >>: il s'agit d'une maladie chroni
 **FeNO:** fraction de monoxyde d’azote mesurée dans un débit de gaz expiré  
 **GINA:** {{%lang%}}Global Initiative for Asthma{{%/lang%}}  
 **ITSL:** immunothérapie par voie sublinguale  
+**SC:** sous-cutané  
 **TVO:** trouble ventilatoire obstructif  
 **VEMS:** volume expiratoire maximal en une seconde
 
@@ -351,25 +350,23 @@ Déclarer la maladie professionnelle, médecin du travail, reclassement, RQTH.
 - ALD 14 pour l'enfant si asthme persistant sévère
   - Persistance des symptômes et/ou anomalies EFR
   - Malgré BALA + CSI fortes doses
-- ALD 14: vaccination antigrippale annuelle et {{< modal-btn modal-vaccin-pneumocoque >}}anti-pneumococcique{{< /modal-btn >}}
+- ALD 14: vaccin grippe annuel et {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}
 - Association de patients  
 [Asthme & Allergies](https://asthme-allergies.org/), locale.
 
 {{%info%}}Les CSI réduisent de façon marquée la fréquence et la gravité des symptômes de l'asthme ainsi que les risques d'exacerbation ou de décès causé par l'asthme (*GINA 2019*){{%/info%}}
 
-#### Autres traitements
+#### Pour en savoir plus: Autres traitements
 
 La prescription dépend uniquement du spécialiste:
 
 - Modificateurs de leucotriènes  
-Montélukast, pranlukast, zafirlukast, zileuton.
+{{%class%}}Montélukast, pranlukast, zafirlukast, zileuton.{{%/class%}}
 - Rhinite et allergie aux acariens: immunothérapie par voie sublinguale (ITSL)
-- Anticorps anti-IgE  
-Omalizumab SC
+- Anticorps anti-IgE {{%class%}}(omalizumab SC){{%/class%}}
 - Anticorps anti-IL5 et IL5R  
 Mépolizumab SC, reslizumab IV, benralizumab SC.
-- Anticorps anti-IL4R  
-Dupilumab SC.
+- Anticorps anti-IL4R {{%class%}}(dupilumab SC){{%/class%}}
 
 ### Stratégie de traitement de l'asthme selon GINA
 
@@ -385,7 +382,7 @@ Dupilumab SC.
 </nav>
 <div class="card-body tab-content">
   <div class="tab-pane fade" id="nav-asthme-stade1" role="tabpanel" aria-labelledby="nav-tab-stade1">
-    <div class="alert alert-warning mb-4">Traitement envisageable uniquement en cas de symptômes &lt; 2 fois/mois sans aucun facteur de risque d'exacerbation.</div>
+    <div class="alert alert-warning mb-4">Traitement envisageable uniquement en cas de symptômes &lt; 2 fois/mois sans aucun facteur de risque d'exacerbation</div>
     <p><a data-toggle="modal" href="#modal-ttt-bala-csi">Formotérol + budésonide faible dose</a> uniquement en cas de symptôme.</p>
   </div>
   <div class="tab-pane fade show active" id="nav-asthme-stade2" role="tabpanel" aria-labelledby="nav-tab-stade2">
@@ -509,5 +506,10 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 {{% modal title="Observance des traitements" id="modal-observance"%}}
 
 {{< scores/observance >}}
+
+{{% /modal %}}
+{{% modal title="Vaccination anti-pneumococcique" id="modal-vaccin-pneumocoque"%}}
+
+{{< traitements/vaccin-pneumocoque >}}
 
 {{% /modal %}}
