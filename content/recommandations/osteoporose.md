@@ -17,7 +17,7 @@ draft = true
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "summary, ISCD 2015, flowchart"
+todo = "summary, ISCD 2015, flowchart, International Osteoporosis Foundation, HAS 2005 chutes"
 +++
 
 {{%article-summary%}}
@@ -34,8 +34,8 @@ Fracture ostéoporotique (ou de fragilité)
 : Tous les os peuvent être atteints par une fracture ostéoporotique sauf: crâne, face, rachis cervical, 3 premières vertèbres thoraciques, mains et orteils (fractures traumatiques ou tumorales).
 : À 1 an: seulement 10% ont eu une ostéodensitométrie et 15% un traitement de l'ostéoporose
 
-Fracture sévère
-: Fracture associée à une surmortalité par localisation anatomique: extrémité supérieure du fémur ou de l'humérus, vertèbre, pelvis, bassin, sacrum, diaphyse fémorale, fémur distal, 3 côtes simultanées et tibia proximal.
+Fracture de fragilité sévère
+: Fracture associée à une surmortalité par localisation anatomique: {{< clinique/osteoporose-fracture-severe >}}.
 
 ### Facteurs de risque de fracture
 
@@ -48,9 +48,13 @@ TODO: Insert risque fracture ???
 ### Abréviations
 
 **DMO:** densité minérale osseuse  
+**DS:** déviation standard  
+**DXA:** ostéodensitométrie par absorptiométrie biphotonique à rayons X  
 **ESF:** extrémité supérieure du fémur  
 **FESF:** fracture de l'extrémité supérieure du fémur  
-**ODM:** ostéodensitométrie
+**FRAX®:** {{%lang%}}Fracture Risk Assessment Tool{{%/lang%}}  
+**ODM:** ostéodensitométrie  
+**TBS:** {{%lang%}}trabecular bone score{{%/lang%}}
 
 ### Épidémiologie
 
@@ -76,16 +80,19 @@ Fractures (ancienneté, type), âge de la ménopause, démence, Parkinson, diab�
 - Traitements en cours  
 Et corticothérapie (dont inhalée) > 3 mois.
 - Facteurs de risque de chute
+  - Antécédent de chute (< 6 mois ++)
+  - Peur de tomber
 - Facteurs de risque de fracture
+- Fracture ostéoporotique  
+Éliminer une cause métabolique, tumorale, génotypique.
 
 ### Examen clinique
 
 - Poids, taille, IMC
-
-{{%/collapse%}}
-{{%collapse "Risque de fracture - calcul du FRAX" %}}
-
-{{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" title="Calcul du FRAX sur le site officiel">}}
+- Facteurs de risque de chute
+  - {{%lang%}}Timed up and go test{{%/lang%}} > 14s
+  - Appui monopodal < 5s
+  - Difficulté à garder l'équilibre en poussée sternale
 
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
@@ -102,10 +109,40 @@ Indications:
 
 TODO: À revoir avec ISCD 2015
 
+### Ostéodensitométrie
+
+Indications:
+
+- Fracture ostéoporotique
+
+{{%info%}}Examen diagnostique de l'ostéoporose: T-score ≤ -2,5 DS au col fémoral (*OMS 94*){{%/info%}}
+
+Meilleur critère prédictif de tout risque de fracture. Chaque baisse d'une DS double le risque de fracture.  
+Toutefois 50% des fractures surviennent chez des personnes avec T-score > -2,5.
+
+La DXA permet aussi de mesurer le {{%lang%}}Trabecular bone score{{%/lang%}} (TBS) du rachis lombaire mais les capacités prédictives sont moins étudiées.
+
+{{%/collapse%}}
+{{%collapse "Risque de fracture - calcul du FRAX" %}}
+
+FRAX® = probabilité à 10 ans de FESF et des fractures majeures (extrémité supérieure du fémur, humérus, poignet et vertébrales clinique).
+
+Inutile si traitement indiqué d'emblée: antécédent de fracture sévère, T-score ≤ -3 au site vertébral et fémoral.  
+Le seuil d'intervention dépend de l'âge.
+
+{{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" title="Calcul du FRAX® sur le site officiel">}}
+
 {{%/collapse%}}
 {{%collapse "Traitement" %}}
 
-Critères de choix du traitement: antécédent de fracture, son type, son ancienneté, l'âge, les autres antécédents, le risque de chute et la DMO.
+Critères de choix du traitement: antécédent de fracture, son type, son ancienneté, l'âge, les autres antécédents, le risque de chute et la DMO.  
+Avis rhumatologique si besoin.
+
+Systématique si:
+
+- Antécédent de {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} avec T-score ≤ -1
+
+Évaluation gériatrique si risque de chute ou fragilité.
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
@@ -131,8 +168,14 @@ Critères de choix du traitement: antécédent de fracture, son type, son ancien
 {{%collapse "Sources" %}}
 
 - [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l’ostéoporose post-ménopausique. Revue du Rhumatisme. Volume 85. Issue 5. 2018.](https://doi.org/10.1016/j.rhum.2018.02.005.)
+- [World Health Organization. Assessment of fracture risk and its application to screening for postmenopausal osteoporosis : report of a WHO study group. World Health Organization. 1994.](https://apps.who.int/iris/handle/10665/39142)
 - [GRIO. Site officiel](http://www.grio.org/)
 
 {{%/collapse%}}
+{{% modal title="Fractures ostéoporotiques dites sévères" id="modal-fracture-severe"%}}
+
+Fracture ayant atteint: {{< clinique/osteoporose-fracture-severe >}}
+
+{{% /modal %}}
 
 ≤≥±®œŒÈ³ÂSpO<sub>2</sub>
