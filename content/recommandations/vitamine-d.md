@@ -6,10 +6,10 @@ synonyms = ["Cholécalciferol"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-15T00:28:29+02:00
 publishdate = 2020-04-15
-lastmod = 2021-05-31
+lastmod = 2021-11-19
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2019"
-sources = ["HAS", "SFP"]
+sources = ["HAS", "SFP", "SFR"]
 tags = ["depistage", "supplementation", "vitamine d", "osteoporose", "chute", "nourrisson", "enfant", "adolescent"]
 anglais = ["Vitamin D"]
 image = true
@@ -97,18 +97,18 @@ La supplémentation en vitamine D3 peut être instaurée et suivie sans dosage d
 
 {{< table title="Recommandations d'apports en vitamine D en 2021 selon le profil du patient" >}}
 | Population                         | Apports (UI/j) ou cibles (25OHD) recommandés |
-|------------------------------------|------------------------------------------------|
+|------------------------------------|----------------------------------------------|
 | Nourrisson en allaitement maternel | Supplémentation quotidienne 1000-1200 UI/j<br>ZymaD® buvable en 3-4 gouttes par jour (300 UI/goutte) |
 | Nourrisson en allaitement artificiel<br>Prématuré | 600-800 UI/j soit ZymaD® 2-3 gouttes/j<br>800-1000 UI/j soit 3 gouttes/j |
 | 18 mois à 5 ans                    | 80 à 100 000 UI en novembre et février |
 | 5 ans à 10 ans                     | Études en cours                        |
 | 10 à 18 ans                        | 80 à 100 000 UI en novembre et février<br>ou 200 000 UI 1 fois l'hiver (observance) |
 | Grossesse                          | 80 à 100 000 UI au début du 7<sup>e</sup> mois de grossesse |
-| Adulte                              | ≥ 50 nmol/L |
-| Adulte &ge; 65 ans                  | ≥ 75 nmol/L |
-| Adulte à risque, dépendant, chutes | ≥ 75 nmol/L |
-| Résident en EHPAD                   | ≥ 75 nmol/L et cible calcique 1200 mg/j |
-| Traitement par biphosphonates       | ≥ 75 nmol/L  |
+| Adulte                              | &ge; 50 nmol/L |
+| Adulte &ge; 65 ans                  | &ge; 75 nmol/L |
+| Adulte à risque, dépendant, chutes  | &ge; 75 nmol/L |
+| Résident en EHPAD                   | &ge; 75 nmol/L et cible calcique 1200 mg/j |
+| Ostéoporose, biphosphonates         | &ge; 75 nmol/L  |
 {{< /table >}}
 
 {{% /collapse %}}
@@ -217,6 +217,7 @@ graph TB
 - [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d’ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 03/05/2019.](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
 - [Esteban 2014-2016 – Chapitre dosages biologiques des vitamines et minéraux : pas de déficit important ou de carence à grande échelle](https://www.santepubliquefrance.fr/les-actualites/2019/esteban-2014-2016-chapitre-dosages-biologiques-des-vitamines-et-mineraux-pas-de-deficit-important-ou-de-carence-a-grande-echelle)
 - [Annweiler C et al. Vitamine D chez l’adulte : mise au point sur le dosage et la supplémentation. Gériatrie et psychologie Neuropsychiatrie du Vieillissement. Vol 16, n°1, mars 2018](https://www.jle.com/fr/revues/gpn/e-docs/vitamine_d_chez_ladulte_mise_au_point_sur_le_dosage_et_la_supplementation_311580/article.phtml)
+- [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l’ostéoporose post-ménopausique. Revue du Rhumatisme. Volume 85. Issue 5. 2018.](https://doi.org/10.1016/j.rhum.2018.02.005.)
 - [Inserm. La vitamine D, une nouvelle piste contre la maladie d’Alzheimer ?. Mai 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)
 - [HAS. Utilité clinique du dosage de la vitamine D. Octobre 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-02/utilite_clinique_du_dosage_de_la_vitamine_d_-_note_de_cadrage.pdf)
 - [Société Française de Pédiatrie. La Vitamine D : une vitamine toujours d’actualité chez l’enfant et l’adolescent. Mise au point par le Comité de nutrition de la Société française de pédiatrie. 2012.](https://afpa.org/content/uploads/2017/07/Reco_VIT_D_VersionFR_VF.pdf)

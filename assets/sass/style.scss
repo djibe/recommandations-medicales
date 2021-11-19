@@ -266,13 +266,13 @@ article {
     }
   }
 
-  h3 {
+  section > h3 {
     color: var(--primary);
     margin-bottom: 12px;
     margin-top: 32px;
   }
 
-  h4 {
+  section > h4 {
     margin-bottom: 12px;
     margin-top: 32px;
   }
@@ -321,10 +321,6 @@ article {
         outline: 0;
       }
     }
-  }
-
-  .collapse.show:last-child {
-    margin-bottom: 2.5rem;
   }
 
   // Elements
@@ -863,7 +859,7 @@ input[type="search"]::-webkit-search-results-decoration {
   -webkit-appearance: none;
 }
 
-.card-hp {
+.card-list-material {
   ::marker {
     color: transparent;
   }

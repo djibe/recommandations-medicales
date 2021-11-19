@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-14T15:36:00+02:00
 publishdate = 2021-01-14
-lastmod = 2021-10-11
+lastmod = 2021-11-19
 specialites = ["biologie"]
 annees = "2021"
 sources = ["CNGOF", "SFDiabète", "SFRhumato"]
@@ -26,14 +26,14 @@ todo = "LDL"
 {{< table title="Synthèse des recommandations des objectifs sériques des nutriments et marqueurs de risque cardiovasculaires" >}}
 | Élément      | Population concernée | Cible de concentration | Source |
 |--------------|----------------------|------------------------|--------|
-| Ferritinémie | Femme jeune          | > 50 ng/mL             | HAS  |
-| Ferritinémie | Grossesse            | > 80 ng/mL             | HAS  |
-| Ferritinémie | insuffisance cardiaque | > 100 ng/mL          | ESC 2021 |
-| Ferritinémie | Jambes sans repos    | > 75 ng/mL             | SFRMS 2019 |
-| HbA<sub>1C</sub> | {{< modal-btn modal-hba1c >}}Détail des cibles{{< /modal-btn >}} | ~ 7% | SFDiabete 2019 |
-| Uricémie     | Goutte               | < 50 mg/L              | SFRhumato 2020 |
+| Ferritinémie | Femme jeune          | &ge; 50 ng/mL          | HAS    |
+| Ferritinémie | Grossesse            | &ge; 80 ng/mL          | HAS    |
+| Ferritinémie | insuffisance cardiaque | &ge; 100 ng/mL       | ESC 2021 |
+| Ferritinémie | Jambes sans repos    | &ge; 75 ng/mL          | SFRMS 2019 |
+| HbA<sub>1C</sub> | {{< modal-btn modal-hba1c >}}Détail des cibles{{< /modal-btn >}} | ~ 7% | SFD 2019 |
+| Uricémie     | Goutte               | &lt; 50 mg/L           | SFR 2020 |
 | VDRL         | M6 post-PéniG<br>M12 post-PéniG | Taux /4<br>Négatif | SFDermato 2016 |
-| Vitamine D   | Adulte<br>≥ 65 ans   | > 50 nmol/L<br>> 75 nmol/L | Annweiler C 2018 |
+| Vitamine D   | Adulte<br>&ge; 65 ans | &ge; 50 nmol/L<br>&ge; 75 nmol/L | Annweiler C 2018 |
 
 {{< /table >}}
 
@@ -43,7 +43,8 @@ todo = "LDL"
 {{< table title="Objectifs d'apports en nutriments" >}}
 | Molécule | Population concernée | Cible d'apports        | Source |
 |----------|----------------------|------------------------|--------|
-| Calcium  | EHPAD                | 1200 mg/j              | Annweiler C 2018 |
+| Calcium  | Ménopausée &ge; 50 ans | 1-1,2 g/j            | SFR 2018 ostéoporose |
+| Calcium  | EHPAD                | 1,2 g/j                | Annweiler C 2018 |
 | Vitamine D | 18 mois - 5 ans    | 80-100.000 x 2 l'hiver | SFPed 2012 |
 
 {{< /table >}}

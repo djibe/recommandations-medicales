@@ -36,7 +36,7 @@ Dysphagie, amaigrissement, anémie.
 
 {{%/article-summary%}}
 
-<div class="card card-hover card-hp my-4">
+<div class="card card-hover card-list-material my-4">
   <div class="card-body">
     <h3 class="card-title mt-0">Aide au choix du traitement d'<em>Helicobacter pylori</em> 2021</h3>
     <h4 class="card-subtitle">Dr JB Fron</h4>

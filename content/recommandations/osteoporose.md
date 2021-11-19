@@ -9,7 +9,7 @@ publishdate = 2020-09-04
 lastmod = 2021-11-18
 specialites = ["rhumatologie"]
 annees = "2018"
-sources = ["SFRhumato", "GRIO"]
+sources = ["SFR", "GRIO"]
 tags = ["depistage"]
 anglais = ["Osteoporosis"]
 sctid = "64859006"
@@ -17,13 +17,13 @@ draft = true
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "summary, ISCD 2015, flowchart, International Osteoporosis Foundation, HAS 2005 chutes"
+todo = "summary, ISCD 2015, flowchart, International Osteoporosis Foundation, Prescrire, sources calcium, HAS 2005 chutes, prescription renforcement musculaire, TABS"
 +++
 
 {{%article-summary%}}
 
-TODO:
-- Page liée: [ménopause et THM]({{< relref "menopause.md" >}})
+- Ces recommandations concernent la femme ménopausée
+- Page liée: [traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
 
@@ -32,15 +32,15 @@ TODO:
 Fracture ostéoporotique (ou de fragilité)
 : Fracture survenant à la suite d'un traumatisme de faible énergie (de sa hauteur en marchant). Elle atteint surtout la femme (3/4).
 : Tous les os peuvent être atteints par une fracture ostéoporotique sauf: crâne, face, rachis cervical, 3 premières vertèbres thoraciques, mains et orteils (fractures traumatiques ou tumorales).
-: À 1 an: seulement 10% ont eu une ostéodensitométrie et 15% un traitement de l'ostéoporose
+: À 1 an: seulement 10% ont eu une ostéodensitométrie et 15% un traitement de l'ostéoporose.
 
 Fracture de fragilité sévère
 : Fracture associée à une surmortalité par localisation anatomique: {{< clinique/osteoporose-fracture-severe >}}.
 
 ### Facteurs de risque de fracture
 
-- Fracture récente +++  
-Facteur majeur. {{%class%}}Fracture vertébrale: 25% de récidive dans l'année (non diagnostiquée dans 2/3 des cas). Non vertébrale: risque nettement majoré pendant 3 ans.{{%/class%}}
+- **Fracture récente** (facteur majeur)  
+{{%class%}}Fracture vertébrale: 25% de récidive dans l'année (non diagnostiquée dans 2/3 des cas). Non vertébrale: risque nettement majoré pendant 3 ans.{{%/class%}}
 - Facteurs de risque de chute
 
 TODO: Insert risque fracture ???
@@ -54,15 +54,15 @@ TODO: Insert risque fracture ???
 **FESF:** fracture de l'extrémité supérieure du fémur  
 **FRAX®:** {{%lang%}}Fracture Risk Assessment Tool{{%/lang%}}  
 **ODM:** ostéodensitométrie  
-**TBS:** {{%lang%}}trabecular bone score{{%/lang%}}
+**TBS:** {{%lang%}}trabecular bone score{{%/lang%}}  
+**THM:** traitement hormonal de la ménopause
 
 ### Épidémiologie
 
-Ostéoporose responsable de lourd fardeau médico-économique:
+L'ostéoporose est responsable d'un lourd fardeau médico-économique:
 
-- 177.000 hospitalisations de +50 ans (2013)
-  - 3/4 de femmes
-  - 2/3 ≥ 70 ans
+- 177.000 hospitalisations de +50 ans (2013)  
+3/4 de femmes et 2/3 ≥ 70 ans.
 - 70.000 fractures vertébrales (2001)
 - 60.000 fractures de l'extrémité supérieure du fémur (ESF, 2001)  
 ≥ 55 ans: 23,5% de mortalité (toutes causes confondues) dans l'année qui suit une fracture de l'ESF (*Drees 2016*)
@@ -97,6 +97,12 @@ Et corticothérapie (dont inhalée) > 3 mois.
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
 
+### Bilan biologique
+
+- NFS, VS, CRP
+- TSH
+- Vitamine D
+
 ### Radiographies dorso-lombaires
 
 Indications:
@@ -113,14 +119,19 @@ TODO: À revoir avec ISCD 2015
 
 Indications:
 
+- Ménopause avec facteur de risque d'ostéoporose
+- Sujet âgé à risque de chute
 - Fracture ostéoporotique
+- Traitement anti-ostéoporotique
+  - Contrôle tous les 2-3 ans de la réponse au traitement
+  - À chaque modification de traitement et en arrêt précoce
 
 {{%info%}}Examen diagnostique de l'ostéoporose: T-score ≤ -2,5 DS au col fémoral (*OMS 94*){{%/info%}}
 
 Meilleur critère prédictif de tout risque de fracture. Chaque baisse d'une DS double le risque de fracture.  
 Toutefois 50% des fractures surviennent chez des personnes avec T-score > -2,5.
 
-La DXA permet aussi de mesurer le {{%lang%}}Trabecular bone score{{%/lang%}} (TBS) du rachis lombaire mais les capacités prédictives sont moins étudiées.
+L'ostéodensitométrie permet aussi de mesurer le {{%lang%}}Trabecular bone score{{%/lang%}} (TBS) du rachis lombaire mais les capacités prédictives sont moins étudiées.
 
 {{%/collapse%}}
 {{%collapse "Risque de fracture - calcul du FRAX" %}}
@@ -133,16 +144,145 @@ Le seuil d'intervention dépend de l'âge.
 {{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" title="Calcul du FRAX® sur le site officiel">}}
 
 {{%/collapse%}}
-{{%collapse "Traitement" %}}
+{{%collapse "Mesures générales" %}}
 
-Critères de choix du traitement: antécédent de fracture, son type, son ancienneté, l'âge, les autres antécédents, le risque de chute et la DMO.  
-Avis rhumatologique si besoin.
+- Arrêt du tabac
+- Soins bucco-dentaires ≥ 1/an (et avant traitement)  
+Débuter le traitement si risque élevé de fracture à court terme.
+- Évaluation gériatrique si risque de chute ou fragilité
+- Prévention des chutes
+  - Arrêt des somnifères et opiacés, alcool
+  - Recherche de l'hypotension orthostatique
+  - Contrôler les lunettes
+- Activité physique avec impact
+  - ≥ 2 j/semaine
+  - Supervisée ++
+- [Vitamine D]({{< relref "vitamine-d.md" >}})
+  - Cible ≥ 75 nmol/L
+  - Dose d'entretien: 800-1200 UI/j (ou 80-100.000 UI/2-3 mois)
+  - Voir *Vitamine D* pour les protocoles de correction
+- Apports calciques  
+Femme ménopausée ≥ 50 ans: 1-1,2 g/j.
 
-Systématique si:
+{{%/collapse%}}
+{{%collapse "Traitements spécifiques anti-ostéoporotiques: biphosphonates, raloxifène, dénosumab" %}}
 
-- Antécédent de {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} avec T-score ≤ -1
+Critères de choix du traitement: antécédent de fracture, son type, son ancienneté, l'âge, les autres antécédents, le risque de chute et la DMO. Avis rhumatologique si besoin.
 
-Évaluation gériatrique si risque de chute ou fragilité.
+**Cible minimale:** absence de perte osseuse (perte > 0,03 g/cm² de DMO).  
+**DMO très basse et fracture:** cible T-score > -2,5 (voire -2).
+
+{{%info%}}
+
+### Indications au traitement de l'ostéoporose
+
+- Antécédent de {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} avec T-score ≤ -1  
+Avis rhumatologique si T-score > -1.
+- Fracture ostéoporotique non sévère avec T-score ≤ -2 (rachis ou fémur)  
+Avis rhumatologique si T-score < -1.
+- Ménopause avec T-score ≤ -3 (rachis ou fémur)
+  - Avis rhumatologique si T-score < -2
+  - Utiliser les traitements indiqués pour les fractures non sévères
+{{%/info%}}
+
+<div class="card card-hover card-osteoporose my-3 my-xl-5">
+  <h3 class="card-header card-title">Choix du traitement anti-ostéoporotique</h3>
+  <div class="card-body card-list-material">
+    <input type="radio" id="radio-ttt-severe" name="chip-traitement" class="d-input-none" checked>
+    <label for="radio-ttt-severe" class="chip chip-action chip-choice">Fracture sévère</label>
+    <input type="radio" id="radio-ttt-vertebral" name="chip-traitement" class="d-none">
+    <label for="radio-ttt-vertebral" class="chip chip-action chip-choice">Fracture vertébrale</label>
+    <input type="radio" id="radio-ttt-nonsevere" name="chip-traitement" class="d-none">
+    <label for="radio-ttt-nonsevere" class="chip chip-action chip-choice">Fracture non sévère/Prévention primaire</label>
+    <div class="collapse show" id="div-radio-ttt-severe">
+    <ul>
+    <li>Indiqué si T-score ≤ -1</li>
+    <li>Alendronate<br>
+      <span>70 mg/sem ou 10 mg/j</span></li>
+    <li>Risédronate<br>
+      <span>35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois</span></li>
+    <li>FESF<br>
+      <span>Zolédronate 5 mg IV annuel. Seul avec efficacité démontrée</span></li>
+    <li>Dénosumab<br>
+      <span>60 mg SC tous les 6 mois en relais des BP</span></li>
+    </ul>
+    </div>
+    <div class="collapse" id="div-radio-ttt-vertebral">
+    <ul>
+    <li>Indiqué si T-score ≤ -1</li>
+    <li>Alendronate<br>
+      <span>70 mg/sem ou 10 mg/j</span></li>
+    <li>Risédronate<br>
+      <span>35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois</span></li>
+    <li>Zolédronate<br>
+      <span>5 mg IV annuel</span></li>
+    <li>Dénosumab<br>
+      <span>60 mg SC tous les 6 mois en relais des BP</span></li>
+    <li>Raloxifène<br>
+      <span>60 mg/j (max 70 ans)</span></li>
+    <li>Tériparatide<br>
+      <span>20 µg/j (&ge; 2 fractures vertébrales)</span></li>
+    <li>THM<br>
+      <span>Entre 50 et 60 ans si syndrome climatérique invalidant</span></li>
+    </ul>
+    </div>
+    <div class="collapse" id="div-radio-ttt-nonsevere">
+    <ul>
+    <li>Fracture non sévère: T-score ≤ -2</li>
+    <li>Ménopause avec T-score ≤ -3</li>
+    <li>Alendronate<br>
+      <span>70 mg/sem ou 10 mg/j</span></li>
+    <li>Risédronate<br>
+      <span>35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois</span></li>
+    <li>Zolédronate<br>
+      <span>5 mg IV annuel</span></li>
+    <li>Dénosumab<br>
+      <span>60 mg SC tous les 6 mois en relais des BP</span></li>
+    <li>Raloxifène<br>
+      <span>60 mg/j. Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture périphérique peu élevé en l'absence de: T-score ≤ -3 et risque de chute élevé (TODO: discordance contre-indiqué si antécédent de fracture).</span></li>
+    <li>THM<br>
+      <span>Entre 50 et 60 ans si syndrome climatérique invalidant</span></li>
+    </ul>
+    </div>
+  </div>
+</div>
+<script>
+window.addEventListener('load', function() {
+  $('input[name="chip-traitement"]').on('click', function(){
+  $('.card-osteoporose .collapse').collapse('hide');
+  $(`#div-${this.id}`).collapse('show');
+  });
+});
+</script>
+
+- Dosage des CTX sériques possible entre 3 et 12 mois (marqueurs de la résorption osseuse)
+  - Le matin à jeun à ≥ 6 mois d'une fracture
+  - Doit être dans ou sous les valeurs normales des femmes non ménopausées. Sinon avis spécialisé.
+- Biphosphonates et dénosumab  
+  - Informer du risque très faible d'*ostéonécrose de la mâchoire*, de *fracture atypique fémorale* et d'uvéite
+  - Ne contre-indiquent pas des implants dentaires
+- Raloxifène  
+Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture périphérique peu élevé en l'absence de: T-score ≤ -3 et risque de chute élevé.
+- THM  
+  - Privilégié en ménopause récente (< 60 ans) avec troubles climatériques invalidants ou traitements spécifiques non tolérés
+  - Contrôle de la DXA à 2-3 ans
+  - Peut être associé à un traitement spécifique anti-ostéoporotique
+
+{{%/collapse%}}
+{{%collapse "Suivi du patient ostéoporotique" %}}
+
+- Risque de fracture
+- Risque de chutes
+- Taille, poids, IMC annuels
+- Observance du traitement
+- Ostéodensitométrie tous les 2-3 ans et à chaque modification du traitement
+  - Contrôle de l'absence de perte osseuse (perte > 0,03 g/cm² de DMO)
+  - Après 3 ans de zolédronate: poursuivre si T-score hanche < -2,5
+  - Après 5 ans d'alendronate: idem
+  - Après 4 ans de dénosumab: idem
+- Radiographies dorso-lombaires si perte de taille ≥ 2 cm au cours du suivi
+
+{{%warning%}}Douleurs persistantes de l'aine ou des cuisses chez une patiente traitée par biphosphonate ou dénosumab: éliminer une fracture atypique fémorale{{%/warning%}}
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
