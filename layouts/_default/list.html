@@ -5,20 +5,11 @@
     <div class="row">
       <div class="col-12">
         <h1 class="taxonomyList my-xl-5">{{ .Title }}</h1>
-        {{ $url := replace .RelPermalink ( printf "%s" .Site.BaseURL) "" }}
-        {{ $.Scratch.Add "path" .Site.BaseURL }}
-        <nav aria-label="breadcrumb" class="mb-4">
-          <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="/">Accueil</a></li>
-            {{ range $index, $element := split $url "/" }}
-              {{ $.Scratch.Add "path" $element }}
-                {{ if ne $element "" }}
-                  <li class="breadcrumb-item text-capitalize"><a href="{{ $.Scratch.Get "path" }}/">{{ . }}</a></li>
-                {{ $.Scratch.Add "path" "/" }}
-              {{ end }}
-            {{ end }}
-          </ol>
-        </nav>
+<nav aria-label="breadcrumb" class="mb-4">
+<ol class="breadcrumb">
+  {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+</ol>
+</nav>
       </div>
       {{ range .Pages.ByTitle }}
       <div class="col-sm-6 col-lg-4 d-flex">
