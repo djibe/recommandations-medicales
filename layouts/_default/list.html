@@ -5,11 +5,11 @@
     <div class="row">
       <div class="col-12">
         <h1 class="taxonomyList my-xl-5">{{ .Title }}</h1>
-<nav aria-label="breadcrumb" class="mb-4">
-<ol class="breadcrumb">
-  {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
-</ol>
-</nav>
+        <nav aria-label="breadcrumb" class="mb-4">
+          <ol class="breadcrumb">
+            {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+          </ol>
+        </nav>
       </div>
       {{ range .Pages.ByTitle }}
       <div class="col-sm-6 col-lg-4 d-flex">

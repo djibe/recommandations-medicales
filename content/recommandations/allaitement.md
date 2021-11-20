@@ -31,9 +31,9 @@ todo = ""
 {{% /collapse %}}
 {{%collapse "Location d'un tire-lait" %}}
 
-{{%info%}}Location de tire-lait électrique et ses accessoires pendant 10 semaines{{%/info%}}
+{{%info%}}Location de tire-lait électrique double pompe et ses accessoires pendant 10 semaines{{%/info%}}
 
-Sur prescription dédiée de médecin ou sage-femme uniquement.  
+Sur prescription dédiée de médecin ou sage-femme.  
 Renouvellement possible tous les 3 mois ensuite.
 
 > [Arrêté du 11/03/2019](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038219812)
