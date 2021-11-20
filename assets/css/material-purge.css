@@ -631,6 +631,13 @@ h6,
   line-height: normal;
 }
 
+.typography-subtitle-2 {
+  font-size: 0.875rem;
+  font-weight: 400;
+  letter-spacing: 0.1px;
+  line-height: normal;
+}
+
 .typography-body-1 {
   font-size: 1rem;
   font-weight: 400;

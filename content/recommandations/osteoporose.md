@@ -16,7 +16,7 @@ sctid = "64859006"
 draft = true
 image = true
 imageWEBP = true
-imageSrc = "scientificanimations.com, CC BY-SA 4.0"
+imageSrc = "Illustration de l'ostéoporose par scientificanimations.com, CC BY-SA 4.0"
 todo = "summary, BDPM, ISCD 2015, flowchart, International Osteoporosis Foundation, Prescrire, sources calcium, HAS 2005 chutes, prescription renforcement musculaire, TABS, dose THM prev osseuse"
 +++
 
