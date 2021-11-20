@@ -6,7 +6,7 @@ synonyms = ["Cholécalciferol"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-15T00:28:29+02:00
 publishdate = 2020-04-15
-lastmod = 2021-11-19
+lastmod = 2021-11-20
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2019"
 sources = ["HAS", "SFP", "SFR"]
@@ -81,7 +81,7 @@ Hyperparathyroïdie.
 - Malabsorption  
 [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), mucoviscidose, chirurgie bariatrique.
 - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
-- Sujets âgés à risque de chute
+- Sujets âgés à {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}}
 
 ### 3 objectifs pour les personnes à risque
 
@@ -224,3 +224,8 @@ graph TB
 - [HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
 
 {{% /collapse %}}
+{{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}
+
+{{< clinique/facteur-risque-chute >}}
+
+{{% /modal %}}

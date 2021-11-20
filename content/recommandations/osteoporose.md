@@ -17,7 +17,7 @@ draft = true
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "summary, ISCD 2015, flowchart, International Osteoporosis Foundation, Prescrire, sources calcium, HAS 2005 chutes, prescription renforcement musculaire, TABS"
+todo = "summary, BDPM, ISCD 2015, flowchart, International Osteoporosis Foundation, Prescrire, sources calcium, HAS 2005 chutes, prescription renforcement musculaire, TABS, dose THM prev osseuse"
 +++
 
 {{%article-summary%}}
@@ -41,7 +41,7 @@ Fracture de fragilité sévère
 
 - **Fracture récente** (facteur majeur)  
 {{%class%}}Fracture vertébrale: 25% de récidive dans l'année (non diagnostiquée dans 2/3 des cas). Non vertébrale: risque nettement majoré pendant 3 ans.{{%/class%}}
-- Facteurs de risque de chute
+- {{< modal-btn modal-risque-chute >}}Facteurs de risque de chute{{< /modal-btn >}}
 
 TODO: Insert risque fracture ???
 
@@ -79,9 +79,7 @@ L'ostéoporose est responsable d'un lourd fardeau médico-économique:
 Fractures (ancienneté, type), âge de la ménopause, démence, Parkinson, diabète, maladie cardiovasculaire, BPCO...
 - Traitements en cours  
 Et corticothérapie (dont inhalée) > 3 mois.
-- Facteurs de risque de chute
-  - Antécédent de chute (< 6 mois ++)
-  - Peur de tomber
+- {{< modal-btn modal-risque-chute >}}Facteurs de risque de chute{{< /modal-btn >}}
 - Facteurs de risque de fracture
 - Fracture ostéoporotique  
 Éliminer une cause métabolique, tumorale, génotypique.
@@ -89,7 +87,7 @@ Et corticothérapie (dont inhalée) > 3 mois.
 ### Examen clinique
 
 - Poids, taille, IMC
-- Facteurs de risque de chute
+- Risque de chute
   - {{%lang%}}Timed up and go test{{%/lang%}} > 14s
   - Appui monopodal < 5s
   - Difficulté à garder l'équilibre en poussée sternale
@@ -115,16 +113,21 @@ Indications:
 
 TODO: À revoir avec ISCD 2015
 
-### Ostéodensitométrie
+### Ostéodensitométrie (ODM)
 
 Indications:
 
-- Ménopause avec facteur de risque d'ostéoporose
-- Sujet âgé à risque de chute
+- Ménopause
+  - Avec facteur de risque de fracture
+  - Contrôle 3-5 ans après une ODM sans critère de traitement ou apparition de nouveaux facteurs de risque
+- Sujet âgé à {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}}
 - Fracture ostéoporotique
+- Fracture périphérique sans traumatisme majeur  
+Sauf crâne, face, rachis cervical, 3 premières vertèbres thoraciques, mains et orteils.
 - Traitement anti-ostéoporotique
   - Contrôle tous les 2-3 ans de la réponse au traitement
   - À chaque modification de traitement et en arrêt précoce
+  - 2 ans après l'arrêt du traitement
 
 {{%info%}}Examen diagnostique de l'ostéoporose: T-score ≤ -2,5 DS au col fémoral (*OMS 94*){{%/info%}}
 
@@ -144,12 +147,14 @@ Le seuil d'intervention dépend de l'âge.
 {{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" title="Calcul du FRAX® sur le site officiel">}}
 
 {{%/collapse%}}
-{{%collapse "Mesures générales" %}}
+{{%collapse "Prévention" %}}
+
+Mesures de prévention de l'ostéoporose:
 
 - Arrêt du tabac
 - Soins bucco-dentaires ≥ 1/an (et avant traitement)  
 Débuter le traitement si risque élevé de fracture à court terme.
-- Évaluation gériatrique si risque de chute ou fragilité
+- Évaluation gériatrique si {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} ou fragilité
 - Prévention des chutes
   - Arrêt des somnifères et opiacés, alcool
   - Recherche de l'hypotension orthostatique
@@ -161,13 +166,15 @@ Débuter le traitement si risque élevé de fracture à court terme.
   - Cible ≥ 75 nmol/L
   - Dose d'entretien: 800-1200 UI/j (ou 80-100.000 UI/2-3 mois)
   - Voir *Vitamine D* pour les protocoles de correction
-- Apports calciques  
-Femme ménopausée ≥ 50 ans: 1-1,2 g/j.
+- Apports calciques
+  - Femme ménopausée ≥ 50 ans: 1-1,2 g/j
+  - Produits laitiers, eaux minérales
+  - Évaluation des apports par [questionnaire du GRIO](http://www.grio.org/espace-gp/calcul-apport-calcique-quotidien.php)
 
 {{%/collapse%}}
 {{%collapse "Traitements spécifiques anti-ostéoporotiques: biphosphonates, raloxifène, dénosumab" %}}
 
-Critères de choix du traitement: antécédent de fracture, son type, son ancienneté, l'âge, les autres antécédents, le risque de chute et la DMO. Avis rhumatologique si besoin.
+Critères de choix du traitement: antécédent de fracture, son type, son ancienneté, l'âge, les autres antécédents, le {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} et la DMO. Avis rhumatologique si besoin.
 
 **Cible minimale:** absence de perte osseuse (perte > 0,03 g/cm² de DMO).  
 **DMO très basse et fracture:** cible T-score > -2,5 (voire -2).
@@ -221,7 +228,7 @@ Avis rhumatologique si T-score < -1.
     <li>Raloxifène<br>
       <span>60 mg/j (max 70 ans)</span></li>
     <li>Tériparatide<br>
-      <span>20 µg/j (&ge; 2 fractures vertébrales)</span></li>
+      <span>20 µg/j (&ge; 2 fractures vertébrales). Doit être prolongé par BP ou dénosumab.</span></li>
     <li>THM<br>
       <span>Entre 50 et 60 ans si syndrome climatérique invalidant</span></li>
     </ul>
@@ -258,11 +265,13 @@ window.addEventListener('load', function() {
 - Dosage des CTX sériques possible entre 3 et 12 mois (marqueurs de la résorption osseuse)
   - Le matin à jeun à ≥ 6 mois d'une fracture
   - Doit être dans ou sous les valeurs normales des femmes non ménopausées. Sinon avis spécialisé.
-- Biphosphonates et dénosumab  
+- Biphosphonates (BP) et dénosumab  
   - Informer du risque très faible d'*ostéonécrose de la mâchoire*, de *fracture atypique fémorale* et d'uvéite
   - Ne contre-indiquent pas des implants dentaires
+  - Dénosumab: intérêt après traitement par BP car permet un gain conséquent de DMO
+  - Dénosumab: rebond de perte osseuse à l'arrêt, poursuivre par BP 6-12 mois
 - Raloxifène  
-Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture périphérique peu élevé en l'absence de: T-score ≤ -3 et risque de chute élevé.
+Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture périphérique peu élevé en l'absence de: T-score ≤ -3 et{{< modal-btn modal-risque-chute >}}risque de chute élevé{{< /modal-btn >}}.
 - THM  
   - Privilégié en ménopause récente (< 60 ans) avec troubles climatériques invalidants ou traitements spécifiques non tolérés
   - Contrôle de la DXA à 2-3 ans
@@ -272,7 +281,7 @@ Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture 
 {{%collapse "Suivi du patient ostéoporotique" %}}
 
 - Risque de fracture
-- Risque de chutes
+- {{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}
 - Taille, poids, IMC annuels
 - Observance du traitement
 - Ostéodensitométrie tous les 2-3 ans et à chaque modification du traitement
@@ -283,6 +292,17 @@ Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture 
 - Radiographies dorso-lombaires si perte de taille ≥ 2 cm au cours du suivi
 
 {{%warning%}}Douleurs persistantes de l'aine ou des cuisses chez une patiente traitée par biphosphonate ou dénosumab: éliminer une fracture atypique fémorale{{%/warning%}}
+
+### Arrêt du traitement anti-ostéoporotique
+
+Envisager si les conditions sont remplies:
+
+- Absence de fracture sous traitement
+- Pas de nouveaux facteurs de risque de fracture
+- Perte de DMO < 0,03 g/cm²
+- Si fracture sévère: T-score fémoral de fin de traitement ≥ -2,5 DS (voire -2)
+
+Réévaluation avec ostéodensitométrie 2 ans après l'arrêt du traitement.
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
@@ -317,5 +337,14 @@ Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture 
 Fracture ayant atteint: {{< clinique/osteoporose-fracture-severe >}}
 
 {{% /modal %}}
+{{% modal title="Facteurs de risque de fracture à la ménopause" id="modal-risque-fracture-menopause"%}}
 
+{{< clinique/menopause-risque-fracture >}}
+
+{{% /modal %}}
+{{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}
+
+{{< clinique/facteur-risque-chute >}}
+
+{{% /modal %}}
 ≤≥±®œŒÈ³ÂSpO<sub>2</sub>

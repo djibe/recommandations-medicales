@@ -559,9 +559,9 @@ Décroît après l'arrêt du traitement.
 {{< clinique/risque-cardiovasculaire >}}
 
 {{% /modal %}}
-{{% modal title="Facteurs de risque de fracture" id="modal-risque-fracture"%}}
+{{% modal title="Facteurs de risque de fracture à la ménopause" id="modal-risque-fracture"%}}
 
-{{< clinique/risque-fracture >}}
+{{< clinique/menopause-risque-fracture >}}
 
 {{% /modal %}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}

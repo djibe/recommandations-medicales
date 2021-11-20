@@ -196,9 +196,6 @@ Dyspnée avec polypnée, geignements expiratoires (grunting)
 
 {{%info%}}Pas d'examen complémentaire en cas de forme typique de bronchiolite{{%/info%}}
 
-Pas d’intérêt à un bilan biologique.  
-Pas d’écouvillonnage nasopharyngé.
-
 ### Radiographie pulmonaire
 
 Indications à la radio de thorax:
@@ -206,10 +203,6 @@ Indications à la radio de thorax:
 - Diagnostic incertain
 - Guérison trop lente
 - Gravité évoquant d’autres diagnostiques
-
-### Gaz du sang
-
-Indication: suspicion d’insuffisance respiratoire.
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
