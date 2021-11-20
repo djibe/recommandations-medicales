@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2020-12-22T09:52:41+02:00
 publishdate = 2020-12-22
-lastmod = 2021-09-26
+lastmod = 2021-11-20
 specialites = ["medecine du sommeil"]
 annees = "2018"
 sources = ["SFRMS", "AASM", "HAS"]
@@ -18,7 +18,7 @@ draft = false
 image = true
 imageSrc = "Habib M’henni / Wikimedia Commons"
 imagePNG = true
-todo = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, doc explication PPC"
+todo = "103, 105, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, doc explication PPC"
 +++
 
 {{%article-summary%}}
@@ -46,7 +46,7 @@ HTA diastolique, nocturne et résistante (> 60% des HTA résistantes).
 - Insulinorésistance
 - Troubles de la concentration et de l’humeur
 - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md">}})
-- Accidents de la route (x 2-3)
+- Accidents de la route (x 2-7)
 - Altération de la qualité de vie
 - Décès
 
@@ -55,7 +55,7 @@ Le traitement des apnées réduit significativement les risques.
 
 Index Apnées-Hypopnées (IAH)
 : ({{%lang%}}Apnea-hypopnea index AHI{{%/lang%}})
-: Le comptage est électro-physiologique et définit la sévérité du SAS.
+: Le comptage est électro-physiologique et définit la sévérité du SAS. **On ne considère que les IAH ≥ 15**.
 : Il est calculé comme la somme des événements d’apnées et d’hypopnées = nombre d’apnées + nombre d’hypopnées / nombre d’heures de sommeil enregistrés.
 
 Insomnie
@@ -108,8 +108,8 @@ Hypersomnie
 Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 
 - **Prévalence**  
-  - US: 14% des hommes et 9% des femmes (Peppard P, et al. AJE 2013; 177:1006-1014.)
-  - France: 4% de la population (HAS)
+  - US: 14% des hommes et 9% des femmes (*Peppard AJE 2013*) et jusqu'à 50% des hommes adultes (*Heinzer 2015*)
+  - France: 4% de la population (*HAS*)
   - 1 à 4% des enfants
 - 82% des hommes et 92% des femmes ne sont pas diagnostiqués
 - 60% des SAOS modérés à sévères sont attribuables au surpoids
@@ -120,7 +120,7 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 - 20% ont une *[BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})* associée
 - Association forte au [diabète de type 2]({{< relref "diabete-type-2.md">}})  
 15-30% des SAOS ont un DT2, 40-70% des DT2 ont un SAOS.
-- 60% des insuffisants cardiaques ont une forme d’apnées du sommeil
+- 60% des [insuffisants cardiaques]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ont une forme d’apnées du sommeil
 
 {{% /collapse %}}
 {{%collapse "Dépister les apnées du sommeil" %}}
@@ -180,7 +180,7 @@ Surtout si hypertension résistante, insuffisance rénale d'évolution rapide, r
 
 {{%lang%}}*Epworth sleepiness scale - ESS*{{%/lang%}}
 
-{{< modal-btn modal-score-epworth >}}Échelle auto-administrée{{< /modal-btn >}} pour objectiver la somnolence diurne.  
+{{< modal-btn modal-score-epworth >}}Échelle auto-administrée{{< /modal-btn >}} pour objectiver la somnolence diurne. Il n'est pas performant pour le dépistage du SAOS.  
 {{%class%}}Il est utile d’avoir une confirmation du score par un proche.{{%/class%}}
 
 {{% /collapse %}}
@@ -481,6 +481,7 @@ Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Bonsignore MR et al. European Respiratory Society statement on sleep apnoea, sleepiness and driving risk. Eur Respir J 2021; 57: 2001272](https://doi.org/10.1183/13993003.01272-2020)
 - [Gottlieb DJ, Punjabi NM. Diagnosis and Management of Obstructive Sleep Apnea: A Review. JAMA. 2020;323(14):1389–1400.](https://jamanetwork.com/journals/jama/article-abstract/2764461?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jama.2020.3514)
 - [SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. MMM septembre 2018.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
 - [Ramar K et al, AASM. Clinical Practice Guideline for the Treatment of Obstructive Sleep Apnea and Snoring with Oral Appliance Therapy: An Update for 2015. J Clin Sleep Med JCSM Off Publ Am Acad Sleep Med. 15 juill 2015;11(7):773‑827.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481062/)

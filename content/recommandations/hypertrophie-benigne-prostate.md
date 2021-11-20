@@ -23,6 +23,8 @@ Ces recommandations sont limitées au traitement de l'HBP non compliquée l'homm
 
 {{%article-summary%}}
 
+- Éliminer un diagnostic différentiel
+- Rechercher des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
 TODO:
 
 {{%/article-summary%}}
@@ -67,6 +69,7 @@ Gouttes retardataires, sensation de vidange vésicale incomplète.
 Douleurs périnéales, fièvre, hématurie, antécédents urologiques, facteur de risque de sténose de l'urètre, anomalies neurologiques, malposition ou sténose du méat.
 - Diagnostic différentiel  
 Cancer de prostate, rétrécissement urétral, cancer vésical, prostatite, instabilité idiopathique du détrusor.
+- Rechercher des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
 - Facteurs aggravants
 Traitements par testostérone, alpha-stimulants, atropiniques.
 - Qualité de vie  
