@@ -40,7 +40,8 @@ Elle n'ouvre pas les droits à une prise en charge à 100% mais aux taux habitue
 {{% /collapse %}}
 {{%collapse "ALD exonérante - ALD 30" %}}
 
-Pathologies graves avec traitements coûteux.
+Pathologies graves avec traitements coûteux.  
+Le patient peut accéder à des informations sur l'ALD au sein de son espace Ameli.
 
 Liste établie par décret [révision 2011-77](https://www.ameli.fr/sites/default/files/Documents/3901/document/decret-2011-77_journal-officiel.pdf).
 

@@ -25,7 +25,6 @@ todo = "fiche patiente, https://www.has-sante.fr/jcms/p_3261764/fr/contraception
 - *Rédaction du chapitre en cours*
 - Contraception gratuite jusqu'à 25 ans (au 1<sup>er</sup> janvier 2022, 15 ans actuellement)
 - Informations sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
-- [g-oubliemapilule.com](http://g-oubliemapilule.com/)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

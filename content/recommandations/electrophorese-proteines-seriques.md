@@ -6,11 +6,11 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-17T00:20:41+01:00
 publishdate = 2020-12-17
-lastmod = 2021-10-18
+lastmod = 2021-11-21
 specialites = ["rhumatologie"]
 annees = "2017"
 sources = ["HAS"]
-tags = ["EPS", "Ig monoclonale"]
+tags = ["EPS"]
 anglais = ["Serum protein electrophoresis"]
 sctid = "4903000"
 draft = false
@@ -20,10 +20,10 @@ imageSrc = ""
 
 {{%article-summary%}}
 
-- L’absence de pic étroit à l'EPS ne permet pas d’écarter le diagnostic de myélome à chaînes légères (10 % des myélomes) ou non sécrétant.
+- L’absence de pic étroit à l'EPS ne permet pas d’écarter le diagnostic de myélome à chaînes légères (10 % des myélomes) ou non sécrétant
 - Indications limitées de la réalisation de l'EPS (voir *Indications*)
 - Compléter la découverte du pic monoclonal avec le bilan adapté (voir *Examens complémentaires*)
-- En cas de suspicion d'hémopathie (voir *Qui adresser au spécialiste?*), adresser rapidement au spécialiste. Sinon surveillance à 6 mois puis annuelle.
+- En cas de suspicion d'hémopathie (voir *Qui adresser au spécialiste?*), adresser rapidement au spécialiste. Sinon surveillance à 6 mois puis annuelle
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -40,7 +40,7 @@ Le plus souvent, le pic correspond à une immunoglobuline monoclonale dite *de s
 Indications à l'EPS:
 
 - Syndrome d’hyperviscosité  
-Dosage en urgence.
+{{%class%}}Dosage en urgence.{{%/class%}}
 - Infections à répétition des voies aériennes supérieures et pulmonaires
 - Douleurs osseuses non traumatiques sans anomalies à l’examen radiologique standard
 - Polyarthrite inexpliquée
@@ -49,7 +49,7 @@ Dosage en urgence.
 - Neuropathie périphérique inexpliquée
 - Purpura vasculaire
 - Anomalies de l’hémogramme sans cause évidente  
-Anémie, lymphopénie isolée ou hyperlymphocytose.
+{{%class%}}Anémie, lymphopénie isolée ou hyperlymphocytose.{{%/class%}}
 - VS élevée avec CRP normale  
 {{%class%}}En dehors de la grossesse et en tenant compte de l’âge.{{%/class%}}
 - Hypercalcémie  
@@ -59,9 +59,9 @@ Anémie, lymphopénie isolée ou hyperlymphocytose.
 - Certaines anomalies osseuses radiologiques  
 Fracture vertébrale suspecte, fracture pathologique, géodes.
 - [Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}) (*COFER*)
-- [Bouffées vasomotrices atypiques]({{< relref "menopause.md" >}} ) (*CNGOF 2021*)
+- [Bouffées vasomotrices atypiques]({{< relref "menopause.md" >}} ) (*CNGOF 2021 Ménopause*)
 
-> Source HAS 2017
+> *HAS 2017*
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -70,13 +70,14 @@ Bilan minimal de première intention en présence d'un pic monoclonal d'immunogl
 
 - NFS
 - Créatininémie
-- Pic d'IgA/IgG: calcémie corrigée
-- Pic IgM: LDH
+- Pic d'immunoglobuline
+  - IgA/IgG: calcémie corrigée
+  - IgM: LDH
 - Imagerie seulement si points d'appel
 
-> Source HAS 2017
+> *HAS 2017*
 
-**NB.** Le dosage des chaînes légères libres relève du spécialiste et n'est pas remboursé en ville.
+{{%info%}}Le dosage des chaînes légères libres relève du spécialiste et n'est pas remboursé en ville{{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Qui adresser au spécialiste?" %}}
@@ -95,8 +96,9 @@ Lésions osseuses.
 - Asymptomatique avec:
   - ≥ 1 anomalie au bilan de 1<sup>re</sup> intention.
   - Ig monoclonale avec IgG > 15 g/L, IgA ou IgM > 10 g/L.
-
 {{%/warning%}}
+
+> *HAS 2017*
 
 Voir *Surveillance* pour les patients non adressés.
 
@@ -114,10 +116,10 @@ Dans le même laboratoire avec la même technique.
 - Pic d'IgA/IgG: calcémie corrigée
 - Pic IgM: LDH
 
-> Source HAS 2017
+> *HAS 2017*
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%collapse "Source" %}}
 
 [HAS. Quand prescrire une électrophorèse des protéines sériques (EPS) et conduite à tenir en cas d’une immunoglobuline monoclonale. Janvier 2017](https://www.has-sante.fr/upload/docs/application/pdf/2017-01/dir1/fiche_memo_eps__v2.pdf)
 

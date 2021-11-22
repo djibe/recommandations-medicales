@@ -32,7 +32,7 @@ todo = "TODO: gono, https://www.eacsociety.org/files/2019_guidelines-10.0_final.
 
 **HSH:** Homme ayant des rapports sexuel avec des hommes
 
-Surexposition au [VIH]({{{{< relref "vih-sida.md" >}}}}) (prévalence 13%, 45% des cas), [syphilis]({{< relref "syphilis.md" >}}) (80% des cas), [HPV]({{< relref "papillomavirus.md" >}}), [hépatite A]({{< relref "hepatite-A.md" >}}), autres IST.
+Surexposition au [VIH]({{< relref "vih-sida.md" >}}) (prévalence 13%, 45% des cas), [syphilis]({{< relref "syphilis.md" >}}) (80% des cas), [HPV]({{< relref "papillomavirus.md" >}}), [hépatite A]({{< relref "hepatite-A.md" >}}), autres IST.
 
 ### Épidémiologie
 

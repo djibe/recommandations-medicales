@@ -246,7 +246,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
       let externalLinks = document.querySelectorAll('a[href^="http"]:not([href*="netlify.app"])')
       externalLinks.forEach((elem) => {
         elem.setAttribute('target', '_blank')
-        elem.setAttribute('rel', 'nofollow noopener')
+        elem.setAttribute('rel', 'external nofollow noopener')
       })
       let internalLinks = document.querySelectorAll('.recommandation__content a[href^="/recommandations/"]:not([href*="#"])')
       internalLinks.forEach((elem) => {

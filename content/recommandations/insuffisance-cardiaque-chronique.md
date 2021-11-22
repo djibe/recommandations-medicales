@@ -375,7 +375,7 @@ Sous 2 semaines +++ à 2 mois.
 - Consulter en aggravation des symptômes ou l'absence d'amélioration sous traitement
 - Intensité des symptômes
 - Activités de la vie quotidienne
-- [Pression artérielle - fréquence cardiaque - poids](https://www.heartfailurematters.org/static-file/HeartFailureMatters/Documents/FR/Surveiller%20vos%20signes%20vitaux.pdf?mts=1594029980000.pdf)
+- [Pression artérielle - fréquence cardiaque - poids](https://www.heartfailurematters.org/wp-content/uploads/2021/02/Surveiller-vos-signes-vitaux.pdf)
 - Sel, alcool, tabac
 - Activité physique
 - Posologies en cours
@@ -435,7 +435,7 @@ Comprendre les causes de l'IC, les symptômes et l'évolution.
   - Numéros à appeler en urgence
   - Prendre des diurétiques à la demande si pertinent et conseillé
   - Identifier les facteurs de décompensation
-- [Signes d'alerte](https://www.heartfailurematters.org/static-file/HeartFailureMatters/Documents/FR/Signes%20d'alerte.pdf?mts=1594026854000.pdf)
+- [Signes d'alerte](https://www.heartfailurematters.org/wp-content/uploads/2021/02/Surveiller-vos-signes-vitaux.pdf)
   - Perte de poids trop rapide, soif, sécheresse de la bouche
   - Prise de 2 kg en 3 jours
   - Aggravation d'œdèmes
