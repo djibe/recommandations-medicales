@@ -58,7 +58,19 @@
           <p class="typography-subtitle-2">Cardiovasculaire</p>
           <a href="https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf" target="_blank" rel="nofollow noopener">Carnet d'automesure 2021</a><a href="https://heartscore.escardio.org/2016/quickcalculator.aspx?model=EuropeLow" target="_blank" rel="nofollow noopener">HeartScore</a><a href="https://www.diabeclic.com/findrisc" target="_blank" rel="nofollow noopener">Risque de diabète</a>
           <!-- risque CV, risque SAOS, risque AOMI, Pneumo: ACT, CAT-->
+        </div>
       </div>
+      <p class="typography-overline mt-5" style="color: #666">La vie au cabinet</p>
+      <div class="home-cabinet">
+      {{ range ( where site.RegularPages "Section" "cabinet" | first 6 ) }}
+          <div class="card card-primary-action card-body" style="max-width: 380px;">
+            <h3 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h3>
+            <p class="card-subtitle pb-0">
+              {{ with .Params.auteurs}}{{ delimit . ", " }}{{ end }} le
+              <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .Lastmod.Format "2 Jan" }}</time>
+            </p>
+          </div>
+      {{ end }}
       </div>
       <p class="typography-overline mt-5" style="color: #666">Derniers articles</p>
       <div class="home-articles">

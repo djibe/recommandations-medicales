@@ -1,26 +1,27 @@
 +++
-title = "Aides à l'installation du médecin généraliste'"
+title = "Aides à l'installation du médecin généraliste"
 prefix = ""
 shortname = "Aides installation"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-11-17T20:00:00+02:00
-publishdate = 2021-11-21
-lastmod = 2021-11-21
-specialites = []
-sources = []
+publishdate = 2021-11-22
+lastmod = 2021-11-22
+sources = ["PAPS", "Ameli Pro", "ARS"]
 tags = []
-sctid = ""
-draft = true
+draft = false
 image = false
 imageSrc = ""
-todo = "PIAS, CESP"
+todo = "forfait structure et exonérations fiscales"
 +++
+
+[PAPS - Synthèse des aides dans Le Portail d'Accompagnement des Professionnels de Santé de votre région](https://www.iledefrance.paps.sante.fr/les-aides-linstallation-29?rubrique=10010) ou {{<phone>}}3608{{</phone>}}
 
 {{%collapse "Définitions" %}}
 
 Zone d'intervention prioritaire (ZIP)
-: Commune ou quartier en forte tension médicale.
+: Commune ou quartier en forte tension médicale (zones les plus déficitaires).
+: Les ZIP sont en jaune [sur la carte Rezone](http://rezone.ameli.fr/rezone/cartoMed.html), les ZAC en bleu clair.
 
 Zone d'action complémentaire (ZAC)
 : Commune ou quartier en tension médicale moyenne.
@@ -38,6 +39,18 @@ Communauté Professionnelle Territoriale de Santé (CPTS)
 : Toujours sur la base du volontariat, la CPTS regroupe tous les acteurs de la santé qui souhaitent coordonner l’ensemble du parcours de santé sur le territoire.  
 Comme l’ESP, une CPTS doit se regrouper autour d’une thématique commune de santé, clairement identifié. Contrairement à l’ESP, la thématique de santé doit être un reflet de la population du territoire et non pas uniquement de la patientèle. Ainsi, il n’est pas non plus question d’avoir un certain niveau de patientèle en commun pour les différents participants de la CPTS.  
 Le projet de santé est un prérequis indispensable à la signature d’une CPTS de la part des professionnels et de l’ARS.
+
+### Quelle différence entre ESP et CPTS ?
+
+Aussi bien l’ESP que la CPTS ont le même but : définir un cadre de travail commun entre professionnels de la santé exerçant sur un territoire qualifié de sous-dense par l’ARS, cela dans le but de maximiser le parcours santé des patients du territoire.
+
+En dehors des aides auxquelles ont est en droit de prétendre lorsqu’on travaille en commun sous ce type de contrat, il est à noter que les deux sont contractualisés sous la forme du volontariat individuel.
+
+3 différences principales:
+
+- L’ESP doit compter en son sein au moins un médecin général ; pas pour la CPTS,
+- L’ESP doit être composé de professionnels de la santé de 1er et 2nd recours ; pas pour la CPTS,
+- Le projet de santé doit toucher les patients de la patientèle des médecins se regroupant pour l’ESP alors que la CPTS, cela doit refléter l’ensemble de la population du territoire couvert par la CPTS.
 
 {{%/collapse%}}
 {{%collapse "Cartes des zones d'installation prioritaires" %}}
@@ -104,20 +117,50 @@ Inciter les médecins des zones non sous-dotées à exercer à temps partiel dan
 {{%/collapse%}}
 {{%collapse "Aides des ARS" %}}
 
-### Contrat de début d’exercice
+### CDE: Contrat de début d’exercice
 
 Faciliter l'installation en zone sous-dense.
 
 **Conditions:**
 
 - Durée maximale de 3 ans non renouvelable
-- En zone sous-dense en secteur 1 ou 2 OPTAM
-- Primo-installation depuis < 1 an,  remplaçant inscrit à l’Ordre depuis < 1 an, étudiant titulaire d’une licence de remplacement
+- En zone sous-dense (ZIP ou ZAC) en secteur 1 ou 2 OPTAM
+- Exercer ≥ 2,5 j/semaine
+- Primo-installation depuis < 1 an, remplaçant inscrit à l’Ordre depuis < 1 an, étudiant titulaire d’une licence de remplacement
+- Délai de 2 ans maximum après la signature du CDE pour pratiquer dans une MSP, ESP ou une CPTS
 
-> [Ameli Médecin. Contrat de début d’exercice : une nouveauté pour faciliter l’installation des jeunes médecins. 29/03/2021.](https://www.ameli.fr/medecin/actualites/contrat-de-debut-dexercice-une-nouveaute-pour-faciliter-linstallation-des-jeunes-medecins)
+**Avantages:**
+
+- Rémunération complémentaire proportionnelle la première année avec seuil d'activité minimale  
+Ex 4j/semaine: rémunération de 7550€/mois garantis sous réserve de 3775€/mois de chiffre.
+- Un accompagnement à la gestion administrative  
+Accompagnement défini par l'ARS: comptabilité, gestion, fiscalité, fonction d’employeur.
+- Protection sociale plus étendue  
+Couverture maladie dès 8j d'arrêt (68€/j), maternité/paternité/adoption.
+
+> *[Ameli Médecin. Contrat de début d’exercice : une nouveauté pour faciliter l’installation des jeunes médecins. 29/03/2021.](https://www.ameli.fr/medecin/actualites/contrat-de-debut-dexercice-une-nouveaute-pour-faciliter-linstallation-des-jeunes-medecins)*
 
 {{%/collapse%}}
 {{%collapse "Aides régionales" %}}
+
+### Région Île-de-France
+
+[Prochaines permanences locales d'aide à l'installation](https://www.soignereniledefrance.org/conseils/1-sinscrire-la-permanence-locale-daide-linstallation/).
+
+#### Aide à l'installation des professionnels de santé libéraux
+
+Financement de 50% des dépenses (max 15.000 €) des travaux d'installation et/ou acquisition de l'équipement (médical, informatique, sécurité).  
+Plafond de 30.000 € par cabinet.
+
+> *[Site du CRIF](https://www.iledefrance.fr/aide-linstallation-des-professionnels-de-sante-liberaux)*
+
+#### Aides aux maisons de santé pluriprofessionnelles (MSP), centres de santé et cabinets de groupe
+
+Financement de la création de nouvelles structures d'exercices collectif (création, l’extension et l’équipement de ces établissements).
+
+- Subvention à hauteur de 30% du montant (immobilier + travaux) avec un plafond de 250.000 €
+- À hauteur de 50% de la dépense de l'équipement dans la limite de 100.000 €
+
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
@@ -127,14 +170,7 @@ Les références sont mentionnées sous chaque article.
 
 ### À lire
 
-- [PAPS Ile-de-France. Les aides à l'installation. 25/03/2021.](https://www.iledefrance.paps.sante.fr/les-aides-linstallation-29?rubrique=10010)
-- https://www.ameli.fr/medecin/exercice-liberal/vie-cabinet/aides-financieres
-- https://www.iledefrance.fr/aides-aux-maisons-de-sante-pluriprofessionnelles-msp-centres-de-sante-et-cabinets-de-groupe
-- https://www.ameli.fr/hauts-de-seine/medecin/exercice-liberal/vie-cabinet/aides-financieres/modernisation-cabinet
-- https://solidarites-sante.gouv.fr/IMG/pdf/rapport_augros_2019.pdf  
-Tu peux même obtenir des aides du CR ÎLE de France. Exemple page 49.
-- Pas acté
-  - https://www.publicsenat.fr/article/parlementaire/le-senat-demande-des-zones-franches-medicales-pour-attirer-les-medecins-191133
-  - http://www.senat.fr/fileadmin/Fichiers/Images/redaction_multimedia/2021/2021-Documents_PDF/20211020_DCT_Deserts_medicaux_Rapport.pdf
+- [Forfait structure](https://www.ameli.fr/hauts-de-seine/medecin/exercice-liberal/vie-cabinet/aides-financieres/modernisation-cabinet)
+- [Exonérations fiscales](https://www.iledefrance.paps.sante.fr/les-exonerations-fiscales-105?rubrique=10010&parent=10018)
 
 {{%/collapse%}}

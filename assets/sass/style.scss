@@ -394,7 +394,7 @@ article {
 .projet__content {
   max-width: 80ch;
 
-  h2 {
+  h2:not([data-toggle="collapse"]) {
     letter-spacing: -.0083333333em;
     margin: 48px 0 24px;
   }
