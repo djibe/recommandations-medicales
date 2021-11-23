@@ -366,4 +366,3 @@ Fracture ayant atteint: {{< clinique/osteoporose-fracture-severe >}}
 {{< clinique/facteur-risque-chute >}}
 
 {{% /modal %}}
-≤≥±®œŒÈ³ÂSpO<sub>2</sub>

@@ -13,16 +13,17 @@ sources = ["HAS", "FFN"]
 tags = []
 anglais = ["Undernutrition"]
 sctid = "65404009"
-draft = true
+draft = false
 image = false
 imageSrc = ""
-todo = "MNA outil dépistage, critères EWGSOP 2019 p. 9, taille tient pas debout p. 10, calc % perte poids, annexes, Prescrire, prescription CNO"
+todo = "taille tient pas debout p. 10, calc % perte poids, annexes, Prescrire, prescription CNO, SFNCM"
 +++
 
 {{%article-summary%}}
 
+- Dépister avec le {{< modal-btn modal-mna >}}Mini Nutritional Assessment{{< /modal-btn >}} (MNA)
 - Le diagnostic est clinique: association d'un critère phénotypique et d'un critère étiologique
-- Poids à chaque consultation, reporté dans les dossier médical, DMP, carnet de santé
+- Poids à chaque consultation (reporté dans les dossier médical, DMP, carnet de santé...)
 - Un IMC élevé n'exclut pas une dénutrition
 
 {{%/article-summary%}}
@@ -35,29 +36,35 @@ pertes ou une association de ceux-ci.
 Le déséquilibre nutritionnel est caractérisé par un bilan énergétique et/ou protéique négatif.
 . Elle touche > 2 millions de français.
 
-Syndrome de renutrition
-: TODO:
-
 Albuminémie
 : Elle doit être dosée par immunonéphélémétrie ou immunoturbidimétrie (pas d'électrophorèse).  
 Elle n'est qu'un *critère de sévérité* de la dénutrition et non un critère diagnostique.
 
+Syndrome de renutrition inappropriée
+: Manifestations adverses cliniques et biologiques observées à la renutrition de patients dénutris ou ayant subi un jeûne ou une restriction alimentaire prolongée (*SFNCM*).
+: Cliniquement: œdèmes, défaillance d'organes, troubles électrolytiques.
+
 ### Abréviations
 
-**IMC:** indice de masse corporelle (en kg/m²)
+**FFN:** Fédération française de nutrition  
+**HAS:** Haute Autorité de Santé  
+**IMC:** indice de masse corporelle (en kg/m²)  
+**MNA®:** {{%lang%}}Mini Nutritional Assessment{{%/lang%}} (Nestlé)  
 **PE:** protéino-énergétiques
 
 {{% /collapse %}}
 {{%collapse "Dénutrition du sujet âgé" %}}
 
-### 1. Diagnostic de dénutrition chez le sujet âgé
-
 Adulte ≥ 70 ans.
 
+### 1. Diagnostic de dénutrition chez le sujet âgé
+
 - Critères phénotypiques
-  - Perte de poids ≥ 5% en 1 mois ou ≥ 10% en 6 mois ou ≥ 10% par rapport au poids habituel avant le début de la maladie
+  - Perte de poids ≥ 5% en 1 mois  
+  ou ≥ 10% en 6 mois  
+  ou ≥ 10% par rapport au poids habituel avant le début de la maladie
   - IMC < 22
-  - Sarcopénie confirmée
+  - {{< modal-btn modal-sarcopenie >}}Sarcopénie confirmée{{< /modal-btn >}}
 - Critères étiologiques
   - Réduction de la prise alimentaire ≥ 50% pendant > 1 semaine ou toute réduction des apports pendant > 2 semaines par rapport à la consommation habituelle ou aux besoins PE
   - Malabsorption, maldigestion
@@ -83,9 +90,11 @@ Dénutrition sévère si ≥ 1 critère parmi:
 ### 1. Diagnostic de dénutrition chez l'adulte
 
 - Critères phénotypiques
-  - Perte de poids ≥ 5% en 1 mois ou ≥ 10% en 6 mois ou ≥ 10% par rapport au poids habituel avant le début de la maladie
+  - Perte de poids ≥ 5% en 1 mois  
+  ou ≥ 10% en 6 mois  
+  ou ≥ 10% par rapport au poids habituel avant le début de la maladie
   - IMC < 18,5
-  - Réduction quantifiée de la masse et/ou de la fonction musculaires
+  - {{< modal-btn modal-sarcopenie >}}Réduction quantifiée de la masse et/ou de la fonction musculaires{{< /modal-btn >}}
 - Critères étiologiques
   - Réduction de la prise alimentaire ≥ 50% pendant > 1 semaine ou toute réduction des apports pendant > 2 semaines par rapport à la consommation habituelle ou aux besoins PE
   - Malabsorption, maldigestion
@@ -113,7 +122,9 @@ Enfant < 18 ans.
 ### 1. Diagnostic de dénutrition chez l'enfant
 
 - Critères phénotypiques
-  - Perte de poids ≥ 5% en 1 mois ou ≥ 10% en 6 mois ou ≥ 10% par rapport au poids habituel avant le début de la maladie
+  - Perte de poids ≥ 5% en 1 mois  
+  ou ≥ 10% en 6 mois  
+  ou ≥ 10% par rapport au poids habituel avant le début de la maladie
   - IMC < courbe 18,5 kg/m² (courbes IMC IOTF [filles](https://cress-umr1153.fr/wp-content/uploads/2018/03/Courbes-IMC-filles-1-18-ans-AFPA-CRESS-Inserm-CGM-2018.pdf), [garçon](https://cress-umr1153.fr/wp-content/uploads/2018/03/Courbes-IMC-garcons-1-18-ans-AFPA-CRESS-Inserm-CGM-2018.pdf))
   - Stagnation pondérale aboutissant à un décalage du poids 2 couloirs en dessous (courbes poids IOTF [filles](https://cress-umr1153.fr/wp-content/uploads/2018/03/Courbes-Taille-et-Poids-filles-1-18-ans-AFPA-CRESS-Inserm-CGM-2018.pdf), [garçon](https://cress-umr1153.fr/wp-content/uploads/2018/03/Courbes-Taille-et-Poids-garcons-1-18-ans-AFPA-CRESS-Inserm-CGM-2018.pdf))
   - Réduction de la masse et/ou de la fonction musculaires
@@ -138,6 +149,21 @@ Enfant < 18 ans.
 Réévaluation à chaque consultation, au moins mensuelle.
 
 {{% /collapse %}}
+{{%collapse "Surveillance" %}}
+
+Réévaluation à chaque consultation, au moins mensuelle (trimestrielle mois chez l'adulte).
+
+- Poids (même balance), IMC
+- Appétit et consommation alimentaire
+  - Échelle visuelle analogique ou verbale
+  - Échelle semi-quantitative (portions)
+  - Calculés par un diététicien
+- Force musculaire  
+{{< modal-btn modal-sarcopenie >}}Préhension{{< /modal-btn >}} ou test du lever de chaise.
+- État bucco-dentaire
+- Mastication et déglutition
+
+{{% /collapse %}}
 {{%collapse "Sources" %}}
 
 - [HAS, FFN. Diagnostic de la dénutrition chez la personne de 70 ans et plus. Recommandation de bonne pratique. Novembre 2021.](https://www.has-sante.fr/jcms/p_3165944/fr/diagnostic-de-la-denutrition-chez-la-personne-de-70-ans-et-plus)
@@ -148,5 +174,13 @@ Réévaluation à chaque consultation, au moins mensuelle.
 https://www.luttecontreladenutrition.fr/seconde-semaine-nationale-de-la-denutrition-du-12-au-20-novembre-2021/
 
 {{% /collapse %}}
+{{% modal title="Définition de la sarcopénie" id="modal-sarcopenie"%}}
 
-≤≥±®œŒÈ³ÂSpO<sub>2</sub>
+{{< clinique/denutrition-sarcopenie >}}
+
+{{% /modal %}}
+{{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
+
+{{< scores/mna >}}
+
+{{% /modal %}}

@@ -156,7 +156,7 @@ Asthme, allergie, atopie, sinusite, polypes du rhinopharynx, infections respirat
   - Cancers liés au tabac (VADS, vessie, digestifs)
   - Dépression, anxiété, addictions, troubles cognitifs
   - Ostéoporose et amyotrophie
-  - Obésité, dénutrition, anémie et polyglobulie
+  - Obésité, [dénutrition]({{< relref "denutrition.md" >}} ), anémie et polyglobulie
   - DDB, [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
   - [RGO]({{< relref "reflux-gastro-oesophagien.md" >}})
 - Antécédents familiaux  

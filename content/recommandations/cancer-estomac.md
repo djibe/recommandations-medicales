@@ -16,7 +16,7 @@ sctid = "363349007"
 draft = false
 image = true
 imageSrc = "Coupe histopathologique comparative d'adénocarcinome gastrique par Green, John et al. CC BY 4.0, via Wikimedia Commons"
-todo = "algo, FDR: IPP > 1 an ?, dénutrition"
+todo = "algo, FDR: IPP > 1 an ?"
 +++
 
 {{%article-summary%}}
@@ -159,7 +159,7 @@ EOGD tous les 2 ans après 10 ans de suivi.
 - Splénectomie  
 [Réaliser la prévention associée.]({{< relref "asplenie.md" >}})
 - Examen clinique tous les 6 mois pendant ≥ 5 ans  
-Signes de récidive, signes de dénutrition.
+Signes de récidive, signes de {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}.
 - Abstinence tabac et alcool
 - Biologique  
 NFS, folates x 1/an.
@@ -192,3 +192,8 @@ NFS, folates x 1/an.
 - [Collège Français des Pathologistes (CoPath). Tumeurs de l'estomac. Item 300.](http://campus.cerimes.fr/anatomie-pathologique/enseignement/anapath_19/site/html/2.html)
 
 {{% /collapse %}}
+{{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
+
+{{< scores/mna >}}
+
+{{% /modal %}}

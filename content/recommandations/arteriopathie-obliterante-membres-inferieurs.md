@@ -249,7 +249,7 @@ Par haut risque cardiovasculaire pour évaluer le risque coronarien et d'insuffi
 - Mise à jour de la vaccination antitétanique
 - Apports sodés < 5 g/j
 - Régime méditerranéen et correction d'un surpoids  
-Évaluations diététiques répétées, lutte contre la dénutrition.
+Évaluations diététiques répétées, lutte contre la {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}.
 - Réadaptation vasculaire en centre voire par kinésithérapeute
 - Activité physique quotidienne  
 Auto-exercices et podomètre.
@@ -334,5 +334,10 @@ style depister stroke:#4150f5, stroke-width:1px
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}
 
 {{< traitements/regime-mediterraneen >}}
+
+{{% /modal %}}
+{{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
+
+{{< scores/mna >}}
 
 {{% /modal %}}

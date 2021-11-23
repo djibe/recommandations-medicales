@@ -92,7 +92,7 @@ BNP ≥ 35 pg/mL ou NT-proBNP ≥ 125 pg/mL
 - Sévérité de l'insuffisance cardiaque  
 {{< modal-btn score-nyha >}}Dyspnée NYHA III-IV{{< /modal-btn >}}, ancienneté de l'IC, VO<sub>2</sub>max basse, respiration de Cheyne-Stokes, performances limitées (test de marche de 6 minutes), hospitalisations, activité du DAI.
 - Clinique  
-FC de repos élevée, PA basse, rétention hydro-sodée, dénutrition.
+FC de repos élevée, PA basse, rétention hydro-sodée, {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}.
 - Dysfonction cardiaque  
 FEVG basse, dilatation VG, dysfonction VG sévère...
 - Biomarqueurs  
@@ -538,5 +538,10 @@ réalistes
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}
 
 {{< traitements/regime-mediterraneen >}}
+
+{{% /modal %}}
+{{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
+
+{{< scores/mna >}}
 
 {{% /modal %}}

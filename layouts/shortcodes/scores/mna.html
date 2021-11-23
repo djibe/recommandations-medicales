@@ -1,0 +1,98 @@
+<form class="my-4" id="score-mna" autocomplete="off">
+  <p>MNA-SF&reg;: version courte pour le dépistage de la dénutrition.</p>
+  <fieldset>
+    <legend>A. Le patient présente-t-il une perte d’appétit? A-t-il moins mangé ces 3 derniers mois par manque d’appétit, problèmes digestifs, difficultés de mastication ou de déglutition&nbsp;?</legend>
+    <p class="typography-caption">Pour les prises alimentaires:</p>
+    <input type="radio" id="mna-11" name="radio-mna-1" class="d-input-none" value="0" required>
+    <label for="mna-11" class="chip chip-action chip-sm chip-choice">Baisse sévère</label>
+    <input type="radio" id="mna-12" name="radio-mna-1" class="d-input-none" value="1">
+    <label for="mna-12" class="chip chip-action chip-sm chip-choice">Légère baisse</label>
+    <input type="radio" id="mna-13" name="radio-mna-1" class="d-input-none" value="2">
+    <label for="mna-13" class="chip chip-action chip-sm chip-choice">Pas de baisse</label>
+  </fieldset>
+  <fieldset>
+    <legend>B. Perte récente de poids (&lt; 3 mois)&nbsp;?</legend>
+    <input type="radio" id="mna-21" name="radio-mna-2" class="d-input-none" value="0" required>
+    <label for="mna-21" class="chip chip-action chip-sm chip-choice">&gt; 3 kg</label>
+    <input type="radio" id="mna-22" name="radio-mna-2" class="d-input-none" value="1">
+    <label for="mna-22" class="chip chip-action chip-sm chip-choice">Ne sait pas</label>
+    <input type="radio" id="mna-23" name="radio-mna-2" class="d-input-none" value="2">
+    <label for="mna-23" class="chip chip-action chip-sm chip-choice">Entre 1 et 3 kg</label>
+    <input type="radio" id="mna-24" name="radio-mna-2" class="d-input-none" value="3">
+    <label for="mna-24" class="chip chip-action chip-sm chip-choice">Pas de perte de poids</label>
+  </fieldset>
+  <fieldset>
+    <legend>C. Motricité</legend>
+    <input type="radio" id="mna-31" name="radio-mna-3" class="d-input-none" value="0" required>
+    <label for="mna-31" class="chip chip-action chip-sm chip-choice">Lit ou fauteuil</label>
+    <input type="radio" id="mna-32" name="radio-mna-3" class="d-input-none" value="1">
+    <label for="mna-32" class="chip chip-action chip-sm chip-choice">Autonome à l'intérieur</label>
+    <input type="radio" id="mna-33" name="radio-mna-3" class="d-input-none" value="2">
+    <label for="mna-33" class="chip chip-action chip-sm chip-choice">Sort du domicile</label>
+  </fieldset>
+  <fieldset>
+    <legend>D. Maladie aiguë ou stress psychologique au cours des 3 derniers mois&nbsp;?</legend>
+    <input type="radio" id="mna-41" name="radio-mna-4" class="d-input-none" value="0" required>
+    <label for="mna-41" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="mna-42" name="radio-mna-4" class="d-input-none" value="2">
+    <label for="mna-42" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>E. Problèmes neuropsychologiques</legend>
+    <input type="radio" id="mna-51" name="radio-mna-5" class="d-input-none" value="0" required>
+    <label for="mna-51" class="chip chip-action chip-sm chip-choice">Démence ou dépression sévère</label>
+    <input type="radio" id="mna-52" name="radio-mna-5" class="d-input-none" value="1">
+    <label for="mna-52" class="chip chip-action chip-sm chip-choice">Démence modérée</label>
+    <input type="radio" id="mna-53" name="radio-mna-5" class="d-input-none" value="2">
+    <label for="mna-53" class="chip chip-action chip-sm chip-choice">Pas de problème psychologique</label>
+  </fieldset>
+  <fieldset>
+    <legend>F. IMC</legend>
+    <input type="radio" id="mna-a1" name="radio-mna-a" class="d-input-none" value="0" required>
+    <label for="mna-a1" class="chip chip-action chip-sm chip-choice">&lt; 19</label>
+    <input type="radio" id="mna-a2" name="radio-mna-a" class="d-input-none" value="1">
+    <label for="mna-a2" class="chip chip-action chip-sm chip-choice">19 &le; IMC &lt; 21</label>
+    <input type="radio" id="mna-a3" name="radio-mna-a" class="d-input-none" value="2">
+    <label for="mna-a3" class="chip chip-action chip-sm chip-choice">21 &le; IMC &lt; 23</label>
+    <input type="radio" id="mna-a4" name="radio-mna-a" class="d-input-none" value="3">
+    <label for="mna-a4" class="chip chip-action chip-sm chip-choice">&ge; 23</label>
+  </fieldset>
+  <div class="alert bg-light d-flex mt-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:2rem">Score MNA</p>
+      <span class="font-weight-bold" id="mnaScore" style="font-size:2rem">0</span>
+    </div>
+    <p id="mnaText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  </div>
+</form>
+<blockquote class="mt-4">
+  <p lang="en">Rubenstein LZ et al. Screening for Undernutrition in Geriatric Practice: Developing the Short-Fom Mini Nutritional Assessment (MNA-SF). J. Geront 2001;56A: M366-377.</p>
+</blockquote>
+{{ $script := `
+  // Score EHP-5 by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scoremna = document.getElementById('mnaScore')
+    const textmna = document.getElementById('mnaText')
+    const mnaElems = document.querySelectorAll('#score-mna input[type=\"radio\"]')
+    mnaElems.forEach((mnaElem) => { mnaElem.addEventListener('click', () => {
+      mna()
+    }) })
+    const mna = () => {
+      let score = 0
+      const mnaElemsChecked = document.querySelectorAll('#score-mna input[type=\"radio\"]:checked')
+      mnaElemsChecked.forEach(mnaElemChecked => {
+        score += parseInt(mnaElemChecked.value, 10)
+        if (mnaElemsChecked.length === 6) {
+          scoremna.innerHTML = score
+          if (score <= 7) {
+            textmna.innerHTML = 'Dénutrition avérée'
+          } else if (score >= 8 && score <= 11) {
+            textmna.innerHTML = 'À risque de dénutrition'
+          } else {
+            textmna.innerHTML = 'État nutritionnel normal'
+          }
+        }
+      })
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>
