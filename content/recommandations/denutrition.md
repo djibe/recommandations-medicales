@@ -53,6 +53,53 @@ Syndrome de renutrition inappropriée
 **PE:** protéino-énergétiques
 
 {{% /collapse %}}
+{{%collapse "Calculs: perte de poids - IMC - taille" %}}
+
+### Estimation de la taille
+
+Lorsque la taille n'est pas mesurable par une toise, on l'estime par la *formule de Chumlea* (taille du corps entier extrapolée à partir de la distance talon-genou).
+
+<div class="card card-body card-border mb-5" style="max-width: 280px">
+<form>
+  <div class="form-group">
+    <input type="radio" id="chumlea-1" name="chumlea-radio" class="d-input-none" value="f" required checked>
+    <label for="chumlea-1" class="chip chip-action chip-choice">Femme</label>
+    <input type="radio" id="chumlea-1bis" name="chumlea-radio" class="d-input-none" value="h">
+    <label for="chumlea-1bis" class="chip chip-action chip-choice">Homme</label>
+  </div>
+  <div class="form-group floating-label textfield-box form-ripple">
+    <label for="chumlea-age">Âge (ans)</label>
+    <input class="form-control" id="chumlea-age" type="number" min="18" max="120">
+  </div>
+  <div class="form-group floating-label textfield-box form-ripple">
+    <label for="chumlea-jambe">Taille de la jambe (cm)</label>
+    <input class="form-control" id="chumlea-jambe" type="number" min="20" max="80">
+  </div>
+  <div class="form-group floating-label textfield-box form-ripple">
+    <label for="chumlea-calc">Taille estimée (cm)</label>
+    <input class="form-control" id="chumlea-calc" type="text" disabled>
+  </div>
+</form>
+</div>
+<script>
+  window.onload = () => {
+  $(function () {
+    $('[name="chumlea-radio"], #chumlea-age, #chumlea-jambe').on('change', function () {
+      let age = $('#chumlea-age').val();
+      let jambe = $('#chumlea-jambe').val();
+      if (age > 0 && jambe > 0) {
+        if ($('#chumlea-1').is(':checked')) {
+          $('#chumlea-calc').val(Math.round(84.8 - (0.24 * age) + (1.83 * jambe)))
+        } else if ($('#chumlea-1bis').is(':checked')){
+          $('#chumlea-calc').val(Math.round(64.19 - (0.04 * age) + (2.03 * jambe)))
+        }
+      }
+    })
+  });
+}
+</script>
+
+{{% /collapse %}}
 {{%collapse "Dénutrition du sujet âgé" %}}
 
 Adulte ≥ 70 ans.
