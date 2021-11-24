@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = ""
 date = 2020-12-02T15:14:41+02:00
 publishdate = 2020-12-02
-lastmod = 2021-11-09
+lastmod = 2021-11-24
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["GEFH", "HAS", "SNFGE"]
@@ -30,12 +30,12 @@ todo = "comment diag quand rosacée, dépistage en AINS long cours maastricht II
 - L'amoxicilline devrait être utilisé à 50 mg/kg/j en 3-4 prises (max 6 g/j)
 - 2 IPP autorisés: ésoméprazole 40 ou rabéprazole 20 mg (sauf oméprazole pour Bismuth), pris matin et soir
 - Contrôle de l'éradication systématique (arrêt ATB > 1 mois et IPP > 2 sem)
-- Dépistage du 1<sup>er</sup> degré en cas de lésion cancéreuse
 - Signes d'alarmes en symptômes digestifs hauts:  
 Dysphagie, amaigrissement, anémie.
 
 {{%/article-summary%}}
 
+{{%collapse "Aide au choix du traitement" "show" %}}
 <div class="card card-hover card-list-material my-4">
   <div class="card-body">
     <h3 class="card-title mt-0">Aide au choix du traitement d'<em>Helicobacter pylori</em> 2021</h3>
@@ -136,6 +136,7 @@ Dysphagie, amaigrissement, anémie.
   </div>
 </div>
 
+{{% /collapse %}}
 {{%collapse "Définition" %}}
 
 *Helicobacter pylori*

@@ -17,8 +17,8 @@ draft = false
 slider = true
 paracetamol = true
 image = true
-imageSrc = "Photo de Nathan Phillips sur Foter.com / CC BY-NC"
-todo = "délais d'action pour les sachets, nubin, douleur neuropathique, https://www.phel.ch/upload/docs/application/pdf/2016-05/a4_poster_gsasa_2015_rotation_opiaces_mj.pdf"
+imageSrc = "La douleur de l'enfant par Nathan Phillips sur Foter.com"
+todo = "délais d'action pour les sachets, nubin, https://www.phel.ch/upload/docs/application/pdf/2016-05/a4_poster_gsasa_2015_rotation_opiaces_mj.pdf"
 +++
 
 {{%article-summary%}}

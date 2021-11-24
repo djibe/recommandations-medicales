@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-19T11:25:57+01:00"
 publishdate = "2021-11-23"
-lastmod = "2021-11-23"
+lastmod = "2021-11-24"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["HAS", "FFN"]
@@ -16,7 +16,7 @@ sctid = "65404009"
 draft = false
 image = false
 imageSrc = ""
-todo = "taille tient pas debout p. 10, calc % perte poids, annexes, Prescrire, prescription CNO, SFNCM"
+todo = "calc % perte poids, annexes, Prescrire, prescription CNO, SFNCM"
 +++
 
 {{%article-summary%}}
@@ -53,13 +53,42 @@ Syndrome de renutrition inappropriée
 **PE:** protéino-énergétiques
 
 {{% /collapse %}}
-{{%collapse "Calculs: perte de poids - IMC - taille" %}}
+{{%collapse "Calculs: perte de poids - IMC - taille" "show" %}}
 
-### Estimation de la taille
+### Perte de poids
 
-Lorsque la taille n'est pas mesurable par une toise, on l'estime par la *formule de Chumlea* (taille du corps entier extrapolée à partir de la distance talon-genou).
+<div class="card-body border mb-5" style="max-width: 480px">
+<form class="d-block d-lg-flex form-variation-poids">
+  <div class="form-ripple mr-3">
+    <label for="poids-initial">Poids initial (kg)</label>
+    <input class="form-control" id="poids-initial" type="number" min="3" max="200">
+  </div>
+  <div class="form-ripple mr-3">
+    <label for="poids-actuel">Poids actuel (kg)</label>
+    <input class="form-control" id="poids-actuel" type="number" min="3" max="200">
+  </div>
+  <div>
+    <label for="variation">Variation</label>
+    <input class="form-control" id="variation" type="text" placeholder="Préciser les poids" readonly>
+  </div>
+</form>
+</div>
+<script>
+  // Outil de calcul de la variation de poids
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const initial = document.getElementById('poids-initial')
+    const final = document.getElementById('poids-actuel')
+    const variation = document.getElementById('variation');
+    [initial, final].forEach(elem => elem.addEventListener('input', () => { calc() }))
+    const calc = () => { if (initial.value > 0 && final.value > 0) { variation.value = parseInt((final.value - initial.value) / initial.value * 100) + ' %' }}
+  })
+</script>
 
-<div class="card card-body card-border mb-5" style="max-width: 280px">
+### Estimation de la taille selon Chumlea
+
+Après 60 ans, lorsque la taille n'est pas mesurable par une toise (alitement, troubles de la statique dorsale), on l'estime par la *formule de Chumlea* (extrapolation à partir de la distance talon-genou).
+
+<div class="card-body border mb-5" style="max-width: 280px">
 <form>
   <div class="form-group">
     <input type="radio" id="chumlea-1" name="chumlea-radio" class="d-input-none" value="f" required checked>
@@ -67,29 +96,30 @@ Lorsque la taille n'est pas mesurable par une toise, on l'estime par la *formule
     <input type="radio" id="chumlea-1bis" name="chumlea-radio" class="d-input-none" value="h">
     <label for="chumlea-1bis" class="chip chip-action chip-choice">Homme</label>
   </div>
-  <div class="form-group floating-label textfield-box form-ripple">
+  <div class="form-group form-ripple">
     <label for="chumlea-age">Âge (ans)</label>
-    <input class="form-control" id="chumlea-age" type="number" min="18" max="120">
+    <input class="form-control" id="chumlea-age" type="number" min="60" max="120">
   </div>
-  <div class="form-group floating-label textfield-box form-ripple">
+  <div class="form-group form-ripple">
     <label for="chumlea-jambe">Taille de la jambe (cm)</label>
     <input class="form-control" id="chumlea-jambe" type="number" min="20" max="80">
+    <small class="form-text">Distance talon-genou (précisions plus bas)</small>
   </div>
-  <div class="form-group floating-label textfield-box form-ripple">
+  <div class="form-group">
     <label for="chumlea-calc">Taille estimée (cm)</label>
-    <input class="form-control" id="chumlea-calc" type="text" disabled>
+    <input class="form-control" id="chumlea-calc" type="text" placeholder="Compléter les mesures" readonly>
   </div>
 </form>
 </div>
 <script>
   window.onload = () => {
   $(function () {
-    $('[name="chumlea-radio"], #chumlea-age, #chumlea-jambe').on('change', function () {
+    $('[name="chumlea-radio"], #chumlea-age, #chumlea-jambe').on('input', function () {
       let age = $('#chumlea-age').val();
       let jambe = $('#chumlea-jambe').val();
       if (age > 0 && jambe > 0) {
         if ($('#chumlea-1').is(':checked')) {
-          $('#chumlea-calc').val(Math.round(84.8 - (0.24 * age) + (1.83 * jambe)))
+          $('#chumlea-calc').val(Math.round(84.88 - (0.24 * age) + (1.83 * jambe)))
         } else if ($('#chumlea-1bis').is(':checked')){
           $('#chumlea-calc').val(Math.round(64.19 - (0.04 * age) + (2.03 * jambe)))
         }
@@ -98,6 +128,9 @@ Lorsque la taille n'est pas mesurable par une toise, on l'estime par la *formule
   });
 }
 </script>
+
+> **Détail.** Mesure talon-genou: en décubitus dorsal, genoux à 90°, avec toise pédiatrique posée sous le pied et la partie mobile appuyée au-dessus du genou.  
+[Chumlea WC, Roche AF, Steinbaugh ML. Estimating stature from knee height for persons 60 to 90 years of age. J Am Geriatr Soc 1985;33(2):116-20.](https://agsjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1532-5415.1985.tb02276.x?sid=nlm%3Apubmed)
 
 {{% /collapse %}}
 {{%collapse "Dénutrition du sujet âgé" %}}
