@@ -9,19 +9,19 @@ publishdate = "2021-11-23"
 lastmod = "2021-11-24"
 specialites = ["endocrinologie"]
 annees = "2021"
-sources = ["HAS", "FFN"]
-tags = []
+sources = ["HAS", "FFN", "SFNCM"]
+tags = ["depistage"]
 anglais = ["Undernutrition"]
 sctid = "65404009"
 draft = false
 image = false
 imageSrc = ""
-todo = "calc % perte poids, annexes, Prescrire, prescription CNO, SFNCM"
+todo = "flowchart, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl..., https://www.sfncm.org/outils-education/outils/realises-par-la-sfncm"
 +++
 
 {{%article-summary%}}
 
-- Dépister avec le {{< modal-btn modal-mna >}}Mini Nutritional Assessment{{< /modal-btn >}} (MNA)
+- Dépister avec le {{< modal-btn modal-mna >}}Mini Nutritional Assessment{{< /modal-btn >}} (MNA, ≥ 1/an après 70 ans)
 - Le diagnostic est clinique: association d'un critère phénotypique et d'un critère étiologique
 - Poids à chaque consultation (reporté dans les dossier médical, DMP, carnet de santé...)
 - Un IMC élevé n'exclut pas une dénutrition
@@ -31,10 +31,10 @@ todo = "calc % perte poids, annexes, Prescrire, prescription CNO, SFNCM"
 
 Dénutrition
 : *Malnutrition* dans la CIM 10.
-: << État d’un organisme en déséquilibre nutritionnel >>. Possible par un déficit d’apport isolé, une augmentation des dépenses ou des
-pertes ou une association de ceux-ci.  
-Le déséquilibre nutritionnel est caractérisé par un bilan énergétique et/ou protéique négatif.
-. Elle touche > 2 millions de français.
+: << État d’un organisme en déséquilibre nutritionnel >>. Possible par un déficit d’apport isolé, une augmentation des dépenses ou des pertes ou une association de ceux-ci.  
+Le déséquilibre nutritionnel est caractérisé par un bilan énergétique et/ou protéique négatif aboutissant à une *perte de poids* ou une *fonte musculaire*.  
+Elle touche > 2 millions de français.
+: **Facteurs de risque:** cancer, syndrome inflammatoire, escarre, toxicomanies, démence et dégénératif, troubles de déglutition et bucco-dentaires (dont candidose), précarité, régime restrictif.
 
 Albuminémie
 : Elle doit être dosée par immunonéphélémétrie ou immunoturbidimétrie (pas d'électrophorèse).  
@@ -46,11 +46,13 @@ Syndrome de renutrition inappropriée
 
 ### Abréviations
 
+**CNO:** complémentation nutritionnelle orale  
 **FFN:** Fédération française de nutrition  
 **HAS:** Haute Autorité de Santé  
 **IMC:** indice de masse corporelle (en kg/m²)  
 **MNA®:** {{%lang%}}Mini Nutritional Assessment{{%/lang%}} (Nestlé)  
-**PE:** protéino-énergétiques
+**PE:** protéino-énergétiques  
+**SFNCM:** Société Francophone de Nutrition Clinique et Métabolisme
 
 {{% /collapse %}}
 {{%collapse "Calculs: perte de poids - IMC - taille" "show" %}}
@@ -135,7 +137,7 @@ Après 60 ans, lorsque la taille n'est pas mesurable par une toise (alitement, t
 {{% /collapse %}}
 {{%collapse "Dénutrition du sujet âgé" %}}
 
-Adulte ≥ 70 ans.
+Adulte ≥ 70 ans, dépistage ≥ annuel.
 
 ### 1. Diagnostic de dénutrition chez le sujet âgé
 
@@ -155,6 +157,7 @@ Adulte ≥ 70 ans.
 
 ### 2. Dénutrition sévère ?
 
+{{%warning%}}
 Dénutrition sévère si ≥ 1 critère parmi:
 
 - IMC < 20
@@ -163,6 +166,7 @@ Dénutrition sévère si ≥ 1 critère parmi:
   - ≥ 15% en 6 mois
   - ≥ 15% par rapport au poids habituel avant le début de la maladie
 - Albuminémie < 30 g/L
+{{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Dénutrition de l'adulte" %}}
@@ -187,7 +191,7 @@ Dénutrition sévère si ≥ 1 critère parmi:
   - 17 < IMC < 18,5
   - Perte de poids ≥ 5% en 1 mois ou ≥ 10% en 6 mois ou ≥ 10% par rapport au poids habituel avant le début de la maladie
   - 30 g/L < Albuminémie < 35 g/L
-- Dénutrition sévère si ≥ 1 critère parmi:
+- **Dénutrition sévère** si ≥ 1 critère parmi:
   - IMC ≤ 17
   - Perte de poids ≥ 10% en 1 mois ou ≥ 15% en 6 mois ou ≥ 15% par rapport au poids habituel avant le début de la maladie
   - Albuminémie ≤ 30 g/L
@@ -229,29 +233,80 @@ Enfant < 18 ans.
 Réévaluation à chaque consultation, au moins mensuelle.
 
 {{% /collapse %}}
+{{%collapse "Traitement" %}}
+
+Traitement de la dénutrition de l'adulte.
+
+- Traitement étiologique
+- Évaluation diététique
+- Soins bucco-dentaires et de la langue
+- Enrichir l'alimentation
+  - Cible énergétique 30-40 kcal/kg/j
+  - Cible protéique 1,2-1,5 g/kg/j
+  - Poudre de lait entier, lait concentré entier, fromage râpé, œufs, crème fraîche épaisse, beurre fondu, huile, poudres de protéines, pâtes/semoules enrichies
+- Complément nutritionnel oral (voir plus bas)
+- Dénutrition sévère: nutrition entérale
+- Maintien d'une activité physique
+- [Site officiel d'information pour le public](https://www.nutritionclinique.fr/)
+
+### Compléments nutritionnels oraux (CNO)  
+
+- Objectif  
+  - Minimal ou patient âgé: supplément de 400 cal/j et/ou 30 g/j de protéines
+  - Maximal: 1000 kcal/j et 80 g/j de protéines
+- En collations variées à distance des repas
+  - ≥ 2h des repas. Ex: 16h et avant le coucher
+  - Éviter jeûne > 12h
+- Prescription
+  - 1<sup>re</sup> prescription limitée à 1 mois
+  - Renouvellements de 3 mois
+  - Ex: Complémentation nutritionnelle orale pour adultes: mélange hyperprotidique et hyperénergétique pour un apport de 400 kcal/j et 30 g/j de protéines; 2 unités par jour à 16h et 21h pendant 4 semaines
+- Conservation  
+Une fois ouvert, 2h à température ambiante et 24h au réfrigérateur.
+- Effets indésirables: nausées, vomissements, diarrhées
+
+{{% /collapse %}}
 {{%collapse "Surveillance" %}}
 
 Réévaluation à chaque consultation, au moins mensuelle (trimestrielle mois chez l'adulte).
 
-- Poids (même balance), IMC
+- Poids (1/sem, même balance), IMC
+- Albuminémie max 1/mois
+- Évolution du facteur étiologique
 - Appétit et consommation alimentaire
-  - Échelle visuelle analogique ou verbale
+  - [Échelle visuelle analogique](https://www.sefi-nutrition.com/utiliser-sefi) ou verbale
   - Échelle semi-quantitative (portions)
   - Calculés par un diététicien
 - Force musculaire  
 {{< modal-btn modal-sarcopenie >}}Préhension{{< /modal-btn >}} ou test du lever de chaise.
 - État bucco-dentaire
 - Mastication et déglutition
+- Niveau d'activité physique
+
+### Exemple de questions
+
+- Combien faites-vous de repas par jour ?
+- Mangez-vous tout votre repas ?
+- Est-ce qu’il y a certains aliments que vous ne mangez pas ?
+- Avez-vous besoin d’une aide pour manger ?
+- Avez-vous des difficultés pour mâcher ou avaler certains aliments ?
+- Quel est votre poids ? Avez-vous perdu du poids depuis une semaine, un mois ?
+- Avez-vous diminué votre consommation alimentaire depuis une semaine, un mois ?
+
+> *SFNCM CNO*
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
 - [HAS, FFN. Diagnostic de la dénutrition chez la personne de 70 ans et plus. Recommandation de bonne pratique. Novembre 2021.](https://www.has-sante.fr/jcms/p_3165944/fr/diagnostic-de-la-denutrition-chez-la-personne-de-70-ans-et-plus)
+- Prescrire Redaction. Complémentation nutritionnelle orale chez les adultes dénutris : conditions de remboursement en France en 2020. La Revue Prescrire. Mai 2020.
 - [HAS, FFN. Diagnostic de la dénutrition de l’enfant et de l’adulte. Recommandation de bonne pratique. Novembre 2019.](https://has-sante.fr/jcms/p_3118872/fr/diagnostic-de-la-denutrition-de-l-enfant-et-de-l-adulte)
+- [HAS. Stratégie de prise en charge en cas de dénutrition protéino-énergétique chez la personne âgée. Synthèse des recommandations professionnelles. 2007.](https://www.sfncm.org/images/stories/pdf_referenciel/synthese_denutrition03.pdf)
+- [Lutte contre la dénutrition](https://www.luttecontreladenutrition.fr/)
 
 ### À lire
 
-https://www.luttecontreladenutrition.fr/seconde-semaine-nationale-de-la-denutrition-du-12-au-20-novembre-2021/
+[Société Francophone de Nutrition Clinique et Métabolisme - Référentiels](https://www.sfncm.org/outils-education/recommandations/referentiels)
 
 {{% /collapse %}}
 {{% modal title="Définition de la sarcopénie" id="modal-sarcopenie"%}}

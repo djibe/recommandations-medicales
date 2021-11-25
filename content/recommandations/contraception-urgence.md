@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Crédit OnSexPrime.fr"
-todo = ""
+todo = "Prescrire"
 +++
 
 {{%article-summary%}}

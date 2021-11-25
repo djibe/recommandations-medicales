@@ -11,12 +11,12 @@ specialites = ["therapeutique"]
 annees = "2007"
 sources = ["HAS"]
 tags = []
-anglais = [" Benzodiazepine"]
+anglais = ["Benzodiazepine"]
 sctid = "372664007"
 draft = false
 image = false
 imageSrc = ""
-todo = "terminer HAS"
+todo = "terminer HAS, HAS 2015"
 +++
 
 Ces recommandations concernent le sevrage après > 30 jours chez le sujet âgé ≥ 65 ans
@@ -181,6 +181,10 @@ TODO:
 
 - Prescrire Redaction. Benzodiazépines ou apparentés. Prescrire. Janvier 2021.
 - [HAS. Modalités d'arrêt des benzodiazépines et médicaments apparentés chez le patient âgé. Recommandations professionnelles. Octobre 2007.](https://www.has-sante.fr/jcms/c_601509/fr/modalites-d-arret-des-benzodiazepines-et-medicaments-apparentes-chez-le-patient-age)
+
+### À lire
+
+- [HAS. Arrêt des benzodiazépines et médicaments apparentés : démarche du médecin traitant en ambulatoire. Recommandation de bonne pratique. Juin 2015.](https://www.has-sante.fr/jcms/c_2038262/fr/arret-des-benzodiazepines-et-medicaments-apparentes-demarche-du-medecin-traitant-en-ambulatoire)
 
 {{% /collapse %}}
 {{% modal title="Échelle cognitive d’attachement aux benzodiazépines" id="modal-score-ecab"%}}

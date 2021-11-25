@@ -6,7 +6,7 @@ synonyms = ["Avortement"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-16T10:54:41+02:00
 publishdate = 2020-09-16
-lastmod = 2021-06-07
+lastmod = 2021-11-25
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF", "HAS"]
@@ -16,8 +16,8 @@ sctid = "76102007"
 draft = false
 flowchart = true
 image = true
-imageSrc = "Illustration par stories / Freepik"
-todo = "arbre décisionnel, modif extension 9 SA"
+imageSrc = "Illustration de l'IVG par stories / Freepik"
+todo = "Prescrire"
 +++
 
 {{%article-summary%}}
@@ -25,7 +25,7 @@ todo = "arbre décisionnel, modif extension 9 SA"
 - Autorisée jusqu'à 14 SA, en ville jusqu'à 9 SA (depuis [avril 2021](https://www.has-sante.fr/jcms/p_3223429/fr/interruption-volontaire-de-grossesse-par-methode-medicamenteuse-mise-a-jour))
 - Temps de réflexion d'une semaine (sauf délai avancé)
 - Systématiques: calcul du terme + examen gynécologique + groupe sanguin + échographie pelvienne
-- Centres et praticiens réalisant des IVG: [ivglesadressess.org](https://www.ivglesadresses.org/) ou téléphone {{<phone>}}0 800 08 11 11{{</phone>}}.
+- Centres et praticiens réalisant des IVG: [ivglesadressess.org](https://www.ivglesadresses.org/) ou téléphone {{<phone>}}0 800 08 11 11{{</phone>}}
 
 {{%/article-summary%}}
 {{%collapse "Calcul du terme" %}}

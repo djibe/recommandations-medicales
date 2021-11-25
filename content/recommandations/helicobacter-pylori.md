@@ -26,9 +26,9 @@ todo = "comment diag quand rosacée, dépistage en AINS long cours maastricht II
 - Dépistage par sérologie pour tout antécédent d'ulcère sans confirmation d'éradication
 - Endoscopie si symptômes ou facteurs de risque de cancer
 - Reporter le traitement si grossesse/allaitement
-- Traitement adapté à l'antibiogramme au maximum
-- L'amoxicilline devrait être utilisé à 50 mg/kg/j en 3-4 prises (max 6 g/j)
-- 2 IPP autorisés: ésoméprazole 40 ou rabéprazole 20 mg (sauf oméprazole pour Bismuth), pris matin et soir
+- Traitement adapté à l'antibiogramme +++
+- Amoxicilline: 50 mg/kg/j en 3-4 prises (max 6 g/j)
+- 2 IPP: ésoméprazole 40 ou rabéprazole 20 mg (sauf oméprazole pour Bismuth), pris matin et soir
 - Contrôle de l'éradication systématique (arrêt ATB > 1 mois et IPP > 2 sem)
 - Signes d'alarmes en symptômes digestifs hauts:  
 Dysphagie, amaigrissement, anémie.
@@ -91,7 +91,7 @@ Dysphagie, amaigrissement, anémie.
     <div class="collapse" id="hp-2">
       <ul>
         <li>Traitement au choix
-          <span>Amox 50 mg/kg/j (3-4 prises) + Clari 500 x 2/j + Métro 500 x 2/j + IPP x 2/j | 14 jours<br>
+          <span>Amox 50 mg/kg/j (3-4 prises, max 6 g/j) + Clari 500 x 2/j + Métro 500 x 2/j + IPP x 2/j | 14 jours<br>
           OU Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours</span>
         </li>
       </ul>

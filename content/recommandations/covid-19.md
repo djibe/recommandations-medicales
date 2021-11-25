@@ -6,9 +6,9 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
-lastmod = 2021-09-04
+lastmod = 2021-11-25
 specialites = ["infectiologie"]
-annees = "2020"
+annees = "2021"
 sources = ["HCSP", "MinSante"]
 tags = ["covid", "grippe", "vaccin"]
 anglais = ["CoViD-19"]
@@ -17,12 +17,12 @@ draft = false
 flowchart = true
 image = true
 imageWEBP = true
-imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "https://www.has-sante.fr/jcms/p_3216523/fr/tests-isolement-traitements-quelle-prise-en-charge-en-medecine-de-ville-pour-les-patients-suspectes-de-covid-19"
+imageSrc = "La Covid-19 par scientificanimations.com, CC BY-SA 4.0"
 +++
 
 {{%article-summary%}}
 
+- Rappel vaccinal tous les 5 mois, décalé à 6 mois si infection Covid (*HAS 25/11* et *19/11*)
 - Vacciner grippe + pneumocoque les +65ans ([Académie 13.05](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/))
 - Port d'un masque en tissu réutilisable (norme AFNOR S76-001) dans tous les lieux clos publics et privés collectifs ([HCSP 14.08](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=894))
 - Pas de certificat pour le retour à l'école
