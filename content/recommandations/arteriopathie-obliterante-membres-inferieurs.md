@@ -285,9 +285,9 @@ style depister stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{%/collapse%}}
-{{%collapse "FMC" %}}
+{{%collapse "FMC gratuite" %}}
 
-{{< youtube id="YqY_zHXRgxQ" title="La prise de l'indice tibio brachial (Dr Richard Belley)" >}}
+{{< youtube id="YqY_zHXRgxQ" title="La prise de l'indice tibio-brachial (Dr Richard Belley)" >}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

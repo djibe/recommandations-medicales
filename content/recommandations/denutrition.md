@@ -55,7 +55,7 @@ Syndrome de renutrition inappropriée
 **SFNCM:** Société Francophone de Nutrition Clinique et Métabolisme
 
 {{% /collapse %}}
-{{%collapse "Calculs: perte de poids - IMC - taille" "show" %}}
+{{%collapse "Calculs: perte de poids - estimation de la taille" %}}
 
 ### Perte de poids
 
