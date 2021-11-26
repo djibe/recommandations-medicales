@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2021-11-19"
+lastmod = "2021-11-25"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESH", "ESC"]
@@ -206,7 +206,7 @@ L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hyp
 | &ge; 65 ans         | 130-139/70-79   | ESC 2018   |
 | AIT/AVC             | idem générale   | ESC 2018   |
 | AOMI                | 120-140/90      | ESC 2017 LEAD |
-| Diabète (type 1 ou 2) | idem générale | ESC 2018 |
+| Diabète (type 1 ou 2) | idem générale | ESC 2019 diabetes |
 | Fibrillation atriale | &le; 130/80     | ESC 2020 AF |
 | Insuffisance cardiaque | &lt; 140/90 (comorbidités) | ESC 2021 HF |
 | Insuffisance rénale | &lt; 120/90     | KDIGO 2021 |
@@ -418,6 +418,7 @@ Contre-indications aux IEC/ARA2 et inhibiteurs de la rénine.
 
 - [Stergiou GS et al. 2021 European Society of Hypertension practice guidelines for office and out-of-office blood pressure measurement. J Hypertens. 2021;39(7):1293-1302.](https://doi.org/10.1097/hjh.0000000000002843)
 - [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. Volume 99. Issue 3. 559-569.](https://doi.org/10.1016/j.kint.2020.10.026)
+- {{< references/esc-diabetes >}}
 - {{< references/esc-hta >}}
 - [HAS, SFHTA. Prise en charge de l'hypertension artérielle de l'adulte. Fiche mémo. Septembre 2016.](https://www.has-sante.fr/jcms/c_2059286/fr/prise-en-charge-de-l-hypertension-arterielle-de-l-adulte)
 - [SFHTA. Hypertension artérielle du sujet noir. Décembre 2017.](https://www.sfhta.eu/wp-content/uploads/2018/10/SFHTA_Fiche_technique_HTA-du-sujet-noir_Decembre-2017.pdf)

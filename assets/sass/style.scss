@@ -133,6 +133,9 @@ a[href^="http"]:not([class]):not([href*="netlify.app"])::after {
   margin-left: 4px;
 }
 
+.text-black-secondary {
+  color:rgba(0, 0, 0, 0.6) !important;
+}
 
 // List pages
 
@@ -258,27 +261,22 @@ article {
 .recommandation__content {
   margin-bottom: 5rem;
 
-  section > :last-child {
+  div.collapse {
     margin-bottom: 3rem;
   }
 
-  > h2 {
+  section > h2 {
     border-top: 1px solid rgba(0, 0, 0, 0.12);
     margin: 0;
     padding: 1.25rem 56px 1.25rem 0;
-
-    &:first-of-type {
-      border-top: 0;
-    }
   }
 
-  section > h3 {
+  section h3 {
     color: var(--primary);
-    margin-bottom: 12px;
-    margin-top: 32px;
   }
 
-  section > h4 {
+  section h3,
+  section h4 {
     margin-bottom: 12px;
     margin-top: 32px;
   }
@@ -393,20 +391,31 @@ article {
   }
 }
 
-.projet .offset-xl-2 {
-  margin-left: auto;
-}
-
-.projet__content {
-  max-width: 80ch;
-
-  h2:not([data-toggle="collapse"]) {
-    letter-spacing: -.0083333333em;
-    margin: 48px 0 24px;
+.projet {
+  .offset-xl-2 {
+    margin-left: auto;
   }
 
-  .lead {
-    font-size: 20px;
+  &__content {
+    max-width: 80ch;
+
+    h2:not([data-toggle="collapse"]) {
+      letter-spacing: -.0083333333em;
+      margin: 48px 0 24px;
+    }
+
+    h3 {
+      color: var(--primary);
+    }
+  
+    h3, h4 {
+      margin-bottom: 12px;
+      margin-top: 32px;
+    }
+
+    .lead {
+      font-size: 20px;
+    }
   }
 }
 

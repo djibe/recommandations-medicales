@@ -30,16 +30,11 @@ childProcess.exec('java -version', (error, stdout, stderr) => {
     // Markup used in Components → Forms → Layout → Form grid → Horizontal form is currently invalid,
     // but used this way due to lack of support for flexbox layout on <fieldset> element in most browsers
     'Element “legend” not allowed as child of element “div” in this context.*',
-    // IE11 doesn't recognise <main> / give the element an implicit "main" landmark.
-    // Explicit role="main" is redundant for other modern browsers, but still valid.
-    'The “main” role is unnecessary for element “main”.',
     // Modern ignore
     'Attribute “loading” not allowed on element “iframe” at this point.*',
     'Attribute “importance” not allowed on element “img” at this point.*',
     'Attribute “importance” not allowed on element “script” at this point.*',
-    'CSS: “unicode-range”: Too many values or values are not recognized.*',
-    // TODO: improve sections
-    'Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.*'
+    'CSS: “unicode-range”: Too many values or values are not recognized.*'
   ].join('|')
 
   const args = [

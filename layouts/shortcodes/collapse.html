@@ -1,5 +1,7 @@
+<section>
 <h2 id="{{ .Get 0 | anchorize }}" data-toggle="collapse"
-  onclick="$(this).next('section').collapse('toggle')">{{ .Get 0 }}</h2>
-<section class="collapse d-print-block {{ .Get 1 }}" id="{{ .Get 0 | anchorize }}-block">
+  onclick="$(this).next('div.collapse').collapse('toggle')">{{ .Get 0 }}</h2>
+<div class="collapse d-print-block {{ .Get 1 }}" id="{{ .Get 0 | anchorize }}-block">
   {{.Inner | safeHTML}}
+</div>
 </section>

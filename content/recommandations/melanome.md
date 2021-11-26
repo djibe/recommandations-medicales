@@ -59,8 +59,7 @@ La lésion primitive n'est parfois jamais retrouvé au stade métastatique.
 
 Indice de Breslow, de Clark, ulcération, index mitotique, emboles vasculaires.
 
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
 - 13<sup>e</sup> cancer de la femme, 7<sup>e</sup> de l'homme
 - **Incidence:** 15.400 nouveaux cas en 2017  
@@ -300,10 +299,5 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 - [HAS. Mélanome cutané. Janvier 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2012-03/ald_30_guide_melanome_web.pdf)
 - [Collège National des Enseignants de Dermatologie. Item 149 : Tumeurs cutanées épithéliales et mélaniques : mélanomes. 2011](http://campus.cerimes.fr/dermatologie/enseignement/dermato_26/site/html/cours.pdf)
 - [SFDermato. Recommandations pour la Pratique Clinique : Standards, Options et Recommandations 2005 pour la prise en charge des patients adultes atteints d’un mélanome cutané MO. Décembre 2005](https://www.oncoderm.fr/upload/recommandations/9738-Prise-en-charge-des-meAlanome.pdf)
-
-{{% /collapse %}}
-{{%collapse "Photos" %}}
-
-{{< wikiphoto "Melanoma" >}}
 
 {{% /collapse %}}

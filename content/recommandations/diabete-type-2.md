@@ -8,14 +8,14 @@ date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
 lastmod = "2021-10-21"
 specialites = ["endocrinologie"]
-annees = "2019"
-sources = ["SFD", "EASD", "ESC", "HAS"]
+annees = "2021"
+sources = ["SFD", "EASD", "ADA", "ESC", "HAS"]
 tags = ["bariatrique", "diabete", "HTA", "insuline", "retinopathie", "nephropathie",  "risque cardiovasculaire", "neuropathie", "obesite", "SAOS", "vaccin"]
 anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "def diabète EASD 2019, statine-aspirine-vaccins, rythme depistages, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Agé: met > iDPP4 > basale (SU/glinide si bonne santé), peu arguments iSGLT2/GLP1 après 75 ans sauf CV | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IRC: met poso > iSGLT2 voire GLP1. Envisager maintien si insuline | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2 | Risque CV x 3-4"
+todo = "def diabète EASD 2019, statine-aspirine-vaccins, rythme depistages, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Agé: met > iDPP4 > basale (SU/glinide si bonne santé), peu arguments iSGLT2/GLP1 après 75 ans sauf CV | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IRC: met poso > iSGLT2 voire GLP1. Envisager maintien si insuline | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2"
 +++
 
 {{%article-summary%}}
@@ -49,12 +49,12 @@ Rémission du diabète
 {{% /collapse %}}
 {{%collapse "Les points vitaux du diabète type 2" "show" %}}
 
-- Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}}
+- Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} (risque x 3-4)
 - Arrêt du tabac
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
   - Seuil diagnostique ≥ 140/90 mmHg (160 après 80 ans, *ESC 2018*)
-  - Cible 120-130/70-79 mmHg (*ESC 2018*)
-  - ≥ 65 ans: 130-139/70-79 mmHg (*ESC 2018*)
+  - Cible 120-130/70-79 mmHg (*ESC 2019 diabetes*)
+  - ≥ 65 ans: 130-139/70-79 mmHg (*ESC 2019 diabetes*)
 - LDL cible (*ESC 2019*)  
   - {{< modal-btn modal-statine-intensite >}}&lt; 0,7 g/L{{< /modal-btn >}}
   - {{< modal-btn modal-statine-intensite >}}&lt; 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-rcv-diabete >}}maladie cardiovasculaire, > 20 ans d'évolution ou ≥ 3 autres FRCV{{< /modal-btn >}}
@@ -239,6 +239,10 @@ window.onload = () => {
 - {{< references/esc-dyslipidemie >}}
 - {{< references/sfd-dt2 >}}
 - {{< references/esc-hta >}}
+
+### À intégrer
+
+- {{< references/esc-diabetes >}}
 
 {{% /collapse %}}
 {{% modal title="Objectifs glycémiques selon SFD 2019" id="modal-hba1c"%}}
