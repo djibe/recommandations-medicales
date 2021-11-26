@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-16T13:47:19+01:00"
 publishdate = "2021-11-18"
-lastmod = "2021-11-18"
+lastmod = "2021-11-26"
 specialites = ["therapeutique"]
 annees = "2015"
 sources = ["HAS"]
@@ -16,7 +16,7 @@ sctid = "372664007"
 draft = false
 image = false
 imageSrc = ""
-todo = "terminer HAS, HAS 2015"
+todo = "grille arrêt"
 +++
 
 Ces recommandations concernent le sevrage après > 30 jours.
@@ -112,6 +112,11 @@ Données insuffisantes pour comparer les efficacités hypnotiques ou anxiolytiqu
 {{% /collapse %}}
 {{%collapse "Décroissance des benzodiazépines" %}}
 
+{{%info%}}
+Proposer une diminution de 25% la 1<sup>re</sup> semaine avec consultation de suivi.  
+Puis paliers de 25% toutes les 2-4 semaines en l'absence de difficultés.
+{{%/info%}}
+
 - Expliquer: la durée du traitement, les modalités d'arrêt et le risque de dépendance
 - Traitement > 30j: proposer systématiquement l'arrêt  
 Intervention brève orale et écrite (efficace à court et long terme).
@@ -130,7 +135,7 @@ Troubles mnésiques, diminution des réflexes et de la concentration, risque de 
 Nature, sévérité, évolution du syndrome de sevrage, effet rebond et rechute.
 - Informer sur les risques d'arrêt trop rapide
 - Conseils adaptés pour réduire puis arrêt les BZD
-- Tenir un calendrier de décroissance (posologies, agenda de sommeil, symptômes)
+- Tenir un [calendrier de décroissance (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_calendrier_de_suivi.pdf) (posologies, symptômes) et [agenda de sommeil (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_agenda_sommeil_-_eveil.pdf)
 
 ### La décroissance
 
@@ -139,7 +144,7 @@ Arrêt progressif en 1 à 3 mois (voire 1 an).
 Proposer une diminution de 25% la 1<sup>re</sup> semaine avec consultation de suivi.  
 Puis paliers de 25% toutes les 2-4 semaines en l'absence de difficultés.  
 Consultation de suivi 7 jours après l'arrêt et rapporter les boîtes en pharmacie.
-Accompagnement par TCC efficace
+Accompagnement par TCC efficace.
 
 - Signes sans gravité pendant la décroissance:  
 reprendre la posologie antérieure et décroître plus doucement.
@@ -157,7 +162,7 @@ Hospitalisation.
 
 Madame, Monsieur,
 
-Parmi vos médicaments, vous recevez *nom de la BZD* à la dose de ... *cp/j*. Ce médicament fait partie du groupe des benzodiazépines et médicaments apparentés.
+Parmi vos médicaments, vous recevez ..*nom de la BZD*.. à la dose de ... *cp/j*. Ce médicament fait partie du groupe des benzodiazépines et médicaments apparentés.
 
 L’analyse de votre dossier médical montre que désormais ce médicament pourrait vous être arrêté sans altérer votre santé ni votre bien-être. En effet, il est connu aujourd’hui que l’efficacité des benzodiazépines prescrites dans votre cas diminue fortement au fur et à mesure de leur utilisation (dès 2 semaines d'utilisation).
 
@@ -170,13 +175,11 @@ Bien entendu je me tiens à votre disposition pour répondre à toutes vos quest
 
 Dr ...
 
-> *HAS 2007*
+> *HAS 2015*
 
 ### Calendrier de suivi de l'arrêt de BZD
 
-Avec signes rapportés lors de l'arrêt
-
-TODO:
+[Calendrier de suivi de l’arrêt des benzodiazépines (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_calendrier_de_suivi.pdf)
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

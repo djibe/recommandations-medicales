@@ -15,7 +15,7 @@ anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "def diabète EASD 2019, statine-aspirine-vaccins, rythme depistages, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Agé: met > iDPP4 > basale (SU/glinide si bonne santé), peu arguments iSGLT2/GLP1 après 75 ans sauf CV | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IRC: met poso > iSGLT2 voire GLP1. Envisager maintien si insuline | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2"
+todo = "def diabète EASD 2019, statine-aspirine-vaccins, rythme depistages, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Agé: met > iDPP4 > basale (SU/glinide si bonne santé), peu arguments iSGLT2/GLP1 après 75 ans sauf CV | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IRC: met poso > iSGLT2 voire GLP1. Envisager maintien si insuline | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2; -1 kg réduit de 43% le risque de DT2 (ESC 2019 diabetes); 1000 pas de +/j"
 +++
 
 {{%article-summary%}}
@@ -33,10 +33,15 @@ Le suivi préconisé pour la personne vivant avec un diabète de type 2 est visu
 {{%collapse "Définitions"%}}
 
 Diabète
-: Hyperglycémie chronique dont le diagnostic est biologique: 2 glycémies à jeun ≥ 1,26 g/L ou HbA1c ≥ 6,5% ou HGPO positive.
+: Hyperglycémie chronique dont le diagnostic est biologique (définitions *ADA 2019*):
+    - 2 glycémies à jeun ≥ 1,26 g/L
+    - ou HbA1c ≥ 6,5%
+    - ou HGPO H2 ≥ 2 g/L
+    - Symptômes et glycémie ≥ 2 g/L
 
 Hyperglycémie modérée à jeun (HGMAJ)
-: Ou *prédiabète*, correspond au stade précurseur du diabète. La glycémie à jeun est comprise entre 1,10 et 1,26 g/L.
+: Ou *prédiabète*, correspond au stade précurseur du diabète.  
+La glycémie à jeun est mesurée de 1 à 1,25 g/L (HGPO H2 < 1,4 g/L).
 
 Rémission du diabète
 : Définitions *EASD 2021*:
@@ -55,17 +60,20 @@ Rémission du diabète
   - Seuil diagnostique ≥ 140/90 mmHg (160 après 80 ans, *ESC 2018*)
   - Cible 120-130/70-79 mmHg (*ESC 2019 diabetes*)
   - ≥ 65 ans: 130-139/70-79 mmHg (*ESC 2019 diabetes*)
+  - Bithérapie d'emblée {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
 - LDL cible (*ESC 2019*)  
   - {{< modal-btn modal-statine-intensite >}}&lt; 0,7 g/L{{< /modal-btn >}}
   - {{< modal-btn modal-statine-intensite >}}&lt; 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-rcv-diabete >}}maladie cardiovasculaire, > 20 ans d'évolution ou ≥ 3 autres FRCV{{< /modal-btn >}}
 - Activité physique  
-**Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense).
+**Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense). Endurance et renforcement musculaire.
 - Cible d'HbA1c  
 {{< modal-btn modal-hba1c >}}Globalement **7%**{{< /modal-btn >}} (*SFD 2019*).
 - En cas de surpoids  
-Négocier une perte de poids (5-10%).
+Perte de poids (5-10%) ou chirurgie bariatrique (TODO: indications).
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) (65-85%)
+
+{{%info%}}Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75% (*ESC 2019 diabetes*){{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Conversion des unités du diabète" %}}
@@ -86,7 +94,8 @@ Négocier une perte de poids (5-10%).
 
 *Version préliminaire.*
 
-Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les classes thérapeutiques de préférence sont entourées ou signalées avec un indicateur bleu.
+Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les classes thérapeutiques de préférence sont entourées ou signalées avec un indicateur bleu.  
+Objectif 0 hypo !
 
 ---
 
@@ -232,6 +241,31 @@ window.onload = () => {
 </script>
 
 {{% /collapse %}}
+{{%collapse "Diabète et prévention" %}}
+
+### Aspirine
+
+- Prévention primaire
+  - Aspirine 75-100 mg/j envisageable si {{< modal-btn modal-rcv-diabete >}}(très) haut risque CV{{< /modal-btn >}} sans risque de saignement
+- Prévention secondaire
+  - Doses selon la maladie cardiovasculaire
+  - Prolonger bi-antiagrégants si bien toléré (max 3 ans)
+- IPP si risque élevé de saignement digestif
+
+### Estimation du RCV
+
+- ECG annuel (si HTA ou suspicion de MCV)
+- Envisager IPS
+- Echodoppler TSA et MI
+- Avis cardio pour score calcique, ETT, EE
+
+### Bilan rénal
+
+- Créatininémie, microalbuminurie sur échantillon annuels (HAS 2021)
+
+> *ESC 2019 diabetes*
+
+{{% /collapse %}}
 {{%collapse "Sources" %}}
 
 - [Riddle M.C. et al. Consensus report: definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021.](https://link.springer.com/article/10.1007/s00125-021-05542-z)
@@ -293,5 +327,15 @@ window.onload = () => {
 {{% modal title="Insuline basale" id="modal-insuline"%}}
 
 {{< traitements/insuline >}}
+
+{{% /modal %}}
+{{% modal title="IEC dans l'hypertension" id="modal-iec" size="lg"%}}
+
+{{< traitements/iec >}}
+
+{{% /modal %}}
+{{% modal title="ARA2 dans l'hypertension" id="modal-ara2" size="lg"%}}
+
+{{< traitements/ara2 >}}
 
 {{% /modal %}}

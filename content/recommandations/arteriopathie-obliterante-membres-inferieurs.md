@@ -6,7 +6,7 @@ synonyms = ["ou Artériopathie aorto-iliaque et des membres inférieurs", "arté
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-05T18:53:00+02:00
 publishdate = 2021-05-16
-lastmod = 2021-08-16
+lastmod = 2021-11-26
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["ESC", "HAS", "SFMV"]
@@ -236,19 +236,19 @@ Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant
   - Indications: claudication ou AOMI masquée, prévention secondaire, revascularisation du MI ou {{< modal-btn modal-rcv-diabete >}}diabète à haut RCV{{< /modal-btn >}}
   - Sinon aspirine 75-100 mg/j
   - Si double antiagrégant: pantoprazole
-- IEC systématique  
-Voire ARA2 (*SFMV 2020*).
+- IEC systématique (voire ARA2, *SFMV 2020*).
 - Pression artérielle cible 120-140/90 mmHg
   - Cible moindre en atteinte sévère pour maintien de pression distale
   - Classes possibles: TZD, IEC/ARA2, anticalcique voire BB
   - Précautions avec les BB en ischémie chronique
+  - Apports sodés < 5 g/j
 - Suivi cardiologique systématique  
 Par haut risque cardiovasculaire pour évaluer le risque coronarien et d'insuffisance cardiaque.
 - Suivi angiologique
-- [Vaccination antigrippale]({{< relref "grippe.md" >}}) annuelle (*SFMV 2020*)
-- Mise à jour de la vaccination antitétanique
-- Apports sodés < 5 g/j
-- Régime méditerranéen et correction d'un surpoids  
+- Vaccins
+  - [Grippe]({{< relref "grippe.md" >}}) annuelle (*SFMV 2020*)
+  - Mise à jour de la vaccination antitétanique
+- {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}} et correction d'un surpoids  
 Évaluations diététiques répétées, lutte contre la {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}.
 - Réadaptation vasculaire en centre voire par kinésithérapeute
 - Activité physique quotidienne  
@@ -257,6 +257,7 @@ Auto-exercices et podomètre.
   - PAD cible < 85 mmHg
   - {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}} (*SFD 2019*, *SFMV 2020*)
   - ≤ 8% si comorbidité sévère ou espérance de vie < 5 ans
+  - AOMI symptomatique: envisager rivaroxaban 2,5 mg x 2/j + aspirine 100 mg/j (*ESC 2019 diabetes*)
 - Participer à la recherche  
 [ComPaRe](https://compare.aphp.fr/)
 

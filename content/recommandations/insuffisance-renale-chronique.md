@@ -389,7 +389,7 @@ Connaître les signes et symptômes de la MRC et savoir qui prévenir.
 
 {{< mermaid title="Conduite à tenir pour le dépistage de la maladie rénale chronique. Dr JB FRON d'après HAS 2021" >}}
 graph TB
-fdr["Personne à risque<hr>- HTA, diabète<br>- Obésité<br>- Athérome<br>- Insuffisance cardiaque<br>- Maladie de système<br>- Pathologie urologique<br>- ATCD familial d'IRC évolutive<br>- Exposition professionnelle<br>- Néphrotoxiques"] --> 2(Bilan annuel)
+fdr["<b>Personne à risque</b><hr>- HTA, diabète<br>- Obésité<br>- Athérome<br>- Insuffisance cardiaque<br>- Maladie de système<br>- Pathologie urologique<br>- ATCD familial d'IRC évolutive<br>- Exposition professionnelle<br>- Néphrotoxiques"] --> 2(Bilan annuel)
 style fdr stroke:#4150f5, stroke-width:1px
 2 --> 3N(Normal)
   3N --> 2
