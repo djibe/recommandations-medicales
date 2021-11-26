@@ -178,7 +178,7 @@ Indications: Ag HBs+ + > 2000 copies/mL ou cytolyse + nécessité d'un traitemen
 - Arrêt de l'alcool et du tabac
 - Correction d'un surpoids
 
-[Guide patient: vivre avec une hépatite B chronique](https://www.has-sante.fr/upload/docs/application/pdf/guide_patient_vhb.pdf)
+[Guide patient: vivre avec une hépatite B chronique (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/guide_patient_vhb.pdf)
 
 ### Surveillance de l'hépatite B active
 
@@ -209,7 +209,7 @@ Rythme mensuel poursuivi dans les 6 mois suivants la fin du traitement.
 {{%collapse "Sources" %}}
 
 - {{< references/calendrier-vaccinal >}}
-- [HAS. Hépatite chronique B. Actes et prestations Affection de longue durée. Mai 2016.](https://www.has-sante.fr/upload/docs/application/pdf/lap_ald_6_final_juillet_2007.pdf)
+- [HAS. Hépatite chronique B. Actes et prestations Affection de longue durée. Mai 2016.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
 - [HAS. Hépatite B Chronique. Guide Affection de longue durée. Octobre 2006.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
 
 {{% /collapse %}}

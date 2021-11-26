@@ -283,10 +283,10 @@ Si traitement oral: 2<sup>e</sup> prise orale du nombre de comprimés prescrits.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [CMIT. Ectoparasitoses cutanées : gale et pédiculose. Item 167 - UE 6. E.PILLY 2020.](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-167-nb.pdf)
-- [CEDEF. Ectoparasitoses cutanées : gale et pédiculose. Item 167 - UE 6. 2017.](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2487.pdf)
+- [CMIT. Ectoparasitoses cutanées : gale et pédiculose. Item 167 - UE 6. E.PILLY 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-167-nb.pdf)
+- [CEDEF. Ectoparasitoses cutanées : gale et pédiculose. Item 167 - UE 6. 2017. (PDF)](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2487.pdf)
 - [HCSP. Survenue de un ou plusieurs cas de gale. Conduite à tenir. 2012](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=312)
-- [Omedit Centre. Prise en charge et traitement des sujets atteints de gale. Mars 2010](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/6308.pdf)
+- [Omedit Centre. Prise en charge et traitement des sujets atteints de gale. Mars 2010. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/6308.pdf)
 
 {{% /collapse %}}
 {{%collapse "Photos" %}}

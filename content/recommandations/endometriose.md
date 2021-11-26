@@ -260,12 +260,12 @@ graph TB
 {{%collapse "Information de la patiente" %}}
 
 - [Sante.fr Petite chronique de l'endométriose](https://microlearning-sante.fr/fr/endometriose)
-- [EndoFrance. Fascicule d'information](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/Informations-sur-lendome%CC%81triose-ENDOFRANCE-.pdf)
-- [EndoFrance. Comprendre l'endométriose (+25 ans)](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/Comprendre-lendome%CC%81triose-25-ans.pdf)
-- [EndoFrance. Comprendre l'endométriose (-25 ans)](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/Comprendre-lendome%CC%81triose-15-25-ans.pdf)
-- [EndoFrance. La BD sur l'endométriose](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/BD-Endome%CC%81triose.pdf)
-- [EndoFrance. L'échographie pelvienne](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/Le%CC%81chographie-pelvienne.pdf)
-- [EndoFrance. L'IRM pelvienne](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/LIRM.pdf)
+- [EndoFrance. Fascicule d'information (PDF)](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/Informations-sur-lendome%CC%81triose-ENDOFRANCE-.pdf)
+- [EndoFrance. Comprendre l'endométriose (+25 ans, PDF)](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/Comprendre-lendome%CC%81triose-25-ans.pdf)
+- [EndoFrance. Comprendre l'endométriose (-25 ans, PDF)](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/Comprendre-lendome%CC%81triose-15-25-ans.pdf)
+- [EndoFrance. La BD sur l'endométriose (PDF)](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/BD-Endome%CC%81triose.pdf)
+- [EndoFrance. L'échographie pelvienne (PDF)](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/Le%CC%81chographie-pelvienne.pdf)
+- [EndoFrance. L'IRM pelvienne (PDF)](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/LIRM.pdf)
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

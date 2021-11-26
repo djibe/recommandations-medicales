@@ -199,8 +199,8 @@ graph TB
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
-- [HAS. Choix et durées d’antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/reco360_synthese_durees_antibiotherapies_coi_2021_07_15_v2.pdf)
-- [HAS, SPILF. Prise en charge des infections cutanées bactériennes courantes. Février 2019.](https://www.infectiologie.com/UserFiles/File/spilf/recos/2019-fiche-de-synthese-infections-cutanees-mel.pdf)
-- [SFD, SPILF. Erysipèle et fasciite nécrosante : prise en charge. Ann Dermatol Venerol. 128:463-82. 2001.](http://www.sfdermato.org/media/pdf/recommandation/erysipele-long-60a03bfa8c55af03ef3ec54a1b380a73.pdf)
+- [HAS. Choix et durées d’antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
+- [HAS, SPILF. Prise en charge des infections cutanées bactériennes courantes. Février 2019. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/recos/2019-fiche-de-synthese-infections-cutanees-mel.pdf)
+- [SFD, SPILF. Erysipèle et fasciite nécrosante : prise en charge. Ann Dermatol Venerol. 128:463-82. 2001. (PDF)](http://www.sfdermato.org/media/pdf/recommandation/erysipele-long-60a03bfa8c55af03ef3ec54a1b380a73.pdf)
 
 {{% /collapse %}}

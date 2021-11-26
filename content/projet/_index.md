@@ -459,7 +459,7 @@ Il ne peut pas tout savoir, et l’humain ne retient au mieux que 10% de ce qu�
 
 ### La formation médicale continue (FMC) est peu efficace
 
-La FMC des médecins est obligatoire depuis le 24 avril 1996 ([CN FMCH. L'obligation de formation médicale continue](https://solidarites-sante.gouv.fr/IMG/pdf/diapos_fmcph.pdf)), et la loi a été renforcée plusieurs fois depuis lors.  
+La FMC des médecins est obligatoire depuis le 24 avril 1996 ([CN FMCH. L'obligation de formation médicale continue (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/diapos_fmcph.pdf)), et la loi a été renforcée plusieurs fois depuis lors.  
 Pourtant, des exemples comme les *prescriptions d'antibiotiques* ou le *suivi du diabète* (voir ci-dessous) ne montrent pas de signes d'amélioration à la hauteur du temps de formation consacré. Plus simplement, 30% des diabétiques traités en monothérapie n'avaient pas de metformine en 2019 (*Assurance Maladie. Charges et Produits 2019*).
 
 > Si un schéma ne donne pas les résultats escomptés, il faut en chercher d’autres

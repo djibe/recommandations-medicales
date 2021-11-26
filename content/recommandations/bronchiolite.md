@@ -27,7 +27,7 @@ todo = "avis CT, FC + SpO2 selon l'âge, relecture"
 - Hospitalisation: voir *Signes de gravité et hospitalisation*
 - Durée de 3 à 10 jours (voire 6 semaines)
 - DRP - fractionner - surveillance - 0 tabac
-- [Fiche conseils aux parents](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
+- [Fiche conseils aux parents (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 
 {{%/article-summary%}}
 
@@ -228,7 +228,7 @@ Hospitalisation si critères ci-dessus.
 
 ### Traitement symptomatique
 
-[Fiche conseils aux parents (HAS/CNPP)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
+[Fiche conseils aux parents (HAS/CNPP, PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 
 - Désobstruction rhino-pharyngée pluri-quotidienne **DRP**  
   - Sérum physiologique uniquement
@@ -316,10 +316,10 @@ graph TB
 {{% /collapse %}}
 {{%collapse "Information des parents" %}}
 
-- [Fiche conseils aux parents (HAS/CNPP)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
+- [Fiche conseils aux parents (HAS/CNPP, PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 - [Santé Publique France. Votre enfant a la bronchiolite](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite/documents/depliant-flyer/votre-enfant-et-la-bronchiolite)
 - [Ameli. Bronchiolite](https://www.ameli.fr/yvelines/assure/sante/themes/bronchiolite)
-- [MPedia. Mon enfant a une bronchiolite, que faire ?](https://afpa.org/content/uploads/2021/11/mpedia-Infographie-bronchiolite-octobre21.pdf)
+- [MPedia. Mon enfant a une bronchiolite, que faire ? (PDF)](https://afpa.org/content/uploads/2021/11/mpedia-Infographie-bronchiolite-octobre21.pdf)
 
 Revenir consulter rapidement si:
 

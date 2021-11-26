@@ -342,7 +342,7 @@ Bêtabloquants de façon relative, aspirine et AINS si Hypersensibilité.
 - Éducation thérapeutique: les [Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/)
 - Asthme professionnel  
 Déclarer la maladie professionnelle, médecin du travail, reclassement, RQTH.
-- [HAS guide patient: vivre avec un asthme](https://www.has-sante.fr/upload/docs/application/pdf/guide_patient-asthme.pdf)
+- [HAS guide patient: vivre avec un asthme (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/guide_patient-asthme.pdf)
 - ALD 14 pour l'adulte si asthme persistant sévère
   - Symptômes permanents, exacerbations fréquentes, asthme nocturne fréquent ou activité physique limitée par les symptômes
   - Variabilité du DEP > 30% et VEMS/DEP < 60% théorique
@@ -455,7 +455,7 @@ Maintenir au long cours un {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-[Ameli. Comprendre ma maladie & bien utiliser mon dispositif d'inhalation](https://www.ameli.fr/sites/default/files/Documents/5358/document/asthme-bien-utiliser-dispositif-inhalation_assurance-maladie.pdf)
+[Ameli. Comprendre ma maladie & bien utiliser mon dispositif d'inhalation (PDF)](https://www.ameli.fr/sites/default/files/Documents/5358/document/asthme-bien-utiliser-dispositif-inhalation_assurance-maladie.pdf)
 
 L'asthme est une maladie dont les symptômes sont variables et bien les reconnaître aide à la maîtriser.
 
@@ -470,11 +470,11 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 
 - [GINA. Global strategy for the asthma management and prevention. 2021.](https://ginasthma.org/reports/)
 - [Gaillard EA. et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5–16 years. Eur Respir J 2021.](https://doi.org/10.1183/13993003.04173-2020)
-- [Collège des enseignants de pneumologie. Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2021.](http://cep.splf.fr/wp-content/uploads/2020/12/item_188_ASTHME-RHINITE_2021_ex_item_1841.pdf)
+- [Collège des enseignants de pneumologie. Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_188_ASTHME-RHINITE_2021_ex_item_1841.pdf)
 - [Santé Publique France. Asthme. 05/10/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/asthme)
 - Prescrire Redaction. Asthme. Premiers choix Prescrire. Juin 2020.
-- [Raherison C. et al. Updated guidelines (2015) for management and monitoring of adult and adolescent asthmatic patients (from 12 years and older) of the Société de pneumologie de langue française (SPLF) (summary). Revue des Maladies Respiratoires. Volume 33, Issue 4. 2016. Pages 271-278. ISSN 0761-8425.](https://splf.fr/wp-content/uploads/2016/11/reco-asthme-re%CC%81sume%CC%81-2016.pdf)
-- [HAS. insuffisance respiratoire chronique grave secondaire à un asthme. Octobre 2006.](https://www.has-sante.fr/upload/docs/application/pdf/07-008_insuf-asthm-guide_sans_lap.pdf)
+- [Raherison C. et al. Updated guidelines (2015) for management and monitoring of adult and adolescent asthmatic patients (from 12 years and older) of the Société de pneumologie de langue française (SPLF) (summary). Revue des Maladies Respiratoires. Volume 33, Issue 4. 2016. Pages 271-278. ISSN 0761-8425. (PDF)](https://splf.fr/wp-content/uploads/2016/11/reco-asthme-re%CC%81sume%CC%81-2016.pdf)
+- [HAS. Insuffisance respiratoire chronique grave secondaire à un asthme. Octobre 2006.](https://www.has-sante.fr/jcms/c_452137/fr/ald-n14-insuffisance-respiratoire-chronique-grave-secondaire-a-un-asthme)
 - [HAS. Recommandations pour le suivi médical des patients asthmatiques adultes et adolescents. Recommandations de bonne pratique. 01/09/2004.](https://www.has-sante.fr/jcms/c_272363/fr/recommandations-pour-le-suivi-medical-des-patients-asthmatiques-adultes-et-adolescents)
 
 ### À lire

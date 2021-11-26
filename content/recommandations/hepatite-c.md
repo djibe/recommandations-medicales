@@ -324,7 +324,7 @@ graph TB
 - [HAS. Hépatite C - Panorama](https://www.has-sante.fr/jcms/p_3261788/fr/hepatite-c)
 - [HAS. Hépatite C : prise en charge simplifiée chez l'adulte. Mars 2019 MAJ Septembre 2019.](https://www.has-sante.fr/jcms/c_2911891/fr/hepatite-c-prise-en-charge-simplifiee-chez-l-adulte)
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
-- [AFEF, SPILF. Recommandations AFEF pour l'élimination de l'infection par le virus de l'hépatite C en France. Mars 2018.](https://afef.asso.fr/wp-content/uploads/2018/06/VF-INTERACTIF-RECO-VHC-AFEF-v2103.pdf)
+- [AFEF, SPILF. Recommandations AFEF pour l'élimination de l'infection par le virus de l'hépatite C en France. Mars 2018. (PDF)](https://afef.asso.fr/wp-content/uploads/2018/06/VF-INTERACTIF-RECO-VHC-AFEF-v2103.pdf)
 - [Fourcher J., Rosa I. Traitement de l'hépatite C en 2018. POST'U 2018 Paris](https://www.fmcgastro.org/texte-postu/postu-2018-paris/traitement-de-lhepatite-c-en-2018/)
 - [Hépatites Info Service](https://www.hepatites-info-service.org/hepatite-c/)
 

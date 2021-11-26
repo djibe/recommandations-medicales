@@ -109,7 +109,7 @@ Seul élément à mentionner sur le PAI, il porte la carte spécifique sur lui.{
 
 {{%warning%}}
 Toute automédication est proscrite.  
-Remettre au patient la [liste ANSM](https://ansm.sante.fr/uploads/2021/03/11/liste-substances-actives-deficit-g6pd-20052019-1-2.pdf) des médicaments proscrits.
+Remettre au patient la [liste ANSM (PDF)](https://ansm.sante.fr/uploads/2021/03/11/liste-substances-actives-deficit-g6pd-20052019-1-2.pdf) des médicaments proscrits.
 {{%/warning%}}
 
 {{< table title="Possibilités de recours aux substances actives en cas de déficit en G6PD. Dr JB FRON d'après ANSM du 24/05/2019" >}}
@@ -173,7 +173,7 @@ Détail dans le document de l'*ANSM*
 - Signaler le déficit à tout médecin
 - [Carte de déficit en G6PD](https://docs.google.com/forms/d/e/1FAIpQLSc6cF8E4i2j1jxGUqUwRaqu4E_gzP-qnX3spfBwfNq9tgAPEw/viewform?c=0&w=1)  
 Doit être demandée par le médecin.
-- Éviction à vie des agents causaux et [liste ANSM](https://ansm.sante.fr/uploads/2021/03/11/liste-substances-actives-deficit-g6pd-20052019-1-2.pdf)
+- Éviction à vie des agents causaux et [liste ANSM (PDF)](https://ansm.sante.fr/uploads/2021/03/11/liste-substances-actives-deficit-g6pd-20052019-1-2.pdf)
 - Automédication déconseillée
 - Accident hémolytique
   - Arrêt de l'agent causal
@@ -195,7 +195,7 @@ Uniquement en carence démontrée.
 {{%collapse "Sources" %}}
 
 - [ANSM. Médicament et déficit en G6PD. 25/05/2021.](https://ansm.sante.fr/documents/reference/medicament-et-deficit-en-g6pd)
-- [HAS. Déficit en G6PD ou favisme. PNDS. Juin 2017.](https://www.has-sante.fr/upload/docs/application/pdf/2017-10/deficit_en_g6pd_-_pnds.pdf)
+- [HAS. Déficit en G6PD ou favisme. PNDS. Juin 2017.](https://www.has-sante.fr/jcms/c_2800207/fr/deficit-en-g6pd-glucose-6-phosphate-deshydrogenase-ou-favisme)
 - [Anses. Favisme. 27/05/2016.](https://www.anses.fr/fr/content/favisme)
 
 {{% /collapse %}}

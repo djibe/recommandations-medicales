@@ -8,7 +8,7 @@ date = "2021-11-16T13:47:19+01:00"
 publishdate = "2021-11-18"
 lastmod = "2021-11-18"
 specialites = ["therapeutique"]
-annees = "2007"
+annees = "2015"
 sources = ["HAS"]
 tags = []
 anglais = ["Benzodiazepine"]
@@ -19,13 +19,13 @@ imageSrc = ""
 todo = "terminer HAS, HAS 2015"
 +++
 
-Ces recommandations concernent le sevrage après > 30 jours chez le sujet âgé ≥ 65 ans
+Ces recommandations concernent le sevrage après > 30 jours.
 
 {{%article-summary%}}
 
 - Respecter les durées de traitement de l'AMM
-
-TODO:
+- Intervention brève à chaque prescription
+- Décroissance toujours progressive après prise prolongée
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -54,7 +54,7 @@ Rechute
 
 **AMM:** autorisation de mise sur le marché  
 **BZD:** benzodiazépine  
-**ECAB:** échelle cognitive d’attachement aux benzodiazépines
+**ECAB:** {{< modal-btn modal-score-ecab >}}échelle cognitive d’attachement aux benzodiazépines{{< /modal-btn >}}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -113,7 +113,7 @@ Données insuffisantes pour comparer les efficacités hypnotiques ou anxiolytiqu
 {{%collapse "Décroissance des benzodiazépines" %}}
 
 - Expliquer: la durée du traitement, les modalités d'arrêt et le risque de dépendance
-- ≥ 65 ans traité depuis > 30j: proposer systématiquement l'arrêt  
+- Traitement > 30j: proposer systématiquement l'arrêt  
 Intervention brève orale et écrite (efficace à court et long terme).
 - {{< modal-btn modal-score-ecab >}}Évaluation ECAB{{< /modal-btn >}} de la dépendance
 
@@ -134,7 +134,7 @@ Nature, sévérité, évolution du syndrome de sevrage, effet rebond et rechute.
 
 ### La décroissance
 
-Arrêt progressif en 4-10 semaines voire plusieurs mois (trouble psychologique).
+Arrêt progressif en 1 à 3 mois (voire 1 an).
 
 Proposer une diminution de 25% la 1<sup>re</sup> semaine avec consultation de suivi.  
 Puis paliers de 25% toutes les 2-4 semaines en l'absence de difficultés.  
@@ -174,17 +174,16 @@ Dr ...
 
 ### Calendrier de suivi de l'arrêt de BZD
 
+Avec signes rapportés lors de l'arrêt
+
 TODO:
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
 - Prescrire Redaction. Benzodiazépines ou apparentés. Prescrire. Janvier 2021.
-- [HAS. Modalités d'arrêt des benzodiazépines et médicaments apparentés chez le patient âgé. Recommandations professionnelles. Octobre 2007.](https://www.has-sante.fr/jcms/c_601509/fr/modalites-d-arret-des-benzodiazepines-et-medicaments-apparentes-chez-le-patient-age)
-
-### À lire
-
 - [HAS. Arrêt des benzodiazépines et médicaments apparentés : démarche du médecin traitant en ambulatoire. Recommandation de bonne pratique. Juin 2015.](https://www.has-sante.fr/jcms/c_2038262/fr/arret-des-benzodiazepines-et-medicaments-apparentes-demarche-du-medecin-traitant-en-ambulatoire)
+- [HAS. Modalités d'arrêt des benzodiazépines et médicaments apparentés chez le patient âgé. Recommandations professionnelles. Octobre 2007.](https://www.has-sante.fr/jcms/c_601509/fr/modalites-d-arret-des-benzodiazepines-et-medicaments-apparentes-chez-le-patient-age)
 
 {{% /collapse %}}
 {{% modal title="Échelle cognitive d’attachement aux benzodiazépines" id="modal-score-ecab"%}}

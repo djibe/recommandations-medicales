@@ -109,7 +109,7 @@ Lorsque le patient présente une immunoglobuline monoclonale de façon asymptoma
 
 **Surveillance à 6 mois de la découverte puis annuelle**:
 
-- Électrophorèse des protéins sériques
+- Électrophorèse des protéines sériques
 Dans le même laboratoire avec la même technique.
 - NFS
 - Créatininémie
@@ -121,6 +121,6 @@ Dans le même laboratoire avec la même technique.
 {{% /collapse %}}
 {{%collapse "Source" %}}
 
-[HAS. Quand prescrire une électrophorèse des protéines sériques (EPS) et conduite à tenir en cas d’une immunoglobuline monoclonale. Janvier 2017](https://www.has-sante.fr/upload/docs/application/pdf/2017-01/dir1/fiche_memo_eps__v2.pdf)
+[HAS. Quand prescrire une électrophorèse des protéines sériques (EPS) et conduite à tenir en cas d’une immunoglobuline monoclonale. Janvier 2017](https://www.has-sante.fr/jcms/c_2742018/fr/quand-prescrire-une-electrophorese-des-proteines-seriques-eps-et-conduite-a-tenir-en-cas-d-une-immunoglobuline-monoclonale)
 
 {{% /collapse %}}

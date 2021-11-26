@@ -237,6 +237,6 @@ graph TB
 - [Rouillon JM, SNFGE. Prise en charge de l'anémie ferriprive. 2018.](https://www.snfge.org/download/file/fid/3372)
 - [Clair E, Nahon S. Prise en charge de l’anémie ferriprive chez la personne âgée. POST'U 2016 - Paris](https://www.fmcgastro.org/textes-postus/no-postu_year/prise-en-charge-de-lanemie-ferriprive-chez-la-personne-agee/)
 - [OMS. Concentrations en hémoglobine permettant de diagnostiquer l’anémie et d’en évaluer la sévérité. Système ’informations nutritionnelles sur les vitamines et les minéraux. Genève, Organisation mondiale de la Santé, 2011 (WHO/NMH/NHD/MNM/11.1)](https://www.who.int/fr/publications-detail/WHO-NMH-NHD-MNM-11.1)
-- [HAS. Choix des examens du métabolisme du fer en cas de suspicion de carence en fer. Mars 2011.](https://www.has-sante.fr/upload/docs/application/pdf/2011-11/rapport_devaluation_bilan_martial_carence_2011-11-09_17-21-31_723.pdf)
+- [HAS. Choix des examens du métabolisme du fer en cas de suspicion de carence en fer. Mars 2011.](https://www.has-sante.fr/jcms/c_1051506/fr/choix-des-examens-du-metabolisme-du-fer-en-cas-de-suspicion-de-carence-en-fer-rapport-d-evaluation)
 
 {{% /collapse %}}

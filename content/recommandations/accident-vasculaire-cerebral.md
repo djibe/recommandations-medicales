@@ -277,9 +277,8 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 - [HAS. Prévention vasculaire après un infarctus cérébral ou un accident ischémique transitoire. 13/06/2018.](https://www.has-sante.fr/jcms/c_1252051/fr/prevention-vasculaire-apres-un-infarctus-cerebral-ou-un-accident-ischemique-transitoire)
 - [Schnitzler A. et al; Santé Publique France. BEH. 2018. n°29. 595-601.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/impact-de-la-reeducation-a-la-phase-subaigue-d-un-accident-vasculaire-cerebral-en-france-en-2016)
 - [Lecoffre C. et al, Santé Publique France. L'accident vasculaire cérébral en France : patients hospitalisés pour AVC en 2014 et évolutions 2008-2014. BEH. 2017. n°5. 84-94.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/l-accident-vasculaire-cerebral-en-france-patients-hospitalises-pour-avc-en-2014-et-evolutions-2008-2014)
-- [HAS. Accident vasculaire cérébral : méthodes de rééducation de la fonction motrice chez l’adulte. Juin 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2012-11/11irp01_synt_avc_methodes_de_reeducation.pdf)
-- [HAS. Accident vasculaire cérébral :  prise en charge précoce. Mai 2009.](https://www.has-sante.fr/upload/docs/application/pdf/2009-07/avc_prise_en_charge_precoce_-_recommandations.pdf)
-- [HAS. Prise en charge diagnostique et traitement immédiat de l’accident ischémique transitoire de l’adulte. 03/05/2004.](https://www.has-sante.fr/jcms/c_272368/fr/prise-en-charge-diagnostique-et-traitement-immediat-de-laccident-ischemique-transitoire-de-ladulte)
+- [HAS. Accident vasculaire cérébral : méthodes de rééducation de la fonction motrice chez l’adulte. Juin 2012.](https://www.has-sante.fr/jcms/c_1334330/fr/accident-vasculaire-cerebral-methodes-de-reeducation-de-la-fonction-motrice-chez-l-adulte)
+- [HAS. Accident vasculaire cérébral :  prise en charge précoce. Mai 2009.](https://www.has-sante.fr/jcms/c_830203/fr/accident-vasculaire-cerebral-prise-en-charge-precoce-alerte-phase-prehospitaliere-phase-hospitaliere-initiale-indications-de-la-thrombolyse)
 
 {{% /collapse %}}
 {{% modal title="Score NIHSS" id="modal-score-nihss" size="lg"%}}

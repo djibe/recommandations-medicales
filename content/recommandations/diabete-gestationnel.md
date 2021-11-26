@@ -179,11 +179,11 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
-- [Vambergue A. et al; SFD, CNGOF. Diabète gestationnel et pandémie SARS-Cov2 (COVID-19). Avril 2020.](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)
+- [Vambergue A. et al; SFD, CNGOF. Diabète gestationnel et pandémie SARS-Cov2 (COVID-19). Avril 2020. (PDF)](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)
 - [Brown J. et al. L'insuline pour le traitement des femmes atteintes de diabète gestationnel. Cochrane Database of Systematic Reviews 2017, Issue 11. Art.](https://www.cochrane.org/fr/CD012037/PREG_linsuline-pour-le-traitement-des-femmes-atteintes-de-diabete-gestationnel)
-- [Pirson N. et al. Prise en charge du diabète gestationnel en 2016 : une revue de la littérature. Louvain med 2016; 135 (10): 661-668](https://www.louvainmedical.be/sites/default/files/content/article/pdf/lmed-12-2016-01-pirson.pdf)
+- [Pirson N. et al. Prise en charge du diabète gestationnel en 2016 : une revue de la littérature. Louvain med 2016; 135 (10): 661-668. (PDF)](https://www.louvainmedical.be/sites/default/files/content/article/pdf/lmed-12-2016-01-pirson.pdf)
 - [Regnault N. et al. Diabète gestationnel en France en 2012 : dépistage, prévalence et modalités de prise en charge pendant la grossesse. BEH. Santé Publique France. Mars 2016.](http://beh.santepubliquefrance.fr/beh/2016/9/2016_9_2.html)
 - SFD. Le livre blanc du diabète. 2011.
-- [CNGOF, SFD. Le diabète gestationnel. Recommandations pour la pratique clinique. 2010.](http://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/diabete%20gesta%20cngof.pdf)
+- [CNGOF, SFD. Le diabète gestationnel. Recommandations pour la pratique clinique. 2010. (PDF)](http://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/diabete%20gesta%20cngof.pdf)
 
 {{% /collapse %}}

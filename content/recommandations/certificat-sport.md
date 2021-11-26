@@ -195,7 +195,7 @@ Informer sur les 10 règles d'or:
 Informer: les microbes ne sont pas éliminés par la sueur.
 10. Bilan médical avant de reprendre une activité sportive à partir de 35 ans si homme, 45 ans si femme
 
-> [ClubCardioSport. Les 10 règles d'or. Argumentaire.](https://www.clubcardiosport.com/sites/www.clubcardiosport.com/files/inline-files/argu_scientifique.pdf)
+> *[ClubCardioSport. Les 10 règles d'or. Argumentaire. (PDF)](https://www.clubcardiosport.com/sites/www.clubcardiosport.com/files/inline-files/argu_scientifique.pdf)*
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
@@ -218,7 +218,7 @@ Informer: les microbes ne sont pas éliminés par la sueur.
 - [SFC. Recommandations concernant le contenu du bilan cardiovasculaire de la visite de non contre indication à la pratique du sport en compétition entre 12 et 35 ans.](https://www.sfcardio.fr/publication/recommandations-concernant-le-contenu-du-bilan-cardiovasculaire-de-la-visite-de-non)
 - [CNOM. Certificats de non contre indication à la pratique du sport](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificats-indication-pratique-sport)
 - [Club des Cardiologues du Sport](https://www.clubcardiosport.com/)
-- [Dr Augé D. Visite de CNCI.](https://www.hjd.asso.fr/sites/default/files/Visite%20de%20non%20contre-indication%20%C3%A0%20la%20pratique%20sportive%20V2.pdf)
+- [Dr Augé D. Visite de CNCI. (PDF)](https://www.hjd.asso.fr/sites/default/files/Visite%20de%20non%20contre-indication%20%C3%A0%20la%20pratique%20sportive%20V2.pdf)
 
 ### Non encore lues
 

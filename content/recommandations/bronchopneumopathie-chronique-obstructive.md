@@ -424,7 +424,7 @@ Si récupération incomplète: spirométrie à 3 mois.
 
 ### Plan d'action personnalisé en cas d'exacerbation
 
-[Modèle SPLF du Plan d'action BPCO](https://splf.fr/wp-content/uploads/2017/09/F-PlanAction_2013-o.pdf)
+[Modèle SPLF du Plan d'action BPCO (PDF)](https://splf.fr/wp-content/uploads/2017/09/F-PlanAction_2013-o.pdf)
 
 {{%info%}}Toujours remettre au patient le *Plan d'Action*. Son entourage doit aussi le connaître.{{%/info%}}
 
@@ -511,7 +511,7 @@ Anémie, asthme, cancer, [insuffisance cardiaque]({{< relref "insuffisance-cardi
 {{%collapse "Information du patient BPCO" %}}
 
 [Carnet de suivi en ligne de la BPCO par la SPLF](http://www.carnet-bpco.fr/)  
-[Carnet de suivi à imprimer de la BPCO par la SPLF](https://splf.fr/wp-content/uploads/2016/03/Carnet-de-suivi_BPCO-SPLF-r-ouvert.pdf)
+[Carnet de suivi à imprimer de la BPCO par la SPLF (PDF)](https://splf.fr/wp-content/uploads/2016/03/Carnet-de-suivi_BPCO-SPLF-r-ouvert.pdf)
 
 - Explication de la BPCO: l’acronyme, la maladie et ses symptômes
 - Conseils pour arrêter de fumer (tabac, cannabis) et son intérêt pour l’évolution de la maladie
@@ -557,7 +557,7 @@ Anémie, asthme, cancer, [insuffisance cardiaque]({{< relref "insuffisance-cardi
 - [Santé Publique France. BPCO et insuffisance respiratoire chronique. 27/06/2019](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bpco-et-insuffisance-respiratoire-chronique)
 - [Delmas MC et al; Groupe Baromètre santé 2017. Connaissance de la bronchopneumopathie chronique obstructive (BPCO) en France : Baromètre santé 2017. Bull Epidémiol Hebd. 2018;(35-36):703-8.](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)
 - [Jouneau S. et al; SPLF. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017. FR, EN.](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
-- [Zysman M. et al; SPLF. Propositions de la SPLF pour l’optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016.](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
+- [Zysman M. et al; SPLF. Propositions de la SPLF pour l’optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016. (PDF)](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
 - [Ponikowski P. et al, ESC Scientific Document Group. 2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) Developed with the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. Volume 37. Issue 27. 14 July 2016. Pages 2129–2200.](https://doi.org/10.1093/eurheartj/ehw128)
 
 {{% /collapse %}}

@@ -43,7 +43,7 @@ Elle n'ouvre pas les droits à une prise en charge à 100% mais aux taux habitue
 Pathologies graves avec traitements coûteux.  
 Le patient peut accéder à des informations sur l'ALD au sein de son espace Ameli.
 
-Liste établie par décret [révision 2011-77](https://www.ameli.fr/sites/default/files/Documents/3901/document/decret-2011-77_journal-officiel.pdf).
+Liste établie par décret [révision 2011-77 (PDF)](https://www.ameli.fr/sites/default/files/Documents/3901/document/decret-2011-77_journal-officiel.pdf).
 
 <ul class="list-group my-4 list-counter">
   {{< list-item-counter "AVC invalidant" >}}

@@ -144,7 +144,7 @@ graph TB
 {{%collapse "Sources" %}}
 
 - [Duval X., Iung B. Prophylaxie de l’endocardite infectieuse. Archives des Maladies du Coeur et des Vaisseaux - Pratique. Volume 2021. Issue 298. 2021. Pages 12-15. ISSN 1261-694X.](https://doi.org/10.1016/j.amcp.2021.03.003)
-- [Collège National des Enseignants de Cardiologie. Endocardite infectieuse. Item 149 - UE6. Cardiologie 2e édition. Octobre 2019.](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch11_endocardite.pdf)
+- [Collège National des Enseignants de Cardiologie. Endocardite infectieuse. Item 149 - UE6. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch11_endocardite.pdf)
 - [Habib H. et al, ESC Scientific Document Group. 2015 ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC) Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). European Heart Journal. Volume 36. Issue 44. 21 November 2015. Pages 3075–3128.](https://doi.org/10.1093/eurheartj/ehv319)
 
 {{% /collapse %}}

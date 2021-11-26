@@ -62,4 +62,4 @@ Vérifier la monographie car contre-indications spécifiques pour chaque spécia
 
 ## Source
 
-[Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 84. 2017.](http://couf.fr/wp-content/uploads/2016/03/Chapitre-18.pdf)
+[Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 84. 2017. (PDF)](http://couf.fr/wp-content/uploads/2016/03/Chapitre-18.pdf)

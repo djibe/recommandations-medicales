@@ -66,7 +66,7 @@ Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de 
 - Nutriben APLV 1 et 2
 - Pregestimil 1 à 3
 
-> << Ne sont pas adaptées à la prise en charge de l'allergie aux protéines de lait de vache >> [Anses 2015](https://www.anses.fr/en/system/files/NUT2015SA0257.pdf)
+> << Ne sont pas adaptées à la prise en charge de l'allergie aux protéines de lait de vache >> *[Anses 2015 (PDF)](https://www.anses.fr/en/system/files/NUT2015SA0257.pdf)*
 
 ### Hydrolysat de lactosérum
 

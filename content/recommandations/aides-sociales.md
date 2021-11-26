@@ -21,4 +21,4 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2018-03/annexes2.pd
 
 ## Réfugiés
 
-[Le guide du réfugié](https://leguidedurefugie.com/pdf/guide-du-refugie-version-fr.pdf)
+[Le guide du réfugié (PDF)](https://leguidedurefugie.com/pdf/guide-du-refugie-version-fr.pdf)

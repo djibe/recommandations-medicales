@@ -238,7 +238,7 @@ Aspirine si refus anticoag
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Société Française de Gériatrie et Gérontologie et Société Française de Cardiologie. Prise en charge de la fibrillation atriale du sujet âgé. La Revue de Gériatrie, tome 38, n°7, septembre 2013](http://www.revuedegeriatrie.fr/documents/fibrillation_atriale.pdf)
+- [Société Française de Gériatrie et Gérontologie et Société Française de Cardiologie. Prise en charge de la fibrillation atriale du sujet âgé. La Revue de Gériatrie. Tome 38. n°7. septembre 2013. (PDF)](http://www.revuedegeriatrie.fr/documents/fibrillation_atriale.pdf)
 
 {{% /collapse %}}
 {{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}

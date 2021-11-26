@@ -84,8 +84,8 @@ Dérogation possible de 2 ans à négocier avec l'ARS.
   Zone particulièrement déficitaire, majoration par l'ARS: 60.000 € pour 4 jours, 45.000 pour 3 jours...
 3. Majoration de 2500€ en cas d’exercice libéral partagé dans un hôpital de proximité
 
-> *[Ameli CAIM](https://www.ameli.fr/sites/default/files/Documents/497913/document/fiche_caim.pdf)*  
-[Contrat type](https://www.iledefrance.paps.sante.fr/system/files/2020-01/Contrat%20type%20CAIM.pdf?rubrique=10010)
+> *[Ameli CAIM (PDF)](https://www.ameli.fr/sites/default/files/Documents/497913/document/fiche_caim.pdf)*  
+[Contrat type (PDF)](https://www.iledefrance.paps.sante.fr/system/files/2020-01/Contrat%20type%20CAIM.pdf?rubrique=10010)
 
 ### COSCOM: Contrat de Stabilisation et de Coordination
 
@@ -166,7 +166,7 @@ Financement de la création de nouvelles structures d'exercices collectif (créa
 
 Les références sont mentionnées sous chaque article.
 
-- [Rapport parlementaire 2019](https://solidarites-sante.gouv.fr/IMG/pdf/rapport_augros_2019.pdf)
+- [Rapport parlementaire 2019 (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rapport_augros_2019.pdf)
 
 ### À lire
 

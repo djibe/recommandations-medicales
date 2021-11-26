@@ -56,7 +56,7 @@ Insuffisance respiratoire, insuffisance cardiaque, diabète, insuffisance rénal
 - Entourage des nourrissons de moins de 6 mois à risque de grippe grave  
 Prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d’une affection de longue durée ainsi - Immunodéprimé et son entourage
 
-> [Ameli Médecin 22/10/2021](https://www.ameli.fr/sites/default/files/Documents/707929/document/grippe-memos-medecins2021.pdf)
+> *[Ameli Médecin 22/10/2021 (PDF)](https://www.ameli.fr/sites/default/files/Documents/707929/document/grippe-memos-medecins2021.pdf)*
 
 **Pour les autres personnes, différer la vaccination à début décembre.**
 

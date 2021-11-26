@@ -347,7 +347,7 @@ Y compris phytothérapie, compléments alimentaires.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018.](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2018%252FCNGOF_RPC_2018-CONTRACEPTION.pdf&i=21002)
+- [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018. (PDF)](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2018%252FCNGOF_RPC_2018-CONTRACEPTION.pdf)
 
 ### À lire
 

@@ -220,7 +220,7 @@ Normobare au masque haute concentration 12-15 L/min pendant 15-20 minutes.
 Traiter ≥ 3 crises à 12-15 L/min pendant 30 minutes avant de conclure à son inefficacité.  
 *Effet rebond* possible.
 
-> [Modèle de prescription](http://www.urps-pharmaciens-paca.fr/wp-content/uploads/2016/03/Algie-Vasculaires-de-la-Face-AVF-%E2%80%93-Neurologue-ORL-ou-Structure-de-PEC-de-la-douleu.pdf), [Journal Officiel](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000030367524) et [forfaits de l'AM OAVF 4.28 et 4.29](http://www.codage.ext.cnamts.fr/cgi/tips/cgi-fiche?p_code_tips=1135392&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
+> [Modèle de prescription (PDF)](http://www.urps-pharmaciens-paca.fr/wp-content/uploads/2016/03/Algie-Vasculaires-de-la-Face-AVF-%E2%80%93-Neurologue-ORL-ou-Structure-de-PEC-de-la-douleu.pdf), [Journal Officiel](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000030367524) et [forfaits de l'AM OAVF 4.28 et 4.29](http://www.codage.ext.cnamts.fr/cgi/tips/cgi-fiche?p_code_tips=1135392&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
 
 ### Pour en savoir plus: autres traitements de la crise
 
@@ -285,7 +285,7 @@ graph TB
 [**NB.** Demande de prise en charge à 100% par des députés sans réponse du gouvernement](https://questions.assemblee-nationale.fr/q15/15-4922QE.htm)
 
 - [Collège des enseignants de neurologie. Paralysie faciale.](https://www.cen-neurologie.fr/deuxieme-cycle/paralysie-faciale)
-- [Donnet A. et al. Recommandations pour le diagnostic et le traitement de l'algie vasculaire de la face. Revue Neurologique. Volume 170. Issue 11. 2014. Pages 653-670. ISSN 0035-3787.](https://www.sf-neuro.org/files/files/Recommandations%20pour%20le%20diagnostic%20et%20le%20traitement%20de%20l%2527algie%20vasculaire%20de%20la%20face%20(3).pdf)
+- [Donnet A. et al. Recommandations pour le diagnostic et le traitement de l'algie vasculaire de la face. Revue Neurologique. Volume 170. Issue 11. 2014. Pages 653-670. ISSN 0035-3787. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20pour%20le%20diagnostic%20et%20le%20traitement%20de%20l%2527algie%20vasculaire%20de%20la%20face%20(3).pdf)
 - [Wilbrink LA et al. Stepwise web-based questionnaires for diagnosing cluster headache: LUCA and QATCH. Cephalalgia. 2013;33(11):924-931.](https://doi.org/10.1177%2F0333102413479835)
 - Prescrire Redaction. Algie vasculaire de la face, en bref. Janvier 2012.
 - [CiSMeF. Algie vasculaire de la face](https://www.cismef.org/page/algie-vasculaire-de-la-face)
