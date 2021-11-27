@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par macrovector / Freepik"
-todo = "IEC, centres réadapt vasculaire, ETP, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/33401955/, https://pubmed.ncbi.nlm.nih.gov/1474406/, Éducation thérapeutique"
+todo = "centres réadapt vasculaire, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/33401955/, https://pubmed.ncbi.nlm.nih.gov/1474406/, Éducation thérapeutique"
 +++
 
 {{%article-summary%}}

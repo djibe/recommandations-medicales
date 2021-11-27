@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-10-21"
+lastmod = "2021-10-27"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["SFD", "EASD", "ADA", "ESC", "HAS"]
@@ -15,7 +15,7 @@ anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "def diabète EASD 2019, statine-aspirine-vaccins, rythme depistages, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Agé: met > iDPP4 > basale (SU/glinide si bonne santé), peu arguments iSGLT2/GLP1 après 75 ans sauf CV | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IRC: met poso > iSGLT2 voire GLP1. Envisager maintien si insuline | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2; -1 kg réduit de 43% le risque de DT2 (ESC 2019 diabetes); 1000 pas de +/j"
+todo = "vaccins, rythme depistages, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Agé: met > iDPP4 > basale (SU/glinide si bonne santé), peu arguments iSGLT2/GLP1 après 75 ans sauf CV | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IRC: met poso > iSGLT2 voire GLP1. Envisager maintien si insuline | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2; -1 kg réduit de 43% le risque de DT2 (ESC 2019 diabetes); 1000 pas de +/j"
 +++
 
 {{%article-summary%}}
@@ -92,7 +92,7 @@ Perte de poids (5-10%) ou chirurgie bariatrique (TODO: indications).
 {{%/collapse%}}
 {{%collapse "Escalade thérapeutique" "show" %}}
 
-*Version préliminaire.*
+*Version préliminaire d'après SFD 2019.*
 
 Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les classes thérapeutiques de préférence sont entourées ou signalées avec un indicateur bleu.  
 Objectif 0 hypo !
@@ -248,7 +248,7 @@ window.onload = () => {
 - Prévention primaire
   - Aspirine 75-100 mg/j envisageable si {{< modal-btn modal-rcv-diabete >}}(très) haut risque CV{{< /modal-btn >}} sans risque de saignement
 - Prévention secondaire
-  - Doses selon la maladie cardiovasculaire
+  - 75-160 mg ± associé selon la pathologie
   - Prolonger bi-antiagrégants si bien toléré (max 3 ans)
 - IPP si risque élevé de saignement digestif
 
@@ -261,7 +261,19 @@ window.onload = () => {
 
 ### Bilan rénal
 
-- Créatininémie, microalbuminurie sur échantillon annuels (HAS 2021)
+- Créatininémie, microalbuminurie sur échantillon annuels
+
+### AOMI
+
+- Dépistage annuel clinique ± IPS
+
+### Vaccins
+
+*Calendrier vaccinal 2021*:
+
+- Covid-19
+- Grippe
+- Pneumocoque
 
 > *ESC 2019 diabetes*
 
