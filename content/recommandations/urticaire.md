@@ -6,18 +6,18 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-27T17:43:41+02:00
 publishdate = 2020-10-27
-lastmod = 2021-10-18
+lastmod = 2021-11-29
 specialites = ["allergologie", "dermatologie"]
 annees = "2003"
-sources = ["ANAES", "SFDermato"]
-tags = ["angio-oedeme", "anti-histaminique", "histamine", "prurit"]
+sources = ["ANAES", "SFDermato", "CEDEF"]
+tags = ["angio-oedeme", "anti-histaminique", "prurit"]
 anglais = ["Urticaria"]
 sctid = "126485001"
 draft = false
 flowchart = true
 image = true
 imageSrc = "Urticaire superficielle. Photo de woofiegrrl sur Foter.com / CC BY-ND"
-todo = "gs, enfant, choc anaphyla, Quincke, https://onlinelibrary.wiley.com/doi/full/10.1111/all.13397, https://www.dropbox.com/sh/9ivszpuwnxdp4t8/AAB04JahlYn6qounsCr-dQKwa/2019?dl=0&preview=Grille+capacit%C3%A9+urticaire+physique+Q4.docx&subfolder_nav_tracking=1, fiche, https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2488.pdf"
+todo = "sources à lire, gs, enfant, choc anaphyla, Quincke, https://onlinelibrary.wiley.com/doi/full/10.1111/all.13397, https://www.dropbox.com/sh/9ivszpuwnxdp4t8/AAB04JahlYn6qounsCr-dQKwa/2019?dl=0&preview=Grille+capacit%C3%A9+urticaire+physique+Q4.docx&subfolder_nav_tracking=1, fiche, https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2488.pdf"
 +++
 
 {{%article-summary%}}
@@ -397,11 +397,11 @@ graph TB
 - [Hôpital Necker. Facteurs susceptibles d’induire la dégranulation mastocytaire.](http://www.maladiesrares-necker.aphp.fr/facteurs-susceptibles-dinduire-la-degranulation-mastocytaire/)
 - [Collège des Enseignants d'Immunologie de Langue Française. Item 114 : Urticaire et œdème de Quincke : diagnostic, étiologie, traitement. 2011](http://campus.cerimes.fr/immunologie/enseignement/immuno_114a/site/html/cours.pdf)
 - [Dermato-info. L'urticaire.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99urticaire)
-- [ANAES/SFDermato. Conférence de consensus - Prise en charge de l'urticaire chronique. 08/01/2003](https://www.has-sante.fr/upload/docs/application/pdf/urticaire_court.pdf)
+- [ANAES/SFDermato. Conférence de consensus - Prise en charge de l'urticaire chronique. 2003.](https://www.has-sante.fr/upload/docs/application/pdf/urticaire_court.pdf)
 
-{{% /collapse %}}
-{{%collapse "Photos" %}}
+### À lire
 
-{{< wikiphoto "Urticaria" >}}
+- [SFD. Recommandations urticaire chronique spontanée. Décembre 2019.](https://reco.sfdermato.org/fr/recommandations-urticaire-chronique-spontan%C3%A9e)
+- [CEDEF. Dermatite atopique. Item 163 - UE 7. 2017.](https://undf.cedef.org/fr/document/Hypersensibilit%C3%A9s-et-allergies-cutan%C3%A9o-muqueuses-chez-l%E2%80%99enfant-et-l%E2%80%99adulte)
 
 {{% /collapse %}}

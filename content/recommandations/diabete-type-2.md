@@ -273,7 +273,7 @@ window.onload = () => {
 
 - Covid-19
 - Grippe
-- Pneumocoque
+- {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}}
 
 > *ESC 2019 diabetes*
 
@@ -349,5 +349,10 @@ window.onload = () => {
 {{% modal title="ARA2 dans l'hypertension" id="modal-ara2" size="lg"%}}
 
 {{< traitements/ara2 >}}
+
+{{% /modal %}}
+{{% modal title="Vaccination anti-pneumococcique" id="modal-vaccin-pneumocoque"%}}
+
+{{< traitements/vaccin-pneumocoque >}}
 
 {{% /modal %}}

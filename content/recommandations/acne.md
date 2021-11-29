@@ -9,7 +9,7 @@ publishdate = 2020-07-27
 lastmod = 2020-08-14
 specialites = ["dermatologie"]
 annees = "2017"
-sources = ["ANSM", "HAS", "Prescrire", "SFDermato"]
+sources = ["SFDermato", "HAS"]
 tags = ["acne", "contraception", "retinoide"]
 anglais = ["Acne"]
 sctid = "11381005"
@@ -206,10 +206,14 @@ Selon la SFDermato, informer le patient:
 {{< card-link title="Acné" url="https://www.dermatoclic.com/acne" subtitle="Dermatoclic">}}
 
 - [ANSM. Traitement de l’acné sévère : premières recommandations pour améliorer la sécurité d’utilisation de l’isotrétinoïne. 05/05/2021.](https://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Traitement-contre-l-acne-regles-de-bon-usage-de-l-isotretinoine-pour-limiter-les-risques-Point-d-Information)
-- [CEDEF. Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
 - Prescrire Redaction. Patients ayant une acné. Mars 2017.
 - Prescrire Redaction. Premiers choix Prescrire. Acné. Octobre 2016.
 - [Société Française de Dermatologie. Prise en charge de l’acné. Label HAS. 10/06/2015. (PDF)](https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)
 - [ANSM. Mai 2015. Restriction de la prescription initiale de l’isotrétinoïne orale aux dermatologues – Lettre aux professionnels de santé.](https://archiveansm.integra.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Restriction-de-la-prescription-initiale-de-l-isotretinoine-orale-aux-dermatologues-Lettre-aux-professionnels-de-sante)
+
+### À lire
+
+- [CEDEF. Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
+- [SFD. Recommandations acné. Octobre 2015.](https://reco.sfdermato.org/fr/recommandations-acn%C3%A9)
 
 {{% /collapse %}}

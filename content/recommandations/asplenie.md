@@ -6,11 +6,11 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-29T23:51:41+02:00
 publishdate = 2020-09-29
-lastmod = 2020-09-29
-specialites = ["infectiologie", "hematologie"]
-annees = "2020"
-sources = ["HAS"]
-tags = ["asplenie", "oracilline", "penicilline V", "vaccin", "voyage"]
+lastmod = 2021-11-29
+specialites = ["hematologie"]
+annees = "2021"
+sources = ["HCSP", "MinSante"]
+tags = ["asplenie", "vaccin", "voyage"]
 anglais = ["Asplenia"]
 sctid = "707147002"
 draft = false
@@ -22,28 +22,13 @@ todo = "améliorer vaccins, graph"
 
 {{%article-summary%}}
 
-- Antibioprophylaxie par pénicilline V.
-- 5 vaccinations: pneumocoque, méningocoques ACYW135 et B, Haemophilus, grippe.
+- Antibioprophylaxie par pénicilline V
+- 5 vaccinations: pneumocoque, méningocoques ACYW135 et B, Haemophilus, grippe
 
 {{%/article-summary%}}
-{{%collapse "Épidémiologie" %}}
+{{%collapse "Définitions" %}}
 
-500.000 personnes hypo ou aspléniques en France.
-
-Splénectomie chirurgicale est la 1<sup>re</sup> cause avec 6 à 9000 cas par an (50% d'adultes).  Autres: Infarctus splénique, asplénisme thérapeutique (radiothérapie).  
-Drépanocytose, 10.000 porteurs (50% adultes).
-
-{{% /collapse %}}
-{{%collapse "Complications de l'asplénie" %}}
-
-### Risque infectieux
-
-Incidence annuelle d'infections 50 à 100 fois plus élevée. Risque plus important les 3 années suivants la splénectomie mais persiste toute la vie.
-
-Germes: pneumocoque (50-90%) et Haemophilus influenzae (10-15%).
-
-{{% /collapse %}}
-{{%collapse "Étiologie" %}}
+### Étiologie
 
 - Traumatisme splénique
 - Rupture chirurgicale
@@ -55,6 +40,19 @@ Germes: pneumocoque (50-90%) et Haemophilus influenzae (10-15%).
 - Transplantation médullaire
 - Maladie auto-immune
 - Cirrhose alcoolique
+
+### Complications de l'asplénie
+
+Risque infectieux: incidence annuelle d'infections 50 à 100 fois plus élevée. Risque plus important les 3 années suivants la splénectomie mais persiste toute la vie.
+
+Germes: pneumocoque (50-90%) et Haemophilus influenzae (10-15%).
+
+### Épidémiologie
+
+500.000 personnes hypo ou aspléniques en France.
+
+Splénectomie chirurgicale: 1<sup>re</sup> cause avec 6 à 9000 cas par an (50% d'adultes).  Autres: infarctus splénique, asplénisme thérapeutique (radiothérapie).  
+Drépanocytose, 10.000 porteurs (50% adultes).
 
 {{% /collapse %}}
 {{%collapse "Antibioprophylaxie de l'asplénie" %}}
@@ -105,17 +103,17 @@ Vaccination 2-6 semaines après l'intervention (immédiat si risque de perdu de 
 
 #### Haemophilus influenzae type B
 
-ACT-HIB® dose unique
+ACT-HIB® dose unique.
 
 #### Grippe saisonnière
 
 1 dose annuelle au moment de la campagne annuelle de vaccination.
 
-> Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques (sauf les vaccins vivants en cas d’immunosuppression). [HCSP 2014](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
+> Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques (sauf les vaccins vivants en cas d’immunosuppression). *[HCSP 2014](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)*
 
 ### Vaccination de l'entourage
 
-Mise à jour du calendrier vaccinal de l'entourage (voir fiche vaccination).
+Mise à jour du calendrier vaccinal de l'entourage (voir [Vaccination]({{< relref "vaccination.md" >}})).
 
 {{% /collapse %}}
 {{%collapse "Éducation thérapeutique" %}}
@@ -130,6 +128,7 @@ Mise à jour du calendrier vaccinal de l'entourage (voir fiche vaccination).
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- {{< references/calendrier-vaccinal >}}
 - [HCSP. Vaccination des personnes immunodéprimées ou aspléniques. Recommandations actualisées. 22/05/2015.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
 - [Omedit Centre. Prévention des infections chez le splénectomisé et dans l'asplénie fonctionnelle. 2010. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5198.pdf)
 

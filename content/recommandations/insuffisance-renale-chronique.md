@@ -414,7 +414,7 @@ bilan --> 7(Avis néphro)
 ### À lire
 
 - [HAS. Suivi ambulatoire de l’adulte transplanté rénal au-delà de 3 mois après transplantation. Recommandations de bonne pratique. Novembre 2007.](https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation)
-- [Stevens PE, Levin A. Kidney Disease: Improving Global Outcomes Chronic Kidney Disease Guideline Development Work Group Members. Evaluation and management of chronic kidney disease: synopsis of the kidney disease: improving global outcomes 2012 clinical practice guideline. Ann Intern Med. 2013 Jun 4;158(11):825-30.](https://kdigo.org/wp-content/uploads/2017/02/KDIGO_2012_CKD_GL.pdf)
+- [Stevens PE, Levin A. Kidney Disease: Improving Global Outcomes Chronic Kidney Disease Guideline Development Work Group Members. Evaluation and management of chronic kidney disease: synopsis of the kidney disease: improving global outcomes 2012 clinical practice guideline. Ann Intern Med. 2013 Jun 4;158(11):825-30. (PDF)](https://kdigo.org/wp-content/uploads/2017/02/KDIGO_2012_CKD_GL.pdf)
 
 {{%/collapse%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
