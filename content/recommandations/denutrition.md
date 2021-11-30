@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-19T11:25:57+01:00"
 publishdate = "2021-11-23"
-lastmod = "2021-11-24"
+lastmod = "2021-11-30"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["HAS", "FFN", "SFNCM"]
@@ -14,9 +14,10 @@ tags = ["depistage"]
 anglais = ["Undernutrition"]
 sctid = "65404009"
 draft = false
+flowchart = true
 image = false
 imageSrc = ""
-todo = "FFN, def CIM-10, flowchart, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl..., https://www.sfncm.org/outils-education/outils/realises-par-la-sfncm"
+todo = "FFN, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl..., https://www.sfncm.org/outils-education/outils/realises-par-la-sfncm"
 +++
 
 {{%article-summary%}}
@@ -30,7 +31,7 @@ todo = "FFN, def CIM-10, flowchart, liste CNO: Clinutren, Delical, Fortimel, Fre
 {{%collapse "Définitions" %}}
 
 Dénutrition
-: *Malnutrition* dans la CIM 10.
+: *Malnutrition* dans la CIM-10.
 : << État d’un organisme en déséquilibre nutritionnel >>. Possible par un déficit d’apport isolé, une augmentation des dépenses ou des pertes ou une association de ceux-ci.  
 Le déséquilibre nutritionnel est caractérisé par un bilan énergétique et/ou protéique négatif aboutissant à une *perte de poids* ou une *fonte musculaire*.  
 Elle touche > 2 millions de français.
@@ -46,6 +47,7 @@ Syndrome de renutrition inappropriée
 
 ### Abréviations
 
+**CIM-10:** classification internationale des maladies 10<sup>e</sup> révision (OMS)  
 **CNO:** complémentation nutritionnelle orale  
 **FFN:** Fédération française de nutrition  
 **HAS:** Haute Autorité de Santé  
@@ -148,7 +150,8 @@ Adulte ≥ 70 ans, dépistage ≥ annuel.
   - IMC < 22
   - {{< modal-btn modal-sarcopenie >}}Sarcopénie confirmée{{< /modal-btn >}}
 - Critères étiologiques
-  - Réduction de la prise alimentaire ≥ 50% pendant > 1 semaine ou toute réduction des apports pendant > 2 semaines par rapport à la consommation habituelle ou aux besoins PE
+  - Réduction de la prise alimentaire ≥ 50% pendant > 1 semaine  
+  ou toute réduction des apports pendant > 2 semaines par rapport à la consommation habituelle ou aux besoins PE
   - Malabsorption, maldigestion
   - Situation d'agression (hypercatabolisme protéique)  
   Pathologie aiguë, chronique évolutive ou maligne évolutive.
@@ -180,18 +183,19 @@ Dénutrition sévère si ≥ 1 critère parmi:
   - IMC < 18,5
   - {{< modal-btn modal-sarcopenie >}}Réduction quantifiée de la masse et/ou de la fonction musculaires{{< /modal-btn >}}
 - Critères étiologiques
-  - Réduction de la prise alimentaire ≥ 50% pendant > 1 semaine ou toute réduction des apports pendant > 2 semaines par rapport à la consommation habituelle ou aux besoins PE
+  - Réduction de la prise alimentaire ≥ 50% pendant > 1 semaine  
+  ou toute réduction des apports pendant > 2 semaines par rapport à la consommation habituelle ou aux besoins PE
   - Malabsorption, maldigestion
   - Situation d'agression (hypercatabolisme protéique)  
   Pathologie aiguë, chronique évolutive ou maligne évolutive.
 
 ### 2. Sévérité de la dénutrition chez l'adulte
 
-- Dénutrition modérée si ≥ 1 critère parmi:
+- Dénutrition modérée si ≥ 1 parmi:
   - 17 < IMC < 18,5
   - Perte de poids ≥ 5% en 1 mois ou ≥ 10% en 6 mois ou ≥ 10% par rapport au poids habituel avant le début de la maladie
   - 30 g/L < Albuminémie < 35 g/L
-- **Dénutrition sévère** si ≥ 1 critère parmi:
+- **Dénutrition sévère** si ≥ 1 parmi:
   - IMC ≤ 17
   - Perte de poids ≥ 10% en 1 mois ou ≥ 15% en 6 mois ou ≥ 15% par rapport au poids habituel avant le début de la maladie
   - Albuminémie ≤ 30 g/L
@@ -213,18 +217,19 @@ Enfant < 18 ans.
   - Stagnation pondérale aboutissant à un décalage du poids 2 couloirs en dessous (courbes poids IOTF [filles](https://cress-umr1153.fr/wp-content/uploads/2018/03/Courbes-Taille-et-Poids-filles-1-18-ans-AFPA-CRESS-Inserm-CGM-2018.pdf), [garçon](https://cress-umr1153.fr/wp-content/uploads/2018/03/Courbes-Taille-et-Poids-garcons-1-18-ans-AFPA-CRESS-Inserm-CGM-2018.pdf))
   - Réduction de la masse et/ou de la fonction musculaires
 - Critères étiologiques
-  - Réduction de la prise alimentaire ≥ 50% pendant > 1 semaine, ou toute réduction des apports pendant > 2 semaines par rapport: à la consommation alimentaire habituelle quantifiée ou aux besoins protéino-énergétiques estimés
+  - Réduction de la prise alimentaire ≥ 50% pendant > 1 semaine  
+  ou toute réduction des apports pendant > 2 semaines par rapport: à la consommation alimentaire habituelle quantifiée ou aux besoins protéino-énergétiques estimés
   - Malabsorption, maldigestion
   - Situation d'agression (hypercatabolisme protéique)  
   Pathologie aiguë, chronique évolutive ou maligne évolutive.
 
 ### 2. Sévérité de la dénutrition chez l'enfant
 
-- Dénutrition modérée si ≥ 1 critère parmi:
+- Dénutrition modérée si ≥ 1 parmi:
   - 17 < IMC < 18,5
   - Perte de poids ≥ 5% et ≤ 10% en 1 mois ou ≥ 10% et ≤ 15% en 6 mois par rapport au poids habituel avant le début de la maladie
   - Stagnation pondérale aboutissant à un poids situé entre 2 et 3 couloirs en dessous du couloir habituel
-- Dénutrition sévère si ≥ 1 critère parmi:
+- Dénutrition sévère si ≥ 1 parmi:
   - IMC ≤ courbe 17
   - Perte de poids > 10% en 1 mois ou > 15% en 6 mois par rapport au poids habituel avant le début de la maladie
   - Stagnation pondérale aboutissant à un poids situé ≥ 3 couloirs en dessous du couloir habituel
@@ -252,7 +257,7 @@ Traitement de la dénutrition de l'adulte.
 ### Compléments nutritionnels oraux (CNO)  
 
 - Objectif  
-  - Minimal ou patient âgé: supplément de 400 cal/j et/ou 30 g/j de protéines
+  - Minimal ou ≥ 70 ans: supplément de 400 cal/j et/ou 30 g/j de protéines
   - Maximal: 1000 kcal/j et 80 g/j de protéines
 - En collations variées à distance des repas
   - ≥ 2h des repas. Ex: 16h et avant le coucher
@@ -296,6 +301,23 @@ Réévaluation à chaque consultation, au moins mensuelle (trimestrielle mois ch
 > *SFNCM CNO*
 
 {{% /collapse %}}
+{{%collapse "Conduite à tenir devant une dénutrition" "show" %}}
+
+{{< mermaid title="Conduite à tenir devant une personne à risque de dénutrition. Dr JB FRON d'après HAS/FFN 2021" >}}
+graph TB
+  fdr["<b>Personne à risque de dénutrition</b><hr>- &ge; 70 ans (dépistage annuel)<br>- Cancer<br>- Maladie inflammatoire<br>- Escarre<br>- Démence, dégénératif<br>- Troubles de déglutition et bucco-dentaires<br>- Toxicomanie<br>- Régime"]
+  style fdr stroke:#4150f5, stroke-width:1px
+    fdr --> MNA("Score MNA &le; 11 ?")
+      MNA -- Oui --> criteres("<b>&ge; 1 critère phénotypique</b><hr>- PP &ge; 5% en 1 mois<br>ou &ge; 10% en 6 mois ou avant la maladie<br>- IMC &lt; 18,5 (22 si âgée)<br>- Sarcopénie<br>- Enfant: stagnation pondérale avec<br>décalage poids 2 couloirs<hr><b>&ge; 1 critère étiologique</b><hr>- Réduction apports &ge; 50% &gt; 1 sem<br>ou toute réduction &gt; 2 sem<br>- Malabsorption, maldigestion<br>- Situation d'agression")
+        criteres --> bilan("- Bilan étiologique et de sévérité<br>- Degré de sévérité")
+          bilan --> traitement("- Traitement étiologique<br>- Enrichir l'alimentation<br>- Avis diététique<br>- Soins bucco-dentaires")
+            traitement --> surveillance("- Suivi à 1-3 mois<br>- Poids 1/sem<br>&plusmn; CNO")
+              surveillance -.-> ent("- Avis spécialisé<br>&plusmn; Nutrition entérale")
+{{< /mermaid >}}
+
+> CNO = complément alimentaire; MNA = {{%lang%}}Mini Nutritional Assessment{{%/lang%}}; PP = perte de poids, sem = semaine
+
+{{%/collapse%}}
 {{%collapse "Sources" %}}
 
 - [HAS, FFN. Diagnostic de la dénutrition chez la personne de 70 ans et plus. Recommandation de bonne pratique. Novembre 2021.](https://www.has-sante.fr/jcms/p_3165944/fr/diagnostic-de-la-denutrition-chez-la-personne-de-70-ans-et-plus)
