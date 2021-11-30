@@ -8,8 +8,9 @@
     "css:compile": "node-sass --output-style expanded --precision 6 assets/sass/_material-custom.scss assets/css/material.css",
     "css:purge": "hugo && purgecss --css assets/css/material.css --content public/**/*.html --output assets/css/material-purge.css --safelist p-2 close collapse collapsing modal fade modal-open modal-backdrop modal-scrollbar-measure nav-tabs-material nav-tabs-indicator animate show active tooltip tooltip-inner irs irs--material irs-line irs-min irs-max irs-from irs-to irs-single irs-grid irs-bar irs-bar--single irs-handle single state_hover irs-hidden-input",
     "favicon": "real-favicon generate ./build/faviconDescription.json ./build/faviconData.json ./favicons",
-    "html:lint": "htmllint --rc build/.htmllintrc \"public/**/*.html\"",
+    "html:lint": "npm run build && htmllint --rc build/.htmllintrc \"public/**/*.html\"",
     "html:lint-vnu": "npm run build && node build/vnu-jar.js",
+    "html:lint-validate": "npm run build && html-validate --rule svg-focusable:0 no-trailing-whitespace:0 \"public/**/*.html\"",
     "hugo:debug": "hugo --cleanDestinationDir --minify --debug --logFile ./hugo.log --verboseLog",
     "hugo:update": "choco upgrade hugo-extended",
     "links-md:check": "linkinator **/*.md --markdown --verbosity error --skip '(%22)$'",
@@ -45,13 +46,14 @@
   "devDependencies": {
     "cli-real-favicon": "0.0.8",
     "cross-env": "^7.0.3",
+    "html-validate": "^6.1.3",
     "htmllint-cli": "0.0.7",
     "linkinator": "^2.13.6",
+    "netlify-plugin-inline-critical-css": "^1.2.0",
     "node-sass": "^5.0.0",
     "vnu-jar": "^21.4.9"
   },
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "^4.0.0",
     "autoprefixer": "^10.2.4",
     "postcss": "^8.2.4",
     "postcss-cli": "^8.3.1"

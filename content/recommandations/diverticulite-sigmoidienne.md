@@ -105,7 +105,7 @@ Indication: ≥ 2 crises (en l'absence de coloscopie dans les 3 ans)(*ESCP 2020*
   - Fréquence respiratoire ≥ 22/min
   - Confusion
   - Signes d'irritation péritonéale
-  - {{< modal-btn modal-score-asa >}}Score ASA > 3{{< /modal-btn >}}
+  - {{< modal-btn modal-score-asa >}}Score ASA &gt; 3{{< /modal-btn >}}
   - Hydratation orale impossible
   - Rectorragie
   - Impossibilité de surveillance ambulatoire

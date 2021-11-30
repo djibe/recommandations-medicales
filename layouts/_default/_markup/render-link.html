@@ -2,6 +2,8 @@
 {{- with .Title -}}
   {{- $parsedTitle = partial "functions/parse-title-attribute.html" . -}}
 {{- end -}}
+{{- $baseurl := urls.Parse .Page.Site.BaseURL -}}
+{{- $desturl := urls.Parse .Destination -}}
 
 <a href="{{ .Destination | safeURL }}"
   {{- with $parsedTitle.title }} title="{{ . }}"{{- end -}}
@@ -10,6 +12,7 @@
       {{- printf " %s=%q" $k $v | safeHTMLAttr -}}
     {{- end -}}
   {{- end -}}
+  {{- if and (strings.HasPrefix .Destination "http") (not (strings.HasPrefix $desturl.Host $baseurl.Host)) }} target="_blank" rel="external nofollow noopener"{{ end -}}
   >{{ .Text | safeHTML }}</a>
 
-{{- /* Strip trailing space. Code by jmooring */ -}}
+{{- /* Strip trailing space. Code by jmooring & killbus */ -}}
