@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-10-27"
+lastmod = "2021-11-30"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["SFD", "EASD", "ADA", "ESC", "HAS"]
@@ -283,9 +283,10 @@ window.onload = () => {
 - Capteur de glycémie
   - Indications: patient ≥ 4 ans avec insulinothérapie intensifiée (pompe ou ≥ 3 injections/j) et pratiquant une ASG ≥ 3/j.
   - Prescription initiale par endocrinologue
+  - 26 capteurs/an remboursés
 - Lecteur de glycémie  
   - 1 lecteur/4 ans
-  - Indications: insuline envisagée ou en cours, insulinosécréteur avec suspicion d'hypoglycémie
+  - Indications: insuline envisagée ou en cours, insulinosécréteur avec suspicion d'hypoglycémie, visée pédagogique en cible non atteinte
 
 > *ESC 2019 diabetes*
 

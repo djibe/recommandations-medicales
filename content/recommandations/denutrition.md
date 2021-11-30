@@ -24,8 +24,9 @@ todo = "FFN, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl..., htt
 
 - Dépister avec le {{< modal-btn modal-mna >}}Mini Nutritional Assessment{{< /modal-btn >}} (MNA, ≥ 1/an après 70 ans)
 - Le diagnostic est clinique: association d'un critère phénotypique et d'un critère étiologique
-- Poids à chaque consultation (reporté dans les dossier médical, DMP, carnet de santé...)
 - Un IMC élevé n'exclut pas une dénutrition
+- Poids hebdomadaire et à chaque consultation (reporté dans les dossier médical, DMP, carnet de santé...)
+- Bilan étiologique, enrichir l'alimentation, soins bucco-dentaires ± CNO
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

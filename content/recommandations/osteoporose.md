@@ -346,7 +346,7 @@ Réévaluation avec ostéodensitométrie 2 ans après l'arrêt du traitement.
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
-- [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l’ostéoporose post-ménopausique. Revue du Rhumatisme. Volume 85. Issue 5. 2018.](https://doi.org/10.1016/j.rhum.2018.02.005.)
+- [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l’ostéoporose post-ménopausique. Revue du Rhumatisme. Volume 85. Issue 5. 2018.](https://doi.org/10.1016/j.rhum.2018.02.005)
 - [World Health Organization. Assessment of fracture risk and its application to screening for postmenopausal osteoporosis : report of a WHO study group. World Health Organization. 1994.](https://apps.who.int/iris/handle/10665/39142)
 - [GRIO. Site officiel](http://www.grio.org/)
 
