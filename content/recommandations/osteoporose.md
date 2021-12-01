@@ -20,6 +20,8 @@ imageSrc = "Illustration de l'ostéoporose par scientificanimations.com, CC BY-S
 todo = "summary, BDPM, ISCD 2015, flowchart, International Osteoporosis Foundation, Prescrire, HAS 2005 chutes, prescription renforcement musculaire, TABS, dose THM prev osseuse, http://aporose.fr/diag_fracture_differentiel.php#nav, fiche"
 +++
 
+[link](url){:target="_blank"}
+
 {{%article-summary%}}
 
 - Ces recommandations concernent la femme ménopausée
@@ -43,8 +45,8 @@ Fracture de fragilité sévère
 
 - **Fracture récente** (facteur majeur)  
 {{%class%}}Fracture vertébrale: 25% de récidive dans l'année (non diagnostiquée dans 2/3 des cas). Non vertébrale: risque nettement majoré pendant 3 ans.{{%/class%}}
-- {{< modal-btn modal-risque-fracture >}}Liste des facteurs de risque de fracture{{< /modal-btn >}}
 - {{< modal-btn modal-risque-chute >}}Facteurs de risque de chute{{< /modal-btn >}}
+- {{< modal-btn modal-risque-fracture >}}Liste des facteurs de risque de fracture{{< /modal-btn >}}
 
 ### Abréviations
 

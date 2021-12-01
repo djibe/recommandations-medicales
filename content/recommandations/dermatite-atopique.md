@@ -70,7 +70,7 @@ Rattrapage quand traitement efficace.
 ### Abréviations
 
 **DA:** dermatite atopique  
-**DC:** dermocorticoïde  
+**DC:** dermocorticoïde(s)  
 **SCORAD:** {{%lang%}}SCORing Atopic Dermatitis{{%/lang%}}
 
 {{% /collapse %}}

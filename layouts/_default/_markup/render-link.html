@@ -15,4 +15,4 @@
   {{- if and (strings.HasPrefix .Destination "http") (not (strings.HasPrefix $desturl.Host $baseurl.Host)) }} target="_blank" rel="external nofollow noopener"{{ end -}}
   >{{ .Text | safeHTML }}</a>
 
-{{- /* Strip trailing space. Code by jmooring & killbus */ -}}
+{{- /* Strip trailing space. Code by djibe, thanks to jmooring & killbus */ -}}

@@ -54,7 +54,7 @@
 <script src="https://instant.page/5.1.0" type="module" crossorigin></script>
 
 {{- with .Params.chart }}
-<script src="https://cdn.jsdelivr.net/npm/apexcharts@3.27.3/dist/apexcharts.min.js" integrity="sha256-x4AZmQagtBywXlLkl+w68R39zbcAh9gN22tfqoi2cTQ=" crossorigin defer></script>
+<script src="https://cdn.jsdelivr.net/npm/apexcharts@3.31.0/dist/apexcharts.min.js" integrity="sha256-xqumMhSgxlN/BABPYNJtG/F6KPCZDnE5Sp8UpQPoKQA=" crossorigin defer></script>
 <script>
 document.addEventListener( 'DOMContentLoaded', event => {
   Apex = {
@@ -240,12 +240,12 @@ document.addEventListener( 'DOMContentLoaded', event => {
 <script src="{{ $searchjs.Permalink }}" defer></script>
 <script>
   {{- with .Site.RegularPages -}}
-    // Don't follow external sources
+    // Open external sources in new window
     document.addEventListener( 'DOMContentLoaded', event => { // When DOM is ready
+      let externalLinks = document.querySelectorAll('a[href^="http"]:not([href*="netlify.app"])')
+      externalLinks.forEach((elem) => { elem.setAttribute('target', '_blank') })
       let internalLinks = document.querySelectorAll('.recommandation__content a[href^="/recommandations/"]:not([href*="#"])')
-      internalLinks.forEach((elem) => {
-        elem.setAttribute('target', '_blank')
-      })
+      internalLinks.forEach((elem) => { elem.setAttribute('target', '_blank') })
     })
   {{ end }}
 
