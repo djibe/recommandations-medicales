@@ -4,7 +4,7 @@
 {{ else if not .p1.IsHome }}
 {{ template "breadcrumbnav" (dict "p1" "Accueil" "p2" .p2 )  }}
 {{ end }}
-<li{{ if eq .p1 .p2 }} class="breadcrumb-item active"{{ else }} class="breadcrumb-item"{{ end }}>
-  <a href="{{ .p1.Permalink }}">{{ .p1.Title }}</a>
+<li{{ if eq .p1 .p2 }} class="breadcrumb-item active" aria-current="page"{{ else }} class="breadcrumb-item"{{ end }}>
+  {{ if ne .p1 .p2 }}<a href="{{ .p1.Permalink }}">{{ end }}{{ .p1.Title }}{{ if ne .p1 .p2 }}</a>{{ end }}
 </li>
 {{ end }}

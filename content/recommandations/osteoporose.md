@@ -20,8 +20,6 @@ imageSrc = "Illustration de l'ostéoporose par scientificanimations.com, CC BY-S
 todo = "summary, BDPM, ISCD 2015, flowchart, International Osteoporosis Foundation, Prescrire, HAS 2005 chutes, prescription renforcement musculaire, TABS, dose THM prev osseuse, http://aporose.fr/diag_fracture_differentiel.php#nav, fiche"
 +++
 
-[link](url){:target="_blank"}
-
 {{%article-summary%}}
 
 - Ces recommandations concernent la femme ménopausée
@@ -82,8 +80,8 @@ L'ostéoporose est responsable d'un lourd fardeau médico-économique:
 Fractures (ancienneté, type), âge de la ménopause, démence, Parkinson, diabète, maladie cardiovasculaire, BPCO...
 - Traitements en cours  
 Et corticothérapie (dont inhalée) > 3 mois.
+- {{< modal-btn modal-risque-fracture >}}Facteurs de risque de fracture{{< /modal-btn >}}
 - {{< modal-btn modal-risque-chute >}}Facteurs de risque de chute{{< /modal-btn >}}
-- Facteurs de risque de fracture
 - Fracture ostéoporotique  
 Éliminer une cause métabolique, tumorale, génotypique.
 
@@ -106,7 +104,7 @@ Et corticothérapie (dont inhalée) > 3 mois.
 - Vitamine D
 - Albuminémie, calcémie corrigée (Expert)
 - Électrophorèse des protéines sériques  
-Si: fracture vertébrale suspecte, fracture pathologique, géodes.
+Indications: fracture vertébrale suspecte, fracture pathologique, géodes.
 
 ### Radiographies dorso-lombaires
 
@@ -143,7 +141,7 @@ Hypogonadisme prolongé (dont orchidectomie, traitement prolongé par GnRH, amé
   - À chaque modification de traitement et en arrêt précoce
   - 2 ans après l'arrêt du traitement
 
-Examen diagnostique de l'ostéoporose: T-score ≤ -2,5 DS au col fémoral (*OMS 94*)
+Examen diagnostique de l'ostéoporose: **T-score ≤ -2,5 DS au col fémoral** (*OMS 94*)
 {{%/info%}}
 
 Meilleur critère prédictif de tout risque de fracture. Chaque baisse d'une DS double le risque de fracture.  
@@ -151,26 +149,27 @@ Toutefois 50% des fractures surviennent chez des personnes avec T-score > -2,5.
 
 L'ostéodensitométrie permet aussi de mesurer le {{%lang%}}Trabecular bone score{{%/lang%}} (TBS) du rachis lombaire mais les capacités prédictives sont moins étudiées.
 
-T-score > -1 = DMO normale. -2,5 < T-score > ≤ -1 = Ostéopénie.
+T-score > -1 = DMO normale | -2,5 < T-score ≤ -1 = **Ostéopénie**.
 
 {{%/collapse%}}
 {{%collapse "Risque de fracture - calcul du FRAX" %}}
 
-FRAX® = probabilité à 10 ans de FESF et des fractures majeures (extrémité supérieure du fémur, humérus, poignet et vertébrales clinique).
+FRAX® = probabilité à 10 ans de FESF et des {{< modal-btn modal-fracture-severe >}}fractures majeures{{< /modal-btn >}}.
 
-Inutile si traitement indiqué d'emblée: antécédent de fracture sévère, T-score ≤ -3 au site vertébral et fémoral.  
+Inutile si traitement indiqué d'emblée: {{< modal-btn modal-fracture-severe >}}antécédent de fracture sévère{{< /modal-btn >}}, T-score ≤ -3 au site vertébral et fémoral.
+
 Le seuil d'intervention dépend de l'âge.
 
 {{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" title="Calcul du FRAX® sur le site officiel">}}
 
 {{%/collapse%}}
-{{%collapse "Prévention" %}}
+{{%collapse "Prévention de l'ostéoporose" %}}
 
-Mesures de prévention de l'ostéoporose:
+### Mesures de prévention de l'ostéoporose
 
 - Arrêt du tabac
 - Soins bucco-dentaires ≥ 1/an (et avant traitement)  
-Débuter le traitement si risque élevé de fracture à court terme.
+{{%class%}}Débuter le traitement si risque élevé de fracture à court terme.{{%/class%}}
 - Évaluation gériatrique si {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} ou fragilité
 - Prévention des chutes
   - Arrêt des somnifères et opiacés, alcool
@@ -179,13 +178,13 @@ Débuter le traitement si risque élevé de fracture à court terme.
 - Activité physique avec impact
   - ≥ 2 j/semaine
   - Supervisée ++
-- [Vitamine D]({{< relref "vitamine-d.md" >}})
+- Vitamine D
   - Cible ≥ 75 nmol/L
   - Dose d'entretien: 800-1200 UI/j (ou 80-100.000 UI/2-3 mois)
-  - Voir *Vitamine D* pour les protocoles de correction
+  - Voir *[Vitamine D]({{< relref "vitamine-d.md" >}})* pour les protocoles de correction
 - Apports calciques
-  - Femme ménopausée ≥ 50 ans: 1-1,2 g/j
-  - Produits laitiers, eaux minérales
+  - Femme ménopausée ≥ 50 ans: cible 1-1,2 g/j
+  - {{< modal-btn modal-calcium >}}Teneur en calcium des aliments{{< /modal-btn >}}
   - Évaluation des apports par [questionnaire du GRIO](http://www.grio.org/espace-gp/calcul-apport-calcique-quotidien.php)
 
 {{%/collapse%}}
@@ -210,7 +209,7 @@ Avis rhumatologique si T-score > -2 et < -1.
 {{%/info%}}
 
 <div class="card card-hover card-osteoporose my-3 my-xl-5">
-  <h3 class="card-header card-title">Choix du traitement anti-ostéoporotique</h3>
+  <h3 class="card-header card-title m-0">Choix du traitement anti-ostéoporotique</h3>
   <div class="card-body card-list-material">
     <input type="radio" id="radio-ttt-severe" name="chip-traitement" class="d-input-none" checked>
     <label for="radio-ttt-severe" class="chip chip-action chip-choice">Fracture sévère</label>
@@ -291,7 +290,7 @@ window.addEventListener('load', function() {
   - Dénosumab: intérêt après traitement par BP car permet un gain conséquent de DMO
   - Dénosumab: rebond de perte osseuse à l'arrêt, poursuivre par BP 6-12 mois
 - Raloxifène  
-Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture périphérique peu élevé en l'absence de: T-score ≤ -3 et{{< modal-btn modal-risque-chute >}}risque de chute élevé{{< /modal-btn >}}.
+Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture périphérique peu élevé en l'absence de: T-score ≤ -3 et {{< modal-btn modal-risque-chute >}}risque de chute élevé{{< /modal-btn >}}.
 - THM  
   - Privilégié en ménopause récente (< 60 ans) avec troubles climatériques invalidants ou traitements spécifiques non tolérés
   - Contrôle de la DXA à 2-3 ans
@@ -351,6 +350,7 @@ Réévaluation avec ostéodensitométrie 2 ans après l'arrêt du traitement.
 - [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l’ostéoporose post-ménopausique. Revue du Rhumatisme. Volume 85. Issue 5. 2018.](https://doi.org/10.1016/j.rhum.2018.02.005)
 - [World Health Organization. Assessment of fracture risk and its application to screening for postmenopausal osteoporosis : report of a WHO study group. World Health Organization. 1994.](https://apps.who.int/iris/handle/10665/39142)
 - [GRIO. Site officiel](http://www.grio.org/)
+- [COFER. Ostéopathies fragilisantes. Item 128 UE 6.](http://www.lecofer.org/item-cours-1-7-0.php)
 
 {{%/collapse%}}
 {{% modal title="Fractures ostéoporotiques dites sévères" id="modal-fracture-severe"%}}
@@ -366,5 +366,10 @@ Fracture ayant atteint: {{< clinique/osteoporose-fracture-severe >}}
 {{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}
 
 {{< clinique/facteur-risque-chute >}}
+
+{{% /modal %}}
+{{% modal title="Teneur en calcium des aliments" id="modal-calcium"%}}
+
+{{< traitements/aliments-calcium >}}
 
 {{% /modal %}}

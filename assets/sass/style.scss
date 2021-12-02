@@ -246,6 +246,11 @@ article {
       color: rgba(0, 0, 0, 0.6);
       font-weight: initial;
     }
+
+    .chip-secondary {
+      background-color: #FF8B3E;
+      color: #000;
+    }
 }
 
 .home {
@@ -257,7 +262,6 @@ article {
   }
 }
 
-.projet__content,
 .recommandation__content {
   margin-bottom: 5rem;
 
@@ -368,16 +372,9 @@ article {
 
     h2 {
       border-top: 0;
-      color: var(--secondary-dark);
+      color: #AD4E00;
       margin: 0 0 1rem;
       padding: 0;
-
-      // font-family: inherit;
-      font-size: .75rem;
-      font-weight: 600;
-      letter-spacing: .166667em;
-      line-height: 2rem;
-      text-transform: uppercase;
     }
 
     li {

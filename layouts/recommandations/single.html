@@ -78,7 +78,7 @@
 
                 <div class="d-flex flex-wrap align-items-center">
                 {{ with .Params.annees }}
-                  <a class="chip chip-secondary" href="/annees/{{ . | urlize }}/" rel="tag" data-toggle="tooltip" title="Toutes les recos de {{ . }}" data-placement="bottom">Recommandation {{ . }}</a>
+                  <a class="chip chip-secondary chip-action" href="/annees/{{ . | urlize }}/" rel="tag" data-toggle="tooltip" title="Toutes les recos de {{ . }}" data-placement="bottom">Recommandation {{ . }}</a>
                 {{ end }}
 
                 {{- with .Params.sources }}
