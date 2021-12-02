@@ -48,10 +48,10 @@ title = "Recommandations Médicales"
 [params.cdn]
   material_js = "https://cdn.jsdelivr.net/npm/djibe-material@4.6.0-rc.2/js/material.min.js"
   css =         "css/style.css"
-  bs_js =       "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
-  bs_js_hash =  "sha256-sCElQ8xaSgoxwbWp0eiXMmGZIRa0z94+ffzzO06BqXs="
-  jquery =      "https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
-  jquery_hash = "sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
+  bs_js =       "https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"
+  bs_js_hash =  "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
+  jquery =      "https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"
+  jquery_hash = "sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI="
 
 [params.dateformat]
 # HTML doc : https://developer.mozilla.org/fr/docs/Web/HTML/Element/time
