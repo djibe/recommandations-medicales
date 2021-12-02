@@ -94,7 +94,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center">
       <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:2rem">Score</p>
-      <span class="font-weight-bold" id="epworthScore" style="font-size:2rem">0</span>
+      <output class="score-output" id="epworthScore">0</output>
     </div>
     <p id="epworthText" class="lead m-auto">Sélectionnez les réponses appropriées</p>
   </div>
@@ -111,9 +111,8 @@
   // Score Epworth by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreEPWORTH = document.getElementById('epworthScore')
-    const textEPWORTH = document.getElementById('epworthText')
-    const epworthElems = document.querySelectorAll('#score-epworth input[type=\"radio\"]')
-    epworthElems.forEach((EPWORTHElem) => { EPWORTHElem.addEventListener('click', () => {
+    const textEPWORTH = document.getElementById('epworthText');
+    [...document.querySelectorAll('#score-epworth input[type=\"radio\"]')].forEach((EPWORTHElem) => { EPWORTHElem.addEventListener('click', () => {
       epworth()
     }) })
     const epworth = () => {

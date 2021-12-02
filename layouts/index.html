@@ -16,7 +16,7 @@
   </div>
   <section class="row mt-lg-5 mb-5">
     <div class="col-12">
-      <p class="typography-overline" style="color: #666">Dernières recommandations publiées</p>
+      <p class="typography-overline text-black-secondary">Dernières recommandations publiées</p>
       <div class="home-reco">
       {{ range ( where site.RegularPages "Section" "recommandations" | first 6 ) }}
         <div class="card">
@@ -34,7 +34,7 @@
         </div>
       {{ end }}
       </div>
-      <p class="typography-overline mt-5" style="color: #666">Les bons outils</p>
+      <p class="typography-overline text-black-secondary mt-5">Les bons outils</p>
       <div class="home-outils">
         <div class="card card-body card-primary-action flex-row m-0">
           <img class="mr-4 rounded-circle" src="/favicon.svg" style="width: 32px;height:32px" alt="Logo de Recommandations Médicales" decoding="async">
@@ -60,7 +60,7 @@
           <!-- risque CV, risque SAOS, risque AOMI, Pneumo: ACT, CAT-->
         </div>
       </div>
-      <p class="typography-overline mt-5" style="color: #666">La vie au cabinet</p>
+      <p class="typography-overline text-black-secondary mt-5">La vie au cabinet</p>
       <div class="home-cabinet">
       {{ range ( where site.RegularPages "Section" "cabinet" | first 6 ) }}
           <div class="card card-primary-action card-body" style="max-width: 380px;">
@@ -72,7 +72,7 @@
           </div>
       {{ end }}
       </div>
-      <p class="typography-overline mt-5" style="color: #666">Derniers articles</p>
+      <p class="typography-overline text-black-secondary mt-5">Derniers articles</p>
       <div class="home-articles">
       {{ range ( where site.RegularPages "Section" "articles" | first 6 ) }}
           <div class="card card-primary-action card-body" style="max-width: 380px;">

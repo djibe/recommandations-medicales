@@ -26,7 +26,7 @@
 <div class="alert bg-light d-flex mb-0">
   <div class="d-flex flex-column align-items-center">
     <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score STOP</p>
-    <span class="font-weight-bold" id="stopScore" style="font-size:2rem">0</span>
+    <output class="score-output" id="stopScore">0</output>
   </div>
   <p id="stopText" class="lead m-auto"><b>Bas risque</b> de SAOS</p>
 </div>
@@ -34,9 +34,8 @@
   // Score STOP by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreStop = document.getElementById('stopScore')
-    const textStop = document.getElementById('stopText')
-    const stopElems = document.querySelectorAll('#score-stop input[type="checkbox"]')
-    stopElems.forEach((stopElem) => { stopElem.addEventListener('click', () => {
+    const textStop = document.getElementById('stopText');
+    [...document.querySelectorAll('#score-stop input[type="checkbox"]')].forEach((stopElem) => { stopElem.addEventListener('click', () => {
       stop()
     }) })
     const stop = () => {

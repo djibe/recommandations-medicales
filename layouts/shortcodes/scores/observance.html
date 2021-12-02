@@ -47,7 +47,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center">
       <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:2rem">Score</p>
-      <span class="font-weight-bold" id="observanceScore" style="font-size:2rem">0</span>
+      <output class="score-output" id="observanceScore">0</output>
     </div>
     <p id="observanceText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -58,16 +58,15 @@
       href="https://www.ameli.fr/sites/default/files/Documents/5074/document/evaluation-observance-traitement_assurance-maladie.pdf"
       rel="external nofollow noopener"
       >Girerd X. et al. Évaluation de l’observance par l’interrogatoire au cours du suivi des hypertendus
-      dans des consultations spécialisées - Arch Mal Cœur Vaiss. 2001 Aug ; 94 (8) : 839-42</a>
+      dans des consultations spécialisées - Arch Mal Cœur Vaiss. 2001 Aug ; 94 (8) : 839-42 (PDF)</a>
   </p>
 </blockquote>
 {{ $script := `
   // Score Observance by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreObservance = document.getElementById('observanceScore')
-    const textObservance = document.getElementById('observanceText')
-    const observanceElems = document.querySelectorAll('#score-observance input[type=\"radio\"]')
-    observanceElems.forEach((observanceElem) => { observanceElem.addEventListener('click', () => {
+    const textObservance = document.getElementById('observanceText');
+    [...document.querySelectorAll('#score-observance input[type=\"radio\"]')].forEach((observanceElem) => { observanceElem.addEventListener('click', () => {
       observanceScore()
     }) })
     const observanceScore = () => {

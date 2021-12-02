@@ -130,7 +130,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center">
       <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:2rem">Score IRLS</p>
-      <span class="font-weight-bold" id="irlsScore" style="font-size:2rem">0</span>
+      <output class="score-output" id="irlsScore">0</output>
     </div>
     <p id="irlsText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -139,9 +139,8 @@
   // Score IRLS by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreIRLS = document.getElementById('irlsScore')
-    const textIRLS = document.getElementById('irlsText')
-    const IRLSElems = document.querySelectorAll('#score-irls input[type=\"radio\"]')
-    IRLSElems.forEach((IRLSElem) => { IRLSElem.addEventListener('click', () => {
+    const textIRLS = document.getElementById('irlsText');
+    [...document.querySelectorAll('#score-irls input[type=\"radio\"]')].forEach((IRLSElem) => { IRLSElem.addEventListener('click', () => {
       irls()
     }) })
     const irls = () => {

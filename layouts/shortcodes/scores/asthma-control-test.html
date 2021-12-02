@@ -68,21 +68,22 @@
 <div class="alert bg-light d-flex mt-4">
   <div class="d-flex flex-column align-items-center">
   <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:2rem">Score ACT</p>
-  <span class="font-weight-bold" id="actScore" style="font-size:2rem">0</span>
+  <output class="score-output" id="actScore">0</output>
   </div>
   <p id="actText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
 </div>
 </form>
+<blockquote class="mt-4">
 <p class="typography-caption">ACT&trade;, &reg; 2002, by QualityMetric Incorporated Asthma France/French. Control Test&trade; is a trademark of QualityMetric Incorporated. Test réservé aux patients asthmatiques de plus de 12 ans.<br>
   <a href="https://gskpro.com/content/dam/global/hcpportal/fr_FR/AiresThrapeutiques/Asthme/PDF/TCA_adulte_HD.pdf" rel="external nofollow noopener">Adaptation française originale (PDF)</a>
 </p>
+</blockquote>
 {{ $script := `
   // Score Asthma Control Test adapted by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreAct = document.getElementById('actScore')
-    const textAct = document.getElementById('actText')
-    const actElems = document.querySelectorAll('#score-act input[type=\"radio\"]')
-    actElems.forEach((actElem) => { actElem.addEventListener('click', () => {
+    const textAct = document.getElementById('actText');
+    [...document.querySelectorAll('#score-act input[type=\"radio\"]')].forEach((actElem) => { actElem.addEventListener('click', () => {
       act()
     }) })
     const act = () => {

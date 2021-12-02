@@ -545,6 +545,17 @@ legend {
   }
 }
 
+.score-output {
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.img-reco {
+  height: 300px;
+  object-fit: cover;
+  width: 100%;
+}
+
 .modal-title {
   margin: 0 !important;
 }

@@ -43,7 +43,7 @@
 <div class="alert bg-light d-flex mb-0">
   <div class="d-flex flex-column align-items-center">
     <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:initial">Score STOP-BANG</p>
-    <span class="font-weight-bold" id="stopbangScore" style="font-size:2rem">0</span>
+    <output class="score-output" id="stopbangScore">0</output>
   </div>
   <p id="stopbangText" class="lead m-auto">Faible risque de SAOS</p>
 </div>
@@ -52,12 +52,11 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreStopBang = document.getElementById('stopbangScore')
     const textStopBang = document.getElementById('stopbangText')
-    const stopBangElems = document.querySelectorAll('#score-stop-bang input[type=\"checkbox\"]')
     const checkboxHomme = document.getElementById('stopbang7')
     const checkboxObesite = document.getElementById('stopbang5')
     const checkboxTourCou = document.getElementById('stopbang8')
-    const messageTourCou = document.getElementById('message-tour-cou')
-    stopBangElems.forEach((stopBangElem) => { stopBangElem.addEventListener('click', () => {
+    const messageTourCou = document.getElementById('message-tour-cou');
+    [...document.querySelectorAll('#score-stop-bang input[type=\"checkbox\"]')].forEach((stopBangElem) => { stopBangElem.addEventListener('click', () => {
       messageSexe()
       stopBang()
     }) })

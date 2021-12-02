@@ -18,13 +18,12 @@
     <aside class="col-lg-3 col-xl-2 order-3 order-lg-1 d-flex flex-column px-0 d-print-none" id="recommandation-aside">
       <figure class="figure">
         <a href="{{ $imageUrl }}" target="_blank"><!--Min 1200px en 16x9, 4x3 et 1x1; BMP, GIF, JPEG, PNG, WebP et SVG; https://developers.google.com/search/docs/data-types/article#structured-data-type-definitions; fb jpg/gif/png-->
-          <img class="figure-img img-fluid"
+          <img class="figure-img img-fluid img-reco"
             src="{{ $imageUrl }}"
             loading="eager"
             decoding="async"
             importance="high"
-            alt="Image de {{ .Title }}"
-            style="width: 100%; height: 300px; object-fit: cover;">
+            alt="Image de {{ .Title }}">
         </a>
           {{ with .Params.ImageSrc }}
             <figcaption class="figure-caption px-2" aria-hidden="true">{{ . }}</figcaption>
@@ -56,7 +55,7 @@
 
         {{ with .Params.Sctid }}
         <p class="typography-overline" lang="en">SNOMED-CT</p>
-        <p><a href="https://browser.ihtsdotools.org/?perspective=full&conceptId1={{.}}&release=&languages=en" target="_blank" rel="nofollow noopener" data-toggle="tooltip" title="La terminologie médicale de référence">{{ . }}</a></p>{{ end }}
+        <p><a href="https://browser.ihtsdotools.org/?perspective=full&conceptId1={{.}}&release=&languages=en" rel="external nofollow noopener" data-toggle="tooltip" title="La terminologie médicale de référence">{{ . }}</a></p>{{ end }}
 
         <p class="typography-overline mt-4">Dernières fiches</p>
         {{ range first 6 ( where .Site.RegularPages "Section" "recommandations") }}
@@ -79,7 +78,7 @@
 
                 <div class="d-flex flex-wrap align-items-center">
                 {{ with .Params.annees }}
-                  <a class="chip chip-secondary" href="/annees/{{ . | urlize }}/" data-toggle="tooltip" title="Toutes les recos de {{ . }}" data-placement="bottom">Recommandation {{ . }}</a>
+                  <a class="chip chip-secondary" href="/annees/{{ . | urlize }}/" rel="tag" data-toggle="tooltip" title="Toutes les recos de {{ . }}" data-placement="bottom">Recommandation {{ . }}</a>
                 {{ end }}
 
                 {{- with .Params.sources }}
@@ -117,9 +116,6 @@
               </div>
             </div>
           </article>
-          <!--<aside class="col-xl-1">
-            {{.TableOfContents}}
-          </aside>-->
         </div>
       </div>
   </div>

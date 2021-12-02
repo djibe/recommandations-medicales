@@ -38,7 +38,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center">
       <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:2rem">Score</p>
-      <span class="font-weight-bold" id="prevalentScore" style="font-size:2rem">0</span>
+      <output class="score-output" id="prevalentScore">0</output>
     </div>
     <p id="prevalentText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -57,9 +57,8 @@
   // Score PREVALENT by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scorePREVALENT = document.getElementById('prevalentScore')
-    const textPREVALENT = document.getElementById('prevalentText')
-    const PREVALENTElems = document.querySelectorAll('#score-prevalent input[type=\"radio\"]')
-    PREVALENTElems.forEach((PREVALENTElem) => { PREVALENTElem.addEventListener('click', () => {
+    const textPREVALENT = document.getElementById('prevalentText');
+    [...document.querySelectorAll('#score-prevalent input[type=\"radio\"]')].forEach((PREVALENTElem) => { PREVALENTElem.addEventListener('click', () => {
       prevalent()
     }) })
     const prevalent = () => {

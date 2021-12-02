@@ -138,7 +138,7 @@ Risque d'AVC.
   - Paracétamol
   - AINS
 - Triptans
-  - Cp: almotriptan 12,5mg (Almogran©), 
+  - Cp: almotriptan 12,5mg (Almogran)
   - Orodispersible
   - Contre-indications: cardiopathie ischémique, hypersensibilité au produit
 

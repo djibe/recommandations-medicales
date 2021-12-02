@@ -32,7 +32,7 @@ Sinusite aiguë purulente
 : Infection d'une ou plusieurs cavités sinusiennes de la face par des bactéries évoluant depuis < 4 semaines.  
 Les sinusites maxillaires aiguës représentent la grande majorité. Elles surviennent souvent au décours d'une rhinopharyngite aiguë.
 : Germes: Pneumocoque, H. influenzae.
-: Note de Prescrire©: La plupart guérissent spontanément en 1 à 2 semaines. Une méta-analyse a montré l’absence d'intérêt de la corticothérapie orale.
+: Note de Prescrire: La plupart guérissent spontanément en 1 à 2 semaines. Une méta-analyse a montré l’absence d'intérêt de la corticothérapie orale.
 
 ### Formes selon l'âge
 

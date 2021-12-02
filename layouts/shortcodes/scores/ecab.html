@@ -44,7 +44,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center">
       <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem">Score ECAB</p>
-      <span class="font-weight-bold" id="ecabScore" style="font-size:2rem">0</span>
+      <output class="score-output" id="ecabScore">0</output>
     </div>
     <p id="ecabText" class="lead m-auto">Pas de dépendance</p>
   </div>
@@ -56,9 +56,8 @@
   // Score ECAB by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreecab = document.getElementById('ecabScore')
-    const textecab = document.getElementById('ecabText')
-    const ecabElems = document.querySelectorAll('#score-ecab input[type=\"checkbox\"]')
-    ecabElems.forEach((ecabElem) => { ecabElem.addEventListener('click', () => {
+    const textecab = document.getElementById('ecabText');
+    [...document.querySelectorAll('#score-ecab input[type=\"checkbox\"]')].forEach((ecabElem) => { ecabElem.addEventListener('click', () => {
       ecab()
     }) })
     const ecab = () => {

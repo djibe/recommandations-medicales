@@ -147,18 +147,17 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center">
       <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:2rem">Score EHP-5</p>
-      <span class="font-weight-bold" id="ehp5Score" style="font-size:2rem">0</span>
+      <output class="score-output" id="ehp5Score">0</output>
     </div>
     <p id="ehp5Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
 </form>
 {{ $script := `
-  // Score EHP-5 by djibe
+  // Score EHP-5 FR by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreEHP5 = document.getElementById('ehp5Score')
-    const textEHP5 = document.getElementById('ehp5Text')
-    const EHP5Elems = document.querySelectorAll('#score-ehp5 input[type=\"radio\"]')
-    EHP5Elems.forEach((EHP5Elem) => { EHP5Elem.addEventListener('click', () => {
+    const textEHP5 = document.getElementById('ehp5Text');
+    [...document.querySelectorAll('#score-ehp5 input[type=\"radio\"]')].forEach((EHP5Elem) => { EHP5Elem.addEventListener('click', () => {
       ehp5()
     }) })
     const ehp5 = () => {

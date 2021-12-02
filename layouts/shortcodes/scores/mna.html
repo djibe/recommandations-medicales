@@ -60,7 +60,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center">
       <p class="typography-overline text-black-secondary m-0" style="font-size:.75rem;line-height:2rem">Score MNA</p>
-      <span class="font-weight-bold" id="mnaScore" style="font-size:2rem">0</span>
+      <output class="score-output" id="mnaScore">0</output>
     </div>
     <p id="mnaText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -72,9 +72,8 @@
   // Score EHP-5 by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoremna = document.getElementById('mnaScore')
-    const textmna = document.getElementById('mnaText')
-    const mnaElems = document.querySelectorAll('#score-mna input[type=\"radio\"]')
-    mnaElems.forEach((mnaElem) => { mnaElem.addEventListener('click', () => {
+    const textmna = document.getElementById('mnaText');
+    [...document.querySelectorAll('#score-mna input[type=\"radio\"]')].forEach((mnaElem) => { mnaElem.addEventListener('click', () => {
       mna()
     }) })
     const mna = () => {

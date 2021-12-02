@@ -249,7 +249,7 @@ Traitement de la dénutrition de l'adulte.
 - Enrichir l'alimentation
   - Cible énergétique 30-40 kcal/kg/j
   - Cible protéique 1,2-1,5 g/kg/j
-  - Poudre de lait entier, lait concentré entier, fromage râpé, œufs, crème fraîche épaisse, beurre fondu, huile, poudres de protéines, pâtes/semoules enrichies
+  - Enrichir avec: Poudre de lait entier, lait concentré entier, fromage râpé, œufs, crème fraîche épaisse, beurre fondu, huile, poudres de protéines, pâtes/semoules enrichies
 - Complément nutritionnel oral (voir plus bas)
 - Dénutrition sévère: nutrition entérale
 - Maintien d'une activité physique

@@ -16,7 +16,7 @@ sctid = "38341003"
 draft = false
 image = true
 imageSrc = "Illustration de l'hypertension artérielle par vectorjuice / Freepik"
-todo = "modale automesure, A LIRE, Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, hypotension orthostatique, Le tensiomètre électronique dans modale, ESC 2018 tableau 4+19 - src157"
+todo = "modale automesure, A LIRE, Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, hypotension orthostatique, ESC 2018 tableau 4+19 - src157"
 +++
 
 Ces recommandations concernent l'adulte ≥ 18 ans.
@@ -147,7 +147,7 @@ Mesure standardisée nécessaire pour le contrôle des objectifs tensionnels:
 - Information du patient  
 Donner au patient ses mesures oralement et par écrit.
 
-> ESH 2021 et ACC/AHA 2017. [Poster](https://www.stridebp.org/images/training_bp/Office_BP_measurements_Poster.pdf).
+> *ESH 2021* et *ACC/AHA 2017* [Poster (PDF)](https://www.stridebp.org/images/training_bp/Office_BP_measurements_Poster.pdf).
 
 L'automesure tensionnelle doit être utilisée en complément (effet blouse blanche fréquent, hypertension masquée, hypertension résistante), d'autant plus si les valeurs sont limites 130-159/85-99 mmHg.
 
