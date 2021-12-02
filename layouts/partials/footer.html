@@ -49,7 +49,7 @@
 </div>
 
 <script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin></script>
-<script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin></script>
+<script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin defer></script>
 <script src="{{ .Site.Params.cdn.material_js}}" crossorigin defer></script>
 <script src="https://instant.page/5.1.0" type="module" crossorigin></script>
 
@@ -207,7 +207,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
     sort_date      : 'DESC',
     autocomplete   : 1, // 0: form needs a submit button
     section_search : 0, // 1: needs checkboxes with name="section[]"
-    badwords       : 'et,le,la,ceci,cela', //ignore this words
+    badwords       : 'et,le,la,ceci,cela', //ignore these words
     json_wait      : '<a class="dropdown-item"><div class="progress-circular"><div class="progress-circular-wrapper"><div class="progress-circular-inner"><div class="progress-circular-left"><div class="progress-circular-spinner"></div></div><div class="progress-circular-gap"></div><div class="progress-circular-right"><div class="progress-circular-spinner"></div></div></div></div></div></a>',
     json_ready     : '<span class="dropdown-item-text text-black-secondary">Entrer 3 lettres...</span>',
     extern_icon    : ' (external link)', // marker for external links (optional)
@@ -237,16 +237,16 @@ document.addEventListener( 'DOMContentLoaded', event => {
 </script>
 
 {{ $searchjs := resources.Get "js/search.js" | minify }}
-<script src="{{ $searchjs.Permalink }}" defer></script>
+<script src="{{ $searchjs.Permalink }}" async></script>
 <script>
-  {{- with .Site.RegularPages -}}
+  document.addEventListener( 'DOMContentLoaded', event => {
+  // When DOM is ready
+  {{ with .Site.RegularPages }}
     // Open external sources in new window
-    document.addEventListener( 'DOMContentLoaded', event => { // When DOM is ready
       let externalLinks = document.querySelectorAll('a[href^="http"]:not([href*="netlify.app"])')
       externalLinks.forEach((elem) => { elem.setAttribute('target', '_blank') })
       let internalLinks = document.querySelectorAll('.recommandation__content a[href^="/recommandations/"]:not([href*="#"])')
       internalLinks.forEach((elem) => { elem.setAttribute('target', '_blank') })
-    })
   {{ end }}
 
   $(function() {
@@ -255,9 +255,9 @@ document.addEventListener( 'DOMContentLoaded', event => {
       html: true,
       placement: 'bottom'
     });
-    if (matchMedia('(pointer:fine)').matches) {
-      // Device has a mouse
+    if (matchMedia('(pointer:fine)').matches) { // Device has a mouse
       $('.data-tooltip').tooltip({trigger: 'hover', placement: 'bottom'});
     }
+  })
   })
 </script>
