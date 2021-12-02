@@ -6,10 +6,10 @@ synonyms = ["Ostéoporose post-ménopausique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-04T17:43:41+02:00
 publishdate = 2020-09-04
-lastmod = 2021-11-18
+lastmod = 2021-12-02
 specialites = ["rhumatologie"]
 annees = "2018"
-sources = ["SFR", "GRIO"]
+sources = ["SFRhumato", "GRIO"]
 tags = ["depistage"]
 anglais = ["Osteoporosis"]
 sctid = "64859006"
@@ -17,13 +17,15 @@ draft = true
 image = true
 imageWEBP = true
 imageSrc = "Illustration de l'ostéoporose par scientificanimations.com, CC BY-SA 4.0"
-todo = "summary, BDPM, ISCD 2015, flowchart, International Osteoporosis Foundation, Prescrire, HAS 2005 chutes, prescription renforcement musculaire, TABS, dose THM prev osseuse, http://aporose.fr/diag_fracture_differentiel.php#nav, fiche"
+todo = "COFER > summary > BDPM, ISCD 2015, flowchart, International Osteoporosis Foundation, Prescrire, HAS 2005 chutes, prescription renforcement musculaire, TABS, dose THM prev osseuse, http://aporose.fr/diag_fracture_differentiel.php#nav, fiche"
 +++
 
 {{%article-summary%}}
 
 - Ces recommandations concernent la femme ménopausée
 - Rechercher les {{< modal-btn modal-risque-fracture >}}facteurs de risque de fracture{{< /modal-btn >}} et de {{< modal-btn modal-risque-chute >}}chute{{< /modal-btn >}}
+- Connaître les indications à l'ostéodensitométrie (voir *Examens complémentaires*)
+- Prévention: arrêt tabac, activité physique, vitD ≥ 75 nmol/L, calcium 1,2 g/j
 - Voir aussi [traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
@@ -190,11 +192,6 @@ Le seuil d'intervention dépend de l'âge.
 {{%/collapse%}}
 {{%collapse "Traitements spécifiques anti-ostéoporotiques: biphosphonates, raloxifène, dénosumab" %}}
 
-Critères de choix du traitement: antécédent de fracture, son type, son ancienneté, l'âge, les autres antécédents, le {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} et la DMO. Avis rhumatologique si besoin.
-
-**Cible minimale:** absence de perte osseuse (perte > 0,03 g/cm² de DMO).  
-**DMO très basse et fracture:** cible T-score > -2,5 (voire -2).
-
 {{%info%}}
 
 ### Indications au traitement de l'ostéoporose
@@ -207,6 +204,11 @@ Avis rhumatologique si T-score > -2 et < -1.
   - Avis rhumatologique si T-score < -2 et > -3
   - Utiliser les traitements indiqués pour les fractures non sévères
 {{%/info%}}
+
+Critères de choix du traitement: antécédent de fracture, son type, son ancienneté, l'âge, les autres antécédents, le {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} et la DMO. Avis rhumatologique si besoin.
+
+**Objectif minimal:** absence de perte osseuse (perte > 0,03 g/cm² de DMO).  
+**DMO très basse et fracture:** cible T-score > -2,5 (voire -2).
 
 <div class="card card-hover card-osteoporose my-3 my-xl-5">
   <h3 class="card-header card-title m-0">Choix du traitement anti-ostéoporotique</h3>
@@ -281,6 +283,8 @@ window.addEventListener('load', function() {
 });
 </script>
 
+### Remarques sur les traitements
+
 - Dosage des CTX sériques possible entre 3 et 12 mois (marqueurs de la résorption osseuse)
   - Le matin à jeun à ≥ 6 mois d'une fracture
   - Doit être dans ou sous les valeurs normales des femmes non ménopausées. Sinon avis spécialisé.
@@ -299,15 +303,14 @@ Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture 
 {{%/collapse%}}
 {{%collapse "Suivi du patient ostéoporotique" %}}
 
-- Risque de fracture
+- {{< modal-btn modal-risque-fracture >}}Risque de fracture{{< /modal-btn >}}
 - {{< modal-btn modal-risque-chute >}}Risque de chute{{< /modal-btn >}}
 - Taille, poids, IMC annuels
 - Observance du traitement
 - Ostéodensitométrie tous les (2-)3 ans et à chaque modification du traitement
   - Contrôle de l'absence de perte osseuse (perte > 0,03 g/cm² de DMO)
-  - Après 3 ans de zolédronate: poursuivre si T-score hanche < -2,5
-  - Après 5 ans d'alendronate: idem
-  - Après 4 ans de dénosumab: idem
+  - Poursuivre si T-score hanche < -2,5:  
+  Après 3 ans de zolédronate | 5 ans d'alendronate | 4 ans de dénosumab.
 - Radiographies dorso-lombaires  
 Si perte de taille ≥ 2 cm au cours du suivi ou rachialgies.
 
@@ -336,7 +339,7 @@ Réévaluation avec ostéodensitométrie 2 ans après l'arrêt du traitement.
 [GRIO. À la maison, apprenons à éviter les dangers](http://www.grio.org/documents/page85/dangers-maison.pdf)
 
 {{%/collapse%}}
-{{%collapse "Vidéos" %}}
+{{%collapse "Vidéos de formation" %}}
 
 {{< video poster="http://www.grio.org/videos/osteoporose-et-les-signes-d-appel.jpg" mp4="http://www.grio.org/videos/osteoporose-et-les-signes-d-appel.mp4" webm="http://www.grio.org/videos/osteoporose-et-les-signes-d-appel.webm" description="GRIO. L'Ostéoporose et les signes d'appel." >}}
 

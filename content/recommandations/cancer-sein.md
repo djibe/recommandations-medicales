@@ -16,7 +16,7 @@ sctid = "254837009"
 draft = false
 image = true
 imageSrc = "Le cancer du sein - Illustration par Freepik"
-todo = "revoir ttt > gg sentinelle, algorithme 2 et 3, EI hormonothérapie, perruque InCa"
+todo = "revoir ttt > gg sentinelle, algorithme 2 et 3, EI hormonothérapie, perruque InCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e"
 +++
 
 {{%article-summary%}}

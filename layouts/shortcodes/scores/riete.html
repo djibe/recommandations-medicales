@@ -52,9 +52,8 @@
   // Score RIETE by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreRiete = document.getElementById('rieteScore')
-    const textRiete = document.getElementById('rieteText')
-    const rieteElems = document.querySelectorAll('#score-riete input[type=\"checkbox\"]')
-    rieteElems.forEach((rieteElem) => { rieteElem.addEventListener('click', () => {
+    const textRiete = document.getElementById('rieteText');
+    [...document.querySelectorAll('#score-riete input[type=\"checkbox\"]')].forEach((rieteElem) => { rieteElem.addEventListener('click', () => {
       riete()
     }) })
     const riete = () => {

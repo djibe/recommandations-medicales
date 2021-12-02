@@ -24,7 +24,7 @@ todo = "LDL"
 {{%collapse "Cibles de marqueurs biologiques" "show" %}}
 
 {{< table title="Synthèse des recommandations des objectifs sériques des nutriments et marqueurs de risque cardiovasculaires" >}}
-| Élément      | Population concernée | Cible de concentration | Source |
+| Élément      | Population concernée | Cible                  | Source |
 |--------------|----------------------|------------------------|--------|
 | Ferritinémie | Femme jeune          | &ge; 50 ng/mL          | HAS    |
 | Ferritinémie | Grossesse            | &ge; 80 ng/mL          | HAS    |
@@ -33,7 +33,7 @@ todo = "LDL"
 | HbA<sub>1C</sub> | {{< modal-btn modal-hba1c >}}Détail des cibles{{< /modal-btn >}} | ~ 7% | SFD 2019 |
 | Uricémie     | Goutte               | &lt; 50 mg/L           | SFR 2020 |
 | VDRL         | M6 post-PéniG<br>M12 post-PéniG | Taux /4<br>Négatif | SFDermato 2016 |
-| Vitamine D   | Adulte<br>&ge; 65 ans | &ge; 50 nmol/L<br>&ge; 75 nmol/L | Annweiler C 2018 |
+| Vitamine D   | Adulte<br>Ménopause, &ge; 65 ans | &ge; 50 nmol/L<br>&ge; 75 nmol/L | Annweiler C 2018 |
 
 {{< /table >}}
 
@@ -43,7 +43,7 @@ todo = "LDL"
 {{< table title="Objectifs d'apports en nutriments" >}}
 | Molécule | Population concernée | Cible d'apports        | Source |
 |----------|----------------------|------------------------|--------|
-| Calcium  | Ménopausée &ge; 50 ans | 1-1,2 g/j            | SFR 2018 ostéoporose |
+| Calcium  | Ménopausée           | 1-1,2 g/j            | SFR 2018 ostéoporose |
 | Calcium  | EHPAD                | 1,2 g/j                | Annweiler C 2018 |
 | Vitamine D | 18 mois - 5 ans    | 80-100.000 x 2 l'hiver | SFPed 2012 |
 
