@@ -54,7 +54,7 @@ Elle doit être réalisée en suspicion de *phase disséminée*.
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-[Ministère de la Santé: Maladie de Lyme et prévention des piqûres de tiques](https://solidarites-sante.gouv.fr/IMG/pdf/maladie_de_lyme_depliant_gp.pdf) et [Santé Publique France. Prévention de la borréliose de Lyme](https://solidarites-sante.gouv.fr/IMG/pdf/borreliose_de_lyme_rpvp_072016.pdf)
+[Ministère de la Santé: Maladie de Lyme et prévention des piqûres de tiques (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/maladie_de_lyme_depliant_gp.pdf) et [Santé Publique France. Prévention de la borréliose de Lyme (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/borreliose_de_lyme_rpvp_072016.pdf)
 
 - Vêtements couvrants
   - Pantalon, inséré dans les chaussettes (voire guêtres), chemise à manche longue

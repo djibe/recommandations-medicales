@@ -224,9 +224,9 @@ graph TB
 {{%collapse "Sources" %}}
 
 - [HAS. Choix et durées d’antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes?id=p_3278764&preview=true)
-- [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017.](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)
-- [HAS. Fiche mémo - Sinusite de l'adulte. Novembre 2016.](https://www.has-sante.fr/upload/docs/application/pdf/2016-11/v1-fm_sinusite_adulte-171116.pdf)
-- [Société Française de Pédiatrie. Guide de prescription d’antibiotique en pédiatrie. Archives de Pédiatrie. Juin 2016. Vol. 23. HS n°3.](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
-- [SPILF. Antibiothérapie par voie générale en pratique courante dans les infections respiratoires hautes de l’adulte et de l’enfant. Recommandations de bonne pratique. Novembre 2011.](http://www.infectiologie.com/UserFiles/File/medias/Recos/2011-infections-respir-hautes-argumentaire.pdf)
+- [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)
+- [HAS. Fiche mémo - Sinusite de l'adulte. Novembre 2016. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2016-11/v1-fm_sinusite_adulte-171116.pdf)
+- [Société Française de Pédiatrie. Guide de prescription d’antibiotique en pédiatrie. Archives de Pédiatrie. Juin 2016. Vol. 23. HS n°3. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
+- [SPILF. Antibiothérapie par voie générale en pratique courante dans les infections respiratoires hautes de l’adulte et de l’enfant. Recommandations de bonne pratique. Novembre 2011. (PDF)](http://www.infectiologie.com/UserFiles/File/medias/Recos/2011-infections-respir-hautes-argumentaire.pdf)
 
 {{% /collapse %}}

@@ -32,7 +32,7 @@ Ces recommandations concernent l'adulte ≥ 18 ans.
 - Cibles tensionnelles selon le profil (120-129/70-79 mmHg avant 65 ans)
 - Objectif d'un seul comprimé combiné et informer sur les conséquences d'une HTA non traitée (accidents CV, démence)
 - Bithérapies de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
-- [Le carnet d'automesure tensionnelle 2021](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
+- [Le carnet d'automesure tensionnelle 2021 (PDF)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -166,7 +166,7 @@ En cas de discordance mesures au cabinet et automesure/MAPA, répéter les mesur
 {{% /collapse %}}
 {{%collapse "Automesure tensionnelle" %}}
 
-[Le carnet d'automesure tensionnelle 2021](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
+[Le carnet d'automesure tensionnelle 2021 (PDF)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
 
 L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hypertension en vie quotidienne et démasquer une HTA masquée.
 
@@ -421,7 +421,7 @@ Contre-indications aux IEC/ARA2 et inhibiteurs de la rénine.
 - {{< references/esc-diabetes >}}
 - {{< references/esc-hta >}}
 - [HAS, SFHTA. Prise en charge de l'hypertension artérielle de l'adulte. Fiche mémo. Septembre 2016.](https://www.has-sante.fr/jcms/c_2059286/fr/prise-en-charge-de-l-hypertension-arterielle-de-l-adulte)
-- [SFHTA. Hypertension artérielle du sujet noir. Décembre 2017.](https://www.sfhta.eu/wp-content/uploads/2018/10/SFHTA_Fiche_technique_HTA-du-sujet-noir_Decembre-2017.pdf)
+- [SFHTA. Hypertension artérielle du sujet noir. Décembre 2017. (PDF)](https://www.sfhta.eu/wp-content/uploads/2018/10/SFHTA_Fiche_technique_HTA-du-sujet-noir_Decembre-2017.pdf)
 
 ### À lire
 

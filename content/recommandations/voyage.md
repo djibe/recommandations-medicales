@@ -89,7 +89,7 @@ Pour les personnes de 11 ans et plus:
 
 - Possible uniquement pour motif impérieux via l'Attestation de déplacement et de voyage
 - Test RT-PCR Covid-19 datant de moins de 72h avant le vol  
-Pays sans tests: dispense auprès du consulat local et test au retour avec isolement 7 jours dans [hôtel homologué](https://www.diplomatie.gouv.fr/IMG/pdf/liste_des_hotels_cle48796e-1.pdf).  
+Pays sans tests: dispense auprès du consulat local et test au retour avec isolement 7 jours dans [hôtel homologué (PDF)](https://www.diplomatie.gouv.fr/IMG/pdf/liste_des_hotels_cle48796e-1.pdf).  
 Les frais sont à la charge du voyageur.
 - Déclaration sur l'honneur de l'absence de signes de Covid-19 ou de contact avec personne infectée dans les 14 jours qui précèdent le voyage ...
 - Isolement pendant 7 jours au retour en France  

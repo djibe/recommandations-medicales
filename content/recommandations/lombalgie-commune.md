@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-26T09:21:22+02:00"
 publishdate = "2021-10-26"
-lastmod = "2021-11-18"
+lastmod = "2021-12-03"
 specialites = ["rhumatologie"]
 annees = "2019"
 sources = ["HAS"]
@@ -124,7 +124,7 @@ Patient, médecin, employeur.
 - Signes généraux  
 AEG, fièvre.
 - Identifier les peurs, croyances, contexte psychologique et social (facteurs de risque de chronicité)
-- Évaluation du risque de chronicité: [STarT Back screening tool](http://sectionrachis.fr/index.php/recommandation-lombalgie/questionnaires/), [questionnaire Örebro version courte](https://kce.fgov.be/sites/default/files/atoms/files/OrebroFr.pdf)
+- Évaluation du risque de chronicité: [STarT Back screening tool](http://sectionrachis.fr/index.php/recommandation-lombalgie/questionnaires/), [questionnaire Örebro version courte (PDF)](https://kce.fgov.be/sites/default/files/atoms/files/OrebroFr.pdf)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -136,7 +136,15 @@ Pas de renouvellement de l'imagerie sauf modification des symptômes. Expliquer 
 
 ### Radiographies rachidiennes
 
-Indications: drapeau rouge, instabilité ou troubles de la statique.
+Indications:
+
+- Drapeau rouge (voir *Signes d'alerte*)
+- Instabilité ou troubles de la statique
+- Femme ménopausée avec rachialgies (*SFR 2018 ostéoporose*)
+- Perte de taille ≥ 4 cm (comparaison à l'âge de 20 ans)(*SFR 2018 ostéoporose*)
+- Perte de taille ≥ 2 cm par rapport aux précédentes mesures (*SFR 2018 ostéoporose*)
+- Antécédent de fracture vertébrale (*SFR 2018 ostéoporose*)
+- Corticothérapie prolongée, anti-aromatase/androgène (*SFR 2018 ostéoporose*)
 
 ### IRM lombaire
 
@@ -152,7 +160,7 @@ La prise en charge est centrée sur le patient (bio-psycho-sociale) avec décisi
 Le traitement de la << poussée aiguë de lombalgie >> est symptomatique:
 
 - Expliquer les termes et le pronostic favorable  
-[La lombalgie - Ameli](https://www.ameli.fr/sites/default/files/Documents/346615/document/lombalgie-que-faire_assurance-maladie.pdf) et  [les dossiers Ameli](https://www.ameli.fr/assure/sante/themes/lombalgie-aigue).
+[La lombalgie - Ameli (PDF)](https://www.ameli.fr/sites/default/files/Documents/346615/document/lombalgie-que-faire_assurance-maladie.pdf) et  [les dossiers Ameli](https://www.ameli.fr/assure/sante/themes/lombalgie-aigue).
 - Maintien d'activité normale
 - Antalgie palier 1 voire palier 2
 - AINS

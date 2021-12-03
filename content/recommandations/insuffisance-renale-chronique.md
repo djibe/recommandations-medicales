@@ -424,7 +424,7 @@ bilan --> 7(Avis néphro)
 {{% /modal %}}
 {{% modal title="Facteurs de risque de fracture" id="modal-risque-fracture"%}}
 
-{{< clinique/menopause-risque-fracture >}}
+{{< clinique/osteoporose-risque-fracture >}}
 
 {{% /modal %}}
 {{% modal title="Objectifs glycémiques selon SFD 2019" id="modal-hba1c"%}}

@@ -395,9 +395,9 @@ graph TB
 {{%collapse "Sources" %}}
 
 - [Hôpital Necker. Facteurs susceptibles d’induire la dégranulation mastocytaire.](http://www.maladiesrares-necker.aphp.fr/facteurs-susceptibles-dinduire-la-degranulation-mastocytaire/)
-- [Collège des Enseignants d'Immunologie de Langue Française. Item 114 : Urticaire et œdème de Quincke : diagnostic, étiologie, traitement. 2011](http://campus.cerimes.fr/immunologie/enseignement/immuno_114a/site/html/cours.pdf)
+- [Collège des Enseignants d'Immunologie de Langue Française. Item 114 : Urticaire et œdème de Quincke : diagnostic, étiologie, traitement. 2011. (PDF)](http://campus.cerimes.fr/immunologie/enseignement/immuno_114a/site/html/cours.pdf)
 - [Dermato-info. L'urticaire.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99urticaire)
-- [ANAES/SFDermato. Conférence de consensus - Prise en charge de l'urticaire chronique. 2003.](https://www.has-sante.fr/upload/docs/application/pdf/urticaire_court.pdf)
+- [ANAES/SFDermato. Conférence de consensus - Prise en charge de l'urticaire chronique. 2003. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/urticaire_court.pdf)
 
 ### À lire
 

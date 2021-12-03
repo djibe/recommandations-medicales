@@ -296,8 +296,8 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 - [Oncologik. Mélanome cutané. 22/03/2019.](http://oncologik.fr/referentiels/oncolor/melanome-cutane)
 - [INCa. Traitements du mélanome avancé. Novembre 2017.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Traitements-du-melanome-avance)
 - [INCa. Détection précoce des cancers de la peau - Médecins généralistes. Octobre 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Detection-precoce-des-cancers-de-la-peau-Medecins-generalistes)
-- [HAS. Mélanome cutané. Janvier 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2012-03/ald_30_guide_melanome_web.pdf)
-- [Collège National des Enseignants de Dermatologie. Item 149 : Tumeurs cutanées épithéliales et mélaniques : mélanomes. 2011](http://campus.cerimes.fr/dermatologie/enseignement/dermato_26/site/html/cours.pdf)
-- [SFDermato. Recommandations pour la Pratique Clinique : Standards, Options et Recommandations 2005 pour la prise en charge des patients adultes atteints d’un mélanome cutané MO. Décembre 2005](https://www.oncoderm.fr/upload/recommandations/9738-Prise-en-charge-des-meAlanome.pdf)
+- [HAS. Mélanome cutané. Janvier 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-03/ald_30_guide_melanome_web.pdf)
+- [Collège National des Enseignants de Dermatologie. Item 149 : Tumeurs cutanées épithéliales et mélaniques : mélanomes. 2011. (PDF)](http://campus.cerimes.fr/dermatologie/enseignement/dermato_26/site/html/cours.pdf)
+- [SFDermato. Recommandations pour la Pratique Clinique : Standards, Options et Recommandations 2005 pour la prise en charge des patients adultes atteints d’un mélanome cutané MO. Décembre 2005. (PDF)](https://www.oncoderm.fr/upload/recommandations/9738-Prise-en-charge-des-meAlanome.pdf)
 
 {{% /collapse %}}

@@ -276,8 +276,8 @@ graph TB
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
-- [SNFGE. Guide patient: Le reflux gastro-œsophagien](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/reflux_gastro-oesophagien_snfge-cregg_2017.pdf)
-- [SNFGE. Fiche d'information avant la réalisation d'une endoscopie digestive haute.](https://www.snfge.org/sites/default/files/SNFGE/Rubrique_GdPublic/Fiches-Infos-Patients/information_patient_gastroscopie_diagnostique_sfed-snfge.pdf)
+- [SNFGE. Guide patient: Le reflux gastro-œsophagien (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/reflux_gastro-oesophagien_snfge-cregg_2017.pdf)
+- [SNFGE. Fiche d'information avant la réalisation d'une endoscopie digestive haute (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Rubrique_GdPublic/Fiches-Infos-Patients/information_patient_gastroscopie_diagnostique_sfed-snfge.pdf)
 - Maladie bénigne liée à la faiblesse du sphincter œsophagien.  
 Favorisée par l'obésité et une hernie hiatale.
 - Maladie très fréquente atteignant régulièrement 10% de la population.
@@ -301,7 +301,7 @@ Favorisée par l'obésité et une hernie hiatale.
 - [Prescrire Redaction. Reflux gastro-œsophagien chez un nourrisson. Août 2020.](https://www.prescrire.org/)
 - [Prescrire Redaction. Reflux gastro-œsophagien chez un adulte - L’essentiel sur les soins de premier choix. Juin 2020.](https://www.prescrire.org/)
 - [Zerbib F. Diagnostic actuel du RGO : Consensus de Lyon (GUT 2018). POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-actuel-du-rgo-consensus-de-lyon-gut-2018/)
-- [SNFGE. Traitement du RGO.](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
+- [SNFGE. Traitement du RGO. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
 - [SNFGE. Reflux gastro-œsophagien (RGO)](https://www.snfge.org/content/reflux-gastro-oesophagien-rgo)
 - [Gyawali CP et al. Modern diagnosis of GERD: the Lyon Consensus. Gut. 2018;67(7):1351-1362. doi:10.1136/gutjnl-2017-314722](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6031267/)
 

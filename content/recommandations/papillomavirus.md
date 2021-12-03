@@ -113,7 +113,7 @@ Possible à partir de 9 ans en prévision de transplantation d'organe solide.
 Prévention des lésions précancéreuses de tous les sites atteints (voir *Complications*).
 
 [INCa. 10 arguments clés sur la vaccination contre les infections liées aux papillomavirus humains (HPV)](https://www.e-cancer.fr/Expertises-et-publications/Le-point-sur/10-arguments-sur-la-vaccination-contre-les-HPV)
-[INCa. Dépliant sur la vaccination contre les cancers HPV](https://www.e-cancer.fr/content/download/301756/4303586/file/IN793%20Depliant%20Papillomavirus%20148x210%20HPV_BD.pdf)
+[INCa. Dépliant sur la vaccination contre les cancers HPV (PDF)](https://www.e-cancer.fr/content/download/301756/4303586/file/IN793%20Depliant%20Papillomavirus%20148x210%20HPV_BD.pdf)
 
 > En Australie, où la recommandation de vacciner les filles date de 2007 et celle des garçons de 2013, la couverture vaccinale d’au moins 80% a permis :  
 Une réduction de plus de 77% des génotypes responsables de 75% des cancers du col de l’utérus ;  
@@ -135,6 +135,6 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 - {{< references/calendrier-vaccinal >}}
 - [Abramovitz L. Vaccin contre le Papilloma virus : De l’AMM au pragmatisme. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/
 )
-- [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017.](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
+- [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
 
 {{% /collapse %}}

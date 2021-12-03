@@ -102,7 +102,7 @@ Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre d
 {{%collapse "Sources" %}}
 
 - {{< references/calendrier-vaccinal >}}
-- [CMIT. Tuberculose de l’adulte et de l’enfant. ECN.Pilly. UE6 - 155. 2020.](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2018/ecn-2018-ue6-155-nb.pdf)
-- [HAS. Tuberculose maladie. Juin 2017.](https://www.has-sante.fr/upload/docs/application/pdf/actualisationlap_tuberculose__web_.pdf)
+- [CMIT. Tuberculose de l’adulte et de l’enfant. ECN.Pilly. UE6 - 155. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2018/ecn-2018-ue6-155-nb.pdf)
+- [HAS. Tuberculose maladie. Juin 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/actualisationlap_tuberculose__web_.pdf)
 
 {{% /collapse %}}

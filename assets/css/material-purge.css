@@ -410,6 +410,10 @@ legend + * {
   font: inherit;
 }
 
+output {
+  display: inline-block;
+}
+
 iframe {
   border: 0;
 }
@@ -3757,6 +3761,14 @@ a.bg-primary:hover, a.bg-primary:focus, a.bg-primary:active {
 
 .bg-primary {
   background-color: #4150f5 !important;
+}
+
+a.bg-secondary:hover, a.bg-secondary:focus, a.bg-secondary:active {
+  background-color: #c05500 !important;
+}
+
+.bg-secondary {
+  background-color: #e87500 !important;
 }
 
 a.bg-light:hover, a.bg-light:focus, a.bg-light:active {

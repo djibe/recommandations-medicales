@@ -212,16 +212,16 @@ graph TB
 {{%collapse "Sources" %}}
 
 - [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. 2020.](https://goldcopd.org/2021-gold-reports/)
-- [Omedit Centre Val de Loire. Protocole de supplémentation en vitamine D en EHPAD. Décembre 2020.](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/10827.pdf)
+- [Omedit Centre Val de Loire. Protocole de supplémentation en vitamine D en EHPAD. Décembre 2020. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/10827.pdf)
 - [Ameli. Dosage de la vitamine D. 14 Novembre 2019.](https://www.ameli.fr/paris/laboratoire-danalyses-medicales/exercice-liberal/memos/dosage-vitamine)
-- [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d’ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 03/05/2019.](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
+- [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d’ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 03/05/2019. (PDF)](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
 - [Esteban 2014-2016 – Chapitre dosages biologiques des vitamines et minéraux : pas de déficit important ou de carence à grande échelle](https://www.santepubliquefrance.fr/les-actualites/2019/esteban-2014-2016-chapitre-dosages-biologiques-des-vitamines-et-mineraux-pas-de-deficit-important-ou-de-carence-a-grande-echelle)
 - [Annweiler C et al. Vitamine D chez l’adulte : mise au point sur le dosage et la supplémentation. Gériatrie et psychologie Neuropsychiatrie du Vieillissement. Vol 16, n°1, mars 2018](https://www.jle.com/fr/revues/gpn/e-docs/vitamine_d_chez_ladulte_mise_au_point_sur_le_dosage_et_la_supplementation_311580/article.phtml)
 - [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l’ostéoporose post-ménopausique. Revue du Rhumatisme. Volume 85. Issue 5. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S1169833018300504)
-- [Inserm. La vitamine D, une nouvelle piste contre la maladie d’Alzheimer ?. Mai 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)
+- [Inserm. La vitamine D, une nouvelle piste contre la maladie d’Alzheimer ?. Mai 2017. (PDF)](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)
 - [HAS. Utilité clinique du dosage de la vitamine D. Octobre 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-02/utilite_clinique_du_dosage_de_la_vitamine_d_-_note_de_cadrage.pdf)
-- [Société Française de Pédiatrie. La Vitamine D : une vitamine toujours d’actualité chez l’enfant et l’adolescent. Mise au point par le Comité de nutrition de la Société française de pédiatrie. 2012.](https://afpa.org/content/uploads/2017/07/Reco_VIT_D_VersionFR_VF.pdf)
-- [HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
+- [Société Française de Pédiatrie. La Vitamine D : une vitamine toujours d’actualité chez l’enfant et l’adolescent. Mise au point par le Comité de nutrition de la Société française de pédiatrie. 2012. (PDF)](https://afpa.org/content/uploads/2017/07/Reco_VIT_D_VersionFR_VF.pdf)
+- [HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
 
 {{% /collapse %}}
 {{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}

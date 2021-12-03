@@ -167,7 +167,7 @@ graph TB
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [CNGOF.  Contraception – Recommandations pour la pratique clinique. 2018](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique?folder=RPC%2BCOLLEGE%252F2018)
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)
-- [CNGOF. L'interruption volontaire de grossesse. Recommandations pour la pratique clinique. 2016.](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2016%252FRPC_2016_IVG.pdf&i=21925)
-- [HAS. Interruption volontaire de grossesse par méthode médicamenteuse. Décembre 2010.](https://www.has-sante.fr/portail/upload/docs/application/pdf/2011-04/ivg_methode_medicamenteuse_-_recommandations_-_mel_2011-04-28_11-39-11_882.pdf)
+- [CNGOF. L'interruption volontaire de grossesse. Recommandations pour la pratique clinique. 2016. (PDF)](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2016%252FRPC_2016_IVG.pdf)
+- [HAS. Interruption volontaire de grossesse par méthode médicamenteuse. Décembre 2010. (PDF)](https://www.has-sante.fr/portail/upload/docs/application/pdf/2011-04/ivg_methode_medicamenteuse_-_recommandations_-_mel_2011-04-28_11-39-11_882.pdf)
 
 {{% /collapse %}}

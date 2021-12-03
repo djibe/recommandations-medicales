@@ -78,7 +78,7 @@ Si allergie ou contre-indication: doxycycline 200 mg x 1/j pendant 14 jours.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [ECN.Pilly. Zoonoses. UE 169. 2018.](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2018/ecn-2018-ue6-169-nb.pdf)
-- [Ministère de l'Agriculture. Maladie des griffes du chat. Janvier 2007.](https://agriculture.gouv.fr/sites/minagri/files/documents/pdf/griffes_chat090107.pdf)
+- [ECN.Pilly. Zoonoses. UE 169. 2018. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2018/ecn-2018-ue6-169-nb.pdf)
+- [Ministère de l'Agriculture. Maladie des griffes du chat. Janvier 2007. (PDF)](https://agriculture.gouv.fr/sites/minagri/files/documents/pdf/griffes_chat090107.pdf)
 
 {{% /collapse %}}

@@ -419,7 +419,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
-[HAS. Vivre avec une insuffisance cardiaque](https://www.has-sante.fr/upload/docs/application/pdf/2008-06/08-096_gp_insuf-cardia.pdf) et [HeartFailureMatters. Voyage à travers l'insuffisance cardiaque.](https://www.heartfailurematters.org/fr_FR).
+[HAS. Vivre avec une insuffisance cardiaque (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-06/08-096_gp_insuf-cardia.pdf) et [HeartFailureMatters. Voyage à travers l'insuffisance cardiaque.](https://www.heartfailurematters.org/fr_FR).
 
 ### Points essentiels de l'ETP pour l'insuffisance cardiaque
 
@@ -435,7 +435,7 @@ Comprendre les causes de l'IC, les symptômes et l'évolution.
   - Numéros à appeler en urgence
   - Prendre des diurétiques à la demande si pertinent et conseillé
   - Identifier les facteurs de décompensation
-- [Signes d'alerte](https://www.heartfailurematters.org/wp-content/uploads/2021/02/Surveiller-vos-signes-vitaux.pdf)
+- [Signes d'alerte (PDF)](https://www.heartfailurematters.org/wp-content/uploads/2021/02/Surveiller-vos-signes-vitaux.pdf)
   - Perte de poids trop rapide, soif, sécheresse de la bouche
   - Prise de 2 kg en 3 jours
   - Aggravation d'œdèmes
@@ -495,13 +495,13 @@ réalistes
 
 - [McDonagh T et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) With the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. 2021.](https://doi.org/10.1093/eurheartj/ehab368)
 - Prescrire Redaction. Insuffisances cardiaques médicamenteuses en bref, Patients insuffisants cardiaques chroniques. Janvier 2021.
-- [Collège National des Enseignants de Cardiologie. Insuffisance cardiaque. Item 232 - UE8. Cardiologie 2e édition. Octobre 2019.](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch18_insuffisance_cardiaque.pdf)
+- [Collège National des Enseignants de Cardiologie. Insuffisance cardiaque. Item 232 - UE8. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch18_insuffisance_cardiaque.pdf)
 - [Agence de la Biomédecine. Organes -Greffe cardiaque. 29/09/2019.](https://rams.agence-biomedecine.fr/greffe-cardiaque-0)
 - [Santé Publique France. Insuffisance cardiaque. 17/06/2019.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/insuffisance-cardiaque)
 - {{< references/esc-hta >}}
 - [SFC. Recommandations de la Société Française de Cardiologie pour les épreuves d'effort. 2018.](https://sfcardio.fr/publication/recommandations-pour-les-epreuves-deffort)
-- [HAS. Insuffisance cardiaque systolique. ALD n°5. Actes et prestations - Affection de longue durée. Juillet 2015.](https://www.has-sante.fr/upload/docs/application/pdf/liste_ald_insuf_card_systolique.pdf)
-- [HAS. Insuffisance cardiaque. Guide du parcours de soins. Juin 2014.](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_ic_web.pdf)
+- [HAS. Insuffisance cardiaque systolique. ALD n°5. Actes et prestations - Affection de longue durée. Juillet 2015. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/liste_ald_insuf_card_systolique.pdf)
+- [HAS. Insuffisance cardiaque. Guide du parcours de soins. Juin 2014. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_ic_web.pdf)
 - [Lainscak M. et al. Self-care management of heart failure: practical recommendations from the Patient Care Committee of the Heart Failure Association of the European Society of Cardiology. European Journal of Heart Failure. 13: 115-126.](https://doi.org/10.1093/eurjhf/hfq219)
 
 {{% /collapse %}}

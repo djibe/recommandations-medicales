@@ -339,7 +339,7 @@ Les données sont fournies par le prestataire.
 
 #### Indications françaises à traiter le SAOS
 
-Le patient doit remplir les [conditions du Journal Officiel de juillet 2017](http://www.sfrms-sommeil.org/wp-content/uploads/2017/09/Avis-de-projet_juillet-2017_joe_20170711_0161_0100.pdf) pour bénéficier d'une prise en charge de la Sécu:
+Le patient doit remplir les [conditions du Journal Officiel de juillet 2017 (PDF)](http://www.sfrms-sommeil.org/wp-content/uploads/2017/09/Avis-de-projet_juillet-2017_joe_20170711_0161_0100.pdf) pour bénéficier d'une prise en charge de la Sécu:
 
 - ≥ 3 symptômes parmi: somnolence diurne, ronflements sévères et quotidiens, sensation d’étouffement ou de suffocation pendant le sommeil, fatigue diurne, nycturie, céphalées matinales
 - SAOS sévère (IAH ≥ 30)
@@ -395,7 +395,7 @@ Rappeler que la PPC doit être utilisée au moins 4 heures par nuit.
 
 - Observance
 - Somnolence diurne  
-Évaluer avec l'[échelle d'Epworth](https://reseau-morphee.fr/wp-content/uploads/dlm_uploads/2016/11/Epworth.pdf).
+Évaluer avec l'[échelle d'Epworth (PDF)](https://reseau-morphee.fr/wp-content/uploads/dlm_uploads/2016/11/Epworth.pdf).
 - Insomnie
 - Céphalées matinales
 - Ronflements
@@ -483,11 +483,11 @@ Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire 
 
 - [Bonsignore MR et al. European Respiratory Society statement on sleep apnoea, sleepiness and driving risk. Eur Respir J 2021; 57: 2001272](https://doi.org/10.1183/13993003.01272-2020)
 - [Gottlieb DJ, Punjabi NM. Diagnosis and Management of Obstructive Sleep Apnea: A Review. JAMA. 2020;323(14):1389–1400.](https://jamanetwork.com/journals/jama/article-abstract/2764461?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jama.2020.3514)
-- [SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. MMM septembre 2018.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
+- [SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. MMM septembre 2018. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
 - [Ramar K et al, AASM. Clinical Practice Guideline for the Treatment of Obstructive Sleep Apnea and Snoring with Oral Appliance Therapy: An Update for 2015. J Clin Sleep Med JCSM Off Publ Am Acad Sleep Med. 15 juill 2015;11(7):773‑827.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481062/)
 - [HAS. Apnées du sommeil : de nouvelles recommandations de prise en charge des patients. 10/09/2014.](https://www.has-sante.fr/jcms/c_1761160/fr/apnees-du-sommeil-de-nouvelles-recommandations-de-prise-en-charge-des-patients)
-- [SPLF, SFAR, SFC, SFMT, SFORL, SFRMS. Recommandations pour la Pratique Clinique - Syndrome d’apnées hypopnées obstructives du sommeil de l’adulte. 2010.](https://splf.fr/wp-content/uploads/2014/07/HS3_reco_sas2010.pdf)
-- [AASM. Obstructive Sleep Apnea. 2008](https://aasm.org/resources/factsheets/sleepapnea.pdf)
+- [SPLF, SFAR, SFC, SFMT, SFORL, SFRMS. Recommandations pour la Pratique Clinique - Syndrome d’apnées hypopnées obstructives du sommeil de l’adulte. 2010. (PDF)](https://splf.fr/wp-content/uploads/2014/07/HS3_reco_sas2010.pdf)
+- [AASM. Obstructive Sleep Apnea. 2008. (PDF)](https://aasm.org/resources/factsheets/sleepapnea.pdf)
 - [Ruehland WR et al. The new AASM criteria for scoring hypopneas: impact on the apnea hypopnea index. Sleep. févr 2009;32(2):150‑7.](https://pubmed.ncbi.nlm.nih.gov/19238801/)
 - [Chiu H-Y et al. Diagnostic accuracy of the Berlin questionnaire, STOP-BANG, STOP, and Epworth sleepiness scale in detecting obstructive sleep apnea: A bivariate meta-analysis. Sleep Med Rev. déc 2017;36:57‑70.](https://pubmed.ncbi.nlm.nih.gov/27919588/)
 - [Morgenthaler TI et al. Practice parameters for the medical therapy of obstructive sleep apnea. Sleep. août 2006;29(8):1031‑5.](https://pubmed.ncbi.nlm.nih.gov/16944671/)

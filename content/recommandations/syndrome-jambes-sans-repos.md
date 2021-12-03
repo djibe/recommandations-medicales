@@ -66,7 +66,7 @@ Ils sont parfois détectés par le conjoint.
 Akathisie
 : Impression subjective d'agitation interne, ou d'impatience, avec un désir intense (voire incoercible) de réaliser certains mouvements (*Dr E. Fakra*).
 : Effet indésirable fréquent des neuroleptiques (~30% des patients), antidépresseurs ISRS, thymorégulateurs.  
-[En savoir plus sur l'akathisie](https://www.edimark.fr/Front/frontpost/getfiles/23099.pdf)
+[En savoir plus sur l'akathisie (PDF)](https://www.edimark.fr/Front/frontpost/getfiles/23099.pdf)
 
 Tremblement orthostatique primaire
 : Mouvement anormal rare, caractérisé par un tremblement postural spécifique rapide, qui touche les membres inférieurs et le tronc en position debout *([Orphanet](https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=FR&Expert=238606))*.

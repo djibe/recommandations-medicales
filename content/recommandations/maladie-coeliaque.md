@@ -239,7 +239,7 @@ Par le gastro-entérologue et le diététicien spécialisé.
 
 ### Aliments à éviter
 
-[SNFGE/CREGG. Alimentation sans gluten.](https://www.snfge.org/sites/default/files/recommandations/alimentation_sans_gluten-snfge-cregg_2017.pdf)
+[SNFGE/CREGG. Alimentation sans gluten. (PDF)](https://www.snfge.org/sites/default/files/recommandations/alimentation_sans_gluten-snfge-cregg_2017.pdf)
 
 Le gluten est présent dans toutes les variétés de blé, froment, épeautre, orge et seigle sous toutes leurs formes et donc dans les:
 
@@ -299,7 +299,7 @@ graph TB
 - [Prescrire. Intolérance au gluten - L'essentiel sur les soins de premier choix. Janvier 2020.](https://prescrire.org)
 - [EssCD. Guideline for coeliac disease and other gluten-related disorders. April 2019](https://doi.org/10.1177%2F2050640619844125)
 - [Olives JP. Maladie coeliaque : de l’enfance à l’âge adulte. POST'U 2013 - Paris](https://www.fmcgastro.org/postu-main/postu-2013-paris/textes-postu-2013-paris/maladie-coeliaque-de-lenfance-a-lage-adulte/)
-- [HAS. Recherche d'anticorps dans la maladie cœliaque et suivi de l'observance du régime sans gluten. Janvier 2007](https://www.has-sante.fr/upload/docs/application/pdf/synthese_maladie_coeliaque.pdf)
+- [HAS. Recherche d'anticorps dans la maladie cœliaque et suivi de l'observance du régime sans gluten. Janvier 2007. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/synthese_maladie_coeliaque.pdf)
 - [SNFGE. Maladie cœliaque](https://www.snfge.org/content/maladie-coeliaque)
 - [Asmeli. Intolérance au gluten.](https://www.ameli.fr/hauts-de-seine/assure/sante/themes/intolerance-gluten-maladie-coeliaque)
 

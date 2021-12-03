@@ -147,11 +147,11 @@ Liste des substituts nicotiniques remboursés par la Sécurité Sociale en 2021.
 </div>
 
 <blockquote class="blockquote mt-5">
-  <h3 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au 20/09/2021.</h3>
+  <h3 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au 20/09/2021. (PDF)</h3>
   <footer class="blockquote-footer">
     <cite title="Ameli"><a
         href="https://www.ameli.fr/sites/default/files/Documents/441422/document/liste-substituts-nicotiniques_assurance-maladie_2021-10-15_0.pdf"
-        target="_blank" rel="nofollow noopener">L'Assurance Maladie</a></cite>
+        rel="external nofollow noopener">L'Assurance Maladie</a></cite>
   </footer>
 </blockquote>
 

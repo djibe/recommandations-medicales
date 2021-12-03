@@ -62,6 +62,6 @@ La 1<sup>re</sup> ampoule doit être administrée durant la 1<sup>re</sup> heure
 {{% /collapse %}}
 {{%collapse "Source" %}}
 
-[Société Française de Néonatalogie. Vitamine K - Mise à jour des recommandations. Décembre 2015.](https://afpa.org/content/uploads/2017/07/4_-7_sfn_recommandations_vitamine_k_maj_2015.pdf)
+[Société Française de Néonatalogie. Vitamine K - Mise à jour des recommandations. Décembre 2015. (PDF)](https://afpa.org/content/uploads/2017/07/4_-7_sfn_recommandations_vitamine_k_maj_2015.pdf)
 
 {{% /collapse %}}

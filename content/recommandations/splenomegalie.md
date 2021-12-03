@@ -133,6 +133,6 @@ graph TB
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Pr Pris J. Médecine Toulouse. Orientation diagnostique devant une splénomégalie.](http://www.medecine.ups-tlse.fr/dcem3/module14/332%20Orientation%20diagnostique%20devant%20une%20splenomegalie.pdf)
+- [Pr Pris J. Médecine Toulouse. Orientation diagnostique devant une splénomégalie. (PDF)](http://www.medecine.ups-tlse.fr/dcem3/module14/332%20Orientation%20diagnostique%20devant%20une%20splenomegalie.pdf)
 
 {{% /collapse %}}

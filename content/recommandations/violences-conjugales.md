@@ -24,7 +24,7 @@ todo = "lire sources, liste centre hébergement urgence, commissariat + proche, 
 {{%article-summary%}}
 
 - **3 patientes sur 10 de votre salle d'attente !**
-- [Modèle de certificat initial](https://www.conseil-national.medecin.fr/sites/default/files/certificat_en_cas_de_violences_sur_personne_majeure.pdf)
+- [Modèle de certificat initial (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/certificat_en_cas_de_violences_sur_personne_majeure.pdf)
 - Conseiller
   - de déposer plainte
   - de naviguer sur internet en mode *Incognito*
@@ -213,7 +213,7 @@ PMI et services sociaux.
 
 Le certificat médical peut être utilisé pour faire valoir les droits de la victime et obtenir une mesure de protection.
 
-[Modèle de certificat initial](https://www.conseil-national.medecin.fr/sites/default/files/certificat_en_cas_de_violences_sur_personne_majeure.pdf)
+[Modèle de certificat initial (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/certificat_en_cas_de_violences_sur_personne_majeure.pdf)
 
 {{%warning%}}La consultation et l’examen clinique de la patiente sont un préalable indispensable à la rédaction du certificat.{{%/warning%}}
 
@@ -264,7 +264,7 @@ Aborder les violences, évaluer, le certificat médical, le signalement, ITT, ou
 
 #### CNOM - Secret médical et violences au sein du couple
 
-[Lien](https://www.conseil-national.medecin.fr/sites/default/files/external-package/rapport/1xufjc2/vademecum_secret_violences_conjugales.pdf)
+[Document du CNOM sur les violences conjugales (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/external-package/rapport/1xufjc2/vademecum_secret_violences_conjugales.pdf)
 
 #### memo-de-vie.org
 
@@ -276,7 +276,7 @@ Aborder les violences, évaluer, le certificat médical, le signalement, ITT, ou
 {{%collapse "Sources" %}}
 
 - [Guiguet-Auclair C et al. Validation de la version française d’un outil de dépistage des violences conjugales faites aux femmes, le WAST (Woman Abuse Screening Tool). Bull Epidémiol Hebd. 2021;(2):32-40.](http://beh.santepubliquefrance.fr/beh/2021/2/2021_2_2.html)
-- [HAS. Repérage des femmes victimes de violences au sein du couple Comment agir. Juin 2019 MAJ Décembre 2020.](https://webzine.has-sante.fr/upload/docs/application/pdf/2019-09/fs_femmes_violence_agir_092019.pdf)
+- [HAS. Repérage des femmes victimes de violences au sein du couple Comment agir. Juin 2019 MAJ Décembre 2020. (PDF)](https://webzine.has-sante.fr/upload/docs/application/pdf/2019-09/fs_femmes_violence_agir_092019.pdf)
 
 ### À lire
 

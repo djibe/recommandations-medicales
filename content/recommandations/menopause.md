@@ -292,7 +292,7 @@ Quelque soit le statut hormonal ou invasif/in situ.
 {{% /collapse %}}
 {{%collapse "Traitement hormonal de la ménopause" %}}
 
-[Information de la patiente - GEMVI: Fiche info ménopause et THM](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
+[Information de la patiente - GEMVI: Fiche info ménopause et THM (PDF)](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
 
 ### Indications
 
@@ -528,7 +528,7 @@ Si estradiol cutané + progestérone micronisée (dydrogestérone, acétate de c
 {{% /collapse %}}
 {{%collapse "Information de la patiente" %}}
 
-[GEMVI: Fiche info ménopause et THM](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
+[GEMVI: Fiche info ménopause et THM (PDF)](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
 
 - Bénéfique pour symptômes (bouffées vasomotrices ++) et ralentissement du vieillissement des différents tissus (ostéoporose, trophicité)
 - Réduit le risque de cancer du côlon et de fracture ostéoporotique
@@ -561,7 +561,7 @@ Décroît après l'arrêt du traitement.
 {{% /modal %}}
 {{% modal title="Facteurs de risque de fracture à la ménopause" id="modal-risque-fracture"%}}
 
-{{< clinique/menopause-risque-fracture >}}
+{{< clinique/osteoporose-risque-fracture >}}
 
 {{% /modal %}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}

@@ -200,6 +200,6 @@ Contre-indiqué avant 8 ans et pendant la grossesse.
 {{%collapse "Sources" %}}
 
 - [Institut Pasteur. Recommandations générales - Prévention du paludisme.](https://www.pasteur.fr/fr/centre-medical/vaccination/recommandations-generales#prvention-du-paludisme)
-- [CMIT. Paludisme. ECN.Pilly 2020. UE 6 166.](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-166-nb.pdf)
+- [CMIT. Paludisme. ECN.Pilly 2020. UE 6 166. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-166-nb.pdf)
 
 {{% /collapse %}}
