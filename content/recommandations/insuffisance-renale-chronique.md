@@ -6,7 +6,7 @@ synonyms = ["et maladie rénale chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-10-26"
+lastmod = "2021-12-06"
 specialites = ["nephrologie"]
 annees = "2021"
 sources = ["HAS", "KDIGO", "ESC"]
@@ -283,43 +283,43 @@ Uricémie.
 </ul>
 <div class="tab-content" id="justifiedTabContent">
   <div aria-labelledby="sup45-tab" class="tab-pane fade show active" id="sup45" role="tabpanel">
-  <ul>
-    <li>Suivi généraliste &ge; 1/an</li>
-    <li>1/an: lipidique, glycémie à jeun, créatininémie, albuminurie</li>
-  </ul>
+
+  - Suivi généraliste ≥ 1/an
+  - 1/an: lipidique, glycémie à jeun, créatininémie, albuminurie
+
   </div>
   <div aria-labelledby="stade3b-tab" class="tab-pane fade" id="stade3b" role="tabpanel">
-  <ul>
-    <li>Suivi généraliste &ge; 2/an</li>
-    <li>Si néphrologue: &ge; 1/an</li>
-    <li>Tous les 3-6 mois: créatininémie, albuminurie (voire +), ionogramme, bicarbonates, calcémie, phosphorémie</li>
-    <li>1-2/an: NFS, réticulocytes, ferritinémie</li>
-    <li>1/an: lipidique, glycémie à jeun, créatininémie, albuminémie</li>
-    <li>Anticorps anti-HBs tous les 3 ans</li>
-    <li>PTH selon valeur initiale et la progression</li>
-  </ul>
+
+  - Suivi généraliste ≥ 2/an
+  - Si néphrologue: ≥ 1/an
+  - Tous les 3-6 mois: créatininémie, albuminurie (voire +), ionogramme, bicarbonates, calcémie, phosphorémie
+  - 1-2/an: NFS, réticulocytes, ferritinémie
+  - 1/an: lipidique, glycémie à jeun, créatininémie, albuminémie
+  - Anticorps anti-HBs tous les 3 ans
+  - PTH selon valeur initiale et la progression
+
   </div>
   <div aria-labelledby="stade4-tab" class="tab-pane fade" id="stade4" role="tabpanel">
-  <ul>
-    <li>Suivi généraliste &ge; 4/an</li>
-    <li>Néphrologue: &ge; 2/an</li>
-    <li>Tous les 1-3 mois: créatininémie, urémie, ionogramme, bicarbonates, calcémie, phosphorémie</li>
-    <li>Tous les 1-6 mois: albuminémie, PTH</li>
-    <li>Tous les 3-6 mois: albuminurie, NFS, réticulocytes, ferritinémie, PAL</li>
-    <li>1/an: lipidique, glycémie à jeun, anticorps anti-HBs</li>
-  </ul>
+
+  - Suivi généraliste ≥ 4/an
+  - Néphrologue: ≥ 2/an
+  - Tous les 1-3 mois: créatininémie, urémie, ionogramme, bicarbonates, calcémie, phosphorémie
+  - Tous les 1-6 mois: albuminémie, PTH
+  - Tous les 3-6 mois: albuminurie, NFS, réticulocytes, ferritinémie, PAL
+  - 1/an: lipidique, glycémie à jeun, anticorps anti-HBs
+
   </div>
   <div aria-labelledby="stade5-tab" class="tab-pane fade" id="stade5" role="tabpanel">
-  <ul>
-    <li>Suivi généraliste &ge; 1/mois</li>
-    <li>Néphrologue: &ge; 4/an</li>
-    <li>1/mois: créatininémie, ionogramme, bicarbonates, calcémie, phosphorémie</li>
-    <li>Tous les 1-3 mois: urémie, NFS, réticulocytes, ferritinémie, PAL</li>
-    <li>Tous les 1-6 mois: albuminémie</li>
-    <li>Tous les 3-6 mois: PTH</li>
-    <li>1/an: lipidique, glycémie à jeun, anticorps anti-HBs</li>
-    <li>Selon néphrologue: albuminurie</li>
-  </ul>
+
+  - Suivi généraliste ≥ 1/mois
+  - Néphrologue: ≥ 4/an
+  - 1/mois: créatininémie, ionogramme, bicarbonates, calcémie, phosphorémie
+  - Tous les 1-3 mois: urémie, NFS, réticulocytes, ferritinémie, PAL
+  - Tous les 1-6 mois: albuminémie
+  - Tous les 3-6 mois: PTH
+  - 1/an: lipidique, glycémie à jeun, anticorps anti-HBs
+  - Selon néphrologue: albuminurie
+
   </div>
 </div>
 </div>
@@ -391,15 +391,15 @@ Connaître les signes et symptômes de la MRC et savoir qui prévenir.
 graph TB
 fdr["<b>Personne à risque</b><hr>- HTA, diabète<br>- Obésité<br>- Athérome<br>- Insuffisance cardiaque<br>- Maladie de système<br>- Pathologie urologique<br>- ATCD familial d'IRC évolutive<br>- Exposition professionnelle<br>- Néphrotoxiques"] --> 2(Bilan annuel)
 style fdr stroke:#4150f5, stroke-width:1px
-2 --> 3N(Normal)
-  3N --> 2
-2 --> 3A(Anormal)
-3A --> 4(Contrôle à 3 mois)
-4 --> Normal
-  Normal --> 2
-4 --> Anormal
-Anormal --> bilan("Bilan initial de la MRC + Stade<br>Néphroprotection maximale")
-bilan --> 7(Avis néphro)
+  2 --> 3N(Normal)
+    3N --> 2
+  2 --> 3A(Anormal)
+  3A --> 4(Contrôle à 3 mois)
+  4 --> Normal
+    Normal --> 2
+  4 --> Anormal
+  Anormal --> bilan("Bilan initial de la MRC + Stade<br>Néphroprotection maximale")
+  bilan --> 7(Avis néphro)
 {{< /mermaid >}}
 
 {{%/collapse%}}

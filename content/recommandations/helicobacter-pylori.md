@@ -56,27 +56,27 @@ Dysphagie, amaigrissement, anémie.
     </script>
     <p class="typography-overline text-black-secondary pt-4">1<sup>re</sup> ligne</p>
     <div class="collapse show" id="hp-1-reference">
-      <ul>
-        <li>Clari-S
-          <span>Amox 50 mg/kg/j (3-4 prises) + Clari 500 x 2/j + IPP x 2/j | 14 jours</span>
-        </li>
-        <li>Clari-R Quinolone-S
-          <span>Amox 50 mg/kg/j (3-4 prises) + Lévoflo 500 x 2/j + IPP x 2/j | 14 jours</span>
-        </li>
-        <li>Clari-R Quinolone-R (ou non testée)
-          <span>Amox 50 mg/kg/j (3-4 prises) + Métroni 500 x 2/j + IPP x 2/j | 14 jours<br>
-          OU Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours</span>
-        </li>
-      </ul>
-      <p class="typography-overline text-black-secondary pt-2">2<sup>e</sup> ligne</p>
-      <ul>
-        <li>Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours
-          <span>Si non utilisée en première ligne (sinon voir 3<sup>e</sup> ligne)</span>
-        </li>
-      </ul>
-      <p class="typography-overline text-black-secondary pt-2">3<sup>e</sup> ligne</p>
-      <p>EOGD souhaitable (sauf si Quinolone-S et non utilisées).</p>
-      <ul>
+
+  - Clari-S  
+  <span>Amox 50 mg/kg/j (3-4 prises) + Clari 500 x 2/j + IPP x 2/j | 14 jours</span>
+  - Clari-R Quinolone-S  
+  <span>Amox 50 mg/kg/j (3-4 prises) + Lévoflo 500 x 2/j + IPP x 2/j | 14 jours</span>
+  - Clari-R Quinolone-R (ou non testée)  
+  <span>Amox 50 mg/kg/j (3-4 prises) + Métroni 500 x 2/j + IPP x 2/j | 14 jours  
+  OU Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours</span>
+
+2<sup>e</sup> ligne
+{.typography-overline .text-black-secondary .pt-2}
+
+  -Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours  
+  <span>Si non utilisée en première ligne (sinon voir 3<sup>e</sup> ligne)</span>
+
+3<sup>e</sup> ligne
+{.typography-overline .text-black-secondary .pt-2}
+
+EOGD souhaitable (sauf si Quinolone-S et non utilisées).
+
+  <ul>
         <li>Clari-S
           <span>Amox 50 mg/kg/j (3-4 prises) + Clari 500 x 2/j + IPP x 2/j | 14 jours</span>
         </li>
