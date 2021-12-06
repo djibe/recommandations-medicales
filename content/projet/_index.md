@@ -1,6 +1,6 @@
 +++
 title = "Le projet de Recommandations médicales"
-prefix = ""
+description = "Présentation du projet Recommandations Médicales développé pour tous les médecins généralistes"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-06T09:56:35+02:00"
 publishdate = "2021-07-07"

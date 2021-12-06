@@ -168,16 +168,18 @@ document.addEventListener( 'DOMContentLoaded', event => {
     }
   }
 
-  window.onload = () => {
+  window.addEventListener('load', function() {
     mermaid.initialize(MermaidConfig);
-  }
+  })
 </script>
 {{- end -}}
 
 {{- with .Params.slider }}
-<script src="https://cdn.jsdelivr.net/npm/ion-rangeslider/js/ion.rangeSlider.min.js" crossorigin></script>
+<script src="https://cdn.jsdelivr.net/npm/ion-rangeslider/js/ion.rangeSlider.min.js" crossorigin defer></script>
 <script>
+  window.addEventListener('load', function() {
   $('.slider-default').ionRangeSlider()
+  })
 </script>
 
 {{- end -}}

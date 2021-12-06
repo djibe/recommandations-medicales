@@ -81,7 +81,7 @@ Perte de poids (5-10%) ou chirurgie bariatrique (TODO: indications).
 
 <div class="form-group">
   <label for="hba1cInput">HbA<sub>1c</sub> (%, dit NGSP)</label>
-  <input type="number" class="form-alternative" id="hba1cInput" step="0.5" value="7" min="1" max="16" onchange="hba1cIfccInput.value = Math.round((parseInt(this.value, 10) - 2.152) /0.09148); eagInput.value = Math.round(parseInt(this.value, 10) * 28.7 - 46.7)">
+  <input type="number" class="form-alternative" id="hba1cInput" step="0.5" value="7" min="4" max="16" onchange="hba1cIfccInput.value = Math.round((parseInt(this.value, 10) - 2.152) /0.09148); eagInput.value = Math.round(parseInt(this.value, 10) * 28.7 - 46.7)">
   <div class="my-3">
   <label for="hba1cIfccInput">HbA<sub>1c</sub> (mmol/mol, dit IFCC)</label>
   <input type="number" class="form-alternative" id="hba1cIfccInput" value="53" min="1" max="160" onchange="hba1cInput.value = Math.round((parseInt(this.value, 10) * 0.09148 + 2.152) / 0.5) * 0.5">

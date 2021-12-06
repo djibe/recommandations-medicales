@@ -1,16 +1,13 @@
 +++
 title = "Participation aux dépistages des cancers en France"
-prefix = ""
-shortname = ""
-synonyms = []
+description = "Les français et leur taux de participation au dépistage généralisé des cancers"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-08-15T19:54:00+02:00
 publishdate = 2021-08-18
-lastmod = 2021-08-18
+lastmod = 2021-12-06
 specialites = []
 sources = ["SPF"]
 tags = ["cancer"]
-sctid = "11381005"
 draft = false
 chart = true
 image = false
@@ -18,7 +15,17 @@ imageSrc = ""
 todo= ""
 +++
 
-Plus le cancer tue, moins les français participent à sa prévention.
+### Résumé
+
+Plusieurs cancers bénéficient en France d'un dépistage généralisé. Il s'agit de cancers fréquents et graves du sein, du col de l'utérus et colorectal.
+
+Pourtant plus le cancer tue, moins les français participent à sa prévention.  
+Ainsi, le cancer colorectal, responsable de 18.000 décès annuels n'est recherché que par 30% des français.  
+Le taux de participation maximal, de 59%, concerne le cancer du col de l'utérus, responsable pour sa part de 1100 décès annuels.
+
+Pour tous les dépistages, le taux de participation reste très en-dessous des attentes de santé publique.
+
+### Graphique
 
 <div id="chart" class="border alert mb-4"></div>
 

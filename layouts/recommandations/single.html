@@ -60,7 +60,7 @@
         <p class="typography-overline mt-4">Dernières fiches</p>
         {{ range first 6 ( where .Site.RegularPages "Section" "recommandations") }}
         <p class="typography-body-2 font-weight-bold">
-          <a href="{{ .RelPermalink }}">{{ .Title }} <span class="text-muted ml-2" aria-hidden="true">{{ .Lastmod.Format "2 Jan"}}</span></a>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </p>
         {{ end }}
       </div>

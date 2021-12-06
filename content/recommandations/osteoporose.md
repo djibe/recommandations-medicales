@@ -5,20 +5,21 @@ shortname = "Ostéoporose"
 synonyms = ["Ostéoporose post-ménopausique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-04T17:43:41+02:00
-publishdate = 2020-09-04
-lastmod = 2021-12-03
+publishdate = 2021-12-06
+lastmod = 2021-12-06
 specialites = ["rhumatologie"]
 annees = "2018"
-sources = ["SFRhumato", "GRIO"]
+sources = ["SFRhumato", "GRIO", "HAS"]
 tags = ["depistage"]
 anglais = ["Osteoporosis"]
 sctid = "64859006"
 draft = true
+flowchart = true
 slider = true
 image = true
 imageWEBP = true
 imageSrc = "Illustration de l'ostéoporose par scientificanimations.com, CC BY-SA 4.0"
-todo = "summary > BDPM, validité FRAX homme fr, revoir rx lombaires avec ISCD 2015, flowchart, International Osteoporosis Foundation, Prescrire, HAS 2005 chutes, prescription renforcement musculaire, TABS, dose THM prev osseuse, http://aporose.fr/diag_fracture_differentiel.php#nav, fiche"
+todo = "summary > BDPM, revoir rx lombaires avec ISCD 2015, Prescrire, HAS 2005 chutes, prescription renforcement musculaire, TABS, dose THM prev osseuse, http://aporose.fr/diag_fracture_differentiel.php#nav, fiche"
 +++
 
 {{%article-summary%}}
@@ -26,7 +27,7 @@ todo = "summary > BDPM, validité FRAX homme fr, revoir rx lombaires avec ISCD 2
 - Ces recommandations concernent la femme ménopausée
 - Dépister: {{< modal-btn modal-risque-fracture >}}facteurs de risque de fracture{{< /modal-btn >}} et de {{< modal-btn modal-risque-chute >}}chute{{< /modal-btn >}}
 - Ostéodensitométrie après fracture sur traumatisme de basse énergie, ménopause et maigreur ou antécédent parental, corticoïdes... (voir *Examens complémentaires*)
-- Prévention: arrêt tabac, activité physique, vitD ≥ 75 nmol/L, {{< modal-btn modal-calcium >}}calcium{{< /modal-btn >}} 1,2 g/j
+- Prévention: arrêt tabac, activité physique, [vitD]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium >}}calcium{{< /modal-btn >}} 1,2 g/j
 - Voir aussi [traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
@@ -35,7 +36,8 @@ todo = "summary > BDPM, validité FRAX homme fr, revoir rx lombaires avec ISCD 2
 
 Fracture ostéoporotique (ou de fragilité)
 : Fracture survenant à la suite d'un traumatisme de faible énergie (ex. de sa hauteur en marchant). Elle atteint surtout la femme (3/4) et constitue la gravité de la maladie ostéoporotique.
-: Tous les os peuvent être atteints par une fracture ostéoporotique sauf: crâne, face, rachis cervical, 3 premières vertèbres thoraciques, mains et orteils (fractures traumatiques ou tumorales).
+: Tous les os peuvent être atteints par une fracture ostéoporotique sauf:  
+crâne, face, rachis cervical, 3 premières vertèbres thoraciques, mains et orteils (fractures traumatiques ou tumorales).
 : À 1 an: seulement 10% ont eu une ostéodensitométrie et 15% un traitement de l'ostéoporose.
 : Le capital osseux est maximal à 20 ans (génétique, nutritionnel, activité physique), puis diminue de 0,5-1%/an avec aggravation péri-ménopausique chez la femme (1-2%/an) pendant 10 ans. Caractère physiologique et le plus souvent bénin.
 
@@ -60,7 +62,6 @@ FRAX®
 **ESF:** extrémité supérieure du fémur  
 **FESF:** fracture de l'extrémité supérieure du fémur  
 **FRAX®:** {{%lang%}}Fracture Risk Assessment Tool{{%/lang%}} (OMS)  
-**TBS:** {{%lang%}}trabecular bone score{{%/lang%}}  
 **THM:** traitement hormonal de la ménopause
 
 ### Épidémiologie
@@ -73,7 +74,7 @@ L'ostéoporose est responsable d'un lourd fardeau médico-économique:
 3/4 de femmes et 2/3 ont +70 ans.
 - 70.000 fractures vertébrales (2001)
 - 60.000 fractures de l'extrémité supérieure du fémur (ESF, 2001)  
-≥ 55 ans: 23,5% de mortalité (toutes causes confondues) dans l'année qui suit une fracture de l'ESF (*Drees 2016*)
+≥ 55 ans: 23,5% de mortalité (toutes causes confondues) dans l'année qui suit une FESF (*Drees 2016*)
 - 35.000 fractures du poignet (2001)
 
 {{%/collapse%}}
@@ -107,6 +108,8 @@ Examens pour éliminer une ostéoporose secondaire.
 
 ### Bilan biologique
 
+{{%info%}}
+
 - NFS, VS, CRP
 - Créatininémie avec DFGe (CKD-EPI)
 - ASAT, ALAT, GGT, PAL
@@ -114,7 +117,9 @@ Examens pour éliminer une ostéoporose secondaire.
 - Vitamine D
 - Calcémie corrigée, phosphatémie (*COFER*)
 - Électrophorèse des protéines sériques  
-Indications: fracture vertébrale suspecte, fracture pathologique, géodes. Systématique selon le COFER pour éliminer un myélome déminéralisant.
+Indications: fracture vertébrale suspecte, fracture pathologique, géodes.  
+Systématique selon le COFER pour éliminer un myélome déminéralisant.
+{{%/info%}}
 
 Avis spécialisé en cas d'anomalie.
 
@@ -139,8 +144,8 @@ Indications de l'ostéodensitométrie:
   - Insuffisance ovarienne précoce (< 40 ans)
   - Contrôle 3-5 ans après une DXA sans critère de traitement ou apparition de nouveaux facteurs de risque
 - Sujet âgé à {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}}
-- Fracture ostéoporotique (vertébrale ou périphérique sur traumatisme mineur)  
-Sauf crâne, face, rachis cervical, 3 premières vertèbres thoraciques, mains et orteils.
+- Fracture ostéoporotique  
+Vertébrale ou périphérique sur traumatisme mineur.
 - Corticothérapie systémique  
 ≥ 7,5 mg/j d'éq. prednisone ≥ 3 mois.
 - Endocrinopathie ou pathologie déminéralisante  
@@ -159,20 +164,19 @@ Toutefois 50% des fractures surviennent chez des personnes avec T-score > -2,5.
 
 Les mesures sur os arthrosique ou sur fracture vertébrale surestiment la DMO.
 
-L'ostéodensitométrie permet aussi de mesurer le {{%lang%}}Trabecular bone score{{%/lang%}} (TBS) du rachis lombaire mais les capacités prédictives sont moins étudiées.
-
 {{%/collapse%}}
 {{%collapse "Risque de fracture - calcul du FRAX" %}}
 
 ### Calcul du FRAX
 
-Inutile si traitement indiqué d'emblée: {{< modal-btn modal-fracture-severe >}}antécédent de fracture sévère{{< /modal-btn >}}, T-score ≤ -3 au site vertébral et fémoral.
+Inutile si traitement indiqué d'emblée: {{< modal-btn modal-fracture-severe >}}antécédent de fracture sévère{{< /modal-btn >}}, T-score ≤ -3 au site vertébral et fémoral.  
+Validé en France uniquement en cas de ménopause.
 
 {{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" title="Calcul du FRAX® sur le site officiel">}}
 
 ### Décision de traitement selon le FRAX
 
-Le seuil d'intervention dépend de l'âge.
+Le seuil d'intervention dépend de l'âge et la décision de traiter du clinicien.
 
 <div class="border card-body mt-3">
   <label for="age">Âge de la patiente ménopausée</label>
@@ -180,12 +184,14 @@ Le seuil d'intervention dépend de l'âge.
     <input type="text" value="50" id="age" oninput="ageInput.value = this.value">
     <input type="number" class="form-alternative ml-3" id="ageInput" value="50" min="50" max="90">
   </div>
-  <div class="d-flex align-items-center">
+  <div class="d-flex align-items-center mb-4">
     <p class="mb-0">Traiter si FRAX supérieur à</p>
     <output id="decision-frax" class="ml-2 typography-headline-6 badge-secondary p-2">5</output>
+  </div>
+  <small>Dr JB Fron d'après Briot K. 2012</small>
 </div>
 <script>
-  window.onload = () => {
+window.addEventListener('load', function() {
 $(function () {
   const Slider = $('#age');
   const Input = $('#ageInput');
@@ -213,52 +219,53 @@ $(function () {
     let age = Slider.val();
     let str = '';
     switch (age) {
-      case '50': str += 5; break;
-      case '51': str += 5.2; break;
-      case '52': str += 5.4; break;
-      case '53': str += 5.6; break;
-      case '54': str += 5.8; break;
-      case '55': str += 6; break;
-      case '56': str += 6.18; break;
-      case '57': str += 6.36; break;
-      case '58': str += 6.54; break;
-      case '59': str += 6.72; break;
-      case '60': str += 6.9; break;
-      case '61': str += 7.38; break;
-      case '62': str += 7.86; break;
-      case '63': str += 8.34; break;
-      case '64': str += 8.82; break;
-      case '65': str += 9.3; break;
-      case '66': str += 10.04; break;
-      case '67': str += 10.78; break;
-      case '68': str += 11.52; break;
-      case '69': str += 12.26; break;
-      case '70': str += 13; break;
-      case '71': str += 14.2; break;
-      case '72': str += 15.4; break;
-      case '73': str += 16.6; break;
-      case '74': str += 17.8; break;
-      case '75': str += 19; break;
-      case '76': str += 20.6; break;
-      case '77': str += 22.2; break;
-      case '78': str += 23.8; break;
-      case '79': str += 25.4; break;
-      case '80': str += 27; break;
-      case '81': str += 28.6; break;
-      case '82': str += 30.2; break;
-      case '83': str += 31.8; break;
-      case '84': str += 33.4; break;
-      case '85': str += 35; break;
-      case '86': str += 35.2; break;
-      case '87': str += 35.4; break;
-      case '88': str += 35.6; break;
-      case '89': str += 35.8; break;
-      case '90': str += 36; break;
+      case '50': str = 5; break;
+      case '51': str = 5.2; break;
+      case '52': str = 5.4; break;
+      case '53': str = 5.6; break;
+      case '54': str = 5.8; break;
+      case '55': str = 6; break;
+      case '56': str = 6.18; break;
+      case '57': str = 6.36; break;
+      case '58': str = 6.54; break;
+      case '59': str = 6.72; break;
+      case '60': str = 6.9; break;
+      case '61': str = 7.38; break;
+      case '62': str = 7.86; break;
+      case '63': str = 8.34; break;
+      case '64': str = 8.82; break;
+      case '65': str = 9.3; break;
+      case '66': str = 10.04; break;
+      case '67': str = 10.78; break;
+      case '68': str = 11.52; break;
+      case '69': str = 12.26; break;
+      case '70': str = 13; break;
+      case '71': str = 14.2; break;
+      case '72': str = 15.4; break;
+      case '73': str = 16.6; break;
+      case '74': str = 17.8; break;
+      case '75': str = 19; break;
+      case '76': str = 20.6; break;
+      case '77': str = 22.2; break;
+      case '78': str = 23.8; break;
+      case '79': str = 25.4; break;
+      case '80': str = 27; break;
+      case '81': str = 28.6; break;
+      case '82': str = 30.2; break;
+      case '83': str = 31.8; break;
+      case '84': str = 33.4; break;
+      case '85': str = 35; break;
+      case '86': str = 35.2; break;
+      case '87': str = 35.4; break;
+      case '88': str = 35.6; break;
+      case '89': str = 35.8; break;
+      case '90': str = 36; break;
     }
+    str += ' %';
     return decisionElem.html(str);
   });
 });
-}
+})
 </script>
 
 {{%/collapse%}}
@@ -268,7 +275,7 @@ $(function () {
 
 Tout au long de la vie: activité physique, apports vitamino-calciques.
 
-- Arrêt du tabac
+- Arrêt tabac + alcool
 - Soins bucco-dentaires ≥ 1/an (et avant traitement)  
 {{%class%}}Débuter le traitement si risque élevé de fracture à court terme.{{%/class%}}
 - Évaluation gériatrique si {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} ou fragilité
@@ -300,11 +307,11 @@ Avis rhumatologique si T-score > -1.
 - Fracture ostéoporotique non sévère avec T-score ≤ -2 (DMO rachis ou fémur)  
 Avis rhumatologique si T-score > -2 et < -1.
 - Ménopause avec T-score ≤ -3 (DMO rachis ou fémur)
-  - Avis rhumatologique si T-score < -2 et > -3
+  - Avis rhumatologique si T-score entre -2 et -3
   - Utiliser les traitements indiqués pour les fractures non sévères
 {{%/info%}}
 
-Critères de choix du traitement: antécédent de fracture, son type, son ancienneté, l'âge, les autres antécédents, le {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} et la DMO. Avis rhumatologique si besoin.
+Critères de choix du traitement: espérance de vie suffisante, antécédent de fracture, son type, son ancienneté, l'âge, les autres antécédents, le {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} et la DMO. Avis rhumatologique si besoin.
 
 **Objectif minimal:** absence de perte osseuse (perte > 0,03 g/cm² de DMO).  
 **DMO très basse et fracture:** cible T-score > -2,5 (voire -2).
@@ -328,8 +335,6 @@ Critères de choix du traitement: antécédent de fracture, son type, son ancien
       <span>35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois</span></li>
     <li>FESF ou T-score ≤ -3<br>
       <span>Zolédronate 5 mg IV annuel. Seul avec efficacité démontrée sur la FESF.</span></li>
-    <li>Dénosumab<br>
-      <span>60 mg SC tous les 6 mois en relais des BP</span></li>
     </ul>
     </div>
     <div class="collapse" id="div-radio-ttt-vertebral">
@@ -341,8 +346,6 @@ Critères de choix du traitement: antécédent de fracture, son type, son ancien
       <span>35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois</span></li>
     <li>Zolédronate<br>
       <span>5 mg IV annuel</span></li>
-    <li>Dénosumab<br>
-      <span>60 mg SC tous les 6 mois en relais des BP</span></li>
     <li>Raloxifène<br>
       <span>60 mg/j (max 70 ans)</span></li>
     <li>Tériparatide<br>
@@ -363,8 +366,6 @@ Critères de choix du traitement: antécédent de fracture, son type, son ancien
       <span>35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois</span></li>
     <li>Zolédronate<br>
       <span>5 mg IV annuel</span></li>
-    <li>Dénosumab<br>
-      <span>60 mg SC tous les 6 mois en relais des BP</span></li>
     <li>Raloxifène<br>
       <span>60 mg/j. Conditions: femme < 70 ans sans antécédent de fracture non vertébrale, en l'absence de: T-score bas à la hanche, T-score ≤ -3 et risque de chute élevé.</span></li>
     <li>THM<br>
@@ -379,7 +380,7 @@ window.addEventListener('load', function() {
   $('.card-osteoporose .collapse').collapse('hide');
   $(`#div-${this.id}`).collapse('show');
   });
-});
+})
 </script>
 
 **NB.** Chez l'homme, ont l'AMM: alendronate, risédronate, zolédronate et le tériparatide.
@@ -389,11 +390,14 @@ window.addEventListener('load', function() {
 - Dosage des CTX sériques possible entre 3 et 12 mois (marqueurs de la résorption osseuse)
   - Le matin à jeun à ≥ 6 mois d'une fracture
   - Doit être dans ou sous les valeurs normales des femmes non ménopausées. Sinon avis spécialisé.
-- Biphosphonates (BP) et dénosumab  
+- Biphosphonates (BP)  
   - Informer du risque très faible d'*ostéonécrose de la mâchoire*, de *fracture atypique fémorale* et d'uvéite
   - Ne contre-indiquent pas des implants dentaires
-  - Dénosumab: intérêt après traitement par BP car permet un gain conséquent de DMO
-  - Dénosumab: rebond de perte osseuse à l'arrêt, poursuivre par BP 6-12 mois
+  - Biphosphonates voie orale : ≥ 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d’eau du robinet (ou peu minéralisée)
+- Dénosumab
+  - Utilisé seulement en relais des BP car permet un gain conséquent de DMO (*HAS 2019*)
+  - Informer du risque très faible d'*ostéonécrose de la mâchoire*, de *fracture atypique fémorale* et d'uvéite
+  - Rebond de perte osseuse à l'arrêt, poursuivre par BP 6-12 mois
 - Raloxifène  
 Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture périphérique peu élevé en l'absence de: T-score ≤ -3 et {{< modal-btn modal-risque-chute >}}risque de chute élevé{{< /modal-btn >}}.
 - THM  
@@ -429,9 +433,45 @@ Envisager si les conditions sont remplies:
 Réévaluation avec ostéodensitométrie 2 ans après l'arrêt du traitement.
 
 {{%/collapse%}}
+{{%collapse "Conduite à tenir devant une ostéoporose" "show" %}}
+
+{{< mermaid title="Dépistage de l'ostéoporose en l'absence d'antécédent de fracture. JB Fron d'après SFRhumato 2018 et HAS lombalgie 2019" >}}
+graph TB
+  menopause["<b>Ménopause et &ge; 1 parmi:</b><br>- Fracture fragilité chez parent<br>- IMC &lt; 19<br>- Ménopause précoce<br>- FRAX &gt; seuil pour l'âge<br>- Contrôle à 3-5 ans de DXA sans ttt<hr>- Sujet âgé à risque de chute<br>- Corticothérapie prolongée<br>- Endocrinopathie ou<br>pathologie déminéralisante"]
+  style menopause stroke:#4150f5, stroke-width:1px
+    menopause --> DXA("- Ostéodensitométrie<br>T-score ?<br>- Prendre FRAX en compte")
+      DXA -- "&le; -2,5" --> Ostéoporose --> prev("- Mesures de prévention<br>- Bilan biologique<br>- T-score ?")
+      style Ostéoporose stroke:#4150f5, stroke-width:1px
+        prev -- "&le; -3" --> traitement("<b>Traitement osseux</b><hr>Biphosphonate,<br>raloxifène ou THM")
+        prev -- "Entre -2 et -3" --> avis(Avis rhumatologique)
+      DXA -- "Entre -2,5 et -1" --> osteopenie(Ostéopénie) --> prevention("- Mesures de prévention<br>- Bilan biologique")
+  perteTaille["- Perte de taille<br>&ge; 2 cm au long cours<br>ou &ge; 4 cm comparée à 20 ans<br>- Rachialgies après 55 ans<br>ou ménopause<br>- Corticoïdes chroniques"] --> radio(Radio dorso-lombaires) -- Fracture vertébrale --> x(Graphique suivant)
+  style perteTaille stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
+> **THM** = traitement hormonal de la ménopause; **ttt** = traitement
+
+---
+
+{{< mermaid title="Prise en charge de l'ostéoporose fracturaire de la femme. JB Fron d'après SFRhumato 2018" >}}
+graph TB
+  Fracture
+  style Fracture stroke:#4150f5, stroke-width:1px
+  Fracture ==> bilan("- Facteurs de risque (chute, fracture)<br>- Bilan différentiel<br>- Mesures de prévention<br>- Ostéodensitométrie")
+    bilan ==> severe("<b>Fracture sévère ?</b><hr>- Extrem sup fémur/humérus<br>- Vertèbre<br>- Pelvis, bassin, sacrum<br>- Diaphyse fémorale<br>- Fémur distal<br>- 3 côtes simultanées<br>- Tibia proximal")
+      severe -- Oui --> traitement("<b>T-score &le; -1</b><br>Alendronate<br>ou risédronate<hr><b>T-score &gt; -1</b><br>Avis rhumatologique<hr><b>FESF ou T-score &le; -3</b><br>Zolédronate IV") -- 3 ans --> DXA("Ostéodensitométrie<br>et avis rhumatologique")
+      severe -- Oui vertébrale --> traitementVertebre("<b>T-score &le; -1</b><br>Biphosphonate<br>raloxifène ou THM<hr><b>T-score &gt; -1</b><br>Avis rhumatologique") -- 3 ans --> DXA
+      severe -- Non sévère --> nonSevere("Tenir compte du FRAX<hr><b>T-score &le; -2</b><br>Biphosphonate,<br>raloxifène ou THM<hr><b>T-score entre -2 et -1</b><br>Avis rhumatologique") -- 3 ans --> DXA
+    bilan -- Biologie anormale --> avisSpe
+  Fracture -- Non ostéoporotique --> nonOsteoporotique("- Crâne, face<br>- Rachis cervical + T1-T3<br>- Mains et orteils") --> etiologique(Bilan étiologique) --> avisSpe(Avis rhumatologique)
+{{< /mermaid >}}
+
+> **FESF** = fracture de l'extrémité supérieure du fémur
+
+{{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
-- [Associations des patients](http://www.grio.org/espace-gp/association-patients-osteoporose.php)
+- [Associations des patients: Aflar](https://www.aflar.org/)
 - Activité physique quasi-quotidienne  
 [GRIO. Exercices physiques utiles en cas d'ostéoporose (PDF)](http://www.grio.org/documents/page85/restez-actifs.pdf)
 - Apports en calcium  
@@ -451,11 +491,13 @@ Réévaluation avec ostéodensitométrie 2 ans après l'arrêt du traitement.
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
+- [HAS. Les médicaments de l'ostéoporose. Bon usage du médicament. Mai 2019.](https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-losteoporose)
 - [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l’ostéoporose post-ménopausique. Revue du Rhumatisme. Volume 85. Issue 5. 2018.](https://doi.org/10.1016/j.rhum.2018.02.005)
 - [Dagan N et al. External validation and comparison of three prediction tools for risk of osteoporotic fractures using data from population based electronic health records: retrospective cohort study BMJ 2017; 356 :i6755.](https://doi.org/10.1136/bmj.i6755)
 - [Briot K et al. Risque des femmes de même âge ayant fait une fracture. Revue du Rhumatisme 2012. (PDF)](http://www.grio.org/documents/page500/boite-a-outils-osteoporose500-1401218558.pdf)
 - [World Health Organization. Assessment of fracture risk and its application to screening for postmenopausal osteoporosis : report of a WHO study group. World Health Organization. 1994.](https://apps.who.int/iris/handle/10665/39142)
 - [GRIO. Site officiel](http://www.grio.org/)
+- [International Osteoporosis Foundation](https://www.osteoporosis.foundation/)
 - [COFER. Ostéopathies fragilisantes. Item 128 UE 6.](http://www.lecofer.org/item-cours-1-7-0.php)
 
 ### À lire

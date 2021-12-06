@@ -1,12 +1,10 @@
 +++
 title = "Aides à l'installation du médecin généraliste"
-prefix = ""
-shortname = "Aides installation"
-synonyms = []
+description = "Les aides disponibles pour l'installation des médecins généralistes dans les déserts médicaux"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-11-17T20:00:00+02:00
 publishdate = 2021-11-22
-lastmod = 2021-11-22
+lastmod = 2021-12-06
 sources = ["PAPS", "Ameli Pro", "ARS"]
 tags = []
 draft = false
