@@ -13,20 +13,21 @@ sources = ["SFRhumato", "GRIO", "HAS"]
 tags = ["depistage"]
 anglais = ["Osteoporosis"]
 sctid = "64859006"
-draft = true
+draft = false
 flowchart = true
 slider = true
 image = true
 imageWEBP = true
 imageSrc = "Illustration de l'ostéoporose par scientificanimations.com, CC BY-SA 4.0"
-todo = "summary > BDPM, revoir rx lombaires avec ISCD 2015, Prescrire, HAS 2005 chutes, prescription renforcement musculaire, TABS, dose THM prev osseuse, http://aporose.fr/diag_fracture_differentiel.php#nav, fiche"
+todo = "BDPM, revoir rx lombaires avec ISCD 2015, Prescrire, HAS 2005 chutes, prescription renforcement musculaire, TABS, dose THM prev osseuse, cp calcium/associés"
 +++
 
 {{%article-summary%}}
 
 - Ces recommandations concernent la femme ménopausée
 - Dépister: {{< modal-btn modal-risque-fracture >}}facteurs de risque de fracture{{< /modal-btn >}} et de {{< modal-btn modal-risque-chute >}}chute{{< /modal-btn >}}
-- Ostéodensitométrie après fracture sur traumatisme de basse énergie, ménopause et maigreur ou antécédent parental, corticoïdes... (voir *Examens complémentaires*)
+- 2 situations: fracturée ou dépistage (voir les arbres décisionnels)
+- Choix du traitement: voir *Traitements spécifiques*
 - Prévention: arrêt tabac, activité physique, [vitD]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium >}}calcium{{< /modal-btn >}} 1,2 g/j
 - Voir aussi [traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
 
@@ -294,6 +295,7 @@ Tout au long de la vie: activité physique, apports vitamino-calciques.
   - Femme ménopausée ≥ 50 ans: cible 1-1,2 g/j
   - {{< modal-btn modal-calcium >}}Teneur en calcium des aliments{{< /modal-btn >}}
   - Évaluation des apports par [questionnaire du GRIO](http://www.grio.org/espace-gp/calcul-apport-calcique-quotidien.php)
+  - Apports lactés quotidiens jusqu'à 3 ans
 
 {{%/collapse%}}
 {{%collapse "Traitements spécifiques anti-ostéoporotiques: biphosphonates, raloxifène, dénosumab" %}}
@@ -325,54 +327,69 @@ Critères de choix du traitement: espérance de vie suffisante, antécédent de 
     <label for="radio-ttt-vertebral" class="chip chip-action chip-choice">Fracture vertébrale</label>
     <input type="radio" id="radio-ttt-nonsevere" name="chip-traitement" class="d-none">
     <label for="radio-ttt-nonsevere" class="chip chip-action chip-choice">Fracture non sévère/Prévention primaire</label>
+    <input type="radio" id="radio-cortico" name="chip-traitement" class="d-none">
+    <label for="radio-cortico" class="chip chip-action chip-choice">Corticothérapie</label>
     <div class="collapse show" id="div-radio-ttt-severe">
-    <ul>
-    <li>Indiqué si T-score ≤ -1<br>
-    Avis rhumatologique si T-score > -1.</li>
-    <li>Alendronate<br>
-      <span>70 mg/sem ou 10 mg/j</span></li>
-    <li>Risédronate<br>
-      <span>35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois</span></li>
-    <li>FESF ou T-score ≤ -3<br>
-      <span>Zolédronate 5 mg IV annuel. Seul avec efficacité démontrée sur la FESF.</span></li>
-    </ul>
-    </div>
-    <div class="collapse" id="div-radio-ttt-vertebral">
-    <ul>
-    <li>Indiqué si T-score ≤ -1</li>
-    <li>Alendronate<br>
-      <span>70 mg/sem ou 10 mg/j</span></li>
-    <li>Risédronate<br>
-      <span>35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois</span></li>
-    <li>Zolédronate<br>
-      <span>5 mg IV annuel</span></li>
-    <li>Raloxifène<br>
-      <span>60 mg/j (max 70 ans)</span></li>
-    <li>Tériparatide<br>
-      <span>20 µg/j (&ge; 2 fractures vertébrales). Doit être prolongé par BP ou dénosumab.</span></li>
-    <li>THM<br>
-      <span>Entre 50 et 60 ans si syndrome climatérique invalidant</span></li>
-    </ul>
-    </div>
-    <div class="collapse" id="div-radio-ttt-nonsevere">
-    <ul>
-    <li>Indiqué en fracture non sévère si T-score ≤ -2<br>
-    Avis rhumatologique si T-score > -2 et < -1.</li>
-    <li>Indiqué si ménopause avec T-score ≤ -3<br>
-    Avis rhumatologique si T-score > -3 et < -2.</li>
-    <li>Alendronate<br>
-      <span>70 mg/sem ou 10 mg/j</span></li>
-    <li>Risédronate<br>
-      <span>35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois</span></li>
-    <li>Zolédronate<br>
-      <span>5 mg IV annuel</span></li>
-    <li>Raloxifène<br>
-      <span>60 mg/j. Conditions: femme < 70 ans sans antécédent de fracture non vertébrale, en l'absence de: T-score bas à la hanche, T-score ≤ -3 et risque de chute élevé.</span></li>
-    <li>THM<br>
-      <span>Entre 50 et 60 ans si syndrome climatérique invalidant</span></li>
-    </ul>
-    </div>
-  </div>
+
+- Indiqué si T-score ≤ -1  
+{{%class "x"%}}Avis rhumatologique si T-score > -1.{{%/class%}}
+- Alendronate  
+{{%class "x"%}}70 mg/sem ou 10 mg/j{{%/class%}}
+- Risédronate  
+{{%class "x"%}}35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois{{%/class%}}
+- FESF ou T-score ≤ -3  
+{{%class "x"%}}Zolédronate 5 mg IV annuel. Seul avec efficacité démontrée sur la FESF.{{%/class%}}
+
+</div>
+<div class="collapse" id="div-radio-ttt-vertebral">
+
+- Indiqué si T-score ≤ -1
+- Alendronate  
+{{%class "x"%}}70 mg/sem ou 10 mg/j{{%/class%}}
+- Risédronate  
+{{%class "x"%}}35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois{{%/class%}}
+- Zolédronate  
+{{%class "x"%}}5 mg IV annuel{{%/class%}}
+- Raloxifène  
+{{%class "x"%}}60 mg/j (max 70 ans){{%/class%}}
+- Tériparatide  
+{{%class "x"%}}20 µg/j (≥ 2 fractures vertébrales). Doit être prolongé par BP ou dénosumab.{{%/class%}}
+- THM  
+{{%class "x"%}}Entre 50 et 60 ans si syndrome climatérique invalidant{{%/class%}}
+
+</div>
+<div class="collapse" id="div-radio-ttt-nonsevere">
+
+- Indiqué en fracture non sévère si T-score ≤ -2 (-3 selon *HAS 2019*)  
+Avis rhumatologique si T-score > -2 et < -1.
+- Indiqué si ménopause avec T-score ≤ -3  
+Avis rhumatologique si T-score > -3 et < -2.
+- Alendronate  
+{{%class "x"%}}70 mg/sem ou 10 mg/j{{%/class%}}
+- Risédronate  
+{{%class "x"%}}35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois{{%/class%}}
+- Zolédronate  
+{{%class "x"%}}5 mg IV annuel{{%/class%}}
+- Raloxifène  
+{{%class "x"%}}60 mg/j. Conditions: femme < 70 ans sans antécédent de fracture non vertébrale, en l'absence de: T-score bas à la hanche, T-score ≤ -3 et risque de chute élevé.{{%/class%}}
+- THM  
+{{%class "x"%}}Entre 50 et 60 ans si syndrome climatérique invalidant{{%/class%}}
+
+</div>
+<div class="collapse" id="div-radio-cortico">
+
+En cas de corticothérapie systémique active (≥ 7,5 mg/j d'éq. prednisone ≥ 3 mois):
+
+- Indiqué si T-score ≤ -1,5 sur ≥ 1 site (*HAS 2019*)
+- Risédronate  
+{{%class "x"%}}35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois{{%/class%}}
+- Zolédronate  
+{{%class "x"%}}5 mg IV annuel{{%/class%}}
+- Tériparatide  
+{{%class "x"%}}20 µg/j (≥ 2 fractures vertébrales présentes).{{%/class%}}
+
+</div>
+</div>
 </div>
 <script>
 window.addEventListener('load', function() {
@@ -443,8 +460,9 @@ graph TB
       DXA -- "&le; -2,5" --> Ostéoporose --> prev("- Mesures de prévention<br>- Bilan biologique<br>- T-score ?")
       style Ostéoporose stroke:#4150f5, stroke-width:1px
         prev -- "&le; -3" --> traitement("<b>Traitement osseux</b><hr>Biphosphonate,<br>raloxifène ou THM")
-        prev -- "Entre -2 et -3" --> avis(Avis rhumatologique)
-      DXA -- "Entre -2,5 et -1" --> osteopenie(Ostéopénie) --> prevention("- Mesures de prévention<br>- Bilan biologique")
+        prev -- "Entre -2 et -3" --> avis("Traitement osseux si:<br>- FRAX dépasse le seuil<br>- ou corticothérapie<br>avec T-score &le; -1,5<hr>Avis rhumatologique")
+      DXA -- "Entre -2,5 et -1" --> osteopenie(Ostéopénie) --> prevention("- Mesures de prévention<br>- Bilan biologique") -. "-2,5 à -2" .-> avis
+      prevention -. "&le; -1,5 et corticoïdes".-> avis
   perteTaille["- Perte de taille<br>&ge; 2 cm au long cours<br>ou &ge; 4 cm comparée à 20 ans<br>- Rachialgies après 55 ans<br>ou ménopause<br>- Corticoïdes chroniques"] --> radio(Radio dorso-lombaires) -- Fracture vertébrale --> x(Graphique suivant)
   style perteTaille stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
@@ -453,20 +471,21 @@ graph TB
 
 ---
 
-{{< mermaid title="Prise en charge de l'ostéoporose fracturaire de la femme. JB Fron d'après SFRhumato 2018" >}}
+{{< mermaid title="Prise en charge de l'ostéoporose fracturaire de la femme. JB Fron d'après SFRhumato 2018 et HAS 2019 BUM ostéoporose" >}}
 graph TB
-  Fracture
-  style Fracture stroke:#4150f5, stroke-width:1px
-  Fracture ==> bilan("- Facteurs de risque (chute, fracture)<br>- Bilan différentiel<br>- Mesures de prévention<br>- Ostéodensitométrie")
+  fracture[Fracture osseuse]
+  style fracture stroke:#4150f5, stroke-width:1px
+  fracture ==> bilan("- Facteurs de risque (chute, fracture)<br>- Bilan différentiel<br>- Mesures de prévention<br>- Ostéodensitométrie")
     bilan ==> severe("<b>Fracture sévère ?</b><hr>- Extrem sup fémur/humérus<br>- Vertèbre<br>- Pelvis, bassin, sacrum<br>- Diaphyse fémorale<br>- Fémur distal<br>- 3 côtes simultanées<br>- Tibia proximal")
       severe -- Oui --> traitement("<b>T-score &le; -1</b><br>Alendronate<br>ou risédronate<hr><b>T-score &gt; -1</b><br>Avis rhumatologique<hr><b>FESF ou T-score &le; -3</b><br>Zolédronate IV") -- 3 ans --> DXA("Ostéodensitométrie<br>et avis rhumatologique")
-      severe -- Oui vertébrale --> traitementVertebre("<b>T-score &le; -1</b><br>Biphosphonate<br>raloxifène ou THM<hr><b>T-score &gt; -1</b><br>Avis rhumatologique") -- 3 ans --> DXA
+      severe -- Oui vertébrale --> traitementVertebre("<b>T-score &le; -1</b><br>Biphosphonate<br>raloxifène ou THM<br>ou tériparatide<hr><b>T-score &gt; -1</b><br>Avis rhumatologique") -- 3 ans --> DXA
       severe -- Non sévère --> nonSevere("Tenir compte du FRAX<hr><b>T-score &le; -2</b><br>Biphosphonate,<br>raloxifène ou THM<hr><b>T-score entre -2 et -1</b><br>Avis rhumatologique") -- 3 ans --> DXA
     bilan -- Biologie anormale --> avisSpe
-  Fracture -- Non ostéoporotique --> nonOsteoporotique("- Crâne, face<br>- Rachis cervical + T1-T3<br>- Mains et orteils") --> etiologique(Bilan étiologique) --> avisSpe(Avis rhumatologique)
+  fracture -- Non ostéoporotique --> nonOsteoporotique("- Crâne, face<br>- Rachis cervical + T1-T3<br>- Mains et orteils") --> etiologique(Bilan étiologique) --> avisSpe(Avis rhumatologique)
 {{< /mermaid >}}
 
-> **FESF** = fracture de l'extrémité supérieure du fémur
+> **FESF** = fracture de l'extrémité supérieure du fémur  
+**NB.** Discordance entre SFRhumato et HAS en fracture non sévère: indication de traitement si T-score ≤ -2 (-3 pour la *HAS*)
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}

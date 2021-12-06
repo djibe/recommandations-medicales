@@ -392,6 +392,11 @@ article {
   .alert li {
     color: #424242;
   }
+
+  figcaption {
+    margin: auto;
+    max-width: 70ch;
+  }
 }
 
 .projet {
