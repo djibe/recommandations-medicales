@@ -106,7 +106,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 | DIU         | 0        | LNG              | Donasert, Jaydess, Kyleena, Mirena |
 {{< /table >}}
 
-> **EE:** éthinyl-estradiol; **gén:** générique; **LNG:** lévonorgestrel; **NR:** non remboursé
+> **EE** = éthinyl-estradiol; **gén** = générique; **LNG** = lévonorgestrel; **NR** = non remboursé
 
 Les générations de pilules œstroprogestatives correspondent à leur date de mise sur le marché (P3: desogestrel, gestodène et norgestimate). Utiliser LNG et norgestimate en première intention.  
 Intérêt de présenter les contraceptions par groupes d'efficacité (plutôt que par nombre de grossesses).
