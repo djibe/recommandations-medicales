@@ -246,6 +246,7 @@ Traitement de la dénutrition de l'adulte.
 - Traitement étiologique
 - Évaluation diététique
 - Soins bucco-dentaires et de la langue
+- Lutte contre la polymédication
 - Enrichir l'alimentation
   - Cible énergétique 30-40 kcal/kg/j
   - Cible protéique 1,2-1,5 g/kg/j

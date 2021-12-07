@@ -15,7 +15,7 @@ anglais = ["Malignant neoplasm of breast "]
 sctid = "254837009"
 draft = false
 image = true
-imageSrc = "Le cancer du sein - Illustration par Freepik"
+imageSrc = "Le cancer du sein, illustration par Freepik"
 todo = "revoir ttt > gg sentinelle, algorithme 2 et 3, EI hormonothérapie, perruque InCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e"
 +++
 
@@ -312,6 +312,10 @@ TSH régulière.
 - [InCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
 - [InCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. Octobre 2017.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
 - [HAS. Dépistage et prévention du cancer du sein. Février 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
+
+### À lire
+
+[InCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. Octobre 2021.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)
 
 {{% /collapse %}}
 {{% modal title="Score d'Eisinger et consultation génétique" id="modal-eisinger"%}}

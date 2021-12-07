@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2021-11-25"
+lastmod = "2021-12-07"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESH", "ESC"]
@@ -16,7 +16,7 @@ sctid = "38341003"
 draft = false
 image = true
 imageSrc = "Illustration de l'hypertension artérielle par vectorjuice / Freepik"
-todo = "https://www.sfhta.eu/wp-content/uploads/2021/12/Guidelines-mesure-PA-traduites-Fr-23-11-2021.pdf, modale automesure, A LIRE, Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, hypotension orthostatique, ESC 2018 tableau 4+19 - src157"
+todo = "modale automesure, A LIRE, Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, hypotension orthostatique, ESC 2018 tableau 4+19 - src157"
 +++
 
 Ces recommandations concernent l'adulte ≥ 18 ans.
@@ -67,9 +67,9 @@ Dépistage rapproché ≥ 50 ans.
 
 4 situations après la réalisation des mesures standardisées et au domicile (AMT et/ou MAPA):
 
-1. Normotendu  
+1. Normotension  
 Pressions au cabinet et ambulatoires normales. Rythme de surveillance selon le tableau ci-dessus.
-2. Hypertension "permanente"  
+2. Hypertension permanente  
 Hypertension au cabinet et au domicile. Traitement selon tableau ci-dessus.
 3. Hypertension blouse blanche (15-25%)  
 Hypertension au cabinet et absente au domicile. RHD et dépistage annuel. Envisager un traitement en {{%modal-btn "modal-rcv"%}}risque cardiovasculaire élevé ou très élevé{{%/modal-btn%}}

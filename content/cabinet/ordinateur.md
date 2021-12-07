@@ -14,7 +14,7 @@ sctid = ""
 draft = true
 image = false
 imageSrc = ""
-todo= "Intel 10105"
+todo= "Intel 10105, webcam creative live! cam sync 1080p 50€"
 +++
 
 L'ordinateur (Mac ou PC) est essentiel au sein du cabinet afin de gérer à long terme le suivi des patients. Il permet également l'accès aux outils Ameli Pro. Bref, il est vital. Et pourtant, sans aucune connaissance, on vous vendra ce qui rapporte, pas ce dont vous avez besoin.

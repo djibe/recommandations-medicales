@@ -6,7 +6,7 @@ synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-06-21T10:56:00+02:00
 publishdate = 2021-06-29
-lastmod = 2021-11-18
+lastmod = 2021-12-07
 specialites = ["pneumologie"]
 annees = "2021"
 sources = ["GINA", "ERS", "SPLF", "HAS"]
@@ -16,7 +16,7 @@ sctid = "195967001"
 draft = false
 image = true
 imageSrc = "Illustration de l'asthme par brgfx / Freepik"
-todo = "doses Symbicort turbuhaler, GINA 2021 p21, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique"
+todo = "Applis Asthm'Activ et Effic'Asthme, doses Symbicort turbuhaler, GINA 2021 p21, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique"
 +++
 
 {{%article-summary%}}
@@ -325,21 +325,24 @@ Confirmer le diagnostic avant de démarrer un traitement (*GINA 2019*), puis ins
 
 ### Mesures générales
 
-- Suivi tous les 3 à 12 mois
-- Suivi spécialisé quand asthme non contrôlé, exacerbations répétées (> 2/an) ou patient fumeur  
-Centre pneumologique spécialisé quand asthme sévère non contrôlé.
+- Suivi
+  - tous les 3 à 12 mois
+  - Spécialisé quand asthme non contrôlé, exacerbations répétées (> 2/an) ou patient fumeur
+  - En centre spécialisé quand asthme sévère non contrôlé
 - **Maîtrise de l'asthme**
   - Sevrage tabagique total
   - Et toutes les mesures du *Contrôle de l'asthme* (voir partie dédiée plus haut)
-- **{{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous** (voir *Stratégie de traitement de l'asthme selon GINA*)  
-Même si BPCO associée.
-- Toujours disposer de {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} de secours
-- Contrôle du poids si surpoids
-- Activité physique quotidienne et traitement adapté si bronchoconstriction d'effort
-- Déconditionnement à l'exercice: réhabilitation respiratoire en SSR
+  - **{{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous** (voir *Stratégie de traitement de l'asthme selon GINA*)  
+  Même si BPCO associée.
+  - Toujours disposer de {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} de secours
+  - [Carte du patient asthmatique](https://asthme-allergies.org/carte-asthme-agir/)
+  - Éducation thérapeutique: les [Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/)
+- Mesures hygiéno-diététiques
+  - Contrôle du poids si surpoids
+  - Activité physique quotidienne et traitement adapté si bronchoconstriction d'effort
+  - Déconditionnement à l'exercice: réhabilitation respiratoire en SSR
 - Traitements à éviter  
 Bêtabloquants de façon relative, aspirine et AINS si Hypersensibilité.
-- Éducation thérapeutique: les [Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/)
 - Asthme professionnel  
 Déclarer la maladie professionnelle, médecin du travail, reclassement, RQTH.
 - [HAS guide patient: vivre avec un asthme (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/guide_patient-asthme.pdf)

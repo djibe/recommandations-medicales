@@ -6,7 +6,7 @@ synonyms = ["Ostéoporose post-ménopausique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-04T17:43:41+02:00
 publishdate = 2021-12-06
-lastmod = 2021-12-06
+lastmod = 2021-12-07
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "GRIO", "HAS"]
@@ -380,7 +380,7 @@ Avis rhumatologique si T-score > -3 et < -2.
 
 En cas de corticothérapie systémique active (≥ 7,5 mg/j d'éq. prednisone ≥ 3 mois):
 
-- Indiqué si T-score ≤ -1,5 sur ≥ 1 site (*HAS 2019*)
+- Indiqué si T-score ≤ -1,5 sur ≥ 1 site (fémoral ou vertébral, *HAS 2019*)
 - Risédronate  
 {{%class "x"%}}35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois{{%/class%}}
 - Zolédronate  

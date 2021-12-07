@@ -37,18 +37,17 @@ Pour les garçons de moins de 18 ans, la prise en charge relève de psychologue/
 
 {{%collapse "Définition" %}}
 
-### Dysfonction érectile (DE)
-
-Incapacité persistante ou répétée à obtenir/maintenir une érection suffisante pour permettre une activité sexuelle satisfaisante **durant plus de 3 mois**.  
+Dysfonction érectile (DE)
+: Incapacité persistante ou répétée à obtenir/maintenir une érection suffisante pour permettre une activité sexuelle satisfaisante **durant plus de 3 mois**.  
 S'y ajoute le retentissement psychologique du patient/couple (DSM IV).
 
-{{< table title="Prévalence de la dysfonction érectile selon l'âge." >}}
-Âge  |Prévalence
-:---:|:---:
+{{< table title="Prévalence de la dysfonction érectile selon l'âge" >}}
+Âge      | Prévalence
+:-------:|:---:
 18-39 ans|1-10%
 40-59 ans|2-30%
 60-69 ans|20-40%
-70 ans|50-75%
+70 ans   |50-75%
 {{< /table >}}
 
 ### Facteurs de risque indépendants de l'âge
@@ -57,43 +56,43 @@ S'y ajoute le retentissement psychologique du patient/couple (DSM IV).
 La DE atteint 50% des diabétiques. Le risque est multiplié par 4,5 et le trouble survient 10 à 15 ans plus tôt.  
 La DE est l'indicateur le plus fiable de l’installation des complications viscérales et vasculaires.
 **40% arrêtent le traitement antidiabétique pensant améliorer la DE**
-- Pathologie cardio-vasculaire
+- Pathologie cardiovasculaire
 - Troubles anxio-dépressifs
 - Hypertrophie bénigne de prostate
 - Psychotropes
 
 **NB.** L'association déficit androgénique - dysfonction érectile n'est pas clairement établi.
 
-La DE est un indicateur de comorbidité avec prépondérance cardio-vasculaire et altération de la qualité de vie.
+La DE est un marqueur de **risque cardiovasculaire** et altération de la qualité de vie *[Dong 2011](https://pubmed.ncbi.nlm.nih.gov/21920268/)*.
 
 {{%/collapse%}}
+{{%collapse "Clinique" %}}
 
-{{%collapse "Interrogatoire" %}}
+### interrogatoire**
 
 **La dysfonction érectile est un diagnostic d'interrogatoire**.
 
-**En premier recours, réunir les éléments indispensables à la compréhension du contexte de vie sans se perdre dans les détails.**
+En premier recours, réunir les éléments indispensables à la compréhension du contexte de vie sans se perdre dans les détails.
 
-{{%/collapse%}}
-
-{{%collapse "Examen clinique" %}}
+### Examen clinique
 
 Examen clinique annuel en cas de DE avec :
 
 - Poids, taille, IMC, tour de taille
 - Uro-génital  
 testicules (taille, consistance), pénis (prépuce, frein, phimosis, déformation, taille, mycose), toucher rectal après 50 ans, gynécomastie  
-- Cardio-vasculaire  
+- Cardiovasculaire  
 Pression artérielle, pouls périphériques, souffles vasculaires.  
 Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ({{< scores/heartscore >}})
 - Neurologique  
 Centré sur ROT, RCP, sensibilité des pieds, anesthésie en selle et des membres inférieurs, hypotension orthostatique.
 
 {{%/collapse%}}
-
 {{%collapse "Examens complémentaires" %}}
 
 ### Bilan biologique systématique
+
+{{%info%}}
 
 - NFS
 - ionogramme, créatininémie et CKD-EPI
@@ -103,6 +102,7 @@ Centré sur ROT, RCP, sensibilité des pieds, anesthésie en selle et des membre
 - PSA si > 50 ans (ou 45 si ATCD familiaux)
 - Testostéronémie totale  
 À doser le matin entre 8h et 11h
+{{%/info%}}
 
 > Si testostérone < 5,2 nmol/L: recontrôler 1 mois après avec dosage de LH + prolactine
 
@@ -117,18 +117,17 @@ Systématique en présence d'au moins 3 facteurs de risque cardiovasculaires (en
 En cas de suspicion de neuropathie périphérique (diabète ancien, alcoolisme chronique).
 
 {{%/collapse%}}
-
 {{%collapse "Traitement de la dysfonction érectile" %}}
 
-Prise en charge par le médecin généraliste quand :  
-« homme avec partenaire intéressée par l’amélioration de la sexualité du couple et si possible avec érections spontanées conservées ».
+Prise en charge par le médecin généraliste quand:  
+<< homme avec partenaire intéressée par l’amélioration de la sexualité du couple et si possible avec érections spontanées conservées >>.
 
-il doit être adapté à la demande réelle du patient et du couple et selon la motivation pour éventuel traitement.  
+Il doit être adapté à la demande réelle du patient et du couple et selon la motivation pour éventuel traitement.  
 Traitements expliqués et discutés avec le patient.
 
 ### Information sexuelle
 
-> "Rassurer, dédramatiser de façon adaptée à l’âge et la demande."
+> << Rassurer, dédramatiser de façon adaptée à l’âge et la demande. >>
 
 Explications sur la physiologie érection, part psychologique (anxiété de performance), prévalence de la dysfonction avec l'âge, sexualité féminine.  Importance des préliminaires.
 
@@ -154,7 +153,6 @@ Exemple : 2 séances d'endurance, 2 séances de renforcement et 1 activité en g
 ### Adaptation de l'ordonnance
 
 {{%/collapse%}}
-
 {{%collapse "Suivi" %}}
 
 Réévaluation systématique sous 1-2 mois :  
@@ -178,10 +176,9 @@ ET suivi spécialisé de maladie chronique
 Examen clinique de suivi annuel.
 
 {{%/collapse%}}
-
 {{%collapse "Sources" %}}
 
-- [Allen MS. Physical activity as an adjunct treatment for erectile dysfunction. Nat Rev Urol. 2019;16(9):553-562. doi: 10.1038/s41585-019-0210-6. PMID: 31239541](https://www.ncbi.nlm.nih.gov/pubmed/31239541)
+- [Allen MS. Physical activity as an adjunct treatment for erectile dysfunction. Nat Rev Urol. 2019;16(9):553-562. doi: 10.1038/s41585-019-0210-6. PMID: 31239541.](https://www.ncbi.nlm.nih.gov/pubmed/31239541)
 - [Colson MH et al. Démarche diagnostique et prise en charge du patient souffrant de dysfonction érectile, actualisation et consignes pratiques. Sexologies. 1 janv 2018;27(1):23‑30.](https://www.em-consulte.com/en/article/1198573)
 - [Colson M.H et al. La dysfonction érectile du diabétique. Sexologies Janvier 2018.](https://www.sciencedirect.com/science/article/pii/S1158136018300112?via%3Dihub)
 - [Nehra A et al. The Princeton III Consensus Recommendations for the Management of Erectile Dysfunction and Cardiovascular Disease. Mayo Clinic Proceedings. 1 août 2012;87(8):766‑78.](https://www.mayoclinicproceedings.org/article/S0025-6196(12)00635-0/abstract)
