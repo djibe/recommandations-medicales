@@ -16,7 +16,7 @@ sctid = "230690007"
 draft = false
 image = true
 imageSrc = "Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
-todo = "carnet automesure, rééduc, bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104"
+todo = "rééduc, bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104"
 +++
 
 {{%article-summary%}}
@@ -115,7 +115,7 @@ Si le patient appelle au cabinet, transférer l'appel au {{<phone>}}15{{</phone>
   - SpO<sub>2</sub>
   - Glycémie capillaire
   - ECG si disponible
-  - {{< modal-btn modal-score-nihss >}}Score NIHSS{{< /modal-btn >}}
+  - [Score NIHSS](https://www.sfmu.org/calculateurs/NIHSS.html)
   - Préciser si contre-indications à la thrombolyse (voir chap. suivant *CI à la thrombolyse*)
 - Personnes à contacter
 {{%/warning%}}
@@ -281,11 +281,6 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 - [HAS. Accident vasculaire cérébral :  prise en charge précoce. Mai 2009.](https://www.has-sante.fr/jcms/c_830203/fr/accident-vasculaire-cerebral-prise-en-charge-precoce-alerte-phase-prehospitaliere-phase-hospitaliere-initiale-indications-de-la-thrombolyse)
 
 {{% /collapse %}}
-{{% modal title="Score NIHSS" id="modal-score-nihss" size="lg"%}}
-
-{{< scores/nihss >}}
-
-{{% /modal %}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}

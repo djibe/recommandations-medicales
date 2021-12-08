@@ -6,7 +6,7 @@ synonyms = ["Ostéoporose post-ménopausique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-04T17:43:41+02:00
 publishdate = 2021-12-06
-lastmod = 2021-12-07
+lastmod = 2021-12-08
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "GRIO", "HAS"]
@@ -19,7 +19,7 @@ slider = true
 image = true
 imageWEBP = true
 imageSrc = "Illustration de l'ostéoporose par scientificanimations.com, CC BY-SA 4.0"
-todo = "BDPM, revoir rx lombaires avec ISCD 2015, Prescrire, HAS 2005 chutes, prescription renforcement musculaire, TABS, dose THM prev osseuse, cp calcium/associés"
+todo = "http://www.grio.org/membres/recommandations-grio.php, BDPM, revoir rx lombaires avec ISCD 2015, Prescrire, HAS 2005 chutes, prescription renforcement musculaire, TABS, dose THM prev osseuse, cp calcium/associés"
 +++
 
 {{%article-summary%}}
@@ -501,11 +501,9 @@ graph TB
 {{%/collapse%}}
 {{%collapse "Vidéos de formation" %}}
 
-{{< video poster="http://www.grio.org/videos/osteoporose-et-les-signes-d-appel.jpg" mp4="http://www.grio.org/videos/osteoporose-et-les-signes-d-appel.mp4" webm="http://www.grio.org/videos/osteoporose-et-les-signes-d-appel.webm" description="GRIO. L'Ostéoporose et les signes d'appel." >}}
+### Vidéos du GRIO
 
-{{< video poster="http://www.grio.org/videos/le-diagnostic-de-l-osteoporose.jpg" mp4="http://www.grio.org/videos/le-diagnostic-de-l-osteoporose.mp4" webm="http://www.grio.org/videos/le-diagnostic-de-l-osteoporose.webm" description="GRIO. Le diagnostic de l'ostéoporose." >}}
-
-{{< video poster="http://www.grio.org/videos/prevenir-l-osteoporose.jpg" mp4="http://www.grio.org/videos/prevenir-l-osteoporose.mp4" webm="http://www.grio.org/videos/prevenir-l-osteoporose.webm" description="GRIO. Prévenir l'ostéoporose." >}}
+3 vidéos: [L'Ostéoporose et les signes d'appel, Le diagnostic de l'ostéoporose et Prévenir l'ostéoporose](http://www.grio.org/espace-gp/films-osteoporose.php)
 
 {{%/collapse%}}
 {{%collapse "Sources" %}}

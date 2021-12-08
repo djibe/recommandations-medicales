@@ -1,5 +1,6 @@
 +++
 title = "{{ replace .Name '-' ' ' | title }}"
+titleSeo = "cacaprout"
 prefix = "la "
 shortname = ""
 synonyms = []

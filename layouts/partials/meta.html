@@ -17,6 +17,8 @@
 {{ $metaTitle := "" }}
 {{ if .IsHome }}
   {{ $metaTitle = (printf "%s : Dernières recommandations médicales au cabinet" $.Site.Title ) }}
+{{ else if .Params.TitleSeo }}
+  {{ $metaTitle = ( printf "%s %s %s" .Params.TitleSeo "|" $.Site.Title ) }}
 {{ else if and (eq .Section "recommandations") (eq .Kind "page") }}
   {{ $metaTitle = ( printf "%s %s%s %s %s" "Recommandations sur" (.Params.prefix | safeHTML ) .Title "en 2021 |" $.Site.Title ) }}
 {{ else }}
@@ -46,7 +48,7 @@
 <base href="{{ .Site.BaseURL }}">
 <link rel="canonical" href="{{ .Permalink }}">
 <meta property="og:url" content="{{ .Permalink }}">
-<!--<meta name="twitter:url" content="{{ .Permalink }}">-->
+<meta name="twitter:url" content="{{ .Permalink }}">
 
 <!-- Language Tags -->
 <meta property="og:locale" content="fr_FR">
