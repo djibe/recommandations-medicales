@@ -1,5 +1,5 @@
 +++
-title = "Substituts nicotiniques"
+title = "Substituts nicotiniques remboursés"
 prefix = "les "
 shortname = "Subs. nicotiniques"
 synonyms = []
@@ -10,7 +10,7 @@ lastmod = 2021-11-01
 specialites = ["addictologie"]
 annees = "2021"
 sources = ["Ameli"]
-tags = ["asthme", "BPCO", "tabac"]
+tags = ["asthme", "BPCO", "cancer", "tabac"]
 anglais = ["Product containing only nicotine"]
 sctid = "776904000"
 qualite = "bonne"

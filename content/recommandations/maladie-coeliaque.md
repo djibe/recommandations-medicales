@@ -11,7 +11,7 @@ lastmod = 2021-09-15
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["EssCD", "HAS", "SNFGE"]
-tags = ["allergie", "auto-immun", "carence martiale", "coeliaque", "depistage", "EOGD", "fatigue", "Hashimoto", "intolerance", "TSH"]
+tags = ["allergie", "cephalees", "coeliaque", "depistage", "EOGD", "fatigue", "ferritine", "neuropathie", "TSH"]
 anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac gluten sensitivity (NCGS) and extra-intestinal manifestations related to gluten)", "celiac"]
 sctid = "396331005"
 draft = false
@@ -24,12 +24,12 @@ todo = "Ostéodensitométrie avant 35 ans ???, dermatite herpétiforme Souvent r
 
 {{%article-summary%}}
 
-- Fréquente et possible à tout âge.
+- Fréquente et possible à tout âge
 - Dépistage par sérologie IgA anti-transglutaminase + IgA totales  
-ou EOGD d'emblée selon la probabilité clinique sans régime.
-- Éviction du gluten à vie après confirmation du diagnostic par les biopsies et le gastro-entérologue.
-- Disparition des symptômes après 6 à 12 mois d'éviction du gluten.
-- Dépistage de l'entourage au 1<sup>er</sup> degré.
+ou EOGD d'emblée selon la probabilité clinique sans régime
+- Éviction du gluten à vie après confirmation du diagnostic par les biopsies et le gastro-entérologue
+- Disparition des symptômes après 6 à 12 mois d'éviction du gluten
+- Dépistage de l'entourage au 1<sup>er</sup> degré
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -286,7 +286,7 @@ graph TB
       gastro -- Diagnostic infirmé --> explo("Poursuite du bilan<br>par le spécialiste")
 {{< /mermaid >}}
 
-> **ATCD:** antécédents; **fam:** familiaux; **MC:** maladie cœliaque
+> **ATCD** = antécédents; **fam** = familiaux; **MC** = maladie cœliaque
 
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}

@@ -1,5 +1,6 @@
 +++
-title = "Aides sociales"
+title = "Aides sociales pour se soigner"
+noindex = true
 prefix = "les "
 shortname = "Aides"
 synonyms = []
@@ -10,7 +11,7 @@ lastmod = 2021-10-22
 specialites = ["social"]
 annees = "2021"
 sources = ["MinSante"]
-tags = ["aides", "droits"]
+tags = []
 draft = false
 todo = "https://www.has-sante.fr/upload/docs/application/pdf/2018-03/annexes2.pdf"
 +++

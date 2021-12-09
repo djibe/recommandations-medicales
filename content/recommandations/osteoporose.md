@@ -10,7 +10,7 @@ lastmod = 2021-12-08
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "GRIO", "HAS"]
-tags = ["chute", "depistage", "vitamine d"]
+tags = ["chute", "depistage", "EPS", "vitamine d"]
 anglais = ["Osteoporosis"]
 sctid = "64859006"
 draft = false
@@ -37,7 +37,7 @@ todo = "http://www.grio.org/membres/recommandations-grio.php, BDPM, pré-th alen
 
 Ostéoporose
 : Maladie osseuse associant une diminution de la densité minérale osseuse (DMO) et des modifications de sa micro-architecture.
-: Diagnostic radiologique chez la femme ménopausée ou l'homme +50 ans si T-score ≤ -2,5 DS au col fémoral, hanche totale ou vertébral.
+: Diagnostic radiologique chez la femme ménopausée ou l'homme +50 ans si T-score ≤ -2,5 DS au col fémoral, hanche totale ou vertébral (*ISCD 2015*).
 
 Fracture ostéoporotique (ou de fragilité)
 : Fracture survenant à la suite d'un traumatisme de faible énergie (ex. de sa hauteur en marchant). Elle atteint surtout la femme (3/4) et constitue la gravité de la maladie ostéoporotique.
@@ -516,7 +516,8 @@ graph TB
 
 - [HAS. Les médicaments de l'ostéoporose. Bon usage du médicament. Mai 2019.](https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-losteoporose)
 - [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l’ostéoporose post-ménopausique. Revue du Rhumatisme. Volume 85. Issue 5. 2018.](https://doi.org/10.1016/j.rhum.2018.02.005)
-- [Dagan N et al. External validation and comparison of three prediction tools for risk of osteoporotic fractures using data from population based electronic health records: retrospective cohort study BMJ 2017; 356 :i6755.](https://doi.org/10.1136/bmj.i6755)
+- [Dagan N et al. External validation and comparison of three prediction tools for risk of osteoporotic fractures using data from population based electronic health records: retrospective cohort study BMJ 2017; 356:i6755.](https://doi.org/10.1136/bmj.i6755)
+- [Shepherd J. et al. Executive Summary of the 2015 ISCD Position Development Conference on Advanced Measures From DXA and QCT: Fracture Prediction Beyond BMD. Journal of Clinical Densitometry. Volume 18. Issue 3. 2015. Pages 274-286.](https://doi.org/10.1016/j.jocd.2015.06.013)
 - [Briot K et al. Risque des femmes de même âge ayant fait une fracture. Revue du Rhumatisme 2012. (PDF)](http://www.grio.org/documents/page500/boite-a-outils-osteoporose500-1401218558.pdf)
 - [World Health Organization. Assessment of fracture risk and its application to screening for postmenopausal osteoporosis : report of a WHO study group. World Health Organization. 1994.](https://apps.who.int/iris/handle/10665/39142)
 - [GRIO. Site officiel](http://www.grio.org/)
