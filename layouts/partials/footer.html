@@ -51,7 +51,7 @@
 <script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin></script>
 <script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin defer></script>
 <script src="{{ .Site.Params.cdn.material_js}}" crossorigin defer></script>
-<script src="https://instant.page/5.1.0" type="module" crossorigin></script>
+<script src="https://instant.page/5.1.0" type="module" crossorigin async></script>
 
 {{- with .Params.chart }}
 <script src="https://cdn.jsdelivr.net/npm/apexcharts@3.31.0/dist/apexcharts.min.js" integrity="sha256-xqumMhSgxlN/BABPYNJtG/F6KPCZDnE5Sp8UpQPoKQA=" crossorigin defer></script>
@@ -89,6 +89,14 @@ document.addEventListener( 'DOMContentLoaded', event => {
       show: true,
       width: 2,
       colors: ['transparent']
+    },
+    theme: {
+      monochrome: {
+        enabled: false,
+        color: '#4150f5',
+        shadeTo: 'light',
+        shadeIntensity: 0.5
+      }
     },
     title: {
       margin: 24,

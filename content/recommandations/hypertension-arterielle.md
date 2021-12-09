@@ -198,6 +198,8 @@ L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hyp
 {{% /collapse %}}
 {{%collapse "Objectifs tensionnels" "show" %}}
 
+{{%info%}}Une PAD 70-79 mmHg ets la cible pour tout hypertendu{{%/info%}}
+
 {{< table title="Synthèse des objectifs tensionnels selon le profil du patient. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
 | Population          | Objectif (mmHg) | Source     |
 |---------------------|----------------:|------------|
@@ -214,9 +216,7 @@ L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hyp
 | Grossesse           | &lt; 140/90     | ESC 2018   |
 {{< /table >}}
 
-> Une PAD 70-79 mmHg ets la cible pour tout hypertendu.
-
-Détail sur la page dédiée de chaque chapitre concerné.
+Détail pour chaque pathologie sur la page du chapitre concerné.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

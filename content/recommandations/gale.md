@@ -289,8 +289,3 @@ Si traitement oral: 2<sup>e</sup> prise orale du nombre de comprimés prescrits.
 - [Omedit Centre. Prise en charge et traitement des sujets atteints de gale. Mars 2010. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/6308.pdf)
 
 {{% /collapse %}}
-{{%collapse "Photos" %}}
-
-{{< wikiphoto "Scabies" >}}
-
-{{% /collapse %}}

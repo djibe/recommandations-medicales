@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "<1 ng or 2 ng, Ref HAS, https://curie.fr/dossier-pedagogique/cancer-de-la-prostate-les-facteurs-de-risque"
+todo = "<1 ng or 2 ng, Ref HAS, https://curie.fr/dossier-pedagogique/cancer-de-la-prostate-les-facteurs-de-risque, https://www.urofrance.org/recommandation/recommandations-francaises-du-comite-de-cancerologie-de-lafu-actualisation-2020-2022-cancer-de-la-prostate/?date=&themes=&search="
 +++
 
 *Ébauche de fiche en cours*

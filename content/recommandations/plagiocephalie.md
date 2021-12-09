@@ -101,8 +101,3 @@ En cas de craniosynostose confirmée.
 - [Société Canadienne de Pédiatrie. La plagiocéphalie positionnelle. Octobre 2011.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3202395/)
 
 {{% /collapse %}}
-{{%collapse "Photos" %}}
-
-{{< wikiphoto "Plagiocephaly" >}}
-
-{{% /collapse %}}

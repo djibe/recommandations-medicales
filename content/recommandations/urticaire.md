@@ -383,10 +383,10 @@ graph TB
 
 {{< mermaid title="Conduite à tenir devant une urticaire chronique. Dr JB Fron d'après ANAES 2003" >}}
 graph TB
-  UC["Urticaire chronique<br>&gt; 6 semaines"] --> orientation("Maladie générale<br> ou forme particulière?")
+  UC["Urticaire chronique<br>&gt; 6 semaines"] --> orientation("Maladie générale<br>ou forme particulière?")
   style UC stroke:#4150f5, stroke-width:1px
     orientation -- Non --> isolee("Urticaire isolée<br>= pas de bilan") --> ttt1(Anti-H1 2G 4 à 8 sem)
-        ttt1 -- Résistance --> bilan("<b>Bilan biologique</b><hr>- NFS, VS, CRP<br>- anti-TPO +/- TSH")
+        ttt1 -- Résistance --> bilan("<b>Bilan biologique</b><hr>- NFS, VS, CRP<br>- anti-TPO &plusmn; TSH")
         ttt1 -- Résolution --> fin(Pas de bilan)
     orientation -- Oui --> maladie(Bilan spécifique)
 {{< /mermaid >}}

@@ -528,6 +528,11 @@ div.data-table {
   margin-bottom: 1.5rem;
 }
 
+#table-pilule > tbody > tr:nth-of-type(4),
+#table-pilule > tbody > tr:nth-of-type(8) {
+  background-color: rgba(65, 80, 245, 0.04);
+}
+
 .text-404 {
   color: #ffffff;
   // font-family: Roboto, sans-serif;

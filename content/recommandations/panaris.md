@@ -146,8 +146,3 @@ graph TB
 - [Ameli. Panaris](https://www.ameli.fr/assure/sante/themes/panaris)
 
 {{% /collapse %}}
-{{%collapse "Photos" %}}
-
-{{< wikiphoto "Whitlow" >}}
-
-{{% /collapse %}}

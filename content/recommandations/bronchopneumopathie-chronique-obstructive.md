@@ -1,5 +1,6 @@
 +++
 title = "Bronchopneumopathie chronique obstructive"
+titleSeo = "BPCO"
 prefix = "la "
 shortname = "BPCO"
 synonyms = []

@@ -152,8 +152,3 @@ Chirurgie ± conservatrice
 - Dr Panait HFME Bron
 
 {{%/collapse%}}
-{{%collapse "Photos" %}}
-
-{{< wikiphoto "Phimosis" >}}
-
-{{% /collapse %}}

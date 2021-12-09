@@ -1,5 +1,6 @@
 +++
 title = "Services d'urgences ophtalmologiques"
+titleSeo = "Urgences ophtalmologiques"
 prefix = "les "
 shortname = "Urgences ophtalmo"
 synonyms = []

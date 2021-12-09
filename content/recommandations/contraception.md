@@ -88,7 +88,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 
 {{%info%}}La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares (*CNGOF 2018*){{%/info%}}
 
-{{< table title="Spécialités de contraception disponibles en France en 2021. Dr JB Fron d'après BDPM" class="table-wrap" >}}
+{{< table title="Spécialités de contraception disponibles en France en 2021. Dr JB Fron d'après BDPM" class="table-wrap" id="table-pilule" >}}
 | Type        | EE (µg)  | Progestatif (mg) | Spécialités     |
 |-------------|---------:|------------------|-----------------|
 | 2G          | 30/40    | LNG 0,15-0,2     | Adepal, Pacilia |

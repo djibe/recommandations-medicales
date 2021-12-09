@@ -1,5 +1,6 @@
 +++
 title = "Certificat de non contre-indication à la pratique du sport"
+titleSeo = "Certificat du sportif"
 prefix = "le "
 shortname = "CNCI"
 synonyms = []
