@@ -10,7 +10,7 @@ lastmod = 2021-10-08
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS"]
-tags = ["carence martiale", "dyspnee", "fatigue", "ferritine", "HTA", "insuffisance cardiaque", "risque cardiovasculaire", "SAOS", "tabac", "toux", "TSH", "vaccin", "vertige"]
+tags = ["carence martiale", "dyspnee", "fatigue", "ferritine", "HTA", "insuffisance cardiaque", "risque cardiovasculaire", "SAS", "tabac", "toux", "TSH", "vaccin", "vertige"]
 anglais = ["Chronic heart failure"]
 sctid = "48447003"
 draft = false
@@ -101,7 +101,7 @@ Hyponatrémie, PN élevés...
 - Cardiovasculaire  
 FA, troubles du rythme, AVC, AOMI.
 - Comorbidités  
-Diabète, anémie, carence martiale, BPCO, insuffisance rénale, hépatopathie, apnées du sommeil, dépression, démence
+Diabète, anémie, carence martiale, BPCO, insuffisance rénale, hépatopathie, apnées du sommeil, dépression, démence.
 - {{< modal-btn modal-observance >}}Non observance{{< /modal-btn >}}
 
 {{% /collapse %}}

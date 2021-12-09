@@ -6,19 +6,21 @@ synonyms = ["Cholécalciferol"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-15T00:28:29+02:00
 publishdate = 2020-04-15
-lastmod = 2021-11-20
+lastmod = 2021-12-09
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2019"
 sources = ["HAS", "SFP", "SFR"]
-tags = ["depistage", "supplementation", "vitamine d", "osteoporose", "chute", "nourrisson", "enfant", "adolescent"]
+tags = ["depistage", "supplementation", "vitamine d", "chute", "nourrisson", "enfant", "adolescent"]
 anglais = ["Vitamin D"]
 image = true
-imageSrc = "Illustration par pch.vector / Freepik"
+imageSrc = "Illustration de la vitamine D par pch.vector / Freepik"
 sctid = "30178006"
 flowchart = true
 draft = false
 todo = "graph correction, relecture protocole correction"
 +++
+
+Voir aussi: {{< modal-btn modal-calcium-cible >}}cibles calciques selon l'âge{{< /modal-btn >}} et {{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}.
 
 {{%collapse "Définitions" %}}
 
@@ -227,5 +229,15 @@ graph TB
 {{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}
 
 {{< clinique/facteur-risque-chute >}}
+
+{{% /modal %}}
+{{% modal title="Apports en calcium recommandés" id="modal-calcium-cible"%}}
+
+{{< clinique/calcium-cible >}}
+
+{{% /modal %}}
+{{% modal title="Teneur en calcium des aliments" id="modal-calcium"%}}
+
+{{< traitements/aliments-calcium >}}
 
 {{% /modal %}}

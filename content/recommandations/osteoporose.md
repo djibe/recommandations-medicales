@@ -10,7 +10,7 @@ lastmod = 2021-12-08
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "GRIO", "HAS"]
-tags = ["depistage"]
+tags = ["chute", "depistage", "vitamine d"]
 anglais = ["Osteoporosis"]
 sctid = "64859006"
 draft = false
@@ -19,7 +19,7 @@ slider = true
 image = true
 imageWEBP = true
 imageSrc = "Illustration de l'ostéoporose par scientificanimations.com, CC BY-SA 4.0"
-todo = "http://www.grio.org/membres/recommandations-grio.php, BDPM, revoir rx lombaires avec ISCD 2015, Prescrire, HAS 2005 chutes, prescription renforcement musculaire, TABS, dose THM prev osseuse, cp calcium/associés"
+todo = "http://www.grio.org/membres/recommandations-grio.php, BDPM, pré-th alendronate, Prescrire, HAS 2005 chutes, prescription renforcement musculaire, TABS, dose THM prev osseuse, cp calcium/associés"
 +++
 
 {{%article-summary%}}
@@ -28,12 +28,16 @@ todo = "http://www.grio.org/membres/recommandations-grio.php, BDPM, revoir rx lo
 - Dépister: {{< modal-btn modal-risque-fracture >}}facteurs de risque de fracture{{< /modal-btn >}} et de {{< modal-btn modal-risque-chute >}}chute{{< /modal-btn >}}
 - 2 situations: fracturée ou dépistage (voir les arbres décisionnels)
 - Choix du traitement: voir *Traitements spécifiques*
-- Prévention: arrêt tabac, activité physique, [vitD]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium >}}calcium{{< /modal-btn >}} 1,2 g/j
+- Prévention: arrêt tabac, activité physique, [vitD]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}})
 - Voir aussi [traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
 
 {{%collapse "Définitions" %}}
+
+Ostéoporose
+: Maladie osseuse associant une diminution de la densité minérale osseuse (DMO) et des modifications de sa micro-architecture.
+: Diagnostic radiologique chez la femme ménopausée ou l'homme +50 ans si T-score ≤ -2,5 DS au col fémoral, hanche totale ou vertébral.
 
 Fracture ostéoporotique (ou de fragilité)
 : Fracture survenant à la suite d'un traumatisme de faible énergie (ex. de sa hauteur en marchant). Elle atteint surtout la femme (3/4) et constitue la gravité de la maladie ostéoporotique.
@@ -291,9 +295,11 @@ Tout au long de la vie: activité physique, apports vitamino-calciques.
   - Cible ≥ 75 nmol/L
   - Dose d'entretien: 800-1200 UI/j (ou 80-100.000 UI/2-3 mois)
   - Voir *[Vitamine D]({{< relref "vitamine-d.md" >}})* pour les protocoles de correction
-- Apports calciques
-  - Femme ménopausée ≥ 50 ans: cible 1-1,2 g/j
-  - {{< modal-btn modal-calcium >}}Teneur en calcium des aliments{{< /modal-btn >}}
+- Calcium
+  - Femme ménopausée ≥ 50 ans: cible 1,2 g/j ({{< modal-btn modal-calcium-cible >}}Apports calciques cibles{{< /modal-btn >}})
+  - Associations calcium/vitamine D  
+  {{%class "text-black-secondary"%}} Cacit, Calcidose, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Eptavit, Fixical, Ideos, Metocalcium, Natecal, Orocal, Osseans, Structocal.{{%/class%}}
+  - {{< modal-btn modal-calcium >}}Aliments riches en calcium{{< /modal-btn >}}
   - Évaluation des apports par [questionnaire du GRIO](http://www.grio.org/espace-gp/calcul-apport-calcique-quotidien.php)
   - Apports lactés quotidiens jusqu'à 3 ans
 
@@ -541,5 +547,10 @@ Fracture ayant atteint: {{< clinique/osteoporose-fracture-severe >}}
 {{% modal title="Teneur en calcium des aliments" id="modal-calcium"%}}
 
 {{< traitements/aliments-calcium >}}
+
+{{% /modal %}}
+{{% modal title="Apports en calcium recommandés" id="modal-calcium-cible"%}}
+
+{{< clinique/calcium-cible >}}
 
 {{% /modal %}}
