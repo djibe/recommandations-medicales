@@ -72,7 +72,7 @@
     <meta property="og:type" content="article">
     <meta property="og:updated_time" {{ .Lastmod.Format $ISO8601 | printf "content=%q" | safeHTMLAttr }}>
     <meta property="article:published_time" content="{{ .Date.Format "2006-01-02" }}">
-    <link rel="index" href="/recommandations/"><!-- Links to top level resource in an hierarchical structure -->
+    <!-- <link rel="index" href="/recommandations/"> Links to top level resource in an hierarchical structure -->
   {{ end }}
 {{ else }}
   <meta property="og:type" content="website">
@@ -164,7 +164,7 @@
 {{ end }}
 
 <!-- Crawlers -->
-{{ if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+{{ if or (.Params.noindex) (eq .Kind "taxonomy") (eq .Kind "term") }}
 <meta name="robots" content="noindex, follow">
 {{ else }}
 <meta name="robots" content="index, follow">

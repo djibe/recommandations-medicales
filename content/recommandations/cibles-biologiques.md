@@ -1,5 +1,7 @@
 +++
 title = "Récapitulatif des cibles de marqueurs biologiques et d'apports recommandés"
+titleSeo = "Cibles biologiques"
+noindex = true
 prefix = "le "
 shortname = ""
 synonyms = []

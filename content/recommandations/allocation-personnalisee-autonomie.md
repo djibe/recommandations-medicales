@@ -1,6 +1,7 @@
 +++
 title = "Allocation personnalisée d'autonomie"
 prefix = "l'"
+noindex = true
 shortname = "APA"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

@@ -1,6 +1,7 @@
 +++
 title = "Métatarsalgies et névrome de Morton"
 prefix = "les "
+titleSeo = "Névrome de Morton"
 shortname = "Névrome"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

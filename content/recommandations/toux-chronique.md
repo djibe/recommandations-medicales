@@ -1,6 +1,7 @@
 +++
 title = "Toux chronique"
 prefix = "la "
+noindex = true
 shortname = "toux"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
