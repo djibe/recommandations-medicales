@@ -2,17 +2,17 @@
 title = "Fibrillation atriale"
 prefix = "la "
 shortname = "FA"
-synonyms = ["Fibrillation auriculaire"]
+synonyms = ["Arythmie complète par fibrillation auriculaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-05T17:43:41+02:00
-publishdate = 2020-10-05
-lastmod = 2020-10-05
+publishdate = 2021-12-10
+lastmod = 2021-12-10
 specialites = ["cardiologie"]
-annees = "2013"
-sources = ["SFC", "SFGG"]
-tags = ["anticoagulant", "demence", "FA", "HTA", "SAS", "TSH"]
-anglais = ["MSM"]
-sctid = "76102007"
+annees = "2020"
+sources = ["ESC"]
+tags = ["anticoagulant", "demence", "dyspnee", "fatigue", "HTA", "SAS", "TSH"]
+anglais = []
+sctid = ""
 draft = true
 todo = "ESC 2020, Source 2013 bonne pour EGS, source 2013 pour AVK sujet âgé, https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch14_fibrillation_atriale.pdf, http://beh.santepubliquefrance.fr/beh/2021/5/2021_5_1.html"
 +++
@@ -25,16 +25,25 @@ todo = "ESC 2020, Source 2013 bonne pour EGS, source 2013 pour AVK sujet âgé, 
 {{%collapse "Définition" %}}
 
 Fibrillation atriale (FA)
-: Arythmie caractérisée par une activation atriale anarchique désorganisant la fonction mécanique des oreillettes.
-: Le flux sanguin est limité avec constitution de caillots pouvant être libérés sous forme d'emboles artériels.
-: Toutes les cardiopathies peuvent se compliquer de FA.
+: Tachyarythmie supraventriculaire caractérisée par une activation atriale anarchique désorganisant la fonction mécanique des atriums. Le flux sanguin est limité avec constitution de caillots pouvant être libérés sous forme d'emboles artériels. Toutes les cardiopathies peuvent se compliquer de fibrillation atriale.
+: Le diagnostic est électrocardiographique: intervalles R-R irréguliers, absence d'ondes P et trémulation de la ligne de base sur ECG 12D ou simple dérivation pendant ≥ 30s
+
+FA clinique
+: Fibrillation atriale symptomatique ou non documentée par ECG.
+: Inaugurale en l'absence d'antécédent.
 
 FA paroxystique
 : Épisodes cédant spontanément en moins de 7 jours.
 
 FA persistante
 : Épisode persistant plus de 7 jours sans résolution spontanée.
-: Devient permanente quand une cardioversion n'a pas été proposée ou a échoué.
+: TODO: Devient permanente quand une cardioversion n'a pas été proposée ou a échoué.
+
+> Définitions *ESC 2020*
+
+### TODO:
+
+AHRE, subclinical AF: TODO
 
 FA permanente
 : Tous les ECG sont en FA pendant au moins 1 an.
@@ -42,68 +51,85 @@ FA permanente
 FA de détection récente
 : Découverte de la FA sans aucun recul pour typer la durée de l'épisode.
 
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
-600.000 à 1 million de patients, les 2/3 ont plus de 75 ans.
+- 50-87% sont initialement asymptomatiques
 
-Prévalence augmente avec l'âge et atteint 10-20% après 80 ans.
+### La fibrillation atriale en France
 
-Coût de 3000€/patient/an.
+- 600.000 à 1 million de patients, 2/3 ont +75 ans  
+La prévalence augmente avec l'âge et atteint 10-20% après 80 ans.
+- Coût: 3000€/patient/an
+- Coût global: 2,5 milliards € (50% liés aux hospitalisations)
 
-Cout globale de 2,5 milliards (50% liés aux hospitalisations).
+### Facteurs favorisants
 
-{{% /collapse %}}
-{{%collapse "Facteurs favorisants" %}}
-
-- Facteurs de risque cardiovasculaire
+- Facteurs non modifiables
   - Âge
+  - Homme
+  - Caucasien
+- Mode de vie
+  - Inactivité, activité physique intense
+  - Hypercholestérolémie
+  - Alcool
+  - Tabac
+  - Obésité
+- Maladies cardiovasculaires
+  - Insuffisance rénale
   - Hypertension artérielle
   - Diabète
-  - Obésité
-- Insuffisance cardiaque
-- Insuffisance coronaire
-
-### Causes extra-cardiaques
-
-Recherche systématique.
-
-- Infection broncho-pulmonaire
+  - Valvulopathie
+  - Insuffisance cardiaque
+  - Coronaropathie
+  - Artériopathie
+  - Embolie pulmonaire
+- Causes extra-cardiaques
+  - Apnées du sommeil
+  - BPCO
+  - Insuffisance respiratoire
+  - Maladie inflammatoire, hyperthyroïdie
+- Pathologie aiguë
+  - Infection, chirurgie
+  - Hypokaliémie
 - Iatrogénie  
-Diurétiques, théophylline, salbutamol, anti-arythmique
-- Hypokaliémie
-- Hyperthyroïdie
-- Embolie pulmonaire
-- BPCO
-- Insuffisance respiratoire
-- Syndrome d'apnées du sommeil
+Diurétiques, théophylline, salbutamol, anti-arythmique.
 
-{{% /collapse %}}
-{{%collapse "Complications" %}}
+### Complications
 
-La fibrillation atriale augmente le risque de mortalité de 50 à 90%.
-
-- Accident vasculaire cérébral (AVC)
+- Mortalité x 1,5 à 3,5
+- Accident vasculaire cérébral
+- Insuffisance cardiaque
 - Embolie
-- Démence (+ 40%)
+- Démence (+40%)
+- Dépression
+- Altération de la qualité de vie
+- Hospitalisations (10-40%/an)
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+Évaluation: type de FA, risque embolique, symptômes.
+
 ### Interrogatoire
 
-- FRCV
+- Nom du cardiologue
+- Comorbidités  
+HTA, diabète, insuffisance cardiaque, coronaropathie, insuffisance rénale, obésité.
+- Tabac, alcool
+- Activité physique
 - Traitements en cours
-- Symptômes  
-dyspnée, palpitations, douleur thoracique, malaises, chutes, syncope, asthénie, anxiété
+- Fibrillation atriale
+  - Ancienneté
+  - Facteurs déclenchants
+  - Symptômes  
+  **Dyspnée, palpitations, fatigue**, douleur thoracique, intolérance à l'effort, malaises, vertiges, chutes, syncope, troubles di sommeil, anxiété.  
+  Souvent absents au début.
+- Signes d'apnées du sommeil
 
-Facteurs déclenchants
-Ancienneté
+### Examen clinique
 
-Pouls irrégulier
-Recherche comorbidités
-Complications
-  HTA
+- Pouls irrégulier, PA, poids-taille-IMC
+- Pouls périphériques, oedèmes
 
 ### Évaluation gériatrique standardisée
 
@@ -112,17 +138,27 @@ Plus rapides: MIS (Memory Impairment Screen), test des 5 mots, test de l'horloge
 - Dépendance  
 ADL ou IADL
 - Symptômes dépressifs
-- Etat nutritionnel
+- État nutritionnel
 - {{< modal-btn modal-risque-chute >}}Risque de chute{{< /modal-btn >}}
 - Contexte de vie
+
+{{% /collapse %}}
+{{%collapse "Risque embolique et de saignement" %}}
+
+Réévaluation régulière des scores.
+
+### Risque embolique: CHADS
+
+### Risque de saignement: HAS-BLED
+
+Scores HEMORR2HAGES (+ adapaté pour AVK > 80 ans)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 ### ECG
 
-Systématique pour confirmer le diagnostic:  
-Absence d'onde P, trémulation de la ligne de base, rythme irrégulier.
+Systématique pour confirmer le diagnostic: intervalles R-R irréguliers, absence d'ondes P et trémulation de la ligne de base sur ECG 12D ou simple dérivation pendant ≥ 30s.
 
 ### Bilan biologique
 
@@ -138,21 +174,6 @@ Si digoxine: digoxinémie
 ### Radiographie thoracique (RT)
 
 Non SYS
-
-### Echocardiographie transthoracique (ETT)
-
-SYS
-
-### Holter-ECG
-
-Indications:
-
-- Lipothymies, syncopes
-- Insuffisance cardiaque non expliquée
-
-### ETO
-
-Indications: Cardioversion rapide, AVC à répétition.
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
@@ -229,16 +250,14 @@ AVK
 Surtout si sujet âgé ou valve mécanique, pb observance?
 INR cible 2-3. Contrôle /15-21j
 
-// Intro AVK en gériatrie
-
-Scores HEMORR2HAGES (+ adapaté pour AVK > 80 ans) ou HAS-BLED (ESC, + simple, pop + jeune)
 
 Aspirine si refus anticoag
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Société Française de Gériatrie et Gérontologie et Société Française de Cardiologie. Prise en charge de la fibrillation atriale du sujet âgé. La Revue de Gériatrie. Tome 38. n°7. septembre 2013. (PDF)](http://www.revuedegeriatrie.fr/documents/fibrillation_atriale.pdf)
+- [Hindricks G. et al; ESC Scientific Document Group. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. European Heart Journal. Volume 42. Issue 5. 1 February 2021. Pages 373–498.](https://doi.org/10.1093/eurheartj/ehaa612)
+- [Société Française de Gériatrie et Gérontologie et Société Française de Cardiologie. Prise en charge de la fibrillation atriale du sujet âgé. La Revue de Gériatrie. Tome 38. n°7. Septembre 2013. (PDF)](http://www.revuedegeriatrie.fr/documents/fibrillation_atriale.pdf)
 
 {{% /collapse %}}
 {{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}
@@ -246,3 +265,4 @@ Aspirine si refus anticoag
 {{< clinique/facteur-risque-chute >}}
 
 {{% /modal %}}
+≤≥±®œŒÈ³ÂSpO<sub>2</sub>
