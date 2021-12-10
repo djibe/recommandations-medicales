@@ -6,10 +6,10 @@ synonyms = ["Ostéoporose post-ménopausique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-04T17:43:41+02:00
 publishdate = 2021-12-06
-lastmod = 2021-12-08
+lastmod = 2021-12-10
 specialites = ["rhumatologie"]
 annees = "2018"
-sources = ["SFRhumato", "GRIO", "HAS"]
+sources = ["SFRhumato", "GRIO", "IOF", "HAS"]
 tags = ["chute", "depistage", "EPS", "vitamine d"]
 anglais = ["Osteoporosis"]
 sctid = "64859006"
@@ -19,24 +19,25 @@ slider = true
 image = true
 imageWEBP = true
 imageSrc = "Illustration de l'ostéoporose par scientificanimations.com, CC BY-SA 4.0"
-todo = "http://www.grio.org/membres/recommandations-grio.php, BDPM, pré-th alendronate, Prescrire, HAS 2005 chutes, prescription renforcement musculaire, TABS, dose THM prev osseuse, cp calcium/associés"
+todo = "https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, BDPM, pré-th alendronate, HAS 2005 chutes, prescription renforcement musculaire, dose THM prev osseuse"
 +++
 
 {{%article-summary%}}
 
 - Ces recommandations concernent la femme ménopausée
-- Dépister: {{< modal-btn modal-risque-fracture >}}facteurs de risque de fracture{{< /modal-btn >}} et de {{< modal-btn modal-risque-chute >}}chute{{< /modal-btn >}}
+- Dépister: {{< modal-btn modal-risque-fracture >}}facteurs de risque de fracture{{< /modal-btn >}}, de {{< modal-btn modal-risque-chute >}}chute{{< /modal-btn >}} et score FRAX (voir *Risque de fracture*)
+- Mesurer: score FRAX et ostéodensitométrie
 - 2 situations: fracturée ou dépistage (voir les arbres décisionnels)
 - Choix du traitement: voir *Traitements spécifiques*
-- Prévention: arrêt tabac, activité physique, [vitD]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}})
-- Voir aussi [traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
+- Prévention: des chutes, arrêt du tabac, activité physique, [vitD]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}})
+- Voir aussi: [traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
 
 {{%collapse "Définitions" %}}
 
 Ostéoporose
-: Maladie osseuse associant une diminution de la densité minérale osseuse (DMO) et des modifications de sa micro-architecture.
+: Maladie osseuse associant une diminution de la densité minérale osseuse (DMO) et des modifications de sa micro-architecture. Elle atteint particulièrement les femmes âgées.
 : Diagnostic radiologique chez la femme ménopausée ou l'homme +50 ans si T-score ≤ -2,5 DS au col fémoral, hanche totale ou vertébral (*ISCD 2015*).
 
 Fracture ostéoporotique (ou de fragilité)
@@ -177,7 +178,7 @@ Les mesures sur os arthrosique ou sur fracture vertébrale surestiment la DMO.
 Inutile si traitement indiqué d'emblée: {{< modal-btn modal-fracture-severe >}}antécédent de fracture sévère{{< /modal-btn >}}, T-score ≤ -3 au site vertébral et fémoral.  
 Validé en France uniquement en cas de ménopause.
 
-{{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" title="Calcul du FRAX® sur le site officiel">}}
+{{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" title="Calcul du FRAX® en France sur le site officiel">}}
 
 ### Décision de traitement selon le FRAX
 
@@ -509,13 +510,16 @@ graph TB
 
 ### Vidéos du GRIO
 
-3 vidéos: [L'Ostéoporose et les signes d'appel, Le diagnostic de l'ostéoporose et Prévenir l'ostéoporose](http://www.grio.org/espace-gp/films-osteoporose.php)
+- 3 vidéos: [L'Ostéoporose et les signes d'appel, Le diagnostic de l'ostéoporose et Prévenir l'ostéoporose](http://www.grio.org/espace-gp/films-osteoporose.php)
+- [Ostéoporose Masculine - Le point sur les recommandations françaises](http://www.grio.org/membres/video-webcast.php)
 
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
+- Prescrire Redaction. Fracture liées à une fragilité osseuse : prévention. Rev Prescr 2020.
 - [HAS. Les médicaments de l'ostéoporose. Bon usage du médicament. Mai 2019.](https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-losteoporose)
-- [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l’ostéoporose post-ménopausique. Revue du Rhumatisme. Volume 85. Issue 5. 2018.](https://doi.org/10.1016/j.rhum.2018.02.005)
+- [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d’ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 03/05/2019. (PDF)](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
+- [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l’ostéoporose post-ménopausique. Revue du Rhumatisme. Volume 85. Issue 5. 2018.](https://doi.org/10.1016/j.rhum.2018.02.005)
 - [Dagan N et al. External validation and comparison of three prediction tools for risk of osteoporotic fractures using data from population based electronic health records: retrospective cohort study BMJ 2017; 356:i6755.](https://doi.org/10.1136/bmj.i6755)
 - [Shepherd J. et al. Executive Summary of the 2015 ISCD Position Development Conference on Advanced Measures From DXA and QCT: Fracture Prediction Beyond BMD. Journal of Clinical Densitometry. Volume 18. Issue 3. 2015. Pages 274-286.](https://doi.org/10.1016/j.jocd.2015.06.013)
 - [Briot K et al. Risque des femmes de même âge ayant fait une fracture. Revue du Rhumatisme 2012. (PDF)](http://www.grio.org/documents/page500/boite-a-outils-osteoporose500-1401218558.pdf)
@@ -527,7 +531,9 @@ graph TB
 ### À lire
 
 - [Bouvard P et al; GRIO. Recommandations françaises de la prise en charge et du traitement de l’ostéoporose masculine. Revue du Rhumatisme. Volume 88. Issue 3. 2021. Pages 173-182. (PDF)](http://www.grio.org/documents/page246/reco-op-masculine.pdf)
-- [Société Française de Stomatologie, Chirurgie Maxillo-Faciale et Chirurgie Orale. Ostéonécrose des mâchoires en chirurgie oromaxillofaciale et traitements médicamenteux à risque (antirésorbeurs osseux, antiangiogéniques). Juillet 2013.](http://www.grio.org/documents/page500/boite-a-outils-osteoporose500-1401218783.pdf)
+- [Kanis, J. et al. Executive summary of the European guidance for the diagnosis and management of osteoporosis in postmenopausal women. Calcif Tissue Int 104, 235–238. 2019.](https://link.springer.com/article/10.1007/s00223-018-00512-x)
+- [Kanis J. et al. Algorithm for the management of patients at low, high and very high risk of osteoporotic fractures. Osteoporos Int, 2019. 31(1): p.1-12.](https://link.springer.com/article/10.1007/s00198-019-05176-3)
+- [Kanis J et al; on behalf of the Scientific Advisory Board of the European Society for Clinical and Economic Aspects of Osteoporosis (ESCEO) and the Committees of Scientific Advisors and National Societies of the International Osteoporosis Foundation (IOF). European guidance for the diagnosis & management of osteoporosis in postmenopausal women. Osteoporos Int, 2018. 30(1): p.3-44.](https://link.springer.com/article/10.1007%2Fs00198-018-4704-5)
 
 {{%/collapse%}}
 {{% modal title="Fractures ostéoporotiques dites sévères" id="modal-fracture-severe"%}}
