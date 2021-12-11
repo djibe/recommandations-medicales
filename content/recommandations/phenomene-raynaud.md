@@ -9,7 +9,7 @@ publishdate = 2021-05-04
 lastmod = 2021-10-18
 specialites = ["rhumatologie"]
 annees = "2018"
-sources = ["CEDEF", "SFMV"]
+sources = ["SFMV", "CEDEF"]
 tags = ["EPS", "TSH"]
 anglais = ["Raynaud's phenomenon"]
 sctid = "266261006"
@@ -210,7 +210,7 @@ Suivi par l'interniste.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant un phénomène de Raynaud" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant un phénomène de Raynaud. Dr JB FRON d'après SFMV 2013" >}}
+{{< mermaid title="Conduite à tenir devant un phénomène de Raynaud. Dr JB Fron d'après SFMV 2013" >}}
 graph TB
 susp[Suspicion de phénomène de Raynaud]
 style susp stroke:#4150f5, stroke-width:1px
@@ -219,8 +219,8 @@ style susp stroke:#4150f5, stroke-width:1px
     diagnostic --> gravite("<b>Signes d'alerte ?</b><hr>- Invalidant et pluriquotidien<br>- Température modérée<br>- Sans amélioration estivale<br>- Début +40 ans<br>- Atteinte des pouces<br>- Aggravation inexpliquée<br>- Ulcération digitale<br>- Télangiectasies, sclérodactylie<br>- Purpura<br>- Xérophtalmie<br>- Tbles déglutition<br>- Arthralgies<br>- Souffle vasculaire, pouls non perçu<br>- Fièvre persistante<br>- Neuropathie")
     gravite -- Oui --> bilanComp("Bilan systématique +<hr>- Rx mains, pieds, thorax<br>- Anti-RNP<br>- Anti-cardiolipine<br>- Cryoglobuline<br>- Doppler artères MS")
       bilanComp --> interniste(Interniste)
-    gravite -- Non --> bilan("<b>Bilan systématique</b><hr>- NFS, VS, CRP<br>- EPS<br>- AAN<br>- Anti-scl70, anti-centromères<br>- FR<br>- Capillaroscopie")
-      bilan -- Normal --> maladie("<b>Maladie de Raynaud</b><hr>- Mesures d'hygiène<br>- &plusmn; nifédipine LP")
+    gravite -- Non --> bilan("<b>Bilan systématique</b><hr>- NFS, VS, CRP<br>- EPS<br>- AAN<br>- Anti-scl70, anti-centromères<br>- Facteur rhumatoïde<br>- Capillaroscopie")
+      bilan -- Normal --> maladie("<b>Maladie de Raynaud</b><hr>- Mesures d'hygiène<br>&plusmn; nifédipine LP")
         maladie -.-> aggravation(Aggravation) --> interniste
       bilan -- Anormal --> interniste
 {{< /mermaid >}}
