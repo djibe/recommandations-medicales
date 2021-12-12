@@ -18,7 +18,7 @@ slider = true
 paludisme = true
 image = true
 imageSrc = "Culicidae, Anopheles sp. Photo de Techuser sur Foter.com / CC BY-NC-ND"
-todo = "ttt ambulatoire accès palustre, piqures, http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf"
+todo = "ttt ambulatoire accès palustre, piqures, http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/028.pdf, http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5222.pdf, https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-166-nb.pdf"
 +++
 
 *Le traitement de l'accès palustre n'est pas encore traité*.

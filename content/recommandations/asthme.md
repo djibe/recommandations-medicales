@@ -16,18 +16,18 @@ sctid = "195967001"
 draft = false
 image = true
 imageSrc = "Illustration de l'asthme par brgfx / Freepik"
-todo = "Applis Asthm'Activ et Effic'Asthme, doses Symbicort turbuhaler, GINA 2021 p21, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique"
+todo = "Applis Effic'Asthme, doses Symbicort turbuhaler, GINA 2021 p21, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique"
 +++
 
 {{%article-summary%}}
 
-- Bannir le terme de << bronchite asthmatiforme >>
+- Bannir le terme de << bronchite asthmatiforme >>, il s'agit d'une maladie chronique
 - Éviction du tabac
 - Diagnostic de certitude par symptômes évocateurs répétés et EFR concluantes
-- Contrôle des symptômes par {{< modal-btn modal-score-act >}}questionnaire *ACT™*{{< /modal-btn >}} à chaque consultation
+- Maîtrise de l'asthme: {{< modal-btn modal-score-act >}}questionnaire *ACT™*{{< /modal-btn >}} à chaque consultation et appli [Asthm'Activ](https://play.google.com/store/apps/details?id=com.sophia.asthme)
 - Le DEP est toujours répété 3 fois de suite
 - EFR 1-3 fois par an
-- Jamais de {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} seuls (bronchodilatateurs de courte durée d'action)
+- Jamais de {{< modal-btn modal-ttt-baca >}}*BACA*{{< /modal-btn >}} seuls (bronchodilatateurs de courte durée d'action)
 - 80% ne savent pas utiliser l'inhalateur (*GINA 2019*)
 - Le plan d'action doit être écrit
 - Traitements d'entretien de l'asthme: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous. Ou en asthme parfaitement contrôlé sans traitement {{< modal-btn modal-ttt-bala-csi >}}formotérol + budésonide{{< /modal-btn >}} en cas de symptômes

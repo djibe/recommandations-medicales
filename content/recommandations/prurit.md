@@ -22,9 +22,9 @@ todo = "Prescrire, médicaments responsables, algo, lire dermato-info"
 
 {{%article-summary%}}
 
-- Éliminer une gale.
-- Prurit chronique nu chez jeune adulte doit faire évoquer un lymphome.
-- Prurit nu non évident: biologie, radio de thorax, écho abdo.
+- Éliminer une [gale]({{< relref "gale.md" >}})
+- Prurit chronique nu chez jeune adulte doit faire évoquer un lymphome
+- Prurit nu non évident: biologie, radio de thorax, échographie abdominale
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -73,9 +73,9 @@ Mycosis fongoïde et syndrome de Sézary.
 Maladie de Hodgkin et Vaquez.
 - Dysthyroïdies
 - Infection chronique  
-VIH, hépatite B, [hépatite C]({{< relref "hepatite-c.md" >}})
+[VIH]({{< relref "vih-sida.md" >}}), [hépatite B]({{< relref "hepatite-b.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}})
 - Carences  
-Fer, vitamines.
+[Fer]({{< relref "anemie.md" >}}), vitamines.
 - Parasitoses  
 Ascaridiose, toxocarose, tropicales.
 
@@ -116,6 +116,8 @@ Le prurit est un diagnostic d'interrogatoire.
 - Autres symptômes
 - Profession
 - Conduites sexuelles à risque
+
+Aux jambes, différencier de paresthésies ou impatiences (évocatrices de [jambes sans repos]({{< relref "syndrome-jambes-sans-repos.md" >}})).
 
 ### Examen physique
 

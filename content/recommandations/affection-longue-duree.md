@@ -83,7 +83,6 @@ Liste établie par décret [révision 2011-77 (PDF)](https://www.ameli.fr/sites/
 
 Exemples:
 
-- Algies vasculaires de la face graves
 - Malformation congénitale des membres
 - Embolie pulmonaire à répétition
 - DMLA

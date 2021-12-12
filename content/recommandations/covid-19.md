@@ -23,17 +23,12 @@ imageSrc = "La Covid-19 par scientificanimations.com, CC BY-SA 4.0"
 
 {{%article-summary%}}
 
+- Page servant uniquement à stocker quelques mémos
 - Rappel vaccinal tous les 5 mois, décalé à 6 mois si infection Covid (*HAS 25/11* et *19/11*)
-- Vacciner grippe + pneumocoque les +65ans ([Académie 13.05](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/))
-- Port d'un masque en tissu réutilisable (norme AFNOR S76-001) dans tous les lieux clos publics et privés collectifs ([HCSP 14.08](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=894))
-- Pas de certificat pour le retour à l'école
 - Dire **la** CoViD-19 ([Académie française](http://www.academie-francaise.fr/le-covid-19-ou-la-covid-19))
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
-
-SARS-Cov-2
-: Virus à ARN de la famille des coronavirus de chauve-souris qui s’est adapté très récemment à l’Homme. L’existence d’un réservoir animal intermédiaire reste à ce jour débattue.
 
 CoViD-19 (la)
 : Coronavirus Disease 2019 ou Maladie à Coronavirus 2019.
@@ -87,7 +82,7 @@ BPCO, asthme sévère, fibrose pulmonaire, syndrome d'apnées du sommeil, mucovi
 - Maladies du motoneurone, myasthénie grave, SEP, Parkinson, paralysie cérébrale, quadriplégie  ou hémiplégie, tumeur maligne primitive cérébrale, maladie cérébelleuse progressive.
 - Grossesse au 3<sup>e</sup> trimestre
 
-> [Source HCSP 14.11](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=942)
+> *[Source HCSP 14.11](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=942)*
 
 {{%/collapse%}}
 {{%collapse "Séquelles" %}}
@@ -130,9 +125,9 @@ Atteintes possibles après une infection à Sars-Cov-2.
 {{< youtube id="Aj3reT1GI_8" title="Technique de prélèvement nasal" >}}
 
 {{%/collapse%}}
-{{%collapse "Outils de télésuivi" %}}
+{{%collapse "Outils de télésurveillance" %}}
 
-### Télésuivi en Ile-de-France
+### Télésurveillance en Ile-de-France
 
 - [COVI Contact. Suivi des personnes infectées ou en isolement.](https://www.iledefrance.ars.sante.fr/covi-contact-solution-de-telesuivi-et-dappui-des-personnes-isolees)  
 Le suivi est initié par l'ARS sans intervention du médecin.

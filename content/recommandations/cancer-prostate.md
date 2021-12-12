@@ -1,6 +1,7 @@
 +++
 title = "Cancer de la prostate"
 prefix = "le "
+noindex = true
 shortname = "ADK prostatique"
 synonyms = ["Adénocarcinome prostatique"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -20,12 +21,11 @@ imageSrc = ""
 todo = "<1 ng or 2 ng, Ref HAS, https://curie.fr/dossier-pedagogique/cancer-de-la-prostate-les-facteurs-de-risque, https://www.urofrance.org/recommandation/recommandations-francaises-du-comite-de-cancerologie-de-lafu-actualisation-2020-2022-cancer-de-la-prostate/?date=&themes=&search="
 +++
 
-*Ébauche de fiche en cours*
-
 {{%article-summary%}}
 
-- Proposer le dépistage à partir de 45 ans si espérance de vie ≥ 10 ans.
-- Répéter le PSA tous les 1 à 8 ans selon le PSA précédent.
+- *Ébauche de fiche*
+- Proposer le dépistage à partir de 45 ans si espérance de vie ≥ 10 ans
+- Répéter le PSA tous les 1 à 8 ans selon le PSA précédent
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

@@ -19,9 +19,9 @@ imageSrc = ""
 todo= ""
 +++
 
-{{%collapse "Liste des maladies à déclaration obligatoire" %}}
+## Liste des maladies à déclaration obligatoire
 
-Maladies faisant l'objet d'une déclaration obligatoire anonyme.
+Maladies faisant l'objet d'une déclaration obligatoire anonyme:
 
 - Botulisme
 - Brucellose
@@ -42,7 +42,7 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme.
 - Listériose
 - Mésothéliome
 - Orthopoxvirose, dont la variole
-- [Paludisme]({{< relref "paludisme.md" >}}) autochtone ou d'importation dans les départements d'outre-mer
+- [Paludisme]({{< relref "paludisme.md" >}}) autochtone ou d'importation dans les départements d'Outre-mer
 - Peste
 - Poliomyélite
 - Rage
@@ -56,12 +56,10 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme.
 - [Tuberculose]({{< relref "tuberculose.md" >}})
 - Tularémie
 - Typhus exanthématique
-- West nile virus
+- West Nile virus
 - Zika
 
 > [Santé Publique France. Liste des maladies à déclaration obligatoire](https://www.santepubliquefrance.fr/maladies-a-declaration-obligatoire/liste-des-maladies-a-declaration-obligatoire)
-
-{{% /collapse %}}
 
 ## Déclarer une maladie à déclaration obligatoire
 

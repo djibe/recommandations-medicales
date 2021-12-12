@@ -17,10 +17,12 @@ draft = false
 image = true
 imageSrc = "Photo de profeticsbeta sur Foter.com / CC BY-NC-SA"
 flowchart = true
-todo= "flowchart, soriatane contra 3 ans après arrêt, CEDEF, https://ansm.sante.fr/actualites/traitement-de-lacne-severe-premieres-recommandations-pour-ameliorer-la-securite-dutilisation-de-lisotretinoine"
+todo= "flowchart, soriatane contra 3 ans après arrêt, CEDEF, https://ansm.sante.fr/actualites/traitement-de-lacne-severe-premieres-recommandations-pour-ameliorer-la-securite-dutilisation-de-lisotretinoine, https://www.dermatoclic.com/acne"
 +++
 
 {{%article-summary%}}
+
+- *Rédaction en cours*
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

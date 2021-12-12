@@ -19,16 +19,15 @@ imageSrc = "Photo de European Parliament sur Foter.com / CC BY-NC-ND"
 todo = "lire sources, liste centre hébergement urgence, commissariat + proche, lien vers chaque droit"
 +++
 
-*Page en construction*
-
 {{%article-summary%}}
 
+- *Page en construction*
 - **3 patientes sur 10 de votre salle d'attente !**
 - [Modèle de certificat initial (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/certificat_en_cas_de_violences_sur_personne_majeure.pdf)
 - Conseiller
   - de déposer plainte
   - de naviguer sur internet en mode *Incognito*
-  - d'appeler le {{<phone>}}15{{</phone>}} ou d'aller aux Urgences à toute heure
+  - d'appeler le {{<phone>}}15{{</phone>}} ou d'aller aux *Urgences* à toute heure
 - [Declicviolence pour le médecin](https://declicviolence.fr/)
 
 {{%/article-summary%}}
@@ -40,7 +39,7 @@ todo = "lire sources, liste centre hébergement urgence, commissariat + proche, 
 - Incidence: 225.000 femmes majeures/an
 - Décès: 121 en 2018
 
-> << Les données dans la littérature sont contradictoires concernant l’association entre le statut socioéconomique et les violences conjugales >> (*Santé Publique France*)
+> << Les données dans la littérature sont contradictoires concernant l’association entre le statut socio-économique et les violences conjugales >> (*Santé Publique France*)
 
 {{% /collapse %}}
 {{%collapse "Dépistage des violences conjugales: questionnaire WAST" %}}
