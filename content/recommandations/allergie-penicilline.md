@@ -47,7 +47,7 @@ Vascularites
 
 333 cas sévères 2002-2010:
 
-- Femmes 62%, âge moyen 42,7 ans +/- 18
+- Femmes 62%, âge moyen 42,7 ans
 - 80% ambulatoire
 - Décès: 1,8%
 - Médicaments identifiés

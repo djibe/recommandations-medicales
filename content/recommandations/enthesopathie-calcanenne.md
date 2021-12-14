@@ -87,7 +87,7 @@ En cas de poussées récurrentes: uricémie, glycémie à jeun.
 
 ### Autres, selon la clinique
 
-- Échographie +/- doppler veineux  
+- Échographie ± doppler veineux  
 Élimine une bursite sous-calcanéenne ou tendinopathie.  
 Épaississement de l'aponévrose plantaire.
 

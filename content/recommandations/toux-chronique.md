@@ -27,7 +27,7 @@ todo = "lire SFORL, spirométrie?, ttt épreuve?, EOGD?, MAJ graph"
 - Vérifier les signes de gravité
 - Radio de thorax et spirométrie
 - Éviction IEC et tabac puis traitement d'épreuve de la cause la plus probable
-- 3 causes majeures +/- surajoutées: asthme, STOVAS, RGO
+- 3 causes majeures ± surajoutées: asthme, STOVAS, RGO
 - Traitement d'épreuve important et long
 
 {{%/article-summary%}}
@@ -185,10 +185,10 @@ Une autre approche consiste à associer les 3 traitements jusqu'à amélioration
 
 {{< mermaid title="Conduite à tenir devant une toux chronique. Dr JB FRON d'après SFORL 2020" >}}
 graph TB
-  toux["Toux > 8 semaines"] --> examen("Anamnèse, examen clinique, RT")
+  toux["Toux &gt; 8 semaines"] --> examen("Anamnèse, examen clinique, RT")
   style toux stroke:#4150f5, stroke-width:1px
     examen --> IEC
-      IEC("IEC ou tabac") --Arrêt--> resolution(Résolution) --Non--> RT
+      IEC(IEC ou tabac) --Arrêt--> resolution(Résolution) -- Non --> RT
     examen --> RT(Radio évocatrice ?)
       RT --Oui--> investigation("Investigations<br>Traitement spécifique")
       RT --Non--> epreuve("Traitement d'épreuve<br>Asthme (3-6 sem), STOVAS (3-6 sem) ou RGO (2-3 mois)<br>ou combiné")

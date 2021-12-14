@@ -319,7 +319,7 @@ ou débutant une activité intense (> 6 METs)
 - Trouble du rythme sévère ou mal toléré
 - Obstruction sévère ou symptomatique à l’éjection ventriculaire gauche
 - Insuffisance cardiaque décompensée
-- Thrombose veineuse aiguë +/- embolie pulmonaire
+- Thrombose veineuse aiguë ± embolie pulmonaire
 - Myocardite, péricardite ou endocardite aiguës
 - Dissection aortique aiguë
 - Thrombus intra-cardiaque à haut risque emboligène

@@ -25,7 +25,7 @@ draft = false
 
 {{%collapse "Définition" %}}
 
-- Étroitesse du prépuce prédominant au niveau de l'anneau distal, empêchant +/- sa rétractation.
+- Étroitesse du prépuce prédominant au niveau de l'anneau distal, empêchant ± sa rétractation.
 - Résulte de disproportion entre la largeur/élasticité du prépuce et le diamètre du gland.
 - Il peut s'accompagner d'adhérences balano-préputiales et/ou d'une brièveté du frein de la verge (déviation ventrale du gland à la rétraction du prépuce).
 - Première affection liée au prépuce, le terme est réservé aux prépuces non rétractables pathologiques.

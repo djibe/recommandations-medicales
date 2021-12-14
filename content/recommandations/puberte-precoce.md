@@ -52,7 +52,7 @@ Prémature thélarche
 
 ### Calendrier pubertaire
 
-L'âge classique de début des caractères sexuels secondaires est de 11 +/- 2 ans pour les filles et 12 +/- 2 ans pour les garçons.
+L'âge classique de début des caractères sexuels secondaires est de 11 ± 2 ans pour les filles et 12 ± 2 ans pour les garçons.
 
 #### Ordre d'apparition des caractères sexuels secondaires
 
@@ -194,9 +194,9 @@ Surveillance des signes d'hyperandrogénie.
 
 {{< mermaid title="Conduite à tenir devant une suspicion de puberté précoce. Dr JB FRON d'après SFEndocrino" >}}
 graph TB
-  pp["Observation de caractères sexuels"] -- Fille --> fille["Âge &lt; 8 ans"]
+  pp[Observation de caractères sexuels] -- Fille --> fille["Âge &lt; 8 ans"]
   style pp stroke:#4150f5, stroke-width:1px
-    pp -- "Garçon" --> garcon("Âge &lt; 9,5 ans")
+    pp -- Garçon --> garcon("Âge &lt; 9,5 ans")
       fille -- Oui --> examen("Interrogatoire<br>Examen clinique<br>Courbes de croissance")
       garcon -- Oui --> examen
         examen --> bilan("Âge osseux<br>Fille: Échographie pelvienne")

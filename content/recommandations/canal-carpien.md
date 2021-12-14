@@ -194,7 +194,7 @@ Les fils sont retirés au bout de 15 jours à 3 semaines après l’intervention
 graph TD
 diagnostic["Diagnostic clinique<br>de canal carpien"] --> gravite{Signes de gravité ?}
 style diagnostic stroke:#4150f5, stroke-width:1px
-diagnostic --"Diagnostic différentiel"--> differentiel("- Atteintes radiculaires C6-C7<br>- Syndrome de la traversée thoraco-brachiale<br>- Myélopathies cervicales<br>- Plexopathies<br>- Neuropathies périphériques<br>- Compression du n. médian en amont<br>- Acrosyndromes vasculaires<br>- Paresthésies fonctionnelles")
+diagnostic -- Diagnostic différentiel --> differentiel("- Atteintes radiculaires C6-C7<br>- Syndrome de la traversée thoraco-brachiale<br>- Myélopathies cervicales<br>- Plexopathies<br>- Neuropathies périphériques<br>- Compression du n. médian en amont<br>- Acrosyndromes vasculaires<br>- Paresthésies fonctionnelles")
   gravite -- Oui --> emg(ENMG pré-opératoire) --> chir("Chirurgie")
   gravite -- Non --> medical(Traitement médical<br>Orthèse - Infiltration)
 {{< /mermaid >}}

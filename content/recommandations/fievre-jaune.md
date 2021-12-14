@@ -49,7 +49,7 @@ Fièvre jaune
 Obligatoire si > 1 an.
   - Rappel à 6 ans si vacciné avant 2 ans
   - Rappel à 10 ans si vaccinés pendant grossesse, PVVIH
-  - Rappel à 10 ans si immunodépression avec suivi du taux d'anticorps +/- nouveau rappel.
+  - Rappel à 10 ans si immunodépression avec suivi du taux d'anticorps ± nouveau rappel.
   - Rappel si vaccination date de > 10 ans ET circulation active du virus.
 - Voyage en Guyane  
 Obligatoire si > 1 an.

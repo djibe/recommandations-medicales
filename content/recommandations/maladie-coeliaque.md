@@ -282,7 +282,7 @@ graph TB
   personneARisque["<b>Risque modéré</b><hr>- Intestin irritable<br>- Transaminases augmentées<br>- Diabète type 1 (/5 ans)<br>- Symptômes de MC/malabsorption<br>sans ATCD familiaux ni auto-immuns<br>- Colite microscopique<br>- Hypothyroïdie de Hashimoto<br>- Basedow<br>- Ostéopénie/ostéoporose<br>- Ataxie/neuropathie périphérique<br>- Aphtes récurrents ou défauts de l’émail dentaire<br>- Infertilité, fausses couches répétées<br>- Règles tardives, ménopause précoce<br>- Fatigue chronique<br>- Pancréatite idiopathique<br>- Épilepsie<br>- Céphalées, migraines<br>- Troubles de l’humeur/attention<br>- Retard mental<br>- Asplénie<br>- Psoriasis ou lésions dermatologiques<br>autres que la dermatite herpétiforme<br>- Trisomie 21, Turner<br>- Hémosidérose pulmonaire<br>- Néphropathie à IgA"] --> serologie("IgA totales<br>+ IgA anti-transglutaminase") --> gastro
   style personneARisque stroke:#4150f5, stroke-width:1px
       gastro(Gastro-entérologue)
-      gastro --"Diagnostic de maladie cœliaque"--> traitement("- <b>Éviction du gluten à vie</b><br>- Surveillance clinico-biologique<br>- Bilan diététique<br>- Dépistage de l'entourage")
+      gastro -- Diagnostic de maladie cœliaque --> traitement("- <b>Éviction du gluten à vie</b><br>- Surveillance clinico-biologique<br>- Bilan diététique<br>- Dépistage de l'entourage")
       gastro -- Diagnostic infirmé --> explo("Poursuite du bilan<br>par le spécialiste")
 {{< /mermaid >}}
 

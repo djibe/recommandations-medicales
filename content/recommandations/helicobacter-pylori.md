@@ -438,7 +438,7 @@ graph TB
     gastro -- H. pylori + ---> grossesse("Grossesse ou<br>allaitement ?")
       grossesse == Non ===> antibiogramme("<b>Antibiogramme</b><br>Sensible clarithromycine?")
         antibiogramme == Sensible ==> triAmox("<b>Trithérapie 14j</b><br>IPP + amoxicilline<br>+ clarithromycine")
-          triAmox ===> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et ≥ 2 semaines sans IPP")
+          triAmox ===> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et &ge; 2 semaines sans IPP")
         antibiogramme -- Résistant --> levofloS("Sensible lévofloxacine ?")
           levofloS -- Sensible --> levoflo("<b>Trithérapie 14j</b><br>IPP + amoxicilline<br>+ lévofloxacine") --> controle
           levofloS -- Résistant --> levofloR("<b>Quadrithérapie 10j</b><br>Oméprazole + Bismuth<hr>OU IPP + amoxicilline<br>+ métronidazole 14j") --> controle

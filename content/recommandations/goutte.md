@@ -305,7 +305,7 @@ graph TB
   crise[Crise de goutte] --> rhd("- Éducation<br>- Traitement à avoir sur soi<br>- Envisager hypouricémiant")
   style crise stroke:#4150f5, stroke-width:1px
     rhd --> comorbidites("Comorbidités et<br>coprescriptions")
-      comorbidites -- Sans --> sans("AINS +/- IPP<br>ou colchicine<br>ou corticoïdes") .-> echec("Échec des possibilités")
+      comorbidites -- Sans --> sans("AINS &plusmn; IPP<br>ou colchicine<br>ou corticoïdes") .-> echec(Échec des possibilités)
       comorbidites -- IRC sévère --> irc(Corticoïdes) .-> echec
       comorbidites -- MCV sévère --> mcv(Colchicine<br>ou corticoïdes) .-> echec
       comorbidites -- Inhibiteurs CYP3A4/GP --> inh(AINS<br>ou corticoïdes) .-> echec

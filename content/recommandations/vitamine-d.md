@@ -207,7 +207,7 @@ graph TB
     apports --> enfant(<b>18 mois à<br>18 ans</b><br>80-100.000 UI<br> 2x l'hiver)
     apports --> adulte(<b>Adulte &gt; 50 ans</b><br>25OHD &gt; 50 nmol/L)
       adulte --> 65(<b>&gt; 65 ans</b><br>25OHD &gt; 75 nmol/L)
-    apports --> risque(<b>Patient à risque</b><br>- Risque de chutes<br>- Corticoïdes, aromatases...<br>- Hyperparathyroïdie<br>- Malabsorption<br>- Insuffisance rénale) --> intensif("- Dosage initial<br>- 25OHD &gt; 75 nmol/L<br>- Correction rapide<br>- Apports calciques &gt; 1g/j")
+    apports --> risque(<b>Patient à risque</b><br>- Risque de chutes<br>- Corticoïdes, aromatases...<br>- Hyperparathyroïdie<br>- Malabsorption<br>- Insuffisance rénale) --> intensif("- Dosage initial<br>- 25OHD &gt; 75 nmol/L<br>- Correction rapide<br>- Apports calciques &gt; 1 g/j")
 {{< /mermaid >}}
 
 {{% /collapse %}}

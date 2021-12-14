@@ -6,9 +6,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-30T19:57:00+02:00
 publishdate = 2021-05-01
-lastmod = 2021-06-25
+lastmod = 2021-12-14
 specialites = ["gynecologie-obstetrique"]
-annees = "2020"
+annees = "2021"
 sources = ["SFD", "CNGOF"]
 tags = ["diabete"]
 anglais = ["Gestational diabetes mellitus"]
@@ -80,7 +80,7 @@ Diabète gestationnel si:
 
 - **glycémie à jeun ≥ 0,92 g/L** au 1<sup>er</sup> trimestre  
 {{%class%}}Seuil *IADPSG*.{{%/class%}}
-- ou **HGPO 75g** entre 24 et 28 SA  
+- ou **HGPO 75 g** entre 24 et 28 SA  
 Glycémie H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L.
 
 ---

@@ -184,7 +184,7 @@ Aucune indication des corticoïdes (sauf traitement au long cours).
 
 {{< mermaid title="Conduite à tenir devant un érysipèle. Dr JB FRON d'après HAS/SPILF 2019 et 2021" >}}
 graph TB
-  diagnostic["Diagnostic clinique d'érysipèle"]
+  diagnostic[Diagnostic clinique d'érysipèle]
   style diagnostic stroke:#4150f5, stroke-width:1px
     diagnostic --> indichospitalisation("<b>Indication à l'hospitalisation ?</b><hr>- Fasciite nécrosante<br>- Doute diagnostique<br>- SG marqués<br>- Fragilité<br>- Contexte social<br>- Complication locale<br>- AINS, corticoïdes<br>- Échec à 24-48h")
       indichospitalisation -- Non --> antibiotique("- Amoxicilline 50 mg/kg en 3 prises<br>7 jours (max 6 g/j)<br>- Surveillance clinique<br>- Porte d'entrée<br>- Vaccinations<br>- Anticoagulation selon déambulation")

@@ -281,7 +281,7 @@ graph TB
     atypie -- Non --> PFI("<b>Paralysie faciale idiopathique</b><br>si aucun des éléments ci-dessus")
       PFI --> bilan("<b>Examens</b><hr>- NFS<br>- Glycémie à jeûn<br>- Sérologies Lyme et VIH<br>- Audiométrie<br>- IRM n. facial<br>- ENMG si grave<br>- Sérologies VZV et HSV si hyperalgique")
         bilan --> ttt("<b>Traitement urgent</b><hr>- Prednisone po 1 mg/kg 7-10j<br>- Valaciclovir 1g x 3/j<br>- Prévention kératite<br>- Kiné en forme sévère/séq.")
-          ttt --> surv(Surveillance de la récupération<br>+/- Kiné, orthophoniste)
+          ttt --> surv(Surveillance de la récupération<br>&plusmn; Kiné, orthophoniste)
 {{< /mermaid >}}
 
 {{%/collapse%}}

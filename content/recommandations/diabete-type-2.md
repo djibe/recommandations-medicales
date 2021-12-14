@@ -93,10 +93,11 @@ Perte de poids (5-10%) ou chirurgie bariatrique.
 {{%/collapse%}}
 {{%collapse "Escalade thérapeutique" "show" %}}
 
-*Version préliminaire d'après SFD 2019.*
+*Version préliminaire d'après SFD 2021.*
 
-Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les classes thérapeutiques de préférence sont entourées ou signalées avec un indicateur bleu.  
-**Objectif 0 hypo !**
+- Cliquer sur la classe thérapeutique pour afficher plus d'informations
+- Les classes thérapeutiques de préférence sont entourées ou signalées avec un indicateur bleu
+- **Objectif 0 hypo !**
 
 ---
 
