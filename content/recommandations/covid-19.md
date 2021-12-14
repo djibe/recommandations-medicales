@@ -17,8 +17,7 @@ sctid = "840539006"
 draft = false
 flowchart = true
 image = true
-imageWEBP = true
-imageSrc = "La Covid-19 par scientificanimations.com, CC BY-SA 4.0"
+imageSrc = "La Covid-19 par stories / Freepik"
 +++
 
 {{%article-summary%}}

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-12-10"
+lastmod = "2021-12-14"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["SFD", "EASD", "ADA", "ESC", "HAS"]
@@ -15,7 +15,7 @@ anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "indications chir baria, rythme depistages pieds, oeil, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Agé: met > iDPP4 > basale (SU/glinide si bonne santé), peu arguments iSGLT2/GLP1 après 75 ans sauf CV | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IRC: met poso > iSGLT2 voire GLP1. Envisager maintien si insuline | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2; -1 kg réduit de 43% le risque de DT2 (ESC 2019 diabetes)"
+todo = "indications chir baria, rythme depistages pieds, oeil, télésurveillance, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Agé: met > iDPP4 > basale (SU/glinide si bonne santé), peu arguments iSGLT2/GLP1 après 75 ans sauf CV | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IRC: met poso > iSGLT2 voire GLP1. Envisager maintien si insuline | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2; -1 kg réduit de 43% le risque de DT2 (ESC 2019 diabetes)"
 +++
 
 {{%article-summary%}}
@@ -23,8 +23,7 @@ todo = "indications chir baria, rythme depistages pieds, oeil, https://assurance
 - [Findrisc: risque de diabète à 10 ans](https://www.diabeclic.com/findrisc)
 - Sevrage tabagique obligatoire
 - Points vitaux obligatoires (voir plus bas)
-- Traitements: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
-- Le suivi du diabète de type 2 doit être rigoureux et multidimensionnel, utiliser cet assistant du suivi adapté [le Suivi du diabète par Diabeclic](https://www.diabeclic.com/suivi-du-diabete)
+- Traitements: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}
 
 {{%/article-summary%}}
 
@@ -62,8 +61,8 @@ Rémission du diabète
   - ≥ 65 ans: 130-139/70-79 mmHg {{%class%}}(*ESC 2019 diabetes*){{%/class%}}
   - Bithérapie d'emblée {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
 - LDL cible {{%class%}}(*ESC 2019*){{%/class%}}  
-  - {{< modal-btn modal-statine-intensite >}}&lt; 0,7 g/L{{< /modal-btn >}}
-  - {{< modal-btn modal-statine-intensite >}}&lt; 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-rcv-diabete >}}maladie cardiovasculaire, > 20 ans d'évolution ou ≥ 3 autres FRCV{{< /modal-btn >}}
+  - {{< modal-btn modal-statine-intensite >}}< 0,7 g/L{{< /modal-btn >}}
+  - {{< modal-btn modal-statine-intensite >}}< 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-rcv-diabete >}}maladie cardiovasculaire, > 20 ans d'évolution ou ≥ 3 autres FRCV{{< /modal-btn >}}
 - Activité physique  
 {{%class "text-black-secondary" %}}**Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense). Endurance et renforcement musculaire. Commencer par 1000 pas supplémentaires/j.{{%/class%}}
 - Cible d'HbA1c  
@@ -93,7 +92,7 @@ Perte de poids (5-10%) ou chirurgie bariatrique.
 {{%/collapse%}}
 {{%collapse "Escalade thérapeutique" "show" %}}
 
-*Version préliminaire d'après SFD 2021.*
+*Version préliminaire d'après SFD 2021*
 
 - Cliquer sur la classe thérapeutique pour afficher plus d'informations
 - Les classes thérapeutiques de préférence sont entourées ou signalées avec un indicateur bleu
@@ -157,39 +156,16 @@ Perte de poids (5-10%) ou chirurgie bariatrique.
     </div>
   </div>
   <div class="card">
-    <div class="card-header" id="headingTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" role="button">
-      <h4 class="card-title">Après sulfamide</h4>
-    </div>
-    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
-      <div>
-         <ul class="list-group list-group-flush">
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Ajouter un GLP-1</li>
-          <li class="list-group-item list-group-item-action">Substituer par une insuline basale</li>
-          <li class="list-group-divider" role="separator"></li>
-          <li class="list-group-item font-weight-bold">SU avec hypoglycémies sévères/répétées</li>
-          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-idpp4">Substituer par un iDPP4</li>
-          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-isglt2">Substituer par un iSGLT2</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  <div class="card">
     <div class="card-header" id="headingThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" role="button">
       <h4 class="card-title">Après iSGLT2</h4>
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div>
         <ul class="list-group list-group-flush">
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Substituer ou ajouter un GLP-1</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Ajouter un GLP-1</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
           <li class="list-group-item list-group-item-action">Ajouter une insuline basale</li>
-          <li class="list-group-divider" role="separator"></li>
-          <li class="list-group-item font-weight-bold">iSGLT2 inefficace</li>
-          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Substituer par un SU</li>
-          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-iddp4">Substituer par un iDPP4</li>
         </ul>
       </div>
     </div>
@@ -201,13 +177,23 @@ Perte de poids (5-10%) ou chirurgie bariatrique.
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
       <div>
         <ul class="list-group list-group-flush">
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-insuline">Ajouter une basale</li>
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
-          <li class="list-group-divider" role="separator"></li>
-          <li class="list-group-item font-weight-bold">GLP-1 inefficace</li>
-          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Substituer par un SU</li>
-          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-isglt2">Substituer par un iSGLT2</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" role="button">
+      <h4 class="card-title">Après sulfamide</h4>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div>
+         <ul class="list-group list-group-flush">
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Substituer ou ajouter un GLP-1</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
+          <li class="list-group-item list-group-item-action">Substituer par une insuline basale</li>
         </ul>
       </div>
     </div>
@@ -215,12 +201,11 @@ Perte de poids (5-10%) ou chirurgie bariatrique.
 </div>
 <!-- 4e intention -->
 <h3 class="typography-overline mt-3">4e intention</h3>
-<p class="font-weight-bold my-2">La <a data-toggle="modal" href="#modal-metformine">metformine</a> doit toujours être maintenue.</p>
+<p class="font-weight-bold my-2">La <a role="button" data-toggle="modal" href="#modal-metformine">metformine</a> doit toujours être maintenue</p>
 <ul>
-  <li><a data-toggle="modal" href="#modal-su">SU</a> + <a data-toggle="modal" href="#modal-idpp4">iDPP4</a> + <a data-toggle="modal" href="#modal-isglt2">iSGLT2</a></li>
-  <li><a data-toggle="modal" href="#modal-glp1ra">GLP1-RA</a>, &plusmn; arrêt <a data-toggle="modal" href="#modal-su">SU</a>/<a data-toggle="modal" href="#modal-isglt2">iSGLT2</a><br>
-  Arrêt iDPP4.</li>
-  <li><a data-toggle="modal" href="#modal-insuline">Insuline basale</a></li>
+  <li>Avis endocrinologique de préférence</li>
+  <li>Sinon metformine + <a role="button" data-toggle="modal" href="#modal-glp1ra">GLP1</a> + <a role="button" data-toggle="modal" href="#modal-isglt2">iSGLT2</a>/<a role="button" data-toggle="modal" href="#modal-su">SU</a></li>
+  <li>ou metformine + <a role="button" data-toggle="modal" href="#modal-insuline">insuline basale</a></li>
 </ul>
 </div>
 <script>

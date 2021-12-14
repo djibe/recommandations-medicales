@@ -6,10 +6,11 @@
             <a class="navbar-brand" href="/">Reco Médicales</a>
          </div>
          <div class="navdrawer-nav">
+            <a href="/scores">Scores et outils cliniques</a>
             {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
                {{ if eq "specialites" $taxonomyname }}
                   {{- range $category, $pageOfCategory := $taxonomy -}}
-                  <a class="collapsed" data-toggle="collapse"
+                  <a role="button" class="collapsed" data-toggle="collapse"
                      href="#navdrawer-{{ $category | urlize }}">{{ $category | truncate 30 }}</a>
                   <div class="collapse" id="navdrawer-{{$category | urlize | lower}}">
                      {{- range $pageOfCategory.Pages.ByTitle -}}

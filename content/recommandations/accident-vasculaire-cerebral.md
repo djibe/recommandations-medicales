@@ -21,6 +21,7 @@ todo = "rééduc, bilan étiologique, https://erj.ersjournals.com/content/55/4/1
 
 {{%article-summary%}}
 
+- Mis à jour avec les recommandations AVC 2021
 - Considérer tout déficit neurologique brutal, transitoire ou prolongé, comme une urgence absolue
 - Urgence vitale, protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU  
 4h30 pour thrombolyser.
@@ -31,7 +32,7 @@ todo = "rééduc, bilan étiologique, https://erj.ersjournals.com/content/55/4/1
 - [Éducation de toute la population](https://solidarites-sante.gouv.fr/IMG/png/infographieavcsignes.png)
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Accident vasculaire cérébral (AVC)
 : Déficit neurologique survenant par interruption de la vascularisation cérébrale ou parfois par un saignement intra-cérébral (hémorragie intra-parenchymateuse HIP).
@@ -59,8 +60,7 @@ Accident ischémique transitoire (AIT)
 **TZD:** diurétiques thiazidiques  
 **UNV:** Unité neuro-vasculaire
 
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
 Accident vasculaire cérébral
 : 1<sup>re</sup> cause de mortalité chez la femme, 3<sup>e</sup> chez l'homme.  
@@ -180,8 +180,8 @@ Patient à {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}.
 - Activité physique ≥ 10 min x 4/semaine
 - Sédentaire: bouger 3 minutes toutes les 30 minutes
 - Diabète: HbA1c cible
-  - AVC < 6 mois: {{< modal-btn modal-hba1c >}}&lt; 8%{{< /modal-btn >}}
-  - Après 6 mois: {{< modal-btn modal-hba1c >}}&lt; 8%{{< /modal-btn >}}cible réadaptée selon le profil({{< relref "diabete-type-2.md" >}}) (souvent 7%)
+  - AVC < 6 mois: {{< modal-btn modal-hba1c >}}8%{{< /modal-btn >}}
+  - Après 6 mois: {{< modal-btn modal-hba1c >}}cible réadaptée selon le profil{{< /modal-btn >}}
 - [Dépister des apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) {{%class%}}(40%){{%/class%}}
 - [ALD]({{< relref "affection-longue-duree.md" >}})  
 Critère: séquelles neurologiques nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.

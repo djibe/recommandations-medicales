@@ -231,7 +231,7 @@ Indications en première intention:
 > *HAS 2017*
 
 {{% /collapse %}}
-{{%collapse "Traitement de Helicobacter pylori avec antibiogramme" %}}
+{{%collapse "Traitement de Helicobacter pylori 2021 avec antibiogramme" %}}
 
 {{%warning%}}En cas de grossesse ou d'allaitement, il faut différer le traitement{{%/warning%}}
 

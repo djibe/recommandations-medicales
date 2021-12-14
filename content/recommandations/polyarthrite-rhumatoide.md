@@ -18,7 +18,7 @@ image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "DAS28, flowchart, https://www.has-sante.fr/jcms/c_664454/fr/ald-n-22-polyarthrite-rhumatoide-evolutive-grave"
+todo = "DAS28, flowchart, https://www.has-sante.fr/jcms/c_664454/fr/ald-n-22-polyarthrite-rhumatoide-evolutive-grave, https://www.sciencedirect.com/science/article/abs/pii/S1297319X21001925"
 +++
 
 {{%article-summary%}}

@@ -443,12 +443,12 @@ Contre-indications aux IEC/ARA2 et inhibiteurs de la rénine.
 {{< traitements/regime-mediterraneen >}}
 
 {{% /modal %}}
-{{% modal title="IEC dans l'hypertension" id="modal-iec" size="lg"%}}
+{{% modal title="IEC dans l'hypertension" id="modal-iec" %}}
 
 {{< traitements/iec >}}
 
 {{% /modal %}}
-{{% modal title="ARA2 dans l'hypertension" id="modal-ara2" size="lg"%}}
+{{% modal title="ARA2 dans l'hypertension" id="modal-ara2" %}}
 
 {{< traitements/ara2 >}}
 
