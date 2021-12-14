@@ -108,12 +108,16 @@ Perte de poids (5-10%) ou chirurgie bariatrique.
   <label for="obese" class="chip chip-action chip-filter">Obésité</label>
   <input type="checkbox" id="mcv" class="d-none" disabled>
   <label for="mcv" class="chip chip-action chip-filter" data-toggle="tooltip" title="Maladie cardiovasculaire">MCV</label>
-  <input type="checkbox" id="irc" class="d-none" disabled>
-  <label for="irc" class="chip chip-action chip-filter" data-toggle="tooltip" title="Insuffisance rénale chronique">IRC</label>
+  <input type="checkbox" id="mrc" class="d-none" disabled>
+  <label for="mrc" class="chip chip-action chip-filter" data-toggle="tooltip" title="Maladie rénale chronique">MRC</label>
   <input type="checkbox" id="ic" class="d-none" disabled>
   <label for="ic" class="chip chip-action chip-filter" data-toggle="tooltip" title="Insuffisance cardiaque">Insuf. cardiaque</label>
+  <input type="checkbox" id="grossesse" class="d-none" disabled>
+  <label for="grossesse" class="chip chip-action chip-filter" data-toggle="tooltip" title="Grossesse">Grossesse</label>
 </fieldset>
 </form>
+<h3 class="typography-overline">Toujours</h3>
+<p>Changement des habitudes alimentaires, lutte contre la sédentarité et activité physique adaptée.<br>Réévaluation à 3-6 mois.</p>
 <h3 class="typography-overline">1<sup>re</sup> intention</h3>
 <button class="chip chip-action mb-2" type="button" data-toggle="modal" data-target="#modal-metformine">Metformine</button>
 <p class="font-weight-bold my-2">La metformine doit être maintenue au long cours.</p>
@@ -121,9 +125,9 @@ Perte de poids (5-10%) ou chirurgie bariatrique.
 <h3 class="typography-overline mt-3">Bithérapie - Ajouter au choix</h3>
 <div class="mb-2 choix-standard">
   <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-idpp4">iDDP4</button>
+  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
+  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1ra">GLP1-RA</button>
   <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-su">SU</button>
-  <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-glp1ra">GLP1-RA</button>
-  <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
 </div>
 <div class="mb-2 choix-obese">
   <button class="chip chip-action flex-grow-1 border border-primary" type="button">iSGLT2</button>
@@ -144,14 +148,10 @@ Perte de poids (5-10%) ou chirurgie bariatrique.
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div>
         <ul class="list-group list-group-flush">
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Substituer par un GLP-1</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
           <li class="list-group-item list-group-item-action">Substituer par une insuline basale</li>
-          <li class="list-group-divider" role="separator"></li>
-          <li class="list-group-item font-weight-bold">Si iDD4 inefficace</li>
-          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Substituer par un SU</li>
-          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-isglt2">Substituer par un iSGLT2</li>
         </ul>
       </div>
     </div>

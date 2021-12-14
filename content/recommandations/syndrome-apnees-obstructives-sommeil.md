@@ -1,5 +1,6 @@
 +++
 title = "Syndrome d'apnées obstructives du sommeil"
+titleSeo = "Syndrome d'apnées du sommeil"
 prefix = "le "
 shortname = "SAOS"
 synonyms = ["Apnées du sommeil"]

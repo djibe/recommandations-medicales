@@ -1,6 +1,7 @@
 +++
 title = "Phénomène de Raynaud"
 prefix = "le "
+titleSeo = "Syndrome de Raynaud"
 shortname = "Raynaud"
 synonyms = ["Maladie de Raynaud", "syndrome de Raynaud"]
 auteurs = ["Jean-Baptiste FRON"]

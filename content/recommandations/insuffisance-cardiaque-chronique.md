@@ -488,7 +488,7 @@ l’accompagnement social est important
 réalistes
   - Chercher un soutien psychosocial si approprié
 
-> HAS 2014, ESC 2021, [HFA 2010](https://doi.org/10.1093/eurjhf/hfq219)
+> HAS 2014, ESC 2021, [HFA 2010](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)
 
 {{%/collapse%}}
 {{%collapse "Sources" %}}
@@ -502,7 +502,7 @@ réalistes
 - [SFC. Recommandations de la Société Française de Cardiologie pour les épreuves d'effort. 2018.](https://sfcardio.fr/publication/recommandations-pour-les-epreuves-deffort)
 - [HAS. Insuffisance cardiaque systolique. ALD n°5. Actes et prestations - Affection de longue durée. Juillet 2015. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/liste_ald_insuf_card_systolique.pdf)
 - [HAS. Insuffisance cardiaque. Guide du parcours de soins. Juin 2014. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_ic_web.pdf)
-- [Lainscak M. et al. Self-care management of heart failure: practical recommendations from the Patient Care Committee of the Heart Failure Association of the European Society of Cardiology. European Journal of Heart Failure. 13: 115-126.](https://doi.org/10.1093/eurjhf/hfq219)
+- [Lainscak M. et al. Self-care management of heart failure: practical recommendations from the Patient Care Committee of the Heart Failure Association of the European Society of Cardiology. European Journal of Heart Failure. 13: 115-126.](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)
 
 {{% /collapse %}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}

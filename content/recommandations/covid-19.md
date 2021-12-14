@@ -143,8 +143,6 @@ Le suivi est initié par l'ARS sans intervention du médecin.
 
 ### Autres
 
-- [DGS-URGENT N°2020-INF- 46 : Durée d’isolement et de quarantaine des cas confirmés de Covid-19 et des personnes contact à risque. 12/09/2020.](https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/detailsMessageBuilder.do?id=31051&cmd=visualiserMessage)
-- [SFP. COVID19 et écoles - Propositions de la Société Française de Pédiatrie. 09/09/2020](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/Recommandations_09092020.pdf)
 - [Journal Officiel. Arrêté du 24 juillet 2020 modifiant l'arrêté du 10 juillet 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de covid-19 dans les territoires sortis de l'état d'urgence sanitaire et dans ceux où il a été prorogé. 25/07/2020](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000042148309&categorieLien=id)
 - [Académie nationale de Médecine. Avis: Les séquelles de la Covid-19. 15/07/2020](http://www.academie-medecine.fr/wp-content/uploads/2020/07/Se%CC%81quelles-Avis.pdf)
 - [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe !. 13/05/2020](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)

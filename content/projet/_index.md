@@ -446,7 +446,7 @@ Comme tous mes confrères, je suis confronté quotidiennement à la nécessité 
 
 ### L’état de l’art évolue rapidement et sa dissémination aux généralistes est très limitée
 
-L'**État de l'art** est dispersé sur internet (HAS, sociétés savantes...), dans des documents trop longs. Il n'est pas adapté aux soins primaires, quand il n'est pas tout simplement détenu par des éditeurs (Elsevier...), à 30€ l'article. De plus, le rythme des publications est rapide.
+L'**État de l'art** est dispersé sur internet (HAS, sociétés savantes...), dans des documents trop longs. Il n'est pas adapté aux soins primaires, quand il n'est tout simplement pas détenu par des éditeurs à but lucratif (Elsevier...). De plus, le rythme des publications est rapide.
 
 > Les progrès de la médecine n’atteignent guère les généralistes
 

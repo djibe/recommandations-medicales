@@ -6,6 +6,7 @@
     "element-required-attributes": "off",
     "no-raw-characters": "off",
     "no-trailing-whitespace": "off",
-    "svg-focusable": "off"
+    "svg-focusable": "off",
+    "void-style": "off"
   }
 }

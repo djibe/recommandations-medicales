@@ -1,5 +1,6 @@
 +++
 title = "Interruption volontaire de grossesse"
+titleSeo = "Interruption de grossesse"
 prefix = "l'"
 shortname = "IVG"
 synonyms = ["Avortement"]
