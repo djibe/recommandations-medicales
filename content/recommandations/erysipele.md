@@ -39,7 +39,7 @@ Gravité initiale selon terrain, sévérité locale et sepsis.
 : Les complications sont exceptionnelles: abcès, sepsis sévère, glomérulonéphrite post-streptococcique, DHB nécrosante avec/sans fasciite nécrosante (DHBN-FN. Terrain +50 ans, diabète, hémopathie/cancer, insuffisance d'organe, toxicomanie).
 : Facteurs de risque: locaux (lymphœdème, intertrigo, ulcère de jambe, plaie) et obésité.
 
-**NB.** *Alcoolisme* et *diabète* << ne semblent pas être des facteurs de risque >>.
+**NB.** *Alcoolisme* et *diabète* << ne semblent pas être des facteurs de risque >>.
 
 ### Abréviations
 
@@ -103,7 +103,7 @@ Le bilan biologique est utile pour le retentissement:
 
 ### Bactériologie
 
-Dans les formes typiques et en l'absence de signe de comorbidité << aucun examen bactériologique n'est nécessaire >>.
+Dans les formes typiques et en l'absence de signe de comorbidité << aucun examen bactériologique n'est nécessaire >>.
 
 ### Échodoppler veineux
 

@@ -95,7 +95,7 @@ Exemples:
 {{% /collapse %}}
 {{%collapse "ALD exonérante - Polypathologies ALD 32" %}}
 
-Ex : Polyarthrose avec troubles de la marche + incontinence urinaire + tremblement essentiel
+Ex: Polyarthrose avec troubles de la marche + incontinence urinaire + tremblement essentiel
 
 {{% /collapse %}}
 {{%collapse "Rémunération" %}}

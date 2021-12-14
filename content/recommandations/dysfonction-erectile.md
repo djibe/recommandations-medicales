@@ -120,7 +120,7 @@ En cas de suspicion de neuropathie périphérique (diabète ancien, alcoolisme c
 {{%collapse "Traitement de la dysfonction érectile" %}}
 
 Prise en charge par le médecin généraliste quand:  
-<< homme avec partenaire intéressée par l’amélioration de la sexualité du couple et si possible avec érections spontanées conservées >>.
+<< homme avec partenaire intéressée par l’amélioration de la sexualité du couple et si possible avec érections spontanées conservées >>.
 
 Il doit être adapté à la demande réelle du patient et du couple et selon la motivation pour éventuel traitement.  
 Traitements expliqués et discutés avec le patient.
@@ -155,7 +155,7 @@ Exemple : 2 séances d'endurance, 2 séances de renforcement et 1 activité en g
 {{%/collapse%}}
 {{%collapse "Suivi" %}}
 
-Réévaluation systématique sous 1-2 mois :  
+Réévaluation systématique sous 1-2 mois:  
 Compréhension et utilisation du traitement, efficacité, effets secondaires, satisfaction personnelle et de la partenaire.
 
 ### Si échec après 4 à 6 essais

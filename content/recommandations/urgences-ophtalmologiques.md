@@ -49,7 +49,7 @@ datatable = true
 | Orléans | CHR Orléans: La Source | 14 av. de l'Hôpital<br>45100 Orléans | lun-ven<br>8:30-17:30 | 02 38 74 43 77 | Courrier obligatoire |
 | Paris | Quinze-Vingts<br>Porte 9 | 28 rue de Charenton<br>75012 Paris | 24/7 | 01 40 02 16 80 | |
 | Paris | Hôpital Ambroise Paré | 9 av. Charles de Gaulle<br>92100 Boulogne-Billancourt | lun-ven<br>8:30-17:00 | 01 49 09 55 09 | Numéro médecin 01 49 09 55 10 |
-| Paris | Hôpital Cochin: OphtalmoPôle<br>Bâtiment Pascal | 8 Rue Mechain<br>75014 Paris | 24/7 | 01 58 41 23 00 | |
+| Paris | Hôpital Cochin: OphtalmoPôle<br>Bâtiment Pascal | 8 Rue Mechain<br>75014 Paris | 24/7 | 01 58 41 23 00 | |
 | Paris | Hôpital Kremlin Bicêtre<br>Bâtiment Testas porte 6 | 78 av. du général Leclerc<br>94270 Le Kremlin-Bicêtre | lun-ven<br>8:00-16:00 | 01 45 21 36 85 | |
 | Paris | Hôpital Lariboisière | 2 rue Ambroise Paré<br>75010 Paris | lun-ven<br>8:30-16:00 | 01 49 95 64 78 | BAV brutale/récente ou suivi/opéré dans le service uniquement |
 | Paris | Hôpital Percy | 101 av. Henri Barbusse<br>92140 Clamart | 24/7 ? | 01 41 46 62 31 | +15 ans uniquement |

@@ -130,7 +130,7 @@ Disposer du matériel nécessaire à un choc anaphylactique.
   - Aiguille 16 mm (orange)
 - Après 1 an
   - Deltoïde
-  - Aiguilles: 16 mm (orange) < 60 kg ; 30-40 mm (bleue-noire) pour ado/adulte, 40 mm (noire) si > 90 kg
+  - Aiguilles: 16 mm (orange) < 60 kg; 30-40 mm (bleue-noire) pour ado/adulte, 40 mm (noire) si > 90 kg
 
 #### Sites où ne pas injecter
 

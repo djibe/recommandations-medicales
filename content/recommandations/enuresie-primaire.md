@@ -144,6 +144,6 @@ Oxybutynine en monothérapie
 
 - [Prescrire Redaction. Patients ayant une énurésie nocturne. Janvier 2021.](https://prescrire.org/)
 - [Prescrire Redaction. Énurésie isolée des enfants. Revue Prescrire 2019; 39 (434):914-922.](https://prescrire.org/)
-- [Aubert D. et al. Énurésie nocturne primaire isolée : diagnostic et prise en charge. Progrès en Urologie, Volume 20, Issue 5, 2010, Pages 343-349. (PDF)](https://afpa.org/content/uploads/2017/09/main.pdf)
+- [Aubert D. et al. Énurésie nocturne primaire isolée : diagnostic et prise en charge. Progrès en Urologie. Volume 20. Issue 5. 2010. Pages 343-349. (PDF)](https://afpa.org/content/uploads/2017/09/main.pdf)
 
 {{% /collapse %}}

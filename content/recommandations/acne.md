@@ -153,18 +153,18 @@ En première intention: **Peroxyde de benzoyle 5%** en 1 application par jour.
 
 {{% info %}}
 Curaspot® 5% gel (ou Cutacnyl, Eclaran, Effacné, Pannogel, Panoxyl, Papclair).  
-1 à 2 applications par jour sur peau propre.  
+1 à 2 applications par jour sur peau propre.  
 En irritation locale forte: espacer les applications tous les 2 ou 3 jours.  
-Efficacité visible en 4-6 semaines.  
-Puis 2 à 3 applications par semaine en entretien.
+Efficacité visible en 4-6 semaines.  
+Puis 2 à 3 applications par semaine en entretien.
 {{% /info %}}
 
 {{% info %}}
 En cas d'intolérance au peroxyde de benzoyle
 
 - Adapalène 0,1% x 1/j (cf rétentionnelle)
-- OU érythromycine 4% gel (Erythrogel®, gén) 1-2 appli/jour 3 mois + rétinoïde local (cf rétentionnelle) en application le soir si association fixe (Erylik®) ou alternance matin et soir si traitements séparés.
-- OU clindamycine 1% locale (Dalacine T Topic®, gén) 2 appli/jour + rétinoïde local (cf rétentionnelle)
+- OU érythromycine 4% gel (Erythrogel®, gén) 1-2 appli/jour 3 mois + rétinoïde local (cf rétentionnelle) en application le soir si association fixe (Erylik®) ou alternance matin et soir si traitements séparés.
+- OU clindamycine 1% locale (Dalacine T Topic®, gén) 2 appli/jour + rétinoïde local (cf rétentionnelle)
 {{% /info %}}
 
 Autre traitement possible mais de faible efficacité: acide azélaïque gel 15% ou crème 20% x 2/j.

@@ -68,7 +68,7 @@ Dysménorrhée, surpoids, acné
 Accroissement rapide de la pilosité, hypertrophie musculaire, clitoridienne, raucité de la voix, calvitie, troubles menstruels récents
 - Hyperplasie congénitale des surrénale  
 Accroissement progressif de la pilosité, premières règles tardives chez une petite femme, virilisme, troubles menstruels
-- Idiopathique : **antécédents familiaux**, isolé sans hyperandrogénie ni virilisme
+- Idiopathique: **antécédents familiaux**, isolé sans hyperandrogénie ni virilisme
 - **Médicaments pris**  
 Si iatrogène, apparition le plus souvent après plusieurs mois et régression en quelques mois après l’arrêt du traitement.
   - Testostérone/DHEA, danazol, tibolone

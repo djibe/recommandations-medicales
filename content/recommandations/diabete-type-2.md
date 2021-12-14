@@ -14,7 +14,7 @@ tags = ["bariatrique", "diabete", "HTA", "insuline", "retinopathie", "nephropath
 anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
-imageSrc = "Illustration par vectorjuice / Freepik"
+imageSrc = "Illustration du diabète par vectorjuice / Freepik"
 todo = "indications chir baria, rythme depistages pieds, oeil, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Agé: met > iDPP4 > basale (SU/glinide si bonne santé), peu arguments iSGLT2/GLP1 après 75 ans sauf CV | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IRC: met poso > iSGLT2 voire GLP1. Envisager maintien si insuline | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2; -1 kg réduit de 43% le risque de DT2 (ESC 2019 diabetes)"
 +++
 
@@ -126,7 +126,7 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
 </div>
 <div class="mb-2 choix-obese">
   <button class="chip chip-action flex-grow-1 border border-primary" type="button">iSGLT2</button>
-  <button class="chip chip-action flex-grow-1" type="button">GLP-1 RA</button>
+  <button class="chip chip-action flex-grow-1" type="button">GLP-1</button>
 </div>
 <div class="mb-2 choix-ic">
   <button class="chip chip-action" type="button">iSGLT2</button>
@@ -145,7 +145,7 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
         <ul class="list-group list-group-flush">
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Substituer par un GLP-1 RA</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Substituer par un GLP-1</li>
           <li class="list-group-item list-group-item-action">Substituer par une insuline basale</li>
           <li class="list-group-divider" role="separator"></li>
           <li class="list-group-item font-weight-bold">Si iDD4 inefficace</li>
@@ -164,7 +164,7 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
          <ul class="list-group list-group-flush">
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Ajouter un GLP-1 RA</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Ajouter un GLP-1</li>
           <li class="list-group-item list-group-item-action">Substituer par une insuline basale</li>
           <li class="list-group-divider" role="separator"></li>
           <li class="list-group-item font-weight-bold">SU avec hypoglycémies sévères/répétées</li>
@@ -183,7 +183,7 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
         <ul class="list-group list-group-flush">
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Ajouter un GLP-1 RA</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1ra">Ajouter un GLP-1</li>
           <li class="list-group-item list-group-item-action">Ajouter une insuline basale</li>
           <li class="list-group-divider" role="separator"></li>
           <li class="list-group-item font-weight-bold">iSGLT2 inefficace</li>
@@ -195,7 +195,7 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
   </div>
   <div class="card">
     <div class="card-header" id="headingFour" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" role="button">
-      <h4 class="card-title">Après GLP-1 RA</h4>
+      <h4 class="card-title">Après GLP-1</h4>
     </div>
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
       <div>
@@ -204,7 +204,7 @@ Cliquer sur la classe thérapeutique pour afficher plus d'informations. Les clas
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
           <li class="list-group-divider" role="separator"></li>
-          <li class="list-group-item font-weight-bold">GLP-1 RA inefficace</li>
+          <li class="list-group-item font-weight-bold">GLP-1 inefficace</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Substituer par un SU</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-isglt2">Substituer par un iSGLT2</li>
         </ul>
@@ -293,18 +293,15 @@ window.onload = () => {
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- {{< references/sfd-dt2 >}}
 - [Riddle M.C. et al. Consensus report: definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021.](https://link.springer.com/article/10.1007/s00125-021-05542-z)
 - [Monnier L. et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. Volume 1. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
 - {{< references/esc-dyslipidemie >}}
-- {{< references/sfd-dt2 >}}
+- {{< references/esc-diabetes >}}
 - {{< references/esc-hta >}}
 
-### À intégrer
-
-- {{< references/esc-diabetes >}}
-
 {{% /collapse %}}
-{{% modal title="Objectifs glycémiques selon SFD 2019" id="modal-hba1c"%}}
+{{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}
 

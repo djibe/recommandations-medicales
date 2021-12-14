@@ -550,7 +550,7 @@ Décroît après l'arrêt du traitement.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Trémollieres F. et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. Volume 49. Issue 5.2021. Pages 305-317.](https://doi.org/10.1016/J.GOFS.2021.03.010)
+- [Trémollieres F. et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. Volume 49. Issue 5.2021. Pages 305-317.](https://doi.org/10.1016/J.GOFS.2021.03.010)
 - Prescrire Redaction. Troubles liés à la ménopause. Premiers choix Prescrire. Juin 2020.
 
 {{% /collapse %}}

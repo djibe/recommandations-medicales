@@ -50,7 +50,7 @@ Localisés autour des articulations atteintes et préférentiellement oreille (p
 Allopurinol
 : Médicament hypo-uricémiant utilisé trop largement.  
 Il est la 1<sup>re</sup> de cause survenue de toxidermies bulleuses graves en Europe.  
-La **mortalité** est de 20-30% et 60% de ces accidents sous *allopurinol* surviennent chez des patients qui n’ont aucune indication au traitement.
+La **mortalité** est de 20-30% et 60% de ces accidents sous *allopurinol* surviennent chez des patients qui n’ont aucune indication au traitement.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -127,7 +127,7 @@ Force la diurèse à 2-3 L/jour.
 Indication: en 2<sup>e</sup> intention selon *Prescrire®* (à la place des AINS).
 
 {{%info%}}
-Colchicine 1 mg per os avec 2<sup>e</sup> prise de 0,5 mg 1 heure après.  
+Colchicine 1 mg per os avec 2<sup>e</sup> prise de 0,5 mg 1 heure après.  
 Puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours).
 {{%/info%}}
 
@@ -167,7 +167,7 @@ Traitement de dernier ressort en cas de:
 - Contre-indication ou résistance à la colchicine
 - ET ≥ 3 crises durant l’année précédente
 
-*Canakinumab* (Ilaris®) 150 mg SC dose unique.  
+*Canakinumab* (Ilaris®) 150 mg SC dose unique.  
 Intervalle de 12 semaines entre 2 injections.
 
 Traitement contre-indiqué en cas d'infection active.
@@ -232,7 +232,7 @@ Ne pas descendre sous les 30 mg/L au long cours car probable rôle neuroprotecte
 
 Débuter à dose faible puis titration jusqu’à objectif biologique (< 50 mg/L).
 
-{{%info%}}Allopurinol 50 à 100 mg/j, paliers de 50 à 100 mg /2-4 semaines jusqu’à l’objectif uricémique (max 900 mg/j) puis prolongé au long cours.{{%/info%}}
+{{%info%}}Allopurinol 50 à 100 mg/j, paliers de 50 à 100 mg /2-4 semaines jusqu’à l’objectif uricémique (max 900 mg/j) puis prolongé au long cours.{{%/info%}}
 
 Traitement de fond de choix selon la clairance:
 
@@ -253,7 +253,7 @@ La dissolution des dépôts d’urate expose à des crises de goutte durant les 
 
 {{%info%}}Prévention par colchicine 0,5 à 1 mg/j pendant au moins les 6 premiers mois du traitement de fond.{{%/info%}}
 
-{{%class%}}Naproxène 250 mg x 2/j n'est plus cité en 2020 par manque d'études.{{%/class%}}
+{{%class%}}Naproxène 250 mg x 2/j n'est plus cité en 2020 par manque d'études.{{%/class%}}
 
 #### Échec de l'allopurinol
 

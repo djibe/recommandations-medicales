@@ -300,24 +300,23 @@ graph TB
 
 **NB.** Régimes sans gluten et lactose n'ont pas fait preuve d'efficacité.
 
-{{% /collapse %}}
+{{%/collapse%}}
 {{%collapse "Sources" %}}
 
 - [Société Française de Rhumatologie. Actualisation des Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. Septembre 2018.](https://www.sciencedirect.com/science/article/pii/S1169833018301522)
 - [EULAR. 2016 update of the EULAR recommandations for the management of early arthritis. 03/31/2017.](https://ard.bmj.com/content/76/6/948)
-- [EULAR. EULAR recommandations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs : 2016 update. 03/17/2017.](https://ard.bmj.com/content/76/6/960)
+- [EULAR. EULAR recommandations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs : 2016 update. 03/17/2017.](https://ard.bmj.com/content/76/6/960)
 - [Société Française de Rhumatologie. Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. Juin 2014.](https://www.sciencedirect.com/science/article/pii/S1169833014001148)
 - [Le COFER. Polyarthrite rhumatoïde. Item 196 UE 8.](http://www.lecofer.org/item-cours-1-17-0.php)
 
-{{% /collapse %}}
-<!-- Modal -->
+{{%/collapse%}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}
 
 {{< traitements/regime-mediterraneen >}}
 
-{{% /modal %}}
+{{%/modal%}}
 {{% modal title="Vaccination anti-pneumococcique" id="modal-vaccin-pneumocoque"%}}
 
 {{< traitements/vaccin-pneumocoque >}}
 
-{{% /modal %}}
+{{%/modal%}}

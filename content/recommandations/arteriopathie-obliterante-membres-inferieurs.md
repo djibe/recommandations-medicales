@@ -293,12 +293,12 @@ style depister stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- {{< references/sfd-dt2 >}}
 - [Mahé G. et al, the SFMV/SCVE group. Disparities between international guidelines (AHA/ESC/ESVS/ESVM/SVS) concerning - Lower extremity arterial disease: consensus of the French Society of Vascular Medicine (SFMV) and the French Society for Vascular and Endovascular Surgery (SCVE). Annals of Vascular Surgery. 2021.](https://doi.org/10.1016/j.avsg.2020.11.011)
 - {{< references/esc-dyslipidemie >}}
 - Prescrire Redaction. Signes d’artériopathie des membres inférieurs. Août 2019.
-- {{< references/sfd-dt2 >}}
 - [Aboyans A. et al. 2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS): Document covering atherosclerotic disease of extracranial carotid and vertebral, mesenteric, renal, upper and lower extremity arteries. Endorsed by: the European Stroke Organization (ESO) The Task Force for the Diagnosis and Treatment of Peripheral Arterial Diseases of the European Society of Cardiology (ESC) and of the European Society for Vascular Surgery (ESVS). Eur Heart J. 2018 Mar 1;39(9):763-816.](https://doi.org/10.1093/eurheartj/ehx095)
-- [Mahé G., Jaquinandi V. Artériopathie des membres inférieurs athéromateuse : diagnostic. La Presse Médicale. Volume 47. Issue 1. 20183 Pages 47-55. ISSN 0755-4982.](https://doi.org/10.1016/j.lpm.2017.09.021)
+- [Mahé G., Jaquinandi V. Artériopathie des membres inférieurs athéromateuse : diagnostic. La Presse Médicale. Volume 47. Issue 1. 20183 Pages 47-55. ISSN 0755-4982.](https://doi.org/10.1016/j.lpm.2017.09.021)
 - [HAS. Actes et prestations – ALD. Artériopathie oblitérante des membres inférieurs. Novembre 2016.](https://www.has-sante.fr/jcms/c_534760/fr/ald-n3-arteriopathie-obliterante-des-membres-inferieurs)
 - [Mounier-Vehier C et al. Quand doit-on dépister l’artériopathie oblitérante des membres inférieurs ? Quelle stratégie médicale proposer ? Mal Coeur Vaiss Prat. 15 déc 2009;15(182):13‑24.](https://www.em-consulte.com/article/237143)
 - [TASC II. Management of Peripheral Arterial Disease. 2007.](https://www.jvascsurg.org/article/S0741-5214(06)02296-8/pdf)
@@ -317,7 +317,7 @@ style depister stroke:#4150f5, stroke-width:1px
 {{< clinique/risque-cardiovasculaire-diabete >}}
 
 {{% /modal %}}
-{{% modal title="Objectifs glycémiques selon SFD 2019" id="modal-hba1c"%}}
+{{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}
 

@@ -185,7 +185,7 @@ Indications: HBP compliquée, SBAU modérés ou sévères résistants au traitem
 Méthodes:
 
 - Résection trans-urétrale de prostate (RTUP)  
-Volume < 80 mL . Référence. 75% ont éjaculation rétrograde post-opératoire.
+Volume < 80 mL. Référence. 75% ont éjaculation rétrograde post-opératoire.
 - Incision cervico-prostatique (ICP)  
 Prostate < 30 mL.
 - Adénomectomie voie haute (AVH, prostatectomie)  

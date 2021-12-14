@@ -405,10 +405,10 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
+- {{< references/sfd-dt2 >}}
 - [HAS. Maladie rénale chronique de l’adulte. Guide du parcours de soins. Juillet 2021.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
 - [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. Volume 99. Issue 3. 559 - 569.](https://doi.org/10.1016/j.kint.2020.10.026)
 - {{< references/esc-dyslipidemie >}}
-- {{< references/sfd-dt2 >}}
 - {{< references/esc-hta >}}
 
 ### À lire
@@ -427,7 +427,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{< clinique/osteoporose-risque-fracture >}}
 
 {{% /modal %}}
-{{% modal title="Objectifs glycémiques selon SFD 2019" id="modal-hba1c"%}}
+{{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}
 

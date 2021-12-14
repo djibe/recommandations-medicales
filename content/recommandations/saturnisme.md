@@ -82,7 +82,7 @@ En cas de présence de facteurs de risques d’exposition au plomb, soumettre ce
 
 - Séjour régulier dans un logement construit avant 1949 ?  
 Si oui, y a-t-il de la peinture écaillée accessible à l’enfant ?
-- Travaux de rénovation dans un habitat construit avant 1949 ?
+- Travaux de rénovation dans un habitat construit avant 1949 ?
 - Habitat dans une zone proche d’une source d’exposition industrielle ?
 - Occupation professionnelle ou activités de loisirs des parents ?  
 (Apport de poussières par les chaussures, les vêtements de travail)
@@ -124,7 +124,7 @@ Préciser sur l’ordonnance:
 - Date du précédent dosage, traitements réalisés depuis le précédent dosage
 
 Si la plombémie d’enfant est ≥ 50 µg/L:  
-Transmettre la fiche émise par le laboratoire ([Cerfa 12378*03](https://www.formulaires.service-public.fr/gf/cerfa_12378.do)) au médecin inspecteur de santé publique (MISP) de l’ARS sous pli confidentiel avec mention « secret médical ».
+Transmettre la fiche émise par le laboratoire ([Cerfa 12378*03](https://www.formulaires.service-public.fr/gf/cerfa_12378.do)) au médecin inspecteur de santé publique (MISP) de l’ARS sous pli confidentiel avec mention << secret médical >>.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}

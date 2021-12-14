@@ -45,7 +45,7 @@ Intervention le plus souvent nécessaire. Survient sur prépuce cicatriciel (inf
 Rétraction du prépuce strictement impossible.
 - **Phimosis peu serré**  
 Rétraction possible mais aboutit à un anneau de striction ± marqué.
-- Lichen scléro-atrophique : dermatose chronique d'étiologie inconnue survenant chez l'homme jeune.
+- Lichen scléro-atrophique: dermatose chronique d'étiologie inconnue survenant chez l'homme jeune.
 
 ### Évolution naturelle du phimosis
 
@@ -53,16 +53,16 @@ Rétraction possible mais aboutit à un anneau de striction ± marqué.
 - À la naissance. En général, il est impossible de découvrir le gland. Le feuillet interne du prépuce et la surface du gland sont recouverts par un épithélium commun qui les unit temporairement.
 - Ce phimosis physiologique disparaît progressivement et spontanément vers 3-4 ans grâce à une kératinisation progressive.
 
-Selon J. Oster :
-> À 1 an: décalottage possible 50%, 6-7 ans à 8%, 3 % à 12-13 ans, 1% après 16 ans
+Selon J. Oster:
+> À 1 an: décalottage possible 50%, 6-7 ans à 8%, 3% à 12-13 ans, 1% après 16 ans
 
 Selon Branger (France)
-> À 10 ans : normal 89%, adhérences 10% dont 3% importantes et phimosis vrai 1,1% (6,5% si ajoute déjà opérés)
+> À 10 ans: normal 89%, adhérences 10% dont 3% importantes et phimosis vrai 1,1% (6,5% si ajoute déjà opérés)
 
 ### Complications et enjeux du phimosis
 
 - Infections locales  
-**Posthite** et **balano-posthite** par surinfection (fongique, bactérienne) du **smegma**. Douleurs, œdème du prépuce inflammatoire, écoulement par l'orifice préputial. Risque phimosis cicatriciel. Si récidivantes : rechercher un diabète  
+**Posthite** et **balano-posthite** par surinfection (fongique, bactérienne) du **smegma**. Douleurs, œdème du prépuce inflammatoire, écoulement par l'orifice préputial. Risque phimosis cicatriciel. Si récidivantes: rechercher un diabète  
 **NB.** Il n'est pas prouvé que le phimosis soit responsable d'infections urinaires à répétition.
 
 - Paraphimosis  
@@ -105,14 +105,14 @@ En 1<sup>re</sup> intention dans le phimosis congénital avec application de **c
 Pourrait être utilisé sur tous les types de phimosis, donc systématiquement en 1re intention.  
 Manipulations débutées de J1 à J14 selon les études.  
 Taux de succès voisin des 80% (79-96%).  
-**Valérate de béthamétasone 0,05-0,06 %  (Betneval®, Celestoderm®) x 2/j pendant 4 semaines.**  
+**Valérate de béthamétasone 0,05-0,06%  (Betneval®, Celestoderm®) x 2/j pendant 4 semaines.**  
 Possibilité de 2e cycle de traitement identique en cas d'échec.  
 NB. Pas d'effets secondaires. Facteur déterminant est l'observance du traitement. Risque de récidive faible.
 
-Aussi étudiés : triamcinolone 0,02 % x 2/j pendant 6 semaines, proprionate de clobétasol, furoate de mométasone, diclofénac.
+Aussi étudiés: triamcinolone 0,02% x 2/j pendant 6 semaines, proprionate de clobétasol, furoate de mométasone, diclofénac.
 Étudiés avec effets secondaires: pommades aux œstrogènes.
 
-Les adhérences balano-préputiales. Si persistent après 5 ans : elles peuvent être levées en appliquant un anesthésique local type EMLA crème 30min avant le geste, puis levées par des tractions douces.
+Les adhérences balano-préputiales. Si persistent après 5 ans: elles peuvent être levées en appliquant un anesthésique local type EMLA crème 30min avant le geste, puis levées par des tractions douces.
 
 ### B. Traitement chirurgical
 

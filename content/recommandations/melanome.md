@@ -45,9 +45,9 @@ Il n'est donné que pour les mélanomes envahissant le derme.
 
 ### Types histologiques du mélanome
 
-- Superficiel extensif SSM (60-70 %)
-- de Dubreuilh (10 %)
-- Acro-lentigineux (des paumes-plantes, 2 %)
+- Superficiel extensif SSM (60-70%)
+- de Dubreuilh (10%)
+- Acro-lentigineux (des paumes-plantes, 2%)
 - Nodulaire (exceptionnel)
 - Muqueux
 - Inclassable
@@ -63,7 +63,7 @@ Indice de Breslow, de Clark, ulcération, index mitotique, emboles vasculaires.
 
 - 13<sup>e</sup> cancer de la femme, 7<sup>e</sup> de l'homme
 - **Incidence:** 15.400 nouveaux cas en 2017  
-{{%class%}}47% de femmes. Incidence en augmentation de 10 %/an depuis 50 ans.{{%/class%}}
+{{%class%}}47% de femmes. Incidence en augmentation de 10 %/an depuis 50 ans.{{%/class%}}
 - Âge moyen au diagnostic: 56 ans.
 - Décès annuels: 1783 en 2017  
 {{%class%}}58% d’hommes. 1,2% des décès par cancer.{{%/class%}}
@@ -87,7 +87,7 @@ Cheveux roux ou blonds, yeux clairs.
   - Éphélides nombreuses
   - Nombreux nævi (≥ 40)
   - Nævus congénital géant
-  - Nævus atypique (> 5mm, irrégulier)
+  - Nævus atypique (> 5mm, irrégulier)
   - Sensibilité au soleil (coups de soleil fréquents, bronze peu)
 - Photo-exposition solaire/UV/latitude  
 Brûlures dans l'enfance (cloques) ++

@@ -90,7 +90,7 @@ Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, i
 - Entéro-colopathie inflammatoire (diarrhée, amaigrissement)
 - Troubles du rythme/conduction et valvulopathies
 
-{{% warning %}}Recherche systématique de MICI si diarrhée ou amaigrissement inexpliqué.{{% /warning %}}
+{{%warning%}}Recherche systématique de MICI si diarrhée ou amaigrissement inexpliqué.{{%/warning%}}
 
 ### Comorbidités
 
@@ -131,7 +131,7 @@ Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, i
 5. Enthésopathie achilléenne ou plantaire
 6. Fessalgie à bascule
 7. Sacro-iliite radiologique  
-(stade 2-4 bilatéral ou 3-4 unilatéral ; 0=normal, 1=possible, 2=modéré, 3=évolué, 4=ankylose)
+(stade 2-4 bilatéral ou 3-4 unilatéral; 0=normal, 1=possible, 2=modéré, 3=évolué, 4=ankylose)
 
 Se 87%, Spe 96%
 

@@ -1,12 +1,13 @@
 +++
 title = "Douleurs neuropathiques"
 prefix = "les "
-shortname = ""
+shortname = "DN"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Dr D. BOUHASSIRA"
 date = "2021-09-09T13:10:04+02:00"
 publishdate = "2021-09-13"
-lastmod = "2021-10-03"
+lastmod = "2021-12-13"
 specialites = ["neurologie"]
 annees = "2020"
 sources = ["SFETD", "HAS"]
@@ -17,7 +18,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration de la douleur neuropathique par brgfx / Freepik"
-todo = "carence B9B12?, relecture nadine attal demandée"
+todo = "carence B9B12?"
 +++
 
 {{%article-summary%}}

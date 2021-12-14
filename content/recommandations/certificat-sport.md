@@ -210,7 +210,7 @@ Informer: les microbes ne sont pas éliminés par la sueur.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Marijon E. et al. Prévention de la mort subite du sportif : état des lieux. Archives des Maladies du Coeur et des Vaisseaux - Pratique. Volume 2021. Issue 299. Pages 2-9.](https://doi.org/10.1016/J.AMCP.2021.04.003)
+- [Marijon E. et al. Prévention de la mort subite du sportif : état des lieux. Archives des Maladies du Coeur et des Vaisseaux - Pratique. Volume 2021. Issue 299. Pages 2-9.](https://doi.org/10.1016/J.AMCP.2021.04.003)
 - [Journal Officiel. Décret 2021-564. 07/05/2021.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486809)
 - [CNOM. Certificats de non contre-indication à la pratique du sport. Médecins n°69. sept-oct 2020](https://www.conseil-national.medecin.fr/sites/default/files/external-package/bulletin/m05mhm/medecins_69.pdf)
 - [Marijon E et al. Characteristics and Outcomes of Sudden Cardiac Arrest During Sports in Women. Circ Arrhythm Electrophysiol. 2013 Dec;6(6):1185-91.](https://doi.org/10.1161/circep.113.000651)

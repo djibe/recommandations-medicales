@@ -89,7 +89,7 @@ Débuter la lévothyroxine à posologie basse, croissante par paliers jusqu'à o
 - Possible majoration des risques: hématome rétro-placentaire, prématurité, DRA néonatale.
 - Dépistage si signes évocateurs: ATCD thyroïdiens personnels/familiaux, notion d'anticorps thyroïdiens, maladie auto-immune
 - Examens: TSH, T4L, anticorps anti-TPO
-- Si TSH > 3 mUI/L : surveillance rapprochée avec TSH à 1 mois
+- Si TSH > 3 mUI/L: surveillance rapprochée avec TSH à 1 mois
 - Traitement systématique dès que la TSH > 4 mUI/L
 - TSH cible < 2,5 mUI/L
 
@@ -103,11 +103,11 @@ Débuter la lévothyroxine à posologie basse, croissante par paliers jusqu'à o
 
 **Bilan à 1 mois avec TSH, T4L, anticorps anti-TPO**
 
-- Si T4L basse : hypothyroïdie (voir fiche)
-- Si T4L normale et TSH > 10 mUI/L : traitement immédiat
-- Si T4L normale et anticorps anti-TPO+ : traitement immédiat
-- Si enceinte avec TSH > 4 mUI/L : traitement immédiat
-- Sinon : contrôle TSH à 6 mois puis annuel en l'absence de normalisation
+- Si T4L basse: hypothyroïdie (voir fiche)
+- Si T4L normale et TSH > 10 mUI/L: traitement immédiat
+- Si T4L normale et anticorps anti-TPO+: traitement immédiat
+- Si enceinte avec TSH > 4 mUI/L: traitement immédiat
+- Sinon: contrôle TSH à 6 mois puis annuel en l'absence de normalisation
 
 {{< mermaid title="Conduite à tenir devant une hypothyroïdie fruste. Dr JB FRON d'après HAS 2019" >}}
 graph TB

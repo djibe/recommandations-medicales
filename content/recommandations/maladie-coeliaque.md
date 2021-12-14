@@ -71,7 +71,7 @@ Prévalence 3-10%.
 - Maladie de [Hashimoto]({{< relref "hypothyroidie.md" >}}) ou de Basedow
 - HLA-DQ2 et HLA-DQ8
 - Autres  
-Voir *Qui dépister par sérologie ?*
+Voir *Qui dépister par sérologie ?*
 
 {{%/collapse%}}
 {{%collapse "Qui dépister par fibroscopie d’emblée ?" %}}
@@ -89,7 +89,7 @@ Personnes à risque élevé de maladie cœliaque:
 - Iléostomie ou colostomie avec hyperdébit non expliqué
 
 {{%/collapse%}}
-{{%collapse "Qui dépister par sérologie ?" %}}
+{{%collapse "Qui dépister par sérologie ?" %}}
 
 - Syndrome de l’intestin irritable (SII)
 - Transaminases augmentées inexpliquées
@@ -144,8 +144,8 @@ ou maladie de Basedow
 
 #### Chez l’enfant
 
-- Toujours : **Retard de croissance**, **diarrhée**, fonte musculaire, **anorexie**, distension abdominale.
-- Souvent : détresse émotionnelle, humeur labile, léthargie, constipation, douleurs abdominales
+- Toujours: **Retard de croissance**, **diarrhée**, fonte musculaire, **anorexie**, distension abdominale.
+- Souvent: détresse émotionnelle, humeur labile, léthargie, constipation, douleurs abdominales
 
 Le diagnostic est affirmé par un faisceau d'arguments cliniques, biologiques, par la biopsie du grêle **ET** par la régression de ces signes en **éviction totale du gluten**.
 
@@ -199,7 +199,7 @@ En cas de maladie prouvée, dépistage de tout les proches au 1<sup>er</sup> deg
   - Indications: adulte avec biopsie positive, enfant avec sérologie positive
   - Amélioration des symptômes à partir de 2 semaines d'éviction
   - Les symptômes disparaissent le plus souvent après 6 à 12 mois de traitement
-  - **NB.** << Chez les enfants qui se portent bien après l’arrêt du régime sans gluten, la recherche des auto-anticorps est **à répéter tous les ans**, afin de vérifier qu’il n’y a pas de rechutes >>.
+  - **NB.** << Chez les enfants qui se portent bien après l’arrêt du régime sans gluten, la recherche des auto-anticorps est **à répéter tous les ans**, afin de vérifier qu’il n’y a pas de rechutes >>.
 - Encourager un régime alimentaire riche en fibres  
   Riz entier, maïs, pommes de terres, légumes.  
   L’avoine est toléré par la plupart des personnes (surveiller la survenue de complications).

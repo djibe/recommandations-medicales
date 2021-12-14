@@ -80,7 +80,7 @@ Signes négatifs (différences avec l'acné): respect péri-buccal et péri-ocul
 ### Forme hypertrophique - Rhinophyma
 
 Homme +50 ans à 95%.  
-Hypertrophie du nez, rouge avec orifices folliculaires dilatés. Peau épaissie avec aspect de « trogne ».  
+Hypertrophie du nez, rouge avec orifices folliculaires dilatés. Peau épaissie avec aspect de << trogne >>.  
 N'est pas synonyme d'alcoolisme.  
 Aucune régression après installation.
 

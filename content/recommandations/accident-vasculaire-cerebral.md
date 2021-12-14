@@ -82,7 +82,7 @@ Accident ischémique transitoire
 {{%info%}}
 5 signes d'alerte de l'American Stroke Association:
 
-1. Déficit moteur (> 50%)  
+1. Déficit moteur (> 50%)  
 Faiblesse ou engourdissement soudain, uni ou bilatéral de la face, du bras ou de la jambe.
 2. Trouble visuel (28%)  
 Diminution ou perte de vision uni ou bilatérale.
@@ -269,9 +269,9 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- {{< references/sfd-dt2 >}}
 - [Kleindorfer DO et al. 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2021 Jul;52(7):e364-e467.](https://www.ahajournals.org/doi/10.1161/STR.0000000000000375)
 - {{< references/esc-dyslipidemie >}}
-- {{< references/sfd-dt2 >}}
 - [Gabet A. et al; Santé Publique France. Connaissance de l'accident vasculaire cérébral et de ses symptômes en France en 2019. BEH. 2020. n°28. 554-561.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/connaissance-de-l-accident-vasculaire-cerebral-et-de-ses-symptomes-en-france-en-2019)
 - {{< references/esc-hta >}}
 - [HAS. Prévention vasculaire après un infarctus cérébral ou un accident ischémique transitoire. 13/06/2018.](https://www.has-sante.fr/jcms/c_1252051/fr/prevention-vasculaire-apres-un-infarctus-cerebral-ou-un-accident-ischemique-transitoire)
@@ -291,7 +291,7 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 {{< traitements/statine-intensite >}}
 
 {{% /modal %}}
-{{% modal title="Objectifs glycémiques selon SFD 2019" id="modal-hba1c"%}}
+{{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}
 

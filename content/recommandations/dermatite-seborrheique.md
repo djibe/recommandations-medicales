@@ -123,7 +123,7 @@ OU kétoconazole (Ketoderm®, gén) gel moussant 2%
 **Effets indésirables:** prurit, sensation de brûlure, xérose cutanée, interactions médicamenteuses.  
 Seule le kétoconazole topique peut être utilisé pendant la grossesse.
 
-Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine, pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
+Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine, pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
 
 {{%warning%}}
 **Ne pas utiliser:**

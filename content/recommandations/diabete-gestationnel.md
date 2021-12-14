@@ -9,7 +9,7 @@ publishdate = 2021-05-01
 lastmod = 2021-06-25
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
-sources = ["CNGOF", "SFD"]
+sources = ["SFD", "CNGOF"]
 tags = ["diabete"]
 anglais = ["Gestational diabetes mellitus"]
 sctid = "11687002"
@@ -37,7 +37,7 @@ Diabète gestationnel (DG)
 : Hyperglycémie à jeun gravidique sans hyperglycémie avant la grossesse.  
 Facteur de risque de complications obstétricales:  
     - Maternelles: pré-éclampsie, césarienne
-    - Fœtales : macrosomie, hydramnios (rare), hyperbilirubinémie
+    - Fœtales: macrosomie, hydramnios (rare), hyperbilirubinémie
 : La prévalence du DG est de 8% (2012) et en augmentation. Le risque ultérieur de [diabète de type 2]({{< relref "diabete-type-2.md" >}}) est alors **x7**.
 : Sur-dépistage du DG: 76% versus 42% attendus (*Regnault 2012*)
 
@@ -78,7 +78,7 @@ Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque par
 {{%info%}}
 Diabète gestationnel si:
 
-- **glycémie à jeun ≥ 0,92 g/L** au 1<sup>er</sup> trimestre  
+- **glycémie à jeun ≥ 0,92 g/L** au 1<sup>er</sup> trimestre  
 {{%class%}}Seuil *IADPSG*.{{%/class%}}
 - ou **HGPO 75g** entre 24 et 28 SA  
 Glycémie H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L.
@@ -93,7 +93,7 @@ Adresser à la maternité de son choix pour la mise en place d'une auto-surveill
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-{{%info%}}Objectifs glycémiques: glycémie à jeun < 0,95 g/L et post-prandiale H2 < 1,20 g/L{{%/info%}}
+{{%info%}}Objectifs glycémiques: glycémie à jeun < 0,95 g/L et post-prandiale H2 < 1,20 g/L{{%/info%}}
 
 ### Mesures hygiéno-diététiques (RHD)
 
@@ -179,6 +179,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%collapse "Sources" %}}
 
+- {{< references/sfd-dt2 >}}
 - [Vambergue A. et al; SFD, CNGOF. Diabète gestationnel et pandémie SARS-Cov2 (COVID-19). Avril 2020. (PDF)](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)
 - [Brown J. et al. L'insuline pour le traitement des femmes atteintes de diabète gestationnel. Cochrane Database of Systematic Reviews 2017, Issue 11. Art.](https://www.cochrane.org/fr/CD012037/PREG_linsuline-pour-le-traitement-des-femmes-atteintes-de-diabete-gestationnel)
 - [Pirson N. et al. Prise en charge du diabète gestationnel en 2016 : une revue de la littérature. Louvain med 2016; 135 (10): 661-668. (PDF)](https://www.louvainmedical.be/sites/default/files/content/article/pdf/lmed-12-2016-01-pirson.pdf)

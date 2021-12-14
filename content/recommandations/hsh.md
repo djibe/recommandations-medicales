@@ -108,6 +108,6 @@ Spécialités chez l'adulte:
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)
-- [Le Bourhis-Zaimi M et al. Épidémie d’hépatite A parmi des hommes ayant des rapports sexuels avec des hommes, Rouen, décembre 2016 – avril 2017. Bull Epidémiol Hebd. 2017;(18):355-61.](http://beh.santepubliquefrance.fr/beh/2017/18/2017_18_2.html)
+- [Le Bourhis-Zaimi M. et al. Épidémie d’hépatite A parmi des hommes ayant des rapports sexuels avec des hommes, Rouen, décembre 2016 – avril 2017. Bull Epidémiol Hebd. 2017;(18):355-61.](http://beh.santepubliquefrance.fr/beh/2017/18/2017_18_2.html)
 
 {{% /collapse %}}

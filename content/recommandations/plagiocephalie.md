@@ -39,7 +39,7 @@ todo = "TODO: summary"
 - Allaitement artificiel exclusif
 - Périodes d’éveil sur le ventre < 3 fois par jour
 - Taux d’activité limité
-- Autres : préférence positionnelle pendant le sommeil, position fixe dans le lit
+- Autres: préférence positionnelle pendant le sommeil, position fixe dans le lit
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -52,7 +52,7 @@ Examiner le sommet de la tête, vue du dessus et regarder la position des oreill
 - Vérifier l’**amplitude des mouvements passifs et actifs du cou** (torticolis congénital)
 - Vérifier les **sutures** (lambdoïdes +++, craniosynostose)
 
-3 grands types de DCP décrits en vue du sommet du crâne :
+3 grands types de DCP décrits en vue du sommet du crâne:
 
 1. plagiocéphalies fronto-occipitales (déformations asymétriques)
 2. plagiocéphalies occipitales (déformations asymétriques)
@@ -75,7 +75,7 @@ Radiographies du crâne uniquement en suspicion de craniosynostose ou d’aggrav
 {{% /collapse %}}
 {{%collapse "Traitement de la plagiocéphalie" %}}
 
-**Rappel**. « Le couchage à plat sur le dos strict pour le sommeil est recommandé pour prévenir la mort inattendue du nourrisson » (HAS 02/2020).
+{{%info%}}<< Le couchage à plat sur le dos strict pour le sommeil est recommandé pour prévenir la mort inattendue du nourrisson >> (*HAS 02/2020*){{%/info%}}
 
 Autres facteurs de **mort inattendue du nourrisson** (MIN) : cale-bébé, cale-tête, coussin de positionnement, réducteur de lit, tour de lit. Ni doudous, peluches, couettes, couvertures.
 

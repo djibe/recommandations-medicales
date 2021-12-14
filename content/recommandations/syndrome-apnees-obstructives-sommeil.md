@@ -339,15 +339,15 @@ Les données sont fournies par le prestataire.
 
 #### Indications françaises à traiter le SAOS
 
-Le patient doit remplir les [conditions du Journal Officiel de juillet 2017 (PDF)](http://www.sfrms-sommeil.org/wp-content/uploads/2017/09/Avis-de-projet_juillet-2017_joe_20170711_0161_0100.pdf) pour bénéficier d'une prise en charge de la Sécu:
+Le patient doit remplir les [conditions du Journal Officiel 07/2017 (PDF)](http://www.sfrms-sommeil.org/wp-content/uploads/2017/09/Avis-de-projet_juillet-2017_joe_20170711_0161_0100.pdf) pour bénéficier d'une prise en charge de la Sécu:
 
-- ≥ 3 symptômes parmi: somnolence diurne, ronflements sévères et quotidiens, sensation d’étouffement ou de suffocation pendant le sommeil, fatigue diurne, nycturie, céphalées matinales
+- ≥ 3 symptômes parmi: somnolence diurne, ronflements sévères et quotidiens, sensation d’étouffement ou de suffocation pendant le sommeil, fatigue diurne, nycturie, céphalées matinales
 - SAOS sévère (IAH ≥ 30)
 - OU SAOS modéré (15 ≤ IAH < 30) avec:
   - somnolence diurne sévère et/ou risque accidentel pouvant entraîner un dommage corporel direct ou indirect
   - OU maladie cardiovasculaire ou respiratoire grave (HTA résistante, FA, IC symptomatique, coronaropathie haut risque, AVC, BPCO sévère, asthme mal contrôlé)
 
-Choix préférentiel de la PPC si:
+Choix préférentiel de la PPC si:
 
 - SAOS sévère
 - SAOS modéré avec sommeil de mauvaise qualité (≥ 10 micro-éveils/h = RDI ≥ 25)  
@@ -432,10 +432,10 @@ A. Présence ≥ 1 vrai parmi:
   4. Comorbidités diagnostiquées: hypertension artérielle, troubles de l’humeur, troubles cognitifs, coronaropathie, AVC, insuffisance cardiaque congestive, fibrillation atriale, diabète type 2
 
 B. Polysomnographie ou polygraphie ambulatoire mesure:  
-RDI ≥ 5 (événements respiratoires principalement obstructifs : apnées obstructives ou mixtes, hypopnées ou ERIM) par heure de sommeil (PSG) ou heure d’enregistrement (PV)
+RDI ≥ 5 (événements respiratoires principalement obstructifs: apnées obstructives ou mixtes, hypopnées ou ERIM) par heure de sommeil (PSG) ou heure d’enregistrement (PV)
 
 C. PSG ou PV ambulatoire mesurent:  
-RDI ≥ 15 (événements respiratoires principalement obstructifs : apnées, hypopnées ou ERIM) par heure de sommeil (PSG) ou heure d’enregistrement (PV)
+RDI ≥ 15 (événements respiratoires principalement obstructifs: apnées, hypopnées ou ERIM) par heure de sommeil (PSG) ou heure d’enregistrement (PV)
 
 Les critères pour le SAOS de l’enfant sont différents.
 
@@ -462,9 +462,9 @@ Apnées obstructives du sommeil:
 
 - Pas d’apnées obstructives du sommeil  
 IAH < 5
-- Légère ({{%lang%}}mild{{%/lang%}})  
+- Légère ({{%lang%}}mild{{%/lang%}})  
 5 ≤ IAH < 15
-- Modérée ({{%lang%}}moderate{{%/lang%}})  
+- Modérée ({{%lang%}}moderate{{%/lang%}})  
 15 ≤ IAH < 30
 Sévère ({{%lang%}}severe{{%/lang%}})  
 IAH ≥ 30

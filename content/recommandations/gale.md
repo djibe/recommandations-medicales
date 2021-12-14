@@ -48,7 +48,7 @@ Il s'agit d'une réaction inflammatoire, ils ne contiennent pas de sarcopte. Rec
 
 {{%info%}}Évoquer une gale devant tout prurit ou impétiginisation{{%/info%}}
 
-**Forme typique**: prurit diffus à recrudescence nocturne, épargnant le visage à caractère conjugal ou familial.
+**Forme typique**: prurit diffus à recrudescence nocturne, épargnant le visage à caractère conjugal ou familial.
 
 Le diagnostic est clinique. Cependant un prurit isolé non évocateur ne doit pas faire réaliser un traitement d'épreuve.
 
@@ -249,12 +249,12 @@ Pulvérisez du scabicides spray  pendant la journée sur toute la literie et ore
 4. Le soir: enfilez vos gants jetables pour mettre des draps propres et préparer des vêtements non fragiles pour la nuit.
 5. Dînez à 19h30 en prenant votre comprimé d'anti-histaminique puis:
     - rassemblez tous les vêtements des 3 derniers jours, placez-les dans des sacs, ils seront exclus pour 4 jours. Fermez hermétiquement les sacs.  
-    - ne pas oublier : manteaux, serviettes de table, draps, plaids, taies d'oreiller, housse de couette, tapis de salon, tapis de bain, couvertures, chaussons, chaussures, gants, doudous, bonnets/chapeaux, foulards, casques et bijoux.
+    - ne pas oublier: manteaux, serviettes de table, draps, plaids, taies d'oreiller, housse de couette, tapis de salon, tapis de bain, couvertures, chaussons, chaussures, gants, doudous, bonnets/chapeaux, foulards, casques et bijoux.
 6. Prenez une douche, séchez vous avec une serviette propre, puis ne touchez plus la serviette, il faudra la laver à 60°C.
 7. Étalez le tube entier sur tout le corps sauf le visage (Topiscab)
-    - Ne pas oublier : derrière les oreilles, la nuque, insistez sur les plis/aisselles et les organes, génitaux
-    - Attendez un peu que le produit sèche (si Spregal : ré-appliquez une 2e couche 15 minutes après).
-8. Enfilez un t-shirt à manches longues, pantalon, chaussettes propres, ne rien toucher !
+    - Ne pas oublier: derrière les oreilles, la nuque, insistez sur les plis/aisselles et les organes, génitaux
+    - Attendez un peu que le produit sèche (si Spregal: ré-appliquez une 2e couche 15 minutes après).
+8. Enfilez un t-shirt à manches longues, pantalon, chaussettes propres, ne rien toucher !
 9. 22 heures: avalez le nombre de comprimés de Stromectol prescrit.
 10. Couchez vous dans les draps propres
 
@@ -264,7 +264,7 @@ Pulvérisez du scabicides spray  pendant la journée sur toute la literie et ore
 
 1. prenez une douche, séchez-vous avec une serviette propre, vos vêtements de la nuit doivent être exclus 4 jours, lavez la serviette à 60°C.
 2. Mettre des vêtements propres, ou non touchés plus de 4 jours avant.
-3. Mettre des gants jetables : Retirez les draps et lavez les à 60°C  
+3. Mettre des gants jetables: Retirez les draps et lavez les à 60°C  
 Ouvrez la fenêtre et aspergez la literie et les oreillers, la couette, les canapés, les tapis d' ascaricide de façon systématique.  
 Changez intégralement de vêtements tous les jours.  
 

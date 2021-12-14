@@ -37,7 +37,7 @@ Souvent par altération de la glande mais parfois par atteinte centrale hypothal
 La TSH est élevée et la T4L basse.
 : **Les principales causes sont auto-immune et iatrogène** (médicament, radiothérapie).
 : **Pas de dépistage systématique de l’hypothyroïdie en population générale.**
-: On la distingue de l'**[hypothyroïdie fruste ou infraclinique]({{< relref "hypothyroidie-fruste.md" >}})** où la **TSH est élevée de façon isolée**.
+: On la distingue de l'**[hypothyroïdie fruste ou infraclinique]({{< relref "hypothyroidie-fruste.md" >}})** où la **TSH est élevée de façon isolée**.
 : L'hypothyroïdie atteint 5% de la population, dont ⅔ de femmes et 10% des sujets âgés.
 
 ### Facteurs favorisants l'hypothyroïdie
@@ -54,7 +54,7 @@ La TSH est élevée et la T4L basse.
   Goitre constant, diffus, volume modéré, ferme, souvent indolore et non compressif, pseudo-nodulaire.  
   Anticorps anti-TPO à taux élevés et aspect échographiques caractéristiques.  
   Aggravation progressive avec diminution du volume de la glande et du taux des AC.  
-  Favorise la maladie cœliaque (dépister systématiquement) et le lymphome thyroïdien (rare, < 1 % des cas).
+  Favorise la maladie cœliaque (dépister systématiquement) et le lymphome thyroïdien (< 1% des cas).
 - Thyroïdite chronique  
   Souvent asymptomatique, euthyroïdie  
   Taux élevé d'anticorps circulants, parenchyme hétérogène  
@@ -65,13 +65,13 @@ La TSH est élevée et la T4L basse.
   Anticorps anti-TPO+ (75%) et anti-TG+ (50%).  
   Aggravation progressive comparable au Hashimoto.
 - Thyroïdite subaiguë de De Quervain ou virale  
-  Dans les suites d'une infection respiratoire : syndrome grippal, inflammatoire avec un goitre ferme et douloureux.  
+  Dans les suites d'une infection respiratoire: syndrome grippal, inflammatoire avec un goitre ferme et douloureux.  
   Phase de thyrotoxicose puis hypothyroïdie le plus souvent transitoire.  
 - Thyroïdite transitoire  
-  Thyrotoxicose pauci-symptomatique puis hypothyroïdie séquellaire dans 20 % des cas.
+  Thyrotoxicose pauci-symptomatique puis hypothyroïdie séquellaire dans 20% des cas.
 - Thyroïdite du post-partum  
-Fréquente (5-10 % des femmes), survient dans l'année, surtout si diabète type 1 ou taux élevés d'AC antithyroïdiens au 1er trimestre. Récidive dans 70 % des cas à la grossesse suivante.  
-Souvent transitoire (70 %), contrôle TSH à 1 an.  
+Fréquente (5-10% des femmes), survient dans l'année, surtout si diabète type 1 ou taux élevés d'AC antithyroïdiens au 1er trimestre. Récidive dans 70% des cas à la grossesse suivante.  
+Souvent transitoire (70%), contrôle TSH à 1 an.  
 Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le 2e mois post-partum (reprise rapide du poids normal, nervosité).  
 - Autres causes
   - Iatrogène  
@@ -108,7 +108,7 @@ Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le
 - Cardiaque  
   Bradycardie, assourdissement des bruits du cœur, HTA fréquente, angor, épanchement péricardique si ancien
 - Respiratoire  
-  En atteinte sévère : épanchement pleural bilatéral, apnées du sommeil, bradypnée
+  En atteinte sévère: épanchement pleural bilatéral, apnées du sommeil, bradypnée
 - Neuro-psy  
   Ralentissement psychomoteur, syndrome dépressif et baisse de libido et érection, voire démence ou agitation chez le sujet âgé. Crampes, neuropathie périphérique
 - Aménorrhée, infertilité
@@ -138,7 +138,7 @@ Retentissement biologique:
 
 Parfois troubles de la coagulation et du bilan hépatique.
 
-> << Il n'y a pas lieu de doser la T3L >>
+{{%info%}}<< Il n'y a pas lieu de doser la T3L >>{{%/info%}}
 
 Si arguments pour étiologie auto-immune, dosage des **anticorps anti-TPO**. Il est inutile de renouveler ce dosage ainsi que de doser d’autres anticorps antithyroïdiens.
 
@@ -191,7 +191,7 @@ Délai avant amélioration des symptômes de **2 semaines après instauration du
 
 {{%info%}}
 Initier à 1,7 µg/kg/j chez l'adulte.  
-{{%class "text-black-secondary" %}}Sujet âgé: 1,3 | Enfant: 2 | Coronarien 12,5 à 25 µg/j.{{%/class%}}
+{{%class "text-black-secondary" %}}Sujet âgé: 1,3 | Enfant: 2 | Coronarien 12,5 à 25 µg/j.{{%/class%}}
 
 Adaptation par paliers de 12 µg.
 {{%/info%}}
@@ -217,13 +217,13 @@ Adaptation par paliers de 12 µg.
 
 **Dosage de la TSH à 6 semaines** et adaptation par **paliers de 6 à 12 semaines** sur critères clinico-TSH.
 
-Surveillance au long cours :
+Surveillance au long cours:
 Une fois l'euthyroïdie obtenue, contrôle clinique + TSH /6 mois puis 1 fois par an.
 NB. Pas de surveillance du dosage des anticorps ou de l'iodémie/iodurie
 
 - Si TSH déséquilibrée : vérifier le mode d'administration de l'opothérapie
-- Si TSH légèrement anormale chez patient bien équilibrée et sans explication pour le déséquilibre : recontrôler la TSH à distance
-- Si patient se plaint de persistance des symptômes malgré une TSH normalisée : Augmenter par petits paliers pour obtenir une TSH à la moitié de la fourchette des valeurs normales
+- Si TSH légèrement anormale chez patient bien équilibrée et sans explication pour le déséquilibre: recontrôler la TSH à distance
+- Si patient se plaint de persistance des symptômes malgré une TSH normalisée: Augmenter par petits paliers pour obtenir une TSH à la moitié de la fourchette des valeurs normales
 
 **Effets indésirables en cas de surdosage:** tachycardie/palpitations, agitation, insomnie.  
 Surveiller la survenue d’**attaques de paniques** même en concentrations plasmatiques thérapeutiques.

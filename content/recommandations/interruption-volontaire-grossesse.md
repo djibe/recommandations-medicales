@@ -37,7 +37,7 @@ todo = "Prescrire"
 
 > << Les échecs contraceptifs dus au défaut d’observance sont l’une des principales causes de recours à l’interruption volontaire de grossesse (IVG) en France >> (*CNGOF 2018*).
 
-> << Dans tous les cas où cela est possible, les femmes doivent pouvoir choisir la méthode, médicamenteuse ou chirurgicale, et recevoir une information détaillée. Cette information renforce la satisfaction des femmes après IVG. >>
+> << Dans tous les cas où cela est possible, les femmes doivent pouvoir choisir la méthode, médicamenteuse ou chirurgicale, et recevoir une information détaillée. Cette information renforce la satisfaction des femmes après IVG. >>
 
 ### Épidémiologie
 
@@ -63,13 +63,13 @@ Douleurs abdomino-pelviennes quasi-constantes.
 
 {{%info%}}
 
-- Mifépristone 600 mg par voie orale (Mifégyne® 200 mg cp)
-- À 24-48h: misoprostol 400 µg par voie orale (Gymiso® 200 µg cp)
+- Mifépristone 600 mg par voie orale (Mifégyne® 200 mg cp)
+- À 24-48h: misoprostol 400 µg par voie orale (Gymiso® 200 µg cp)
 
 OU
 
-- Mifépristone 200 mg par voie orale (Mifégyne® 200 mg cp)
-- À 24-48h: misoprostol 400 µg par voie transmuqueuse orale ou sublinguale (Gymiso® 200 µg cp)
+- Mifépristone 200 mg par voie orale (Mifégyne® 200 mg cp)
+- À 24-48h: misoprostol 400 µg par voie transmuqueuse orale ou sublinguale (Gymiso® 200 µg cp)
 {{%/info%}}
 
 > Voie transmuqueuse orale: placer les comprimés entre la joue et la gencive, puis avaler les fragments résiduels après 30 minutes.
@@ -80,8 +80,8 @@ OU
 
 {{%info%}}
 
-- Mifépristone 200 mg par voie orale (Mifégyne® 200 mg cp)
-- À 24-48h: misoprostol 800 µg par voie transmuqueuse orale ou sublinguale (Gymiso® 200 µg cp)
+- Mifépristone 200 mg par voie orale (Mifégyne® 200 mg cp)
+- À 24-48h: misoprostol 800 µg par voie transmuqueuse orale ou sublinguale (Gymiso® 200 µg cp)
 {{%/info%}}
 
 {{%class%}}Taux de grossesse évolutive: < 8 SA - 0,5% | 8-9 SA - 1,5%{{%/class%}}
@@ -131,7 +131,7 @@ Si prise à domicile et Rhésus -: injection immédiate des Ig anti-D
 ### 4<sup>e</sup> consultation: si choix de prise avec le médecin généraliste
 
 - Prise du misoprostol + check-list ci-dessus
-- Prévention de l'incompatibilité rhésus si femme Rhésus négatif: immunoglobulines anti-D 200 µg IM au plus tard dans les 72h qui suivent les saignements.
+- Prévention de l'incompatibilité rhésus si femme Rhésus négatif: immunoglobulines anti-D 200 µg IM au plus tard dans les 72h qui suivent les saignements.
 - Visite de contrôle OBLIGATOIRE  
 Prévue entre 14 et 21<sup>e</sup> jour post-IVG
 - Examen clinique, dosage bêta-hCG plasmatiques OU échographie pelvienne  
@@ -155,7 +155,7 @@ graph TB
     cs --> orientation("Orienter pour RDV sous 5j<hr>0 800 08 11 11<br>ivglesadresses.org")
       orientation -- "&lt; 10 SA" --> med(Traitement médical<br>ambulatoire)
         med --> suivi("<b>Consultation de suivi</b><hr>- Contrôle à J14-J21<br>- bHCG, examen<br>- Contraception<br>&plusmn; Prévention alloI rhésus<br>- Suivi psychologique")
-      orientation -- "10-14 SA" --> chir(Aspiration chirurgicale) --> suivi
+      orientation -- 10-14 SA --> chir(Aspiration chirurgicale) --> suivi
 {{< /mermaid >}}
 
 {{% /collapse %}}

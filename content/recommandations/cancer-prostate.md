@@ -73,9 +73,9 @@ Physiologique: prostate souple, régulière, élastique, bords bien délimités,
 
 Le dépistage est répété selon le résultat:
 
-- < 2 ng/mL - dépistage répété tous les 8 ans
-- 2-4 ng/mL - dépistage tous les 2-4 ans
-- ≥ 4 ng/mL - adresser à l’urologue pour stratification du risque (IRM, biopsies)
+- < 2 ng/mL: dépistage répété tous les 8 ans
+- 2-4 ng/mL: dépistage tous les 2-4 ans
+- ≥ 4 ng/mL: adresser à l’urologue pour stratification du risque (IRM, biopsies)
 
 Arrêter le dépistage quand l’espérance de vie est < 10 ans.
 
@@ -84,12 +84,12 @@ Arrêter le dépistage quand l’espérance de vie est < 10 ans.
 
 {{< mermaid title="Dépistage du cancer de la prostate et conduite à tenir devant une augmentation du PSA. Dr JB FRON d'après EAU 2019" >}}
 graph TB
-  homme["Homme ≥ 45 ans<br>et Espérance de vie > 10 ans"] --> symptomes("Symptômes urinaires<br>Signes d'alarme<br>≥ 3 cas au 1<sup>er</sup> degré")
+  homme["Homme &ge; 45 ans<br>et Espérance de vie &gt; 10 ans"] --> symptomes("Symptômes urinaires<br>Signes d'alarme<br>&ge; 3 cas au 1<sup>er</sup> degré")
   style homme stroke:#4150f5, stroke-width:1px
     symptomes -- Non --> PSA
       PSA -- "&lt; 2 ng/mL" --> leger(PSA à 8 ans)
-      PSA -- "2-4 ng/mL" --> modere(PSA à 2-4 ans)
-      PSA -- "≥ 4 ng/mL" --> severe("Urologue<br>Toucher rectal<br>+/- IRM et biopsies")
+      PSA -- 2-4 ng/mL --> modere(PSA à 2-4 ans)
+      PSA -- "&ge; 4 ng/mL" --> severe("Urologue<br>Toucher rectal<br>&plusmn; IRM et biopsies")
     symptomes -- Oui --> severe
 {{< /mermaid >}}
 
