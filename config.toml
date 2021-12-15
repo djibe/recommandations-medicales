@@ -78,7 +78,7 @@ title = "Recommandations Médicales"
     weight = 2
   [[menu.main]]
     identifier = "tags"
-    name = "Tags"
+    name = "Mots-clés"
     url = "/tags/"
     weight = 3
   [[menu.main]]

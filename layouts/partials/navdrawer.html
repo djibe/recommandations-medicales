@@ -6,7 +6,7 @@
             <a class="navbar-brand" href="/">Reco Médicales</a>
          </div>
          <div class="navdrawer-nav">
-            <a href="/scores">Scores et outils cliniques</a>
+            <a class="text-secondary" href="/scores">Scores et outils cliniques</a>
             {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
                {{ if eq "specialites" $taxonomyname }}
                   {{- range $category, $pageOfCategory := $taxonomy -}}
