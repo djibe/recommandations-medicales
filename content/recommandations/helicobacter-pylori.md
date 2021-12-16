@@ -446,7 +446,6 @@ graph TB
           controle -- Positif --> bismuth("Oméprazole + Bismuth 10j<br>&#40;si non utilisé&#41;")
             bismuth --> controle2(Test respiratoire)
               controle2 -- Positif --> final("- ClariS: amox + clari + IPP 14j<br>- Clari-R-Quinolone-S: amox + lévoflo + IPP 14j<br>- Double résistance: avis du GEFH")
-                click final "http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" "Ouvrir dans un onglet" _blank
         antibiogramme -- Allergie péni --> bismuth
       grossesse -- Oui --> reporter(Reporter le<br>traitement)
 {{< /mermaid >}}
@@ -476,7 +475,6 @@ graph TB
               seClaLevo -- Allergie péni --> allergie(Clari-S et Lévo-S: 14j<br>IPP + clarithromycine<br>+ lévofloxacine)
                 allergie -- Autres cas --> RCP
                 ClariRLevoR --> RCP("RCP GEFH &#40;cliquer&#41;")
-                  click RCP "http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" "Ouvrir dans un onglet" _blank
     grossesse -- Oui --> reporter("Reporter le<br>traitement")
 {{< /mermaid >}}
 
