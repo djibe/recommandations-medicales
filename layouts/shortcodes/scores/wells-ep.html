@@ -46,7 +46,7 @@
           <p class="typography-overline score-output-title">Score de Wells</p>
           <output class="score-output" id="wellsEpScore">0</output>
         </div>
-        <p id="wellsEpText" class="lead m-auto"><b>Probabilité clinique faible</b><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences</p>
+        <p id="wellsEpText" class="lead m-auto"><strong>Probabilité clinique faible</strong><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences</p>
       </div>
     </div>
     <div aria-labelledby="geneve-ep-nav" class="tab-pane fade" id="geneve-ep-tab" role="tabpanel">
@@ -96,7 +96,7 @@
           <p class="typography-overline score-output-title">Score de Genève</p>
           <output class="score-output" id="geneveEpScore">0</output>
         </div>
-        <p id="geneveEpText" class="lead m-auto"><b>Probabilité clinique faible</b><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences</p>
+        <p id="geneveEpText" class="lead m-auto"><strong>Probabilité clinique faible</strong><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences</p>
       </div>
     </div>
   </div>
@@ -110,9 +110,9 @@
     const textGeneve = document.getElementById('geneveEpText')
     const radioElems = document.querySelectorAll('#score-clinique-ep input[type=\"checkbox\"]')
     const panels = document.querySelectorAll('.nav-tabs .nav-link')
-    constTextFaible = '<b>Probabilité clinique faible</b><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences'
-    constTextModeree = '<b>Probabilité clinique intermédiaire</b><br>D-dimères aux Urgences'
-    constTextElevee = '<b>Probabilité clinique forte</b><br>Urgences pour angioscanner'
+    constTextFaible = '<strong>Probabilité clinique faible</strong><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences'
+    constTextModeree = '<strong>Probabilité clinique intermédiaire</strong><br>D-dimères aux Urgences'
+    constTextElevee = '<strong>Probabilité clinique forte</strong><br>Urgences pour angioscanner'
     radioElems.forEach((radioElem) => { radioElem.addEventListener('click', () => {
       wellsEp()
       geneveRevise()

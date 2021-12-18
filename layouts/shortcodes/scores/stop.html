@@ -28,7 +28,7 @@
     <p class="typography-overline score-output-title">Score STOP</p>
     <output class="score-output" id="stopScore">0</output>
   </div>
-  <p id="stopText" class="lead m-auto"><b>Bas risque</b> de SAOS</p>
+  <p id="stopText" class="lead m-auto"><strong>Bas risque</strong> de SAOS</p>
 </div>
 {{ $script := `
   // Score STOP by djibe
@@ -45,14 +45,14 @@
         score += parseInt(elemChecked.value, 10)
         scoreStop.innerHTML = score
         if (score >= 2) {
-          textStop.innerHTML = '<b>Haut risque</b> de SAOS'
+          textStop.innerHTML = '<strong>Haut risque</strong> de SAOS'
         } else if (score < 2) {
-          textStop.innerHTML = '<b>Bas risque</b> de SAOS'
+          textStop.innerHTML = '<strong>Bas risque</strong> de SAOS'
         }
       })
       if (elemsChecked.length === 0) {
         scoreStop.innerHTML = 0
-        textStop.innerHTML = '<b>Bas risque</b> de SAOS'
+        textStop.innerHTML = '<strong>Bas risque</strong> de SAOS'
       }
     }
   })` }}

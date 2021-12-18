@@ -77,11 +77,11 @@
         || majeur >= 2 && checkboxObesite.checked 
         || majeur >= 2 && checkboxTourCou.checked 
         || score >= 5 && score <= 8) {
-          textStopBang.innerHTML = '<b>Risque élevé</b> de SAOS'
+          textStopBang.innerHTML = '<strong>Risque élevé</strong> de SAOS'
         } else if (score <= 2) {
-          textStopBang.innerHTML = '<b>Faible risque</b> de SAOS'
+          textStopBang.innerHTML = '<strong>Faible risque</strong> de SAOS'
         } else if (score >= 3 && score <= 4) {
-          textStopBang.innerHTML = '<b>Risque moyen</b> de SAOS'
+          textStopBang.innerHTML = '<strong>Risque moyen</strong> de SAOS'
         }
       })
       if (elemsChecked.length === 0) {

@@ -17,14 +17,14 @@
       <input type="checkbox" id="herdoo2-4" class="custom-control-input" value="1">
       <label class="custom-control-label" for="herdoo2-4">Âge &ge; 65 ans</label>
     </div>
-    <p class="mt-4"><b>NB.</b> Un homme a d'emblée un risque non faible de récidive <span class="text-muted">(7-8% de risque annuel)</span>.</p>
+    <p class="mt-4"><span class="font-weight-bold">NB.</span> Un homme a d'emblée un risque non faible de récidive <span class="text-muted">(7-8% de risque annuel)</span>.</p>
   </div>
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center">
       <p class="typography-overline score-output-title">Score HERDOO2</p>
       <output class="score-output" id="herdoo2Score">0</output>
     </div>
-    <p id="herdoo2Text" class="lead m-auto">Risque de récidive <b>faible</b></p>
+    <p id="herdoo2Text" class="lead m-auto">Risque de récidive <strong>faible</strong></p>
   </div>
 </form>
 {{ $script := `
@@ -42,14 +42,14 @@
         score += parseInt(herdoo2ElemChecked.value, 10)
         scoreHerdoo2.innerHTML = score
         if (score <= 1) {
-          textHerdoo2.innerHTML = 'Risque de récidive <b>faible</b>'
+          textHerdoo2.innerHTML = 'Risque de récidive <strong>faible</strong>'
         } else if (score >= 2) {
-          textHerdoo2.innerHTML = 'Risque de récidive <b>non faible</b>'
+          textHerdoo2.innerHTML = 'Risque de récidive <strong>non faible</strong>'
         }
       })
       if (herdoo2ElemsChecked.length === 0) {
         scoreHerdoo2.innerHTML = 0
-        textHerdoo2.innerHTML = 'Risque de récidive <b>faible</b>'
+        textHerdoo2.innerHTML = 'Risque de récidive <strong>faible</strong>'
       }
     }
   })` }}

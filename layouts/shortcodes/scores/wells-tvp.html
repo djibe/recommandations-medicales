@@ -59,7 +59,7 @@
           <p class="typography-overline score-output-title">Score de Wells</p>
           <output class="score-output" id="wellsScore">0</output>
         </div>
-        <p id="wellsText" class="lead m-auto"><b>Probabilité faible</b><br>Doser les D-dimères</p>
+        <p id="wellsText" class="lead m-auto"><strong>Probabilité faible</strong><br>Doser les D-dimères</p>
       </div>
     </div>
     <div aria-labelledby="constans" class="tab-pane fade" id="constans-tab" role="tabpanel">
@@ -119,7 +119,7 @@
           <p class="typography-overline score-output-title">Score LEFt</p>
           <output class="score-output" id="leftScore">0</output>
         </div>
-        <p id="leftText" class="lead m-auto"><b>Probabilité faible</b><br>Doser les D-dimères</p>
+        <p id="leftText" class="lead m-auto"><strong>Probabilité faible</strong><br>Doser les D-dimères</p>
       </div>
     </div>
   </div>
@@ -135,8 +135,8 @@
     const textLeft = document.getElementById('leftText')
     const radioElems = document.querySelectorAll('#score-clinique-tvp input[type=\"checkbox\"]')
     const panels = document.querySelectorAll('.nav-tabs .nav-link')
-    const textDefault = '<b>Probabilité faible</b><br>Doser les D-dimères'
-    const textFort = '<b>Probabilité forte</b><br>Écho-doppler veineux<br>Anticoagulation immédiate'
+    const textDefault = '<strong>Probabilité faible</strong><br>Doser les D-dimères'
+    const textFort = '<strong>Probabilité forte</strong><br>Écho-doppler veineux<br>Anticoagulation immédiate'
     radioElems.forEach((radioElem) => { radioElem.addEventListener('click', () => {
       wells()
       constans()
@@ -184,7 +184,7 @@
         if (score <= 0) {
           textConstans.innerHTML = textDefault
         } else if (score >= 1 && score < 3) {
-          textConstans.innerHTML = '<b>Probabilité intermédiaire</b><br>Doser les D-dimères'
+          textConstans.innerHTML = '<strong>Probabilité intermédiaire</strong><br>Doser les D-dimères'
         } else if (score >= 3) {
           textConstans.innerHTML = textFort
         }

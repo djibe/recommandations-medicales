@@ -45,7 +45,7 @@
       <p class="typography-overline score-output-title">Score RIETE</p>
       <output class="score-output" id="rieteScore">0</output>
     </div>
-    <p id="rieteText" class="lead m-auto">Risque hémorragique <b>faible</b></p>
+    <p id="rieteText" class="lead m-auto">Risque hémorragique <strong>faible</strong></p>
   </div>
 </div>
 {{ $script := `
@@ -63,16 +63,16 @@
         score += parseInt(rieteElemChecked.value, 10)
         scoreRiete.innerHTML = score
         if (score === 0) {
-          textRiete.innerHTML = 'Risque hémorragique <b>faible</b>'
+          textRiete.innerHTML = 'Risque hémorragique <strong>faible</strong>'
         } else if (score >= 1 && score <= 4) {
-          textRiete.innerHTML = 'Risque hémorragique <b>intermédiaire</b>'
+          textRiete.innerHTML = 'Risque hémorragique <strong>intermédiaire</strong>'
         } else if (score > 4) {
-          textRiete.innerHTML = 'Risque hémorragique <b>élevé</b><br>Hospitalisation si TVP/EP'
+          textRiete.innerHTML = 'Risque hémorragique <strong>élevé</strong><br>Hospitalisation si TVP/EP'
         }
       })
       if (rieteElemsChecked.length === 0) {
         scoreRiete.innerHTML = 0
-        textRiete.innerHTML = 'Risque hémorragique <b>faible</b>'
+        textRiete.innerHTML = 'Risque hémorragique <strong>faible</strong>'
       }
     }
   })` }}
