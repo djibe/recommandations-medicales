@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2020-12-22T09:52:41+02:00
 publishdate = 2020-12-22
-lastmod = 2021-11-20
+lastmod = 2021-12-16
 specialites = ["medecine du sommeil"]
 annees = "2018"
 sources = ["SFRMS", "AASM", "HAS"]
@@ -231,9 +231,10 @@ Liste des médicaments, rhinite chronique.
   - Mauvaise hygiène de sommeil
   - Dette de sommeil
   - Affection neurologique  
-  Narcolepsie, hypersomnie idiopathique.
+  {{%class%}}Narcolepsie, hypersomnie idiopathique.{{%/class%}}
   - Asthme nocturne
-  - Douleurs (rhumatismales, artéritiques, polynévrite ou neurologiques)
+  - Douleurs  
+  {{%class%}}Rhumatismales, artéritiques, polynévrite ou neurologiques.{{%/class%}}
   - Dysthyroïdie
 - Qualité de Vie
 
@@ -257,13 +258,13 @@ Auscultation cardiaque et vasculaire.
 Diagnostic différentiel du syndrome obstructif d'apnées du sommeil:
 
 - Du ronflement  
-Ronflement isolé.
+{{%class%}}Ronflement isolé.{{%/class%}}
 - De la somnolence diurne  
-Narcolepsie, hypersomnie idiopathique, dette de sommeil, syndrome obésité-hypoventilation.
+{{%class%}}Narcolepsie, hypersomnie idiopathique, dette de sommeil, syndrome obésité-hypoventilation.{{%/class%}}
 - De dyspnée nocturne  
-Attaques de paniques nocturnes, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), [asthme]({{< relref "asthme.md" >}}), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), angor nocturne.
+{{%class%}}Attaques de paniques nocturnes, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), [asthme]({{< relref "asthme.md" >}}), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), angor nocturne{{%/class%}}.
 - Des apnées  
-Syndrome d'apnées centrales du sommeil (SACS).
+{{%class%}}Syndrome d'apnées centrales du sommeil (SACS).{{%/class%}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -315,6 +316,7 @@ Il consiste en une ventilation à pression positive continue (PPC) ou un orthès
 
 - Perte de poids si surpoids  
 {{%class%}}Améliore l’IAH et les désaturations.{{%/class%}}
+  - Chirurgie bariatrique si IMC ≥ 35 avant 65 ans (*HAS 2009 obésité*)
 - Activité physique régulière
 - Évaluer le bénéfice/risque d’une chirurgie bariatrique chez les sujets obèses (35 kg/m²)
 - Traitement d’une rhinite chronique/obstruction nasale associée
@@ -360,7 +362,7 @@ On propose l’OAM en cas de refus ou d’intolérance à la PPC et pour les aut
 - SAOS léger
 - Patient SAOS refusant ou ne tolérant par sa PPC
 
-> Indications AASM 2015 pour l'OAM
+> *AASM 2015 OAM*
 
 Une surveillance dentaire régulière est nécessaire avec l'orthèse d'avancée mandibulaire.
 
@@ -376,7 +378,7 @@ si peut consulter observance des 12 derniers mois (≥ 112 heures sur 10 mois et
 - Remboursable à 65%
 - Nécessite une demande d’entente préalable par le spécialiste avec renouvellement annuel si respect des conditions ci-dessus
 
-> *[Source HAS 2014](https://www.has-sante.fr/portail/jcms/c_1761160/fr/apnees-du-sommeil-de-nouvelles-recommandations-de-prise-en-charge-des-patients)*
+> *[HAS 2014](https://www.has-sante.fr/portail/jcms/c_1761160/fr/apnees-du-sommeil-de-nouvelles-recommandations-de-prise-en-charge-des-patients)*
 
 {{% /collapse %}}
 {{%collapse "Surveillance du traitement" %}}

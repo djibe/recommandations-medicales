@@ -6,7 +6,7 @@ synonyms = ["Ostéoporose post-ménopausique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-04T17:43:41+02:00
 publishdate = 2021-12-06
-lastmod = 2021-12-10
+lastmod = 2021-12-16
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "GRIO", "IOF", "HAS"]
@@ -470,6 +470,7 @@ graph TB
         prev -- "Entre -2 et -3" --> avis("Traitement osseux si:<br>- FRAX dépasse le seuil<br>- ou corticothérapie<br>avec T-score &le; -1,5<hr>Avis rhumatologique")
       DXA -- "Entre -2,5 et -1" --> osteopenie(Ostéopénie) --> prevention("- Mesures de prévention<br>- Bilan biologique") -. "-2,5 à -2" .-> avis
       prevention -. "&le; -1,5 et corticoïdes".-> avis
+      prevention --> recontrole("Réévaluation<br>à 3-5 ans")
   perteTaille["- Perte de taille<br>&ge; 2 cm au long cours<br>ou &ge; 4 cm comparée à 20 ans<br>- Rachialgies après 55 ans<br>ou ménopause<br>- Corticoïdes chroniques"] --> radio(Radio dorso-lombaires) -- Fracture vertébrale --> x(Graphique suivant)
   style perteTaille stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}

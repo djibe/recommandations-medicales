@@ -20,11 +20,11 @@ imageSrc = "Illustration de Freepik"
 todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests_fagerstrom.pdf"
 +++
 
-## {{< class "typography-headline-5" >}}Sevrage tabagique - les substituts nicotiniques remboursés{{</class>}}
+## Sevrage tabagique - les substituts nicotiniques remboursés {.typography-headline-5}
 
 Liste des substituts nicotiniques remboursés par la Sécurité Sociale en 2021.
 
-### {{< class "typography-subtitle-1 text-black-primary" >}}Aide au choix des médicaments remboursés à 65% par l'Assurance Maladie sur prescription.{{</class>}}
+### Aide au choix des médicaments remboursés à 65% par l'Assurance Maladie sur prescription {.typography-subtitle-1 .text-black-primary}
 
 <hr class="my-3">
 <article class="my-3 my-lg-4" style="max-width: 800px">

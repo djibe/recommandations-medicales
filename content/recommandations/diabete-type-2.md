@@ -15,7 +15,7 @@ anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "indications chir baria, rythme depistages pieds, oeil, télésurveillance, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Agé: met > iDPP4 > basale (SU/glinide si bonne santé), peu arguments iSGLT2/GLP1 après 75 ans sauf CV | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IRC: met poso > iSGLT2 voire GLP1. Envisager maintien si insuline | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2; -1 kg réduit de 43% le risque de DT2 (ESC 2019 diabetes)"
+todo = "rythme depistages pieds, oeil, télésurveillance, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IRC: met poso > iSGLT2 voire GLP1. Envisager maintien si insuline | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2; -1 kg réduit de 43% le risque de DT2 (ESC 2019 diabetes)"
 +++
 
 {{%article-summary%}}
@@ -230,6 +230,8 @@ window.onload = () => {
 {{% /collapse %}}
 {{%collapse "Diabète et prévention" %}}
 
+Recommandations *ESC 2019 diabetes* sauf mention contraire.
+
 ### Aspirine
 
 - Prévention primaire
@@ -254,13 +256,27 @@ window.onload = () => {
 
 - Dépistage annuel clinique ± IPS
 
-### Vaccins
+### Chirurgie métabolique
 
-*Calendrier vaccinal 2021*:
+Indications avant 65 ans:
+
+- IMC ≥ 40
+- IMC ≥ 35 avec au moins une complication parmi:
+  - HTA
+  - SAOS ou autres troubles respiratoires sévères
+  - Diabète type 2
+  - Maladies ostéo-articulaires invalidantes
+  - NASH
+
+> *HAS 2009 obésité*
+
+### Vaccins
 
 - Covid-19
 - Grippe
 - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}}
+
+> *MinSanté Calendrier vaccinal 2021*
 
 ### Matériel
 
@@ -272,7 +288,7 @@ window.onload = () => {
   - 26 capteurs/an remboursés
 - Lecteur de glycémie  
   - 1 lecteur/4 ans
-  - Indications: insuline envisagée ou en cours, insulinosécréteur avec suspicion d'hypoglycémie, visée pédagogique en cible non atteinte
+  - Indications à l'autosurveillance glycémique: insuline envisagée ou en cours, insulinosécréteur avec suspicion d'hypoglycémie, visée pédagogique en cible non atteinte, déséquilibre aigu (infection, corticoïdes, suspension du traitement), (désir de) grossesse
 
 > *ESC 2019 diabetes*
 

@@ -16,7 +16,7 @@ anglais = []
 sctid = ""
 draft = false
 chart = true
-todo = "Bio > 35 ans, modal intensité activité, type 1A (sources 12-13), indication ecg et ecomp, quel examen clinique, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/guide_aps_chapitre_6_la_consultation_medicale_ap.pdf"
+todo = "Bio > 35 ans, modal intensité activité, type 1A (sources 12-13), indication ecg et ecomp, quel examen clinique, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/guide_aps_chapitre_6_la_consultation_medicale_ap.pdf, duree certif plongee"
 image = true
 imageSrc = "Le certificat du sportif illustré par pikisuperstar / Freepik"
 +++

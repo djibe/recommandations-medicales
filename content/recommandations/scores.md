@@ -67,11 +67,6 @@ imageSrc = "Scores cliniques par slidesgo / Freepik"
 {{< clinique/risque-cardiovasculaire-diabete >}}
 
 {{% /modal %}}
-{{% modal title="Statines et réduction du LDL" id="modal-statine-intensite"%}}
-
-{{< traitements/statine-intensite >}}
-
-{{% /modal %}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}
 
 {{< traitements/regime-mediterraneen >}}

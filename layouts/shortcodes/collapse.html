@@ -1,7 +1,8 @@
 <section>
-<h2 id="{{ .Get 0 | anchorize }}" data-toggle="collapse"
-  onclick="$(this).next('div.collapse').collapse('toggle')">{{ .Get 0 }}</h2>
-<div class="collapse d-print-block {{ .Get 1 }}" id="{{ .Get 0 | anchorize }}-block">
+<h2 id="{{ .Get 0 | anchorize }}">
+  <button type="button" data-toggle="collapse" data-target="#{{ .Get 0 | anchorize }}-block" aria-expanded="{{ with .Get 1 }}true{{ else }}false{{ end }}" aria-controls="{{ .Get 0 | anchorize }}-block">{{ .Get 0 }}</button>
+</h2>
+<div class="collapse d-print-block {{ .Get 1 }}" id="{{ .Get 0 | anchorize }}-block" aria-labelledby="{{ .Get 0 | anchorize }}">
   {{.Inner | safeHTML}}
 </div>
 </section>

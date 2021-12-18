@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-30T19:57:00+02:00
 publishdate = 2021-05-01
-lastmod = 2021-12-14
+lastmod = 2021-12-16
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["SFD", "CNGOF"]
@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par vectorjuice / Freepik"
-todo = "insulines du DG, enfant obèse ?, attente relecture C Brunet"
+todo = "attente relecture C Brunet"
 +++
 
 {{%article-summary%}}
@@ -65,7 +65,7 @@ Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque par
 {{%info%}}
 
 1. Âge ≥ 35 ans
-2. Surpoids (IMC ≥ 25 kg/m²)
+2. IMC ≥ 25 kg/m²
 3. Antécédent familial de [diabète type 2]({{< relref "diabete-type-2.md" >}}) au 1<sup>er</sup> degré
 4. Antécédent personnel de diabète gestationnel  
 5. Antécédent de macrosomie (≥ 4 kg)
@@ -73,7 +73,7 @@ Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque par
 > *CNGOF, SFD 2010*
 {{%/info%}}
 
-### Comment dépister le diabète gestationnel?
+### Comment dépister le diabète gestationnel ?
 
 {{%info%}}
 Diabète gestationnel si:
@@ -116,10 +116,10 @@ Indication: glycémies dépassant les objectifs après 10 jours de RHD (grade A)
 - ASG systématique x 4-6/j (à jeun, pré-prandiale et H2 post-prandiale)
 - Télésurveillance ([MyDiabby](https://www.mydiabby.com/diabete-gestationnel), ...)
 
-#### Molécules
+#### Insulines autorisées pendant la grossesse
 
-Privilégier les NPH: Umuline NPH® (Lilly), Insulatard NPH® (Novo)  
-ou des analogues rapides avec données rassurantes (insulines lispro ou asparte).
+NPH, glargine U100, détémir, insuline rapide humaine, asparte, lispro.  
+Si nécessaire: glargine U300.
 
 **NB.** Pas d'ADO pendant la grossesse.
 

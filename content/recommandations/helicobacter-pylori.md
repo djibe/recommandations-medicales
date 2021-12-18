@@ -474,7 +474,7 @@ graph TB
               seClaLevo --> ClariRLevoR(Double résistance)
               seClaLevo -- Allergie péni --> allergie(Clari-S et Lévo-S: 14j<br>IPP + clarithromycine<br>+ lévofloxacine)
                 allergie -- Autres cas --> RCP
-                ClariRLevoR --> RCP("RCP GEFH &#40;cliquer&#41;")
+                ClariRLevoR --> RCP(RCP GEFH)
     grossesse -- Oui --> reporter("Reporter le<br>traitement")
 {{< /mermaid >}}
 
