@@ -40,12 +40,14 @@ Elle peut survenir à tout âge, prédomine chez la femme et la majorité des pa
 À l’origine d’une malabsorption et ses complications.
 : {{%class%}} Peut être classée en sous-types selon des critères cliniques, immunologiques et histopathologiques.{{%/class%}}
 
-### Abréviation
+### Complications de la maladie cœliaque
 
-**EOGD:** endoscopie œso-gastro-duodénale (ou gastroscopie)
+- **Carences en micronutriments, fer, vitamine B9 et B12**.
+- Lymphome digestif
+- Surrisque de maladies auto-immunes
+- Altération de la qualité de vie
 
-{{%/collapse%}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
 - **Prévalence:** 1% dans le monde en l'absence d'antécédents familiaux.
 - 700.000 malades cœliaques en France. Seulement **10 à 20%** seraient diagnostiqués.
@@ -53,20 +55,16 @@ Elle peut survenir à tout âge, prédomine chez la femme et la majorité des pa
 La maladie survient le plus souvent de 6 mois à 2 ans puis de 20 à 40 ans.
 - 2 à 3 fois plus fréquente chez la femme.
 
-{{%/collapse %}}
-{{%collapse "Complications" %}}
+### Abréviation
 
-- **Carences en micronutriments, fer, vitamine B9 et B12**.
-- Lymphome digestif
-- Surrisque de maladies auto-immunes
-- Altération de la qualité de vie
+**EOGD:** endoscopie œso-gastro-duodénale (ou gastroscopie)
 
 {{%/collapse%}}
 {{%collapse "Facteurs de risque de maladie cœliaque" %}}
 
 - Antécédents familiaux  
 Peu importe le degré, 10%.
-- Diabète de type 1  
+- [Diabète de type 1]({{< relref "diabete-type-1.md" >}})  
 Prévalence 3-10%.
 - Maladie de [Hashimoto]({{< relref "hypothyroidie.md" >}}) ou de Basedow
 - HLA-DQ2 et HLA-DQ8

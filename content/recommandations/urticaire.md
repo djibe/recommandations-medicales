@@ -186,9 +186,11 @@ Les lésions sont fixes.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%info%}}Aucun examen complémentaire n'est recommandé devant une urticaire aiguë.{{%/info%}}
+{{%info%}}Aucun examen complémentaire n'est recommandé devant une urticaire aiguë
 
-{{%info%}}Aucun examen complémentaire n'est recommandé devant une urticaire chronique banale isolée sans signes cliniques d'orientation étiologique.{{%/info%}}
+---
+
+Aucun examen complémentaire n'est recommandé devant une urticaire chronique banale isolée sans signes cliniques d'orientation étiologique{{%/info%}}
 
 ### Bilan devant une urticaire chronique banale isolée sans signes cliniques d'orientation étiologique
 
