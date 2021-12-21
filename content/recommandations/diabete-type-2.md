@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-12-14"
+lastmod = "2021-12-21"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["SFD", "EASD", "ADA", "ESC", "HAS"]
@@ -80,7 +80,7 @@ Perte de poids (5-10%) ou chirurgie bariatrique.
 
 <div class="form-group">
   <label for="hba1cInput">HbA<sub>1c</sub> (%, dit NGSP)</label>
-  <input type="number" class="form-alternative" id="hba1cInput" step="0.5" value="7" min="4" max="16" onchange="hba1cIfccInput.value = Math.round((parseInt(this.value, 10) - 2.152) /0.09148); eagInput.value = Math.round(parseInt(this.value, 10) * 28.7 - 46.7)">
+  <input type="number" class="form-alternative" id="hba1cInput" step="0.1" value="7" min="4" max="16" onchange="hba1cIfccInput.value = Math.round((parseInt(this.value, 10) - 2.152) /0.09148); eagInput.value = Math.round(parseInt(this.value, 10) * 28.7 - 46.7)">
   <div class="my-3">
   <label for="hba1cIfccInput">HbA<sub>1c</sub> (mmol/mol, dit IFCC)</label>
   <input type="number" class="form-alternative" id="hba1cIfccInput" value="53" min="1" max="160" onchange="hba1cInput.value = Math.round((parseInt(this.value, 10) * 0.09148 + 2.152) / 0.5) * 0.5">
@@ -98,47 +98,59 @@ Perte de poids (5-10%) ou chirurgie bariatrique.
 - Les classes thérapeutiques de préférence sont entourées ou signalées avec un indicateur bleu
 - **Objectif 0 hypo !**
 
----
-
-<form class="border p-4 mb-4">
-<fieldset class="m-0">
-<legend>Comorbidités</legend>
-  <input type="checkbox" id="obese" class="d-none">
-  <label for="obese" class="chip chip-action chip-filter">Obésité</label>
-  <input type="checkbox" id="mcv" class="d-none" disabled>
-  <label for="mcv" class="chip chip-action chip-filter" data-toggle="tooltip" title="Maladie cardiovasculaire">MCV</label>
-  <input type="checkbox" id="mrc" class="d-none" disabled>
-  <label for="mrc" class="chip chip-action chip-filter" data-toggle="tooltip" title="Maladie rénale chronique">MRC</label>
-  <input type="checkbox" id="ic" class="d-none" disabled>
-  <label for="ic" class="chip chip-action chip-filter" data-toggle="tooltip" title="Insuffisance cardiaque">Insuf. cardiaque</label>
-  <input type="checkbox" id="grossesse" class="d-none" disabled>
-  <label for="grossesse" class="chip chip-action chip-filter" data-toggle="tooltip" title="Grossesse">Grossesse</label>
-</fieldset>
+<form class="border p-4 my-4">
+  <fieldset class="m-0">
+    <legend>Comorbidités</legend>
+    <input type="radio" name="assistant" id="standard" class="d-input-none" checked>
+    <label for="standard" class="chip chip-action chip-choice">Sans</label>
+    <input type="radio" name="assistant" id="obese" class="d-input-none">
+    <label for="obese" class="chip chip-action chip-choice" data-toggle="tooltip" title="Obésité grade 2">IMC &ge; 35</label>
+    <input type="radio" name="assistant" id="mcv" class="d-input-none" disabled>
+    <label for="mcv" class="chip chip-action chip-choice" data-toggle="tooltip" title="Maladie cardiovasculaire">MCV</label>
+    <input type="radio" name="assistant" id="mrc" class="d-input-none">
+    <label for="mrc" class="chip chip-action chip-choice" data-toggle="tooltip" title="Maladie rénale chronique">MRC</label>
+    <input type="radio" name="assistant" id="ic" class="d-input-none" disabled>
+    <label for="ic" class="chip chip-action chip-choice" data-toggle="tooltip" title="Insuffisance cardiaque">Insuf. cardiaque</label>
+    <input type="radio" name="assistant" id="grossesse" class="d-input-none" disabled>
+    <label for="grossesse" class="chip chip-action chip-choice" data-toggle="tooltip" title="Grossesse">Grossesse</label>
+  </fieldset>
 </form>
 <h3 class="typography-overline">Toujours</h3>
 <p>Changement des habitudes alimentaires, lutte contre la sédentarité et activité physique adaptée.<br>Réévaluation à 3-6 mois.</p>
 <h3 class="typography-overline">1<sup>re</sup> intention</h3>
-<button class="chip chip-action mb-2" type="button" data-toggle="modal" data-target="#modal-metformine">Metformine</button>
+<button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-metformine">Metformine</button>
+<button class="chip chip-action flex-grow-1 choix-mrc" type="button" data-toggle="modal" data-target="#modal-isglt2">+ iSGLT2</button>
 <p class="font-weight-bold my-2">La metformine doit être maintenue au long cours.</p>
 <!-- 2e intention -->
-<h3 class="typography-overline mt-3">Bithérapie - Ajouter au choix</h3>
+<h3 class="typography-overline mt-3">Bithérapie <span class="choix-standard choix-obese">- Ajouter au choix</span></h3>
+<p class="mt-4 text-black-secondary">Possibilité de proposer d'emblée une bithérapie si déséquilibre initial important (HbA<sub>1c</sub> &gt; 9%)</p>
 <div class="mb-2 choix-standard">
   <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-idpp4">iDDP4</button>
   <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
-  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1ra">GLP1-RA</button>
+  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1ra">GLP-1</button>
   <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-su">SU</button>
 </div>
 <div class="mb-2 choix-obese">
-  <button class="chip chip-action flex-grow-1 border border-primary" type="button">iSGLT2</button>
-  <button class="chip chip-action flex-grow-1" type="button">GLP-1</button>
+  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1ra">GLP-1</button>
+  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
+  <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button>
+  <button class="chip flex-grow-1" type="button">IAG</button>
+  <h3 class="typography-overline mt-3">Troisième ligne</h3>
+  <p>Si insuffisants: avis endocrinologique et informer sur la chirurgie bariatrique</p>
+</div>
+<div class="mb-2 choix-mrc">
+  <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-glp1ra">GLP-1</button>
+  <h3 class="typography-overline mt-3">Trithérapie - Selon les traitements essayés</h3>
+  <button class="chip chip-action mb-3" type="button" data-toggle="modal" data-target="#modal-insuline">Insuline</button>
+  <p>En maintenant l'iSGLT2 ou le GLP-1.<br>
+  Suivi spécialisé systématique.</p>
 </div>
 <div class="mb-2 choix-ic">
   <button class="chip chip-action" type="button">iSGLT2</button>
 </div>
-<p class="mt-4 text-muted">Possibilité de proposer d'emblée une bithérapie quand déséquilibre initial important (HbA<sub>1c</sub> &gt; 9%)</p>
 <!-- 3e intention -->
-<h3 class="typography-overline mt-3">Trithérapie - Selon les traitements essayés</h3>
 <div class="mb-2 choix-standard">
+<h3 class="typography-overline mt-3">Trithérapie - Selon les traitements essayés</h3>
 <div class="accordion mb-5" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" role="button">
@@ -212,15 +224,15 @@ Perte de poids (5-10%) ou chirurgie bariatrique.
 window.onload = () => {
   $(function () {
     const allElems = $('[class*="choix-"]')
-    $('[class*="choix-"]:not(.choix-standard)').addClass('d-none')
-    $(':checkbox').on('change', function() {
-      if ( $(':checkbox:checked').length === 0 ){
-        allElems.addClass('d-none')
-        $(`.choix-standard`).removeClass('d-none')
+    $('[class*="choix-"]:not(.choix-standard)').addClass('d-input-none')
+    $(':radio').on('change', function() {
+      if ( $(':radio:checked').length === 0 ){
+        allElems.addClass('d-input-none')
+        $(`.choix-standard`).removeClass('d-input-none')
       }
       else if ($(this).is(':checked')){
-        allElems.addClass('d-none')
-        $(`.choix-${this.id}`).removeClass('d-none')
+        allElems.addClass('d-input-none')
+        $(`.choix-${this.id}`).removeClass('d-input-none')
       }
     });
   });
