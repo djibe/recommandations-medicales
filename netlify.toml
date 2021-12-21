@@ -79,7 +79,7 @@ HUGO_ENABLEGITINFO = "false"
 
 [[redirects]]
   from = "/duree-sommeil-recommande/"
-  to = " /duree-sommeil-recommandee/"
+  to = "/duree-sommeil-recommandee/"
   status = 301
 
   [[plugins]]
