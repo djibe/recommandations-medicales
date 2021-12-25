@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2021-11-18
+lastmod = 2021-12-24
 specialites = ["pneumologie"]
 annees = "2021"
 sources = ["ERS", "GOLD", "HAS", "SPLF"]
@@ -556,10 +556,13 @@ Anémie, asthme, cancer, [insuffisance cardiaque]({{< relref "insuffisance-cardi
 - [HAS. Bronchopneumopathie chronique obstructive. Guide du parcours de soins. Novembre 2019.](https://www.has-sante.fr/jcms/c_1242507/fr/guide-du-parcours-de-soins-bronchopneumopathie-chronique-obstructive-bpco)
 - [Prescrire Redaction. Bronchodilatateurs pour inhalation buccale dans la bronchopneumopathie chronique obstructive (BPCO) (commercialisés en France au 11 décembre 2018). Rev Prescrire 2019 ; 39 (424) : 91.](https://prescrire.org/)
 - [Santé Publique France. BPCO et insuffisance respiratoire chronique. 27/06/2019](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bpco-et-insuffisance-respiratoire-chronique)
-- [Delmas MC et al; Groupe Baromètre santé 2017. Connaissance de la bronchopneumopathie chronique obstructive (BPCO) en France : Baromètre santé 2017. Bull Epidémiol Hebd. 2018;(35-36):703-8.](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)
-- [Jouneau S. et al; SPLF. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017. FR, EN.](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
-- [Zysman M. et al; SPLF. Propositions de la SPLF pour l’optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016. (PDF)](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
-- [Ponikowski P. et al, ESC Scientific Document Group. 2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) Developed with the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. Volume 37. Issue 27. 14 July 2016. Pages 2129–2200.](https://doi.org/10.1093/eurheartj/ehw128)
+- [Delmas MC et al. Connaissance de la bronchopneumopathie chronique obstructive (BPCO) en France : Baromètre santé 2017. Bull Epidémiol Hebd. 2018;(35-36):703-8.](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)
+- [Jouneau S. et al. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017. FR, EN. (PDF)](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
+- [Zysman M. et al. Propositions de la SPLF pour l’optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016. (PDF)](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
+
+### À lire
+
+- [Zysman M. et al. Optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. Position de la Société de pneumologie de langue française. Actualisation 2021. Revue des Maladies Respiratoires. Volume 38. Issue 5. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/optimisation-du-traitement-BPCO.pdf)
 
 {{% /collapse %}}
 <!-- Scores -->

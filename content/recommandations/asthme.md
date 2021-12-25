@@ -6,7 +6,7 @@ synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-06-21T10:56:00+02:00
 publishdate = 2021-06-29
-lastmod = 2021-12-07
+lastmod = 2021-12-23
 specialites = ["pneumologie"]
 annees = "2021"
 sources = ["GINA", "ERS", "SPLF", "HAS"]
@@ -69,6 +69,7 @@ Bannir le terme de << bronchite asthmatiforme >>: il s'agit d'une maladie chroni
 **CSO:** corticostéroïdes oraux  
 **DEP:** débit expiratoire de pointe  
 **EFR:** exploration fonctionnelle respiratoire  
+**EI:** effets indésirables  
 **ERS:** {{%lang%}}European Respiratory Society{{%/lang%}}  
 **FeNO:** fraction de monoxyde d’azote mesurée dans un débit de gaz expiré  
 **GINA:** {{%lang%}}Global Initiative for Asthma{{%/lang%}}  
@@ -364,7 +365,7 @@ Déclarer la maladie professionnelle, médecin du travail, reclassement, RQTH.
 La prescription dépend uniquement du spécialiste:
 
 - Modificateurs de leucotriènes  
-{{%class%}}Montélukast, pranlukast, zafirlukast, zileuton.{{%/class%}}
+{{%class%}}Montélukast (EI: tics), pranlukast, zafirlukast, zileuton.{{%/class%}}
 - Rhinite et allergie aux acariens: immunothérapie par voie sublinguale (ITSL)
 - Anticorps anti-IgE {{%class%}}(omalizumab SC){{%/class%}}
 - Anticorps anti-IL5 et IL5R  
@@ -482,6 +483,7 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 
 ### À lire
 
+- [Raherison-Semjen C. et al. Mise à jour des recommandations (2021) pour la prise en charge et le suivi des patients asthmatiques adultes sous l’égide de la Société de pneumologie de langue française (SPLF) et de la Société pédiatrique de pneumologie et allergologie (SP2A). Version longue. Revue des Maladies Respiratoires. Volume 38. Issue 10. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/recos-asthme-adultes-2021-version-longue.pdf)
 - GINA 2021
 - SP2A
 

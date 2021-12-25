@@ -108,7 +108,7 @@ Adénopathie régionale (inguinale) qui ne fistulise pas.
 
 Invasion du LCR du système nerveux sans atteinte parenchymateuse.
 
-{{% info %}}Évoquer un chancre devant toute ulcération génitale.{{% /info %}}
+{{%info%}}Évoquer un chancre devant toute ulcération génitale{{%/info%}}
 
 ### Syphilis secondaire
 
@@ -142,7 +142,7 @@ Atteintes muqueuses fréquentes.
 - Uvéite
 - Glomérulonéphrite
 
-{{% warning %}}Les atteintes ophtalmologiques et neurologiques peuvent engager le pronostic fonctionnel.{{% /warning %}}
+{{%warning%}}Les atteintes ophtalmologiques et neurologiques peuvent engager le pronostic fonctionnel{{%/warning%}}
 
 **NB.** Ne pas confondre la *réaction d’Herxeimer* avec une allergie bêtalactamines.
 
@@ -295,7 +295,7 @@ Négatif à 2 ans si secondaire.
 
 **NB.** La décroissance du VDRL dans la syphilis latente précoce (ou en cas de recontamination) n’est pas franche pour 1/4 des patients.
 
-{{% info %}} La négativation du VDRL est considérée comme le meilleur critère de guérison.{{% /info %}}
+{{%info%}} La négativation du VDRL est considérée comme le meilleur critère de guérison{{%/info%}}
 
 Le TPHA ne se négative que rarement sauf chez le patient *VIH+*. Il n’est pas utilisé dans la surveillance.
 

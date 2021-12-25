@@ -15,7 +15,7 @@ anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "rythme depistages pieds, oeil, télésurveillance, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IRC: met poso > iSGLT2 voire GLP1. Envisager maintien si insuline | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2; -1 kg réduit de 43% le risque de DT2 (ESC 2019 diabetes)"
+todo = "rythme depistages pieds, oeil, télésurveillance, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2; -1 kg réduit de 43% le risque de DT2 (ESC 2019 diabetes)"
 +++
 
 {{%article-summary%}}

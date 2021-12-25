@@ -23,7 +23,7 @@ imageSrc = "La Covid-19 par stories / Freepik"
 {{%article-summary%}}
 
 - Page servant uniquement à stocker quelques mémos
-- Rappel vaccinal tous les 5 mois, décalé à 6 mois si infection Covid (*HAS 25/11* et *19/11*)
+- Rappel vaccinal à 3 mois (et 12-17 ans fragiles), décalé à 6 mois si infection Covid (*HAS 24/12, 25/11 et 19/11*)
 - Dire **la** CoViD-19 ([Académie française](http://www.academie-francaise.fr/le-covid-19-ou-la-covid-19))
 
 {{%/article-summary%}}

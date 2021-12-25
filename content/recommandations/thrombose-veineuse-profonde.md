@@ -17,7 +17,7 @@ draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = "proba forte et doppler neg?, éducation AVK, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/, IRC avec CKD-EPI ou cockroft ?"
+todo = "proba forte et doppler neg?, éducation AVK, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/, IRC avec CKD-EPI ou cockroft ?, https://splf.fr/traitement-de-la-maladie-veineuse-thromboembolique-au-cours-du-cancer-mis-a-jour-mars-2021/?utm_source=rss&utm_medium=rss&utm_campaign=traitement-de-la-maladie-veineuse-thromboembolique-au-cours-du-cancer-mis-a-jour-mars-2021"
 +++
 
 Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'état.

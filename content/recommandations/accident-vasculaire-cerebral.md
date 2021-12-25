@@ -2,7 +2,7 @@
 title = "Accident vasculaire cérébral"
 prefix = "l'"
 shortname = "AVC"
-synonyms = ["Accident ischémique transitoire", "infarctus cérébral"]
+synonyms = ["AVC et AIT", "accident ischémique transitoire", "infarctus cérébral"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-25T14:04:00+02:00
 publishdate = 2021-01-25

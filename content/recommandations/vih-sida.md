@@ -201,7 +201,7 @@ Dépistage annuel.
 - Accident d'exposition au sang
 - Exposition sexuelle à risque
 
-{{% info %}}Proposer de coupler au dépistage les sérologies VHB et VHC.{{% /info %}}
+{{%info%}}Proposer de coupler au dépistage les sérologies VHB et VHC{{%/info%}}
 
 ### Le dépistage du VIH - Comment ?
 
