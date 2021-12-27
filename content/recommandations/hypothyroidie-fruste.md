@@ -109,7 +109,7 @@ Débuter la lévothyroxine à posologie basse, croissante par paliers jusqu'à o
 - Si enceinte avec TSH > 4 mUI/L: traitement immédiat
 - Sinon: contrôle TSH à 6 mois puis annuel en l'absence de normalisation
 
-{{< mermaid title="Conduite à tenir devant une hypothyroïdie fruste. Dr JB FRON d'après HAS 2019" >}}
+{{< mermaid title="Conduite à tenir devant une hypothyroïdie fruste. Dr JB Fron d'après HAS 2019" >}}
 graph TB
   decouverte[TSH augmentée] -- Contrôle à 1 mois + T4L--> TSH[TSH augmentée] -- T4L normale --> hTFruste(Hypothyroïdie fruste) --> anomalies("<b>Anomalies?</b><hr>- TSH &gt; 10<br>- Anticorps anti-TPO+<br>- Grossesse et TSH &gt; 4<br>- Clinique d'hypothyroïdie") -- Oui --> traitement(Traitement par lévothyroxine)
   style decouverte stroke:#4150f5, stroke-width:1px

@@ -182,13 +182,13 @@ Aucune indication des corticoïdes (sauf traitement au long cours).
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant un érysipèle. Dr JB FRON d'après HAS/SPILF 2019 et 2021" >}}
+{{< mermaid title="Conduite à tenir devant un érysipèle. Dr JB Fron d'après HAS/SPILF 2019 et 2021" >}}
 graph TB
   diagnostic[Diagnostic clinique d'érysipèle]
   style diagnostic stroke:#4150f5, stroke-width:1px
     diagnostic --> indichospitalisation("<b>Indication à l'hospitalisation ?</b><hr>- Fasciite nécrosante<br>- Doute diagnostique<br>- SG marqués<br>- Fragilité<br>- Contexte social<br>- Complication locale<br>- AINS, corticoïdes<br>- Échec à 24-48h")
       indichospitalisation -- Non --> antibiotique("- Amoxicilline 50 mg/kg en 3 prises<br>7 jours (max 6 g/j)<br>- Surveillance clinique<br>- Porte d'entrée<br>- Vaccinations<br>- Anticoagulation selon déambulation")
-        antibiotique --> prevention("<b>Prévention</b><hr>- Contention veineuse<br>- Porte d'entrée<br>- &ge; récidives/an<br>Pénicilline V ou BPG")
+        antibiotique --> prevention("<b>Prévention</b><hr>- Contention veineuse<br>- Porte d'entrée<br>- &ge; 2 récidives/an<br>Pénicilline V ou BPG")
         antibiotique -- Allergie pénicilline --> allergie("- Clindamycine 600 mg x 3/j<br>x 4/j si poids > 100 kg<br>- ou pristinamycine 1 g x 3/j")
       indichospitalisation -- Oui --> hospitalisation(Hospitalisation)
     diagnostic -- Diagnostic différentiel --> differentiel("- Pied diabétique<br>- DH bactérienne aiguë<br>- DH sur insuffisance veineuse<br>- Eczéma")

@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2021-12-24
+lastmod = 2021-12-27
 specialites = ["pneumologie"]
 annees = "2021"
 sources = ["ERS", "GOLD", "HAS", "SPLF"]
@@ -19,10 +19,8 @@ draft = false
 slider = true
 image = true
 imageSrc = "Illustration de la BPCO par Freepik"
-todo = "SPLF 2021, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, SCORE, ostéoporose, remboursement RR, flow p.46, planification des soins futurs et les directives anticipées (43), travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, a1antitrypsine"
+todo = "Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, remboursement RR, flow p.46, planification des soins futurs et les directives anticipées (43), travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, a1antitrypsine"
 +++
-
-*Les recommandations SPLF 2021 ne sont pas encore intégrées*
 
 {{%article-summary%}}
 
@@ -105,11 +103,11 @@ Aux USA: coût estimé de 52,4 milliards de $ annuels (32 directs + 20,4 indirec
 - Hospitalisations: 100-160.000/an (2017)  
 22,5% des patients hospitalisés ont été ré-hospitalisés.
 - Décès: 18.000/an
-- Coût moyen: de 7628€ à 20 747€  
+- Coût moyen: de 7628€ à 20.747€  
 Coût annuel moyen respectif d'un patient avec BPCO légère et oxygénorequérant.
 - Sous-diagnostic: 70% ne seraient pas diagnostiqués
 - 80% des cas dus au tabac
-- Méconnaissance: 22% des français ont déjà entendu parler de BPCO (*SPF 2017*)  
+- Méconnaissance: 22% des français ont déjà entendu parler de BPCO (*[SPF 2017](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)*)  
 Parmi lesquels seulement 1/3 cite le tabac comme cause.
 
 {{% /collapse %}}
@@ -156,7 +154,7 @@ Asthme, allergie, atopie, sinusite, polypes du rhinopharynx, infections respirat
   Coronaropathie, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), AOMI (8,8%), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (20-70%), arythmie, [diabète]({{< relref "diabete-type-2.md" >}})
   - Cancers liés au tabac (VADS, vessie, digestifs)
   - Dépression, anxiété, addictions, troubles cognitifs
-  - Ostéoporose et amyotrophie
+  - [Ostéoporose]({{< relref "osteoporose.md" >}}) et amyotrophie
   - Obésité, [dénutrition]({{< relref "denutrition.md" >}} ), anémie et polyglobulie
   - DDB, [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
   - [RGO]({{< relref "reflux-gastro-oesophagien.md" >}})
@@ -240,7 +238,7 @@ Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-bpco >}
   - Autres expositions aux toxiques et gaz domestiques et professionnels  
   Aérosols, combustion de bois ou biomasse, moisissures.
 - Vaccination
-  - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) (avec la coqueluche)
+  - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) avec la coqueluche
   - Grippe annuelle
   - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}} /5 ans si ≥ 65 ans ou comorbidités (cardio-respiratoire)
 - Réhabilitation respiratoire
@@ -255,7 +253,7 @@ Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-bpco >}
   - [Annuaire pour l'Activité Physique Adaptée (APA)](https://www.sfp-apa.fr/annuaire/)
 - Évaluation nutritionnelle  
 Dont santé bucco-dentaire et diététicien.
-- Éducation thérapeutique et Plan d'action  
+- Éducation thérapeutique et Plan d'action écrit  
 Systématique, voir le chapitre suivant.
 - Réévaluation de médicaments bronchoconstricteurs  
   - Ticagrélor, adénosine, latanoprost
@@ -546,23 +544,19 @@ Anémie, asthme, cancer, [insuffisance cardiaque]({{< relref "insuffisance-cardi
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [Zysman M. et al. Optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. Position de la Société de pneumologie de langue française. Actualisation 2021. Revue des Maladies Respiratoires. Volume 38. Issue 5. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/optimisation-du-traitement-BPCO.pdf)
 - [Wedzicha JA et al. Prevention of COPD exacerbations: a European Respiratory Society/American Thoracic Society guideline. Eur Respir J 2017; 50: 1602265.](https://doi.org/10.1183/13993003.02265-2016)
-- [Georges M. Réhabilitation respiratoire dans la BPCO : bis repetita. 18/05/2021.](https://splf.fr/rehabilitation-respiratoire-dans-la-bpco-bis-repetita/?utm_source=rss&utm_medium=rss&utm_campaign=rehabilitation-respiratoire-dans-la-bpco-bis-repetita)
-- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. 2020.](https://goldcopd.org/2021-gold-reports/)
+- [Georges M. Réhabilitation respiratoire dans la BPCO : bis repetita. 18/05/2021.](https://splf.fr/rehabilitation-respiratoire-dans-la-bpco-bis-repetita/)
+- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease 2021 Report. 2020.](https://goldcopd.org/2021-gold-reports/)
 - [Prescrire Redaction. Questionner sa pratique : préserver la qualité de vie des patients souffrant de BPCO. Rev Prescrire 2020 ; 40 (445) : 861-864.](https://prescrire.org/)
 - [Prescrire Redaction. Bronchopneumopathie chronique obstructive - Premiers Choix Prescrire, actualisation juillet 2020. Rev Prescrire 2020 ; 40 (444) : 737.](https://prescrire.org/)
 - [HAS. Patients à risque ou atteints de BPCO. Indicateurs de qualité du parcours de soins. 30/01/2020.](https://www.has-sante.fr/jcms/p_3151500/fr/patients-a-risque-ou-atteints-de-bronchopneumopathie-chronique-obstructive-bpco-indicateurs-de-qualite-du-parcours-de-soins)
 - [Marques C et al. Évolution des connaissances de la bronchopneumopathie chronique obstructive après la campagne nationale du 31 mai 2019 : résultats d’une évaluation avant/après. Synthèse. Santé publique France ; 2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bpco-et-insuffisance-respiratoire-chronique/documents/rapport-synthese/evolution-des-connaissances-de-la-bronchopneumopathie-chronique-obstructive-apres-la-campagne-nationale-du-31-mai-2019-resultats-d-une-evaluation)
 - [HAS. Bronchopneumopathie chronique obstructive. Guide du parcours de soins. Novembre 2019.](https://www.has-sante.fr/jcms/c_1242507/fr/guide-du-parcours-de-soins-bronchopneumopathie-chronique-obstructive-bpco)
-- [Prescrire Redaction. Bronchodilatateurs pour inhalation buccale dans la bronchopneumopathie chronique obstructive (BPCO) (commercialisés en France au 11 décembre 2018). Rev Prescrire 2019 ; 39 (424) : 91.](https://prescrire.org/)
-- [Santé Publique France. BPCO et insuffisance respiratoire chronique. 27/06/2019](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bpco-et-insuffisance-respiratoire-chronique)
-- [Delmas MC et al. Connaissance de la bronchopneumopathie chronique obstructive (BPCO) en France : Baromètre santé 2017. Bull Epidémiol Hebd. 2018;(35-36):703-8.](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)
+- [Prescrire Redaction. Bronchodilatateurs pour inhalation buccale dans la bronchopneumopathie chronique obstructive (BPCO) (commercialisés en France au 11 décembre 2018). Rev Prescrire 2019.](https://prescrire.org/)
+- [Santé Publique France. BPCO et insuffisance respiratoire chronique. 27/06/2019.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bpco-et-insuffisance-respiratoire-chronique)
 - [Jouneau S. et al. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017. FR, EN. (PDF)](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
 - [Zysman M. et al. Propositions de la SPLF pour l’optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016. (PDF)](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
-
-### À lire
-
-- [Zysman M. et al. Optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. Position de la Société de pneumologie de langue française. Actualisation 2021. Revue des Maladies Respiratoires. Volume 38. Issue 5. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/optimisation-du-traitement-BPCO.pdf)
 
 {{% /collapse %}}
 <!-- Scores -->

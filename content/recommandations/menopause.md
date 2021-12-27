@@ -229,7 +229,7 @@ Si endomètre > 4 mm ou saignements répétés.
 {{% /collapse %}}
 {{%collapse "Traitements non hormonaux" %}}
 
-Objectifs: amélioration de la santé, des signes climatériques, du risque cardiovasculaire et ostéoporotique.
+Objectifs: amélioration de la santé, des signes climatériques, du risque cardiovasculaire et [ostéoporotique]({{< relref "osteoporose.md" >}}).
 
 - Arrêt tabac et alcool
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}

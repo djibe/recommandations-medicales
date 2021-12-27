@@ -163,7 +163,7 @@ Uniquement par le gastro-entérologue:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une hyperferritinémie" "show" %}}
 
-{{< mermaid title="Conduite à tenir diagnostique devant une hyperferritinémie. Dr JB FRON d'après SNFGE 2019" >}}
+{{< mermaid title="Conduite à tenir diagnostique devant une hyperferritinémie. Dr JB Fron d'après SNFGE 2019" >}}
 graph TB
   HF["<b>Hyperferritinémie</b><hr>Femme &gt; 200<br>Homme &gt; 300"] --> CST(CST à jeun)
   style HF stroke:#4150f5, stroke-width:1px
@@ -183,7 +183,7 @@ graph TB
 
 {{< /mermaid >}}
 
-> **HF:** hyperferritinémie (en µg/L)
+> HF = hyperferritinémie (en µg/L)
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

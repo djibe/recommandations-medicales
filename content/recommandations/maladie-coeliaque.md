@@ -2,7 +2,7 @@
 title = "Maladie cœliaque"
 prefix = "la "
 shortname = "cœliaque"
-synonyms = ["Intolérance au gluten", "sprue cœliaque", "cœliaquie"]
+synonyms = ["Intolérance au gluten", "allergie au gluten", "sprue cœliaque", "cœliaquie"]
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CELLIER (SNFGE)"
 date = 2020-04-16T12:31:11+02:00
@@ -97,7 +97,7 @@ ou malabsorption sans antécédents familiaux ni auto-immuns
 - Colite microscopique
 - [Thyroïdite de Hashimoto]({{< relref "hypothyroidie.md" >}})  
 ou maladie de Basedow
-- Ostéopénie, ostéoporose
+- Ostéopénie, [ostéoporose]({{< relref "osteoporose.md" >}})
 - Ataxie ou neuropathie périphérique inexpliquée
 - Aphtes récurrents ou défauts de l’émail dentaire
 - Infertilité, fausses couches répétées, règles tardives, ménopause précoce
@@ -108,7 +108,7 @@ ou maladie de Basedow
 - Troubles de l’humeur, trouble déficitaire de l’attention, déficience cognitive
 - [Hyposplénisme ou asplénie fonctionnelle]({{< relref "asplenie.md" >}})
 - Psoriasis ou lésions dermatologiques autres que la dermatite herpétiforme
-- Syndrome de Down ou de Turner
+- Trisomie 21 ou syndrome Turner
 - Hémosidérose pulmonaire
 - Néphropathie à IgA
 

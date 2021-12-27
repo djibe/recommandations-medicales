@@ -232,7 +232,7 @@ Prescription et réalisation uniquement en centre de la douleur chronique.
 {{%/collapse%}}
 {{%collapse "Conduite à tenir pour le traitement des douleurs neuropathiques" "show" %}}
 
-{{< mermaid title="Algorithme thérapeutique proposé pour la prise en charge de la douleur neuropathique de l'adulte. Dr JB FRON d'après SFETD 2020" >}}
+{{< mermaid title="Algorithme thérapeutique proposé pour la prise en charge de la douleur neuropathique de l'adulte. Dr JB Fron d'après SFETD 2020" >}}
 graph TB
   DN["<b>Douleur neuropathique</b><hr>- Caractères<br>- Questionnaire DN4<br>- Bilan étiologique"]
   style DN stroke:#4150f5, stroke-width:1px

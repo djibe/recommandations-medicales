@@ -272,7 +272,7 @@ chaussettes de contention classe 3 au moins 6 mois.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une EP" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion d'embolie pulmonaire. Dr JB FRON d'après Sanchez 2019" >}}
+{{< mermaid title="Conduite à tenir devant une suspicion d'embolie pulmonaire. Dr JB Fron d'après Sanchez 2019" >}}
 graph TB
   ep[Suspicion d'<br>embolie pulmonaire] --> gravite(Signes de gravité ?)
   style ep stroke:#4150f5, stroke-width:1px

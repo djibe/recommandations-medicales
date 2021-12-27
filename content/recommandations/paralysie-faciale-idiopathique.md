@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr S. TRINGALI et Dr M. FIEUX (SFORL)"
 date = 2021-03-07T17:12:00+02:00
 publishdate = 2021-03-08
-lastmod = 2021-10-03
+lastmod = 2021-12-27
 specialites = ["ORL"]
 annees = "2020"
 sources = ["SFORL"]
@@ -21,10 +21,9 @@ imageSrc = "Signes à l'examen de la paralysie faciale a frigore. Photo de l'Int
 todo = "soins oculaires"
 +++
 
-Ces recommandations concernent l'adulte.
-
 {{%article-summary%}}
 
+- Ces recommandations concernent l'adulte
 - Diagnostic d'élimination d'une PFP
 - Interrogatoire et examen clinique majeurs
 - Bilan systématique: NFS, glycémie, sérologie Lyme et VIH, audiométrie, IRM avec injection, ENMG si grave
@@ -49,8 +48,7 @@ Les récidives sont exceptionnelles (6%).
 **PFI:** paralysie faciale idiopathique (anciennement *paralysie faciale a frigore*)  
 **PFP:** paralysie faciale périphérique
 
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
 - 70% de guérison complète à 6 mois  
 Corrélée à la gravité initiale.  
@@ -128,11 +126,12 @@ L'examen du **côté paralysé** retrouve:
   - Hyperacousie douloureuse (abolition du réflex stapédien)
 - {{< modal-btn score-house >}}Score de House-Brackmann{{< /modal-btn >}}  
 Noter le score dans le dossier.
-- Reste de l'examen neurologique complet normal
-
-#### Signes négatifs  
+- Reste de l'examen neurologique complet normal  
 
 {{%warning%}}
+
+#### Signes négatifs
+
 Remettre en cause le diagnostic en présence de ces signes d'alerte:
 
 - Otalgie ou otoscopie anormale
@@ -162,8 +161,7 @@ Les diagnostics différentiels sont dominés par les **causes tumorales, traumat
 Fracture du rocher ou péri-parotidienne.
 - Cause infectieuse
   - [Zona]({{< relref "zona.md" >}})
-  - [Maladie de Lyme]({{< relref "maladie-lyme.md" >}})  
-  {{%class%}}*Borrelia burgdorferi*.{{%/class%}}
+  - [Maladie de Lyme]({{< relref "maladie-lyme.md" >}}) {{%class%}}(*Borrelia burgdorferi*){{%/class%}}
   - [Tuberculose]({{< relref "tuberculose.md" >}})
   - [VIH]({{< relref "vih-sida.md" >}})
 - [Diabète]({{< relref "diabete-type-2.md" >}})
@@ -229,7 +227,7 @@ La surveillance clinique de la récupération doit être prolongée.
 
 ### Corticothérapie systémique
 
-{{%info%}}Prednisone orale 1 mg/kg/j (max 120 mg/j) pendant 7 à 10 jours.{{%/info%}}
+{{%info%}}Prednisone orale 1 mg/kg/j (max 120 mg/j) pendant 7 à 10 jours{{%/info%}}
 
 En **forme sévère** ({{< modal-btn score-house >}}grades V et VI du House-Brackmann{{< /modal-btn >}}): prednisone 2 mg/kg/j pendant 10 jours.
 
@@ -243,7 +241,7 @@ Le traitement est associé aux corticoïdes et doit être débuté dans les 72 p
 
 #### Paralysie faciale périphérique zostérienne
 
-Hospitalisation en urgence, [voir *Zona*]({{< relref "zona.md" >}}).
+Hospitalisation en urgence, [lire le chapitre *Zona*]({{< relref "zona.md" >}}).
 
 ### Soins ophtalmologiques
 
@@ -261,7 +259,7 @@ photophobie, troubles visuels, douleurs oculaires.
 {{%class%}}Ne permet pas d'affirmer la réduction des séquelles.{{%/class%}}
 - Exercices musculaires du visage, biofeedback, traitement au laser, massage et thermothérapie au cours des premiers mois + auto-exercices.
 
-{{%warning%}}Exercices contre-indiqués en PFI: électrothérapie, travail de force (chewing-gum).{{%/warning%}}
+{{%warning%}}Exercices contre-indiqués en PFI: électrothérapie, travail de force (chewing-gum){{%/warning%}}
 
 {{%warning%}}
 Traitements non recommandés au cours d'une PFI:
@@ -273,7 +271,7 @@ Traitements non recommandés au cours d'une PFI:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une paralysie faciale a frigore" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une paralysie faciale idiopathique. Dr JB FRON d'après SFORL 2020" >}}
+{{< mermaid title="Conduite à tenir devant une paralysie faciale idiopathique. Dr JB Fron d'après SFORL 2020" >}}
 graph TB
   PF[Paralysie faciale] --> atypie("<b>Clinique:</b> &ge; 1 signe parmi ?<hr>- Antécédent de PF<br>- Installation &gt; 72h<br>- Dissociation A-V<br>- Bilatérale, fluctuante<br>- Otalgie, surdité, vertiges<br>- PFP atypique<br>- Éruption vésiculeuse<br>- ADP cervicales<br>- Déficit autre")
   style PF stroke:#4150f5, stroke-width:1px
@@ -281,7 +279,7 @@ graph TB
     atypie -- Non --> PFI("<b>Paralysie faciale idiopathique</b><br>si aucun des éléments ci-dessus")
       PFI --> bilan("<b>Examens</b><hr>- NFS<br>- Glycémie à jeûn<br>- Sérologies Lyme et VIH<br>- Audiométrie<br>- IRM n. facial<br>- ENMG si grave<br>- Sérologies VZV et HSV si hyperalgique")
         bilan --> ttt("<b>Traitement urgent</b><hr>- Prednisone po 1 mg/kg 7-10j<br>- Valaciclovir 1g x 3/j<br>- Prévention kératite<br>- Kiné en forme sévère/séq.")
-          ttt --> surv(Surveillance de la récupération<br>&plusmn; Kiné, orthophoniste)
+          ttt --> surv("Surveillance de la récupération<br>&plusmn; Kiné, orthophoniste")
 {{< /mermaid >}}
 
 {{%/collapse%}}

@@ -300,7 +300,7 @@ Uricosurique alternatif de l'allopurinol et du fébuxostat, le probénécide (Sa
 {{% /collapse %}}
 {{% collapse "Conduite à tenir devant une crise de goutte" "show" %}}
 
-{{< mermaid title="Conduite à tenir thérapeutique devant une crise de goutte. Dr JB FRON d'après SFR 2020" >}}
+{{< mermaid title="Conduite à tenir thérapeutique devant une crise de goutte. Dr JB Fron d'après SFR 2020" >}}
 graph TB
   crise[Crise de goutte] --> rhd("- Éducation<br>- Traitement à avoir sur soi<br>- Envisager hypouricémiant")
   style crise stroke:#4150f5, stroke-width:1px
@@ -314,16 +314,16 @@ graph TB
 {{< /mermaid >}}
 
 > **Légende**  
-**MCV:** maladie cardiovasculaire  
-**Inhibiteurs CYP3A4/GP:** pristinamycine, macrolides...  
-**Colchicine** J1: 1 mg puis 0,5 mg à H1 puis jours suivants 0,5 mg x 2-3/j.  
-**AINS:** naproxène 750 mg puis 250 mg x 3/j.  
-**Corticoïdes:** 30-35 mg/j prednisone 5 jours.
+MCV = maladie cardiovasculaire  
+Inhibiteurs CYP3A4/GP = pristinamycine, macrolides...  
+Colchicine J1 = 1 mg puis 0,5 mg à H1 puis jours suivants 0,5 mg x 2-3/j.  
+AINS = naproxène 750 mg puis 250 mg x 3/j.  
+Corticoïdes = 30-35 mg/j prednisone 5 jours.
 
 {{%/collapse%}}
 {{% collapse "Conduite à tenir pour le traitement hypouricémiant" "show" %}}
 
-{{< mermaid title="Conduite à tenir thérapeutique pour le traitement hypouricémiant. Dr JB FRON d'après SFR 2020" >}}
+{{< mermaid title="Conduite à tenir thérapeutique pour le traitement hypouricémiant. Dr JB Fron d'après SFR 2020" >}}
 graph TB
   diagnostic[Diagnostic de goutte] --> education(<b>Éducation</b><hr>- Traitement sur soi<br>- RHD)
   style diagnostic stroke:#4150f5, stroke-width:1px
@@ -339,8 +339,8 @@ graph TB
             uricemie -- "> 60 mg/L" --> hors(Maintenir doses maximales<br>Considérer uricosuriques) --> surv
 {{< /mermaid >}}
 
-> **MCV:** Maladie cardiovasculaire  
-**Acide urique:** 50 mg/L = 300 µmol/L
+> MCV = Maladie cardiovasculaire  
+Uricémie cible = 50 mg/L = 300 µmol/L
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}

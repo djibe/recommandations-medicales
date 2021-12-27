@@ -82,5 +82,10 @@ HUGO_ENABLEGITINFO = "false"
   to = "/duree-sommeil-recommandee/"
   status = 301
 
-  [[plugins]]
+[[redirects]]
+  from = "/annees/2012/"
+  to = "/annees/"
+  status = 301
+
+[[plugins]]
   package = "netlify-plugin-inline-critical-css"

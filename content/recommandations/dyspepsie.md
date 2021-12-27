@@ -122,7 +122,7 @@ Sur avis spécialisé uniquement:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une dyspepsie" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une dyspepsie. Dr JB FRON d'après SNFGE 2019" >}}
+{{< mermaid title="Conduite à tenir devant une dyspepsie. Dr JB Fron d'après SNFGE 2019" >}}
 graph TB
 Dyspepsie
 style Dyspepsie stroke:#4150f5, stroke-width:1px

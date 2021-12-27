@@ -20,7 +20,7 @@ draft = false
 todo = "graph correction, relecture protocole correction"
 +++
 
-Voir aussi: {{< modal-btn modal-calcium-cible >}}cibles calciques selon l'âge{{< /modal-btn >}} et {{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}.
+Voir aussi: {{< modal-btn modal-calcium-cible >}}cibles calciques selon l'âge{{< /modal-btn >}}, {{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}} et [ostéoporose]({{< relref "osteoporose.md" >}}).
 
 {{%collapse "Définitions" %}}
 

@@ -15,7 +15,7 @@ anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "rythme depistages pieds, oeil, télésurveillance, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2; -1 kg réduit de 43% le risque de DT2 (ESC 2019 diabetes)"
+todo = "objectifs Hba1c, glinides, IAG, rythme depistages pieds, oeil, télésurveillance, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2; -1 kg réduit de 43% le risque de DT2 (ESC 2019 diabetes)"
 +++
 
 {{%article-summary%}}
@@ -297,7 +297,7 @@ Indications avant 65 ans:
 - Capteur de glycémie
   - Indications: patient ≥ 4 ans avec insulinothérapie intensifiée (pompe ou ≥ 3 injections/j) et pratiquant une ASG ≥ 3/j.
   - Prescription initiale par endocrinologue
-  - 26 capteurs/an remboursés
+  - 26 capteurs/an remboursés ([Freestyle Libre 2](https://www.federationdesdiabetiques.org/federation/actualites/freestyle-libre-2-c-est-officiel-le-dispositif-bientot-pris-en-charge))
 - Lecteur de glycémie  
   - 1 lecteur/4 ans
   - Indications à l'autosurveillance glycémique: insuline envisagée ou en cours, insulinosécréteur avec suspicion d'hypoglycémie, visée pédagogique en cible non atteinte, déséquilibre aigu (infection, corticoïdes, suspension du traitement), (désir de) grossesse

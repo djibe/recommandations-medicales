@@ -256,7 +256,7 @@ Alcool, syndrome métabolique, automédication.
 {{% /collapse %}}
 {{% collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant un résultat de sérologie d'hépatite C. Dr JB FRON d'après HAS 2019" >}}
+{{< mermaid title="Conduite à tenir devant un résultat de sérologie d'hépatite C. Dr JB Fron d'après HAS 2019" >}}
 graph TB
   serologie["Sérologie VHC<br>(+ VHB + VIH)"] --> serologie+(Positive)
   style serologie stroke:#4150f5, stroke-width:1px
@@ -277,7 +277,7 @@ graph TB
     immunodep --> pcr2(Charge virale VHC)
 {{< /mermaid >}}
 
-{{< mermaid title="Conduite à tenir dans les suites de la réalisation d'un TROD VHC. Dr JB FRON d'après HAS 2019" >}}
+{{< mermaid title="Conduite à tenir dans les suites de la réalisation d'un TROD VHC. Dr JB Fron d'après HAS 2019" >}}
 graph TB
   trod[TROD VHC] --> trod+(Positif)
   style trod stroke:#4150f5, stroke-width:1px

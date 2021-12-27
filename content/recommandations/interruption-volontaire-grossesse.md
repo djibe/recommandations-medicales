@@ -3,7 +3,7 @@ title = "Interruption volontaire de grossesse"
 titleSeo = "Interruption de grossesse"
 prefix = "l'"
 shortname = "IVG"
-synonyms = ["Avortement"]
+synonyms = ["IVG", "avortement"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-16T10:54:41+02:00
 publishdate = 2020-09-16
@@ -148,7 +148,7 @@ Contraception efficace adaptée pour tous les couples en âge de procréer en l'
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour une interruption volontaire de grossesse" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour l'IVG. Dr JB FRON d'après HAS 2021" >}}
+{{< mermaid title="Conduite à tenir pour l'IVG. Dr JB Fron d'après HAS 2021" >}}
 graph TB
   demande[Demande d'IVG]
   style demande stroke:#4150f5, stroke-width:1px

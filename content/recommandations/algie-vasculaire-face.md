@@ -268,7 +268,7 @@ Voire *lithium*.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une AVF" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion d'algie vasculaire de la face. Dr JB FRON d'après SFEMC 2014" >}}
+{{< mermaid title="Conduite à tenir devant une suspicion d'algie vasculaire de la face. Dr JB Fron d'après SFEMC 2014" >}}
 graph TB
   suspicion[Suspicion d'AVF] --> ICHD3(Critères diagnostiques ICHD-3)
   style suspicion stroke:#4150f5, stroke-width:1px

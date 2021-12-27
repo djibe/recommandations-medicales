@@ -189,7 +189,7 @@ Gérer la douleur, handicap, observance, maintien de l’activité professionnel
 **Objectif:** rémission clinique (absence de signes ou symptômes inflammatoires significatifs) ou plus faible activité possible.  
 **Rémission:** absence de signes et symptômes d'activité inflammatoire significative.
 
-- Prévention des complications: cardiovasculaires, respiratoires, infectieuses, lymphomes et fractures ostéoporotiques.
+- Prévention des complications: cardiovasculaires, respiratoires, infectieuses, lymphomes et fractures [ostéoporotiques]({{< relref "osteoporose.md" >}}).
 - Éducation thérapeutique
 
 ### Traitement de fond conventionnel

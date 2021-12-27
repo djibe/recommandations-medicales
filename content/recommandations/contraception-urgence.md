@@ -54,7 +54,7 @@ Elle peut être hormonale (lévonorgestrel ou ulipristal acétate) ou mécanique
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-{{%info%}}Intérêt d'une contraception efficace pendant toute la période de vie sexuelle active.{{%/info%}}
+{{%info%}}Intérêt d'une contraception efficace pendant toute la période de vie sexuelle active{{%/info%}}
 
 La contraception d'urgence peut être prescrite en prévision "au cas où".
 
@@ -133,7 +133,7 @@ Sans contraception ou oubli.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour une contraception en urgence" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour la contraception d'urgence. Dr JB FRON d'après HAS 2019" >}}
+{{< mermaid title="Conduite à tenir pour la contraception d'urgence. Dr JB Fron d'après HAS 2019" >}}
 graph TB
   rapport[Rapport non protégé<br>sans contraception] -- + tôt possible --> 3jours(&lt; 3 jours)
   style rapport stroke:#4150f5, stroke-width:1px
@@ -152,7 +152,7 @@ graph TB
     5jours --> DIU
 {{< /mermaid >}}
 
-> **NB.** Le risque infectieux n'est pas traité ici.
+> **NB.** Le risque infectieux n'est pas traité ici
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

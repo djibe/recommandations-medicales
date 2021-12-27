@@ -28,6 +28,24 @@ todo = "def rhumatisme pso + MICI, foreach score modal, bilan pré-thérap antit
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
+### Facteurs de mauvais pronostic de la spondylarthrite ankylosante
+
+- Début avant 16 ans
+- Dactylite
+- Oligo-arthrite
+- Coxite
+- Raideur lombaire
+- VS > 30
+- Résistance aux AINS
+
+### Complications
+
+- Amylose AA
+- Syndrome ventilatoire restrictif
+- Insuffisance aortique et troubles de la conduction (BAV)
+- [Ostéoporose]({{< relref "osteoporose.md" >}})
+- Colonne bambou avec complications neurologiques
+
 ### Formes de spondylarthrites
 
 On distingue les:
@@ -101,16 +119,15 @@ Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, i
 - Dépistages recommandés et mise à jour du calendrier vaccinal
 - Mesure de la pression artérielle et symptômes cardio-vasculaires
 - Palpation des aires ganglionnaires
-- Facteurs de risque d'ostéoporose et calcul du FRAX
+- Facteurs de risque d'[ostéoporose et calcul du FRAX]({{< relref "osteoporose.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques ESSG" %}}
 
-{{% info %}}
-
+{{%info%}}
 **Diagnostic formel de spondylarthropathie si 1 critère majeur ET 1 critère mineur.**
 
-### CRITÈRES MAJEURS
+### Critères majeurs
 
 1. Synovites (passées ou présentes) asymétriques ou prédominant aux membres inférieurs
 2. Douleurs du rachis (lombaire, dorsal ou cervical passées ou présentes) avec au moins 3 critères parmi:
@@ -122,7 +139,7 @@ Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, i
 
 ---
 
-### CRITÈRES MINEURS
+### Critères mineurs
 
 1. ATCD familiaux de spondylarthrite, psoriasis, uvéite, arthrite réactionnelle, MICI
 2. Psoriasis (antécédent ou actif)
@@ -135,27 +152,7 @@ Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, i
 
 Se 87%, Spe 96%
 
-{{% /info %}}
-
-{{% /collapse %}}
-{{%collapse "Facteurs de mauvais pronostic" %}}
-
-- Début avant 16 ans
-- Dactylite
-- Oligo-arthrite
-- Coxite
-- Raideur lombaire
-- VS > 30
-- Résistance aux AINS
-
-{{% /collapse %}}
-{{%collapse "Complications" %}}
-
-- Amylose AA
-- Syndrome ventilatoire restrictif
-- Insuffisance aortique et troubles de la conduction (BAV)
-- Ostéoporose
-- Colonne bambou avec complications neurologiques
+{{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
