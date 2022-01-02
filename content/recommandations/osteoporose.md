@@ -6,7 +6,7 @@ synonyms = ["Ostéoporose post-ménopausique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-04T17:43:41+02:00
 publishdate = 2021-12-06
-lastmod = 2021-12-16
+lastmod = 2022-01-02
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "GRIO", "IOF", "HAS"]
@@ -33,7 +33,6 @@ todo = "https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/Ra
 - Voir aussi: [traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
-
 {{%collapse "Définitions" %}}
 
 Ostéoporose
@@ -82,6 +81,7 @@ L'ostéoporose est responsable d'un lourd fardeau médico-économique:
 - 60.000 fractures de l'extrémité supérieure du fémur (ESF, 2001)  
 ≥ 55 ans: 23,5% de mortalité (toutes causes confondues) dans l'année qui suit une FESF (*Drees 2016*)
 - 35.000 fractures du poignet (2001)
+- 2009 - 2016: 2x moins de traitements spécifiques de l'ostéoporose prescrits ! (*[Cortet 2022](https://doi.org/10.1016/j.bone.2021.116255)*)
 
 {{%/collapse%}}
 {{%collapse "Clinique" %}}

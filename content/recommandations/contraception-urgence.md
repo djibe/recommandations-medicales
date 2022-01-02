@@ -6,7 +6,7 @@ synonyms = ["Pilule du lendemain"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-05T14:50:00+02:00
 publishdate = 2021-03-05
-lastmod = 2021-09-27
+lastmod = 2022-01-02
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["HAS", "CNGOF"]
@@ -24,11 +24,12 @@ todo = "Prescrire"
 
 - Information systématique de tous sur la contraception d'urgence, notamment lors de la prescription d'une contraception
 - Information sur sa grande efficacité prise précocement et son innocuité
-- La pilule du lendemain est accessible sans ordonnance jusqu'à 72h, anonyme et gratuite pour les mineures
+- La pilule du lendemain est accessible sans ordonnance jusqu'à 72h, anonyme et gratuite pour les -25 ans
 - La pose d'un DIU est la méthode la plus efficace et possible jusqu'à J5
 - Envisager une prescription en prévention surtout si: adolescente, préservatif, VIH, voyage à l'étranger, milieu rural.
 - Il existe un risque de grossesse à tout moment du cycle en rapport non protégé
 - Hotline: {{<phone>}}0 800 08 11 11{{</phone>}}
+- Article lié: [contraception]({{< relref "contraception.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -100,7 +101,7 @@ Aucun risque décrit, aucune contre-indication hormis la grossesse.
 
 - Disponible en pharmacie sans prescription
 - Remboursée sur ordonnance
-- Gratuite pour les mineures  
+- Gratuite jusqu'à 25 ans *[Service public](https://www.service-public.fr/particuliers/actualites/A15158)*  
 Accessible en pharmacie, collège/lycée/université, [planning familial](https://ivg.gouv.fr/les-centres-de-planification-ou-d-education-familiale.html) (CPEF, accès aussi aux **majeures sans couverture sociale**).
 
 ### Ulipristal acétate (UPA)

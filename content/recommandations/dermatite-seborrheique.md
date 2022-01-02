@@ -23,7 +23,7 @@ imageSrc = "Dermatite séborrhéique, Roymishali, CC BY-SA 3.0, via Wikimedia Co
 
 - Le diagnostic est clinique
 - Ciclopirox ou kétoconazole
-- Dépister le [VIH]({{< relref "vih-sida.md" >}}) si récente, extensive ou résistante
+- Dépister le [VIH]({{< relref "vih-sida.md" >}}) si DS récente, extensive ou résistante
 
 {{%/article-summary%}}
 {{% collapse "Définition" %}}
@@ -43,13 +43,13 @@ Prolifération d'une levure lipophile: *Malassezia furfur*.
 {{% /collapse %}}
 {{% collapse "Clinique" %}}
 
-{{% warning %}}Dépister le VIH en dermatite séborrhéique grave, résistante ou chronique{{%/warning%}}
+{{%warning%}}Dépister le VIH en dermatite séborrhéique grave, résistante ou chronique{{%/warning%}}
 
 Le diagnostic est clinique.
 
 - *Homme* surtout, mais peut survenir chez le nourrisson.
-- Facteur aggravant: *stress*
-- Facteur soulageant: *été*
+- Facteur aggravant: **stress**
+- Facteur soulageant: **été**
 
 Rougeurs et squames survenant sur les zones séborrhéiques:
 
@@ -68,7 +68,8 @@ Plaques annulaires à bordure squameuse en région présternale.
 ### Clinique chez le nourrisson
 
 La dermatite séborrhéique débute après 15 jours de vie chez l'enfant en bonne santé et est d'évolution spontanément favorable.  
-Croûtes jaunes du cuir chevelu (croûtes de lait) et du visage, voire du siège et des plis axillaires.  
+Croûtes jaunes du cuir chevelu (**croûtes de lait**) et du visage, voire du siège et des plis axillaires.
+
 Forme extensive: érythrodermie de Leiner-Moussous.
 
 {{% /collapse %}}
@@ -78,10 +79,10 @@ Forme extensive: érythrodermie de Leiner-Moussous.
 Plaques bien limitées extra-faciales, début précoce, antécédents.
 - [Rosacée]({{< relref "rosacee.md" >}})  
 Bouffées vasomotrices, érythrose faciale permanente, télangiectasies, absence de squames.
-- Dermatite atopique  
+- [Dermatite atopique]({{< relref "dermatite-atopique.md" >}})  
 Une érythrodermie du nourrisson pourrait inaugurer une DA ou un psoriasis. Chez l'adulte, la DA déborde des zones séborrhéiques avec respect médio-facial.
 - [Syphilis]({{< relref "syphilis.md" >}})  
-Comportement sexuel, notion de chancre.
+Rapports non protégés, notion de chancre.
 
 {{% /collapse %}}
 {{% collapse "Examens complémentaires" %}}
@@ -92,7 +93,7 @@ Aucun examen complémentaire en l’absence d’arguments pour une autre cause.
 {{% collapse "Traitement de la dermatite séborrhéique" %}}
 
 Le traitement est suspensif et doit donc être répété.  
-**Traitement d'attaque** pendant 2 à 4 semaines puis **entretien** 2 à 4 fois par mois au long cours.
+**Traitement d'attaque** pendant 2 à 4 semaines puis **entretien 2 à 4 fois par mois** au long cours.
 
 ### Mesures hygiéno-diététiques
 

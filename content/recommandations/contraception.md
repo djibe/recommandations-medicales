@@ -6,30 +6,29 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2021-10-18"
+lastmod = "2022-01-02"
 specialites = ["gynecologie-obstetrique"]
 annees = "2018"
 sources = ["CNGOF", "HAS"]
 tags = ["MVTE"]
-anglais = []
-sctid = ""
+anglais = ["Contraception"]
+sctid = "13197004"
 draft = false
-datatable = false
 image = true
 imageSrc = "La contraception illustrée par stories / Freepik"
-todo = "fiche patiente, https://www.has-sante.fr/jcms/p_3261764/fr/contraception, https://ansm.sante.fr/actualites/contraception-ou-en-sommes-nous, stérilisation, nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, 5% dev HTA sous COP ESC 2018, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, barrière, contraception et HTA ESC 2018, 360medics, inducteur enz p9, cat vmts et diarrhes p9"
+todo = "fiche patiente, https://www.has-sante.fr/jcms/p_3261764/fr/contraception, https://ansm.sante.fr/actualites/contraception-ou-en-sommes-nous, https://www.has-sante.fr/jcms/p_3122291/fr/contraception-consultations-initiale-et-de-suivi, stérilisation, nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, 5% dev HTA sous COP ESC 2018, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, barrière, contraception et HTA ESC 2018, 360medics, inducteur enz p9, cat vmts et diarrhes p9, contraception définitive"
 +++
 
 {{%article-summary%}}
 
 - *Rédaction du chapitre en cours*
-- Contraception gratuite jusqu'à 25 ans (au 1<sup>er</sup> janvier 2022, 15 ans actuellement)
+- Contraception gratuite jusqu'à 25 ans
 - Informations sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-On parle de COP (contraception œstroprogestative).
+On parle de COP (contraception œstroprogestative, la *HAS* dit contraceptifs oraux estroprogestatifs COEP).
 
 Le défaut d'observance est l'une des causes principales des grossesses non planifiées.
 
@@ -49,8 +48,10 @@ Le défaut d'observance est l'une des causes principales des grossesses non plan
 {{% /collapse %}}
 {{%collapse "Contre-indications aux œstroprogestatifs" %}}
 
-Les œstroprogestatifs augmentent le risque de MVTE x3-6, plus important la première année.  
+Les œstroprogestatifs augmentent le risque de [MVTE](/tags/mvte/) x3-6 (plus important la 1<sup>re</sup> année).  
 Seuls les COP contenant ≥ 50 µg d'EE sont associées au risque d'accident artériel, sauf FRCV associé (dose-dépendant avec tabac ≥ 15 cig/j).
+
+{{%info%}}
 
 ### Contre-indication formelle aux œstrogènes
 
@@ -80,6 +81,7 @@ Possibles seulement si 1 seul facteur de risque cardiovasculaire isolé parmi:
 - Migraine sans aura
 
 > *CNGOF 2018*
+{{%/info%}}
 
 La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas les risques veineux et artériels (sauf acétate de médroxyprogestérone intramusculaire). Elle est recommandée en cas de contre-indication figurant ci-dessus.
 
@@ -88,7 +90,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 
 {{%info%}}La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares (*CNGOF 2018*){{%/info%}}
 
-{{< table title="Spécialités de contraception disponibles en France en 2021. Dr JB Fron d'après BDPM" class="table-wrap" id="table-pilule" >}}
+{{< table title="Spécialités de contraception disponibles en France en 2022. Dr JB Fron d'après BDPM" class="table-wrap" id="table-pilule" >}}
 | Type        | EE (µg)  | Progestatif (mg) | Spécialités     |
 |-------------|---------:|------------------|-----------------|
 | 2G          | 30/40    | LNG 0,15-0,2     | Adepal, Pacilia |
@@ -99,17 +101,83 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 | 3G          | 35       | Norgestimate 0,18/215/25 | NR: Triafemi |
 | P2          | 0        | LNG 0,03         | Microval        |
 | P3          | 0        | Désogestrel 0,075 | Antigone, Cérazette 28j, Clareal, désogestrel 75, Désopop, Elfasette, Optimizette |
-| Implant     | 0        | Etonogestrel     | Nexplanon       |
-| Anneau      | 15       | Etonogestrel 0,12 | NR: Etoring, Nuvaring, gén |
-| Patch       | 20       | Norelgestromine 0,15 | NR: Evra |
+| Implant     | 0        | Etonogestrel     | Nexplanon (18-40 ans) |
+| Anneau      | 15       | Etonogestrel 0,12 | NR: Etoring, Nuvaring, gén (18-40 ans) |
+| Patch       | 20       | Norelgestromine 0,15 | NR: Evra (18-45 ans, < 90 kg) |
 | DIU cuivre  | 0        | 0                | 7Med 380/ML/NT/TT/UT, Ancora, CCD NT/TT/UT, Copper T, MonaLisa, NovaPlus, Sugant |
 | DIU         | 0        | LNG              | Donasert, Jaydess, Kyleena, Mirena |
+| Préservatif | 0        | 0                | Eden, Sortez couverts ! |
 {{< /table >}}
 
-> **EE** = éthinyl-estradiol; **gén** = générique; **LNG** = lévonorgestrel; **NR** = non remboursé
+> **EE** = éthinyl-estradiol ; **gén** = générique ; **LNG** = lévonorgestrel ; **NR** = non remboursé
 
-Les générations de pilules œstroprogestatives correspondent à leur date de mise sur le marché (P3: desogestrel, gestodène et norgestimate). Utiliser LNG et norgestimate en première intention.  
-Intérêt de présenter les contraceptions par groupes d'efficacité (plutôt que par nombre de grossesses).
+Les générations de pilules œstroprogestatives correspondent à la date de mise sur le marché du progestatif (P3: desogestrel, gestodène et norgestimate). **Utiliser LNG et norgestimate en première intention**, les 3<sup>e</sup> et 4<sup>e</sup> doublant le risque de MVTE (*HAS 2013*).  
+Pas d'arrêt brutal d'une contraception de 3-4<sup>e</sup> génération bien tolérée.
+
+Intérêt de présenter les contraceptions par *groupe d'efficacité* (plutôt que par nombre de grossesses): hormonale (pilule 1<sup>re</sup> et 2<sup>e</sup> génération, implant, patch, anneau vaginal), DIU, contraception d'urgence et stérilisation.  
+Ces moyens efficaces sont **gratuits jusqu'à 25 ans** (sauf patch et anneau qui ont risque de MVTE augmenté, *[Service public](https://www.service-public.fr/particuliers/actualites/A15158)*).
+
+{{% /collapse %}}
+{{%collapse "Clinique" %}}
+
+Nécessité d'une consultation dédiée pour la primo-prescription.
+
+### Interrogatoire
+
+- Âge
+- Antécédents personnels  
+{{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé{{< /modal-btn >}}, HTA, dyslipidémie, diabète type 1, migraine (préciser l'aura), thrombophilie, cancer (du sein), MVTE, IST, GEU, chirurgie.
+- Antécédents familiaux au 1<sup>er</sup> degré  
+IDM/AVC chez homme < 55 ans ou femme < 65 ans, MVTE (TVP, EP) < 50 ans ou épisodes répétés quelque soit le degré.
+- Traitements en cours
+- Tabac
+- Profession
+- Rapports non protégés
+- Contraception
+  - Attentes et besoin
+  - Connaissances
+  - Contraceptions antérieures
+  - DDR, allaitement en cours, gestité et parité, IVG
+  - Efficaces: pilule, implant, stérilet, patch, anneau, stérilisation
+  - IST et SIDA
+  - Coût
+  - Quand débuter, horaire adapté pour éviter l'oubli, Appli de rappel, anticiper le renouvellement
+  - Contraception d'urgence et conduite en cas d'oubli
+  - Effets indésirables, signaler le traitement lors de prescriptions
+  - Recours médecin, pharmacien, sage-femme, infirmière, conseillère conjugale et familiale
+
+### Examen clinique
+
+- Poids, taille, IMC
+- Pression artérielle
+- Examen des seins
+- Frottis après 25 ans
+- Recherche [Chlamydia]({{< relref "chlamydia-trachomatis.md" >}}) chez 15-25 ans ou partenaires multiples
+
+### Examens complémentaires
+
+#### Contraception estroprogestative
+
+Bilan après 3-6 mois de contraception (avant et renouvelé en antécédent familial métabolique) puis **tous les 5 ans** en bilan normal:
+
+- Bilan lipidique
+- Glycémie à jeun
+
+> *HAS 2019*
+
+#### DIU
+
+Pas de dépistage systématique des IST avant la pose.  
+Dépistage des IST si à risque (notamment [Ct]({{< relref "chlamydia-trachomatis.md" >}}) chez les 15-25 ans ou partenaires multiples non protégés).
+
+> *CNGOF 2018*
+
+{{% /collapse %}}
+{{%collapse "Cotation des actes" %}}
+
+- Stérilet
+  - Pose JKLD001 (38,40 €)
+  - Ablation non cotée sauf remplacement du stérilet JKKD001 (38,40 €)
 
 {{% /collapse %}}
 {{%collapse "Précisions sur les classes disponibles" %}}
@@ -138,11 +206,11 @@ Symptômes cataméniaux, ménorragies fonctionnelles, [endométriose]({{< relref
 - Contraception la moins chère (28,37€ pour 5 ans)
 - Cotation CCAM
   - Pose du stérilet JKLD001 (38,40 €)
-  - Ablation non cotée sauf changement de JKKD001 (38,40 €)
+  - Ablation non cotée sauf remplacement du stérilet JKKD001 (38,40 €)
 - Seuls le toucher vaginal avec examen bimanuel et l’inspection cervicale sont formellement recommandés avant la pose d’un DIU
 - Informer sur la modification des saignements selon le stérilet
-- Pas de dépistage systématique des IST avant la pose
-- Dépistage des IST si à risque (notamment [Ct]({{< relref "chlamydia-trachomatis.md" >}}) chez les 15-25 ans ou partenaires multiples non protégés)  
+- Pas de dépistage systématique des IST avant la pose  
+Dépistage des IST si à risque (notamment [Ct]({{< relref "chlamydia-trachomatis.md" >}}) chez les 15-25 ans ou partenaires multiples non protégés).  
 Le jour de la prescription voire avant la pose.
 - Peut être posé à n'importe quel moment du cycle (en l'absence de grossesse)
 - Couper les fils à 2-3 cm de leur saillie  
@@ -152,7 +220,7 @@ Ou plus courts si gênants.
 - Un antécédent de GEU n'est pas une contre-indication
 - Métrorragies ou douleurs pelviennes persistantes:  
 Échographie ± ASP.
-- Grossesse intra-utérine sur DIU  
+- Grossesse (intra-utérine) sur DIU  
 Le retirer si les fils sont accessibles.
 - IST ou infection génitale haute  
 Pas de retrait d'emblée.
@@ -176,12 +244,7 @@ N'est pas un facteur d'infection pelvienne (sauf dans les 21j à 4 mois)
   - Ablation QZGA002 (41,80 €)
 
 {{% /collapse %}}
-{{%collapse "Contraception définitive" %}}
-
-TODO:
-
-{{% /collapse %}}
-{{%collapse "Contraception selon la période de vie" %}}
+{{%collapse "Contraception selon le profil" %}}
 
 ### Adolescente
 
@@ -347,7 +410,9 @@ Y compris phytothérapie, compléments alimentaires.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [HAS. Contraception : prescriptions et conseils aux femmes. Recommander les bonnes pratiques. Juillet 2019. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-02/1e_maj_contraception_prescription-conseil-femmes-060215.pdf)
 - [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018. (PDF)](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2018%252FCNGOF_RPC_2018-CONTRACEPTION.pdf)
+- [HAS. Contraception : focus sur les méthodes efficaces. Actualités & Pratiques. Mai 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-05/contraception_focus_methodes_2013-05-22_18-09-35_548.pdf)
 
 ### À lire
 

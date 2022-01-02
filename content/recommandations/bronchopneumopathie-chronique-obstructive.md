@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2021-12-27
+lastmod = 2022-01-02
 specialites = ["pneumologie"]
 annees = "2021"
 sources = ["ERS", "GOLD", "HAS", "SPLF"]
@@ -19,22 +19,22 @@ draft = false
 slider = true
 image = true
 imageSrc = "Illustration de la BPCO par Freepik"
-todo = "Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24,  ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, remboursement RR, flow p.46, planification des soins futurs et les directives anticipées (43), travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, a1antitrypsine"
+todo = "`Tableau 2 SPLF 2021, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24, ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, remboursement RR, flow p.46, planification des soins futurs et les directives anticipées (43), travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, relecture maeva.zysman@chu-bordeaux.fr"
 +++
 
 {{%article-summary%}}
 
 - {{< modal-btn modal-depistage-bpco >}}Dépistage{{< /modal-btn >}} et arrêt du tabac pour tout le monde  
 Principal facteur du déclin du VEMS.
-- Le diagnostic est spirométrique: TVO non réversible
+- Le diagnostic est spirométrique: trouble ventilatoire obstructif non réversible
 - Le VEMS est le facteur pronostique majeur de la {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
 - 4 piliers du traitement: arrêt du tabac, vaccination grippe + {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, activité physique et réhabilitation respiratoire
-- Adaptation des bronchodilatateurs selon les symptômes et les exacerbations ({{< modal-btn modal-score-cat >}}évaluation CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}dyspnée mMRC{{< /modal-btn >}})
-- Bronchodilatateurs: {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}}, {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama >}}LABA + LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}
+- Bronchodilatateurs selon symptômes et exacerbations ({{< modal-btn modal-score-cat >}}évaluation CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}dyspnée mMRC{{< /modal-btn >}})
+- Bronchodilatateurs: {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-bdca >}}BDCA de secours{{< /modal-btn >}}. Escalade: {{< modal-btn modal-ttt-laba-lama >}}LABA + LAMA{{< /modal-btn >}} > {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}} > {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}
 - EFR de suivi annuelle
 - Prévention cardiovasculaire
 - Voir les [vidéos de formations sur les techniques d'inhalation]({{< relref "bronchopneumopathie-chronique-obstructive.md#fmc-gratuites" >}})
-- Pas de contre-indication aux bêtabloquants (ESC 2016 IC)
+- La BPCO n'est pas une contre-indication aux bêtabloquants (*ESC 2016 IC*)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -47,9 +47,9 @@ Bronchopneumopathie chronique obstructive (BPCO)
 : Causes de mortalité: insuffisance respiratoire (10% en Gold 1, 50% en Gold 4), maladies cardio-vasculaires (20-40%), cancers (10-20%).
 
 Exacerbation de BPCO (EABPCO)
-: Le diagnostic est clinique: aggravation aiguë des symptômes respiratoires au-delà des variations quotidiennes justifiant une modification thérapeutique (augmentation des bronchodilatateurs > 24h ou ajout d'un traitement). Elle dure souvent de 7 à 10 jours mais parfois plus (20% à 2 mois).
+: Le diagnostic est clinique: aggravation aiguë des symptômes respiratoires au-delà des variations quotidiennes justifiant une modification thérapeutique (augmentation des bronchodilatateurs > 24h ou ajout d'un traitement). Elle dure souvent 7-10 jours mais parfois plus (20% à 2 mois).
 : Critères: augmentation de la dyspnée, toux, volume/aspect des expectorations.
-: Définitions (GOLD 2021)
+: Définitions (*GOLD 2021*)
     - **Exacerbations fréquentes: ≥ 2 exacerbations/an**  
     1<sup>er</sup> facteur prédictif de survenue d'EABPCO
     - **Exacerbation légère**: résolutive en majorant les {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}
@@ -90,8 +90,7 @@ Insuffisance respiratoire chronique
 **RR:** réhabilitation respiratoire (ou *réadaptation respiratoire*)  
 **VEMS:** volume expiré maximal à la première seconde ({{%lang%}}FEV1{{%/lang%}} en anglais)
 
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie de la BPCO
 
 3<sup>e</sup> cause mondiale de décès (*OMS*).  
 6% des dépenses de santé européennes.  
@@ -109,6 +108,7 @@ Coût annuel moyen respectif d'un patient avec BPCO légère et oxygénorequéra
 - 80% des cas dus au tabac
 - Méconnaissance: 22% des français ont déjà entendu parler de BPCO (*[SPF 2017](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)*)  
 Parmi lesquels seulement 1/3 cite le tabac comme cause.
+- Excès de corticothérapie inhalée: 70% des patients dont 35% chez GOLD A et B (*SPLF 2021*)
 
 {{% /collapse %}}
 {{%collapse "Dépistage de la BPCO" %}}
@@ -126,7 +126,7 @@ Silice, charbon, moisissures, gaz, vapeurs, fumées.
 - Expectoration fréquente
 - Dyspnée
 
-> Source *HAS 2019*
+> *HAS 2019*
 
 **NB.** L'utilisation d'un **mini-spiromètre au cabinet** est fortement encouragée par les différentes sociétés savantes. La mesure nécessite une confirmation pneumologique spécialisée.
 
@@ -142,7 +142,7 @@ Silice, charbon, moisissures, gaz, vapeurs, fumées.
 {{%info%}}
 La clinique est antagoniste de l'asthme (sauf tabagisme associé):
 
-Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme nécessitant un effort pour inspirer, une pression thoracique, un manque d’air ou un halètement, toux productive chronique (30% des patients), essoufflement nocturne avec sifflements rare, variabilité significative (> 400 mL) nycthémérale rare.
+Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme nécessitant un effort pour inspirer, une pression thoracique, un manque d’air ou un halètement, toux productive chronique (30%), essoufflement nocturne avec sifflements rare, variabilité significative (> 400 mL) nycthémérale rare.
 {{%/info%}}
 
 ### Interrogatoire
@@ -156,7 +156,7 @@ Asthme, allergie, atopie, sinusite, polypes du rhinopharynx, infections respirat
   - Dépression, anxiété, addictions, troubles cognitifs
   - [Ostéoporose]({{< relref "osteoporose.md" >}}) et amyotrophie
   - Obésité, [dénutrition]({{< relref "denutrition.md" >}} ), anémie et polyglobulie
-  - DDB, [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
+  - [Apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), dilatation des bronches
   - [RGO]({{< relref "reflux-gastro-oesophagien.md" >}})
 - Antécédents familiaux  
 Tabagisme, BPCO et maladies respiratoires.
@@ -185,11 +185,11 @@ Sibilants, tirage, cyanose.
 
 Autres causes de toux et dyspnée chronique d'origine thoracique:
 
-- Asthme (voir *Clinique*)
+- [Asthme]({{< relref "asthme.md" >}})
 - Cancer du poumon
 - [Tuberculose]({{< relref "tuberculose.md" >}})
 - Dilatation des bronches et emphysème pulmonaire
-- Insuffisance cardiaque chronique
+- [Insuffisance cardiaque chronique]({{< relref "insuffisance-cardiaque-chronique.md" >}} )
 - Pneumopathie interstitielle
 - Mucoviscidose
 - Idiopathique
@@ -216,7 +216,8 @@ Bilan systématique:
 
 Examen diagnostique de référence: VEMS/CV post-bronchodilatateur < 0,7.  
 Mesure également la {{< modal-btn modal-severite-bpco >}}sévérité de l'obstruction bronchique par le VEMS{{< /modal-btn >}} et le suivi de la capacité respiratoire.  
-Cotation CCAM: GLQP012, 40,28€.  
+Cotation CCAM: GLQP012 soit 40,28€.
+
 Les autres examens recherchent des complications.
 
 ### Gaz du sang
@@ -278,7 +279,7 @@ Formes: spray, poudre, brumisateur.
 
 #### Dyspnée persistante
 
-Objectivée par un {{< modal-btn modal-score-cat >}}CAT™ ≥ 10{{< /modal-btn >}} (GOLD 2021).
+Objectivée par un {{< modal-btn modal-score-cat >}}CAT™ ≥ 10{{< /modal-btn >}} (*GOLD 2021*).
 
 {{< modal-btn modal-ttt-laba >}}BALA{{< /modal-btn >}} systématique.  
 Préférer un {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} en antécédent d'exacerbation.
@@ -295,10 +296,10 @@ Dyspnée sous monothérapie toujours {{< modal-btn modal-score-mmrc >}}mMRC ≥ 
 Choix selon le profil clinique:
 
 - Dyspnée prédominante  
-{{< modal-btn modal-ttt-laba >}}BALA{{< /modal-btn >}} + {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-lama >}}associations BALA+LAMA{{< /modal-btn >}}.
+{{< modal-btn modal-ttt-laba >}}BALA{{< /modal-btn >}} + {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-lama >}}association BALA+LAMA{{< /modal-btn >}}.
 - Exacerbations récurrentes de composante asthmatique (variabilité, atopie)  
 {{< modal-btn modal-ttt-laba-csi >}}BALA + CSI{{< /modal-btn >}}.  
-Arrêt si pneumonie ou autres EI des corticoïdes et remplacement par bithérapie BALA + LAMA.
+Arrêt si pneumonie ou autres EI des corticoïdes et remplacement par {{< modal-btn modal-ttt-laba-lama >}}bithérapie BALA + LAMA{{< /modal-btn >}}.
 
 **NB.** Sur-risque de pneumonie avec les corticoïdes inhalés.
 
@@ -308,11 +309,10 @@ Triple association: {{< modal-btn modal-ttt-laba-lama-csi >}}BALA + LAMA + CSI{{
 Arrêt des corticoïdes si pneumonie ou autres effets indésirables.
 
 Seul le pneumologue peut prescrire une trithérapie ou des nébulisations.  
-Il est également le seul à décider du bénéfice des (ERS 2021):
+Il est également le seul à décider du bénéfice de prévention des exacerbations (*ERS 2021*, *SPLF 2021*):
 
-- mucolytiques (prévention des exacerbations par N-acétylcystéine 600 mg x 2/j, faible niveau de preuve)
-- macrolides (prévention des exacerbations par azithromycine 250 mg/j, faible niveau de preuve)
-- {{%class%}}roflumilast (Daxas®, non commercialisé en France){{%/class%}}
+- azithromycine 250-500 mg 3 jours par semaine
+- N-acétylcystéine 600 mg x 2/j
 
 {{%warning%}}
 Ne jamais utiliser:
@@ -325,6 +325,20 @@ Opiacés formellement contre-indiqués.
 
 {{%/warning%}}
 
+### Arrêt des corticoïdes inhalés
+
+Éléments de la balance bénéfice-risque des CSI: asthme, exacerbations fréquentes, pneumonies, éosinophilie.  
+Substitution envisagée par {{< modal-btn modal-ttt-laba-lama >}}bithérapie BALA + LAMA{{< /modal-btn >}}.
+
+{{%info%}}
+Envisager l'arrêt des corticoïdes inhalés en l'absence d'exacerbation modérée à sévère dans l'année (avec suivi rapproché si éosinophiles > 300/mm³), éosinophiles < 300/mm³, pneumonie (ou effet indésirable des CSI)  
+sauf si éosinophiles > 300/mm³ et exacerbations fréquentes en l'absence de pneumonie
+
+> *SPLF 2021*
+{{%/info%}}
+
+Éosinophilie: mesurée en état stable. Elle n'a aucun intérêt en exacerbations fréquentes.
+
 ### En savoir plus: autres traitements
 
 Traitements réservés au pneumologue (prescription et renouvellement).
@@ -333,7 +347,7 @@ Traitements réservés au pneumologue (prescription et renouvellement).
 
 ≥ 15 h/j en hypoxémie avec suivi au moins annuel.
 
-Envisager si (HAS 2019):
+Envisager si (*HAS 2019*):
 
 - {{< modal-btn modal-severite-bpco >}}Obstruction très sévère (voire sévère){{< /modal-btn >}}
 - Cyanose
@@ -349,6 +363,10 @@ Cible de repos: SpO<sub>2</sub> ≥ 90% (PaO<sub>2</sub> ≥ 60 mmHg).
 #### Ventilation mécanique ± Pression Positive Continue
 
 Relève exclusivement du spécialiste.
+
+#### Dyspnée réfractaire
+
+Opioïdes faible dose par le pneumologue (*SPLF 2021*).
 
 {{% /collapse %}}
 {{%collapse "Traitement - exacerbation de BPCO et Plan d'Action" %}}
@@ -387,7 +405,7 @@ SpO<sub>2</sub> < 90%, pouls > 110/min, respiration paradoxale, tirage, cyanose.
 - Anomalies radiologiques ou ECG
 - Comorbidités (cardiovasculaire ++)
 - Contexte social
-- Échec du traitement ambulatoire ou aggravation à 48-72h (SPLF 2017)
+- Échec du traitement ambulatoire ou aggravation à 48-72h (*SPLF 2017*)
 
 Joindre le courrier détaillé des traitements en cours, contexte social, derniers bilans, personne de confiance, directives anticipées.
 
@@ -396,8 +414,8 @@ Joindre le courrier détaillé des traitements en cours, contexte social, dernie
 - Gaz du sang si oxygénorequérant
 - Biologie selon comorbidités et examen  
   - Urémie, créatininémie, BNP, D-dimères
-  - Les CRP et PCT ne sont pas fiables pour étayer une surinfection (SPLF 2017)
-- ECG si FC > 100 ou < 60/min (SPLF 2017)
+  - Les CRP et PCT ne sont pas fiables pour étayer une surinfection (*SPLF 2017*)
+- ECG si FC > 100 ou < 60/min (*SPLF 2017*)
 - Radiographie thoracique en incertitude
 
 ### 5. Traitement de l'exacerbation de BPCO
@@ -456,7 +474,7 @@ SpO<sub>2</sub> < 90%, pouls > 110/min, respiration paradoxale, tirage, cyanose.
 - Anomalies radiologiques ou ECG
 - Comorbidités (cardiovasculaires ++)
 - Contexte social
-- Échec du traitement ambulatoire ou aggravation à 48-72h (SPLF 2017)
+- Échec du traitement ambulatoire ou aggravation à 48-72h (*SPLF 2017*)
 
 ### Sortie d'hospitalisation après une exacerbation de BPCO
 
@@ -465,7 +483,7 @@ SpO<sub>2</sub> < 90%, pouls > 110/min, respiration paradoxale, tirage, cyanose.
 - Programme de [retour à domicile Prado](https://www.ameli.fr/medecin/exercice-liberal/services-patients/prado#text_19402)
 L'inclusion est réalisée par l'hôpital.
 - Consultation du médecin traitant dans la semaine, puis 1 mois, 3 mois, 6 mois et 1 an
-- Contrôle de la technique d'inhalation et du traitement par BDLA ({{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-lama >}}association{{< /modal-btn >}})
+- Contrôle de la technique d'inhalation et du traitement par BDLA ({{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-lama >}}association LABA + LAMA{{< /modal-btn >}})
 - Consultation du pneumologue dans le mois (voire 2 mois)  
 {{%class%}}Avec EFR et gaz du sang.{{%/class%}}
 - Réhabilitation respiratoire dans les 2 à 4 semaines  
@@ -474,7 +492,7 @@ L'inclusion est réalisée par l'hôpital.
 - Suivi infirmier à domicile
 - Contrôler le PPS
 - Poursuivre les traitements de l'état stable
-- Recherche et correction d'une [carence en vitamine D]({{< relref "vitamine-d.md" >}}) (GOLD 2021)
+- Recherche et correction d'une [carence en vitamine D]({{< relref "vitamine-d.md" >}}) (*GOLD 2021*)
 
 {{% /collapse %}}
 {{%collapse "Surveillance" %}}

@@ -8,7 +8,7 @@
     "css:compile": "node-sass --output-style expanded --precision 6 assets/sass/_material-custom.scss assets/css/material.css",
     "css:purge": "hugo && purgecss --css assets/css/material.css --content public/**/*.html --output assets/css/material-purge.css --safelist p-2 close collapse collapsing modal fade modal-open modal-backdrop modal-scrollbar-measure nav-tabs-material nav-tabs-indicator animate show active tooltip tooltip-inner irs irs--material irs-line irs-min irs-max irs-from irs-to irs-single irs-grid irs-bar irs-bar--single irs-handle single state_hover irs-hidden-input",
     "favicon": "real-favicon generate ./build/faviconDescription.json ./build/faviconData.json ./favicons",
-    "html:lint": "npm run build && htmllint --rc build/.htmllintrc \"public/**/*.html\"",
+    "html:lint-htmllint": "npm run build && htmllint --rc build/.htmllintrc \"public/**/*.html\"",
     "html:lint-vnu": "npm run build && node build/vnu-jar.js",
     "html:lint-validate": "npm run build && npm exec html-validate \"public/**/*.html\"",
     "hugo:debug": "hugo --cleanDestinationDir --minify --debug --logFile ./hugo.log --verboseLog",
