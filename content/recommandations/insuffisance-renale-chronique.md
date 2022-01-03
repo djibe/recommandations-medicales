@@ -51,7 +51,7 @@ Insuffisance rénale chronique terminale (IRCT)
 
 ### Abréviations
 
-**CKD-EPI:** {{%lang%}}Chronic Kidney Disease EPIdemiology collaboration (*Levey 2009*){{%/lang%}}, formule d'estimation simplifiée la plus précise en 2021  
+**CKD-EPI:** {{%lang%}}Chronic Kidney Disease EPIdemiology collaboration (*Levey 2009*){{%/lang%}}, formule d'estimation simplifiée la plus précise  
 **DFGe:** débit de filtration glomérulaire estimé  
 **HTA:** hypertension artérielle  
 **IRC:** insuffisance rénale chronique  

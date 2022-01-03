@@ -55,7 +55,7 @@ const chartOptions = {
       }
   },
   chart: {},
-  title: { text: 'Taux de participation au dépistage des cancers en 2021' },
+  title: { text: 'Taux de participation au dépistage des cancers en 2022' },
   xaxis: {
     categories: ['Col de l\'utérus', 'Sein', 'Côlon-rectum'],
   },

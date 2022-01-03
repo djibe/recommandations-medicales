@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-25T11:57:30+01:00"
 publishdate = "2021-11-25"
-lastmod = "2021-11-25"
+lastmod = "2022-01-03"
 specialites = ["social"]
-annees = "2021"
+annees = "2022"
 sources = ["Service Public"]
 tags = []
 anglais = []
@@ -72,13 +72,13 @@ L’APA est versé à la personne ou directement au prestataire.
 
 ### Montants de l'APA
 
-{{< table title="Montants de l'APA en 2021. Dr JB Fron d'après Service-Public" class="table-wrap">}}
+{{< table title="Montants de l'APA en 2022. Dr JB Fron d'après Service-Public" class="table-wrap">}}
 | Situation         | Perte d'autonomie | Prestation (€/mois) |
 |-------------------|-------------------|--------------------:|
-| Personne confinée lit/fauteuil avec perte autonomie totale nécessitant des intervenants en continu | GIR 1 | 1747,58 |
-| Confinement lit/fauteuil mais certaines fonctions mentales conservées, nécessite aide pour plupart des activités courantes | GIR 2 | 1403,24 |
-| Autonomie mentale conservée, motrice partielle, aides tous les jours plusieurs fois pour autonomie corporelle | GIR 3 | 1013,89 |
-| Aide pour transferts mais autonome pour déplacement une fois levé, ou aide pour aide corporelle ou repas sans difficultés pour se déplacer | GIR 4 | 676,30 |
+| Personne confinée lit/fauteuil avec perte autonomie totale nécessitant des intervenants en continu | GIR 1 | 1749,31 |
+| Confinement lit/fauteuil mais certaines fonctions mentales conservées, nécessite aide pour plupart des activités courantes | GIR 2 | 1404,63 |
+| Autonomie mentale conservée, motrice partielle, aides tous les jours plusieurs fois pour autonomie corporelle | GIR 3 | 1014,90 |
+| Aide pour transferts mais autonome pour déplacement une fois levé, ou aide pour aide corporelle ou repas sans difficultés pour se déplacer | GIR 4 | 676,97 |
 {{< /table >}}
 
 {{% /collapse %}}
@@ -107,7 +107,7 @@ La prestation est accordée pour 5 ans, automatiquement renouvelable.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Service-Public. Allocation personnalisée d'autonomie (Apa). 01/10/2021.](https://www.service-public.fr/particuliers/vosdroits/F10009)
+- [Service-Public. Allocation personnalisée d'autonomie (Apa). 01/01/2022.](https://www.service-public.fr/particuliers/vosdroits/F10009)
 - 60 Millions de consommateurs n°520. Novembre 2016.
 - DGCCRF. Contrôle de l’information des consommateurs sur les prix des produits et services d’aide à l’autonomie. 28 octobre 2016.
 - Fizzala A. Autonomix, un outil d’évaluation de mesures portant sur les personnes âgées dépendantes. DREES Économie et statistique n°481-482. 2015.

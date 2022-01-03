@@ -120,7 +120,7 @@ Ces moyens efficaces sont **gratuits jusqu'à 25 ans** (sauf patch et anneau qui
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Nécessité d'une consultation dédiée pour la primo-prescription.
+Nécessité d'une consultation dédiée pour la primo-prescription puis annuelle.
 
 ### Interrogatoire
 
@@ -151,7 +151,8 @@ IDM/AVC chez homme < 55 ans ou femme < 65 ans, MVTE (TVP, EP) < 50 ans ou épiso
 - Poids, taille, IMC
 - Pression artérielle
 - Examen des seins
-- Frottis après 25 ans
+- Examen gynécologique
+- Frottis selon le rythme classique à partir de 25 ans
 - Recherche [Chlamydia]({{< relref "chlamydia-trachomatis.md" >}}) chez 15-25 ans ou partenaires multiples
 
 ### Examens complémentaires
@@ -175,9 +176,11 @@ Dépistage des IST si à risque (notamment [Ct]({{< relref "chlamydia-trachomati
 {{% /collapse %}}
 {{%collapse "Cotation des actes" %}}
 
+- Première consultation contraception  
+CCP (46€, une seule fois) avec TP AMO.
 - Stérilet
-  - Pose JKLD001 (38,40 €)
-  - Ablation non cotée sauf remplacement du stérilet JKKD001 (38,40 €)
+  - Pose: JKLD001 (38,40 €)
+  - Ablation non cotée sauf remplacement du stérilet: JKKD001 (38,40 €)
 
 {{% /collapse %}}
 {{%collapse "Précisions sur les classes disponibles" %}}
@@ -394,7 +397,9 @@ BRCA1/2 et Syndrome de Lynch: Toute contraception peut être proposée.
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-[Santé BD: La contraception, c'est quoi ?](https://santebd.org/les-fiches-santebd/sexualite-contraception/vie-affective-et-sexuelle-la-contraception-la-contraception-cest-quoi) et [Santé BD: Les moyens de contraception ?](https://santebd.org/les-fiches-santebd/sexualite-contraception/vie-affective-et-sexuelle-la-contraception-les-moyens-de-contraception)
+- [Inpes. Choisir sa contraception](https://www.ameli.fr/sites/default/files/Documents/4021/document/choisir-contraception_inpes.pdf)
+- [Santé BD: La contraception, c'est quoi ?](https://santebd.org/les-fiches-santebd/sexualite-contraception/vie-affective-et-sexuelle-la-contraception-la-contraception-cest-quoi)
+- [Santé BD: Les moyens de contraception](https://santebd.org/les-fiches-santebd/sexualite-contraception/vie-affective-et-sexuelle-la-contraception-les-moyens-de-contraception)
 
 - Différence efficacité théorique-pratique: importance de l'observance
 - Éviter l'automédication avec un traitement hormonal  

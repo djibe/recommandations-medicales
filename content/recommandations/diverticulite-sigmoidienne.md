@@ -157,7 +157,7 @@ Intérêt d'une **coloscopie** avant la chirurgie, surtout si > 50 ans ou risque
 {{% /collapse %}}
 {{% collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de diverticulite sigmoïdienne. Dr JB FRON d'après HAS 2017 et 2021" >}}
+{{< mermaid title="Conduite à tenir devant une suspicion de diverticulite sigmoïdienne. Dr JB Fron d'après HAS 2017 et 2021" >}}
 graph TB
   diverticulite[Suspicion de diverticulite]
   style diverticulite stroke:#4150f5, stroke-width: 1px

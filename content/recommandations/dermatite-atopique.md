@@ -6,7 +6,7 @@ synonyms = ["Eczéma atopique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-02T17:43:41+02:00
 publishdate = 2021-11-29
-lastmod = 2021-11-29
+lastmod = 2022-01-03
 specialites = ["dermatologie"]
 annees = "2017"
 sources = ["SFDermato", "CEDEF"]
@@ -17,7 +17,7 @@ flowchart = true
 image = true
 imageSrc = "Photo de Care_SMC sur Foter.com / CC BY-ND"
 draft = false
-todo = "Impétiginisation"
+todo = "préparations CHRU, Impétiginisation"
 +++
 
 {{%article-summary%}}
@@ -40,8 +40,8 @@ Comorbidités chez l’adulte: cardiovasculaires (HTA, AVC, IDM), rénales, diab
 : Pas de seuil pour définir une *dermatite atopique sévère*, mais évaluée sur le nombre et la gravité des poussées, le retentissement psychologique, la qualité de vie.
 
 Atopie
-: Atopie
 : Prédisposition d’origine génétique à produire des anticorps d’isotype IgE lors de l’exposition à des allergènes environnementaux. (*CEDEF 2017*)
+: Famille composée par l'asthme, la rhinite allergique, les allergies alimentaires (évoquer devant régurgitations, diarrhées, eczéma).
 
 ### Diagnostic différentiel
 
@@ -50,12 +50,8 @@ Autres pathologies eczématiformes:
 - Nourrisson: [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}}), [gale]({{< relref "gale.md" >}})
 - Autres population: dermite/eczéma de contact, psoriasis, lymphome cutané, gale
 
-### Comorbidités et complications de la dermatite atopique
+### Complications de la dermatite atopique
 
-- Allergie alimentaire  
-Évoquer devant: régurgitations, diarrhées, eczéma.
-- Atopie  
-Asthme, rhinite allergique, allergie alimentaire.
 - Syndrome de Kaposi-Juliusberg  
 Évoquer devant la modification rapide de l'aspect des lésions et/ou présence de vésico-pustules ombiliquées avec AEG/fièvre. Traitement en urgence.
 - Impétiginisation  
@@ -93,7 +89,7 @@ ou troubles du sommeil chez le nourrisson
 
 Le diagnostic est clinique:
 
-- Dermatose vésiculeuse prurigineuse récidivante avec atteinte privilégiée des plis de flexion (UK Working Party)  
+- Dermatose vésiculeuse prurigineuse récidivante avec atteinte privilégiée des plis de flexion (*UK Working Party*)  
 Vésicules rarement visibles remplacées par *suintement* et *croûtes*.
 - Les lésions sont aiguës, mal limitées, érythémateuses, suintantes puis croûteuses
 - Lichénification si grattage
@@ -103,8 +99,7 @@ Allergie alimentaire, asthme du nourrisson, antécédents familiaux atopiques (a
 - Débutant dès le bas âge
 - Évolution par poussées avec intervalles libres (xérose persistante)
 - Respect la région médio-faciale (nez ++)
-- signe de Dennie-Morgan  
-Double pli sous-palpébral.
+- Signe de Dennie-Morgan: double pli sous-palpébral
 - Facteurs favorisants  
 Irritants: savon, détergents, tissus rêches, chaleur, sueur, air sec.
 
@@ -114,8 +109,9 @@ Irritants: savon, détergents, tissus rêches, chaleur, sueur, air sec.
 
 #### Premières semaines de vie
 
-Atteinte symétrique prédominant sur les convexités du visage (joues, front, menton) et des faces externes des membres avec xérose cutanée, prurit constant après 3 mois ± troubles du sommeil.  
-Siège généralement épargné, parfois sur le cuir chevelu: squames et croûtes jaunâtres (à différencier des << croûtes de lait >> d'une dermatite séborrhéiques).
+Atteinte symétrique prédominant sur les convexités du visage (joues, front, menton) et des faces externes des membres avec xérose cutanée, prurit constant après 3 mois ± troubles du sommeil.
+
+Siège généralement épargné, parfois sur le cuir chevelu: squames et croûtes jaunâtres (à différencier des << croûtes de lait >> d'une [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})).
 
 #### Enfant après 2 ans
 
@@ -157,17 +153,15 @@ Le traitement est symptomatique avec lutte contre la xérose cutanée en dehors 
 
 ### Émollients
 
-Application 1-2/j au long cours (2-4/j en temps froid et sec):
+Application 1 à 2 fois/j au long cours (doubler en temps froid et sec):
 
 - Niveau 1  
 [Glycérol/Vaseline/Paraffine 15%/8%/2% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62395668&typedoc=R).
 - Niveau 2: préparation*  
-Glycérolé d’amidon 35 g + Cold Cream Fluide 300 mL x 1/j sur tout le corps (*CHRU Lille*)
+Glycérolé d’amidon 35 g + Cold Cream Fluide 300 mL sur tout le corps (*CHRU Lille*)
 - Niveau 3: Cérat de Galien ou préparation*:  
 Cire blanche 26 g + Huile de paraffine 107 g + Eau stérile 66 g + Borate de sodium 1 g (*CHRU Lille*)
 - Niveau 4  
-Glycérolé d'amidon 20 g + Cold Cream QSP 200 g
-- Niveau 5  
 Blanc de baleine synthétique 11,75 g + Cire blanche d'abeille 13,5 g + Huile paraffine 63,25 g (*CHRU Lille*)
 - Nourrisson: 150-200 g/sem
 
@@ -238,13 +232,13 @@ Traiter dès le début de la poussée:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de dermatite atopique. Dr JB FRON d'après SFD 2005 et CEDEF 2017" >}}
+{{< mermaid title="Conduite à tenir devant une suspicion de dermatite atopique. Dr JB Fron d'après SFD 2005 et CEDEF 2017" >}}
 graph TB
   suspicion[Suspicion de dermatite atopique]
   style suspicion stroke:#4150f5, stroke-width:1px
-    suspicion --> criteres("<b>Critères diagnostiques</b><hr>- Prurit et &le; 3 parmi:<br>- Début &lt; 2 ans<br>- Lésions des convexités<br>- Antécédent personnel d'asthme/rhinite allergique<br>- Xérose généralisée<br>- Lésions d'eczéma des plis (enfant)") --> diagnostic[Dermatite atopique]
+    suspicion --> criteres("<b>Critères diagnostiques</b><hr>- Prurit et &ge; 3 parmi:<br>- Début &lt; 2 ans<br>- Lésions des convexités<br>- Antécédent personnel d'asthme/rhinite allergique<br>- Xérose généralisée<br>- Lésions d'eczéma des plis (enfant)") --> diagnostic[Dermatite atopique]
     style diagnostic stroke:#4150f5, stroke-width:1px
-      diagnostic --> fond("- Émollients 1-2/j<br>- Éviter les facteurs favorisants<br>- Arrêt tabac<br>- Lutte idées reçues<br>- Suivi clinique et croissance<br>- Soutien psychologique")
+      diagnostic --> fond("- Émollients 1-2/j<br>- Éviter les facteurs favorisants<br>- Arrêt tabac<br>- Suivi clinique et croissance<br>- Soutien psychologique")
         fond -- Poussée --> dc("- Dermocorticoïdes<br>- Augmenter les émollients")
           dc -. Échec .-> echecs("- Résistance au traitement<br>- DA sévère")
             echecs --> spe("- Suivi spécialisé<br>- Bilan allergologique<br>- École de l'atopie")

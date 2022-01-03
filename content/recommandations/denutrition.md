@@ -305,7 +305,7 @@ Réévaluation à chaque consultation, au moins mensuelle (trimestrielle mois ch
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une dénutrition" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une personne à risque de dénutrition. Dr JB FRON d'après HAS/FFN 2021" >}}
+{{< mermaid title="Conduite à tenir devant une personne à risque de dénutrition. Dr JB Fron d'après HAS/FFN 2021" >}}
 graph TB
   fdr["<b>Personne à risque de dénutrition</b><hr>- &ge; 70 ans (dépistage annuel)<br>- Cancer<br>- Maladie inflammatoire<br>- Escarre<br>- Démence, dégénératif<br>- Troubles de déglutition et bucco-dentaires<br>- Toxicomanie<br>- Régime"]
   style fdr stroke:#4150f5, stroke-width:1px

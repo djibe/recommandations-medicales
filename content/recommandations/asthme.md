@@ -24,14 +24,15 @@ todo = "Applis Effic'Asthme, doses Symbicort turbuhaler, GINA 2021 p21, CSI + AR
 - Bannir le terme de << bronchite asthmatiforme >>, il s'agit d'une maladie chronique
 - Éviction du tabac
 - Diagnostic de certitude par symptômes évocateurs répétés et EFR concluantes
-- Maîtrise de l'asthme: {{< modal-btn modal-score-act >}}questionnaire *ACT™*{{< /modal-btn >}} à chaque consultation et appli [Asthm'Activ](https://play.google.com/store/apps/details?id=com.sophia.asthme)
+- Maîtrise de l'asthme: {{< modal-btn modal-score-act >}}questionnaire *ACT™*{{< /modal-btn >}} à chaque consultation et appli [Asthm'Activ](https://play.google.com/store/apps/details?id=com.sophia.asthme), [Effic'Asthme](https://play.google.com/store/apps/details?id=fr.parisdescartes.efficasthme&hl=fr&gl=US)
 - Le DEP est toujours répété 3 fois de suite
 - EFR 1-3 fois par an
-- Jamais de {{< modal-btn modal-ttt-baca >}}*BACA*{{< /modal-btn >}} seuls (bronchodilatateurs de courte durée d'action)
 - 80% ne savent pas utiliser l'inhalateur (*GINA 2019*)
 - Le plan d'action doit être écrit
+- Jamais de {{< modal-btn modal-ttt-baca >}}bronchodilatateurs de courte durée{{< /modal-btn >}} seuls
 - Traitements d'entretien de l'asthme: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous. Ou en asthme parfaitement contrôlé sans traitement {{< modal-btn modal-ttt-bala-csi >}}formotérol + budésonide{{< /modal-btn >}} en cas de symptômes
 - Traitement de secours de l'asthme: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-bala-csi >}}formotérol + budésonide{{< /modal-btn >}}
+- Décroissance: par paliers de 25-50% si parfaitement contrôlé 2-3 mois jusqu'à {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} voire {{< modal-btn modal-ttt-bala-csi >}}formotérol + budésonide{{< /modal-btn >}} en cas de symptômes
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

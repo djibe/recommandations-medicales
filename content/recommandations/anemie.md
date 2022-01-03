@@ -181,7 +181,7 @@ Une anémie par carence martiale pendant la **grossesse** dispense du bilan éti
 
 Surveillance de la remontée de l'hémoglobine à 1 mois, mensuelle jusqu'à correction de l'anémie, trimestrielle pendant 1 an puis semestrielle pendant 2-3 ans.
 
-{{< table title="Fers fumarate, gluconate et sulfate disponibles en France en 2021. Dr JB Fron d'après BDPM" >}}
+{{< table title="Fers fumarate, gluconate et sulfate disponibles en France en 2022. Dr JB Fron d'après BDPM" >}}
 | Spécialité             | Famille  | Fer élément (mg) |
 |------------------------|----------|-----------------:|
 | Fumafer 66 mg cp       | Fumarate | 66               |
