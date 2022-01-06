@@ -6,29 +6,33 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2022-01-02"
+lastmod = "2022-01-06"
 specialites = ["gynecologie-obstetrique"]
-annees = "2018"
+annees = "2019"
 sources = ["CNGOF", "HAS"]
-tags = ["MVTE"]
+tags = ["contraception", "MVTE"]
 anglais = ["Contraception"]
 sctid = "13197004"
 draft = false
 image = true
 imageSrc = "La contraception illustrée par stories / Freepik"
-todo = "fiche patiente, https://www.has-sante.fr/jcms/p_3261764/fr/contraception, https://ansm.sante.fr/actualites/contraception-ou-en-sommes-nous, https://www.has-sante.fr/jcms/p_3122291/fr/contraception-consultations-initiale-et-de-suivi, stérilisation, nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, 5% dev HTA sous COP ESC 2018, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, barrière, contraception et HTA ESC 2018, 360medics, inducteur enz p9, cat vmts et diarrhes p9, contraception définitive"
+todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, 5% dev HTA sous COP ESC 2018, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, barrière, contraception et HTA ESC 2018, 360medics, inducteur enz p9, cat vmts et diarrhes p9, contraception définitive"
 +++
 
 {{%article-summary%}}
 
-- *Rédaction du chapitre en cours*
 - Contraception gratuite jusqu'à 25 ans
+- Seul le préservatif est efficace contre les [IST](/tags/ist/)
+- [QuestionSexualité_ - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)
+- Contraceptions très efficaces de <sup>1</sup>re intention: COP, DIU, implant
 - Informations sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-On parle de COP (contraception œstroprogestative, la *HAS* dit contraceptifs oraux estroprogestatifs COEP).
+Contraception
+: Ensemble des moyens visant à éviter une grossesse.
+: Elle peut être COP (contraception œstroprogestative), progestative, par dispositif intra-utérin, par mesures barrières ou naturelles.
 
 Le défaut d'observance est l'une des causes principales des grossesses non planifiées.
 
@@ -38,22 +42,22 @@ Le défaut d'observance est l'une des causes principales des grossesses non plan
 **COP:** contraception œstroprogestative  
 **DMPA:** produits contraceptifs injectables à base d'acétate de médroxyprogestérone dépôt  
 **EE:** éthinyl-estradiol  
-**EP:** embolie pulmonaire  
+**EP:** [embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})  
 **FRCV:** facteur de risque cardiovasculaire  
 **GEU:** grossesse extra-utérine  
 **LNG:** lévonorgestrel  
-**MVTE:** maladie veineuse thromboembolique  
-**TVP:** thrombose veineuse profonde
+**MVTE:** [maladie veineuse thromboembolique](tags/mvte/)  
+**TVP:** [thrombose veineuse profonde]({{< relref "thrombose-veineuse-profonde.md" >}})
 
 {{% /collapse %}}
-{{%collapse "Contre-indications aux œstroprogestatifs" %}}
+{{%collapse "Contre-indications aux œstroprogestatifs et progestatifs" %}}
 
 Les œstroprogestatifs augmentent le risque de [MVTE](/tags/mvte/) x3-6 (plus important la 1<sup>re</sup> année).  
 Seuls les COP contenant ≥ 50 µg d'EE sont associées au risque d'accident artériel, sauf FRCV associé (dose-dépendant avec tabac ≥ 15 cig/j).
 
 {{%info%}}
 
-### Contre-indication formelle aux œstrogènes
+### Contre-indications formelles aux œstrogènes
 
 - Antécédent familial au 1<sup>er</sup> degré
   - IDM/AVC chez homme < 55 ans ou femme < 65 ans
@@ -85,6 +89,13 @@ Possibles seulement si 1 seul facteur de risque cardiovasculaire isolé parmi:
 
 La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas les risques veineux et artériels (sauf acétate de médroxyprogestérone intramusculaire). Elle est recommandée en cas de contre-indication figurant ci-dessus.
 
+### Contre-indications aux progestatifs
+
+- MVTE en cours
+- Saignements génitaux inexpliqués
+- Cancer du sein ou de l'utérus
+- Pathologie hépatique sévère
+
 {{% /collapse %}}
 {{%collapse "Spécialités" "show" %}}
 
@@ -96,7 +107,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 | 2G          | 30/40    | LNG 0,15-0,2     | Adepal, Pacilia |
 | 2G          | 30/40/30 | LNG 0,05-0,075-0,125 | Trinordiol, Daily, Evanecia |
 | 2G          | 30       | LNG 0,15         | gén, Ludeal, Milevoni 150, Minidril, Optidril 28j, Qiade |
-| 2G          | 20       | LNG 0,1          | Asterluna 21/28j, gén, Leeloo/continu, Lolistrel 21/28j, Lovavulo, Optilova 28j, Milevoni 100 |
+| 2G          | 20       | LNG 0,1          | Asterluna/continu, gén, Leeloo/continu, Lolistrel/continu, Lovavulo, Optilova 28j, Milevoni 100 |
 | 3G          | 35       | Norgestimate 0,25 | NR: Femi, Naravela, Optikinzy 28j |
 | 3G          | 35       | Norgestimate 0,18/215/25 | NR: Triafemi |
 | P2          | 0        | LNG 0,03         | Microval        |
@@ -109,18 +120,21 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 | Préservatif | 0        | 0                | Eden, Sortez couverts ! |
 {{< /table >}}
 
-> **EE** = éthinyl-estradiol ; **gén** = générique ; **LNG** = lévonorgestrel ; **NR** = non remboursé
+> **EE** = éthinyl-estradiol ; **gén** = générique ; **LNG** = lévonorgestrel ; **NR** = non remboursé. Les pilules de 1<sup>re</sup> génération ne sont plus disponibles en France.  
+Ne sont pas listées: les 3<sup>e</sup>et 4<sup>e</sup> générations ainsi que le DMPA qui augmentent le risque vasculaire. Autres: diaphragme, capes cervicales (NR), spermicides (NR), retrait, stérilisation, Ogino.
 
-Les générations de pilules œstroprogestatives correspondent à la date de mise sur le marché du progestatif (P3: desogestrel, gestodène et norgestimate). **Utiliser LNG et norgestimate en première intention**, les 3<sup>e</sup> et 4<sup>e</sup> doublant le risque de MVTE (*HAS 2013*).  
+Les générations de pilules œstroprogestatives correspondent à la date de mise sur le marché du progestatif (P3: desogestrel, gestodène et norgestimate; P4: drospirénone). **Utiliser LNG et norgestimate en première intention**, les 3<sup>e</sup> et 4<sup>e</sup> doublant le risque de MVTE (*HAS 2013*).  
 Pas d'arrêt brutal d'une contraception de 3-4<sup>e</sup> génération bien tolérée.
 
-Intérêt de présenter les contraceptions par *groupe d'efficacité* (plutôt que par nombre de grossesses): hormonale (pilule 1<sup>re</sup> et 2<sup>e</sup> génération, implant, patch, anneau vaginal), DIU, contraception d'urgence et stérilisation.  
+Intérêt de présenter les contraceptions par *[groupe d'efficacité](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)* (plutôt que par nombre de grossesses): hormonale (pilule 2<sup>e</sup> génération, progestative, implant), DIU, contraception d'urgence et stérilisation. Patch et anneau vaginal réservés en intolérance aux moyens déjà listés (sur-risque thrombo-embolique).
 Ces moyens efficaces sont **gratuits jusqu'à 25 ans** (sauf patch et anneau qui ont risque de MVTE augmenté, *[Service public](https://www.service-public.fr/particuliers/actualites/A15158)*).
+
+**NB.** Possibilité de faire renouveler une fois le contraceptif oral pour 6 mois en présentation d'une ordonnance de moins d'un an.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Nécessité d'une consultation dédiée pour la primo-prescription puis annuelle.
+Nécessité d'une consultation dédiée pour la primo-prescription, renouvelée à 3 mois puis annuelle.
 
 ### Interrogatoire
 
@@ -151,25 +165,30 @@ IDM/AVC chez homme < 55 ans ou femme < 65 ans, MVTE (TVP, EP) < 50 ans ou épiso
 - Poids, taille, IMC
 - Pression artérielle
 - Examen des seins
-- Examen gynécologique
-- Frottis selon le rythme classique à partir de 25 ans
+- Examen gynécologique  
+N'est pas nécessaire pour la 1<sup>re</sup> consultation (sauf symptôme ou antécédent).
+- {{%modal-btn "modal-hyperandrogenie"%}}Signes d'hyperandrogénie{{%/modal-btn%}}
+- Frottis selon le rythme du dépistage à partir de 25 ans
 - Recherche [Chlamydia]({{< relref "chlamydia-trachomatis.md" >}}) chez 15-25 ans ou partenaires multiples
+
+Reconsulter si: effets indésirables, douleurs pelviennes, ménorragies.
 
 ### Examens complémentaires
 
-#### Contraception estroprogestative
+#### Contraception estroprogestative (COP)
 
 Bilan après 3-6 mois de contraception (avant et renouvelé en antécédent familial métabolique) puis **tous les 5 ans** en bilan normal:
 
 - Bilan lipidique
 - Glycémie à jeun
+- Antécédent au 1<sup>er</sup> degré avant 60 ans de MVTE: avis hématologique
 
 > *HAS 2019*
 
 #### DIU
 
-Pas de dépistage systématique des IST avant la pose.  
-Dépistage des IST si à risque (notamment [Ct]({{< relref "chlamydia-trachomatis.md" >}}) chez les 15-25 ans ou partenaires multiples non protégés).
+Pas de dépistage systématique des IST avant la pose sauf personne à risque.  
+Notamment [Ct]({{< relref "chlamydia-trachomatis.md" >}}) chez les 15-25 ans ou partenaires multiples non protégés.
 
 > *CNGOF 2018*
 
@@ -251,19 +270,80 @@ N'est pas un facteur d'infection pelvienne (sauf dans les 21j à 4 mois)
 
 ### Adolescente
 
-TODO:
+- Temps seule pour la confidentialité
+- Gratuité avant 25 ans
+- Préservatif associé pour la prévention des IST et vaccination HPV
+- DIU et implant possibles et très efficaces
+- COP: préférer avec 30 µg EE (risque d'oubli, minéralisation osseuse. Avis d'experts)
 
 ### Femme après 40 ans
 
-TODO:
+- Informer: risques de grossesse, vasculaire, métabolique
+- Privilégier DIU et microprogestatifs
+- Réévaluer une COP, arrêter Ogino
+- DIU cuivre posé après 40 ans (LNG après 45 ans): peut être laissé jusqu'à la [ménopause]({{< relref "menopause.md" >}})
+- Ménorragies ou dysménorrhées (explorées): DIU LNG préféré
+- Stérilisation intéressante
+
+#### Femme après 50 ans
+
+- Contraception non hormonale: poursuivre jusqu'à 12 mois d'aménorrhée
+- Contraception hormonale
+  - Arrêt de COP
+  - Dosages hormonaux inutiles. Remplacement par méthode barrière quelques mois et méthode non hormonale si persistance des cycles.
+
+### Post-partum (pp)
+
+Une contraception est nécessaire à partir de **J21** post-partum:
+
+- Estroprogestatifs
+  - Absence d'allaitement: utilisables à partir de **J42**  
+  J21 selon l'OMS en l'absence de facteur de risque de MVTE (obésité, tabagisme, prééclampsie, césarienne, antécédent de MVTE, thrombophilie, immobilisation, transfusion à l'accouchement, hémorragie du post-partum).
+  - Allaitement: non recommandé pendant 6 mois pp
+- Progestatifs  
+  Utilisables à partir de J21.
+- DIU
+  - Possible à partir de J28
+  - Après recherche d'IST si facteurs de risque
+- Méthode de l’allaitement maternel et de l’aménorrhée (*MAMA*) jusqu'à 6 mois  
+Risque de grossesse < 2% à 6 mois si:
+  - Allaitement exclusif jour et nuit 6-10/j
+  - Max 6h entre 2 tétées la nuit et 4h le jour
+  - Aménorrhée persistante
+
+**NB.** Sur-risque de MVTE jusqu'à 6 semaines après l'accouchement.
+
+{{% /collapse %}}
+{{%collapse "Méthodes naturelles et barrières" %}}
+
+### Méthodes naturelles
+
+Efficacité moindre par rapport aux méthodes très efficaces (DIU, hormonales).  
+Nécessitent une abstinence pendant la période fertile.
+
+Méthode MAMA: voir *Contraception selon le profil > Post-partum*
+
+<< La méthode du retrait n'est pas recommandée comme une méthode de contraception >> (*CNGOF 2018*)
+
+### Méthodes barrières
+
+Les préservatifs sont les seules barrières contre les IST. Informer sur la *Contraception d'urgence*.
+
+- Physique  
+Préservatif masculin/féminin, cape cervicale ou diaphragme.
+  - Cape/diaphragme doivent être laissés en place ≥ 6 heures après le rapport et combinés avec spermicides.
+- Chimique = spermicides  
+Efficacité seuls est faible.
+- Associées
 
 {{% /collapse %}}
 {{%collapse "Gestion des effets indésirables de la contraception" %}}
 
+[Métrorragies]({{< relref "contraception.md#métrorragies" >}}) - [Acné]({{< relref "contraception.md#acné" >}}) - [Libido]({{< relref "contraception.md#libido" >}}) - [Prise de poids]({{< relref "contraception.md#prise-de-poids" >}}) - [Céphalées]({{< relref "contraception.md#céphalées" >}}) - [Troubles de l'humeur]({{< relref "contraception.md#troubles-de-lhumeur" >}})
+
 ### Métrorragies
 
-Elles sont souvent liées  à une observance médiocre (sauf progestatifs récents), mais peuvent être liées également à une infection, une
-pathologie endométriale, une cause fonctionnelle.
+Le plus souvent par mauvaise observance (sauf progestatifs récents), mais il faut éliminer: infection, pathologie endométriale ou une cause fonctionnelle.
 
 Examens: examen gynécologique, échographie pelvienne, bactériologie des leucorrhées. Dosage de bhCG si suspicion de mauvaise observance ou de grossesse.
 
@@ -283,7 +363,7 @@ Proposer:
 - Changement de contraception
 - COP triphasique avec 35 µg d'EE et norgestimate: Triafemi (non remboursée)
 
-Si insuffisant: traitement de l'[acné]({{< relref "acne.md" >}}), avis dermatologique, autre progestatif anti-androgénique.
+Si insuffisant: traitement de l'[acné]({{< relref "acne.md" >}}), avis dermatologique.
 
 ### Libido
 
@@ -348,16 +428,17 @@ En traitement prolongé, utiliser une contraception non hormonale.
 {{% /collapse %}}
 {{%collapse "Contraception et cancer" %}}
 
-{{%info%}}Il n'est pas retrouvé d'augmentation de l'incidence ou de la mortalité par cancer (tout confondu) chez les utilisatrices de contraception (*CNGOF 2018*){{%/info%}}
+{{%info%}}Il n'est pas retrouvé d'augmentation de l'incidence ou de la mortalité par cancer (tous confondus) chez les utilisatrices de contraception (*CNGOF 2018*){{%/info%}}
 
 Utilisation de contraception œstroprogestative:
 
-- Augmentation de l'incidence
-  - Modérée du risque du cancer du sein en utilisation par COP, qui diminue après l'arrêt de la contraception hormonale
-- Diminution de l'incidence
-  - Cancer de l'endomètre, prolongée après l'arrêt
-  - Cancer de l'ovaire, prolongée après l'arrêt
-  - Hémopathies malignes, prolongée après l'arrêt
+- Augmentation de l'incidence  
+Modérée du risque du **cancer du sein** en utilisation par COP, qui diminue après l'arrêt de la contraception hormonale.
+- Diminution de l'incidence  
+  (\* prolongée après l'arrêt)
+  - Cancer de l'endomètre \*
+  - Cancer de l'ovaire \*
+  - Hémopathies malignes \*
   - Cancer colorectal
 
 DIU au LNG: réduction des cancers de l'endomètre et de l'ovaire.
@@ -397,9 +478,14 @@ BRCA1/2 et Syndrome de Lynch: Toute contraception peut être proposée.
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-- [Inpes. Choisir sa contraception](https://www.ameli.fr/sites/default/files/Documents/4021/document/choisir-contraception_inpes.pdf)
+{{< card-link title="QuestionSexualité_" url="https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception" subtitle=" Choisir sa contraception">}}
+
+- [Santé Publique France. Choisir sa contraception](https://www.santepubliquefrance.fr/content/download/403217/3318158)
 - [Santé BD: La contraception, c'est quoi ?](https://santebd.org/les-fiches-santebd/sexualite-contraception/vie-affective-et-sexuelle-la-contraception-la-contraception-cest-quoi)
 - [Santé BD: Les moyens de contraception](https://santebd.org/les-fiches-santebd/sexualite-contraception/vie-affective-et-sexuelle-la-contraception-les-moyens-de-contraception)
+- [Ameli. Comment bien choisir sa contraception ?](https://www.ameli.fr/assure/sante/themes/contraception/choisir-mode-contraception)
+
+{{< card-link title="Centres de planification ou d'éducation familiale" url="https://ivg.gouv.fr/les-centres-de-planification-ou-d-education-familiale.html">}}
 
 - Différence efficacité théorique-pratique: importance de l'observance
 - Éviter l'automédication avec un traitement hormonal  
@@ -408,29 +494,81 @@ Y compris phytothérapie, compléments alimentaires.
 - L'augmentation de la mortalité par cancer du sein est controversée
 
 {{% /collapse %}}
-{{%collapse "FMC gratuite" %}}
+{{%collapse "Pour en savoir plus" %}}
+
+### FMC gratuite
 
 {{< card-link title="Contraception - L'affaire de tous" url="https://www.pns-mooc.com/fr/mooc/7/presentation" subtitle="MOOC gratuit du CNGOF">}}
+
+### Bénéfices de la contraception
+
+#### Bénéfices de la contraception œstroprogestative
+
+Bénéfices similaires pour les différentes voies d'administration (orale, vaginale, transdermique).
+
+- Réduction des cancers
+  - Cancer de l'endomètre (RR 0,76)
+  - Cancer de l'ovaire (RR 0,73)
+  - Cancer du côlon (0,81)
+  - Hémopathies malignes
+- Améliorations des troubles du cycle menstruel
+  - Ménorragies
+  - Dysménorrhées
+  - Syndrome prémenstruel
+- Améliore les symptômes de l'endométriose
+- Réduction des pathologies bénignes des seins et utérus
+  - Fibrokystes du sein sans atypie
+  - Fibrodadénomes mammaires
+  - Myomes
+- Réduction de l'incident de la polyarthrite rhumatoïde (OR 0,84)
+- Acné  
+COP uniquement à visée contraceptive.
+
+#### Bénéfices de la contraception progestative
+
+- Endométriose (en 2<sup>e</sup> intention)
+- Dysménorrhée (implant, désogestrel)
+- Douleurs pelviennes chronique par congestion veineuse (implant)
+
+#### Bénéfices du DIU LNG
+
+- Ménorragies (traitement de référence et de prévention de l'anémie)
+- Dysménorrhée (après exploration)
+- Endométriose  
+En 1<sup>re</sup> intention en alternative à la COP et après chirurgie.
+
+#### Bénéfices du DIU cuivre
+
+- Cancer de l'endomètre
+- Cancer du col de l'utérus
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [HAS. Contraception : consultations initiale et de suivi. Mars 2020.](https://www.has-sante.fr/jcms/p_3122291/fr/contraception-consultations-initiale-et-de-suivi)
+- [HAS. Contraception chez la femme à risque cardiovasculaire. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1638478/fr/contraception-chez-la-femme-a-risque-cardiovasculaire)
+- [HAS. Contraception chez la femme en post-partum. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1369193/fr/contraception-chez-la-femme-en-post-partum)
 - [HAS. Contraception : prescriptions et conseils aux femmes. Recommander les bonnes pratiques. Juillet 2019. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-02/1e_maj_contraception_prescription-conseil-femmes-060215.pdf)
 - [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018. (PDF)](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2018%252FCNGOF_RPC_2018-CONTRACEPTION.pdf)
 - [HAS. Contraception : focus sur les méthodes efficaces. Actualités & Pratiques. Mai 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-05/contraception_focus_methodes_2013-05-22_18-09-35_548.pdf)
 
 ### À lire
 
-- [HAS. Contraception chez la femme en post-partum. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1369193/fr/contraception-chez-la-femme-en-post-partum)
-- [HAS. Contraception chez la femme à risque cardiovasculaire. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1638478/fr/contraception-chez-la-femme-a-risque-cardiovasculaire)
 - https://www.has-sante.fr/jcms/c_1720982/fr/contraception-hormonale-orale-dispensation-en-officine
 - https://www.has-sante.fr/jcms/c_1752432/fr/contraception-prescriptions-et-conseils-aux-femmes
 - https://www.has-sante.fr/jcms/c_1752765/fr/sterilisation-a-visee-contraceptive-chez-l-homme-et-chez-la-femme
 - https://www.has-sante.fr/jcms/c_1757909/fr/contraception-chez-l-homme
+- https://www.has-sante.fr/jcms/c_1757924/fr/efficacite-des-methodes-contraceptives
+- https://www.has-sante.fr/jcms/p_3261764/fr/contraception
 
 {{% /collapse %}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}
+{{% modal title="Signes d'hyperandrogénie"%}}
+
+{{< clinique/hyperandrogenie >}}
 
 {{% /modal %}}

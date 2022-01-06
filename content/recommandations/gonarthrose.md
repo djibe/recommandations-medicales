@@ -16,7 +16,7 @@ sctid = "239873007"
 draft = false
 image = true
 imageSrc = "Disparition de l'interligne des 3 compartiments avec ostéophytose. Sclérose sous-chondrale. Dr Ian Bickle publié sur Radiopaedia.org"
-todo = "https://radiopaedia.org/articles/osteoarthritis-of-the-knee?lang=gb"
+todo = "Recommandations 2021 pour la prise en charge non pharmacologique des malades atteints de gonarthrose"
 +++
 
 {{%article-summary%}}

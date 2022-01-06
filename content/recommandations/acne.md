@@ -107,7 +107,7 @@ Pas de bénéfices à modifier son alimentation.
 
 **Tous les traitements sont irritants, attention à l'application près des yeux et bouche.**
 
-{{% warning %}} Tous les rétinoïdes sont tératogènes, même en gel ou crème. {{% /warning %}}
+{{%warning%}} Tous les rétinoïdes sont tératogènes, même en gel ou crème. {{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'acné minime à modérée" %}}

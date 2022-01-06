@@ -15,7 +15,7 @@ anglais = ["Axial spondyloarthritis"]
 sctid = "723116002"
 draft = false
 flowchart = true
-todo = "def rhumatisme pso + MICI, foreach score modal, bilan pré-thérap antitnfa"
+todo = "def rhumatisme pso + MICI, bilan pré-thérap antitnfa, Société Française de Rhumatologie 2021 (Paris, 12-14 décembre 2021). Recommandations SFR."
 +++
 
 {{%article-summary%}}

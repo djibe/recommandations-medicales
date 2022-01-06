@@ -1,5 +1,5 @@
 +++
-title = "Article"
+title = "Cancer du pancréas"
 titleSeo = "In case of long title"
 prefix = "la "
 shortname = ""
@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-16T15:41:56+01:00"
 publishdate = "2021-12-16"
 lastmod = "2021-12-16"
-specialites = ["hepatto-gastro-enterogoloe"]
+specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
 sources = ["SNFGE"]
 tags = ["cancer"]

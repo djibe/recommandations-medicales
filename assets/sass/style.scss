@@ -6,6 +6,10 @@ body,
   min-height: 100vh;
 }
 
+[id] {
+  scroll-margin-top: 56px;
+}
+
 a {
   color: var(--primary);
 }
@@ -37,7 +41,7 @@ h1 {
 }
 
 h2 {
-  font-size: calc(1.325rem + .9vw);
+  font-size: calc(1.325rem + .5vw);
   font-weight: 400;
 }
 
@@ -56,16 +60,25 @@ h4 {
   }
 
   h2 {
-    font-size: 1.75rem;
+    font-size: 1.7rem;
     font-weight: 300;
   }
 
   h3 {
-    font-size: 1.75rem;
+    font-size: 1.7rem;
   }
 
   h4 {
     font-size: 1.5rem;
+  }
+
+  h5 {
+    font-size: 1.25rem;
+  }
+  
+  h6 {
+    font-size: 1rem;
+    font-weight: 500;
   }
 }
 
@@ -276,7 +289,7 @@ article {
     padding: 1.25rem 0;
 
     > button {
-      all: unset;
+      all: unset; // reset button styles
       background: calc(100% - 1rem) center no-repeat url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='24px' viewBox='0 0 24 24' width='24px' fill='%23545454'%3E%3Cpath d='M0 0h24v24H0z' fill='none'/%3E%3Cpath d='M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z'/%3E%3C/svg%3E");
       user-select: none;
       width: 100%;
@@ -287,12 +300,12 @@ article {
     }
   }
 
-  section h3 {
+  section > div > h3 {
     color: var(--primary);
   }
 
-  section h3,
-  section h4 {
+  section > div > h3,
+  section > div > h4 {
     margin-bottom: 12px;
     margin-top: 32px;
   }

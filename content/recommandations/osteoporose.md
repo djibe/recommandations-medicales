@@ -19,7 +19,7 @@ slider = true
 image = true
 imageWEBP = true
 imageSrc = "Illustration de l'ostéoporose par scientificanimations.com, CC BY-SA 4.0"
-todo = "https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, BDPM, pré-th alendronate, HAS 2005 chutes, prescription renforcement musculaire, dose THM prev osseuse"
+todo = "https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, BDPM, pré-th alendronate, HAS 2005 chutes, prescription renforcement musculaire, dose THM prev osseuse, relecture Thomas Funck-Brentano demandée"
 +++
 
 {{%article-summary%}}

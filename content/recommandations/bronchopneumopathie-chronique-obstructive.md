@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2022-01-03
+lastmod = 2022-01-05
 specialites = ["pneumologie"]
 annees = "2021"
 sources = ["ERS", "GOLD", "HAS", "SPLF"]
@@ -31,7 +31,7 @@ Principal facteur du déclin du VEMS.
 - Le VEMS est le facteur pronostique majeur de la {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
 - 4 piliers du traitement: arrêt du tabac, vaccination grippe + {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, activité physique et réhabilitation respiratoire
 - Bronchodilatateurs selon symptômes et exacerbations ({{< modal-btn modal-score-cat >}}évaluation CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}dyspnée mMRC{{< /modal-btn >}})
-- Bronchodilatateurs: {{< modal-btn modal-ttt-laba >}}BALA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-bdca >}}BDCA de secours{{< /modal-btn >}}. Escalade: {{< modal-btn modal-ttt-laba-lama >}}BALA + LAMA{{< /modal-btn >}} > {{< modal-btn modal-ttt-laba-csi >}}BALA + CSI{{< /modal-btn >}} > {{< modal-btn modal-ttt-laba-lama-csi >}}BALA + LAMA + CSI{{< /modal-btn >}}
+- Bronchodilatateurs: {{< modal-btn modal-ttt-laba >}}BALA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-bdca >}}BDCA de secours{{< /modal-btn >}}. Escalade: {{< modal-btn modal-ttt-laba-lama >}}BALA + LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-csi >}}BALA + CSI{{< /modal-btn >}} > {{< modal-btn modal-ttt-laba-lama-csi >}}BALA + LAMA + CSI{{< /modal-btn >}}
 - EFR de suivi annuelle
 - Prévention cardiovasculaire
 - Voir les [vidéos de formations sur les techniques d'inhalation]({{< relref "bronchopneumopathie-chronique-obstructive.md#fmc-gratuites" >}})
@@ -527,6 +527,7 @@ graph TB
             bdla -- "Dyspnée et exacerbations*" --> bitherapie
             bdla -- Exacerbations*+ --> csi(BALA + CSI)
               csi -. Effets indésirables .-> bitherapie
+      spirometrie -- Diagnostic différentiel --> differentiel("- Asthme<br>- Cancer du poumon<br>- Tuberculose<br>- DDB et emphysème<br>- Insuff. cardiaque<br>- Pneumopathie interstitielle<br>- Mucoviscidose<br>- Idiopathique")
 {{< /mermaid >}}
 
 > \* Exacerbation = ≥ 2 exacerbations modérées ou ≥ 1 sévère dans l'année  

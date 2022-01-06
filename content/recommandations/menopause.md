@@ -1,12 +1,13 @@
 +++
 title = "Ménopause et traitement hormonal de la ménopause"
+titleSeo = "Ménopause et THM"
 prefix = "la "
 shortname = "Ménopause"
 synonyms = ["Syndrome climatérique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
 publishdate = "2021-10-19"
-lastmod = "2021-11-09"
+lastmod = "2022-01-04"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF"]
@@ -17,7 +18,8 @@ chart = true
 draft = false
 image = false
 imageSrc = ""
-todo = "relecture gemvi-secretariat@gemvi.org, IOP HAS 2021"
+todo = "Chart J1-J31, relecture gemvi-secretariat@gemvi.org, IOP HAS 2021"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -356,106 +358,112 @@ L'absence d'efficacité doit faire rechercher des BVM atypiques (voir *Clinique*
 <script>
 const chartOptions = {
   series: [
-          {
-            name: 'Estrogène',
-            data: [
-              {
-                x: 'Combiné continu',
-                y: [new Date(Date.UTC(2021, 0, 1)).getTime(), new Date(Date.UTC(2021, 0, 31)).getTime()]
-              },
-              {
-                x: 'Combiné discontinu',
-                y: [new Date(Date.UTC(2021, 0, 1)).getTime(), new Date(Date.UTC(2021, 0, 25)).getTime()]
-              },
-              {
-                x: 'Séquentiel continu',
-                y: [new Date(Date.UTC(2021, 0, 1)).getTime(), new Date(Date.UTC(2021, 0, 31)).getTime()]
-              },
-              {
-                x: 'Séquentiel discontinu',
-                y: [new Date(Date.UTC(2021, 0, 1)).getTime(), new Date(Date.UTC(2021, 0, 25)).getTime()]
-              }
-            ]
-          },
-          {
-            name: 'Progestatif',
-            data: [
-              {
-                x: 'Combiné continu',
-                y: [
-                  new Date(Date.UTC(2021, 0, 1)).getTime(),
-                  new Date(Date.UTC(2021, 0, 31)).getTime()
-                ]
-              },
-              {
-                x: 'Combiné discontinu',
-                y: [
-                  new Date(Date.UTC(2021, 0, 1)).getTime(),
-                  new Date(Date.UTC(2021, 0, 25)).getTime()
-                ]
-              },
-              {
-                x: 'Séquentiel continu',
-                y: [
-                  new Date(Date.UTC(2021, 0, 11)).getTime(),
-                  new Date(Date.UTC(2021, 0, 25)).getTime()
-                ]
-              },
-              {
-                x: 'Séquentiel discontinu',
-                y: [
-                  new Date(Date.UTC(2021, 0, 11)).getTime(),
-                  new Date(Date.UTC(2021, 0, 25)).getTime()
-                ]
-              }
-            ]
-          },
-          {
-            name: 'Hémorragie',
-            data: [
-              {
-                x: 'Séquentiel continu',
-                y: [
-                  new Date(Date.UTC(2021, 0, 25)).getTime(),
-                  new Date(Date.UTC(2021, 0, 31)).getTime()
-                ]
-              },
-              {
-                x: 'Séquentiel discontinu',
-                y: [
-                  new Date(Date.UTC(2021, 0, 25)).getTime(),
-                  new Date(Date.UTC(2021, 0, 31)).getTime()
-                ]
-              }
-            ]
-          }
-        ],
-          chart: {
-          height: 350,
-          type: 'rangeBar'
-        },
-        plotOptions: {
-          bar: {
-            horizontal: true
-          }
-        },
-        xaxis: {
-          type: 'datetime',
-          min: new Date(Date.UTC(2021, 0, 1, 0)).getTime(),
-          max: new Date(Date.UTC(2021, 0, 31, 0)).getTime(),
-          labels: {
-            format: 'd',
-            datetimeFormatter: {
-              year: '',
-              month: '',
-              day: 'd',
-              hour: '',
-            }
-          },
-          title: {text: 'Jour'}
-        }
+  {
+    name: 'Estrogène',
+    data: [
+    {
+      x: 'Combiné continu',
+      y: [new Date(Date.UTC(2021, 0, 1)).getTime(), new Date(Date.UTC(2021, 0, 31)).getTime()]
+    },
+    {
+      x: 'Combiné discontinu',
+      y: [new Date(Date.UTC(2021, 0, 1)).getTime(), new Date(Date.UTC(2021, 0, 25)).getTime()]
+    },
+    {
+      x: 'Séquentiel continu',
+      y: [new Date(Date.UTC(2021, 0, 1)).getTime(), new Date(Date.UTC(2021, 0, 31)).getTime()]
+    },
+    {
+      x: 'Séquentiel discontinu',
+      y: [new Date(Date.UTC(2021, 0, 1)).getTime(), new Date(Date.UTC(2021, 0, 25)).getTime()]
+    }
+    ]
+  },
+  {
+    name: 'Progestatif',
+    data: [
+    {
+      x: 'Combiné continu',
+      y: [
+        new Date(Date.UTC(2021, 0, 1)).getTime(),
+        new Date(Date.UTC(2021, 0, 31)).getTime()
+      ]
+    },
+    {
+      x: 'Combiné discontinu',
+      y: [
+        new Date(Date.UTC(2021, 0, 1)).getTime(),
+        new Date(Date.UTC(2021, 0, 25)).getTime()
+      ]
+    },
+    {
+      x: 'Séquentiel continu',
+      y: [
+        new Date(Date.UTC(2021, 0, 11)).getTime(),
+        new Date(Date.UTC(2021, 0, 25)).getTime()
+      ]
+    },
+    {
+      x: 'Séquentiel discontinu',
+      y: [
+        new Date(Date.UTC(2021, 0, 11)).getTime(),
+        new Date(Date.UTC(2021, 0, 25)).getTime()
+      ]
+    }
+    ]
+  },
+  {
+    name: 'Hémorragie',
+    data: [
+    {
+      x: 'Séquentiel continu',
+      y: [
+        new Date(Date.UTC(2021, 0, 25)).getTime(),
+        new Date(Date.UTC(2021, 0, 31)).getTime()
+      ]
+    },
+    {
+      x: 'Séquentiel discontinu',
+      y: [
+        new Date(Date.UTC(2021, 0, 25)).getTime(),
+        new Date(Date.UTC(2021, 0, 31)).getTime()
+      ]
+    }
+    ]
+  }
+  ],
+  chart: {
+    height: 350,
+    type: 'rangeBar'
+  },
+  title: { text: 'Schémas d\'administration du THM' },
+  plotOptions: { bar: { horizontal: true } },
+  xaxis: {
+    type: 'datetime',
+    min: new Date(Date.UTC(2021, 0, 1, 0)).getTime(),
+    max: new Date(Date.UTC(2021, 0, 31, 0)).getTime(),
+    labels: {
+      format: 'd',
+      datetimeFormatter: {
+        year: '',
+        month: '',
+        day: 'd',
+        hour: '',
+      }
+    },
+    title: {text: 'Jour'}
+  }
 }
 </script>
+
+### Les schémas du THM
+
+- Schéma combiné sans hémorragie de privation
+  - Continu: estrogène + progestatif en continu
+  - Discontinu: estrogène + progestatif pendant 25 jours puis arrêt 1 semaine
+- Schéma séquentiel avec hémorragie de privation
+  - Continu: estrogène en continu + progestatif débuté de J11 à J13 et suspendu à J25. Hémorragie suit l'arrêt du progestatif.
+  - Discontinu: Estrogène pendant 25 jours puis arrêt 1 semaine + progestatif débuté de J11 à J13 et suspendu à J25 avec l'estrogène. Hémorragie suit l'arrêt du progestatif.
 
 {{% /collapse %}}
 {{%collapse "Spécialités disponibles pour le THM" "show" %}}
