@@ -8,7 +8,7 @@
 <script>
 document.addEventListener( 'DOMContentLoaded', event => {
   Apex = {
-    colors: ['#4150f5', '#ffa600', '#dc0fc3', '#ff6642', '#ff0581'],
+    colors: ['#4150f5', '#ffa600', '#af34dc', '#e800ba', '#ff0094', '#ff2b6e', '#ff5c4b', '#ff8329'],
     chart: {
       background: 'transparent',
       fontFamily: 'Roboto, sans-serif',
@@ -96,6 +96,10 @@ document.addEventListener( 'DOMContentLoaded', event => {
   const chart = new ApexCharts(document.getElementById('chart'), chartOptions)
   chart.render()
   
+  if (document.getElementById('chart2')) {
+    const chart2 = new ApexCharts(document.getElementById('chart2'), chartOptions2)
+    chart2.render()
+  }
 })
 </script>
 {{- end -}}

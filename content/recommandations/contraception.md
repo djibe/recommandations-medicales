@@ -14,6 +14,7 @@ tags = ["contraception", "MVTE"]
 anglais = ["Contraception"]
 sctid = "13197004"
 draft = false
+chart = true
 image = true
 imageSrc = "La contraception illustrée par stories / Freepik"
 todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, 5% dev HTA sous COP ESC 2018, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, barrière, contraception et HTA ESC 2018, 360medics, inducteur enz p9, cat vmts et diarrhes p9, contraception définitive"
@@ -24,7 +25,7 @@ todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult 
 - Contraception gratuite jusqu'à 25 ans
 - Seul le préservatif est efficace contre les [IST](/tags/ist/)
 - [QuestionSexualité_ - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)
-- Contraceptions très efficaces de <sup>1</sup>re intention: COP, DIU, implant
+- Contraceptions très efficaces de 1<sup>re</sup> intention: COP, DIU, implant
 - Informations sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
 
 {{%/article-summary%}}
@@ -195,6 +196,8 @@ Notamment [Ct]({{< relref "chlamydia-trachomatis.md" >}}) chez les 15-25 ans ou 
 {{% /collapse %}}
 {{%collapse "Cotation des actes" %}}
 
+*TODO: travail en cours*
+
 - Première consultation contraception  
 CCP (46€, une seule fois) avec TP AMO.
 - Stérilet
@@ -266,6 +269,29 @@ N'est pas un facteur d'infection pelvienne (sauf dans les 21j à 4 mois)
   - Ablation QZGA002 (41,80 €)
 
 {{% /collapse %}}
+{{%collapse "Méthodes naturelles et barrières" %}}
+
+### Méthodes naturelles
+
+Efficacité moindre par rapport aux méthodes très efficaces (DIU, hormonales).  
+Nécessitent une abstinence pendant la période fertile.
+
+Méthode MAMA: voir *Contraception selon le profil > Post-partum*
+
+<< La méthode du retrait n'est pas recommandée comme une méthode de contraception >> (*CNGOF 2018*)
+
+### Méthodes barrières
+
+Les préservatifs sont les seules barrières contre les IST. Informer sur la *Contraception d'urgence*.
+
+- Physique  
+Préservatif masculin/féminin, cape cervicale ou diaphragme.
+  - Cape/diaphragme doivent être laissés en place ≥ 6 heures après le rapport et combinés avec spermicides.
+- Chimique = spermicides  
+Efficacité seuls est faible.
+- Associées
+
+{{% /collapse %}}
 {{%collapse "Contraception selon le profil" %}}
 
 ### Adolescente
@@ -312,29 +338,6 @@ Risque de grossesse < 2% à 6 mois si:
   - Aménorrhée persistante
 
 **NB.** Sur-risque de MVTE jusqu'à 6 semaines après l'accouchement.
-
-{{% /collapse %}}
-{{%collapse "Méthodes naturelles et barrières" %}}
-
-### Méthodes naturelles
-
-Efficacité moindre par rapport aux méthodes très efficaces (DIU, hormonales).  
-Nécessitent une abstinence pendant la période fertile.
-
-Méthode MAMA: voir *Contraception selon le profil > Post-partum*
-
-<< La méthode du retrait n'est pas recommandée comme une méthode de contraception >> (*CNGOF 2018*)
-
-### Méthodes barrières
-
-Les préservatifs sont les seules barrières contre les IST. Informer sur la *Contraception d'urgence*.
-
-- Physique  
-Préservatif masculin/féminin, cape cervicale ou diaphragme.
-  - Cape/diaphragme doivent être laissés en place ≥ 6 heures après le rapport et combinés avec spermicides.
-- Chimique = spermicides  
-Efficacité seuls est faible.
-- Associées
 
 {{% /collapse %}}
 {{%collapse "Gestion des effets indésirables de la contraception" %}}
@@ -494,11 +497,11 @@ Y compris phytothérapie, compléments alimentaires.
 - L'augmentation de la mortalité par cancer du sein est controversée
 
 {{% /collapse %}}
-{{%collapse "Pour en savoir plus" %}}
+{{%collapse "Pour en savoir plus"%}}
 
 ### FMC gratuite
 
-{{< card-link title="Contraception - L'affaire de tous" url="https://www.pns-mooc.com/fr/mooc/7/presentation" subtitle="MOOC gratuit du CNGOF">}}
+{{< card-link title="Contraception - L'affaire de tous" url="https://www.pns-mooc.com/fr/mooc/7/presentation" subtitle="MOOC du CNGOF">}}
 
 ### Bénéfices de la contraception
 
@@ -541,6 +544,20 @@ En 1<sup>re</sup> intention en alternative à la COP et après chirurgie.
 
 - Cancer de l'endomètre
 - Cancer du col de l'utérus
+
+### Méthodes de contraception utilisées en France
+
+<div id="chart" class="border alert mt-5"></div>
+<script>
+const chartOptions = {
+  series: [36.5, 25.6, 15.5, 8, 4.6, 4.5, 4.3, 1],
+  chart: { height: 280, type: 'donut' },
+  title: { text: 'Contraceptions utilisées par les femmes en France' },
+  labels: ['Pilule', 'Stérilet', 'Préservatif', 'Aucune', 'Autres', 'Stérilisation', 'Implant', 'Patch/anneau']
+}
+</script>
+
+> Méthodes de contraception des françaises de 15 à 49 ans en 2016. Dr JB Fron d'après [Rahib D 2017](https://www.santepubliquefrance.fr/determinants-de-sante/sante-sexuelle/documents/enquetes-etudes/barometre-sante-2016-contraception-quatre-ans-apres-la-crise-de-la-pilule-les-evolutions-se-poursuivent)
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

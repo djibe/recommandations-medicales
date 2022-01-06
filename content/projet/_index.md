@@ -4,10 +4,9 @@ description = "Présentation du projet Recommandations Médicales développé po
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-06T09:56:35+02:00"
 publishdate = "2021-07-07"
-lastmod = "2021-09-04"
+lastmod = "2022-01-06"
 draft = false
 chart = true
-todo = "image"
 +++
 
 <div class="w-100 mb-5"><!-- illustration -->
@@ -486,7 +485,37 @@ const chartOptions = {
 }
 </script>
 
-{{< figure title="Proportion de personnes diabétiques traitées pharmacologiquement ayant bénéficié des examens de suivi recommandés, France entière, 2001, 2007 et 2013. Fosse-Edorh S. 2015" image="/images/photos/suivi-diabete.webp" height="380">}}
+<div id="chart2" class="border alert mt-5"></div>
+<script>
+const chartOptions2 = {
+  series: [{
+    name: '2001',
+    data: [30, 32, 43, 30, 72, 16, 66]
+  }, {
+    name: '2007',
+    data: [35, 33, 62, 38, 80, 26, 71]
+  }, {
+    name: '2013',
+    data: [35, 36, 62, 50, 84, 30, 74]
+  }],
+  theme: { monochrome: { enabled: true }},
+  fill: { opacity: 0.6 },
+  markers: { size: 2, hover: {
+        size: 5
+      } },
+  chart: { height: 480, type: 'radar' },
+  title: { text: 'Diabétiques ayant bénéficié des examens recommandés' },
+  xaxis: {
+    categories: ['Cs cardiologique ou ECG', 'Cs dentaire', 'Cs ophtalmo/2 ans', '3 HbA1c', 'Créatininémie', 'Microalbuminurie', 'Bilan lipidique'],
+    labels: {
+      style: { colors: ['#757575', '#757575', '#757575', '#757575', '#757575', '#757575', '#757575'] }
+    }
+  }
+}
+</script>
+
+> *≥ 1 examen réalisé dans l'année pour chaque item (3 pour l'HbA<sub>1c</sub>)*  
+Proportion de personnes diabétiques traitées pharmacologiquement ayant bénéficié des examens de suivi recommandés, France entière, 2001, 2007 et 2013. Dr JB Fron d'après *[Fosse-Edorh 2015](https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/documents/article/suivi-des-examens-recommandes-dans-la-surveillance-du-diabete-en-france-en-2013)* et *[Entred 2001-2003](https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/articles/etude-entred-2001-2003)*
 
 ### Un texte ne suffit pas
 

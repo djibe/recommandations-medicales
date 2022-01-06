@@ -7,7 +7,7 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
-lastmod = 2021-11-25
+lastmod = 2022-01-06
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["HCSP", "MinSante"]
@@ -23,6 +23,7 @@ imageSrc = "La Covid-19 par stories / Freepik"
 {{%article-summary%}}
 
 - Page servant uniquement à stocker quelques mémos
+- [Règles d'isolement du 3 janvier](https://www.ameli.fr/medecin/actualites/covid-19-les-regles-d-isolement-evoluent)
 - Rappel vaccinal à 3 mois (et 12-17 ans fragiles), décalé à 6 mois si infection Covid (*HAS 24/12, 25/11 et 19/11*)
 - Dire **la** CoViD-19 ([Académie française](http://www.academie-francaise.fr/le-covid-19-ou-la-covid-19))
 
