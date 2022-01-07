@@ -112,7 +112,7 @@ Atteintes possibles après une infection à Sars-Cov-2.
 - [Centres de vaccination](https://www.sante.fr/cf/centres-vaccination-covid.html)
 - [Trouver une dose d'ARNm](https://vitemadose.covidtracker.fr/)
 - [Imprimer son attestation de vaccination](https://attestation-vaccin.ameli.fr/)
-- [Demander la conversion d'un certificat de vaccination étranger en passe sanitaire français](https://www.demarches-simplifiees.fr/commencer/passe-sanitaire-francais-de-l-etranger)
+- [Demander la conversion d'un certificat de vaccination étranger en passe sanitaire français](https://www.sante.fr/obtenir-un-passe-sanitaire-en-cas-de-vaccination-letranger)
 
 {{% /collapse %}}
 {{%collapse "Certificats" %}}
