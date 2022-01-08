@@ -1,5 +1,6 @@
 +++
 title = "Thrombose veineuse superficielle"
+noindex = true
 prefix = "la "
 shortname = "TVS"
 synonyms = ["Phlébite superficielle", "paraphlébite"]

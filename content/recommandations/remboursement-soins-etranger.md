@@ -1,5 +1,6 @@
 +++
 title = "Remboursement de soins effectués à l'étranger"
+noindex = true
 titleSeo = "Remboursement de soins effectués à l'étranger"
 prefix = "le "
 shortname = ""

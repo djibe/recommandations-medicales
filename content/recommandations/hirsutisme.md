@@ -1,5 +1,6 @@
 +++
 title = "Hirsutisme"
+noindex = true
 prefix = "l'"
 shortname = "hirsutisme"
 synonyms = []

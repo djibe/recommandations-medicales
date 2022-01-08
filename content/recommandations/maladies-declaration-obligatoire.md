@@ -1,5 +1,6 @@
 +++
 title = "Maladies à déclaration obligatoire"
+noindex = true
 prefix = "les "
 shortname = "MDO"
 synonyms = []

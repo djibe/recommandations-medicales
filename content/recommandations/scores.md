@@ -1,8 +1,8 @@
 +++
 title = "Scores et outils cliniques"
+noindex = true
 url = "/scores"
 titleSeo = "Scores pour la clinique"
-noIndex = true
 prefix = ""
 shortname = ""
 synonyms = []

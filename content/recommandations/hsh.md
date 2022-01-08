@@ -54,7 +54,7 @@ Parmi les HSH fréquentant les milieux sociaux HSH (bars, backrooms):
 - 45% déclarent plus de 10 partenaires par an
 - 1/3 n’utilise pas de préservatif
 - 20% ont des relations avec prise de produits psychoactifs
-- 14,3% ont le VIH ([Velter  A. 2017](https://portaildocumentaire.santepubliquefrance.fr/exl-php/util/documents/accede_document.php?1622191525936))
+- 14,3% ont le VIH ([Velter A. 2017](http://beh.santepubliquefrance.fr/beh/2017/18/2017_18_1.html))
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

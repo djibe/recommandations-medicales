@@ -1,5 +1,6 @@
 +++
 title = "Violences conjugales"
+noindex = true
 prefix = "les "
 shortname = "Violences conjugales"
 synonyms = ["Violences faites aux femmes"]

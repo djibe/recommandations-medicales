@@ -1,5 +1,6 @@
 +++
 title = "Hépatite A"
+noindex = true
 prefix = "l'"
 shortname = "VHA"
 synonyms = []

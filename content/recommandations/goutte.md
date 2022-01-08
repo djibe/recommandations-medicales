@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-08T09:35:00+02:00
 publishdate = 2021-01-08
-lastmod = 2021-09-20
+lastmod = 2022-01-08
 specialites = ["rhumatologie"]
 annees = "2020"
-sources = ["SFRhumato", "EULAR"]
+sources = ["SFRhumato", "ACR", "EULAR"]
 tags = ["AINS", "HTA", "risque cardiovasculaire"]
 anglais = ["Gout"]
 sctid = "90560007"
@@ -18,7 +18,7 @@ image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "relecture demandée, monoarthrite aigue, HAS, comp goutte, https://www.ebmfrance.net/fr/Pages/ebm/ebm00451.aspx"
+todo = "relecture demandée, HAS, https://www.ebmfrance.net/fr/Pages/ebm/ebm00451.aspx"
 +++
 
 {{%article-summary%}}
@@ -27,10 +27,11 @@ todo = "relecture demandée, monoarthrite aigue, HAS, comp goutte, https://www.e
 Glaçage, paracétamol, naproxène, forcer la diurèse.  
 Privilégier l'infiltration en monoarthrite de grosse articulation.
 - Traitement de fond  
-Allopurinol dès la 1<sup>re</sup> crise avec uricémie cible < 50 mg/L et couverture colchicine 0,5-1 mg/j ≥ 6 mois.
+Allopurinol titration en débutant ≤ 100 mg/j avec uricémie cible < 50 mg/L et couverture colchicine 0,5-1 mg/j ≥ 3-6 mois.  
+Peut être débuté pendant la crise.
 - Régime  
 Perte poids, arrêt bière, réduire alcool/sodas/jus, viandes/abats, crustacés, laits maigres, substituer diurétique.
-- Contrôle des facteurs de risque cardiovasculaire
+- Contrôle des facteurs de [risque cardiovasculaire](/tags/risque-cardiovasculaire/)
 - Éducation thérapeutique et observance +++
 
 {{%/article-summary%}}
@@ -38,10 +39,10 @@ Perte poids, arrêt bière, réduire alcool/sodas/jus, viandes/abats, crustacés
 
 Goutte
 : Rhumatisme inflammatoire le plus fréquent dans le monde, surtout chez l'homme âgé. Elle est la conséquence d'une *hyperuricémie chronique*.
-: Famille des *arthropathies microcristallines* par dépôts de cristaux d’*urate de sodium* (monosodique dit UMS) dans les articulations. Ces derniers provoquent des arthrites aiguës, récidivantes et de résolution spontanée.  
+: Famille des *arthropathies microcristallines* par dépôts de cristaux d’**urate de sodium** (monosodique dit **UMS**) dans les articulations. Ces derniers provoquent des arthrites aiguës (souvent monoarthrite fixes), récidivantes et de résolution spontanée.  
 Prévalence de 0,9 à 2,5% selon les pays, en augmentation.
 : **Complications:** tophus, arthropathies uratiques, colique néphrétique, lithiases uriques radiotransparentes, néphropathie goutteuse.
-: Diagnostic différentiel: chondrocalcinose articulaire, arthrite infectieuse, rhumatisme psoriasique, poussée d'arthrose, polyarthrite rhumatoïde.
+: **Diagnostic différentiel:** chondrocalcinose articulaire, arthrite infectieuse, rhumatisme psoriasique, poussée d'arthrose, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}).
 
 Tophus
 : Dépôt tissulaire de cristaux d'acide urique entouré de cellules inflammatoires lors de chronicité de la maladie.  
@@ -51,6 +52,11 @@ Allopurinol
 : Médicament hypo-uricémiant utilisé trop largement.  
 Il est la 1<sup>re</sup> de cause survenue de toxidermies bulleuses graves en Europe.  
 La **mortalité** est de 20-30% et 60% de ces accidents sous *allopurinol* surviennent chez des patients qui n’ont aucune indication au traitement.
+
+### Abréviations
+
+**ACR:** {{%lang%}}American College of Rheumatology{{%/lang%}}  
+**DFGe:** débit de filtration glomérulaire estimé
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -88,7 +94,7 @@ Greffe d'organe, colique néphrétique, insuffisance rénale, ulcère gastro-duo
 
 Complète le bilan des facteurs de risque cardiovasculaire.
 
-- Créatininémie et DFG CKD-EPI
+- Créatininémie et DFGe CKD-EPI
 - Uricémie
 - Glycémie à jeun si facteur de risque ou ≥ 45 ans
 - Dyslipidémie selon le terrain
@@ -104,9 +110,45 @@ Radiographies des articulations atteintes au diagnostic pour le diagnostic diff�
 Peut être utile pour affirmer le diagnostic et étayer le diagnostic différentiel.
 
 {{% /collapse %}}
+{{%collapse "Mesures hygiéno-diététiques" %}}
+
+### Mesures hygiéno-diétetiques en cas de goutte
+
+Ces mesures ont plus d’effets sur le profil cardiovasculaire que sur l’uricémie.  
+Le discours doit être individualisé.
+
+- Correction d'un surpoids
+- Réduction de la consommation d'alcool  
+{{%class%}}Bière et spiritueux.{{%/class%}}
+- Arrêt des sodas, limiter jus d’orange et de pomme
+- Éviter les gros repas
+- Éviter les excès en viandes, abats et crustacés (riches en purines)
+- Encourager les produits quotidiens pauvres en graisses, le lait écrémé et les yaourts faibles en calories.  
+Le lait est uricosurique.
+- Encourager un exercice physique quotidien
+- Traitement par diurétique de l’anse ou thiazidique:  
+Substituer si possible car très uricosuriques, par losartan ou amlodipine.
+- Traitement par statine:  
+Préférer la substitution par fénofibrate (hypouricémiant ++).
+- Éducation du patient itérative  
+Cause majeure d'échec du traitement (alcool, régime ++).  
+Voir *Information du patient*.
+
+### Médicaments hyperuricémiants
+
+- Aspirine (même à faible dose)
+- Diurétiques thiazidiques et de l'anse
+- Bêtabloquants
+- Ciclosporine, tacrolimus
+- Pyrazinamide, éthambutol
+
+Remplacer si possible par hypouricémiants:  
+Losartan, fénofibrate, atorvastatine, amlodipine.
+
+{{% /collapse %}}
 {{%collapse "Traitement de la crise de goutte" %}}
 
-Le plus précoce possible (12 premières heures), dès les prodromes (auto-médication adaptée aux comorbidités).  
+Le plus précoce possible (< 12 heures), dès les prodromes (auto-médication adaptée aux comorbidités).  
 Traitement adapté à la tolérance et à l’efficacité passée.
 
 - Repos au lit avec immobilisation de l'articulation
@@ -145,7 +187,7 @@ Puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours
 
 Indication: en 3<sup>e</sup> intention, en remplacement des AINS et de la colchicine.
 
-{{%info%}}Prednisone 30-35 mg x 1/j pendant 3-5 jours{{%/info%}}
+{{%info%}}Prednisone 30 mg x 1/j pendant 3-5 jours{{%/info%}}
   
 Ne pas associer AINS et corticoïdes.  
 Ne pas utiliser en cas de diabète ou d'HTA déséquilibrés.
@@ -173,91 +215,67 @@ Intervalle de 12 semaines entre 2 injections.
 Traitement contre-indiqué en cas d'infection active.
 
 {{% /collapse %}}
-{{%collapse "Traitement de fond et RHD" %}}
+{{%collapse "Traitement de fond de la goutte" %}}
 
-{{%info%}}**Objectif:** Prévenir les crises douloureuses et les complications par la dissolution des cristaux d'urate de sodium.{{%/info%}}
+{{%info%}}
 
-### Mesures hygiéno-diétetiques en cas de goutte
+### Indications au traitement de fond
 
-Ces mesures ont plus d’effets sur le profil cardiovasculaire que sur l’uricémie. Le discours doit être individualisé.
+Pour la *SFRhumato*: Traitement de fond à débuter dès que le diagnostic de goutte symptomatique est posé avec cible d'uricémie < 50 mg/L car la goutte est un facteur de risque indépendant de mortalité prématurée.
 
-- Si traité par diurétique de l’anse ou thiazidique:  
-Substituer si possible car très uricosuriques, par losartan ou amlodipine.
-- Si dyslipidémie associée:  
-Préférer la substitution de la statine par fénofibrate car très hypouricémiant.
-- Correction d'un surpoids
-- Réduction de la consommation d'alcool  
-Bière et spiritueux.
-- Arrêt des sodas, limiter jus d’orange et de pomme
-- Éviter les gros repas
-- Éviter les excès en viandes, abats et crustacés (riches en purines)
-- Encourager les produits quotidiens pauvres en graisses, le lait écrémé et les yaourts faibles en calories.  
-Le lait est uricosurique.
-- Encourager un exercice physique quotidien
-- Éducation du patient itérative  
-Cause majeure d'échec du traitement (alcool, régime ++).  
-Voir *Information du patient*.
+Pour l'*ACR*: Hypouricémiant fortement recommandé si: ≥ 1 tophus, lésions radiologiques  liées à la goutte, ≥ 2 crises/an (dites fréquentes)  
+ou recommandé pour certains patients ayant déjà eu ≥ 1 crise mais non fréquentes  
+ou recommandé si DFG < 60, uricémie ≥ 90 mg/L ou lithiase urique.
+{{%/info%}}
 
-### Médicaments hyperuricémiants
+**Objectif:** Prévenir les crises douloureuses et les complications par la dissolution des cristaux d'urate de sodium en maintenant l'uricémie < 60 mg/L (360 µmol/L) au long cours avec cible **< 50 mg/L** (300 µmol/L).  
+Contrôle de l'**uricémie 1-2/an**.  
+Ne pas descendre sous les **30 mg/L** au long cours car probable rôle neuroprotecteur de l’acide urique.
 
-- Aspirine (même à faible dose)
-- Diurétiques thiazidiques et de l'anse
-- Bêtabloquants
-- Ciclosporine, tacrolimus
-- Pyrazinamide, éthambutol
+### Mise en route du traitement de fond
 
-Remplacer si possible par hypouricémiants:  
-Losartan, fénofibrate, atorvastatine, amlodipine.
+{{%warning%}}Informer systématiquement sur la nécessité d’interrompre immédiatement le traitement en cas de réaction cutanée et de consulter immédiatement un médecin{{%/warning%}}
 
-### Traitement de fond de la goutte
+La dissolution des dépôts d’urate expose à des crises de goutte durant les 6 premiers mois du traitement de fond.  
+L'allopurinol est le traitement de référence mais nécessite une titration pour éviter les **toxidermies**.
 
-{{%warning%}}Informer systématiquement sur la nécessité d’interrompre immédiatement le traitement en cas de réaction cutanée et de consulter immédiatement un médecin.{{%/warning%}}
+{{%info%}}
+Allopurinol 50-100 mg/j, paliers de 50-100 mg /2-4 semaines jusqu’à l’objectif uricémique (< 50 mg/L, max 900 mg/j) puis au long cours.  
+Peut être débuté pendant la crise de goutte.
 
-{{%info%}}Traitement de fond à débuter dès que le diagnostic de goutte symptomatique est posé avec cible d'uricémie < 50 mg/L (*SFRhumato*).{{%/info%}}
+Prévention de crise par colchicine 0,5-1 mg/j pendant 3-6 premiers mois (alternatives: AINS, prednisone).
+{{%/info%}}
 
-{{%class-block%}}
+L'*ACR* recommande la recherche HLA–B*5801 pour les personnes originaires d'Asie du Sud Est (Chine, Thaïlande, Corée) et afro-américains par sur-risque de toxidermie (x3).
 
-Proposé d'emblée car la goutte est un facteur de risque indépendant de mortalité prématurée (*SFRhumato*).
-
-Le traitement est long: à 2 ans des cristaux sont encore visibles en imagerie malgré un traitement efficace.
-
-{{%/class-block%}}
-
-**Objectif:** maintenir l'uricémie < 60 mg/L (360 µmol/L) au long cours avec cible < 50 mg/L (300 µmol/L).  
-Contrôle de l'uricémie 1-2/an.
-
-Ne pas descendre sous les 30 mg/L au long cours car probable rôle neuroprotecteur de l’acide urique.
-
-#### Mise en route du traitement de fond
-
-Débuter à dose faible puis titration jusqu’à objectif biologique (< 50 mg/L).
-
-{{%info%}}Allopurinol 50 à 100 mg/j, paliers de 50 à 100 mg /2-4 semaines jusqu’à l’objectif uricémique (max 900 mg/j) puis prolongé au long cours.{{%/info%}}
-
-Traitement de fond de choix selon la clairance:
+#### Traitement de fond selon la fonction rénale
 
 - Clairance > 60 mL/min/1,73m²  
 Allopurinol.
 - Clairance entre 30 et 60  
-Posologie d'allopurinol réduite ou fébuxostat.
+Allopurinol dose réduite ou fébuxostat.
 - Clairance < 30  
 Fébuxostat uniquement.
 
-- Dosage de l'uricémie 1 à 2/an.
+### Précisions sur le traitement de fond
+
+- Surveillance de l'uricémie 1 à 2/an
 - Si fonction rénale altérée:  
-Utiliser une dose adaptée d’allopurinol.
-- si intolérance digestive:  
+Utiliser une dose adaptée d’allopurinol jusqu'à 30 mL/min.
+- Si intolérance digestive:  
 Tenter de poursuivre le traitement sauf symptômes majeurs.
 
-La dissolution des dépôts d’urate expose à des crises de goutte durant les 6 premiers mois du traitement de fond.
+### Envisager l'arrêt du traitement de fond
 
-{{%info%}}Prévention par colchicine 0,5 à 1 mg/j pendant au moins les 6 premiers mois du traitement de fond.{{%/info%}}
+Selon l'*ACR*: envisager une diminution ou une réduction après **1 an sans crise et absence de tophi**.
 
-{{%class%}}Naproxène 250 mg x 2/j n'est plus cité en 2020 par manque d'études.{{%/class%}}
+{{%class-block%}}
+Le traitement est long: à 2 ans des cristaux sont encore visibles en imagerie malgré un traitement efficace.
+{{%/class-block%}}
 
-#### Échec de l'allopurinol
+### Échec de l'allopurinol
 
-##### Fébuxostat
+#### Fébuxostat
 
 Indications au fébuxostat:
 
@@ -275,17 +293,17 @@ Fébuxostat contre-indiqué en maladie cardiovasculaire sévère:
 - Diabète compliqué
 {{%/warning%}}
 
-Arrêt de l'allopurinol et remplacement par **fébuxostat** (Adénuric®) 40 mg x 2/j au long cours.
+Arrêt de l'allopurinol et remplacement par **fébuxostat** (Adénuric®) 40 mg/j puis 40 mg x 2/j au long cours.
 
 **NB.** Absence d’allergie croisée entre allopurinol et fébuxostat.
 
-Si maladie invalidante et traitements insuffisants: adresser au spécialiste pour introduire la pegloticase.
+{{%info%}}Si maladie invalidante et traitements insuffisants: adresser au spécialiste pour introduire la pegloticase.{{%/info%}}
 
-##### Probénécide
+#### Probénécide
 
-Uricosurique alternatif de l'allopurinol et du fébuxostat, le probénécide (Santuril®) est de maniement délicat (*Prescrire Rédaction*).
+Uricosurique alternatif, le probénécide (Santuril®) est de maniement délicat (*Prescrire Rédaction*).
 
-**Traitement de fond retiré du marché:** benzbromarone (Desuric®, retiré en 2008).
+**Autre traitement de fond:** ~~~benzbromarone~~~ (Desuric®, retiré en 2008).
 
 {{% /collapse %}}
 {{%collapse "Surveillance du traitement" %}}
@@ -300,7 +318,7 @@ Uricosurique alternatif de l'allopurinol et du fébuxostat, le probénécide (Sa
 {{% /collapse %}}
 {{% collapse "Conduite à tenir devant une crise de goutte" "show" %}}
 
-{{< mermaid title="Conduite à tenir thérapeutique devant une crise de goutte. Dr JB Fron d'après SFR 2020" >}}
+{{< mermaid title="Conduite à tenir thérapeutique devant une crise de goutte. Dr JB Fron d'après SFR et ACR 2020" >}}
 graph TB
   crise[Crise de goutte] --> rhd("- Éducation<br>- Traitement à avoir sur soi<br>- Envisager hypouricémiant")
   style crise stroke:#4150f5, stroke-width:1px
@@ -318,16 +336,16 @@ MCV = maladie cardiovasculaire
 Inhibiteurs CYP3A4/GP = pristinamycine, macrolides...  
 Colchicine J1 = 1 mg puis 0,5 mg à H1 puis jours suivants 0,5 mg x 2-3/j.  
 AINS = naproxène 750 mg puis 250 mg x 3/j.  
-Corticoïdes = 30-35 mg/j prednisone 5 jours.
+Corticoïdes = 30 mg/j prednisone 3-5 jours.
 
 {{%/collapse%}}
 {{% collapse "Conduite à tenir pour le traitement hypouricémiant" "show" %}}
 
-{{< mermaid title="Conduite à tenir thérapeutique pour le traitement hypouricémiant. Dr JB Fron d'après SFR 2020" >}}
+{{< mermaid title="Conduite à tenir thérapeutique pour le traitement hypouricémiant. Dr JB Fron d'après SFR et ACR 2020" >}}
 graph TB
-  diagnostic[Diagnostic de goutte] --> education(<b>Éducation</b><hr>- Traitement sur soi<br>- RHD)
+  diagnostic[Diagnostic de goutte] --> education(<b>Éducation</b><hr>- Traitement sur soi<br>- RHD) --> criteres("<b>Critères de traitement</b><hr>- SFRhumato: dès la 1<sup>re</sup> crise<br>- ACR:<br>&ge; 1 tophus, lésions radiologiques,<br>&ge; 2 crises/an,<br>critères annexes (Voir ttt fond)")
   style diagnostic stroke:#4150f5, stroke-width:1px
-    education --> clairance(Évaluation clairance et<br>cardiovasculaire)
+    criteres -- Oui --> clairance(Évaluation clairance et<br>cardiovasculaire)
       clairance -- Sans comorbidités --> allopurinol(Allopurinol 50<br>à 100 mg/j) --> prophylaxie("Associer la prophylaxie:<br>colchicine 0,5 à 1 mg/j &ge; 6 mois")
       clairance -- IRC modérée --> ircmoderee(Allopurinol 50 mg<br>ou fébuxostat 40 mg x 2/j) --> prophylaxie
       clairance -- IRC sévère --> ircsevere(Fébuxostat 40 mg x 2/j) --> prophylaxie
@@ -335,11 +353,11 @@ graph TB
         prophylaxie -- Titration --> titration("<b>Augmentation par paliers:</b><br>- Allopurinol: 50-100 mg/j (max 900)<br>- Fébuxostat: 40 mg/j (max 120)")
           titration -- 2 à 4 semaines --> uricemie(Contrôle de l'uricémie<hr>Cible d'uricémie &lt; 50 mg/L) --> titration
             uricemie -- "&lt; 50 mg/L" --> cible(<b>Cible atteinte</b><br>Poursuite à vie) --> surv("Surveillance uricémie 1-2/an et <br>adaptation du traitement de fond")
-            uricemie -- "&lt; 60 mg/L" --> presque(Maintenir la dose à vie<br>Envisager d'autres mesures<br>hypouricémiantes) --> surv
-            uricemie -- "> 60 mg/L" --> hors(Maintenir doses maximales<br>Considérer uricosuriques) --> surv
+            uricemie -- "&lt; 60 mg/L" --> presque("- Maintenir la dose à vie<br>- Envisager d'autres mesures<br>hypouricémiantes") --> surv
+            uricemie -- "&ge; 60 mg/L" --> hors("- Maintenir doses maximales<br>- Considérer uricosuriques") --> surv
 {{< /mermaid >}}
 
-> MCV = Maladie cardiovasculaire  
+> **MCV** = Maladie cardiovasculaire  
 Uricémie cible = 50 mg/L = 300 µmol/L
 
 {{%/collapse%}}
@@ -377,7 +395,8 @@ Intérêt de colchicine prophylactique.
 - [Prescrire Rédaction. Crise de goutte. Premiers choix Prescrire. Mars 2021.](https://prescrire.org)
 - [Société Française de Rhumatologie. Recommandations 2020 de la Société française de rhumatologie pour la prise en charge de la goutte : traitement des crises de goutte. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.008)
 - [Société Française de Rhumatologie. Recommandations de la Société française de rhumatologie pour la prise en charge de la goutte : le traitement hypo-uricémiant. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.009)
-- [EULAR. 2016 updated EULAR evidence-based recommandations for the management of gout. July 25, 2016.](https://ard.bmj.com/content/76/1/29)
+- [FitzGerald JD. et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res. 72: 744-760.](https://onlinelibrary.wiley.com/doi/full/10.1002/acr.24180)
+- [EULAR. 2016 updated EULAR evidence-based recommandations for the management of gout. 2016.](https://ard.bmj.com/content/76/1/29)
 - [ANSM. Allopurinol et risque de survenue de toxidermies graves – Lettre aux professionnels de santé. 25 Février 2013. (PDF)](http://dev4-afssaps-marche2017.integra.fr/content/download/46768/603562/version/1/file/ddl-130225-Allopurinol.pdf)
 - [Société Française de Rhumatologie. Traitement de la goutte. Revue du Rhumatisme 74. 2007. (PDF)](https://www.em-consulte.com/article/59851/article/traitement-de-la-goutte)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8.](http://www.lecofer.org/item-cours-1-19-0.php#ch_2_1)

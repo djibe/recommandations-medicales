@@ -1,5 +1,6 @@
 +++
 title = "Fièvre jaune"
+noindex = true
 prefix = "la "
 shortname = "Fièvre jaune"
 synonyms = ["Fièvre amarile, typhus amaril, vomito negro"]

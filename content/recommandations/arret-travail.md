@@ -1,6 +1,7 @@
 +++
 title = "Arrêt de travail"
-prefix = "les "
+noindex = true
+prefix = "l'"
 shortname = "AT"
 synonyms = ["Arrêt maladie"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -14,7 +15,7 @@ tags = []
 anglais = []
 sctid = ""
 draft = false
-todo = "TODO: summary, modalite papier/ameli"
+todo = "TODO: summary, modalité papier/ameli"
 +++
 
 {{%article-summary%}}

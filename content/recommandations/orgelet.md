@@ -1,5 +1,6 @@
 +++
 title = "Orgelet"
+noindex = true
 prefix = "l'"
 shortname = "Orgelet"
 synonyms = []
