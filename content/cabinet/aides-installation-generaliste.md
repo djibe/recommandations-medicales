@@ -1,16 +1,16 @@
 +++
-title = "Aides à l'installation du médecin généraliste"
+title = "Aides à l'installation du médecin généraliste en zones sous-dotées"
 description = "Les aides disponibles pour l'installation des médecins généralistes dans les déserts médicaux"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-11-17T20:00:00+02:00
 publishdate = 2021-11-22
-lastmod = 2021-12-06
+lastmod = 2022-01-09
 sources = ["PAPS", "Ameli Pro", "ARS"]
 tags = []
 draft = false
 image = false
 imageSrc = ""
-todo = "forfait structure et exonérations fiscales"
+todo = "forfait structure et exonérations fiscales, https://www.ameli.fr/medecin/exercice-liberal/vie-cabinet/aides-financieres, http://www.snjmg.org/outils/demographie-et-installation"
 +++
 
 [PAPS - Synthèse des aides dans Le Portail d'Accompagnement des Professionnels de Santé de votre région](https://www.iledefrance.paps.sante.fr/les-aides-linstallation-29?rubrique=10010) ou {{<phone>}}3608{{</phone>}}
@@ -82,8 +82,7 @@ Dérogation possible de 2 ans à négocier avec l'ARS.
   Zone particulièrement déficitaire, majoration par l'ARS: 60.000 € pour 4 jours, 45.000 pour 3 jours...
 3. Majoration de 2500€ en cas d’exercice libéral partagé dans un hôpital de proximité
 
-> *[Ameli CAIM (PDF)](https://www.ameli.fr/sites/default/files/Documents/497913/document/fiche_caim.pdf)*  
-[Contrat type (PDF)](https://www.iledefrance.paps.sante.fr/system/files/2020-01/Contrat%20type%20CAIM.pdf?rubrique=10010)
+> *[Ameli CAIM (PDF)](https://www.ameli.fr/sites/default/files/Documents/497913/document/fiche_caim.pdf)* et [Contrat type (PDF)](https://www.iledefrance.paps.sante.fr/system/files/2020-01/Contrat%20type%20CAIM.pdf?rubrique=10010)
 
 ### COSCOM: Contrat de Stabilisation et de Coordination
 
@@ -134,7 +133,7 @@ Ex 4j/semaine: rémunération de 7550€/mois garantis sous réserve de 3775€/
 - Un accompagnement à la gestion administrative  
 Accompagnement défini par l'ARS: comptabilité, gestion, fiscalité, fonction d’employeur.
 - Protection sociale plus étendue  
-Couverture maladie dès 8j d'arrêt (68€/j), maternité/paternité/adoption.
+Couverture maladie dès 8 jours d'arrêt (68€/j), maternité/paternité/adoption.
 
 > *[Ameli Médecin. Contrat de début d’exercice : une nouveauté pour faciliter l’installation des jeunes médecins. 29/03/2021.](https://www.ameli.fr/medecin/actualites/contrat-de-debut-dexercice-une-nouveaute-pour-faciliter-linstallation-des-jeunes-medecins)*
 

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-08T09:35:00+02:00
 publishdate = 2021-01-08
-lastmod = 2022-01-08
+lastmod = 2022-01-10
 specialites = ["rhumatologie"]
 annees = "2020"
 sources = ["SFRhumato", "ACR", "EULAR"]
@@ -240,7 +240,7 @@ La dissolution des dépôts d’urate expose à des crises de goutte durant les 
 L'allopurinol est le traitement de référence mais nécessite une titration pour éviter les **toxidermies**.
 
 {{%info%}}
-Allopurinol 50-100 mg/j, paliers de 50-100 mg /2-4 semaines jusqu’à l’objectif uricémique (< 50 mg/L, max 900 mg/j) puis au long cours.  
+[Allopurinol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68320252&typedoc=R) 50-100 mg/j, paliers de 50-100 mg /2-4 semaines jusqu’à l’objectif uricémique (< 50 mg/L, max 900 mg/j) puis au long cours.  
 Peut être débuté pendant la crise de goutte.
 
 Prévention de crise par colchicine 0,5-1 mg/j pendant 3-6 premiers mois (alternatives: AINS, prednisone).
@@ -293,7 +293,7 @@ Fébuxostat contre-indiqué en maladie cardiovasculaire sévère:
 - Diabète compliqué
 {{%/warning%}}
 
-Arrêt de l'allopurinol et remplacement par **fébuxostat** (Adénuric®) 40 mg/j puis 40 mg x 2/j au long cours.
+Arrêt de l'allopurinol et remplacement par **[fébuxostat](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63862669&typedoc=R)** (Adénuric®) 40 mg/j puis 40 mg x 2/j au long cours.
 
 **NB.** Absence d’allergie croisée entre allopurinol et fébuxostat.
 
@@ -303,7 +303,7 @@ Arrêt de l'allopurinol et remplacement par **fébuxostat** (Adénuric®) 40 mg/
 
 Uricosurique alternatif, le probénécide (Santuril®) est de maniement délicat (*Prescrire Rédaction*).
 
-**Autre traitement de fond:** ~~~benzbromarone~~~ (Desuric®, retiré en 2008).
+Autre traitement de fond: ~~~benzbromarone~~~ (Desuric®, retiré en 2008).
 
 {{% /collapse %}}
 {{%collapse "Surveillance du traitement" %}}
@@ -332,7 +332,7 @@ graph TB
 {{< /mermaid >}}
 
 > **Légende**  
-MCV = maladie cardiovasculaire  
+**ACR** = {{%lang%}}American College of Rheumatology{{%/lang%}} ; **MCV** = maladie cardiovasculaire  
 Inhibiteurs CYP3A4/GP = pristinamycine, macrolides...  
 Colchicine J1 = 1 mg puis 0,5 mg à H1 puis jours suivants 0,5 mg x 2-3/j.  
 AINS = naproxène 750 mg puis 250 mg x 3/j.  
@@ -346,19 +346,20 @@ graph TB
   diagnostic[Diagnostic de goutte] --> education(<b>Éducation</b><hr>- Traitement sur soi<br>- RHD) --> criteres("<b>Critères de traitement</b><hr>- SFRhumato: dès la 1<sup>re</sup> crise<br>- ACR:<br>&ge; 1 tophus, lésions radiologiques,<br>&ge; 2 crises/an,<br>critères annexes (Voir ttt fond)")
   style diagnostic stroke:#4150f5, stroke-width:1px
     criteres -- Oui --> clairance(Évaluation clairance et<br>cardiovasculaire)
-      clairance -- Sans comorbidités --> allopurinol(Allopurinol 50<br>à 100 mg/j) --> prophylaxie("Associer la prophylaxie:<br>colchicine 0,5 à 1 mg/j &ge; 6 mois")
+      clairance -- Sans comorbidités --> allopurinol(Allopurinol 50<br>à 100 mg/j) --> prophylaxie("Associer la prophylaxie:<br>colchicine 0,5 à 1 mg/j &ge; 3-6 mois")
       clairance -- IRC modérée --> ircmoderee(Allopurinol 50 mg<br>ou fébuxostat 40 mg x 2/j) --> prophylaxie
       clairance -- IRC sévère --> ircsevere(Fébuxostat 40 mg x 2/j) --> prophylaxie
       clairance -- MCV sévère --> mcv(<b>Pas de fébuxostat</b>)
         prophylaxie -- Titration --> titration("<b>Augmentation par paliers:</b><br>- Allopurinol: 50-100 mg/j (max 900)<br>- Fébuxostat: 40 mg/j (max 120)")
-          titration -- 2 à 4 semaines --> uricemie(Contrôle de l'uricémie<hr>Cible d'uricémie &lt; 50 mg/L) --> titration
+          titration -- 2 à 4 semaines --> uricemie(Contrôle de l'uricémie<br>Cible &lt; 50 mg/L) --> titration
             uricemie -- "&lt; 50 mg/L" --> cible(<b>Cible atteinte</b><br>Poursuite à vie) --> surv("Surveillance uricémie 1-2/an et <br>adaptation du traitement de fond")
+              surv -. Envisager l'arrêt .-> arret("Selon l'ACR:<br>Envisager arrêt ou réduction<br>après 1 an sans crise<br>et absence de tophi")
             uricemie -- "&lt; 60 mg/L" --> presque("- Maintenir la dose à vie<br>- Envisager d'autres mesures<br>hypouricémiantes") --> surv
             uricemie -- "&ge; 60 mg/L" --> hors("- Maintenir doses maximales<br>- Considérer uricosuriques") --> surv
 {{< /mermaid >}}
 
 > **MCV** = Maladie cardiovasculaire  
-Uricémie cible = 50 mg/L = 300 µmol/L
+Uricémie cible ≤ 50 mg/L (300 µmol/L)
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
