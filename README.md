@@ -2,7 +2,7 @@
 
 **Projet Open Source, gratuit et indépendant visant à partager l'État de l'Art de la pratique en médecine de premier recours.**
 
-[Recommandations Médicales](https://recommandations-medicales.netlify.app/) est développé pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder en 2 clics à tout ce dont ils ont besoin en consultation.
+[Recommandations Médicales](https://recomedicales.fr/) est développé pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder en 2 clics à tout ce dont ils ont besoin en consultation.
 
 ## Pourquoi ce projet ?
 
@@ -12,7 +12,7 @@ Plusieurs constats:
 - Or nous ne retenons que 10% de ce que nous lisons
 - Donc même en apprenant TOUT, nous ne retiendrions que 10%, ce qui est insuffisant
 - Nous avons donc besoin d'avoir un accès permanent à de l'information fiable pour guider nos consultations
-- De plus, les enjeux de Santé publique (hypertension artérielle, [diabète](https://recommandations-medicales.netlify.app/recommandations/diabete-type-2/), [BPCO](https://recommandations-medicales.netlify.app/recommandations/bronchopneumopathie-chronique-obstructive/), ostéoporose) sont d'une complexité croissante, hors de portée de simples fiches textes et de nos petits cerveaux.
+- De plus, les enjeux de Santé publique (hypertension artérielle, [diabète](https://recomedicales.fr/recommandations/diabete-type-2/), [BPCO](https://recomedicales.fr/recommandations/bronchopneumopathie-chronique-obstructive/), ostéoporose) sont d'une complexité croissante, hors de portée de simples fiches textes et de nos petits cerveaux.
 
 Seul un outil numérique peut nous aider.
 

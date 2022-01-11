@@ -59,7 +59,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
     subtitle: {
       margin: 16,
       offsetX: 8,
-      style: { 
+      style: {
         color:  '#666',
         fontSize: '14px'
       }
@@ -95,7 +95,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
   }
   const chart = new ApexCharts(document.getElementById('chart'), chartOptions)
   chart.render()
-  
+
   if (document.getElementById('chart2')) {
     const chart2 = new ApexCharts(document.getElementById('chart2'), chartOptions2)
     chart2.render()
@@ -186,13 +186,13 @@ document.addEventListener( 'DOMContentLoaded', event => {
     res_item_tpl   : '<a class="dropdown-item" href="[URL]" title="[TITLECAPT]">[TITLE]</a>',
     add_searchlink : ''
   }
-  
+
   // Translation of section name (optional)
   let section_trans = {
     // "post" : "Blog",
     // "other-section" : "Other Section"
   }
-  
+
   let searchfield_weight = {
     "title"   : 5,
     "tags"    : 5,
@@ -207,7 +207,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
   // When DOM is ready
   {{ with .Site.RegularPages }}
     // Open external sources in new window
-      let externalLinks = document.querySelectorAll('a[href^="http"]:not([href*="netlify.app"])')
+      let externalLinks = document.querySelectorAll('a[href^="http"]:not([href*="recomedicales.fr"])')
       externalLinks.forEach((elem) => { elem.setAttribute('target', '_blank') })
       let internalLinks = document.querySelectorAll('.recommandation__content a[href^="/recommandations/"]:not([href*="#"])')
       internalLinks.forEach((elem) => { elem.setAttribute('target', '_blank') })

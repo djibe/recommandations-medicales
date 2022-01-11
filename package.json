@@ -14,7 +14,7 @@
     "hugo:debug": "hugo --cleanDestinationDir --minify --debug --logFile ./hugo.log --verboseLog",
     "hugo:update": "choco upgrade hugo-extended",
     "links-md:check": "linkinator content/**/*.md --markdown --verbosity error --skip '(%22)$'",
-    "links-external:check": "hugo && linkinator ./public/** --recurse --skip netlify.app --verbosity error",
+    "links-external:check": "hugo && linkinator ./public/** --recurse --skip recomedicales.fr --verbosity error",
     "server": "hugo server --buildDrafts --watch --destination dev --verbose --cleanDestinationDir -p 1313",
     "start": "hugo --cleanDestinationDir --gc --minify"
   },
@@ -42,7 +42,7 @@
   "bugs": {
     "url": "https://github.com/djibe/recommandations-medicales/issues"
   },
-  "homepage": "https://recommandations-medicales.netlify.app",
+  "homepage": "https://recomedicales.fr",
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^4.1.3",
     "cli-real-favicon": "0.0.8",
