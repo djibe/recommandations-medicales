@@ -34,7 +34,7 @@ todo = "tabac, Anticorps anti-surrénaliens, Turner, ESHRE"
 {{%collapse "Définitions" %}}
 
 Insuffisance ovarienne prématurée (IOP, terme de l'*ESHRE*)
-: ex *ménopause précoce* ou *ménopause prématurée*.
+: ou précoce, *ex ménopause précoce* ou *ménopause prématurée*.
 : Ménopause survenant avant 40 ans et dont l'étiologie doit être recherchée.  
 Diagnostic par l'association d'un critère clinique:
     - Aménorrhée ≥ 4 mois primaire ou secondaire
@@ -54,7 +54,7 @@ Spanioménorrhée
 | &gt; 55 ans             | Ménopause tardive              |
 | 45-55 ans               | Ménopause naturelle            |
 | 40-45 ans               | Ménopause anticipée            |
-| &lt; 40 ans             | Insuffisance ovarienne précoce |
+| &lt; 40 ans             | Insuffisance ovarienne prématurée |
 | Radio/chimio-induite    | Ménopause iatrogène            |
 | Ovariectomie bilatérale | Ménopause chirurgicale         |
 {{< /table >}}
@@ -200,7 +200,7 @@ Ne sont pas une contre-indication au THS.
 
 {{< mermaid title="Conduite à tenir pour le diagnostic de l'insuffisance ovarienne prématurée. Dr JB Fron d'après HAS 2021 et Cox et Liu 2014" >}}
 graph TB
-  amenorrhee["Aménorrhée &ge; 4 mois (ou spanioménorrhée)<br>avant 40 ans"] --> hcg(Test de grossesse<br>hCG)
+  amenorrhee["Aménorrhée &ge; 4 mois<br>ou spanioménorrhée &ge; 4 mois<br>avant 40 ans"] --> hcg(Test de grossesse<br>hCG)
   style amenorrhee stroke:#4150f5, stroke-width:1px
     hcg -- Négatif --> dosage("- FSH, estradiol, prolactine<br>- TSH")
       dosage --> estradiolEleve("FSH &gt; 25 et estradiol élevé") --> micycle(Élévation à mi-cycle)

@@ -2,15 +2,15 @@
 html,
 body,
 .list-page {
-    min-height: 100vh;
+  min-height: 100vh;
 }
 
 [id] {
-    scroll-margin-top: 56px;
+  scroll-margin-top: 56px;
 }
 
 a {
-    color: var(--primary);
+  color: var(--primary);
 }
 
 h1,
@@ -24,42 +24,42 @@ h2,
 .typography-subtitle-1,
 .typography-subtitle-2,
 .card-title {
-    // font-family: Roboto,system-ui,-apple-system,"Segoe UI","Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif;
-    letter-spacing: normal;
+  // font-family: Roboto,system-ui,-apple-system,"Segoe UI","Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif;
+  letter-spacing: normal;
 }
 
 h1 {
-    font-size: calc(1.375rem + 1.5vw);
-    font-weight: 400;
-    &.site-title {
-        color: var(--secondary);
-        font-size: calc(1.375rem + 1vw);
-        letter-spacing: -1px;
-    }
+  font-size: calc(1.375rem + 1.5vw);
+  font-weight: 400;
+  &.site-title {
+    color: var(--secondary);
+    font-size: calc(1.375rem + 1vw);
+    letter-spacing: -1px;
+  }
 }
 
 h2 {
-    font-size: calc(1.325rem + .5vw);
-    font-weight: 400;
+  font-size: calc(1.325rem + .5vw);
+  font-weight: 400;
 }
 
 h3 {
-    font-size: calc(1.3rem + .6vw);
+  font-size: calc(1.3rem + .6vw);
 }
 
 h4 {
-    font-size: calc(1.275rem + .3vw);
-    letter-spacing: normal;
+  font-size: calc(1.275rem + .3vw);
+  letter-spacing: normal;
 }
 
 @media (min-width: 1200px) {
-    h1 {
-        font-size: 3.5rem;
-    }
-    h2 {
-        font-size: 1.7rem;
-        font-weight: 300;
-    }
+  h1 {
+    font-size: 3.5rem;
+  }
+  h2 {
+    font-size: 1.7rem;
+    font-weight: 300;
+  }
     h3 {
         font-size: 1.7rem;
     }
@@ -119,11 +119,11 @@ main {
 }
 
 %material-icon {
-    content: '';
-    display: inline-block;
-    height: 24px;
-    transition: transform 280ms;
-    width: 24px;
+  content: '';
+  display: inline-block;
+  height: 24px;
+  transition: transform 280ms;
+  width: 24px;
 }
 
 %material-icon-content {
@@ -158,11 +158,11 @@ a[href^="http"]:not([class]):not([href*="netlify.app"])::after {
 }
 
 .taxonomyList::first-letter {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 
 .text-secondary {
-    color: var(--secondary-dark) !important;
+  color: var(--secondary-dark) !important;
 }
 
 .site-title {
@@ -969,14 +969,18 @@ table.dataTable>tbody>tr.child ul.dtr-details>li {
     &.apexcharts-active {
         transition: all .25s cubic-bezier(.4, 0, .2, 1) !important;
     }
+    &.apexcharts-theme-light {
+        .apexcharts-tooltip-title {
+            color: #666 !important;
+        }
+        .apexcharts-tooltip-text-y-label {
+            color: #666;
+        }
+    }
     .apexcharts-tooltip-title {
         background: transparent !important;
-        color: #666 !important;
         border-bottom: 0 !important;
         font-size: 14px !important;
-    }
-    .apexcharts-tooltip-text-y-label {
-        color: #666;
     }
     .apexcharts-tooltip-text-y-value {
         font-size: 14px;

@@ -18,7 +18,7 @@ draft = true
 
 {{%article-summary%}}
 
-- Le diagnostic est clinique à la lampe de Wood.
+- Le diagnostic est clinique à la lampe de Wood
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -75,7 +75,7 @@ Traitement par le spécialiste:
 
 Autobronzant
 Maquillage médical pur dermatologue spécialiste
-Crème dermocroticoide ou tacrolimus (hors AMM)
+Crème dermocorticoïde ou tacrolimus (hors AMM)
 Photothérapie UVB
 Greffe mélanocytaire
 Chirurgie exceptionnelle
@@ -95,6 +95,6 @@ Récidives++
 {{%collapse "Sources" %}}
 
 - [Inserm. Vitiligo.](https://www.inserm.fr/information-en-sante/dossiers-information/vitiligo)
-- [Cochrane. Traitements du vitiligo. 07/12/2011](https://www.cochrane.org/fr/CD003263/SKIN_traitements-du-vitiligo-maladie-entrainant-une-perte-de-la-couleur-de-la-peau-en-plaques)
+- [Cochrane. Traitements du vitiligo. 07/12/2011.](https://www.cochrane.org/fr/CD003263/SKIN_traitements-du-vitiligo-maladie-entrainant-une-perte-de-la-couleur-de-la-peau-en-plaques)
 
 {{% /collapse %}}

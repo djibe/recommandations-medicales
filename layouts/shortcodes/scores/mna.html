@@ -69,13 +69,11 @@
   <p lang="en">Rubenstein LZ et al. Screening for Undernutrition in Geriatric Practice: Developing the Short-Fom Mini Nutritional Assessment (MNA-SF). J. Geront 2001;56A: M366-377.</p>
 </blockquote>
 {{ $script := `
-  // Score EHP-5 by djibe
+  // Score MNA by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoremna = document.getElementById('mnaScore')
     const textmna = document.getElementById('mnaText');
-    [...document.querySelectorAll('#score-mna input[type=\"radio\"]')].forEach((mnaElem) => { mnaElem.addEventListener('click', () => {
-      mna()
-    }) })
+    [...document.querySelectorAll('#score-mna input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { mna() }) })
     const mna = () => {
       let score = 0
       const mnaElemsChecked = document.querySelectorAll('#score-mna input[type=\"radio\"]:checked')

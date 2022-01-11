@@ -140,9 +140,7 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreIRLS = document.getElementById('irlsScore')
     const textIRLS = document.getElementById('irlsText');
-    [...document.querySelectorAll('#score-irls input[type=\"radio\"]')].forEach((IRLSElem) => { IRLSElem.addEventListener('click', () => {
-      irls()
-    }) })
+    [...document.querySelectorAll('#score-irls input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { irls() }) })
     const irls = () => {
       let score = 0
       const irlsElemsChecked = document.querySelectorAll('#score-irls input[type=\"radio\"]:checked')

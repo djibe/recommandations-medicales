@@ -83,9 +83,7 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreAct = document.getElementById('actScore')
     const textAct = document.getElementById('actText');
-    [...document.querySelectorAll('#score-act input[type=\"radio\"]')].forEach((actElem) => { actElem.addEventListener('click', () => {
-      act()
-    }) })
+    [...document.querySelectorAll('#score-act input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { act() }) })
     const act = () => {
       let score = 0
       const elemsChecked = document.querySelectorAll('#score-act input[type=\"radio\"]:checked')

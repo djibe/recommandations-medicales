@@ -7,7 +7,7 @@ synonyms = ["Syndrome climatérique", "traitement hormonal substitutif THS"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
 publishdate = "2021-10-19"
-lastmod = "2022-01-04"
+lastmod = "2022-01-10"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF"]
@@ -15,11 +15,11 @@ tags = ["infertilite", "MVTE", "sueurs nocturnes"]
 anglais = ["Menopause", "Postmenopausal hormone replacement therapy"]
 sctid = "276477006"
 chart = true
+flowchart = true
 draft = false
 image = false
 imageSrc = ""
-todo = "Chart J1-J31, relecture gemvi-secretariat@gemvi.org, IOP HAS 2021"
-flowchart = true
+todo = "Chart J1-J31, relecture gemvi-secretariat@gemvi.org"
 +++
 
 {{%article-summary%}}
@@ -34,6 +34,7 @@ flowchart = true
 **CI majeures**: antécédent de cancer du sein, infarctus du myocarde ou AVC et Alzheimer
 - Débuter quand diagnostic certain et seulement dans les 10 premières années
 - Doses minimales efficaces d'estrogène cutané + progestérone orale combinés continu (ou discontinu ou séquentiels si hémorragies souhaitées)
+- Article lié: [Insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -47,7 +48,7 @@ Les signes *climatériques* (bouffées de chaleur, sueurs nocturnes, sécheresse
 : Après 50 ans, le risque de grossesse est de 1-5/1000 année-femme. 11 million de femmes ménopausées en France.
 : Après la ménopause, l'*ostéoporose* (40% de risque fracturaire) et les *maladies cardiovasculaires* (MCV, 45% des décès) augmentent considérablement.
 
-Insuffisance ovarienne prématurée
+[Insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
 : ex *ménopause précoce* ou *ménopause prématurée*.
 : Ménopause survenant avant 40 ans et dont l'étiologie doit être recherchée.
 : Lien épidémiologique suggéré: risque de maladie d'Alzheimer x3 (annulée si THM jusqu'à 50 ans).
@@ -69,7 +70,7 @@ En revanche, un test *négatif* (absence de saignements) n'affirme pas une méno
 | &gt; 55 ans             | Ménopause tardive              |
 | 45-55 ans               | Ménopause naturelle            |
 | 40-45 ans               | Ménopause anticipée            |
-| &lt; 40 ans             | Insuffisance ovarienne précoce |
+| &lt; 40 ans             | Insuffisance ovarienne prématurée |
 | Radio/chimio-induite    | Ménopause iatrogène            |
 | Ovariectomie bilatérale | Ménopause chirurgicale         |
 {{< /table >}}
@@ -82,7 +83,7 @@ En revanche, un test *négatif* (absence de saignements) n'affirme pas une méno
 **DXA:** absorptiométrie biphotonique à rayons X  
 **FSH:** {{%lang%}}Follicle Stimulating Hormone{{%/lang%}} ou hormone folliculo-stimulante  
 **IMC:** indice de masse corporelle  
-**IOP:** insuffisance ovarienne prématurée (ex ménopause précoce)  
+**IOP:** insuffisance ovarienne prématurée (ou précoce, ex ménopause précoce)  
 **MVTE:** maladie veineuse thromboembolique (embolie pulmonaire ou thrombose veineuse profonde)  
 **SDM:** syndrome douloureux mammaire  
 **SGUM:** syndrome génito-urinaire de la ménopause  
@@ -292,7 +293,7 @@ Quelque soit le statut hormonal ou invasif/in situ.
 {{%/warning%}}
 
 {{% /collapse %}}
-{{%collapse "Traitement hormonal de la ménopause" %}}
+{{%collapse "Traitement hormonal de la ménopause" "show"%}}
 
 [Information de la patiente - GEMVI: Fiche info ménopause et THM (PDF)](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
 
@@ -310,7 +311,7 @@ Le THM peut être proposé en ménopause récente (< 10 ans) selon la balance b�
   - Effet inconstant, partiel et suspensif
   - Estrogènes par voie vaginale
   - Effet synergique avec lactobacilles
-- Insuffisance ovarienne précoce (TODO: vérifier)  
+- [Insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
 Au moins jusqu'à 51 ans.
 
 Précisions: aucun effet sur l'endomètre si durée < 2 ans.
@@ -335,26 +336,18 @@ L'absence d'efficacité doit faire rechercher des BVM atypiques (voir *Clinique*
   - Antécédent de MVTE
   - Obésité
   - Thrombophilie
-- Adaptation du THM
-  - Signes d'hyper-estrogénie: mastodynies, gonflement abdominal, prise de poids, nervosité/irritabilité.  
-  Réduire la posologie du THM.
-  - Signes d'hypo-estrogénie: bouffées vasomotrices, sécheresse vaginale, troubles du sommeil, asthénie, frilosité, douleurs articulaires.  
-  Augmenter les estrogènes.
 - Réévaluation annuelle du THM
-- Arrêt du THM
-  - Il peut être brutal ou dégressif  
-  Effet identique sur la récidive du syndrome climatérique.
-  - Il peut être repris en cas de dégradation de la qualité de vie (selon la balance B-R)
-  - Poursuite du suivi médical osseux et cardiovasculaire
-- Découverte de masse mammaire
-  - Suspendre le THM
-  - Réaliser échographie + mammographie
-  - Exploration habituelle du kyste (*CNGOF 2015*)
-  - Reprise possible du THM si lésion bénigne
-  - Contre-indication formelle si lésion maligne
+
+### Les schémas du THM
+
+- Schéma combiné sans hémorragie de privation
+  - Continu: estrogène + progestatif en continu
+  - Discontinu: estrogène + progestatif pendant 25 jours puis arrêt 1 semaine
+- Schéma séquentiel avec hémorragie de privation
+  - Continu: estrogène en continu + progestatif débuté de J11 à J13 et suspendu à J25. Hémorragie suit l'arrêt du progestatif.
+  - Discontinu: Estrogène pendant 25 jours puis arrêt 1 semaine + progestatif débuté de J11 à J13 et suspendu à J25 avec l'estrogène. Hémorragie suit l'arrêt du progestatif.
 
 <div id="chart" class="border alert mb-4"></div>
-
 <script>
 const chartOptions = {
   series: [
@@ -420,14 +413,16 @@ const chartOptions = {
       y: [
         new Date(Date.UTC(2021, 0, 25)).getTime(),
         new Date(Date.UTC(2021, 0, 31)).getTime()
-      ]
+      ],
+      fillColor: '#ff2b6e'
     },
     {
       x: 'Séquentiel discontinu',
       y: [
         new Date(Date.UTC(2021, 0, 25)).getTime(),
         new Date(Date.UTC(2021, 0, 31)).getTime()
-      ]
+      ],
+      fillColor: '#ff2b6e'
     }
     ]
   }
@@ -451,19 +446,36 @@ const chartOptions = {
         hour: '',
       }
     },
-    title: {text: 'Jour'}
+    title: {text: 'Jour du traitement'}
+  },
+  tooltip: {
+    x: {
+      format: 'd'
+    }
   }
 }
 </script>
 
-### Les schémas du THM
+### Adaptation du THM
 
-- Schéma combiné sans hémorragie de privation
-  - Continu: estrogène + progestatif en continu
-  - Discontinu: estrogène + progestatif pendant 25 jours puis arrêt 1 semaine
-- Schéma séquentiel avec hémorragie de privation
-  - Continu: estrogène en continu + progestatif débuté de J11 à J13 et suspendu à J25. Hémorragie suit l'arrêt du progestatif.
-  - Discontinu: Estrogène pendant 25 jours puis arrêt 1 semaine + progestatif débuté de J11 à J13 et suspendu à J25 avec l'estrogène. Hémorragie suit l'arrêt du progestatif.
+- Signes d'hyper-estrogénie: réduire les doses  
+Mastodynies, gonflement abdominal, prise de poids, nervosité/irritabilité.
+- Signes d'hypo-estrogénie: augmenter les doses  
+Bouffées vasomotrices, sécheresse vaginale, troubles du sommeil, asthénie, frilosité, douleurs articulaires.
+
+### Arrêt du THM
+
+- Il peut être brutal ou dégressif  
+Effet identique sur la récidive du syndrome climatérique.
+- Il peut être repris en cas de dégradation de la qualité de vie (selon la balance B-R)
+- Poursuite du suivi médical osseux et cardiovasculaire
+
+### Découverte de masse mammaire
+
+- Suspendre le THM
+- Réaliser échographie mammaire + mammographie
+- Exploration habituelle du kyste (*CNGOF 2015*)
+- Reprise possible du THM si lésion bénigne ou contre-indication formelle si lésion maligne
 
 {{% /collapse %}}
 {{%collapse "Spécialités disponibles pour le THM" "show" %}}
@@ -493,6 +505,10 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus sur le THM" %}}
+
+### FMC gratuite
+
+{{< card-link title="Ménopause: L'Affaire de tous" url="https://www.pns-mooc.com/fr/mooc/1/presentation" subtitle="CNGOF, GEMVI">}}
 
 ### Balance bénéfices-risques du THM
 
@@ -549,11 +565,6 @@ Décroît après l'arrêt du traitement.
 - Le suivi est au moins annuel et le traitement réévalué tous les ans
 - Risques éventuels lors de consommation de soja et ses dérivés
 - Pas d'automédication
-
-{{% /collapse %}}
-{{%collapse "FMC gratuite" %}}
-
-{{< card-link title="Ménopause: L'Affaire de tous" url="https://www.pns-mooc.com/fr/mooc/1/presentation" subtitle="CNGOF, GEMVI">}}
 
 {{% /collapse %}}
 {{%collapse "Sources" %}}

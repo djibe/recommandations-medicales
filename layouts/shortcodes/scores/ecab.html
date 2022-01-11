@@ -57,9 +57,7 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreecab = document.getElementById('ecabScore')
     const textecab = document.getElementById('ecabText');
-    [...document.querySelectorAll('#score-ecab input[type=\"checkbox\"]')].forEach((ecabElem) => { ecabElem.addEventListener('click', () => {
-      ecab()
-    }) })
+    [...document.querySelectorAll('#score-ecab input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => { ecab() }) })
     const ecab = () => {
       let score = 0
       const ecabElemsChecked = document.querySelectorAll('#score-ecab input[type=\"checkbox\"]:checked')

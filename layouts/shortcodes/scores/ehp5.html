@@ -157,9 +157,7 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreEHP5 = document.getElementById('ehp5Score')
     const textEHP5 = document.getElementById('ehp5Text');
-    [...document.querySelectorAll('#score-ehp5 input[type=\"radio\"]')].forEach((EHP5Elem) => { EHP5Elem.addEventListener('click', () => {
-      ehp5()
-    }) })
+    [...document.querySelectorAll('#score-ehp5 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { ehp5() }) })
     const ehp5 = () => {
       let score = 0
       const EHP5ElemsChecked = document.querySelectorAll('#score-ehp5 input[type=\"radio\"]:checked')

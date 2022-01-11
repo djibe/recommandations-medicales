@@ -6,9 +6,9 @@ synonyms = ["Ostéoporose post-ménopausique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-04T17:43:41+02:00
 publishdate = 2021-12-06
-lastmod = 2022-01-02
+lastmod = 2022-01-11
 specialites = ["rhumatologie"]
-annees = "2018"
+annees = "2019"
 sources = ["SFRhumato", "GRIO", "IOF", "HAS"]
 tags = ["chute", "depistage", "EPS", "prevention", "vitamine d"]
 anglais = ["Osteoporosis"]
@@ -19,7 +19,7 @@ slider = true
 image = true
 imageWEBP = true
 imageSrc = "Illustration de l'ostéoporose par scientificanimations.com, CC BY-SA 4.0"
-todo = "https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, BDPM, pré-th alendronate, HAS 2005 chutes, prescription renforcement musculaire, dose THM prev osseuse, relecture Thomas Funck-Brentano demandée"
+todo = "https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, BDPM, pré-th alendronate, HAS 2005 chutes, prescription renforcement musculaire, dose THM prev osseuse"
 +++
 
 {{%article-summary%}}
@@ -66,7 +66,9 @@ FRAX®
 **DXA:** ostéodensitométrie par absorptiométrie biphotonique à rayons X  
 **ESF:** extrémité supérieure du fémur  
 **FESF:** fracture de l'extrémité supérieure du fémur  
-**FRAX®:** {{%lang%}}Fracture Risk Assessment Tool{{%/lang%}} (OMS)  
+**FRAX®:** {{%lang%}}Fracture Risk Assessment Tool{{%/lang%}} (*OMS*)  
+**GRIO:** Groupe de Recherche et d'Information sur les Ostéoporoses  
+**IOF:** {{%lang%}}International Osteoporosis Foundation{{%/lang%}}  
 **THM:** traitement hormonal de la ménopause
 
 ### Épidémiologie
@@ -180,12 +182,14 @@ Validé en France uniquement en cas de ménopause.
 
 {{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" title="Calcul du FRAX® en France sur le site officiel">}}
 
+> Calcul du FRAX® sur le [site officiel](https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12) pour les françaises.
+
 ### Décision de traitement selon le FRAX
 
 Le seuil d'intervention dépend de l'âge et la décision de traiter du clinicien.
 
 <div class="border card-body mt-3">
-  <label for="age">Âge de la patiente ménopausée</label>
+  <label for="age" class="mb-4">Âge de la patiente ménopausée</label>
   <div class="d-flex align-items-center">
     <input type="text" value="50" id="age" oninput="ageInput.value = this.value">
     <input type="number" class="form-alternative ml-3" id="ageInput" value="50" min="50" max="90">
@@ -463,7 +467,7 @@ Réévaluation avec ostéodensitométrie 2 ans après l'arrêt du traitement.
 graph TB
   menopause["<b>Ménopause et &ge; 1 parmi:</b><br>- Fracture fragilité chez parent<br>- IMC &lt; 19<br>- Ménopause précoce<br>- FRAX &gt; seuil pour l'âge<br>- Contrôle à 3-5 ans de DXA sans ttt<hr>- Sujet âgé à risque de chute<br>- Corticothérapie prolongée<br>- Endocrinopathie ou<br>pathologie déminéralisante"]
   style menopause stroke:#4150f5, stroke-width:1px
-    menopause --> DXA("- Ostéodensitométrie<br>T-score ?<br>- Prendre FRAX en compte")
+    menopause --> DXA(Ostéodensitométrie:<br>T-score<br>puis calcul du FRAX)
       DXA -- "&le; -2,5" --> Ostéoporose --> prev("- Mesures de prévention<br>- Bilan biologique<br>- T-score ?")
       style Ostéoporose stroke:#4150f5, stroke-width:1px
         prev -- "&le; -3" --> traitement("<b>Traitement osseux</b><hr>Biphosphonate,<br>raloxifène ou THM")
@@ -471,8 +475,6 @@ graph TB
       DXA -- "Entre -2,5 et -1" --> osteopenie(Ostéopénie) --> prevention("- Mesures de prévention<br>- Bilan biologique") -. "-2,5 à -2" .-> avis
       prevention -. "&le; -1,5 et corticoïdes".-> avis
       prevention --> recontrole("Réévaluation<br>à 3-5 ans")
-  perteTaille["- Perte de taille<br>&ge; 2 cm au long cours<br>ou &ge; 4 cm comparée à 20 ans<br>- Rachialgies après 55 ans<br>ou ménopause<br>- Corticoïdes chroniques"] --> radio(Radio dorso-lombaires) -- Fracture vertébrale --> x(Graphique suivant)
-  style perteTaille stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 > **THM** = traitement hormonal de la ménopause; **ttt** = traitement
@@ -481,12 +483,13 @@ graph TB
 
 {{< mermaid title="Prise en charge de l'ostéoporose fracturaire de la femme. JB Fron d'après SFRhumato 2018 et HAS 2019 BUM ostéoporose" >}}
 graph TB
+  perteTaille["- Perte de taille<br>&ge; 2 cm au long cours<br>ou &ge; 4 cm comparée à 20 ans<br>- Rachialgies après 55 ans<br>ou ménopause<br>- Corticoïdes chroniques"] --> radio(Radio dorso-lombaires) -- Fracture vertébrale --> bilan
   fracture[Fracture osseuse]
-  style fracture stroke:#4150f5, stroke-width:1px
+  style fracture stroke:#4150f5, stroke-width:2px
   fracture ==> bilan("- Facteurs de risque (chute, fracture)<br>- Bilan différentiel<br>- Mesures de prévention<br>- Ostéodensitométrie")
     bilan ==> severe("<b>Fracture sévère ?</b><hr>- Extrem sup fémur/humérus<br>- Vertèbre<br>- Pelvis, bassin, sacrum<br>- Diaphyse fémorale<br>- Fémur distal<br>- 3 côtes simultanées<br>- Tibia proximal")
-      severe -- Oui --> traitement("<b>T-score &le; -1</b><br>Alendronate<br>ou risédronate<hr><b>T-score &gt; -1</b><br>Avis rhumatologique<hr><b>FESF ou T-score &le; -3</b><br>Zolédronate IV") -- 3 ans --> DXA("Ostéodensitométrie<br>et avis rhumatologique")
       severe -- Oui vertébrale --> traitementVertebre("<b>T-score &le; -1</b><br>Biphosphonate<br>raloxifène ou THM<br>ou tériparatide<hr><b>T-score &gt; -1</b><br>Avis rhumatologique") -- 3 ans --> DXA
+      severe -- Oui --> traitement("<b>T-score &le; -1</b><br>Alendronate<br>ou risédronate<hr><b>T-score &gt; -1</b><br>Avis rhumatologique<hr><b>FESF ou T-score &le; -3</b><br>Zolédronate IV") -- 3 ans --> DXA("Ostéodensitométrie<br>et avis rhumatologique")
       severe -- Non sévère --> nonSevere("Tenir compte du FRAX<hr><b>T-score &le; -2</b><br>Biphosphonate,<br>raloxifène ou THM<hr><b>T-score entre -2 et -1</b><br>Avis rhumatologique") -- 3 ans --> DXA
     bilan -- Biologie anormale --> avisSpe
   fracture -- Non ostéoporotique --> nonOsteoporotique("- Crâne, face<br>- Rachis cervical + T1-T3<br>- Mains et orteils") --> etiologique(Bilan étiologique) --> avisSpe(Avis rhumatologique)
