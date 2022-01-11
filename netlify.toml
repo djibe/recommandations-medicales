@@ -68,6 +68,18 @@ HUGO_ENABLEGITINFO = "false"
     Cache-Control = "public, max-age=2419200, must-revalidate, stale-while-revalidate=86400"
 
 [[redirects]]
+  from = "https://recommandations-medicales.netlify.app/*"
+  to = "https://recomedicales.fr/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://recommandations-medicales.netlify.app/*"
+  to = "https://recomedicales.fr/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/guidelineyears/*"
   to = " /annees/:splat"
   status = 301
@@ -75,16 +87,6 @@ HUGO_ENABLEGITINFO = "false"
 [[redirects]]
   from = "/categories/*"
   to = " /specialites/:splat"
-  status = 301
-
-[[redirects]]
-  from = "/duree-sommeil-recommande/"
-  to = "/duree-sommeil-recommandee/"
-  status = 301
-
-[[redirects]]
-  from = "/annees/2012/"
-  to = "/annees/"
   status = 301
 
 [[plugins]]
