@@ -101,7 +101,7 @@ Respecter l'AMM de la spécialité:
 | Loflazépate d'éthyle     | Victan            |           77 | Anxiété, sevrage alcool            |
 | Lorazépam                | Temesta, gén      |        10-20 | Anxiété, sevrage alcool            |
 | Lormétazépam             | Ex-noctamide, gén |         13,5 | Insomnie occasionnelle/transitoire |
-| <b>Oxazépam</b>          | Seresta           |            8 | Anxiété, sevrage alcool            |
+| <strong>Oxazépam</strong>| Seresta           |            8 | Anxiété, sevrage alcool            |
 | Prazépam                 | Lysanxia, gén     |           65 | Anxiété, sevrage alcool            |
 | Zolpidem                 | Stilnox, gén      |          2,5 | Insomnie occasionnelle/transitoire |
 | Zopiclone                | Imovane, gén      |            5 | Insomnie occasionnelle/transitoire |

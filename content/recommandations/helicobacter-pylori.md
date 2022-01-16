@@ -18,7 +18,7 @@ draft = false
 image = true
 imageSrc = "Helicobacter pylori implantés sur la muqueuse gastrique, CDC/Dr Patricia Fields, Dr Collette Fitzgerald (PHIL #5715), 2004"
 flowchart = true
-todo = "comment diag quand rosacée, dépistage en AINS long cours maastricht III"
+todo = "reco enfant 2022, comment diag quand rosacée, dépistage en AINS long cours maastricht III"
 +++
 
 {{%article-summary%}}
@@ -517,7 +517,7 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 {{%collapse "Sources" %}}
 
 - [Groupe d'Études Français des Helicobacter (GEFH). Site officiel.](http://www.helicobacter.fr/)
-- [Bénéjat L et al. Épidémiologie de l’infection à Helicobacter pylori en France en 2020 : données de surveillance du CNR Campylobacters et Hélicobacters. Bull Epidémiol Hebd. 2021;(15):275-82.](http://beh.santepubliquefrance.fr/beh/2021/15/2021_15_2.html)
+- [Bénéjat L et al. Épidémiologie de l’infection à Helicobacter pylori en France en 2020 : données de surveillance du CNR Campylobacters et Hélicobacters. Bull Epidémiol Hebd. 2021;(15):275-82.](http://beh.santepubliquefrance.fr/beh/2021/15/2021_15_2.html)
 - [GEFH. Recommandations de prise en charge de l'infection à *Helicobacter pylori* en 2021 pour les hépato-gastro-entérologues. 04/03/2021. (PDF)](http://www.helicobacter.fr/wp-content/uploads/2021/03/Fiche-HP-specialistes-2021.pdf)
 - [SNFGE et al. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 24/06/2019.](https://www.snfge.org/content/2-cancer-de-lestomac)
 - [HAS. Helicobacter pylori : recherche et traitement. 26/03/2019](https://www.has-sante.fr/jcms/c_2911396/fr/helicobacter-pylori-recherche-et-traitement)
@@ -526,5 +526,9 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 - [Bonfils C. et Zuliani S. La prise de traitements chroniques au quotidien : évaluer les pratiques des patients et optimiser l’horaire de prise des médicaments. Sciences pharmaceutiques. 2015. dumas-01169981](https://dumas.ccsd.cnrs.fr/dumas-01169981/document)
 - [SNFGE. Infection à Helicobacter pylori de l'adulte. Conseil de pratique. Juin 2015. (PDF)](https://www.snfge.org/sites/default/files/recommandations/cp011-infection-a-helicobacter-pylori-de-ldulte_2015-06.pdf)
 - [HAS. Dépistage de l’infection à Helicobacter pylori. Avril 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-08/synthese_-_depistage_de_linfection_a_helicobacter_pylori.pdf)
+
+### À lire
+
+- [Kalach N. et al.; GFHGNP. Diagnostic et traitement de l'infection à Helicobacter pylori chez l'enfant. 2022.](http://www.helicobacter.fr/wp-content/uploads/2022/01/Diagnostic-et-traitement-de-linfection-%C3%A0-Helicobacter-pylori-chez-l%E2%80%99enfant.pdf)
 
 {{% /collapse %}}

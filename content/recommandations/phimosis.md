@@ -102,7 +102,7 @@ Définir si phimosis physiologique persistant ou secondaire.
 
 En 1<sup>re</sup> intention dans le phimosis congénital avec application de **corticoïdes locaux de classe forte** couplées à des **manœuvres douces de rétraction du prépuce** (études discordantes).
 
-Pourrait être utilisé sur tous les types de phimosis, donc systématiquement en 1re intention.  
+Pourrait être utilisé sur tous les types de phimosis, donc systématiquement en 1<sup>re</sup> intention.  
 Manipulations débutées de J1 à J14 selon les études.  
 Taux de succès voisin des 80% (79-96%).  
 **Valérate de béthamétasone 0,05-0,06%  (Betneval®, Celestoderm®) x 2/j pendant 4 semaines.**  

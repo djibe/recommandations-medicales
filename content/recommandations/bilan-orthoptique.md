@@ -9,7 +9,7 @@ date = "2022-01-10T16:46:32+01:00"
 publishdate = "2022-01-10"
 lastmod = "2022-01-10"
 specialites = ["ophtalmologie"]
-annees = "202"
+annees = "2021"
 sources = ["SNAO"]
 tags = ["cephalees", "enfant", "fatigue"]
 anglais = ["Orthoptic test"]
@@ -27,7 +27,12 @@ imageSrc = ""
 {{%/article-summary%}}
 {{%collapse "Indications au bilan orthoptique" "show" %}}
 
-{{%info%}}Prescription: Bilan orthoptique et rééducation si besoin{{%/info%}}
+{{%info%}}
+
+### Prescription
+
+Bilan orthoptique et rééducation si besoin
+{{%/info%}}
 
 Réaliser un bilan orthoptique devant:
 

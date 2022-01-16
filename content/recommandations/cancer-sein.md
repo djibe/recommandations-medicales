@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
 publishdate = "2021-11-03"
-lastmod = "2021-11-17"
+lastmod = "2022-01-13"
 specialites = ["gynecologie-obstetrique"]
 annees = "2017"
 sources = ["HAS", "InCa"]
@@ -194,6 +194,8 @@ Indications limitées:
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
+
+Réduction de la consommation d'alcool (*SPF*).
 
 {{%info%}}Mammographies avec double lecture tous les 2 ans chez les femmes de 50 à 74 ans asymptomatiques (sans facteur de risque élevé ou très élevé de cancer du sein){{%/info%}}
 

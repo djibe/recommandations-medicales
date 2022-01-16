@@ -311,7 +311,7 @@ Le THM peut être proposé en ménopause récente (< 10 ans) selon la balance b�
   - Effet inconstant, partiel et suspensif
   - Estrogènes par voie vaginale
   - Effet synergique avec lactobacilles
-- [Insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
+- [Insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}})  
 Au moins jusqu'à 51 ans.
 
 Précisions: aucun effet sur l'endomètre si durée < 2 ans.
@@ -321,7 +321,7 @@ Précisions: aucun effet sur l'endomètre si durée < 2 ans.
 Le traitement hormonal de la ménopause (THM) en pratique:
 
 - Débuté seulement après diagnostic clinique certain et < 10 ans après le début de la ménopause
-- Association: estradiol par voie cutanée 17bêta-estradiol ou valérate d’estradiol + progestérone micronisée ou dydrogestérone ≥ 12 j/m
+- Association: estradiol par voie cutanée 17bêta-estradiol ou valérate d’estradiol + progestérone micronisée ou dydrogestérone ≥ 12 j/mois
 - Utiliser les doses minimales efficaces
 - Hystérectomie  
 Estradiol cutané seul.
@@ -413,16 +413,14 @@ const chartOptions = {
       y: [
         new Date(Date.UTC(2021, 0, 25)).getTime(),
         new Date(Date.UTC(2021, 0, 31)).getTime()
-      ],
-      fillColor: '#ff2b6e'
+      ]
     },
     {
       x: 'Séquentiel discontinu',
       y: [
         new Date(Date.UTC(2021, 0, 25)).getTime(),
         new Date(Date.UTC(2021, 0, 31)).getTime()
-      ],
-      fillColor: '#ff2b6e'
+      ]
     }
     ]
   }

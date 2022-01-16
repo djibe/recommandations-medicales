@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2021-12-07"
+lastmod = "2022-01-13"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESH", "ESC"]
@@ -23,6 +23,7 @@ Ces recommandations concernent l'adulte ≥ 18 ans.
 
 {{%article-summary%}}
 
+- *Relecture en cours par dle club des jeunes hypertensiologues*
 - Tout adulte doit être dépisté au moins tous les 5 ans (20% non traités)
 - Conditions de mesures strictes
 - Appareil validé (voir *Mesure au cabinet*)

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2022-01-06"
+lastmod = "2022-01-13"
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -209,7 +209,7 @@ CCP (46€, une seule fois) avec TP AMO.
 
 {{%info%}}
 Les contraceptifs hormonaux sont habituellement démarrés le *1er jour des règles*.  
-Le << Quickstart >> ou démarrage à tout moment du cycle peut être proposé à toute femme avec les précautions suivantes: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1re plaquette.
+Le << Quickstart >> ou démarrage à tout moment du cycle peut être proposé à toute femme avec les précautions suivantes: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1<sup>re</sup> plaquette.
 {{%/info%}}
 
 **Effets secondaires habituels:** métrorragies (progestatifs ++), acné, prise de poids, troubles de libido ou de l'humeur.
@@ -567,6 +567,7 @@ const chartOptions = {
 - [HAS. Contraception chez la femme en post-partum. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1369193/fr/contraception-chez-la-femme-en-post-partum)
 - [HAS. Contraception : prescriptions et conseils aux femmes. Recommander les bonnes pratiques. Juillet 2019. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-02/1e_maj_contraception_prescription-conseil-femmes-060215.pdf)
 - [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018. (PDF)](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2018%252FCNGOF_RPC_2018-CONTRACEPTION.pdf)
+- CNGOF. Contraception du post-partum : recommandations pour la pratique clinique.
 - [HAS. Contraception : focus sur les méthodes efficaces. Actualités & Pratiques. Mai 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-05/contraception_focus_methodes_2013-05-22_18-09-35_548.pdf)
 
 ### À lire

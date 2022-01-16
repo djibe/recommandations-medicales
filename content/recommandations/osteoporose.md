@@ -24,6 +24,7 @@ todo = "https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/Ra
 
 {{%article-summary%}}
 
+- *Relecture en cours par des membres du GRIO*
 - Ces recommandations concernent la femme ménopausée
 - Dépister: {{< modal-btn modal-risque-fracture >}}facteurs de risque de fracture{{< /modal-btn >}}, de {{< modal-btn modal-risque-chute >}}chute{{< /modal-btn >}} et score FRAX (voir *Risque de fracture*)
 - Mesurer: score FRAX et ostéodensitométrie

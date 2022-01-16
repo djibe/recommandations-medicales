@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-12-21"
+lastmod = "2022-01-16"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["SFD", "EASD", "ADA", "ESC", "HAS"]
@@ -15,7 +15,7 @@ anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "objectifs Hba1c, glinides, IAG, rythme depistages pieds, oeil, télésurveillance, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2; -1 kg réduit de 43% le risque de DT2 (ESC 2019 diabetes)"
+todo = "glinides, IAG, rythme depistages pieds, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2. Post-IDM + diabète: simva + ezetimibe"
 +++
 
 {{%article-summary%}}
@@ -37,10 +37,12 @@ Diabète
     - ou HbA1c ≥ 6,5%
     - ou HGPO H2 ≥ 2 g/L
     - Symptômes et glycémie ≥ 2 g/L
+: L'atteinte coronaire est plus étendue, sévère et diffuse. 6-35% ont une ischémie myocardique sans angor et 50% des infarctus du myocarde sont **silencieux** (*SFD 2021 CAD*). Responsable majeur est le **LDL**.
 
 Hyperglycémie modérée à jeun (HGMAJ)
 : Ou *prédiabète*, correspond au stade précurseur du diabète.  
 La glycémie à jeun est mesurée de 1 à 1,25 g/L (HGPO H2 < 1,4 g/L).
+: La perte d'1 kg réduit de 43% le risque de DT2 (*ESC 2019 diabetes*).
 
 Rémission du diabète
 : Définitions *EASD 2021*:
@@ -70,7 +72,7 @@ Rémission du diabète
 - En cas de surpoids  
 Perte de poids (5-10%) ou chirurgie bariatrique.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) {{%class%}}(65-85%){{%/class%}}
+- Dépister des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}}
 - ALD 8 et proposer [Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
 
 {{%info%}}Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75% (*ESC 2019 diabetes*){{%/info%}}
@@ -247,7 +249,7 @@ Recommandations *ESC 2019 diabetes* sauf mention contraire.
 ### Aspirine
 
 - Prévention primaire
-  - Aspirine 75-100 mg/j envisageable si {{< modal-btn modal-rcv-diabete >}}(très) haut risque CV{{< /modal-btn >}} sans risque de saignement
+  - Aspirine 75-100 mg/j envisageable si {{< modal-btn modal-rcv-diabete >}}(très) haut risque CV{{< /modal-btn >}} ou coronaire sans risque de saignement
 - Prévention secondaire
   - 75-160 mg ± associé selon la pathologie
   - Prolonger bi-antiagrégants si bien toléré (max 3 ans)
@@ -255,12 +257,15 @@ Recommandations *ESC 2019 diabetes* sauf mention contraire.
 
 ### Estimation du risque cardiovasculaire
 
-- ECG annuel (si HTA ou suspicion de MCV)
+- ECG annuel (VPN très faible, *SFD 2021 CAD*)
 - Envisager IPS
-- Echodoppler TSA et MI
-- Avis cardio pour score calcique, ETT, épreuve d'effort
+- Échodoppler TSA et MI
+- Épreuve d'effort (*SFD 2021 CAD*)
+  - Évaluer les facteurs de risque: FRCV usuels, tour de taille, ancienneté du diabète, HbA1c, complications, [dysfonction érectile](https://doi.org/10.1016/j.diabet.2011.09.003), SAOS, NASH
+  - Indications: angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire (tous les 3-5 ans){{< /modal-btn >}} 
+  - Selon score calcique si {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}}
 
-### Bilan rénal
+### Rénal
 
 - Créatininémie, microalbuminurie sur échantillon annuels
 
@@ -281,6 +286,25 @@ Indications avant 65 ans:
   - NASH
 
 > *HAS 2009 obésité*
+
+### Dentaire
+
+Suivi annuel.
+
+> *IDF 2009*
+
+### Fibrate
+
+Envisager le fénofibrate chez les très/haut risque de CAD avec LDL dans la cible mais triglycérides > 2 g/L et HDL bas.
+
+> *SFD 2021 CAD*
+
+### Rétinopathie
+
+Dépistage annuel.  
+Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimal.
+
+> *SFD 2016*
 
 ### Vaccins
 
@@ -310,9 +334,17 @@ Indications avant 65 ans:
 - {{< references/sfd-dt2 >}}
 - [Riddle M.C. et al. Consensus report: definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021.](https://link.springer.com/article/10.1007/s00125-021-05542-z)
 - [Monnier L. et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. Volume 1. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
+- [Valensi P. et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. Volume 47. Issue 2. 2021.](https://doi.org/10.1016/j.diabet.2020.08.002)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/esc-diabetes >}}
 - {{< references/esc-hta >}}
+- [Borel AL et al; SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. Med Mal Metab 2018. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
+- [Massin P et al; SFD. Référentiel pour le dépistage et la surveillance des complications oculaires du patient diabétique. Validé par la Société Francophone du Diabète (SFD) et par la Société Française d’Ophtalmologie (SFO). Med Mal Metab. Décembre 2016;10(8):774-84. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_complications_oculaires_sfd_sfo_mmm.pdf)
+- [IDF. Oral health for people with diabetes. 2009. (PDF)](https://www.idf.org/component/attachments/attachments.html?id=729&task=download)
+
+### À lire
+
+- [Thivolet C. et al; SFD. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab 2021; 15: 437–448. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)
 
 {{% /collapse %}}
 {{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
@@ -323,6 +355,16 @@ Indications avant 65 ans:
 {{% modal title="Diabète et RCV selon ESC 2019" id="modal-rcv-diabete"%}}
 
 {{< clinique/risque-cardiovasculaire-diabete >}}
+
+{{% /modal %}}
+{{% modal title="Diabète et risque coronaire selon SFD 2021" id="modal-coronaire-diabete"%}}
+
+{{< clinique/risque-coronaire-diabete >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage du SAOS et diabète" id="modal-saos"%}}
+
+{{< scores/saos-diabete >}}
 
 {{% /modal %}}
 {{% modal title="Statines et réduction du LDL" id="modal-statine-intensite"%}}

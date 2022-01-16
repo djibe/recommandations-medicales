@@ -68,19 +68,7 @@ HUGO_ENABLEGITINFO = "false"
     Cache-Control = "public, max-age=2419200, must-revalidate, stale-while-revalidate=86400"
 
 [[redirects]]
-  from = "https://recommandations-medicales.netlify.app/"
-  to = "https://recomedicales.fr/"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "https://recommandations-medicales.netlify.app/*"
-  to = "https://recomedicales.fr/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "http://recommandations-medicales.netlify.app/*"
   to = "https://recomedicales.fr/:splat"
   status = 301
   force = true

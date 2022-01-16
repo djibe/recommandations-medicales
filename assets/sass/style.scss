@@ -465,6 +465,7 @@ blockquote {
   border-left: 0.3125rem solid var(--primary);
   margin-bottom: 1rem;
   padding: 0 1rem;
+  > p,
   > p a {
     font-size: 0.75rem;
     font-weight: 400;

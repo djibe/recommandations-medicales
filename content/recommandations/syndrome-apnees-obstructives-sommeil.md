@@ -472,7 +472,7 @@ IAH < 5
 Sévère ({{%lang%}}severe{{%/lang%}})  
 IAH ≥ 30
 
-Les évolutions successives de la définition des hypopnées par l’AASM entraîne de grands reclassements des groupes de patients par modifications profondes de l’IAH. En effet, le score a été établi avec des capteurs de l’époque et n’incluait pas les micro-éveils (ERIM).
+Les évolutions successives de la définition des hypopnées par l'AASM entraîne de grands reclassements des groupes de patients par modifications profondes de l'IAH. En effet, le score a été établi avec des capteurs de l’époque et n'incluait pas les micro-éveils (ERIM).
 
 ### Qui peut être médecin du sommeil?
 
