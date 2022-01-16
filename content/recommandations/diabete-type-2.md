@@ -68,7 +68,7 @@ Rémission du diabète
 - Activité physique  
 {{%class "text-black-secondary" %}}**Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense). Endurance et renforcement musculaire. Commencer par 1000 pas supplémentaires/j.{{%/class%}}
 - Cible d'HbA1c  
-{{< modal-btn modal-hba1c >}}Globalement **7%**{{< /modal-btn >}} {{%class%}}(*SFD 2019*){{%/class%}}.
+{{< modal-btn modal-hba1c >}}Globalement **7%**{{< /modal-btn >}} {{%class%}}(*SFD 2021*){{%/class%}}.
 - En cas de surpoids  
 Perte de poids (5-10%) ou chirurgie bariatrique.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
@@ -262,7 +262,7 @@ Recommandations *ESC 2019 diabetes* sauf mention contraire.
 - Échodoppler TSA et MI
 - Épreuve d'effort (*SFD 2021 CAD*)
   - Évaluer les facteurs de risque: FRCV usuels, tour de taille, ancienneté du diabète, HbA1c, complications, [dysfonction érectile](https://doi.org/10.1016/j.diabet.2011.09.003), SAOS, NASH
-  - Indications: angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire (tous les 3-5 ans){{< /modal-btn >}} 
+  - Indications: angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire (tous les 3-5 ans){{< /modal-btn >}}
   - Selon score calcique si {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}}
 
 ### Rénal
@@ -289,15 +289,11 @@ Indications avant 65 ans:
 
 ### Dentaire
 
-Suivi annuel.
-
-> *IDF 2009*
+Suivi annuel (*IDF 2009*)
 
 ### Fibrate
 
-Envisager le fénofibrate chez les très/haut risque de CAD avec LDL dans la cible mais triglycérides > 2 g/L et HDL bas.
-
-> *SFD 2021 CAD*
+Envisager le fénofibrate chez les {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL dans la cible mais triglycérides > 2 g/L et HDL bas. (*SFD 2021 CAD*)
 
 ### Rétinopathie
 

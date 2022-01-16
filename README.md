@@ -62,9 +62,26 @@ Pour se tenir informé sans naviguer de site en site.
 
 - **Vous !**
 - Plus de contenu
-- La certification des Sociétés savantes (en cours avec GEFH, AFEF, SFRMS)
+- La certification des Sociétés savantes (en cours avec GRIO, Club Jeunes Hypertensiologues)
 - La certification des autorités (HAS ...)
-- L'agrégation des actualités médicales
+
+## Utiliser le projet sur votre PC
+
+1. Télécharger [Git](https://git-scm.com/downloads) et [NodeJS](https://nodejs.org/en/)
+2. Sur votre PC, dans le dossier de votre choix, ouvrir une Commande et tapez `git clone https://github.com/djibe/recommandations-medicales.git`
+3. puis `npm install`
+4. puis `npm run server`, le site est accessible sur `http://localhost:1313/`
+
+[![Voir le code source sans rien installer](https://open.vscode.dev/badges/open-in-vscode.svg)](https://vscode.dev/github/djibe/recommandations-medicales)
+
+### Créer un nouvel article
+
+`npm run article`. Le fichier article.md est créé dans le dossier /content/recommandations.  
+Tous les articles sont au [format Markdown](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0) qui permet d'écrire du texte brut avec quelques enrichissements pour se concentrer sur le contenu.
+
+### Faciliter l'édition
+
+Je recommande l'éditeur de texte/code gratuit [Visual Studio Code](https://code.visualstudio.com/download) avec les extensions suivantes: Bracket Pair Colorizer 2, Code Spell Checker et French - Code Spell Checker, Color Highlight, EditorConfig for VS Code, Hugo Language and Syntax Support, Markdown All in One, npm-ui, Path Intellisense, TOML Language Support.
 
 ## Dernière compilation du site
 
