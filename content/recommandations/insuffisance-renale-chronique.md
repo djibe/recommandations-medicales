@@ -6,7 +6,7 @@ synonyms = ["et maladie rénale chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2021-12-06"
+lastmod = "2022-01-16"
 specialites = ["nephrologie"]
 annees = "2021"
 sources = ["HAS", "KDIGO", "ESC"]
@@ -17,19 +17,21 @@ draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration de l'insuffisance rénale par pch.vector / Freepik"
-todo = "ameliorer flowchart, consultation dediee Coter C + ALD ???, https://kdigo.org/guidelines/ckd-evaluation-and-management/, https://kdigo.org/guidelines/ckd-mbd/, CKD-EPI + surf corp, aliments riches K/P"
+todo = "ameliorer flowchart, consultation dediee Coter C + ALD ???, aliments riches K/P"
 +++
 
 {{% article-summary %}}
 
+- {{< modal-btn modal-creatinine >}}Situations où la créatinine n'est pas fiable{{< /modal-btn >}}
 - Dépistage annuel des populations à risque par créatininémie + albuminurie sur échantillon
-- Le diagnostic est biologique
+- 3 piliers: étiologie, DFGe et albuminurie
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Néphroprotection  
 {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, PA < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}...
 - Adaptation des traitements selon {{< scores/ckd-epi >}}
 - [Prévision de la progression de la MRC - score KFRE](https://kidneyfailurerisk.com/)
 - {{< modal-btn modal-nephrotoxiques >}}Principaux néphrotoxiques{{< /modal-btn >}}
+- Le suivi de l'enfant relève exclusivement du spécialiste
 
 {{%/article-summary%}}
 {{%collapse "Définitions"%}}
@@ -122,8 +124,7 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 
 - Antécédents personnels et familiaux de maladie rénale ou urinaire
 - Antécédents cardiovasculaires et {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}}
-- Facteurs de risque cardiovasculaire  
-Diabète, tabagisme...
+- FRCV: HTA, diabète, tabagisme, dyslipidémie, obésité
 - Exposition aux {{< modal-btn modal-nephrotoxiques >}}néphrotoxiques{{< /modal-btn >}}
   - Professionnelle  
   Plomb, mercure, cadmium, solvants organiques.
@@ -149,11 +150,11 @@ Diabète, tabagisme...
 > DFGe selon CKD-EPI en mL/min/1,73 m². Ajouter un T au stade quand patient greffé (ex: 4T)
 
 {{< table title="Classification de l'albuminurie selon KDIGO 2012" >}}
-| Stade | mg/mmol | mg/g    | Définition           |
-|-------|--------:|--------:|----------------------|
-| A1    | &lt; 3  | &lt; 30 | Normale              |
-| A2    | 3-30    | 30-300  | Modérément augmentée |
-| A3    | &gt; 30 | &gt; 300 | Augmentée           |
+| Stade | mg/mmol | mg/g    | mg/24h  | Définition           |
+|-------|--------:|--------:|--------:|----------------------|
+| A1    | &lt; 3  | &lt; 30 | &lt; 30 | Normale              |
+| A2    | 3-30    | 30-300  | 30-300  | Modérément augmentée |
+| A3    | &gt; 30 | &gt; 300 | &gt; 300 | Augmentée          |
 {{< /table >}}
 
 > Le terme de *microalbuminurie* n'est plus utilisé.
@@ -178,7 +179,7 @@ Considérée comme évolutive si présence de facteur ci-dessous (déclin annuel
 - {{%class%}}Physiologique si < 2 mL/min/1,73m²/an{{%/class%}}
 - {{%class%}}Modéré si ≥ 2 et < 5{{%/class%}}
 - [Score KFRE > 3% à 5 ans](https://kidneyfailurerisk.com/)
-- Déclin rapide du DFG ≥ 5
+- **Déclin rapide** si variation annuelle du DFG ≥ -5 mL/min/1,73m²
 - Présence d'une albuminurie (surtout si sévère > 500 mg/g)
 - HTA non contrôlée
 
@@ -209,10 +210,9 @@ ECBU + échantillon albuminurie/créatininurie
 Albuminémie, urémie, AgHBs, anticorps anti-HBs et anti-HBc, urée et sodium sur urines de 24h.
 - Anémie  
 Réticulocytes + ferritinémie.
-- Signes fonctionnels urinaires, hématurie  
-Échographie vésicale.
-- Goutte symptomatique  
-Uricémie.
+- **Confirmer une albuminurie** ≥ 30 mg/g (3 mg/mmol) sur un échantillon du matin
+- Signes fonctionnels urinaires, hématurie: échographie vésicale
+- Goutte symptomatique: uricémie
 
 {{%/collapse %}}
 {{%collapse "Suivi du patient insuffisant rénal" %}}
@@ -233,17 +233,17 @@ Uricémie.
   - Activité physique d'intensité modérée ≥ 150 min/semaine
   - {{< modal-btn modal-sel >}}Régime désodé < 5 g/j{{< /modal-btn >}} et hydrique 1,5 L/j (ni restreint ni forcé)
 - Contrôle tensionnel
-  - Seuil diagnostique ≥ 140/90 mmHg (160 si ≥ 80 ans, *ESC 2018*)
-  - PA cible < 120/90 mmHg (*KDIGO 2021*), < 150-160 si ≥ 80 ans (*HAS 2021*)
+  - Traitement si PA n'est pas dans la cible (*KDIGO 2021*)
+  - PA cible < 120/90 mmHg (*KDIGO 2021*), {{%class%}}< 150-160 si ≥ 80 ans (*HAS 2021*){{%/class%}}
   - Greffe < 130/80 mmHg (*KDIGO 2021*)
   - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} (ou {{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}) ± thiazidique ou anticalcique
   - Automesure tensionnelle
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,7 g/L et réduction ≥ 50%
   - {{< modal-btn modal-rcv >}}DFGe < 30{{< /modal-btn >}}: LDL cible < 0,55 g/L et réduction ≥ 50%
-- Albuminurie cible < 30 mg/mmol par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}  
+- **Albuminurie cible** < 30 mg/mmol par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}  
 < 3 mg/mmol chez le diabétique.
 - Protéines < 1 g/kg/j
-  - DFGe < 59: 0,6-0,8 g/kg/j
+  - DFGe < 60: 0,6-0,8 g/kg/j
   - Sauf chez la personne (très-) âgée
 - Vaccination
   - Grippe annuelle
@@ -252,7 +252,7 @@ Uricémie.
   - Sérologie [hépatite B]({{< relref "hepatite-b.md" >}}) ± vacciner  
   Cible anti-HBs > 10 UI/L.
 - Ferritinémie cible > 100 ng/mL
-- Si DFGe < 45
+- DFGe < 45
   - Suivi par néphrologue impératif
   - Protection du *capital veineux*
   - Vitamine D cible ≥ 75 nmol/L (*Souberbielle 2019*)
@@ -261,6 +261,7 @@ Uricémie.
   8% si IRC sévère ou terminale.
   - Suivi diabétologique impératif
   - Attention au risque hypoglycémique (sulfamide, glinide, insuline)
+- Bicarbonates < 22 mmol/L: supplémentation
 - Maladie professionnelle et prévention si expositions
 - TODO: Associations de patients
 
@@ -403,20 +404,25 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{%/collapse%}}
-{{%collapse "Sources" %}}
+{{%footer%}}
 
 - {{< references/sfd-dt2 >}}
 - [HAS. Maladie rénale chronique de l’adulte. Guide du parcours de soins. Juillet 2021.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
 - [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. Volume 99. Issue 3. 559 - 569.](https://doi.org/10.1016/j.kint.2020.10.026)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/esc-hta >}}
+- [Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2012 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney inter., Suppl. 2013; 3: 1–150. (PDF)](https://kdigo.org/wp-content/uploads/2017/02/KDIGO_2012_CKD_GL.pdf)
 
 ### À lire
 
 - [HAS. Suivi ambulatoire de l’adulte transplanté rénal au-delà de 3 mois après transplantation. Recommandations de bonne pratique. Novembre 2007.](https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation)
-- [Stevens PE, Levin A. Kidney Disease: Improving Global Outcomes Chronic Kidney Disease Guideline Development Work Group Members. Evaluation and management of chronic kidney disease: synopsis of the kidney disease: improving global outcomes 2012 clinical practice guideline. Ann Intern Med. 2013 Jun 4;158(11):825-30. (PDF)](https://kdigo.org/wp-content/uploads/2017/02/KDIGO_2012_CKD_GL.pdf)
 
-{{%/collapse%}}
+{{%/footer%}}
+{{% modal title="DFGe selon la créatinine ininterprétable selon KDIGO 2012" id="modal-creatinine"%}}
+
+{{< clinique/creatinine-inadaptee >}}
+
+{{% /modal %}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}

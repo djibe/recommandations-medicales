@@ -68,7 +68,7 @@ Convertir dans les 2 sens: nmol/L (unités internationales) et ng/mL.
   <label for="nmolInput">nmol/L</label>
   <input type="number" class="form-alternative" id="nmolInput" value="50" min="1" max="400" oninput="ngInput.value = Math.round(this.value * 0.4)">
   <label for="ngInput" class="ml-5">ng/mL</label>
-  <input type="number" style="width:68px" class="form-alternative" id="ngInput" value="20" oninput="nmolInput.value = Math.round(this.value * 2.5)">
+  <input type="number" style="width:68px" class="form-alternative" id="ngInput" value="20" oninput="nmolInput.value = Math.round(this.value * 2.496)">
 </div>
 
 {{%/collapse%}}

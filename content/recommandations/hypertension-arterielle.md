@@ -276,7 +276,7 @@ Bilan après jeûne de 12 heures:
 - Ionogramme sanguin, créatinine, CKD-EPI
 - Acide urique (marqueur de RCV)
 - ASAT ALAT GGT
-- BU, microalbuminurie sur échantillon
+- BU, albuminurie sur échantillon
 {{%/info%}}
 
 ### Conduite à tenir en découverte d'hypertension

@@ -198,7 +198,7 @@ ATCD arthrosique. Sensibilité, inconfort, œdème rétro-gonal ou du mollet, au
   - ASAT ALAT
   - Glycémie à jeun
   - Bilan lipidique
-  - Créatininémie, clairance CKD-EPI, microalbuminurie sur échantillon
+  - Créatininémie, DFGe CKD-EPI, albuminurie sur échantillon
 - Échodoppler artériel des membres inférieurs, aorte et TSA
 - ECG de repos
 - Consultation de cardiologie
