@@ -291,7 +291,7 @@ style depister stroke:#4150f5, stroke-width:1px
 {{< youtube id="YqY_zHXRgxQ" title="La prise de l'indice tibio-brachial (Dr Richard Belley)" >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%footer%}}
 
 - {{< references/sfd-dt2 >}}
 - [Mahé G. et al, the SFMV/SCVE group. Disparities between international guidelines (AHA/ESC/ESVS/ESVM/SVS) concerning - Lower extremity arterial disease: consensus of the French Society of Vascular Medicine (SFMV) and the French Society for Vascular and Endovascular Surgery (SCVE). Annals of Vascular Surgery. 2021.](https://doi.org/10.1016/j.avsg.2020.11.011)
@@ -306,7 +306,7 @@ style depister stroke:#4150f5, stroke-width:1px
 - [HAS. Guide ALD Artériopathie oblitérante des membres inférieurs. Mars 2007.](https://www.has-sante.fr/upload/docs/application/pdf/ald3_aomi_guide_cardiovasc_post_corrlemire_revuenp28avril__205.pdf)
 - [HAS. Prise en charge de l’artériopathie chronique oblitérante athéroscléreuse des membres inférieurs. Avril 2006.](https://www.has-sante.fr/jcms/c_272513/fr/prise-en-charge-de-l-arteriopathie-chronique-obliterante-atherosclereuse-des-membres-inferieurs-indications-medicamenteuses-de-revascularisation-et-de-reeducation)
 
-{{% /collapse %}}
+{{%/footer%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}

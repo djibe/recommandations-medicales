@@ -261,10 +261,12 @@ article {
 
 .recommandation__content {
   margin-bottom: 5rem;
-  section > .collapse {
+  section > .collapse,
+  footer > .collapse {
     margin-bottom: 3rem;
   }
-  section > h2 {
+  section > h2,
+  footer > h2 {
     border-top: 1px solid rgba(0, 0, 0, 0.12);
     margin: 0;
     padding: 1.25rem 0;

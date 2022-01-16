@@ -38,11 +38,11 @@ todo = ""
 
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%footer%}}
 
+- [Source 1](URL)
 
-
-{{% /collapse %}}
+{{%/footer%}}
 
 ≤≥±®œŒÈ³ÂSpO<sub>2</sub>
 [External link](https://discourse.gohugo.io/ "{rel='nofollow'}")

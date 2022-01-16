@@ -199,7 +199,7 @@ Selon la SFDermato, informer le patient:
 - des effets irritants fréquents des traitements locaux et des mesures à prendre pour les prévenir et les prendre en charge
 
 {{%/collapse%}}
-{{%collapse "Sources" %}}
+{{%footer%}}
 
 {{< card-link title="Recommandations Acné" url="https://reco.sfdermato.org/fr/recommandations-acn%C3%A9" subtitle="SFDermato">}}
 
@@ -217,5 +217,6 @@ Selon la SFDermato, informer le patient:
 
 - [CEDEF. Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
 - [SFD. Recommandations acné. Octobre 2015.](https://reco.sfdermato.org/fr/recommandations-acn%C3%A9)
+- Prescrisur, dermatoclic
 
-{{% /collapse %}}
+{{%/footer%}}

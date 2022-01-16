@@ -223,7 +223,7 @@ L'option la plus sûre est de ne pas consommer d'alcool en cas de:
 - Korsakoff (20% s'améliorent)
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%footer%}}
 
 - [HAS. Outil d’aide au repérage précoce et intervention brève : alcool, cannabis, tabac chez l’adulte. Janvier 2021.](https://www.has-sante.fr/jcms/c_1795221/fr/outil-d-aide-au-reperage-precoce-et-intervention-breve-alcool-cannabis-tabac-chez-l-adulte)
 - [Addictions France. Les repères de consommation des boissons alcooliques. Novembre 2018. (PDF)](https://addictions-france.org/datafolder/uploads/2021/02/Fiche-Reperes-Reperes-alcool.pdf)
@@ -245,7 +245,4 @@ L'option la plus sûre est de ne pas consommer d'alcool en cas de:
 - <https://www.ofdt.fr/BDD/publications/docs/TabAlcool2000-2018.pdf>
 - <https://www.insee.fr/fr/statistiques/1373390?sommaire=1373438>
 
-{{% /collapse %}}
-
-≤≥±®œŒÈ³ÂSpO<sub>2</sub>
-[External link](https://discourse.gohugo.io/ "{rel='nofollow'}")
+{{%/footer%}}

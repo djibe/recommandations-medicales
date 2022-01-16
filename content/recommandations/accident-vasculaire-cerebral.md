@@ -267,7 +267,7 @@ Si vous êtes témoin d’un de ces 3 signes, réagissez. Appelez immédiatement
 Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de troubles de l’équilibre, de maux de tête intenses ou d’une baisse de vision.
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%footer%}}
 
 - {{< references/sfd-dt2 >}}
 - [Kleindorfer DO et al. 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2021 Jul;52(7):e364-e467.](https://www.ahajournals.org/doi/10.1161/STR.0000000000000375)
@@ -280,7 +280,7 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 - [HAS. Accident vasculaire cérébral : méthodes de rééducation de la fonction motrice chez l’adulte. Juin 2012.](https://www.has-sante.fr/jcms/c_1334330/fr/accident-vasculaire-cerebral-methodes-de-reeducation-de-la-fonction-motrice-chez-l-adulte)
 - [HAS. Accident vasculaire cérébral :  prise en charge précoce. Mai 2009.](https://www.has-sante.fr/jcms/c_830203/fr/accident-vasculaire-cerebral-prise-en-charge-precoce-alerte-phase-prehospitaliere-phase-hospitaliere-initiale-indications-de-la-thrombolyse)
 
-{{% /collapse %}}
+{{%/footer%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}

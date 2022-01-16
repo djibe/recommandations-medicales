@@ -35,8 +35,8 @@ Préciser les dates de début et de fin
 Préciser l'adresse exacte de résidence durant le séjour.
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%footer%}}
 
 TODO
 
-{{% /collapse %}}
+{{%/footer%}}
