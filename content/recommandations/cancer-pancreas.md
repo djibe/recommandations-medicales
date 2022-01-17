@@ -105,8 +105,8 @@ Les récidives sont très élevées.
 [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr/)
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Neuzillet C et al. Thésaurus National de Cancérologie Digestive (TNCD). Dig Liver Dis. 2018 Dec. 50(12):1257-1271. 24/01/2021.](https://www.snfge.org/download/file/fid/4204)
 
-{{% /collapse %}}
+{{%/sources%}}

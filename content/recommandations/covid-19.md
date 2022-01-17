@@ -134,7 +134,7 @@ Le suivi est initié par l'ARS sans intervention du médecin.
 - [Covidom. Suivi des personnes infectées](https://inscription.covidom.fr/1)
 
 {{%/collapse%}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 ### Haut Conseil de la Santé Publique
 
@@ -149,4 +149,4 @@ Le suivi est initié par l'ARS sans intervention du médecin.
 - Santé Publique France. Définition de cas d’infection au SARS-CoV-2 (COVID-19). MAJ 07/05/2020.
 - [HCSP. Covid-19 : personnes à risque et mesures barrières spécifiques à ces personnes. 20/04/2020](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=807)
 
-{{% /collapse %}}
+{{%/sources%}}

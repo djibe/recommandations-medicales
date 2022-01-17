@@ -147,7 +147,7 @@ Indication: << e. Personnes ayant des relations sexuelles avec des partenaires m
 - PVVIH: azithromycine
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [HAS. Choix et durées d’antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes?id=p_3278764&preview=true)
 - [Prescrire Redaction. Chlamydiose liée à un rapport sexuel. Premiers choix Prescrire. Mars 2021.](https://prescrire.org/)
@@ -157,4 +157,4 @@ Indication: << e. Personnes ayant des relations sexuelles avec des partenaires m
 - [Ministère de la Santé. Infections sexuellement transmissibles (IST). 05/01/2016.](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/article/infections-sexuellement-transmissibles-ist)
 - [Anaes. Évaluation du dépistage des infections uro-génitales basses à Chlamydia trachomatis en France. 2003.](https://www.has-sante.fr/jcms/c_464119/fr/evaluation-du-depistage-des-infections-uro-genitales-basses-a-chlamydia-trachomatis-en-france-2003)
 
-{{% /collapse %}}
+{{%/sources%}}

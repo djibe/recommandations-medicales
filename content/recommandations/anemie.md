@@ -229,7 +229,7 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%footer%}}
+{{%sources%}}
 
 - [Snook J et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051.](https://gut.bmj.com/content/70/11/2030)
 - [Abitbol V. Comment explorer et traiter une carence martiale ? POST'U 2021 - Paris](https://www.fmcgastro.org/texte-postu/postu-2021-paris/comment-explorer-et-traiter-une-carence-martiale-3/)
@@ -239,4 +239,4 @@ graph TB
 - [OMS. Concentrations en hémoglobine permettant de diagnostiquer l’anémie et d’en évaluer la sévérité. Système ’informations nutritionnelles sur les vitamines et les minéraux. Genève, Organisation mondiale de la Santé, 2011 (WHO/NMH/NHD/MNM/11.1)](https://www.who.int/fr/publications-detail/WHO-NMH-NHD-MNM-11.1)
 - [HAS. Choix des examens du métabolisme du fer en cas de suspicion de carence en fer. Mars 2011.](https://www.has-sante.fr/jcms/c_1051506/fr/choix-des-examens-du-metabolisme-du-fer-en-cas-de-suspicion-de-carence-en-fer-rapport-d-evaluation)
 
-{{%/footer%}}
+{{%/sources%}}

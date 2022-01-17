@@ -280,7 +280,7 @@ graph TB
 {{< /mermaid >}}
 
 {{%/collapse%}}
-{{%footer%}}
+{{%sources%}}
 
 [**NB.** Demande de prise en charge à 100% par des députés sans réponse du gouvernement](https://questions.assemblee-nationale.fr/q15/15-4922QE.htm)
 
@@ -290,4 +290,4 @@ graph TB
 - Prescrire Redaction. Algie vasculaire de la face, en bref. Janvier 2012.
 - [CiSMeF. Algie vasculaire de la face](https://www.cismef.org/page/algie-vasculaire-de-la-face)
 
-{{%/footer%}}
+{{%/sources%}}

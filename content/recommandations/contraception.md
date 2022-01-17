@@ -560,7 +560,7 @@ const chartOptions = {
 > Méthodes de contraception des françaises de 15 à 49 ans en 2016. Dr JB Fron d'après [Rahib D 2017](https://www.santepubliquefrance.fr/determinants-de-sante/sante-sexuelle/documents/enquetes-etudes/barometre-sante-2016-contraception-quatre-ans-apres-la-crise-de-la-pilule-les-evolutions-se-poursuivent)
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [HAS. Contraception : consultations initiale et de suivi. Mars 2020.](https://www.has-sante.fr/jcms/p_3122291/fr/contraception-consultations-initiale-et-de-suivi)
 - [HAS. Contraception chez la femme à risque cardiovasculaire. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1638478/fr/contraception-chez-la-femme-a-risque-cardiovasculaire)
@@ -579,7 +579,7 @@ const chartOptions = {
 - https://www.has-sante.fr/jcms/c_1757924/fr/efficacite-des-methodes-contraceptives
 - https://www.has-sante.fr/jcms/p_3261764/fr/contraception
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}

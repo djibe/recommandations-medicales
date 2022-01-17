@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CELLIER (SNFGE)"
 date = 2020-04-16T12:31:11+02:00
 publishdate = 2020-04-16
-lastmod = 2021-09-15
+lastmod = 2022-01-17
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["EssCD", "HAS", "SNFGE"]
@@ -150,7 +150,7 @@ Le diagnostic est affirmé par un faisceau d'arguments cliniques, biologiques, p
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
 
-### Sérologie anti-transglutaminase
+### Sérologie cœliaque
 
 En cas de faible risque clinique.  
 {{%class%}}De 32 à 156.000 devraient être réalisées chaque année.{{%/class%}}
@@ -158,13 +158,14 @@ En cas de faible risque clinique.
 {{%info%}}
 Réalisée à jeun pendant exposition au gluten:
 
-- IgA anti-transglutaminase (anticorps IgA anti-TGt)
+- IgA anti-transglutaminase (anticorps IgA anti-TGt, meilleure sensibilité)
 - et dosage des IgA totales
+- (et IgA anti-endomysium dit IgA-EMA selon *BSG 2018*)
 {{%/info%}}
 
 Adresser au gastro-entérologue pour confirmation en cas de résultat positif.
 
-En cas de déficit en IgA: sérologie IgG anti-TG2 et IgG anti-EMA avec EOGD.
+En cas de déficit en IgA: sérologie IgG anti-TG2 et IgG anti-endomysium avec EOGD.
 
 ### Biopsie du grêle en fibroscopie sous AL
 
@@ -295,7 +296,8 @@ graph TB
 {{%collapse "Sources" %}}
 
 - [Prescrire. Intolérance au gluten - L'essentiel sur les soins de premier choix. Janvier 2020.](https://prescrire.org)
-- [EssCD. Guideline for coeliac disease and other gluten-related disorders. April 2019](https://doi.org/10.1177%2F2050640619844125)
+- [Al-Toma A et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. UEG Journal, 7: 583-613.](https://doi.org/10.1177%2F2050640619844125)
+- [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut 2018;67:1380-1399.](https://gut.bmj.com/content/gutjnl/67/8/1380.full.pdf)
 - [Olives JP. Maladie coeliaque : de l’enfance à l’âge adulte. POST'U 2013 - Paris](https://www.fmcgastro.org/postu-main/postu-2013-paris/textes-postu-2013-paris/maladie-coeliaque-de-lenfance-a-lage-adulte/)
 - [HAS. Recherche d'anticorps dans la maladie cœliaque et suivi de l'observance du régime sans gluten. Janvier 2007. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/synthese_maladie_coeliaque.pdf)
 - [SNFGE. Maladie cœliaque](https://www.snfge.org/content/maladie-coeliaque)

@@ -91,9 +91,9 @@ Risque d'atrophie testiculaire secondaire et ses retentissements sur la stérili
 En l'absence de testicule ou simple présence d'un reliquat, exérèse de ce dernier et mise en place de prothèse à l'adolescence.
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Collège d'Urologie. Pathologie génito-scrotale chez le garçon et chez l'homme. Item 48 UE2.](https://www.urofrance.org/congres-et-formations/formation-initiale/referentiel-du-college/pathologie-genito-scrotale.html)
 - [Ameli. Comprendre la cryptorchidie ou testicule non descendu. 09/04/2020.](https://www.ameli.fr/assure/sante/themes/cryptorchidie-testicule-non-descendu-ectopie-testiculaire/comprendre-cryptorchidie)
 
-{{% /collapse %}}
+{{%/sources%}}

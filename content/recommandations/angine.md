@@ -118,7 +118,7 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%footer%}}
+{{%sources%}}
 
 - [HAS. Choix et durées d’antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [Journal Officiel. Arrêté du 6 mars 2020 relatif à l'autorisation du protocole de coopération « Prise en charge de l'odynophagie par l'infirmier diplômé d'Etat ou le pharmacien d'officine dans le cadre d'une structure pluri-professionnelle ». 08/03/2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041697956)
@@ -126,4 +126,4 @@ graph TB
 - [SPILF/HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l’adulte. Novembre 2016.](https://www.has-sante.fr/jcms/c_2722754/fr/choix-et-duree-de-l-antibiotherapie-rhinopharyngite-aigue-et-angine-aigue-de-l-enfant)
 - [Campus d'ORL - Collège Français d'ORL et de Chirurgie Cervico-faciale. Item 146 (ex item 77) : Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant.](http://campus.cerimes.fr/orl/enseignement/angine/site/html/5.html)
 
-{{%/footer%}}
+{{%/sources%}}

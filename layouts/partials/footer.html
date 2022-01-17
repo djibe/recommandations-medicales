@@ -146,16 +146,8 @@ document.addEventListener( 'DOMContentLoaded', event => {
 
 {{- end -}}
 
-{{- with .Params.paludisme }}
-{{ partial "outils/paludisme" . }}
-{{- end -}}
-
 {{- with .Params.paracetamol }}
 {{ partial "outils/paracetamol" . }}
-{{- end -}}
-
-{{- with .Params.epreuveeffort }}
-{{ partial "outils/epreuve-effort" . }}
 {{- end -}}
 
 {{- with .Params.datatable }}

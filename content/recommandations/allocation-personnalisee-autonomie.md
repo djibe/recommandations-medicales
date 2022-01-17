@@ -105,11 +105,11 @@ La prestation est accordée pour 5 ans, automatiquement renouvelable.
 - En dernier recours: Faire appel à la commission centrale d’aide sociale, voire le recours en cassation devant le Conseil d’État
 
 {{% /collapse %}}
-{{%footer%}}
+{{%sources%}}
 
 - [Service-Public. Allocation personnalisée d'autonomie (Apa). 01/01/2022.](https://www.service-public.fr/particuliers/vosdroits/F10009)
 - 60 Millions de consommateurs n°520. Novembre 2016.
 - DGCCRF. Contrôle de l’information des consommateurs sur les prix des produits et services d’aide à l’autonomie. 28 octobre 2016.
 - Fizzala A. Autonomix, un outil d’évaluation de mesures portant sur les personnes âgées dépendantes. DREES Économie et statistique n°481-482. 2015.
 
-{{%footer%}}
+{{%sources%}}

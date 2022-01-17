@@ -471,7 +471,7 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 ### Traitements
 
 {{% /collapse %}}
-{{%footer%}}
+{{%sources%}}
 
 - [GINA. Global strategy for the asthma management and prevention. 2021.](https://ginasthma.org/reports/)
 - [Gaillard EA. et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5–16 years. Eur Respir J 2021.](https://doi.org/10.1183/13993003.04173-2020)
@@ -488,7 +488,7 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 - GINA 2021
 - SP2A
 
-{{%/footer%}}
+{{%/sources%}}
 {{% modal title="Bêta2-agonistes de courte durée d'action inhalés" id="modal-ttt-baca"%}}
 
 {{< traitements/baca >}}

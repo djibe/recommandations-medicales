@@ -43,8 +43,11 @@ Limitée aux jeunes enfants.
 - Sinusite frontale  
 À partir de 10 ans.
 
-{{% /collapse %}}
-{{%collapse "Complications" %}}
+### Diagnostic différentiel
+
+Rhinopharyngite aiguë.
+
+### Complications
 
 Rechercher systématiquement des signes de complication de la sinusite:
 
@@ -78,11 +81,6 @@ Autres arguments en faveur d'une sinusite:
 
 Chez le petit enfant: Fièvre et œdème palpébral d'apparition brutale débutant au canthus interne.  
 Urgence médicale, hospitalisation, antibiothérapie intraveineuse.
-
-{{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-Rhinopharyngite aiguë
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

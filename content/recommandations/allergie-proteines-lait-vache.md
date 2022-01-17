@@ -91,9 +91,9 @@ Nécessaire chez < 2% des enfants.
 - Nutramigen Puramino
 
 {{% /collapse %}}
-{{%footer%}}
+{{%sources%}}
 
 - [CIRIHA. Le lait - Les allergies croisées.](http://ciriha.org/index.php/allergies-et-intolerances-2/le-lait/les-allergies-croisees-et-associees)
 - [EBMFrance. Allergie au lait de vache.](https://www.ebmfrance.net/fr/Pages/ebm/ebm00645.aspx)
 
-{{%/footer%}}
+{{%/sources%}}

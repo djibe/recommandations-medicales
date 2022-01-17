@@ -126,10 +126,10 @@ Mise à jour du calendrier vaccinal de l'entourage (voir [Vaccination]({{< relre
 - Prophylaxie en morsure animale ou de tiques
 
 {{% /collapse %}}
-{{%footer%}}
+{{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
 - [HCSP. Vaccination des personnes immunodéprimées ou aspléniques. Recommandations actualisées. 22/05/2015.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
 - [Omedit Centre. Prévention des infections chez le splénectomisé et dans l'asplénie fonctionnelle. 2010. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5198.pdf)
 
-{{%/footer%}}
+{{%/sources%}}

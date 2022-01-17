@@ -39,11 +39,11 @@ Renouvellement possible tous les 3 mois ensuite.
 > [Arrêté du 11/03/2019](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038219812)
 
 {{% /collapse %}}
-{{%footer%}}
+{{%sources%}}
 
 
 
-{{%/footer%}}
+{{%/sources%}}
 
 ≤≥±®œŒÈ³ÂSpO<sub>2</sub>
 [External link](https://discourse.gohugo.io/ "{rel='nofollow'}")

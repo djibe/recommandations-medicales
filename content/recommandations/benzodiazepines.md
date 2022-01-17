@@ -182,13 +182,13 @@ Dr ...
 [Calendrier de suivi de l’arrêt des benzodiazépines (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_calendrier_de_suivi.pdf)
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - Prescrire Redaction. Benzodiazépines ou apparentés. Prescrire. Janvier 2021.
 - [HAS. Arrêt des benzodiazépines et médicaments apparentés : démarche du médecin traitant en ambulatoire. Recommandation de bonne pratique. Juin 2015.](https://www.has-sante.fr/jcms/c_2038262/fr/arret-des-benzodiazepines-et-medicaments-apparentes-demarche-du-medecin-traitant-en-ambulatoire)
 - [HAS. Modalités d'arrêt des benzodiazépines et médicaments apparentés chez le patient âgé. Recommandations professionnelles. Octobre 2007.](https://www.has-sante.fr/jcms/c_601509/fr/modalites-d-arret-des-benzodiazepines-et-medicaments-apparentes-chez-le-patient-age)
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Échelle cognitive d’attachement aux benzodiazépines" id="modal-score-ecab"%}}
 
 {{< scores/ecab >}}

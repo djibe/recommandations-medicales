@@ -227,11 +227,11 @@ Surveillance par soignant pendant 1h.
 {{< /table >}}
 
 {{% /collapse %}}
-{{%footer%}}
+{{%sources%}}
 
 - [Pediadol. Un groupe d'experts de la douleur de l'enfant.](https://pediadol.org/)
 - [Pediadol. Douleur de l'enfant - L'essentiel. 2019](https://issuu.com/carco_publi/docs/guide_essentiel_interactif)
 - [Comité de lutte contre la douleur Hôpitaux de Toulouse. Médicaments antalgiques en pédiatrie. 01/09/2017. (PDF)](https://www.chu-toulouse.fr/IMG/pdf/09_antalgiques_tableau_pediatrie_v6f.pdf)
 - [HAS. Prise en charge médicamenteuse de la douleur chez l'enfant : alternatives à la codéine. Janvier 2016.](https://www.has-sante.fr/jcms/c_2010340/fr/prise-en-charge-medicamenteuse-de-la-douleur-chez-l-enfant-alternatives-a-la-codeine)
 
-{{%/footer%}}
+{{%/sources%}}

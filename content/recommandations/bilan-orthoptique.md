@@ -56,9 +56,9 @@ Réaliser un bilan orthoptique devant:
 Ne joue pas, ne fixe pas, ne s’intéresse pas à son entourage.
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Syndicat National Autonome des Orthoptistes](https://www.orthoptiste.pro/l-orthoptie/ou-et-quand-consulter/)
 - [Godts D et al. Binocular Vision in Chronic Fatigue Syndrome. Am Orthopt J. 2016 Jan;66(1):92-97.](https://pubmed.ncbi.nlm.nih.gov/27799582/)
 
-{{% /collapse %}}
+{{%/sources%}}

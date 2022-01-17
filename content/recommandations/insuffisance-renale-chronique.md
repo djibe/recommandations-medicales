@@ -404,7 +404,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{%/collapse%}}
-{{%footer%}}
+{{%sources%}}
 
 - {{< references/sfd-dt2 >}}
 - [HAS. Maladie rénale chronique de l’adulte. Guide du parcours de soins. Juillet 2021.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
@@ -417,7 +417,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 
 - [HAS. Suivi ambulatoire de l’adulte transplanté rénal au-delà de 3 mois après transplantation. Recommandations de bonne pratique. Novembre 2007.](https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation)
 
-{{%/footer%}}
+{{%/sources%}}
 {{% modal title="DFGe selon la créatinine ininterprétable selon KDIGO 2012" id="modal-creatinine"%}}
 
 {{< clinique/creatinine-inadaptee >}}

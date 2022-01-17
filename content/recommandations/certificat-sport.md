@@ -208,7 +208,7 @@ Informer: les microbes ne sont pas éliminés par la sueur.
 {{< card-link title="Guide méthodologique Sport et Santé" url="https://www.mooc-sportsante.com/course/guide-methodologique/" subtitle="Par l'IRBMS">}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Marijon E. et al. Prévention de la mort subite du sportif : état des lieux. Archives des Maladies du Coeur et des Vaisseaux - Pratique. Volume 2021. Issue 299. Pages 2-9.](https://doi.org/10.1016/J.AMCP.2021.04.003)
 - [Journal Officiel. Décret 2021-564. 07/05/2021.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486809)
@@ -221,7 +221,7 @@ Informer: les microbes ne sont pas éliminés par la sueur.
 - [Club des Cardiologues du Sport](https://www.clubcardiosport.com/)
 - [Dr Augé D. Visite de CNCI. (PDF)](https://www.hjd.asso.fr/sites/default/files/Visite%20de%20non%20contre-indication%20%C3%A0%20la%20pratique%20sportive%20V2.pdf)
 
-### Non encore lues
+### À lire
 
 - [Recommendations for competitive sports participation in athletes with cardiovascular disease: A consensus document from the Study Group of Sports Cardiology of the Working Group of Cardiac Rehabilitation and Exercise Physiology and the Working Group of Myocardial and Pericardial Diseases of the European Society of Cardiology.](https://academic.oup.com/eurheartj/article/26/14/1422/560900)
 - [Recommendations for participation in leisure-time physical activity and competitive sports of patients with arrhythmias and potentially arrhythmogenic conditions Part II: Ventricular arrhythmias, channelopathies and implantable defibrillators.](https://academic.oup.com/eurjpc/article/13/5/676/5933252)
@@ -231,7 +231,7 @@ Informer: les microbes ne sont pas éliminés par la sueur.
 - METs: https://www.ncbi.nlm.nih.gov/pubmed/8232456
 - https://medical.ffessm.fr/actualites/recommandations-de-bonnes-pratiques-suivi-medical-du-plongeur
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-risque-cv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}

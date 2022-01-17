@@ -6,32 +6,25 @@ synonyms = ["Test d'effort"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-07T19:51:41+02:00
 publishdate = 2020-09-07
-lastmod = 2021-01-13
+lastmod = 2022-01-17
 specialites = ["cardiologie"]
-annees = "2018"
-sources = ["SFC"]
+annees = "2021"
+sources = ["SFC", "SFD"]
 tags = ["epreuve effort", "diabete", "HTA"]
 anglais = ["Cardiopulmonary exercise test (CPET)"]
 sctid = "447346005"
 draft = false
-epreuveeffort = true
 image = true
 imageSrc = "Photo de Mizzou CAFNR sur Foter.com / CC BY-NC"
-todo = "TODO: summary, probabilite pre-test, rcv score"
+todo = "probabilite pre-test, rcv score"
 +++
 
-{{%article-summary%}}
-
-À compléter
-
-{{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Angor
-:  
-    - Douleur thoracique rétrosternale déclenchée par: l'effort, la digestion ou le stress émotionnel.  
-    - Douleur qui dure plusieurs minutes (< 20 minutes).  
-    - Douleur soulagée par le repos ou la nitroglycérine.
+: - Douleur thoracique rétrosternale déclenchée par: l'effort, la digestion ou le stress émotionnel
+  - Douleur qui dure plusieurs minutes (< 20 minutes)
+  - Douleur soulagée par le repos ou la nitroglycérine
 : La **probabilité pré-test** (probabilité de coronaropathie pré-test d'effort) est calculée selon l'âge, le sexe, l'angor.
 
 Angor typique
@@ -43,14 +36,12 @@ Angor atypique
 Angor peu probable
 : 1 seul critère rempli.
 
-EE
-: Épreuve d'effort
+### Abréviations
 
-EEVO<sub>2</sub>
-: Épreuve d'effort cardiorespiratoire
-
-RCV
-: Risque cardiovasculaire
+**EE:** épreuve d'effort  
+**EEVO<sub>2</sub>:** épreuve d'effort cardiorespiratoire  
+**HTAP:** hypertension artérielle pulmonaire  
+**RCV:** {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}}
 
 {{%/collapse%}}
 {{%collapse "Indications par pathologie ou symptômes" "show" %}}
@@ -58,46 +49,46 @@ RCV
 ### Profil cardiovasculaire
 
 <div class="alert" id="epreuve-effort">
-<input type="checkbox" id="chip-tout" class="d-none">
+<input type="checkbox" id="chip-tout" class="d-input-none">
 <label for="chip-tout" class="chip chip-action chip-filter collapsed chip-activator">Afficher tout</label>
 
-<input type="checkbox" id="chip-aomi" class="d-none">
+<input type="checkbox" id="chip-aomi" class="d-input-none">
 <label for="chip-aomi" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-aomi">AOMI</label>
 
-<input type="checkbox" id="chip-congenital" class="d-none">
+<input type="checkbox" id="chip-congenital" class="d-input-none">
 <label for="chip-congenital" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-congenital">Cardiopathie congénitale</label>
 
-<input type="checkbox" id="chip-chir" class="d-none">
+<input type="checkbox" id="chip-chir" class="d-input-none">
 <label for="chip-chir" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-chir">Chirurgie cardiaque</label>
 
-<input type="checkbox" id="chip-coro" class="d-none">
+<input type="checkbox" id="chip-coro" class="d-input-none">
 <label for="chip-coro" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-coro">Coronaropathie</label>
 
-<input type="checkbox" id="chip-diabete" class="d-none">
+<input type="checkbox" id="chip-diabete" class="d-input-none">
 <label for="chip-diabete" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-diabete">Diabète</label>
 
-<input type="checkbox" id="chip-hta" class="d-none">
+<input type="checkbox" id="chip-hta" class="d-input-none">
 <label for="chip-hta" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-hta">Hypertension</label>
 
-<input type="checkbox" id="chip-htap" class="d-none">
+<input type="checkbox" id="chip-htap" class="d-input-none">
 <label for="chip-htap" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-htap">HTAP</label>
 
-<input type="checkbox" id="chip-hypertrophie" class="d-none">
+<input type="checkbox" id="chip-hypertrophie" class="d-input-none">
 <label for="chip-hypertrophie" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-hypertrophie">Hypertrophie</label>
 
-<input type="checkbox" id="chip-ic" class="d-none">
+<input type="checkbox" id="chip-ic" class="d-input-none">
 <label for="chip-ic" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-ic">Insuffisance cardiaque</label>
 
-<input type="checkbox" id="chip-pm" class="d-none">
+<input type="checkbox" id="chip-pm" class="d-input-none">
 <label for="chip-pm" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-pm">Pacemaker/DAI/Troubles du rythme</label>
 
-<input type="checkbox" id="chip-sport" class="d-none">
+<input type="checkbox" id="chip-sport" class="d-input-none">
 <label for="chip-sport" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-sport">Sportif ou profession à risque</label>
 
-<input type="checkbox" id="chip-sympt" class="d-none">
+<input type="checkbox" id="chip-sympt" class="d-input-none">
 <label for="chip-sympt" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-sympt">Symptômes cardiaques</label>
 
-<input type="checkbox" id="chip-valvulopathie" class="d-none">
+<input type="checkbox" id="chip-valvulopathie" class="d-input-none">
 <label for="chip-valvulopathie" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-valvulopathie">Valvulopathie</label>
 
 <hr class="my-3">
@@ -112,7 +103,7 @@ RCV
 </div>
 <div class="collapse" id="collapse-congenital">
 
-#### Cardiopathie congénitale {.typography-headline-6}
+#### Cardiopathie congénitale {.typography-headline-6 .mt-5}
 
 Épreuve d'effort doit être envisagée
 : Enfant avec cardiopathie congénitale.
@@ -121,15 +112,15 @@ RCV
 </div>
 <div class="collapse" id="collapse-chir">
 
-#### Chirurgie cardiaque {.typography-headline-6}
+#### Chirurgie cardiaque {.typography-headline-6 .mt-5}
 
 Épreuve d'effort doit être envisagée
-: Avant la chirurgie cardiaque si faible capacité fonctionnelle (< 4 METs) et/ou haut risque cardiovasculaire.
+: Avant la chirurgie cardiaque si faible capacité fonctionnelle (< 4 METs) et/ou {{< modal-btn modal-rcv >}}haut risque cardiovasculaire{{< /modal-btn >}}.
 
 </div>
 <div class="collapse" id="collapse-coro">
 
-#### Coronaropathie {.typography-headline-6}
+#### Coronaropathie {.typography-headline-6 .mt-5}
 
 Épreuve d'effort recommandée
 : Probabilité pré-test de coronaropathie **Élevée**.
@@ -137,7 +128,7 @@ RCV
 : Pour la prescription adaptée d'activité physique et réadaptation cardiaque.
 
 Épreuve d'effort doit être envisagée
-: Probabilité pré-test de coronaropathie <b>Faible</b> ET risque cardiovasculaire élevé ou très élevé.
+: Probabilité pré-test de coronaropathie **Faible** ET {{< modal-btn modal-rcv >}}risque cardiovasculaire (très) élevé{{< /modal-btn >}}.
 : Évaluation après revascularisation coronarienne (pour référence et suivi)
 
 Épreuve d'effort peut être envisagée
@@ -146,18 +137,18 @@ RCV
 </div>
 <div class="collapse" id="collapse-diabete">
 
-#### Diabète {.typography-headline-6}
+#### Diabète {.typography-headline-6 .mt-5}
 
 Épreuve d'effort recommandée
-: Avec angor et ECG normal.
+: Angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire (répétée tous les 3-5 ans){{< /modal-btn >}}
+: Après score calcique si {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}}
 
-Épreuve d'effort doit être envisagée
-: Sédentaire avec angor d'effort.
+> *SFD 2021 CAD*
 
 </div>
 <div class="collapse" id="collapse-hta">
 
-#### Hypertension artérielle {.typography-headline-6}
+#### Hypertension artérielle {.typography-headline-6 .mt-5}
 
 Épreuve d'effort recommandée
 : Avec angor et ECG normal.
@@ -168,7 +159,7 @@ RCV
 </div>
 <div class="collapse" id="collapse-htap">
 
-#### HTAP {.typography-headline-6}
+#### HTAP {.typography-headline-6 .mt-5}
 
 Épreuve d'effort recommandée
 : Au diagnostic puis tous les 6 à 12 mois (EEVO<sub>2</sub>).
@@ -179,7 +170,7 @@ RCV
 </div>
 <div class="collapse" id="collapse-hypertrophie">
 
-#### Cardiomyopathie hypertrophique {.typography-headline-6}
+#### Cardiomyopathie hypertrophique {.typography-headline-6 .mt-5}
 
 Épreuve d'effort doit être envisagée
 : Pour évaluer la capacité fonctionnelle et les marqueurs pronostiques (arythmie ventriculaire, réponse tensionnelle à l'effort)(EEVO<sub>2</sub>).  
@@ -188,7 +179,7 @@ Répéter tous les 1-2 ans pour évaluer la réponse tensionnelle et l'efficacit
 </div>
 <div class="collapse" id="collapse-ic">
 
-#### Insuffisance cardiaque {.typography-headline-6}
+#### Insuffisance cardiaque {.typography-headline-6 .mt-5}
 
 Épreuve d'effort recommandée
 : Pour optimiser l’entraînement à l’effort (EEVO<sub>2</sub>).
@@ -200,7 +191,7 @@ Répéter tous les 1-2 ans pour évaluer la réponse tensionnelle et l'efficacit
 </div>
 <div class="collapse" id="collapse-pm">
 
-#### Pacemaker, défibrillateur et troubles du rythme {.typography-headline-6}
+#### Pacemaker, défibrillateur et troubles du rythme {.typography-headline-6 .mt-5}
 
 Épreuve d'effort recommandée
 : Pour tous les patients TODO:
@@ -216,20 +207,20 @@ Répéter tous les 1-2 ans pour évaluer la réponse tensionnelle et l'efficacit
 </div>
 <div class="collapse" id="collapse-sport">
 
-#### Sportif ou métier à risque accidentel {.typography-headline-6}
+#### Sportif ou métier à risque accidentel {.typography-headline-6 .mt-5}
 
 Épreuve d'effort recommandée
 : Sportif avec angor.
-: Sportif avec risque cardiovasculaire élevé ou très élevé.
+: Sportif avec {{< modal-btn modal-rcv >}}risque cardiovasculaire (très) élevé{{< /modal-btn >}}.
 
 Épreuve d'effort peut être envisagée
-: Asymptomatique avec risque cardiovasculaire modéré et profession à risque (pompier, militaire, policier, pilote).
-: Asymptomatique avec risque cardiovasculaire modéré débutant une activité intense (> 6 METs).
+: Asymptomatique avec {{< modal-btn modal-rcv >}}risque CV modéré{{< /modal-btn >}} et profession à risque (pompier, militaire, policier, pilote).
+: Asymptomatique avec {{< modal-btn modal-rcv >}}risque CV modéré{{< /modal-btn >}} débutant une activité intense (> 6 METs).
 
 </div>
 <div class="collapse" id="collapse-sympt">
 
-#### Symptômes cardiovasculaires {.typography-headline-6}
+#### Symptômes cardiovasculaires {.typography-headline-6 .mt-5}
 
 Épreuve d'effort recommandée
 : Symptômes à l'effort: Syncope, fatigue anormale, palpitations.
@@ -238,7 +229,7 @@ Répéter tous les 1-2 ans pour évaluer la réponse tensionnelle et l'efficacit
 </div>
 <div class="collapse" id="collapse-valvulopathie">
 
-#### Valvulopathie {.typography-headline-6}
+#### Valvulopathie {.typography-headline-6 .mt-5}
 
 Épreuve d'effort doit être envisagée
 : Sténose aortique sévère asymptomatique (EEVO<sub>2</sub>).
@@ -250,6 +241,19 @@ Répéter tous les 1-2 ans pour évaluer la réponse tensionnelle et l'efficacit
 {.mt-5}
 
 </div>
+<script>
+window.onload = () => {
+  $(function () {
+    $('#chip-tout').on('click', function(){
+      if ( $(this).prop('checked') ) {
+        $('.chip-filter.collapsed:not(".chip-activator")').trigger('click');
+      } else {
+        $('.chip-filter:not(".chip-activator"):not(".collapsed")').trigger('click');
+      }
+    });
+  });
+};
+</script>
 
 {{%/collapse%}}
 {{%collapse "Indications par grade" %}}
@@ -269,7 +273,8 @@ Syncope, fatigue anormale, palpitations
 Au diagnostic puis tous les 6 à 12 mois (EEVO<sub>2</sub>).
 - AOMI
 - HTA avec angor et ECG normal
-- Diabète avec angor et ECG normal
+- Diabète avec angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire (répétée tous les 3-5 ans){{< /modal-btn >}}  
+Après score calcique si {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} (*SFD 2021 CAD*)
 - Femme > 50 ans avec angor et ECG normal
 - Sportif
   - avec angor
@@ -291,7 +296,6 @@ Répéter tous les 1-2 ans pour évaluer la réponse tensionnelle et l'efficacit
 - HTAP avec aggravation des symptômes (EEVO<sub>2</sub>).
 - HTA  
 Pour préciser le pronostic ou prescrire un programme d'entraînement physique adapté
-- Diabétique sédentaire avec angor d'effort
 - Avant chirurgie cardiaque si faible capacité fonctionnelle (< 4 METs)  
 et/ou haut RCV
 - Enfant avec cardiopathie congénitale
@@ -340,8 +344,18 @@ ou débutant une activité intense (> 6 METs)
 - PA > 200/110 mmHg (voire moins selon l’âge du patient)
 
 {{% /collapse %}}
-{{%collapse "Source" %}}
+{{%sources%}}
 
 [SFC. Recommandations de la Société Française de Cardiologie pour les épreuves d'effort. 2018.](https://sfcardio.fr/publication/recommandations-pour-les-epreuves-deffort)
 
-{{% /collapse %}}
+{{%/sources%}}
+{{% modal title="Diabète et risque coronaire selon SFD 2021" id="modal-coronaire-diabete"%}}
+
+{{< clinique/risque-coronaire-diabete >}}
+
+{{% /modal %}}
+{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
+
+{{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}

@@ -574,7 +574,7 @@ graph TB
 **[SPLF: vidéos pour la maîtrise des inhalateurs](https://splf.fr/videos-zephir/)**
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Zysman M. et al. Optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. Position de la Société de pneumologie de langue française. Actualisation 2021. Revue des Maladies Respiratoires. Volume 38. Issue 5. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/optimisation-du-traitement-BPCO.pdf)
 - [Wedzicha JA et al. Prevention of COPD exacerbations: a European Respiratory Society/American Thoracic Society guideline. Eur Respir J 2017; 50: 1602265.](https://doi.org/10.1183/13993003.02265-2016)
@@ -590,7 +590,7 @@ graph TB
 - [Jouneau S. et al. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017. FR, EN. (PDF)](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
 - [Zysman M. et al. Propositions de la SPLF pour l’optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016. (PDF)](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}
 <!-- Scores -->
 {{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}
 

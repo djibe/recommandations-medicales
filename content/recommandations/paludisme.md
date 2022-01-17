@@ -6,7 +6,7 @@ synonyms = ["Malaria"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-17T12:42:00+02:00
 publishdate = 2021-02-17
-lastmod = 2021-10-19
+lastmod = 2022-01-17
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["MinSante", "Pasteur"]
@@ -15,7 +15,6 @@ anglais = ["Malaria"]
 sctid = "61462000"
 draft = false
 slider = true
-paludisme = true
 image = true
 imageSrc = "Culicidae, Anopheles sp. Photo de Techuser sur Foter.com / CC BY-NC-ND"
 todo = "ttt ambulatoire accès palustre, piqures, http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/028.pdf, http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5222.pdf, https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-166-nb.pdf"
@@ -94,7 +93,7 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 
 {{%warning%}}La prophylaxie n'élimine pas complètement le risque infectieux{{%/warning%}}
 
-<div class="card card-body">
+<div class="card card-body mb-4">
   <p class="card-title">Prophylaxie palustre selon le poids</p>
   <div class="form-group">
     <label for="weight">Poids</label>
@@ -115,8 +114,97 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
   <p class="card-text mb-1">Chloroquine</p>
   <p id="nivaquine">1 cp par jour ou 4 cuillères-mesure par jour (100 mg)</p>
 </div>
+<script>
+window.onload = () => {
+  $(function () {
+    const Slider = $('#weight');
+    const Input = $('#weightInput');
+    const min = 5;
+    const max = 60;
+    const Nivaquine = $('#nivaquine');
+    const Atovaquone = $('#atovaquone');
+    const Mefloquine = $('#mefloquine');
+    const Doxycycline = $('#doxycycline');
+    Slider.ionRangeSlider({
+      skin: 'material',
+      min: min,
+      max: max,
+      postfix: ' kg',
+      max_postfix: '+',
+      extra_classes: 'flex-fill'
+    });
+    let sliderInstance = Slider.data('ionRangeSlider');
+    Input.on('input', function() {
+        let val = this.value;
+        // Validate Slider
+        if (val < min) {
+            val = min;
+        } else if (val > max) {
+            val = max;
+        }
+        sliderInstance.update({
+            from: val
+        });
+    });
+    Slider.on('change', function() {
+      let weight = Slider.val();
+      // Nivaquine
+      if ( weight <= 10 ) {
+        str = '1 cuillère-mesure (25 mg) 1 jour sur 2';
+      } else if ( weight >= 10 && weight < 23 ) {
+        str = '1 cuillère-mesure (25 mg) par jour';
+      } else if ( weight >= 23 && weight < 37 ) {
+        str = '2 cuillères-mesure (50 mg) par jour';
+      } else if ( weight >= 37 && weight < 52 ) {
+        str = '3 cuillères-mesure (75 mg) par jour';
+      } else if ( weight >= 52 ) {
+        str = '1 cp par jour ou 4 cuillères-mesure par jour (100 mg)';
+      }
+      Nivaquine.html(str);
+      // Atovaquone
+      atoHtml = "<br><br>À débuter la veille ou le jour du départ et poursuivre 7 jours après le retour.<br>La prise en continu est limitée à 3 mois consécutifs.";
+      if ( weight < 11) {
+        str2 = 'Pas de traitement adapté';
+      } else if ( weight >= 11 && weight <= 20 ) {
+        str2 = `1 cp (62,5/25 mg) par jour pendant le repas à heure fixe ${atoHtml}`;
+      } else if ( weight >= 21 && weight <= 30 ) {
+        str2 = `2 cp (62,5/25 mg) par jour en 1 prise pendant le repas à heure fixe ${atoHtml}`;
+      } else if ( weight >= 31 && weight <= 39 ) {
+        str2 = `3 cp (62,5/25 mg) par jour en 1 prise pendant le repas à heure fixe ${atoHtml}`;
+      } else if ( weight >= 40 ) {
+        str2 = `1 cp (250/100 mg) par jour pendant le repas à heure fixe ${atoHtml}`;
+      }
+      Atovaquone.html(str2);
+      // Méfloquine
+      mefloHtml = "<br><br>À débuter au moins 10 jours avant le départ et poursuivre 3 semaines après le retour.<br>Au mieux 3 semaines avant pour évaluer correctement la tolérance.";
+      if ( weight < 15) {
+        str3 = 'Pas de traitement adapté';
+      } else if ( weight >= 15 && weight <= 19 ) {
+        str3 = `1/4 cp à 250 mg 1 fois par semaine ${mefloHtml}`;
+      } else if ( weight >= 20 && weight <= 30 ) {
+        str3 = `1/2 cp à 250 mg 1 fois par semaine ${mefloHtml}`;
+      } else if ( weight >= 31 && weight <= 45 ) {
+        str3 = `3/4 cp à 250 mg 1 fois par semaine ${mefloHtml}`;
+      } else if ( weight >= 45 ) {
+        str3 = `1 cp à 250 mg 1 fois par semaine ${mefloHtml}`;
+      }
+      Mefloquine.html(str3);
+      // Doxycycline
+      doxyHtml = `pendant le dîner <span class="text-muted">(si +8 ans)</span><br><br>À débuter le jour de l’arrivée et poursuivre 4 semaines après le retour.<br>Débuter au mieux 3 semaines avant pour évaluer correctement la tolérance.<br>Prendre pendant le dîner, au moins 1h avant le coucher.`;
+      if ( weight < 20) {
+        str4 = 'Contre-indiquée avant 8 ans';
+      } else if ( weight >= 20 && weight < 40 ) {
+        str4 = `1 cp à 50 mg ${doxyHtml}`;
+      } else if ( weight >= 40 ) {
+        str4 = `1 cp à 100 mg ${doxyHtml}`;
+      }
+      Doxycycline.html(str4);
+    });
+  });
+};
+</script>
 
-{{%info%}}Un vaccin contre le paludisme existe (RTS,S), recommandé par l'OMS au Ghana, Kenya et Malawi (*(OMS)[https://www.who.int/news/item/06-10-2021-who-recommends-groundbreaking-malaria-vaccine-for-children-at-risk]*){{%/info%}}
+{{%info%}}Un vaccin contre le paludisme existe (RTS,S), recommandé par l'OMS pour les enfants du Ghana, Kenya et Malawi (*[OMS](https://www.who.int/news/item/06-10-2021-who-recommends-groundbreaking-malaria-vaccine-for-children-at-risk)*){{%/info%}}
 
 ### Chloroquine
 
@@ -130,7 +218,8 @@ Chloroquine 100 mg 1 cp par jour
 1 cuillère-mesure (25 mg), 1 jour sur 2
 
 {{%info%}}
-À débuter le jour du départ et poursuivre 4 semaines après le retour.  
+À débuter le jour du départ et poursuivre 4 semaines après le retour.
+
 **Contraception efficace** pour hommes et femmes jusqu'à **8 mois** après l'arrêt du traitement (soit 9 mois après le retour).  
 Contre-indiqué si grossesse ou allaitement.
 {{%/info%}}
@@ -197,9 +286,9 @@ Contre-indiqué avant 8 ans et pendant la grossesse.
 {{%/info%}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Institut Pasteur. Recommandations générales - Prévention du paludisme.](https://www.pasteur.fr/fr/centre-medical/vaccination/recommandations-generales#prvention-du-paludisme)
 - [CMIT. Paludisme. ECN.Pilly 2020. UE 6 166. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-166-nb.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}

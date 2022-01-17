@@ -309,7 +309,7 @@ TSH régulière.
 {{< youtube id="QXlT9651svA" title="Palpation des seins (Dr Jean-Philippe Harlicot)" >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [InCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
 - [InCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. Octobre 2017.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
@@ -319,7 +319,7 @@ TSH régulière.
 
 [InCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. Octobre 2021.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Score d'Eisinger et consultation génétique" id="modal-eisinger"%}}
 
 {{< scores/eisinger >}}

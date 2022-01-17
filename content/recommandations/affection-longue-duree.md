@@ -114,8 +114,8 @@ La demande d'ALD exonérante pour enfant < 16 ans se cote C 2,5 (soit 57,50€).
 Demande d'ALD hors liste ou non exonérante, il faut coter l'acte C 1,5 (soit 34,50€ la consultation).
 
 {{% /collapse %}}
-{{%footer%}}
+{{%sources%}}
 
 - [Ameli.fr Médecins. Qu’est-ce qu’une affection de longue durée ?. 04/08/2020](https://www.ameli.fr/medecin/exercice-liberal/presciption-prise-charge/situation-patient-ald-affection-longue-duree/definition-ald)
 
-{{%/footer%}}
+{{%/sources%}}

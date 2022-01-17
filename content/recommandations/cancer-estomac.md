@@ -180,7 +180,7 @@ NFS, folates x 1/an.
 [Guide patients de l'InCa sur les traitements des cancers de l'estomac](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-l-estomac/Points-cles).
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Nousbaum JB. et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Estomac. BEH. Santé Publique France. 2021.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-estomac)
 - [Zaanan A. Bilan pré-thérapeutique et traitement péri-opératoire des adénocarcinomes de l’estomac. POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/bilan-pre-therapeutique-et-traitement-peri-operatoire-des-adenocarcinomes-de-lestomac/)
@@ -191,7 +191,7 @@ NFS, folates x 1/an.
 - [HAS. Cancer de l'estomac. Guide ALD. Septembre 2011.](https://www.has-sante.fr/jcms/c_1105137/fr/ald-n-30-cancer-de-l-estomac)
 - [Collège Français des Pathologistes (CoPath). Tumeurs de l'estomac. Item 300.](http://campus.cerimes.fr/anatomie-pathologique/enseignement/anapath_19/site/html/2.html)
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
 
 {{< scores/mna >}}

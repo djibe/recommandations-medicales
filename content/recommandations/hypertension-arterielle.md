@@ -23,7 +23,7 @@ Ces recommandations concernent l'adulte ≥ 18 ans.
 
 {{%article-summary%}}
 
-- *Relecture en cours par dle club des jeunes hypertensiologues*
+- *Relecture en cours par le club des jeunes hypertensiologues*
 - Tout adulte doit être dépisté au moins tous les 5 ans (20% non traités)
 - Conditions de mesures strictes
 - Appareil validé (voir *Mesure au cabinet*)
@@ -415,7 +415,7 @@ Contre-indications aux IEC/ARA2 et inhibiteurs de la rénine.
 {{< card-link title="Blood pressure monitoring" url="https://stridebp.dayonetech.uk/login.aspx" subtitle="Par les ESH et ISH">}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Stergiou GS et al. 2021 European Society of Hypertension practice guidelines for office and out-of-office blood pressure measurement. J Hypertens. 2021;39(7):1293-1302.](https://doi.org/10.1097/hjh.0000000000002843)
 - [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. Volume 99. Issue 3. 559-569.](https://doi.org/10.1016/j.kint.2020.10.026)
@@ -428,7 +428,7 @@ Contre-indications aux IEC/ARA2 et inhibiteurs de la rénine.
 
 - [Xi B et al. Establishing International Blood Pressure References Among Nonoverweight Children and Adolescents Aged 6 to 17 Years. Circulation. 2016;133(4):398-408.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729639/#SD1)
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}

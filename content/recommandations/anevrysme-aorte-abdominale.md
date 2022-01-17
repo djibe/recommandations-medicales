@@ -75,11 +75,11 @@ Imagerie complémentaire par angio-scanner ou angio-IRM si images anormales.
 **NB.** Le traitement des AAA < 50 mm n’a montré aucun bénéfice par rapport à l’abstention.
 
 {{%/collapse%}}
-{{%footer%}}
+{{%sources%}}
 
 - [Aboyans V. et al. 2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS). 2017.](https://doi.org/10.1093/eurheartj/ehx095)
 - [Robert M. et al; Santé Publique France. Anévrismes de l'aorte abdominale et dissections aortiques : patients hospitalisés et mortalité, France, 2000-2013. Bulletin Epidémiologique Hebdomadaire, 2015, n°. 38-39, p. 724-32.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/anevrisme-de-l-aorte-abdominale/documents/article/anevrismes-de-l-aorte-abdominale-et-dissections-aortiques-patients-hospitalises-et-mortalite-france-2000-2013)
 - [European Society of Cardiology. Guidelines on the diagnosis and treatment of aortic diseases. 2014.](https://doi.org/10.1093/eurheartj/ehu281)
 - [Haute Autorité de Santé. Dépistage et prévention des anévrismes de l’aorte abdominale. Novembre 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2013-02/aaa_fiche_med_vfinale.pdf)
 
-{{%footer%}}
+{{%sources%}}

@@ -199,7 +199,7 @@ Selon la SFDermato, informer le patient:
 - des effets irritants fréquents des traitements locaux et des mesures à prendre pour les prévenir et les prendre en charge
 
 {{%/collapse%}}
-{{%footer%}}
+{{%sources%}}
 
 {{< card-link title="Recommandations Acné" url="https://reco.sfdermato.org/fr/recommandations-acn%C3%A9" subtitle="SFDermato">}}
 
@@ -219,4 +219,4 @@ Selon la SFDermato, informer le patient:
 - [SFD. Recommandations acné. Octobre 2015.](https://reco.sfdermato.org/fr/recommandations-acn%C3%A9)
 - Prescrisur, dermatoclic
 
-{{%/footer%}}
+{{%/sources%}}

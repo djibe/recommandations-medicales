@@ -325,7 +325,7 @@ Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimal.
 > *ESC 2019 diabetes*
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - {{< references/sfd-dt2 >}}
 - [Riddle M.C. et al. Consensus report: definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021.](https://link.springer.com/article/10.1007/s00125-021-05542-z)
@@ -342,7 +342,7 @@ Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimal.
 
 - [Thivolet C. et al; SFD. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab 2021; 15: 437–448. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}

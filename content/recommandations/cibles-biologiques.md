@@ -48,7 +48,6 @@ todo = "LDL"
 | Calcium  | Ménopausée           | 1-1,2 g/j              | SFR 2018 ostéoporose |
 | Calcium  | EHPAD                | 1,2 g/j                | Annweiler C 2018 |
 | Vitamine D | 18 mois - 5 ans    | 80-100.000 x 2 l'hiver | SFPed 2012 |
-
 {{< /table >}}
 
 {{% /collapse %}}

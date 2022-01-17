@@ -156,7 +156,7 @@ graph TB
 > **NB.** Le risque infectieux n'est pas traité ici
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Ameli. La contraception d’urgence gratuite et anonyme pour les mineures. 02/03/2021.](https://www.ameli.fr/assure/sante/themes/contraception-urgence/contraception-gratuite-anonyme-mineures)
 - [HAS. Contraception d’urgence : dispensation en officine. 17/09/2019.](https://www.has-sante.fr/jcms/c_1759990/fr/contraception-d-urgence-dispensation-en-officine)
@@ -164,4 +164,4 @@ graph TB
 - [Rahib D., Lydié N. Contraception. Baromètre de Santé Publique France 2016. Santé Publique France. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/sante-sexuelle/documents/rapport-synthese/barometre-de-sante-publique-france-2016.-contraception.-la-contraception-d-urgence-des-delais-de-prise-toujours-sous-estimes)
 - [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018.](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2018%252FCNGOF_RPC_2018-CONTRACEPTION.pdf&i=21002)
 
-{{% /collapse %}}
+{{%/sources%}}
