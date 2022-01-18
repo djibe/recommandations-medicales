@@ -7,10 +7,10 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CELLIER (SNFGE)"
 date = 2020-04-16T12:31:11+02:00
 publishdate = 2020-04-16
-lastmod = 2022-01-17
+lastmod = 2022-01-18
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
-sources = ["EssCD", "HAS", "SNFGE"]
+sources = ["ESsCD", "HAS", "SNFGE"]
 tags = ["allergie", "cephalees", "coeliaque", "depistage", "EOGD", "fatigue", "ferritine", "neuropathie", "TSH"]
 anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac gluten sensitivity (NCGS) and extra-intestinal manifestations related to gluten)", "celiac"]
 sctid = "396331005"
@@ -37,15 +37,15 @@ ou EOGD d'emblée selon la probabilité clinique sans régime
 Maladie cœliaque (**MC**)
 : Maladie chronique auto-immune polyorganique affectant l’intestin grêle chez des personnes génétiquement prédisposées, déclenchée par l’ingestion de **gluten**.  
 Elle peut survenir à tout âge, prédomine chez la femme et la majorité des patients n’est pas diagnostiquée.  
-À l’origine d’une malabsorption et ses complications.
-: {{%class%}} Peut être classée en sous-types selon des critères cliniques, immunologiques et histopathologiques.{{%/class%}}
+À l’origine d’une malabsorption et ses complications (carence, dénutrition, fracture).
 
 ### Complications de la maladie cœliaque
 
-- **Carences en micronutriments, fer, vitamine B9 et B12**.
+- **Carences en micronutriments, fer, vitamine B9 et B12**
 - Lymphome digestif
 - Surrisque de maladies auto-immunes
 - Altération de la qualité de vie
+- [Ostéoporose]({{< relref "osteoporose.md" >}}) et fracture osseuse
 
 ### Épidémiologie
 
@@ -160,7 +160,6 @@ Réalisée à jeun pendant exposition au gluten:
 
 - IgA anti-transglutaminase (anticorps IgA anti-TGt, meilleure sensibilité)
 - et dosage des IgA totales
-- (et IgA anti-endomysium dit IgA-EMA selon *BSG 2018*)
 {{%/info%}}
 
 Adresser au gastro-entérologue pour confirmation en cas de résultat positif.
@@ -175,9 +174,7 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 
 
 **NB. La biopsie du grêle est décommandée chez l'enfant (AG nécessaire) par mauvais rapport bénéfice/risque.**
 
-{{% warning %}}
-En cas de maladie prouvée, dépistage de tout les proches au 1<sup>er</sup> degré.
-{{% /warning %}}
+{{% warning %}}Dépistage de tous les proches au 1<sup>er</sup> degré{{% /warning %}}
 
 ### Autres examens
 
@@ -187,24 +184,29 @@ En cas de maladie prouvée, dépistage de tout les proches au 1<sup>er</sup> deg
 - ASAT, ALAT, GGT
 - Calcémie, phosphates
 - Vitamine D
+- **Ostéodensitométrie** au diagnostic puis tous les 2-5 ans selon la densité osseuse (*ESsCD 2019*)
 
 {{%/collapse%}}
 {{%collapse "Traitement de la maladie cœliaque" %}}
 
 **NB.** Le diagnostic de certitude doit être posé par un gastro-entérologue.
 
+{{%info%}}<< Chez les enfants qui se portent bien après l’arrêt du régime sans gluten, la recherche des auto-anticorps est **à répéter tous les ans**, afin de vérifier qu’il n’y a pas de rechutes >>{{%/info%}}
+
 - **Régime sans gluten à vie**
-  - Blé, épeautre, froment, orge, seigle.
+  - Blé, épeautre, froment, orge, seigle
   - Indications: adulte avec biopsie positive, enfant avec sérologie positive
   - Amélioration des symptômes à partir de 2 semaines d'éviction
   - Les symptômes disparaissent le plus souvent après 6 à 12 mois de traitement
-  - **NB.** << Chez les enfants qui se portent bien après l’arrêt du régime sans gluten, la recherche des auto-anticorps est **à répéter tous les ans**, afin de vérifier qu’il n’y a pas de rechutes >>.
-- Encourager un régime alimentaire riche en fibres  
-  Riz entier, maïs, pommes de terres, légumes.  
-  L’avoine est toléré par la plupart des personnes (surveiller la survenue de complications).
+  - [Prise en charge partielle par l'Assurance Maladie](https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/remboursement-aliments-sans-gluten-ameli)
+- Encourager un régime alimentaire riche en fibres
+  - Riz entier, maïs, pommes de terres, légumes
+  - Avoine toléré par la plupart des personnes (surveiller la survenue de complications)
 - Bilan par diététicien pour identifier des carences
 - **Recontrôler la sérologie initiale à 6 et 12 mois pour encourager le patient dans son régime**
-- **Dépistage de tout l’entourage du 1<sup>er</sup>** degré et suivi sérologique.
+- **Dépistage de tout l’entourage du 1<sup>er</sup>** degré et suivi sérologique
+- Association de patients  
+[Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
 
 {{% /collapse%}}
 {{%collapse "Suivi médical" %}}
@@ -222,6 +224,8 @@ Par le gastro-entérologue et le diététicien spécialisé.
 | **36 mois**<br>Médecin | - Ostéodensitométrie de contrôle si anormale<br>- Évaluer les symptômes |
 | Puis tous les 1-2 ans | - Évaluer le recours au diététicien<br>- Sérologie cœliaque<br>- TSH<br>- Tests selon l’examen |
 {{< /table >}}
+
+**Ostéodensitométrie** au diagnostic puis tous les 2-5 ans selon la densité osseuse (*ESsCD 2019*)
 
 {{% /collapse%}}
 {{%collapse "Information du patient" %}}
@@ -265,16 +269,16 @@ Le gluten est présent dans toutes les variétés de blé, froment, épeautre, o
 - Huiles
 - Fruits
 
-Logo présent sur les produits sans gluten
+### Logo présent sur les produits sans gluten
 
 ![Logo des produits sans gluten](/images/sans-gluten.webp)
 
-Des  produits  diététiques  sans  gluten  sont  remboursés  partiellement  par  l’assurance  maladie  française sous certaines conditions.
+L'[Assurance Maladie](https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/remboursement-aliments-sans-gluten-ameli) peut remboursé jusqu'à 45,73€/mois de produits sans gluten.
 
 {{% /collapse%}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir en cas de suspicion de maladie cœliaque. Dr JB FRON d'après EssCD 2019" >}}
+{{< mermaid title="Conduite à tenir en cas de suspicion de maladie cœliaque. Dr JB FRON d'après ESsCD 2019" >}}
 graph TB
   symptomatique["<b>Risque élevé</b><hr>- Diarrhée chronique<br>- Diarrhée + amaigrissement<br>- Anémie par carence martiale <br>en l’absence d’autre cause<br>- Symptômes de MC + ATCD familiaux<br>- Symptômes de MC + auto-immunité/déficit IgA<br>- Retard de croissance de l’enfant<br>- Dermatite herpétiforme<br>- Atrophies des villosités<br>- Iléostomie/colostomie avec<br>hyperdébit non expliqué"] --> EOGD(EOGD) --> gastro
   style symptomatique stroke:#4150f5, stroke-width:1px
@@ -288,15 +292,10 @@ graph TB
 > **ATCD** = antécédents; **fam** = familiaux; **MC** = maladie cœliaque
 
 {{% /collapse %}}
-{{%collapse "FMC gratuite" %}}
-
-[Olives JP. Maladie coeliaque : de l’enfance à l’âge adulte. POST'U 2013 - Paris](https://www.fmcgastro.org/postu-main/postu-2013-paris/textes-postu-2013-paris/maladie-coeliaque-de-lenfance-a-lage-adulte/)
-
-{{% /collapse%}}
 {{%collapse "Sources" %}}
 
 - [Prescrire. Intolérance au gluten - L'essentiel sur les soins de premier choix. Janvier 2020.](https://prescrire.org)
-- [Al-Toma A et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. UEG Journal, 7: 583-613.](https://doi.org/10.1177%2F2050640619844125)
+- [Al-Toma A et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. UEG Journal, 7: 583-613. 2019.](https://doi.org/10.1177%2F2050640619844125)
 - [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut 2018;67:1380-1399.](https://gut.bmj.com/content/gutjnl/67/8/1380.full.pdf)
 - [Olives JP. Maladie coeliaque : de l’enfance à l’âge adulte. POST'U 2013 - Paris](https://www.fmcgastro.org/postu-main/postu-2013-paris/textes-postu-2013-paris/maladie-coeliaque-de-lenfance-a-lage-adulte/)
 - [HAS. Recherche d'anticorps dans la maladie cœliaque et suivi de l'observance du régime sans gluten. Janvier 2007. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/synthese_maladie_coeliaque.pdf)

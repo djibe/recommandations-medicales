@@ -6,7 +6,7 @@ synonyms = ["Ostéoporose post-ménopausique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-04T17:43:41+02:00
 publishdate = 2021-12-06
-lastmod = 2022-01-11
+lastmod = 2022-01-18
 specialites = ["rhumatologie"]
 annees = "2019"
 sources = ["SFRhumato", "GRIO", "IOF", "HAS"]
@@ -94,7 +94,7 @@ L'ostéoporose est responsable d'un lourd fardeau médico-économique:
 - Âge
 - Taille à 20 ans
 - Antécédents  
-Fractures (ancienneté, type), âge de la ménopause, démence, Parkinson, diabète, maladie cardiovasculaire, BPCO...
+Fractures (ancienneté, type), âge de la ménopause, démence, Parkinson, diabète, maladie cardiovasculaire, BPCO, [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})...
 - Traitements en cours  
 Et corticothérapie (dont inhalée) > 3 mois.
 - {{< modal-btn modal-risque-fracture >}}Facteurs de risque de fracture{{< /modal-btn >}}
@@ -125,9 +125,10 @@ Examens pour éliminer une ostéoporose secondaire.
 - TSH
 - Vitamine D
 - Calcémie corrigée, phosphatémie (*COFER*)
-- Électrophorèse des protéines sériques  
-Indications: fracture vertébrale suspecte, fracture pathologique, géodes.  
-Systématique selon le COFER pour éliminer un myélome déminéralisant.
+- Électrophorèse des protéines sériques
+  - Indications: fracture vertébrale suspecte, fracture pathologique, géodes
+  - Systématique selon le COFER pour éliminer un myélome déminéralisant
+- Âge jeune: sérologie cœliaque (*ESsCD 2019*)
 {{%/info%}}
 
 Avis spécialisé en cas d'anomalie.
@@ -159,6 +160,8 @@ Vertébrale ou périphérique sur traumatisme mineur.
 ≥ 7,5 mg/j d'éq. prednisone ≥ 3 mois.
 - Endocrinopathie ou pathologie déminéralisante  
 Hypogonadisme prolongé (dont orchidectomie, traitement prolongé par GnRH, aménorrhée primaire ou secondaire), hyperthyroïdie évolutive non traitée, hypercorticisme, hyperparathyroïdie primitive, ostéogenèse imparfaite.
+  - Maladie cœliaque (*ESsCD 2019*)  
+  Au diagnostic puis tous les 2-5 ans selon la DMO.
 - Traitement anti-ostéoporotique
   - Contrôle tous les 2-3 ans de la réponse au traitement
   - À chaque modification de traitement et en arrêt précoce
@@ -323,6 +326,7 @@ Avis rhumatologique si T-score > -2 et < -1.
 - Ménopause avec T-score ≤ -3 (DMO rachis ou fémur)
   - Avis rhumatologique si T-score entre -2 et -3
   - Utiliser les traitements indiqués pour les fractures non sévères
+- Maladie cœliaque sur avis rhumatologique (zolédronate IV, *ESsCD 2019*)
 {{%/info%}}
 
 Critères de choix du traitement: espérance de vie suffisante, antécédent de fracture, son type, son ancienneté, l'âge, les autres antécédents, le {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} et la DMO. Avis rhumatologique si besoin.
@@ -466,7 +470,7 @@ Réévaluation avec ostéodensitométrie 2 ans après l'arrêt du traitement.
 
 {{< mermaid title="Dépistage de l'ostéoporose en l'absence d'antécédent de fracture. JB Fron d'après SFRhumato 2018 et HAS lombalgie 2019" >}}
 graph TB
-  menopause["<b>Ménopause et &ge; 1 parmi:</b><br>- Fracture fragilité chez parent<br>- IMC &lt; 19<br>- Ménopause précoce<br>- FRAX &gt; seuil pour l'âge<br>- Contrôle à 3-5 ans de DXA sans ttt<hr>- Sujet âgé à risque de chute<br>- Corticothérapie prolongée<br>- Endocrinopathie ou<br>pathologie déminéralisante"]
+  menopause["<b>Ménopause et &ge; 1 parmi:</b><br>- Fracture fragilité chez parent<br>- IMC &lt; 19<br>- Ménopause précoce<br>- FRAX &gt; seuil pour l'âge<br>- Contrôle à 3-5 ans de DXA sans ttt<hr>- Sujet âgé à risque de chute<br>- Corticothérapie prolongée<br>- Endocrinopathie ou<br>pathologie déminéralisante<br>- Maladie cœliaque"]
   style menopause stroke:#4150f5, stroke-width:1px
     menopause --> DXA(Ostéodensitométrie:<br>T-score<br>puis calcul du FRAX)
       DXA -- "&le; -2,5" --> Ostéoporose --> prev("- Mesures de prévention<br>- Bilan biologique<br>- T-score ?")

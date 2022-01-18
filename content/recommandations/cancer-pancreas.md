@@ -6,22 +6,21 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-16T15:41:56+01:00"
 publishdate = "2022-01-07"
-lastmod = "2022-01-07"
+lastmod = "2022-01-18"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["SNFGE"]
-tags = ["cancer", "diabete"]
+tags = ["cancer", "diabete", "prurit"]
 anglais = ["Pancreatic cancer"]
 sctid = "363418001"
 draft = false
 image = true
 imageSrc = "Illustration du pancréas par brgfx / Freepik"
-todo = "Collège"
 +++
 
 {{%article-summary%}}
 
-- Dépistage si ≥ 2 apparentés atteints d'AP dont ≥ 1 au 1<sup>er</sup> degré  
+- Consultation d'oncogénétique et dépistage si ≥ 2 apparentés atteints d'AP dont ≥ 1 au 1<sup>er</sup> degré  
 ou certaines mutations génétiques (voir *Dépistage*)
 - Suspecter devant ictère, douleurs abdominales transfixiantes, diabète récent ou décompensé
 - TDM TAP avec injection en semi-urgence dès la suspicion
@@ -32,10 +31,10 @@ ou certaines mutations génétiques (voir *Dépistage*)
 {{%collapse "Définitions" %}}
 
 Adénocarcinome du pancréas (AP)
-: 90% des tumeurs du pancréas et tumeur digestive avec le plus mauvais pronostic (survie 5 ans 7-8%).
-: Incidence en hausse: x2 hommes et x3 femmes (1982-2012, *Bouvier 2017*)  
-5-10% seraient génétiques.
-: Facteurs de risque: antécédents familiaux, diabète type 2, BRCA1 et 2 et autres mutations, syndrome de Lynch...
+: 90% des tumeurs du pancréas et tumeur digestive avec le plus mauvais pronostic (survie à 5 ans 7-8%).
+: Incidence en forte hausse: x2 hommes et x3 femmes (1982-2012, *Bouvier 2017*), 14.000 en 2018, 5-10% seraient génétiques.
+: Facteurs de risque: âge, antécédents familiaux, [diabète de type 2]({{< relref "diabete-type-2.md" >}}) ancien, obésité, BRCA1 et 2, NEM1 et autres mutations, syndrome de Lynch, pancréatite chronique.
+: Autres types de cancers pancréatiques: neuro-endocrine.
 
 Cancers du pancréas familiaux (CaPaFa)
 : Survenue d'un adénocarcinome du pancréas chez ≥ 2 parents au 1<sup>er</sup> degré  
@@ -46,7 +45,8 @@ OU ≥ 3 cas de la même branche (quelque soit le degré de parenté et l'âge d
 **ADK:** adénocarcinome  
 **AEG:** altération de l'état général (amaigrissement-asthénie-anorexie)  
 **AP:** adénocarcinome du pancréas  
-**RCP:** réunion de concertation pluridisciplinaire
+**RCP:** réunion de concertation pluridisciplinaire  
+**TVP:** thrombose veineuse profonde
 
 {{% /collapse %}}
 {{%collapse "Dépistage de l'adénocarcinome du pancréas" %}}
@@ -54,6 +54,8 @@ OU ≥ 3 cas de la même branche (quelque soit le degré de parenté et l'âge d
 Pour toute la population: correction de tabagisme, obésité, diabète.
 
 ### Qui dépister ?
+
+{{%info%}}Adresser en consultation d'oncogénétique devant une suspicion de cancers familiaux{{%/info%}}
 
 Personnes avec risque cumulé d'adénocarcinome du pancréas > 5% ou risque relatif estimé ≥ 5:
 
@@ -67,12 +69,18 @@ Dépistage uniquement si l'état de santé permettrait une chirurgie après avis
 {{%collapse "Clinique" %}}
 
 - Antécédents personnels et familiaux (oncologiques ++)
-- AEG
+- Signes généraux
+  - AEG
+  - [Diabète récent]({{< relref "diabete-type-2.md" >}}) (< 2 ans) ou décompensé
+  - TVP
 - Douleur abdominale intense à irradiation postérieure ou dorsale
 - Tumeur de la tête du pancréas (70-80%)  
 Plus rapidement symptomatique par atteinte des voies biliaires.
-  - Ictère
-  - [Diabète récent]({{< relref "diabete-type-2.md" >}}) (< 2 ans) ou décompensé
+  - Ictère sans fièvre, décoloration des selles ± prurit
+  - Grosse vésicule palpable
+- Corps et queue du pancréas
+  - Douleur épigastrique transfixiante, insomniante, intensité élevée
+  - Douleur dorsale
 - Plus rares
   - Pancréatite aiguë
   - Thrombo-embolie
@@ -82,6 +90,10 @@ Plus rapidement symptomatique par atteinte des voies biliaires.
   - Ascite
   - Anxiété, dépression
   - Panniculite mésentérique (syndrome de Weber-Christian)
+- Tumeurs neuro-endocrines du pancréas
+  - Gastrine: syndrome de Zollinger-Ellison avec diarrhée et ulcères gastro-duodénaux multiples
+  - Insuline: malaise hypoglycémiques sévères
+  - VIPome: diarrhée sécrétoire
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -107,6 +119,7 @@ Les récidives sont très élevées.
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/college-gastro >}}
 - [Neuzillet C et al. Thésaurus National de Cancérologie Digestive (TNCD). Dig Liver Dis. 2018 Dec. 50(12):1257-1271. 24/01/2021.](https://www.snfge.org/download/file/fid/4204)
 
 {{%/sources%}}

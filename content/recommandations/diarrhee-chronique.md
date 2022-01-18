@@ -6,9 +6,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-22T19:42:41+02:00
 publishdate = 2020-07-22
-lastmod = 2022-01-17
+lastmod = 2022-01-18
 specialites = ["hepato-gastro-enterologie"]
-annees = "2018"
+annees = "2021"
 sources = ["BSG", "Collège"]
 tags = []
 anglais = ["Chronic diarrhea", "chronic diarrhoea"]
@@ -16,7 +16,7 @@ sctid = "236071009"
 draft = false
 image = false
 imageSrc = ""
-todo = "SeHCAT, FODMAP"
+todo = "SeHCAT, FODMAPs"
 +++
 
 {{%article-summary%}}
@@ -41,20 +41,21 @@ Selon l'OMS: émission de plus de 3 selles par jour de molles à liquides.
 ### Diagnostic différentiel
 
 - Fausse diarrhée du constipé, fécalome
-- Incontinence anale
-- Poly-exonération  
+- Incontinence fécale
+- Syndrome rectal ou poly-exonération secondaire à un trouble du plancher pelvien  
 Défécation difficile (dyschésie) et/ou prolapsus. La consistance des selles est normale.
 
 {{% /collapse %}}
-{{%collapse "Signes d'alerte" %}}
+{{%collapse "Signes d'alarme" %}}
 
 {{%warning%}}
 
-### Signes d'alerte devant une diarrhée chronique
+### Signes d'alarme devant une diarrhée chronique
 
 - AEG
 - Rectorragie, méléna
-- Modifications du transit ou alternance diarrhée-constipation
+- Modification récente et inexpliquée du transit
+- Âge > 50 ans (*CDU-HGE*)
 
 {{%/warning%}}
 
@@ -67,7 +68,7 @@ Défécation difficile (dyschésie) et/ou prolapsus. La consistance des selles e
 - Biliaire
 - Diététique
   - FODMAP, intolérance au lactose ou fructose
-  - Édulcorants
+  - Édulcorants (sodas, bonbons, chewing gum)
   - Caféine
   - Alcool
   - Réglisse
@@ -75,7 +76,7 @@ Défécation difficile (dyschésie) et/ou prolapsus. La consistance des selles e
 - Inflammation intestinale (colite ulcéreuse ou microscopique, MICI)
 - [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})
 - Iatrogénie  
-Antibiotique, AINS, magnésium, IEC, metformine-iDPP4, théophylline, furosémide, antiarythmique, anticancéreux.
+Antibiotique, AINS, magnésium, IEC, olmésartan, metformine-iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.
 - Sécrétoire
 - Fonctionnelle
 
@@ -115,18 +116,35 @@ Tumoraux, MICI, cœliaque.
 - Alcool
 - Degré de consommation de café, boissons énergisantes, lait, sorbitol, fructose
 - Traitements en cours et essayés  
-Antibiotique, AINS, magnésium, IEC, metformine-iDPP4, théophylline, furosémide, antiarythmique, anticancéreux.
+Antibiotique, AINS, magnésium, IEC, olmésartan, metformine-iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.
 - Diarrhée
   - Contexte de voyage, TIAC
   - Antibiothérapie récente
   - Étayer une intolérance au lactose, au gluten
   - Ancienneté
   - Rythme nycthéméral
+  - Effet du jeûne
+  - Volume, fréquence, consistance, résidus, glaires, sang, graisseuses, coloration, odeur
   - AEG
   - Autres troubles digestifs  
-  Alternance diarrhée-constipation, épreinte, ténesmes, rectorragies.
+  Douleurs, ballonnements, flatulences, alternance diarrhée-constipation, épreinte, ténesmes, faux besoin, impériosité, rectorragies.
+- Signes négatifs
+  - Incontinence
+  - Consistance conservée
+  - Terrain constipé
+  - Antécédents pelviens
 
 La *malabsorption* donne souvent une stéatorrhée avec selles pâteuses et décolorées malodorantes, mais parfois pauci-symptomatique.
+
+### Examen clinique
+
+- Poids, taille, IMC et variations
+- Examen abdominal
+- Examen pelvien
+- Fonte musculaire
+- Signes généraux  
+Syndrome anémique ou hémorragique, thyrotoxicose, glossite, aménorrhée.
+- Œdèmes
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -141,9 +159,9 @@ La *malabsorption* donne souvent une stéatorrhée avec selles pâteuses et déc
 - Glycémie à jeun
 - Proposer une sérologie VIH
 - Malabsorption  
-Urée, ionogramme, ASAT, ALAT, GGT, PAL, vitamine B12, folate, calcémie.
+Créatinine, ionogramme, calcémie, albuminémie, ASAT, ALAT, GGT, PAL, TP, vitamine B12, folate.
 - Sérologie cœliaque  
-IgA anti-transglutaminase, anti-endomysium et IgA totales.
+IgA anti-transglutaminase et IgA totales.
 - Examen parasitologique des selles 3 jours de suite (se 60-90%)
 - Test immunologique fécal (TIF *ex* Hemoccult®)
 
@@ -154,18 +172,15 @@ Rectorragie ou modifications du transit: coloscopie.
 
 - Suspicion de SII et < 40 ans: calprotectine fécale  
 Bilan normal et symptômes typiques: diagnostic de *syndrome de l'intestin irritable* (SII).
-- Suspicion d'intolérance au lactose: test respiratoire à l'hydrogène (à jeun ou test d'éviction)
+- Suspicion d'intolérance au lactose: test d'éviction préférable
 
-Adresser au spécialiste si le diagnostic n'est pas expliqué par ce bilan.
+Adresser au spécialiste si un diagnostic pouvant être suivi en ville n'est pas expliqué par ce bilan.
 
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/college-gastro >}}
 - [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut 2018;67:1380-1399.](https://gut.bmj.com/content/gutjnl/67/8/1380.full.pdf)
 - [SNFGE. Diarrhée chronique](https://www.snfge.org/content/diarrhee-chronique)
-
-### À lire
-
-- {{< references/college-gastro >}}
 
 {{%/sources%}}
