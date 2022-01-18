@@ -67,10 +67,14 @@ Pour se tenir informé sans naviguer de site en site.
 
 ## Utiliser le projet sur votre PC
 
+Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans le projet, suivez le guide.
+
 1. Télécharger [Git](https://git-scm.com/downloads) et [NodeJS](https://nodejs.org/en/)
-2. Sur votre PC, dans le dossier de votre choix, ouvrir une Commande et tapez `git clone https://github.com/djibe/recommandations-medicales.git`
-3. puis `npm install`
-4. puis `npm run server`, le site est accessible sur `http://localhost:1313/`
+2. Installer Chocolatery en ouvrant une commande Powershell: `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))`
+3. Sur votre PC, dans le dossier de votre choix, ouvrir une Commande et tapez `git clone https://github.com/djibe/recommandations-medicales.git`
+4. puis `choco install hugo-extended`
+5. puis `npm install`
+6. puis `npm run server`, le site est accessible sur `http://localhost:1313/`
 
 [![Voir le code source sans rien installer](https://open.vscode.dev/badges/open-in-vscode.svg)](https://vscode.dev/github/djibe/recommandations-medicales)
 

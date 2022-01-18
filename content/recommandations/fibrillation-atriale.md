@@ -94,7 +94,7 @@ Diurétiques, théophylline, salbutamol, anti-arythmique.
 ### Complications
 
 - Mortalité x 1,5-3,5
-- [Accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}})
+- [Accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}}) (x5)
 - [Insuffisance cardiaque]({{< relref "embolie-pulmonaire.md" >}})
 - Embolie
 - Démence (+40%)
@@ -105,7 +105,7 @@ Diurétiques, théophylline, salbutamol, anti-arythmique.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Évaluation clinique: type de FA, risque embolique, symptômes, TODO: Severity of AF burden, Substrate severity{{%/info%}}
+{{%info%}}Évaluation clinique: type de FA, risque embolique, symptômes, comorbidités{{%/info%}}
 
 50-87% sont initialement asymptomatiques.
 
@@ -170,11 +170,11 @@ La radiographie thoracique n'est pas systématique.
 {{%info%}}Adresser au cardiologue pour évaluation spécialisée avec **échocardiographie**{{%/info%}}
 
 {{% /collapse %}}
-{{%collapse "Risque embolique CHA2DS2VaSc et de saignement" %}}
+{{%collapse "Risque embolique CHA2DS2-VASc et de saignement" %}}
 
-Réévaluation régulière des scores.
+Réévaluer régulièrement les scores.
 
-### Risque embolique: CHADS
+### Risque embolique: CHA<sub>2</sub>DS<sub>2</sub>-VASc
 
 ### Risque de saignement: HAS-BLED
 
@@ -188,38 +188,6 @@ Réévaluation régulière des scores.
 
 {{% /collapse %}}
 {{%collapse "Risque embolique CHA2DS2VaSc" "show" %}}
-
-Score CHA2DS2VaSc recommandé depuis 2010 par l'*ESC* (source 44).
-
-<div class="alert border rounded-lg mb-4 mb-lg-5" style="max-width: 800px">
-  <div class="row">
-    <div class="col-12 col-md-9">
-      <input type="checkbox" id="age75" class="d-none" value="2">
-      <label for="age75" class="chip chip-action chip-filter">Age ≥ 75</label>
-      <input type="checkbox" id="age65" class="d-none" value="1">
-      <label for="age65" class="chip chip-action chip-filter">Age 65 à 74</label>
-      <input type="checkbox" id="hta" class="d-none" value="1">
-      <label for="hta" class="chip chip-action chip-filter">HTA</label>
-      <input type="checkbox" id="diabetes" class="d-none" value="1">
-      <label for="diabetes" class="chip chip-action chip-filter">Diabète</label>
-      <input type="checkbox" id="insuff" class="d-none" value="1">
-      <label for="insuff" class="chip chip-action chip-filter">Insuffisance cardiaque/Dysfonction VG</label>
-      <input type="checkbox" id="stroke" class="d-none" value="2">
-      <label for="stroke" class="chip chip-action chip-filter">Antécédent AVC/AIT</label>
-      <input type="checkbox" id="woman" class="d-none" value="1">
-      <label for="woman" class="chip chip-action chip-filter">Femme > 65 ans</label>
-      <input type="checkbox" id="disease" class="d-none" value="1">
-      <label for="disease" class="chip chip-action chip-filter">Maladie vasculaire (IDM, AOMI, plaque aortique)</label>
-    </div>
-    <div class="col-12 col-md-3">
-      <p class="typography-overline text-black-secondary mt-4 mt-md-0 mb-1">Score CHA<sub>2</sub>DS<sub>2</sub>-VASc</p>
-      <p id="counter" class="font-weight-bold" style="font-size: 3rem;line-height: 1.2;margin-bottom: 0;">0</p>
-      <p id="explain" class="typography-body-2 text-muted mb-0">Pas d'antithrombotique</p>
-    </div>
-  </div>
-</div>
-
-> Lip GY et al. Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach: The euro heart survey on atrial fibrillation. Chest. 2010;137(2):263-72.
 
 <script>
   // Score CHA2DS2VASc par djibe
@@ -250,6 +218,13 @@ Score CHA2DS2VaSc recommandé depuis 2010 par l'*ESC* (source 44).
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
+- Observance +++
+- Facteurs déclenchants
+  - Réduction de l'alcool
+  - Activité physique d'intensité modérée
+  - Arrêt du tabac
+- Éducation thérapeutique du patient et son entourage
+
 ### Anticoagulation
 
 #### 1. Évaluation du risque hémorragique
@@ -261,6 +236,17 @@ INR cible 2-3. Contrôle /15-21j
 Aspirine si refus anticoag
 
 {{% /collapse %}}
+{{%collapse "Information du patient" %}}
+
+Information du patient et de l'entourage sur la fibrillation atriale.
+
+- Traitement
+  - Bénéfices-risques
+  - Options thérapeutique
+  - Importance de l'observance
+  - Qualité de vie
+
+{{% /collapse %}}
 {{%sources%}}
 
 - [Hindricks G. et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Hear Jour. Vol 42. Issue 5. 1 Feb 2021. Pages 373–498.](https://doi.org/10.1093/eurheartj/ehaa612)
@@ -270,6 +256,7 @@ Aspirine si refus anticoag
 
 - <https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch14_fibrillation_atriale.pdf>
 - <https://e-cordiam.fr/>
+- ETP: 273, MobiGuide 279, 281
 
 {{%/sources%}}
 {{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}

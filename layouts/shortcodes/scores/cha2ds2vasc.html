@@ -1,0 +1,64 @@
+<div class="card-body" id="score-cha2ds2vasc">
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="cha1" class="custom-control-input" value="2">
+    <label class="custom-control-label" for="cha1">Âge &ge; 75 ans</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="age65" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="age65">Âge 65 à 74</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="hta" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="hta">Hypertension artérielle</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="diabete" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="diabete">Diabète</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="ic" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="ic">Insuffisance cardiaque</label>
+  </div>
+  <input type="checkbox" id="stroke" class="d-none" value="2">
+  <label for="stroke" class="chip chip-action chip-filter">Antécédent AVC/AIT</label>
+  <input type="checkbox" id="woman" class="d-none" value="1">
+  <label for="woman" class="chip chip-action chip-filter">Femme</label>
+  <input type="checkbox" id="disease" class="d-none" value="1">
+  <label for="disease" class="chip chip-action chip-filter">Maladie vasculaire (IDM, AOMI, plaque aortique)</label>
+  </div>
+  <div class="alert bg-light d-md-flex">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline score-output-title">Score STOP-BANG</p>
+      <output class="score-output" id="stopbangScore">0</output>
+    </div>
+    <p id="stopbangText" class="lead m-auto">Faible risque de SAOS</p>
+  </div>
+</div>
+<blockquote class="blockquote">
+  <p lang="en"><a href="" rel="external nofollow noopener">Lip GY et al. Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach: The euro heart survey on atrial fibrillation. Chest. 2010;137(2):263-72.</a></p>
+</blockquote>
+{{ $script := `
+  // Score CHA2DS2-VASc by djibe
+  let score = 0;
+  const Text = document.getElementById('explain');
+  const Age75 = document.getElementById('age75');
+  const Age65 = document.getElementById('age65');
+  [...document.querySelectorAll('input[type="checkbox"]')].forEach(function(checkbox) {
+    checkbox.addEventListener('change', function(e) {
+      if (Age75.checked) {
+        Age65.checked = false;
+      }
+      if (e.target.checked) {
+        score += parseInt(e.target.value, 10)
+      } else {
+        score -= parseInt(e.target.value, 10)
+      }
+      document.getElementById('counter').innerHTML = score
+      if (score === 0){
+        Text.innerHTML = "Pas d'antithrombotique"
+      } else {
+        Text.innerHTML = 'Anticoagulation'
+      }
+    })
+  })` }}
+<script>{{ $script | safeJS }}</script>
