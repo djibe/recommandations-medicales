@@ -10,19 +10,20 @@ lastmod = 2021-12-10
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["ESC"]
-tags = ["anticoagulant", "demence", "dyspnee", "fatigue", "HTA", "SAS", "TSH"]
-anglais = []
-sctid = ""
+tags = ["anticoagulant", "demence", "depistage", "dyspnee", "fatigue", "HTA", "SAS", "TSH"]
+anglais = ["Atrial fibrillation"]
+sctid = "49436004"
 draft = true
-todo = "ESC 2020, Source 2013 bonne pour EGS, source 2013 pour AVK sujet âgé, https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch14_fibrillation_atriale.pdf, http://beh.santepubliquefrance.fr/beh/2021/5/2021_5_1.html"
+todo = "ESC 2020: Table 4, collège, Source 2013 bonne pour EGS, source 2013 pour AVK sujet âgé"
 +++
 
 {{%article-summary%}}
 
+- Dépistage ≥ 65 ans
 - Le diagnostic est clinico-ECG
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Fibrillation atriale (FA)
 : Tachyarythmie supraventriculaire caractérisée par une activation atriale anarchique désorganisant la fonction mécanique des atriums. Le flux sanguin est limité avec constitution de caillots pouvant être libérés sous forme d'emboles artériels. Toutes les cardiopathies peuvent se compliquer de fibrillation atriale.
@@ -41,35 +42,31 @@ FA persistante
 
 > Définitions *ESC 2020*
 
-### TODO:
-
-AHRE, subclinical AF: TODO
-
 FA permanente
 : Tous les ECG sont en FA pendant au moins 1 an.
 
 FA de détection récente
 : Découverte de la FA sans aucun recul pour typer la durée de l'épisode.
 
-### Épidémiologie
+### Abréviations
 
-- 50-87% sont initialement asymptomatiques
+**EHRA:** {{%lang%}}European Heart Rhythm Association{{%/lang%}}  
+**FA:** fibrillation atriale
 
-### La fibrillation atriale en France
+### Épidémiologie de la fibrillation atriale en France
 
-- 600.000 à 1 million de patients, 2/3 ont +75 ans  
-La prévalence augmente avec l'âge et atteint 10-20% après 80 ans.
+- Prévalence: 600.000 à 1 million de patients, 2/3 ont +75 ans  
+Elle augmente avec l'âge et atteint 10-20% après 80 ans.
+- Incidence 2018: 226.000/an (*[*SPF 2020*](http://beh.santepubliquefrance.fr/beh/2021/5/2021_5_1.html)*)
 - Coût: 3000€/patient/an
 - Coût global: 2,5 milliards € (50% liés aux hospitalisations)
 
 ### Facteurs favorisants
 
-- Facteurs non modifiables
-  - Âge
-  - Homme
-  - Caucasien
+- Facteurs non modifiables  
+Âge, homme, caucasien.
 - Mode de vie
-  - Inactivité, activité physique intense
+  - Inactivité ou activité physique intense
   - Hypercholestérolémie
   - Alcool
   - Tabac
@@ -96,9 +93,9 @@ Diurétiques, théophylline, salbutamol, anti-arythmique.
 
 ### Complications
 
-- Mortalité x 1,5 à 3,5
-- Accident vasculaire cérébral
-- Insuffisance cardiaque
+- Mortalité x 1,5-3,5
+- [Accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}})
+- [Insuffisance cardiaque]({{< relref "embolie-pulmonaire.md" >}})
 - Embolie
 - Démence (+40%)
 - Dépression
@@ -108,7 +105,9 @@ Diurétiques, théophylline, salbutamol, anti-arythmique.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Évaluation: type de FA, risque embolique, symptômes.
+{{%info%}}Évaluation clinique: type de FA, risque embolique, symptômes, TODO: Severity of AF burden, Substrate severity{{%/info%}}
+
+50-87% sont initialement asymptomatiques.
 
 ### Interrogatoire
 
@@ -121,29 +120,57 @@ HTA, diabète, insuffisance cardiaque, coronaropathie, insuffisance rénale, ob�
 - Fibrillation atriale
   - Ancienneté
   - Facteurs déclenchants
-  - Symptômes  
-  **Dyspnée, palpitations, fatigue**, douleur thoracique, intolérance à l'effort, malaises, vertiges, chutes, syncope, troubles di sommeil, anxiété.  
-  Souvent absents au début.
-- Signes d'apnées du sommeil
+  - Symptômes: {{< modal-btn modal-ehra >}}score EHRA{{< /modal-btn >}} (TODO: table 6)  
+  **Dyspnée, palpitations, fatigue**, douleur thoracique, intolérance à l'effort, malaises, vertiges, chutes, syncope, troubles du sommeil, anxiété.
+- {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} ou {{< scores/heartscore >}}
+- {{< modal-btn modal-saos >}}Dépistage du SAOS{{< /modal-btn >}}
 
 ### Examen clinique
 
-- Pouls irrégulier, PA, poids-taille-IMC
-- Pouls périphériques, oedèmes
+- Pouls irrégulier
+{{%class%}}Manuel (se 87-97%, spe 70-81%) ou tensiomètre électronique (se 93-100%, spe 86-92%, *Mairesse 2017*){{%/class%}}
+- PA, poids, taille, IMC
+- Pouls périphériques, œdèmes
 
 ### Évaluation gériatrique standardisée
 
 - Cognitif. MMSE  
 Plus rapides: MIS (Memory Impairment Screen), test des 5 mots, test de l'horloge
-- Dépendance  
-ADL ou IADL
+- Dépendance: ADL ou IADL
 - Symptômes dépressifs
 - État nutritionnel
 - {{< modal-btn modal-risque-chute >}}Risque de chute{{< /modal-btn >}}
 - Contexte de vie
 
 {{% /collapse %}}
-{{%collapse "Risque embolique et de saignement" %}}
+{{%collapse "Examens complémentaires" %}}
+
+{{%info%}}
+
+### ECG 12D
+
+Systématique pour confirmer le diagnostic: intervalles R-R irréguliers, absence d'ondes P et trémulation de la ligne de base. Il recherche des troubles associés (conduction, ischémie).  
+Diagnostic possible sur simple dérivation pendant ≥ 30s.
+
+Envisager un ECG de dépistage systématique ≥ 75 ans (TODO: ou risque d'AVC élevé 212, 224, 227).
+{{%/info%}}
+
+### Biologie
+
+- NFS
+- Ionogramme sanguin, créatininémie, CKD-EPI
+- Glycémie à jeun
+- TP, TCA
+- TSH
+- Point d'appel: CRP, BH, troponine, albuminémie, BU
+- Si digoxine: digoxinémie
+
+La radiographie thoracique n'est pas systématique.
+
+{{%info%}}Adresser au cardiologue pour évaluation spécialisée avec **échocardiographie**{{%/info%}}
+
+{{% /collapse %}}
+{{%collapse "Risque embolique CHA2DS2VaSc et de saignement" %}}
 
 Réévaluation régulière des scores.
 
@@ -151,29 +178,7 @@ Réévaluation régulière des scores.
 
 ### Risque de saignement: HAS-BLED
 
-Scores HEMORR2HAGES (+ adapaté pour AVK > 80 ans)
-
-{{% /collapse %}}
-{{%collapse "Examens complémentaires" %}}
-
-### ECG
-
-Systématique pour confirmer le diagnostic: intervalles R-R irréguliers, absence d'ondes P et trémulation de la ligne de base sur ECG 12D ou simple dérivation pendant ≥ 30s.
-
-### Bilan biologique
-
-- NFS
-- Ionogramme sanguin, créatininémie
-- Glycémie à jeun
-- TP, TCA
-- TSH
-
-Point d'appel: CRP, BH, troponine, albuminémie, BU
-Si digoxine: digoxinémie
-
-### Radiographie thoracique (RT)
-
-Non SYS
+### Scores HEMORR2HAGES (+ adapté pour AVK > 80 ans)
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
@@ -182,9 +187,9 @@ Non SYS
 - Limiter la consommation d'alcool (source)
 
 {{% /collapse %}}
-{{%collapse "CHA2DS2VASc" "show" %}}
+{{%collapse "Risque embolique CHA2DS2VaSc" "show" %}}
 
-Score proposé en 2010 par l'ESC (source 44).
+Score CHA2DS2VaSc recommandé depuis 2010 par l'*ESC* (source 44).
 
 <div class="alert border rounded-lg mb-4 mb-lg-5" style="max-width: 800px">
   <div class="row">
@@ -213,6 +218,9 @@ Score proposé en 2010 par l'ESC (source 44).
     </div>
   </div>
 </div>
+
+> Lip GY et al. Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach: The euro heart survey on atrial fibrillation. Chest. 2010;137(2):263-72.
+
 <script>
   // Score CHA2DS2VASc par djibe
   let score = 0;
@@ -250,19 +258,39 @@ AVK
 Surtout si sujet âgé ou valve mécanique, pb observance?
 INR cible 2-3. Contrôle /15-21j
 
-
 Aspirine si refus anticoag
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
-- [Hindricks G. et al; ESC Scientific Document Group. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. European Heart Journal. Volume 42. Issue 5. 1 February 2021. Pages 373–498.](https://doi.org/10.1093/eurheartj/ehaa612)
+- [Hindricks G. et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Hear Jour. Vol 42. Issue 5. 1 Feb 2021. Pages 373–498.](https://doi.org/10.1093/eurheartj/ehaa612)
 - [Société Française de Gériatrie et Gérontologie et Société Française de Cardiologie. Prise en charge de la fibrillation atriale du sujet âgé. La Revue de Gériatrie. Tome 38. n°7. Septembre 2013. (PDF)](http://www.revuedegeriatrie.fr/documents/fibrillation_atriale.pdf)
 
-{{% /collapse %}}
+### À lire
+
+- <https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch14_fibrillation_atriale.pdf>
+- <https://e-cordiam.fr/>
+
+{{%/sources%}}
 {{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}
 
 {{< clinique/facteur-risque-chute >}}
 
 {{% /modal %}}
+{{% modal title="Score STOP-BANG" id="modal-saos"%}}
+
+{{< scores/stop-bang >}}
+
+{{% /modal %}}
+{{% modal title="Score EHRA" id="modal-ehra"%}}
+
+{{< scores/ehra >}}
+
+{{% /modal %}}
+{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
+
+{{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}
+
 ≤≥±®œŒÈ³ÂSpO<sub>2</sub>

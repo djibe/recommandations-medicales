@@ -70,7 +70,7 @@ Alcoolisation fœtale est la 1<sup>re</sup> cause de handicap non génétique
 - 75% ignorent les risques pendant la grossesse (*BVA 2015*)
 
 {{% /collapse %}}
-{{%collapse "Dépistage: consommation déclarée" %}}
+{{%collapse "Dépistage = consommation déclarée" %}}
 
 {{< clinique/addiction-reperage >}}
 
@@ -81,7 +81,7 @@ Alcoolisation fœtale est la 1<sup>re</sup> cause de handicap non génétique
 - Association d'alcool et d'autre substance psychoactive
 
 {{% /collapse %}}
-{{%collapse "Évaluation du risque" %}}
+{{%collapse "Évaluation si consommation à risque" %}}
 
 <div class="border card-body">
 {{< scores/face >}}
@@ -233,6 +233,7 @@ L'option la plus sûre est de ne pas consommer d'alcool en cas de:
 
 ### À lire
 
+- <http://www.addictologie.org/spip.php?page=avectitre&id_rubrique=8>
 - <http://www.addictologie.org/spip.php?page=accueil&id_rubrique=1>
 - <http://www.sfalcoologie.asso.fr/page.php?choix=A10>
 - <https://bdoc.ofdt.fr/index.php?lvl=more_results&autolevel1=1>
