@@ -14,7 +14,7 @@ tags = ["anticoagulant", "demence", "depistage", "dyspnee", "fatigue", "HTA", "S
 anglais = ["Atrial fibrillation"]
 sctid = "49436004"
 draft = true
-todo = "ESC 2020: Table 4, collège, Source 2013 bonne pour EGS, source 2013 pour AVK sujet âgé"
+todo = "ESC 2020: Table 4 | 351 chad pour asiat, collège, Source 2013 bonne pour EGS, source 2013 pour AVK sujet âgé"
 +++
 
 {{%article-summary%}}

@@ -114,8 +114,8 @@ Massages transverses profonds, séquences de contraction isométrique, relâchem
 En cas de persistance: orthèse plantaire voire infiltrations de corticoïdes.
 
 {{%/collapse%}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
-- [Fulpius T et al. Talalgies plantaires : aspects cliniques et pratiques. Rev Med Suisse 2002; volume -2. 22006](https://www.revmed.ch/RMS/2002/RMS-2384/22006)
+[Fulpius T et al. Talalgies plantaires : aspects cliniques et pratiques. Rev Med Suisse 2002; volume -2. 22006](https://www.revmed.ch/RMS/2002/RMS-2384/22006)
 
-{{% /collapse %}}
+{{%/sources%}}

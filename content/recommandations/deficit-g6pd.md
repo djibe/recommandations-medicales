@@ -192,10 +192,10 @@ Uniquement en carence démontrée.
 [Vigifavisme](https://www.vigifavisme.com/)
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [ANSM. Médicament et déficit en G6PD. 25/05/2021.](https://ansm.sante.fr/documents/reference/medicament-et-deficit-en-g6pd)
 - [HAS. Déficit en G6PD ou favisme. PNDS. Juin 2017.](https://www.has-sante.fr/jcms/c_2800207/fr/deficit-en-g6pd-glucose-6-phosphate-deshydrogenase-ou-favisme)
 - [Anses. Favisme. 27/05/2016.](https://www.anses.fr/fr/content/favisme)
 
-{{% /collapse %}}
+{{%/sources%}}

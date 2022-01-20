@@ -174,7 +174,7 @@ graph TB
 {{< /mermaid >}}
 
 {{%/collapse%}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [HAS. Choix et durée de l'antibiothérapie : Diverticulite aiguë sigmoïdienne non compliquée. Recommander les bonnes pratiques. 27/08/2021.](https://www.has-sante.fr/jcms/p_3282886/fr/choix-et-duree-de-l-antibiotherapie-diverticulite-aigue-sigmoidienne-non-compliquee)
 - [Schultz J.K. et al. European Society of Coloproctology: guidelines for the management of diverticular disease of the colon. Colorectal Dis. 22: 5-28. 2020.](https://doi.org/10.1111/codi.15140)
@@ -183,7 +183,7 @@ graph TB
 - [Prescrire Rédaction. Diverticulite aiguë du côlon. Novembre 2018.](https://prescrire.org)
 - [HAS. Prise en charge médicale et chirurgicale de la diverticulite colique. Novembre 2017.](https://www.has-sante.fr/jcms/c_2806798/fr/prise-en-charge-medicale-et-chirurgicale-de-la-diverticulite-colique)
 
-{{%/collapse%}}
+{{%/sources%}}
 {{% modal title="Score ASA" id="modal-score-asa"%}}
 
 {{< scores/asa >}}

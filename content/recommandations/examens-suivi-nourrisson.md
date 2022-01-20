@@ -1,19 +1,19 @@
 +++
 title = "Examens de suivi de l'enfant et de l'adolescent"
 prefix = "les "
-shortname = "Suivi pediatrique"
+titleSeo = "Suivi de l'enfant"
+shortname = "Suivi pédiatrique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-02T11:57:29+02:00
 publishdate = 2020-06-02
-lastmod = 2021-07-05
+lastmod = 2022-01-20
 specialites = ["pediatrie"]
 annees = "2021"
 sources = ["Service-public"]
 tags = ["nourrisson", "enfant", "adolescent"]
 image = true
 imageSrc = "Illustration par pch.vector / Freepik"
-draft = false
 +++
 
 {{%collapse "Définitions" %}}
@@ -34,9 +34,9 @@ Enfant
 
 Examens médicaux de la naissance à 16 ans, réalisés en **tiers payant total sur l'Assurance Maladie Obligatoire** de l'enfant.
 
-- Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de vie sont sur l'Assurance *Maternité*, tous les autres sont en *Maladie*.
-- Les consultations *COE* correspondent aux certificats obligatoires (8 jours, 9 mois, 24 mois).  
-- Les tarifs ci-dessous concernent la Métropole.
+- Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de vie sont sur l'assurance *Maternité*, tous les autres sont en *Maladie*
+- Les consultations *COE* correspondent aux certificats obligatoires (8 jours, 9 mois et 24 mois)  
+- Les tarifs ci-dessous concernent la Métropole
 
 {{< table title="Examens de suivi du nourrisson remboursés à 100%" >}}
 
@@ -58,12 +58,12 @@ Examens médicaux de la naissance à 16 ans, réalisés en **tiers payant total 
 | 14    | 3 ans | COD (30€) |
 | 15    | 4 ans | COD (30€) |
 | 16    | 5 ans | COD (30€) |
-| 17    | 6 ans | COD (30€) |
+| 17    | 6 ans | COB (25€) |
 | 18    | 8-9 ans | COB (25€) |
 | 19    | 11-13 ans | COB (25€) |
 | 20    | 15-16 ans | COB (25€) |
 {{< /table >}}
 
-> [Service-public. Visites médicales de l'enfant : examens obligatoires. 21/05/2021](https://www.service-public.fr/particuliers/vosdroits/F967)
+> [Service-public. Visites médicales de l'enfant : examens obligatoires. 21/05/2021](https://www.service-public.fr/particuliers/vosdroits/F967) et [Arrêté du 26/02/2019](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038175215/)
 
 {{% /collapse %}}

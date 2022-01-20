@@ -177,7 +177,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 > Glycémie exprimée en g/L
 
 {{%/collapse%}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - {{< references/sfd-dt2 >}}
 - [Vambergue A. et al; SFD, CNGOF. Diabète gestationnel et pandémie SARS-Cov2 (COVID-19). Avril 2020. (PDF)](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)
@@ -187,4 +187,4 @@ style fdr stroke:#4150f5, stroke-width:1px
 - SFD. Le livre blanc du diabète. 2011.
 - [CNGOF, SFD. Le diabète gestationnel. Recommandations pour la pratique clinique. 2010. (PDF)](http://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/diabete%20gesta%20cngof.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}

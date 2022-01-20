@@ -1,19 +1,19 @@
 +++
 title = "Névralgie trigéminale classique"
+titleSeo = "Névralgie du trijumeau"
 prefix = "la "
 shortname = "NTC"
 synonyms = ["Névralgie du trijumeau"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-05T23:43:00+02:00
 publishdate = 2021-03-21
-lastmod = 2021-03-21
+lastmod = 2022-01-20
 specialites = ["neurologie"]
 annees = "2018"
 sources = ["SFEMC", "SFNC"]
 tags = ["cephalees", "neuropathie"]
 anglais = ["Trigeminal neuralgia"]
 sctid = "31681005"
-draft = false
 flowchart = true
 image = true
 imageWEBP = true
@@ -79,7 +79,8 @@ Tous les [critères 13.1.1 de la classification ICHD-3](https://ichd-3.org/13-pa
 {{%collapse "Signes d'alerte" %}}
 
 {{%warning%}}
-Signes incompatibles avec la névralgie trigéminale classique:
+
+### Signes incompatibles avec la névralgie trigéminale classique
 
 - Troubles sensitifs persistants
 - Surdité ou problèmes auditifs
@@ -192,26 +193,30 @@ Avec **séquences spécifiques**.
 
 Traitement de fond de 1<sup>re</sup> intention: carbamazépine ou oxcarbazépine.
 
-{{%warning%}}Les antalgiques et AINS ne sont pas efficaces sur la NTC.{{%/warning%}}
+{{%warning%}}Les antalgiques et AINS ne sont pas efficaces sur la NTC{{%/warning%}}
 
 ### Carbamazépine
 
 {{%info%}}
-Carbamazépine 100 mg matin, midi et 100 mg LP le soir 30 minutes avant le repas.  
-Augmentation par paliers de 100 mg matin et soir tous les 2 à 5 jours.
+Carbamazépine 100 mg matin, midi et LP 100 mg le soir 30 minutes avant le repas.  
+Augmentation par paliers de 100 mg matin et 100 mg LP soir tous les 2 à 5 jours.
 {{%/info%}}
 
-Débuter: [carbamazépine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61009918&typedoc=R) (Tegretol® ou autre, non LP de préférence) 200-400 mg/j en 2-3 prises.  
+**Débuter:** [carbamazépine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61009918&typedoc=R) (Tegretol® ou autre, non LP de préférence) 200-400 mg/j en 2-3 prises.  
 Augmenter jusqu'à suppression de la douleur (max 1600 mg/j) puis obtention de la dose minimale efficace.
 
-- Non LP de préférence sauf au coucher.
-- Vérifier systématiquement les interactions.
-- Bilan pré-thérapeutique: NFS, bilan hépatique, ECG chez personne âgée.
-- Surveillance: NFS, bilan hépatique hebdomadaires le 1<sup>er</sup> mois puis en signes d'appel.
-- **Contre-indications:** BAV, hypersensibilité à la molécule/excipients, antécédent d'hypoplasie médullaire ou de porphyrie hépatique, traitement par télaprévir ou variconazole.
-- **Effets indésirables principaux:** hyponatrémie, induction enzymatique, vertiges, ataxie, somnolence, fatigue, diplopie, troubles de l'accommodation, confusion ou agitation.
-- **Effets indésirables graves:** aplasie, toxidermie grave.
-- Développée spécifiquement pour traiter la NTC, soulagement complet initial pour 70% des patients.
+- Non LP de préférence sauf au coucher
+- Vérifier systématiquement [les interactions](https://go.drugbank.com/drugs/DB00564)
+- Bilan pré-thérapeutique  
+NFS, bilan hépatique, ECG chez personne âgée.
+- Surveillance  
+NFS, bilan hépatique hebdomadaires le 1<sup>er</sup> mois puis en signes d'appel.
+- **Contre-indications**  
+BAV, hypersensibilité à la molécule/excipients, antécédent d'hypoplasie médullaire ou de porphyrie hépatique, traitement par télaprévir ou variconazole.
+- **Effets indésirables principaux**  
+Hyponatrémie, induction enzymatique, vertiges, ataxie, somnolence, fatigue, diplopie, troubles de l'accommodation, confusion ou agitation.
+- **Effets indésirables graves:** aplasie, toxidermie grave
+- Développée spécifiquement pour traiter la NTC, soulagement complet initial pour 70% des patients
 
 ### Oxcarbazépine
 
@@ -220,15 +225,15 @@ Oxcarbazépine 300 mg matin et soir.
 Augmentation par paliers de 300-600 mg par semaine.
 {{%/info%}}
 
-Débuter: [oxcarbazépine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60043077&typedoc=R) (Trileptal® ou autre) 300 mg/j x 2/j.  
+**Débuter:** [oxcarbazépine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60043077&typedoc=R) (Trileptal® ou autre) 300 mg x 2/j.  
 Augmenter jusqu'à suppression de la douleur (max 1800 mg/j) puis obtention de la dose minimale efficace.
 
-- Bien mieux tolérée que la carbamazépine (3x moins d'effets indésirables) mais n'a pas l'AMM en France.
-- Bilan pré-thérapeutique: ionogramme si IRC ou hyponatrémiants.
-- Surveillance: ionogramme à J14 puis mensuel pendant 3 mois ou si point d'appel.
-- **Contre-indication:** hypersensibilité à la molécule.
-- **Effets indésirables principaux:** hyponatrémie (normalisation en réduction de dose), induction enzymatique, somnolence, ataxie, vertiges.
-- **Effets indésirables graves:** aplasie, toxidermie grave.
+- Bien mieux tolérée que la carbamazépine (3x moins d'effets indésirables) mais n'a pas l'AMM en France
+- Bilan pré-thérapeutique: ionogramme si IRC ou hyponatrémiants
+- Surveillance: ionogramme à J14 puis mensuel pendant 3 mois ou si point d'appel
+- **Contre-indication:** hypersensibilité à la molécule
+- **Effets indésirables principaux:** hyponatrémie (normalisation en réduction de dose), induction enzymatique, somnolence, ataxie, vertiges
+- **Effets indésirables graves:** aplasie, toxidermie grave
 
 ### Autres traitements médicamenteux
 
@@ -244,7 +249,7 @@ Indications pour une NTC certaine:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une névralgie du trijumeau" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de névralgie trigéminale classique. Dr JB FRON d'après Donnet 2018" >}}
+{{< mermaid title="Conduite à tenir devant une suspicion de névralgie trigéminale classique. Dr JB Fron d'après Donnet 2018" >}}
 graph TB
   suspNtc["Suspicion de<br>névralgie trigéminale classique"] --> exclusion("<b>Signes d'alerte ?</b><hr>- Âge &lt; 40 ans<br>- Déficitaire<br>- Surdité/otologique<br>- Atteinte cutanée ou buccale<br>- Atteinte V1 isolée<br>- Névrite optique<br>- ATCD familial de SEP<br>- Carbamazépine inefficace")
   style suspNtc stroke:#4150f5, stroke-width:1px
@@ -253,7 +258,7 @@ graph TB
       irm -- Normale --> ntc(NTC certaine)
       style ntc stroke:#4150f5, stroke-width:1px
         ntc --> traitement(<b>Traitement</b><br>Carbamazépine ou oxcarbazépine)
-          traitement --> escalade("- Augmentation par paliers<br>- Recherche dose minimale<br>- Surveillance clinico-biologique")
+          traitement --> escalade("- Suivi spécialisé<br>- Augmentation par paliers<br>- Recherche dose minimale<br>- Surveillance clinico-biologique")
             escalade -. Échec thérapeutique .-> echec(Avis neurologique)
       irm -- Anormale --> neuro(Avis neurologique)
   exclusion -- Oui --> neuro
@@ -261,8 +266,8 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse "Source" %}}
+{{%sources%}}
 
 [A. Donnet et al, SFEMC, SFNC. Recommandations pour le diagnostic et la prise en charge de la névralgie trigéminale classique, Neurochirurgie, Volume 64, Issue 4, 2018, Pages 285-302,](https://www.sciencedirect.com/science/article/pii/S0028377018300456?via%3Dihub)
 
-{{% /collapse %}}
+{{%/sources%}}

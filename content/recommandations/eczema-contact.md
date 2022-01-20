@@ -52,8 +52,8 @@ AntiH1 sédatif pour prurit
 
 Inutiles: AntiH1 non sédatifs, cortico générale
 
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - EREVO. La dermatologie en pratique.
 
-{{% /collapse %}}
+{{%/sources%}}

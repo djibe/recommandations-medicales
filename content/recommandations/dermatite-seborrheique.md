@@ -6,7 +6,7 @@ synonyms = ["Eczéma séborrhéique, dermite séborrhéique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-01T22:39:41+02:00
 publishdate = 2020-09-01
-lastmod = 2021-09-20
+lastmod = 2022-01-20
 specialites = ["dermatologie"]
 annees = "2017"
 sources = ["CEDEF"]
@@ -117,12 +117,12 @@ Puis application 2-4/mois.
 Shampooing antipelliculaire en alternance avec shampooing doux.
 
 {{%info%}}
-Ciclopirox (Sebiprox®, gén) shampooing 1% (ou +)  
-OU kétoconazole (Ketoderm®, gén) gel moussant 2%
+[Ciclopirox](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60655327&typedoc=R) (Sebiprox®, gén) shampooing 1,5% 2-3/sem
+OU [kétoconazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66227874&typedoc=R) (Ketoderm®, gén) gel moussant 2% 2/sem
 {{%/info%}}
 
 **Effets indésirables:** prurit, sensation de brûlure, xérose cutanée, interactions médicamenteuses.  
-Seule le kétoconazole topique peut être utilisé pendant la grossesse.
+Seul le kétoconazole topique peut être utilisé [pendant la grossesse](https://lecrat.fr/spip.php?page=article&id_article=494).
 
 Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine, pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
 
@@ -174,14 +174,14 @@ graph TB
 - Des effets secondaires peuvent survenir à la suite d'un traitement excessif
 - En atteinte du cuir chevelu
   - Un shampooing antipelliculaire peut être utilisé en alternance avec un shampooing doux
-  - Essayer d'autres compositions en inefficacité (cilcopirox, pyrithione de zinc, sulfure de sélénium, piroctone olamine...)
+  - Essayer d'autres compositions en inefficacité (ciclopirox, pyrithione de zinc, sulfure de sélénium, piroctone olamine...)
   - Si inefficace: kétoconazole 2% ou ciclopirox 1% pendant 1 mois
 
 {{% /collapse %}}
-{{% collapse "Sources" %}}
+{{%sources%}}
 
 - [Prescrire Rédaction. Dermatite séborrhéique chez un adulte. Août 2020.](https://prescrire.org)
 - [CEDEF. Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
 - [CEDEF. Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 - UE 6. 2017. (PDF)](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2486.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}

@@ -176,7 +176,7 @@ ET suivi spécialisé de maladie chronique
 Examen clinique de suivi annuel.
 
 {{%/collapse%}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Allen MS. Physical activity as an adjunct treatment for erectile dysfunction. Nat Rev Urol. 2019;16(9):553-562. doi: 10.1038/s41585-019-0210-6. PMID: 31239541.](https://www.ncbi.nlm.nih.gov/pubmed/31239541)
 - [Colson MH et al. Démarche diagnostique et prise en charge du patient souffrant de dysfonction érectile, actualisation et consignes pratiques. Sexologies. 1 janv 2018;27(1):23‑30.](https://www.em-consulte.com/en/article/1198573)
@@ -184,7 +184,7 @@ Examen clinique de suivi annuel.
 - [Nehra A et al. The Princeton III Consensus Recommendations for the Management of Erectile Dysfunction and Cardiovascular Disease. Mayo Clinic Proceedings. 1 août 2012;87(8):766‑78.](https://www.mayoclinicproceedings.org/article/S0025-6196(12)00635-0/abstract)
 - [Cuzin B. et al, AIUS. Recommandations aux médecins généralistes pour la prise en charge de première intention de la dysfonction érectile. 2010.](https://ur.booksc.eu/book/17263369/eede54)
 
-{{%/collapse%}}
+{{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}

@@ -27,7 +27,7 @@ todo = "lire campus ORL"
 - TDR et ATB accessibles directement en pharmacie si contrat de soins avec le pharmacien ([JO 08/03/2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041697956))
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Angine
 : Infection des amygdales palatines voire de l'ensemble du pharynx.  
@@ -38,8 +38,7 @@ Il est responsable de 25-40% des angines de l'enfant, 10-25% des angines de l'ad
 TDR
 : Test de Diagnostic Rapide du SGA ou Test de dépistage Rapide à Orientation Diagnostique (TROD) de l'angine. Aussi appelé Streptatest®.
 
-{{% /collapse %}}
-{{%collapse "Complications de l'angine" %}}
+### Complications de l'angine
 
 - Phlegmon péri-amygdalien
 - Complications infectieuses locales
@@ -48,7 +47,7 @@ TDR
 - Rhumatisme articulaire aigu (RAA)
 - Glomérulonéphrite aiguë post-streptococcique (GNA)
 
-> "Les angines à SGA évoluent le plus souvent favorablement en 3-4 jours même en l’absence de traitement antibiotique. Cependant, elles peuvent donner lieu à des complications potentiellement graves (syndromes post-streptococciques : rhumatisme articulaire aigu (RAA), glomérulonéphrite aiguë (GNA), et complications septiques loco-régionales dont la prévention justifie la mise en œuvre d’une antibiothérapie."
+> << Les angines à SGA évoluent le plus souvent favorablement en 3-4 jours même en l’absence de traitement antibiotique. Cependant, elles peuvent donner lieu à des complications potentiellement graves (syndromes post-streptococciques : rhumatisme articulaire aigu (RAA), glomérulonéphrite aiguë (GNA), et complications septiques loco-régionales dont la prévention justifie la mise en œuvre d’une antibiothérapie. >>
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -61,6 +60,8 @@ Autres formes d'angine:
 - Diphtérie
 - Gonocoque
 - Anaérobies
+
+{{%info%}}Pour mieux visualiser les amygdales, demander à l'enfant de rugir comme un lion ou de bailler la bouche ouverte (*Pr Douglas Paauw*){{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Score de Mac Isaac" %}}

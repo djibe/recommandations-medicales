@@ -1,37 +1,45 @@
 <div class="card-body" id="score-cha2ds2vasc">
   <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="cha1" class="custom-control-input" value="2">
-    <label class="custom-control-label" for="cha1">Âge &ge; 75 ans</label>
+    <input type="checkbox" id="check-femme" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="check-femme">Femme</label>
   </div>
   <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="age65" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="age65">Âge 65 à 74</label>
+    <input type="checkbox" id="check-age75" class="custom-control-input" value="2">
+    <label class="custom-control-label" for="check-age75">Âge &ge; 75 ans</label>
   </div>
   <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="hta" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="hta">Hypertension artérielle</label>
+    <input type="checkbox" id="check-age65" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="check-age65">Âge 65 à 74</label>
   </div>
   <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="diabete" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="diabete">Diabète</label>
+    <input type="checkbox" id="check-hta" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="check-hta">Hypertension artérielle</label>
   </div>
   <div class="custom-control custom-checkbox">
-    <input type="checkbox" id="ic" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="ic">Insuffisance cardiaque</label>
+    <input type="checkbox" id="check-diabete" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="check-diabete">Diabète type 1 ou 2</label>
   </div>
-  <input type="checkbox" id="stroke" class="d-none" value="2">
-  <label for="stroke" class="chip chip-action chip-filter">Antécédent AVC/AIT</label>
-  <input type="checkbox" id="woman" class="d-none" value="1">
-  <label for="woman" class="chip chip-action chip-filter">Femme</label>
-  <input type="checkbox" id="disease" class="d-none" value="1">
-  <label for="disease" class="chip chip-action chip-filter">Maladie vasculaire (IDM, AOMI, plaque aortique)</label>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-ic" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="check-ic">Insuffisance cardiaque</label>
+    <p class="typography-caption text-black-secondary">ou dysfonction VG ou HVG.</p>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-avc" class="custom-control-input" value="2">
+    <label class="custom-control-label" for="check-avc">Antécédent AVC ou AIT</label>
+    <p class="typography-caption text-black-secondary">ou autre thromboembolie artérielle.</p>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="check-mcv" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="check-mcv">Maladie cardiovasculaire (IDM, AOMI, plaque aortique)</label>
+    <p class="typography-caption text-black-secondary">ou sténose coronaire significative.</p>
   </div>
   <div class="alert bg-light d-md-flex">
     <div class="d-flex flex-column align-items-center">
-      <p class="typography-overline score-output-title">Score STOP-BANG</p>
-      <output class="score-output" id="stopbangScore">0</output>
+      <p class="typography-overline score-output-title">Score CHA<sub>2</sub>DS<sub>2</sub>-VASc</p>
+      <output class="score-output" id="chadsScore">0</output>
     </div>
-    <p id="stopbangText" class="lead m-auto">Faible risque de SAOS</p>
+    <p id="chadsText" class="lead m-auto">XXX</p>
   </div>
 </div>
 <blockquote class="blockquote">

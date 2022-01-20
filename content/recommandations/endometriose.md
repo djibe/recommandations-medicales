@@ -268,14 +268,14 @@ graph TB
 - [EndoFrance. L'IRM pelvienne (PDF)](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/LIRM.pdf)
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [CNGOF, ARS IDF, PNS-MOOC. Endométriose : l'affaire de tous. Mai 2021.](https://endometriose-affairedetous.com/)
 - [Prescrire Rédaction. Endométriose douloureuse. En absence de projet de grossesse : paracétamol et AINS, voire estroprogestatif ou DIU au lévonorgestrel. Rev Prescrire 2019 ; 39 (433) : 833-841](https://prescrire.org/)
 - [Inserm. Endométriose. Dossiers d'information. 11/12/2018.](https://www.inserm.fr/information-en-sante/dossiers-information/endometriose)
 - [HAS et CNGOF. Prise en charge de l’endométriose. Recommandation de bonne pratique. Décembre 2017.](https://www.has-sante.fr/jcms/c_2819733/fr/prise-en-charge-de-l-endometriose)
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Échelle EHP-5" id="modal-score-ehp5"%}}
 
 {{< scores/ehp5 >}}

@@ -84,9 +84,9 @@ Un temps de sommeil souvent inférieur aux durées recommandées provoque:
 Chez l'adolescent: risque augmenté d'automutilation, pensées suicidaires et tentatives de suicide.
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Paruthi S et al. Consensus statement of the American Academy of Sleep Medicine on the recommended amount of sleep for healthy children: methodology and discussion. J Clin Sleep Med 2016;12(11):1549–1561.](http://dx.doi.org/10.5664/jcsm.6288)
 - [Watson NF et al. Joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society on the recommended amount of sleep for a healthy adult: methodology and discussion. J Clin Sleep Med 2015;11(8):931–952.](http://dx.doi.org/10.5664/jcsm.4950)
 
-{{% /collapse %}}
+{{%/sources%}}

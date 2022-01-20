@@ -59,6 +59,10 @@ Cette étape va passer par l'adresse de courriel associée à votre compte ordin
 
 {{< youtube id="LdCD9dCDWzM" title="Activer et utiliser la e-CPS en vidéo (ANS)" >}}
 
+### Aide en cas d'échec d'installation
+
+[FAQ e-CPS](https://esante.gouv.fr/securite/faq-e-cps) ou {{<phone>}}0 809 40 00 82{{</phone>}} (gratuit)
+
 {{%/collapse%}}
 {{%collapse "Fraude à la e-CPS" %}}
 

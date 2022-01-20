@@ -320,7 +320,7 @@ graph TB
 > CNO = complément alimentaire; MNA = {{%lang%}}Mini Nutritional Assessment{{%/lang%}}; PP = perte de poids, sem = semaine
 
 {{%/collapse%}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [HAS, FFN. Diagnostic de la dénutrition chez la personne de 70 ans et plus. Recommandation de bonne pratique. Novembre 2021.](https://www.has-sante.fr/jcms/p_3165944/fr/diagnostic-de-la-denutrition-chez-la-personne-de-70-ans-et-plus)
 - Prescrire Redaction. Complémentation nutritionnelle orale chez les adultes dénutris : conditions de remboursement en France en 2020. La Revue Prescrire. Mai 2020.
@@ -332,7 +332,7 @@ graph TB
 
 [Société Francophone de Nutrition Clinique et Métabolisme - Référentiels](https://www.sfncm.org/outils-education/recommandations/referentiels)
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Définition de la sarcopénie" id="modal-sarcopenie"%}}
 
 {{< clinique/denutrition-sarcopenie >}}

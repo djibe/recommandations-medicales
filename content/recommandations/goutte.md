@@ -169,17 +169,17 @@ Force la diurèse à 2-3 L/jour.
 Indication: en 2<sup>e</sup> intention selon *Prescrire®* (à la place des AINS).
 
 {{%info%}}
-Colchicine 1 mg per os avec 2<sup>e</sup> prise de 0,5 mg 1 heure après.  
+[Colchicine 1 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68066715&typedoc=R) per os avec 2<sup>e</sup> prise de 0,5 mg 1 heure après.  
 Puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours).
 {{%/info%}}
 
-- Réduire/arrêter la dose en cas de survenue de diarrhées.
-- Débuter si crise datant < 12 heures (à avoir toujours sur soi).
-- Diminuer la dose chez l'insuffisant rénal et le sujet âgé.
+- Réduire/arrêter la dose en cas de survenue de diarrhées
+- Débuter si crise datant < 12 heures (à avoir toujours sur soi)
+- Diminuer la dose chez l'insuffisant rénal et le sujet âgé
 - Adapter la posologie avec certains traitements  
 [Vérifier les interactions avec la colchicine](https://go.drugbank.com/drugs/DB01394).
-- Attention à l’association avec les statines (neuro et musculo-toxicité).
-- Contre-indiquée si insuffisance rénale sévère, ciclosporine, clarithromycine, vérapamil, kétoconazole (vérifier les interactions).
+- Attention à l’association avec les statines (neuro et musculo-toxicité)
+- Contre-indiquée si insuffisance rénale sévère, ciclosporine, clarithromycine, vérapamil, kétoconazole
 
 **NB.** Lors d'un premier accès, elle est aussi utilisée comme test thérapeutique.
 
@@ -187,7 +187,7 @@ Puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours
 
 Indication: en 3<sup>e</sup> intention, en remplacement des AINS et de la colchicine.
 
-{{%info%}}Prednisone 30 mg x 1/j pendant 3-5 jours{{%/info%}}
+{{%info%}}[Prednisone 20 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64793934&typedoc=R) 1,5 cp x 1/j pendant 3-5 jours{{%/info%}}
   
 Ne pas associer AINS et corticoïdes.  
 Ne pas utiliser en cas de diabète ou d'HTA déséquilibrés.
@@ -209,10 +209,8 @@ Traitement de dernier ressort en cas de:
 - Contre-indication ou résistance à la colchicine
 - ET ≥ 3 crises durant l’année précédente
 
-*Canakinumab* (Ilaris®) 150 mg SC dose unique.  
-Intervalle de 12 semaines entre 2 injections.
-
-Traitement contre-indiqué en cas d'infection active.
+{{%class%}}*Canakinumab* (Ilaris®) 150 mg SC dose unique. Intervalle de 12 semaines entre 2 injections.  
+Traitement contre-indiqué en cas d'infection active.{{%/class%}}
 
 {{% /collapse %}}
 {{%collapse "Traitement de fond de la goutte" %}}
@@ -247,7 +245,7 @@ Prévention de crise par colchicine 0,5-1 mg/j pendant 3-6 premiers mois (altern
 {{%/info%}}
 
 L'*ACR* recommande la recherche *HLA–B*5801* pour les personnes originaires d'Asie du Sud-Est (Chine, Thaïlande, Corée) et afro-américains par sur-risque de toxidermie (x3).  
-Non remboursé, il est préférable de démarrer à 50 mg avec paliers de 50 mg.
+Non remboursé, il est prudent de démarrer à 50 mg avec paliers de 50 mg pour ces personnes.
 
 #### Traitement de fond selon la fonction rénale
 
@@ -392,7 +390,7 @@ Intérêt de colchicine prophylactique.
 - Correction des facteurs de risque cardiovasculaire
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Prescrire Rédaction. Crise de goutte. Premiers choix Prescrire. Mars 2021.](https://prescrire.org)
 - [Société Française de Rhumatologie. Recommandations 2020 de la Société française de rhumatologie pour la prise en charge de la goutte : traitement des crises de goutte. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.008)
@@ -403,4 +401,4 @@ Intérêt de colchicine prophylactique.
 - [Société Française de Rhumatologie. Traitement de la goutte. Revue du Rhumatisme 74. 2007. (PDF)](https://www.em-consulte.com/article/59851/article/traitement-de-la-goutte)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8.](http://www.lecofer.org/item-cours-1-19-0.php#ch_2_1)
 
-{{% /collapse %}}
+{{%/sources%}}

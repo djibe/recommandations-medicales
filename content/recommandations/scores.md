@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-14T15:58:37+01:00"
 publishdate = "2021-12-14"
-lastmod = "2021-12-15"
+lastmod = "2022-01-20"
 specialites = []
 annees = "2022"
 sources = []
@@ -25,9 +25,11 @@ imageSrc = "Scores cliniques par slidesgo / Freepik"
 
 {{< modal-btn modal-saos >}}Dépistage SAOS{{< /modal-btn >}}, [Carnet d'automesure 2021 (PDF)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf), {{< scores/heartscore >}}, {{< modal-btn modal-rcv >}}risque cardiovasculaire et LDL cible{{< /modal-btn >}}, {{< modal-btn modal-statine-intensite >}}efficacité des statines{{< /modal-btn >}}, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}, {{< modal-btn modal-depistage-prevalent >}}dépistage AOMI ≥ 55 ans{{< /modal-btn >}}
 
+{{< modal-btn score-nyha >}}Score NYHA{{< /modal-btn >}}
+
 ## Dermatologie {.typography-overline}
 
-{{< modal-btn modal-dc >}}Dermocorticoïdes{{< /modal-btn >}}
+{{< modal-btn modal-dc >}}Dermocorticoïdes{{< /modal-btn >}}, {{< modal-btn modal-mmrc >}}Score mMRC{{< /modal-btn >}}
 
 ## Diabète {.typography-overline .mt-4}
 
@@ -40,8 +42,20 @@ imageSrc = "Scores cliniques par slidesgo / Freepik"
 
 ## Pneumologie {.typography-overline}
 
-{{< modal-btn modal-depistage-bpco >}}Dépistage BPCO{{< /modal-btn >}}
+{{< modal-btn modal-depistage-bpco >}}Dépistage BPCO{{< /modal-btn >}}, 
 
+<!-- Modals -->
+
+{{% modal title="Échelle NYHA" id="score-nyha"%}}
+
+{{< scores/nyha >}}
+
+{{% /modal %}}
+{{% modal title="Échelle de dyspnée du Medical Research Council modifiée" id="modal-score-mmrc"%}}
+
+{{< scores/mmrc >}}
+
+{{% /modal %}}
 {{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}
