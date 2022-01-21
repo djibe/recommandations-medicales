@@ -1,6 +1,7 @@
 +++
 title = "Artériopathie oblitérante des membres inférieurs"
 prefix = "l'"
+titleSeo = "Artériopathie oblitérante des membres inférieurs"
 shortname = "AOMI"
 synonyms = ["AOMI", "artériopathie aorto-iliaque et des membres inférieurs", "artérite des membres inférieurs"]
 auteurs = ["Jean-Baptiste FRON"]

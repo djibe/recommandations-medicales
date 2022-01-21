@@ -337,10 +337,10 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [SPILF. Info-antibio N°92. Mai 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2021-05-tt-courts.pdf)
-- [Prescrire Rédaction. Syphilis Précoce. Octobre 2020.](https://prescrire.org/fr/Summary.aspx)
+- Prescrire Rédaction. Syphilis Précoce. Octobre 2020.
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
 - [Académie Nationale de Médecine. La Syphilis en France en 2016 : une situation préoccupante. 17/03/2017. (PDF)](http://www.academie-medecine.fr/wp-content/uploads/2017/03/17.3.7-JANIER-site.pdf)
 - [Société Française de Dermatologie. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement Transmissibles. Février 2016. (PDF)](http://www.sfdermato.org/media/pdf/recommandation/syphilis-precoce-b61913fb8de5bca222326904654c6b30.pdf)
@@ -349,4 +349,4 @@ graph TB
 - [Haute Autorité de Santé. Modification de la Nomenclature des actes de biologie médicale pour les actes de recherche du Treponema pallidum. Mai 2015. (PDF)](https://www.has-sante.fr/portail/upload/docs/application/pdf/2015-05/argumentaire_syphilis_vd.pdf)
 - [Société de Pathologie Infectieuse de Langue Française. Alternatives pour le traitement des syphilis non neurologiques dans un contexte de rupture de stock de benzathine pénicilline ± doxycycline. Février 2014. (PDF)](http://www.infectiologie.com/UserFiles/File/spilf/recos/2014-traitement-syphilis.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}

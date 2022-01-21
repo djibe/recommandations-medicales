@@ -1,7 +1,7 @@
 +++
 title = "Polyarthrite rhumatoïde"
 prefix = "la "
-shortname = "PR"
+titleSeo = "Polyarthrite rhumatoïde"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-23T22:24:41+02:00
@@ -13,7 +13,6 @@ sources = ["SFRhumato", "EULAR", "ACR"]
 tags = ["biotherapie", "vaccin"]
 anglais = ["Rheumatoid arthritis"]
 sctid = "69896004"
-draft = false
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
@@ -254,7 +253,7 @@ Alternative: méthylprednisolone IV 80-120 mg.
 Infiltrations ciblées des articulations douloureuses.
 
 {{% /collapse %}}
-{{%collapse "Surveillance" %}}
+{{%collapse "Suivi" %}}
 
 - Biologique  
 VS, CRP, BU.
@@ -301,7 +300,7 @@ graph TB
 **NB.** Régimes sans gluten et lactose n'ont pas fait preuve d'efficacité.
 
 {{%/collapse%}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Société Française de Rhumatologie. Actualisation des Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. Septembre 2018.](https://www.sciencedirect.com/science/article/pii/S1169833018301522)
 - [EULAR. 2016 update of the EULAR recommandations for the management of early arthritis. 03/31/2017.](https://ard.bmj.com/content/76/6/948)
@@ -309,7 +308,7 @@ graph TB
 - [Société Française de Rhumatologie. Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. Juin 2014.](https://www.sciencedirect.com/science/article/pii/S1169833014001148)
 - [Le COFER. Polyarthrite rhumatoïde. Item 196 UE 8.](http://www.lecofer.org/item-cours-1-17-0.php)
 
-{{%/collapse%}}
+{{%/sources%}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}
 
 {{< traitements/regime-mediterraneen >}}

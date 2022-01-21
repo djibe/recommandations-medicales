@@ -1,7 +1,7 @@
 +++
 title = "Hypertension artérielle de l'adulte"
 prefix = "l'"
-shortname = "HTA"
+shortname = "Hypertension artérielle"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
@@ -13,7 +13,6 @@ sources = ["ESH", "ESC"]
 tags = ["cephalees", "demence", "depistage", "epreuve effort", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "vertige"]
 anglais = ["Hypertension disorder", "high blood pressure"]
 sctid = "38341003"
-draft = false
 image = true
 imageSrc = "Illustration de l'hypertension artérielle par vectorjuice / Freepik"
 todo = "index google demandée 9 déc, modale automesure, A LIRE: Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, hypotension orthostatique, ESC 2018 tableau 4+19 - src157"

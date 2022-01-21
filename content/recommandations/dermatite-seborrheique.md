@@ -1,6 +1,7 @@
 +++
 title = "Dermatite séborrhéique"
 prefix = "la "
+titleSeo = "Dermatite séborrhéique"
 shortname = "DS"
 synonyms = ["Eczéma séborrhéique, dermite séborrhéique"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -180,7 +181,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Prescrire Rédaction. Dermatite séborrhéique chez un adulte. Août 2020.](https://prescrire.org)
+- Prescrire Rédaction. Dermatite séborrhéique chez un adulte. Août 2020.
 - [CEDEF. Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
 - [CEDEF. Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 - UE 6. 2017. (PDF)](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2486.pdf)
 

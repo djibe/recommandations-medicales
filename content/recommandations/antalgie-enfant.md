@@ -1,6 +1,7 @@
 +++
 title = "Antalgie chez l'enfant"
 prefix = "l'"
+titleSeo = "Antalgie chez l'enfant"
 shortname = "Antalgie"
 synonyms = ["Antidouleurs en pédiatrie"]
 auteurs = ["Jean-Baptiste FRON"]

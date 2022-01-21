@@ -1,7 +1,7 @@
 +++
 title = "Maladie des griffes du chat"
 prefix = "la "
-shortname = "Griffes du chat"
+titleSeo = "Maladie des griffes du chat"
 synonyms = ["Bartonellose à Bartonella henselae, lymphogranulomatose bénigne d’inoculation"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T19:47:00+02:00

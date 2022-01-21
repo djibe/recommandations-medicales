@@ -1,7 +1,7 @@
 +++
 title = "Maladie cœliaque"
 prefix = "la "
-shortname = "cœliaque"
+titleSeo = "Maladie cœliaque"
 synonyms = ["Intolérance au gluten", "allergie au gluten", "sprue cœliaque", "cœliaquie"]
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CELLIER (SNFGE)"
@@ -14,7 +14,6 @@ sources = ["ESsCD", "HAS", "SNFGE"]
 tags = ["allergie", "cephalees", "coeliaque", "depistage", "EOGD", "fatigue", "ferritine", "neuropathie", "TSH"]
 anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac gluten sensitivity (NCGS) and extra-intestinal manifestations related to gluten)", "celiac"]
 sctid = "396331005"
-draft = false
 flowchart = true
 image = true
 imageWEBP = true
@@ -292,9 +291,9 @@ graph TB
 > **ATCD** = antécédents; **fam** = familiaux; **MC** = maladie cœliaque
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
-- [Prescrire. Intolérance au gluten - L'essentiel sur les soins de premier choix. Janvier 2020.](https://prescrire.org)
+- Prescrire Redaction. Intolérance au gluten - L'essentiel sur les soins de premier choix. Janvier 2020.
 - [Al-Toma A et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. UEG Journal, 7: 583-613. 2019.](https://doi.org/10.1177%2F2050640619844125)
 - [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut 2018;67:1380-1399.](https://gut.bmj.com/content/gutjnl/67/8/1380.full.pdf)
 - [Olives JP. Maladie coeliaque : de l’enfance à l’âge adulte. POST'U 2013 - Paris](https://www.fmcgastro.org/postu-main/postu-2013-paris/textes-postu-2013-paris/maladie-coeliaque-de-lenfance-a-lage-adulte/)
@@ -302,4 +301,4 @@ graph TB
 - [SNFGE. Maladie cœliaque](https://www.snfge.org/content/maladie-coeliaque)
 - [Asmeli. Intolérance au gluten.](https://www.ameli.fr/hauts-de-seine/assure/sante/themes/intolerance-gluten-maladie-coeliaque)
 
-{{%/collapse%}}
+{{%/sources%}}

@@ -13,7 +13,6 @@ sources = ["HAS", "SFDermato"]
 tags = ["cancer", "depistage"]
 anglais = ["Malignant melanoma"]
 sctid = "2092003"
-draft = false
 image = true
 imageSrc = "National Cancer Institute"
 todo = ""
@@ -267,7 +266,7 @@ En cas de suspicion de récidive, le patient doit être ré-adressé à l'équip
 - Impliquer selon les cas son entourage dans la gestion de la maladie, des traitements et des répercussions qui en découlent
 - Recourir si besoin à des modalités d’accompagnement psychologique appropriées.
 
-> Source HAS 2006
+> *HAS 2006*
 
 ### Méthode d'auto-examen cutané
 
@@ -286,10 +285,10 @@ Avec miroir en pied et examen de haut en bas. Tourner le côté gauche puis le c
 
 Examen avec miroir à main: Surélever chaque jambe pour examiner la face interne, externe et postérieure du mollet et de la cuisse. Face postérieure des bras, la nuque, le dos, le cuir chevelu et la région génitale.
 
-> Source HAS 2006
+> *HAS 2006*
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [HAS. Mélanome cutané : la détection précoce est essentielle. 11/02/2020.](https://www.has-sante.fr/jcms/pprd_2974838/fr/melanome-cutane-la-detection-precoce-est-essentielle?fbclid=IwAR0lsNr1vfC7AvM-SeKrLZlYNiRb0q4bgx4_mgwkQRRjHLJNMPPIlmxWC_U)
 - [Oncologik. Mélanomes vulvaires et vaginaux. 24/01/2020.](http://oncologik.fr/referentiels/rrc/melanomes-vulvaires-et-vaginaux)
@@ -300,4 +299,4 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 - [Collège National des Enseignants de Dermatologie. Item 149 : Tumeurs cutanées épithéliales et mélaniques : mélanomes. 2011. (PDF)](http://campus.cerimes.fr/dermatologie/enseignement/dermato_26/site/html/cours.pdf)
 - [SFDermato. Recommandations pour la Pratique Clinique : Standards, Options et Recommandations 2005 pour la prise en charge des patients adultes atteints d’un mélanome cutané MO. Décembre 2005. (PDF)](https://www.oncoderm.fr/upload/recommandations/9738-Prise-en-charge-des-meAlanome.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}

@@ -1,7 +1,7 @@
 +++
 title = "Insuffisance ovarienne prématurée"
 prefix = "l'"
-shortname = ""
+titleSeo = "Insuffisance ovarienne prématurée"
 synonyms = ["Ménopause précoce", "ménopause prématurée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-07T12:11:02+01:00"
@@ -12,8 +12,7 @@ annees = "2021"
 sources = ["HAS", "CNGOF"]
 tags = ["infertilite", "sueurs nocturnes", "TSH"]
 anglais = ["Premature ovarian insufficiency"]
-sctid = ""
-draft = false
+sctid = "237788002"
 flowchart = true
 image = false
 imageSrc = ""

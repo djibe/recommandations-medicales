@@ -137,7 +137,7 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - La Revue Prescrire 418. Panaris péri-unguéal bactérien aigu.
 - Pilly 2014
@@ -145,4 +145,4 @@ graph TB
 - [ChirurgieMain. Panaris](http://chirurgiemain.fr/pathologies-main-poignet/traumatismes/panaris/)
 - [Ameli. Panaris](https://www.ameli.fr/assure/sante/themes/panaris)
 
-{{% /collapse %}}
+{{%/sources%}}

@@ -250,7 +250,7 @@ Si échec, adresser au dermatologue.
 
 #### Antihistaminiques anti-H1 de seconde génération
 
-Molécules peu ou pas sédatives de première intention (selon Prescrire): **Cétirizine** ou **loratadine**.
+Molécules peu ou pas sédatives de première intention (selon *Prescrire*): **Cétirizine** ou **loratadine**.
 
 **Autres molécules étudiées chez l'adulte:** Bilastine, desloratadine, fexofénadine, lévocétirizine, rupatadine.  
 **Autres molécules étudiées chez l'enfant:** Desloratadine, fexofénadine, lévocétirizine.

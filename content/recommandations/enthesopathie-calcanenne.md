@@ -1,7 +1,7 @@
 +++
 title = "Enthésopathie calcanéenne"
 prefix = "l'"
-shortname = "Épine calcanéenne"
+titleSeo = "Épine calcanéenne"
 synonyms = ["Aponévrosite plantaire, épine calcanéenne, fasciite plantaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-02T15:14:20+02:00
@@ -15,7 +15,6 @@ anglais = ["Heel spur", "plantar fasciitis"]
 sctid= "202882003"
 image = true
 imageSrc = "Injurymap, CC BY 4.0, via Wikimedia Commons"
-draft = false
 +++
 
 {{%article-summary%}}

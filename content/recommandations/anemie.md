@@ -1,6 +1,7 @@
 +++
 title = "Anémie par carence martiale"
 prefix = "l'"
+titleSeo = "Anémie par carence martiale"
 shortname = "Anémie"
 synonyms = ["Carence en fer", "anémie ferriprive"]
 auteurs = ["Jean-Baptiste FRON"]

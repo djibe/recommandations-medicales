@@ -1,6 +1,7 @@
 +++
 title = "Cancer du sein"
 prefix = "le "
+titleSeo = "Cancer du sein"
 shortname = ""
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

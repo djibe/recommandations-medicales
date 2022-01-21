@@ -1,7 +1,7 @@
 +++
 title = "Insuffisance rénale chronique"
 prefix = "l'"
-shortname = "IRC"
+titleSeo = "Insuffisance rénale chronique"
 synonyms = ["et maladie rénale chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
@@ -13,7 +13,6 @@ sources = ["HAS", "KDIGO", "ESC"]
 tags = ["depistage", "diabete", "ferritine", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "vaccin"]
 anglais = ["Renal failure syndrome"]
 sctid = "42399005"
-draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration de l'insuffisance rénale par pch.vector / Freepik"

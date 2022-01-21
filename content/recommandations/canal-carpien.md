@@ -208,7 +208,7 @@ diagnostic -- Diagnostic différentiel --> differentiel("- Atteintes radiculaire
 {{%sources%}}
 
 - [Santé Publique France. Syndrome du canal carpien. 18/08/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-liees-au-travail/troubles-musculo-squelettiques/donnees/syndrome-du-canal-carpien)
-- [Prescrire Redaction. Syndrome du canal carpien: parfois d’origine médicamenteuse. Avril 2019.](https://prescrire.org/)
+- Prescrire Redaction. Syndrome du canal carpien: parfois d’origine médicamenteuse. Avril 2019.
 - [HAS. Syndrome du canal carpien - Optimiser la pertinence du parcours patient. Février 2013.](https://www.has-sante.fr/jcms/c_1365548/fr/syndrome-du-canal-carpien-optimiser-la-pertinence-du-parcours-patient)
 
 {{%/sources%}}

@@ -1,6 +1,7 @@
 +++
 title = "Substituts nicotiniques remboursés"
 prefix = "les "
+titleSeo = "Substituts nicotiniques remboursés"
 shortname = "Subs. nicotiniques"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

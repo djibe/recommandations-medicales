@@ -1,6 +1,7 @@
 +++
 title = "Cancer de l'estomac"
 prefix = "le "
+titleSeo = "Cancer de l'estomac"
 shortname = "Cancer estomac"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

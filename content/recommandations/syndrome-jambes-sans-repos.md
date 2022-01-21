@@ -1,7 +1,7 @@
 +++
 title = "Syndrome des jambes sans repos"
 prefix = "le "
-shortname = "SJSR"
+titleSeo = "Syndrome des jambes sans repos"
 synonyms = ["Maladie de Willis-Ekbom"]
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
@@ -14,7 +14,6 @@ sources = ["SFRMS"]
 tags = ["fatigue", "ferritine", "neuropathie", "prurit"]
 anglais = ["Restless legs syndrome"]
 sctid = "32914008"
-draft = false
 flowchart = true
 image = true
 imagePNG = true
@@ -439,10 +438,10 @@ graph TB
 > **SJSR:** syndrome des jambes sans repos
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
-- [Prescrire Redaction. Fer isomaltoside : pas plus de réactions d'hypersensibilité qu'avec le fer saccharose ?. Prescrire en questions. Revue Prescrire 2020; 40 : 469-470.](https://prescrire.org/)
-- [Prescrire Redaction. Jambes sans repos : soulager sans médicament. Août 2019.](https://prescrire.org/)
+- Prescrire Redaction. Fer isomaltoside : pas plus de réactions d'hypersensibilité qu'avec le fer saccharose ?. Prescrire en questions. Revue Prescrire 2020.
+- Prescrire Redaction. Jambes sans repos : soulager sans médicament. Août 2019.
 - [Chenini S. et al; SFRMS. Syndrome des jambes sans repos pharmaco-résistant. Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 114-125.](https://doi.org/10.1016/j.msom.2018.10.004)
 - [Limousin N. et al.; SFRMS. Traitement du syndrome des jambes sans repos nouvellement diagnostiqué. Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 106-113.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302449?via%3Dihub)
 - [Leclair-Visonneau L et al.; SFRMS. Comment poser le diagnostic d'un syndrome des jambes sans repos ? Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 97-105.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302437?via%3Dihub)
@@ -451,7 +450,7 @@ graph TB
 - [IRLSSG. 2012 revised IRLSSG diagnostic criteria for RLS](http://irlssg.org/Diagnostic-criteria)
 - [Allen RP, Stillman P, Myers AJ. Physician-diagnosed restless legs syndrome in a large sample of primary medical care patients in western Europe: Prevalence and characteristics. Sleep Med. 2010 Jan;11(1):31-7.](https://pubmed.ncbi.nlm.nih.gov/19464949/)
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Échelle internationale de sévérité du syndrome des jambes sans repos (IRLS)" id="modal-score-irls" size="lg"%}}
 
 {{< scores/irls >}}

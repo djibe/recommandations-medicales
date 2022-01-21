@@ -1,7 +1,7 @@
 +++
 title = "Maladie de Lyme"
 prefix = "la "
-shortname = "Lyme"
+shortname = "Maladie de Lyme"
 synonyms = ["Borréliose de Lyme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-30T18:17:39+02:00"
@@ -13,7 +13,6 @@ sources = ["DGS", "HAS"]
 tags = []
 anglais = ["Lyme disease"]
 sctid = "23502006"
-draft = false
 image = true
 imageSrc = "Érythème migrant. Photo de monkeypuzzle sur Foter"
 todo = "https://www.santepubliquefrance.fr/les-actualites/2021/borreliose-de-lyme-donnees-epidemiologiques-2020"
@@ -238,9 +237,9 @@ Antibiothérapie pendant 21 jours sauf enfant < 8 ans avec l'azithromycine: 10 j
 Traitement par l'infectiologue des autres formes de borréliose.
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Gocko X. et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. Volume 49. Issue 5. 2019. Pages 296-317.](https://doi.org/10.1016/j.medmal.2019.05.006)
 - [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques. Recommandation de bonne pratique. Juin 2018.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques)
 
-{{% /collapse %}}
+{{%/sources%}}

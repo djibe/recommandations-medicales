@@ -14,7 +14,6 @@ sources = ["SFMV", "CEDEF"]
 tags = ["EPS", "TSH"]
 anglais = ["Raynaud's phenomenon"]
 sctid = "266261006"
-draft = false
 flowchart = true
 image = true
 imageSrc = "Tcal via wikipedia, CC BY-SA 3.0"
@@ -227,11 +226,11 @@ style susp stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{%/collapse%}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [CEDEF. Acrosyndromes. Phénomène de Raynaud, érythermalgie, acrocyanose, engelures, ischémie digitale. Item 237. UE8. 2017.](https://undf.cedef.org/fr/document/Acrosyndromes.-Ph%C3%A9nom%C3%A8ne-de-Raynaud,-%C3%A9rythermalgie,-acrocyanose,-engelures,-isch%C3%A9mie-digitale)
-- [Prescrire Redaction. Phénomène de Raynaud primitif. Actualisation juin 2019. Premiers choix Prescrire. 2019.](https://prescrire.org/)
+- Prescrire Redaction. Phénomène de Raynaud primitif. Actualisation juin 2019. Premiers choix Prescrire. 2019.
 - [Pistorius M-A., Carpentier P-H, le groupe de travail « Microcirculation » de la Société française de médecine vasculaire, Bilan étiologique minimal du phénomène de Raynaud : un consensus d’experts, Volume 4048, Issue 8, 08/2013, Pages 497-586, ISSN 0151-9638.](https://doi.org/10.1016/j.annder.2015.04.001)
 - [COFER. Phénomène de Raynaud. Item 327. 2011. (PDF)](http://campus.cerimes.fr/rhumatologie/enseignement/rhumato40/site/html/cours.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}

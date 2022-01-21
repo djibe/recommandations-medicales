@@ -1,7 +1,7 @@
 +++
 title = "Lombalgie commune et lumbago"
 prefix = "la "
-shortname = "Lumbago"
+titleSeo = "Lombalgie commune et lumbago"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-26T09:21:22+02:00"
@@ -13,7 +13,6 @@ sources = ["HAS"]
 tags = []
 anglais = ["Low back pain"]
 sctid = "279039007"
-draft = false
 image = false
 imageSrc = ""
 todo = "Collège, questionnaires cliquables, flowchart"
@@ -193,7 +192,7 @@ Indications: facteurs psychosociaux faisant obstacle à leur rétablissement, é
 Ne pas utiliser: ultrasons, tractions lombaires.
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - Prescrire Redaction. Signes de fracture vertébrale en cas de lombalgie récente. Prescrire. Juin 2020.
 - [HAS. Prise en charge du patient présentant une lombalgie commune. Mars 2019.](https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient-presentant-une-lombalgie-commune)
@@ -202,7 +201,7 @@ Ne pas utiliser: ultrasons, tractions lombaires.
 
 - [Le COFER. Rachialgies. Item 94 UE 5. 7e édition.](http://www.lecofer.org/item-cours-1-3-0.php)
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Questionnaire DN4" id="modal-score-dn4"%}}
 
 {{< scores/dn4 >}}

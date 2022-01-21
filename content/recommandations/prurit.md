@@ -1,6 +1,7 @@
 +++
 title = "Conduite à tenir devant un prurit"
 prefix = "la "
+titleSeo = "Conduite à tenir devant un prurit"
 shortname = "Prurit"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
@@ -184,10 +185,10 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
-- [Prescrire Rédaction. Prurit lié à une affection cutanée et antihistaminiques H1 oraux. Février 2019.](https://prescrire.org/)
+- Prescrire Rédaction. Prurit lié à une affection cutanée et antihistaminiques H1 oraux. Février 2019.
 - [CEDEF. Prurit. Item 113. UE 4. 2017.](https://undf.cedef.org/fr/document/Prurit_r%C3%A9f%C3%A9rentiel-CEDEF)
 - [Dermato-info. Le prurit et le prurigo.](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-prurit-et-le-prurigo)
 
-{{% /collapse %}}
+{{%/sources%}}

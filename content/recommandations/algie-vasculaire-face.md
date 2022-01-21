@@ -1,6 +1,7 @@
 +++
 title = "Algie vasculaire de la face"
 prefix = "l'"
+titleSeo = "Algie vasculaire de la face"
 shortname = "AVF"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

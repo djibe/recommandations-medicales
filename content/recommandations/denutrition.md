@@ -1,6 +1,7 @@
 +++
 title = "Dénutrition du sujet âgé, de l'adulte et de l'enfant"
 prefix = "la "
+titleSeo = "Dénutrition"
 shortname = "Dénutrition"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
@@ -323,7 +324,7 @@ graph TB
 {{%sources%}}
 
 - [HAS, FFN. Diagnostic de la dénutrition chez la personne de 70 ans et plus. Recommandation de bonne pratique. Novembre 2021.](https://www.has-sante.fr/jcms/p_3165944/fr/diagnostic-de-la-denutrition-chez-la-personne-de-70-ans-et-plus)
-- Prescrire Redaction. Complémentation nutritionnelle orale chez les adultes dénutris : conditions de remboursement en France en 2020. La Revue Prescrire. Mai 2020.
+- Prescrire Redaction. Complémentation nutritionnelle orale chez les adultes dénutris : conditions de remboursement en France en 2020. Rev Prescrire. Mai 2020.
 - [HAS, FFN. Diagnostic de la dénutrition de l’enfant et de l’adulte. Recommandation de bonne pratique. Novembre 2019.](https://has-sante.fr/jcms/p_3118872/fr/diagnostic-de-la-denutrition-de-l-enfant-et-de-l-adulte)
 - [HAS. Stratégie de prise en charge en cas de dénutrition protéino-énergétique chez la personne âgée. Synthèse des recommandations professionnelles. 2007.](https://www.has-sante.fr/jcms/c_546549/fr/strategie-de-prise-en-charge-en-cas-de-denutrition-proteino-energetique-chez-la-personne-agee)
 - [Lutte contre la dénutrition](https://www.luttecontreladenutrition.fr/)

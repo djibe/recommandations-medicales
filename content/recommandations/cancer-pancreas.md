@@ -1,6 +1,7 @@
 +++
 title = "Cancer du pancréas"
 prefix = "le "
+titleSeo = "Cancer du pancréas"
 shortname = ""
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

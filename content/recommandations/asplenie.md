@@ -1,6 +1,7 @@
 +++
 title = "Asplénie ou hyposplénie"
 prefix = "l'"
+titleSeo = "Asplénie"
 shortname = "Asplénie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

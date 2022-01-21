@@ -1,6 +1,7 @@
 +++
 title = "Endocardite infectieuse"
 prefix = "l'"
+titleSeo = "Endocardite infectieuse"
 shortname = "Endocardite"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

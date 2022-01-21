@@ -1,6 +1,7 @@
 +++
 title = "Accident vasculaire cérébral"
 prefix = "l'"
+titleSeo = "Accident vasculaire cérébral"
 shortname = "AVC"
 synonyms = ["AVC et AIT", "accident ischémique transitoire", "infarctus cérébral"]
 auteurs = ["Jean-Baptiste FRON"]

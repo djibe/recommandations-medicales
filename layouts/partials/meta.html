@@ -18,9 +18,9 @@
 {{ if .IsHome }}
   {{ $metaTitle = (printf "%s : Dernières recommandations médicales au cabinet" $.Site.Title ) }}
 {{ else if .Params.TitleSeo }}
-  {{ $metaTitle = ( printf "%s %s %s %s" "Recommandations" .Params.TitleSeo "2022 |" $.Site.Title ) }}
+  {{ $metaTitle = ( printf "%s %s %s" "Recommandations" .Params.TitleSeo "2022 | RecoMédicales" ) }}
 {{ else if and (eq .Section "recommandations") (eq .Kind "page") }}
-  {{ $metaTitle = ( printf "%s %s%s %s %s" "Recommandations sur" (.Params.prefix | safeHTML ) .Title "en 2022 |" $.Site.Title ) }}
+  {{ $metaTitle = ( printf "%s %s%s %s" "Recommandations sur" (.Params.prefix | safeHTML ) .Title "en 2022 | RecoMédicales" ) }}
 {{ else }}
   {{ $metaTitle = ( printf "%s %s %s" .Title "|" $.Site.Title ) }}
 {{ end }}
@@ -63,7 +63,7 @@
 <meta name="twitter:image:alt" content="Image de {{ $.Params.Prefix }}{{ $.Title }}">
 
 <!-- Sitemap & RSS Feed -->
-<link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}sitemap.xml"> 
+<link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}sitemap.xml">
 <link href="{{ .Site.BaseURL }}index.xml" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }} - Dernières recommandations">
 
 <!-- Article tags https://jsonld.com/article/ -->

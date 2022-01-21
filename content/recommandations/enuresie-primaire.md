@@ -9,7 +9,7 @@ publishdate = 2021-04-27
 lastmod = 2021-04-27
 specialites = ["urologie"]
 annees = "2019"
-sources = ["AFU", "Prescrire"]
+sources = ["AFU"]
 tags = []
 anglais = ["Primary nocturnal enuresis"]
 sctid = "450842007"
@@ -142,8 +142,8 @@ Oxybutynine en monothérapie
 {{% /collapse %}}
 {{%sources%}}
 
-- [Prescrire Redaction. Patients ayant une énurésie nocturne. Janvier 2021.](https://prescrire.org/)
-- [Prescrire Redaction. Énurésie isolée des enfants. Revue Prescrire 2019; 39 (434):914-922.](https://prescrire.org/)
+- Prescrire Redaction. Patients ayant une énurésie nocturne. Janvier 2021.
+- Prescrire Redaction. Énurésie isolée des enfants. Revue Prescrire 2019.
 - [Aubert D. et al. Énurésie nocturne primaire isolée : diagnostic et prise en charge. Progrès en Urologie. Volume 20. Issue 5. 2010. Pages 343-349. (PDF)](https://afpa.org/content/uploads/2017/09/main.pdf)
 
 {{%/sources%}}

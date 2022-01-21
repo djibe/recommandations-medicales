@@ -1,6 +1,7 @@
 +++
 title = "Contraception d'urgence"
 prefix = "la "
+titleSeo = "Contraception d'urgence"
 shortname = "CU"
 synonyms = ["Pilule du lendemain"]
 auteurs = ["Jean-Baptiste FRON"]

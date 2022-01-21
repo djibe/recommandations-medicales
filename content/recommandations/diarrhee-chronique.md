@@ -1,7 +1,8 @@
 +++
 title = "Diarrhée chronique"
 prefix = "la "
-shortname = "Diarrhée chro"
+titleSeo = "Diarrhée chronique"
+shortname = "Diarrhée chronique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-22T19:42:41+02:00
@@ -13,9 +14,8 @@ sources = ["BSG", "Collège"]
 tags = []
 anglais = ["Chronic diarrhea", "chronic diarrhoea"]
 sctid = "236071009"
-draft = false
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Illustration des diarrhées chroniques par brgfx / Freepik"
 todo = "SeHCAT, FODMAPs"
 +++
 

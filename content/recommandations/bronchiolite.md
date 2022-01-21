@@ -1,6 +1,7 @@
 +++
 title = "Bronchiolite aiguë du nourrisson"
 prefix = "la "
+titleSeo = "Bronchiolite"
 shortname = "Bronchiolite"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

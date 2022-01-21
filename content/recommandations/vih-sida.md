@@ -1,7 +1,7 @@
 +++
 title = "Infection par le VIH et SIDA"
 prefix = "l'"
-shortname = "VIH"
+titleSeo = "VIH et SIDA"
 synonyms = ["Virus de l'immunodéficience humaine"]
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CAZANAVE (CMIT)"
@@ -15,7 +15,7 @@ tags = ["depistage", "fatigue", "fievre", "HSH", "IST", "sueurs nocturnes", "tou
 anglais = ["Human immunodeficiency virus infection"]
 sctid = "86406008"
 image = true
-imageSrc = "Photo de NIAID sur Foter.com / CC BY"
+imageSrc = "Photo de NIAID sur Foter.com"
 todo = "relecture CNS, TPE, https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih, depistage DT2, info transmission/guérison, https://www.aides.org/prep"
 +++
 
@@ -512,7 +512,7 @@ Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
 {{< card-link title="La PrEP et ses enjeux" url="https://www.formaprep.org/" subtitle="Le MOOC gratuit par FormaPrEP">}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Réponses rapides dans le cadre de la COVID-19 - Prophylaxie (PrEP) du VIH par ténofovir disoproxil / emtricitabine dans le cadre de l’urgence sanitaire. 28/04/2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-04/reco_435__reponse_rapide_prep_au_vih_150421_cd_vudoc_am_pg_vd_mel_v0.pdf)
@@ -524,7 +524,7 @@ Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)
 - [CEDEF. Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 - UE 6. 2017.](https://undf.cedef.org/fr/document/Infection-%C3%A0-VIH_manifestations-cutan%C3%A9o-muqueuses-de-la-primo-infection-%C3%A0-VIH)
 
-{{% /collapse %}}
+{{%/sources%}}
 <!-- Modal -->
 {{% modal title="Vaccination hépatite A" id="modal-vaccin-hepatite-a"%}}
 

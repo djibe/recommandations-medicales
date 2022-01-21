@@ -1,6 +1,7 @@
 +++
 title = "Asthme de l'adulte et de l'enfant de plus de 6 ans"
 prefix = "l'"
+titleSeo = "Asthme adulte et enfant"
 shortname = "Asthme"
 synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]

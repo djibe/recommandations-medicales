@@ -271,7 +271,7 @@ graph TB
 {{%sources%}}
 
 - [CNGOF, ARS IDF, PNS-MOOC. Endométriose : l'affaire de tous. Mai 2021.](https://endometriose-affairedetous.com/)
-- [Prescrire Rédaction. Endométriose douloureuse. En absence de projet de grossesse : paracétamol et AINS, voire estroprogestatif ou DIU au lévonorgestrel. Rev Prescrire 2019 ; 39 (433) : 833-841](https://prescrire.org/)
+- Prescrire Rédaction. Endométriose douloureuse. En absence de projet de grossesse : paracétamol et AINS, voire estroprogestatif ou DIU au lévonorgestrel. Rev Prescrire 2019.
 - [Inserm. Endométriose. Dossiers d'information. 11/12/2018.](https://www.inserm.fr/information-en-sante/dossiers-information/endometriose)
 - [HAS et CNGOF. Prise en charge de l’endométriose. Recommandation de bonne pratique. Décembre 2017.](https://www.has-sante.fr/jcms/c_2819733/fr/prise-en-charge-de-l-endometriose)
 

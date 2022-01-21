@@ -1,6 +1,7 @@
 +++
 title = "Diabète gestationnel"
 prefix = "le "
+titleSeo = "Diabète gestationnel"
 shortname = "DG"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

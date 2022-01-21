@@ -1,7 +1,7 @@
 +++
-title = "Infections à chlamydia trachomatis"
+title = "Infections à Chlamydia trachomatis"
 prefix = "les "
-shortname = "CT"
+shortname = "Infections à Chlamydia"
 synonyms = ["Chlamydiose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T12:09:00+02:00
@@ -13,7 +13,6 @@ sources = ["HAS", "Inpes"]
 tags = ["depistage", "HSH", "IST"]
 anglais = ["Chlamydia trachomatis infection"]
 sctid = "240589008"
-draft = false
 image = true
 imageSrc = "Frottis cervical avec Chlamydia dans des vacuoles en grossissement 500. Dr. Lance Liotta Laboratory via Wikimedia Commons"
 todo = "améliorer clinique, flowchart, Prescrire Chlamydiose liée à un rapport sexuel"
@@ -150,7 +149,7 @@ Indication: << e. Personnes ayant des relations sexuelles avec des partenaires m
 {{%sources%}}
 
 - [HAS. Choix et durées d’antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes?id=p_3278764&preview=true)
-- [Prescrire Redaction. Chlamydiose liée à un rapport sexuel. Premiers choix Prescrire. Mars 2021.](https://prescrire.org/)
+- Prescrire Redaction. Chlamydiose liée à un rapport sexuel. Premiers choix Prescrire. Mars 2021.
 - [Santé Publique France. Chlamydiae. 01/12/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/chlamydiae)
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [Société Française de Dermatologie. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement Transmissibles. Février 2016. (PDF)](http://www.sfdermato.org/media/pdf/recommandation/syphilis-precoce-b61913fb8de5bca222326904654c6b30.pdf)

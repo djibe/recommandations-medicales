@@ -1,6 +1,7 @@
 +++
 title = "Durée de sommeil recommandée chez l'adulte et les enfants"
 prefix = "la "
+titleSeo = "Temps de sommeil"
 shortname = "Durée de sommeil"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
@@ -16,6 +17,7 @@ sctid = ""
 draft = false
 image = true
 imageSrc = "Photo de Anne Marthe Widvey sur Foter.com"
+todo = "https://www.freepik.com/free-vector/flat-person-sleeping-night-bed-background_4477937.htm#query=sleep&position=4&from_view=search ou https://www.freepik.com/free-vector/insomnia-concept-illustration_10198500.htm#query=sleep&position=8&from_view=search"
 +++
 
 {{%article-summary%}}

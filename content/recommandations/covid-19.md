@@ -7,7 +7,7 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
-lastmod = 2022-01-06
+lastmod = 2022-01-21
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["HCSP", "MinSante"]
@@ -23,7 +23,7 @@ imageSrc = "La Covid-19 par stories / Freepik"
 {{%article-summary%}}
 
 - Page servant uniquement à stocker quelques mémos
-- [Règles d'isolement du 3 janvier](https://www.ameli.fr/medecin/actualites/covid-19-les-regles-d-isolement-evoluent)
+- [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire) et [règles d'isolement du 3/1](https://www.ameli.fr/medecin/actualites/covid-19-les-regles-d-isolement-evoluent)
 - Rappel vaccinal à 3 mois (et 12-17 ans fragiles), décalé à 6 mois si infection Covid (*HAS 24/12, 25/11 et 19/11*)
 - Dire **la** CoViD-19 ([Académie française](http://www.academie-francaise.fr/le-covid-19-ou-la-covid-19))
 

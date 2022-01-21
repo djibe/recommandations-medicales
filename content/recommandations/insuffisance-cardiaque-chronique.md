@@ -1,7 +1,7 @@
 +++
 title = "Insuffisance cardiaque chronique"
 prefix = "l'"
-shortname = "IC"
+titleSeo = "Insuffisance cardiaque"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
@@ -13,7 +13,6 @@ sources = ["ESC", "HAS"]
 tags = ["dyspnee", "epreuve effort", "fatigue", "ferritine", "HTA", "risque cardiovasculaire", "SAS", "tabac", "toux", "TSH", "vaccin", "vertige"]
 anglais = ["Chronic heart failure"]
 sctid = "48447003"
-draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration de l'insuffisance cardiaque par vectorjuice / Freepik"
@@ -104,8 +103,7 @@ FA, troubles du rythme, AVC, AOMI.
 Diabète, anémie, carence martiale, BPCO, insuffisance rénale, hépatopathie, apnées du sommeil, dépression, démence.
 - {{< modal-btn modal-observance >}}Non observance{{< /modal-btn >}}
 
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
 - Prévalence: 2,3%  
   - 10% après 70 ans
@@ -491,7 +489,7 @@ réalistes
 > HAS 2014, ESC 2021, [HFA 2010](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)
 
 {{%/collapse%}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [McDonagh T et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) With the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. 2021.](https://doi.org/10.1093/eurheartj/ehab368)
 - Prescrire Redaction. Insuffisances cardiaques médicamenteuses en bref, Patients insuffisants cardiaques chroniques. Janvier 2021.
@@ -504,7 +502,7 @@ réalistes
 - [HAS. Insuffisance cardiaque. Guide du parcours de soins. Juin 2014. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_ic_web.pdf)
 - [Lainscak M. et al. Self-care management of heart failure: practical recommendations from the Patient Care Committee of the Heart Failure Association of the European Society of Cardiology. European Journal of Heart Failure. 13: 115-126.](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}
 
 {{< scores/nyha >}}

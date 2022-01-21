@@ -1,7 +1,7 @@
 +++
 title = "Écoulement mamelonnaire du sein"
 prefix = "l'"
-shortname = ""
+titleSeo = "Écoulement mamelonnaire"
 synonyms = ["Galactorrhée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-21T19:43:29+02:00"
@@ -13,11 +13,9 @@ sources = ["CNGOF", "HAS"]
 tags = []
 anglais = ["Nipple discharge"]
 sctid = "54302000"
-draft = false
 flowchart = true
 image = false
 imageSrc = ""
-todo = ""
 +++
 
 {{%article-summary%}}

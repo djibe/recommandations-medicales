@@ -1,6 +1,7 @@
 +++
 title = "Dermohypodermite bactérienne non nécrosante"
 prefix = "la "
+titleSeo = "Érysipèle"
 shortname = "DHB"
 synonyms = ["Érysipèle", "érésipèle"]
 auteurs = ["Jean-Baptiste FRON"]

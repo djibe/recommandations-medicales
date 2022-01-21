@@ -17,7 +17,7 @@ sctid = ""
 draft = false
 image = true
 imageSrc = "Les verres standards par Alcool-Info-Service"
-todo = "Dépistage hépatite C, retentissement somatique, indications hospit"
+todo = "Dépistage hépatite C, retentissement somatique, indications hospit, https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa"
 +++
 
 {{%article-summary%}}

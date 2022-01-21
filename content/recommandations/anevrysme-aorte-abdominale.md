@@ -1,6 +1,7 @@
 +++
 title = "Anévrysme de l'aorte abdominale"
 prefix = "l'"
+titleSeo = "Anévrysme de l'aorte abdominale"
 shortname = "AAA"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

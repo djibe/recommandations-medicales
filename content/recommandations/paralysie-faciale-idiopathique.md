@@ -1,7 +1,7 @@
 +++
 title = "Paralysie faciale périphérique idiopathique"
 prefix = "la "
-shortname = "PFI"
+titleSeo = "Paralysie faciale"
 synonyms = ["Paralysie faciale a frigore"]
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr S. TRINGALI et Dr M. FIEUX (SFORL)"
@@ -14,7 +14,6 @@ sources = ["SFORL"]
 tags = ["zona"]
 anglais = ["Peripheral facial palsy"]
 sctid = "449916008"
-draft = false
 flowchart = true
 image = true
 imageSrc = "Signes à l'examen de la paralysie faciale a frigore. Photo de l'Internet Archive Book Images sur Foter.com"
@@ -283,12 +282,12 @@ graph TB
 {{< /mermaid >}}
 
 {{%/collapse%}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [SFORL. Prise en charge de la Paralysie Faciale Idiopathique à la phase aiguë chez l’adulte. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-de-la-Paralysie-Faciale-Idiopathique-%C3%A0-la-phase-aigu%C3%AB-chez-l-adulte-2020.pdf)
 - [Collège des enseignants de neurologie. Paralysie faciale.](https://www.cen-neurologie.fr/deuxieme-cycle/paralysie-faciale)
 
-{{% /collapse %}}
+{{%/sources%}}
 
 {{% modal title="Classification de House-Brackmann" id="score-house" %}}
 

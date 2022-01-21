@@ -1,24 +1,22 @@
 +++
 title = "Reflux gastro-œsophagien"
 prefix = "le "
-shortname = "RGO"
+titleSeo = "Reflux gastro-œsophagien"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr F. ZERBIB (SNFGE)"
 date = 2020-08-26T12:55:41+02:00
 publishdate = 2020-08-26
-lastmod = 2021-03-09
+lastmod = 2022-01-21
 specialites = ["hepato-gastro-enterologie"]
 annees = "2018"
 sources = ["SNFGE"]
 tags = ["EOGD", "IPP", "SAS", "toux"]
 anglais = ["Gastroesophageal reflux disease (GERD)"]
 sctid = "235595009"
-draft = false
 image = true
 imageSrc = "BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = ""
 +++
 
 {{%article-summary%}}
@@ -285,24 +283,20 @@ Favorisée par l'obésité et une hernie hiatale.
 - Mais aussi par les médicaments qui diminuent l'acidité gastrique.
 
 {{%/collapse%}}
-{{%collapse "Vidéos" %}}
-
-{{< youtube id="Kf2iGE3aUrI" title="Vidéo d'explications du traitement du reflux gastro-œsophagien" >}}
-
-{{%/collapse%}}
 {{%collapse "FMC gratuite" %}}
 
 [Zerbib F. Diagnostic actuel du RGO : Consensus de Lyon (GUT 2018). POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-actuel-du-rgo-consensus-de-lyon-gut-2018/)
 
-{{%/collapse%}}
-{{%collapse "Sources" %}}
+{{< youtube id="Kf2iGE3aUrI" title="Vidéo d'explications du traitement du reflux gastro-œsophagien" >}}
 
-- [Prescrire Redaction. Patients ayant un reflux gastro-œsophagien. Janvier 2021.](https://www.prescrire.org/)
-- [Prescrire Redaction. Reflux gastro-œsophagien chez un nourrisson. Août 2020.](https://www.prescrire.org/)
-- [Prescrire Redaction. Reflux gastro-œsophagien chez un adulte - L’essentiel sur les soins de premier choix. Juin 2020.](https://www.prescrire.org/)
+{{%/collapse%}}
+{{%sources%}}
+
+- Prescrire Redaction. Patients ayant un reflux gastro-œsophagien. Janvier 2021.
+- Prescrire Redaction. Reflux gastro-œsophagien chez un nourrisson. Août 2020.
 - [Zerbib F. Diagnostic actuel du RGO : Consensus de Lyon (GUT 2018). POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-actuel-du-rgo-consensus-de-lyon-gut-2018/)
 - [SNFGE. Traitement du RGO. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
 - [SNFGE. Reflux gastro-œsophagien (RGO)](https://www.snfge.org/content/reflux-gastro-oesophagien-rgo)
 - [Gyawali CP et al. Modern diagnosis of GERD: the Lyon Consensus. Gut. 2018;67(7):1351-1362. doi:10.1136/gutjnl-2017-314722](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6031267/)
 
-{{% /collapse %}}
+{{%/sources%}}

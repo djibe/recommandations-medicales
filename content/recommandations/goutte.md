@@ -392,7 +392,7 @@ Intérêt de colchicine prophylactique.
 {{% /collapse %}}
 {{%sources%}}
 
-- [Prescrire Rédaction. Crise de goutte. Premiers choix Prescrire. Mars 2021.](https://prescrire.org)
+- Prescrire Rédaction. Crise de goutte. Premiers choix Prescrire. Mars 2021.
 - [Société Française de Rhumatologie. Recommandations 2020 de la Société française de rhumatologie pour la prise en charge de la goutte : traitement des crises de goutte. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.008)
 - [Société Française de Rhumatologie. Recommandations de la Société française de rhumatologie pour la prise en charge de la goutte : le traitement hypo-uricémiant. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.009)
 - [FitzGerald JD. et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res. 72: 744-760.](https://onlinelibrary.wiley.com/doi/full/10.1002/acr.24180)

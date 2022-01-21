@@ -523,7 +523,7 @@ graph TB
 - [Ostéoporose Masculine - Le point sur les recommandations françaises](http://www.grio.org/membres/video-webcast.php)
 
 {{%/collapse%}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - Prescrire Redaction. Fracture liées à une fragilité osseuse : prévention. Rev Prescr 2020.
 - [HAS. Les médicaments de l'ostéoporose. Bon usage du médicament. Mai 2019.](https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-losteoporose)
@@ -544,7 +544,7 @@ graph TB
 - [Kanis J. et al. Algorithm for the management of patients at low, high and very high risk of osteoporotic fractures. Osteoporos Int, 2019. 31(1): p.1-12.](https://link.springer.com/article/10.1007/s00198-019-05176-3)
 - [Kanis J et al; on behalf of the Scientific Advisory Board of the European Society for Clinical and Economic Aspects of Osteoporosis (ESCEO) and the Committees of Scientific Advisors and National Societies of the International Osteoporosis Foundation (IOF). European guidance for the diagnosis & management of osteoporosis in postmenopausal women. Osteoporos Int, 2018. 30(1): p.3-44.](https://link.springer.com/article/10.1007%2Fs00198-018-4704-5)
 
-{{%/collapse%}}
+{{%/sources%}}
 {{% modal title="Fractures ostéoporotiques dites sévères" id="modal-fracture-severe"%}}
 
 Fracture ayant atteint: {{< clinique/osteoporose-fracture-severe >}}

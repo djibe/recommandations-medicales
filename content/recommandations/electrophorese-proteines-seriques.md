@@ -121,6 +121,6 @@ Dans le même laboratoire avec la même technique.
 {{% /collapse %}}
 {{%sources%}}
 
-[HAS. Quand prescrire une électrophorèse des protéines sériques (EPS) et conduite à tenir en cas d’une immunoglobuline monoclonale. Janvier 2017](https://www.has-sante.fr/jcms/c_2742018/fr/quand-prescrire-une-electrophorese-des-proteines-seriques-eps-et-conduite-a-tenir-en-cas-d-une-immunoglobuline-monoclonale)
+[HAS. Quand prescrire une électrophorèse des protéines sériques (EPS) et conduite à tenir en cas d’une immunoglobuline monoclonale. Janvier 2017.](https://www.has-sante.fr/jcms/c_2742018/fr/quand-prescrire-une-electrophorese-des-proteines-seriques-eps-et-conduite-a-tenir-en-cas-d-une-immunoglobuline-monoclonale)
 
 {{%/sources%}}

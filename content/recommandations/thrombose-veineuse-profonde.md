@@ -1,7 +1,7 @@
 +++
 title = "Thrombose veineuse profonde"
 prefix = "la "
-shortname = "TVP"
+titleSeo = "Thrombose veineuse profonde"
 synonyms = ["Phlébite profonde"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-19T18:21:00+02:00
@@ -13,7 +13,6 @@ sources = ["SFC", "SPLF"]
 tags = ["anticoagulant", "MVTE"]
 anglais = ["Deep venous thrombosis"]
 sctid = "128053003"
-draft = false
 flowchart = true
 image = false
 imageSrc = ""
@@ -277,7 +276,7 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse "Source" %}}
+{{%sources%}}
 
 [Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires (2019).](https://doi.org/10.1016/j.rmr.2019.01.003)
 
@@ -287,7 +286,7 @@ graph TB
 - GIHP 2018: https://www.portailvasculaire.fr/sites/default/files/docs/2019_gihp_commentaires_2018_esa_vte_guidelines_mtev_prevention_peri-op.pdf
 - https://journals.lww.com/ejanaesthesiology/fulltext/2018/02000/european_guidelines_on_perioperative_venous.2.aspx
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Clairance selon Cockroft" id="modal-score-cockroft"%}}
 
 {{< scores/cockroft >}}

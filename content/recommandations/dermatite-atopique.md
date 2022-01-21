@@ -1,6 +1,7 @@
 +++
 title = "Dermatite atopique"
 prefix = "la "
+titleSeo = "Dermatite atopique"
 shortname = "DA"
 synonyms = ["Eczéma atopique"]
 auteurs = ["Jean-Baptiste FRON"]

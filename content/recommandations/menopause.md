@@ -565,12 +565,12 @@ Décroît après l'arrêt du traitement.
 - Pas d'automédication
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Trémollieres F. et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. Volume 49. Issue 5.2021. Pages 305-317.](https://doi.org/10.1016/J.GOFS.2021.03.010)
 - Prescrire Redaction. Troubles liés à la ménopause. Premiers choix Prescrire. Juin 2020.
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}

@@ -1,8 +1,7 @@
 +++
 title = "Services d'urgences ophtalmologiques"
-titleSeo = "Urgences ophtalmologiques"
 prefix = "les "
-shortname = "Urgences ophtalmo"
+titleSeo = "Urgences ophtalmologiques"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-07T13:22:41+02:00
@@ -14,9 +13,8 @@ sources = []
 tags = []
 anglais = []
 sctid = ""
-draft = false
 image = true
-imageSrc = "Photo d'urbanworkbench sur Foter.com / CC BY-NC-ND"
+imageSrc = "Illustration des urgences par Freepik"
 todo = "78, 91, 92, 93, 94, 95, Carto, Pitié ?, http://www.ch-larochelle.fr/ch-la-rochelle/infos-pratiques/urgences-et-numeros-utiles, https://www.polevision.fr/urgence.php, toulon, grenoble, dijon, angers, nimes, villeurbanne, avignon, pau, bayonne, poitiers, annecy, lorient, valence, angouleme, chartres, niort, béziers, Hôpital Louis Pasteur Colmar, https://www.hopitalprivesevigne.com/specialites/urgences/"
 done = "arras, calais, le havre?"
 datatable = true
@@ -24,7 +22,7 @@ datatable = true
 
 {{%collapse "Liste des services d'urgences ophtalmologiques de France métropolitaine" "show" %}}
 
-{{< table title="Liste des services d'urgences ophtalmologiques de France métropolitaine (Dr JB FRON, en construction)" >}}
+{{< table title="Liste non exhaustive des services d'urgences ophtalmologiques de France métropolitaine. Dr JB Fron. Soumettez ceux qui vous manquent. Merci" >}}
 | Agglomération | Hôpital | Adresse | Ouverture | Téléphone | Commentaire |
 |-------|---------|---------|:---------:|-----------|-------------|
 | Bordeaux | Hôpital Pellegrin | Pl. Amélie Léon<br>33000 Bordeaux | 24/7 | 05 56 79 56 79 | |
