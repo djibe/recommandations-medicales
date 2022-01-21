@@ -2,7 +2,7 @@
 title = "Fibrillation atriale"
 prefix = "la "
 shortname = "FA"
-synonyms = ["Arythmie complète par fibrillation auriculaire"]
+synonyms = ["Arythmie complète par fibrillation auriculaire ou ACFA"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-05T17:43:41+02:00
 publishdate = 2021-12-10
@@ -50,6 +50,7 @@ FA de détection récente
 
 ### Abréviations
 
+**ACO:** anticoagulant oral  
 **EHRA:** {{%lang%}}European Heart Rhythm Association{{%/lang%}}  
 **FA:** fibrillation atriale
 
@@ -170,50 +171,31 @@ La radiographie thoracique n'est pas systématique.
 {{%info%}}Adresser au cardiologue pour évaluation spécialisée avec **échocardiographie**{{%/info%}}
 
 {{% /collapse %}}
-{{%collapse "Risque embolique CHA2DS2-VASc et de saignement" %}}
+{{%collapse "Risque embolique CHA2DS2-VASc et de saignement" "show"%}}
 
-Réévaluer régulièrement les scores.
+Réévaluer régulièrement les risques emboliques et de saignement.
 
 ### Risque embolique: CHA<sub>2</sub>DS<sub>2</sub>-VASc
 
+<div class="border mb-3" style="max-width: 480px">
+{{< scores/cha2ds2vasc >}}
+</div>
+
 ### Risque de saignement: HAS-BLED
 
-### Scores HEMORR2HAGES (+ adapté pour AVK > 80 ans)
+Un risque élevé ne contre-indique pas les anticoagulants mais doit faire insister sur l'information du patient et intensifier le suivi.
+
+<div class="border mb-3" style="max-width: 480px">
+{{< scores/has-bled >}}
+</div>
+
+TODO: HEMORR2HAGES (+ adapté pour AVK > 80 ans)
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
 - Contrôle des facteurs de risque cardiovasculaire
-- Limiter la consommation d'alcool (source)
-
-{{% /collapse %}}
-{{%collapse "Risque embolique CHA2DS2VaSc" "show" %}}
-
-<script>
-  // Score CHA2DS2VASc par djibe
-  let score = 0;
-  const Text = document.getElementById('explain');
-  const Age75 = document.getElementById('age75');
-  const Age65 = document.getElementById('age65');
-  [...document.querySelectorAll('input[type="checkbox"]')].forEach(function(checkbox) {
-    checkbox.addEventListener('change', function(e) {
-      if (Age75.checked) {
-        Age65.checked = false;
-      }
-      if (e.target.checked) {
-        score += parseInt(e.target.value, 10)
-      } else {
-        score -= parseInt(e.target.value, 10)
-      }
-      document.getElementById('counter').innerHTML = score
-      if (score === 0){
-        Text.innerHTML = 'Pas d\'antithrombotique'
-      } else {
-        Text.innerHTML = 'Anticoagulation'
-      }
-    })
-  })
-</script>
+- Limiter la consommation d'alcool
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}

@@ -3137,6 +3137,26 @@ select.form-control[multiple], select.form-control[size]:not([size='1']) {
   padding: 0.5rem 0;
 }
 
+select.form-control[multiple] option, select.form-control[size]:not([size='1']) option {
+  padding: 0 1.5rem;
+}
+
+select.form-control option {
+  align-items: center;
+  display: flex;
+  font-size: 1rem;
+  height: 3rem;
+  letter-spacing: 0.15px;
+}
+
+select.form-control option:hover {
+  background-color: rgba(0, 0, 0, 0.04);
+}
+
+select.form-control option:active {
+  background-color: rgba(0, 0, 0, 0.12) !important;
+}
+
 select.form-control:focus {
   background-image: url('data:image/svg+xml;charset=utf8,%3csvg fill="%23e87500" transform="rotate(180)" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"%3e%3cpath d="M7 10l5 5 5-5z"/%3e%3canimateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 0 0" to="180 0 0" dur="250ms"/%3e%3c/svg%3e');
 }
@@ -4105,8 +4125,13 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   .ml-md-3 {
     margin-left: 1rem !important;
   }
-  .mt-md-4 {
+  .mt-md-4,
+  .my-md-4 {
     margin-top: 1.5rem !important;
+  }
+  
+  .my-md-4 {
+    margin-bottom: 1.5rem !important;
   }
   .mt-md-5,
   .my-md-5 {

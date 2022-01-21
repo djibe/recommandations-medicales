@@ -56,7 +56,7 @@
     const checkboxObesite = document.getElementById('stopbang5')
     const checkboxTourCou = document.getElementById('stopbang8')
     const messageTourCou = document.getElementById('message-tour-cou');
-    [...document.querySelectorAll('#score-stop-bang input[type=\"checkbox\"]')].forEach((stopBangElem) => { stopBangElem.addEventListener('click', () => {
+    [...document.querySelectorAll('#score-stop-bang input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => {
       messageSexe()
       stopBang()
     }) })
@@ -73,9 +73,9 @@
         }
         score += parseInt(elemChecked.value, 10)
         scoreStopBang.innerHTML = score
-        if (majeur >= 2 && checkboxHomme.checked 
-        || majeur >= 2 && checkboxObesite.checked 
-        || majeur >= 2 && checkboxTourCou.checked 
+        if (majeur >= 2 && checkboxHomme.checked
+        || majeur >= 2 && checkboxObesite.checked
+        || majeur >= 2 && checkboxTourCou.checked
         || score >= 5 && score <= 8) {
           textStopBang.innerHTML = '<strong>Risque élevé</strong> de SAOS'
         } else if (score <= 2) {

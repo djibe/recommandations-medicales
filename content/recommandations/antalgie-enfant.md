@@ -18,7 +18,7 @@ slider = true
 paracetamol = true
 image = true
 imageSrc = "La douleur de l'enfant par Nathan Phillips sur Foter.com"
-todo = "délais d'action pour les sachets, nubin, https://www.phel.ch/upload/docs/application/pdf/2016-05/a4_poster_gsasa_2015_rotation_opiaces_mj.pdf"
+todo = "nubin, https://www.phel.ch/upload/docs/application/pdf/2016-05/a4_poster_gsasa_2015_rotation_opiaces_mj.pdf"
 +++
 
 {{%article-summary%}}
@@ -28,7 +28,7 @@ todo = "délais d'action pour les sachets, nubin, https://www.phel.ch/upload/doc
 {{%/article-summary%}}
 {{%collapse "Palier 1" "show" %}}
 
-En première intention pour les douleurs faibles à modérées.
+En 1<sup>re</sup> intention pour les douleurs faibles à modérées.
 
 ### Paracétamol
 
@@ -162,7 +162,7 @@ En première intention pour les douleurs faibles à modérées.
   </div>
 </div>
 
-**Posologie:** 15 mg/kg/6h (max 60 mg/kg/j sans dépasser 4g/j).
+**Posologie:** 15 mg/kg/6h (max 60 mg/kg/j sans dépasser 4 g/j).
 
 ### AINS - Ibuprofène
 
