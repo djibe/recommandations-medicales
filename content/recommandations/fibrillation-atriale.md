@@ -21,6 +21,8 @@ todo = "ESC 2020: Table 4 | 351 chad pour asiat, collège, Source 2013 bonne pou
 
 - Dépistage ≥ 65 ans
 - Le diagnostic est clinico-ECG
+- {{< modal-btn modal-chads >}}Anticoagulation{{< /modal-btn >}}, risque hémorragique HAS-BLED (voir *Risque embolique*) doit faire renforcer le suivi
+- Suivi cardiologique, FC cible < 110/min, BB en 1re intention, Holter-ECG
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -50,9 +52,11 @@ FA de détection récente
 
 ### Abréviations
 
-**ACO:** anticoagulant oral  
+**AOD:** anticoagulant oral direct (ex *NACO*)  
+**AVK:** anticoagulant antivitamine K  
 **EHRA:** {{%lang%}}European Heart Rhythm Association{{%/lang%}}  
-**FA:** fibrillation atriale
+**FA:** fibrillation atriale  
+**ICND:** inhibiteurs calciques non dihydropyridine (= diltiazem ou vérapamil)
 
 ### Épidémiologie de la fibrillation atriale en France
 
@@ -177,19 +181,18 @@ Réévaluer régulièrement les risques emboliques et de saignement.
 
 ### Risque embolique: CHA<sub>2</sub>DS<sub>2</sub>-VASc
 
-<div class="border mb-3" style="max-width: 480px">
-{{< scores/cha2ds2vasc >}}
-</div>
+{{< modal-btn modal-chads >}}Calculer le score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}}
 
-### Risque de saignement: HAS-BLED
+### Risque hémorragique: HAS-BLED
 
-Un risque élevé ne contre-indique pas les anticoagulants mais doit faire insister sur l'information du patient et intensifier le suivi.
+Estimer ce risque si un traitement anticoagulant est indiqué.  
+**Un risque élevé ne contre-indique pas les anticoagulants** mais doit faire insister sur l'information du patient et intensifier le suivi.
 
 <div class="border mb-3" style="max-width: 480px">
 {{< scores/has-bled >}}
 </div>
 
-TODO: HEMORR2HAGES (+ adapté pour AVK > 80 ans)
+TODO: score HEMORR2HAGES (+ adapté pour AVK > 80 ans)
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
@@ -205,17 +208,54 @@ TODO: HEMORR2HAGES (+ adapté pour AVK > 80 ans)
   - Réduction de l'alcool
   - Activité physique d'intensité modérée
   - Arrêt du tabac
+- Anticoagulant ({{< modal-btn modal-chads >}}indication{{< /modal-btn >}}, molécules)
+- FC cible < 110/min par BB
+- La cardioversion n'est pas abordée (cardiologue uniquement)
+- Hypertension
+  - Préférer IEC/ARA2, MRA
 - Éducation thérapeutique du patient et son entourage
 
 ### Anticoagulation
 
-#### 1. Évaluation du risque hémorragique
+AOD en 1<sup>re</sup> intention si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}}.  
+AVK si valve mécanique ou sténose mitrale modérée à sévère.  
+Réévaluer fréquemment le risque de saignement avec HAS-BLED.
 
-AVK
-Surtout si sujet âgé ou valve mécanique, pb observance?
-INR cible 2-3. Contrôle /15-21j
+#### Contre-indications
 
-Aspirine si refus anticoag
+- Hémorragie active importante
+- Hémorragie récente majeure (intra-crânienne...)
+- Thrombopénie < 50.000/mm³
+- Anémie non expliquée
+
+{{%warning%}}Un traitement anticoagulant contre-indique les antithrombotiques (aspirine, clopidogrel) et AINS{{%/warning%}}
+
+Adaptation selon la fonction rénale selon Cockroft.
+
+#### AVK
+
+Indications: systématique si AF (quelque soit le type) et valve mécanique ou sténose mitrale modérée à sévère.
+
+INR cible selon la prothèse ou entre 2 et 3.
+AVK avec temps dans la cible ≥ 70% (si non atteint: AOD et observance ++ ou éducation et renforcement des INR).
+
+Aspirine si refus anticoag (mais inefficace en prévention des AVC).
+
+### Contrôle du rythme cardiaque
+
+- Cible < 110/min  
+  - < 80/min si réduction de la fonction VG ou resynchronisation
+  - Évaluation de la FC sur ECG 12D
+  - Contrôle avec Holter-ECG
+- Molécules
+  - TODO: Table 13. Bêtabloquants en 1re intention, digoxine, inhibiteurs calciques non dihydropyridine (ICND, vérapamil, diltiazem) ou association
+  - TODO: Figure 14
+
+### Antiarythmiques
+
+Antiarythmiques indiqués pour le maintien à long terme du rythme sinusal. Listés ici pour la surveillance des contre-indications.
+
+TODO: Table 20 et p. 57. Amiodarone, flécaïne, propafenone, dronedarone, sotalol.
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
@@ -259,6 +299,11 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}
+{{% modal title="Score CHA2DS2-VASc selon ESC 2020" id="modal-chads"%}}
+
+{{< scores/cha2ds2vasc >}}
 
 {{% /modal %}}
 

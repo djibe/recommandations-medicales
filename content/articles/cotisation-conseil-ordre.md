@@ -4,7 +4,7 @@ description = "Évolution du montant de la cotisation annuelle au Conseil de l'O
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-12-09T08:59:00+02:00
 publishdate = 2022-01-18
-lastmod = 2022-01-18
+lastmod = 2022-01-23
 specialites = []
 sources = ["CNOM"]
 tags = []
@@ -12,16 +12,19 @@ draft = false
 chart = true
 image = false
 imageSrc = ""
-todo= ""
+todo = "valeur C"
 +++
 
 ### Résumé
 
-La cotisation à l'Ordre est globalement stable depuis 2011, avec un montant (corrigé de l'inflation) de 330,2 € contre 335 € en 2021 (et 2022).
+La cotisation à l'Ordre des Médecins est globalement stable depuis 2011, avec un montant (corrigé de l'inflation) de 330,2 € contre 335 € en 2021 (et 2022).
 
 ### Graphique
 
-<div id="chart" class="border alert mb-4"></div>
+<figure>
+  <div id="chart" class="border alert mb-4"></div>
+  <figcaption>Graphique. Montant de la cotisation ordinale des médecins de 2001 à 2021. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après cotisations CNOM.</figcaption>
+</figure>
 <script>
 // https://www.insee.fr/fr/information/2417794
 const chartOptions = {
@@ -52,7 +55,8 @@ const chartOptions = {
     {
       formatter: function(value, { series, seriesIndex, dataPointIndex, w }) {
         value += series[0][dataPointIndex];
-        return '<strong>' + Math.round(value) + ' €</strong>';
+        Math.round(value);
+        return `<strong>${value} €</strong>`;
         }
     }]
   },
@@ -61,5 +65,3 @@ const chartOptions = {
   }
 }
 </script>
-
-> {{%class "typography-body-2 text-black-secondary" %}}Figure. Montant de la cotisation ordinale des médecins de 2001 à 2021. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après cotisations CNOM.{{%/class%}}

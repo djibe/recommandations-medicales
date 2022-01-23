@@ -1,6 +1,6 @@
 <!-- TODO: either 65 or 75-->
 <div class="card-body" id="score-cha2ds2vasc">
-  <p>Estimation du risque d'AVC annuel.</p>
+  <p>Décider d'une anticoagulation de la fibrillation atriale selon la ESC 2020.</p>
   <div class="custom-control custom-checkbox">
     <input type="checkbox" id="check-femme" class="custom-control-input" value="1">
     <label class="custom-control-label" for="check-femme">Femme</label>
@@ -39,10 +39,10 @@
 </div>
 <div class="alert bg-light d-md-flex">
   <div class="d-flex flex-column align-items-center">
-    <p class="typography-overline score-output-title">CHA<sub>2</sub>DS<sub>2</sub>-VASc</p>
+    <p class="typography-overline score-output-title">CHA<sub>2</sub>DS<sub>2</sub>-<br>VASc</p>
     <output class="score-output" id="chadsScore">0</output>
   </div>
-  <p id="chadsText" class="lead m-auto">Pas d'antithrombotique</p>
+  <p id="chadsText" class="lead m-auto">Risque d'AVC faible<br>Pas d'antithrombotique</p>
 </div>
 <blockquote class="blockquote">
   <p lang="en"><a href="https://journal.chestnet.org/article/S0012-3692(10)60067-0/fulltext" rel="external nofollow noopener">Lip GY et al. Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach: The euro heart survey on atrial fibrillation. Chest. 2010;137(2):263-72.</a></p>
@@ -51,30 +51,30 @@
   // Score CHA2DS2-VASc by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const textChads = document.getElementById('chadsText')
-    const scoreChads = document.getElementById('chadsScore')
-    const Age75 = document.getElementById('check-age75')
-    const Age65 = document.getElementById('check-age65');
-    [...document.querySelectorAll('#score-cha2ds2vasc input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', (e) => {
-      checkAge(e)
-      chads()
-    }) })
-    const checkAge = (e) => {
-    }
+    const scoreChads = document.getElementById('chadsScore');
+    [...document.querySelectorAll('#score-cha2ds2vasc input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => { chads() }) })
     const chads = () => {
       let score = 0
-      const elemsChecked = document.querySelectorAll('#score-cha2ds2vasc input[type=\"checkbox\"]:checked')
+      const checkboxFemme = document.getElementById('check-femme')
+      const elemsChecked = document.querySelectorAll('#score-cha2ds2vasc input[type=\"checkbox\"]:checked');
       elemsChecked.forEach(elemChecked => {
         score += parseInt(elemChecked.value, 10)
         scoreChads.innerHTML = score
-        if (score === 0 ) {
-          textChads.innerHTML = "Pas d'antithrombotique"
+        if (score === 0 && checkboxFemme.checked === false) {
+          textChads.innerHTML = "Risque d'AVC faible<br>Pas d'antithrombotique"
+        } else if (score === 1 && checkboxFemme.checked) {
+          textChads.innerHTML = "Risque d'AVC faible<br>Pas d'antithrombotique"
+        } else if (score === 1 && checkboxFemme.checked === false) {
+          textChads.innerHTML = 'Anticoagulation à considérer<br>Évaluer le risque hémorragique avec HAS-BLED'
+        } else if (score === 2 && checkboxFemme.checked) {
+          textChads.innerHTML = 'Anticoagulation à considérer<br>Évaluer le risque hémorragique avec HAS-BLED'
         } else {
-          textChads.innerHTML = 'Anticoagulation'
+          textChads.innerHTML = 'Anticoagulation recommandée<br>Évaluer le risque hémorragique avec HAS-BLED'
         }
       })
       if (elemsChecked.length === 0) {
         scoreChads.innerHTML = 0
-        textChads.innerHTML = "Pas d'antithrombotique"
+        textChads.innerHTML = "Risque d'AVC faible<br>Pas d'antithrombotique"
       }
     }
   })` }}
