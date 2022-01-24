@@ -4,7 +4,7 @@ description = "Évolution du montant de la cotisation annuelle au Conseil de l'O
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-12-09T08:59:00+02:00
 publishdate = 2022-01-18
-lastmod = 2022-01-23
+lastmod = 2022-01-24
 specialites = []
 sources = ["CNOM"]
 tags = []
@@ -23,7 +23,7 @@ La cotisation à l'Ordre des Médecins est globalement stable depuis 2011, avec 
 
 <figure>
   <div id="chart" class="border alert mb-4"></div>
-  <figcaption>Graphique. Montant de la cotisation ordinale des médecins de 2001 à 2021. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après cotisations CNOM.</figcaption>
+  <figcaption>Figure. Montant de la cotisation ordinale des médecins de 2001 à 2021. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après cotisations CNOM.</figcaption>
 </figure>
 <script>
 // https://www.insee.fr/fr/information/2417794
@@ -37,7 +37,10 @@ const chartOptions = {
   }],
   chart: { stacked: true },
   title: { text: 'Évolution de la cotisation ordinale des médecins de 2001 à 2021' },
-  xaxis: { categories: [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021] },
+  xaxis: {
+    categories: [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021],
+    tickAmount: 10
+  },
   yaxis: [
     {
       title: { text: "Montant (€)" },

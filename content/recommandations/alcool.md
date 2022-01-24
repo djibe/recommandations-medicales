@@ -245,5 +245,6 @@ L'option la plus sûre est de ne pas consommer d'alcool en cas de:
 - Prescrire
 - <https://www.ofdt.fr/BDD/publications/docs/TabAlcool2000-2018.pdf>
 - <https://www.insee.fr/fr/statistiques/1373390?sommaire=1373438>
+- <https://www.fmcgastro.org/texte-postu/postu-2020-paris/sevrage-en-alcool-et-maladies-chroniques-du-foie/>
 
 {{%/sources%}}

@@ -27,9 +27,10 @@ Pour tous les dépistages, le taux de participation reste très en-dessous des a
 
 ### Graphique
 
-<div id="chart" class="border alert mb-4"></div>
-
-> {{%class "typography-body-2 text-black-secondary" %}}Figure. Données de participation (col 2012-2017 - sein 2018-2019 - colorectal 2018-2019) et de mortalité 2017. Utilisation des données 2019 du fait de la pandémie. Dr JB Fron d'après dernières données SPF.{{%/class%}}
+<figure>
+  <div id="chart" class="border alert mb-4"></div>
+  <figcaption>Figure. Données de participation au dépistage organisé des cancers et mortalité 2017 (dépistages: col 2012-2017 - sein 2018-2019 - colorectal 2018-2019). Utilisation des données 2019 du fait de la pandémie. Dr JB Fron d'après dernières données SPF.</figcaption>
+</figure>
 
 ### Sources
 

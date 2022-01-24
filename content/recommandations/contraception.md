@@ -547,7 +547,7 @@ En 1<sup>re</sup> intention en alternative à la COP et après chirurgie.
 
 ### Méthodes de contraception utilisées en France
 
-<div id="chart" class="border alert mt-5"></div>
+<figure id="chart" class="border alert mt-5"></figure>
 <script>
 const chartOptions = {
   series: [36.5, 25.6, 15.5, 8, 4.6, 4.5, 4.3, 1],

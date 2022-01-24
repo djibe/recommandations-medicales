@@ -45,7 +45,7 @@ Absence de preuve formelle de l'efficacité des bilans proposés pour prévenir 
 
 ---
 
-Tous mes remerciements au Pr E. Marijon pour sa relecture attentive de cette section.
+Tous mes remerciements au Pr E. Marijon pour sa relecture attentive de cette section
 {{%/info%}}
 
 Mort subite du sportif
@@ -57,7 +57,7 @@ Mort subite du sportif
 La survie sans séquelles dépend énormément de la formation de la population au massage cardiaque (> 90% dans le Nord, 10-20% en France). 300-400 décès pourraient être évités chaque année avec les gestes de 1<sup>er</sup> secours.
   > *Marijon 2021*
 
-<div id="chart" class="border alert mt-5"></div>
+<figure id="chart" class="border alert mt-5"></figure>
 <script>
 const chartOptions = {
   series: [{
@@ -74,16 +74,12 @@ const chartOptions = {
   xaxis: { categories: ['15-24', '25-34', '35-44', '45-54', '55-64', '65-75'] },
   yaxis: { decimalsInFloat: 0 },
   tooltip: {
-    y: {
-      formatter: function (val) {
-        return val + " morts subites/million"
-      }
-    }
+    y: { formatter: function (val) { return val + ' morts subites/million' } }
   }
 }
 </script>
 
-> {{%class "typography-body-2 text-black-secondary" %}}Figure. Incidence moyenne annuelle de la mort subite du sportif par million de sportifs selon l'âge et le sexe. Se référer à l'article pour l'intervalle de confiance. Dr JB Fron d'après Marijon E. 2013.{{%/class%}}
+> {{%class "typography-body-2 text-black-secondary" %}}Figure. Incidence moyenne annuelle de la mort subite du sportif par million de sportifs de 15 à 75 ans selon l'âge et le sexe. Se référer à l'article pour l'intervalle de confiance. Dr JB Fron d'après *Marijon 2013*.{{%/class%}}
 
 ### Abréviations
 

@@ -9,20 +9,21 @@ publishdate = 2021-12-10
 lastmod = 2021-12-10
 specialites = ["cardiologie"]
 annees = "2020"
-sources = ["ESC"]
+sources = ["ESC", "HAS"]
 tags = ["anticoagulant", "demence", "depistage", "dyspnee", "fatigue", "HTA", "SAS", "TSH"]
 anglais = ["Atrial fibrillation"]
 sctid = "49436004"
-draft = true
-todo = "ESC 2020: Table 4 | 351 chad pour asiat, collège, Source 2013 bonne pour EGS, source 2013 pour AVK sujet âgé"
+draft = false
+todo = "ESC 2020: Table 4 | chap 11.5 saignement, HAS, collège, Source 2013 bonne pour EGS"
 +++
 
 {{%article-summary%}}
 
-- Dépistage ≥ 65 ans
+- FA mal tolérée = appel du {{< phone >}}15{{< /phone >}}
+- Dépister: ≥ 65 ans, diabète, HTA
 - Le diagnostic est clinico-ECG
-- {{< modal-btn modal-chads >}}Anticoagulation{{< /modal-btn >}}, risque hémorragique HAS-BLED (voir *Risque embolique*) doit faire renforcer le suivi
-- Suivi cardiologique, FC cible < 110/min, BB en 1re intention, Holter-ECG
+- {{< modal-btn modal-chads >}}Anticoagulation{{< /modal-btn >}}, risque hémorragique HAS-BLED (voir *Risque embolique*), symptômes, facteurs favorisants
+- Suivi cardiologique, ralentir < 110/min (BB en 1<sup>re</sup> intention), Holter-ECG
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -56,7 +57,9 @@ FA de détection récente
 **AVK:** anticoagulant antivitamine K  
 **EHRA:** {{%lang%}}European Heart Rhythm Association{{%/lang%}}  
 **FA:** fibrillation atriale  
-**ICND:** inhibiteurs calciques non dihydropyridine (= diltiazem ou vérapamil)
+**HTA:** hypertension artérielle
+
+Inhibiteurs calciques non dihydropyridiniques: diltiazem ou vérapamil.
 
 ### Épidémiologie de la fibrillation atriale en France
 
@@ -78,8 +81,8 @@ Elle augmente avec l'âge et atteint 10-20% après 80 ans.
   - Obésité
 - Maladies cardiovasculaires
   - Insuffisance rénale
-  - Hypertension artérielle
-  - Diabète
+  - Hypertension artérielle (x1,7)
+  - Diabète (x2)
   - Valvulopathie
   - Insuffisance cardiaque
   - Coronaropathie
@@ -125,10 +128,11 @@ HTA, diabète, insuffisance cardiaque, coronaropathie, insuffisance rénale, ob�
 - Fibrillation atriale
   - Ancienneté
   - Facteurs déclenchants
-  - Symptômes: {{< modal-btn modal-ehra >}}score EHRA{{< /modal-btn >}} (TODO: table 6)  
+  - Durée des épisodes, mode de début et fin
+  - Symptômes: {{< modal-btn modal-ehra >}}score EHRA{{< /modal-btn >}}  
   **Dyspnée, palpitations, fatigue**, douleur thoracique, intolérance à l'effort, malaises, vertiges, chutes, syncope, troubles du sommeil, anxiété.
-- {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} ou {{< scores/heartscore >}}
-- {{< modal-btn modal-saos >}}Dépistage du SAOS{{< /modal-btn >}}
+- {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} ± {{< scores/heartscore >}}
+- {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}} (50%)
 
 ### Examen clinique
 
@@ -139,8 +143,8 @@ HTA, diabète, insuffisance cardiaque, coronaropathie, insuffisance rénale, ob�
 
 ### Évaluation gériatrique standardisée
 
-- Cognitif. MMSE  
-Plus rapides: MIS (Memory Impairment Screen), test des 5 mots, test de l'horloge
+- Cognitif: MMSE  
+Plus rapides: MIS (Memory Impairment Screen), test des 5 mots, test de l'horloge.
 - Dépendance: ADL ou IADL
 - Symptômes dépressifs
 - État nutritionnel
@@ -151,6 +155,7 @@ Plus rapides: MIS (Memory Impairment Screen), test des 5 mots, test de l'horloge
 {{%collapse "Examens complémentaires" %}}
 
 {{%info%}}
+Adresser au cardiologue pour évaluation spécialisée avec **échocardiographie**.
 
 ### ECG 12D
 
@@ -163,16 +168,17 @@ Envisager un ECG de dépistage systématique ≥ 75 ans (TODO: ou risque d'AVC �
 ### Biologie
 
 - NFS
-- Ionogramme sanguin, créatininémie, CKD-EPI
+- Ionogramme sanguin, créatininémie, CKD-EPI et Cockroft
 - Glycémie à jeun
 - TP, TCA
 - TSH
 - Point d'appel: CRP, BH, troponine, albuminémie, BU
 - Si digoxine: digoxinémie
 
-La radiographie thoracique n'est pas systématique.
+### Autres
 
-{{%info%}}Adresser au cardiologue pour évaluation spécialisée avec **échocardiographie**{{%/info%}}
+- La radiographie thoracique n'est pas systématique
+- Enregistrement du sommeil si FA symptomatique
 
 {{% /collapse %}}
 {{%collapse "Risque embolique CHA2DS2-VASc et de saignement" "show"%}}
@@ -181,7 +187,7 @@ Réévaluer régulièrement les risques emboliques et de saignement.
 
 ### Risque embolique: CHA<sub>2</sub>DS<sub>2</sub>-VASc
 
-{{< modal-btn modal-chads >}}Calculer le score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}}
+{{< modal-btn modal-chads >}}Calculer le score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} quelque soit le type de FA.
 
 ### Risque hémorragique: HAS-BLED
 
@@ -191,8 +197,6 @@ Estimer ce risque si un traitement anticoagulant est indiqué.
 <div class="border mb-3" style="max-width: 480px">
 {{< scores/has-bled >}}
 </div>
-
-TODO: score HEMORR2HAGES (+ adapté pour AVK > 80 ans)
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
@@ -204,37 +208,41 @@ TODO: score HEMORR2HAGES (+ adapté pour AVK > 80 ans)
 {{%collapse "Traitement" %}}
 
 - Observance +++
-- Facteurs déclenchants
-  - Réduction de l'alcool
-  - Activité physique d'intensité modérée
+- Facteurs favorisants
   - Arrêt du tabac
+  - Réduction de l'alcool
+  - HTA ≤ 130/80 mmHg
+  - Correction d'un surpoids
+  - Activité physique d'intensité modérée  
+  Éviter endurance prolongée (marathon).
 - Anticoagulant ({{< modal-btn modal-chads >}}indication{{< /modal-btn >}}, molécules)
 - FC cible < 110/min par BB
 - La cardioversion n'est pas abordée (cardiologue uniquement)
 - Hypertension
-  - Préférer IEC/ARA2, MRA
+  - Préférer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, anti-aldostérone
 - Éducation thérapeutique du patient et son entourage
+- ALD n°5
 
 ### Anticoagulation
 
-AOD en 1<sup>re</sup> intention si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}}.  
+AOD en 1<sup>re</sup> intention si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}} (même chez la personne âgée).  
 AVK si valve mécanique ou sténose mitrale modérée à sévère.  
 Réévaluer fréquemment le risque de saignement avec HAS-BLED.
 
-#### Contre-indications
+#### Contre-indications à l'anticoagulation
 
 - Hémorragie active importante
 - Hémorragie récente majeure (intra-crânienne...)
 - Thrombopénie < 50.000/mm³
 - Anémie non expliquée
 
-{{%warning%}}Un traitement anticoagulant contre-indique les antithrombotiques (aspirine, clopidogrel) et AINS{{%/warning%}}
+{{%warning%}}Un traitement anticoagulant contre-indique les antithrombotiques (aspirine, clopidogrel sauf post-SCA) et AINS{{%/warning%}}
 
-Adaptation selon la fonction rénale selon Cockroft.
+Adaptation à la fonction rénale selon Cockroft.
 
 #### AVK
 
-Indications: systématique si AF (quelque soit le type) et valve mécanique ou sténose mitrale modérée à sévère.
+Indications: systématique si AF (quelque soit le type) ET valve mécanique ou sténose mitrale modérée à sévère.
 
 INR cible selon la prothèse ou entre 2 et 3.
 AVK avec temps dans la cible ≥ 70% (si non atteint: AOD et observance ++ ou éducation et renforcement des INR).
@@ -248,14 +256,30 @@ Aspirine si refus anticoag (mais inefficace en prévention des AVC).
   - Évaluation de la FC sur ECG 12D
   - Contrôle avec Holter-ECG
 - Molécules
-  - TODO: Table 13. Bêtabloquants en 1re intention, digoxine, inhibiteurs calciques non dihydropyridine (ICND, vérapamil, diltiazem) ou association
+  - TODO: Table 13. Bêtabloquants en 1re intention, digoxine, inhibiteurs calciques non dihydropyridine (ICND, ) ou association
   - TODO: Figure 14
+  - FEVG ≥ 40%: **BB**, vérapamil, diltiazem (voire digoxine)
+  - FEVG < 40%: BB, digoxine
 
 ### Antiarythmiques
 
-Antiarythmiques indiqués pour le maintien à long terme du rythme sinusal. Listés ici pour la surveillance des contre-indications.
+Antiarythmiques si symptômes pour le maintien à long terme du rythme sinusal.
+Non recommandés si FA permanente avec FC < 110/min OU troubles de conduction.
+
+Listés ici pour la surveillance des contre-indications.
 
 TODO: Table 20 et p. 57. Amiodarone, flécaïne, propafenone, dronedarone, sotalol.
+
+{{% /collapse %}}
+{{%collapse "Suivi" %}}
+
+- Contrôle des facteurs favorisants  
+Alcool, tabac, HTA, apnées du sommeil, diabète, activité physique, surpoids.
+- Symptômes, {{< modal-btn modal-ehra >}}impact{{< /modal-btn >}}  
+Type, durée quotidienne.
+- {{< modal-btn modal-chads >}}Réévaluation HA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et HAS-BLED
+- FC < 110/min
+- Complications: AVC/AIT, saignements
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
@@ -272,6 +296,7 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{%sources%}}
 
 - [Hindricks G. et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Hear Jour. Vol 42. Issue 5. 1 Feb 2021. Pages 373–498.](https://doi.org/10.1093/eurheartj/ehaa612)
+- [HAS. Fibrillation atriale. Guide parcours de soins. Février 2014.]()
 - [Société Française de Gériatrie et Gérontologie et Société Française de Cardiologie. Prise en charge de la fibrillation atriale du sujet âgé. La Revue de Gériatrie. Tome 38. n°7. Septembre 2013. (PDF)](http://www.revuedegeriatrie.fr/documents/fibrillation_atriale.pdf)
 
 ### À lire
@@ -306,5 +331,13 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{< scores/cha2ds2vasc >}}
 
 {{% /modal %}}
+{{% modal title="IEC dans l'hypertension" id="modal-iec" %}}
 
-≤≥±®œŒÈ³ÂSpO<sub>2</sub>
+{{< traitements/iec >}}
+
+{{% /modal %}}
+{{% modal title="ARA2 dans l'hypertension" id="modal-ara2" %}}
+
+{{< traitements/ara2 >}}
+
+{{% /modal %}}

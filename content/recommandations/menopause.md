@@ -347,7 +347,7 @@ L'absence d'efficacité doit faire rechercher des BVM atypiques (voir *Clinique*
   - Continu: estrogène en continu + progestatif débuté de J11 à J13 et suspendu à J25. Hémorragie suit l'arrêt du progestatif.
   - Discontinu: Estrogène pendant 25 jours puis arrêt 1 semaine + progestatif débuté de J11 à J13 et suspendu à J25 avec l'estrogène. Hémorragie suit l'arrêt du progestatif.
 
-<div id="chart" class="border alert mb-4"></div>
+<figure id="chart" class="border alert mb-4"></figure>
 <script>
 const chartOptions = {
   series: [

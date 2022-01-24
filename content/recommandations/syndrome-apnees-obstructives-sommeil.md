@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2020-12-22T09:52:41+02:00
 publishdate = 2020-12-22
-lastmod = 2021-12-16
+lastmod = 2022-01-24
 specialites = ["medecine du sommeil"]
 annees = "2018"
 sources = ["SFRMS", "AASM", "HAS"]
@@ -25,7 +25,7 @@ todo = "103, 105, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouve
 {{%article-summary%}}
 
 - Suspecter un SAOS devant: sommeil non réparateur, somnolence, fatigue, hypertension non contrôlée, reflux nocturne
-- Dépister systématiquement si obésité, diabète, maladie cardiovasculaire...
+- Dépister systématiquement si obésité, diabète, FA, maladie cardiovasculaire...
 - Dépister par le questionnaire STOP-BANG ou les *8 questions* (voir *Comment dépister ...* )
 - Probabilité forte de SAOS avec somnolence inexpliquée malgré une polygraphie normale: réaliser une polysomnographie
 - La PPC doit être utilisée ≥ 4h/nuit et renouvelée au bout de 3 ans par le médecin traitant
@@ -40,7 +40,7 @@ Il a une origine *obstructive* (SAOS), *centrale* (SACS) ou *mixte*.
 {{%info%}}
 Les complications des apnées du sommeil sont nombreuses et sévères:
 
-- Coronaropathie et insuffisance cardiaque (+50%)  
+- Coronaropathie et [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (+50%)  
 HTA diastolique, nocturne et résistante (> 60% des HTA résistantes).
 - AVC (x 2-3)
 - Fibrillation atriale

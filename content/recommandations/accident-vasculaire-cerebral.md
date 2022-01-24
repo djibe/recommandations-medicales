@@ -17,7 +17,7 @@ sctid = "230690007"
 draft = false
 image = true
 imageSrc = "Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
-todo = "rééduc, bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104"
+todo = "rééduc, bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104, ESC AF holter-ecg >= 24h et préféré 3j"
 +++
 
 {{%article-summary%}}
