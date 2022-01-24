@@ -136,7 +136,7 @@ Après 60 ans, lorsque la taille n'est pas mesurable par une toise (alitement, t
 </script>
 
 > **Détail.** Mesure talon-genou: en décubitus dorsal, genoux à 90°, avec toise pédiatrique posée sous le pied et la partie mobile appuyée au-dessus du genou.  
-[Chumlea WC, Roche AF, Steinbaugh ML. Estimating stature from knee height for persons 60 to 90 years of age. J Am Geriatr Soc 1985;33(2):116-20.](https://agsjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1532-5415.1985.tb02276.x?sid=nlm%3Apubmed)
+[Chumlea WC, Roche AF, Steinbaugh ML. Estimating stature from knee height for persons 60 to 90 years of age. J Am Geriatr Soc 1985;33(2):116-20.](https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/j.1532-5415.1985.tb02276.x)
 
 {{% /collapse %}}
 {{%collapse "Dénutrition du sujet âgé" %}}

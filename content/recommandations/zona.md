@@ -203,4 +203,8 @@ Persistance de douleurs neuropathiques d'un dermatome atteint par un zona.
 - [CEDEF. Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 - UE 6. 2017.](https://undf.cedef.org/fr/document/Infections-%C3%A0-herp%C3%A8s-virus-du-sujet-immunocomp%C3%A9tent)
 - [SPILF. Prise en charge des infections à VZV. Méd Mal Infect. 1998 ; 28: 1-8. (PDF)](https://www.infectiologie.com/UserFiles/File/medias/_documents/consensus/vzv98.pdf)
 
+### À lire
+
+[CMIT. Infections à herpès virus du sujet immunocompétent. UE6 Item 164. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-164-nb.pdf)
+
 {{%/sources%}}

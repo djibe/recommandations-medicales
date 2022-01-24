@@ -287,7 +287,7 @@ graph TB
 
 - [Collège des enseignants de neurologie. Paralysie faciale.](https://www.cen-neurologie.fr/deuxieme-cycle/paralysie-faciale)
 - [Donnet A. et al. Recommandations pour le diagnostic et le traitement de l'algie vasculaire de la face. Revue Neurologique. Volume 170. Issue 11. 2014. Pages 653-670. ISSN 0035-3787. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20pour%20le%20diagnostic%20et%20le%20traitement%20de%20l%2527algie%20vasculaire%20de%20la%20face%20(3).pdf)
-- [Wilbrink LA et al. Stepwise web-based questionnaires for diagnosing cluster headache: LUCA and QATCH. Cephalalgia. 2013;33(11):924-931.](https://doi.org/10.1177%2F0333102413479835)
+- [Wilbrink LA et al. Stepwise web-based questionnaires for diagnosing cluster headache: LUCA and QATCH. Cephalalgia. 2013;33(11):924-931.](https://journals.sagepub.com/doi/10.1177/0333102413479835)
 - Prescrire Redaction. Algie vasculaire de la face, en bref. Janvier 2012.
 - [CiSMeF. Algie vasculaire de la face](https://www.cismef.org/page/algie-vasculaire-de-la-face)
 

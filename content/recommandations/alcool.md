@@ -208,7 +208,7 @@ L'option la plus sûre est de ne pas consommer d'alcool en cas de:
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-- [SPF: L'alcool pour comprendre (PDF)]([L'alcool pour comprendre](https://www.santepubliquefrance.fr/content/download/405029/3325975))
+- [SPF: L'alcool pour comprendre]([L'alcool pour comprendre](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/brochure/l-alcool-pour-comprendre))
 - [Santé BD. L'alcool et ma santé](https://santebd.org/les-fiches-santebd/cancer/ma-sante-et-lalcool)
 - [Addictions France (ex ANPAA)](https://addictions-france.org/)
 

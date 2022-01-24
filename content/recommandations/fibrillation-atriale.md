@@ -29,6 +29,7 @@ todo = "ESC 2020: Table 4 | chap 11.5 saignement, HAS, collège, Source 2013 bon
 {{%collapse "Définitions" %}}
 
 Fibrillation atriale (FA)
+: *ex fibrillation auriculaire*
 : Tachyarythmie supraventriculaire caractérisée par une activation atriale anarchique désorganisant la fonction mécanique des atriums. Le flux sanguin est limité avec constitution de caillots pouvant être libérés sous forme d'emboles artériels. Toutes les cardiopathies peuvent se compliquer de fibrillation atriale.
 : Le diagnostic est électrocardiographique: intervalles R-R irréguliers, absence d'ondes P et trémulation de la ligne de base sur ECG 12D ou simple dérivation pendant ≥ 30s
 
@@ -280,6 +281,7 @@ Type, durée quotidienne.
 - {{< modal-btn modal-chads >}}Réévaluation HA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et HAS-BLED
 - FC < 110/min
 - Complications: AVC/AIT, saignements
+- NFS, créatininémie
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
@@ -296,8 +298,9 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{%sources%}}
 
 - [Hindricks G. et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Hear Jour. Vol 42. Issue 5. 1 Feb 2021. Pages 373–498.](https://doi.org/10.1093/eurheartj/ehaa612)
-- [HAS. Fibrillation atriale. Guide parcours de soins. Février 2014.]()
-- [Société Française de Gériatrie et Gérontologie et Société Française de Cardiologie. Prise en charge de la fibrillation atriale du sujet âgé. La Revue de Gériatrie. Tome 38. n°7. Septembre 2013. (PDF)](http://www.revuedegeriatrie.fr/documents/fibrillation_atriale.pdf)
+- [HAS. Fibrillation auriculaire. Actes et prestations Affection de longue durée. Juillet 2015.](https://www.has-sante.fr/jcms/c_568395/fr/ald-n-5-fibrillation-auriculaire)
+- [HAS. Fibrillation atriale. Guide parcours de soins. Février 2014.](https://www.has-sante.fr/jcms/c_1741768/fr/guide-parcours-de-soins-fibrillation-atriale)
+- [Société Française de Gériatrie et Gérontologie et Société Française de Cardiologie. Prise en charge de la fibrillation atriale du sujet âgé. La Revue de Gériatrie. Tome 38. n°7. Septembre 2013. (PDF)](http://www.omedit-idf.fr/wp-content/uploads/2015/02/CV-antico-recoFASFGGSFC2013.pdf)
 
 ### À lire
 

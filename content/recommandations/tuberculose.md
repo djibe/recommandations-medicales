@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-03T15:14:20+02:00
 publishdate = 2020-06-03
-lastmod = 2021-09-28
+lastmod = 2022-01-24
 specialites = ["infectiologie", "pneumologie"]
-annees = "2000"
-sources = ["HAS"]
+annees = "2021"
+sources = ["HAS", "MinSanté", "CMIT"]
 tags = ["fatigue", "fievre", "sueurs nocturnes", "toux", "vaccin"]
 anglais = ["Tuberculosis"]
 sctid = "56717001"
@@ -99,10 +99,10 @@ Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre d
 {{< card-link title="Tuberculosis" url="https://www.fun-mooc.fr/fr/cours/tuberculosis/" subtitle="Par l'Institut Pasteur">}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
-- [CMIT. Tuberculose de l’adulte et de l’enfant. ECN.Pilly. UE6 - 155. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2018/ecn-2018-ue6-155-nb.pdf)
+- [CMIT. Tuberculose de l'adulte et de l'enfant. ECN.Pilly. UE6 Item 155. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-155-nb.pdf)
 - [HAS. Tuberculose maladie. Juin 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/actualisationlap_tuberculose__web_.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}

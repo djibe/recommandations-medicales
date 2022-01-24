@@ -31,7 +31,7 @@ todo = "sources"
 Panaris
 : Infection aiguë du doigt limitée au plan cutané ou sous-cutané.
 : Germes les plus fréquents: Staphylocoque doré ± sécréteur de toxine de Panton Valentine (VPL, Méthi-S++) et streptocoque pyogenes (SGA).  
-: Acupuncture ou piercing: Mycobacterium fortuitum ou M. chelonae.
+: Acupuncture ou piercing: *Mycobacterium fortuitum* ou *M. chelonae*.
 
 Complications du panaris
 : Atteinte profonde des fléchisseurs à l'origine d'un **phlegmon des gaines** et **ostéo-arthrite**.
@@ -139,9 +139,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- ECN.Pilly
 - La Revue Prescrire 418. Panaris péri-unguéal bactérien aigu.
-- Pilly 2014
-- Antibioclic
+- [Antibioclic](https://antibioclic.com/questionnaire/23)
 - [ChirurgieMain. Panaris](http://chirurgiemain.fr/pathologies-main-poignet/traumatismes/panaris/)
 - [Ameli. Panaris](https://www.ameli.fr/assure/sante/themes/panaris)
 

@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-16T16:50:41+01:00
 publishdate = 2020-12-15
-lastmod = 2021-05-05
+lastmod = 2022-01-24
 specialites = ["dermatologie"]
-annees = "2018"
-sources = ["CEDEF", "CMIT"]
+annees = "2020"
+sources = ["CMIT", "CEDEF"]
 tags = ["prurit"]
 anglais = ["Scabies"]
 sctid = "128869009"
@@ -283,9 +283,9 @@ Si traitement oral: 2<sup>e</sup> prise orale du nombre de comprimés prescrits.
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [CMIT. Ectoparasitoses cutanées : gale et pédiculose. Item 167 - UE 6. E.PILLY 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-167-nb.pdf)
+- [CMIT. Ectoparasitoses cutanées : gale et pédiculose. UE 6 Item 167. ECN.PILLY 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-167-nb.pdf)
 - [CEDEF. Ectoparasitoses cutanées : gale et pédiculose. Item 167 - UE 6. 2017.](https://undf.cedef.org/fr/document/Ectoparasitoses-cutan%C3%A9es_gale-et-p%C3%A9diculose)
-- [HCSP. Survenue de un ou plusieurs cas de gale. Conduite à tenir. 2012](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=312)
+- [HCSP. Survenue de un ou plusieurs cas de gale. Conduite à tenir. 2012.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=312)
 - [Omedit Centre. Prise en charge et traitement des sujets atteints de gale. Mars 2010. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/6308.pdf)
 
 {{% /collapse %}}

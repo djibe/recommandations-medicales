@@ -129,9 +129,7 @@ Atteintes possibles après une infection à Sars-Cov-2.
 
 ### Télésurveillance en Ile-de-France
 
-- [COVI Contact. Suivi des personnes infectées ou en isolement.](https://www.iledefrance.ars.sante.fr/covi-contact-solution-de-telesuivi-et-dappui-des-personnes-isolees)  
-Le suivi est initié par l'ARS sans intervention du médecin.
-- [Covidom. Suivi des personnes infectées](https://inscription.covidom.fr/1)
+[Covidom. Suivi des personnes infectées](https://inscription.covidom.fr/1)
 
 {{%/collapse%}}
 {{%sources%}}

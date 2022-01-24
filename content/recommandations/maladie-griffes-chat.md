@@ -6,10 +6,10 @@ synonyms = ["Bartonellose à Bartonella henselae, lymphogranulomatose bénigne d
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T19:47:00+02:00
 publishdate = 2021-03-28
-lastmod = 2021-03-29
+lastmod = 2022-01-24
 specialites = ["infectiologie"]
-annees = "2018"
-sources = ["Pilly", "MinAgri"]
+annees = "2020"
+sources = ["CMIT", "MinAgri"]
 tags = []
 anglais = ["Cat scratch disease"]
 sctid = "79974007"
@@ -37,16 +37,17 @@ Le plus souvent bénigne avec guérison sans séquelles.
 
 - Contexte de griffure ou morsure par un chat  
 Exceptionnellement par inoculation (épine ou écharde).
-- Incubation de 2-3 semaines puis apparition de ganglions régionaux pouvant persister plusieurs mois
-- Parfois rougeur ou lésion au niveau de la plaie 3 à 10 jours après l’inoculation
+- Incubation de 2-3 semaines puis apparition d'**adénopathie régionale** (unique dans 50% des cas) pouvant persister plusieurs mois
+- Rougeur ou lésion au niveau de la plaie 3 à 10 jours après l’inoculation (50%)
 - Signes généraux discrets (50% des cas)  
 Fébricule, asthénie, céphalées, douleurs abdominales.
-- Valvulopathe: risque endocardite à hémocultures négatives
+- Valvulopathe: risque [endocardite]({{< relref "endocardite.md" >}}) à hémocultures négatives
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Aucun examen complémentaire en forme typique.
+Sérologie *Bartonella henselae*.  
+Sa négativité n'élimine pas le diagnostic.
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
@@ -59,11 +60,11 @@ Aucun examen complémentaire en forme typique.
 
 ### Antibiothérapie
 
-{{%info%}}Azithromycine 500 mg en 1 prise J1 puis 250 mg en 1 prise de J2 à J5 et arrêt.{{%/info%}}
+{{%info%}}Azithromycine 500 mg en 1 prise J1 puis 250 mg en 1 prise de J2 à J5 et arrêt{{%/info%}}
 
 Si allergie ou contre-indication: doxycycline 200 mg x 1/j pendant 14 jours.
 
-> E-Pilly 2016. << Traitement antibiotique a peu d’importance et n’est donc pas justifié. Nécessaire dans seulement 5 à 14% des cas. >>
+> << Chez l'immunocompétent, l'intérêt d'une antibiothérapie est discuté, car l'évolution est spontanément favorable >> *CMIT 2020*
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
@@ -76,9 +77,9 @@ Si allergie ou contre-indication: doxycycline 200 mg x 1/j pendant 14 jours.
 - Si ganglion ou rougeur dans les semaines qui suivent, consulter rapidement un médecin
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
-- [ECN.Pilly. Zoonoses. UE 169. 2018. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2018/ecn-2018-ue6-169-nb.pdf)
+- [CMIT. Zoonoses. UE6 Item 169. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-169-nb.pdf)
 - [Ministère de l'Agriculture. Maladie des griffes du chat. Janvier 2007. (PDF)](https://agriculture.gouv.fr/sites/minagri/files/documents/pdf/griffes_chat090107.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}

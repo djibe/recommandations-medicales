@@ -303,7 +303,7 @@ style depister stroke:#4150f5, stroke-width:1px
 - [HAS. Actes et prestations – ALD. Artériopathie oblitérante des membres inférieurs. Novembre 2016.](https://www.has-sante.fr/jcms/c_534760/fr/ald-n3-arteriopathie-obliterante-des-membres-inferieurs)
 - [Mounier-Vehier C et al. Quand doit-on dépister l’artériopathie oblitérante des membres inférieurs ? Quelle stratégie médicale proposer ? Mal Coeur Vaiss Prat. 15 déc 2009;15(182):13‑24.](https://www.em-consulte.com/article/237143)
 - [TASC II. Management of Peripheral Arterial Disease. 2007.](https://www.jvascsurg.org/article/S0741-5214(06)02296-8/pdf)
-- [Bendermacher BL et al. A clinical prediction model for the presence of peripheral arterial disease--the benefit of screening individuals before initiation of measurement of the ankle-brachial index: an observational study. Vasc Med. 2007 Feb;12(1):5-11.](https://doi.org/10.1177%2F1358863X07076827)
+- [Bendermacher BL et al. A clinical prediction model for the presence of peripheral arterial disease--the benefit of screening individuals before initiation of measurement of the ankle-brachial index: an observational study. Vasc Med. 2007 Feb;12(1):5-11.](https://journals.sagepub.com/doi/10.1177/1358863X07076827)
 - [HAS. Guide ALD Artériopathie oblitérante des membres inférieurs. Mars 2007.](https://www.has-sante.fr/upload/docs/application/pdf/ald3_aomi_guide_cardiovasc_post_corrlemire_revuenp28avril__205.pdf)
 - [HAS. Prise en charge de l’artériopathie chronique oblitérante athéroscléreuse des membres inférieurs. Avril 2006.](https://www.has-sante.fr/jcms/c_272513/fr/prise-en-charge-de-l-arteriopathie-chronique-obliterante-atherosclereuse-des-membres-inferieurs-indications-medicamenteuses-de-revascularisation-et-de-reeducation)
 
