@@ -22,7 +22,7 @@
 {{ else if and (eq .Section "recommandations") (eq .Kind "page") }}
   {{ $metaTitle = ( printf "%s %s%s %s" "Recommandations sur" (.Params.prefix | safeHTML ) .Title "en 2022 | RecoMédicales" ) }}
 {{ else }}
-  {{ $metaTitle = ( printf "%s %s %s" .Title "|" $.Site.Title ) }}
+  {{ $metaTitle = ( printf "%s %s" .Title "| RecoMédicales" ) }}
 {{ end }}
 
 <title itemprop="name">{{ $metaTitle }}</title>

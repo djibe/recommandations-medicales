@@ -13,15 +13,16 @@ sources = ["ESC", "HAS"]
 tags = ["anticoagulant", "demence", "depistage", "dyspnee", "fatigue", "HTA", "SAS", "TSH"]
 anglais = ["Atrial fibrillation"]
 sctid = "49436004"
-draft = false
-todo = "ESC 2020: Table 4 | chap 11.5 saignement, HAS, collège, Source 2013 bonne pour EGS"
+draft = true
+todo = "ESC 2020: Table 4 | chap 11.5 saignement, Prescrire, Collège, Source 2013 bonne pour EGS"
 +++
 
 {{%article-summary%}}
 
+- *Version préliminaire*
 - FA mal tolérée = appel du {{< phone >}}15{{< /phone >}}
 - Dépister: ≥ 65 ans, diabète, HTA
-- Le diagnostic est clinico-ECG
+- Le diagnostic est ECG
 - {{< modal-btn modal-chads >}}Anticoagulation{{< /modal-btn >}}, risque hémorragique HAS-BLED (voir *Risque embolique*), symptômes, facteurs favorisants
 - Suivi cardiologique, ralentir < 110/min (BB en 1<sup>re</sup> intention), Holter-ECG
 
@@ -30,8 +31,10 @@ todo = "ESC 2020: Table 4 | chap 11.5 saignement, HAS, collège, Source 2013 bon
 
 Fibrillation atriale (FA)
 : *ex fibrillation auriculaire*
-: Tachyarythmie supraventriculaire caractérisée par une activation atriale anarchique désorganisant la fonction mécanique des atriums. Le flux sanguin est limité avec constitution de caillots pouvant être libérés sous forme d'emboles artériels. Toutes les cardiopathies peuvent se compliquer de fibrillation atriale.
+: Tachyarythmie supraventriculaire caractérisée par une activation atriale anarchique désorganisant la fonction mécanique des atriums. Le flux sanguin est limité avec constitution de thrombus pouvant être libérés sous forme d'emboles artériels. Toutes les cardiopathies peuvent se compliquer de fibrillation atriale.  
+Le risque thrombo-embolique est identique pour toutes les formes cliniques de FA (paroxystique, persistante, permanente).
 : Le diagnostic est électrocardiographique: intervalles R-R irréguliers, absence d'ondes P et trémulation de la ligne de base sur ECG 12D ou simple dérivation pendant ≥ 30s
+: Gravité par son risque thrombo-embolique (TE, AVC x 5) et le risque d'insuffisance cardiaque.
 
 FA clinique
 : Fibrillation atriale symptomatique ou non documentée par ECG.
@@ -58,7 +61,8 @@ FA de détection récente
 **AVK:** anticoagulant antivitamine K  
 **EHRA:** {{%lang%}}European Heart Rhythm Association{{%/lang%}}  
 **FA:** fibrillation atriale  
-**HTA:** hypertension artérielle
+**HTA:** hypertension artérielle  
+**TE:** thrombo-embolie
 
 Inhibiteurs calciques non dihydropyridiniques: diltiazem ou vérapamil.
 
@@ -114,18 +118,26 @@ Diurétiques, théophylline, salbutamol, anti-arythmique.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Évaluation clinique: type de FA, risque embolique, symptômes, comorbidités{{%/info%}}
+{{%info%}}
+Toute suspicion clinique de FA doit être confirmée au plus tôt par un ECG
 
-50-87% sont initialement asymptomatiques.
+---
+
+Évaluation clinique: type de FA, risque embolique, symptômes, comorbidités
+{{%/info%}}
+
+50-87% sont initialement **asymptomatiques**.
 
 ### Interrogatoire
 
 - Nom du cardiologue
 - Comorbidités  
 HTA, diabète, insuffisance cardiaque, coronaropathie, insuffisance rénale, obésité.
+- Épisode aigu récent  
+Chirurgie, infection.
 - Tabac, alcool
 - Activité physique
-- Traitements en cours
+- Traitements en cours et {{< modal-btn modal-observance >}}observance{{< /modal-btn >}}
 - Fibrillation atriale
   - Ancienneté
   - Facteurs déclenchants
@@ -139,8 +151,9 @@ HTA, diabète, insuffisance cardiaque, coronaropathie, insuffisance rénale, ob�
 
 - Pouls irrégulier
 {{%class%}}Manuel (se 87-97%, spe 70-81%) ou tensiomètre électronique (se 93-100%, spe 86-92%, *Mairesse 2017*){{%/class%}}
-- PA, poids, taille, IMC
+- Pression artérielle, poids, taille, IMC
 - Pouls périphériques, œdèmes
+- Recherche d'infection aiguë
 
 ### Évaluation gériatrique standardisée
 
@@ -173,6 +186,7 @@ Envisager un ECG de dépistage systématique ≥ 75 ans (TODO: ou risque d'AVC �
 - Glycémie à jeun
 - TP, TCA
 - TSH
+- Bilan hépatique
 - Point d'appel: CRP, BH, troponine, albuminémie, BU
 - Si digoxine: digoxinémie
 
@@ -208,20 +222,22 @@ Estimer ce risque si un traitement anticoagulant est indiqué.
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-- Observance +++
+- Traitement à vie et {{< modal-btn modal-observance >}}observance{{< /modal-btn >}} +++
 - Facteurs favorisants
   - Arrêt du tabac
   - Réduction de l'alcool
-  - HTA ≤ 130/80 mmHg
+  - HTA
   - Correction d'un surpoids
   - Activité physique d'intensité modérée  
   Éviter endurance prolongée (marathon).
-- Anticoagulant ({{< modal-btn modal-chads >}}indication{{< /modal-btn >}}, molécules)
+- Anticoagulant ({{< modal-btn modal-chads >}}indication{{< /modal-btn >}}, molécules)  
+- Contre-indication aux antithrombotiques (aspirine, clopidogrel sauf post-SCA) et AINS.
 - FC cible < 110/min par BB
 - La cardioversion n'est pas abordée (cardiologue uniquement)
-- Hypertension
+- Hypertension artérielle
+  - Cible ≤ 130/80 mmHg
   - Préférer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, anti-aldostérone
-- Éducation thérapeutique du patient et son entourage
+- Éducation thérapeutique du patient et son entourage (min /6 mois)
 - ALD n°5
 
 ### Anticoagulation
@@ -243,12 +259,13 @@ Adaptation à la fonction rénale selon Cockroft.
 
 #### AVK
 
-Indications: systématique si AF (quelque soit le type) ET valve mécanique ou sténose mitrale modérée à sévère.
+Indications: systématique si FA (quelque soit le type) valvulaire (valve mécanique ou sténose mitrale modérée à sévère).
 
 INR cible selon la prothèse ou entre 2 et 3.
-AVK avec temps dans la cible ≥ 70% (si non atteint: AOD et observance ++ ou éducation et renforcement des INR).
+AVK avec temps dans la cible ≥ 70%  
+Si temps dans la cible non atteint: AOD et observance ++ ou éducation et renforcement des INR.
 
-Aspirine si refus anticoag (mais inefficace en prévention des AVC).
+Aspirine 75-300 mg/j si refus d'anticoagulation (mais inefficace en prévention des AVC).
 
 ### Contrôle du rythme cardiaque
 
@@ -257,9 +274,9 @@ Aspirine si refus anticoag (mais inefficace en prévention des AVC).
   - Évaluation de la FC sur ECG 12D
   - Contrôle avec Holter-ECG
 - Molécules
-  - TODO: Table 13. Bêtabloquants en 1re intention, digoxine, inhibiteurs calciques non dihydropyridine (ICND, ) ou association
+  - TODO: Table 13. Bêtabloquants en 1re intention (méto, propra), digoxine, inhibiteurs calciques non dihydropyridine (ICND, ) ou association
   - TODO: Figure 14
-  - FEVG ≥ 40%: **BB**, vérapamil, diltiazem (voire digoxine)
+  - FEVG ≥ 40%: **BB**, vérapamil (assoc véra-dabigatran), diltiazem (voire digoxine)
   - FEVG < 40%: BB, digoxine
 
 ### Antiarythmiques
@@ -269,30 +286,46 @@ Non recommandés si FA permanente avec FC < 110/min OU troubles de conduction.
 
 Listés ici pour la surveillance des contre-indications.
 
-TODO: Table 20 et p. 57. Amiodarone, flécaïne, propafenone, dronedarone, sotalol.
+TODO: Table 20 et p. 57. Amiodarone, flécaïne, propafénone, dronedarone, sotalol.
 
 {{% /collapse %}}
 {{%collapse "Suivi" %}}
 
 - Contrôle des facteurs favorisants  
 Alcool, tabac, HTA, apnées du sommeil, diabète, activité physique, surpoids.
-- Symptômes, {{< modal-btn modal-ehra >}}impact{{< /modal-btn >}}  
+- Symptômes et {{< modal-btn modal-ehra >}}impact sur les activités{{< /modal-btn >}}  
 Type, durée quotidienne.
 - {{< modal-btn modal-chads >}}Réévaluation HA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et HAS-BLED
 - FC < 110/min
+- {{< modal-btn modal-observance >}}Observance{{< /modal-btn >}}
 - Complications: AVC/AIT, saignements
-- NFS, créatininémie
+- NFS, créatininémie, bilan hépatique (AOD)
+- Cardiologique, ECG
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
 Information du patient et de l'entourage sur la fibrillation atriale.
 
+- Diagnostic
+  - Définition et mécanisme
+  - Conséquences sur le risque TE
+- Facteurs favorisants et leur correction
+- Symptômes, savoir les reconnaître et les signaler
+- Complications
+  - CAT devant un AVC
+  - Malaise, dyspnée
 - Traitement
   - Bénéfices-risques
   - Options thérapeutique
-  - Importance de l'observance
   - Qualité de vie
+- Anticoagulants
+  - Connaître le but et ses risque
+  - AVK: INR cible et auto-adaptation
+  - CAT devant un saignement
+  - Signaler à tout médecin la prise
+  - Pas d'automédication
+  - Importance de l'{{< modal-btn modal-observance >}}observance{{< /modal-btn >}} (AOD même si sinusal +++)
 
 {{% /collapse %}}
 {{%sources%}}
@@ -342,5 +375,10 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{% modal title="ARA2 dans l'hypertension" id="modal-ara2" %}}
 
 {{< traitements/ara2 >}}
+
+{{% /modal %}}
+{{% modal title="Observance des traitements" id="modal-observance"%}}
+
+{{< scores/observance >}}
 
 {{% /modal %}}

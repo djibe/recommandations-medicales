@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2022-01-13"
+lastmod = "2022-01-24"
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -178,7 +178,7 @@ Reconsulter si: effets indésirables, douleurs pelviennes, ménorragies.
 
 #### Contraception estroprogestative (COP)
 
-Bilan après 3-6 mois de contraception (avant et renouvelé en antécédent familial métabolique) puis **tous les 5 ans** en bilan normal:
+Bilan après 3-6 mois de contraception (avant et renouvelé en antécédent familial métabolique) puis **tous les 5 ans** si bilan normal:
 
 - Bilan lipidique
 - Glycémie à jeun
@@ -378,7 +378,7 @@ Changement de contraception à discuter.
 {{%info%}}Les contraceptions hormonales ne sont pas associées à une prise de poids (*CNGOF 2018*){{%/info%}}
 
 L'implant sous-cutané à l’étonogestrel ou le DMPA injectable peuvent parfois augmenter modérément le poids.  
-Réaliser un bilan complet en prise de poids importante.
+Réaliser un bilan complet si prise de poids importante.
 
 ### Céphalées
 
@@ -401,14 +401,14 @@ Migraines cataméniales sous COP, proposer au choix:
 {{% /collapse %}}
 {{%collapse "Interactions médicamenteuses" %}}
 
-{{%info%}}Pas de contre-indication aux AINS en DIU cuivre{{%/info%}}
+{{%info%}}Pas de contre-indication aux AINS avec le DIU cuivre{{%/info%}}
 
 Contrôler les interactions médicamenteuses en cas de cotraitement.
 
 ### Inducteurs enzymatiques
 
 Réduisent l'efficacité contraceptive.  
-Préservatif jusqu'au cycle suivant en traitement court par un *inducteur enzymatique*:
+Préservatif jusqu'au cycle suivant en cas de traitement court par un *inducteur enzymatique*:
 
 - Millepertuis
 - Antiépileptiques  
@@ -436,12 +436,12 @@ En traitement prolongé, utiliser une contraception non hormonale.
 Utilisation de contraception œstroprogestative:
 
 - Augmentation de l'incidence  
-Modérée du risque du **cancer du sein** en utilisation par COP, qui diminue après l'arrêt de la contraception hormonale.
+Modérée du risque du **cancer du sein** avec une COP, qui diminue après l'arrêt de la contraception hormonale.
 - Diminution de l'incidence  
-  (\* prolongée après l'arrêt)
-  - Cancer de l'endomètre \*
-  - Cancer de l'ovaire \*
-  - Hémopathies malignes \*
+Prolongée après l'arrêt.
+  - Cancer de l'endomètre
+  - Cancer de l'ovaire
+  - Hémopathies malignes
   - Cancer colorectal
 
 DIU au LNG: réduction des cancers de l'endomètre et de l'ovaire.
@@ -450,7 +450,7 @@ DIU au LNG: réduction des cancers de l'endomètre et de l'ovaire.
 
 #### Contraception et cancer en cours de traitement
 
-Délai minimal conseillé de 6-12 mois après la fin du traitement une grossesse (souvent plus). Une contraception est nécessaire au long du traitement et choisie selon le risque d'interactions.
+Délai minimal conseillé de 6-12 mois après la fin du traitement pour envisager une grossesse (souvent plus). Une contraception est nécessaire au long du traitement et choisie selon le risque d'interactions.
 
 - Immunodépression  
 Le risque d'IST fait préférer le préservatif, le DIU LNG (avec recherche préalable de gonocoque/*Chlamydia*).
@@ -461,7 +461,7 @@ Préférer implant, préservatif (voire patch, anneau).
   - Cancer non hormonodépendant: les macroprogestatifs à dose antigonadotrope limitent le risque thromboembolique et permettent une aménorrhée.  
   Alternative: agonistes de la GnRH.
 
-Chez l'homme: recommander le préservatif en thérapie nouvelle.
+Chez l'homme: recommander le préservatif avec les nouvelles thérapies.
 
 #### Contraception après cancer
 

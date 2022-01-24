@@ -1,7 +1,7 @@
 +++
 title = "Maladie de Menière"
 prefix = "la "
-shortname = "Ménière"
+titleSeo = "Maladie de Menière"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-30T08:50:00+02:00

@@ -1,7 +1,7 @@
 +++
 title = "Urticaire aiguë et chronique"
 prefix = "l'"
-shortname = "Urticaire"
+titleSeo = "Urticaire"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-27T17:43:41+02:00

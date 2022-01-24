@@ -2,7 +2,7 @@
 title = "Bilan orthoptique et orthoptie"
 noindex = true
 prefix = "le "
-shortname = ""
+titleSeo = "Bilan orthoptique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-10T16:46:32+01:00"

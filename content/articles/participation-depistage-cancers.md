@@ -1,5 +1,5 @@
 +++
-title = "Participation aux dépistages des cancers en France"
+title = "Participation aux dépistages des cancers"
 description = "Les français et leur taux de participation au dépistage généralisé des cancers"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-08-15T19:54:00+02:00

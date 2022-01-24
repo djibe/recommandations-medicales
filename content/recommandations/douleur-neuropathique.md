@@ -1,7 +1,7 @@
 +++
 title = "Douleurs neuropathiques"
 prefix = "les "
-shortname = "DN"
+titleSeo = "Douleurs neuropathiques"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr D. BOUHASSIRA (SFETD)"

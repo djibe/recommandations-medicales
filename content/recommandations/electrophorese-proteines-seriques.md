@@ -1,7 +1,7 @@
 +++
 title = "Electrophorèse des protéines sériques et immunoglobuline monoclonale"
 prefix = "l'"
-shortname = "EPS"
+titleSeo = "Électrophorèse des protéines sériques"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-17T00:20:41+01:00

@@ -6,7 +6,7 @@ synonyms = ["Ménopause précoce", "ménopause prématurée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-07T12:11:02+01:00"
 publishdate = "2022-01-10"
-lastmod = "2022-01-10"
+lastmod = "2022-01-24"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["HAS", "CNGOF"]
@@ -68,7 +68,7 @@ Spanioménorrhée
 
 - **Génétique**  
   - Formes familiales (4-31%)
-  - Origines  
+  - Origines plus exposées  
   Afro-américaines, hispaniques > caucasienne > asiatiques.
   - Syndrome de Turner
   - Prémutation du gène FMR1 ou autres
@@ -116,7 +116,7 @@ L'*infertilité* est le plus souvent définitive mais pas toujours (4-10% de gro
 
 ### Examen clinique
 
-Recherche des signes des maladies auto-immunes.
+Rechercher des signes de maladies auto-immunes.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -171,7 +171,7 @@ Voir les [indications au traitement selon T-score et FRAX]({{< relref "osteoporo
 - Origine génétique suspectée: avis génétique voire RCP pour génotype complet (Plan France Médecine Génomique)
 - IOP non iatrogène: Dépistage du cancer du sein à partir de 50 ans
 - Surveillance
-  - THS annuelle  
+  - annuelle du THS  
   Seins, gynécologique, poids, pression artérielle.
   - Psychologique
   - TSH, surrénales

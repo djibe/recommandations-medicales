@@ -1,7 +1,7 @@
 +++
 title = "Infections à Chlamydia trachomatis"
 prefix = "les "
-shortname = "Infections à Chlamydia"
+titleSeo = "Infections à Chlamydia"
 synonyms = ["Chlamydiose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T12:09:00+02:00

@@ -1,7 +1,7 @@
 +++
 title = "Hypertension artérielle maligne"
 prefix = "l'"
-shortname = "HTA maligne"
+titleSeo = "HTA maligne"
 synonyms = ["et urgences hypertensives"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-04T08:54:00+02:00

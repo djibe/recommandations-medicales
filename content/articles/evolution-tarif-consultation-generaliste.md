@@ -17,7 +17,7 @@ todo = "Salaire médian cadre, cadre même âge, temps travail, cotisations"
 
 ### Résumé
 
-TODO:
+*Publication préliminaire afin de disposer d'une série longue*
 
 ### Graphique
 

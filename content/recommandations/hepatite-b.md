@@ -51,7 +51,7 @@ Indications à la vaccination hépatite B:
 - Nouveau-nés de mère AgHBs+ ou nés en Guyane ou à Mayotte
 - Institution psychiatrique
 - Partenaires multiples, exposition aux IST ou IST récente
-- Usager de drogue IV ou intranasale
+- Usager de drogue IV ou intra-nasale
 - Voyage ou résidence en pays de moyenne/forte endémie
 - Potentielles transfusions répétées*  
 Hémophilie, dialyse, insuffisance rénale.

@@ -17,7 +17,9 @@ todo = "valeur C"
 
 ### Résumé
 
-La cotisation à l'Ordre des Médecins est globalement stable depuis 2011, avec un montant (corrigé de l'inflation) de 330,2 € contre 335 € en 2021 (et 2022).
+La cotisation au Conseil National de l'Ordre des Médecins (CNOM) est **stable sur les 10 dernières années**, avec un montant (corrigé de l'inflation) de 330,2 € contre 335 € en 2021 (et 2022). Elle suit donc la valeur du C, parfaitement stable sur 10 ans.
+
+Sur 20 ans (2001-2021), l'augmentation de la cotisation ordinale atteint presque **20%** (19,4%, corrigés de l'inflation). Sur cette période, le C a augmenté de **8,6%** (22,3€ en 2001). Dès 2002 le C est d'ailleurs à la valeur actuelle (20€ soit l'équivalent 25,2€ de 2021).
 
 ### Graphique
 

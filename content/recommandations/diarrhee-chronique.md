@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-22T19:42:41+02:00
 publishdate = 2020-07-22
-lastmod = 2022-01-18
+lastmod = 2022-01-24
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["BSG", "Collège"]
@@ -22,7 +22,8 @@ todo = "SeHCAT, FODMAPs"
 {{%article-summary%}}
 
 - Ramollissement des selles fréquentes (> 3/j) et prolongées (> 1 mois)
-- Bilan de 1re intention
+- Signes d'alarme: âge ≥ 50 ans, AEG, rectorragie/méléna, modification récente et inexpliquée du transit
+- Bilan de 1<sup>re</sup> intention (voir *Examens complémentaires*)
 - Avis spécialisé: signes d'alerte, altération de la qualité de vie
 
 {{%/article-summary%}}
@@ -55,7 +56,7 @@ Défécation difficile (dyschésie) et/ou prolapsus. La consistance des selles e
 - AEG
 - Rectorragie, méléna
 - Modification récente et inexpliquée du transit
-- Âge > 50 ans (*CDU-HGE*)
+- Âge ≥ 50 ans (*CDU-HGE*)
 
 {{%/warning%}}
 

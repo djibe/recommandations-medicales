@@ -46,12 +46,11 @@ Alcool
 
 - 1<sup>re</sup> substance addictive en coût social
 - Décès: 41.000 annuels (30.000 hommes)
-- Cancers: 30.000 annuels attribuables (2<sup>e</sup> cause évitable derrière le tabac)  
+  - Cancers: 30.000 annuels attribuables (2<sup>e</sup> cause évitable derrière le tabac)  
 Bouche, pharynx, larynx, œsophage, foie, côlon-rectum, sein.
-- Décès cardiovasculaires: 9900 annuels attribuables  
-HTA, AVC, FA.
+  - Décès cardiovasculaires: 9900 décès annuels attribuables (HTA, AVC, FA)
 - Consommation excessive
-  - 6<sup>e</sup> des pays de l'OCDE (sur 34)
+  - La France est 6<sup>e</sup> des pays de l'OCDE (sur 34)
   - 23,6% des 18-75 ans dépassent les repères de consommation (2017)
   - 10% des 18-75 ans consomment 58% de l'alcool consommé
   - 11,7 L/an/+15 ans
@@ -60,9 +59,9 @@ HTA, AVC, FA.
   - Décès sur la route: 1/3 par alcool
   - Risque mortel: x 8 (x 6 de 0,5 à 0,8 g/L)
 - Handicap  
-Alcoolisation fœtale est la 1<sup>re</sup> cause de handicap non génétique
+Alcoolisation fœtale est la 1<sup>re</sup> cause de handicap non génétique.
 
-#### Croyances en France
+#### Croyances sur l'alcool en France
 
 - 77% ignorent que l'alcool est la 2<sup>e</sup> cause de mortalité (*[La ligue 2018]*(https://www.ligue-cancer.net/article/46014_une-forte-majorite-des-francais-en-faveur-des-mesures-efficaces-pour-reduire-la))
 - 54% n'ont pas le sentiment de prendre de risques en consommant (même > 10 verres/semaine, *La ligue 2018*)

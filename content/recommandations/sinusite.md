@@ -1,7 +1,7 @@
 +++
 title = "Sinusite aiguë purulente"
 prefix = "la "
-shortname = "SAP"
+titleSeo = "Sinusite aiguë"
 synonyms = ["Rhinosinusites infectieuses aiguës"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-18T09:20:00+02:00
