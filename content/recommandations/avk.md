@@ -12,10 +12,10 @@ sources = ["HAS"]
 tags = ["anticoagulant"]
 anglais = []
 sctid = ""
-draft = true
+draft = false
 image = false
 imageSrc = ""
-todo = "adapt doses, auto-INR, avkclic"
+todo = "adapt doses"
 +++
 
 {{%collapse "Warfarine" %}}
