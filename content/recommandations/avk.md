@@ -235,36 +235,36 @@ Aucun aliment n'est interdit mais le régime alimentaire contenant de la vitamin
 
 ### Aliments modérés (1-10 µg/100g)
 
-- huile de maïs, palme, tournesol
-- crème, beurre, fromage
-- orge, avoine, son de blé
-- pain complet, céréales
-- pomme
-- datte, figue, raisin
-- pêche, prune
-- rhubarbe
-- myrtille, fraise
-- carotte, céleri
-- tomate
-- aubergine, courgette
-- bœuf
+- Huile de maïs, palme, tournesol
+- Crème, beurre, fromage
+- Orge, avoine, son de blé
+- Pain complet, céréales
+- Pomme
+- Datte, figue, raisin
+- Pêche, prune
+- Rhubarbe
+- Myrtille, fraise
+- Carotte, céleri
+- Tomate
+- Aubergine, courgette
+- Bœuf
 
 ### Aliments pauvres en vitamine K (0,1-1 µg/100g)
 
-- lait de vache, yaourt
-- maïs, pétale de maïs
-- pain blanc, farine blanche
-- spaghetti, riz complet
-- melon, pastèque, mangue
-- orange, pomelo
-- banane, ananas
-- cacahuète
-- pomme de terre
-- champignon
-- navet
-- concombre sans peau
-- poulet sans peau
-- œuf, poisson
+- Lait de vache, yaourt
+- Maïs, pétale de maïs
+- Pain blanc, farine blanche
+- Spaghetti, riz complet
+- Melon, pastèque, mangue
+- Orange, pomelo
+- Banane, ananas
+- Cacahuète
+- Pomme de terre
+- Champignon
+- Navet
+- Concombre sans peau
+- Poulet sans peau
+- Œuf, poisson
 
 {{% /collapse %}}
 {{%sources%}}

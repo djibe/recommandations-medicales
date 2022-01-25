@@ -37,8 +37,8 @@ Le risque thrombo-embolique est identique pour toutes les formes cliniques de FA
 : Gravité par son risque thrombo-embolique (TE, AVC x 5) et le risque d'insuffisance cardiaque.
 
 FA clinique
-: Fibrillation atriale symptomatique ou non documentée par ECG.
-: Inaugurale en l'absence d'antécédent.
+: Fibrillation atriale symptomatique ou non, documentée par ECG.
+: Dite *inaugurale* en l'absence d'antécédent.
 
 FA paroxystique
 : Épisodes cédant spontanément en moins de 7 jours.
