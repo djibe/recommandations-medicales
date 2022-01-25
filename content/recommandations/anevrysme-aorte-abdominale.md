@@ -83,4 +83,4 @@ Imagerie complémentaire par angio-scanner ou angio-IRM si images anormales.
 - [European Society of Cardiology. Guidelines on the diagnosis and treatment of aortic diseases. 2014.](https://doi.org/10.1093/eurheartj/ehu281)
 - [Haute Autorité de Santé. Dépistage et prévention des anévrismes de l’aorte abdominale. Novembre 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2013-02/aaa_fiche_med_vfinale.pdf)
 
-{{%sources%}}
+{{%/sources%}}

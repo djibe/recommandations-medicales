@@ -207,10 +207,9 @@ Traitement de dernier ressort en cas de:
 - Contre-indication ou résistance aux AINS
 - Contre-indication ou résistance aux corticoïdes
 - Contre-indication ou résistance à la colchicine
-- ET ≥ 3 crises durant l’année précédente
+- ET ≥ 3 crises durant l'année précédente
 
-{{%class%}}*Canakinumab* (Ilaris®) 150 mg SC dose unique. Intervalle de 12 semaines entre 2 injections.  
-Traitement contre-indiqué en cas d'infection active.{{%/class%}}
+Canakinumab (Ilaris®) 150 mg SC dose unique. Intervalle de 12 semaines entre 2 injections. Contre-indiqué en cas d'infection active.
 
 {{% /collapse %}}
 {{%collapse "Traitement de fond de la goutte" %}}

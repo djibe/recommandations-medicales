@@ -112,4 +112,4 @@ La prestation est accordée pour 5 ans, automatiquement renouvelable.
 - DGCCRF. Contrôle de l’information des consommateurs sur les prix des produits et services d’aide à l’autonomie. 28 octobre 2016.
 - Fizzala A. Autonomix, un outil d’évaluation de mesures portant sur les personnes âgées dépendantes. DREES Économie et statistique n°481-482. 2015.
 
-{{%sources%}}
+{{%/sources%}}
