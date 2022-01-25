@@ -16,7 +16,7 @@
 <!-- Title Tags 70 ch -->
 {{ $metaTitle := "" }}
 {{ if .IsHome }}
-  {{ $metaTitle = (printf "%s : Dernières recommandations médicales au cabinet" $.Site.Title ) }}
+  {{ $metaTitle = (printf "Dernières recommandations médicales au cabinet | RecoMédicales" ) }}
 {{ else if .Params.TitleSeo }}
   {{ $metaTitle = ( printf "%s %s %s" "Recommandations" .Params.TitleSeo "2022 | RecoMédicales" ) }}
 {{ else if and (eq .Section "recommandations") (eq .Kind "page") }}

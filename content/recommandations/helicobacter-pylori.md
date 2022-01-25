@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = ""
 date = 2020-12-02T15:14:41+02:00
 publishdate = 2020-12-02
-lastmod = 2021-11-24
+lastmod = 2022-01-24
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["GEFH", "HAS", "SNFGE"]
@@ -38,8 +38,8 @@ Dysphagie, amaigrissement, anémie.
 {{%collapse "Aide au choix du traitement" "show" %}}
 <div class="card card-hover card-list-material my-4">
   <div class="card-body">
-    <h3 class="card-title mt-0">Aide au choix du traitement d'<em>Helicobacter pylori</em> 2021</h3>
-    <h4 class="card-subtitle">Dr JB Fron</h4>
+    <h3 class="card-title mt-0">Aide au choix du traitement d'<em>Helicobacter pylori</em> 2022</h3>
+    <h4 class="card-subtitle">Dr JB Fron d'après GEFH</h4>
     <p class="card-text">Le traitement devrait toujours être guidé (antibiogramme, PCR).</p>
     <input type="checkbox" id="btn-atbgramme" class="d-input-none" checked onclick="functionHp()">
     <label for="btn-atbgramme" class="chip chip-action chip-filter" data-toggle="collapse" data-target="#hp-1-reference">Antibiogramme</label>
@@ -68,7 +68,7 @@ Dysphagie, amaigrissement, anémie.
 2<sup>e</sup> ligne
 {.typography-overline .text-black-secondary .pt-2}
 
-  -Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours  
+  Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours  
   <span>Si non utilisée en première ligne (sinon voir 3<sup>e</sup> ligne)</span>
 
 3<sup>e</sup> ligne
@@ -91,8 +91,8 @@ EOGD souhaitable (sauf si Quinolone-S et non utilisées).
     <div class="collapse" id="hp-2">
       <ul>
         <li>Traitement au choix
-          <span>Amox 50 mg/kg/j (3-4 prises, max 6 g/j) + Clari 500 x 2/j + Métro 500 x 2/j + IPP x 2/j | 14 jours<br>
-          OU Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours</span>
+          <span>Amoxicilline 50 mg/kg/j (en 3-4 prises, max 6 g/j) + Clarithromycine 500 x 2/j + Métronidazole 500 x 2/j + ésoméprazole 40 mg x 2/j pendant 14 jours<br>
+          OU Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir pendant 10 jours</span>
         </li>
       </ul>
       <p class="typography-overline text-black-secondary pt-2">2<sup>e</sup> ligne</p>
@@ -117,7 +117,7 @@ EOGD souhaitable (sauf si Quinolone-S et non utilisées).
     </div>
     <div class="collapse" id="hp-allergie">
       <ul>
-        <li>Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours</li>
+        <li>Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir pendant 10 jours</li>
       </ul>
       <p class="typography-overline text-black-secondary pt-2">2<sup>e</sup> ligne</p>
       <p>Réaliser une EOGD.</p>

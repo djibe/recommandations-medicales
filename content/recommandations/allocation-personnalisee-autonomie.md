@@ -2,7 +2,7 @@
 title = "Allocation personnalisée d'autonomie"
 prefix = "l'"
 noindex = true
-shortname = "APA"
+titleSeo = "Allocation personnalisée d'autonomie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-25T11:57:30+01:00"

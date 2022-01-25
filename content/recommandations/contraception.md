@@ -22,7 +22,7 @@ todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult 
 
 {{%article-summary%}}
 
-- Contraception gratuite jusqu'à 25 ans
+- Contraception gratuite avant 25 ans (consultation, pilule/stérilet, coter GS Exo 3 depuis le [1/1/2022](https://www.service-public.fr/particuliers/actualites/A15158))
 - Seul le préservatif est efficace contre les [IST](/tags/ist/)
 - [QuestionSexualité_ - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)
 - Contraceptions très efficaces de 1<sup>re</sup> intention: COP, DIU, implant
@@ -196,13 +196,19 @@ Notamment [Ct]({{< relref "chlamydia-trachomatis.md" >}}) chez les 15-25 ans ou 
 {{% /collapse %}}
 {{%collapse "Cotation des actes" %}}
 
-*TODO: travail en cours*
+### Première consultation contraception
 
-- Première consultation contraception  
-CCP (46€, une seule fois) avec TP AMO.
-- Stérilet
-  - Pose: JKLD001 (38,40 €)
-  - Ablation non cotée sauf remplacement du stérilet: JKKD001 (38,40 €)
+CCP (46€, une seule fois) avec TP AMO jusqu'à 17 ans.
+
+### Consultation contraception avant 25 ans
+
+- La consultation: coter GS (25 €) avec Exo 3 (Soins particuliers exonérés, comme pour Covid)
+- Les actes (stérilet, implant): coter l'acte avec Exo 3
+
+### Stérilet
+
+- Pose: JKLD001 (38,40 €)
+- Ablation non cotée sauf remplacement du stérilet: JKKD001 (38,40 €)
 
 {{% /collapse %}}
 {{%collapse "Précisions sur les classes disponibles" %}}

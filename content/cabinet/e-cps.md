@@ -1,5 +1,6 @@
 +++
 title = "e-CPS et authentification mobile du médecin"
+titleSeo = "e-CPS et authentification"
 description = "La carte e-CPS"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2022-01-20T09:00:00+02:00

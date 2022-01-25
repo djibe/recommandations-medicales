@@ -102,7 +102,7 @@ Elle augmente avec l'âge et atteint 10-20% après 80 ans.
   - Infection, chirurgie
   - Hypokaliémie
 - Iatrogénie  
-Diurétiques, théophylline, salbutamol, anti-arythmique.
+Diurétiques, théophylline, salbutamol, anti-arythmique (voir *Clinique* > *Interrogatoire*).
 
 ### Complications
 
@@ -137,7 +137,8 @@ HTA, diabète, insuffisance cardiaque, coronaropathie, insuffisance rénale, ob�
 Chirurgie, infection.
 - Tabac, alcool
 - Activité physique
-- Traitements en cours et {{< modal-btn modal-observance >}}observance{{< /modal-btn >}}
+- Traitements en cours et {{< modal-btn modal-observance >}}observance{{< /modal-btn >}}  
+Pro-arythmiques: diurétiques, théophylline, salbutamol, triptan, AINS, bupropione, biphosphonate.
 - Fibrillation atriale
   - Ancienneté
   - Facteurs déclenchants
@@ -286,7 +287,7 @@ Non recommandés si FA permanente avec FC < 110/min OU troubles de conduction.
 
 Listés ici pour la surveillance des contre-indications.
 
-TODO: Table 20 et p. 57. Amiodarone, flécaïne, propafénone, dronedarone, sotalol.
+TODO: Table 20 et p. 57. Amiodarone, flécaïne, propafénone, dronedarone (Prescrire: à écarter), sotalol.
 
 {{% /collapse %}}
 {{%collapse "Suivi" %}}
@@ -331,6 +332,7 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{%sources%}}
 
 - [Hindricks G. et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Hear Jour. Vol 42. Issue 5. 1 Feb 2021. Pages 373–498.](https://doi.org/10.1093/eurheartj/ehaa612)
+- Prescrire Redaction. Fibrillation auriculaire. Premiers Choix Prescrire. Février 2021.
 - [HAS. Fibrillation auriculaire. Actes et prestations Affection de longue durée. Juillet 2015.](https://www.has-sante.fr/jcms/c_568395/fr/ald-n-5-fibrillation-auriculaire)
 - [HAS. Fibrillation atriale. Guide parcours de soins. Février 2014.](https://www.has-sante.fr/jcms/c_1741768/fr/guide-parcours-de-soins-fibrillation-atriale)
 - [Société Française de Gériatrie et Gérontologie et Société Française de Cardiologie. Prise en charge de la fibrillation atriale du sujet âgé. La Revue de Gériatrie. Tome 38. n°7. Septembre 2013. (PDF)](http://www.omedit-idf.fr/wp-content/uploads/2015/02/CV-antico-recoFASFGGSFC2013.pdf)

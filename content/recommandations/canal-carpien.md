@@ -1,7 +1,7 @@
 +++
 title = "Syndrome du canal carpien"
 prefix = "le "
-shortname = "Canal carpien"
+titleSeo = "Syndrome du canal carpien"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-14T18:30:29+02:00

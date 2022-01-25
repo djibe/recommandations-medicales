@@ -2,12 +2,12 @@
 title = "Alcool et consommation excessive d'alcool"
 noindex = true
 prefix = "l'"
-shortname = ""
+titleSeo = "Sevrage alcool"
 synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
 publishdate = "2022-01-11"
-lastmod = "2022-01-13"
+lastmod = "2022-01-25"
 specialites = ["addictologie"]
 annees = "2021"
 sources = ["HAS", "SFA"]
@@ -17,7 +17,7 @@ sctid = ""
 draft = false
 image = true
 imageSrc = "Les verres standards par Alcool-Info-Service"
-todo = "Dépistage hépatite C, retentissement somatique, indications hospit, https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa"
+todo = "retentissement somatique, indications hospit, https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa"
 +++
 
 {{%article-summary%}}
@@ -69,7 +69,9 @@ Alcoolisation fœtale est la 1<sup>re</sup> cause de handicap non génétique.
 - 75% ignorent les risques pendant la grossesse (*BVA 2015*)
 
 {{% /collapse %}}
-{{%collapse "Dépistage = consommation déclarée" %}}
+{{%collapse "Dépistage = consommation déclarée" "show" %}}
+
+Questions pour dépister une consommation à risque:
 
 {{< clinique/addiction-reperage >}}
 

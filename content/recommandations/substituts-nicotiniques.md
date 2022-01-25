@@ -2,7 +2,6 @@
 title = "Substituts nicotiniques remboursés"
 prefix = "les "
 titleSeo = "Substituts nicotiniques remboursés"
-shortname = "Subs. nicotiniques"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-17T14:11:29+02:00
@@ -14,7 +13,6 @@ sources = ["Ameli"]
 tags = ["asthme", "BPCO", "cancer", "tabac"]
 anglais = ["Product containing only nicotine"]
 sctid = "776904000"
-qualite = "bonne"
 draft = false
 image = true
 imageSrc = "Illustration de Freepik"

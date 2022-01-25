@@ -1,7 +1,7 @@
 +++
 title = "Hypertension artérielle de l'adulte"
 prefix = "l'"
-shortname = "Hypertension artérielle"
+titleSeo = "Hypertension artérielle"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"

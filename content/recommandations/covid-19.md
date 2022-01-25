@@ -2,7 +2,7 @@
 title = "Coronovirus Disease 2019"
 prefix = "la "
 noindex = true
-shortname = "CoViD-19"
+titleSeo = "CoViD-19"
 synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00

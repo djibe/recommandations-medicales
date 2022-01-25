@@ -2,7 +2,7 @@
 title = "Aides sociales pour se soigner"
 noindex = true
 prefix = "les "
-shortname = "Aides"
+titleSeo = "Aides sociales"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-26T13:38:41+02:00

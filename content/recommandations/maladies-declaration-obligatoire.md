@@ -2,7 +2,7 @@
 title = "Maladies à déclaration obligatoire"
 noindex = true
 prefix = "les "
-shortname = "MDO"
+titleSeo = "Maladies à déclaration obligatoire"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-27T17:24:00+02:00
