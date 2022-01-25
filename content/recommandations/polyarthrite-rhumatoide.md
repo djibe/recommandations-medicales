@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-23T22:24:41+02:00
 publishdate = 2020-10-23
-lastmod = 2021-10-11
+lastmod = 2022-01-25
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "EULAR", "ACR"]
@@ -17,7 +17,7 @@ image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "DAS28, flowchart, https://www.has-sante.fr/jcms/c_664454/fr/ald-n-22-polyarthrite-rhumatoide-evolutive-grave, https://www.sciencedirect.com/science/article/abs/pii/S1297319X21001925"
+todo = "critère diag score ?, DAS28, flowchart, https://www.has-sante.fr/jcms/c_664454/fr/ald-n-22-polyarthrite-rhumatoide-evolutive-grave, https://www.sciencedirect.com/science/article/abs/pii/S1297319X21001925"
 +++
 
 {{%article-summary%}}
@@ -31,18 +31,13 @@ todo = "DAS28, flowchart, https://www.has-sante.fr/jcms/c_664454/fr/ald-n-22-pol
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-Polyarthrite rhumatoïde
+Polyarthrite rhumatoïde (PR)
 : Maladie chronique évoluant par poussées inflammatoires de la membrane synoviale.  
 Premier rhumatisme inflammatoire de l’adulte (prévalence de 0,3 à 1%).  
 La destruction articulaire entraîne altération de la qualité de vie, handicap et réduction de l’espérance de vie (~10 ans)
 : Intérêt d'un diagnostic et d'un traitement précoce.
-: Complications possibles: déformations articulaires et handicap, douleurs et altération de la qualité de vie, augmentation du risque cardiovasculaire, insuffisance respiratoire restrictive, infections, lymphomes, fractures ostéoporotiques.
-: Rémission de la polyarthrite rhumatoïde: lorsque le score DAS28 est < 2,6.
-
-Scores d'activité de la polyarthrite rhumatoïde
-: {{%lang%}}DAS28 (Disease Activity Score 28){{%/lang%}}
-: {{%lang%}}SDAI (Simplified Disease Activity Index){{%/lang%}}
-: {{%lang%}}CDAI (Clinical Disease Activity Index){{%/lang%}}
+: **Complications** de la polyarthrite: déformations articulaires et handicap, douleurs et altération de la qualité de vie, augmentation du risque cardiovasculaire, insuffisance respiratoire restrictive, infections, lymphomes, fractures ostéoporotiques.
+: *Rémission* de la polyarthrite rhumatoïde: lorsque le score [DAS28](https://sfr.larhumatologie.fr/sites/sfr.larhumatologie.fr/files/medias/formations-ressources/boite_outils/das28.pdf) est < 2,6.
 
 Traitements conventionnels
 : Méthotrexate, léflunomide ou sulfasalazine.  
@@ -57,24 +52,20 @@ Ils sont appelés *csDMARDs* par l’EULAR ({{%lang%}}conventional synthetic Dis
 
 ### Abréviations
 
-**csDMARDs**: {{%lang%}}conventional synthetic Disease Modifying AntiRheumatic Drugs{{%/lang%}}  
-**dTP:** vaccin diphtérie (anatoxine diphtérique)-tétanos-poliomyélite  
+**dTP:** vaccin diphtérie-tétanos-poliomyélite  
 **PR:** polyarthrite rhumatoïde  
 **MCP:** articulation métacarpophalangienne  
 **MTP:** articulation métatarsophalangienne  
 **TSA:** troncs supra-aortiques
 
 {{% /collapse %}}
-{{%collapse "Critères diagnostiques ACR/EULAR" %}}
-
-{{%info%}}Diagnostic retenu si ≥ 1 synovite clinique ET pas d’autre diagnostic ET score ≥ 6/10.{{%/info%}}
-
-{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%warning%}}Un patient avec arthrite atteignant plus d’une articulation devrait rencontrer le rhumatologue dans les 6 semaines suivant l’apparition des symptômes.{{%/warning%}}
+{{%warning%}}Arthrite atteignant > 1 articulation: avis rhumatologique sous 6 semaines (à compter de l’apparition des symptômes){{%/warning%}}
 
+{{%info%}}
 Évoquer une polyarthrite rhumatoïde devant toute arthrite clinique, raideur matinale > 30 minutes, douleurs à la pression transverse des mains (MCP) ou avant-pieds (MTP), évolution > 1 an, antécédent de PR chez un parent au 1<sup>er</sup> degré, difficultés à fermer le poing.
+{{%/info%}}
 
 L’examen clinique a une place primordiale dans la détection et le traitement de l’arthrite.
 
@@ -111,14 +102,14 @@ L’examen clinique a une place primordiale dans la détection et le traitement 
 [Goutte]({{< relref "goutte.md" >}}), chondrocalcinose articulaire
 - [Spondylarthrite]({{< relref "spondylarthrite-ankylosante.md" >}})
 - Connectivite (Lupus, Gougerot-Sjögren, sarcoïdose)
-- Tuberculose
+- [Tuberculose]({{< relref "tuberculose.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Biologie
+{{%info%}}
 
-{{%info%}}Bilan de 1<sup>re</sup> intention
+### Bilan de 1<sup>re</sup> intention
 
 - NFS, VS, CRP
 - ASAT, ALAT
@@ -127,8 +118,12 @@ L’examen clinique a une place primordiale dans la détection et le traitement 
 - Facteur rhumatoïde (FR)
 - Anticorps anti-peptide citrulliné (ACPA)
 - Anticorps antinucléaires (AAN)
-- Sérologie hépatites B et [C]({{< relref "hepatite-c.md">}})
-
+- Sérologie [hépatites B]({{< relref "hepatite-c.md" >}} ) et [C]({{< relref "hepatite-c.md">}})
+- Radiographies
+  - Mains et poignets de face
+  - Avants-pieds face et 3/4 en grandeur normale
+  - Thorax face
+  - Toute articulation symptomatique
 {{%/info%}}
 
 Selon le contexte:
@@ -137,13 +132,6 @@ Selon le contexte:
 - Uricémie
 - Ponction et culture de liquide synovial
 
-### Radiographies
-
-- Mains et poignets de face
-- Avants-pieds face et 3/4 en grandeur normale
-- Thorax face
-- Toute articulation symptomatique
-
 ### Échographie
 
 Confirme la synovite dans certains cas. Peut être complétée par l'IRM.
@@ -151,7 +139,7 @@ Confirme la synovite dans certains cas. Peut être complétée par l'IRM.
 {{% /collapse %}}
 {{%collapse "Traitement de la PR" %}}
 
-**La décision du traitement dépend du rhumatologue, partagée avec le patient.**
+{{%info%}}La décision du traitement dépend du rhumatologue, partagée avec le patient{{%/info%}}
 
 - ALD 22: Polyarthrite évolutive
 - AINS  
@@ -178,12 +166,15 @@ Gérer la douleur, handicap, observance, maintien de l’activité professionnel
 - Ergothérapie, balnéothérapie
 - Pédicurie-podologie
 - Diététique
-- Chirurgie
+- Voire chirurgie
 
 {{% /collapse %}}
 {{%collapse "Traitements spécifiques de la polyarthrite rhumatoïde" %}}
 
-{{%info%}}Chapitre pour en savoir plus sur les traitements de fond de la PR. Ceux-ci relèvent exclusivement du rhumatologue.{{%/info%}}
+{{%info%}}
+Chapitre pour en savoir plus sur les traitements de fond de la PR.  
+Ceux-ci relèvent exclusivement du rhumatologue.
+{{%/info%}}
 
 **Objectif:** rémission clinique (absence de signes ou symptômes inflammatoires significatifs) ou plus faible activité possible.  
 **Rémission:** absence de signes et symptômes d'activité inflammatoire significative.
@@ -199,17 +190,18 @@ Modifié en cas d'inefficacité à 3 mois (ou objectif thérapeutique non attein
 {{%info%}}
 **Méthotrexate (MTX)** en 1<sup>re</sup> intention, dose optimale (25 mg/semaine) à atteindre en 4-8 semaines.  
 Débuter à 10-15 mg/mg en prise unique par semaine per os (Novatrex®, Imeth®, génériques).  
-Augmentation de 5 mg/1 à 4 semaines selon efficacité-tolérance.
+Augmentation de 5 mg/1-4 semaines selon efficacité-tolérance.
+
+---
+
+10 mg/semaine d’acide folique systématique
 {{%/info%}}
 
 Voie sous-cutanée si efficacité insuffisante (Imeth injectable®, Metoject®, Nordimet®, génériques).
 
-{{%info%}}Prise de 10 mg/semaine d’acide folique systématique.{{%/info%}}
-
 Décroissance de dose seulement après rémission persistante et prolongée.
 
-Si traitement inaugural ou contre-indication au méthotrexate: **léflunomide** (Arava®, générique) 3 g/j ou **sulfasalazine** (Salazopyrine®) 20 mg/j.  
-Ces traitements conventionnels sont appelés **csDMARDs** par l’EULAR.
+Si traitement inaugural ou contre-indication au méthotrexate: **léflunomide** (Arava®, générique) 3 g/j ou **sulfasalazine** (Salazopyrine®) 20 mg/j.
 
 ### Traitement de fond par biothérapie
 
@@ -231,8 +223,7 @@ Rituximab (pour cas spécifiques: Mabthera®, Truxima®).
 Abatacept (Orencia®).
 
 Relayer par un autre en cas d'inefficacité.  
-Décroissance quand rémission persistante ≥ 6 mois et arrêt des corticoïdes (ou dose quotidienne ≤ 5 mg/j).  
-Ces traitements biologiques sont appelés bDMARDs par l’EULAR.
+Décroissance quand rémission persistante ≥ 6 mois et arrêt des corticoïdes (ou dose quotidienne ≤ 5 mg/j).
 
 #### En l'absence de facteurs de mauvais pronostic
 
@@ -267,14 +258,13 @@ Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
 
 - Par le rhumatologue tous les 1 à 3 mois tant que la maladie est active
 - Nombre d’articulations douloureuses et gonflées
-- Indice articulaire DAS28
-- Évaluation annuelle du retentissement  
-Échelle HAQ.
+- Indice articulaire [DAS28](https://sfr.larhumatologie.fr/sites/sfr.larhumatologie.fr/files/medias/formations-ressources/boite_outils/das28.pdf)
+- Évaluation annuelle du retentissement: échelle HAQ
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une suspicion de polyarthrite" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le diagnostic de la polyarthrite rhumatoïde. Dr JB FRON d'après SFRhumato 2018" >}}
+{{< mermaid title="Conduite à tenir pour le diagnostic de la polyarthrite rhumatoïde. Dr JB Fron d'après SFRhumato 2018" >}}
 graph TB
   suspicion["<b>Suspicion de PR</b><hr>- Arthrite<br>- Dérouillage matinal<br>- Douleur en pression MCP/MTP"]
   style suspicion stroke:#4150f5, stroke-width:1px

@@ -394,7 +394,7 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Hôpital Necker. Facteurs susceptibles d’induire la dégranulation mastocytaire.](http://www.maladiesrares-necker.aphp.fr/facteurs-susceptibles-dinduire-la-degranulation-mastocytaire/)
 - [Collège des Enseignants d'Immunologie de Langue Française. Item 114 : Urticaire et œdème de Quincke : diagnostic, étiologie, traitement. 2011. (PDF)](http://campus.cerimes.fr/immunologie/enseignement/immuno_114a/site/html/cours.pdf)
@@ -403,7 +403,8 @@ graph TB
 
 ### À lire
 
-- [SFD. Recommandations urticaire chronique spontanée. Décembre 2019.](https://reco.sfdermato.org/fr/recommandations-urticaire-chronique-spontan%C3%A9e)
-- [CEDEF. Dermatite atopique. Item 163 - UE 7. 2017.](https://undf.cedef.org/fr/document/Hypersensibilit%C3%A9s-et-allergies-cutan%C3%A9o-muqueuses-chez-l%E2%80%99enfant-et-l%E2%80%99adulte)
+- [SFD. Recommandations urticaire chronique spontanée. Arbre décisionnel. Décembre 2019.](https://reco.sfdermato.org/fr/recommandations-urticaire-chronique-spontan%C3%A9e)
+- [SFD. Traitement de l'urticaire chronique spontanée. 2019.](https://document.sfdermato.org/reco/urticaire-chronique-spontan%C3%A9e/SFD_urticaire-chronique-spontan%C3%A9e_synth%C3%A8se_2019-11.pdf)
+- [CEDEF. Dermatite atopique. UE7 Item 163. 2017.](https://undf.cedef.org/fr/document/Hypersensibilit%C3%A9s-et-allergies-cutan%C3%A9o-muqueuses-chez-l%E2%80%99enfant-et-l%E2%80%99adulte)
 
-{{% /collapse %}}
+{{%/sources%}}

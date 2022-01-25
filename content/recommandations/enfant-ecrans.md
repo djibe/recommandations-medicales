@@ -51,11 +51,14 @@ Insistons à ce propos sur la fausse bonne idée d'une récupération du sommeil
 {{% /collapse %}}
 {{%collapse "Corps enseignant et pouvoirs publics" %}}
 
-<< La société et les pouvoirs publics doivent demeurer attentifs aux problèmes posés par l'évolution vers un « 100 % numérique » et en mesurer les conséquences auprès des plus vulnérables.  
+<< La société et les pouvoirs publics doivent demeurer attentifs aux problèmes posés par l'évolution vers un « 100 % numérique » et en mesurer les conséquences auprès des plus vulnérables.
+
 Dès l'enfant scolarisé (à trois ans désormais pour tous) et jusqu'à la fin du collège, la place des écrans doit faire l'objet d'une réflexion collective au sein de l'établissement scolaire, en y associant les parents, tout particulièrement dans des contextes de grande vulnérabilité sociale. Les usages souhaitables à des fins pédagogiques doivent être explicités, tant en classe qu'à la maison.  
-Nous appelons les pouvoirs publics, responsables de l'éducation et de la santé, à mettre en place des formations, permanente et continue, pour tous les intervenants auprès de la jeunesse, afin de contribuer à réduire les conséquences des disparités sociales, notamment dans l'utilisation des réseaux sociaux.  
+Nous appelons les pouvoirs publics, responsables de l'éducation et de la santé, à mettre en place des formations, permanente et continue, pour tous les intervenants auprès de la jeunesse, afin de contribuer à réduire les conséquences des disparités sociales, notamment dans l'utilisation des réseaux sociaux.
+
 La vigilance de tous (familles, professeurs, éducateurs et pouvoirs publics), est nécessaire en ce qui concerne la violence, la désinformation, le harcèlement et le prosélytisme sur les réseaux sociaux.  
-Nous appelons également à la plus grande vigilance sur les compétitions de « e-sport », qui devraient être interdites aux enfants dont l'âge est inférieur à l'âge préconisé pour les jeux utilisés dans les compétitions. Des dispositifs contraignants devraient être mis en place en ce sens.  
+Nous appelons également à la plus grande vigilance sur les compétitions de « e-sport », qui devraient être interdites aux enfants dont l'âge est inférieur à l'âge préconisé pour les jeux utilisés dans les compétitions. Des dispositifs contraignants devraient être mis en place en ce sens.
+
 Les normes de sécurité oculaire devraient prendre en compte la photosensibilité de certains yeux « fragiles » (par exemple albinos mais aussi les yeux atteints de maladies rétiniennes dégénératives et les sujets très jeunes à cristallin très clair), sur lesquels on dispose de très peu de données. >>
 
 {{% /collapse %}}

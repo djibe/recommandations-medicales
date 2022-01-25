@@ -267,7 +267,7 @@ Recommandations *ESC 2019 diabetes* sauf mention contraire.
 
 ### Rénal
 
-- Créatininémie, microalbuminurie sur échantillon annuels
+- Créatininémie, albuminurie sur échantillon annuels
 
 ### AOMI
 

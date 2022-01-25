@@ -24,7 +24,7 @@ todo = "ESC 2020: Table 4 | chap 11.5 saignement, Prescrire, Collège, Source 20
 - Dépister: ≥ 65 ans, diabète, HTA
 - Le diagnostic est ECG
 - {{< modal-btn modal-chads >}}Anticoagulation{{< /modal-btn >}}, risque hémorragique HAS-BLED (voir *Risque embolique*), symptômes, facteurs favorisants
-- Suivi cardiologique, ralentir < 110/min (BB en 1<sup>re</sup> intention), Holter-ECG
+- Suivi cardiologique, ralentir < 110/min, Holter-ECG
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

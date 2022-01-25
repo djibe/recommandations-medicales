@@ -326,7 +326,6 @@ Avis rhumatologique si T-score > -2 et < -1.
 - Ménopause avec T-score ≤ -3 (DMO rachis ou fémur)
   - Avis rhumatologique si T-score entre -2 et -3
   - Utiliser les traitements indiqués pour les fractures non sévères
-- Maladie cœliaque sur avis rhumatologique (zolédronate IV, *ESsCD 2019*)
 {{%/info%}}
 
 Critères de choix du traitement: espérance de vie suffisante, antécédent de fracture, son type, son ancienneté, l'âge, les autres antécédents, le {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} et la DMO. Avis rhumatologique si besoin.
