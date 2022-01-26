@@ -62,7 +62,7 @@ Vascularites
 - 14% plus de SARM
 - 30% plus d'entérocoque résistant à la vancomycine
 
-> Macy, Eric, and Richard Contreras. “Health Care Use and Serious Infection Prevalence Associated with Penicillin ‘allergy’ in Hospitalized PaNents: A Cohort Study.” Journal of Allergy and Clinical Immunology 133, no. 3 (2014): 790–96.
+> Macy, Eric, and Richard Contreras. “Health Care Use and Serious Infection Prevalence Associated with Penicillin ‘allergy’ in Hospitalized Patients: A Cohort Study.” Journal of Allergy and Clinical Immunology 133, no. 3 (2014): 790–96.
 
 ### Décès par anaphylaxie d'origine médicamenteuse
 
@@ -74,7 +74,7 @@ Vascularites
 - Produits anesthésiques 3%
 - Opiacés 3%
 
-> Jerschow E et coll. JACI 2014 (USA 1999-2010)  
+> *Jerschow et all. JACI 2014*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

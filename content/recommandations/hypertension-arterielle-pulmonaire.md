@@ -25,6 +25,7 @@ todo = "surveillance (aggrav signes + IRC), psycho, social, fam"
 - Adresser au cardiologue avec biologie + RxT
 - Suivi annuel en centre de référence
 - Dépistage systématique en pathologie à haut risque d'HTAP
+- [Liste des centres de référence de l'HTAP](https://respifil.fr/ou-consulter/)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -91,7 +92,6 @@ Les signes cliniques de l'hypertension artérielle pulmonaire sont peu spécifiq
 - Signes d'HTP  
 Insuffisance tricuspide ou pulmonaire.
 - Signes d'insuffisance cardiaque droite
-
 {{%/info%}}
 
 ### Interrogatoire
@@ -143,11 +143,6 @@ C'est le **cathétérisme cardiaque** droit qui affirme le diagnostic. Il est r�
 {{%class%}}PAPm ≥ 25 mmHg et PCP ≤ 15 mmHg.{{%/class%}}
 
 {{% /collapse %}}
-{{%collapse "Centres de référence de l'HTAP" %}}
-
-{{< iframe url="https://respifil.fr/ou-consulter/" title="Liste des centres de référence de l'HTAP">}}
-
-{{% /collapse %}}
 {{%collapse "Traitement et surveillance" %}}
 
 Le traitement relève uniquement du centre de référence. Le suivi est au moins annuel.
@@ -165,14 +160,14 @@ Le traitement relève uniquement du centre de référence. Le suivi est au moins
 [RespiFil - Le site de référence](https://respifil.fr/maladies/hypertension-pulmonaire/)
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [HAS. Hypertension artérielle pulmonaire. PNDS. 2020.](https://www.has-sante.fr/jcms/p_3167172/fr/hypertension-arterielle-pulmonaire)
 - [Collège National des Enseignants de Cardiologie. Hypertension artérielle pulmonaire de l’enfant et de l’adulte. Item 222. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch19_hypertension_pulmonaire.pdf)
 - [Collège des enseignants de pneumologie. Hypertension artérielle pulmonaire. Item 222. 2017. (PDF)](http://cep.splf.fr/wp-content/uploads/2018/09/item_222_HTP_2017-cor2018.pdf)
 - [Orphanet. Hypertension artérielle pulmonaire idiopathique/familiale.](https://www.orpha.net/consor/www/cgi-bin/OC_Exp.php?lng=FR&Expert=422)
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}
 
 {{< scores/nyha >}}

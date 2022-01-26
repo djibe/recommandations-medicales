@@ -64,8 +64,8 @@ En cas de doute diagnostique.
 La chirurgie est réservée aux échecs du traitement médical.
 
 {{%/collapse%}}
-{{%collapse "Source" %}}
+{{%sources%}}
 
 [Ray A. Métatarsalgies : diagnostic et prise en charge. Rev Med Suisse 2013; volume 9. 2366-2370.](https://www.revmed.ch/RMS/2013/RMS-N-411/Metatarsalgies-diagnostic-et-prise-en-charge)
 
-{{% /collapse %}}
+{{%/sources%}}

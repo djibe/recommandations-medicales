@@ -211,7 +211,7 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. 2020.](https://goldcopd.org/2021-gold-reports/)
 - [Omedit Centre Val de Loire. Protocole de supplémentation en vitamine D en EHPAD. Décembre 2020. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/10827.pdf)
@@ -225,7 +225,7 @@ graph TB
 - [Société Française de Pédiatrie. La Vitamine D : une vitamine toujours d’actualité chez l’enfant et l’adolescent. Mise au point par le Comité de nutrition de la Société française de pédiatrie. 2012. (PDF)](https://afpa.org/content/uploads/2017/07/Reco_VIT_D_VersionFR_VF.pdf)
 - [HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}
 
 {{< clinique/facteur-risque-chute >}}

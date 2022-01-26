@@ -234,14 +234,14 @@ L'évolution fluctue. 4 personnes sur 10 guérissent spontanément après plusie
 - Ne jamais utiliser de corticoïdes en crème.
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Hampton P. et al. British Association of Dermatologists guidelines for the management of people with rosacea 2021. Br J Dermatol](https://doi.org/10.1111/BJD.20485)
 - [CEDEF. Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
 - [T. Jansen. Formes cliniques et classification de la rosacée. Annales de Dermatologie et de Vénéréologie. Volume 138, Supplement 2, 2011.](https://doi.org/10.1016/S0151-9638(11)70079-5)
 - [Collège National des Enseignants de Dermatologie. Dermatoses faciales : Rosacée. Item 232. 2011. (PDF)](http://campus.cerimes.fr/dermatologie/enseignement/dermato_34/site/html/cours.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Phototypes selon Fitzpatrick" id="modal-fitzpatrick" size="lg"%}}
 
 {{< clinique/phototype-fitzpatrick >}}

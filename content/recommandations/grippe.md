@@ -133,10 +133,10 @@ Chez l'adulte sain, réduit de 29% (65% chez +60 ans) le nombre de cas de syndro
 Chez le sujet vivant en établissement, la vaccination réduit la survenue de pathologie respiratoire (56%), pneumonie (53%), hospitalisation (50%), décès (68%).
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [HAS. Vaccination antigrippale : la stratégie de la prochaine campagne annuelle réaffirmée dans le contexte de l’épidémie de COVID-19. 02/06/2020.](https://www.has-sante.fr/jcms/p_3187536/fr/vaccination-antigrippale-la-strategie-de-la-prochaine-campagne-annuelle-reaffirmee-dans-le-contexte-de-l-epidemie-de-covid-19)
 - [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe ! 13/05/2020.](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
 - {{< references/calendrier-vaccinal >}}
 
-{{% /collapse %}}
+{{%/sources%}}

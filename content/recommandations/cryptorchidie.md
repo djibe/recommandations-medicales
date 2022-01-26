@@ -36,8 +36,7 @@ Elle est différente de l'*ectopie testiculaire* où le testicule n'est pas sur 
 
 Fréquemment oscillant ou << testicule ascenseur >>, migrant entre la bourse et la région inguinale.
 
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
 2-4% des nouveaux-nés, 1% des garçons à 1 an, 20 à 30% des prématurés.  
 Atteinte bilatérale dans 20% des cas.

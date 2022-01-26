@@ -22,7 +22,7 @@ todo = "soins oculaires"
 
 {{%article-summary%}}
 
-- Ces recommandations concernent l'adulte
+- *Ces recommandations concernent l'adulte*
 - Diagnostic d'élimination d'une PFP
 - Interrogatoire et examen clinique majeurs
 - Bilan systématique: NFS, glycémie, sérologie Lyme et VIH, audiométrie, IRM avec injection, ENMG si grave

@@ -43,11 +43,8 @@ Gastrite aiguë
 
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [SNFGE. Gastrite.](https://www.snfge.org/content/gastrite)
 
-{{% /collapse %}}
-
-
-≥±
+{{%/sources%}}

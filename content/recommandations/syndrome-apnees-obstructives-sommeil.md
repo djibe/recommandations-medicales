@@ -88,6 +88,13 @@ Hypersomnie
 - Tabagisme
 - Congestion nasale ou rhinite chronique
 
+### Comorbidités des apnées du sommeil
+
+- 20% ont une *[BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})* associée
+- Association forte au [diabète de type 2]({{< relref "diabete-type-2.md">}})  
+15-30% des SAOS ont un DT2, 40-70% des DT2 ont un SAOS.
+- 60% des [insuffisants cardiaques]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ont une forme d’apnées du sommeil
+
 ### Abréviations en médecine du sommeil
 
 **AASM:** {{%lang%}}American Academy of Sleep Medicine{{%/lang%}}  
@@ -103,8 +110,7 @@ Hypersomnie
 **TRS:**  troubles respiratoires du sommeil  
 **VEMS:** volume expiratoire maximal pendant la 1<sup>re</sup> seconde
 
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
 Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 
@@ -115,13 +121,6 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 - 82% des hommes et 92% des femmes ne sont pas diagnostiqués
 - 60% des SAOS modérés à sévères sont attribuables au surpoids
 - De 18 à 53% des diabétiques ont un SAOS modéré à sévère
-
-### Comorbidités des apnées du sommeil
-
-- 20% ont une *[BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})* associée
-- Association forte au [diabète de type 2]({{< relref "diabete-type-2.md">}})  
-15-30% des SAOS ont un DT2, 40-70% des DT2 ont un SAOS.
-- 60% des [insuffisants cardiaques]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ont une forme d’apnées du sommeil
 
 {{% /collapse %}}
 {{%collapse "Dépister les apnées du sommeil" %}}

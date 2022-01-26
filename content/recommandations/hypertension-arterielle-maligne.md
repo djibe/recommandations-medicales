@@ -121,10 +121,10 @@ Tumeurs
 {{< youtube id="EFpLquawfqg" title="Reconnaître et traiter les urgences hypertensives hors AVC (Dr Aurélien Lorthioir)" >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Williams B. et al; ESC Scientific Document Group. 2018 ESC/ESH Guidelines for the management of arterial hypertension: The Task Force for the management of arterial hypertension of the European Society of Cardiology (ESC) and the European Society of Hypertension (ESH). European Heart Journal, Volume 39, Issue 33, 01 September 2018, Pages 3021–3104.](https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Arterial-Hypertension-Management-of)
 - JNC7, Hypertension 2003;42:1206
 - [AFSSAPS. Poussées hypertensives de l'adulte. Recommandations. 2002. (PDF)](https://urgences-serveur.fr/IMG/pdf/hta_-_afssps2002.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}

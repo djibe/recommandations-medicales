@@ -25,10 +25,11 @@ todo = "TODO: summary"
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-- Asymétrie crânienne par appui prolongé, décrite souvent comme un parallélogramme
-- La **plagiocéphalie positionnelle** (PP) est de type postérieure non synostotique (absence de synostoses des sutures). On parle de **déformations crâniennes positionnelles** (DCP).
-- N’entraîne pas de retard neuro-développemental
-- Sa prévalence est élevée, 16% à 6 semaines, 20% à 4 mois. La majorité est résorbée à 2 ans.
+Plagiocéphalie
+: Asymétrie crânienne par appui prolongé, décrite souvent comme un parallélogramme.
+: La **plagiocéphalie positionnelle** (PP) est de type postérieure non synostotique (absence de synostose des sutures). On parle de **déformations crâniennes positionnelles** (DCP).
+: Elle n'entraîne pas de retard neuro-développemental
+: Prévalence élevée: 16% à 6 semaines, 20% à 4 mois. La majorité est résorbée à 2 ans.
 
 ### Facteurs de risque de plagiocéphalie
 
@@ -61,16 +62,16 @@ Examiner le sommet de la tête, vue du dessus et regarder la position des oreill
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-**Aucun.**
+**Aucun**.
 
 Radiographies du crâne uniquement en suspicion de craniosynostose ou d’aggravation à un âge où les DCP devraient s’atténuer.
 
 {{% /collapse %}}
-{{%collapse "Prévention de la plagiocéphalie" %}}
+{{%collapse "Prévention" %}}
 
-- Alterner tous les jours la position dans le lit en inversant sa position tête – pieds
+- Alterner tous les jours la position dans le lit en inversant sa position tête - pieds
 - Coucher bébé sur le dos dans une position contraire à sa préférence
-- Augmenter le temps d’éveil passé en décubitus ventral. Au moins 10 à 15 minutes au moins 3 fois par jour.
+- Augmenter le temps d'éveil passé en décubitus ventral. Au moins 10 à 15 minutes au moins 3 fois par jour.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la plagiocéphalie" %}}
@@ -95,9 +96,9 @@ Sur avis spécialisé, port 23 h/jour
 En cas de craniosynostose confirmée.
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [HAS/CNP. Prévention des déformations crâniennes positionnelles et mort inattendue du nourrisson. Février 2020.](https://www.has-sante.fr/jcms/p_3151574/fr/prevention-des-deformations-craniennes-positionnelles-dcp-et-mort-inattendue-du-nourrisson)
 - [Société Canadienne de Pédiatrie. La plagiocéphalie positionnelle. Octobre 2011.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3202395/)
 
-{{% /collapse %}}
+{{%/sources%}}

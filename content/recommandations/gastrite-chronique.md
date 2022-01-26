@@ -37,8 +37,8 @@ todo = ""
 
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 
 
-{{% /collapse %}}
+{{%/sources%}}

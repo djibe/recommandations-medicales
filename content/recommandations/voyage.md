@@ -132,9 +132,9 @@ Numéro vert: 0800 130 000
 > [Haut Conseil de la Santé Publique. Recommandations sanitaires 2021 pour les voyageurs. 01/06/2021.](https://www.santepubliquefrance.fr/determinants-de-sante/voyage/documents/magazines-revues/bulletin-epidemiologique-hebdomadaire-1er-juin-2021-n-hors-serie-recommandations-sanitaires-pour-les-voyageurs-2021-a-l-attention-des-professio)
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - Sites mentionnés au sein du chapitre concerné
 - [Haut Conseil de la Santé Publique. Recommandations sanitaires 2020 pour les voyageurs. 19/05/2020.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=829)
 
-{{% /collapse %}}
+{{%/sources%}}

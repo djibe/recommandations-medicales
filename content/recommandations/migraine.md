@@ -170,10 +170,10 @@ Molécules d’efficacité démontrée:
 Aucune molécule n’a démontré de supériorité.
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 
 
-{{% /collapse %}}
+{{%/sources%}}
 
 ≤≥±®œŒÈ³ÂSpO<sub>2</sub>

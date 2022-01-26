@@ -39,7 +39,6 @@ Examens médicaux de la naissance à 16 ans, réalisés en **tiers payant total 
 - Les tarifs ci-dessous concernent la Métropole
 
 {{< table title="Examens de suivi du nourrisson remboursés à 100%" >}}
-
 | N°    | Âge           | Cotation MG |
 |------:|:-------------:|:-----------:|
 | 1     | **Dans les 8 premiers jours** | COE (46€) |

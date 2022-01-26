@@ -272,7 +272,7 @@ Aborder les violences, évaluer, le certificat médical, le signalement, ITT, ou
 - Contacts utiles, chat anonyme, accompagnement par un professionnel de l'aide aux victimes.
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Guiguet-Auclair C et al. Validation de la version française d’un outil de dépistage des violences conjugales faites aux femmes, le WAST (Woman Abuse Screening Tool). Bull Epidémiol Hebd. 2021;(2):32-40.](http://beh.santepubliquefrance.fr/beh/2021/2/2021_2_2.html)
 - [HAS. Repérage des femmes victimes de violences au sein du couple Comment agir. Juin 2019 MAJ Décembre 2020. (PDF)](https://webzine.has-sante.fr/upload/docs/application/pdf/2019-09/fs_femmes_violence_agir_092019.pdf)
@@ -284,4 +284,4 @@ Aborder les violences, évaluer, le certificat médical, le signalement, ITT, ou
 - http://beh.santepubliquefrance.fr/beh/2021/2/2021_2_2.html
 - https://www.has-sante.fr/upload/docs/application/pdf/2019-09/170919_reperage_des_femmes_victimes_de_violences_au_sein_du_couple_argumentaire.pdf
 
-{{% /collapse %}}
+{{%/sources%}}

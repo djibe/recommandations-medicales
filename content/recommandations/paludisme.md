@@ -30,13 +30,12 @@ todo = "ttt ambulatoire accès palustre, piqures, Pilly 2020, http://medecinetro
 - Voyage tropical: protection contre les moustiques et chimioprophylaxie.
 
 {{%/article-summary%}}
-
 {{%collapse "Épidémiologie" %}}
 
-- 4000 cas/an (importés)  
+- Incidence: 4000 cas/an (importés)  
 95% contractés en Afrique subsaharienne  
 90% par *P. falciparum*
-- 10 à 20 morts/an
+- Décès: 10 à 20/an
 
 L'Afrique subsaharienne comptabilise 90% des cas mondiaux.
 

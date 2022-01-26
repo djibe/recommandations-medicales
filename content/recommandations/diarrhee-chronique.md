@@ -22,16 +22,16 @@ todo = "SeHCAT, FODMAPs"
 {{%article-summary%}}
 
 - Ramollissement des selles fréquentes (> 3/j) et prolongées (> 1 mois)
-- Signes d'alarme: âge ≥ 50 ans, AEG, rectorragie/méléna, modification récente et inexpliquée du transit
+- Signes d'alarme: ≥ 50 ans, AEG, rectorragie/méléna ou modification récente et inexpliquée du transit
 - Bilan de 1<sup>re</sup> intention (voir *Examens complémentaires*)
-- Avis spécialisé: signes d'alerte, altération de la qualité de vie
+- Avis spécialisé: signes d'alarme, altération de la qualité de vie
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Diarrhée chronique
 : Altération permanente du transit intestinal avec des selles selon les [types 5 à 7 de Bristol](https://fr.wikipedia.org/wiki/%C3%89chelle_de_Bristol) pendant **plus de 4 semaines** (*BSG 2021*).  
-Selon l'OMS: émission de plus de 3 selles par jour de molles à liquides.
+Selon l'*OMS*: émission de plus de 3 selles par jour de molles à liquides.
 : En faveur de cause organique: diarrhée < 3 mois, nocturne ou circadienne et amaigrissement.
 
 ### Abréviations
@@ -97,13 +97,7 @@ Antibiotique, AINS, magnésium, IEC, olmésartan, metformine-iDPP4, lansoprazole
 
 ### Rare
 
-- Autres atteintes du grêle (Whipple...)
-- Hypoparathyroïdie
-- Insuffisance surrénale
-- Tumeur endocrine (VIPome...)
-- Neuropathie autonome
-- Diarrhée factice
-- Diarrhée de Brainerd
+Autres atteintes du grêle (Whipple...), hypoparathyroïdie, insuffisance surrénale, tumeur endocrine (VIPome...), neuropathie autonome, diarrhée factice, diarrhée de Brainerd.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

@@ -102,11 +102,11 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse "Source" %}}
+{{%sources%}}
 
 [Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires (2019).](https://doi.org/10.1016/j.rmr.2019.01.003)
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Score hémorragique de RIETE" id="modal-score-riete" size="lg"%}}
 
 {{< scores/riete >}}

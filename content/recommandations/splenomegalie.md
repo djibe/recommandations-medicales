@@ -20,7 +20,7 @@ todo = "TODO: more sources and publish, source on flowchart"
 
 {{%article-summary%}}
 
-À compléter...
+TODO:
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -131,8 +131,8 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Pr Pris J. Médecine Toulouse. Orientation diagnostique devant une splénomégalie. (PDF)](http://www.medecine.ups-tlse.fr/dcem3/module14/332%20Orientation%20diagnostique%20devant%20une%20splenomegalie.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}

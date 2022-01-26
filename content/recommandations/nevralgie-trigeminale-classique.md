@@ -30,7 +30,7 @@ todo = "durée avant envisager décroissance, attente A. Donnet"
 - Carbamazépine ou oxcarbazépine
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Névralgie trigéminale classique (NTC)
 : Anciennement **névralgie du trijumeau**.  

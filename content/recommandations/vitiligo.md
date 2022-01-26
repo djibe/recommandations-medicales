@@ -21,7 +21,7 @@ draft = true
 - Le diagnostic est clinique à la lampe de Wood
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Vitiligo
 : Dermatose chronique bénigne auto-immune à l'origine d'une dépigmentation cutanée progressive par destruction des mélanocytes sans facteur prédictif évolutif. Il débute le plus souvent à l'âge adulte avec une atteinte préférentielle du visage et des extrémités (mains et pieds).  
@@ -92,9 +92,9 @@ Récidives++
 - Phénomène de Koebner
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Inserm. Vitiligo.](https://www.inserm.fr/information-en-sante/dossiers-information/vitiligo)
 - [Cochrane. Traitements du vitiligo. 07/12/2011.](https://www.cochrane.org/fr/CD003263/SKIN_traitements-du-vitiligo-maladie-entrainant-une-perte-de-la-couleur-de-la-peau-en-plaques)
 
-{{% /collapse %}}
+{{%/sources%}}

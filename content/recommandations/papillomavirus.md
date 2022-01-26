@@ -129,7 +129,7 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 )
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. Décembre 2020.](https://www.e-cancer.fr/Professionnels-de-sante/Facteurs-de-risque-et-de-protection/Agents-infectieux/Prevenir-les-cancers-lies-aux-HPV)
 - {{< references/calendrier-vaccinal >}}
@@ -137,4 +137,4 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 )
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}

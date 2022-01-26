@@ -55,7 +55,7 @@ Ils associent:
 ### À lire
 
 - [Bertolotti A. et al. Guidelines for the management of hidradenitis suppurativa: recommendations supported by the Centre of Evidence of the French Society of Dermatology. Br J Dermatol, 184: 963-965. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/bjd.19710)
-- [SFD. recommandations Hidradénite suppurée Arbre décisionnel. Août 2019.](https://reco.sfdermato.org/fr/recommandations-hidrad%C3%A9nite-suppur%C3%A9e)
+- [SFD. recommandations Hidradénite suppurée - Arbre décisionnel. Août 2019.](https://reco.sfdermato.org/fr/recommandations-hidrad%C3%A9nite-suppur%C3%A9e)
 
 {{%/sources%}}
 

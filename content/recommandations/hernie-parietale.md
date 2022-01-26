@@ -27,7 +27,7 @@ todo = "fmc-gastro, éventration"
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-Hernie inguinale
+Hernie inguinale (HI)
 : Protrusion pathologique du péritoine à travers le canal inguinal ou directe par espacement des muscles abdominaux. Elle peut contenir de l'intestin aboutissant à une tuméfaction de l'aine.
 
 Engouement herniaire
@@ -36,10 +36,6 @@ Signe d'une menace d'étranglement et donc indication formelle à la chirurgie.
 
 Étranglement herniaire
 : Urgence chirurgicale pour blocage d'une anse digestive dans la hernie amenant à son ischémie et sa perforation.
-
-### Abréviations
-
-**HI:** hernie inguinale
 
 {{% /collapse %}}
 {{%collapse "Étranglement herniaire" %}}

@@ -192,10 +192,10 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [NICE. Head injury: assessment and early management. 22/01/2014. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/head-injury-assessment-and-early-management-pdf-35109755595493.pdf)
 - [SFMU. Traumatisme crânien léger de l’enfant. Urgences 2015. (PDF)](https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2015/donnees/pdf/039.pdf)
 - [Lorton F. et al, GFRUP. Actualisation des recommandations pour la prise en charge du traumatisme crânien léger chez l’enfant, Journal Européen des Urgences et de Réanimation, Volume 26, Issues 3–4, 2014, Pages 222-228. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/recos_2014_sfpediatrie_traumatisme_cranien_leger.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}

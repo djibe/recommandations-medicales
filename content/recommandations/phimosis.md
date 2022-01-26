@@ -6,31 +6,30 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:35:35+02:00"
 publishdate = "2020-04-27"
-lastmod = "2016-08-10"
+lastmod = "2022-01-26"
 specialites = ["urologie"]
 annees = "2000"
 sources = []
 tags = []
 anglais = ["Phimosis"]
 sctid = "449826002"
-qualite = "faible"
 draft = false
 +++
 
 {{%article-summary%}}
 
-- À compléter.
+TODO:
 
 {{%/article-summary%}}
+{{%collapse "Définitions" %}}
 
-{{%collapse "Définition" %}}
+Phimosis
+: Étroitesse du prépuce prédominant au niveau de l'anneau distal, empêchant plus ou moins sa rétractation.  
+Il peut s'accompagner d'adhérences balano-préputiales et/ou d'une brièveté du frein de la verge (déviation ventrale du gland à la rétraction du prépuce).
+: 1<sup></sup> affection liée au prépuce, le terme est réservé aux prépuces non rétractables pathologiques.
 
-- Étroitesse du prépuce prédominant au niveau de l'anneau distal, empêchant ± sa rétractation.
-- Résulte de disproportion entre la largeur/élasticité du prépuce et le diamètre du gland.
-- Il peut s'accompagner d'adhérences balano-préputiales et/ou d'une brièveté du frein de la verge (déviation ventrale du gland à la rétraction du prépuce).
-- Première affection liée au prépuce, le terme est réservé aux prépuces non rétractables pathologiques.
-
-Rappels sur le prépuce : capuchon cutanéo-muqueux très innervé, assure protection du méat urétral et évite frottements du gland.
+Prépuce
+: Capuchon cutanéo-muqueux très innervé, assure protection du méat urétral et évite frottements du gland.
 
 ### Présentations du phimosis
 
@@ -73,7 +72,6 @@ Complication du phimosis moyennement serré. Rétraction du prépuce possible qu
 Les examens de débitmétrie ou d'échographie n'objectivent que rarement un réel retentissement (même si le prépuce se ballonise). Surtout retrouvé dans les phimosis serrés secondaires de l'adulte.
 
 {{%/collapse%}}
-
 {{%collapse "Clinique" %}}
 
 ### Signes chez l'enfant
@@ -89,7 +87,6 @@ Interrogatoire sur les infections urinaires et sexuelles, les traitements déjà
 Définir si phimosis physiologique persistant ou secondaire.
 
 {{%/collapse%}}
-
 {{%collapse "Traitement" %}}
 
 - Ne pas manipuler le phimosis physiologique du nouveau-né
@@ -145,10 +142,9 @@ Préventif. Éviter les manipulations des phimosis, toujours recalotter après l
 Chirurgie ± conservatrice
 
 {{%/collapse%}}
-
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - Dr Biserte CHRU Lille (Urologie 2008, JPP 2009)
 - Dr Panait HFME Bron
 
-{{%/collapse%}}
+{{%/sources%}}

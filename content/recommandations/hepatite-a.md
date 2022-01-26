@@ -101,11 +101,11 @@ Possible à partir de 1 an.
 Rappel à 6 mois ou plus selon la spécialité administrée.
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Organisation Mondiale de la Santé. Hépatite A. 27/07/2020.](https://www.who.int/fr/news-room/fact-sheets/detail/hepatitis-a)
 - [Vaccination Info Service Professionnels. Hépatite A. 21/04/2020](https://professionnels.vaccination-info-service.fr/Maladies-et-leurs-vaccins/Hepatite-A)
 - {{< references/calendrier-vaccinal >}}
 - [Ministère de la Santé. L'hépatite A. 13/07/2016.](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/article/l-hepatite-a)
 
-{{% /collapse %}}
+{{%/sources%}}

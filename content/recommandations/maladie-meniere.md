@@ -201,13 +201,13 @@ Association de patients
 [France Acouphènes](https://www.france-acouphenes.org/)
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Wu V. et al. Approche à adopter pour la prise en charge de la maladie de Ménière. Canadian family physician Medecin de famille canadien vol. 65,7 (2019): 468-472.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6738464/)
 - [Nervous J. et al; SFORL. Stratégie diagnostique et thérapeutique dans la maladie de Menière. 09/09/2016. (PDF)](https://www.orlfrance.org/wp-content/uploads/2017/06/Maladie-de-Meniere-stategie-diagnostique-et-therapeutique.pdf)
 - [Lopez-Escamez JA et al. ; Classification Committee of the Barany Society; Japan Society for Equilibrium Research; European Academy of Otology and Neurotology (EAONO); Equilibrium Committee of the American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNS); Korean Balance Society. Diagnostic criteria for Menière's disease. J Vestib Res. 2015;25(1):1-7. doi: 10.3233/VES-150549.](https://content.iospress.com/articles/journal-of-vestibular-research/ves00549)
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Questionnaire STOP-BANG" id="modal-score-stopbang" size="lg"%}}
 
 {{< scores/stop-bang >}}

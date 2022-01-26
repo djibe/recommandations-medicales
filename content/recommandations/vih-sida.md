@@ -55,8 +55,7 @@ Délai contamination-Sida d'environ **10 ans**.
 **UDI:** usager de drogues par injection  
 **VIH:** virus de l’immunodéficience humaine
 
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
 ### Le VIH en France
 

@@ -34,7 +34,6 @@ todo = "reco enfant 2022, comment diag quand rosacée, dépistage en AINS long c
 Dysphagie, amaigrissement, anémie.
 
 {{%/article-summary%}}
-
 {{%collapse "Aide au choix du traitement" "show" %}}
 <div class="card card-hover card-list-material my-4">
   <div class="card-body">
@@ -514,7 +513,7 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 {{< youtube id="QxQudpqfe08" title="Vidéo d'explications sur les précautions pour la réalisation du test respiratoire" >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Groupe d'Études Français des Helicobacter (GEFH). Site officiel.](http://www.helicobacter.fr/)
 - [Bénéjat L et al. Épidémiologie de l’infection à Helicobacter pylori en France en 2020 : données de surveillance du CNR Campylobacters et Hélicobacters. Bull Epidémiol Hebd. 2021;(15):275-82.](http://beh.santepubliquefrance.fr/beh/2021/15/2021_15_2.html)
@@ -531,4 +530,4 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 
 - [Kalach N. et al.; GFHGNP. Diagnostic et traitement de l'infection à Helicobacter pylori chez l'enfant. 2022.](http://www.helicobacter.fr/wp-content/uploads/2022/01/Diagnostic-et-traitement-de-linfection-%C3%A0-Helicobacter-pylori-chez-l%E2%80%99enfant.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}

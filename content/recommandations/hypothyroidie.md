@@ -274,12 +274,12 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse Information du patient %}}
+{{%collapse "Information du patient" %}}
 
 [Sante.fr. Petite chronique de l'hypothyroïdie](https://microlearning-sante.fr/fr/levothyrox)
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [HAS. Quelle imagerie pour les pathologies de la thyroïde. 28/09/2021.](https://www.has-sante.fr/jcms/p_3288963/fr/quelle-imagerie-pour-les-pathologies-de-la-thyroide)
 - [ANSM. Liste des médicaments à base de lévothyroxine disponibles en France. 19/03/2021.](https://ansm.sante.fr/dossiers-thematiques/les-medicaments-a-base-de-levothyroxine-disponibles-en-france-1/les-medicaments-a-base-de-levothyroxine-disponibles-en-france)
@@ -288,4 +288,4 @@ graph TB
 - [S. Laboureau-Soares et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8.](https://www.em-select.com/article/224074)
 - Prescrire 2015
 
-{{% /collapse %}}
+{{%/sources%}}

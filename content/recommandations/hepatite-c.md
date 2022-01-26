@@ -49,17 +49,16 @@ Des médicaments antiviraux permettent une guérison totale dans la grande major
 **TROD:** test rapide d'orientation diagnostique  
 **VHC:** virus de l'hépatite C
 
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
-### L'hépatite C en France
+#### L'hépatite C en France
 
 - 2700 morts/an
 - 1 personne sur 2 n'est pas diagnostiquée
 - 75 000 personnes non diagnostiquées en 2014  
 {{%class%}}Chez les 18-80 ans contre 101.000 en 2004.{{%/class%}}
 
-### L'hépatite C dans le monde
+#### L'hépatite C dans le monde
 
 - 170 millions de personnes infectées (3%)
 - Incidence: 3 à 4 millions de nouveaux cas par an
@@ -319,7 +318,7 @@ graph TB
 [Vidéos de l'AFEF sur l'hépatite C](https://www.youtube.com/channel/UCgWEPppp0YbWbvpcWoXd9fg/search?query=h%C3%A9patite%20C)
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [HAS. Hépatite C - Panorama](https://www.has-sante.fr/jcms/p_3261788/fr/hepatite-c)
 - [HAS. Hépatite C : prise en charge simplifiée chez l'adulte. Mars 2019 MAJ Septembre 2019.](https://www.has-sante.fr/jcms/c_2911891/fr/hepatite-c-prise-en-charge-simplifiee-chez-l-adulte)
@@ -328,7 +327,7 @@ graph TB
 - [Fourcher J., Rosa I. Traitement de l'hépatite C en 2018. POST'U 2018 Paris](https://www.fmcgastro.org/texte-postu/postu-2018-paris/traitement-de-lhepatite-c-en-2018/)
 - [Hépatites Info Service](https://www.hepatites-info-service.org/hepatite-c/)
 
-{{% /collapse %}}
+{{%/sources%}}
 <!-- Modal -->
 {{% modal title="Vaccination anti-pneumococcique" id="modal-vaccin-pneumocoque"%}}
 

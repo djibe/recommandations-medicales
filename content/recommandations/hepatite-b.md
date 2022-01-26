@@ -206,10 +206,10 @@ Rythme mensuel poursuivi dans les 6 mois suivants la fin du traitement.
 - PCR VHB et Ag HBe annuels
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Hépatite chronique B. Actes et prestations Affection de longue durée. Mai 2016.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
 - [HAS. Hépatite B Chronique. Guide Affection de longue durée. Octobre 2006.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
 
-{{% /collapse %}}
+{{%/sources%}}

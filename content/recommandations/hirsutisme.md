@@ -22,7 +22,7 @@ todo = "TODO: summary, bilan paraclinique"
 
 {{%article-summary%}}
 
-Fiche en construction.
+*Fiche en construction*
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -35,7 +35,6 @@ Zones androgénodépendantes
 : Lèvre supérieure, menton, joue, poitrine, ligne ombilico-pubienne, fesse, dos, région lombaire, bras, face antérieure des cuisses.
 
 {{%/collapse %}}
-
 {{%collapse "Étiologie" %}}
 
 Les causes de l'hirsutisme sont gynécologiques, endocriniennes et idiopathique:
@@ -50,8 +49,7 @@ Les causes de l'hirsutisme sont gynécologiques, endocriniennes et idiopathique:
   - Hyperplasie congénitale des surrénale
   - Idiopathique
 
-{{%/collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
+### Diagnostic différentiel
 
 - Duvet
 - Hypertrichose  
@@ -91,8 +89,8 @@ Spironolactone par voie orale.
 **NB.** Ne pas utiliser la cyprotérone.
 
 {{%/collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - Prescrire nov 2019
 
-{{%/collapse %}}
+{{%/sources%}}

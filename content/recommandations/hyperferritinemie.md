@@ -186,7 +186,7 @@ graph TB
 > HF = hyperferritinémie (en µg/L)
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Centre de référence des hémochromatoses.](https://centre-reference-fer-rennes.org/)
 - [Bardou Jacquet E. Hyperferritinémie non hémochromatosique : diagnostic et prise en charge. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/hyperferritinemie-non-hemochromatosique-diagnostic-et-prise-en-charge/)
@@ -196,4 +196,4 @@ graph TB
 - [Brissot P. Diagnostic d'une hyperferritinémie. (PDF)](https://www.hemochromatose.org/wp-content/uploads/2012/12/hyperferritinemie.pdf)
 - [CDU-HGE. Hémochromatose. Item 242. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Rubrique_Professionnels/abrege_hepato_gastro/abrege_d_hge_2012-chap23_item242.pdf)
 
-{{% /collapse %}}
+{{%/sources%}}

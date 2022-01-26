@@ -19,8 +19,6 @@ imageSrc = "Illustration de l'insuffisance cardiaque par vectorjuice / Freepik"
 todo = "sup. Table 4 MRA+5Sacu+7Diur https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical, Beck, https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fpc_i_ns_cardiaque_web.pdf"
 +++
 
-Chapitre mis à jour avec les nouvelles recommandations insuffisance cardiaque 2021.
-
 {{%article-summary%}}
 
 - Évoquer devant fatigue, dyspnée, œdèmes des chevilles...
@@ -486,7 +484,7 @@ l’accompagnement social est important
 réalistes
   - Chercher un soutien psychosocial si approprié
 
-> HAS 2014, ESC 2021, [HFA 2010](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)
+> *HAS 2014, ESC 2021, [HFA 2010](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)*
 
 {{%/collapse%}}
 {{%sources%}}

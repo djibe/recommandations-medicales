@@ -289,9 +289,9 @@ Limiter vélo, ski.
 {{< video mp4="http://www.videos.lecofer.org/semiologie/genou/07PctionArtic.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/07PctionArtic.webm" description="Le COFER. Genou: Ponction articulaire" >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Sellam J et al. Recommandations de la Société Française de Rhumatologie sur la prise en charge pharmacologique de la gonarthrose. Revue du Rhumatisme. 2020.](https://doi.org/10.1016/j.rhum.2020.07.013)
 - [COFER. Arthrose. Item 129 UE 6.](http://www.lecofer.org/item-cours-1-8-0.php)
 
-{{% /collapse %}}
+{{%/sources%}}

@@ -77,7 +77,7 @@ Possible dès 9 mois.
 {{< card-link title="Liste des centres de vaccination fièvre jaune par département" url="https://solidarites-sante.gouv.fr/IMG/pdf/tableau_cvfj_janvier_2019.pdf" subtitle="Ministère de la Santé" image="ministere" >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Institut Pasteur. Fièvre jaune : mieux comprendre les rares effets secondaires des vaccins. 26/04/2021.](https://www.pasteur.fr/fr/journal-recherche/actualites/fievre-jaune-mieux-comprendre-rares-effets-secondaires-vaccins)
 - {{< references/calendrier-vaccinal >}}
@@ -85,4 +85,4 @@ Possible dès 9 mois.
 - [Ministère de la Santé. Liste des centres de vaccination habilités à effectuer la vaccination contre la fièvre jaune (anti-amarile). 07/02/2019.](https://solidarites-sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination-fievre-jaune)
 - [HCSP. Vaccination de rappel contre la fièvre jaune pour la Guyane. Nouvelles recommandations. 17/12/2015.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=531)
 
-{{% /collapse %}}
+{{%/sources%}}

@@ -28,7 +28,7 @@ todo = "<1 ng or 2 ng, Ref HAS, https://curie.fr/dossier-pedagogique/cancer-de-l
 - Répéter le PSA tous les 1 à 8 ans selon le PSA précédent
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Histologie
 : **Adénocarcinome** sporadique (80%), héréditaire (10%) ou familial (10%).
@@ -44,8 +44,7 @@ Facteurs de risque du cancer de la prostate
 : Principal: Âge > 55 ans.  
 Héréditaire si ≥ 3 cas dans les apparentés au 1<sup>er</sup> degré.
 
-{{% /collapse %}}
-{{%collapse "Épidémiologie" %}}
+### Épidémiologie
 
 - Incidence: 1<sup>er</sup> cancer en France (71.000 cas/an)
 - 3<sup>e</sup> cause de décès par cancer de l'homme (8700/an)
