@@ -6,10 +6,10 @@ synonyms = ["Aponévrosite plantaire, épine calcanéenne, fasciite plantaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-02T15:14:20+02:00
 publishdate = 2020-06-02
-lastmod = 2020-06-03
+lastmod = 2022-01-27
 specialites = ["rhumatologie"]
-annees = "2002"
-sources = ["RevMedSuis"]
+annees = "2021"
+sources = ["Prescrire"]
 tags = []
 anglais = ["Heel spur", "plantar fasciitis"]
 sctid= "202882003"
@@ -26,7 +26,7 @@ imageSrc = "Injurymap, CC BY 4.0, via Wikimedia Commons"
 {{%collapse "Définition" %}}
 
 Enthésopathie calcanéenne
-: Enthésopathie mécanique, secondaire à des microtraumatismes répétés sur l'insertion calcanéenne de l'aponévrose plantaire.
+: Communément << épine calcanéenne >>, enthésopathie mécanique, secondaire à des microtraumatismes répétés sur l'insertion calcanéenne de l'aponévrose plantaire. Une extension de l'inflammation donne souvent une fasciite plantaire associée.
 
 ### Facteurs de risque
 
@@ -99,13 +99,14 @@ Examens de 2<sup>e</sup> intention:
 {{%collapse "Traitement" %}}
 
 - Repos
-- Port de chaussures à talon ou talonnette amortissante  
+- Chaussures à talon, semelle souple ou talonnette amortissante  
 Dès le matin.
 - Éviter la station debout et le piétinement prolongé
-- Chaussettes de contention  
+- Chaussettes de contention
+- Étirements de l'aponévrose plantaire et du mollet
 - Kinésithérapie  
-Décontraction du système suro-achilléo-calcanéo-plantaire.  
-Massages transverses profonds, séquences de contraction isométrique, relâchement puis étirement passif.
+  - Décontraction du système suro-achilléo-calcanéo-plantaire
+  - Massages transverses profonds, séquences de contraction isométrique, relâchement puis étirement passif
 - Antalgiques
 - AINS
 - Semelles orthopédiques si trouble de la statique plantaire
@@ -115,6 +116,7 @@ En cas de persistance: orthèse plantaire voire infiltrations de corticoïdes.
 {{%/collapse%}}
 {{%sources%}}
 
-[Fulpius T et al. Talalgies plantaires : aspects cliniques et pratiques. Rev Med Suisse 2002; volume -2. 22006](https://www.revmed.ch/RMS/2002/RMS-2384/22006)
+- Prescrire Redaction. Douleur sous le talon par fasciite plantaire et orthèses. Juin 2021.
+- [Fulpius T et al. Talalgies plantaires : aspects cliniques et pratiques. Rev Med Suisse 2002; volume -2. 22006](https://www.revmed.ch/RMS/2002/RMS-2384/22006)
 
 {{%/sources%}}

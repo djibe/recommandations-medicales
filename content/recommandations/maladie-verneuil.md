@@ -45,9 +45,13 @@ Ils associent:
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
+- Suivi dermatologique systématique  
+Le médecin traitant dépiste, oriente et prescrit le traitement abortif d'urgence.
 - Arrêt du tabac
 - Association de patients  
 [Association Française pour la Recherche sur l'Hidrosadénite (AFRH)](http://www.afrh.fr/)
+- ALD 31  
+Demande avec le compte-rendu du dermatologue.
 
 {{% /collapse %}}
 {{%sources%}}

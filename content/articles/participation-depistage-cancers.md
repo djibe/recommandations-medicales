@@ -4,7 +4,7 @@ description = "Les français et leur taux de participation au dépistage génér
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-08-15T19:54:00+02:00
 publishdate = 2021-08-18
-lastmod = 2021-12-06
+lastmod = 2022-01-27
 specialites = []
 sources = ["SPF"]
 tags = ["cancer"]
@@ -12,7 +12,6 @@ draft = false
 chart = true
 image = false
 imageSrc = ""
-todo= ""
 +++
 
 ### Résumé
@@ -29,13 +28,13 @@ Pour tous les dépistages, le taux de participation reste très en-dessous des a
 
 <figure>
   <div id="chart" class="border alert mb-4"></div>
-  <figcaption>Figure. Données de participation au dépistage organisé des cancers et mortalité 2017 (dépistages: col 2012-2017 - sein 2018-2019 - colorectal 2018-2019). Utilisation des données 2019 du fait de la pandémie. Dr JB Fron d'après dernières données SPF.</figcaption>
+  <figcaption>Figure. Données de participation au dépistage organisé des cancers et mortalité 2017 (dépistages: col 2018-2020 - sein 2018-2019 - colorectal 2018-2019). Utilisation des données 2019 du fait de la pandémie. Dr JB Fron d'après dernières données SPF.</figcaption>
 </figure>
 
 ### Sources
 
 - [Jéhannin-Ligier K et al. Projection de l’incidence et de la mortalité par cancer en France métropolitaine en 2017. Rapport technique. Saint-Maurice : Santé publique France, 2017. 80 p.](https://www.santepubliquefrance.fr/docs/projection-de-l-incidence-et-de-la-mortalite-par-cancer-en-france-metropolitaine-en-2017)
-- [Hamers FF, Jezeweski-Serra D. Couverture du dépistage du cancer du col de l’utérus en France, 2012-2017. Bull Epidémiol Hebd. 2019;(22-23):417-23.](http://beh.santepubliquefrance.fr/beh/2019/22-23/2019_22-23_2.html)
+- [Santé Publique France. Cancer du col de l’utérus : la couverture du dépistage et de la vaccination doivent progresser pour une meilleure prévention. Janvier 2022.](https://www.santepubliquefrance.fr/presse/2022/cancer-du-col-de-l-uterus-la-couverture-du-depistage-et-de-la-vaccination-doivent-progresser-pour-une-meilleure-prevention)
 - [Santé Publique France. Taux de participation au programme de dépistage organisé du cancer du sein 2018-2019 et évolution depuis 2005.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-sein/articles/taux-de-participation-au-programme-de-depistage-organise-du-cancer-du-sein-2018-2019-et-evolution-depuis-2005)
 - [Santé Publique France. Taux de participation au programme de dépistage organisé de cancer colorectal 2018-2019. Mai 2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-colon-rectum/articles/taux-de-participation-au-programme-de-depistage-organise-du-cancer-colorectal-2018-2019)
 
@@ -44,7 +43,7 @@ const chartOptions = {
   series: [{
     name: 'Participation',
     type: 'column',
-    data: [58.7, 49.3, 30.5]
+    data: [59, 49.3, 30.5]
   }, {
     name: 'Mortalité',
     type: 'column',

@@ -22,7 +22,6 @@ Ces recommandations concernent l'adulte ≥ 18 ans.
 
 {{%article-summary%}}
 
-- *Relecture en cours par le club des jeunes hypertensiologues*
 - Tout adulte doit être dépisté au moins tous les 5 ans (20% non traités)
 - Conditions de mesures strictes
 - Appareil validé (voir *Mesure au cabinet*)

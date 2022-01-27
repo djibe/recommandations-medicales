@@ -3,8 +3,8 @@ title = "Évolution du tarif des consultations des médecins généralistes sur 
 description = "Évolution du montant d'une consultation chez le médecin généraliste de 1980 à 2021, corrigée de l'inflation."
 auteurs = ["Jean-Baptiste FRON"]
 date = 2022-01-23T14:00:00+02:00
-publishdate = 2022-01-23
-lastmod = 2022-01-23
+publishdate = 2022-01-27
+lastmod = 2022-01-27
 specialites = []
 sources = ["CNAM"]
 tags = []
@@ -12,12 +12,18 @@ draft = true
 chart = true
 image = false
 imageSrc = ""
-todo = "Salaire médian cadre, cadre même âge, temps travail, cotisations"
+todo = "temps travail, cotisations"
 +++
 
 ### Résumé
 
-*Publication préliminaire afin de disposer d'une série longue*
+Publication préliminaire afin de disposer d'une série longue. En effet je n'ai pas trouvé d'article complet sur le sujet.
+
+Ce qui manque: la comparaison avec l'évolution du salaire médian des cadres (corrigé sur l'âge serait un plus). En effet les jeunes décalent fortement la médiane alors que les jeunes médecins ... n'existent pas. Le temps de travail des cadres serait intéressant.
+
+Ce que sera délicat: l'augmentation des prélèvements obligatoires, des loyers, des revenus.
+
+Ce qui nécessitera un autre travail: l'évolution de l'activité des praticiens.
 
 ### Graphique
 

@@ -1,12 +1,12 @@
 +++
-title = "Ostéoporose"
+title = "Ostéoporose post-ménopausique"
 prefix = "l'"
-shortname = "Ostéoporose"
-synonyms = ["Ostéoporose post-ménopausique"]
+titleSeo = "Ostéoporose"
+synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-04T17:43:41+02:00
 publishdate = 2021-12-06
-lastmod = 2022-01-18
+lastmod = 2022-01-27
 specialites = ["rhumatologie"]
 annees = "2019"
 sources = ["SFRhumato", "GRIO", "IOF", "HAS"]
@@ -22,16 +22,22 @@ imageSrc = "Illustration de l'ostéoporose par scientificanimations.com, CC BY-S
 todo = "https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, BDPM, pré-th alendronate, HAS 2005 chutes, prescription renforcement musculaire, dose THM prev osseuse"
 +++
 
+*Relecture en cours par des membres du GRIO*
+
 {{%article-summary%}}
 
-- *Relecture en cours par des membres du GRIO*
-- Ces recommandations concernent la femme ménopausée
-- Dépister: {{< modal-btn modal-risque-fracture >}}facteurs de risque de fracture{{< /modal-btn >}}, de {{< modal-btn modal-risque-chute >}}chute{{< /modal-btn >}} et score FRAX (voir *Risque de fracture*)
-- Mesurer: score FRAX et ostéodensitométrie
-- 2 situations: fracturée ou dépistage (voir les arbres décisionnels)
-- Choix du traitement: voir *Traitements spécifiques*
-- Prévention: des chutes, arrêt du tabac, activité physique, [vitD]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}})
-- Voir aussi: [traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
+1. Ostéodensitométrie pour toutes les femmes après 60 ans ou après une fracture
+2. Bilan étiologique: NFS, VS, CRP, bilan rénal et hépatique, TSH, vitamine D, calcémie corrigée, phosphatémie, albuminémie
+3. Biphosphonate si T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou tout T-score ≤ -3
+4. Avis rhumatologique si T-score proche (1 point) de l'indication de traiter
+5. Biphosphonate: bilan dentaire et [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois.  
+  Fracture fémorale: adresser à l'hôpital pour zolédronate IV.
+6. Contrôle d'ostéodensitométrie à 3-5 ans et avis rhumatologique
+
+**Prévention**  
+{{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, arrêt du tabac, activité physique, [vitamine D]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
+
+Voir aussi: [traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -427,6 +433,7 @@ window.addEventListener('load', function() {
   - Ne contre-indiquent pas des implants dentaires
   - Biphosphonates voie orale : ≥ 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d’eau du robinet (ou peu minéralisée)
 - Dénosumab
+  - Prescription restreinte au rhumatologue
   - Utilisé seulement en relais des BP car permet un gain conséquent de DMO (*HAS 2019*)
   - Informer du risque très faible d'*ostéonécrose de la mâchoire*, de *fracture atypique fémorale* et d'uvéite
   - Rebond de perte osseuse à l'arrêt, poursuivre par BP 6-12 mois
@@ -518,8 +525,9 @@ graph TB
 
 ### Vidéos du GRIO
 
-- 3 vidéos: [L'Ostéoporose et les signes d'appel, Le diagnostic de l'ostéoporose et Prévenir l'ostéoporose](http://www.grio.org/espace-gp/films-osteoporose.php)
-- [Ostéoporose Masculine - Le point sur les recommandations françaises](http://www.grio.org/membres/video-webcast.php)
+{{< card-link title="L'Ostéoporose et les signes d'appel, Le diagnostic de l'ostéoporose et Prévenir l'ostéoporose" url="http://www.grio.org/espace-gp/films-osteoporose.php">}}
+
+{{< card-link title="Ostéoporose Masculine" url="http://www.grio.org/membres/video-webcast.php" subtitle="Le point sur les recommandations françaises">}}
 
 {{%/collapse%}}
 {{%sources%}}
