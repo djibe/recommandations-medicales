@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-01-16"
+lastmod = "2022-01-27"
 specialites = ["endocrinologie"]
 annees = "2021"
-sources = ["SFD", "EASD", "ADA", "ESC", "HAS"]
+sources = ["SFD", "ESC", "EASD", "ADA", "HAS"]
 tags = ["bariatrique", "diabete", "HTA", "insuline", "retinopathie", "nephropathie",  "risque cardiovasculaire", "neuropathie", "obesite", "SAS", "vaccin"]
 anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
@@ -52,33 +52,7 @@ Rémission du diabète
 : Lorsque la mesure de l'HbA1c n'est pas fiable, recours à la glycémie à jeun < 1,26 g/L ou estimation par automesure (la glycémie moyenne doit être < 6,5% d'équivalent HbA1c).
 : Le *dépistage des complications* doit être poursuivi, avec la surveillance de l'HbA1c tous les 3-12 mois.
 
-{{% /collapse %}}
-{{%collapse "Les points vitaux du diabète type 2" "show" %}}
-
-- Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} {{%class%}}(risque x 3-4){{%/class%}}
-- Arrêt du tabac
-- [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
-  - Seuil diagnostique ≥ 140/90 mmHg (160 après 80 ans, {{%class%}}*ESC 2018*{{%/class%}})
-  - Cible 120-130/70-79 mmHg {{%class%}}(*ESC 2019 diabetes*){{%/class%}}
-  - ≥ 65 ans: 130-139/70-79 mmHg {{%class%}}(*ESC 2019 diabetes*){{%/class%}}
-  - Bithérapie d'emblée {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
-- LDL cible {{%class%}}(*ESC 2019*){{%/class%}}  
-  - {{< modal-btn modal-statine-intensite >}}< 0,7 g/L{{< /modal-btn >}}
-  - {{< modal-btn modal-statine-intensite >}}< 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-rcv-diabete >}}maladie cardiovasculaire, > 20 ans d'évolution ou ≥ 3 autres FRCV{{< /modal-btn >}}
-- Activité physique  
-{{%class "text-black-secondary" %}}**Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense). Endurance et renforcement musculaire. Commencer par 1000 pas supplémentaires/j.{{%/class%}}
-- Cible d'HbA1c  
-{{< modal-btn modal-hba1c >}}Globalement **7%**{{< /modal-btn >}} {{%class%}}(*SFD 2021*){{%/class%}}.
-- En cas de surpoids  
-Perte de poids (5-10%) ou chirurgie bariatrique.
-- {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Dépister des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}}
-- ALD 8 et proposer [Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
-
-{{%info%}}Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75% (*ESC 2019 diabetes*){{%/info%}}
-
-{{% /collapse %}}
-{{%collapse "Conversion des unités du diabète" %}}
+### Conversion des unités du diabète
 
 <div class="form-group">
   <label for="hba1cInput">HbA<sub>1c</sub> (%, dit NGSP)</label>
@@ -91,8 +65,34 @@ Perte de poids (5-10%) ou chirurgie bariatrique.
   <input type="number" style="width:68px" class="form-alternative" id="eagInput" value="154" min="1" onchange="hba1cInput.value = Math.round(((parseInt(this.value, 10) + 46.7) / 28.7) / 0.1) * 0.1">
 </div>
 
-{{%/collapse%}}
-{{%collapse "Escalade thérapeutique" "show" %}}
+{{% /collapse %}}
+{{%collapse "Les points vitaux du diabète type 2" "show" %}}
+
+{{%warning%}}Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} (rarement modéré) {{%class%}}(risque CV x 3-4){{%/class%}}{{%/warning%}}
+
+- Arrêt du tabac
+- [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
+  - Seuil diagnostique ≥ 140/90 mmHg (160 après 80 ans, {{%class%}}*ESC 2018*{{%/class%}})
+  - Cible 120-130/70-79 mmHg {{%class%}}(*ESC 2019 diabetes*){{%/class%}}
+  - ≥ 65 ans: 130-139/70-79 mmHg {{%class%}}(*ESC 2019 diabetes*){{%/class%}}
+  - Bithérapie d'emblée {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
+- LDL cible {{%class%}}(*ESC 2019*){{%/class%}}  
+  - {{< modal-btn modal-statine-intensite >}}< 0,7 g/L{{< /modal-btn >}}
+  - {{< modal-btn modal-statine-intensite >}}< 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-rcv-diabete >}}maladie cardiovasculaire, > 20 ans d'évolution ou ≥ 3 autres FRCV{{< /modal-btn >}}
+- Activité physique  
+{{%class "text-black-secondary" %}}**Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense). Endurance et renforcement musculaire. Commencer par 1000 pas supplémentaires/j.{{%/class%}}
+- Cible d'HbA<sub>1c</sub>  
+{{< modal-btn modal-hba1c >}}Globalement **7%**{{< /modal-btn >}} {{%class%}}(*SFD 2021*){{%/class%}}.
+- Surpoids  
+Perte de poids (5-10%) ou chirurgie bariatrique.
+- {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
+- Dépister des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et [dysfonction érectile](https://doi.org/10.1016/j.diabet.2011.09.003)
+- ALD 8 et proposer [Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
+
+{{%info%}}Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75% (*ESC 2019 diabetes*){{%/info%}}
+
+{{% /collapse %}}
+{{%collapse "Escalade thérapeutique" %}}
 
 *Version préliminaire d'après SFD 2021*
 
@@ -215,7 +215,6 @@ Perte de poids (5-10%) ou chirurgie bariatrique.
 </div>
 <!-- 4e intention -->
 <h3 class="typography-overline mt-3">4e intention</h3>
-<p class="font-weight-bold my-2">La <a role="button" data-toggle="modal" href="#modal-metformine">metformine</a> doit toujours être maintenue</p>
 <ul>
   <li>Avis endocrinologique de préférence</li>
   <li>Sinon metformine + <a role="button" data-toggle="modal" href="#modal-glp1ra">GLP1</a> + <a role="button" data-toggle="modal" href="#modal-isglt2">iSGLT2</a>/<a role="button" data-toggle="modal" href="#modal-su">SU</a></li>
@@ -242,87 +241,42 @@ window.onload = () => {
 </script>
 
 {{% /collapse %}}
-{{%collapse "Diabète et prévention" %}}
+{{%collapse "Dépistage des complications et matériel" "show"%}}
 
-Recommandations *ESC 2019 diabetes* sauf mention contraire.
+{{< table title="Rythme de dépistage des complications du diabète. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
+| Appareil     | Soins                                                                                            | Source                   |
+|--------------|--------------------------------------------------------------------------------------------------|--------------------------|
+| AAA          | Homme 65-75 ans et tabac (sevré < 20 ans) ou 50-75 ans avec ATCD familial AAA 1er degré          | ESC 2014 aortic          |
+| AOMI         | Symptômes + pouls annuels, IPS au diagnostic puis /5-10 ans                                      | ESC 2019 diabetes        |
+| Aspirine prev primaire | 75-100 mg/j envisageable si {{< modal-btn modal-rcv-diabete >}}(très) haut risque CV{{< /modal-btn >}} ou coronaire sans risque de saignement | ESC 2019 diabetes |
+| Aspirine prev secondaire | 75-160 mg ± associé selon la pathologie, prolonger bi-antiagrégants si bien toléré (max 3 ans) | ESC 2019 diabetes |
+| Chir bariatrique | < 65 ans et IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, SAOS ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH | HAS 2009 obésité |
+| Dentaire     | Suivi annuel                                                                                     | IDF 2009                 |
+| ECG          | Annuel (VPN très faible)                                                                         | SFD 2021 CAD             |
+| Épreuve d'effort | Angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans) | SFD 2021 CAD |
+| Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
+| Neuropathie  | Dépistage annuel monofilament                                                                    | ESC 2019 diabetes        |
+| Rénal        | Créatininémie, albuminurie sur échantillon annuels                                               | ESC 2019 diabetes        |
+| Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | SFD 2016                 |
+| Score calcique | {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} &plusmn; EE | SFD 2021 CAD |
+| Vaccins      | Covid-19, grippe, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}        | Calendrier vaccinal 2021 |
+{{< /table >}}
 
-### Aspirine
-
-- Prévention primaire
-  - Aspirine 75-100 mg/j envisageable si {{< modal-btn modal-rcv-diabete >}}(très) haut risque CV{{< /modal-btn >}} ou coronaire sans risque de saignement
-- Prévention secondaire
-  - 75-160 mg ± associé selon la pathologie
-  - Prolonger bi-antiagrégants si bien toléré (max 3 ans)
-- IPP si risque élevé de saignement digestif
-
-### Estimation du risque cardiovasculaire
-
-- ECG annuel (VPN très faible, *SFD 2021 CAD*)
-- Envisager IPS
-- Échodoppler TSA et MI
-- Épreuve d'effort (*SFD 2021 CAD*)
-  - Évaluer les facteurs de risque: FRCV usuels, tour de taille, ancienneté du diabète, HbA1c, complications, [dysfonction érectile](https://doi.org/10.1016/j.diabet.2011.09.003), SAOS, NASH
-  - Indications: angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire (tous les 3-5 ans){{< /modal-btn >}}
-  - Selon score calcique si {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}}
-
-### Rénal
-
-- Créatininémie, albuminurie sur échantillon annuels
-
-### AOMI
-
-- Dépistage annuel clinique ± IPS
-
-### Chirurgie métabolique
-
-Indications avant 65 ans:
-
-- IMC ≥ 40
-- IMC ≥ 35 avec au moins une complication parmi:
-  - HTA
-  - SAOS ou autres troubles respiratoires sévères
-  - Diabète type 2
-  - Maladies ostéo-articulaires invalidantes
-  - NASH
-
-> *HAS 2009 obésité*
-
-### Dentaire
-
-Suivi annuel (*IDF 2009*)
-
-### Fibrate
-
-Envisager le fénofibrate chez les {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL dans la cible mais triglycérides > 2 g/L et HDL bas. (*SFD 2021 CAD*)
-
-### Rétinopathie
-
-Dépistage annuel.  
-Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimal.
-
-> *SFD 2016*
-
-### Vaccins
-
-- Covid-19
-- Grippe
-- {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}}
-
-> *MinSanté Calendrier vaccinal 2021*
+> **AAA** = anévrysme de l'aorte abdominale ; **EE** = épreuve d'effort ; **aspirine:** IPP si risque élevé de saignement digestif  
+Épreuve d'effort: évaluer les facteurs de risque: FRCV usuels, tour de taille, ancienneté du diabète, HbA<sub>1c</sub>, complications, dysfonction érectile, SAOS, NASH
 
 ### Matériel
 
-*[Ameli 2021](https://www.ameli.fr/medecin/exercice-liberal/memos/suivi/auto-surveillance-glycemique-du-patient-diabetique-systeme-freestyle-libre)*:
-
+- 1 autopiqueur annuel
+- Lecteur de glycémie  
+  - 1 lecteur/4 ans
+  - **Indications à l'autosurveillance glycémique:** insuline envisagée ou en cours, insulinosécréteur avec suspicion d'hypoglycémie, visée pédagogique en cible non atteinte, déséquilibre aigu (infection, corticoïdes, suspension du traitement), (désir de) grossesse
 - Capteur de glycémie
   - Indications: patient ≥ 4 ans avec insulinothérapie intensifiée (pompe ou ≥ 3 injections/j) et pratiquant une ASG ≥ 3/j.
   - Prescription initiale par endocrinologue
   - 26 capteurs/an remboursés ([Freestyle Libre 2](https://www.federationdesdiabetiques.org/federation/actualites/freestyle-libre-2-c-est-officiel-le-dispositif-bientot-pris-en-charge))
-- Lecteur de glycémie  
-  - 1 lecteur/4 ans
-  - Indications à l'autosurveillance glycémique: insuline envisagée ou en cours, insulinosécréteur avec suspicion d'hypoglycémie, visée pédagogique en cible non atteinte, déséquilibre aigu (infection, corticoïdes, suspension du traitement), (désir de) grossesse
 
-> *ESC 2019 diabetes*
+> *[Ameli 2021](https://www.ameli.fr/medecin/exercice-liberal/memos/suivi/auto-surveillance-glycemique-du-patient-diabetique-systeme-freestyle-libre)*
 
 {{% /collapse %}}
 {{%sources%}}
@@ -335,7 +289,7 @@ Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimal.
 - {{< references/esc-diabetes >}}
 - {{< references/esc-hta >}}
 - [Borel AL et al; SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. Med Mal Metab 2018. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
-- [Massin P et al; SFD. Référentiel pour le dépistage et la surveillance des complications oculaires du patient diabétique. Validé par la Société Francophone du Diabète (SFD) et par la Société Française d’Ophtalmologie (SFO). Med Mal Metab. Décembre 2016;10(8):774-84. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_complications_oculaires_sfd_sfo_mmm.pdf)
+- [Massin P et al; SFD. Référentiel pour le dépistage et la surveillance des complications oculaires du patient diabétique. Validé par la Société Francophone du Diabète (SFD) et par la Société Française d’Ophtalmologie (SFO). Med Mal Metab. 2016;10(8):774-84. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_complications_oculaires_sfd_sfo_mmm.pdf)
 - [IDF. Oral health for people with diabetes. 2009. (PDF)](https://www.idf.org/component/attachments/attachments.html?id=729&task=download)
 
 ### À lire
