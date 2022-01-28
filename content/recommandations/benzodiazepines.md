@@ -36,12 +36,12 @@ Benzodiazépines
 : L'arrêt progressif et encadré des BZD n'altère pas la qualité de vie et peut améliorer les fonctions cognitives.
 
 Syndrome de sevrage
-: Apparition de signes nouveaux dus à l’arrêt ou la diminution de la prise.
+: Apparition de signes nouveaux dus à l'arrêt ou la diminution de la prise.
 : Signes généraux fréquents: anxiété, insomnie, céphalées. Signes plus spécifiques: confusion, hallucination. Plus rarement: troubles de vigilance, convulsions, incoordination motrice, coma.
-: Apparition possible pendant la réduction de posologie pouvant durer jusqu’à quelques jours après la dernière prise.Atténuation progressive.
+: Apparition possible pendant la réduction de posologie pouvant durer jusqu'à quelques jours après la dernière prise.Atténuation progressive.
 
 Effet rebond
-: Réapparition de signes cliniques antérieurs au traitement dont l’intensité est augmentée.
+: Réapparition de signes cliniques antérieurs au traitement dont l'intensité est augmentée.
 : Le plus souvent anxiété et insomnie.
 : Apparition quelques heures à quelques jours après la dernière prise. Atténuation progressive (1-3 semaines).
 
@@ -54,12 +54,12 @@ Rechute
 
 **AMM:** autorisation de mise sur le marché  
 **BZD:** benzodiazépine  
-**ECAB:** {{< modal-btn modal-score-ecab >}}échelle cognitive d’attachement aux benzodiazépines{{< /modal-btn >}}
+**ECAB:** {{< modal-btn modal-score-ecab >}}échelle cognitive d'attachement aux benzodiazépines{{< /modal-btn >}}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Tout consommateur chronique de BZD est exposé en cas d’arrêt brutal accidentel ou non (oubli, hospitalisation...) à un risque de syndrome de sevrage{{%/info%}}
+{{%info%}}Tout consommateur chronique de BZD est exposé en cas d'arrêt brutal accidentel ou non (oubli, hospitalisation...) à un risque de syndrome de sevrage{{%/info%}}
 
 - Traitements en cours
 - Consommation d'alcool
@@ -164,12 +164,12 @@ Madame, Monsieur,
 
 Parmi vos médicaments, vous recevez ..*nom de la BZD*.. à la dose de ... *cp/j*. Ce médicament fait partie du groupe des benzodiazépines et médicaments apparentés.
 
-L’analyse de votre dossier médical montre que désormais ce médicament pourrait vous être arrêté sans altérer votre santé ni votre bien-être. En effet, il est connu aujourd’hui que l’efficacité des benzodiazépines prescrites dans votre cas diminue fortement au fur et à mesure de leur utilisation (dès 2 semaines d'utilisation).
+L'analyse de votre dossier médical montre que désormais ce médicament pourrait vous être arrêté sans altérer votre santé ni votre bien-être. En effet, il est connu aujourd'hui que l'efficacité des benzodiazépines prescrites dans votre cas diminue fortement au fur et à mesure de leur utilisation (dès 2 semaines d'utilisation).
 
-De plus, ces médicaments peuvent produire des effets néfastes, en particulier chez la personne âgée: ils peuvent provoquer des chutes et des troubles de la mémoire, et ils favoriseraient la survenue d’accidents de la route chez les conducteurs prenant ce traitement.
+De plus, ces médicaments peuvent produire des effets néfastes, en particulier chez la personne âgée: ils peuvent provoquer des chutes et des troubles de la mémoire, et ils favoriseraient la survenue d'accidents de la route chez les conducteurs prenant ce traitement.
 
-Aussi, je vous propose qu’ensemble nous diminuions petit à petit ce médicament pour l’arrêter si tout se passe bien dans quelques semaines. Pour éviter tout problème, il est très important que cet arrêt se fasse progressivement dans le cadre d’un suivi médical.  
-Pour vous aider, je vous remettrai un calendrier d’arrêt que nous remplirons ensemble lors d’une prochaine consultation si vous le voulez bien.
+Aussi, je vous propose qu'ensemble nous diminuions petit à petit ce médicament pour l'arrêter si tout se passe bien dans quelques semaines. Pour éviter tout problème, il est très important que cet arrêt se fasse progressivement dans le cadre d'un suivi médical.  
+Pour vous aider, je vous remettrai un calendrier d'arrêt que nous remplirons ensemble lors d'une prochaine consultation si vous le voulez bien.
 
 Bien entendu je me tiens à votre disposition pour répondre à toutes vos questions, et vous prie de croire, Madame, Monsieur, à l'expression de mes salutations dévouées.
 
@@ -179,7 +179,7 @@ Dr ...
 
 ### Calendrier de suivi de l'arrêt de BZD
 
-[Calendrier de suivi de l’arrêt des benzodiazépines (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_calendrier_de_suivi.pdf)
+[Calendrier de suivi de l'arrêt des benzodiazépines (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_calendrier_de_suivi.pdf)
 
 {{% /collapse %}}
 {{%sources%}}
@@ -189,7 +189,7 @@ Dr ...
 - [HAS. Modalités d'arrêt des benzodiazépines et médicaments apparentés chez le patient âgé. Recommandations professionnelles. Octobre 2007.](https://www.has-sante.fr/jcms/c_601509/fr/modalites-d-arret-des-benzodiazepines-et-medicaments-apparentes-chez-le-patient-age)
 
 {{%/sources%}}
-{{% modal title="Échelle cognitive d’attachement aux benzodiazépines" id="modal-score-ecab"%}}
+{{% modal title="Échelle cognitive d'attachement aux benzodiazépines" id="modal-score-ecab"%}}
 
 {{< scores/ecab >}}
 

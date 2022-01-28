@@ -441,27 +441,27 @@ chart = true
 
 ## Motivation du projet
 
-Comme tous mes confrères, je suis confronté quotidiennement à la nécessité d’obtenir rapidement les éléments de référence pour des prises en charge de qualité au cours de mes consultations de médecine générale. À cet effet, je me heurte à plusieurs obstacles:
+Comme tous mes confrères, je suis confronté quotidiennement à la nécessité d'obtenir rapidement les éléments de référence pour des prises en charge de qualité au cours de mes consultations de médecine générale. À cet effet, je me heurte à plusieurs obstacles:
 
-### L’état de l’art évolue rapidement et sa dissémination aux généralistes est très limitée
+### L'état de l'art évolue rapidement et sa dissémination aux généralistes est très limitée
 
 L'**État de l'art** est dispersé sur internet (HAS, sociétés savantes...), dans des documents trop longs. Il n'est pas adapté aux soins primaires, quand il n'est tout simplement pas détenu par des éditeurs à but lucratif (Elsevier...). De plus, le rythme des publications est rapide.
 
-> Les progrès de la médecine n’atteignent guère les généralistes
+> Les progrès de la médecine n'atteignent guère les généralistes
 
 ### Le généraliste ne peut tout savoir et ne peut souvent pas accéder aux informations pertinentes en temps utile pour la consultation
 
 Le médecin généraliste est le premier intervenant de la grande majorité des soins. Il est donc exposé à tous les motifs de consultation, sans avoir toujours accès aux informations nécessaires pour offrir un premier bilan optimal.  
-Il ne peut pas tout savoir, et l’humain ne retient au mieux que 10% de ce qu’il apprend. Seul un assistant informationnel permettrait de résoudre ce dilemme.
+Il ne peut pas tout savoir, et l'humain ne retient au mieux que 10% de ce qu'il apprend. Seul un assistant informationnel permettrait de résoudre ce dilemme.
 
-> L’information pertinente doit être accessible rapidement pendant la consultation
+> L'information pertinente doit être accessible rapidement pendant la consultation
 
 ### La formation médicale continue (FMC) est peu efficace
 
 La FMC des médecins est obligatoire depuis le 24 avril 1996 ([CN FMCH. L'obligation de formation médicale continue (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/diapos_fmcph.pdf)), et la loi a été renforcée plusieurs fois depuis lors.  
 Pourtant, des exemples comme les *prescriptions d'antibiotiques* ou le *suivi du diabète* (voir ci-dessous) ne montrent pas de signes d'amélioration à la hauteur du temps de formation consacré. Plus simplement, 30% des diabétiques traités en monothérapie n'avaient pas de metformine en 2019 (*Assurance Maladie. Charges et Produits 2019*).
 
-> Si un schéma ne donne pas les résultats escomptés, il faut en chercher d’autres
+> Si un schéma ne donne pas les résultats escomptés, il faut en chercher d'autres
 
 <figure class="figure border alert mb-4">
   <div id="chart"></div>
@@ -519,19 +519,19 @@ Proportion de personnes diabétiques traitées pharmacologiquement ayant bénéf
 ### Un texte ne suffit pas
 
 Initialement sur mon stockage personnel, mes fiches textes ne me permettaient pas de répondre à la complexité croissante de la médecine moderne: des scores, des arbres de décisions se décrivent difficilement avec des mots.  
-Cette limitation est récurrente sur les sites existants, pourtant d’une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net/), [doctofiche](https://doctofiche.fr/), [HEYDoctor](https://wiki.heydoctor.fr/fr/index), [Medix](http://www.medix.free.fr/), [Ordotype](https://www.ordotype.fr/), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil), [WeLinkCare](https://www.welinkcare.com/) ...
+Cette limitation est récurrente sur les sites existants, pourtant d'une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net/), [doctofiche](https://doctofiche.fr/), [HEYDoctor](https://wiki.heydoctor.fr/fr/index), [Medix](http://www.medix.free.fr/), [Ordotype](https://www.ordotype.fr/), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil), [WeLinkCare](https://www.welinkcare.com/) ...
 
 ## Objectifs du Projet
 
-Le projet << Recommandations Médicales >> vise à produire un démonstrateur de plateforme informatique **permettant à tous les généralistes d’accéder rapidement aux informations médicales les plus récentes nécessaires à chaque prise en charge**.
+Le projet << Recommandations Médicales >> vise à produire un démonstrateur de plateforme informatique **permettant à tous les généralistes d'accéder rapidement aux informations médicales les plus récentes nécessaires à chaque prise en charge**.
 
-Le démonstrateur doit être **hautement interactif, simple d’emploi, gratuit et Open Source**.
+Le démonstrateur doit être **hautement interactif, simple d'emploi, gratuit et Open Source**.
 
 Le **contenu** de la plateforme opérationnelle suivant le démonstrateur devra être **validé** par les autorités médicales et/ou spécialistes respectifs, et **tenu à jour en permanence**.
 
-**L’effort pourra alors être principalement consacré à la création, la validation et la mise à jour du contenu médical de la plateforme opérationnelle, ainsi qu’à sa maintenance.**
+**L'effort pourra alors être principalement consacré à la création, la validation et la mise à jour du contenu médical de la plateforme opérationnelle, ainsi qu'à sa maintenance.**
 
-**Cette plateforme pourrait également être utile à la formation permanente et/ou au retour d’expérience.**
+**Cette plateforme pourrait également être utile à la formation permanente et/ou au retour d'expérience.**
 
 ## Résultats actuels et moyens mis en œuvre
 
@@ -548,7 +548,7 @@ Il faut noter que le développement du démonstrateur a demandé un effort limit
 
 ## Remerciements
 
-Je tiens ici à remercier tous ceux qui m’ont soutenu dans ce projet, mon épouse médecin généraliste, les spécialistes qui ont bien voulu vérifier et valider les différentes fiches, et tous ceux qui m’ont aidé, conseillé et encouragé.
+Je tiens ici à remercier tous ceux qui m'ont soutenu dans ce projet, mon épouse médecin généraliste, les spécialistes qui ont bien voulu vérifier et valider les différentes fiches, et tous ceux qui m'ont aidé, conseillé et encouragé.
 
 Je vous remercie pour votre attention,
 {.mt-5}

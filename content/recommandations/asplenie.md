@@ -110,7 +110,7 @@ ACT-HIB® dose unique.
 
 1 dose annuelle au moment de la campagne annuelle de vaccination.
 
-> Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques (sauf les vaccins vivants en cas d’immunosuppression). *[HCSP 2014](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)*
+> Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques (sauf les vaccins vivants en cas d'immunosuppression). *[HCSP 2014](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)*
 
 ### Vaccination de l'entourage
 

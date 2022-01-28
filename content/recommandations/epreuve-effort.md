@@ -182,8 +182,8 @@ Répéter tous les 1-2 ans pour évaluer la réponse tensionnelle et l'efficacit
 #### Insuffisance cardiaque {.typography-headline-6 .mt-5}
 
 Épreuve d'effort recommandée
-: Pour optimiser l’entraînement à l’effort (EEVO<sub>2</sub>).
-: Pour évaluer la capacité fonctionnelle et préciser l’indication d’une assistance ventriculaire ou transplantation cardiaque (EEVO<sub>2</sub>).
+: Pour optimiser l'entraînement à l'effort (EEVO<sub>2</sub>).
+: Pour évaluer la capacité fonctionnelle et préciser l'indication d'une assistance ventriculaire ou transplantation cardiaque (EEVO<sub>2</sub>).
 
 Épreuve d'effort doit être envisagée
 : Dyspnée inexpliquée ou ischémie myocardique (EEVO<sub>2</sub>).
@@ -321,7 +321,7 @@ ou débutant une activité intense (> 6 METs)
 
 - SCA ST+ ou ST- (< 2 jours)
 - Trouble du rythme sévère ou mal toléré
-- Obstruction sévère ou symptomatique à l’éjection ventriculaire gauche
+- Obstruction sévère ou symptomatique à l'éjection ventriculaire gauche
 - Insuffisance cardiaque décompensée
 - Thrombose veineuse aiguë ± embolie pulmonaire
 - Myocardite, péricardite ou endocardite aiguës
@@ -341,7 +341,7 @@ ou débutant une activité intense (> 6 METs)
 - Cardiomyopathie obstructive avec gradient de repos élevé
 - État clinique mal contrôlé (anémie marquée, trouble électrolytique significatif, une hyperthyroïdie…)
 - Manque de coopération de la part du patient
-- PA > 200/110 mmHg (voire moins selon l’âge du patient)
+- PA > 200/110 mmHg (voire moins selon l'âge du patient)
 
 {{% /collapse %}}
 {{%sources%}}

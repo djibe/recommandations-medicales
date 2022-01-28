@@ -135,7 +135,7 @@ Ou TROD VHC au plus près du patient (remboursé à 100%).
 Systématique lorsque 2 sérologies sont positives (ou 1 TROD+ + 1 sérologie+).  
 [Remboursée à 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=4124&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI).
 
-> "la recherche du génotype du VHC n’est pas nécessaire." (*AFEF*)
+> "la recherche du génotype du VHC n'est pas nécessaire." (*AFEF*)
 
 ### Bilan si diagnostic positif
 
@@ -193,7 +193,7 @@ Le traitement antiviral peut être prescrit par tout médecin pour maximiser les
 - Observance maximale du traitement
 - Proscrire toute interaction avec les antiviraux ([Outil en ligne HEP Drug Interactions](https://www.hep-druginteractions.org/checker))  
 Enquête sur l'automédication+++.
-- Aucune consommation de pamplemousse ou d’orange sanguine pendant le traitement
+- Aucune consommation de pamplemousse ou d'orange sanguine pendant le traitement
 - Éviter toute consommation d'alcool
 - Lutte contre surpoids/obésité
 - Équilibre strict d'un diabète
@@ -303,7 +303,7 @@ graph TB
   - Importance de l'observance
   - Effets indésirables des traitements
   - Persistance d'une sérologie positive à vie
-  - Aucune consommation de pamplemousse ou d’orange sanguine pendant le traitement
+  - Aucune consommation de pamplemousse ou d'orange sanguine pendant le traitement
 - Contrôle des comorbidités
 - Contrôle des addictions
 - Nécessité de prévenir tous les sujets avec contact à risque

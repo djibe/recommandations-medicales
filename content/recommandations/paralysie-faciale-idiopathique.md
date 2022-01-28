@@ -120,7 +120,7 @@ L'examen du **côté paralysé** retrouve:
   - Chute de la commissure labiale
   - Impossibilité de siffler et gonfler les joues
 - Autres atteintes:
-  - Agueusie des 2/3 antérieurs de l’hémilangue
+  - Agueusie des 2/3 antérieurs de l'hémilangue
   - Hypoesthésie de la zone de Ramsay Hunt (conque de l'oreille, CAE)
   - Hyperacousie douloureuse (abolition du réflex stapédien)
 - {{< modal-btn score-house >}}Score de House-Brackmann{{< /modal-btn >}}  
@@ -284,7 +284,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
-- [SFORL. Prise en charge de la Paralysie Faciale Idiopathique à la phase aiguë chez l’adulte. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-de-la-Paralysie-Faciale-Idiopathique-%C3%A0-la-phase-aigu%C3%AB-chez-l-adulte-2020.pdf)
+- [SFORL. Prise en charge de la Paralysie Faciale Idiopathique à la phase aiguë chez l'adulte. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-de-la-Paralysie-Faciale-Idiopathique-%C3%A0-la-phase-aigu%C3%AB-chez-l-adulte-2020.pdf)
 - [Collège des enseignants de neurologie. Paralysie faciale.](https://www.cen-neurologie.fr/deuxieme-cycle/paralysie-faciale)
 
 {{%/sources%}}

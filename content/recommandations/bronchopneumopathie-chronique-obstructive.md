@@ -41,7 +41,7 @@ Principal facteur du déclin du VEMS.
 {{%collapse "Définitions" %}}
 
 Bronchopneumopathie chronique obstructive (BPCO)
-: Maladie respiratoire chronique définie par des symptômes respiratoires persistants avec une obstruction permanente et progressive des voies aériennes et/ou alvéolaires causée par l’exposition à des particules ou gaz toxiques.
+: Maladie respiratoire chronique définie par des symptômes respiratoires persistants avec une obstruction permanente et progressive des voies aériennes et/ou alvéolaires causée par l'exposition à des particules ou gaz toxiques.
 : Le diagnostic est *spirométrique* avec un *trouble ventilatoire obstructif* (VEMS/CVF < 0,7) non réversible.
 : Les symptômes respiratoires les plus fréquents sont: dyspnée, toux et/ou expectorations. Ils sont sous-rapportés par les patients et 3/4 des cas ne sont pas diagnostiqués.
 : Le tabagisme est la 1<sup>re</sup> cause (90%) suivie par l'expositions aux fumées.
@@ -58,17 +58,17 @@ Exacerbation de BPCO (EABPCO)
     - **Sévère**: passage aux urgences ou hospitalisation
 
 Bronchite chronique
-: Abandonnée par le GOLD car n’est présente que chez une minorité de patients atteints de BPCO.
+: Abandonnée par le GOLD car n'est présente que chez une minorité de patients atteints de BPCO.
 
 Emphysème
-: N’est qu’une petite composante de la BPCO.  
+: N'est qu'une petite composante de la BPCO.  
 Le diagnostic est anatomique: élargissement permanent anormal des espaces aériens en-dessous des bronchioles terminales associé à la destruction des parois alvéolaires.
 2 types d'emphysème mais souvent associés: pan et centro-lobulaire.  
-Surtout révélé par une dyspnée limitant l’activité (< 65 ans +++).
+Surtout révélé par une dyspnée limitant l'activité (< 65 ans +++).
 
 Insuffisance respiratoire chronique
-: Incapacité permanente de l’appareil respiratoire à assurer une *hématose* (échanges gazeux pulmonaires) normale au repos.
-: La définition est *gazométrique*: PaO<sub>2</sub> < 70 mmHg sur 2 gaz du sang artériels en état stable à ≥ 3 mois d’intervalle.  
+: Incapacité permanente de l'appareil respiratoire à assurer une *hématose* (échanges gazeux pulmonaires) normale au repos.
+: La définition est *gazométrique*: PaO<sub>2</sub> < 70 mmHg sur 2 gaz du sang artériels en état stable à ≥ 3 mois d'intervalle.  
 *Grave* si PaO<sub>2</sub> ≤ 55 mmHg ou < 60 si *polyglobulie* ou *insuffisance cardiaque droite* associée.
 
 ### Abréviations
@@ -143,7 +143,7 @@ Silice, charbon, moisissures, gaz, vapeurs, fumées.
 {{%info%}}
 La clinique est antagoniste de l'asthme (sauf tabagisme associé):
 
-Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme nécessitant un effort pour inspirer, une pression thoracique, un manque d’air ou un halètement, toux productive chronique (30%), essoufflement nocturne avec sifflements rare, variabilité significative (> 400 mL) nycthémérale rare.
+Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme nécessitant un effort pour inspirer, une pression thoracique, un manque d'air ou un halètement, toux productive chronique (30%), essoufflement nocturne avec sifflements rare, variabilité significative (> 400 mL) nycthémérale rare.
 {{%/info%}}
 
 ### Interrogatoire
@@ -473,10 +473,10 @@ Si récupération incomplète: spirométrie à 3 mois.
 - Savoir quand appeler son médecin généraliste ou son pneumologue
 - Ajuster le traitement bronchodilatateur aux symptômes
 - Proposer un traitement antibiotique court et parfois un corticoïde oral pour rester à domicile si:
-  - le patient a eu une exacerbation dans l’année précédente et reste à risque d’exacerbations
+  - le patient a eu une exacerbation dans l'année précédente et reste à risque d'exacerbations
   - il comprend et sait quand et comment prendre les traitements, leurs risques et
 bénéfices
-  - il sait en parler à son médecin pour qu’il les renouvelle
+  - il sait en parler à son médecin pour qu'il les renouvelle
 - Prendre l'antibiotique lorsque les expectorations sont purulentes, augmentées en volume ou très épaissies
 - Savoir consulter ou rapprocher les séances de drainage bronchiques avec le kiné, connaître les méthodes d'auto-drainage et avoir une ordonnance d'avance
 - Connaître les critères justifiant le recours aux urgences: dyspnée de repos, cyanose, œdèmes des membres inférieurs, troubles de la conscience. Connaître les numéros d'urgence.
@@ -546,16 +546,16 @@ graph TB
 [Carnet de suivi en ligne de la BPCO par la SPLF](http://www.carnet-bpco.fr/)  
 [Carnet de suivi à imprimer de la BPCO par la SPLF (PDF)](https://splf.fr/wp-content/uploads/2016/03/Carnet-de-suivi_BPCO-SPLF-r-ouvert.pdf)
 
-- Explication de la BPCO: l’acronyme, la maladie et ses symptômes
-- Conseils pour arrêter de fumer (tabac, cannabis) et son intérêt pour l’évolution de la maladie
+- Explication de la BPCO: l'acronyme, la maladie et ses symptômes
+- Conseils pour arrêter de fumer (tabac, cannabis) et son intérêt pour l'évolution de la maladie
 - Conseils pour éviter le tabagisme passif et les aéropolluants professionnels
 - Gestion de la dyspnée
-- Importance et modalités d’une activité physique régulière, intégrée dans sa vie quotidienne
+- Importance et modalités d'une activité physique régulière, intégrée dans sa vie quotidienne
 - Intérêt de la réhabilitation respiratoire (le cas échéant)
 - Intérêt du traitement médicamenteux et de sa gestion optimale
-  - Compréhension de l’action des médicaments
+  - Compréhension de l'action des médicaments
   - Enjeu de la bonne adhésion aux traitements prescrits
-  - Bonne technique d’utilisation des dispositifs d’inhalation
+  - Bonne technique d'utilisation des dispositifs d'inhalation
 - Importance des vaccinations
 - Alimentation équilibrée adaptée aux besoins nutritionnels
 - Évolution de sa maladie: risque de comorbidités et de complications
@@ -583,11 +583,11 @@ graph TB
 - Prescrire Redaction. Questionner sa pratique : préserver la qualité de vie des patients souffrant de BPCO. Rev Prescrire 2020
 - Prescrire Redaction. Bronchopneumopathie chronique obstructive - Premiers Choix Prescrire, actualisation juillet 2020. Rev Prescrire 2020
 - [HAS. Patients à risque ou atteints de BPCO. Indicateurs de qualité du parcours de soins. 30/01/2020.](https://www.has-sante.fr/jcms/p_3151500/fr/patients-a-risque-ou-atteints-de-bronchopneumopathie-chronique-obstructive-bpco-indicateurs-de-qualite-du-parcours-de-soins)
-- [Marques C et al. Évolution des connaissances de la bronchopneumopathie chronique obstructive après la campagne nationale du 31 mai 2019 : résultats d’une évaluation avant/après. Synthèse. Santé publique France ; 2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bpco-et-insuffisance-respiratoire-chronique/documents/rapport-synthese/evolution-des-connaissances-de-la-bronchopneumopathie-chronique-obstructive-apres-la-campagne-nationale-du-31-mai-2019-resultats-d-une-evaluation)
+- [Marques C et al. Évolution des connaissances de la bronchopneumopathie chronique obstructive après la campagne nationale du 31 mai 2019 : résultats d'une évaluation avant/après. Synthèse. Santé publique France ; 2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bpco-et-insuffisance-respiratoire-chronique/documents/rapport-synthese/evolution-des-connaissances-de-la-bronchopneumopathie-chronique-obstructive-apres-la-campagne-nationale-du-31-mai-2019-resultats-d-une-evaluation)
 - [HAS. Bronchopneumopathie chronique obstructive. Guide du parcours de soins. Novembre 2019.](https://www.has-sante.fr/jcms/c_1242507/fr/guide-du-parcours-de-soins-bronchopneumopathie-chronique-obstructive-bpco)
 - [Santé Publique France. BPCO et insuffisance respiratoire chronique. 27/06/2019.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bpco-et-insuffisance-respiratoire-chronique)
 - [Jouneau S. et al. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017. FR, EN. (PDF)](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
-- [Zysman M. et al. Propositions de la SPLF pour l’optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016. (PDF)](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
+- [Zysman M. et al. Propositions de la SPLF pour l'optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016. (PDF)](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
 
 {{%/sources%}}
 <!-- Scores -->

@@ -28,14 +28,14 @@ Dysphonie, hyper-salivation et troubles de la déglutition.
 - Anti-histaminique anti-H1 seul
 - Bilan uniquement en urticaire chronique résistant
 - **Une** urticaire et un **é**dème {{%class%}}(œdème){{%/class%}}
-- Pour l'enfant, lire [Urticaire aiguë de l’enfant](https://pap-pediatrie.fr/urticaire-aigue-de-lenfant)
+- Pour l'enfant, lire [Urticaire aiguë de l'enfant](https://pap-pediatrie.fr/urticaire-aigue-de-lenfant)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Urticaire
 : Dermatose inflammatoire caractérisée par les lésions papuleuses, œdémateuses prurigineuses bien limitées en petits éléments ou confluants en **larges plaques fugaces, migratrices et prurigineuses**.
-: Réaction inflammatoire générée par la libération d’histamine par les mastocytes lors de leur rencontre avec un antigène.  
+: Réaction inflammatoire générée par la libération d'histamine par les mastocytes lors de leur rencontre avec un antigène.  
 Le plus souvent l'activation est non spécifique et donc non allergique. Rarement par IgE dirigées contre un antigène = urticaire immunologique pouvant déclencher une anaphylaxie.
 : Le plus souvent épisode unique et résolutif sans cicatrice ni lésion de grattage.
 : Vient d'"urtica", ortie en latin.
@@ -47,7 +47,7 @@ Urticaire profonde
 : Aussi appelée **angio-œdème** voire **œdème de Quicke** en atteinte pharyngée. Souvent associée à la forme superficielle.
 : L'atteinte est *dermo-hypodermique* donnant une tuméfaction ferme, mal limitée, non prurigineuse (paupières et lèvres).  
 Le pronostic vital est engagé en manifestations ORL (dysphonie, troubles de la déglutition).
-: Angio-œdème du visage: cause alimentaire chez l’enfant, médicamenteuse chez l’adulte.
+: Angio-œdème du visage: cause alimentaire chez l'enfant, médicamenteuse chez l'adulte.
 
 Urticaire chronique (UC)
 : Poussées d'urticaire, le plus souvent quotidiennes, évoluant depuis **plus de 6 semaines**.
@@ -57,7 +57,7 @@ Peut être grave lorsqu'un angio-œdème laryngé ou digestif est associé.
 
 Urticaire cholinergique
 : Ou *urticaire réflexe à la chaleur*.
-: Survenue lors d'une exposition à la chaleur, à l’effort ou une émotion, de durée brève (< 30 minutes).  
+: Survenue lors d'une exposition à la chaleur, à l'effort ou une émotion, de durée brève (< 30 minutes).  
 Siège principalement sur le tronc et déclenchée par chaleur, sudation, émotion ou efforts.  
 Test de provocation par exercice physique avec sudation.
 
@@ -221,7 +221,7 @@ Phototests standardisés.
 - Angio-œdèmes chroniques ou récidivants isolés sans lésion superficielle  
 Déficit en inhibiteur de la C1 estérase.
 - Angio-œdème chronique localisé de la face inexpliqué  
-Absence de  prise d’IEC/sartans, AINS/aspirine:  
+Absence de  prise d'IEC/sartans, AINS/aspirine:  
 Panoramique dentaire, scanner des sinus.
 - Urticaire atypique (fixe, peu prurigineuse) ou signes cutanés (livedo, nodules, purpura ...)  
 Biopsie cutanée.
@@ -326,7 +326,7 @@ Gruyère, emmental, beaufort, gouda, cheddar.
 - **Fraise**, agrumes, banane, ananas, fruits exotiques
 - Fruits à coque  
 Cacahuète, noix, noisette.
-- Blanc d’œuf en quantité importante
+- Blanc d'œuf en quantité importante
 - Épices (aliments très épicés), sauce Nuoc Man
 - Abus de caféine ou thé
 
@@ -396,7 +396,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Hôpital Necker. Facteurs susceptibles d’induire la dégranulation mastocytaire.](http://www.maladiesrares-necker.aphp.fr/facteurs-susceptibles-dinduire-la-degranulation-mastocytaire/)
+- [Hôpital Necker. Facteurs susceptibles d'induire la dégranulation mastocytaire.](http://www.maladiesrares-necker.aphp.fr/facteurs-susceptibles-dinduire-la-degranulation-mastocytaire/)
 - [Collège des Enseignants d'Immunologie de Langue Française. Item 114 : Urticaire et œdème de Quincke : diagnostic, étiologie, traitement. 2011. (PDF)](http://campus.cerimes.fr/immunologie/enseignement/immuno_114a/site/html/cours.pdf)
 - [Dermato-info. L'urticaire.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99urticaire)
 - [ANAES/SFDermato. Conférence de consensus - Prise en charge de l'urticaire chronique. 2003. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/urticaire_court.pdf)

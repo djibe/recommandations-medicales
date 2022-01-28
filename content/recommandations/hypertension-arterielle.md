@@ -305,7 +305,7 @@ Cible < 94 cm homme et 80 cm femme.
 - {{%modal-btn "modal-rcv"%}}LDL cible selon le risque cardiovasculaire{{%/modal-btn%}}
 - Pas de bénéfice avec l'aspirine en prévention primaire
 - Associations de patients  
-[Comité Français de Lutte Contre l’Hypertension Artérielle (CFLCHTA)](http://www.comitehta.org/), [Fédération Française de Cardiologie](https://fedecardio.org/).
+[Comité Français de Lutte Contre l'Hypertension Artérielle (CFLCHTA)](http://www.comitehta.org/), [Fédération Française de Cardiologie](https://fedecardio.org/).
 
 > *ESC 2018*
 

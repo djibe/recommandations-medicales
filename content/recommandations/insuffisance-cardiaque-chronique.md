@@ -447,7 +447,7 @@ Comprendre les causes de l'IC, les symptômes et l'évolution.
   - Comprendre les indications, les bénéfices, les doses et les effets indésirables des médicaments
   - Reconnaître les effets indésirables courants de chaque médicament prescrit
 - Modification des facteurs de risque
-  - Importance de l’arrêt du tabac (et cigarette électronique)
+  - Importance de l'arrêt du tabac (et cigarette électronique)
   - Automesure tensionnelle, fréquence cardiaque
   - Obtenir un bon contrôle de la glycémie en cas de diabète
   - Contrôle d'une obésité
@@ -458,8 +458,8 @@ Comprendre les causes de l'IC, les symptômes et l'évolution.
   - Arrêter voire réduire l'alcool
   - Évaluation diététique pour surveiller et prévenir la malnutrition
 - Activité physique
-  - Vaincre les réticences à l’activité physique
-  - Comprendre les bénéfices de l’exercice
+  - Vaincre les réticences à l'activité physique
+  - Comprendre les bénéfices de l'exercice
   - Importance de l'activité physique quotidienne de 30 minutes  
   Min 20 min x 3/sem en ciblant une dyspnée légère à modérée.
   - Effets de l'altitude sur la respiration
@@ -471,16 +471,16 @@ permettant de les surmonter
 - Vaccination grippe + pneumocoque
 - Troubles du sommeil et de la respiration
   - Correction des FRCV, obésité, alcool
-  - S’informer des options thérapeutiques si approprié
+  - S'informer des options thérapeutiques si approprié
 - Observance  
-Comprendre l’importance du respect des recommandations thérapeutiques et
-d’une motivation soutenue à suivre le plan de soins.
+Comprendre l'importance du respect des recommandations thérapeutiques et
+d'une motivation soutenue à suivre le plan de soins.
 - Psychologie
   - Comprendre que la dépression et les troubles cognitifs sont fréquents et que
-l’accompagnement social est important
-  - S’informer des options thérapeutiques si approprié
+l'accompagnement social est important
+  - S'informer des options thérapeutiques si approprié
 - Pronostic
-  - Comprendre l’importance des facteurs pronostiques et prendre des décisions
+  - Comprendre l'importance des facteurs pronostiques et prendre des décisions
 réalistes
   - Chercher un soutien psychosocial si approprié
 

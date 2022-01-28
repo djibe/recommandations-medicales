@@ -61,7 +61,7 @@ Nécessité de bilan biologique en urgence{{%/warning%}}
 
 Ou chez le nourrisson: ictère néonatal.
 
-Le diagnostic repose sur le dosage quantitatif spectrophotométrique de l’activité enzymatique érythrocytaire.  
+Le diagnostic repose sur le dosage quantitatif spectrophotométrique de l'activité enzymatique érythrocytaire.  
 Consultation de génétique avec conseil familial.
 
 {{% /collapse %}}
@@ -99,7 +99,7 @@ Seul élément à mentionner sur le PAI, il porte la carte spécifique sur lui.{
 
 - Fèves *Vicia faba* (d'où le nom favisme)
 - Boissons contenant de la quinine
-- Préparations à base d’extraits de plantes
+- Préparations à base d'extraits de plantes
 - Compléments alimentaires à base de vitamine C
 - Poppers
 - Naphtalène des boules anti-mites

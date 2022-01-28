@@ -36,10 +36,10 @@ Vacciner les enfants dans l'ordre suivant, en priorité les < 5 ans:
 - Avant la sortie de la maternité en Guyane ou à Mayotte
 - Enfant né dans un pays de forte endémie
 - Enfant avec ≥ 1 parent originaire de pays de forte endémie
-- Enfant devant séjourner ≥ 1 mois d’affilée en pays de forte endémie
+- Enfant devant séjourner ≥ 1 mois d'affilée en pays de forte endémie
 - Enfant ayant un cas récent (< 5 ans) de tuberculose dans son entourage
-- Enfant dans toute situation jugée par le médecin à risque d’exposition au bacille tuberculeux  
-Logement (habitat précaire ou surpeuplé), socio-économiques (AME, CMU/CSS) ou en contact régulier avec des adultes originaires d’un pays de forte endémie.
+- Enfant dans toute situation jugée par le médecin à risque d'exposition au bacille tuberculeux  
+Logement (habitat précaire ou surpeuplé), socio-économiques (AME, CMU/CSS) ou en contact régulier avec des adultes originaires d'un pays de forte endémie.
 - 2<sup>e</sup> niveau: enfant < 5 ans habitant en Île-de-France
 - 3<sup>e</sup> niveau: enfant de 5 à 15 ans avec facteur de risque de tuberculose identifié (après test tuberculinique)
 

@@ -34,7 +34,7 @@ Hypertrophie bénigne de la prostate (HBP)
 : Augmentation bénigne du volume de la prostate liée à l'âge.
 : 1<sup>re</sup> cause de symptômes du bas appareil urinaire (SBAU) chez l'homme ≥ 50 ans. < 1/3 des hommes sont gênés à 70 ans.
 : **Complications chroniques:** vessie de lutte, lithiase vésicale de stase et insuffisance rénale chronique obstructive.
-: **Complications aiguës:** rétention aiguë d’urines, infections urogénitales, hématurie et insuffisance rénale aiguë obstructive.
+: **Complications aiguës:** rétention aiguë d'urines, infections urogénitales, hématurie et insuffisance rénale aiguë obstructive.
 
 {{%info%}}
 Aucun parallélisme entre la symptomatologie obstructive ou irritative et le volume prostatique
@@ -58,7 +58,7 @@ Le diagnostic d'hypertrophie bénigne de prostate est clinique.
 - Tabagisme
 - Recherche de complications  
 Rétention aiguë d'urines, infection urinaire récidivante, hématurie macroscopique, diverticule vésical symptomatique, lithiase vésicale.
-- Terminologie selon l’International Continence Society (ICS):
+- Terminologie selon l'International Continence Society (ICS):
   - Phase de remplissage  
 Pollakiurie diurne et nocturne, urgenturie (impériosité mictionnelle), nycturie.
   - Phase mictionnelle  
@@ -100,9 +100,9 @@ Bilan recommandé en 1<sup>re</sup> intention (*EAU 2017*):
 - Échographie (réno)-vésico-prostatique  
 Échographie rénale si volumineux résidu post-mictionnel, hématurie ou antécédents de lithiase urologique.
 - Urétéroscopie  
-Indications: antécédents d’hématurie (micro ou macro), de rétrécissement urétral ou de cancer de vessie.
+Indications: antécédents d'hématurie (micro ou macro), de rétrécissement urétral ou de cancer de vessie.
 
-Le bilan urodynamique est réservé à l’urologue.
+Le bilan urodynamique est réservé à l'urologue.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'HBP" %}}
@@ -112,8 +112,8 @@ Pas de supériorité d'un traitement médical par rapport à un autre.
 
 ### Mesures hygiéno-diététiques
 
-- Réduction des apports hydriques après 18h ou avant d’aller dans les lieux publics
-- Réduire les consommations d’alcool et de café
+- Réduction des apports hydriques après 18h ou avant d'aller dans les lieux publics
+- Réduire les consommations d'alcool et de café
 - Traitement de constipation associée
 - Arrêt des traitements favorisants (anticholinergiques, neuroleptiques) et décalage des traitements (ex. diurétiques)
 - Drainage urétral en fin de miction
@@ -128,7 +128,7 @@ Indication: symptômes légers ou acceptables (score IPSS ≤ 7-8) avec gêne mi
 ### Phytothérapie
 
 Ne peut être associée aux autres traitements.  
-{{%class%}}Chaque formulation est très différente empêchant des études de qualité. L’EAU 2017 ne peut se prononcer.{{%/class%}}
+{{%class%}}Chaque formulation est très différente empêchant des études de qualité. L'EAU 2017 ne peut se prononcer.{{%/class%}}
 
 - Pygeum Africanum (Tadenan®, Prunier d'Afrique gén)
 - Secale cerale
@@ -198,7 +198,7 @@ Prostate > 80 mL.
 {{%sources%}}
 
 - [Gravas S. et al, European Association of Urology. Management of Non-neurogenic Male LUTS. 2021.](https://uroweb.org/guideline/treatment-of-non-neurogenic-male-luts/)
-- Association Française d’Urologie. Descazeaud A. & al. Bilan initial, suivi et traitements des troubles mictionnels en rapport avec hyperplasie bénigne de la prostate. 1er octobre 2012
+- Association Française d'Urologie. Descazeaud A. & al. Bilan initial, suivi et traitements des troubles mictionnels en rapport avec hyperplasie bénigne de la prostate. 1er octobre 2012
 - AFU. Item 123. Hypertrophie bénigne de la prostate
 - HAS. Mai 2013. Détection précoce du cancer de la prostate
 

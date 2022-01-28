@@ -65,7 +65,7 @@ Indice de Breslow, de Clark, ulcération, index mitotique, emboles vasculaires.
 {{%class%}}47% de femmes. Incidence en augmentation de 10 %/an depuis 50 ans.{{%/class%}}
 - Âge moyen au diagnostic: 56 ans.
 - Décès annuels: 1783 en 2017  
-{{%class%}}58% d’hommes. 1,2% des décès par cancer.{{%/class%}}
+{{%class%}}58% d'hommes. 1,2% des décès par cancer.{{%/class%}}
 - **Survie à 5 ans:** 88% en stade localisé versus 18% si métastatique.
 - 80% surviennent de novo sur peau saine et 20% sur nævus pré-existant.
 - 10% des mélanomes sont familiaux (≥ 2 personnes atteintes dans une famille).
@@ -259,12 +259,12 @@ En cas de suspicion de récidive, le patient doit être ré-adressé à l'équip
 ### Compétences à acquérir
 
 - Comprendre sa maladie, les traitements et leurs effets indésirables éventuels, assimiler les méthodes appropriées de protection solaire.
-- Effectuer le dépistage d’un nouveau mélanome et la détection d’une récidive (méthode d’auto-examen cutané et ganglionnaire).
-- Souligner l’intérêt d’un examen clinique cutané auprès des membres de sa parenté du premier degré (parents, enfants, fratrie).
+- Effectuer le dépistage d'un nouveau mélanome et la détection d'une récidive (méthode d'auto-examen cutané et ganglionnaire).
+- Souligner l'intérêt d'un examen clinique cutané auprès des membres de sa parenté du premier degré (parents, enfants, fratrie).
 - Améliorer son adhésion au traitement ambulatoire en particulier pour mieux soulager les symptômes
-- Participer à la planification du suivi et d’accepter son observance après le traitement (nécessité de contrôles réguliers)
+- Participer à la planification du suivi et d'accepter son observance après le traitement (nécessité de contrôles réguliers)
 - Impliquer selon les cas son entourage dans la gestion de la maladie, des traitements et des répercussions qui en découlent
-- Recourir si besoin à des modalités d’accompagnement psychologique appropriées.
+- Recourir si besoin à des modalités d'accompagnement psychologique appropriées.
 
 > *HAS 2006*
 
@@ -297,6 +297,6 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 - [INCa. Détection précoce des cancers de la peau - Médecins généralistes. Octobre 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Detection-precoce-des-cancers-de-la-peau-Medecins-generalistes)
 - [HAS. Mélanome cutané. Janvier 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-03/ald_30_guide_melanome_web.pdf)
 - [Collège National des Enseignants de Dermatologie. Item 149 : Tumeurs cutanées épithéliales et mélaniques : mélanomes. 2011. (PDF)](http://campus.cerimes.fr/dermatologie/enseignement/dermato_26/site/html/cours.pdf)
-- [SFDermato. Recommandations pour la Pratique Clinique : Standards, Options et Recommandations 2005 pour la prise en charge des patients adultes atteints d’un mélanome cutané MO. Décembre 2005. (PDF)](https://www.oncoderm.fr/upload/recommandations/9738-Prise-en-charge-des-meAlanome.pdf)
+- [SFDermato. Recommandations pour la Pratique Clinique : Standards, Options et Recommandations 2005 pour la prise en charge des patients adultes atteints d'un mélanome cutané MO. Décembre 2005. (PDF)](https://www.oncoderm.fr/upload/recommandations/9738-Prise-en-charge-des-meAlanome.pdf)
 
 {{%/sources%}}

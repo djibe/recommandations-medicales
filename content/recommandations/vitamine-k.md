@@ -46,7 +46,7 @@ Vitamine K1
 ### Enfant né à terme
 
 - En cas de sortie précoce de maternité (48h), la 2<sup>e</sup> ampoule peut être administrée avant la sortie
-- En allaitement artificiel, la 3<sup>e</sup> ampoule n’est pas obligatoire
+- En allaitement artificiel, la 3<sup>e</sup> ampoule n'est pas obligatoire
 
 ### Autres situations
 

@@ -101,7 +101,7 @@ Questions pour dépister une consommation à risque:
 - Définir des objectifs
   - Expliquer les méthodes utilisables pour réduire/arrêter sa consommation
   - Proposer des objectifs et laisser le choix
-  - Évaluer la motivation, le bon moment et la confiance dans la réussite de la réduction ou de l’arrêt de la consommation
+  - Évaluer la motivation, le bon moment et la confiance dans la réussite de la réduction ou de l'arrêt de la consommation
   - Donner la possibilité de réévaluer dans une autre consultation
 - Orienter
   - Remettre une brochure, orienter vers un site, une application, une association, aide à distance...
@@ -125,7 +125,7 @@ De 0 à 10, évaluer:
 {{%collapse "Sevrage en alcool et maintien de l'abstinence" %}}
 
 - Consultation d'addictologie
-- Centre de cure ambulatoire et d’alcoologie le plus proche (CCAA)
+- Centre de cure ambulatoire et d'alcoologie le plus proche (CCAA)
 - Équipe de liaison en addictologie
 - Livret d'information  
 Maladie alcoolique, sevrage, intérêt de l'accompagnement, coordonnées des acteurs.
@@ -183,7 +183,7 @@ Repères pour maintenir une consommation à bas risque:
 
 Autres messages essentiels, à chaque occasion de consommation:
 
-- Réduire la quantité totale d’alcool que vous buvez à chaque occasion
+- Réduire la quantité totale d'alcool que vous buvez à chaque occasion
 - Boire lentement, en mangeant et en alternant avec de l'eau
 - Éviter les lieux et les activités à risque
 - S'assurer que vous avez des personnes que vous connaissez près de vous et que vous pouvez rentrer chez vous en toute sécurité
@@ -202,7 +202,7 @@ L'option la plus sûre est de ne pas consommer d'alcool en cas de:
 
 ### Adolescents et enfants
 
-<< Pour limiter les risques pour votre santé, l'option la plus sûre est de ne pas consommer d’alcool. >>
+<< Pour limiter les risques pour votre santé, l'option la plus sûre est de ne pas consommer d'alcool. >>
 
 > *Addictions France 2018*
 
@@ -226,7 +226,7 @@ L'option la plus sûre est de ne pas consommer d'alcool en cas de:
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS. Outil d’aide au repérage précoce et intervention brève : alcool, cannabis, tabac chez l’adulte. Janvier 2021.](https://www.has-sante.fr/jcms/c_1795221/fr/outil-d-aide-au-reperage-precoce-et-intervention-breve-alcool-cannabis-tabac-chez-l-adulte)
+- [HAS. Outil d'aide au repérage précoce et intervention brève : alcool, cannabis, tabac chez l'adulte. Janvier 2021.](https://www.has-sante.fr/jcms/c_1795221/fr/outil-d-aide-au-reperage-precoce-et-intervention-breve-alcool-cannabis-tabac-chez-l-adulte)
 - [Addictions France. Les repères de consommation des boissons alcooliques. Novembre 2018. (PDF)](https://addictions-france.org/datafolder/uploads/2021/02/Fiche-Reperes-Reperes-alcool.pdf)
 - [ANAES, SFA. Modalités de l'accompagnement du sujet alcoolodépendant après un sevrage. 2001.](https://www.has-sante.fr/jcms/c_271905/fr/modalites-de-l-accompagnement-du-sujet-alcoolodependant-apres-un-sevrage)
 - [Santé Publique France. Alcool.](https://www.santepubliquefrance.fr/determinants-de-sante/alcool)

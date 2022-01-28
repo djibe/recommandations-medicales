@@ -145,7 +145,7 @@ ASAT, ALAT, GGT, PAL, bilirubine totale.
 - Échographie abdominale
 {{%/info%}}
 
-La biopsie cutanée n’est pas indiquée si aucune lésion clinique. En pratique chez le sujet âgé , le dosage des anticorps anti-membrane basale est fréquent.
+La biopsie cutanée n'est pas indiquée si aucune lésion clinique. En pratique chez le sujet âgé , le dosage des anticorps anti-membrane basale est fréquent.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}

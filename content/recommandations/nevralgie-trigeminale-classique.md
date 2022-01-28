@@ -36,8 +36,8 @@ Névralgie trigéminale classique (NTC)
 : Anciennement **névralgie du trijumeau**.  
 Maladie rare atteignant le nerf trijumeau qui évolue par poussées douloureuses chez des sujets d'âge moyen (60 ans) avec 2/3 de femmes.
 : Un conflit vasculo-nerveux est le facteur causal majeur de la NTC.  
-Il se produit au niveau de la citerne pré-pontique entre une méga-dolicho-artère (artère cérébelleuse antéro-supérieure ++) et la portion centrale de la racine à l’origine de démyélinisation.  
-Ce conflit est aggravé par l’[hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}).
+Il se produit au niveau de la citerne pré-pontique entre une méga-dolicho-artère (artère cérébelleuse antéro-supérieure ++) et la portion centrale de la racine à l'origine de démyélinisation.  
+Ce conflit est aggravé par l'[hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}).
 : Les poussées durent 49 jours (médiane). 1/3 des patients n'a pas de récidive et des périodes de rémissions variables sont fréquentes.
 
 Nerf trijumeau
@@ -47,7 +47,7 @@ Nerf trijumeau
 ### Épidémiologie
 
 - Maladie rare avec prévalence h/f 10,7-20/100.000.  
-- Personne d’âge moyen (60+)
+- Personne d'âge moyen (60+)
 - Atteint préférentiellement les femmes (2/3)
 - 1/3 n'a pas de récidives
 
@@ -73,7 +73,7 @@ Tous les [critères 13.1.1 de la classification ICHD-3](https://ichd-3.org/13-pa
     - Type décharge électrique, élancement, coup de poignard, piqûre
     - Provoquée par des stimuli inoffensifs sur le côté atteint du visage
 4. Sans déficit neurologique évident
-5. N’est pas mieux expliquée par un autre diagnostic ICHD-3
+5. N'est pas mieux expliquée par un autre diagnostic ICHD-3
 
 {{% /collapse %}}
 {{%collapse "Signes d'alerte" %}}
@@ -112,7 +112,7 @@ Des rémissions spontanées sont possibles.
     Décharge électrique ou coup de poignard voire broiement, arrachement.
     - Salves de quelques fois par jour à quasi continuelles  
     En crise, figement avec une attitude douloureuse et grimaçante.  
-    Cette phase peut être suivie d’un phase motrice de la face, puis vasomotrice (larmoiement, injection, hypersécrétions muqueuses).
+    Cette phase peut être suivie d'un phase motrice de la face, puis vasomotrice (larmoiement, injection, hypersécrétions muqueuses).
 2. **Topographie de la douleur**  
 Unilatérale (prédominance droite) et localisée sur le métamère du trijumeau.  
 Initialement 1 branche (maxillaire V2 surtout) mais extension possible à 2 (V2+V3 surtout).
@@ -121,9 +121,9 @@ Initialement 1 branche (maxillaire V2 surtout) mais extension possible à 2 (V2+
     - Comportements d'évitement: arrêt de rasage, maquillage, brossage des dents.
     - À l'inverse une pression très forte sur la zone gâchette peut éviter les accès.
 4. **Intervalle libre entre les crises douloureuses**
-5. **Aucun déficit neurologique durant l’intervalle libre**
+5. **Aucun déficit neurologique durant l'intervalle libre**
 
-Et 1 critère d’ordre thérapeutique: la **très bonne efficacité (au moins initiale) de la carbamazépine**.
+Et 1 critère d'ordre thérapeutique: la **très bonne efficacité (au moins initiale) de la carbamazépine**.
 
 Avec le temps, aggravation avec des périodes douloureuses de plus en plus longues et des accalmies plus courtes.
 

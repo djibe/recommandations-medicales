@@ -17,7 +17,7 @@ anglais = ["Obstructive sleep apnea syndrome"]
 sctid = "78275009"
 draft = false
 image = true
-imageSrc = "Habib M’henni / Wikimedia Commons"
+imageSrc = "Habib M'henni / Wikimedia Commons"
 imagePNG = true
 todo = "103, 105, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, doc explication PPC"
 +++
@@ -33,8 +33,8 @@ todo = "103, 105, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouve
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-Syndrome d’apnée du sommeil (SAS)
-: Survenue pendant le sommeil d’interruptions anormalement fréquentes de la ventilation (*apnées*) ou de la réduction de celle-ci (*hypopnées*), entraînant une *hypoxémie* et des *micro-éveils* associés à des symptômes.  
+Syndrome d'apnée du sommeil (SAS)
+: Survenue pendant le sommeil d'interruptions anormalement fréquentes de la ventilation (*apnées*) ou de la réduction de celle-ci (*hypopnées*), entraînant une *hypoxémie* et des *micro-éveils* associés à des symptômes.  
 Il a une origine *obstructive* (SAOS), *centrale* (SACS) ou *mixte*.
 
 {{%info%}}
@@ -45,7 +45,7 @@ HTA diastolique, nocturne et résistante (> 60% des HTA résistantes).
 - AVC (x 2-3)
 - Fibrillation atriale
 - Insulinorésistance
-- Troubles de la concentration et de l’humeur
+- Troubles de la concentration et de l'humeur
 - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md">}})
 - Accidents de la route (x 2-7)
 - Altération de la qualité de vie
@@ -57,16 +57,16 @@ Le traitement des apnées réduit significativement les risques.
 Index Apnées-Hypopnées (IAH)
 : ({{%lang%}}Apnea-hypopnea index AHI{{%/lang%}})
 : Le comptage est électro-physiologique et définit la sévérité du SAS. **On ne considère que les IAH ≥ 15**.
-: Il est calculé comme la somme des événements d’apnées et d’hypopnées = nombre d’apnées + nombre d’hypopnées / nombre d’heures de sommeil enregistrés.
+: Il est calculé comme la somme des événements d'apnées et d'hypopnées = nombre d'apnées + nombre d'hypopnées / nombre d'heures de sommeil enregistrés.
 
 Insomnie
-: Trouble persistant portant sur l’initiation, la durée, le maintien ou la qualité du sommeil, qui se manifeste en dépit de circonstances et d’occasions satisfaisantes pour le sommeil et qui retentit sur le fonctionnement de la personne au cours de la journée.
+: Trouble persistant portant sur l'initiation, la durée, le maintien ou la qualité du sommeil, qui se manifeste en dépit de circonstances et d'occasions satisfaisantes pour le sommeil et qui retentit sur le fonctionnement de la personne au cours de la journée.
 
 Somnolence diurne
 : Incapacité à rester éveillé et alerte pendant les périodes de veille majeures de la journée, ce qui entraîne des épisodes de besoin irrépressible de dormir ou des accès de somnolence ou de sommeil non intentionnels.
 
 Hypersomnolence
-: Symptôme d’une somnolence excessive.
+: Symptôme d'une somnolence excessive.
 
 Hypersomnie
 : Se rapporte à des maladies spécifiques.
@@ -93,12 +93,12 @@ Hypersomnie
 - 20% ont une *[BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})* associée
 - Association forte au [diabète de type 2]({{< relref "diabete-type-2.md">}})  
 15-30% des SAOS ont un DT2, 40-70% des DT2 ont un SAOS.
-- 60% des [insuffisants cardiaques]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ont une forme d’apnées du sommeil
+- 60% des [insuffisants cardiaques]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ont une forme d'apnées du sommeil
 
 ### Abréviations en médecine du sommeil
 
 **AASM:** {{%lang%}}American Academy of Sleep Medicine{{%/lang%}}  
-**IA:** index d’apnée par heure de sommeil  
+**IA:** index d'apnée par heure de sommeil  
 **PV:** polygraphie ventilatoire (ou *PGR* pour la HAS)  
 **SJSR:** syndrome des jambes sans repos ({{%lang%}}PLMD, Periodic limb movement disorder{{%/lang%}}  
 **MPJS:** mouvements périodiques des jambes pendant le sommeil ({{%lang%}}PLMS, Periodic limb movement during sleep{{%/lang%}})  
@@ -106,7 +106,7 @@ Hypersomnie
 **SAOS:** syndrome d'apnées obstructives du sommeil (ex-SAHOS)  
 **SFRMS:** Société Française de Recherche en Médecine du Sommeil  
 **SHRVAS:** Syndrome de haute résistance des voies aériennes supérieures  
-**TILE:** test itératif de latence à l’endormissement  
+**TILE:** test itératif de latence à l'endormissement  
 **TRS:**  troubles respiratoires du sommeil  
 **VEMS:** volume expiratoire maximal pendant la 1<sup>re</sup> seconde
 
@@ -181,7 +181,7 @@ Surtout si hypertension résistante, insuffisance rénale d'évolution rapide, r
 {{%lang%}}*Epworth sleepiness scale - ESS*{{%/lang%}}
 
 {{< modal-btn modal-score-epworth >}}Échelle auto-administrée{{< /modal-btn >}} pour objectiver la somnolence diurne. Il n'est pas performant pour le dépistage du SAOS.  
-{{%class%}}Il est utile d’avoir une confirmation du score par un proche.{{%/class%}}
+{{%class%}}Il est utile d'avoir une confirmation du score par un proche.{{%/class%}}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -208,8 +208,8 @@ Liste des médicaments, rhinite chronique.
   Sévères et quotidiens (50-60%).
   - **Réveils fréquents**
   - Pauses respiratoires  
-  Constatées par l’entourage (10-15%).
-  - Sensation d’étouffement ou de suffocation pendant le sommeil
+  Constatées par l'entourage (10-15%).
+  - Sensation d'étouffement ou de suffocation pendant le sommeil
   - **Reflux gastro-œsophagien** nocturne (50-75%)
   - Agitation nocturne
   - Insomnie
@@ -221,7 +221,7 @@ Liste des médicaments, rhinite chronique.
   - Sévérité de la somnolence et score à l'*Epworth*
 - Signes d'autres pathologies du sommeil
   - Besoin impérieux de bouger les jambes par paresthésies  
-  Aggravation au repos surtout couché, amélioration à l’activité, rythme nycthéméral).
+  Aggravation au repos surtout couché, amélioration à l'activité, rythme nycthéméral).
   - Périodes de sommeil irrépressibles
 - Signes différentiels
   - Syndrome dépressif
@@ -288,22 +288,22 @@ Indiqué pour tout SAOS avec:
 
 ### Épreuves fonctionnelles respiratoires EFR
 
-Le SAOS ne s’accompagne d’aucune perturbation spirométrique ou gazométrique diurne.
+Le SAOS ne s'accompagne d'aucune perturbation spirométrique ou gazométrique diurne.
 
 Proposer des EFR à tout patient SAOS si:
 
 - Fumeur ou ex-fumeur
 - Obèse
-- Symptômes respiratoires, dyspnée d’effort
+- Symptômes respiratoires, dyspnée d'effort
 
 ### Autres explorations du sommeil
 
 D'autres tests peuvent être demandés selon les suspicions cliniques:
 
-- Test Itératif de latence d’endormissement (TILE)  
-Test lourd et coûteux d’évaluation objective de la somnolence diurne.
-- Test de maintien d’éveil (TME)  
-Évaluation objective de la capacité de résistance à l’endormissement dans des conditions passives.
+- Test Itératif de latence d'endormissement (TILE)  
+Test lourd et coûteux d'évaluation objective de la somnolence diurne.
+- Test de maintien d'éveil (TME)  
+Évaluation objective de la capacité de résistance à l'endormissement dans des conditions passives.
 
 {{% /collapse %}}
 {{%collapse "Traitement du SAOS" %}}
@@ -314,11 +314,11 @@ Il consiste en une ventilation à pression positive continue (PPC) ou un orthès
 ### Mesures générales
 
 - Perte de poids si surpoids  
-{{%class%}}Améliore l’IAH et les désaturations.{{%/class%}}
+{{%class%}}Améliore l'IAH et les désaturations.{{%/class%}}
   - Chirurgie bariatrique si IMC ≥ 35 avant 65 ans (*HAS 2009 obésité*)
 - Activité physique régulière
-- Évaluer le bénéfice/risque d’une chirurgie bariatrique chez les sujets obèses (35 kg/m²)
-- Traitement d’une rhinite chronique/obstruction nasale associée
+- Évaluer le bénéfice/risque d'une chirurgie bariatrique chez les sujets obèses (35 kg/m²)
+- Traitement d'une rhinite chronique/obstruction nasale associée
 - Arrêt du tabac  
 {{%class%}}N'améliore pas le SAOS mais réduit l'impact des comorbidités.{{%/class%}}
 - Réduire la consommation d'alcool
@@ -343,7 +343,7 @@ Les données sont fournies par le prestataire.
 
 Le patient doit remplir les [conditions du Journal Officiel 07/2017 (PDF)](http://www.sfrms-sommeil.org/wp-content/uploads/2017/09/Avis-de-projet_juillet-2017_joe_20170711_0161_0100.pdf) pour bénéficier d'une prise en charge de la Sécu:
 
-- ≥ 3 symptômes parmi: somnolence diurne, ronflements sévères et quotidiens, sensation d’étouffement ou de suffocation pendant le sommeil, fatigue diurne, nycturie, céphalées matinales
+- ≥ 3 symptômes parmi: somnolence diurne, ronflements sévères et quotidiens, sensation d'étouffement ou de suffocation pendant le sommeil, fatigue diurne, nycturie, céphalées matinales
 - SAOS sévère (IAH ≥ 30)
 - OU SAOS modéré (15 ≤ IAH < 30) avec:
   - somnolence diurne sévère et/ou risque accidentel pouvant entraîner un dommage corporel direct ou indirect
@@ -353,9 +353,9 @@ Choix préférentiel de la PPC si:
 
 - SAOS sévère
 - SAOS modéré avec sommeil de mauvaise qualité (≥ 10 micro-éveils/h = RDI ≥ 25)  
-OU maladie cardio-vasculaire grave associée (HTA résistante, FA récidivante, IVG sévère, coronaropathie non contrôlée, ATCD d’AVC).
+OU maladie cardio-vasculaire grave associée (HTA résistante, FA récidivante, IVG sévère, coronaropathie non contrôlée, ATCD d'AVC).
 
-On propose l’OAM en cas de refus ou d’intolérance à la PPC et pour les autres cas de SAOS modéré:
+On propose l'OAM en cas de refus ou d'intolérance à la PPC et pour les autres cas de SAOS modéré:
 
 - Patient ronfleur sans SAOS
 - SAOS léger
@@ -375,7 +375,7 @@ Une surveillance dentaire régulière est nécessaire avec l'orthèse d'avancée
 - Renouvellement possible au bout de 3 ans par le médecin traitant  
 si peut consulter observance des 12 derniers mois (≥ 112 heures sur 10 mois et ≥ 56h sur les 2 autres)
 - Remboursable à 65%
-- Nécessite une demande d’entente préalable par le spécialiste avec renouvellement annuel si respect des conditions ci-dessus
+- Nécessite une demande d'entente préalable par le spécialiste avec renouvellement annuel si respect des conditions ci-dessus
 
 > *[HAS 2014](https://www.has-sante.fr/portail/jcms/c_1761160/fr/apnees-du-sommeil-de-nouvelles-recommandations-de-prise-en-charge-des-patients)*
 
@@ -428,18 +428,18 @@ Environ 10% des patients peuvent avoir une somnolence résiduelle malgré un tra
 
 A. Présence ≥ 1 vrai parmi:
 
-  1. Plainte de somnolence diurne, sommeil non réparateur, fatigue ou d’insomnie
+  1. Plainte de somnolence diurne, sommeil non réparateur, fatigue ou d'insomnie
   2. Le patient se réveille avec un arrêt de la respiration, haletant ou suffocant
-  3. Ronflements habituels, interruptions de la respiration ou les 2 constatés par l’entourage durant le sommeil
-  4. Comorbidités diagnostiquées: hypertension artérielle, troubles de l’humeur, troubles cognitifs, coronaropathie, AVC, insuffisance cardiaque congestive, fibrillation atriale, diabète type 2
+  3. Ronflements habituels, interruptions de la respiration ou les 2 constatés par l'entourage durant le sommeil
+  4. Comorbidités diagnostiquées: hypertension artérielle, troubles de l'humeur, troubles cognitifs, coronaropathie, AVC, insuffisance cardiaque congestive, fibrillation atriale, diabète type 2
 
 B. Polysomnographie ou polygraphie ambulatoire mesure:  
-RDI ≥ 5 (événements respiratoires principalement obstructifs: apnées obstructives ou mixtes, hypopnées ou ERIM) par heure de sommeil (PSG) ou heure d’enregistrement (PV)
+RDI ≥ 5 (événements respiratoires principalement obstructifs: apnées obstructives ou mixtes, hypopnées ou ERIM) par heure de sommeil (PSG) ou heure d'enregistrement (PV)
 
 C. PSG ou PV ambulatoire mesurent:  
-RDI ≥ 15 (événements respiratoires principalement obstructifs: apnées, hypopnées ou ERIM) par heure de sommeil (PSG) ou heure d’enregistrement (PV)
+RDI ≥ 15 (événements respiratoires principalement obstructifs: apnées, hypopnées ou ERIM) par heure de sommeil (PSG) ou heure d'enregistrement (PV)
 
-Les critères pour le SAOS de l’enfant sont différents.
+Les critères pour le SAOS de l'enfant sont différents.
 
 ### Classifications de la sévérité des troubles
 
@@ -448,13 +448,13 @@ Les critères pour le SAOS de l’enfant sont différents.
 > *AASM 1999*, repris *SPLF 2010*
 
 Légère
-: Somnolence indésirable ou épisodes de sommeil involontaire ayant peu de répercussion sur la vie sociale ou professionnelle et apparaissant pendant des activités nécessitant peu d’attention (regarder la télévision, lire, être passager d’une voiture).
+: Somnolence indésirable ou épisodes de sommeil involontaire ayant peu de répercussion sur la vie sociale ou professionnelle et apparaissant pendant des activités nécessitant peu d'attention (regarder la télévision, lire, être passager d'une voiture).
 
 Modérée
-: Somnolence indésirable ou épisodes de sommeil involontaire ayant une répercussion modérée sur la vie sociale ou professionnelle et apparaissant pendant des activités nécessitant plus d’attention (concert, réunion).
+: Somnolence indésirable ou épisodes de sommeil involontaire ayant une répercussion modérée sur la vie sociale ou professionnelle et apparaissant pendant des activités nécessitant plus d'attention (concert, réunion).
 
 Sévère
-: Somnolence indésirable ou épisodes de sommeil involontaire perturbant de façon importante la vie sociale ou professionnelle et apparaissant lors d’activités de la vie quotidienne (manger, tenir une conversation, marcher, conduire).
+: Somnolence indésirable ou épisodes de sommeil involontaire perturbant de façon importante la vie sociale ou professionnelle et apparaissant lors d'activités de la vie quotidienne (manger, tenir une conversation, marcher, conduire).
 
 #### Sévérité des événements obstructifs respiratoires
 
@@ -462,7 +462,7 @@ Sévère
 
 Apnées obstructives du sommeil:
 
-- Pas d’apnées obstructives du sommeil  
+- Pas d'apnées obstructives du sommeil  
 IAH < 5
 - Légère ({{%lang%}}mild{{%/lang%}})  
 5 ≤ IAH < 15
@@ -471,7 +471,7 @@ IAH < 5
 Sévère ({{%lang%}}severe{{%/lang%}})  
 IAH ≥ 30
 
-Les évolutions successives de la définition des hypopnées par l'AASM entraîne de grands reclassements des groupes de patients par modifications profondes de l'IAH. En effet, le score a été établi avec des capteurs de l’époque et n'incluait pas les micro-éveils (ERIM).
+Les évolutions successives de la définition des hypopnées par l'AASM entraîne de grands reclassements des groupes de patients par modifications profondes de l'IAH. En effet, le score a été établi avec des capteurs de l'époque et n'incluait pas les micro-éveils (ERIM).
 
 ### Qui peut être médecin du sommeil?
 
@@ -488,7 +488,7 @@ Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire 
 - [SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. MMM septembre 2018. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
 - [Ramar K et al, AASM. Clinical Practice Guideline for the Treatment of Obstructive Sleep Apnea and Snoring with Oral Appliance Therapy: An Update for 2015. J Clin Sleep Med JCSM Off Publ Am Acad Sleep Med. 15 juill 2015;11(7):773‑827.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481062/)
 - [HAS. Apnées du sommeil : de nouvelles recommandations de prise en charge des patients. 10/09/2014.](https://www.has-sante.fr/jcms/c_1761160/fr/apnees-du-sommeil-de-nouvelles-recommandations-de-prise-en-charge-des-patients)
-- [SPLF, SFAR, SFC, SFMT, SFORL, SFRMS. Recommandations pour la Pratique Clinique - Syndrome d’apnées hypopnées obstructives du sommeil de l’adulte. 2010. (PDF)](https://splf.fr/wp-content/uploads/2014/07/HS3_reco_sas2010.pdf)
+- [SPLF, SFAR, SFC, SFMT, SFORL, SFRMS. Recommandations pour la Pratique Clinique - Syndrome d'apnées hypopnées obstructives du sommeil de l'adulte. 2010. (PDF)](https://splf.fr/wp-content/uploads/2014/07/HS3_reco_sas2010.pdf)
 - [AASM. Obstructive Sleep Apnea. 2008. (PDF)](https://aasm.org/resources/factsheets/sleepapnea.pdf)
 - [Ruehland WR et al. The new AASM criteria for scoring hypopneas: impact on the apnea hypopnea index. Sleep. févr 2009;32(2):150‑7.](https://pubmed.ncbi.nlm.nih.gov/19238801/)
 - [Chiu H-Y et al. Diagnostic accuracy of the Berlin questionnaire, STOP-BANG, STOP, and Epworth sleepiness scale in detecting obstructive sleep apnea: A bivariate meta-analysis. Sleep Med Rev. déc 2017;36:57‑70.](https://pubmed.ncbi.nlm.nih.gov/27919588/)

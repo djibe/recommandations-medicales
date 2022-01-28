@@ -135,8 +135,8 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
-- [Boisserie-Lacroix M., Lippa N. Prise en charge d’un écoulement mamelonnaire. La lettre du sénologue. n°72. 2016. (PDF)](https://www.edimark.fr/Front/frontpost/getfiles/24304.pdf)
-- [Ouldamer L. et al. CNGOF. Exploration d’un écoulement mamelonnaire du sein uni- ou bilatéral : recommandations. Journal de Gynécologie Obstétrique et Biologie de la Reproduction. Volume 44. Issue 10. 2015. Pages 927-937.](https://doi.org/10.1016/J.JGYN.2015.09.035)
+- [Boisserie-Lacroix M., Lippa N. Prise en charge d'un écoulement mamelonnaire. La lettre du sénologue. n°72. 2016. (PDF)](https://www.edimark.fr/Front/frontpost/getfiles/24304.pdf)
+- [Ouldamer L. et al. CNGOF. Exploration d'un écoulement mamelonnaire du sein uni- ou bilatéral : recommandations. Journal de Gynécologie Obstétrique et Biologie de la Reproduction. Volume 44. Issue 10. 2015. Pages 927-937.](https://doi.org/10.1016/J.JGYN.2015.09.035)
 - [HAS. Dépistage et prévention du cancer du sein. Février 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
 
 {{%/sources%}}

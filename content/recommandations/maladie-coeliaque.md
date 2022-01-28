@@ -18,7 +18,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "Ostéodensitométrie avant 35 ans ???, dermatite herpétiforme Souvent résolutive après l’éviction du gluten"
+todo = "Ostéodensitométrie avant 35 ans ???, dermatite herpétiforme Souvent résolutive après l'éviction du gluten"
 +++
 
 {{%article-summary%}}
@@ -34,9 +34,9 @@ ou EOGD d'emblée selon la probabilité clinique sans régime
 {{%collapse "Définition" %}}
 
 Maladie cœliaque (**MC**)
-: Maladie chronique auto-immune polyorganique affectant l’intestin grêle chez des personnes génétiquement prédisposées, déclenchée par l’ingestion de **gluten**.  
-Elle peut survenir à tout âge, prédomine chez la femme et la majorité des patients n’est pas diagnostiquée.  
-À l’origine d’une malabsorption et ses complications (carence, dénutrition, fracture).
+: Maladie chronique auto-immune polyorganique affectant l'intestin grêle chez des personnes génétiquement prédisposées, déclenchée par l'ingestion de **gluten**.  
+Elle peut survenir à tout âge, prédomine chez la femme et la majorité des patients n'est pas diagnostiquée.  
+À l'origine d'une malabsorption et ses complications (carence, dénutrition, fracture).
 
 ### Complications de la maladie cœliaque
 
@@ -71,16 +71,16 @@ Prévalence 3-10%.
 Voir *Qui dépister par sérologie ?*
 
 {{%/collapse%}}
-{{%collapse "Qui dépister par fibroscopie d’emblée ?" %}}
+{{%collapse "Qui dépister par fibroscopie d'emblée ?" %}}
 
 Personnes à risque élevé de maladie cœliaque:
 
 - Diarrhée chronique non sanglante
 - Diarrhée avec malabsorption (amaigrissement ++)
-- Anémie par carence martiale en l’absence d’autre cause
+- Anémie par carence martiale en l'absence d'autre cause
 - Symptômes évocateurs de maladie cœliaque ET antécédents familiaux
 - Symptômes évocateurs de maladie cœliaque en présence de maladie auto-immune ou de déficit en IgA
-- Retard de croissance de l’enfant
+- Retard de croissance de l'enfant
 - Dermatite herpétiforme confirmée par biopsie cutanée
 - Atrophies des villosités observée en vidéocapsule
 - Iléostomie ou colostomie avec hyperdébit non expliqué
@@ -88,7 +88,7 @@ Personnes à risque élevé de maladie cœliaque:
 {{%/collapse%}}
 {{%collapse "Qui dépister par sérologie ?" %}}
 
-- Syndrome de l’intestin irritable (SII)
+- Syndrome de l'intestin irritable (SII)
 - Transaminases augmentées inexpliquées
 - [Diabète type 1]({{< relref "diabete-type-1.md" >}}) (tous les 5 ans)
 - Symptômes évocateurs de maladie cœliaque  
@@ -98,13 +98,13 @@ ou malabsorption sans antécédents familiaux ni auto-immuns
 ou maladie de Basedow
 - Ostéopénie, [ostéoporose]({{< relref "osteoporose.md" >}})
 - Ataxie ou neuropathie périphérique inexpliquée
-- Aphtes récurrents ou défauts de l’émail dentaire
+- Aphtes récurrents ou défauts de l'émail dentaire
 - Infertilité, fausses couches répétées, règles tardives, ménopause précoce
 - Syndrome de fatigue chronique
-- Pancréatite aiguë ou chronique en l’absence d’autres facteur causal
+- Pancréatite aiguë ou chronique en l'absence d'autres facteur causal
 - Épilepsie
 - Céphalées, migraines
-- Troubles de l’humeur, trouble déficitaire de l’attention, déficience cognitive
+- Troubles de l'humeur, trouble déficitaire de l'attention, déficience cognitive
 - [Hyposplénisme ou asplénie fonctionnelle]({{< relref "asplenie.md" >}})
 - Psoriasis ou lésions dermatologiques autres que la dermatite herpétiforme
 - Trisomie 21 ou syndrome Turner
@@ -139,7 +139,7 @@ ou maladie de Basedow
 - Complications gravidiques
 - Lymphome du grêle
 
-#### Chez l’enfant
+#### Chez l'enfant
 
 - Toujours: **Retard de croissance**, **diarrhée**, fonte musculaire, **anorexie**, distension abdominale.
 - Souvent: détresse émotionnelle, humeur labile, léthargie, constipation, douleurs abdominales
@@ -190,7 +190,7 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 
 
 **NB.** Le diagnostic de certitude doit être posé par un gastro-entérologue.
 
-{{%info%}}<< Chez les enfants qui se portent bien après l’arrêt du régime sans gluten, la recherche des auto-anticorps est **à répéter tous les ans**, afin de vérifier qu’il n’y a pas de rechutes >>{{%/info%}}
+{{%info%}}<< Chez les enfants qui se portent bien après l'arrêt du régime sans gluten, la recherche des auto-anticorps est **à répéter tous les ans**, afin de vérifier qu'il n'y a pas de rechutes >>{{%/info%}}
 
 - **Régime sans gluten à vie**
   - Blé, épeautre, froment, orge, seigle
@@ -203,7 +203,7 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 
   - Avoine toléré par la plupart des personnes (surveiller la survenue de complications)
 - Bilan par diététicien pour identifier des carences
 - **Recontrôler la sérologie initiale à 6 et 12 mois pour encourager le patient dans son régime**
-- **Dépistage de tout l’entourage du 1<sup>er</sup>** degré et suivi sérologique
+- **Dépistage de tout l'entourage du 1<sup>er</sup>** degré et suivi sérologique
 - Association de patients  
 [Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
 
@@ -219,9 +219,9 @@ Par le gastro-entérologue et le diététicien spécialisé.
 | **3-4 mois**<br>Médecin et diététicien | - Évaluer les symptômes et les modifications du mode de vie<br>Évaluation diététique<br>Sérologie cœliaque (transglutaminase IgA-TG2)|
 | **6 mois**<br>Médecin (à distance) | - Évaluer les symptômes<br>- Évaluation diététique<br>- Sérologie cœliaque<br>- Recontrôler les autres anomalies du bilan initial |
 | **12 mois**<br>Médecin et diététicien | - Évaluer les symptômes<br>- Examen physique<br>- Évaluation diététique<br>- Sérologie cœliaque<br>- Recontrôler le bilan initial<br> ± biopsies du grêle si persistance des symptômes |
-| **24 mois**<br>Médecin | - Évaluer les symptômes<br>- Évaluer le recours au diététicien<br>- Sérologie cœliaque<br>- TSH<br>- Tests selon l’examen |
+| **24 mois**<br>Médecin | - Évaluer les symptômes<br>- Évaluer le recours au diététicien<br>- Sérologie cœliaque<br>- TSH<br>- Tests selon l'examen |
 | **36 mois**<br>Médecin | - Ostéodensitométrie de contrôle si anormale<br>- Évaluer les symptômes |
-| Puis tous les 1-2 ans | - Évaluer le recours au diététicien<br>- Sérologie cœliaque<br>- TSH<br>- Tests selon l’examen |
+| Puis tous les 1-2 ans | - Évaluer le recours au diététicien<br>- Sérologie cœliaque<br>- TSH<br>- Tests selon l'examen |
 {{< /table >}}
 
 **Ostéodensitométrie** au diagnostic puis tous les 2-5 ans selon la densité osseuse (*ESsCD 2019*)
@@ -279,9 +279,9 @@ L'[Assurance Maladie](https://www.ameli.fr/assure/remboursements/rembourse/medic
 
 {{< mermaid title="Conduite à tenir en cas de suspicion de maladie cœliaque. Dr JB FRON d'après ESsCD 2019" >}}
 graph TB
-  symptomatique["<b>Risque élevé</b><hr>- Diarrhée chronique<br>- Diarrhée + amaigrissement<br>- Anémie par carence martiale <br>en l’absence d’autre cause<br>- Symptômes de MC + ATCD familiaux<br>- Symptômes de MC + auto-immunité/déficit IgA<br>- Retard de croissance de l’enfant<br>- Dermatite herpétiforme<br>- Atrophies des villosités<br>- Iléostomie/colostomie avec<br>hyperdébit non expliqué"] --> EOGD(EOGD) --> gastro
+  symptomatique["<b>Risque élevé</b><hr>- Diarrhée chronique<br>- Diarrhée + amaigrissement<br>- Anémie par carence martiale <br>en l'absence d'autre cause<br>- Symptômes de MC + ATCD familiaux<br>- Symptômes de MC + auto-immunité/déficit IgA<br>- Retard de croissance de l'enfant<br>- Dermatite herpétiforme<br>- Atrophies des villosités<br>- Iléostomie/colostomie avec<br>hyperdébit non expliqué"] --> EOGD(EOGD) --> gastro
   style symptomatique stroke:#4150f5, stroke-width:1px
-  personneARisque["<b>Risque modéré</b><hr>- Intestin irritable<br>- Transaminases augmentées<br>- Diabète type 1 (/5 ans)<br>- Symptômes de MC/malabsorption<br>sans ATCD familiaux ni auto-immuns<br>- Colite microscopique<br>- Hypothyroïdie de Hashimoto<br>- Basedow<br>- Ostéopénie/ostéoporose<br>- Ataxie/neuropathie périphérique<br>- Aphtes récurrents ou défauts de l’émail dentaire<br>- Infertilité, fausses couches répétées<br>- Règles tardives, ménopause précoce<br>- Fatigue chronique<br>- Pancréatite idiopathique<br>- Épilepsie<br>- Céphalées, migraines<br>- Troubles de l’humeur/attention<br>- Retard mental<br>- Asplénie<br>- Psoriasis ou lésions dermatologiques<br>autres que la dermatite herpétiforme<br>- Trisomie 21, Turner<br>- Hémosidérose pulmonaire<br>- Néphropathie à IgA"] --> serologie("IgA totales<br>+ IgA anti-transglutaminase") --> gastro
+  personneARisque["<b>Risque modéré</b><hr>- Intestin irritable<br>- Transaminases augmentées<br>- Diabète type 1 (/5 ans)<br>- Symptômes de MC/malabsorption<br>sans ATCD familiaux ni auto-immuns<br>- Colite microscopique<br>- Hypothyroïdie de Hashimoto<br>- Basedow<br>- Ostéopénie/ostéoporose<br>- Ataxie/neuropathie périphérique<br>- Aphtes récurrents ou défauts de l'émail dentaire<br>- Infertilité, fausses couches répétées<br>- Règles tardives, ménopause précoce<br>- Fatigue chronique<br>- Pancréatite idiopathique<br>- Épilepsie<br>- Céphalées, migraines<br>- Troubles de l'humeur/attention<br>- Retard mental<br>- Asplénie<br>- Psoriasis ou lésions dermatologiques<br>autres que la dermatite herpétiforme<br>- Trisomie 21, Turner<br>- Hémosidérose pulmonaire<br>- Néphropathie à IgA"] --> serologie("IgA totales<br>+ IgA anti-transglutaminase") --> gastro
   style personneARisque stroke:#4150f5, stroke-width:1px
       gastro(Gastro-entérologue)
       gastro -- Diagnostic de maladie cœliaque --> traitement("- <b>Éviction du gluten à vie</b><br>- Surveillance clinico-biologique<br>- Bilan diététique<br>- Dépistage de l'entourage")
@@ -296,7 +296,7 @@ graph TB
 - Prescrire Redaction. Intolérance au gluten - L'essentiel sur les soins de premier choix. Janvier 2020.
 - [Al-Toma A et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. UEG Journal, 7: 583-613. 2019.](https://doi.org/10.1177%2F2050640619844125)
 - [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut 2018;67:1380-1399.](https://gut.bmj.com/content/gutjnl/67/8/1380.full.pdf)
-- [Olives JP. Maladie coeliaque : de l’enfance à l’âge adulte. POST'U 2013 - Paris](https://www.fmcgastro.org/postu-main/postu-2013-paris/textes-postu-2013-paris/maladie-coeliaque-de-lenfance-a-lage-adulte/)
+- [Olives JP. Maladie coeliaque : de l'enfance à l'âge adulte. POST'U 2013 - Paris](https://www.fmcgastro.org/postu-main/postu-2013-paris/textes-postu-2013-paris/maladie-coeliaque-de-lenfance-a-lage-adulte/)
 - [HAS. Recherche d'anticorps dans la maladie cœliaque et suivi de l'observance du régime sans gluten. Janvier 2007. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/synthese_maladie_coeliaque.pdf)
 - [SNFGE. Maladie cœliaque](https://www.snfge.org/content/maladie-coeliaque)
 - [Asmeli. Intolérance au gluten.](https://www.ameli.fr/hauts-de-seine/assure/sante/themes/intolerance-gluten-maladie-coeliaque)

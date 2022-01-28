@@ -28,9 +28,9 @@ todo = "ttt betahistine, score AAO, https://pubmed.ncbi.nlm.nih.gov/19195928/"
 {{%collapse "Définition" %}}
 
 Maladie de Menière
-: Maladie peu fréquente de l’oreille interne évoluant par crises brutales, de cause inconnue et entraînant une **surdité** toujours associée à des **vertiges** spontanés et épisodiques.  
-Elle découle de modifications de l’endolymphe, touche toutes les populations, préférentiellement les femmes (60%) et survient le plus souvent entre 20 et 50 ans.
-: L'évolution est variable et imprévisible. Avec les années, la surdité s’installe et devient moins dépendante des crises, les crises de vertiges deviennent plus rares.
+: Maladie peu fréquente de l'oreille interne évoluant par crises brutales, de cause inconnue et entraînant une **surdité** toujours associée à des **vertiges** spontanés et épisodiques.  
+Elle découle de modifications de l'endolymphe, touche toutes les populations, préférentiellement les femmes (60%) et survient le plus souvent entre 20 et 50 ans.
+: L'évolution est variable et imprévisible. Avec les années, la surdité s'installe et devient moins dépendante des crises, les crises de vertiges deviennent plus rares.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -39,24 +39,24 @@ Elle découle de modifications de l’endolymphe, touche toutes les populations,
 
 ### Maladie définie
 
-Le diagnostic est certain devant l’association des 4 signes suivants:
+Le diagnostic est certain devant l'association des 4 signes suivants:
 
 1. Signes vestibulaires  
 ≥ 2 crises de *vertiges* durant de 20 min à 12 h (obligeant le repos au lit)  
-OU crises otolithiques de Tumarkin (chute à l’emporte-pièce sans perte de connaissance initiale)
+OU crises otolithiques de Tumarkin (chute à l'emporte-pièce sans perte de connaissance initiale)
 2. Signes auditifs
     - *Surdité* neurosensorielle unilatérale fluctuante.
-    - Hypoacousie prédominant dans les graves sur 2 fréquences contiguës, d’au moins 30 dB si audition normale ou 35 dB si surdité bilatérale (audiogramme pendant ou suivant une crise).
+    - Hypoacousie prédominant dans les graves sur 2 fréquences contiguës, d'au moins 30 dB si audition normale ou 35 dB si surdité bilatérale (audiogramme pendant ou suivant une crise).
     - Ils peuvent précéder les vertiges de plusieurs années.
 3. Autres signes otologiques homolatéraux fluctuants  
 *Acouphènes* (ressentis comme le plus grave symptôme) et sensation de *plénitude de l'oreille*.
-4. Absence d’autre cause identifiée
+4. Absence d'autre cause identifiée
 
 ### Maladie probable
 
 - ≥ 2 crises de vertiges durant de 20 min à 12 h
-- Fluctuation des symptômes otologiques (surdité, acouphènes, plénitude) dans l’oreille malade
-- Absence d’autre cause identifiée
+- Fluctuation des symptômes otologiques (surdité, acouphènes, plénitude) dans l'oreille malade
+- Absence d'autre cause identifiée
 
 ### Échelle de niveau fonctionnel
 
@@ -120,7 +120,7 @@ Test de déphasage acoustique, impédancemétrie multi-fréquentielle, électroc
 {{% /collapse %}}
 {{%collapse "Traitement de la maladie de Menière" %}}
 
-Dans l’ensemble, le niveau de preuve de chaque traitement est faible.  
+Dans l'ensemble, le niveau de preuve de chaque traitement est faible.  
 Le traitement dépend de la plainte et de la sévérité de la maladie; réserver les traitements suppresseurs au dernier recours.
 
 ### Mode de vie
@@ -129,12 +129,12 @@ Le traitement dépend de la plainte et de la sévérité de la maladie; réserve
 - Cycle nycthéméral régulier avec durée suffisante de sommeil
 - Activité physique régulière en dehors des crises
 - {{< modal-btn modal-score-stopbang >}}Dépistage des apnées du sommeil{{< /modal-btn >}}
-- Éviter la consommation de café, alcool et d’excitants
+- Éviter la consommation de café, alcool et d'excitants
 - Régime hyposodé (< 2,3 g/j)
 - Réduire les apports en glutamate
-- Suivi de l’efficacité par la qualité de vie et l’*Échelle de niveau fonctionnel*
+- Suivi de l'efficacité par la qualité de vie et l'*Échelle de niveau fonctionnel*
 - Soutien psychothérapeutique  
-{{%class%}}Efficacité prouvée sur la réhabilitation vestibulaire et le niveau d’anxiété.{{%/class%}}
+{{%class%}}Efficacité prouvée sur la réhabilitation vestibulaire et le niveau d'anxiété.{{%/class%}}
 - Orthoptie  
 {{%class%}}Si troubles de la vergence et du suivi oculaire.{{%/class%}}
 - Association de patients  
@@ -172,7 +172,7 @@ Diurétique à dose minimale efficace
 Surveillance du ionogramme sanguin.
 
 Corticoïdes par voie générale ou intratympanique (ITC)
-: ITC en cas d’inefficacité des médicaments oraux.
+: ITC en cas d'inefficacité des médicaments oraux.
 
 Benzodiazépines
 : Utiles en vertiges aigus.
@@ -190,7 +190,7 @@ Contre-indiquée en oreille unique ou atteinte bilatérale.
 - Chirurgie du sac endolymphatique ++. Non destructrice, efficace
 - Neurotomie vestibulaire. Destructrice, très efficace sur vertiges et crises otolithiques unilatéraux
 - Labyrinthectomie chirurgicale. Surdité profonde non appareillable avec vertiges invalidants
-- Chirurgie d’oblitération des canaux semi-circulaires
+- Chirurgie d'oblitération des canaux semi-circulaires
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

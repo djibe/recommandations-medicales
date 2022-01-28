@@ -55,7 +55,7 @@ S'y ajoute le retentissement psychologique du patient/couple (DSM IV).
 
 - Diabète  
 La DE atteint 50% des diabétiques. Le risque est multiplié par 4,5 et le trouble survient 10 à 15 ans plus tôt.  
-La DE est l'indicateur le plus fiable de l’installation des complications viscérales et vasculaires.
+La DE est l'indicateur le plus fiable de l'installation des complications viscérales et vasculaires.
 **40% arrêtent le traitement antidiabétique pensant améliorer la DE**
 - Pathologie cardiovasculaire
 - Troubles anxio-dépressifs
@@ -111,7 +111,7 @@ Le matin entre 8h et 11h.
 
 ### Avis cardiologique
 
-Systématique en présence d'au moins 3 facteurs de risque cardiovasculaires (en vue d'une épreuve d’effort).
+Systématique en présence d'au moins 3 facteurs de risque cardiovasculaires (en vue d'une épreuve d'effort).
 
 ### EMG des membres inférieurs
 
@@ -121,14 +121,14 @@ En cas de suspicion de neuropathie périphérique (diabète ancien, alcoolisme c
 {{%collapse "Traitement de la dysfonction érectile" %}}
 
 Prise en charge par le médecin généraliste quand:  
-<< homme avec partenaire intéressée par l’amélioration de la sexualité du couple et si possible avec érections spontanées conservées >>.
+<< homme avec partenaire intéressée par l'amélioration de la sexualité du couple et si possible avec érections spontanées conservées >>.
 
 Il doit être adapté à la demande réelle du patient et du couple et selon la motivation pour éventuel traitement.  
 Traitements expliqués et discutés avec le patient.
 
 ### Information sexuelle
 
-> << Rassurer, dédramatiser de façon adaptée à l’âge et la demande. >>
+> << Rassurer, dédramatiser de façon adaptée à l'âge et la demande. >>
 
 Explications sur la physiologie érection, part psychologique (anxiété de performance), prévalence de la dysfonction avec l'âge, sexualité féminine.  Importance des préliminaires.
 

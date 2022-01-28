@@ -73,7 +73,7 @@ Bannir le terme de << bronchite asthmatiforme >>: il s'agit d'une maladie chroni
 **EFR:** exploration fonctionnelle respiratoire  
 **EI:** effets indésirables  
 **ERS:** {{%lang%}}European Respiratory Society{{%/lang%}}  
-**FeNO:** fraction de monoxyde d’azote mesurée dans un débit de gaz expiré  
+**FeNO:** fraction de monoxyde d'azote mesurée dans un débit de gaz expiré  
 **GINA:** {{%lang%}}Global Initiative for Asthma{{%/lang%}}  
 **ITSL:** immunothérapie par voie sublinguale  
 **SC:** sous-cutané  
@@ -485,7 +485,7 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 
 ### À lire
 
-- [Raherison-Semjen C. et al. Mise à jour des recommandations (2021) pour la prise en charge et le suivi des patients asthmatiques adultes sous l’égide de la Société de pneumologie de langue française (SPLF) et de la Société pédiatrique de pneumologie et allergologie (SP2A). Version longue. Revue des Maladies Respiratoires. Volume 38. Issue 10. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/recos-asthme-adultes-2021-version-longue.pdf)
+- [Raherison-Semjen C. et al. Mise à jour des recommandations (2021) pour la prise en charge et le suivi des patients asthmatiques adultes sous l'égide de la Société de pneumologie de langue française (SPLF) et de la Société pédiatrique de pneumologie et allergologie (SP2A). Version longue. Revue des Maladies Respiratoires. Volume 38. Issue 10. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/recos-asthme-adultes-2021-version-longue.pdf)
 - GINA 2021
 - SP2A
 

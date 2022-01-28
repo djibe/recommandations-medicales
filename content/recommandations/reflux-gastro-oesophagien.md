@@ -22,7 +22,7 @@ flowchart = true
 {{%article-summary%}}
 
 - Diagnostic d'interrogatoire
-- Indications à l'EOGD: symptômes atypiques isolés, signes d’alarme (perte de poids, anémie, dysphagie, hémorragie digestive), âge > 50 ans, résistance aux IPP ou rechute précoce à l’arrêt.
+- Indications à l'EOGD: symptômes atypiques isolés, signes d'alarme (perte de poids, anémie, dysphagie, hémorragie digestive), âge > 50 ans, résistance aux IPP ou rechute précoce à l'arrêt.
 - Traitement: RHD > antiacides > oméprazole 1/2 dose
 - L'anti-H2 ranitidine est suspendu
 - Rappel: on prononce "ésophage"
@@ -117,9 +117,9 @@ Aucun examen devant des signes typiques et l'absence de signe d'alarme.
 #### Indications à l'EOGD
 
 - Symptômes atypiques isolés
-- Signes d’alarme (perte de poids, anémie, dysphagie, hémorragie digestive)
+- Signes d'alarme (perte de poids, anémie, dysphagie, hémorragie digestive)
 - Âge > 50 ans
-- Résistance au traitement initial ou rechute précoce à l’arrêt du traitement
+- Résistance au traitement initial ou rechute précoce à l'arrêt du traitement
 
 Le RGO n'est pas démontré en cas d'EOGD normale ou avec œsophagite de bas grade. Il faut compléter avec une **pH-métrie** réalisée 7 jours après l'arrêt des IPP.
 

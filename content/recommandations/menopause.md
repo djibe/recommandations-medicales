@@ -263,7 +263,7 @@ Globalement cible vitamine D > 75 nmol/L (détail au chapitre [Vitamine D]({{< r
 - Antécédent de cancer du sein  
 Contre-indication aux phytoœstrogènes.
 
-{{%info%}}Prise de poids à la ménopause: << Seuls les excès répétés et/ou un déséquilibre chronique quantitatif et qualitatif de l’alimentation peuvent être en cause >> (*CNGOF 2021*){{% /collapse %}}
+{{%info%}}Prise de poids à la ménopause: << Seuls les excès répétés et/ou un déséquilibre chronique quantitatif et qualitatif de l'alimentation peuvent être en cause >> (*CNGOF 2021*){{% /collapse %}}
 
 {{% /collapse %}}
 {{%collapse "Contre-indications au THM" %}}
@@ -321,7 +321,7 @@ Précisions: aucun effet sur l'endomètre si durée < 2 ans.
 Le traitement hormonal de la ménopause (THM) en pratique:
 
 - Débuté seulement après diagnostic clinique certain et < 10 ans après le début de la ménopause
-- Association: estradiol par voie cutanée 17bêta-estradiol ou valérate d’estradiol + progestérone micronisée ou dydrogestérone ≥ 12 j/mois
+- Association: estradiol par voie cutanée 17bêta-estradiol ou valérate d'estradiol + progestérone micronisée ou dydrogestérone ≥ 12 j/mois
 - Utiliser les doses minimales efficaces
 - Hystérectomie  
 Estradiol cutané seul.

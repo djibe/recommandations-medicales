@@ -224,12 +224,12 @@ Le dossier de soin est partagé entre intervenants.
 
 - Rééducation intensive de la marche dès que possible  
   - Des exercices prolongés améliorent les performances de la marche (> 90 min, Schnitzler 2018).
-  - Rééducation de la mise en charge et de l’équilibre.
+  - Rééducation de la mise en charge et de l'équilibre.
   - Goniofeedback du genou pour améliorer la marche.
   - Myofeedback pour améliorer la marche.
   - Stimulation électrique fonctionnelle pour la marche.
   - Rééducation tâche orientée (répétition) pour la marche.
-  - Orthèse de marche en cas d’insuffisance de la commande.
+  - Orthèse de marche en cas d'insuffisance de la commande.
   - Aide technique de marche, avec apprentissage personnalisé.
   - Entraînement électromécanique de la marche sans kiné.
 - Membres supérieurs
@@ -239,7 +239,7 @@ Le dossier de soin est partagé entre intervenants.
 - Pratiquer un activité physique et gymnique
 - Renforcement musculaire
 - Approches neurophysiologiques
-- Imagerie mentale motrice associée à d’autres traitements
+- Imagerie mentale motrice associée à d'autres traitements
 
 {{% /collapse %}}
 {{%collapse "Éducation de la population et des personnes à risque" %}}
@@ -253,19 +253,19 @@ Appeler le {{<phone>}}15{{</phone>}} en urgence vitale devant tout déficit indo
 
 ### Message de prévention
 
-L’accident vasculaire cérébral se manifeste soudainement par:
+L'accident vasculaire cérébral se manifeste soudainement par:
 
 - une déformation de la bouche  
-ex: lorsque la personne sourit le sourire n’est pas symétrique.
-- une faiblesse d’un côté du corps, bras ou jambe  
-ex: lorsqu’on demande à la personne de lever les deux bras devant elle, l’un des bras ne peut être levé ou rester en hauteur, il retombe.
+ex: lorsque la personne sourit le sourire n'est pas symétrique.
+- une faiblesse d'un côté du corps, bras ou jambe  
+ex: lorsqu'on demande à la personne de lever les deux bras devant elle, l'un des bras ne peut être levé ou rester en hauteur, il retombe.
 - des troubles de la parole  
-ex: lorsqu’on demande à la personne de répéter une phrase, elle a des difficultés à parler ou à comprendre.
+ex: lorsqu'on demande à la personne de répéter une phrase, elle a des difficultés à parler ou à comprendre.
 
-Si vous êtes témoin d’un de ces 3 signes, réagissez. Appelez immédiatement le SAMU, faites le {{<phone>}}15{{</phone>}}.
-<< AVC, agir vite c’est important >>
+Si vous êtes témoin d'un de ces 3 signes, réagissez. Appelez immédiatement le SAMU, faites le {{<phone>}}15{{</phone>}}.
+<< AVC, agir vite c'est important >>
 
-Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de troubles de l’équilibre, de maux de tête intenses ou d’une baisse de vision.
+Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de troubles de l'équilibre, de maux de tête intenses ou d'une baisse de vision.
 
 {{% /collapse %}}
 {{%sources%}}
@@ -278,7 +278,7 @@ Ces 3 signes d’alerte peuvent être accompagnés, tout aussi soudainement, de 
 - [HAS. Prévention vasculaire après un infarctus cérébral ou un accident ischémique transitoire. 13/06/2018.](https://www.has-sante.fr/jcms/c_1252051/fr/prevention-vasculaire-apres-un-infarctus-cerebral-ou-un-accident-ischemique-transitoire)
 - [Schnitzler A. et al; Santé Publique France. BEH. 2018. n°29. 595-601.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/impact-de-la-reeducation-a-la-phase-subaigue-d-un-accident-vasculaire-cerebral-en-france-en-2016)
 - [Lecoffre C. et al, Santé Publique France. L'accident vasculaire cérébral en France : patients hospitalisés pour AVC en 2014 et évolutions 2008-2014. BEH. 2017. n°5. 84-94.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/l-accident-vasculaire-cerebral-en-france-patients-hospitalises-pour-avc-en-2014-et-evolutions-2008-2014)
-- [HAS. Accident vasculaire cérébral : méthodes de rééducation de la fonction motrice chez l’adulte. Juin 2012.](https://www.has-sante.fr/jcms/c_1334330/fr/accident-vasculaire-cerebral-methodes-de-reeducation-de-la-fonction-motrice-chez-l-adulte)
+- [HAS. Accident vasculaire cérébral : méthodes de rééducation de la fonction motrice chez l'adulte. Juin 2012.](https://www.has-sante.fr/jcms/c_1334330/fr/accident-vasculaire-cerebral-methodes-de-reeducation-de-la-fonction-motrice-chez-l-adulte)
 - [HAS. Accident vasculaire cérébral :  prise en charge précoce. Mai 2009.](https://www.has-sante.fr/jcms/c_830203/fr/accident-vasculaire-cerebral-prise-en-charge-precoce-alerte-phase-prehospitaliere-phase-hospitaliere-initiale-indications-de-la-thrombolyse)
 
 {{%/sources%}}

@@ -34,7 +34,7 @@ todo = "FFN, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl..., htt
 
 Dénutrition
 : *Malnutrition* dans la CIM-10.
-: << État d’un organisme en déséquilibre nutritionnel >>. Possible par un déficit d’apport isolé, une augmentation des dépenses ou des pertes ou une association de ceux-ci.  
+: << État d'un organisme en déséquilibre nutritionnel >>. Possible par un déficit d'apport isolé, une augmentation des dépenses ou des pertes ou une association de ceux-ci.  
 Le déséquilibre nutritionnel est caractérisé par un bilan énergétique et/ou protéique négatif aboutissant à une *perte de poids* ou une *fonte musculaire*.  
 Elle touche > 2 millions de français.
 : **Facteurs de risque:** cancer, syndrome inflammatoire, escarre, toxicomanies, démence et dégénératif, troubles de déglutition et bucco-dentaires (dont candidose), précarité, régime restrictif.
@@ -158,7 +158,7 @@ Adulte ≥ 70 ans, dépistage ≥ annuel.
   - Situation d'agression (hypercatabolisme protéique)  
   Pathologie aiguë, chronique évolutive ou maligne évolutive.
 
-{{%info%}}Si le critère étiologique disparaît (reprise de l’alimentation, guérison d’une maladie), le diagnostic de dénutrition persiste tant que persiste le critère phénotypique{{%/info%}}
+{{%info%}}Si le critère étiologique disparaît (reprise de l'alimentation, guérison d'une maladie), le diagnostic de dénutrition persiste tant que persiste le critère phénotypique{{%/info%}}
 
 ### 2. Dénutrition sévère ?
 
@@ -295,8 +295,8 @@ Réévaluation à chaque consultation, au moins mensuelle (trimestrielle mois ch
 
 - Combien faites-vous de repas par jour ?
 - Mangez-vous tout votre repas ?
-- Est-ce qu’il y a certains aliments que vous ne mangez pas ?
-- Avez-vous besoin d’une aide pour manger ?
+- Est-ce qu'il y a certains aliments que vous ne mangez pas ?
+- Avez-vous besoin d'une aide pour manger ?
 - Avez-vous des difficultés pour mâcher ou avaler certains aliments ?
 - Quel est votre poids ? Avez-vous perdu du poids depuis une semaine, un mois ?
 - Avez-vous diminué votre consommation alimentaire depuis une semaine, un mois ?
@@ -325,7 +325,7 @@ graph TB
 
 - [HAS, FFN. Diagnostic de la dénutrition chez la personne de 70 ans et plus. Recommandation de bonne pratique. Novembre 2021.](https://www.has-sante.fr/jcms/p_3165944/fr/diagnostic-de-la-denutrition-chez-la-personne-de-70-ans-et-plus)
 - Prescrire Redaction. Complémentation nutritionnelle orale chez les adultes dénutris : conditions de remboursement en France en 2020. Rev Prescrire. Mai 2020.
-- [HAS, FFN. Diagnostic de la dénutrition de l’enfant et de l’adulte. Recommandation de bonne pratique. Novembre 2019.](https://has-sante.fr/jcms/p_3118872/fr/diagnostic-de-la-denutrition-de-l-enfant-et-de-l-adulte)
+- [HAS, FFN. Diagnostic de la dénutrition de l'enfant et de l'adulte. Recommandation de bonne pratique. Novembre 2019.](https://has-sante.fr/jcms/p_3118872/fr/diagnostic-de-la-denutrition-de-l-enfant-et-de-l-adulte)
 - [HAS. Stratégie de prise en charge en cas de dénutrition protéino-énergétique chez la personne âgée. Synthèse des recommandations professionnelles. 2007.](https://www.has-sante.fr/jcms/c_546549/fr/strategie-de-prise-en-charge-en-cas-de-denutrition-proteino-energetique-chez-la-personne-agee)
 - [Lutte contre la dénutrition](https://www.luttecontreladenutrition.fr/)
 

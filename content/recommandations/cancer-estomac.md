@@ -184,10 +184,10 @@ NFS, folates x 1/an.
 {{%sources%}}
 
 - [Nousbaum JB. et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Estomac. BEH. Santé Publique France. 2021.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-estomac)
-- [Zaanan A. Bilan pré-thérapeutique et traitement péri-opératoire des adénocarcinomes de l’estomac. POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/bilan-pre-therapeutique-et-traitement-peri-operatoire-des-adenocarcinomes-de-lestomac/)
+- [Zaanan A. Bilan pré-thérapeutique et traitement péri-opératoire des adénocarcinomes de l'estomac. POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/bilan-pre-therapeutique-et-traitement-peri-operatoire-des-adenocarcinomes-de-lestomac/)
 - [SNFGE et al. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 24/06/2019.](https://www.snfge.org/content/2-cancer-de-lestomac)
 - [SNFGE. Traitement du RGO. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
-- [HAS et CNPHGE. Diagnostic de l’infection par Helicobacter pylori chez l’adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
+- [HAS et CNPHGE. Diagnostic de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
 - [SFED et CREGG. Fiche de Recommandation sur la prévention des cancers digestifs par endoscopie. 14/03/2014.](https://www.cregg.org/commissions/prevention-des-cancers-par-endoscopie/fiches-de-recommandations-prevention-des-cancers-par-endoscopie/prevention-du-cancer-de-l-estomac-2/)
 - [HAS. Cancer de l'estomac. Guide ALD. Septembre 2011.](https://www.has-sante.fr/jcms/c_1105137/fr/ald-n-30-cancer-de-l-estomac)
 - [Collège Français des Pathologistes (CoPath). Tumeurs de l'estomac. Item 300.](http://campus.cerimes.fr/anatomie-pathologique/enseignement/anapath_19/site/html/2.html)

@@ -163,7 +163,7 @@ Le traitement relève uniquement du centre de référence. Le suivi est au moins
 {{%sources%}}
 
 - [HAS. Hypertension artérielle pulmonaire. PNDS. 2020.](https://www.has-sante.fr/jcms/p_3167172/fr/hypertension-arterielle-pulmonaire)
-- [Collège National des Enseignants de Cardiologie. Hypertension artérielle pulmonaire de l’enfant et de l’adulte. Item 222. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch19_hypertension_pulmonaire.pdf)
+- [Collège National des Enseignants de Cardiologie. Hypertension artérielle pulmonaire de l'enfant et de l'adulte. Item 222. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch19_hypertension_pulmonaire.pdf)
 - [Collège des enseignants de pneumologie. Hypertension artérielle pulmonaire. Item 222. 2017. (PDF)](http://cep.splf.fr/wp-content/uploads/2018/09/item_222_HTP_2017-cor2018.pdf)
 - [Orphanet. Hypertension artérielle pulmonaire idiopathique/familiale.](https://www.orpha.net/consor/www/cgi-bin/OC_Exp.php?lng=FR&Expert=422)
 

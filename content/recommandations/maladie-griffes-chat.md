@@ -2,7 +2,7 @@
 title = "Maladie des griffes du chat"
 prefix = "la "
 titleSeo = "Maladie des griffes du chat"
-synonyms = ["Bartonellose à Bartonella henselae, lymphogranulomatose bénigne d’inoculation"]
+synonyms = ["Bartonellose à Bartonella henselae, lymphogranulomatose bénigne d'inoculation"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T19:47:00+02:00
 publishdate = 2021-03-28
@@ -38,7 +38,7 @@ Le plus souvent bénigne avec guérison sans séquelles.
 - Contexte de griffure ou morsure par un chat  
 Exceptionnellement par inoculation (épine ou écharde).
 - Incubation de 2-3 semaines puis apparition d'**adénopathie régionale** (unique dans 50% des cas) pouvant persister plusieurs mois
-- Rougeur ou lésion au niveau de la plaie 3 à 10 jours après l’inoculation (50%)
+- Rougeur ou lésion au niveau de la plaie 3 à 10 jours après l'inoculation (50%)
 - Signes généraux discrets (50% des cas)  
 Fébricule, asthénie, céphalées, douleurs abdominales.
 - Valvulopathe: risque [endocardite]({{< relref "endocardite.md" >}}) à hémocultures négatives
@@ -53,7 +53,7 @@ Sa négativité n'élimine pas le diagnostic.
 {{%collapse "Prévention" %}}
 
 - Ne pas se frotter les yeux après un contact avec des animaux
-- Se laver les mains (eau + savon) systématiquement après contact avec l’animal ou ses déjections
+- Se laver les mains (eau + savon) systématiquement après contact avec l'animal ou ses déjections
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
@@ -70,7 +70,7 @@ Si allergie ou contre-indication: doxycycline 200 mg x 1/j pendant 14 jours.
 {{%collapse "Information du patient" %}}
 
 - Ne pas se frotter les yeux après contact avec des animaux
-- Se laver les mais (eau + savon) systématiquement après contact avec l’animal ou déjections
+- Se laver les mais (eau + savon) systématiquement après contact avec l'animal ou déjections
 - En cas de griffure ou morsure par un animal domestique:
   - Laver, savonner puis rincer
   - Surveiller

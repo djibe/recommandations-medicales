@@ -30,13 +30,26 @@ Maladie de Verneuil (ou Hidradénite suppurée *HS*)
 Elles résultent de proliférations polybactériennes nécessitant une coopération médico-chirurgicale.  
 Les tableaux cliniques sont hyper-variables selon les patients en ce qui concerne la gravité et l'évolutivité.
 : Arrêt fréquent à la [ménopause]({{< relref "menopause.md" >}}) chez la femme (voire avant). Chez l'homme, arrêt vers 50 ans mais possible à 70 ans.
-: 70-90 % sont fumeurs (*Fun Mooc Tabac*)
+: Antécédents familiaux pour 30-40 % et 70-90 % sont fumeurs (*Fun Mooc Tabac*)
+
+### Diagnostic différentiel
+
+- Actinomycose
+- Furonculose
+- Infection de kystes épidermoïdes
+- Fissure anale
+- Scrofuloderme (abcès tuberculeux)
+- Lymphogranulome vénérien
+- Acné nodulaire avec kystes pylonidaux
+- Maladie de Crohn
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Maladie évoluant par poussées douloureuses et le plus souvent suppuratives, survenant soit sur un fond continu soit chez un patient en rémission.  
+Évolution par poussées douloureuses et le plus souvent suppuratives, survenant soit sur un fond continu soit chez un patient en rémission.  
 Périodes de rémission de quelques semaines à quelques mois.
+
+Localisations principales: axillaire, inguinale, face interne des cuisses, périnée, péri-anal, mamelons, fesses.
 
 Plusieurs types lésionnels associés:
 
@@ -78,9 +91,17 @@ Les prélèvements bactériologiques sont d'interprétation délicate et réserv
 - Suivi dermatologique systématique  
 Le médecin traitant dépiste, oriente et prescrit le traitement abortif d'urgence.
 - Arrêt du tabac
+- Mesures d'hygiène (Orphanet)
+  - Séchage des plis
+  - Vêtements larges en coton
+  - Éviter les longs trajets en voiture par temps chaud
+- Correction d'un surpoids (facteur aggravant)
+- Substituer un traitement au lithium (facteur aggravant)
 - Association de patients  
 [Association Française pour la Recherche sur l'Hidrosadénite (AFRH)](http://www.afrh.fr/)
 - Participer à la [recherche ComPaRe](https://compare.aphp.fr/les-cohortes/cohorte-maladie-de-verneuil.html)
+- Soutien psychologique
+- Adaptation du poste avec le médecin du travail
 - ALD 31  
 Demande avec le compte rendu du dermatologue.
 
@@ -149,9 +170,9 @@ Les rechutes répétées d'une même localisation sont une indication opératoir
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-[RésoVerneuil: La maladie de Verneuil](https://resoverneuil.com/la-maladie-de-verneuil/)
+[Orphanet. La maladie de Verneuil. (PDF)](https://www.orpha.net/data/patho/Pub/fr/Verneuil-FRfrPub2049v01.pdf) et [RésoVerneuil: La maladie de Verneuil](https://resoverneuil.com/la-maladie-de-verneuil/)
 
-Maladie chronique, de cause inconnue, évoluant par poussées.  
+Maladie chronique, non contagieuse, de cause inconnue, évoluant par poussées.  
 L'évolution de la maladie n'est pas prévisible.
 
 Le traitement repose sur le recours prolongé aux antibiotiques et parfois à des gestes chirurgicaux.  
@@ -162,13 +183,13 @@ Il est essentiel d'apprendre à reconnaître les signes avant-coureurs des pouss
 {{%sources%}}
 
 - [Revuz J. Hidradénite suppurée. EMC](https://www.em-consulte.com/article/924280/hidradenite-suppuree)
+- [Orphanet. La maladie de Verneuil. (PDF)](https://www.orpha.net/data/patho/Pub/fr/Verneuil-FRfrPub2049v01.pdf)
 
 ### À lire
 
 - [Bertolotti A. et al. Guidelines for the management of hidradenitis suppurativa: recommendations supported by the Centre of Evidence of the French Society of Dermatology. Br J Dermatol, 184: 963-965. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/bjd.19710)
 - [SFD. recommandations Hidradénite suppurée - Arbre décisionnel. Août 2019.](https://reco.sfdermato.org/fr/recommandations-hidrad%C3%A9nite-suppur%C3%A9e)
-- [Orphanet. La maladie de Verneuil. (PDF)](https://www.orpha.net/data/patho/Pub/fr/Verneuil-FRfrPub2049v01.pdf)
-- [dermato-info. l’hidradénite suppurée ou Maladie de Verneuil. 13/06/2020.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99hidrad%C3%A9nite-supur%C3%A9e-ou-maladie-de-verneuil)
+- [dermato-info. l'hidradénite suppurée ou Maladie de Verneuil. 13/06/2020.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99hidrad%C3%A9nite-supur%C3%A9e-ou-maladie-de-verneuil)
 - Prescrire
 
 {{%/sources%}}

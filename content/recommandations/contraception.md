@@ -238,7 +238,7 @@ Symptômes cataméniaux, ménorragies fonctionnelles, [endométriose]({{< relref
 - Cotation CCAM
   - Pose du stérilet JKLD001 (38,40 €)
   - Ablation non cotée sauf remplacement du stérilet JKKD001 (38,40 €)
-- Seuls le toucher vaginal avec examen bimanuel et l’inspection cervicale sont formellement recommandés avant la pose d’un DIU
+- Seuls le toucher vaginal avec examen bimanuel et l'inspection cervicale sont formellement recommandés avant la pose d'un DIU
 - Informer sur la modification des saignements selon le stérilet
 - Pas de dépistage systématique des IST avant la pose  
 Dépistage des IST si à risque (notamment [Ct]({{< relref "chlamydia-trachomatis.md" >}}) chez les 15-25 ans ou partenaires multiples non protégés).  
@@ -256,7 +256,7 @@ Le retirer si les fils sont accessibles.
 - IST ou infection génitale haute  
 Pas de retrait d'emblée.
 - VIH pré-SIDA  
-Le stérilet n’augmente pas le risque de progression du virus ni le risque de transmission au partenaire.
+Le stérilet n'augmente pas le risque de progression du virus ni le risque de transmission au partenaire.
 
 {{%info%}}
 La contraception intra-utérine ne constitue pas un facteur de risque de grossesse extra-utérine (GEU)
@@ -337,7 +337,7 @@ Une contraception est nécessaire à partir de **J21** post-partum:
 - DIU
   - Possible à partir de J28
   - Après recherche d'IST si facteurs de risque
-- Méthode de l’allaitement maternel et de l’aménorrhée (*MAMA*) jusqu'à 6 mois  
+- Méthode de l'allaitement maternel et de l'aménorrhée (*MAMA*) jusqu'à 6 mois  
 Risque de grossesse < 2% à 6 mois si:
   - Allaitement exclusif jour et nuit 6-10/j
   - Max 6h entre 2 tétées la nuit et 4h le jour
@@ -383,7 +383,7 @@ Changement de contraception à discuter.
 
 {{%info%}}Les contraceptions hormonales ne sont pas associées à une prise de poids (*CNGOF 2018*){{%/info%}}
 
-L'implant sous-cutané à l’étonogestrel ou le DMPA injectable peuvent parfois augmenter modérément le poids.  
+L'implant sous-cutané à l'étonogestrel ou le DMPA injectable peuvent parfois augmenter modérément le poids.  
 Réaliser un bilan complet si prise de poids importante.
 
 ### Céphalées
@@ -400,7 +400,7 @@ Migraines cataméniales sous COP, proposer au choix:
 
 ### Troubles de l'humeur
 
-<< Il n’existe pas de preuve solide permettant d’établir que l’utilisation d’une contraception hormonale est un facteur de risque de troubles de l’humeur >> (*CNGOF 2018*)
+<< Il n'existe pas de preuve solide permettant d'établir que l'utilisation d'une contraception hormonale est un facteur de risque de troubles de l'humeur >> (*CNGOF 2018*)
 
 Étayer les aspects psychologiques et discuter un changement de contraception en parallèle.
 

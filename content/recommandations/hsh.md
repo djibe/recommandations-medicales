@@ -46,12 +46,12 @@ Principalement dans les lieux publics > professionnel et scolaire > familial.
 
 Au moins 2 fois plus de dépressions (1/4 expliquées par les agressions), tentatives de suicides et suicides que les personnes hétérosexuelles.
 
-> [El Khoury Lesueur F et al. Le groupe Baromètre de Santé publique France 2017. Santé mentale des adultes selon l’orientation sexuelle et violences subies. Résultats du Baromètre de Santé publique France 2017. Bull Epidémiol Hebd. 2021;(6-7):97-104.](http://beh.santepubliquefrance.fr/beh/2021/6-7/2021_6-7_1.html)
+> [El Khoury Lesueur F et al. Le groupe Baromètre de Santé publique France 2017. Santé mentale des adultes selon l'orientation sexuelle et violences subies. Résultats du Baromètre de Santé publique France 2017. Bull Epidémiol Hebd. 2021;(6-7):97-104.](http://beh.santepubliquefrance.fr/beh/2021/6-7/2021_6-7_1.html)
 
 Parmi les HSH fréquentant les milieux sociaux HSH (bars, backrooms):
 
 - 45% déclarent plus de 10 partenaires par an
-- 1/3 n’utilise pas de préservatif
+- 1/3 n'utilise pas de préservatif
 - 20% ont des relations avec prise de produits psychoactifs
 - 14,3% ont le VIH ([Velter A. 2017](http://beh.santepubliquefrance.fr/beh/2017/18/2017_18_1.html))
 
@@ -99,7 +99,7 @@ Spécialités chez l'adulte:
 
 #### Vaccin papillomavirus
 
-<< GARDASIL 9® recommandée jusqu’à l’âge de 26 ans, en prévention des lésions précancéreuses anales, des cancers anaux et des condylomes. Dans cette situation, la vaccination peut être proposée dans certains {{< references/cegidd >}} et dans certains centres publics de vaccination. >>
+<< GARDASIL 9® recommandée jusqu'à l'âge de 26 ans, en prévention des lésions précancéreuses anales, des cancers anaux et des condylomes. Dans cette situation, la vaccination peut être proposée dans certains {{< references/cegidd >}} et dans certains centres publics de vaccination. >>
 
 {{% /collapse %}}
 {{%sources%}}
@@ -107,6 +107,6 @@ Spécialités chez l'adulte:
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)
-- [Le Bourhis-Zaimi M. et al. Épidémie d’hépatite A parmi des hommes ayant des rapports sexuels avec des hommes, Rouen, décembre 2016 – avril 2017. Bull Epidémiol Hebd. 2017;(18):355-61.](http://beh.santepubliquefrance.fr/beh/2017/18/2017_18_2.html)
+- [Le Bourhis-Zaimi M. et al. Épidémie d'hépatite A parmi des hommes ayant des rapports sexuels avec des hommes, Rouen, décembre 2016 – avril 2017. Bull Epidémiol Hebd. 2017;(18):355-61.](http://beh.santepubliquefrance.fr/beh/2017/18/2017_18_2.html)
 
 {{%/sources%}}

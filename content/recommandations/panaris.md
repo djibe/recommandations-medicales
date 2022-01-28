@@ -96,7 +96,7 @@ Industrie agro-alimentaire ou restauration.
 
 {{%info%}}Bains de chlorhexidine 2 à 3 fois par jour.{{%/info%}}
 
-Selon Prescrire®: Bains dans l’eau chaude 10-15 minutes x 3-4/jour.  
+Selon Prescrire®: Bains dans l'eau chaude 10-15 minutes x 3-4/jour.  
 Antibioclic: Bains antiseptiques pluriquotidiens (x 2-3 /jour)  
 {{%class%}}type povidone iodée Bétadine®, hexamidine Hexomédine®, chlorhexidine aqueuse Biseptine®{{%/class%}}
 

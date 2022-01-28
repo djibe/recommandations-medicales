@@ -50,6 +50,6 @@ Elle est individuelle et nominative, valable 1 an.
 {{%sources%}}
 
 - Ameli.fr
-- [France Assos Santé. Soins à l’étranger : remboursement des frais médicaux et carte européenne d’assurance maladie.](https://www.france-assos-sante.org/66-millions-dimpatients/la-qualite-de-vos-soins/soins-a-letranger-ce-quil-faut-savoir-avant-de-partir-3/)
+- [France Assos Santé. Soins à l'étranger : remboursement des frais médicaux et carte européenne d'assurance maladie.](https://www.france-assos-sante.org/66-millions-dimpatients/la-qualite-de-vos-soins/soins-a-letranger-ce-quil-faut-savoir-avant-de-partir-3/)
 
 {{%/sources%}}

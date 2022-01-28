@@ -39,7 +39,7 @@ Perte poids, arrêt bière, réduire alcool/sodas/jus, viandes/abats, crustacés
 
 Goutte
 : Rhumatisme inflammatoire le plus fréquent dans le monde, surtout chez l'homme âgé. Elle est la conséquence d'une *hyperuricémie chronique*.
-: Famille des *arthropathies microcristallines* par dépôts de cristaux d’**urate de sodium** (monosodique dit **UMS**) dans les articulations. Ces derniers provoquent des arthrites aiguës (souvent monoarthrite fixes), récidivantes et de résolution spontanée.  
+: Famille des *arthropathies microcristallines* par dépôts de cristaux d'**urate de sodium** (monosodique dit **UMS**) dans les articulations. Ces derniers provoquent des arthrites aiguës (souvent monoarthrite fixes), récidivantes et de résolution spontanée.  
 Prévalence de 0,9 à 2,5% selon les pays, en augmentation.
 : **Complications:** tophus, arthropathies uratiques, colique néphrétique, lithiases uriques radiotransparentes, néphropathie goutteuse.
 : **Diagnostic différentiel:** chondrocalcinose articulaire, arthrite infectieuse, rhumatisme psoriasique, poussée d'arthrose, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}).
@@ -51,7 +51,7 @@ Localisés autour des articulations atteintes et préférentiellement oreille (p
 Allopurinol
 : Médicament hypo-uricémiant utilisé trop largement.  
 Il est la 1<sup>re</sup> de cause survenue de toxidermies bulleuses graves en Europe.  
-La **mortalité** est de 20-30% et 60% de ces accidents sous *allopurinol* surviennent chez des patients qui n’ont aucune indication au traitement.
+La **mortalité** est de 20-30% et 60% de ces accidents sous *allopurinol* surviennent chez des patients qui n'ont aucune indication au traitement.
 
 ### Abréviations
 
@@ -114,19 +114,19 @@ Peut être utile pour affirmer le diagnostic et étayer le diagnostic différent
 
 ### Mesures hygiéno-diétetiques en cas de goutte
 
-Ces mesures ont plus d’effets sur le profil cardiovasculaire que sur l’uricémie.  
+Ces mesures ont plus d'effets sur le profil cardiovasculaire que sur l'uricémie.  
 Le discours doit être individualisé.
 
 - Correction d'un surpoids
 - Réduction de la consommation d'alcool  
 {{%class%}}Bière et spiritueux.{{%/class%}}
-- Arrêt des sodas, limiter jus d’orange et de pomme
+- Arrêt des sodas, limiter jus d'orange et de pomme
 - Éviter les gros repas
 - Éviter les excès en viandes, abats et crustacés (riches en purines)
 - Encourager les produits quotidiens pauvres en graisses, le lait écrémé et les yaourts faibles en calories.  
 Le lait est uricosurique.
 - Encourager un exercice physique quotidien
-- Traitement par diurétique de l’anse ou thiazidique:  
+- Traitement par diurétique de l'anse ou thiazidique:  
 Substituer si possible car très uricosuriques, par losartan ou amlodipine.
 - Traitement par statine:  
 Préférer la substitution par fénofibrate (hypouricémiant ++).
@@ -149,7 +149,7 @@ Losartan, fénofibrate, atorvastatine, amlodipine.
 {{%collapse "Traitement de la crise de goutte" %}}
 
 Le plus précoce possible (< 12 heures), dès les prodromes (auto-médication adaptée aux comorbidités).  
-Traitement adapté à la tolérance et à l’efficacité passée.
+Traitement adapté à la tolérance et à l'efficacité passée.
 
 - Repos au lit avec immobilisation de l'articulation
 - Glaçage de l'articulation  
@@ -178,7 +178,7 @@ Puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours
 - Diminuer la dose chez l'insuffisant rénal et le sujet âgé
 - Adapter la posologie avec certains traitements  
 [Vérifier les interactions avec la colchicine](https://go.drugbank.com/drugs/DB01394).
-- Attention à l’association avec les statines (neuro et musculo-toxicité)
+- Attention à l'association avec les statines (neuro et musculo-toxicité)
 - Contre-indiquée si insuffisance rénale sévère, ciclosporine, clarithromycine, vérapamil, kétoconazole
 
 **NB.** Lors d'un premier accès, elle est aussi utilisée comme test thérapeutique.
@@ -227,17 +227,17 @@ ou recommandé si DFG < 60, uricémie ≥ 90 mg/L ou lithiase urique.
 
 **Objectif:** Prévenir les crises douloureuses et les complications par la dissolution des cristaux d'urate de sodium en maintenant l'uricémie < 60 mg/L (360 µmol/L) au long cours avec cible **< 50 mg/L** (300 µmol/L).  
 Contrôle de l'**uricémie 1-2/an**.  
-Ne pas descendre sous les **30 mg/L** au long cours car probable rôle neuroprotecteur de l’acide urique.
+Ne pas descendre sous les **30 mg/L** au long cours car probable rôle neuroprotecteur de l'acide urique.
 
 ### Mise en route du traitement de fond
 
-{{%warning%}}Informer systématiquement sur la nécessité d’interrompre immédiatement le traitement en cas de réaction cutanée et de consulter immédiatement un médecin{{%/warning%}}
+{{%warning%}}Informer systématiquement sur la nécessité d'interrompre immédiatement le traitement en cas de réaction cutanée et de consulter immédiatement un médecin{{%/warning%}}
 
-La dissolution des dépôts d’urate expose à des crises de goutte durant les 6 premiers mois du traitement de fond.  
+La dissolution des dépôts d'urate expose à des crises de goutte durant les 6 premiers mois du traitement de fond.  
 L'allopurinol est le traitement de référence mais nécessite une titration pour éviter les **toxidermies**.
 
 {{%info%}}
-[Allopurinol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68320252&typedoc=R) 50-100 mg/j, paliers de 50-100 mg /2-4 semaines jusqu’à l’objectif uricémique (< 50 mg/L, max 900 mg/j) puis au long cours.  
+[Allopurinol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68320252&typedoc=R) 50-100 mg/j, paliers de 50-100 mg /2-4 semaines jusqu'à l'objectif uricémique (< 50 mg/L, max 900 mg/j) puis au long cours.  
 Peut être débuté pendant la crise de goutte.
 
 Prévention de crise par colchicine 0,5-1 mg/j pendant 3-6 premiers mois (alternatives: AINS, prednisone).
@@ -259,7 +259,7 @@ Fébuxostat uniquement.
 
 - Surveillance de l'uricémie 1 à 2/an
 - Si fonction rénale altérée:  
-Utiliser une dose adaptée d’allopurinol jusqu'à 30 mL/min.
+Utiliser une dose adaptée d'allopurinol jusqu'à 30 mL/min.
 - Si intolérance digestive:  
 Tenter de poursuivre le traitement sauf symptômes majeurs.
 
@@ -293,7 +293,7 @@ Fébuxostat contre-indiqué en maladie cardiovasculaire sévère:
 
 Arrêt de l'allopurinol et remplacement par **[fébuxostat](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63862669&typedoc=R)** (Adénuric®) 40 mg/j puis 40 mg x 2/j au long cours.
 
-**NB.** Absence d’allergie croisée entre allopurinol et fébuxostat.
+**NB.** Absence d'allergie croisée entre allopurinol et fébuxostat.
 
 {{%info%}}Si maladie invalidante et traitements insuffisants: adresser au spécialiste pour introduire la pegloticase.{{%/info%}}
 
@@ -306,7 +306,7 @@ Autre traitement de fond: ~~~benzbromarone~~~ (Desuric®, retiré en 2008).
 {{% /collapse %}}
 {{%collapse "Surveillance du traitement" %}}
 
-- Connaissances sur l’automédication des crises
+- Connaissances sur l'automédication des crises
 - Fréquence des crises, arthropathie microcristalline, tophus, lithiases uriques
 - Biologique
   - Créatininémie et clairance CKD-EPI
@@ -365,7 +365,7 @@ Uricémie cible < 50 mg/L (300 µmol/L)
 - Les douleurs sont causées par les dépôts d'urate de sodium dans les articulations
 - Importance du régime et surtout de la réduction de l'alcool
 - Arrêt définitif de la bière, même sans alcool
-- Limiter le fructose: arrêt des sodas, limiter jus d’orange et de pomme
+- Limiter le fructose: arrêt des sodas, limiter jus d'orange et de pomme
 - Éviter les gros repas
 - Éviter les excès en viandes, abats et crustacés (riches en purines)
 - Encourager les produits quotidiens pauvres en graisses, le lait écrémé et les yaourts faibles en calories.  

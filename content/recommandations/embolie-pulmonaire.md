@@ -96,7 +96,7 @@ La réponse aux 8 questions suivantes doit être négative pour infirmer une *su
 2. Fréquence cardiaque ≥ 100/min ?
 3. SpO<sub>2</sub> < 95% ?
 4. Hémoptysie ?
-5. Œdème unilatéral d’un membre inférieur ?
+5. Œdème unilatéral d'un membre inférieur ?
 6. Traitement œstrogénique ?
 7. Antécédent personnel MVTE ?
 8. Hospitalisation pour traumatisme ou chirurgie sous AG dans les 4 dernières semaines ?

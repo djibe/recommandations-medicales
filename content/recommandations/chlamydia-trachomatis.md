@@ -48,7 +48,7 @@ Elle atteint 3% des 18-29 ans avec co-infection *gonocoque* de 2-24%. +30% entre
 **HSH:** homme ayant des rapports sexuels avec des hommes  
 **IST:** infection sexuellement transmissible  
 **PVVIH:** personne vivant avec le VIH  
-**VIH:** virus de l’immunodéficience humaine
+**VIH:** virus de l'immunodéficience humaine
 
 {{% /collapse %}}
 {{%collapse "Dépistage des Chlamydia" %}}
@@ -67,7 +67,7 @@ Dépister systématiquement *Chlamydia trachomatis* chez:
     - Viol
 3. Femme consultant pour [IVG]({{< relref "interruption-volontaire-grossesse.md" >}})
 4. Homme ayant des rapports sexuels avec des hommes ([HSH]({{< relref "hsh.md" >}}))
-5. Avant pose de DIU en [contraception d’urgence]({{< relref "contraception-urgence.md" >}}) (HAS 2019)
+5. Avant pose de DIU en [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) (HAS 2019)
 
 ### Quel dépistage ?
 
@@ -148,7 +148,7 @@ Indication: << e. Personnes ayant des relations sexuelles avec des partenaires m
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS. Choix et durées d’antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes?id=p_3278764&preview=true)
+- [HAS. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes?id=p_3278764&preview=true)
 - Prescrire Redaction. Chlamydiose liée à un rapport sexuel. Premiers choix Prescrire. Mars 2021.
 - [Santé Publique France. Chlamydiae. 01/12/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/chlamydiae)
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)

@@ -433,7 +433,7 @@ window.addEventListener('load', function() {
 - Biphosphonates (BP)  
   - Informer du risque très faible d'*ostéonécrose de la mâchoire*, de *fracture atypique fémorale* et d'uvéite
   - Ne contre-indiquent pas des implants dentaires
-  - Biphosphonates voie orale : ≥ 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d’eau du robinet (ou peu minéralisée)
+  - Biphosphonates voie orale : ≥ 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)
 - Dénosumab
   - Prescription restreinte au rhumatologue
   - Utilisé seulement en relais des BP car permet un gain conséquent de DMO (*HAS 2019*)
@@ -536,8 +536,8 @@ graph TB
 
 - Prescrire Redaction. Fracture liées à une fragilité osseuse : prévention. Rev Prescr 2020.
 - [HAS. Les médicaments de l'ostéoporose. Bon usage du médicament. Mai 2019.](https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-losteoporose)
-- [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d’ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 03/05/2019. (PDF)](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
-- [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l’ostéoporose post-ménopausique. Revue du Rhumatisme. Volume 85. Issue 5. 2018.](https://doi.org/10.1016/j.rhum.2018.02.005)
+- [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d'ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 03/05/2019. (PDF)](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
+- [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l'ostéoporose post-ménopausique. Revue du Rhumatisme. Volume 85. Issue 5. 2018.](https://doi.org/10.1016/j.rhum.2018.02.005)
 - [Dagan N et al. External validation and comparison of three prediction tools for risk of osteoporotic fractures using data from population based electronic health records: retrospective cohort study BMJ 2017; 356:i6755.](https://doi.org/10.1136/bmj.i6755)
 - [Shepherd J. et al. Executive Summary of the 2015 ISCD Position Development Conference on Advanced Measures From DXA and QCT: Fracture Prediction Beyond BMD. Journal of Clinical Densitometry. Volume 18. Issue 3. 2015. Pages 274-286.](https://doi.org/10.1016/j.jocd.2015.06.013)
 - [Briot K et al. Risque des femmes de même âge ayant fait une fracture. Revue du Rhumatisme 2012. (PDF)](http://www.grio.org/documents/page500/boite-a-outils-osteoporose500-1401218558.pdf)
@@ -548,7 +548,7 @@ graph TB
 
 ### À lire
 
-- [Bouvard P et al; GRIO. Recommandations françaises de la prise en charge et du traitement de l’ostéoporose masculine. Revue du Rhumatisme. Volume 88. Issue 3. 2021. Pages 173-182. (PDF)](http://www.grio.org/documents/page246/reco-op-masculine.pdf)
+- [Bouvard P et al; GRIO. Recommandations françaises de la prise en charge et du traitement de l'ostéoporose masculine. Revue du Rhumatisme. Volume 88. Issue 3. 2021. Pages 173-182. (PDF)](http://www.grio.org/documents/page246/reco-op-masculine.pdf)
 - [Kanis, J. et al. Executive summary of the European guidance for the diagnosis and management of osteoporosis in postmenopausal women. Calcif Tissue Int 104, 235–238. 2019.](https://link.springer.com/article/10.1007/s00223-018-00512-x)
 - [Kanis J. et al. Algorithm for the management of patients at low, high and very high risk of osteoporotic fractures. Osteoporos Int, 2019. 31(1): p.1-12.](https://link.springer.com/article/10.1007/s00198-019-05176-3)
 - [Kanis J et al; on behalf of the Scientific Advisory Board of the European Society for Clinical and Economic Aspects of Osteoporosis (ESCEO) and the Committees of Scientific Advisors and National Societies of the International Osteoporosis Foundation (IOF). European guidance for the diagnosis & management of osteoporosis in postmenopausal women. Osteoporos Int, 2018. 30(1): p.3-44.](https://link.springer.com/article/10.1007%2Fs00198-018-4704-5)

@@ -74,9 +74,9 @@ Le dépistage est répété selon le résultat:
 
 - < 2 ng/mL: dépistage répété tous les 8 ans
 - 2-4 ng/mL: dépistage tous les 2-4 ans
-- ≥ 4 ng/mL: adresser à l’urologue pour stratification du risque (IRM, biopsies)
+- ≥ 4 ng/mL: adresser à l'urologue pour stratification du risque (IRM, biopsies)
 
-Arrêter le dépistage quand l’espérance de vie est < 10 ans.
+Arrêter le dépistage quand l'espérance de vie est < 10 ans.
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}

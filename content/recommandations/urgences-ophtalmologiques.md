@@ -33,7 +33,7 @@ datatable = true
 | Le Mans | CH Le Mans: Bâtiment Fontenoy | 194 av. Rubillard<br>72037 Le Mans | lun-ven<br>8:30-18:00 | 02 43 43 43 21 | Urgences en dehors des horaires |
 | Lille | Hôpital Huriez | 2 av. Oscar Lambret<br>59000 Lille | 24/7 | 03 20 44 59 62 | |
 | Lyon | Hôpital de la Croix-Rousse: Bât. R | 103 Gde Rue de la<br>Croix-Rousse 69004 Lyon | lun-ven<br>8:00-17:00 | 04 26 10 91 28 | Aller aux consultations |
-| Lyon | Hôpital Edouart Herriot: Pavillon C | 5 pl. d’Arsonval<br>69003 Lyon | 24/7 | 04 72 11 62 33 | |
+| Lyon | Hôpital Edouart Herriot: Pavillon C | 5 pl. d'Arsonval<br>69003 Lyon | 24/7 | 04 72 11 62 33 | |
 | Marseille | Hôpital Nord<br>Pavillon Mistral, 2<sup>e</sup> étage | Chemin des Bourrely<br>13015 Marseille | 24/7 | 04 91 96 44 44 | Après 17h/WE/JF, aller aux Urgences adultes |
 | Marseille | Hôpital de la Timone | 264 Rue Saint-Pierre<br>13005 Marseille | lun-ven<br>8:00-16:45 | 04 91 38 54 68 | Hôpital Nord Urgences adultes en dehors des horaires |
 | Melun | Centre Opth. du Pr Dighiero | 96 bis de la Grande Rue<br>77022 Barbizon | lun-ven<br>Journée | 01 60 66 14 26 | Appeler avant |
@@ -58,8 +58,8 @@ datatable = true
 | Rennes | Hôpital Pontchaillou | 2 rue Henri Le Guilloux<br>35000 Rennes | 24/7 | 02 99 28 42 89 | |
 | Roissy-en-Brie | Seima-Ophta | Place de la Révolution<br>77680 Roissy-en-Brie | lun-sam<br>Journée | 01 60 62 41 72 | Appeler avant |
 | Saint-Etienne | Hôpital de Bellevue<br>Bâtiment B, niveau 0 | 25 bd Pasteur<br>42100 Saint-Etienne | 24/7 | 04 77 12 77 93 | Après 17:30 (17h vendredi) Bâtiment G urgences adultes |
-| Strasbourg | Hôpital Civil<br>Unité Urgences UF4 | 1 pl. de l’Hôpital<br>67000 Strasbourg | lun-ven<br>8:15-18:00 | 03 69 55 02 70<br>03 69 55 05 61 | Urgences du Nouvel Hôpital Civil en dehors des horaires |
-| Strasbourg | Centre Ophtalmo. Maison Rouge | 6 rue de l’église<br>67000 Strasbourg | lun-ven<br>9:00-19:00<br>sam 8:30-11:30 | 03 88 23 88 25 | Urgences Clinique Rhena en dehors des horaires |
+| Strasbourg | Hôpital Civil<br>Unité Urgences UF4 | 1 pl. de l'Hôpital<br>67000 Strasbourg | lun-ven<br>8:15-18:00 | 03 69 55 02 70<br>03 69 55 05 61 | Urgences du Nouvel Hôpital Civil en dehors des horaires |
+| Strasbourg | Centre Ophtalmo. Maison Rouge | 6 rue de l'église<br>67000 Strasbourg | lun-ven<br>9:00-19:00<br>sam 8:30-11:30 | 03 88 23 88 25 | Urgences Clinique Rhena en dehors des horaires |
 | Toulon | Ophtaval | Pl. Gén de Gaulle Le Médival<br>Bat A, 83160 La Valette du Var | Journée | 04 94 61 00 88 | |
 | Toulouse | Site Purpan - Hôpital Riquet<br>3e étage, Hall C | Pl. du Dr Baylac<br>31300 Toulouse | 24/7 | 05 61 77 22 33 | |
 | Toulouse | Centre ophtalmologique de la<br>clinique de l'union | Bd de Ratalens<br>31240 Saint-Jean | lun-ven<br>9:00-12:00<br>14:00-18:00 | 05 61 37 87 34 | Urgences de la clinique we et jf |

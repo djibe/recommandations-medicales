@@ -21,7 +21,7 @@ imageSrc = ""
 {{%article-summary%}}
 
 - Rechercher un diabète et des troubles du comportement alimentaire
-- Indications à l'EOGD: signes d’alarme (perte de poids, anémie, dysphagie, hémorragie digestive), âge > 50 ans, échec du traitement médical, antécédent familial ou personnel de cancer digestif
+- Indications à l'EOGD: signes d'alarme (perte de poids, anémie, dysphagie, hémorragie digestive), âge > 50 ans, échec du traitement médical, antécédent familial ou personnel de cancer digestif
 - Recherche d'*Helicobacter pylori* (sérologie, test respiratoire) SI EOGD non indiquée
 - IPP simple dose 4-8 semaines, augmentation possible x 2/j
 - Éviter les repas gras

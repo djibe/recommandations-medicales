@@ -20,7 +20,7 @@ imageSrc = ""
 
 {{%article-summary%}}
 
-- L’absence de pic étroit à l'EPS ne permet pas d’écarter le diagnostic de myélome à chaînes légères (10 % des myélomes) ou non sécrétant
+- L'absence de pic étroit à l'EPS ne permet pas d'écarter le diagnostic de myélome à chaînes légères (10 % des myélomes) ou non sécrétant
 - Indications limitées de la réalisation de l'EPS (voir *Indications*)
 - Compléter la découverte du pic monoclonal avec le bilan adapté (voir *Examens complémentaires*)
 - En cas de suspicion d'hémopathie (voir *Qui adresser au spécialiste?*), adresser rapidement au spécialiste. Sinon surveillance à 6 mois puis annuelle
@@ -32,28 +32,28 @@ imageSrc = ""
 : Examen de biologie aboutissant à la séparation et l'analyse des protéines sériques.  
 Il vise à identifier une immunoglobuline monoclonale, une hypergammaglobulinémie et plus rarement une hypogammaglobulinémie.
 : La présence d'une Ig monoclonale impose d'éliminer une hémopathie maligne, *myélome* pour les IgG et IgA, et *maladie de Waldenström* pour les IgM.  
-Le plus souvent, le pic correspond à une immunoglobuline monoclonale dite *de signification indéterminée* dont la prévalence augmente avec l’âge.
+Le plus souvent, le pic correspond à une immunoglobuline monoclonale dite *de signification indéterminée* dont la prévalence augmente avec l'âge.
 
 {{% /collapse %}}
 {{%collapse "Indications à l'électrophorèse des protéines sériques" %}}
 
 Indications à l'EPS:
 
-- Syndrome d’hyperviscosité  
+- Syndrome d'hyperviscosité  
 {{%class%}}Dosage en urgence.{{%/class%}}
 - Infections à répétition des voies aériennes supérieures et pulmonaires
-- Douleurs osseuses non traumatiques sans anomalies à l’examen radiologique standard
+- Douleurs osseuses non traumatiques sans anomalies à l'examen radiologique standard
 - Polyarthrite inexpliquée
 - Adénopathies
 - Splénomégalie
 - Neuropathie périphérique inexpliquée
 - Purpura vasculaire
-- Anomalies de l’hémogramme sans cause évidente  
+- Anomalies de l'hémogramme sans cause évidente  
 {{%class%}}Anémie, lymphopénie isolée ou hyperlymphocytose.{{%/class%}}
 - VS élevée avec CRP normale  
-{{%class%}}En dehors de la grossesse et en tenant compte de l’âge.{{%/class%}}
+{{%class%}}En dehors de la grossesse et en tenant compte de l'âge.{{%/class%}}
 - Hypercalcémie  
-{{%class%}}Corrigée en fonction de l’albuminémie/protidémie.{{%/class%}}
+{{%class%}}Corrigée en fonction de l'albuminémie/protidémie.{{%/class%}}
 - Insuffisance rénale récente non obstructive
 - Protéinurie > 0,5 g/L
 - Certaines anomalies osseuses radiologiques  
@@ -121,6 +121,6 @@ Dans le même laboratoire avec la même technique.
 {{% /collapse %}}
 {{%sources%}}
 
-[HAS. Quand prescrire une électrophorèse des protéines sériques (EPS) et conduite à tenir en cas d’une immunoglobuline monoclonale. Janvier 2017.](https://www.has-sante.fr/jcms/c_2742018/fr/quand-prescrire-une-electrophorese-des-proteines-seriques-eps-et-conduite-a-tenir-en-cas-d-une-immunoglobuline-monoclonale)
+[HAS. Quand prescrire une électrophorèse des protéines sériques (EPS) et conduite à tenir en cas d'une immunoglobuline monoclonale. Janvier 2017.](https://www.has-sante.fr/jcms/c_2742018/fr/quand-prescrire-une-electrophorese-des-proteines-seriques-eps-et-conduite-a-tenir-en-cas-d-une-immunoglobuline-monoclonale)
 
 {{%/sources%}}

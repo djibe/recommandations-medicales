@@ -54,7 +54,7 @@ Papule
 : Élément rouge en relief, de 1 à 5 mm de diamètre, parfois sensible, évoluant vers la **pustule** (collection purulente blanc-jaunâtre).
 
 Nodule
-: Plus profond, diamètre > 5mm, pouvant évoluer vers l’abcédation et la rupture.
+: Plus profond, diamètre > 5mm, pouvant évoluer vers l'abcédation et la rupture.
 
 Risque de laisser des cicatrices atrophiques définitives, des cicatrices hypertrophiques ou des macules érythémateuses le plus souvent transitoires et/ou pigmentées.
 
@@ -193,8 +193,8 @@ graph TB
 
 Selon la SFDermato, informer le patient:
 
-- du caractère suspensif du traitement et de la nécessité d’un traitement d’entretien local aussi longtemps que nécessaire
-- du délai de quelques semaines nécessaire à l’obtention d’une amélioration
+- du caractère suspensif du traitement et de la nécessité d'un traitement d'entretien local aussi longtemps que nécessaire
+- du délai de quelques semaines nécessaire à l'obtention d'une amélioration
 - de la nécessité de la régularité des applications
 - des effets irritants fréquents des traitements locaux et des mesures à prendre pour les prévenir et les prendre en charge
 
@@ -207,11 +207,11 @@ Selon la SFDermato, informer le patient:
 
 {{< card-link title="Acné" url="https://www.dermatoclic.com/acne" subtitle="Dermatoclic">}}
 
-- [ANSM. Traitement de l’acné sévère : premières recommandations pour améliorer la sécurité d’utilisation de l’isotrétinoïne. 05/05/2021.](https://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Traitement-contre-l-acne-regles-de-bon-usage-de-l-isotretinoine-pour-limiter-les-risques-Point-d-Information)
+- [ANSM. Traitement de l'acné sévère : premières recommandations pour améliorer la sécurité d'utilisation de l'isotrétinoïne. 05/05/2021.](https://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Traitement-contre-l-acne-regles-de-bon-usage-de-l-isotretinoine-pour-limiter-les-risques-Point-d-Information)
 - Prescrire Redaction. Patients ayant une acné. Mars 2017.
 - Prescrire Redaction. Premiers choix Prescrire. Acné. Octobre 2016.
-- [Société Française de Dermatologie. Prise en charge de l’acné. Label HAS. 10/06/2015. (PDF)](https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)
-- [ANSM. Mai 2015. Restriction de la prescription initiale de l’isotrétinoïne orale aux dermatologues – Lettre aux professionnels de santé.](https://archiveansm.integra.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Restriction-de-la-prescription-initiale-de-l-isotretinoine-orale-aux-dermatologues-Lettre-aux-professionnels-de-sante)
+- [Société Française de Dermatologie. Prise en charge de l'acné. Label HAS. 10/06/2015. (PDF)](https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)
+- [ANSM. Mai 2015. Restriction de la prescription initiale de l'isotrétinoïne orale aux dermatologues – Lettre aux professionnels de santé.](https://archiveansm.integra.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Restriction-de-la-prescription-initiale-de-l-isotretinoine-orale-aux-dermatologues-Lettre-aux-professionnels-de-sante)
 
 ### À lire
 

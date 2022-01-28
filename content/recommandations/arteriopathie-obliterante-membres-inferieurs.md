@@ -95,20 +95,20 @@ Blue toe syndrome
 - Patients à risque d'AOMI
   - Toute autre localisation athéromateuse connue  
   Symptomatique ou non, coronaropathie +++.
-  - [Anévrysme de l’aorte abdominale]({{< relref "anevrysme-aorte-abdominale.md" >}})
+  - [Anévrysme de l'aorte abdominale]({{< relref "anevrysme-aorte-abdominale.md" >}})
   - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
   - Insuffisance cardiaque
 - Asymptomatique à risque d'AOMI
   - **Âge ≥ 65 ans**
   - {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé{{< /modal-btn >}}
-  - Âge ≥ 50 ans avec antécédent familial d’AOMI
+  - Âge ≥ 50 ans avec antécédent familial d'AOMI
   - Âge ≥ 50 ans avec ≥ 1 autre facteur de risque cardiovasculaire (*SFMV 2020*)
 
 > Indications au dépistage selon ESC 2017 (sauf mention contraire)
 
 {{%/info%}}
 
-Le dépistage de l’artériopathie par l’IPS est à **renouveler tous les 5 ans** ou plus souvent si situation à risque.
+Le dépistage de l'artériopathie par l'IPS est à **renouveler tous les 5 ans** ou plus souvent si situation à risque.
 
 ### Comment ?
 
@@ -166,9 +166,9 @@ Iliaque, fémorale ou poplité, souffle systolique au triangle de Scarpa ++ (RV+
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} (calcul du {{< scores/heartscore >}})
 
 {{%info%}}
-L'IPS sert au dépistage, au diagnostic et à la surveillance de l’AOMI.
+L'IPS sert au dépistage, au diagnostic et à la surveillance de l'AOMI.
 
-L'*ESC* encourage la **mesure de l’index de pression systolique** (IPS) par tout médecin au cours d'une consultation dédiée.  
+L'*ESC* encourage la **mesure de l'index de pression systolique** (IPS) par tout médecin au cours d'une consultation dédiée.  
 8 minutes pour un médecin entraîné.
 {{%/info%}}
 
@@ -205,11 +205,11 @@ ATCD arthrosique. Sensibilité, inconfort, œdème rétro-gonal ou du mollet, au
 - Consultation de cardiologie
 {{%/info%}}
 
-**NB.** L’atteinte d’un territoire vasculaire impose le bilan d’aval et des autres localisations (60-70% d'atteintes associées).
+**NB.** L'atteinte d'un territoire vasculaire impose le bilan d'aval et des autres localisations (60-70% d'atteintes associées).
 
 ### Échodoppler artériel des membres inférieurs, aorte et TSA
 
-Confirme les lésions d’AOMI et couplé au [dépistage systématique de l’anévrysme de l’aorte abdominale]({{< relref "anevrysme-aorte-abdominale.md" >}}).  
+Confirme les lésions d'AOMI et couplé au [dépistage systématique de l'anévrysme de l'aorte abdominale]({{< relref "anevrysme-aorte-abdominale.md" >}}).  
 Aide à la classification de *Fontaine et Rutherford*.
 
 ### ECG de repos ± épreuve d'effort
@@ -225,7 +225,7 @@ Dépiste une coronaropathie ou un trouble du rythme associé.
 
 **Objectif:** obtenir une amélioration du périmètre de marche et restaurer une qualité de vie.
 
-{{%info%}}Suivi cardiologique spécialisé, traitement systématique par statine et IEC, sevrage tabagique et mesures d’hygiène.{{%/info%}}
+{{%info%}}Suivi cardiologique spécialisé, traitement systématique par statine et IEC, sevrage tabagique et mesures d'hygiène.{{%/info%}}
 
 - [ALD n°3]({{< relref "affection-longue-duree.md" >}})  
 Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant nécessité revascularisation ou amputation.
@@ -297,15 +297,15 @@ style depister stroke:#4150f5, stroke-width:1px
 - {{< references/sfd-dt2 >}}
 - [Mahé G. et al, the SFMV/SCVE group. Disparities between international guidelines (AHA/ESC/ESVS/ESVM/SVS) concerning - Lower extremity arterial disease: consensus of the French Society of Vascular Medicine (SFMV) and the French Society for Vascular and Endovascular Surgery (SCVE). Annals of Vascular Surgery. 2021.](https://doi.org/10.1016/j.avsg.2020.11.011)
 - {{< references/esc-dyslipidemie >}}
-- Prescrire Redaction. Signes d’artériopathie des membres inférieurs. Août 2019.
+- Prescrire Redaction. Signes d'artériopathie des membres inférieurs. Août 2019.
 - [Aboyans A. et al. 2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS): Document covering atherosclerotic disease of extracranial carotid and vertebral, mesenteric, renal, upper and lower extremity arteries. Endorsed by: the European Stroke Organization (ESO) The Task Force for the Diagnosis and Treatment of Peripheral Arterial Diseases of the European Society of Cardiology (ESC) and of the European Society for Vascular Surgery (ESVS). Eur Heart J. 2018 Mar 1;39(9):763-816.](https://doi.org/10.1093/eurheartj/ehx095)
 - [Mahé G., Jaquinandi V. Artériopathie des membres inférieurs athéromateuse : diagnostic. La Presse Médicale. Volume 47. Issue 1. 20183 Pages 47-55. ISSN 0755-4982.](https://doi.org/10.1016/j.lpm.2017.09.021)
 - [HAS. Actes et prestations – ALD. Artériopathie oblitérante des membres inférieurs. Novembre 2016.](https://www.has-sante.fr/jcms/c_534760/fr/ald-n3-arteriopathie-obliterante-des-membres-inferieurs)
-- [Mounier-Vehier C et al. Quand doit-on dépister l’artériopathie oblitérante des membres inférieurs ? Quelle stratégie médicale proposer ? Mal Coeur Vaiss Prat. 15 déc 2009;15(182):13‑24.](https://www.em-consulte.com/article/237143)
+- [Mounier-Vehier C et al. Quand doit-on dépister l'artériopathie oblitérante des membres inférieurs ? Quelle stratégie médicale proposer ? Mal Coeur Vaiss Prat. 15 déc 2009;15(182):13‑24.](https://www.em-consulte.com/article/237143)
 - [TASC II. Management of Peripheral Arterial Disease. 2007.](https://www.jvascsurg.org/article/S0741-5214(06)02296-8/pdf)
 - [Bendermacher BL et al. A clinical prediction model for the presence of peripheral arterial disease--the benefit of screening individuals before initiation of measurement of the ankle-brachial index: an observational study. Vasc Med. 2007 Feb;12(1):5-11.](https://journals.sagepub.com/doi/10.1177/1358863X07076827)
 - [HAS. Guide ALD Artériopathie oblitérante des membres inférieurs. Mars 2007.](https://www.has-sante.fr/upload/docs/application/pdf/ald3_aomi_guide_cardiovasc_post_corrlemire_revuenp28avril__205.pdf)
-- [HAS. Prise en charge de l’artériopathie chronique oblitérante athéroscléreuse des membres inférieurs. Avril 2006.](https://www.has-sante.fr/jcms/c_272513/fr/prise-en-charge-de-l-arteriopathie-chronique-obliterante-atherosclereuse-des-membres-inferieurs-indications-medicamenteuses-de-revascularisation-et-de-reeducation)
+- [HAS. Prise en charge de l'artériopathie chronique oblitérante athéroscléreuse des membres inférieurs. Avril 2006.](https://www.has-sante.fr/jcms/c_272513/fr/prise-en-charge-de-l-arteriopathie-chronique-obliterante-atherosclereuse-des-membres-inferieurs-indications-medicamenteuses-de-revascularisation-et-de-reeducation)
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}

@@ -54,7 +54,7 @@ Personnes exclusives jusqu'au 22 novembre 2021:
 Insuffisance respiratoire, insuffisance cardiaque, diabète, insuffisance rénale, asthme, bronchopneumopathie obstructive, mucoviscidose, …
 - Obésité morbide (IMC ≥ 40 kg/m<sup>2</sup>)
 - Entourage des nourrissons de moins de 6 mois à risque de grippe grave  
-Prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d’une affection de longue durée ainsi - Immunodéprimé et son entourage
+Prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d'une affection de longue durée ainsi - Immunodéprimé et son entourage
 
 > *[Ameli Médecin 22/10/2021 (PDF)](https://www.ameli.fr/sites/default/files/Documents/707929/document/grippe-memos-medecins2021.pdf)*
 
@@ -70,7 +70,7 @@ Bon de prise en charge n°850 sur Ameli pro.
 - Femmes enceintes
 - Asthme et [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (ALD 14)
 - Insuffisances respiratoires chroniques obstructives ou restrictives
-- Maladies respiratoires chroniques ne remplissant pas les critères de l’ALD mais susceptibles d’être aggravées ou décompensées par une affection grippale (asthme, bronchite chronique, bronchiectasies, hyper-réactivité bronchique)
+- Maladies respiratoires chroniques ne remplissant pas les critères de l'ALD mais susceptibles d'être aggravées ou décompensées par une affection grippale (asthme, bronchite chronique, bronchiectasies, hyper-réactivité bronchique)
 - Dysplasies broncho-pulmonaires
 - Mucoviscidose
 - Cardiopathies congénitales cyanogènes ou avec une HTAP et/ou une insuffisance cardiaque
@@ -79,7 +79,7 @@ Bon de prise en charge n°850 sur Ameli pro.
 - Troubles du rythme graves justifiant un traitement au long cours
 - Maladies des coronaires
 - [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (SFMV 2020)
-- Antécédents d’[accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}})
+- Antécédents d'[accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}})
 - Formes graves des affections neurologiques et musculaires (dont myopathie, poliomyélite, myasthénie et maladie de Charcot)
 - Paraplégies et tétraplégies avec atteinte diaphragmatique
 - Néphropathies chroniques graves
@@ -88,19 +88,19 @@ Bon de prise en charge n°850 sur Ameli pro.
 - Diabètes de [type 1]({{< relref "diabete-type-1.md" >}}) et de [type 2]({{< relref "diabete-type-2.md" >}})
 - Maladie hépatique chronique avec ou sans cirrhose
 - Déficits immunitaires primitifs ou acquis
-  - Pathologies oncologiques et hématologiques, transplantations d’organe et de cellules souches hématopoïétiques, déficits immunitaires héréditaires
+  - Pathologies oncologiques et hématologiques, transplantations d'organe et de cellules souches hématopoïétiques, déficits immunitaires héréditaires
   - Maladies inflammatoires et/ou auto-immunes recevant un traitement immunosuppresseur,
   - Toute [PVVIH]({{< relref "vih-sida.md" >}})
 - Obésité morbide (IMC ≥ 40 kg/m<sup>2</sup>)
 - Personnes séjournant en SSR, EHPAD ou médico-social
-- Entourage des nourrissons de moins de 6 mois présentant des facteurs de risque de grippe grave: prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d’une affection de longue durée ainsi que l’entourage des personnes immunodéprimées.
+- Entourage des nourrissons de moins de 6 mois présentant des facteurs de risque de grippe grave: prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d'une affection de longue durée ainsi que l'entourage des personnes immunodéprimées.
 
 > {{< references/calendrier-vaccinal >}}
 
 ### Recommandations pour les professionnels
 
 - Professionnels de santé et tout professionnel en contact régulier et prolongé avec des personnes à risque de grippe sévère.
-- Personnel navigant des bateaux de croisière et des avions et personnel de l’industrie des voyages accompagnant les groupes de voyageurs (guides).
+- Personnel navigant des bateaux de croisière et des avions et personnel de l'industrie des voyages accompagnant les groupes de voyageurs (guides).
 
 > {{< references/calendrier-vaccinal >}}
 
@@ -135,7 +135,7 @@ Chez le sujet vivant en établissement, la vaccination réduit la survenue de pa
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS. Vaccination antigrippale : la stratégie de la prochaine campagne annuelle réaffirmée dans le contexte de l’épidémie de COVID-19. 02/06/2020.](https://www.has-sante.fr/jcms/p_3187536/fr/vaccination-antigrippale-la-strategie-de-la-prochaine-campagne-annuelle-reaffirmee-dans-le-contexte-de-l-epidemie-de-covid-19)
+- [HAS. Vaccination antigrippale : la stratégie de la prochaine campagne annuelle réaffirmée dans le contexte de l'épidémie de COVID-19. 02/06/2020.](https://www.has-sante.fr/jcms/p_3187536/fr/vaccination-antigrippale-la-strategie-de-la-prochaine-campagne-annuelle-reaffirmee-dans-le-contexte-de-l-epidemie-de-covid-19)
 - [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe ! 13/05/2020.](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
 - {{< references/calendrier-vaccinal >}}
 

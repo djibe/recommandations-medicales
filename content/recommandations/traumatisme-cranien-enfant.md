@@ -135,7 +135,7 @@ Troubles de l'hémostase, accidents, intoxications, pathologies.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> "La radiographie de crâne n’a pas d’indication, à l’exception de la suspicion de maltraitance". (SFMU)
+> "La radiographie de crâne n'a pas d'indication, à l'exception de la suspicion de maltraitance". (SFMU)
 
 Aucun examen en l'absence de signe de gravité ou de gravité estimée par le médecin.
 
@@ -159,19 +159,19 @@ Appeler le {{<phone>}}15{{</phone>}} en cas de:
 - Perte de conscience ou baisse de vigilance telle la somnolence  
 Difficultés à garder les yeux ouverts.
 - Confusion  
-Désorientation dans le temps, l’espace: « où suis-je » ?...
-- Somnolence persistante au-delà d’une heure à un moment de la journée où votre enfant est censé être bien réveillé (donc en dehors des heures de sieste)
+Désorientation dans le temps, l'espace: « où suis-je » ?...
+- Somnolence persistante au-delà d'une heure à un moment de la journée où votre enfant est censé être bien réveillé (donc en dehors des heures de sieste)
 - Difficultés à réveiller votre enfant
-- Problèmes de compréhension ou d’expression
-- Perte d’équilibre, difficultés à la marche
-- Faiblesse musculaire d’un bras et/ou d’une jambe
+- Problèmes de compréhension ou d'expression
+- Perte d'équilibre, difficultés à la marche
+- Faiblesse musculaire d'un bras et/ou d'une jambe
 - Problèmes de vision
 - Maux de tête violents et persistants
 - Vomissements
 - Toute crise telle une perte de connaissance brutale
-- Écoulement de liquide clair à partir du nez, d’une oreille
-- Saignement de l’une ou des deux oreilles
-- Perte d’audition de l’une ou des deux oreilles
+- Écoulement de liquide clair à partir du nez, d'une oreille
+- Saignement de l'une ou des deux oreilles
+- Perte d'audition de l'une ou des deux oreilles
 
 Remise des [Consignes de surveillance à donner aux parents (PDF)](/print/tc-enfant-consignes.pdf)
 
@@ -195,7 +195,7 @@ graph TB
 {{%sources%}}
 
 - [NICE. Head injury: assessment and early management. 22/01/2014. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/head-injury-assessment-and-early-management-pdf-35109755595493.pdf)
-- [SFMU. Traumatisme crânien léger de l’enfant. Urgences 2015. (PDF)](https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2015/donnees/pdf/039.pdf)
-- [Lorton F. et al, GFRUP. Actualisation des recommandations pour la prise en charge du traumatisme crânien léger chez l’enfant, Journal Européen des Urgences et de Réanimation, Volume 26, Issues 3–4, 2014, Pages 222-228. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/recos_2014_sfpediatrie_traumatisme_cranien_leger.pdf)
+- [SFMU. Traumatisme crânien léger de l'enfant. Urgences 2015. (PDF)](https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2015/donnees/pdf/039.pdf)
+- [Lorton F. et al, GFRUP. Actualisation des recommandations pour la prise en charge du traumatisme crânien léger chez l'enfant, Journal Européen des Urgences et de Réanimation, Volume 26, Issues 3–4, 2014, Pages 222-228. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/recos_2014_sfpediatrie_traumatisme_cranien_leger.pdf)
 
 {{%/sources%}}

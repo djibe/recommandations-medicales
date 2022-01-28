@@ -33,15 +33,15 @@ todo = "critère diag score ?, DAS28, flowchart, https://www.has-sante.fr/jcms/c
 
 Polyarthrite rhumatoïde (PR)
 : Maladie chronique évoluant par poussées inflammatoires de la membrane synoviale.  
-Premier rhumatisme inflammatoire de l’adulte (prévalence de 0,3 à 1%).  
-La destruction articulaire entraîne altération de la qualité de vie, handicap et réduction de l’espérance de vie (~10 ans)
+Premier rhumatisme inflammatoire de l'adulte (prévalence de 0,3 à 1%).  
+La destruction articulaire entraîne altération de la qualité de vie, handicap et réduction de l'espérance de vie (~10 ans)
 : Intérêt d'un diagnostic et d'un traitement précoce.
 : **Complications** de la polyarthrite: déformations articulaires et handicap, douleurs et altération de la qualité de vie, augmentation du risque cardiovasculaire, insuffisance respiratoire restrictive, infections, lymphomes, fractures ostéoporotiques.
 : *Rémission* de la polyarthrite rhumatoïde: lorsque le score [DAS28](https://sfr.larhumatologie.fr/sites/sfr.larhumatologie.fr/files/medias/formations-ressources/boite_outils/das28.pdf) est < 2,6.
 
 Traitements conventionnels
 : Méthotrexate, léflunomide ou sulfasalazine.  
-Ils sont appelés *csDMARDs* par l’EULAR ({{%lang%}}conventional synthetic Disease Modifying AntiRheumatic Drugs{{%/lang%}}).
+Ils sont appelés *csDMARDs* par l'EULAR ({{%lang%}}conventional synthetic Disease Modifying AntiRheumatic Drugs{{%/lang%}}).
 
 ### Facteurs de mauvais pronostic
 
@@ -61,13 +61,13 @@ Ils sont appelés *csDMARDs* par l’EULAR ({{%lang%}}conventional synthetic Dis
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%warning%}}Arthrite atteignant > 1 articulation: avis rhumatologique sous 6 semaines (à compter de l’apparition des symptômes){{%/warning%}}
+{{%warning%}}Arthrite atteignant > 1 articulation: avis rhumatologique sous 6 semaines (à compter de l'apparition des symptômes){{%/warning%}}
 
 {{%info%}}
 Évoquer une polyarthrite rhumatoïde devant toute arthrite clinique, raideur matinale > 30 minutes, douleurs à la pression transverse des mains (MCP) ou avant-pieds (MTP), évolution > 1 an, antécédent de PR chez un parent au 1<sup>er</sup> degré, difficultés à fermer le poing.
 {{%/info%}}
 
-L’examen clinique a une place primordiale dans la détection et le traitement de l’arthrite.
+L'examen clinique a une place primordiale dans la détection et le traitement de l'arthrite.
 
 ### Interrogatoire
 
@@ -145,7 +145,7 @@ Confirme la synovite dans certains cas. Peut être complétée par l'IRM.
 - AINS  
 Si symptomatique et état rénal ou cardio-vasculaire correct.
 - **Éducation thérapeutique**  
-Gérer la douleur, handicap, observance, maintien de l’activité professionnelle.
+Gérer la douleur, handicap, observance, maintien de l'activité professionnelle.
 - **Suivi bucco-dentaire rigoureux**
 - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md">}})  
   - dTP tous les 10 ans
@@ -194,7 +194,7 @@ Augmentation de 5 mg/1-4 semaines selon efficacité-tolérance.
 
 ---
 
-10 mg/semaine d’acide folique systématique
+10 mg/semaine d'acide folique systématique
 {{%/info%}}
 
 Voie sous-cutanée si efficacité insuffisante (Imeth injectable®, Metoject®, Nordimet®, génériques).
@@ -216,7 +216,7 @@ En association avec le méthotrexate (≥ 10 mg/semaine), selon la tolérance, p
   - IV: infliximab (Remicade®, Inflectra®, Remsima®)
 - Anti-IL6
   - Tocilizumab (Roactemra®)
-  - Sarilumab (Kevzara®, n’apporte rien de nouveau selon Prescrire®)
+  - Sarilumab (Kevzara®, n'apporte rien de nouveau selon Prescrire®)
 - Anti-CD20  
 Rituximab (pour cas spécifiques: Mabthera®, Truxima®).
 - Modulateur de costimulation lymphocytes T  
@@ -232,7 +232,7 @@ OU rotation léflunomide - sulfasalazine.
 
 ### Corticothérapie orale
 
-En attente de l’efficacité du traitement de fond ou lors du échange de traitement de fond.  
+En attente de l'efficacité du traitement de fond ou lors du échange de traitement de fond.  
 Posologie initiale ex. 0,15 mg/kg.
 
 **Arrêt sous 3 mois avec décroissance progressive (maximum 6 mois)**, dose minimale suffisante.  
@@ -257,7 +257,7 @@ Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
 ### Pour en savoir plus: suivi par le rhumatologue
 
 - Par le rhumatologue tous les 1 à 3 mois tant que la maladie est active
-- Nombre d’articulations douloureuses et gonflées
+- Nombre d'articulations douloureuses et gonflées
 - Indice articulaire [DAS28](https://sfr.larhumatologie.fr/sites/sfr.larhumatologie.fr/files/medias/formations-ressources/boite_outils/das28.pdf)
 - Évaluation annuelle du retentissement: échelle HAQ
 
@@ -280,7 +280,7 @@ graph TB
 - Modalités évolutives possibles
 - Progrès réalisés avec les traitements actuels
 - Efficacité et tolérance des traitements
-- Importance de l’observance et de la prise unique hebdomadaire de méthotrexate
+- Importance de l'observance et de la prise unique hebdomadaire de méthotrexate
 - Arrêt du tabac, contrôle cardiovasculaire, régime méditerranéen, vaccins, cancers, ostéoporose
 - Suivi clinico-bio-radiologique
 - Associations de malades

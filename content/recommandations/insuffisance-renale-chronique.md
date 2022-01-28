@@ -43,7 +43,7 @@ OU présence ≥ 1 *marqueur d'atteinte rénale* persistant **plus de 3 mois**:
     - Albuminurie ou protéinurie
     - Hématurie > 10/mm³ (hors cause urologique)  
     - Leucocyturie > 10/mm³ (en l'absence d'infection)
-    - Anomalie morphologique à l’échographie rénale  
+    - Anomalie morphologique à l'échographie rénale  
     Asymétrie de taille, contours bosselés, reins de petite taille/gros reins polykystiques, néphrocalcinose, kyste.
 : Elle augmente le risque et la mortalité cardiovasculaire.
 
@@ -196,7 +196,7 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
 - NFS
 - Créatininémie avec estimation du DFGe {{< scores/ckd-epi >}}
 - Ionogramme sanguin, bicarbonates
-- Bilan lipidique (de moins d’un an)
+- Bilan lipidique (de moins d'un an)
 - Glycémie à jeun ou HbA<sub>1C</sub>
 - Urinaire  
 ECBU + échantillon albuminurie/créatininurie
@@ -406,7 +406,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{%sources%}}
 
 - {{< references/sfd-dt2 >}}
-- [HAS. Maladie rénale chronique de l’adulte. Guide du parcours de soins. Juillet 2021.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
+- [HAS. Maladie rénale chronique de l'adulte. Guide du parcours de soins. Juillet 2021.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
 - [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. Volume 99. Issue 3. 559 - 569.](https://doi.org/10.1016/j.kint.2020.10.026)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/esc-hta >}}
@@ -414,7 +414,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 
 ### À lire
 
-- [HAS. Suivi ambulatoire de l’adulte transplanté rénal au-delà de 3 mois après transplantation. Recommandations de bonne pratique. Novembre 2007.](https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation)
+- [HAS. Suivi ambulatoire de l'adulte transplanté rénal au-delà de 3 mois après transplantation. Recommandations de bonne pratique. Novembre 2007.](https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation)
 
 {{%/sources%}}
 {{% modal title="DFGe selon la créatinine ininterprétable selon KDIGO 2012" id="modal-creatinine"%}}

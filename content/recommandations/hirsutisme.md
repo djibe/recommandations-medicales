@@ -44,7 +44,7 @@ Les causes de l'hirsutisme sont gynécologiques, endocriniennes et idiopathique:
   - Syndrome de Cushing
   - Acromégalie
   - Hyperprolactinémie
-  - Syndrome sévère de résistance à l’insuline
+  - Syndrome sévère de résistance à l'insuline
   - [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
   - Hyperplasie congénitale des surrénale
   - Idiopathique
@@ -53,7 +53,7 @@ Les causes de l'hirsutisme sont gynécologiques, endocriniennes et idiopathique:
 
 - Duvet
 - Hypertrichose  
-Excès de poils sous forme de duvet sur des zones non androgéniques. Elle est localisée (autour d’un grain de beauté) ou diffuse. Autant chez les femmes que les hommes.
+Excès de poils sous forme de duvet sur des zones non androgéniques. Elle est localisée (autour d'un grain de beauté) ou diffuse. Autant chez les femmes que les hommes.
 
 {{%/collapse %}}
 {{%collapse "Clinique" %}}
@@ -61,7 +61,7 @@ Excès de poils sous forme de duvet sur des zones non androgéniques. Elle est l
 ### Interrogatoire
 
 - Age de survenue, évolution de la pilosité
-- Signes d’**hyperandrogénie** d’un SOPK  
+- Signes d'**hyperandrogénie** d'un SOPK  
 Dysménorrhée, surpoids, acné
 - Signes de **virilisme** (cause tumorale ovarienne ou surrénalienne)  
 Accroissement rapide de la pilosité, hypertrophie musculaire, clitoridienne, raucité de la voix, calvitie, troubles menstruels récents
@@ -69,7 +69,7 @@ Accroissement rapide de la pilosité, hypertrophie musculaire, clitoridienne, ra
 Accroissement progressif de la pilosité, premières règles tardives chez une petite femme, virilisme, troubles menstruels
 - Idiopathique: **antécédents familiaux**, isolé sans hyperandrogénie ni virilisme
 - **Médicaments pris**  
-Si iatrogène, apparition le plus souvent après plusieurs mois et régression en quelques mois après l’arrêt du traitement.
+Si iatrogène, apparition le plus souvent après plusieurs mois et régression en quelques mois après l'arrêt du traitement.
   - Testostérone/DHEA, danazol, tibolone
   - Lévonorgestrel et progestatifs
   - Corticoïdes (même inhalés)

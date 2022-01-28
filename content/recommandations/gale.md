@@ -27,7 +27,7 @@ todo = "collectivité, impétiginisation, ttt < 2 mois, source Prescrire"
 {{%collapse "Définitions" %}}
 
 Gale humaine
-: Contamination cutanée inter-humaine par le *sarcopte* (acarien *Sarcoptes scabiei* variété hominis). Les signes cliniques sont la conséquence à la fois de l’infestation parasitaire et de la réaction de l’organisme contre les sarcoptes et leurs déjections.  
+: Contamination cutanée inter-humaine par le *sarcopte* (acarien *Sarcoptes scabiei* variété hominis). Les signes cliniques sont la conséquence à la fois de l'infestation parasitaire et de la réaction de l'organisme contre les sarcoptes et leurs déjections.  
 Pic de contamination août-novembre.
 
 Sillon
@@ -73,7 +73,7 @@ Incubation silencieuse pendant 1 mois.
 - Ombilic
 - Fesses
 - Face interne des cuisses
-- Organes génitaux externes chez l’homme
+- Organes génitaux externes chez l'homme
 - Mamelon et aréole mammaire chez la femme
 
 ### Examen clinique
@@ -208,16 +208,16 @@ En cas de persistance de prurit après 1 mois, évoquer:
 
 [Information du patient - Santé BD: La gale](https://santebd.org/les-fiches-santebd/docteur-generaliste/je-me-protege-contre-la-gale)
 
-### Exemple de message d’information destiné à l'établissement scolaire ou crèche
+### Exemple de message d'information destiné à l'établissement scolaire ou crèche
 
-Un (des) cas de gale nous a (ont) été signalé(s) dans l’école de votre enfant.  
-L(les)’enfant(s) a(ont) été traité(s) et bénéficie(nt) d’une prise en charge adaptée.
+Un (des) cas de gale nous a (ont) été signalé(s) dans l'école de votre enfant.  
+L(les)'enfant(s) a(ont) été traité(s) et bénéficie(nt) d'une prise en charge adaptée.
 
 La gale est une maladie fréquente et bénigne qui peut concerner tout le monde. Elle se traduit par une envie intense de se gratter plus particulièrement le soir et peut être particulièrement incommodante.
 
-Pour être guéries, les personnes atteintes doivent absolument être traitées. C’est une maladie contagieuse qui se transmet par des contacts "peau à peau" prolongés. Le mobilier scolaire, les cahiers ou stylos ne peuvent pas transmettre la maladie.
+Pour être guéries, les personnes atteintes doivent absolument être traitées. C'est une maladie contagieuse qui se transmet par des contacts "peau à peau" prolongés. Le mobilier scolaire, les cahiers ou stylos ne peuvent pas transmettre la maladie.
 
-Afin d’éviter tout risque d’épidémie, nous vous demandons de bien vouloir consulter votre médecin traitant face à une suspicion de gale chez votre enfant et d’en informer le directeur de l’école si le diagnostic est confirmé.
+Afin d'éviter tout risque d'épidémie, nous vous demandons de bien vouloir consulter votre médecin traitant face à une suspicion de gale chez votre enfant et d'en informer le directeur de l'école si le diagnostic est confirmé.
 
 ### Désinfection des vêtements et du linge de maison
 
@@ -230,7 +230,7 @@ Dans des sacs, puis lavage machine 30°C, séchage machine haute température pu
 8 jours si gale profuse.
 3. Ascaricide  
 En supermarché actif sur le sarcopte de la gale (type Enviroscab® spray ou autre. Aucun n'est remboursé).  
-Pulvériser sur toute la surface du vêtement, à l'endroit et à l’envers, en insistant sur les coutures et plis, puis laisser agir dans des sacs fermés hermétiquement. Laisser agir le produit 3 heures. Enfin ressortir le linge pour un lavage machine à 30°C (ou laisser aérer 2 heures).  
+Pulvériser sur toute la surface du vêtement, à l'endroit et à l'envers, en insistant sur les coutures et plis, puis laisser agir dans des sacs fermés hermétiquement. Laisser agir le produit 3 heures. Enfin ressortir le linge pour un lavage machine à 30°C (ou laisser aérer 2 heures).  
 Si application sur literie, laisser reposer 12h.  
 **NB.** Ne peut être manipulé par asthmatique/problème respiratoire (idem pour Spregal®).  
 Tous les sprays ascaricides doivent être utilisés dans des pièces aérées (fenêtres ouvertes), quitter la pièce pendant 3 heures.

@@ -36,7 +36,7 @@ todo = "Prescrire"
 {{%collapse "Définition" %}}
 
 Contraception d'urgence
-: Méthode de rattrapage, conçue pour être utilisée par une femme en situation d’urgence, après un rapport non protégé (voire un viol), un échec ou un usage défectueux d’une méthode contraceptive.  
+: Méthode de rattrapage, conçue pour être utilisée par une femme en situation d'urgence, après un rapport non protégé (voire un viol), un échec ou un usage défectueux d'une méthode contraceptive.  
 Elle peut être hormonale (lévonorgestrel ou ulipristal acétate) ou mécanique (stérilet).
 
 ### Épidémiologie
@@ -48,7 +48,7 @@ Elle peut être hormonale (lévonorgestrel ou ulipristal acétate) ou mécanique
 
 ### Abréviations
 
-**CPEF:** centres de planification et d’éducation familiale  
+**CPEF:** centres de planification et d'éducation familiale  
 **DIU:** dispositif intra-utérin (ou stérilet)  
 **PCU:** pilule contraceptive d'urgence (ou pilule du lendemain)  
 **UPA:** ulipristal acétate
@@ -73,7 +73,7 @@ Intérêt de fournir une ordonnance en avance surtout si: adolescente, préserva
 À poser dans les 5 jours suivant le rapport non protégé.  
 À privilégier chez les obèses ou après un cancer hormonosensible.
 
-Avant la pose, bilan en urgence: **auto-prélèvement vaginal** pour PCR *[Chlamydia trachomatis]({{< relref "chlamydia-trachomatis.md" >}})* et *Neisseria gonorrhoeae* notamment en cas d’IST, d’infection génitale haute en cours ou récente, d’âge < 25 ans ou de partenaires multiples.
+Avant la pose, bilan en urgence: **auto-prélèvement vaginal** pour PCR *[Chlamydia trachomatis]({{< relref "chlamydia-trachomatis.md" >}})* et *Neisseria gonorrhoeae* notamment en cas d'IST, d'infection génitale haute en cours ou récente, d'âge < 25 ans ou de partenaires multiples.
 
 Consultation de contrôle à 3 mois puis annuelle, ainsi qu'en complications possibles (douleurs pelviennes, saignements, fièvre).
 
@@ -115,7 +115,7 @@ Préférer le LNG en contraception hormonale au long cours.
 Mêmes précautions que pour la PCU (préservatif, contraception, si retard de règles, si vomissements).
 
 **Contre-indications:** grossesse, insuffisance hépatique sévère, asthme sévère non contrôlé.  
-**Effets indésirables:** modérés et de courte durée. Troubles des règles (spotting, retard de règles ou règles en avance), fatigue, nausées, vomissements, douleurs abdominales, céphalées, vertiges, tension mammaire, troubles de l’humeur, myalgies, douleurs dorsales, douleurs pelviennes.
+**Effets indésirables:** modérés et de courte durée. Troubles des règles (spotting, retard de règles ou règles en avance), fatigue, nausées, vomissements, douleurs abdominales, céphalées, vertiges, tension mammaire, troubles de l'humeur, myalgies, douleurs dorsales, douleurs pelviennes.
 
 Même délivrance que la PCU.
 
@@ -159,9 +159,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Ameli. La contraception d’urgence gratuite et anonyme pour les mineures. 02/03/2021.](https://www.ameli.fr/assure/sante/themes/contraception-urgence/contraception-gratuite-anonyme-mineures)
-- [HAS. Contraception d’urgence : dispensation en officine. 17/09/2019.](https://www.has-sante.fr/jcms/c_1759990/fr/contraception-d-urgence-dispensation-en-officine)
-- [HAS. Contraception d’urgence. Juillet 2019.](https://www.has-sante.fr/jcms/c_1754842/fr/contraception-d-urgence)
+- [Ameli. La contraception d'urgence gratuite et anonyme pour les mineures. 02/03/2021.](https://www.ameli.fr/assure/sante/themes/contraception-urgence/contraception-gratuite-anonyme-mineures)
+- [HAS. Contraception d'urgence : dispensation en officine. 17/09/2019.](https://www.has-sante.fr/jcms/c_1759990/fr/contraception-d-urgence-dispensation-en-officine)
+- [HAS. Contraception d'urgence. Juillet 2019.](https://www.has-sante.fr/jcms/c_1754842/fr/contraception-d-urgence)
 - [Rahib D., Lydié N. Contraception. Baromètre de Santé Publique France 2016. Santé Publique France. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/sante-sexuelle/documents/rapport-synthese/barometre-de-sante-publique-france-2016.-contraception.-la-contraception-d-urgence-des-delais-de-prise-toujours-sous-estimes)
 - [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018.](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2018%252FCNGOF_RPC_2018-CONTRACEPTION.pdf&i=21002)
 

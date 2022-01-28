@@ -114,10 +114,10 @@ Personnes nécessitant un schéma vaccinal renforcé:
 
 {{%warning%}}La vaccination doit être différée chez les personnes présentant une maladie fébrile ou une infection aiguë modérée à sévère (*Vacc Info Service*){{%/warning%}}
 
-Contrôler la date de péremption du vaccin, la chaîne du froid (à l’abri de la lumière, température de 2°C à 8°C), consigner le lot dans le dossier médical.
+Contrôler la date de péremption du vaccin, la chaîne du froid (à l'abri de la lumière, température de 2°C à 8°C), consigner le lot dans le dossier médical.
 
-Possibilité de réaliser jusqu’à 4 injections en même temps, dont 2 sur le même site (2 IM, 2 SC ou IM + SC) espacées d’au moins 2,5 cm.  
-La présence d’une infection mineure ne doit pas retarder le rattrapage vaccinal.
+Possibilité de réaliser jusqu'à 4 injections en même temps, dont 2 sur le même site (2 IM, 2 SC ou IM + SC) espacées d'au moins 2,5 cm.  
+La présence d'une infection mineure ne doit pas retarder le rattrapage vaccinal.
 
 Vider l'air de la seringue, désinfection locale et laisser sécher (risque d'inactivation du vaccin), insérer avec angle de 90° avec la peau, injection rapide avec retrait rapide (testée chez nourrisson).
 

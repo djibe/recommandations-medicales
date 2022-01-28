@@ -203,7 +203,7 @@ Indications à la radio de thorax:
 
 - Diagnostic incertain
 - Guérison trop lente
-- Gravité évoquant d’autres diagnostiques
+- Gravité évoquant d'autres diagnostiques
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
@@ -233,9 +233,9 @@ Hospitalisation si critères ci-dessus.
 
 - Désobstruction rhino-pharyngée pluri-quotidienne **DRP**  
   - Sérum physiologique uniquement
-  - << Les aspirations nasopharyngées ont plus d’effets secondaires et ne sont pas recommandées >>
+  - << Les aspirations nasopharyngées ont plus d'effets secondaires et ne sont pas recommandées >>
 - Couchage habituel sur le dos à plat
-- Surveillance régulière de la gêne respiratoire et de l’alimentation  
+- Surveillance régulière de la gêne respiratoire et de l'alimentation  
   - Si possible: Fréquence respiratoire, SpO<sub>2</sub>, température, alimentation, poids, comportement
   - Guérison complète sous 4-6 semaines  
   Bilan spécialisé si persistance au-delà.
@@ -336,9 +336,9 @@ Maladie liée à un virus qui touche le petit enfant, évoluant le plus souvent 
 Petite fièvre, nez qui coule, toux sèche, respiration difficile et sifflante.
 Le diagnostic nécessite un médecin.
 
-Bébé peut avoir du mal à s’alimenter, consulter s’il ne mange pas du tout, moins de la moitié de d’habitude.
+Bébé peut avoir du mal à s'alimenter, consulter s'il ne mange pas du tout, moins de la moitié de d'habitude.
 Intérêt de surveillance rapprochée de la respiration pour consulter en urgence devant une aggravation:  
-fatigue marquée, respiration très rapide, grands mouvements respiratoires, refus de s’alimenter, survenue de malaise ou comportement inhabituel.
+fatigue marquée, respiration très rapide, grands mouvements respiratoires, refus de s'alimenter, survenue de malaise ou comportement inhabituel.
 
 Les cas graves touchent le plus souvent les toux petits (< 6 semaines) et les prématurés,  
 mais aussi les enfants atteints de maladie cardiaque ou pulmonaire.
@@ -351,8 +351,8 @@ Utiliser le paracétamol si la fièvre est supérieure à 38,5°C.
 Éviction du tabac.
 Pour éviter de contaminer les autres enfants: laver les mains plusieurs fois par jour, éviter de sortir dans des lieux fréquentés.
 
-Il n’existe pas de traitement miracle, les lavages de nez et la surveillance des couples respiration-alimentation-comportement sont la pierre angulaire du traitement.
-Si vous êtes très inquiets, la kinésithérapie respiratoire permet de faire évaluer l’enfant tous les jours par un professionnel.
+Il n'existe pas de traitement miracle, les lavages de nez et la surveillance des couples respiration-alimentation-comportement sont la pierre angulaire du traitement.
+Si vous êtes très inquiets, la kinésithérapie respiratoire permet de faire évaluer l'enfant tous les jours par un professionnel.
 Les autres traitements exposent à des effets indésirables parfois graves.
 
 {{% /collapse %}}

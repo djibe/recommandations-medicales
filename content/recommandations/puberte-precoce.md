@@ -30,9 +30,9 @@ todo = "https://pap-pediatrie.fr/endocrinologie/puberte-precoce, Avances puberta
 {{%collapse "Définitions" %}}
 
 Puberté normale
-: Ensemble des phénomènes physiques et psychiques qui définissent le passage de l’enfance à l’âge adulte, aboutissant à l’acquisition de la taille définitive et de la fonction de reproduction.
+: Ensemble des phénomènes physiques et psychiques qui définissent le passage de l'enfance à l'âge adulte, aboutissant à l'acquisition de la taille définitive et de la fonction de reproduction.
 : Période d'environ 4 ans caractérisée par l'accélération de la vitesse de croissance et l'apparition des caractères sexuels secondaires. Les stades pubertaires sont cotés de 1 à 5 selon la classification de **Tanner**.
-: Les premiers signes sont le développement des seins chez la fille et l’augmentation du volume testiculaire chez le garçon.
+: Les premiers signes sont le développement des seins chez la fille et l'augmentation du volume testiculaire chez le garçon.
 
 Puberté précoce (PP)
 : Le diagnostic est clinique, défini par l'âge d'apparition des caractères sexuels (CS II): Fille < 8 ans et garçon < 9,5 ans.
@@ -93,7 +93,7 @@ Sécrétion de stéroïdes sexuels par une gonade autonome.
 - Kystes folliculaires
 - Syndrome de McCune-Albright
 - Médicaments: **pilule œstroprogestative, crème avec œstrogènes**
-- Testotoxicose et adénomes Leydigiens de l’enfant
+- Testotoxicose et adénomes Leydigiens de l'enfant
 - Tumeurs à hCG (garçon)
 - Tumeurs de la corticosurrénale
 
@@ -211,6 +211,6 @@ graph TB
 
 - Société Française d'Endocrinologie. Polycopié des enseignants en endocrinologie - Puberté normale et pathologique.
 - [Collège National des Pédiatres Universitaires. Puberté normale et pathologique.](http://campus.cerimes.fr/media/campus/deploiement/pediatrie/enseignement/puberte_normale/site/html/1.html)
-- [Pienkowski C. et al. La puberté avant l’âge - Nouveaux aspects. (PDF)](http://www.medecine.ups-tlse.fr/desc/fichiers/Puberte%20precoce.pdf)
+- [Pienkowski C. et al. La puberté avant l'âge - Nouveaux aspects. (PDF)](http://www.medecine.ups-tlse.fr/desc/fichiers/Puberte%20precoce.pdf)
 
 {{%/sources%}}

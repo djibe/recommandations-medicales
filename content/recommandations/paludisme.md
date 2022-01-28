@@ -189,7 +189,7 @@ window.onload = () => {
       }
       Mefloquine.html(str3);
       // Doxycycline
-      doxyHtml = `pendant le dîner <span class="text-muted">(si +8 ans)</span><br><br>À débuter le jour de l’arrivée et poursuivre 4 semaines après le retour.<br>Débuter au mieux 3 semaines avant pour évaluer correctement la tolérance.<br>Prendre pendant le dîner, au moins 1h avant le coucher.`;
+      doxyHtml = `pendant le dîner <span class="text-muted">(si +8 ans)</span><br><br>À débuter le jour de l'arrivée et poursuivre 4 semaines après le retour.<br>Débuter au mieux 3 semaines avant pour évaluer correctement la tolérance.<br>Prendre pendant le dîner, au moins 1h avant le coucher.`;
       if ( weight < 20) {
         str4 = 'Contre-indiquée avant 8 ans';
       } else if ( weight >= 20 && weight < 40 ) {

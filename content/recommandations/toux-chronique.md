@@ -61,14 +61,14 @@ Se manifeste par une congestion nasale, un écoulement postérieur ou une rhinor
 
 - AEG
 - Syndrome infectieux (fièvre, sueurs nocturnes…)
-- Dyspnée d’effort
+- Dyspnée d'effort
 - Hémoptysie
 - Apparition/modification de la toux chez un fumeur
 - Dysphonie
 - Dysphagie
 - Fausses routes
 - Adénopathie(s) cervicale(s) suspecte(s)
-- Anomalies majeures de l’examen clinique cardiopulmonaire
+- Anomalies majeures de l'examen clinique cardiopulmonaire
 {{%/danger%}}
 
 {{% /collapse %}}
@@ -125,7 +125,7 @@ Vérifier l'imputabilité sur [Pneumotox](https://www.pneumotox.com/).
   - Retentissement physique ou psycho-social
   - Toux insomniante, émétisante, asthéniante
   - Fractures de côte, douleur musculaire aiguë, révélation/majoration de hernie ou prolapsus
-  - Perte d’urines, céphalées, perte de connaissance
+  - Perte d'urines, céphalées, perte de connaissance
 - Signes de gravité (voir chapitre ci-dessus)
 - Caractères de la toux
   - Rythme nyctéméral et saisonnier
@@ -200,7 +200,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Revue Médicale Suisse. Toux chronique de l’adulte : évaluation et prise en charge.  Rev Med Suisse 2014; volume 10. 2196-2201.](https://www.revmed.ch/RMS/2014/RMS-N-451/Toux-chronique-de-l-adulte-evaluation-et-prise-en-charge)
+- [Revue Médicale Suisse. Toux chronique de l'adulte : évaluation et prise en charge.  Rev Med Suisse 2014; volume 10. 2196-2201.](https://www.revmed.ch/RMS/2014/RMS-N-451/Toux-chronique-de-l-adulte-evaluation-et-prise-en-charge)
 
 ### À lire
 

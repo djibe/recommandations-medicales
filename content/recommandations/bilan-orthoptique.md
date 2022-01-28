@@ -44,16 +44,16 @@ Réaliser un bilan orthoptique devant:
 - [Fatigue](/tags/fatigue/) (*Godts 2016*)
 - Fatigue visuelle
 - Troubles de la concentration
-- Difficultés d’adaptation aux lunettes
+- Difficultés d'adaptation aux lunettes
 - [Céphalées](/tags/cephalees/)
-- Vertiges, troubles de l’équilibre
+- Vertiges, troubles de l'équilibre
 - Chutes répétées de la personne âgée
 - Troubles musculo-squelettiques et douleurs posturales
 - Troubles neuro-visuels (séquelles neurologiques)
 - Retard scolaire (lecture, écriture, copie , géométrie)
 - Enfant trop proche de l'écran ou du livre
 - Nourrisson avec interactions limitées  
-Ne joue pas, ne fixe pas, ne s’intéresse pas à son entourage.
+Ne joue pas, ne fixe pas, ne s'intéresse pas à son entourage.
 
 {{% /collapse %}}
 {{%sources%}}

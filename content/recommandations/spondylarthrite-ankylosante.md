@@ -19,7 +19,7 @@ todo = "def rhumatisme pso + MICI, bilan pré-thérap antitnfa, Société Franç
 
 {{%article-summary%}}
 
-- Dorso-lombalgies durée > 3 mois, réveil nocturne, dérouillage matinal > 30 minutes, aggravées au repos, diminuées à l’activité physique.
+- Dorso-lombalgies durée > 3 mois, réveil nocturne, dérouillage matinal > 30 minutes, aggravées au repos, diminuées à l'activité physique.
 - Grande efficacité des AINS
 - Bilan biologique + Rx + IRM
 - Avis rhumatologique systématique
@@ -54,8 +54,8 @@ On distingue les:
 - Périphériques enthésitiques
 
 Spondylarthrite ankylosante (SpA)
-: Rhumatisme inflammatoire chronique potentiellement grave et handicapante survenant chez l’adulte jeune (< 35 ans).
-: Spondylarthrite la plus typique et la plus sévère. Atteinte rachidienne et sacro-iliaque conduisant à l’ankylose. Atteinte périphérique associée dans 50% des cas (uvéite surtout).
+: Rhumatisme inflammatoire chronique potentiellement grave et handicapante survenant chez l'adulte jeune (< 35 ans).
+: Spondylarthrite la plus typique et la plus sévère. Atteinte rachidienne et sacro-iliaque conduisant à l'ankylose. Atteinte périphérique associée dans 50% des cas (uvéite surtout).
 
 Arthrites réactionnelles
 : Arthrites aseptiques associées à une conjonctivite, urétrite homme/cervicite femme.  
@@ -77,19 +77,19 @@ Spondylarthropaties indifférenciées
 ### Syndrome axial (pelvi-rachidien)
 
 - Dorso-lombalgies inflammatoires chroniques  
-**Durée > 3 mois, réveil nocturne, dérouillage matinal > 30 minutes, aggravées au repos, diminuées à l’activité physique.**  
+**Durée > 3 mois, réveil nocturne, dérouillage matinal > 30 minutes, aggravées au repos, diminuées à l'activité physique.**  
 Débute à la charnière thoraco-lombaire avec évolution descendante puis ascendante.  
-Raideur mesurée par **l’indice de Schöber**, ankylose avec disparition de la lordose lombaire (distance L3-mur)
+Raideur mesurée par **l'indice de Schöber**, ankylose avec disparition de la lordose lombaire (distance L3-mur)
 - **Fessalgie** (pyalgie) de sacro-iliite  
 Douleurs de fesses inflammatoire, uni/bilatérale ou à bascule avec examen neurologique normal.
 Signes négatifs: absence de trajet radiculaire, paroxysmes ou dysesthésies.
-- Atteinte de l’articulation sterno-claviculaire et manubrio-sternale
+- Atteinte de l'articulation sterno-claviculaire et manubrio-sternale
 
 ### Syndrome articulaire périphérique
 
 - Oligo-arthrite des membres inférieurs  
 Genou > cheville et coxo-fémorale.
-- Atteinte inter-phalangienne distale (IPD) ou de l’ensemble de l’extrémité (**dactylite, doigt en saucisse**).  
+- Atteinte inter-phalangienne distale (IPD) ou de l'ensemble de l'extrémité (**dactylite, doigt en saucisse**).  
 Examen systématique des pieds.
 
 ### Syndrome enthésopathique
@@ -132,7 +132,7 @@ Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, i
 2. Douleurs du rachis (lombaire, dorsal ou cervical passées ou présentes) avec au moins 3 critères parmi:
     - début avant 45 ans
     - début progressif
-    - Améliorées à l’exercice
+    - Améliorées à l'exercice
     - raideur matinale
     - depuis plus de 3 mois
 
@@ -142,7 +142,7 @@ Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, i
 
 1. ATCD familiaux de spondylarthrite, psoriasis, uvéite, arthrite réactionnelle, MICI
 2. Psoriasis (antécédent ou actif)
-3. Infection génitale ou digestive 1 mois avant l’arthrite
+3. Infection génitale ou digestive 1 mois avant l'arthrite
 4. MICI (antécédent ou active)
 5. Enthésopathie achilléenne ou plantaire
 6. Fessalgie à bascule
@@ -171,10 +171,10 @@ Se 87%, Spe 96%
 {{< table title="Classification radiologique de la sacro-iliite" >}}
 | Stade   | Image   |
 |---------|---------|
-| Stade 0 | Inflammation de l’enthèse non visible en radio |
-| Stade 1 | Érosion/irrégularité du cortex et ostéopénie sous-chondrale <br>de la zone d’enthèse |
-| Stade 2 | Érosion avec ébauche d’apposition périostée |
-| Stade 3 | Enthésophyte (ossification cicatricielle le long de l’enthèse) |
+| Stade 0 | Inflammation de l'enthèse non visible en radio |
+| Stade 1 | Érosion/irrégularité du cortex et ostéopénie sous-chondrale <br>de la zone d'enthèse |
+| Stade 2 | Érosion avec ébauche d'apposition périostée |
+| Stade 3 | Enthésophyte (ossification cicatricielle le long de l'enthèse) |
 {{< /table >}}
 
 **NB. La sacro-iliite radiologique ne survient en moyenne que 7 ans après le début des symptômes.**
@@ -201,15 +201,15 @@ Importante pour un diagnostic précoce.
 - AINS  
   - AINS à libération prolongée en 1<sup>re</sup> intention
   - Souvent rechute douloureuse en moins de 48h après leur arrêt
-  - Essai ≥ 2 molécules différentes pendant ≥ 2 semaines chacune avant de conclure à l’inefficacité de chacune (aucun effet sur l’inflammation biologique).  
+  - Essai ≥ 2 molécules différentes pendant ≥ 2 semaines chacune avant de conclure à l'inefficacité de chacune (aucun effet sur l'inflammation biologique).  
   - Utiliser à dose optimale (même si doses maximales), mais en conservant posologie et durée minimales
   - Selon *Prescrire*: ibuprofène (max 400 mg x 3/j) et naproxène (max 550 mg x 2/j) ont le meilleur rapport bénéfice/risque parmi les AINS.
-- "La corticothérapie générale n’est pas justifiée dans la majorité des cas"
+- "La corticothérapie générale n'est pas justifiée dans la majorité des cas"
 - Antalgiques  
 {{%class%}}Pour contrôler les douleurs résiduelles.{{%/class%}}
 - Physiothérapie, ergothérapie, appareillages
 - Kinésithérapie en extension rachidienne
-  - Travail d’amplitude respiratoire
+  - Travail d'amplitude respiratoire
   - Auto-exercices
 - Soutien psychologique
 - Associations de patients  
@@ -241,8 +241,8 @@ Lors de réponse partielle aux AINS, prescription par le rhumatologue.
 
 ### Traitements conventionnels
 
-Les traitements conventionnels (**méthotrexate**, **léflunomide**/Arava®, **sulfasalazine**/Salazopyrine®) n’ont pas d’indication en atteinte axiale ou enthésitique isolée.  
-Ils peuvent être envisagés en cas d’arthrite périphérique réfractaire au traitement symptomatique.
+Les traitements conventionnels (**méthotrexate**, **léflunomide**/Arava®, **sulfasalazine**/Salazopyrine®) n'ont pas d'indication en atteinte axiale ou enthésitique isolée.  
+Ils peuvent être envisagés en cas d'arthrite périphérique réfractaire au traitement symptomatique.
 
 ### Biothérapies
 
@@ -263,8 +263,8 @@ Ils peuvent être envisagés en cas d’arthrite périphérique réfractaire au 
 
 Évaluation de l'efficacité à 3 mois. En l'absence d'efficacité à 6 mois le traitement doit être modifié.
 
-Possibilité de survenue d’effets paradoxaux: déclenchement d’uvéite, psoriasis, maladie de Crohn de novo.  
-Rotation possible en cas de perte d’efficacité.  
+Possibilité de survenue d'effets paradoxaux: déclenchement d'uvéite, psoriasis, maladie de Crohn de novo.  
+Rotation possible en cas de perte d'efficacité.  
 Réduction et espacement en rémission stable et prolongée.
 
 #### Classes thérapeutiques
@@ -303,9 +303,9 @@ Une amélioration doit être obtenue à 3 mois pour poursuivre une stratégie, a
 - Axiale  
 EVA, réveils nocturnes, taille annuelle, [indice de Schöber](https://webtv.univ-rouen.fr/videos/examen-du-rachis-signe-de-schober/), ampliation thoracique.
 - Périphérique  
-Nombre d’articulations douloureuses et gonflées.
+Nombre d'articulations douloureuses et gonflées.
 - Enthèses  
-Nombre d’enthèses douloureuses.
+Nombre d'enthèses douloureuses.
 - Retentissement fonctionnel  
 Échelles {{< score "basfi" "BASFI" >}}, HAQ.
 - Cutané. Recherche de psoriasis
@@ -319,11 +319,11 @@ Nombre d’enthèses douloureuses.
 - Biologique  
 VS, CRP.
 - Radio thoracique, EFR  
-{{%class%}}Documente l’atteinte restrictive et la fibrose pulmonaire.{{%/class%}}
+{{%class%}}Documente l'atteinte restrictive et la fibrose pulmonaire.{{%/class%}}
 - ECG  
 {{%class%}}Dépistage des troubles du rythme/conduction.{{%/class%}}
 - Ophtalmologique  
-{{%class%}}Dépistage et surveillance d’atteinte ophtalmologique.{{%/class%}}
+{{%class%}}Dépistage et surveillance d'atteinte ophtalmologique.{{%/class%}}
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}

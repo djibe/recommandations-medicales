@@ -23,8 +23,8 @@ todo= "TODO: summary, Affections psychiatriques de longue durée"
 
 ALD exonérante
 : Seules ALD à dispenser de l'avance des frais (tiers payant) et un remboursement à 100% (exonération du ticket modérateur) par l'Assurance Maladie.
-: La demande d'ALD 30 peut être faite en ligne dans l’Espace Pro Ameli, l’accord a lieu de principe et le patient peut mettre sa carte vitale à jour à 48 heures pour mettre en place le tiers payant ALD qui est valable 5 ans.
-: Lorsque la demande d’ALD exonérante est réalisée par un médecin autre que le médecin traitant, l’ALD n'est valable que pendant 6 mois.
+: La demande d'ALD 30 peut être faite en ligne dans l'Espace Pro Ameli, l'accord a lieu de principe et le patient peut mettre sa carte vitale à jour à 48 heures pour mettre en place le tiers payant ALD qui est valable 5 ans.
+: Lorsque la demande d'ALD exonérante est réalisée par un médecin autre que le médecin traitant, l'ALD n'est valable que pendant 6 mois.
 
 Affection hors liste (ALD 31)
 : Forme évolutive ou invalidante de maladie grave dont le traitement prévisible est supérieur à 6 mois et une thérapeutique coûteuse.
@@ -116,6 +116,6 @@ Demande d'ALD hors liste ou non exonérante, il faut coter l'acte C 1,5 (soit 34
 {{% /collapse %}}
 {{%sources%}}
 
-[Ameli.fr Médecins. Qu’est-ce qu’une affection de longue durée ?. 04/08/2020](https://www.ameli.fr/medecin/exercice-liberal/presciption-prise-charge/situation-patient-ald-affection-longue-duree/definition-ald)
+[Ameli.fr Médecins. Qu'est-ce qu'une affection de longue durée ?. 04/08/2020](https://www.ameli.fr/medecin/exercice-liberal/presciption-prise-charge/situation-patient-ald-affection-longue-duree/definition-ald)
 
 {{%/sources%}}

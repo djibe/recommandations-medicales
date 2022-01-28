@@ -88,7 +88,7 @@ Rapports non protégés, notion de chancre.
 {{% /collapse %}}
 {{% collapse "Examens complémentaires" %}}
 
-Aucun examen complémentaire en l’absence d’arguments pour une autre cause.
+Aucun examen complémentaire en l'absence d'arguments pour une autre cause.
 
 {{% /collapse %}}
 {{% collapse "Traitement de la dermatite séborrhéique" %}}

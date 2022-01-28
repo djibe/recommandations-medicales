@@ -38,16 +38,16 @@ La majorité des cas survient chez les [HSH]({{< relref "hsh.md" >}}) (86% des c
 ---
 
 Syphilis précoce
-: Évolution datant de moins d’un an (J1 étant le 1<sup>er</sup> jour du chancre).  
+: Évolution datant de moins d'un an (J1 étant le 1<sup>er</sup> jour du chancre).  
 **Risque de contagion le plus important** (charge en tréponèmes +++).  
 Elle comprend:
     - la syphilis primaire
     - la syphilis sérologique
     - la syphilis secondaire
-: L’atteinte neurologique parenchymateuse est exceptionnelle.
+: L'atteinte neurologique parenchymateuse est exceptionnelle.
 
 Syphilis tardive
-: Syphilis tertiaire ou latente datant de plus d’un an.
+: Syphilis tertiaire ou latente datant de plus d'un an.
 
 ---
 
@@ -57,11 +57,11 @@ Survient environ un mois après la contamination.
 
 Syphilis sérologique (ou latente, précoce)
 : Examen strictement normal avec notion de chancre/exposition sexuelle.  
-Constitue la majorité des syphilis datant de moins d’un an.
+Constitue la majorité des syphilis datant de moins d'un an.
 : Elle succède à la syphilis primaire et peut être entrecoupée de manifestations secondaires.
 
 Syphilis secondaire
-: Manifestations cliniques essentiellement cutanéo-muqueuses dans l’année qui suit le chancre.
+: Manifestations cliniques essentiellement cutanéo-muqueuses dans l'année qui suit le chancre.
 
 Syphilis tertiaire
 : Complications neurologiques (neurosyphilis), oculaires et cardiovasculaires.
@@ -76,7 +76,7 @@ Ne pas confondre avec une *allergie aux bêtalactamines*.
 - Demande du patient (arrêt du préservatif, changement de partenaire, comportement à risque, accident de préservatif)
 - Toute consultation pour motif urologique ou gynécologique bénin
 - Grossesse
-- 1<sup>re</sup> consultation avec personne jeune, population à risque, antécédent d’IST
+- 1<sup>re</sup> consultation avec personne jeune, population à risque, antécédent d'IST
 - Vulnérabilité  
 Parcours sentimental ou addictions.
 - **[HSH]({{< relref "hsh.md" >}}) avec rapports non protégés**
@@ -90,9 +90,9 @@ Parcours sentimental ou addictions.
 
 ### Faciliter la discussion au cabinet
 
-- Afficher des documents d’information en salle d’attente
+- Afficher des documents d'information en salle d'attente
 - Évoquer la santé sexuelle dès la 1<sup>re</sup> consultation
-- Ajouter le dépistage à un bilan plus complet (avec l’accord du patient)
+- Ajouter le dépistage à un bilan plus complet (avec l'accord du patient)
 - Rassurer sur la confidentialité des résultats
 
 {{% /collapse %}}
@@ -102,7 +102,7 @@ Parcours sentimental ou addictions.
 
 Constant mais non vu en atteinte profonde (cervico-vaginale, rectale, pharyngée).  
 Lésion unique, muqueuse, indurée, indolore, superficielle, propre et très contagieuse mais peut prendre tout autre aspect. Cicatrisation complète sans cicatrice.  
-On parle de syphilis primo-secondaire quand le chancre persiste durant l’éruption secondaire.
+On parle de syphilis primo-secondaire quand le chancre persiste durant l'éruption secondaire.
 
 Adénopathie régionale (inguinale) qui ne fistulise pas.
 
@@ -144,7 +144,7 @@ Atteintes muqueuses fréquentes.
 
 {{%warning%}}Les atteintes ophtalmologiques et neurologiques peuvent engager le pronostic fonctionnel{{%/warning%}}
 
-**NB.** Ne pas confondre la *réaction d’Herxeimer* avec une allergie bêtalactamines.
+**NB.** Ne pas confondre la *réaction d'Herxeimer* avec une allergie bêtalactamines.
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -170,7 +170,7 @@ Le diagnostic sérologique est plus difficile en recontamination du fait de la p
 
 {{%class%}}Test tréponémique unique depuis 2015, anciennement TPHA + VDRL.{{%/class%}}
 
-{{%warning%}}Une sérologie négative n’élimine pas une syphilis primaire.{{%/warning%}}
+{{%warning%}}Une sérologie négative n'élimine pas une syphilis primaire.{{%/warning%}}
 
 ### Examen au microscope
 
@@ -203,11 +203,11 @@ Même protégé, pendant toute la durée du traitement et jusqu'à 2 semaines ap
 {{%info%}}Benzathine pénicilline G (BPG) 2,4 MU en dose unique IM{{%/info%}}
 
 - Paracétamol systématique  
-Informer sur la réaction d’Herxeimer.
+Informer sur la réaction d'Herxeimer.
 - Antibiothérapie  
 Benzathine pénicilline G (BPG) 2,4 MU dans fesse ou cuisse face latérale OU 2 injections IM de 1,2 MU.  
 Administration intra-musculaire exclusivement.  
-Garder le patient sous surveillance pendant 30 minutes en présence de matériel d’urgence.  
+Garder le patient sous surveillance pendant 30 minutes en présence de matériel d'urgence.  
 **Contre-indications:** allergie bêtalactamines, anticoagulants.
 - Dépistage des contacts  
 Tous les contacts des 3 mois précédents.
@@ -226,8 +226,8 @@ Idem *Allergie aux bêtalactamines*
 Schéma BPG
 - Grossesse
 Schéma BPG  
-ET paracétamol (prévention d’Herxeimer)  
-± prednisone 0,5 mg/kg la veille et les 3 jours suivants l’injection en cas de syphilis secondaire profuse.
+ET paracétamol (prévention d'Herxeimer)  
+± prednisone 0,5 mg/kg la veille et les 3 jours suivants l'injection en cas de syphilis secondaire profuse.
 - Congénital  
 Hospitalisation
 - Signes neurologiques, ophtalmo ou auditifs  
@@ -240,7 +240,7 @@ Traitement d'une syphilis de plus d'un an ou ancienneté non connue:
 
 {{%info%}}1 injection de Benzathine pénicilline G (BPG) 2,4 MU IM par semaine pendant 3 semaines{{%/info%}}.
 
-- Grossesse: Pas d’alternative à la pénicilline G  
+- Grossesse: Pas d'alternative à la pénicilline G  
 Désensibilisation si nécessaire.
 - Allergie aux bêtalactamines  
 Doxycycline 100 mg x 2/j per os pendant 28 jours
@@ -269,7 +269,7 @@ L'efficacité du traitement doit être contrôlée cliniquement et par sérologi
 
 ### Surveillance clinique
 
-Disparition du chancre ou de l’éruption en 3 à 15 jours.
+Disparition du chancre ou de l'éruption en 3 à 15 jours.
 
 ### Sérologique par VDRL
 
@@ -290,19 +290,19 @@ Cible: taux divisé par 4.
 Évoquer échec du traitement ou recontamination si taux hors cible (voir plus bas).  
 - 12 mois  
 Négatif si primaire.
-- Puis 1/an jusqu’à négativation  
+- Puis 1/an jusqu'à négativation  
 Négatif à 2 ans si secondaire.
 
-**NB.** La décroissance du VDRL dans la syphilis latente précoce (ou en cas de recontamination) n’est pas franche pour 1/4 des patients.
+**NB.** La décroissance du VDRL dans la syphilis latente précoce (ou en cas de recontamination) n'est pas franche pour 1/4 des patients.
 
 {{%info%}} La négativation du VDRL est considérée comme le meilleur critère de guérison{{%/info%}}
 
-Le TPHA ne se négative que rarement sauf chez le patient *VIH+*. Il n’est pas utilisé dans la surveillance.
+Le TPHA ne se négative que rarement sauf chez le patient *VIH+*. Il n'est pas utilisé dans la surveillance.
 
 ### Échec du traitement et recontamination
 
 Évoquer lorsque le VDRL n'est pas divisé par 4 à 6 mois.
-On parle de **recontamination** lorsque le VDRL est multiplié d’un facteur ≥ 4.
+On parle de **recontamination** lorsque le VDRL est multiplié d'un facteur ≥ 4.
 
 Dans ce cas:
 

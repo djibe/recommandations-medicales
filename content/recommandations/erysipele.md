@@ -33,7 +33,7 @@ todo = "Prescrire"
 {{%collapse "Définition" %}}
 
 Érysipèle (ou érésipèle)
-: Désormais appelée dermohypodermite bactérienne aiguë non nécrosante (DHBNN), d’origine bactérienne essentiellement streptococcique (SGA) survenant majoritairement aux membres inférieurs (85%).  
+: Désormais appelée dermohypodermite bactérienne aiguë non nécrosante (DHBNN), d'origine bactérienne essentiellement streptococcique (SGA) survenant majoritairement aux membres inférieurs (85%).  
 1<sup>re</sup> cause de grosse jambe rouge aiguë.
 : Mécanisme toxi-infectieux, faible densité bactérienne dans les lésions.  
 Gravité initiale selon terrain, sévérité locale et sepsis.
@@ -73,7 +73,7 @@ Adénopathie satellite sensible (50%), lymphangite (25%).
 
 Réévaluer cliniquement à 48-72 heures.
 
-**Évolution clinique:** apyrexie sous 72h, puis disparition de l'érythème et enfin disparition de l’œdème (80% à J7).
+**Évolution clinique:** apyrexie sous 72h, puis disparition de l'érythème et enfin disparition de l'œdème (80% à J7).
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -82,12 +82,12 @@ Réévaluer cliniquement à 48-72 heures.
   - Évolution souvent subaiguë du pied et tiers inférieur de jambe. L'inflammation cutanée apparaît moins limitée avec douleur modérée et fièvre parfois absente
   - Germes: *staphylocoque aureus*, *Pseudomonas aeruginosa*
 - Autres dermohypodermite bactérienne aiguë  
-Pasteurellose d’inoculation si notion de morsure de chien ou chat.
+Pasteurellose d'inoculation si notion de morsure de chien ou chat.
 - Dermohypodermite sur insuffisance veineuse
 - Eczéma
   - Prurit, placard érythémateux à bords émiettés
   - Eczéma de contact: ulcère chronique avec pansements et soins locaux itératifs
-  - Eczéma de de stase sur l’insuffisance veineuse chronique
+  - Eczéma de de stase sur l'insuffisance veineuse chronique
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -200,7 +200,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
-- [HAS. Choix et durées d’antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
+- [HAS. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [HAS, SPILF. Prise en charge des infections cutanées bactériennes courantes. Février 2019. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/recos/2019-fiche-de-synthese-infections-cutanees-mel.pdf)
 - [SFD, SPILF. Erysipèle et fasciite nécrosante : prise en charge. Ann Dermatol Venerol. 128:463-82. 2001. (PDF)](http://www.sfdermato.org/media/pdf/recommandation/erysipele-long-60a03bfa8c55af03ef3ec54a1b380a73.pdf)
 

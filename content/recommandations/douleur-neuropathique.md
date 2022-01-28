@@ -39,7 +39,7 @@ Allodynie
 : Douleurs provoquées par une stimulation normalement non douloureuse.
 
 Hyperalgésie
-: Douleurs anormalement intenses provoquées par une stimulation douloureuse (avec diffusion dans le temps et l’espace).
+: Douleurs anormalement intenses provoquées par une stimulation douloureuse (avec diffusion dans le temps et l'espace).
 
 ### Abréviations
 
@@ -201,7 +201,7 @@ Avis spécialisé au-delà de 50 mg/j.
   - 10-150 mg/j en 1-2 prises/j.
   - [Amitriptyline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65892928&typedoc=R) (Elavil®, Laroxyl®), clomipramine (Anafranil®, gén), imipramine (Tofranil®)
   - Effets indésirables: somnolence et prise de poids. Levée d'inhibition avec risque suicidaire.
-  - Surveillance: cardiaque, anticholinergique ou d’hypotension orthostatique
+  - Surveillance: cardiaque, anticholinergique ou d'hypotension orthostatique
 
 #### Douleur neuropathique en 2e intention
 
@@ -221,13 +221,13 @@ Prescription et réalisation uniquement en centre de la douleur chronique.
 
 - rTMS et stimulation médullaire
 - Morphine et oxycodone LP
-  - Les opioïdes forts ne doivent être proposés qu’en l’absence d’alternatives
+  - Les opioïdes forts ne doivent être proposés qu'en l'absence d'alternatives
   - Max 150 mg éq. morphine/j
 - Combinaison opioïde + antidépresseur ou gabapentinoïde
 
 > Effets indésirables: sous-entendu, effets indésirables principaux.
 
-{{%warning%}}Les opioïdes forts ne doivent être proposés par un spécialiste de la douleur qu’en l’absence d’alternatives{{%/warning%}}
+{{%warning%}}Les opioïdes forts ne doivent être proposés par un spécialiste de la douleur qu'en l'absence d'alternatives{{%/warning%}}
 
 {{%/collapse%}}
 {{%collapse "Conduite à tenir pour le traitement des douleurs neuropathiques" "show" %}}
@@ -251,7 +251,7 @@ Bilan étiologique par le neurologue en cause non évidente.
 
 - [Moisset X et al, SFETD. Traitements pharmacologiques et non pharmacologiques de la douleur neuropathique : une synthèse des recommandations françaises. Douleur Et Analgesie, 33 (2020): 101-112. (PDF)](https://www.sfetd-douleur.org/wp-content/uploads/2021/02/synth%C3%A8se-RECOS-DN-langue-fran%C3%A7aise1.pdf)
 - [HAS. Prise en charge diagnostique des neuropathies périphériques. Recommandations professionnelles. Mai 2007.](https://www.has-sante.fr/jcms/c_598221/fr/prise-en-charge-diagnostique-des-neuropathies-peripheriques-polyneuropathies-et-mononeuropathies-multiples)
-- [Collège des enseignants de neurologie. Bases neurophysiologiques, mécanismes physiopathologiques d’une douleur aiguë et d’une douleur chronique – Thérapeutiques antalgiques, médicamenteuses et non médicamenteuses. Item 131.](https://www.cen-neurologie.fr/deuxieme-cycle/bases-neurophysiologiques-mecanismes-physiopathologiques-dune-douleur-aigue-dune)
+- [Collège des enseignants de neurologie. Bases neurophysiologiques, mécanismes physiopathologiques d'une douleur aiguë et d'une douleur chronique – Thérapeutiques antalgiques, médicamenteuses et non médicamenteuses. Item 131.](https://www.cen-neurologie.fr/deuxieme-cycle/bases-neurophysiologiques-mecanismes-physiopathologiques-dune-douleur-aigue-dune)
 
 {{%/sources%}}
 {{% modal title="Questionnaire DN4" id="modal-score-dn4"%}}

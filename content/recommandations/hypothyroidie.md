@@ -36,7 +36,7 @@ Hypothyroïdie
 Souvent par altération de la glande mais parfois par atteinte centrale hypothalamo-hypophysaire.  
 La TSH est élevée et la T4L basse.
 : **Les principales causes sont auto-immune et iatrogène** (médicament, radiothérapie).
-: **Pas de dépistage systématique de l’hypothyroïdie en population générale.**
+: **Pas de dépistage systématique de l'hypothyroïdie en population générale.**
 : On la distingue de l'**[hypothyroïdie fruste ou infraclinique]({{< relref "hypothyroidie-fruste.md" >}})** où la **TSH est élevée de façon isolée**.
 : L'hypothyroïdie atteint 5% de la population, dont ⅔ de femmes et 10% des sujets âgés.
 
@@ -140,7 +140,7 @@ Parfois troubles de la coagulation et du bilan hépatique.
 
 {{%info%}}<< Il n'y a pas lieu de doser la T3L >>{{%/info%}}
 
-Si arguments pour étiologie auto-immune, dosage des **anticorps anti-TPO**. Il est inutile de renouveler ce dosage ainsi que de doser d’autres anticorps antithyroïdiens.
+Si arguments pour étiologie auto-immune, dosage des **anticorps anti-TPO**. Il est inutile de renouveler ce dosage ainsi que de doser d'autres anticorps antithyroïdiens.
 
 #### Interprétation des résultats
 
@@ -226,7 +226,7 @@ NB. Pas de surveillance du dosage des anticorps ou de l'iodémie/iodurie
 - Si patient se plaint de persistance des symptômes malgré une TSH normalisée: Augmenter par petits paliers pour obtenir une TSH à la moitié de la fourchette des valeurs normales
 
 **Effets indésirables en cas de surdosage:** tachycardie/palpitations, agitation, insomnie.  
-Surveiller la survenue d’**attaques de paniques** même en concentrations plasmatiques thérapeutiques.
+Surveiller la survenue d'**attaques de paniques** même en concentrations plasmatiques thérapeutiques.
 
 ### Sujets à risque
 

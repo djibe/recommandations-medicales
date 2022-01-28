@@ -47,7 +47,7 @@ TDR
 - Rhumatisme articulaire aigu (RAA)
 - Glomérulonéphrite aiguë post-streptococcique (GNA)
 
-> << Les angines à SGA évoluent le plus souvent favorablement en 3-4 jours même en l’absence de traitement antibiotique. Cependant, elles peuvent donner lieu à des complications potentiellement graves (syndromes post-streptococciques : rhumatisme articulaire aigu (RAA), glomérulonéphrite aiguë (GNA), et complications septiques loco-régionales dont la prévention justifie la mise en œuvre d’une antibiothérapie. >>
+> << Les angines à SGA évoluent le plus souvent favorablement en 3-4 jours même en l'absence de traitement antibiotique. Cependant, elles peuvent donner lieu à des complications potentiellement graves (syndromes post-streptococciques : rhumatisme articulaire aigu (RAA), glomérulonéphrite aiguë (GNA), et complications septiques loco-régionales dont la prévention justifie la mise en œuvre d'une antibiothérapie. >>
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -121,10 +121,10 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS. Choix et durées d’antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
+- [HAS. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [Journal Officiel. Arrêté du 6 mars 2020 relatif à l'autorisation du protocole de coopération « Prise en charge de l'odynophagie par l'infirmier diplômé d'Etat ou le pharmacien d'officine dans le cadre d'une structure pluri-professionnelle ». 08/03/2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041697956)
 - [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)
-- [SPILF/HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l’adulte. Novembre 2016.](https://www.has-sante.fr/jcms/c_2722754/fr/choix-et-duree-de-l-antibiotherapie-rhinopharyngite-aigue-et-angine-aigue-de-l-enfant)
+- [SPILF/HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'adulte. Novembre 2016.](https://www.has-sante.fr/jcms/c_2722754/fr/choix-et-duree-de-l-antibiotherapie-rhinopharyngite-aigue-et-angine-aigue-de-l-enfant)
 - [Campus d'ORL - Collège Français d'ORL et de Chirurgie Cervico-faciale. Item 146 (ex item 77) : Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant.](http://campus.cerimes.fr/orl/enseignement/angine/site/html/5.html)
 
 {{%/sources%}}

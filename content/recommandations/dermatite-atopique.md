@@ -37,11 +37,11 @@ Maladie chronique évoluant par *poussées* avec intervalles libres.
 : Elle touche 10-15% des nourrissons, incidence en nette progression.  
 Elle évolue le plus souvent vers une rémission complète après plusieurs mois ou années (5% persistent chez l'adulte).
 : La moitié présente également d'autres manifestations atopiques: *rhinite* > [asthme]({{< relref "asthme.md" >}}) > conjonctivite > allergie alimentaire.  
-Comorbidités chez l’adulte: cardiovasculaires (HTA, AVC, IDM), rénales, diabète, dépression et suicide.
+Comorbidités chez l'adulte: cardiovasculaires (HTA, AVC, IDM), rénales, diabète, dépression et suicide.
 : Pas de seuil pour définir une *dermatite atopique sévère*, mais évaluée sur le nombre et la gravité des poussées, le retentissement psychologique, la qualité de vie.
 
 Atopie
-: Prédisposition d’origine génétique à produire des anticorps d’isotype IgE lors de l’exposition à des allergènes environnementaux. (*CEDEF 2017*)
+: Prédisposition d'origine génétique à produire des anticorps d'isotype IgE lors de l'exposition à des allergènes environnementaux. (*CEDEF 2017*)
 : Famille composée par l'asthme, la rhinite allergique, les allergies alimentaires (évoquer devant régurgitations, diarrhées, eczéma).
 
 ### Diagnostic différentiel
@@ -159,16 +159,16 @@ Application 1 à 2 fois/j au long cours (doubler en temps froid et sec):
 - Niveau 1  
 [Glycérol/Vaseline/Paraffine 15%/8%/2% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62395668&typedoc=R).
 - Niveau 2: préparation*  
-Glycérolé d’amidon 35 g + Cold Cream Fluide 300 mL sur tout le corps (*CHRU Lille*)
+Glycérolé d'amidon 35 g + Cold Cream Fluide 300 mL sur tout le corps (*CHRU Lille*)
 - Niveau 3: Cérat de Galien ou préparation*:  
 Cire blanche 26 g + Huile de paraffine 107 g + Eau stérile 66 g + Borate de sodium 1 g (*CHRU Lille*)
 - Niveau 4  
 Blanc de baleine synthétique 11,75 g + Cire blanche d'abeille 13,5 g + Huile paraffine 63,25 g (*CHRU Lille*)
 - Nourrisson: 150-200 g/sem
 
-Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d’émollient.
+Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d'émollient.
 
-> \* Préparation: << Prescription à but thérapeutique en l’absence de spécialités équivalentes disponibles, renouvelable >>
+> \* Préparation: << Prescription à but thérapeutique en l'absence de spécialités équivalentes disponibles, renouvelable >>
 
 ### Mesures générales et Éducation thérapeutique
 
@@ -187,7 +187,7 @@ Courbe de croissance++
 - Vigilance en contact avec l'herpès
 - Soutien psychologique
 - Vaccins
-  - Allergie à l’œuf associée: avis spécialisé avant grippe ou fièvre jaune
+  - Allergie à l'œuf associée: avis spécialisé avant grippe ou fièvre jaune
   - Éviter en poussée sévère
 - Éviter les animaux domestiques
 - Encourager l'allaitement maternel exclusif ≥ 3 mois

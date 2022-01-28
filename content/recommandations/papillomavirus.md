@@ -88,7 +88,7 @@ Cotation: GS + JKHD001 (12,46€)
 
 ### Préservatif
 
-> Le préservatif peut limiter le risque d’infection mais n'assure pas une protection efficace (source *INCa*).
+> Le préservatif peut limiter le risque d'infection mais n'assure pas une protection efficace (source *INCa*).
 
 ### Vaccination
 
@@ -115,17 +115,17 @@ Prévention des lésions précancéreuses de tous les sites atteints (voir *Comp
 [INCa. 10 arguments clés sur la vaccination contre les infections liées aux papillomavirus humains (HPV)](https://www.e-cancer.fr/Expertises-et-publications/Le-point-sur/10-arguments-sur-la-vaccination-contre-les-HPV)
 [INCa. Dépliant sur la vaccination contre les cancers HPV (PDF)](https://www.e-cancer.fr/content/download/301756/4303586/file/IN793%20Depliant%20Papillomavirus%20148x210%20HPV_BD.pdf)
 
-> En Australie, où la recommandation de vacciner les filles date de 2007 et celle des garçons de 2013, la couverture vaccinale d’au moins 80% a permis :  
-Une réduction de plus de 77% des génotypes responsables de 75% des cancers du col de l’utérus ;  
-Une diminution de plus de 50% de l’incidence des lésions précancéreuses cervicale de haut grade chez les jeunes filles de moins de 20 ans.  
-Dans ce pays, le succès de la campagne de vaccination, associée au dépistage, ouvre la perspective d’une éradication du cancer du col de l’utérus d’ici une quinzaine d’année. (INCa)
+> En Australie, où la recommandation de vacciner les filles date de 2007 et celle des garçons de 2013, la couverture vaccinale d'au moins 80% a permis :  
+Une réduction de plus de 77% des génotypes responsables de 75% des cancers du col de l'utérus ;  
+Une diminution de plus de 50% de l'incidence des lésions précancéreuses cervicale de haut grade chez les jeunes filles de moins de 20 ans.  
+Dans ce pays, le succès de la campagne de vaccination, associée au dépistage, ouvre la perspective d'une éradication du cancer du col de l'utérus d'ici une quinzaine d'année. (INCa)
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
 
 {{< card-link title="HPV - L'affaire de tous" url="https://pns-mooc.com/fr/mooc/21/presentation" subtitle="Université de Paris">}}
 
-[Abramovitz L. Vaccin contre le Papilloma virus : De l’AMM au pragmatisme. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/
+[Abramovitz L. Vaccin contre le Papilloma virus : De l'AMM au pragmatisme. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/
 )
 
 {{% /collapse %}}
@@ -133,7 +133,7 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 
 - [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. Décembre 2020.](https://www.e-cancer.fr/Professionnels-de-sante/Facteurs-de-risque-et-de-protection/Agents-infectieux/Prevenir-les-cancers-lies-aux-HPV)
 - {{< references/calendrier-vaccinal >}}
-- [Abramovitz L. Vaccin contre le Papilloma virus : De l’AMM au pragmatisme. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/
+- [Abramovitz L. Vaccin contre le Papilloma virus : De l'AMM au pragmatisme. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/
 )
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
 

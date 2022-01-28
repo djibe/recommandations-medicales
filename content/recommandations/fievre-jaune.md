@@ -36,7 +36,7 @@ Vaccination:
 {{%collapse "Définition" %}}
 
 Fièvre jaune
-: Maladie hémorragique virale aiguë transmise par des moustiques infectés aux tropiques d’Afrique, d’Amérique centrale et d’Amérique du Sud. L'ictère engendré est à l'origine du nom de la maladie.
+: Maladie hémorragique virale aiguë transmise par des moustiques infectés aux tropiques d'Afrique, d'Amérique centrale et d'Amérique du Sud. L'ictère engendré est à l'origine du nom de la maladie.
 : La prévention passe par la lutte contre les piqûres de moustiques et la vaccination avant un voyage en zone infectée.
 
 ### Abréviations

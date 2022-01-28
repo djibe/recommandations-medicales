@@ -62,7 +62,7 @@ Hémophilie, dialyse, insuffisance rénale.
 - Infection VIH ou VHC
 - Professionnels/étudiants de certaines professions de santé (obligatoire, arrêtés du 15/03/1991 et 06/03/2017)
   - Médical: médecin, chirurgien-dentiste, pharmacien, sage-femme
-  - Paramédical: infirmier, masseur-kinésithérapeute, pédicure-podologue, manipulateur d’électroradiologie médicale, aide-soignant, ambulancier, auxiliaire de puériculture, technicien en analyses biomédicales, assistant dentaire, thanatopracteur.
+  - Paramédical: infirmier, masseur-kinésithérapeute, pédicure-podologue, manipulateur d'électroradiologie médicale, aide-soignant, ambulancier, auxiliaire de puériculture, technicien en analyses biomédicales, assistant dentaire, thanatopracteur.
   - AntiHBs ≥ 100 UI/L
   - ou AgHBs- ET antiHBs ≥ 10 UI/L
 - Risque d'exposition avec des patients ou des produits biologiques  

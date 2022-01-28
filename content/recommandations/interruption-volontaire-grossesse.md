@@ -36,7 +36,7 @@ todo = "Prescrire"
 {{% /collapse %}}
 {{%collapse "Introduction" %}}
 
-> << Les échecs contraceptifs dus au défaut d’observance sont l’une des principales causes de recours à l’interruption volontaire de grossesse (IVG) en France >> (*CNGOF 2018*).
+> << Les échecs contraceptifs dus au défaut d'observance sont l'une des principales causes de recours à l'interruption volontaire de grossesse (IVG) en France >> (*CNGOF 2018*).
 
 > << Dans tous les cas où cela est possible, les femmes doivent pouvoir choisir la méthode, médicamenteuse ou chirurgicale, et recevoir une information détaillée. Cette information renforce la satisfaction des femmes après IVG. >>
 
@@ -75,7 +75,7 @@ OU
 
 > Voie transmuqueuse orale: placer les comprimés entre la joue et la gencive, puis avaler les fragments résiduels après 30 minutes.
 
-**Visite de contrôle à 2 semaines** SYSTÉMATIQUE pour vérifier l’expulsion (IVG chirurgicale sinon, possible jusqu’à 14 SA).
+**Visite de contrôle à 2 semaines** SYSTÉMATIQUE pour vérifier l'expulsion (IVG chirurgicale sinon, possible jusqu'à 14 SA).
 
 ### Grossesse de 7 à 9 SA
 
@@ -102,7 +102,7 @@ Plus l'IVG intervient précocement pendant la grossesse, plus le risque de compl
 - Informations claires et précises sur la procédure et remise de documents écrits
 - Temps de réflexion d'une semaine avant la 2<sup>e</sup> consultation
 - Proposer un entretien spécialisé d'information, soutien et écoute (obligatoire pour les mineures)
-- Préciser l’âge gestationnel par **DDR + examen clinique + échographie pelvienne**
+- Préciser l'âge gestationnel par **DDR + examen clinique + échographie pelvienne**
 
 ### 2<sup>e</sup> consultation
 
@@ -137,7 +137,7 @@ Si prise à domicile et Rhésus -: injection immédiate des Ig anti-D
 Prévue entre 14 et 21<sup>e</sup> jour post-IVG
 - Examen clinique, dosage bêta-hCG plasmatiques OU échographie pelvienne  
 Recours à l'IVG chirurgicale si échec.
-- Vérifier l’observance de la contraception
+- Vérifier l'observance de la contraception
 - Proposer un accompagnement psychologique
 
 {{% /collapse %}}
@@ -163,7 +163,7 @@ graph TB
 {{%sources%}}
 
 - [HAS. Interruption volontaire de grossesse par méthode médicamenteuse - Mise à jour. 12/04/2021.](https://www.has-sante.fr/jcms/p_3223429/fr/interruption-volontaire-de-grossesse-par-methode-medicamenteuse-mise-a-jour)
-- [HAS. La HAS valide l’extension de l’IVG médicamenteuse à domicile jusqu’à 9 semaines. 10/04/2020.](https://www.has-sante.fr/jcms/p_3179352/fr/la-has-valide-l-extension-de-l-ivg-medicamenteuse-a-domicile-jusqu-a-9-semaines)
+- [HAS. La HAS valide l'extension de l'IVG médicamenteuse à domicile jusqu'à 9 semaines. 10/04/2020.](https://www.has-sante.fr/jcms/p_3179352/fr/la-has-valide-l-extension-de-l-ivg-medicamenteuse-a-domicile-jusqu-a-9-semaines)
 - [Drees. 224300 interruptions volontaires de grossesse en 2018. Septembre 2019.](https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/publications/etudes-et-resultats/article/224-300-interruptions-volontaires-de-grossesse-en-2018)
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [CNGOF.  Contraception – Recommandations pour la pratique clinique. 2018](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique?folder=RPC%2BCOLLEGE%252F2018)

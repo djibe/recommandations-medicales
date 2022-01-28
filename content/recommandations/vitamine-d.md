@@ -29,13 +29,13 @@ Vitamine D
 L'unité internationale est le **nmol/L**.
 : **Bénéfices de la supplémentation**  
 Réduit les fractures non vertébrales des +65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 30 ng/mL.
-: Selon l’Inserm, une carence en vitamine D serait fortement liée au développement de la maladie d’Alzheimer. D’autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés (*[Féart C., Samieri C. 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)*).
+: Selon l'Inserm, une carence en vitamine D serait fortement liée au développement de la maladie d'Alzheimer. D'autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés (*[Féart C., Samieri C. 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)*).
 
 Carence en vitamine D de l'adulte et de l'enfant
 : Taux sérique de vitamine D < 30 nmol/L.  
 Risque élevé de *rachitisme*.
 
-Déficit en vitamine D de l’adulte et de l’enfant
+Déficit en vitamine D de l'adulte et de l'enfant
 : 30 < **taux sérique** < 50 nmol/L.
 
 Seuil de toxicité de la vitamine D
@@ -121,7 +121,7 @@ La supplémentation en vitamine D3 peut être instaurée et suivie sans dosage d
 1. À 3 mois d'une transplantation rénale
 1. Avant et après une chirurgie bariatrique
 1. Personne âgée avec chutes répétées.  
-Noter sur l’ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>
+Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>
 1. Traitement préconisant une mesure de la vitamine D
 
 et aussi
@@ -132,9 +132,9 @@ et aussi
 - Bilan initial de [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) (HAS 02/2012)
 - Probablement pour tous les épileptiques et diabétiques
 
-En dehors des 6 indications (+ suppléments), préciser sur l’ordonnance la raison.  
+En dehors des 6 indications (+ suppléments), préciser sur l'ordonnance la raison.  
 En dosage de complaisance, préciser << Non remboursable >> sur la prescription (9,45€, code B35).  
-{{%class%}}92 millions d’euros de dosages de vitamine D en 2011.{{%/class %}}
+{{%class%}}92 millions d'euros de dosages de vitamine D en 2011.{{%/class %}}
 
 {{% /collapse %}}
 {{%collapse "Protocoles d'administration de la vitamine D" %}}
@@ -148,12 +148,12 @@ Posologie selon le résultat du dosage de vitamine D:
 - Taux sériques < 50 nmol/L (20 ng/mL)  
 50.000 UI/semaine pendant 8 semaines.
 
-Puis enchaîne sur le protocole d’entretien.  
+Puis enchaîne sur le protocole d'entretien.  
 Utiliser des ampoules de 100.000 UI en cas de nécessité d'une 2<sup>e</sup> correction.
 
 > Protocole de correction de carence en vitamine D selon *Souberbielle 2019*
 
-### Protocole d’entretien après carence en vitamine D
+### Protocole d'entretien après carence en vitamine D
 
 #### Entretien mensuel pendant 3 à 6 mois
 
@@ -172,16 +172,16 @@ Posologie selon le nouveau résultat du dosage de vitamine D après 3 à 6 mois 
   - ou 50.000 UI/14j
   - pendant 3 à 6 mois
 - Dosage > 150 nmol/L (60 ng/mL)  
-Espacer l’entretien à 50.000 UI tous les 2 mois.
+Espacer l'entretien à 50.000 UI tous les 2 mois.
 - Entre 75 et 150  
-Conserver le rythme d’entretien.
+Conserver le rythme d'entretien.
 
 > Protocole d'entretien après carence en vitamine D selon *Souberbielle 2019*
 
 Intensification si:
 
 - Sujet à peau très foncée
-- Absence d’exposition estivale
+- Absence d'exposition estivale
 - Traitement à risque: rifampicine, phénobarbital, phénytoïne
 - Obésité, régime carencé
 
@@ -216,14 +216,14 @@ graph TB
 - [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. 2020.](https://goldcopd.org/2021-gold-reports/)
 - [Omedit Centre Val de Loire. Protocole de supplémentation en vitamine D en EHPAD. Décembre 2020. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/10827.pdf)
 - [Ameli. Dosage de la vitamine D. 14 Novembre 2019.](https://www.ameli.fr/paris/laboratoire-danalyses-medicales/exercice-liberal/memos/dosage-vitamine)
-- [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d’ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 03/05/2019. (PDF)](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
+- [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d'ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 03/05/2019. (PDF)](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
 - [Esteban 2014-2016 – Chapitre dosages biologiques des vitamines et minéraux : pas de déficit important ou de carence à grande échelle](https://www.santepubliquefrance.fr/les-actualites/2019/esteban-2014-2016-chapitre-dosages-biologiques-des-vitamines-et-mineraux-pas-de-deficit-important-ou-de-carence-a-grande-echelle)
-- [Annweiler C et al. Vitamine D chez l’adulte : mise au point sur le dosage et la supplémentation. Gériatrie et psychologie Neuropsychiatrie du Vieillissement. Vol 16, n°1, mars 2018](https://www.jle.com/fr/revues/gpn/e-docs/vitamine_d_chez_ladulte_mise_au_point_sur_le_dosage_et_la_supplementation_311580/article.phtml)
-- [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l’ostéoporose post-ménopausique. Revue du Rhumatisme. Volume 85. Issue 5. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S1169833018300504)
-- [Inserm. La vitamine D, une nouvelle piste contre la maladie d’Alzheimer ?. Mai 2017. (PDF)](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)
+- [Annweiler C et al. Vitamine D chez l'adulte : mise au point sur le dosage et la supplémentation. Gériatrie et psychologie Neuropsychiatrie du Vieillissement. Vol 16, n°1, mars 2018](https://www.jle.com/fr/revues/gpn/e-docs/vitamine_d_chez_ladulte_mise_au_point_sur_le_dosage_et_la_supplementation_311580/article.phtml)
+- [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l'ostéoporose post-ménopausique. Revue du Rhumatisme. Volume 85. Issue 5. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S1169833018300504)
+- [Inserm. La vitamine D, une nouvelle piste contre la maladie d'Alzheimer ?. Mai 2017. (PDF)](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)
 - [HAS. Utilité clinique du dosage de la vitamine D. Octobre 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-02/utilite_clinique_du_dosage_de_la_vitamine_d_-_note_de_cadrage.pdf)
-- [Société Française de Pédiatrie. La Vitamine D : une vitamine toujours d’actualité chez l’enfant et l’adolescent. Mise au point par le Comité de nutrition de la Société française de pédiatrie. 2012. (PDF)](https://afpa.org/content/uploads/2017/07/Reco_VIT_D_VersionFR_VF.pdf)
-- [HAS. Guide du parcours de soins - Maladie rénale chronique de l’adulte. Février 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
+- [Société Française de Pédiatrie. La Vitamine D : une vitamine toujours d'actualité chez l'enfant et l'adolescent. Mise au point par le Comité de nutrition de la Société française de pédiatrie. 2012. (PDF)](https://afpa.org/content/uploads/2017/07/Reco_VIT_D_VersionFR_VF.pdf)
+- [HAS. Guide du parcours de soins - Maladie rénale chronique de l'adulte. Février 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
 
 {{%/sources%}}
 {{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}
