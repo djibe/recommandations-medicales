@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2022-01-13"
+lastmod = "2022-01-28"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESH", "ESC"]
@@ -45,15 +45,15 @@ La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance car
 : Observance à 6 mois: 2/3, 1 an: 50%.
 
 {{< table title="Grades d'hypertension sur les mesures au cabinet à partir de 16 ans. Dr JB Fron d'après ESC 2018 et ESH 2021" class="table-wrap" >}}
-| Catégorie          | Systolique (mmHg) |       | Diastolique (mmHg) | Action |
-|--------------------|:-----------------:|:-----:|:-----------:|---------------|
-| Optimale           | &lt; 120          | et    | &lt; 80     | Surveillance &ge; /5 ans |
-| Normale            | 120-129           | et/ou | 80-84       | Surv. &ge; / 3 ans (6 mois si FRCV) |
-| Normale haute      | 130-139           | et/ou | 85-89       | Surv. annuelle, éliminer HTA masquée par AMT/MAPA, traiter si THRCV |
-| Hypertension grade&nbsp;1 | 140-159         | et/ou | 90-99       | Éliminer blouse blanche par AMT/MAPA, essai RHD 3-6 mois, traiter si HRCV |
-| Hypertension grade&nbsp;2 | 160-179         | et/ou | 100-109     | Confirmer par AMT/MAPA en qq j/sem, traitement immédiat et contrôle sous 3 mois |
-| Hypertension grade&nbsp;3 | &ge; 180        | et/ou | &ge; 110    | Traitement immédiat et cible atteinte à 3 mois |
-| Hypertension systolique isolée | &ge; 140 | et | &lt; 90     | Traitement selon le grade de la PAS |
+| Catégorie                 | Systolique (mmHg) |       | Diastolique (mmHg) | Action                                                                        |
+|---------------------------|:-----------------:|:-----:|:------------------:|-------------------------------------------------------------------------------|
+| Optimale                  | &lt; 120          | et    | &lt; 80            | Surveillance &ge; /5 ans                                                      |
+| Normale                   | 120-129           | et/ou | 80-84              | Surv. &ge; / 3 ans (6 mois si FRCV)                                           |
+| Normale haute             | 130-139           | et/ou | 85-89              | Surv. annuelle, éliminer HTA masquée par AMT/MAPA, traiter si THRCV           |
+| Hypertension grade&nbsp;1 | 140-159           | et/ou | 90-99              | Éliminer blouse blanche par AMT/MAPA, essai RHD 3-6 mois, traiter si HRCV     |
+| Hypertension grade&nbsp;2 | 160-179           | et/ou | 100-109            | Confirmer par AMT/MAPA en qq j/sem, traitement immédiat et contrôle sous 3 mois |
+| Hypertension grade&nbsp;3 | &ge; 180          | et/ou | &ge; 110           | Traitement immédiat et cible atteinte à 3 mois                                |
+| Hypertension systolique isolée | &ge; 140     | et    | &lt; 90            | Traitement selon le grade de la PAS                                           |
 {{< /table >}}
 
 > AMT: automesure tensionnelle; HRCV/THRCV: {{%modal-btn "modal-rcv"%}}haut/très haut risque CV{{%/modal-btn%}}.  
@@ -197,7 +197,7 @@ L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hyp
 {{% /collapse %}}
 {{%collapse "Objectifs tensionnels" "show" %}}
 
-{{%info%}}Une PAD 70-79 mmHg ets la cible pour tout hypertendu{{%/info%}}
+{{%info%}}Une PAD 70-79 mmHg est la cible pour tout hypertendu{{%/info%}}
 
 {{< table title="Synthèse des objectifs tensionnels selon le profil du patient. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
 | Population          | Objectif (mmHg) | Source     |
@@ -233,7 +233,7 @@ Détail pour chaque pathologie sur la page du chapitre concerné.
   - Niveau d'activité physique, sédentarité
   - Dysfonction érectile  
   Aggravée par TZD et BB. IPDE5 sans risque sauf dérivés nitrés ou alpha-bloquant.
-  - Rechercher des apnées du sommeil
+  - Rechercher des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}
 - Signes cardiovasculaires
   - Céphalées, vertiges, syncopes, troubles de la vision, régression cognitive
   - Douleurs thoraciques, dyspnée, œdèmes, palpitations
@@ -251,7 +251,6 @@ Détail pour chaque pathologie sur la page du chapitre concerné.
   Faciès lunaire et rouge, obésité tronculaire et bosse de bison, fonte musculaire et fatigue, atrophie cutanée et ecchymoses faciles, vergetures pourpres, retard de cicatrisation, doigts très minces, hirsutisme, troubles de l'humeur, dysménorrhées, corticoïdes chroniques.
   - Dysthyroïdie
   - Grossesse en cours ou contraception œstroprogestative (5% développent une HTA)
-  - Apnées du sommeil
 
 ### Examen clinique
 
@@ -350,7 +349,7 @@ Intérêt de suivi mensuel les 6 premiers mois selon la HAS (*HAS 2016*).
 
 Hypertension résistante: avis spécialisé + RHD rappelées + ajout de spironolactone 25-50 mg/j (ou autre diurétique, alpha ou bêtabloquant).
 
-> Éliminer: défaut d'observance, effet blouse blanche, mesures de PA non standardisées, calcifications des artères brachiales, inertie du médecin, apnées du sommeil, consommation de sel, HTA secondaire, maladie rénale.
+> Éliminer: défaut d'observance, effet blouse blanche, mesures de PA non standardisées, calcifications des artères brachiales, inertie du médecin, {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}, consommation de sel, HTA secondaire, maladie rénale.
 
 ### Améliorer l'observance
 
@@ -435,6 +434,11 @@ Contre-indications aux IEC/ARA2 et inhibiteurs de la rénine.
 {{% modal title="Dépistage selon le score PREVALENT" id="modal-depistage-prevalent"%}}
 
 {{< scores/aomi-prevalent >}}
+
+{{% /modal %}}
+{{% modal title="Score STOP-BANG" id="modal-saos"%}}
+
+{{< scores/stop-bang >}}
 
 {{% /modal %}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}

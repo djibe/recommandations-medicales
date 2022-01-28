@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-04T17:43:41+02:00
 publishdate = 2021-12-06
-lastmod = 2022-01-27
+lastmod = 2022-01-28
 specialites = ["rhumatologie"]
 annees = "2019"
 sources = ["SFRhumato", "GRIO", "IOF", "HAS"]
@@ -26,6 +26,8 @@ todo = "https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/Ra
 
 {{%article-summary%}}
 
+Recommandations simplifiées pour un traitement réaliste:
+
 1. Ostéodensitométrie pour toutes les femmes après 60 ans ou après une fracture
 2. Bilan étiologique: NFS, VS, CRP, bilan rénal et hépatique, TSH, vitamine D, calcémie corrigée, phosphatémie, albuminémie
 3. Biphosphonate si T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou tout T-score ≤ -3
@@ -34,10 +36,10 @@ todo = "https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/Ra
   Fracture fémorale: adresser à l'hôpital pour zolédronate IV.
 6. Contrôle d'ostéodensitométrie à 3-5 ans et avis rhumatologique
 
-**Prévention**  
+**Prévention pour toutes**  
 {{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, arrêt du tabac, activité physique, [vitamine D]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
 
-Voir aussi: [traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
+Voir aussi: [Traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

@@ -6,7 +6,7 @@ synonyms = ["Impuissance"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-05-05T12:48:09+02:00"
 publishdate = "2020-05-05"
-lastmod = "2021-07-19"
+lastmod = "2022-01-28"
 specialites = ["urologie"]
 annees = "2019"
 sources = ["AIUS"]
@@ -38,6 +38,7 @@ Pour les garçons de moins de 18 ans, la prise en charge relève de psychologue/
 {{%collapse "Définition" %}}
 
 Dysfonction érectile (DE)
+: *ex* impuissance
 : Incapacité persistante ou répétée à obtenir/maintenir une érection suffisante pour permettre une activité sexuelle satisfaisante **durant plus de 3 mois**.  
 S'y ajoute le retentissement psychologique du patient/couple (DSM IV).
 
@@ -68,9 +69,9 @@ La DE est un marqueur de **risque cardiovasculaire** et altération de la qualit
 {{%/collapse%}}
 {{%collapse "Clinique" %}}
 
-### interrogatoire**
+{{%info%}}La dysfonction érectile est un diagnostic d'interrogatoire{{%/info%}}
 
-**La dysfonction érectile est un diagnostic d'interrogatoire**.
+### Interrogatoire
 
 En premier recours, réunir les éléments indispensables à la compréhension du contexte de vie sans se perdre dans les détails.
 
@@ -83,7 +84,7 @@ Examen clinique annuel en cas de DE avec :
 testicules (taille, consistance), pénis (prépuce, frein, phimosis, déformation, taille, mycose), toucher rectal après 50 ans, gynécomastie  
 - Cardiovasculaire  
 Pression artérielle, pouls périphériques, souffles vasculaires.  
-Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ({{< scores/heartscore >}})
+Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ({{< scores/heartscore >}}), {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}
 - Neurologique  
 Centré sur ROT, RCP, sensibilité des pieds, anesthésie en selle et des membres inférieurs, hypotension orthostatique.
 
@@ -96,12 +97,12 @@ Centré sur ROT, RCP, sensibilité des pieds, anesthésie en selle et des membre
 
 - NFS
 - ionogramme, créatininémie et CKD-EPI
-- Bilan hépatique (sauf résultat < 5 ans)
-- Glycémie à jeun (sauf résultat < 1 an) ou HbA1c
-- Bilan lipidique (sauf résultat < 1 an)
-- PSA si > 50 ans (ou 45 si ATCD familiaux)
+- Bilan hépatique (sauf < 5 ans)
+- Glycémie à jeun (sauf < 1 an) ou HbA<sub>1c</sub>
+- Bilan lipidique (sauf < 1 an)
+- PSA si > 50 ans (ou 45 si antécédents familiaux)
 - Testostéronémie totale  
-À doser le matin entre 8h et 11h
+Le matin entre 8h et 11h.
 {{%/info%}}
 
 > Si testostérone < 5,2 nmol/L: recontrôler 1 mois après avec dosage de LH + prolactine
@@ -188,5 +189,10 @@ Examen clinique de suivi annuel.
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}
+{{% modal title="Score STOP-BANG" id="modal-saos"%}}
+
+{{< scores/stop-bang >}}
 
 {{% /modal %}}

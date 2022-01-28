@@ -53,7 +53,7 @@ Le diagnostic d'hypertrophie bénigne de prostate est clinique.
 
 ### Interrogatoire
 
-- Âge, antécédents médicaux (neuro, diabète), chirurgicaux et urinaires (infection, hématurie)
+- Antécédents médicaux (neuro, diabète), chirurgicaux et urinaires (infection, hématurie)
 - Traitements
 - Tabagisme
 - Recherche de complications  
@@ -69,7 +69,7 @@ Gouttes retardataires, sensation de vidange vésicale incomplète.
 Douleurs périnéales, fièvre, hématurie, antécédents urologiques, facteur de risque de sténose de l'urètre, anomalies neurologiques, malposition ou sténose du méat.
 - Diagnostic différentiel  
 Cancer de prostate, rétrécissement urétral, cancer vésical, prostatite, instabilité idiopathique du détrusor.
-- Rechercher des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
+- Rechercher des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}
 - Facteurs aggravants
 Traitements par testostérone, alpha-stimulants, atropiniques.
 - Qualité de vie  
@@ -203,3 +203,8 @@ Prostate > 80 mL.
 - HAS. Mai 2013. Détection précoce du cancer de la prostate
 
 {{%/sources%}}
+{{% modal title="Score STOP-BANG" id="modal-saos"%}}
+
+{{< scores/stop-bang >}}
+
+{{% /modal %}}
