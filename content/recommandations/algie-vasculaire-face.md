@@ -240,7 +240,7 @@ Traitements spécialisés:
 
 Indication au traitement de fond: épisodique avec période douloureuse > 2 semaines ou forme chronique.
 
-- Pas d'ALD en 2021
+- Pas d'ALD
 - Arrêt du tabac
 - Éviction de l'alcool, cannabis et cocaïne
 - Traitement transitionnel si besoin le temps de la titration (voir *Traitement de la crise*)

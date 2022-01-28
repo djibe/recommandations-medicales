@@ -97,7 +97,7 @@ Hyperparathyroïdie.
 La supplémentation en vitamine D3 peut être instaurée et suivie sans dosage de la vitamine D sauf chez les sujets à risque mentionnés plus haut (voir *Patients à risque*).  
 Éviter une supplémentation forte trop espacée (voir *Protocole d'administration* plus bas).
 
-{{< table title="Recommandations d'apports en vitamine D en 2021 selon le profil du patient" >}}
+{{< table title="Recommandations d'apports en vitamine D en 2022 selon le profil du patient" >}}
 | Population                         | Apports (UI/j) ou cibles (25OHD) recommandés |
 |------------------------------------|----------------------------------------------|
 | Nourrisson en allaitement maternel | Supplémentation quotidienne 1000-1200 UI/j<br>ZymaD® buvable en 3-4 gouttes par jour (300 UI/goutte) |

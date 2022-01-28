@@ -21,7 +21,7 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
 
 ## Sevrage tabagique - les substituts nicotiniques remboursés {.typography-headline-5}
 
-Liste des substituts nicotiniques remboursés par la Sécurité Sociale en 2021.
+Liste des substituts nicotiniques remboursés par la Sécurité Sociale en 2022.
 
 ### Aide au choix des médicaments remboursés à 65% par l'Assurance Maladie sur prescription {.typography-subtitle-1 .text-black-primary}
 

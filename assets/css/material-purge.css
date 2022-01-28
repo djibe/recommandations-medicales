@@ -1,8 +1,8 @@
 /* Custom variables */
 /*!
  * Djibe Material UI 4.6.0 (https://djibe.github.io/material/)
- * Copyright 2011-2021 The Bootstrap Authors
- * Copyright 2011-2021 Twitter, Inc.
+ * Copyright 2011-2022 The Bootstrap Authors
+ * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * Material UI by djibe, Maya, Geoff Bowers and Alex Skinner
  */
@@ -4129,7 +4129,7 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   .my-md-4 {
     margin-top: 1.5rem !important;
   }
-  
+
   .my-md-4 {
     margin-bottom: 1.5rem !important;
   }
@@ -4137,7 +4137,7 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   .my-md-5 {
     margin-top: 3rem !important;
   }
-  
+
   .my-md-5 {
     margin-bottom: 3rem !important;
   }
@@ -4150,7 +4150,7 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   .mb-lg-3 {
     margin-bottom: 1rem !important;
   }
-  
+
   .my-lg-4 {
     margin-top: 1.5rem !important;
   }
@@ -4169,7 +4169,7 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 }
 
 @media (min-width: 1200px) {
-  
+
   .my-xl-5 {
     margin-top: 3rem !important;
   }

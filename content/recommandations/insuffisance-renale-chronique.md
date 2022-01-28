@@ -136,24 +136,24 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 ### Évaluer le stade la maladie rénale chronique et l'albuminurie
 
 {{< table title="Stades de la maladie rénale chronique selon KDIGO 2012" >}}
-| Stade | DFGe          | Définition |
-|:-----:|:-------------:|------------|
+| Stade | DFGe          | Définition    |
+|:-----:|:-------------:|---------------|
 | 1     | &ge; 90       | MRC avec DFG normal ou augmenté |
 | 2     | 60-89         | MRC avec DFG légèrement diminué |
-| 3A    | 45-59         | IRC modérée |
-| 3B    | 30-44         | IRC modérée |
-| 4     | 15-29         | IRC sévère  |
+| 3A    | 45-59         | IRC modérée   |
+| 3B    | 30-44         | IRC modérée   |
+| 4     | 15-29         | IRC sévère    |
 | 5     | &lt; 15       | IRC terminale |
 {{< /table >}}
 
 > DFGe selon CKD-EPI en mL/min/1,73 m². Ajouter un T au stade quand patient greffé (ex: 4T)
 
 {{< table title="Classification de l'albuminurie selon KDIGO 2012" >}}
-| Stade | mg/mmol | mg/g    | mg/24h  | Définition           |
-|-------|--------:|--------:|--------:|----------------------|
-| A1    | &lt; 3  | &lt; 30 | &lt; 30 | Normale              |
-| A2    | 3-30    | 30-300  | 30-300  | Modérément augmentée |
-| A3    | &gt; 30 | &gt; 300 | &gt; 300 | Augmentée          |
+| Stade | mg/mmol | mg/g     | mg/24h   | Définition           |
+|-------|--------:|---------:|---------:|----------------------|
+| A1    | &lt; 3  | &lt; 30  | &lt; 30  | Normale              |
+| A2    | 3-30    | 30-300   | 30-300   | Modérément augmentée |
+| A3    | &gt; 30 | &gt; 300 | &gt; 300 | Augmentée            |
 {{< /table >}}
 
 > Le terme de *microalbuminurie* n'est plus utilisé.

@@ -12,10 +12,10 @@ draft = false
 chart = true
 image = false
 imageSrc = ""
-todo = "temps travail, cotisations"
+todo = "données francs, temps travail, cotisations"
 +++
 
-### Résumé
+## Résumé
 
 Publication préliminaire afin de disposer d'une série longue. En effet je n'ai pas trouvé d'article complet sur le sujet.
 
@@ -25,7 +25,7 @@ Ce que sera délicat: l'augmentation des prélèvements obligatoires, des loyers
 
 Ce qui nécessitera un autre travail: l'évolution de l'activité des praticiens.
 
-### Graphique
+## Graphique
 
 <figure>
   <div id="chart" class="border alert mb-4"></div>
@@ -83,3 +83,12 @@ const chartOptions = {
   }
 }
 </script>
+
+{{%collapse "Données" %}}
+
+Les données sont téléchargeables depuis le graphique.  
+Pour le graphique avant 2002, les francs français ont été convertis avec l'outil INSEE xxx.
+
+
+
+{{% /collapse %}}

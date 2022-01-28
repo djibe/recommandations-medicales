@@ -17,14 +17,14 @@ sctid = ""
 draft = false
 image = true
 imageSrc = "Les verres standards par Alcool-Info-Service"
-todo = "retentissement somatique, indications hospit, https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa"
+todo = "retentissement somatique, indications hospit, centres de cure, bilan des complications, supplémentations, https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa"
 +++
 
 {{%article-summary%}}
 
 - *Version préliminaire pour disposer des outils de dépistage*
 - 1 verre standard = 10g d'alcool
-- << Pour votre santé, l'alcool c'est maximum 2 verres par jour et pas tous les jours >> (max 10/semaine, *[affiche SPF](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/affiche/pour-votre-sante-l-alcool-c-est-maximum-2-verres-par-jour-et-pas-tous-les-jours)*)
+- << Pour votre santé, l'alcool c'est maximum 2 verres par jour et pas tous les jours >> (max 10/semaine, *[affiche SPF](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/affiche/pour-votre-sante-l-alcool-c-est-maximum-2-verres-par-jour-et-pas-tous-les-jours)*), 0 alcool pendant la grossesse et chez les enfants
 - [Alcool Info Service](https://www.alcool-info-service.fr/) ou {{<phone>}}0 980 980 930{{</phone>}}
 
 {{%/article-summary%}}
@@ -47,7 +47,7 @@ Alcool
 - 1<sup>re</sup> substance addictive en coût social
 - Décès: 41.000 annuels (30.000 hommes)
   - Cancers: 30.000 annuels attribuables (2<sup>e</sup> cause évitable derrière le tabac)  
-Bouche, pharynx, larynx, œsophage, foie, côlon-rectum, sein.
+Bouche, pharynx, larynx, œsophage, foie, côlon-rectum, sein. Augmentation du risque/unité alcool de 9 à 168% selon les localisations (bouche, pharynx, larynx +++).
   - Décès cardiovasculaires: 9900 décès annuels attribuables (HTA, AVC, FA)
 - Consommation excessive
   - La France est 6<sup>e</sup> des pays de l'OCDE (sur 34)
