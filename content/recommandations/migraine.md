@@ -9,7 +9,7 @@ publishdate = "2021-11-12"
 lastmod = "2021-11-12"
 specialites = ["neurologie"]
 annees = "2013"
-sources = []
+sources = ["SFEMC"]
 tags = ["cephalees"]
 anglais = []
 sctid = ""
@@ -19,16 +19,20 @@ imageSrc = ""
 todo = "Fiche, Prescrire, migraine abdo enfant"
 +++
 
+{{<scores/had >}}
+
 {{%article-summary%}}
 
+- Triade: Évolution chronique par crises récurrentes avec intervalle libre, crises stéréotypées et examen clinique normal
 TODO:
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Migraine
 : TODO:
 : Origine génétique et environnementale avec altération de la qualité de vie.
+: Facteurs favorisants: manque de sommeil, stress, alcool, grasse matinée, jeûne, chaleur, changements de climat, odeurs.
 : 30-45% des migraineux français n'ont jamais consulté, ignorent leur diagnostic et les traitements existants.
 
 Migraine avec aura
@@ -43,11 +47,11 @@ Céphalée diffuse, non pulsatile, non aggravée à l'effort, moins intense, san
 - Névralgie d'Arnold
 - Troubles de la vision binoculaire ([orthoptie]({{< relref "bilan-orthoptique.md" >}}))  
 Fatigue visuelle, céphalées, difficultés de concentration ou de lecture.
-- [Algie vasculaire de la face]({{< relref "algie-vasculaire-face.md" >}}) et [névralgie du trijumeau]({{< relref "nevralgie-trigeminale-classique.md" >}})
-Nb crises quot, strict unilat, côté fixe, arrachement, décarges, intensité très sévère
-- Tumeur 3e ventricule
+- [Algie vasculaire de la face]({{< relref "algie-vasculaire-face.md" >}}) et [névralgie du trijumeau]({{< relref "nevralgie-trigeminale-classique.md" >}})  
+Nombre de crises quotidiennes, stricte unilatéralité, côté fixe, arrachement, décharges, intensité très sévère
+- Tumeur du 3<sup>e</sup> ventricule
 
-Avec aura : AIT (déficit avec début brutal et symptômes d'emblée max), épilepsie partielle (install en 2-3 min, durée courte)
+Avec aura: [AIT]({{< relref "accident-vasculaire-cerebral.md" >}}) (déficit avec début brutal et symptômes d'emblée maximaux) et épilepsie partielle (installation en 2-3 min, durée courte).
 
 ### Épidémiologie
 
@@ -57,9 +61,15 @@ Avec aura : AIT (déficit avec début brutal et symptômes d'emblée max), épil
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques" %}}
 
+Triade *IHS 1998*:
+
+1. Évolution chronique par crises récurrentes avec intervalle libre
+2. Crises stéréotypées
+3. Examen clinique normal
+
 ### Critères diagnostiques de la migraine sans aura
 
-Critères de A à E remplis:
+Critères A à E remplis:
 
 A. ≥ 5 crises répondant aux critères B à D
 B. Céphalées paroxystiques durant de 4 à 72 heures
@@ -71,7 +81,7 @@ E. Examen clinique normal en dehors des crises, pas d'autre diagnostic ICHD-3
 
 {{%warning%}}En cas de doute, une cause organique doit être éliminée par des examens complémentaires{{%/warning%}}
 
-Si l'un des critères A, B, C ou D n'est pas rempli en totalité, il s'agit d'une migraine sans aura probable (1.7).
+Si l'un des critères A, B, C ou D n'est pas rempli en totalité: migraine sans aura probable.
 
 ### Critères de la migraine avec aura
 
@@ -86,10 +96,14 @@ C. ≥ 2 caractères suivants:
     - Durée de chaque symptôme ≥ 5 minutes ou ≤ 60 minutes
 D. Examen clinique normal en dehors des crises
 
-**NB.** En cas de doute, une cause organique doit être éliminée par des examens complémentaires.
-L'aura peut être suivie : d'une céphalée typique de migraine sans aura, de céphalée sans caractéristiques ou simplement isolée (aura SANS céphalées).
+4 types d'aura: visuelles (> 90% des auras), sensitives, aphasique, motrice (classée migraine hémiplégique).  
 L'aura peut survenir durant la céphalée.
 
+Si les critères A, B et C sont présents: **migraine avec aura typique**.
+
+**NB.** En cas de doute, une cause organique doit être éliminée par des examens complémentaires.
+
+L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de céphalée sans caractéristiques ou simplement isolée (aura SANS céphalées).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -100,11 +114,10 @@ Le diagnostic est clinique selon les critères IHS 98 avec la triade suivante:
 2. Crises stéréotypées
 3. Examen clinique normal
 
-### Facteurs favorisants (source)
-
-Manque de sommeil, stress
-Alcool, grasse matinée, jeûne, chaleur, changements de climat, odeurs
-
+- Évaluer le handicap migraineux
+  - Agenda des crises (date, durée, intensité, facteur déclenchant, traitements essayés)
+  - Rechercher un syndrome dépressif/anxieux (échelle HAD)
+  - Qualité de vie (échelle HIT-6)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -127,13 +140,9 @@ Début brutal, prolongé > 1 heure, latéralité fixe et/ou sans symptômes visu
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-- Arrêt du tabac obligatoire  
-Risque d'AVC.
+- Arrêt du tabac obligatoire (AVC)
 - Éviter les facteurs déclenchants identifiés
-- Évaluation du handicap migraineux
-  - Agenda des crises (date, durée, intensité, facteur déclenchant, traitements essayés)
-  - Rechercher un syndrome dépressif/anxieux (échelle HAD)
-  - Qualité de vie (échelle HIT-6)
+- Évolution du handicap migraineux (voir *Clinique*)
 
 ### Traitements disponibles
 
@@ -153,7 +162,7 @@ Traitement à prendre le plus précocement possible (dans l'heure suivant l'inst
 
 Patient utilisant des traitements non spécifiques, demander systématiquement:
 
-- Etes-vous soulagé de manière significative 2 heures après la prise ?
+- Êtes-vous soulagé de manière significative 2 heures après la prise ?
 - Utilisez-vous une seule prise médicamenteuse dans la journée ?
 - Ce traitement est-il efficace sur au-moins 2 crises sur 3 ?
 - Ce médicament est-il bien toléré ?
@@ -175,8 +184,7 @@ Aucune molécule n'a démontré de supériorité.
 {{% /collapse %}}
 {{%sources%}}
 
-
+- [Lanteri-Minet M. et al. Prise en charge diagnostique et thérapeutique de la migraine chez l’adulte et chez l’enfant. Revue Neurologique. Volume 169. Issue 1. 2013. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20sur%20la%20prise%20en%20charge%20diagnostique%20et%20th%C3%A9rapeutique%20de%20la%20migraine%20chez%20l%2527adulte%20et%20chez%20l%2527enfant%20(1).pdf)
+- [Anaes. Prise en charge diagnostique et thérapeutique de la migraine chez l’adulte et chez l’enfant : aspects cliniques et économiques. Recommandations de bonne pratique. Octobre 2002.](https://www.has-sante.fr/jcms/c_272212/fr/prise-en-charge-diagnostique-et-therapeutique-de-la-migraine-chez-l-adulte-et-chez-l-enfant-aspects-cliniques-et-economiques)
 
 {{%/sources%}}
-
-≤≥±®œŒÈ³ÂSpO<sub>2</sub>

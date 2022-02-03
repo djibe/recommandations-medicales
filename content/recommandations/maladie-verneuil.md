@@ -8,11 +8,10 @@ publishdate = "2022-01-28"
 lastmod = "2022-01-28"
 specialites = ["dermatologie"]
 annees = "2014"
-sources = ["Article"]
+sources = ["Revuz J"]
 tags = []
 anglais = ["Hidradenitis suppurativa"]
 sctid = "59393003"
-draft = false
 image = false
 imageSrc = ""
 todo = "recommandations"
@@ -102,7 +101,7 @@ Le médecin traitant dépiste, oriente et prescrit le traitement abortif d'urgen
 - Participer à la [recherche ComPaRe](https://compare.aphp.fr/les-cohortes/cohorte-maladie-de-verneuil.html)
 - Soutien psychologique
 - Adaptation du poste avec le médecin du travail
-- ALD 31  
+- [ALD 31]({{< relref "affection-longue-duree.md" >}})  
 Demande avec le compte rendu du dermatologue.
 
 ### Antibiothérapies probabilistes prolongées
@@ -184,12 +183,12 @@ Il est essentiel d'apprendre à reconnaître les signes avant-coureurs des pouss
 
 - [Revuz J. Hidradénite suppurée. EMC](https://www.em-consulte.com/article/924280/hidradenite-suppuree)
 - [Orphanet. La maladie de Verneuil. (PDF)](https://www.orpha.net/data/patho/Pub/fr/Verneuil-FRfrPub2049v01.pdf)
+- [dermato-info. l'hidradénite suppurée ou Maladie de Verneuil. 13/06/2020.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99hidrad%C3%A9nite-supur%C3%A9e-ou-maladie-de-verneuil)
 
 ### À lire
 
 - [Bertolotti A. et al. Guidelines for the management of hidradenitis suppurativa: recommendations supported by the Centre of Evidence of the French Society of Dermatology. Br J Dermatol, 184: 963-965. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/bjd.19710)
 - [SFD. recommandations Hidradénite suppurée - Arbre décisionnel. Août 2019.](https://reco.sfdermato.org/fr/recommandations-hidrad%C3%A9nite-suppur%C3%A9e)
-- [dermato-info. l'hidradénite suppurée ou Maladie de Verneuil. 13/06/2020.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99hidrad%C3%A9nite-supur%C3%A9e-ou-maladie-de-verneuil)
 - Prescrire
 
 {{%/sources%}}

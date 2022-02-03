@@ -7,9 +7,9 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
-lastmod = 2022-01-21
+lastmod = 2022-02-03
 specialites = ["infectiologie"]
-annees = "2021"
+annees = "2022"
 sources = ["HCSP", "MinSante"]
 tags = ["vaccin"]
 anglais = ["CoViD-19"]
@@ -24,7 +24,8 @@ imageSrc = "La Covid-19 par stories / Freepik"
 
 - Page servant uniquement à stocker quelques mémos
 - [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire) et [règles d'isolement du 3/1](https://www.ameli.fr/medecin/actualites/covid-19-les-regles-d-isolement-evoluent)
-- Rappel vaccinal à 3 mois (et 12-17 ans fragiles), décalé à 6 mois si infection Covid (*HAS 24/12, 25/11 et 19/11*)
+- Rappel vaccinal à 3 mois (max 4, et 12-17 ans fragiles), décalé à 4 mois (6 avant le 15/2/22) si infection Covid (*HAS 24/12, 25/11 et 19/11*)  
+[Mon Rappel vaccin Covid](https://monrappelvaccincovid.ameli.fr/maintenance)
 - Dire **la** CoViD-19 ([Académie française](http://www.academie-francaise.fr/le-covid-19-ou-la-covid-19))
 
 {{%/article-summary%}}
@@ -82,7 +83,7 @@ BPCO, asthme sévère, fibrose pulmonaire, syndrome d'apnées du sommeil, mucovi
 - Maladies du motoneurone, myasthénie grave, SEP, Parkinson, paralysie cérébrale, quadriplégie  ou hémiplégie, tumeur maligne primitive cérébrale, maladie cérébelleuse progressive.
 - Grossesse au 3<sup>e</sup> trimestre
 
-> *[Source HCSP 14.11](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=942)*
+> *[HCSP 14/11/2020](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=942)*
 
 {{%/collapse%}}
 {{%collapse "Séquelles" %}}
@@ -115,6 +116,21 @@ Atteintes possibles après une infection à Sars-Cov-2.
 - [Demander la conversion d'un certificat de vaccination étranger en passe sanitaire français](https://www.sante.fr/obtenir-un-passe-sanitaire-en-cas-de-vaccination-letranger)
 
 {{% /collapse %}}
+{{%collapse "Masques" %}}
+
+### Remboursement du masque FFP2
+
+Tous les critères sont nécessaires:
+
+1. Personne à risque de forme grave
+1. Échec de vaccination
+1. Capacité de le supporter plusieurs heures
+
+Ordonnance: 20 masques FFP2 pour 2 semaines ou 50 masques FFP2 pour 5 semaines
+
+> *DGS Urgent 2022-21* et [Ameli.fr](https://www.ameli.fr/assure/actualites/covid-19-les-personnes-immunodeprimees-peuvent-beneficier-de-masques-ffp2-sans-avance-de-frais)
+
+{{%/collapse%}}
 {{%collapse "Certificats" %}}
 
 > << L'Ordre rappelle que les médecins n'ont pas à établir de certificat médical pour le retour à l'école. >> [CNOM. 11/09/2020](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificat-medical-lecole)

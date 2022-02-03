@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CAZANAVE (CMIT)"
 date = 2021-01-16T22:06:00+02:00
 publishdate = 2021-01-16
-lastmod = 2021-10-11
+lastmod = 2022-02-03
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["CNS", "HAS"]
@@ -21,7 +21,7 @@ todo = "relecture CNS, TPE, https://ansm.sante.fr/tableau-marr/emtricitabine-ten
 
 {{%article-summary%}}
 
-- Dépister largement (gratuit sans ordonnance au 1er janvier 2022)
+- Dépister largement (gratuit sans ordonnance depuis 1/1/22)
 - Répéter le dépistage chez les populations à risque, conseils de prévention et transmission
 - Toute personne exposée au VIH est éligible à la PrEP (gratuite), prescriptible par tout médecin
 - PCR + sérologie VIH (répéter à 1 mois) devant: fièvre ou fatigue inexpliquées, exanthème fébrile de l'adulte, zona de l'adulte jeune ...

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-18T10:55:00+02:00
 publishdate = 2021-01-18
-lastmod = 2021-10-07
+lastmod = 2022-02-03
 specialites = ["infectiologie"]
 annees = "2020"
 sources = ["HAS", "MinSante"]
@@ -42,7 +42,7 @@ La vaccination prévient 90% des infections causant ces cancers.
 - **Sex ratio:** 75% des cancers atteignent des femmes
 - **Couverture vaccinale:** 23,7% des jeunes filles âgées de 16 ans ont un schéma vaccinal complet (2018)
 
-> Source INCa
+> *INCa*
 
 ### Abréviations
 

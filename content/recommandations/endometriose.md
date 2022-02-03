@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-03T13:12:00+02:00
 publishdate = 2021-04-05
-lastmod = 2021-06-01
+lastmod = 2022-02-03
 specialites = ["gynecologie-obstetrique"]
 annees = "2017"
 sources = ["CNGOF", "HAS"]
@@ -22,7 +22,7 @@ todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité 
 
 {{%article-summary%}}
 
-- Évoquer devant des douleurs pelviennes chroniques
+- Évoquer devant des [douleurs pelviennes](/tags/douleur-pelvienne) chroniques
 - Le diagnostic est clinique
 - Explorations seulement quand douloureuse ou avec retentissement (infertilité, qualité de vie)
 - 1<sup>re</sup> intention: examen gynécologique et échographie pelvienne
@@ -258,6 +258,12 @@ graph TB
 
 {{% /collapse %}}
 {{%collapse "Information de la patiente" %}}
+
+### Applications
+
+[Ziwig](https://endo.ziwig.com/main/home), [easyendo](https://www.easyendo.fr/), [Follow Metrios](https://followmetrios.com/application-endometriose/), [LUNA](https://www.luna-endometriose.com/).
+
+### Documents
 
 - [Sante.fr Petite chronique de l'endométriose](https://microlearning-sante.fr/fr/endometriose)
 - [EndoFrance. Fascicule d'information (PDF)](https://endometriose-affairedetous.com/wp-content/uploads/2021/04/Informations-sur-lendome%CC%81triose-ENDOFRANCE-.pdf)
