@@ -7,7 +7,7 @@ synonyms = ["AVC et AIT", "accident ischémique transitoire", "infarctus céréb
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-25T14:04:00+02:00
 publishdate = 2021-01-25
-lastmod = 2021-10-07
+lastmod = 2022-02-04
 specialites = ["neurologie"]
 annees = "2021"
 sources = ["AHA", "ESC", "HAS"]
@@ -22,13 +22,12 @@ todo = "rééduc, bilan étiologique, https://erj.ersjournals.com/content/55/4/1
 
 {{%article-summary%}}
 
-- Mis à jour avec les recommandations AVC 2021
 - Considérer tout déficit neurologique brutal, transitoire ou prolongé, comme une urgence absolue
 - Urgence vitale, protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU  
 4h30 pour thrombolyser.
 - 1<sup>re</sup> cause de mortalité de la femme, 3<sup>e</sup> de l'homme
 - Un antécédent d'AIT ou d'AVC détermine un {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}
-- Post-AVC: aspirine, IEC, TZD, PA < 14/9, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,55 g/L et contrôle des FRCV
+- Post-AVC: aspirine 50-325, IEC, TZD, PA < 14/9, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,55 g/L, vaccin Covid-19
 - Bilan spécialisé cardiaque et neurovasculaire
 - [Éducation de toute la population](https://solidarites-sante.gouv.fr/IMG/png/infographieavcsignes.png)
 
@@ -157,7 +156,7 @@ Insuffisance hépatique, cirrhose, hypertension portale, varices œsophagiennes,
 - PAS > 185 mmHg ou PAD > 110 mmHg, ou traitement d'attaque IV nécessaire pour réduire la pression artérielle à ces valeurs seuils
 - Glycémie inférieure à 50 mg/dL ou supérieure à 400 mg/dL (< 2,8 mmol/l ou > 22,2 mmol/l)
 
-> *[Source BDPM](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67177673&typedoc=R#RcpContreindications)*
+> *[BDPM](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67177673&typedoc=R#RcpContreindications)*
 
 {{% /collapse %}}
 {{%collapse "Traitement post-AVC" %}}
@@ -170,7 +169,7 @@ Si non cardioembolique. Clopidogrel 75 mg/j si allergie.
   - Seuil diagnostique ≥ 130/90 mmHg car très haut RCV (160 après 80 ans, *ESC 2018*)
   - Cible 120-130/70-79 mmHg (*ESC 2018* et *AHA 2021*)
   - ≥ 65 ans: 130-139/70-79 mmHg
-  - Molécules: thiazidiques, IEC (voire ARA2)
+  - Molécules: thiazidiques, {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}} (voire ARA2)
   - Hypertendu: réduire la consommation de sel de 2,5 g/j
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,55 g/L et réduction ≥ 50%  
 Patient à {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}.
@@ -180,8 +179,9 @@ Patient à {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}.
 - Perte de poids si surpoids
 - Activité physique ≥ 10 min x 4/semaine
 - Sédentaire: bouger 3 minutes toutes les 30 minutes
-- Diabète: HbA1c cible
-  - AVC < 6 mois: {{< modal-btn modal-hba1c >}}8%{{< /modal-btn >}}
+- Vaccin Covid-19
+- Diabète
+  - AVC < 6 mois: {{< modal-btn modal-hba1c >}}HbA1c cible 8%{{< /modal-btn >}}
   - Après 6 mois: {{< modal-btn modal-hba1c >}}cible réadaptée selon le profil{{< /modal-btn >}}
 - [Dépister des apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) {{%class%}}(40%){{%/class%}}
 - [ALD]({{< relref "affection-longue-duree.md" >}})  
@@ -300,5 +300,10 @@ Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de tr
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}
 
 {{< traitements/regime-mediterraneen >}}
+
+{{% /modal %}}
+{{% modal title="IEC dans l'hypertension" id="modal-iec" %}}
+
+{{< traitements/iec >}}
 
 {{% /modal %}}

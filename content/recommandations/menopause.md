@@ -293,7 +293,7 @@ Quelque soit le statut hormonal ou invasif/in situ.
 {{%/warning%}}
 
 {{% /collapse %}}
-{{%collapse "Traitement hormonal de la ménopause" "show"%}}
+{{%collapse "Traitement hormonal de la ménopause" %}}
 
 [Information de la patiente - GEMVI: Fiche info ménopause et THM (PDF)](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
 

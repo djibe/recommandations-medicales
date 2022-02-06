@@ -7,14 +7,13 @@ synonyms = ["AOMI", "artériopathie aorto-iliaque et des membres inférieurs", "
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-05T18:53:00+02:00
 publishdate = 2021-05-16
-lastmod = 2021-11-26
+lastmod = 2022-02-06
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["ESC", "HAS", "SFMV"]
 tags = ["depistage", "diabete", "epreuve effort", "HTA", "neuropathie", "risque cardiovasculaire", "tabac", "vaccin"]
 anglais = ["Lower extremity artery disease (LEAD)"]
 sctid = "789703007"
-draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration par macrovector / Freepik"
@@ -86,7 +85,7 @@ Blue toe syndrome
 
 ### Qui dépister ?
 
-- {{< modal-btn modal-depistage-prevalent >}}Ciblé ≥ 55 ans{{< /modal-btn >}} (Bendermacher 2007)
+- {{< modal-btn modal-depistage-prevalent >}}Ciblé ≥ 55 ans{{< /modal-btn >}} (*Bendermacher 2007*)
 - Suspicion clinique
   - Abolition des pouls distaux ou souffle vasculaire
   - Douleur d'effort
@@ -97,14 +96,16 @@ Blue toe syndrome
   Symptomatique ou non, coronaropathie +++.
   - [Anévrysme de l'aorte abdominale]({{< relref "anevrysme-aorte-abdominale.md" >}})
   - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
-  - Insuffisance cardiaque
+  - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
+  - [Diabète]({{< relref "diabete-type-2.md" >}}) (*ESC 2019 diabetes*)  
+  Au diagnostic puis tous les 5-10 ans.
 - Asymptomatique à risque d'AOMI
   - **Âge ≥ 65 ans**
   - {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé{{< /modal-btn >}}
   - Âge ≥ 50 ans avec antécédent familial d'AOMI
   - Âge ≥ 50 ans avec ≥ 1 autre facteur de risque cardiovasculaire (*SFMV 2020*)
 
-> Indications au dépistage selon ESC 2017 (sauf mention contraire)
+> Indications au dépistage de l'AOMI selon *ESC 2017* (sauf mention contraire)
 
 {{%/info%}}
 

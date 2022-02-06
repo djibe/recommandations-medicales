@@ -6,7 +6,7 @@ synonyms = ["et maladie rénale chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-01-16"
+lastmod = "2022-02-06"
 specialites = ["nephrologie"]
 annees = "2021"
 sources = ["HAS", "KDIGO", "ESC"]
@@ -26,9 +26,9 @@ todo = "ameliorer flowchart, consultation dediee Coter C + ALD ???, aliments ric
 - 3 piliers: étiologie, DFGe et albuminurie
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Néphroprotection  
-{{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, PA < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}...
+{{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, PA < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, vaccin covid-19...
 - Adaptation des traitements selon {{< scores/ckd-epi >}}
-- [Prévision de la progression de la MRC - score KFRE](https://kidneyfailurerisk.com/)
+- Prévision de la progression de la MRC: [score KFRE](https://kidneyfailurerisk.com/)
 - {{< modal-btn modal-nephrotoxiques >}}Principaux néphrotoxiques{{< /modal-btn >}}
 - Le suivi de l'enfant relève exclusivement du spécialiste
 
@@ -156,7 +156,7 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 | A3    | &gt; 30 | &gt; 300 | &gt; 300 | Augmentée            |
 {{< /table >}}
 
-> Le terme de *microalbuminurie* n'est plus utilisé.
+{{%info%}}Le terme de *microalbuminurie* n'est plus utilisé{{%/info%}}
 
 **NB.** Faux positifs pour une albuminurie/protéinurie: infection urinaire, fièvre, insuffisance cardiaque, protéinurie orthostatique, sport intense dans les 24h, menstruations, AINS, alimentation riche en protéines.
 

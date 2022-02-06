@@ -6,21 +6,23 @@ synonyms = ["Déformations crâniennes positionnelles"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-11T17:40:29+02:00
 publishdate = 2020-07-11
-lastmod = 2020-07-11
+lastmod = 2022-02-03
 specialites = ["pediatrie"]
 annees = "2020"
 sources = ["HAS"]
 tags = ["nourrisson"]
 anglais = ["Plagiocephaly"]
 sctid = "21850008"
-qualite = "moyenne"
-draft = false
-todo = "TODO: summary"
+image = false
+imageSrc = ""
 +++
 
 {{%article-summary%}}
 
-À compléter...
+- N'entraîne pas de retard neuro-développemental
+- Vérifier les sutures et amplitudes des mouvements, rechercher dysmorphies et syndromes
+- Prévention: inverser tous les jours le sens tête - pieds, coucher sur le dos dans une position contraire à sa préférence, augmenter le temps d'éveil passé en décubitus ventral
+- Kiné voire avis spécialisé si important ou sans amélioration
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -28,7 +30,7 @@ todo = "TODO: summary"
 Plagiocéphalie
 : Asymétrie crânienne par appui prolongé, décrite souvent comme un parallélogramme.
 : La **plagiocéphalie positionnelle** (PP) est de type postérieure non synostotique (absence de synostose des sutures). On parle de **déformations crâniennes positionnelles** (DCP).
-: Elle n'entraîne pas de retard neuro-développemental
+: Elle n'entraîne pas de retard neuro-développemental.
 : Prévalence élevée: 16% à 6 semaines, 20% à 4 mois. La majorité est résorbée à 2 ans.
 
 ### Facteurs de risque de plagiocéphalie
@@ -55,9 +57,9 @@ Examiner le sommet de la tête, vue du dessus et regarder la position des oreill
 
 3 grands types de DCP décrits en vue du sommet du crâne:
 
-1. plagiocéphalies fronto-occipitales (déformations asymétriques)
-2. plagiocéphalies occipitales (déformations asymétriques)
-3. bradycéphalies postérieures (raccourcissement antéro-postérieur du crâne)
+1. Plagiocéphalies fronto-occipitales (déformations asymétriques)
+2. Plagiocéphalies occipitales (déformations asymétriques)
+3. Bradycéphalies postérieures (raccourcissement antéro-postérieur du crâne)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -71,7 +73,8 @@ Radiographies du crâne uniquement en suspicion de craniosynostose ou d'aggravat
 
 - Alterner tous les jours la position dans le lit en inversant sa position tête - pieds
 - Coucher bébé sur le dos dans une position contraire à sa préférence
-- Augmenter le temps d'éveil passé en décubitus ventral. Au moins 10 à 15 minutes au moins 3 fois par jour.
+- Augmenter le temps d'éveil passé en décubitus ventral  
+≥ 10-15 minutes ≥ 3 fois par jour.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la plagiocéphalie" %}}
@@ -84,12 +87,11 @@ Autres facteurs de **mort inattendue du nourrisson** (MIN) : cale-bébé, cale-t
 
 - Mesure de prévention de la MIN
 - Thérapie de positions (voir Prévention)  
-Choix préféré chez nourrissons ≤ 4 mois avec asymétrie légère à modérée
+Référence chez nourrissons ≤ 4 mois avec asymétrie légère à modérée.
 - Kinésithérapie à orientation pédiatrique  
-Positions, exercices
+Positions, exercices.
 - Thérapie par moulage (port du casque)  
-En cas de d'asymétrie grave, envisageable chez le < 8 mois,  
-Sur avis spécialisé, port 23 h/jour
+En cas de d'asymétrie grave, envisageable chez le < 8 mois, sur avis spécialisé, port 23 h/jour.
 
 ### Traitement chirurgical
 

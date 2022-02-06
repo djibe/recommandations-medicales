@@ -22,7 +22,7 @@ todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult 
 
 {{%article-summary%}}
 
-- Contraception gratuite avant 25 ans (consultation, pilule/stérilet, coter GS Exo 3 depuis le [1/1/2022](https://www.service-public.fr/particuliers/actualites/A15158))
+- Contraception gratuite avant 25 ans (consultation, pilule/stérilet, coter GS Exo 3 depuis le [1/1/22](https://www.service-public.fr/particuliers/actualites/A15158))
 - Seul le préservatif est efficace contre les [IST](/tags/ist/)
 - [QuestionSexualité_ - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)
 - Contraceptions très efficaces de 1<sup>re</sup> intention: COP, DIU, implant

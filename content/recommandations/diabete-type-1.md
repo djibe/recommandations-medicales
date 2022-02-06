@@ -31,19 +31,21 @@ En effet, **il est inenvisageable de tenter une synthèse pour la prise en soins
 
 ## Les points vitaux du diabète de type 1
 
-- Toute personne avec un diabète type 1 est à cardiovasculaire élevé (*ESC 2019*)
-  - Très élevé si complication micro ou macrovasculaire ou si ≥ 3 facteurs de risque cardiovasculaires.
-  - Modéré si âge < 35 sans complication.
+- Toute personne avec un diabète type 1 est à cardiovasculaire au moins {{< modal-btn modal-rcv-diabete >}}modéré{{< /modal-btn >}} (*ESC 2019*)
+  - Très élevé si complication micro ou macrovasculaire ou si ≥ 3 FRCV
+  - Modéré si âge < 35 sans complication
 - Arrêt du tabac
-- HTA  
+- Hypertension artérielle  
 Objectif tensionnel **< 130/80** mmHg (*ESC 2019*).
-- Dyslipidémie
+- Dyslipidémie  
+L'objectif de LDL dépend du {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}
 - Activité physique  
 **Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire.
 - Cible d'HbA1c personnalisée
 - Surpoids  
 Négocier une perte de poids (5-10%).
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
+- Vaccination Covid-19
 - Dépistage de la [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})  
 Au diagnostic puis annuel pendant 5 ans *(ISPAD 2018)[https://cdn.ymaws.com/www.ispad.org/resource/resmgr/consensus_guidelines_2018_/19.other_complications_and_a.pdf]*.
 
@@ -54,5 +56,10 @@ Au diagnostic puis annuel pendant 5 ans *(ISPAD 2018)[https://cdn.ymaws.com/www.
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}
 
 {{< traitements/regime-mediterraneen >}}
+
+{{% /modal %}}
+{{% modal title="Diabète et RCV selon ESC 2019" id="modal-rcv-diabete"%}}
+
+{{< clinique/risque-cardiovasculaire-diabete >}}
 
 {{% /modal %}}

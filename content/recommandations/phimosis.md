@@ -6,19 +6,22 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:35:35+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-01-26"
+lastmod = "2022-02-03"
 specialites = ["urologie"]
 annees = "2000"
 sources = []
 tags = []
 anglais = ["Phimosis"]
 sctid = "449826002"
-draft = false
+image = false
+imageSrc = ""
 +++
 
 {{%article-summary%}}
 
-TODO:
+- Ne pas manipuler le phimosis physiologique du nouveau-né
+- Pas de traitement médical/chirurgical du phimosis avant 3 ans (6 ans pour certains)
+- Jamais de manœuvres de rétractions forcées quelque soit l'étiologie du phimosis
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -26,7 +29,7 @@ TODO:
 Phimosis
 : Étroitesse du prépuce prédominant au niveau de l'anneau distal, empêchant plus ou moins sa rétractation.  
 Il peut s'accompagner d'adhérences balano-préputiales et/ou d'une brièveté du frein de la verge (déviation ventrale du gland à la rétraction du prépuce).
-: 1<sup></sup> affection liée au prépuce, le terme est réservé aux prépuces non rétractables pathologiques.
+: 1<sup>re</sup> affection liée au prépuce, le terme est réservé aux *prépuces non rétractables pathologiques*.
 
 Prépuce
 : Capuchon cutanéo-muqueux très innervé, assure protection du méat urétral et évite frottements du gland.
@@ -35,7 +38,7 @@ Prépuce
 
 - **Phimosis congénital** (physiologique), parfois associé à des adhérences préputiales.  
 Quasi systématique à la naissance, disparition spontanée vers 3-4 ans. Geste possible si persistance.
-- **Phimosis inflammatoire**.  
+- **Phimosis inflammatoire**  
 Résulte de posthite aiguë à germe banal ou par IST. La guérison du processus infectieux fait disparaître le phimosis.
 - **Phimosis acquis ou de l'adulte** (secondaire)  
 Intervention le plus souvent nécessaire. Survient sur prépuce cicatriciel (infections locales récidivantes par infections bénignes ou IST, manœuvres de rétraction forcées, lésions de lichen scléro-atrophiques).  
@@ -44,12 +47,15 @@ Intervention le plus souvent nécessaire. Survient sur prépuce cicatriciel (inf
 Rétraction du prépuce strictement impossible.
 - **Phimosis peu serré**  
 Rétraction possible mais aboutit à un anneau de striction ± marqué.
-- Lichen scléro-atrophique: dermatose chronique d'étiologie inconnue survenant chez l'homme jeune.
+- Lichen scléro-atrophique  
+Dermatose chronique d'étiologie inconnue survenant chez l'homme jeune.
 
 ### Évolution naturelle du phimosis
 
-- In utero. Développement du prépuce à partir de la 8e semaine de grossesse, recouvrant le gland à la 16e semaine.
-- À la naissance. En général, il est impossible de découvrir le gland. Le feuillet interne du prépuce et la surface du gland sont recouverts par un épithélium commun qui les unit temporairement.
+- In utero  
+Développement du prépuce à partir de la 8<sup>e</sup> semaine de grossesse, recouvrant le gland à la 16<sup>e</sup> semaine.
+- À la naissance  
+Il est généralement impossible de découvrir le gland. Le feuillet interne du prépuce et la surface du gland sont recouverts par un épithélium commun qui les unit temporairement.
 - Ce phimosis physiologique disparaît progressivement et spontanément vers 3-4 ans grâce à une kératinisation progressive.
 
 Selon J. Oster:
@@ -92,10 +98,10 @@ Définir si phimosis physiologique persistant ou secondaire.
 - Ne pas manipuler le phimosis physiologique du nouveau-né
 - Respecter les adhérences balano-préputiales jusqu'à 3 voire 5 ans
 - **Jamais de manœuvres de rétractions forcées quelque soit l'étiologie du phimosis**
-- Pas de traitement médical/chirurgical du phimosis avant 3 ans (6 ans pour certains).
-- Le traitement chirurgical s'adresse aux échecs du traitement médical et du phimosis acquis très scléreux.
+- Pas de traitement médical/chirurgical du phimosis avant 3 ans (6 ans pour certains)
+- Le traitement chirurgical s'adresse aux échecs du traitement médical et du phimosis acquis très scléreux
 
-### A. Traitement médical
+### Traitement médical
 
 En 1<sup>re</sup> intention dans le phimosis congénital avec application de **corticoïdes locaux de classe forte** couplées à des **manœuvres douces de rétraction du prépuce** (études discordantes).
 
@@ -111,7 +117,7 @@ Aussi étudiés: triamcinolone 0,02% x 2/j pendant 6 semaines, proprionate de cl
 
 Les adhérences balano-préputiales. Si persistent après 5 ans: elles peuvent être levées en appliquant un anesthésique local type EMLA crème 30min avant le geste, puis levées par des tractions douces.
 
-### B. Traitement chirurgical
+### Traitement chirurgical
 
 **Indications:** échecs ou contre-indication au traitement médical, porteurs de malformations urologiques sévères (RVU sévères, valves de l'urètre postérieur, sondage intermittent).  
 Vérifier l'absence d'anomalie de verge type hypospadias avant le geste.
@@ -120,24 +126,20 @@ Méthodes chirurgicales:
 
 1. Circoncision (posthectomie totale)  
 Ablation totale du prépuce. Complications exceptionnelles. Hypersensibilité du gland persistant quelques semaines.
-
 1. Posthectomie partielle  
 Si volonté de chirurgie conservatrice, requiert un prépuce suffisamment long.
-
 1. Plastie de prépuce  
 Conserve la totalité de la longueur du prépuce.
 
-### C. Traitement des complications
+### Traitement des complications
 
 - Posthite et balano-posthite  
 Antiseptique local. Type Dakin® ou chlorhexidine aqueuse dilué dans ⅔ d'eau, matin et soir pendant 5 minutes, 5 jours.
-
 - Para-phimosis  
 Urgence chirurgicale. Contexte de manipulation de phimosis.  
 D'abord manuelle par compression du prépuce en recalottage, sinon incision chirurgicale de l'anneau de constriction.  
 Traitement du phimosis à distance.  
 Préventif. Éviter les manipulations des phimosis, toujours recalotter après la pose de sonde urinaire.
-
 - Dysurie vraie  
 Chirurgie ± conservatrice
 

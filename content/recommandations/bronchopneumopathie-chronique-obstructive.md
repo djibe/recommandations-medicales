@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2022-01-05
+lastmod = 2022-02-04
 specialites = ["pneumologie"]
 annees = "2021"
 sources = ["ERS", "GOLD", "HAS", "SPLF"]
@@ -29,7 +29,7 @@ todo = "`Tableau 2 SPLF 2021, Plan d'action, ABCD Refined ABCD Assessment tool F
 Principal facteur du déclin du VEMS.
 - Le diagnostic est spirométrique: trouble ventilatoire obstructif non réversible
 - Le VEMS est le facteur pronostique majeur de la {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
-- 4 piliers du traitement: arrêt du tabac, vaccination grippe + {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, activité physique et réhabilitation respiratoire
+- 4 piliers du traitement: arrêt du tabac, vaccination covid-19 + grippe + {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, activité physique et réhabilitation respiratoire
 - Bronchodilatateurs selon symptômes et exacerbations ({{< modal-btn modal-score-cat >}}évaluation CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}dyspnée mMRC{{< /modal-btn >}})
 - Bronchodilatateurs: {{< modal-btn modal-ttt-laba >}}BALA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-bdca >}}BDCA de secours{{< /modal-btn >}}. Escalade: {{< modal-btn modal-ttt-laba-lama >}}BALA + LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-csi >}}BALA + CSI{{< /modal-btn >}} > {{< modal-btn modal-ttt-laba-lama-csi >}}BALA + LAMA + CSI{{< /modal-btn >}}
 - EFR de suivi annuelle
@@ -282,6 +282,7 @@ Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-bpco >}
   Aérosols, combustion de bois ou biomasse, moisissures.
 - Vaccination
   - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) avec la coqueluche
+  - Covid-19
   - Grippe annuelle
   - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}} /5 ans si ≥ 65 ans ou comorbidités (cardio-respiratoire)
 - Réhabilitation respiratoire
@@ -519,7 +520,7 @@ graph TB
   depister["<strong>Dépister</strong><hr>- Mini spiromètre<br>- Questionnaire GOLD<br>- &ge; 40 ans avec &ge; 1 parmi:<br>tabagisme, env. pollué,<br>chauffage charbon/bois,<br>exposition professionnelle,<br>toux chronique, expectorations,<br>dyspnée"]
   style depister stroke:#4150f5, stroke-width:1px
     depister --> spirometrie("- Spirométrie avec test de réversibilité<hr>- Évaluation dyspnée: CAT&trade;, échelle mMRC<br>- NFS, glycémie, lipides, Radio thorax<br>- Consultations pneumo et cardio")
-      spirometrie -- TVO non réversible --> rhd("<strong>Mesures générales</strong><hr>- Sevrage tabagique<br>- Vaccin grippe, pneumocoque<br>- Activité physique<br>- Réadaptation respiratoire<br>- Équilibre diététique<br>- Traitement des comorbidités")
+      spirometrie -- TVO non réversible --> rhd("<strong>Mesures générales</strong><hr>- Sevrage tabagique<br>- Vaccin covid-19, grippe, pneumo<br>- Activité physique<br>- Réadaptation respiratoire<br>- Équilibre diététique<br>- Traitement des comorbidités")
         rhd --> bdca("Bronchodilatateur de courte durée<br>en cas de gêne")
           bdca -- "Dyspnée ou exacerbation*" --> bdla("1 bronchodilatateur de longue durée<br>BALA ou LAMA en cas d'exacerbations")
             bdla -- Dyspnée --> bitherapie(Association BALA + LAMA)

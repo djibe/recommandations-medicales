@@ -14,7 +14,7 @@ tags = ["anticoagulant", "demence", "depistage", "dyspnee", "fatigue", "HTA", "S
 anglais = ["Atrial fibrillation"]
 sctid = "49436004"
 draft = true
-todo = "ESC 2020: Table 4 | chap 11.5 saignement, Prescrire, Collège, Source 2013 bonne pour EGS"
+todo = "ESC 2020: Table 4 | chap 11.5 saignement, Prescrire, Collège, Source 2013 bonne pour EGS, prev IRC Marijon"
 +++
 
 {{%article-summary%}}
@@ -339,7 +339,7 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 
 ### À lire
 
-- <https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch14_fibrillation_atriale.pdf>
+- [Collège National des Enseignants de Cardiologie. Fibrillation atriale. Item 230 - UE8. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch14_fibrillation_atriale.pdf)
 - <https://e-cordiam.fr/>
 - ETP: 273, MobiGuide 279, 281
 

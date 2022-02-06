@@ -7,10 +7,10 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
-lastmod = 2022-02-03
+lastmod = 2022-02-04
 specialites = ["infectiologie"]
 annees = "2022"
-sources = ["HCSP", "MinSante"]
+sources = ["HCSP", "MinSante", "HAS"]
 tags = ["vaccin"]
 anglais = ["CoViD-19"]
 sctid = "840539006"
@@ -26,6 +26,7 @@ imageSrc = "La Covid-19 par stories / Freepik"
 - [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire) et [règles d'isolement du 3/1](https://www.ameli.fr/medecin/actualites/covid-19-les-regles-d-isolement-evoluent)
 - Rappel vaccinal à 3 mois (max 4, et 12-17 ans fragiles), décalé à 4 mois (6 avant le 15/2/22) si infection Covid (*HAS 24/12, 25/11 et 19/11*)  
 [Mon Rappel vaccin Covid](https://monrappelvaccincovid.ameli.fr/maintenance)
+- Indications du Paxlovid, voir *Antiviraux*
 - Dire **la** CoViD-19 ([Académie française](http://www.academie-francaise.fr/le-covid-19-ou-la-covid-19))
 
 {{%/article-summary%}}
@@ -65,25 +66,90 @@ Contact à risque négligeable
 {{%/collapse%}}
 {{%collapse "Personnes à risque de forme grave" %}}
 
-Principaux: HTA, les pathologies cardiaques et le diabète.
+Risque démultiplié de forme grave si polypathologique. Doit tenir compte des comorbidités, âge, sexe, facteurs socio-économiques. L'âge est le facteur majeur.
 
-- Âge ≥ 65 ans  
-De 60 à 65 ans: sur-risque significatif.
-- Antécédents cardiovasculaires  
-Hypertension artérielle compliquée (complications cardiaques, rénales et vasculo-cérébrales),  antécédents d'accident vasculaire cérébral ou de coronaropathie, de chirurgie cardiaque, insuffisance cardiaque stade NYHA III ou IV.
-- Diabète non équilibré ou compliqué
-- Pathologie respiratoire chronique  
-BPCO, asthme sévère, fibrose pulmonaire, syndrome d'apnées du sommeil, mucoviscidose
-- Insuffisance rénale chronique dialysée
-- Obésité
-- Cancer évolutif sous traitement (sauf hormonothérapie seule)
-- Cirrhose ≥ stade B
-- Immunodépression congénitale ou acquise
-- Syndrome drépanocytaire majeur ou antécédent de splénectomie
-- Maladies du motoneurone, myasthénie grave, SEP, Parkinson, paralysie cérébrale, quadriplégie  ou hémiplégie, tumeur maligne primitive cérébrale, maladie cérébelleuse progressive.
-- Grossesse au 3<sup>e</sup> trimestre
+{{< clinique/covid-forme-grave >}}
 
-> *[HCSP 14/11/2020](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=942)*
+<details>
+  <summary><h3 class="typography-headline-6">Personnes à risque de forme grave selon <em>HCSP 14/11/2020</em></h3></summary>
+
+- Très haut risque de forme grave (RR > 5)
+  - Âge ≥ 70 ans
+  - Trisomie 21 (surtout ≥ 40 ans)
+  - Greffe de moelle ou de cellules souches hématopoïétiques
+  - Chimiothérapie active
+  - Dialyse ou greffe rénale
+  - Démence
+  - Paralysie cérébrale
+- Haut risque de forme grave (RR 3-5)
+  - Diabète type 1
+  - Drépanocytose
+  - Déficit immunitaire combiné sévère
+- Risque significatif de forme grave (RR 1-3)
+  - Âge ≥ 65 ans  
+  De 60 à 65 ans: sur-risque significatif.
+  - Antécédents cardiovasculaires  
+  HTA compliquée (complications cardiaques, rénales et vasculo-cérébrales),  AVC ou coronaropathie, chirurgie cardiaque, insuffisance cardiaque NYHA III ou IV.
+  - Diabète type 2
+  - Pathologie respiratoire chronique  
+  BPCO, asthme sévère, fibrose pulmonaire, apnées du sommeil, mucoviscidose.
+  - Obésité
+  - Cirrhose ≥ stade B
+  - Immunodépression congénitale ou acquise
+  - Antécédent de splénectomie
+  - Maladies du motoneurone, myasthénie grave, SEP, Parkinson, paralysie cérébrale, quadriplégie  ou hémiplégie, tumeur maligne primitive cérébrale, maladie cérébelleuse progressive.
+  - Grossesse
+  - Maladie rare
+
+</details>
+
+{{%/collapse%}}
+{{%collapse "Antiviraux" %}}
+
+### Paxlovid
+
+[Document HAS officiel (RCP)](https://www.has-sante.fr/jcms/p_3311133/fr/paxlovid-pf-07321332/ritonavir).  
+Administrer dès que possible.
+
+#### Indications au Paxlovid
+
+Toutes les conditions doivent être remplies
+
+1. Personne ≥ 18 ans à risque de {{< modal-btn modal-grave >}}forme grave{{< /modal-btn >}}
+2. Test antigénique ou RT-PCR positif
+3. Pas d'oxygénothérapie nécessaire
+4. Début des symptômes depuis ≤ 5 jours
+5. Absence de contre-indication au traitement (voir *Document HAS officiel*)
+6. Contrôle obligatoire des interactions
+
+### Prescrire le Paxlovid
+
+Prescription en accès précoce sur: <https://www.ap-paxlovid.com/> (nécessite CPS ou [e-CPS]({{< relref "cabinet/e-cps.md" >}}))
+
+{{%info%}}PF 07321332 150 mg 2 cp + Ritonavir 100 mg per os toutes les 12h pendant 5 jours{{%/info%}}
+
+{{%/collapse%}}
+{{%collapse "Vaccination" %}}
+
+- [Centres de vaccination](https://www.sante.fr/cf/centres-vaccination-covid.html)
+- [Trouver une dose d'ARNm](https://vitemadose.covidtracker.fr/)
+- [Imprimer son attestation de vaccination](https://attestation-vaccin.ameli.fr/)
+- [Demander la conversion d'un certificat de vaccination étranger en passe sanitaire français](https://www.sante.fr/obtenir-un-passe-sanitaire-en-cas-de-vaccination-letranger)
+
+{{% /collapse %}}
+{{%collapse "Masques" %}}
+
+### Remboursement du masque FFP2
+
+Tous les critères sont nécessaires:
+
+1. Personne à risque de {{< modal-btn modal-grave >}}forme grave{{< /modal-btn >}}
+1. Échec de vaccination
+1. Capacité de le supporter plusieurs heures
+
+Ordonnance: 20 masques FFP2 pour 2 semaines ou 50 masques FFP2 pour 5 semaines
+
+> *DGS Urgent 2022-21* et [Ameli.fr](https://www.ameli.fr/assure/actualites/covid-19-les-personnes-immunodeprimees-peuvent-beneficier-de-masques-ffp2-sans-avance-de-frais)
 
 {{%/collapse%}}
 {{%collapse "Séquelles" %}}
@@ -108,29 +174,6 @@ Atteintes possibles après une infection à Sars-Cov-2.
 - Psychiques
 
 {{%/collapse%}}
-{{%collapse "Vaccination" %}}
-
-- [Centres de vaccination](https://www.sante.fr/cf/centres-vaccination-covid.html)
-- [Trouver une dose d'ARNm](https://vitemadose.covidtracker.fr/)
-- [Imprimer son attestation de vaccination](https://attestation-vaccin.ameli.fr/)
-- [Demander la conversion d'un certificat de vaccination étranger en passe sanitaire français](https://www.sante.fr/obtenir-un-passe-sanitaire-en-cas-de-vaccination-letranger)
-
-{{% /collapse %}}
-{{%collapse "Masques" %}}
-
-### Remboursement du masque FFP2
-
-Tous les critères sont nécessaires:
-
-1. Personne à risque de forme grave
-1. Échec de vaccination
-1. Capacité de le supporter plusieurs heures
-
-Ordonnance: 20 masques FFP2 pour 2 semaines ou 50 masques FFP2 pour 5 semaines
-
-> *DGS Urgent 2022-21* et [Ameli.fr](https://www.ameli.fr/assure/actualites/covid-19-les-personnes-immunodeprimees-peuvent-beneficier-de-masques-ffp2-sans-avance-de-frais)
-
-{{%/collapse%}}
 {{%collapse "Certificats" %}}
 
 > << L'Ordre rappelle que les médecins n'ont pas à établir de certificat médical pour le retour à l'école. >> [CNOM. 11/09/2020](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificat-medical-lecole)
@@ -152,11 +195,13 @@ Ordonnance: 20 masques FFP2 pour 2 semaines ou 50 masques FFP2 pour 5 semaines
 
 ### Haut Conseil de la Santé Publique
 
+- [HCSP. Covid-19 : actualisation de la liste des facteurs de risque de forme grave. 14/11/2020.](https://www.hcsp.fr/Explore.cgi/AvisRapportsDomaine?clefr=942)
 - [HCSP. Avis complémentaire à l'avis du 9 septembre 2020 sur les stratégies de prévention de la diffusion du virus SARS-CoV-2 en Établissementd'Accueil du Jeune Enfant (EAJE) et en milieu scolaire](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=911)
 - [HCSP. Rapport relatif à l'actualisation de la prise en charge des patients atteints de Covid-19. 20/08/2020](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=899)
 
 ### Autres
 
+- [HAS. Stratégie de vaccination contre le Sars-Cov-2. 01/03/2021.](https://www.has-sante.fr/upload/docs/application/pdf/2021-03/actualisation_des_facteurs_de_risque_de_formes_graves_de_la_covid-19_et_des_reco_sur_la_strategie_de_priorisation_des_popula.pdf)
 - [Journal Officiel. Arrêté du 24 juillet 2020 modifiant l'arrêté du 10 juillet 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de covid-19 dans les territoires sortis de l'état d'urgence sanitaire et dans ceux où il a été prorogé. 25/07/2020](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000042148309&categorieLien=id)
 - [Académie nationale de Médecine. Avis: Les séquelles de la Covid-19. 15/07/2020](http://www.academie-medecine.fr/wp-content/uploads/2020/07/Se%CC%81quelles-Avis.pdf)
 - [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe !. 13/05/2020](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
@@ -164,3 +209,8 @@ Ordonnance: 20 masques FFP2 pour 2 semaines ou 50 masques FFP2 pour 5 semaines
 - [HCSP. Covid-19 : personnes à risque et mesures barrières spécifiques à ces personnes. 20/04/2020](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=807)
 
 {{%/sources%}}
+{{% modal title="Personnes à risque de forme grave de Covid-19" id="modal-grave"%}}
+
+{{< clinique/covid-forme-grave >}}
+
+{{% /modal %}}

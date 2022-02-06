@@ -987,3 +987,72 @@ table.dataTable > tbody > tr.child ul.dtr-details > li {
     margin-left: 4px;
   }
 }
+
+/* Summary */
+
+details {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  padding: 1rem 1.25rem;
+
+  &[open] {
+    padding: 1rem 1.25rem;
+  }
+
+  &[open] summary {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    padding-bottom: calc(1rem - 1px);
+    margin-bottom: 1rem;
+  }
+
+  &[open] summary ~ * {
+    animation: open 0.3s ease-out;
+    // margin-top: 1rem;
+    // padding: 1.25rem;
+  }
+
+  &[open] summary:after {
+    transform: rotate(180deg);
+  }
+
+  summary {
+    padding: 0;
+    // padding: 1rem 1.25rem;
+    position: relative;
+    cursor: pointer;
+    list-style: none;
+    outline: 0;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &:after {
+      content: url('data:image/svg+xml,%3Csvg fill="%23000" fill-opacity=".54" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" %3E%3Cpath d="M7.41 8.58 12 13.17l4.59-4.59L18 10l-6 6-6-6 1.41-1.42Z"/%3E%3C/svg%3E');
+      position: absolute;
+      width: 24px;
+      height: 24px;
+      right: 0;
+      top: calc(50% - 8px);
+      transform-origin: center;
+      transition: 200ms linear;
+    }
+
+    * {
+      margin: 0;
+    }
+  }
+
+  p {
+    margin: 0 0 1rem;
+    padding-top: 1rem;
+  }
+}
+
+@keyframes open {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
