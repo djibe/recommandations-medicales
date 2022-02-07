@@ -7,14 +7,13 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr D. BOUHASSIRA (SFETD)"
 date = "2021-09-09T13:10:04+02:00"
 publishdate = "2021-09-13"
-lastmod = "2021-12-13"
+lastmod = "2022-02-07"
 specialites = ["neurologie"]
-annees = "2020"
+annees = "2021"
 sources = ["SFETD", "HAS"]
 tags = ["cancer", "douleur", "neuropathie", "TSH", "zona"]
 anglais = ["Neuropathic pain"]
 sctid = "247398009"
-draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration de la douleur neuropathique par brgfx / Freepik"
@@ -33,7 +32,7 @@ Emplâtre de lidocaïne ou TENS pour une atteinte superficielle localisée.
 
 Douleur neuropathique
 : Douleur secondaire à une lésion ou maladie affectant le système nerveux somatosensoriel (définition *IASP*). Elle peut être d'origine périphérique ou centrale. Elle est chronique quand elle persiste plus de 3-6 mois.
-: Impact important sur la qualité de vie avec coût socio-économique majeur.
+: Impact important sur la qualité de vie avec coût socio-économique majeur (7-10 % des adultes).
 
 Allodynie
 : Douleurs provoquées par une stimulation normalement non douloureuse.
@@ -60,7 +59,7 @@ Hyperalgésie
 ### Interrogatoire et examen
 
 - Antécédents  
-Chirurgicaux, traumatiques, sciatique, diabète, [zona]({{< relref "zona.md" >}}), [SIDA]({{< relref "vih-sida.md" >}}), piqûre de tique, maladie de système, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), SEP, séjours tropicaux prolongés, exposition aux métaux lourds...
+Chirurgicaux, traumatiques, sciatique, diabète, [zona]({{< relref "zona.md" >}}), [SIDA]({{< relref "vih-sida.md" >}}), [piqûre de tique]({{< relref "maladie-lyme.md" >}}), maladie de système, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), SEP, séjours tropicaux prolongés, exposition aux métaux lourds...
 - Antécédents familiaux de neuropathie
 - Traitements neurotoxiques  
 Radio-chimiothérapie, isoniazide, métronidazole, éthambutol, nitrofurantoïne, colistine, dapsone, traitement antipaludéen, antirétroviraux...
@@ -95,10 +94,9 @@ Substance, posologie, durée, tolérance, efficacité.
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan biologique
-
 {{%info%}}
-Sauf étiologie évidente, bilan de première intention devant des douleurs neuropathiques:
+
+### Bilan de première intention devant des douleurs neuropathiques
 
 - Glycémie à jeun
 - NFS
@@ -107,6 +105,8 @@ Sauf étiologie évidente, bilan de première intention devant des douleurs neur
 - Créatininémie et DFG
 - TSH
 {{%/info%}}
+
+*Sauf étiologie évidente.*
 
 ### Électroneuromyogramme (ENMG)
 
@@ -141,7 +141,7 @@ Recommandation faible.
 - Radiofréquence pulsée (PRF, recommandation faible)  
 Limitée aux douleurs postzostériennes thoraciques.
 - Stimulation médullaire (preuves faibles)  
-Limitée aux douleurs radiculaires chroniques postchirurgicales et diabétique.
+Limitée aux douleurs radiculaires chroniques post-chirurgicales et diabétique.
 - Psychothérapie  
 En complément des traitements pharmacologiques.
   - Thérapie cognitivo-comportementale (TCC)
@@ -249,7 +249,8 @@ Bilan étiologique par le neurologue en cause non évidente.
 {{%/collapse%}}
 {{%sources%}}
 
-- [Moisset X et al, SFETD. Traitements pharmacologiques et non pharmacologiques de la douleur neuropathique : une synthèse des recommandations françaises. Douleur Et Analgesie, 33 (2020): 101-112. (PDF)](https://www.sfetd-douleur.org/wp-content/uploads/2021/02/synth%C3%A8se-RECOS-DN-langue-fran%C3%A7aise1.pdf)
+- [Moisset X et al. French guidelines for neuropathic pain: An update and commentary. Revue neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.004)
+- [Moisset X et al; SFETD. Traitements pharmacologiques et non pharmacologiques de la douleur neuropathique : une synthèse des recommandations françaises. Douleur Et Analgesie, 33 (2020): 101-112. (PDF)](https://www.sfetd-douleur.org/wp-content/uploads/2021/02/synth%C3%A8se-RECOS-DN-langue-fran%C3%A7aise1.pdf)
 - [HAS. Prise en charge diagnostique des neuropathies périphériques. Recommandations professionnelles. Mai 2007.](https://www.has-sante.fr/jcms/c_598221/fr/prise-en-charge-diagnostique-des-neuropathies-peripheriques-polyneuropathies-et-mononeuropathies-multiples)
 - [Collège des enseignants de neurologie. Bases neurophysiologiques, mécanismes physiopathologiques d'une douleur aiguë et d'une douleur chronique – Thérapeutiques antalgiques, médicamenteuses et non médicamenteuses. Item 131.](https://www.cen-neurologie.fr/deuxieme-cycle/bases-neurophysiologiques-mecanismes-physiopathologiques-dune-douleur-aigue-dune)
 

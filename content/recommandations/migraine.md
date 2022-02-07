@@ -5,8 +5,8 @@ shortname = ""
 synonyms = ["Aura migraineuse"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-12T13:03:13+01:00"
-publishdate = "2022-02-04"
-lastmod = "2022-02-04"
+publishdate = "2022-02-07"
+lastmod = "2022-02-07"
 specialites = ["neurologie"]
 annees = "2013"
 sources = ["SFEMC", "CNGOF"]
@@ -227,6 +227,10 @@ Indications: fréquence, intensité à l'origine d'un **handicap** familial/soci
 Traitement de fond à instaurer même si le traitement de crise est efficace (prévient la surconsommation d'antimigraineux).  
 Il ne supprime pas les crises mais réduit leur fréquence et leur intensité. **Agenda migraineux** afin d'évaluer son efficacité.
 
+Autres thérapies avec efficacité prouvée: relaxation, rétro-contrôle (biofeedback) et les thérapies cognitives et comportementales (TCC) de gestion du stress.
+
+**NB.** Ne pas recommander homéopathie, manipulations cervicales dans la prévention de la migraine.
+
 ### Molécules de première intention
 
 {{%info%}}{{%/info%}}
@@ -252,7 +256,9 @@ En cas d'échecs répétés: évaluer l'observance, rechercher un abus médicame
 
 ### Arrêt d'un traitement de fond
 
+Après 6-12 mois de traitement, il est possible de tenter d’arrêter le traitement progressivement, par décroissance progressive.
 
+Le même traitement peut être repris si les migraines récidivent.
 
 ### Autres traitements d'efficacité probable
 
@@ -287,9 +293,18 @@ Contre-indication à la triade : migraine + pilule + tabac.
 
 ### Migraine et grossesse
 
-Rappeler le risque de l'auto-médication (ibuprofène, préparations de parapharmacie)
+Informer:
 
-### Traitement de fond pendant la grossesse
+- Les migraines ne perturbent pas le déroulement de la grossesse
+- Une rémission partielle voire totale est souvent observée  
+Le traitement reste possible pendant la grossesse et ne limite pas l'allaitement.
+- Ne pas débuter de traitement prophylactique
+- Traitement de la crise: paracétamol, AINS avant le 5<sup>e</sup> mois
+- Médicaments contre-indiqués  
+Dérivés ergot de seigle, (di)-valproate de sodium, aspirine et AINS à partir du 5<sup>e</sup> mois
+- Rappeler le risque de l'auto-médication (ibuprofène, préparations de parapharmacie)
+
+#### Traitement de fond pendant la grossesse
 
 Si crises invalidantes persistantes:
 

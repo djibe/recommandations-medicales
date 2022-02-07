@@ -17,7 +17,7 @@ sctid = "31681005"
 flowchart = true
 image = true
 imageWEBP = true
-imageSrc = "BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
+imageSrc = "Illustration de la névralgie du trijumeau par BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 todo = "durée avant envisager décroissance, attente A. Donnet"
 +++
 
