@@ -4,10 +4,10 @@ prefix = "les "
 titleSeo = "Douleurs neuropathiques"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-relecteur = "Dr D. BOUHASSIRA (SFETD)"
-date = "2021-09-09T13:10:04+02:00"
-publishdate = "2021-09-13"
-lastmod = "2022-02-07"
+relecteur = "Dr D. BOUHASSIRA (SFETD) et X. MOISSET (SFEMC)"
+date = 2021-09-09T13:10:04+02:00
+publishdate = 2021-09-13
+lastmod = 2022-02-08
 specialites = ["neurologie"]
 annees = "2021"
 sources = ["SFETD", "HAS"]
@@ -23,7 +23,7 @@ todo = "carence B9B12?"
 {{%article-summary%}}
 
 - {{< modal-btn modal-score-dn4 >}}Questionnaire DN4{{< /modal-btn >}}
-- 1<sup>re</sup> intention: duloxétine, gabapentine ou tricyclique.  
+- 1<sup>re</sup> intention: duloxétine, gabapentine ou tricyclique  
 Emplâtre de lidocaïne ou TENS pour une atteinte superficielle localisée.
 - [Liste des structures spécialisées douleur chronique (SDC)](https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)
 
@@ -177,16 +177,17 @@ Injections uniquement par un centre de la douleur chronique.
 ### Douleur neuropathique périphérique ou centrale, focale ou diffuse
 
 {{%info%}}
-Duloxétine 60 mg x 1/j. Max 60 mg x 2/j.
+Duloxétine 30 mg/j 15j. Puis 60 mg/j. Max 60 mg x 2/j.
 
 ---
 
-Gabapentine 300 mg J1, 300 mg x 2 J2, 300 mg x 3 J3. Paliers de 300 mg tous les 2-3 jours. Max 3600 mg/j
+Gabapentine 100 mg x 3/j 3 jours. Paliers de 100-300 mg tous les 3-5 jours. Max 3600 mg/j
 
 ---
 
-Amitriptyline 10 mg le soir. Paliers de 10-25 mg tous les 3-7 jours.  
-Avis spécialisé au-delà de 50 mg/j.
+Amitriptyline 3-5 gtes au coucher. Paliers 5 gtes tous les 3 jours. Avis spécialisé au-delà de 50 mg/j.
+
+> *[OMéDIT Centre 2018](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/8120.pdf)* et [appli Douleur Hôpital Saint Joseph](https://play.google.com/store/apps/details?id=hopitalsaintjoseph.douleur)
 {{%/info%}}
 
 - IRSNA
@@ -197,8 +198,7 @@ Avis spécialisé au-delà de 50 mg/j.
   - Ordonnance sécurisée, rechercher un mésusage
   - Effets indésirables: somnolence, vertiges, prise de poids et œdèmes périphériques
 - Antidépresseurs tricycliques
-  - Surveillance cardiaque quand > 75 mg/j. Préférer 10-50 mg/j.
-  - 10-150 mg/j en 1-2 prises/j.
+  - Préférer 10-50 mg/j. Avis spécialisé > 50 mg/j. Surveillance cardiaque quand > 75 mg/j.
   - [Amitriptyline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65892928&typedoc=R) (Elavil®, Laroxyl®), clomipramine (Anafranil®, gén), imipramine (Tofranil®)
   - Effets indésirables: somnolence et prise de poids. Levée d'inhibition avec risque suicidaire.
   - Surveillance: cardiaque, anticholinergique ou d'hypotension orthostatique
@@ -212,7 +212,7 @@ Avis spécialisé au-delà de 50 mg/j.
 Peut être associé avec des antiépileptiques. Utilisation avec prudence en association à des antidépresseurs à forte posologie (syndrome sérotoninergique).
 - Association tricyclique 25-75 mg/j ou duloxétine 60 mg/j  
 \+ gabapentine 1200-1800 mg/j ou prégabaline 150-300 mg/j
-- Thérapie cognitivocomportementale (TCC) et thérapie pleine conscience  
+- Thérapie cognitivo-comportementale (TCC) et thérapie pleine conscience  
 En association avec les autres traitements.
 
 #### Douleur neuropathique en 3e intention

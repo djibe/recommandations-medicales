@@ -19,7 +19,6 @@ todo = "ESC 2020: Table 4 | chap 11.5 saignement, Prescrire, Collège, Source 20
 
 {{%article-summary%}}
 
-- *Version préliminaire*
 - FA mal tolérée = appel du {{< phone >}}15{{< /phone >}}
 - Dépister: ≥ 65 ans, diabète, HTA
 - Le diagnostic est ECG
@@ -326,7 +325,8 @@ Information du patient et de l'entourage sur la fibrillation atriale.
   - CAT devant un saignement
   - Signaler à tout médecin la prise
   - Pas d'automédication
-  - Importance de l'{{< modal-btn modal-observance >}}observance{{< /modal-btn >}} (AOD même si sinusal +++)
+  - Importance de l'{{< modal-btn modal-observance >}}observance{{< /modal-btn >}}  
+  Poursuite de l'anticoagulant même si sinusal +++
 
 {{% /collapse %}}
 {{%sources%}}

@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr M. LANTERI-MINET (SFETD)"
 date = 2021-06-18T16:20:00+02:00
 publishdate = 2021-06-19
-lastmod = 2021-07-28
+lastmod = 2022-02-08
 specialites = ["neurologie"]
 annees = "2014"
 sources = ["SFEMC"]
@@ -246,6 +246,7 @@ Indication au traitement de fond: épisodique avec période douloureuse > 2 sema
 - Traitement transitionnel si besoin le temps de la titration (voir *Traitement de la crise*)
 - Association de patients  
 [AFCAVF](http://www.afcavf.org/index/page/id/accueil)
+- [Appli d'agenda des crises](https://play.google.com/store/apps/details?id=eu.monavf.android.monavf)
 
 ### Vérapamil
 

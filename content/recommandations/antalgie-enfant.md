@@ -14,7 +14,6 @@ sources = ["HAS", "Pediadol"]
 tags = ["AINS", "douleur", "enfant"]
 anglais = []
 sctid = ""
-draft = false
 slider = true
 paracetamol = true
 image = true
@@ -229,6 +228,8 @@ Surveillance par soignant pendant 1h.
 
 {{% /collapse %}}
 {{%sources%}}
+
+[Appli Livret Douleur APHP](https://play.google.com/store/apps/details?id=com.groupe_synapse.livretDouleur)
 
 - [Pediadol. Un groupe d'experts de la douleur de l'enfant.](https://pediadol.org/)
 - [Pediadol. Douleur de l'enfant - L'essentiel. 2019](https://issuu.com/carco_publi/docs/guide_essentiel_interactif)
