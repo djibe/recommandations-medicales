@@ -18,9 +18,9 @@
 {{ if .IsHome }}
   {{ $metaTitle = (printf "Dernières recommandations médicales au cabinet | RecoMédicales" ) }}
 {{ else if .Params.TitleSeo }}
-  {{ $metaTitle = ( printf "%s %s %s" "Recommandations" .Params.TitleSeo "2022 | RecoMédicales" ) }}
+  {{ $metaTitle = ( printf "%s %s %s %s" "Recommandations" .Params.TitleSeo .Params.Annees "| RecoMédicales" ) }}
 {{ else if and (eq .Section "recommandations") (eq .Kind "page") }}
-  {{ $metaTitle = ( printf "%s %s%s %s" "Recommandations sur" (.Params.prefix | safeHTML ) .Title "en 2022 | RecoMédicales" ) }}
+  {{ $metaTitle = ( printf "%s %s%s %s %s %s" "Recommandations sur" (.Params.prefix | safeHTML ) .Title "en" .Params.Annees "| RecoMédicales" ) }}
 {{ else }}
   {{ $metaTitle = ( printf "%s %s" .Title "| RecoMédicales" ) }}
 {{ end }}

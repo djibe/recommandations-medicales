@@ -234,6 +234,7 @@ L'option la plus sûre est de ne pas consommer d'alcool en cas de:
 
 ### À lire
 
+- <https://www.cen-neurologie.fr/fr/deuxieme-cycle/addiction-lalcool-complications-neurologiques-lalcoolisme>
 - <http://www.addictologie.org/spip.php?page=avectitre&id_rubrique=8>
 - <http://www.addictologie.org/spip.php?page=accueil&id_rubrique=1>
 - <http://www.sfalcoologie.asso.fr/page.php?choix=A10>

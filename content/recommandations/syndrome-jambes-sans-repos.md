@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-02-02T08:52:00+02:00
 publishdate = 2021-03-10
-lastmod = 2021-10-21
+lastmod = 2022-02-07
 specialites = ["medecine du sommeil"]
 annees = "2019"
 sources = ["SFRMS"]
@@ -18,7 +18,7 @@ flowchart = true
 image = true
 imagePNG = true
 imageSrc = "Comparaison entre le sommeil d'une personne atteinte du syndrome des jambes sans repos (en rouge) et celui d'une personne en bonne santé (en bleu). Markus Mueller derivative, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "suicide, methodes Sandrine, info du patient"
+todo = "info du patient"
 +++
 
 {{%article-summary%}}
@@ -43,7 +43,7 @@ Le traitement est symptomatique et vise à réduire la plainte sans éradiquer l
 : **Complications du SJSR:**
     - Troubles du sommeil
     - Altération de la vigilance diurne
-    - Anxiété, dépression {{%class%}}x 2-5{{%/class%}}
+    - Anxiété, dépression {{%class%}}x 2-10{{%/class%}}
     - Altération de la qualité de vie
     - Impact socio-économique
     - Enfant: troubles du comportement et irritabilité
@@ -64,7 +64,7 @@ Ils sont parfois détectés par le conjoint.
 
 Akathisie
 : Impression subjective d'agitation interne, ou d'impatience, avec un désir intense (voire incoercible) de réaliser certains mouvements (*Dr E. Fakra*).
-: Effet indésirable fréquent des neuroleptiques (~30% des patients), antidépresseurs ISRS, thymorégulateurs.  
+: Effet indésirable fréquent des neuroleptiques (30% des patients), antidépresseurs ISRS, thymorégulateurs.  
 [En savoir plus sur l'akathisie (PDF)](https://www.edimark.fr/Front/frontpost/getfiles/23099.pdf)
 
 Tremblement orthostatique primaire
@@ -202,7 +202,7 @@ Corrélation entre sévérité des troubles et sévérité du SJSR.
 Absente (légère à modérée) malgré le temps de sommeil moindre = **caractéristique du SJSR**.
 - Qualité de vie
 - Activités quotidiennes
-- Troubles de l'attention, dépression, anxiété  
+- Troubles de l'attention, {{< modal-btn modal-had >}}dépression, anxiété (échelle HAD){{< /modal-btn >}}  
 Principaux marqueurs de l'insomnie.
 - Conséquences sociales, professionnelles/scolaires
 
@@ -341,9 +341,10 @@ Arrêter si possible ou substituer les classes suivantes: antidépresseurs (tout
 5. Traitement à la demande  
 Indications: SJSR léger avec ferritinémie > 75 ng/mL
 {{%class%}}Voir chapitre dédié plus bas.{{%/class%}}
-6. Traitement spécifique  
-Réservé au médecin du sommeil.
-Indications: SJS modéré à très sévère ({{< modal-btn modal-score-irls >}}score IRLS{{< /modal-btn >}} ≥ 11) ou impactant la qualité de vie malgré les mesures ci-dessus.
+6. Traitement spécifique
+    - Réservé au médecin du sommeil
+    - Indications: SJS modéré à très sévère ({{< modal-btn modal-score-irls >}}score IRLS{{< /modal-btn >}} ≥ 11) ou impactant la qualité de vie malgré les mesures ci-dessus
+7. Réévaluer {{< modal-btn modal-had >}}dépression et anxiété (échelle HAD){{< /modal-btn >}}
 
 {{%info%}}
 
@@ -362,7 +363,7 @@ Indications: SJS modéré à très sévère ({{< modal-btn modal-score-irls >}}s
 
 ### Correction d'une anémie et d'une carence martiale
 
-Traitement de première intention avec une cible de ferritinémie > 75 ng/mL.
+Traitement de première intention avec une **cible de ferritinémie > 75 ng/mL**.
 
 - Supplémentation 3 mois avec contrôle à la fin du traitement
 - Supplémentation IV en HDJ en cas d'échec ou de mauvaise tolérance de la supplémentation orale
@@ -440,7 +441,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- Prescrire Redaction. Fer isomaltoside : pas plus de réactions d'hypersensibilité qu'avec le fer saccharose ?. Prescrire en questions. Revue Prescrire 2020.
+- Chenini S. et al. Depressive Symptoms and Suicidal Thoughts in Restless Legs Syndrome. Mov Disord. 2022
 - Prescrire Redaction. Jambes sans repos : soulager sans médicament. Août 2019.
 - [Chenini S. et al; SFRMS. Syndrome des jambes sans repos pharmaco-résistant. Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 114-125.](https://doi.org/10.1016/j.msom.2018.10.004)
 - [Limousin N. et al.; SFRMS. Traitement du syndrome des jambes sans repos nouvellement diagnostiqué. Médecine du Sommeil, Volume 16, Issue 2, 2019, Pages 106-113.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302449?via%3Dihub)
@@ -454,5 +455,10 @@ graph TB
 {{% modal title="Échelle internationale de sévérité du syndrome des jambes sans repos (IRLS)" id="modal-score-irls" size="lg"%}}
 
 {{< scores/irls >}}
+
+{{% /modal %}}
+{{% modal title="Score HAD" id="modal-had"%}}
+
+{{< scores/had >}}
 
 {{% /modal %}}

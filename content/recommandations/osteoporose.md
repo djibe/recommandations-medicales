@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-04T17:43:41+02:00
 publishdate = 2021-12-06
-lastmod = 2022-01-28
+lastmod = 2022-02-08
 specialites = ["rhumatologie"]
 annees = "2019"
 sources = ["SFRhumato", "GRIO", "IOF", "HAS"]
@@ -28,16 +28,17 @@ todo = "https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/Ra
 
 Recommandations simplifiées pour un traitement réaliste:
 
-1. Ostéodensitométrie pour toutes les femmes après 60 ans ou après une fracture
-2. Bilan étiologique: NFS, VS, CRP, bilan rénal et hépatique, TSH, vitamine D, calcémie corrigée, phosphatémie, albuminémie
-3. Biphosphonate si T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou tout T-score ≤ -3
+1. Ostéodensitométrie pour toutes les femmes après 60 ans ou après une fracture ({{< modal-btn modal-dxa-remboursement >}}critères de remboursement{{< /modal-btn >}})
+2. Bilan: NFS, CRP, bilan rénal et hépatique, vitamine D, calcémie, phosphatémie, électrophorèse des protéines sériques
+3. Biphosphonate en 1<sup>er</sup> traitement anti-ostéoporotique selon T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou tout T-score ≤ -3
 4. Avis rhumatologique si T-score proche (1 point) de l'indication de traiter
-5. Biphosphonate: bilan dentaire et [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois.  
-  Fracture fémorale: adresser à l'hôpital pour zolédronate IV.
-6. Contrôle d'ostéodensitométrie à 3-5 ans et avis rhumatologique
+5. Biphosphonate: bilan dentaire, [alendronate 70 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69784280&typedoc=R) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 75 mg 2 jours de suite 1 fois par mois.  
+  Fracture fémorale (FESF): [zolédronate 5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture).
+6. Contrôle de l'ostéodensitométrie à 2-3 ans ± avis rhumatologique
+7. Nouveau contrôle 2 ans après l'arrêt du traitement
 
 **Prévention pour toutes**  
-{{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, arrêt du tabac, activité physique, [vitamine D]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
+{{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, arrêt du tabac, activité physique, [vitamine D]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1-1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
 
 Voir aussi: [Traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
 
@@ -361,7 +362,7 @@ Critères de choix du traitement: espérance de vie suffisante, antécédent de 
 - Risédronate  
 {{%class "x"%}}35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois{{%/class%}}
 - FESF ou T-score ≤ -3  
-{{%class "x"%}}Zolédronate 5 mg IV annuel. Seul avec efficacité démontrée sur la FESF.{{%/class%}}
+{{%class "x"%}}Zolédronate 5 mg IV annuel. Seul avec efficacité démontrée sur la FESF. [Perfusion par IDE à domicile](https://www.omedit-paysdelaloire.fr/bon-usage-des-produits-de-sante/perfusion/perfadom/#DCI24) sur 15-30 min{{%/class%}}
 
 </div>
 <div class="collapse" id="div-radio-ttt-vertebral">
@@ -476,7 +477,7 @@ Réévaluation avec ostéodensitométrie 2 ans après l'arrêt du traitement.
 {{%/collapse%}}
 {{%collapse "Conduite à tenir devant une ostéoporose" "show" %}}
 
-{{< mermaid title="Dépistage de l'ostéoporose en l'absence d'antécédent de fracture. JB Fron d'après SFRhumato 2018 et HAS lombalgie 2019" >}}
+{{< mermaid title="Dépistage de l'ostéoporose en l'absence d'antécédent de fracture. JB Fron d'après SFRhumato 2018" >}}
 graph TB
   menopause["<b>Ménopause et &ge; 1 parmi:</b><br>- Fracture fragilité chez parent<br>- IMC &lt; 19<br>- Ménopause précoce<br>- FRAX &gt; seuil pour l'âge<br>- Contrôle à 3-5 ans de DXA sans ttt<hr>- Sujet âgé à risque de chute<br>- Corticothérapie prolongée<br>- Endocrinopathie ou<br>pathologie déminéralisante<br>- Maladie cœliaque"]
   style menopause stroke:#4150f5, stroke-width:1px
@@ -494,7 +495,7 @@ graph TB
 
 ---
 
-{{< mermaid title="Prise en charge de l'ostéoporose fracturaire de la femme. JB Fron d'après SFRhumato 2018 et HAS 2019 BUM ostéoporose" >}}
+{{< mermaid title="Prise en charge de l'ostéoporose fracturaire de la femme. JB Fron d'après SFRhumato 2018, HAS 2019 BUM ostéoporose et HAS 2019 lombalgie" >}}
 graph TB
   perteTaille["- Perte de taille<br>&ge; 2 cm au long cours<br>ou &ge; 4 cm comparée à 20 ans<br>- Rachialgies après 55 ans<br>ou ménopause<br>- Corticoïdes chroniques"] --> radio(Radio dorso-lombaires) -- Fracture vertébrale --> bilan
   fracture[Fracture osseuse]
@@ -562,6 +563,11 @@ Fracture ayant atteint: {{< clinique/osteoporose-fracture-severe >}}
 {{% modal title="Facteurs de risque de fracture à la ménopause" id="modal-risque-fracture"%}}
 
 {{< clinique/osteoporose-risque-fracture >}}
+
+{{% /modal %}}
+{{% modal title="Critères de remboursement de l'ostéodensitométrie" id="modal-dxa-remboursement"%}}
+
+{{< clinique/osteoporose-dxa-remboursement >}}
 
 {{% /modal %}}
 {{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}

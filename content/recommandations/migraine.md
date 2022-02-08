@@ -8,7 +8,7 @@ date = "2021-11-12T13:03:13+01:00"
 publishdate = "2022-02-07"
 lastmod = "2022-02-07"
 specialites = ["neurologie"]
-annees = "2013"
+annees = "2021"
 sources = ["SFEMC", "CNGOF"]
 tags = ["cephalees"]
 anglais = ["Migraine"]
@@ -16,26 +16,30 @@ sctid = "37796009"
 draft = true
 image = true
 imageSrc = "Illustration de la migraine par stories / Freepik"
-todo = "recouper contraception et THM, Prescrire, migraine abdo enfant"
+todo = "Global Assessment of Migraine Severity (GAMS) [23], recouper contraception et THM, Prescrire, EHF, migraine abdo enfant"
 +++
 
 {{%article-summary%}}
 
 - Triade: Évolution chronique par crises récurrentes avec intervalle libre + crises stéréotypées + examen clinique normal
 - Contre-indication à la triade: migraine + pilule + tabac
+- Traitement de la crise
+- Traitement de fond si > 2 j/sem depuis ≥ 3 mois consécutifs
 TODO:
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Migraine
-: TODO:
-: Origine génétique et environnementale avec altération de la qualité de vie.
-: Facteurs favorisants: manque de sommeil, stress, alcool, grasse matinée, jeûne, chaleur, changements de climat, odeurs.
-: 30-45% des migraineux français n'ont jamais consulté, ignorent leur diagnostic et les traitements existants.
+: Pathologie neurovasculaire fréquente liée à des altérations subtiles neuronales et vasculaires. Facteur de risque vasculaire indépendant.  
+Origine génétique et environnementale avec altération très importante de la **qualité de vie**.
+: **Migraine sévère:** crises fréquentes (≥ 8 jours/mois) OU {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 OU intensité impose un arrêt total des activités pour ≥ 50% des épisodes.
+: **Migraine résistante:** échec de traitement bêtabloquant et topiramate bien conduits.
+: 30-45% des migraineux français n'ont jamais consulté, ignorent leur diagnostic et les traitements existants.  
+90% devraient être soulagés en soins primaires, 1% suivis en centre spécialisé.
 
 Migraine avec aura
-: *ex migraine accompagnée*
+: *ex migraine accompagnée*. Augmente le risque vasculaire (AVC ischémique x 2).
 : 4 types d'aura: visuelles (> 90% des auras), sensitives, aphasique, motrice (classée migraine hémiplégique).
 
 Migraine cataméniale
@@ -44,8 +48,14 @@ Migraine cataméniale
 50% des migraineuses rapportent des crises cataméniales, < 10% rapportent une migraine cataméniale.
 : Les migraines cataméniales ont la particularité d'être très intenses avec moindre réponse au traitement de crise.
 
+Céphalées par abus médicamenteux
+: Critères diagnostiques ICHD-3 8.2.
+: Consommation de triptans ≥ 10 j/mois ou AINS ≥ 15 j/mois.
+
 ### Diagnostic différentiel
 
+- Céphalées par abus médicamenteux  
+Souvent associée.
 - Céphalée de tension  
 Céphalée diffuse, non pulsatile, non aggravée à l'effort, moins intense, sans signes digestifs associés, parfois phono/photophobie. Souvent associée chez le migraineux.
 - Sinusite aiguë
@@ -58,9 +68,16 @@ Nombre de crises quotidiennes, stricte unilatéralité, côté fixe, arrachement
 
 Avec aura: [AIT]({{< relref "accident-vasculaire-cerebral.md" >}}) (déficit avec début brutal et symptômes d'emblée maximaux) et épilepsie partielle (installation en 2-3 min, durée courte).
 
+### Abréviations
+
+**EI:** effet indésirable  
+**MSA:** migraine sans aura
+
 ### Épidémiologie
 
-- Prévalence: 20% de 18 à 65 ans, 75% de femmes
+- **Prévalence:** 14% des adultes en Europe (18-50 ans ++), 75% de femmes  
+France: 21,3% des adultes remplissent les critères de la migraine ICHD-3.
+- 2<sup>e</sup> maladie la plus importante responsable d'*années vécues avec une incapacité* (AVI, *OMS 2016*)
 - 50% ont ≥ 2 crises par mois; 40% ont durée > 24h; 50% ont intensité sévère à très sévère
 
 {{% /collapse %}}
@@ -72,7 +89,7 @@ Triade *IHS 1998*:
 2. Crises stéréotypées
 3. Examen clinique normal
 
-### Critères diagnostiques de la migraine sans aura
+### Critères diagnostiques de la migraine sans aura (MSA)
 
 Critères A à E remplis:
 
@@ -113,18 +130,25 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic est clinique selon les critères IHS 98 avec la triade suivante:
+### Interrogatoire
 
-1. Évolution chronique par crises récurrentes avec intervalle libre
-2. Crises stéréotypées
-3. Examen clinique normal
+- Antécédents
+- Alcool, tabac
+- Comorbidités
+  - Terrain cardiovasculaire et respiratoire
+  - Troubles du sommeil
+  - Rechercher un syndrome dépressif/anxieux: {{< modal-btn modal-had >}}échelle HAD{{< /modal-btn >}}
+- Histoire des céphalées
+  - Âge de début
+- Critères diagnostiques ICHD-3 (voir chapitre dédié)
+- Facteurs de risque de chronicisation
+- Consommation d'antimigraineux
+- Évaluer le handicap migraineux
+  - Agenda migraineux (date, durée, intensité, facteur déclenchant, traitements essayés)  
+  Reconsulter lorsque traitement pris ≥ 2 jours/semaine depuis ≥ 3 mois.
+  - Qualité de vie: {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}}
 
-### Évaluer le handicap migraineux
-
-- Agenda migraineux (date, durée, intensité, facteur déclenchant, traitements essayés)  
-Reconsulter lorsque traitement pris ≥ 2 jours/semaine depuis ≥ 3 mois.
-- Rechercher un syndrome dépressif/anxieux: {{< modal-btn modal-had >}}échelle HAD{{< /modal-btn >}}
-- Qualité de vie (échelle HIT-6)
+### Examen clinique
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -149,18 +173,16 @@ Début brutal, prolongé > 1 heure, latéralité fixe et/ou sans symptômes visu
 
 - Arrêt du tabac obligatoire  
 {{%class%}}Décuple le risque d'AVC{{%/class%}}
-- Éviter les facteurs déclenchants identifiés
+- Éviter les facteurs déclenchants identifiés  
+Habituels: facteur alimentaire, alcool, manque de sommeil/grasse matinée, stress, jeûne, chaleur, changements de climat.
 - Évolution du handicap migraineux (voir *Clinique*)
 - Nausées invalidantes ou vomissements: anti-émétiques recommandés
 
 ### Traitement de la crise
 
-Traitement à prendre le plus précocement possible (dans l'heure suivant l'installation de la céphalée).
+Traitement à avoir sur soi, à prendre le plus précocement possible (dans l'heure suivant l'installation de la céphalée).
 
-Aura migraineuse et traitement:
-
-- Aucun traitement n'a prouvé d'efficacité dans le traitement de l'aura
-- Prendre l'AINS d'emblée mais attendre le début de la céphalée pour prendre le triptan (si prescrit)
+Crise de migraine avec aura: prendre l'AINS d'emblée mais attendre le début de la céphalée pour prendre le triptan.
 
 #### Traitements disponibles
 
@@ -222,7 +244,7 @@ si triptan efficace dans moins de 2 crises : prise AINS + triptan en simultané.
 {{% /collapse %}}
 {{%collapse "Traitement de fond" %}}
 
-Indications: fréquence, intensité à l'origine d'un **handicap** familial/social/professionnel ou consommation de traitement de crise > 2 j/sem depuis ≥ 3 mois consécutifs.
+**Indications:** fréquence, intensité à l'origine d'un **handicap** familial/social/professionnel ou consommation de traitement de crise > 2 j/sem depuis ≥ 3 mois consécutifs.
 
 Traitement de fond à instaurer même si le traitement de crise est efficace (prévient la surconsommation d'antimigraineux).  
 Il ne supprime pas les crises mais réduit leur fréquence et leur intensité. **Agenda migraineux** afin d'évaluer son efficacité.
@@ -233,25 +255,23 @@ Autres thérapies avec efficacité prouvée: relaxation, rétro-contrôle (biofe
 
 ### Molécules de première intention
 
-{{%info%}}{{%/info%}}
+{{%info%}}TODO:{{%/info%}}
 
-- Propranolol 40-240 mg/j  
-EI: asthénie, mauvaise tolérance à l'effort; CI des BB.
-- ou Métoprolol 100-200 mg/j  
-EI: idem + CI des BB.
+- Bêtabloquant
+  - Propranolol 40-240 mg/j  
+  EI: asthénie, mauvaise tolérance à l'effort; CI des BB.
+  - ou Métoprolol 100-200 mg/j  
+  EI: idem + CI des BB.
+- Topiramate
+- Adresser au centre expert des céphalées après échec des 2 classes à doses optimales = **migraine résistante**
 
 - **Débuter:** en monothérapie, titration (tenir compte de la tolérance pour atteindre la posologie optimale)
-- Le traitement doit être poursuivi ≥ 3 mois avant de conclure à une inefficacité
+- Le **traitement doit être poursuivi ≥ 3 mois** avant de conclure à une inefficacité
 - Évaluation de l'efficacité: suffisante si réduit le **nombre de crises de ≥ 50%**
   - Efficace: poursuivre le traitement 6 mois à 1 an, puis décroissance progressive
   - Efficacité insuffisante: augmentation de posologie si bien toléré
   - Mauvaise tolérance: essayer une autre molécule de 1<sup>re</sup> intention pendant ≥ 3 mois ou avis neurologique
 
-Autres traitements efficaces sur avis neurologique: amitriptyline, acide valproïque et divalproate de sodium (hors AMM), topiramate, érénumab (Aimovig).  
-Traitements de fond en 2e intention: pizotifène, flunarizine, valproate de sodium, gabapentine ou indoramine.
-
-Aucune molécule n'a démontré de supériorité.  
-Des associations de molécules sont possibles après avoir affirmé leur efficacité séparément.  
 En cas d'échecs répétés: évaluer l'observance, rechercher un abus médicamenteux.
 
 ### Arrêt d'un traitement de fond
@@ -260,9 +280,31 @@ Après 6-12 mois de traitement, il est possible de tenter d’arrêter le traite
 
 Le même traitement peut être repris si les migraines récidivent.
 
-### Autres traitements d'efficacité probable
+### Autres traitements
 
-Uniquement sur avis neurologique: amitriptyline, aténolol, candesartan, flunarizine, méthysergide, nadolol, naproxène sodique, nebivolol, timolol, venlafaxine, oxétorone.
+- Efficacité prouvée  
+amitriptyline, aténolol, candesartan, flunarizine, méthysergide, nadolol, naproxène sodique, nebivolol, timolol, venlafaxine, oxétorone.
+- 2e intention  
+pizotifène, flunarizine, valproate de sodium, gabapentine ou indoramine.
+
+Uniquement sur avis neurologique.
+
+{{% /collapse %}}
+{{%collapse "Critères de contrôle d'une migraine" %}}
+
+- Traitement de la crise pris dans l'heure est efficace sur tous les critères:
+    1. Soulagement significatif de la céphalée à H2
+    2. Nécessité d'une seule administration d'antimigraineux pour ce soulagement
+    3. Traitement efficace ≥ 2 fois/3
+- En cas de traitement de fond, ≥ 1 critère rempli:
+  - Réduit les crises de migraine épisodique de 50%
+  - Réduit les crises de migraine chronique de 30%
+- Tous les traitements remplissent tous les critères:
+    1. Utilisés en respectant les contre-indications
+    2. Traitement utilisé de façon optimale (dose, moment, voie d'administration) pendant ≥ 3 mois consécutifs
+    3. Traitement bien toléré
+
+> *Donnet A. 2021*
 
 {{% /collapse %}}
 {{%collapse "Migraine cataméniale, grossesse, contraception ou THM" %}}
@@ -326,6 +368,8 @@ Toute utilisation de traitement de fond doit être rapportée à la pharmacovigi
 {{% /collapse %}}
 {{%sources%}}
 
+- [Donnet A. et al. Severe migraine and its control: A proposal for definitions and consequences for care. Revue neurologique (2021).](https://doi.org/10.1016/j.neurol.2020.11.012)
+- [Demarquay G. et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 1: Diagnosis and assessment. Revue Neurologique. Vol 177, Iss 7. 2021.](https://doi.org/10.1016/j.neurol.2021.07.001)
 - [Lanteri-Minet M. et al. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant. Revue Neurologique. Volume 169. Issue 1. 2013. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20sur%20la%20prise%20en%20charge%20diagnostique%20et%20th%C3%A9rapeutique%20de%20la%20migraine%20chez%20l%2527adulte%20et%20chez%20l%2527enfant%20(1).pdf)
 - [Anaes. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant : aspects cliniques et économiques. Recommandations de bonne pratique. Octobre 2002.](https://www.has-sante.fr/jcms/c_272212/fr/prise-en-charge-diagnostique-et-therapeutique-de-la-migraine-chez-l-adulte-et-chez-l-enfant-aspects-cliniques-et-economiques)
 
@@ -333,5 +377,10 @@ Toute utilisation de traitement de fond doit être rapportée à la pharmacovigi
 {{% modal title="Score HAD" id="modal-had"%}}
 
 {{< scores/had >}}
+
+{{% /modal %}}
+{{% modal title="Score HIT-6" id="modal-hit6"%}}
+
+{{< scores/hit6 >}}
 
 {{% /modal %}}
