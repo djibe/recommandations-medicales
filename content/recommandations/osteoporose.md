@@ -19,7 +19,7 @@ slider = true
 image = true
 imageWEBP = true
 imageSrc = "Illustration de l'ostéoporose par scientificanimations.com, CC BY-SA 4.0"
-todo = "https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, BDPM, pré-th alendronate, HAS 2005 chutes, prescription renforcement musculaire, dose THM prev osseuse"
+todo = "lire recos, https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, BDPM, pré-th alendronate, HAS 2005 chutes, prescription renforcement musculaire, dose THM prev osseuse"
 +++
 
 *Relecture en cours par des membres du GRIO*
@@ -71,6 +71,7 @@ FRAX®
 
 ### Abréviations
 
+**BP:** biphosphonate  
 **DMO:** densité minérale osseuse  
 **DS:** déviation standard  
 **DXA:** ostéodensitométrie par absorptiométrie biphotonique à rayons X  
@@ -314,9 +315,9 @@ Tout au long de la vie: activité physique, apports vitamino-calciques.
   - Dose d'entretien: 800-1200 UI/j (ou 80-100.000 UI/2-3 mois)
   - Voir *[Vitamine D]({{< relref "vitamine-d.md" >}})* pour les protocoles de correction
 - Calcium
-  - Femme ménopausée ≥ 50 ans: cible 1,2 g/j ({{< modal-btn modal-calcium-cible >}}Apports calciques cibles{{< /modal-btn >}})
+  - Femme ménopausée ≥ 50 ans: cible 1-1,2 g/j ({{< modal-btn modal-calcium-cible >}}Apports calciques cibles{{< /modal-btn >}})
   - Associations calcium/vitamine D  
-  {{%class "text-black-secondary"%}} Cacit, Calcidose, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Eptavit, Fixical, Ideos, Metocalcium, Natecal, Orocal, Osseans, Structocal.{{%/class%}}
+  {{%class "text-black-secondary"%}}Cacit, Calcidose, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Eptavit, Fixical, Ideos, Metocalcium, Natecal, Orocal, Osseans, Structocal.{{%/class%}}
   - {{< modal-btn modal-calcium >}}Aliments riches en calcium{{< /modal-btn >}}
   - Évaluation des apports par [questionnaire du GRIO](http://www.grio.org/espace-gp/calcul-apport-calcique-quotidien.php)
   - Apports lactés quotidiens jusqu'à 3 ans
@@ -373,7 +374,7 @@ Critères de choix du traitement: espérance de vie suffisante, antécédent de 
 - Risédronate  
 {{%class "x"%}}35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois{{%/class%}}
 - Zolédronate  
-{{%class "x"%}}5 mg IV annuel{{%/class%}}
+{{%class "x"%}}5 mg IV annuel avec ostéodensitométrie 1 an après la 3<sup>e</sup> perfusion{{%/class%}}
 - Raloxifène  
 {{%class "x"%}}60 mg/j (max 70 ans){{%/class%}}
 - Tériparatide  
@@ -432,14 +433,15 @@ window.addEventListener('load', function() {
   - Le matin à jeun à ≥ 6 mois d'une fracture
   - Doit être dans ou sous les valeurs normales des femmes non ménopausées. Sinon avis spécialisé.
 - Biphosphonates (BP)  
-  - Informer du risque très faible d'*ostéonécrose de la mâchoire*, de *fracture atypique fémorale* et d'uvéite
+  - Informer du risque très faible d'*ostéonécrose de la mâchoire* (soins dentaires ++), de *fracture atypique fémorale* et d'uvéite
   - Ne contre-indiquent pas des implants dentaires
-  - Biphosphonates voie orale : ≥ 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)
+  - Biphosphonates voie orale: ≥ 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)
+  - Biphosphonate IV: perfusion à domicile annuelle sur 15-30 minutes
 - Dénosumab
   - Prescription restreinte au rhumatologue
   - Utilisé seulement en relais des BP car permet un gain conséquent de DMO (*HAS 2019*)
   - Informer du risque très faible d'*ostéonécrose de la mâchoire*, de *fracture atypique fémorale* et d'uvéite
-  - Rebond de perte osseuse à l'arrêt, poursuivre par BP 6-12 mois
+  - Rebond de perte osseuse à l'arrêt, relais par BP 6-12 mois
 - Raloxifène  
 Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture périphérique peu élevé en l'absence de: T-score ≤ -3 et {{< modal-btn modal-risque-chute >}}risque de chute élevé{{< /modal-btn >}}.
 - THM  
@@ -550,7 +552,7 @@ graph TB
 ### À lire
 
 - [Bouvard P et al; GRIO. Recommandations françaises de la prise en charge et du traitement de l'ostéoporose masculine. Revue du Rhumatisme. Volume 88. Issue 3. 2021. Pages 173-182. (PDF)](http://www.grio.org/documents/page246/reco-op-masculine.pdf)
-- [Kanis, J. et al. Executive summary of the European guidance for the diagnosis and management of osteoporosis in postmenopausal women. Calcif Tissue Int 104, 235–238. 2019.](https://link.springer.com/article/10.1007/s00223-018-00512-x)
+- [Kanis J. et al. Executive summary of the European guidance for the diagnosis and management of osteoporosis in postmenopausal women. Calcif Tissue Int 104, 235–238. 2019.](https://link.springer.com/article/10.1007/s00223-018-00512-x)
 - [Kanis J. et al. Algorithm for the management of patients at low, high and very high risk of osteoporotic fractures. Osteoporos Int, 2019. 31(1): p.1-12.](https://link.springer.com/article/10.1007/s00198-019-05176-3)
 - [Kanis J et al; on behalf of the Scientific Advisory Board of the European Society for Clinical and Economic Aspects of Osteoporosis (ESCEO) and the Committees of Scientific Advisors and National Societies of the International Osteoporosis Foundation (IOF). European guidance for the diagnosis & management of osteoporosis in postmenopausal women. Osteoporos Int, 2018. 30(1): p.3-44.](https://link.springer.com/article/10.1007%2Fs00198-018-4704-5)
 
