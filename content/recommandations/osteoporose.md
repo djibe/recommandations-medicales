@@ -4,9 +4,10 @@ prefix = "l'"
 titleSeo = "Ostéoporose"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Pr B. CORTET et Dr T. FUNCK-BRENTANO (SFR, GRIO)"
 date = 2020-09-04T17:43:41+02:00
 publishdate = 2021-12-06
-lastmod = 2022-02-08
+lastmod = 2022-02-09
 specialites = ["rhumatologie"]
 annees = "2019"
 sources = ["SFRhumato", "GRIO", "IOF", "HAS"]
@@ -18,11 +19,9 @@ flowchart = true
 slider = true
 image = true
 imageWEBP = true
-imageSrc = "Illustration de l'ostéoporose par scientificanimations.com, CC BY-SA 4.0"
-todo = "lire recos, https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, BDPM, pré-th alendronate, HAS 2005 chutes, prescription renforcement musculaire, dose THM prev osseuse"
+imageSrc = "Illustration de l'ostéoporose par BruceBlaus, CC BY-SA 4.0 via Wikimedia Commons"
+todo = "lire recos, https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, HAS 2005 chutes, prescription renforcement musculaire, dose THM prev osseuse"
 +++
-
-*Relecture en cours par des membres du GRIO*
 
 {{%article-summary%}}
 

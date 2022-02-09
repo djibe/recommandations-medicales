@@ -14,7 +14,7 @@ tags = ["anticoagulant", "demence", "depistage", "dyspnee", "fatigue", "HTA", "S
 anglais = ["Atrial fibrillation"]
 sctid = "49436004"
 draft = true
-todo = "ESC 2020: Table 4 | chap 11.5 saignement, Prescrire, Collège, Source 2013 bonne pour EGS, prev IRC Marijon"
+todo = "ESC 2020: chap 11.5 saignement, Prescrire, Source 2013 bonne pour EGS, prev IRC Marijon"
 +++
 
 {{%article-summary%}}
@@ -22,7 +22,7 @@ todo = "ESC 2020: Table 4 | chap 11.5 saignement, Prescrire, Collège, Source 20
 - FA mal tolérée = appel du {{< phone >}}15{{< /phone >}}
 - Dépister: ≥ 65 ans, diabète, HTA
 - Le diagnostic est ECG
-- {{< modal-btn modal-chads >}}Anticoagulation{{< /modal-btn >}}, risque hémorragique HAS-BLED (voir *Risque embolique*), symptômes, facteurs favorisants
+- {{< modal-btn modal-chads >}}Anticoagulation{{< /modal-btn >}}, {{< modal-btn modal-hasbled >}}risque hémorragique HAS-BLED{{< /modal-btn >}}, symptômes, facteurs favorisants
 - Suivi cardiologique, ralentir < 110/min, Holter-ECG
 
 {{%/article-summary%}}
@@ -30,29 +30,25 @@ todo = "ESC 2020: Table 4 | chap 11.5 saignement, Prescrire, Collège, Source 20
 
 Fibrillation atriale (FA)
 : *ex fibrillation auriculaire*
-: Tachyarythmie supraventriculaire caractérisée par une activation atriale anarchique désorganisant la fonction mécanique des atriums. Le flux sanguin est limité avec constitution de thrombus pouvant être libérés sous forme d'emboles artériels. Toutes les cardiopathies peuvent se compliquer de fibrillation atriale.  
-Le risque thrombo-embolique est identique pour toutes les formes cliniques de FA (paroxystique, persistante, permanente).
-: Le diagnostic est électrocardiographique: intervalles R-R irréguliers, absence d'ondes P et trémulation de la ligne de base sur ECG 12D ou simple dérivation pendant ≥ 30s
-: Gravité par son risque thrombo-embolique (TE, AVC x 5) et le risque d'insuffisance cardiaque.
+: Tachyarythmie supraventriculaire irrégulière caractérisée par une activation atriale anarchique (400-600/min) désorganisant la fonction mécanique des atriums. Le flux sanguin est limité avec constitution de thrombus pouvant être libérés sous forme d'emboles artériels. Toutes les cardiopathies peuvent se compliquer de fibrillation atriale.  
+Le nœud atrio-ventriculaire filtre la conduction à 130-180/min sans accélération à l'effort.
+: Le diagnostic est électrocardiographique: intervalles R-R irréguliers, absence d'ondes P et trémulation de la ligne de base sur ECG 12D ou simple dérivation pendant ≥ 30s.
+: Gravité par son **risque thrombo-embolique** (TE, AVC x 5) qui est identique pour toutes les formes cliniques de FA (paroxystique, persistante, permanente) et le risque d'**[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})**.
 
 FA clinique
-: Fibrillation atriale symptomatique ou non, documentée par ECG.
-: Dite *inaugurale* en l'absence d'antécédent.
+: Fibrillation atriale symptomatique ou non, documentée par ECG. Enquête: isolée ou sur cardiopathie ?
+
+FA premier épisode
+: La FA n'est pas encore classable.
 
 FA paroxystique
-: Épisodes cédant spontanément en moins de 7 jours.
+: Épisodes cédant spontanément ou non en moins de 7 jours. Stratégie: ralentir et anti-arythmique.
 
 FA persistante
-: Épisode persistant plus de 7 jours sans résolution spontanée.
-: TODO: Devient permanente quand une cardioversion n'a pas été proposée ou a échoué.
+: Épisode persistant plus de 7 jours sans résolution spontanée. Stratégie: réduire (= cardioversion).
+: Dite **permanente** quand une cardioversion n'a pas été proposée ou a échoué. Stratégie: ralentir.
 
 > Définitions *ESC 2020*
-
-FA permanente
-: Tous les ECG sont en FA pendant au moins 1 an.
-
-FA de détection récente
-: Découverte de la FA sans aucun recul pour typer la durée de l'épisode.
 
 ### Abréviations
 
@@ -70,6 +66,7 @@ Inhibiteurs calciques non dihydropyridiniques: diltiazem ou vérapamil.
 - Prévalence: 600.000 à 1 million de patients, 2/3 ont +75 ans  
 Elle augmente avec l'âge et atteint 10-20% après 80 ans.
 - Incidence 2018: 226.000/an (*[*SPF 2020*](http://beh.santepubliquefrance.fr/beh/2021/5/2021_5_1.html)*)
+- Responsable d'1/6 des AVC emboliques
 - Coût: 3000€/patient/an
 - Coût global: 2,5 milliards € (50% liés aux hospitalisations)
 
@@ -131,10 +128,13 @@ Toute suspicion clinique de FA doit être confirmée au plus tôt par un ECG
 
 - Nom du cardiologue
 - Comorbidités  
-HTA, diabète, insuffisance cardiaque, coronaropathie, insuffisance rénale, obésité.
+HTA, diabète, insuffisance cardiaque, coronaropathie, valvulopathie, insuffisance rénale, obésité, maladie respiratoire.
+- Complications  
+AVC, insuffisance cardiaque.
+- {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} ± {{< scores/heartscore >}}
 - Épisode aigu récent  
-Chirurgie, infection.
-- Tabac, alcool
+Fièvre, infection, manque de sommeil, réaction vagale, chirurgie, réaction vagale, infarctus, péricardite.
+- Tabac, alcool, toxiques
 - Activité physique
 - Traitements en cours et {{< modal-btn modal-observance >}}observance{{< /modal-btn >}}  
 Pro-arythmiques: diurétiques, théophylline, salbutamol, triptan, AINS, bupropione, biphosphonate.
@@ -143,17 +143,16 @@ Pro-arythmiques: diurétiques, théophylline, salbutamol, triptan, AINS, bupropi
   - Facteurs déclenchants
   - Durée des épisodes, mode de début et fin
   - Symptômes: {{< modal-btn modal-ehra >}}score EHRA{{< /modal-btn >}}  
-  **Dyspnée, palpitations, fatigue**, douleur thoracique, intolérance à l'effort, malaises, vertiges, chutes, syncope, troubles du sommeil, anxiété.
-- {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} ± {{< scores/heartscore >}}
+  **Dyspnée, palpitations, fatigue**, angor/douleur thoracique, intolérance à l'effort, malaises, vertiges, chutes, syncope, troubles du sommeil, anxiété, bouffées de chaleur.
 - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}} (50%)
 
 ### Examen clinique
 
-- Pouls irrégulier
+- Fréquence cardiaque irrégulière
 {{%class%}}Manuel (se 87-97%, spe 70-81%) ou tensiomètre électronique (se 93-100%, spe 86-92%, *Mairesse 2017*){{%/class%}}
-- Pression artérielle, poids, taille, IMC
-- Pouls périphériques, œdèmes
-- Recherche d'infection aiguë
+- Pression artérielle, fréquence respiratoire, poids, taille, IMC
+- Auscultation, pouls périphériques, œdèmes
+- Recherche d'infection aiguë, insuffisance cardiaque, OAP
 
 ### Évaluation gériatrique standardisée
 
@@ -192,35 +191,32 @@ Envisager un ECG de dépistage systématique ≥ 75 ans (TODO: ou risque d'AVC �
 
 ### Autres
 
-- La radiographie thoracique n'est pas systématique
-- Enregistrement du sommeil si FA symptomatique
+- Automesure tensionnelle ou MAPA
+- Radiographie thoracique (non systématique selon l'ESC)
+- Polygraphie ventilatoire si FA symptomatique
 
 {{% /collapse %}}
 {{%collapse "Risque embolique CHA2DS2-VASc et de saignement" "show"%}}
 
 Réévaluer régulièrement les risques emboliques et de saignement.
 
-### Risque embolique: CHA<sub>2</sub>DS<sub>2</sub>-VASc
+### Risque embolique: score CHA<sub>2</sub>DS<sub>2</sub>-VASc
 
 {{< modal-btn modal-chads >}}Calculer le score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} quelque soit le type de FA.
 
-### Risque hémorragique: HAS-BLED
+### Risque hémorragique: score HAS-BLED
 
-Estimer ce risque si un traitement anticoagulant est indiqué.  
+Estimer {{< modal-btn modal-hasbled >}}le score HAS-BLED{{< /modal-btn >}} si un traitement anticoagulant est indiqué.  
 **Un risque élevé ne contre-indique pas les anticoagulants** mais doit faire insister sur l'information du patient et intensifier le suivi.
-
-<div class="border mb-3" style="max-width: 480px">
-{{< scores/has-bled >}}
-</div>
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-- Contrôle des facteurs de risque cardiovasculaire
+- Contrôle des facteurs de risque cardiovasculaire (HTA, diabète)
 - Limiter la consommation d'alcool
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement général et anticoagulants" %}}
 
 - Traitement à vie et {{< modal-btn modal-observance >}}observance{{< /modal-btn >}} +++
 - Facteurs favorisants
@@ -233,7 +229,7 @@ Estimer ce risque si un traitement anticoagulant est indiqué.
 - Anticoagulant ({{< modal-btn modal-chads >}}indication{{< /modal-btn >}}, molécules)  
 - Contre-indication aux antithrombotiques (aspirine, clopidogrel sauf post-SCA) et AINS.
 - FC cible < 110/min par BB
-- La cardioversion n'est pas abordée (cardiologue uniquement)
+- La cardioversion n'est pas abordée: cardiologue uniquement
 - Hypertension artérielle
   - Cible ≤ 130/80 mmHg
   - Préférer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, anti-aldostérone
@@ -242,9 +238,9 @@ Estimer ce risque si un traitement anticoagulant est indiqué.
 
 ### Anticoagulation
 
-AOD en 1<sup>re</sup> intention si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}} (même chez la personne âgée).  
+**AOD** en 1<sup>re</sup> intention si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}} (même chez la personne âgée).  
 AVK si valve mécanique ou sténose mitrale modérée à sévère.  
-Réévaluer fréquemment le risque de saignement avec HAS-BLED.
+Réévaluer fréquemment le risque de saignement avec {{< modal-btn modal-hasbled >}}HAS-BLED{{< /modal-btn >}}.
 
 #### Contre-indications à l'anticoagulation
 
@@ -255,17 +251,20 @@ Réévaluer fréquemment le risque de saignement avec HAS-BLED.
 
 {{%warning%}}Un traitement anticoagulant contre-indique les antithrombotiques (aspirine, clopidogrel sauf post-SCA) et AINS{{%/warning%}}
 
-Adaptation à la fonction rénale selon Cockroft.
+Adaptation à la fonction rénale selon {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}}.
 
 #### AVK
 
-Indications: systématique si FA (quelque soit le type) valvulaire (valve mécanique ou sténose mitrale modérée à sévère).
+Indications: systématique si FA (quelque soit le type) avec valve mécanique ou sténose mitrale modérée à sévère.
 
 INR cible selon la prothèse ou entre 2 et 3.
 AVK avec temps dans la cible ≥ 70%  
 Si temps dans la cible non atteint: AOD et observance ++ ou éducation et renforcement des INR.
 
 Aspirine 75-300 mg/j si refus d'anticoagulation (mais inefficace en prévention des AVC).
+
+{{% /collapse %}}
+{{%collapse "Contrôle du rythme et anti-arythmiques" %}}
 
 ### Contrôle du rythme cardiaque
 
@@ -286,7 +285,7 @@ Non recommandés si FA permanente avec FC < 110/min OU troubles de conduction.
 
 Listés ici pour la surveillance des contre-indications.
 
-TODO: Table 20 et p. 57. Amiodarone, flécaïne, propafénone, dronedarone (Prescrire: à écarter), sotalol.
+TODO: Table 20 et p. 57. Amiodarone, flécaïne, propafénone, sotalol.
 
 {{% /collapse %}}
 {{%collapse "Suivi" %}}
@@ -295,7 +294,7 @@ TODO: Table 20 et p. 57. Amiodarone, flécaïne, propafénone, dronedarone (Pres
 Alcool, tabac, HTA, apnées du sommeil, diabète, activité physique, surpoids.
 - Symptômes et {{< modal-btn modal-ehra >}}impact sur les activités{{< /modal-btn >}}  
 Type, durée quotidienne.
-- {{< modal-btn modal-chads >}}Réévaluation HA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et HAS-BLED
+- {{< modal-btn modal-chads >}}Réévaluation HA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}HAS-BLED{{< /modal-btn >}}
 - FC < 110/min
 - {{< modal-btn modal-observance >}}Observance{{< /modal-btn >}}
 - Complications: AVC/AIT, saignements
@@ -309,7 +308,7 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 
 - Diagnostic
   - Définition et mécanisme
-  - Conséquences sur le risque TE
+  - Pas de risque de mort subite mais risque TE prévenu par l'anticoagulation
 - Facteurs favorisants et leur correction
 - Symptômes, savoir les reconnaître et les signaler
 - Complications
@@ -333,14 +332,13 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 
 - [Hindricks G. et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Hear Jour. Vol 42. Issue 5. 1 Feb 2021. Pages 373–498.](https://doi.org/10.1093/eurheartj/ehaa612)
 - Prescrire Redaction. Fibrillation auriculaire. Premiers Choix Prescrire. Février 2021.
+- [Collège National des Enseignants de Cardiologie. Fibrillation atriale. Item 230 - UE8. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch14_fibrillation_atriale.pdf)
 - [HAS. Fibrillation auriculaire. Actes et prestations Affection de longue durée. Juillet 2015.](https://www.has-sante.fr/jcms/c_568395/fr/ald-n-5-fibrillation-auriculaire)
 - [HAS. Fibrillation atriale. Guide parcours de soins. Février 2014.](https://www.has-sante.fr/jcms/c_1741768/fr/guide-parcours-de-soins-fibrillation-atriale)
 - [Société Française de Gériatrie et Gérontologie et Société Française de Cardiologie. Prise en charge de la fibrillation atriale du sujet âgé. La Revue de Gériatrie. Tome 38. n°7. Septembre 2013. (PDF)](http://www.omedit-idf.fr/wp-content/uploads/2015/02/CV-antico-recoFASFGGSFC2013.pdf)
 
 ### À lire
 
-- [Collège National des Enseignants de Cardiologie. Fibrillation atriale. Item 230 - UE8. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch14_fibrillation_atriale.pdf)
-- <https://e-cordiam.fr/>
 - ETP: 273, MobiGuide 279, 281
 
 {{%/sources%}}
@@ -369,6 +367,11 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{< scores/cha2ds2vasc >}}
 
 {{% /modal %}}
+{{% modal title="Risque hémorragique HAS-BLED" id="modal-hasbled"%}}
+
+{{< scores/has-bled >}}
+
+{{% /modal %}}
 {{% modal title="IEC dans l'hypertension" id="modal-iec" %}}
 
 {{< traitements/iec >}}
@@ -379,8 +382,18 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{< traitements/ara2 >}}
 
 {{% /modal %}}
+{{% modal title="Anticoagulants oraux directs dans la FA" id="modal-aod" size="lg" %}}
+
+{{< traitements/aod-fa >}}
+
+{{% /modal %}}
 {{% modal title="Observance des traitements" id="modal-observance"%}}
 
 {{< scores/observance >}}
+
+{{% /modal %}}
+{{% modal title="Clairance selon Cockroft" id="modal-score-cockroft"%}}
+
+{{< scores/cockroft >}}
 
 {{% /modal %}}

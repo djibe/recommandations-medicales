@@ -4129,7 +4129,7 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   .my-md-4 {
     margin-top: 1.5rem !important;
   }
-
+  
   .my-md-4 {
     margin-bottom: 1.5rem !important;
   }
@@ -4137,7 +4137,7 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   .my-md-5 {
     margin-top: 3rem !important;
   }
-
+  
   .my-md-5 {
     margin-bottom: 3rem !important;
   }
@@ -4150,7 +4150,7 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   .mb-lg-3 {
     margin-bottom: 1rem !important;
   }
-
+  
   .my-lg-4 {
     margin-top: 1.5rem !important;
   }
@@ -4169,7 +4169,7 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 }
 
 @media (min-width: 1200px) {
-
+  
   .my-xl-5 {
     margin-top: 3rem !important;
   }
