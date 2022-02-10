@@ -1,6 +1,7 @@
 +++
 title = "Affections de longue durée"
 prefix = "les "
+noindex = true
 titleSeo = "Affections de longue durée"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

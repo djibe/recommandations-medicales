@@ -5,15 +5,16 @@ shortname = "FA"
 synonyms = ["Arythmie complète par fibrillation auriculaire ou ACFA"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-05T17:43:41+02:00
-publishdate = 2021-12-10
-lastmod = 2021-12-10
+publishdate = 2022-02-10
+lastmod = 2022-02-10
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["ESC", "HAS"]
 tags = ["anticoagulant", "demence", "depistage", "dyspnee", "fatigue", "HTA", "SAS", "TSH"]
 anglais = ["Atrial fibrillation"]
 sctid = "49436004"
-draft = true
+image = true
+imageSrc = "Fibrillation atriale sur 2 dérivations, PeaBrainC, CC BY-SA 4.0 via Wikimedia Commons"
 todo = "ESC 2020: chap 11.5 saignement, Prescrire, Source 2013 bonne pour EGS, prev IRC Marijon"
 +++
 
@@ -21,9 +22,12 @@ todo = "ESC 2020: chap 11.5 saignement, Prescrire, Source 2013 bonne pour EGS, p
 
 - FA mal tolérée = appel du {{< phone >}}15{{< /phone >}}
 - Dépister: ≥ 65 ans, diabète, HTA
-- Le diagnostic est ECG
-- {{< modal-btn modal-chads >}}Anticoagulation{{< /modal-btn >}}, {{< modal-btn modal-hasbled >}}risque hémorragique HAS-BLED{{< /modal-btn >}}, symptômes, facteurs favorisants
-- Suivi cardiologique, ralentir < 110/min, Holter-ECG
+- Le diagnostic est ECG. Survenue isolée ou sur cardiopathie ?
+- Réévaluer régulièrement les {{< modal-btn modal-chads >}}risques embolique CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}hémorragique HAS-BLED{{< /modal-btn >}}, symptômes, facteurs favorisants
+- Selon {{< modal-btn modal-chads >}}risque embolique{{< /modal-btn >}}: {{< modal-btn modal-aod >}}AOD{{< /modal-btn >}} ou absence d'anticoagulant...
+- voire [AVK]({{< relref "avk.md" >}}) si valve mécanique ou sténose mitrale modérée à sévère
+- Suivi cardiologique, {{< modal-btn modal-bradycardisant >}}ralentir < 110/min{{< /modal-btn >}}, Holter-ECG
+- Parfois anti-arythmiques pour prévenir la récidive. Contrôler leurs contre-indications
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -54,6 +58,7 @@ FA persistante
 
 **AOD:** anticoagulant oral direct (ex *NACO*)  
 **AVK:** anticoagulant antivitamine K  
+**BB:** bêtabloquants  
 **EHRA:** {{%lang%}}European Heart Rhythm Association{{%/lang%}}  
 **FA:** fibrillation atriale  
 **HTA:** hypertension artérielle  
@@ -148,7 +153,7 @@ Pro-arythmiques: diurétiques, théophylline, salbutamol, triptan, AINS, bupropi
 
 ### Examen clinique
 
-- Fréquence cardiaque irrégulière
+- Fréquence cardiaque irrégulière  
 {{%class%}}Manuel (se 87-97%, spe 70-81%) ou tensiomètre électronique (se 93-100%, spe 86-92%, *Mairesse 2017*){{%/class%}}
 - Pression artérielle, fréquence respiratoire, poids, taille, IMC
 - Auscultation, pouls périphériques, œdèmes
@@ -175,7 +180,7 @@ Adresser au cardiologue pour évaluation spécialisée avec **échocardiographie
 Systématique pour confirmer le diagnostic: intervalles R-R irréguliers, absence d'ondes P et trémulation de la ligne de base. Il recherche des troubles associés (conduction, ischémie).  
 Diagnostic possible sur simple dérivation pendant ≥ 30s.
 
-Envisager un ECG de dépistage systématique ≥ 75 ans (TODO: ou risque d'AVC élevé 212, 224, 227).
+Envisager un ECG de dépistage systématique ≥ 75 ans (ou avec dispositif connecté ≥ 65 ans *Lowres 2014 et 2015*).
 {{%/info%}}
 
 ### Biologie
@@ -196,27 +201,24 @@ Envisager un ECG de dépistage systématique ≥ 75 ans (TODO: ou risque d'AVC �
 - Polygraphie ventilatoire si FA symptomatique
 
 {{% /collapse %}}
-{{%collapse "Risque embolique CHA2DS2-VASc et de saignement" "show"%}}
+{{%collapse "Risque embolique CHA2DS2-VASc et de saignement" %}}
 
 Réévaluer régulièrement les risques emboliques et de saignement.
 
 ### Risque embolique: score CHA<sub>2</sub>DS<sub>2</sub>-VASc
 
-{{< modal-btn modal-chads >}}Calculer le score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} quelque soit le type de FA.
+{{< modal-btn modal-chads >}}Calculer le score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} quelque soit le type de FA (sauf valve mécanique ou sténose mitrale modérée à sévère où un AVK est systématique).
 
 ### Risque hémorragique: score HAS-BLED
 
-Estimer {{< modal-btn modal-hasbled >}}le score HAS-BLED{{< /modal-btn >}} si un traitement anticoagulant est indiqué.  
-**Un risque élevé ne contre-indique pas les anticoagulants** mais doit faire insister sur l'information du patient et intensifier le suivi.
+Estimer le risque hémorragique avec le {{< modal-btn modal-hasbled >}}score HAS-BLED{{< /modal-btn >}} si un traitement anticoagulant est indiqué.
 
-{{% /collapse %}}
-{{%collapse "Prévention" %}}
-
-- Contrôle des facteurs de risque cardiovasculaire (HTA, diabète)
-- Limiter la consommation d'alcool
+**Un risque hémorragique élevé ne contre-indique pas les anticoagulants** mais doit faire insister sur l'information du patient et intensifier le suivi.
 
 {{% /collapse %}}
 {{%collapse "Traitement général et anticoagulants" %}}
+
+**Prévention:** contrôle des facteurs de risque cardiovasculaire (tabac, HTA, diabète) et limiter la consommation d'alcool.
 
 - Traitement à vie et {{< modal-btn modal-observance >}}observance{{< /modal-btn >}} +++
 - Facteurs favorisants
@@ -226,20 +228,22 @@ Estimer {{< modal-btn modal-hasbled >}}le score HAS-BLED{{< /modal-btn >}} si un
   - Correction d'un surpoids
   - Activité physique d'intensité modérée  
   Éviter endurance prolongée (marathon).
-- Anticoagulant ({{< modal-btn modal-chads >}}indication{{< /modal-btn >}}, molécules)  
-- Contre-indication aux antithrombotiques (aspirine, clopidogrel sauf post-SCA) et AINS.
-- FC cible < 110/min par BB
+- Anticoagulant ({{< modal-btn modal-chads >}}indication{{< /modal-btn >}}, {{< modal-btn modal-aod >}}molécules{{< /modal-btn >}})  
+Contre-indication aux antithrombotiques (aspirine, clopidogrel sauf post-SCA) et AINS.
+- FC cible < 110/min par {{< modal-btn modal-bradycardisant >}}BB{{< /modal-btn >}}  
+  Voire < 80 si symptomatique.
 - La cardioversion n'est pas abordée: cardiologue uniquement
 - Hypertension artérielle
   - Cible ≤ 130/80 mmHg
   - Préférer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, anti-aldostérone
 - Éducation thérapeutique du patient et son entourage (min /6 mois)
-- ALD n°5
+- [ALD n°5]({{< relref "affection-longue-duree.md" >}})
 
 ### Anticoagulation
 
-**AOD** en 1<sup>re</sup> intention si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}} (même chez la personne âgée).  
-AVK si valve mécanique ou sténose mitrale modérée à sévère.  
+{{< modal-btn modal-aod >}}**AOD** en 1<sup>re</sup> intention (liste){{< /modal-btn >}} si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}} (même chez la personne âgée).  
+[AVK]({{< relref "avk.md" >}}) si valve mécanique ou sténose mitrale modérée à sévère.
+
 Réévaluer fréquemment le risque de saignement avec {{< modal-btn modal-hasbled >}}HAS-BLED{{< /modal-btn >}}.
 
 #### Contre-indications à l'anticoagulation
@@ -257,11 +261,13 @@ Adaptation à la fonction rénale selon {{< modal-btn modal-score-cockroft >}}Co
 
 Indications: systématique si FA (quelque soit le type) avec valve mécanique ou sténose mitrale modérée à sévère.
 
+[Fiche dédiée]({{< relref "avk.md" >}})
+
 INR cible selon la prothèse ou entre 2 et 3.
 AVK avec temps dans la cible ≥ 70%  
 Si temps dans la cible non atteint: AOD et observance ++ ou éducation et renforcement des INR.
 
-Aspirine 75-300 mg/j si refus d'anticoagulation (mais inefficace en prévention des AVC).
+{{%info%}}Aspirine 75-300 mg/j si refus d'anticoagulation, mais inefficace en prévention des AVC{{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Contrôle du rythme et anti-arythmiques" %}}
@@ -269,29 +275,41 @@ Aspirine 75-300 mg/j si refus d'anticoagulation (mais inefficace en prévention 
 ### Contrôle du rythme cardiaque
 
 - Cible < 110/min  
-  - < 80/min si réduction de la fonction VG ou resynchronisation
-  - Évaluation de la FC sur ECG 12D
+  - < 80/min si symptômes persistants, réduction de la fonction VG ou resynchronisation
+  - Évaluation de la fréquence cardiaque par ECG 12D
   - Contrôle avec Holter-ECG
 - Molécules
-  - TODO: Table 13. Bêtabloquants en 1re intention (méto, propra), digoxine, inhibiteurs calciques non dihydropyridine (ICND, ) ou association
-  - TODO: Figure 14
-  - FEVG ≥ 40%: **BB**, vérapamil (assoc véra-dabigatran), diltiazem (voire digoxine)
-  - FEVG < 40%: BB, digoxine
+  - {{< modal-btn modal-bradycardisant >}}Bêtabloquants (BB) en 1<sup>re</sup> intention, inhibiteurs calciques non dihydropyridiniques (ICND), digoxine ou association{{< /modal-btn >}}. Ci-dessous: 1<sup>re</sup> ligne > 2<sup>e</sup> ligne.
+  - FEVG ≥ 40%: {{< modal-btn modal-bradycardisant >}}**BB** ou ICND{{< /modal-btn >}} > digoxine et/ou BB et/ou ICND
+  - FEVG < 40%: {{< modal-btn modal-bradycardisant >}}BB{{< /modal-btn >}} > BB et/ou digoxine et/ou amiodarone
+  - Asthme sévère (BB cardiosélectif mal toléré): {{< modal-btn modal-bradycardisant >}}ICND{{< /modal-btn >}} > ICND et/ou digoxine
 
 ### Antiarythmiques
 
-Antiarythmiques si symptômes pour le maintien à long terme du rythme sinusal.
-Non recommandés si FA permanente avec FC < 110/min OU troubles de conduction.
+{{%warning%}}Arrêt des antiarythmiques en FA permanente car échec manifeste OU troubles de conduction{{%/warning%}}
 
+Antiarythmiques si symptômes pour le maintien à long terme du rythme sinusal.  
 Listés ici pour la surveillance des contre-indications.
 
-TODO: Table 20 et p. 57. Amiodarone, flécaïne, propafénone, sotalol.
+L'amiodarone est le traitement le plus efficace.  
+ECG de contrôle de 1-2 semaines (1 mois pour l'amiodarone)
+
+{{< table title="Anti-arythmiques de la fibrillation atriale d'après ESC 2020" class="table-wrap" >}}
+| Molécule       |     Dose (mg) | Précautions                                                                                                                                          |
+|----------------|--------------:|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Amiodarone     |           200 | Attention si allong. QT, AVK, digoxine, surv foie-poumon-TSH.<br>CI QT > 500 ms, hyperthyroïdie                                                         |
+| Flécaïne LP    |           200 | CI: DFG < 35 ou insuff. hépatique, coronaropathie, réduction FEVG, BAV complet, BBG, élarg. QRS > 25%. Interactions CYP2D6.                          |
+| Propafénone LP | 225-425 x 2/j | CI: insuffisance rénale/hépatique, coronaropathie, FEVG réduite, asthme, élarg. QRS > 25%, BBG, BB complet. Interactions warfarine, digoxine.        |
+| Sotalol        |  80-160 x 2/j | Avec grande précaution (torsades pointes). CI: ICFEd, dyfonction VG, allong. QT, asthme, hypokaliémie, clairance < 30, QT > 500 ms ou allong. > 60ms |
+{{< /table >}}
+
+> **BB** = bloc de branche ; **CI** = contre-indications. Administration en 1 fois par jour sauf mention contraire.
 
 {{% /collapse %}}
 {{%collapse "Suivi" %}}
 
 - Contrôle des facteurs favorisants  
-Alcool, tabac, HTA, apnées du sommeil, diabète, activité physique, surpoids.
+Alcool, tabac, hypertension artérielle, apnées du sommeil, diabète, activité physique, surpoids.
 - Symptômes et {{< modal-btn modal-ehra >}}impact sur les activités{{< /modal-btn >}}  
 Type, durée quotidienne.
 - {{< modal-btn modal-chads >}}Réévaluation HA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}HAS-BLED{{< /modal-btn >}}
@@ -299,7 +317,7 @@ Type, durée quotidienne.
 - {{< modal-btn modal-observance >}}Observance{{< /modal-btn >}}
 - Complications: AVC/AIT, saignements
 - NFS, créatininémie, bilan hépatique (AOD)
-- Cardiologique, ECG
+- Cardiologique, ECG, Holter
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
@@ -385,6 +403,11 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{% modal title="Anticoagulants oraux directs dans la FA" id="modal-aod" size="lg" %}}
 
 {{< traitements/aod-fa >}}
+
+{{% /modal %}}
+{{% modal title="Ralentir la FA" id="modal-bradycardisant" size="lg" %}}
+
+{{< traitements/bradycardisant-fa >}}
 
 {{% /modal %}}
 {{% modal title="Observance des traitements" id="modal-observance"%}}
