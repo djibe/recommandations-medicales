@@ -1,3 +1,4 @@
+<div id="score-mtoq">
 <p lang="en">Migraine Treatment Optimization Questionnaire (M-TOQ-5 in primary care).<br>
 Traduction non officielle par Dr JB Fron.</p>
 <div class="custom-control custom-checkbox">
@@ -22,10 +23,11 @@ Traduction non officielle par Dr JB Fron.</p>
 </div>
 <div class="alert bg-light d-md-flex">
   <div class="d-flex flex-column align-items-center">
-    <p class="typography-overline score-output-title">Score STOP-BANG</p>
-    <output class="score-output" id="stopbangScore">0</output>
+    <p class="typography-overline score-output-title">Score M-TOQ-5</p>
+    <output class="score-output" id="mtoqScore">0</output>
   </div>
-  <p id="stopbangText" class="lead m-auto">Faible risque de SAOS</p>
+  <p id="mtoqText" class="lead m-auto">Faible risque de SAOS</p>
+</div>
 </div>
 <blockquote class="mt-4">
   <p lang="en">
@@ -33,44 +35,25 @@ Traduction non officielle par Dr JB Fron.</p>
   </p>
 </blockquote>
 {{ $script := `
-  // Score STOP-BANG by djibe
+  // Score M-TOQ by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
-    const scoreStopBang = document.getElementById('stopbangScore')
-    const textStopBang = document.getElementById('stopbangText')
-    const checkboxHomme = document.getElementById('stopbang7')
-    const checkboxObesite = document.getElementById('stopbang5')
-    const checkboxTourCou = document.getElementById('stopbang8')
-    const messageTourCou = document.getElementById('message-tour-cou');
-    [...document.querySelectorAll('#score-stop-bang input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => {
-      messageSexe()
-      stopBang()
+    const scoreMtoq = document.getElementById('mtoqScore')
+    const textMtoq = document.getElementById('mtoqText');
+    [...document.querySelectorAll('#score-mtoq input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => {
+      mtoq()
     }) })
-    const messageSexe = () => {
-      checkboxHomme.checked ? messageTourCou.innerHTML = 43 : messageTourCou.innerHTML = 41
-    }
-    const stopBang = () => {
+    const mtoq = () => {
       let score = 0
-      let majeur = 0
-      const elemsChecked = document.querySelectorAll('#score-stop-bang input[type=\"checkbox\"]:checked')
+      const elemsChecked = document.querySelectorAll('#score-mtoq input[type=\"checkbox\"]:checked')
       elemsChecked.forEach(elemChecked => {
-        if (elemChecked.classList.contains('stopbang-majeur')) {
-          majeur += 1
-        }
         score += parseInt(elemChecked.value, 10)
-        scoreStopBang.innerHTML = score
-        if (majeur >= 2 && checkboxHomme.checked
-        || majeur >= 2 && checkboxObesite.checked
-        || majeur >= 2 && checkboxTourCou.checked
-        || score >= 5 && score <= 8) {
-          textStopBang.innerHTML = '<strong>Risque élevé</strong> de SAOS'
-        } else if (score <= 2) {
-          textStopBang.innerHTML = '<strong>Faible risque</strong> de SAOS'
-        } else if (score >= 3 && score <= 4) {
-          textStopBang.innerHTML = '<strong>Risque moyen</strong> de SAOS'
-        }
+        scoreMtoq.innerHTML = score
       })
+      if (elemsChecked.length === 5) {
+        textMtoq.innerHTML = 'Poursuite du traitement'
+      }
       if (elemsChecked.length === 0) {
-        scoreStopBang.innerHTML = 0
+        // scoreMtoq.innerHTML = 0
       }
     }
   })` }}

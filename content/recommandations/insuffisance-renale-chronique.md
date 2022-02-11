@@ -189,7 +189,7 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
 
 {{%info%}}
 
-### Bilan initial au diagnostic de la maladie rénale chronique
+### Bilan au diagnostic de la maladie rénale chronique
 
 - Échographie rénale ± mesure du résidu post-mictionnel
 - ± Écho-doppler des artères rénales

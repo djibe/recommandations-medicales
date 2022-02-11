@@ -77,7 +77,7 @@ En premier recours, réunir les éléments indispensables à la compréhension d
 
 ### Examen clinique
 
-Examen clinique annuel en cas de DE avec :
+Examen clinique annuel en cas de dysfonction érectile avec:
 
 - Poids, taille, IMC, tour de taille
 - Uro-génital  
@@ -91,9 +91,9 @@ Centré sur ROT, RCP, sensibilité des pieds, anesthésie en selle et des membre
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan biologique systématique
-
 {{%info%}}
+
+### Bilan devant une dysfonction érectile
 
 - NFS
 - ionogramme, créatininémie et CKD-EPI

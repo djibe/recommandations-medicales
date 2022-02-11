@@ -146,6 +146,8 @@ La toux peut être multifactorielle.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+Bilans devant une toux chronique.
+
 ### Radiographie thoracique
 
 **La radiographie thoracique (RT) de face est systématique.**

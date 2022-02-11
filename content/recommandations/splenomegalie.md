@@ -101,6 +101,7 @@ En décubitus dorsal
 
 ### Échographie abdominale
 
+Bilan initial devant une splénomégalie.  
 Permet de ne pas confondre avec un gros rein gauche ou les autres organes de la région.  
 La rate normale ne dépasse pas 12 x 6 x 3 cm (l x L x h).
 

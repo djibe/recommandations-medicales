@@ -50,8 +50,7 @@ Prévalence en France: 2,5%.
 - Stabilisation 1/3
 - Hypothyroïdie 1/3
 
-{{% /collapse %}}
-{{%collapse "Facteurs prédictifs d'évolution vers une hypothyroïdie" %}}
+### Facteurs prédictifs d'évolution vers une hypothyroïdie
 
 - TSH initiale haute (≥ 10 mUI/L)
 - Anticorps anti-TPO positifs
@@ -65,7 +64,7 @@ Amiodarone, lithium, interféron.
 
 Clinique inconstante.
 
-Si TSH > 10: augmentation du risque cardio-vasculaire, de répercussions neuro-psychologiques et qualité de vie.
+Si TSH > 10: augmentation du risque cardiovasculaire, de répercussions neuro-psychologiques et qualité de vie.
 
 Perturbations du bilan lipidique.
 

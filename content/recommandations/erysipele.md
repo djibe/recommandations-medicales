@@ -87,14 +87,14 @@ Pasteurellose d'inoculation si notion de morsure de chien ou chat.
 - Eczéma
   - Prurit, placard érythémateux à bords émiettés
   - Eczéma de contact: ulcère chronique avec pansements et soins locaux itératifs
-  - Eczéma de de stase sur l'insuffisance veineuse chronique
+  - Eczéma de stase sur l'insuffisance veineuse chronique
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 Aucun examen complémentaire n'est indispensable.
 
-### Bilan biologique
+### Bilan devant un érésipèle
 
 Le bilan biologique est utile pour le retentissement:
 

@@ -89,7 +89,7 @@ Vertiges de quelques jours à quelques semaines avec surdité.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan biologique
+### Bilan devant une suspicion de maladie de Menière
 
 - TSH
 - Glycémie à jeun

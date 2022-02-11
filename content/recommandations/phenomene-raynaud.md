@@ -166,13 +166,16 @@ Si le bilan est négatif: pas d'avis spécialisé sauf modification des caractè
 Sinon, adresser à l'interniste.
 
 {{%info%}}
-Bilan systématique selon Le COFER:
+
+### Bilan devant un syndrome de Raynaud
 
 - NFS, VS, CRP
 - TSH
 - Anticorps anti-nucléaires
 - Facteur rhumatoïde
 - Électrophorèse des protéines sériques
+
+> Le COFER
 
 {{%/info%}}
 

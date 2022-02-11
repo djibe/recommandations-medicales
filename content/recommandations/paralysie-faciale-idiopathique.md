@@ -180,7 +180,7 @@ PFP à bascule ou récidivante.
 
 {{%info%}}
 
-### Bilan complémentaire devant une paralysie faciale périphérique d'allure idiopathique
+### Bilan devant une paralysie faciale périphérique d'allure idiopathique
 
 - NFS
 - Sérologie Lyme

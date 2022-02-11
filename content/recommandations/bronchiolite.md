@@ -31,7 +31,6 @@ todo = "avis CT, FC + SpO2 selon l'âge, relecture, https://afpa.org/outil/norme
 - [Fiche conseils aux parents (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 
 {{%/article-summary%}}
-
 {{%collapse "Définitions" %}}
 
 Bronchiolite aiguë (BA)

@@ -124,7 +124,7 @@ Normale, discordante avec la sévérité des symptômes.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Biologie
+### Bilan devant une HTAP
 
 - Glycémie à jeun
 - Bilan lipidique

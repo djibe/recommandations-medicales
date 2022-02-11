@@ -305,7 +305,7 @@ Agenda des symptômes diurne et nocturne sur 14 jours.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan biologique
+### Bilan devant un syndrome des jambes sans repos
 
 {{%info%}}
 

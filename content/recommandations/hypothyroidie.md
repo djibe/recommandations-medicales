@@ -116,7 +116,7 @@ Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le
 {{%/collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Biologie
+### Bilan devant une hypothyroïdie
 
 {{%info%}}
 En 1<sup>re</sup> intention, doser la TSH seule.  

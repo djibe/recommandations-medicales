@@ -90,7 +90,7 @@ Greffe d'organe, colique néphrétique, insuffisance rénale, ulcère gastro-duo
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Biologie
+### Bilan devant une crise de goutte
 
 Complète le bilan des facteurs de risque cardiovasculaire.
 

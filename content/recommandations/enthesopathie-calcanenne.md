@@ -75,6 +75,8 @@ Palpation sous-calcanéenne (bursite), douleur médiale/latérale (osseuse), pla
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+Bilan ciblé devant une épine calcanéenne.
+
 ### Radiographies du talon de profil
 
 En cas de persistance des symptômes.  

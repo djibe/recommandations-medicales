@@ -56,9 +56,9 @@ Algie vasculaire de la face réfractaire
 **SFEMC:** Société française d'études des migraines et des céphalées
 
 {{% /collapse %}}
-{{%collapse "Critères diagnostiques ICHD-3ß" %}}
+{{%collapse "Critères diagnostiques ICHD-3" %}}
 
-Critères généraux de l'AVF (IHS 3.1):
+Critères ICHD-3 de l'AVF:
 
 1. Au moins 5 crises réunissant les critères B à D
 1. Douleur unilatérale sévère à très sévère, orbitaire, supra-orbitaire et/ou temporale durant 15 à 180 minutes sans traitement
@@ -170,6 +170,9 @@ Céphalée nocturne uniquement. Après 50 ans, intensité légère/modérée san
 {{%collapse "Examens complémentaires" %}}
 
 {{%info%}}
+
+### Bilan devant une algie vasculaire de la face
+
 IRM cérébrale et ARM cérébrale systématiques  
 {{%class%}}Au diagnostic, pour éliminer une forme secondaire.{{%/class%}}
 {{%/info%}}

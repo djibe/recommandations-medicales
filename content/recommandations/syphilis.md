@@ -162,6 +162,8 @@ Nombreux diagnostics différentiels, c'est pourquoi on appelle la syphilis la "g
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+Bilans devant une suspicion de syphilis.
+
 ### Sérologie syphilis
 
 Les sérologies se positivent quelques jours après le début du chancre et atteignent un titre maximum vers 6 mois, correspondant à la phase secondaire si elle est présente.

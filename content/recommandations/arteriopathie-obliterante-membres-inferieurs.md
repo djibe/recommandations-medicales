@@ -195,6 +195,8 @@ ATCD arthrosique. Sensibilité, inconfort, œdème rétro-gonal ou du mollet, au
 
 {{%info%}}
 
+### Bilan devant une AOMI
+
 - Biologie
   - NFS
   - ASAT ALAT

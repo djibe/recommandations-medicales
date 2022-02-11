@@ -70,7 +70,7 @@ Le diagnostic clinique est erroné dans plus de 50% des cas (*[Werner 2003](http
 
 Examens systématiques pour affirmer le diagnostic.
 
-### Biologie
+### Bilan devant une diverticulite sigmoïdienne
 
 - NFS
 - CRP

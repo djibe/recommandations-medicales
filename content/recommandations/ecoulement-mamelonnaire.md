@@ -91,7 +91,7 @@ L'EM pathologique est unilatéral, abondant, persistant, spontané et unipore.
 
 {{%info%}}
 
-### Bilan de 1<sup>re</sup> intention devant un écoulement mamelonnaire unilatéral
+### Bilan devant un écoulement mamelonnaire unilatéral
 
 - Mammographies  
 {{%class%}}Faible sensibilité pour le diagnostic de cancer en EM.{{%/class%}}

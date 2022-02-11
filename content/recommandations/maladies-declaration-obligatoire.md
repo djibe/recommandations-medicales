@@ -1,13 +1,12 @@
 +++
 title = "Maladies à déclaration obligatoire"
-noindex = true
 prefix = "les "
 titleSeo = "Maladies à déclaration obligatoire"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-27T17:24:00+02:00
 publishdate = 2021-03-27
-lastmod = 2021-06-30
+lastmod = 2022-02-11
 specialites = ["certificats"]
 annees = "2021"
 sources = ["SPF"]
@@ -19,6 +18,8 @@ image = false
 imageSrc = ""
 todo= ""
 +++
+
+36 maladies sont à déclaration obligatoire (MDO) en 2022, dont 2 non infectieuses (mésothéliomes et saturnisme chez les enfants mineurs). Cette liste est définie par l'[article D3113-6](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190444/) du Code de la Santé publique.
 
 ## Liste des maladies à déclaration obligatoire
 

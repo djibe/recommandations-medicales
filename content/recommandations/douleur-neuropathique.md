@@ -96,7 +96,7 @@ Substance, posologie, durée, tolérance, efficacité.
 
 {{%info%}}
 
-### Bilan de première intention devant des douleurs neuropathiques
+### Bilan devant des douleurs neuropathiques
 
 - Glycémie à jeun
 - NFS

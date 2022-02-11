@@ -37,6 +37,7 @@ Puberté normale
 Puberté précoce (PP)
 : Le diagnostic est clinique, défini par l'âge d'apparition des caractères sexuels (CS II): Fille < 8 ans et garçon < 9,5 ans.
 : La puberté précoce atteint surtout les filles (4,5/1) avec pour origine une tumeur dans 40% des cas (Klein. JCEM 86).
+: Complication: petite taille à l'âge adulte.
 
 La survenue précoce de la puberté est associée à une maturation sexuelle plus rapide et plus marquée du développement physique.  
 **Âge osseux >> Âge statural > Âge chronologique**
@@ -60,11 +61,6 @@ L'âge classique de début des caractères sexuels secondaires est de 11 ± 2 an
 - Garçons. Testicules (> 4 mL) > Pénis > Poils pubiens
 
 {{%info%}}30 à 65 % des garçons développent au milieu de la puberté une gynécomastie bilatérale pendant quelques mois.{{%/info%}}
-
-{{% /collapse %}}
-{{%collapse "Complications" %}}
-
-Petite taille à l'âge adulte.
 
 {{% /collapse %}}
 {{%collapse "Étiologie des pubertés précoces" %}}
@@ -128,7 +124,7 @@ Sécrétion de stéroïdes sexuels par une gonade autonome.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan biologique
+### Bilan devant une puberté précoce
 
 Réservé au spécialiste avec **test LHRH**.
 

@@ -149,6 +149,8 @@ Le diagnostic est affirmé par un faisceau d'arguments cliniques, biologiques, p
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
 
+Bilan ciblé devant une suspicion de maladie cœliaque.
+
 ### Sérologie cœliaque
 
 En cas de faible risque clinique.  

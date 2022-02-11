@@ -156,7 +156,7 @@ Se 87%, Spe 96%
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Biologie
+### Bilan devant une spondylarthrite
 
 - NFS
 - VS, CRP  

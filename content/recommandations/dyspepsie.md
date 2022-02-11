@@ -72,6 +72,8 @@ Signes de gravité nécessitant la réalisation d'examens complémentaires:
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
 
+Le bilan est ciblé devant une dyspepsie.
+
 ### Endoscopie œso-gastro-duodénale (EOGD)
 
 Indications:

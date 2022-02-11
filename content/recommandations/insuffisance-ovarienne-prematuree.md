@@ -123,7 +123,9 @@ Rechercher des signes de maladies auto-immunes.
 
 De principe dosage de l'hCG, bilan complémentaire si négatif.
 
-### Le diagnostic est biologique
+### Bilan devant une ménopause précoce
+
+**Le diagnostic est biologique**.
 
 FSH, estradiol, hCG, prolactine, TSH:
 

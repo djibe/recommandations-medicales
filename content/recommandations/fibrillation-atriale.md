@@ -183,7 +183,7 @@ Diagnostic possible sur simple dérivation pendant ≥ 30s.
 Envisager un ECG de dépistage systématique ≥ 75 ans (ou avec dispositif connecté ≥ 65 ans *Lowres 2014 et 2015*).
 {{%/info%}}
 
-### Biologie
+### Bilan devant une fibrillation atriale
 
 - NFS
 - Ionogramme sanguin, créatininémie, CKD-EPI et Cockroft

@@ -140,9 +140,9 @@ Les AINS ne sont donc utilisés qu'en péri-menstruel.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Pas de bilan biologique.
-
 {{%info%}}Une imagerie normale n'infirme pas le diagnostic (20% de faux négatifs){{%/info%}}
+
+Pas de bilan biologique.
 
 ### Échographie pelvienne
 

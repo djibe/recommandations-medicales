@@ -178,7 +178,7 @@ En état stable l'examen est pauvre. La présence de signes cliniques est donc u
 
 {{%info%}}
 
-### Bilan exploratoire d'une dyspnée inexpliquée
+### Bilan devant une dyspnée inexpliquée
 
 - NFS
 - Ferritinémie, CRP
@@ -195,7 +195,7 @@ En état stable l'examen est pauvre. La présence de signes cliniques est donc u
 - Échocardiographie
 - Bilan des autres suspicions diagnostiques
 
-> Bilan initial selon *ESC 2021*
+> Bilan initial selon la *ESC 2021*
 {{%/info%}}
 
 ### Peptides natriurétiques

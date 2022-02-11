@@ -141,7 +141,7 @@ Après 60 ans, lorsque la taille n'est pas mesurable par une toise (alitement, t
 {{% /collapse %}}
 {{%collapse "Dénutrition du sujet âgé" %}}
 
-Adulte ≥ 70 ans, dépistage ≥ annuel.
+Chez l'adulte de plus de 70 ans, le dépistage doit être au moins annuel.
 
 ### 1. Diagnostic de dénutrition chez le sujet âgé
 

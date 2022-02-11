@@ -145,7 +145,7 @@ AINS topiques, ponctions évacuatrices avec infiltration de corticoïdes.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Biologie
+### Bilan devant une gonarthrose
 
 - NFS, VS, CRP  
 Pas de syndrome inflammatoire.

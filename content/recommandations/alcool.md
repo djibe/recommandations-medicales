@@ -1,6 +1,5 @@
 +++
 title = "Alcool et consommation excessive d'alcool"
-noindex = true
 prefix = "l'"
 titleSeo = "Sevrage alcool"
 synonyms = ["Alcoolodépendance", "sevrage alcoolique"]

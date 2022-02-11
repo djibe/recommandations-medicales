@@ -46,6 +46,8 @@ Fébricule, asthénie, céphalées, douleurs abdominales.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+### Bilan devant une maladie des griffes du chat
+
 Sérologie *Bartonella henselae*.  
 Sa négativité n'élimine pas le diagnostic.
 

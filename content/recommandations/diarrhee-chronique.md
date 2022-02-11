@@ -146,7 +146,7 @@ Syndrome anémique ou hémorragique, thyrotoxicose, glossite, aménorrhée.
 
 {{%info%}}
 
-### Bilan de première intention devant une diarrhée chronique
+### Bilan devant une diarrhée chronique
 
 - NFS, VS, CRP
 - Ferritinémie

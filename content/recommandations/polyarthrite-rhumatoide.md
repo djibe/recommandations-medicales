@@ -107,7 +107,7 @@ Lupus, Gougerot-Sjögren.
 
 {{%info%}}
 
-### Bilan de 1<sup>re</sup> intention
+### Bilan devant une polyarthrite
 
 - NFS, VS, CRP
 - ASAT, ALAT, PAL, bilirubine
