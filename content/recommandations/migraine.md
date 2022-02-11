@@ -16,16 +16,18 @@ sctid = "37796009"
 draft = true
 image = true
 imageSrc = "Illustration de la migraine par stories / Freepik"
-todo = "Global Assessment of Migraine Severity (GAMS) [23], recouper contraception et THM, Prescrire, EHF, migraine abdo enfant"
+todo = "utilisation M-TOQ, Global Assessment of Migraine Severity (GAMS) [23], recouper contraception et THM, Prescrire, EHF, migraine abdo enfant"
 +++
 
 {{%article-summary%}}
 
 - Triade: Évolution chronique par crises récurrentes avec intervalle libre + crises stéréotypées + examen clinique normal
-- Contre-indication à la triade: migraine + pilule + tabac
+- Contre-indication: migraine + pilule + tabac
+- Réévaluer l'efficacité du traitement {{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}}
 - Traitement de la crise
 - Traitement de fond si > 2 j/sem depuis ≥ 3 mois consécutifs
-TODO:
+- Agenda migraineux
+- Suivi neuro si sévère: ≥ 8 jours/mois, {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50% des épisodes
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -33,14 +35,15 @@ TODO:
 Migraine
 : Pathologie neurovasculaire fréquente liée à des altérations subtiles neuronales et vasculaires. Facteur de risque vasculaire indépendant.  
 Origine génétique et environnementale avec altération très importante de la **qualité de vie**.
+: Dite **migraine épisodique** avec < 15 jours/mois, **chronique** au-delà (depuis > 3 mois).
 : **Migraine sévère:** crises fréquentes (≥ 8 jours/mois) OU {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 OU intensité impose un arrêt total des activités pour ≥ 50% des épisodes.
-: **Migraine résistante:** échec de traitement bêtabloquant et topiramate bien conduits.
+: **Migraine résistante:** échec de 3 traitements de fond bien conduits. Dite réfractaire quand aucun ne fonctionne.
 : 30-45% des migraineux français n'ont jamais consulté, ignorent leur diagnostic et les traitements existants.  
 90% devraient être soulagés en soins primaires, 1% suivis en centre spécialisé.
 
 Migraine avec aura
-: *ex migraine accompagnée*. Augmente le risque vasculaire (AVC ischémique x 2).
-: 4 types d'aura: visuelles (> 90% des auras), sensitives, aphasique, motrice (classée migraine hémiplégique).
+: *ex migraine accompagnée*. Aura présente chez ~30% des migraineux, elle augmente le risque vasculaire (AVC ischémique x 2).
+: 4 types d'aura: visuelles (> 90% des auras) > sensitives (30% > aphasique, motrice (classée migraine hémiplégique).
 
 Migraine cataméniale
 : Survenue de migraine sans aura lors ≥ 2 cycles consécutifs/3, débutant entre le 2<sup>e</sup> jour précédant et le 3<sup>e</sup> jour suivant la période menstruelle (naturellement ou sous pilule).
@@ -55,15 +58,17 @@ Céphalées par abus médicamenteux
 ### Diagnostic différentiel
 
 - Céphalées par abus médicamenteux  
-Souvent associée.
+Céphalées ≥ 15 j/mois, lors de prise d'antalgiques > 10 j/mois > 3 mois. Souvent associée.
 - Céphalée de tension  
-Céphalée diffuse, non pulsatile, non aggravée à l'effort, moins intense, sans signes digestifs associés, parfois phono/photophobie. Souvent associée chez le migraineux.
-- Sinusite aiguë
+Durée h-j, diffuse, non pulsatile, non aggravée à l'effort, moins intense, sans signes digestifs associés, parfois phono OU photophobie. Souvent associée chez le migraineux.
 - Névralgie d'Arnold
+- Sinusite aiguë
 - Troubles de la vision binoculaire ([orthoptie]({{< relref "bilan-orthoptique.md" >}}))  
 Fatigue visuelle, céphalées, difficultés de concentration ou de lecture.
-- [Algie vasculaire de la face]({{< relref "algie-vasculaire-face.md" >}}) et [névralgie du trijumeau]({{< relref "nevralgie-trigeminale-classique.md" >}})  
-Nombre de crises quotidiennes, stricte unilatéralité, côté fixe, arrachement, décharges, intensité très sévère
+- [Algie vasculaire de la face]({{< relref "algie-vasculaire-face.md" >}})  
+Crises pluriquotidiennes, 15-180 min, stricte unilatéralité fixe, arrachement, décharges, intensité très sévère.
+- [Névralgie du trijumeau]({{< relref "nevralgie-trigeminale-classique.md" >}})  
+Très brèves (qq secondes à 2 minutes), strictement unilatérale V2/V3, neuropathique, gâchette, pas de phonophotophobie ou troubles digestifs.
 - Tumeur du 3<sup>e</sup> ventricule
 
 Avec aura: [AIT]({{< relref "accident-vasculaire-cerebral.md" >}}) (déficit avec début brutal et symptômes d'emblée maximaux) et épilepsie partielle (installation en 2-3 min, durée courte).
@@ -71,6 +76,7 @@ Avec aura: [AIT]({{< relref "accident-vasculaire-cerebral.md" >}}) (déficit ave
 ### Abréviations
 
 **EI:** effet indésirable  
+**ICHD-3:** {{%lang%}}International Classification of Headache Disorders{{%/lang%}}  
 **MSA:** migraine sans aura
 
 ### Épidémiologie
@@ -81,13 +87,12 @@ France: 21,3% des adultes remplissent les critères de la migraine ICHD-3.
 - 50% ont ≥ 2 crises par mois; 40% ont durée > 24h; 50% ont intensité sévère à très sévère
 
 {{% /collapse %}}
-{{%collapse "Critères diagnostiques" %}}
+{{%collapse "Critères diagnostiques ICHD-3" %}}
 
-Triade *IHS 1998*:
+{{%warning%}}En cas de doute, une cause organique doit être éliminée par des examens complémentaires{{%/warning%}}
 
-1. Évolution chronique par crises récurrentes avec intervalle libre
-2. Crises stéréotypées
-3. Examen clinique normal
+Le profil migraineux peut évoluer avec le temps.  
+Examen clinique normal en dehors des crises.
 
 ### Critères diagnostiques de la migraine sans aura (MSA)
 
@@ -96,59 +101,91 @@ Critères A à E remplis:
 A. ≥ 5 crises répondant aux critères B à D
 B. Céphalées paroxystiques durant de 4 à 72 heures
 C. Céphalées avec ≥ 2 caractères suivants:  
-unilatérale, pulsatile, intensité modérée/sévère, aggravée par l'activité physique.
+  Unilatérale, pulsatile, intensité modérée/sévère, aggravée par ou entraînant l'évitement de l’activité physique de routine (marche, escaliers...).
 D. Céphalées associées à ≥ 1 caractère suivant:  
-nausées/vomissements, photophobie/phonophobie.
-E. Examen clinique normal en dehors des crises, pas d'autre diagnostic ICHD-3
+    - Nausées/vomissements
+    - Photophobie et phonophobie
+E. N'est pas mieux expliquée par un autre diagnostic de l'ICHD-3
 
-{{%warning%}}En cas de doute, une cause organique doit être éliminée par des examens complémentaires{{%/warning%}}
+L'**osmophobie** (dégoût des odeurs) est très spécifique de la crise migraineuse.  
+La douleur typique est frontale, orbitale, temporale et occipitale. Fréquemment cervicale et attribuée à tort à une névralgie d'Arnold.
 
-Si l'un des critères A, B, C ou D n'est pas rempli en totalité: migraine sans aura probable.
+**Autres symptômes non douloureux:** allodynie, fatigue, bâillements, difficultés de concentration, changements d'humeur, raideur nucale, pâleur et vertiges.  
+**Signes autonomes possibles:** rougeur conjonctivale, larmoiement, congestion nasale, rhinorrhée, œdème de paupière, myosis ou ptosis (différencier d'AVF).  
+Ces symptômes peuvent précéder la crise de 2 jours et persister 2 jours après sa résolution.
+
+Si l'un des critères A, B, C ou D n'est pas rempli en totalité: **migraine sans aura probable**.
 
 ### Critères de la migraine avec aura
 
-A. ≥ 2 crises répondant aux critères de B et C
-B. ≥ 3 critères parmi:
-    - ≥ 1 symptôme visuel totalement réversible (lumières scintillantes, tâches ou lignes, cécité, scotome)
-    - ≥ 1 symptôme sensitif totalement réversible (piqûre d'épingle, engourdissement)
-    - Troubles phasiques complètement réversibles
-C. ≥ 2 caractères suivants:
-    - Symptômes visuels homonymes et/ou symptômes sensitifs unilatéraux
-    - ≥ 1 symptôme se développe progressivement sur 5 minutes ou plus et/ou plusieurs des symptômes survenant successivement sur ≥  5 minutes
-    - Durée de chaque symptôme ≥ 5 minutes ou ≤ 60 minutes
-D. Examen clinique normal en dehors des crises
-
-4 types d'aura: visuelles (> 90% des auras), sensitives, aphasique, motrice (classée migraine hémiplégique).  
-L'aura peut survenir durant la céphalée.
+A. ≥ 2 crises répondant aux critères B et C
+B. ≥ 1 symptôme d'aura entièrement réversible:
+    - Visuel
+    - Sensitif
+    - Parole et/ou langage
+    - Moteur
+    - Tronc cérébral
+    - Rétinien
+C. ≥ 3 caractères parmi:
+    - ≥ 1 symptôme d'aura se développe progressivement sur ≥ 5 minutes
+    - ≥ 2 symptômes d'aura surviennent successivement
+    - Chaque symptôme d'aura dure 5-60 minutes
+    - ≥ 1 symptôme d'aura est unilatéral
+    - ≥ 1 symptôme d'aura est positif
+    - L'aura est accompagnée, ou suivie dans les 60 minutes, d'une céphalée
+D. N'est pas mieux expliquée par un autre diagnostic de l'ICHD-3
 
 Si les critères A, B et C sont présents: **migraine avec aura typique**.
 
-**NB.** En cas de doute, une cause organique doit être éliminée par des examens complémentaires.
+4 types d'aura: visuelles (> 90% des auras), sensitives, aphasique, motrice (classée migraine hémiplégique).  
+L'aura peut survenir durant la céphalée.  
+L'atteinte ophtalmique est **bilatérale**, positive (flashs lumineux, zig-zags) ou négative (scotome). Atypique si unilatérale (migraine rétinienne).  
+Les atteintes sensitives sont unilatérales, positives (fourmillements, picotements et aiguilles) ou négatives (engourdissement), débutant à la main avec déplacement vers le bras et le visage.
 
-L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de céphalée sans caractéristiques ou simplement isolée (aura SANS céphalées).
+L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de céphalée sans caractéristiques ou simplement isolée (aura sans céphalées).
+
+Symptômes atypiques d'aura: dysarthrie, vertiges, acouphènes, déficit moteur (migraine hémiplégique), migraine rétinienne.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 ### Interrogatoire
 
-- Antécédents
+- Antécédents  
+Familiaux, autres douleurs...
 - Alcool, tabac
-- Comorbidités
-  - Terrain cardiovasculaire et respiratoire
-  - Troubles du sommeil
-  - Rechercher un syndrome dépressif/anxieux: {{< modal-btn modal-had >}}échelle HAD{{< /modal-btn >}}
+- Risques de chronicisation
+  - Rechercher un syndrome anxieux/dépressif ++: {{< modal-btn modal-had >}}échelle HAD{{< /modal-btn >}}
+  - Abus médicamenteux ++
+  - Terrain cardiovasculaire et respiratoire (asthme, hypertension artérielle)
+  - Troubles du sommeil (ronflement, insomnie)
+  - Autres douleurs
+  - Obésité
 - Histoire des céphalées
   - Âge de début
+  - Localisation, type, durée, intensité, périodicité, jours mensuels
+  - Prodromes et signes associés avant-pendant-après
+  - Aura
+  - Facteurs déclenchants identifiés  
+  Menstruations, alcool. Souvent confondus avec les prodromes (osmophobie, phonophotophobie).
 - Critères diagnostiques ICHD-3 (voir chapitre dédié)
-- Facteurs de risque de chronicisation
-- Consommation d'antimigraineux
+- Antimigraineux
+  - Traitements déjà essayés, crise/fond, efficacité, observance, tolérance, doses, durées, raison de l'arrêt
+  - Traitement actuel de crise/fond: mêmes questions, {{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}}
+- Traitements non médicamenteux
 - Évaluer le handicap migraineux
-  - Agenda migraineux (date, durée, intensité, facteur déclenchant, traitements essayés)  
+  - **Agenda migraineux** (date, durée, intensité, facteur déclenchant, traitements essayés)  
   Reconsulter lorsque traitement pris ≥ 2 jours/semaine depuis ≥ 3 mois.
-  - Qualité de vie: {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}}
+  - Qualité de vie: {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}}  
+  Reprendre à chaque consultation.
+- Femme: désir de grossesse, contraception, ménopause
 
 ### Examen clinique
+
+- Pression artérielle, fréquence cardiaque **à chaque consultation**
+- Poids, taille, IMC
+- Examen neurologique
+TODO:
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -161,20 +198,34 @@ Indications:
 
 - Apparition après 50 ans
 - Aura atypique  
-Début brutal, prolongé > 1 heure, latéralité fixe et/ou sans symptômes visuels.
+Début brutal, prolongé > 1 heure, latéralité fixe, absence de symptômes visuels.
+- Migraine chronique (≥ 15 j/mois) depuis < 1 an
 - Examen clinique anormal
 - En urgence
   - Céphalée d'apparition brutale (en "coup de tonnerre", s'installant en < 1 min)
-  - Céphalée de caractères inhabituels chez un migraineux (délai à apprécier en fonction du contexte)  
-  Si scanner sans injection normal: IRM cérébrale avec angioIRM artérielle et veineuse.
+  - Céphalée de caractères inhabituels chez un migraineux (délai à apprécier en fonction du contexte)
+  - Céphalée avec fièvre inexpliquée
+  - Signes neurologiques aigus
+  - Contexte d'intoxication (CO)
+  - Immunodépression
+  - Si scanner sans injection normal: IRM cérébrale avec angioIRM artérielle et veineuse
 
 {{% /collapse %}}
 {{%collapse "Traitement de la crise et mesures générales" %}}
 
+**Objectifs:** rassurer, traitement de crise optimisé, hygiène de vie, gestion des risques de chronicisation (consommation antalgique, dépression), traitement de crise si indiqué.  
+Ne pas culpabiliser l'abus médicamenteux en migraine chronique (effet délétère).
+
+Avis neurologique: aura atypique ou sévère, migraine sévère, migraine résistante/réfractaire (en centre spécialisé).
+
+### Hygiène de vie
+
 - Arrêt du tabac obligatoire  
-{{%class%}}Décuple le risque d'AVC{{%/class%}}
+{{%class%}}Décuple le risque d'AVC.{{%/class%}}
 - Éviter les facteurs déclenchants identifiés  
 Habituels: facteur alimentaire, alcool, manque de sommeil/grasse matinée, stress, jeûne, chaleur, changements de climat.
+- Activité physique
+- Hydratation adaptée
 - Évolution du handicap migraineux (voir *Clinique*)
 - Nausées invalidantes ou vomissements: anti-émétiques recommandés
 
@@ -241,6 +292,8 @@ Réévaluation du nouveau triptan après 3 crises:
 - Triptan efficace sur ≥ 2 crises : poursuivre le même triptan
 si triptan efficace dans moins de 2 crises : prise AINS + triptan en simultané.
 
+**Absence de réponse au traitement de la crise** = inefficacité de 2 triptans bien utilisés.
+
 {{% /collapse %}}
 {{%collapse "Traitement de fond" %}}
 
@@ -272,7 +325,8 @@ Autres thérapies avec efficacité prouvée: relaxation, rétro-contrôle (biofe
   - Efficacité insuffisante: augmentation de posologie si bien toléré
   - Mauvaise tolérance: essayer une autre molécule de 1<sup>re</sup> intention pendant ≥ 3 mois ou avis neurologique
 
-En cas d'échecs répétés: évaluer l'observance, rechercher un abus médicamenteux.
+En cas d'échecs répétés: évaluer l'observance, rechercher un abus médicamenteux.  
+**Migraine résistante:** échec de 3 traitements de fond bien conduits.
 
 ### Arrêt d'un traitement de fond
 
@@ -368,10 +422,11 @@ Toute utilisation de traitement de fond doit être rapportée à la pharmacovigi
 {{% /collapse %}}
 {{%sources%}}
 
-- [Donnet A. et al. Severe migraine and its control: A proposal for definitions and consequences for care. Revue neurologique (2021).](https://doi.org/10.1016/j.neurol.2020.11.012)
 - [Demarquay G. et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 1: Diagnosis and assessment. Revue Neurologique. Vol 177, Iss 7. 2021.](https://doi.org/10.1016/j.neurol.2021.07.001)
+- [Donnet A. et al. Severe migraine and its control: A proposal for definitions and consequences for care. Revue neurologique. 2021.](https://doi.org/10.1016/j.neurol.2020.11.012)
 - [Lanteri-Minet M. et al. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant. Revue Neurologique. Volume 169. Issue 1. 2013. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20sur%20la%20prise%20en%20charge%20diagnostique%20et%20th%C3%A9rapeutique%20de%20la%20migraine%20chez%20l%2527adulte%20et%20chez%20l%2527enfant%20(1).pdf)
 - [Anaes. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant : aspects cliniques et économiques. Recommandations de bonne pratique. Octobre 2002.](https://www.has-sante.fr/jcms/c_272212/fr/prise-en-charge-diagnostique-et-therapeutique-de-la-migraine-chez-l-adulte-et-chez-l-enfant-aspects-cliniques-et-economiques)
+- [ICHD-3 version française 2019 (PDF)](https://ichd-3.org/wp-content/uploads/2019/06/ICHD3-traduction-fran%C3%A7aise-VF-%C3%A0-publier.pdf)
 
 {{%/sources%}}
 {{% modal title="Score HAD" id="modal-had"%}}
@@ -382,5 +437,10 @@ Toute utilisation de traitement de fond doit être rapportée à la pharmacovigi
 {{% modal title="Score HIT-6" id="modal-hit6"%}}
 
 {{< scores/hit6 >}}
+
+{{% /modal %}}
+{{% modal title="Score M-TOQ-5" id="modal-mtoq"%}}
+
+{{< scores/m-toq >}}
 
 {{% /modal %}}

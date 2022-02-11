@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-10T16:46:32+01:00"
 publishdate = "2022-01-10"
-lastmod = "2022-01-10"
+lastmod = "2022-02-11"
 specialites = ["ophtalmologie"]
 annees = "2021"
 sources = ["SNAO"]
@@ -34,15 +34,16 @@ imageSrc = ""
 Bilan orthoptique et rééducation si besoin
 {{%/info%}}
 
-Réaliser un bilan orthoptique devant:
+Indications au bilan orthoptique devant:
 
-- Strabisme
+- Strabisme  
+5-8% des enfants.
 - Amblyopie
 - Diplopie
-- Vision floue
+- Vision floue  
+  Souvent révélée en grande fatigue.
 - Larmoiement, prurit oculaire
-- [Fatigue](/tags/fatigue/) (*Godts 2016*)
-- Fatigue visuelle
+- [Fatigue](/tags/fatigue/) (*Godts 2016*) et fatigue visuelle
 - Troubles de la concentration
 - Difficultés d'adaptation aux lunettes
 - [Céphalées](/tags/cephalees/)
@@ -50,15 +51,21 @@ Réaliser un bilan orthoptique devant:
 - Chutes répétées de la personne âgée
 - Troubles musculo-squelettiques et douleurs posturales
 - Troubles neuro-visuels (séquelles neurologiques)
-- Retard scolaire (lecture, écriture, copie , géométrie)
-- Enfant trop proche de l'écran ou du livre
-- Nourrisson avec interactions limitées  
-Ne joue pas, ne fixe pas, ne s'intéresse pas à son entourage.
+- Ptosis (paupière tombante) et nystagmus
+- Enfant
+  - Acuité visuelle réduite
+  - Antécédent parental et suspicion pour l'enfant (*NHS*)
+  - Retard scolaire (lecture, écriture, copie, géométrie)
+  - Enfant trop proche de l'écran ou du livre
+  - Posture anormale de la tête (*NHS*)
+  - Nourrisson avec interactions limitées  
+  Ne joue pas, ne fixe pas, ne s'intéresse pas à son entourage.
 
 {{% /collapse %}}
 {{%sources%}}
 
 - [Syndicat National Autonome des Orthoptistes](https://www.orthoptiste.pro/l-orthoptie/ou-et-quand-consulter/)
 - [Godts D et al. Binocular Vision in Chronic Fatigue Syndrome. Am Orthopt J. 2016 Jan;66(1):92-97.](https://pubmed.ncbi.nlm.nih.gov/27799582/)
+- [NHS Devon (PDF)](https://www.northdevonhealth.nhs.uk/wp-content/uploads/2014/06/Appendix-1.pdf)
 
 {{%/sources%}}

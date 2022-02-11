@@ -12,6 +12,10 @@ body,
 
 a {
   color: var(--primary);
+
+  &:focus-visible {
+    border-bottom: 1px solid var(--primary);
+  }
 }
 
 h1,

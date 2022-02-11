@@ -145,7 +145,7 @@ AINS, anticoagulants ou IPP au long cours.
 
 Bilan initial: NFS, ferritinémie.
 
-### Bilan étiologique d'une anémie par carence martiale
+### Bilan d'une anémie par carence martiale
 
 Ou d'une *carence martiale isolée* chez des sujets sans pertes physiologiques (homme, femme ménopausée, troubles digestifs).
 
