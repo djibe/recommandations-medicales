@@ -14,7 +14,7 @@
     "hugo:debug": "hugo --cleanDestinationDir --minify --debug --logFile ./hugo.log --verboseLog",
     "hugo:update": "choco upgrade hugo-extended",
     "links-md:check": "linkinator content/**/*.md --markdown --verbosity error --skip '(%22)$'",
-    "links-external:check": "hugo && linkinator ./public/** --recurse --skip recomedicales.fr --verbosity error",
+    "links-external:check": "hugo && linkinator ./public/** --recurse --skip recomedicales.fr --skip github --verbosity error",
     "server": "hugo server --buildDrafts --watch --destination dev --verbose --cleanDestinationDir -p 1313",
     "start": "hugo --cleanDestinationDir --gc --minify"
   },
