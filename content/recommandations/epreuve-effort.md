@@ -201,7 +201,7 @@ Répéter tous les 1-2 ans pour évaluer la réponse tensionnelle et l'efficacit
 : Pour le réglage fin des stimulateurs cardiaques implantés ou défibrillateurs.
 
 Épreuve d'effort peut être envisagée
-: Évaluer la réponse ventriculaire chez les patients atteints de fibrillation atriale.
+: Évaluer la réponse ventriculaire chez les patients atteints de [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}).
 : Évaluer un syndrome de pré-excitation.
 
 </div>

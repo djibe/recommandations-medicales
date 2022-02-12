@@ -40,7 +40,7 @@ La 1<sup>re</sup> cause est **ischémique** secondée par l'**[hypertension art�
 : La *fraction d'éjection* (du ventricule gauche) est le paramètre le plus utilisé pour caractériser la fonction systolique.
 
 Insuffisance cardiaque à fraction d'éjection conservée
-: Cette forme est mal comprise, atteint des patients plus âgés, plus souvent les femmes. Comorbidités plus fréquemment retrouvées: fibrillation atriale, insuffisance rénale et comorbidités non cardiovasculaires.
+: Cette forme est mal comprise, atteint des patients plus âgés, plus souvent les femmes. Comorbidités plus fréquemment retrouvées: [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) et comorbidités non cardiovasculaires.
 
 Dysfonction systolique ventriculaire gauche asymptomatique
 : {{%lang%}}Asymptomatic LV systolic dysfunction{{%/lang%}}

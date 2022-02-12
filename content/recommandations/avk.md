@@ -26,7 +26,7 @@ Comprimés sécables de 2 et [5 mg](https://base-donnees-publique.medicaments.go
 NFS-plaquettes, TP, TCA, créatininémie, transaminases
 - Débuter le traitement  
   - **Débuter à 5 mg/j**
-  - 2 mg/j si: fibrillation atriale, personne âgée, fragile, maigre/dénutrie, insuffisance rénale, cardiaque ou hépatique
+  - 2 mg/j si: [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), personne âgée, fragile, maigre/dénutrie, insuffisance rénale, cardiaque ou hépatique
   - de préférence le soir
   - **INR 12h après la 3<sup>e</sup> prise**. Si > 2: diminuer la posologie.
 - **Ajustements par paliers de 1 mg et contrôle INR à J3**  

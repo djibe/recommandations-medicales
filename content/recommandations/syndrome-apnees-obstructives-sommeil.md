@@ -43,7 +43,7 @@ Les complications des apnées du sommeil sont nombreuses et sévères:
 - Coronaropathie et [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (+50%)  
 HTA diastolique, nocturne et résistante (> 60% des HTA résistantes).
 - AVC (x 2-3)
-- Fibrillation atriale
+- [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}})
 - Insulinorésistance
 - Troubles de la concentration et de l'humeur
 - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md">}})

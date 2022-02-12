@@ -39,7 +39,7 @@ Ces recommandations concernent l'adulte ≥ 18 ans.
 Hypertension artérielle
 : Maladie chronique la plus fréquente définie une pression artérielle systolique (PAS) ≥ 140 mmHg et/ou diastolique ≥ 90 mmHg au cabinet (135/85 mmHg en automesure et 130/80 mmHg en MAPA, *ESC 2018*).
 : Premier facteur de morbi-mortalité modifiable dans le monde.  
-La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance cardiaque, coronaropathie, AVC, fibrillation atriale, dégradation cognitive et démence.
+La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance cardiaque, coronaropathie, AVC, [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), dégradation cognitive et démence.
 : La réduction de la systolique de 10 mmHg (et de 5 mmHg pour la diastolique) réduit le risque d'évènement CV de 20%, la mortalité de 10-15%, le risque d'AVC de 35%, de SCA de 20%, d'insuffisance cardiaque de 40%. Le traitement allonge l'espérance de vie.
 : 1 patient sur 2 est > 140/90 mmHg. Principaux facteurs de non contrôle: défaut d'observance et inertie du médecin.
 : Observance à 6 mois: 2/3, 1 an: 50%.
