@@ -198,7 +198,7 @@ Contre-indiquée en oreille unique ou atteinte bilatérale.
 [Document d'information du patient de l'Encyclopédie Orphanet sur La maladie de Menière. (PDF)](https://www.orpha.net/data/patho/Pub/fr/Meniere-FRfrPub10587v02.pdf)
 
 Association de patients  
-[France Acouphènes](https://www.france-acouphenes.org/)
+[France Acouphènes](https://www.france-acouphenes.fr/)
 
 {{% /collapse %}}
 {{%sources%}}

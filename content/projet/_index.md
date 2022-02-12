@@ -519,7 +519,7 @@ Proportion de personnes diabétiques traitées pharmacologiquement ayant bénéf
 ### Un texte ne suffit pas
 
 Initialement sur mon stockage personnel, mes fiches textes ne me permettaient pas de répondre à la complexité croissante de la médecine moderne: des scores, des arbres de décisions se décrivent difficilement avec des mots.  
-Cette limitation est récurrente sur les sites existants, pourtant d'une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net/), [doctofiche](https://doctofiche.fr/), [HEYDoctor](https://wiki.heydoctor.fr/fr/index), [Medix](http://www.medix.free.fr/), [Ordotype](https://www.ordotype.fr/), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil), [WeLinkCare](https://www.welinkcare.com/) ...
+Cette limitation est récurrente sur les sites existants, pourtant d'une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net/), [doctofiche](https://doctofiche.fr/), [Medix](http://www.medix.free.fr/), [Ordotype](https://www.ordotype.fr/), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil), [WeLinkCare](https://www.welinkcare.com/) ...
 
 ## Objectifs du Projet
 
