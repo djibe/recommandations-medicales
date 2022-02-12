@@ -98,7 +98,7 @@ Le médecin traitant dépiste, oriente et prescrit le traitement abortif d'urgen
 - Substituer un traitement au lithium (facteur aggravant)
 - Association de patients  
 [Association Française pour la Recherche sur l'Hidrosadénite (AFRH)](http://www.afrh.fr/)
-- Participer à la [recherche ComPaRe](https://compare.aphp.fr/les-cohortes/cohorte-maladie-de-verneuil.html)
+- Participer à la [recherche ComPaRe](https://compare.aphp.fr/les-maladies-chroniques/)
 - Soutien psychologique
 - Adaptation du poste avec le médecin du travail
 - [ALD 31]({{< relref "affection-longue-duree.md" >}})  
