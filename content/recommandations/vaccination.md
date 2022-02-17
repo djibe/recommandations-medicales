@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-14T15:52:41+02:00
 publishdate = 2020-10-14
-lastmod = 2021-10-11
+lastmod = 2022-02-17
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["MinSante", "HCSP"]
@@ -19,7 +19,7 @@ todo = "choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccinat
 
 {{%article-summary%}}
 
-- La HAS [recommande la vaccination Mégingo B](https://www.has-sante.fr/jcms/p_3273097/fr/meningocoques-b-la-has-recommande-la-vaccination-des-nourrissons) des nourrissons, sans remboursement acté à ce jour (22/06/2021)
+- La HAS [recommande la vaccination Mégingo B](https://www.has-sante.fr/jcms/p_3273097/fr/meningocoques-b-la-has-recommande-la-vaccination-des-nourrissons) des nourrissons, remboursé uniquement en risque élevé d'IIM
 - [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
 
 {{%/article-summary%}}
@@ -31,6 +31,8 @@ Ces dosages réduits ne peuvent être utilisés qu'à partir de 11 ans.
 
 Rattrapage vaccinal
 : << Si un retard est intervenu dans le programme de vaccination, il n'est pas nécessaire de recommencer. Il suffit de reprendre ce programme au stade où il a été interrompu et de compléter la vaccination en fonction de l'âge et du nombre de doses de vaccin manquantes >> (INPES).
+
+{{%info%}}<< Les vaccins ne sont pas associés à un risque accru de survenue d’une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >> (*[SFSEP 2019](https://doi.org/10.1016/j.neurol.2019.01.218)*){{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal" "show" %}}

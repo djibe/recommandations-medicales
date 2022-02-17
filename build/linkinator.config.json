@@ -3,6 +3,7 @@
   "recurse": true,
   "skip": [
     "recomedicales.fr",
+    "doi.org",
     "github.com"
   ],
   "verbosity": "error",

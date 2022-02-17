@@ -6,14 +6,13 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-28T10:46:41+02:00
 publishdate = 2020-09-28
-lastmod = 2022-02-07
+lastmod = 2022-02-17
 specialites = ["ORL"]
 annees = "2021"
 sources = ["HAS", "SPILF"]
 tags = []
 anglais = ["Tonsilitis"]
 sctid = "90176007"
-draft = false
 image = true
 imageSrc = "Angine, photo de Fireflyez76 sur Foter.com / CC BY-ND"
 flowchart = true
@@ -121,6 +120,42 @@ Indication: angine chez les +3 ans avec TDR positif.
   - ou josamycine 15 mg/kg/j en 2 prises (max 1g/j)
 
 {{% /collapse %}}
+{{%collapse "Amygdalectomie chez l'enfant" %}}
+
+Indications de l'amygdalectomie chez l'enfant:
+
+- Hypertrophie amygdalienne symptomatique (stades 3 et 4 de [Brodsky](https://www.dr-delagranda.com/amygdalectomie/), occupation de l'oropharynx ≥ 50%)  
+  Symptômes: troubles respiratoires du sommeil, ralentissement staturo-pondéral, troubles de déglutition, difficultés de phonation, troubles du dev oro-facial, malocclusion dentaire.
+- Angines récidivantes
+  - ≥ 7 angines sur l'année ou > 5 angines/an pendant 2 ans ou > 3 angines/an pendant 3 ans
+  - avec ≥ 1 signe à chaque fois parmi: fièvre > 38,3°C, adénopathies cervicales ou sous-mandibulaires, exsudat amygdalien ou TDR positif
+- Amygdalite chronique  
+  Inflammation locale: sensation de corps étranger avec dysphagie modérée, otalgie, haleine fétide, oropharynx érythémateux, suintement permanent et régionaux > 3 mois et résistant au traitement médical
+- Abcès périamygdalien récidivant
+- Antécédent de syndrome de Lemierre, infections sévères avec hospitalisations ou infections récurrentes intrafamiliales
+- Pharyngites récidivantes avec mêmes critères quantitatifs que pour l'angine
+- Au cas par cas
+  - Dysphagie aux gros morceaux
+  - Troubles de la phonation
+  - Syndrome PFAPA
+  - Glomérulonéphrite à IgA
+  - Angine aiguë dyspnéeisante
+
+> *SFORL 2020*
+
+### Troubles respiratoires du sommeil de l'enfant
+
+Rechercher:
+
+- Antécédents médicaux et chirurgicaux  
+  Prématurité, antécédents familiaux de SAOS, malformations crânio-faciales ou des VADS, maladies neuromusculaire ou métabolique
+- Symptômes nocturnes  
+  Ronflement > 3 nuits/semaine, pauses respiratoires/apnées, reprise respiratoire bruyante, sueurs, énurésie, sommeil agité, tête en hyperextension, cyanose,
+  réveils fréquents, parasomnie
+- Symptômes diurnes  
+  Difficultés de réveil, irritabilité au réveil, asthénie au réveil, somnolence diurne, siestes longues, céphalées matinales, cernes ou vomissements, anorexie au petit déjeuner, respiration buccale, hyperactivité, troubles de l'attention et de la mémoire, retentissement staturo-pondéral tardif.
+
+{{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
 {{< mermaid title="Conduite à tenir devant une angine. Dr JB FRON d'après SPILF/HAS 2016" >}}
@@ -137,6 +172,7 @@ graph TB
 {{%sources%}}
 
 - [HAS. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
+- [Lescanne E. et al. Amygdalectomie de l'enfant Actualisation 2020 de la recommandation SFORL & CFC. 2020.](https://www.sforl.org/wp-content/uploads/2021/11/Recommandation-SFORL-Amygdalectomie_2021.pdf)
 - [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)
 - [SPILF/HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'adulte. Novembre 2016.](https://www.has-sante.fr/jcms/c_2722754/fr/choix-et-duree-de-l-antibiotherapie-rhinopharyngite-aigue-et-angine-aigue-de-l-enfant)
 - [Collège Français d'ORL et de Chirurgie Cervico-faciale. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 146 UE6.](https://campusorl.fr/espace-etudiants/2eme-cycle-ecni/item-146-angines-de-ladulte-et-de-lenfant-et-rhinopharyngites-de-lenfant/)
