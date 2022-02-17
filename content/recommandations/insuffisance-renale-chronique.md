@@ -6,7 +6,7 @@ synonyms = ["et maladie rénale chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-02-06"
+lastmod = "2022-02-17"
 specialites = ["nephrologie"]
 annees = "2021"
 sources = ["HAS", "KDIGO", "ESC"]
@@ -232,7 +232,8 @@ Réticulocytes + ferritinémie.
   - Activité physique d'intensité modérée ≥ 150 min/semaine
   - {{< modal-btn modal-sel >}}Régime désodé < 5 g/j{{< /modal-btn >}} et hydrique 1,5 L/j (ni restreint ni forcé)
 - Contrôle tensionnel
-  - Traitement si PA n'est pas dans la cible (*KDIGO 2021*)
+  - Traitement si PA n'est pas dans la cible (*KDIGO 2021*)  
+  {{%class%}}Considérer si diabète avec albuminurie sans hypertension (*KDIGO 2020*){{%/class%}}
   - PA cible < 120/90 mmHg (*KDIGO 2021*), {{%class%}}< 150-160 si ≥ 80 ans (*HAS 2021*){{%/class%}}
   - Greffe < 130/80 mmHg (*KDIGO 2021*)
   - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} (ou {{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}) ± thiazidique ou anticalcique
@@ -243,13 +244,13 @@ Réticulocytes + ferritinémie.
 < 3 mg/mmol chez le diabétique.
 - Protéines < 1 g/kg/j
   - DFGe < 60: 0,6-0,8 g/kg/j
-  - Sauf chez la personne (très-) âgée
+  - Sauf chez la personne âgée
 - Vaccination
   - Grippe annuelle
   - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}}
   - Covid-19
   - Sérologie [hépatite B]({{< relref "hepatite-b.md" >}}) ± vacciner  
-  Cible anti-HBs > 10 UI/L.
+  {{%class%}}Cible anti-HBs > 10 UI/L.{{%/class%}}
 - Ferritinémie cible > 100 ng/mL
 - DFGe < 45
   - Suivi par néphrologue impératif
@@ -407,7 +408,8 @@ style fdr stroke:#4150f5, stroke-width:1px
 
 - {{< references/sfd-dt2 >}}
 - [HAS. Maladie rénale chronique de l'adulte. Guide du parcours de soins. Juillet 2021.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
-- [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. Volume 99. Issue 3. 559 - 569.](https://doi.org/10.1016/j.kint.2020.10.026)
+- [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. 2021.](https://doi.org/10.1016/j.kint.2020.10.026)
+- [KDIGO. 2020 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. 2020. (PDF)](https://kdigo.org/wp-content/uploads/2020/10/KDIGO-2020-Diabetes-in-CKD-GL.pdf)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/esc-hta >}}
 - [Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2012 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney inter., Suppl. 2013; 3: 1–150. (PDF)](https://kdigo.org/wp-content/uploads/2017/02/KDIGO_2012_CKD_GL.pdf)
