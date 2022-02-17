@@ -4,7 +4,6 @@ prefix = "l'"
 shortname = "HP"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-relecteur = ""
 date = 2020-12-02T15:14:41+02:00
 publishdate = 2020-12-02
 lastmod = 2022-01-24
@@ -37,7 +36,7 @@ Dysphagie, amaigrissement, anémie.
 {{%collapse "Aide au choix du traitement" "show" %}}
 <div class="card card-hover card-list-material my-4">
   <div class="card-body">
-    <h3 class="card-title mt-0">Aide au choix du traitement d'<em>Helicobacter pylori</em> 2022</h3>
+    <h3 class="card-title mt-0">Aide au choix du traitement d'<em>Helicobacter pylori</em> 2021</h3>
     <h4 class="card-subtitle">Dr JB Fron d'après GEFH</h4>
     <p class="card-text">Le traitement devrait toujours être guidé (antibiogramme, PCR).</p>
     <input type="checkbox" id="btn-atbgramme" class="d-input-none" checked onclick="functionHp()">

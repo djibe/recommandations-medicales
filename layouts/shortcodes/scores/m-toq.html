@@ -1,35 +1,41 @@
 <div id="score-mtoq">
-<p lang="en">Migraine Treatment Optimization Questionnaire (M-TOQ-5 in primary care).<br>
-Traduction non officielle par Dr JB Fron.</p>
+<p lang="en">Migraine Treatment Optimization Questionnaire (M-TOQ-5 in primary care). Traduction non officielle par Dr JB Fron.</p>
+<p>Évaluer chaque type de traitement pris après 3 crises différentes (AINS, triptan voire paracétamol, aspirine).</p>
 <div class="custom-control custom-checkbox">
   <input type="checkbox" id="mtoq1" class="custom-control-input" value="1">
   <label class="custom-control-label" for="mtoq1">Êtes-vous capable de reprendre rapidement vos activités normales (travail, famille, loisirs, activités sociales) après avoir pris votre médicament contre la migraine&nbsp;?</label>
+  <p class="typography-caption text-black-secondary mt-2">&gt; Prise précoce, augmenter la dose, substituer par plus efficace (élétriptan ou rizatriptan),
+    combiner (AINS + triptan, triptan + métoclopramide)</p>
 </div>
 <div class="custom-control custom-checkbox">
   <input type="checkbox" id="mtoq2" class="custom-control-input" value="1">
   <label class="custom-control-label" for="mtoq2">Pouvez-vous compter sur votre médicament contre la migraine pour soulager votre douleur dans les 2h pour la plupart des crises&nbsp;?</label>
+  <p class="typography-caption text-black-secondary mt-2">&gt; Prise précoce, substituer par plus haut niveau de preuve (rizatriptan)</p>
 </div>
 <div class="custom-control custom-checkbox">
   <input type="checkbox" id="mtoq3" class="custom-control-input" value="1">
   <label class="custom-control-label" for="mtoq3">Est-ce qu'une seule dose de votre médicament contre la migraine soulage habituellement votre mal de tête et le fait disparaître pendant au moins 24h&nbsp;?</label>
+  <p class="typography-caption text-black-secondary mt-2">&gt; Prise précoce, augmenter la dose, substituer par efficacité prolongée (élétriptan ou frovatriptan)</p>
+</div>
+<div class="custom-control custom-checkbox">
+  <input type="checkbox" id="mtoq5" class="custom-control-input" value="1">
+  <label class="custom-control-label" for="mtoq5">Tolérez-vous bien le médicament contre la migraine&nbsp;?</label>
+  <p class="typography-caption text-black-secondary mt-2">&gt; Prise précoce, réduire la dose, substituer par meilleure tolérance (almotriptan ou naratriptan)</p>
 </div>
 <div class="custom-control custom-checkbox">
   <input type="checkbox" id="mtoq4" class="custom-control-input" value="1">
   <label class="custom-control-label" for="mtoq4">Êtes-vous suffisamment à l'aise avec votre médicament contre la migraine pour pouvoir planifier vos activités quotidiennes&nbsp;?</label>
+  <p class="typography-caption text-black-secondary mt-2">&gt; Si Oui aux 4 réponses précédentes mais satisfaction limitée, reprendre ses attentes et envisager un traitement de fond</p>
 </div>
-<div class="custom-control custom-checkbox">
-  <input type="checkbox" id="mtoq5" class="custom-control-input" value="1">
-  <label class="custom-control-label" for="mtoq5">Tolérez-vous bien le médicament contre la migraine ?</label>
-</div>
-<div class="alert bg-light d-md-flex">
+<div class="alert bg-light d-md-flex my-4">
   <div class="d-flex flex-column align-items-center">
     <p class="typography-overline score-output-title">Score M-TOQ-5</p>
     <output class="score-output" id="mtoqScore">0</output>
   </div>
-  <p id="mtoqText" class="lead m-auto">Faible risque de SAOS</p>
+  <p id="mtoqText" class="lead m-auto">Propositions détaillés sous chaque question</p>
 </div>
 </div>
-<blockquote class="mt-4">
+<blockquote>
   <p lang="en">
     <a href="https://doi.org/10.1111%2Fj.1468-2982.2008.01786.x" rel="external nofollow noopener">Lipton RB et al. Validity and reliability of the Migraine-Treatment Optimization Questionnaire. Cephalalgia Int J. Headache 2009;29:751–9.</a>
   </p>
@@ -39,22 +45,25 @@ Traduction non officielle par Dr JB Fron.</p>
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreMtoq = document.getElementById('mtoqScore')
     const textMtoq = document.getElementById('mtoqText');
-    [...document.querySelectorAll('#score-mtoq input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => {
-      mtoq()
-    }) })
+    [...document.querySelectorAll('#score-mtoq input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('change', () => { mtoq() }) })
     const mtoq = () => {
       let score = 0
       const elemsChecked = document.querySelectorAll('#score-mtoq input[type=\"checkbox\"]:checked')
       elemsChecked.forEach(elemChecked => {
         score += parseInt(elemChecked.value, 10)
         scoreMtoq.innerHTML = score
+        if (score === 5) {
+          textMtoq.innerHTML = 'Poursuivre le traitement actuel'
+        } else {
+          textMtoq.innerHTML = 'Voir les adaptations préconisées'
+        }
+        elemChecked.nextElementSibling.nextElementSibling.classList.add('d-none')
       })
-      if (elemsChecked.length === 5) {
-        textMtoq.innerHTML = 'Poursuite du traitement'
-      }
       if (elemsChecked.length === 0) {
-        // scoreMtoq.innerHTML = 0
+        scoreMtoq.innerHTML = 0
+        textMtoq.innerHTML = 'Propositions détaillés sous chaque question'
       }
+      [...document.querySelectorAll('#score-mtoq input[type=\"checkbox\"]:not(:checked)')].forEach(elemUnchecked => { elemUnchecked.nextElementSibling.nextElementSibling.classList.remove('d-none') })
     }
   })` }}
 <script>{{ $script | safeJS }}</script>

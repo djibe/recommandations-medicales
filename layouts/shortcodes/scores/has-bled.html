@@ -54,12 +54,12 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreBled = document.getElementById('bledScore')
     const textBled = document.getElementById('bledText');
-    [...document.querySelectorAll('#score-has-bled input')].forEach((elem) => { elem.addEventListener('change', () => { bled() }) })
+    var bledElems = document.querySelectorAll('#score-has-bled input');
+    bledElems.forEach((elem) => { elem.addEventListener('change', () => { bled() }) })
     const bled = () => {
       let score = 0
-      const bledElems = document.querySelectorAll('#score-has-bled input');
       bledElems.forEach(bledElem => {
-        if ((bledElem.checked) || (bledElem.type == 'number' && bledElem.value >= 1)) {
+        if (bledElem.checked || bledElem.type === 'number') {
           score += parseInt(bledElem.value, 10)
           scoreBled.innerHTML = score
           if (score < 3) {

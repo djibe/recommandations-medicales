@@ -2,32 +2,44 @@
 title = "Migraine"
 prefix = "la "
 shortname = ""
-synonyms = ["Aura migraineuse"]
+synonyms = ["Migraine avec ou sans aura", "aura migraineuse"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-12T13:03:13+01:00"
-publishdate = "2022-02-07"
-lastmod = "2022-02-07"
+publishdate = "2022-02-17"
+lastmod = "2022-02-17"
 specialites = ["neurologie"]
 annees = "2021"
 sources = ["SFEMC", "CNGOF"]
-tags = ["cephalees", "depistage"]
+tags = ["cephalees", "contraception", "depistage"]
 anglais = ["Migraine"]
 sctid = "37796009"
-draft = true
 image = true
 imageSrc = "Illustration de la migraine par stories / Freepik"
-todo = "utilisation M-TOQ, Global Assessment of Migraine Severity (GAMS) [23], recouper contraception et THM, Prescrire, EHF, migraine abdo enfant"
+todo = "titration Propranolol, Global Assessment of Migraine Severity (GAMS) [23], recouper contraception et THM, Prescrire, EHF, migraine abdo enfant"
 +++
+
+*Première version*
 
 {{%article-summary%}}
 
-- Triade: Évolution chronique par crises récurrentes avec intervalle libre + crises stéréotypées + examen clinique normal
-- Contre-indication: migraine + pilule + tabac
-- Réévaluer l'efficacité du traitement {{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}}
+- Triade: évolution chronique par crises récurrentes avec intervalle libre + crises stéréotypées + examen clinique normal
+- Contre-indication: migraine + pilule + tabac. Impacte le choix de la [contraception]({{< relref "contraception.md" >}})
+- Suivi à chaque consultation de l'[Agenda migraineux](https://www.sfemc.fr/images/docs_SFEMC/docs_PATIENTS/patients-AGENDA-DE-LA-MIGRAINE-def.pdf)
 - Traitement de la crise
-- Traitement de fond si > 2 j/sem depuis ≥ 3 mois consécutifs
-- Agenda migraineux
-- Suivi neuro si sévère: ≥ 8 jours/mois, {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50% des épisodes
+  - Réévalué après 3 crises ({{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}})
+  - Prescrire AINS et triptan selon traitements déjà essayés et préférences du patient, à avoir sur soi
+  - Crise légère: AINS, triptan si persistance à H1
+  - Crise modérée à sévère: triptan et AINS si persistance à H1
+  - Aura: AINS d'emblée et attendre le début de la céphalée pour prendre le triptan. Contre-indication aux estrogènes
+  - Mal tolérés: aspirine > paracétamol + métoclopramide
+  - Nausées/vomissements: métoclopramide
+  - Jamais d'opiacés
+- Traitement de fond
+  - ≥ 8 j/mois depuis ≥ 3 mois ou {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50% des épisodes ou migraine chronique (≥ 15 j/m)
+  - < 15 j/m: essai propranolol ou métoprolol 3 mois. Si échec ou contre-indication: amitriptyline, candésartan ou topiramate
+  - ≥ 15 j/m: topiramate
+- Suivi neurologique si aura atypique ou sévère, migraine résistante/réfractaire (échec de 3 traitements de fond, en centre spécialisé)  
+ou migraine sévère: ≥ 8 jours/mois, {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50% des épisodes
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -35,18 +47,18 @@ todo = "utilisation M-TOQ, Global Assessment of Migraine Severity (GAMS) [23], r
 Migraine
 : Pathologie neurovasculaire fréquente liée à des altérations subtiles neuronales et vasculaires. Facteur de risque vasculaire indépendant.  
 Origine génétique et environnementale avec altération très importante de la **qualité de vie**.
-: Dite **migraine épisodique** avec < 15 jours/mois, **chronique** au-delà (depuis > 3 mois).
+: Dite **migraine épisodique** avec < 15 jours/mois, **chronique** au-delà depuis > 3 mois.
 : **Migraine sévère:** crises fréquentes (≥ 8 jours/mois) OU {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 OU intensité impose un arrêt total des activités pour ≥ 50% des épisodes.
-: **Migraine résistante:** échec de 3 traitements de fond bien conduits. Dite réfractaire quand aucun ne fonctionne.
+: **Migraine résistante:** échec de 3 traitements de fond bien conduits. Dite **réfractaire** quand aucun ne fonctionne.
 : 30-45% des migraineux français n'ont jamais consulté, ignorent leur diagnostic et les traitements existants.  
 90% devraient être soulagés en soins primaires, 1% suivis en centre spécialisé.
 
 Migraine avec aura
-: *ex migraine accompagnée*. Aura présente chez ~30% des migraineux, elle augmente le risque vasculaire (AVC ischémique x 2).
+: *ex migraine accompagnée*. Aura présente chez 15-30% des migraineux, elle augmente le risque vasculaire (AVC ischémique x 2).
 : 4 types d'aura: visuelles (> 90% des auras) > sensitives (30% > aphasique, motrice (classée migraine hémiplégique).
 
 Migraine cataméniale
-: Survenue de migraine sans aura lors ≥ 2 cycles consécutifs/3, débutant entre le 2<sup>e</sup> jour précédant et le 3<sup>e</sup> jour suivant la période menstruelle (naturellement ou sous pilule).
+: Survenue de migraine sans aura sur ≥ 2 cycles/3, débutant entre le 2<sup>e</sup> jour précédant et le 3<sup>e</sup> jour suivant les règles (naturellement ou sous pilule).
 : Le diagnostic n'est retenu qu'en-dehors de toute autre crise en-dehors de la période menstruelle.  
 50% des migraineuses rapportent des crises cataméniales, < 10% rapportent une migraine cataméniale.
 : Les migraines cataméniales ont la particularité d'être très intenses avec moindre réponse au traitement de crise.
@@ -71,11 +83,17 @@ Crises pluriquotidiennes, 15-180 min, stricte unilatéralité fixe, arrachement,
 Très brèves (qq secondes à 2 minutes), strictement unilatérale V2/V3, neuropathique, gâchette, pas de phonophotophobie ou troubles digestifs.
 - Tumeur du 3<sup>e</sup> ventricule
 
-Avec aura: [AIT]({{< relref "accident-vasculaire-cerebral.md" >}}) (déficit avec début brutal et symptômes d'emblée maximaux) et épilepsie partielle (installation en 2-3 min, durée courte).
+Avec aura:
+
+- [AIT]({{< relref "accident-vasculaire-cerebral.md" >}})  
+Déficit de début brutal et symptômes d'emblée maximaux, souvent associés (moteur et sensitif), ± amaurose fugace ou hémianopsie, souvent > 40 ans.
+- Épilepsie partielle occipitale  
+Installation en quelques secondes, début en vision périphérique, formes circulaires colorées de qq secondes à minutes, début enfance/adolescence.
 
 ### Abréviations
 
 **EI:** effet indésirable  
+**Hx:** délai de x heures  
 **ICHD-3:** {{%lang%}}International Classification of Headache Disorders{{%/lang%}}  
 **MSA:** migraine sans aura
 
@@ -98,19 +116,21 @@ Examen clinique normal en dehors des crises.
 
 Critères A à E remplis:
 
-A. ≥ 5 crises répondant aux critères B à D
-B. Céphalées paroxystiques durant de 4 à 72 heures
-C. Céphalées avec ≥ 2 caractères suivants:  
+1. ≥ 5 crises répondant aux critères B à D
+1. Céphalées paroxystiques durant de 4 à 72 heures
+1. Céphalées avec ≥ 2 caractères suivants:  
   Unilatérale, pulsatile, intensité modérée/sévère, aggravée par ou entraînant l'évitement de l’activité physique de routine (marche, escaliers...).
-D. Céphalées associées à ≥ 1 caractère suivant:  
+1. Céphalées associées à ≥ 1 caractère suivant:  
     - Nausées/vomissements
     - Photophobie et phonophobie
-E. N'est pas mieux expliquée par un autre diagnostic de l'ICHD-3
+1. N'est pas mieux expliquée par un autre diagnostic de l'ICHD-3
+{.liste-lettres}
 
 L'**osmophobie** (dégoût des odeurs) est très spécifique de la crise migraineuse.  
 La douleur typique est frontale, orbitale, temporale et occipitale. Fréquemment cervicale et attribuée à tort à une névralgie d'Arnold.
 
-**Autres symptômes non douloureux:** allodynie, fatigue, bâillements, difficultés de concentration, changements d'humeur, raideur nucale, pâleur et vertiges.  
+**Autres symptômes non douloureux:** allodynie, fatigue, bâillements, difficultés de concentration, changements d'humeur, raideur nucale, pâleur et vertiges.
+
 **Signes autonomes possibles:** rougeur conjonctivale, larmoiement, congestion nasale, rhinorrhée, œdème de paupière, myosis ou ptosis (différencier d'AVF).  
 Ces symptômes peuvent précéder la crise de 2 jours et persister 2 jours après sa résolution.
 
@@ -118,33 +138,34 @@ Si l'un des critères A, B, C ou D n'est pas rempli en totalité: **migraine san
 
 ### Critères de la migraine avec aura
 
-A. ≥ 2 crises répondant aux critères B et C
-B. ≥ 1 symptôme d'aura entièrement réversible:
-    - Visuel
+1. ≥ 2 crises répondant aux critères B et C
+1. ≥ 1 symptôme d'aura **entièrement réversible**:
+    - **Visuel**
     - Sensitif
     - Parole et/ou langage
     - Moteur
     - Tronc cérébral
     - Rétinien
-C. ≥ 3 caractères parmi:
-    - ≥ 1 symptôme d'aura se développe progressivement sur ≥ 5 minutes
+1. ≥ 3 caractères parmi:
+    - ≥ 1 symptôme d'aura se développe **progressivement** sur ≥ 5 minutes
     - ≥ 2 symptômes d'aura surviennent successivement
-    - Chaque symptôme d'aura dure 5-60 minutes
+    - Chaque symptôme d'aura dure **5-60 minutes**
     - ≥ 1 symptôme d'aura est unilatéral
     - ≥ 1 symptôme d'aura est positif
     - L'aura est accompagnée, ou suivie dans les 60 minutes, d'une céphalée
-D. N'est pas mieux expliquée par un autre diagnostic de l'ICHD-3
+1. N'est pas mieux expliquée par un autre diagnostic de l'ICHD-3
+{.liste-lettres}
 
-Si les critères A, B et C sont présents: **migraine avec aura typique**.
+Si les critères A, B et C sont présents: **migraine avec aura typique**. L'aura peut survenir durant la céphalée.
 
 4 types d'aura: visuelles (> 90% des auras), sensitives, aphasique, motrice (classée migraine hémiplégique).  
-L'aura peut survenir durant la céphalée.  
+
 L'atteinte ophtalmique est **bilatérale**, positive (flashs lumineux, zig-zags) ou négative (scotome). Atypique si unilatérale (migraine rétinienne).  
 Les atteintes sensitives sont unilatérales, positives (fourmillements, picotements et aiguilles) ou négatives (engourdissement), débutant à la main avec déplacement vers le bras et le visage.
 
 L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de céphalée sans caractéristiques ou simplement isolée (aura sans céphalées).
 
-Symptômes atypiques d'aura: dysarthrie, vertiges, acouphènes, déficit moteur (migraine hémiplégique), migraine rétinienne.
+**Symptômes atypiques d'aura:** dysarthrie, vertiges, acouphènes, déficit moteur (migraine hémiplégique), migraine rétinienne.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -155,7 +176,7 @@ Symptômes atypiques d'aura: dysarthrie, vertiges, acouphènes, déficit moteur 
 Familiaux, autres douleurs...
 - Alcool, tabac
 - Risques de chronicisation
-  - Rechercher un syndrome anxieux/dépressif ++: {{< modal-btn modal-had >}}échelle HAD{{< /modal-btn >}}
+  - Rechercher un syndrome anxieux/dépressif ({{< modal-btn modal-had >}}échelle HAD{{< /modal-btn >}})
   - Abus médicamenteux ++
   - Terrain cardiovasculaire et respiratoire (asthme, hypertension artérielle)
   - Troubles du sommeil (ronflement, insomnie)
@@ -171,10 +192,10 @@ Familiaux, autres douleurs...
 - Critères diagnostiques ICHD-3 (voir chapitre dédié)
 - Antimigraineux
   - Traitements déjà essayés, crise/fond, efficacité, observance, tolérance, doses, durées, raison de l'arrêt
-  - Traitement actuel de crise/fond: mêmes questions, {{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}}
+  - Traitement actuel de crise/fond: {{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}}
 - Traitements non médicamenteux
 - Évaluer le handicap migraineux
-  - **Agenda migraineux** (date, durée, intensité, facteur déclenchant, traitements essayés)  
+  - **Agenda migraineux** (date, durée, intensité, facteur déclenchant, traitements essayés, [modèle](https://www.sfemc.fr/images/docs_SFEMC/docs_PATIENTS/patients-AGENDA-DE-LA-MIGRAINE-def.pdf))  
   Reconsulter lorsque traitement pris ≥ 2 jours/semaine depuis ≥ 3 mois.
   - Qualité de vie: {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}}  
   Reprendre à chaque consultation.
@@ -182,10 +203,9 @@ Familiaux, autres douleurs...
 
 ### Examen clinique
 
-- Pression artérielle, fréquence cardiaque **à chaque consultation**
+- Pression artérielle (aura ++), fréquence cardiaque **à chaque consultation**
 - Poids, taille, IMC
 - Examen neurologique
-TODO:
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -213,10 +233,14 @@ Début brutal, prolongé > 1 heure, latéralité fixe, absence de symptômes vis
 {{% /collapse %}}
 {{%collapse "Traitement de la crise et mesures générales" %}}
 
-**Objectifs:** rassurer, traitement de crise optimisé, hygiène de vie, gestion des risques de chronicisation (consommation antalgique, dépression), traitement de crise si indiqué.  
+**Objectifs:** Absence de douleurs à H2 du traitement de crise (ou réduction satisfaisante) avec maintien pendant 24 heures sans effets indésirables (ou minimes).  
+Les symptômes associés (digestifs, phonophotophobie) et la capacité à reprendre les activités doit aussi être évaluée. En cas d'aura, celle-ci devrait être atténuée.  
+Ces objectifs doivent être expliqués au patient.
+
+**Moyens:** Rassurer, {{< modal-btn modal-mtoq >}}traitement de crise optimisé{{< /modal-btn >}}, hygiène de vie, gestion des risques de chronicisation (consommation d'antalgiques, dépression), traitement de fond si indiqué.  
 Ne pas culpabiliser l'abus médicamenteux en migraine chronique (effet délétère).
 
-Avis neurologique: aura atypique ou sévère, migraine sévère, migraine résistante/réfractaire (en centre spécialisé).
+{{%info%}}Avis neurologique si aura atypique ou sévère, migraine sévère, migraine résistante/réfractaire (en centre spécialisé){{%/info%}}
 
 ### Hygiène de vie
 
@@ -224,133 +248,178 @@ Avis neurologique: aura atypique ou sévère, migraine sévère, migraine résis
 {{%class%}}Décuple le risque d'AVC.{{%/class%}}
 - Éviter les facteurs déclenchants identifiés  
 Habituels: facteur alimentaire, alcool, manque de sommeil/grasse matinée, stress, jeûne, chaleur, changements de climat.
-- Activité physique
+- Activité physique d'endurance régulière
 - Hydratation adaptée
 - Évolution du handicap migraineux (voir *Clinique*)
 - Nausées invalidantes ou vomissements: anti-émétiques recommandés
+- Stress, anxiété, retentissement  
+Relaxation, biofeedback, TCC, thérapie de pleine conscience.
+
+{{%warning%}}Aura = contre-indication aux contraceptions estroprogestatives{{%/warning%}}
 
 ### Traitement de la crise
 
-Traitement à avoir sur soi, à prendre le plus précocement possible (dans l'heure suivant l'installation de la céphalée).
+{{%info%}}
 
-Crise de migraine avec aura: prendre l'AINS d'emblée mais attendre le début de la céphalée pour prendre le triptan.
+### Exemple de prescription
+
+Prendre dès le début des symptômes (avoir sur soi):
+
+- Crise légère: ibuprofène 400 mg. Prendre le triptan si persistance des douleurs 1 heure après
+- Crise modérée à sévère: élétriptan 20 mg. Prendre l'ibuprofène 1 heure après si persistance des douleurs
+
+Consigner dans l''*agenda migraineux*. {{< modal-btn modal-mtoq >}}Reconsulter après 3 crises{{< /modal-btn >}}
+
+{{%/info%}}
+
+Traitement à avoir sur soi, à prendre le plus **précocement** possible (dans l'heure suivant l'installation de la céphalée).
+
+Prescrire AINS et triptan selon les traitements déjà essayés et préférences du patient:
+
+- Crise légère: AINS, triptan si persistance à H1
+- Crise modérée à sévère: triptan et AINS si persistance à H1
+- Aura: AINS d'emblée et attendre le début de la céphalée pour prendre le triptan
+  - Contre-indication aux estrogènes
+  - Pas de traitement médicamenteux spécifique contre l'aura
+- Mal tolérés: aspirine > paracétamol + métoclopramide
 
 #### Traitements disponibles
 
-- Traitements non spécifiques
-  - Paracétamol
-  - AINS: ibuprofène, kétoprofène, naproxène
-- Triptans
-  - **Max 2 prises/24h avec intervalle minimal de 2 heures entre les prises**
-  - cp: almotriptan 12,5 mg (Almogran), élétriptan 20/40 mg (Relpax), frovatriptan 2,5 mg (Isimig, Tigreat), naratriptan 2,5 mg (Naratriptan), rizatriptan 5/10 mg (Maxalt), sumatriptan 50 mg (Imigrane), zolmitriptan 2,5 mg (Zomigoro)
-  - Orodispersible: rizatriptan 5/10 mg (Maxalt)
-  - Sous-cutané: sumatriptan 6 mg/inj (Imigrane)
+##### Traitements non spécifiques
+
+Max 14 j/mois et 8 j/mois si associés (caféine ou métoclopramide).
+
+- Paracétamol 1g
+- Paracétamol + caféine 500/50 (efficacité comparable sumatriptan)  
+  Algodol, Céfaline hauth, Claradol caféine, Prontad, Actron (+ aspirine).
+- Paracétamol + métoclopramide (efficacité comparable sumatriptan)
+- AINS  
+  - Ibuprofène, kétoprofène, naproxène ou diclofénac, flurbiprofène
+  - Essai suppositoire si mal toléré (kétoprofène, naproxène, diclofénac)
+- Aspirine 1g (± métoclopramide Migpriv)
+- Nausées et vomissements  
+Métoclopramide 10 mg voire dompéridone 10 mg sont efficaces.
+
+{{%info%}}Ne pas utiliser les opiacés: aggravent les nausées, risque de céphalées par abus médicamenteux et mésusage{{%/info%}}
+
+##### Triptans
+
+Max 2 prises/24h avec intervalle minimal de 2 heures entre les prises.
+
+- Comprimé: **élétriptan** 20/40 mg (meilleur sur 24h) > **rizatriptan** 5/10 mg (2<sup>e</sup>) > sumatriptan 50 mg (<sup>3e</sup> avec 100 mg), almotriptan 12,5 mg, frovatriptan 2,5 mg, naratriptan 2,5 mg, zolmitriptan 2,5 mg
+- Orodispersible: **rizatriptan**, zolmitriptan
+- Nasal: sumatriptan 10 mg/0,1 mL
+- Sous-cutané: sumatriptan 6 mg/inj
   
 Les triptans:
 
-- Contre-indications: cardiopathie ischémique, hypersensibilité au produit
-- Différences minimes d'efficacité entre triptans mais grande variabilité inter-individuelle
+- Contre-indications: cardiopathie ischémique et {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}, hypersensibilité au produit
+- Absence de réponse (ou effets secondaires): augmenter la dose (réduire), changer de voie d'administration, changer de triptan
+- En cas de récidive des céphalées après 48h: coupler triptan + AINS
+- Reconsulter si triptan pris > 8 jours/mois
 - ≥ 3 essais du triptan lors de crises différentes avant de conclure à une inefficacité de la molécule (sauf mauvaise tolérance)
-- En cas d'absence de réponse, les autres molécules pourront être efficace
-- Reconsulter lorsque traitement pris ≥ 2 j/sem depuis > 3 mois
 
-{{%info%}}Ne pas utiliser: caféine associée au paracétamol, opioïdes (tramadol, codéine, opium, morphine){{%/info%}}
+#### Réévaluation du traitement de la crise
 
-#### Patient déjà traité par des traitements non spécifiques
+À chaque consultation avec le {{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}} (concerne AINS, triptan, paracétamol...)
 
-Demander systématiquement:
+#### Absence de réponse aux traitements
 
-1. Êtes-vous soulagé de manière significative 2 heures après la prise ?
-1. Utilisez-vous une seule prise médicamenteuse dans la journée ?
-1. Ce traitement est-il efficace sur au moins 2 crises sur 3 ?
-1. Ce médicament est-il bien toléré ?
+On parle de résistance après échec sur ≥ 3 crises de ≥ 2 traitements essayés en posologies/voies optimales des AINS et des triptans. Demander une avis neurologique.
 
-- Oui aux 4 questions: ne pas modifier le traitement
-- ≥ 1 réponse négative: prescrire sur la même ordonnance 1 AINS et 1 triptan
-  - AINS d'emblée dès les 1<sup>ers</sup> symptômes. Triptan en l'absence de soulagement à H2.
-  - AINS inefficace ou mal toléré: le triptan est prescrit d'emblée.
+#### Pour en savoir plus: traitement non pharmacologique de crise
 
-##### Réévaluation des AINS
-
-Réévaluation de l'AINS après 3 crises:
-
-- AINS efficace sur ≥ 2 crises: poursuivre le schéma AINS ± triptan
-- AINS efficace < 2 crises: triptan d'emblée
-
-##### Réévaluation des triptans
-
-Réévaluation du triptan après 3 crises:
-
-- Triptan efficace sur ≥ 2 crises: poursuivre le triptan d'emblée
-- Triptan efficace < 2 crises: vérifier la prise dans l'heure et la tolérance
-  - Pris trop tard: réessayer le même 3 fois
-  - Mal toléré: essayer 3 prises d'un autre triptan
-  - Bien pris et bien toléré: essayer 3 prises d'autre triptan
-
-Réévaluation du nouveau triptan après 3 crises:
-
-- Triptan efficace sur ≥ 2 crises : poursuivre le même triptan
-si triptan efficace dans moins de 2 crises : prise AINS + triptan en simultané.
-
-**Absence de réponse au traitement de la crise** = inefficacité de 2 triptans bien utilisés.
+Efficacité prouvée: Neuromodulation électrique. Sur prescription spécialisée uniquement.
 
 {{% /collapse %}}
 {{%collapse "Traitement de fond" %}}
 
-**Indications:** fréquence, intensité à l'origine d'un **handicap** familial/social/professionnel ou consommation de traitement de crise > 2 j/sem depuis ≥ 3 mois consécutifs.
+**Indications:**
+
+- Traitement de crise ≥ 8 j/mois depuis ≥ 3 mois
+- Migraine sévère  
+  Crises fréquentes (≥ 8 jours/mois) OU {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 OU intensité impose un arrêt total des activités pour ≥ 50% des épisodes.
+- Migraine chronique ≥ 15 j/m
+
+**Objectif:** réduire le nombre de jours de céphalées ≥ 50% en *migraine épisodique* (< 15 j/m) ou ≥ 30% en *migraine chronique* (≥ 15 j/m). Réévaluation au 3<sup>e</sup> mois.  
+Autres: réduire la consommation d'antalgiques, l'intensité et la durée des crises (et de l'aura) et améliorer la qualité de vie. Les objectifs doivent être expliqués au patient, ainsi que l'importance de l'**observance**.
 
 Traitement de fond à instaurer même si le traitement de crise est efficace (prévient la surconsommation d'antimigraineux).  
-Il ne supprime pas les crises mais réduit leur fréquence et leur intensité. **Agenda migraineux** afin d'évaluer son efficacité.
+Il ne supprime pas les crises mais réduit leur fréquence et leur intensité. **[Agenda migraineux](https://www.sfemc.fr/images/docs_SFEMC/docs_PATIENTS/patients-AGENDA-DE-LA-MIGRAINE-def.pdf)** afin d'évaluer son efficacité.
 
 Autres thérapies avec efficacité prouvée: relaxation, rétro-contrôle (biofeedback) et les thérapies cognitives et comportementales (TCC) de gestion du stress.
 
 **NB.** Ne pas recommander homéopathie, manipulations cervicales dans la prévention de la migraine.
 
-### Molécules de première intention
+### Traitement de fond de la migraine en première intention
 
-{{%info%}}TODO:{{%/info%}}
+{{%info%}}
 
-- Bêtabloquant
-  - Propranolol 40-240 mg/j  
-  EI: asthénie, mauvaise tolérance à l'effort; CI des BB.
-  - ou Métoprolol 100-200 mg/j  
-  EI: idem + CI des BB.
-- Topiramate
-- Adresser au centre expert des céphalées après échec des 2 classes à doses optimales = **migraine résistante**
+- Migraine épisodique (< 15 j/mois)
+  - [Propranolol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65135519&typedoc=R) 20-240 mg/j en 2 prises ou LP matin  
+  Effets indésirables: asthénie, mauvaise tolérance à l'effort; Contre-indications des BB.
+  - [Métoprolol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62837759&typedoc=R) LP 50-200 mg le matin
+  - Alternatives aux bêtabloquants: amitriptyline, candésartan ou topiramate
+- Migraine chronique
+  - [Topiramate](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67515484&typedoc=R) 50-200 mg en 1-2 prises
 
-- **Débuter:** en monothérapie, titration (tenir compte de la tolérance pour atteindre la posologie optimale)
+{{%/info%}}
+
+- **Débuter:** en monothérapie, **titration** (tenir compte de la tolérance pour atteindre la posologie optimale)
 - Le **traitement doit être poursuivi ≥ 3 mois** avant de conclure à une inefficacité
 - Évaluation de l'efficacité: suffisante si réduit le **nombre de crises de ≥ 50%**
   - Efficace: poursuivre le traitement 6 mois à 1 an, puis décroissance progressive
   - Efficacité insuffisante: augmentation de posologie si bien toléré
   - Mauvaise tolérance: essayer une autre molécule de 1<sup>re</sup> intention pendant ≥ 3 mois ou avis neurologique
 
-En cas d'échecs répétés: évaluer l'observance, rechercher un abus médicamenteux.  
+Traitement identique en cas de *céphalées par abus médicamenteux* associées, en retirant les antalgiques en excès et en informant sur leur responsabilité dans l'entretien des douleurs.
+
+### Inefficacité du traitement de fond
+
+Migraine épisodique après 2 échecs: évaluer l'observance, rechercher un abus médicamenteux, maximiser les doses, substituer par un autre traitement de fond.  
+Si douleurs < 8 j/mois: essayer d'autres traitements. Sinon, adresser au **centre expert des céphalées**.  
 **Migraine résistante:** échec de 3 traitements de fond bien conduits.
+
+Migraine chronique après échec du topiramate + 1 autre, adresser en centre expert.
 
 ### Arrêt d'un traitement de fond
 
-Après 6-12 mois de traitement, il est possible de tenter d’arrêter le traitement progressivement, par décroissance progressive.
-
+Après 6-12 mois de traitement, il est possible de tenter d’arrêter le traitement progressivement, par décroissance progressive.  
 Le même traitement peut être repris si les migraines récidivent.
 
-### Autres traitements
+### Pour en savoir plus: autres traitements de fond
 
-- Efficacité prouvée  
-amitriptyline, aténolol, candesartan, flunarizine, méthysergide, nadolol, naproxène sodique, nebivolol, timolol, venlafaxine, oxétorone.
-- 2e intention  
-pizotifène, flunarizine, valproate de sodium, gabapentine ou indoramine.
+Les nouveaux anti-CGRP ne peuvent être prescrits que par les neurologues et ne sont pas remboursés.  
+Autres traitements de fond (dose min-max en mg) et niveau de recommandation *SFEMC*:
 
-Uniquement sur avis neurologique.
+- Migraine épisodique (< 15 j/m)
+  - Recommandation élevée  
+  Amitriptyline 10-100 dîner, candésartan 8-32 en 1 ou 2/j, valproate 250-2000 soir ou 2/j
+  - Recommandation modérée  
+  Aténolol 50-200 matin, nébivolol 5-10 matin, timolol 10-60 en 2 prises, flunarizine 5-10 matin, lisinopril 5-40, oxétorone, pizotifène
+  - Recommandation faible: lévétiracétam, venlafaxine
+- Migraine chronique
+  - Recommandation modérée: amitriptyline 10-100, valproate
+  - Recommandation faible: propranolol, aténolol, candésartan, flunarizine, lévétiracétam
+
+Traitements de fond pouvant être proposés en migraine épisodique (< 15 j/m):
+
+- Acupuncture
+- Coenzyme Q10 300 mg/j (sans ordonnance)
+- Mélatonine libération immédiate 3 mg
+- TENS supra-orbitaire
+- Vitamine B2 400 mg/j (non disponible)
 
 {{% /collapse %}}
-{{%collapse "Critères de contrôle d'une migraine" %}}
+{{%collapse "Suivi et critères de contrôle d'une migraine" %}}
 
-- Traitement de la crise pris dans l'heure est efficace sur tous les critères:
+Réévaluation de l'Agenda migraineux, {{< modal-btn modal-hit6 >}}qualité de vie HIT-6{{< /modal-btn >}} et {{< modal-btn modal-had >}}retentissement HAD{{< /modal-btn >}}.
+
+- Traitement de la crise pris dans l'heure est efficace sur tous les critères (ou {{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}}):
     1. Soulagement significatif de la céphalée à H2
     2. Nécessité d'une seule administration d'antimigraineux pour ce soulagement
     3. Traitement efficace ≥ 2 fois/3
-- En cas de traitement de fond, ≥ 1 critère rempli:
+- En cas de traitement de fond, ≥ 1 critère rempli durant le 3<sup>e</sup> mois de traitement:
   - Réduit les crises de migraine épisodique de 50%
   - Réduit les crises de migraine chronique de 30%
 - Tous les traitements remplissent tous les critères:
@@ -365,16 +434,15 @@ Uniquement sur avis neurologique.
 
 ### Migraine cataméniale
 
-Traitement identique aux crises survenant en-dehors de la période menstruelle.
+Céphalées survenant exclusivement J1 ± 2 des règles sur ≥ 2 cycles/3.  
+Dite *migraine liée aux menstruations* si des crises surviennent également en dehors des J-2 à J+3.  
+Le traitement des crises est identique.
 
-En cas de traitement de crise inefficace, un traitement préventif séquentiel est possible (limité à la période menstruelle, sans AMM):
+En cas de traitement de crise inefficace:
 
-- Estradiol cutané (Oestrogel®) 1,5 mg/j pendant 7 jours en débutant à J-2 avant le 1er jour des règles (et en poursuivant pendant leur durée)
-- Ou frovatriptan 2,5 mg x 2/j
-- Ou naratriptan 1 mg x 2/j
-- Ou zolmitriptan 2,5 mg x 2/j
-- Ou [contraception œstroprogestative]({{< relref "contraception.md" >}}) en continu
-- Ou [contraception progestative]({{< relref "contraception.md" >}}) pure
+- [Contraception œstroprogestative]({{< relref "contraception.md" >}}) en continu ou période libre raccourcie (contre-indiquée si aura)
+- [Contraception progestative]({{< relref "contraception.md" >}}) pure
+- Naproxène quelques jours (surtout si dysménorrhées)
 
 ### Migraine et contraception orale
 
@@ -391,19 +459,22 @@ Contre-indication à la triade : migraine + pilule + tabac.
 
 Informer:
 
-- Les migraines ne perturbent pas le déroulement de la grossesse
-- Une rémission partielle voire totale est souvent observée  
+- Les migraines ne perturbent pas le déroulement de la grossesse ou l'allaitement  
+  Augmentation du risque d'hypertension gravidique, de prééclampsie et de petit poids de naissance.
+- Une rémission partielle voire totale est souvent observée (avec aura peut s'aggraver)  
 Le traitement reste possible pendant la grossesse et ne limite pas l'allaitement.
 - Ne pas débuter de traitement prophylactique
-- Traitement de la crise: paracétamol, AINS avant le 5<sup>e</sup> mois
+- Traitement de la crise: paracétamol si légère, sumatriptan si plus forte  
+  Voire zolmitriptan ou rizatriptan.
 - Médicaments contre-indiqués  
-Dérivés ergot de seigle, (di)-valproate de sodium, aspirine et AINS à partir du 5<sup>e</sup> mois
+CGRP, dérivés ergot de seigle, (di)-valproate de sodium, aspirine et AINS à partir du 5<sup>e</sup> mois (évités déjà avant)
 - Rappeler le risque de l'auto-médication (ibuprofène, préparations de parapharmacie)
 
 #### Traitement de fond pendant la grossesse
 
 Si crises invalidantes persistantes:
 
+- Traitements non pharmacologiques: activité physique, acupuncture, TENs
 - [Propranolol](http://lecrat.fr/articleSearchSaisie.php?recherche=propranolol) ou métoprolol en 1<sup>re</sup> intention
 - Amitriptyline en 2<sup>e</sup> intention
 
@@ -422,7 +493,10 @@ Toute utilisation de traitement de fond doit être rapportée à la pharmacovigi
 {{% /collapse %}}
 {{%sources%}}
 
-- [Demarquay G. et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 1: Diagnosis and assessment. Revue Neurologique. Vol 177, Iss 7. 2021.](https://doi.org/10.1016/j.neurol.2021.07.001)
+- [Demarquay G. et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 1: Diagnosis and assessment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.001)
+- [Ducros A. et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 2: Pharmalogical treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.006)
+- [Demarquay G. et al. Revised guidelines of the French headache society for the diagnosis and management of migraine in adults. Part 3: Non-pharmacological treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.009)
+- [Lucas C. Migraine with aura. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.010)
 - [Donnet A. et al. Severe migraine and its control: A proposal for definitions and consequences for care. Revue neurologique. 2021.](https://doi.org/10.1016/j.neurol.2020.11.012)
 - [Lanteri-Minet M. et al. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant. Revue Neurologique. Volume 169. Issue 1. 2013. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20sur%20la%20prise%20en%20charge%20diagnostique%20et%20th%C3%A9rapeutique%20de%20la%20migraine%20chez%20l%2527adulte%20et%20chez%20l%2527enfant%20(1).pdf)
 - [Anaes. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant : aspects cliniques et économiques. Recommandations de bonne pratique. Octobre 2002.](https://www.has-sante.fr/jcms/c_272212/fr/prise-en-charge-diagnostique-et-therapeutique-de-la-migraine-chez-l-adulte-et-chez-l-enfant-aspects-cliniques-et-economiques)
@@ -442,5 +516,10 @@ Toute utilisation de traitement de fond doit être rapportée à la pharmacovigi
 {{% modal title="Score M-TOQ-5" id="modal-mtoq"%}}
 
 {{< scores/m-toq >}}
+
+{{% /modal %}}
+{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
+
+{{< clinique/risque-cardiovasculaire >}}
 
 {{% /modal %}}

@@ -6,7 +6,7 @@ synonyms = ["Arythmie complète par fibrillation auriculaire ou ACFA"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-05T17:43:41+02:00
 publishdate = 2022-02-10
-lastmod = 2022-02-10
+lastmod = 2022-02-14
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["ESC", "HAS"]
@@ -138,7 +138,7 @@ HTA, diabète, insuffisance cardiaque, coronaropathie, valvulopathie, insuffisan
 AVC, insuffisance cardiaque.
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} ± {{< scores/heartscore >}}
 - Épisode aigu récent  
-Fièvre, infection, manque de sommeil, réaction vagale, chirurgie, réaction vagale, infarctus, péricardite.
+Fièvre, infection, manque de sommeil, réaction vagale, chirurgie, infarctus, péricardite.
 - Tabac, alcool, toxiques
 - Activité physique
 - Traitements en cours et {{< modal-btn modal-observance >}}observance{{< /modal-btn >}}  
@@ -326,7 +326,7 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 
 - Diagnostic
   - Définition et mécanisme
-  - Pas de risque de mort subite mais risque TE prévenu par l'anticoagulation
+  - Pas de risque de mort subite mais risque thrombo-embolique prévenu par l'anticoagulation
 - Facteurs favorisants et leur correction
 - Symptômes, savoir les reconnaître et les signaler
 - Complications

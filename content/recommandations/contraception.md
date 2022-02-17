@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2022-01-24"
+lastmod = "2022-02-17"
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -85,7 +85,7 @@ Possibles seulement si 1 seul facteur de risque cardiovasculaire isolé parmi:
 - Diabète type 2
 - Migraine sans aura
 
-> *CNGOF 2018*
+> *CNGOF 2018 et SFEMC 2021*
 {{%/info%}}
 
 La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas les risques veineux et artériels (sauf acétate de médroxyprogestérone intramusculaire). Elle est recommandée en cas de contre-indication figurant ci-dessus.

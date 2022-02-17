@@ -57,6 +57,14 @@ h4 {
   letter-spacing: normal;
 }
 
+h5 {
+  font-size: 1.25rem;
+}
+h6 {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
 @media (min-width: 1200px) {
   h1 {
     font-size: 3.5rem;
@@ -70,13 +78,6 @@ h4 {
   }
   h4 {
     font-size: 1.5rem;
-  }
-  h5 {
-    font-size: 1.25rem;
-  }
-  h6 {
-    font-size: 1rem;
-    font-weight: 500;
   }
 }
 
@@ -304,6 +305,7 @@ article {
     @extend .typography-body-1;
   }
   ol:not([class]),
+  ol.liste-lettres,
   ul:not([class]) {
     @extend .typography-body-1;
     li {
