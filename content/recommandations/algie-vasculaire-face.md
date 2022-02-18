@@ -157,7 +157,7 @@ Un fond douloureux persistant est possible entre les crises en forme chronique.
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-- Migraine  
+- [Migraine]({{< relref "migraine.md" >}})  
 Moins sévère et plus longue, signes dysautonomiques bilatéraux, tendance au repli.
 - [Névralgie du trijumeau]({{< relref "nevralgie-trigeminale-classique.md" >}})  
 Après 50 ans, salves très brèves de quelques minutes. Territoires V2 et V3, dysautonomie minime, zone gâchette.

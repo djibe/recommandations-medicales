@@ -6,7 +6,7 @@ synonyms = ["Migraine avec ou sans aura", "aura migraineuse"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-12T13:03:13+01:00"
 publishdate = "2022-02-17"
-lastmod = "2022-02-17"
+lastmod = "2022-02-18"
 specialites = ["neurologie"]
 annees = "2021"
 sources = ["SFEMC", "CNGOF"]
@@ -31,13 +31,11 @@ todo = "titration Propranolol, Global Assessment of Migraine Severity (GAMS) [23
   - Crise légère: AINS, triptan si persistance à H1
   - Crise modérée à sévère: triptan et AINS si persistance à H1
   - Aura: AINS d'emblée et attendre le début de la céphalée pour prendre le triptan. Contre-indication aux estrogènes
-  - Mal tolérés: aspirine > paracétamol + métoclopramide
   - Nausées/vomissements: métoclopramide
   - Jamais d'opiacés
 - Traitement de fond
   - ≥ 8 j/mois depuis ≥ 3 mois ou {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50% des épisodes ou migraine chronique (≥ 15 j/m)
   - < 15 j/m: essai propranolol ou métoprolol 3 mois. Si échec ou contre-indication: amitriptyline, candésartan ou topiramate
-  - ≥ 15 j/m: topiramate
 - Suivi neurologique si aura atypique ou sévère, migraine résistante/réfractaire (échec de 3 traitements de fond, en centre spécialisé)  
 ou migraine sévère: ≥ 8 jours/mois, {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50% des épisodes
 
@@ -231,7 +229,7 @@ Début brutal, prolongé > 1 heure, latéralité fixe, absence de symptômes vis
   - Si scanner sans injection normal: IRM cérébrale avec angioIRM artérielle et veineuse
 
 {{% /collapse %}}
-{{%collapse "Traitement de la crise et mesures générales" %}}
+{{%collapse "Traitement de la crise migraineuse et mesures générales" %}}
 
 **Objectifs:** Absence de douleurs à H2 du traitement de crise (ou réduction satisfaisante) avec maintien pendant 24 heures sans effets indésirables (ou minimes).  
 Les symptômes associés (digestifs, phonophotophobie) et la capacité à reprendre les activités doit aussi être évaluée. En cas d'aura, celle-ci devrait être atténuée.  

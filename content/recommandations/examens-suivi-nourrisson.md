@@ -2,6 +2,7 @@
 title = "Examens de suivi de l'enfant et de l'adolescent"
 prefix = "les "
 titleSeo = "Suivi de l'enfant"
+description = "Liste des 20 examens du nourrisson et de l'enfant remboursés à 100% avec leur code de facturation"
 shortname = "Suivi pédiatrique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

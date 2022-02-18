@@ -2,6 +2,7 @@
 title = "Services d'urgences ophtalmologiques"
 prefix = "les "
 titleSeo = "Urgences ophtalmologiques"
+description = "Liste non exhaustive des Services d'urgences ophtalmologiques en France métropolitaine avec leurs coordonnées"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-07T13:22:41+02:00

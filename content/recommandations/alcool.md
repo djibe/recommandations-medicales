@@ -16,34 +16,57 @@ sctid = ""
 draft = false
 image = true
 imageSrc = "Les verres standards par Alcool-Info-Service"
-todo = "retentissement somatique, indications hospit, centres de cure, bilan des complications, supplémentations, https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa"
+todo = "Audit C seuils + bas sujet âgé, entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, indications hospit, centres de cure, bilan des complications, supplémentations, https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa"
 +++
 
 {{%article-summary%}}
 
-- *Version préliminaire pour disposer des outils de dépistage*
-- 1 verre standard = 10g d'alcool
-- << Pour votre santé, l'alcool c'est maximum 2 verres par jour et pas tous les jours >> (max 10/semaine, *[affiche SPF](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/affiche/pour-votre-sante-l-alcool-c-est-maximum-2-verres-par-jour-et-pas-tous-les-jours)*), 0 alcool pendant la grossesse et chez les enfants
-- [Alcool Info Service](https://www.alcool-info-service.fr/) ou {{<phone>}}0 980 980 930{{</phone>}}
+*Version préliminaire pour disposer des outils de dépistage*
+
+1. Repérage: consommation moyenne par jour, fréquence mensuelle de consommation ≥ 6 verres, autres toxiques (voir *Dépistage*)
+2. Évaluation: AUDIT-C ou FACE d'un mésusage, comorbidités (voir *Évaluation*)
+3. Intervention brève
+4. Dépistage des complications
+
+- 1 verre standard = 10g d'alcool. << Pour votre santé, l'alcool c'est maximum 2 verres par jour et pas tous les jours >> (max 10/semaine, *[affiche SPF](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/affiche/pour-votre-sante-l-alcool-c-est-maximum-2-verres-par-jour-et-pas-tous-les-jours)*)
+- 0 alcool pendant la grossesse et chez les enfants
+- [Alcool Info Service](https://www.alcool-info-service.fr/) ou {{<phone>}}0 980 980 930{{</phone>}}, [liste des CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html)
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Alcool
 : Substance psychoactive la plus utilisée en France (suivie de tabac et cannabis). Plus précisément *éthanol*, obtenu par fermentation de fruits, grains ou tubercules.
 : Concentration plasmatique maximale atteinte en 45 minutes (90 pendant un repas). 95% est éliminé par le foie.
-: Marqueurs de consommation: VGM et GGT
+: 1 verre standard contient 10 grammes d'alcool pur (éthanol). Marqueurs de consommation: VGM et GGT.
+: Objectifs principaux de la prise en charge du mésusage: éviter l'évolution vers des complications, réduire les dommages consécutifs et améliorer la qualité de vie des patients.
+
+5 catégories d'usage de l'alcool:
+
+1. Non-usage ou abstinence
+2. Usage simple ou à faible risque  
+  Consommation asymptomatique et inférieure aux seuils recommandés (voir *Dépistage*).
+3. Mésusage
+    - Usage à risque  
+    Asymptomatique mais susceptible d'entraîner des dommages.
+    - Usage nocif
+    - Usage avec dépendance
+
+L'*usage nocif* et la *dépendance*, dits **troubles liés à l'usage de l'alcool** (CIM-10), sont caractérisés par des symptômes visibles sur le plan **social**, **psychologique** ou **médical**.
 
 ### Abréviations
 
 - **API:** alcoolisations ponctuelles importantes (≥ 6 verres/occasion)  
+- **CSAPA:** Centres de soins, d'accompagnement et de prévention en addictologie (CSAPA)  
 - **FACE:** Formule pour Approcher la Consommation d'alcool par Entretien  
 - **RPIB:** repérage précoce et intervention brève  
+- **SSA:** syndrome de sevrage alcoolique  
 - **TCC:** thérapies cognitives et comportementales
 
 ### Épidémiologie
 
 - 1<sup>re</sup> substance addictive en coût social
+- Responsable d'1/3 des décès prématurés
 - Décès: 41.000 annuels (30.000 hommes)
   - Cancers: 30.000 annuels attribuables (2<sup>e</sup> cause évitable derrière le tabac)  
 Bouche, pharynx, larynx, œsophage, foie, côlon-rectum, sein. Augmentation du risque/unité alcool de 9 à 168% selon les localisations (bouche, pharynx, larynx +++).
@@ -70,9 +93,17 @@ Alcoolisation fœtale est la 1<sup>re</sup> cause de handicap non génétique.
 {{% /collapse %}}
 {{%collapse "Dépistage = consommation déclarée" "show" %}}
 
-Questions pour dépister une consommation à risque:
+Questions pour dépister une consommation à risque (mésusage):
 
 {{< clinique/addiction-reperage >}}
+
+Demander aussi la fréquence des jours avec forte consommation ≥ 6 verres
+Chez l'enfant: << Y a-t-il déjà eu consommation d'alcool au moins une fois ? >>  
+Toute consommation pendant la **grossesse** est un mésusage. Orienter rapidement vers service d'addictologie, gynécologique, psychologique et social.
+
+Occasions pour dépister un mésusage: consultation de routine, prescription d'un médicament interagissant avec l'alcool, désir de grossesse, tabagisme, jeune adulte, troubles psychiatriques, précarité, pathologie cardiovasculaire, pathologie résistante au traitement (douleur, dépression, diabète...).
+
+**NB.** Les GGT, VGM et CDT sont trop peu sensibles pour le dépistage d'un mésusage.
 
 ### Pratiques à risque majorant les dommages
 
@@ -116,15 +147,60 @@ De 0 à 10, évaluer:
 {{% /collapse %}}
 {{%collapse "Dépistage des complications" %}}
 
+Rechercher les complications d'un mésusage de l'alcool:
+
+- Addictions
+- Sociales
+  - Travail, contrat, formation
+  - Foyer, famille, entourage
+  - Hébergement, finances
+  - Judiciaire, violence
+- Psychiatrique
+  - Anxiété, dépression
+  - Troubles du sommeil
+  - Trouble bipolaire ou de personnalité  
+  Évaluation nécessite consommation à faible risque pendant 15 jours.
+  - Évaluation du risque suicidaire
+  - Troubles cognitifs  
+  Test MoCA à distance du sevrage voire évaluation neuropsychologique.
+- Somatique
+  - Accidents répétés
+  - Érythrose du visage, hyperémie conjonctivale
+  - Troubles digestifs
+  - Maladie alcoolique du foie (MAF)  
+  Stéatose > stéato-hépatite > cirrhose.
+  - Polynévrite
+  - {{< modal-btn modal-mna >}}Dépister une dénutrition (MNA){{< /modal-btn >}}
+
+### Bilan complémentaire
+
+Le bilan biologique est annuel.
+
+- NFS
+- ASAT ALAT GGT PAL TP
 - Sérologies VHB et VHC
+- Sérologie VIH si expositions à risque
 - Consultation ORL
 - Consultation dentaire
+- Troubles neurologiques: bilan de [dénutrition]({{< relref "denutrition.md" >}} ) et carences (B1 ++)
+
+### Maladie alcoolique du foie
+
+Diagnostic si mésusage de l'alcool, cytolyse 2-5N prédominant sur les ASAT, GGt augmentées, élimination des autres hépatopathies.
+
+Un bilan hépatique normal permet d'exclure une MAF significative à court terme.
 
 {{% /collapse %}}
 {{%collapse "Sevrage en alcool et maintien de l'abstinence" %}}
 
+L'objectif est l'amélioration de la qualité de vie des personnes.  
+Il est recommandé de **promouvoir l'abstinence** mais d'**accepter les objectifs de consommation du patient** s'il choisit une réduction de la consommation (idéalement à faible risque). Toute réduction de consommation doit être valorisée.
+
+Installer une alliance thérapeutique sur la définition du problème à résoudre et les objectifs à poursuivre.
+
+- Favoriser le soutien de l'entourage
 - Consultation d'addictologie
-- Centre de cure ambulatoire et d'alcoologie le plus proche (CCAA)
+- Centres de soins, d'accompagnement et de prévention en addictologie ([CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html))
 - Équipe de liaison en addictologie
 - Livret d'information  
 Maladie alcoolique, sevrage, intérêt de l'accompagnement, coordonnées des acteurs.
@@ -140,18 +216,43 @@ Seulement si persistant après 4 semaines d'abstinence.
 Appétence sucrée marquée au sevrage.
 - Mouvement d'entraide  
 TODO: liste
+- ALD 30, MDPH
 
 ### Sevrage hospitalier
 
+Indications à l'hospitalisation:
+
+- Syndrome de Korsakoff
+- Encéphalopathie de Gayet-Wernicke
+TODO:
+
 ### Thérapeutiques
 
-Symptômes de sevrage: benzodiazépines max 8-10 jours
-oxazépam
-Visée anxiolytique, préférer demi-vie longue type diazépam.
-Aucun effet après l'arrêt de l'alcool.
-Contre-indiquées en cirrhose.
+#### Prévention du syndrome de sevrage alcoolique (SSA)
 
-Acamprosate, naltrexone.
+{{%info%}}
+Diazépam 10 mg 2 à 4 fois par jour pendant 2-3 jours, puis réduction progressive et arrêt à 7-10 jours  
+Doses réduites chez l'adolescent et le sujet âgé.
+{{%/info%}}
+
+Symptômes de sevrage: benzodiazépines à demi-vie longue type diazépam max 8-10 jours (*SFA 2015*). Contre-indiquée en cirrhose.  
+Les benzodiazépines n'ont aucune indication dans l'aide au maintien de l'abstinence.
+
+#### Vitamines
+
+- Thiamine vitamine B1 (30-80% de carences)  
+  500 mg/j pendant 5 jours puis 250 mg/j pendant 14 jours. Voie IV si dénutrition.
+- Sujet dénutri  
+  Vitamines B6 (max 1 mois), PP, C, acide folique, zinc et magnésium quelques jours.
+
+#### Prévention des rechutes
+
+Acamprosate ou naltrexone en premirèe intention.
+
+##### Autres traitements
+
+- Disulfiram (Espéral)  
+  Indication: patient motivé souhaitant l'abstinence avec ce médicament. Nombreuses interactions et contre-indications.
 
 ### Suivi
 
@@ -227,6 +328,7 @@ L'option la plus sûre est de ne pas consommer d'alcool en cas de:
 
 - [HAS. Outil d'aide au repérage précoce et intervention brève : alcool, cannabis, tabac chez l'adulte. Janvier 2021.](https://www.has-sante.fr/jcms/c_1795221/fr/outil-d-aide-au-reperage-precoce-et-intervention-breve-alcool-cannabis-tabac-chez-l-adulte)
 - [Addictions France. Les repères de consommation des boissons alcooliques. Novembre 2018. (PDF)](https://addictions-france.org/datafolder/uploads/2021/02/Fiche-Reperes-Reperes-alcool.pdf)
+- [SFA, ANPAA, EUFAS. Mésusage de l'alcool dépistage, diagnostic et traitement. 2015.](http://www.sfalcoologie.asso.fr/download/RBP2014-SFA-Mesusage-AA.pdf)
 - [ANAES, SFA. Modalités de l'accompagnement du sujet alcoolodépendant après un sevrage. 2001.](https://www.has-sante.fr/jcms/c_271905/fr/modalites-de-l-accompagnement-du-sujet-alcoolodependant-apres-un-sevrage)
 - [Santé Publique France. Alcool.](https://www.santepubliquefrance.fr/determinants-de-sante/alcool)
 - [Fédération Addiction](https://www.federationaddiction.fr/)
@@ -249,3 +351,8 @@ L'option la plus sûre est de ne pas consommer d'alcool en cas de:
 - <https://www.fmcgastro.org/texte-postu/postu-2020-paris/sevrage-en-alcool-et-maladies-chroniques-du-foie/>
 
 {{%/sources%}}
+{{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
+
+{{< scores/mna >}}
+
+{{% /modal %}}

@@ -2,7 +2,7 @@
 title = "Métatarsalgies et névrome de Morton"
 prefix = "les "
 titleSeo = "Névrome de Morton"
-shortname = "Névrome"
+description = "Recommandations sur les examens et traitements à proposer en cas de névrome de Morton ou de métatarsalgies. Radiographies, semelles ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-08T08:58:20+02:00
@@ -14,7 +14,6 @@ sources = ["RevMedSuis"]
 tags = []
 anglais = ["Morton's metatarsalgia"]
 sctid= "30085007"
-draft = false
 qualite = "faible"
 image = true
 imageSrc = "Photo de gm.esthermax sur Foter.com"

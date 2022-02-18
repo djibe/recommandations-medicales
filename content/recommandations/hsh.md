@@ -2,6 +2,7 @@
 title = "Hommes ayant des rapports sexuels avec des hommes"
 prefix = "les "
 titleSeo = "HSH"
+description = "Mesures de prévention à proposer aux hommes ayant des rapports sexuels avec des hommes (HSH): PrEp, sérologies des MST..."
 synonyms = ["Homosexuel ou bisexuel masculin"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-22T17:43:41+02:00

@@ -1,17 +1,15 @@
 +++
 title = "e-CPS et authentification mobile du médecin"
 titleSeo = "e-CPS et authentification"
-description = "La carte e-CPS"
+description = "Apprendre à créer sa carte e-CPS afin de bénéficier de connexions facilitées en mobilité ou sans sa carte CPS"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2022-01-20T09:00:00+02:00
 publishdate = 2022-01-20
 lastmod = 2022-01-20
 sources = []
 tags = []
-draft = false
 image = false
 imageSrc = ""
-todo = ""
 +++
 
 {{%warning%}}Si vous recevez une notification de connexion de l'appli e-CPS et que vous n'êtes pas à l'origine de la connexion, refusez la connexion et référez-vous à la partie Fraude à la e-CPS{{%/warning%}}

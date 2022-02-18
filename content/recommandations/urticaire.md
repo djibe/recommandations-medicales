@@ -8,12 +8,11 @@ date = 2020-10-27T17:43:41+02:00
 publishdate = 2020-10-27
 lastmod = 2021-11-29
 specialites = ["allergologie", "dermatologie"]
-annees = "2003"
-sources = ["ANAES", "SFDermato", "CEDEF"]
+annees = "2019"
+sources = ["SFDermato", "CEDEF"]
 tags = ["prurit"]
 anglais = ["Urticaria"]
 sctid = "126485001"
-draft = false
 flowchart = true
 image = true
 imageSrc = "Urticaire superficielle. Photo de woofiegrrl sur Foter.com / CC BY-ND"
@@ -396,6 +395,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [SFD. Traitement de l'urticaire chronique spontanée. 2019. (PDF)](https://document.sfdermato.org/reco/urticaire-chronique-spontan%C3%A9e/SFD_urticaire-chronique-spontan%C3%A9e_synth%C3%A8se_2019-11.pdf)
 - [Hôpital Necker. Facteurs susceptibles d'induire la dégranulation mastocytaire.](http://www.maladiesrares-necker.aphp.fr/facteurs-susceptibles-dinduire-la-degranulation-mastocytaire/)
 - [Collège des Enseignants d'Immunologie de Langue Française. Item 114 : Urticaire et œdème de Quincke : diagnostic, étiologie, traitement. 2011. (PDF)](http://campus.cerimes.fr/immunologie/enseignement/immuno_114a/site/html/cours.pdf)
 - [Dermato-info. L'urticaire.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99urticaire)
@@ -404,7 +404,6 @@ graph TB
 ### À lire
 
 - [SFD. Recommandations urticaire chronique spontanée. Arbre décisionnel. Décembre 2019.](https://reco.sfdermato.org/fr/recommandations-urticaire-chronique-spontan%C3%A9e)
-- [SFD. Traitement de l'urticaire chronique spontanée. 2019.](https://document.sfdermato.org/reco/urticaire-chronique-spontan%C3%A9e/SFD_urticaire-chronique-spontan%C3%A9e_synth%C3%A8se_2019-11.pdf)
 - [CEDEF. Dermatite atopique. UE7 Item 163. 2017.](https://undf.cedef.org/fr/document/Hypersensibilit%C3%A9s-et-allergies-cutan%C3%A9o-muqueuses-chez-l%E2%80%99enfant-et-l%E2%80%99adulte)
 
 {{%/sources%}}

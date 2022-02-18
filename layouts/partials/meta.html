@@ -34,10 +34,10 @@
 
 <!-- Description Tags 50-160 ch -->
 {{ $metaDescription := "" }}
-{{ if and (eq .Section "recommandations") (eq .Kind "page") }}
-  {{ $metaDescription = (printf "%s %s%s %s" "Recommandations pour" .Params.Prefix .Params.Title "en médecine générale. Conduite à tenir en consultation, arbre décisionnel et bilan de première intention." ) }}
-{{ else if .Description }}
+{{ if .Description }}
   {{ $metaDescription = .Params.description }}
+{{ else if and (eq .Section "recommandations") (eq .Kind "page") }}
+  {{ $metaDescription = (printf "%s %s%s %s" "Recommandations pour" .Params.Prefix .Params.Title "en médecine générale. Conduite à tenir en consultation, arbre décisionnel et bilan de première intention." ) }}
 {{ else }}
   {{ $metaDescription = $.Site.Params.description }}
 {{ end }}

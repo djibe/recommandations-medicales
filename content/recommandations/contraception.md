@@ -67,7 +67,7 @@ Seuls les COP contenant ≥ 50 µg d'EE sont associées au risque d'accident art
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
 - Dyslipidémie non contrôlée
 - Diabète type 1 > 20 ans ou compliqué
-- Migraine avec aura
+- [Migraine avec aura]({{< relref "migraine.md" >}})
 - Migraine de novo ou aggravation des migraines sous œstroprogestatifs
 - Thrombophilie
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé{{< /modal-btn >}}
@@ -82,8 +82,8 @@ Possibles seulement si 1 seul facteur de risque cardiovasculaire isolé parmi:
 - Surpoids, obésité
 - Tabac > 15 cig/j
 - Dyslipidémie contrôlée
-- Diabète type 2
-- Migraine sans aura
+- [Diabète type 2]({{< relref "diabete-type-2.md" >}})
+- [Migraine sans aura]({{< relref "migraine.md" >}})
 
 > *CNGOF 2018 et SFEMC 2021*
 {{%/info%}}

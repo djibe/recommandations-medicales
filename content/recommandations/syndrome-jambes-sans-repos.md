@@ -106,7 +106,7 @@ Aggravation par inhibiteurs calciques, PTH basse, CST bas, diabète de type 2.
 {{%class text-black-secondary %}}Prévalence de 15 à 68%.{{%/class%}}
 - Hémochromatose
 - Pathologie cardiovasculaire (moindre)
-- Migraine  
+- [Migraine]({{< relref "migraine.md" >}})  
 {{%class text-black-secondary %}}Prévalence de 9 à 39%.{{%/class%}}
 - Maladie de Parkinson traitée  
 {{%class text-black-secondary %}}Prévalence de 11 à 24%.{{%/class%}}

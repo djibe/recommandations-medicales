@@ -185,7 +185,7 @@ Expliquer la cause de l'IOP (70% idiopathique), soutenir les projets de grossess
 
 L'œstradiol administré par voie transdermique n'augmente pas le risque thrombo-embolique.
 
-- Migraine  
+- [Migraine]({{< relref "migraine.md" >}})  
 N'est pas une contre-indication au THS au cours de l'IOP. Modifier dose, voie d'administration ou le schéma thérapeutique en cas d'aggravation.
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})  
 N'est pas une contre-indication au THS au cours de l'IOP. Œstradiol transdermique de préférence.
