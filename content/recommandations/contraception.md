@@ -196,14 +196,23 @@ Notamment [Ct]({{< relref "chlamydia-trachomatis.md" >}}) chez les 15-25 ans ou 
 {{% /collapse %}}
 {{%collapse "Cotation des actes" %}}
 
-### Première consultation contraception
+### Première consultation contraception gratuite
 
 Pour une première consultation chez une jeune femme ou un jeune homme, coter **CCP** (46€, une seule fois) avec TP AMO.
 
-### Consultation contraception avant 26 ans
+### Consultation contraception gratuite avant 26 ans
 
-- La consultation: coter GS (25 €) avec Exo 3 (Soins particuliers exonérés, comme pour Covid)
+- La consultation: coter GS (25 €) avec Exo 3 (dit *Soins particuliers exonérés*, comme pour Covid)  
+  Cocher TP AMO + AMC sur la feuille de soins.
 - Les actes (stérilet, implant): coter l'acte avec Exo 3
+
+#### Secret de la contraception chez les mineurs
+
+Pour les mineurs désirant le secret:
+
+- Rédiger une ordonnance dédiée avec mention << contraception mineurs >> et son âge
+- Facturer: Sur la FSE, GS + Exo 3 avec **NIR anonyme** 2 55 55 55 CCC 042/XX pour la mineure et 1 55 55 55 CCC 042/XX pour le mineur (la date de naissance doit être exacte) et TP AMO + AMC
+- Sesam sans vitale si le mineur n'a pas sa carte vitale
 
 > *[Ameli](https://www.ameli.fr/sites/default/files/Documents/Modalites-facturation-contraception-Medecins-SF-Labo.pdf)*
 

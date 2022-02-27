@@ -85,7 +85,7 @@ Alcoolisation fœtale est la 1<sup>re</sup> cause de handicap non génétique.
 
 #### Croyances sur l'alcool en France
 
-- 77% ignorent que l'alcool est la 2<sup>e</sup> cause de mortalité (*[La ligue 2018]*(https://www.ligue-cancer.net/article/46014_une-forte-majorite-des-francais-en-faveur-des-mesures-efficaces-pour-reduire-la))
+- 77% ignorent que l'alcool est la 2<sup>e</sup> cause de mortalité (*[La ligue 2018](https://www.ligue-cancer.net/article/46014_une-forte-majorite-des-francais-en-faveur-des-mesures-efficaces-pour-reduire-la)*)
 - 54% n'ont pas le sentiment de prendre de risques en consommant (même > 10 verres/semaine, *La ligue 2018*)
 - 40% pensent qu'il n'engendre que le cancer du foie (*La ligue 2018*)
 - 75% ignorent les risques pendant la grossesse (*BVA 2015*)
