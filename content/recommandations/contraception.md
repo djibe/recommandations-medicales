@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2022-02-17"
+lastmod = "2022-02-27"
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -22,7 +22,7 @@ todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult 
 
 {{%article-summary%}}
 
-- Contraception gratuite avant 25 ans (consultation, pilule/stérilet, coter GS Exo 3 depuis le [1/1/22](https://www.service-public.fr/particuliers/actualites/A15158))
+- Contraception gratuite avant 26 ans (consultation, pilule/stérilet, coter GS Exo 3 depuis le [1/1/22](https://www.service-public.fr/particuliers/actualites/A15158))
 - Seul le préservatif est efficace contre les [IST](/tags/ist/)
 - [QuestionSexualité_ - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)
 - Contraceptions très efficaces de 1<sup>re</sup> intention: COP, DIU, implant
@@ -128,7 +128,7 @@ Les générations de pilules œstroprogestatives correspondent à la date de mis
 Pas d'arrêt brutal d'une contraception de 3-4<sup>e</sup> génération bien tolérée.
 
 Intérêt de présenter les contraceptions par *[groupe d'efficacité](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)* (plutôt que par nombre de grossesses): hormonale (pilule 2<sup>e</sup> génération, progestative, implant), DIU, contraception d'urgence et stérilisation. Patch et anneau vaginal réservés en intolérance aux moyens déjà listés (sur-risque thrombo-embolique).
-Ces moyens efficaces sont **gratuits jusqu'à 25 ans** (sauf patch et anneau qui ont risque de MVTE augmenté, *[Service public](https://www.service-public.fr/particuliers/actualites/A15158)*).
+Ces moyens efficaces sont **gratuits jusqu'à 25 ans révolus** (sauf patch et anneau qui ont risque de MVTE augmenté, *[Service public](https://www.service-public.fr/particuliers/actualites/A15158)*).
 
 **NB.** Possibilité de faire renouveler une fois le contraceptif oral pour 6 mois en présentation d'une ordonnance de moins d'un an.
 
@@ -198,12 +198,14 @@ Notamment [Ct]({{< relref "chlamydia-trachomatis.md" >}}) chez les 15-25 ans ou 
 
 ### Première consultation contraception
 
-CCP (46€, une seule fois) avec TP AMO jusqu'à 17 ans.
+Pour une première consultation chez une jeune femme ou un jeune homme, coter **CCP** (46€, une seule fois) avec TP AMO.
 
-### Consultation contraception avant 25 ans
+### Consultation contraception avant 26 ans
 
 - La consultation: coter GS (25 €) avec Exo 3 (Soins particuliers exonérés, comme pour Covid)
 - Les actes (stérilet, implant): coter l'acte avec Exo 3
+
+> *[Ameli](https://www.ameli.fr/sites/default/files/Documents/Modalites-facturation-contraception-Medecins-SF-Labo.pdf)*
 
 ### Stérilet
 

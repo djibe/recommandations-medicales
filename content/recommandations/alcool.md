@@ -247,12 +247,23 @@ Les benzodiazépines n'ont aucune indication dans l'aide au maintien de l'abstin
 
 #### Prévention des rechutes
 
-Acamprosate ou naltrexone en premirèe intention.
+Acamprosate (ex Aotal) ou naltrexone (ex Revia) en première intention.
+
+- [Acamprosate 333 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69724187&typedoc=R)
+  - Dès que possible après le servage. Supériorité pour le maintien de l'abstinence
+  - 2 cp x 3/j (2-1-1 si < 60 kg) pendant 1 an. Peut être poursuivi si bénéfique et souhaité par le patient
+- [Naltrexone 50 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67115586&typedoc=R)
+  - Diminue l'envie de consommer. Bénéfique en fortes consommations
+  - Débuté après le sevrage
+  - 1/2 cp avec une surveillance d'1 heure. Puis prise de l'autre moitié et 1 cp/j pendant 3 mois (jusqu'à 6 mois si bénéfique et souhaité)
 
 ##### Autres traitements
 
-- Disulfiram (Espéral)  
-  Indication: patient motivé souhaitant l'abstinence avec ce médicament. Nombreuses interactions et contre-indications.
+- [Disulfiram 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61500746&typedoc=R) (Espéral)  
+  - Indication: patient motivé souhaitant l'abstinence avec ce médicament. Nombreuses interactions et contre-indications
+  - Après ≥ 24h de la dernière consommation: 1 cp/j
+  - Suivi 2/mois 1 mois, puis 1/mois 4 mois puis 2/an
+  - Effet antabuse avec toute source d'alcool (boisson, nourriture, parfum), risque neuropathie périphérique et hépatotoxicité
 
 ### Suivi
 
