@@ -1,5 +1,6 @@
 .vscode/
 dev/
+hint-report/
 node_modules/
 public/
 resources/
