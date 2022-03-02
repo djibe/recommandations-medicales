@@ -32,7 +32,7 @@ Ces dosages réduits ne peuvent être utilisés qu'à partir de 11 ans.
 Rattrapage vaccinal
 : << Si un retard est intervenu dans le programme de vaccination, il n'est pas nécessaire de recommencer. Il suffit de reprendre ce programme au stade où il a été interrompu et de compléter la vaccination en fonction de l'âge et du nombre de doses de vaccin manquantes >> (INPES).
 
-{{%info%}}<< Les vaccins ne sont pas associés à un risque accru de survenue d’une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >> (*[SFSEP 2019](https://doi.org/10.1016/j.neurol.2019.01.218)*){{%/info%}}
+{{%info%}}<< Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >> (*[SFSEP 2019](https://doi.org/10.1016/j.neurol.2019.01.218)*){{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal" "show" %}}

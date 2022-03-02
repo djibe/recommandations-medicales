@@ -370,7 +370,7 @@ Népressol, réserpine, hydralazine, trasipressol.
 - Piqûres de guêpes, abeilles, morsures de serpents
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir" "show" %}}
+{{%collapse "Conduite à tenir devant une urticaire" "show" %}}
 
 {{< mermaid title="Conduite à tenir devant une urticaire aiguë. Dr JB Fron d'après CEILF 2011" >}}
 graph TB

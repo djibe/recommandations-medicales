@@ -35,7 +35,7 @@ todo = "titration Propranolol, Global Assessment of Migraine Severity (GAMS) [23
   - Jamais d'opiacés
 - Traitement de fond
   - ≥ 8 j/mois depuis ≥ 3 mois ou {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50% des épisodes ou migraine chronique (≥ 15 j/m)
-  - < 15 j/m: essai propranolol ou métoprolol 3 mois. Si échec ou contre-indication: amitriptyline, candésartan ou topiramate
+  - < 15 j/mois: propranolol ou métoprolol 3 mois. Si échec ou contre-indication: amitriptyline, candésartan ou topiramate
 - Suivi neurologique si aura atypique ou sévère, migraine résistante/réfractaire (échec de 3 traitements de fond, en centre spécialisé)  
 ou migraine sévère: ≥ 8 jours/mois, {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50% des épisodes
 
@@ -74,7 +74,7 @@ Durée h-j, diffuse, non pulsatile, non aggravée à l'effort, moins intense, sa
 - Névralgie d'Arnold
 - Sinusite aiguë
 - Troubles de la vision binoculaire ([orthoptie]({{< relref "bilan-orthoptique.md" >}}))  
-Fatigue visuelle, céphalées, difficultés de concentration ou de lecture.
+Fatigue visuelle, céphalées, difficultés de concentration ou de lecture...
 - [Algie vasculaire de la face]({{< relref "algie-vasculaire-face.md" >}})  
 Crises pluriquotidiennes, 15-180 min, stricte unilatéralité fixe, arrachement, décharges, intensité très sévère.
 - [Névralgie du trijumeau]({{< relref "nevralgie-trigeminale-classique.md" >}})  
@@ -117,7 +117,7 @@ Critères A à E remplis:
 1. ≥ 5 crises répondant aux critères B à D
 1. Céphalées paroxystiques durant de 4 à 72 heures
 1. Céphalées avec ≥ 2 caractères suivants:  
-  Unilatérale, pulsatile, intensité modérée/sévère, aggravée par ou entraînant l'évitement de l’activité physique de routine (marche, escaliers...).
+  Unilatérale, pulsatile, intensité modérée/sévère, aggravée par ou entraînant l'évitement de l'activité physique de routine (marche, escaliers...).
 1. Céphalées associées à ≥ 1 caractère suivant:  
     - Nausées/vomissements
     - Photophobie et phonophobie
@@ -227,6 +227,11 @@ Début brutal, prolongé > 1 heure, latéralité fixe, absence de symptômes vis
   - Contexte d'intoxication (CO)
   - Immunodépression
   - Si scanner sans injection normal: IRM cérébrale avec angioIRM artérielle et veineuse
+
+### Bilan orthoptique
+
+Proposer si [signes évocateurs]({{< relref "bilan-orthoptique.md" >}}): diplopie, vision floue, fatigue, troubles de concentration, difficultés d'adaptation aux lunettes...  
+Recherche une part non migraineuse associée.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la crise migraineuse et mesures générales" %}}
@@ -382,7 +387,7 @@ Migraine chronique après échec du topiramate + 1 autre, adresser en centre exp
 
 ### Arrêt d'un traitement de fond
 
-Après 6-12 mois de traitement, il est possible de tenter d’arrêter le traitement progressivement, par décroissance progressive.  
+Après 6-12 mois de traitement, il est possible de tenter d'arrêter le traitement progressivement, par décroissance progressive.  
 Le même traitement peut être repris si les migraines récidivent.
 
 ### Pour en savoir plus: autres traitements de fond
@@ -487,6 +492,15 @@ Toute utilisation de traitement de fond doit être rapportée à la pharmacovigi
 - Vérifier les [contre-indications au THM]({{< relref "menopause.md" >}})
 
 {{%info%}}Privilégier un traitement transdermique en continu à la plus faible dose possible avec réévaluation régulière{{%/info%}}
+
+{{% /collapse %}}
+{{%collapse "Conduite à tenir devant des céphalées migraineuses" "show" %}}
+
+{{< mermaid title="Conduite à tenir devant une suspicion de migraine. Dr JB Fron d'après SFEMC 2021" >}}
+graph TB
+  UA[Urticaire aiguë] --> gravite
+  style UA stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}

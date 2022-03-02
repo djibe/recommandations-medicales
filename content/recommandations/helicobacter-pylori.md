@@ -1,7 +1,7 @@
 +++
 title = "Helicobacter pylori"
 prefix = "l'"
-shortname = "HP"
+titleSeo = "Helicobacter pylori"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-02T15:14:41+02:00

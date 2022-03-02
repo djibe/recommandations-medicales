@@ -302,7 +302,7 @@ graph TB
 
 ### À lire
 
-[Daien C., Czernichow S, Letarouilly JG et al. Recommandations de la Société française de rhumatologie sur l’alimentation des patients ayant un rhumatisme inflammatoire chronique. Revue du Rhumatisme. 2021.](https://www.sciencedirect.com/science/article/pii/S1169833021009108)
+[Daien C., Czernichow S, Letarouilly JG et al. Recommandations de la Société française de rhumatologie sur l'alimentation des patients ayant un rhumatisme inflammatoire chronique. Revue du Rhumatisme. 2021.](https://www.sciencedirect.com/science/article/pii/S1169833021009108)
 
 {{%/sources%}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}

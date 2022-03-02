@@ -6,7 +6,7 @@ synonyms = ["Chlamydiose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-28T12:09:00+02:00
 publishdate = 2021-03-28
-lastmod = 2021-09-17
+lastmod = 2022-03-02
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["HAS", "Inpes"]
@@ -15,17 +15,16 @@ anglais = ["Chlamydia trachomatis infection"]
 sctid = "240589008"
 image = true
 imageSrc = "Frottis cervical avec Chlamydia dans des vacuoles en grossissement 500. Dr. Lance Liotta Laboratory via Wikimedia Commons"
-todo = "améliorer clinique, flowchart, Prescrire Chlamydiose liée à un rapport sexuel"
+todo = "améliorer clinique, flowchart"
 +++
 
 {{%article-summary%}}
 
 - Dépister largement (voir *Qui dépister ?*), tous les 3-6 mois chez les HSH
-- PCR sur prélèvement vaginal pour les femmes et urinaire pour les hommes
+- PCR sur auto-prélèvement vaginal ou 1<sup>er</sup> jet d'urine pour les hommes
 - Prélèvement des autres sites selon les pratiques
-- Azithromycine per os 1 g dose unique + traitement du partenaire + préservatif 7 jours
-- Dépistage des autres IST
-- Dépister les partenaires des 12 derniers mois
+- Azithromycine per os 1g dose unique + traitement du partenaire + préservatif 7 jours
+- Dépistage des [autres IST](/tags/ist/) et des partenaires des 12 derniers mois
 - Contrôle de l'éradication à 6 mois
 
 {{%/article-summary%}}
@@ -152,7 +151,7 @@ Indication: << e. Personnes ayant des relations sexuelles avec des partenaires m
 - Prescrire Redaction. Chlamydiose liée à un rapport sexuel. Premiers choix Prescrire. Mars 2021.
 - [Santé Publique France. Chlamydiae. 01/12/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/chlamydiae)
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
-- [Société Française de Dermatologie. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement Transmissibles. Février 2016. (PDF)](http://www.sfdermato.org/media/pdf/recommandation/syphilis-precoce-b61913fb8de5bca222326904654c6b30.pdf)
+- [Société Française de Dermatologie. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement Transmissibles. Février 2016. (PDF)](https://www.cnr-ist.fr/ressources/editeur/Guidelines%20IST%20SFDermato%202016.pdf)
 - [Ministère de la Santé. Infections sexuellement transmissibles (IST). 05/01/2016.](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/article/infections-sexuellement-transmissibles-ist)
 - [Anaes. Évaluation du dépistage des infections uro-génitales basses à Chlamydia trachomatis en France. 2003.](https://www.has-sante.fr/jcms/c_464119/fr/evaluation-du-depistage-des-infections-uro-genitales-basses-a-chlamydia-trachomatis-en-france-2003)
 
