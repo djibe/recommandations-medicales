@@ -5,17 +5,18 @@ shortname = ""
 synonyms = ["Migraine avec ou sans aura", "aura migraineuse"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-12T13:03:13+01:00"
-publishdate = "2022-02-17"
-lastmod = "2022-02-18"
+publishdate = 2022-02-17
+lastmod = 2022-03-02
 specialites = ["neurologie"]
 annees = "2021"
 sources = ["SFEMC", "CNGOF"]
 tags = ["cephalees", "contraception", "depistage"]
 anglais = ["Migraine"]
 sctid = "37796009"
+flowchart = true
 image = true
 imageSrc = "Illustration de la migraine par stories / Freepik"
-todo = "titration Propranolol, Global Assessment of Migraine Severity (GAMS) [23], recouper contraception et THM, Prescrire, EHF, migraine abdo enfant"
+todo = "titration Propranolol, recouper THM, Prescrire, EHF, migraine abdo enfant"
 +++
 
 *Première version*
@@ -34,8 +35,8 @@ todo = "titration Propranolol, Global Assessment of Migraine Severity (GAMS) [23
   - Nausées/vomissements: métoclopramide
   - Jamais d'opiacés
 - Traitement de fond
-  - ≥ 8 j/mois depuis ≥ 3 mois ou {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50% des épisodes ou migraine chronique (≥ 15 j/m)
-  - < 15 j/mois: propranolol ou métoprolol 3 mois. Si échec ou contre-indication: amitriptyline, candésartan ou topiramate
+  - Indications: crises ou traitement de crise ≥ 8 j/mois depuis ≥ 3 mois ou {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50% des épisodes ou crises invalidantes malgré un traitement de crise optimal
+  - < 15 j/mois (dite épisodique): propranolol ou métoprolol ≥ 3 mois. Si échec ou contre-indication: amitriptyline, candésartan ou topiramate
 - Suivi neurologique si aura atypique ou sévère, migraine résistante/réfractaire (échec de 3 traitements de fond, en centre spécialisé)  
 ou migraine sévère: ≥ 8 jours/mois, {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50% des épisodes
 
@@ -337,12 +338,21 @@ Efficacité prouvée: Neuromodulation électrique. Sur prescription spécialisé
 {{% /collapse %}}
 {{%collapse "Traitement de fond" %}}
 
-**Indications:**
+{{%info%}}
+
+### Indications à un traitement de fond
 
 - Traitement de crise ≥ 8 j/mois depuis ≥ 3 mois
 - Migraine sévère  
-  Crises fréquentes (≥ 8 jours/mois) OU {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 OU intensité impose un arrêt total des activités pour ≥ 50% des épisodes.
-- Migraine chronique ≥ 15 j/m
+  - Crises fréquentes (≥ 8 j/mois)
+  - OU {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60
+  - OU intensité impose un arrêt total des activités pour ≥ 50% des crises
+- Migraine chronique  
+  ≥ 15 j/mois depuis ≥ 3 mois.
+- Crises migraineuses invalidantes malgré un traitement de crise optimal
+
+> *Ducros A et al 2021 Table 6*
+{{%/info%}}
 
 **Objectif:** réduire le nombre de jours de céphalées ≥ 50% en *migraine épisodique* (< 15 j/m) ou ≥ 30% en *migraine chronique* (≥ 15 j/m). Réévaluation au 3<sup>e</sup> mois.  
 Autres: réduire la consommation d'antalgiques, l'intensité et la durée des crises (et de l'aura) et améliorer la qualité de vie. Les objectifs doivent être expliqués au patient, ainsi que l'importance de l'**observance**.
@@ -358,6 +368,8 @@ Autres thérapies avec efficacité prouvée: relaxation, rétro-contrôle (biofe
 
 {{%info%}}
 
+Le traitement doit être poursuivi ≥ 3 mois avant de conclure à une inefficacité:
+
 - Migraine épisodique (< 15 j/mois)
   - [Propranolol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65135519&typedoc=R) 20-240 mg/j en 2 prises ou LP matin  
   Effets indésirables: asthénie, mauvaise tolérance à l'effort; Contre-indications des BB.
@@ -369,7 +381,6 @@ Autres thérapies avec efficacité prouvée: relaxation, rétro-contrôle (biofe
 {{%/info%}}
 
 - **Débuter:** en monothérapie, **titration** (tenir compte de la tolérance pour atteindre la posologie optimale)
-- Le **traitement doit être poursuivi ≥ 3 mois** avant de conclure à une inefficacité
 - Évaluation de l'efficacité: suffisante si réduit le **nombre de crises de ≥ 50%**
   - Efficace: poursuivre le traitement 6 mois à 1 an, puis décroissance progressive
   - Efficacité insuffisante: augmentation de posologie si bien toléré
@@ -395,23 +406,20 @@ Le même traitement peut être repris si les migraines récidivent.
 Les nouveaux anti-CGRP ne peuvent être prescrits que par les neurologues et ne sont pas remboursés.  
 Autres traitements de fond (dose min-max en mg) et niveau de recommandation *SFEMC*:
 
-- Migraine épisodique (< 15 j/m)
-  - Recommandation élevée  
-  Amitriptyline 10-100 dîner, candésartan 8-32 en 1 ou 2/j, valproate 250-2000 soir ou 2/j
-  - Recommandation modérée  
-  Aténolol 50-200 matin, nébivolol 5-10 matin, timolol 10-60 en 2 prises, flunarizine 5-10 matin, lisinopril 5-40, oxétorone, pizotifène
-  - Recommandation faible: lévétiracétam, venlafaxine
-- Migraine chronique
-  - Recommandation modérée: amitriptyline 10-100, valproate
-  - Recommandation faible: propranolol, aténolol, candésartan, flunarizine, lévétiracétam
+{{< table title="Niveaux de recommandations par la SFEMC 2021 des différents traitements de fond de la migraine" class="table-wrap" >}}
+| Migraine              | Recommandation élevée | Modérée | Faible |
+|-----------------------|-----------------------|---------|--------|
+| Épisodique (< 15 j/m) | Amitriptyline 10-100 dîner, candésartan 8-32 en 1 ou 2/j, valproate 250-2000 soir ou 2/j | Aténolol 50-200 matin, nébivolol 5-10 matin, timolol 10-60 en 2 prises, flunarizine 5-10 matin, lisinopril 5-40, oxétorone, pizotifène | Lévétiracétam, venlafaxine |
+| Chronique (≥ 15 j/m)  |                       | Amitriptyline 10-100, valproate | Propranolol, aténolol, candésartan, flunarizine, lévétiracétam |
+{{< /table >}}
 
-Traitements de fond pouvant être proposés en migraine épisodique (< 15 j/m):
+Autres traitements de fond antimigraineux pouvant être proposés en migraine épisodique (< 15 j/mois):
 
 - Acupuncture
 - Coenzyme Q10 300 mg/j (sans ordonnance)
 - Mélatonine libération immédiate 3 mg
 - TENS supra-orbitaire
-- Vitamine B2 400 mg/j (non disponible)
+- Vitamine B2 400 mg/j (non disponible en France)
 
 {{% /collapse %}}
 {{%collapse "Suivi et critères de contrôle d'une migraine" %}}
@@ -498,9 +506,18 @@ Toute utilisation de traitement de fond doit être rapportée à la pharmacovigi
 
 {{< mermaid title="Conduite à tenir devant une suspicion de migraine. Dr JB Fron d'après SFEMC 2021" >}}
 graph TB
-  UA[Urticaire aiguë] --> gravite
-  style UA stroke:#4150f5, stroke-width:1px
+  cephalees[Céphalées récidivantes] --> ichd3(Critères ICHD3)
+  style cephalees stroke:#4150f5, stroke-width:1px
+    ichd3 == "Migraine sans aura (MSA)" ==> generales("<strong>Mesures générales</strong><hr>- Agenda migraineux<br>- Retentissement HIT-6, HAD<br>- Arrêt du tabac<br>- Facteur déclenchants identifiés")
+      generales --> crise("<strong>Traitement de la crise</strong><hr>- Légère: AINS &plusmn; triptan H1<br>- Modérée à sévère<br>triptan &plusmn; AINS H1")
+      crise -- Réévaluation --> reevaluation("Après 3 crises:<br>M-TOQ et<br>adaptation du traitement") --> crise
+      reevaluation --> chronique("Crise ou traitement de crise<br>&ge; 8 j/mois<br>ou score HIT-6 &ge; 60<br>ou arrêt total des activités &ge; 50%<br>ou crises invalidantes<br>malgré traitement optimal ?") -- Oui --> fond("<strong>Traitement de fond</strong><hr>Essayer &ge; 3 mois:<br>propranolol ou métoprolol<br>pour réduire le nb de jours<br>de céphalées &ge; 50%") --> neuro("Suivi neuro si migraine<br>résistante/réfractaire<br>ou sévère")
+        chronique -- Non --> pasFond(Pas de traitement<br>de fond)
+    ichd3 -- Migraine avec aura --> aura("- Contre-indication<br>aux estrogènes<br>- Mesures générales idem<br>- Crise: AINS dès aura<br>et triptan dès céphalée<br>- Traitement de fond idem<br>- IRM si aura atypique<br>- Suivi neuro si aura atypique/sévère<br>ou migraine sévère")
+    ichd3 -- Diagnostic différentiel --> differentiel("- Abus médicamenteux<br>- Céphalées de tension<br>- Névralgie Arnold<br>- Sinusite aiguë<br>- Orthoptie<br>- Algies vasculaires<br>- Névralgie du trijumeau<br>- Autres")
 {{< /mermaid >}}
+
+> **AINS** = ibuprofène, kétoprofène, naproxène voire diclofénac, flurbiprofène ; **triptans** + efficaces = élétriptan, rizatriptan ; **H1** = persistance après 1 heure
 
 {{% /collapse %}}
 {{%sources%}}
