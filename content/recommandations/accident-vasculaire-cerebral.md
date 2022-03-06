@@ -2,7 +2,7 @@
 title = "Accident vasculaire cérébral"
 prefix = "l'"
 titleSeo = "Accident vasculaire cérébral"
-shortname = "AVC"
+description = "Dernières recommandations 2021 sur l'AVC pour le médecin généraliste. Prévention secondaire avec aspirine, statine, objectif LDL, IEC, objectif tensionnel..."
 synonyms = ["AVC et AIT", "accident ischémique transitoire", "infarctus cérébral"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-25T14:04:00+02:00

@@ -1,7 +1,8 @@
 +++
 title = "Alcool et consommation excessive d'alcool"
 prefix = "l'"
-titleSeo = "Sevrage alcool"
+titleSeo = "Sevrage en alcool"
+description = "Recommandations 2021 pour le dépistage d'une consommation à risque d'alcool, l'intervention brève, les scores FACE et AUDIT-C et les benzodiazépines pour le syndrome de sevrage"
 synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
@@ -13,7 +14,6 @@ sources = ["HAS", "SFA"]
 tags = ["depistage"]
 anglais = []
 sctid = ""
-draft = false
 image = true
 imageSrc = "Les verres standards par Alcool-Info-Service"
 todo = "Audit C seuils + bas sujet âgé, entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, indications hospit, centres de cure, bilan des complications, supplémentations, https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa"
@@ -121,6 +121,8 @@ Occasions pour dépister un mésusage: consultation de routine, prescription d'u
 {{% /collapse %}}
 {{%collapse "Intervention brève" %}}
 
+Encourager à tenir un agenda de la consommation.
+
 - Informer
   - Restituer les résultats des questionnaires de consommation
   - Informer sur les risques concernant la consommation de substance
@@ -143,6 +145,18 @@ De 0 à 10, évaluer:
 - Confiance dans la réussite du projet de réduire/arrêter sa consommation
 
 > *HAS 2021*
+
+### Autocontrôle comportemental
+
+Intervention psychosociale la plus efficace dans l'objectif de réduction de la consommation. Déterminer ensemble:
+
+- Les limites de consommation
+- Tenir un **agenda quotidien de consommation**  
+  Mesure la plus efficace.
+- Apprentissage des stratégies de refus
+- Mesures de renforcement du succès
+- Analyse des situations à haut risque
+- Apprentissage de comportements alternatifs
 
 {{% /collapse %}}
 {{%collapse "Dépistage des complications" %}}
@@ -222,48 +236,53 @@ TODO: liste
 
 Indications à l'hospitalisation:
 
+- Contre-indication aux benzodiazépines  
+  Insuffisance respiratoire, cirrhose décompensée, TP < 50%, obésité, personne âgée.
 - Syndrome de Korsakoff
 - Encéphalopathie de Gayet-Wernicke
 TODO:
 
-### Thérapeutiques
+### Thérapeutiques pour le sevrage alcoolique
 
 #### Prévention du syndrome de sevrage alcoolique (SSA)
 
 {{%info%}}
-Diazépam 10 mg 2 à 4 fois par jour pendant 2-3 jours, puis réduction progressive et arrêt à 7-10 jours  
-Doses réduites chez l'adolescent et le sujet âgé.
+Diazépam 10 mg 2 à 4 fois par jour pendant 2-3 jours, puis réduction progressive et arrêt à 7 jours (max 10)  
+Doses adaptées aux symptômes résiduels et réduites chez l'adolescent et le sujet âgé.
 {{%/info%}}
 
-Symptômes de sevrage: benzodiazépines à demi-vie longue type diazépam max 8-10 jours (*SFA 2015*). Contre-indiquée en cirrhose.  
+Symptômes de sevrage: **benzodiazépines à demi-vie longue** type diazépam max 8-10 jours (*SFA 2015*). Contre-indiquée en cirrhose.  
 Les benzodiazépines n'ont aucune indication dans l'aide au maintien de l'abstinence.
 
 #### Vitamines
 
-- Thiamine vitamine B1 (30-80% de carences)  
+- Thiamine (vitamine B1 selon l'état nutritionnel, 30-80% de carences)  
   500 mg/j pendant 5 jours puis 250 mg/j pendant 14 jours. Voie IV si dénutrition.
 - Sujet dénutri  
   Vitamines B6 (max 1 mois), PP, C, acide folique, zinc et magnésium quelques jours.
 
 #### Prévention des rechutes
 
-Acamprosate (ex Aotal) ou naltrexone (ex Revia) en première intention.
+Acamprosate (ex Aotal®) ou naltrexone (ex Revia®) en première intention pour diminuer l'envie de consommer.  
+Les traitements doivent être arrêtés après 4-6 semaines si la consommation d'alcool persiste.
 
 - [Acamprosate 333 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69724187&typedoc=R)
-  - Dès que possible après le servage. Supériorité pour le maintien de l'abstinence
+  - Dès que possible après le sevrage. Supériorité pour le maintien de l'abstinence
   - 2 cp x 3/j (2-1-1 si < 60 kg) pendant 1 an. Peut être poursuivi si bénéfique et souhaité par le patient
 - [Naltrexone 50 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67115586&typedoc=R)
-  - Diminue l'envie de consommer. Bénéfique en fortes consommations
+  - Bénéfique en fortes consommations
   - Débuté après le sevrage
   - 1/2 cp avec une surveillance d'1 heure. Puis prise de l'autre moitié et 1 cp/j pendant 3 mois (jusqu'à 6 mois si bénéfique et souhaité)
 
 ##### Autres traitements
 
-- [Disulfiram 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61500746&typedoc=R) (Espéral)  
+- [Disulfiram 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61500746&typedoc=R) (Espéral®)  
   - Indication: patient motivé souhaitant l'abstinence avec ce médicament. Nombreuses interactions et contre-indications
   - Après ≥ 24h de la dernière consommation: 1 cp/j
   - Suivi 2/mois 1 mois, puis 1/mois 4 mois puis 2/an
   - Effet antabuse avec toute source d'alcool (boisson, nourriture, parfum), risque neuropathie périphérique et hépatotoxicité
+- Nalméfène, Gamma-hydroxybutyrate (GHB)  
+  Prescription spécialisée.
 
 ### Suivi
 

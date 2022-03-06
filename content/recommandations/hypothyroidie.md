@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-14T23:30:41+02:00
 publishdate = 2020-04-14
-lastmod = 2021-10-25
+lastmod = 2022-03-05
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["ANSM", "HAS"]
@@ -22,9 +22,8 @@ todo = "https://www.scientificanimations.com/wp-content/uploads/2019/05/Hypothyr
 
 {{%article-summary%}}
 
-- Pas de dépistage systématique en population générale
-- Doser la TSH seule en cas de symptômes évocateurs
-- Traitement par LT: dosage de la TSH à 6 semaines et adaptation par paliers de 12 µg toutes les 6 à 12 semaines sur critères clinico-TSH
+- Pas de dépistage systématique en population générale, TSH seule en cas de symptômes évocateurs
+- Traitement par LT: dosage de la TSH à 6 semaines et adaptation par paliers de 12 µg toutes les 6-12 semaines sur critères clinico-TSH
 - Hashimoto: rechercher une maladie cœliaque associée
 - Prochaines recommandations HAS en 2022
 
@@ -175,13 +174,13 @@ Plus rarement bloc de branche, micro-voltage, torsade de pointe, extrasystoles v
 
 Signes résolutifs sous lévothyroxine.
 
-{{% /collapse %}}
+{{%/collapse%}}
 {{%collapse "Traitement de l'hypothyroïdie" %}}
 
 Délai avant amélioration des symptômes de **2 semaines après instauration du traitement**. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
 
 **NB. Le traitement ne doit pas être débuté sans dosage préalable de la TSH**  
-{{%class%}}(30% des traitements introduits sans TSH).{{%/class%}}
+{{%class%}}30% des traitements introduits sans TSH.{{%/class%}}
 
 ### Lévothyroxine sodique (opothérapie substitutive)
 
@@ -191,7 +190,7 @@ Délai avant amélioration des symptômes de **2 semaines après instauration du
 
 {{%info%}}
 Initier à 1,7 µg/kg/j chez l'adulte.  
-{{%class "text-black-secondary" %}}Sujet âgé: 1,3 | Enfant: 2 | Coronarien 12,5 à 25 µg/j.{{%/class%}}
+{{%class "text-black-secondary" %}}Sujet âgé: 1,3 | Enfant: 2 | Coronarien: 12,5-25 µg/j{{%/class%}}
 
 Adaptation par paliers de 12 µg.
 {{%/info%}}
@@ -269,7 +268,7 @@ graph TB
       hT --> bilan("- Anticorps anti-TPO<br>&plusmn; dépistage M. cœliaque<br>- Échographie cervicale<br>- ECG")
         bilan --> traitement(Traitement par lévothyroxine)
           traitement --> adulte("<b>Adulte</b><br>Débuter à 1,7 µg/kg/j")
-            adulte -- Fragilité --> fragile("<b>Sujet âgé</b>: Débuter à 1,7 µg/kg/j<hr><b>Coronarien</b>: Débuter à 12,5 µg/j")
+            adulte -- Fragilité --> fragile("<b>Sujet âgé</b>: Débuter à 1,3 µg/kg/j<hr><b>Coronarien</b>: Débuter 12,5-25 µg/j")
           traitement --> enfant("<b>Enfant</b><br>Débuter à 2 µg/kg/j")
 {{< /mermaid >}}
 

@@ -1,7 +1,7 @@
 +++
 title = "Fibrillation atriale"
 prefix = "la "
-shortname = "FA"
+description = "Dernières recommandations 2020 sur l'ACFA pour le médecin généraliste. Risque embolique CHADSVASC et hémorragique HAS-BLED, anticoagulants AOD, bradycardisants et antiarythmiques..."
 synonyms = ["Arythmie complète par fibrillation auriculaire ou ACFA"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-05T17:43:41+02:00

@@ -310,7 +310,7 @@ graph TB
 - Consignes d'hépatoprotection
 - Associations de patients  
 [SOS hépatites](https://soshepatites.org/), [actions traitements](https://www.actions-traitements.org/)
-- [Proposer de participer à la cohorte ComPare](https://compare.aphp.fr/participer/je-participe.html)
+- [Proposer de participer à la cohorte ComPare](https://compare.aphp.fr/)
 
 {{% /collapse %}}
 {{%collapse "Vidéos" %}}

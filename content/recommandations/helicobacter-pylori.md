@@ -2,6 +2,7 @@
 title = "Helicobacter pylori"
 prefix = "l'"
 titleSeo = "Helicobacter pylori"
+description = "Dernières recommandations 2021 sur le traitement d'Helicobacter pylori pour le médecin généraliste. Traitement antibiotique selon l'antibiogramme avec aide au choix du traitement..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-02T15:14:41+02:00

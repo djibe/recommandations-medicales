@@ -20,7 +20,7 @@
 {{ else if .Params.TitleSeo }}
   {{ $metaTitle = ( printf "%s %s %s %s" "Recommandations" .Params.TitleSeo .Params.Annees "| RecoMédicales" ) }}
 {{ else if and (eq .Section "recommandations") (eq .Kind "page") }}
-  {{ $metaTitle = ( printf "%s %s%s %s %s %s" "Recommandations sur" (.Params.prefix | safeHTML ) .Title "en" .Params.Annees "| RecoMédicales" ) }}
+  {{ $metaTitle = ( printf "%s %s%s %s %s" "Recommandations sur" (.Params.prefix | safeHTML ) .Title .Params.Annees "| RecoMédicales" ) }}
 {{ else }}
   {{ $metaTitle = ( printf "%s %s" .Title "| RecoMédicales" ) }}
 {{ end }}
@@ -28,7 +28,7 @@
 <title itemprop="name">{{ $metaTitle }}</title>
 <meta property="og:title" content="{{ .Title }}">
 <meta name="twitter:title" content="{{ .Title }}">
-<meta property="og:site_name" content="Les recommandations pour la pratique en médecine générale">
+<meta property="og:site_name" content="RecoMédicales pour la pratique en médecine générale">
 <meta name="twitter:card" content="summary">
 <meta property="fb:page_id" content="102181682323638">
 
@@ -58,9 +58,9 @@
 <!--<link rel="preload" as="image" href="{{ $imageUrl | absURL }}">-->
 <meta itemprop="image" content="{{ $imageUrl | absURL }}">
 <meta property="og:image" content="{{ $imageUrl | absURL }}">
-<meta name="og:image:alt" content="Image de {{ $.Params.Prefix }}{{ $.Title }}">
+<meta name="og:image:alt" content="Illustration de {{ $.Params.Prefix }}{{ $.Title }}">
 <meta name="twitter:image" content="{{ $imageUrl | absURL }}">
-<meta name="twitter:image:alt" content="Image de {{ $.Params.Prefix }}{{ $.Title }}">
+<meta name="twitter:image:alt" content="Illustration de {{ $.Params.Prefix }}{{ $.Title }}">
 
 <!-- Sitemap & RSS Feed -->
 <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}sitemap.xml">
@@ -68,7 +68,7 @@
 
 <!-- Article tags https://jsonld.com/article/ -->
 {{ $ISO8601 := "2006-01-02T15:04:05-07:00" }}
-{{- if or (eq .Section "recommandations") (eq .Section "Articles") (eq .Section "Cabinet") -}}
+{{- if or (eq .Section "recommandations") (eq .Section "articles") (eq .Section "cabinet") -}}
   {{- if .IsPage -}}
     <meta property="og:type" content="article">
     <meta property="og:updated_time" {{ .Lastmod.Format $ISO8601 | printf "content=%q" | safeHTMLAttr }}>
@@ -143,8 +143,6 @@
 {{ end }}
 
 <!-- Website tags -->
-<meta property="og:type" content="website">
-<meta name="author" content="{{ .Site.Params.author }}">
 {{ if .IsHome -}}
 <script type="application/ld+json">
   {

@@ -2,7 +2,7 @@
 title = "Algie vasculaire de la face"
 prefix = "l'"
 titleSeo = "Algie vasculaire de la face"
-shortname = "AVF"
+description = "Dernières recommandations sur le traitement de l'Algie vasculaire de la face (AVF). Bilan complémentaire, traitement de la crise (sumatriptan, oxygénothérapie) et de fond vérapamil"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr M. LANTERI-MINET (SFETD)"
