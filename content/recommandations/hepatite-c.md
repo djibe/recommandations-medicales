@@ -1,7 +1,7 @@
 +++
 title = "Hépatite C"
 prefix = "l'"
-shortname = "VHC"
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Comité de l'AFEF"
@@ -264,7 +264,7 @@ graph TB
       comorbidite -- Oui --> spe(Adresser au spécialiste)
       comorbidite -- Non --> elasticite("Critères élasticité<br>remplis ?<br>(voir <em>Examens comp.</em>)")
         elasticite -- Non --> spe
-        elasticite -- Oui --> aad("Traitement simplifié<br>Epclusa&reg; ou Maviret&reg;")
+        elasticite -- Oui --> aad("Traitement simplifié<br>Epclusa® ou Maviret®")
           aad --> eradication("Charge virale à 12 sem<br>post traitement")
             eradication -- Détectable --> spe
             eradication -- Indétectable --> guerison

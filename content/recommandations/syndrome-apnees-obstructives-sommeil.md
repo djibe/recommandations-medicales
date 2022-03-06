@@ -2,7 +2,7 @@
 title = "Syndrome d'apnées obstructives du sommeil"
 titleSeo = "Syndrome d'apnées du sommeil"
 prefix = "le "
-shortname = "SAOS"
+longHtml = true
 synonyms = ["Apnées du sommeil"]
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"

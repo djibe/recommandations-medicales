@@ -16,7 +16,7 @@
 <!-- Title Tags 70 ch -->
 {{ $metaTitle := "" }}
 {{ if .IsHome }}
-  {{ $metaTitle = (printf "Dernières recommandations médicales au cabinet | RecoMédicales" ) }}
+  {{ $metaTitle = (printf "Dernières recommandations médicales pour le généraliste | RecoMédicales" ) }}
 {{ else if .Params.TitleSeo }}
   {{ $metaTitle = ( printf "%s %s %s %s" "Recommandations" .Params.TitleSeo .Params.Annees "| RecoMédicales" ) }}
 {{ else if and (eq .Section "recommandations") (eq .Kind "page") }}
@@ -27,7 +27,6 @@
 
 <title itemprop="name">{{ $metaTitle }}</title>
 <meta property="og:title" content="{{ .Title }}">
-<meta name="twitter:title" content="{{ .Title }}">
 <meta property="og:site_name" content="RecoMédicales pour la pratique en médecine générale">
 <meta name="twitter:card" content="summary">
 <meta property="fb:page_id" content="102181682323638">
@@ -41,25 +40,20 @@
 {{ else }}
   {{ $metaDescription = $.Site.Params.description }}
 {{ end }}
-<meta name="description" content="{{ $metaDescription }}">
-<meta property="og:description" content="{{ $metaDescription }}">
-<meta name="twitter:description" content="{{ $metaDescription }}">
+<meta name="description" property="og:description" content="{{ $metaDescription }}">
 
 <!-- Link Tags -->
 <base href="{{ .Site.BaseURL }}">
 <link rel="canonical" href="{{ .Permalink }}">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta name="twitter:url" content="{{ .Permalink }}">
 
 <!-- Language Tags -->
 <meta property="og:locale" content="fr_FR">
 
 <!-- Image Tags -->
 <!--<link rel="preload" as="image" href="{{ $imageUrl | absURL }}">-->
-<meta itemprop="image" content="{{ $imageUrl | absURL }}">
 <meta property="og:image" content="{{ $imageUrl | absURL }}">
 <meta name="og:image:alt" content="Illustration de {{ $.Params.Prefix }}{{ $.Title }}">
-<meta name="twitter:image" content="{{ $imageUrl | absURL }}">
 <meta name="twitter:image:alt" content="Illustration de {{ $.Params.Prefix }}{{ $.Title }}">
 
 <!-- Sitemap & RSS Feed -->
@@ -102,7 +96,7 @@
       },
       "headline": "{{ .Title | truncate 110 }} : recommandations 2021",
       "description": "Les recommandations pour la prise en charge de {{ .Title }} en médecine générale.",
-      "articleBody": "{{ .Plain }}",
+      {{- if (not .Params.longHtml) }}"articleBody": "{{ .Plain }}",{{ end -}}
       "image": [{{ $imageUrl | absURL }}],
       "author": {
         "@type": "Person",

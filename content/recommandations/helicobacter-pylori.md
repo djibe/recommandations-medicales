@@ -2,7 +2,8 @@
 title = "Helicobacter pylori"
 prefix = "l'"
 titleSeo = "Helicobacter pylori"
-description = "Dernières recommandations 2021 sur le traitement d'Helicobacter pylori pour le médecin généraliste. Traitement antibiotique selon l'antibiogramme avec aide au choix du traitement..."
+description = "Dernières recommandations 2021 sur le traitement d'Helicobacter pylori pour le médecin généraliste. Traitement antibiotique selon l'antibiogramme..."
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-02T15:14:41+02:00
@@ -62,12 +63,12 @@ Dysphagie, amaigrissement, anémie.
   <span>Amox 50 mg/kg/j (3-4 prises) + Lévoflo 500 x 2/j + IPP x 2/j | 14 jours</span>
   - Clari-R Quinolone-R (ou non testée)  
   <span>Amox 50 mg/kg/j (3-4 prises) + Métroni 500 x 2/j + IPP x 2/j | 14 jours  
-  OU Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours</span>
+  OU Pylera® 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours</span>
 
 2<sup>e</sup> ligne
 {.typography-overline .text-black-secondary .pt-2}
 
-  Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours  
+  Pylera® 3 gél x 4/j + oméprazole 20 matin et soir | 10 jours  
   <span>Si non utilisée en première ligne (sinon voir 3<sup>e</sup> ligne)</span>
 
 3<sup>e</sup> ligne
@@ -91,7 +92,7 @@ EOGD souhaitable (sauf si Quinolone-S et non utilisées).
       <ul>
         <li>Traitement au choix
           <span>Amoxicilline 50 mg/kg/j (en 3-4 prises, max 6 g/j) + Clarithromycine 500 x 2/j + Métronidazole 500 x 2/j + ésoméprazole 40 mg x 2/j pendant 14 jours<br>
-          OU Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir pendant 10 jours</span>
+          OU Pylera® 3 gél x 4/j + oméprazole 20 matin et soir pendant 10 jours</span>
         </li>
       </ul>
       <p class="typography-overline text-black-secondary pt-2">2<sup>e</sup> ligne</p>
@@ -116,7 +117,7 @@ EOGD souhaitable (sauf si Quinolone-S et non utilisées).
     </div>
     <div class="collapse" id="hp-allergie">
       <ul>
-        <li>Pylera&reg; 3 gél x 4/j + oméprazole 20 matin et soir pendant 10 jours</li>
+        <li>Pylera® 3 gél x 4/j + oméprazole 20 matin et soir pendant 10 jours</li>
       </ul>
       <p class="typography-overline text-black-secondary pt-2">2<sup>e</sup> ligne</p>
       <p>Réaliser une EOGD.</p>

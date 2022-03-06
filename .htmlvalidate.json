@@ -4,8 +4,12 @@
   ],
   "rules": {
     "element-required-attributes": "off",
+    "no-inline-style": "off",
     "no-raw-characters": "off",
     "no-trailing-whitespace": "off",
+    "prefer-native-element": [ "error", {
+      "exclude": [ "button", "section" ]
+    }],
     "svg-focusable": "off",
     "void-style": "off"
   }

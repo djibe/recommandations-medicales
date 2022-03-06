@@ -1,7 +1,7 @@
 +++
 title = "Diabète de type 2"
 prefix = "le "
-shortname = "DT2"
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"

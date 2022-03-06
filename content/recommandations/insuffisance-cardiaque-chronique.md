@@ -2,6 +2,7 @@
 title = "Insuffisance cardiaque chronique"
 prefix = "l'"
 titleSeo = "Insuffisance cardiaque"
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00

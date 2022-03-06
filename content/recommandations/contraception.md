@@ -1,7 +1,7 @@
 +++
 title = "Contraception"
 prefix = "la "
-shortname = ""
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"

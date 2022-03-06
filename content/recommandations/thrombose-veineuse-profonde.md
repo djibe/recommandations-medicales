@@ -2,6 +2,7 @@
 title = "Thrombose veineuse profonde"
 prefix = "la "
 titleSeo = "Thrombose veineuse profonde"
+longHtml = true
 synonyms = ["Phlébite profonde"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-19T18:21:00+02:00

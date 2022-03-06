@@ -2,6 +2,7 @@
 title = "Goutte"
 prefix = "la "
 shortname = "Goutte"
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-08T09:35:00+02:00

@@ -1,7 +1,7 @@
 +++
 title = "Traumatisme crânien de l'enfant"
 prefix = "le "
-shortname = "TC enfant"
+titleSeo = "Traumatisme crânien de l'enfant"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-08T14:17:41+02:00

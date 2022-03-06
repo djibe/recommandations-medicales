@@ -2,6 +2,7 @@
 title = "Ostéoporose post-ménopausique"
 prefix = "l'"
 titleSeo = "Ostéoporose"
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. CORTET et Dr T. FUNCK-BRENTANO (SFR, GRIO)"

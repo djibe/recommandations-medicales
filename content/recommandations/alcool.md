@@ -2,7 +2,7 @@
 title = "Alcool et consommation excessive d'alcool"
 prefix = "l'"
 titleSeo = "Sevrage en alcool"
-description = "Recommandations 2021 pour le dépistage d'une consommation à risque d'alcool, l'intervention brève, les scores FACE et AUDIT-C et les benzodiazépines pour le syndrome de sevrage"
+description = "Recommandations pour le dépistage d'une consommation à risque d'alcool (scores FACE et AUDIT-C), les vitamines et benzodiazépines pour le syndrome de sevrage"
 synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"

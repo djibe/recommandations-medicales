@@ -2,6 +2,7 @@
 title = "Syndrome des jambes sans repos"
 prefix = "le "
 titleSeo = "Syndrome des jambes sans repos"
+longHtml = true
 synonyms = ["Maladie de Willis-Ekbom"]
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"

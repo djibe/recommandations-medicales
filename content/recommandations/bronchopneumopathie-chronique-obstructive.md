@@ -1,8 +1,8 @@
 +++
 title = "Bronchopneumopathie chronique obstructive"
-titleSeo = "BPCO"
 prefix = "la "
-shortname = "BPCO"
+titleSeo = "BPCO"
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
