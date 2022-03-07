@@ -2,6 +2,7 @@
 title = "Asthme de l'adulte et de l'enfant de plus de 6 ans"
 prefix = "l'"
 titleSeo = "Asthme adulte et enfant"
+description = "Recommandations pour le traitement de l'asthme. Contrôle de l'asthme Asthma Control Test, EFR, salbutamol, traitement de fond corticoïde inhalé, plan d'action"
 longHtml = true
 synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]

@@ -1,7 +1,8 @@
 +++
 title = "Syndrome d'apnées obstructives du sommeil"
-titleSeo = "Syndrome d'apnées du sommeil"
 prefix = "le "
+titleSeo = "Syndrome d'apnées du sommeil"
+description = "Recommandations pour le dépistage des apnées du sommeil, personnes à risque et fatigue, somnolence. Diagnostic par polygraphie respiratoire ou polysomnographie"
 longHtml = true
 synonyms = ["Apnées du sommeil"]
 auteurs = ["Jean-Baptiste FRON"]

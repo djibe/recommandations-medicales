@@ -1,8 +1,8 @@
 +++
 title = "Certificat de non contre-indication à la pratique du sport"
-titleSeo = "Certificat du sportif"
 prefix = "le "
-shortname = "CNCI"
+titleSeo = "Certificat du sportif"
+description = "Recommandations pour l'établissement du certificat de non contre-indication à la pratique du sport. Examens complémentaires, ECG, épreuve d'effort ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-08T20:02:41+02:00
@@ -14,7 +14,6 @@ sources = ["JO", "SFC"]
 tags = ["epreuve effort", "prevention"]
 anglais = []
 sctid = ""
-draft = false
 chart = true
 todo = "Bio > 35 ans, modal intensité activité, type 1A (sources 12-13), indication ecg et ecomp, quel examen clinique, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/guide_aps_chapitre_6_la_consultation_medicale_ap.pdf, duree certif plongee"
 image = true

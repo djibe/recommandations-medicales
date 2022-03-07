@@ -1,7 +1,8 @@
 +++
-title = "Electrophorèse des protéines sériques et immunoglobuline monoclonale"
+title = "Électrophorèse des protéines sériques et immunoglobuline monoclonale"
 prefix = "l'"
 titleSeo = "Électrophorèse des protéines sériques"
+description = "Indications à la réalisation d'une Électrophorèse des protéines sériques. Réaliser devant des adénopathies, polyarthrite, splénomégalie, syndrome de Raynaud ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-17T00:20:41+01:00
@@ -13,14 +14,13 @@ sources = ["HAS"]
 tags = ["EPS", "neuropathie"]
 anglais = ["Serum protein electrophoresis"]
 sctid = "4903000"
-draft = false
 image = false
 imageSrc = ""
 +++
 
 {{%article-summary%}}
 
-- L'absence de pic étroit à l'EPS ne permet pas d'écarter le diagnostic de myélome à chaînes légères (10 % des myélomes) ou non sécrétant
+- L'absence de pic étroit à l'EPS ne permet pas d'écarter le diagnostic de myélome à chaînes légères (10%) ou non sécrétant
 - Indications limitées de la réalisation de l'EPS (voir *Indications*)
 - Compléter la découverte du pic monoclonal avec le bilan adapté (voir *Examens complémentaires*)
 - En cas de suspicion d'hémopathie (voir *Qui adresser au spécialiste?*), adresser rapidement au spécialiste. Sinon surveillance à 6 mois puis annuelle

@@ -1,7 +1,7 @@
 +++
 title = "Migraine"
 prefix = "la "
-description = "Dernières recommandations 2021 sur la migraine pour le médecin généraliste. Traitement de la crise, AINS, triptans et indications au traitement de fond"
+description = "Recommandations 2021 sur la migraine pour le médecin généraliste. Traitement de la crise, AINS, triptans et indications au traitement de fond bêtabloquant"
 synonyms = ["Migraine avec ou sans aura", "aura migraineuse"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-12T13:03:13+01:00"
@@ -419,7 +419,7 @@ Autres traitements de fond antimigraineux pouvant être proposés en migraine é
 - Coenzyme Q10 300 mg/j (sans ordonnance)
 - Mélatonine libération immédiate 3 mg
 - TENS supra-orbitaire
-- Vitamine B2 400 mg/j (non disponible en France)
+- ~~Vitamine B2 400 mg/j~~ (non disponible en France)
 
 {{% /collapse %}}
 {{%collapse "Suivi et critères de contrôle d'une migraine" %}}

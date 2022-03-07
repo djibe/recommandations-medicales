@@ -2,12 +2,13 @@
 title = "Artériopathie oblitérante des membres inférieurs"
 prefix = "l'"
 titleSeo = "Artériopathie oblitérante des membres inférieurs"
+description = "Recommandations pour le dépistage et le traitement de l'artériopathie oblitérante des membres inférieurs AOMI. Index de pression systolique, aspirine, statine"
 longHtml = true
 synonyms = ["AOMI", "artériopathie aorto-iliaque et des membres inférieurs", "artérite des membres inférieurs"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-05T18:53:00+02:00
 publishdate = 2021-05-16
-lastmod = 2022-02-06
+lastmod = 2022-03-07
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["ESC", "HAS", "SFMV"]
@@ -26,7 +27,7 @@ todo = "centres réadapt vasculaire, QDV EQ-5D, association patient, https://pub
 - Définit un {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}}
 - Bilan des autres localisations athéromateuses
 - Suivi par cardiologue et angiologue
-- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}}, IEC, sevrage tabagique, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
+- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, sevrage tabagique, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -344,5 +345,10 @@ style depister stroke:#4150f5, stroke-width:1px
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
 
 {{< scores/mna >}}
+
+{{% /modal %}}
+{{% modal title="IEC" id="modal-iec" size="lg"%}}
+
+{{< traitements/iec >}}
 
 {{% /modal %}}

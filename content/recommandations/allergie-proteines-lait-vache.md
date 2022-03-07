@@ -2,7 +2,7 @@
 title = "Allergie aux protéines de lait de vache"
 prefix = "l'"
 titleSeo = "Allergie protéines de lait de vache"
-shortname = "APLV"
+description = "Recommandations sur l'Allergie aux protéines de lait de vache (APLV), durée d'éviction, allergies croisées et laits de riz, hydrolysats et acides aminés"
 synonyms = ["Intolérance lait de vache", "APLV"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-11T06:43:00+02:00

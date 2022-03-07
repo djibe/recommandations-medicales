@@ -2,7 +2,7 @@
 title = "Durée de sommeil recommandée chez l'adulte et les enfants"
 prefix = "la "
 titleSeo = "Temps de sommeil"
-shortname = "Durée de sommeil"
+description = "Recommandations de la Société américaine du sommeil sur le temps de sommeil recommandé chez l'adulte avec 7 à 9 heures et 9 à 12 heures pour l'enfant"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-14T15:36:00+02:00
@@ -14,7 +14,6 @@ sources = ["AASM"]
 tags = ["fatigue"]
 anglais = ["Amount of sleep"]
 sctid = ""
-draft = false
 image = true
 imageSrc = "Photo de Anne Marthe Widvey sur Foter.com"
 todo = "https://www.freepik.com/free-vector/flat-person-sleeping-night-bed-background_4477937.htm#query=sleep&position=4&from_view=search ou https://www.freepik.com/free-vector/insomnia-concept-illustration_10198500.htm#query=sleep&position=8&from_view=search"
