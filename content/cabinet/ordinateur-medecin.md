@@ -13,7 +13,7 @@ sctid = ""
 draft = false
 image = false
 imageSrc = ""
-todo= "liste tout en 1, webcam creative live! cam sync 1080p 50€ | écran ViewSonic XG2705-2K, AOC 27G2U"
+todo= "liste tout en 1, webcam creative live! cam sync 1080p 50€ | écran ViewSonic XG2705-2K, AOC 27G2U, Iiyama GB2766HSU-B1"
 +++
 
 L'ordinateur (PC ou Mac) est essentiel au sein du cabinet afin de gérer à long terme le suivi des patients. Il permet également l'accès aux outils de productivité comme Ameli Pro. Bref, il est vital. Et pourtant, sans aucune connaissance préalable, on vous vendra ce qui rapporte, pas ce dont vous avez besoin.

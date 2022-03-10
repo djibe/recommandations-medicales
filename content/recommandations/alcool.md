@@ -7,7 +7,7 @@ synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
 publishdate = "2022-01-11"
-lastmod = "2022-01-25"
+lastmod = "2022-03-10"
 specialites = ["addictologie"]
 annees = "2021"
 sources = ["HAS", "SFA"]
@@ -19,9 +19,9 @@ imageSrc = "Les verres standards par Alcool-Info-Service"
 todo = "Audit C seuils + bas sujet âgé, entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, indications hospit, centres de cure, bilan des complications, supplémentations, https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa"
 +++
 
-{{%article-summary%}}
-
 *Version préliminaire pour disposer des outils de dépistage*
+
+{{%article-summary%}}
 
 1. Repérage: consommation moyenne par jour, fréquence mensuelle de consommation ≥ 6 verres, autres toxiques (voir *Dépistage*)
 2. Évaluation: AUDIT-C ou FACE d'un mésusage, comorbidités (voir *Évaluation*)
@@ -30,7 +30,10 @@ todo = "Audit C seuils + bas sujet âgé, entretien structuré Inserm DEP-ADO, s
 
 - 1 verre standard = 10g d'alcool. << Pour votre santé, l'alcool c'est maximum 2 verres par jour et pas tous les jours >> (max 10/semaine, *[affiche SPF](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/affiche/pour-votre-sante-l-alcool-c-est-maximum-2-verres-par-jour-et-pas-tous-les-jours)*)
 - 0 alcool pendant la grossesse et chez les enfants
-- [Alcool Info Service](https://www.alcool-info-service.fr/) ou {{<phone>}}0 980 980 930{{</phone>}}, [liste des CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html)
+- Prise en charge des co-addictions (tabac, cannabis) et troubles psychiatriques (dépression, anxiété...)
+- Toute réduction de consommation est un résultat positif. Plus efficace est l'auto-évaluation quotidienne de la consommation
+
+Pour la pratique: [Alcool Info Service](https://www.alcool-info-service.fr/) ou {{<phone>}}0 980 980 930{{</phone>}}, [liste des CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -53,6 +56,9 @@ Alcool
     - Usage avec dépendance
 
 L'*usage nocif* et la *dépendance*, dits **troubles liés à l'usage de l'alcool** (CIM-10), sont caractérisés par des symptômes visibles sur le plan **social**, **psychologique** ou **médical**.
+
+Rechute
+: Reprise de fortes consommations ≥ 5 verres/j en 1 seule occasion pour l'homme < 65 ans, 4 si femme ou ≥ 65 ans (définition *FDA* avec verre à 14 g).
 
 ### Abréviations
 
@@ -98,8 +104,10 @@ Questions pour dépister une consommation à risque (mésusage):
 {{< clinique/addiction-reperage >}}
 
 Demander aussi la fréquence des jours avec forte consommation ≥ 6 verres
-Chez l'enfant: << Y a-t-il déjà eu consommation d'alcool au moins une fois ? >>  
-Toute consommation pendant la **grossesse** est un mésusage. Orienter rapidement vers service d'addictologie, gynécologique, psychologique et social.
+Chez l'enfant: << Y a-t-il déjà eu consommation d'alcool au moins une fois ? >>
+
+{{%warning%}}Toute consommation pendant la **grossesse** est un mésusage, urgence addictologique, gynécologique, psychologique et sociale.  
+Idem sans urgence pour jeune (avec avis psychiatrique + parents), cirrhose, travail sur machine, chauffeur professionnel{{%/warning%}}
 
 Occasions pour dépister un mésusage: consultation de routine, prescription d'un médicament interagissant avec l'alcool, désir de grossesse, tabagisme, jeune adulte, troubles psychiatriques, précarité, pathologie cardiovasculaire, pathologie résistante au traitement (douleur, dépression, diabète...).
 
@@ -151,17 +159,19 @@ De 0 à 10, évaluer:
 
 Rechercher les complications d'un mésusage de l'alcool:
 
-- Addictions
+- Autres addictions  
+  Tabac 65%, cannabis, opiacés...
 - Sociales
   - Travail, contrat, formation
   - Foyer, famille, entourage
   - Hébergement, finances
   - Judiciaire, violence
 - Psychiatrique
-  - Anxiété, dépression
+  - **Anxiété**, dépression
   - Troubles du sommeil
-  - Trouble bipolaire ou de personnalité  
+  - Trouble bipolaire ou de personnalité (anti-sociale, borderline)  
   Évaluation nécessite consommation à faible risque pendant 15 jours.
+  - Psychose
   - Évaluation du risque suicidaire
   - Troubles cognitifs  
   Test MoCA à distance du sevrage voire évaluation neuropsychologique.
@@ -201,36 +211,51 @@ Il est recommandé de **promouvoir l'abstinence** mais d'**accepter les objectif
 Installer une alliance thérapeutique sur la définition du problème à résoudre et les objectifs à poursuivre.
 
 - Favoriser le soutien de l'entourage
-- Consultation d'addictologie
-- Centres de soins, d'accompagnement et de prévention en addictologie ([CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html))
-- Équipe de liaison en addictologie
+- Ressources de soins
+  - Adresser d'emblée si mésusage très sévère, comorbidités, isolement/précarité, jeune (consultations jeunes consommateurs)
+  - Consultation d'addictologie
+  - Centres de soins, d'accompagnement et de prévention en addictologie ([CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html))
+  - Équipe de liaison en addictologie
 - Livret d'information  
 Maladie alcoolique, sevrage, intérêt de l'accompagnement, coordonnées des acteurs.
-- Soutien psychologique
-- Évaluation du risque suicidaire
-- Thérapies cognitives et comportementales (TCC)
-- Thérapie conjugale et familiale
+- Intervention psychosociale
+  - Soutien psychologique
+  - Renforcement de la motivation au changement
+  - Mouvement d'entraide  
+  TODO: liste
+  - Évaluation du risque suicidaire
+  - Thérapies cognitives et comportementales (TCC)
+  - Thérapie conjugale et familiale
 - Antidépresseur  
 Seulement si persistant après 4 semaines d'abstinence.
 - Sexologie
 - Médecin du travail
 - Conseils diététiques  
 Appétence sucrée marquée au sevrage.
-- Mouvement d'entraide  
-TODO: liste
 - ALD 30, MDPH
 
-### Sevrage hospitalier
+### Sevrage hospitalier en alcool
 
-Indications à l'hospitalisation:
+Indications à l'hospitalisation pour une abstinence:
 
+- Antécédent de crise convulsive ou de delirium tremens
+- Autres toxiques à doses élevées
 - Contre-indication aux benzodiazépines  
   Insuffisance respiratoire, cirrhose décompensée, TP < 50%, obésité, personne âgée.
-- Syndrome de Korsakoff
-- Encéphalopathie de Gayet-Wernicke
-TODO:
+- Isolement
+- Syndrome de Korsakoff ou encéphalopathie de Gayet-Wernicke
+- Envisager dans les situations suivantes
+  - Syndrome de sevrage important, échecs ambulatoires itératifs
+  - Comorbidités (psychiatrique...)
+  - Demande de l'entourage
+  - Grossesse
+
+**Post-cure** (SSR prolongés) à envisager: échecs des soins optimaux antérieurs, période d'abstinence minimale à obtenir, troubles psychiatriques à étayer, somatiques ou cognitifs sévères, précarité ou demande personnelle ou familiale forte.
 
 ### Thérapeutiques pour le sevrage alcoolique
+
+Lorsque l'objectif est l'abstinence. Le sevrage combiné du **tabac** est recommandé.  
+La **préparation** du sevrage diminue le risque de rechute et s'inscrit dans un projet de soins.
 
 #### Prévention du syndrome de sevrage alcoolique (SSA)
 
@@ -242,6 +267,10 @@ Doses adaptées aux symptômes résiduels et réduites chez l'adolescent et le s
 Symptômes de sevrage: **benzodiazépines à demi-vie longue** type diazépam max 8-10 jours (*SFA 2015*). Contre-indiquée en cirrhose.  
 Les benzodiazépines n'ont aucune indication dans l'aide au maintien de l'abstinence.
 
+Les **dépressions** sont fréquentes (80%) au cours du sevrage, mais seules 15% persistent à son issue. Contrôler à 2-4 semaines avant d'introduire un antidépresseur.
+
+{{%info%}}<< Dans la majorité des cas, le sevrage ne requiert pas de traitement pharmacologique >> *SFA 2015*{{%/info%}}
+
 #### Vitamines
 
 - Thiamine (vitamine B1 selon l'état nutritionnel, 30-80% de carences)  
@@ -251,7 +280,7 @@ Les benzodiazépines n'ont aucune indication dans l'aide au maintien de l'abstin
 
 #### Prévention des rechutes
 
-Acamprosate (ex Aotal®) ou naltrexone (ex Revia®) en première intention pour diminuer l'envie de consommer.  
+Maintien de l'abstinence des personnes dépendantes par acamprosate (ex Aotal®) ou naltrexone (ex Revia®) en première intention pour diminuer l'envie de consommer.  
 Les traitements doivent être arrêtés après 4-6 semaines si la consommation d'alcool persiste.
 
 - [Acamprosate 333 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69724187&typedoc=R)
@@ -262,7 +291,7 @@ Les traitements doivent être arrêtés après 4-6 semaines si la consommation d
   - Débuté après le sevrage
   - 1/2 cp avec une surveillance d'1 heure. Puis prise de l'autre moitié et 1 cp/j pendant 3 mois (jusqu'à 6 mois si bénéfique et souhaité)
 
-##### Autres traitements
+##### Autres traitements pour le maintien de l'abstinence
 
 - [Disulfiram 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61500746&typedoc=R) (Espéral®)
   - Effet antabuse avec toute source d'alcool (boisson, nourriture, parfum), risque neuropathie périphérique et hépatotoxicité
@@ -358,7 +387,19 @@ Déterminer ensemble:
 
 ### Gérer la résistance du patient
 
-L'entretien motivationnel est empathique avec une écoute sans jugement et une acceptation inconditionnelle de la situation (acceptation et bienveillance).
+L'entretien motivationnel est empathique avec une écoute sans jugement et une acceptation inconditionnelle de la situation (acceptation et bienveillance), c'est un accompagnement.  
+Demander au patient l'autorisation de parler de sa consommation d'alcool.
+
+De 0 à 10, évaluer:
+
+- << Sur une échelle de 0 à 10, à quel point est-il important de modifier votre consommation d'alcool ? >>
+- << À quel point vous sentez-vous capable de modifier votre consommation ? >>
+- << À quel point vous sentez-vous prêt à modifier votre consommation d'alcool ? >>
+
+#### Patient très résistant
+
+Explorer ensemble l'ensemble des avantages que représentent la consommation d'alcool. Puis explorer les éléments moins positifs (ambivalence).  
+Avec le temps, lorsque le patient évoque d'abord l'importance du changement, des changements hypothétiques peuvent être amenés dans la conversation. Ce qu'ils pourraient être, les bénéfices à en attendre, les stratégies qui pourraient être mises en place.
 
 {{% /collapse %}}
 {{%sources%}}
