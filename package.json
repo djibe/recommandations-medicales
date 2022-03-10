@@ -15,7 +15,7 @@
     "hugo:update": "choco upgrade hugo-extended",
     "links-md:check": "linkinator content/**/*.md --markdown --verbosity error --skip '(%22)$'",
     "links-external:check": "hugo && linkinator ./public/** --config ./build/linkinator.config.json",
-    "server": "hugo server --buildDrafts --watch --destination dev --verbose --cleanDestinationDir -p 1313",
+    "server": "hugo server --buildDrafts --watch --destination dev --verbose --cleanDestinationDir --renderStaticToDisk -p 1313",
     "start": "hugo --cleanDestinationDir --gc --minify",
     "webhint": "hint http://localhost:1313"
   },

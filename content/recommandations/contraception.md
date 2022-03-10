@@ -1,23 +1,23 @@
 +++
 title = "Contraception"
 prefix = "la "
+description = "Recommandations contraception avec tous les contraceptifs disponibles et leurs contre-indications (phlébite), coter les consultations contraception gratuites..."
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2022-02-27"
+lastmod = "2022-03-08"
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
 tags = ["contraception", "MVTE"]
 anglais = ["Contraception"]
 sctid = "13197004"
-draft = false
 chart = true
 image = true
 imageSrc = "La contraception illustrée par stories / Freepik"
-todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, 5% dev HTA sous COP ESC 2018, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, barrière, contraception et HTA ESC 2018, 360medics, inducteur enz p9, cat vmts et diarrhes p9, contraception définitive"
+todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, 5% dev HTA sous COP ESC 2018, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, barrière, contraception et HTA ESC 2018, 360medics, inducteur enz p9, cat vmts et diarrhées p9, contraception définitive"
 +++
 
 {{%article-summary%}}
@@ -26,7 +26,7 @@ todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult 
 - Seul le préservatif est efficace contre les [IST](/tags/ist/)
 - [QuestionSexualité_ - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)
 - Contraceptions très efficaces de 1<sup>re</sup> intention: COP, DIU, implant
-- Informations sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
+- Informer sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -198,7 +198,9 @@ Notamment [Ct]({{< relref "chlamydia-trachomatis.md" >}}) chez les 15-25 ans ou 
 
 ### Première consultation contraception gratuite
 
-Pour une première consultation chez une jeune femme ou un jeune homme, coter **CCP** (46€, une seule fois) avec TP AMO.
+Pour une première consultation chez une jeune femme ou un jeune homme < 26 ans, coter **CCP** (46€, une seule fois) avec TP AMO.
+
+La première consultation reprend les types de contraceptifs groupés par efficacité, leurs avantages, limites et inconvénients, la contraception d'urgence et les IST.
 
 ### Consultation contraception gratuite avant 26 ans
 
@@ -211,7 +213,10 @@ Pour une première consultation chez une jeune femme ou un jeune homme, coter **
 Pour les mineurs désirant le secret:
 
 - Rédiger une ordonnance dédiée avec mention << contraception mineurs >> et son âge
-- Facturer: Sur la FSE, GS + Exo 3 avec **NIR anonyme** 2 55 55 55 CCC 042/XX pour la mineure et 1 55 55 55 CCC 042/XX pour le mineur (la date de naissance doit être exacte) et TP AMO + AMC
+- Facturer
+  - Sur la FSE, GS + Exo 3 avec **NIR anonyme** 2 55 55 55 *CCC* 042/*XX* pour la mineure et 1 55 55 55 *CCC* 042/*XX* pour le mineur (la date de naissance doit être exacte) et TP AMO + AMC
+  - *CCC* doit être remplacé par le numéro de la CPAM du patient en ajoutant un 1 derrière le numéro du département (331 pour la Gironde), sauf 64 et DOM
+  - Ensuite *XX*, la clé du NIR anonyme, [doit être calculée ici](https://commentcalculer.fr/calcul/cle-nir/)
 - Sesam sans vitale si le mineur n'a pas sa carte vitale
 
 > *[Ameli](https://www.ameli.fr/sites/default/files/Documents/Modalites-facturation-contraception-Medecins-SF-Labo.pdf)*

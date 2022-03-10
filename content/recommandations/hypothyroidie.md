@@ -1,7 +1,7 @@
 +++
 title = "Hypothyroïdie"
 prefix = "l'"
-shortname = "hThyroïdie"
+description = "Recommandations pour l'hypothyroïdie dont Hashimoto. Bilan TSH et T4, échographie thyroïdienne, suivi, titration pour débuter le lévothyrox à 1,7 µg/kg/j"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-14T23:30:41+02:00
@@ -180,7 +180,7 @@ Signes résolutifs sous lévothyroxine.
 Délai avant amélioration des symptômes de **2 semaines après instauration du traitement**. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
 
 **NB. Le traitement ne doit pas être débuté sans dosage préalable de la TSH**  
-{{%class%}}30% des traitements introduits sans TSH.{{%/class%}}
+{{%class%}}30% des traitements introduits sans TSH (HAS 11/2020 dysthyroïdies).{{%/class%}}
 
 ### Lévothyroxine sodique (opothérapie substitutive)
 
@@ -285,6 +285,5 @@ graph TB
 - [Mooijaart SP et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 30 oct 2019;1‑11.](https://jamanetwork.com/journals/jama/fullarticle/2753909)
 - [HAS. Hypothyroïdie – pertinence des soins. Mars 2019.](https://www.has-sante.fr/portail/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)
 - [S. Laboureau-Soares et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8.](https://www.em-select.com/article/224074)
-- Prescrire 2015
 
 {{%/sources%}}

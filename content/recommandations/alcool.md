@@ -119,7 +119,7 @@ Occasions pour dépister un mésusage: consultation de routine, prescription d'u
 </div>
 
 {{% /collapse %}}
-{{%collapse "Intervention brève" %}}
+{{%collapse "Intervention brève et approches motivationnelles" %}}
 
 Encourager à tenir un agenda de la consommation.
 
@@ -145,18 +145,6 @@ De 0 à 10, évaluer:
 - Confiance dans la réussite du projet de réduire/arrêter sa consommation
 
 > *HAS 2021*
-
-### Autocontrôle comportemental
-
-Intervention psychosociale la plus efficace dans l'objectif de réduction de la consommation. Déterminer ensemble:
-
-- Les limites de consommation
-- Tenir un **agenda quotidien de consommation**  
-  Mesure la plus efficace.
-- Apprentissage des stratégies de refus
-- Mesures de renforcement du succès
-- Analyse des situations à haut risque
-- Apprentissage de comportements alternatifs
 
 {{% /collapse %}}
 {{%collapse "Dépistage des complications" %}}
@@ -276,12 +264,12 @@ Les traitements doivent être arrêtés après 4-6 semaines si la consommation d
 
 ##### Autres traitements
 
-- [Disulfiram 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61500746&typedoc=R) (Espéral®)  
+- [Disulfiram 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61500746&typedoc=R) (Espéral®)
+  - Effet antabuse avec toute source d'alcool (boisson, nourriture, parfum), risque neuropathie périphérique et hépatotoxicité
   - Indication: patient motivé souhaitant l'abstinence avec ce médicament. Nombreuses interactions et contre-indications
   - Après ≥ 24h de la dernière consommation: 1 cp/j
   - Suivi 2/mois 1 mois, puis 1/mois 4 mois puis 2/an
-  - Effet antabuse avec toute source d'alcool (boisson, nourriture, parfum), risque neuropathie périphérique et hépatotoxicité
-- Nalméfène, Gamma-hydroxybutyrate (GHB)  
+- Nalméfène, Gamma-hydroxybutyrate (GHB), baclofène  
   Prescription spécialisée.
 
 ### Suivi
@@ -289,8 +277,7 @@ Les traitements doivent être arrêtés après 4-6 semaines si la consommation d
 - Lutte contre les facteurs de rechute
 - Consommation: VGM et GGT à 3, 6 et 12 mois
 - Arrêt du tabac
-
-Rechute: rassurer et déculpabiliser.
+- Rechute: rassurer et déculpabiliser
 
 {{% /collapse %}}
 {{%collapse "Information du Grand Public" %}}
@@ -354,6 +341,26 @@ L'option la plus sûre est de ne pas consommer d'alcool en cas de:
 - Korsakoff (20% s'améliorent)
 
 {{% /collapse %}}
+{{%collapse "Pour en savoir plus" %}}
+
+### Autocontrôle comportemental
+
+Intervention psychosociale la plus efficace dans l'objectif de réduction de la consommation.  
+Déterminer ensemble:
+
+- Les limites de consommation
+- Tenir un **agenda quotidien de consommation**  
+  Mesure la plus efficace.
+- Apprentissage des stratégies de refus
+- Mesures de renforcement du succès
+- Analyse des situations à haut risque
+- Apprentissage de comportements alternatifs
+
+### Gérer la résistance du patient
+
+L'entretien motivationnel est empathique avec une écoute sans jugement et une acceptation inconditionnelle de la situation (acceptation et bienveillance).
+
+{{% /collapse %}}
 {{%sources%}}
 
 - [HAS. Outil d'aide au repérage précoce et intervention brève : alcool, cannabis, tabac chez l'adulte. Janvier 2021.](https://www.has-sante.fr/jcms/c_1795221/fr/outil-d-aide-au-reperage-precoce-et-intervention-breve-alcool-cannabis-tabac-chez-l-adulte)
@@ -365,6 +372,7 @@ L'option la plus sûre est de ne pas consommer d'alcool en cas de:
 
 ### À lire
 
+- [Angler R et al. Dépassement des repères de consommation d'alcool à moindre risque en 2020 : résultats du Baromètre santé de Santé publique France. BEH. Novembre 2021.](http://beh.santepubliquefrance.fr/beh/2021/17/2021_17_1.html)
 - <https://www.cen-neurologie.fr/fr/deuxieme-cycle/addiction-lalcool-complications-neurologiques-lalcoolisme>
 - <http://www.addictologie.org/spip.php?page=avectitre&id_rubrique=8>
 - <http://www.addictologie.org/spip.php?page=accueil&id_rubrique=1>
