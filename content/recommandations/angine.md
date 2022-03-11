@@ -1,7 +1,7 @@
 +++
 title = "Angine"
 prefix = "l'"
-shortname = "M"
+description = "Recommandations pour le traitement de l'angine. Score de Mac Isaac, streptatest, indications à l'antibiothérapie et à l'amygdalectomie. Amoxicilline 6 jours ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-28T10:46:41+02:00

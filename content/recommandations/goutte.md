@@ -1,7 +1,7 @@
 +++
 title = "Goutte"
 prefix = "la "
-shortname = "Goutte"
+description = "Recommandations SFR pour le traitement de la goutte. Uricémie cible, traitement de la crise colchicine, indication au traitement de fond allopurinol, fébuxostat"
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

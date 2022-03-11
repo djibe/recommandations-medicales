@@ -2,7 +2,7 @@
 title = "Dénutrition du sujet âgé, de l'adulte et de l'enfant"
 prefix = "la "
 titleSeo = "Dénutrition"
-description = "Critères de dénutrition chez la personne âgée, l'adulte et l'enfant, score MNA pour le dépistage de la dénutrition et compléments alimentaires"
+description = "Recommandations: critères de dénutrition chez la personne âgée, l'adulte et l'enfant, dépistage de la dénutrition par score MNA et compléments alimentaires"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-19T11:25:57+01:00"

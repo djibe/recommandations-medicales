@@ -1,7 +1,8 @@
 +++
 title = "Hypertension artérielle de l'adulte"
 prefix = "l'"
-titleSeo = "Hypertension artérielle"
+titleSeo = "Hypertension artérielle HTA"
+description = "Recommandations HTA 2021 diagnostic et traitement de l'hypertension artérielle. Cibles tensionnelles selon le profil, carnet d'automesure, associations IEC ..."
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
@@ -16,7 +17,7 @@ anglais = ["Hypertension disorder", "high blood pressure"]
 sctid = "38341003"
 image = true
 imageSrc = "Illustration de l'hypertension artérielle par vectorjuice / Freepik"
-todo = "index google demandée 9 déc, modale automesure, A LIRE: Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, hypotension orthostatique, ESC 2018 tableau 4+19 - src157"
+todo = "modale automesure, A LIRE: Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, hypotension orthostatique, ESC 2018 tableau 4+19 - src157"
 +++
 
 Ces recommandations concernent l'adulte ≥ 18 ans.
@@ -24,8 +25,7 @@ Ces recommandations concernent l'adulte ≥ 18 ans.
 {{%article-summary%}}
 
 - Tout adulte doit être dépisté au moins tous les 5 ans (20% non traités)
-- Conditions de mesures strictes
-- Appareil validé (voir *Mesure au cabinet*)
+- Conditions de mesures strictes et tensiomètre validé (voir *Mesure au cabinet*)
 - Confirmer le diagnostic par mesures et automesure/MAPA répétées
 - Recherche des complications, HTA secondaire et calcul du {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} avec le {{< scores/heartscore >}} (le LDL cible en découle)
 - Traitement selon le grade d'hypertension (voir *Définitions*) et RHD systématiques
@@ -194,6 +194,8 @@ L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hyp
 - Mesures avec antihypertenseurs
   - 2 mesures consécutives
   - 1-2/semaine et minimum 1/mois
+
+Ajouter sur l'ordonnance le tensiomètre électronique, certaines mutuelles pouvant le prendre en charge.
 
 {{% /collapse %}}
 {{%collapse "Objectifs tensionnels" "show" %}}

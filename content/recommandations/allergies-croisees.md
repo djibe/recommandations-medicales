@@ -1,7 +1,7 @@
 +++
 title = "Allergies croisées"
 prefix = "les "
-shortname = "Allergies"
+description = "Principales allergies croisées: pêche et pomme, poire, prune, cerise, abricot, amande; latex et banane, avocat, kiwi; bouleau et pomme, pêche, cerise"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-11T15:36:18+01:00"
@@ -13,7 +13,6 @@ sources = ["Anses", "Bibliographie"]
 tags = ["allergie"]
 anglais = []
 sctid = ""
-draft = false
 image = false
 imageSrc = ""
 todo = ""

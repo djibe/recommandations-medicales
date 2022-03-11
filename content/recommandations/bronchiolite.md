@@ -1,8 +1,8 @@
 +++
 title = "Bronchiolite aiguë du nourrisson"
 prefix = "la "
-titleSeo = "Bronchiolite"
-shortname = "Bronchiolite"
+titleSeo = "Bronchiolite aiguë"
+description = "Recommandations pour le diagnostic et le traitement de la bronchiolite du nourrisson. Critères de gravité (SpO2, polypnée), indications à l'hospitalisation, DRP"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-16T08:08:41+02:00

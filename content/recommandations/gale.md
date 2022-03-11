@@ -1,7 +1,7 @@
 +++
 title = "Gale"
 prefix = "la "
-shortname = "Gale"
+description = "Recommandations pour le diagnostic et le traitement de la gale. Traitement topique Topiscab ou comprimés Stromectol, désinfection et traitement de l'entourage"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-16T16:50:41+01:00
@@ -13,7 +13,6 @@ sources = ["CMIT", "CEDEF"]
 tags = ["prurit"]
 anglais = ["Scabies"]
 sctid = "128869009"
-draft = false
 todo = "collectivité, impétiginisation, ttt < 2 mois, source Prescrire"
 +++
 

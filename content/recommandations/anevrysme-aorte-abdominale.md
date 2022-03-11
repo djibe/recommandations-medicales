@@ -1,8 +1,8 @@
 +++
-title = "Anévrysme de l'aorte abdominale"
+title = "Anévrysme de l'aorte abdominale (AAA)"
 prefix = "l'"
 titleSeo = "Anévrysme de l'aorte abdominale"
-shortname = "AAA"
+description = "Recommandations pour le dépistage de l'Anévrysme de l'aorte abdominale (AAA). Qui dépister (homme, tabagisme, AOMI), indications de l'échodoppler et suivi"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-29T17:51:41+02:00
@@ -25,7 +25,7 @@ Indications au dépistage par échodoppler:
 
 - Homme de 65 à 75 ans avec tabagisme actif ou sevré depuis < 20 ans
 - Homme de 50 à 75 ans avec antécédent familial d'AAA au 1<sup>er</sup> degré (parents/fratrie)
-- AOMI
+- [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

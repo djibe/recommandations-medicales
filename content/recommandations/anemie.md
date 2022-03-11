@@ -2,7 +2,7 @@
 title = "Anémie par carence martiale"
 prefix = "l'"
 titleSeo = "Anémie par carence martiale"
-shortname = "Anémie"
+description = "Recommandations pour l'anémie par carence martiale. 12 g/dL femme. Ferritinémie cible, bilan étiologique, coloscopie, spécialités pour la supplémentation en fer"
 synonyms = ["Carence en fer", "anémie ferriprive"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-08T13:02:19+02:00"
