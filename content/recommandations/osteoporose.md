@@ -1,7 +1,8 @@
 +++
 title = "Ostéoporose post-ménopausique"
 prefix = "l'"
-titleSeo = "Ostéoporose"
+titleSeo = "Ostéoporose post-ménopausique"
+description = "Recommandations pour le traitement de l'ostéoporose: indications de l'ostéodensitométrie, traitement selon le T-score, biphosphonates et bilan pré-thérapeutique"
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

@@ -1,7 +1,8 @@
 +++
 title = "Hypertension artérielle pulmonaire"
 prefix = "l'"
-shortname = "HTAP"
+titleSeo = "Hypertension artérielle pulmonaire"
+description = "Recommandations pour l'Hypertension artérielle pulmonaire (HTAP) par le médecin généraliste. Qui dépister ? Quel suivi ? Échodoppler cardiaque, épreuve d'effort"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-02T11:46:00+02:00
@@ -13,10 +14,9 @@ sources = ["HAS"]
 tags = ["dyspnee", "epreuve effort", "fatigue", "SAS", "VIH"]
 anglais = ["Pulmonary arterial hypertension"]
 sctid = "11399002"
-draft = false
 image = false
 imageSrc = ""
-todo = "surveillance (aggrav signes + IRC), psycho, social, fam"
+todo = "ESC, surveillance (aggrav signes + IRC), psycho, social, fam"
 +++
 
 {{%article-summary%}}
@@ -128,7 +128,7 @@ Normale, discordante avec la sévérité des symptômes.
 
 - Glycémie à jeun
 - Bilan lipidique
-- Sérologies VHB, VHC et VIH.
+- Sérologies VHB, VHC et VIH
 
 ### Radiographie thoracique de face
 

@@ -2,7 +2,7 @@
 title = "Durée de sommeil recommandée chez l'adulte et les enfants"
 prefix = "la "
 titleSeo = "Temps de sommeil"
-description = "Recommandations de la Société américaine du sommeil sur le temps de sommeil recommandé chez l'adulte avec 7 à 9 heures et 9 à 12 heures pour l'enfant"
+description = "Recommandations de la Société américaine du sommeil sur le temps de sommeil optimal chez l'adulte avec 7 à 9 heures et 9 à 12 heures pour l'enfant"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-14T15:36:00+02:00

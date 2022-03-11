@@ -1,6 +1,7 @@
 +++
 title = "Évolution du tarif des consultations des médecins généralistes sur 40 ans"
-description = "Évolution du montant d'une consultation chez le médecin généraliste de 1980 à 2021, corrigée de l'inflation."
+titleSeo = "Évolution du tarif des consultations médicales"
+description = "Évolution du montant d'une consultation chez le médecin généraliste sur 40 ans (honoraires en secteur 1), de 1980 à 2021, corrigée de l'inflation"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2022-01-23T14:00:00+02:00
 publishdate = 2022-01-27
@@ -8,7 +9,6 @@ lastmod = 2022-01-27
 specialites = []
 sources = ["CNAM"]
 tags = []
-draft = false
 chart = true
 image = false
 imageSrc = ""
@@ -25,7 +25,7 @@ Ce que sera délicat: l'augmentation des prélèvements obligatoires, des loyers
 
 Ce qui nécessitera un autre travail: l'évolution de l'activité des praticiens.
 
-## Graphique
+## Graphique de l'historique des honoraires médicaux conventionnés secteur 1
 
 <figure>
   <div id="chart" class="border alert mb-4"></div>
@@ -62,9 +62,7 @@ const chartOptions = {
       formatter: function(value) { return `${value} €` }
     }]
   },
-  theme: {
-    monochrome: { enabled: true }
-  },
+  theme: { monochrome: { enabled: true } },
   annotations: {
     xaxis: [{
       x: 2002,
@@ -88,7 +86,5 @@ const chartOptions = {
 
 Les données sont téléchargeables depuis le graphique.  
 Pour le graphique avant 2002, les francs français ont été convertis avec l'outil INSEE xxx.
-
-
 
 {{% /collapse %}}

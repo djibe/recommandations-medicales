@@ -2,6 +2,7 @@
 title = "Maladies à déclaration obligatoire"
 prefix = "les "
 titleSeo = "Maladies à déclaration obligatoire"
+description = "Liste des 36 maladies à déclaration obligatoire selon l'article D3113-6 du Code de la Santé publique: Hépatite A ou hépatite B symptomatique, VIH ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-27T17:24:00+02:00
@@ -13,9 +14,8 @@ sources = ["SPF"]
 tags = []
 anglais = []
 sctid = ""
-draft = false
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Illustration par rawpixel.com / Freepik"
 todo= ""
 +++
 

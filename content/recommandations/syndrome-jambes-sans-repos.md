@@ -2,6 +2,7 @@
 title = "Syndrome des jambes sans repos"
 prefix = "le "
 titleSeo = "Syndrome des jambes sans repos"
+description = "Recommandations pour le traitement du syndrome des jambes sans repos. Score IRLS, traitement de 1ere intention, codéine et supplémentation en fer (martiale)"
 longHtml = true
 synonyms = ["Maladie de Willis-Ekbom"]
 auteurs = ["Jean-Baptiste FRON"]

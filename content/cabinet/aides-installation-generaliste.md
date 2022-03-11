@@ -1,13 +1,12 @@
 +++
-title = "Aides à l'installation du médecin généraliste en zones sous-dotées"
-description = "Les aides disponibles pour l'installation des médecins généralistes dans les déserts médicaux"
+title = "Aides à l'installation du médecin généraliste"
+description = "Les aides de l'Assurance Maladie, des ARS et aides régionales pour l'aide à l'installation des médecins généralistes dans les déserts médicaux (ZAC et ZIP)"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-11-17T20:00:00+02:00
 publishdate = 2021-11-22
-lastmod = 2022-01-09
+lastmod = 2022-03-11
 sources = ["PAPS", "Ameli Pro", "ARS"]
 tags = []
-draft = false
 image = false
 imageSrc = ""
 todo = "forfait structure et exonérations fiscales, https://www.ameli.fr/medecin/exercice-liberal/vie-cabinet/aides-financieres, http://www.snjmg.org/outils/demographie-et-installation"

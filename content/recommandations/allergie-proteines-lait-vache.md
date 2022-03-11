@@ -14,9 +14,8 @@ sources = ["Anses", "bibliographie"]
 tags = ["allergie"]
 anglais = ["Cow's milk protein allergy (CMA)"]
 sctid = "782555009"
-draft = false
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Illustration de l'APLV par macrovector / Freepik"
 todo = "poulet ?, https://www.sciencedirect.com/science/article/abs/pii/S1877032018304500, https://pap-pediatrie.fr/hepato-gastro/allergie-aux-proteines-du-lait-de-vache, https://pap-pediatrie.fr/allergo-pneumo/reintroduction-des-proteines-de-lait-de-vache, https://www.chu-toulouse.fr/IMG/pdf/quel_lait_prescrire_dans_l_aplv_a_benhamou_opt.pdf"
 +++
 

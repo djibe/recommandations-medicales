@@ -1,7 +1,8 @@
 +++
 title = "Ménopause et traitement hormonal de la ménopause"
-titleSeo = "Ménopause et THM"
 prefix = "la "
+titleSeo = "Ménopause et traitement hormonal"
+description = "Recommandations pour le traitement hormonal de la ménopause (THM ou THS). Traitement du syndrome climatérique, contre-indications, patch, gel, progestérone ..."
 shortname = "Ménopause"
 synonyms = ["Syndrome climatérique", "traitement hormonal substitutif THS"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -16,9 +17,8 @@ anglais = ["Menopause", "Postmenopausal hormone replacement therapy"]
 sctid = "276477006"
 chart = true
 flowchart = true
-draft = false
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Illustration de la ménopause par Freepik"
 todo = "Chart J1-J31, relecture gemvi-secretariat@gemvi.org"
 +++
 

@@ -2,18 +2,18 @@
 title = "Substituts nicotiniques remboursés"
 prefix = "les "
 titleSeo = "Substituts nicotiniques remboursés"
+description = "Liste des substituts nicotiniques remboursés par l'Assurance maladie en 2022. Patchs, gommes, comprimés, pastilles, comprimés sublinguaux et sprays remboursés"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-17T14:11:29+02:00
 publishdate = 2020-06-17
-lastmod = 2022-01-16
+lastmod = 2022-03-11
 specialites = ["addictologie"]
 annees = "2022"
 sources = ["Ameli"]
 tags = ["asthme", "BPCO", "cancer", "tabac"]
 anglais = ["Product containing only nicotine"]
 sctid = "776904000"
-draft = false
 image = true
 imageSrc = "Illustration de Freepik"
 todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests_fagerstrom.pdf"
@@ -26,7 +26,7 @@ Liste des substituts nicotiniques remboursés par la Sécurité Sociale en 2022.
 ### Aide au choix des médicaments remboursés à 65% par l'Assurance Maladie sur prescription {.typography-subtitle-1 .text-black-primary}
 
 <hr class="my-3">
-<article class="my-3 my-lg-4" style="max-width: 800px">
+<div class="my-3 my-lg-4" style="max-width: 800px">
   <h4 class="typography-headline-6 mb-3">Nombre de cigarettes quotidiennes</h4>
   <div class="d-flex">
     <label class="radio-card m-3" data-toggle="collapse" data-target="#patchs-moins20">
@@ -42,7 +42,7 @@ Liste des substituts nicotiniques remboursés par la Sécurité Sociale en 2022.
       </span>
     </label>
   </div>
-</article>
+</div>
 <div class="accordion" id="accordionExample" style="max-width: 800px">
   <div class="collapse show" id="patchs-moins20" data-parent="#accordionExample">
     <div class="card rounded mb-3">

@@ -1,7 +1,7 @@
 +++
 title = "Fibrillation atriale"
 prefix = "la "
-description = "Recommandations ESC 2020 sur l'ACFA pour le médecin généraliste. Risque embolique CHADSVASC et hémorragique, anticoagulants AOD, antiarythmiques ..."
+description = "Recommandations ESC 2020 sur l'ACFA pour le médecin généraliste. ECG, risque embolique CHADSVASC et hémorragique, anticoagulants AOD, antiarythmiques ..."
 synonyms = ["Arythmie complète par fibrillation auriculaire ou ACFA"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-05T17:43:41+02:00
