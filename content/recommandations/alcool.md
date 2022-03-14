@@ -1,13 +1,13 @@
 +++
-title = "Alcool et consommation excessive d'alcool"
-prefix = "l'"
-titleSeo = "Sevrage en alcool"
+title = "Sevrage en alcool et mésusage de l'alcool"
+prefix = "le "
+titleSeo = "Sevrage et mésusage alcool"
 description = "Recommandations pour le dépistage d'une consommation à risque d'alcool (scores FACE et AUDIT-C), les vitamines et benzodiazépines pour le syndrome de sevrage"
 synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
 publishdate = "2022-01-11"
-lastmod = "2022-03-10"
+lastmod = "2022-03-14"
 specialites = ["addictologie"]
 annees = "2021"
 sources = ["HAS", "SFA"]
@@ -157,7 +157,7 @@ De 0 à 10, évaluer:
 {{% /collapse %}}
 {{%collapse "Dépistage des complications" %}}
 
-Rechercher les complications d'un mésusage de l'alcool:
+Rechercher les complications d'un mésusage de l'alcool et proposer un suivi spécialisé.
 
 - Autres addictions  
   Tabac 65%, cannabis, opiacés...
@@ -196,9 +196,9 @@ Le bilan biologique est annuel.
 - Consultation dentaire
 - Troubles neurologiques: bilan de [dénutrition]({{< relref "denutrition.md" >}} ) et carences (B1 ++)
 
-### Maladie alcoolique du foie
+### Maladie alcoolique du foie (MAF)
 
-Diagnostic si mésusage de l'alcool, cytolyse 2-5N prédominant sur les ASAT, GGt augmentées, élimination des autres hépatopathies.
+Diagnostic si mésusage de l'alcool, cytolyse 2-5N prédominant sur les ASAT, GGT augmentées, élimination des autres hépatopathies.
 
 Un bilan hépatique normal permet d'exclure une MAF significative à court terme.
 
@@ -222,7 +222,7 @@ Maladie alcoolique, sevrage, intérêt de l'accompagnement, coordonnées des act
   - Soutien psychologique
   - Renforcement de la motivation au changement
   - Mouvement d'entraide  
-  TODO: liste
+  [Alcooliques Anonymes](https://www.alcooliques-anonymes.fr), [La Croix-Bleue](https://croixbleue.fr/), [entraid' addict](https://www.entraidaddict.fr/), [Vie Libre](https://www.vielibre.org/), [Les amis de la santé](https://www.lesamisdelasante.org/), [Joie et santé - Alcool Écoute](https://www.alcoolecoute.com/)
   - Évaluation du risque suicidaire
   - Thérapies cognitives et comportementales (TCC)
   - Thérapie conjugale et familiale
@@ -236,21 +236,25 @@ Appétence sucrée marquée au sevrage.
 
 ### Sevrage hospitalier en alcool
 
+{{%warning%}}Seulement 3 indications aux *Urgences*: complications somatiques sévères, crises suicidaires, agitation avec agressivité{{%/warning%}}
+
 Indications à l'hospitalisation pour une abstinence:
 
 - Antécédent de crise convulsive ou de delirium tremens
 - Autres toxiques à doses élevées
 - Contre-indication aux benzodiazépines  
   Insuffisance respiratoire, cirrhose décompensée, TP < 50%, obésité, personne âgée.
-- Isolement
+- Isolement, SDF
 - Syndrome de Korsakoff ou encéphalopathie de Gayet-Wernicke
 - Envisager dans les situations suivantes
   - Syndrome de sevrage important, échecs ambulatoires itératifs
   - Comorbidités (psychiatrique...)
+  - Âge ≥ 75 ans
   - Demande de l'entourage
   - Grossesse
 
-**Post-cure** (SSR prolongés) à envisager: échecs des soins optimaux antérieurs, période d'abstinence minimale à obtenir, troubles psychiatriques à étayer, somatiques ou cognitifs sévères, précarité ou demande personnelle ou familiale forte.
+**Post-cure** ou soins de suite et de réadaptation alcoologique (SSRA) à envisager: échecs des soins optimaux antérieurs, période d'abstinence minimale à obtenir, troubles psychiatriques à étayer, somatiques ou cognitifs sévères, précarité, demande personnelle ou familiale forte.  
+Peut être prolongée en centre d'hébergement et de réinsertion sociale (CHRS).
 
 ### Thérapeutiques pour le sevrage alcoolique
 
@@ -264,7 +268,8 @@ Diazépam 10 mg 2 à 4 fois par jour pendant 2-3 jours, puis réduction progress
 Doses adaptées aux symptômes résiduels et réduites chez l'adolescent et le sujet âgé.
 {{%/info%}}
 
-Symptômes de sevrage: **benzodiazépines à demi-vie longue** type diazépam max 8-10 jours (*SFA 2015*). Contre-indiquée en cirrhose.  
+Symptômes de sevrage: **[benzodiazépines à demi-vie longue]({{< relref "benzodiazepines.md" >}})** type diazépam max 8-10 jours (*SFA 2015*). Contre-indiquée en cirrhose.  
+Sujet âgé (≥ 75 ans): *oxazépam* ou lorazépam en diminuant la dose 30-50%.  
 Les benzodiazépines n'ont aucune indication dans l'aide au maintien de l'abstinence.
 
 Les **dépressions** sont fréquentes (80%) au cours du sevrage, mais seules 15% persistent à son issue. Contrôler à 2-4 semaines avant d'introduire un antidépresseur.
@@ -372,7 +377,14 @@ L'option la plus sûre est de ne pas consommer d'alcool en cas de:
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus" %}}
 
-### Autocontrôle comportemental
+### Sevrage en alcool chez le prisonnier
+
+Suivi en CSAPA pénitentiaire.  
+En cas d'hospitalisation nécessaire, unité hospitalière sécurisée interrégionale (UHSI).
+
+### Approche psychosociale du sevrage alcoolique
+
+#### Autocontrôle comportemental
 
 Intervention psychosociale la plus efficace dans l'objectif de réduction de la consommation.  
 Déterminer ensemble:
@@ -385,7 +397,7 @@ Déterminer ensemble:
 - Analyse des situations à haut risque
 - Apprentissage de comportements alternatifs
 
-### Gérer la résistance du patient
+#### Gérer la résistance du patient
 
 L'entretien motivationnel est empathique avec une écoute sans jugement et une acceptation inconditionnelle de la situation (acceptation et bienveillance), c'est un accompagnement.  
 Demander au patient l'autorisation de parler de sa consommation d'alcool.
@@ -396,7 +408,7 @@ De 0 à 10, évaluer:
 - << À quel point vous sentez-vous capable de modifier votre consommation ? >>
 - << À quel point vous sentez-vous prêt à modifier votre consommation d'alcool ? >>
 
-#### Patient très résistant
+##### Patient très résistant
 
 Explorer ensemble l'ensemble des avantages que représentent la consommation d'alcool. Puis explorer les éléments moins positifs (ambivalence).  
 Avec le temps, lorsque le patient évoque d'abord l'importance du changement, des changements hypothétiques peuvent être amenés dans la conversation. Ce qu'ils pourraient être, les bénéfices à en attendre, les stratégies qui pourraient être mises en place.

@@ -7,7 +7,7 @@ synonyms = ["Fièvre amarile, typhus amaril, vomito negro"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-12T08:55:00+02:00
 publishdate = 2021-02-12
-lastmod = 2021-05-03
+lastmod = 2022-03-14
 specialites = ["infectiologie"]
 annees = "2019"
 sources = ["MinSante"]
@@ -21,7 +21,7 @@ todo = "clinique"
 
 {{%article-summary%}}
 
-Maladie à déclaration obligatoire.
+Maladie à [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}).
 
 Vaccination:
 
@@ -59,6 +59,8 @@ Rappel à 10 ans.
 - Voyage  
 Vaccination recommandée voire **obligatoire** pour de nombreux pays (voir plus bas).
 
+> *Calendrier vaccinal*
+
 **NB.** Vaccin vivant contre-indiqué chez l'immunodéprimé et la femme allaitante.
 
 {{% /collapse %}}
@@ -71,8 +73,7 @@ Vaccination recommandée voire **obligatoire** pour de nombreux pays (voir plus 
 
 La **vaccination anti-amarile** est réalisée dans un centre homologué avec remise d'un **certificat de vaccination** valable à vie.
 
-1 injection au moins 10 jours avant le départ sans rappel.  
-Possible dès 9 mois.
+1 injection au moins 10 jours avant le départ sans rappel (possible dès l'âge de 9 mois).
 
 {{< card-link title="Liste des centres de vaccination fièvre jaune par département" url="https://solidarites-sante.gouv.fr/IMG/pdf/tableau_cvfj_janvier_2019.pdf" subtitle="Ministère de la Santé" image="ministere" >}}
 

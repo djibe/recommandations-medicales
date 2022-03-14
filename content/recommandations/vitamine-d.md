@@ -42,7 +42,7 @@ Seuil de toxicité de la vitamine D
 : Taux sérique > 375 nmol/L.  
 Ne pas supplémenter au-delà 150 nmol/L.
 
-{{%info%}}À tous les âges, des apports quotidiens de 1000 UI/j sont recommandés.{{%/info%}}
+{{%info%}}À tous les âges, des apports quotidiens de 1000 UI/j sont recommandés{{%/info%}}
 
 ### Épidémiologie
 
@@ -77,11 +77,11 @@ Convertir dans les 2 sens: nmol/L (unités internationales) et ng/mL.
 ### Personnes à risque de complications par carence en vitamine D
 
 - Iatrogène  
-Corticoïdes au long cours, anti-aromatases, analogues de la GnRH.
+  Corticoïdes au long cours, anti-aromatases, analogues de la GnRH.
 - Maladies endocriniennes  
-Hyperparathyroïdie.
+  Hyperparathyroïdie.
 - Malabsorption  
-[Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), mucoviscidose, chirurgie bariatrique.
+  [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), mucoviscidose, chirurgie bariatrique.
 - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
 - Sujets âgés à {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}}
 
@@ -126,15 +126,15 @@ Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées s
 
 et aussi
 
-- Hospitalisation pour exacerbation de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (GOLD 2021)
-- Enfant en allaitement maternel sans supplémentation pendant des mois (SFD)
-- Enfants à peau pigmentée sans supplémentation avec arcature des membres inférieurs (SFD)
-- Bilan initial de [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) (HAS 02/2012)
+- Hospitalisation pour exacerbation de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (*GOLD*)
+- Enfant en allaitement maternel sans supplémentation pendant des mois (*SFD*)
+- Enfants à peau pigmentée sans supplémentation avec arcature des membres inférieurs (*SFD*)
+- Bilan initial de [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) (*HAS 02/2012*)
 - Probablement pour tous les épileptiques et diabétiques
 
 En dehors des 6 indications (+ suppléments), préciser sur l'ordonnance la raison.  
 En dosage de complaisance, préciser << Non remboursable >> sur la prescription (9,45€, code B35).  
-{{%class%}}92 millions d'euros de dosages de vitamine D en 2011.{{%/class %}}
+{{%class%}}92 millions d'euros de dosages de vitamine D en 2011{{%/class %}}
 
 {{% /collapse %}}
 {{%collapse "Protocoles d'administration de la vitamine D" %}}
@@ -144,9 +144,9 @@ En dosage de complaisance, préciser << Non remboursable >> sur la prescription 
 Posologie selon le résultat du dosage de vitamine D:
 
 - Taux sériques de 50 à 75 nmol/L (30 ng/mL)  
-50.000 UI/semaine pendant 4 semaines.
+  50.000 UI/semaine pendant 4 semaines.
 - Taux sériques < 50 nmol/L (20 ng/mL)  
-50.000 UI/semaine pendant 8 semaines.
+  50.000 UI/semaine pendant 8 semaines.
 
 Puis enchaîne sur le protocole d'entretien.  
 Utiliser des ampoules de 100.000 UI en cas de nécessité d'une 2<sup>e</sup> correction.

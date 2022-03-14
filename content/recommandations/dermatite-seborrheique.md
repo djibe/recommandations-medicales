@@ -125,7 +125,7 @@ OU [kétoconazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDo
 **Effets indésirables:** prurit, sensation de brûlure, xérose cutanée, interactions médicamenteuses.  
 Seul le kétoconazole topique peut être utilisé [pendant la grossesse](https://lecrat.fr/spip.php?page=article&id_article=494).
 
-Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine, pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
+Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine (ex DOP antipelliculaire), pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
 
 {{%warning%}}
 **Ne pas utiliser:**
