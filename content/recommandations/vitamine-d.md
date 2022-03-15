@@ -106,11 +106,11 @@ La supplémentation en vitamine D3 peut être instaurée et suivie sans dosage d
 | 5 ans à 10 ans                     | Études en cours                        |
 | 10 à 18 ans                        | 80 à 100.000 UI en novembre et février<br>ou 200.000 UI 1 fois l'hiver (observance) |
 | Grossesse                          | 80 à 100.000 UI au début du 7<sup>e</sup> mois de grossesse |
-| Adulte                              | &ge; 50 nmol/L |
-| Adulte &ge; 65 ans                  | &ge; 75 nmol/L |
-| Adulte à risque, dépendant, chutes  | &ge; 75 nmol/L |
-| Résident en EHPAD                   | &ge; 75 nmol/L et cible calcique 1200 mg/j |
-| Ostéoporose, biphosphonates         | &ge; 75 nmol/L  |
+| Adulte                             | &ge; 50 nmol/L |
+| Adulte &ge; 65 ans                 | &ge; 75 nmol/L |
+| Adulte à risque, dépendant, chutes | &ge; 75 nmol/L |
+| Résident en EHPAD                  | &ge; 75 nmol/L et cible calcique 1200 mg/j |
+| Ostéoporose, biphosphonates        | &ge; 75 nmol/L |
 {{< /table >}}
 
 {{% /collapse %}}

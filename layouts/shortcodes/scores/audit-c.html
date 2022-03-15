@@ -1,0 +1,90 @@
+<form class="mt-4" id="score-auditc" autocomplete="off">
+  <h3 class="card-title">Hétéro-questionnaire AUDIT-C de l'OMS</h3>
+  <p class="card-subtitle font-italic" lang="en">Alcohol Use Disorders Identification Test</p>
+  <fieldset>
+    <legend>Sexe</legend>
+    <input type="radio" id="audit-femme" name="audit-sexe" class="d-input-none" value="0" required>
+    <label for="audit-femme" class="chip chip-action chip-sm chip-choice">Femme</label>
+    <input type="radio" id="audit-homme" name="audit-sexe" class="d-input-none" value="0">
+    <label for="audit-homme" class="chip chip-action chip-sm chip-choice">Homme</label>
+  </fieldset>
+  <p class="typography-body-1">Sur l'année écoulée:<br>
+  Considérer des seuils d'intervention plus bas chez la personne âgée.</p>
+  <fieldset>
+  <legend>1. Combien de fois vous arrive-t-il de consommer de l'alcool&nbsp;?</legend>
+    <input type="radio" id="audit11" name="audit1" class="d-input-none" value="0" required>
+    <label for="audit11" class="chip chip-action chip-sm chip-choice">Jamais</label>
+    <input type="radio" id="audit12" name="audit1" class="d-input-none" value="1">
+    <label for="audit12" class="chip chip-action chip-sm chip-choice">1/mois</label>
+    <input type="radio" id="audit13" name="audit1" class="d-input-none" value="2">
+    <label for="audit13" class="chip chip-action chip-sm chip-choice">2 à 4/mois</label>
+    <input type="radio" id="audit14" name="audit1" class="d-input-none" value="3">
+    <label for="audit14" class="chip chip-action chip-sm chip-choice">2 à 3/semaine</label>
+    <input type="radio" id="audit15" name="audit1" class="d-input-none" value="4">
+    <label for="audit15" class="chip chip-action chip-sm chip-choice">4 ou +/semaine</label>
+  </fieldset>
+  <fieldset>
+    <legend>2. Combien de verres standards buvez-vous au cours d'une journée ordinaire où vous buvez de l'alcool&nbsp;?</legend>
+    <input type="radio" id="audit21" name="audit2" class="d-input-none" value="0" required>
+    <label for="audit21" class="chip chip-action chip-sm chip-choice">1 ou 2</label>
+    <input type="radio" id="audit22" name="audit2" class="d-input-none" value="1">
+    <label for="audit22" class="chip chip-action chip-sm chip-choice">3 ou 4</label>
+    <input type="radio" id="audit23" name="audit2" class="d-input-none" value="2">
+    <label for="audit23" class="chip chip-action chip-sm chip-choice">5 ou 6</label>
+    <input type="radio" id="audit24" name="audit2" class="d-input-none" value="3">
+    <label for="audit24" class="chip chip-action chip-sm chip-choice">7 à 9</label>
+    <input type="radio" id="audit25" name="audit2" class="d-input-none" value="4">
+    <label for="audit25" class="chip chip-action chip-sm chip-choice">10 ou plus</label>
+  </fieldset>
+  <fieldset>
+    <legend>3. Au cours d'une même occasion, combien de fois vous arrive-t-il de boire 6 verres-standard ou plus&nbsp;?</legend>
+    <input type="radio" id="audit31" name="audit3" class="d-input-none" value="0" required>
+    <label for="audit31" class="chip chip-action chip-sm chip-choice">Jamais</label>
+    <input type="radio" id="audit32" name="audit3" class="d-input-none" value="1">
+    <label for="audit32" class="chip chip-action chip-sm chip-choice">&lt; 1/mois</label>
+    <input type="radio" id="audit33" name="audit3" class="d-input-none" value="2">
+    <label for="audit33" class="chip chip-action chip-sm chip-choice">1/mois</label>
+    <input type="radio" id="audit34" name="audit3" class="d-input-none" value="3">
+    <label for="audit34" class="chip chip-action chip-sm chip-choice">1/semaine</label>
+    <input type="radio" id="audit35" name="audit3" class="d-input-none" value="4">
+    <label for="audit35" class="chip chip-action chip-sm chip-choice">Chaque jour ou presque</label>
+  </fieldset>
+  <div class="alert bg-light d-flex my-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline score-output-title">Score AUDIT-C</p>
+      <output class="score-output" id="auditScore">0</output>
+    </div>
+  <p id="auditText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  </div>
+</form>
+<blockquote class="blockquote">
+  <p lang="en"><a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1530-0277.2007.00403.x" rel="external nofollow noopener">Bradley KA et al. AUDIT-C as a brief screen for alcohol misuse in primary care. Alcohol Clin Exp Res. 2007.</a></p>
+</blockquote>
+{{ $script := `
+  // Score AUDIT-C by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scoreAuditc = document.getElementById('auditScore')
+    const textAuditc = document.getElementById('auditText');
+    [...document.querySelectorAll('#score-auditc input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { auditc() }) })
+    const auditc = () => {
+      let score = 0
+      const sexe = document.querySelector('input[name=\"audit-sexe\"]:checked')
+      const auditcElemsChecked = document.querySelectorAll('#score-auditc input[type=\"radio\"]:checked')
+        auditcElemsChecked.forEach(auditcElemChecked => {
+        score += parseInt(auditcElemChecked.value, 10)
+        if (auditcElemsChecked.length === 4) {
+          scoreAuditc.innerHTML = score
+          if (score >= 10) {
+            textAuditc.innerHTML = "<strong>Dépendance probable</strong><br>Proposer une consultation d'addictologie"
+          } else if ((score >= 4 && score < 10 && sexe.id === 'audit-homme') || (score >= 3 && score < 10 && sexe.id === 'audit-femme')) {
+            textAuditc.innerHTML = "<strong>Mésusage probable</strong><br>Intervention brève"
+          } else {
+            textAuditc.innerHTML = "<strong>Risque faible ou nul</strong><br>Renforcement des conduites favorables à la santé"
+          }
+        } else {
+          textAuditc.innerHTML = 'Veuillez répondre à toutes les questions'
+        }
+      })
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>

@@ -77,7 +77,6 @@
     const face = () => {
       let score = 0
       const sexe = document.querySelector('input[name=\"sexe\"]:checked')
-      console.log(sexe.id)
       const faceElemsChecked = document.querySelectorAll('#score-face input[type=\"radio\"]:checked')
         faceElemsChecked.forEach(faceElemChecked => {
         score += parseInt(faceElemChecked.value, 10)

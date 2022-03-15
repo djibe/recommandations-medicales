@@ -17,8 +17,10 @@
 {{ $metaTitle := "" }}
 {{ if .IsHome }}
   {{ $metaTitle = (printf "Dernières recommandations médicales pour le généraliste | RecoMédicales" ) }}
-{{ else if .Params.TitleSeo }}
+{{ else if and (eq .Section "recommandations") (.Params.TitleSeo) }}
   {{ $metaTitle = ( printf "%s %s %s %s" "Recommandations" .Params.TitleSeo .Params.Annees "| RecoMédicales" ) }}
+{{ else if .Params.TitleSeo }}
+  {{ $metaTitle = ( printf "%s %s" .Params.TitleSeo "| RecoMédicales" ) }}
 {{ else if and (eq .Section "recommandations") (eq .Kind "page") }}
   {{ $metaTitle = ( printf "%s %s%s %s %s" "Recommandations sur" (.Params.prefix | safeHTML ) .Title .Params.Annees "| RecoMédicales" ) }}
 {{ else }}

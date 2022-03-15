@@ -156,7 +156,8 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 ### Dépistage systématique des apnées du sommeil
 
 {{%info%}}
-Sujets à haut risque d'apnées du sommeil:
+
+#### Personnes à haut risque d'apnées du sommeil
 
 - Obèse ≥ 35 kg/m²
 - [Diabète type 2]({{< relref "diabete-type-2.md">}}) (65-85%)  

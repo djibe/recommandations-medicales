@@ -1,13 +1,13 @@
 +++
-title = "Sevrage en alcool et mésusage de l'alcool"
+title = "Mésusage et sevrage de l'alcool"
 prefix = "le "
-titleSeo = "Sevrage et mésusage alcool"
-description = "Recommandations pour le dépistage d'une consommation à risque d'alcool (scores FACE et AUDIT-C), les vitamines et benzodiazépines pour le syndrome de sevrage"
+titleSeo = "Sevrage en alcool"
+description = "Recommandations pour le dépistage d'une consommation à risque d'alcool (scores FACE et AUDIT-C), vitamines et benzodiazépines pour le syndrome de sevrage"
 synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
 publishdate = "2022-01-11"
-lastmod = "2022-03-14"
+lastmod = "2022-03-15"
 specialites = ["addictologie"]
 annees = "2021"
 sources = ["HAS", "SFA"]
@@ -16,22 +16,21 @@ anglais = []
 sctid = ""
 image = true
 imageSrc = "Les verres standards par Alcool-Info-Service"
-todo = "Audit C seuils + bas sujet âgé, entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, indications hospit, centres de cure, bilan des complications, supplémentations, https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa"
+todo = "entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, centres de cure, bilan des complications"
 +++
-
-*Version préliminaire pour disposer des outils de dépistage*
 
 {{%article-summary%}}
 
 1. Repérage: consommation moyenne par jour, fréquence mensuelle de consommation ≥ 6 verres, autres toxiques (voir *Dépistage*)
-2. Évaluation: AUDIT-C ou FACE d'un mésusage, comorbidités (voir *Évaluation*)
+2. Évaluation: score AUDIT-C ou FACE d'un mésusage, comorbidités (voir *Évaluation*)
 3. Intervention brève
 4. Dépistage des complications
 
-- 1 verre standard = 10g d'alcool. << Pour votre santé, l'alcool c'est maximum 2 verres par jour et pas tous les jours >> (max 10/semaine, *[affiche SPF](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/affiche/pour-votre-sante-l-alcool-c-est-maximum-2-verres-par-jour-et-pas-tous-les-jours)*)
+- 1 verre standard = 10g d'alcool. << Pour votre santé, l'alcool c'est maximum 2 verres par jour et pas tous les jours >> (seuil de mésusage = 10 verres/semaine, *[affiche SPF](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/affiche/pour-votre-sante-l-alcool-c-est-maximum-2-verres-par-jour-et-pas-tous-les-jours)*)
 - 0 alcool pendant la grossesse et chez les enfants
 - Prise en charge des co-addictions (tabac, cannabis) et troubles psychiatriques (dépression, anxiété...)
-- Toute réduction de consommation est un résultat positif. Plus efficace est l'auto-évaluation quotidienne de la consommation
+- Accepter l'objectif de consommation du sujet car toute réduction de consommation est positive. + efficace: auto-évaluation quotidienne de la consommation
+- Abstinence est préférable en dépendance à l'alcool ou comorbidités. Si non souhaitée, accompagnement vers la réduction des dommages
 
 Pour la pratique: [Alcool Info Service](https://www.alcool-info-service.fr/) ou {{<phone>}}0 980 980 930{{</phone>}}, [liste des CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html)
 
@@ -41,33 +40,35 @@ Pour la pratique: [Alcool Info Service](https://www.alcool-info-service.fr/) ou 
 Alcool
 : Substance psychoactive la plus utilisée en France (suivie de tabac et cannabis). Plus précisément *éthanol*, obtenu par fermentation de fruits, grains ou tubercules.
 : Concentration plasmatique maximale atteinte en 45 minutes (90 pendant un repas). 95% est éliminé par le foie.
-: 1 verre standard contient 10 grammes d'alcool pur (éthanol). Marqueurs de consommation: VGM et GGT.
+: 1 verre standard contient 10 grammes d'alcool pur (éthanol). Marqueurs de consommation: **VGM** (diminue en 3 mois à l'arrêt) + **GGT** (peu sensible avant 30 ans, diminue de 50% tous les 15 jours à l'arrêt).
 : Objectifs principaux de la prise en charge du mésusage: éviter l'évolution vers des complications, réduire les dommages consécutifs et améliorer la qualité de vie des patients.
 
-5 catégories d'usage de l'alcool:
+### 5 catégories d'usage de l'alcool
 
 1. Non-usage ou abstinence
 2. Usage simple ou à faible risque  
   Consommation asymptomatique et inférieure aux seuils recommandés (voir *Dépistage*).
-3. Mésusage
-    - Usage à risque  
+3. **Mésusage**
+    - **Usage à risque**  
     Asymptomatique mais susceptible d'entraîner des dommages.
-    - Usage nocif
+    - **Usage nocif**  
+    Dommages somatiques, psychiques ou sociaux mais sans éléments en faveur d'une dépendance.
     - Usage avec dépendance
 
 L'*usage nocif* et la *dépendance*, dits **troubles liés à l'usage de l'alcool** (CIM-10), sont caractérisés par des symptômes visibles sur le plan **social**, **psychologique** ou **médical**.
 
 Rechute
-: Reprise de fortes consommations ≥ 5 verres/j en 1 seule occasion pour l'homme < 65 ans, 4 si femme ou ≥ 65 ans (définition *FDA* avec verre à 14 g).
+: Reprise de fortes consommations ≥ 5 verres/j en 1 seule occasion pour l'homme < 65 ans, 4 si femme ou ≥ 65 ans (définition *FDA* avec verre à 14g).
 
 ### Abréviations
 
-- **API:** alcoolisations ponctuelles importantes (≥ 6 verres/occasion)  
-- **CSAPA:** Centres de soins, d'accompagnement et de prévention en addictologie (CSAPA)  
-- **FACE:** Formule pour Approcher la Consommation d'alcool par Entretien  
-- **RPIB:** repérage précoce et intervention brève  
-- **SSA:** syndrome de sevrage alcoolique  
-- **TCC:** thérapies cognitives et comportementales
+**API:** alcoolisations ponctuelles importantes (≥ 6 verres/occasion)  
+**BZD:** benzodiazépines  
+**CSAPA:** Centres de soins, d'accompagnement et de prévention en addictologie (CSAPA)  
+**FACE:** Formule pour Approcher la Consommation d'alcool par Entretien  
+**RPIB:** repérage précoce et intervention brève  
+**SSA:** syndrome de sevrage alcoolique  
+**TCC:** thérapies cognitives et comportementales
 
 ### Épidémiologie
 
@@ -122,14 +123,32 @@ Occasions pour dépister un mésusage: consultation de routine, prescription d'u
 {{% /collapse %}}
 {{%collapse "Évaluation si consommation à risque" %}}
 
-<div class="border card-body">
-{{< scores/face >}}
+L'entretien motivationnel est empathique avec une écoute sans jugement et une acceptation inconditionnelle de la situation (acceptation et bienveillance), c'est un accompagnement.  
+Demander au patient l'autorisation de parler de sa consommation d'alcool.
+
+<div class="card card-hover my-3 mb-xl-5" style="max-width:640px">
+  <ul class="nav nav-justified nav-tabs" id="tabs-alcool" role="tablist">
+    <li class="nav-item">
+      <a aria-controls="auditc-panel" aria-selected="true" class="nav-link active" data-toggle="tab" href="#auditc-panel" id="auditc-tab" role="tab">AUDIT-C</a>
+    </li>
+    <li class="nav-item">
+      <a aria-controls="face-panel" aria-selected="false" class="nav-link" data-toggle="tab" href="#face-panel" id="face-tab" role="tab">FACE</a>
+    </li>
+  </ul>
+  <div class="tab-content card-body">
+    <div aria-labelledby="auditc-tab" class="tab-pane fade show active" id="auditc-panel" role="tabpanel">
+    {{< scores/audit-c >}}
+  </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
+  <div aria-labelledby="face-tab" class="tab-pane fade" id="face-panel" role="tabpanel">
+    {{< scores/face >}}
+  </div>
+  </div>
 </div>
 
 {{% /collapse %}}
 {{%collapse "Intervention brève et approches motivationnelles" %}}
 
-Encourager à tenir un agenda de la consommation.
+Encourager à tenir un **agenda de la consommation**.
 
 - Informer
   - Restituer les résultats des questionnaires de consommation
@@ -240,8 +259,8 @@ Appétence sucrée marquée au sevrage.
 
 Indications à l'hospitalisation pour une abstinence:
 
-- Antécédent de crise convulsive ou de delirium tremens
-- Autres toxiques à doses élevées
+- Présence ou antécédent de crise convulsive ou de delirium tremens
+- Autres toxiques à doses élevées (dont BZD)
 - Contre-indication aux benzodiazépines  
   Insuffisance respiratoire, cirrhose décompensée, TP < 50%, obésité, personne âgée.
 - Isolement, SDF
@@ -264,8 +283,15 @@ La **préparation** du sevrage diminue le risque de rechute et s'inscrit dans un
 #### Prévention du syndrome de sevrage alcoolique (SSA)
 
 {{%info%}}
-Diazépam 10 mg 2 à 4 fois par jour pendant 2-3 jours, puis réduction progressive et arrêt à 7 jours (max 10)  
-Doses adaptées aux symptômes résiduels et réduites chez l'adolescent et le sujet âgé.
+Diazépam 10 mg 1 boîte 1-1-1-1 à J1 et J2  
+1-1-1 J3  
+1-0-1 J4  
+0-0-1 J5 et arrêt (max 10)  
+Doses adaptées aux symptômes résiduels et réduites chez l'adolescent et le sujet âgé.  
+Rester à la maison les 2 premiers jours, pas de conduite automobile pendant les 5 jours.  
+Consultation durant le traitement.
+
+> S*FA 2015*
 {{%/info%}}
 
 Symptômes de sevrage: **[benzodiazépines à demi-vie longue]({{< relref "benzodiazepines.md" >}})** type diazépam max 8-10 jours (*SFA 2015*). Contre-indiquée en cirrhose.  
@@ -305,6 +331,16 @@ Les traitements doivent être arrêtés après 4-6 semaines si la consommation d
   - Suivi 2/mois 1 mois, puis 1/mois 4 mois puis 2/an
 - Nalméfène, Gamma-hydroxybutyrate (GHB), baclofène  
   Prescription spécialisée.
+
+### Objectif de réduction de la consommation d'alcool
+
+Après essai de réduction spontanée de 15 jours.
+
+{{%info%}}
+[Nalméfène 18 mg](https://ec.europa.eu/health/documents/community-register/2021/20211220153913/anx_153913_fr.pdf) (Selincro®) 1 boîte. 1 cp tous les jours où vous pensez être exposé au risque de boire.  
+À prendre 2 heures avant le moment du risque ou dès le matin.  
+Réévaluation à 7 et 14 jours puis 1/mois au moins 6 mois.
+{{%/info%}}
 
 ### Suivi
 
@@ -427,6 +463,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 - [Angler R et al. Dépassement des repères de consommation d'alcool à moindre risque en 2020 : résultats du Baromètre santé de Santé publique France. BEH. Novembre 2021.](http://beh.santepubliquefrance.fr/beh/2021/17/2021_17_1.html)
 - <https://www.cen-neurologie.fr/fr/deuxieme-cycle/addiction-lalcool-complications-neurologiques-lalcoolisme>
+- <https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa>
 - <http://www.addictologie.org/spip.php?page=avectitre&id_rubrique=8>
 - <http://www.addictologie.org/spip.php?page=accueil&id_rubrique=1>
 - <http://www.sfalcoologie.asso.fr/page.php?choix=A10>
