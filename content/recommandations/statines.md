@@ -1,8 +1,8 @@
 +++
 title = "Statines"
 prefix = "les "
-description = "160 characters max"
-synonyms = []
+description = "Recommandations pour l'usage des statines. Intensité de l'effet sur la diminution du LDL, objectifs de LDL selon la maladie cardiovasculaire. Simvastatine ..."
+synonyms = ["Hypolipémiants"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-17T13:36:17+01:00"
 publishdate = "2022-03-17"
@@ -15,7 +15,6 @@ anglais = ["Statin"]
 sctid = "372912004"
 image = true
 imageSrc = "Illustration par macrovector / Freepik"
-todo = ""
 +++
 
 {{%article-summary%}}
@@ -28,14 +27,14 @@ TODO:
 {{< traitements/statine-intensite >}}
 
 {{% /collapse %}}
-{{%collapse "Objectif de LDL" %}}
+{{%collapse "Objectifs de LDL" %}}
 
 {{< clinique/risque-cardiovasculaire >}}
 
 {{% /collapse %}}
 {{%collapse "Statines et effets indésirables" %}}
 
-### Les myalgies
+### Statines et myalgies
 
 Dans les essais contrôlés, < 0,1% ont présenté de réelles myopathies (avec élévation des CPK). Dans les 2 bras *statine* et *placebo*, les myalgies étaient rapportées par 11,5% des sujets.
 
@@ -48,7 +47,7 @@ Chez des patients ayant arrêté leur traitement pour myalgies, traités en aveu
 {{% /collapse %}}
 {{%collapse "Effets de l'arrêt d'une statine" %}}
 
-Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'infarctus du myocarde en plus et +18% de mortalité cardiovasculaire. (*[Sune Fallgaard Nielsen 2016](https://academic.oup.com/eurheartj/article/37/11/908/2398344?login=false)*)
+Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**infarctus du myocarde** en plus et +18% de **mortalité cardiovasculaire**. (*[Sune Fallgaard Nielsen 2016](https://academic.oup.com/eurheartj/article/37/11/908/2398344?login=false)*)
 
 {{% /collapse %}}
 
@@ -57,5 +56,3 @@ Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'infarctus du
 En regard de chaque élément présenté
 
 {{%/sources%}}
-
-≤≥±®œŒÈ³ÂSpO<sub>2</sub>
