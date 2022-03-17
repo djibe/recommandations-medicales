@@ -1,17 +1,16 @@
 +++
-title = "{{ replace .Name '-' ' ' | title }}"
-titleSeo = "In case of long title or delete"
-prefix = "la "
+title = "Statines"
+prefix = "les "
 description = "160 characters max"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = "{{ .Date }}"
-publishdate = "{{ now.Format "2006-01-02" }}"
-lastmod = "{{ now.Format "2006-01-02" }}"
-specialites = ["endocrinologie"]
+date = "2022-03-17T13:36:17+01:00"
+publishdate = "2022-03-17"
+lastmod = "2022-03-17"
+specialites = ["therapeutique"]
 annees = "2020"
-sources = ["Society1", "Society2"]
-tags = ["tag 1"]
+sources = ["ESC"]
+tags = []
 anglais = ["MSM"]
 sctid = "76102007"
 draft = true
@@ -25,7 +24,7 @@ todo = ""
 
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Efficacité des statines" %}}
 
 
 
