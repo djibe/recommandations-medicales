@@ -152,7 +152,7 @@ Kétoconazole topique
 {{% /collapse %}}
 {{% collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une dermatite séborrhéique. Dr JB FRON d'après CEDEF 2017" >}}
+{{< mermaid title="Conduite à tenir devant une dermatite séborrhéique. Dr JB Fron d'après CEDEF 2017" >}}
 graph TB
   suspicion[Suspicion de dermatite séborrhéique] --> diagnostic(Diagnostic clinique<br>de DS)
   style suspicion stroke:#4150f5, stroke-width:1px

@@ -279,7 +279,7 @@ L'[Assurance Maladie](https://www.ameli.fr/assure/remboursements/rembourse/medic
 {{% /collapse%}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir en cas de suspicion de maladie cœliaque. Dr JB FRON d'après ESsCD 2019" >}}
+{{< mermaid title="Conduite à tenir en cas de suspicion de maladie cœliaque. Dr JB Fron d'après ESsCD 2019" >}}
 graph TB
   symptomatique["<b>Risque élevé</b><hr>- Diarrhée chronique<br>- Diarrhée + amaigrissement<br>- Anémie par carence martiale <br>en l'absence d'autre cause<br>- Symptômes de MC + ATCD familiaux<br>- Symptômes de MC + auto-immunité/déficit IgA<br>- Retard de croissance de l'enfant<br>- Dermatite herpétiforme<br>- Atrophies des villosités<br>- Iléostomie/colostomie avec<br>hyperdébit non expliqué"] --> EOGD(EOGD) --> gastro
   style symptomatique stroke:#4150f5, stroke-width:1px

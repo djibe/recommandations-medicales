@@ -206,7 +206,7 @@ Lavage quotidien, expression du contenu des glandes de Mebomius, gels palpébrau
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une rosacée. Dr JB FRON d'après BAD 2021" >}}
+{{< mermaid title="Conduite à tenir devant une rosacée. Dr JB Fron d'après BAD 2021" >}}
 graph TB
   rosacee[Rosacée]
   style rosacee stroke:#4150f5, stroke-width:1px

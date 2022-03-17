@@ -190,7 +190,7 @@ Les fils sont retirés au bout de 15 jours à 3 semaines après l'intervention. 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show"%}}
 
-{{< mermaid title="Conduite à tenir devant un syndrome du canal carpien. Dr JB FRON d'après HAS 2013" >}}
+{{< mermaid title="Conduite à tenir devant un syndrome du canal carpien. Dr JB Fron d'après HAS 2013" >}}
 graph TD
 diagnostic["Diagnostic clinique<br>de canal carpien"] --> gravite{Signes de gravité ?}
 style diagnostic stroke:#4150f5, stroke-width:1px

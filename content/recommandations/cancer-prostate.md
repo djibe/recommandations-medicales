@@ -81,7 +81,7 @@ Arrêter le dépistage quand l'espérance de vie est < 10 ans.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Dépistage du cancer de la prostate et conduite à tenir devant une augmentation du PSA. Dr JB FRON d'après EAU 2019" >}}
+{{< mermaid title="Dépistage du cancer de la prostate et conduite à tenir devant une augmentation du PSA. Dr JB Fron d'après EAU 2019" >}}
 graph TB
   homme["Homme &ge; 45 ans<br>et Espérance de vie &gt; 10 ans"] --> symptomes("Symptômes urinaires<br>Signes d'alarme<br>&ge; 3 cas au 1<sup>er</sup> degré")
   style homme stroke:#4150f5, stroke-width:1px

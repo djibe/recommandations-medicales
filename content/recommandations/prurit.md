@@ -174,7 +174,7 @@ Substitution d'un traitement suspect.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant un prurit. Dr JB FRON d'après CEDEF 2017" >}}
+{{< mermaid title="Conduite à tenir devant un prurit. Dr JB Fron d'après CEDEF 2017" >}}
 graph TB
   prurit[Prurit] --> examen("- Interrogatoire<br>- Clinique")
   style prurit stroke:#4150f5, stroke-width:1px

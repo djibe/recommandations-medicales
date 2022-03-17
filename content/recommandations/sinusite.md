@@ -208,7 +208,7 @@ Prélèvements bactériologiques, scanner, antibiothérapie intraveineuse urgent
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une sinusite aiguë purulente. Dr JB FRON d'après SPILF 2011" >}}
+{{< mermaid title="Conduite à tenir devant une sinusite aiguë purulente. Dr JB Fron d'après SPILF 2011" >}}
 graph TB
   sinusite[Sinusite] --> maxillaire("Sinusite maxillaire si<hr>- diagnostic certain<br>- échec ttt sympt 3j<br>- infection dentaire sup homolat<br>- RPA &gt; 10j sans amélioration")
   style sinusite stroke:#4150f5, stroke-width:1px

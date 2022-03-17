@@ -277,7 +277,7 @@ Sont contre-indiquées: drainage postural, vibration, clapping, désencombrement
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une dyspnée sifflante" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une dyspnée sifflante. Dr JB FRON d'après HAS/CNPP 2019" >}}
+{{< mermaid title="Conduite à tenir devant une dyspnée sifflante. Dr JB Fron d'après HAS/CNPP 2019" >}}
 graph TB
   dyspnee[Dyspnée sifflante] --> age(Âge)
   style dyspnee stroke:#4150f5, stroke-width:1px

@@ -15,7 +15,7 @@ tags = ["depistage"]
 anglais = []
 sctid = ""
 image = true
-imageSrc = "Les verres standards par Alcool-Info-Service"
+imageSrc = "Les verres d'alcool standards par Alcool-Info-Service"
 todo = "entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, centres de cure, bilan des complications"
 +++
 

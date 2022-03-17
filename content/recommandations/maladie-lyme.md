@@ -15,7 +15,7 @@ anglais = ["Lyme disease"]
 sctid = "23502006"
 image = true
 imageSrc = "Érythème migrant. Photo de monkeypuzzle sur Foter"
-todo = "https://www.santepubliquefrance.fr/les-actualites/2021/borreliose-de-lyme-donnees-epidemiologiques-2020"
+todo = "HAS 2022"
 +++
 
 {{%article-summary%}}
@@ -85,16 +85,18 @@ Moins fréquent sur la méditerranée.
 
 Le risque de borréliose de Lyme est < 5% (même en zone de forte endémie avec fixation prolongée de la tique).
 
+### Recommandations après une morsure de tique
+
 - L'extraire le plus rapidement possible
 - Extraction mécanique avec un crochet à tique (tire-tique) ou pince fine
 - Ne pas utiliser de substances  
-Éther, huile, vernis...
+  Éther, huile, vernis...
 - Après le retrait, désinfection locale
 - Lavage des mains au savon
 - Photographie de la tique
 - Noter la date et le lieu de la piqûre
 - Surveiller la zone pendant 4 semaines
-Avis médical en cas d'apparition d'un érythème migrant (EM) qui signe une borréliose de Lyme.
+  Avis médical en cas d'apparition d'un érythème migrant (EM) qui signe une borréliose de Lyme.
 
 {{%warning%}}Pour tous: pas d'antibiothérapie ou d'examens systématiques après extraction de tique{{%/warning%}}
 
@@ -241,5 +243,10 @@ Traitement par l'infectiologue des autres formes de borréliose.
 
 - [Gocko X. et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. Volume 49. Issue 5. 2019. Pages 296-317.](https://doi.org/10.1016/j.medmal.2019.05.006)
 - [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques. Recommandation de bonne pratique. Juin 2018.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques)
+
+### À lire
+
+- [HAS. Guide du parcours de soins de patients présentant une suspicion de borréliose de Lyme. Mars 2022.](https://www.has-sante.fr/jcms/p_3323862/fr/guide-du-parcours-de-soins-de-patients-presentant-une-suspicion-de-borreliose-de-lyme)
+- [Santé Publique France. Borréliose de Lyme : données épidémiologiques 2020. Novembre 2021.](https://www.santepubliquefrance.fr/les-actualites/2021/borreliose-de-lyme-donnees-epidemiologiques-2020)
 
 {{%/sources%}}

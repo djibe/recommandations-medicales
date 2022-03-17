@@ -277,7 +277,7 @@ Suivi déterminé par l'angiologue après revascularisation.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour le dépistage de l'AOMI" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le dépistage de l'AOMI. Dr JB FRON d'après SFMV 2020 et ESC 2017" >}}
+{{< mermaid title="Conduite à tenir pour le dépistage de l'AOMI. Dr JB Fron d'après SFMV 2020 et ESC 2017" >}}
 graph TB
 depister["<b>Personne à risque</b><br><b>ou symptomatique</b><hr>- Suspicion clinique<br>- Athérome connu<br>- Anévrysme aortique<br>- Insuff. rénale<br>- Insuff. cardiaque<br>- Dépistage PREVALENT<br>- Âge &ge; 65 ans<br>- Risque CV élevé<br>- &ge; 50 ans et ATCD familial AOMI<br>ou &ge; 1 autre FRCV"] --> clinique("- Interrogatoire<br>- Examen clinique")
 style depister stroke:#4150f5, stroke-width:1px

@@ -112,7 +112,7 @@ Toute automédication est proscrite.
 Remettre au patient la [liste ANSM (PDF)](https://ansm.sante.fr/uploads/2021/03/11/liste-substances-actives-deficit-g6pd-20052019-1-2.pdf) des médicaments proscrits.
 {{%/warning%}}
 
-{{< table title="Possibilités de recours aux substances actives en cas de déficit en G6PD. Dr JB FRON d'après ANSM du 24/05/2019" >}}
+{{< table title="Possibilités de recours aux substances actives en cas de déficit en G6PD. Dr JB Fron d'après ANSM du 24/05/2019" >}}
 | Substance | Utilisation |
 |-----------|-------------|
 | Acide acétylsalicylique (aspirine) | Possible |

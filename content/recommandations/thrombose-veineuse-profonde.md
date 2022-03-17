@@ -256,7 +256,7 @@ Indication: TVP proximale diagnostiquée dans les 30 jours (avec ou sans EP) ave
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une TVP" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de thrombose veineuse profonde. Dr JB FRON d'après Sanchez 2019" >}}
+{{< mermaid title="Conduite à tenir devant une suspicion de thrombose veineuse profonde. Dr JB Fron d'après Sanchez 2019" >}}
 graph TB
   tvp[Suspicion de TVP<br>sans argument d'EP] --> score(<b>Score clinique</b><br>Wells, Constans ou LEFt)
   style tvp stroke:#4150f5, stroke-width:1px

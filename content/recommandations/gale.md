@@ -234,7 +234,7 @@ Si application sur literie, laisser reposer 12h.
 **NB.** Ne peut être manipulé par asthmatique/problème respiratoire (idem pour Spregal®).  
 Tous les sprays ascaricides doivent être utilisés dans des pièces aérées (fenêtres ouvertes), quitter la pièce pendant 3 heures.
 
-### Fiche d'exemple d'une éradication de la gale par JB FRON
+### Fiche d'exemple d'une éradication de la gale par JB Fron
 
 #### Jour 0
 

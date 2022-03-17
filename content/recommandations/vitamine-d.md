@@ -199,7 +199,7 @@ Intensification si:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour la supplémentation en vitamine D" "show" %}}
 
-{{< mermaid title="Cibles d'apports en vitamine D (schéma simplifié). Dr JB FRON d'après Souberbielle 2019" >}}
+{{< mermaid title="Cibles d'apports en vitamine D (schéma simplifié). Dr JB Fron d'après Souberbielle 2019" >}}
 graph TB
   apports["Objectifs d'apports<br>en vitamine D"]
   style apports stroke:#4150f5, stroke-width:1px

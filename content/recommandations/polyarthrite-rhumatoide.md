@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr JG LETAROUILLY (SFR)"
 date = 2020-10-23T22:24:41+02:00
 publishdate = 2020-10-23
-lastmod = 2022-02-06
+lastmod = 2022-03-15
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "EULAR", "ACR", "HAS"]
@@ -215,9 +215,11 @@ En association avec le méthotrexate (≥ 10 mg/semaine), selon la tolérance, p
   - Tocilizumab (Roactemra®)
   - Sarilumab (Kevzara®)
 - Anti-CD20  
-Rituximab (pour cas spécifiques: Mabthera®, Truxima®).
+  Rituximab (pour cas spécifiques: Mabthera®, Truxima®).
+- Inhibiteurs JAK  
+  Baricitinib (Olumiant), filgotinib (Jyseleca®), tofacitinib (Xeljanz®), upadacitinib (Rinvoq®).
 - Modulateur de costimulation lymphocytes T  
-Abatacept (Orencia®).
+  Abatacept (Orencia®).
 
 Relayer par un autre en cas d'inefficacité.  
 Décroissance quand rémission persistante ≥ 6 mois et arrêt des corticoïdes (ou dose quotidienne ≤ 5 mg/j).

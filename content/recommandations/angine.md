@@ -158,7 +158,7 @@ Rechercher:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une angine. Dr JB FRON d'après SPILF/HAS 2016" >}}
+{{< mermaid title="Conduite à tenir devant une angine. Dr JB Fron d'après SPILF/HAS 2016" >}}
 graph TB
   angine[Angine] --> moins3("&lt; 3 ans") --> viral(Viral)
   style angine stroke:#4150f5, stroke-width:1px

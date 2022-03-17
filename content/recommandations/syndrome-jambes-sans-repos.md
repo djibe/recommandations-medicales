@@ -417,7 +417,7 @@ Palier 2 ou 3.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant un syndrome des jambes sans repos" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de syndrome des jambes sans repos. Dr JB FRON d'après SFRMS 2019" >}}
+{{< mermaid title="Conduite à tenir devant une suspicion de syndrome des jambes sans repos. Dr JB Fron d'après SFRMS 2019" >}}
 graph TB
   suspSJSR[Suspicion de SJSR]
   style suspSJSR stroke:#4150f5, stroke-width:1px

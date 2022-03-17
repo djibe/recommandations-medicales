@@ -326,7 +326,7 @@ Dans ce cas:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une syphilis" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le traitement de la syphilis. Dr JB FRON d'après SFDermato 2016" >}}
+{{< mermaid title="Conduite à tenir pour le traitement de la syphilis. Dr JB Fron d'après SFDermato 2016" >}}
 graph TB
   chancre[Chancre] -- Syphilis primaire --> ttt("VDRL, sérologies IST<br>BPG 2,4 MU IM unique<br>Paracétamol<br>Dépistage contacts &lt; 3 mois")
   style chancre stroke:#4150f5, stroke-width:1px

@@ -13,7 +13,7 @@ sctid = ""
 draft = false
 image = false
 imageSrc = ""
-todo= "liste tout en 1, webcam creative live! cam sync 1080p 50€ | écran ViewSonic XG2705-2K, AOC 27G2U, Iiyama GB2766HSU-B1"
+todo= "liste tout en 1, webcam creative live! cam sync 1080p 50€ | i3 10100 | écran ViewSonic XG2705-2K, AOC 27G2U, Iiyama GB2766HSU-B1"
 +++
 
 L'ordinateur (PC ou Mac) est essentiel au sein du cabinet afin de gérer à long terme le suivi des patients. Il permet également l'accès aux outils de productivité comme Ameli Pro. Bref, il est vital. Et pourtant, sans aucune connaissance préalable, on vous vendra ce qui rapporte, pas ce dont vous avez besoin.
@@ -55,11 +55,11 @@ Attention aussi au nombre limité de ports USB qui mène à un joli hub USB sur 
 
 #### Modèles tout-en-un conseillés
 
-Modèles approuvés par *UFC Que Choisir*:
+Modèles approuvés par *UFC Que Choisir 2021*:
 
-- Dell Inspiron 27 7000 (1350 €)
-- Lenovo IdeaCentre AIO 3i FOG1001HFR (900 €)
-- Acer Aspire C27-1655 (1300 €)
+- Dell Inspiron 27 7000 - 1350 €
+- Lenovo IdeaCentre AIO 3i FOG1001HFR - 900 €
+- Acer Aspire C27-1655 - 1300 €
 
 {{% /collapse %}}
 {{%collapse "La configuration proposée pour travailler efficacement" %}}

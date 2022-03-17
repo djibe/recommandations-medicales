@@ -255,7 +255,7 @@ Utiliser dans l'ordre:
 {{%/collapse%}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant un reflux gastro-œsophagien. Dr JB FRON d'après SNFGE" >}}
+{{< mermaid title="Conduite à tenir devant un reflux gastro-œsophagien. Dr JB Fron d'après SNFGE" >}}
 graph TB
   RGO[Suspicion de RGO] --> atypique
   style RGO stroke:#4150f5, stroke-width:1px

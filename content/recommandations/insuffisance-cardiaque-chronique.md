@@ -385,7 +385,7 @@ Sous 2 semaines +++ à 2 mois.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une insuffisance cardiaque" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le diagnostic de l'insuffisance cardiaque chronique. Dr JB FRON d'après ESC 2021" >}}
+{{< mermaid title="Conduite à tenir pour le diagnostic de l'insuffisance cardiaque chronique. Dr JB Fron d'après ESC 2021" >}}
 graph TB
 suspicion[Suspicion d'insuffisance cardiaque]
 style suspicion stroke:#4150f5, stroke-width:1px
@@ -400,7 +400,7 @@ style suspicion stroke:#4150f5, stroke-width:1px
 
 ---
 
-{{< mermaid title="Conduite à tenir pour le traitement l'insuffisance cardiaque symptomatique à l'état stable. Dr JB FRON d'après ESC 2021" >}}
+{{< mermaid title="Conduite à tenir pour le traitement l'insuffisance cardiaque symptomatique à l'état stable. Dr JB Fron d'après ESC 2021" >}}
 graph TB
 ICFEd["Patient symptomatique avec ICFEd<br>FEVG &le; 40%"]
 style ICFEd stroke:#4150f5, stroke-width:1px

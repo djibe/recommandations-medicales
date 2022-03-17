@@ -160,7 +160,7 @@ Surveillance pondérale + activité physique.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le dépistage du diabète gestationnel. Dr JB FRON d'après SFD/CNGOF 2010" >}}
+{{< mermaid title="Conduite à tenir pour le dépistage du diabète gestationnel. Dr JB Fron d'après SFD/CNGOF 2010" >}}
 graph TB
 fdr["<b>Facteurs de risque de diabète gestationnel</b><hr>1. Âge &ge; 35 ans<br>2. IMC &ge; 25 kg/m²<br>3. ATCD familial 1<sup>er</sup> degré de DT2<br>4. ATCD de DG<br>5. ATCD de macrosomie"]
 style fdr stroke:#4150f5, stroke-width:1px

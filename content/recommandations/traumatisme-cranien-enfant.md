@@ -1,7 +1,7 @@
 +++
 title = "Traumatisme crânien de l'enfant"
 prefix = "le "
-titleSeo = "Traumatisme crânien de l'enfant"
+titleSeo = "Traumatisme crânien enfant"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-08T14:17:41+02:00
@@ -178,7 +178,7 @@ Remise des [Consignes de surveillance à donner aux parents (PDF)](/print/tc-enf
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant un traumatisme crânien de l'enfant. Dr JB FRON d'après SFMU 2015" >}}
+{{< mermaid title="Conduite à tenir devant un traumatisme crânien de l'enfant. Dr JB Fron d'après SFMU 2015" >}}
 graph TB
   TC[Traumatisme crânien] --> GCS(Score de Glasgow)
   style TC stroke:#4150f5, stroke-width:1px

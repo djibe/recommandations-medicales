@@ -95,7 +95,7 @@ Insuffisance rénale sévère
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une TVS" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de thrombose veineuse superficielle. Dr JB FRON d'après Sanchez 2019" >}}
+{{< mermaid title="Conduite à tenir devant une suspicion de thrombose veineuse superficielle. Dr JB Fron d'après Sanchez 2019" >}}
 graph TB
   tvs[Suspicion de TVS]
   style tvs stroke:#4150f5, stroke-width:1px
