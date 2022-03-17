@@ -6,16 +6,15 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-14T19:48:41+02:00
 publishdate = 2020-11-16
-lastmod = 2021-04-26
+lastmod = 2022-03-17
 specialites = ["dermatologie", "infectiologie", "ophtalmologie"]
 annees = "1998"
 sources = ["SPILF"]
 tags = ["vaccin", "zona"]
 anglais = ["Herpes zoster"]
 sctid = "4740000"
-draft = false
 image = true
-imageSrc = "Gzzz, CC BY-SA 4.0"
+imageSrc = "Photo d'un zona thoracique par Gzzz, CC BY-SA 4.0"
 todo = "flowchart, collège/Pilly"
 +++
 
@@ -178,19 +177,21 @@ Hospitalisation pour aciclovir intra-veineux et (méthyl-)prednisolone.
 {{% /collapse %}}
 {{%collapse "Traitement des douleurs post-zostériennes" %}}
 
-Persistance de douleurs neuropathiques d'un dermatome atteint par un zona.
+### Traitements localisés
 
-- Fond douloureux permanent: amitriptyline ([Laroxyl®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65892928&typedoc=R))
-  - Débuter 12,5 ou 25 mg x 1/j
-  - Titration jusqu'à la dose minimale efficace
-  - Max 150 mg/j
-  - Alternatives: gabapentine, prégabaline (ordonnance sécurisée renouv. max 5x).
-- Paroxysmes hyperalgiques: carbamazépine ([Tegretol® ou gén](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61547468&typedoc=R))
-  - 400-1200 mg/j
-- Morphine
-- Lidocaïne locale
-- Couvrir la zone douloureuse
 - Glaçage local
+- Couvrir la zone douloureuse
+- [Emplâtres de lidocaïne 700 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65538840&typedoc=R) (Versatis®)
+  - 1 à 3 selon la superficie de la zone, 12 h/j
+  - Effets indésirables: irritation cutanée, allergie
+
+### Traitements généraux
+
+Détail dans le [chapitre Douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}).
+
+- Fond douloureux permanent: amitriptyline
+- Paroxysmes hyperalgiques: carbamazépine ([Tegretol® ou gén](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61547468&typedoc=R))
+- Voire morphine
 - Soutien psychologique
 
 {{% /collapse %}}
