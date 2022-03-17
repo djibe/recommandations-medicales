@@ -3794,6 +3794,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   border: 1px solid rgba(0, 0, 0, 0.12) !important;
 }
 
+.border-bottom {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12) !important;
+}
+
 .border-0 {
   border: 0 !important;
 }
@@ -3909,6 +3913,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 
 .justify-content-center {
   justify-content: center !important;
+}
+
+.justify-content-between {
+  justify-content: space-between !important;
 }
 
 .align-items-center {
