@@ -35,7 +35,7 @@ todo = "reco enfant 2022, comment diag quand rosacée, dépistage en AINS long c
 Dysphagie, amaigrissement, anémie.
 
 {{%/article-summary%}}
-{{%collapse "Aide au choix du traitement" "show" %}}
+{{%collapse "Comment traiter Helicobacter pylori ?" "show" %}}
 <div class="card card-hover card-list-material my-4">
   <div class="card-body">
     <h3 class="card-title mt-0">Aide au choix du traitement d'<em>Helicobacter pylori</em> 2021</h3>
@@ -141,7 +141,7 @@ EOGD souhaitable (sauf si Quinolone-S et non utilisées).
 
 *Helicobacter pylori*
 : **Abréviation:** *H. pylori*.
-: Bactérie à tropisme gastrique responsable de *gastrite chronique*, compliquée d'*ulcères gastro-duodénaux* et de 80% des *cancers gastriques* (adénocarcinomes et lymphomes du MALT).
+: La bactérie *Helicobacter pylori* a un tropisme gastrique responsable d'une *gastrite chronique*, compliquée d'*ulcères gastro-duodénaux* et responsable de 80% des *[cancers de l'estomac]({{< relref "cancer-estomac.md" >}})* (adénocarcinomes et lymphomes du MALT).
 : Contamination dans l'enfance par transmission familiale {{%class%}}(oro-orale ou féco-orale){{%/class%}}.  
 Son éradication prévient la survenue de ces complications.
 
@@ -239,7 +239,7 @@ Indications en première intention:
 
 #### Souche sensible à la clarithromycine
 
-Traitement de première intention d'une infection prouvée à *H. pylori* avec fonction rénale normale.
+Traitement de première intention d'éradication d'une infection prouvée à *H. pylori* avec fonction rénale normale.
 
 {{%warning%}}Tout traitement antibiotique doit être suivi d'un contrôle d'éradication (voir chapitre suivant *Contrôle de la guérison*).{{%/warning%}}
 
@@ -301,7 +301,7 @@ La réalisation d'une nouvelle endoscopie est préférable.
 - Souche Clari-R et quinolone-R: [avis du GEFH](http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/)
 
 {{% /collapse %}}
-{{%collapse "Traitement de Helicobacter pylori sans antibiogramme" %}}
+{{%collapse "Traitement probabiliste d'infection Helicobacter pylori" %}}
 
 {{%warning%}}En cas de grossesse ou d'allaitement, il faut différer le traitement{{%/warning%}}
 

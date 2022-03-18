@@ -2,22 +2,22 @@
 title = "Endocardite infectieuse"
 prefix = "l'"
 titleSeo = "Endocardite infectieuse"
-shortname = "Endocardite"
+description = "Dernières recommandations ESC pour la prévention de l'endocardite infectieuse. Haut risque (valve prothétique, cardiopathie congénitale) et antibioprophylaxie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-08-18T11:07:22+02:00"
 publishdate = "2021-09-07"
-lastmod = "2021-09-07"
+lastmod = "2022-03-18"
 specialites = ["cardiologie"]
 annees = "2015"
 sources = ["ESC"]
 tags = ["fievre"]
 anglais = ["Endocarditis"]
 sctid = "56819008"
-draft = false
 flowchart = true
 image = true
 imageSrc = "Végétation sur la tricuspide. Daisuke Koya, Kazuyuki Shibuya, Ryuichi Kikkawa et Masakazu Haneda: Materialscientist, via Wikimedia Commons"
+todo = "Brossettes, Pilly"
 +++
 
 {{%article-summary%}}
@@ -103,11 +103,11 @@ Protéinurie/hématurie isolée, insuffisance rénale.
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-Pour les personnes à risque d'endocardite infectieuse:
+Recommandations pour les personnes à risque d'endocardite infectieuse:
 
 - Carte patient avec niveau de risque
 - Éducation du patient  
-Consulter rapidement en cas de fièvre, hygiène corporelle et dentaire, pas d'automédication, déconseiller piercing et tatouage.
+  Consulter rapidement en cas de fièvre, hygiène corporelle et dentaire, pas d'automédication, déconseiller piercing et tatouage.
 - Soins dentaires
   - Brossage des dents ≥ 2 fois/j
   - Dentiste x 1/an avec détartrage
@@ -121,18 +121,21 @@ Consulter rapidement en cas de fièvre, hygiène corporelle et dentaire, pas d'a
 - Soutien psychologique
 - Limiter le recours au cathéter central, IV et prolongé
 
-### Antibioprophylaxie des personnes à haut risque
+{{%info%}}
+
+### Antibioprophylaxie des personnes à haut risque d'endocardite infectieuse
 
 Prise orale unique (voire IV) 30-60 minutes avant le geste invasif à risque.
 
-{{%info%}}Amoxicilline 2 g (50 mg/kg chez l'enfant){{%/info%}}
+Amoxicilline 2 g (50 mg/kg chez l'enfant)
+{{%/info%}}
 
 **Si allergie:** clindamycine 600 mg (20 mg/kg chez l'enfant).
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour les personnes à risque" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour les personnes à haut risque d'endocardite infectieuse. Dr JB Fron d'après ESC 2015" >}}
+{{< mermaid title="Recommandations pour la prise en charge des personnes à haut risque d'endocardite infectieuse. Dr JB Fron d'après ESC 2015" >}}
 graph TB
   fdr[Personne à haut risque ?]
   style fdr stroke:#4150f5, stroke-width:1px
@@ -144,8 +147,12 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
-- [Duval X., Iung B. Prophylaxie de l'endocardite infectieuse. Archives des Maladies du Coeur et des Vaisseaux - Pratique. Volume 2021. Issue 298. 2021. Pages 12-15. ISSN 1261-694X.](https://doi.org/10.1016/j.amcp.2021.03.003)
-- [Collège National des Enseignants de Cardiologie. Endocardite infectieuse. Item 149 - UE6. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch11_endocardite.pdf)
-- [Habib H. et al, ESC Scientific Document Group. 2015 ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC) Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). European Heart Journal. Volume 36. Issue 44. 21 November 2015. Pages 3075–3128.](https://doi.org/10.1093/eurheartj/ehv319)
+- [Duval X., Iung B. Prophylaxie de l'endocardite infectieuse. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/j.amcp.2021.03.003)
+- [Collège National des Enseignants de Cardiologie. Endocardite infectieuse. Item 149 - UE6. Cardiologie 2e édition. 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch11_endocardite.pdf)
+- [Habib H. et al. 2015 ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC) Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). European Heart Journal. 2015.](https://doi.org/10.1093/eurheartj/ehv319)
+
+### À lire
+
+[CMIT, SPILF. Endocardite infectieuse. Item 149 - UE 6. ECN.PILLY 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-149-nb.pdf)
 
 {{%/sources%}}

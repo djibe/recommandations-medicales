@@ -3,7 +3,7 @@ title = "Goutte"
 prefix = "la "
 description = "Recommandations SFR pour le traitement de la goutte. Uricémie cible, traitement de la crise colchicine, indication au traitement de fond allopurinol, fébuxostat"
 longHtml = true
-synonyms = []
+synonyms = ["hyperuricémie", "arthropathie uricémique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-08T09:35:00+02:00
 publishdate = 2021-01-08
@@ -340,7 +340,7 @@ Corticoïdes = 30 mg/j prednisone 3-5 jours.
 {{%/collapse%}}
 {{% collapse "Conduite à tenir pour le traitement hypouricémiant" "show" %}}
 
-{{< mermaid title="Conduite à tenir thérapeutique pour le traitement hypouricémiant. Dr JB Fron d'après SFR et ACR 2020" >}}
+{{< mermaid title="Prise en charge de la goutte par le traitement hypouricémiant. Dr JB Fron d'après SFR et ACR 2020" >}}
 graph TB
   diagnostic[Diagnostic de goutte] --> education(<b>Éducation</b><hr>- Traitement sur soi<br>- RHD) --> criteres("<b>Critères de traitement</b><hr>- SFRhumato: dès la 1<sup>re</sup> crise<br>- ACR:<br>&ge; 1 tophus, lésions radiologiques,<br>&ge; 2 crises/an,<br>critères annexes (Voir ttt fond)")
   style diagnostic stroke:#4150f5, stroke-width:1px

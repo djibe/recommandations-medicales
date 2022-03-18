@@ -1,27 +1,24 @@
 +++
 title = "Chalazion"
 prefix = "le "
-shortname = "Chalazion"
-synonyms = []
+description = "Recommandations pour le traitement du chalazion, infection d'une glande de Meibomius. Collyre antibiotique et corticoïde 7 jours"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-29T23:34:00+02:00
 publishdate = 2021-04-30
-lastmod = 2021-04-30
+lastmod = 2022-03-18
 specialites = ["ophtalmologie"]
 annees = "2018"
 sources = ["COUF"]
 tags = []
 anglais = ["Meibomian gland cyst", "Chalazion"]
 sctid = "1482004"
-draft = false
 image = true
-imageSrc = "jd, domaine public, via Wikimedia Commons"
-todo = ""
+imageSrc = "Photo d'un chalazion par jd, via Wikimedia Commons"
 +++
 
 {{%article-summary%}}
 
-- Antibiothérapie 7 jours
+- Antibiothérapie locale 7 jours
 - Voir aussi [Orgelet]({{< relref "orgelet.md" >}})
 
 {{%/article-summary%}}
@@ -29,20 +26,20 @@ todo = ""
 ## Définition
 
 Chalazion
-: Granulome inflammatoire se développant sur une glande de Meibomius avec occlusion du canal excréteur.  
+: Granulome inflammatoire se développant sur une *glande de Meibomius* avec occlusion du canal excréteur.  
 Stagnation des sécrétions sébacées le plus souvent sans surinfection bactérienne.
 : Tuméfaction douloureuse de la paupière sans communication avec le bord libre. Évolution sur plusieurs semaines.
 
-## Traitement
+## Traitement du chalazion
 
 - Soins de paupières  
 Humidification à l'eau chaude puis massages avec le doigt, de la base vers le bord libre pour drainer les sécrétions.
 - Éviter le port de lentilles pendant toute la durée du traitement
 - Avis ophtalmologique si persistance après 7-14 jours
 
-### Antibiothérapie
+### Antibiothérapie locale
 
-Corticothérapie locale avec antibiothérapie locale 2 en 1 pendant **7 jours**.  
+Corticothérapie locale avec collyre antibiotique local 2 en 1 pendant **7 jours**.  
 Vérifier la monographie car contre-indications spécifiques pour chaque spécialité.
 
 {{< table title="Antibiotiques disponibles pour le traitement d'un chalazion" >}}

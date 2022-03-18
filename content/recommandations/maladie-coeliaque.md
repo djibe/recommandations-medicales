@@ -2,12 +2,13 @@
 title = "Maladie cœliaque"
 prefix = "la "
 titleSeo = "Maladie cœliaque"
+description = "Recommandations pour le dépistage et le diagnostic de la maladie cœliaque. Endoscopie digestive, IgA totales et IgA anti-transglutaminase, régime sans gluten"
 synonyms = ["Intolérance au gluten", "allergie au gluten", "sprue cœliaque", "cœliaquie"]
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CELLIER (SNFGE)"
 date = 2020-04-16T12:31:11+02:00
 publishdate = 2020-04-16
-lastmod = 2022-01-18
+lastmod = 2022-03-18
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["ESsCD", "HAS", "SNFGE"]
@@ -34,13 +35,18 @@ ou EOGD d'emblée selon la probabilité clinique sans régime
 {{%collapse "Définition" %}}
 
 Maladie cœliaque (**MC**)
-: Maladie chronique auto-immune polyorganique affectant l'intestin grêle chez des personnes génétiquement prédisposées, déclenchée par l'ingestion de **gluten**.  
+: Maladie chronique auto-immune polyorganique affectant l'intestin grêle chez des personnes génétiquement prédisposées, déclenchée par l'ingestion de **gluten**. Diagnostic de la maladie par biopsies réalisées en endoscopie digestive haute.  
 Elle peut survenir à tout âge, prédomine chez la femme et la majorité des patients n'est pas diagnostiquée.  
-À l'origine d'une malabsorption et ses complications (carence, dénutrition, fracture).
+À l'origine d'une **malabsorption** et ses complications (carence, dénutrition, fracture).
+
+### Abréviation
+
+**EOGD:** endoscopie œso-gastro-duodénale (ou gastroscopie)  
+**IgA anti-transglutaminase:** anticorps anti-transglutaminase tissulaire (ou t-TG-IgA)
 
 ### Complications de la maladie cœliaque
 
-- **Carences en micronutriments, fer, vitamine B9 et B12**
+- **Carences en micronutriments, [fer]({{< relref "anemie.md" >}} ), vitamine B9 et B12**
 - Lymphome digestif
 - Surrisque de maladies auto-immunes
 - Altération de la qualité de vie
@@ -53,10 +59,6 @@ Elle peut survenir à tout âge, prédomine chez la femme et la majorité des pa
 - 70% des patients diagnostiqués après 20 ans.  
 La maladie survient le plus souvent de 6 mois à 2 ans puis de 20 à 40 ans.
 - 2 à 3 fois plus fréquente chez la femme.
-
-### Abréviation
-
-**EOGD:** endoscopie œso-gastro-duodénale (ou gastroscopie)
 
 {{%/collapse%}}
 {{%collapse "Facteurs de risque de maladie cœliaque" %}}
@@ -73,7 +75,7 @@ Voir *Qui dépister par sérologie ?*
 {{%/collapse%}}
 {{%collapse "Qui dépister par fibroscopie d'emblée ?" %}}
 
-Personnes à risque élevé de maladie cœliaque:
+Endoscopie digestive d'emblée pour le diagnostic de la maladie cœliaque chez les personnes à risque élevé:
 
 - Diarrhée chronique non sanglante
 - Diarrhée avec malabsorption (amaigrissement ++)
@@ -157,7 +159,7 @@ En cas de faible risque clinique.
 {{%class%}}De 32 à 156.000 devraient être réalisées chaque année.{{%/class%}}
 
 {{%info%}}
-Réalisée à jeun pendant exposition au gluten:
+Prise de sang à jeun pendant l'exposition au gluten:
 
 - IgA anti-transglutaminase (anticorps IgA anti-TGt, meilleure sensibilité)
 - et dosage des IgA totales
@@ -241,7 +243,7 @@ Par le gastro-entérologue et le diététicien spécialisé.
 
 [Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
 
-### Aliments à éviter
+### Aliments à éviter en allergie au gluten
 
 [SNFGE/CREGG. Alimentation sans gluten. (PDF)](https://www.snfge.org/sites/default/files/recommandations/alimentation_sans_gluten-snfge-cregg_2017.pdf)
 
@@ -296,11 +298,11 @@ graph TB
 {{%sources%}}
 
 - Prescrire Redaction. Intolérance au gluten - L'essentiel sur les soins de premier choix. Janvier 2020.
-- [Al-Toma A et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. UEG Journal, 7: 583-613. 2019.](https://doi.org/10.1177%2F2050640619844125)
-- [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut 2018;67:1380-1399.](https://gut.bmj.com/content/gutjnl/67/8/1380.full.pdf)
+- [Al-Toma A et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. UEG Journal. 2019.](https://doi.org/10.1177%2F2050640619844125)
+- [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut. 2018.](https://gut.bmj.com/content/gutjnl/67/8/1380.full.pdf)
 - [Olives JP. Maladie coeliaque : de l'enfance à l'âge adulte. POST'U 2013 - Paris](https://www.fmcgastro.org/postu-main/postu-2013-paris/textes-postu-2013-paris/maladie-coeliaque-de-lenfance-a-lage-adulte/)
 - [HAS. Recherche d'anticorps dans la maladie cœliaque et suivi de l'observance du régime sans gluten. Janvier 2007. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/synthese_maladie_coeliaque.pdf)
 - [SNFGE. Maladie cœliaque](https://www.snfge.org/content/maladie-coeliaque)
-- [Asmeli. Intolérance au gluten.](https://www.ameli.fr/hauts-de-seine/assure/sante/themes/intolerance-gluten-maladie-coeliaque)
+- [Ameli. Intolérance au gluten.](https://www.ameli.fr/hauts-de-seine/assure/sante/themes/intolerance-gluten-maladie-coeliaque)
 
 {{%/sources%}}

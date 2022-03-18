@@ -2,22 +2,21 @@
 title = "Diabète gestationnel"
 prefix = "le "
 titleSeo = "Diabète gestationnel"
-shortname = "DG"
+description = "Recommandations SFD CNGOF pour le diagnostic et le traitement du diabète gestationnel. Glycémie à jeun puis HGPO au 3e trimestre. Autosurveillance glycémique .."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-30T19:57:00+02:00
 publishdate = 2021-05-01
-lastmod = 2021-12-16
+lastmod = 2022-03-17
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["SFD", "CNGOF"]
 tags = ["diabete", "insuline"]
 anglais = ["Gestational diabetes mellitus"]
 sctid = "11687002"
-draft = false
 flowchart = true
 image = true
-imageSrc = "Illustration par vectorjuice / Freepik"
+imageSrc = "Illustration du diabète gestationnel par vectorjuice / Freepik"
 todo = "attente relecture C Brunet"
 +++
 
@@ -39,7 +38,7 @@ Diabète gestationnel (DG)
 Facteur de risque de complications obstétricales:  
     - Maternelles: pré-éclampsie, césarienne
     - Fœtales: macrosomie, hydramnios (rare), hyperbilirubinémie
-: La prévalence du DG est de 8% (2012) et en augmentation. Le risque ultérieur de [diabète de type 2]({{< relref "diabete-type-2.md" >}}) est alors **x7**.
+: La prévalence du diabète gestationnel est de 8% (2012) et en augmentation. Le risque ultérieur de [diabète de type 2]({{< relref "diabete-type-2.md" >}}) est alors **x7**.
 : Sur-dépistage du DG: 76% versus 42% attendus (*Regnault 2012*)
 
 Le diabète gestationnel ne modifie pas l'incidence des asphyxies néonatales, décès périnataux et hypocalcémies néonatales.
@@ -52,9 +51,11 @@ Conclusion de l'étude *Diagest2*: 18% des femmes avec un DG développeront un d
 **ADO:** antidiabétiques oraux  
 **ASG:** autosurveillance glycémique  
 **GAJ:** glycémie à jeun  
+**HGPO:** hyperglycémie provoquée par voie orale  
 **IADPSG**: {{%lang%}}International Association of Diabetes and Pregnancy Study Group{{%/lang%}}  
-**SA:**: semaines d'aménorrhée  
-**SOPK:** syndrome des ovaires polykystiques
+**SA:** semaines d'aménorrhée  
+**SOPK:** syndrome des ovaires polykystiques  
+**T1:** premier trimestre de la grossesse
 
 {{% /collapse %}}
 {{%collapse "Dépistage du diabète gestationnel" %}}
@@ -65,7 +66,7 @@ Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque par
 
 {{%info%}}
 
-1. Âge ≥ 35 ans
+1. Âge maternel ≥ 35 ans
 2. IMC ≥ 25 kg/m²
 3. Antécédent familial de [diabète type 2]({{< relref "diabete-type-2.md" >}}) au 1<sup>er</sup> degré
 4. Antécédent personnel de diabète gestationnel  
@@ -77,7 +78,8 @@ Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque par
 ### Comment dépister le diabète gestationnel ?
 
 {{%info%}}
-Diabète gestationnel si:
+
+#### Diagnostic de diabète gestationnel
 
 - **glycémie à jeun ≥ 0,92 g/L** au 1<sup>er</sup> trimestre  
 {{%class%}}Seuil *IADPSG*.{{%/class%}}
@@ -92,7 +94,7 @@ Adresser à la maternité de son choix pour la mise en place d'une auto-surveill
 {{%warning%}}Si glycémie à jeun > 1,26 g/L en début de grossesse (à 2 reprises), il s'agit d'un diabète de type 2.{{%/warning%}}
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du diabète gestationnel" %}}
 
 {{%info%}}Objectifs glycémiques: glycémie à jeun < 0,95 g/L et post-prandiale H2 < 1,20 g/L{{%/info%}}
 
@@ -181,9 +183,9 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{%sources%}}
 
 - {{< references/sfd-dt2 >}}
-- [Vambergue A. et al; SFD, CNGOF. Diabète gestationnel et pandémie SARS-Cov2 (COVID-19). Avril 2020. (PDF)](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)
-- [Brown J. et al. L'insuline pour le traitement des femmes atteintes de diabète gestationnel. Cochrane Database of Systematic Reviews 2017, Issue 11. Art.](https://www.cochrane.org/fr/CD012037/PREG_linsuline-pour-le-traitement-des-femmes-atteintes-de-diabete-gestationnel)
-- [Pirson N. et al. Prise en charge du diabète gestationnel en 2016 : une revue de la littérature. Louvain med 2016; 135 (10): 661-668. (PDF)](https://www.louvainmedical.be/sites/default/files/content/article/pdf/lmed-12-2016-01-pirson.pdf)
+- [Vambergue A. et al; SFD, Collège National des Gynécologues et Obstétriciens Français (CNGOF). Diabète gestationnel et pandémie SARS-Cov2 (COVID-19). Avril 2020. (PDF)](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)
+- [Brown J. et al. L'insuline pour le traitement des femmes atteintes de diabète gestationnel. Cochrane Database of Systematic Reviews. 2017.](https://www.cochrane.org/fr/CD012037/PREG_linsuline-pour-le-traitement-des-femmes-atteintes-de-diabete-gestationnel)
+- [Pirson N. et al. Prise en charge du diabète gestationnel en 2016 : une revue de la littérature. Louvain med. 2016. (PDF)](https://www.louvainmedical.be/sites/default/files/content/article/pdf/lmed-12-2016-01-pirson.pdf)
 - [Regnault N. et al. Diabète gestationnel en France en 2012 : dépistage, prévalence et modalités de prise en charge pendant la grossesse. BEH. Santé Publique France. Mars 2016.](http://beh.santepubliquefrance.fr/beh/2016/9/2016_9_2.html)
 - SFD. Le livre blanc du diabète. 2011.
 - [CNGOF, SFD. Le diabète gestationnel. Recommandations pour la pratique clinique. 2010. (PDF)](http://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/diabete%20gesta%20cngof.pdf)

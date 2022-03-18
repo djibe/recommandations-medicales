@@ -7,7 +7,7 @@ synonyms = ["Phlébite profonde"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-19T18:21:00+02:00
 publishdate = 2021-03-19
-lastmod = 2021-03-19
+lastmod = 2022-03-17
 specialites = ["cardiologie"]
 annees = "2019"
 sources = ["SFC", "SPLF"]
@@ -24,7 +24,7 @@ Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'
 
 {{%article-summary%}}
 
-- En l'absence de dyspnée, malaise, tachycardie et douleur thoracique, sinon voir *[Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})*
+- En l'absence de dyspnée, malaise, tachycardie et douleur thoracique, sinon voir *[suspicion d'embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})*
 - Score clinique systématique et D-dimères ou écho-doppler veineux selon le résultat
 - Thrombose veineuse superficielle, voir la fiche dédiée (*en cours*).
 
@@ -168,7 +168,7 @@ Rechercher une hémoglobinurie paroxystique nocturne (HPN).
 - Scanner thoraco-abdomino-pelvien ou PETscan
 
 {{% /collapse %}}
-{{%collapse "Traitement de la TVP" %}}
+{{%collapse "Traitement de la thrombose veineuse profonde" %}}
 
 ### Anticoagulation
 
@@ -181,7 +181,7 @@ Rechercher une hémoglobinurie paroxystique nocturne (HPN).
 
 Avec surveillance NFS, ionogramme, créatininémie, bilan hépatique.
 
-#### Durée de l'anticoagulation
+#### Durée de l'anticoagulation de la thrombose veineuse profonde
 
 Le traitement doit durer 3 à 6 mois voire une durée non limitée et prend en compte le risque hémorragique.
 
@@ -256,7 +256,7 @@ Indication: TVP proximale diagnostiquée dans les 30 jours (avec ou sans EP) ave
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une TVP" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de thrombose veineuse profonde. Dr JB Fron d'après Sanchez 2019" >}}
+{{< mermaid title="Prise en charge d'une suspicion de thrombose veineuse profonde. Dr JB Fron d'après Sanchez 2019" >}}
 graph TB
   tvp[Suspicion de TVP<br>sans argument d'EP] --> score(<b>Score clinique</b><br>Wells, Constans ou LEFt)
   style tvp stroke:#4150f5, stroke-width:1px
@@ -283,9 +283,9 @@ graph TB
 
 ### À lire
 
-- Prévention 2011: https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prevention-de-la-maladie-thromboembolique-veineuse-postoperatoire-copie.pdf
-- GIHP 2018: https://www.portailvasculaire.fr/sites/default/files/docs/2019_gihp_commentaires_2018_esa_vte_guidelines_mtev_prevention_peri-op.pdf
-- https://journals.lww.com/ejanaesthesiology/fulltext/2018/02000/european_guidelines_on_perioperative_venous.2.aspx
+- [Samama C-M et al; SFAR. Prévention de la maladie thromboembolique veineuse postopératoire. Actualisation 2011. Texte court. (PDF)](https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prevention-de-la-maladie-thromboembolique-veineuse-postoperatoire-copie.pdf)
+- [Albaladejo et al. Commentaires et propositions du Groupe d’Intérêt en Hémostase Périopératoire (GIHP) sur les recommandations de la Société Européenne d’Anesthésie : European Guidelines on perioperative venous thromboembolism prophylaxis. 2019. (PDF)](https://www.portailvasculaire.fr/sites/default/files/docs/2019_gihp_commentaires_2018_esa_vte_guidelines_mtev_prevention_peri-op.pdf)
+- [Afshari A. et al; ESA VTE Guidelines Task Force. European Guidelines on perioperative venous thromboembolism prophylaxis. Eur Jour Anaes. 2018.](https://journals.lww.com/ejanaesthesiology/fulltext/2018/02000/european_guidelines_on_perioperative_venous.2.aspx)
 
 {{%/sources%}}
 {{% modal title="Clairance selon Cockroft" id="modal-score-cockroft"%}}

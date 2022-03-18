@@ -2,6 +2,7 @@
 title = "Insuffisance cardiaque chronique"
 prefix = "l'"
 titleSeo = "Insuffisance cardiaque"
+description = "Nouvelles recommandations 2021 pour le diagnostic et le traitement de l'insuffisance cardiaque à fraction d'éjection diminuée ou non. IEC, betabloquant, SGLT2"
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
@@ -253,8 +254,7 @@ Bilan étiologique et fer maltose IV.
 - Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) et mesure systématique de l'IPS (*ESC 2017 LEAD*)
 - Dépister annuellement une dépression
   - Échelle: Beck, Cardiac Depression Scale
-  - Traitements sûrs: sertraline, escitalopram
-  - Éviter les tricycliques
+  - Traitements sûrs: sertraline, escitalopram. Éviter les tricycliques.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'IC à FE diminuée" %}}
@@ -400,7 +400,7 @@ style suspicion stroke:#4150f5, stroke-width:1px
 
 ---
 
-{{< mermaid title="Conduite à tenir pour le traitement l'insuffisance cardiaque symptomatique à l'état stable. Dr JB Fron d'après ESC 2021" >}}
+{{< mermaid title="Prise en charge d'une insuffisance cardiaque symptomatique à l'état stable. Dr JB Fron d'après ESC 2021" >}}
 graph TB
 ICFEd["Patient symptomatique avec ICFEd<br>FEVG &le; 40%"]
 style ICFEd stroke:#4150f5, stroke-width:1px

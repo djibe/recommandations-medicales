@@ -1,9 +1,9 @@
 +++
-title = "Accident vasculaire cérébral"
+title = "Accident vasculaire cérébral (AVC)"
 prefix = "l'"
 titleSeo = "Accident vasculaire cérébral"
 description = "Dernières recommandations 2021 sur l'AVC pour le médecin généraliste. Prévention secondaire avec aspirine, statine, objectif LDL, IEC, objectif tensionnel..."
-synonyms = ["AVC et AIT", "accident ischémique transitoire", "infarctus cérébral"]
+synonyms = ["AIT", "accident ischémique transitoire", "infarctus cérébral"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-25T14:04:00+02:00
 publishdate = 2021-01-25
@@ -36,7 +36,7 @@ todo = "rééduc, bilan étiologique, https://erj.ersjournals.com/content/55/4/1
 
 Accident vasculaire cérébral (AVC)
 : Déficit neurologique survenant par interruption de la vascularisation cérébrale ou parfois par un saignement intra-cérébral (hémorragie intra-parenchymateuse HIP).
-: 2 types: l'*accident ischémique* (AIC, 88%) par caillot occlusif (athérosclérose, embole cardiaque)  
+: 2 types: l'*accident ischémique* (AVS ischémique ou AIC, 88%) par caillot occlusif (athérosclérose, embole cardiaque)  
 et l'*accident hémorragique* par rupture artérielle (HTA, anévrisme, MAV, tumeur).
 : La survenue d'un AVC/AIT détermine un {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}}.
 
@@ -80,7 +80,7 @@ Accident ischémique transitoire
 {{%collapse "Clinique" %}}
 
 {{%info%}}
-5 signes d'alerte de l'American Stroke Association:
+5 signes d'alerte de l'*American Stroke Association*:
 
 1. Déficit moteur (> 50%)  
 Faiblesse ou engourdissement soudain, uni ou bilatéral de la face, du bras ou de la jambe.
@@ -159,7 +159,7 @@ Insuffisance hépatique, cirrhose, hypertension portale, varices œsophagiennes,
 > *[BDPM](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67177673&typedoc=R#RcpContreindications)*
 
 {{% /collapse %}}
-{{%collapse "Traitement post-AVC" %}}
+{{%collapse "Traitement post AVC" %}}
 
 S'applique aussi après un AIT.
 

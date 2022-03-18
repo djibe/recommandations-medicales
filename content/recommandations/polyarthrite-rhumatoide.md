@@ -2,12 +2,12 @@
 title = "Polyarthrite rhumatoïde"
 prefix = "la "
 titleSeo = "Polyarthrite rhumatoïde"
-synonyms = []
+description = "Recommandations SFR 2018 pour le diagnostic et le traitement de la polyarthrite rhumatoïde. Bilan biologique et radiographies. AINS, méthotrexate, biothérapie"
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr JG LETAROUILLY (SFR)"
 date = 2020-10-23T22:24:41+02:00
 publishdate = 2020-10-23
-lastmod = 2022-03-15
+lastmod = 2022-03-18
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "EULAR", "ACR", "HAS"]
@@ -42,6 +42,13 @@ La destruction articulaire entraîne altération de la qualité de vie, handicap
 
 Traitements conventionnels
 : Méthotrexate, léflunomide ou sulfasalazine.
+
+### Diagnostic différentiel de la polyarthrite rhumatoïde
+
+- Connectivite  
+Lupus, Gougerot-Sjögren.
+- [Spondylarthrite]({{< relref "spondylarthrite-ankylosante.md" >}})
+- Arthrose digitale
 
 ### Facteurs de mauvais pronostic
 
@@ -81,7 +88,7 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
 ### Examen clinique
 
 - Diagnostic positif
-  - Synovites, ténosynovites
+  - Arthrite clinique: Synovites, ténosynovites
   - Douleur à la pression transverse des mains ou avant-pieds (MCP/MTP = *squeeze-test*)
   - Éléments plus haut, atteinte symétrique
 - Signes extra-articulaires
@@ -93,14 +100,6 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
   [Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), myalgie, perte de force, lésions cutanées, photosensibilité.
   - Spondyloarthrites et rhumatisme psoriasique  
   Atteinte des IPD, psoriasis, diarrhée glairo-sanglante, uvéite, rachialgie, pyalgie.
-
-{{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-- Connectivite  
-Lupus, Gougerot-Sjögren.
-- [Spondylarthrite]({{< relref "spondylarthrite-ankylosante.md" >}})
-- Arthrose digitale
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -127,13 +126,13 @@ Lupus, Gougerot-Sjögren.
 Selon le contexte:
 
 - Sérologie de borréliose ([Maladie de Lyme]({{< relref "maladie-lyme.md" >}}))
-- Uricémie
+- [Uricémie]({{< relref "goutte.md" >}})
 - Ponction et culture de liquide synovial
 
 Les autres examens relèvent du rhumatologue.
 
 {{% /collapse %}}
-{{%collapse "Traitement de la PR" %}}
+{{%collapse "Traitement de la polyarthrite rhumatoïde" %}}
 
 {{%info%}}La décision du traitement dépend du rhumatologue, partagée avec le patient{{%/info%}}
 
@@ -295,7 +294,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
-- [Daien C. et al. Actualisation des Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. Septembre 2018.](https://www.sciencedirect.com/science/article/pii/S1169833018301522)
+- [Daien C. et al. Actualisation des Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. 2018.](https://www.sciencedirect.com/science/article/pii/S1169833018301522)
 - [EULAR. 2016 update of the EULAR recommandations for the management of early arthritis. 03/31/2017.](https://ard.bmj.com/content/76/6/948)
 - [EULAR. EULAR recommandations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs : 2016 update. 03/17/2017.](https://ard.bmj.com/content/76/6/960)
 - [HAS. ALD n° 22 - Polyarthrite rhumatoïde évolutive grave. 2008 et 2015.](https://www.has-sante.fr/jcms/c_664454/fr/ald-n-22-polyarthrite-rhumatoide-evolutive-grave)
