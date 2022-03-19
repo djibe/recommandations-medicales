@@ -1,7 +1,7 @@
 +++
-title = "Fibrillation atriale"
+title = "Fibrillation atriale (ACFA)"
 prefix = "la "
-description = "Recommandations ESC 2020 sur l'ACFA pour le médecin généraliste. ECG, risque embolique CHADSVASC et hémorragique, anticoagulants AOD, antiarythmiques ..."
+description = "Recommandations ESC 2020 sur la fibrillation auriculaire (FA ou ACFA). ECG, risque embolique CHADSVASC et hémorragique, anticoagulants AOD, antiarythmiques"
 synonyms = ["Arythmie complète par fibrillation auriculaire ou ACFA"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-05T17:43:41+02:00
@@ -220,6 +220,8 @@ Estimer le risque hémorragique avec le {{< modal-btn modal-hasbled >}}score HAS
 
 **Prévention:** contrôle des facteurs de risque cardiovasculaire (tabac, HTA, diabète) et limiter la consommation d'alcool.
 
+Recommandations générales pour la prise en charge de la fibrillation atriale:
+
 - Traitement à vie et {{< modal-btn modal-observance >}}observance{{< /modal-btn >}} +++
 - Facteurs favorisants
   - Arrêt du tabac
@@ -348,12 +350,12 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{% /collapse %}}
 {{%sources%}}
 
-- [Hindricks G. et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Hear Jour. Vol 42. Issue 5. 1 Feb 2021. Pages 373–498.](https://doi.org/10.1093/eurheartj/ehaa612)
+- [Hindricks G. et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Hear Jour. 2021.](https://doi.org/10.1093/eurheartj/ehaa612)
 - Prescrire Redaction. Fibrillation auriculaire. Premiers Choix Prescrire. Février 2021.
 - [Collège National des Enseignants de Cardiologie. Fibrillation atriale. Item 230 - UE8. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch14_fibrillation_atriale.pdf)
 - [HAS. Fibrillation auriculaire. Actes et prestations Affection de longue durée. Juillet 2015.](https://www.has-sante.fr/jcms/c_568395/fr/ald-n-5-fibrillation-auriculaire)
 - [HAS. Fibrillation atriale. Guide parcours de soins. Février 2014.](https://www.has-sante.fr/jcms/c_1741768/fr/guide-parcours-de-soins-fibrillation-atriale)
-- [Société Française de Gériatrie et Gérontologie et Société Française de Cardiologie. Prise en charge de la fibrillation atriale du sujet âgé. La Revue de Gériatrie. Tome 38. n°7. Septembre 2013. (PDF)](http://www.omedit-idf.fr/wp-content/uploads/2015/02/CV-antico-recoFASFGGSFC2013.pdf)
+- [Société Française de Gériatrie et Gérontologie et Société Française de Cardiologie. Prise en charge de la fibrillation atriale du sujet âgé. La Revue de Gériatrie. 2013. (PDF)](http://www.omedit-idf.fr/wp-content/uploads/2015/02/CV-antico-recoFASFGGSFC2013.pdf)
 
 ### À lire
 

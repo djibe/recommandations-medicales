@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-02-17"
+lastmod = "2022-03-19"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["SFD", "ESC", "EASD", "ADA", "HAS"]
@@ -24,11 +24,9 @@ todo = "glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/20
 - Sevrage tabagique obligatoire
 - Points vitaux obligatoires (voir plus bas)
 - Traitements: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}
+- Éducation thérapeutique du patient: [diabeclic.com](https://www.diabeclic.com)
 
 {{%/article-summary%}}
-
-Le suivi préconisé pour la personne vivant avec un diabète de type 2 est visualisable sur [Diabeclic - Suivi du diabète](https://www.diabeclic.com/suivi-du-diabete), sous forme d'un tableau de soins adapté au patient (avec bibliographie et imprimable).
-
 {{%collapse "Définitions"%}}
 
 Diabète

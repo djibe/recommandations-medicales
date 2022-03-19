@@ -13,7 +13,6 @@ sources = ["SNFGE"]
 tags = ["fatigue", "ferritine", "obesite"]
 anglais = ["Hyperferritinemia"]
 sctid = "390943009"
-draft = false
 image = false
 imageSrc = ""
 flowchart = true
@@ -59,19 +58,19 @@ Hyperferritinémie (HF)
 ### Causes fréquentes d'hyperferritinémie
 
 - **Syndrome métabolique. 1<sup>re</sup> cause**  
-HF souvent < 1000, peut précéder le syndrome, CST normal, surcharge en fer absente/modérée.  
-On parle d'hépatosidérose métabolique même si le syndrome métabolique est incomplet.
+  HF souvent < 1000, peut précéder le syndrome, CST normal, surcharge en fer absente/modérée.  
+  On parle d'hépatosidérose métabolique même si le syndrome métabolique est incomplet.
 - **Syndrome inflammatoire** (aigu ou chronique)  
-HF < 500, CST normal, pas surcharge en fer, CRP élevée
+  HF < 500, CST normal, pas surcharge en fer, CRP élevée
 - **Hépatite** (aiguë ou chronique)  
-CST > 45%, pas de surcharge en fer, transaminases élevées
+  CST > 45%, pas de surcharge en fer, transaminases élevées
 - **Alcoolisme**  
-**HF fluctuante**, CST normal/peu élevé, surcharge en fer absente/modérée
+  **HF fluctuante**, CST normal/peu élevé, surcharge en fer absente/modérée
 - **Transfusions multiples**
   - Myélodysplasie, thalassémie
   - CST élevé, surcharge en fer globale, anémie chronique
 - **Génétique - hémochromatose liée à HFE** (type 1)  
-CST très élevé (60-100%), surcharge en fer globale, homozygotie C282Y
+  CST très élevé (60-100%), surcharge en fer globale, homozygotie C282Y.
 
 ### Causes rares d'hyperferritinémie
 
@@ -124,13 +123,14 @@ Hépatopathie, surcharge en fer, hémoglobinopathie, diabète, cataracte précoc
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+{{%info%}}
+
 ### Bilan devant une hyperferritinémie
 
-{{%info%}}
 À jeun pendant 12h:
 
 - NFS, CRP
-- Ferritinémie, CST à jeun
+- Ferritinémie, coefficient de saturation de la transferrine (CST) à jeun
 - ASAT, ALAT, GGT, PAL
 - CPK
 - Glycémie à jeun

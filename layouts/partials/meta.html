@@ -163,7 +163,7 @@
 {{ if or (.Params.noindex) (eq .Kind "taxonomy") (eq .Kind "term") }}
 <meta name="robots" content="noindex, follow, noarchive">
 {{ else }}
-<meta name="robots" content="index, follow, archive">
+<meta name="robots" content="index, follow">
 {{ end }}
 
 <!--TODO: Others -->

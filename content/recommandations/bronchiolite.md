@@ -194,7 +194,7 @@ Dyspnée avec polypnée, geignements expiratoires (grunting)
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%info%}}Pas d'examen complémentaire en cas de forme typique de bronchiolite{{%/info%}}
+{{%info%}}Pas d'examen complémentaire en cas de forme typique de bronchiolite aiguë{{%/info%}}
 
 ### Radiographie pulmonaire
 
@@ -277,7 +277,7 @@ Sont contre-indiquées: drainage postural, vibration, clapping, désencombrement
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une dyspnée sifflante" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une dyspnée sifflante. Dr JB Fron d'après HAS/CNPP 2019" >}}
+{{< mermaid title="Prise en charge d'une dyspnée sifflante. Dr JB Fron d'après HAS/CNPP 2019" >}}
 graph TB
   dyspnee[Dyspnée sifflante] --> age(Âge)
   style dyspnee stroke:#4150f5, stroke-width:1px

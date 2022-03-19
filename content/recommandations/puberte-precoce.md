@@ -2,7 +2,7 @@
 title = "Puberté précoce"
 prefix = "la "
 shortname = "PP"
-synonyms = []
+description = "TODO:"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-30T14:06:29+02:00
 publishdate = 2020-06-30
@@ -13,7 +13,6 @@ sources = ["SFE", "CNPU"]
 tags = ["enfant", "adolescent"]
 anglais = ["Precocious puberty"]
 sctid = "400179000"
-draft = false
 flowchart = true
 todo = "https://pap-pediatrie.fr/endocrinologie/puberte-precoce, Avances pubertaires dissociées"
 +++
@@ -31,12 +30,12 @@ todo = "https://pap-pediatrie.fr/endocrinologie/puberte-precoce, Avances puberta
 
 Puberté normale
 : Ensemble des phénomènes physiques et psychiques qui définissent le passage de l'enfance à l'âge adulte, aboutissant à l'acquisition de la taille définitive et de la fonction de reproduction.
-: Période d'environ 4 ans caractérisée par l'accélération de la vitesse de croissance et l'apparition des caractères sexuels secondaires. Les stades pubertaires sont cotés de 1 à 5 selon la classification de **Tanner**.
-: Les premiers signes sont le développement des seins chez la fille et l'augmentation du volume testiculaire chez le garçon.
+: Période d'environ 4 ans caractérisée par l'accélération de la vitesse de croissance et l'apparition des caractères sexuels secondaires. Les stades pubertaires sont cotés de 1 à 5 selon la classification des stades de **Tanner**.
+: Les premiers signes du début de la puberté sont le développement des seins chez la fille et l'augmentation du volume testiculaire chez le garçon.
 
 Puberté précoce (PP)
 : Le diagnostic est clinique, défini par l'âge d'apparition des caractères sexuels (CS II): Fille < 8 ans et garçon < 9,5 ans.
-: La puberté précoce atteint surtout les filles (4,5/1) avec pour origine une tumeur dans 40% des cas (Klein. JCEM 86).
+: La puberté précoce atteint surtout les filles (4,5/1) avec pour origine une tumeur dans 40% des cas (*Klein. JCEM 86*).
 : Complication: petite taille à l'âge adulte.
 
 La survenue précoce de la puberté est associée à une maturation sexuelle plus rapide et plus marquée du développement physique.  
@@ -53,7 +52,7 @@ Prémature thélarche
 
 ### Calendrier pubertaire
 
-L'âge classique de début des caractères sexuels secondaires est de 11 ± 2 ans pour les filles et 12 ± 2 ans pour les garçons.
+L'âge moyen de début des caractères sexuels secondaires est de 11 ± 2 ans pour les filles et 12 ± 2 ans pour les garçons.
 
 #### Ordre d'apparition des caractères sexuels secondaires
 
@@ -158,9 +157,9 @@ Le traitement relève du **pédiatre spécialisé en endocrinologie**.
 
 ### Traitement de la puberté précoce centrale (PPC)
 
-Il consiste en des injections (SC/IM) d'**analogues du GnRH** (tryptoréline ou leuproréline en formes LP).
+Il consiste en des injections (SC/IM) d'**analogues ou agonistes de la GnRH** (tryptoréline ou leuproréline en formes LP).
 
-{{%class-block%}}Les analogues du GnRH bloquent le développement pubertaire, limitent l'avance de l'âge osseux, normalisent la vitesse de croissance et permettent d'obtenir une taille adulte entre -1 et 0 DS.  
+{{%class-block%}}Les agonistes de la GnRH bloquent le développement pubertaire, limitent l'avance de l'âge osseux, normalisent la vitesse de croissance et permettent d'obtenir une taille adulte entre -1 et 0 DS.  
 Action réversible quelques mois après l'arrêt du traitement.{{%/class-block%}}
 
 Des tests de provocation cutanée (Prick tests) sont réalisés au préalable.

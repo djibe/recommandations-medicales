@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-08-18T11:07:22+02:00"
 publishdate = "2021-09-07"
-lastmod = "2022-03-18"
+lastmod = "2022-03-19"
 specialites = ["cardiologie"]
 annees = "2015"
 sources = ["ESC"]
@@ -26,7 +26,7 @@ todo = "Brossettes, Pilly"
 - Antibioprophylaxie uniquement pour les patients à haut risque
 - Amoxicilline per os 2 g 30-60 minutes avant (50 mg/kg chez l'enfant)
 - Soutien psychologique
-- Adresser aux urgences toute suspicion d'endocardite
+- Adresser aux urgences toute suspicion d'endocardite infectieuse
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -34,7 +34,7 @@ todo = "Brossettes, Pilly"
 Endocardite infectieuse (EI)
 : Infection d'une ou plusieurs valves cardiaques par une bactérie, plus rarement par des germes intracellulaires ou des levures. L'atteinte de l'endocarde pariétale est plus rare. *L'endocardite infectieuse est rare mais grave*.
 : La porte d'entrée est cutanée (40%), nosocomiale, toxicomanie IV, bucco-dentaire (1/3), gastro-intestinale (23%), urogénitale (4%) et autres.
-: Les germes sont les staphylocoques (30-50%, mauvais pronostic), *streptocoques gallolyticus* et entérocoques.
+: Les germes sont les staphylocoques (30-50%, mauvais pronostic, *Staphylococcus aureus* ++), *streptocoques gallolyticus* et entérocoques.
 : La prophylaxie repose sur les mesures d'hygiène et pour les patients à haut risque d'endocardite: l'antibioprophylaxie en geste invasif.
 
 {{%info%}}1/3 des personnes à haut risque ne bénéficient pas d'antibioprophylaxie lors des soins invasifs{{%/info%}}
@@ -48,11 +48,11 @@ Endocardite infectieuse (EI)
 Seules personnes éligibles à l'antibioprophylaxie en soins dentaires à haut risque:
 
 1. Valve prothétique  
-Mécanique, homogreffe ou bioprothèse.
+  Mécanique, homogreffe ou bioprothèse.
 1. Antécédent d'endocardite
 1. Cardiopathie congénitale
-     - Cyanogène
-     - Matériel prothétique implanté dans les 6 mois ou avec persistance de shunt ou régurgitation valvulaire
+    - Cyanogène
+    - Matériel prothétique implanté dans les 6 mois ou avec persistance de shunt ou régurgitation valvulaire
 
 > *ESC 2015*
 {{%/info%}}
@@ -75,7 +75,7 @@ Les manifestations de l'endocardite infectieuse sont variées avec des présenta
 Évoquer devant: AVC, purpura, lombalgies fébriles.
 
 {{%warning%}}
-Évoquer devant toute insuffisance cardiaque fébrile
+Évoquer devant tout insuffisance cardiaque ou signe neurologique fébrile
 
 ---
 
@@ -85,7 +85,7 @@ Réaliser des hémocultures avant la prescription d'antibiotiques
 - Fièvre +++
 - Signes cutanés (5-15%)
   - Purpura pétéchial
-  - Nodosités d'Osler ("faux panaris") pathognomoniques
+  - Nodosités d'Osler ("faux panaris d'Osler") pathognomoniques
   - Placard érythémateux palmoplantaire (de Janeway)
 - Signes respiratoires
   - Toux
@@ -94,11 +94,13 @@ Réaliser des hémocultures avant la prescription d'antibiotiques
   - Purpura conjonctival
   - Tâches de Roth (fond d'œil)
 - Signes rhumatologiques  
-Arthralgies, lombalgie, myalgie.
+  Arthralgies, lombalgie, myalgie.
 - Signes neurologiques  
-AVC, abcès cérébral.
+  AVC, convulsions fébriles, troubles de la conscience, syndrome méningé, abcès cérébral.
 - Signes rénaux  
-Protéinurie/hématurie isolée, insuffisance rénale.
+  Protéinurie/hématurie isolée, insuffisance rénale.
+- Signes vasculaires  
+  Ischémie (sub)-aiguë de membre, syndrome coronarien aigu, embolie pulmonaire.
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
@@ -115,7 +117,7 @@ Recommandations pour les personnes à risque d'endocardite infectieuse:
   - Dentiste x 2/an avec détartrage
   - Antibioprophylaxie lors des gestes invasifs dentaires uniquement  
   Manipulation de la région gingivale ou péri-apicale de la dent, perforation de la muqueuse orale.
-  - Contre-indication aux brossettes interdentaires ou pratiques agressives TODO:
+  - Contre-indication aux brossettes interdentaires ou pratiques agressives
 - Désinfection des plaies
 - Dépistage organisé des cancers (colorectal dès 50 ans ++)
 - Soutien psychologique
@@ -148,11 +150,8 @@ graph TB
 {{%sources%}}
 
 - [Duval X., Iung B. Prophylaxie de l'endocardite infectieuse. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/j.amcp.2021.03.003)
+- [CMIT, SPILF. Endocardite infectieuse. Item 149 - UE 6. ECN.PILLY 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-149-nb.pdf)
 - [Collège National des Enseignants de Cardiologie. Endocardite infectieuse. Item 149 - UE6. Cardiologie 2e édition. 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch11_endocardite.pdf)
 - [Habib H. et al. 2015 ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC) Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). European Heart Journal. 2015.](https://doi.org/10.1093/eurheartj/ehv319)
-
-### À lire
-
-[CMIT, SPILF. Endocardite infectieuse. Item 149 - UE 6. ECN.PILLY 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-149-nb.pdf)
 
 {{%/sources%}}
