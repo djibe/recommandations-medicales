@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-02T15:14:41+02:00
 publishdate = 2020-12-02
-lastmod = 2022-01-24
+lastmod = 2022-03-21
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["GEFH", "HAS", "SNFGE"]
@@ -28,9 +28,9 @@ todo = "reco enfant 2022, comment diag quand rosacée, dépistage en AINS long c
 - Endoscopie si symptômes ou facteurs de risque de cancer
 - Reporter le traitement si grossesse/allaitement
 - Traitement adapté à l'antibiogramme +++
-- Amoxicilline: 50 mg/kg/j en 3-4 prises (max 6 g/j)
-- 2 IPP: ésoméprazole 40 ou rabéprazole 20 mg (sauf oméprazole pour Bismuth), pris matin et soir
-- Contrôle de l'éradication systématique (arrêt ATB > 1 mois et IPP > 2 sem)
+- Posologie de l'amoxicilline: 50 mg/kg/j en 3-4 prises (max 6 g/j)
+- 2 IPP: ésoméprazole 40 ou rabéprazole 20 mg (sauf oméprazole pour Bismuth), matin et soir
+- {{< modal-btn modal-test-respi >}}Contrôle de l'éradication{{< /modal-btn >}} systématique
 - Signes d'alarmes en symptômes digestifs hauts:  
 Dysphagie, amaigrissement, anémie.
 
@@ -239,9 +239,9 @@ Indications en première intention:
 
 #### Souche sensible à la clarithromycine
 
-Traitement de première intention d'éradication d'une infection prouvée à *H. pylori* avec fonction rénale normale.
+Traitement de première intention d'infection à *Helicobacter pylori* avec fonction rénale normale.
 
-{{%warning%}}Tout traitement antibiotique doit être suivi d'un contrôle d'éradication (voir chapitre suivant *Contrôle de la guérison*).{{%/warning%}}
+{{%warning%}}Tout traitement antibiotique doit être suivi d'un {{< modal-btn modal-test-respi >}}contrôle d'éradication{{< /modal-btn >}}{{%/warning%}}
 
 {{%info%}}
 En cas de sensibilité à la clarithromycine, trithérapie pendant 14 jours:
@@ -294,7 +294,7 @@ Si quadrithérapie déjà utilisée en 1<sup>re</sup> ligne, voir 3<sup>e</sup> 
 
 ### Traitement de troisième ligne
 
-La réalisation d'une nouvelle endoscopie est préférable.
+La réalisation d'une nouvelle endoscopie est préférable pour antibiogramme.
 
 - Souche Clari-S: idem ci-dessus
 - Souche Clari-R et Quinolone-S: idem ci-dessus
@@ -355,7 +355,7 @@ Quadrithérapie avec *bismuth* pendant 10 jours:
 
 #### Allergie à la pénicilline: 2e ligne
 
-Privilégier une endoscopie avec antibiogramme:
+Privilégier une endoscopie pour antibiogramme:
 
 - Clari-S et Quinolone-S
   - Clarithromycine 500 mg matin et soir pendant le repas
@@ -395,32 +395,16 @@ Effet antabuse (jusqu'à 3 jours après), troubles digestifs, troubles neuropsy 
 ### Test respiratoire à l'urée marquée
 
 {{%info%}}
-**Ordonnance pour la pharmacie**
-
-Helikit® ou Infai® 75 mg. 1 boîte
-
----
-
-**Ordonnance pour le laboratoire**
-
-Réalisation du test Helikit® ou Infai®
-
-Au moins 4 semaines après la fin du traitement.  
-Vous ne devez pas avoir bu, ni mangé, ni fumé depuis la veille au soir.
+{{< traitements/helicobacter-test-uree >}}
 {{%/info%}}
 
 **Le contrôle de l'éradication de *H. pylori* doit être systématique.**
 
-Il doit être réalisé au moins 4 semaines après la fin de tout traitement  
-ET au moins 2 semaines après l'arrêt total des IPP.
-
 Il est réalisé à jeun au laboratoire avec un test acheté sur ordonnance en pharmacie.
-
-En cas de test positif, recours à un avis spécialisé (Centre national de référence des *Campylobacters* et *Helicobacters*).
 
 ### Antigène fécal
 
-La recherche fécale de *H. pylori* est une alternative au test respiratoire pour la guérison mais mais n'est pas remboursé.
+La recherche fécale de *H. pylori* est une alternative au test respiratoire pour la guérison mais n'est pas remboursé.
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir en présence de Helicobacter pylori" "show" %}}
@@ -532,3 +516,8 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 - [Kalach N. et al.; GFHGNP. Diagnostic et traitement de l'infection à Helicobacter pylori chez l'enfant. 2022.](http://www.helicobacter.fr/wp-content/uploads/2022/01/Diagnostic-et-traitement-de-linfection-%C3%A0-Helicobacter-pylori-chez-l%E2%80%99enfant.pdf)
 
 {{%/sources%}}
+{{% modal title="Test respiratoire à l'urée marquée" id="modal-test-respi"%}}
+
+{{< traitements/helicobacter-test-uree >}}
+
+{{% /modal %}}

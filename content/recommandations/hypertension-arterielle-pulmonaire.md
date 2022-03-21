@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-02T11:46:00+02:00
 publishdate = 2021-03-02
-lastmod = 2021-03-28
+lastmod = 2022-03-20
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["HAS"]
@@ -166,6 +166,11 @@ Le traitement relève uniquement du centre de référence. Le suivi est au moins
 - [Collège National des Enseignants de Cardiologie. Hypertension artérielle pulmonaire de l'enfant et de l'adulte. Item 222. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch19_hypertension_pulmonaire.pdf)
 - [Collège des enseignants de pneumologie. Hypertension artérielle pulmonaire. Item 222. 2017. (PDF)](http://cep.splf.fr/wp-content/uploads/2018/09/item_222_HTP_2017-cor2018.pdf)
 - [Orphanet. Hypertension artérielle pulmonaire idiopathique/familiale.](https://www.orpha.net/consor/www/cgi-bin/OC_Exp.php?lng=FR&Expert=422)
+
+### À lire
+
+- [Delcroix M. et al. ERS statement on chronic thromboembolic pulmonary hypertension. European Respiratory Journal. 2021.](https://erj.ersjournals.com/content/57/6/2002828)
+- [Galiè N. et al. 2015 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension: The Joint Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS): Endorsed by: Association for European Paediatric and Congenital Cardiology (AEPC), International Society for Heart and Lung Transplantation (ISHLT). European Heart Journal. 2016.](https://academic.oup.com/eurheartj/article/37/1/67/2887599)
 
 {{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}

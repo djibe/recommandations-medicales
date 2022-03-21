@@ -476,18 +476,18 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 {{%sources%}}
 
 - [GINA. Global strategy for the asthma management and prevention. 2021.](https://ginasthma.org/reports/)
-- [Gaillard EA. et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5–16 years. Eur Respir J 2021.](https://doi.org/10.1183/13993003.04173-2020)
+- [Gaillard EA. et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5–16 years. Eur Respir J. 2021.](https://doi.org/10.1183/13993003.04173-2020)
 - [Collège des enseignants de pneumologie. Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_188_ASTHME-RHINITE_2021_ex_item_1841.pdf)
 - [Santé Publique France. Asthme. 05/10/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/asthme)
 - Prescrire Redaction. Asthme. Premiers choix Prescrire. Juin 2020.
-- [Raherison C. et al. Updated guidelines (2015) for management and monitoring of adult and adolescent asthmatic patients (from 12 years and older) of the Société de pneumologie de langue française (SPLF) (summary). Revue des Maladies Respiratoires. Volume 33, Issue 4. 2016. Pages 271-278. ISSN 0761-8425. (PDF)](https://splf.fr/wp-content/uploads/2016/11/reco-asthme-re%CC%81sume%CC%81-2016.pdf)
+- [Raherison C. et al. Updated guidelines (2015) for management and monitoring of adult and adolescent asthmatic patients (from 12 years and older) of the Société de pneumologie de langue française (SPLF) (summary). Revue des Maladies Respiratoires. 2016. (PDF)](https://splf.fr/wp-content/uploads/2016/11/reco-asthme-re%CC%81sume%CC%81-2016.pdf)
 - [HAS. Insuffisance respiratoire chronique grave secondaire à un asthme. Octobre 2006.](https://www.has-sante.fr/jcms/c_452137/fr/ald-n14-insuffisance-respiratoire-chronique-grave-secondaire-a-un-asthme)
 - [HAS. Recommandations pour le suivi médical des patients asthmatiques adultes et adolescents. Recommandations de bonne pratique. 01/09/2004.](https://www.has-sante.fr/jcms/c_272363/fr/recommandations-pour-le-suivi-medical-des-patients-asthmatiques-adultes-et-adolescents)
 
 ### À lire
 
-- [Raherison-Semjen C. et al. Mise à jour des recommandations (2021) pour la prise en charge et le suivi des patients asthmatiques adultes sous l'égide de la Société de pneumologie de langue française (SPLF) et de la Société pédiatrique de pneumologie et allergologie (SP2A). Version longue. Revue des Maladies Respiratoires. Volume 38. Issue 10. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/recos-asthme-adultes-2021-version-longue.pdf)
-- GINA 2021
+- [Louis R. et al. European Respiratory Society Guidelines for the Diagnosis of Asthma in Adults. European Respiratory Journal. 2022.](https://erj.ersjournals.com/content/early/2022/02/03/13993003.01585-2021?ct)
+- [Raherison-Semjen C. et al. Mise à jour des recommandations (2021) pour la prise en charge et le suivi des patients asthmatiques adultes sous l'égide de la Société de pneumologie de langue française (SPLF) et de la Société pédiatrique de pneumologie et allergologie (SP2A). Version longue. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/recos-asthme-adultes-2021-version-longue.pdf)
 - SP2A
 
 {{%/sources%}}

@@ -9,14 +9,13 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. CORTET et Dr T. FUNCK-BRENTANO (SFR, GRIO)"
 date = 2020-09-04T17:43:41+02:00
 publishdate = 2021-12-06
-lastmod = 2022-02-09
+lastmod = 2022-03-19
 specialites = ["rhumatologie"]
 annees = "2019"
 sources = ["SFRhumato", "GRIO", "IOF", "HAS"]
 tags = ["chute", "depistage", "EPS", "prevention", "vitamine d"]
 anglais = ["Osteoporosis"]
 sctid = "64859006"
-draft = false
 flowchart = true
 slider = true
 image = true
@@ -33,8 +32,9 @@ Recommandations simplifiées pour un traitement réaliste:
 2. Bilan: NFS, CRP, bilan rénal et hépatique, vitamine D, calcémie, phosphatémie, électrophorèse des protéines sériques
 3. Biphosphonate en 1<sup>er</sup> traitement anti-ostéoporotique selon T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou tout T-score ≤ -3
 4. Avis rhumatologique si T-score proche (1 point) de l'indication de traiter
-5. Biphosphonate: bilan dentaire, [alendronate 70 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69784280&typedoc=R) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 75 mg 2 jours de suite 1 fois par mois.  
-  Fracture fémorale (FESF): [zolédronate 5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture).
+5. Biphosphonate: bilan dentaire, [alendronate 70 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69784280&typedoc=R) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 75 mg 2 jours de suite 1 fois par mois
+    - ≥ 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)  
+    - Fracture fémorale (FESF): [zolédronate 5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture).
 6. Contrôle de l'ostéodensitométrie à 2-3 ans ± avis rhumatologique
 7. Nouveau contrôle 2 ans après l'arrêt du traitement
 
@@ -540,11 +540,11 @@ graph TB
 
 - Prescrire Redaction. Fracture liées à une fragilité osseuse : prévention. Rev Prescr 2020.
 - [HAS. Les médicaments de l'ostéoporose. Bon usage du médicament. Mai 2019.](https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-losteoporose)
-- [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d'ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 03/05/2019. (PDF)](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
-- [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l'ostéoporose post-ménopausique. Revue du Rhumatisme. Volume 85. Issue 5. 2018.](https://doi.org/10.1016/j.rhum.2018.02.005)
-- [Dagan N et al. External validation and comparison of three prediction tools for risk of osteoporotic fractures using data from population based electronic health records: retrospective cohort study BMJ 2017; 356:i6755.](https://doi.org/10.1136/bmj.i6755)
-- [Shepherd J. et al. Executive Summary of the 2015 ISCD Position Development Conference on Advanced Measures From DXA and QCT: Fracture Prediction Beyond BMD. Journal of Clinical Densitometry. Volume 18. Issue 3. 2015. Pages 274-286.](https://doi.org/10.1016/j.jocd.2015.06.013)
-- [Briot K et al. Risque des femmes de même âge ayant fait une fracture. Revue du Rhumatisme 2012. (PDF)](http://www.grio.org/documents/page500/boite-a-outils-osteoporose500-1401218558.pdf)
+- [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d'ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 2019. (PDF)](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
+- [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l'ostéoporose post-ménopausique. Revue du Rhumatisme. 2018.](https://doi.org/10.1016/j.rhum.2018.02.005)
+- [Dagan N et al. External validation and comparison of three prediction tools for risk of osteoporotic fractures using data from population based electronic health records: retrospective cohort study. BMJ. 2017.](https://doi.org/10.1136/bmj.i6755)
+- [Shepherd J. et al. Executive Summary of the 2015 ISCD Position Development Conference on Advanced Measures From DXA and QCT: Fracture Prediction Beyond BMD. Journal of Clinical Densitometry. 2015.](https://doi.org/10.1016/j.jocd.2015.06.013)
+- [Briot K et al. Risque des femmes de même âge ayant fait une fracture. Revue du Rhumatisme. 2012. (PDF)](http://www.grio.org/documents/page500/boite-a-outils-osteoporose500-1401218558.pdf)
 - [World Health Organization. Assessment of fracture risk and its application to screening for postmenopausal osteoporosis : report of a WHO study group. World Health Organization. 1994.](https://apps.who.int/iris/handle/10665/39142)
 - [GRIO. Site officiel](http://www.grio.org/)
 - [International Osteoporosis Foundation](https://www.osteoporosis.foundation/)
@@ -552,10 +552,10 @@ graph TB
 
 ### À lire
 
-- [Bouvard P et al; GRIO. Recommandations françaises de la prise en charge et du traitement de l'ostéoporose masculine. Revue du Rhumatisme. Volume 88. Issue 3. 2021. Pages 173-182. (PDF)](http://www.grio.org/documents/page246/reco-op-masculine.pdf)
-- [Kanis J. et al. Executive summary of the European guidance for the diagnosis and management of osteoporosis in postmenopausal women. Calcif Tissue Int 104, 235–238. 2019.](https://link.springer.com/article/10.1007/s00223-018-00512-x)
-- [Kanis J. et al. Algorithm for the management of patients at low, high and very high risk of osteoporotic fractures. Osteoporos Int, 2019. 31(1): p.1-12.](https://link.springer.com/article/10.1007/s00198-019-05176-3)
-- [Kanis J et al; on behalf of the Scientific Advisory Board of the European Society for Clinical and Economic Aspects of Osteoporosis (ESCEO) and the Committees of Scientific Advisors and National Societies of the International Osteoporosis Foundation (IOF). European guidance for the diagnosis & management of osteoporosis in postmenopausal women. Osteoporos Int, 2018. 30(1): p.3-44.](https://link.springer.com/article/10.1007%2Fs00198-018-4704-5)
+- [Bouvard P et al; GRIO. Recommandations françaises de la prise en charge et du traitement de l'ostéoporose masculine. Revue du Rhumatisme. 2021. (PDF)](http://www.grio.org/documents/page246/reco-op-masculine.pdf)
+- [Kanis J. et al. Executive summary of the European guidance for the diagnosis and management of osteoporosis in postmenopausal women. Calcif Tissue Int. 2019.](https://link.springer.com/article/10.1007/s00223-018-00512-x)
+- [Kanis J. et al. Algorithm for the management of patients at low, high and very high risk of osteoporotic fractures. Osteoporos Int. 2019.](https://link.springer.com/article/10.1007/s00198-019-05176-3)
+- [Kanis J et al; on behalf of the Scientific Advisory Board of the European Society for Clinical and Economic Aspects of Osteoporosis (ESCEO) and the Committees of Scientific Advisors and National Societies of the International Osteoporosis Foundation (IOF). European guidance for the diagnosis & management of osteoporosis in postmenopausal women. Osteoporos Int. 2018.](https://link.springer.com/article/10.1007%2Fs00198-018-4704-5)
 
 {{%/sources%}}
 {{% modal title="Fractures ostéoporotiques dites sévères" id="modal-fracture-severe"%}}

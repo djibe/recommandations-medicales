@@ -2,7 +2,7 @@
 title = "Dermohypodermite bactérienne non nécrosante"
 prefix = "la "
 titleSeo = "Érysipèle"
-description = "Recommandations pour le diagnostic et le traitement de l'érysipèle. Bilan de première intention, indications à l'hospitalisation, antibiothérapie amoxicilline"
+description = "Recommandations pour le diagnostic et le traitement de l'érésipèle. Bilan biologique, indications à l'hospitalisation, antibiothérapie amoxicilline"
 synonyms = ["Érysipèle", "érésipèle"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T19:35:02+02:00"

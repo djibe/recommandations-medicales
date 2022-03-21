@@ -2,7 +2,7 @@
 title = "Paralysie faciale périphérique idiopathique"
 prefix = "la "
 titleSeo = "Paralysie faciale"
-description = "Recommandations pour le diagnostic et le traitement de la paralysie faciale a frigore. Examens complémentaires en urgence, corticothérapie antiviral valaciclovir"
+description = "Recommandations pour le diagnostic et le traitement de la paralysie faciale a frigore. Examens en urgence, corticothérapie, antiviral valaciclovir"
 synonyms = ["Paralysie faciale a frigore"]
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr S. TRINGALI et Dr M. FIEUX (SFORL)"
