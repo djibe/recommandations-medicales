@@ -18,7 +18,7 @@ image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "Échodoppler des TSA ?"
+todo = "lire sources, Échodoppler des TSA ?"
 +++
 
 {{%article-summary%}}
@@ -303,7 +303,8 @@ graph TB
 
 ### À lire
 
-[Daien C., Czernichow S, Letarouilly JG et al. Recommandations de la Société française de rhumatologie sur l'alimentation des patients ayant un rhumatisme inflammatoire chronique. Revue du Rhumatisme. 2021.](https://www.sciencedirect.com/science/article/pii/S1169833021009108)
+- [](https://www.revmed.ch/revue-medicale-suisse/2022/revue-medicale-suisse-773/suivi-biologique-des-traitements-de-fond-en-rhumatologie)
+- [Daien C., Czernichow S, Letarouilly JG et al. Recommandations de la Société française de rhumatologie sur l'alimentation des patients ayant un rhumatisme inflammatoire chronique. Revue du Rhumatisme. 2021.](https://www.sciencedirect.com/science/article/pii/S1169833021009108)
 
 {{%/sources%}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}

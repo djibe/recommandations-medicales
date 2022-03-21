@@ -1,8 +1,7 @@
 +++
 title = "Embolie pulmonaire"
 prefix = "l'"
-shortname = "EP"
-synonyms = []
+description = "Recommandations pour la prise en charge d'une suspicion d'embolie pulmonaire au cabinet. Score de Wells ou Genève, règle PERC, durée des anticoagulants AOD ..."
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-18T20:16:00+02:00
 publishdate = 2021-04-02
@@ -30,7 +29,8 @@ todo = "p.21, flowchart duree, def cancer actif, carnet AVK, https://erj.ersjour
 - La suspicion clinique (cas stable) est évaluée avec le score de Genève ou de Wells
 - Une suspicion faible d'EP peut être infirmée par la règle PERC (sauf ≥ 50 ans, grossesse ou post-partum)
 - Adresser aux urgences toute suspicion d'EP non infirmée par la règle PERC
-- Connexes: [thrombose veineuse profonde (TVP)]({{< relref "thrombose-veineuse-profonde.md" >}})
+
+Voir aussi [thrombose veineuse profonde (TVP)]({{< relref "thrombose-veineuse-profonde.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -59,6 +59,9 @@ Mortalité hospitalière: 5%
 {{%collapse "Signes de gravité" %}}
 
 {{%warning%}}
+
+### Signes de gravité d'une embolie pulmonaire
+
 Appel du {{<phone>}}15{{</phone>}} en présence d'au moins 1 parmi:
 
 - Hypotension artérielle
@@ -87,7 +90,7 @@ Sauf critères de gravité ou profil cité ci-dessus, utiliser l'un de ces score
 {{%collapse "Éliminer une embolie pulmonaire - Règle PERC" %}}
 
 {{%info%}}
-La **règle PERC** permet d'éliminer une suspicion faible d'embolie pulmonaire **avant 50 ans, en-dehors de la grossesse et du post-partum** (l'hémodynamique doit être stable).
+La **règle PERC** permet d'éliminer une suspicion faible d'embolie pulmonaire aiguë **avant 50 ans, en-dehors de la grossesse et du post-partum** (l'hémodynamique doit être stable).
 {{%/info%}}
 
 La réponse aux 8 questions suivantes doit être négative pour infirmer une *suspicion faible* d'embolie pulmonaire:
@@ -138,21 +141,21 @@ En prenant en compte l'adaptation de l'âge après 50 ans.
 
 ### Traitement ambulatoire
 
-Traitement ambulatoire possible en cas stabilité hémodynamique et de réponse négative aux 11 *critères Hestia* (dite EP à faible risque de mortalité précoce):
+Prise en charge ambulatoire possible en cas stabilité hémodynamique et de réponse négative aux 11 *critères Hestia* (dite EP à faible risque de mortalité précoce):
 
 1. Instabilité hémodynamique  
-Avis du clinicien, PAS < 100 mmHg et FC > 100/min.
+  Avis du clinicien, PAS < 100 mmHg et FC > 100/min.
 2. Thrombolyse ou embolectomie nécessaire
 3. Hémorragie active ou risque élevé d'hémorragie  
-Hémorragie digestive dans les 14j précédents, AVC < 4 semaines, chirurgie < 2 semaines, pathologie hémorragique, thrombopénie < 75.000, HTA > 180 et/ou 110 mmHg.
-4. Besoin de > 24h d'oxygénothérapie pour SpO2 > 90%
+  Hémorragie digestive dans les 14j précédents, AVC < 4 semaines, chirurgie < 2 semaines, pathologie hémorragique, thrombopénie < 75.000, HTA > 180 et/ou 110 mmHg.
+4. Besoin de > 24h d'oxygénothérapie pour SpO<sub>2</sub> > 90%
 5. Diagnostic posé sous anticoagulant curatif
 6. Douleur intense nécessitant antalgie IV > 24h
 7. Clairance selon {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 30 mL/min
 8. Insuffisance hépatique sévère
 9. Grossesse
 10. Antécédent documenté de TIH  
-Non pertinent si traitement possible par AOD.
+  Non pertinent si traitement possible par AOD.
 11. Raison médicale ou sociale pour hospitalisation > 24h
 
 ### Anticoagulation curative
@@ -272,7 +275,7 @@ chaussettes de contention classe 3 au moins 6 mois.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une EP" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion d'embolie pulmonaire. Dr JB Fron d'après Sanchez 2019" >}}
+{{< mermaid title="Prise en charge ambulatoire d'une suspicion d'embolie pulmonaire. Dr JB Fron d'après SFMV 2019" >}}
 graph TB
   ep[Suspicion d'<br>embolie pulmonaire] --> gravite(Signes de gravité ?)
   style ep stroke:#4150f5, stroke-width:1px
@@ -290,7 +293,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires (2019).](https://doi.org/10.1016/j.rmr.2019.01.003)
+- [Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://doi.org/10.1016/j.rmr.2019.01.003)
 - [Collège National des Enseignants de Cardiologie. Thrombose veineuse profonde et embolie pulmonaire. Item 224. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch21_maladie_veineuse_te.pdf)
 
 {{%/sources%}}

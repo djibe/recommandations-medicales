@@ -1,8 +1,7 @@
 +++
 title = "Puberté précoce"
 prefix = "la "
-shortname = "PP"
-description = "TODO:"
+description = "Recommandations pour le diagnostic de la puberté précoce. Âge, caractères sexuels secondaires (stade de Tanner), âge osseux, test LHRH, échographie pelvienne"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-30T14:06:29+02:00
 publishdate = 2020-06-30
@@ -14,7 +13,7 @@ tags = ["enfant", "adolescent"]
 anglais = ["Precocious puberty"]
 sctid = "400179000"
 flowchart = true
-todo = "https://pap-pediatrie.fr/endocrinologie/puberte-precoce, Avances pubertaires dissociées"
+todo = "Avances pubertaires dissociées"
 +++
 
 {{%article-summary%}}
@@ -207,5 +206,9 @@ graph TB
 - Société Française d'Endocrinologie. Polycopié des enseignants en endocrinologie - Puberté normale et pathologique.
 - [Collège National des Pédiatres Universitaires. Puberté normale et pathologique.](http://campus.cerimes.fr/media/campus/deploiement/pediatrie/enseignement/puberte_normale/site/html/1.html)
 - [Pienkowski C. et al. La puberté avant l'âge - Nouveaux aspects. (PDF)](http://www.medecine.ups-tlse.fr/desc/fichiers/Puberte%20precoce.pdf)
+
+### À lire
+
+[Pas à Pas en Pédiatrie. Puberté précoce. 2019.](https://pap-pediatrie.fr/endocrinologie/puberte-precoce)
 
 {{%/sources%}}

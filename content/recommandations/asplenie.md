@@ -2,41 +2,43 @@
 title = "Asplénie ou hyposplénie"
 prefix = "l'"
 titleSeo = "Asplénie"
-shortname = "Asplénie"
+description = "Recommandations pour la vaccination du patient asplénique, immunodéprimé après splénectomie: antibioprophylaxie, vaccin pneumocoque, méningocoque B et ACYW135"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-29T23:51:41+02:00
 publishdate = 2020-09-29
-lastmod = 2021-11-29
+lastmod = 2022-03-21
 specialites = ["hematologie"]
 annees = "2021"
 sources = ["HCSP", "MinSante"]
 tags = ["vaccin", "voyage"]
 anglais = ["Asplenia"]
 sctid = "707147002"
-draft = false
 image = true
 imageWEBP = true
-imageSrc = "scientificanimations.com, CC BY-SA 4.0"
+imageSrc = "Illustration de la rate par scientificanimations.com, CC BY-SA 4.0"
 todo = "améliorer vaccins, graph"
 +++
 
 {{%article-summary%}}
 
 - Antibioprophylaxie par pénicilline V
-- 5 vaccinations: pneumocoque, méningocoques ACYW135 et B, Haemophilus, grippe
+- 5 vaccinations: pneumocoque, méningocoques B et ACYW135, Haemophilus, grippe
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-### Étiologie
+Asplénie
+: Absence de la rate ou rate non fonctionnelle à l'origine d'une immunodépression sévère avec sensibilité particulière aux bactéries (pneumocoque, méningocoque et Haemophilus ++).
+
+### Étiologie de l'asplénie
 
 - Traumatisme splénique
 - Rupture chirurgicale
 - Infarctus splénique
 - Asplénisme thérapeutique (radiothérapie)
 - Drépanocytose
-- Maladie cœliaque
+- [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})
 - Maladie de Whipple
 - Transplantation médullaire
 - Maladie auto-immune
@@ -53,7 +55,7 @@ Germes: pneumocoque (50-90%) et Haemophilus influenzae (10-15%).
 500.000 personnes hypo ou aspléniques en France.
 
 Splénectomie chirurgicale: 1<sup>re</sup> cause avec 6 à 9000 cas par an (50% d'adultes).  Autres: infarctus splénique, asplénisme thérapeutique (radiothérapie).  
-Drépanocytose, 10.000 porteurs (50% adultes).
+**Drépanocytose**: 10.000 porteurs (50% adultes).
 
 {{% /collapse %}}
 {{%collapse "Antibioprophylaxie de l'asplénie" %}}
@@ -71,7 +73,9 @@ Oracilline® (Pénicilline V, phénoxyméthylpénicilline) à débuter dès le l
 Macrolide roxythromycine (Rulid®, gén) 150 mg x 2/j.
 
 {{% /collapse %}}
-{{%collapse "Vaccinations chez l'asplénique" %}}
+{{%collapse "Vaccinations après splénectomie" %}}
+
+Vaccins après une splénectomie.
 
 ### Quand vacciner ?
 
@@ -82,25 +86,27 @@ Vaccination 2-6 semaines après l'intervention (immédiat si risque de perdu de 
 
 ### Vaccination du patient
 
-- Mise à jour du calendrier vaccinal
+Mise à jour du calendrier vaccinal.
 
 #### Pneumocoque
 
-- Prevenar 13® puis Pneumovax® 2 mois après.  
+- Prevenar 13® puis Pneumovax® 2 mois après  
   {{%class%}}Intervalle avec dernier Prevenar 13® doit être > 3 ans.{{%/class%}}
-- Enfant 2 à 5 ans non vaccinés: Prevenar 13® M0M2 et Pneumovax® M4.
-- Enfant < 2 ans: schéma nourrisson et rappel Pneumovax® après ses 2 ans.
+- Enfant 2 à 5 ans non vaccinés: Prevenar 13® M0M2 et Pneumovax® M4
+- Enfant < 2 ans: schéma nourrisson et rappel Pneumovax® après ses 2 ans
 
-#### Méningocoque ACYW135
+#### Méningocoque (Neisseria meningitidis)
+
+##### Méningocoque ACYW135
 
 - Menveo® ou Nimenrix® avec rappel à 6 mois puis tous les 5 ans
 - Vacciné avant 7 ans: rappel à 3 ans puis tous les 5 ans
 
-#### Méningocoque B
+##### Méningocoque B
 
-- ≥ 11 ans: Bexsero® avec 2<sup>e</sup> injection à 1 mois.
-- 6 mois à 10 ans: Bexsero® avec 2<sup>e</sup> injection à 2 mois.
-- 2 à 5 mois: Bexsero® en 3 injections à 1 mois d'intervalle.
+- ≥ 11 ans: Bexsero® avec 2<sup>e</sup> injection à 1 mois
+- 6 mois à 10 ans: Bexsero® avec 2<sup>e</sup> injection à 2 mois
+- 2 à 5 mois: Bexsero® en 3 injections à 1 mois d'intervalle
 
 #### Haemophilus influenzae type B
 

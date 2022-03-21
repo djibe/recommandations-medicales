@@ -488,6 +488,7 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 
 - [Louis R. et al. European Respiratory Society Guidelines for the Diagnosis of Asthma in Adults. European Respiratory Journal. 2022.](https://erj.ersjournals.com/content/early/2022/02/03/13993003.01585-2021?ct)
 - [Raherison-Semjen C. et al. Mise à jour des recommandations (2021) pour la prise en charge et le suivi des patients asthmatiques adultes sous l'égide de la Société de pneumologie de langue française (SPLF) et de la Société pédiatrique de pneumologie et allergologie (SP2A). Version longue. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/recos-asthme-adultes-2021-version-longue.pdf)
+- <https://www.sfpediatrie.com/ressources/pathologies/asthme-du-nourrisson>
 - SP2A
 
 {{%/sources%}}
