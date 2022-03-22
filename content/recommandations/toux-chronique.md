@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-15T10:55:41+02:00
 publishdate = 2020-09-15
-lastmod = 2022-03-17
+lastmod = 2022-03-22
 specialites = ["pneumologie"]
 annees = "2020"
 sources = ["SFORL"]
@@ -16,7 +16,7 @@ sctid = "68154008"
 flowchart = true
 image = true
 imageSrc = "Illustration de la toux chronique par stories / Freepik"
-todo = "EOGD?, biblio coqueluche"
+todo = "EOGD?"
 +++
 
 {{%article-summary%}}
@@ -170,8 +170,8 @@ Avis spécialisé sauf précision pour les éléments suivants:
 
 - Médicamenteuse  
   Arrêt du médicament suspecté. Cesse dans les 4-6 semaines si IEC. Réévaluation au terme de la fenêtre thérapeutique.
-- Coqueluche  
-  TODO:
+- [Coqueluche]({{< relref "coqueluche.md" >}})  
+  PCR dans les premières semaines d'évolution.
 - Fumeur  
   - Débutant: En profiter pour le sevrage tabagique (aggravation initiale)
   - Ancien: Avis initial ORL et pneumologique pour dépister les cancer et BPCO. Renouvelé en cas de caractères anormaux.

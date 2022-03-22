@@ -83,7 +83,7 @@ Rattrapage vaccinal
 
 - Diphtérie
 - Tétanos
-- Coqueluche
+- [Coqueluche]({{< relref "coqueluche.md" >}})
 - Poliomyélite
 - Hépatite B
 - Rougeole
