@@ -261,7 +261,7 @@ Relaxation, biofeedback, TCC, thérapie de pleine conscience.
 
 {{%warning%}}Aura = contre-indication aux contraceptions estroprogestatives{{%/warning%}}
 
-### Traitement de la crise
+### Traitement de la crise migraineuse
 
 {{%info%}}
 
@@ -336,11 +336,11 @@ On parle de résistance après échec sur ≥ 3 crises de ≥ 2 traitements essa
 Efficacité prouvée: Neuromodulation électrique. Sur prescription spécialisée uniquement.
 
 {{% /collapse %}}
-{{%collapse "Traitement de fond" %}}
+{{%collapse "Traitement de fond de la migraine" %}}
 
 {{%info%}}
 
-### Indications à un traitement de fond
+### Indications à un traitement de fond anti-migraineux
 
 - Traitement de crise ≥ 8 j/mois depuis ≥ 3 mois
 - Migraine sévère  
@@ -401,7 +401,7 @@ Migraine chronique après échec du topiramate + 1 autre, adresser en centre exp
 Après 6-12 mois de traitement, il est possible de tenter d'arrêter le traitement progressivement, par décroissance progressive.  
 Le même traitement peut être repris si les migraines récidivent.
 
-### Pour en savoir plus: autres traitements de fond
+### Pour en savoir plus: autres traitements de fond de la migraine
 
 Les nouveaux anti-CGRP ne peuvent être prescrits que par les neurologues et ne sont pas remboursés.  
 Autres traitements de fond (dose min-max en mg) et niveau de recommandation *SFEMC*:
@@ -481,7 +481,7 @@ Le traitement reste possible pendant la grossesse et ne limite pas l'allaitement
 CGRP, dérivés ergot de seigle, (di)-valproate de sodium, aspirine et AINS à partir du 5<sup>e</sup> mois (évités déjà avant)
 - Rappeler le risque de l'auto-médication (ibuprofène, préparations de parapharmacie)
 
-#### Traitement de fond pendant la grossesse
+#### Traitement de fond de la migraine pendant la grossesse
 
 Si crises invalidantes persistantes:
 
@@ -504,7 +504,7 @@ Toute utilisation de traitement de fond doit être rapportée à la pharmacovigi
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant des céphalées migraineuses" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de migraine. Dr JB Fron d'après SFEMC 2021" >}}
+{{< mermaid title="Prise en charge d'une suspicion de migraine. Dr JB Fron d'après SFEMC 2021" >}}
 graph TB
   cephalees[Céphalées récidivantes] --> ichd3(Critères ICHD3)
   style cephalees stroke:#4150f5, stroke-width:1px
@@ -527,7 +527,7 @@ graph TB
 - [Demarquay G. et al. Revised guidelines of the French headache society for the diagnosis and management of migraine in adults. Part 3: Non-pharmacological treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.009)
 - [Lucas C. Migraine with aura. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.010)
 - [Donnet A. et al. Severe migraine and its control: A proposal for definitions and consequences for care. Revue neurologique. 2021.](https://doi.org/10.1016/j.neurol.2020.11.012)
-- [Lanteri-Minet M. et al. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant. Revue Neurologique. Volume 169. Issue 1. 2013. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20sur%20la%20prise%20en%20charge%20diagnostique%20et%20th%C3%A9rapeutique%20de%20la%20migraine%20chez%20l%2527adulte%20et%20chez%20l%2527enfant%20(1).pdf)
+- [Lanteri-Minet M. et al. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant. Revue Neurologique. 2013. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20sur%20la%20prise%20en%20charge%20diagnostique%20et%20th%C3%A9rapeutique%20de%20la%20migraine%20chez%20l%2527adulte%20et%20chez%20l%2527enfant%20(1).pdf)
 - [Anaes. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant : aspects cliniques et économiques. Recommandations de bonne pratique. Octobre 2002.](https://www.has-sante.fr/jcms/c_272212/fr/prise-en-charge-diagnostique-et-therapeutique-de-la-migraine-chez-l-adulte-et-chez-l-enfant-aspects-cliniques-et-economiques)
 - [ICHD-3 version française 2019 (PDF)](https://ichd-3.org/wp-content/uploads/2019/06/ICHD3-traduction-fran%C3%A7aise-VF-%C3%A0-publier.pdf)
 

@@ -18,7 +18,7 @@ sctid = "247398009"
 flowchart = true
 image = true
 imageSrc = "Illustration de la douleur neuropathique par brgfx / Freepik"
-todo = "carence B9B12?"
+todo = "carence B9B12?, dermatomes"
 +++
 
 {{%article-summary%}}
