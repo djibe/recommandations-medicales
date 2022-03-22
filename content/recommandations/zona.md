@@ -31,7 +31,7 @@ Ophtalmique, > 50 ans ou facteurs prédictifs de séquelles (douleurs pré-érup
 
 Zona
 : Réactivation du virus de la varicelle VZV dans le ganglion sensitif où il reste quiescent avec apparition de vésicules et douleurs dans le dermatome correspondant.  
-Complications liées aux douleurs neuropathiques séquellaires et au pronostic visuel en zona ophtalmique.
+Complications liées aux douleurs neuropathiques séquellaires et au pronostic visuel en **zona ophtalmique**.
 
 Zona et personne immunodéprimée
 : Intérêt d'éduquer les patients à la reconnaissance des symptômes.  
@@ -41,18 +41,19 @@ Ce sont les principales personnes qui développent des formes compliquée.
 ### Zona selon l'âge
 
 - Jeune enfant  
-Zona possible dans les premières années de vie. Rare avant 4 ans et ne présente pas de caractère de gravité.
+  Zona possible dans les premières années de vie. Rare avant 4 ans et ne présente pas de caractère de gravité.
 - Sujet < 50 ans
   - Localisé et guérison sans séquelles.  
   - Proposer une **[PCR VIH]({{< relref "vih-sida.md" >}})**
-- Sujet > 50 ans  
+- Sujet ≥ 50 ans  
   - Incidence max après 75 ans (> 1,4/100)
   - Ne pas rechercher un cancer ou le VIH systématiquement
   - Proposer la vaccination de 65 à 74 ans
 
 ### Abréviations
 
-**PFP:** paralysie faciale périphérique
+**PFP:** paralysie faciale périphérique  
+**VZV:** virus varicelle-zona
 
 {{% /collapse %}}
 {{%collapse "Complications" %}}

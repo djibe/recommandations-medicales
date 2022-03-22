@@ -19,7 +19,7 @@ chart = true
 flowchart = true
 image = true
 imageSrc = "Illustration de la ménopause par Freepik"
-todo = "Chart J1-J31, relecture gemvi-secretariat@gemvi.org"
+todo = "Chart J1-J31, lire sources, relecture gemvi-secretariat@gemvi.org"
 +++
 
 {{%article-summary%}}
@@ -82,6 +82,7 @@ En revanche, un test *négatif* (absence de saignements) n'affirme pas une méno
 **DMO:** densité minérale osseuse  
 **DXA:** absorptiométrie biphotonique à rayons X  
 **FSH:** {{%lang%}}Follicle Stimulating Hormone{{%/lang%}} ou hormone folliculo-stimulante  
+**HAS:** Haute Autorité de Santé  
 **IMC:** indice de masse corporelle  
 **IOP:** insuffisance ovarienne prématurée (ou précoce, ex ménopause précoce)  
 **MVTE:** maladie veineuse thromboembolique (embolie pulmonaire ou thrombose veineuse profonde)  
@@ -119,7 +120,7 @@ Dosages répétés de FSH (≥ 30 UI/L) et estradiol (< 20 pg/mL) à distance de
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-### Première consultation
+### Première consultation pour ménopause
 
 Évaluer les symptômes, la qualité de vie, le risque cardiovasculaire, fracturaire et oncologique.
 
@@ -159,7 +160,11 @@ Alcool, tabac, autres.
 
 #### Diagnostic différentiel
 
-Diagnostics à évoquer devant des sueurs et des cycles irréguliers: hyperthyroïdie, hyperprolactinémie, grossesse.
+Diagnostics à évoquer devant des sueurs et des cycles irréguliers:
+
+- Hyperthyroïdie
+- Hyperprolactinémie
+- Grossesse
 
 ### Bouffées vasomotrices atypiques
 
@@ -189,7 +194,7 @@ Le rythme des mammographies est inchangé lorsque les douleurs sont diffuses.
 
 Aucun examen n'est recommandé pour le diagnostic de ménopause.
 
-### Bilan pré-thérapeutique
+### Bilan pré-thérapeutique du traitement hormonal de la ménopause
 
 - Poids, taille, IMC, pression artérielle (2 bras), pouls périphériques
 - Palpation des seins, examen gynécologique complet
@@ -318,7 +323,7 @@ Précisions: aucun effet sur l'endomètre si durée < 2 ans.
 
 ### Le THM en pratique
 
-Le traitement hormonal de la ménopause (THM) en pratique:
+Recommandations pour le traitement hormonal de la ménopause (THM) en pratique:
 
 - Débuté seulement après diagnostic clinique certain et < 10 ans après le début de la ménopause
 - Association: estradiol par voie cutanée 17bêta-estradiol ou valérate d'estradiol + progestérone micronisée ou dydrogestérone ≥ 12 j/mois
@@ -504,15 +509,18 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus sur le THM" %}}
 
-### FMC gratuite
+### FMC gratuites
 
 {{< card-link title="Ménopause: L'Affaire de tous" url="https://www.pns-mooc.com/fr/mooc/1/presentation" subtitle="CNGOF, GEMVI">}}
+
+{{< card-link title="IMPART" url="https://www.imsociety.org/education/impart-registration/" subtitle="International Menopause Society">}}
 
 ### Balance bénéfices-risques du THM
 
 #### Bénéfices du THM avec réduction des risques
 
-- Fracture de tous les sites osseux
+- Fracture de tous les sites osseux  
+  Prévention de l'[ostéoporose]({{< relref "osteoporose.md" >}}).
 - Infarctus du myocarde  
 Si < 60 ans ou ménopause < 10 ans.
 - Cancers colorectal, du pancréas, de l'œsophage, de l'estomac et du foie
@@ -567,8 +575,13 @@ Décroît après l'arrêt du traitement.
 {{% /collapse %}}
 {{%sources%}}
 
-- [Trémollieres F. et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. Volume 49. Issue 5.2021. Pages 305-317.](https://doi.org/10.1016/J.GOFS.2021.03.010)
+- [Trémollieres F. et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://doi.org/10.1016/J.GOFS.2021.03.010)
 - Prescrire Redaction. Troubles liés à la ménopause. Premiers choix Prescrire. Juin 2020.
+
+### À lire
+
+- [International Menopause Society. Papers, Recommendations & Statements](https://www.imsociety.org/statements/)
+- [HAS. Les traitements hormonaux substitutifs de la ménopause. 2004.](https://www.has-sante.fr/jcms/c_272308/fr/les-traitements-hormonaux-substitutifs-de-la-menopause)
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}

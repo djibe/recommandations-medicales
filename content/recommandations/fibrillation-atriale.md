@@ -52,7 +52,7 @@ FA persistante
 : Épisode persistant plus de 7 jours sans résolution spontanée. Stratégie: réduire (= cardioversion).
 : Dite **permanente** quand une cardioversion n'a pas été proposée ou a échoué. Stratégie: ralentir.
 
-> Définitions *ESC 2020*
+> Définitions des recommandations *ESC 2020*
 
 ### Abréviations
 
@@ -66,16 +66,18 @@ FA persistante
 
 Inhibiteurs calciques non dihydropyridiniques: diltiazem ou vérapamil.
 
-### Épidémiologie de la fibrillation atriale en France
+### Complications de la fibrillation atriale
 
-- Prévalence: 600.000 à 1 million de patients, 2/3 ont +75 ans  
-Elle augmente avec l'âge et atteint 10-20% après 80 ans.
-- Incidence 2018: 226.000/an (*[*SPF 2020*](http://beh.santepubliquefrance.fr/beh/2021/5/2021_5_1.html)*)
-- Responsable d'1/6 des AVC emboliques
-- Coût: 3000€/patient/an
-- Coût global: 2,5 milliards € (50% liés aux hospitalisations)
+- Mortalité x 1,5-3,5
+- [Accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}}) (x5)
+- [Insuffisance cardiaque]({{< relref "embolie-pulmonaire.md" >}})
+- Embolie
+- Démence (+40%)
+- Dépression
+- Altération de la qualité de vie
+- Hospitalisations (10-40%/an)
 
-### Facteurs favorisants
+### Facteurs de risque de la fibrillation atriale
 
 - Facteurs non modifiables  
 Âge, homme, caucasien.
@@ -105,16 +107,14 @@ Elle augmente avec l'âge et atteint 10-20% après 80 ans.
 - Iatrogénie  
 Diurétiques, théophylline, salbutamol, anti-arythmique (voir *Clinique* > *Interrogatoire*).
 
-### Complications
+### Épidémiologie de la fibrillation atriale en France
 
-- Mortalité x 1,5-3,5
-- [Accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}}) (x5)
-- [Insuffisance cardiaque]({{< relref "embolie-pulmonaire.md" >}})
-- Embolie
-- Démence (+40%)
-- Dépression
-- Altération de la qualité de vie
-- Hospitalisations (10-40%/an)
+- Prévalence: 600.000 à 1 million de patients, 2/3 ont +75 ans  
+Elle augmente avec l'âge et atteint 10-20% après 80 ans.
+- Incidence 2018: 226.000/an (*[*SPF 2020*](http://beh.santepubliquefrance.fr/beh/2021/5/2021_5_1.html)*)
+- Responsable d'1/6 des AVC emboliques
+- Coût: 3000€/patient/an
+- Coût global: 2,5 milliards € (50% liés aux hospitalisations)
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -232,7 +232,7 @@ Recommandations générales pour la prise en charge de la fibrillation atriale:
   Éviter endurance prolongée (marathon).
 - Anticoagulant ({{< modal-btn modal-chads >}}indication{{< /modal-btn >}}, {{< modal-btn modal-aod >}}molécules{{< /modal-btn >}})  
 Contre-indication aux antithrombotiques (aspirine, clopidogrel sauf post-SCA) et AINS.
-- FC cible < 110/min par {{< modal-btn modal-bradycardisant >}}BB{{< /modal-btn >}}  
+- Contrôle de la fréquence: cible < 110/min par {{< modal-btn modal-bradycardisant >}}BB{{< /modal-btn >}}  
   Voire < 80 si symptomatique.
 - La cardioversion n'est pas abordée: cardiologue uniquement
 - Hypertension artérielle
@@ -243,7 +243,7 @@ Contre-indication aux antithrombotiques (aspirine, clopidogrel sauf post-SCA) et
 
 ### Anticoagulation
 
-{{< modal-btn modal-aod >}}**AOD** en 1<sup>re</sup> intention (liste){{< /modal-btn >}} si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}} (même chez la personne âgée).  
+Recommandation des {{< modal-btn modal-aod >}}**AOD** en 1<sup>re</sup> intention (liste){{< /modal-btn >}} si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}} (même chez la personne âgée).  
 [AVK]({{< relref "avk.md" >}}) si valve mécanique ou sténose mitrale modérée à sévère.
 
 Réévaluer fréquemment le risque de saignement avec {{< modal-btn modal-hasbled >}}HAS-BLED{{< /modal-btn >}}.
@@ -276,7 +276,7 @@ Si temps dans la cible non atteint: AOD et observance ++ ou éducation et renfor
 
 ### Contrôle du rythme cardiaque
 
-- Cible < 110/min  
+- Contrôle de la fréquence: cible < 110/min  
   - < 80/min si symptômes persistants, réduction de la fonction VG ou resynchronisation
   - Évaluation de la fréquence cardiaque par ECG 12D
   - Contrôle avec Holter-ECG
@@ -290,7 +290,7 @@ Si temps dans la cible non atteint: AOD et observance ++ ou éducation et renfor
 
 {{%warning%}}Arrêt des antiarythmiques en FA permanente car échec manifeste OU troubles de conduction{{%/warning%}}
 
-Antiarythmiques si symptômes pour le maintien à long terme du rythme sinusal.  
+Prise en charge par antiarythmiques des patients symptomatiques pour le maintien à long terme du rythme sinusal.  
 Listés ici pour la surveillance des contre-indications.
 
 L'amiodarone est le traitement le plus efficace.  
@@ -310,7 +310,7 @@ ECG de contrôle de 1-2 semaines (1 mois pour l'amiodarone)
 {{% /collapse %}}
 {{%collapse "Suivi" %}}
 
-- Contrôle des facteurs favorisants  
+- Contrôle des facteurs de risque  
 Alcool, tabac, hypertension artérielle, apnées du sommeil, diabète, activité physique, surpoids.
 - Symptômes et {{< modal-btn modal-ehra >}}impact sur les activités{{< /modal-btn >}}  
 Type, durée quotidienne.
@@ -407,7 +407,7 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{< traitements/aod-fa >}}
 
 {{% /modal %}}
-{{% modal title="Ralentir la FA" id="modal-bradycardisant" size="lg" %}}
+{{% modal title="Contrôle de la fréquence dans la FA" id="modal-bradycardisant" size="lg" %}}
 
 {{< traitements/bradycardisant-fa >}}
 

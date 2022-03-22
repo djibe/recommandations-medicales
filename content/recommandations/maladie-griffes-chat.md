@@ -15,14 +15,15 @@ anglais = ["Cat scratch disease"]
 sctid = "79974007"
 draft = false
 image = true
-imageSrc = "CDC, domaine public, via Wikimedia Commons"
+imageSrc = "Illustration de la maladie des griffes du chat par CDC, domaine public, via Wikimedia Commons"
 +++
 
 {{%article-summary%}}
 
 - Notion de morsure/griffure par un chat
 - Adénopathies 2-3 semaines après
-- Traitement par azithromycine et mesures de prévention
+- Traitement par discuté chez l'immunocompétent: Azithromycine 500 mg en 1 prise J1 puis 250 mg en 1 prise de J2 à J5 et arrêt
+- Mesures de prévention
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -36,12 +37,12 @@ Le plus souvent bénigne avec guérison sans séquelles.
 {{%collapse "Clinique" %}}
 
 - Contexte de griffure ou morsure par un chat  
-Exceptionnellement par inoculation (épine ou écharde).
+  Exceptionnellement par inoculation (épine ou écharde).
 - Incubation de 2-3 semaines puis apparition d'**adénopathie régionale** (unique dans 50% des cas) pouvant persister plusieurs mois
 - Rougeur ou lésion au niveau de la plaie 3 à 10 jours après l'inoculation (50%)
 - Signes généraux discrets (50% des cas)  
-Fébricule, asthénie, céphalées, douleurs abdominales.
-- Valvulopathe: risque [endocardite]({{< relref "endocardite.md" >}}) à hémocultures négatives
+  Fébricule, asthénie, céphalées, douleurs abdominales.
+- Valvulopathe: risque d'[endocardite]({{< relref "endocardite.md" >}}) à hémocultures négatives
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -54,11 +55,13 @@ Sa négativité n'élimine pas le diagnostic.
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
+Mesures de prévention des zoonoses, dont la Maladie des griffes du chat:
+
 - Ne pas se frotter les yeux après un contact avec des animaux
 - Se laver les mains (eau + savon) systématiquement après contact avec l'animal ou ses déjections
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la maladie des griffes du chat" %}}
 
 ### Antibiothérapie
 

@@ -32,7 +32,7 @@ Recommandations simplifiées pour un traitement réaliste:
 2. Bilan: NFS, CRP, bilan rénal et hépatique, vitamine D, calcémie, phosphatémie, électrophorèse des protéines sériques
 3. Biphosphonate en 1<sup>er</sup> traitement anti-ostéoporotique selon T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou tout T-score ≤ -3
 4. Avis rhumatologique si T-score proche (1 point) de l'indication de traiter
-5. Biphosphonate: bilan dentaire, [alendronate 70 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69784280&typedoc=R) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 75 mg 2 jours de suite 1 fois par mois
+5. Biphosphonate: bilan bucco-dentaire, [alendronate 70 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69784280&typedoc=R) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 75 mg 2 jours de suite 1 fois par mois
     - ≥ 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)  
     - Fracture fémorale (FESF): [zolédronate 5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture).
 6. Contrôle de l'ostéodensitométrie à 2-3 ans ± avis rhumatologique
@@ -72,7 +72,7 @@ FRAX®
 
 ### Abréviations
 
-**BP:** biphosphonate  
+**BP:** biphosphonate (ou bisphosphonate)  
 **DMO:** densité minérale osseuse  
 **DS:** déviation standard  
 **DXA:** ostéodensitométrie par absorptiométrie biphotonique à rayons X  
@@ -105,13 +105,13 @@ L'ostéoporose est responsable d'un lourd fardeau médico-économique:
 - Âge
 - Taille à 20 ans
 - Antécédents  
-Fractures (ancienneté, type), âge de la ménopause, démence, Parkinson, diabète, maladie cardiovasculaire, BPCO, [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})...
+  Fractures (ancienneté, type), âge de la ménopause, démence, Parkinson, diabète, maladie cardiovasculaire, BPCO, [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), antécédent de cancer ...
 - Traitements en cours  
-Et corticothérapie (dont inhalée) > 3 mois.
+  Et corticothérapie (dont inhalée) > 3 mois.
 - {{< modal-btn modal-risque-fracture >}}Facteurs de risque de fracture{{< /modal-btn >}}
 - {{< modal-btn modal-risque-chute >}}Facteurs de risque de chute{{< /modal-btn >}}
 - Fracture ostéoporotique  
-Éliminer une cause métabolique, tumorale, génotypique.
+  Éliminer une cause métabolique, tumorale, génotypique.
 
 ### Examen clinique
 
@@ -404,7 +404,7 @@ Avis rhumatologique si T-score > -3 et < -2.
 </div>
 <div class="collapse" id="div-radio-cortico">
 
-En cas de corticothérapie systémique active (≥ 7,5 mg/j d'éq. prednisone ≥ 3 mois):
+En cas de corticothérapie systémique active (≥ 7,5 mg/j d'éq. prednisone ≥ 3 mois), traitement d'une ostéoporose cortisonique:
 
 - Indiqué si T-score ≤ -1,5 sur ≥ 1 site (fémoral ou vertébral, *HAS 2019*)
 - Risédronate  
@@ -434,14 +434,14 @@ window.addEventListener('load', function() {
   - Le matin à jeun à ≥ 6 mois d'une fracture
   - Doit être dans ou sous les valeurs normales des femmes non ménopausées. Sinon avis spécialisé.
 - Biphosphonates (BP)  
-  - Informer du risque très faible d'*ostéonécrose de la mâchoire* (soins dentaires ++), de *fracture atypique fémorale* et d'uvéite
+  - Informer du risque très faible d'ostéonécrose de la mâchoire (soins dentaires ++), de *fracture atypique fémorale* et d'uvéite
   - Ne contre-indiquent pas des implants dentaires
-  - Biphosphonates voie orale: ≥ 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)
-  - Biphosphonate IV: perfusion à domicile annuelle sur 15-30 minutes
+  - Bisphosphonates voie orale: ≥ 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)
+  - Bisphosphonate IV: perfusion à domicile annuelle sur 15-30 minutes
 - Dénosumab
   - Prescription restreinte au rhumatologue
   - Utilisé seulement en relais des BP car permet un gain conséquent de DMO (*HAS 2019*)
-  - Informer du risque très faible d'*ostéonécrose de la mâchoire*, de *fracture atypique fémorale* et d'uvéite
+  - Informer du risque très faible d'ostéonécrose de la mâchoire, de *fracture atypique fémorale* et d'uvéite
   - Rebond de perte osseuse à l'arrêt, relais par BP 6-12 mois
 - Raloxifène  
 Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture périphérique peu élevé en l'absence de: T-score ≤ -3 et {{< modal-btn modal-risque-chute >}}risque de chute élevé{{< /modal-btn >}}.
@@ -452,6 +452,8 @@ Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture 
 
 {{%/collapse%}}
 {{%collapse "Suivi du patient ostéoporotique" %}}
+
+Réévaluation de la prise en charge de l'ostéoporose:
 
 - {{< modal-btn modal-risque-fracture >}}Risque de fracture{{< /modal-btn >}}
 - {{< modal-btn modal-risque-chute >}}Risque de chute{{< /modal-btn >}}
@@ -464,7 +466,7 @@ Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture 
 - Radiographies dorso-lombaires  
 Si perte de taille ≥ 2 cm au cours du suivi ou rachialgies.
 
-{{%warning%}}Douleurs persistantes de l'aine ou des cuisses chez une patiente traitée par biphosphonate ou dénosumab: éliminer une fracture atypique fémorale{{%/warning%}}
+{{%warning%}}Douleurs persistantes de l'aine ou des cuisses chez une patiente traitée par bisphosphonate ou dénosumab: éliminer une fracture atypique fémorale{{%/warning%}}
 
 ### Arrêt du traitement anti-ostéoporotique
 
@@ -475,7 +477,7 @@ Envisager si les conditions sont remplies:
 - Perte de DMO < 0,03 g/cm²
 - Si fracture sévère: T-score fémoral de fin de traitement ≥ -2,5 DS (voire -2)
 
-Réévaluation avec ostéodensitométrie 2 ans après l'arrêt du traitement.
+Réévaluation de la prise en charge avec ostéodensitométrie 2 ans après l'arrêt du traitement.
 
 {{%/collapse%}}
 {{%collapse "Conduite à tenir devant une ostéoporose" "show" %}}
