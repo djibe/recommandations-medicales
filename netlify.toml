@@ -74,6 +74,18 @@ HUGO_ENABLEGITINFO = "false"
   force = true
 
 [[redirects]]
+  from = "https://www.recomedicales.fr/*"
+  to = "https://recomedicales.fr/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.recomedicales.fr/*"
+  to = "https://recomedicales.fr/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/guidelineyears/*"
   to = " /annees/:splat"
   status = 301

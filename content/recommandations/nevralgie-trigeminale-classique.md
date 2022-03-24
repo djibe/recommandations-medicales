@@ -1,8 +1,8 @@
 +++
 title = "Névralgie trigéminale classique"
-titleSeo = "Névralgie du trijumeau"
 prefix = "la "
-shortname = "NTC"
+titleSeo = "Névralgie du trijumeau"
+description = "Recommandations pour la prise en charge d'une névralgie du trijumeau. Critères diagnostiques et imagerie IRM cérébrale, traitement de la douleur carbamazépine"
 synonyms = ["Névralgie du trijumeau"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-05T23:43:00+02:00
@@ -268,6 +268,6 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-[A. Donnet et al, SFEMC, SFNC. Recommandations pour le diagnostic et la prise en charge de la névralgie trigéminale classique, Neurochirurgie, Volume 64, Issue 4, 2018, Pages 285-302,](https://www.sciencedirect.com/science/article/pii/S0028377018300456?via%3Dihub)
+[Donnet A. et al; SFEMC, SFNC. Recommandations pour le diagnostic et la prise en charge de la névralgie trigéminale classique. Neurochirurgie. 2018.](https://www.sciencedirect.com/science/article/pii/S0028377018300456)
 
 {{%/sources%}}

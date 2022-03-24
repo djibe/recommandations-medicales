@@ -2,11 +2,12 @@
 title = "Traumatisme crânien de l'enfant"
 prefix = "le "
 titleSeo = "Traumatisme crânien enfant"
+description = "Recommandations pour l'évaluation d'un traumatisme crânien de l'enfant. Score de Glasgow chez l'enfant, signes de gravité, indications au scanner cérébral ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-08T14:17:41+02:00
 publishdate = 2020-11-08
-lastmod = 2021-03-27
+lastmod = 2022-03-24
 specialites = ["neurologie", "pediatrie"]
 annees = "2016"
 sources = ["NICE", "SFMU", "SFP"]
@@ -16,15 +17,15 @@ sctid = "82271004"
 flowchart = true
 image = true
 imageWEBP = true
-imageSrc = "scientificanimations.com, CC BY-SA 4.0"
+imageSrc = "Illustration du traumatisme crânien par scientificanimations.com, CC BY-SA 4.0"
 todo = "relecture"
 +++
 
 {{%article-summary%}}
 
-- Rechercher immédiatement les signes de gravité.
-- Appel du {{<phone>}}15{{</phone>}} en cas de signes de signe de gravité ou d'impression de gravité pour scanner cérébral.
-- Remettre les [Consignes de surveillance à donner aux parents (PDF)](/print/tc-enfant-consignes.pdf) dans les autres cas.
+- Rechercher immédiatement les signes de gravité
+- Appel du {{<phone>}}15{{</phone>}} en cas de signes de signe de gravité ou d'impression de gravité pour scanner cérébral
+- Remettre les [Consignes de surveillance à donner aux parents (PDF)](/print/tc-enfant-consignes.pdf) dans les autres cas
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -135,7 +136,7 @@ Troubles de l'hémostase, accidents, intoxications, pathologies.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> "La radiographie de crâne n'a pas d'indication, à l'exception de la suspicion de maltraitance". (SFMU)
+> << La radiographie de crâne n'a pas d'indication, à l'exception de la suspicion de maltraitance >>. (*SFMU*)
 
 Aucun examen en l'absence de signe de gravité ou de gravité estimée par le médecin.
 

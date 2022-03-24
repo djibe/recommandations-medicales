@@ -1,8 +1,8 @@
 +++
 title = "Interruption volontaire de grossesse"
-titleSeo = "Interruption de grossesse"
 prefix = "l'"
-shortname = "IVG"
+titleSeo = "Interruption de grossesse"
+description = "Recommandations pour la prise en charge ambulatoire de l'IVG. Terme autorisé, examen gynécologique, échographie pelvienne, mifépristone et misoprostol ..."
 synonyms = ["IVG", "avortement"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-16T10:54:41+02:00
@@ -51,11 +51,11 @@ Pic chez **20-29 ans** avec 27 IVG/1000 femmes.
 {{% /collapse %}}
 {{%collapse "Traitement médical" %}}
 
-{{%info%}}Possible jusqu'à 9 SA en médecine générale ambulatoire (ou sage-femme), à condition d'une formation suffisante et de convention avec établissement de santé autorisé.{{%/info%}}
+{{%info%}}Possible jusqu'à 9 SA en médecine générale ambulatoire (ou sage-femme), à condition d'une formation suffisante et de convention avec établissement de santé autorisé{{%/info%}}
 
 ### Conditions
 
-{{%warning%}}Informer du risque d'échec (avec recours à la chirurgie possible).{{%/warning%}}
+{{%warning%}}Informer du risque d'échec avec recours à la chirurgie possible{{%/warning%}}
 
 Les métrorragies (témoin de l'efficacité) surviennent 3-4 h après la prise du misoprostol.  
 Douleurs abdomino-pelviennes quasi-constantes.

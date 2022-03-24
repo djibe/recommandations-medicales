@@ -84,7 +84,7 @@ EOGD souhaitable (sauf si Quinolone-S et non utilisées).
           <span>Amox 50 mg/kg/j (3-4 prises) + Lévoflo 500 x 2/j + IPP x 2/j | 14 jours</span>
         </li>
         <li>Clari-R Quinolone-R (ou non testée)
-          <span><a href="http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/">Avis d'expert du GEFH</a></span>
+          <span><a href="http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" rel="external nofollow noopener">Avis d'expert du GEFH</a></span>
         </li>
       </ul>
     </div>
@@ -111,7 +111,7 @@ EOGD souhaitable (sauf si Quinolone-S et non utilisées).
           <span>Amox 50 mg/kg/j (3-4 prises) + Lévoflo 500 x 2/j + IPP x 2/j | 14 jours</span>
         </li>
         <li>Clari-R Quinolone-R (ou non testée)
-          <span><a href="http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/">Avis d'expert du GEFH</a></span>
+          <span><a href="http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" rel="external nofollow noopener">Avis d'expert du GEFH</a></span>
         </li>
       </ul>
     </div>
@@ -126,11 +126,11 @@ EOGD souhaitable (sauf si Quinolone-S et non utilisées).
           <span>Clari 500 x 2/j + Lévoflo 500 x 2/j + IPP x 2/j | 14 jours</span>
         </li>
         <li>Clari-R
-          <span><a href="http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/">Avis d'expert du GEFH</a></span>
+          <span><a href="http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" rel="external nofollow noopener">Avis d'expert du GEFH</a></span>
         </li>
       </ul>
       <p class="typography-overline text-black-secondary pt-2">3<sup>e</sup> ligne</p>
-      <p>Traitement avec antibiogramme et <a href="http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/">avis d'expert du GEFH</a></p>
+      <p>Traitement avec antibiogramme et <a href="http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/" rel="external nofollow noopener">avis d'expert du GEFH</a></p>
     </div>
     <small>Doses en mg, amox = amoxicilline (max 6g/j); lévoflo = lévofloxacine; métroni = métronidazole</small>
   </div>

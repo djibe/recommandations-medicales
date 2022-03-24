@@ -2,6 +2,7 @@
 title = "Insuffisance ovarienne prématurée"
 prefix = "l'"
 titleSeo = "Insuffisance ovarienne prématurée"
+description = "Recommandations, conduite à tenir et prise en charge d'une ménopause précoce. Aménorrhée avant 40 ans, bilan FSH haut et estradiol bas, traitement hormonal THS"
 synonyms = ["Ménopause précoce", "ménopause prématurée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-07T12:11:02+01:00"
@@ -27,7 +28,8 @@ todo = "tabac, Anticorps anti-surrénaliens, Turner, ESHRE"
 - Exploration dans un [centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/)
 - THS à démarrer rapidement pour réduire le risque cardiovasculaire et fracturaire
 - Le THS pour les IOP spontanées (non iatrogènes) n'augmente pas le risque de cancer du sein (*HAS 2021*)
-- Article lié: [Ménopause et THM]({{< relref "menopause.md" >}})
+
+Article lié: [Ménopause et THM]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

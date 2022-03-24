@@ -22,7 +22,7 @@ todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité 
 
 {{%article-summary%}}
 
-- Évoquer devant des [douleurs pelviennes](/tags/douleur-pelvienne) chroniques
+- Évoquer devant des [douleurs pelviennes](/tags/douleur-pelvienne/) chroniques
 - Le diagnostic est clinique
 - Explorations seulement quand douloureuse ou avec retentissement (infertilité, qualité de vie)
 - 1<sup>re</sup> intention: examen gynécologique et échographie pelvienne

@@ -1,12 +1,13 @@
 +++
 title = "Méthotrexate"
 prefix = "le "
-shortname = "MTX"
+titleSeo = "Recommandations médicament Méthotrexate"
+description = "Recommandations pour l'utilisation du médicament méthotrexate. Bilan pré-thérapeutique, contre-indications, jour de prise, supplémentation acide folique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-20T19:04:41+02:00
 publishdate = 2020-09-20
-lastmod = 2021-11-16
+lastmod = 2022-03-24
 specialites = ["therapeutique"]
 annees = "2020"
 sources = ["HAS", "ANSM"]
@@ -50,10 +51,10 @@ Peut survenir à tout moment même à faible dose.
 {{%collapse "Bilan pré-thérapeutique" %}}
 
 - Recherche de foyer infectieux  
-NFS, sérologies VHB et VHC, quantiféron.
+  NFS, sérologies VHB et VHC, quantiféron.
 - BH, BR, albumine, ionogramme
 - Radiographie thoracique  
-Systématique avant de débuter le traitement.
+  Systématique avant de débuter le traitement.
 - Échographie abdominale
 - Fibroscan
 - bHCG
@@ -72,7 +73,7 @@ Systématique avant de débuter le traitement.
 {{% /collapse %}}
 {{%collapse "Co-prescription" %}}
 
-{{% info %}}Acide folique 5mg, 1cp 2 jours après la prise du méthotrexate{{% /info %}}
+{{% info %}}Acide folique 5 mg, 1cp 2 jours après la prise du méthotrexate{{% /info %}}
 
 La supplémentation en acide folique (vitamine B9) réduit les effets indésirables:
 

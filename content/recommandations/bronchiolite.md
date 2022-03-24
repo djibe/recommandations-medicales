@@ -31,7 +31,7 @@ todo = "avis CT, FC + SpO2 selon l'âge, relecture, https://afpa.org/outil/norme
 - [Fiche conseils aux parents (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 
 {{%/article-summary%}}
-{{%collapse "Définitions" %}}
+{{%collapse "Définitions et diagnostic différentiel" %}}
 
 Bronchiolite aiguë (BA)
 : Infection virale respiratoire épidémique du nourrisson (VRS 50-80% des cas, co-infection 10%) d'évolution favorable dans la très grande majorité des cas.
@@ -45,6 +45,20 @@ Asthme du nourrisson
 : ≥ 3 épisodes de bronchiolite chez un nourrisson de < 12 mois  
 OU 2 épisodes de bronchiolite chez un nourrisson de < 12 mois avec atopie familiale ou personnelle  
 OU dyspnée sifflante après 12 mois (sans autre cause).
+
+### Diagnostic différentiel de la bronchiolite
+
+- **Insuffisance cardiaque congestive**
+- Exacerbation d'asthme
+- Pneumopathie
+- Laryngotrachéomalacie
+- Inhalation de corps étranger
+- Reflux gastro-œsophagien
+- Anneau vasculaire
+- Réaction allergique
+- Fibrose kystique
+- Masse médiastinale
+- Fistule œso-trachéale
 
 ### Complications de la bronchiolite
 
@@ -73,19 +87,21 @@ Hétérogénéité selon les centres.
 **SCM:** sternocléido-mastoidiens
 
 {{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
+{{%collapse "Formes cliniques de bronchiolite" "show" %}}
 
-- **Insuffisance cardiaque congestive**
-- Exacerbation d'asthme
-- Pneumopathie
-- Laryngotrachéomalacie
-- Inhalation de corps étranger
-- Reflux gastro-œsophagien
-- Anneau vasculaire
-- Réaction allergique
-- Fibrose kystique
-- Masse médiastinale
-- Fistule œso-trachéale
+### 3 formes cliniques: légère, modérée et grave
+
+{{< table title="Formes cliniques de la bronchiolite selon HAS/CNPP 2019" class="table-wrap">}}
+| Forme clinique                      | Légère                | Modérée                        | Grave                                        |
+|-------------------------------------|-----------------------|--------------------------------|----------------------------------------------|
+| AEG                                 | Non                   | Non                            | Oui                                          |
+| FR (/min)                           | &lt; 60               | 60-69                          | &ge; 70 ou &lt; 30<br>ou respiration superficielle |
+| FC (&gt; 180 ou &lt; 80/min)        | Non                   | Non                            | Oui                                          |
+| Utilisation des muscles accessoires | Légère                | Modérée                        | Intense                                      |
+| SpO<sub>2</sub> (%)                 | &gt; 92               | 90 &lt; SpO<sub>2</sub> &le; 92  | &le; 90 ou cyanose                         |
+| Alimentation (%)                    | &gt; 50               | &lt; 50 sur 3 prises consécutives| Réduction importante<br>ou refus           |
+| Interprétation                      | Critères tous remplis | &ge; 1 critère<br>(et non grave) | ≥ 1 critère                                |
+{{< /table >}}
 
 {{% /collapse %}}
 {{%collapse "Signes de gravité et hospitalisation" %}}
@@ -177,20 +193,6 @@ Dyspnée avec polypnée, geignements expiratoires (grunting)
 
 **NB.** L'auscultation peut être silencieuse en forme grave à thorax distendu.
 
-### 3 formes cliniques: légère, modérée et grave
-
-{{< table title="Formes cliniques de la bronchiolite selon HAS/CNPP 2019" class="table-wrap">}}
-| Forme clinique                      | Légère                | Modérée                        | Grave                                        |
-|-------------------------------------|-----------------------|--------------------------------|----------------------------------------------|
-| AEG                                 | Non                   | Non                            | Oui                                          |
-| FR (/min)                           | &lt; 60               | 60-69                          | &ge; 70 ou &lt; 30<br>ou respiration superficielle |
-| FC (&gt; 180 ou &lt; 80/min)        | Non                   | Non                            | Oui                                          |
-| Utilisation des muscles accessoires | Légère                | Modérée                        | Intense                                      |
-| SpO<sub>2</sub> (%)                 | &gt; 92               | 90 &lt; SpO<sub>2</sub> &le; 92  | &le; 90 ou cyanose                         |
-| Alimentation (%)                    | &gt; 50               | &lt; 50 sur 3 prises consécutives| Réduction importante<br>ou refus           |
-| Interprétation                      | Critères tous remplis | &ge; 1 critère<br>(et non grave) | ≥ 1 critère                                |
-{{< /table >}}
-
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
@@ -206,6 +208,8 @@ Indications à la radio de thorax:
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
+
+Moyens recommandés pour prévenir la bronchiolite:
 
 - Allaitement maternel
 - Retarder la mise en collectivité
@@ -277,7 +281,7 @@ Sont contre-indiquées: drainage postural, vibration, clapping, désencombrement
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une dyspnée sifflante" "show" %}}
 
-{{< mermaid title="Prise en charge d'une dyspnée sifflante. Dr JB Fron d'après HAS/CNPP 2019" >}}
+{{< mermaid title="Prise en charge d'une dyspnée sifflante et conduite à tenir devant une bronchiolite. Dr JB Fron d'après HAS/CNPP 2019" >}}
 graph TB
   dyspnee[Dyspnée sifflante] --> age(Âge)
   style dyspnee stroke:#4150f5, stroke-width:1px

@@ -2,7 +2,7 @@
 title = "Diverticulite sigmoïdienne aiguë"
 prefix = "la "
 titleSeo = "Diverticulite sigmoïdienne"
-shortname = "Sigmoïdite"
+description = "Recommandations pour la prise en charge de la diverticulite sigmoïdienne. Bilan avec CRP, scanner abdomino-pelvien, pas d'antibiotique en crise non compliquée"
 synonyms = ["Sigmoïdite diverticulaire, diverticulite colique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-09T11:33:00+02:00

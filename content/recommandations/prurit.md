@@ -2,7 +2,7 @@
 title = "Conduite à tenir devant un prurit"
 prefix = "la "
 titleSeo = "Conduite à tenir devant un prurit"
-description = ""
+description = "Recommandations pour la prise en charge d'un prurit. Bilan: biologie, radio de thorax, échographie abdominale et médicament anti-histaminique. Éliminer une gale"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-02T17:43:41+02:00
@@ -16,7 +16,7 @@ anglais = ["Itching"]
 sctid = "418290006"
 flowchart = true
 image = true
-imageSrc = "Photo par wayhomestudio - www.freepik.com"
+imageSrc = "Photo par wayhomestudio / Freepik"
 todo = "Prescrire, médicaments responsables, algo, lire dermato-info"
 +++
 
