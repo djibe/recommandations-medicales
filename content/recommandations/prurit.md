@@ -2,7 +2,7 @@
 title = "Conduite à tenir devant un prurit"
 prefix = "la "
 titleSeo = "Conduite à tenir devant un prurit"
-shortname = "Prurit"
+description = ""
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-02T17:43:41+02:00
@@ -14,7 +14,6 @@ sources = ["CEDEF"]
 tags = ["prurit", "TSH"]
 anglais = ["Itching"]
 sctid = "418290006"
-draft = false
 flowchart = true
 image = true
 imageSrc = "Photo par wayhomestudio - www.freepik.com"

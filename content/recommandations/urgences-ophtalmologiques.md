@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-07T13:22:41+02:00
 publishdate = 2021-01-07
-lastmod = 2021-01-12
+lastmod = 2022-03-23
 specialites = ["ophtalmologie"]
-annees = "2021"
+annees = "2022"
 sources = []
 tags = []
 anglais = []
@@ -51,7 +51,6 @@ datatable = true
 | Paris | Hôpital Cochin: OphtalmoPôle<br>Bâtiment Pascal | 8 Rue Mechain<br>75014 Paris | 24/7 | 01 58 41 23 00 | |
 | Paris | Hôpital Kremlin Bicêtre<br>Bâtiment Testas porte 6 | 78 av. du général Leclerc<br>94270 Le Kremlin-Bicêtre | lun-ven<br>8:00-16:00 | 01 45 21 36 85 | |
 | Paris | Hôpital Lariboisière | 2 rue Ambroise Paré<br>75010 Paris | lun-ven<br>8:30-16:00 | 01 49 95 64 78 | BAV brutale/récente ou suivi/opéré dans le service uniquement |
-| Paris | Hôpital Percy | 101 av. Henri Barbusse<br>92140 Clamart | 24/7 ? | 01 41 46 62 31 | +15 ans uniquement |
 | Paris | Hôpital Rothschild | 27 rue Manin<br>75019 Paris | 24/7 | 01 48 03 68 84 | |
 | Paris | Centre Ophtalmologique Paris 17<br>SOS ŒIL | 33-35 Rue de Chazelles<br>75017 Paris | 9:00-18:00 | 01 47 64 50 88<br>01 47 64 46 75 | |
 | Pontault-Combault | Centre Ophtalmologique<br>de la vision | 138 av. de la République<br>77340 Pontault-Combault | lun-sam<br>9:00-18:00 | 01 60 28 60 97 | Appeler le secrétariat avant |

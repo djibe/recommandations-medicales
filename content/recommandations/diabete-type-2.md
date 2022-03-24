@@ -295,7 +295,7 @@ window.onload = () => {
 
 ### À lire
 
-- [Thivolet C. et al; SFD. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)
+- [Thivolet C. et al. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)
 
 {{%/sources%}}
 {{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
@@ -343,7 +343,7 @@ window.onload = () => {
 {{< traitements/idpp4 >}}
 
 {{% /modal %}}
-{{% modal title="Inhibiteurs du co-transporteur SGLT2" id="modal-isglt2"%}}
+{{% modal title="Inhibiteurs du SGLT2" id="modal-isglt2"%}}
 
 {{< traitements/isglt2 >}}
 

@@ -2,7 +2,7 @@
 title = "Substituts nicotiniques remboursés"
 prefix = "les "
 titleSeo = "Substituts nicotiniques remboursés"
-description = "Liste des substituts nicotiniques remboursés par l'Assurance maladie en 2022. Patchs, gommes, comprimés, pastilles, comprimés sublinguaux et sprays remboursés"
+description = "Liste des substituts nicotiniques remboursés par l'Assurance maladie en 2022. Ordonnance: Patchs, gommes, comprimés, pastilles, comprimés sublinguaux et sprays"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-17T14:11:29+02:00
@@ -21,7 +21,7 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests
 
 ## Sevrage tabagique - les substituts nicotiniques remboursés {.typography-headline-5}
 
-Liste des substituts nicotiniques remboursés par la Sécurité Sociale en 2022.
+Liste des substituts nicotiniques remboursés sur prescription par la Sécurité Sociale en 2022, sans limite de dépenses.
 
 ### Aide au choix des médicaments remboursés à 65% par l'Assurance Maladie sur prescription {.typography-subtitle-1 .text-black-primary}
 
