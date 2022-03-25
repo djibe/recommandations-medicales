@@ -1,12 +1,13 @@
 +++
-title = "Vitamine D"
+title = "Vitamine D et supplémentation"
 prefix = "la "
-shortname = "vit-D"
-synonyms = ["Cholécalciferol"]
+titleSeo = "Vitamine D et supplémentation"
+description = "Recommandations sur les apports et la supplémentation en vitamine D. Aliments riches, 1000 UI par jour, indications au dosage et cible selon l'âge, nourrisson"
+synonyms = ["Cholécalciferol vitamine D3"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-15T00:28:29+02:00
 publishdate = 2020-04-15
-lastmod = 2021-12-09
+lastmod = 2022-03-25
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2019"
 sources = ["HAS", "SFP", "SFR"]
@@ -16,7 +17,6 @@ image = true
 imageSrc = "Illustration de la vitamine D par pch.vector / Freepik"
 sctid = "30178006"
 flowchart = true
-draft = false
 todo = "graph correction, relecture protocole correction"
 +++
 
@@ -28,7 +28,7 @@ Vitamine D
 : La vitamine D participe à la régulation du métabolisme phosphocalcique et prévient: **rachitisme, ostéomalacie, douleurs musculaires diffuses**.  
 L'unité internationale est le **nmol/L**.
 : **Bénéfices de la supplémentation**  
-Réduit les fractures non vertébrales des +65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 30 ng/mL.
+Réduit les fractures non vertébrales des +65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 30 ng/mL. Aliments riches: poissons et produits laitiers.
 : Selon l'Inserm, une carence en vitamine D serait fortement liée au développement de la maladie d'Alzheimer. D'autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés (*[Féart C., Samieri C. 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)*).
 
 Carence en vitamine D de l'adulte et de l'enfant
@@ -42,16 +42,18 @@ Seuil de toxicité de la vitamine D
 : Taux sérique > 375 nmol/L.  
 Ne pas supplémenter au-delà 150 nmol/L.
 
-{{%info%}}À tous les âges, des apports quotidiens de 1000 UI/j sont recommandés{{%/info%}}
+{{%info%}}À tous les âges, des apports quotidiens de 1000 UI par jour sont recommandés{{%/info%}}
 
 ### Épidémiologie
 
-- **Déficit en vitamine D**  
-75% des adultes, 70% des enfants.
-- **Carence en vitamine D**  
-7% des adultes, 13% des adolescents, 4% des enfants.
+Principaux aliments riches en vitamine D: poissons et produits laitiers (*Anses*).
 
-> Santé Publique France. Étude Esteban.
+- **Déficit en vitamine D**  
+  75% des adultes, 70% des enfants.
+- **Carence en vitamine D**  
+  7% des adultes, 13% des adolescents, 4% des enfants.
+
+> *Santé Publique France. Étude Esteban.*
 
 ### Abréviations
 
@@ -72,7 +74,7 @@ Convertir dans les 2 sens: nmol/L (unités internationales) et ng/mL.
 </div>
 
 {{%/collapse%}}
-{{%collapse "Patients à risque" %}}
+{{%collapse "Facteurs de risque" %}}
 
 ### Personnes à risque de complications par carence en vitamine D
 
@@ -120,9 +122,11 @@ La supplémentation en vitamine D3 peut être instaurée et suivie sans dosage d
 1. Suspicion d'ostéomalacie (fatigue musculaire, douleurs osseuses)
 1. À 3 mois d'une transplantation rénale
 1. Avant et après une chirurgie bariatrique
-1. Personne âgée avec chutes répétées.  
-Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>
+1. Personne âgée avec chutes répétées  
+  Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>
 1. Traitement préconisant une mesure de la vitamine D
+
+> *HAS 2013 et Conditions de prise en charge par l'Assurance Maladie*
 
 et aussi
 
@@ -144,21 +148,21 @@ En dosage de complaisance, préciser << Non remboursable >> sur la prescription 
 Posologie selon le résultat du dosage de vitamine D:
 
 - Taux sériques de 50 à 75 nmol/L (30 ng/mL)  
-  50.000 UI/semaine pendant 4 semaines.
+  Forte dose 50.000 UI/semaine pendant 4 semaines.
 - Taux sériques < 50 nmol/L (20 ng/mL)  
   50.000 UI/semaine pendant 8 semaines.
 
 Puis enchaîne sur le protocole d'entretien.  
 Utiliser des ampoules de 100.000 UI en cas de nécessité d'une 2<sup>e</sup> correction.
 
-> Protocole de correction de carence en vitamine D selon *Souberbielle 2019*
+> Protocole de correction de carence en vitamine D selon *Souberbielle JC 2019*
 
 ### Protocole d'entretien après carence en vitamine D
 
 #### Entretien mensuel pendant 3 à 6 mois
 
 {{%info%}}
-50.000 UI x 1/mois pendant 3 à 6 mois
+50.000 UI par mois pendant 3 à 6 mois
 
 Nouveau dosage 1 semaine après la fin du traitement.
 {{%/info%}}
@@ -176,7 +180,7 @@ Espacer l'entretien à 50.000 UI tous les 2 mois.
 - Entre 75 et 150  
 Conserver le rythme d'entretien.
 
-> Protocole d'entretien après carence en vitamine D selon *Souberbielle 2019*
+> Protocole d'entretien après carence en vitamine D selon *Souberbielle JC 2019*
 
 Intensification si:
 
@@ -199,11 +203,11 @@ Intensification si:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour la supplémentation en vitamine D" "show" %}}
 
-{{< mermaid title="Cibles d'apports en vitamine D (schéma simplifié). Dr JB Fron d'après Souberbielle 2019" >}}
+{{< mermaid title="Cibles d'apports en vitamine D (schéma simplifié). Dr JB Fron d'après Souberbielle JC 2019" >}}
 graph TB
-  apports["Objectifs d'apports<br>en vitamine D"]
+  apports[Objectifs d'apports<br>en vitamine D]
   style apports stroke:#4150f5, stroke-width:1px
-    apports --> ns(<b>Nourrisson</b><br>2 à 4 gtte/j)
+    apports --> ns(<b>Nourrisson</b><br>2 à 4 gtte/j<br>jusqu'à 18 mois)
     apports --> enfant(<b>18 mois à<br>18 ans</b><br>80-100.000 UI<br> 2x l'hiver)
     apports --> adulte(<b>Adulte &gt; 50 ans</b><br>25OHD &gt; 50 nmol/L)
       adulte --> 65(<b>&gt; 65 ans</b><br>25OHD &gt; 75 nmol/L)
@@ -213,13 +217,13 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease. 2020.](https://goldcopd.org/2021-gold-reports/)
+- [Anses. Vitamine D : pourquoi et comment assurer un apport suffisant ? Septembre 2021.](https://www.anses.fr/fr/content/vitamine-d-pourquoi-et-comment-assurer-un-apport-suffisant)
 - [Omedit Centre Val de Loire. Protocole de supplémentation en vitamine D en EHPAD. Décembre 2020. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/10827.pdf)
-- [Ameli. Dosage de la vitamine D. 14 Novembre 2019.](https://www.ameli.fr/paris/laboratoire-danalyses-medicales/exercice-liberal/memos/dosage-vitamine)
-- [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d'ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 03/05/2019. (PDF)](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
+- [Ameli. Dosage de la vitamine D. Décembre 2020.](https://www.ameli.fr/paris/laboratoire-danalyses-medicales/exercice-liberal/memos/dosage-vitamine)
+- [Souberbielle JC. et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d'ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 2019. (PDF)](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
 - [Esteban 2014-2016 – Chapitre dosages biologiques des vitamines et minéraux : pas de déficit important ou de carence à grande échelle](https://www.santepubliquefrance.fr/les-actualites/2019/esteban-2014-2016-chapitre-dosages-biologiques-des-vitamines-et-mineraux-pas-de-deficit-important-ou-de-carence-a-grande-echelle)
-- [Annweiler C et al. Vitamine D chez l'adulte : mise au point sur le dosage et la supplémentation. Gériatrie et psychologie Neuropsychiatrie du Vieillissement. Vol 16, n°1, mars 2018](https://www.jle.com/fr/revues/gpn/e-docs/vitamine_d_chez_ladulte_mise_au_point_sur_le_dosage_et_la_supplementation_311580/article.phtml)
-- [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l'ostéoporose post-ménopausique. Revue du Rhumatisme. Volume 85. Issue 5. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S1169833018300504)
+- [Annweiler C. et al. Vitamine D chez l'adulte : mise au point sur le dosage et la supplémentation. Gériatrie et psychologie Neuropsychiatrie du Vieillissement. 2018.](https://www.jle.com/fr/revues/gpn/e-docs/vitamine_d_chez_ladulte_mise_au_point_sur_le_dosage_et_la_supplementation_311580/article.phtml)
+- [Briot K. et al. Actualisation 2018 des recommandations françaises du traitement de l'ostéoporose post-ménopausique. Revue du Rhumatisme. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S1169833018300504)
 - [Inserm. La vitamine D, une nouvelle piste contre la maladie d'Alzheimer ?. Mai 2017. (PDF)](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)
 - [HAS. Utilité clinique du dosage de la vitamine D. Octobre 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-02/utilite_clinique_du_dosage_de_la_vitamine_d_-_note_de_cadrage.pdf)
 - [Société Française de Pédiatrie. La Vitamine D : une vitamine toujours d'actualité chez l'enfant et l'adolescent. Mise au point par le Comité de nutrition de la Société française de pédiatrie. 2012. (PDF)](https://afpa.org/content/uploads/2017/07/Reco_VIT_D_VersionFR_VF.pdf)

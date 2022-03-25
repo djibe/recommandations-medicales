@@ -1,12 +1,12 @@
 +++
 title = "Zona"
 prefix = "le "
-shortname = "Zona"
+description = "Recommandations pour le traitement et la prise en charge du zona. Réactivation VZV virus, indication au valaciclovir et à la vaccination, sérologie VIH à 50 ans"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-14T19:48:41+02:00
 publishdate = 2020-11-16
-lastmod = 2022-03-17
+lastmod = 2022-03-25
 specialites = ["dermatologie", "infectiologie", "ophtalmologie"]
 annees = "1998"
 sources = ["SPILF"]
@@ -21,7 +21,7 @@ todo = "flowchart, collège/Pilly"
 {{%article-summary%}}
 
 - Valaciclovir 1 g x 3/j 7 jours si:  
-Ophtalmique, > 50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs +++ en phase aiguë, lésions cutanées graves)
+  Ophtalmique, > 50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs +++ en phase aiguë, lésions cutanées graves)
 - Hospitalisation en urgence si immunodéprimé, atteinte organique ou PFP zostérienne
 - Vaccination de 65 à 74 ans
 - PCR VIH si adulte < 50 ans
@@ -30,8 +30,8 @@ Ophtalmique, > 50 ans ou facteurs prédictifs de séquelles (douleurs pré-érup
 {{%collapse "Définition" %}}
 
 Zona
-: Réactivation du virus de la varicelle VZV dans le ganglion sensitif où il reste quiescent avec apparition de vésicules et douleurs dans le dermatome correspondant.  
-Complications liées aux douleurs neuropathiques séquellaires et au pronostic visuel en **zona ophtalmique**.
+: Réactivation du virus de la varicelle VZV dans le ganglion sensitif où il reste quiescent avec apparition de vésicules et douleurs dans le dermatome correspondant.
+: Complications liées aux [douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}) séquellaires et au pronostic visuel en **zona ophtalmique**.
 
 Zona et personne immunodéprimée
 : Intérêt d'éduquer les patients à la reconnaissance des symptômes.  
@@ -58,7 +58,7 @@ Ce sont les principales personnes qui développent des formes compliquée.
 {{% /collapse %}}
 {{%collapse "Complications" %}}
 
-Les complications surviennent principalement chez l'immunodéprimé et la personne âgée.
+Les complications du zona surviennent principalement chez l'immunodéprimé et la personne âgée.
 
 - **Algies post-zostériennes +++**  
 {{%class%}}50% à 50 ans, 70% après 70 ans.{{%/class%}}
@@ -74,16 +74,17 @@ Douleurs, récidives et 50 à 85% de parésie séquellaire.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+- Antécédents de varicelle et d'épisode de zona
 - Rechercher une immunodépression
-- Signes cutanés  
+- Signes cutanés
+  - Date de début de l'éruption
   - Éruption vésiculeuse systématisée à un dermatome
-  - Risque de surinfection
-  - Évolution en croûtes en 7-10 jours
-  - Croûtes disparaissent en 1 mois avec parfois des cicatrices
+  - Risque de surinfection des lésions
+  - Évolution des lésions en croûtes en 7-10 jours qui disparaissent en 1 mois avec parfois des cicatrices
 - Douleurs du dermatome  
-Quasi constantes en phase aiguë. Risque de chronicisation des douleurs neuropathiques.
+  Quasi constantes en phase aiguë. Risque de chronicisation des douleurs neuropathiques.
 - Zona ophtalmique  
-Surtout patient > 50 ans, fréquentes complications oculaires et douleurs chroniques.
+  Surtout patient > 50 ans, fréquentes complications oculaires et douleurs chroniques.
 - Paralysie faciale périphérique
 
 {{%warning%}}

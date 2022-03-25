@@ -1,6 +1,7 @@
 +++
 title = "Fibrillation atriale (ACFA)"
 prefix = "la "
+titleSeo = "Fibrillation atriale (ACFA)"
 description = "Recommandations ESC 2020 sur la fibrillation auriculaire (FA ou ACFA). ECG, risque embolique CHADSVASC et hémorragique, anticoagulants AOD, antiarythmiques"
 synonyms = ["Arythmie complète par fibrillation auriculaire ou ACFA"]
 auteurs = ["Jean-Baptiste FRON"]

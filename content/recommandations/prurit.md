@@ -53,7 +53,7 @@ Lichénification
 - Ectoparasitoses  
 Gale et pédiculose.
 - Piqûres d'insectes
-- Dermatite atopique
+- [Dermatite atopique]({{< relref "dermatite-atopique.md" >}})
 - Dermatite de contact  
 Caustique, irritative, allergique.
 - Urticaire, dermographisme

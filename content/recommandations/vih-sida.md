@@ -516,12 +516,16 @@ Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Réponses rapides dans le cadre de la COVID-19 - Prophylaxie (PrEP) du VIH par ténofovir disoproxil / emtricitabine dans le cadre de l'urgence sanitaire. 28/04/2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-04/reco_435__reponse_rapide_prep_au_vih_150421_cd_vudoc_am_pg_vd_mel_v0.pdf)
 - [CNS. Avis sur la place de la PrEP dans la prévention du VIH en France : changer de paradigme, changer d'échelle. 15/04/2021. (PDF)](https://cns.sante.fr/wp-content/uploads/2021/05/2021-04-15_avis_fr_prevention.pdf)
-- [CMIT. Infection à VIH. Item 165 - UE6 165. ECN.Pilly 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-165-nb.pdf)
-- [Cazein F. et al. Activité de dépistage du VIH et circonstances de découverte de l'infection à VIH, France 2018. Bull Epidémiol Hebd. 2019;(31-32):615-24.](http://beh.santepubliquefrance.fr/beh/2019/31-32/2019_31-32_1.html)
+- [CMIT. Infection à VIH. Item 165 UE6. ECN.Pilly 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-165-nb.pdf)
+- [Cazein F. et al. Activité de dépistage du VIH et circonstances de découverte de l'infection à VIH, France 2018. Bull Epidémiol Hebd. 2019.](http://beh.santepubliquefrance.fr/beh/2019/31-32/2019_31-32_1.html)
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)
 - [CEDEF. Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 - UE 6. 2017.](https://undf.cedef.org/fr/document/Infection-%C3%A0-VIH_manifestations-cutan%C3%A9o-muqueuses-de-la-primo-infection-%C3%A0-VIH)
+
+### À lire
+
+[MedQual. VIH : La PrEP arrive en ville ! Janvier 2022.](http://www.medqual.fr/images/PRO_2018/LA/2022-JAN-LAPrEP-n195-vF.pdf)
 
 {{%/sources%}}
 <!-- Modal -->

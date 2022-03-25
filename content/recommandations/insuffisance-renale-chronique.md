@@ -2,12 +2,13 @@
 title = "Insuffisance rénale chronique"
 prefix = "l'"
 titleSeo = "Insuffisance rénale chronique"
+description = "Recommandations pour la prise en charge de l'insuffisance rénale. DFG CKD-EPI, clairance de la créatinine, néphroprotection, IEC, statine, pression artérielle"
 longHtml = true
 synonyms = ["et maladie rénale chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-02-17"
+lastmod = "2022-03-25"
 specialites = ["nephrologie"]
 annees = "2021"
 sources = ["HAS", "KDIGO", "ESC"]
@@ -22,16 +23,15 @@ todo = "ameliorer flowchart, consultation dediee Coter C + ALD ???, aliments ric
 
 {{% article-summary %}}
 
-- {{< modal-btn modal-creatinine >}}Situations où la créatinine n'est pas fiable{{< /modal-btn >}}
+- {{< modal-btn modal-creatinine >}}Situations où le débit de filtration estimé n'est pas fiable{{< /modal-btn >}}
 - Dépistage annuel des populations à risque par créatininémie + albuminurie sur échantillon
 - 3 piliers: étiologie, DFGe et albuminurie
-- {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
+- Toute personne avec une insuffisance rénale est à {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Néphroprotection  
-{{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, PA < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, vaccin covid-19...
+  {{< modal-btn modal-nephrotoxiques >}}Éviter les néphrotoxiques{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, PA < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, vaccin covid-19...
 - Adaptation des traitements selon {{< scores/ckd-epi >}}
-- Prévision de la progression de la MRC: [score KFRE](https://kidneyfailurerisk.com/)
-- {{< modal-btn modal-nephrotoxiques >}}Principaux néphrotoxiques{{< /modal-btn >}}
-- Le suivi de l'enfant relève exclusivement du spécialiste
+- Estimation de la progression de la maladie: [score KFRE](https://kidneyfailurerisk.com/)
+- Le suivi de l'enfant relève exclusivement du néphrologue
 
 {{%/article-summary%}}
 {{%collapse "Définitions"%}}
@@ -53,15 +53,15 @@ Insuffisance rénale chronique terminale (IRCT)
 
 ### Abréviations
 
-**CKD-EPI:** {{%lang%}}Chronic Kidney Disease EPIdemiology collaboration (*Levey 2009*){{%/lang%}}, formule d'estimation simplifiée la plus précise  
-**DFGe:** débit de filtration glomérulaire estimé  
+**CKD-EPI:** {{%lang%}}Chronic Kidney Disease EPIdemiology collaboration (*Levey 2009*){{%/lang%}}, formule d'estimation simplifiée la plus précise pour le calcul du débit de filtration glomérulaire estimé (DFGe)  
+**DFGe:** débit de filtration glomérulaire estimé (remplace le calcul de la clairance de la créatinine Cockroft)  
 **HTA:** hypertension artérielle  
 **IRC:** insuffisance rénale chronique  
 **IRCT:** insuffisance rénale chronique terminale  
 **KFRE:** score {{%lang%}}Kidney Failure Risk Equation{{%/lang%}}  
 **MRC:** maladie rénale chronique
 
-### Épidémiologie
+### Épidémiologie de l'insuffisance rénale
 
 3 millions de français atteints de maladie rénale chronique (7-10% des adultes) avec un dépistage insuffisant.
 
@@ -71,26 +71,25 @@ Fin 2018: 89.692 malades en suppléance (55% dialyse et 45% greffés).
 4 milliards d'euros annuels (82% pour la dialyse).
 
 {{%/collapse%}}
-{{%collapse "Facteurs de risque - Qui dépister?" %}}
+{{%collapse "Facteurs de risque de l'insuffisance rénale - Qui dépister?" %}}
 
-Population à risque d'insuffisance rénale chronique définie par la présence d'au moins 1 facteur de risque parmi:
+Population à risque d'insuffisance rénale, définie par la présence d'au moins 1 facteur de risque parmi:
 
-- [Diabète type 2]({{< relref "diabete-type-2.md" >}}) ou [1]({{< relref "diabete-type-1.md" >}})
+- [Diabète type 2]({{< relref "diabete-type-2.md" >}}) ou [type 1]({{< relref "diabete-type-1.md" >}})
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
 - Athérome
 - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
 - Obésité
 - Maladie de système ou auto-immune  
-Lupus, vascularite, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}).
+  Lupus, vascularite, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}).
 - Pathologie urologique  
-Uropathie obstructive, infections urinaires récidivantes.
+  Uropathie obstructive, infections urinaires récidivantes.
 - Antécédents familiaux d'insuffisance rénale évolutive
 - Antécédents de néphropathie aiguë
 - Traitement par {{< modal-btn modal-nephrotoxiques >}}néphrotoxiques{{< /modal-btn >}}  
-AINS, chimiothérapie...
-Exposition aux produits de contraste iodés ou radiothérapie péri-rénale
+  AINS, chimiothérapie, exposition aux produits de contraste iodés ou radiothérapie péri-rénale
 - Exposition professionnelle  
-[Plomb]({{< relref "saturnisme.md" >}}), cadmium, mercure.
+  [Plomb]({{< relref "saturnisme.md" >}}), cadmium, mercure.
 
 {{%info%}}Le dépistage des populations à risque doit être répété 1 fois par an (ou selon l'avis du néphrologue en antécédents familiaux.){{%/info%}}
 
@@ -124,7 +123,7 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 
 - Antécédents personnels et familiaux de maladie rénale ou urinaire
 - Antécédents cardiovasculaires et {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}}
-- FRCV: HTA, diabète, tabagisme, dyslipidémie, obésité
+- FRCV: hypertension artérielle, diabète, tabagisme, dyslipidémie, obésité
 - Exposition aux {{< modal-btn modal-nephrotoxiques >}}néphrotoxiques{{< /modal-btn >}}
   - Professionnelle  
   Plomb, mercure, cadmium, solvants organiques.
@@ -163,14 +162,14 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 
 ### Examen clinique
 
-Recherche de signes étiologiques et du retentissement de la MRC.
+Recherche de signes étiologiques et du retentissement de la maladie rénale:
 
 - Poids, taille, IMC, tour de taille
 - Pression artérielle standardisée ± automesure tensionnelle
 - Auscultation cardiaque, souffle carotidien/rénal, pouls périphériques
 - Œdèmes, hydratation, reins palpables, signes de maladie de système
 - Urologiques  
-Signes fonctionnels urinaires, globe vésical, touchers pelvien.
+  Signes fonctionnels urinaires, globe vésical, touchers pelvien.
 
 ### Critères pour apprécier l'évolutivité de la MRC
 
@@ -200,7 +199,7 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
 - Bilan lipidique (de moins d'un an)
 - Glycémie à jeun ou HbA<sub>1C</sub>
 - Urinaire  
-ECBU + échantillon albuminurie/créatininurie
+  ECBU + échantillon albuminurie/créatininurie.
 {{%/info%}}
 
 - DFGe < 60
@@ -215,9 +214,11 @@ Réticulocytes + ferritinémie.
 - Goutte symptomatique: uricémie
 
 {{%/collapse %}}
-{{%collapse "Suivi du patient insuffisant rénal" %}}
+{{%collapse "Prise en charge et suivi de l'insuffisant rénal" %}}
 
 **Objectifs du traitement:** traiter la maladie causale, ralentir la progression de la maladie, prévenir le risque cardiovasculaire et les complications de la MRC.
+
+Éléments vitaux de la prise en charge d'une atteinte de la fonction rénale:
 
 - [ALD 19]({{< relref "affection-longue-duree.md" >}})
 - Suivi par le généraliste possible si:  
@@ -389,7 +390,7 @@ Connaître les signes et symptômes de la MRC et savoir qui prévenir.
 {{%/collapse%}}
 {{%collapse "Dépistage - Arbre décisionnel" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le dépistage de la maladie rénale chronique. Dr JB Fron d'après HAS 2021" >}}
+{{< mermaid title="Conduite à tenir pour le dépistage de la maladie rénale chronique et prise en charge. Dr JB Fron d'après HAS 2021" >}}
 graph TB
 fdr["<b>Personne à risque</b><hr>- HTA, diabète<br>- Obésité<br>- Athérome<br>- Insuffisance cardiaque<br>- Maladie de système<br>- Pathologie urologique<br>- ATCD familial d'IRC évolutive<br>- Exposition professionnelle<br>- Néphrotoxiques"] --> 2(Bilan annuel)
 style fdr stroke:#4150f5, stroke-width:1px
@@ -413,14 +414,14 @@ style fdr stroke:#4150f5, stroke-width:1px
 - [KDIGO. 2020 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. 2020. (PDF)](https://kdigo.org/wp-content/uploads/2020/10/KDIGO-2020-Diabetes-in-CKD-GL.pdf)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/esc-hta >}}
-- [Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2012 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney inter., Suppl. 2013; 3: 1–150. (PDF)](https://kdigo.org/wp-content/uploads/2017/02/KDIGO_2012_CKD_GL.pdf)
+- [Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2012 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney inter. Suppl. 2013. (PDF)](https://kdigo.org/wp-content/uploads/2017/02/KDIGO_2012_CKD_GL.pdf)
 
 ### À lire
 
 - [HAS. Suivi ambulatoire de l'adulte transplanté rénal au-delà de 3 mois après transplantation. Recommandations de bonne pratique. Novembre 2007.](https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation)
 
 {{%/sources%}}
-{{% modal title="DFGe selon la créatinine ininterprétable selon KDIGO 2012" id="modal-creatinine"%}}
+{{% modal title="Situations où le DFGe est ininterprétable selon KDIGO 2012" id="modal-creatinine"%}}
 
 {{< clinique/creatinine-inadaptee >}}
 

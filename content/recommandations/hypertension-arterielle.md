@@ -78,7 +78,7 @@ Hypertension absente au cabinet et observée au domicile. RHD et traitement selo
 
 Hypertension artérielle résistante
 : Pressions mesurées au cabinet ≥ 140/90 mmHg et confirmées au domicile malgré un traitement optimal et bien suivi avec RHD + ≥ 3 traitements à doses maximales tolérées (IEC/ARA2, TZD, ICa).  
-: Risques: augmentation des complications hypertensives, insuffisance rénale et événements cardiovasculaires.  
+: Risques: augmentation des complications hypertensives, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) et événements cardiovasculaires.  
 Elle atteint < 10% des patients.
 
 ### Abréviations

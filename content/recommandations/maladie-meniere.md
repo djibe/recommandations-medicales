@@ -2,11 +2,12 @@
 title = "Maladie de Menière"
 prefix = "la "
 titleSeo = "Maladie de Menière"
+description = "Recommandations pour le diagnostic et la prise en charge thérapeutique de la Maladie de Menière. Symptômes vertiges, hypoacousie, surdité, plénitude. Traitement"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-30T08:50:00+02:00
 publishdate = 2021-03-30
-lastmod = 2021-03-30
+lastmod = 2022-03-25
 specialites = ["ORL"]
 annees = "2019"
 sources = ["SFORL"]
@@ -21,7 +22,7 @@ todo = "ttt betahistine, score AAO, https://pubmed.ncbi.nlm.nih.gov/19195928/"
 
 {{%article-summary%}}
 
-- Tétrade: vertiges, surdité unilatérale, acouphènes et plénitude de l'oreille chez un sujet d'âge moyen
+- Tétrade par atteinte de l'oreille interne: vertiges, surdité/hypoacousie unilatérale, acouphènes et sensation de plénitude de l'oreille chez un sujet d'âge moyen
 - Bilan biologique et IRM pour l'avis ORL
 
 {{%/article-summary%}}
@@ -35,21 +36,21 @@ Elle découle de modifications de l'endolymphe, touche toutes les populations, p
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-**Le diagnostic est clinique** (critères AAO-HNS).
+**Le diagnostic de la maladie est clinique** (critères AAO-HNS).
 
 ### Maladie définie
 
-Le diagnostic est certain devant l'association des 4 signes suivants:
+Le diagnostic de la maladie est certain devant l'association des 4 signes suivants:
 
 1. Signes vestibulaires  
-≥ 2 crises de *vertiges* durant de 20 min à 12 h (obligeant le repos au lit)  
-OU crises otolithiques de Tumarkin (chute à l'emporte-pièce sans perte de connaissance initiale)
+  ≥ 2 crises de *vertiges* durant de 20 minutes à 12 heures (obligeant le repos au lit)  
+  OU crises otolithiques de Tumarkin (chute à l'emporte-pièce sans perte de connaissance initiale)
 2. Signes auditifs
-    - *Surdité* neurosensorielle unilatérale fluctuante.
-    - Hypoacousie prédominant dans les graves sur 2 fréquences contiguës, d'au moins 30 dB si audition normale ou 35 dB si surdité bilatérale (audiogramme pendant ou suivant une crise).
-    - Ils peuvent précéder les vertiges de plusieurs années.
+    - *Surdité* neurosensorielle unilatérale fluctuante
+    - Hypoacousie prédominant dans les graves sur 2 basses fréquences contiguës, d'au moins 30 dB si audition normale ou 35 dB si surdité bilatérale (audiogramme pendant ou suivant une crise)
+    - Ils peuvent précéder les vertiges de plusieurs années
 3. Autres signes otologiques homolatéraux fluctuants  
-*Acouphènes* (ressentis comme le plus grave symptôme) et sensation de *plénitude de l'oreille*.
+  Acouphènes (ressentis comme le plus grave symptôme) et sensation de plénitude de l'oreille.
 4. Absence d'autre cause identifiée
 
 ### Maladie probable
@@ -60,9 +61,9 @@ OU crises otolithiques de Tumarkin (chute à l'emporte-pièce sans perte de conn
 
 ### Échelle de niveau fonctionnel
 
-> Ménière's Disease Outcome Questionnaire, AAO-HNS 1995
+> *Ménière's Disease Outcome Questionnaire, AAO-HNS 1995*
 
-Qualité de vie et suivi avec les 6 questions:
+Qualité de vie et suivi de la Maladie de Menière avec les 6 questions:
 
 1. Ma maladie vertigineuse n'a aucun retentissement sur mes activités
 2. Quand j'ai un vertige, je dois arrêter mes activités pour un certain temps mais le vertige s'arrête rapidement et je peux les reprendre. Je continue à travailler, à conduire, et m'implique dans la plupart de mes activités. Je n'ai pas eu besoin d'aménager mes projets ni de faire certaines adaptations de mes activités à cause de mes vertiges.
@@ -74,26 +75,28 @@ Qualité de vie et suivi avec les 6 questions:
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
+Pathologies donnant des symptômes similaires (hypoacousie ou surdité, vertiges):
+
 - Tumeur labyrinthique ou du voisinage  
-Tumeur du sac endolymphatique, méningiome, kyste arachnoïdien.
+  Tumeur du sac endolymphatique, méningiome, kyste arachnoïdien.
 - Anomalie de charnière cervico-occipitale  
-Malformation de Chiari type 1.
+  Malformation de Chiari type 1.
 - Schwannome vestibulaire
 - Sclérose en plaques
 - Hypotension intracrânienne
 - Migraine vestibulaire  
-Vertiges de qq minutes à qq jours, céphalées.
+  Vertiges de qq minutes à qq jours, céphalées.
 - Névrite vestibulaire et labyrinthite virale  
-Vertiges de quelques jours à quelques semaines avec surdité.
+  Vertiges de quelques jours à quelques semaines avec surdité.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 ### Bilan devant une suspicion de maladie de Menière
 
-- TSH
-- Glycémie à jeun
 - NFS, VS, CRP
+- Glycémie à jeun
+- TSH
 - Sérologie syphilis
 
 ### IRM cérébrale
@@ -115,30 +118,30 @@ Adresser à l'ORL pour bilan exhaustif:
 - {{%lang%}}Video head impulse test{{%/lang%}}
 - Potentiels évoqués otolithiques myogéniques, cervicaux et oculaires
 - Examens spécifiques  
-Test de déphasage acoustique, impédancemétrie multi-fréquentielle, électrocochléographie.
+  Test de déphasage acoustique, impédancemétrie multi-fréquentielle, électrocochléographie.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la maladie de Menière" %}}
 
 Dans l'ensemble, le niveau de preuve de chaque traitement est faible.  
-Le traitement dépend de la plainte et de la sévérité de la maladie; réserver les traitements suppresseurs au dernier recours.
+La prise en charge thérapeutique dépend de la plainte et de la sévérité de la maladie. Réserver les traitements suppresseurs au dernier recours.
 
 ### Mode de vie
 
 - Éviter le stress et apprendre à mieux le gérer
 - Cycle nycthéméral régulier avec durée suffisante de sommeil
 - Activité physique régulière en dehors des crises
-- {{< modal-btn modal-score-stopbang >}}Dépistage des apnées du sommeil{{< /modal-btn >}}
+- {{< modal-btn modal-score-stopbang >}}Dépister un syndrome d'apnées du sommeil{{< /modal-btn >}}
 - Éviter la consommation de café, alcool et d'excitants
 - Régime hyposodé (< 2,3 g/j)
 - Réduire les apports en glutamate
 - Suivi de l'efficacité par la qualité de vie et l'*Échelle de niveau fonctionnel*
 - Soutien psychothérapeutique  
-{{%class%}}Efficacité prouvée sur la réhabilitation vestibulaire et le niveau d'anxiété.{{%/class%}}
+  {{%class%}}Efficacité prouvée sur la réhabilitation vestibulaire et le niveau d'anxiété.{{%/class%}}
 - Orthoptie  
-{{%class%}}Si troubles de la vergence et du suivi oculaire.{{%/class%}}
+  {{%class%}}Si troubles de la vergence et du suivi oculaire.{{%/class%}}
 - Association de patients  
-[France Acouphènes](https://www.france-acouphenes.org/)
+  [France Acouphènes](https://www.france-acouphenes.org/)
 
 ### Traitement médical et Chirurgical
 
@@ -159,7 +162,7 @@ En cas de troubles de la vergence et du suivi oculaire.
 
 ### Pour en savoir plus
 
-#### En savoir plus: Traitement médical
+#### En savoir plus: Traitements médicaux
 
 Bétahistine
 : Bétahistine 24 mg x 2/j au long cours.  
@@ -177,14 +180,14 @@ Corticoïdes par voie générale ou intratympanique (ITC)
 Benzodiazépines
 : Utiles en vertiges aigus.
 
-Gentamycine transtympanique
+Injection transtympanique de gentamycine
 : Solution efficace pour contrôler les vertiges, surdité possible.  
 Titration fonctionnelle.  
 Contre-indiquée en oreille unique ou atteinte bilatérale.
 
 ### Pour en savoir plus: Chirurgie
 
-5 opérations possibles:
+Principaux moyens chirurgicaux pour la prise en charge de la Maladie de Menière:
 
 - Aérateurs transtympaniques
 - Chirurgie du sac endolymphatique ++. Non destructrice, efficace
@@ -203,9 +206,9 @@ Association de patients
 {{% /collapse %}}
 {{%sources%}}
 
-- [Wu V. et al. Approche à adopter pour la prise en charge de la maladie de Ménière. Canadian family physician Medecin de famille canadien vol. 65,7 (2019): 468-472.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6738464/)
-- [Nervous J. et al; SFORL. Stratégie diagnostique et thérapeutique dans la maladie de Menière. 09/09/2016. (PDF)](https://www.orlfrance.org/wp-content/uploads/2017/06/Maladie-de-Meniere-stategie-diagnostique-et-therapeutique.pdf)
-- [Lopez-Escamez JA et al. ; Classification Committee of the Barany Society; Japan Society for Equilibrium Research; European Academy of Otology and Neurotology (EAONO); Equilibrium Committee of the American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNS); Korean Balance Society. Diagnostic criteria for Menière's disease. J Vestib Res. 2015;25(1):1-7. doi: 10.3233/VES-150549.](https://content.iospress.com/articles/journal-of-vestibular-research/ves00549)
+- [Wu V. et al. Approche à adopter pour la prise en charge de la maladie de Ménière. Canadian family physician Medecin de famille canadien. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6738464/)
+- [Nervous J. et al; SFORL. Stratégie diagnostique et thérapeutique dans la maladie de Menière. 2016. (PDF)](https://www.orlfrance.org/wp-content/uploads/2017/06/Maladie-de-Meniere-stategie-diagnostique-et-therapeutique.pdf)
+- [Lopez-Escamez JA et al. ; Classification Committee of the Barany Society; Japan Society for Equilibrium Research; European Academy of Otology and Neurotology (EAONO); Equilibrium Committee of the American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNS); Korean Balance Society. Diagnostic criteria for Menière's disease. J Vestib Res. 2015.](https://content.iospress.com/articles/journal-of-vestibular-research/ves00549)
 
 {{%/sources%}}
 {{% modal title="Questionnaire STOP-BANG" id="modal-score-stopbang" size="lg"%}}

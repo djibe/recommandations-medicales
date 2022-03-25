@@ -2,7 +2,7 @@
 title = "Dermatite séborrhéique"
 prefix = "la "
 titleSeo = "Dermatite séborrhéique"
-shortname = "DS"
+description = "Recommandations pour le traitement d'attaque de la dermatite séborrhéique. Face ou cuir chevelu: ciclopirox crème ou gels moussants, kétoconazole puis entretien"
 synonyms = ["Eczéma séborrhéique, dermite séborrhéique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-01T22:39:41+02:00
@@ -14,7 +14,6 @@ sources = ["CEDEF"]
 tags = ["VIH"]
 anglais = ["Seborrheic dermatitis"]
 sctid = "50563003"
-draft = false
 flowchart = true
 image = true
 imageSrc = "Dermatite séborrhéique, Roymishali, CC BY-SA 3.0, via Wikimedia Commons"
@@ -77,13 +76,13 @@ Forme extensive: érythrodermie de Leiner-Moussous.
 {{% collapse "Diagnostic différentiel" %}}
 
 - Psoriasis des régions séborrhéiques  
-Plaques bien limitées extra-faciales, début précoce, antécédents.
+  Plaques bien limitées extra-faciales, début précoce, antécédents.
 - [Rosacée]({{< relref "rosacee.md" >}})  
-Bouffées vasomotrices, érythrose faciale permanente, télangiectasies, absence de squames.
+  Bouffées vasomotrices, érythrose faciale permanente, télangiectasies, absence de squames.
 - [Dermatite atopique]({{< relref "dermatite-atopique.md" >}})  
-Une érythrodermie du nourrisson pourrait inaugurer une DA ou un psoriasis. Chez l'adulte, la DA déborde des zones séborrhéiques avec respect médio-facial.
+  Une érythrodermie du nourrisson pourrait inaugurer une DA ou un psoriasis. Chez l'adulte, la DA déborde des zones séborrhéiques avec respect médio-facial.
 - [Syphilis]({{< relref "syphilis.md" >}})  
-Rapports non protégés, notion de chancre.
+  Rapports non protégés, notion de chancre.
 
 {{% /collapse %}}
 {{% collapse "Examens complémentaires" %}}
@@ -102,7 +101,7 @@ Le traitement est suspensif et doit donc être répété.
 - Toilette quotidienne avec savon doux
 - Respecter les conditions d'application des produits
 
-### Traitements pharmacologiques
+### Traitements pharmacologiques de la dermatite séborrhéique
 
 #### Face et thorax
 
@@ -131,7 +130,7 @@ Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, p
 **Ne pas utiliser:**
 
 - Dermocorticoïdes  
-Ou sur de très courtes périodes.
+  Ou sur de très courtes périodes.
 - Photothérapie
 - Gluconate de lithium
 - Acide salicylique
@@ -141,13 +140,13 @@ Ou sur de très courtes périodes.
 ### Cas particuliers
 
 - Grossesse  
-[Kétoconazole](https://lecrat.fr/spip.php?page=article&id_article=494) uniquement
+  [Kétoconazole](https://lecrat.fr/spip.php?page=article&id_article=494) uniquement
 - Forme très inflammatoire  
-Les dermocorticoïdes d'activité modérée (faible sur visage) sont réservés pendant quelques jours avec relais par un traitement d'attaque.
+  Les dermocorticoïdes d'activité modérée (faible sur visage) sont réservés pendant quelques jours avec relais par un traitement d'attaque.
 - Forme sévère et résistante  
-Avis dermatologique
+  Avis dermatologique.
 - Érythrodermie de Leiner-Moussous  
-Kétoconazole topique
+  Kétoconazole topique
 
 {{% /collapse %}}
 {{% collapse "Conduite à tenir" "show" %}}
@@ -183,6 +182,6 @@ graph TB
 
 - Prescrire Rédaction. Dermatite séborrhéique chez un adulte. Août 2020.
 - [CEDEF. Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
-- [CEDEF. Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 - UE 6. 2017. (PDF)](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2486.pdf)
+- [CEDEF. Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 UE 6. 2017. (PDF)](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2486.pdf)
 
 {{%/sources%}}

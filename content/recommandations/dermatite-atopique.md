@@ -2,12 +2,12 @@
 title = "Dermatite atopique"
 prefix = "la "
 titleSeo = "Dermatite atopique"
-shortname = "DA"
+description = "Recommandations pour le traitement et la prise en charge de la dermatite atopique. Poussée: émollients, hydrater la peau, dermocorticoïdes et traitement de fond"
 synonyms = ["Eczéma atopique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-02T17:43:41+02:00
 publishdate = 2021-11-29
-lastmod = 2022-01-03
+lastmod = 2022-03-25
 specialites = ["dermatologie"]
 annees = "2017"
 sources = ["SFDermato", "CEDEF"]
@@ -17,7 +17,6 @@ sctid = "24079001"
 flowchart = true
 image = true
 imageSrc = "Photo de Care_SMC sur Foter.com / CC BY-ND"
-draft = false
 todo = "préparations CHRU, Impétiginisation"
 +++
 
@@ -44,7 +43,7 @@ Atopie
 : Prédisposition d'origine génétique à produire des anticorps d'isotype IgE lors de l'exposition à des allergènes environnementaux. (*CEDEF 2017*)
 : Famille composée par l'asthme, la rhinite allergique, les allergies alimentaires (évoquer devant régurgitations, diarrhées, eczéma).
 
-### Diagnostic différentiel
+### Diagnostic différentiel de l'eczéma
 
 Autres pathologies eczématiformes:
 
@@ -54,15 +53,15 @@ Autres pathologies eczématiformes:
 ### Complications de la dermatite atopique
 
 - Syndrome de Kaposi-Juliusberg  
-Évoquer devant la modification rapide de l'aspect des lésions et/ou présence de vésico-pustules ombiliquées avec AEG/fièvre. Traitement en urgence.
+  Évoquer devant la modification rapide de l'aspect des lésions et/ou présence de vésico-pustules ombiliquées avec AEG/fièvre. Traitement en urgence.
 - Impétiginisation  
-Rare mais devant être évoquée devant des lésions croûteuses jaunâtres ou purulentes.
+  Rare mais devant être évoquée devant des lésions croûteuses jaunâtres ou purulentes.
 - Complications ophtalmologiques  
-Rares, ne doivent pas être recherchées systématiquement.
+  Rares, ne doivent pas être recherchées systématiquement.
 - Eczéma de contact  
-Évoquer devant une localisation inhabituelle, persistance/aggravation malgré le traitement.
+  Évoquer devant une localisation inhabituelle, persistance/aggravation malgré le traitement.
 - Retard de croissance par DA sévère  
-Rattrapage quand traitement efficace.
+  Rattrapage quand traitement efficace.
 
 ### Abréviations
 
@@ -73,7 +72,7 @@ Rattrapage quand traitement efficace.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-DA sévère: [score SCORAD](https://www.mdapp.co/scoring-atopic-dermatitis-scorad-calculator-396/).
+Dermatite atopique sévère: [score SCORAD](https://www.mdapp.co/scoring-atopic-dermatitis-scorad-calculator-396/).
 
 ### Critères diagnostiques de Williams (*US Working Party 1994*)
 
@@ -148,13 +147,13 @@ Eczéma localisé en zone inhabituelle (siège, paumes, plantes)
 RGO, pleurs, coliques résistantes, antécédents familiaux d'atopie sévère, apparition précoce avant 3 mois.
 
 {{% /collapse %}}
-{{%collapse "Traitement de fond" %}}
+{{%collapse "Traitement de fond de la dermatite atopique" %}}
 
 Le traitement est symptomatique avec lutte contre la xérose cutanée en dehors des poussées.
 
 ### Émollients
 
-Application 1 à 2 fois/j au long cours (doubler en temps froid et sec):
+Application 1 à 2 fois/j au long cours en couche épaisse (doubler en temps froid et sec):
 
 - Niveau 1  
 [Glycérol/Vaseline/Paraffine 15%/8%/2% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62395668&typedoc=R).
@@ -181,9 +180,9 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
 - Arrêt du tabac
 - 19°C dans la chambre
 - Lutte contre les idées reçues  
-Usage des DC, la DA n'est pas allergique-psychologique-infectieuse-contagieuse.
+  Usage des DC, la DA n'est pas allergique-psychologique-infectieuse-contagieuse.
 - Suivi médical régulier  
-Courbe de croissance++
+  Courbe de croissance++
 - Vigilance en contact avec l'herpès
 - Soutien psychologique
 - Vaccins
@@ -233,7 +232,7 @@ Traiter dès le début de la poussée:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de dermatite atopique. Dr JB Fron d'après SFD 2005 et CEDEF 2017" >}}
+{{< mermaid title="Conduite à tenir devant une suspicion de dermatite atopique et prise en charge de l'eczéma. Dr JB Fron d'après SFD 2005 et CEDEF 2017" >}}
 graph TB
   suspicion[Suspicion de dermatite atopique]
   style suspicion stroke:#4150f5, stroke-width:1px
@@ -251,8 +250,8 @@ graph TB
 
 - [Staumont D. la dermatite atopique. dermato-info. 29/05/2021.](https://dermato-info.fr/fr/les-maladies-de-la-peau/la-dermatite-atopique)
 - Prescrire Redaction. Eczéma atopique des nourrissons. La Revue Prescrire. Octobre 2017.
-- [CEDEF, Staumont D. Dermatite atopique. Item 163 - UE 7. 2017.](https://undf.cedef.org/fr/document/Hypersensibilit%C3%A9s-et-allergies-cutan%C3%A9o-muqueuses-chez-l%E2%80%99enfant-et-l%E2%80%99adulte)
-- [SFDermato. Prise en charge de la dermatite atopique de l'enfant. Ann Dermatol Venereol. 2005;132:1S9-18. (PDF)](https://www.sfdermato.org/upload/recommandations/da-court-21929906693b437d6f4315bef48d1518.pdf)
+- [CEDEF, Staumont D. Dermatite atopique. Item 163 UE 7. 2017.](https://undf.cedef.org/fr/document/Hypersensibilit%C3%A9s-et-allergies-cutan%C3%A9o-muqueuses-chez-l%E2%80%99enfant-et-l%E2%80%99adulte)
+- [SFDermato. Prise en charge de la dermatite atopique de l'enfant. Ann Dermatol Venereol. 2005. (PDF)](https://www.sfdermato.org/upload/recommandations/da-court-21929906693b437d6f4315bef48d1518.pdf)
 
 {{%/sources%}}
 {{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}

@@ -7,10 +7,10 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-22T12:09:36+01:00"
 publishdate = "2022-03-22"
 lastmod = "2022-03-22"
-specialites = ["dermatologie"]
+specialites = ["pediatrie"]
 annees = "2020"
-sources = ["Society1"]
-tags = []
+sources = []
+tags = ["vaccination"]
 anglais = ["Varicella", "Chickenpox"]
 sctid = "38907003"
 draft = true
@@ -28,7 +28,7 @@ TODO:
 
 Varicelle
 TODO: Maladie infectieuse à VZV virus bénigne dans l'enfance mais extrêmement contagieuse.
-: Formes graves chez les immunodéprimés, nouveaux-nés et risque d'embryo-fœtopathie avant 24 SA
+: Formes graves chez les immunodéprimés, nouveaux-nés et risque d'embryo-fœtopathie avant 24 SA.  
 Transmission respiratoire par gouttelettes. L'immunité naturelle est quasi définitive.
 
 ### Complications de la varicelle
@@ -56,6 +56,9 @@ Transmission respiratoire par gouttelettes. L'immunité naturelle est quasi déf
 
 {{%info%}}Toujours rechercher: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans{{%/info%}}
 
+- Antécédent de varicelle
+- Contacts avec personnes fragiles  
+  Nourrissons, femmes enceintes, immunodéprimés...
 - Incubation 14 jours ± Prodromes  
   Fièvre 38,5°C, céphalées, douleurs abdominales.
 - Exanthème maculaire prurigineux: cuir chevelu, face, tronc  
@@ -72,18 +75,19 @@ Transmission respiratoire par gouttelettes. L'immunité naturelle est quasi déf
 
 #### Indications limitées à la vaccination anti-varicelleuse
 
-1. 12-18 ans sans antécédents de varicelle ou histoire douteuse  
+Vaccination recommandée sans antécédents de varicelle ou histoire douteuse
+
+1. Adolescents de 12 à 18 ans
   << Sérologie peut être pratiquée >>.
-2. Femmes en âge de procréer (projet de grossesse ++) ou après une première grossesse et sans antécédent de varicelle  
-  << Sérologie peut être pratiquée >>.
-3. Toute personne sans antécédent de varicelle (ou histoire douteuse)  
-  avec sérologie négative  
+2. Femmes en âge de procréer (projet de grossesse ++) ou après une première grossesse  
+  << Sérologie peut être pratiquée >>, test de grossesse et contraception efficace le mois suivant.
+3. Toute personne avec sérologie négative  
   et contact étroit avec des personnes immunodéprimées
-4. Attente de greffe d'organe solide (dans les 6 mois) sans antécédent de varicelle (ou histoire douteuse)  
-  avec sérologie négative. 2 doses à ≥ 1 mois d'intervalle.
-5. Contact avec un cas de varicelle ou de [zona]({{< relref "zona.md" >}}): ≥ 12 ans immunocompétent sans antécédents de varicelle et sans vaccination, dans les 3 jours suivant le contact
-6. Professionnels sans antécédents de varicelle ou histoire douteuse:  
-  Petite enfance (crèches, collectivités) ou en santé.
+4. Attente de greffe d'organe solide (dans les 6 mois) avec sérologie négative  
+  2 doses à ≥ 1 mois d'intervalle.
+5. Vaccination post-exposition: ≥ 12 ans immunocompétent en contact avec un cas de varicelle ou de [zona]({{< relref "zona.md" >}})  
+  La vaccination doit avoir lieu dans les 3 jours suivant le contact.
+6. Professionnels de la petite enfance (crèches, collectivités) ou en santé
 
 > *Calendrier vaccinal 2021*
 
@@ -114,9 +118,10 @@ Guérison de la varicelle en 10-12 jours.
 Période de contagiosité: J-2 à J+6 de l'apparition des vésicules ou par voie respiratoire dans la phase pré-éruptive.
 
 - Contre-indication aux aspirine/AINS/corticoïdes  
-- Éviction scolaire jusqu'à guérison clinique
-  NB. N'est pas médicalement justifiée puisque la transmission s'effectue 1-2 jours avant l'éruption
-  NB2. << ne recommande pas l'exclusion des collectivités >>, mais << fréquentation n'est pas souhaitable >>
+- Éviction scolaire jusqu'au stade croûteux
+  - NB. N'est pas médicalement justifiée puisque la transmission s'effectue 1-2 jours avant l'éruption
+  - NB2. << ne recommande pas l'exclusion des collectivités >>, mais << fréquentation n'est pas souhaitable >>
+  - Éviter les personnes fragiles et les lieux publics (transports en communs, centres commerciaux, hôpitaux...)
 - Prévention des cicatrices  
   Photoprotection, ongles courts, port de gants, lutte prurit.
 - Antipyréxie paracétamol
@@ -126,14 +131,10 @@ Période de contagiosité: J-2 à J+6 de l'apparition des vésicules ou par voie
   ± crème cicatrisante.  
   ex: Chlorhexidine aqueuse stérile 0,2% 1 application x 2/j sur les lésions cutanées uniquement.
 - Anti-histaminique anti-H1
-  - Aucun disponible chez < 2 ans
-  - Loratadine (Clarityne®) sirop chez > 2 ans:  
-  < 30 kg: 5 mL 1 fois par jour (= 1 cuiller-mesure)  
-  ≥ 30 kg: 10 mL 1 fois par jour (= 2 cuiller-mesure)  
-  ≥ 12 ans: 10 mg 1cp/j  
-  - OU cétirizine (Virlix®, Zyrtec®) sirop  
-  2 à 6 ans: 2,5 mg (5 gouttes) x 2/j  
-  6 à 12 ans: 5 mg (10 gouttes) x 2/j  
+  - Aucun disponible chez < 2 ans  
+  - Cétirizine sirop  
+  2-6 ans: 2,5 mg (5 gouttes) x 2/j  
+  6-12 ans: 5 mg (10 gouttes) x 2/j  
   ≥ 12 ans: 10 mg 1cp/j
 
 **NB.** Aucun autre produit (talc, pommade, gel) ne doit être appliqué
@@ -155,12 +156,30 @@ Période de contagiosité: J-2 à J+6 de l'apparition des vésicules ou par voie
 - Varicelle chez femme enceinte dont éruption débute 10 jours avant l'accouchement
 {{%/info%}}
 
+### Traitement d'une surinfection cutanée: impétigo
+
+[Contrôler le traitement sur Antibioclic](https://antibioclic.com/strategie/91/675)
+
+- Surface < 2%  
+  Eau + savon et mupirocine 1 appli x 2-3/j pendant 5 jours
+- \> 2% ou > 6 lésions ou extension rapide ou nécrotique  
+  - Prélèvement bactériologique
+  - Antibiothérapie 7 jours: pristinamycine 1 x 3/j ou céfalexine 1-2 g x 2/j  
+  - Enfant: amoxicilline-acide clavulanique 1 dose-kg x 3/j pendant 7 jours
+
+Détersion des croûtes par vaseline x 2/j et couvrir par pansement.  
+Éviction 3 jours si non couvrables.
+
 {{% /collapse %}}
 {{%collapse "Varicelle chez la femme enceinte" %}}
 
 - Risque d'embryo-fœtopathie avant 24 SA
 - Surveillance spécialisée en centre de diagnostic anténatal
-- Survenue proche du terme: hospitalisation pour aciclovir IV ± retarder accouchement
+- Survenue proche du terme:
+  - Hospitalisation
+  - Immunoglobulines varicelle-zona
+  - Aciclovir IV
+  - ± Retarder l'accouchement
 
 ### Conduite à tenir chez une femme enceinte exposée à la varicelle
 

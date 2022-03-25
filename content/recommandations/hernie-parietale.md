@@ -1,7 +1,7 @@
 +++
 title = "Hernies pariétales: inguinales, crurales, ombilicales et de la ligne blanche"
 prefix = "les "
-titleSeo = "Hernies inguinales et autres hernies"
+titleSeo = "Hernies inguinales et crurales"
 description = "Recommandations pour la prises en charge des hernies pariétales: inguinales, crurales, ombilicales, ligne blanche. Indications à l'échographie et la chirurgie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

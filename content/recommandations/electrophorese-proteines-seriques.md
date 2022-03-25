@@ -1,7 +1,7 @@
 +++
 title = "Électrophorèse des protéines sériques et immunoglobuline monoclonale"
 prefix = "l'"
-titleSeo = "Électrophorèse des protéines sériques"
+titleSeo = "Électrophorèse des protéines"
 description = "Indications à la réalisation d'une Électrophorèse des protéines sériques. Réaliser devant des adénopathies, polyarthrite, splénomégalie, syndrome de Raynaud ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
