@@ -1,7 +1,7 @@
 +++
 title = "Benzodiazépines"
 prefix = "les "
-shortname = ""
+noindex = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-16T13:47:19+01:00"

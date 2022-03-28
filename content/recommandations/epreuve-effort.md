@@ -1,7 +1,7 @@
 +++
 title = "Épreuve d'effort"
 prefix = "l'"
-shortname = "EE"
+noindex = true
 synonyms = ["Test d'effort"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-07T19:51:41+02:00

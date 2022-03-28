@@ -69,21 +69,22 @@ title = "Recommandations Médicales"
 
 [menu]
   [[menu.main]]
-    name = "Accueil"
-    url = "/"
-    weight = 1
-  [[menu.main]]
     identifier = "recommandations"
     name = "Recommandations"
     url = "/recommandations/"
     weight = 2
   [[menu.main]]
+    identifier = "cabinet"
+    name = "Cabinet"
+    url = "/cabinet/"
+    weight = 3
+  [[menu.main]]
     identifier = "tags"
     name = "Mots-clés"
     url = "/tags/"
-    weight = 3
+    weight = 4
   [[menu.main]]
     identifier = "projet"
     name = "Projet"
     url = "/projet/"
-    weight = 4
+    weight = 5
