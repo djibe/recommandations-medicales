@@ -1,19 +1,18 @@
 +++
 title = "Endométriose"
 prefix = "l'"
-shortname = "Endométriose"
+description = "Recommandations pour le diagnostic et la prise en charge de l'endométriose. Échographie pelvienne et contraception hormonale par pilule ou stérilet progestatif"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-03T13:12:00+02:00
 publishdate = 2021-04-05
-lastmod = 2022-02-03
+lastmod = 2022-03-28
 specialites = ["gynecologie-obstetrique"]
 annees = "2017"
 sources = ["CNGOF", "HAS"]
 tags = ["contraception", "douleur pelvienne"]
 anglais = ["Endometriosis"]
 sctid = "129103003"
-draft = false
 flowchart = true
 image = true
 imageSrc = "Illustration de l'endométriose par vectorjuice / Freepik"
@@ -23,7 +22,7 @@ todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité 
 {{%article-summary%}}
 
 - Évoquer devant des [douleurs pelviennes](/tags/douleur-pelvienne/) chroniques
-- Le diagnostic est clinique
+- Le diagnostic de l'endométriose est clinique
 - Explorations seulement quand douloureuse ou avec retentissement (infertilité, qualité de vie)
 - 1<sup>re</sup> intention: examen gynécologique et échographie pelvienne
 - Étayer le diagnostic différentiel
@@ -34,13 +33,13 @@ todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité 
 {{%collapse "Définitions" %}}
 
 Endométriose
-: Atteinte pelvienne féminine fréquente (10% des femmes en âge de procréer).  
-La définition est histologique avec la présence de glandes ou stroma endométrial en dehors de l'utérus.  
+: Maladie pelvienne féminine fréquente (10% des femmes en âge de procréer) avec retentissement sur la qualité de vie des patientes.  
+La définition de la maladie est histologique avec la présence de glandes ou stroma endométrial en dehors de l'utérus.  
 Elle est pathologique lorsqu'elle entraîne des **douleurs pelviennes chroniques** ou une **infertilité**.  
-Les douleurs sont souvent améliorées pendant les grossesses et après la ménopause.
+Les douleurs sont souvent améliorées pendant les grossesses et après la [ménopause]({{< relref "menopause.md" >}}).
 : L'origine de l'endométriose est multifactorielle avec l'action de facteurs génétiques (hérédité), environnementaux et liés aux menstruations (ménarche précoce, volume important, cycles courts).  
-Il n'existe pas d'arguments pour une aggravation de l'importance et l'étendue des lésions endométriosiques avec le temps.
-: Aucune association endométriose-cancer de l'ovaire n'est prouvée.  
+Il n'existe pas d'arguments pour une aggravation de l'importance et l'étendue des lésions de la maladie endométriosiques avec le temps.
+: Aucune association endométriose - cancer de l'ovaire n'est prouvée.  
 Des complications obstructives (occlusion digestive ou urétérale) sont exceptionnelles.
 
 Endométriose superficielle
@@ -56,7 +55,8 @@ Dysménorrhée
 : Douleurs pelviennes ou dorsales menstruelles ou quelques jours avant.
 
 {{%info%}}
-Les douleurs, à savoir:
+
+### Les douleurs d'endométriose
 
 1. Une part importante des douleurs est *neuropathique* par l'atteinte des nerfs par l'endométriose  
 Ce sont des douleurs à type de coups d'aiguille ou d'étau irradiant le long des structures pelviennes.
@@ -79,6 +79,7 @@ Les AINS ne sont donc utilisés qu'en péri-menstruel.
 ### Abréviations
 
 **AMP:** assistance médicale à la procréation  
+**CNGOF:** Collège national des gynécologues et obstétriciens français  
 **COP:** contraception œstroprogestative  
 **DIU:** dispositif intra-utérin (ou stérilet)  
 **EHP-5:** échelle de qualité de vie {{%lang%}}Endometriosis Health Profile-5{{%/lang%}}  
@@ -88,11 +89,13 @@ Les AINS ne sont donc utilisés qu'en péri-menstruel.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Pas de bilan complémentaire en dysménorrhée isolée contrôlée par une contraception (sauf souhait de grossesse immédiat).{{%/info%}}
+{{%info%}}Pas de bilan complémentaire en dysménorrhée isolée contrôlée par une contraception (sauf souhait de grossesse immédiat){{%/info%}}
 
-Évoquer devant des douleurs pelviennes chroniques.
+Prise en charge lors d'une consultation dédiée.
 
 ### Interrogatoire
+
+Évoquer devant des douleurs pelviennes chroniques.
 
 - Dysménorrhées intenses
   - Douleurs pelviennes cycliques péri-menstruelles
@@ -146,18 +149,18 @@ Pas de bilan biologique.
 
 ### Échographie pelvienne
 
-Par voie sus-pubienne dans le bilan initial, pour une évaluation de l'extension des lésions.  
-L'écho a les mêmes performances que l'IRM pour le diagnostic d'endométriome.
+Échographie pelvienne par voie sus-pubienne dans le bilan initial (extension des lésions).  
+L'échographie a les mêmes performances que l'IRM pour le diagnostic d'endométriome.
 
 L'échographie endovaginale peut faire partie du bilan de 2<sup>e</sup> intention.
 
-Après la ménopause, avis gynécologique systématique en cas d'endométriome.
+Après la [ménopause]({{< relref "menopause.md" >}}), avis gynécologique systématique en cas d'endométriome.
 
 **NB.** Pas de surveillance par imagerie des patientes asymptomatiques.
 
 ### IRM pelvienne
 
-Indications:
+Indications à l'IRM pelvienne:
 
 - Symptômes d'endométriose profonde
   - Dyspareunies profondes
@@ -175,11 +178,12 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
 
 ### Mesures générales
 
+Prise en charge de l'endométriose de première intention:
+
 - Antalgie
   - Paliers 1 pendant ≥ 3 mois
-  - Paracétamol
-  - AINS en péri-menstruel uniquement  
-  Ibuprofène ou naproxène ± opioïdes si insuffisants.
+  - Paracétamol et AINS en péri-menstruel uniquement  
+    Ibuprofène ou naproxène ± opioïdes si insuffisants.
   - Éviter les AINS au long cours
   - Évaluation spécialisée en douleurs chroniques  
   Gynécologue, médecine de la douleur, sexologue, psychologue, assistant social.  
@@ -189,23 +193,25 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
   - Activité physique quotidienne avec exercices du bassin
   - Aucun régime ou supplémentation n'a de bénéfice prouvé
 - Association de patientes  
-[EndoFrance](https://www.endofrance.org/)
+  [EndoFrance](https://www.endofrance.org/)
 - Participer à la recherche  
-[ComPaRe](https://compare.aphp.fr/)
+  [ComPaRe](https://compare.aphp.fr/)
 
-### Traitements de première intention
+Mise en place en cours des [Centres experts de l'endométriose](https://www.endofrance.org/nos-actions/centres-experts-dedies-lendometriose/).
+
+### Traitements hormonaux de première intention
 
 {{%info%}}
 
-- Contraception œstroprogestative (COP)
+- [Pilule œstroprogestative]({{< relref "contraception.md" >}}) (COP)
   - Lévonorgestrel ou noréthistérone + éthinylestradiol 30 à 40 µg
   - Prise continue si aggravation dans la période d'interruption
 - DIU au lévonorgestrel 52 mg
 - Adolescente  
-COP ou microprogestative et IRM pelvienne avec avis spécialisé si échec.
+  Pilule œstroprogestative ou microprogestative. Si échec: IRM pelvienne avec avis spécialisé.
 {{%/info%}}
 
-Réévaluation sous quelques semaines pour tolérance-efficacité.
+Réévaluation des traitements sous quelques semaines pour tolérance-efficacité.
 
 **NB.** Pas de différence d'efficacité en augmentant la dose d'éthinylestradiol (EE) > 40 µg.
 
@@ -219,7 +225,7 @@ Réévaluation sous quelques semaines pour tolérance-efficacité.
 
 ### Infertilité
 
-Accompagnement par une équipe d'[Assistance Médicale à la Procréation](https://www.agence-biomedecine.fr/Autorisation-des-centres) (AMP).
+La prise en charge de l'infertilité relève d'un accompagnement par une équipe d'[Assistance Médicale à la Procréation](https://www.agence-biomedecine.fr/Autorisation-des-centres) (AMP).
 
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}
@@ -237,7 +243,7 @@ Accompagnement par une équipe d'[Assistance Médicale à la Procréation](https
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une endométriose" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion d'endométriose. Dr JB Fron d'après CNGOF/HAS 2017" >}}
+{{< mermaid title="Conduite à tenir et prise en charge d'une suspicion d'endométriose. Dr JB Fron d'après CNGOF/HAS 2017" >}}
 graph TB
   endometriose["<b>Suspicion d'endométriose</b><hr>- Dysménorrhées intenses<br>- Dyspareunies<br>- Douleurs pelviennes<br>non menstruelles<br>- Infertilité"] --> clinique("- Symptômes<br>- Évaluation du retentissement<br>(EAN, EHP-5, absentéisme)<br>- Examen gynécologique<br>- Échographie pelvienne")
   style endometriose stroke:#4150f5, stroke-width:1px

@@ -1,12 +1,12 @@
 +++
 title = "Maladie de Lyme"
 prefix = "la "
-shortname = "Maladie de Lyme"
+description = "Recommandations pour la prise en charge de la maladie de la Maladie de Lyme. Prévention de la maladie, examens diagnostiques et traitement antibiotique"
 synonyms = ["Borréliose de Lyme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-30T18:17:39+02:00"
 publishdate = "2021-10-02"
-lastmod = "2021-10-21"
+lastmod = "2022-03-28"
 specialites = ["infectiologie"]
 annees = "2019"
 sources = ["DGS", "HAS"]
@@ -51,11 +51,13 @@ Elle doit être réalisée en suspicion de *phase disséminée*.
 **LCS:** liquide cérébrospinal
 
 {{% /collapse %}}
-{{%collapse "Prévention" %}}
+{{%collapse "Prévention de la maladie" %}}
 
 [Ministère de la Santé: Maladie de Lyme et prévention des piqûres de tiques (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/maladie_de_lyme_depliant_gp.pdf) et [Santé Publique France. Prévention de la borréliose de Lyme (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/borreliose_de_lyme_rpvp_072016.pdf)
 
-- Vêtements couvrants
+Mesures de prévention de la maladie de Lyme:
+
+- Vêtements longs couvrants
   - Pantalon, inséré dans les chaussettes (voire guêtres), chemise à manche longue
   - De couleur claire pour faciliter le repérage
 - Inspection minutieuse
@@ -85,7 +87,9 @@ Moins fréquent sur la méditerranée.
 
 Le risque de borréliose de Lyme est < 5% (même en zone de forte endémie avec fixation prolongée de la tique).
 
-### Recommandations après une morsure de tique
+### Prise en charge d'une morsure de tique
+
+Prise en charge recommandée après une morsure de tique:
 
 - L'extraire le plus rapidement possible
 - Extraction mécanique avec un crochet à tique (tire-tique) ou pince fine
@@ -125,13 +129,13 @@ La découverte fortuite d'une sérologie de Lyme positive sans signes évocateur
 - Macule rose à rouge, ovalaire
 - Éclaircissement central inconstant
 - Croissance régulière centrifuge  
-Souvent > 5 cm au diagnostic.
+  Souvent > 5 cm au diagnostic.
 - Non prurigineuse
 - Plusieurs macules érythémateuses possibles  
-Surtout chez l'enfant: EM multiple.
+  Surtout chez l'enfant: EM multiple.
 - Signes généraux possibles
-- Guérit en 7-13 jours sous antibiothérapie adaptée.  
-Remettre en cause le diagnostic si persiste.
+- Guérit en 7 à 13 jours sous traitement antibiotique adapté  
+  Remettre en cause le diagnostic si persiste.
 
 Antibiothérapie sans aucun examen complémentaire.
 
@@ -140,10 +144,10 @@ Antibiothérapie sans aucun examen complémentaire.
 - Plaque ou nodule solitaire infiltré
 - Croissance lente
 - Couleur variable  
-Rose-rouge, rouge-brun.
+  Rose-rouge, rouge-brun.
 - Asymptomatique ou prurit léger
 - Localisation spécifique  
-Lobule oreille enfant, plaque aréolaire ou scrotum de l'adulte ou exceptionnellement visage, tronc ou membre.
+  Lobule oreille enfant, plaque aréolaire ou scrotum de l'adulte ou exceptionnellement visage, tronc ou membre.
 - Avis dermatologique pour biopsie cutanée
 - Sérologie *Borrelia* positive
 
@@ -156,27 +160,29 @@ Rouge sombre-violacée.
 
 ### Autres signes cliniques
 
+Autres signes cliniques et symptômes de la maladie de Lyme:
+
 - Rhumatologiques
   - Phase précoce: **arthralgies** (50-70%)
-  - Phase disséminée: monoarthrite du genou (85%) ou oligoarthrite.  
-  Quelques semaines à 2 ans après la piqûre, poussées paroxystiques avec intervalles libres.  
-  Guérison sous 5 ans même sans antibiothérapie.
+  - Phase disséminée: monoarthrite du genou (85%) ou oligoarthrite  
+    Quelques semaines à 2 ans après la piqûre, poussées paroxystiques des douleurs articulaires avec intervalles libres.  
+    Guérison sous 5 ans même sans antibiothérapie.
   - Sérologie *Borrelia*
   - Avis rhumatologique pour ponction dès suspicion
 - Cardiaques
-  - 0,3-4% des cas dans un délai de 4j-7 mois
+  - 0,3-4% des cas dans un délai de 4 jours à 7 mois
   - Sérologie *Borrelia*
   - Avis cardiologique en cas de symptômes cardiaques
   - Blocs atrio-ventriculaires surtout
   - Péricardite  
-  Réaliser une sérologie en étiologie indéterminée.
+    Réaliser une sérologie en étiologie indéterminée.
 
 ### Neuroborréliose de Lyme
 
 Présente dans 6,5-15% des borrélioses de Lyme.  
 Survient dans la phase disséminée précoce (< 6 mois, > 90% des cas).
 
-{{%info%}}Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose.{{%/info%}}
+{{%info%}}Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose{{%/info%}}
 
 Atteintes neurologiques évocatrices:
 
@@ -184,20 +190,21 @@ Atteintes neurologiques évocatrices:
   - Radiculalgies atypiques, rebelles pouvant dépasser le territoire
   - Atteinte d'un membre, tronc ou céphalique
   - Sur la localisation d'une piqûre de tique
-  - [Paralysie faciale]({{< relref "paralysie-faciale-idiopathique.md" >}}) fréquemment associée avec céphalées
+  - Paralysie faciale fréquemment associée avec céphalées
   - Antibiothérapie très efficace en quelques jours sur les douleurs
 - *[Paralysie faciale]({{< relref "paralysie-faciale-idiopathique.md" >}})* (36% des neuroborrélioses)
   - 1/3 bilatérale asynchrone
   - Surtout l'enfant
   - Sérologie *Borrelia* systématique
-- Méningites, myélites aiguës et les encéphalites, beaucoup plus rares
+- Beaucoup plus rares  
+  Méningites, myélites aiguës et encéphalites.
 
 Adresser au spécialiste du centre de compétence (CCMVT, identifié par l'ARS) pour investigations et ponction lombaire.
 
-#### Pour en savoir plus: critères diagnostiques européens
+#### Pour en savoir plus: critères diagnostiques européens de la maladie de Lyme
 
 1. Symptômes compatibles avec une neuroborréliose
-1. Pléiocytose du LCS
+1. Pléiocytose du liquide cérébro-spinal (LCS)
 1. Anticorps anti-Borrelia dans le LCS
 
 Diagnostic certain si 3 critères - possible si 2 - exclu si ≤ 1.
@@ -208,11 +215,13 @@ Diagnostic certain si 3 critères - possible si 2 - exclu si ≤ 1.
 - **Forestier:** maladie professionnelle
   - {{%class%}}Tableau 19 du régime général et 5bis du régime agricole.{{%/class%}}
   - Critères: manifestations cliniques et confirmée par sérologies
-- Les anticorps ne protègent pas contre une nouvelle infection à *B. burgdorferi*
+- Les anticorps ne protègent pas contre une nouvelle infection à *Borrelia burgdorferi*
 
 {{%info%}}Le contrôle de la guérison est clinique. Des taux élevés d'anticorps peuvent persister des années après la guérison{{%/info%}}
 
 ### Traitement de l'érythème migrant
+
+Prise en charge thérapeutique:
 
 - Antibiothérapie pendant 14 jours
 - Privilégier la doxycycline car efficace sur les neuroborrélioses
@@ -233,7 +242,7 @@ Persistance à 1 mois: observance et étude d'un diagnostic différentiel, avis 
 
 ### Traitement du lymphocytome borrélien
 
-Posologies identiques.  
+Prise en charge avec des posologies identiques.  
 Antibiothérapie pendant 21 jours sauf enfant < 8 ans avec l'azithromycine: 10 jours.
 
 Traitement par l'infectiologue des autres formes de borréliose.
@@ -241,8 +250,8 @@ Traitement par l'infectiologue des autres formes de borréliose.
 {{% /collapse %}}
 {{%sources%}}
 
-- [Gocko X. et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. Volume 49. Issue 5. 2019. Pages 296-317.](https://doi.org/10.1016/j.medmal.2019.05.006)
-- [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques. Recommandation de bonne pratique. Juin 2018.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques)
+- [Gocko X. et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X19306201)
+- [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques. Recommandations de bonne pratique. Juin 2018.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques)
 
 ### À lire
 

@@ -115,7 +115,7 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
 - Facteur rhumatoïde (FR)
 - Anticorps anti-peptide citrulliné (*ACPA* ou *anti-CCP*)
 - Anticorps antinucléaires (AAN)
-- Sérologies [hépatites B]({{< relref "hepatite-c.md" >}} ) et [C]({{< relref "hepatite-c.md">}}), VIH
+- Sérologies [hépatites B]({{< relref "hepatite-c.md" >}}) et [C]({{< relref "hepatite-c.md">}}), VIH
 - Radiographies
   - Mains et poignets de face
   - Avants-pieds face et 3/4 en grandeur normale

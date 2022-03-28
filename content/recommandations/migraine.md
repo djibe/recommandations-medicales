@@ -199,7 +199,7 @@ Familiaux, autres douleurs...
   Reconsulter lorsque traitement pris ≥ 2 jours/semaine depuis ≥ 3 mois.
   - Qualité de vie: {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}}  
   Reprendre à chaque consultation.
-- Femme: désir de grossesse, contraception, ménopause
+- Femme: désir de grossesse, [contraception]({{< relref "contraception.md" >}}), [ménopause]({{< relref "menopause.md" >}})
 
 ### Examen clinique
 

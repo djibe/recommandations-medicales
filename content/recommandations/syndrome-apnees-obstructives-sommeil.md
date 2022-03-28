@@ -78,7 +78,7 @@ Hypersomnie
 - Homme
 - Âge
 - Cou large (≥ 43 cm homme - 41 cm femme)
-- Ménopause
+- [Ménopause]({{< relref "menopause.md" >}})
 - Maladies des tissus mous
 - Trisomie 21
 - Volumineuses végétations adénoïdes ou amygdales

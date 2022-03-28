@@ -1,6 +1,6 @@
 +++
-title = "Participation aux dépistages des cancers"
-description = "Taux de participation des français au dépistage généralisé des cancers: mammographies, frottis du cols de l'utérus et test immunologique fécal"
+title = "Participation au dépistage des cancers"
+description = "Taux de participation des français au dépistage organisé des cancers: mammographies, frottis du cols de l'utérus et test immunologique fécal"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-08-15T19:54:00+02:00
 publishdate = 2021-08-18
@@ -12,19 +12,20 @@ draft = false
 chart = true
 image = false
 imageSrc = ""
+todo = "### Le dépistage organisé des cancers | Trois cancers bénéficient en France d'un dépistage organisé par l'Institut National du Cancer (InCa) et remboursés à 100% par l'Assurance Maladie. Deux dépistages concernent les femmes. KEY x10: dépistage du cancer | x3: cancer du sein, mammographie de dépistage, dépistage organisé, participation au dépistage, assurance maladie, décès par cancer, dépistage individuel, données, facteurs de risque, programme de dépistage | x1: ATCD personnel de cancer, avance de frais, consultation d'oncogénétique, courrier d'invitation, prise en charge thérapeutique, tranches d'âge"
 +++
 
 ### Résumé
 
-Plusieurs cancers bénéficient en France d'un dépistage généralisé. Il s'agit de cancers fréquents et graves du sein, du col de l'utérus et colorectal.
+Plusieurs cancers bénéficient en France d'un dépistage généralisé. Il s'agit de cancers fréquents et graves, le cancer du sein, du col de l'utérus et colorectal.
 
 Pourtant plus le cancer tue, moins les français participent à sa prévention.  
 Ainsi, le cancer colorectal, responsable de 17.000 décès annuels n'est recherché que par 35% des français.  
-Le taux de participation maximal, qui atteint 59%, concerne le cancer du col de l'utérus, responsable pour sa part de 1100 décès annuels.
+Le taux de participation au dépistage maximal, qui atteint 59%, concerne le cancer du col de l'utérus, responsable pour sa part de 1100 décès annuels.
 
 Pour tous les dépistages, les taux de participation restent très en-dessous des attentes de santé publique.
 
-### Graphique de la participation aux dépistages des cancers
+### Graphique de la participation au dépistage organisé des cancers et décès par cancer
 
 <figure>
   <div id="chart" class="border alert mb-4"></div>

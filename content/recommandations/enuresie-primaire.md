@@ -94,20 +94,20 @@ Fréquence, horaire, circonstances des épisodes.
 - Bandelette urinaire
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'énurésie" %}}
 
 ### Éducation et mesures hygiéno-diétetiques
 
 Seul traitement première intention (20% de guérison).
 
 - Apports liquidiens suffisants en début de journée  
-1/3 des besoins quotidiens.
+  1/3 des besoins quotidiens.
 - Rappel des besoins des enfants  
-45-60 mL/kg/j à boire entre 7 et **18h**.
+  45-60 mL/kg/j à boire entre 7 et **18h**.
 - Diminution/suppression des apports salés et hyperosmolaires le soir  
-Boissons sucrées ou gazeuses, laitages.
+  Boissons sucrées ou gazeuses, laitages.
 - Mictions régulières complètes  
-5-6/jour avec au lever ET avant le coucher.
+  5-6/jour avec au lever ET avant le coucher.
 - Ne pas se retenir, ne pas se forcer
 - Clarifier l'objectif de se lever la nuit et d'utiliser les toilettes, faciliter l'accès aux toilettes
 - Rassurer et déculpabiliser l'enfant voire proposer un soutien psychologique
@@ -121,17 +121,16 @@ Boissons sucrées ou gazeuses, laitages.
 
 Adresser à l'urologue.
 
-#### Pour en savoir plus: traitements médicamenteux
+#### Pour en savoir plus: traitements médicamenteux de l'énurésie
 
 - Si polyurie nocturne  
-Desmopressine cp 0,2 mg ou lyophilisat 120 µg (succès 60-70%)
+  Desmopressine cp 0,2 mg ou lyophilisat 120 µg (succès 60-70%)
 - Si petite capacité vésicale  
-Alarme nocturne systématique (succès 60-80% si ≥ 3 mois).  
-Associer avec suivi comportemental et soutien motivationnel.
-
-- Si échec et suspicion de faible capacité vésicale  
-Oxybutynine en monothérapie
-- Si échec en monothérapie  
+  Alarme nocturne systématique (succès 60-80% si ≥ 3 mois).  
+  Associer avec suivi comportemental et soutien motivationnel.
+- Échec et suspicion de faible capacité vésicale  
+  Oxybutynine en monothérapie
+- Échec en monothérapie  
   - Desmopressine et alarme
   - OU desmopressine et oxybutynine
   - OU alarme et oxybutynine
@@ -143,7 +142,7 @@ Oxybutynine en monothérapie
 {{%sources%}}
 
 - Prescrire Redaction. Patients ayant une énurésie nocturne. Janvier 2021.
-- Prescrire Redaction. Énurésie isolée des enfants. Revue Prescrire 2019.
-- [Aubert D. et al. Énurésie nocturne primaire isolée : diagnostic et prise en charge. Progrès en Urologie. Volume 20. Issue 5. 2010. Pages 343-349. (PDF)](https://afpa.org/content/uploads/2017/09/main.pdf)
+- Prescrire Redaction. Énurésie isolée des enfants. 2019.
+- [Aubert D. et al. Énurésie nocturne primaire isolée : diagnostic et prise en charge. Progrès en Urologie. 2010. (PDF)](https://afpa.org/content/uploads/2017/09/main.pdf)
 
 {{%/sources%}}

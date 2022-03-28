@@ -13,7 +13,7 @@ tags = []
 chart = true
 image = false
 imageSrc = ""
-todo = "cadres, temps travail, cotisations"
+todo = "cadres, temps travail, cotisations | KEY x3: consultations, médecin, médecins généralistes, consultation médicale, médecin traitant, tiers payant, augmentation des tarifs réglementés, assurance maladie, assurés, euro par consultation, patients | x1: prix d'une consultation, consultations chez le médecin, prix d'une visite, montant, médecine générale, sécurité sociale, revalorisation, évolution des prix, consultation classique, "
 +++
 
 ## Résumé

@@ -20,7 +20,7 @@ slider = true
 flowchart = true
 image = true
 imageSrc = "Illustration de la BPCO par Freepik"
-todo = "`Tableau 2 SPLF 2021, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24, ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, remboursement RR, flow p.46, travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, fonctionnement et critères mini-spiromètre, relecture maeva.zysman@chu-bordeaux.fr"
+todo = "Tableau 2 SPLF 2021, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24, ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, remboursement RR, flow p.46, travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, fonctionnement et critères mini-spiromètre, relecture maeva.zysman@chu-bordeaux.fr"
 +++
 
 {{%article-summary%}}
@@ -156,7 +156,7 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
   - Cancers liés au tabac (VADS, vessie, digestifs)
   - Dépression, anxiété, addictions, troubles cognitifs
   - [Ostéoporose]({{< relref "osteoporose.md" >}}) et amyotrophie
-  - Obésité, [dénutrition]({{< relref "denutrition.md" >}} ), anémie et polyglobulie
+  - Obésité, [dénutrition]({{< relref "denutrition.md" >}}), anémie et polyglobulie
   - [Apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), dilatation des bronches
   - [RGO]({{< relref "reflux-gastro-oesophagien.md" >}})
 - Antécédents familiaux  
@@ -190,7 +190,7 @@ Autres causes de toux et dyspnée chronique d'origine thoracique:
 - Cancer du poumon
 - [Tuberculose]({{< relref "tuberculose.md" >}})
 - Dilatation des bronches et emphysème pulmonaire
-- [Insuffisance cardiaque chronique]({{< relref "insuffisance-cardiaque-chronique.md" >}} )
+- [Insuffisance cardiaque chronique]({{< relref "insuffisance-cardiaque-chronique.md" >}})
 - Pneumopathie interstitielle
 - Mucoviscidose
 - Idiopathique

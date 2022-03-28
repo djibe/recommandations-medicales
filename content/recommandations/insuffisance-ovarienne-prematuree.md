@@ -29,7 +29,7 @@ todo = "tabac, Anticorps anti-surrénaliens, Turner, ESHRE"
 - THS à démarrer rapidement pour réduire le risque cardiovasculaire et fracturaire
 - Le THS pour les IOP spontanées (non iatrogènes) n'augmente pas le risque de cancer du sein (*HAS 2021*)
 
-Article lié: [Ménopause et THM]({{< relref "menopause.md" >}})
+Article lié: [Ménopause et traitement hormonal]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -167,7 +167,7 @@ Voir les [indications au traitement selon T-score et FRAX]({{< relref "osteoporo
   - ou THS, voir [Spécialités disponibles pour le THM]({{< relref "menopause.md#spécialités-disponibles-pour-le-thm" >}})
   - Préférer le schéma combiné discontinu (afin de détecter une aménorrhée/grossesse), mais au choix de la patiente
   - Test de grossesse en l'absence d'hémorragie de privation
-- Traitement des troubles sexuels (voir *Ménopause*)  
+- Traitement des troubles sexuels (voir *[Ménopause]({{< relref "menopause.md" >}})*)  
   Notamment ovule/gel estrogénique vaginal.
 - Aborder la contraception (risque 4-6%)
 - Projet parental: suivi AMP sans délai
@@ -199,7 +199,7 @@ Avis hématologique avant THS en cas d'antécédent. Si autorisé, œstradiol tr
 Ne sont pas une contre-indication au THS.
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir en suspicion de ménopause précoce" "show" %}}
+{{%collapse "Conduite à tenir et prise en charge d'un suspicion de ménopause précoce" "show" %}}
 
 {{< mermaid title="Conduite à tenir pour le diagnostic de l'insuffisance ovarienne prématurée. Dr JB Fron d'après HAS 2021 et Cox et Liu 2014" >}}
 graph TB

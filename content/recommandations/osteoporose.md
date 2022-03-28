@@ -48,7 +48,7 @@ Voir aussi: [Traitement hormonal de la ménopause]({{< relref "menopause.md" >}}
 
 Ostéoporose
 : Maladie osseuse associant une diminution de la densité minérale osseuse (DMO) et des modifications de sa micro-architecture. Elle atteint particulièrement les femmes âgées.
-: Diagnostic radiologique chez la femme ménopausée ou l'homme +50 ans si T-score ≤ -2,5 DS au col fémoral, hanche totale ou vertébral (*ISCD 2015*).
+: Diagnostic radiologique de l'ostéoporose chez la femme ménopausée ou l'homme +50 ans si T-score ≤ -2,5 DS au col fémoral, hanche totale ou vertébral (*ISCD 2015*).
 
 Fracture ostéoporotique (ou de fragilité)
 : Fracture survenant à la suite d'un traumatisme de faible énergie (ex. de sa hauteur en marchant). Elle atteint surtout la femme (3/4) et constitue la gravité de la maladie ostéoporotique.
@@ -61,7 +61,7 @@ Fracture de fragilité sévère
 : Fracture associée à une surmortalité: {{< clinique/osteoporose-fracture-severe >}}.
 
 FRAX®
-: Score de probabilité à 10 ans de FESF et des {{< modal-btn modal-fracture-severe >}}fractures majeures{{< /modal-btn >}} développé par l'OMS. Validé en France en cas de ménopause.
+: Score de probabilité à 10 ans de fracture de l'extrémité supérieure du fémur (FESF) et des {{< modal-btn modal-fracture-severe >}}fractures majeures{{< /modal-btn >}} développé par l'OMS. Validé en France en cas de ménopause.
 
 ### Facteurs de risque de fracture
 
@@ -76,10 +76,11 @@ FRAX®
 **DMO:** densité minérale osseuse  
 **DS:** déviation standard  
 **DXA:** ostéodensitométrie par absorptiométrie biphotonique à rayons X  
-**ESF:** extrémité supérieure du fémur  
+**ESF:** extrémité supérieure du fémur (dont col du fémur ou trochanter)  
 **FESF:** fracture de l'extrémité supérieure du fémur  
 **FRAX®:** {{%lang%}}Fracture Risk Assessment Tool{{%/lang%}} (*OMS*)  
 **GRIO:** Groupe de Recherche et d'Information sur les Ostéoporoses  
+**HAS:** Haute Autorité de Santé  
 **IOF:** {{%lang%}}International Osteoporosis Foundation{{%/lang%}}  
 **THM:** traitement hormonal de la ménopause
 
@@ -299,9 +300,9 @@ $(function () {
 
 ### Mesures de prévention de l'ostéoporose
 
-Tout au long de la vie: activité physique, apports vitamino-calciques.
+Tout au long de la vie: activité physique adaptée, apports vitamino-calciques.
 
-- Arrêt tabac + alcool
+- Sevrage tabagique + alcool
 - Soins bucco-dentaires ≥ 1/an (et avant traitement)  
 {{%class%}}Débuter le traitement si risque élevé de fracture à court terme.{{%/class%}}
 - Évaluation gériatrique si {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} ou fragilité
@@ -313,7 +314,7 @@ Tout au long de la vie: activité physique, apports vitamino-calciques.
   - ≥ 2 j/semaine
   - Supervisée ++
 - Vitamine D
-  - Cible ≥ 75 nmol/L
+  - Prévenir une carence en vitamine D par cible ≥ 75 nmol/L
   - Dose d'entretien: 800-1200 UI/j (ou 80-100.000 UI/2-3 mois)
   - Voir *[Vitamine D]({{< relref "vitamine-d.md" >}})* pour les protocoles de correction
 - Calcium
@@ -330,6 +331,8 @@ Tout au long de la vie: activité physique, apports vitamino-calciques.
 {{%info%}}
 
 ### Indications au traitement de l'ostéoporose
+
+La prise en charge médicamenteuse de l'ostéoporose est recommandée dans les situations suivantes:
 
 - Antécédent de {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} avec T-score ≤ -1  
 Avis rhumatologique si T-score > -1.
@@ -429,7 +432,7 @@ window.addEventListener('load', function() {
 
 **NB.** Chez l'homme, ont l'AMM: alendronate, risédronate, zolédronate et le tériparatide.
 
-### Remarques sur les traitements
+### Remarques sur les médicaments de l'ostéoporose
 
 - Dosage des CTX sériques possible entre 3 et 12 mois (marqueurs de la résorption osseuse)
   - Le matin à jeun à ≥ 6 mois d'une fracture
@@ -471,7 +474,7 @@ Si perte de taille ≥ 2 cm au cours du suivi ou rachialgies.
 
 ### Arrêt du traitement anti-ostéoporotique
 
-Envisager si les conditions sont remplies:
+Envisager la suspension de la prise en charge par médicaments de l'ostéoporose si les conditions sont remplies:
 
 - Absence de fracture sous traitement
 - Pas de nouveaux facteurs de risque de fracture

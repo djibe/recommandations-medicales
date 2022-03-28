@@ -29,7 +29,7 @@ TODO:
 Varicelle
 : Maladie infectieuse à VZV virus bénigne uniquement chez les enfants immunocompétents mais extrêmement contagieuse.
 : Formes graves chez les immunodéprimés, nouveaux-nés et risque d'embryo-fœtopathie avant 24 SA. Fréquemment compliquée chez les adultes.  
-Transmission respiratoire par gouttelettes. L'immunité naturelle est quasi définitive. Possible survenue de [zona]({{< relref "zona.md" >}} ) après des années.
+Transmission respiratoire par gouttelettes. L'immunité naturelle est quasi définitive. Possible survenue de [zona]({{< relref "zona.md" >}}) après des années.
 
 ### Complications de la varicelle
 

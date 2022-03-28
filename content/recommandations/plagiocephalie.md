@@ -22,16 +22,16 @@ imageSrc = ""
 - N'entraîne pas de retard neuro-développemental
 - Vérifier les sutures et amplitudes des mouvements, rechercher dysmorphies et syndromes
 - Prévention: inverser tous les jours le sens tête - pieds, coucher sur le dos dans une position contraire à sa préférence, augmenter le temps d'éveil passé en décubitus ventral
-- Kiné voire avis spécialisé si important ou sans amélioration
+- Kinésithérapie voire prise en charge spécialisée pluri-disciplinaire si déformations importantes ou sans amélioration
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Plagiocéphalie
-: Asymétrie crânienne par appui prolongé, décrite souvent comme un parallélogramme.
+: Asymétrie crânienne par appui prolongé (appui de la partie arrière du crâne), décrite souvent comme un parallélogramme.
 : La **plagiocéphalie positionnelle** (PP) est de type postérieure non synostotique (absence de synostose des sutures). On parle de **déformations crâniennes positionnelles** (DCP).
 : Elle n'entraîne pas de retard neuro-développemental du bébé.
-: Prévalence élevée: 16% à 6 semaines, 20% à 4 mois. La majorité est résorbée à 2 ans.
+: Prévalence élevée dès les premiers mois de vie: 16% à 6 semaines, 20% à 4 mois. La majorité est résorbée à 2 ans.
 
 ### Facteurs de risque de plagiocéphalie
 
@@ -42,12 +42,13 @@ Plagiocéphalie
 - Allaitement artificiel exclusif
 - Périodes d'éveil sur le ventre < 3 fois par jour
 - Taux d'activité limité
-- Autres: préférence positionnelle pendant le sommeil, position fixe dans le lit
+- Autres: position préférentielle pendant le sommeil, position fixe dans le lit
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic clinique suffit pour poser le diagnostic et rechercher des facteurs aggravants.
+Le diagnostic est clinique.  
+L'examen clinique recherche des facteurs aggravants.
 
 - Interrogatoire sur les facteurs de risque et le couchage
 - Rechercher **dysmorphies et syndromes** (examen neuromoteur complet)  
@@ -89,11 +90,11 @@ Recommandations générales pour la prise en charge de la plagiocéphalie:
 
 - Mesure de prévention de la mort inattendue du nourrisson
 - Thérapie de positions (voir *Prévention*)  
-  Référence chez nourrissons ≤ 4 mois avec asymétrie légère à modérée.
+  Traitement de référence chez nourrissons ≤ 4 mois avec asymétrie légère à modérée.
 - Kinésithérapie à orientation pédiatrique  
   Positions, exercices.
 - Thérapie par moulage (port du casque)  
-  En cas de d'asymétrie grave, envisageable chez le < 8 mois, sur avis spécialisé, port 23 h/jour.
+  En cas de d'asymétrie grave en l'absence d'amélioration, envisageable chez le < 8 mois, sur avis spécialisé, port 23 h/jour.
 
 ### Traitement chirurgical
 
@@ -102,7 +103,7 @@ Prise en charge chirurgicale en cas de craniosynostose confirmée.
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS, CNP. Prévention des déformations crâniennes positionnelles et mort inattendue du nourrisson. Février 2020.](https://www.has-sante.fr/jcms/p_3151574/fr/prevention-des-deformations-craniennes-positionnelles-dcp-et-mort-inattendue-du-nourrisson)
+- [HAS (Haute Autorité de Santé), CNP. Prévention des déformations crâniennes positionnelles et mort inattendue du nourrisson. Février 2020.](https://www.has-sante.fr/jcms/p_3151574/fr/prevention-des-deformations-craniennes-positionnelles-dcp-et-mort-inattendue-du-nourrisson)
 - [Société Canadienne de Pédiatrie. La plagiocéphalie positionnelle. Octobre 2011.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3202395/)
 
 {{%/sources%}}

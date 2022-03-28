@@ -213,7 +213,7 @@ Le bilan biologique est annuel.
 - Sérologie VIH si expositions à risque
 - Consultation ORL
 - Consultation dentaire
-- Troubles neurologiques: bilan de [dénutrition]({{< relref "denutrition.md" >}} ) et carences (B1 ++)
+- Troubles neurologiques: bilan de [dénutrition]({{< relref "denutrition.md" >}}) et carences (B1 ++)
 
 ### Maladie alcoolique du foie (MAF)
 

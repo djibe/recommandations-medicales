@@ -489,7 +489,7 @@ Chez l'homme: recommander le préservatif avec les nouvelles thérapies.
 
 {{%warning%}}Après un cancer du sein, toutes les contraceptions hormonales sont contre-indiquées{{%/warning%}}
 
-Une contraception doit être systématiquement envisagée en l'absence de ménopause.
+Une contraception doit être systématiquement envisagée en l'absence de [ménopause]({{< relref "menopause.md" >}}).
 
 - Cancer du sein  
 Contraception non hormonale par DIU cuivre privilégiée.

@@ -1,7 +1,7 @@
 +++
 title = "Électrophorèse des protéines sériques et immunoglobuline monoclonale"
 prefix = "l'"
-titleSeo = "Électrophorèse des protéines"
+titleSeo = "Électrophorèse et immunoglobuline monoclonale"
 description = "Indications à la réalisation d'une Électrophorèse des protéines sériques. Réaliser devant des adénopathies, polyarthrite, splénomégalie, syndrome de Raynaud ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
@@ -59,7 +59,7 @@ Indications à l'EPS:
 - Certaines anomalies osseuses radiologiques  
 Fracture vertébrale suspecte, fracture pathologique, géodes.
 - [Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}) (*COFER*)
-- [Bouffées vasomotrices atypiques]({{< relref "menopause.md" >}} ) (*CNGOF 2021 Ménopause*)
+- [Bouffées vasomotrices atypiques]({{< relref "menopause.md" >}}) (*CNGOF 2021 Ménopause*)
 
 > *HAS 2017*
 

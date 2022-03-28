@@ -46,7 +46,7 @@ Elle peut survenir à tout âge, prédomine chez la femme et la majorité des pa
 
 ### Complications de la maladie cœliaque
 
-- **Carences en micronutriments, [fer]({{< relref "anemie.md" >}} ), vitamine B9 et B12**
+- **Carences en micronutriments, [fer]({{< relref "anemie.md" >}}), vitamine B9 et B12**
 - Lymphome digestif
 - Surrisque de maladies auto-immunes
 - Altération de la qualité de vie
@@ -101,7 +101,7 @@ ou maladie de Basedow
 - Ostéopénie, [ostéoporose]({{< relref "osteoporose.md" >}})
 - Ataxie ou neuropathie périphérique inexpliquée
 - Aphtes récurrents ou défauts de l'émail dentaire
-- Infertilité, fausses couches répétées, règles tardives, ménopause précoce
+- Infertilité, fausses couches répétées, règles tardives, [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
 - Syndrome de fatigue chronique
 - Pancréatite aiguë ou chronique en l'absence d'autres facteur causal
 - Épilepsie

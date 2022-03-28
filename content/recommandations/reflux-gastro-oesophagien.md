@@ -91,7 +91,7 @@ Aggravation allongé, penché en avant et en post-prandial.
 {{%/collapse%}}
 {{%collapse "Diagnostic différentiel" %}}
 
-- [Dyspepsie]({{< relref "dyspepsie.md" >}} )
+- [Dyspepsie]({{< relref "dyspepsie.md" >}})
 - Cancer de l'estomac
 - Ulcère gastrique ou duodénal
 - Sténose peptique de l'œsophage

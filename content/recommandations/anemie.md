@@ -202,7 +202,7 @@ Sauf si délai de coloscopie de 2 semaines (coloration des selles).
 - Elle peut être poursuivie au long cours sur conseil de l'hématologue
 - Elle est quasi-impossible à obtenir par des seuls apports alimentaires  
 Boudin noir, Moules, seiche, lentilles, soja, épinards, raison sec ([Anses. Tables Ciqual](https://ciqual.anses.fr/#/constituants/10260/fer-(mg-100-g)))
-- La supplémentation en [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}} ) ou rénale est spécifique
+- La supplémentation en [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ou rénale est spécifique
 - La voie orale est inefficace dans les MICI (TODO: *SOURCE*)
 
 {{% /collapse %}}
