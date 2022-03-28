@@ -2,6 +2,7 @@
 title = "Syndrome du canal carpien"
 prefix = "le "
 titleSeo = "Syndrome du canal carpien"
+description = "Recommandations pour le diagnostic et la prise en charge du canal carpien. Atteinte des premiers doigts avec douleurs nocturnes. Place d'EMG et de la chirurgie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-14T18:30:29+02:00

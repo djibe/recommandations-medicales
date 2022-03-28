@@ -2,7 +2,7 @@
 title = "Phénomène de Raynaud"
 prefix = "le "
 titleSeo = "Syndrome de Raynaud"
-shortname = "Raynaud"
+description = "Recommandations pour le traitement et la prise en charge du Phénomène de Raynaud. Examen clinique et bilan étiologique systématique électrophorèse des protéines"
 synonyms = ["Maladie de Raynaud", "syndrome de Raynaud"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-04T10:57:00+02:00
@@ -16,7 +16,7 @@ anglais = ["Raynaud's phenomenon"]
 sctid = "266261006"
 flowchart = true
 image = true
-imageSrc = "Tcal via wikipedia, CC BY-SA 3.0"
+imageSrc = "Photos du syndrome de Raynaud par Tcal via wikipedia, CC BY-SA 3.0"
 todo = "lire https://www.em-consulte.com/article/833156/article/bilan-etiologique-minimal-du-phenomene-de-raynaud%C2%A0"
 +++
 
@@ -25,7 +25,7 @@ todo = "lire https://www.em-consulte.com/article/833156/article/bilan-etiologiqu
 - 10% sont secondaires à une maladie de système
 - Forme idiopathique = maladie de Raynaud
 - Interrogatoire et examen +++
-- Bilan systématique
+- Bilan biologique systématique
 - Avis de l'interniste au moindre doute
 - Mesures d'hygiène pour tous voire nifédipine LP
 
@@ -71,15 +71,15 @@ Diagnostic d'interrogatoire: acrosyndrome constitué d'épisodes paroxystiques d
 ### Interrogatoire
 
 - Antécédents personnels  
-[Canal carpien]({{< relref "canal-carpien.md" >}}), syndrome du défilé thoracique, thromboses.
+  [Canal carpien]({{< relref "canal-carpien.md" >}}), syndrome du défilé thoracique, thromboses.
 - Antécédents familiaux  
-Raynaud, autres.
+  Raynaud, autres.
 - Traitements  
-Bêtabloquants (dont oculaire) et œstrogènes, nicotine, dérivés ergot, cytotoxiques, triptans, interférons, clonidine.
+  Bêtabloquants (dont oculaire) et œstrogènes, nicotine, dérivés ergot, cytotoxiques, triptans, interférons, clonidine.
 - Toxiques  
-Tabac, cannabis, cocaïne.
+  Tabac, cannabis, cocaïne.
 - Profession et activités  
-Exposition aux vibrations, mouvements répétitifs, karaté, handball.
+  Exposition aux vibrations, mouvements répétitifs, karaté, handball.
 - Symptômes
   - Âge de début
   - Ancienneté
@@ -111,11 +111,11 @@ Recherche une cause secondaire au phénomène de Raynaud:
 1. Lupus
 1. [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}})
 1. Cryoglobulinémie  
-Ischémie digitale, purpura, neuropathie périphérique, atteinte rénale.
+  Ischémie digitale, purpura, neuropathie périphérique, atteinte rénale.
 1. Canal carpien ou pathologie cervico-thoracique  
-Examen neurologique des membres supérieurs.
+  Examen neurologique des membres supérieurs.
 1. Vasculaire  
-Souvent homme fumeur avec caractère unilatéral ou asymétrique. Pouls et souffle sous-clavier.
+  Souvent homme fumeur avec caractère unilatéral ou asymétrique. Pouls et souffle sous-clavier.
 
 ### Tableau en faveur d'origine bénigne
 
@@ -153,7 +153,7 @@ Nécessité de surveillance et de bilan complémentaire.
   - Extrémités rouges, chaudes, douloureuses
   - Étiologie: idiopathique, syndrome myéloprolifératif ou traitement vasodilatateur
 - Engelures  
-Temps froid et humide, terrain familial et féminin, évoluant sur quelques semaines avec poussées successives de papules violacées ± œdémateuses, douloureuses ou prurigineuses en face dorsale des doigts/orteils.
+  Temps froid et humide, terrain familial et féminin, évoluant sur quelques semaines avec poussées successives de papules violacées ± œdémateuses, douloureuses ou prurigineuses en face dorsale des doigts/orteils.
 - Algodystrophie
 - [Syndrome du canal carpien]({{< relref "canal-carpien.md" >}})
 - Syndrome du défilé thoracique (compression nerveuse)
@@ -175,7 +175,7 @@ Sinon, adresser à l'interniste.
 - Facteur rhumatoïde
 - Électrophorèse des protéines sériques
 
-> Le COFER
+> *Le COFER*
 
 {{%/info%}}
 
@@ -191,23 +191,25 @@ En signes de maladie systémique:
 - Radiographie des mains, pieds et thorax
 - Echodoppler des artères des membres supérieurs
 - Capillaroscopie  
-Par l'angiologue: recherche une micro-angiopathie spécifique débutante de sclérodermie.
+  Par l'angiologue: recherche une micro-angiopathie spécifique débutante de sclérodermie.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du phénomène de Raynaud" %}}
+
+Mesures générales de la prise en charge:
 
 - Mesures d'hygiène pour limiter les crises
   - Arrêt du tabac
   - Arrêt des médicaments vasoconstricteurs  
-  Déclaration en pharmacovigilance.
+    Déclaration en pharmacovigilance.
   - Lutte contre le froid et l'humidité  
-  Moufles et chaufferettes, chaussettes, vêtements chauds.
+    Moufles et chaufferettes, chaussettes, vêtements chauds.
   - Éviter les facteurs déclenchants
   - En crise: réchauffer les mains
 - Raynaud primitif gênant  
-[Nifédipine LP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66932763&typedoc=R) 30 mg 1 à 2 cp en 1 prise quotidienne.
+  [Nifédipine LP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66932763&typedoc=R) 30 mg 1 à 2 cp en 1 prise quotidienne.
 - Raynaud secondaire  
-Suivi par l'interniste.
+  Suivi par l'interniste.
 - Reconnaissance en maladie professionnelle possible
 
 {{% /collapse %}}

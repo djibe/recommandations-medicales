@@ -2,12 +2,13 @@
 title = "Infection par le VIH et SIDA"
 prefix = "l'"
 titleSeo = "VIH et SIDA"
-synonyms = ["Virus de l'immunodéficience humaine"]
+description = "Recommandations pour le dépistage et le bilan initial d'une infection VIH ou SIDA. PCR, sérologie, vaccinations, rythme des dépistages et suivi infectiologue"
+synonyms = ["Virus de l'immunodéficience humaine", "prise en charge du VIH"]
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CAZANAVE (CMIT)"
 date = 2021-01-16T22:06:00+02:00
 publishdate = 2021-01-16
-lastmod = 2022-02-03
+lastmod = 2022-03-28
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["CNS", "HAS"]
@@ -16,7 +17,7 @@ anglais = ["Human immunodeficiency virus infection"]
 sctid = "86406008"
 image = true
 imageSrc = "Photo de NIAID sur Foter.com"
-todo = "relecture CNS, TPE, https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih, depistage DT2, info transmission/guérison, https://www.aides.org/prep"
+todo = "relecture CNS, TPE, https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, depistage DT2, info transmission/guérison, https://www.aides.org/prep"
 +++
 
 {{%article-summary%}}
@@ -55,34 +56,34 @@ Délai contamination-Sida d'environ **10 ans**.
 **UDI:** usager de drogues par injection  
 **VIH:** virus de l'immunodéficience humaine
 
-### Épidémiologie
+### Personnes à risque de contamination VIH
 
-### Le VIH en France
+- Hommes  
+  70% des nouveaux diagnostics (dont 2/3 d'HSH).
+- [HSH]({{< relref "hsh.md" >}})  
+  45% des nouvelles infections détectées en 2013.  
+  {{%class%}}L'incidence du VIH est est 200x celle observée dans la population comparable en métropole.{{%/class%}}
+- Usagers de drogues par injection (UDI)  
+  Incidence x20 par rapport à la population.
+- Personne originaire d'Afrique subsaharienne et Caraïbes  
+  Respectivement 23% et 16% des infections détectées concernaient des femmes (incidence x70) et hommes hétérosexuels (incidence x30) nés hors de France et principalement originaires d'Afrique subsaharienne (données 2013).
+
+### Épidémiologie des infections à VIH
+
+#### Le VIH en France
 
 - 165.000 personnes infectées
 - **Non diagnostiquées:** 24 800 personnes (2013)  
-70% d'hommes (2x moins de dépistage chez les hommes).  
-+50% vivraient dans les 3 régions à risque (voir plus bas).
+  70% d'hommes (2x moins de dépistage chez les hommes).  
+  +50% vivraient dans les 3 régions à risque (voir plus bas).
 - **Incidence:** 6200 nouveaux cas par an (25-49 ans surtout)
 - **Stade de la maladie au diagnostic:** 29% au stade tardif  
-{{%class%}}SIDA ou taux de CD4 ≤ 200/mm³.{{%/class%}}  
-Surtout chez UDI (55%) et hétérosexuels (né en France ou non).  
+  {{%class%}}SIDA ou taux de CD4 ≤ 200/mm³.{{%/class%}}  
+  Surtout chez UDI (55%) et hétérosexuels (né en France ou non).  
 - **Délai entre infection et diagnostic:** ~3 ans
-- **Régions concernées:** 50% des diagnostics sont faits dans 3 régions  
-Ile-de-France et PACA surtout, puis Rhône-Alpes.
-- DROM: très haute incidence et malades non diagnostiqués en Guyane, Guadeloupe et Martinique.
-
-### Populations à risque
-
-- Hommes  
-70% des nouveaux diagnostics (dont 2/3 d'HSH).
-- HSH  
-45% des nouvelles infections détectées en 2013.  
-{{%class%}}L'incidence du VIH est est 200x celle observée dans la population comparable en métropole.{{%/class%}}
-- Usagers de drogues par injection (UDI)  
-Incidence x20 par rapport à la population.
-- Personne originaire d'Afrique subsaharienne et Caraïbes  
-Respectivement 23% et 16% des infections détectées concernaient des femmes (incidence x70) et hommes hétérosexuels (incidence x30) nés hors de France et principalement originaires d'Afrique subsaharienne (données 2013).
+- **Régions concernées:** 50% des diagnostics sont faits dans 3 régions
+  - Métropole: Ile-de-France et PACA surtout, puis Rhône-Alpes
+  - DROM: très haute incidence et malades non diagnostiqués en Guyane, Guadeloupe et Martinique
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -105,7 +106,7 @@ Signes cliniques aspécifiques le plus souvent, présents dans 3/4 des cas avec 
 - Asthénie
 - Polyadénopathies fermes et indolores (75%)
 - Exanthème maculopapuleux (70%)  
-Prédomine au tronc, racine des membres, cou et parfois visage. Prurit rare.
+  Prédomine au tronc, racine des membres, cou et parfois visage. Prurit rare.
 - Pharyngite
 - Énanthème et ulcérations muqueuses
 - Candidose buccale
@@ -177,25 +178,24 @@ Pathologies selon le taux de CD4 (/mm³):
 
 Le dépistage doit être large et pour les personnes à risque, systématique et répété à long terme.
 
-- Tout adulte de 15 à 70 ans  
-Au moins 1 fois.  
-D'autant plus chez les hommes et régions à risque (IDF, PACA, DROM).
+- Tout adulte de 15 à 70 ans au moins 1 fois  
+  D'autant plus chez les hommes et régions à risque (IDF, PACA, DROM).
 - Proposer systématiquement devant:
   - Diagnostic d'[IST](/tags/ist/)
-  - Hépatite B
+  - [Hépatite B]({{< relref "hepatite-b.md" >}})
   - [Hépatite C]({{< relref "hepatite-c.md">}})
   - Diagnostic de [tuberculose]({{< relref "tuberculose.md" >}})
   - Grossesse ou projet de grossesse
   - Viol
-  - Prescription de contraception
+  - Prescription de [contraception]({{< relref "contraception.md" >}})
   - [IVG]({{< relref "interruption-volontaire-grossesse.md" >}})
   - Démarche volontaire
 - [Hommes ayant des rapports sexuels avec des hommes (HSH)]({{< relref "hsh.md" >}})  
-Dépistage trimestriel.
+  Dépistage **trimestriel**.
 - Originaire d'Afrique subsaharienne et Caraïbes  
-Dépistage annuel.
+  Dépistage annuel.
 - Usagers de drogues par injection (UDI)  
-Dépistage annuel.
+  Dépistage annuel.
 - Suspicion de VIH
 - Accident d'exposition au sang
 - Exposition sexuelle à risque
@@ -242,9 +242,9 @@ La PrEP doit être couplée au *préservatif* pour prévenir les [IST](/tags/ist
 
 {{< card-link title="La PrEP et ses enjeux" url="https://www.formaprep.org" subtitle="MOOC gratuit">}}
 
-### Indications HAS 2021
+### Indications à la PreEp (HAS 2021)
 
-Chez le ≥ 15 ans:
+Chez le plus de 15 ans:
 
 - Toute situation jugée à risque par le médecin
 - HSH, transgenres ou bisexuels avec expositions VIH actuelles, antérieures ou futures
@@ -262,7 +262,7 @@ Chez le ≥ 15 ans:
 
 Possible si: infection VHB (avis gastro), grossesse ou allaitement avec suivi coordonné, contraception hormonale.
 
-### Contre-indications
+### Contre-indications à la PreEp
 
 - PVVIH
 - Statut VIH inconnu
@@ -292,7 +292,7 @@ Prescription initiale pour 1 mois, puis renouvellement tous les 3 mois:
 [Emtricitabine/Ténofovir disoproxil 200/245 mg](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) 1 cp par jour à heure fixe pendant le repas.
 {{%/info%}}
 
-Délai de 7 jours avant le 1<sup>er</sup> rapport sexuel à protéger  
+Délai de 7 jours avant le premier rapport sexuel à protéger  
 ou dose de charge pour une protection dès J1: 2 cp en 1 prise entre 2 et 24h avant le rapport à protéger puis rythme standard.
 
 - Avis infectiologique si co-infection VHB
@@ -400,82 +400,79 @@ Palpation des aires ganglionnaires au moins 1/an.
   - Méningocoque C  
   Jusqu'à 26 ans, 2 injections à M0M6.
 - Grippe annuelle
-- {{< modal-btn modal-vaccin-hepatite-a >}}Hépatite A{{< /modal-btn >}}  
-Indications: co-infection VHB ou VHC, hépatopathie chronique, alcool, voyage zone endémique.
-Contrôle sérologique préalable.  
-Contrôle IgG post-vaccinal 2 mois après la 2<sup>e</sup> injection.
+- {{< modal-btn modal-vaccin-hepatite-a >}}Hépatite A{{< /modal-btn >}}
+  - Indications: co-infection VHB ou VHC, hépatopathie chronique, alcool, voyage zone endémique
+  - Contrôle sérologique préalable
+  - Contrôle IgG post-vaccinal 2 mois après la 2<sup>e</sup> injection
 - Hépatite B  
-Contrôle sérologique préalable.  
-Schéma: 2 Engerix B20® 4 fois à M0, M1, M2, M6.  
-Contrôle taux d'anticorps post-vaccinal puis annuel.  
-Rappel si anticorps anti-HBs < 10 UI/mL.
+  - Contrôle sérologique préalable
+  - Schéma: 2 Engerix B20® 4 fois à M0, M1, M2, M6
+  - Contrôle taux d'anticorps post-vaccinal puis annuel
+  - Rappel si anticorps anti-HBs < 10 UI/mL
 - [Papillomavirus]({{< relref "papillomavirus.md" >}})  
-Enfants de 11 à 19 ans vivant avec le VIH par le schéma d'injection en 3 doses:  
-Gardasil 9® à M0, M2 et M6.
+  Enfants de 11 à 19 ans vivant avec le VIH par le schéma d'injection en 3 doses: Gardasil 9® à M0, M2 et M6.
 - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque tous les 5 ans{{< /modal-btn >}}
 
 ### Vaccinations lorsque CD4 > 200/mm³
 
 - ROR  
-Contrôle sérologique préalable ± ßHCG.
-2 injections à M0M2.
+  Contrôle sérologique préalable ± ßHCG. 2 injections à M0M2.
 - Varicelle  
-Contrôle sérologique préalable.  
-2 injections à M0M2.
+  Contrôle sérologique préalable. 2 injections à M0M2.
 - [Fièvre jaune]({{< relref "fievre-jaune.md" >}})  
-Séjour en Guyane.
+  Séjour en Guyane.
 
-{{%warning%}}Contre-indication au BCG quel que soit le taux de CD4.{{%/warning%}}
+{{%warning%}}Contre-indication au BCG quel que soit le taux de CD4{{%/warning%}}
 
-> Source *Ministère de la Santé. Calendrier vaccinal 2020* et *HAS 2018*
+> Sources *Calendrier vaccinal 2021* et *HAS 2018*
 
 {{% /collapse %}}
 {{%collapse "Suivi clinique du patient sous antirétroviral" %}}
 
 **Objectif majeur:** maintien de la charge virale indétectable par adhésion au traitement (et CD4 > 500).  
-Toute PVVIH a une indication de traitement ARV à vie.
+Toute PVVIH a une indication de traitement antirétroviral à vie.  
 Aucune guérison n'est attendue.
 
 [Fiche HAS des points clés du suivi (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2018-11/infographie_vih_consultation_de_suivi_medecine_generale_pour_impression_a4.pdf)
 
 {{%info%}}Cette section ne concerne que les patients avec une charge virale indétectable.  
-Le suivi est spécialisé dans le cas contraire.{{%/info%}}
+Le suivi est spécialisé dans le cas contraire{{%/info%}}
 
-- Suivi tous les 3 à 6 mois minimum
+Recommandations pour la prise en charge du patient traité par antirétroviral:
+
+- Suivi recommandé tous les 3 à 6 mois minimum
 - Contrôle des interactions médicamenteuses  
 [HIV Drug Interactions](https://www.hiv-druginteractions.org/checker)
 - Bilan annuel de synthèse
   - Liste des derniers examens réalisés  
   - Personnes ressources
   - Éducation thérapeutique
-- **Observance du traitement ARV**  
-Encourager la prise maximale.
+- **Observance du traitement ARV** +++
 - Encourager une activité physique régulière
 - Rechercher une fragilité physique, psychique, sociale
-- Repérer des troubles alimentaires  
-et suivi de l'IMC.
+- Repérer des troubles alimentaires (suivi IMC)
 - Interactions alimentaires  
-Compléments alimentaires hyperprotéinés, millepertuis, jus de pamplemousse, kaolin...
+  Compléments alimentaires hyperprotéinés, millepertuis, jus de pamplemousse, kaolin ...
 - Addictions  
-Lutte tabac et cannabis, alcool, psychotropes.
+  Lutte tabac et cannabis, alcool, psychotropes.
 - Vaccinations multiples (voir *Vaccinations spécifiques au cours du VIH*)
 - Rechercher une dépression, démence
 - Santé sexuelle
   - Comportements à risque  
-  Sexologue, psychologue.
+    Sexologue, psychologue.
   - Contexte à risque  
-  Alcool, stimulants, chemsex, violences.
+    Alcool, stimulants, chemsex, violences.
   - Importance du préservatif
   - Dépistage régulier des IST (voir *Dépistage des cancers et IST*)
 - Contraception
   - Adaptée aux besoins, contrôle des [interactions](https://www.hiv-druginteractions.org/checker)
   - Informer sur la contraception d'urgence
 - Grossesse  
-Grossesse à risque préparée avec équipe pluridisciplinaire.  
-AMP identique à la population générale.
+  Grossesse à risque préparée avec équipe pluridisciplinaire.  
+  AMP identique à la population générale.
 - Si (pré-)cirrhose: échographie hépatique x 2/an
 - Ostéodensitométrie  
-Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
+  Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
 - [Déclaration obligatoire anonyme]({{< relref "maladies-declaration-obligatoire.md" >}})
 - Déclarer l'[ALD 7]({{< relref "affection-longue-duree.md" >}})
 
@@ -525,7 +522,8 @@ Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
 
 ### À lire
 
-[MedQual. VIH : La PrEP arrive en ville ! Janvier 2022.](http://www.medqual.fr/images/PRO_2018/LA/2022-JAN-LAPrEP-n195-vF.pdf)
+- [MedQual. VIH : La PrEP arrive en ville ! Janvier 2022.](http://www.medqual.fr/images/PRO_2018/LA/2022-JAN-LAPrEP-n195-vF.pdf)
+- [HAS. Infection par le VIH](https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih)
 
 {{%/sources%}}
 <!-- Modal -->

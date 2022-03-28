@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-22T12:09:36+01:00"
 publishdate = "2022-03-22"
-lastmod = "2022-03-22"
+lastmod = "2022-03-25"
 specialites = ["pediatrie"]
 annees = "2020"
 sources = []
@@ -16,7 +16,7 @@ sctid = "38907003"
 draft = true
 image = false
 imageSrc = ""
-todo = "Surinfections: amoxicilline-acide clavulanique per os, vérif co-vaccination ROR"
+todo = "Ig, Infovac, vérif co-vaccination ROR"
 +++
 
 {{%article-summary%}}
@@ -27,9 +27,9 @@ TODO:
 {{%collapse "Définition" %}}
 
 Varicelle
-TODO: Maladie infectieuse à VZV virus bénigne dans l'enfance mais extrêmement contagieuse.
-: Formes graves chez les immunodéprimés, nouveaux-nés et risque d'embryo-fœtopathie avant 24 SA.  
-Transmission respiratoire par gouttelettes. L'immunité naturelle est quasi définitive.
+: Maladie infectieuse à VZV virus bénigne uniquement chez les enfants immunocompétents mais extrêmement contagieuse.
+: Formes graves chez les immunodéprimés, nouveaux-nés et risque d'embryo-fœtopathie avant 24 SA. Fréquemment compliquée chez les adultes.  
+Transmission respiratoire par gouttelettes. L'immunité naturelle est quasi définitive. Possible survenue de [zona]({{< relref "zona.md" >}} ) après des années.
 
 ### Complications de la varicelle
 
@@ -46,10 +46,14 @@ Transmission respiratoire par gouttelettes. L'immunité naturelle est quasi déf
 
 ### Épidémiologie
 
+En France, à la différence des autres grands pays, la vaccination contre la varicelle n'est pas proposée à partir d'1 an à cause de la défiance antivax (*Infovac*).
+
 - Incidence: 700.000 cas/an avec forte variation saisonnière (90% chez 1-14 ans)
+- Hospitalisations: 3000/an
 - Mortalité: 1,4-2/100.000 (x10 après 45 ans)
 - 350-550 cas gravidiques annuels estimés et complications fréquentes chez l'adulte
-- Prévalence. 50% avant 5 ans, 90% avant 10 ans
+- Prévalence: 50% avant 5 ans, 90% avant 10 ans
+- Sujet immunodéprimé: risque de varicelle sévère de 30% avec risque de décès de 10%
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -57,6 +61,7 @@ Transmission respiratoire par gouttelettes. L'immunité naturelle est quasi déf
 {{%info%}}Toujours rechercher: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans{{%/info%}}
 
 - Antécédent de varicelle
+- Statut immunitaire de la famille
 - Contacts avec personnes fragiles  
   Nourrissons, femmes enceintes, immunodéprimés...
 - Incubation 14 jours ± Prodromes  
@@ -117,25 +122,25 @@ Effets indésirables: fébricule et œdème au point d'injection, 5% ont exanth�
 Guérison de la varicelle en 10-12 jours.  
 Période de contagiosité: J-2 à J+6 de l'apparition des vésicules ou par voie respiratoire dans la phase pré-éruptive.
 
+Recommandations pour la prise en charge de la varicelle:
+
 - Contre-indication aux aspirine/AINS/corticoïdes  
 - Éviction scolaire jusqu'au stade croûteux
-  - NB. N'est pas médicalement justifiée puisque la transmission s'effectue 1-2 jours avant l'éruption
-  - NB2. << ne recommande pas l'exclusion des collectivités >>, mais << fréquentation n'est pas souhaitable >>
+  - Signaler le cas à la collectivité pour prévenir des personnes à risque
   - Éviter les personnes fragiles et les lieux publics (transports en communs, centres commerciaux, hôpitaux...)
 - Prévention des cicatrices  
-  Photoprotection, ongles courts, port de gants, lutte prurit.
+  Photoprotection, ongles courts, lavage des mains, port de gants, lutte prurit.
 - Antipyréxie paracétamol
 - Douches (bi-)quotidiennes à l'eau tiède avec savon dermatologique  
-  Éviter bains (macération).
+  Éviter bains (macération) et tamponner avec la serviette.
 - Chlorhexidine en solution aqueuse pour prévenir les surinfections  
   ± crème cicatrisante.  
   ex: Chlorhexidine aqueuse stérile 0,2% 1 application x 2/j sur les lésions cutanées uniquement.
-- Anti-histaminique anti-H1
+- Anti-histaminique anti-cholinergique
   - Aucun disponible chez < 2 ans  
-  - Cétirizine sirop  
-  2-6 ans: 2,5 mg (5 gouttes) x 2/j  
-  6-12 ans: 5 mg (10 gouttes) x 2/j  
-  ≥ 12 ans: 10 mg 1cp/j
+  - Méquitazine sirop (Primalan®)  
+  10-40 kg: 1,25 mg/5 kg/j en 1 ou 2 prises par jour  
+  Comprimés au-delà.
 
 **NB.** Aucun autre produit (talc, pommade, gel) ne doit être appliqué
 
@@ -191,12 +196,11 @@ Sérologie VZV:
 {{% /collapse %}}
 {{%sources%}}
 
+- [Pinquier D. et al. Vaccin contre la varicelle. Infovac.](https://www.infovac.fr/docman-marc/public/fiches/1471-fiche-varicelle/file)
+- [HCSP. Avis relatif aux recommandations de vaccination contre la varicelle. Juillet 2007.](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcsp045a20070705_Varicelle.pdf)
+- [SPILF. Pris en charge des infections à VZV. Méd Mal Infect. 1998.](https://www.infectiologie.com/UserFiles/File/medias/_documents/consensus/vzv98.pdf)
 - [Santé Publique France. Varicelle.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-prevention-vaccinale/varicelle)
 - [Ameli. Varicelle](https://www.ameli.fr/assure/sante/themes/varicelle)
-
-•	SPILF VZV 1998
-•	HCSP 7/2007
-•	Prescrire 2015
 
 {{%/sources%}}
 

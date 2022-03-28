@@ -1,5 +1,6 @@
 +++
 title = "Recommandations médicales pour la pratique au cabinet"
-description = "Les dernières recommandations mises à jour pour la pratique médicale en premier recours."
+description = "Liste des recommandations médicales adaptées pour la pratique en médecine générale avec le bilan initial, la prise en charge adaptée et les scores cliquables"
+longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 +++

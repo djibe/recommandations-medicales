@@ -45,12 +45,14 @@ En dehors des aides auxquelles ont est en droit de prétendre lorsqu'on travaill
 
 3 différences principales:
 
-- L'ESP doit compter en son sein au moins un médecin général ; pas pour la CPTS,
+- L'ESP doit compter en son sein au moins un médecin généraliste, pas pour la CPTS
 - L'ESP doit être composé de professionnels de la santé de 1er et 2nd recours ; pas pour la CPTS,
 - Le projet de santé doit toucher les patients de la patientèle des médecins se regroupant pour l'ESP alors que la CPTS, cela doit refléter l'ensemble de la population du territoire couvert par la CPTS.
 
 {{%/collapse%}}
 {{%collapse "Cartes des zones d'installation prioritaires" %}}
+
+Cartographies pour l'aide à l'installation des médecins généralistes avec le zonage et les différentes aides (aide de la région, aide de l'Assurance Maladie ...)
 
 - [Rézone - les zones sous-denses et les aides par zone](http://rezone.ameli.fr/rezone/cartoMed.html)
 - [c@rtoSanté](https://cartosante.atlasante.fr/#c=report&chapter=omni&report=r01&selgeo1=dep.92&selgeo2=fra.99)
@@ -60,23 +62,25 @@ En dehors des aides auxquelles ont est en droit de prétendre lorsqu'on travaill
 
 ### CAIM: Contrat d'Aide à l'Installation des Médecins
 
-Aide à l'investissement initial pour le début d'activité.
+Aide à l'installation de 50.000 € pour l'investissement initial nécessaire pour le début d'exercice.
 
 #### Conditions
 
+Le médecin généraliste bénéficiaire s'engage à:
+
 1. Participer à la permanence des soins (PDSA)  
   Sauf dérogation du CDOM.
-2. S'engager à s'installer pour 5 ans en zone sous-dense
-3. Être installé depuis < 1 an en libéral en secteur 1 ou 2 OPTAM
+2. S'installer pour 5 ans en zone sous-dense
+3. Être installé depuis moins d'un an en libéral en secteur 1 ou 2 OPTAM
 4. Exercer ≥ 2,5 j/semaine
-5. S'engager à exercer en groupe, en CPTS ou en ESP  
-Dérogation possible de 2 ans à négocier avec l'ARS.
-6. Si résiliation anticipée:  
-  Restitution au prorata de la durée restante des 5 ans d'engagement.
+5. Exercer en groupe, en CPTS ou en ESP  
+  Dérogation possible de 2 ans à négocier avec l'ARS.
+
+En cas de résiliation anticipée du contrat: le médecin restitue le montant au prorata de la durée restante des 5 ans d'engagement.
 
 #### Avantages
 
-1. Aide forfaitaire de 50.000 € accordée 1 seule fois, versée en 2 temps. 50% à l'installation et 50% après 1 an
+1. Aide forfaitaire de 50.000 € accordée une seule fois, versée en 2 temps. 50% à l'installation et 50% après 1 an
 2. Proratisation au temps passé: 50.000 € pour 4 jours, 37.500 € pour 3 jours...  
   Zone particulièrement déficitaire, majoration par l'ARS: 60.000 € pour 4 jours, 45.000 pour 3 jours...
 3. Majoration de 2500€ en cas d'exercice libéral partagé dans un hôpital de proximité
@@ -85,9 +89,11 @@ Dérogation possible de 2 ans à négocier avec l'ARS.
 
 ### COSCOM: Contrat de Stabilisation et de Coordination
 
-Encourager la prise en charge coordonnée et la formation des futurs médecins.
+Aide annuelle de 5000 € pour encourager la prise en charge coordonnée et la formation des futurs médecins. Elle est versée les trois premières années après le début d'exercice.
 
-**Conditions:**
+#### Conditions pour l'aide
+
+Le médecin généraliste bénéficiaire s'engage à:
 
 1. Exercer en groupe, en ESP ou en CPTS en zone sous-dense
 2. En secteur 1 ou 2
@@ -99,23 +105,23 @@ Encourager la prise en charge coordonnée et la formation des futurs médecins.
 
 5000 €/an + 1250 €/an si participation à l'activité d'un hôpital de proximité + 300 €/an si stagiaire à temps partiel.
 
-Majoration possible par l'ARS à 6000 €/an + 1500 €/an + 360 €/an
+Majoration possible par l'ARS à 6000 €/an + 1500 €/an + 360 €/an.
 
 > *[Ameli COSCOM](https://www.ameli.fr/content/fiche-demographie-contrat-de-stabilisation-et-de-coordination-des-medecins-coscom)*
 
 ### Autres aides proches mais non applicables
 
 - COTRAM  
-Pour le médecin installé en zone sous-dense cédant le cabinet à un médecin < 50 ans.
+  Pour le médecin installé en zone sous-dense cédant le cabinet à un médecin < 50 ans.
 - CSTM  
-Inciter les médecins des zones non sous-dotées à exercer à temps partiel dans les zones sous-dotées.
+  Inciter les médecins des zones non sous-dotées à exercer à temps partiel dans les zones sous-dotées.
 
 {{%/collapse%}}
 {{%collapse "Aides des ARS" %}}
 
 ### CDE: Contrat de début d'exercice
 
-Faciliter l'installation en zone sous-dense.
+Faciliter l'installation des médecins généralistes en zone sous-dense.
 
 **Conditions:**
 
@@ -128,11 +134,11 @@ Faciliter l'installation en zone sous-dense.
 **Avantages:**
 
 - Rémunération complémentaire proportionnelle la première année avec seuil d'activité minimale  
-Ex 4j/semaine: rémunération de 7550€/mois garantis sous réserve de 3775€/mois de chiffre.
+  Ex 4j/semaine: rémunération de 7550€/mois garantis sous réserve de 3775€/mois de chiffre.
 - Un accompagnement à la gestion administrative  
-Accompagnement défini par l'ARS: comptabilité, gestion, fiscalité, fonction d'employeur.
+  Accompagnement défini par l'ARS: comptabilité, gestion, fiscalité, fonction d'employeur.
 - Protection sociale plus étendue  
-Couverture maladie dès 8 jours d'arrêt (68€/j), maternité/paternité/adoption.
+  Couverture maladie dès 8 jours d'arrêt (68€/j), maternité/paternité/adoption.
 
 > *[Ameli Médecin. Contrat de début d'exercice : une nouveauté pour faciliter l'installation des jeunes médecins. 29/03/2021.](https://www.ameli.fr/medecin/actualites/contrat-de-debut-dexercice-une-nouveaute-pour-faciliter-linstallation-des-jeunes-medecins)*
 

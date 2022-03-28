@@ -1,4 +1,4 @@
-<script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin></script>
+<script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin defer></script>
 <script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin defer></script>
 <script src="{{ .Site.Params.cdn.material_js}}" crossorigin defer></script>
 <script src="https://instant.page/5.1.0" type="module" crossorigin async></script>
@@ -105,7 +105,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 
 {{- with .Params.flowchart }}
-<script src="https://cdn.jsdelivr.net/npm/mermaid@8.13.8/dist/mermaid.min.js" integrity="sha256-QmSAc2kIaUjleIJ46X7qPW2zrpCbXlMz3YIGgWpQ1Jo=" crossorigin defer></script>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@8.14.0/dist/mermaid.min.js" integrity="sha256-7wT34TI0pEBeEFoi4z+vhuSddGh6vUTMWdqJ2SDe2jg=" crossorigin defer></script>
 <script>
   // https://mermaid-js.github.io/mermaid/#/Setup?id=fontfamily
   const MermaidConfig = {
@@ -123,16 +123,10 @@ document.addEventListener( 'DOMContentLoaded', event => {
       htmlLabels: true,
       nodeSpacing: 30,
       rankSpacing: 40,
-    }, mermaid: {
-      callback:function(id) {
-        //$('#' + id).css('opacity', '0');
-      }
     }
   }
 
-  window.addEventListener('load', function() {
-    mermaid.initialize(MermaidConfig);
-  })
+  window.onload = () => { mermaid.initialize(MermaidConfig) }
 </script>
 {{- end -}}
 

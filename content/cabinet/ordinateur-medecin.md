@@ -1,16 +1,13 @@
 +++
-title = "L'ordinateur au cabinet de médecine générale"
-prefix = ""
-synonyms = []
+title = "L'ordinateur au cabinet du médecin généraliste"
+description = "Quel ordinateur pour le médecin généraliste ? Conseils pour un ordinateur performant au cabinet de médecine générale. Configuration minimale et pièges à éviter"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-23T19:15:41+02:00
 publishdate = 2022-01-27
-lastmod = 2022-01-27
+lastmod = 2022-03-27
 specialites = []
 sources = []
 tags = []
-sctid = ""
-draft = false
 image = false
 imageSrc = ""
 todo= "liste tout en 1, webcam creative live! cam sync 1080p 50€ | i3 10100 | écran ViewSonic XG2705-2K, AOC 27G2U, Iiyama GB2766HSU-B1"

@@ -1,6 +1,7 @@
 +++
 title = "Certificat de non contre-indication à la pratique du sport"
 prefix = "le "
+noindex = true
 titleSeo = "Certificat du sportif"
 description = "Recommandations pour l'établissement du certificat de non contre-indication à la pratique du sport. Examens complémentaires, ECG, épreuve d'effort ..."
 synonyms = []

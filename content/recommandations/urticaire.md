@@ -2,13 +2,14 @@
 title = "Urticaire aiguë et chronique"
 prefix = "l'"
 titleSeo = "Urticaire"
+description = "Recommandations pour la prise en charge de l'urticaire aiguë ou chronique. Bilan selon la durée d'évolution, traitement de l'urticaire par antihistaminiques"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-27T17:43:41+02:00
 publishdate = 2020-10-27
 lastmod = 2021-11-29
 specialites = ["allergologie", "dermatologie"]
-annees = "2019"
+annees = "2011"
 sources = ["SFDermato", "CEDEF"]
 tags = ["prurit"]
 anglais = ["Urticaria"]
@@ -16,25 +17,25 @@ sctid = "126485001"
 flowchart = true
 image = true
 imageSrc = "Urticaire superficielle. Photo de woofiegrrl sur Foter.com / CC BY-ND"
-todo = "sources à lire, gs, enfant, choc anaphyla, Quincke, https://onlinelibrary.wiley.com/doi/full/10.1111/all.13397, https://www.dropbox.com/sh/9ivszpuwnxdp4t8/AAB04JahlYn6qounsCr-dQKwa/2019?dl=0&preview=Grille+capacit%C3%A9+urticaire+physique+Q4.docx&subfolder_nav_tracking=1, fiche, https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2488.pdf"
+todo = "KEY omalizumab, sources à lire, gs, enfant, choc anaphyla, Quincke, https://onlinelibrary.wiley.com/doi/full/10.1111/all.13397, https://www.dropbox.com/sh/9ivszpuwnxdp4t8/AAB04JahlYn6qounsCr-dQKwa/2019?dl=0&preview=Grille+capacit%C3%A9+urticaire+physique+Q4.docx&subfolder_nav_tracking=1, fiche, https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2488.pdf"
 +++
 
 {{%article-summary%}}
 
 - Signes de gravité  
-Dysphonie, hyper-salivation et troubles de la déglutition.
+  Dysphonie, hyper-salivation et troubles de la déglutition.
 - Pas de corticoïdes par effet rebond
-- Anti-histaminique anti-H1 seul
+- Traitement par antihistaminique anti-H1 seul
 - Bilan uniquement en urticaire chronique résistant
 - **Une** urticaire et un **é**dème {{%class%}}(œdème){{%/class%}}
-- Pour l'enfant, lire [Urticaire aiguë de l'enfant](https://pap-pediatrie.fr/urticaire-aigue-de-lenfant)
+- Pour l'enfant, lire [PAP Urticaire aiguë de l'enfant](https://pap-pediatrie.fr/urticaire-aigue-de-lenfant)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Urticaire
 : Dermatose inflammatoire caractérisée par les lésions papuleuses, œdémateuses prurigineuses bien limitées en petits éléments ou confluants en **larges plaques fugaces, migratrices et prurigineuses**.
-: Réaction inflammatoire générée par la libération d'histamine par les mastocytes lors de leur rencontre avec un antigène.  
+: Réaction inflammatoire générée par la libération d'histamine par activation des mastocytes lors de leur rencontre avec un antigène.  
 Le plus souvent l'activation est non spécifique et donc non allergique. Rarement par IgE dirigées contre un antigène = urticaire immunologique pouvant déclencher une anaphylaxie.
 : Le plus souvent épisode unique et résolutif sans cicatrice ni lésion de grattage.
 : Vient d'"urtica", ortie en latin.
@@ -50,7 +51,7 @@ Le pronostic vital est engagé en manifestations ORL (dysphonie, troubles de la 
 
 Urticaire chronique (UC)
 : Poussées d'urticaire, le plus souvent quotidiennes, évoluant depuis **plus de 6 semaines**.
-: Pathologie fréquente (prévalence 0,5%, exceptionnelle chez l'enfant) avec altération de la qualité de vie pendant une durée moyenne de 3 à 5 ans.  
+: Pathologie fréquente (prévalence 0,5%, exceptionnelle chez l'enfant) avec altération de la qualité de vie pendant une durée d'évolution moyenne de 3 à 5 ans.  
 Peut être grave lorsqu'un angio-œdème laryngé ou digestif est associé.
 **Éliminer une maladie inflammatoire ou néoplasique** (rares). Une cause allergique est exceptionnelle.
 
@@ -88,7 +89,7 @@ Urticaire aquagénique
 : Rare. Test de provocation par application d'une compresse humide à 37°C sur le dos de la main pendant 20 à 30 minutes.
 
 Urticaire alimentaire
-: Allergie vraie IgE dépendante comme l'APLV, œufs, poissons, crustacés, moutarde, arachide, céleri, pêche, amande, tournesol, orange, noisettes, kiwi, fruits exotiques, blé, lentilles.  
+: Allergie vraie IgE dépendante comme l'[APLV]({{< relref "allergie-proteines-lait-vache.md" >}}), œufs, poissons, crustacés, moutarde, arachide, céleri, pêche, amande, tournesol, orange, noisettes, kiwi, fruits exotiques, blé, lentilles.  
 Survient rapidement après l'ingestion.
 
 Dermographisme
@@ -124,16 +125,16 @@ Le diagnostic d'urticaire est clinique.
 ### Interrogatoire
 
 - Antécédents médicaux personnels et familiaux  
-Atopie, urticaire, maladie générale.
+  Atopie, urticaire, maladie générale.
 - Traitements pris  
-Histamino-libérateurs: surtout **IEC/sartans**, **AINS/aspirine**, **codéine/morphiniques**.  
-Voir plus bas *Aliments et médicaments histamino-libérateurs*.
+  Histamino-libérateurs: surtout **IEC/sartans**, **AINS/aspirine**, **codéine/morphiniques**.  
+  Voir plus bas *Aliments et médicaments histamino-libérateurs*.
 - Habitudes alimentaires  
-Aliments riches en *histamine* et *histamino-libérateurs* (voir *Aliments et médicaments histamino-libérateurs*.)
+  Aliments riches en *histamine* et *histamino-libérateurs* (voir plus bas)
 - Profession
 - Notion d'urticaire de contact (latex)
 - Facteur déclenchant d'urticaire physique  
-Effort, frottement, pression, chaleur, froid, eau, exposition solaire, vibrations.
+  Effort, frottement, pression, chaleur, froid, eau, exposition solaire, vibrations.
 - Stress
 - Signes généraux
 - Urticaire aiguë
@@ -147,7 +148,7 @@ Effort, frottement, pression, chaleur, froid, eau, exposition solaire, vibration
   - Chaleur locale
   - Extension en plaque de géographie ou peau d'orange
 - Manifestations associées  
-Hyperthermie modérée, douleurs abdominales ou arthralgies possibles.
+  Hyperthermie modérée, douleurs abdominales ou arthralgies possibles.
 
 ### Examen clinique
 
@@ -157,7 +158,7 @@ L'urticaire profonde donne des tuméfactions fermes, pâles, non prurigineuses a
 En cas d'atteinte muqueuse intestinale, les douleurs peuvent simuler une urgence chirurgicale.
 
 - Entourer les lésions  
-Elles doivent disparaître en 24h.
+  Elles doivent disparaître en 24 heures.
 - Examen dermatologique
   - Dermographisme
   - Plaques d'urticaires persistantes
@@ -169,12 +170,12 @@ Elles doivent disparaître en 24h.
 ### Diagnostic différentiel de l'urticaire aiguë
 
 - Eczéma aigu du visage  
-Absence de lésion muqueuse, suintement.
+  Absence de lésion muqueuse, suintement.
 - Exanthème viral
 - Toxidermie maculo-papuleuse
-Les lésions sont fixes.
+  Les lésions sont fixes.
 - Maladie de Still  
-Éruption fébrile à tendance vespérale, maculeuse ou parfois urticarienne.
+  Éruption fébrile à tendance vespérale, maculeuse ou parfois urticarienne.
 
 ### Diagnostic différentiel de l'urticaire chronique
 
@@ -193,13 +194,13 @@ Aucun examen complémentaire n'est recommandé devant une urticaire chronique ba
 
 ### Bilan devant une urticaire chronique banale isolée sans signes cliniques d'orientation étiologique
 
-**Indication:** Récidive après 8 semaines d'anti-histaminiques.
+**Indication au bilan d'urticaire:** Récidive après 8 semaines d'anti-histaminiques.
 
 - NFS, VS, CRP
 - Anticorps anti-TPO  
-Et TSH si anticorps positifs.
+  et TSH si anticorps positifs.
 
-> Consensus ANAES/SFDermato 2003
+> *Consensus ANAES/SFDermato 2003*
 
 En cas de syndrome inflammatoire biologique, d'anomalie de la NFS ou de signes cliniques évocateurs:
 
@@ -210,24 +211,23 @@ En cas de syndrome inflammatoire biologique, d'anomalie de la NFS ou de signes c
 ### Bilan devant une urticaire chronique avec signes évocateurs
 
 - Dysthyroïdie clinique  
-TSH, anticorps anti-TG et anti-TPO ou antirécepteurs de la TSH.
+  TSH, anticorps anti-TG et anti-TPO ou antirécepteurs de la TSH.
 - Signes gastriques/duodénaux  
-Recherche d'H. pylori.
+  Recherche d'[H. pylori]({{< relref "helicobacter-pylori.md" >}}).
 - Urticaire au froid  
-Cryoglobulinémie, cryofibrinogénémie, immunoglobuline monoclonale, agglutinines froides.
+  Cryoglobulinémie, cryofibrinogénémie, immunoglobuline monoclonale, agglutinines froides.
 - Urticaire solaire  
-Phototests standardisés.
+  Phototests standardisés.
 - Angio-œdèmes chroniques ou récidivants isolés sans lésion superficielle  
-Déficit en inhibiteur de la C1 estérase.
+  Déficit en inhibiteur de la C1 estérase.
 - Angio-œdème chronique localisé de la face inexpliqué  
-Absence de  prise d'IEC/sartans, AINS/aspirine:  
-Panoramique dentaire, scanner des sinus.
+  Absence de  prise d'IEC/sartans, AINS/aspirine: Panoramique dentaire, scanner des sinus.
 - Urticaire atypique (fixe, peu prurigineuse) ou signes cutanés (livedo, nodules, purpura ...)  
-Biopsie cutanée.
+  Biopsie cutanée.
 
 ### Bilan allergologique
 
-**Indications:**
+#### Indications à un bilan allergologique
 
 - Troubles dyspeptiques postprandiaux
 - Urticaire localisée de contact
@@ -237,6 +237,8 @@ Biopsie cutanée.
 {{%collapse "Traitement de l'urticaire" %}}
 
 ### Traitement de l'urticaire aiguë
+
+Recommandations pour la prise en charge et le traitement de l'urticaire aiguë:
 
 - Éviction d'un médicament en cas de suspicion.
 - Remettre la liste des aliments histamino-libérateurs.
@@ -256,15 +258,17 @@ Molécules peu ou pas sédatives de première intention (selon *Prescrire*): **C
 
 ### Traitement de l'urticaire chronique
 
-{{%info%}}Cétirizine 10 mg 1 par jour pendant 8 semaines.{{%/info%}}
+{{%info%}}Cétirizine 10 mg 1 par jour pendant 8 semaines{{%/info%}}
+
+Recommandations pour la prise en charge et le traitement de l'urticaire chronique:
 
 - Anti-histaminique anti-H1 pendant 4 à 8 semaines
 - Éviter les médicaments histaminolibérateurs  
-AINS/aspirine surtout.
+  AINS/aspirine surtout.
 - Éviter les aliments riches en amines biogènes
 - Bilan allergologique exceptionnel
 - Proposer un soutien psychologique  
-Éviter antidépresseurs tricycliques et IMAO.
+  Éviter antidépresseurs tricycliques et IMAO.
 
 #### Persistance à 8 semaines et échec du traitement
 
@@ -340,10 +344,10 @@ Les principaux:
 - Morphiniques, opiacés, codéine
 - IEC
 - Antibiotiques  
-Bêtalactamines (également allergie vraie) polymyxine B, colimycine, néomycine, vancomycine.
+  Bêtalactamines (également allergie vraie) polymyxine B, colimycine, néomycine, vancomycine.
 - Produits de contraste iodés
 - Anesthésiques généraux  
-Tubocurarine, halothane.
+  Tubocurarine, halothane.
 - Curares (également allergie vraie)
 
 Et aussi:
@@ -352,9 +356,9 @@ Et aussi:
 - Protamine
 - Amphétamines
 - Macromolécules  
-Dextran, gélatines modifiées.
+  Dextran, gélatines modifiées.
 - Antihypertenseurs
-Népressol, réserpine, hydralazine, trasipressol.
+  Népressol, réserpine, hydralazine, trasipressol.
 - Alpha-chymotrypsine, ACTH
 - Thiamine, quinine, scopolamine, pilocarpine
 - Vitamine B1
@@ -372,7 +376,7 @@ Népressol, réserpine, hydralazine, trasipressol.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une urticaire" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une urticaire aiguë. Dr JB Fron d'après CEILF 2011" >}}
+{{< mermaid title="Conduite à tenir et prise en charge d'une urticaire aiguë. Dr JB Fron d'après CEILF 2011" >}}
 graph TB
   UA[Urticaire aiguë] --> gravite("<b>Signes de gravité ?</b><br>- Dysphonie<br>- Hypersalivation<br>- Troubles de la déglutition")
   style UA stroke:#4150f5, stroke-width:1px
@@ -382,7 +386,7 @@ graph TB
     gravite -- Oui --> urgence("Appel du 15<br>Traitement du choc<br>anaphylactique/Quincke")
 {{< /mermaid >}}
 
-{{< mermaid title="Conduite à tenir devant une urticaire chronique. Dr JB Fron d'après ANAES 2003" >}}
+{{< mermaid title="Conduite à tenir et prise en charge d'une urticaire chronique. Dr JB Fron d'après ANAES 2003" >}}
 graph TB
   UC["Urticaire chronique<br>&gt; 6 semaines"] --> orientation("Maladie générale<br>ou forme particulière?")
   style UC stroke:#4150f5, stroke-width:1px
@@ -395,14 +399,14 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [SFD. Traitement de l'urticaire chronique spontanée. 2019. (PDF)](https://document.sfdermato.org/reco/urticaire-chronique-spontan%C3%A9e/SFD_urticaire-chronique-spontan%C3%A9e_synth%C3%A8se_2019-11.pdf)
 - [Hôpital Necker. Facteurs susceptibles d'induire la dégranulation mastocytaire.](http://www.maladiesrares-necker.aphp.fr/facteurs-susceptibles-dinduire-la-degranulation-mastocytaire/)
 - [Collège des Enseignants d'Immunologie de Langue Française. Item 114 : Urticaire et œdème de Quincke : diagnostic, étiologie, traitement. 2011. (PDF)](http://campus.cerimes.fr/immunologie/enseignement/immuno_114a/site/html/cours.pdf)
 - [Dermato-info. L'urticaire.](https://dermato-info.fr/fr/les-maladies-de-la-peau/l%E2%80%99urticaire)
-- [ANAES/SFDermato. Conférence de consensus - Prise en charge de l'urticaire chronique. 2003. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/urticaire_court.pdf)
+- [ANAES, Société française de dermatologie. Conférence de consensus - Prise en charge de l'urticaire chronique. 2003. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/urticaire_court.pdf)
 
 ### À lire
 
+- [SFD. Traitement de l'urticaire chronique spontanée. 2019. (PDF)](https://document.sfdermato.org/reco/urticaire-chronique-spontan%C3%A9e/SFD_urticaire-chronique-spontan%C3%A9e_synth%C3%A8se_2019-11.pdf)
 - [SFD. Recommandations urticaire chronique spontanée. Arbre décisionnel. Décembre 2019.](https://reco.sfdermato.org/fr/recommandations-urticaire-chronique-spontan%C3%A9e)
 - [CEDEF. Dermatite atopique. UE7 Item 163. 2017.](https://undf.cedef.org/fr/document/Hypersensibilit%C3%A9s-et-allergies-cutan%C3%A9o-muqueuses-chez-l%E2%80%99enfant-et-l%E2%80%99adulte)
 

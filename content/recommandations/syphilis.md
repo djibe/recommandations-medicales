@@ -15,14 +15,14 @@ anglais = ["Syphilis"]
 sctid = "76272004"
 draft = false
 flowchart = true
-todo = "Prescrire cite la ceftriaxone IM 1g/j 10 à 14j"
+todo = "KEY sérologie syphilitique, Prescrire cite la ceftriaxone IM 1g/j 10 à 14j"
 +++
 
 {{%article-summary%}}
 
 - Évoquer un chancre devant toute ulcération génitale
 - Traiter comme une syphilis tardive quand la date de contamination n'est pas connue
-- Sérologies des autres IST
+- Sérologies des autres [IST](/tags/ist/)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -189,7 +189,7 @@ Selon les expositions.
 Port du **préservatif** avec tout partenaire en l'absence de bilan d'IST récent des 2 partenaires.  
 Également si multi-partenaires.
 
-Dépistage de la syphilis tous les 3 à 6 mois chez la personne vivant avec le VIH (HAS 2018).
+Dépistage de la syphilis tous les 3 à 6 mois chez la personne vivant avec le [VIH]({{< relref "vih-sida.md" >}}) (*HAS 2018*).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la syphilis" %}}
@@ -197,7 +197,7 @@ Dépistage de la syphilis tous les 3 à 6 mois chez la personne vivant avec le V
 ### Mesures générales
 
 - Éviter tout rapport sexuel  
-Même protégé, pendant toute la durée du traitement et jusqu'à 2 semaines après, et jusqu'à la guérison des lésions cutanéo-muqueuses.
+  Même protégé, pendant toute la durée du traitement et jusqu'à 2 semaines après, et jusqu'à la guérison des lésions cutanéo-muqueuses.
 - Hospitalisation si signes neurologiques
 
 ### Syphilis précoce
@@ -205,35 +205,34 @@ Même protégé, pendant toute la durée du traitement et jusqu'à 2 semaines ap
 {{%info%}}Benzathine pénicilline G (BPG) 2,4 MU en dose unique IM{{%/info%}}
 
 - Paracétamol systématique  
-Informer sur la réaction d'Herxeimer.
-- Antibiothérapie  
-Benzathine pénicilline G (BPG) 2,4 MU dans fesse ou cuisse face latérale OU 2 injections IM de 1,2 MU.  
-Administration intra-musculaire exclusivement.  
-Garder le patient sous surveillance pendant 30 minutes en présence de matériel d'urgence.  
-**Contre-indications:** allergie bêtalactamines, anticoagulants.
+  Informer sur la réaction d'Herxeimer.
+- Antibiothérapie
+  - Benzathine pénicilline G (BPG) 2,4 MU dans fesse ou cuisse face latérale OU 2 injections IM de 1,2 MU
+  - Administration intra-musculaire exclusivement
+  - Garder le patient sous surveillance pendant 30 minutes en présence de matériel d'urgence
+  - **Contre-indications:** allergie bêtalactamines, anticoagulants
 - Dépistage des contacts  
-Tous les contacts des 3 mois précédents.
+  Tous les contacts des 3 mois précédents.
 
 {{%info%}}Affirmer la guérison est impossible, nécessité de surveiller les patients pendant plusieurs années.  
-Répéter les sérologies dans les populations à risque (contaminées ou non).{{%/info%}}
+Répéter les sérologies dans les populations à risque (contaminées ou non){{%/info%}}
 
 #### Situations particulières
 
 - Allergie aux bêtalactamines  
-doxycycline 100 mg x 2/j pendant 14 jours  
-Contre-indications: enfant < 8 ans, grossesse, allaitement
+  doxycycline 100 mg x 2/j pendant 14 jours  
+  Contre-indications: enfant < 8 ans, grossesse, allaitement.
 - Anticoagulants  
-Idem *Allergie aux bêtalactamines*
+  Idem *Allergie aux bêtalactamines*
 - Patient VIH
-Schéma BPG
+  Schéma BPG
 - Grossesse
-Schéma BPG  
-ET paracétamol (prévention d'Herxeimer)  
-± prednisone 0,5 mg/kg la veille et les 3 jours suivants l'injection en cas de syphilis secondaire profuse.
+  Schéma BPG et paracétamol (prévention d'Herxeimer)  
+  ± prednisone 0,5 mg/kg la veille et les 3 jours suivants l'injection en cas de syphilis secondaire profuse.
 - Congénital  
-Hospitalisation
+  Hospitalisation
 - Signes neurologiques, ophtalmo ou auditifs  
-Hospitaliser pour ponction lombaire et traiter comme une neurosyphilis
+  Hospitaliser pour ponction lombaire et traiter comme une neurosyphilis
 - Avis infectiologue si cas problématique
 
 ### Syphilis tardive ou date de contamination inconnue
@@ -326,7 +325,7 @@ Dans ce cas:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une syphilis" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le traitement de la syphilis. Dr JB Fron d'après SFDermato 2016" >}}
+{{< mermaid title="Conduite à tenir pour le diagnostic et le traitement de la syphilis. Dr JB Fron d'après SFDermato 2016" >}}
 graph TB
   chancre[Chancre] -- Syphilis primaire --> ttt("VDRL, sérologies IST<br>BPG 2,4 MU IM unique<br>Paracétamol<br>Dépistage contacts &lt; 3 mois")
   style chancre stroke:#4150f5, stroke-width:1px

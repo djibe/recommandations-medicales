@@ -4,7 +4,7 @@ noindex = true
 url = "/scores"
 titleSeo = "Scores pour la clinique"
 prefix = ""
-shortname = ""
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-14T15:58:37+01:00"
@@ -16,7 +16,6 @@ sources = []
 tags = ["risque cardiovasculaire"]
 anglais = []
 sctid = ""
-draft = false
 image = true
 imageSrc = "Scores cliniques par slidesgo / Freepik"
 +++

@@ -2,11 +2,12 @@
 title = "Spondylarthrite ankylosante"
 prefix = "la "
 titleSeo = "Spondylarthrite ankylosante"
+description = "Actualisation des recommandations pour la prise en charge des spondylarthrites. Bilan avec radiographie et IRM des sacro-iliaques. Traitement AINS ou biothérapie"
 synonyms = ["Spondyloarthrite"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-15T20:39:41+02:00
 publishdate = 2020-10-15
-lastmod = 2021-07-19
+lastmod = 2022-03-25
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "EULAR"]
@@ -14,7 +15,7 @@ tags = ["AINS", "biotherapie"]
 anglais = ["Axial spondyloarthritis"]
 sctid = "723116002"
 flowchart = true
-todo = "def rhumatisme pso + MICI, bilan pré-thérap antitnfa, Société Française de Rhumatologie 2021 (Paris, 12-14 décembre 2021). Recommandations SFR."
+todo = "reco 2022, def rhumatisme pso + MICI, bilan pré-thérap antitnfa"
 +++
 
 {{%article-summary%}}
@@ -69,7 +70,7 @@ Spondylarthropaties indifférenciées
 
 ### Abréviations
 
-**ESSG:** European Spondylarthropathy Study Group
+**ESSG:** {{%lang%}}European Spondylarthropathy Study Group{{%/lang%}}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -124,7 +125,7 @@ Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, i
 {{%collapse "Critères diagnostiques ESSG" %}}
 
 {{%info%}}
-**Diagnostic formel de spondylarthropathie si 1 critère majeur ET 1 critère mineur.**
+**Diagnostic formel de spondylarthropathie si un critère majeur ET un critère mineur.**
 
 ### Critères majeurs
 
@@ -160,8 +161,9 @@ Se 87%, Spe 96%
 
 - NFS
 - VS, CRP  
-{{%class%}}Syndrome inflammatoire modeste (60% des cas).{{%/class%}}
-- Bilan cardiovasculaire (glycémie à jeun, bilan lipidique pour calcul du {{< scores/heartscore >}}.
+  {{%class%}}Syndrome inflammatoire modeste (60% des cas).{{%/class%}}
+- Bilan cardiovasculaire  
+  Glycémie à jeun, bilan lipidique pour calcul du {{< scores/heartscore >}}.
 
 ### Radiographies
 
@@ -188,8 +190,9 @@ Importante pour un diagnostic précoce.
 
 **Objectif:** rémission ou activité minimale de la maladie. Cibles objectivables définies avec le patient.
 
-- Déclarer l'ALD 27 (100 %)  
-± MDPH
+Résumé des recommandations pour la prise en charge de la spondylarthrite:
+
+- Déclarer l'ALD 27 ± MDPH
 - Suivi spécialisé systématique par le rhumatologue
 - Éducation du patient
 - Arrêt du tabac systématique  
@@ -213,9 +216,9 @@ Importante pour un diagnostic précoce.
   - Auto-exercices
 - Soutien psychologique
 - Associations de patients  
-[Action contre les Spondylarthropathies](https://www.acs-france.org/), [Association Française de Lutte Anti-Rhumatismale](https://www.aflar.org/), [Association France Spondyloarthrites](https://www.spondy.fr/), [Spondyl(O)action](https://spondyloaction.fr/)
+  [Action contre les Spondylarthropathies](https://www.acs-france.org/), [Association Française de Lutte Anti-Rhumatismale](https://www.aflar.org/), [Association France Spondyloarthrites](https://www.spondy.fr/), [Spondyl(O)action](https://spondyloaction.fr/)
 - Participer à la recherche  
-[Cohorte ComPaRe](https://compare.aphp.fr/)
+  [Cohorte ComPaRe](https://compare.aphp.fr/)
 
 ### Arthrite périphérique
 
@@ -241,12 +244,12 @@ Lors de réponse partielle aux AINS, prescription par le rhumatologue.
 
 ### Traitements conventionnels
 
-Les traitements conventionnels (**méthotrexate**, **léflunomide**/Arava®, **sulfasalazine**/Salazopyrine®) n'ont pas d'indication en atteinte axiale ou enthésitique isolée.  
+Les traitements conventionnels (**méthotrexate**, **léflunomide** Arava®, **sulfasalazine** Salazopyrine®) n'ont pas d'indication dans la prise en charge d'une forme axiale ou enthésitique isolée.  
 Ils peuvent être envisagés en cas d'arthrite périphérique réfractaire au traitement symptomatique.
 
 ### Biothérapies
 
-**Indications:**
+Indications à la prise en charge de la spondylarthrite par biothérapie:
 
 1. SpA axiale  
     - Réponse insuffisante aux AINS (symptômes persistants sous AINS pleine dose)
@@ -338,9 +341,15 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Société Française de Rhumatologie. Actualisation 2018 des recommandations de la Société française de rhumatologie (SFR) pour la prise en charge en pratique courante des malades atteints de spondyloarthrite](https://www.em-consulte.com/article/1202013/figures/actualisation-2018%C2%A0des-recommandations-de-la-socie)
-- [Gossec L. et al. Collecte et prise en charge de certaines comorbidités et facteurs de risque associés dans le cadre des rhumatismes inflammatoires chroniques dans la pratique quotidienne en France. Revue du Rhumatisme Volume 84, Issue 2, March 2017, Pages 123-131](https://www.sciencedirect.com/science/article/abs/pii/S1169833016308250)
-- [Société Française de Rhumatologie. Recommandations de la Société française de rhumatologie pour la prise en charge en pratique courante des malades atteints de spondylarthrite. 2014. (PDF)](https://www.larhumato.fr/wp-content/uploads/2017/11/SA20recos20SFR20Rev20Rhum.pdf)
+- [Wendling D. et al. Actualisation 2018 des recommandations de la Société française de rhumatologie (SFR) pour la prise en charge en pratique courante des malades atteints de spondyloarthrite. Revue du Rhumatisme. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S116983301830005X)
+- [Gossec L. et al. Collecte et prise en charge de certaines comorbidités et facteurs de risque associés dans le cadre des rhumatismes inflammatoires chroniques dans la pratique quotidienne en France. Revue du Rhumatisme. 2017.](https://www.sciencedirect.com/science/article/abs/pii/S1169833016308250)
+- [Van der Heijde D. et al. 2016 update of the ASAS-EULAR management recommendations for axial spondyloarthritis. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/6/978)
+- [Mandl P. et al. EULAR recommendations for the use of imaging in the diagnosis and management of spondyloarthritis in clinical practice. Annals of the Rheumatic Diseases. 2015.](https://ard.bmj.com/content/74/7/1327)
+- [Wendling D. et al. Recommandations de la Société française de rhumatologie pour la prise en charge en pratique courante des malades atteints de spondylarthrite. Revue du Rhumatisme. 2014. (PDF)](https://www.larhumato.fr/wp-content/uploads/2017/11/SA20recos20SFR20Rev20Rhum.pdf)
 - Collège Français des Enseignants en Rhumatologie (COFER). Spondylarthrite inflammatoire - Item 197 UE 8.
+
+### À lire
+
+[Wendling D. et al. Actualisation 2022 des recommandations de la Société française de rhumatologie (SFR) pour la prise en charge en pratique courante des malades atteints de spondyloarthrite, incluant le rhumatisme psoriasique. Revue du Rhumatisme. 2022.](https://www.sciencedirect.com/science/article/pii/S1169833022000023)
 
 {{%/sources%}}

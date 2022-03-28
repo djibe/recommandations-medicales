@@ -1,6 +1,7 @@
 +++
 title = "Maladies à déclaration obligatoire"
 prefix = "les "
+noindex = true
 titleSeo = "Maladies à déclaration obligatoire"
 description = "Liste des 36 maladies à déclaration obligatoire selon l'article D3113-6 du Code de la Santé publique: Hépatite A ou hépatite B symptomatique, VIH ..."
 synonyms = []

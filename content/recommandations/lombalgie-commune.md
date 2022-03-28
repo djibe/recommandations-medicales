@@ -2,11 +2,12 @@
 title = "Lombalgie commune et lumbago"
 prefix = "la "
 titleSeo = "Lombalgie commune et lumbago"
-synonyms = []
+description = "Recommandations pour la prise en charge de la lombalgie aiguë et chronique. Drapeau rouge, indications à l'imagerie. Activité physique, antalgique palier 1 ..."
+synonyms = ["Poussée aiguë de lombalgie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-26T09:21:22+02:00"
 publishdate = "2021-10-26"
-lastmod = "2021-12-03"
+lastmod = "2022-03-25"
 specialites = ["rhumatologie"]
 annees = "2019"
 sources = ["HAS"]
@@ -18,18 +19,21 @@ imageSrc = ""
 todo = "Collège, questionnaires cliquables, flowchart"
 +++
 
-Ces recommandations concernent la lombalgie chronique dégénérative (non traumatique, tumorale, infectieuse ou inflammatoire).
-
 {{%article-summary%}}
 
-- Recherche des signes d'alerte systématique
+- Ces recommandations concernent la lombalgie dégénérative (non traumatique, tumorale, infectieuse ou inflammatoire)
+- Recherche des signes d'alerte systématique (drapeau rouge ++)
 - << Le bon traitement, c'est le mouvement >> (*[Affiches pour la salle d'attente](https://www.ameli.fr/medecin/sante-prevention/pathologies/lombalgies/outils-prise-charge-lombalgie-commune)*)  
-L'exercice physique est le traitement principal.
+  L'activité physique est le traitement principal.
 - [Appli Activ' Dos](https://play.google.com/store/apps/details?id=fr.cnamts.samd)
 - On prononce lom-bago
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
+
+Poussée aiguë de lombalgie
+: Remplace le terme de lombalgie aiguë
+: Survenue de douleurs lombaires avec ou sans douleur de fond préexistante (*HAS*) pendant moins de trois mois.
 
 Lombalgie chronique
 : Douleur de la région lombaire durant plus de 3 mois. Elle peut s'accompagner d'une radiculalgie uni/bilatérale à la fesse, crête iliaque voire la cuisse, dépassant exceptionnellement le genou.
@@ -40,17 +44,19 @@ Lombalgie chronique
 Lombalgie récidivante
 : Récidive de lombalgie sous 12 mois. Lombalgie à *risque de chronicité* (durée > 3 mois et présence de *drapeaux jaunes*).
 
-### Épidémiologie
+### Épidémiologie de la lombalgie
 
 - Touche principalement les 40-60 ans sans prédominance de sexe
 - Évolution vers chronicité: 6-8%
-- Coût > 900 millions/an
+- Impact économique: coût > 900 millions euros annuels
 - 30% des arrêts de travail > 6 mois, 20% des accidents du travail
-- 3e motif d'admission en invalidité
+- 3<sup>e</sup> motif d'admission en invalidité
 - 2014-2017: 481.300 entrées aux Urgences, 10% hospitalisées
 
 {{% /collapse %}}
 {{%collapse "Signes d'alerte" %}}
+
+Signes de gravité à rechercher devant une lombalgie aiguë ou chronique.
 
 {{%warning%}}
 
@@ -63,21 +69,21 @@ Lombalgie récidivante
 - Antécédents tumoraux
 - Corticothérapie prolongée (dont asthme)
 - Toxicomanie, immunosuppression, VIH
-- AEG, amaigrissement
+- AEG, perte de poids inexpliquée
 - Fièvre
 - Symptômes neurologiques hors radiculalgie limitée  
-Sphincters, moteur, paresthésies pubis/périnée.
+  Sphincters, moteur, paresthésies pubis/périnée.
 - Déformation rachidienne
 {{%/warning%}}
 
 ### Drapeaux jaunes (personne)
 
 - Pensées  
-Catastrophisme, croyances sur l'état, la douleur, la nocivité, attentes négatives du futur.
+  Catastrophisme, croyances sur l'état, la douleur, la nocivité, attentes négatives du futur.
 - Sentiments  
-Inquiétude, détresse, anxiété/dépression, peur du mouvement, incertitudes sur le futur.
+  Inquiétude, détresse, anxiété/dépression, peur du mouvement, incertitudes sur le futur.
 - Comportement  
-Description de symptômes extrêmes, stratégies passives (ceinture, immobilité), inefficacité des traitements.
+  Description de symptômes extrêmes, stratégies passives (ceinture, immobilité), inefficacité des traitements.
 
 Arrêt > 4 semaines: rechercher drapeaux bleus et noirs et expertise avec le *médecin du travail* pour l'adaptation du poste.
 
@@ -94,7 +100,7 @@ Arrêt > 4 semaines: rechercher drapeaux bleus et noirs et expertise avec le *m�
 ### Drapeaux noirs (contexte)
 
 - Incompréhension entre les acteurs  
-Patient, médecin, employeur.
+  Patient, médecin, employeur.
 - Compensation financière
 - Croyance de l'entourage
 - Isolement social
@@ -104,14 +110,15 @@ Patient, médecin, employeur.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-- Âge (risque de fracture après 70 ans ++)
+- Âge  
+  Risque de fracture après 70 ans.
 - Antécédents personnels  
-**Traumatisme récent**, tumeur, neurologique, infectieux ou inflammatoire-rhumatismal.
+  **Traumatisme récent**, tumeur, neurologique, infectieux ou inflammatoire-rhumatismal.
 - Antécédents familiaux
 - Traitements  
-**Corticothérapie** prolongée (> 3 mois, dont inhalée).
+  **Corticothérapie** prolongée (> 3 mois, dont inhalée).
 - Toxiques
-- Lombalgie
+- Douleur lombaire
   - Antécédents
   - Ancienneté
   - Caractères
@@ -120,10 +127,13 @@ Patient, médecin, employeur.
 - Examen neurologique
   - Examen et périmètre de marche déclaré
   - Douleurs neuropathiques ({{< modal-btn modal-score-dn4 >}}DN4{{< /modal-btn >}})
+  - Rechercher un syndrome de la queue de cheval
 - Signes généraux  
-AEG, fièvre.
-- Identifier les peurs, croyances, contexte psychologique et social (facteurs de risque de chronicité)
-- Évaluation du risque de chronicité: [STarT Back screening tool](http://sectionrachis.fr/index.php/recommandation-lombalgie/questionnaires/), [questionnaire Örebro version courte (PDF)](https://kce.fgov.be/sites/default/files/atoms/files/OrebroFr.pdf)
+  AEG, fièvre.
+- Identifier les peurs, croyances, contexte psychologique et social (facteurs de risque de chronicité)  
+  Explications sur la solidité de la colonne vertébrale. L'atteinte est musculaire ou ligamentaire.
+- Évaluation du risque de chronicité  
+  [STarT Back screening tool](http://sectionrachis.fr/index.php/recommandation-lombalgie/questionnaires/) et [questionnaire Örebro version courte (PDF)](https://kce.fgov.be/sites/default/files/atoms/files/OrebroFr.pdf).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -147,7 +157,7 @@ Indications:
 
 ### IRM lombaire
 
-Indications: lombalgie chronique, geste invasif (infiltration épidurale ou chirurgie)
+Indications à l'IRM: lombalgie chronique, geste invasif (infiltration épidurale ou chirurgie)
 
 {{% /collapse %}}
 {{%collapse "Traitement de la lombalgie aiguë" %}}
@@ -156,12 +166,13 @@ Indications: lombalgie chronique, geste invasif (infiltration épidurale ou chir
 
 La prise en charge est centrée sur le patient (bio-psycho-sociale) avec décisions partagées.
 
-Le traitement de la << poussée aiguë de lombalgie >> est symptomatique:
+Recommandations pour le traitement et la prise en charge de la << poussée aiguë de lombalgie >>:
 
-- Expliquer les termes et le pronostic favorable  
-[La lombalgie - Ameli (PDF)](https://www.ameli.fr/sites/default/files/Documents/346615/document/lombalgie-que-faire_assurance-maladie.pdf) et  [les dossiers Ameli](https://www.ameli.fr/assure/sante/themes/lombalgie-aigue).
+- Éducation du patient
+  - Expliquer les termes et le pronostic favorable
+  - [La lombalgie - Ameli (PDF)](https://www.ameli.fr/sites/default/files/Documents/346615/document/lombalgie-que-faire_assurance-maladie.pdf) et [les dossiers Ameli](https://www.ameli.fr/assure/sante/themes/lombalgie-aigue).
 - Maintien d'activité normale
-- Antalgie palier 1 voire palier 2
+- Antalgique palier 1 voire palier 2
 - AINS
 - Application de chaleur (TODO:)
 - Réévaluer sous 2-4 semaines
@@ -171,11 +182,11 @@ Le traitement de la << poussée aiguë de lombalgie >> est symptomatique:
 - Ostéopathie possible si couplée au renforcement
 - Radiculalgie persistante et sévère: infiltration épidurale
 - Ceintures lombaires rigides  
-Peuvent être envisagées pour aider à la reprise d'activités.
+  Peuvent être envisagées pour aider à la reprise d'activités.
 - Relaxation, méditation pleine conscience ou hypnose  
 {{%class%}}Peuvent être envisagées.{{%/class%}}
 - Arrêt de travail  
-Indication: douleurs intenses le justifiant, 5 jours puis réévaluation (*[Ameli 12/2017](https://www.ameli.fr/sites/default/files/Documents/347659/document/2017398_fiche_repere_at_lombalgie_v2_bd_0.pdf)*)
+  Indication: douleurs intenses le justifiant, courte durée 5 jours puis réévaluation (*[Ameli 12/2017](https://www.ameli.fr/sites/default/files/Documents/347659/document/2017398_fiche_repere_at_lombalgie_v2_bd_0.pdf)*)
 
 {{%warning%}}Ne pas utiliser: néfopam (Acupan®), corticoïdes, myorelaxants{{%/warning%}}
 

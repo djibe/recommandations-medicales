@@ -2,6 +2,7 @@
 title = "Migraine"
 prefix = "la "
 description = "Recommandations 2021 sur la migraine pour le médecin généraliste. Traitement de la crise, AINS, triptans et indications au traitement de fond bêtabloquant"
+longHtml = true
 synonyms = ["Migraine avec ou sans aura", "aura migraineuse"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-12T13:03:13+01:00"

@@ -1,7 +1,7 @@
 +++
 title = "Vaccination"
 prefix = "la "
-shortname = "Vaccination"
+description = "Recommandations vaccinales d'après le Calendrier vaccinal 2021. Âges de rattrapage, spécialités selon l'âge, taille d'aiguille, sites d'injection des vaccins"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-14T15:52:41+02:00
@@ -13,13 +13,12 @@ sources = ["MinSante", "HCSP"]
 tags = ["prevention", "vaccin", "zona"]
 anglais = []
 sctid = ""
-draft = false
 todo = "choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages"
 +++
 
 {{%article-summary%}}
 
-- La HAS [recommande la vaccination Mégingo B](https://www.has-sante.fr/jcms/p_3273097/fr/meningocoques-b-la-has-recommande-la-vaccination-des-nourrissons) des nourrissons, remboursé uniquement en risque élevé d'IIM
+- La HAS [recommande la vaccination Méningocoque B](https://www.has-sante.fr/jcms/p_3273097/fr/meningocoques-b-la-has-recommande-la-vaccination-des-nourrissons) des nourrissons, remboursé uniquement en risque élevé d'IIM
 - [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
 
 {{%/article-summary%}}
@@ -37,7 +36,7 @@ Rattrapage vaccinal
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal" "show" %}}
 
-{{< table title="Calendrier vaccinal 2021. Dr JB Fron d'après Ministère de la Santé 2021" >}}
+{{< table title="Calendrier des vaccins recommandés en France en 2021. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Ministère de la Santé 2021" >}}
 | Âge     | Valences      | Spécialités équivalentes       |
 |:-------:|---------------|--------------------------------|
 | 2 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
@@ -95,9 +94,9 @@ Rattrapage vaccinal
 {{% /collapse %}}
 {{%collapse "Populations à risque" %}}
 
-Personnes nécessitant un schéma vaccinal renforcé:
+Personnes nécessitant un schéma vaccinal renforcé (détail des vaccinations dans les chapitres concernés):
 
-- Asplénie
+- [Asplénie]({{< relref "asplenie.md" >}})
 - Cancer
 - Cardio-vasculaire
   - [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})

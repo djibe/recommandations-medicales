@@ -1,6 +1,7 @@
 +++
 title = "Évolution de la cotisation ordinale des médecins"
-description = "Évolution du montant de la cotisation annuelle au Conseil de l'Ordre des Médecins de 2001 à 2021, corrigée de l'inflation."
+description = "Évolution du montant de la cotisation annuelle au Conseil de l'Ordre des Médecins de 2001 à 2021, corrigée de l'inflation"
+longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-12-09T08:59:00+02:00
 publishdate = 2022-01-18

@@ -1,7 +1,7 @@
 +++
 title = "Tuberculose"
 prefix = "la "
-shortname = "BK"
+description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-03T15:14:20+02:00

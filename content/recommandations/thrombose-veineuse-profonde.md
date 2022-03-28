@@ -2,6 +2,7 @@
 title = "Thrombose veineuse profonde"
 prefix = "la "
 titleSeo = "Thrombose veineuse profonde"
+description = TODO:"
 longHtml = true
 synonyms = ["Phlébite profonde"]
 auteurs = ["Jean-Baptiste FRON"]

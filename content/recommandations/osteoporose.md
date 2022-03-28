@@ -2,14 +2,14 @@
 title = "Ostéoporose post-ménopausique"
 prefix = "l'"
 titleSeo = "Ostéoporose post-ménopausique"
-description = "Recommandations pour le traitement de l'ostéoporose: indications de l'ostéodensitométrie, traitement selon le T-score, biphosphonates et bilan pré-thérapeutique"
+description = "Recommandations pour le traitement de l'ostéoporose: indications de l'ostéodensitométrie, FRAX et T-score, biphosphonates et bilan pré-thérapeutique"
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. CORTET et Dr T. FUNCK-BRENTANO (SFR, GRIO)"
 date = 2020-09-04T17:43:41+02:00
 publishdate = 2021-12-06
-lastmod = 2022-03-19
+lastmod = 2022-03-28
 specialites = ["rhumatologie"]
 annees = "2019"
 sources = ["SFRhumato", "GRIO", "IOF", "HAS"]
@@ -166,17 +166,18 @@ Indications de l'ostéodensitométrie:
   - Contrôle 3-5 ans après une DXA sans critère de traitement ou apparition de nouveaux facteurs de risque
 - Sujet âgé à {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}}
 - Fracture ostéoporotique  
-Vertébrale ou périphérique sur traumatisme mineur.
+  Vertébrale ou périphérique sur traumatisme mineur.
 - Corticothérapie systémique  
-≥ 7,5 mg/j d'éq. prednisone ≥ 3 mois.
+  ≥ 7,5 mg/j d'éq. prednisone ≥ 3 mois.
 - Endocrinopathie ou pathologie déminéralisante  
-Hypogonadisme prolongé (dont orchidectomie, traitement prolongé par GnRH, aménorrhée primaire ou secondaire), hyperthyroïdie évolutive non traitée, hypercorticisme, hyperparathyroïdie primitive, ostéogenèse imparfaite.
+  Hypogonadisme prolongé (dont orchidectomie, traitement prolongé par GnRH, aménorrhée primaire ou secondaire), hyperthyroïdie évolutive non traitée, hypercorticisme, hyperparathyroïdie primitive, ostéogenèse imparfaite.
   - Maladie cœliaque (*ESsCD 2019*)  
   Au diagnostic puis tous les 2-5 ans selon la DMO.
 - Traitement anti-ostéoporotique
   - Contrôle tous les 2-3 ans de la réponse au traitement
   - À chaque modification de traitement et en arrêt précoce
   - 2 ans après l'arrêt du traitement
+- Homme VIH+ CD4 > 500/mm³ ET ≥ 60 ans ou < 60 ans avec IMC < 20 (*HAS 2018 VIH*)
 
 Examen diagnostique de l'ostéoporose: **T-score ≤ -2,5 DS au col fémoral** (*OMS 94*)  
 T-score > -1 = **DMO normale** | -2,5 < T-score ≤ -1 = **Ostéopénie**.

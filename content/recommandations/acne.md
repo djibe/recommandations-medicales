@@ -13,7 +13,6 @@ sources = ["SFDermato", "HAS"]
 tags = ["contraception"]
 anglais = ["Acne"]
 sctid = "11381005"
-draft = false
 image = true
 imageSrc = "Photo de profeticsbeta sur Foter.com / CC BY-NC-SA"
 flowchart = true

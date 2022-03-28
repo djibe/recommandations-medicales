@@ -1,6 +1,5 @@
 +++
-title = "La vie au cabinet"
-description = "Les outils et informations pour être productif au cabinet."
+title = "Outils pour le généraliste dans sa vie quotidienne"
+description = "Les outils et informations pratiques pour rendre le médecin généraliste plus productif au cabinet. Ordinateur, e-CPS, aides à l'installation ..."
 auteurs = ["Jean-Baptiste FRON"]
-draft = false
 +++

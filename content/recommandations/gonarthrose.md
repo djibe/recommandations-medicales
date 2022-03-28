@@ -68,7 +68,7 @@ France: chez les 40-75 ans, prévalence de 2-10% pour les femmes et 1,5-15% pour
 ### Interrogatoire
 
 - Antécédents  
-Traumatismes articulaires, rhumatismes, cardiovasculaires, rénales, gastriques.
+  Traumatismes articulaires, rhumatismes, cardiovasculaires, rénales, gastriques.
 - Facteurs de risque cardiovasculaires
 - Traitements
   - En cours (anticoagulants et antiagrégants)
@@ -84,7 +84,7 @@ Traumatismes articulaires, rhumatismes, cardiovasculaires, rénales, gastriques.
   - Augmentée à la descente des escaliers, station assise prolongée et agenouillement
 - Raideur
 - Gêne fonctionnelle  
-Questionnaires types: [Indice de Lequesne](https://www.chu-clermontferrand.fr/Internet/Documents/Rhumatologie/Gonarthrose.Lequesne.pdf), [KOOS](http://fr.scale-library.com/resultat_echelle.php?echelle=Knee%20injury%20and%20Osteoarthritis%20Outcome%20Score%20(KOOS)&theme=&type=&scalage=adulte&retour=liste&cle=&echelle_box=Index%20de%20WOMAC) ou [WOMAC](http://fr.scale-library.com/resultat_echelle.php?echelle=Knee%20injury%20and%20Osteoarthritis%20Outcome%20Score%20(KOOS)&theme=&type=&scalage=adulte&retour=liste&cle=&echelle_box=Index%20de%20WOMAC).
+  Recommandation pour des questionnaires types: [Indice de Lequesne](https://www.chu-clermontferrand.fr/Internet/Documents/Rhumatologie/Gonarthrose.Lequesne.pdf), [KOOS](http://fr.scale-library.com/resultat_echelle.php?echelle=Knee%20injury%20and%20Osteoarthritis%20Outcome%20Score%20(KOOS)&theme=&type=&scalage=adulte&retour=liste&cle=&echelle_box=Index%20de%20WOMAC) ou [WOMAC](http://fr.scale-library.com/resultat_echelle.php?echelle=Knee%20injury%20and%20Osteoarthritis%20Outcome%20Score%20(KOOS)&theme=&type=&scalage=adulte&retour=liste&cle=&echelle_box=Index%20de%20WOMAC).
 - Niveau d'activité physique
 - Qualité de vie
 
@@ -94,13 +94,13 @@ Questionnaires types: [Indice de Lequesne](https://www.chu-clermontferrand.fr/In
 - Examen debout, à la marche, puis couché
 - Déformation, boîterie, lâchage
 - Mobilité, flexion (talon-fesse)  
-Craquement audible et palpable en flexion traduit une atteinte du cartilage.
+  Craquement audible et palpable en flexion traduit une atteinte du cartilage.
 - Épanchement (choc rotulien, signe du flot, kyste poplité)
 - Amyotrophie
 - Stabilité
 - Recherche coxarthrose et douleur projetée
 - Arthrose fémoro-patellaire  
-Douleur augmentée: extension contrariée de jambe, palpation de rotule et pression genou fléchi, rabot, manœuvre de Zohlen (douleur en maintien de rotule lors de contraction du quadriceps).
+  Douleur augmentée: extension contrariée de jambe, palpation de rotule et pression genou fléchi, rabot, manœuvre de Zohlen (douleur en maintien de rotule lors de contraction du quadriceps).
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -117,10 +117,9 @@ Chondrocalcinose articulaire, [goutte]({{< relref "goutte.md" >}}).
 ### Douleurs chroniques
 
 - Coxarthrose  
-Douleurs projetées.
+  Douleurs projetées.
 - Atteinte méniscale  
-Début brutal, sujet jeune, blocages
-
+  Début brutal, sujet jeune, blocages.
 - Ostéonécrose d'un condyle fémoral
 - Fissure du plateau tibial
 - Tumeur osseuse
@@ -133,8 +132,8 @@ Début brutal, sujet jeune, blocages
   - Tendinite de la patte d'oie  
   Douleur réveillée en palpation de face interne du tibia sous l'interligne fémoro-tibial interne. Déclenchée par flexion contrariée.
 - Hygroma du genou  
-Bursite pré-rotulienne, profession à risque. Tuméfaction molle, peu douloureuse, antérieure.  
-AINS topiques, ponctions évacuatrices avec infiltration de corticoïdes.
+  Bursite pré-rotulienne, profession à risque. Tuméfaction molle, peu douloureuse, antérieure.  
+  AINS topiques, ponctions évacuatrices avec infiltration de corticoïdes.
 - Radiculalgie
 - Gonarthrose secondaire
   - Arthrite chronique  
@@ -180,6 +179,8 @@ Pour le diagnostic positif et différentiel.
 
 ### Traitements de la gonarthrose fémoro-tibiale
 
+Recommandations pour la prise en charge des douleurs par les traitements pharmacologiques ou non en première intention.
+
 #### Mesures générales
 
 - Arrêt des traitements inefficaces et/ou mal tolérés.
@@ -188,7 +189,7 @@ Pour le diagnostic positif et différentiel.
   - "Son profil d'efficacité/tolérance n'incite pas à le prescrire comme un traitement de fond antalgique au long cours"
   - Pas d'efficacité au delà de 3 g/j  
   - Voire cotraitement avec opioïdes faibles (association significative de surmortalité observée avec le tramadol)
-- **AINS per os: naproxène** 550 mg x 2/j
+- **AINS oraux: naproxène** 550 mg x 2/j
   - Durée + courte et dose + faible recherchées.
   - "Les autres voies d'administration (IM, IV) des AINS n'ont pas lieu d'être dans la gonarthrose"  
 - **AINS topiques: kétoprofène** 2,5% gel x 2/j (ou diclofénac)
@@ -199,7 +200,7 @@ Pour le diagnostic positif et différentiel.
 - Activité physique régulière en dehors des poussées
 - Perte de poids si surpoids
 - Kinésithérapie  
-Renforcement du quadriceps, auto-exercices.
+  Renforcement du quadriceps, auto-exercices.
 - Genouillère articulée peut être antalgique
 
 #### Infiltrations de corticoïdes
@@ -216,14 +217,14 @@ Essayer l'abstention en cas de chirurgie proche.
 Les injections intra-articulaires d'acide hyaluronique (AH) peuvent être proposées, sans avancer d'effet chondroprotecteur.  
 L'efficacité est retardée par rapport aux corticoïdes.
 
-> "Le groupe de travail a considéré que leur niveau d'efficacité et leur profil de tolérance les placent comme un outil thérapeutique important de la gonarthrose symptomatique" (*SFR 2020*).
+> << Le groupe de travail a considéré que leur niveau d'efficacité et leur profil de tolérance les placent comme un outil thérapeutique important de la gonarthrose symptomatique >> (*SFR 2020*).
 
 Pas de certitude entre le choix d'injection unique en séquentielle triple.  
 Le renouvellement des injections est discuté au cas par cas.
 
-#### Arthroplastie - chirurgie
+#### Arthroplastie du genou - chirurgie
 
-Indication: gonarthrose symptomatique avérée avec résistance au traitement bien conduit et altération de la qualité de vie.  
+Indication à l'arthroplastie du genou: gonarthrose symptomatique avérée avec résistance au traitement bien conduit et altération de la qualité de vie.  
 Indice de Lequesne ≥ 10-12 doit aussi faire envisager une chirurgie.
 
 Méthodes: ostéotomie de réaxation ou prothèse de genou.
