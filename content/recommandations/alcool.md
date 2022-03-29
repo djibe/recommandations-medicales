@@ -1,8 +1,8 @@
 +++
 title = "Mésusage et sevrage de l'alcool"
 prefix = "le "
-titleSeo = "Sevrage en alcool"
-description = "Recommandations pour le dépistage d'une consommation à risque d'alcool (scores FACE et AUDIT-C), vitamines et benzodiazépines pour le syndrome de sevrage"
+titleSeo = "Sevrage de l'alcool"
+description = "Recommandations pour la prise en charge du sevrage de l'alcool. Vitamines, benzodiazépine pour le syndrome de sevrage ambulatoire, acamprosate pour l'abstinence"
 synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
@@ -16,7 +16,7 @@ anglais = []
 sctid = ""
 image = true
 imageSrc = "Les verres d'alcool standards par Alcool-Info-Service"
-todo = "entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, centres de cure, bilan des complications"
+todo = "KEY x3 sevrage ambulatoire | x2 syndrome de sevrage, symptômes de sevrage | médicaments, sevrage de l'alcool, entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, centres de cure, bilan des complications"
 +++
 
 {{%article-summary%}}
@@ -40,8 +40,8 @@ Pour la pratique: [Alcool Info Service](https://www.alcool-info-service.fr/) ou 
 Alcool
 : Substance psychoactive la plus utilisée en France (suivie de tabac et cannabis). Plus précisément *éthanol*, obtenu par fermentation de fruits, grains ou tubercules.
 : Concentration plasmatique maximale atteinte en 45 minutes (90 pendant un repas). 95% est éliminé par le foie.
-: 1 verre standard contient 10 grammes d'alcool pur (éthanol). Marqueurs de consommation: **VGM** (diminue en 3 mois à l'arrêt) + **GGT** (peu sensible avant 30 ans, diminue de 50% tous les 15 jours à l'arrêt).
-: Objectifs principaux de la prise en charge du mésusage: éviter l'évolution vers des complications, réduire les dommages consécutifs et améliorer la qualité de vie des patients.
+: Un verre standard contient 10 grammes d'alcool pur (éthanol). Marqueurs de consommation: **VGM** (diminue en 3 mois à l'arrêt) + **GGT** (peu sensible avant 30 ans, diminue de 50% tous les 15 jours à l'arrêt).
+: Objectifs principaux de la prise en charge du mésusage: éviter l'évolution vers des complications somatiques ou psychiatriques, réduire les dommages consécutifs et améliorer la qualité de vie des patients.
 
 ### 5 catégories d'usage de l'alcool
 
@@ -49,16 +49,16 @@ Alcool
 2. Usage simple ou à faible risque  
   Consommation asymptomatique et inférieure aux seuils recommandés (voir *Dépistage*).
 3. **Mésusage**
-    - **Usage à risque**  
-    Asymptomatique mais susceptible d'entraîner des dommages.
-    - **Usage nocif**  
-    Dommages somatiques, psychiques ou sociaux mais sans éléments en faveur d'une dépendance.
+    - Usage à risque  
+      Asymptomatique mais susceptible d'entraîner des dommages.
+    - Usage nocif  
+      Dommages somatiques, psychiques ou sociaux mais sans éléments en faveur d'une dépendance.
     - Usage avec dépendance
 
-L'*usage nocif* et la *dépendance*, dits **troubles liés à l'usage de l'alcool** (CIM-10), sont caractérisés par des symptômes visibles sur le plan **social**, **psychologique** ou **médical**.
+L'*usage nocif* et la *dépendance*, dits troubles liés à l'usage de l'alcool (CIM-10), sont caractérisés par des symptômes visibles sur le plan **social**, **psychologique** ou **médical**.
 
 Rechute
-: Reprise de fortes consommations ≥ 5 verres/j en 1 seule occasion pour l'homme < 65 ans, 4 si femme ou ≥ 65 ans (définition *FDA* avec verre à 14g).
+: Reprise par le patient de fortes consommations ≥ 5 verres/j en 1 seule occasion pour l'homme < 65 ans, 4 si femme ou ≥ 65 ans (définition *FDA* avec verre à 14g).
 
 ### Abréviations
 
@@ -67,6 +67,7 @@ Rechute
 **CSAPA:** Centres de soins, d'accompagnement et de prévention en addictologie (CSAPA)  
 **FACE:** Formule pour Approcher la Consommation d'alcool par Entretien  
 **RPIB:** repérage précoce et intervention brève  
+**SFA:** Société française d'alcoologie  
 **SSA:** syndrome de sevrage alcoolique  
 **TCC:** thérapies cognitives et comportementales
 
@@ -76,7 +77,7 @@ Rechute
 - Responsable d'1/3 des décès prématurés
 - Décès: 41.000 annuels (30.000 hommes)
   - Cancers: 30.000 annuels attribuables (2<sup>e</sup> cause évitable derrière le tabac)  
-Bouche, pharynx, larynx, œsophage, foie, côlon-rectum, sein. Augmentation du risque/unité alcool de 9 à 168% selon les localisations (bouche, pharynx, larynx +++).
+    Bouche, pharynx, larynx, œsophage, foie, côlon-rectum, sein. Augmentation du risque/unité alcool de 9 à 168% selon les localisations (bouche, pharynx, larynx +++).
   - Décès cardiovasculaires: 9900 décès annuels attribuables (HTA, AVC, FA)
 - Consommation excessive
   - La France est 6<sup>e</sup> des pays de l'OCDE (sur 34)
@@ -88,7 +89,7 @@ Bouche, pharynx, larynx, œsophage, foie, côlon-rectum, sein. Augmentation du r
   - Décès sur la route: 1/3 par alcool
   - Risque mortel: x 8 (x 6 de 0,5 à 0,8 g/L)
 - Handicap  
-Alcoolisation fœtale est la 1<sup>re</sup> cause de handicap non génétique.
+  Alcoolisation fœtale est la première cause de handicap non génétique.
 
 #### Croyances sur l'alcool en France
 
@@ -176,40 +177,40 @@ De 0 à 10, évaluer:
 {{% /collapse %}}
 {{%collapse "Dépistage des complications" %}}
 
-Rechercher les complications d'un mésusage de l'alcool et proposer un suivi spécialisé.
+Rechercher les complications d'un mésusage de l'alcool et proposer un suivi spécialisé alcoologique.
 
 - Autres addictions  
   Tabac 65%, cannabis, opiacés...
-- Sociales
+- Complications sociales
   - Travail, contrat, formation
   - Foyer, famille, entourage
   - Hébergement, finances
   - Judiciaire, violence
-- Psychiatrique
-  - **Anxiété**, dépression
+- Complications psychiatriques
+  - Anxiété, dépression
   - Troubles du sommeil
-  - Trouble bipolaire ou de personnalité (anti-sociale, borderline)  
-  Évaluation nécessite consommation à faible risque pendant 15 jours.
+  - Troubles de la personnalité (anti-sociale, borderline) ou bipolaire  
+    Évaluation nécessite consommation à faible risque pendant 15 jours.
   - Psychose
   - Évaluation du risque suicidaire
   - Troubles cognitifs  
-  Test MoCA à distance du sevrage voire évaluation neuropsychologique.
-- Somatique
+    Test MoCA à distance du sevrage voire évaluation neuropsychologique.
+- Complications somatiques
   - Accidents répétés
   - Érythrose du visage, hyperémie conjonctivale
   - Troubles digestifs
   - Maladie alcoolique du foie (MAF)  
-  Stéatose > stéato-hépatite > cirrhose.
+    Stéatose > stéato-hépatite > cirrhose.
   - Polynévrite
   - {{< modal-btn modal-mna >}}Dépister une dénutrition (MNA){{< /modal-btn >}}
 
 ### Bilan complémentaire
 
-Le bilan biologique est annuel.
+Le bilan biologique est annuel:
 
 - NFS
 - ASAT ALAT GGT PAL TP
-- Sérologies VHB et VHC
+- Sérologies hépatite B et hépatite C
 - Sérologie VIH si expositions à risque
 - Consultation ORL
 - Consultation dentaire
@@ -225,7 +226,7 @@ Un bilan hépatique normal permet d'exclure une MAF significative à court terme
 {{%collapse "Sevrage en alcool et maintien de l'abstinence" %}}
 
 L'objectif est l'amélioration de la qualité de vie des personnes.  
-Il est recommandé de **promouvoir l'abstinence** mais d'**accepter les objectifs de consommation du patient** s'il choisit une réduction de la consommation (idéalement à faible risque). Toute réduction de consommation doit être valorisée.
+Il est recommandé de **promouvoir l'abstinence** mais d'**accepter les objectifs de consommation du patient** s'il choisit une réduction de la consommation (idéalement à faible risque). Toute réduction de consommation doit être valorisée par le médecin généraliste.
 
 Installer une alliance thérapeutique sur la définition du problème à résoudre et les objectifs à poursuivre.
 
@@ -240,17 +241,17 @@ Maladie alcoolique, sevrage, intérêt de l'accompagnement, coordonnées des act
 - Intervention psychosociale
   - Soutien psychologique
   - Renforcement de la motivation au changement
-  - Mouvement d'entraide  
-  [Alcooliques Anonymes](https://www.alcooliques-anonymes.fr), [La Croix-Bleue](https://croixbleue.fr/), [entraid' addict](https://www.entraidaddict.fr/), [Vie Libre](https://www.vielibre.org/), [Les amis de la santé](https://www.lesamisdelasante.org/), [Joie et santé - Alcool Écoute](https://www.alcoolecoute.com/)
+  - Mouvements d'entraide  
+    [Alcooliques Anonymes](https://www.alcooliques-anonymes.fr), [La Croix-Bleue](https://croixbleue.fr/), [entraid' addict](https://www.entraidaddict.fr/), [Vie Libre](https://www.vielibre.org/), [Les amis de la santé](https://www.lesamisdelasante.org/), [Joie et santé - Alcool Écoute](https://www.alcoolecoute.com/)
   - Évaluation du risque suicidaire
   - Thérapies cognitives et comportementales (TCC)
   - Thérapie conjugale et familiale
 - Antidépresseur  
-Seulement si persistant après 4 semaines d'abstinence.
+  Seulement si persistant après 4 semaines d'abstinence.
 - Sexologie
 - Médecin du travail
 - Conseils diététiques  
-Appétence sucrée marquée au sevrage.
+  Appétence sucrée marquée au sevrage.
 - ALD 30, MDPH
 
 ### Sevrage hospitalier en alcool
@@ -277,7 +278,7 @@ Peut être prolongée en centre d'hébergement et de réinsertion sociale (CHRS)
 
 ### Thérapeutiques pour le sevrage alcoolique
 
-Lorsque l'objectif est l'abstinence. Le sevrage combiné du **tabac** est recommandé.  
+Lorsque l'objectif est l'abstinence, le sevrage alcoolique et tabagique combiné est recommandé.  
 La **préparation** du sevrage diminue le risque de rechute et s'inscrit dans un projet de soins.
 
 #### Prévention du syndrome de sevrage alcoolique (SSA)
@@ -291,14 +292,14 @@ Doses adaptées aux symptômes résiduels et réduites chez l'adolescent et le s
 Rester à la maison les 2 premiers jours, pas de conduite automobile pendant les 5 jours.  
 Consultation durant le traitement.
 
-> S*FA 2015*
+> *SFA 2015*
 {{%/info%}}
 
 Symptômes de sevrage: **[benzodiazépines à demi-vie longue]({{< relref "benzodiazepines.md" >}})** type diazépam max 8-10 jours (*SFA 2015*). Contre-indiquée en cirrhose.  
-Sujet âgé (≥ 75 ans): *oxazépam* ou lorazépam en diminuant la dose 30-50%.  
+Patient âgé (≥ 75 ans): *oxazépam* ou lorazépam en diminuant la dose 30-50%.  
 Les benzodiazépines n'ont aucune indication dans l'aide au maintien de l'abstinence.
 
-Les **dépressions** sont fréquentes (80%) au cours du sevrage, mais seules 15% persistent à son issue. Contrôler à 2-4 semaines avant d'introduire un antidépresseur.
+Les dépressions sont fréquentes (80%) au cours du sevrage de l'alcool, mais seules 15% persistent à son issue. Recontrôler à 2-4 semaines après le début du sevrage avant d'introduire un antidépresseur.
 
 {{%info%}}<< Dans la majorité des cas, le sevrage ne requiert pas de traitement pharmacologique >> *SFA 2015*{{%/info%}}
 
@@ -311,21 +312,21 @@ Les **dépressions** sont fréquentes (80%) au cours du sevrage, mais seules 15%
 
 #### Prévention des rechutes
 
-Maintien de l'abstinence des personnes dépendantes par acamprosate (ex Aotal®) ou naltrexone (ex Revia®) en première intention pour diminuer l'envie de consommer.  
+Prise en charge du maintien de l'abstinence des personnes dépendantes par acamprosate (ex Aotal®) ou naltrexone (ex Revia®) en première intention pour diminuer l'envie de consommer.  
 Les traitements doivent être arrêtés après 4-6 semaines si la consommation d'alcool persiste.
 
 - [Acamprosate 333 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69724187&typedoc=R)
-  - Dès que possible après le sevrage. Supériorité pour le maintien de l'abstinence
+  - L'acamprosate est introduit dès que possible après le sevrage. Supériorité pour le maintien de l'abstinence et meilleur niveau de preuve
   - 2 cp x 3/j (2-1-1 si < 60 kg) pendant 1 an. Peut être poursuivi si bénéfique et souhaité par le patient
 - [Naltrexone 50 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67115586&typedoc=R)
   - Bénéfique en fortes consommations
-  - Débuté après le sevrage
+  - La naltrexone est débutée après le sevrage
   - 1/2 cp avec une surveillance d'1 heure. Puis prise de l'autre moitié et 1 cp/j pendant 3 mois (jusqu'à 6 mois si bénéfique et souhaité)
 
-##### Autres traitements pour le maintien de l'abstinence
+##### Autres médicaments pour le maintien de l'abstinence
 
-- [Disulfiram 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61500746&typedoc=R) (Espéral®)
-  - Effet antabuse avec toute source d'alcool (boisson, nourriture, parfum), risque neuropathie périphérique et hépatotoxicité
+- [Disulfirame 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61500746&typedoc=R) (Espéral®)
+  - Le disulfirame déclenche un effet antabuse avec toute source d'alcool (boisson, nourriture, parfum). Risque de neuropathie périphérique et hépatotoxicité
   - Indication: patient motivé souhaitant l'abstinence avec ce médicament. Nombreuses interactions et contre-indications
   - Après ≥ 24h de la dernière consommation: 1 cp/j
   - Suivi 2/mois 1 mois, puis 1/mois 4 mois puis 2/an
@@ -334,7 +335,7 @@ Les traitements doivent être arrêtés après 4-6 semaines si la consommation d
 
 ### Objectif de réduction de la consommation d'alcool
 
-Après essai de réduction spontanée de 15 jours.
+Après essai de réduction spontanée de 15 jours, le nalméfène est le médicament de référence de la prise en charge.
 
 {{%info%}}
 [Nalméfène 18 mg](https://ec.europa.eu/health/documents/community-register/2021/20211220153913/anx_153913_fr.pdf) (Selincro®) 1 boîte. 1 cp tous les jours où vous pensez être exposé au risque de boire.  

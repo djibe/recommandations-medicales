@@ -512,7 +512,7 @@ IMC (< 21), perte de poids, santé bucco-dentaire.
   - Limitation des activités  
   Fatigue, activités quotidiennes et sociales, qualité de vie, {{< modal-btn modal-score-cat >}}évaluation CAT™{{< /modal-btn >}}.
 - Recherche de comorbidités aggravantes  
-Anémie, asthme, cancer, [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), surpoids, troubles du sommeil, troubles anxieux/dépressifs, troubles musculosquelettiques, [hypertension pulmonaire]({{< relref "hypertension-arterielle-pulmonaire.md" >}}).
+  [Anémie]({{< relref "anemie.md" >}}), [asthme]({{< relref "asthme.md" >}}), cancer, [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), surpoids, troubles du sommeil, troubles anxieux/dépressifs, troubles musculosquelettiques, [hypertension pulmonaire]({{< relref "hypertension-arterielle-pulmonaire.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la BPCO" "show" %}}

@@ -1,13 +1,13 @@
 +++
 title = "Insuffisance ovarienne prématurée"
 prefix = "l'"
-titleSeo = "Insuffisance ovarienne prématurée"
+titleSeo = "Ménopause précoce IOP"
 description = "Recommandations, conduite à tenir et prise en charge d'une ménopause précoce. Aménorrhée avant 40 ans, bilan FSH haut et estradiol bas, traitement hormonal THS"
 synonyms = ["Ménopause précoce", "ménopause prématurée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-07T12:11:02+01:00"
 publishdate = "2022-01-10"
-lastmod = "2022-01-24"
+lastmod = "2022-03-28"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["HAS", "CNGOF"]
@@ -35,7 +35,7 @@ Article lié: [Ménopause et traitement hormonal]({{< relref "menopause.md" >}})
 {{%collapse "Définitions" %}}
 
 Insuffisance ovarienne prématurée (IOP, terme de l'*ESHRE*)
-: ou précoce, *ex ménopause précoce* ou *ménopause prématurée*.
+: ou Insuffisance ovarienne précoce, *ex ménopause précoce* ou *ménopause prématurée*.
 : Ménopause survenant avant 40 ans et dont l'étiologie doit être recherchée.  
 Diagnostic par l'association d'un critère clinique:
     - Aménorrhée ≥ 4 mois primaire ou secondaire
@@ -43,7 +43,7 @@ Diagnostic par l'association d'un critère clinique:
   Et d'un critère biologique:
     - FSH élevée (≥ 25 UI/L) à 2 reprises à ≥ 4 semaines d'intervalle avec estradiol bas
 : L'IOP peut être due à 3 mécanismes: diminution du stock des follicules primordiaux lors de la vie fœtale, atrésie folliculaire accélérée ou blocage de la maturation folliculaire.
-: Augmentation des risques cardiovasculaire (ischémique +80%) et fracturaire.  
+: Augmentation des risques cardiovasculaire (ischémique +80%) et fracturaire des femmes.  
 Lien épidémiologique suggéré: risque d'Alzheimer x3 (annulée si THM jusqu'à 50 ans, *CNGOF*).
 
 Spanioménorrhée
@@ -94,13 +94,14 @@ Diagnostic rapide pour mettre en place rapidement le THS et prévenir les compli
 
 ### Interrogatoire
 
+- Âge de la patiente
 - Antécédents  
   - Étiologie: Oncologiques, chirurgicaux (pelviens)
   - Auto-immuns  
   Dysthyroïdie, [diabète]({{< relref "diabete-type-1.md" >}}), insuffisance surrénale, vitiligo, lupus, [polyarthrite]({{< relref "polyarthrite-rhumatoide.md" >}}), [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), myasthénie, Sjögren, PEA1 (candidose buccale, unguéale et génitale, insuffisance surrénale et hypoparathyroïdie), PEA2 (insuffisance surrénale, dysthyroïdie, diabète type 1).
   - Cardiovasculaires, fracturaires
 - Antécédents familiaux d'insuffisance ovarienne prématurée
-- Aménorrhée primaire ou secondaire ≥ 4 mois
+- Aménorrhée primaire ou secondaire ≥ 4 mois (absence de règles)
 - **Infertilité**
 - Syndrome climatérique
   - Bouffées de chaleur
@@ -127,7 +128,7 @@ De principe dosage de l'hCG, bilan complémentaire si négatif.
 
 ### Bilan devant une ménopause précoce
 
-**Le diagnostic est biologique**.
+**Le diagnostic d'IOP (ex ménopause précoce) est biologique**.
 
 FSH, estradiol, hCG, prolactine, TSH:
 
@@ -137,7 +138,7 @@ FSH, estradiol, hCG, prolactine, TSH:
 
 ### Bilan en diagnostic avéré
 
-Adresser au Centre de Référence de maladies rares prenant en charge les IOP avec:
+Prise en charge dans un Centre de Référence de maladies rares prenant en charge les IOP avec:
 
 - AMH (évaluation de la réserve ovarienne)
 - anticorps anti-TPO
@@ -153,7 +154,7 @@ Ne fait pas partie du bilan diagnostique puisque l'observation de follicules peu
 
 #### Ostéodensitométrie
 
-Au diagnostic puis tous les 5 ans.  
+Au diagnostic puis tous les 5 ans pour évaluer la perte osseuse.  
 Voir les [indications au traitement selon T-score et FRAX]({{< relref "osteoporose.md" >}}).
 
 {{% /collapse %}}
@@ -161,7 +162,7 @@ Voir les [indications au traitement selon T-score et FRAX]({{< relref "osteoporo
 
 {{%info%}}Le THS pour les IOP spontanées (non iatrogènes) n'augmente pas le risque de cancer du sein (56-79% des patientes le croient, *HAS 2021*){{%/info%}}
 
-- Suivi en [Centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/)
+- Prise en charge dans un [Centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/)
 - Traitement hormonal substitutif (THS) jusqu'à ≥ 51 ans
   - Par [contraceptif estroprogestatif]({{< relref "contraception.md" >}})
   - ou THS, voir [Spécialités disponibles pour le THM]({{< relref "menopause.md#spécialités-disponibles-pour-le-thm" >}})
@@ -187,16 +188,18 @@ Expliquer la cause de l'IOP (70% idiopathique), soutenir les projets de grossess
 
 L'œstradiol administré par voie transdermique n'augmente pas le risque thrombo-embolique.
 
+Recommandations de prise en charge spécifiques pour les femmes suivantes:
+
 - [Migraine]({{< relref "migraine.md" >}})  
-N'est pas une contre-indication au THS au cours de l'IOP. Modifier dose, voie d'administration ou le schéma thérapeutique en cas d'aggravation.
+  N'est pas une contre-indication au THS au cours de l'IOP. Modifier dose, voie d'administration ou le schéma thérapeutique en cas d'aggravation.
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})  
-N'est pas une contre-indication au THS au cours de l'IOP. Œstradiol transdermique de préférence.
+  N'est pas une contre-indication au THS au cours de l'IOP. Œstradiol transdermique de préférence.
 - [Maladie veineuse thromboembolique](/tags/mvte/)  
-Avis hématologique avant THS en cas d'antécédent. Si autorisé, œstradiol transdermique.
+  Avis hématologique avant THS en cas d'antécédent. Si autorisé, œstradiol transdermique.
 - Obésité  
-Œstradiol transdermique recommandé.
+  Œstradiol transdermique recommandé.
 - Fibromes  
-Ne sont pas une contre-indication au THS.
+  Ne sont pas une contre-indication au THS.
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir et prise en charge d'un suspicion de ménopause précoce" "show" %}}
@@ -217,8 +220,8 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
-- [HAS. Insuffisance ovarienne prématurée/primitive (en dehors du syndrome de Turner). Mars 2021.](https://www.has-sante.fr/jcms/p_3264990/fr/insuffisance-ovarienne-prematuree-iop)
-- [Trémollieres F. et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. Volume 49. Issue 5.2021. Pages 305-317.](https://doi.org/10.1016/J.GOFS.2021.03.010)
+- [HAS. Insuffisance ovarienne prématurée / primitive (en dehors du syndrome de Turner). Mars 2021.](https://www.has-sante.fr/jcms/p_3264990/fr/insuffisance-ovarienne-prematuree-iop)
+- [Trémollieres F. et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://doi.org/10.1016/J.GOFS.2021.03.010)
 - [Christin-Maitre S. et al. L'insuffisance ovarienne prématurée. Orphanet. 2006.](https://www.orpha.net/data/patho/Pro/fr/InsuffisanceOvariennePrematuree-FRfrPro2307v01.pdf)
 
 ### À lire

@@ -1,13 +1,13 @@
 +++
 title = "Migraine"
 prefix = "la "
-description = "Recommandations 2021 sur la migraine pour le médecin généraliste. Traitement de la crise, AINS, triptans et indications au traitement de fond bêtabloquant"
+description = "Dernières recommandations pour la prise en charge de la migraine. Traitement de la crise, AINS, triptans et indications au traitement de fond betabloquant"
 longHtml = true
 synonyms = ["Migraine avec ou sans aura", "aura migraineuse"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-12T13:03:13+01:00"
 publishdate = 2022-02-17
-lastmod = 2022-03-05
+lastmod = 2022-03-28
 specialites = ["neurologie"]
 annees = "2021"
 sources = ["SFEMC", "CNGOF"]
@@ -19,8 +19,6 @@ image = true
 imageSrc = "Illustration de la migraine par stories / Freepik"
 todo = "titration Propranolol, recouper THM, Prescrire, EHF, migraine abdo enfant, https://play.google.com/store/apps/details?id=ai.vik.migraine&hl=fr"
 +++
-
-*Première version*
 
 {{%article-summary%}}
 
@@ -45,7 +43,7 @@ ou migraine sévère: ≥ 8 jours/mois, {{< modal-btn modal-hit6 >}}score HIT-6{
 {{%collapse "Définitions" %}}
 
 Migraine
-: Pathologie neurovasculaire fréquente liée à des altérations subtiles neuronales et vasculaires. Facteur de risque vasculaire indépendant.  
+: Définition de la migraine: Pathologie neurovasculaire fréquente liée à des altérations subtiles neuronales et vasculaires. Facteur de risque vasculaire indépendant.  
 Origine génétique et environnementale avec altération très importante de la **qualité de vie**.
 : Dite **migraine épisodique** avec < 15 jours/mois, **chronique** au-delà depuis > 3 mois.
 : **Migraine sévère:** crises fréquentes (≥ 8 jours/mois) OU {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 OU intensité impose un arrêt total des activités pour ≥ 50% des épisodes.
@@ -54,13 +52,14 @@ Origine génétique et environnementale avec altération très importante de la 
 90% devraient être soulagés en soins primaires, 1% suivis en centre spécialisé.
 
 Migraine avec aura
-: *ex migraine accompagnée*. Aura présente chez 15-30% des migraineux, elle augmente le risque vasculaire (AVC ischémique x 2).
-: 4 types d'aura: visuelles (> 90% des auras) > sensitives (30% > aphasique, motrice (classée migraine hémiplégique).
+: *ex migraine accompagnée*.  
+Aura présente chez 15-30% des migraineux, elle augmente le risque vasculaire (AVC ischémique x 2).
+: 4 types d'aura: visuelles (+90%), sensitives (30%), aphasique ou motrice (classée migraine hémiplégique).
 
 Migraine cataméniale
-: Survenue de migraine sans aura sur ≥ 2 cycles/3, débutant entre le 2<sup>e</sup> jour précédant et le 3<sup>e</sup> jour suivant les règles (naturellement ou sous pilule).
-: Le diagnostic n'est retenu qu'en-dehors de toute autre crise en-dehors de la période menstruelle.  
-50% des migraineuses rapportent des crises cataméniales, < 10% rapportent une migraine cataméniale.
+: Survenue exclusive de migraine sans aura pendant les règles.  
+Critères diagnostiques: survenue sur au moins 2 cycles sur 3, débutant entre le 2<sup>e</sup> jour précédant et le 3<sup>e</sup> jour suivant les règles (naturellement ou sous pilule).
+: 50% des migraineuses rapportent des crises cataméniales mais moins de 10% ont une réelle << migraine cataméniale >>.
 : Les migraines cataméniales ont la particularité d'être très intenses avec moindre réponse au traitement de crise.
 
 Céphalées par abus médicamenteux
@@ -70,20 +69,20 @@ Céphalées par abus médicamenteux
 ### Diagnostic différentiel
 
 - Céphalées par abus médicamenteux  
-Céphalées ≥ 15 j/mois, lors de prise d'antalgiques > 10 j/mois > 3 mois. Souvent associée.
+  Céphalées ≥ 15 j/mois, lors de prise d'antalgiques > 10 j/mois > 3 mois. Souvent associée.
 - Céphalée de tension  
-Durée h-j, diffuse, non pulsatile, non aggravée à l'effort, moins intense, sans signes digestifs associés, parfois phono OU photophobie. Souvent associée chez le migraineux.
+  Durée en heures ou jours, diffuse, non pulsatile, non aggravée à l'effort, moins intense, sans signes digestifs associés, parfois phono OU photophobie. Souvent associée chez le migraineux.
 - Névralgie d'Arnold
 - Sinusite aiguë
 - Troubles de la vision binoculaire ([orthoptie]({{< relref "bilan-orthoptique.md" >}}))  
-Fatigue visuelle, céphalées, difficultés de concentration ou de lecture...
+  Fatigue visuelle, céphalées, difficultés de concentration ou de lecture...
 - [Algie vasculaire de la face]({{< relref "algie-vasculaire-face.md" >}})  
-Crises pluriquotidiennes, 15-180 min, stricte unilatéralité fixe, arrachement, décharges, intensité très sévère.
-- [Névralgie du trijumeau]({{< relref "nevralgie-trigeminale-classique.md" >}})  
-Très brèves (qq secondes à 2 minutes), strictement unilatérale V2/V3, neuropathique, gâchette, pas de phonophotophobie ou troubles digestifs.
+  Crises pluriquotidiennes, 15-180 min, stricte unilatéralité fixe, arrachement, décharges, intensité très sévère.
+- [Névralgie du nerf trijumeau]({{< relref "nevralgie-trigeminale-classique.md" >}})  
+  Très brèves (qq secondes à 2 minutes), strictement unilatérale V2/V3, neuropathique, gâchette, pas de phonophotophobie ou troubles digestifs.
 - Tumeur du 3<sup>e</sup> ventricule
 
-Avec aura:
+Diagnostic différentiel des migraines avec aura:
 
 - [AIT]({{< relref "accident-vasculaire-cerebral.md" >}})  
 Déficit de début brutal et symptômes d'emblée maximaux, souvent associés (moteur et sensitif), ± amaurose fugace ou hémianopsie, souvent > 40 ans.
@@ -95,7 +94,8 @@ Installation en quelques secondes, début en vision périphérique, formes circu
 **EI:** effet indésirable  
 **Hx:** délai de x heures  
 **ICHD-3:** {{%lang%}}International Classification of Headache Disorders{{%/lang%}}  
-**MSA:** migraine sans aura
+**MSA:** migraine sans aura  
+**SFEMC:** Société française d'études des migraines et céphalées
 
 ### Épidémiologie
 
@@ -108,6 +108,8 @@ France: 21,3% des adultes remplissent les critères de la migraine ICHD-3.
 {{%collapse "Critères diagnostiques ICHD-3" %}}
 
 {{%warning%}}En cas de doute, une cause organique doit être éliminée par des examens complémentaires{{%/warning%}}
+
+Ensemble des critères internationaux de diagnostic de la migraine chez l'adulte.
 
 Le profil migraineux peut évoluer avec le temps.  
 Examen clinique normal en dehors des crises.
@@ -197,8 +199,8 @@ Familiaux, autres douleurs...
 - Évaluer le handicap migraineux
   - **Agenda migraineux** (date, durée, intensité, facteur déclenchant, traitements essayés, [modèle](https://www.sfemc.fr/images/docs_SFEMC/docs_PATIENTS/patients-AGENDA-DE-LA-MIGRAINE-def.pdf))  
   Reconsulter lorsque traitement pris ≥ 2 jours/semaine depuis ≥ 3 mois.
-  - Qualité de vie: {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}}  
-  Reprendre à chaque consultation.
+  - Qualité de vie: {{< modal-btn modal-hit6 >}}échelle HIT-6{{< /modal-btn >}}  
+  Reprendre à chaque consultation l'impact sur la vie quotidienne.
 - Femme: désir de grossesse, [contraception]({{< relref "contraception.md" >}}), [ménopause]({{< relref "menopause.md" >}})
 
 ### Examen clinique
@@ -238,14 +240,14 @@ Recherche une part non migraineuse associée.
 {{% /collapse %}}
 {{%collapse "Traitement de la crise migraineuse et mesures générales" %}}
 
+{{%warning%}}Avis neurologique si aura atypique ou sévère, migraine sévère, migraine résistante/réfractaire (en centre spécialisé){{%/warning%}}
+
 **Objectifs:** Absence de douleurs à H2 du traitement de crise (ou réduction satisfaisante) avec maintien pendant 24 heures sans effets indésirables (ou minimes).  
 Les symptômes associés (digestifs, phonophotophobie) et la capacité à reprendre les activités doit aussi être évaluée. En cas d'aura, celle-ci devrait être atténuée.  
 Ces objectifs doivent être expliqués au patient.
 
 **Moyens:** Rassurer, {{< modal-btn modal-mtoq >}}traitement de crise optimisé{{< /modal-btn >}}, hygiène de vie, gestion des risques de chronicisation (consommation d'antalgiques, dépression), traitement de fond si indiqué.  
 Ne pas culpabiliser l'abus médicamenteux en migraine chronique (effet délétère).
-
-{{%info%}}Avis neurologique si aura atypique ou sévère, migraine sévère, migraine résistante/réfractaire (en centre spécialisé){{%/info%}}
 
 ### Hygiène de vie
 
@@ -268,7 +270,7 @@ Relaxation, biofeedback, TCC, thérapie de pleine conscience.
 
 ### Exemple de prescription
 
-Prendre dès le début des symptômes (avoir sur soi):
+Prendre dès le début des symptômes (avoir sur soi et prise dans l'heure):
 
 - Crise légère: ibuprofène 400 mg. Prendre le triptan si persistance des douleurs 1 heure après
 - Crise modérée à sévère: élétriptan 20 mg. Prendre l'ibuprofène 1 heure après si persistance des douleurs
@@ -276,8 +278,6 @@ Prendre dès le début des symptômes (avoir sur soi):
 Consigner dans l''*agenda migraineux*. {{< modal-btn modal-mtoq >}}Reconsulter après 3 crises{{< /modal-btn >}}
 
 {{%/info%}}
-
-Traitement à avoir sur soi, à prendre le plus **précocement** possible (dans l'heure suivant l'installation de la céphalée).
 
 Prescrire AINS et triptan selon les traitements déjà essayés et préférences du patient:
 
@@ -326,7 +326,7 @@ Les triptans:
 
 #### Réévaluation du traitement de la crise
 
-À chaque consultation avec le {{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}} (concerne AINS, triptan, paracétamol...)
+Réévaluation de la prise en charge par le traitement de crise à chaque consultation avec le {{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}} (concerne AINS, triptan, paracétamol...)
 
 #### Absence de réponse aux traitements
 
@@ -343,40 +343,38 @@ Efficacité prouvée: Neuromodulation électrique. Sur prescription spécialisé
 
 ### Indications à un traitement de fond anti-migraineux
 
-- Traitement de crise ≥ 8 j/mois depuis ≥ 3 mois
+- Utilisation du traitement de crise ≥ 8 j/mois depuis ≥ 3 mois
 - Migraine sévère  
   - Crises fréquentes (≥ 8 j/mois)
   - OU {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60
   - OU intensité impose un arrêt total des activités pour ≥ 50% des crises
-- Migraine chronique  
-  ≥ 15 j/mois depuis ≥ 3 mois.
 - Crises migraineuses invalidantes malgré un traitement de crise optimal
 
 > *Ducros A et al 2021 Table 6*
 {{%/info%}}
 
-**Objectif:** réduire le nombre de jours de céphalées ≥ 50% en *migraine épisodique* (< 15 j/m) ou ≥ 30% en *migraine chronique* (≥ 15 j/m). Réévaluation au 3<sup>e</sup> mois.  
-Autres: réduire la consommation d'antalgiques, l'intensité et la durée des crises (et de l'aura) et améliorer la qualité de vie. Les objectifs doivent être expliqués au patient, ainsi que l'importance de l'**observance**.
+**Objectif:** réduire le nombre de jours de céphalées au moins de moitié si *migraineux épisodique* (< 15 j/m) ou au moins 30% si *migraineux chronique* (≥ 15 j/m). Réévaluation au 3<sup>e</sup> mois.  
+Bénéfices recherchés: réduire la consommation d'antalgiques, l'intensité et la durée des crises (et de l'aura) et améliorer la qualité de vie. Les objectifs doivent être expliqués au patient, ainsi que l'importance de l'**observance**.
 
-Traitement de fond à instaurer même si le traitement de crise est efficace (prévient la surconsommation d'antimigraineux).  
+Prise en charge par une traitement de fond même si le traitement de crise est efficace (prévient la surconsommation).  
 Il ne supprime pas les crises mais réduit leur fréquence et leur intensité. **[Agenda migraineux](https://www.sfemc.fr/images/docs_SFEMC/docs_PATIENTS/patients-AGENDA-DE-LA-MIGRAINE-def.pdf)** afin d'évaluer son efficacité.
 
 Autres thérapies avec efficacité prouvée: relaxation, rétro-contrôle (biofeedback) et les thérapies cognitives et comportementales (TCC) de gestion du stress.
 
-**NB.** Ne pas recommander homéopathie, manipulations cervicales dans la prévention de la migraine.
+**NB.** Ne pas recommander homéopathie ou manipulations cervicales dans la prévention de la migraine.
 
 ### Traitement de fond de la migraine en première intention
 
 {{%info%}}
 
-Le traitement doit être poursuivi ≥ 3 mois avant de conclure à une inefficacité:
+Prise en charge par traitement de fond au moins 3 mois avant de conclure à une inefficacité:
 
-- Migraine épisodique (< 15 j/mois)
+- Migraine épisodique {{%class%}}(< 15 j/mois){{%/class%}}
   - [Propranolol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65135519&typedoc=R) 20-240 mg/j en 2 prises ou LP matin  
   Effets indésirables: asthénie, mauvaise tolérance à l'effort; Contre-indications des BB.
   - [Métoprolol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62837759&typedoc=R) LP 50-200 mg le matin
   - Alternatives aux bêtabloquants: amitriptyline, candésartan ou topiramate
-- Migraine chronique
+- Migraine chronique {{%class%}}(≥ 15 j/mois){{%/class%}}
   - [Topiramate](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67515484&typedoc=R) 50-200 mg en 1-2 prises
 
 {{%/info%}}

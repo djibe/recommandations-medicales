@@ -95,7 +95,7 @@ Principaux facteurs de risque du cancer du cardia:
 Un cancer de l'estomac doit être évoqué et exploré devant:
 
 - [Dyspepsie]({{< relref "dyspepsie.md" >}}) chez le > 40 ans
-- Anémie réfractaire
+- [Anémie réfractaire]({{< relref "anemie.md" >}})
 - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}}) chez le ≥ 50 ans ou reflux atypique
 - Signes digestifs chroniques  
   - Épigastralgies, nausées/vomissements

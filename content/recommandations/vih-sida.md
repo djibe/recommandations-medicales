@@ -143,7 +143,7 @@ Signes cliniques mineurs:
 
 - Neutropénie
 - Thrombopénie
-- Anémie
+- [Anémie]({{< relref "anemie.md" >}})
 - Hypergammaglobulinémie polyclonale
 
 {{% /collapse %}}

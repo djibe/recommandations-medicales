@@ -49,11 +49,11 @@ Indications à l'EPS:
 - Neuropathie périphérique inexpliquée
 - Purpura vasculaire
 - Anomalies de l'hémogramme sans cause évidente  
-{{%class%}}Anémie, lymphopénie isolée ou hyperlymphocytose.{{%/class%}}
+  {{%class%}}[Anémie]({{< relref "anemie.md" >}}), lymphopénie isolée ou hyperlymphocytose.{{%/class%}}
 - VS élevée avec CRP normale  
-{{%class%}}En dehors de la grossesse et en tenant compte de l'âge.{{%/class%}}
+  {{%class%}}En dehors de la grossesse et en tenant compte de l'âge.{{%/class%}}
 - Hypercalcémie  
-{{%class%}}Corrigée en fonction de l'albuminémie/protidémie.{{%/class%}}
+  {{%class%}}Corrigée en fonction de l'albuminémie/protidémie.{{%/class%}}
 - Insuffisance rénale récente non obstructive
 - Protéinurie > 0,5 g/L
 - Certaines anomalies osseuses radiologiques  

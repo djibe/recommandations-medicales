@@ -2,6 +2,7 @@
 title = "Reflux gastro-œsophagien"
 prefix = "le "
 titleSeo = "Reflux gastro-œsophagien"
+description = "Recommandations pour la prise en charge du Reflux gastro-œsophagien RGO. Signes d'alerte, examen complémentaire par endoscopie, traitement par anti-acide et IPP"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr F. ZERBIB (SNFGE)"
@@ -21,8 +22,9 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Diagnostic d'interrogatoire
-- Indications à l'EOGD: symptômes atypiques isolés, signes d'alarme (perte de poids, anémie, dysphagie, hémorragie digestive), âge > 50 ans, résistance aux IPP ou rechute précoce à l'arrêt.
+- Le diagnostic de RGO est clinique: signes typiques et en l'absence de signes d'alarme
+- Signes d'alarme du reflux: Amaigrissement, anémie, dysphagie, hémorragie digestive, vomissements répétés, échec du traitement
+- Indications à l'endoscopie: symptômes atypiques isolés, signe d'alarme, âge > 50 ans, résistance aux IPP ou rechute précoce à l'arrêt.
 - Traitement: RHD > antiacides > oméprazole 1/2 dose
 - L'anti-H2 ranitidine est suspendu
 - Rappel: on prononce "ésophage"
@@ -50,9 +52,11 @@ Il est physiologique lorsqu'il est bref et occasionnel.
 : Le RGO atteint 10% de la population (*SNFGE*).
 
 Pyrosis
-: Brûlure rétro-sternale ascendante.
+: Sensation de brûlure rétro-sternale ascendante.
 
 ### Complications du RGO
+
+Les complications du reflux sont locales:
 
 - **Œsophagite** voire ulcères œsophagiens
 - **Sténose** œsophagienne
@@ -72,19 +76,21 @@ Le reflux gastro-œsophagien est un diagnostic d'interrogatoire devant des signe
 
 ### Interrogatoire
 
-#### Signes typiques
+#### Signes typiques de reflux
+
+Signes typiques de reflux:
 
 - **Pyrosis**  
-{{%class%}}Spécificité de 90% pour le RGO.{{%/class%}}
+  {{%class%}}Spécificité de 90% pour le RGO.{{%/class%}}
 - **Régurgitations acides** (liquides ou alimentaires)
 - **Syndrome postural**  
-Aggravation allongé, penché en avant et en post-prandial.
+  Aggravation allongé, penché en avant et en post-prandial.
 
 #### Symptômes atypiques
 
 - Brûlures épigastriques
 - Douleurs thoraciques rétro-sternales ou pharyngées
-- [Toux chronique]({{< relref "toux-chronique.md" >}}) (prédominance nocturne), asthme difficile à contrôler
+- [Toux chronique inexpliquée]({{< relref "toux-chronique.md" >}}) (prédominance nocturne), asthme difficile à contrôler
 - Enrouement, laryngite chronique
 - Érosions dentaires
 
@@ -92,7 +98,7 @@ Aggravation allongé, penché en avant et en post-prandial.
 {{%collapse "Diagnostic différentiel" %}}
 
 - [Dyspepsie]({{< relref "dyspepsie.md" >}})
-- Cancer de l'estomac
+- [Cancer de l'estomac]({{< relref "cancer-estomac.md" >}})
 - Ulcère gastrique ou duodénal
 - Sténose peptique de l'œsophage
 - Lithiases biliaires
@@ -101,7 +107,7 @@ Aggravation allongé, penché en avant et en post-prandial.
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
 
-Aucun examen devant des signes typiques et l'absence de signe d'alarme.
+Aucun examen complémentaire devant des signes typiques et l'absence de signe d'alarme.
 
 ### Indications à la réalisation d'examens
 
@@ -116,12 +122,14 @@ Aucun examen devant des signes typiques et l'absence de signe d'alarme.
 
 #### Indications à l'EOGD
 
+Prise en charge diagnostique par endoscopie si:
+
 - Symptômes atypiques isolés
 - Signes d'alarme (perte de poids, anémie, dysphagie, hémorragie digestive)
 - Âge > 50 ans
 - Résistance au traitement initial ou rechute précoce à l'arrêt du traitement
 
-Le RGO n'est pas démontré en cas d'EOGD normale ou avec œsophagite de bas grade. Il faut compléter avec une **pH-métrie** réalisée 7 jours après l'arrêt des IPP.
+Le reflux n'est pas démontré en cas d'EOGD normale ou avec œsophagite de bas grade. Il faut compléter avec une **pH-métrie** réalisée 7 jours après l'arrêt des IPP.
 
 Si endobrachyœsophage, endoscopies répétées tous les 3 à 5 ans.
 
@@ -138,7 +146,7 @@ Réalisé sous IPP double dose.
 {{%/collapse%}}
 {{%collapse "Traitement du RGO" %}}
 
-**Objectifs:** soulager les symptômes, cicatrisation des lésions et prévention des récidives.
+**Objectifs du traitement :** soulager les symptômes, cicatrisation des lésions et prévention des récidives.
 
 {{%info%}}
 
@@ -156,6 +164,8 @@ Augmentation possible à 20 voire 40 mg/j.
 {{%/info%}}
 
 ### Mesures hygiéno-diététiques
+
+Mesures générales de prise en charge du reflux :
 
 - Postures
   - Surélévation de la tête du lit de 45° (10-15 cm)
@@ -176,7 +186,7 @@ Repas > 20-30 min en position assise et détendue.
 
 ### Anti-acides et alginates
 
-Soulagent les symptômes, mais ne permettent pas la cicatrisation muqueuse.  
+Les traitements soulagent les symptômes, mais ne permettent pas la cicatrisation muqueuse.  
 À prendre au moment des symptômes ou au coucher, à 2-3h d'intervalle des traitements.
 
 - Sels d'aluminium: risque de constipation
@@ -218,14 +228,14 @@ Ne pas utiliser:
 
 ### Chirurgie
 
-Indications limitées:
+La prise en charge du reflux par chirurgie est limitée:
 
 - Jeune patient en bonne forme physique dépendant aux IPP
 - RGO compliqué avec œsophagite et sténose peptique ou hernie hiatale volumineuse
 
 Elle consiste en une fundoplicature par cœlioscopie.
 
-### Grossesse et RGO
+### Grossesse et reflux
 
 Utiliser les RHD et l'oméprazole (voire ~~la ranitidine~~).
 

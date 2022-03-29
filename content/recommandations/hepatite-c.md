@@ -1,29 +1,30 @@
 +++
 title = "Hépatite C"
 prefix = "l'"
+description = "Recommandations AFEF pour la prise en "
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Comité de l'AFEF"
 date = 2020-09-06T20:18:41+02:00
 publishdate = 2020-09-06
-lastmod = 2021-04-25
+lastmod = 2022-03-29
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["AFEF", "HAS"]
 tags = ["depistage", "fatigue", "hepatite", "IST", "prurit", "VIH"]
 anglais = ["Viral hepatitis type C"]
 sctid = "50711007"
-draft = false
 flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "Face/Audit/Deta-cage, symptômes/fatigue, signes d'insuffisance hépatique, signes de cirrhose, hépatoprotection"
-
+todo = "symptômes/fatigue, signes d'insuffisance hépatique, signes de cirrhose, hépatoprotection"
 +++
 
 {{%article-summary%}}
+
+Adaptation des recommandations de l'AFEF et HAS pour la prise en charge simplifiée de l'hépatite C par le médecin généraliste
 
 - Maladie guérissable (> 90%)
 - Dépister largement (voir *Qui dépister?*) car sous-diagnostiquée
@@ -36,14 +37,14 @@ todo = "Face/Audit/Deta-cage, symptômes/fatigue, signes d'insuffisance hépatiq
 {{%collapse "Définition" %}}
 
 Hépatite C
-: Maladie infectieuse du foie causée par le virus de l'hépatite C (VHC), à l'origine d'une hépatite le plus souvent silencieuse qui devient chronique dans 80% des cas.  
+: Maladie du foie causée par l'infection chronique du virus de l'hépatite C (VHC), à l'origine d'une hépatite le plus souvent silencieuse qui devient chronique dans 80% des cas.  
 La transmission est sanguine (drogues intraveineuses ou sniffées, sexe).  
 Des médicaments antiviraux permettent une guérison totale dans la grande majorité des cas.
 : Enjeux liés à la diffusion du virus, la cirrhose et ses complications: hypertension portale et carcinome hépatocellulaire.
 
 ### Abréviations
 
-**AAD:** antiviral d'action directe  
+**AAD:** antiviraux à action directe  
 **AFEF:** Association française pour l'étude du foie  
 **HSH:** homme ayant des relations sexuelles avec des hommes  
 **TROD:** test rapide d'orientation diagnostique  
@@ -51,12 +52,12 @@ Des médicaments antiviraux permettent une guérison totale dans la grande major
 
 ### Épidémiologie
 
-#### L'hépatite C en France
+#### Épidémiologie de l'hépatite C en France
 
-- 2700 morts/an
-- 1 personne sur 2 n'est pas diagnostiquée
+- Décès: 2700 morts/an
+- Sous-diagnostic: 1 personne sur 2 n'est pas diagnostiquée
 - 75 000 personnes non diagnostiquées en 2014  
-{{%class%}}Chez les 18-80 ans contre 101.000 en 2004.{{%/class%}}
+  {{%class%}}Chez les 18-80 ans contre 101.000 en 2004.{{%/class%}}
 
 #### L'hépatite C dans le monde
 
@@ -71,14 +72,13 @@ Des médicaments antiviraux permettent une guérison totale dans la grande major
 - Tout adulte au moins 1 fois dans sa vie (*AFEF*)
 - Toute personne qui a pu avoir un contact avec le VHC
 - Personnes ayant eu avant 1992:
-  - une transfusion ou ayant pu être transfusés  
-Chirurgie lourde (cardiaque, vasculaire, cérébrale, digestive, pulmonaire, gynéco-obstétricale,
-rachidienne, prothèse de hanche ou de genou, etc.),  
-Séjour en réanimation,  
-Accouchement difficile,  
-Hémorragie digestive,  
-Soins à la naissance en néonatalogie ou en pédiatrie (grand prématuré, exsanguino-transfusion)
-  - une greffe de tissu, cellules ou organe
+  - Une transfusion ou ayant pu être transfusés  
+    Chirurgie lourde (cardiaque, vasculaire, cérébrale, digestive, pulmonaire, gynéco-obstétricale, rachidienne, prothèse de hanche ou de genou, etc.),  
+    Séjour en réanimation,  
+    Accouchement difficile,  
+    Hémorragie digestive,  
+    Soins à la naissance en néonatalogie ou en pédiatrie (grand prématuré, exsanguino-transfusion)
+  - Une greffe de tissu, cellules ou organe
 - Hémodialyse
 - Drogue IV ou pernasale
 - Né de mère VHC+
@@ -98,11 +98,10 @@ Soins à la naissance en néonatalogie ou en pédiatrie (grand prématuré, exsa
 ### Interrogatoire
 
 - Traitements déjà utilisés contre le VHC
-- Consommation d'alcool  
-Questionnaires AUDIT, CAGE-DETA ou FACE.
+- Mésusage d'alcool ({{< modal-btn modal-audit >}}questionnaire AUDIT{{< /modal-btn >}})
 - Consommation de drogues
 - Comorbidités majeures pour le traitement  
-Hypertension artérielle, diabète, dyslipidémie et surpoids.
+  Hypertension artérielle, diabète, dyslipidémie et surpoids.
 - Rapports sexuels à risque
 - Antécédents de transfusion
 
@@ -122,9 +121,9 @@ Hypertension artérielle, diabète, dyslipidémie et surpoids.
 Sérologie VHC ([Remb. 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=3784&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)):
 
 - Positive  
-Nécessité de sérologie de contrôle et charge virale (RT-PCR) VHC.
+  Nécessité de sérologie de contrôle et charge virale (RT-PCR) VHC.
 - Négative  
-Pas d'infection par le VHC, sauf infection récente ou immunodépression sévère (voir Conduite à tenir).
+  Pas d'infection par le VHC, sauf infection récente ou immunodépression sévère (voir Conduite à tenir).
 
 Ou TROD VHC au plus près du patient (remboursé à 100%).
 
@@ -135,7 +134,7 @@ Ou TROD VHC au plus près du patient (remboursé à 100%).
 Systématique lorsque 2 sérologies sont positives (ou 1 TROD+ + 1 sérologie+).  
 [Remboursée à 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=4124&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI).
 
-> "la recherche du génotype du VHC n'est pas nécessaire." (*AFEF*)
+> << la recherche du génotype du VHC n'est pas nécessaire >> (*AFEF*)
 
 ### Bilan si diagnostic positif
 
@@ -150,15 +149,15 @@ Systématique lorsque 2 sérologies sont positives (ou 1 TROD+ + 1 sérologie+).
 
 ### Fibrose hépatique
 
-Systématique.  
+Mesure de la fibrose hépatique systématique.  
 Par le spécialiste ou sur prescription pour un traitement ambulatoire.
 
 Test non invasif en 1<sup>re</sup> intention:
 
 - Élasticité hépatique échographique: Fibroscan®  
-Absence de maladie sévère si résultat < 10 kPa.  
-[Remb. 100% en ALD x 1/an](https://www.aideaucodage.fr/ccam-hlqm002)
-Fibroscan® le plus proche: appeler {{<phone>}}0 800 004 372{{</phone>}}
+  - Absence de maladie sévère si résultat < 10 kPa
+  - [Remb. 100% en ALD x 1/an](https://www.aideaucodage.fr/ccam-hlqm002)
+  - Fibroscan® le plus proche: appeler {{<phone>}}0 800 004 372{{</phone>}}
 - Tests sanguins
   - FibroTest®  
   Absence de maladie sévère si résultat ≤ 0,58.  
@@ -167,15 +166,15 @@ Fibroscan® le plus proche: appeler {{<phone>}}0 800 004 372{{</phone>}}
   Absence de maladie sévère si résultat ≤ 0,786.  
   [Remb. 100% en ALD x 1/an](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=1001&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
 
-Indiquer "hépatite chronique C non traitée".
+Mentionner sur l'ordonnance << hépatite chronique C non traitée >>.
 
 {{% /collapse %}}
 {{% collapse "Traitement simplifié de l'hépatite C" %}}
 
-Le traitement antiviral peut être prescrit par tout médecin pour maximiser les chances de traitement en contexte de parcours de soins difficile.
+Prise en charge de l'hépatite C par antiviraux à action directe possible par tout médecin pour maximiser les chances de traitement en contexte de parcours de soins difficile.
 
 **Objectifs:** réduire la mortalité toutes causes et obtenir une guérison virologique.  
-**Guérison:** ARN du VHC indétectable dans le plasma au moins 12 semaines après l'arrêt du traitement. Obtenue dans 90% des cas avec les AAD.
+**Guérison:** réponse virologique avec ARN du VHC indétectable dans le plasma au moins 12 semaines après l'arrêt du traitement. Obtenue dans 90% des cas avec les AAD.
 
 ### Conditions du traitement anti VHC par le médecin généraliste
 
@@ -189,25 +188,23 @@ Le traitement antiviral peut être prescrit par tout médecin pour maximiser les
 
 ### Mesures générales
 
-- Déclarer l'[ALD n°6]({{< relref "affection-longue-duree.md" >}})
+- [ALD n°6]({{< relref "affection-longue-duree.md" >}})
 - Observance maximale du traitement
 - Proscrire toute interaction avec les antiviraux ([Outil en ligne HEP Drug Interactions](https://www.hep-druginteractions.org/checker))  
-Enquête sur l'automédication+++.
+  Enquête sur l'automédication +++.
 - Aucune consommation de pamplemousse ou d'orange sanguine pendant le traitement
 - Éviter toute consommation d'alcool
 - Lutte contre surpoids/obésité
 - Équilibre strict d'un diabète
-- Vaccination [hépatite A]({{< relref "hepatite-a.md" >}})
-- Vaccination hépatite B (après sérologie négative)
-- Vaccination [grippe]({{< relref "grippe.md" >}}) annuelle
-- {{< modal-btn modal-vaccin-pneumocoque >}}Vaccination pneumocoque tous les 5 ans{{< /modal-btn >}}
+- Vaccination [hépatite A]({{< relref "hepatite-a.md" >}}) et [hépatite B]({{< relref "hepatite-b.md" >}}) (après sérologie négative)
+- Vaccination [grippe]({{< relref "grippe.md" >}}) annuelle et {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque tous les 5 ans{{< /modal-btn >}}
 - Dépistage de l'entourage et des partenaires
 - Prévention des contaminations
   - Charge virale VHC répétée en cas de comportements à risque
   - Pas de partage des rasoirs, brosse à dent.
   - Matériel à usage unique en cas d'acte invasif (drogue IV).
 
-### Antiviraux d'Action Directe (AAD) du VHC
+### Antiviraux à Action Directe (AAD) du VHC
 
 {{%info%}}Epclusa® 400/100 mg 1 cp par jour pendant 12 semaines  
 ou Maviret® 3cp en 1 prise par jour, pendant le repas, pendant 8 semaines.{{%/info%}}
@@ -216,36 +213,34 @@ ou Maviret® 3cp en 1 prise par jour, pendant le repas, pendant 8 semaines.{{%/i
 Mesure de la charge virale obligatoire avant de débuter le traitement.  
 Taux de guérison > 90%.
 
-Traitement au choix:
+2 schémas thérapeutiques au choix:
 
-- [Epclusa®](https://ec.europa.eu/health/documents/community-register/2020/20200825148798/anx_148798_fr.pdf) (sofosbuvir + velpastavir) pendant 12 semaines  
-Epclusa® 400/100 mg 1 cp par jour.
-- [Maviret®](https://ec.europa.eu/health/documents/community-register/2020/20200303147380/anx_147380_fr.pdf) (glécaprévir + pibrentasvir) pendant 8 semaines  
-Maviret® 100/40 mg 3 cp en 1 prise quotidienne lors d'un repas.
+- [Epclusa®](https://ec.europa.eu/health/documents/community-register/2020/20200825148798/anx_148798_fr.pdf) (sofosbuvir + velpastavir)  
+Epclusa® 400/100 mg 1 cp par jour pendant 12 semaines.
+- [Maviret®](https://ec.europa.eu/health/documents/community-register/2020/20200303147380/anx_147380_fr.pdf) (glécaprévir + pibrentasvir)  
+Maviret® 100/40 mg 3 cp en 1 prise quotidienne lors d'un repas pendant 8 semaines.
 
 **Effets indésirables principaux:** asthénie, céphalées, nausées d'intensité modérée, atteignant 10% des patients.
 
 {{%info%}}
 Contrôle de la charge virale VHC 12 semaines après la fin du traitement.  
 **NB.** Persistance des anticorps après la guérison.
-{{%/info%}}
 
-- Charge virale négative  
-Patient guéri.
-- Charge virale positive  
-Adresser au spécialiste.
+- Charge virale négative: Patient guéri
+- Charge virale positive: Adresser au spécialiste
+{{%/info%}}
 
 {{% /collapse %}}
 {{% collapse "Traitement spécialisé de l'hépatite C" %}}
 
-Adresser au gastro-entérologue lorsque les conditions d'accès aux soins le permettent, que les conditions de prise en charge en premier recours ne sont pas remplies (voir *Conditions du traitement...*) ou en cas de persistance d'une charge virale 12 semaines après la fin du traitement antiviral.
+Prise en charge de l'hépatite C par le gastro-entérologue lorsque les conditions d'accès aux soins le permettent, que les conditions de prise en charge en premier recours ne sont pas remplies (voir *Conditions du traitement...*) ou en cas de persistance d'une charge virale 12 semaines après la fin du traitement antiviral.
 
 {{% /collapse %}}
 {{% collapse "Surveillance" %}}
 
 Surveillance à vie.
 
-- Surveillance adaptée au traitement
+- Suivi régulier adapté au traitement
 - Contrôle de la charge virale VHC 12 semaines après la fin du traitement.
 - Si persistance de conduites à risque: charge virale annuelle.
 - Mesures d'hépatoprotection à vie  
@@ -253,9 +248,9 @@ Alcool, syndrome métabolique, automédication.
 - Surveillance de la cirrhose
 
 {{% /collapse %}}
-{{% collapse "Conduite à tenir" "show" %}}
+{{% collapse "Prise en charge de l'hépatite C" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant un résultat de sérologie d'hépatite C. Dr JB Fron d'après HAS 2019" >}}
+{{< mermaid title="Conduite à tenir et prise en charge d'une sérologie de l'hépatite C positive. Dr JB Fron d'après HAS 2019" >}}
 graph TB
   serologie["Sérologie VHC<br>(+ VHB + VIH)"] --> serologie+(Positive)
   style serologie stroke:#4150f5, stroke-width:1px
@@ -309,7 +304,7 @@ graph TB
 - Nécessité de prévenir tous les sujets avec contact à risque
 - Consignes d'hépatoprotection
 - Associations de patients  
-[SOS hépatites](https://soshepatites.org/), [actions traitements](https://www.actions-traitements.org/)
+  [SOS hépatites](https://soshepatites.org/), [actions traitements](https://www.actions-traitements.org/)
 - [Proposer de participer à la cohorte ComPare](https://compare.aphp.fr/)
 
 {{% /collapse %}}
@@ -332,5 +327,10 @@ graph TB
 {{% modal title="Vaccination anti-pneumococcique" id="modal-vaccin-pneumocoque"%}}
 
 {{< traitements/vaccin-pneumocoque >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire AUDIT-C" id="modal-audit"%}}
+
+{{< scores/audit-c >}}
 
 {{% /modal %}}

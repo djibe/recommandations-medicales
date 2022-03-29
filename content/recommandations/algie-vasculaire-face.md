@@ -2,20 +2,19 @@
 title = "Algie vasculaire de la face"
 prefix = "l'"
 titleSeo = "Algie vasculaire de la face"
-description = "Dernières recommandations sur le traitement de l'Algie vasculaire de la face (AVF), traitement de la crise (sumatriptan, oxygénothérapie) et de fond vérapamil"
+description = "Recommandations pour le diagnostic, le traitement et la prise en charge de l'Algie vasculaire de la face, traitement de la crise sumatriptan, oxygène et de fond"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr M. LANTERI-MINET (SFETD)"
 date = 2021-06-18T16:20:00+02:00
 publishdate = 2021-06-19
-lastmod = 2022-02-08
+lastmod = 2022-03-29
 specialites = ["neurologie"]
 annees = "2014"
 sources = ["SFEMC"]
 tags = ["cephalees", "tabac"]
 anglais = ["Cluster headache syndrome"]
 sctid = "193031009"
-draft = false
 flowchart = true
 image = false
 imageSrc = ""
@@ -24,13 +23,15 @@ todo = "Examen, collège"
 
 {{%article-summary%}}
 
+Adaptation des recommandations pour le diagnostic et le traitement de l'Algie Vasculaire de la Face de la SFEMC 2014 pour le médecin généraliste
+
 - Critères diagnostiques +++
 - Signes migraineux possibles (prodromes, troubles digestifs, aura, photophobie, hyperacousie)
 - IRM cérébrale et ARM cérébrale au diagnostic
 - Sumatriptan 6 mg SC dès le début des douleurs
 - Oxygène prescrit et renouvelé par le spécialiste
 - Vérapamil dès le début de la période douloureuse, titration avec surveillance ECG.  
-Décroissance en fin de période douloureuse, ≥ 2 semaines après la dernière crise
+  Décroissance en fin de période douloureuse, ≥ 2 semaines après la dernière crise
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -38,7 +39,7 @@ Décroissance en fin de période douloureuse, ≥ 2 semaines après la dernière
 Algie vasculaire de la face (AVF)
 : Céphalée primaire unilatérale avec hyperactivité parasympathique homolatérale, déclenchée par une activation du système trigémino-vasculaire. Une anomalie hypothalamique est suspectée.
 : Rare, elle atteindrait 0,1% de la population. Elle atteint principalement l'homme (4,3/1) jeune, caractérisée par des crises douloureuses stéréotypées quotidiennes avec variations circannuelles et intervalles libres.
-: Le plus souvent *épisodique*, elle est dite *chronique* quand l'intervale libre est inférieur à 1 mois sur 12. Aucun facteur prédictif de passage à la forme chronique n'est identifié.
+: Le plus souvent de forme épisodique, elle est dite *chronique* quand l'intervale libre est inférieur à 1 mois sur 12. Aucun facteur prédictif de passage à la forme chronique n'est identifié.
 : Conséquences sur la qualité de vie, dépression (x 5,6), idées suicidaires (55%) et perte de productivité professionnelle.
 
 Algie vasculaire de la face réfractaire
@@ -95,28 +96,30 @@ AVF chronique
 
 ### Interrogatoire
 
-- **Homme** surtout: début avant 40 ans
+Pilier de la prise en charge diagnostique (**en gras**, les éléments majeurs du questionnaire de dépistage *QATCH* (*Wilbrink 2013*)):
+
+- **Homme** surtout: âge moyen de début avant 40 ans
 - Femme: jeune ou après 50 ans
 - Traitements en cours et essayés  
-Dérivés nitrés, sildénafil.
-- Céphalée
+  Dérivés nitrés, sildénafil.
+- Céphalée en hémicrânie paroxystique
   - Unilatérale (> 90%)
   - Fixe ou à bascule (15%)
   - Périorbitaire et/ou temporale
   - Intensité sévère à très sévère  
-  {{%class%}}Décrite comme un pieu ou un fer rouge enfoncé dans l'œil.{{%/class%}}
+    {{%class%}}Décrite comme un pieu ou un fer rouge enfoncé dans l'œil.{{%/class%}}
   - **Durée 15 min à 3 heures**  
-  {{%class%}}Durée minimale moyenne: 1h10, durée max moyenne: 2h40 min{{%/class%}}
+    {{%class%}}Durée minimale moyenne: 1h10, durée max moyenne: 2h40 min{{%/class%}}
   - Quotidiennes voire pluri-quotidiennes (4-5/j)
   - À heure fixe, souvent la nuit
   - Périodicité circannuelle  
-  Épisodique: période de 6-12 semaines 1-2 fois/an (fin printemps et automne) ou chronique (15-20%).
+    Forme épisodique: période de 6-12 semaines 1-2 fois/an (fin printemps et automne) ou chronique (15-20%).
   - Intervalles libres (sauf forme chronique)  
-  **De 4 mois à 3 ans**.
+    **De 4 mois à 3 ans**.
 - **Agitation motrice per-critique** (> 3/4)
 - Signes dysautonomiques concomitants
   - Homolatéraux
-  - D'intensité marquée
+  - Intensité marquée
   - Larmoiement
   - Érythème conjonctival
   - Congestion nasale ou rhinorrhée
@@ -129,7 +132,7 @@ Dérivés nitrés, sildénafil.
 - Autres signes possibles
   - Prodromes: troubles de l'humeur ou de la concentration
   - Signes critiques: nausées/vomissements, photophobie, aura visuelle, hyperacousie  
-  Ces derniers peuvent entraîner un mauvais diagnostic.
+    Ces derniers peuvent entraîner un mauvais diagnostic.
 - Signes négatifs
   - Début dans l'enfance ou après 50 ans
   - Antécédents de zona ou traumatisme crânien
@@ -137,8 +140,6 @@ Dérivés nitrés, sildénafil.
   - Zone gâchette
 - Tabagisme (3/4 des patients)
 - Alcool, cannabis, cocaïne
-
-> En gras, les éléments majeurs du questionnaire de dépistage *QATCH* (*Wilbrink 2013*)
 
 {{%info%}}
 Des signes migraineux (prodromes, troubles digestifs, aura, photophobie, hyperacousie) peuvent accompagner l'AVF.
@@ -178,13 +179,15 @@ IRM cérébrale et ARM cérébrale systématiques
 {{%/info%}}
 
 {{% /collapse %}}
-{{%collapse "Traitement de la crise d'AVF" %}}
+{{%collapse "Traitement de l'algie vasculaire de la face en crise" %}}
 
 {{%info%}}
 Sumatriptan 6 mg SC, 1 injection SC dès le début des douleurs.  
 2<sup>e</sup> injection possible 1h après si besoin.  
 Max 2 inj/24h (sauf avis du neurologue).
 {{%/info%}}
+
+La prise en charge et le traitement de l'algie vasculaire de la face pour les crises repose sur les alternatives suivantes:
 
 - ≤ 2 crises/j: sumatriptan SC, oxygène ou les 2
 - \> 2 crises/j: bithérapie sumatriptan SC-oxygène ou oxygène seul
@@ -194,9 +197,9 @@ Max 2 inj/24h (sauf avis du neurologue).
 
 Objectif: disparition ou persistance de céphalée légère à 15 ou 30 minutes.
 
-#### Sumatriptan 6 mg SC (2 et 3 mg possibles)  
+#### Sumatriptan injectable
 
-- [Fiche produit](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69485328&typedoc=R)
+- [Sumatriptan injectable 6 mg SC](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69485328&typedoc=R) (2 et 3 mg possibles)
 - Dès le début de la douleur
 - Max 2 doses/24h (≥ 3 possibles par le spécialiste), espacées ≥ 1 heure
 - Essayer sur 3 crises différentes
@@ -226,14 +229,14 @@ Traiter ≥ 3 crises à 12-15 L/min pendant 30 minutes avant de conclure à son 
 
 > [Modèle de prescription (PDF)](http://www.urps-pharmaciens-paca.fr/wp-content/uploads/2016/03/Algie-Vasculaires-de-la-Face-AVF-%E2%80%93-Neurologue-ORL-ou-Structure-de-PEC-de-la-douleu.pdf), [Journal Officiel](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000030367524) et [forfaits de l'AM OAVF 4.28 et 4.29](http://www.codage.ext.cnamts.fr/cgi/tips/cgi-fiche?p_code_tips=1135392&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
 
-### Pour en savoir plus: autres traitements de la crise
+### Pour en savoir plus: autres traitements de crise
 
 *Traitement transitionnel*, le temps d'augmenter le traitement de fond ou pour réduire une exacerbation d'AVF chronique:
 
 - Prednisolone 100 mg/j pendant 5 jours, puis réduction de 20 mg/j jusqu'à l'arrêt
 - Injection sous-occipitale de corticoïdes
 
-Traitements spécialisés:
+Traitements de l'algie spécialisés:
 
 - Octréotide 100 µg
 - Dihydroergotamine injectable
@@ -241,7 +244,7 @@ Traitements spécialisés:
 {{% /collapse %}}
 {{%collapse "Traitement de fond" %}}
 
-Indication au traitement de fond: épisodique avec période douloureuse > 2 semaines ou forme chronique.
+Indication à la prise en charge par traitement de fond: forme épisodique avec période douloureuse > 2 semaines ou forme chronique.
 
 - Pas d'ALD
 - Arrêt du tabac
@@ -273,7 +276,7 @@ Voire *lithium*.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une AVF" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion d'algie vasculaire de la face. Dr JB Fron d'après SFEMC 2014" >}}
+{{< mermaid title="Conduite à tenir et prise en charge d'une suspicion d'algie vasculaire de la face. Dr JB Fron d'après SFEMC 2014" >}}
 graph TB
   suspicion[Suspicion d'AVF] --> ICHD3(Critères diagnostiques ICHD-3)
   style suspicion stroke:#4150f5, stroke-width:1px
@@ -290,8 +293,8 @@ graph TB
 [**NB.** Demande de prise en charge à 100% par des députés sans réponse du gouvernement](https://questions.assemblee-nationale.fr/q15/15-4922QE.htm)
 
 - [Collège des enseignants de neurologie. Paralysie faciale.](https://www.cen-neurologie.fr/deuxieme-cycle/paralysie-faciale)
-- [Donnet A. et al. Recommandations pour le diagnostic et le traitement de l'algie vasculaire de la face. Revue Neurologique. Volume 170. Issue 11. 2014. Pages 653-670. ISSN 0035-3787. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20pour%20le%20diagnostic%20et%20le%20traitement%20de%20l%2527algie%20vasculaire%20de%20la%20face%20(3).pdf)
-- [Wilbrink LA et al. Stepwise web-based questionnaires for diagnosing cluster headache: LUCA and QATCH. Cephalalgia. 2013;33(11):924-931.](https://journals.sagepub.com/doi/10.1177/0333102413479835)
+- [Donnet A. et al, SFEMC. Recommandations pour le diagnostic et le traitement de l'algie vasculaire de la face. Revue Neurologique. 2014. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20pour%20le%20diagnostic%20et%20le%20traitement%20de%20l%2527algie%20vasculaire%20de%20la%20face%20(3).pdf)
+- [Wilbrink LA et al. Stepwise web-based questionnaires for diagnosing cluster headache: LUCA and QATCH. Cephalalgia. 2013.](https://journals.sagepub.com/doi/10.1177/0333102413479835)
 - Prescrire Redaction. Algie vasculaire de la face, en bref. Janvier 2012.
 - [CiSMeF. Algie vasculaire de la face](https://www.cismef.org/page/algie-vasculaire-de-la-face)
 

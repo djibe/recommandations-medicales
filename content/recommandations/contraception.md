@@ -545,9 +545,9 @@ Bénéfices similaires pour les différentes voies d'administration (orale, vagi
   - Fibrokystes du sein sans atypie
   - Fibrodadénomes mammaires
   - Myomes
-- Réduction de l'incident de la polyarthrite rhumatoïde (OR 0,84)
-- Acné  
-COP uniquement à visée contraceptive.
+- Réduction de l'incidence de la [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}) (OR 0,84)
+- [Acné]({{< relref "acne.md" >}})  
+  COP uniquement à visée contraceptive.
 
 #### Bénéfices de la contraception progestative
 

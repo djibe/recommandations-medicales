@@ -3,7 +3,7 @@ title = "Maladie de Menière"
 prefix = "la "
 titleSeo = "Maladie de Menière"
 description = "Recommandations pour le diagnostic et la prise en charge thérapeutique de la Maladie de Menière. Symptômes vertiges, hypoacousie, surdité, plénitude. Traitement"
-synonyms = []
+synonyms = ["Syndrome de ménière"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-30T08:50:00+02:00
 publishdate = 2021-03-30
@@ -29,9 +29,9 @@ todo = "ttt betahistine, score AAO, https://pubmed.ncbi.nlm.nih.gov/19195928/"
 {{%collapse "Définition" %}}
 
 Maladie de Menière
-: Maladie peu fréquente de l'oreille interne évoluant par crises brutales, de cause inconnue et entraînant une **surdité** toujours associée à des **vertiges** spontanés et épisodiques.  
+: Maladie chronique peu fréquente de l'oreille interne évoluant par crises brutales, de cause inconnue et entraînant une **surdité** toujours associée à des **vertiges** spontanés et épisodiques.  
 Elle découle de modifications de l'endolymphe, touche toutes les populations, préférentiellement les femmes (60%) et survient le plus souvent entre 20 et 50 ans.
-: L'évolution est variable et imprévisible. Avec les années, la surdité s'installe et devient moins dépendante des crises, les crises de vertiges deviennent plus rares.
+: Évolution de la maladie: variable et imprévisible. Avec les années, la surdité s'installe et devient moins dépendante des crises, les crises de vertiges deviennent plus rares.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -40,10 +40,10 @@ Elle découle de modifications de l'endolymphe, touche toutes les populations, p
 
 ### Maladie définie
 
-Le diagnostic de la maladie est certain devant l'association des 4 signes suivants:
+Le diagnostic de la maladie est certain devant l'association des 4 signes et symptômes suivants:
 
 1. Signes vestibulaires  
-  ≥ 2 crises de *vertiges* durant de 20 minutes à 12 heures (obligeant le repos au lit)  
+  ≥ 2 crises de *vertiges* durant de 20 minutes à 12 heures (obligeant le repos au lit, voire nausées)  
   OU crises otolithiques de Tumarkin (chute à l'emporte-pièce sans perte de connaissance initiale)
 2. Signes auditifs
     - *Surdité* neurosensorielle unilatérale fluctuante
@@ -56,7 +56,7 @@ Le diagnostic de la maladie est certain devant l'association des 4 signes suivan
 ### Maladie probable
 
 - ≥ 2 crises de vertiges durant de 20 min à 12 h
-- Fluctuation des symptômes otologiques (surdité, acouphènes, plénitude) dans l'oreille malade
+- Fluctuation des symptômes otologiques (surdité, acouphènes, sensation de plénitude) dans l'oreille malade
 - Absence d'autre cause identifiée
 
 ### Échelle de niveau fonctionnel
@@ -97,20 +97,18 @@ Pathologies donnant des symptômes similaires (hypoacousie ou surdité, vertiges
 - NFS, VS, CRP
 - Glycémie à jeun
 - TSH
-- Sérologie syphilis
+- Sérologie [syphilis]({{< relref "syphilis.md" >}})
 
 ### IRM cérébrale
 
-{{%info%}}IRM de la fosse postérieure et de la charnière cervico-occipitale avec injection pour le bilan de vertiges et surdité unilatérale.{{%/info%}}
+{{%info%}}IRM de la fosse postérieure et de la charnière cervico-occipitale avec injection pour le bilan de vertiges et surdité unilatérale{{%/info%}}
 
-Bilan différentiel systématique.
-
-IRM de la fosse postérieure et de la charnière cervico-occipitale avec injection.
-Coupes axiales et sagittales, sans et après injection de produit de contraste, avec acquisitions 3D, haute résolution pondérées T2.
+Bilan différentiel systématique.  
+{{%class%}}Coupes axiales et sagittales, sans et après injection de produit de contraste, avec acquisitions 3D, haute résolution pondérées T2.{{%/class%}}
 
 ### Bilan ORL
 
-Adresser à l'ORL pour bilan exhaustif:
+La prise en charge débute par un bilan ORL exhaustif par le spécialiste (oreille interne ++):
 
 - Audiométrie tonale et vocale
 - Vidéonystagmographie avec épreuve calorique calibrée
@@ -136,14 +134,14 @@ La prise en charge thérapeutique dépend de la plainte et de la sévérité de 
 - Régime hyposodé (< 2,3 g/j)
 - Réduire les apports en glutamate
 - Suivi de l'efficacité par la qualité de vie et l'*Échelle de niveau fonctionnel*
-- Soutien psychothérapeutique  
+- Soutien psychologique  
   {{%class%}}Efficacité prouvée sur la réhabilitation vestibulaire et le niveau d'anxiété.{{%/class%}}
 - Orthoptie  
   {{%class%}}Si troubles de la vergence et du suivi oculaire.{{%/class%}}
 - Association de patients  
   [France Acouphènes](https://www.france-acouphenes.org/)
 
-### Traitement médical et Chirurgical
+### Traitement médical et chirurgical
 
 Géré par le spécialiste.
 

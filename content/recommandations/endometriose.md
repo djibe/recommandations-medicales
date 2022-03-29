@@ -26,8 +26,8 @@ todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité 
 - Explorations seulement quand douloureuse ou avec retentissement (infertilité, qualité de vie)
 - 1<sup>re</sup> intention: examen gynécologique et échographie pelvienne
 - Étayer le diagnostic différentiel
-- Contraception œstroprogestative ou DIU au LNG à visée symptomatique
-- IRM pelvienne et avis du spécialiste si signes profonds, désir de grossesse, échec du traitement ou masse ovarienne
+- [Contraception œstroprogestative ou DIU]({{< relref "contraception.md" >}}) au LNG à visée symptomatique
+- IRM pelvienne et avis du gynécologue si signes profonds, désir de grossesse, échec du traitement ou masse ovarienne
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

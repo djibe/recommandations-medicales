@@ -178,11 +178,11 @@ Injections uniquement par un centre de la douleur chronique.
 ### Douleur neuropathique périphérique ou centrale, focale ou diffuse
 
 {{%info%}}
-Duloxétine 30 mg/j 15j. Puis 60 mg/j. Max 60 mg x 2/j.
+Duloxétine 30 mg/j pendant 15 jours. Puis 60 mg/j. Max 60 mg x 2/j.
 
 ---
 
-Gabapentine 100 mg x 3/j 3 jours. Paliers de 100-300 mg tous les 3-5 jours. Max 3600 mg/j
+Gabapentine 100 mg x 3/j pendant 3 jours. Paliers de 100-300 mg tous les 3-5 jours. Max 3600 mg/j
 
 ---
 

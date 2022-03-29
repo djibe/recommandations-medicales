@@ -1,7 +1,7 @@
 +++
 title = "Voyage à l'étranger"
 prefix = "le "
-shortname = "Voyage"
+noindex = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-17T11:56:00+02:00

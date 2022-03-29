@@ -136,6 +136,8 @@ Les autres examens relèvent du rhumatologue.
 
 {{%info%}}La décision du traitement dépend du rhumatologue, partagée avec le patient{{%/info%}}
 
+Mesures générales de prise en charge de la polyarthrite:
+
 - [ALD 22]({{< relref "affection-longue-duree.md" >}}): Polyarthrite évolutive  
 {{%class%}}Indication: Polyarthrite inflammatoire d'évolution chronique justifiant un traitement de fond.{{%/class%}}
 - AINS  
@@ -168,7 +170,7 @@ Les autres examens relèvent du rhumatologue.
 {{%collapse "Traitements spécifiques de la polyarthrite rhumatoïde" %}}
 
 {{%info%}}
-Chapitre pour en savoir plus sur les traitements de fond de la PR.  
+Chapitre pour en savoir plus sur la prise en charge par les traitements de fond de la PR.  
 Ceux-ci relèvent exclusivement du rhumatologue.
 {{%/info%}}
 
@@ -184,8 +186,8 @@ Systématique << en urgence >> dès le diagnostic, même s'il ne remplit pas enc
 Modifié en cas d'inefficacité à 3 mois (ou objectif thérapeutique non atteint à 6 mois).
 
 {{%info%}}
-**Méthotrexate (MTX)** en 1<sup>re</sup> intention, dose optimale (25 mg/semaine) à atteindre en 4-8 semaines.  
-Débuter à 10-15 mg en prise unique par semaine per os (Novatrex®, Imeth®, génériques).  
+**Méthotrexate (MTX)** en première intention, dose optimale (25 mg/semaine) à atteindre en 4-8 semaines.  
+Débuter à 10-15 mg en prise unique par semaine par voie orale (Novatrex®, Imeth®, génériques).  
 Augmentation de 5 mg/1-4 semaines selon efficacité-tolérance.
 
 ---

@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CELLIER (SNFGE)"
 date = 2020-04-16T12:31:11+02:00
 publishdate = 2020-04-16
-lastmod = 2022-03-18
+lastmod = 2022-03-29
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["ESsCD", "HAS", "SNFGE"]
@@ -24,7 +24,7 @@ todo = "Ostéodensitométrie avant 35 ans ???, dermatite herpétiforme Souvent r
 
 {{%article-summary%}}
 
-- Fréquente et possible à tout âge
+- La maladie cœliaque est fréquente et possible à tout âge
 - Dépistage par sérologie IgA anti-transglutaminase + IgA totales  
 ou EOGD d'emblée selon la probabilité clinique sans régime
 - Éviction du gluten à vie après confirmation du diagnostic par les biopsies et le gastro-entérologue
@@ -48,7 +48,7 @@ Elle peut survenir à tout âge, prédomine chez la femme et la majorité des pa
 
 - **Carences en micronutriments, [fer]({{< relref "anemie.md" >}}), vitamine B9 et B12**
 - Lymphome digestif
-- Surrisque de maladies auto-immunes
+- Sur-risque de maladies auto-immunes
 - Altération de la qualité de vie
 - [Ostéoporose]({{< relref "osteoporose.md" >}}) et fracture osseuse
 
@@ -75,11 +75,11 @@ Voir *Qui dépister par sérologie ?*
 {{%/collapse%}}
 {{%collapse "Qui dépister par fibroscopie d'emblée ?" %}}
 
-Endoscopie digestive d'emblée pour le diagnostic de la maladie cœliaque chez les personnes à risque élevé:
+Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la maladie cœliaque chez les personnes à **risque élevé** définies comme:
 
 - Diarrhée chronique non sanglante
 - Diarrhée avec malabsorption (amaigrissement ++)
-- Anémie par carence martiale en l'absence d'autre cause
+- [Anémie par carence martiale]({{< relref "anemie.md" >}}) en l'absence d'autre cause
 - Symptômes évocateurs de maladie cœliaque ET antécédents familiaux
 - Symptômes évocateurs de maladie cœliaque en présence de maladie auto-immune ou de déficit en IgA
 - Retard de croissance de l'enfant
@@ -105,7 +105,7 @@ ou maladie de Basedow
 - Syndrome de fatigue chronique
 - Pancréatite aiguë ou chronique en l'absence d'autres facteur causal
 - Épilepsie
-- Céphalées, migraines
+- Céphalées, [migraines]({{< relref "migraine.md" >}})
 - Troubles de l'humeur, trouble déficitaire de l'attention, déficience cognitive
 - [Hyposplénisme ou asplénie fonctionnelle]({{< relref "asplenie.md" >}})
 - Psoriasis ou lésions dermatologiques autres que la dermatite herpétiforme
@@ -129,7 +129,7 @@ ou maladie de Basedow
 #### Autres symptômes
 
 - Anémie
-- Reflux gastro-œsophagien (RGO)
+- [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}}) (RGO)
 - Œsophagite à éosinophiles
 - Neuropathie
 - Ataxie
@@ -141,7 +141,7 @@ ou maladie de Basedow
 - Complications gravidiques
 - Lymphome du grêle
 
-#### Chez l'enfant
+#### Symptômes de la maladie cœliaque chez l'enfant
 
 - Toujours: **Retard de croissance**, **diarrhée**, fonte musculaire, **anorexie**, distension abdominale.
 - Souvent: détresse émotionnelle, humeur labile, léthargie, constipation, douleurs abdominales
@@ -151,11 +151,11 @@ Le diagnostic est affirmé par un faisceau d'arguments cliniques, biologiques, p
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
 
-Bilan ciblé devant une suspicion de maladie cœliaque.
+Prise en charge ciblée devant une suspicion de maladie cœliaque.
 
 ### Sérologie cœliaque
 
-En cas de faible risque clinique.  
+En cas de faible risque clinique (voir plus haut).  
 {{%class%}}De 32 à 156.000 devraient être réalisées chaque année.{{%/class%}}
 
 {{%info%}}
@@ -196,20 +196,22 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 
 
 {{%info%}}<< Chez les enfants qui se portent bien après l'arrêt du régime sans gluten, la recherche des auto-anticorps est **à répéter tous les ans**, afin de vérifier qu'il n'y a pas de rechutes >>{{%/info%}}
 
+Recommandations pour la prise en charge de la maladie cœliaque:
+
 - **Régime sans gluten à vie**
   - Blé, épeautre, froment, orge, seigle
   - Indications: adulte avec biopsie positive, enfant avec sérologie positive
   - Amélioration des symptômes à partir de 2 semaines d'éviction
   - Les symptômes disparaissent le plus souvent après 6 à 12 mois de traitement
-  - [Prise en charge partielle par l'Assurance Maladie](https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/remboursement-aliments-sans-gluten-ameli)
+  - [Remboursement partiel par la Sécurité Sociale](https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/remboursement-aliments-sans-gluten-ameli)
 - Encourager un régime alimentaire riche en fibres
   - Riz entier, maïs, pommes de terres, légumes
   - Avoine toléré par la plupart des personnes (surveiller la survenue de complications)
 - Bilan par diététicien pour identifier des carences
 - **Recontrôler la sérologie initiale à 6 et 12 mois pour encourager le patient dans son régime**
-- **Dépistage de tout l'entourage du 1<sup>er</sup>** degré et suivi sérologique
+- Dépistage de tout l'entourage au premier degré et suivi sérologique
 - Association de patients  
-[Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
+  [Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
 
 {{% /collapse%}}
 {{%collapse "Suivi médical" %}}
@@ -238,10 +240,8 @@ Par le gastro-entérologue et le diététicien spécialisé.
 - Aliments à éviter
 - Gestes culinaires et de conservation des aliments
 - Mesures pour régime sans gluten équilibré à vie
-
-### Association de patients
-
-[Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
+- Association de patients  
+  [Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
 
 ### Aliments à éviter en allergie au gluten
 
@@ -276,7 +276,7 @@ Le gluten est présent dans toutes les variétés de blé, froment, épeautre, o
 
 ![Logo des produits sans gluten](/images/sans-gluten.webp)
 
-L'[Assurance Maladie](https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/remboursement-aliments-sans-gluten-ameli) peut remboursé jusqu'à 45,73€/mois de produits sans gluten.
+Un remboursement par l'[Assurance Maladie](https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/remboursement-aliments-sans-gluten-ameli) est possible jusqu'à 45,73 euros par mois de produits sans gluten.
 
 {{% /collapse%}}
 {{%collapse "Conduite à tenir" "show" %}}

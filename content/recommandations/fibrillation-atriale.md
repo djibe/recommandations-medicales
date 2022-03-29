@@ -255,7 +255,7 @@ Réévaluer fréquemment le risque de saignement avec {{< modal-btn modal-hasble
 - Hémorragie active importante
 - Hémorragie récente majeure (intra-crânienne...)
 - Thrombopénie < 50.000/mm³
-- Anémie non expliquée
+- [Anémie]({{< relref "anemie.md" >}}) non expliquée
 
 {{%warning%}}Un traitement anticoagulant contre-indique les antithrombotiques (aspirine, clopidogrel sauf post-SCA) et AINS{{%/warning%}}
 

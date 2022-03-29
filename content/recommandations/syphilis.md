@@ -1,7 +1,7 @@
 +++
 title = "Syphilis"
 prefix = "la "
-shortname = "syphilis"
+description = "Recommandations pour le diagnostic et la prise en charge de la syphilis. Sérologie syphilitique et suivi sérologique, antibiotique benzathine benzylpénicilline"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-02T08:27:41+02:00
@@ -15,27 +15,30 @@ anglais = ["Syphilis"]
 sctid = "76272004"
 draft = false
 flowchart = true
-todo = "KEY sérologie syphilitique, Prescrire cite la ceftriaxone IM 1g/j 10 à 14j"
+todo = "Prescrire cite la ceftriaxone IM 1g/j 10 à 14j"
 +++
 
 {{%article-summary%}}
 
 - Évoquer un chancre devant toute ulcération génitale
 - Traiter comme une syphilis tardive quand la date de contamination n'est pas connue
+- Diagnostic par positivité de la sérologie syphilitique
 - Sérologies des autres [IST](/tags/ist/)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Syphilis
-: Maladie infectieuse à transmission directe principalement sexuelle par contact avec une lésion génitale (fellation comprise) de la bactérie *treponema pallidum* (spirochète, trépanomatose), ou materno-fœtale.  
+: Maladie infectieuse à transmission directe principalement sexuelle par contact avec une lésion génitale (fellation comprise) de la bactérie *Treponema pallidum* (tréponème, bactérie spirochète, trépanomatose), ou materno-fœtale.  
 La contamination lors de la grossesse entraîne des complications graves chez le fœtus.
 
 La majorité des cas survient chez les [HSH]({{< relref "hsh.md" >}}) (86% des cas en 2013, +56% entre 2013 et 2015) et entre 20 et 29 ans.
 
-**Co-infection VIH** dans 1/4 des cas.
+Forte prévalence d'une co-infection VIH (25%).
 
----
+### Stades de la syphilis
+
+Évolution en quatre stades de la syphilis:
 
 Syphilis précoce
 : Évolution datant de moins d'un an (J1 étant le 1<sup>er</sup> jour du chancre).  
@@ -52,10 +55,10 @@ Syphilis tardive
 ---
 
 Syphilis primaire
-: Présence du **chancre syphilitique** indolore très contagieux.  
+: Présence du chancre syphilitique indolore très contagieux.  
 Survient environ un mois après la contamination.
 
-Syphilis sérologique (ou latente, précoce)
+Syphilis sérologique (ou latente précoce)
 : Examen strictement normal avec notion de chancre/exposition sexuelle.  
 Constitue la majorité des syphilis datant de moins d'un an.
 : Elle succède à la syphilis primaire et peut être entrecoupée de manifestations secondaires.
@@ -67,11 +70,13 @@ Syphilis tertiaire
 : Complications neurologiques (neurosyphilis), oculaires et cardiovasculaires.
 
 Réaction d'Herxeimer
-: Réaction à la pénicilline quasi constante en syphilis précoce, le plus souvent sans gravité (aggravation clinique, fièvre, céphalées, éruption) durant les 24 premières heures. Disparaît spontanément en 24 heure.  
-Ne pas confondre avec une *allergie aux bêtalactamines*.
+: Effet secondaire de la pénicilline quasi constante en syphilis précoce, le plus souvent sans gravité (aggravation clinique, fièvre, céphalées, éruption) durant les 24 premières heures. Disparaît spontanément en 24 heures.  
+Ne pas confondre avec une allergie aux bêtalactamines.
 
 {{% /collapse %}}
 {{%collapse "Qui dépister?" %}}
+
+Recommandations pour le dépistage répété des personnes à risque:
 
 - Demande du patient (arrêt du préservatif, changement de partenaire, comportement à risque, accident de préservatif)
 - Toute consultation pour motif urologique ou gynécologique bénin
@@ -98,9 +103,9 @@ Parcours sentimental ou addictions.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-### Syphilis primaire = Chancre
+### Syphilis primaire = C
 
-Constant mais non vu en atteinte profonde (cervico-vaginale, rectale, pharyngée).  
+Le chancre est constant mais non vu en atteinte profonde (cervico-vaginale, rectale, pharyngée).  
 Lésion unique, muqueuse, indurée, indolore, superficielle, propre et très contagieuse mais peut prendre tout autre aspect. Cicatrisation complète sans cicatrice.  
 On parle de syphilis primo-secondaire quand le chancre persiste durant l'éruption secondaire.
 
@@ -151,7 +156,7 @@ Atteintes muqueuses fréquentes.
 
 Nombreux diagnostics différentiels, c'est pourquoi on appelle la syphilis la "grande simulatrice".
 
-- Acné
+- [Acné]({{< relref "acne.md" >}})
 - Alopécie
 - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
 - Leucémie aiguë
@@ -162,22 +167,21 @@ Nombreux diagnostics différentiels, c'est pourquoi on appelle la syphilis la "g
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Bilans devant une suspicion de syphilis.
+Recommandations pour la prise en charge diagnostique devant une suspicion de syphilis.
 
-### Sérologie syphilis
+### Sérologie syphilitique
+
+{{%warning%}}Une sérologie syphilitique négative n'élimine pas une syphilis primaire{{%/warning%}}
 
 Les sérologies se positivent quelques jours après le début du chancre et atteignent un titre maximum vers 6 mois, correspondant à la phase secondaire si elle est présente.
 
-Le diagnostic sérologique est plus difficile en recontamination du fait de la positivité des anticorps.
+Le diagnostic de syphilis par sérologie est plus difficile en recontamination du fait de la positivité des anticorps.
 
-{{%class%}}Test tréponémique unique depuis 2015, anciennement TPHA + VDRL.{{%/class%}}
-
-{{%warning%}}Une sérologie négative n'élimine pas une syphilis primaire.{{%/warning%}}
+{{%class%}}La sérologie syphilitique consiste en un test tréponémique unique depuis 2015 (anciennement TPHA - VDRL){{%/class%}}
 
 ### Examen au microscope
 
-Examen au microscope à fond noir de prélèvement lésionnel.
-Permet un diagnostic immédiat mais le prélèvement nécessite un microscope et une expertise.
+Examen au microscope à fond noir d'un prélèvement lésionnel. Permet un diagnostic de syphilis immédiat mais le prélèvement nécessite un microscope et une expertise.
 
 ### Sérologies et prélèvements des autres IST
 
@@ -194,6 +198,8 @@ Dépistage de la syphilis tous les 3 à 6 mois chez la personne vivant avec le [
 {{% /collapse %}}
 {{%collapse "Traitement de la syphilis" %}}
 
+Recommandations pour la prise en charge de la syphilis.
+
 ### Mesures générales
 
 - Éviter tout rapport sexuel  
@@ -206,22 +212,22 @@ Dépistage de la syphilis tous les 3 à 6 mois chez la personne vivant avec le [
 
 - Paracétamol systématique  
   Informer sur la réaction d'Herxeimer.
-- Antibiothérapie
-  - Benzathine pénicilline G (BPG) 2,4 MU dans fesse ou cuisse face latérale OU 2 injections IM de 1,2 MU
+- Antibiotique
+  - Benzathine pénicilline G (benzathine benzylpénicilline, BPG) 2,4 MU voie intramusculaire dans la fesse ou cuisse face latérale OU 2 injections IM de 1,2 MU
   - Administration intra-musculaire exclusivement
   - Garder le patient sous surveillance pendant 30 minutes en présence de matériel d'urgence
   - **Contre-indications:** allergie bêtalactamines, anticoagulants
 - Dépistage des contacts  
-  Tous les contacts des 3 mois précédents.
+  Notification des partenaires des 3 mois précédents.
 
 {{%info%}}Affirmer la guérison est impossible, nécessité de surveiller les patients pendant plusieurs années.  
-Répéter les sérologies dans les populations à risque (contaminées ou non){{%/info%}}
+Répéter le suivi sérologique dans les populations à risque (contaminées ou non){{%/info%}}
 
 #### Situations particulières
 
 - Allergie aux bêtalactamines  
   doxycycline 100 mg x 2/j pendant 14 jours  
-  Contre-indications: enfant < 8 ans, grossesse, allaitement.
+  Contre-indications: enfant < 8 ans, femme enceinte, allaitement.
 - Anticoagulants  
   Idem *Allergie aux bêtalactamines*
 - Patient VIH
@@ -229,11 +235,11 @@ Répéter les sérologies dans les populations à risque (contaminées ou non){{
 - Grossesse
   Schéma BPG et paracétamol (prévention d'Herxeimer)  
   ± prednisone 0,5 mg/kg la veille et les 3 jours suivants l'injection en cas de syphilis secondaire profuse.
-- Congénital  
-  Hospitalisation
-- Signes neurologiques, ophtalmo ou auditifs  
+- Syphilis congénitale  
+  Prise en charge de la syphilis en hospitalisation.
+- Signes neurologiques, ophtalmologiques ou auditifs  
   Hospitaliser pour ponction lombaire et traiter comme une neurosyphilis
-- Avis infectiologue si cas problématique
+- Avis infectiologue si cas problématique ou échec du traitement
 
 ### Syphilis tardive ou date de contamination inconnue
 
@@ -241,27 +247,27 @@ Traitement d'une syphilis de plus d'un an ou ancienneté non connue:
 
 {{%info%}}1 injection de Benzathine pénicilline G (BPG) 2,4 MU IM par semaine pendant 3 semaines{{%/info%}}.
 
-- Grossesse: Pas d'alternative à la pénicilline G  
-Désensibilisation si nécessaire.
+- Femme enceinte: Pas d'alternative à la pénicilline G  
+  Désensibilisation si nécessaire.
 - Allergie aux bêtalactamines  
-Doxycycline 100 mg x 2/j per os pendant 28 jours
+  Doxycycline 100 mg x 2/j per os pendant 28 jours
 
-### Traitement du partenaire
+### Notification des partenaires et traitement
 
-Syphilis certaine chez patient source, examiner les contacts:
+Syphilis certaine chez patient source, notification des partenaires et test selon l'ancienneté du contact:
 
 - Syphilis primaire  
-Tous les contacts de moins de 3 mois, même en rapports protégés.
+  Tous les contacts de moins de 3 mois, même en rapports protégés.
 - Syphilis secondaire ou latente  
-Tous les contacts de l'année précédente (même si protégés).
+  Tous les contacts de l'année précédente (même si protégés).
 
 #### Méthode du dépistage des contacts
 
 - Si contact ≥ 6 semaines: sérologie  
-Si positive: traiter, sinon refaire la sérologie à 3 mois.
+  Si positive: traiter, sinon refaire la sérologie à 3 mois.
 - Si contact < 6 semaines: sérologie et traiter systématiquement le contact
 - Syphilis douteuse chez patient source: examiner le contact et sérologie  
-Si positive: traiter, sinon refaire à 3 mois.
+  Si positive: traiter, sinon refaire à 3 mois.
 
 {{% /collapse %}}
 {{%collapse "Surveillance du traitement par pénicilline" %}}
@@ -325,16 +331,16 @@ Dans ce cas:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une syphilis" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le diagnostic et le traitement de la syphilis. Dr JB Fron d'après SFDermato 2016" >}}
+{{< mermaid title="Conduite à tenir pour le diagnostic et la prise en charge de la syphilis. Dr JB Fron d'après SFDermato 2016" >}}
 graph TB
   chancre[Chancre] -- Syphilis primaire --> ttt("VDRL, sérologies IST<br>BPG 2,4 MU IM unique<br>Paracétamol<br>Dépistage contacts &lt; 3 mois")
   style chancre stroke:#4150f5, stroke-width:1px
-    ttt --> surv("Clinique<br>VDRL M3, M6, M12")
-      surv -. "Échec" .-> echec(Adresser infectiologie H)
+    ttt --> surv("- Clinique<br>- VDRL M3, M6, M12")
+      surv -. "Échec" .-> echec(Adresser infectiologue)
   clinique["Lésions suspectes<br>Dépistage IST"] -- Sérologie + --> anciennete("Date de contamination<br>connue ?")
   style clinique stroke:#4150f5, stroke-width:1px
-    anciennete -- Oui --> adapte("Schéma BPG adapté<br>Dépistage contacts adapté") --> surv
-    anciennete -- Non --> tardive("<b>Traiter syphilis tardive</b><br>BPG 2,4 MU IM 1/sem 3 sem<br>Dépistage contacts &lt; 1 an") --> surv
+    anciennete -- Oui --> adapte("Schéma BPG adapté<br>(unique ou 1/sem 3 sem)<br>Dépistage contacts adapté") --> surv
+    anciennete -- Non --> tardive("<b>Traiter syphilis tardive</b><br>BPG 2,4 MU IM 1/sem 3 sem<br>Notification des partenaires &lt; 1 an") --> surv
 {{< /mermaid >}}
 
 {{% /collapse %}}
@@ -348,6 +354,6 @@ graph TB
 - [Organisation Mondiale de la Santé. La résistance aux antibiotiques oblige à actualiser les recommandations sur le traitement des infections sexuellement transmissibles. Août 2016.](http://www.who.int/mediacentre/news/releases/2016/antibiotics-sexual-infections/fr/)
 - [Santé Publique France. Infections Sexuellement Transmissibles. Décembre 2015.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/notices/bulletin-des-reseaux-de-surveillance-des-infections-sexuellement-transmissibles-ist-au-31-decembre-2016)
 - [HAS. Modification de la Nomenclature des actes de biologie médicale pour les actes de recherche du Treponema pallidum. Mai 2015. (PDF)](https://www.has-sante.fr/portail/upload/docs/application/pdf/2015-05/argumentaire_syphilis_vd.pdf)
-- [Société de Pathologie Infectieuse de Langue Française. Alternatives pour le traitement des syphilis non neurologiques dans un contexte de rupture de stock de benzathine pénicilline ± doxycycline. Février 2014. (PDF)](http://www.infectiologie.com/UserFiles/File/spilf/recos/2014-traitement-syphilis.pdf)
+- [SPILF (Société de Pathologie Infectieuse de Langue Française). Alternatives pour le traitement des syphilis non neurologiques dans un contexte de rupture de stock de benzathine pénicilline ± doxycycline. Février 2014. (PDF)](http://www.infectiologie.com/UserFiles/File/spilf/recos/2014-traitement-syphilis.pdf)
 
 {{%/sources%}}

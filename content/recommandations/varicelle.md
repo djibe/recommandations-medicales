@@ -46,7 +46,7 @@ Transmission respiratoire par gouttelettes. L'immunité naturelle est quasi déf
 
 ### Épidémiologie
 
-En France, à la différence des autres grands pays, la vaccination contre la varicelle n'est pas proposée à partir d'1 an à cause de la défiance antivax (*Infovac*).
+En France, à la différence des autres grands pays, la vaccination contre la varicelle n'est pas proposée à partir d'un an à cause de la défiance antivax (*Infovac*).
 
 - Incidence: 700.000 cas/an avec forte variation saisonnière (90% chez 1-14 ans)
 - Hospitalisations: 3000/an

@@ -2,7 +2,7 @@
 title = "Syndrome d'apnées obstructives du sommeil"
 prefix = "le "
 titleSeo = "Syndrome d'apnées du sommeil"
-description = "Recommandations pour le dépistage des apnées du sommeil, personnes à risque et fatigue, somnolence. Diagnostic par polygraphie respiratoire ou polysomnographie"
+description = "Recommandations pour le dépistage et la prise en charge des apnées du sommeil. STOP-BANG et diagnostic par polygraphie ventilatoire ou polysomnographie, PPC"
 longHtml = true
 synonyms = ["Apnées du sommeil"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -18,15 +18,15 @@ anglais = ["Obstructive sleep apnea syndrome"]
 sctid = "78275009"
 draft = false
 image = true
-imageSrc = "Habib M'henni / Wikimedia Commons"
+imageSrc = "Illustration de l'apnée du sommeil par Habib M'henni / Wikimedia Commons"
 imagePNG = true
-todo = "103, 105, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, doc explication PPC"
+todo = "103, 105, à lire, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, doc explication PPC"
 +++
 
 {{%article-summary%}}
 
-- Suspecter un SAOS devant: sommeil non réparateur, somnolence, fatigue, hypertension non contrôlée, reflux nocturne
-- Dépister systématiquement si obésité, diabète, FA, maladie cardiovasculaire...
+- Suspecter devant: sommeil non réparateur, somnolence, fatigue, hypertension non contrôlée, reflux nocturne
+- Dépister systématiquement si obésité, diabète, FA, maladie cardiovasculaire ...
 - Dépister par le questionnaire STOP-BANG ou les *8 questions* (voir *Comment dépister ...* )
 - Probabilité forte de SAOS avec somnolence inexpliquée malgré une polygraphie normale: réaliser une polysomnographie
 - La PPC doit être utilisée ≥ 4h/nuit et renouvelée au bout de 3 ans par le médecin traitant
@@ -42,8 +42,8 @@ Il a une origine *obstructive* (SAOS), *centrale* (SACS) ou *mixte*.
 Les complications des apnées du sommeil sont nombreuses et sévères:
 
 - Coronaropathie et [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (+50%)  
-HTA diastolique, nocturne et résistante (> 60% des HTA résistantes).
-- AVC (x 2-3)
+  HTA diastolique, nocturne et résistante (> 60% des HTA résistantes).
+- Accidents vasculaires cérébraux (x 2-3)
 - [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}})
 - Insulinorésistance
 - Troubles de la concentration et de l'humeur
@@ -91,9 +91,9 @@ Hypersomnie
 
 ### Comorbidités des apnées du sommeil
 
-- 20% ont une *[BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})* associée
-- Association forte au [diabète de type 2]({{< relref "diabete-type-2.md">}})  
-15-30% des SAOS ont un DT2, 40-70% des DT2 ont un SAOS.
+- [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (20%)
+- [Diabète de type 2]({{< relref "diabete-type-2.md">}}) (15-30%)  
+  40-70% des DT2 ont un SAOS.
 - 60% des [insuffisants cardiaques]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ont une forme d'apnées du sommeil
 
 ### Abréviations en médecine du sommeil
@@ -169,7 +169,7 @@ Surtout si hypertension résistante, insuffisance rénale d'évolution rapide, r
   - [Hypertension artérielle résistante]({{< relref "hypertension-arterielle.md" >}}) (73-82%)
   - Insuffisance respiratoire
   - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
-  - Fibrillation atriale (76-85%)
+  - [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) (76-85%)
   - Arythmies nocturnes
   - [HTAP]({{< relref "hypertension-arterielle-pulmonaire.md" >}})
 - Chauffeurs professionnels (ou métiers à risque)
@@ -194,10 +194,10 @@ Surtout si hypertension résistante, insuffisance rénale d'évolution rapide, r
 
 - Facteurs de risque cardiovasculaires
 - Antécédents cardiovasculaires  
-AVC, FA, IC, diabète, HTA...
+  AVC, FA, IC, diabète, HTA...
 - Antécédents familiaux
 - Facteurs aggravants  
-Liste des médicaments, rhinite chronique.
+  Liste des médicaments, rhinite chronique.
 - Symptômes diurnes
   - **Sommeil non réparateur**
   - **Somnolence diurne excessive** (15-50%)
@@ -315,14 +315,16 @@ Il consiste en une ventilation à pression positive continue (PPC) ou un orthès
 
 ### Mesures générales
 
+Recommandations générales pour la prise en charge des apnées du sommeil:
+
 - Perte de poids si surpoids  
-{{%class%}}Améliore l'IAH et les désaturations.{{%/class%}}
+  {{%class%}}Améliore l'IAH et les désaturations.{{%/class%}}
   - Chirurgie bariatrique si IMC ≥ 35 avant 65 ans (*HAS 2009 obésité*)
 - Activité physique régulière
 - Évaluer le bénéfice/risque d'une chirurgie bariatrique chez les sujets obèses (35 kg/m²)
 - Traitement d'une rhinite chronique/obstruction nasale associée
 - Arrêt du tabac  
-{{%class%}}N'améliore pas le SAOS mais réduit l'impact des comorbidités.{{%/class%}}
+  {{%class%}}N'améliore pas le SAOS mais réduit l'impact des comorbidités.{{%/class%}}
 - Réduire la consommation d'alcool
 - Réduire la consommation d'hypnotiques
 - SAOS positionnel: dormir sur le côté
@@ -332,18 +334,18 @@ Il consiste en une ventilation à pression positive continue (PPC) ou un orthès
 ### Les grands principes à connaître
 
 1. Principe de la PPC  
-Le maintien d'une pression permanente dans les voies aériennes prévient le collapsus du pharynx pendant le sommeil et donc toute interruption des débits d'air.
+  Le maintien d'une pression permanente dans les voies aériennes prévient le collapsus du pharynx pendant le sommeil et donc toute interruption des débits d'air.
 1. La PPC doit être utilisée au moins 4 heures par nuit
 1. La PPC peut être renouvelée par le médecin traitant au bout de 3 ans  
-Après 3 ans de traitement, le médecin traitant peut renouveler la demande d'entente préalable de la PPC.  
-Conditions: observance des 12 derniers mois (≥ 112 heures sur 10 mois et ≥ 56 heures sur les 2 restants).  
-Les données sont fournies par le prestataire.
+    - Après 3 ans de traitement, le médecin traitant peut renouveler la demande d'entente préalable de la PPC
+    - Conditions: observance des 12 derniers mois (≥ 112 heures sur 10 mois et ≥ 56 heures sur les 2 restants)
+    - Les données d'observance sont fournies par le prestataire
 
 ### En savoir plus sur le traitement du SAOS
 
 #### Indications françaises à traiter le SAOS
 
-Le patient doit remplir les [conditions du Journal Officiel 07/2017 (PDF)](http://www.sfrms-sommeil.org/wp-content/uploads/2017/09/Avis-de-projet_juillet-2017_joe_20170711_0161_0100.pdf) pour bénéficier d'une prise en charge de la Sécu:
+Le patient doit remplir les [conditions du Journal Officiel 07/2017 (PDF)](http://www.sfrms-sommeil.org/wp-content/uploads/2017/09/Avis-de-projet_juillet-2017_joe_20170711_0161_0100.pdf) pour bénéficier d'une prise en charge de la PPC par l'Assurance Maladie:
 
 - ≥ 3 symptômes parmi: somnolence diurne, ronflements sévères et quotidiens, sensation d'étouffement ou de suffocation pendant le sommeil, fatigue diurne, nycturie, céphalées matinales
 - SAOS sévère (IAH ≥ 30)
@@ -355,7 +357,7 @@ Choix préférentiel de la PPC si:
 
 - SAOS sévère
 - SAOS modéré avec sommeil de mauvaise qualité (≥ 10 micro-éveils/h = RDI ≥ 25)  
-OU maladie cardio-vasculaire grave associée (HTA résistante, FA récidivante, IVG sévère, coronaropathie non contrôlée, ATCD d'AVC).
+  OU maladie cardio-vasculaire grave associée (HTA résistante, FA récidivante, IVG sévère, coronaropathie non contrôlée, ATCD d'AVC).
 
 On propose l'OAM en cas de refus ou d'intolérance à la PPC et pour les autres cas de SAOS modéré:
 
@@ -495,6 +497,10 @@ Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire 
 - [Ruehland WR et al. The new AASM criteria for scoring hypopneas: impact on the apnea hypopnea index. Sleep. févr 2009;32(2):150‑7.](https://pubmed.ncbi.nlm.nih.gov/19238801/)
 - [Chiu H-Y et al. Diagnostic accuracy of the Berlin questionnaire, STOP-BANG, STOP, and Epworth sleepiness scale in detecting obstructive sleep apnea: A bivariate meta-analysis. Sleep Med Rev. déc 2017;36:57‑70.](https://pubmed.ncbi.nlm.nih.gov/27919588/)
 - [Morgenthaler TI et al. Practice parameters for the medical therapy of obstructive sleep apnea. Sleep. août 2006;29(8):1031‑5.](https://pubmed.ncbi.nlm.nih.gov/16944671/)
+
+### À lire
+
+[Kapur VK et al. Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea: An American Academy of Sleep Medicine Clinical Practice Guideline. J Clin Sleep Med. 2017.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/)
 
 {{% /collapse %}}
 {{% modal title="Échelle de somnolence d'Epworth" id="modal-score-epworth"%}}

@@ -8,7 +8,7 @@ synonyms = ["Syndrome climatérique", "traitement hormonal substitutif THS"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
 publishdate = "2021-10-19"
-lastmod = "2022-01-10"
+lastmod = "2022-03-29"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF"]
@@ -19,7 +19,7 @@ chart = true
 flowchart = true
 image = true
 imageSrc = "Illustration de la ménopause par Freepik"
-todo = "KEY patiente, règles d'hygiène, Chart J1-J31, lire sources, relecture gemvi-secretariat@gemvi.org"
+todo = "KEY patiente | règles d'hygiène, Chart J1-J31, lire sources, relecture gemvi-secretariat@gemvi.org"
 +++
 
 {{%article-summary%}}
@@ -29,7 +29,7 @@ todo = "KEY patiente, règles d'hygiène, Chart J1-J31, lire sources, relecture 
 - Contraception: interrompre la contraception et suivre l'aménorrhée
 - Bilan d'*insuffisance ovarienne prématurée* si survenue avant 40 ans (*détail à venir*)
 - Examen clinique complet et complémentaires adaptés
-- Traitements non hormonaux: arrêt tabac/alcool, activité physique, correction d'un surpoids, yoga, hypnose...
+- Traitements non hormonaux: arrêt tabac/alcool, activité physique, correction d'un surpoids, yoga, hypnose ...
 - THM: indications et contre-indications précises (voir *Traitement hormonal de la ménopause*)  
 **CI majeures**: antécédent de cancer du sein, infarctus du myocarde ou AVC et Alzheimer
 - Débuter quand diagnostic certain et seulement dans les 10 premières années
@@ -122,13 +122,13 @@ Dosages répétés de FSH (≥ 30 UI/L) et estradiol (< 20 pg/mL) à distance de
 
 ### Première consultation pour ménopause
 
-Évaluer les symptômes, la qualité de vie, le risque cardiovasculaire, fracturaire et oncologique.
+Évaluer les symptômes de la ménopause, la qualité de vie, le risque cardiovasculaire, fracturaire et oncologique de la patiente.
 
 - Antécédents  
-Cardiovasculaires, fracturaires, chirurgicaux.
+  Cardiovasculaires, fracturaires, chirurgicaux.
 - Facteurs de risque cardiovasculaire
   - Âge ≥ 60 ans
-  - Ancienneté de la ménopause
+  - Ancienneté de la ménopause (dernières règles)
   - Antécédent de prééclampsie ou diabète gestationnel
 - Poids, taille, IMC, pression artérielle aux 2 bras, pouls périphériques
 - Symptômes cardiovasculaires  
@@ -140,7 +140,7 @@ Cardiovasculaires, fracturaires, chirurgicaux.
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}}
 - {{< modal-btn modal-risque-fracture >}}Facteurs de risque fracturaire{{< /modal-btn >}}
 - Toxiques  
-Alcool, tabac, autres.
+  Alcool, tabac, autres.
 - Suivi des dépistages organisés des cancers
 - Palpation des seins
 - Examen gynécologique complet
@@ -152,8 +152,8 @@ Alcool, tabac, autres.
   - Troubles de l'humeur
   - Douleurs ostéoarticulaires
   - Syndrome génito-urinaire de la ménopause (SGUM, 27-70%)  
-  Ex. *atrophie vulvovaginale*.  
-  Diagnostic clinique si ≥ 1 symptôme: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (SFU, cystites récidivantes).
+    Ex. *atrophie vulvovaginale*.  
+    Diagnostic clinique si ≥ 1 symptôme: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (SFU, cystites récidivantes).
 - Information claire des bénéfices-risques à notifier dans le dossier médical
 
 > En début de ménopause, le score clinique *FRAX* a des performances prédictives de fracture médiocres alors que la mesure de la DMO par DXA est prédictive à 10 ans (Se 60%, Spe 70%)
@@ -237,7 +237,7 @@ Si endomètre > 4 mm ou saignements répétés.
 {{% /collapse %}}
 {{%collapse "Traitements non hormonaux" %}}
 
-Objectifs: amélioration de la santé, des signes climatériques, du risque cardiovasculaire et [ostéoporotique]({{< relref "osteoporose.md" >}}).
+Objectifs: amélioration de la santé, des signes climatériques, du risque cardiovasculaire et [prévention de l'ostéoporose]({{< relref "osteoporose.md" >}}).
 
 - Arrêt tabac et alcool
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
@@ -332,7 +332,7 @@ Recommandations pour le traitement hormonal de la ménopause (THM) en pratique:
 Estradiol cutané seul.
 - Schéma
   - *Combiné continu* privilégié  
-  Évite hémorragies de privation et BVM concomitantes, migraines, simplicité.
+  Évite hémorragies de privation et BVM concomitantes, [migraines]({{< relref "migraine.md" >}}), simplicité.
   - ou *séquentiel* (hémorragies de privation)
   - La dose minimale efficace peut varier avec le temps
 - Délai d'efficacité sur les BVM: 2-6 semaines.  
@@ -566,7 +566,7 @@ Si estradiol cutané + progestérone micronisée (dydrogestérone, acétate de c
 Décroît après l'arrêt du traitement.
 - Augmente le risque de cancer de l'ovaire
 - Avec le schéma du THM français (estrogène patch + progestérone naturelle orale), pas d'augmentation thrombo-embolique
-- Les études divergent sur les bénéfices cardiovasculaires et cognitifs du fait de la grande variété des traitements de la ménopause
+- Les études divergent sur les bénéfices cardiovasculaires et sur les troubles cognitifs du fait de la grande variété des traitements de la ménopause
 - On limite les risques avec le traitement œstrogénique par voie transdermique
 - Le suivi est au moins annuel et le traitement réévalué tous les ans
 - Risques éventuels lors de consommation de soja et ses dérivés

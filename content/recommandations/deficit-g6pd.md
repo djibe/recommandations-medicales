@@ -182,14 +182,14 @@ Doit être demandée par le médecin.
   - Guérison spontanée le plus souvent à partir de J8-J10
   - Transfusion en anémie profonde
 - Hémolyse chronique, grossesse: supplémentation en acide folique  
-5-10 mg/j 1-2 semaines/mois.
+  5-10 mg/j 1-2 semaines/mois.
 - Supplémentation en fer  
-Uniquement en carence démontrée.
+  Uniquement en carence démontrée.
 - Vaccination [hépatite A]({{< relref "hepatite-a.md" >}}) en séjour hors pays de l'ouest
 - Suivi hématologique en déficit de classe 1
 - Don du sang interdit
 - Association de patients  
-[Vigifavisme](https://www.vigifavisme.com/)
+  [Vigifavisme](https://www.vigifavisme.com/)
 
 {{% /collapse %}}
 {{%sources%}}

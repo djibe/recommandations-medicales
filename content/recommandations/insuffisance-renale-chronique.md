@@ -206,9 +206,9 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
   - PTH, calcémie, phosphorémie
   - Vitamine D
 - DFGe < 45  
-Albuminémie, urémie, AgHBs, anticorps anti-HBs et anti-HBc, urée et sodium sur urines de 24h.
+  Albuminémie, urémie, AgHBs, anticorps anti-HBs et anti-HBc, urée et sodium sur urines de 24h.
 - Anémie  
-Réticulocytes + ferritinémie.
+  Réticulocytes + ferritinémie.
 - **Confirmer une albuminurie** ≥ 30 mg/g (3 mg/mmol) sur un échantillon du matin
 - Signes fonctionnels urinaires, hématurie: échographie vésicale
 - Goutte symptomatique: uricémie

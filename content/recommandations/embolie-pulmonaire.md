@@ -51,7 +51,7 @@ Mortalité hospitalière: 5%
 **MVTE:** maladie veineuse thromboembolique  
 **PERC:** {{%lang%}}Pulmonary Embolism Rule-out Criteria{{%/lang%}}  
 **SAPL:** syndrome des anticorps anti-phospholipides  
-**THM:** traitement hormonal de la [ménopause ]({{< relref "menopause.md" >}}) 
+**THM:** traitement hormonal de la [ménopause]({{< relref "menopause.md" >}})  
 **TIH:** thrombopénie induite à l'héparine  
 **TVP:** thrombose veineuse profonde
 

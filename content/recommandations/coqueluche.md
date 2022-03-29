@@ -1,7 +1,7 @@
 +++
 title = "Coqueluche"
 prefix = "la "
-description = "Recommandations pour la prise en charge de la coqueluche. Toux, PCR coqueluche, éviction, antibiothérapie, antibioprophylaxie contacts, vaccination coqueluche"
+description = "Recommandations pour la prise en charge de la coqueluche. Toux prolongée: PCR coqueluche, éviction, antibiothérapie, antibioprophylaxie contacts et vaccination"
 synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
@@ -34,21 +34,21 @@ Voir: [toux chronique]({{< relref "toux-chronique.md" >}})
 {{%collapse "Définition" %}}
 
 Coqueluche
-: Maladie toxinique aiguë des voies respiratoires par la bactérie *Bordetella pertussis* (rarement *B. parapertussis*). Contamination aérienne interhumaine (famille, collectivité) avec taux d'attaque élevé (75%). Grave chez l'enfant voire mortelle chez le nourrisson.
+: Maladie toxinique aiguë des voies respiratoires par la bactérie *Bordetella pertussis* (rarement *Bordetella parapertussis*). Contamination aérienne interhumaine (famille, collectivité) avec taux d'attaque élevé (75%). Grave chez l'enfant voire mortelle chez le nourrisson.
 : Immunité post-infectieuse dure 10-15 ans, par vaccination 5-10 ans.
 : **Cas groupés** de coqueluche quand ≥ 2 cas en collectivité. Doit être notifié au médecin inspecteur de santé publique de l'ARS.
 
 ### Épidémiologie
 
-- Mortalité 79-05: 113 cas, 1<sup>re</sup> cause de décès des nourrissons (88% < 1 an)
-- 3 morts/an, 1<sup>re</sup> cause de mortalité de J10 à 2 mois, 3<sup>e</sup> cause tout âge confondu (méningo > pneumo).
+- Mortalité par coqueluche de 1979 à 2005: 113 cas, 1<sup>re</sup> cause de décès des nourrissons (88% < 1 an)
+- 3 morts/an, première cause de mortalité de J10 à 2 mois, troisième cause tout âge confondu (méningo > pneumo).
 - Source de la contamination: parents 55%, fratrie 25%
 - Coqueluche en Île-de-France: 32% des adultes suivis pour toux > 7 jours (60% vaccinés)
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Évoquer à tout âge devant une toux persistante ≥ 7 jours, à recrudescence nocturne ou émétisante si vaccination > 10 ans{{%/info%}}
+{{%info%}}Évoquer la coqueluche à tout âge devant une toux persistante ≥ 7 jours, à recrudescence nocturne ou émétisante si vaccination > 10 ans{{%/info%}}
 
 - Transmission aérienne directe, intra-familiale +++  
   Contamination maximale pendant la phase catarrhale.
@@ -58,7 +58,7 @@ Coqueluche
     2. Caractères de la toux
     3. Identification des contaminateurs
 - Diagnostic différentiel  
-  Infection (Mycoplase/Chlamydia, [grippe]({{< relref "grippe.md" >}}), [tuberculose]({{< relref "tuberculose.md" >}}), [sinusite]({{< relref "sinusite.md" >}})), allergique (allergie, [asthme]({{< relref "asthme.md" >}}), pneumopathie interstitielle diffuse), [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), tumeur, corps étranger, iatrogène (IEC, bêtabloquant), psychogène.
+  Infection (Mycoplasme ou Chlamydia, [grippe]({{< relref "grippe.md" >}}), [tuberculose]({{< relref "tuberculose.md" >}}), [sinusite]({{< relref "sinusite.md" >}})), allergique (allergie, [asthme]({{< relref "asthme.md" >}}), pneumopathie interstitielle diffuse), [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), tumeur, corps étranger, iatrogène (IEC, bêtabloquant), psychogène.
 
 ### Cas possible selon l'ECDC
 
@@ -75,8 +75,8 @@ Toute personne atteinte de toux depuis ≥ 2 semaines ET ≥ 1 parmi:
 - Incubation longue 7-15 jours  
   Toux légère, rhinite. Puis aggravation secondaire de la toux, à l'inverse de la rhinopharyngite.
 - Phase d'état 2-4 semaines  
-  Toux quinteuse (accès répétitifs 20/j, violentes secousses expiratoires sans inspiration efficace. Entraîne congestion du visage, cyanose et reprise bruyante de respiration = **chant du coq**). A l'origine d'asthénie majeure et de vomissements post-toux (toux émétisante).
-- Convalescence 2-4 semaines  
+  Toux quinteuse (accès répétitifs 20/j, violentes secousses expiratoires sans inspiration efficace. Entraîne congestion du visage, cyanose et reprise bruyante de respiration = chant du coq). A l'origine d'asthénie majeure et de vomissements post-toux (toux émétisante).
+- Phase de convalescence 2-4 semaines  
   Toux non quinteuse résiduelle (provoquée par l'effort, le froid, les cris, virose ORL).
 
 ### Coqueluche du nourrisson de moins de 6 mois non vacciné

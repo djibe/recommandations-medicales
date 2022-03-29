@@ -68,7 +68,7 @@ Hyperferritinémie (HF)
   **HF fluctuante**, CST normal/peu élevé, surcharge en fer absente/modérée
 - **Transfusions multiples**
   - Myélodysplasie, thalassémie
-  - CST élevé, surcharge en fer globale, anémie chronique
+  - CST élevé, surcharge en fer globale, [anémie chronique]({{< relref "anemie.md" >}})
 - **Génétique - hémochromatose liée à HFE** (type 1)  
   CST très élevé (60-100%), surcharge en fer globale, homozygotie C282Y.
 

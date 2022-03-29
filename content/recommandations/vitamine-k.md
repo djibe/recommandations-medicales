@@ -1,7 +1,6 @@
 +++
 title = "Vitamine K1"
 prefix = "la "
-shortname = "Vit. K"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-17T20:27:29+02:00
@@ -13,8 +12,7 @@ sources = ["SFNeonat"]
 tags = ["nourrisson"]
 anglais = ["Vitamin K"]
 sctid = "65183007"
-qualite = "moyenne"
-draft = false
+todo = "Noindex ?"
 +++
 
 {{%article-summary%}}
