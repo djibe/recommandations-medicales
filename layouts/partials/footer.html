@@ -1,10 +1,10 @@
-<script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin defer></script>
+<script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin></script>
 <script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin defer></script>
 <script src="{{ .Site.Params.cdn.material_js}}" crossorigin defer></script>
 <script src="https://instant.page/5.1.0" type="module" crossorigin async></script>
 
 {{- with .Params.chart }}
-<script src="https://cdn.jsdelivr.net/npm/apexcharts@3.33.0/dist/apexcharts.min.js" integrity="sha256-utYE4iYA3Rszt3DM6W4gDoozvOxpKXJqvNL6dQ6aH2M=" crossorigin defer></script>
+<script src="https://cdn.jsdelivr.net/npm/apexcharts@3.34.0/dist/apexcharts.min.js" integrity="sha256-dIW4xxiKatApEIOMRQssE1/0YUu/kDxwGaHOFh3VWIA=" crossorigin defer></script>
 <script>
 document.addEventListener( 'DOMContentLoaded', event => {
   Apex = {
