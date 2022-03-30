@@ -8,14 +8,13 @@ synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-06-21T10:56:00+02:00
 publishdate = 2021-06-29
-lastmod = 2021-12-23
+lastmod = 2022-03-30
 specialites = ["pneumologie"]
 annees = "2021"
 sources = ["GINA", "ERS", "SPLF", "HAS"]
 tags = ["AINS", "allergie", "asthme", "dyspnee", "tabac", "toux", "vaccin"]
 anglais = ["Asthma"]
 sctid = "195967001"
-draft = false
 image = true
 imageSrc = "Illustration de l'asthme par brgfx / Freepik"
 todo = "Applis Effic'Asthme, doses Symbicort turbuhaler, GINA 2021 p21, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique, formaldéhyde"
@@ -254,7 +253,7 @@ Selon le terrain:
 - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
 - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
 - Bronchite
-- Bronchiolite
+- [Bronchiolite]({{< relref "bronchiolite.md" >}})
 - Rhinite
 - Dilatation des bronches
 - Mucoviscidose
@@ -325,55 +324,9 @@ Consultation de suivi dans la semaine qui suit l'exacerbation.
 {{% /collapse %}}
 {{%collapse "Traitement de fond de l'asthme" %}}
 
+{{%info%}}Les corticoïdes inhalés (CSI) réduisent de façon marquée la fréquence et la gravité des symptômes de l'asthme ainsi que les risques d'exacerbation ou de décès causé par l'asthme (*GINA 2019*){{%/info%}}
+
 Confirmer le diagnostic avant de démarrer un traitement (*GINA 2019*), puis instaurer le plus rapidement possible un traitement par CSI.
-
-### Mesures générales
-
-- Suivi
-  - tous les 3 à 12 mois
-  - Spécialisé quand asthme non contrôlé, exacerbations répétées (> 2/an) ou patient fumeur
-  - En centre spécialisé quand asthme sévère non contrôlé
-- **Maîtrise de l'asthme**
-  - Sevrage tabagique total
-  - Et toutes les mesures du *Contrôle de l'asthme* (voir partie dédiée plus haut)
-  - **{{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous** (voir *Stratégie de traitement de l'asthme selon GINA*)  
-  Même si BPCO associée.
-  - Toujours disposer de {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} de secours
-  - [Carte du patient asthmatique](https://asthme-allergies.org/carte-asthme-agir/)
-  - Éducation thérapeutique: les [Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/)
-- Mesures hygiéno-diététiques
-  - Contrôle du poids si surpoids
-  - Activité physique quotidienne et traitement adapté si bronchoconstriction d'effort
-  - Déconditionnement à l'exercice: réhabilitation respiratoire en SSR
-- Traitements à éviter  
-Bêtabloquants de façon relative, aspirine et AINS si Hypersensibilité.
-- Asthme professionnel  
-Déclarer la maladie professionnelle, médecin du travail, reclassement, RQTH.
-- [HAS guide patient: vivre avec un asthme (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/guide_patient-asthme.pdf)
-- ALD 14 pour l'adulte si asthme persistant sévère
-  - Symptômes permanents, exacerbations fréquentes, asthme nocturne fréquent ou activité physique limitée par les symptômes
-  - Variabilité du DEP > 30% et VEMS/DEP < 60% théorique
-  - Traitement d'entretien par BALA + CSI fortes doses
-- ALD 14 pour l'enfant si asthme persistant sévère
-  - Persistance des symptômes et/ou anomalies EFR
-  - Malgré BALA + CSI fortes doses
-- ALD 14: vaccin grippe annuel et {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}
-- Association de patients  
-[Asthme & Allergies](https://asthme-allergies.org/), locale.
-
-{{%info%}}Les CSI réduisent de façon marquée la fréquence et la gravité des symptômes de l'asthme ainsi que les risques d'exacerbation ou de décès causé par l'asthme (*GINA 2019*){{%/info%}}
-
-#### Pour en savoir plus: Autres traitements
-
-La prescription dépend uniquement du spécialiste:
-
-- Modificateurs de leucotriènes  
-{{%class%}}Montélukast (EI: tics), pranlukast, zafirlukast, zileuton.{{%/class%}}
-- Rhinite et allergie aux acariens: immunothérapie par voie sublinguale (ITSL)
-- Anticorps anti-IgE {{%class%}}(omalizumab SC){{%/class%}}
-- Anticorps anti-IL5 et IL5R  
-Mépolizumab SC, reslizumab IV, benralizumab SC.
-- Anticorps anti-IL4R {{%class%}}(dupilumab SC){{%/class%}}
 
 ### Stratégie de traitement de l'asthme selon GINA
 
@@ -397,11 +350,10 @@ Mépolizumab SC, reslizumab IV, benralizumab SC.
     <ul><li><a data-toggle="modal" href="#modal-ttt-csi">CSI faible dose</a> au quotidien</li>
     <li><a data-toggle="modal" href="#modal-ttt-baca">BACA</a> au besoin</li></ul>
     </div>
-    <p>Évaluer la probabilité d'observance pour ce traitement. Sinon utiliser le schéma alternatif plus bas.</p>
-    <p>Pas de schéma alternatif pour l'enfant de 6 à 11 ans.</p>
-    <p>Seul schéma utilisable en cas d'asthme exclusivement provoqué par les allergies saisonnières. Arrêt du CSI 4 semaines après la fin de l'exposition.</p>
+    <p>Préférer le <em>Schéma alternatif</em> en cas de mauvaise observance.</p>
+    <p>NB. Asthme exclusivement provoqué par les allergies saisonnières: <em>Traitement de référence</em> et arrêt du CSI 4 semaines après la fin de l'exposition aux pollens.</p>
     <hr>
-    <p><b>Schéma alternatif:</b></p>
+    <p><b>Schéma alternatif (à partir de 12 ans):</b></p>
     <p><a data-toggle="modal" href="#modal-ttt-bala-csi">Formotérol + budésonide faible dose</a> uniquement en cas de symptôme.</p>
   </div>
   <div class="tab-pane fade" id="nav-asthme-stade3" role="tabpanel" aria-labelledby="nav-tab-stade3">
@@ -428,6 +380,45 @@ Mépolizumab SC, reslizumab IV, benralizumab SC.
 </div>
 </div>
 
+### Mesures générales
+
+- Suivi médical
+  - tous les 3 à 12 mois
+  - Par pneumologue quand asthme non contrôlé, exacerbations répétées (> 2/an) ou patient fumeur
+  - En centre spécialisé de l'asthme quand asthme sévère non contrôlé
+- **Maîtrise de l'asthme**
+  - Sevrage tabagique total
+  - Toutes les mesures du *Contrôle de l'asthme* (voir partie dédiée plus haut)
+  - **{{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous** (même si BPCO associée, voir *Stratégie de traitement de l'asthme selon GINA*)
+  - Toujours disposer de {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} de secours
+  - [Carte du patient asthmatique](https://asthme-allergies.org/carte-asthme-agir/)
+  - [Guide patient HAS: vivre avec un asthme (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/guide_patient-asthme.pdf)
+  - [Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/)
+- Mesures hygiéno-diététiques
+  - Correction d'un surpoids
+  - Activité physique quotidienne et traitement adapté si bronchoconstriction d'effort
+  - Déconditionnement à l'exercice: réhabilitation respiratoire en SSR
+- Traitements à éviter  
+  Bêtabloquants de façon relative, aspirine et AINS si hypersensibilité.
+- Asthme professionnel  
+  Déclarer la maladie professionnelle, médecin du travail, reclassement, RQTH.
+- Association de patients  
+  [Asthme & Allergies](https://asthme-allergies.org/)
+
+#### Asthme et ALD
+
+Conditions de prise en charge à 100% de l'asthme par l'ALD 14.
+
+- Adulte: asthme persistant sévère
+  - Symptômes permanents, exacerbations fréquentes, asthme nocturne fréquent ou activité physique limitée par les symptômes
+  - Variabilité du DEP > 30% et VEMS/DEP < 60% théorique
+  - Traitement d'entretien par BALA + CSI fortes doses
+- Enfant: asthme persistant sévère
+  - Persistance des symptômes et/ou anomalies EFR
+  - Malgré BALA + CSI fortes doses
+
+En cas d'ALD, vaccin grippe annuel et {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}.
+
 ### Asthme non contrôlé
 
 Asthme non-contrôlé = {{< modal-btn modal-score-act >}}ACT™ < 20{{< /modal-btn >}}.  
@@ -445,10 +436,21 @@ Conduite à tenir:
 Asthme parfaitement contrôlé sur les 2-3 derniers mois: discuter la décroissance vers la *dose minimale efficace*.  
 Paliers de 2-3 mois avec réévaluation par l'{{< modal-btn modal-score-act >}}Asthma Control Test™ (ACT){{< /modal-btn >}} à chaque consultation.
 
-La décroissance du {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} peut se faire par paliers de 25-50%.  
-Maintenir au long cours un {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} à faible dose.
+La décroissance du {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} peut se faire par paliers de 25-50% jusqu'à une {{< modal-btn modal-ttt-csi >}}faible dose{{< /modal-btn >}} maintenue au long cours.
 
-{{%info%}}Il n'est pas recommandé de garder une dose élevée de CSI inhalé chez un patient durablement contrôlé en raison des effets indésirables.{{%/info%}}
+{{%info%}}Éviter de conserver une dose élevée de CSI inhalé chez un patient durablement contrôlé en raison des effets indésirables{{%/info%}}
+
+#### Pour en savoir plus: Autres traitements de l'asthme
+
+La prescription dépend uniquement du pneumologue:
+
+- Modificateurs de leucotriènes  
+  {{%class%}}Montélukast (EI: tics), pranlukast, zafirlukast, zileuton.{{%/class%}}
+- Rhinite et allergie aux acariens: immunothérapie par voie sublinguale (ITSL)
+- Anticorps anti-IgE {{%class%}}(omalizumab sous-cutané SC){{%/class%}}
+- Anticorps anti-IL5 et IL5R  
+  Mépolizumab SC, reslizumab IV, benralizumab SC.
+- Anticorps anti-IL4R {{%class%}}(dupilumab SC){{%/class%}}
 
 {{% /collapse %}}
 {{%collapse "Techniques d'inhalation des bronchodilatateurs" %}}
@@ -469,8 +471,6 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 ### Maladie
 
 - Maladie respiratoire par inflammation bronchique entraînant une inflammation anormale des bronches
-
-### Traitements
 
 {{% /collapse %}}
 {{%sources%}}

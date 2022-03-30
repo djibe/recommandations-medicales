@@ -1,6 +1,6 @@
 +++
 title = "{{ replace .Name '-' ' ' | title }}"
-titleSeo = "In case of long title or delete"
+titleSeo = "In case of long title or delete whole line"
 prefix = "la "
 description = "160 characters max"
 synonyms = []
@@ -11,8 +11,8 @@ lastmod = "{{ now.Format "2006-01-02" }}"
 specialites = ["endocrinologie"]
 annees = "2020"
 sources = ["Society1", "Society2"]
-tags = ["tag 1"]
-anglais = ["MSM"]
+tags = ["tag 1", "tag 2"]
+anglais = ["English word", "you can add one or delete this one"]
 sctid = "76102007"
 draft = true
 image = false

@@ -92,7 +92,7 @@ France: chez les 40-75 ans, prévalence de 2-10% pour les femmes et 1,5-15% pour
 
 - Poids, taille, IMC
 - Examen debout, à la marche, puis couché
-- Déformation, boîterie, lâchage
+- Déformation, boiterie, lâchage
 - Mobilité, flexion (talon-fesse)  
   Craquement audible et palpable en flexion traduit une atteinte du cartilage.
 - Épanchement (choc rotulien, signe du flot, kyste poplité)
@@ -109,9 +109,9 @@ France: chez les 40-75 ans, prévalence de 2-10% pour les femmes et 1,5-15% pour
 
 - Arthrite septique
 - Arthropathie microcristalline  
-Chondrocalcinose articulaire, [goutte]({{< relref "goutte.md" >}}).
+  Chondrocalcinose articulaire, [goutte]({{< relref "goutte.md" >}}).
 - Arthrite inflammatoire  
-[Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [spondyloarthrite]({{< relref "spondylarthrite-ankylosante.md" >}}).
+  [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [spondyloarthrite]({{< relref "spondylarthrite-ankylosante.md" >}}).
 - Synovite villonodulaire
 
 ### Douleurs chroniques
@@ -273,21 +273,7 @@ Limiter vélo, ski.
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}
 
-### Sémiologie du genou par Le COFER
-
-{{< video mp4="http://www.videos.lecofer.org/semiologie/genou/01ReperesAnat.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/01ReperesAnat.webm" description="Le COFER. Genou: Repères anatomiques" >}}
-
-{{< video mp4="http://www.videos.lecofer.org/semiologie/genou/02ChocRotulien.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/02ChocRotulien.webm" description="Le COFER. Genou: Recherche choc rotulien" >}}
-
-{{< video mp4="http://www.videos.lecofer.org/semiologie/genou/03FlexionGenou.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/03FlexionGenou.webm" description="Le COFER. Genou: Flexion passive" >}}
-
-{{< video mp4="http://www.videos.lecofer.org/semiologie/genou/04RotationGenou.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/04RotationGenou.webm" description="Le COFER. Genou: Rotations passives" >}}
-
-{{< video mp4="http://www.videos.lecofer.org/semiologie/genou/05LigtsGenou.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/05LigtsGenou.webm" description="Le COFER. Genou: Evaluation ligamentaire" >}}
-
-{{< video mp4="http://www.videos.lecofer.org/semiologie/genou/06ExamRotule.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/06ExamRotule.webm" description="Le COFER. Genou: Examen rotule" >}}
-
-{{< video mp4="http://www.videos.lecofer.org/semiologie/genou/07PctionArtic.mp4" webm="http://www.videos.lecofer.org/semiologie/genou/07PctionArtic.webm" description="Le COFER. Genou: Ponction articulaire" >}}
+{{< card-link title="Sémiologie du genou en vidéo" url="http://www.lecofer.org/semiologie.php" subtitle="Le COFER" >}}
 
 {{% /collapse %}}
 {{%sources%}}
