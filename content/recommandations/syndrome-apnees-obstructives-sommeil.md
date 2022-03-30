@@ -128,7 +128,7 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 
 [Liste des centres homologués SFRMS par région](https://www.sfrms-sommeil.org/carte-des-centres-agrees/)
 
-<div class="card card-hover my-3 mb-xl-5" style="max-width:640px">
+<div class="card card-hover my-3 mb-xl-5 mw-640">
   <ul class="nav nav-justified nav-tabs" id="tabs-saos" role="tablist">
     <li class="nav-item">
       <a aria-controls="stop-bang-panel" aria-selected="true" class="nav-link active" data-toggle="tab" href="#stop-bang-panel" id="stop-bang-tab" role="tab">STOP-BANG</a>

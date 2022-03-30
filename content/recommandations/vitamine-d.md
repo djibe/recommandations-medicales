@@ -3,14 +3,14 @@ title = "Vitamine D et supplémentation"
 prefix = "la "
 titleSeo = "Vitamine D et supplémentation"
 description = "Recommandations sur les apports et la supplémentation en vitamine D. Aliments riches, 1000 UI par jour, indications au dosage et cible selon l'âge, nourrisson"
-synonyms = ["Cholécalciferol vitamine D3"]
+synonyms = ["Cholécalciferol vitamine D3", "ergocalciférol vitamine D2"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-15T00:28:29+02:00
 publishdate = 2020-04-15
-lastmod = 2022-03-25
+lastmod = 2022-03-30
 specialites = ["endocrinologie", "pediatrie"]
-annees = "2019"
-sources = ["HAS", "SFP", "SFR"]
+annees = "2022"
+sources = ["SFP", "HAS", "SFR"]
 tags = ["depistage", "vitamine d", "chute", "nourrisson", "enfant", "adolescent"]
 anglais = ["Vitamin D"]
 image = true
@@ -27,7 +27,7 @@ Voir aussi: {{< modal-btn modal-calcium-cible >}}cibles calciques selon l'âge{{
 Vitamine D
 : La vitamine D participe à la régulation du métabolisme phosphocalcique et prévient: **rachitisme, ostéomalacie, douleurs musculaires diffuses**.  
 L'unité internationale est le **nmol/L**.
-: **Bénéfices de la supplémentation**  
+: **Bénéfices de la supplémentation en vitamine D**  
 Réduit les fractures non vertébrales des +65 ans, réduit les chutes des +70 ans quand les taux sériques sont supérieurs à 30 ng/mL. Aliments riches: poissons et produits laitiers.
 : Selon l'Inserm, une carence en vitamine D serait fortement liée au développement de la maladie d'Alzheimer. D'autant plus que le sujet est carencé en caroténoïdes et acides gras polyinsaturés (*[Féart 2017](https://presse.inserm.fr/la-vitamine-d-une-nouvelle-piste-contre-la-maladie-dalzheimer/28364/)*).
 
@@ -42,8 +42,6 @@ Seuil de toxicité de la vitamine D
 : Taux sérique > 375 nmol/L.  
 Ne pas supplémenter au-delà 150 nmol/L.
 
-{{%info%}}À tous les âges, des apports quotidiens de 1000 UI par jour sont recommandés{{%/info%}}
-
 ### Épidémiologie
 
 Principaux aliments riches en vitamine D: poissons et produits laitiers (*Anses*).
@@ -53,12 +51,14 @@ Principaux aliments riches en vitamine D: poissons et produits laitiers (*Anses*
 - **Carence en vitamine D**  
   7% des adultes, 13% des adolescents, 4% des enfants.
 
-> *Santé Publique France. Étude Esteban.*
+> *Étude Esteban (Santé Publique France)*
 
 ### Abréviations
 
 **25OHD:** cholécalciférol  
+**HAS:** Haute autorité de santé  
 **IRC:** insuffisance rénale chronique  
+**SFP:** Société française de pédiatrie  
 **UI:** unités internationales
 
 {{%/collapse%}}
@@ -79,12 +79,13 @@ Convertir dans les 2 sens: nmol/L (unités internationales) et ng/mL.
 ### Personnes à risque de complications par carence en vitamine D
 
 - Iatrogène  
-  Corticoïdes au long cours, anti-aromatases, analogues de la GnRH.
-- Maladies endocriniennes  
-  Hyperparathyroïdie.
-- Malabsorption  
+  Corticoïdes au long cours, traitements anti-épileptiques, anti-aromatases, analogues de la GnRH.
+- Maladies endocriniennes et dermatologiques  
+  Hyperparathyroïdie ...
+- Malabsorption, maldigestion, cholestase, insuffisance hépatique  
   [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), mucoviscidose, chirurgie bariatrique.
-- [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
+- [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}), syndrome néphrotique
+- Anorexie mentale
 - Sujets âgés à {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}}
 
 ### 3 objectifs pour les personnes à risque
@@ -100,31 +101,33 @@ La supplémentation en vitamine D3 peut être instaurée et suivie sans dosage d
 Éviter une supplémentation forte trop espacée (voir *Protocole d'administration* plus bas).
 
 {{< table title="Recommandations d'apports en vitamine D en 2022 selon le profil du patient" >}}
-| Population                         | Apports (UI/j) ou cibles (25OHD) recommandés |
-|------------------------------------|----------------------------------------------|
-| Nourrisson en allaitement maternel | Supplémentation quotidienne 1000-1200 UI/j<br>ZymaD® buvable en 3-4 gouttes par jour (300 UI/goutte) |
-| Nourrisson en allaitement artificiel<br>Prématuré | 600-800 UI/j soit ZymaD® 2-3 gouttes/j<br>800-1000 UI/j soit 3 gouttes/j |
-| 18 mois à 5 ans                    | 80 à 100.000 UI en novembre et février |
-| 5 ans à 10 ans                     | Études en cours                        |
-| 10 à 18 ans                        | 80 à 100.000 UI en novembre et février<br>ou 200.000 UI 1 fois l'hiver (observance) |
-| Grossesse                          | 80 à 100.000 UI au début du 7<sup>e</sup> mois de grossesse |
-| Adulte                             | &ge; 50 nmol/L |
-| Adulte &ge; 65 ans                 | &ge; 75 nmol/L |
-| Adulte à risque, dépendant, chutes | &ge; 75 nmol/L |
-| Résident en EHPAD                  | &ge; 75 nmol/L et cible calcique 1200 mg/j |
-| Ostéoporose, biphosphonates        | &ge; 75 nmol/L |
+| Population                         | Apports (UI/j) ou cibles (25OHD) recommandés | Source           |
+|------------------------------------|----------------------------------------------|------------------|
+| 0 - 2 ans                          | 400-800 UI/j                                 | *Bacchetta 2022* |
+| 2 - 18 ans                         | Apports quotidiens voire 50.000 UI/trimestre<br>ou 80-100.000 UI novembre et février | *Bacchetta 2022* |
+| 2 - 18 ans à risque<br>Sujet noir, obèse, 0 exposition, vegan | 800-1600 UI/j voire 50.000 UI/6sem<br>ou 80-100.000 UI/trimestre | *Bacchetta 2022* |
+| Grossesse                          | 80-100.000 UI 7<sup>e</sup> mois de grossesse | |
+| Mineur                             | 400-800 UI/j et &gt; 75 nmol/L               | *Bacchetta 2022* |
+| Adulte                             | &ge; 50 nmol/L | |
+| Adulte &ge; 65 ans                 | &ge; 75 nmol/L | |
+| Adulte à risque, dépendant, chutes | &ge; 75 nmol/L | |
+| Résident en EHPAD                  | &ge; 75 nmol/L et cible calcique 1200 mg/j | |
+| Ostéoporose, biphosphonates        | &ge; 75 nmol/L | |
 {{< /table >}}
+
+> Apports quotidiens préférés chez -18 ans: vitamine D2 ou D3 (ZymaD® buvable 300 UI/gte). Sinon vitamine D3 (*Bacchetta 2022*)  
+Pas d'autres supplémentations.
 
 {{% /collapse %}}
 {{%collapse "Quand doser la vitamine D ?" %}}
 
 1. Suspicion de rachitisme
-1. Suspicion d'ostéomalacie (fatigue musculaire, douleurs osseuses)
-1. À 3 mois d'une transplantation rénale
-1. Avant et après une chirurgie bariatrique
-1. Personne âgée avec chutes répétées  
+2. Suspicion d'ostéomalacie (fatigue musculaire, douleurs osseuses)
+3. À 3 mois d'une transplantation rénale
+4. Avant et après une chirurgie bariatrique
+5. Personne âgée avec chutes répétées  
   Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>
-1. Traitement préconisant une mesure de la vitamine D
+6. Traitement préconisant une mesure de la vitamine D (ex. biphosphonate)
 
 > *HAS 2013 et Conditions de prise en charge par l'Assurance Maladie*
 
@@ -134,7 +137,7 @@ et aussi
 - Enfant en allaitement maternel sans supplémentation pendant des mois (*SFD*)
 - Enfants à peau pigmentée sans supplémentation avec arcature des membres inférieurs (*SFD*)
 - Bilan initial de [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) (*HAS 02/2012*)
-- Probablement pour tous les épileptiques et diabétiques
+- Enfant avec supplémentation prolongée à des doses excessives (*Bacchetta 2022*)
 
 En dehors des 6 indications (+ suppléments), préciser sur l'ordonnance la raison.  
 En dosage de complaisance, préciser << Non remboursable >> sur la prescription (9,45€, code B35).  
@@ -187,14 +190,14 @@ Intensification si:
 - Sujet à peau très foncée
 - Absence d'exposition estivale
 - Traitement à risque: rifampicine, phénobarbital, phénytoïne
-- Obésité, régime carencé
+- Obésité, régime carencé (vegan)
 
 {{% /collapse %}}
 {{%collapse "Spécialités de cholécalciférol disponibles" %}}
 
 ### Spécialités de vitamine D par galénique
 
-<ul class="list-group" style="max-width: 480px">
+<ul class="list-group mw-480">
   {{< list-item title="Ampoule" subtitle="Cholécalciférol 200, 100, 80 ou 50.000 UI (Uvedose® ou autre)" >}}
   {{< list-item title="Capsule molle" subtitle="Kipos® 100.000 UI" >}}
   {{< list-item title="Gouttes" subtitle="Adrigyl® 333 UI/goutte, ZymaD® 300 UI/goutte" >}}
@@ -203,7 +206,7 @@ Intensification si:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour la supplémentation en vitamine D" "show" %}}
 
-{{< mermaid title="Cibles d'apports en vitamine D (schéma simplifié). Dr JB Fron d'après Souberbielle JC 2019" >}}
+{{< mermaid title="Cibles d'apports en vitamine D (schéma simplifié). Dr JB Fron d'après Bacchetta J 2022 et Souberbielle JC 2019" >}}
 graph TB
   apports[Objectifs d'apports<br>en vitamine D]
   style apports stroke:#4150f5, stroke-width:1px
@@ -217,6 +220,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Bacchetta J. et al; SFP, SFneonatalogie, AFPA et al. Vitamin D and calcium intakes in general pediatric populations: A French expert consensus paper. Archives de pédiatrie. 2022.](https://afpa.org/content/uploads/2022/03/Vitamin-D-and-calcium-intakes-in-general-pediatric-populations-A-French-expert-consensus-paper-20-02-2022.pdf)
 - [Anses. Vitamine D : pourquoi et comment assurer un apport suffisant ? Septembre 2021.](https://www.anses.fr/fr/content/vitamine-d-pourquoi-et-comment-assurer-un-apport-suffisant)
 - [Omedit Centre Val de Loire. Protocole de supplémentation en vitamine D en EHPAD. Décembre 2020. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/10827.pdf)
 - [Ameli. Dosage de la vitamine D. Décembre 2020.](https://www.ameli.fr/paris/laboratoire-danalyses-medicales/exercice-liberal/memos/dosage-vitamine)
@@ -228,10 +232,6 @@ graph TB
 - [HAS. Utilité clinique du dosage de la vitamine D. Octobre 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-02/utilite_clinique_du_dosage_de_la_vitamine_d_-_note_de_cadrage.pdf)
 - [Société Française de Pédiatrie. La Vitamine D : une vitamine toujours d'actualité chez l'enfant et l'adolescent. Mise au point par le Comité de nutrition de la Société française de pédiatrie. 2012. (PDF)](https://afpa.org/content/uploads/2017/07/Reco_VIT_D_VersionFR_VF.pdf)
 - [HAS. Guide du parcours de soins - Maladie rénale chronique de l'adulte. Février 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_mrc_web.pdf)
-
-### À lire
-
-[Bacchetta J. et al. Vitamin D and calcium intakes in general pediatric populations: A French expert consensus paper. Archives de pédiatrie. 2022.](https://afpa.org/content/uploads/2022/03/Vitamin-D-and-calcium-intakes-in-general-pediatric-populations-A-French-expert-consensus-paper-20-02-2022.pdf)
 
 {{%/sources%}}
 {{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}

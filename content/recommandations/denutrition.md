@@ -62,7 +62,7 @@ Syndrome de renutrition inappropriée
 
 ### Perte de poids
 
-<div class="card-body border mb-5" style="max-width: 480px">
+<div class="card-body border mb-5 mw-480">
 <form class="d-block d-lg-flex form-variation-poids">
   <div class="form-ripple mr-3">
     <label for="poids-initial">Poids initial (kg)</label>

@@ -127,7 +127,7 @@ Occasions pour dépister un mésusage: consultation de routine, prescription d'u
 L'entretien motivationnel est empathique avec une écoute sans jugement et une acceptation inconditionnelle de la situation (acceptation et bienveillance), c'est un accompagnement.  
 Demander au patient l'autorisation de parler de sa consommation d'alcool.
 
-<div class="card card-hover my-3 mb-xl-5" style="max-width:640px">
+<div class="card card-hover my-3 mb-xl-5 mw-640">
   <ul class="nav nav-justified nav-tabs" id="tabs-alcool" role="tablist">
     <li class="nav-item">
       <a aria-controls="auditc-panel" aria-selected="true" class="nav-link active" data-toggle="tab" href="#auditc-panel" id="auditc-tab" role="tab">AUDIT-C</a>

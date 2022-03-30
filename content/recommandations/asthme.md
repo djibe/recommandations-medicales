@@ -343,36 +343,36 @@ Confirmer le diagnostic avant de démarrer un traitement (*GINA 2019*), puis ins
 <div class="card-body tab-content">
   <div class="tab-pane fade" id="nav-asthme-stade1" role="tabpanel" aria-labelledby="nav-tab-stade1">
     <div class="alert alert-warning mb-4">Traitement envisageable uniquement en cas de symptômes &lt; 2 fois/mois sans aucun facteur de risque d'exacerbation</div>
-    <p><a data-toggle="modal" href="#modal-ttt-bala-csi">Formotérol + budésonide faible dose</a> uniquement en cas de symptôme.</p>
+    <p><a data-toggle="modal" href="#modal-ttt-bala-csi" role="button">Formotérol + budésonide faible dose</a> uniquement en cas de symptôme.</p>
   </div>
   <div class="tab-pane fade show active" id="nav-asthme-stade2" role="tabpanel" aria-labelledby="nav-tab-stade2">
     <div class="alert alert-info">Traitement de référence
-    <ul><li><a data-toggle="modal" href="#modal-ttt-csi">CSI faible dose</a> au quotidien</li>
-    <li><a data-toggle="modal" href="#modal-ttt-baca">BACA</a> au besoin</li></ul>
+    <ul><li><a data-toggle="modal" href="#modal-ttt-csi" role="button">CSI faible dose</a> au quotidien</li>
+    <li><a data-toggle="modal" href="#modal-ttt-baca" role="button">BACA</a> au besoin</li></ul>
     </div>
     <p>Préférer le <em>Schéma alternatif</em> en cas de mauvaise observance.</p>
     <p>NB. Asthme exclusivement provoqué par les allergies saisonnières: <em>Traitement de référence</em> et arrêt du CSI 4 semaines après la fin de l'exposition aux pollens.</p>
     <hr>
     <p><b>Schéma alternatif (à partir de 12 ans):</b></p>
-    <p><a data-toggle="modal" href="#modal-ttt-bala-csi">Formotérol + budésonide faible dose</a> uniquement en cas de symptôme.</p>
+    <p><a data-toggle="modal" href="#modal-ttt-bala-csi" role="button">Formotérol + budésonide faible dose</a> uniquement en cas de symptôme.</p>
   </div>
   <div class="tab-pane fade" id="nav-asthme-stade3" role="tabpanel" aria-labelledby="nav-tab-stade3">
-    <ul><li><a data-toggle="modal" href="#modal-ttt-bala-csi">CSI + BALA faible dose</a> au quotidien</li>
-    <li><a data-toggle="modal" href="#modal-ttt-baca">BACA</a> au besoin<br>Si insuffisant: remplacer par <a data-toggle="modal" href="#modal-ttt-bala-csi">Formotérol + budésonide ou béclométasone faible dose</a>
+    <ul><li><a data-toggle="modal" href="#modal-ttt-bala-csi" role="button">CSI + BALA faible dose</a> au quotidien</li>
+    <li><a data-toggle="modal" href="#modal-ttt-baca">BACA</a> au besoin<br>Si insuffisant: remplacer par <a data-toggle="modal" href="#modal-ttt-bala-csi" role="button">Formotérol + budésonide ou béclométasone faible dose</a>
     </li></ul>
     <hr>
     <p class="font-weight-bold">Traitements alternatifs</p>
-    <ul><li><a data-toggle="modal" href="#modal-ttt-csi">CSI dose moyenne</a></li>
+    <ul><li><a data-toggle="modal" href="#modal-ttt-csi" role="button">CSI dose moyenne</a></li>
     <li>CSI + ARL faible dose</li></ul>
     <p>Désensibilisation en cas de d'allergie aux acariens.</p>
     <hr>
     <p class="font-weight-bold">Enfant de 6 à 11 ans</p>
-    <ul><li><a data-toggle="modal" href="#modal-ttt-csi">CSI dose moyenne</a></li>
-    <li>ou <a data-toggle="modal" href="#modal-ttt-bala-csi">CSI + BALA faible dose</a></li></ul>
+    <ul><li><a data-toggle="modal" href="#modal-ttt-csi" role="button">CSI dose moyenne</a></li>
+    <li>ou <a data-toggle="modal" href="#modal-ttt-bala-csi" role="button">CSI + BALA faible dose</a></li></ul>
   </div>
   <div class="tab-pane fade" id="nav-asthme-stade4" role="tabpanel" aria-labelledby="nav-tab-stade4">
-    <ul><li><a data-toggle="modal" href="#modal-ttt-bala-csi">CSI + formotérol faible dose</a> en traitement de fond ET de secours</li>
-    <li>ou <a data-toggle="modal" href="#modal-ttt-bala-csi">CSI + BALA dose moyenne</a> + <a data-toggle="modal" href="#modal-ttt-baca">BACA</a> au besoin</li></ul>
+    <ul><li><a data-toggle="modal" href="#modal-ttt-bala-csi" role="button">CSI + formotérol faible dose</a> en traitement de fond ET de secours</li>
+    <li>ou <a data-toggle="modal" href="#modal-ttt-bala-csi" role="button">CSI + BALA dose moyenne</a> + <a data-toggle="modal" href="#modal-ttt-baca" role="button">BACA</a> au besoin</li></ul>
   </div>
   <div class="tab-pane fade" id="nav-asthme-stade5" role="tabpanel" aria-labelledby="nav-tab-stade5">
     Stade 5 = suivi en centre de référence de l'asthme uniquement
