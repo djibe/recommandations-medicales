@@ -13,7 +13,7 @@ sources = ["INCA", "HAS", "CNGOF"]
 tags = ["tag 1"]
 anglais = ["MSM"]
 sctid = "??????????????????????????"
-imageSrc = ""
+imageSrc = "https://fr.freepik.com/vecteurs/personnes Personnes vecteur créé par pch.vector - fr.freepik.com"
 todo = ""
 draft = true
 image = true
@@ -26,7 +26,6 @@ flowchart = true
 + Vaccination chez les filles ET les garçons jusqu'à 19, et chez les HSH jusqu'à 26 ans
 + Le Gardasil 9® est à privilégier
 + Dépistage par frottis de 25 à 65 ans: Cyto de 25 à 30 et test HPV-HR de 30 à 65.
-
 
 
 {{%/article-summary%}}
