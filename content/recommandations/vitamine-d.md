@@ -7,7 +7,7 @@ synonyms = ["Cholécalciferol vitamine D3", "ergocalciférol vitamine D2"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-15T00:28:29+02:00
 publishdate = 2020-04-15
-lastmod = 2022-03-30
+lastmod = 2022-03-31
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2022"
 sources = ["SFP", "HAS", "SFR"]
@@ -17,11 +17,19 @@ image = true
 imageSrc = "Illustration de la vitamine D par pch.vector / Freepik"
 sctid = "30178006"
 flowchart = true
-todo = "graph correction, relecture protocole correction"
+todo = "relecture protocole correction"
 +++
 
-Voir aussi: {{< modal-btn modal-calcium-cible >}}cibles calciques selon l'âge{{< /modal-btn >}}, {{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}} et [ostéoporose]({{< relref "osteoporose.md" >}}).
+{{%article-summary%}}
 
+- Supplémentation de 400-800 UI/j toute la croissance
+- Cible adulte: > 50 nmol/L
+- 75 nmol/L à partir de 65 ans ou pathologie à risque, chutes
+- {{< modal-btn modal-calcium-cible >}}Apports en calcium recommandés{{< /modal-btn >}} et {{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}
+
+Articles liés: {{< modal-btn modal-calcium-cible >}}apports en calcium recommandés{{< /modal-btn >}}, {{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}} et [ostéoporose]({{< relref "osteoporose.md" >}})
+
+{{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Vitamine D
@@ -55,26 +63,29 @@ Principaux aliments riches en vitamine D: poissons et produits laitiers (*Anses*
 
 ### Abréviations
 
-**25OHD:** cholécalciférol  
+**25OHD:** cholécalciférol ou vitamine D3 (ou colécalciférol)  
 **HAS:** Haute autorité de santé  
 **IRC:** insuffisance rénale chronique  
 **SFP:** Société française de pédiatrie  
-**UI:** unités internationales
+**UI:** unités internationales  
+**vitamine D2:** ergocalciférol
 
 {{%/collapse%}}
 {{%collapse "Conversion d'unités de la vitamine D" %}}
 
 Convertir dans les 2 sens: nmol/L (unités internationales) et ng/mL.
 
-<div class="form-group">
+<div class="form-group mb-5">
   <label for="nmolInput">nmol/L</label>
   <input type="number" class="form-alternative" id="nmolInput" value="50" min="1" max="400" oninput="ngInput.value = Math.round(this.value * 0.4)">
   <label for="ngInput" class="ml-5">ng/mL</label>
   <input type="number" style="width:68px" class="form-alternative" id="ngInput" value="20" oninput="nmolInput.value = Math.round(this.value * 2.496)">
 </div>
 
+Vitamine D3 cholécalciférol: 1 µg = 40 UI
+
 {{%/collapse%}}
-{{%collapse "Facteurs de risque" %}}
+{{%collapse "Facteurs de risque de carence" %}}
 
 ### Personnes à risque de complications par carence en vitamine D
 
@@ -97,26 +108,33 @@ Convertir dans les 2 sens: nmol/L (unités internationales) et ng/mL.
 {{%/collapse%}}
 {{%collapse "Apports cibles en vitamine D selon l'âge" %}}
 
-La supplémentation en vitamine D3 peut être instaurée et suivie sans dosage de la vitamine D sauf chez les sujets à risque mentionnés plus haut (voir *Patients à risque*).  
-Éviter une supplémentation forte trop espacée (voir *Protocole d'administration* plus bas).
+La supplémentation en vitamine D peut être instaurée et suivie sans dosage de la vitamine D sauf chez les sujets à risque mentionnés plus haut (voir *Patients à risque*).
 
-{{< table title="Recommandations d'apports en vitamine D en 2022 selon le profil du patient" >}}
+S'assurer d'apports calciques suffisants:
+
+- {{< modal-btn modal-calcium-cible >}}Apports en calcium cibles selon l'âge{{< /modal-btn >}}
+- -18 ans: ≥ 3 portions de produits laitiers quotidiens  
+  - Eaux riches en calcium si apports légèrement insuffisants (Courmayeur, Hépar et Contrex)
+  - Sinon supplémentation en calcium 500-1000 mg/j (apports < 300 mg/j ou vegan)
+- Évaluer les apports calciques si fracture ou douleurs osseuses
+
+{{< table title="Apports en vitamine D recommandés en 2022 selon le profil du patient" >}}
 | Population                         | Apports (UI/j) ou cibles (25OHD) recommandés | Source           |
 |------------------------------------|----------------------------------------------|------------------|
 | 0 - 2 ans                          | 400-800 UI/j                                 | *Bacchetta 2022* |
 | 2 - 18 ans                         | Apports quotidiens voire 50.000 UI/trimestre<br>ou 80-100.000 UI novembre et février | *Bacchetta 2022* |
 | 2 - 18 ans à risque<br>Sujet noir, obèse, 0 exposition, vegan | 800-1600 UI/j voire 50.000 UI/6sem<br>ou 80-100.000 UI/trimestre | *Bacchetta 2022* |
-| Grossesse                          | 80-100.000 UI 7<sup>e</sup> mois de grossesse | |
+| Grossesse                          | 80-100.000 UI à 7 mois de grossesse          | *CNGOF 8e mois*  |
 | Mineur                             | 400-800 UI/j et &gt; 75 nmol/L               | *Bacchetta 2022* |
-| Adulte                             | &ge; 50 nmol/L | |
-| Adulte &ge; 65 ans                 | &ge; 75 nmol/L | |
-| Adulte à risque, dépendant, chutes | &ge; 75 nmol/L | |
-| Résident en EHPAD                  | &ge; 75 nmol/L et cible calcique 1200 mg/j | |
-| Ostéoporose, biphosphonates        | &ge; 75 nmol/L | |
+| Adulte                             | &ge; 50 nmol/L                               | *Annweiler 2018* |
+| Adulte &ge; 65 ans                 | &ge; 75 nmol/L                               | *Annweiler 2018* |
+| Adulte à risque, dépendant, chutes | &ge; 75 nmol/L                               | *Annweiler 2018* |
+| Résident en EHPAD                  | &ge; 75 nmol/L et cible calcique 1200 mg/j   | *Annweiler 2018* |
+| Ostéoporose, biphosphonates        | &ge; 75 nmol/L                               | *Annweiler 2018* |
 {{< /table >}}
 
-> Apports quotidiens préférés chez -18 ans: vitamine D2 ou D3 (ZymaD® buvable 300 UI/gte). Sinon vitamine D3 (*Bacchetta 2022*)  
-Pas d'autres supplémentations.
+> Apports quotidiens préférés chez -18 ans: vitamine D2 (Stérogyl® 400 UI/gte) ou D3 (ZymaD® 300 UI/gte ou Adrigyl® 333 UI/gte). Sinon vitamine D3 en ampoule (*Bacchetta 2022*)  
+Ne pas utiliser d'autres formes de supplémentations.
 
 {{% /collapse %}}
 {{%collapse "Quand doser la vitamine D ?" %}}
@@ -129,13 +147,15 @@ Pas d'autres supplémentations.
   Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>
 6. Traitement préconisant une mesure de la vitamine D (ex. biphosphonate)
 
-> *HAS 2013 et Conditions de prise en charge par l'Assurance Maladie*
+> *HAS 2013* et *Conditions de prise en charge par l'Assurance Maladie*
 
 et aussi
 
 - Hospitalisation pour exacerbation de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (*GOLD*)
 - Enfant en allaitement maternel sans supplémentation pendant des mois (*SFD*)
 - Enfants à peau pigmentée sans supplémentation avec arcature des membres inférieurs (*SFD*)
+- Prématuré < 32 SA ou < 1,5 kg (*Bacchetta 2022*)  
+  Cible de vitamine D 50-120 nmol/L
 - Bilan initial de [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) (*HAS 02/2012*)
 - Enfant avec supplémentation prolongée à des doses excessives (*Bacchetta 2022*)
 
@@ -144,7 +164,7 @@ En dosage de complaisance, préciser << Non remboursable >> sur la prescription 
 {{%class%}}92 millions d'euros de dosages de vitamine D en 2011{{%/class %}}
 
 {{% /collapse %}}
-{{%collapse "Protocoles d'administration de la vitamine D" %}}
+{{%collapse "Protocoles de correction d'une carence en vitamine D" %}}
 
 ### Protocole de correction de la carence en vitamine D
 
@@ -179,9 +199,9 @@ Posologie selon le nouveau résultat du dosage de vitamine D après 3 à 6 mois 
   - ou 50.000 UI/14j
   - pendant 3 à 6 mois
 - Dosage > 150 nmol/L (60 ng/mL)  
-Espacer l'entretien à 50.000 UI tous les 2 mois.
+  Espacer l'entretien à 50.000 UI tous les 2 mois.
 - Entre 75 et 150  
-Conserver le rythme d'entretien.
+  Conserver le rythme d'entretien.
 
 > Protocole d'entretien après carence en vitamine D selon *Souberbielle JC 2019*
 
@@ -193,29 +213,35 @@ Intensification si:
 - Obésité, régime carencé (vegan)
 
 {{% /collapse %}}
-{{%collapse "Spécialités de cholécalciférol disponibles" %}}
+{{%collapse "Spécialités de vitamine D disponibles" %}}
 
-### Spécialités de vitamine D par galénique
+### Spécialités de vitamine D3 par galénique
 
 <ul class="list-group mw-480">
-  {{< list-item title="Ampoule" subtitle="Cholécalciférol 200, 100, 80 ou 50.000 UI (Uvedose® ou autre)" >}}
+  {{< list-item title="Ampoule" subtitle="Cholécalciférol 200, 100, 80 ou 50.000 UI" >}}
   {{< list-item title="Capsule molle" subtitle="Kipos® 100.000 UI" >}}
   {{< list-item title="Gouttes" subtitle="Adrigyl® 333 UI/goutte, ZymaD® 300 UI/goutte" >}}
 </ul>
 
+### Spécialité de vitamine D2
+
+Stérogyl® 400 UI/gte
+
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour la supplémentation en vitamine D" "show" %}}
 
-{{< mermaid title="Cibles d'apports en vitamine D (schéma simplifié). Dr JB Fron d'après Bacchetta J 2022 et Souberbielle JC 2019" >}}
+{{< mermaid title="Cibles d'apports en vitamine D (schéma simplifié). Dr JB Fron d'après Bacchetta J 2022 et Annweiler C. 2018" >}}
 graph TB
   apports[Objectifs d'apports<br>en vitamine D]
   style apports stroke:#4150f5, stroke-width:1px
-    apports --> ns(<b>Nourrisson</b><br>2 à 4 gtte/j<br>jusqu'à 18 mois)
-    apports --> enfant(<b>18 mois à<br>18 ans</b><br>80-100.000 UI<br> 2x l'hiver)
-    apports --> adulte(<b>Adulte &gt; 50 ans</b><br>25OHD &gt; 50 nmol/L)
-      adulte --> 65(<b>&gt; 65 ans</b><br>25OHD &gt; 75 nmol/L)
-    apports --> risque(<b>Patient à risque</b><br>- Risque de chutes<br>- Corticoïdes, aromatases...<br>- Hyperparathyroïdie<br>- Malabsorption<br>- Insuffisance rénale) --> intensif("- Dosage initial<br>- 25OHD &gt; 75 nmol/L<br>- Correction rapide<br>- Apports calciques &gt; 1 g/j")
+    apports --> mineur(<b>-18 ans</b><br>400-800 UI/j<hr>À risque: Peau noire, obèse<br>aucune exposition, vegan<br> 800-1600 UI/j) -- "+2 ans et mauvaise observance" --> alternative(50.000 UI/trimestre<br>ou 80-100.000 UI x2 l'hiver<hr>À risque: 50.000 UI/6 semaines<br>ou 80-100.000 UI/trimestre)
+    apports --> adulte(<b>Adulte</b><br>25OHD &gt; 50 nmol/L)
+      adulte --> 65(<b>+65 ans</b><br>25OHD &gt; 75 nmol/L)
+    apports --> risque(<b>Patient à risque</b><br>- Risque de chutes<br>- Ostéoporose<br>- Corticoïdes, aromatases...<br>- Hyperparathyroïdie<br>- Malabsorption<br>- Insuffisance rénale) --> intensif("- Dosage initial<br>- 25OHD &gt; 75 nmol/L<br>- Correction rapide<br>- Apports calciques &gt; 1 g/j")
 {{< /mermaid >}}
+
+> Apports quotidiens préférés chez -18 ans: vitamine D2 (Stérogyl® 400 UI/gte) ou D3 (ZymaD® 300 UI/gte ou Adrigyl® 333 UI/gte). Sinon vitamine D3 en ampoule (*Bacchetta 2022*)  
+Ne pas utiliser d'autres formes de supplémentations.
 
 {{% /collapse %}}
 {{%sources%}}
