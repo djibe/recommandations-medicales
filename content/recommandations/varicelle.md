@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-22T12:09:36+01:00"
 publishdate = "2022-03-22"
-lastmod = "2022-03-25"
+lastmod = "2022-03-31"
 specialites = ["pediatrie"]
 annees = "2020"
 sources = []
@@ -29,7 +29,7 @@ TODO:
 Varicelle
 : Maladie infectieuse à VZV virus bénigne uniquement chez les enfants immunocompétents mais extrêmement contagieuse.
 : Formes graves chez les immunodéprimés, nouveaux-nés et risque d'embryo-fœtopathie avant 24 SA. Fréquemment compliquée chez les adultes.  
-Transmission respiratoire par gouttelettes. L'immunité naturelle est quasi définitive. Possible survenue de [zona]({{< relref "zona.md" >}}) après des années.
+Transmission respiratoire par gouttelettes. L'immunité naturelle est quasi définitive (5% de récidives). Possible survenue de [zona]({{< relref "zona.md" >}}) après des années.
 
 ### Complications de la varicelle
 
@@ -100,7 +100,7 @@ Vaccination recommandée sans antécédents de varicelle ou histoire douteuse
 
 #### Spécialités
 
-2 vaccins vivants atténués monovalents: Varilrix® (GSK), Varivax® (Sanofi):
+2 vaccins vivants atténués monovalents en 2 doses Varilrix® (GSK) ou Varivax® (Sanofi) dont l'efficacité dépasse 95% (100% pour les formes graves) et en partie contre le zona.
 
 - [Varilrix®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62521070&typedoc=R)  
   - 9-11 mois: 2 doses espacées ≥ 3 mois
@@ -110,16 +110,18 @@ Vaccination recommandée sans antécédents de varicelle ou histoire douteuse
   - 12 mois-12 ans: 2 doses espacées ≥ 1 mois
   - ≥ 13 ans: 2 doses espacées de 1-2 mois
 
-Administration **SC ou IM**. Elle peut être associée à une vaccination *ROR* ou sinon espacée d'1 mois.  
-Éviter la prise d'aspirine dans les 6 semaines suivant la vaccination.
+Administration **SC ou IM**. Elle peut être associée à une vaccination *ROR* ou sinon espacée d'un mois.  
+Contraception efficace le mois suivant et éviter la prise d'aspirine dans les 6 semaines suivant la vaccination.
 
-Contre-Indications: immunodéprimé, allergie au constituant, grossesse, fièvre > 38,5°C.  
+Possibles signes minimes de varicelle (< 10%) 10 jours après l'injection.
+
+**Contre-Indications:** grossesse, immunodéprimé, allergie au constituant, fièvre > 38,5°C.  
 Effets indésirables: fébricule et œdème au point d'injection, 5% ont exanthème papulo-vésiculeux
 
 {{% /collapse %}}
-{{%collapse "Traitement de la varicelle" %}}
+{{%collapse "Traitement de la varicelle du sujet immunocompétent" %}}
 
-Guérison de la varicelle en 10-12 jours.  
+Guérison de la varicelle en **10-12 jours**.  
 Période de contagiosité: J-2 à J+6 de l'apparition des vésicules ou par voie respiratoire dans la phase pré-éruptive.
 
 Recommandations pour la prise en charge de la varicelle:
@@ -144,22 +146,7 @@ Recommandations pour la prise en charge de la varicelle:
 
 **NB.** Aucun autre produit (talc, pommade, gel) ne doit être appliqué
 
-{{%info%}}Reporter les vaccinations ≥ 15 jours (*Infovac*){{%/info%}}
-
-### Traitement antiviral de la varicelle
-
-{{%info%}}
-
-#### Indications à l'hospitalisation d'une varicelle pour aciclovir IV
-
-- Immunodépression  
-  Hémopathie, VIH, chimiothérapie.
-- Varicelle du nouveau-né
-- Nouveau-né si mère a débuté éruption 5j avant et 2 jours suivant l'accouchement
-- Forme grave chez l'enfant < 1 an
-- Varicelle compliquée
-- Varicelle chez femme enceinte dont éruption débute 10 jours avant l'accouchement
-{{%/info%}}
+{{%info%}}Reporter les vaccinations du nourrisson d'au moins 15 jours (question à *Infovac*){{%/info%}}
 
 ### Traitement d'une surinfection cutanée: impétigo
 
@@ -176,32 +163,55 @@ Détersion des croûtes par vaseline x 2/j et couvrir par pansement.
 Éviction 3 jours si non couvrables.
 
 {{% /collapse %}}
-{{%collapse "Varicelle chez la femme enceinte" %}}
+{{%collapse "Varicelle chez l'immunodéprimé et la femme enceinte" %}}
+
+### Traitement antiviral de la varicelle
+
+{{%info%}}
+
+#### Indications à l'hospitalisation d'une varicelle pour aciclovir IV
+
+- Immunodépression  
+  Hémopathie, VIH, chimiothérapie.
+- Varicelle du nouveau-né
+- Nouveau-né si mère a débuté éruption 5j avant et 2 jours suivant l'accouchement
+- Forme grave chez l'enfant < 1 an
+- Varicelle compliquée
+- Varicelle chez femme enceinte dont éruption débute 10 jours avant l'accouchement
+{{%/info%}}
+
+### Traitement par immunoglobulines de la varicelle
+
+Après exposition avec un malade de la varicelle, dans les 96 heures (max 10 jours):
+
+### Varicelle pendant la grossesse
 
 - Risque d'embryo-fœtopathie avant 24 SA
-- Surveillance spécialisée en centre de diagnostic anténatal
+- Surveillance spécialisée en centre de Diagnostic anténatal
 - Survenue proche du terme:
   - Hospitalisation
-  - Immunoglobulines varicelle-zona
+  - Immunoglobulines varicelle-zona (Varitect CP®)
   - Aciclovir IV
   - ± Retarder l'accouchement
 
 ### Conduite à tenir chez une femme enceinte exposée à la varicelle
 
-Sérologie VZV:
+Si statut sérologique non connu ou séronégative: Sérologie VZV en urgence et selon le résultat de la sérologie:
 
 - Positive: pas de risque d'embryo-fœtopathie
-- Négative: Adresser en urgence au centre spécialisé de diagnostic anténatal pour immunoglobulines anti-VZV
+- Négative: Adresser en urgence au service de Diagnostic anténatal pour immunoglobulines anti-VZV (Varitect CP® disponible en AAC) et aciclovir intra-veineux
 
 {{% /collapse %}}
 {{%sources%}}
 
-- [Pinquier D. et al. Vaccin contre la varicelle. Infovac.](https://www.infovac.fr/docman-marc/public/fiches/1471-fiche-varicelle/file)
+- [Pinquier D. et al. Vaccin contre la varicelle. Infovac. Avril 2019.](https://www.infovac.fr/docman-marc/public/fiches/1471-fiche-varicelle/file)
 - [HCSP. Avis relatif aux recommandations de vaccination contre la varicelle. Juillet 2007.](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcsp045a20070705_Varicelle.pdf)
 - [SPILF. Pris en charge des infections à VZV. Méd Mal Infect. 1998.](https://www.infectiologie.com/UserFiles/File/medias/_documents/consensus/vzv98.pdf)
 - [Santé Publique France. Varicelle.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-prevention-vaccinale/varicelle)
 - [Ameli. Varicelle](https://www.ameli.fr/assure/sante/themes/varicelle)
 
-{{%/sources%}}
+### À lire
 
-≤≥±®œŒÈ³ÂSpO<sub>2</sub>
+[Floret D; SFP. Conduite à tenir devant un contage varicelleux chez une femme enceinte ou un nouveau-né. PAP Pédiatrie. 13/05/2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/conduite-tenir-devant-un-contage-varicelleux-chez-une-femme-enceinte-ou-un)
+
+{{%/sources%}}

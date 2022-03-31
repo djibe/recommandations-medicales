@@ -1,7 +1,7 @@
 +++
 title = "Vitamine D et supplémentation"
 prefix = "la "
-titleSeo = "Vitamine D et supplémentation"
+titleSeo = "supplémentation Vitamine D"
 description = "Recommandations sur les apports et la supplémentation en vitamine D. Aliments riches, 1000 UI par jour, indications au dosage et cible selon l'âge, nourrisson"
 synonyms = ["Cholécalciferol vitamine D3", "ergocalciférol vitamine D2"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -17,7 +17,7 @@ image = true
 imageSrc = "Illustration de la vitamine D par pch.vector / Freepik"
 sctid = "30178006"
 flowchart = true
-todo = "relecture protocole correction"
+todo = "calcium enfant dans screenshots, relecture protocole correction"
 +++
 
 {{%article-summary%}}
@@ -125,7 +125,7 @@ S'assurer d'apports calciques suffisants:
 | 2 - 18 ans                         | Apports quotidiens voire 50.000 UI/trimestre<br>ou 80-100.000 UI novembre et février | *Bacchetta 2022* |
 | 2 - 18 ans à risque<br>Sujet noir, obèse, 0 exposition, vegan | 800-1600 UI/j voire 50.000 UI/6sem<br>ou 80-100.000 UI/trimestre | *Bacchetta 2022* |
 | Grossesse                          | 80-100.000 UI à 7 mois de grossesse          | *CNGOF 8e mois*  |
-| Mineur                             | 400-800 UI/j et &gt; 75 nmol/L               | *Bacchetta 2022* |
+| Mineur                             | &gt; 75 nmol/L                               | *Bacchetta 2022* |
 | Adulte                             | &ge; 50 nmol/L                               | *Annweiler 2018* |
 | Adulte &ge; 65 ans                 | &ge; 75 nmol/L                               | *Annweiler 2018* |
 | Adulte à risque, dépendant, chutes | &ge; 75 nmol/L                               | *Annweiler 2018* |
@@ -230,14 +230,15 @@ Stérogyl® 400 UI/gte
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour la supplémentation en vitamine D" "show" %}}
 
-{{< mermaid title="Cibles d'apports en vitamine D (schéma simplifié). Dr JB Fron d'après Bacchetta J 2022 et Annweiler C. 2018" >}}
+{{< mermaid title="Cibles d'apports en vitamine D (schéma simplifié). Dr JB Fron d'après Bacchetta J 2022 et Annweiler C 2018" >}}
 graph TB
   apports[Objectifs d'apports<br>en vitamine D]
   style apports stroke:#4150f5, stroke-width:1px
-    apports --> mineur(<b>-18 ans</b><br>400-800 UI/j<hr>À risque: Peau noire, obèse<br>aucune exposition, vegan<br> 800-1600 UI/j) -- "+2 ans et mauvaise observance" --> alternative(50.000 UI/trimestre<br>ou 80-100.000 UI x2 l'hiver<hr>À risque: 50.000 UI/6 semaines<br>ou 80-100.000 UI/trimestre)
-    apports --> adulte(<b>Adulte</b><br>25OHD &gt; 50 nmol/L)
-      adulte --> 65(<b>+65 ans</b><br>25OHD &gt; 75 nmol/L)
-    apports --> risque(<b>Patient à risque</b><br>- Risque de chutes<br>- Ostéoporose<br>- Corticoïdes, aromatases...<br>- Hyperparathyroïdie<br>- Malabsorption<br>- Insuffisance rénale) --> intensif("- Dosage initial<br>- 25OHD &gt; 75 nmol/L<br>- Correction rapide<br>- Apports calciques &gt; 1 g/j")
+    apports --> nourrisson(<b>0 - 2 ans</b><hr>400-800 UI/j<br>soit ZymaD 2 gtes/j)
+    apports --> mineur("<b>2 - 18 ans</b><hr>400-800 UI/j<hr><b>À risque</b> (peau noire, obèse<br>aucune exposition, vegan):<br>800-1600 UI/j") -- Observance insuffisante --> alternative(50.000 UI/trimestre<br>ou 80-100.000 UI x2 l'hiver<hr><b>À risque:</b> 50.000 UI/6 semaines<br>ou 80-100.000 UI/trimestre)
+    apports --> adulte(<b>Adulte</b><hr>25OHD &gt; 50 nmol/L)
+      adulte --> 65(<b>+65 ans</b><hr>25OHD &gt; 75 nmol/L)
+    apports --> risque(<b>Patient à risque</b><hr>- Risque de chutes<br>- Ostéoporose<br>- Corticoïdes, aromatases...<br>- Hyperparathyroïdie<br>- Malabsorption<br>- Insuffisance rénale) --> intensif("- Dosage initial<br>- 25OHD &gt; 75 nmol/L<br>- Correction rapide<br>- Apports calciques &gt; 1 g/j")
 {{< /mermaid >}}
 
 > Apports quotidiens préférés chez -18 ans: vitamine D2 (Stérogyl® 400 UI/gte) ou D3 (ZymaD® 300 UI/gte ou Adrigyl® 333 UI/gte). Sinon vitamine D3 en ampoule (*Bacchetta 2022*)  
@@ -246,11 +247,11 @@ Ne pas utiliser d'autres formes de supplémentations.
 {{% /collapse %}}
 {{%sources%}}
 
-- [Bacchetta J. et al; SFP, SFneonatalogie, AFPA et al. Vitamin D and calcium intakes in general pediatric populations: A French expert consensus paper. Archives de pédiatrie. 2022.](https://afpa.org/content/uploads/2022/03/Vitamin-D-and-calcium-intakes-in-general-pediatric-populations-A-French-expert-consensus-paper-20-02-2022.pdf)
+- [Bacchetta J. et al; SFP, SFneonatalogie, AFPA et al. Vitamin D and calcium intakes in general pediatric populations: A French expert consensus paper. Archives de pédiatrie. 2022. (PDF)](https://afpa.org/content/uploads/2022/03/Vitamin-D-and-calcium-intakes-in-general-pediatric-populations-A-French-expert-consensus-paper-20-02-2022.pdf)
 - [Anses. Vitamine D : pourquoi et comment assurer un apport suffisant ? Septembre 2021.](https://www.anses.fr/fr/content/vitamine-d-pourquoi-et-comment-assurer-un-apport-suffisant)
 - [Omedit Centre Val de Loire. Protocole de supplémentation en vitamine D en EHPAD. Décembre 2020. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/10827.pdf)
 - [Ameli. Dosage de la vitamine D. Décembre 2020.](https://www.ameli.fr/paris/laboratoire-danalyses-medicales/exercice-liberal/memos/dosage-vitamine)
-- [Souberbielle JC. et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d'ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 2019. (PDF)](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
+- [Souberbielle JC et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d'ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 2019. (PDF)](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
 - [Esteban 2014-2016 – Chapitre dosages biologiques des vitamines et minéraux : pas de déficit important ou de carence à grande échelle](https://www.santepubliquefrance.fr/les-actualites/2019/esteban-2014-2016-chapitre-dosages-biologiques-des-vitamines-et-mineraux-pas-de-deficit-important-ou-de-carence-a-grande-echelle)
 - [Annweiler C. et al. Vitamine D chez l'adulte : mise au point sur le dosage et la supplémentation. Gériatrie et psychologie Neuropsychiatrie du Vieillissement. 2018.](https://www.jle.com/fr/revues/gpn/e-docs/vitamine_d_chez_ladulte_mise_au_point_sur_le_dosage_et_la_supplementation_311580/article.phtml)
 - [Briot K. et al. Actualisation 2018 des recommandations françaises du traitement de l'ostéoporose post-ménopausique. Revue du Rhumatisme. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S1169833018300504)
