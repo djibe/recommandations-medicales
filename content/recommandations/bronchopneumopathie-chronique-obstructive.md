@@ -73,23 +73,57 @@ Insuffisance respiratoire chronique
 
 ### Abréviations
 
-**BALA:** bêta2-agoniste de longue durée d'action ({{%lang%}}Long Acting ß2 Agent{{%/lang%}})  
-**BD:** bronchodilatateur  
-**BDCA:** bronchodilatateur de courte durée d'action (ß2 ou anticholinergique, *SABD* en anglais)  
-**BDLA:** bronchodilatateur de longue durée d'action  
-**BPCO:** bronchopneumopathie chronique obstructive  
-**CAT™:** {{%lang%}}COPD Assessment Test{{%/lang%}}
-**CSI:** corticostéroïde inhalé  
-**CVF:** capacité vitale forcée  
-**DEP:** débit expiratoire de pointe  
-**EABPCO:** exacerbation de BPCO  
-**EFR:** épreuves fonctionnelles respiratoires  
-**EI:** effet indésirable  
-**FC:** fréquence cardiaque  
-**GOLD:** {{%lang%}}Global Initiative for Chronic Obstructive Lung Disease{{%/lang%}}  
-**LAMA:** anticholinergique de longue durée d'action ({{%lang%}}Long Acting Muscarinic Agent{{%/lang%}})  
-**RR:** réhabilitation respiratoire (ou *réadaptation respiratoire*)  
-**VEMS:** volume expiré maximal à la première seconde ({{%lang%}}FEV1{{%/lang%}} en anglais)
+BALA
+: bêta2-agoniste de longue durée d'action ({{%lang%}}Long Acting ß2 Agent{{%/lang%}})
+
+BD
+: bronchodilatateur
+
+BDCA
+: bronchodilatateur de courte durée d'action (ß2 ou anticholinergique, *SABD* en anglais)
+
+BDLA
+: bronchodilatateur de longue durée d'action
+
+BPCO
+: bronchopneumopathie chronique obstructive
+
+CAT™
+{{%lang%}}COPD Assessment Test{{%/lang%}}
+
+CSI
+: corticostéroïde inhalé (ou corticoïde inhalé)
+
+CVF
+: capacité vitale forcée
+
+DEP
+: débit expiratoire de pointe
+
+EABPCO
+: exacerbation de BPCO
+
+EFR
+: épreuves fonctionnelles respiratoires
+
+EI
+: effet indésirable
+
+FC
+: fréquence cardiaque
+
+GOLD
+: {{%lang%}}Global Initiative for Chronic Obstructive Lung Disease{{%/lang%}}
+
+LAMA
+: anticholinergique de longue durée d'action ({{%lang%}}Long Acting Muscarinic Agent{{%/lang%}})
+
+RR
+: réhabilitation respiratoire (ou *réadaptation respiratoire*)
+
+VEMS
+: volume expiré maximal à la première seconde ({{%lang%}}FEV1{{%/lang%}} en anglais)
+{.dl-inline}
 
 ### Épidémiologie de la BPCO
 

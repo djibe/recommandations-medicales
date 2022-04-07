@@ -62,9 +62,15 @@ Spanioménorrhée
 
 ### Abréviations
 
-**ESHRE:** {{%lang%}}European Society of Human Reproduction and Embryology{{%/lang%}}  
-**IOP:** insuffisance ovarienne prématurée  
-**THS:** traitement hormonal substitutif
+ESHRE
+: {{%lang%}}European Society of Human Reproduction and Embryology{{%/lang%}}
+
+IOP
+: insuffisance ovarienne prématurée (ex ménopause précoce)
+
+THS
+: traitement hormonal substitutif
+{.dl-inline}
 
 ### Étiologie
 

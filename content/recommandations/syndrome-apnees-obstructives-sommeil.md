@@ -98,18 +98,42 @@ Hypersomnie
 
 ### Abréviations en médecine du sommeil
 
-**AASM:** {{%lang%}}American Academy of Sleep Medicine{{%/lang%}}  
-**IA:** index d'apnée par heure de sommeil  
-**PV:** polygraphie ventilatoire (ou *PGR* pour la HAS)  
-**SJSR:** syndrome des jambes sans repos ({{%lang%}}PLMD, Periodic limb movement disorder{{%/lang%}}  
-**MPJS:** mouvements périodiques des jambes pendant le sommeil ({{%lang%}}PLMS, Periodic limb movement during sleep{{%/lang%}})  
-**REM:** {{%lang%}}Rapid eye movement{{%/lang%}} ou phase de sommeil paradoxal  
-**SAOS:** syndrome d'apnées obstructives du sommeil (ex-SAHOS)  
-**SFRMS:** Société Française de Recherche en Médecine du Sommeil  
-**SHRVAS:** Syndrome de haute résistance des voies aériennes supérieures  
-**TILE:** test itératif de latence à l'endormissement  
-**TRS:**  troubles respiratoires du sommeil  
-**VEMS:** volume expiratoire maximal pendant la 1<sup>re</sup> seconde
+AASM
+: {{%lang%}}American Academy of Sleep Medicine{{%/lang%}}
+
+IA
+: index d'apnée (par heure de sommeil)
+
+PV
+: polygraphie ventilatoire (ou *PGR* pour la HAS)
+
+SJSR
+: syndrome des jambes sans repos ({{%lang%}}PLMD, Periodic limb movement disorder{{%/lang%}}
+
+MPJS
+: mouvements périodiques des jambes pendant le sommeil ({{%lang%}}PLMS, Periodic limb movement during sleep{{%/lang%}})
+
+REM
+: {{%lang%}}Rapid eye movement{{%/lang%}} ou phase de sommeil paradoxal
+
+SAOS
+: syndrome d'apnées obstructives du sommeil (ex-SAHOS)
+
+SFRMS
+: Société Française de Recherche en Médecine du Sommeil
+
+SHRVAS
+: Syndrome de haute résistance des voies aériennes supérieures
+
+TILE
+: test itératif de latence à l'endormissement. Test de mesure objective de la somnolence.
+
+TRS
+: troubles respiratoires du sommeil
+
+VEMS
+: volume expiratoire maximal pendant la 1<sup>re</sup> seconde
+{.dl-inline}
 
 ### Épidémiologie
 

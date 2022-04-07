@@ -39,8 +39,12 @@ L'hépatite A est l'hépatite la plus fréquente au monde et peut être bénigne
 
 ### Abréviations
 
-**HSH:** Homme ayant des relations sexuelles avec des hommes  
-**VHA:** Virus de l'hépatite A
+HSH
+: homme ayant des relations sexuelles avec des hommes
+
+VHA
+: virus de l'hépatite A
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Personnes à vacciner" %}}

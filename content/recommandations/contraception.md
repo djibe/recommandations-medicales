@@ -39,16 +39,36 @@ Le défaut d'observance est l'une des causes principales des grossesses non plan
 
 ### Abréviations
 
-**COC:** contraception orale combinée (ou œstroprogestative. COP utilisée par le CNGOF)  
-**COP:** contraception œstroprogestative  
-**DMPA:** produits contraceptifs injectables à base d'acétate de médroxyprogestérone dépôt  
-**EE:** éthinyl-estradiol  
-**EP:** [embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})  
-**FRCV:** facteur de risque cardiovasculaire  
-**GEU:** grossesse extra-utérine  
-**LNG:** lévonorgestrel  
-**MVTE:** [maladie veineuse thromboembolique](tags/mvte/)  
-**TVP:** [thrombose veineuse profonde]({{< relref "thrombose-veineuse-profonde.md" >}})
+COC
+: contraception orale combinée (ou œstroprogestative. COP utilisée par le CNGOF)
+
+COP
+: contraception œstroprogestative (abréviation utilisée par le CNGOF)
+
+DMPA
+: produits contraceptifs injectables à base d'acétate de médroxyprogestérone dépôt
+
+EE
+: éthinyl-estradiol
+
+EP
+: [embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
+
+FRCV
+: facteur de risque cardiovasculaire
+
+GEU
+: grossesse extra-utérine
+
+LNG
+: lévonorgestrel
+
+MVTE
+: [maladie veineuse thromboembolique](tags/mvte/)
+
+TVP
+: [thrombose veineuse profonde]({{< relref "thrombose-veineuse-profonde.md" >}})
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Contre-indications aux œstroprogestatifs et progestatifs" %}}

@@ -52,8 +52,12 @@ Ce sont les principales personnes qui développent des formes compliquée.
 
 ### Abréviations
 
-**PFP:** paralysie faciale périphérique  
-**VZV:** virus varicelle-zona
+PFP
+: paralysie faciale périphérique
+
+VZV
+: virus varicelle-zona
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Complications" %}}

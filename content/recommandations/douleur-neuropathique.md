@@ -43,14 +43,30 @@ Hyperalgésie
 
 ### Abréviations
 
-**AE:** antiépileptique  
-**DN:** douleur neuropathique  
-**ENMG:** électroneuromyogramme  
-**IASP:** {{%lang%}}Neuropathic Pain Special Interest Group{{%/lang%}}  
-**IRSNA:** inhibiteurs de la recapture de la sérotonine et de la noradrénaline  
-**SDC:** structures spécialisées douleur chronique, communément centres experts de la douleur  
-**SFETD:** Société Française d'Étude et de Traitement de la Douleur  
-**TENS:** {{%lang%}}transcutaneous electrical nerve stimulation{{%/lang%}}, stimulation électrique transcutanée
+AE
+: antiépileptique  
+
+DN
+: douleur neuropathique
+
+ENMG
+: électroneuromyogramme
+
+IASP
+: {{%lang%}}Neuropathic Pain Special Interest Group{{%/lang%}}
+
+IRSNA
+: inhibiteurs de la recapture de la sérotonine et de la noradrénaline
+
+SDC
+: structures spécialisées douleur chronique, communément centres experts de la douleur
+
+SFETD
+: Société Française d'Étude et de Traitement de la Douleur
+
+TENS
+: {{%lang%}}transcutaneous electrical nerve stimulation{{%/lang%}}, stimulation électrique transcutanée
+{.dl-inline}
 
 {{%/collapse%}}
 {{%collapse "Clinique" %}}

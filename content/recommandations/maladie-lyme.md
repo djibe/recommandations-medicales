@@ -46,9 +46,15 @@ Elle doit être réalisée en suspicion de *phase disséminée*.
 
 ### Abréviations
 
-**CCMVT:** centre de compétences pour les maladies vectorielles à tiques  
-**EM:** érythème migrant  
-**LCS:** liquide cérébrospinal
+CCMVT
+: centre de compétences pour les maladies vectorielles à tiques
+
+EM
+: érythème migrant
+
+LCS
+: liquide cérébrospinal
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Prévention de la maladie" %}}

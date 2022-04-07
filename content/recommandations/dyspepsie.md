@@ -50,11 +50,21 @@ et des contrôles réflexes des fonctions digestives, inflammation, infections g
 
 ### Abréviations
 
-**EOGD:** endoscopie œso-gastro-duodénale (ou gastroscopie)  
-**IPP:** inhibiteurs de la pompe à protons  
-**RGO:** reflux gastro-œsophagien  
-**RHD:** régime hygiéno-diététique (ou mesures hygiéno-diététiques)  
-**TCA:** trouble du comportement alimentaire
+EOGD
+: endoscopie œso-gastro-duodénale (ou gastroscopie)
+
+IPP
+: inhibiteurs de la pompe à protons
+
+RGO
+: reflux gastro-œsophagien
+
+RHD
+: régime hygiéno-diététique (ou mesures hygiéno-diététiques)
+
+TCA
+: trouble du comportement alimentaire
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Signes d'alarme" %}}

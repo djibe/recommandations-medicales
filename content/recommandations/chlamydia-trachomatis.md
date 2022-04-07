@@ -42,13 +42,27 @@ Elle atteint 3% des 18-29 ans avec co-infection *gonocoque* de 2-24%. +30% entre
 
 ### Abréviations
 
-**Ct:** *Chlamydia trachomatis*  
-**DIU:** dispositif intra-utérin (ou stérilet)  
-**GEU:**  grossesse extra-utérine  
-**HSH:** homme ayant des rapports sexuels avec des hommes  
-**IST:** infection sexuellement transmissible  
-**PVVIH:** personne vivant avec le VIH  
-**VIH:** virus de l'immunodéficience humaine
+Ct
+: *Chlamydia trachomatis*
+
+DIU
+: dispositif intra-utérin (ou stérilet)
+
+GEU
+: grossesse extra-utérine
+
+HSH
+: homme ayant des rapports sexuels avec des hommes
+
+IST
+: infection sexuellement transmissible
+
+PVVIH
+: personne vivant avec le VIH
+
+VIH
+: virus de l'immunodéficience humaine
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Dépistage des Chlamydia" %}}

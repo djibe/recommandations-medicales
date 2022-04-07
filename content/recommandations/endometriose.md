@@ -78,13 +78,27 @@ Les AINS ne sont donc utilisés qu'en péri-menstruel.
 
 ### Abréviations
 
-**AMP:** assistance médicale à la procréation  
-**CNGOF:** Collège national des gynécologues et obstétriciens français  
-**COP:** contraception œstroprogestative  
-**DIU:** dispositif intra-utérin (ou stérilet)  
-**EHP-5:** échelle de qualité de vie {{%lang%}}Endometriosis Health Profile-5{{%/lang%}}  
-**LNG:** lévonorgestrel  
-**TV:** toucher vaginal
+AMP
+: assistance médicale à la procréation
+
+CNGOF
+: Collège national des gynécologues et obstétriciens français
+
+COP
+: contraception œstroprogestative (ou COC, contraception orale combinée)
+
+DIU
+: dispositif intra-utérin (ou stérilet)
+
+EHP-5
+: échelle de qualité de vie {{%lang%}}Endometriosis Health Profile-5{{%/lang%}}
+
+LNG
+: lévonorgestrel
+
+TV
+: toucher vaginal
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

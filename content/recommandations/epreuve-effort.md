@@ -38,10 +38,18 @@ Angor peu probable
 
 ### Abréviations
 
-**EE:** épreuve d'effort  
-**EEVO<sub>2</sub>:** épreuve d'effort cardiorespiratoire  
-**HTAP:** hypertension artérielle pulmonaire  
-**RCV:** {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}}
+EE
+: épreuve d'effort
+
+EEVO<sub>2</sub>
+: épreuve d'effort cardiorespiratoire
+
+HTAP
+: hypertension artérielle pulmonaire
+
+RCV
+: {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}}
+{.dl-inline}
 
 {{%/collapse%}}
 {{%collapse "Indications par pathologie ou symptômes" "show" %}}

@@ -43,8 +43,12 @@ Chez les ouvriers, 75% seraient provoqués par leur métier. Pourtant la sous-d�
 
 ### Abréviations
 
-**NCB:** névralgie cervico-brachiale  
-**SCC:** syndrome du canal carpien
+NCB
+: névralgie cervico-brachiale
+
+SCC
+: syndrome du canal carpien
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Étiologie" %}}

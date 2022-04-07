@@ -26,7 +26,7 @@ todo = "Ostéodensitométrie avant 35 ans ???, dermatite herpétiforme Souvent r
 
 - La maladie cœliaque est fréquente et possible à tout âge
 - Dépistage par sérologie IgA anti-transglutaminase + IgA totales  
-ou EOGD d'emblée selon la probabilité clinique sans régime
+  ou EOGD d'emblée selon la probabilité clinique sans régime
 - Éviction du gluten à vie après confirmation du diagnostic par les biopsies et le gastro-entérologue
 - Disparition des symptômes après 6 à 12 mois d'éviction du gluten
 - Dépistage de l'entourage au 1<sup>er</sup> degré
@@ -39,10 +39,14 @@ Maladie cœliaque (**MC**)
 Elle peut survenir à tout âge, prédomine chez la femme et la majorité des patients n'est pas diagnostiquée.  
 À l'origine d'une **malabsorption** et ses complications (carence, dénutrition, fracture).
 
-### Abréviation
+### Abréviations
 
-**EOGD:** endoscopie œso-gastro-duodénale (ou gastroscopie)  
-**IgA anti-transglutaminase:** anticorps anti-transglutaminase tissulaire (ou t-TG-IgA)
+EOGD
+: endoscopie œso-gastro-duodénale (ou gastroscopie)
+
+IgA anti-transglutaminase
+: anticorps anti-transglutaminase tissulaire (ou t-TG-IgA)
+{.dl-inline}
 
 ### Complications de la maladie cœliaque
 
@@ -57,7 +61,7 @@ Elle peut survenir à tout âge, prédomine chez la femme et la majorité des pa
 - **Prévalence:** 1% dans le monde en l'absence d'antécédents familiaux.
 - 700.000 malades cœliaques en France. Seulement **10 à 20%** seraient diagnostiqués.
 - 70% des patients diagnostiqués après 20 ans.  
-La maladie survient le plus souvent de 6 mois à 2 ans puis de 20 à 40 ans.
+  La maladie survient le plus souvent de 6 mois à 2 ans puis de 20 à 40 ans.
 - 2 à 3 fois plus fréquente chez la femme.
 
 {{%/collapse%}}

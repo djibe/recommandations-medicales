@@ -59,12 +59,24 @@ Lupus, Gougerot-Sjögren.
 
 ### Abréviations
 
-**dTP:** vaccin diphtérie-tétanos-poliomyélite  
-**IPD:** articulation interphalangienne distale  
-**PR:** polyarthrite rhumatoïde  
-**MCP:** articulation métacarpophalangienne  
-**MTP:** articulation métatarsophalangienne  
-**TSA:** troncs supra-aortiques
+dTP
+: vaccin diphtérie-tétanos-poliomyélite
+
+IPD
+: articulation interphalangienne distale
+
+PR
+: polyarthrite rhumatoïde
+
+MCP
+: articulation métacarpophalangienne
+
+MTP
+: articulation métatarsophalangienne
+
+TSA
+: troncs supra-aortiques
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

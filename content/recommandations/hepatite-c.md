@@ -44,11 +44,21 @@ Des médicaments antiviraux permettent une guérison totale dans la grande major
 
 ### Abréviations
 
-**AAD:** antiviraux à action directe  
-**AFEF:** Association française pour l'étude du foie  
-**HSH:** homme ayant des relations sexuelles avec des hommes  
-**TROD:** test rapide d'orientation diagnostique  
-**VHC:** virus de l'hépatite C
+AAD
+: antiviral à action directe
+
+AFEF
+: Association française pour l'étude du foie
+
+HSH
+: homme ayant des relations sexuelles avec des hommes
+
+TROD
+: test rapide d'orientation diagnostique
+
+VHC
+: virus de l'hépatite C
+{.dl-inline}
 
 ### Épidémiologie
 

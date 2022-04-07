@@ -40,7 +40,9 @@ Ne pas méconnaître les 10% de formes secondaires à une maladie de système.
 
 ### Abréviations
 
-**PR:** phénomène de Raynaud
+PR
+: phénomène de Raynaud
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Signes d'alerte" %}}

@@ -42,13 +42,27 @@ Le traumatisme crânien est la première cause de mortalité chez les enfants de
 
 ### Abréviations
 
-**AVP:** accident de la voie publique  
-**GCS:** {{%lang%}}Glasgow Coma Scale{{%/lang%}}  
-**LIC:** lésions intracrâniennes  
-**LICcs:** lésions intracrâniennes cliniquement sévères  
-**PEC:** prise en charge  
-**TC:** traumatisme crânien  
-**TCL:** traumatisme crânien léger
+AVP
+: accident de la voie publique
+
+GCS
+: score de Glasgow ({{%lang%}}Glasgow Coma Scale{{%/lang%}})
+
+LIC
+: lésions intracrâniennes
+
+LICcs
+: lésions intracrâniennes cliniquement sévères
+
+PEC
+: prise en charge
+
+TC
+: traumatisme crânien
+
+TCL
+: traumatisme crânien léger
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Score de Glasgow chez l'enfant" %}}

@@ -72,17 +72,39 @@ FRAX®
 
 ### Abréviations
 
-**BP:** biphosphonate (ou bisphosphonate)  
-**DMO:** densité minérale osseuse  
-**DS:** déviation standard  
-**DXA:** ostéodensitométrie par absorptiométrie biphotonique à rayons X  
-**ESF:** extrémité supérieure du fémur (dont col du fémur ou trochanter)  
-**FESF:** fracture de l'extrémité supérieure du fémur  
-**FRAX®:** {{%lang%}}Fracture Risk Assessment Tool{{%/lang%}} (*OMS*)  
-**GRIO:** Groupe de Recherche et d'Information sur les Ostéoporoses  
-**HAS:** Haute Autorité de Santé  
-**IOF:** {{%lang%}}International Osteoporosis Foundation{{%/lang%}}  
-**THM:** traitement hormonal de la ménopause
+BP
+: biphosphonate (ou bisphosphonate)
+
+DMO
+: densité minérale osseuse
+
+DS
+: déviation standard
+
+DXA
+: ostéodensitométrie par absorptiométrie biphotonique à rayons X
+
+ESF
+: extrémité supérieure du fémur (dont col du fémur ou trochanter)
+
+FESF
+: fracture de l'extrémité supérieure du fémur
+
+FRAX®
+: {{%lang%}}Fracture Risk Assessment Tool{{%/lang%}} (*OMS*)
+
+GRIO
+: Groupe de Recherche et d'Information sur les Ostéoporoses
+
+HAS
+: Haute Autorité de Santé
+
+IOF
+: {{%lang%}}International Osteoporosis Foundation{{%/lang%}}
+
+THM
+: traitement hormonal de la ménopause
+{.dl-inline}
 
 ### Épidémiologie
 

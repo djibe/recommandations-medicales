@@ -64,21 +64,51 @@ Bannir le terme de << bronchite asthmatiforme >>: il s'agit d'une maladie chroni
 
 ### Abréviations
 
-**ACT:** {{%lang%}}Asthma Control Test™{{%/lang%}}  
-**BACA:** bêta<sub>2</sub>-agoniste de courte durée d'action  
-**BALA:** bêta<sub>2</sub>-agoniste de longue durée d'action  
-**CSI:** corticostéroïdes inhalé  
-**CSO:** corticostéroïdes oraux  
-**DEP:** débit expiratoire de pointe  
-**EFR:** exploration fonctionnelle respiratoire  
-**EI:** effets indésirables  
-**ERS:** {{%lang%}}European Respiratory Society{{%/lang%}}  
-**FeNO:** fraction de monoxyde d'azote mesurée dans un débit de gaz expiré  
-**GINA:** {{%lang%}}Global Initiative for Asthma{{%/lang%}}  
-**ITSL:** immunothérapie par voie sublinguale  
-**SC:** sous-cutané  
-**TVO:** trouble ventilatoire obstructif  
-**VEMS:** volume expiratoire maximal en une seconde
+ACT
+: {{%lang%}}Asthma Control Test™{{%/lang%}}
+
+BACA
+: bêta<sub>2</sub>-agoniste de courte durée d'action
+
+BALA
+: bêta<sub>2</sub>-agoniste de longue durée d'action
+
+CSI
+: corticostéroïde inhalé (ou corticoïde inhalé)
+
+CSO
+: corticostéroïde oral (ou corticoïde oral)
+
+DEP
+: débit expiratoire de pointe
+
+EFR
+: exploration fonctionnelle respiratoire
+
+EI
+: effet indésirable
+
+ERS
+: {{%lang%}}European Respiratory Society{{%/lang%}}
+
+FeNO
+: fraction de monoxyde d'azote mesurée dans un débit de gaz expiré
+
+GINA
+: {{%lang%}}Global Initiative for Asthma{{%/lang%}}
+
+ITSL
+: immunothérapie par voie sublinguale
+
+SC
+: sous-cutané
+
+TVO
+: trouble ventilatoire obstructif
+
+VEMS
+: volume expiratoire maximal en une seconde
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Signes de gravité" %}}

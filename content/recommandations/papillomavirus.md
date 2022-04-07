@@ -46,7 +46,9 @@ La vaccination prévient 90% des infections causant ces cancers.
 
 ### Abréviations
 
-**HSH:** homme ayant des rapports sexuels avec des hommes
+HSH
+: homme ayant des rapports sexuels avec des hommes
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Complications" %}}

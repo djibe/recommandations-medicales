@@ -53,13 +53,27 @@ Insuffisance rénale chronique terminale (IRCT)
 
 ### Abréviations
 
-**CKD-EPI:** {{%lang%}}Chronic Kidney Disease EPIdemiology collaboration (*Levey 2009*){{%/lang%}}, formule d'estimation simplifiée la plus précise pour le calcul du débit de filtration glomérulaire estimé (DFGe)  
-**DFGe:** débit de filtration glomérulaire estimé (remplace le calcul de la clairance de la créatinine Cockroft)  
-**HTA:** hypertension artérielle  
-**IRC:** insuffisance rénale chronique  
-**IRCT:** insuffisance rénale chronique terminale  
-**KFRE:** score {{%lang%}}Kidney Failure Risk Equation{{%/lang%}}  
-**MRC:** maladie rénale chronique
+CKD-EPI
+: {{%lang%}}Chronic Kidney Disease EPIdemiology collaboration (*Levey 2009*){{%/lang%}}. Formule d'estimation simplifiée la plus précise pour le calcul du débit de filtration glomérulaire estimé (DFGe)
+
+DFGe
+: débit de filtration glomérulaire estimé (remplace le calcul de la clairance de la créatinine Cockroft)
+
+HTA
+: hypertension artérielle
+
+IRC
+: insuffisance rénale chronique
+
+IRCT
+: insuffisance rénale chronique terminale
+
+KFRE
+: score {{%lang%}}Kidney Failure Risk Equation{{%/lang%}}
+
+MRC
+: maladie rénale chronique
+{.dl-inline}
 
 ### Épidémiologie de l'insuffisance rénale
 

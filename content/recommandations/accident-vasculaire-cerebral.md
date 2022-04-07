@@ -47,18 +47,42 @@ Accident ischémique transitoire (AIT)
 
 ### Abréviations
 
-**AIC:** accident ischémique cérébral  
-**AIT:** accident ischémique transitoire  
-**AVC:** accident vasculaire cérébral  
-**FRCV:** facteurs de risque cardiovasculaires  
-**HIP:** hémorragie intra-parenchymateuse  
-**HTA:** hypertension artérielle  
-**MAPA:** mesure ambulatoire de la pression artérielle sur 24 heures ou Holter tensionnel  
-**MAV:** malformation artério-veineuse  
-**PAS:** pression artérielle systolique  
-**RCV:** risque cardiovasculaire  
-**TZD:** diurétiques thiazidiques  
-**UNV:** Unité neuro-vasculaire
+AIC
+: accident ischémique cérébral
+
+AIT
+: accident ischémique transitoire
+
+AVC
+: accident vasculaire cérébral
+
+FRCV
+: facteurs de risque cardiovasculaires
+
+HIP
+: hémorragie intra-parenchymateuse
+
+HTA
+: hypertension artérielle
+
+MAPA
+: mesure ambulatoire de la pression artérielle sur 24 heures ou Holter tensionnel
+
+MAV
+: malformation artério-veineuse
+
+PAS
+: pression artérielle systolique
+
+RCV
+: risque cardiovasculaire
+
+TZD
+: diurétique thiazidique
+
+UNV
+: Unité neuro-vasculaire
+{.dl-inline}
 
 ### Épidémiologie
 

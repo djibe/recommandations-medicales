@@ -41,7 +41,9 @@ Fièvre jaune
 
 ### Abréviations
 
-**PVVIH:** Personne vivant avec le VIH
+PVVIH
+: personne vivant avec le VIH
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Personnes à vacciner" %}}

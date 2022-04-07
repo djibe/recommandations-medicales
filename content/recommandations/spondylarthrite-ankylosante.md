@@ -70,7 +70,9 @@ Spondylarthropaties indifférenciées
 
 ### Abréviations
 
-**ESSG:** {{%lang%}}European Spondylarthropathy Study Group{{%/lang%}}
+ESSG
+: {{%lang%}}European Spondylarthropathy Study Group{{%/lang%}}
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

@@ -54,11 +54,21 @@ La moitié après 75 ans, 2/3 d'hommes.
 
 ### Abréviations
 
-**AE:** Accord d'experts  
-**EOGD:** Endoscopie œso-gastro-duodénale (ou fibroscopie/gastroscopie)  
-**HP**: *Helicobacter pylori*  
-**IPP:** Inhibiteurs de la pompe à protons  
-**K:** Cancer
+AE
+: Accord d'experts
+
+EOGD
+: Endoscopie œso-gastro-duodénale (ou fibroscopie/gastroscopie)
+
+HP
+: *Helicobacter pylori*
+
+IPP
+: Inhibiteurs de la pompe à protons
+
+K
+: Cancer
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Facteurs de risque" %}}

@@ -77,19 +77,45 @@ En revanche, un test *négatif* (absence de saignements) n'affirme pas une méno
 
 ### Abréviations
 
-**AVC:** accident vasculaire cérébral  
-**BVM:** bouffées vasomotrices  
-**DMO:** densité minérale osseuse  
-**DXA:** absorptiométrie biphotonique à rayons X  
-**FSH:** {{%lang%}}Follicle Stimulating Hormone{{%/lang%}} ou hormone folliculo-stimulante  
-**HAS:** Haute Autorité de Santé  
-**IMC:** indice de masse corporelle  
-**IOP:** insuffisance ovarienne prématurée (ou précoce, ex ménopause précoce)  
-**MVTE:** maladie veineuse thromboembolique (embolie pulmonaire ou thrombose veineuse profonde)  
-**SDM:** syndrome douloureux mammaire  
-**SGUM:** syndrome génito-urinaire de la ménopause  
-**SUA:** saignements utérins anormaux  
-**THM:** traitement hormonal de la ménopause (ex Traitement hormonal substitutif THS)
+AVC
+: accident vasculaire cérébral
+
+BVM
+: bouffées vasomotrices
+
+DMO
+: densité minérale osseuse
+
+DXA
+: absorptiométrie biphotonique à rayons X
+
+FSH
+: {{%lang%}}Follicle Stimulating Hormone{{%/lang%}} ou hormone folliculo-stimulante
+
+HAS
+: Haute Autorité de Santé
+
+IMC
+: indice de masse corporelle
+
+IOP
+: insuffisance ovarienne prématurée (ou précoce, ex ménopause précoce)
+
+MVTE
+: maladie veineuse thromboembolique (embolie pulmonaire ou thrombose veineuse profonde)
+
+SDM
+: syndrome douloureux mammaire
+
+SGUM
+: syndrome génito-urinaire de la ménopause
+
+SUA
+: saignements utérins anormaux
+
+THM
+: traitement hormonal de la ménopause (ex Traitement hormonal substitutif THS)
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Diagnostic de ménopause" %}}

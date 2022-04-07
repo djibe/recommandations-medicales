@@ -52,8 +52,12 @@ Pyramidectomie
 
 ### Abréviations
 
-**EM:** écoulement mamelonnaire  
-**PRL:** prolactine
+EM
+: écoulement mamelonnaire
+
+PRL
+: prolactine
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

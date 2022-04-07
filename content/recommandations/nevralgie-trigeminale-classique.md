@@ -53,12 +53,24 @@ Nerf trijumeau
 
 ### Abréviations
 
-**ICHD-3:** {{%lang%}}International Classification of Headache Disorders 3rd edition{{%/lang%}}
-**NTC:** névralgie trigéminale classique  
-**SEP:** sclérose en plaques  
-**V1:** nerf ophtalmique  
-**V2:** nerf maxillaire  
-**V3:** nerf mandibulaire
+ICHD-3
+: {{%lang%}}International Classification of Headache Disorders 3rd edition{{%/lang%}}
+
+NTC
+névralgie trigéminale classique (ex névralgie du trijumeau)
+
+SEP
+: sclérose en plaques
+
+V1
+: nerf ophtalmique
+
+V2
+: nerf maxillaire
+
+V3
+: nerf mandibulaire
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques ICHD-3" %}}

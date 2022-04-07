@@ -43,8 +43,12 @@ Gravité initiale selon terrain, sévérité locale et sepsis.
 
 ### Abréviations
 
-**DHBNN:** dermohypodermite bactérienne non nécrosante  
-**TVP:** thrombose veineuse profonde
+DHBNN
+: dermohypodermite bactérienne non nécrosante
+
+TVP
+: thrombose veineuse profonde
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

@@ -76,9 +76,15 @@ Très fréquente (50-80% de 30 à 50 ans). Associée à une augmentation du risq
 
 ### Abréviations
 
-**DO:** programme de dépistage organisé du cancer du sein  
-**HER2:** {{%lang%}}Human Epidermal Growth Factor Receptor-2{{%/lang%}}  
-**RCP:** réunion de concertation pluridisciplinaire
+DO
+: programme de dépistage organisé du cancer du sein
+
+HER2
+: {{%lang%}}Human Epidermal Growth Factor Receptor-2{{%/lang%}}
+
+RCP
+: réunion de concertation pluridisciplinaire
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Niveaux de risque de cancer du sein" %}}

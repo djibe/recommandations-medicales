@@ -48,13 +48,27 @@ Algie vasculaire de la face réfractaire
 
 ### Abréviations
 
-**AVF:** algie vasculaire de la face  
-**CTA:** céphalées trigémino-autonomiques  
-**ECG:** électrocardiogramme  
-**HC:** haute concentration  
-**ICHD-3:** {{%lang%}}The International Classification of Headache Disorders 3rd edition{{%/lang%}}  
-**SC:** sous-cutané  
-**SFEMC:** Société française d'études des migraines et des céphalées
+AVF
+: algie vasculaire de la face
+
+CTA
+: céphalées trigémino-autonomiques
+
+ECG
+: électrocardiogramme
+
+HC
+: haute concentration
+
+ICHD-3
+: {{%lang%}}The International Classification of Headache Disorders 3rd edition{{%/lang%}}
+
+SC
+: sous-cutané
+
+SFEMC
+: Société française d'études des migraines et des céphalées
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques ICHD-3" %}}

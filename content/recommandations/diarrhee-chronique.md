@@ -36,8 +36,12 @@ Selon l'*OMS*: émission de plus de 3 selles par jour de molles à liquides.
 
 ### Abréviations
 
-**SII:** syndrome de l'intestin irritable  
-**TIF:** test immunologique fécal (ex. Hemoccult®)
+SII
+: syndrome de l'intestin irritable
+
+TIF
+: test immunologique fécal (ex. Hemoccult®)
+{.dl-inline}
 
 ### Diagnostic différentiel
 

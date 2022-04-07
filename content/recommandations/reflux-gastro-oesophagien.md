@@ -64,10 +64,18 @@ Les complications du reflux sont locales:
 
 ### Abréviations
 
-**EOGD:** endoscopie œso-gastro-duodénale (ou gastroscopie)  
-**IPP:** inhibiteurs de la pompe à protons  
-**RGO:** reflux gastro-œsophagien  
-**RHD:** régime hygiéno-diététique (ou mesures hygiéno-diététiques)
+EOGD
+: endoscopie œso-gastro-duodénale (ou gastroscopie)
+
+IPP
+: inhibiteurs de la pompe à protons
+
+RGO
+: reflux gastro-œsophagien
+
+RHD
+: régime hygiéno-diététique (ou mesures hygiéno-diététiques)
+{.dl-inline}
 
 {{%/collapse%}}
 {{%collapse "Clinique" %}}

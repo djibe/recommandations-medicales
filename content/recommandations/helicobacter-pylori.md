@@ -140,18 +140,27 @@ EOGD souhaitable (sauf si Quinolone-S et non utilisées).
 {{%collapse "Définition" %}}
 
 *Helicobacter pylori*
-: **Abréviation:** *H. pylori*.
-: La bactérie *Helicobacter pylori* a un tropisme gastrique responsable d'une *gastrite chronique*, compliquée d'*ulcères gastro-duodénaux* et responsable de 80% des *[cancers de l'estomac]({{< relref "cancer-estomac.md" >}})* (adénocarcinomes et lymphomes du MALT).
+: La bactérie *Helicobacter pylori* (*H. pylori*) a un tropisme gastrique responsable d'une *gastrite chronique*, compliquée d'*ulcères gastro-duodénaux* et responsable de 80% des *[cancers de l'estomac]({{< relref "cancer-estomac.md" >}})* (adénocarcinomes et lymphomes du MALT).
 : Contamination dans l'enfance par transmission familiale {{%class%}}(oro-orale ou féco-orale){{%/class%}}.  
 Son éradication prévient la survenue de ces complications.
 
 ### Abréviations
 
-**AMM:** autorisation de mise sur le marché  
-**EOGD:** endoscopie œso-gastro-duodénale (ou fibroscopie/gastroscopie)  
-**GEFH:** Groupe d'Études Français des *Helicobacter*  
-**IPP:** inhibiteur de la pompe à protons  
-**K:** cancer
+AMM
+: autorisation de mise sur le marché
+
+EOGD
+: endoscopie œso-gastro-duodénale (ou fibroscopie/gastroscopie)
+
+GEFH
+: Groupe d'Études Français des *Helicobacter*
+
+IPP
+: inhibiteur de la pompe à protons
+
+K
+: cancer
+{.dl-inline}
 
 ### Épidémiologie
 

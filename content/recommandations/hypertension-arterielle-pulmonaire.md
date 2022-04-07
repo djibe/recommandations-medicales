@@ -44,10 +44,18 @@ Il n'existe aucun traitement curatif et le pronostic est mauvais.
 
 ### Abréviations
 
-**ETT:** échocardiographie transthoracique  
-**HTAP:** Hypertension artérielle pulmonaire  
-**HTP:** Hypertension pulmonaire  
-**RxT:** radiographie thoracique
+ETT
+: échocardiographie transthoracique
+
+HTAP
+: Hypertension artérielle pulmonaire
+
+HTP
+: Hypertension pulmonaire
+
+RxT
+: radiographie thoracique
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Étiologie" %}}

@@ -37,7 +37,9 @@ Déficit en glucose-6-phosphate déshydrogénase (G6PD)
 
 ### Abréviations
 
-**G6PD:** glucose-6-déshydrogénase
+G6PD
+: glucose-6-déshydrogénase
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

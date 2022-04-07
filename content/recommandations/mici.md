@@ -26,11 +26,21 @@ todo = "summary, privilégier aliments primaires https://presse.inserm.fr/les-em
 
 ### Abréviations
 
-**CF** : calprotectine fécale  
-**EOGD** : endoscopie oeso-gastro-duodénale  
-**MC** : maladie de Crohn  
-**RCH** : rectocolite hémorragique  
-**VCE** : vidéocapsule endoscopique
+CF
+: calprotectine fécale
+
+EOGD
+: endoscopie oeso-gastro-duodénale
+
+MC
+: maladie de Crohn
+
+RCH
+: rectocolite hémorragique
+
+VCE
+: vidéocapsule endoscopique
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "FMC" %}}

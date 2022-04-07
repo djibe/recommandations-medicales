@@ -62,14 +62,30 @@ Rechute
 
 ### Abréviations
 
-**API:** alcoolisations ponctuelles importantes (≥ 6 verres/occasion)  
-**BZD:** benzodiazépines  
-**CSAPA:** Centres de soins, d'accompagnement et de prévention en addictologie (CSAPA)  
-**FACE:** Formule pour Approcher la Consommation d'alcool par Entretien  
-**RPIB:** repérage précoce et intervention brève  
-**SFA:** Société française d'alcoologie  
-**SSA:** syndrome de sevrage alcoolique  
-**TCC:** thérapies cognitives et comportementales
+API
+: alcoolisations ponctuelles importantes (≥ 6 verres/occasion)
+
+BZD
+: benzodiazépine
+
+CSAPA
+: Centres de soins, d'accompagnement et de prévention en addictologie (CSAPA)
+
+FACE
+: Formule pour Approcher la Consommation d'alcool par Entretien
+
+RPIB
+: repérage précoce et intervention brève
+
+SFA
+: Société française d'alcoologie
+
+SSA
+: syndrome de sevrage alcoolique
+
+TCC
+: thérapies cognitives et comportementales
+{.dl-inline}
 
 ### Épidémiologie
 

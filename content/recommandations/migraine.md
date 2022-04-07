@@ -66,7 +66,7 @@ Céphalées par abus médicamenteux
 : Critères diagnostiques ICHD-3 8.2.
 : Consommation de triptans ≥ 10 j/mois ou AINS ≥ 15 j/mois.
 
-### Diagnostic différentiel
+### Diagnostic différentiel des migraines
 
 - Céphalées par abus médicamenteux  
   Céphalées ≥ 15 j/mois, lors de prise d'antalgiques > 10 j/mois > 3 mois. Souvent associée.
@@ -91,11 +91,21 @@ Installation en quelques secondes, début en vision périphérique, formes circu
 
 ### Abréviations
 
-**EI:** effet indésirable  
-**Hx:** délai de x heures  
-**ICHD-3:** {{%lang%}}International Classification of Headache Disorders{{%/lang%}}  
-**MSA:** migraine sans aura  
-**SFEMC:** Société française d'études des migraines et céphalées
+EI
+: effet indésirable
+
+Hx
+: délai de x heures
+
+ICHD-3
+: {{%lang%}}International Classification of Headache Disorders{{%/lang%}}
+
+MSA
+: migraine sans aura
+
+SFEMC
+: Société française d'études des migraines et céphalées
+{.dl-inline}
 
 ### Épidémiologie
 

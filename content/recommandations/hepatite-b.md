@@ -37,9 +37,15 @@ La transmission est sexuelle, par des fluides biologiques ou materno-fœtale. Le
 
 ### Abréviations
 
-**HSH:** Homme ayant des relations sexuelles avec des hommes  
-**UDI:** usager de drogue intraveineuse  
-**VHB:** Virus de l'hépatite B
+HSH
+: homme ayant des relations sexuelles avec des hommes
+
+UDI
+: usager de drogue intraveineuse
+
+VHB
+: virus de l'hépatite B
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Personnes à vacciner" %}}

@@ -66,23 +66,57 @@ BNP ≥ 35 pg/mL ou NT-proBNP ≥ 125 pg/mL
 
 ### Abréviations
 
-**BAV:** bloc atrio-ventriculaire  
-**BNP:** {{%lang%}}brain natriuretic peptide{{%/lang%}}  
-**CV:** cardiovasculaire  
-**ECG:** électrocardiogramme  
-**DAI:** défibrillateur automatique implantable  
-**ETT:** échocardiographie transthoracique  
-**FA:** fibrillation atriale  
-**FE:** fraction d'éjection (sous-entendu FEVG)  
-**FEVG:** fraction d'éjection ventriculaire gauche ({{%lang%}}LVEF - left ventricular ejection fraction{{%/lang%}})  
-**FC:** fréquence cardiaque  
-**HTA:** hypertension artérielle  
-**IC:** insuffisance cardiaque ({{%lang%}}HF - heart failure{{%/lang%}})  
-**ICFEd:** insuffisance cardiaque à fraction d'éjection diminuée (*IC à FE basse*, *IC à fonction systolique diminuée* ou *IC systolique ICS*)({{%lang%}}HFrEF - reduced{{%/lang%}})  
-**ICFEmd:** insuffisance cardiaque à fonction systolique modérément diminuée ({{%lang%}}HFmrEF - mildly reduced{{%/lang%}})  
-**ICFEp:** insuffisance cardiaque à fraction d'éjection préservée (*IC à fonction systolique conservée* ou *IC diastolique*)({{%lang%}}HFpEF - preserved{{%/lang%}})  
-**PA:** pression artérielle  
-**VG:** ventricule gauche
+BAV
+: bloc atrio-ventriculaire
+
+BNP
+: {{%lang%}}brain natriuretic peptide{{%/lang%}}
+
+CV
+: cardiovasculaire
+
+ECG
+: électrocardiogramme
+
+DAI
+: défibrillateur automatique implantable
+
+ETT
+: échocardiographie transthoracique
+
+FA
+: fibrillation atriale
+
+FE
+: fraction d'éjection (sous-entendu FEVG)
+
+FEVG
+: fraction d'éjection ventriculaire gauche ({{%lang%}}LVEF - left ventricular ejection fraction{{%/lang%}})
+
+FC
+: fréquence cardiaque
+
+HTA
+: hypertension artérielle
+
+IC
+: insuffisance cardiaque ({{%lang%}}HF - heart failure{{%/lang%}})
+
+ICFEd
+: insuffisance cardiaque à fraction d'éjection diminuée (*IC à FE basse*, *IC à fonction systolique diminuée* ou *IC systolique ICS*)({{%lang%}}HFrEF - reduced{{%/lang%}})
+
+ICFEmd
+: insuffisance cardiaque à fonction systolique modérément diminuée ({{%lang%}}HFmrEF - mildly reduced{{%/lang%}})
+
+ICFEp
+: insuffisance cardiaque à fraction d'éjection préservée (*IC à fonction systolique conservée* ou *IC diastolique*)({{%lang%}}HFpEF - preserved{{%/lang%}})
+
+PA
+: pression artérielle
+
+VG
+: ventricule gauche
+{.dl-inline}
 
 ### Pour en savoir plus: facteurs pronostiques péjoratifs
 

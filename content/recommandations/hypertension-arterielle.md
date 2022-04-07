@@ -83,20 +83,48 @@ Elle atteint < 10% des patients.
 
 ### Abréviations
 
-**AMT:** automesure tensionnelle ({{%lang%}}home BP monitoring HBPM{{%/lang%}})  
-**ARA2:** antagoniste des récepteurs de l'angiotensine II  
-**CV:** cardiovasculaire  
-**ECG:** électrocardiogramme  
-**FRCV:** facteur de risque cardiovasculaire  
-**ICa:** inhibiteur calcique  
-**IEC:** inhibiteur de l'enzyme de conversion de l'angiotensine  
-**MAPA:** mesure ambulatoire de la pression artérielle ({{%lang%}}ambulatory BP monitoring ABPM{{%/lang%}})  
-**MCV:** maladie cardiovasculaire  
-**PAD:** pression artérielle diastolique  
-**PAS:** pression artérielle systolique  
-**RHD:** régime hygiéno-diététiques (ou mode de vie)  
-**SCA:** syndrome coronarien aigu  
-**TZD:** diurétique thiazidique
+AMT
+: automesure tensionnelle ({{%lang%}}home BP monitoring HBPM{{%/lang%}})
+
+ARA2
+: antagoniste des récepteurs de l'angiotensine 2
+
+CV
+: cardiovasculaire
+
+ECG
+: électrocardiogramme
+
+FRCV
+: facteur de risque cardiovasculaire
+
+ICa
+: inhibiteur calcique (ou anticalcique)
+
+IEC
+: inhibiteur de l'enzyme de conversion de l'angiotensine
+
+MAPA
+: mesure ambulatoire de la pression artérielle ({{%lang%}}ambulatory BP monitoring ABPM{{%/lang%}})
+
+MCV
+: maladie cardiovasculaire
+
+PAD
+: pression artérielle diastolique
+
+PAS
+: pression artérielle systolique
+
+RHD
+: régime hygiéno-diététiques (ou mode de vie)
+
+SCA
+: syndrome coronarien aigu
+
+TZD
+: diurétique thiazidique
+{.dl-inline}
 
 ### Épidémiologie
 

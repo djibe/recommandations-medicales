@@ -59,8 +59,12 @@ France: chez les 40-75 ans, prévalence de 2-10% pour les femmes et 1,5-15% pour
 
 ### Abréviations
 
-**AH:** acide hyaluronique  
-**AASAL:** anti-arthrosiques symptomatiques d'action lente
+AH
+: acide hyaluronique
+
+AASAL
+: anti-arthrosiques symptomatiques d'action lente
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

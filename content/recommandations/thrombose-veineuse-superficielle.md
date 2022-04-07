@@ -44,6 +44,7 @@ TODO:
 **TIH:** thrombopénie induite à l'héparine  
 **TVP:** thrombose veineuse profonde  
 **UI:** unités internationales
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

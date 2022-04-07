@@ -43,11 +43,21 @@ OU ≥ 3 cas de la même branche (quelque soit le degré de parenté et l'âge d
 
 ### Abréviations
 
-**ADK:** adénocarcinome  
-**AEG:** altération de l'état général (amaigrissement-asthénie-anorexie)  
-**AP:** adénocarcinome du pancréas  
-**RCP:** réunion de concertation pluridisciplinaire  
-**TVP:** thrombose veineuse profonde
+ADK
+: adénocarcinome
+
+AEG
+: altération de l'état général (amaigrissement-asthénie-anorexie)
+
+AP
+: adénocarcinome du pancréas
+
+RCP
+: réunion de concertation pluridisciplinaire
+
+TVP
+: thrombose veineuse profonde
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Dépistage de l'adénocarcinome du pancréas" %}}

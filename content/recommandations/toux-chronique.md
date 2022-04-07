@@ -40,7 +40,9 @@ Toux chronique native
 
 ### Abréviations
 
-**TVO:** trouble ventilatoire obstructif
+TVO
+: trouble ventilatoire obstructif
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Signes de gravité" %}}

@@ -63,12 +63,27 @@ Principaux aliments riches en vitamine D: poissons et produits laitiers (*Anses*
 
 ### Abréviations
 
-**25OHD:** cholécalciférol ou vitamine D3 (ou colécalciférol)  
-**HAS:** Haute autorité de santé  
-**IRC:** insuffisance rénale chronique  
-**SFP:** Société française de pédiatrie  
-**UI:** unités internationales  
-**vitamine D2:** ergocalciférol
+25OHD
+: vitamine D (TODO:)
+
+HAS
+: Haute autorité de santé
+
+IRC
+: insuffisance rénale chronique
+
+SFP
+: Société française de pédiatrie
+
+UI
+: unités internationales
+
+vitamine D2
+: ergocalciférol
+
+vitamine D3
+: cholécalciférol (ou colécalciférol)
+{.dl-inline}
 
 {{%/collapse%}}
 {{%collapse "Conversion d'unités de la vitamine D" %}}

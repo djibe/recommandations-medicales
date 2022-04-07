@@ -48,14 +48,30 @@ Syndrome de renutrition inappropriée
 
 ### Abréviations
 
-**CIM-10:** classification internationale des maladies 10<sup>e</sup> révision (OMS)  
-**CNO:** complémentation nutritionnelle orale  
-**FFN:** Fédération française de nutrition  
-**HAS:** Haute Autorité de Santé  
-**IMC:** indice de masse corporelle (en kg/m²)  
-**MNA®:** {{%lang%}}Mini Nutritional Assessment{{%/lang%}} (Nestlé)  
-**PE:** protéino-énergétiques  
-**SFNCM:** Société Francophone de Nutrition Clinique et Métabolisme
+CIM-10
+: classification internationale des maladies 10<sup>e</sup> révision (OMS)
+
+CNO
+: complémentation nutritionnelle orale
+
+FFN
+: Fédération française de nutrition
+
+HAS
+: Haute Autorité de Santé
+
+IMC
+: indice de masse corporelle (en kg/m²)
+
+MNA®
+: {{%lang%}}Mini Nutritional Assessment{{%/lang%}} (Nestlé)
+
+PE
+: protéino-énergétique
+
+SFNCM
+: Société Francophone de Nutrition Clinique et Métabolisme
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Calculs: perte de poids - estimation de la taille" %}}

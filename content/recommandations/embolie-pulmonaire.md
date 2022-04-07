@@ -43,17 +43,36 @@ Mortalité hospitalière: 5%
 
 ### Abréviations
 
-**AOD:** anticoagulant oral direct (ex-NACO)  
-**AVK:** anti-vitamine K  
-**EP:** embolie pulmonaire  
-**HPN:** hémoglobinurie paroxystique nocturne  
-**MICI:** maladies inflammatoires chroniques intestinales  
-**MVTE:** maladie veineuse thromboembolique  
-**PERC:** {{%lang%}}Pulmonary Embolism Rule-out Criteria{{%/lang%}}  
-**SAPL:** syndrome des anticorps anti-phospholipides  
-**THM:** traitement hormonal de la [ménopause]({{< relref "menopause.md" >}})  
-**TIH:** thrombopénie induite à l'héparine  
-**TVP:** thrombose veineuse profonde
+AOD
+: anticoagulant oral direct (ex-NACO)
+
+AVK
+: anti-vitamine K
+
+EP
+: embolie pulmonaire
+
+HPN
+: hémoglobinurie paroxystique nocturne
+
+MICI
+: maladies inflammatoires chroniques intestinales
+
+MVTE
+: maladie veineuse thromboembolique
+
+SAPL
+: syndrome des anticorps anti-phospholipides
+
+THM
+: traitement hormonal de la [ménopause]({{< relref "menopause.md" >}})
+
+TIH
+: thrombopénie induite à l'héparine
+
+TVP
+: thrombose veineuse profonde
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Signes de gravité" %}}
@@ -103,6 +122,8 @@ La réponse aux 8 questions suivantes doit être négative pour infirmer une *su
 6. Traitement œstrogénique ?
 7. Antécédent personnel MVTE ?
 8. Hospitalisation pour traumatisme ou chirurgie sous AG dans les 4 dernières semaines ?
+
+> PERC = {{%lang%}}Pulmonary Embolism Rule-out Criteria{{%/lang%}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

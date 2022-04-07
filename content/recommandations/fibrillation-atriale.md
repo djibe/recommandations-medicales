@@ -58,13 +58,27 @@ FA persistante
 
 ### Abréviations
 
-**AOD:** anticoagulant oral direct (ex *NACO*)  
-**AVK:** anticoagulant antivitamine K  
-**BB:** bêtabloquants  
-**EHRA:** {{%lang%}}European Heart Rhythm Association{{%/lang%}}  
-**FA:** fibrillation atriale  
-**HTA:** hypertension artérielle  
-**TE:** thrombo-embolie
+AOD
+: anticoagulant oral direct (ex *NACO*)
+
+AVK
+: anticoagulant antivitamine K
+
+BB
+: bêtabloquant
+
+EHRA
+: {{%lang%}}European Heart Rhythm Association{{%/lang%}}
+
+FA
+: fibrillation atriale
+
+HTA
+: hypertension artérielle
+
+TE
+: thrombo-embolie
+{.dl-inline}
 
 Inhibiteurs calciques non dihydropyridiniques: diltiazem ou vérapamil.
 

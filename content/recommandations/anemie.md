@@ -102,10 +102,18 @@ Une cause digestive haute et basse est retrouvée dans 1-10% des cas (sujet âg�
 
 ### Abréviations
 
-**ACM:** anémie par carence martiale ({{%lang%}}Iron deficiency anaemia - IDA{{%/lang%}})  
-**CM:** carence martiale  
-**Hb:** hémoglobine  
-**CCR:** cancer colorectal
+ACM
+: anémie par carence martiale ({{%lang%}}Iron deficiency anaemia - IDA{{%/lang%}})
+
+CM
+: carence martiale
+
+Hb
+: hémoglobine
+
+CCR
+: cancer colorectal
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

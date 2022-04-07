@@ -43,20 +43,28 @@ Les récidives sont exceptionnelles (6%).
 
 ### Abréviations
 
-**ENMG:** électroneuromyogramme  
-**PF:** paralysie faciale  
-**PFI:** paralysie faciale idiopathique (anciennement *paralysie faciale a frigore*)  
-**PFP:** paralysie faciale périphérique
+ENMG
+: électroneuromyogramme (ou électromyogramme)
 
-### Épidémiologie
+PF
+: paralysie faciale
+
+PFI
+: paralysie faciale idiopathique (anciennement *paralysie faciale a frigore*)
+
+PFP
+: paralysie faciale périphérique
+{.dl-inline}
+
+### Épidémiologie de la paralysie faciale idiopathique
 
 - 70% de guérison complète à 6 mois  
-Corrélée à la gravité initiale.  
-Taux de récupération de 61% en PFP totale initiale et de 94% pour une PFP partielle initiale.
+  Corrélée à la gravité initiale.  
+  Taux de récupération de 61% en PFP totale initiale et de 94% pour une PFP partielle initiale.
 - Maladie de Lyme  
-6 à 20% des PFP selon les régions.
+  6 à 20% des PFP selon les régions.
 - [Diabète]({{< relref "diabete-type-2.md" >}})  
-Présent chez 10% des patients développant une PFP.
+  Présent chez 10% des patients développant une PFP.
 - 8 à 12% des PFP d'allure idiopathique sont tumorales (malignes à 30%)
 
 {{% /collapse %}}
@@ -65,12 +73,12 @@ Présent chez 10% des patients développant une PFP.
 ### Interrogatoire
 
 - Antécédents  
-Grossesse, pré-éclampsie, obésité, hypertension artérielle, diabète, insuffisance respiratoire.
+  Grossesse, pré-éclampsie, obésité, hypertension artérielle, diabète, insuffisance respiratoire.
 - Traitements en cours
 - Rapports sexuels à risque
 - Profession
 - Expositions aux tiques  
-{{%class%}}Région, notion de morsure, promenade en forêt, érythème migrant.{{%/class%}}
+  {{%class%}}Région, notion de morsure, promenade en forêt, érythème migrant.{{%/class%}}
 - Anamnèse
   - Notion d'infection récente
   - Installation brutale ou durant max 72h
@@ -81,7 +89,7 @@ Grossesse, pré-éclampsie, obésité, hypertension artérielle, diabète, insuf
   - Hyperacousie
   - Paresthésies faciales
 - Signes négatifs  
-Remettre en cause le diagnostic en présence de ces signes.
+  Remettre en cause le diagnostic en présence de ces signes.
   - Antécédent(s) de paralysie faciale périphérique
   - Aggravation après 72 heures
   - PFP fluctuante
@@ -105,11 +113,11 @@ L'examen du **côté paralysé** retrouve:
 
 - Atteinte identique des territoires supérieur et inférieur
 - Absence de dissociation automatico-volontaire  
-{{%class%}}Paralysie visible aux mouvements volontaires ET aux mouvements automatiques (mimiques spontanées, rire).{{%/class%}}
+  {{%class%}}Paralysie visible aux mouvements volontaires ET aux mouvements automatiques (mimiques spontanées, rire).{{%/class%}}
 - Atteintes du territoire facial supérieur:  
   - Diminution/abolition des rides du front
   - Lagophtalmie  
-  {{%class%}}Diminution ou abolition de la fermeture palpébrale.{{%/class%}}
+    {{%class%}}Diminution ou abolition de la fermeture palpébrale.{{%/class%}}
   - Diminution des sécrétions lacrymales du côté paralysé
   - Occlusion forcée, cils plus apparents du côté paralysé (signe de Souques)
   - Occlusion forcée incomplète avec globe oculaire révulsé (signe de Charles Bell)
@@ -125,7 +133,7 @@ L'examen du **côté paralysé** retrouve:
   - Hypoesthésie de la zone de Ramsay Hunt (conque de l'oreille, CAE)
   - Hyperacousie douloureuse (abolition du réflex stapédien)
 - {{< modal-btn score-house >}}Score de House-Brackmann{{< /modal-btn >}}  
-Noter le score dans le dossier.
+  Noter le score dans le dossier.
 - Reste de l'examen neurologique complet normal  
 
 {{%warning%}}
@@ -154,11 +162,11 @@ Les diagnostics différentiels sont dominés par les **causes tumorales, traumat
 
 - Tumorale surtout  
   - Sur le trajet du nerf facial: tronc cérébral, angle ponto-cérébelleux, conduit auditif interne, rocher.  
-  Tumeur bénigne: neurinome du nerf facial, méningiome voire neurinome de l'acoustique, cholestéatome, paragangliome tympano-jugulaire.  
-  Tumeur maligne: métastase, hémopathie.
+    Tumeur bénigne: neurinome du nerf facial, méningiome voire neurinome de l'acoustique, cholestéatome, paragangliome tympano-jugulaire.  
+    Tumeur maligne: métastase, hémopathie.
   - Tumeur maligne parotidienne
 - Traumatique  
-Fracture du rocher ou péri-parotidienne.
+  Fracture du rocher ou péri-parotidienne.
 - Cause infectieuse
   - [Zona]({{< relref "zona.md" >}})
   - [Maladie de Lyme]({{< relref "maladie-lyme.md" >}}) {{%class%}}(*Borrelia burgdorferi*){{%/class%}}
@@ -172,7 +180,7 @@ Fracture du rocher ou péri-parotidienne.
   - Granulomatose à polyangéite (Wegener)
 - AVC du tronc cérébral (noyau du VII)
 - Syndrome de Melkerson-Rosenthal  
-PFP à bascule ou récidivante.
+  PFP à bascule ou récidivante.
 - Néonatale  
 {{%class%}}Malformation ou traumatique (forceps).{{%/class%}}
 
@@ -186,9 +194,9 @@ PFP à bascule ou récidivante.
 - NFS
 - Sérologie Lyme
 - Glycémie à jeun si facteurs de risque:  
-Antécédents familiaux de diabète, obésité, âge ≥ 40 ans.
+  Antécédents familiaux de diabète, obésité, âge ≥ 40 ans.
 - Sérologie VIH  
-{{%class%}}Proposer à tout patient.{{%/class%}}
+  {{%class%}}Proposer à tout patient.{{%/class%}}
 - PFP hyperalgique: sérologie VZV et HSV
 
 ---

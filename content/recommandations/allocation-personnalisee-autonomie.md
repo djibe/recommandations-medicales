@@ -39,9 +39,14 @@ Allocation personnalisée d'autonomie (APA)
 
 ### Abréviations
 
-**AGGIR:** grille Autonomie Gérontologie Groupe Iso-Ressources  
-**APA:** Allocation personnalisée d'autonomie  
-**GIR:** groupe iso ressources
+AGGIR
+: grille Autonomie Gérontologie Groupe Iso-Ressources
+
+APA
+: Allocation personnalisée d'autonomie
+
+GIR
+: groupe iso ressources
 
 {{% /collapse %}}
 {{%collapse "Demande d'APA à domicile" %}}

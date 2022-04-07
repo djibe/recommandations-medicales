@@ -52,9 +52,15 @@ Rechute
 
 ### Abréviations
 
-**AMM:** autorisation de mise sur le marché  
-**BZD:** benzodiazépine  
-**ECAB:** {{< modal-btn modal-score-ecab >}}échelle cognitive d'attachement aux benzodiazépines{{< /modal-btn >}}
+AMM
+: autorisation de mise sur le marché
+
+BZD
+: benzodiazépine
+
+ECAB
+: {{< modal-btn modal-score-ecab >}}échelle cognitive d'attachement aux benzodiazépines{{< /modal-btn >}}
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

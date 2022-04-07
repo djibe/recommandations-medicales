@@ -48,10 +48,18 @@ Elle peut être hormonale (lévonorgestrel ou ulipristal acétate) ou mécanique
 
 ### Abréviations
 
-**CPEF:** centres de planification et d'éducation familiale  
-**DIU:** dispositif intra-utérin (ou stérilet)  
-**PCU:** pilule contraceptive d'urgence (ou pilule du lendemain)  
-**UPA:** ulipristal acétate
+CPEF
+: centres de planification et d'éducation familiale
+
+DIU
+: dispositif intra-utérin (ou stérilet)
+
+PCU
+: pilule contraceptive d'urgence (ou pilule du lendemain)
+
+UPA
+: ulipristal acétate
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}

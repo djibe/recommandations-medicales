@@ -46,11 +46,21 @@ Hyperferritinémie (HF)
 
 ### Abréviations
 
-**CST:** coefficient de saturation de la transferrine  
-**Hb:** hémoglobine  
-**HC:** hémochromatose  
-**HF:** hyperferritinémie (exprimée en µg/L sauf mention contraire)  
-**SAM:** syndrome d'activation macrophagique
+CST
+: coefficient de saturation de la transferrine
+
+Hb
+: hémoglobine
+
+HC
+: hémochromatose
+
+HF
+: hyperferritinémie (exprimée en µg/L sauf mention contraire)
+
+SAM
+: syndrome d'activation macrophagique
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Étiologie" %}}

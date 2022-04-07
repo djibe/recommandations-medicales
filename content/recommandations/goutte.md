@@ -55,9 +55,15 @@ La **mortalité** est de 20-30% et 60% de ces accidents sous *allopurinol* survi
 
 ### Abréviations
 
-**ACR:** {{%lang%}}American College of Rheumatology{{%/lang%}}  
-**DFGe:** débit de filtration glomérulaire estimé  
-**SFR:** Société française de rhumatologie
+ACR
+: {{%lang%}}American College of Rheumatology{{%/lang%}}
+
+DFGe
+: débit de filtration glomérulaire estimé
+
+SFR
+: Société française de rhumatologie
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

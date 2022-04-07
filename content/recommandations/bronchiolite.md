@@ -82,10 +82,18 @@ Hétérogénéité selon les centres.
 
 ### Abréviations
 
-**BA:** bronchiolite aiguë  
-**DRP:** désobstruction rhinopharyngée  
-**NS:** nourrisson  
-**SCM:** sternocléido-mastoidiens
+BA
+: bronchiolite aiguë
+
+DRP
+: désobstruction rhinopharyngée
+
+NS
+: nourrisson
+
+SCM
+: sternocléido-mastoidiens
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Formes cliniques de bronchiolite" "show" %}}

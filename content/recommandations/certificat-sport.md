@@ -83,10 +83,18 @@ const chartOptions = {
 
 ### Abréviations
 
-**EE:** épreuve d'effort  
-**FMT:** fréquence maximale théorique  
-**FRCV:** facteur de risque cardiovasculaire  
-**MS:** mort subite
+EE
+: épreuve d'effort
+
+FMT
+: fréquence maximale théorique
+
+FRCV
+: facteur de risque cardiovasculaire
+
+MS
+: mort subite
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Disciplines nécessitant un certificat de sport annuel" %}}

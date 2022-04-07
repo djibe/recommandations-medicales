@@ -65,19 +65,45 @@ Blue toe syndrome
 
 ### Abréviations
 
-**AAA:** anévrysme de l'aorte abdominale  
-**AAP:** antiagrégant plaquettaire  
-**BB:** bêtabloquant  
-**CV:** cardiovasculaire  
-**FRCV:** facteurs de risque cardiovasculaire  
-**IDM:** infarctus du myocarde  
-**IPS:** index de pression systolique ({{%lang%}}ankle-brachial index (ABI){{%/lang%}})  
-**IPSGO:** index de pression au gros orteil  
-**MI:** membre inférieur  
-**PAS:** pression artérielle systolique  
-**RCV:** risque cardiovasculaire  
-**RV:** rapport de vraisemblance  
-**TZD:** diurétique thiazidique
+AAA
+: anévrysme de l'aorte abdominale
+
+AAP
+: antiagrégant plaquettaire
+
+BB
+: bêtabloquant
+
+CV
+: cardiovasculaire
+
+FRCV
+: facteurs de risque cardiovasculaire
+
+IDM
+: infarctus du myocarde
+
+IPS
+: index de pression systolique ({{%lang%}}ankle-brachial index (ABI){{%/lang%}})
+
+IPSGO
+: index de pression au gros orteil
+
+MI
+: membre inférieur
+
+PAS
+: pression artérielle systolique
+
+RCV
+: risque cardiovasculaire
+
+RV
+: rapport de vraisemblance
+
+TZD
+: diurétique thiazidique
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Dépistage" %}}

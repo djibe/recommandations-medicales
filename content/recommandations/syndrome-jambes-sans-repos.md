@@ -82,16 +82,36 @@ Tremblement orthostatique primaire
 
 ### Abréviations
 
-**CST:** coefficient de saturation de la transferrine  
-**HDJ:** hôpital de jour  
-**ENMG:** électroneuromyogramme  
-**IRLS:** {{%lang%}}IRLSSSG rating scale{{%/lang%}}  
-**IRLSSG:** {{%lang%}}International Restless Legs Syndrome Study Group{{%/lang%}}  
-**MPM:** mouvements périodiques des membres  
-**PSG:** polysomnographie  
-**SAS:** syndrome d'apnées du sommeil  
-**SJSR:** syndrome des jambes sans repos  
-**TDAH:** trouble du déficit de l'attention et hyperactivité
+CST
+: coefficient de saturation de la transferrine
+
+HDJ
+: hôpital de jour
+
+ENMG
+: électroneuromyogramme
+
+IRLS
+: {{%lang%}}IRLSSSG rating scale{{%/lang%}}
+
+IRLSSG
+: {{%lang%}}International Restless Legs Syndrome Study Group{{%/lang%}}
+
+MPM
+: mouvements périodiques des membres
+
+PSG
+: polysomnographie
+
+SAS
+: syndrome d'apnées du sommeil
+
+SJSR
+: syndrome des jambes sans repos
+
+TDAH
+: trouble du déficit de l'attention et hyperactivité
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Facteurs de risque et favorisants" %}}

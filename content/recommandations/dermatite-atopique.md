@@ -65,9 +65,15 @@ Autres pathologies eczématiformes:
 
 ### Abréviations
 
-**DA:** dermatite atopique  
-**DC:** dermocorticoïde(s)  
-**SCORAD:** {{%lang%}}SCORing Atopic Dermatitis{{%/lang%}}
+DA
+: dermatite atopique (ex eczéma atopique)
+
+DC
+: dermocorticoïde
+
+SCORAD
+: {{%lang%}}SCORing Atopic Dermatitis{{%/lang%}}
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

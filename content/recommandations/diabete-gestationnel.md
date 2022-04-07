@@ -48,14 +48,30 @@ Conclusion de l'étude *Diagest2*: 18% des femmes avec un diabète gestationnel 
 
 ### Abréviations
 
-**ADO:** antidiabétiques oraux  
-**ASG:** autosurveillance glycémique  
-**GAJ:** glycémie à jeun  
-**HGPO:** hyperglycémie provoquée par voie orale  
-**IADPSG**: {{%lang%}}International Association of Diabetes and Pregnancy Study Group{{%/lang%}}  
-**SA:** semaines d'aménorrhée  
-**SOPK:** syndrome des ovaires polykystiques  
-**T1:** premier trimestre de la grossesse
+ADO
+: antidiabétiques oraux
+
+ASG
+: autosurveillance glycémique
+
+GAJ
+: glycémie à jeun
+
+HGPO
+: hyperglycémie provoquée par voie orale
+
+IADPSG
+: {{%lang%}}International Association of Diabetes and Pregnancy Study Group{{%/lang%}}
+
+SA
+: semaines d'aménorrhée
+
+SOPK
+: syndrome des ovaires polykystiques
+
+T1
+: premier trimestre de la grossesse
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Dépistage du diabète gestationnel" %}}

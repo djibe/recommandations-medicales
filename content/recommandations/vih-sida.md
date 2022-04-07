@@ -47,14 +47,33 @@ Délai contamination-Sida d'environ **10 ans**.
 
 ### Abréviations
 
-**ARV:** traitement antirétroviral  
-**HSH:** homme ayant des rapports sexuels avec des hommes  
-**IST:** infection sexuellement transmissible  
-**PVVIH:** personne vivant avec le VIH  
-**TDS:** travailleurs du sexe  
-**TPE:** traitement post-exposition  
-**UDI:** usager de drogues par injection  
-**VIH:** virus de l'immunodéficience humaine
+ARV
+: traitement antirétroviral
+
+HSH
+: homme ayant des rapports sexuels avec des hommes
+
+IST
+: infection sexuellement transmissible
+
+PrEP
+: prophylaxie pré-exposition
+
+PVVIH
+: personne vivant avec le VIH
+
+TDS
+: travailleurs du sexe
+
+TPE
+: traitement post-exposition
+
+UDI
+: usager de drogues par injection
+
+VIH
+: virus de l'immunodéficience humaine
+{.dl-inline}
 
 ### Personnes à risque de contamination VIH
 
@@ -242,7 +261,7 @@ La PrEP doit être couplée au *préservatif* pour prévenir les [IST](/tags/ist
 
 {{< card-link title="La PrEP et ses enjeux" url="https://www.formaprep.org" subtitle="MOOC gratuit">}}
 
-### Indications à la PreEp (HAS 2021)
+### Indications à la PrEp (HAS 2021)
 
 Chez le plus de 15 ans:
 
@@ -262,7 +281,7 @@ Chez le plus de 15 ans:
 
 Possible si: infection VHB (avis gastro), grossesse ou allaitement avec suivi coordonné, contraception hormonale.
 
-### Contre-indications à la PreEp
+### Contre-indications à la PrEp
 
 - PVVIH
 - Statut VIH inconnu
