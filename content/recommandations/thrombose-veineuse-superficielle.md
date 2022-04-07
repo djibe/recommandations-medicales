@@ -33,17 +33,35 @@ TODO:
 
 ### Abréviations
 
-**AOD:** anticoagulant oral direct (anciennement NACO)  
-**AVK:** anti-vitamine K  
-**EP:** embolie pulmonaire  
-**HBPM:** héparine de bas poids moléculaire  
-**HNF:** héparine non fractionnée  
-**LEFt:** Left Edema First trimester  
-**MI:** membre inférieur  
-**MVTE:** maladie veineuse thromboembolique  
-**TIH:** thrombopénie induite à l'héparine  
-**TVP:** thrombose veineuse profonde  
-**UI:** unités internationales
+AOD
+: anticoagulant oral direct (anciennement NACO)
+
+AVK
+: anti-vitamine K
+
+EP
+: embolie pulmonaire
+
+HBPM
+: héparine de bas poids moléculaire
+
+HNF
+: héparine non fractionnée
+
+MI
+: membre inférieur
+
+MVTE
+: maladie veineuse thromboembolique
+
+TIH
+: thrombopénie induite à l'héparine
+
+TVP
+: thrombose veineuse profonde
+
+UI
+: unités internationales
 {.dl-inline}
 
 {{% /collapse %}}

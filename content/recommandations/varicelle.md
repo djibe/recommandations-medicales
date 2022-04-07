@@ -5,8 +5,8 @@ description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-22T12:09:36+01:00"
-publishdate = "2022-04-04"
-lastmod = "2022-04-04"
+publishdate = "2022-04-07"
+lastmod = "2022-04-07"
 specialites = ["pediatrie"]
 annees = "2020"
 sources = ["SPILF", "ANSM"]
@@ -16,13 +16,18 @@ sctid = "38907003"
 flowchart = true
 image = true
 imageSrc = "Lésion vésiculeuse typique de varicelle peu après son apparition. Devient trouble en 1 à 2 jours. Par F malan, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "résumé, vérif co-vaccination ROR"
+todo = "vérif co-vaccination ROR"
 +++
 
 {{%article-summary%}}
 
 - Bénigne uniquement chez les enfants immunocompétents
-- immunité quasi définitive
+- Immunité quasi définitive
+- Rechercher pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans
+- Personne à risque de forme grave: immunodépression (hémopathie, VIH, chimiothérapie), nouveau-né, nouveau-né si mère a débuté éruption 5j avant et 2j suivant l’accouchement, forme grave enfant < 1 an, varicelle compliquée, varicelle chez femme enceinte dont éruption débute 10 jours avant l'accouchement
+- Statut immunitaire de l'entourage et sérologie en urgence si personne à risque de forme grave exposée à la varicelle ou au zona ou personne susceptible d'être vaccinée
+- Pas d'AINS, aspirine ni corticoïdes
+- Pas d'éviction scolaire (*CMIT 2020*)
 
 Voir [Zona]({{< relref "zona.md" >}})
 
@@ -61,7 +66,7 @@ En France, à la différence des autres grands pays, la vaccination contre la va
 ### Abréviations
 
 AAC
-: autorisation d’accès compassionnel (ex *ATU*, autorisation temporaire d'utilisation)
+: autorisation d'accès compassionnel (ex *ATU*, autorisation temporaire d'utilisation)
 
 IV
 : intraveineux
@@ -114,7 +119,7 @@ Sérologie en urgence si personne à risque de forme grave exposée à la varice
 
 Vaccination recommandée sans antécédents de varicelle ou histoire douteuse
 
-1. Adolescents de 12 à 18 ans
+1. Adolescents de 12 à 18 ans  
   << Sérologie peut être pratiquée >>.
 2. Femmes en âge de procréer (projet de grossesse ++) ou après une première grossesse  
   << Sérologie peut être pratiquée >>, test de grossesse et contraception efficace le mois suivant.
@@ -273,13 +278,10 @@ style grossesse stroke:#4150f5, stroke-width:1px
 - [ANSM. Varitect CP. 2021.](https://ansm.sante.fr/tableau-atun/varitect-cp-25-ui-ml-solution-injectable)
 - [CMIT. Infections à herpès virus du sujet immunocompétent. UE6 Item 164. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-164-nb.pdf)
 - [Pinquier D. et al. Vaccin contre la varicelle. Infovac. Avril 2019.](https://www.infovac.fr/docman-marc/public/fiches/1471-fiche-varicelle/file)
+- [Floret D; SFP. Conduite à tenir devant un contage varicelleux chez une femme enceinte ou un nouveau-né. PAP Pédiatrie. 2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/conduite-tenir-devant-un-contage-varicelleux-chez-une-femme-enceinte-ou-un)
 - [HCSP. Avis relatif aux recommandations de vaccination contre la varicelle. Juillet 2007.](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcsp045a20070705_Varicelle.pdf)
 - [SPILF. Prise en charge des infections à VZV. Méd Mal Infect. 1998.](https://www.infectiologie.com/UserFiles/File/medias/_documents/consensus/vzv98.pdf)
 - [Santé Publique France. Varicelle.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-prevention-vaccinale/varicelle)
 - [Ameli. Varicelle](https://www.ameli.fr/assure/sante/themes/varicelle)
-
-### À lire
-
-- [Floret D; SFP. Conduite à tenir devant un contage varicelleux chez une femme enceinte ou un nouveau-né. PAP Pédiatrie. 2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/conduite-tenir-devant-un-contage-varicelleux-chez-une-femme-enceinte-ou-un)
 
 {{%/sources%}}

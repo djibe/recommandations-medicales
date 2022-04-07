@@ -302,12 +302,12 @@ article {
       }
     }
   }
+
+  footer > h2,
   section > h2 {
-    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
-  }
-  footer > h2 {
     border-top: 1px solid rgba(0, 0, 0, 0.12);
   }
+
   section > div > h3 {
     color: var(--primary);
   }

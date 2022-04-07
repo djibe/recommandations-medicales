@@ -52,9 +52,6 @@ HBPM: héparine de bas poids moléculaire
 HNF
 : héparine non fractionnée
 
-LEFt
-: Left Edema First trimester
-
 MI
 : membre inférieur
 
