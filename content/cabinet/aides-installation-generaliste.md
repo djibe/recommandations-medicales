@@ -4,7 +4,7 @@ description = "Les aides de l'Assurance Maladie, des ARS et aides régionales po
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-11-17T20:00:00+02:00
 publishdate = 2021-11-22
-lastmod = 2022-03-11
+lastmod = 2022-04-07
 sources = ["PAPS", "Ameli Pro", "ARS"]
 tags = []
 image = false
@@ -17,15 +17,15 @@ todo = "forfait structure et exonérations fiscales, https://www.ameli.fr/medeci
 {{%collapse "Définitions" %}}
 
 Zone d'intervention prioritaire (ZIP)
-: Commune ou quartier en forte tension médicale (zones les plus déficitaires).
+: Commune ou quartier en forte tension médicale (zones les plus déficitaires). Aides de l'État (ARS) et de l'Assurance Maladie pour s'y installer.
 : Les ZIP sont en jaune [sur la carte Rezone](http://rezone.ameli.fr/rezone/cartoMed.html), les ZAC en bleu clair.
 
 Zone d'action complémentaire (ZAC)
-: Commune ou quartier en tension médicale moyenne.
+: Commune ou quartier en tension médicale moyenne. Aides de l'État uniquement (ARS) pour l'aide à l'installation.
 
 Équipe de soins primaires (ESP)
-: Pour former une ESP, il faut au minimum un médecin généraliste et un professionnel du paramédical.  
-Bien qu'il y ait coordination du parcours santé des patients, l'ESP n'impose pas de travailler sur le même site.
+: Pour former une ESP, il faut au minimum un médecin généraliste et un professionnel paramédical.  
+Vise à favoriser la coordination du parcours de soins (n'impose pas de travailler dans les mêmes locaux).
 : Pour qu'une ESP voit le jour, il faut que l'équipe qui se constitue derrière cette ESP se réunisse autour d'une thématique commune à leur patientèle. Pour se faire, il faut que les professionnels de 1<sup>er</sup> et 2<sup>e</sup> recours aient une partie de patientèle en commun.  
 La forme de coordination qu'est l'ESP est très souple car cette forme de coordination passe à minima par une transmission organisée de l'information.  
 L'ESP est généralement un bon tremplin pour la constitution d'une maison de santé pluridisciplinaire ou d'un centre de santé pluriprofessionnel.  
@@ -52,14 +52,17 @@ En dehors des aides auxquelles ont est en droit de prétendre lorsqu'on travaill
 {{%/collapse%}}
 {{%collapse "Cartes des zones d'installation prioritaires" %}}
 
-Cartographies pour l'aide à l'installation des médecins généralistes avec le zonage et les différentes aides (aide de la région, aide de l'Assurance Maladie ...)
+Cartographies pour l'aide à l'installation des médecins généralistes avec le zonage et les différentes aides (ARS, Assurance Maladie, aide de la région ...)
 
 - [Rézone - les zones sous-denses et les aides par zone](http://rezone.ameli.fr/rezone/cartoMed.html) (pas à jour avec données 2022)
 - [c@rtoSanté](https://cartosante.atlasante.fr/#c=report&chapter=omni&report=r01&selgeo1=dep.92&selgeo2=fra.99)
-- [Zonage ARS Île-de-France](https://santegraphie.fr/mviewer/?config=app/zonage_medecin.xml#)
+- Zonage régional des ARS
+  - [Île-de-France](https://santegraphie.fr/mviewer/?config=app/zonage_medecin.xml#)
 
 {{%/collapse%}}
 {{%collapse "Aides de l'Assurance Maladie" %}}
+
+Aides possibles uniquement pour une installation en ZIP.
 
 ### CAIM: Contrat d'Aide à l'Installation des Médecins
 
@@ -71,7 +74,7 @@ Le médecin généraliste bénéficiaire s'engage à:
 
 1. Participer à la permanence des soins (PDSA)  
   Sauf dérogation du CDOM.
-2. S'installer pour 5 ans en zone sous-dense
+2. S'installer pour 5 ans en ZIP définie par l'ARS
 3. Être installé depuis moins d'un an en libéral en secteur 1 ou 2 OPTAM
 4. Exercer ≥ 2,5 j/semaine
 5. Exercer en groupe, en CPTS ou en ESP  
@@ -96,7 +99,7 @@ Aide annuelle de 5000 € pour encourager la prise en charge coordonnée et la f
 
 Le médecin généraliste bénéficiaire s'engage à:
 
-1. Exercer en groupe, en ESP ou en CPTS en zone sous-dense
+1. Exercer en groupe, en ESP ou en CPTS en ZIP
 2. En secteur 1 ou 2
 3. Pour une durée de 3 ans avec reconduction tacite du contrat
 4. Optionnel: être maître de stage (externe, interne niveau 1) et/ou exercer dans un hôpital de proximité  
@@ -120,9 +123,11 @@ Majoration possible par l'ARS à 6000 €/an + 1500 €/an + 360 €/an.
 {{%/collapse%}}
 {{%collapse "Aides des ARS" %}}
 
+Possibles pour installation en ZIP ou en ZAC.
+
 ### CDE: Contrat de début d'exercice
 
-Faciliter l'installation des médecins généralistes en zone sous-dense.
+Faciliter l'installation des médecins généralistes en zone sous-dense (ZIP ou ZAC).
 
 **Conditions:**
 
