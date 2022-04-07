@@ -123,7 +123,7 @@ Ulcérations pseudo-membraneuses et vésicules de l'hémilangue.
 
 Vaccin vivant: [Zostavax®](https://ec.europa.eu/health/documents/community-register/2019/20191024146373/anx_146373_fr.pdf) (104,74€, remb. 30% SS).
 
-**Indication:** Dose unique en SC de 65 à 74 ans (y compris en antécédents de zona. Calendrier vaccinal).  
+**Indication:** Dose unique en SC de 65 à 74 ans (y compris en antécédents de zona, *Calendrier vaccinal*). Le *GOLD 2022* propose aussi de vacciner en cas de BPCO.  
 **Contre-indication:** grossesse, immunodépression.  
 **Avis de Prescrire®:** Efficacité modeste. Pas d'intérêt à une vaccination systématique.
 

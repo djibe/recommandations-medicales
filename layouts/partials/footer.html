@@ -100,6 +100,11 @@ document.addEventListener( 'DOMContentLoaded', event => {
     const chart2 = new ApexCharts(document.getElementById('chart2'), chartOptions2)
     chart2.render()
   }
+
+  if (document.getElementById('chart3')) {
+    const chart3 = new ApexCharts(document.getElementById('chart3'), chartOptions3)
+    chart3.render()
+  }
 })
 </script>
 {{- end -}}

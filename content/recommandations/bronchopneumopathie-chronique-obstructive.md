@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-03-28T23:07:00+02:00
 publishdate = 2021-04-14
-lastmod = 2022-03-14
+lastmod = 2022-04-07
 specialites = ["pneumologie"]
 annees = "2022"
 sources = ["GOLD", "ERS", "HAS", "SPLF"]
@@ -20,21 +20,21 @@ slider = true
 flowchart = true
 image = true
 imageSrc = "Illustration de la BPCO par Freepik"
-todo = "Tableau 2 SPLF 2021, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24, ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, remboursement RR, flow p.46, travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, fonctionnement et critères mini-spiromètre, relecture maeva.zysman@chu-bordeaux.fr"
+todo = "Tableau 2 SPLF 2021, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24, ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, remboursement RR, flow p.46, travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, fonctionnement et critères mini-spiromètre"
 +++
 
 {{%article-summary%}}
 
-- {{< modal-btn modal-depistage-bpco >}}Dépistage{{< /modal-btn >}} et arrêt du tabac pour tout le monde  
-Principal facteur du déclin du VEMS.
+- {{< modal-btn modal-depistage-bpco >}}Dépistage systématique de la BPCO{{< /modal-btn >}} et arrêt du tabac pour tout le monde (facteur principal du déclin du VEMS)
 - Le diagnostic est spirométrique: trouble ventilatoire obstructif non réversible
 - Le VEMS est le facteur pronostique majeur de la {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
 - 4 piliers du traitement: arrêt du tabac, vaccination covid-19 + grippe + {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, activité physique et réhabilitation respiratoire
-- Bronchodilatateurs selon symptômes et exacerbations ({{< modal-btn modal-score-cat >}}évaluation CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}dyspnée mMRC{{< /modal-btn >}})
-- Bronchodilatateurs: {{< modal-btn modal-ttt-laba >}}BALA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-bdca >}}BDCA de secours{{< /modal-btn >}}. Escalade: {{< modal-btn modal-ttt-laba-lama >}}BALA + LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-csi >}}BALA + CSI{{< /modal-btn >}} > {{< modal-btn modal-ttt-laba-lama-csi >}}BALA + LAMA + CSI{{< /modal-btn >}}
-- EFR de suivi annuelle
+- Évaluer les symptômes et exacerbations: {{< modal-btn modal-score-cat >}}questionnaire CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}mMRC{{< /modal-btn >}} pour déterminer le bronchodilatateur
+- Bronchodilatateurs: {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-bdca >}}BDCA de secours{{< /modal-btn >}}. Escalade: {{< modal-btn modal-ttt-laba-lama >}}LABA + LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}} > {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}
+- EFR/spirométrie de suivi annuelle
 - Prévention cardiovasculaire
-- Voir les [vidéos de formations sur les techniques d'inhalation]({{< relref "bronchopneumopathie-chronique-obstructive.md#fmc-gratuites" >}})
+- EABPCO hospitalisée: réévaluation dans les 7 jours, dans les 2 mois par le pneumologue, réhabilitation
+- [Vidéos des techniques d'inhalation](https://splf.fr/videos-zephir/)
 - La BPCO n'est pas une contre-indication aux bêtabloquants (*ESC 2016 IC*)
 
 {{%/article-summary%}}
@@ -52,7 +52,7 @@ Exacerbation de BPCO (EABPCO)
 : Critères: augmentation de la dyspnée, toux, volume/aspect des expectorations.
 : Définitions (*GOLD 2022*)
     - **Exacerbations fréquentes: ≥ 2 exacerbations/an**  
-    1<sup>er</sup> facteur prédictif de survenue d'EABPCO
+      1<sup>er</sup> facteur prédictif de survenue d'EABPCO.
     - **Exacerbation légère**: résolutive en majorant les {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}
     - **Modérée**: nécessitant {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} + antibiotiques/corticoïdes oraux
     - **Sévère**: passage aux urgences ou hospitalisation
@@ -61,8 +61,8 @@ Bronchite chronique
 : Abandonnée par le GOLD car n'est présente que chez une minorité de patients atteints de BPCO.
 
 Emphysème
-: N'est qu'une petite composante de la BPCO.  
-Le diagnostic est anatomique: élargissement permanent anormal des espaces aériens en-dessous des bronchioles terminales associé à la destruction des parois alvéolaires.
+: Est une composante variable de la BPCO.  
+Le diagnostic est anatomique: élargissement permanent anormal des espaces aériens en-dessous des bronchioles terminales associé à la destruction des parois alvéolaires.  
 2 types d'emphysème mais souvent associés: pan et centro-lobulaire.  
 Surtout révélé par une dyspnée limitant l'activité (< 65 ans +++).
 
@@ -73,9 +73,6 @@ Insuffisance respiratoire chronique
 
 ### Abréviations
 
-BALA
-: bêta2-agoniste de longue durée d'action ({{%lang%}}Long Acting ß2 Agent{{%/lang%}})
-
 BD
 : bronchodilatateur
 
@@ -83,7 +80,7 @@ BDCA
 : bronchodilatateur de courte durée d'action (ß2 ou anticholinergique, *SABD* en anglais)
 
 BDLA
-: bronchodilatateur de longue durée d'action
+: bronchodilatateur de longue durée d'action (ß2 ou anticholinergique, *LABD* en anglais)
 
 BPCO
 : bronchopneumopathie chronique obstructive
@@ -116,7 +113,10 @@ GOLD
 : {{%lang%}}Global Initiative for Chronic Obstructive Lung Disease{{%/lang%}}
 
 LAMA
-: anticholinergique de longue durée d'action ({{%lang%}}Long Acting Muscarinic Agent{{%/lang%}})
+: {{%lang%}}Long Acting ß2 Agent{{%/lang%}}, bêta2-agoniste de longue durée d'action
+
+LAMA
+: {{%lang%}}Long Acting Muscarinic Agent{{%/lang%}}, anticholinergique de longue durée d'action
 
 RR
 : réhabilitation respiratoire (ou *réadaptation respiratoire*)
@@ -127,22 +127,24 @@ VEMS
 
 ### Épidémiologie de la BPCO
 
-3<sup>e</sup> cause mondiale de décès (*OMS*).  
-6% des dépenses de santé européennes.  
-Aux USA: coût estimé de 52,4 milliards de $ annuels (32 directs + 20,4 indirects).
+- 3<sup>e</sup> cause mondiale de décès (*OMS*)
+- 6% des dépenses de santé européennes
+- USA: coût estimé de 52,4 milliards $ annuels (32 directs + 20,4 indirects)
 
 ### En France
 
+{{%info%}}1 seul marqueur de prise en charge optimale sur 7 atteint le seuil de 70% (*HAS 2022*){{%/info%}}
+
 - Prévalence: 7-10% des 40-64 ans (3,5 millions en 2010)
 - Hospitalisations: 100-160.000/an (2017)  
-22,5% des patients hospitalisés ont été ré-hospitalisés.
+  22,5% des patients hospitalisés ont été ré-hospitalisés.
 - Décès: 18.000/an
 - Coût moyen: de 7628€ à 20.747€  
-Coût annuel moyen respectif d'un patient avec BPCO légère et oxygénorequérant.
+  Coût annuel moyen respectif d'un patient avec BPCO légère et oxygénorequérant.
 - Sous-diagnostic: 70% ne seraient pas diagnostiqués
 - 80% des cas dus au tabac
 - Méconnaissance: 22% des français ont déjà entendu parler de BPCO (*[SPF 2017](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)*)  
-Parmi lesquels seulement 1/3 cite le tabac comme cause.
+  Parmi lesquels seulement 1/3 cite le tabac comme cause.
 - Excès de corticothérapie inhalée: 70% des patients dont 35% chez GOLD A et B (*SPLF 2021*)
 
 {{% /collapse %}}
@@ -156,7 +158,7 @@ Dépister par spirométrie toute personne par l'{{< modal-btn modal-depistage-bp
 - Pollution atmosphérique
 - Chauffage bois ou charbon
 - Exposition professionnelle  
-Silice, charbon, moisissures, gaz, vapeurs, fumées.
+  Silice, charbon, moisissures, gaz, vapeurs, fumées.
 - Toux chronique
 - Expectoration fréquente
 - Dyspnée
@@ -186,7 +188,7 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
   Asthme, allergie, atopie, sinusite, polypes du rhinopharynx, infections respiratoires infantiles, hospitalisations pour pathologies respiratoires.
 - Comorbidités  
   - Cardiovasculaires  
-  Coronaropathie, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (8,8%), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (20-70%), [arythmie]({{< relref "fibrillation-atriale.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}})
+    Coronaropathie, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (8,8%), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (20-70%), [arythmie]({{< relref "fibrillation-atriale.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}})
   - Cancers liés au tabac (VADS, vessie, digestifs)
   - Dépression, anxiété, addictions, troubles cognitifs
   - [Ostéoporose]({{< relref "osteoporose.md" >}}) et amyotrophie
@@ -204,7 +206,7 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
   Âge de début, dyspnée, rhumes traînants, bronchites hivernales fréquentes, consommation d'antibiotiques, renoncement à des activités.
 - {{< modal-btn modal-score-mmrc >}}Échelle de dyspnée mMRC{{< /modal-btn >}}
 - Retentissement  
-Limitation des activités, arrêts de travail, activité physique, anxiété/dépression, qualité de vie, vie sexuelle.
+  Limitation des activités, arrêts de travail, activité physique, anxiété/dépression, qualité de vie, vie sexuelle.
 - Entourage
 
 ### Examen clinique
@@ -276,9 +278,9 @@ Scanner faible dose de dépistage de cancer du poumon annuel en BPCO tabagique s
 - Oxygénorequérant
 - Exacerbations antérieures sévères
 - Mauvaise tolérance  
-SpO<sub>2</sub> < 90%, pouls > 110/min, respiration paradoxale, tirage, cyanose.
+  SpO<sub>2</sub> < 90%, pouls > 110/min, respiration paradoxale, tirage, cyanose.
 - Hypercapnie  
-{{< clinique/hypercapnie >}}
+  {{< clinique/hypercapnie >}}
 - Encombrement important, difficultés à la toux
 - Troubles de conscience
 - Anomalies radiologiques ou ECG
@@ -291,17 +293,17 @@ SpO<sub>2</sub> < 90%, pouls > 110/min, respiration paradoxale, tirage, cyanose.
 
 [Carnet de suivi après mon hospitalisation pour BPCO (Prado)](https://www.ameli.fr/node/400222)
 
-- Programme de [retour à domicile Prado](https://www.ameli.fr/medecin/exercice-liberal/services-patients/prado#text_19402)
-L'inclusion est réalisée par l'hôpital.
-- Consultation du médecin traitant dans la semaine, puis 1 mois, 3 mois, 6 mois et 1 an
-- Contrôle de la technique d'inhalation et du traitement par BDLA ({{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-lama >}}association BALA + LAMA{{< /modal-btn >}})
-- Consultation du pneumologue dans le mois (voire 2 mois)  
-{{%class%}}Avec EFR et gaz du sang.{{%/class%}}
+- L'hôpital inclut dans le [programme Prado BPCO](https://www.ameli.fr/medecin/exercice-liberal/services-patients/prado#text_19402)
+- Consultation du médecin traitant dans la semaine  
+  Puis M1, M3, M6 et 1 an.
+- Contrôle de la [technique d'inhalation](https://splf.fr/videos-zephir/) et du traitement par BDLA ({{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-lama >}}association LABA + LAMA{{< /modal-btn >}})
+- Consultation du pneumologue dans les 2 mois  
+  {{%class%}}Avec EFR et gaz du sang.{{%/class%}}
 - Réhabilitation respiratoire dans les 2 à 4 semaines  
-{{%class%}}Diminue la mortalité (50% à 5 ans) et les ré-hospitalisations.{{%/class%}}
+  {{%class%}}Diminue la mortalité (50% à 5 ans) et les ré-hospitalisations.{{%/class%}}
 - Encourager à l'arrêt du tabac (voir *État stable*)
 - Suivi infirmier à domicile
-- Contrôler le PPS
+- Contrôler le Plan d'Action
 - Poursuivre les traitements de l'état stable
 - Recherche et correction d'une [carence en vitamine D]({{< relref "vitamine-d.md" >}}) (*GOLD*)
 
@@ -309,46 +311,46 @@ L'inclusion est réalisée par l'hôpital.
 {{%collapse "Traitement - état stable" %}}
 
 - [ALD n°14]({{< relref "affection-longue-duree.md" >}})  
-Indications: IRespC, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-bpco >}}VEMS < 50%{{< /modal-btn >}}
+  Indications: insuffisance respiratoire chronique, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-bpco >}}VEMS < 50%{{< /modal-btn >}}
 - Arrêt du tabac
   - Principal facteur pronostique
   - Prise en charge optimale (conseil minimal, [substituts]({{< relref "substituts-nicotiniques.md" >}}), [tabac-info-service](https://www.tabac-info-service.fr/), tabacologue, psychothérapie, varénicline)
   - Autres expositions aux toxiques et gaz domestiques et professionnels  
-  Aérosols, combustion de bois ou biomasse, moisissures.
+    Aérosols, combustion de bois ou biomasse, moisissures.
 - Vaccination
   - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) avec la coqueluche
   - Covid-19
   - Grippe annuelle
   - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}} /5 ans si ≥ 65 ans ou comorbidités (cardio-respiratoire)
-  - Zona (*GOLD 2022*)
+  - [Zona]({{< relref "zona.md" >}}) (*GOLD 2022*)
 - Réhabilitation respiratoire
   - Essentielle pour tous pour réduire la dyspnée, le stress et améliorer la qualité de vie
-  - Envisagée dès 1 mois post-hospitalisation, répétée si besoin
+  - Dès 1 mois post-hospitalisation, répétée si besoin
   - [Liste des centres de réhabilitation respiratoire (RR)](https://splf.fr/la-carte-de-la-rehabilitation-respiratoire/)
   - Voire kinésithérapie respiratoire à domicile  
-  Prescrire: "Séances de réadaptation respiratoire kinésithérapique pour maladie respiratoire chronique obstructive".
+    Ordonnance: "Séances de réadaptation respiratoire kinésithérapique pour maladie respiratoire chronique obstructive".
 - Activité physique quotidienne
   - Augmenter le temps de marche quotidien, escaliers, vélo  
-  Favoriser avec podomètre, appli (Google Fit ...)
+    Favoriser avec podomètre, appli (Google Fit ...)
   - [Annuaire pour l'Activité Physique Adaptée (APA)](https://www.sfp-apa.fr/annuaire/)
 - Évaluation nutritionnelle  
-Dont santé bucco-dentaire et diététicien.
+  Dont santé bucco-dentaire et diététicien.
 - Éducation thérapeutique et Plan d'action écrit  
-Systématique, voir le chapitre suivant.
+  Systématique, voir le chapitre suivant.
 - Réévaluation de médicaments bronchoconstricteurs  
   - Ticagrélor, adénosine, latanoprost
   - Absence de contre-indication aux bêtabloquants, préférer biso/méto-prolol ou nébivolol (*ESC 2016 IC*)
-- Observance et techniques de prises de tous les traitements
+- Observance et [techniques de prises](https://splf.fr/videos-zephir/) de tous les traitements
 - Soutien psychologique
 - Personne de confiance
 - Associations de patients  
-[Santé Respiratoire France](https://sante-respiratoire.com/), [FFAAIR](https://www.ffaair.org/), [arairlor](https://arairlor.asso.fr/), [lesouffle](https://www.lesouffle.org/).
+  [Santé Respiratoire France](https://sante-respiratoire.com/), [FFAAIR](https://www.ffaair.org/), [arairlor](https://arairlor.asso.fr/), [lesouffle](https://www.lesouffle.org/).
 - Déclin respiratoire  
-Directives anticipées, [soins palliatifs](http://www.sfap.org/annuaire).
+  Directives anticipées, [soins palliatifs](http://www.sfap.org/annuaire).
 
 ### Bronchodilatateurs
 
-La technique d'inhalation et l'observance sont primordiaux et repris à chaque consultation pour ces traitements symptomatiques.  
+La [technique d'inhalation](https://splf.fr/videos-zephir/) et l'observance sont primordiaux et repris à chaque consultation pour ces traitements symptomatiques.  
 Recherche du traitement minimal efficace.  
 Formes: spray, poudre, brumisateur.
 
@@ -360,11 +362,11 @@ Formes: spray, poudre, brumisateur.
 
 Objectivée par un {{< modal-btn modal-score-cat >}}CAT™ ≥ 10{{< /modal-btn >}} (*GOLD*).
 
-{{< modal-btn modal-ttt-laba >}}BALA{{< /modal-btn >}} systématique. Préférer un {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} en antécédent d'exacerbation.
+{{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} systématique. Préférer un {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} en antécédent d'exacerbation.
 
 Si insuffisant:
 
-- Vérifier l'observance et la technique d'inhalation
+- Vérifier l'observance et la [technique d'inhalation](https://splf.fr/videos-zephir/)
 - Essayer un autre dispositif d'inhalation voire une chambre d'inhalation
 - Changer de classe de bronchodilatateur
 
@@ -374,16 +376,16 @@ Dyspnée sous monothérapie toujours {{< modal-btn modal-score-mmrc >}}mMRC ≥ 
 Choix selon le profil clinique:
 
 - Dyspnée prédominante  
-{{< modal-btn modal-ttt-laba >}}BALA{{< /modal-btn >}} + {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} ({{< modal-btn modal-ttt-laba-lama >}}association BALA+LAMA{{< /modal-btn >}}).
+{{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} + {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} ({{< modal-btn modal-ttt-laba-lama >}}association LABA+LAMA{{< /modal-btn >}}).
 - Exacerbations récurrentes de composante asthmatique (variabilité, atopie)  
-{{< modal-btn modal-ttt-laba-csi >}}BALA + CSI{{< /modal-btn >}}.  
-Arrêt si pneumonie ou autres effets indésirables des corticoïdes et remplacement par {{< modal-btn modal-ttt-laba-lama >}}bithérapie BALA + LAMA{{< /modal-btn >}}.
+{{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}.  
+Arrêt si pneumonie ou autres effets indésirables des corticoïdes et remplacement par {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}}.
 
 **NB.** Sur-risque de pneumonie avec les corticoïdes inhalés.
 
 #### 3<sup>e</sup> intention - Prescription spécialisée
 
-Triple association: {{< modal-btn modal-ttt-laba-lama-csi >}}BALA + LAMA + CSI{{< /modal-btn >}}.  
+Triple association: {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}.  
 Arrêt des corticoïdes si pneumonie ou autres effets indésirables.
 
 Seul le pneumologue peut prescrire une trithérapie ou des nébulisations.  
@@ -406,7 +408,7 @@ Opiacés formellement contre-indiqués.
 ### Arrêt des corticoïdes inhalés
 
 Éléments de la balance bénéfice-risque des CSI: asthme, exacerbations fréquentes, éosinophilie versus pneumonies.  
-Substitution envisagée par {{< modal-btn modal-ttt-laba-lama >}}bithérapie BALA + LAMA{{< /modal-btn >}}.
+Substitution envisagée par {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}}.
 
 {{%info%}}
 Envisager l'arrêt des corticoïdes inhalés en l'absence d'exacerbation modérée à sévère dans l'année (avec suivi rapproché si éosinophiles > 300/mm³), éosinophiles < 300/mm³, pneumonie (ou effet indésirable des CSI)  
@@ -491,7 +493,7 @@ Joindre le courrier détaillé des traitements en cours, contexte social, dernie
 - [Antibiothérapie 5-7 jours](https://antibioclic.com/questionnaire/36) si augmentation du volume ou de la purulence des crachats  
   ECBC en exacerbations fréquentes.
 - Corticothérapie orale si dyspnée invalidante  
-  **Prednisone 40 mg x 1/j pendant 5 jours** (max 7)
+  {{%class "text-primary"%}}Prednisone 40 mg x 1/j pendant 5 jours (max 7){{%/class%}}
 - Avis pneumologique
   - Urgent si: suspicion de germe résistant, récidive d'exacerbation, nébulisations
   - Réévaluation systématique à distance de l'exacerbation
@@ -540,7 +542,7 @@ IMC (< 21), perte de poids, santé bucco-dentaire.
   - Nombre d'exacerbations annuelles
   - Nombre d'hospitalisations
   - Dates des stages de réhabilitation respiratoire
-  - Traitements en cours et technique
+  - Traitements en cours et [technique d'inhalation](https://splf.fr/videos-zephir/)
   - SpO<sub>2</sub>
   - Gaz du sang annuel si {{< modal-btn modal-severite-bpco >}}GOLD 4{{< /modal-btn >}}
   - Limitation des activités  
@@ -558,11 +560,11 @@ graph TB
     depister --> spirometrie("- Spirométrie avec test de réversibilité<hr>- Évaluation dyspnée: CAT&trade;, échelle mMRC<br>- NFS, glycémie, lipides, Radio thorax<br>- Consultations pneumo et cardio")
       spirometrie -- TVO non réversible --> rhd("<strong>Mesures générales</strong><hr>- Sevrage tabagique<br>- Vaccin covid-19, grippe, pneumo<br>- Activité physique<br>- Réadaptation respiratoire<br>- Équilibre diététique<br>- Traitement des comorbidités")
         rhd --> bdca("Bronchodilatateur de courte durée<br>en cas de gêne")
-          bdca -- "Dyspnée ou exacerbation*" --> bdla("1 bronchodilatateur de longue durée<br>BALA ou LAMA en cas d'exacerbations")
-            bdla -- Dyspnée --> bitherapie(Association BALA + LAMA)
+          bdca -- "Dyspnée ou exacerbation*" --> bdla("1 bronchodilatateur de longue durée<br>LABA ou LAMA en cas d'exacerbations")
+            bdla -- Dyspnée --> bitherapie(Association LABA + LAMA)
               bitherapie -. "Dyspnée &plusmn; exacerbations*" .-> avis(Avis pneumologue)
             bdla -- "Dyspnée et exacerbations*" --> bitherapie
-            bdla -- Exacerbations*+ --> csi(BALA + CSI)
+            bdla -- Exacerbations*+ --> csi(LABA + CSI)
               csi -. Effets indésirables .-> bitherapie
       spirometrie -- Diagnostic différentiel --> differentiel("- Asthme<br>- Cancer du poumon<br>- Tuberculose<br>- DDB et emphysème<br>- Insuff. cardiaque<br>- Pneumopathie interstitielle<br>- Mucoviscidose<br>- Idiopathique")
 {{< /mermaid >}}
@@ -572,10 +574,10 @@ graph TB
 *Cliquer sur le lien pour afficher le détail*  
 {{< modal-btn modal-score-cat >}}Évaluation CAT™{{< /modal-btn >}} et {{< modal-btn modal-score-mmrc >}}échelle de dyspnée mMRC{{< /modal-btn >}}  
 {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} = bronchodilatateur de courte durée d'action  
-{{< modal-btn modal-ttt-laba >}}BALA{{< /modal-btn >}} = bêta2-agoniste de longue durée d'action  
+{{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} = bêta2-agoniste de longue durée d'action  
 {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} = anticholinergique de longue durée d'action  
-{{< modal-btn modal-ttt-laba-lama >}}Associations BALA + LAMA{{< /modal-btn >}}  
-{{< modal-btn modal-ttt-laba-csi >}}BALA + CSI{{< /modal-btn >}} = BALA + corticoïdes inhalés
+{{< modal-btn modal-ttt-laba-lama >}}Associations LABA + LAMA{{< /modal-btn >}}  
+{{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}} = LABA + corticoïdes inhalés
 
 {{%/collapse%}}
 {{%collapse "Information du patient BPCO" %}}
@@ -592,7 +594,7 @@ graph TB
 - Intérêt du traitement médicamenteux et de sa gestion optimale
   - Compréhension de l'action des médicaments
   - Enjeu de la bonne adhésion aux traitements prescrits
-  - Bonne technique d'utilisation des dispositifs d'inhalation
+  - Bonne [technique d'utilisation des dispositifs d'inhalation](https://splf.fr/videos-zephir/)
 - Importance des vaccinations
 - Alimentation équilibrée adaptée aux besoins nutritionnels
 - Évolution de sa maladie: risque de comorbidités et de complications
@@ -604,11 +606,9 @@ graph TB
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
 
+{{< card-link title="Vidéos pour la maîtrise des inhalateurs" url="https://splf.fr/videos-zephir/" subtitle="par la SPLF">}}
+
 {{< video poster="https://splf.fr/wp-content/uploads/2021/05/Webinaire-2021-05-26-1300-500.png" mp4="https://dts.podtrac.com/redirect.mp4/docs.splf.fr/videos/Webinaires/2021/Webinaire-SPLF-2021-05-26.mp4" description="Webinaire SPLF/Groupe BPCO Optimisation du traitement médicamenteux des patients atteints de BPCO en état stable" width="768" height="432" >}}
-
-### Technique d'inhalation des bronchodilatateurs
-
-**[SPLF: vidéos pour la maîtrise des inhalateurs](https://splf.fr/videos-zephir/)**
 
 {{% /collapse %}}
 {{%sources%}}
@@ -669,7 +669,7 @@ graph TB
 {{< traitements/laba-lama >}}
 
 {{% /modal %}}
-{{% modal title="Associations BALA et CSI" id="modal-ttt-laba-csi"%}}
+{{% modal title="Associations LABA et CSI" id="modal-ttt-laba-csi"%}}
 
 {{< traitements/laba-csi >}}
 

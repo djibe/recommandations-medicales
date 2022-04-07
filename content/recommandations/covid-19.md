@@ -7,7 +7,7 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
-lastmod = 2022-02-27
+lastmod = 2022-04-07
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HCSP", "MinSante", "HAS"]
@@ -25,7 +25,8 @@ imageSrc = "La Covid-19 par stories / Freepik"
 - Page servant uniquement à stocker quelques mémos
 - [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire) et [règles d'isolement du 3/1](https://www.ameli.fr/medecin/actualites/covid-19-les-regles-d-isolement-evoluent)
 - Rappel vaccinal à 3 mois (max 4, et 12-17 ans fragiles), décalé à 4 mois (min 2, 6 avant le 15/2/22) si infection Covid (*HAS 24/12, 25/11 et 19/11*)  
-[Mon Rappel vaccin Covid](https://monrappelvaccincovid.ameli.fr/maintenance)
+  [Mon Rappel vaccin Covid](https://monrappelvaccincovid.ameli.fr/)
+- 2e rappel si +80 ans ou immunodéprimé à M3 et 60-79 ans à M6
 - Passe vaccinal frauduleux désirant se faire vacciner, orienter vers un centre de vaccination (*[CNOM 23/02](https://www.conseil-national.medecin.fr/publications/actualites/rectification-vaccinal-frauduleux)*)
 - Indications du Paxlovid, voir *Antiviraux*
 
@@ -71,35 +72,28 @@ Risque démultiplié de forme grave si polypathologique. Doit tenir compte des c
 {{< clinique/covid-forme-grave >}}
 
 <details>
-  <summary><h3 class="typography-headline-6">Personnes à risque de forme grave selon <em>HCSP 14/11/2020</em></h3></summary>
+  <summary><h3 class="typography-headline-6">Personnes à risque de forme grave selon <em>HAS Janvier 2022</em></h3></summary>
 
-- Très haut risque de forme grave (RR > 5)
-  - Âge ≥ 70 ans
-  - Trisomie 21 (surtout ≥ 40 ans)
-  - Greffe de moelle ou de cellules souches hématopoïétiques
+- Très haut risque de forme grave (RR > 3)
   - Chimiothérapie active
-  - Dialyse ou greffe rénale
-  - Démence
-  - Paralysie cérébrale
-- Haut risque de forme grave (RR 3-5)
-  - Diabète type 1
-  - Drépanocytose
-  - Déficit immunitaire combiné sévère
-- Risque significatif de forme grave (RR 1-3)
-  - Âge ≥ 65 ans  
-  De 60 à 65 ans: sur-risque significatif.
-  - Antécédents cardiovasculaires  
-  HTA compliquée (complications cardiaques, rénales et vasculo-cérébrales),  AVC ou coronaropathie, chirurgie cardiaque, insuffisance cardiaque NYHA III ou IV.
-  - Diabète type 2
-  - Pathologie respiratoire chronique  
-  BPCO, asthme sévère, fibrose pulmonaire, apnées du sommeil, mucoviscidose.
+  - Dialyse
+  - Greffé (organe ou CSH)
+  - ≥ 2 insuffisances d'organes
+  - Maladies rares (listées dans *HAS Annexe 2*)
+  - Trisomie 21
+- Haut risque de forme grave (RR 1,5-3)
+  - Diabète type 1 et 2
   - Obésité
-  - Cirrhose ≥ stade B
-  - Immunodépression congénitale ou acquise
-  - Antécédent de splénectomie
-  - Maladies du motoneurone, myasthénie grave, SEP, Parkinson, paralysie cérébrale, quadriplégie  ou hémiplégie, tumeur maligne primitive cérébrale, maladie cérébelleuse progressive.
+  - Cancer ou hémopathie en cours de traitement
+  - BPCO et insuffisance respiratoire
+  - Insuffisance cardiaque
+  - Hypertension artérielle compliquée  
+    Complications cardiaques, rénales et vasculo-cérébrales.
+  - Hépatopathie chronique (cirrhose ++)
+  - Pathologie psychiatrique
+  - Démence
+  - Antécédent d'AVC
   - Grossesse
-  - Maladie rare
 
 </details>
 
@@ -201,6 +195,7 @@ Atteintes possibles après une infection à Sars-Cov-2.
 
 ### Autres
 
+- [HAS. Réponse rapide dans le cadre du COVID-19 Traitement par antiviral des patients à risque de forme grave de la Covid-19. Janvier 2022.](https://www.has-sante.fr/upload/docs/application/pdf/2022-01/reco458_fiche_rr_paxlovid_mel.pdf)
 - [HAS. Stratégie de vaccination contre le Sars-Cov-2. 01/03/2021.](https://www.has-sante.fr/upload/docs/application/pdf/2021-03/actualisation_des_facteurs_de_risque_de_formes_graves_de_la_covid-19_et_des_reco_sur_la_strategie_de_priorisation_des_popula.pdf)
 - [Journal Officiel. Arrêté du 24 juillet 2020 modifiant l'arrêté du 10 juillet 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de covid-19 dans les territoires sortis de l'état d'urgence sanitaire et dans ceux où il a été prorogé. 25/07/2020](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000042148309&categorieLien=id)
 - [Académie nationale de Médecine. Avis: Les séquelles de la Covid-19. 15/07/2020](http://www.academie-medecine.fr/wp-content/uploads/2020/07/Se%CC%81quelles-Avis.pdf)

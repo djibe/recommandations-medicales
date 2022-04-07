@@ -10,7 +10,7 @@ sources = []
 tags = []
 image = false
 imageSrc = ""
-todo= "écrans, webcam creative live! cam sync 1080p 50€ | i3 10100 ou 12100 | écran ViewSonic XG2705-2K, AOC 27G2U, Iiyama GB2766HSU-B1"
+todo= "webcam creative live! cam sync 1080p 50€ | i3 10100 ou 12100 | écran ViewSonic XG2705-2K, AOC 27G2U, Iiyama GB2766HSU-B1 | logitech mx keys ou mk470"
 +++
 
 L'ordinateur (PC ou Mac) est essentiel au sein du cabinet du médecin afin de gérer à long terme le suivi des patients. Il permet également l'accès aux outils de productivité comme Ameli Pro. Bref, il est vital. Et pourtant, sans aucune connaissance préalable, on vous vendra ce qui rapporte, pas ce dont vous avez besoin.

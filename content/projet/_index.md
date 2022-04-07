@@ -6,7 +6,7 @@ breadcrumbTitle = "Projet"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-06T09:56:35+02:00"
 publishdate = "2021-07-07"
-lastmod = "2022-01-16"
+lastmod = "2022-04-07"
 chart = true
 +++
 
@@ -516,6 +516,32 @@ const chartOptions2 = {
 
 > *≥ 1 examen réalisé dans l'année pour chaque item (3 pour l'HbA<sub>1c</sub>)*  
 Proportion de personnes diabétiques traitées pharmacologiquement ayant bénéficié des examens de suivi recommandés, France entière, 2001, 2007 et 2013. Dr JB Fron d'après *[Fosse-Edorh 2015](https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/documents/article/suivi-des-examens-recommandes-dans-la-surveillance-du-diabete-en-france-en-2013)* et *[Entred 2001-2003](https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/articles/etude-entred-2001-2003)*
+
+<div id="chart3" class="border alert mt-5"></div>
+<script>
+const chartOptions3 = {
+  series: [{
+    name: '2022',
+    data: [21.3, 52.7, 34.2, 41.9, 30.9, 74, 31.1]
+  }],
+  theme: { monochrome: { enabled: true }},
+  fill: { opacity: 0.6 },
+  markers: { size: 2, hover: {
+        size: 5
+      } },
+  chart: { height: 360, type: 'radar' },
+  title: { text: 'Parcours de soins de la BPCO' },
+  xaxis: {
+    categories: ['Dépistage', 'Vaccin grippe', 'Spirométrie', 'Cs J7', 'Cs J60', 'BDLA', 'Réhabilitation'],
+    labels: {
+      style: { colors: ['#757575', '#757575', '#757575', '#757575', '#757575', '#757575', '#757575'] }
+    }
+  }
+}
+</script>
+
+> Indicateurs: Taux de dépistage des personnes à risque, couverture vaccinale antigrippale annuelle, spirométrie ou EFR annuelle. Après hospitalisation pour exacerbation de BPCO: suivi dans les 7 jours, réévaluation pneumologique dans les 2 mois, bronchodilatateur de longue durée, recours à la réhabilitation respiratoire  
+Dr JB Fron d'après [HAS 04/2022](https://www.has-sante.fr/upload/docs/application/pdf/2022-04/iqss_2022_-_indicateurs_bpco_developpement-_synthese_mars_2022.pdf)
 
 ### Un texte ne suffit pas
 
