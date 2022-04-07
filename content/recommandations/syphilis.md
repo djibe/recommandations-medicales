@@ -162,7 +162,7 @@ Nombreux diagnostics différentiels, c'est pourquoi on appelle la syphilis la "g
 - Leucémie aiguë
 - Lichen
 - Psoriasis et parapsoriasis en goutte
-- Varicelle
+- [Varicelle]({{< relref "varicelle.md" >}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

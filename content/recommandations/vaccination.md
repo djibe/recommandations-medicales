@@ -161,15 +161,14 @@ Ne pas injecter dans un site si celui-ci présente:
 
 Le don du sang est contre-indiqué durant quatre semaines après les vaccinations suivantes:
 
-- Fièvre jaune
+- [Fièvre jaune]({{< relref "fievre-jaune.md" >}})
 - Oreillons
 - Poliomyélite (vaccin oral)
-- Rougeole
 - ROR
 - Variole
-- Varicelle
-- Zona
-- Tuberculose (BCG)
+- [Varicelle]({{< relref "varicelle.md" >}})
+- [Zona]({{< relref "zona.md" >}})
+- [Tuberculose]({{< relref "tuberculose.md" >}}) (BCG)
 - Choléra (CVD 103-HgR)
 
 {{% /collapse %}}

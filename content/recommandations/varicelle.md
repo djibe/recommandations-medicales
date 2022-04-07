@@ -1,7 +1,7 @@
 +++
 title = "Varicelle"
 prefix = "la "
-description = "TODO:"
+description = "Recommandations pour la prise en charge de la varicelle. Personne à risque, indication à la vaccination, à l'antiviral aciclovir et aux immunoglobulines ant-VZV"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-22T12:09:36+01:00"
@@ -184,8 +184,8 @@ Recommandations pour la prise en charge de la varicelle:
 - Anti-histaminique anti-cholinergique
   - Aucun disponible chez < 2 ans
   - Méquitazine sirop (Primalan®)  
-  10-40 kg: 1,25 mg/5 kg/j en 1 ou 2 prises par jour  
-  Comprimés au-delà.
+    10-40 kg: 1,25 mg/5 kg/j en 1 ou 2 prises par jour  
+    Comprimés au-delà.
   - Hydroxyzine ≥ 3 ans: sirop 1 mg/kg/j
 
 **NB.** Aucun autre produit (talc, pommade, gel) ne doit être appliqué

@@ -6,16 +6,16 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-14T19:48:41+02:00
 publishdate = 2020-11-16
-lastmod = 2022-03-25
+lastmod = 2022-04-07
 specialites = ["dermatologie", "infectiologie", "ophtalmologie"]
-annees = "1998"
+annees = "2020"
 sources = ["SPILF"]
 tags = ["vaccin", "zona"]
 anglais = ["Herpes zoster"]
 sctid = "4740000"
 image = true
 imageSrc = "Photo d'un zona thoracique par Gzzz, CC BY-SA 4.0"
-todo = "flowchart, collège/Pilly"
+todo = "flowchart"
 +++
 
 {{%article-summary%}}
@@ -23,15 +23,16 @@ todo = "flowchart, collège/Pilly"
 - Valaciclovir 1 g x 3/j 7 jours si:  
   Ophtalmique, > 50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs +++ en phase aiguë, lésions cutanées graves)
 - Hospitalisation en urgence si immunodéprimé, atteinte organique ou PFP zostérienne
-- Vaccination de 65 à 74 ans
+- Vaccination post-exposition (varicelle) si ≥ 12 ans immunocompétent sans antécédent de varicelle en contact avec un cas de zona, après sérologie
+- Vaccination zona de 65 à 74 ans
 - PCR VIH si adulte < 50 ans
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Zona
-: Réactivation du virus de la varicelle VZV dans le ganglion sensitif où il reste quiescent avec apparition de vésicules et douleurs dans le dermatome correspondant.
-: Complications liées aux [douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}) séquellaires et au pronostic visuel en **zona ophtalmique**.
+: Réactivation du virus [varicelle]({{< relref "varicelle.md" >}})-zona (VZV) dans le ganglion sensitif où il reste quiescent avec apparition de vésicules et douleurs dans le dermatome correspondant.
+: Complications liées aux [douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}) séquellaires, au pronostic visuel en **zona ophtalmique** et aux formes de l'immunodéprimé.
 
 Zona et personne immunodéprimée
 : Intérêt d'éduquer les patients à la reconnaissance des symptômes.  
@@ -65,31 +66,34 @@ VZV
 Les complications du zona surviennent principalement chez l'immunodéprimé et la personne âgée.
 
 - **Algies post-zostériennes +++**  
-{{%class%}}50% à 50 ans, 70% après 70 ans.{{%/class%}}
+  {{%class%}}50% à 50 ans, 70% après 70 ans.{{%/class%}}
 - Zona généralisé
 - Zona hémorragique
 - Atteinte viscérale  
-Pulmonaire, hépatique, encéphalique.
+  Pulmonaire, hépatique, encéphalique.
 - Zona ophtalmique  
-Kératite aiguë et cécité.
+  Kératite aiguë et cécité.
 - Paralysie faciale périphérique  
-Douleurs, récidives et 50 à 85% de parésie séquellaire.
+  Douleurs, récidives et 50 à 85% de parésie séquellaire.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 - Antécédents de varicelle et d'épisode de zona
 - Rechercher une immunodépression
+- Phase prodromique
+  - Douleurs précèdent l'éruption
+  - Paresthésies, brûlures et troubles sensitifs du dermatome
 - Signes cutanés
   - Date de début de l'éruption
-  - Éruption vésiculeuse systématisée à un dermatome
+  - Éruption érythémateuse rose vif, puis vésiculeuse en bouquets systématisée à un dermatome (unilatérale ++)
+  - Poussées successives sur 2 à 3 semaines
   - Risque de surinfection des lésions
   - Évolution des lésions en croûtes en 7-10 jours qui disparaissent en 1 mois avec parfois des cicatrices
 - Douleurs du dermatome  
   Quasi constantes en phase aiguë. Risque de chronicisation des douleurs neuropathiques.
 - Zona ophtalmique  
   Surtout patient > 50 ans, fréquentes complications oculaires et douleurs chroniques.
-- Paralysie faciale périphérique
 
 {{%warning%}}
 Facteurs prédictifs d'algies post-zostériennes:
@@ -102,16 +106,33 @@ Facteurs prédictifs d'algies post-zostériennes:
 
 {{%/warning%}}
 
+### Zona du ganglion géniculé
+
+Douleurs auriculaires de la zone de Ramsay Hunt (tympan, conduit auditif externe et conque du pavillon).  
+Paralysie faciale périphérique avec éruption des 2/3 antérieurs de l'hémilangue homolatérale.  
+Parfois troubles auditifs ou vertiges.
+
+### Zona bucco-pharyngé
+
+Ulcérations pseudo-membraneuses et vésicules de l'hémilangue.
+
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-### Vaccination
+### Vaccination zona
 
 Vaccin vivant: [Zostavax®](https://ec.europa.eu/health/documents/community-register/2019/20191024146373/anx_146373_fr.pdf) (104,74€, remb. 30% SS).
 
 **Indication:** Dose unique en SC de 65 à 74 ans (y compris en antécédents de zona. Calendrier vaccinal).  
 **Contre-indication:** grossesse, immunodépression.  
 **Avis de Prescrire®:** Efficacité modeste. Pas d'intérêt à une vaccination systématique.
+
+### Vaccination post-exposition
+
+Vaccination post-exposition: âge ≥ 12 ans immunocompétent sans antécédent de varicelle, en contact avec un cas de [varicelle]({{< relref "varicelle.md" >}}) ou de zona.  
+Sérologie varicelle en urgence. La vaccination varicelle doit avoir lieu dans les 3 jours suivant le contact.
+
+> *Calendrier vaccinal 2021*
 
 ### Information des personnes immunodéprimées
 
@@ -125,7 +146,7 @@ Informer sur la nécessité de consultation immédiate en cas de survenue de br�
 {{%warning%}}Hospitalisation en cas d'immunodépression ou d'atteinte organique.{{%/warning%}}
 
 - Antalgie palier 1 ± 2 ou 3  
-et application de glace
+  et application de glace
 - Mesures d'hygiène
   - Lavage fréquent des mains
   - Couvrir les lésions avec des pansements humides
@@ -135,12 +156,12 @@ et application de glace
 - Réévaluation clinique régulière
 - Éviter le contact avec les femmes enceintes non immunisées et immunodéprimées
 - Si surinfection cutanée  
-Antibiothérapie per os cloxacilline.
+  Antibiothérapie per os cloxacilline.
 - PCR VIH si < 50 ans
 
-{{%info%}}Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anesthésiques, antiprurigineux) ne doit être appliqué.{{%/info%}}
+{{%info%}}Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anesthésiques, antiprurigineux) ne doit être appliqué{{%/info%}}
 
-**NB**. Pas de bénéfice prouvé des antiH1 sur le prurit au cours d'un zona.
+**NB**. Pas de bénéfice prouvé des anti-H1 sur le prurit au cours d'un zona.
 
 ### Antiviral
 
@@ -203,15 +224,12 @@ Détail dans le [chapitre Douleurs neuropathiques]({{< relref "douleur-neuropath
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - Prescrire Redaction. Zona. L'essentiel sur les soins de premier choix. Premiers choix Prescrire. Mars 2021.
 - Prescrire Redaction. Douleurs post-zostériennes. Premiers choix Prescrire. Avril 2021.
+- [CMIT. Infections à herpès virus du sujet immunocompétent. UE6 Item 164. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-164-nb.pdf)
 - [SFORL. Prise en charge de la Paralysie Faciale Idiopathique à la phase aiguë chez l'adulte. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-de-la-Paralysie-Faciale-Idiopathique-%C3%A0-la-phase-aigu%C3%AB-chez-l-adulte-2020.pdf)
-- {{< references/calendrier-vaccinal >}}
 - [CEDEF. Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 - UE 6. 2017.](https://undf.cedef.org/fr/document/Infections-%C3%A0-herp%C3%A8s-virus-du-sujet-immunocomp%C3%A9tent)
 - [SPILF. Prise en charge des infections à VZV. Méd Mal Infect. 1998. (PDF)](https://www.infectiologie.com/UserFiles/File/medias/_documents/consensus/vzv98.pdf)
-
-### À lire
-
-[CMIT. Infections à herpès virus du sujet immunocompétent. UE6 Item 164. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-164-nb.pdf)
 
 {{%/sources%}}

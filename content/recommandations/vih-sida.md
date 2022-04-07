@@ -436,7 +436,7 @@ Palpation des aires ganglionnaires au moins 1/an.
 
 - ROR  
   Contrôle sérologique préalable ± ßHCG. 2 injections à M0M2.
-- Varicelle  
+- [Varicelle]{{< relref "varicelle.md" >}}  
   Contrôle sérologique préalable. 2 injections à M0M2.
 - [Fièvre jaune]({{< relref "fievre-jaune.md" >}})  
   Séjour en Guyane.
