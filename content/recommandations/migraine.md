@@ -185,7 +185,7 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
 ### Interrogatoire
 
 - Antécédents  
-Familiaux, autres douleurs...
+  Familiaux, autres douleurs...
 - Alcool, tabac
 - Risques de chronicisation
   - Rechercher un syndrome anxieux/dépressif ({{< modal-btn modal-had >}}échelle HAD{{< /modal-btn >}})
@@ -200,7 +200,7 @@ Familiaux, autres douleurs...
   - Prodromes et signes associés avant-pendant-après
   - Aura
   - Facteurs déclenchants identifiés  
-  Menstruations, alcool. Souvent confondus avec les prodromes (osmophobie, phonophotophobie).
+    Menstruations, alcool. Souvent confondus avec les prodromes (osmophobie, phonophotophobie).
 - Critères diagnostiques ICHD-3 (voir chapitre dédié)
 - Antimigraineux
   - Traitements déjà essayés, crise/fond, efficacité, observance, tolérance, doses, durées, raison de l'arrêt
@@ -208,9 +208,9 @@ Familiaux, autres douleurs...
 - Traitements non médicamenteux
 - Évaluer le handicap migraineux
   - **Agenda migraineux** (date, durée, intensité, facteur déclenchant, traitements essayés, [modèle](https://www.sfemc.fr/images/docs_SFEMC/docs_PATIENTS/patients-AGENDA-DE-LA-MIGRAINE-def.pdf))  
-  Reconsulter lorsque traitement pris ≥ 2 jours/semaine depuis ≥ 3 mois.
+    Reconsulter lorsque traitement pris ≥ 2 jours/semaine depuis ≥ 3 mois.
   - Qualité de vie: {{< modal-btn modal-hit6 >}}échelle HIT-6{{< /modal-btn >}}  
-  Reprendre à chaque consultation l'impact sur la vie quotidienne.
+    Reprendre à chaque consultation l'impact sur la vie quotidienne.
 - Femme: désir de grossesse, [contraception]({{< relref "contraception.md" >}}), [ménopause]({{< relref "menopause.md" >}})
 
 ### Examen clinique
@@ -230,7 +230,7 @@ Indications:
 
 - Apparition après 50 ans
 - Aura atypique  
-Début brutal, prolongé > 1 heure, latéralité fixe, absence de symptômes visuels.
+  Début brutal, prolongé > 1 heure, latéralité fixe, absence de symptômes visuels.
 - Migraine chronique (≥ 15 j/mois) depuis < 1 an
 - Examen clinique anormal
 - En urgence
@@ -262,15 +262,15 @@ Ne pas culpabiliser l'abus médicamenteux en migraine chronique (effet délétè
 ### Hygiène de vie
 
 - Arrêt du tabac obligatoire  
-{{%class%}}Décuple le risque d'AVC.{{%/class%}}
+  {{%class%}}Décuple le risque d'AVC.{{%/class%}}
 - Éviter les facteurs déclenchants identifiés  
-Habituels: facteur alimentaire, alcool, manque de sommeil/grasse matinée, stress, jeûne, chaleur, changements de climat.
+  Habituels: facteur alimentaire, alcool, manque de sommeil/grasse matinée, stress, jeûne, chaleur, changements de climat.
 - Activité physique d'endurance régulière
 - Hydratation adaptée
 - Évolution du handicap migraineux (voir *Clinique*)
 - Nausées invalidantes ou vomissements: anti-émétiques recommandés
 - Stress, anxiété, retentissement  
-Relaxation, biofeedback, TCC, thérapie de pleine conscience.
+  Relaxation, biofeedback, TCC, thérapie de pleine conscience.
 
 {{%warning%}}Aura = contre-indication aux contraceptions estroprogestatives{{%/warning%}}
 
@@ -285,7 +285,7 @@ Prendre dès le début des symptômes (avoir sur soi et prise dans l'heure):
 - Crise légère: ibuprofène 400 mg. Prendre le triptan si persistance des douleurs 1 heure après
 - Crise modérée à sévère: élétriptan 20 mg. Prendre l'ibuprofène 1 heure après si persistance des douleurs
 
-Consigner dans l''*agenda migraineux*. {{< modal-btn modal-mtoq >}}Reconsulter après 3 crises{{< /modal-btn >}}
+Consigner les prises dans l'*agenda migraineux*. {{< modal-btn modal-mtoq >}}Reconsulter après 3 crises{{< /modal-btn >}}
 
 {{%/info%}}
 
@@ -296,7 +296,7 @@ Prescrire AINS et triptan selon les traitements déjà essayés et préférences
 - Aura: AINS d'emblée et attendre le début de la céphalée pour prendre le triptan
   - Contre-indication aux estrogènes
   - Pas de traitement médicamenteux spécifique contre l'aura
-- Mal tolérés: aspirine > paracétamol + métoclopramide
+- AINS et triptan mal tolérés: essayer aspirine voire paracétamol + métoclopramide
 
 #### Traitements disponibles
 
@@ -304,16 +304,11 @@ Prescrire AINS et triptan selon les traitements déjà essayés et préférences
 
 Max 14 j/mois et 8 j/mois si associés (caféine ou métoclopramide).
 
-- Paracétamol 1g
-- Paracétamol + caféine 500/50 (efficacité comparable sumatriptan)  
-  Algodol, Céfaline hauth, Claradol caféine, Prontad, Actron (+ aspirine).
-- Paracétamol + métoclopramide (efficacité comparable sumatriptan)
 - AINS  
   - Ibuprofène, kétoprofène, naproxène ou diclofénac, flurbiprofène
   - Essai suppositoire si mal toléré (kétoprofène, naproxène, diclofénac)
-- Aspirine 1g (± métoclopramide Migpriv)
 - Nausées et vomissements  
-Métoclopramide 10 mg voire dompéridone 10 mg sont efficaces.
+  Métoclopramide 10 mg voire dompéridone 10 mg sont efficaces.
 
 {{%info%}}Ne pas utiliser les opiacés: aggravent les nausées, risque de céphalées par abus médicamenteux et mésusage{{%/info%}}
 
@@ -345,6 +340,19 @@ On parle de résistance après échec sur ≥ 3 crises de ≥ 2 traitements essa
 #### Pour en savoir plus: traitement non pharmacologique de crise
 
 Efficacité prouvée: Neuromodulation électrique. Sur prescription spécialisée uniquement.
+
+### Pour en savoir plus: autres traitements non spécifiques
+
+- Paracétamol 1g
+- Paracétamol + caféine 500/50 (efficacité comparable sumatriptan)  
+  Ex: Algodol, Céfaline hauth, Claradol caféine, Prontad, Actron (+ aspirine).
+- Paracétamol + métoclopramide (efficacité comparable sumatriptan)
+- AINS  
+  - Ibuprofène, kétoprofène, naproxène ou diclofénac, flurbiprofène
+  - Essai suppositoire si mal toléré (kétoprofène, naproxène, diclofénac)
+- Aspirine 1g (± métoclopramide Migpriv)
+- Nausées et vomissements  
+Métoclopramide 10 mg voire dompéridone 10 mg sont efficaces.
 
 {{% /collapse %}}
 {{%collapse "Traitement de fond de la migraine" %}}

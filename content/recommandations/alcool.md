@@ -7,22 +7,22 @@ synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
 publishdate = "2022-01-11"
-lastmod = "2022-03-15"
+lastmod = "2022-04-11"
 specialites = ["addictologie"]
 annees = "2021"
 sources = ["HAS", "SFA"]
 tags = ["depistage"]
-anglais = []
-sctid = ""
+anglais = ["Alcoholism"]
+sctid = "7200002"
 image = true
 imageSrc = "Les verres d'alcool standards par Alcool-Info-Service"
-todo = "KEY x3 sevrage ambulatoire | x2 syndrome de sevrage, symptômes de sevrage | médicaments, sevrage de l'alcool, entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, centres de cure, bilan des complications"
+todo = "KEY x3 sevrage ambulatoire | x2 syndrome de sevrage, symptômes de sevrage | médicaments, sevrage de l'alcool, entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, bilan des complications"
 +++
 
 {{%article-summary%}}
 
 1. Repérage: consommation moyenne par jour, fréquence mensuelle de consommation ≥ 6 verres, autres toxiques (voir *Dépistage*)
-2. Évaluation: score AUDIT-C ou FACE d'un mésusage, comorbidités (voir *Évaluation*)
+2. Évaluation: score AUDIT-C ou FACE d'un mésusage et recherche de comorbidités (voir *Évaluation*)
 3. Intervention brève
 4. Dépistage des complications
 
@@ -32,7 +32,7 @@ todo = "KEY x3 sevrage ambulatoire | x2 syndrome de sevrage, symptômes de sevra
 - Accepter l'objectif de consommation du sujet car toute réduction de consommation est positive. + efficace: auto-évaluation quotidienne de la consommation
 - Abstinence est préférable en dépendance à l'alcool ou comorbidités. Si non souhaitée, accompagnement vers la réduction des dommages
 
-Pour la pratique: [Alcool Info Service](https://www.alcool-info-service.fr/) ou {{<phone>}}0 980 980 930{{</phone>}}, [liste des CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html)
+Pour la pratique: [Alcool Info Service](https://www.alcool-info-service.fr/) ou {{<phone>}}0 980 980 930{{</phone>}}, [liste des CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html) et [Annuaire des centres de soins](https://www.addictaide.fr/annuaire/)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -225,8 +225,8 @@ Rechercher les complications d'un mésusage de l'alcool et proposer un suivi sp�
 Le bilan biologique est annuel:
 
 - NFS
-- ASAT ALAT GGT PAL TP
-- Sérologies hépatite B et hépatite C
+- ASAT, ALAT, GGT, PAL, TP
+- Sérologies [hépatite B]({{< relref "hepatite-b.md" >}}) et [hépatite C]({{< relref "hepatite-c.md" >}})
 - Sérologie VIH si expositions à risque
 - Consultation ORL
 - Consultation dentaire
@@ -239,7 +239,7 @@ Diagnostic si mésusage de l'alcool, cytolyse 2-5N prédominant sur les ASAT, GG
 Un bilan hépatique normal permet d'exclure une MAF significative à court terme.
 
 {{% /collapse %}}
-{{%collapse "Sevrage en alcool et maintien de l'abstinence" %}}
+{{%collapse "Mesures générales et suivi" %}}
 
 L'objectif est l'amélioration de la qualité de vie des personnes.  
 Il est recommandé de **promouvoir l'abstinence** mais d'**accepter les objectifs de consommation du patient** s'il choisit une réduction de la consommation (idéalement à faible risque). Toute réduction de consommation doit être valorisée par le médecin généraliste.
@@ -252,8 +252,9 @@ Installer une alliance thérapeutique sur la définition du problème à résoud
   - Consultation d'addictologie
   - Centres de soins, d'accompagnement et de prévention en addictologie ([CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html))
   - Équipe de liaison en addictologie
+  - [Annuaire par géolocalisation](https://www.addictaide.fr/annuaire/) ou [autre](http://annuaire.loraddict.org/annuaire-national?title=&postal_code=&city=&province=All&field_type_de_structure_tid_1=All)
 - Livret d'information  
-Maladie alcoolique, sevrage, intérêt de l'accompagnement, coordonnées des acteurs.
+  Maladie alcoolique, sevrage, intérêt de l'accompagnement, coordonnées des acteurs.
 - Intervention psychosociale
   - Soutien psychologique
   - Renforcement de la motivation au changement
@@ -270,9 +271,28 @@ Maladie alcoolique, sevrage, intérêt de l'accompagnement, coordonnées des act
   Appétence sucrée marquée au sevrage.
 - ALD 30, MDPH
 
+### Vitamines dans le sevrage alcoolique
+
+- Thiamine (vitamine B1 selon l'état nutritionnel, 30-80% de carences)  
+  500 mg/j pendant 5 jours puis 250 mg/j pendant 14 jours. Voie IV si dénutrition.
+- Sujet dénutri  
+  Vitamines B6 (max 1 mois), PP, C, acide folique, zinc et magnésium quelques jours.
+
+### Suivi
+
+- Lutte contre les facteurs de rechute
+- Consommation: VGM et GGT à 3, 6 et 12 mois
+- Arrêt du tabac
+- Rechute: rassurer et déculpabiliser
+
+{{% /collapse %}}
+{{%collapse "A) Objectif: sevrage en alcool et maintien de l'abstinence" %}}
+
+Le sevrage ambulatoire est prépondérant avec un suivi médical rapproché.
+
 ### Sevrage hospitalier en alcool
 
-{{%warning%}}Seulement 3 indications aux *Urgences*: complications somatiques sévères, crises suicidaires, agitation avec agressivité{{%/warning%}}
+{{%warning%}}Seulement 3 indications aux services d'Urgences: complications somatiques sévères, crises suicidaires, agitation avec agressivité{{%/warning%}}
 
 Indications à l'hospitalisation pour une abstinence:
 
@@ -303,7 +323,8 @@ La **préparation** du sevrage diminue le risque de rechute et s'inscrit dans un
 Diazépam 10 mg 1 boîte 1-1-1-1 à J1 et J2  
 1-1-1 J3  
 1-0-1 J4  
-0-0-1 J5 et arrêt (max 10)  
+0-0-1 J5 et arrêt (max 10)
+
 Doses adaptées aux symptômes résiduels et réduites chez l'adolescent et le sujet âgé.  
 Rester à la maison les 2 premiers jours, pas de conduite automobile pendant les 5 jours.  
 Consultation durant le traitement.
@@ -311,20 +332,13 @@ Consultation durant le traitement.
 > *SFA 2015*
 {{%/info%}}
 
-Symptômes de sevrage: **[benzodiazépines à demi-vie longue]({{< relref "benzodiazepines.md" >}})** type diazépam max 8-10 jours (*SFA 2015*). Contre-indiquée en cirrhose.  
-Patient âgé (≥ 75 ans): *oxazépam* ou lorazépam en diminuant la dose 30-50%.  
+Symptômes de sevrage: **[benzodiazépines à demi-vie longue]({{< relref "benzodiazepines.md" >}})** type diazépam max 8-10 jours (*SFA 2015*). Contre-indiquée si cirrhose.  
+Patient âgé (≥ 75 ans): oxazépam ou lorazépam en diminuant la dose 30-50%.  
 Les benzodiazépines n'ont aucune indication dans l'aide au maintien de l'abstinence.
 
 Les dépressions sont fréquentes (80%) au cours du sevrage de l'alcool, mais seules 15% persistent à son issue. Recontrôler à 2-4 semaines après le début du sevrage avant d'introduire un antidépresseur.
 
 {{%info%}}<< Dans la majorité des cas, le sevrage ne requiert pas de traitement pharmacologique >> *SFA 2015*{{%/info%}}
-
-#### Vitamines
-
-- Thiamine (vitamine B1 selon l'état nutritionnel, 30-80% de carences)  
-  500 mg/j pendant 5 jours puis 250 mg/j pendant 14 jours. Voie IV si dénutrition.
-- Sujet dénutri  
-  Vitamines B6 (max 1 mois), PP, C, acide folique, zinc et magnésium quelques jours.
 
 #### Prévention des rechutes
 
@@ -349,22 +363,37 @@ Les traitements doivent être arrêtés après 4-6 semaines si la consommation d
 - Nalméfène, Gamma-hydroxybutyrate (GHB), baclofène  
   Prescription spécialisée.
 
+{{%/collapse%}}
+{{%collapse "B) Objectif: Réduction d'une consommation" %}}
+
+Rappel: Il est recommandé de **promouvoir l'abstinence** mais d'**accepter les objectifs de consommation du patient** s'il choisit une réduction de la consommation (idéalement à faible risque < 10 verres/semaine). Toute réduction de consommation doit être valorisée par le médecin généraliste.
+
 ### Objectif de réduction de la consommation d'alcool
 
 Après essai de réduction spontanée de 15 jours, le nalméfène est le médicament de référence de la prise en charge.
 
 {{%info%}}
-[Nalméfène 18 mg](https://ec.europa.eu/health/documents/community-register/2021/20211220153913/anx_153913_fr.pdf) (Selincro®) 1 boîte. 1 cp tous les jours où vous pensez être exposé au risque de boire.  
-À prendre 2 heures avant le moment du risque ou dès le matin.  
+[Nalméfène 18 mg](https://ec.europa.eu/health/documents/community-register/2021/20211220153913/anx_153913_fr.pdf) (Selincro®) 1 boîte  
+1 cp tous les jours où vous pensez être exposé au risque de boire. À prendre 2 heures avant le moment du risque ou dès le matin.  
 Réévaluation à 7 et 14 jours puis 1/mois au moins 6 mois.
 {{%/info%}}
 
-### Suivi
+{{%/collapse%}}
+{{%collapse "Information du patient" %}}
 
-- Lutte contre les facteurs de rechute
-- Consommation: VGM et GGT à 3, 6 et 12 mois
-- Arrêt du tabac
-- Rechute: rassurer et déculpabiliser
+- [SPF: L'alcool pour comprendre]([L'alcool pour comprendre](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/brochure/l-alcool-pour-comprendre))
+- [Santé BD. L'alcool et ma santé](https://santebd.org/les-fiches-santebd/cancer/ma-sante-et-lalcool)
+- [Addictions France (ex ANPAA)](https://addictions-france.org/)
+
+### Bénéfices
+
+- Psychiques
+  - Humeur
+  - Anxiété
+  - Risque suicidaire
+- Somatiques
+  - Cirrhose
+- Korsakoff (20% s'améliorent)
 
 {{% /collapse %}}
 {{%collapse "Information du Grand Public" %}}
@@ -409,23 +438,6 @@ L'option la plus sûre est de ne pas consommer d'alcool en cas de:
 << Pour limiter les risques pour votre santé, l'option la plus sûre est de ne pas consommer d'alcool. >>
 
 > *Addictions France 2018*
-
-{{% /collapse %}}
-{{%collapse "Information du patient" %}}
-
-- [SPF: L'alcool pour comprendre]([L'alcool pour comprendre](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/brochure/l-alcool-pour-comprendre))
-- [Santé BD. L'alcool et ma santé](https://santebd.org/les-fiches-santebd/cancer/ma-sante-et-lalcool)
-- [Addictions France (ex ANPAA)](https://addictions-france.org/)
-
-### Bénéfices
-
-- Psychiques
-  - Humeur
-  - Anxiété
-  - Risque suicidaire
-- Somatiques
-  - Cirrhose
-- Korsakoff (20% s'améliorent)
 
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus" %}}
