@@ -34,6 +34,9 @@ childProcess.exec('java -version', (error, stdout, stderr) => {
     'Attribute “loading” not allowed on element “iframe” at this point.*',
     'Attribute “importance” not allowed on element “img” at this point.*',
     'Attribute “importance” not allowed on element “script” at this point.*',
+    'Attribute “fetchpriority” not allowed on element “script” at this point.*',
+    'Attribute “fetchpriority” not allowed on element “img” at this point.*',
+    'Attribute “fetchpriority” not allowed on element “iframe” at this point.*',
     'CSS: “unicode-range”: Too many values or values are not recognized.*'
   ].join('|')
 
