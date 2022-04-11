@@ -31,9 +31,9 @@ todo = "Applis Effic'Asthme, doses Symbicort turbuhaler, GINA 2021 p21, CSI + AR
 - 80% ne savent pas utiliser l'inhalateur (*GINA 2019*)
 - Le plan d'action doit être écrit
 - Jamais de {{< modal-btn modal-ttt-baca >}}bronchodilatateurs de courte durée{{< /modal-btn >}} seuls
-- Traitements d'entretien de l'asthme: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous. Ou en asthme parfaitement contrôlé sans traitement {{< modal-btn modal-ttt-bala-csi >}}formotérol + budésonide{{< /modal-btn >}} en cas de symptômes
-- Traitement de secours de l'asthme: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-bala-csi >}}formotérol + budésonide{{< /modal-btn >}}
-- Décroissance: par paliers de 25-50% si parfaitement contrôlé 2-3 mois jusqu'à {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} voire {{< modal-btn modal-ttt-bala-csi >}}formotérol + budésonide{{< /modal-btn >}} en cas de symptômes
+- Traitements d'entretien de l'asthme: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous. Ou en asthme parfaitement contrôlé sans traitement {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide{{< /modal-btn >}} en cas de symptômes
+- Traitement de secours de l'asthme: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide{{< /modal-btn >}}
+- Décroissance: par paliers de 25-50% si parfaitement contrôlé 2-3 mois jusqu'à {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide{{< /modal-btn >}} en cas de symptômes
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -43,7 +43,7 @@ Asthme
 Ils sont associés à une variabilité du débit expiratoire de pointe (DEP) par bronchoconstriction, épaississement de la paroi bronchique et production accrue de mucus.
 : L'obstruction est objectivée par l'observation d'un trouble ventilatoire obstructif (TVO) réversible (partiellement ou complètement), à l'état basal ou après un test de provocation bronchique.
 : Les principaux facteurs favorisants et entretenant ces anomalies sont les *infections virales*, les *allergies respiratoires* et les *irritants bronchiques*.
-: *Asthme sévère*: nécessité de fortes doses de {{< modal-btn modal-ttt-bala-csi >}}CSI-BALA{{< /modal-btn >}} (*GINA 2021*)
+: *Asthme sévère*: nécessité de fortes doses de {{< modal-btn modal-ttt-laba-csi >}}CSI-LABA{{< /modal-btn >}} (*GINA 2021*)
 : 300 millions de malades dans le monde, 4 millions en France (*SPF*) à l'origine de 60.000 séjours hospitaliers et 1000 décès annuels.
 
 Exacerbation d'asthme
@@ -69,9 +69,6 @@ ACT
 
 BACA
 : bêta<sub>2</sub>-agoniste de courte durée d'action
-
-BALA
-: bêta<sub>2</sub>-agoniste de longue durée d'action
 
 CSI
 : corticostéroïde inhalé (ou corticoïde inhalé)
@@ -99,6 +96,9 @@ GINA
 
 ITSL
 : immunothérapie par voie sublinguale
+
+LABA
+: bêta<sub>2</sub>-agoniste de longue durée d'action
 
 SC
 : sous-cutané
@@ -336,13 +336,13 @@ Il doit préciser:
 
 Il peut reposer sur les symptômes ou sur le DEP (adulte uniquement):
 
-- Augmenter le médicament de secours: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-bala-csi >}}formotérol + budésonide faible dose{{< /modal-btn >}}  
+- Augmenter le médicament de secours: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide faible dose{{< /modal-btn >}}  
 Utiliser une chambre d'inhalation si adaptable sur le dispositif.
 - Augmenter le traitement de contrôle en cours:
   - {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}}: quadrupler la dose
   - {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}}: quadrupler la dose (max 72 µg/g)  
   Si utilisé aussi comme traitement de secours: conserver la dose de fond, augmenter la dose en secours (max 72 µg/g)  
-  - {{< modal-btn modal-ttt-laba-csi >}}Autre BALA + CSI{{< /modal-btn >}}: passer à la dose supérieure ou ajouter un {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} seul pour quadrupler la dose
+  - {{< modal-btn modal-ttt-laba-csi >}}Autre LABA + CSI{{< /modal-btn >}}: passer à la dose supérieure ou ajouter un {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} seul pour quadrupler la dose
 - Corticostéroïdes oraux (CSO)  
   - Adulte: prednisone 40-50 mg/j pendant 5-7 jours
   - Enfant: prednisone 1-2 mg/kg/j (max 40 mg/j) pendant 3-5 jours
@@ -373,7 +373,7 @@ Confirmer le diagnostic avant de démarrer un traitement (*GINA 2019*), puis ins
 <div class="card-body tab-content">
   <div class="tab-pane fade" id="nav-asthme-stade1" role="tabpanel" aria-labelledby="nav-tab-stade1">
     <div class="alert alert-warning mb-4">Traitement envisageable uniquement en cas de symptômes &lt; 2 fois/mois sans aucun facteur de risque d'exacerbation</div>
-    <p><a data-toggle="modal" href="#modal-ttt-bala-csi" role="button">Formotérol + budésonide faible dose</a> uniquement en cas de symptôme.</p>
+    <p><a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">Formotérol + budésonide faible dose</a> uniquement en cas de symptôme.</p>
   </div>
   <div class="tab-pane fade show active" id="nav-asthme-stade2" role="tabpanel" aria-labelledby="nav-tab-stade2">
     <div class="alert alert-info">Traitement de référence
@@ -384,11 +384,11 @@ Confirmer le diagnostic avant de démarrer un traitement (*GINA 2019*), puis ins
     <p>NB. Asthme exclusivement provoqué par les allergies saisonnières: <em>Traitement de référence</em> et arrêt du CSI 4 semaines après la fin de l'exposition aux pollens.</p>
     <hr>
     <p><b>Schéma alternatif (à partir de 12 ans):</b></p>
-    <p><a data-toggle="modal" href="#modal-ttt-bala-csi" role="button">Formotérol + budésonide faible dose</a> uniquement en cas de symptôme.</p>
+    <p><a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">Formotérol + budésonide faible dose</a> uniquement en cas de symptôme.</p>
   </div>
   <div class="tab-pane fade" id="nav-asthme-stade3" role="tabpanel" aria-labelledby="nav-tab-stade3">
-    <ul><li><a data-toggle="modal" href="#modal-ttt-bala-csi" role="button">CSI + BALA faible dose</a> au quotidien</li>
-    <li><a data-toggle="modal" href="#modal-ttt-baca">BACA</a> au besoin<br>Si insuffisant: remplacer par <a data-toggle="modal" href="#modal-ttt-bala-csi" role="button">Formotérol + budésonide ou béclométasone faible dose</a>
+    <ul><li><a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">CSI + LABA faible dose</a> au quotidien</li>
+    <li><a data-toggle="modal" href="#modal-ttt-baca">BACA</a> au besoin<br>Si insuffisant: remplacer par <a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">Formotérol + budésonide ou béclométasone faible dose</a>
     </li></ul>
     <hr>
     <p class="font-weight-bold">Traitements alternatifs</p>
@@ -398,11 +398,11 @@ Confirmer le diagnostic avant de démarrer un traitement (*GINA 2019*), puis ins
     <hr>
     <p class="font-weight-bold">Enfant de 6 à 11 ans</p>
     <ul><li><a data-toggle="modal" href="#modal-ttt-csi" role="button">CSI dose moyenne</a></li>
-    <li>ou <a data-toggle="modal" href="#modal-ttt-bala-csi" role="button">CSI + BALA faible dose</a></li></ul>
+    <li>ou <a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">CSI + LABA faible dose</a></li></ul>
   </div>
   <div class="tab-pane fade" id="nav-asthme-stade4" role="tabpanel" aria-labelledby="nav-tab-stade4">
-    <ul><li><a data-toggle="modal" href="#modal-ttt-bala-csi" role="button">CSI + formotérol faible dose</a> en traitement de fond ET de secours</li>
-    <li>ou <a data-toggle="modal" href="#modal-ttt-bala-csi" role="button">CSI + BALA dose moyenne</a> + <a data-toggle="modal" href="#modal-ttt-baca" role="button">BACA</a> au besoin</li></ul>
+    <ul><li><a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">CSI + formotérol faible dose</a> en traitement de fond ET de secours</li>
+    <li>ou <a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">CSI + LABA dose moyenne</a> + <a data-toggle="modal" href="#modal-ttt-baca" role="button">BACA</a> au besoin</li></ul>
   </div>
   <div class="tab-pane fade" id="nav-asthme-stade5" role="tabpanel" aria-labelledby="nav-tab-stade5">
     Stade 5 = suivi en centre de référence de l'asthme uniquement
@@ -442,10 +442,10 @@ Conditions de prise en charge à 100% de l'asthme par l'ALD 14.
 - Adulte: asthme persistant sévère
   - Symptômes permanents, exacerbations fréquentes, asthme nocturne fréquent ou activité physique limitée par les symptômes
   - Variabilité du DEP > 30% et VEMS/DEP < 60% théorique
-  - Traitement d'entretien par BALA + CSI fortes doses
+  - Traitement d'entretien par LABA + CSI fortes doses
 - Enfant: asthme persistant sévère
   - Persistance des symptômes et/ou anomalies EFR
-  - Malgré BALA + CSI fortes doses
+  - Malgré LABA + CSI fortes doses
 
 En cas d'ALD, vaccin grippe annuel et {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}.
 
@@ -532,7 +532,7 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 {{< traitements/csi >}}
 
 {{% /modal %}}
-{{% modal title="BALA + CSI inhalés" id="modal-ttt-bala-csi"%}}
+{{% modal title="LABA + CSI inhalés" id="modal-ttt-laba-csi"%}}
 
 {{< traitements/laba-csi >}}
 
