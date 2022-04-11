@@ -424,7 +424,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 
 - {{< references/sfd-dt2 >}}
 - [HAS. Maladie rénale chronique de l'adulte. Guide du parcours de soins. Juillet 2021.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
-- [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. 2021.](https://doi.org/10.1016/j.kint.2020.10.026)
+- [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. 2021.](https://www.kidney-international.org/article/S0085-2538(20)31269-2/fulltext)
 - [KDIGO. 2020 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. 2020. (PDF)](https://kdigo.org/wp-content/uploads/2020/10/KDIGO-2020-Diabetes-in-CKD-GL.pdf)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/esc-hta >}}

@@ -275,6 +275,7 @@ style grossesse stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [ANSM. Varitect CP. 2021.](https://ansm.sante.fr/tableau-atun/varitect-cp-25-ui-ml-solution-injectable)
 - [CMIT. Infections à herpès virus du sujet immunocompétent. UE6 Item 164. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-164-nb.pdf)
 - [Pinquier D. et al. Vaccin contre la varicelle. Infovac. Avril 2019.](https://www.infovac.fr/docman-marc/public/fiches/1471-fiche-varicelle/file)

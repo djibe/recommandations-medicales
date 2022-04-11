@@ -445,8 +445,8 @@ Contre-indications aux IEC/ARA2 et inhibiteurs de la rénine.
 {{% /collapse %}}
 {{%sources%}}
 
-- [Stergiou GS et al. 2021 European Society of Hypertension practice guidelines for office and out-of-office blood pressure measurement. J Hypertens. 2021;39(7):1293-1302.](https://doi.org/10.1097/hjh.0000000000002843)
-- [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. Volume 99. Issue 3. 559-569.](https://doi.org/10.1016/j.kint.2020.10.026)
+- [Stergiou GS et al. 2021 European Society of Hypertension practice guidelines for office and out-of-office blood pressure measurement. J Hypertens. 2021.](https://doi.org/10.1097/hjh.0000000000002843)
+- [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. 2021.](https://doi.org/10.1016/j.kint.2020.10.026)
 - {{< references/esc-diabetes >}}
 - {{< references/esc-hta >}}
 - [HAS, SFHTA. Prise en charge de l'hypertension artérielle de l'adulte. Fiche mémo. Septembre 2016.](https://www.has-sante.fr/jcms/c_2059286/fr/prise-en-charge-de-l-hypertension-arterielle-de-l-adulte)
@@ -454,7 +454,7 @@ Contre-indications aux IEC/ARA2 et inhibiteurs de la rénine.
 
 ### À lire
 
-- [Xi B et al. Establishing International Blood Pressure References Among Nonoverweight Children and Adolescents Aged 6 to 17 Years. Circulation. 2016;133(4):398-408.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729639/#SD1)
+- [Xi B et al. Establishing International Blood Pressure References Among Nonoverweight Children and Adolescents Aged 6 to 17 Years. Circulation. 2016.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729639/#SD1)
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}

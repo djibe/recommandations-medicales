@@ -171,7 +171,7 @@ Revoir la *maîtrise de l'asthme*:
     - Autosurveillance des symptômes et du DEP
 2. Contrôle des facteurs de risques modifiables
     - Faire le point au moins tous les 2 ans
-    - {{< modal-btn modal-observance >}}Observance{{< /modal-btn >}} et technique de prise des traitements
+    - {{< modal-btn modal-observance >}}Observance{{< /modal-btn >}} et [technique de prise des traitements](https://splf.fr/videos-zephir/)
     - Consommation de corticoïdes oraux
     - Plan d'action écrit contre l'asthme
     - Tabagisme
@@ -458,7 +458,7 @@ Conduite à tenir:
 - Augmentation d'un palier (stade supérieur)
 - Vérifier le diagnostic d'asthme
 - {{< modal-btn modal-observance >}}Vérifier l'observance{{< /modal-btn >}}
-- Vérifier la technique d'inhalation
+- Vérifier la [technique d'inhalation](https://splf.fr/videos-zephir/)
 - Croyances à l'égard de l'asthme et des médicaments
 
 ### Asthme parfaitement contrôlé
@@ -522,7 +522,7 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 - SP2A
 
 {{%/sources%}}
-{{% modal title="Bêta2-agonistes de courte durée d'action inhalés" id="modal-ttt-baca"%}}
+{{% modal title="bronchodilatateurs de courte durée d'action" id="modal-ttt-baca"%}}
 
 {{< traitements/baca >}}
 

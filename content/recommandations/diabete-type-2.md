@@ -85,7 +85,7 @@ Rémission du diabète
 - Surpoids  
 Perte de poids (5-10%) ou chirurgie bariatrique.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Dépister des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et [dysfonction érectile](https://doi.org/10.1016/j.diabet.2011.09.003)
+- Dépister des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et dysfonction érectile (*[Phé 2012](https://doi.org/10.1016/j.diabet.2011.09.003)*)
 - ALD 8 et proposer [Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
 
 {{%info%}}Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75% (*ESC 2019 diabetes*){{%/info%}}
@@ -284,7 +284,7 @@ window.onload = () => {
 - {{< references/sfd-dt2 >}}
 - [Riddle M.C. et al. Consensus report: definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021.](https://link.springer.com/article/10.1007/s00125-021-05542-z)
 - [Monnier L. et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
-- [Valensi P. et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. 2021.](https://doi.org/10.1016/j.diabet.2020.08.002)
+- [Valensi P. et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. 2021.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_paper_sfc_sfd_march_2021.pdf)
 - [KDIGO. 2020 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. 2020. (PDF)](https://kdigo.org/wp-content/uploads/2020/10/KDIGO-2020-Diabetes-in-CKD-GL.pdf)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/esc-diabetes >}}

@@ -267,7 +267,7 @@ Bilan étiologique par le neurologue en cause non évidente.
 {{%sources%}}
 
 - [Moisset X et al. French guidelines for neuropathic pain: An update and commentary. Revue neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.004)
-- [Moisset X et al; SFETD. Traitements pharmacologiques et non pharmacologiques de la douleur neuropathique : une synthèse des recommandations françaises. Douleur Et Analgesie. 202. (PDF)](https://www.sfetd-douleur.org/wp-content/uploads/2021/02/synth%C3%A8se-RECOS-DN-langue-fran%C3%A7aise1.pdf)
+- [Moisset X et al; SFETD. Traitements pharmacologiques et non pharmacologiques de la douleur neuropathique : une synthèse des recommandations françaises. Douleur Et Analgesie. 2020. (PDF)](https://www.sfetd-douleur.org/wp-content/uploads/2021/02/synth%C3%A8se-RECOS-DN-langue-fran%C3%A7aise1.pdf)
 - [HAS. Prise en charge diagnostique des neuropathies périphériques. Recommandations professionnelles. Mai 2007.](https://www.has-sante.fr/jcms/c_598221/fr/prise-en-charge-diagnostique-des-neuropathies-peripheriques-polyneuropathies-et-mononeuropathies-multiples)
 - [Collège des enseignants de neurologie. Bases neurophysiologiques, mécanismes physiopathologiques d'une douleur aiguë et d'une douleur chronique – Thérapeutiques antalgiques, médicamenteuses et non médicamenteuses. Item 131.](https://www.cen-neurologie.fr/deuxieme-cycle/bases-neurophysiologiques-mecanismes-physiopathologiques-dune-douleur-aigue-dune)
 

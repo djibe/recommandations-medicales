@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-28T10:46:41+02:00
 publishdate = 2020-09-28
-lastmod = 2022-02-17
+lastmod = 2022-04-11
 specialites = ["ORL"]
 annees = "2021"
 sources = ["HAS", "SPILF"]
@@ -171,10 +171,10 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 15/07/2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
+- [SPILF, HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'adulte. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/fiche_memo_rhinopharyngite_angine_adulte_durees_antibiotherapies.pdf)
+- [SPILF, HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'enfant. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/fiche_memo_rhinopharyngite_angine_enfant_durees_antibiotherapies.pdf)
 - [Lescanne E. et al. Amygdalectomie de l'enfant Actualisation 2020 de la recommandation SFORL & CFC. 2020.](https://www.sforl.org/wp-content/uploads/2021/11/Recommandation-SFORL-Amygdalectomie_2021.pdf)
 - [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)
-- [SPILF/HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'adulte. Novembre 2016.](https://www.has-sante.fr/jcms/c_2722754/fr/choix-et-duree-de-l-antibiotherapie-rhinopharyngite-aigue-et-angine-aigue-de-l-enfant)
 - [Collège Français d'ORL et de Chirurgie Cervico-faciale. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 146 UE6.](https://campusorl.fr/espace-etudiants/2eme-cycle-ecni/item-146-angines-de-ladulte-et-de-lenfant-et-rhinopharyngites-de-lenfant/)
 
 {{%/sources%}}
