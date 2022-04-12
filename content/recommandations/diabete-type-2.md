@@ -281,6 +281,8 @@ window.onload = () => {
 {{% /collapse %}}
 {{%sources%}}
 
+{{< card-link title="e-learning EASD" url="https://easd-elearning.org/">}}
+
 - {{< references/sfd-dt2 >}}
 - [Riddle M.C. et al. Consensus report: definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021.](https://link.springer.com/article/10.1007/s00125-021-05542-z)
 - [Monnier L. et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)

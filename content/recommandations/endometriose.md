@@ -301,6 +301,10 @@ graph TB
 - [Inserm. Endométriose. Dossiers d'information. 11/12/2018.](https://www.inserm.fr/information-en-sante/dossiers-information/endometriose)
 - [HAS et CNGOF. Prise en charge de l'endométriose. Recommandation de bonne pratique. Décembre 2017.](https://www.has-sante.fr/jcms/c_2819733/fr/prise-en-charge-de-l-endometriose)
 
+### À lire
+
+[ACOG. Dysmenorrhea and Endometriosis in the Adolescent. 2018.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/12/dysmenorrhea-and-endometriosis-in-the-adolescent?utm_source=redirect&utm_medium=web&utm_campaign=otn)
+
 {{%/sources%}}
 {{% modal title="Échelle EHP-5" id="modal-score-ehp5"%}}
 

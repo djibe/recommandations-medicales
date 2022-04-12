@@ -7,14 +7,13 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
 publishdate = "2021-11-03"
-lastmod = "2022-01-13"
+lastmod = "2022-04-12"
 specialites = ["gynecologie-obstetrique"]
 annees = "2017"
-sources = ["HAS", "InCa"]
-tags = ["contraception", "depistage"]
+sources = ["HAS", "InCa", "ACOG"]
+tags = ["cancer", "contraception", "depistage"]
 anglais = ["Malignant neoplasm of breast "]
 sctid = "254837009"
-draft = false
 image = true
 imageSrc = "Le cancer du sein, illustration par Freepik"
 todo = "revoir ttt > gg sentinelle, algorithme 2 et 3, EI hormonothérapie, perruque InCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e"
@@ -128,7 +127,7 @@ Prédisposition génétiques aux cancers des seins-ovaires.
 - Surveillance clinique tous les 6 mois à partir de 20 ans
 - Auto-palpation non recommandée
 - Imageries mammaires annuelles à partir de 30 ans (mammographie ± échographie, IRM avec injection)  
-Rappeler le risque de sur-diagnostic.
+  Rappeler le risque de sur-diagnostic.
 - Après mastectomie prophylactique: surveillance clinique tous les 2 ans
 - Après cancer: mastectomie controlatérale envisageable
 
@@ -147,7 +146,7 @@ Toute suspicion diagnostique justifie un avis spécialisé sans délai.
 {{%/warning%}}
 
 - Antécédents personnels et familiaux  
-Cancers sein ou ovaire (nombre, âge, bilatéralité, sexe).
+  Cancers sein ou ovaire (nombre, âge, bilatéralité, sexe).
 - Traitements en cours
 - Contraception ou statut ménopausique
 - Date et résultat des dernières mammographies (voire échographies, IRM)
@@ -160,7 +159,7 @@ Cancers sein ou ovaire (nombre, âge, bilatéralité, sexe).
   - Écoulement unipore sérosanglant
   - Eczéma (ou de l'aréole)
 - Aires ganglionnaires palpables  
-Axillaires, sus et sous-claviculaires.
+  Axillaires, sus et sous-claviculaires.
 - Douleurs associées
 
 {{% /collapse %}}
@@ -178,15 +177,17 @@ Complétées par biopsies pour histologie.
 
 ### Bilan devant un écoulement mamelonnaire unipore sérosanglant
 
-Mammographies et échographie mammaire bilatérales  
-Voire IRM mammaire  
-Pyramidectomie chirurgicale puis histologie.
+- Mammographies et échographie mammaire bilatérales
+- Voire IRM mammaire
+- Pyramidectomie chirurgicale puis histologie
+
+Voir [écoulement mammelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
 
 ### Bilan devant une maladie de Paget du mamelon
 
-Mammographies et échographie mammaire bilatérales  
-IRM mammaire si non contributifs
-Biopsie cutanée mamelonnaire pour histologie.
+- Mammographies et échographie mammaire bilatérales
+- IRM mammaire si non contributifs
+- Biopsie cutanée mamelonnaire pour histologie
 
 ### IRM mammaire
 
@@ -215,11 +216,11 @@ La patiente ne reçoit pas ses invitations ? Elle contacte le [CRCDC régional](
 ### Conduite à tenir selon les résultats de la mammographie
 
 - Mammographies ACR1 ou 2 (normales ou bénignes)  
-Poursuite du dépistage tous les 2 ans jusqu'à 74 ans, consultation sans délai si symptôme.
+  Poursuite du dépistage tous les 2 ans jusqu'à 74 ans, consultation sans délai si symptôme.
 - Mammographies ACR3 (probablement bénignes)  
-Surveillance clinique et radiologique tous les 6 mois pendant 2 ans.
+  Surveillance clinique et radiologique tous les 6 mois pendant 2 ans.
 - Mammographies ACR4 ou 5 (anormales)  
-Biopsie échoguidée (sénologue, radiologue) puis avis sénologique rapide.
+  Biopsie échoguidée (sénologue, radiologue) puis avis sénologique rapide.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge rapide d'anomalies du sein" %}}
@@ -227,7 +228,7 @@ Biopsie échoguidée (sénologue, radiologue) puis avis sénologique rapide.
 ### En Île-de-France
 
 - Institut Gustave Roussy (IGR)
-  - Pas encore de diagnostic (fournir les examens): [en ligne](https://rdv.gustaveroussy.fr/) ou {{<phone>}}01 42 11 64 33{{</phone>}} (lun-ven 8:45-12:45 et 13:45-16:00)
+  - Pas encore de diagnostic (fournir les examens): [en ligne](https://rdv.gustaveroussy.fr/)   ou {{<phone>}}01 42 11 64 33{{</phone>}} (lun-ven 8:45-12:45 et 13:45-16:00)
   - Diagnostic posé mais pas encore suivie: {{<phone>}}01 42 11 64 33{{</phone>}} (oncologie)
   - 2<sup>e</sup> avis médical: [fiche](https://www.gustaveroussy.fr/sites/default/files/gustaveroussy-2d-avis-sein-form.docx) à renvoyer à <avis.sein@gustaveroussy.fr>
 
@@ -239,10 +240,10 @@ Après RCP peuvent être proposés: Chirurgie, radiothérapie, chimiothérapie, 
 ### Mesures associées
 
 - Femme non ménopausée: contraception non hormonale (préservatif, DIU cuivre)  
-Désir d'enfant, sur avis oncologique.
+  Désir d'enfant, sur avis oncologique.
 - Contre-indication à vie au THM
 - Consignes pour le lymphœdème  
-Voir *Surveillance après cancer*.
+  Voir *Surveillance après cancer*.
 - Prévention de la radiodermite
   - Savons naturels sans parfums ni alcool
   - Éviter crème et déodorant
@@ -250,7 +251,7 @@ Voir *Surveillance après cancer*.
   - Limiter l'exposition solaire
   - Hygiène rigoureuse et pommades émollientes
 - Associations  
-[étincelle](http://www.etincelle.asso.fr/), [Europa Donna](http://www.europadonna.fr/), [Rose up](https://www.rose-up.fr/#1), [Skin](https://associationskin.org/), [Vivre Comme Avant](https://www.vivrecommeavant.fr/).
+  [étincelle](http://www.etincelle.asso.fr/), [Europa Donna](http://www.europadonna.fr/), [Rose up](https://www.rose-up.fr/#1), [Skin](https://associationskin.org/), [Vivre Comme Avant](https://www.vivrecommeavant.fr/).
 
 ### Pour en savoir plus: Principes des traitements selon la tumeur
 
@@ -263,7 +264,7 @@ Voir *Surveillance après cancer*.
   - ± adjuvant: chimiothérapie, radiothérapie, hormonothérapie
   - ± néo-adjuvant: chimiothérapie, hormonothérapie
 - Cancer du sein métastatique  
-Chimiothérapie ± hormonothérapie.
+  Chimiothérapie ± hormonothérapie.
 - Ganglion sentinelle  
   - Curage axillaire si envahi ± radiothérapie
   - Post-op: kinésithérapie systématique (massage, drainage lymphatique)
@@ -282,15 +283,17 @@ Chimiothérapie ± hormonothérapie.
   - Aires ganglionnaires
 - Mammographie annuelle (bilatérale si tumorectomie) ± échographie mammaire
   - Tumorectomie: la 1<sup>re</sup> mammographie homolatérale est réalisée au moins 6 mois après la fin de la radiothérapie.
-- Tamoxifène (SERM)  
-Échographie pelvienne et suivi gynécologique annuel.
+- Tamoxifène (SERM)
+  - Informer sur le risque de prolifération/hyperplasie endométriale, de cancer de l'endomètre et de sarcome utérin (sauf pré-ménopause)
+  - Signaler tout symptôme vaginal (pertes, tâches, leucorrhée), tout symptôme doit être exploré
+  - Échographie transvaginale initiale et suivi gynécologique annuel (*ACOG 2020*), renforcé si risque élevé de cancer de l'endomètre
 - Antiaromatase
   - Ostéodensitométrie tous les 1-3 ans
   - Bilan lipidique annuel
 - Thérapie ciblée  
-Échocardiographies.
+  Échocardiographies.
 - Radiothérapie sus et sous-claviculaire  
-TSH régulière.
+  TSH régulière.
 
 ### Consignes de précautions pour le côté d'un curage axillaire (lymphœdème)
 
@@ -321,6 +324,7 @@ TSH régulière.
 - [InCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
 - [InCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. Octobre 2017.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
 - [HAS. Dépistage et prévention du cancer du sein. Février 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
+- [ACOG. Tamoxifen and Uterine Cancer. 2014. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/06/tamoxifen-and-uterine-cancer)
 
 ### À lire
 
