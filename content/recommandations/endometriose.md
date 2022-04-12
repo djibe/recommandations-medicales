@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-03T13:12:00+02:00
 publishdate = 2021-04-05
-lastmod = 2022-03-28
+lastmod = 2022-04-12
 specialites = ["gynecologie-obstetrique"]
-annees = "2017"
-sources = ["CNGOF", "HAS"]
+annees = "2018"
+sources = ["ACOG", "CNGOF", "HAS"]
 tags = ["contraception", "douleur pelvienne"]
 anglais = ["Endometriosis"]
 sctid = "129103003"
@@ -26,7 +26,7 @@ todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité 
 - Explorations seulement quand douloureuse ou avec retentissement (infertilité, qualité de vie)
 - 1<sup>re</sup> intention: examen gynécologique et échographie pelvienne
 - Étayer le diagnostic différentiel
-- [Contraception œstroprogestative ou DIU]({{< relref "contraception.md" >}}) au LNG à visée symptomatique
+- [Contraception œstroprogestative ou DIU LNG]({{< relref "contraception.md" >}}) à visée symptomatique
 - IRM pelvienne et avis du gynécologue si signes profonds, désir de grossesse, échec du traitement ou masse ovarienne
 
 {{%/article-summary%}}
@@ -35,7 +35,7 @@ todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité 
 Endométriose
 : Maladie pelvienne féminine fréquente (10% des femmes en âge de procréer) avec retentissement sur la qualité de vie des patientes.  
 La définition de la maladie est histologique avec la présence de glandes ou stroma endométrial en dehors de l'utérus.  
-Elle est pathologique lorsqu'elle entraîne des **douleurs pelviennes chroniques** ou une **infertilité**.  
+Elle est pathologique lorsqu'elle entraîne une **dysménorrhée**, des **douleurs pelviennes chroniques** ou une **infertilité**. L'endométriose est la 1<sup>re</sup> cause de dysménorrhée secondaire de l'adolescente.  
 Les douleurs sont souvent améliorées pendant les grossesses et après la [ménopause]({{< relref "menopause.md" >}}).
 : L'origine de l'endométriose est multifactorielle avec l'action de facteurs génétiques (hérédité), environnementaux et liés aux menstruations (ménarche précoce, volume important, cycles courts).  
 Il n'existe pas d'arguments pour une aggravation de l'importance et l'étendue des lésions de la maladie endométriosiques avec le temps.
@@ -114,7 +114,7 @@ Prise en charge lors d'une consultation dédiée.
 - Dysménorrhées intenses
   - Douleurs pelviennes cycliques péri-menstruelles
   - Type  
-  Parts nociceptive ou neuropathique.
+    Parts nociceptive ou neuropathique.
   - Intensité ≥ 8 (EAN)
   - Résistance aux paliers 1
   - Absentéisme scolaire/professionnel
@@ -124,7 +124,7 @@ Prise en charge lors d'une consultation dédiée.
   - Dyspareunies profondes
   - Douleurs à la défécation à recrudescence cataméniale
   - Signes fonctionnels urinaires à recrudescence cataméniale  
-  Dysurie, pollakiurie.
+    Dysurie, pollakiurie.
 - Troubles digestifs récurrents
 - Infertilité
 - Adolescente
@@ -200,8 +200,8 @@ Prise en charge de l'endométriose de première intention:
     Ibuprofène ou naproxène ± opioïdes si insuffisants.
   - Éviter les AINS au long cours
   - Évaluation spécialisée en douleurs chroniques  
-  Gynécologue, médecine de la douleur, sexologue, psychologue, assistant social.  
-  Principalement neuropathiques.
+    Gynécologue, médecine de la douleur, sexologue, psychologue, assistant social.  
+    Principalement neuropathiques.
 - Autres
   - Acupuncture, ostéopathie, yoga
   - Activité physique quotidienne avec exercices du bassin
@@ -257,7 +257,7 @@ La prise en charge de l'infertilité relève d'un accompagnement par une équipe
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une endométriose" "show" %}}
 
-{{< mermaid title="Conduite à tenir et prise en charge d'une suspicion d'endométriose. Dr JB Fron d'après CNGOF/HAS 2017" >}}
+{{< mermaid title="Conduite à tenir et prise en charge d'une suspicion d'endométriose. Dr JB Fron d'après ACOG 2018 et CNGOF/HAS 2017" >}}
 graph TB
   endometriose["<b>Suspicion d'endométriose</b><hr>- Dysménorrhées intenses<br>- Dyspareunies<br>- Douleurs pelviennes<br>non menstruelles<br>- Infertilité"] --> clinique("- Symptômes<br>- Évaluation du retentissement<br>(EAN, EHP-5, absentéisme)<br>- Examen gynécologique<br>- Échographie pelvienne")
   style endometriose stroke:#4150f5, stroke-width:1px
@@ -296,14 +296,11 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [ACOG. Dysmenorrhea and Endometriosis in the Adolescent. 2018.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/12/dysmenorrhea-and-endometriosis-in-the-adolescent?utm_source=redirect&utm_medium=web&utm_campaign=otn)
 - [CNGOF, ARS IDF, PNS-MOOC. Endométriose : l'affaire de tous. Mai 2021.](https://endometriose-affairedetous.com/)
 - Prescrire Rédaction. Endométriose douloureuse. En absence de projet de grossesse : paracétamol et AINS, voire estroprogestatif ou DIU au lévonorgestrel. Rev Prescrire 2019.
 - [Inserm. Endométriose. Dossiers d'information. 11/12/2018.](https://www.inserm.fr/information-en-sante/dossiers-information/endometriose)
 - [HAS et CNGOF. Prise en charge de l'endométriose. Recommandation de bonne pratique. Décembre 2017.](https://www.has-sante.fr/jcms/c_2819733/fr/prise-en-charge-de-l-endometriose)
-
-### À lire
-
-[ACOG. Dysmenorrhea and Endometriosis in the Adolescent. 2018.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/12/dysmenorrhea-and-endometriosis-in-the-adolescent?utm_source=redirect&utm_medium=web&utm_campaign=otn)
 
 {{%/sources%}}
 {{% modal title="Échelle EHP-5" id="modal-score-ehp5"%}}

@@ -27,9 +27,10 @@ TODO:
 
 Splénomégalie (SM)
 : Présence d'une rate palpable chez un adulte.
+Rôles : immunologique, réservoir de plaquettes et GB, stockage du fer, destruction des GR altérés
+Complications : rupture, infarctus
 
-{{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
+### Diagnostic différentiel
 
 - Lobe gauche hépatique volumineux
 - Tumeur gastrique (grande courbure)
@@ -88,16 +89,20 @@ Maladie de Gaucher, de Niemann-Pick.
 
 Le diagnostic est clinique.
 
-### Palpation
+Douleur du flanc gauche, épaule gauche, troubles digestifs ou vésicaux
+Rate palpée en décubitus dorsal ou latéral. Masse de l'hypocondre gauche, antérieure, bord crénelé, grand axe oblique en bas en dedans, s'abaissant à l'inspiration
 
-{{%class%}}
-En décubitus dorsal
-{{%/class%}}
 
-### Examen
+- Palpation
+{{%class%}}En décubitus dorsal{{%/class%}}
+
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
+
+NFS (anémie normochrome normocytaire avec hémolyse, neutropénie modérée, thrombopénie par séquestration)
+Échographie abdominale
+Scanner abdominal
 
 ### Échographie abdominale
 
