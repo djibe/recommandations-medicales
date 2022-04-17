@@ -6,10 +6,10 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2022-03-22"
+lastmod = "2022-04-12"
 specialites = ["infectiologie"]
 annees = "2021"
-sources = ["SPILF", "HCSP"]
+sources = ["SPILF", "HCSP", "HAS"]
 tags = ["nourrisson", "toux"]
 anglais = ["Pertussis", "Whooping cough"]
 sctid = "27836007"
@@ -26,7 +26,7 @@ todo = "https://www.wiv-isp.be/matra/fiches/coqueluche.pdf"
 - Éviction et antibiothérapie macrolide azithromycine 250 mg x 2/j 3 jours
 - Antibioprophylaxie des contacts
 - Signalement à l'ARS quand ≥ 2 cas en collectivité
-- Mise à jour du calendrier vaccinal
+- Rattrapage de l'entourage au 2<sup>e</sup> trimestre de la grossesse
 
 Voir: [toux chronique]({{< relref "toux-chronique.md" >}})
 
@@ -123,8 +123,9 @@ La vaccination protège de la coqueluche pendant 5-10 ans.
   Vaccins hexavalents du nourrisson puis à 6 ans InfanrixTetra ou Tetravac-acellulaire.
 - À partir de 11-13 ans: doses réduites (ca)  
   BoostrixTetra, Repevax sauf si vaccination débutée après 12 mois.
-- Rattrapage à tout âge  
-  Particulièrement chez jeunes parents, grands-parents, fratrie, personnels de la petite enfance.
+- Rattrapage à tout âge
+  - Au 2<sup>e</sup> trimestre de la grossesse (20-36 SA, *HAS 2022*)
+  - Particulièrement chez jeunes parents, grands-parents, fratrie, personnels de la petite enfance
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
@@ -176,6 +177,7 @@ La plus précoce possible jusqu'à 21 jours après le dernier contact avec le ca
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Recommandation vaccinale contre la coqueluche chez la femme enceinte. Avril 2022.](https://www.has-sante.fr/jcms/p_3084228/fr/recommandation-vaccinale-contre-la-coqueluche-chez-la-femme-enceinte)
 - {{< references/calendrier-vaccinal >}}
 - [SPILF. Info-antibio N°92. Mai 2021.](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2021-05-tt-courts.pdf)
 - [CMIT. Coqueluche. UE6 Item 159. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-159-nb.pdf)
@@ -184,6 +186,6 @@ La plus précoce possible jusqu'à 21 jours après le dernier contact avec le ca
 
 ### À lire
 
-- Collège pédiatrie
+- Collège de pédiatrie
 
 {{%/sources%}}

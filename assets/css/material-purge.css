@@ -2646,13 +2646,6 @@ input:disabled + .chip {
   }
 }
 
-.navdrawer-divider {
-  background-color: rgba(0, 0, 0, 0.12);
-  height: 1px;
-  margin: 0.5rem 0;
-  overflow: hidden;
-}
-
 .navdrawer-header {
   background-color: #f5f5f5;
   border-bottom: 1px solid rgba(0, 0, 0, 0.12);
@@ -4107,10 +4100,6 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 
 .m-auto {
   margin: auto !important;
-}
-
-.mt-auto {
-  margin-top: auto !important;
 }
 
 

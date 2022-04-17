@@ -12,7 +12,7 @@ draft = false
 chart = true
 image = false
 imageSrc = ""
-todo = "### Le dépistage organisé des cancers | Trois cancers bénéficient en France d'un dépistage organisé par l'Institut National du Cancer (InCa) et remboursés à 100% par l'Assurance Maladie. Deux dépistages concernent les femmes. KEY x10: dépistage du cancer | x3: cancer du sein, mammographie de dépistage, dépistage organisé, participation au dépistage, assurance maladie, décès par cancer, dépistage individuel, données, facteurs de risque, programme de dépistage | x1: ATCD personnel de cancer, avance de frais, consultation d'oncogénétique, courrier d'invitation, prise en charge thérapeutique, tranches d'âge"
+todo = "### Le dépistage organisé des cancers | Trois cancers bénéficient en France d'un dépistage organisé par l'Institut National du Cancer (INCa) et remboursés à 100% par l'Assurance Maladie. Deux dépistages concernent les femmes. KEY x10: dépistage du cancer | x3: cancer du sein, mammographie de dépistage, dépistage organisé, participation au dépistage, assurance maladie, décès par cancer, dépistage individuel, données, facteurs de risque, programme de dépistage | x1: ATCD personnel de cancer, avance de frais, consultation d'oncogénétique, courrier d'invitation, prise en charge thérapeutique, tranches d'âge"
 +++
 
 ### Résumé

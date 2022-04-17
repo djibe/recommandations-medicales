@@ -428,7 +428,7 @@ Palpation des aires ganglionnaires au moins 1/an.
   - Schéma: 2 Engerix B20® 4 fois à M0, M1, M2, M6
   - Contrôle taux d'anticorps post-vaccinal puis annuel
   - Rappel si anticorps anti-HBs < 10 UI/mL
-- [Papillomavirus]({{< relref "papillomavirus.md" >}})  
+- [Papillomavirus]({{< relref "cancer-col-uterus.md" >}})  
   Enfants de 11 à 19 ans vivant avec le VIH par le schéma d'injection en 3 doses: Gardasil 9® à M0, M2 et M6.
 - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque tous les 5 ans{{< /modal-btn >}}
 

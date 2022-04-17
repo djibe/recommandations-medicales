@@ -188,7 +188,7 @@ NFS, folates x 1/an.
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-[Guide patients de l'InCa sur les traitements des cancers de l'estomac](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-l-estomac/Points-cles).
+[Guide patients de l'INCa sur les traitements des cancers de l'estomac](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-l-estomac/Points-cles).
 
 {{% /collapse %}}
 {{%sources%}}

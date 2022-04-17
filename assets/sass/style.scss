@@ -14,7 +14,8 @@ a {
   color: var(--primary);
 
   &:focus-visible {
-    border-bottom: 1px solid var(--primary);
+    // border-bottom: 1px solid var(--primary);
+    outline: none;
   }
 }
 
@@ -319,12 +320,17 @@ article {
   section div .text-muted {
     color: rgba(0, 0, 0, 0.54);
   }
+
   .card-header > .card-title {
     margin: 0;
   }
+
+
+
   p:not([class]) {
     @extend .typography-body-1;
   }
+
   ol:not([class]),
   ol.liste-lettres,
   ul:not([class]) {
@@ -337,6 +343,7 @@ article {
       }
     }
   }
+
   .list-group {
     margin-bottom: 1.5rem;
     li:not(.list-group-divider):not(.list-group-item-two-line) {

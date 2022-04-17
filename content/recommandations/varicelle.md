@@ -24,7 +24,7 @@ todo = "vérif co-vaccination ROR"
 - Bénigne uniquement chez les enfants immunocompétents
 - Immunité quasi définitive
 - Rechercher pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans
-- Personne à risque de forme grave: immunodépression (hémopathie, VIH, chimiothérapie), nouveau-né, nouveau-né si mère a débuté éruption 5j avant et 2j suivant l’accouchement, forme grave enfant < 1 an, varicelle compliquée, varicelle chez femme enceinte dont éruption débute 10 jours avant l'accouchement
+- Personne à risque de forme grave: immunodépression (hémopathie, VIH, chimiothérapie), nouveau-né, nouveau-né si mère a débuté éruption 5j avant et 2j suivant l'accouchement, forme grave enfant < 1 an, varicelle compliquée, varicelle chez femme enceinte dont éruption débute 10 jours avant l'accouchement
 - Statut immunitaire de l'entourage et sérologie en urgence si personne à risque de forme grave exposée à la varicelle ou au zona ou personne susceptible d'être vaccinée
 - Pas d'AINS, aspirine ni corticoïdes
 - Pas d'éviction scolaire (*CMIT 2020*)

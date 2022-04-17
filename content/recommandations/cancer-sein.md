@@ -10,13 +10,13 @@ publishdate = "2021-11-03"
 lastmod = "2022-04-12"
 specialites = ["gynecologie-obstetrique"]
 annees = "2017"
-sources = ["HAS", "InCa", "ACOG"]
+sources = ["HAS", "INCa", "ACOG"]
 tags = ["cancer", "contraception", "depistage"]
 anglais = ["Malignant neoplasm of breast "]
 sctid = "254837009"
 image = true
 imageSrc = "Le cancer du sein, illustration par Freepik"
-todo = "revoir ttt > gg sentinelle, algorithme 2 et 3, EI hormonothérapie, perruque InCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e"
+todo = "revoir ttt > gg sentinelle, algorithme 2 et 3, EI hormonothérapie, perruque INCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e"
 +++
 
 {{%article-summary%}}
@@ -105,7 +105,7 @@ Voir *Surveillance*.
     - Mammographies (incidence oblique) + IRM mammaire annuelles 8 après la fin (si ≥ 30 ans)
 3. Antécédent d'hyperplasie canalaire atypique, d'hyperplasie lobulaire atypique ou de carcinome lobulaire *in situ*
     - Mammographie ± échographie annuelle pendant 10 ans, puis tous les 2 ans jusqu'au dépistage organisé
-4. Antécédent familial de cancer du sein avec {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} ≥ 3 et risque élevé estimé par l'oncogénéticien (*InCa 2017*)  
+4. Antécédent familial de cancer du sein avec {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} ≥ 3 et risque élevé estimé par l'oncogénéticien (*INCa 2017*)  
 Pour les apparenté au 1<sup>er</sup> degré ou nièce par un frère: Surveillance radiologique 5 ans avant l'âge du diagnostic de cancer chez le plus jeune:
     - Examen clinique annuel à partir de 20 ans
     - Mammographies annuelles à partir de 5 ans avant le cas ± échographie jusqu'à 50 ans
@@ -207,7 +207,7 @@ Réduction de la consommation d'alcool (*SPF*).
 
 {{%info%}}Mammographies avec double lecture tous les 2 ans chez les femmes de 50 à 74 ans asymptomatiques (sans facteur de risque élevé ou très élevé de cancer du sein){{%/info%}}
 
-Effectuées et remboursées à 100% (les examens supplémentaires ne le sont pas) dans le cadre du Programme national de dépistage organisé du cancer du sein (2001, modifié 2006, géré par DGS et InCa).
+Effectuées et remboursées à 100% (les examens supplémentaires ne le sont pas) dans le cadre du Programme national de dépistage organisé du cancer du sein (2001, modifié 2006, géré par DGS et INCa).
 
 {{%info%}}Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans (*HAS*){{%/info%}}
 
@@ -277,7 +277,7 @@ Après RCP peuvent être proposés: Chirurgie, radiothérapie, chimiothérapie, 
 
 ### Suivi post traitement
 
-- Examen clinique tous les 6 mois pendant 2 ans, puis annuel (*InCa 2017*)
+- Examen clinique tous les 6 mois pendant 2 ans, puis annuel (*INCa 2017*)
   - Symptômes généraux
   - Palpation des seins
   - Aires ganglionnaires
@@ -321,14 +321,14 @@ Après RCP peuvent être proposés: Chirurgie, radiothérapie, chimiothérapie, 
 {{% /collapse %}}
 {{%sources%}}
 
-- [InCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
-- [InCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. Octobre 2017.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
+- [INCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
+- [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. Octobre 2017.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
 - [HAS. Dépistage et prévention du cancer du sein. Février 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
 - [ACOG. Tamoxifen and Uterine Cancer. 2014. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/06/tamoxifen-and-uterine-cancer)
 
 ### À lire
 
-[InCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. Octobre 2021.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)
+[INCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. Octobre 2021.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)
 
 {{%/sources%}}
 {{% modal title="Score d'Eisinger et consultation génétique" id="modal-eisinger"%}}
