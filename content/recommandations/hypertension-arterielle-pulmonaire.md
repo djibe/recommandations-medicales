@@ -26,6 +26,7 @@ todo = "ESC, surveillance (aggrav signes + IRC), psycho, social, fam"
 - Suivi annuel en centre de référence
 - Dépistage systématique en pathologie à haut risque d'HTAP
 - [Liste des centres de référence de l'HTAP](https://respifil.fr/ou-consulter/)
+- Prochaines recommandations ESC durant l'année
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

@@ -146,7 +146,6 @@ graph TB
 
 - [HAS. Pertinence des soins en chirurgie pédiatrique. 06/03/2018.](https://www.has-sante.fr/jcms/c_2831488/fr/pertinence-des-soins-en-chirurgie-pediatrique)
 - [CHUCP. Hernie pariétale chez l'enfant. 286. 2014.](http://www.college-chirped.fr/College_National_Hospitalier_et_Universitaire_de_Chirurgie_Pediatrique/2e_Cycle_-_ECNi_files/N%C2%B0286%20-%20Hernie%20Parie%CC%81tale%20chez%20l%27Enfant%20-%2006-03-2015.pdf)
-- [CDU-HGE. Hernie pariétale chez l'enfant et l'adulte. Item 245. 2012.](https://www.snfge.org/sites/default/files/SNFGE/Rubrique_Professionnels/abrege_hepato_gastro/abrege_d_hge_2012-chap24_item245.pdf)
 - [Faucheron JL. Hernie inguinale de l'adulte. Item 245. Mars 2005.](http://www-sante.ujf-grenoble.fr/SANTE/corpus/disciplines/hepgastro/pathparoi/245a/leconimprim.pdf)
 - [Sauvat F. Urgences en chirurgie viscérale pédiatrique.](https://urgences-serveur.fr/IMG/pdf/Urg_chir_pediatriques.pdf)
 

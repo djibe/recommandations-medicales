@@ -204,6 +204,9 @@ graph TB
 - [Brissot P. et al. Pathophysiology and classification of iron overload diseases; update 2018. Transfusion Clinique et Biologique (2018).](https://doi.org/10.1016/j.tracli.2018.08.006)
 - [Sogni P. Prise en charge de l'hyperferritinémie. POST'U 2017 Paris](https://www.fmcgastro.org/textes-postus/postu-2017/prise-en-charge-de-lhyperferritinemie/)
 - [Brissot P. Diagnostic d'une hyperferritinémie. (PDF)](https://www.hemochromatose.org/wp-content/uploads/2012/12/hyperferritinemie.pdf)
-- [CDU-HGE. Hémochromatose. Item 242. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Rubrique_Professionnels/abrege_hepato_gastro/abrege_d_hge_2012-chap23_item242.pdf)
+
+### À lire
+
+[CDU-HGE. Pathologie du fer. Item 219. 2021. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Formation/dsn_cdu-hge_2021-juillet.pdf)
 
 {{%/sources%}}

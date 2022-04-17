@@ -27,6 +27,7 @@ todo = "Brossettes, Pilly"
 - Amoxicilline per os 2 g 30-60 minutes avant (50 mg/kg chez l'enfant)
 - Soutien psychologique
 - Adresser aux urgences toute suspicion d'endocardite infectieuse
+- Prochaines recommandations ESC en 2023
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
