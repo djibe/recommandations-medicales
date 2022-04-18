@@ -1,7 +1,7 @@
 +++
 title = "Méthotrexate"
 prefix = "le "
-titleSeo = "Recommandations médicament Méthotrexate"
+titleSeo = "médicament Méthotrexate"
 description = "Recommandations pour l'utilisation du médicament méthotrexate. Bilan pré-thérapeutique, contre-indications, jour de prise, supplémentation acide folique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
