@@ -798,6 +798,16 @@ legend {
   }
 }
 
+.btn:focus-visible,
+.chip-action:focus-visible {
+  outline: Max(1px, 0.1em) solid currentColor;
+  outline-offset: -0.25em;
+}
+a:focus-visible {
+  outline: Max(1px, 0.1em) solid currentColor;
+  outline-offset: 0.1em;
+}
+
 /* Plugins */
 
 .dataTables_wrapper {
