@@ -125,7 +125,7 @@ Ces mesures ont plus d'effets sur le profil cardiovasculaire que sur l'uricémie
 Le discours doit être individualisé et adapté aux comorbidités.
 
 - Correction d'un surpoids
-- Réduction de la consommation d'alcool  
+- Réduction de la [consommation d'alcool]({{< relref "sevrage-alcool.md" >}})  
   {{%class%}}Bière et spiritueux.{{%/class%}}
 - Arrêt des sodas, limiter jus d'orange et de pomme
 - Éviter les gros repas

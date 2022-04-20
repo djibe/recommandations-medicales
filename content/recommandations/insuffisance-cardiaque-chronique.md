@@ -271,7 +271,7 @@ Indications: cardiomyopathie hypertrophique (CMH), cardiomyopathie dilatée idio
 - Arrêt du tabac
 - Prise en charge d'une obésité
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Arrêt de l'alcool
+- [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}})
 - Vaccination
   - Antigrippale annuelle
   - Covid-19

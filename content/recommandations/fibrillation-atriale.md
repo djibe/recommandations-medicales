@@ -155,7 +155,7 @@ AVC, insuffisance cardiaque.
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} ± {{< scores/heartscore >}}
 - Épisode aigu récent  
 Fièvre, infection, manque de sommeil, réaction vagale, chirurgie, infarctus, péricardite.
-- Tabac, alcool, toxiques
+- Tabac, [alcool]({{< relref "sevrage-alcool.md" >}}), toxiques
 - Activité physique
 - Traitements en cours et {{< modal-btn modal-observance >}}observance{{< /modal-btn >}}  
 Pro-arythmiques: diurétiques, théophylline, salbutamol, triptan, AINS, bupropione, biphosphonate.

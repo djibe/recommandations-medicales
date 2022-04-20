@@ -6,14 +6,13 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-16T13:47:19+01:00"
 publishdate = "2021-11-18"
-lastmod = "2021-11-26"
+lastmod = "2022-04-20"
 specialites = ["therapeutique"]
 annees = "2015"
 sources = ["HAS"]
 tags = ["chute", "demence"]
 anglais = ["Benzodiazepine"]
 sctid = "372664007"
-draft = false
 image = false
 imageSrc = ""
 todo = "grille arrêt"
@@ -68,7 +67,7 @@ ECAB
 {{%info%}}Tout consommateur chronique de BZD est exposé en cas d'arrêt brutal accidentel ou non (oubli, hospitalisation...) à un risque de syndrome de sevrage{{%/info%}}
 
 - Traitements en cours
-- Consommation d'alcool
+- [Consommation d'alcool]({{< relref "sevrage-alcool.md" >}})
 - Benzodiazépine
   - Motif
   - Ancienneté, posologie
@@ -94,7 +93,7 @@ Respecter l'AMM de la spécialité:
   - Anxiété sévère: 8-12 semaines en tenant compte de la période de décroissance
   - Sevrage en alcool: 8-10 jours
 
-{{< table title="Benzodiazépines et apparentés disponibles en France par voie orale en 2021. Dr JB Fron d'après BDPM" class="table-wrap" >}}
+{{< table title="Benzodiazépines et apparentés disponibles en France par voie orale en 2022. Dr JB Fron d'après BDPM" class="table-wrap" >}}
 | Molécule                 | Spécialité        | Demi-vie (h) | AMM                                |
 |--------------------------|-------------------|-------------:|------------------------------------|
 | Alprazolam               | Xanax, gén        |        10-20 | Anxiété, sevrage alcool            |
@@ -103,17 +102,19 @@ Respecter l'AMM de la spécialité:
 | Clonazépam               | Rivotril          |           35 | Épilepsie                          |
 | Clorazépate dipotassique | Tranxene          |       30-150 | Anxiété, sevrage alcool            |
 | Clotiazépam              | Veratran          |            4 | Anxiété, sevrage alcool            |
-| Diazépam                 | Valium, gén       |        32-47 | Anxiété, sevrage alcool            |
+| <strong>Diazépam</strong> | Valium, gén      |        32-47 | Anxiété, sevrage alcool            |
 | Loflazépate d'éthyle     | Victan            |           77 | Anxiété, sevrage alcool            |
 | Lorazépam                | Temesta, gén      |        10-20 | Anxiété, sevrage alcool            |
 | Lormétazépam             | Ex-noctamide, gén |         13,5 | Insomnie occasionnelle/transitoire |
-| <strong>Oxazépam</strong>| Seresta           |            8 | Anxiété, sevrage alcool            |
+| Oxazépam                 | Seresta           |            8 | Anxiété, sevrage alcool            |
 | Prazépam                 | Lysanxia, gén     |           65 | Anxiété, sevrage alcool            |
 | Zolpidem                 | Stilnox, gén      |          2,5 | Insomnie occasionnelle/transitoire |
 | Zopiclone                | Imovane, gén      |            5 | Insomnie occasionnelle/transitoire |
 {{< /table >}}
 
-Données insuffisantes pour comparer les efficacités hypnotiques ou anxiolytiques. L'oxazépam est la BZD de préférence de *Prescrire* en insomnie transitoire.
+> Données insuffisantes pour comparer les efficacités hypnotiques ou anxiolytiques.  
+Le diazépam est la référence de la *SFA* pour le sevrage alcoolique.  
+L'oxazépam est la BZD de préférence de *Prescrire* en insomnie transitoire.
 
 {{% /collapse %}}
 {{%collapse "Décroissance des benzodiazépines" %}}

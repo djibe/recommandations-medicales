@@ -4,6 +4,7 @@ prefix = "le "
 titleSeo = "Sevrage de l'alcool"
 description = "Recommandations pour la prise en charge du sevrage de l'alcool. Vitamines, benzodiazépine pour le syndrome de sevrage ambulatoire, acamprosate pour l'abstinence"
 synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
+aliases = ["/recommandations/alcool/"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
 publishdate = "2022-01-11"
@@ -290,7 +291,7 @@ Installer une alliance thérapeutique sur la définition du problème à résoud
 
 Le sevrage ambulatoire est prépondérant avec un suivi médical rapproché.
 
-### Sevrage hospitalier en alcool
+### Indications au sevrage hospitalier en alcool
 
 {{%warning%}}Seulement 3 indications aux services d'Urgences: complications somatiques sévères, crises suicidaires, agitation avec agressivité{{%/warning%}}
 

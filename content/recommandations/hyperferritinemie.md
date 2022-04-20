@@ -159,7 +159,7 @@ Réservée au gastro-entérologue.
 {{%collapse "Traitement" %}}
 
 - Correction d'un surpoids
-- Sevrage alcoolique
+- [Sevrage alcoolique]({{< relref "sevrage-alcool.md" >}})
 - Arrêt de toute automédication
 - Traitement spécialisé de la maladie causale
 

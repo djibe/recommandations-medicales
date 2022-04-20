@@ -52,7 +52,7 @@ Le traitement de la diverticulite compliquée est urgent et spécialisé:
 - Sténose colique
 - Hémorragie diverticulaire
 
-Facteurs de risque: aspirine, AINS, alcool.
+Facteurs de risque: aspirine, AINS, [alcool]({{< relref "sevrage-alcool.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

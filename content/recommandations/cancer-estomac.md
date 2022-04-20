@@ -25,7 +25,7 @@ todo = "algo, FDR: IPP > 1 an ?"
 - Atteint préférentiellement l'homme +65 ans.
 - Principaux facteurs de risque: gastrite à *[HP]({{< relref "helicobacter-pylori.md" >}})* (80%), tabagisme, alimentation salée/fumée, antécédent familial de cancer gastrique, Lynch/HNPCC.
 - Signes d'alarmes en symptômes digestifs hauts:  
-Dysphagie, amaigrissement, anémie.
+  Dysphagie, amaigrissement, anémie.
 - Dépistage du 1<sup>er</sup> degré en cas de lésion cancéreuse (sérologie HP < 45 ans, fibroscopie après).
 
 {{%/article-summary%}}
@@ -40,7 +40,7 @@ Autres types rares: lymphomes (du MALT, *HP* +++) > stromales (GIST) > endocrine
 
 ### Épidémiologie
 
-#### Le cancer de l'estomac en France
+#### Épidémiologie du cancer de l'estomac en France
 
 - **Incidence**: 6600 cas (2017).  
 La moitié après 75 ans, 2/3 d'hommes.
@@ -85,12 +85,12 @@ K
 - Porteur HNPCC ou syndrome de Lynch
 - Antécédent familial au premier degré de cancer de l'estomac
 - Antécédent de gastrectomie partielle > 10 ans
-- Consommation d'alcool
+- [Consommation d'alcool]({{< relref "sevrage-alcool.md" >}})
 - Tabagisme
 - Alimentation salée/fumée et faible apports en fruits/légumes
 - Infection à EBV
 - Origine géographique  
-Asie, Amérique latine.
+  Asie, Amérique latine.
 
 Principaux facteurs de risque du cancer du cardia:
 
@@ -121,18 +121,18 @@ Un cancer de l'estomac doit être évoqué et exploré devant:
 
 - Antécédents personnels et familiaux
 - Explorations réalisées
-- Alcool, tabagisme, alimentation fumée/salée
+- [Alcool]({{< relref "sevrage-alcool.md" >}}), tabagisme, alimentation fumée/salée
 - Évolution et ancienneté des symptômes
 
 ### Examen clinique
 
 L'examen recherche:
 
-- ascite
-- symptômes d'anémie
-- hépatomégalie
-- adénopathies sus-claviculaires
-- carcinose péritonéale (toucher rectal)
+- Ascite
+- [Symptômes d'anémie]({{< relref "anemie.md" >}})
+- Hépatomégalie
+- Adénopathies sus-claviculaires
+- Carcinose péritonéale (toucher rectal)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -150,7 +150,7 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
 
 - Symptomatique: EOGD
 - Asymptomatique < 45 ans: [sérologie *HP*]({{< relref "helicobacter-pylori.md" >}})  
-Alternative: test respiratoire à l'urée marquée.
+  Alternative: test respiratoire à l'urée marquée.
 - Asymptomatique ≥ 45 ans: EOGD
 
 {{% /collapse %}}
@@ -159,21 +159,21 @@ Alternative: test respiratoire à l'urée marquée.
 ### Surveillance après le traitement d'un cancer de l'estomac
 
 - Scanner/IRM pendant 5 ans  
-{{%class%}}Rythme non précisé.{{%/class%}}  
-Scanner TAP /6 mois pendant 3 ans (AE) puis surveillance clinique + échographique abdominale annuelle  
-OU échographie abdominale /6 mois pendant 3 ans puis 1/an et RxT annuelle pendant 3 ans (AE).
+  - {{%class%}}Rythme non précisé{{%/class%}}
+  - Scanner TAP /6 mois pendant 3 ans (AE) puis surveillance clinique + échographique abdominale annuelle
+  - OU échographie abdominale /6 mois pendant 3 ans puis 1/an et RxT annuelle pendant 3 ans (AE)
 - Gastrectomie totale
-  - Vitamine B12 1mg IM 1/mois, surveillance folates
+  - Vitamine B12 1 mg IM 1/mois, surveillance folates
   - Échoendoscopie si haut risque de récidive
 - Gastrectomie partielle  
-EOGD tous les 2 ans après 10 ans de suivi.
+  EOGD tous les 2 ans après 10 ans de suivi.
 - Splénectomie  
-[Réaliser la prévention associée.]({{< relref "asplenie.md" >}})
+  [Et la prévention associée]({{< relref "asplenie.md" >}}).
 - Examen clinique tous les 6 mois pendant ≥ 5 ans  
-Signes de récidive, signes de {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}.
-- Abstinence tabac et alcool
+  Signes de récidive, signes de {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}.
+- Abstinence tabac et [alcool]({{< relref "sevrage-alcool.md" >}})
 - Biologique  
-NFS, folates x 1/an.
+  NFS, folates x 1/an.
 - Dépistage de l'entourage au 1<sup>er</sup> degré (voir *Traitement*)
 
 ### Signes évocateurs de récidive

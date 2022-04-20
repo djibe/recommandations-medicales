@@ -324,19 +324,19 @@ En l'absence de MCV, calculer le risque {{< scores/heartscore >}}.
 {{%collapse "Mesures hygiéno-diétetiques" %}}
 
 - Restriction sodée < 5 g/j
-- Réduction de la consommation d'alcool  
-< 2 verre/j/homme, < 1 si femme.
+- Réduction de la [consommation d'alcool]({{< relref "sevrage-alcool.md" >}})  
+  < 2 verre/j/homme, < 1 si femme.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Correction d'un surpoids
 - Correction d'une obésité abdominale (102 cm homme, 88 cm femme)  
-Cible < 94 cm homme et 80 cm femme.
+  Cible < 94 cm homme et 80 cm femme.
 - Activité physique quotidienne  
-≥ 30 minutes d'intensité modérée ≥ 5j/7
+  ≥ 30 minutes d'intensité modérée ≥ 5j/7
 - Arrêt du tabac
 - {{%modal-btn "modal-rcv"%}}LDL cible selon le risque cardiovasculaire{{%/modal-btn%}}
 - Pas de bénéfice avec l'aspirine en prévention primaire
 - Associations de patients  
-[Comité Français de Lutte Contre l'Hypertension Artérielle (CFLCHTA)](http://www.comitehta.org/), [Fédération Française de Cardiologie](https://fedecardio.org/).
+  [Comité Français de Lutte Contre l'Hypertension Artérielle (CFLCHTA)](http://www.comitehta.org/), [Fédération Française de Cardiologie](https://fedecardio.org/).
 
 > *ESC 2018*
 
@@ -345,9 +345,9 @@ Cible < 94 cm homme et 80 cm femme.
 
 - Toujours associé aux mesures hygiéno-diétetiques et surveillance de l'observance
 - Privilégier d'emblée une bithérapie en essayant de conserver un seul comprimé  
-Préférer une monothérapie si PAS < 150 mmHg ou ≥ 80 ans.
+  Préférer une monothérapie si PAS < 150 mmHg ou ≥ 80 ans.
 - Le traitement pris le soir est plus efficace et réduit les événements CV (*[ChronoTrial](https://doi.org/10.1093/eurheartj/ehz754)*)  
-Le principal: le traitement doit être pris.
+  Le principal: le traitement doit être pris.
 - Pas d'arrêt du traitement sur le seul critère d'âge
 - Les bêtabloquants sont privilégiés en maladie cardiovasculaire (insuffisance cardiaque, angor, infarctus, FA) ou grossesse
 - Suivi tous les 3-6 mois
@@ -365,16 +365,16 @@ Traitement au choix parmi:
 <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + TZD</button>
 <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + ICa</button>
 
-- Chez le sujet noir: <a href="#modal-tzd-ica" data-toggle="modal">TZD + ICa</a> aussi possible
+- Chez le sujet noir:{{< modal-btn modal-tzd-ica >}}TZD + ICa{{< /modal-btn >}} aussi possible
 - Intérêt de l'éducation thérapeutique pour maximiser l'observance
 - Réévaluation sous 2 mois  
-Intérêt de suivi mensuel les 6 premiers mois selon la HAS (*HAS 2016*).
+  Intérêt de suivi mensuel les 6 premiers mois selon la HAS (*HAS 2016*).
 
 {{%class%}}La réduction de la PA intervient en 1-2 semaines après l'introduction du traitement, pouvant se prolonger jusqu'à 2 mois.{{%/class%}}
 
 ### Traitement de niveau 2
 
-<a href="#modal-triple" data-toggle="modal">IEC/ARA2 + TZD + ICa</a> en 1 seul comprimé (non remboursés).
+{{< modal-btn modal-triple >}}IEC/ARA2 + TZD + ICa{{< /modal-btn >}} en 1 seul comprimé (non remboursés).
 
 ### Traitement de niveau 3
 

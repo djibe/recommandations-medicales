@@ -203,7 +203,7 @@ Indications limitées:
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-Réduction de la consommation d'alcool (*SPF*).
+Réduction de la consommation d'[alcool]({{< relref "sevrage-alcool.md" >}}) (*SPF*).
 
 {{%info%}}Mammographies avec double lecture tous les 2 ans chez les femmes de 50 à 74 ans asymptomatiques (sans facteur de risque élevé ou très élevé de cancer du sein){{%/info%}}
 

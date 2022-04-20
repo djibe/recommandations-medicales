@@ -153,7 +153,7 @@ Pilier de la prise en charge diagnostique (**en gras**, les éléments majeurs d
   - Prostration pendant la crise
   - Zone gâchette
 - Tabagisme (3/4 des patients)
-- Alcool, cannabis, cocaïne
+- [Alcool]({{< relref "sevrage-alcool.md" >}}), cannabis, cocaïne
 
 {{%info%}}
 Des signes migraineux (prodromes, troubles digestifs, aura, photophobie, hyperacousie) peuvent accompagner l'AVF.

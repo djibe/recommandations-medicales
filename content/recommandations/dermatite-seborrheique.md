@@ -36,7 +36,7 @@ Prolifération d'une levure lipophile: *Malassezia furfur*.
 ### Sujets à risque de forme sévère
 
 - Maladie de Parkinson et syndromes extrapyramidaux iatrogènes
-- Alcoolisme chronique
+- [Alcoolisme chronique]({{< relref "sevrage-alcool.md" >}})
 - Carcinome des VADS
 - [VIH]({{< relref "vih-sida.md" >}}) (40% des séropositifs, 80% au stade SIDA)
 

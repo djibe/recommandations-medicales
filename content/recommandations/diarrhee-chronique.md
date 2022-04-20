@@ -75,7 +75,7 @@ TIF
   - FODMAP, intolérance au lactose ou fructose
   - Édulcorants (sodas, bonbons, chewing gum)
   - Caféine
-  - Alcool
+  - [Alcool]({{< relref "sevrage-alcool.md" >}})
   - Réglisse
 - Tumeur colique
 - Inflammation intestinale (colite ulcéreuse ou microscopique, MICI)
@@ -112,7 +112,7 @@ Autres atteintes du grêle (Whipple...), hypoparathyroïdie, insuffisance surré
   Chirurgie digestive (bariatrique, cholécystectomie, résection), auto-immuns, thyroïde, diabète, radiothérapie, SEP, rapports sexuels non protégés.
 - Antécédents familiaux  
   Tumoraux, MICI, [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}).
-- [Alcool]({{< relref "alcool.md" >}})
+- [Alcool]({{< relref "sevrage-alcool.md" >}})
 - Degré de consommation de café, boissons énergisantes, lait, sorbitol, fructose
 - Traitements en cours et essayés  
   Antibiotique, AINS, magnésium, IEC, olmésartan, metformine-iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.

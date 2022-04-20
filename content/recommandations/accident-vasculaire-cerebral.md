@@ -198,7 +198,7 @@ Si non cardioembolique. Clopidogrel 75 mg/j si allergie.
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,55 g/L et réduction ≥ 50%  
 Patient à {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}.
 - Arrêt du tabac
-- Arrêt de l'alcool
+- [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}})
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Perte de poids si surpoids
 - Activité physique ≥ 10 min x 4/semaine
