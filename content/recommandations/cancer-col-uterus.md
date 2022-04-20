@@ -6,15 +6,14 @@ synonyms = ["et papillomavirus humains HPV", "dysplasies et condylomes"]
 aliases = ["/recommandations/papillomavirus/"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = 2021-01-18T10:55:00+02:00
-publishdate = 2021-01-18
-lastmod = 2022-04-12
+publishdate = 2022-04-20
+lastmod = 2022-04-20
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
 sources = ["INCa", "HAS", "MinSante"]
 tags = ["cancer", "depistage", "douleur pelvienne", "IST", "HSH", "vaccin"]
 anglais = ["Cervical cancer"]
 sctid = "363354003"
-draft = true
 flowchart = true
 image = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0, via Wikimedia Commons"
@@ -23,6 +22,7 @@ todo = "relecture INCa, pharynx"
 
 {{%article-summary%}}
 
+- Version préliminaire
 - Infection HPV nécessaire à l'apparition du cancer et des condylomes
 - << Le préservatif peut limiter le risque d'infection mais n'assure pas une protection efficace >> (*INCa*)
 - Vaccination pour tous de 11 à 19 ans  

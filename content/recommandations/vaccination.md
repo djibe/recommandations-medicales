@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-14T15:52:41+02:00
 publishdate = 2020-10-14
-lastmod = 2022-02-17
+lastmod = 2022-04-16
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["MinSante", "HCSP"]
@@ -60,13 +60,14 @@ Rattrapage vaccinal
 {{< table title="Âges limites du rattrapage vaccinal" >}}
 | Germe        | Âge limite de rattrapage |
 |--------------|:------------------------:|
-| Haemophilus  | 5 ans                 |
-| Hépatite B   | 15 ans                |
-| Méningocoque C | 24 ans              |
-| Papillomavirus | 19 ans              |
-| Pneumocoque  | 23 mois               |
+| Coqueluche   | 39 ans (sauf cocooning)  |
+| Haemophilus  | 5 ans                    |
+| Hépatite B   | 15 ans                   |
+| Méningocoque C | 24 ans                 |
+| Papillomavirus | 19 ans                 |
+| Pneumocoque  | 23 mois                  |
 | Rougeole<br>Oreillons<br>Rubéole | 40 ans |
-| Varicelle    | 18 ans                |
+| Varicelle    | 18 ans                   |
 {{< /table >}}
 
 {{% /collapse %}}
@@ -161,15 +162,15 @@ Ne pas injecter dans un site si celui-ci présente:
 
 Le don du sang est contre-indiqué durant quatre semaines après les vaccinations suivantes:
 
+- Choléra (CVD 103-HgR)
 - [Fièvre jaune]({{< relref "fievre-jaune.md" >}})
 - Oreillons
 - Poliomyélite (vaccin oral)
 - ROR
-- Variole
-- [Varicelle]({{< relref "varicelle.md" >}})
-- [Zona]({{< relref "zona.md" >}})
 - [Tuberculose]({{< relref "tuberculose.md" >}}) (BCG)
-- Choléra (CVD 103-HgR)
+- [Varicelle]({{< relref "varicelle.md" >}})
+- Variole
+- [Zona]({{< relref "zona.md" >}})
 
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}

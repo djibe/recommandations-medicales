@@ -9,7 +9,7 @@ publishdate = 2020-04-14
 lastmod = 2022-03-05
 specialites = ["endocrinologie"]
 annees = "2019"
-sources = ["ANSM", "HAS"]
+sources = ["HAS", "ANSM"]
 tags = ["coeliaque", "fatigue", "hypothyroidie", "TSH", "vertige"]
 anglais = ["Hypothyroidism"]
 sctid = "40930008"
@@ -262,7 +262,7 @@ Suivi thérapeutique par dosage de T3L + T4L qui doit être dans le tiers supér
 graph TB
   decouverte[TSH augmentée] -- Contrôle à 1 mois --> TSH[TSH augmentée]
   style decouverte stroke:#4150f5, stroke-width:1px
-    TSH -- T4L normale --> hTFruste(Hypothyroïdie fruste)
+    TSH -- T4L normale --> hTFruste("Hypothyroïdie fruste<br>(Cliquer pour le chapitre dédié)")
       click hTFruste "{{< relref "hypothyroidie-fruste.md" >}}" "Ouvrir dans un onglet" _blank
     TSH -- T4L basse --> hT(Hypothyroïdie patente)
       hT --> bilan("- Anticorps anti-TPO<br>&plusmn; dépistage M. cœliaque<br>- Échographie cervicale<br>- ECG")

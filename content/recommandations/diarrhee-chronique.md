@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-22T19:42:41+02:00
 publishdate = 2020-07-22
-lastmod = 2022-01-24
+lastmod = 2022-04-20
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["BSG", "Collège"]
@@ -48,7 +48,7 @@ TIF
 - Fausse diarrhée du constipé, fécalome
 - Incontinence fécale
 - Syndrome rectal ou poly-exonération secondaire à un trouble du plancher pelvien  
-Défécation difficile (dyschésie) et/ou prolapsus. La consistance des selles est normale.
+  Défécation difficile (dyschésie) et/ou prolapsus. La consistance des selles est normale.
 
 {{% /collapse %}}
 {{%collapse "Signes d'alarme" %}}
@@ -67,7 +67,7 @@ Défécation difficile (dyschésie) et/ou prolapsus. La consistance des selles e
 {{% /collapse %}}
 {{%collapse "Étiologie" %}}
 
-### Fréquente
+### Causes fréquentes de diarrhée chronique
 
 - Syndrome de l'intestin irritable
 - Biliaire
@@ -81,11 +81,11 @@ Défécation difficile (dyschésie) et/ou prolapsus. La consistance des selles e
 - Inflammation intestinale (colite ulcéreuse ou microscopique, MICI)
 - [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})
 - Iatrogénie  
-Antibiotique, AINS, magnésium, IEC, olmésartan, metformine-iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.
+  Antibiotique, AINS, magnésium, IEC, olmésartan, metformine - iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.
 - Sécrétoire
 - Fonctionnelle
 
-### Peu fréquente
+### Causes peu fréquentes
 
 - Pullulation microbienne grêlique
 - Ischémie mésentérique
@@ -109,13 +109,13 @@ Autres atteintes du grêle (Whipple...), hypoparathyroïdie, insuffisance surré
 ### Interrogatoire
 
 - Antécédents  
-Chirurgie digestive (bariatrique, cholécystectomie, résection), auto-immuns, thyroïde, diabète, radiothérapie, SEP, rapports sexuels non protégés.
+  Chirurgie digestive (bariatrique, cholécystectomie, résection), auto-immuns, thyroïde, diabète, radiothérapie, SEP, rapports sexuels non protégés.
 - Antécédents familiaux  
-Tumoraux, MICI, cœliaque.
-- Alcool
+  Tumoraux, MICI, [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}).
+- [Alcool]({{< relref "alcool.md" >}})
 - Degré de consommation de café, boissons énergisantes, lait, sorbitol, fructose
 - Traitements en cours et essayés  
-Antibiotique, AINS, magnésium, IEC, olmésartan, metformine-iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.
+  Antibiotique, AINS, magnésium, IEC, olmésartan, metformine-iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.
 - Diarrhée
   - Contexte de voyage, TIAC
   - Antibiothérapie récente
@@ -126,7 +126,7 @@ Antibiotique, AINS, magnésium, IEC, olmésartan, metformine-iDPP4, lansoprazole
   - Volume, fréquence, consistance, résidus, glaires, sang, graisseuses, coloration, odeur
   - AEG
   - Autres troubles digestifs  
-  Douleurs, ballonnements, flatulences, alternance diarrhée-constipation, épreinte, ténesmes, faux besoin, impériosité, rectorragies.
+    Douleurs, ballonnements, flatulences, alternance diarrhée-constipation, épreinte, ténesmes, faux besoin, impériosité, rectorragies.
 - Signes négatifs
   - Incontinence
   - Consistance conservée
@@ -158,9 +158,9 @@ Syndrome anémique ou hémorragique, thyrotoxicose, glossite, aménorrhée.
 - Glycémie à jeun
 - Proposer une sérologie VIH
 - Malabsorption  
-Créatinine, ionogramme, calcémie, albuminémie, ASAT, ALAT, GGT, PAL, TP, vitamine B12, folate.
+  Créatinine, ionogramme, calcémie, albuminémie, ASAT, ALAT, GGT, PAL, TP, vitamine B12, folate.
 - Sérologie cœliaque  
-IgA anti-transglutaminase et IgA totales.
+  IgA anti-transglutaminase et IgA totales.
 - Examen parasitologique des selles 3 jours de suite (se 60-90%)
 - Test immunologique fécal (TIF *ex* Hemoccult®)
 
@@ -179,7 +179,7 @@ Adresser au spécialiste si un diagnostic pouvant être suivi en ville n'est pas
 {{%sources%}}
 
 - {{< references/college-gastro >}}
-- [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut 2018;67:1380-1399.](https://gut.bmj.com/content/gutjnl/67/8/1380.full.pdf)
+- [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut. 2018.](https://gut.bmj.com/content/gutjnl/67/8/1380.full.pdf)
 - [SNFGE. Diarrhée chronique](https://www.snfge.org/content/diarrhee-chronique)
 
 {{%/sources%}}
