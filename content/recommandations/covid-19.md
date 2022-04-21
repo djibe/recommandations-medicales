@@ -7,7 +7,7 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
-lastmod = 2022-04-07
+lastmod = 2022-04-21
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HCSP", "MinSante", "HAS"]
@@ -70,32 +70,6 @@ Contact à risque négligeable
 Risque démultiplié de forme grave si polypathologique. Doit tenir compte des comorbidités, âge, sexe, facteurs socio-économiques. L'âge est le facteur majeur.
 
 {{< clinique/covid-forme-grave >}}
-
-<details>
-  <summary><h3 class="typography-headline-6">Personnes à risque de forme grave selon <em>HAS Janvier 2022</em></h3></summary>
-
-- Très haut risque de forme grave (RR > 3)
-  - Chimiothérapie active
-  - Dialyse
-  - Greffé (organe ou CSH)
-  - ≥ 2 insuffisances d'organes
-  - Maladies rares (listées dans *HAS Annexe 2*)
-  - Trisomie 21
-- Haut risque de forme grave (RR 1,5-3)
-  - Diabète type 1 et 2
-  - Obésité
-  - Cancer ou hémopathie en cours de traitement
-  - BPCO et insuffisance respiratoire
-  - Insuffisance cardiaque
-  - Hypertension artérielle compliquée  
-    Complications cardiaques, rénales et vasculo-cérébrales.
-  - Hépatopathie chronique (cirrhose ++)
-  - Pathologie psychiatrique
-  - Démence
-  - Antécédent d'AVC
-  - Grossesse
-
-</details>
 
 {{%/collapse%}}
 {{%collapse "Antiviraux" %}}
