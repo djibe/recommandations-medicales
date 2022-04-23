@@ -114,13 +114,15 @@ main {
   min-height: 100%;
   > .container-lg,
   > .recommandation,
-  > .projet {
+  > .projet,
+  .cabinet__header {
     padding-top: 64px;
   }
   @media (min-width: 1024px) {
     & > .container-lg,
     & > .recommandation,
-    & > .projet {
+    & > .projet,
+    .cabinet__header {
       padding-top: 56px;
     }
   }
@@ -161,6 +163,26 @@ a[href^="http"]:not([class]):not([href*="recomedicales.fr"])::after {
 
 .text-black-secondary {
   color: rgba(0, 0, 0, 0.6) !important;
+}
+
+.grid-list {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(auto-fit, 1fr);
+  gap: 16px;
+  margin-bottom: 12rem;
+
+  @media (min-width: 768px) {
+    & {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (min-width: 1200px) {
+    & {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
 }
 
 // List pages
@@ -283,10 +305,21 @@ article {
 
 .recommandation__content {
   margin-bottom: 5rem;
+
+  section:first-of-type {
+    margin-top: 36px;
+  }
+
+  section > h2 + div,
+  footer > h2 + div {
+    max-width: 80ch;
+  }
+
   section > .collapse,
   footer > .collapse {
     margin-bottom: 3rem;
   }
+
   section > h2,
   footer > h2 {
     margin: 0;
@@ -424,10 +457,16 @@ article {
   .offset-xl-2 {
     margin-left: auto;
   }
+
   &__content {
     max-width: 80ch;
+
     .lead {
       font-size: 20px;
+    }
+
+    section > h2 + div {
+      max-width: 80ch;
     }
   }
 }
@@ -452,6 +491,24 @@ article {
       font-size: 18px;
     }
   }
+}
+
+.cabinet-bg {
+  background: var(--primary);
+  background-size: cover !important;
+  border-radius: 64px;
+  display: flex;
+  align-items: center;
+  min-height: 360px;
+  margin-bottom: 24px;
+  padding: 40px;
+}
+
+.cabinet-title {
+  padding:40px 0;
+  font-size:48px;
+  color:white;
+  text-shadow: 1px 0 2px rgba(0,0,0,.87);
 }
 
 .navbar-toggler-icon {
@@ -520,6 +577,29 @@ blockquote {
 .card.card-primary-action {
   flex-grow: 0;
   margin-right: 1rem;
+}
+
+.card-list {
+  border: 1px solid var(--light-dark);
+  box-shadow: none;
+  position: relative;
+
+  &:hover {
+    background-color: #FFF4DF;
+    box-shadow: 0px 5px 5px -3px rgba(0,0,0,.1),0px 8px 8px 1px rgba(0,0,0,.07),0px 3px 8px 2px rgba(0,0,0,.08),0px 0px 0px 2px #ffa600;
+    transition: transform 200ms linear,box-shadow 200ms linear,background 400ms ease,border-color 400ms ease;
+    // border-color: var(--light-dark);
+  }
+}
+
+.card-img-top {
+  background-color:#FFF4DF;
+  background-blend-mode: multiply;
+  position: relative;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+  aspect-ratio: 16/9;
 }
 
 .card-body .card-title + .card-subtitle {

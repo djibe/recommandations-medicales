@@ -1,0 +1,28 @@
+{{ define "main" }}
+<!-- Example: Page like Tags > Bronchiolite ou Accueil > annees > 2017-->
+<div class="list-page">
+  <div class="container-md">
+    <div class="row">
+      <div class="col-12">
+        <h1 class="taxonomyList my-xl-5">{{ .Title }}</h1>
+        <nav aria-label="Fil d'ariane" class="mb-4">
+          <ol class="breadcrumb">
+            {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+          </ol>
+        </nav>
+      </div>
+      <div class="col-12 grid-list">
+      {{ range .Pages.ByTitle }}
+        <div class="card card-list">
+          <div class="card-img-top" style="background-image: url('/images/cabinet/{{.File.BaseFileName}}.webp')"></div>
+          <div class="card-header border-0">
+            <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            {{ with .Params.Subtitle}}<h3 class="card-subtitle">{{ . }}</h3>{{end}}
+          </div>
+        </div>
+      {{ end }}
+    </div>
+    </div>
+  </div>
+</div>
+{{ end }}
