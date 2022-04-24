@@ -28,7 +28,7 @@ todo = "https://www.wiv-isp.be/matra/fiches/coqueluche.pdf"
 - Signalement à l'ARS quand ≥ 2 cas en collectivité
 - Rattrapage de l'entourage au 2<sup>e</sup> trimestre de la grossesse
 
-Voir: [toux chronique]({{< relref "toux-chronique.md" >}})
+Voir aussi: [toux chronique]({{< relref "toux-chronique.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -126,6 +126,23 @@ La vaccination protège de la coqueluche pendant 5-10 ans.
 - Rattrapage à tout âge
   - Au 2<sup>e</sup> trimestre de la grossesse (20-36 SA, *HAS 2022*)
   - Particulièrement chez jeunes parents, grands-parents, fratrie, personnels de la petite enfance
+
+{{< table title="Recommandations vaccinales contre la coqueluche selon Calendrier vaccinal 2021" >}}
+| Âge                         | Spécialités                                                    | Commentaire                             |
+|-----------------------------|----------------------------------------------------------------|-----------------------------------------|
+| 2 mois                      | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
+| 4 mois                      | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
+| 11 mois                     | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
+| 6 ans                       | InfanrixTetra, Tetravac-acellulaire                            |                                         |
+| 11-13 ans                   | BoostrixTetra, Repevax                                         | Schéma des 6 ans si manqué              |
+| 25 ans                      | BoostrixTetra, Repevax<br>Sauf rappel dans les 5 ans           | Rattrapage jusqu'à 39 ans               |
+| Grossesse 20-36 SA          | BoostrixTetra, Repevax<br>et entourage (foyer, grands-parents, babysitters) | Rattrapage avant la sortie de maternité |
+| Adulte avec projet parental | BoostrixTetra, Repevax                                         |                                         |
+| Coqueluche                  | Pas de rappel nécessaire dans les 10 ans                       | Sauf coqueluche du nourrisson           |
+{{< /table >}}
+
+> **Cocooning:** < 25 ans rappel si > 5 ans | ≥ 25 ans rappel si > 10 ans  
+**Professionnels de santé:** ajouter la coqueluche à chaque rappel du dTPolio (45 et 65 ans) + 1 dose si dernière dose réalisée ≤ 18 ans et date > 5 ans.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}

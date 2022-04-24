@@ -7,7 +7,7 @@
           <article class="col">
             <div class="w-768">
               <header class="cabinet__header">
-                <div class="cabinet-bg" style="background: linear-gradient(110deg, rgba(65,80,245,0.9) 0%, rgba(65,80,245,0.6) 67%, rgba(232,117,0,0.6) 100%), url('/images/cabinet/{{$.File.BaseFileName}}.webp') no-repeat center center scroll">
+                <div class="cabinet-bg" style="background-image: url('/images/cabinet/{{$.File.BaseFileName}}.webp')">
                   <h1 class="cabinet-title">{{ .Title }}</h1>
                   {{ with .Params.Subtitle }}<h2>{{ . }}</h2>{{ end }}
                 </div>

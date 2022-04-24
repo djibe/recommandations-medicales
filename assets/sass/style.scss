@@ -248,7 +248,7 @@ article {
 
 .home-reco {
   display: grid;
-  gap: 1rem;
+  gap: .5rem;
   grid-template-columns: 1fr;
 }
 
@@ -357,8 +357,6 @@ article {
   .card-header > .card-title {
     margin: 0;
   }
-
-
 
   p:not([class]) {
     @extend .typography-body-1;
@@ -494,8 +492,9 @@ article {
 }
 
 .cabinet-bg {
-  background: var(--primary);
   background-size: cover !important;
+  background-color: #b8af9f;// #FFF4DF;
+  background-blend-mode: lighten;
   border-radius: 64px;
   display: flex;
   align-items: center;
@@ -505,10 +504,16 @@ article {
 }
 
 .cabinet-title {
-  padding:40px 0;
-  font-size:48px;
-  color:white;
-  text-shadow: 1px 0 2px rgba(0,0,0,.87);
+  padding: 40px 0;
+  font-size: 4rem;
+  font-weight: 300;
+  letter-spacing: -.015625em;
+  line-height: 5rem;
+  text-shadow: 4px 2px 2px #fff;
+}
+
+.card-actions {
+  border-radius: 0 0 4px 4px;
 }
 
 .navbar-toggler-icon {
