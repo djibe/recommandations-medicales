@@ -8,12 +8,12 @@ date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
 lastmod = 2022-04-27
 specialites = ["infectiologie"]
-annees = "2021"
-sources = ["HAS", "MinSante"]
+annees = "2022"
+sources = ["HAS", "MinSanté"]
 tags = ["obesite", "prevention", "vaccin"]
 anglais = ["influenza", "flu"]
 sctid = "6142004"
-todo = "grippe grossesse, antiviral"
+todo = "def, grippe grossesse, antiviral"
 +++
 
 {{%article-summary%}}
@@ -26,7 +26,7 @@ ainsi que toutes les personnes fragiles pour la Covid-19
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-### Complications
+### Complications de la grippe
 
 - Sinusite
 - Otite moyenne aiguë
@@ -50,10 +50,10 @@ Personnes exclusives jusqu'au 22 novembre 2021:
 - ≥ 65 ans
 - Femmes enceintes
 - Pathologie chronique  
-Insuffisance respiratoire, insuffisance cardiaque, diabète, insuffisance rénale, asthme, bronchopneumopathie obstructive, mucoviscidose, …
+  Insuffisance respiratoire, insuffisance cardiaque, diabète, insuffisance rénale, asthme, bronchopneumopathie obstructive, mucoviscidose, …
 - Obésité morbide (IMC ≥ 40 kg/m<sup>2</sup>)
 - Entourage des nourrissons de moins de 6 mois à risque de grippe grave  
-Prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d'une affection de longue durée ainsi - Immunodéprimé et son entourage
+  Prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d'une affection de longue durée ainsi - Immunodéprimé et son entourage
 
 > *[Ameli Médecin 22/10/2021 (PDF)](https://www.ameli.fr/sites/default/files/Documents/707929/document/grippe-memos-medecins2021.pdf)*
 
@@ -98,8 +98,8 @@ Bon de prise en charge n°850 sur Ameli pro.
 
 ### Recommandations pour les professionnels
 
-- Professionnels de santé et tout professionnel en contact régulier et prolongé avec des personnes à risque de grippe sévère.
-- Personnel navigant des bateaux de croisière et des avions et personnel de l'industrie des voyages accompagnant les groupes de voyageurs (guides).
+- Professionnels de santé et tout professionnel en contact régulier et prolongé avec des personnes à risque de grippe sévère
+- Personnel navigant des bateaux de croisière et des avions et personnel de l'industrie des voyages accompagnant les groupes de voyageurs (guides)
 
 > {{< references/calendrier-vaccinal >}}
 
@@ -117,7 +117,7 @@ Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
 {{%/collapse%}}
 {{%collapse "Vaccins disponibles en 2021-2022" %}}
 
-- Efluelda® (≥ 65 ans)
+- Efluelda® (≥ 60 ans)
 - Influvac Tetra®
 - Vaxigrip Tetra®
 
@@ -136,8 +136,8 @@ Chez le sujet vivant en établissement, la vaccination réduit la survenue de pa
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [HAS. Vaccination antigrippale : la stratégie de la prochaine campagne annuelle réaffirmée dans le contexte de l'épidémie de COVID-19. 02/06/2020.](https://www.has-sante.fr/jcms/p_3187536/fr/vaccination-antigrippale-la-strategie-de-la-prochaine-campagne-annuelle-reaffirmee-dans-le-contexte-de-l-epidemie-de-covid-19)
 - [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe ! 13/05/2020.](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
-- {{< references/calendrier-vaccinal >}}
 
 {{%/sources%}}

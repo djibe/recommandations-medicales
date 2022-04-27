@@ -7,10 +7,10 @@ aliases = ["/recommandations/papillomavirus/"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = 2021-01-18T10:55:00+02:00
 publishdate = 2022-04-20
-lastmod = 2022-04-20
+lastmod = 2022-04-27
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
-sources = ["INCa", "HAS", "MinSante"]
+sources = ["INCa", "HAS", "MinSanté"]
 tags = ["cancer", "depistage", "douleur pelvienne", "IST", "HSH", "vaccin"]
 anglais = ["Cervical cancer"]
 sctid = "363354003"
@@ -150,19 +150,19 @@ Parmi les femmes de 25 à 65 ans:
 
 ### Préservatif
 
-> Le préservatif peut limiter le risque d'infection mais n'assure pas une protection efficace (*INCa*).
+> Le préservatif peut limiter le risque d'infection mais n'assure pas une protection efficace (*INCa*)
 
 ### Vaccination
 
 Indications au vaccin HPV ([Gardasil 9®](https://ec.europa.eu/health/documents/community-register/2020/20201124149982/anx_149982_fr.pdf), seul recommandé):
 
 - Adolescent de 11 à 14 ans révolus avec 2 doses  
-  - **Schéma:** Gardasil 9® à M0 M6-13
+  - **Schéma:** Gardasil 9® à M0 et M6-13
   - Intérêt de co-administrer avec le rappel [dTcaPolio]({{< relref "vaccination.md" >}})
   - Vaccination des garçons depuis le 1<sup>er</sup> janvier 2021
 - Rattrapage vaccinal de 15 à 19 ans révolus avec 3 doses  
   - Schéma en 3 doses de 11 à 19 ans: Gardasil 9® à M0, M2 et M6
-  - idem pour enfant/adolescent avec VIH de 11-19 ans
+  - Idem pour enfant/adolescent avec VIH de 11-19 ans
 - [HSH]({{< relref "hsh.md" >}})  
   Jusqu'à 26 ans révolus avec schéma en 3 doses: Gardasil 9® à M0, M2 et M6
 - Enfant/Adolescent transplanté ou en attente de transplantation jusqu'à 19 ans avec 3 doses
@@ -202,8 +202,8 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 {{% /collapse %}}
 {{%sources%}}
 
-- [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. 24/01/2022.](https://www.e-cancer.fr/Professionnels-de-sante/Facteurs-de-risque-et-de-protection/Agents-infectieux/Prevenir-les-cancers-lies-aux-HPV)
 - {{< references/calendrier-vaccinal >}}
+- [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. 24/01/2022.](https://www.e-cancer.fr/Professionnels-de-sante/Facteurs-de-risque-et-de-protection/Agents-infectieux/Prevenir-les-cancers-lies-aux-HPV)
 - [INCa. Le dépistage du cancer du col de l'utérus en pratique, collection Outils pour la pratique, INCa, décembre 2020](https://www.e-cancer.fr/content/download/307096/4383798/file/Outil-Pratique-Uterus-2021-@%20DEF%2012032021.pdf)
 - [Abramovitz L. Vaccin contre le Papilloma virus : De l'AMM au pragmatisme. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/
 )

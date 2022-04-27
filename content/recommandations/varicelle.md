@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-22T12:09:36+01:00"
 publishdate = "2022-04-07"
-lastmod = "2022-04-07"
+lastmod = "2022-04-27"
 specialites = ["pediatrie"]
 annees = "2020"
-sources = ["SPILF", "ANSM"]
+sources = ["SPILF", "ANSM", "MinSanté"]
 tags = ["vaccination"]
 anglais = ["Varicella", "Chickenpox"]
 sctid = "38907003"
@@ -117,21 +117,21 @@ Sérologie en urgence si personne à risque de forme grave exposée à la varice
 
 #### Indications limitées à la vaccination anti-varicelleuse
 
-Vaccination recommandée sans antécédents de varicelle ou histoire douteuse
+Vaccination recommandée sans antécédents de varicelle ou histoire douteuse:
 
 1. Adolescents de 12 à 18 ans  
   << Sérologie peut être pratiquée >>.
 2. Femmes en âge de procréer (projet de grossesse ++) ou après une première grossesse  
   << Sérologie peut être pratiquée >>, test de grossesse et contraception efficace le mois suivant.
 3. Toute personne avec sérologie négative  
-  et contact étroit avec des personnes immunodéprimées
+  ET contact étroit avec des personnes immunodéprimées
 4. Attente de greffe d'organe solide (dans les 6 mois) avec sérologie négative  
   2 doses à ≥ 1 mois d'intervalle.
 5. Vaccination post-exposition: ≥ 12 ans immunocompétent en contact avec un cas de varicelle ou de [zona]({{< relref "zona.md" >}})  
   La vaccination doit avoir lieu dans les 3 jours suivant le contact.
-6. Professionnels de la petite enfance (crèches, collectivités) ou en santé
+6. Professionnels de santé ou de la petite enfance (crèches, collectivités)
 
-> *Calendrier vaccinal 2021*
+> *Calendrier vaccinal*
 
 {{%warning%}}Vaccination varicelle contre-indiquée pendant la grossesse. Une grossesse doit être évitée dans le mois suivant la vaccination{{%/warning%}}
 
@@ -141,11 +141,11 @@ Vaccination recommandée sans antécédents de varicelle ou histoire douteuse
 
 - [Varilrix®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62521070&typedoc=R)  
   - 9-11 mois: 2 doses espacées ≥ 3 mois
-  - ≥ 12 mois: 2 doses espacées ≥ 6 semaines
+  - ≥ 12 mois: 2 doses espacées 6-10 semaines
 - [Varivax®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69201849&typedoc=R)
   - 9-11 mois: 2 doses espacées ≥ 3 mois
   - 12 mois-12 ans: 2 doses espacées ≥ 1 mois
-  - ≥ 13 ans: 2 doses espacées de 1-2 mois
+  - ≥ 13 ans: 2 doses espacées de 4-8 semaines
 
 Possibles signes minimes de varicelle (< 10%) 10 jours après l'injection.
 

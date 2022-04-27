@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-29T23:51:41+02:00
 publishdate = 2020-09-29
-lastmod = 2022-03-21
+lastmod = 2022-04-27
 specialites = ["hematologie"]
 annees = "2021"
-sources = ["HCSP", "MinSante"]
+sources = ["HCSP", "MinSanté"]
 tags = ["vaccin", "voyage"]
 anglais = ["Asplenia"]
 sctid = "707147002"
@@ -80,9 +80,9 @@ Vaccins après une splénectomie.
 ### Quand vacciner ?
 
 - Splénectomie programmée  
-Vaccination ≥ 2 semaines avant l'intervention.
+  Vaccination ≥ 2 semaines avant l'intervention.
 - Splénectomie en urgence  
-Vaccination 2-6 semaines après l'intervention (immédiat si risque de perdu de vue).
+  Vaccination 2-6 semaines après l'intervention (immédiat si risque de perdu de vue).
 
 ### Vaccination du patient
 

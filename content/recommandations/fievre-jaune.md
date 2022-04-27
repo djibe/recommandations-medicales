@@ -7,10 +7,10 @@ synonyms = ["Fièvre amarile, typhus amaril, vomito negro"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-12T08:55:00+02:00
 publishdate = 2021-02-12
-lastmod = 2022-03-14
+lastmod = 2022-04-27
 specialites = ["infectiologie"]
-annees = "2019"
-sources = ["MinSante"]
+annees = "2022"
+sources = ["MinSanté"]
 tags = ["vaccin", "voyage"]
 anglais = ["Yellow fever"]
 sctid = "16541001"
@@ -49,17 +49,17 @@ PVVIH
 {{%collapse "Personnes à vacciner" %}}
 
 - Résident en Guyane  
-Obligatoire si > 1 an.
+  Obligatoire si > 1 an.
   - Rappel à 6 ans si vacciné avant 2 ans
   - Rappel à 10 ans si vaccinés pendant grossesse, PVVIH
   - Rappel à 10 ans si immunodépression avec suivi du taux d'anticorps ± nouveau rappel.
   - Rappel si vaccination date de > 10 ans ET circulation active du virus.
 - Voyage en Guyane  
-Obligatoire si > 1 an.
+  Obligatoire si > 1 an.
 - Personnel de laboratoire manipulant du virus de fièvre jaune  
-Rappel à 10 ans.
+  Rappel à 10 ans.
 - Voyage  
-Vaccination recommandée voire **obligatoire** pour de nombreux pays (voir plus bas).
+  Vaccination recommandée voire **obligatoire** pour de nombreux pays (voir plus bas).
 
 > *Calendrier vaccinal*
 
@@ -82,8 +82,8 @@ La **vaccination anti-amarile** est réalisée dans un centre homologué avec re
 {{% /collapse %}}
 {{%sources%}}
 
-- [Institut Pasteur. Fièvre jaune : mieux comprendre les rares effets secondaires des vaccins. 26/04/2021.](https://www.pasteur.fr/fr/journal-recherche/actualites/fievre-jaune-mieux-comprendre-rares-effets-secondaires-vaccins)
 - {{< references/calendrier-vaccinal >}}
+- [Institut Pasteur. Fièvre jaune : mieux comprendre les rares effets secondaires des vaccins. 26/04/2021.](https://www.pasteur.fr/fr/journal-recherche/actualites/fievre-jaune-mieux-comprendre-rares-effets-secondaires-vaccins)
 - [OMS. Fièvre jaune. 07/05/2019.](https://www.who.int/fr/news-room/fact-sheets/detail/yellow-fever)
 - [Ministère de la Santé. Liste des centres de vaccination habilités à effectuer la vaccination contre la fièvre jaune (anti-amarile). 07/02/2019.](https://solidarites-sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination-fievre-jaune)
 - [HCSP. Vaccination de rappel contre la fièvre jaune pour la Guyane. Nouvelles recommandations. 17/12/2015.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=531)

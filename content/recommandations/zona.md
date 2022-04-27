@@ -6,10 +6,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-11-14T19:48:41+02:00
 publishdate = 2020-11-16
-lastmod = 2022-04-07
+lastmod = 2022-04-27
 specialites = ["dermatologie", "infectiologie", "ophtalmologie"]
 annees = "2020"
-sources = ["SPILF"]
+sources = ["SPILF", "MinSanté"]
 tags = ["vaccin", "zona"]
 anglais = ["Herpes zoster"]
 sctid = "4740000"
@@ -132,7 +132,7 @@ Vaccin vivant: [Zostavax®](https://ec.europa.eu/health/documents/community-regi
 Vaccination post-exposition: âge ≥ 12 ans immunocompétent sans antécédent de varicelle, en contact avec un cas de [varicelle]({{< relref "varicelle.md" >}}) ou de zona.  
 Sérologie varicelle en urgence. La vaccination varicelle doit avoir lieu dans les 3 jours suivant le contact.
 
-> *Calendrier vaccinal 2021*
+> *Calendrier vaccinal*
 
 ### Information des personnes immunodéprimées
 

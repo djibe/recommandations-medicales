@@ -6,18 +6,17 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-09-07T12:03:00+02:00
 publishdate = 2021-09-07
-lastmod = 2021-09-18
+lastmod = 2022-04-27
 specialites = ["hepato-gastro-enterologie"]
 annees = "2016"
-sources = ["HAS", "MinSante"]
+sources = ["HAS", "MinSanté"]
 tags = ["fatigue", "hepatite", "HSH", "IST", "prevention", "vaccin", "VIH", "voyage"]
 anglais = ["Hepatitis B"]
 sctid = "66071002"
-draft = false
 flowchart = false
 image = true
 imageSrc = "Hépatite B, illustration par pch.vector / Freepik"
-todo = "clinique, BEH, flow, découverte hépatite B guérie"
+todo = "summary, clinique, BEH, flow, découverte hépatite B guérie"
 +++
 
 *Chapitre en cours de rédaction*
@@ -115,14 +114,14 @@ Si prématuré < 32 semaines ou poids < 2 kg: schéma 4 doses à J0-M1-M2-M6 ave
 #### Rattrapage de 11 à 15 ans
 
 - 2 doses à M0-M6 par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R)  
-Sauf risque élevé entre les 2 doses.
+  Sauf risque élevé entre les 2 doses.
 - 3 doses à M0-M1-M6
 
 #### Adultes
 
 - 3 doses à M0-M1-M6
-- Schéma accéléré par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R) à J0-J7-J21 et rappel à 12 mois.  
-Le contrôle des anti-HBs est préconisé 4-8 semaines après le rappel.
+- Schéma accéléré par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R) à J0-J7-J21 et rappel à 12 mois  
+  Le contrôle des anti-HBs est préconisé 4-8 semaines après le rappel.
 
 ##### Patient hémodialysé ou immunodéprimé avec exposition
 

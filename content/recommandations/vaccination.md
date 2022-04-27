@@ -1,15 +1,15 @@
 +++
 title = "Vaccination"
 prefix = "la "
-description = "Recommandations vaccinales d'après le Calendrier vaccinal 2021. Âges de rattrapage, spécialités selon l'âge, taille d'aiguille, sites d'injection des vaccins"
+description = "Recommandations vaccinales d'après le Calendrier vaccinal 2022. Âge de rattrapage, vaccins selon l'âge, taille d'aiguille et sites d'injection des vaccins"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-14T15:52:41+02:00
 publishdate = 2020-10-14
 lastmod = 2022-04-27
 specialites = ["infectiologie"]
-annees = "2021"
-sources = ["MinSante", "HCSP"]
+annees = "2022"
+sources = ["MinSanté", "HCSP"]
 tags = ["prevention", "vaccin", "zona"]
 anglais = []
 sctid = ""
@@ -19,6 +19,7 @@ todo = "choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccinat
 {{%article-summary%}}
 
 - [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
+- Grossesse: rappel Coqueluche à chaque grossesse (entre 20 et 36 SA)
 - Vaccination ≥ 16 ans par IDE et pharmaciens sans ordonnance pour: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage
 
 {{%/article-summary%}}
@@ -36,23 +37,26 @@ Rattrapage vaccinal
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal" "show" %}}
 
-{{< table title="Calendrier des vaccins recommandés en France en 2021. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Ministère de la Santé 2021" >}}
+{{< table title="Calendrier des vaccins recommandés en France en 2022. Dr JB Fron d'après Ministère de la Santé 2022" >}}
 | Âge     | Valences      | Spécialités équivalentes       |
 |:-------:|---------------|--------------------------------|
 | 2 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
+| 3 mois  | Méningo B  | Bexsero NR                        |
 | 4 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
-| 5 mois  | Méningo CC    | Neisvac                        |
+| 5 mois  | Méningo C<br>Méningo B    | Neisvac<br>Bexsero NR |
 | 11 mois | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
-| 12 mois | Méningo CC<br>ROR          | Neisvac<br>MMRvaxPro, Priorix                 |
+| 12 mois | Méningo C<br>ROR<br>Méningo B | Neisvac<br>MMRvaxPro, Priorix<br>Bexsero NR |
 | 16-18 mois | ROR        | MMRvaxPro, Priorix             |
-| 6 ans   | DTCaPolio     | InfanrixTetra, Tetravac-acellulaire                       |
+| 6 ans   | DTCaPolio     | InfanrixTetra, Tetravac-acellulaire |
 | 11-13 ans   | dTcaPolio<br>(DTCaPolio si non fait)       | BoostrixTetra, Repevax<br>(voir 6 ans)    |
 | 11-14 ans   | HPV       | Gardasil9                      |
 | 25 ans  | dTcaPolio     | BoostrixTetra, Repevax         |
-| 45 ans  | dTPolio       | Revaxis    |
+| 45 ans  | dTPolio       | Revaxis                        |
 | ≥ 65 ans    | dTPolio tous les 10 ans<br>Antigrippal annuel | Revaxis<br>Influvac Tetra, VaxigripTetra |
-| 65-74 ans   | Zona      | Zostavax   |
+| 65-74 ans   | Zona      | Zostavax                       |
 {{< /table >}}
+
+> Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention NR (Bexsero = 83,7 €/dose)
 
 {{% /collapse %}}
 {{%collapse "Schémas de rattrapage" %}}
@@ -60,13 +64,13 @@ Rattrapage vaccinal
 {{< table title="Âges limites du rattrapage vaccinal" >}}
 | Germe        | Âge limite de rattrapage |
 |--------------|:------------------------:|
-| Coqueluche   | 39 ans (sauf cocooning)  |
+| Coqueluche   | 39 ans (sauf grossesse, cocooning)  |
 | Haemophilus  | 5 ans                    |
 | Hépatite B   | 15 ans                   |
 | Méningocoque C | 24 ans                 |
 | Papillomavirus | 19 ans                 |
 | Pneumocoque  | 23 mois                  |
-| Rougeole<br>Oreillons<br>Rubéole | 40 ans |
+| Rougeole<br>Oreillons<br>Rubéole | 42 ans |
 | Varicelle    | 18 ans                   |
 {{< /table >}}
 
@@ -85,7 +89,7 @@ Rattrapage vaccinal
 - Tétanos
 - [Coqueluche]({{< relref "coqueluche.md" >}})
 - Poliomyélite
-- Hépatite B
+- [Hépatite B]({{< relref "hepatite-b.md" >}})
 - Rougeole
 - Oreillons
 - Rubéole

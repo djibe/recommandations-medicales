@@ -36,18 +36,18 @@ En effet, **il est inenvisageable de tenter une synthèse pour la prise en soins
   - Modéré si âge < 35 sans complication
 - Arrêt du tabac
 - Hypertension artérielle  
-Objectif tensionnel **< 130/80** mmHg (*ESC 2019*).
+  Objectif tensionnel **< 130/80** mmHg (*ESC 2019*).
 - Dyslipidémie  
-L'objectif de LDL dépend du {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}
+  L'objectif de LDL dépend du {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}
 - Activité physique  
 **Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire.
 - Cible d'HbA1c personnalisée
 - Surpoids  
-Négocier une perte de poids (5-10%).
+  Négocier une perte de poids (5-10%).
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Vaccination Covid-19
+- Vaccination Covid-19, grippe, pneumocoque
 - Dépistage de la [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})  
-Au diagnostic puis annuel pendant 5 ans *(ISPAD 2018)[https://cdn.ymaws.com/www.ispad.org/resource/resmgr/consensus_guidelines_2018_/19.other_complications_and_a.pdf]*.
+  Au diagnostic puis annuel pendant 5 ans *(ISPAD 2018)[https://cdn.ymaws.com/www.ispad.org/resource/resmgr/consensus_guidelines_2018_/19.other_complications_and_a.pdf]*.
 
 ## Participer à des études
 

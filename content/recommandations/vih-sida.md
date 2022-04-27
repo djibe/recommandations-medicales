@@ -8,10 +8,10 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CAZANAVE (CMIT)"
 date = 2021-01-16T22:06:00+02:00
 publishdate = 2021-01-16
-lastmod = 2022-03-28
+lastmod = 2022-04-27
 specialites = ["infectiologie"]
 annees = "2021"
-sources = ["CNS", "HAS"]
+sources = ["CNS", "HAS", "MinSanté"]
 tags = ["depistage", "fatigue", "fievre", "HSH", "IST", "sueurs nocturnes", "toux", "VIH", "zona"]
 anglais = ["Human immunodeficiency virus infection"]
 sctid = "86406008"
@@ -396,7 +396,7 @@ Indications au scanner thoracique, VIH+ et:
 - Douleur chronique
 - Altération de l'état général
 
-> Source *CNS 2017*
+> *CNS 2017*
 
 ### Dépistage du cancer de la vessie
 
@@ -405,7 +405,7 @@ En cas d'exposition pendant au moins 1 an à un agent cancérigène vésical.
 
 **Méthode:** cytologie urinaire tous les 6 mois.
 
-> Source *CNS 2017*
+> *CNS 2017*
 
 ### Dépistage du lymphome
 
@@ -417,7 +417,7 @@ Palpation des aires ganglionnaires au moins 1/an.
 - [Mise à jour du calendrier vaccinal]({{< relref "vaccination.md" >}})
   - Rappel DTP tous les 10 ans
   - Méningocoque C  
-  Jusqu'à 26 ans, 2 injections à M0M6.
+    Jusqu'à 26 ans, 2 injections à M0-M6.
 - Grippe annuelle
 - {{< modal-btn modal-vaccin-hepatite-a >}}Hépatite A{{< /modal-btn >}}
   - Indications: co-infection VHB ou VHC, hépatopathie chronique, alcool, voyage zone endémique
@@ -443,7 +443,7 @@ Palpation des aires ganglionnaires au moins 1/an.
 
 {{%warning%}}Contre-indication au BCG quel que soit le taux de CD4{{%/warning%}}
 
-> Sources *Calendrier vaccinal 2021* et *HAS 2018*
+> Sources *Calendrier vaccinal* et *HAS 2018*
 
 {{% /collapse %}}
 {{%collapse "Suivi clinique du patient sous antirétroviral" %}}

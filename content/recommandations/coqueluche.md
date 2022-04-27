@@ -8,7 +8,7 @@ date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
 lastmod = "2022-04-17"
 specialites = ["infectiologie"]
-annees = "2021"
+annees = "2022"
 sources = ["SPILF", "HAS", "HCSP"]
 tags = ["nourrisson", "toux"]
 anglais = ["Pertussis", "Whooping cough"]
@@ -25,8 +25,8 @@ todo = "https://www.wiv-isp.be/matra/fiches/coqueluche.pdf"
 - PCR coqueluche nécessaire
 - Éviction et antibiothérapie macrolide azithromycine 250 mg x 2/j 3 jours
 - Antibioprophylaxie des contacts
+- Rappel vaccinal à chaque grossesse
 - Signalement à l'ARS quand ≥ 2 cas en collectivité
-- Rattrapage de l'entourage au 2<sup>e</sup> trimestre de la grossesse
 
 Voir aussi: [toux chronique]({{< relref "toux-chronique.md" >}})
 
@@ -136,7 +136,7 @@ La vaccination protège de la coqueluche pendant 5-10 ans.
 | 6 ans                       | InfanrixTetra, Tetravac-acellulaire                            |                                         |
 | 11-13 ans                   | BoostrixTetra, Repevax                                         | Schéma des 6 ans si manqué              |
 | 25 ans                      | BoostrixTetra, Repevax<br>Sauf rappel dans les 5 ans           | Rattrapage jusqu'à 39 ans               |
-| Grossesse 20-36 SA          | BoostrixTetra, Repevax<br>et entourage (foyer, grands-parents, babysitters) | Rattrapage avant la sortie de maternité |
+| Grossesse 20-36 SA          | BoostrixTetra, Repevax<br>et entourage (foyer, grands-parents, babysitters) | À chaque grossesse. Rattrapage avant la sortie de maternité |
 | Adulte avec projet parental | BoostrixTetra, Repevax                                         |                                         |
 | Coqueluche                  | Pas de rappel nécessaire dans les 10 ans                       | Sauf coqueluche du nourrisson           |
 {{< /table >}}
@@ -196,7 +196,6 @@ La plus précoce possible jusqu'à 21 jours après le dernier contact avec le ca
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS. Recommandation vaccinale contre la coqueluche chez la femme enceinte. Avril 2022.](https://www.has-sante.fr/jcms/p_3084228/fr/recommandation-vaccinale-contre-la-coqueluche-chez-la-femme-enceinte)
 - {{< references/calendrier-vaccinal >}}
 - [SPILF. Info-antibio N°92. Mai 2021.](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2021-05-tt-courts.pdf)
 - [CMIT. Coqueluche. UE6 Item 159. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-159-nb.pdf)

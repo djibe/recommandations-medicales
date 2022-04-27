@@ -258,7 +258,7 @@ window.onload = () => {
 | Rénal        | Créatininémie, albuminurie sur échantillon annuels                                               | ESC 2019 diabetes        |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | SFD 2016                 |
 | Score calcique | {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} &plusmn; EE | SFD 2021 CAD |
-| Vaccins      | Covid-19, grippe, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}        | Calendrier vaccinal 2021 |
+| Vaccins      | Covid-19, grippe, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}        | Calendrier vaccinal |
 {{< /table >}}
 
 > **AAA** = anévrysme de l'aorte abdominale ; **EE** = épreuve d'effort ; **aspirine:** IPP si risque élevé de saignement digestif  
@@ -283,6 +283,7 @@ window.onload = () => {
 
 {{< card-link title="e-learning EASD" url="https://easd-elearning.org/">}}
 
+- {{< references/calendrier-vaccinal >}}
 - {{< references/sfd-dt2 >}}
 - [Riddle M.C. et al. Consensus report: definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021.](https://link.springer.com/article/10.1007/s00125-021-05542-z)
 - [Monnier L. et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
