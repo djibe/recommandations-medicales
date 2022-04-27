@@ -7,7 +7,7 @@ synonyms = ["Eczéma atopique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-02T17:43:41+02:00
 publishdate = 2021-11-29
-lastmod = 2022-03-25
+lastmod = 2022-04-27
 specialites = ["dermatologie"]
 annees = "2017"
 sources = ["SFDermato", "CEDEF"]
@@ -258,6 +258,10 @@ graph TB
 - Prescrire Redaction. Eczéma atopique des nourrissons. La Revue Prescrire. Octobre 2017.
 - [CEDEF, Staumont D. Dermatite atopique. Item 163 UE 7. 2017.](https://undf.cedef.org/fr/document/Hypersensibilit%C3%A9s-et-allergies-cutan%C3%A9o-muqueuses-chez-l%E2%80%99enfant-et-l%E2%80%99adulte)
 - [SFDermato. Prise en charge de la dermatite atopique de l'enfant. Ann Dermatol Venereol. 2005. (PDF)](https://www.sfdermato.org/upload/recommandations/da-court-21929906693b437d6f4315bef48d1518.pdf)
+
+### À lire
+
+[Wollenberg A et al; European Task Force on Atopic Dermatitis/EADV Eczema Task Force. ETFAD/EADV Eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children. J Eur Acad Dermatol Venereol. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16892)
 
 {{%/sources%}}
 {{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}

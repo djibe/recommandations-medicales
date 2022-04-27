@@ -1,7 +1,7 @@
 +++
 title = "Cancer du col de l'utérus"
 prefix = "le "
-description = "TODO:"
+description = "Recommandations pour le dépistage du cancer du col de l'utérus et des papillomavirus. Vaccination Gardasil, frottis cervico-vaginal et test HPV haut risque"
 synonyms = ["et papillomavirus humains HPV", "dysplasies et condylomes"]
 aliases = ["/recommandations/papillomavirus/"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]

@@ -2,7 +2,7 @@
 title = "Thrombose veineuse profonde"
 prefix = "la "
 titleSeo = "Thrombose veineuse profonde"
-description = "TODO:"
+description = "Recommandations pour la prise en charge de la Thrombose veineuse profonde TVP. Score de Wells, D-dimères et indications à l'échodoppler, durée d'anticoagulation"
 longHtml = true
 synonyms = ["Phlébite profonde"]
 auteurs = ["Jean-Baptiste FRON"]
