@@ -6,14 +6,13 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
-lastmod = 2021-11-07
+lastmod = 2022-04-27
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["HAS", "MinSante"]
 tags = ["obesite", "prevention", "vaccin"]
 anglais = ["influenza", "flu"]
 sctid = "6142004"
-draft = false
 todo = "grippe grossesse, antiviral"
 +++
 
@@ -126,7 +125,9 @@ Campagne de vaccination du 26 octobre 2021 au 31 janvier 2022.
 
 Pas de délai (voire co-injection) entre les vaccins anti-grippaux et anti-covid19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
 
-### Bénéfices de la vaccination antigrippale
+La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
+
+### Pour en savoir plus: Bénéfices de la vaccination antigrippale
 
 Chez l'adulte sain, réduit de 29% (65% chez +60 ans) le nombre de cas de syndromes grippaux et de 65% le nombre de cas de grippes.
 

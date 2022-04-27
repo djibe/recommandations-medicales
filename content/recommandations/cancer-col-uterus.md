@@ -169,6 +169,8 @@ Indications au vaccin HPV ([Gardasil 9®](https://ec.europa.eu/health/documents/
   - Possible à partir de 9 ans en prévision de transplantation d'organe solide
   - Schéma: Gardasil 9® à M0, M2 et M6
 
+La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
+
 #### Pour en savoir plus: Intérêts de la vaccination
 
 Prévention des lésions précancéreuses de tous les sites atteints (voir *Complications*).

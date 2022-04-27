@@ -85,6 +85,8 @@ Hémodialyse et immunodépression avec exposition au risque: sérologie annuelle
 {{% /collapse %}}
 {{%collapse "Vaccins disponibles" %}}
 
+La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
+
 ### Vaccins hépatite B pour adultes
 
 - [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R)  

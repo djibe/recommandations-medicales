@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-14T15:52:41+02:00
 publishdate = 2020-10-14
-lastmod = 2022-04-16
+lastmod = 2022-04-27
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["MinSante", "HCSP"]
@@ -18,8 +18,8 @@ todo = "choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccinat
 
 {{%article-summary%}}
 
-- La HAS [recommande la vaccination Méningocoque B](https://www.has-sante.fr/jcms/p_3273097/fr/meningocoques-b-la-has-recommande-la-vaccination-des-nourrissons) des nourrissons, remboursé uniquement en risque élevé d'IIM
 - [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
+- Vaccination ≥ 16 ans par IDE et pharmaciens sans ordonnance pour: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -125,6 +125,8 @@ Vider l'air de la seringue, désinfection locale et laisser sécher (risque d'in
 
 Disposer du matériel nécessaire à un choc anaphylactique.
 
+{{%info%}}Depuis le 22 avril 2022, les infirmiers et pharmaciens peuvent administrer sans ordonnance: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage{{%/info%}}
+
 ### Sites d'injection
 
 - Avant 1 an
@@ -187,6 +189,7 @@ Le don du sang est contre-indiqué durant quatre semaines après les vaccination
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
+- [Décret 2022-610 pour la vaccination par les infirmiers et pharmaciens](https://www.mesvaccins.net/textes/2022-04-21-JO-DECRET-2022-610.pdf)
 - [Infovac](https://www.infovac.fr/)
 - [Vaccination Info Service](https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Administration-des-vaccins)
 

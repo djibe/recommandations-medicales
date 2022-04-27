@@ -15,14 +15,15 @@ anglais = ["Lyme disease"]
 sctid = "23502006"
 image = true
 imageSrc = "Érythème migrant. Photo de monkeypuzzle sur Foter"
-todo = "SPF"
+todo = "SPF, algo HAS Annexe 2 et 3"
 +++
 
 {{%article-summary%}}
 
 - Zones à risque: métropole entière (surtout Alsace, Lorraine, Limousin)
-- Mesure de prévention en forêt et [signaler la piqûre](https://tiquotheque.fr/signalement/public/)
-- Érythème migrant: survient dans les 30 jours, diagnostic clinique, antibiothérapie 14j
+- Mesure de prévention en forêt
+- Piqûre de tique: tire-tique, auto-surveillance 30 jours, [signaler la piqûre](https://tiquotheque.fr/signalement/public/)
+- Érythème migrant: survient dans les 30 jours, diagnostic clinique, antibiothérapie 14j, guérison à J14
 - [Paralysie faciale]({{< relref "paralysie-faciale-idiopathique.md" >}}) ou péricardite idiopathique: sérologie systématique
 - Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose
 
@@ -49,10 +50,10 @@ Elle doit être réalisée en suspicion de *phase disséminée*.
 ACA
 : Acrodermatite chronique atrophiante. Phase disséminée tardive de la borréliose de Lyme.
 
-CCMVT
-: centre de compétences pour les maladies vectorielles à tiques
+CC MVT
+: centre de compétences pour les maladies vectorielles à tiques (coordonnées sur le site de l'ARS)
 
-CRMVT
+CR MVT
 : centre de référence de prise en charge pluridisciplinaire des MVT ([site officiel des 5 centres en France](https://crmvt.fr/))
 
 EM
@@ -159,8 +160,11 @@ La découverte fortuite d'une sérologie de Lyme positive sans signes évocateur
 - Plusieurs macules érythémateuses possibles  
   Surtout chez l'enfant: Érythèmes migrants multiples (EMM).
 - Signes négatifs
-  - Érythème douloureux, ulcération, lésion croûteuse
-  - Évoquer une autre MVT (rickettsiose, tularémie)
+  - Érythème douloureux
+  - Ulcération, tâche noire, lésion croûteuse
+  - Adénopathie satellite
+  - Fièvre avec signes neuroméningés ou autre point d'appel clinique
+  - Adresser en infectiologie ou au CC MVT car évoque une autre MVT (rickettsiose, tularémie)
 - Signes généraux possibles
 - Guérit en 7 à 13 jours sous traitement antibiotique adapté  
   Remettre en cause le diagnostic si persiste.
@@ -198,7 +202,7 @@ Autres signes cliniques et symptômes de la maladie de Lyme:
     Quelques semaines à 2 ans après la piqûre, poussées paroxystiques des douleurs articulaires avec intervalles libres.  
     Guérison sous 5 ans même sans antibiothérapie.
   - Sérologie *Borrelia*
-  - Avis rhumatologique pour ponction dès suspicion
+  - Avis rhumatologique ou CC MVT
 - Cardiaques
   - 0,3-4% des cas dans un délai de 4 jours à 7 mois
   - Sérologie *Borrelia*
@@ -229,7 +233,7 @@ Atteintes neurologiques évocatrices:
 - Beaucoup plus rares  
   Méningites, myélites aiguës et encéphalites.
 
-Adresser au spécialiste du centre de compétence (CCMVT, identifié par l'ARS) pour investigations et ponction lombaire.
+Adresser au CC MVT pour investigations et ponction lombaire.
 
 #### Pour en savoir plus: critères diagnostiques européens de la maladie de Lyme
 
@@ -282,11 +286,8 @@ Traitement par l'infectiologue des autres formes de borréliose.
 {{%sources%}}
 
 - [HAS. Guide du parcours de soins de patients présentant une suspicion de borréliose de Lyme. Mars 2022.](https://www.has-sante.fr/jcms/p_3323862/fr/guide-du-parcours-de-soins-de-patients-presentant-une-suspicion-de-borreliose-de-lyme)
+- [Santé Publique France. Borréliose de Lyme : données épidémiologiques 2020. Novembre 2021.](https://www.santepubliquefrance.fr/les-actualites/2021/borreliose-de-lyme-donnees-epidemiologiques-2020)
 - [Gocko X. et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X19306201)
 - [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques. Recommandations de bonne pratique. Juin 2018.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques)
-
-### À lire
-
-- [Santé Publique France. Borréliose de Lyme : données épidémiologiques 2020. Novembre 2021.](https://www.santepubliquefrance.fr/les-actualites/2021/borreliose-de-lyme-donnees-epidemiologiques-2020)
 
 {{%/sources%}}

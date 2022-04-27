@@ -144,6 +144,8 @@ La vaccination protège de la coqueluche pendant 5-10 ans.
 > **Cocooning:** < 25 ans rappel si > 5 ans | ≥ 25 ans rappel si > 10 ans  
 **Professionnels de santé:** ajouter la coqueluche à chaque rappel du dTPolio (45 et 65 ans) + 1 dose si dernière dose réalisée ≤ 18 ans et date > 5 ans.
 
+La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
+
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 

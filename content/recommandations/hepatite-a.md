@@ -86,6 +86,8 @@ Sérologie si antécédent d'ictère, enfance en zone d'endémie ou né avant 19
 {{% /collapse %}}
 {{%collapse "Vaccins disponibles" %}}
 
+La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
+
 ### Vaccins hépatite A pour adultes
 
 {{< traitements/vaccin-hepatite-a >}}
