@@ -54,6 +54,7 @@ Rattrapage vaccinal
 | 45 ans  | dTPolio       | Revaxis                        |
 | ≥ 65 ans    | dTPolio tous les 10 ans<br>Antigrippal annuel | Revaxis<br>Influvac Tetra, VaxigripTetra |
 | 65-74 ans   | Zona      | Zostavax                       |
+| Grossesse   | Coqueluche<br>Grippe<br>Covid-19 | BoostrixTetra, Repevax ... |
 {{< /table >}}
 
 > Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention NR (Bexsero = 83,7 €/dose)
