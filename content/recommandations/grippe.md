@@ -13,7 +13,7 @@ sources = ["HAS", "MinSanté"]
 tags = ["obesite", "prevention", "vaccin"]
 anglais = ["influenza", "flu"]
 sctid = "6142004"
-todo = "def, grippe grossesse, antiviral"
+todo = "def, grippe grossesse, antiviral, vaccin grippe porcin aviaire"
 +++
 
 {{%article-summary%}}

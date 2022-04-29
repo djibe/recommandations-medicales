@@ -8,7 +8,6 @@ lastmod = 2022-03-27
 specialites = []
 sources = []
 tags = []
-image = false
 imageSrc = ""
 todo= "webcam creative live! cam sync 1080p 50€ | i3 10100 ou 12100 | écran ViewSonic XG2705-2K, AOC 27G2U, Iiyama GB2766HSU-B1 | logitech mx keys ou mk470"
 +++

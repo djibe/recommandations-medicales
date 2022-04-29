@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-29T23:51:41+02:00
 publishdate = 2020-09-29
-lastmod = 2022-04-27
+lastmod = 2022-04-28
 specialites = ["hematologie"]
-annees = "2021"
+annees = "2022"
 sources = ["HCSP", "MinSanté"]
 tags = ["vaccin", "voyage"]
 anglais = ["Asplenia"]
@@ -104,7 +104,8 @@ Mise à jour du calendrier vaccinal.
 
 ##### Méningocoque B
 
-- ≥ 11 ans: Bexsero® avec 2<sup>e</sup> injection à 1 mois
+- ≥ 11 ans: Bexsero® avec 2<sup>e</sup> injection à 1 mois  
+  ou Trumenba® ≥ 10 ans en 2 ou 3 injections (et rythme de rappel non défini)
 - 6 mois à 10 ans: Bexsero® avec 2<sup>e</sup> injection à 2 mois
 - 2 à 5 mois: Bexsero® en 3 injections à 1 mois d'intervalle
 

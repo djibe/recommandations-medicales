@@ -1,7 +1,7 @@
 +++
 title = "Maladie de Lyme"
 prefix = "la "
-description = "Recommandations pour la prise en charge de la maladie de la Maladie de Lyme. Prévention de la maladie, examens diagnostiques et traitement antibiotique"
+description = "Recommandations pour la prise en charge de la borréliose Maladie de Lyme. Prévention, érythème migrant, examens diagnostiques et traitement par antibiothérapie"
 synonyms = ["Borréliose de Lyme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-30T18:17:39+02:00"
@@ -10,7 +10,7 @@ lastmod = "2022-04-27"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "DGS"]
-tags = []
+tags = ["prevention"]
 anglais = ["Lyme disease"]
 sctid = "23502006"
 image = true

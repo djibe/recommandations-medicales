@@ -12,7 +12,7 @@
         </nav>
       </div>
       <div class="col-12 grid-list">
-      {{ range .Pages.ByTitle }}
+      {{ range .Pages.ByDate.Reverse }}
         <div class="card card-list">
           <div class="card-img-top" style="background-image: url('/images/cabinet/{{.File.BaseFileName}}.webp')"></div>
           <div class="card-header">

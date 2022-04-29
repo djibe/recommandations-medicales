@@ -8,7 +8,6 @@ publishdate = 2022-01-20
 lastmod = 2022-01-20
 sources = []
 tags = []
-image = false
 imageSrc = ""
 +++
 

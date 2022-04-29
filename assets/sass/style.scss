@@ -469,6 +469,27 @@ article {
   }
 }
 
+.cabinet-bg {
+  background-size: cover !important;
+  background-color: #b8af9f;// #FFF4DF;
+  background-blend-mode: lighten;
+  border-radius: 64px;
+  display: flex;
+  align-items: center;
+  min-height: 360px;
+  margin-bottom: 24px;
+  padding: 40px;
+}
+
+.cabinet-title {
+  padding: 40px 0;
+  font-size: 4rem;
+  font-weight: 300;
+  letter-spacing: -.015625em;
+  line-height: 5rem;
+  text-shadow: 4px 2px 2px #fff;
+}
+
 @media screen and (min-width: 768px) {
   .projet__content {
     > h2,
@@ -489,27 +510,6 @@ article {
       font-size: 18px;
     }
   }
-}
-
-.cabinet-bg {
-  background-size: cover !important;
-  background-color: #b8af9f;// #FFF4DF;
-  background-blend-mode: lighten;
-  border-radius: 64px;
-  display: flex;
-  align-items: center;
-  min-height: 360px;
-  margin-bottom: 24px;
-  padding: 40px;
-}
-
-.cabinet-title {
-  padding: 40px 0;
-  font-size: 4rem;
-  font-weight: 300;
-  letter-spacing: -.015625em;
-  line-height: 5rem;
-  text-shadow: 4px 2px 2px #fff;
 }
 
 .card-actions {
