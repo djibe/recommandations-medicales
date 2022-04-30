@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-14T15:52:41+02:00
 publishdate = 2020-10-14
-lastmod = 2022-04-27
+lastmod = 2022-04-30
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["MinSanté", "HCSP"]
@@ -37,17 +37,17 @@ Rattrapage vaccinal
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal" "show" %}}
 
-{{< table title="Calendrier des vaccins recommandés en France en 2022. Dr JB Fron d'après Ministère de la Santé 2022" >}}
+{{< table title="Calendrier des vaccins recommandés en France en 2022. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Ministère de la Santé 2022" >}}
 | Âge     | Valences      | Spécialités équivalentes       |
 |:-------:|---------------|--------------------------------|
 | 2 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
-| 3 mois  | Méningo B  | Bexsero NR                        |
+| 3 mois  | Méningo B  | Bexsero                           |
 | 4 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
-| 5 mois  | Méningo C<br>Méningo B    | Neisvac<br>Bexsero NR |
+| 5 mois  | Méningo C<br>Méningo B    | Neisvac<br>Bexsero |
 | 11 mois | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
-| 12 mois | Méningo C<br>ROR<br>Méningo B | Neisvac<br>MMRvaxPro, Priorix<br>Bexsero NR |
+| 12 mois | Méningo C<br>ROR<br>Méningo B | Neisvac<br>MMRvaxPro, Priorix<br>Bexsero |
 | 16-18 mois | ROR        | MMRvaxPro, Priorix             |
-| 6 ans   | DTCaPolio     | InfanrixTetra, Tetravac-acellulaire |
+| 6 ans   | DTCaPolio     | ~~~InfanrixTetra~~~, Tetravac-acellulaire |
 | 11-13 ans   | dTcaPolio<br>(DTCaPolio si non fait)       | BoostrixTetra, Repevax<br>(voir 6 ans)    |
 | 11-14 ans   | HPV       | Gardasil9                      |
 | 25 ans  | dTcaPolio     | BoostrixTetra, Repevax         |
@@ -56,8 +56,6 @@ Rattrapage vaccinal
 | 65-74 ans   | Zona      | Zostavax                       |
 | Grossesse   | Coqueluche<br>Grippe | BoostrixTetra, Repevax ... |
 {{< /table >}}
-
-> Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention NR (Bexsero = 83,7 €/dose)
 
 {{% /collapse %}}
 {{%collapse "Schémas de rattrapage" %}}
