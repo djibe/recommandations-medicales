@@ -311,7 +311,7 @@ select {
   word-wrap: normal;
 }
 
-select[multiple], select[size] {
+ select[size] {
   overflow: auto;
 }
 
@@ -3112,11 +3112,11 @@ select.form-control {
   transition: background-image 180ms;
 }
 
-select.form-control[multiple], select.form-control[size]:not([size='1']) {
+ select.form-control[size]:not([size='1']) {
   background-image: none;
 }
 
-select.form-control[multiple], select.form-control[size]:not([size='1']), textarea.form-control:not([rows='1']) {
+ select.form-control[size]:not([size='1']), textarea.form-control:not([rows='1']) {
   background-image: none !important;
   border-color: rgba(0, 0, 0, 0.24);
   border-radius: 4px;
@@ -3125,20 +3125,20 @@ select.form-control[multiple], select.form-control[size]:not([size='1']), textar
   padding: calc(1rem - 1px) 1rem;
 }
 
-select.form-control:hover[multiple], select.form-control:hover[size]:not([size='1']), textarea.form-control:hover:not([rows='1']) {
+ select.form-control:hover[size]:not([size='1']), textarea.form-control:hover:not([rows='1']) {
   border-color: rgba(0, 0, 0, 0.87);
 }
 
-select.form-control:focus[multiple], select.form-control:focus[size]:not([size='1']), textarea.form-control:focus:not([rows='1']) {
+ select.form-control:focus[size]:not([size='1']), textarea.form-control:focus:not([rows='1']) {
   border-color: #e87500;
   box-shadow: inset 2px 2px 0 -1px #e87500, inset -2px -2px 0 -1px #e87500;
 }
 
-select.form-control[multiple], select.form-control[size]:not([size='1']) {
+ select.form-control[size]:not([size='1']) {
   padding: 0.5rem 0;
 }
 
-select.form-control[multiple] option, select.form-control[size]:not([size='1']) option {
+ select.form-control[size]:not([size='1']) option {
   padding: 0 1.5rem;
 }
 
