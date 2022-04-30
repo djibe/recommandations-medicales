@@ -108,4 +108,4 @@ HUGO_ENABLEGITINFO = "false"
   package = "netlify-plugin-inline-critical-css"
 
   [plugins.inputs]
-  directoryFilter = ["annees", "specialites", "tags"]
+  directoryFilter = ["!annees", "!specialites", "!tags"]
