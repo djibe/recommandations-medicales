@@ -8,3 +8,6 @@ resources/
 *.log
 TODO.md
 *.xd
+
+# Local Netlify folder
+.netlify

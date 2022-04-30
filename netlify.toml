@@ -1,9 +1,12 @@
+[Settings]
+ID = "327af24a-1868-47c1-959c-7c0afe3b1891"
+
 [build]
 publish = "public"
 command = "hugo --cleanDestinationDir --gc --minify"
 
 [build.environment]
-  NODE_VERSION = "14.16"
+NODE_VERSION = "14.16"
 
 [context.production.environment]
 HUGO_VERSION = "0.98.0"
@@ -103,3 +106,6 @@ HUGO_ENABLEGITINFO = "false"
 
 [[plugins]]
   package = "netlify-plugin-inline-critical-css"
+
+  [plugins.inputs]
+  directoryFilter = ["annees", "specialites", "tags"]
