@@ -27,10 +27,14 @@ TODO:
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
+### Épidémiologie de la carie en France
 
+- 4-5 ans: 20-30% avec ≥ 1 carie non soignée
+- 6 ans: 50-70% sans carie
+- 12 ans: 50% sans carie
 
 {{% /collapse %}}
-{{%collapse "Examens complémentaires" %}}
+{{%collapse "Soins dentaires recommandés" %}}
 
 
 {{% /collapse %}}

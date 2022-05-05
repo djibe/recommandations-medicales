@@ -13,6 +13,8 @@ sources = ["MinSanté", "HCSP"]
 tags = ["prevention", "vaccin", "zona"]
 anglais = []
 sctid = ""
+image = true
+imageSrc = "Illustration par Freepik"
 todo = "texte vaccins obligatoires , choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages"
 +++
 
@@ -55,16 +57,16 @@ SA
 | 2 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
 | 3 mois  | Méningo B  | Bexsero                           |
 | 4 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
-| 5 mois  | Méningo C<br>Méningo B    | Neisvac, Menjugate<br>Bexsero |
+| 5 mois  | Méningo C<br>Méningo B    | Menjugate, Neisvac<br>Bexsero |
 | 11 mois | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
-| 12 mois | Méningo C<br>ROR<br>Méningo B | Neisvac, Menjugate<br>MMRvaxPro, Priorix<br>Bexsero |
+| 12 mois | Méningo C<br>ROR<br>Méningo B | Menjugate, Neisvac<br>MMRvaxPro, Priorix<br>Bexsero |
 | 16-18 mois | ROR        | MMRvaxPro, Priorix             |
 | 6 ans   | DTCaPolio     | ~~~InfanrixTetra~~~, Tetravac-acellulaire |
 | 11-13 ans   | dTcaPolio<br>(DTCaPolio si non fait)       | BoostrixTetra, Repevax<br>(voir 6 ans)    |
 | 11-14 ans   | HPV       | Gardasil9                      |
 | 25 ans  | dTcaPolio     | BoostrixTetra, Repevax         |
 | 45 ans  | dTPolio       | Revaxis                        |
-| ≥ 65 ans    | dTPolio tous les 10 ans<br>Antigrippal annuel | Revaxis<br>Efluelda, Flurarix tetra, Influvac Tetra, VaxigripTetra |
+| ≥ 65 ans    | dTPolio tous les 10 ans<br>Antigrippal annuel | Revaxis<br>Efluelda, Flurarix-Influvac-Vaxigrip Tetra |
 | 65-74 ans   | Zona      | Zostavax (vivant)              |
 | Grossesse   | Coqueluche<br>Grippe | BoostrixTetra, Repevax ... |
 {{< /table >}}
@@ -73,27 +75,22 @@ SA
 {{%collapse "Rattrapage vaccinal" %}}
 
 {{< table title="Âges limites du rattrapage vaccinal systématique en population générale selon le Calendrier vaccinal" >}}
-| Germe        | Âge limite de rattrapage |
-|--------------|:------------------------:|
-| Coqueluche   | 39 ans (sauf grossesse, cocooning)  |
-| Haemophilus  | 5 ans                    |
-| Hépatite B   | 15 ans                   |
-| Méningocoque B | 23 mois                |
-| Méningocoque C | 24 ans                 |
-| Papillomavirus | 19 ans                 |
-| Pneumocoque  | 23 mois                  |
-| Rougeole<br>Oreillons<br>Rubéole | 42 ans |
-| Varicelle    | 18 ans                   |
+| Germe        | Âge limite de rattrapage | Rattrapages spécifiques |
+|--------------|:------------------------:|-------------------------|
+| Coqueluche   | 39 ans                   | [Grossesse, cocooning]({{< relref "coqueluche.md" >}}) |
+| Haemophilus  | 5 ans                    | [Asplénie]({{< relref "asplenie.md" >}}) |
+| Hépatite B   | 15 ans                   | [Hépatite B]({{< relref "hepatite-b.md" >}}) |
+| Méningocoque B | 23 mois                | |
+| Méningocoque C | 24 ans                 | |
+| Papillomavirus | 19 ans                 | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}}) |
+| Pneumocoque  | 23 mois                  | BPCO, diabète ... |
+| Rougeole<br>Oreillons<br>Rubéole | 42 ans | |
+| Varicelle    | 18 ans                   | [Varicelle]({{< relref "varicelle.md" >}}) |
 {{< /table >}}
 
-TODO: Rattrapages spécifiques:
+Pour le BCG, voir [tuberculose]({{< relref "tuberculose.md" >}}).
 
-- BCG, voir [tuberculose]({{< relref "tuberculose.md" >}})
-- Coqueluche, voir [cocooning]({{< relref "coqueluche.md" >}})
-- Varicelle, voir [varicelle]({{< relref "varicelle.md" >}})
-- VHB, HPV, Pneumocoque
-
-{{%info%}}<< Un rattrapage vaccinal est indiqué en cas de statut inconnu >> (*Calendrier vaccinal*){{%info%}}
+{{%info%}}<< Un rattrapage vaccinal est indiqué en cas de statut inconnu >> (*Calendrier vaccinal*){{%/info%}}
 
 ### Sérologies pour le rattrapage vaccinal en population générale
 
