@@ -7,14 +7,13 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-08-23T10:34:41+02:00
 publishdate = 2020-08-23
-lastmod = 2022-04-21
+lastmod = 2022-05-01
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HCSP", "MinSanté", "HAS"]
 tags = ["vaccin"]
 anglais = ["CoViD-19"]
 sctid = "840539006"
-draft = false
 flowchart = true
 image = true
 imageSrc = "La Covid-19 par stories / Freepik"
@@ -76,6 +75,7 @@ Risque démultiplié de forme grave si polypathologique. Doit tenir compte des c
 
 ### Paxlovid
 
+[Ameli: Prescription du Paxlovid en ville](https://www.ameli.fr/sites/default/files/Documents/Prescription-Paxlovid-en-ville.pdf)
 [Document HAS officiel (RCP)](https://www.has-sante.fr/jcms/p_3311133/fr/paxlovid-pf-07321332/ritonavir).  
 Administrer dès que possible.
 
@@ -88,13 +88,13 @@ Toutes les conditions doivent être remplies
 3. Pas d'oxygénothérapie nécessaire
 4. Début des symptômes depuis ≤ 5 jours
 5. Absence de contre-indication au traitement (voir *Document HAS officiel*)
-6. Contrôle obligatoire des interactions
+6. [Contrôle obligatoire des interactions du Paxlovid](https://sfpt-fr.org/recospaxlovid)
 
 ### Prescrire le Paxlovid
 
 Prescription en accès précoce sur: <https://www.ap-paxlovid.com/> (nécessite CPS ou [e-CPS]({{< relref "cabinet/e-cps.md" >}}))
 
-{{%info%}}PF 07321332 150 mg 2 cp + Ritonavir 100 mg per os toutes les 12h pendant 5 jours{{%/info%}}
+{{%info%}}Nirmatrelvir 150 mg 2 cp + Ritonavir 100 mg per os toutes les 12h pendant 5 jours{{%/info%}}
 
 {{%/collapse%}}
 {{%collapse "Vaccination" %}}

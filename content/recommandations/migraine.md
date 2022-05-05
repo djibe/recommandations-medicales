@@ -7,11 +7,11 @@ synonyms = ["Migraine avec ou sans aura", "aura migraineuse"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-12T13:03:13+01:00"
 publishdate = 2022-02-17
-lastmod = 2022-03-28
+lastmod = 2022-04-30
 specialites = ["neurologie"]
 annees = "2021"
 sources = ["SFEMC", "CNGOF"]
-tags = ["cephalees", "contraception", "depistage"]
+tags = ["cephalees", "coeliaque", "contraception", "depistage"]
 anglais = ["Migraine"]
 sctid = "37796009"
 flowchart = true
@@ -246,6 +246,10 @@ Indications:
 
 Proposer si [signes évocateurs]({{< relref "bilan-orthoptique.md" >}}): diplopie, vision floue, fatigue, troubles de concentration, difficultés d'adaptation aux lunettes...  
 Recherche une part non migraineuse associée.
+
+### Sérologie cœliaque
+
+Selon *ESsCD 2019*: IgA anti-transglutaminase et IgA totales devant migraine ou céphalées (voir *[maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})*)
 
 {{% /collapse %}}
 {{%collapse "Traitement de la crise migraineuse et mesures générales" %}}

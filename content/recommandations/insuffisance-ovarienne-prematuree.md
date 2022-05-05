@@ -11,7 +11,7 @@ lastmod = "2022-03-28"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["HAS", "CNGOF"]
-tags = ["infertilite", "sueurs nocturnes", "TSH"]
+tags = ["coeliaque", "infertilite", "sueurs nocturnes", "TSH"]
 anglais = ["Premature ovarian insufficiency"]
 sctid = "237788002"
 flowchart = true
@@ -77,7 +77,7 @@ THS
 - **Génétique**  
   - Formes familiales (4-31%)
   - Origines plus exposées  
-  Afro-américaines, hispaniques > caucasienne > asiatiques.
+    Afro-américaines, hispaniques > caucasienne > asiatiques.
   - Syndrome de Turner
   - Prémutation du gène FMR1 ou autres
 - Auto-immune
@@ -147,8 +147,8 @@ FSH, estradiol, hCG, prolactine, TSH:
 Prise en charge dans un Centre de Référence de maladies rares prenant en charge les IOP avec:
 
 - AMH (évaluation de la réserve ovarienne)
-- anticorps anti-TPO
-- Sérologie cœliaque: IgA totales + IgA anti-transglutaminase
+- [Anticorps anti-TPO]({{< relref "hypothyroidie.md" >}})
+- [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}): IgA totales + IgA anti-transglutaminase
 - Absence de cause iatrogène: anticorps anti-surrénaliens, anti 21-hydroxylase
 
 Caryotype en IOP non iatrogène, réalisé lors du bilan spécialisé.

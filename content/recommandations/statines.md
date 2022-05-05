@@ -6,7 +6,7 @@ synonyms = ["Hypolipémiants"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-17T13:36:17+01:00"
 publishdate = "2022-03-17"
-lastmod = "2022-03-17"
+lastmod = "2022-04-30"
 specialites = ["therapeutique"]
 annees = "2020"
 sources = ["ESC"]
@@ -19,7 +19,10 @@ imageSrc = "Illustration par macrovector / Freepik"
 
 {{%article-summary%}}
 
-TODO:
+- Pour une baisse du LDLc +50%: atorvastatine ≥ 40 ou rosuvastatine ≥ 20 mg
+- Cible de LDL selon le {{< scores/heartscore >}}
+- 90% des myalgies sont attribuables à un effet nocebo
+- Arrêt de statine: +20% de mortalité cardiovasculaire
 
 {{%/article-summary%}}
 {{%collapse "Intensité des statines" %}}

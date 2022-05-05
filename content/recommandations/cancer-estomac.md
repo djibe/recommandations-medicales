@@ -22,11 +22,10 @@ todo = "algo, FDR: IPP > 1 an ?"
 
 {{%article-summary%}}
 
-- Atteint préférentiellement l'homme +65 ans.
-- Principaux facteurs de risque: gastrite à *[HP]({{< relref "helicobacter-pylori.md" >}})* (80%), tabagisme, alimentation salée/fumée, antécédent familial de cancer gastrique, Lynch/HNPCC.
-- Signes d'alarmes en symptômes digestifs hauts:  
-  Dysphagie, amaigrissement, anémie.
-- Dépistage du 1<sup>er</sup> degré en cas de lésion cancéreuse (sérologie HP < 45 ans, fibroscopie après).
+- Atteint préférentiellement l'homme +65 ans
+- Principaux facteurs de risque: [gastrite à HP]({{< relref "helicobacter-pylori.md" >}}) (80%), tabagisme, alimentation salée/fumée, antécédent familial de cancer gastrique, Lynch/HNPCC
+- Signes d'alarmes en symptômes digestifs hauts: dysphagie, amaigrissement, anémie
+- Dépistage du 1<sup>er</sup> degré en cas de lésion cancéreuse (sérologie HP < 45 ans, fibroscopie après)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

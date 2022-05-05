@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-09-07T12:03:00+02:00
 publishdate = 2021-09-07
-lastmod = 2022-04-27
+lastmod = 2022-05-05
 specialites = ["hepato-gastro-enterologie"]
 annees = "2016"
 sources = ["HAS", "MinSanté"]
@@ -16,14 +16,14 @@ sctid = "66071002"
 flowchart = false
 image = true
 imageSrc = "Hépatite B, illustration par pch.vector / Freepik"
-todo = "summary, clinique, BEH, flow, découverte hépatite B guérie"
+todo = "calendrier page 80, summary, clinique, BEH, flow, découverte hépatite B guérie"
 +++
 
 *Chapitre en cours de rédaction*
 
 {{%article-summary%}}
 
-- Vacciner: HSH ...
+- Vacciner: rattrapage jusque 15 ans révolus, puis voir *Personnes à vacciner*
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -59,7 +59,7 @@ Indications à la vaccination hépatite B:
 - Usager de drogue IV ou intra-nasale
 - Voyage ou résidence en pays de moyenne/forte endémie
 - Potentielles transfusions répétées*  
-Hémophilie, dialyse, insuffisance rénale.
+  Hémophilie, dialyse, insuffisance rénale.
 - Candidat à une greffe*
 - Entourage et partenaires de personne avec VHB actif
 - Prisonnier

@@ -118,6 +118,7 @@ Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
 {{%collapse "Vaccins disponibles en 2021-2022" %}}
 
 - Efluelda® (≥ 60 ans)
+- Flurarix tetra®
 - Influvac Tetra®
 - Vaxigrip Tetra®
 

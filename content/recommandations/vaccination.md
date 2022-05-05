@@ -6,14 +6,14 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-14T15:52:41+02:00
 publishdate = 2020-10-14
-lastmod = 2022-04-30
+lastmod = 2022-05-05
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["MinSanté", "HCSP"]
 tags = ["prevention", "vaccin", "zona"]
 anglais = []
 sctid = ""
-todo = "choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages"
+todo = "texte vaccins obligatoires , choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages"
 +++
 
 {{%article-summary%}}
@@ -32,7 +32,19 @@ Ces dosages réduits ne peuvent être utilisés qu'à partir de 11 ans.
 Rattrapage vaccinal
 : << Si un retard est intervenu dans le programme de vaccination, il n'est pas nécessaire de recommencer. Il suffit de reprendre ce programme au stade où il a été interrompu et de compléter la vaccination en fonction de l'âge et du nombre de doses de vaccin manquantes >> (INPES).
 
+Nourrisson prématuré
+: Naissance avant 37 SA.
+
 {{%info%}}<< Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >> (*[SFSEP 2019](https://doi.org/10.1016/j.neurol.2019.01.218)*){{%/info%}}
+
+### Abréviations
+
+HPV
+: papillomavirus humains
+
+SA
+: semaines d'aménorrhée
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal" "show" %}}
@@ -43,35 +55,60 @@ Rattrapage vaccinal
 | 2 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
 | 3 mois  | Méningo B  | Bexsero                           |
 | 4 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
-| 5 mois  | Méningo C<br>Méningo B    | Neisvac<br>Bexsero |
+| 5 mois  | Méningo C<br>Méningo B    | Neisvac, Menjugate<br>Bexsero |
 | 11 mois | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
-| 12 mois | Méningo C<br>ROR<br>Méningo B | Neisvac<br>MMRvaxPro, Priorix<br>Bexsero |
+| 12 mois | Méningo C<br>ROR<br>Méningo B | Neisvac, Menjugate<br>MMRvaxPro, Priorix<br>Bexsero |
 | 16-18 mois | ROR        | MMRvaxPro, Priorix             |
 | 6 ans   | DTCaPolio     | ~~~InfanrixTetra~~~, Tetravac-acellulaire |
 | 11-13 ans   | dTcaPolio<br>(DTCaPolio si non fait)       | BoostrixTetra, Repevax<br>(voir 6 ans)    |
 | 11-14 ans   | HPV       | Gardasil9                      |
 | 25 ans  | dTcaPolio     | BoostrixTetra, Repevax         |
 | 45 ans  | dTPolio       | Revaxis                        |
-| ≥ 65 ans    | dTPolio tous les 10 ans<br>Antigrippal annuel | Revaxis<br>Influvac Tetra, VaxigripTetra |
-| 65-74 ans   | Zona      | Zostavax                       |
+| ≥ 65 ans    | dTPolio tous les 10 ans<br>Antigrippal annuel | Revaxis<br>Efluelda, Flurarix tetra, Influvac Tetra, VaxigripTetra |
+| 65-74 ans   | Zona      | Zostavax (vivant)              |
 | Grossesse   | Coqueluche<br>Grippe | BoostrixTetra, Repevax ... |
 {{< /table >}}
 
 {{% /collapse %}}
-{{%collapse "Schémas de rattrapage" %}}
+{{%collapse "Rattrapage vaccinal" %}}
 
-{{< table title="Âges limites du rattrapage vaccinal" >}}
+{{< table title="Âges limites du rattrapage vaccinal systématique en population générale selon le Calendrier vaccinal" >}}
 | Germe        | Âge limite de rattrapage |
 |--------------|:------------------------:|
 | Coqueluche   | 39 ans (sauf grossesse, cocooning)  |
 | Haemophilus  | 5 ans                    |
 | Hépatite B   | 15 ans                   |
+| Méningocoque B | 23 mois                |
 | Méningocoque C | 24 ans                 |
 | Papillomavirus | 19 ans                 |
 | Pneumocoque  | 23 mois                  |
 | Rougeole<br>Oreillons<br>Rubéole | 42 ans |
 | Varicelle    | 18 ans                   |
 {{< /table >}}
+
+TODO: Rattrapages spécifiques:
+
+- BCG, voir [tuberculose]({{< relref "tuberculose.md" >}})
+- Coqueluche, voir [cocooning]({{< relref "coqueluche.md" >}})
+- Varicelle, voir [varicelle]({{< relref "varicelle.md" >}})
+- VHB, HPV, Pneumocoque
+
+{{%info%}}<< Un rattrapage vaccinal est indiqué en cas de statut inconnu >> (*Calendrier vaccinal*){{%info%}}
+
+### Sérologies pour le rattrapage vaccinal en population générale
+
+- Pré-vaccinal: Ag HBs, Ac anti-HBs, Ac anti-HBc  
+  puis Ac anti-HBs 4-8 semaines après
+- Ac antitétaniques 4-8 semaines après
+- Personnalisées
+  - Sérologie hépatite A
+  - Sérologie varicelle
+
+Rattrapage ROR avec 2 doses avec minimum 1 mois d'intervale sans sérologie.
+
+### Sérologies pour le rattrapage vaccinal chez migrants primo-arrivants
+
+Lire le *Calendrier vaccinal* page 75.
 
 {{% /collapse %}}
 {{%collapse "Vaccins obligatoires" %}}
@@ -100,13 +137,17 @@ Rattrapage vaccinal
 
 Personnes nécessitant un schéma vaccinal renforcé (détail des vaccinations dans les chapitres concernés):
 
+- Prématuré
+  - Vaccination doit débuter à 2 mois d'âge chronologique
+  - Calendrier vaccinal identique avec en supplément: Prevenar à 3 mois
+  - Mère Ag HBs+: se référer au Calendrier vaccinal
 - [Asplénie]({{< relref "asplenie.md" >}})
-- Cancer
+- [Cancer](/tags/cancer/)
 - Cardio-vasculaire
   - [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
   - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
   - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
-- Diabète [type 1]({{< relref "diabete-type-1.md" >}}) et [2]({{< relref "diabete-type-2.md" >}})
+- Diabète [type 1]({{< relref "diabete-type-1.md" >}}) et [type 2]({{< relref "diabete-type-2.md" >}})
 - Respiratoire
   - [Asthme]({{< relref "asthme.md" >}})
   - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
@@ -117,18 +158,19 @@ Personnes nécessitant un schéma vaccinal renforcé (détail des vaccinations d
 {{% /collapse %}}
 {{%collapse "Administration des vaccins" %}}
 
-{{%warning%}}La vaccination doit être différée chez les personnes présentant une maladie fébrile ou une infection aiguë modérée à sévère (*Vacc Info Service*){{%/warning%}}
+{{%warning%}}<< La présence d'une infection mineure ou d'une fièvre de faible intensité ne doit pas retarder le rattrapage vaccinal. L'existence d'une maladie fébrile (> 38°C) ou d'une infection aiguë modérée ou sévère ne contre-indique pas la vaccination mais peut conduire à la différer de quelques jours >> (*Calendrier vaccinal*){{%/warning%}}
 
 Contrôler la date de péremption du vaccin, la chaîne du froid (à l'abri de la lumière, température de 2°C à 8°C), consigner le lot dans le dossier médical.
 
 Possibilité de réaliser jusqu'à 4 injections en même temps, dont 2 sur le même site (2 IM, 2 SC ou IM + SC) espacées d'au moins 2,5 cm.  
-La présence d'une infection mineure ne doit pas retarder le rattrapage vaccinal.
+La présence d'une infection mineure ne doit pas retarder le rattrapage vaccinal.  
+Vaccins vivants, soit injectés en même temps ou sinon laisser 1 mois de délai entre les 2 injections.
 
 Vider l'air de la seringue, désinfection locale et laisser sécher (risque d'inactivation du vaccin), insérer avec angle de 90° avec la peau, injection rapide avec retrait rapide (testée chez nourrisson).
 
 Disposer du matériel nécessaire à un choc anaphylactique.
 
-{{%info%}}Depuis le 22 avril 2022, les infirmiers et pharmaciens peuvent administrer sans ordonnance: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage{{%/info%}}
+{{%info%}}Depuis le 22 avril 2022, les infirmiers et pharmaciens peuvent administrer sans ordonnance à partir de 16 ans: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage{{%/info%}}
 
 ### Sites d'injection
 
@@ -138,6 +180,8 @@ Disposer du matériel nécessaire à un choc anaphylactique.
 - Après 1 an
   - Deltoïde
   - Aiguilles: 16 mm (orange) < 60 kg; 30-40 mm (bleue-noire) pour ado/adulte, 40 mm (noire) si > 90 kg
+
+**NB.** Après BCG, ne pas injecter pendant 3 mois sur le même mebre.
 
 #### Sites où ne pas injecter
 

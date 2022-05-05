@@ -46,6 +46,8 @@ Vaccination réalisée à partir de 1 mois, idéalement à **2 mois**.
 
 Pour les professionnels de santé: évaluation de l'exposition au cas par cas par la *médecine du travail*.
 
+**Contre-indications au BCG:** PVVIH, chimiothérapie, corticoïdes.
+
 ### Pays de forte endémie tuberculeuse
 
 - France  

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
 publishdate = "2021-11-03"
-lastmod = "2022-04-12"
+lastmod = "2022-04-30"
 specialites = ["gynecologie-obstetrique"]
 annees = "2017"
 sources = ["HAS", "INCa", "ACOG"]
@@ -16,15 +16,16 @@ anglais = ["Malignant neoplasm of breast "]
 sctid = "254837009"
 image = true
 imageSrc = "Le cancer du sein, illustration par Freepik"
-todo = "depistage prothèse, revoir ttt > gg sentinelle, algorithme 2 et 3, EI hormonothérapie, perruque INCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e"
+todo = "revoir ttt > gg sentinelle, algorithme 2 et 3, EI hormonothérapie, perruque INCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e"
 +++
 
 {{%article-summary%}}
 
-- Vérifier la participation au dépistage organisé (consigner dans le dossier)
 - Palpation mammaire annuelle à partir de 25 ans
+- Vérifier la participation au dépistage organisé (50-74 ans, consigner dans le dossier)
 - Dépistage spécifique si risque élevé ou très élevé (voir *Niveaux de risque*)
 - En antécédents familiaux, calcul du {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}}
+- Dépistage identique en cas de prothèses mammaires (*INCa 2019*)
 - En cas de suspicion de lésion du sein: mammographie, échographie mammaire bilatérales et avis sénologique
 
 {{%/article-summary%}}
@@ -322,6 +323,7 @@ Après RCP peuvent être proposés: Chirurgie, radiothérapie, chimiothérapie, 
 {{%sources%}}
 
 - [INCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
+- [INCa. Prothèses mammaires et risque de cancer. Avril 2019.](https://www.e-cancer.fr/Comprendre-prevenir-depister/Reduire-les-risques-de-cancer/Protheses-mammaires)
 - [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. Octobre 2017.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
 - [HAS. Dépistage et prévention du cancer du sein. Février 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
 - [ACOG. Tamoxifen and Uterine Cancer. 2014. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/06/tamoxifen-and-uterine-cancer)

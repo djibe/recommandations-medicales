@@ -18,7 +18,7 @@ sctid = "128053003"
 flowchart = true
 image = false
 imageSrc = ""
-todo = "proba forte et doppler neg?, éducation AVK, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/, IRC avec CKD-EPI ou cockroft ?, https://splf.fr/traitement-de-la-maladie-veineuse-thromboembolique-au-cours-du-cancer-mis-a-jour-mars-2021/?utm_source=rss&utm_medium=rss&utm_campaign=traitement-de-la-maladie-veineuse-thromboembolique-au-cours-du-cancer-mis-a-jour-mars-2021"
+todo = "plaq en HBPM préventif, proba forte et doppler neg?, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/, IRC avec CKD-EPI ou cockroft ?, https://splf.fr/traitement-de-la-maladie-veineuse-thromboembolique-au-cours-du-cancer-mis-a-jour-mars-2021/?utm_source=rss&utm_medium=rss&utm_campaign=traitement-de-la-maladie-veineuse-thromboembolique-au-cours-du-cancer-mis-a-jour-mars-2021"
 +++
 
 Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'état.
@@ -97,7 +97,7 @@ Recours d'emblée à l'écho-doppler veineux si non accessible.
   - Ne pas réaliser d'écho-doppler
   - Ne pas poursuivre les investigations
 - D-dimères anormaux  
-Réaliser l'écho-doppler veineux.
+  Réaliser l'écho-doppler veineux.
 
 {{%info%}}Après 50 ans, la borne des D-dimères est à 10x l'âge {{%class%}}(ex. 700 à 70 ans){{%/class%}}.{{%/info%}}
 
@@ -108,11 +108,11 @@ Indications: **probabilité forte** de TVP (selon le score clinique initial), D-
 #### Interpréter les résultats de l'écho-doppler veineux
 
 - Écho-doppler veineux complet normal ET probabilité non forte:  
-Pas de TVP.
+  Pas de TVP.
 - Écho-doppler veineux douteux ou incomplet normal:  
-Prévoir un écho-doppler veineux complet de contrôle à J7.
+  Prévoir un écho-doppler veineux complet de contrôle à J7.
 - Écho-doppler veineux anormal avec thrombus proximal/distal:  
-TVP certaine.
+  TVP certaine.
 
 {{% /collapse %}}
 {{%collapse "Critères d'hospitalisation" %}}
@@ -140,16 +140,18 @@ En l'absence de ces signes, la prise en charge préconisée de la TVP est ambula
 {{% /collapse %}}
 {{%collapse "Score hémorragique RIETE" %}}
 
-Un score hémorragique élevé impose une hospitalisation.
+Un score hémorragique de RIETE élevé impose une hospitalisation.
 
 {{< scores/riete >}}
 
 {{% /collapse %}}
-{{%collapse "TVP provoquée ou spontanée ?" %}}
+{{%collapse "Bilan étiologique" %}}
 
-{{%info%}}Pour toute survenue de MVTE, il faut rechercher la présence de {{< modal-btn modal-mvte-fdr >}}facteurs de risque clinique de MVTE{{< /modal-btn >}}{{%/info%}}
+{{%info%}}
+Pour toute survenue de MVTE, il faut rechercher la présence de {{< modal-btn modal-mvte-fdr >}}facteurs de risque cliniques de MVTE{{< /modal-btn >}}
 
-{{%info%}}La MVTE est *non provoquée* en l'absence de {{< modal-btn modal-mvte-fdr >}}facteur de risque clinique majeur{{< /modal-btn >}}.{{%/info%}}
+La MVTE est *non provoquée* en l'absence de {{< modal-btn modal-mvte-fdr >}}facteur de risque clinique majeur{{< /modal-btn >}}
+{{%/info%}}
 
 ### Bilan étiologique
 
@@ -215,7 +217,7 @@ Le traitement doit durer 3 à 6 mois voire une durée non limitée et prend en c
   - Présence de {{< modal-btn modal-mvte-recidive >}}facteur de risque mineur transitoire{{< /modal-btn >}}
 - Traitement au long cours si:
   - Thrombophilie majeure  
-  Déficit AT, SAPL, certains déficits prot. C ou S.
+    Déficit AT, SAPL, certains déficits prot. C ou S.
 
 #### Anticoagulation par AOD
 
@@ -230,9 +232,9 @@ puis 5 mg x 2/j au moins 3 mois
 2 AOD ont l'AMM pour la TVP:
 
 - **[Apixaban 5 mg](https://ec.europa.eu/health/documents/community-register/2021/20210111150212/anx_150212_fr.pdf)** 2 cp x 2/j 7 jours puis 5 mg x 2/j (préféré par Prescrire®)  
-CI quand {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 25 mL/min.
+  CI quand {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 25 mL/min.
 - Rivaroxaban 15 mg x 2/j 21 jours puis 20 mg x 1/j  
-CI quand {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 30 mL/min.
+  CI quand {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 30 mL/min.
 
 Pas de traitement héparinique préalable, posologie fixe sans adaptation.  
 Avec éducation thérapeutique.  

@@ -8,7 +8,7 @@ synonyms = ["Syndrome climatérique", "traitement hormonal substitutif THS"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
 publishdate = "2021-10-19"
-lastmod = "2022-03-29"
+lastmod = "2022-05-03"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF"]
@@ -548,34 +548,34 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 - Fracture de tous les sites osseux  
   Prévention de l'[ostéoporose]({{< relref "osteoporose.md" >}}).
 - Infarctus du myocarde  
-Si < 60 ans ou ménopause < 10 ans.
-- Cancers colorectal, du pancréas, de l'œsophage, de l'estomac et du foie
-- Démence (29-44% mais biais) surtout si IOP
+  Si < 60 ans ou ménopause moins de 10 ans.
+- Cancers: colorectal, du pancréas, de l'œsophage, de l'estomac et du foie
+- Démence (29-44% mais biais) surtout si [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
 - Mortalité si < 60 ans  
-Effet cardiovasculaire très protecteur.
+  Effet cardiovasculaire très protecteur.
 
 #### Risques du THM
 
-- Récidive d'AVC ischémique ou d'infarctus du myocarde  
-Uniquement avec ECE + MPA mais principe de précaution.
+- Récidive d'[AVC ischémique]({{< relref "accident-vasculaire-cerebral.md" >}}) ou d'infarctus du myocarde  
+  Uniquement avec ECE + MPA mais principe de précaution.
 - AVC ischémique si estradiol oral
-- MVTE  
+- [Maladie veineuse thrombo-embolique](/tags/mvte/) (MVTE)  
   - Si estradiol + acétate de nomegestrol ou promegestone
   - Risque de récidive en antécédent de MVTE et estradiol oral
-- Cancer du sein si THM > 5 ans  
-Disparaît en 2-10 ans après l'arrêt du THM.
+- [Cancer du sein]({{< relref "cancer-sein.md" >}}) si THM > 5 ans  
+  Disparaît en 2-10 ans après l'arrêt du THM.
 - Cancer de l'endomètre si estradiol seul  
-12 jours minimum de progestatif mensuels.
+  Effacé si prise de 12 jours minimum de progestatif mensuels.
 - Cancer de l'ovaire  
-1 cas supplémentaire pour 8000 femmes traitées. Essai avec ECE + MPA ne retrouvait pas de différence pour durée < 5 ans.
+  1 cas supplémentaire pour 8000 femmes traitées. Essai avec ECE + MPA ne retrouvait pas de différence pour durée < 5 ans.
 
 ##### Effets neutres marquants du THM
 
 - MVTE  
-Si estradiol cutané + progestérone micronisée (dydrogestérone, acétate de chlormadinone, médrogestone, acétate de cyprotérone, acétate de médroxyprogestérone) quelque soit l'IMC.
-- Incidence du cancer du sein si durée < 5 ans
+  Si estradiol cutané + progestérone micronisée (dydrogestérone, acétate de chlormadinone, médrogestone, acétate de cyprotérone, acétate de médroxyprogestérone) quelque soit l'IMC.
+- Incidence du cancer du sein si durée du THM < 5 ans
 - Mortalité par cancer du sein
-- Cancer de l'endomètre en association recommandée
+- Cancer de l'endomètre (en association estradiol + progestérone)
 
 > *CNGOF 2021*
 

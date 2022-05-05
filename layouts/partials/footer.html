@@ -1,7 +1,7 @@
 <script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin></script>
 <script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin defer></script>
 <script src="{{ .Site.Params.cdn.material_js}}" crossorigin defer></script>
-<script src="https://instant.page/5.1.0" type="module" crossorigin async></script>
+<script src="https://cdn.jsdelivr.net/npm/instant.page@5.1.0/instantpage.min.js" type="module" crossorigin async></script>
 
 {{- with .Params.chart }}
 <script src="https://cdn.jsdelivr.net/npm/apexcharts@3.35.0/dist/apexcharts.min.js" integrity="sha256-UXQE/kUPl4/fA/SrcS8ByClGxXUo12p+ZRAKHUkWRUk=" crossorigin defer></script>
