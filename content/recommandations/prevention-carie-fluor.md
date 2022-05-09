@@ -1,9 +1,8 @@
 +++
 title = "Soins dentaires et prévention des caries"
 prefix = "les "
-titleSeo = "soins dentaires et caries"
-description = "TODO:"
-noindex = true
+titleSeo = "Fluor et caries"
+description = "Recommandations pour les soins dentaires, la prévention des caries et les apports en fluor. Technique de brossage, dentifrice, consultation dentaire M'T Dents"
 synonyms = ["Apports en fluor"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-04-30T20:21:18+02:00"
@@ -32,7 +31,7 @@ todo = "relecture Boub, vidéos"
   \+ M'T Dents: consultation gratuite à 3, 6, 9, 12, 15, 18, 21 et 24 ans
 - Apports en fluor: selon avis du dentiste
 
-Fiche patient [fluor](http://www.ufsbd.fr/wp-content/uploads/2020/12/Fluor_CB_260820.pdf)
+Fiche patient [soins dentaires](http://www.ufsbd.fr/wp-content/uploads/2019/02/2019-02-07-fiche-RECO-070219.pdf), [fluor](http://www.ufsbd.fr/wp-content/uploads/2020/12/Fluor_CB_260820.pdf) et [jeune enfant](http://www.ufsbd.fr/wp-content/uploads/2018/03/JEUNE-ENFANT_Fiche-profil-PDS2018_GP_vsOK.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
