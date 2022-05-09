@@ -9,13 +9,12 @@ publishdate = 2020-09-25
 lastmod = 2020-09-25
 specialites = ["infectiologie"]
 annees = "2011"
-sources = []
+sources = ["CMIT"]
 tags = []
 anglais = ["Whitlow"]
 sctid = "32021005"
 flowchart = true
-draft = false
-todo = "sources"
+todo = "maj, sources"
 +++
 
 {{%article-summary%}}
@@ -94,7 +93,7 @@ Industrie agro-alimentaire ou restauration.
 
 ### Stade inflammatoire: traitement
 
-{{%info%}}Bains de chlorhexidine 2 à 3 fois par jour.{{%/info%}}
+{{%info%}}Bains de chlorhexidine 2 à 3 fois par jour{{%/info%}}
 
 Selon Prescrire®: Bains dans l'eau chaude 10-15 minutes x 3-4/jour.  
 Antibioclic: Bains antiseptiques pluriquotidiens (x 2-3 /jour)  

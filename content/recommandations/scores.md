@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-14T15:58:37+01:00"
 publishdate = "2021-12-14"
-lastmod = "2022-01-20"
+lastmod = "2022-05-05"
 specialites = []
 annees = "2022"
 sources = []
@@ -18,22 +18,40 @@ anglais = []
 sctid = ""
 image = true
 imageSrc = "Scores cliniques par slidesgo / Freepik"
+todo = "ACT"
 +++
 
 ## Cardiovasculaire {.typography-overline}
 
-{{< modal-btn modal-saos >}}Dépistage SAOS{{< /modal-btn >}}, [Carnet d'automesure 2021 (PDF)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf), {{< scores/heartscore >}}, {{< modal-btn modal-rcv >}}risque cardiovasculaire et LDL cible{{< /modal-btn >}}, {{< modal-btn modal-statine-intensite >}}efficacité des statines{{< /modal-btn >}}, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}, {{< modal-btn modal-depistage-prevalent >}}dépistage AOMI ≥ 55 ans{{< /modal-btn >}}
-
-{{< modal-btn score-nyha >}}Score NYHA{{< /modal-btn >}}
+- [Carnet d'automesure tensionnelle 2021 (PDF)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
+- {{< modal-btn modal-depistage-prevalent >}}Dépistage AOMI ≥ 55 ans{{< /modal-btn >}}
+- {{< modal-btn modal-saos >}}Dépistage des apnées du sommeil{{< /modal-btn >}}
+- Risque cardiovasculaire
+  - Calcul du {{< scores/heartscore >}}
+  - {{< modal-btn modal-rcv >}}Risque cardiovasculaire et LDL cible{{< /modal-btn >}}
+  - {{< modal-btn modal-statine-intensite >}}Efficacité des statines{{< /modal-btn >}}
+- {{< modal-btn score-nyha >}}Score NYHA{{< /modal-btn >}}
+- Traitements
+  - {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}}
+  - {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
 
 ## Dermatologie {.typography-overline}
 
-{{< modal-btn modal-dc >}}Dermocorticoïdes{{< /modal-btn >}}, {{< modal-btn modal-mmrc >}}Score mMRC{{< /modal-btn >}}
+{{< modal-btn modal-dc >}}Dermocorticoïdes{{< /modal-btn >}}
 
 ## Diabète {.typography-overline .mt-4}
 
-- {{< modal-btn modal-hba1c >}}Cibles d'HbA1c{{< /modal-btn >}}, {{< modal-btn modal-rcv-diabete >}}risque CV du diabétique{{< /modal-btn >}}, {{< modal-btn modal-saos-diabete >}}dépistage SAOS{{< /modal-btn >}}, [risque de diabète à 10 ans](https://www.diabeclic.com/findrisc)
-- {{< modal-btn modal-metformine >}}Metformine{{< /modal-btn >}}, {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}}
+- {{< modal-btn modal-hba1c >}}Cibles d'HbA1c{{< /modal-btn >}}
+- {{< modal-btn modal-saos-diabete >}}Dépistage des apnées du sommeil{{< /modal-btn >}} (avec un diabète)
+- {{< modal-btn modal-rcv-diabete >}}Risque CV du diabétique{{< /modal-btn >}}
+- [Risque de diabète à 10 ans](https://www.diabeclic.com/findrisc)
+- Traitements
+  - {{< modal-btn modal-metformine >}}Metformine{{< /modal-btn >}}
+  - {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}
+  - {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
+  - {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}
+  - {{< modal-btn modal-su >}}Sulfamides{{< /modal-btn >}}
+  - {{< modal-btn modal-insuline >}}Insuline{{< /modal-btn >}}
 
 ## Neurologie {.typography-overline}
 
@@ -41,7 +59,8 @@ imageSrc = "Scores cliniques par slidesgo / Freepik"
 
 ## Pneumologie {.typography-overline}
 
-{{< modal-btn modal-depistage-bpco >}}Dépistage BPCO{{< /modal-btn >}}, 
+- {{< modal-btn modal-depistage-bpco >}}Dépistage BPCO{{< /modal-btn >}}
+- {{< modal-btn modal-mmrc >}}Score mMRC{{< /modal-btn >}}
 
 <!-- Modals -->
 
