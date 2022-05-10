@@ -6,25 +6,26 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-04-14T23:30:41+02:00
 publishdate = 2020-04-14
-lastmod = 2022-03-05
+lastmod = 2022-05-09
 specialites = ["endocrinologie"]
 annees = "2019"
-sources = ["HAS", "ANSM"]
+sources = ["HAS", "SFE"]
 tags = ["coeliaque", "fatigue", "hypothyroidie", "TSH", "vertige"]
 anglais = ["Hypothyroidism"]
 sctid = "40930008"
-draft = false
 flowchart = true
 image = true
-imageSrc = "Photo de National Institutes of Health (NIH) sur Foter.com / CC BY-NC"
-todo = "https://www.scientificanimations.com/wp-content/uploads/2019/05/Hypothyroidism.jpg"
+imageSrc = "Illustration de l'hypothyroïdie par storyset / Freepik"
 +++
 
 {{%article-summary%}}
 
-- Pas de dépistage systématique en population générale, TSH seule en cas de symptômes évocateurs
-- Traitement par LT: dosage de la TSH à 6 semaines et adaptation par paliers de 12 µg toutes les 6-12 semaines sur critères clinico-TSH
-- Hashimoto: rechercher une maladie cœliaque associée
+- Pas de dépistage systématique
+- TSH seule en cas de symptômes évocateurs
+- +65 ans: pas d'examens complémentaires, traiter si TSH > 20 mUI/L (avis endocrino entre 10 et 20)
+- Traitement par LT: dosage de la TSH et adaptation par paliers de 12 µg toutes les 6-12 semaines sur critères clinico-TSH
+- Puis surveillance TSH annuelle (sauf symptômes ou traitement perturbateur)
+- Hashimoto: rechercher une [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) associée
 - Prochaines recommandations HAS en 2022
 
 {{%/article-summary%}}
@@ -74,11 +75,24 @@ Souvent transitoire (70%), contrôle TSH à 1 an.
 Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le 2e mois post-partum (reprise rapide du poids normal, nervosité).  
 - Autres causes
   - Iatrogène  
-  Médicaments ou traitement thyroïdien par iode 131, thyroïdectomie et radiothérapie cervicale.
+    Médicaments ou traitement thyroïdien par iode 131, thyroïdectomie et radiothérapie cervicale.
   - Hémochromatose
   - Alimentaire  
-  Manioc, cassave.
+    Manioc, cassave.
   - Polluants
+
+### Retentissement biologique de l'hypothyroïdie
+
+- Hypercholestérolémie et hypertriglycéridémie
+- Anémie isolée modérée normochrome normocytaire
+- Augmentation des CPK/LDH
+- Hyponatrémie de dilution
+- Hypoglycémie
+- Hyperprolactinémie
+- Hyperuricémie
+- Hyperhomocystéinémie
+
+Parfois troubles de la coagulation et du bilan hépatique.
 
 {{% /collapse %}}
 {{% collapse "Clinique" %}}
@@ -99,17 +113,17 @@ Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le
 - Palpation thyroïdienne  
   Souvent ferme et hétérogène, pseudo-nodulaire, taille variable, goitre (Hashimoto) ou atrophique (thyroïdite).
 - Signes généraux  
-  Asthénie (physique, intellectuelle, sexuelle), prise de poids modeste, constipation, sensibilité au froid.
+  [Asthénie](/tags/fatigue/) (physique, intellectuelle, sexuelle), prise de poids modeste, constipation, sensibilité au froid.
 - Phanères  
   Secs et cassants, dépilation (queue du sourcil) et pousse lente des cheveux/poils, peau épaissie, froide, sèche et squameuse, teint carotinodermique (jaunâtre), cicatrisation lente
 - Myxœdème  
-  Macroglossie, voix rauque ou grave, hypoacousie, vertiges, ronflements voire syndrome du canal carpien, gonflement des paupières.
+  Macroglossie, voix rauque ou grave, hypoacousie, vertiges, ronflements voire [syndrome du canal carpien]({{< relref "canal-carpien.md" >}}), gonflement des paupières.
 - Cardiaque  
-  Bradycardie, assourdissement des bruits du cœur, HTA fréquente, angor, épanchement péricardique si ancien
+  Bradycardie, assourdissement des bruits du cœur, hypertension artérielle fréquente, angor, épanchement péricardique si ancien.
 - Respiratoire  
-  En atteinte sévère: épanchement pleural bilatéral, apnées du sommeil, bradypnée
-- Neuro-psy  
-  Ralentissement psychomoteur, syndrome dépressif et baisse de libido et érection, voire démence ou agitation chez le sujet âgé. Crampes, neuropathie périphérique
+  En atteinte sévère: épanchement pleural bilatéral, apnées du sommeil, bradypnée.
+- Neuro-psychologique  
+  Ralentissement psychomoteur, syndrome dépressif et [baisse de libido et érection]({{< relref "dysfonction-erectile.md" >}}), voire démence ou agitation chez le sujet âgé. Crampes, neuropathie périphérique.
 - Aménorrhée, infertilité
 
 {{%/collapse %}}
@@ -119,32 +133,24 @@ Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le
 
 {{%info%}}
 En 1<sup>re</sup> intention, doser la TSH seule.  
-Le dosage de la TSH peut être réalisé à tout moment de la journée (seuil > 80 ans: 7 mUI/L).
+Le dosage de la TSH peut être réalisé à tout moment de la journée (limites 0,4 mUI/L - âge/10 mUI/L après 60 ans).
 
-Si elle est augmentée, prescrire pour le mois suivant: TSH + T4L
+TSH augmentée avec signes cliniques ou +10 mUI/L: prescrire pour le mois suivant: TSH + T4L. Sinon TSH seule à 3 mois.
 {{%/info%}}
 
-Retentissement biologique:
-
-- Hypercholestérolémie et hypertriglycéridémie
-- Anémie isolée modérée normochrome normocytaire
-- Augmentation des CPK/LDH
-- Hyponatrémie de dilution
-- Hypoglycémie
-- Hyperprolactinémie
-- Hyperuricémie
-- Hyperhomocystéinémie
-
-Parfois troubles de la coagulation et du bilan hépatique.
+TSH normale, pas de nouveau dosage avant 6-12 mois (sauf nouveaux signes cliniques).  
+Éviter le dosage en pathologie aiguë.
 
 {{%info%}}<< Il n'y a pas lieu de doser la T3L >>{{%/info%}}
 
 Si arguments pour étiologie auto-immune, dosage des **anticorps anti-TPO**. Il est inutile de renouveler ce dosage ainsi que de doser d'autres anticorps antithyroïdiens.
 
-#### Interprétation des résultats
+#### Interpréter les résultats de TSH et T4L
+
+{{%info%}}Aucun autre examen chez la personne âgée{{%/info%}}
 
 - TSH élevée et T4L basse: **hypothyroïdie avérée**.  
-Doser les **anticorps anti-TPO**.
+  Doser les **anticorps anti-TPO** (sauf personne âgée).
 - TSH modérément élevée de 4 à 10 mUI/L et T4L normale: renouveler les dosages à 3-6 mois.
 - TSH élevée et T4L normale: [hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md">}}).
 - Iodémie/iodurie élevée: hypothyroïdie par surcharge iodée
@@ -152,18 +158,21 @@ Doser les **anticorps anti-TPO**.
 
 #### Cas particuliers
 
-- Hypothyroïdie dans les suites du traitement d'une hyperthyroïdie: T4L basse et la TSH peut rester basse/effondrée quelques semaines à quelques mois.
-- TSH élevée de façon isolée: artefact ou insuffisance rénale.
-- TSH normale ou diminuée et T4L basse: possible hypothyroïdie centrale par maladie générale sévère (syndrome de basse T4), perfusion de dopamine/dobutamine, corticoïdes à doses massives/Cushing sévère, dépression, grossesse.
-- TSH basse et T4L basse: traitement par **carbamazépine** (Tegretol®), **phénytoïne**.
+- Hypothyroïdie dans les suites du traitement d'une hyperthyroïdie: T4L basse et la TSH peut rester basse/effondrée quelques semaines à quelques mois
+- TSH élevée de façon isolée: artefact ou insuffisance rénale
+- TSH normale ou diminuée et T4L basse: possible hypothyroïdie centrale par maladie générale sévère (syndrome de basse T4), perfusion de dopamine/dobutamine, corticoïdes à doses massives/Cushing sévère, dépression, grossesse
+- TSH basse et T4L basse: traitement par **carbamazépine** (Tegretol®), **phénytoïne**
 
 ### Rechercher une maladie cœliaque
 
 En cas de Maladie de Hashimoto, rechercher une [maladie cœliaque associée]({{< relref "maladie-coeliaque.md" >}}).
 
+{{%info%}}
+
 ### Échographie cervicale
 
 Indications: nodule ou adénopathie palpable, signes de compression, palpation difficile, facteur de risque de cancer de la thyroïde (*HAS 2021*).
+{{%/info%}}
 
 Pas d'indication à la scintigraphie en hypothyroïdie.
 
@@ -177,6 +186,8 @@ Signes résolutifs sous lévothyroxine.
 {{%/collapse%}}
 {{%collapse "Traitement de l'hypothyroïdie" %}}
 
+{{%info%}}En cas d'indication de traitement peu claire (ex. doses faibles de LT), il ets possible de suspendre le traitement en accord avec le patient et de contrôler la TSH à 4-6 semaines{{%/info%}}
+
 Délai avant amélioration des symptômes de **2 semaines après instauration du traitement**. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
 
 **NB. Le traitement ne doit pas être débuté sans dosage préalable de la TSH**  
@@ -184,20 +195,24 @@ Délai avant amélioration des symptômes de **2 semaines après instauration du
 
 ### Lévothyroxine sodique (opothérapie substitutive)
 
-**Objectif: obtenir une TSH dans les valeurs normales ET la disparition des signes cliniques.**
+**Objectif: obtenir une TSH dans les valeurs normales ET la disparition des signes cliniques.**  
+TSH minimale de 1 mUI/L chez le +65 ans.
 
 #### Débuter le traitement
 
 {{%info%}}
 Initier à 1,7 µg/kg/j chez l'adulte.  
-{{%class "text-black-secondary" %}}Sujet âgé: 1,3 | Enfant: 2 | Coronarien: 12,5-25 µg/j{{%/class%}}
+{{%class "text-black-secondary" %}}Sujet âgé: 1,1-1,3 | Enfant: 2 | Coronarien: 12,5-25 µg/j{{%/class%}}
 
-Adaptation par paliers de 12 µg.
+Adaptation par paliers de 12 µg toutes les 6-12 semaines.
 {{%/info%}}
 
-#### Spécialités disponibles
+{{%warning%}}+65 ans: débuter si TSH > 20 à 2 reprises, jamais si < 10. Avis endocrinologique entre 10 et 20.  
+Surveillance de la TSH tous les 6 mois pendant 2 ans, ou annuelle si TSH stable.{{%/warning%}}
 
-- {{%class%}}Euthyrox® (ancienne formulation de Lévothyrox®, bientôt retiré){{%/class%}}
+#### Spécialités de lévothyroxine disponibles
+
+- {{%class%}}Euthyrox® (ancienne formulation de Lévothyrox®, arrêt fin 2022){{%/class%}}
 - L-Thyroxin Henning®
 - Lévothyrox®
 - Thyrofix®
@@ -207,7 +222,7 @@ Adaptation par paliers de 12 µg.
 - Tsoludose® (non remboursable)
 {.list-group}
 
-<< Médicament à marge thérapeutique étroite >> permettant de mentionner << Non substituable >>.
+Les médicaments à base de lévothyroxine sont des médicaments à marge thérapeutique étroite permettant de mentionner << Non substituable >>.
 
 #### Consignes d'administration de la lévothyroxine
 
@@ -217,7 +232,7 @@ Adaptation par paliers de 12 µg.
 **Dosage de la TSH à 6 semaines** et adaptation par **paliers de 6 à 12 semaines** sur critères clinico-TSH.
 
 Surveillance au long cours:
-Une fois l'euthyroïdie obtenue, contrôle clinique + TSH /6 mois puis 1 fois par an.
+Une fois l'euthyroïdie obtenue, contrôle clinique + TSH à 6 mois puis **1 fois par an**.
 NB. Pas de surveillance du dosage des anticorps ou de l'iodémie/iodurie
 
 - Si TSH déséquilibrée : vérifier le mode d'administration de l'opothérapie
@@ -227,13 +242,25 @@ NB. Pas de surveillance du dosage des anticorps ou de l'iodémie/iodurie
 **Effets indésirables en cas de surdosage:** tachycardie/palpitations, agitation, insomnie.  
 Surveiller la survenue d'**attaques de paniques** même en concentrations plasmatiques thérapeutiques.
 
+### Avis endocrinologique
+
+Intérêt de l'avis d'un endocrinologue dans les situations suivantes:
+
+- Au diagnostic
+  - Comorbidités  
+    Coronaropathie, maladie auto-immune ...
+  - \+65 ans avec TSH entre 10 et 20 mUI/L
+- Pendant le suivi
+  - Doute concernant les cibles clinico-biologiques
+  - Absence d'amélioration ou survenue de symptômes
+  - Mauvaise tolérance du traitement
+
 ### Sujets à risque
 
-- La lévothyroxine perturbe l'INR chez les sujets traités par **AVK**.  
+- La lévothyroxine perturbe l'INR chez les sujets traités par **[AVK]({{< relref "avk.md" >}})**
 - Sujet **coronarien** ou **âgé**  
-Débuter à posologie basse, augmentation prudente et surveillance symptômes + clinique + ECG.  
-Débuter à 12,5 µg/j, augmentation par paliers de 12 µg toutes les 3 semaines.  
-**NB.** On ne recherche pas toujours une normalisation de la TSH.  
+  Débuter à posologie basse, augmentation prudente et surveillance symptômes + clinique + ECG.  
+  **NB.** On ne recherche pas toujours une normalisation de la TSH.  
 - [Hypothyroïdie fruste]({{< relref "hypothyroidie-fruste.md" >}})
 - **Grossesse**  
   - Augmentation des besoins en L-thyroxine de 30 à 50% durant la grossesse.
@@ -241,8 +268,8 @@ Débuter à 12,5 µg/j, augmentation par paliers de 12 µg toutes les 3 semaines
   - Suivi rapproché et endocrinologique.
   - Revenir aux doses habituelles dès l'accouchement sauf allaitement.  
 - **Coma myxœdémateux**  
-**Urgence thérapeutique** avec pronostic engagé (20-30% de décès).  
-Appeler le {{<phone>}}15{{</phone>}} pour transfert médicalisé en réanimation.
+  **Urgence thérapeutique** avec pronostic engagé (20-30% de décès).  
+  Appeler le {{<phone>}}15{{</phone>}} pour transfert médicalisé en réanimation.
 
 ### Hypothyroïdie secondaire
 
@@ -258,17 +285,17 @@ Suivi thérapeutique par dosage de T3L + T4L qui doit être dans le tiers supér
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une TSH augmentée et une hypothyroïdie. Dr JB Fron d'après HAS 2019" >}}
+{{< mermaid title="Conduite à tenir devant une TSH augmentée et une hypothyroïdie. Dr JB Fron d'après HAS et SFE 2019" >}}
 graph TB
   decouverte[TSH augmentée] -- Contrôle à 1 mois --> TSH[TSH augmentée]
   style decouverte stroke:#4150f5, stroke-width:1px
     TSH -- T4L normale --> hTFruste("Hypothyroïdie fruste<br>(Cliquer pour le chapitre dédié)")
       click hTFruste "{{< relref "hypothyroidie-fruste.md" >}}" "Ouvrir dans un onglet" _blank
     TSH -- T4L basse --> hT(Hypothyroïdie patente)
-      hT --> bilan("- Anticorps anti-TPO<br>&plusmn; dépistage M. cœliaque<br>- Échographie cervicale<br>- ECG")
+      hT --> bilan("- Aucun si +65 ans<br>- Anticorps anti-TPO<br>&plusmn; dépistage M. cœliaque<br>- Échographie cervicale<br>- ECG")
         bilan --> traitement(Traitement par lévothyroxine)
           traitement --> adulte("<b>Adulte</b><br>Débuter à 1,7 µg/kg/j")
-            adulte -- Fragilité --> fragile("<b>Sujet âgé</b>: Débuter à 1,3 µg/kg/j<hr><b>Coronarien</b>: Débuter 12,5-25 µg/j")
+            adulte -- Fragilité --> fragile("<b>Sujet âgé</b>: Débuter à 1,1,-1,3 µg/kg/j<hr><b>Coronarien</b>: Débuter 12,5-25 µg/j")
           traitement --> enfant("<b>Enfant</b><br>Débuter à 2 µg/kg/j")
 {{< /mermaid >}}
 
@@ -280,10 +307,11 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [ANSM. Liste des médicaments à base de lévothyroxine disponibles en France. 18/01/2022.](https://ansm.sante.fr/dossiers-thematiques/les-medicaments-a-base-de-levothyroxine-disponibles-en-france-1/les-medicaments-a-base-de-levothyroxine-disponibles-en-france)
 - [HAS. Quelle imagerie pour les pathologies de la thyroïde. 28/09/2021.](https://www.has-sante.fr/jcms/p_3288963/fr/quelle-imagerie-pour-les-pathologies-de-la-thyroide)
-- [ANSM. Liste des médicaments à base de lévothyroxine disponibles en France. 19/03/2021.](https://ansm.sante.fr/dossiers-thematiques/les-medicaments-a-base-de-levothyroxine-disponibles-en-france-1/les-medicaments-a-base-de-levothyroxine-disponibles-en-france)
-- [Mooijaart SP et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 30 oct 2019;1‑11.](https://jamanetwork.com/journals/jama/fullarticle/2753909)
+- [Goichot B et al. Management of thyroid dysfunctions in the elderly. French Endocrine Society consensus 2019. Short version. Ann Endocrinol. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S0003426620300883)
+- [Mooijaart SP et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 2019.](https://jamanetwork.com/journals/jama/fullarticle/2753909)
 - [HAS. Hypothyroïdie – pertinence des soins. Mars 2019.](https://www.has-sante.fr/portail/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)
-- [S. Laboureau-Soares et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8.](https://www.em-select.com/article/224074)
+- S. Laboureau-Soares et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8.
 
 {{%/sources%}}

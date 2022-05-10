@@ -107,16 +107,16 @@ Dites << disciplines à contraintes particulières >>:
   - Plongée subaquatique
   - Spéléologie
 - *Compétitions* avec risque de choc le "rendant incapable de se défendre"  
-Arts martiaux, boxe.
+  Arts martiaux, boxe.
 - Utilisation d'arme à feu ou à air comprimé  
-Tir, ball-trap, biathlon.
+  Tir, ball-trap, biathlon.
 - *Compétitions* avec conduite de véhicule terrestre à moteur  
-Sport auto, karting, motocyclisme...  
-{{%class%}}Sauf modélisme automobile radioguidé.{{%/class%}}
+  Sport auto, karting, motocyclisme...  
+  {{%class%}}Sauf modélisme automobile radioguidé.{{%/class%}}
 - Conduite d'aéronef *en compétition*  
-{{%class%}}Sauf aéromodélisme.{{%/class%}}
+  {{%class%}}Sauf aéromodélisme.{{%/class%}}
 - Rugby  
-À XV, XIII et à VII.
+  À XV, XIII et à VII.
 
 > [Ministère chargé des sports](https://sports.gouv.fr/accueil-du-site/actualites/article/le-certificat-medical-de-non-contre-indication-a-la-pratique-sportive-remplace)  
 [Savoir s'il faut un certificat médical pour obtenir une licence sportive (Simulateur)](https://www.service-public.fr/particuliers/vosdroits/R51612)
@@ -135,9 +135,9 @@ L'inscription à une *compétition* nécessite la présente d'une license sporti
 {{%/warning%}}
 
 - Activité  
-Type, fréquence, intensité, niveau.
+  Type, fréquence, intensité, niveau.
 - Antécédents familiaux  
-Cardiopathie, mort subite.
+  Cardiopathie, mort subite.
 - Antécédents personnels
 - Facteurs de risque cardiovasculaire
 - {{< modal-btn modal-risque-cv >}}Risque cardiovasculaire{{< /modal-btn >}}
@@ -157,9 +157,9 @@ Cardiopathie, mort subite.
   - Intérêt de l'épreuve d'effort ≥ 35 ans
 - Éducation (voir *Information des sportifs*)
 - Enquête familiale  
-Indications: mort subite chez ≤ 45 ans ou cause héréditaire avérée.
+  Indications: mort subite chez ≤ 45 ans ou cause héréditaire avérée.
 - Porteur de défibrillateur  
-Seuls les sports de type 1A sont autorisés (bowling, golf, pétanque).
+  Seuls les sports de type 1A sont autorisés (bowling, golf, pétanque).
 
 ### Indications à l'épreuve d'effort (EE)
 

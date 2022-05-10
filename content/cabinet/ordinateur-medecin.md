@@ -4,7 +4,7 @@ description = "Quel ordinateur pour le médecin généraliste ? Conseils pour un
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-23T19:15:41+02:00
 publishdate = 2022-01-27
-lastmod = 2022-03-27
+lastmod = 2022-05-10
 specialites = []
 sources = []
 tags = []
@@ -29,12 +29,12 @@ Au minimum le PC doit avoir:
 
 - Un processeur 4 cœurs
 - Un disque dur ultra-rapide (dit SSD)  
-500 Go suffiront pour un exercice normal.
+  500 Go suffiront pour un exercice normal.
 - 8 Go de mémoire vive (dite RAM)
 - Windows 10 ou 11  
-Windows 7 et 8 peuvent encore être mis à jour gratuitement vers Windows 10 et 11.
+  Windows 7 et 8 peuvent encore être mis à jour gratuitement vers Windows 10 puis 11.
 - De très nombreuses prises USB  
-Comptez l'imprimante, les lecteurs de carte à puce pour la carte vitale, la carte CPS, souris, clavier, webcam...
+  Comptez l'imprimante, les lecteurs de carte à puce (carte vitale et carte CPS), souris, clavier, webcam ...
 
 {{% /collapse %}}
 {{%collapse "Les pièges à éviter pour un choix éclairé" %}}
@@ -57,13 +57,14 @@ Modèles approuvés par *UFC Que Choisir 2021*:
 - Dell Inspiron 27 7000 - 1350 €
 - Lenovo IdeaCentre AIO 3i FOG1001HFR - 900 €
 - Acer Aspire C27-1655 - 1300 €
+{.list-group}
 
 {{% /collapse %}}
 {{%collapse "La configuration proposée pour travailler efficacement" %}}
 
-Le PC présenté ci-dessous peut être assemblé sur mesure par les grands magasins avec la garantie dont vous avez besoin. Il a ce qu'il faut, est réparable pièce par pièce et coûte une bouchée de pain par rapports à ce qu'on vous vend. Il tiendra 10 ans et est mis à jour régulièrement avec les progrès de l'informatique.
+Le PC présenté ci-dessous peut être assemblé sur mesure par les grands magasins avec la garantie dont vous avez besoin. Il a ce qu'il faut (avec carte Wi-Fi intégrée pour dépanner les jours de coup dur), est réparable pièce par pièce et coûte une bouchée de pain par rapports à ce qu'on vous vend. Il tiendra 10 ans et est mis à jour régulièrement avec les progrès de l'informatique.
 
-{{< card-link title="Achat sur Hardware.fr" url="https://shop.hardware.fr/configurateur/39e0eb5296eda6fae6cb3025d4a46f57" subtitle="Le PC du médecin">}}
+{{< card-link title="Achat sur Hardware.fr" url="https://shop.hardware.fr/configurateur/cee953576fddc65e4b6a1602ca595491" subtitle="Le PC du médecin">}}
 
 **NB.** Windows 11 peut être acheté 15€ (au lieu des 200) sur les géants du e-commerce si un ami peut vous l'installer.
 
