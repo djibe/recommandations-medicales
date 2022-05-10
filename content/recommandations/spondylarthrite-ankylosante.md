@@ -7,15 +7,15 @@ synonyms = ["Spondyloarthrite"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-15T20:39:41+02:00
 publishdate = 2020-10-15
-lastmod = 2022-03-25
+lastmod = 2022-05-10
 specialites = ["rhumatologie"]
-annees = "2018"
+annees = "2022"
 sources = ["SFRhumato", "EULAR"]
 tags = ["AINS", "biotherapie"]
 anglais = ["Axial spondyloarthritis"]
 sctid = "723116002"
 flowchart = true
-todo = "reco 2022, def rhumatisme pso + MICI, bilan pré-thérap antitnfa"
+todo = "def rhumatisme pso + MICI, bilan pré-thérap antitnfa"
 +++
 
 {{%article-summary%}}
@@ -24,9 +24,14 @@ todo = "reco 2022, def rhumatisme pso + MICI, bilan pré-thérap antitnfa"
 - Grande efficacité des AINS
 - Bilan biologique + Rx + IRM
 - Avis rhumatologique systématique
+- [Suivi du patient sous biothérapie](http://www.cri-net.com/fiches-pratiques-et-eSessions/dernieres-mises-a-jour)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
+
+Spondyloarthrite (SpA)
+: Maladie vaste englobant différentes entités auparavant différenciées: spondylarthrite ankylosante, rhumatisme psoriasique (Rpso), arthrites réactionnelles, rhumatismes inflammatoires associés aux MICI spondyloarthrites indifférenciées et formes juvéniles (syndrome enthésite et arthrite).
+: Une importante partie de la pris en charge thérapeutique est commune pour le spondyloarthrites axiales et le rhumatisme psoriasique. Le passage d'une forme à l'autre est également relativement fréquent.
 
 ### Facteurs de mauvais pronostic de la spondylarthrite ankylosante
 
@@ -46,13 +51,14 @@ todo = "reco 2022, def rhumatisme pso + MICI, bilan pré-thérap antitnfa"
 - [Ostéoporose]({{< relref "osteoporose.md" >}})
 - Colonne bambou avec complications neurologiques
 
-### Formes de spondylarthrites
+### Formes de spondyloarthrite
 
 On distingue les:
 
 - Spondylarthrites axiales (radiographiques ou non)
 - Périphériques articulaires (érosives ou non)
 - Périphériques enthésitiques
+- Atteintes extra-rhumatologiques: psoriasis cutané, uvéite, MICI
 
 Spondylarthrite ankylosante (SpA)
 : Rhumatisme inflammatoire chronique potentiellement grave et handicapante survenant chez l'adulte jeune (< 35 ans).
@@ -72,6 +78,9 @@ Spondylarthropaties indifférenciées
 
 ESSG
 : {{%lang%}}European Spondylarthropathy Study Group{{%/lang%}}
+
+MICI
+: maladie inflammatoire chronique de l'intestin
 {.dl-inline}
 
 {{% /collapse %}}
@@ -80,20 +89,20 @@ ESSG
 ### Syndrome axial (pelvi-rachidien)
 
 - Dorso-lombalgies inflammatoires chroniques  
-**Durée > 3 mois, réveil nocturne, dérouillage matinal > 30 minutes, aggravées au repos, diminuées à l'activité physique.**  
-Débute à la charnière thoraco-lombaire avec évolution descendante puis ascendante.  
-Raideur mesurée par **l'indice de Schöber**, ankylose avec disparition de la lordose lombaire (distance L3-mur)
+  - **Durée > 3 mois, réveil nocturne, dérouillage matinal > 30 minutes, aggravées au repos, diminuées à l'activité physique**  
+  - Débute à la charnière thoraco-lombaire avec évolution descendante puis ascendante
+  - Raideur mesurée par **l'indice de Schöber**, ankylose avec disparition de la lordose lombaire (distance L3-mur)
 - **Fessalgie** (pyalgie) de sacro-iliite  
-Douleurs de fesses inflammatoire, uni/bilatérale ou à bascule avec examen neurologique normal.
-Signes négatifs: absence de trajet radiculaire, paroxysmes ou dysesthésies.
+  - Douleurs de fesses inflammatoire, uni/bilatérale ou à bascule avec examen neurologique normal
+  - Signes négatifs: absence de trajet radiculaire, paroxysmes ou dysesthésies
 - Atteinte de l'articulation sterno-claviculaire et manubrio-sternale
 
 ### Syndrome articulaire périphérique
 
 - Oligo-arthrite des membres inférieurs  
-Genou > cheville et coxo-fémorale.
+  Genou > cheville et coxo-fémorale.
 - Atteinte inter-phalangienne distale (IPD) ou de l'ensemble de l'extrémité (**dactylite, doigt en saucisse**).  
-Examen systématique des pieds.
+  Examen systématique des pieds.
 
 ### Syndrome enthésopathique
 
@@ -172,7 +181,7 @@ Se 87%, Spe 96%
 - Rachis cervico-thoraco-lombaire Face + Profil
 - Bassin de face
 
-{{< table title="Classification radiologique de la sacro-iliite" >}}
+{{< table title="Classification radiologique de la sacro-iliite de la spondylarthrite ankylosante" >}}
 | Stade   | Image   |
 |---------|---------|
 | Stade 0 | Inflammation de l'enthèse non visible en radio |
@@ -196,22 +205,22 @@ Résumé des recommandations pour la prise en charge de la spondylarthrite:
 
 - Déclarer l'ALD 27 ± MDPH
 - Suivi spécialisé systématique par le rhumatologue
-- Éducation du patient
+- Information et éducation du patient
 - Arrêt du tabac systématique  
-{{%class%}}Augmente la sévérité de la maladie.{{%/class%}}
+  {{%class%}}Augmente la sévérité de la maladie et facteur de moindre réponse aux anti-TNF.{{%/class%}}
 - Activité physique quotidienne
 - Contrôle du poids
-{{%class%}}L'obésité est facteur de résistance aux anti-TNF.{{%/class%}}
-- Dépistage des comorbidités cardio-vasculaires et ostéoporose
+  {{%class%}}L'obésité est facteur de résistance aux anti-TNF.{{%/class%}}
+- Comorbidités  
+  Cardio-vasculaires, [ostéoporose]({{< relref "osteoporose.md" >}}), {{< modal-btn modal-had >}}dépression, anxiété (échelle HAD){{< /modal-btn >}}.
 - AINS  
-  - AINS à libération prolongée en 1<sup>re</sup> intention
-  - Souvent rechute douloureuse en moins de 48h après leur arrêt
-  - Essai ≥ 2 molécules différentes pendant ≥ 2 semaines chacune avant de conclure à l'inefficacité de chacune (aucun effet sur l'inflammation biologique).  
+  - AINS à libération prolongée en 1<sup>re</sup> intention pour couvrir le dérouillage
+  - Souvent rechute douloureuse en < 48h après leur arrêt
+  - Essai ≥ 2 molécules différentes pendant ≥ 15 jours chacune avant de conclure à l'inefficacité de chacune (aucun effet sur l'inflammation biologique). Échec nécessite d'envisager un biomédicament.  
   - Utiliser à dose optimale (même si doses maximales), mais en conservant posologie et durée minimales
   - Selon *Prescrire*: ibuprofène (max 400 mg x 3/j) et naproxène (max 550 mg x 2/j) ont le meilleur rapport bénéfice/risque parmi les AINS.
-- "La corticothérapie générale n'est pas justifiée dans la majorité des cas"
-- Antalgiques  
-{{%class%}}Pour contrôler les douleurs résiduelles.{{%/class%}}
+- << La corticothérapie générale n'est pas justifiée dans la majorité des cas >>
+- Antalgiques pour les douleurs résiduelles
 - Physiothérapie, ergothérapie, appareillages
 - Kinésithérapie en extension rachidienne
   - Travail d'amplitude respiratoire
@@ -242,6 +251,8 @@ Indications: arthrite périphérique destructrice, ankylose rachidienne avec dé
 {{% /collapse %}}
 {{%collapse "Traitements de fond" %}}
 
+{{%info%}}Envisager une décroissance du biomédicament après 6 mois de rémission de faible activité{{%/info%}}
+
 Lors de réponse partielle aux AINS, prescription par le rhumatologue.
 
 ### Traitements conventionnels
@@ -255,7 +266,7 @@ Indications à la prise en charge de la spondylarthrite par biothérapie:
 
 1. SpA axiale  
     - Réponse insuffisante aux AINS (symptômes persistants sous AINS pleine dose)
-    - ET ASDAS ≥ 2,1 ou BASDAI ≥ 4
+    - ET ASDAS-CRP ≥ 2,1 ou BASDAI ≥ 4
     - ET Rx+ ou inflammation IRM ou CRP+
 2. SpA périphérique enthésitique
     - Réponse insuffisante aux AINS ± infiltration
@@ -274,21 +285,15 @@ Réduction et espacement en rémission stable et prolongée.
 
 #### Classes thérapeutiques
 
-##### Anti-TNFα
-
-- Adalimumab (Humira® ou biosim Amgevita®, Hulio®, Hyrimoz®, Idacio®, Imraldi®)
-- Certolizumab (Cimzia®)
-- Étanercept (Enbrel® ou biosim Benepali®, Erelzi®)
-- Golimumab (Simponi®)
-- Infliximab (Remicade® ou biosim Flixabi®, Inflectra®, Remsima®)
-
-###### Bilan pré-thérapeutique des Anti-TNFα
-
-{{< pretherapeutiques/antitnf >}}
-
-#### Anti-IL
-
-- Sécukinumab (Cosentyx®)
+- Anti-TNFα
+  - Adalimumab (Humira® ou biosim Amgevita®, Hulio®, Hyrimoz®, Idacio®, Imraldi®)
+  - Certolizumab (Cimzia®)
+  - Étanercept (Enbrel® ou biosim Benepali®, Erelzi®)
+  - Golimumab (Simponi®)
+  - Infliximab (Remicade® ou biosim Flixabi®, Inflectra®, Remsima®)
+- Anti-IL-17
+  - Ixekizumab
+  - Sécukinumab (Cosentyx®)
 
 [Bilan pré-thérapeutique et surveillance sous biothérapie](http://www.cri-net.com/fiches-pratiques-et-eSessions/dernieres-mises-a-jour).
 
@@ -302,33 +307,35 @@ Consultation de suivi tous les 3 à 6 mois (au moins annuelle).
 Une amélioration doit être obtenue à 3 mois pour poursuivre une stratégie, avec objectif de contrôle cible à 6 mois.
 
 - Score composite de contrôle de la maladie  
-[ASDAS](http://medicalcul.free.fr/asdas.html) si axial et [DAS 28](http://medicalcul.free.fr/das28.html) si périphérique.
+  [ASDAS](http://medicalcul.free.fr/asdas.html) si axial et [DAS 28](http://medicalcul.free.fr/das28.html) si périphérique.
 - [Auto-score BASDAI](http://medicalcul.free.fr/basdai.html)  
-{{%class%}}Réalisé la semaine avant la consultation.{{%/class%}}
+  {{%class%}}Réalisé la semaine avant la consultation.{{%/class%}}
 - Axiale  
-EVA, réveils nocturnes, taille annuelle, [indice de Schöber](https://webtv.univ-rouen.fr/videos/examen-du-rachis-signe-de-schober/), ampliation thoracique.
+  EVA, réveils nocturnes, taille annuelle, [indice de Schöber](https://webtv.univ-rouen.fr/videos/examen-du-rachis-signe-de-schober/), ampliation thoracique.
 - Périphérique  
-Nombre d'articulations douloureuses et gonflées.
+  Nombre d'articulations douloureuses et gonflées.
 - Enthèses  
-Nombre d'enthèses douloureuses.
+  Nombre d'enthèses douloureuses.
 - Retentissement fonctionnel  
-Échelles {{< score "basfi" "BASFI" >}}, HAQ.
-- Cutané. Recherche de psoriasis
-- Digestif. Recherche MICI
-- Ophtalmo. Recherche uvéite
+  Échelles {{< score "basfi" "BASFI" >}}, HAQ.
+- Atteintes extra-articulaires
+  - Cutané: psoriasis
+  - Digestif: MICI
+  - Ophtalmo: uvéite
 - Tolérance des traitements
 - Surveillance du risque cardio-vasculaire
+- {{< modal-btn modal-had >}}Dépression et anxiété{{< /modal-btn >}}
 
 ### Autres
 
 - Biologique  
-VS, CRP.
+  VS, CRP.
 - Radio thoracique, EFR  
-{{%class%}}Documente l'atteinte restrictive et la fibrose pulmonaire.{{%/class%}}
+  {{%class%}}Documente l'atteinte restrictive et la fibrose pulmonaire.{{%/class%}}
 - ECG  
-{{%class%}}Dépistage des troubles du rythme/conduction.{{%/class%}}
+  {{%class%}}Dépistage des troubles du rythme/conduction.{{%/class%}}
 - Ophtalmologique  
-{{%class%}}Dépistage et surveillance d'atteinte ophtalmologique.{{%/class%}}
+  {{%class%}}Dépistage et surveillance d'atteinte ophtalmologique.{{%/class%}}
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
@@ -343,15 +350,17 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Wendling D. et al. Actualisation 2022 des recommandations de la Société française de rhumatologie (SFR) pour la prise en charge en pratique courante des malades atteints de spondyloarthrite, incluant le rhumatisme psoriasique. Revue du Rhumatisme. 2022.](https://www.sciencedirect.com/science/article/pii/S1169833022000023)
 - [Wendling D. et al. Actualisation 2018 des recommandations de la Société française de rhumatologie (SFR) pour la prise en charge en pratique courante des malades atteints de spondyloarthrite. Revue du Rhumatisme. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S116983301830005X)
 - [Gossec L. et al. Collecte et prise en charge de certaines comorbidités et facteurs de risque associés dans le cadre des rhumatismes inflammatoires chroniques dans la pratique quotidienne en France. Revue du Rhumatisme. 2017.](https://www.sciencedirect.com/science/article/abs/pii/S1169833016308250)
 - [Van der Heijde D. et al. 2016 update of the ASAS-EULAR management recommendations for axial spondyloarthritis. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/6/978)
 - [Mandl P. et al. EULAR recommendations for the use of imaging in the diagnosis and management of spondyloarthritis in clinical practice. Annals of the Rheumatic Diseases. 2015.](https://ard.bmj.com/content/74/7/1327)
 - [Wendling D. et al. Recommandations de la Société française de rhumatologie pour la prise en charge en pratique courante des malades atteints de spondylarthrite. Revue du Rhumatisme. 2014. (PDF)](https://www.larhumato.fr/wp-content/uploads/2017/11/SA20recos20SFR20Rev20Rhum.pdf)
-- Collège Français des Enseignants en Rhumatologie (COFER). Spondylarthrite inflammatoire - Item 197 UE 8.
-
-### À lire
-
-[Wendling D. et al. Actualisation 2022 des recommandations de la Société française de rhumatologie (SFR) pour la prise en charge en pratique courante des malades atteints de spondyloarthrite, incluant le rhumatisme psoriasique. Revue du Rhumatisme. 2022.](https://www.sciencedirect.com/science/article/pii/S1169833022000023)
+- [Collège Français des Enseignants en Rhumatologie (COFER). Spondylarthrite inflammatoire - Item 197 UE 8.](http://www.lecofer.org/item-objectifs-0-18-0.php)
 
 {{%/sources%}}
+{{% modal title="Score HAD" id="modal-had"%}}
+
+{{< scores/had >}}
+
+{{% /modal %}}
