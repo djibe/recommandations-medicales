@@ -7,7 +7,7 @@ aliases = ["/recommandations/papillomavirus/"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = 2021-01-18T10:55:00+02:00
 publishdate = 2022-04-20
-lastmod = 2022-04-27
+lastmod = 2022-05-10
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
 sources = ["INCa", "HAS", "MinSanté"]
@@ -22,7 +22,6 @@ todo = "relecture INCa, pharynx"
 
 {{%article-summary%}}
 
-- Version préliminaire
 - Infection HPV nécessaire à l'apparition du cancer et des condylomes
 - << Le préservatif peut limiter le risque d'infection mais n'assure pas une protection efficace >> (*INCa*)
 - Vaccination pour tous de 11 à 19 ans  
@@ -30,18 +29,24 @@ todo = "relecture INCa, pharynx"
 - Dépistage organisé du cancer du col de l'utérus de 25 à 65 ans (test HPV-HR après 30 ans)
 - Dépistage ciblé du cancer anal
 
+Documents patient: [dépistage du cancer du col (PDF)](https://www.e-cancer.fr/content/download/336635/4809888/file/Depliant%20Uterus%202022_148x210_3%20volets%20DEPCCU21_BD.pdf) et [vaccination HPV (PDF)](https://www.e-cancer.fr/content/download/336636/4809898/file/Depliant%20Papillomavirus%20148x210%20HPV%20DEPVACHPV21%202022%20BD.pdf), [prise en charge d'un cancer du col de l'utérus (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-09/ald30_gp_coluterin_web.pdf)
+
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Papillomavirus humains (HPV)
-: Famille de virus à ADN double brin cancérigènes transmis par contacts sexuels responsables de 6300 cancers ano-génitaux et ORL annuels. Délai infection-tumeur de 20 à 40 ans (TODO:). +60% des dysplasie légères régressent spontanément.  
+: Famille de virus à ADN double brin cancérigènes transmis par contacts sexuels responsables de 6300 cancers ano-génitaux et ORL annuels. Délai infection-tumeur de 10-15 ans. +60% des dysplasie légères régressent spontanément.  
 Mortalité de 20 à 40% pour les cancers induits, avec des séquelles majeures.  
 La vaccination prévient 90% des infections causant ces cancers.
 : 1<sup>re</sup> *[infection sexuellement transmissible](/tags/ist/)* mondiale avec plus de 150 génotypes.  
-: En coloscopie, HPV retrouvé chez 43% des femmes et 24% des hommes (*Vuitton 2018*).
+: En coloscopie, des HPV sont retrouvés chez 43% des femmes et 24% des hommes (*Vuitton 2018*).
 
 TODO: Les infections a HPV deviennent indétectables au bout de 2 ans dans 90% des cas. Dans les 10% des cas où elle persiste elle peut être a l'origine de cancer.
 TODO: avec ou sans pénétration ?
+
+Cancer du col de l'utérus
+: Cancers non hormonodépendants avec un pic d'incidence à 40 ans.  
+80-90% sont des carcinomes épidermoïdes de l'exocol, 10-20% sont des adénocarcinomes du canal endocervical ou de l'endocol.
 
 ### Facteurs de risque de cancer du col de l'utérus
 
@@ -53,8 +58,9 @@ TODO: avec ou sans pénétration ?
 - VIH
 - IST
 - Utilisation prolongée de contraceptifs oraux
+{.list-group}
 
-> TODO:
+> *HAS 2010*
 
 ### Complications des papillomavirus
 
@@ -100,9 +106,11 @@ HPV-HR
 
 Les symptômes sont tardifs et témoignent d'une maladie avancée:
 
-- Métrorragies et leucorrhées
+- Métrorragies ± provoquées
+- Leucorrhées
 - Dyspareunies et douleurs pelviennes
 - Dysurie
+- Douleurs lombaires
 - Voire œdèmes des membres inférieurs et névralgie crurale si évoluée
 
 ### Examen clinique
@@ -133,6 +141,7 @@ En cas de refus, un auto-prélèvement vaginal (APV) peut être réalisé par la
 
 Parmi les femmes de 25 à 65 ans:
 
+- Grossesse au 2e et 3e trimestre
 - Jamais eu de rapports sexuels
 - Suspicion de cancer du col de l'utérus
 - Traitement conservateur pour lésion pré-cancéreuse ou cancéreuse du col  
@@ -191,12 +200,26 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 {{<figure image="/images/photos/cancer-col-uterus-30.jpg" title="Conduite à tenir devant un frottis avec analyse cytologique anormale de 25 à 29 ans. INCa 2020" loading="lazy">}}
 {{<figure image="/images/photos/cancer-col-uterus-30+.jpg" title="Conduite à tenir devant un frottis avec test HPV haut risque anormal de 30 à 65 ans. INCa 2020" loading="lazy">}}
 
+{{< card-link title="Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale" url="https://www.e-cancer.fr/content/download/287960/4097542/file/Conduite_a_tenir_devant_une_femme_ayant_une_cytologie_cervico_uterine_anormale_mel_20200306.pdf" subtitle="INCa">}}
+
+{{% /collapse %}}
+{{%collapse "Traitement d'un cancer du col de l'utérus" %}}
+
+Les anomalies découvertes dans les suites du dépistage ou en colposcopie relèvent d'une prise en charge spécialisée pluridisciplinaire.
+
+L'**IRM pelvienne** est systématique dans le bilan d'extension initial.  
+Le marqueur tumoral épidermoïde **SCC** peut être utile pour le suivi ultérieur.
+
+Le traitement peut être, après RCP: chirurgie, radiothérapie, curiethérapie, chimiothérapie.  
+En cas de ménopause induite, un [traitement hormonal]({{< relref "menopause.md" >}}) peut être introduit.
+
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
 
 {{< card-link title="HPV - L'affaire de tous" url="https://pns-mooc.com/fr/mooc/21/presentation" subtitle="Université de Paris">}}
 
-[Abramovitz L. Vaccin contre le Papilloma virus : De l'AMM au pragmatisme. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/
+- [INCa. Dépistage organisé du cancer du col de l'utérus](https://depistagecoluterus.e-cancer.fr/)
+- [Abramovitz L. Vaccin contre le Papilloma virus : De l'AMM au pragmatisme. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/
 )
 
 {{% /collapse %}}
@@ -204,19 +227,13 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 
 - {{< references/calendrier-vaccinal >}}
 - [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. 24/01/2022.](https://www.e-cancer.fr/Professionnels-de-sante/Facteurs-de-risque-et-de-protection/Agents-infectieux/Prevenir-les-cancers-lies-aux-HPV)
-- [INCa. Le dépistage du cancer du col de l'utérus en pratique, collection Outils pour la pratique, INCa, décembre 2020](https://www.e-cancer.fr/content/download/307096/4383798/file/Outil-Pratique-Uterus-2021-@%20DEF%2012032021.pdf)
-- [Abramovitz L. Vaccin contre le Papilloma virus : De l'AMM au pragmatisme. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/
-)
+- [Vaccination Info Service. Les infections à papillomavirus humains (HPV).](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Les-Infections-a-Papillomavirus-humains-HPV)
+- [INCa. Le dépistage du cancer du col de l'utérus en pratique. collection Outils pour la pratique. Décembre 2020.](https://www.e-cancer.fr/content/download/307096/4383798/file/Outil-Pratique-Uterus-2021-@%20DEF%2012032021.pdf)
+- [Abramovitz L. Vaccin contre le Papilloma virus : De l'AMM au pragmatisme. POST'U 2020 Paris.](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/)
+- [HAS. Évaluation de la recherche des papillomavirus humains (HPV) en dépistage primaire des lésions précancéreuses et cancéreuses du col de l’utérus et de la place du double immuno-marquage p16/Ki67. 2019.](https://www.has-sante.fr/jcms/c_2806160/fr/evaluation-de-la-recherche-des-papillomavirus-humains-hpv-en-depistage-primaire-des-lesions-precancereuses-et-cancereuses-du-col-de-l-uterus-et-de-la-place-du-double-immuno-marquage-p16/ki67)
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
-
-### À lire
-
--	Évaluation de la recherche des papillomavirus
-humains (HPV) en dépistage des lésions précancéreuses et cancéreuses du col de l'utérus et de la place du double immuno-marquage p16/Ki67 » - Juillet 2019 – HAS
--	https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Les-Infections-a-Papillomavirus-humains-HPV
--	Haute Autorité de Santé – Référentiel-KC Utérus juin 2013 – N° ISBN : 978-2-11-128544-6
--	HAS et INCa - Cancer invasif du col utérin Janvier 2010
--	Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale, Collection recommandations et référentiels, version interactive, INCa, décembre 2016.
--	Gynécologie  Obstétrique, Collège national des gynécologues et obstétriciens français 4ème édition Elsevier Masson 2018.
+- [INCa. Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale. 2017. (PDF)](https://www.e-cancer.fr/content/download/287960/4097542/file/Conduite_a_tenir_devant_une_femme_ayant_une_cytologie_cervico_uterine_anormale_mel_20200306.pdf)
+- [HAS. Cancer invasif du col utérin. Actes et prestations Affection de longue durée. Juin 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_lap_col_uterin_web.pdf)
+- [HAS. Cancer invasif du col utérin. Janvier 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_gm_col_uterin_web_2010-02-12_09-57-34_599.pdf)
 
 {{%/sources%}}

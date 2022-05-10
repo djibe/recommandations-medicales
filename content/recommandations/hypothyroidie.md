@@ -22,7 +22,7 @@ imageSrc = "Illustration de l'hypothyroïdie par storyset / Freepik"
 
 - Pas de dépistage systématique
 - TSH seule en cas de symptômes évocateurs
-- +65 ans: pas d'examens complémentaires, traiter si TSH > 20 mUI/L (avis endocrino entre 10 et 20)
+- +65 ans: pas d'examens complémentaires, traiter si TSH > 20 mUI/L (avis endocrino entre 10 et 20), borne supérieure de TSH = âge/10
 - Traitement par LT: dosage de la TSH et adaptation par paliers de 12 µg toutes les 6-12 semaines sur critères clinico-TSH
 - Puis surveillance TSH annuelle (sauf symptômes ou traitement perturbateur)
 - Hashimoto: rechercher une [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) associée
@@ -291,11 +291,11 @@ graph TB
   style decouverte stroke:#4150f5, stroke-width:1px
     TSH -- T4L normale --> hTFruste("Hypothyroïdie fruste<br>(Cliquer pour le chapitre dédié)")
       click hTFruste "{{< relref "hypothyroidie-fruste.md" >}}" "Ouvrir dans un onglet" _blank
-    TSH -- T4L basse --> hT(Hypothyroïdie patente)
-      hT --> bilan("- Aucun si +65 ans<br>- Anticorps anti-TPO<br>&plusmn; dépistage M. cœliaque<br>- Échographie cervicale<br>- ECG")
+    TSH -- T4L basse et symptômes --> hT(Hypothyroïdie patente)
+      hT --> bilan("<strong>Examens</strong><hr>- Aucun si +65 ans<br>- Anticorps anti-TPO<br>&plusmn; dépistage M. cœliaque<br>- Échographie cervicale<br>- ECG")
         bilan --> traitement(Traitement par lévothyroxine)
           traitement --> adulte("<b>Adulte</b><br>Débuter à 1,7 µg/kg/j")
-            adulte -- Fragilité --> fragile("<b>Sujet âgé</b>: Débuter à 1,1,-1,3 µg/kg/j<hr><b>Coronarien</b>: Débuter 12,5-25 µg/j")
+            adulte -- Fragilité --> fragile("<b>+65 ans avec TSH &gt; 20</b>: Débuter à 1,1-1,3 µg/kg/j<br>avis endoc entre 10 et 20 mUI/L<hr><b>Coronarien</b>: Débuter 12,5-25 µg/j")
           traitement --> enfant("<b>Enfant</b><br>Débuter à 2 µg/kg/j")
 {{< /mermaid >}}
 
