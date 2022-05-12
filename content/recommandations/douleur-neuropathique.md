@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr X. MOISSET (SFEMC) et Dr D. BOUHASSIRA (SFETD)"
 date = 2021-09-09T13:10:04+02:00
 publishdate = 2021-09-13
-lastmod = 2022-02-08
+lastmod = 2022-05-11
 specialites = ["neurologie"]
 annees = "2021"
 sources = ["SFETD", "HAS"]
@@ -23,9 +23,10 @@ todo = "carence B9B12?, dermatomes"
 
 {{%article-summary%}}
 
-- {{< modal-btn modal-score-dn4 >}}Questionnaire DN4{{< /modal-btn >}}
+- Typer la douleur: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /modal-btn >}}
 - 1<sup>re</sup> intention: duloxétine, gabapentine ou tricyclique  
-Emplâtre de lidocaïne ou TENS pour une atteinte superficielle localisée.
+  Emplâtre de lidocaïne ou TENS pour une atteinte superficielle localisée.
+- Avis neurologique en cas de difficultés (étiologique, thérapeutique ...)
 - [Liste des structures spécialisées douleur chronique (SDC)](https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)
 
 {{%/article-summary%}}
@@ -76,10 +77,10 @@ TENS
 ### Interrogatoire et examen
 
 - Antécédents  
-Chirurgicaux, traumatiques, sciatique, diabète, [zona]({{< relref "zona.md" >}}), [SIDA]({{< relref "vih-sida.md" >}}), [piqûre de tique]({{< relref "maladie-lyme.md" >}}), maladie de système, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), SEP, séjours tropicaux prolongés, exposition aux métaux lourds...
+  Chirurgicaux, traumatiques, sciatique, diabète, [zona]({{< relref "zona.md" >}}), [SIDA]({{< relref "vih-sida.md" >}}), [piqûre de tique]({{< relref "maladie-lyme.md" >}}), maladie de système, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), SEP, séjours tropicaux prolongés, exposition aux métaux lourds...
 - Antécédents familiaux de neuropathie
 - Traitements neurotoxiques  
-Radio-chimiothérapie, isoniazide, métronidazole, éthambutol, nitrofurantoïne, colistine, dapsone, traitement antipaludéen, antirétroviraux...
+  Radio-chimiothérapie, isoniazide, métronidazole, éthambutol, nitrofurantoïne, colistine, dapsone, traitement antipaludéen, antirétroviraux...
 - Alcool, tabac, toxiques
 - Topographie nerveuse systématisée
 - Apparition et évolution des douleurs
@@ -92,7 +93,7 @@ Radio-chimiothérapie, isoniazide, métronidazole, éthambutol, nitrofurantoïne
   - Froid douloureux
   - Étau, compression, torsion
   - **Paresthésies**  
-  En l'absence de stimulation: picotement, fourmillement, démangeaison, engourdissement.
+    En l'absence de stimulation: picotement, fourmillement, démangeaison, engourdissement.
   - Dysesthésies (contact des draps...)
   - {{< modal-btn modal-score-dn4 >}}Questionnaire DN4{{< /modal-btn >}}
 - Examen neurologique anormal avec signes sensoriels du même territoire
@@ -103,7 +104,7 @@ Radio-chimiothérapie, isoniazide, métronidazole, éthambutol, nitrofurantoïne
   - Sudation
   - Troubles trophiques
 - Traitements essayés  
-Substance, posologie, durée, tolérance, efficacité.
+  Substance, posologie, durée, tolérance, efficacité.
 - Professionnels impliqués
 - Environnement pro-socio-économique
 - Qualité de vie
@@ -123,7 +124,7 @@ Substance, posologie, durée, tolérance, efficacité.
 - TSH
 {{%/info%}}
 
-*Sauf étiologie évidente.*
+*Sauf étiologie évidente*.
 
 ### Électroneuromyogramme (ENMG)
 
@@ -144,23 +145,23 @@ Seuls traitements ayant un niveau de preuve satisfaisant en 2020 sur les douleur
 - Opioïdes forts (morphine et oxycodone LP) et tramadol (recommandation faible)  
 {{%class%}}Tapentadol (faible) non disponible en France.{{%/class%}}
 - Traitements topiques  
-Recommandation faible.
+  Recommandation faible.
   - **Emplâtres de lidocaïne 5%**
   - Patchs de haute concentration de capsaïcine 8%
 - Toxine botulique type A (recommandation faible)
 - Associations thérapeutiques  
-Recommandation faible.
+  Recommandation faible.
   - Antidépresseur (IRSNA ou tricyclique) + antiépileptique (gabapentine voire prégabaline)
   - Antidépresseur (IRSNA ou tricyclique) + morphine
   - Antiépileptique (gabapentine voire prégabaline) + morphine
 - Neurostimulation électrique transcutanée (**TENS**, recommandation faible)
 - Stimulation magnétique transcrânienne répétitive à haute fréquence du cortex moteur primaire (rTMS)
 - Radiofréquence pulsée (PRF, recommandation faible)  
-Limitée aux douleurs postzostériennes thoraciques.
+  Limitée aux douleurs postzostériennes thoraciques.
 - Stimulation médullaire (preuves faibles)  
-Limitée aux douleurs radiculaires chroniques post-chirurgicales et diabétique.
+  Limitée aux douleurs radiculaires chroniques post-chirurgicales et diabétique.
 - Psychothérapie  
-En complément des traitements pharmacologiques.
+  En complément des traitements pharmacologiques.
   - Thérapie cognitivo-comportementale (TCC)
   - Thérapie de pleine conscience
   - Personne âgée: thérapie de pleine conscience
@@ -179,17 +180,17 @@ Amitriptyline 10 mg/j et gabapentine 900 mg/j avec la même efficacité sans eff
 ### Douleur neuropathique périphérique focale
 
 - [Emplâtres de lidocaïne 700 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65538840&typedoc=R) (Versatis®) 1 à 3 selon la superficie de la zone, 12 h/j.  
-Effets indésirables: irritation cutanée, allergie.
+  Effets indésirables: irritation cutanée, allergie.
 - TENS  
-Prescription uniquement par un centre de la douleur chronique.
+  Prescription uniquement par un centre de la douleur chronique.
 
 #### Douleur neuropathique périphérique focale en 2e intention
 
 - [Capsaïcine en patchs de haute concentration à 8%](https://ec.europa.eu/health/documents/community-register/2021/20210709152316/anx_152316_fr.pdf) (Qutenza®). 1–4 patchs selon la superficie.  
-Appliquer 30 minutes sur les pieds et 60 minutes sur les autres zones du corps.  
-Effets indésirables: HTA, sensation de brûlure initiale (appliquer du froid), rougeur, œdème.
+  Appliquer 30 minutes sur les pieds et 60 minutes sur les autres zones du corps.  
+  Effets indésirables: HTA, sensation de brûlure initiale (appliquer du froid), rougeur, œdème.
 - Toxine botulique type A  
-Injections uniquement par un centre de la douleur chronique.
+  Injections uniquement par un centre de la douleur chronique.
 
 ### Douleur neuropathique périphérique ou centrale, focale ou diffuse
 
@@ -226,11 +227,11 @@ Amitriptyline 3-5 gtes au coucher. Paliers 5 gtes tous les 3 jours. Avis spécia
   - Ordonnance sécurisée de durée maximale de 6 mois
   - Effets indésirables: somnolence, vertiges, prise de poids et œdèmes périphériques
 - [Tramadol LP 100-400 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69934919&typedoc=R) en 1-2 prises  
-Peut être associé avec des antiépileptiques. Utilisation avec prudence en association à des antidépresseurs à forte posologie (syndrome sérotoninergique).
+  Peut être associé avec des antiépileptiques. Utilisation avec prudence en association à des antidépresseurs à forte posologie (syndrome sérotoninergique).
 - Association tricyclique 25-75 mg/j ou duloxétine 60 mg/j  
-\+ gabapentine 1200-1800 mg/j ou prégabaline 150-300 mg/j
+  \+ gabapentine 1200-1800 mg/j ou prégabaline 150-300 mg/j
 - Thérapie cognitivo-comportementale (TCC) et thérapie pleine conscience  
-En association avec les autres traitements.
+  En association avec les autres traitements.
 
 #### Douleur neuropathique en 3e intention
 
@@ -242,7 +243,7 @@ Prescription et réalisation uniquement en centre de la douleur chronique.
   - Max 150 mg éq. morphine/j
 - Combinaison opioïde + antidépresseur ou gabapentinoïde
 
-> Effets indésirables: sous-entendu, effets indésirables principaux.
+> "Effets indésirables": sous-entendu, effets indésirables principaux.
 
 {{%warning%}}Les opioïdes forts ne doivent être proposés par un spécialiste de la douleur qu'en l'absence d'alternatives{{%/warning%}}
 
@@ -270,6 +271,11 @@ Bilan étiologique par le neurologue en cause non évidente.
 - [Moisset X et al; SFETD. Traitements pharmacologiques et non pharmacologiques de la douleur neuropathique : une synthèse des recommandations françaises. Douleur Et Analgesie. 2020. (PDF)](https://www.sfetd-douleur.org/wp-content/uploads/2021/02/synth%C3%A8se-RECOS-DN-langue-fran%C3%A7aise1.pdf)
 - [HAS. Prise en charge diagnostique des neuropathies périphériques. Recommandations professionnelles. Mai 2007.](https://www.has-sante.fr/jcms/c_598221/fr/prise-en-charge-diagnostique-des-neuropathies-peripheriques-polyneuropathies-et-mononeuropathies-multiples)
 - [Collège des enseignants de neurologie. Bases neurophysiologiques, mécanismes physiopathologiques d'une douleur aiguë et d'une douleur chronique – Thérapeutiques antalgiques, médicamenteuses et non médicamenteuses. Item 131.](https://www.cen-neurologie.fr/deuxieme-cycle/bases-neurophysiologiques-mecanismes-physiopathologiques-dune-douleur-aigue-dune)
+
+### À lire
+
+- [SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)
+- [Recodiab.ch. Neuropathie diabétique](https://www.recodiab.ch/RPC20_neuropathie.pdf)
 
 {{%/sources%}}
 {{% modal title="Questionnaire DN4" id="modal-score-dn4"%}}
