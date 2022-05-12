@@ -208,4 +208,8 @@ Avis spécialisé sauf précision pour les éléments suivants:
 - [SFORL. Recommandation pour la pratique clinique - La toux chronique chez l'adulte. Texte court. Juin 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/02/TOUX-CHRONIQUE-ADULTE-long.pdf)
 - [Revue Médicale Suisse. Toux chronique de l'adulte : évaluation et prise en charge.  Rev Med Suisse. 2014.](https://www.revmed.ch/RMS/2014/RMS-N-451/Toux-chronique-de-l-adulte-evaluation-et-prise-en-charge)
 
+### À lire
+
+[Collège des Enseignants de Pneumologie (CEP). Toux chez l'adulte. Item 204. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/10/item_204_TOUX_2021_ex_item_200.pdf)
+
 {{%/sources%}}

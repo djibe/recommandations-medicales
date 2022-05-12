@@ -38,6 +38,10 @@ HP M227fdw
 {{% /collapse %}}
 {{%collapse "Écrans" %}}
 
+Avec son
+
+{{% /collapse %}}
+{{%collapse "Claviers et souris" %}}
 
 
 {{% /collapse %}}

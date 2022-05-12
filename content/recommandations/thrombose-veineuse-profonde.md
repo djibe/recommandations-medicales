@@ -153,7 +153,7 @@ Pour toute survenue de MVTE, il faut rechercher la présence de {{< modal-btn mo
 La MVTE est *non provoquée* en l'absence de {{< modal-btn modal-mvte-fdr >}}facteur de risque clinique majeur{{< /modal-btn >}}
 {{%/info%}}
 
-### Bilan étiologique
+### Enquête étiologique
 
 - Pas de recherche systématique de cancer en {{< modal-btn modal-mvte-fdr >}}risque majeur transitoire{{< /modal-btn >}}
 - EP avec *nécrose cutanée* ou antécédent de pathologie vasculaire placentaire: rechercher un *SAPL*
@@ -304,6 +304,7 @@ graph TB
 
 ### À lire
 
+- [Collège des Enseignants de Pneumologie (CEP). Embolie pulmonaire et thrombose veineuse profonde. Item 226 & 330. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_226_et_330_MTEV_2021_ex_items_ex-items_224_et_326v3.pdf)
 - [Samama C-M et al; SFAR. Prévention de la maladie thromboembolique veineuse postopératoire. Actualisation 2011. Texte court. (PDF)](https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prevention-de-la-maladie-thromboembolique-veineuse-postoperatoire-copie.pdf)
 - [Albaladejo et al. Commentaires et propositions du Groupe d'Intérêt en Hémostase Périopératoire (GIHP) sur les recommandations de la Société Européenne d'Anesthésie : European Guidelines on perioperative venous thromboembolism prophylaxis. 2019. (PDF)](https://www.portailvasculaire.fr/sites/default/files/docs/2019_gihp_commentaires_2018_esa_vte_guidelines_mtev_prevention_peri-op.pdf)
 - [Afshari A. et al; ESA VTE Guidelines Task Force. European Guidelines on perioperative venous thromboembolism prophylaxis. Eur Jour Anaes. 2018.](https://journals.lww.com/ejanaesthesiology/fulltext/2018/02000/european_guidelines_on_perioperative_venous.2.aspx)

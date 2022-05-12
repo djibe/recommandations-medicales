@@ -628,6 +628,10 @@ graph TB
 - [Wedzicha JA et al. Prevention of COPD exacerbations: a European Respiratory Society/American Thoracic Society guideline. Eur Respir J. 2017.](https://doi.org/10.1183/13993003.02265-2016)
 - [Zysman M. et al. Propositions de la SPLF pour l'optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016. (PDF)](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
 
+### À lire
+
+[Collège des Enseignants de Pneumologie (CEP). Bronchopneumopathie chronique obstructive (BPCO). Item 209. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_209_BPCO_2021_ex_item_2051-1.pdf)
+
 {{%/sources%}}
 <!-- Scores -->
 {{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}

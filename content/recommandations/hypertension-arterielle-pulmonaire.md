@@ -178,6 +178,7 @@ Le traitement relève uniquement du centre de référence. Le suivi est au moins
 
 ### À lire
 
+- [Collège des Enseignants de Pneumologie (CEP). Hypertension artérielle pulmonaire. Item 222. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2021/01/item_222_HTP_2021v2.pdf)
 - [Delcroix M. et al. ERS statement on chronic thromboembolic pulmonary hypertension. European Respiratory Journal. 2021.](https://erj.ersjournals.com/content/57/6/2002828)
 - [Galiè N. et al. 2015 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension: The Joint Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS): Endorsed by: Association for European Paediatric and Congenital Cardiology (AEPC), International Society for Heart and Lung Transplantation (ISHLT). European Heart Journal. 2016.](https://academic.oup.com/eurheartj/article/37/1/67/2887599)
 
