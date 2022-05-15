@@ -1,12 +1,12 @@
 +++
 title = "Cancer du poumon"
 prefix = "le "
-description = "TODO:"
+description = "Recommandations pour la prise en charge d'une suspicion de cancer du poumon et pour le dépistage du cancer du poumon par scanner thoracique faible dose"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T17:35:52+02:00"
 publishdate = "2022-05-12"
-lastmod = "2022-05-12"
+lastmod = "2022-05-15"
 specialites = ["pneumologie"]
 annees = "2022"
 sources = ["HAS", "SPLF", "ERS"]
@@ -44,6 +44,9 @@ CBPC
 
 CBNPC
 : cancer broncho-pulmonaire non à petites cellules
+
+DFGe
+: débit de filtration glomérulaire estimé
 
 PA
 : paquets-années
@@ -94,6 +97,7 @@ Pour la suite de la prise en charge, relever:
 - Antécédents et comorbidités  
   Dont cancers et maladies respiratoires.
 - Tabagisme et expositions professionnelles
+- Allergie au produit de contraste iodé
 - Symptômes autres ou généraux
 
 {{% /collapse %}}
@@ -102,7 +106,7 @@ Pour la suite de la prise en charge, relever:
 ### Bilan biologique
 
 - NFS
-- Créatininémie
+- Créatininémie, DFGe CKD-EPI
 - Bilan hépatique
 - TP, TCA
 

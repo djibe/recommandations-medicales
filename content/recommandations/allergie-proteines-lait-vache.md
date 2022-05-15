@@ -7,7 +7,7 @@ synonyms = ["Intolérance lait de vache", "APLV"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-11T06:43:00+02:00
 publishdate = 2021-01-11
-lastmod = 2021-11-11
+lastmod = 2022-05-15
 specialites = ["pediatrie"]
 annees = "2017"
 sources = ["Anses", "bibliographie"]
@@ -32,7 +32,7 @@ todo = "poulet ?, https://www.sciencedirect.com/science/article/abs/pii/S1877032
 Allergie quasi constante:
 
 - lait de chèvre et brebis (92% selon Sicherer S, 2001)
-- viande de bœuf (88% selon Mamikoglu B, 2005)
+- viande de bœuf (88% selon *Mamikoglu B 2005*)
 - dérivés de soja
 
 Allergies croisées à étayer 1 par 1:
@@ -55,8 +55,9 @@ Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de 
 - Bébé Mandorle Riz 1, 2 et 3
 - Modilac Expert Riz 1, 2 et 3
 - Modilac Expert Riz AR ~~1~~, 2 et 3
+- Modilac croissance végétal avec protéines de riz 2 à 3 (supermarché)
 - Novalac Riz ou Riz AR de 1 à 3
-- Prémiriz 1 et 2
+- Prémiriz 1, 2 et 3
 
 ### Hydrolysat de caséine
 
@@ -76,7 +77,7 @@ Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de 
 
 ### Lait à base de lait de jument
 
-Seulement 4% d'allergie croisée (*Businco et al.*).
+Seulement 4% d'allergie croisée (*Businco et al*).
 
 - Chevalait 2
 
