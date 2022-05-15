@@ -7,7 +7,8 @@ publishdate = 2022-04-29
 lastmod = 2022-04-29
 sources = []
 tags = []
-imageSrc = "Illustration de slidesgo / Freepik"
+image = true
+imageSrc = "slidesgo / Freepik"
 +++
 
 {{%collapse "Définitions" %}}

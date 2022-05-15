@@ -8,7 +8,8 @@ publishdate = 2022-01-20
 lastmod = 2022-01-20
 sources = []
 tags = []
-imageSrc = ""
+image = true
+imageSrc = "slidesgo / Freepik"
 +++
 
 {{%warning%}}Si vous recevez une notification de connexion de l'appli e-CPS et que vous n'êtes pas à l'origine de la connexion, refusez la connexion et référez-vous à la partie Fraude à la e-CPS{{%/warning%}}

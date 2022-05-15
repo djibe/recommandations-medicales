@@ -56,7 +56,7 @@ PA
 
 - Incidence: 46.000/an (2e de l'homme, 3e de la femme)
 - Décès: 33.000/an (2018. 1<sup>re<sup> cause de mortalité par cancer)
-- Survie à 5 ans (tous stades): < 20%
+- Survie à 5 ans (tous stades): < 20% (+11 points en 25 ans)
 - Le tabagisme passif causerait 1/4 des CBP des non fumeurs (*Collège*)
 
 #### Études du dépistage du cancer du poumon
@@ -207,6 +207,7 @@ Le traitement doit être démarré dans les 6 semaines qui suivent la réalisati
 - [Couraud S et al. Recommandations de l'Intergroupe francophone de cancérologie thoracique, de la Société de pneumologie de langue française, et de la Société d'imagerie thoracique sur le dépistage du cancer bronchopulmonaire par tomodensitométrie à faible dose d'irradiation. Rev Mal Resp. 2021.](https://www.sciencedirect.com/science/article/pii/S0761842521000437)
 - [Collège des Enseignants de Pneumologie (CEP). Tumeurs du Poumon Primitives et Secondaires. Item 309. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_306_CANCER_20211.pdf)
 - [Kauczor H-U et al. ESR/ERS statement paper on lung cancer screening. Eur Respir J. 2020.](https://erj.ersjournals.com/content/55/2/1900506)
+- [Delafosse P et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Poumon. Santé Publique France. 2020.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-poumon)
 - [NICE. Lung cancer: diagnosis and management. 2019.](https://www.nice.org.uk/guidance/NG122)
 - [HAS. ALD n°30 Cancer du poumon et mésothéliome pleural malin. 2014.](https://www.has-sante.fr/jcms/c_820058/fr/ald-n-30-cancer-du-poumon-et-mesotheliome-pleural-malin)
 - [HAS. Guides du parcours de soins des cancers broncho-pulmonaires et mésothéliome pleural malin. 2013.](https://www.has-sante.fr/jcms/c_1650525/fr/guides-du-parcours-de-soins-des-cancers-broncho-pulmonaires-et-mesotheliome-pleural-malin)

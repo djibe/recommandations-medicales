@@ -7,8 +7,8 @@ publishdate = 2021-11-22
 lastmod = 2022-04-07
 sources = ["PAPS", "Ameli Pro", "ARS"]
 tags = []
-image = false
-imageSrc = ""
+image = true
+imageSrc = "pikisuperstar / Freepik"
 todo = "forfait structure et exonérations fiscales, https://www.ameli.fr/medecin/exercice-liberal/vie-cabinet/aides-financieres, http://www.snjmg.org/outils/demographie-et-installation"
 +++
 

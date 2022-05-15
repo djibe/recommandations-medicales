@@ -8,6 +8,7 @@ lastmod = 2022-05-15
 specialites = []
 sources = []
 tags = []
+image = true
 imageSrc = "Illustration par macrovector / Freepik"
 todo= "https://www.clubic.com/materiel-informatique/imprimante/article-851535-1-meilleure-imprimante-laser-comparatif.html#"
 +++

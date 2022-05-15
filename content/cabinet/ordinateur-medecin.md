@@ -8,7 +8,8 @@ lastmod = 2022-05-10
 specialites = []
 sources = []
 tags = []
-imageSrc = ""
+image = true
+imageSrc = "Freepik"
 todo= "i3 10100 ou 12100"
 +++
 
