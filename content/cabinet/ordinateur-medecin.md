@@ -4,7 +4,7 @@ description = "Quel ordinateur pour le médecin généraliste ? Conseils pour un
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-23T19:15:41+02:00
 publishdate = 2022-01-27
-lastmod = 2022-05-10
+lastmod = 2022-05-15
 specialites = []
 sources = []
 tags = []
@@ -16,9 +16,7 @@ todo= "i3 10100 ou 12100"
 L'ordinateur (PC ou Mac) est essentiel au sein du cabinet du médecin afin de gérer à long terme le suivi des patients. Il permet également l'accès aux outils de productivité comme Ameli Pro. Bref, il est vital. Et pourtant, sans aucune connaissance préalable, on vous vendra ce qui rapporte, pas ce dont vous avez besoin.
 {.lead}
 
-Je ne parle ici que de l'ordinateur et de l'écran. Un autre article présentera les périphériques pour bien travailler (clavier, souris, imprimante ...).
-
-Le hic en 2022, c'est la pénurie des composants et l'explosion des prix.
+Je ne parle ici que de l'ordinateur et de l'écran. Voir [les périphériques pour bien travailler]({{< relref "peripheriques-ordinateur.md" >}}) (clavier, souris, imprimante ...).
 
 Le *Forfait structure* contribue à financer le renouvellement du parc informatique du médecin généraliste.
 
