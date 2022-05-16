@@ -9,14 +9,13 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2020-12-22T09:52:41+02:00
 publishdate = 2020-12-22
-lastmod = 2022-01-24
+lastmod = 2022-05-16
 specialites = ["medecine du sommeil"]
 annees = "2018"
 sources = ["SFRMS", "AASM", "HAS"]
 tags = ["BPCO", "depistage", "diabete", "fatigue", "HTA", "obesite", "risque cardiovasculaire", "SAS"]
 anglais = ["Obstructive sleep apnea syndrome"]
 sctid = "78275009"
-draft = false
 image = true
 imageSrc = "Illustration de l'apnée du sommeil par Habib M'henni / Wikimedia Commons"
 imagePNG = true
@@ -400,7 +399,7 @@ Une surveillance dentaire régulière est nécessaire avec l'orthèse d'avancée
   - Efficacité de la PPC constatée
 - Prescription initiale par un diplômé du DIU Sommeil ou pneumologue, valable 4 mois
 - Renouvellement au bout de 4 mois pour une durée de 1 an
-- Renouvellement possible au bout de 3 ans par le médecin traitant  
+- Renouvellement possible au bout de 3 ans par le médecin traitant ([JO 2017](https://www.sp2a.fr/wp-content/uploads/2018/07/De%CC%81cret-PPC-2017.pdf))  
 si peut consulter observance des 12 derniers mois (≥ 112 heures sur 10 mois et ≥ 56h sur les 2 autres)
 - Remboursable à 65%
 - Nécessite une demande d'entente préalable par le spécialiste avec renouvellement annuel si respect des conditions ci-dessus
@@ -416,7 +415,7 @@ Chaque élément permet d'augmenter l'observance de 30 minutes par nuit:
 
 - Rappeler les risques du SAOS
 - Insister sur les bénéfices du traitement  
-Amélioration de la qualité de vie, somnolence diurne et autres symptômes, sensibilité à l'insuline, réduction HTA, risque cardiovasculaire et risque d'AVP.
+  Amélioration de la qualité de vie, somnolence diurne et autres symptômes, sensibilité à l'insuline, réduction HTA, [risque cardiovasculaire](/tags/risque-cardiovasculaire/) et risque d'AVP.
 - Relever les désagréments du traitement pour résoudre les écueils
 
 Rappeler que la PPC doit être utilisée au moins 4 heures par nuit.
@@ -425,7 +424,7 @@ Rappeler que la PPC doit être utilisée au moins 4 heures par nuit.
 
 - Observance
 - Somnolence diurne  
-Évaluer avec l'[échelle d'Epworth (PDF)](https://reseau-morphee.fr/wp-content/uploads/dlm_uploads/2016/11/Epworth.pdf).
+  Évaluer avec l'[échelle d'Epworth (PDF)](https://reseau-morphee.fr/wp-content/uploads/dlm_uploads/2016/11/Epworth.pdf).
 - Insomnie
 - Céphalées matinales
 - Ronflements
@@ -434,32 +433,30 @@ Rappeler que la PPC doit être utilisée au moins 4 heures par nuit.
 - Machine de PPC
   - IAH résiduel
   - Fuites  
-  En rapport avec un masque ou des pressions de ventilation inadaptées.
+    En rapport avec un masque ou des pressions de ventilation inadaptées.
 
 ### Contrôle des effets indésirables de la PPC
 
 - Irritation cutanée du visage
 - Intolérance nasale  
-Rhinorrhée, éternuements, obstruction nasale.
+  Rhinorrhée, éternuements, obstruction nasale.
 
-Effets facilement réversibles par intervention du prestataire.  
-(Ajustement du masque, humidificateur, température de la chambre)
+Effets facilement réversibles par intervention du prestataire (ajustement du masque, humidificateur, température de la chambre).
 
 Environ 10% des patients peuvent avoir une somnolence résiduelle malgré un traitement adapté. Le suivi est spécialisé.
 
 {{% /collapse %}}
 {{%collapse "En savoir plus" %}}
 
-### Critères diagnostiques pour le SAOS de l'adulte ICSD-3 2014
+### Critères diagnostiques pour le SAOS de l'adulte ICSD-3
 
 (A et B) ou C satisfont aux critères (ICSD-3 2014)
 
 A. Présence ≥ 1 vrai parmi:
-
-  1. Plainte de somnolence diurne, sommeil non réparateur, fatigue ou d'insomnie
-  2. Le patient se réveille avec un arrêt de la respiration, haletant ou suffocant
-  3. Ronflements habituels, interruptions de la respiration ou les 2 constatés par l'entourage durant le sommeil
-  4. Comorbidités diagnostiquées: hypertension artérielle, troubles de l'humeur, troubles cognitifs, coronaropathie, AVC, insuffisance cardiaque congestive, fibrillation atriale, diabète type 2
+    1. Plainte de somnolence diurne, sommeil non réparateur, fatigue ou d'insomnie
+    2. Le patient se réveille avec un arrêt de la respiration, haletant ou suffocant
+    3. Ronflements habituels, interruptions de la respiration ou les 2 constatés par l'entourage durant le sommeil
+    4. Comorbidités diagnostiquées: hypertension artérielle, troubles de l'humeur, troubles cognitifs, coronaropathie, AVC, insuffisance cardiaque congestive, fibrillation atriale, diabète type 2
 
 B. Polysomnographie ou polygraphie ambulatoire mesure:  
 RDI ≥ 5 (événements respiratoires principalement obstructifs: apnées obstructives ou mixtes, hypopnées ou ERIM) par heure de sommeil (PSG) ou heure d'enregistrement (PV)
@@ -486,18 +483,18 @@ Sévère
 
 #### Sévérité des événements obstructifs respiratoires
 
-> *AASM Chicago 1997*
-
-Apnées obstructives du sommeil:
+Sévérité des apnées obstructives du sommeil:
 
 - Pas d'apnées obstructives du sommeil  
-IAH < 5
+  IAH < 5
 - Légère ({{%lang%}}mild{{%/lang%}})  
-5 ≤ IAH < 15
+  5 ≤ IAH < 15
 - Modérée ({{%lang%}}moderate{{%/lang%}})  
-15 ≤ IAH < 30
-Sévère ({{%lang%}}severe{{%/lang%}})  
-IAH ≥ 30
+  15 ≤ IAH < 30
+- Sévère ({{%lang%}}severe{{%/lang%}})  
+  IAH ≥ 30
+
+> *AASM Chicago 1997*
 
 Les évolutions successives de la définition des hypopnées par l'AASM entraîne de grands reclassements des groupes de patients par modifications profondes de l'IAH. En effet, le score a été établi avec des capteurs de l'époque et n'incluait pas les micro-éveils (ERIM).
 
@@ -511,16 +508,16 @@ Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
-- [Bonsignore MR et al. European Respiratory Society statement on sleep apnoea, sleepiness and driving risk. Eur Respir J 2021; 57: 2001272](https://doi.org/10.1183/13993003.01272-2020)
-- [Gottlieb DJ, Punjabi NM. Diagnosis and Management of Obstructive Sleep Apnea: A Review. JAMA. 2020;323(14):1389–1400.](https://jamanetwork.com/journals/jama/article-abstract/2764461?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jama.2020.3514)
-- [SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. MMM septembre 2018. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
-- [Ramar K et al, AASM. Clinical Practice Guideline for the Treatment of Obstructive Sleep Apnea and Snoring with Oral Appliance Therapy: An Update for 2015. J Clin Sleep Med JCSM Off Publ Am Acad Sleep Med. 15 juill 2015;11(7):773‑827.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481062/)
+- [Bonsignore MR et al. European Respiratory Society statement on sleep apnoea, sleepiness and driving risk. Eur Respir J 2021.](https://doi.org/10.1183/13993003.01272-2020)
+- [Gottlieb DJ, Punjabi NM. Diagnosis and Management of Obstructive Sleep Apnea: A Review. JAMA. 2020.](https://jamanetwork.com/journals/jama/article-abstract/2764461?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jama.2020.3514)
+- [SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. MMM. 2018. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
+- [Ramar K et al, AASM. Clinical Practice Guideline for the Treatment of Obstructive Sleep Apnea and Snoring with Oral Appliance Therapy: An Update for 2015. J Clin Sleep Med. 2015.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481062/)
 - [HAS. Apnées du sommeil : de nouvelles recommandations de prise en charge des patients. 10/09/2014.](https://www.has-sante.fr/jcms/c_1761160/fr/apnees-du-sommeil-de-nouvelles-recommandations-de-prise-en-charge-des-patients)
 - [SPLF, SFAR, SFC, SFMT, SFORL, SFRMS. Recommandations pour la Pratique Clinique - Syndrome d'apnées hypopnées obstructives du sommeil de l'adulte. 2010. (PDF)](https://splf.fr/wp-content/uploads/2014/07/HS3_reco_sas2010.pdf)
 - [AASM. Obstructive Sleep Apnea. 2008. (PDF)](https://aasm.org/resources/factsheets/sleepapnea.pdf)
-- [Ruehland WR et al. The new AASM criteria for scoring hypopneas: impact on the apnea hypopnea index. Sleep. févr 2009;32(2):150‑7.](https://pubmed.ncbi.nlm.nih.gov/19238801/)
-- [Chiu H-Y et al. Diagnostic accuracy of the Berlin questionnaire, STOP-BANG, STOP, and Epworth sleepiness scale in detecting obstructive sleep apnea: A bivariate meta-analysis. Sleep Med Rev. déc 2017;36:57‑70.](https://pubmed.ncbi.nlm.nih.gov/27919588/)
-- [Morgenthaler TI et al. Practice parameters for the medical therapy of obstructive sleep apnea. Sleep. août 2006;29(8):1031‑5.](https://pubmed.ncbi.nlm.nih.gov/16944671/)
+- [Ruehland WR et al. The new AASM criteria for scoring hypopneas: impact on the apnea hypopnea index. Sleep. 2009.](https://pubmed.ncbi.nlm.nih.gov/19238801/)
+- [Chiu H-Y et al. Diagnostic accuracy of the Berlin questionnaire, STOP-BANG, STOP, and Epworth sleepiness scale in detecting obstructive sleep apnea: A bivariate meta-analysis. Sleep Med Rev. 2017.](https://pubmed.ncbi.nlm.nih.gov/27919588/)
+- [Morgenthaler TI et al. Practice parameters for the medical therapy of obstructive sleep apnea. Sleep. 2006.](https://pubmed.ncbi.nlm.nih.gov/16944671/)
 
 ### À lire
 

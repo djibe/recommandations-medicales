@@ -14,6 +14,7 @@ todo= "https://www.clubic.com/materiel-informatique/imprimante/article-851535-1-
 +++
 
 Ensemble de périphériques pour l'utilisation bureautique quotidienne au cabinet médical.
+{.lead}
 
 {{%collapse "Imprimantes laser" %}}
 

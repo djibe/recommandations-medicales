@@ -12,7 +12,7 @@ Plusieurs constats:
 - Or nous ne retenons que 10% de ce que nous lisons
 - Donc même en apprenant TOUT, nous ne retiendrions que 10%, ce qui est insuffisant
 - Nous avons donc besoin d'avoir un accès permanent à de l'information fiable pour guider nos consultations
-- De plus, les enjeux de Santé publique (hypertension artérielle, [diabète](https://recomedicales.fr/recommandations/diabete-type-2/), [BPCO](https://recomedicales.fr/recommandations/bronchopneumopathie-chronique-obstructive/), ostéoporose) sont d'une complexité croissante, hors de portée de simples fiches textes et de nos petits cerveaux.
+- De plus, les enjeux de Santé publique ([hypertension artérielle](https://recomedicales.fr/recommandations/hypertension-arterielle/), [diabète](https://recomedicales.fr/recommandations/diabete-type-2/), [BPCO](https://recomedicales.fr/recommandations/bronchopneumopathie-chronique-obstructive/), [ostéoporose](https://recomedicales.fr/recommandations/osteoporose/)) sont d'une complexité croissante, hors de portée de simples fiches textes et de nos petits cerveaux.
 
 Seul un outil numérique peut nous aider.
 
@@ -69,14 +69,14 @@ Pour se tenir informé sans naviguer de site en site.
 
 Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans le projet, suivez le guide.
 
-1. Télécharger [Git](https://git-scm.com/downloads) (installez avec les options par défaut) et [NodeJS](https://nodejs.org/en/) (à l'installation de NodeJS, cochez "Automatically install the necessary tools. Note this will also install Chocolatery", on en a besoin)
+1. Télécharger [Git](https://git-scm.com/downloads) (installez avec les options par défaut) et [NodeJS](https://nodejs.org/download/release/v15.14.0/) (à l'installation de NodeJS, cochez "Automatically install the necessary tools. Note this will also install Chocolatery", on en a besoin)
 2. Sur votre PC, dans le dossier où vous voulez placer le projet, ouvrir une Invite de Commande en mode administrateur et tapez `git clone https://github.com/djibe/recommandations-medicales.git`
 3. puis `choco install hugo-extended`, puis `A`
-4. puis placer la Commande dans le dossier de recommandations-medicales
+4. puis placer la *Commande* dans le dossier de recommandations-medicales
 5. puis `npm install`
 6. puis `npm run server`, le site est accessible sur `http://localhost:1313/`
 
-[![Voir le code source sans rien installer](https://open.vscode.dev/badges/open-in-vscode.svg)](https://vscode.dev/github/djibe/recommandations-medicales)
+[![Ouvrir l'éditeur du code source dans le navigateur](https://open.vscode.dev/badges/open-in-vscode.svg)](https://vscode.dev/github/djibe/recommandations-medicales)
 
 ### Créer un nouvel article
 

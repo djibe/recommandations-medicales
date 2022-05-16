@@ -1,6 +1,6 @@
 +++
 title = "Messagerie sécurisée de santé (MSSanté)"
-description = "TODO:"
+description = "Tout savoir sur la Messagerie sécurisée de santé MSSanté et l'appli mobile Mailiz. Créer une adresse MSSanté, envoyer un message à un confrère ou à un patient"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2022-04-29T19:00:00+02:00
 publishdate = 2022-04-29
@@ -14,7 +14,7 @@ imageSrc = "slidesgo / Freepik"
 {{%collapse "Définitions" %}}
 
 MSSanté
-: MSSanté signifie *Messagerie Sécurisée de Santé*. Il s'agit d'un réseau sécurisé de messagerie électronique réservé aux professionnels de santé.  
+: MSSanté signifie *Messagerie Sécurisée de Santé*. Il s'agit d'un réseau sécurisé de messagerie électronique réservé aux professionnels de santé. Il permet d'envoyer un message (avec pièce-jointe) à n'importe quel praticien disposant d'une adresse de messagerie sécurisée.  
 Plusieurs opérateurs ont été homologués pour échanger des messages sur ce réseau sécurisé. Le service [M@iliz](https://mailiz.mssante.fr/) est gratuit pour les médecins.
 : Depuis 2022, le service de l'Assurance Maladie *MonEspaceSanté* a intégré ce réseau, permettant de transmettre à tout patient des messages et documents de façon sécurisée (voir *Envoyer un message sécurisé à un patient*).
 
