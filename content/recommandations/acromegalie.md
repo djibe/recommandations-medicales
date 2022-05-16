@@ -9,7 +9,7 @@ publishdate = "2022-05-16"
 lastmod = "2022-05-16"
 specialites = ["endocrinologie"]
 annees = "2021"
-sources = ["HAS"]
+sources = ["HAS", "Pituitary"]
 tags = ["cephalees"]
 anglais = ["Acromegaly"]
 sctid = "74107003"
@@ -28,8 +28,8 @@ imageSrc = ""
 
 Acromégalie
 : Ensemble des manifestations cliniques induites par une exposition chronique à un excès endogène d'hormone de croissance (GH), principalement par tumeur hypophysaire (9% des adénomes hypophysaires).
-: Maladie rare (prévalence 60/million) avec légère prédominance féminine et pic de survenue vers 40 ans.
-: Complications de l'acromégalie: surmortalité et morbidité significative.
+: Maladie rare (prévalence 60/million) avec légère prédominance féminine et pic de survenue vers 40-50 ans.
+: Complications de l'acromégalie: surmortalité (cardiovasculaire ++) et morbidité significative.
 
 ### Abréviations
 
@@ -60,13 +60,14 @@ Adresser au [centre de compétence ou de référence HYPO](http://www.firendo.fr
   - Paresthésies des mains avec [syndrome du canal carpien]({{< relref "canal-carpien.md" >}})
   - Arthralgies
 - Complications de la maladie
-  - Ostéo-articulaires
+  - Ostéo-articulaires: arthropathies, fractures vertébrales
   - Cardiovasculaires: [hypertension]({{< relref "hypertension-arterielle.md" >}}) (30%), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
   - Pneumologique: [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) (47-87%)
   - Dentaires avec déchaussements
   - Métaboliques avec prédiabète ou [diabète]({{< relref "diabete-type-2.md" >}}) (20-35%)
   - Endocriniens: [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}), spanioménorrhée
   - Autres: nodules thyroïdiens et cancers, polypes coliques (27-55%) et cancer colorectal (x2)
+- Risque cardiovasculaire: calcul du {{< scores/heartscore >}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -84,7 +85,7 @@ L'IRM hypophysaire retrouve souvent une tumeur.
 ### Autres
 
 - Radiographies des 2 épaules (face 3 rotations), hanches (face et faux profil) et genoux (face, schuss, profil, défilé 30-60°).
-- Coloscopie au diagnostic si +40 ans
+- Coloscopie au diagnostic si +40 ans puis selon les recommandations générales
 - Palpation thyroïdienne et TSH annuelle, échographie cervicale au diagnostic puis tous les 5 ans
 
 {{% /collapse %}}
@@ -96,6 +97,7 @@ L'IRM hypophysaire retrouve souvent une tumeur.
 - MDPH
 - Prise en charge des complications spécialisée
 - Soutien psychologique
+- Lutte contre le [risque cardiovasculaire](/tags/risque-cardiovasculaire/)
 - Programmes d'éducation thérapeutique au sein des centres de référence
 - Association de patients  
   [Acromégales Pas Seulement](https://www.acromegalie-asso.org/)
@@ -115,10 +117,11 @@ Attendre un an de traitement avant toute prise en charge maxillo-faciale.
 {{%sources%}}
 
 - [HAS, Centre de référence des maladies rares de l'hypophyse. Acromégalie. Protocole National de Diagnostic et de Soins. 2021.](https://www.has-sante.fr/jcms/p_3292767/fr/acromegalie)
+- [Fleseriu M. et al. A Pituitary Society update to acromegaly management guidelines. Pituitary. 2021.](https://link.springer.com/article/10.1007/s11102-020-01091-7)
+- [Orphanet. Acromégalie.](https://www.orpha.net/consor/cgi-bin/Disease_Search.php?lng=FR&data_id=408&Disease_Disease_Search_diseaseGroup=Acromegalie&Disease_Disease_Search_diseaseType=Pat&Maladie(s)/groupes%20de%20maladies=Acromegalie&title=Acrom%E9galie&search=Disease_Search_Simple)
 
 ### À lire
 
-- [Fleseriu M. et al. A Pituitary Society update to acromegaly management guidelines. Pituitary. 2021.](https://link.springer.com/article/10.1007/s11102-020-01091-7)
 - Collège
 
 {{%/sources%}}
