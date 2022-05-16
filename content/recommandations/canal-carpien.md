@@ -7,15 +7,13 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-14T18:30:29+02:00
 publishdate = 2020-07-14
-lastmod = 2021-05-02
+lastmod = 2022-05-16
 specialites = ["rhumatologie"]
 annees = "2013"
 sources = ["HAS"]
 tags = []
 anglais = ["Carpal tunnel syndrome"]
 sctid = "57406009"
-qualite = "moyenne"
-draft = false
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
@@ -78,26 +76,26 @@ Signes de gravité devant un canal carpien:
 **Le diagnostic est clinique**, évoqué lors de symptômes évocateurs (l'examen clinique peut être normal, pas de gold standard).
 
 - **Paresthésies surtout nocturnes** des 3 premiers doigts  
-Obligeant le lever, déclenchées par certains mouvements, engourdissement, décharges électriques.
+  Obligeant le lever, déclenchées par certains mouvements, engourdissement, décharges électriques.  
   Diminués lorsque secoue la main atteinte ou la laisse pendante.
 - Troubles vasomoteurs  
-Sueur, xérose cutanée, modification de couleur de la main.
+  Sueur, xérose cutanée, modification de couleur de la main.
 - Signe de Mac Murthy-Durkan  
-Paresthésies du nerf médian lors de la pression du poignet face palmaire.
+  Paresthésies du nerf médian lors de la pression du poignet face palmaire.
 - Signe de Tinel  
-Idem lors de percussion du poignet.
+  Idem lors de percussion du poignet.
 - Test de Phalen  
-Avant-bras vertical, flexion maximale du poignet pendant une minute déclenche des paresthésies du nerf médian.
+  Avant-bras vertical, flexion maximale du poignet pendant une minute déclenche des paresthésies du nerf médian.
 - Examen de sensibilité au niveau de la pulpe index  
-Tact et piqûre, diapason, mono-filament.
+  Tact et piqûre, diapason, mono-filament.
 - Examen moteur  
-Opposition pouce-index, atrophie thénarienne.
+  Opposition pouce-index, atrophie thénarienne.
 - Examen sensitif  
-Piquer l'index.
+  Piquer l'index.
 - Examen étiologique  
-Éliminer [diabète]({{< relref "diabete-type-2.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}).
+  Éliminer [diabète]({{< relref "diabete-type-2.md" >}}), [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), acromégalie.
 - Éliminer une cause iatrogène  
-Anti-aromatases (anastrozole, exémestane, létrozole), fluoroquinolones, biphosphonates, anticoagulants oraux, hormone de croissance.
+  Anti-aromatases (anastrozole, exémestane, létrozole), fluoroquinolones, biphosphonates, anticoagulants oraux, hormone de croissance.
 
 Si survient pendant la grossesse, 50% guérison à 1 an.
 
@@ -171,7 +169,7 @@ Algodystrophie, section incomplète avec récidive, blessure nerveuse, adhérenc
 
 ### Syndrome du canal carpien secondaire
 
-Prise en charge spécialisée
+Prise en charge spécialisée.
 
 ### Traitement pendant la grossesse
 

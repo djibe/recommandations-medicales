@@ -18,7 +18,7 @@
   <section class="row mt-lg-5 mb-5">
     <div class="col-12">
       <p class="typography-overline text-black-secondary">Dernières recommandations publiées</p>
-      <div class="home-reco">
+      <div class="grid-1-2-3">
       {{ range ( where site.RegularPages.ByPublishDate.Reverse "Section" "recommandations" | first 6 ) }}
         <div class="card">
           <div class="card-body card-primary-action">

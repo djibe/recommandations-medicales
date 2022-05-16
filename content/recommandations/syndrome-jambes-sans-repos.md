@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2021-02-02T08:52:00+02:00
 publishdate = 2021-03-10
-lastmod = 2022-03-29
+lastmod = 2022-05-16
 specialites = ["medecine du sommeil"]
 annees = "2019"
 sources = ["SFRMS"]
@@ -37,17 +37,11 @@ imageSrc = "Comparaison entre le sommeil d'une personne atteinte du syndrome des
 {{%collapse "Définitions" %}}
 
 Syndrome des jambes sans repos (SJSR)
+: ou Maladie de Willis-Ekbom
 : Maladie chronique neurologique sensorimotrice entraînant un besoin impérieux de bouger les jambes (voire bras, hanche) selon l'occupation et le moment de la journée.  
 Il atteint préférentiellement les femmes et altère la qualité de vie. Le sous-diagnostic est majeur.  
 Le traitement est symptomatique et vise à réduire la plainte sans éradiquer les symptômes (épargne thérapeutique).
 : L'origine de la maladie est mal comprise mais comporte une carence intra-cérébrale en *fer* (insuffisance de transport par les barrières hémato-encéphalique et neuronale) et des troubles du système *dopaminergique*.
-: **Complications du SJSR:**
-    - Troubles du sommeil
-    - Altération de la vigilance diurne
-    - Anxiété, dépression {{%class%}}x 2-10{{%/class%}}
-    - Altération de la qualité de vie
-    - Impact socio-économique
-    - Enfant: troubles du comportement et irritabilité
 
 Forme chronique-persistante
 : En l'absence de traitement, survenue moyenne des symptômes au moins 2 fois par semaine durant l'année précédente.
@@ -55,6 +49,17 @@ Forme chronique-persistante
 Forme intermittente
 : En l'absence de traitement, survenue moyenne des symptômes < 2 fois par semaine durant l'année précédente  
 ET au moins 5 épisodes sur la vie entière.
+
+### Complications du syndrome des jambes sans repos
+
+- Troubles du sommeil
+- Altération de la vigilance diurne
+- Anxiété, dépression {{%class%}}x 2-10{{%/class%}}
+- Altération de la qualité de vie
+- Impact socio-économique
+- Enfant: troubles du comportement et irritabilité
+
+### Autres définitions
 
 Mouvements périodiques des membres (MPM)
 : Mouvements involontaires de dorsiflexion des chevilles, orteils, flexion partielle de genou et parfois de hanche.  
@@ -71,7 +76,7 @@ Akathisie
 Tremblement orthostatique primaire
 : Mouvement anormal rare, caractérisé par un tremblement postural spécifique rapide, qui touche les membres inférieurs et le tronc en position debout *([Orphanet](https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=FR&Expert=238606))*.
 
-### Épidémiologie du SJSR en France
+### Épidémiologie du syndrome des jambes sans repos en France
 
 - Prévalence chez l'adulte: 8,5%  
   Symptômes hebdomadaires 2,5% et quotidiens 1,9%.
@@ -123,7 +128,7 @@ TDAH
 - [Carence martiale]({{< relref "anemie.md" >}})  
   {{%class text-black-secondary %}}Prévalence du SJSR de 25 à 35% si anémie.{{%/class%}}
 - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})  
-  Aggravation par inhibiteurs calciques, PTH basse, CST bas, diabète de type 2 ({{%class text-black-secondary %}}prévalence 15-68%{{%/class%}})
+  Aggravation par inhibiteurs calciques, PTH basse, CST bas, [diabète de type 2]({{< relref "diabete-type-2.md" >}}) ({{%class text-black-secondary %}}prévalence 15-68%{{%/class%}})
 - Hémochromatose
 - Pathologie cardiovasculaire (moindre)
 - [Migraine]({{< relref "migraine.md" >}})  
@@ -144,7 +149,7 @@ TDAH
 - Consommation excessive de psychostimulants  
   Alcool, café, thé.
 - Traitements aggravants  
-  Antidépresseurs (toute classe), neuroleptiques, lithium, anti-histaminiques, oxybate de sodium.
+  Antidépresseurs (toute classe), neuroleptiques, lithium, antihistaminiques, oxybate de sodium.
 
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques" %}}
@@ -184,7 +189,7 @@ Intérêt de laisser le patient décrire ses symptômes, ou l'enfant avec ses mo
   - Évolution des symptômes dans le temps
   - Femme: survenue au cours d'une grossesse
 - Réponse au traitement dopaminergique  
-{{%class%}}Réponse initiale chez 3/4 des patients.{{%/class%}}
+  {{%class%}}Réponse initiale chez 3/4 des patients.{{%/class%}}
 
 #### Symptômes du syndrome des jambes sans repos
 

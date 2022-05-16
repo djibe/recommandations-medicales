@@ -8,9 +8,9 @@ lastmod = 2022-05-16
 specialites = []
 sources = []
 tags = []
+draft = true
 image = true
 imageSrc = "vectorjuice / Freepik"
-todo= ""
 +++
 
 Le *Forfait structure* correspond à une prime annuelle versée par l'Assurance Maladie pour favoriser l'engagement des médecins dans le respect des protocoles numériques du système de santé (logiciels, aide à la prescription, FSE, messagerie sécurisée ...) et des modes d'exercices coordonnés.

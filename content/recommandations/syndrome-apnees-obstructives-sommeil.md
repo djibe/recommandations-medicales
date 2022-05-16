@@ -282,13 +282,13 @@ Auscultation cardiaque et vasculaire.
 Diagnostic différentiel du syndrome obstructif d'apnées du sommeil:
 
 - Du ronflement  
-{{%class%}}Ronflement isolé.{{%/class%}}
+  {{%class%}}Ronflement isolé.{{%/class%}}
 - De la somnolence diurne  
-{{%class%}}Narcolepsie, hypersomnie idiopathique, dette de sommeil, syndrome obésité-hypoventilation.{{%/class%}}
+  {{%class%}}Narcolepsie, hypersomnie idiopathique, dette de sommeil, syndrome obésité-hypoventilation.{{%/class%}}
 - De dyspnée nocturne  
-{{%class%}}Attaques de paniques nocturnes, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), [asthme]({{< relref "asthme.md" >}}), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), angor nocturne{{%/class%}}.
+  {{%class%}}Attaques de paniques nocturnes, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), [asthme]({{< relref "asthme.md" >}}), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), angor nocturne{{%/class%}}.
 - Des apnées  
-{{%class%}}Syndrome d'apnées centrales du sommeil (SACS).{{%/class%}}
+  {{%class%}}Syndrome d'apnées centrales du sommeil (SACS).{{%/class%}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -452,16 +452,14 @@ Environ 10% des patients peuvent avoir une somnolence résiduelle malgré un tra
 
 (A et B) ou C satisfont aux critères (ICSD-3 2014)
 
-A. Présence ≥ 1 vrai parmi:
+1. Présence ≥ 1 vrai parmi:
     1. Plainte de somnolence diurne, sommeil non réparateur, fatigue ou d'insomnie
     2. Le patient se réveille avec un arrêt de la respiration, haletant ou suffocant
     3. Ronflements habituels, interruptions de la respiration ou les 2 constatés par l'entourage durant le sommeil
     4. Comorbidités diagnostiquées: hypertension artérielle, troubles de l'humeur, troubles cognitifs, coronaropathie, AVC, insuffisance cardiaque congestive, fibrillation atriale, diabète type 2
-
-B. Polysomnographie ou polygraphie ambulatoire mesure:  
+2. Polysomnographie ou polygraphie ambulatoire mesure:  
 RDI ≥ 5 (événements respiratoires principalement obstructifs: apnées obstructives ou mixtes, hypopnées ou ERIM) par heure de sommeil (PSG) ou heure d'enregistrement (PV)
-
-C. PSG ou PV ambulatoire mesurent:  
+3. PSG ou PV ambulatoire mesurent:  
 RDI ≥ 15 (événements respiratoires principalement obstructifs: apnées, hypopnées ou ERIM) par heure de sommeil (PSG) ou heure d'enregistrement (PV)
 
 Les critères pour le SAOS de l'enfant sont différents.
@@ -469,8 +467,6 @@ Les critères pour le SAOS de l'enfant sont différents.
 ### Classifications de la sévérité des troubles
 
 #### Sévérité de la somnolence
-
-> *AASM 1999*, repris *SPLF 2010*
 
 Légère
 : Somnolence indésirable ou épisodes de sommeil involontaire ayant peu de répercussion sur la vie sociale ou professionnelle et apparaissant pendant des activités nécessitant peu d'attention (regarder la télévision, lire, être passager d'une voiture).
@@ -480,19 +476,26 @@ Modérée
 
 Sévère
 : Somnolence indésirable ou épisodes de sommeil involontaire perturbant de façon importante la vie sociale ou professionnelle et apparaissant lors d'activités de la vie quotidienne (manger, tenir une conversation, marcher, conduire).
+{.dl-inline}
+
+> *AASM 1999*, repris *SPLF 2010*
 
 #### Sévérité des événements obstructifs respiratoires
 
 Sévérité des apnées obstructives du sommeil:
 
-- Pas d'apnées obstructives du sommeil  
-  IAH < 5
-- Légère ({{%lang%}}mild{{%/lang%}})  
-  5 ≤ IAH < 15
-- Modérée ({{%lang%}}moderate{{%/lang%}})  
-  15 ≤ IAH < 30
-- Sévère ({{%lang%}}severe{{%/lang%}})  
-  IAH ≥ 30
+Pas d'apnées obstructives du sommeil
+: IAH < 5
+
+Légère ({{%lang%}}mild{{%/lang%}})
+: 5 ≤ IAH < 15
+
+Modérée ({{%lang%}}moderate{{%/lang%}})
+: 15 ≤ IAH < 30
+
+Sévère ({{%lang%}}severe{{%/lang%}})
+: IAH ≥ 30
+{.dl-inline}
 
 > *AASM Chicago 1997*
 
