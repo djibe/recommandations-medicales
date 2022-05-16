@@ -291,7 +291,7 @@ Détail pour chaque pathologie sur la page du chapitre concerné.
 - Palpation et auscultation des trajets artériels
 - Tâches café au lait
 - Contact lombaire
-- Acromégalie ou dysthyroïdie
+- Signes d'[acromégalie]({{< relref "acromegalie.md" >}}) ou dysthyroïdie
 
 ### Bilan initial
 

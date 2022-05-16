@@ -58,7 +58,7 @@ Liste établie par décret [révision 2011-77 (PDF)](https://www.ameli.fr/sites/
   {{< list-item-counter "Formes graves des affections neurologiques et musculaires (dont myopathie), épilepsie grave" >}}
   {{< list-item-counter "Hémoglobinopathie, hémolyse chronique constitutionnelle ou acquise sévère" >}}
   {{< list-item-counter "Hémophilie et autres affections constitutionnelles de l'hémostase grave" >}}
-  {{< list-item-counter "HTA sévère retirée 27/06/2011" >}}
+  {{< list-item-counter "Hypertension artérielle sévère (retirée 27/06/2011)" >}}
   {{< list-item-counter "Maladie coronaire" >}}
   {{< list-item-counter "Insuffisance respiratoire chronique grave secondaire à une BPCO" >}}
   {{< list-item-counter "Maladie d'Alzheimer et autres démences" >}}
@@ -84,6 +84,7 @@ Liste établie par décret [révision 2011-77 (PDF)](https://www.ameli.fr/sites/
 
 Exemples:
 
+- [Acromégalie]({{< relref "acromegalie.md" >}})
 - Malformation congénitale des membres
 - Embolie pulmonaire à répétition
 - DMLA

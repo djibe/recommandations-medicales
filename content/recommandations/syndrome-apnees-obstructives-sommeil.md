@@ -83,7 +83,7 @@ Hypersomnie
 - Volumineuses végétations adénoïdes ou amygdales
 - Rétro ou micrognathie
 - Antécédent familial de SAOS
-- Acromégalie
+- [Acromégalie]({{< relref "acromegalie.md" >}})
 - [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
 - Tabagisme
 - Congestion nasale ou rhinite chronique

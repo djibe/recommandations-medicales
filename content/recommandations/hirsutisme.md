@@ -42,7 +42,7 @@ Les causes de l'hirsutisme sont gynécologiques, endocriniennes et idiopathique:
 - Le **syndrome des ovaires polykystiques** (**SOPK**) est la première cause.
 - Hirsutisme sans hyperandrogénie
   - Syndrome de Cushing
-  - Acromégalie
+  - [Acromégalie]({{< relref "acromegalie.md" >}})
   - Hyperprolactinémie
   - Syndrome sévère de résistance à l'insuline
   - [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})

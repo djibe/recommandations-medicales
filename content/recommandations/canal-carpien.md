@@ -23,6 +23,7 @@ todo = "rec maladie pro, lire reco 2013"
 
 {{%article-summary%}}
 
+- Évoquer une [acromégalie]({{< relref "acromegalie.md" >}})
 - Signes de gravité: déficit moteur de flexion du pouce, sensitif du dermatome et amyotrophie
 - Pas de bilan et orthèse seule en 1<sup>re</sup> intention
 - Reconnaissance possible en maladie professionnelle
@@ -55,7 +56,7 @@ SCC
 - Maladie professionnelle
 - [Diabète]({{< relref "diabete-type-2.md" >}})
 - [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
-- Acromégalie
+- [Acromégalie]({{< relref "acromegalie.md" >}})
 - Grossesse
 - Maladie de système ([Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}))
 
@@ -210,6 +211,7 @@ diagnostic -- Diagnostic différentiel --> differentiel("- Atteintes radiculaire
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, Centre de référence des maladies rares de l'hypophyse. Acromégalie. Protocole National de Diagnostic et de Soins. 2021.](https://www.has-sante.fr/jcms/p_3292767/fr/acromegalie)
 - [Santé Publique France. Syndrome du canal carpien. 18/08/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-liees-au-travail/troubles-musculo-squelettiques/donnees/syndrome-du-canal-carpien)
 - Prescrire Redaction. Syndrome du canal carpien: parfois d'origine médicamenteuse. Avril 2019.
 - [HAS. Syndrome du canal carpien - Optimiser la pertinence du parcours patient. Février 2013.](https://www.has-sante.fr/jcms/c_1365548/fr/syndrome-du-canal-carpien-optimiser-la-pertinence-du-parcours-patient)

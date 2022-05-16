@@ -43,37 +43,38 @@ La TSH est élevée et la T4L basse.
 ### Facteurs favorisants l'hypothyroïdie
 
 - Post-partum
-- Antécédents personnels ou familiaux auto-immuns (ex. [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}))
+- Antécédents personnels ou familiaux auto-immuns (ex. [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}))
 - Irradiation cervicale
 - Trisomie 21 et Syndrome de Turner
 
 ### Étiologie
 
-- **Thyroïdite lymphocytaire chronique de Hashimoto**  
-  Forme hypertrophique prédominant chez la femme.  
-  Goitre constant, diffus, volume modéré, ferme, souvent indolore et non compressif, pseudo-nodulaire.  
-  Anticorps anti-TPO à taux élevés et aspect échographiques caractéristiques.  
-  Aggravation progressive avec diminution du volume de la glande et du taux des AC.  
-  Favorise la maladie cœliaque (dépister systématiquement) et le lymphome thyroïdien (< 1% des cas).
-- Thyroïdite chronique  
-  Souvent asymptomatique, euthyroïdie  
-  Taux élevé d'anticorps circulants, parenchyme hétérogène  
-  Surveillance clinique et TSH annuelle.
-- Thyroïdite lymphocytaire chronique atrophique  
-  Fréquente, féminine, post-ménopausique++  
-  Ressemble au Hashimoto mais avec thyroïde de taille normale/diminuée.  
-  Anticorps anti-TPO+ (75%) et anti-TG+ (50%).  
-  Aggravation progressive comparable au Hashimoto.
-- Thyroïdite subaiguë de De Quervain ou virale  
-  Dans les suites d'une infection respiratoire: syndrome grippal, inflammatoire avec un goitre ferme et douloureux.  
-  Phase de thyrotoxicose puis hypothyroïdie le plus souvent transitoire.  
+- **Thyroïdite lymphocytaire chronique de Hashimoto**
+  - Forme hypertrophique prédominant chez la femme
+  - Goitre constant, diffus, volume modéré, ferme, souvent indolore et non compressif, pseudo-nodulaire
+  - Anticorps anti-TPO à taux élevés et aspect échographiques caractéristiques
+  - Aggravation progressive avec diminution du volume de la glande et du taux des anticorps
+  - Favorise la [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) (dépister systématiquement) et le lymphome thyroïdien (< 1% des cas)
+- Thyroïdite chronique
+  - Souvent asymptomatique, euthyroïdie
+  - Taux élevé d'anticorps circulants, parenchyme hétérogène
+  - Surveillance clinique et TSH annuelle
+- Thyroïdite lymphocytaire chronique atrophique
+  - Fréquente, féminine, post-ménopausique ++
+  - Ressemble au Hashimoto mais avec thyroïde de taille normale/diminuée
+  - Anticorps anti-TPO + (75%) et anti-TG + (50%)
+  - Aggravation progressive comparable au Hashimoto
+- Thyroïdite subaiguë de De Quervain ou virale
+  - Dans les suites d'une infection respiratoire: syndrome grippal, inflammatoire avec un goitre ferme et douloureux
+  - Phase de thyrotoxicose puis hypothyroïdie le plus souvent transitoire
 - Thyroïdite transitoire  
   Thyrotoxicose pauci-symptomatique puis hypothyroïdie séquellaire dans 20% des cas.
-- Thyroïdite du post-partum  
-Fréquente (5-10% des femmes), survient dans l'année, surtout si diabète type 1 ou taux élevés d'AC antithyroïdiens au 1er trimestre. Récidive dans 70% des cas à la grossesse suivante.  
-Souvent transitoire (70%), contrôle TSH à 1 an.  
-Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le 2e mois post-partum (reprise rapide du poids normal, nervosité).  
+- Thyroïdite du post-partum
+  - Fréquente (5-10% des femmes), survient dans l'année, surtout si diabète type 1 ou taux élevés d'anticorps antithyroïdiens au 1er trimestre. Récidive dans 70% des cas à la grossesse suivante
+  - Souvent transitoire (70%), contrôle TSH à 1 an
+  - Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le 2e mois post-partum (reprise rapide du poids normal, nervosité)
 - Autres causes
+  - Centrale (insuffisance thyréotrope)
   - Iatrogène  
     Médicaments ou traitement thyroïdien par iode 131, thyroïdectomie et radiothérapie cervicale.
   - Hémochromatose
