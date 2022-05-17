@@ -1,6 +1,6 @@
 {
   "name": "univ-medicale",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Site communautaire des recommandations en premier recours en médecine générale",
   "scripts": {
     "article:new": "hugo new recommandations/article.md",
@@ -53,6 +53,7 @@
     "html-validate": "^6.1.3",
     "htmllint-cli": "0.0.7",
     "linkinator": "^3.0.2",
+    "netlify-plugin-inline-critical-css": "^2.0.0",
     "node-sass": "^5.0.0",
     "vnu-jar": "^21.4.9"
   },
