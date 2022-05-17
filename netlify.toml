@@ -104,8 +104,8 @@ HUGO_ENABLEGITINFO = "false"
   to = " /specialites/:splat"
   status = 301
 
-[[plugins]]
+# [[plugins]]
   # package = "netlify-plugin-inline-critical-css"
 
-  [plugins.inputs]
+  # [plugins.inputs]
   # directoryFilter = ["!annees", "!specialites", "!tags"]
