@@ -2,16 +2,16 @@
 title = "Douleurs neuropathiques"
 prefix = "les "
 titleSeo = "Douleurs neuropathiques"
-description = "Recommandations pour le diagnostic et le traitement des douleurs neuropathiques. Questionnaire DN4, antidépresseurs tricycliques, gabapentine ou duloxétine ..."
+description = "Recommandations pour le diagnostic et le traitement des douleurs neuropathiques. Questionnaire DN4, antidépresseurs tricycliques, antiépileptiques ou duloxétine"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr X. MOISSET (SFEMC) et Dr D. BOUHASSIRA (SFETD)"
 date = 2021-09-09T13:10:04+02:00
 publishdate = 2021-09-13
-lastmod = 2022-05-11
+lastmod = 2022-05-17
 specialites = ["neurologie"]
 annees = "2021"
-sources = ["SFETD", "HAS"]
+sources = ["SFETD", "SFD", "HAS"]
 tags = ["cancer", "douleur", "neuropathie", "TSH", "zona"]
 anglais = ["Neuropathic pain"]
 sctid = "247398009"
@@ -23,11 +23,13 @@ todo = "carence B9B12?, dermatomes"
 
 {{%article-summary%}}
 
-- Typer la douleur: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /modal-btn >}}
+- Typer la douleur: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /modal-btn >}} et examen clinique
+- Coter la douleur sur 10 (EN, EVA)
 - 1<sup>re</sup> intention: duloxétine, gabapentine ou tricyclique  
   Emplâtre de lidocaïne ou TENS pour une atteinte superficielle localisée.
+- Efficacité: essai de chaque molécule ≥ 6 semaines à dose maximale tolérée (sauf intolérance) et vise réduction douleur ≥ 30% et/ou amélioration fonctionnelle ≥ 30%
 - Avis neurologique en cas de difficultés (étiologique, thérapeutique ...)
-- [Liste des structures spécialisées douleur chronique (SDC)](https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)
+- [Annuaire des structures spécialisées douleur chronique (SDC)](https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -36,11 +38,27 @@ Douleur neuropathique
 : Douleur secondaire à une lésion ou maladie affectant le système nerveux somatosensoriel (définition *IASP*). Elle peut être d'origine périphérique ou centrale. Elle est chronique quand elle persiste plus de 3-6 mois.
 : Impact important sur la qualité de vie avec coût socio-économique majeur (7-10 % des adultes).
 
+Polyneuropathie diabétique douloureuse (NDD)
+: Atteinte des **petites fibres: le test au monofilament et l'électromyogramme peuvent être normaux**. Elle doit être systématiquement recherchée.
+: Le diagnostic est clinique: caractères neuropathiques et atteinte des petites fibres (diminution de la perception de la piqûre et/ou chaud/froid), allodynie au tact ou au frottement. Pas d'intérêt de l'EMG sauf forme atypique. Atteinte des grosses fibres plus tardive.
+: Elle doit être différenciée de la polyneuropathie chronique sensitivo-motrice (PCSM) distale des grosses fibres, symétrique et peu symptomatique objectivée par le test au monofilament 10g (+ diapason et coton) qui est un marqueur de pied à risque.
+: L'amélioration de l'équilibre glycémique n'améliore pas les douleurs neuropathiques.
+: Prévalence: 20% en DT2, 5% en DT1
+
 Allodynie
 : Douleurs provoquées par une stimulation normalement non douloureuse.
 
+Dysesthésie
+: Sensation anormalement désagréable, spontanée ou provoquée.
+
 Hyperalgésie
 : Douleurs anormalement intenses provoquées par une stimulation douloureuse (avec diffusion dans le temps et l'espace).
+
+Hyperesthésie
+: Sensation exagérée à une stimulation somesthésique (mécanique, thermique, douloureuse), à l'exception des stimulations sensorielles spécifiques. Ce terme englobe l'*allodynie* et l'*hyperalgésie*.
+
+Paresthésie
+: Sensation anormale désagréable, spontanée ou provoquée, douloureuse ou non. Les *dysesthésies* font partie des paresthésies.
 
 ### Abréviations
 
@@ -51,7 +69,7 @@ DN
 : douleur neuropathique
 
 ENMG
-: électroneuromyogramme
+: électroneuromyogramme ou électromyogramme (EMG)
 
 IASP
 : {{%lang%}}Neuropathic Pain Special Interest Group{{%/lang%}}
@@ -60,7 +78,10 @@ IRSNA
 : inhibiteurs de la recapture de la sérotonine et de la noradrénaline
 
 SDC
-: structures spécialisées douleur chronique, communément centres experts de la douleur
+: structures spécialisées douleur chronique (centres experts de la douleur)
+
+SFD
+: Société Francophone du Diabète
 
 SFETD
 : Société Française d'Étude et de Traitement de la Douleur
@@ -70,6 +91,24 @@ TENS
 {.dl-inline}
 
 {{%/collapse%}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Selon la localisation de la douleur:
+
+- [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})  
+  Douleurs quand sténose > 70%.
+- Mononévrite  
+  Unilatérale, systématisée (ex cruralgie).
+- Syndrome canalaire  
+  [Névrome de Morton]({{< relref "nevrome-morton.md" >}}) ++
+- Canal lombaire étroit  
+  Généralement lombo-sacrée, uniquement à la marche et aggravée par celle-ci avec un périmètre réduit.
+- [Syndrome des jambes sans repos]({{< relref "syndrome-jambes-sans-repos.md" >}})
+- Insuffisance veineuse
+- Arthropathie
+- Myalgie
+
+{{%/collapse%}}
 {{%collapse "Clinique" %}}
 
 {{%info%}}Avis neurologique devant toute douleur neuropathique dont l'étiologie ou le tableau n'est pas raisonnablement explicable{{%/info%}}
@@ -77,20 +116,19 @@ TENS
 ### Interrogatoire et examen
 
 - Antécédents  
-  Chirurgicaux, traumatiques, sciatique, diabète, [zona]({{< relref "zona.md" >}}), [SIDA]({{< relref "vih-sida.md" >}}), [piqûre de tique]({{< relref "maladie-lyme.md" >}}), maladie de système, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), SEP, séjours tropicaux prolongés, exposition aux métaux lourds...
+  Chirurgicaux, traumatiques, sciatique, [diabète]({{< relref "diabete-type-2.md" >}}) (ancienneté), [zona]({{< relref "zona.md" >}}), [SIDA]({{< relref "vih-sida.md" >}}), [piqûre de tique]({{< relref "maladie-lyme.md" >}}), maladie de système, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), SEP, séjours tropicaux prolongés, exposition aux métaux lourds ...
 - Antécédents familiaux de neuropathie
 - Traitements neurotoxiques  
   Radio-chimiothérapie, isoniazide, métronidazole, éthambutol, nitrofurantoïne, colistine, dapsone, traitement antipaludéen, antirétroviraux...
 - Alcool, tabac, toxiques
 - Topographie nerveuse systématisée
 - Apparition et évolution des douleurs
-- Caractères douloureux
+- **Caractères douloureux**
   - Circonstance de déclenchement
   - Fond continu
+  - Prédominance au repos et la nuit
   - Paroxysmes: décharges électriques, coups de couteau
-  - Prédominance nocturne
-  - Brûlures
-  - Froid douloureux
+  - Brûlures, froid douloureux
   - Étau, compression, torsion
   - **Paresthésies**  
     En l'absence de stimulation: picotement, fourmillement, démangeaison, engourdissement.
@@ -100,6 +138,7 @@ TENS
   - An/hyper/**hypoesthésie**
   - Trouble de la sensibilité vibratoire
   - Hypo/hyper/analgésie, allodynie
+- **Échelle de douleur** (EVA, EN)
 - Troubles neurovégétatifs locaux
   - Sudation
   - Troubles trophiques
@@ -108,6 +147,22 @@ TENS
 - Professionnels impliqués
 - Environnement pro-socio-économique
 - Qualité de vie
+
+### Rappels de l'examen clinique de la neuropathie
+
+{{< table title="Résumé des informations correspondant aux sensibilités à explorer dans le cadre d'une polyneuropathie, modifié d'après Hansson P, Backonja M, Bouhassira D. Usefulness and limitations of quantitative sensory testing: clinical and research application in neuropathic pain states. Pain 2007;129:256-9." >}}
+| Stimulus         | Fibres | Examen clinique     | EMG     |
+|------------------|--------|---------------------|---------|
+| Froid            | Aδ     | Tube chaud et froid | Normal  |
+| Chaud            | C      |                     |         |
+| Chaud douloureux | C, Aδ  |                     |         |
+| Froid douloureux | C, Aδ  |                     |         |
+| Tact             | Aβ     | Monofilament 10g    | Anormal |
+| Vibration        | Aβ     | Diapason            | Anormal |
+| Frottement       | Aβ     | Coton               | Anormal |
+| Piqûre           | Aδ, C  | Aiguille            | Normal  |
+| Pression         | Aδ, C  | Doigt               | Normal  |
+{{< /table >}}
 
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
@@ -166,6 +221,8 @@ Seuls traitements ayant un niveau de preuve satisfaisant en 2020 sur les douleur
   - Thérapie de pleine conscience
   - Personne âgée: thérapie de pleine conscience
 
+> *SFETD 2020*
+
 ### Douleurs neuropathiques en pédiatrie
 
 Amitriptyline 10 mg/j et gabapentine 900 mg/j avec la même efficacité sans effets indésirables majeurs.
@@ -195,39 +252,42 @@ Amitriptyline 10 mg/j et gabapentine 900 mg/j avec la même efficacité sans eff
 ### Douleur neuropathique périphérique ou centrale, focale ou diffuse
 
 {{%info%}}
-Duloxétine 30 mg/j pendant 15 jours. Puis 60 mg/j. Max 60 mg x 2/j.
+Duloxétine 30 mg/j pendant 7-14 jours. Puis 60 mg/j. Max 60 mg x 2/j.
 
 ---
 
-Gabapentine 100 mg x 3/j pendant 3 jours. Paliers de 100-300 mg tous les 3-5 jours. Max 3600 mg/j
+Gabapentine 100 mg x 3/j pendant 3 jours. Paliers de 100 - 300 mg tous les 7 jours. Max 3600 mg/j
 
 ---
 
-Amitriptyline 3-5 gtes au coucher. Paliers 5 gtes tous les 3 jours. Avis spécialisé au-delà de 50 mg/j.
+Clomipramine 10 mg le soir. Paliers de 10 mg tous les 7 jours. Avis spécialisé au-delà de 50 mg/j.
 
 > *[OMéDIT Centre 2018](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/8120.pdf)* et [appli Douleur Hôpital Saint Joseph](https://play.google.com/store/apps/details?id=hopitalsaintjoseph.douleur)
 {{%/info%}}
 
 - IRSNA
-  - [Duloxétine 60-120 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64381382&typedoc=R) (Cymbalta®, gén) en 1-2 prise/j +++
-  - [Venlafaxine 150-225 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65018658&typedoc=R) en 2-3 prises/j
-  - Effets indésirables: nausées, anorexie, constipation et troubles sexuels. Levée d'inhibition avec risque suicidaire.
+  - **[Duloxétine 60-120 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64381382&typedoc=R)** (Cymbalta®, gén) en 1-2 prise/j
+  - [Venlafaxine LP 150-225 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65018658&typedoc=R) en 2-3 prises/j (débuté 37,5 mg/j, paliers +75 mg/sem, ECG et pression artérielle)
+  - Contre-indications: IHC, IRC sévère, glaucome, ciprofloxacine
+  - Effets indésirables: somnolence, nausées, vertiges, constipation, xérostomie, impuissance, anorexie. Levée d'inhibition avec risque suicidaire.
 - [Gabapentine 1200-3600 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62611895&typedoc=R) (Neurontin®, gén) en 3 prises/j
-  - Ordonnance sécurisée, rechercher un mésusage
+  - **Ordonnance sécurisée** (rechercher un mésusage) | arrêt progressif | peu d'interactions
   - Effets indésirables: somnolence, vertiges, prise de poids et œdèmes périphériques
 - Antidépresseurs tricycliques
-  - Préférer 10-50 mg/j. Avis spécialisé > 50 mg/j. Surveillance cardiaque quand > 75 mg/j.
-  - [Amitriptyline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65892928&typedoc=R) (Elavil®, Laroxyl®), clomipramine (Anafranil®, gén), imipramine (Tofranil®)
-  - Effets indésirables: somnolence et prise de poids. Levée d'inhibition avec risque suicidaire.
-  - Surveillance: cardiaque, anticholinergique ou d'hypotension orthostatique
+  - Amitriptyline (moins bien tolérée, Elavil®, Laroxyl®), [clomipramine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68990612&typedoc=R) (Anafranil®, gén), imipramine (Tofranil®)
+  - Préférer 10-50 mg/j. Avis spécialisé à +50 mg/j. Surveillance cardiaque quand +75 mg/j
+  - Contre-indications: glaucome, HPB, infarctus récent ou troubles du rythme
+  - Effets indésirables: somnolence et prise de poids, anticholinergiques. Levée d'inhibition avec risque suicidaire
+  - Surveillance: cardiaque, anticholinergique, hypotension orthostatique, impuissance
 
 #### Douleur neuropathique en 2e intention
 
 - [Prégabaline 150-600 mg/j](https://ec.europa.eu/health/documents/community-register/2020/20200703148324/anx_148324_fr.pdf) (Lyrica®, gén) en 2-3 prises
-  - Ordonnance sécurisée de durée maximale de 6 mois
-  - Effets indésirables: somnolence, vertiges, prise de poids et œdèmes périphériques
+  - Ordonnance sécurisée d'une durée maximale de 6 mois | peu d'interactions
+  - 75 mg x 2/j, paliers de 150 mg tous les 3-7 jours
+  - Effets indésirables: somnolence, asthénie, vertiges, troubles digestifs, xérostomie, céphalées, prise de poids et œdèmes périphériques
 - [Tramadol LP 100-400 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69934919&typedoc=R) en 1-2 prises  
-  Peut être associé avec des antiépileptiques. Utilisation avec prudence en association à des antidépresseurs à forte posologie (syndrome sérotoninergique).
+  Peut être associé avec des antiépileptiques mais pas les tricycliques (épilepsie). Utilisation avec prudence en association à des antidépresseurs à forte posologie (syndrome sérotoninergique).
 - Association tricyclique 25-75 mg/j ou duloxétine 60 mg/j  
   \+ gabapentine 1200-1800 mg/j ou prégabaline 150-300 mg/j
 - Thérapie cognitivo-comportementale (TCC) et thérapie pleine conscience  
@@ -261,7 +321,8 @@ graph TB
       autreLigne1 -. 2e intention .-> autreLigne2("- Prégabaline<br>- Tramadol<br>- Antidépresseur<br>+ gabapentinoïde") -. Échec .-> centre
 {{< /mermaid >}}
 
-> Psychothérapie associée dès la 2<sup>e</sup> ligne de traitement.  
+> Essai de chaque molécule ≥ 6 semaines à dose maximale tolérée (sauf intolérance) et vise réduction douleur ≥ 30% et/ou amélioration fonctionnelle ≥ 30%.  
+Psychothérapie associée dès la 2<sup>e</sup> ligne de traitement.  
 Bilan étiologique par le neurologue en cause non évidente.
 
 {{%/collapse%}}
@@ -269,12 +330,12 @@ Bilan étiologique par le neurologue en cause non évidente.
 
 - [Moisset X et al. French guidelines for neuropathic pain: An update and commentary. Revue neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.004)
 - [Moisset X et al; SFETD. Traitements pharmacologiques et non pharmacologiques de la douleur neuropathique : une synthèse des recommandations françaises. Douleur Et Analgesie. 2020. (PDF)](https://www.sfetd-douleur.org/wp-content/uploads/2021/02/synth%C3%A8se-RECOS-DN-langue-fran%C3%A7aise1.pdf)
+- [Hartemann A. et al; SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)
 - [HAS. Prise en charge diagnostique des neuropathies périphériques. Recommandations professionnelles. Mai 2007.](https://www.has-sante.fr/jcms/c_598221/fr/prise-en-charge-diagnostique-des-neuropathies-peripheriques-polyneuropathies-et-mononeuropathies-multiples)
 - [Collège des enseignants de neurologie. Bases neurophysiologiques, mécanismes physiopathologiques d'une douleur aiguë et d'une douleur chronique – Thérapeutiques antalgiques, médicamenteuses et non médicamenteuses. Item 131.](https://www.cen-neurologie.fr/deuxieme-cycle/bases-neurophysiologiques-mecanismes-physiopathologiques-dune-douleur-aigue-dune)
 
 ### À lire
 
-- [SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)
 - [Recodiab.ch. Neuropathie diabétique](https://www.recodiab.ch/RPC20_neuropathie.pdf)
 
 {{%/sources%}}

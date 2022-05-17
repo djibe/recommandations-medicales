@@ -1,5 +1,5 @@
 +++
-title = "Forfait structure 2021 du généraliste"
+title = "Forfait structure 2022 du généraliste"
 description = "TODO:"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2022-05-16T09:20:00+02:00
@@ -19,11 +19,11 @@ Le *Forfait structure* correspond à une prime annuelle versée par l'Assurance 
 Les montants versés couvrent intégralement vos dépenses d'équipement (webcam ou autre) et de services informatiques (téléconsultation, dossier patient).
 {.lead}
 
-Le Forfait structure 2021 est segmenté en 2 parties: équipement du cabinet et service aux patients, avec un certain montant accordé pour chaque item. **Au total la prime 2021 atteint au maximum 6195€** (885 points). La déclaration des objectifs se fait depuis Amelipro (*Déclarer mes indicateurs*).
+Le Forfait structure est segmenté en 2 parties: équipement du cabinet et service aux patients, avec un certain montant accordé pour chaque item. **Au total la prime 2021 atteignait au maximum 6195€** (885 points pour 7€ le point). La déclaration des objectifs se fait depuis Amelipro (*Déclarer mes indicateurs*).
 
 Pour 2020, le forfait moyen reçu par praticien était de 3946€.
 
-## Volet 1 : Équipement du cabinet 2021 {.mt-5}
+## Volet 1 : Équipement du cabinet 2022
 
 **280 points, soit 1960€** en 2021 sont accordés pour l'application des éléments suivants:
 
@@ -36,7 +36,7 @@ Pour 2020, le forfait moyen reçu par praticien était de 3946€.
 
 > \* Pour utiliser le dernier chiffrement Sesam-Vitale des FSE, il faut disposer d'un DPI à jour et de [lecteurs de carte à puce]({{< relref "peripheriques-ordinateur.md" >}}) pour la carte vitale et la carte CPS
 
-## Volet 2 : Service aux patients 2021 {.mt-5}
+## Volet 2 : Service aux patients 2021
 
 Les primes du volet 2 ne sont accessibles que lorsque l'ensemble des points du Volet 1 sont respectés, et versées à la carte selon les critères remplis:
 
@@ -52,17 +52,12 @@ Les primes du volet 2 ne sont accessibles que lorsque l'ensemble des points du V
 
 ## Modifications du Forfait structure à venir
 
-### Ce qui change pour le Forfait structure en 2022
-
-L'indicateur << Valoriser la démarche de prise en charge coordonnée >> passe au Volet 1 qui augmente donc à 400 points.  
-Vont également être ajoutés: l'alimentation du DMP, l'échange par MSSanté avec les patients.
-
 ### Ce qui va changer en 2023
 
 Le dossier patient doit être référencé *Ségur*.  
 La e-prescription et l'appli carte vitale (apCV) apparaîtront comme indicateurs.
 
-## Abréviations {.mt-5}
+## Abréviations
 
 DMP
 : Dossier Médical Partagé (Assurance Maladie)
@@ -80,7 +75,8 @@ LAP
 : logiciel d'aide à la prescription
 {.dl-inline}
 
-## Sources {.mt-5}
+## Sources
 
 - [Ameli. Modernisation du cabinet médical avec le forfait structure. 06/05/2022.](https://www.ameli.fr/medecin/exercice-liberal/vie-cabinet/aides-financieres/modernisation-cabinet)
+- [Avenant 9](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044097701)
 - [Ameli. Rosp et forfait structure 2021 : la campagne de déclaration des indicateurs commence le 1er décembre. 2021.](https://www.ameli.fr/medecin/actualites/rosp-et-forfait-structure-2021-la-campagne-de-declaration-des-indicateurs-commence-le-1er-decembre)

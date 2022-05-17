@@ -120,10 +120,10 @@ Des rémissions spontanées sont possibles.
     - de début et fin brutales
     - insupportable
     - diurne
-    - neuropathique  
-    Décharge électrique ou coup de poignard voire broiement, arrachement.
+    - [neuropathique]({{< relref "douleur-neuropathique.md" >}})  
+      Décharge électrique ou coup de poignard voire broiement, arrachement.
     - Salves de quelques fois par jour à quasi continuelles  
-    En crise, figement avec une attitude douloureuse et grimaçante.  
+      En crise, figement avec une attitude douloureuse et grimaçante.  
     Cette phase peut être suivie d'un phase motrice de la face, puis vasomotrice (larmoiement, injection, hypersécrétions muqueuses).
 2. **Topographie de la douleur**  
 Unilatérale (prédominance droite) et localisée sur le métamère du trijumeau.  
@@ -167,7 +167,7 @@ Examen sensitivo-moteur exhaustif normal:
 {{%collapse "Diagnostic différentiel" %}}
 
 - **Neuropathie trigéminale douloureuse** (NTD)  
-Atteinte identifiée sur le trajet du nerf trijumeau.  
+  Atteinte identifiée sur le trajet du nerf trijumeau.  
   - **Avant 40 ans**
   - Branche **ophtalmique** surtout
   - Peut être bilatérale
@@ -178,19 +178,19 @@ Atteinte identifiée sur le trajet du nerf trijumeau.
   - Atteintes parfois associées  
   Névrite optique, atteinte cutanée, lésions orales et du système nerveux.
 - Névralgie du nerf glossopharyngien (IX)  
-Douleurs *oropharyngées* et/ou de l'oreille, possibles signes végétatifs (toux, éternuement, bradycardie voire syncope).
+  Douleurs *oropharyngées* et/ou de l'oreille, possibles signes végétatifs (toux, éternuement, bradycardie voire syncope).
 - Névralgie du nerf intermédiaire (VII bis) ou du nerf facial (VII)  
-Douleurs du *conduit auditif externe* (CAE). Possibles irradiations pariéto-occipitales, lacrimation, salivation.
+  Douleurs du *conduit auditif externe* (CAE). Possibles irradiations pariéto-occipitales, lacrimation, salivation.
 - Syndrome de Raeder  
-ou syndrome paratrigéminal oculosympathique  
-Douleurs de névralgie trigéminale avec ptosis, myosis voire l'atteinte d'autres paires crâniennes.
+  ou syndrome paratrigéminal oculosympathique  
+  Douleurs de névralgie trigéminale avec ptosis, myosis voire l'atteinte d'autres paires crâniennes.
 - Céphalées SUNCT et SUNA
 - Algie vasculaire de la face  
-Douleurs prolongées (15 à 180 minutes) sans décharge électrique et larmoiement intense. Évolution circadienne et circannuelle.
+  Douleurs prolongées (15 à 180 minutes) sans décharge électrique et larmoiement intense. Évolution circadienne et circannuelle.
 - Céphalées en coup de poignard  
-Douleur en coup de poignard de quelques secondes (parfois en salves) le + souvent en-dehors du territoire trigéminal et migratrice.
+  Douleur en coup de poignard de quelques secondes (parfois en salves) le + souvent en-dehors du territoire trigéminal et migratrice.
 - Epicrania fugax  
-Céphalée en coup de poignard très brève (1 à 10 s) et migratrice à la surface du crâne (linéaire ou zigzag).
+  Céphalée en coup de poignard très brève (1 à 10 s) et migratrice à la surface du crâne (linéaire ou zigzag).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -220,13 +220,13 @@ Augmenter jusqu'à suppression de la douleur (max 1600 mg/j) puis obtention de l
 - Non LP de préférence sauf au coucher
 - Vérifier systématiquement [les interactions](https://go.drugbank.com/drugs/DB00564)
 - Bilan pré-thérapeutique  
-NFS, bilan hépatique, ECG chez personne âgée.
+  NFS, bilan hépatique, ECG chez personne âgée.
 - Surveillance  
-NFS, bilan hépatique hebdomadaires le 1<sup>er</sup> mois puis en signes d'appel.
+  NFS, ASAT, ALAT, ionogramme hebdomadaires le 1<sup>er</sup> mois puis en signes d'appel.
 - **Contre-indications**  
-BAV, hypersensibilité à la molécule/excipients, antécédent d'hypoplasie médullaire ou de porphyrie hépatique, traitement par télaprévir ou variconazole.
+  BAV, hypersensibilité à la molécule/excipients, antécédent d'hypoplasie médullaire ou de porphyrie hépatique, traitement par télaprévir ou variconazole.
 - **Effets indésirables principaux**  
-Hyponatrémie, induction enzymatique, vertiges, ataxie, somnolence, fatigue, diplopie, troubles de l'accommodation, confusion ou agitation.
+  Hyponatrémie, induction enzymatique, vertiges, ataxie, somnolence, fatigue, diplopie, troubles de l'accommodation, confusion ou agitation.
 - **Effets indésirables graves:** aplasie, toxidermie grave
 - Développée spécifiquement pour traiter la NTC, soulagement complet initial pour 70% des patients
 
@@ -280,6 +280,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-[Donnet A. et al; SFEMC, SFNC. Recommandations pour le diagnostic et la prise en charge de la névralgie trigéminale classique. Neurochirurgie. 2018.](https://www.sciencedirect.com/science/article/pii/S0028377018300456)
+- [Donnet A. et al; SFEMC, SFNC. Recommandations pour le diagnostic et la prise en charge de la névralgie trigéminale classique. Neurochirurgie. 2018.](https://www.sciencedirect.com/science/article/pii/S0028377018300456)
+- [Hartemann A. et al; SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)
 
 {{%/sources%}}

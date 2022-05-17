@@ -7,17 +7,16 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-08T08:58:20+02:00
 publishdate = 2021-01-08
-lastmod = 2021-01-08
+lastmod = 2022-05-17
 specialites = ["rhumatologie"]
 annees = "2013"
-sources = ["RevMedSuis"]
+sources = ["RevMedSuis", "SFD"]
 tags = []
 anglais = ["Morton's metatarsalgia"]
 sctid= "30085007"
-qualite = "faible"
 image = true
 imageSrc = "Photo de gm.esthermax sur Foter.com"
-todo = "TODO: relire reco"
+todo = "améliorer"
 +++
 
 {{%article-summary%}}
@@ -33,15 +32,14 @@ Névrome de Morton
 : Fibrose périneurale du nerf plantaire digital commun au niveau de sa bifurcation, en regard des têtes métatarsiennes (3<sup>e</sup> +++).  
 Probablement par origine microtraumatique.
 
+### Diagnostic différentiel
+
+Bursite inter-capito-métatarsienne.
+
 {{%/collapse%}}
 {{%collapse "Clinique" %}}
 
-Douleur aiguë des métatarses, neuropathique, avec irradiation aux orteils contigus.
-
-{{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-Bursite inter-capito-métatarsienne.
+Douleur plantaire aiguë des métatarses (3 et 4e) provoquée par la marche, [neuropathique]({{< relref "douleur-neuropathique.md" >}}), avec irradiation aux orteils contigus. Allodynie mécanique en regard dde la zone douloureuse.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -50,7 +48,7 @@ Bursite inter-capito-métatarsienne.
 
 Pour diagnostic différentiel.
 
-### Échographie
+### Échographie voire IRM
 
 En cas de doute diagnostique.
 
@@ -65,6 +63,7 @@ La chirurgie est réservée aux échecs du traitement médical.
 {{%/collapse%}}
 {{%sources%}}
 
-[Ray A. Métatarsalgies : diagnostic et prise en charge. Rev Med Suisse 2013; volume 9. 2366-2370.](https://www.revmed.ch/RMS/2013/RMS-N-411/Metatarsalgies-diagnostic-et-prise-en-charge)
+- [Ray A. Métatarsalgies : diagnostic et prise en charge. Rev Med Suisse. 2013.](https://www.revmed.ch/RMS/2013/RMS-N-411/Metatarsalgies-diagnostic-et-prise-en-charge)
+- [Hartemann A. et al; SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)
 
 {{%/sources%}}
