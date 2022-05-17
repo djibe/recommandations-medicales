@@ -478,7 +478,7 @@ summary {
   margin-left: -15px;
 }
 
- .col-10, .col-12, .col, .col-sm-6, .col-sm, .col-md-3, .col-md-4, .col-md-8, .col-md-9, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-7, .col-lg-9, .col-xl-2, .col-xl-9 {
+ .col-10, .col-12, .col, .col-sm, .col-md-3, .col-md-4, .col-md-8, .col-md-9, .col-lg-3, .col-lg-5, .col-lg-7, .col-lg-9, .col-xl-2, .col-xl-9 {
   position: relative;
   width: 100%;
   padding-right: 15px;
@@ -515,10 +515,6 @@ summary {
     flex-grow: 1;
     max-width: 100%;
   }
-  .col-sm-6 {
-    flex: 0 0 50%;
-    max-width: 50%;
-  }
 }
 
 @media (min-width: 768px) {
@@ -547,10 +543,6 @@ summary {
   .col-lg-3 {
     flex: 0 0 25%;
     max-width: 25%;
-  }
-  .col-lg-4 {
-    flex: 0 0 33.333333%;
-    max-width: 33.333333%;
   }
   .col-lg-5 {
     flex: 0 0 41.666667%;

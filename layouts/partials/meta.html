@@ -55,7 +55,7 @@
 <meta property="og:locale" content="fr_FR">
 
 <!-- Image Tags -->
-<link rel="preload" as="image" href="{{- if and (eq .Section "cabinet") (eq .Kind "page") -}} /images/cabinet/{{.File.BaseFileName}}.webp {{- else if and (eq .Section "recommandations") (eq .Kind "page") -}} {{ $imageUrl | absURL }} {{- end }}">
+{{- if and (eq .Section "cabinet") (eq .Kind "page") -}}<link rel="preload" as="image" href="/images/cabinet/{{.File.BaseFileName}}.webp">{{ else if and (eq .Section "recommandations") (eq .Kind "page")}}<link rel="preload" as="image" href="{{ $imageUrl | absURL }}">{{ end }}
 <meta property="og:image" content="{{ $imageUrl | absURL }}">
 <meta name="og:image:alt" content="Illustration de {{ $.Params.Prefix }}{{ $.Title }}">
 <meta name="twitter:image:alt" content="Illustration de {{ $.Params.Prefix }}{{ $.Title }}">
