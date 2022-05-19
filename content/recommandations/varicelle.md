@@ -281,7 +281,7 @@ style grossesse stroke:#4150f5, stroke-width:1px
 - [Pinquier D. et al. Vaccin contre la varicelle. Infovac. Avril 2019.](https://www.infovac.fr/docman-marc/public/fiches/1471-fiche-varicelle/file)
 - [Floret D; SFP. Conduite à tenir devant un contage varicelleux chez une femme enceinte ou un nouveau-né. PAP Pédiatrie. 2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/conduite-tenir-devant-un-contage-varicelleux-chez-une-femme-enceinte-ou-un)
 - [HCSP. Avis relatif aux recommandations de vaccination contre la varicelle. Juillet 2007.](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcsp045a20070705_Varicelle.pdf)
-- [SPILF. Prise en charge des infections à VZV. Méd Mal Infect. 1998.](https://www.infectiologie.com/UserFiles/File/medias/_documents/consensus/vzv98.pdf)
+- [SPILF. Prise en charge des infections à VZV. Méd Mal Infect. 1998.](https://www.infectiologie.com/UserFiles/File/medias/Recos/vzv98.pdf)
 - [Santé Publique France. Varicelle.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-prevention-vaccinale/varicelle)
 - [Ameli. Varicelle](https://www.ameli.fr/assure/sante/themes/varicelle)
 

@@ -15,7 +15,7 @@ anglais = ["Lyme disease"]
 sctid = "23502006"
 image = true
 imageSrc = "Érythème migrant. Photo de monkeypuzzle sur Foter"
-todo = "SPF, algo HAS Annexe 2 et 3"
+todo = "algo HAS Annexe 2 et 3"
 +++
 
 {{%article-summary%}}
@@ -73,7 +73,7 @@ MVT
 {{% /collapse %}}
 {{%collapse "Prévention de la maladie" %}}
 
-[Ministère de la Santé: Maladie de Lyme et prévention des piqûres de tiques (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/maladie_de_lyme_depliant_gp.pdf) et [Santé Publique France. Prévention de la borréliose de Lyme (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/borreliose_de_lyme_rpvp_072016.pdf)
+[Ministère de la Santé: Maladie de Lyme et prévention des piqûres de tiques (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/maladie_de_lyme_depliant_gp.pdf) et [Santé Publique France. Prévention de la borréliose de Lyme (PDF)](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-transmission-vectorielle/borreliose-de-lyme/documents/depliant-flyer/maladie-de-lyme-et-prevention-des-piqures-de-tiques)
 
 Mesures de prévention de la maladie de Lyme:
 
