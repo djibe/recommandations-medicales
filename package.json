@@ -53,7 +53,6 @@
     "html-validate": "^7.1.0",
     "htmllint-cli": "0.0.7",
     "linkinator": "^3.1.0",
-    "netlify-plugin-inline-critical-css": "^2.0.0",
     "node-sass": "^5.0.0",
     "vnu-jar": "^21.4.9"
   },
