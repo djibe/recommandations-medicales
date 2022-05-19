@@ -187,7 +187,7 @@ Signes résolutifs sous lévothyroxine.
 {{%/collapse%}}
 {{%collapse "Traitement de l'hypothyroïdie" %}}
 
-{{%info%}}En cas d'indication de traitement peu claire (ex. doses faibles de LT), il ets possible de suspendre le traitement en accord avec le patient et de contrôler la TSH à 4-6 semaines{{%/info%}}
+{{%info%}}En cas d'indication de traitement peu claire (ex. doses faibles de LT), il est possible de suspendre le traitement en accord avec le patient et de contrôler la TSH à 4-6 semaines{{%/info%}}
 
 Délai avant amélioration des symptômes de **2 semaines après instauration du traitement**. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
 

@@ -107,7 +107,7 @@ Voir *Surveillance*.
 3. Antécédent d'hyperplasie canalaire atypique, d'hyperplasie lobulaire atypique ou de carcinome lobulaire *in situ*
     - Mammographie ± échographie annuelle pendant 10 ans, puis tous les 2 ans jusqu'au dépistage organisé
 4. Antécédent familial de cancer du sein avec {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} ≥ 3 et risque élevé estimé par l'oncogénéticien (*INCa 2017*)  
-Pour les apparenté au 1<sup>er</sup> degré ou nièce par un frère: Surveillance radiologique 5 ans avant l'âge du diagnostic de cancer chez le plus jeune:
+  Pour les apparenté au 1<sup>er</sup> degré ou nièce par un frère: Surveillance radiologique 5 ans avant l'âge du diagnostic de cancer chez le plus jeune:
     - Examen clinique annuel à partir de 20 ans
     - Mammographies annuelles à partir de 5 ans avant le cas ± échographie jusqu'à 50 ans
     - puis dépistage organisé
@@ -208,20 +208,22 @@ Réduction de la consommation d'[alcool]({{< relref "sevrage-alcool.md" >}}) (*S
 
 {{%info%}}Mammographies avec double lecture tous les 2 ans chez les femmes de 50 à 74 ans asymptomatiques (sans facteur de risque élevé ou très élevé de cancer du sein){{%/info%}}
 
+Dépistage identique en cas de prothèses mammaires (*INCa 2019*).  
 Effectuées et remboursées à 100% (les examens supplémentaires ne le sont pas) dans le cadre du Programme national de dépistage organisé du cancer du sein (2001, modifié 2006, géré par DGS et INCa).
 
 {{%info%}}Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans (*HAS*){{%/info%}}
 
-La patiente ne reçoit pas ses invitations ? Elle contacte le [CRCDC régional](https://www.e-cancer.fr/Comprendre-prevenir-depister/Se-faire-depister/Centres-regionaux-de-coordination-des-depistages-des-cancers).
+> La patiente ne reçoit pas ses invitations ? Elle contacte le [CRCDC régional](https://www.e-cancer.fr/Comprendre-prevenir-depister/Se-faire-depister/Centres-regionaux-de-coordination-des-depistages-des-cancers).
 
 ### Conduite à tenir selon les résultats de la mammographie
 
-- Mammographies ACR1 ou 2 (normales ou bénignes)  
-  Poursuite du dépistage tous les 2 ans jusqu'à 74 ans, consultation sans délai si symptôme.
-- Mammographies ACR3 (probablement bénignes)  
-  Surveillance clinique et radiologique tous les 6 mois pendant 2 ans.
-- Mammographies ACR4 ou 5 (anormales)  
-  Biopsie échoguidée (sénologue, radiologue) puis avis sénologique rapide.
+{{< table title="Prise en charge selon les résultats des mammographies de dépistage selon HAS 2015" >}}
+| Classification | Signification         | Conduite à tenir |
+|----------------|-----------------------|------------------|
+| ACR 1 ou 2     | Normales ou bénignes  | Poursuite du dépistage tous les 2 ans jusqu'à 74 ans, consultation sans délai si symptôme |
+| ACR 3          | Probablement bénignes | Surveillance clinique et radiologique tous les 6 mois pendant 2 ans |
+| ACR 4 ou 5     | Anormales             | Biopsie échoguidée (sénologue, radiologue) puis avis sénologique rapide |
+{{< /table >}}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge rapide d'anomalies du sein" %}}
