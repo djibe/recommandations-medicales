@@ -13,6 +13,7 @@ NPM_VERSION = "8.10.0"
 HUGO_VERSION = "0.99.1"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "false"
+NODE_ENV = "production"
 
 [context.split1]
 command = "hugo --gc --minify"
@@ -104,3 +105,8 @@ HUGO_ENABLEGITINFO = "false"
   from = "/categories/*"
   to = " /specialites/:splat"
   status = 301
+
+[[plugins]]
+  package = "netlify-plugin-inline-critical-css"
+    [plugins.inputs]
+      directoryFilter = ["!annees", "!specialites", "!tags"]

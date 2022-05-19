@@ -8,12 +8,11 @@ date = "2020-11-04T19:15:12+02:00"
 publishdate = "2020-11-04"
 lastmod = "2021-09-09"
 specialites = ["endocrinologie"]
-annees = "2019"
-sources = ["HAS", "ISPAD", "ESC"]
+annees = "2021"
+sources = ["ADA", "EASD", "SFD"]
 tags = ["coeliaque", "diabete", "risque cardiovasculaire", "insuline", "SAS", "retinopathie", "nephropathie", "neuropathie", "vaccin"]
 anglais = ["Diabetes mellitus type 1"]
 sctid = ""
-draft = false
 todo = "LDL cible **< 0,55 g/L** (ESC 2019)"
 +++
 
@@ -24,6 +23,23 @@ todo = "LDL cible **< 0,55 g/L** (ESC 2019)"
 - Le suivi du diabète de type 1 doit être rigoureux et multidimensionnel
 
 {{%/article-summary%}}
+{{% collapse "Définition" %}}
+
+Diabète de type 1
+: Maladie de cause inconnue entraînant la destruction des îlots de Langerhans producteurs d'insuline.
+: Le diagnostic est souvent posé sur la triade: soif, polyurie et polydipsie avec souvent un amaigrissement.
+: Une sécrétion d'insuline persiste parfois pendant quelques années, à l'origine de difficultés diagnostiques (40% des DT1 diagnostiqués après 30 ans considérés comme type 2).
+
+### Critères en faveur d'un diabète de type 1
+
+- Âge < 35 ans au diagnostic +++
+- IMC < 25 kg/m²
+- Amaigrissement involontaire
+- Au diagnostic: acidocétose, glycémie > 3,6 g/L
+
+> *ADA/EASD 2021*
+
+{{%/collapse%}}
 {{% collapse "Les points vitaux du diabète type 1" "show" %}}
 
 - Toute personne avec un diabète type 1 est à cardiovasculaire au moins {{< modal-btn modal-rcv-diabete >}}modéré{{< /modal-btn >}} (*ESC 2019*)
