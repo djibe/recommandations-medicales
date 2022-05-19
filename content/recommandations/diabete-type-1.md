@@ -21,15 +21,10 @@ todo = "LDL cible **< 0,55 g/L** (ESC 2019)"
 
 - Sevrage tabagique obligatoire
 - Points vitaux obligatoires (voir plus bas)
-- Le suivi du diabète de type 1 doit être rigoureux et multidimensionnel, utiliser cet assistant du suivi adapté [le Suivi du diabète par Diabeclic](https://www.diabeclic.com/suivi-du-diabete)
+- Le suivi du diabète de type 1 doit être rigoureux et multidimensionnel
 
 {{%/article-summary%}}
-
-L'intégralité du suivi préconisé pour la personne vivant avec un diabète de type 1 est visualisable sur [Diabeclic - Suivi du diabète](https://www.diabeclic.com/suivi-du-diabete), sous forme d'un tableau de soins adapté au patient (avec bibliographie et imprimable).
-
-En effet, **il est inenvisageable de tenter une synthèse pour la prise en soins du diabète** tant elle est vaste et pluridisciplinaire.
-
-## Les points vitaux du diabète de type 1
+{{% collapse "Les points vitaux du diabète type 1" "show" %}}
 
 - Toute personne avec un diabète type 1 est à cardiovasculaire au moins {{< modal-btn modal-rcv-diabete >}}modéré{{< /modal-btn >}} (*ESC 2019*)
   - Très élevé si complication micro ou macrovasculaire ou si ≥ 3 FRCV
@@ -49,10 +44,25 @@ En effet, **il est inenvisageable de tenter une synthèse pour la prise en soins
 - Dépistage de la [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})  
   Au diagnostic puis annuel pendant 5 ans *(ISPAD 2018)[https://cdn.ymaws.com/www.ispad.org/resource/resmgr/consensus_guidelines_2018_/19.other_complications_and_a.pdf]*.
 
+{{%/collapse%}}
 ## Participer à des études
 
 [SFDT1](https://sfdt1.fr/) et [Compare](https://compare.aphp.fr/) (APHP).
 
+{{%sources%}}
+
+{{< card-link title="e-learning EASD" url="https://easd-elearning.org/">}}
+
+- {{< references/calendrier-vaccinal >}}
+- [Monnier L. et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
+- [Valensi P. et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. 2021.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_paper_sfc_sfd_march_2021.pdf)
+- {{< references/esc-dyslipidemie >}}
+- {{< references/esc-diabetes >}}
+- {{< references/esc-hta >}}
+- [Massin P et al; SFD. Référentiel pour le dépistage et la surveillance des complications oculaires du patient diabétique. Validé par la Société Francophone du Diabète (SFD) et par la Société Française d'Ophtalmologie (SFO). Med Mal Metab. 2016. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_complications_oculaires_sfd_sfo_mmm.pdf)
+- [IDF. Oral health for people with diabetes. 2009. (PDF)](https://www.idf.org/component/attachments/attachments.html?id=729&task=download)
+
+{{%/sources%}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}
 
 {{< traitements/regime-mediterraneen >}}
