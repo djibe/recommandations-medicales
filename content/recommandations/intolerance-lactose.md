@@ -24,7 +24,7 @@ todo = "diarrhée chro, https://doi.org/10.1016/j.mmm.2020.10.008"
 
 TODO:
 
-Autres articles: [vitamine D]({{< relref "vitamine-d.md" >}}), [ostéoporose]({{< relref "osteoporose.md" >}})
+Articles liés: [vitamine D]({{< relref "vitamine-d.md" >}}), [ostéoporose]({{< relref "osteoporose.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

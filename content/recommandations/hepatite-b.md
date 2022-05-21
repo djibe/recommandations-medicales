@@ -6,24 +6,23 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-09-07T12:03:00+02:00
 publishdate = 2021-09-07
-lastmod = 2022-05-05
+lastmod = 2022-05-21
 specialites = ["hepato-gastro-enterologie"]
-annees = "2016"
-sources = ["HAS", "MinSanté"]
+annees = "2018"
+sources = ["SNFGE", "HAS"]
 tags = ["fatigue", "hepatite", "HSH", "IST", "prevention", "vaccin", "VIH", "voyage"]
 anglais = ["Hepatitis B"]
 sctid = "66071002"
 flowchart = false
 image = true
 imageSrc = "Hépatite B, illustration par pch.vector / Freepik"
-todo = "calendrier page 80, summary, clinique, BEH, flow, découverte hépatite B guérie"
+todo = "calendrier page 80, clinique, BEH, flow, découverte hépatite B guérie"
 +++
-
-*Chapitre en cours de rédaction*
 
 {{%article-summary%}}
 
 - Vacciner: rattrapage jusque 15 ans révolus, puis voir *Personnes à vacciner*
+- et tout l'entourage
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -33,6 +32,9 @@ Hépatite B
 La transmission est sexuelle, par des fluides biologiques ou materno-fœtale. Les contaminations par échanges de seringues sont encore fréquents.
 : L'infection est le plus souvent asymptomatique mais 0,1 à 1% des formes aiguës peuvent évoluer en hépatite fulminante. De 2 à 10% des cas deviennent chroniques, avec risque de cirrhose ou de carcinome hépatocellulaire.
 : 300.000 porteurs en France (1,19% des hommes, 0,16% des femmes) dont 50% l'ignorent.
+
+Porteur chronique de l'AgHBs
+: Toute personne avec AgHBs positif plus de 6 mois.
 
 ### Abréviations
 
@@ -64,7 +66,7 @@ Indications à la vaccination hépatite B:
 - Entourage et partenaires de personne avec VHB actif
 - Prisonnier
 - Hépatopathie chronique
-- Infection VIH ou VHC
+- [Infection VIH]({{< relref "vih-sida.md" >}}) ou [VHC]({{< relref "hepatite-c.md" >}})
 - Professionnels/étudiants de certaines professions de santé (obligatoire, arrêtés du 15/03/1991 et 06/03/2017)
   - Médical: médecin, chirurgien-dentiste, pharmacien, sage-femme
   - Paramédical: infirmier, masseur-kinésithérapeute, pédicure-podologue, manipulateur d'électroradiologie médicale, aide-soignant, ambulancier, auxiliaire de puériculture, technicien en analyses biomédicales, assistant dentaire, thanatopracteur.
@@ -74,7 +76,7 @@ Indications à la vaccination hépatite B:
   - Professionnel de santé libéral, secouriste, gardien de prison, éboueur, égoutier, policier, tatoueur
   - Contrôle de l'immunité souhaitable
 
-\* Contrôle de la réponse immunitaire au cas par cas  
+> \* Contrôle de la réponse immunitaire au cas par cas  
 Hémodialyse et immunodépression avec exposition au risque: sérologie annuelle et rappel si anti-HBs < 10 UI/L.
 
 ### Voyage - Faut-il vacciner contre l'hépatite B ?
@@ -136,35 +138,36 @@ Précautions chez: sclérose en plaques.
 {{% /collapse %}}
 {{%collapse "Découverte d'une hépatite B active" %}}
 
+Porteur chronique de l'AgHBs: AgHBs + > 6 mois quelque soit les anti-HBc
+
 ### À la réception du bilan
 
-- Antécédents
+- Antécédents (familiaux hépatiques, pays de naissance)
 - Addictions  
-Alcool, drogues, tabac.
+  Alcool, drogues, tabac.
 - Conduites sexuelles
 
 {{%info%}}
 Adresser au spécialiste avec le bilan initial:
 
-- Ag HBs persistant > 6 mois
+- AgHBs (persistant > 6 mois)
 - Anticorps IgM anti-HBc
-- Ag HBe, anticorps anti-HBe
-- PCR VHB  
-\> 100.000 copies/mL pour hépatite chronique AgHBe+, > 10.000 si AgHBe-.
-- Sérologies VHD, VHA, VHC, VIH
-- Bilan hépatique complet
-- TP
+- Multiplication virale ?
+  - Ag HBe, anticorps anti-HBe
+  - PCR VHB  
+    \> 100.000 copies/mL pour hépatite chronique AgHBe+, > 10.000 si AgHBe-.
+- Co-infection ?  
+  Sérologies VHD, VHA, VHC, VIH.
+- NFS, TP, créatininémie, bilan hépatique
 - Albuminémie
-- NFS
 - Ferritinémie
-- Créatininémie, clairance, protéinurie
+- Alpha-fœtoprotéine
 - TSH
 - Anti-TPO, anti-nucléaires, anti-muscle lisse, anti-LKM1
 - Glycémie à jeun
 - Bilan lipidique
 - bHCG
-- Alpha-fœtoprotéine
-- Échographie abdominale
+- Échodoppler hépatique
 - ECG, consultation de cardiologie
 {{%/info%}}
 
@@ -173,12 +176,12 @@ Adresser au spécialiste avec le bilan initial:
 **Objectifs du traitement**: diminution de l'ADN sous 100.000 copies/mL (10.000 si AgHBe-), normalisation voire régression des anomalies biologiques et histologiques, obtention d'une séroconversion HBe et séroconversion HBs (plus rare).
 
 - [ALD 6]({{< relref "affection-longue-duree.md" >}})  
-Indications: Ag HBs+ + > 2000 copies/mL ou cytolyse + nécessité d'un traitement antiviral ou de suivi prolongé, séquelles graves.
+  Indications: AgHBs+ + > 2000 copies/mL ou cytolyse + nécessité d'un traitement antiviral ou de suivi prolongé, séquelles graves.
 - Adresser au spécialiste pour initier un traitement  
-{{%class%}}Interféron alpha-2a/b, pégylé alpha-2a, lamivudine, adéfovir, entecavir, telbivudine, tenofovir.{{%/class%}}
+  {{%class%}}Interféron alpha-2a/b, pégylé alpha-2a, lamivudine, adéfovir, entecavir, telbivudine, tenofovir.{{%/class%}}
 - Préservatif obligatoire
 - Vaccination
-  - VHB de l'entourage
+  - **VHB de l'entourage**
   - VHA avec sérologie préalable
   - Pneumocoque
   - Grippe annuelle
@@ -187,35 +190,39 @@ Indications: Ag HBs+ + > 2000 copies/mL ou cytolyse + nécessité d'un traitemen
 
 [Guide patient: vivre avec une hépatite B chronique (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/guide_patient_vhb.pdf)
 
-### Surveillance de l'hépatite B active
+### Surveillance de l'hépatite B active traitée
 
 - Interféron  
-Rythme mensuel poursuivi dans les 6 mois suivants la fin du traitement.
+  Rythme mensuel poursuivi dans les 6 mois suivants la fin du traitement.
 - Suivi biologique selon le traitement antiviral
 - PCR VHB tous les 3 mois
 - Ag HBe+ avec réduction < 100.000 copies/mL
   - Ag HBe tous les 6 mois
   - Négativation de l'Ag HBe: ajouter anti-HBe tous les 6 mois.  
-  Si anti-HBe+: Ag HBs tous les 6 mois.  
-  Négativation de l'Ag HBs: surveillance Ag HBs et anti-HBs tous les 6 mois.  
-  Si anti-HBs+: surveillance tous les 3 mois pendant 1 an puis selon avis du spécialiste.
+    Si anti-HBe+: AgHBs tous les 6 mois.  
+    Négativation de l'AgHBs: surveillance AgHBs et anti-HBs tous les 6 mois.  
+    Si anti-HBs+: surveillance tous les 3 mois pendant 1 an puis selon avis du spécialiste.
 - Ag HBe- avec réduction < 10.000 copies/mL
-  - Ag HBs tous les 6 mois
-  - Négativation de l'Ag HBs: surveillance Ag HBs et anti-HBs tous les 6 mois
+  - AgHBs tous les 6 mois
+  - Négativation de l'AgHBs: surveillance AgHBs et anti-HBs tous les 6 mois
   - Si anti-HBs+: surveillance tous les 3 mois pendant 1 an puis selon avis du spécialiste
 
 #### Patient non traité
 
-- ASAT et ALAT tous les 3 mois pendant 1 an puis tous les 6 mois
-- GGT, TP tous les 6 mois
-- TODO: Alpha-fœtoprotéine annuelle ?
-- Échographie abdominale annuelle
-- PCR VHB et Ag HBe annuels
+Suivi minimum des patients AgHBs + non traités, en l'absence de, cirrhose et en l'absence de maladie grave du foie dans la famille:
+
+- ASAT, ALAT, PCR VHB, créatininémie tous les 6-12 mois
+- Échodoppler hépatique + alpha-fœtoprotéine annuels
+- Selon l'AgHBe
+  - AgHBe + : AgHBe et anticorps antiHBe annuels
+  - AgHBe - : AgHBs et anticorps antiHBs annuels
+- Évaluation de la fibrose tous les 2-3 ans
 
 {{% /collapse %}}
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
+- [Sogni P.; SNFGE, AFEF. Prise en charge d'un patient porteur chronique de l'AgHBs. 2018. (PDF)](https://www.snfge.org/download/file/fid/3634)
 - [HAS. Hépatite chronique B. Actes et prestations Affection de longue durée. Mai 2016.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
 - [HAS. Hépatite B Chronique. Guide Affection de longue durée. Octobre 2006.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
 
