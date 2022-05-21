@@ -3,7 +3,7 @@ ID = "327af24a-1868-47c1-959c-7c0afe3b1891"
 
 [build]
 publish = "public"
-command = "npm i && hugo --cleanDestinationDir --gc --minify"
+command = "npm un netlify-plugin-inline-critical-css && hugo --cleanDestinationDir --gc --minify"
 
 [build.environment]
 NODE_VERSION = "14.19.3"
