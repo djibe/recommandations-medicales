@@ -3,7 +3,7 @@ ID = "327af24a-1868-47c1-959c-7c0afe3b1891"
 
 [build]
 publish = "public"
-command = "CI='' hugo --cleanDestinationDir --gc --minify"
+command = "hugo --cleanDestinationDir --gc --minify"
 
 [build.environment]
 NODE_VERSION = "14.19.3"
@@ -105,3 +105,8 @@ HUGO_ENABLEGITINFO = "false"
   from = "/categories/*"
   to = " /specialites/:splat"
   status = 301
+
+[[plugins]]
+  package = "netlify-plugin-inline-critical-css"
+    [plugins.inputs]
+      directoryFilter = ["!annees", "!specialites", "!tags"]

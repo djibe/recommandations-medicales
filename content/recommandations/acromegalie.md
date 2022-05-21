@@ -21,7 +21,7 @@ imageSrc = ""
 
 - Rechercher devant un changement de bague, de pointure de chaussures, de syndrome dysmorphique ...
 - ou des complications: canal carpien, apnées du sommeil, hypertension artérielle
-- Adresser au centre de compétence ou de référence HYPO en cas de suspicion d'acromégalie ([annuaire](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/carte/document/))
+- Adresser au [centre de compétence ou de référence HYPO (annuaire)](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/carte/document/) en cas de suspicion d'acromégalie
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
