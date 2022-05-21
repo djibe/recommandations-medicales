@@ -12,23 +12,25 @@ specialites = ["endocrinologie"]
 annees = "2020"
 sources = ["Biblio"]
 tags = ["allergie", "cephalees", "fatigue"]
-anglais = ["English word", "you can add one or delete this one"]
-sctid = "76102007"
+anglais = ["Lactose intolerance", "intolerance to lactose"]
+sctid = "785696007"
 draft = true
 image = false
 imageSrc = ""
-todo = "https://doi.org/10.1016/j.mmm.2020.10.008"
+todo = "diarrhée chro, https://doi.org/10.1016/j.mmm.2020.10.008"
 +++
 
 {{%article-summary%}}
 
+TODO:
 
+Autres articles: [vitamine D]({{< relref "vitamine-d.md" >}}), [ostéoporose]({{< relref "osteoporose.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Intolérance au lactose
-: Syndrome malabsorptif causé par une réduction ou la perte d'activité (< 50%) de l'enzyme jéjunale lactase-phlorizine hydrolase. La persistance de lactose non dégradé a un effet osmotique et déclenche une fermentation bactérienne.
+: Syndrome clinique causé par une réduction ou la perte d'activité (< 50%) de l'enzyme jéjunale lactase-phlorizine hydrolase, souvent au cours de l'enfance voire chez l'adulte jeune selon les origines. La persistance de lactose non dégradé a un effet osmotique et déclenche une fermentation bactérienne.
 
 ### Épidémiologie
 
@@ -95,9 +97,9 @@ Le lactose est alors réintroduit (250 mL de lait ≥ 2 fois dans la semaine) co
 
 {{%info%}}L'éviction des produits laitiers n'est plus encouragée{{%/info%}}
 
-Laits sans lactose et maintien d'apports en produits laitiers pour les apports en calcium, protéines, minéraux, acides gras polyinsaturés (plupart tolèrent 12-15 g de lactose/j).
+Laits sans lactose et maintien d'apports en produits laitiers pour les apports en calcium, protéines, minéraux, acides gras polyinsaturés (plupart tolèrent 12-18 g de lactose/j, soit 25 cL de lait).
 
-- Produits pauvres en lactose: fromages affinés (pâtes dures)
+- Produits pauvres en lactose: fromages affinés (pâtes dures), fermentés (yaourt, kefir, skyr)
 - Apports en lactase: comprimés ou capsule (levure *Kluyveromyces lactis*, champignons *Aspergillus oryzae*, *Aspergillus niger*) lors d'apports en lactose (recommandés par *Ojetti et al 2010*)
 
 ### Fromages sans lactose
@@ -112,7 +114,7 @@ Laits sans lactose et maintien d'apports en produits laitiers pour les apports e
   - Fromage de chèvre lactique affiné, au lait cru (type Crottin de Chavignol, Picodon, Rocamadour, Sainte-Maure de Touraine)
   - Fromage de chèvre lactique affiné, au lait pasteurisé (type bûchette ou crottin)
   - Feta, au lait de vache, à l'huile et aux aromates
-  - Mozzarella au lait de bufflonne ou buflesse ("di bufala")
+  - Mozzarella au lait de bufflonne ("di bufala")
   - Fromage à pâte molle à croûte lavée, au lait pasteurisé (type Vieux Pané)
   - Maroilles laitier
 
@@ -122,6 +124,7 @@ Laits sans lactose et maintien d'apports en produits laitiers pour les apports e
 {{%sources%}}
 
 - [Catanzonaro R et al. Lactose intolerance: An update on its pathogenesis, diagnosis, and treatment. Nutrition Research. 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0271531721000129)
+- [Lule VK. et al. Food Intolerance: Lactose Intolerance. Encyclopedia of Food and Health. 2016.](https://www.sciencedirect.com/science/article/pii/B9780123849472003123)
 - [Roy ME et al. Diagnostic de l’intolérance au lactose dans un contexte pédiatrique. 2016.](https://www.chusj.org/CORPO/files/81/81da31b9-c18b-44b7-9b9f-eaa5a4c6cb8f.pdf)
 
 {{%/sources%}}
@@ -130,6 +133,3 @@ Laits sans lactose et maintien d'apports en produits laitiers pour les apports e
 {{< scores/had >}}
 
 {{% /modal %}}
-
-≤≥±®œŒÈ³ÂSpO<sub>2</sub>
-[External link](https://discourse.gohugo.io/ "{rel='nofollow'}")
