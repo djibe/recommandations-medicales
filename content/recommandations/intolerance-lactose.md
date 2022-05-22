@@ -1,20 +1,18 @@
 +++
 title = "Intolérance au lactose"
-titleSeo = "In case of long title or delete whole line"
-prefix = "la "
-description = "160 characters max"
+prefix = "l'"
+description = "Recommandations pour le diagnostic de l'intolérance au lactose, rechercher si diarrhées. Test d'éviction et prise en charge avec maintien de produits laitiers"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-19T12:48:54+02:00"
-publishdate = "2022-05-19"
-lastmod = "2022-05-19"
+publishdate = "2022-05-22"
+lastmod = "2022-05-22"
 specialites = ["endocrinologie"]
 annees = "2020"
 sources = ["Biblio"]
 tags = ["allergie", "cephalees", "fatigue"]
 anglais = ["Lactose intolerance", "intolerance to lactose"]
 sctid = "785696007"
-draft = true
 image = false
 imageSrc = ""
 todo = "diarrhée chro, https://doi.org/10.1016/j.mmm.2020.10.008"
@@ -22,7 +20,13 @@ todo = "diarrhée chro, https://doi.org/10.1016/j.mmm.2020.10.008"
 
 {{%article-summary%}}
 
-TODO:
+- Prévalence européenne 28%
+- Symptômes typiques: douleurs abdominales, diarrhées, flatulences  
+  Dans l'heure suivant l'ingestion (hypervariable possible)
+- Toujours évoquer en [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
+- Test d'éviction 2 semaines car test respiratoire à l'hydrogène non remboursé
+- Des apports 12-18g/j de lactose semblent tolérés
+- Maintenir des apports en produits laitiers pour apporter les micronutriments
 
 Articles liés: [vitamine D]({{< relref "vitamine-d.md" >}}), [ostéoporose]({{< relref "osteoporose.md" >}})
 
@@ -77,6 +81,8 @@ Autres signes:
 
 ### Test respiratoire à l'hydrogène
 
+Non remboursé en France.
+
 Mesure de l'hydrogène exhalé à jeun puis après ingestion de 25-50g de lactose toutes les 15 minutes pendant 3-6 heures (18,5% de FN si arrêt à H3).  
 Une augmentation de la concentration en hydrogène exhalé de 20 ppm par rapport à la ligne de base valide le diagnostic. Une mesure du méthane exhalé améliore la fiabilité.
 
@@ -84,11 +90,11 @@ Test perturbé par l'activité physique, le tabac, IPP, aspirine et probiotiques
 
 Alternative: 4 mesures sur 3 heures (méthode *4SLHBT*)
 
-### Diète d'exclusion
+### Diète d'exclusion ou test d'éviction
 
-Chez l'enfant, après 2 semaines d'éviction du lactose, une amélioration significative doit être observée.  
-Le lactose est alors réintroduit (250 mL de lait ≥ 2 fois dans la semaine) comme test diagnostique avec résurgence des symptômes qui signe l'intolérance au lactose.  
-[Protocole d'éviction du lactose](https://www.chusj.org/CORPO/files/c6/c652d9b5-7b5e-40b2-9f92-8f231078013f.pdf)
+Après 2 semaines d'éviction du lactose, une amélioration significative doit être observée.  
+Le lactose est alors réintroduit (250 mL de lait ≥ 2 fois dans la semaine chez l'enfant) comme test diagnostique avec résurgence des symptômes qui signe l'intolérance au lactose.  
+[Protocole d'éviction du lactose chez l'enfant](https://www.chusj.org/CORPO/files/c6/c652d9b5-7b5e-40b2-9f92-8f231078013f.pdf)
 
 > *Roy 2016*
 
