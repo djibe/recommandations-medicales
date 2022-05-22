@@ -7,21 +7,24 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-20T19:04:41+02:00
 publishdate = 2020-09-20
-lastmod = 2022-05-21
+lastmod = 2022-05-22
 specialites = ["therapeutique"]
-annees = "2020"
+annees = "2022"
 sources = ["HAS", "ANSM", "SNFGE"]
 tags = ["acide folique", "AINS", "toux"]
 anglais = ["Methotrexate"]
 sctid = "387381009"
-todo = "Prescrire"
 +++
 
 {{%article-summary%}}
 
-- Préciser le jour de la prise unique sur l'ordonnance
+- Ordonnance
+  - Préciser le jour de la prise et rappeler qu'il ne doit être pris qu'un seul jour par semaine
+  - Mentionner l'indication, le dosage et la posologie en mg
+  - Le jour de la prise de l'acide folique
 - Associer l'acide folique 5 mg 1 cp en 1 prise/sem 48h après le MTX
-- Ne pas associer avec: [AINS](/tags/ains/), Bactrim, [vaccins vivants]({{< relref "vaccination.md" >}}) ...
+- Ne pas associer avec: [AINS](/tags/ains/), Bactrim, [vaccins vivants]({{< relref "vaccination.md" >}}) ... ([vérifier les interactions](https://www.drugs.com/interaction/list/?drug_list=1590-0))
+- [Carte patient sous méthotrexate](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-carte-patient-version-1-2021-03.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Contre-indications" %}}
@@ -128,14 +131,20 @@ La supplémentation en acide folique (vitamine B9) réduit les effets indésirab
 
 [Fiche info patient sous méthotrexate (PDF)](https://www.chu-clermontferrand.fr/Internet/Documents/Rhumatologie/A4_Notice_methotrexate.pdf)
 
-- Maladie inflammatoire: Prise de la dose complète en 1 seule prise unique  
-ou Cancer: Prise selon le protocole de chimiothérapie
+- [Carte patient sous méthotrexate](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-carte-patient-version-1-2021-03.pdf)
+- Maladie inflammatoire: Prise de la dose complète en une seule prise par semaine  
+  ou Cancer: Prise selon le protocole de chimiothérapie
+- Informer sur le danger de prises supplémentaires
+- Faire répéter les instructions de prise
+- Alerter le médecin en urgence en cas de surdosage
 - Prise d'acide folique systématique un autre jour que le méthotrexate
+- Suivi biologique régulier nécessaire
 - Consulter rapidement en cas de symptômes infectieux (toux, fièvre)
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [ANSM. Méthotrexate par voie orale. 2022.](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-brochure-professionnel-de-sante-version-1-2021-03.pdf)
 - Prescrire Redaction. Méthotrexate. 2022.
 - [ANSM. Médicaments à base de méthotrexate - Recommandations visant à éviter les erreurs de prise potentiellement fatales lors de l'utilisation du méthotrexate dans le traitement des maladies inflammatoires - Lettre aux professionnels de santé. 09/04/2020.](https://www.ansm.sante.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Medicaments-a-base-de-methotrexate-Recommandations-visant-a-eviter-les-erreurs-de-prise-potentiellement-fatales-lors-de-l-utilisation-du-methotrexate-dans-le-traitement-des-maladies-inflammatoires-Lettre-aux-professionnels-de-sante)
 - [Abitbol V., SNFGE. Méthotrexate dans les MICI : bilan initial et suivi. 2019. (PDF)](https://www.snfge.org/download/file/fid/3662)
