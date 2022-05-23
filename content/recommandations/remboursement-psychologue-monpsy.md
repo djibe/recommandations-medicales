@@ -19,8 +19,6 @@ imageSrc = "Illustration par stories / Freepik"
 todo = "échelles"
 +++
 
-{{< scores/phq9 >}}
-
 {{%article-summary%}}
 
 - Sur prescription, jusqu'à 8 séances remboursées/an
