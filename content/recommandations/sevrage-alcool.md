@@ -8,7 +8,7 @@ aliases = ["/recommandations/alcool/"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
 publishdate = "2022-01-11"
-lastmod = "2022-04-11"
+lastmod = "2022-05-23"
 specialites = ["addictologie"]
 annees = "2021"
 sources = ["HAS", "SFA"]
@@ -29,7 +29,7 @@ todo = "KEY x3 sevrage ambulatoire | x2 syndrome de sevrage, symptômes de sevra
 
 - 1 verre standard = 10g d'alcool. << Pour votre santé, l'alcool c'est maximum 2 verres par jour et pas tous les jours >> (seuil de mésusage = 10 verres/semaine, *[affiche SPF](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/affiche/pour-votre-sante-l-alcool-c-est-maximum-2-verres-par-jour-et-pas-tous-les-jours)*)
 - 0 alcool pendant la grossesse et chez les enfants
-- Prise en charge des co-addictions (tabac, cannabis) et troubles psychiatriques (dépression, anxiété...)
+- Prise en charge des co-addictions (tabac, cannabis) et troubles psychiatriques ([MonPsy]({{< relref "remboursement-psychologue-monpsy.md" >}}), dépression, anxiété...)
 - Accepter l'objectif de consommation du sujet car toute réduction de consommation est positive. + efficace: auto-évaluation quotidienne de la consommation
 - Abstinence est préférable en dépendance à l'alcool ou comorbidités. Si non souhaitée, accompagnement vers la réduction des dommages
 
@@ -75,6 +75,9 @@ CSAPA
 FACE
 : Formule pour Approcher la Consommation d'alcool par Entretien
 
+GGT
+: Gamma-GT (Gamma glutamyl transpeptidase)
+
 RPIB
 : repérage précoce et intervention brève
 
@@ -88,7 +91,7 @@ TCC
 : thérapies cognitives et comportementales
 {.dl-inline}
 
-### Épidémiologie
+### Épidémiologie de la consommation d'alcool
 
 - 1<sup>re</sup> substance addictive en coût social
 - Responsable d'1/3 des décès prématurés
@@ -125,12 +128,12 @@ Questions pour dépister une consommation à risque (mésusage):
 Demander aussi la fréquence des jours avec forte consommation ≥ 6 verres
 Chez l'enfant: << Y a-t-il déjà eu consommation d'alcool au moins une fois ? >>
 
-{{%warning%}}Toute consommation pendant la **grossesse** est un mésusage, urgence addictologique, gynécologique, psychologique et sociale.  
+{{%warning%}}Toute consommation pendant la **grossesse** est un mésusage: urgence addictologique, gynécologique, psychologique et sociale.  
 Idem sans urgence pour jeune (avec avis psychiatrique + parents), cirrhose, travail sur machine, chauffeur professionnel{{%/warning%}}
 
 Occasions pour dépister un mésusage: consultation de routine, prescription d'un médicament interagissant avec l'alcool, désir de grossesse, tabagisme, jeune adulte, troubles psychiatriques, précarité, pathologie cardiovasculaire, pathologie résistante au traitement (douleur, dépression, diabète...).
 
-**NB.** Les GGT, VGM et CDT sont trop peu sensibles pour le dépistage d'un mésusage.
+{{%info%}}Gamma-GT, VGM et CDT sont trop peu sensibles pour le dépistage d'un mésusage{{%/info%}}
 
 ### Pratiques à risque majorant les dommages
 
@@ -257,7 +260,7 @@ Installer une alliance thérapeutique sur la définition du problème à résoud
 - Livret d'information  
   Maladie alcoolique, sevrage, intérêt de l'accompagnement, coordonnées des acteurs.
 - Intervention psychosociale
-  - Soutien psychologique
+  - Soutien psychologique ([remboursés sur ordonnance]({{< relref "remboursement-psychologue-monpsy.md" >}}))
   - Renforcement de la motivation au changement
   - Mouvements d'entraide  
     [Alcooliques Anonymes](https://www.alcooliques-anonymes.fr), [La Croix-Bleue](https://croixbleue.fr/), [entraid' addict](https://www.entraidaddict.fr/), [Vie Libre](https://www.vielibre.org/), [Les amis de la santé](https://www.lesamisdelasante.org/), [Joie et santé - Alcool Écoute](https://www.alcoolecoute.com/)

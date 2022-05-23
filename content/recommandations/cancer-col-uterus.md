@@ -42,7 +42,6 @@ La vaccination prévient 90% des infections causant ces cancers.
 : En coloscopie, des HPV sont retrouvés chez 43% des femmes et 24% des hommes (*Vuitton 2018*).
 
 TODO: Les infections a HPV deviennent indétectables au bout de 2 ans dans 90% des cas. Dans les 10% des cas où elle persiste elle peut être a l'origine de cancer.
-TODO: avec ou sans pénétration ?
 
 Cancer du col de l'utérus
 : Cancers non hormonodépendants avec un pic d'incidence à 40 ans.  
@@ -180,7 +179,7 @@ Indications au vaccin HPV ([Gardasil 9®](https://ec.europa.eu/health/documents/
 
 La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
 
-#### Pour en savoir plus: Intérêts de la vaccination
+#### Pour en savoir plus: Intérêts de la vaccination contre les papillomavirus
 
 Prévention des lésions précancéreuses de tous les sites atteints (voir *Complications*).
 
@@ -195,7 +194,7 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" %}}
 
-### Conduite à tenir devant un frottis anormal
+### Conduite à tenir devant un frottis cervico-vaginal anormal
 
 {{<figure image="/images/photos/cancer-col-uterus-30.jpg" title="Conduite à tenir devant un frottis avec analyse cytologique anormale de 25 à 29 ans. INCa 2020" loading="lazy">}}
 {{<figure image="/images/photos/cancer-col-uterus-30+.jpg" title="Conduite à tenir devant un frottis avec test HPV haut risque anormal de 30 à 65 ans. INCa 2020" loading="lazy">}}
@@ -203,7 +202,7 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 {{< card-link title="Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale" url="https://www.e-cancer.fr/content/download/287960/4097542/file/Conduite_a_tenir_devant_une_femme_ayant_une_cytologie_cervico_uterine_anormale_mel_20200306.pdf" subtitle="INCa">}}
 
 {{% /collapse %}}
-{{%collapse "Traitement d'un cancer du col de l'utérus" %}}
+{{%collapse "Traitement du cancer du col de l'utérus" %}}
 
 Les anomalies découvertes dans les suites du dépistage ou en colposcopie relèvent d'une prise en charge spécialisée pluridisciplinaire.
 

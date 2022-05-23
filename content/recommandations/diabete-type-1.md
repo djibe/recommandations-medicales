@@ -13,7 +13,7 @@ sources = ["ADA", "EASD", "SFD"]
 tags = ["coeliaque", "diabete", "risque cardiovasculaire", "insuline", "SAS", "retinopathie", "nephropathie", "neuropathie", "vaccin"]
 anglais = ["Diabetes mellitus type 1"]
 sctid = "46635009"
-todo = "LDL cible **< 0,55 g/L** (ESC 2019), EASD 2021 Fig 1, Lighthosue texte trop petit"
+todo = "EASD 2021 Fig 1, Lighthosue texte trop petit"
 +++
 
 {{%article-summary%}}
