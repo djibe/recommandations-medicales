@@ -467,8 +467,8 @@ graph TB
 - [Chenini S. et al. Depressive Symptoms and Suicidal Thoughts in Restless Legs Syndrome. Mov Disord. 2022.](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28903)
 - Prescrire Redaction. Jambes sans repos : soulager sans médicament. Août 2019.
 - [Chenini S. et al. ; SFRMS. Syndrome des jambes sans repos pharmaco-résistant. Médecine du Sommeil. 2019.](https://doi.org/10.1016/j.msom.2018.10.004)
-- [Limousin N. et al. ; SFRMS. Traitement du syndrome des jambes sans repos nouvellement diagnostiqué. Médecine du Sommeil. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302449?via%3Dihub)
-- [Leclair-Visonneau L et al. ; SFRMS. Comment poser le diagnostic d'un syndrome des jambes sans repos ? Médecine du Sommeil. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302437?via%3Dihub)
+- [Limousin N. et al. ; SFRMS. Traitement du syndrome des jambes sans repos nouvellement diagnostiqué. Médecine du Sommeil. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302449)
+- [Leclair-Visonneau L et al. ; SFRMS. Comment poser le diagnostic d'un syndrome des jambes sans repos ? Médecine du Sommeil. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302437)
 - [Silber MH. et al; Medical Advisory Board of the Willis-Ekbom Disease Foundation. Willis-Ekbom Disease Foundation revised consensus statement on the management of restless legs syndrome. Mayo Clin Proc. 2013.](https://doi.org/10.1016/j.mayocp.2013.06.016)
 - [Aurora RN. et al. Update to the AASM clinical practice guideline: “the treatment of restless legs syndrome and periodic limb movement disorder in adults—an update for 2012: practice parameters with an evidence-based systematic review and meta-analyses.” Sleep. 2012.](https://aasm.org/clinical-resources/practice-standards/practice-guidelines/)
 - [IRLSSG. 2012 revised IRLSSG diagnostic criteria for RLS](http://irlssg.org/Diagnostic-criteria)

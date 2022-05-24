@@ -229,12 +229,12 @@ Informer: les microbes ne sont pas éliminés par la sueur.
 
 - [Recommendations for competitive sports participation in athletes with cardiovascular disease: A consensus document from the Study Group of Sports Cardiology of the Working Group of Cardiac Rehabilitation and Exercise Physiology and the Working Group of Myocardial and Pericardial Diseases of the European Society of Cardiology.](https://academic.oup.com/eurheartj/article/26/14/1422/560900)
 - [Recommendations for participation in leisure-time physical activity and competitive sports of patients with arrhythmias and potentially arrhythmogenic conditions Part II: Ventricular arrhythmias, channelopathies and implantable defibrillators.](https://academic.oup.com/eurjpc/article/13/5/676/5933252)
-- [Eligibility and Disqualification Recommendations for Competitive Athletes With Cardiovascular Abnormalities: Preamble, Principles, and General Considerations: A Scientific Statement From the American Heart Association and American College of Cardiology.](https://www.sciencedirect.com/science/article/pii/S0735109715065481?via%3Dihub)
+- [Eligibility and Disqualification Recommendations for Competitive Athletes With Cardiovascular Abnormalities: Preamble, Principles, and General Considerations: A Scientific Statement From the American Heart Association and American College of Cardiology.](https://www.sciencedirect.com/science/article/pii/S0735109715065481)
 - [Recommendations for participation in leisure-time physical activity and competitive sports of patients with arrhythmias and potentially arrhythmogenic conditions. Part 2: ventricular arrhythmias, channelopathies, and implantable defibrillators: A position statement of the Section of Sports Cardiology and Exercise from the European Association of Preventive Cardiology (EAPC) and the European Heart Rhythm Association (EHRA), both associations of the European Society of Cardiology.](https://academic.oup.com/europace/article/23/1/147/5864077)
 - MET: https://www.ncbi.nlm.nih.gov/pubmed/16551711
 - METs: https://www.ncbi.nlm.nih.gov/pubmed/8232456
 - <https://medical.ffessm.fr/actualites/recommandations-de-bonnes-pratiques-suivi-medical-du-plongeur>
-- <https://www.sciencedirect.com/science/article/abs/pii/S0735109721081572?via%3Dihub>
+- <https://www.sciencedirect.com/science/article/abs/pii/S0735109721081572>
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-risque-cv"%}}
