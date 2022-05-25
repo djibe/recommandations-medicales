@@ -508,18 +508,31 @@ article {
   border-radius: 64px;
   display: flex;
   align-items: center;
-  min-height: 360px;
   margin-bottom: 24px;
-  padding: 40px;
+  padding: 16px;
+
+  @media (min-width: 768px) {
+    & {
+      min-height: 360px;
+      padding: 40px;
+    }
+  }
 }
 
 .cabinet-title {
-  padding: 40px 0;
-  font-size: 4rem;
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: -.015625em;
-  line-height: 5rem;
+  line-height: 3rem;
   text-shadow: 4px 2px 2px #fff;
+
+  @media (min-width: 768px) {
+    & {
+      font-size: 4rem;
+      font-weight: 300;
+      line-height: 5rem;
+      padding: 40px 0;
+    }
+  }
 }
 
 .cabinet__content {

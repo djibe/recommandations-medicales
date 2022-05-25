@@ -8,7 +8,7 @@ synonyms = ["AOMI", "artériopathie aorto-iliaque et des membres inférieurs", "
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-05T18:53:00+02:00
 publishdate = 2021-05-16
-lastmod = 2022-03-07
+lastmod = 2022-05-25
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["ESC", "HAS", "SFMV"]
@@ -142,19 +142,19 @@ Le dépistage de l'artériopathie par l'IPS est à **renouveler tous les 5 ans**
 
 Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se 75%, Spe 86%) et de l'*index de pression au gros orteil* (IPSGO) ≤ 0,7 (*SFMV 2020*).  
 {{%class%}}IPS = rapport PAS cheville / PAS humérale.{{%/class%}}  
-**Valeurs normales de l'IPS:** 0,91-1,40.
+**Valeurs normales de l'IPS:** 0,91 - 1,40
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}60-80% des patients sont asymptomatiques au diagnostic{{%/info%}}
+{{%info%}}60 à 80% des patients sont asymptomatiques au diagnostic{{%/info%}}
 
 ### Interrogatoire
 
 - Antécédents  
-Ischémie aigüe, maladie cardiovasculaire.
+  Ischémie aiguë, maladie cardiovasculaire.
 - Antécédents familiaux  
-AOMI, coronaropathie, cérébrovasculaire, [anévrysme aortique]({{< relref "anevrysme-aorte-abdominale.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}).
+  AOMI, coronaropathie, cérébrovasculaire, [anévrysme aortique]({{< relref "anevrysme-aorte-abdominale.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}).
 - Facteurs de risque cardiovasculaire
 - Symptômes
   - Douleurs en aval de l'obstacle, crampe ou fatigue musculaire à la marche le plus souvent (*claudication intermittente*) voire au repos  
@@ -261,36 +261,36 @@ Dépiste une coronaropathie ou un trouble du rythme associé.
 Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant nécessité revascularisation ou amputation.
 - Arrêt du tabac
 - {{< modal-btn modal-statine-intensite >}}Statine systématique{{< /modal-btn >}}
-  - LDL cible < **0,55 g/L** avec contrôle annuel
+  - {{< modal-btn modal-rcv >}}LDL cible < 0,55 g/L{{< /modal-btn >}} avec contrôle annuel
   - Ajout d'ézétimibe voire evolocumab sur avis spécialisé
 - Clopidogrel 75 mg/j
   - Indications: claudication ou AOMI masquée, prévention secondaire, revascularisation du MI ou {{< modal-btn modal-rcv-diabete >}}diabète à haut RCV{{< /modal-btn >}}
   - Sinon aspirine 75-100 mg/j
   - Si double antiagrégant: pantoprazole
-- IEC systématique (voire ARA2, *SFMV 2020*).
+- {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} systématique (voire ARA2, *SFMV 2020*).
 - Pression artérielle cible 120-140/90 mmHg
   - Cible moindre en atteinte sévère pour maintien de pression distale
   - Classes possibles: TZD, IEC/ARA2, anticalcique voire BB
   - Précautions avec les BB en ischémie chronique
   - Apports sodés < 5 g/j
 - Suivi cardiologique systématique  
-Par haut risque cardiovasculaire pour évaluer le risque coronarien et d'insuffisance cardiaque.
+  Par {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} pour évaluer le risque coronarien et d'insuffisance cardiaque.
 - Suivi angiologique
 - Vaccins
-  - [Grippe]({{< relref "grippe.md" >}}) annuelle (*SFMV 2020*)
+  - [Grippe annuelle]({{< relref "grippe.md" >}}) (*SFMV 2020*)
   - Mise à jour de la vaccination antitétanique
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}} et correction d'un surpoids  
-Évaluations diététiques répétées, lutte contre la {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}.
+  Évaluations diététiques répétées, lutte contre la {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}.
 - Réadaptation vasculaire en centre voire par kinésithérapeute
 - Activité physique quotidienne  
-Auto-exercices et podomètre.
+  Auto-exercices et podomètre.
 - Si diabète
   - PAD cible < 85 mmHg
   - {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}} (*SFD 2019*, *SFMV 2020*)
   - ≤ 8% si comorbidité sévère ou espérance de vie < 5 ans
   - AOMI symptomatique: envisager rivaroxaban 2,5 mg x 2/j + aspirine 100 mg/j (*ESC 2019 diabetes*)
 - Participer à la recherche  
-[ComPaRe](https://compare.aphp.fr/)
+  [ComPaRe](https://compare.aphp.fr/)
 
 Suivi au moins annuel, IPS et doppler recontrôlés en modification des symptômes.  
 Suivi déterminé par l'angiologue après revascularisation.
