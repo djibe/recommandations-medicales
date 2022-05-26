@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-14T15:52:41+02:00
 publishdate = 2020-10-14
-lastmod = 2022-05-05
+lastmod = 2022-05-26
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["MinSanté", "HCSP"]
@@ -81,16 +81,25 @@ SA
 | Haemophilus  | 5 ans                    | [Asplénie]({{< relref "asplenie.md" >}}) |
 | Hépatite B   | 15 ans                   | [Hépatite B]({{< relref "hepatite-b.md" >}}) |
 | Méningocoque B | 23 mois                | |
-| Méningocoque C | 24 ans                 | |
+| Méningocoque C | 24 ans                 | Dose unique après 12 mois |
 | Papillomavirus | 19 ans                 | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}}) |
 | Pneumocoque  | 23 mois                  | BPCO, diabète ... |
 | Rougeole<br>Oreillons<br>Rubéole | 42 ans | |
-| Varicelle    | 18 ans                   | [Varicelle]({{< relref "varicelle.md" >}}) |
+| Varicelle    | 18 ans                   | [Autour d'un cas]({{< relref "varicelle.md" >}}) |
 {{< /table >}}
 
 Pour le BCG, voir [tuberculose]({{< relref "tuberculose.md" >}}).
 
 {{%info%}}<< Un rattrapage vaccinal est indiqué en cas de statut inconnu >> (*Calendrier vaccinal*){{%/info%}}
+
+### Rattrapage du vaccin méningocoque B
+
+- Vaccination initiée entre 2 et 5 mois  
+  2 doses espacées d'au moins 2 mois + rappel à M12-15 (min 6 mois avant la 3e dose)
+- Nourrisson de 6-11 mois  
+  2 doses espacées d'au moins 2 mois + rappel durant sa 2e année (min 2 mois entre chaque dose)
+- Nourrisson 12-23 mois  
+  2 doses espacées d'au moins 2 mois + rappel à M12-23
 
 ### Sérologies pour le rattrapage vaccinal en population générale
 
