@@ -7,7 +7,7 @@ synonyms = ["Psychothérapie remboursée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-23T13:48:59+02:00"
 publishdate = "2022-05-23"
-lastmod = "2022-05-23"
+lastmod = "2022-05-27"
 specialites = ["therapeutique"]
 annees = "2022"
 sources = ["Ameli"]
@@ -45,7 +45,13 @@ Les autres patients relèvent de suivi spécialisé psychiatrique, voire CMP (sa
 
 ### Critères de non-inclusion
 
-Risque suicidaire, antécédents ou formes sévères, signes de gravité, dépendance à des substances psychoactives, troubles neuro-développementaux sévères (ou non chez le mineur), ALD ou invalidité psychiatrique ou arrêt > 6 mois.
+- Risque suicidaire
+- Antécédents psychiatriques ou formes sévères
+- Signes de gravité
+- Dépendance à des substances psychoactives
+- Troubles neuro-développementaux sévères (ou non chez le mineur)
+- ALD ou invalidité psychiatrique
+- Arrêt de travail de plus de 6 mois
 {{%/info%}}
 
 {{% /collapse %}}
