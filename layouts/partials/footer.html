@@ -200,8 +200,6 @@ document.addEventListener( 'DOMContentLoaded', event => {
     // Open external sources in new window
       let externalLinks = document.querySelectorAll('a[href^="http"]:not([href*="recomedicales.fr"])')
       externalLinks.forEach((elem) => { elem.setAttribute('target', '_blank') })
-      let internalLinks = document.querySelectorAll('.recommandation__content a[href^="/recommandations/"]:not([href*="#"])')
-      internalLinks.forEach((elem) => { elem.setAttribute('target', '_blank') })
   {{ end }}
 
   $(function() {

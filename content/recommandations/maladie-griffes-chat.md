@@ -13,7 +13,6 @@ sources = ["CMIT", "MinAgri"]
 tags = []
 anglais = ["Cat scratch disease"]
 sctid = "79974007"
-draft = false
 image = true
 imageSrc = "Illustration de la maladie des griffes du chat par CDC, domaine public, via Wikimedia Commons"
 +++
@@ -55,7 +54,7 @@ Sa négativité n'élimine pas le diagnostic.
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-Mesures de prévention des zoonoses, dont la Maladie des griffes du chat:
+Mesures de prévention des zoonoses, dont la *Maladie des griffes du chat*:
 
 - Ne pas se frotter les yeux après un contact avec des animaux
 - Se laver les mains (eau + savon) systématiquement après contact avec l'animal ou ses déjections
@@ -67,9 +66,10 @@ Mesures de prévention des zoonoses, dont la Maladie des griffes du chat:
 
 {{%info%}}Azithromycine 500 mg en 1 prise J1 puis 250 mg en 1 prise de J2 à J5 et arrêt{{%/info%}}
 
+Le traitement de la maladie des griffes du chat n'est pas systématique (voir citation ci-dessous). Il consiste en une antibiothérapie par macrolide.  
 Si allergie ou contre-indication: doxycycline 200 mg x 1/j pendant 14 jours.
 
-> << Chez l'immunocompétent, l'intérêt d'une antibiothérapie est discuté, car l'évolution est spontanément favorable >> *CMIT 2020*
+> Pour le traitement de la maladie des griffes du chat: << Chez l'immunocompétent, l'intérêt d'une antibiothérapie est discuté, car l'évolution est spontanément favorable >> *CMIT 2020*
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

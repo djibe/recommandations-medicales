@@ -1,7 +1,6 @@
 +++
 title = "Diabète de type 1"
 prefix = "le "
-shortname = "DT1"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-04T19:15:12+02:00"
@@ -13,7 +12,7 @@ sources = ["EASD", "ADA", "SFD", "ESC"]
 tags = ["coeliaque", "diabete", "risque cardiovasculaire", "insuline", "SAS", "retinopathie", "nephropathie", "neuropathie", "vaccin"]
 anglais = ["Diabetes mellitus type 1"]
 sctid = "46635009"
-todo = "EASD 2021 Fig 1, Lighthosue texte trop petit"
+todo = "EASD 2021 Fig 1, Lighthouse texte trop petit"
 +++
 
 {{%article-summary%}}
@@ -59,9 +58,10 @@ Un **peptide C** > 600 pmol/L affirme un [diabète de type 2]({{< relref "diabet
 
 > *ADA/EASD 2021*
 
-### Quand penser à un diabète monogénique ?
+### Quand penser à un diabète génétique dit diabète MODY ?
 
-TODO:
+Évoquer un diabète génétique au moins un parmi: diagnostic avant 35 ans, HbA<sub>1c</sub> < 7,5% au diagnostic, un parent diabétique, éléments génétiques (kystes rénaux, lipodystrophie, surdité génétique, inulinorésistance sévère sans obésité).  
+[Calcul du risque de diabète MODY](https://www.diabetesgenes.org/exeter-diabetes-app/).
 
 {{%/collapse%}}
 {{% collapse "Les points vitaux du diabète type 1" "show" %}}
@@ -76,20 +76,61 @@ TODO:
   L'objectif de LDL dépend du {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}
 - Activité physique  
   **Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire.
-- Cible d'HbA<sub>1c</sub> personnalisée
+- Cible d'HbA<sub>1c</sub> personnalisée  
+  - Globalement < 7% chez l'adulte (sans hypoglycémies profondes) voire moins
+  - Ce qui correspond à une glycémie pré-prandiale: 80 - 130 mg/dL
+  - Glycémies post-prandiales 1-2h après le début du repas: < 180 mg/dL
 - Surpoids  
   Négocier une perte de poids (5-10%).
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Vaccination Covid-19, grippe, pneumocoque
 - Dépistage de la [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})  
   Au diagnostic puis annuel pendant 5 ans *(ISPAD 2018)[https://cdn.ymaws.com/www.ispad.org/resource/resmgr/consensus_guidelines_2018_/19.other_complications_and_a.pdf]*.
+- Participer à des études  
+  [SFDT1](https://sfdt1.fr/) et [Compare](https://compare.aphp.fr/) (APHP).
+
+Adulte bien équilibré, un suivi annuel peut être suffisant.
 
 {{%/collapse%}}
+{{% collapse "Insulinothérapie" %}}
 
-## Participer à des études
+Adulte: aiguilles de 4 mm avec injection à 90°.
 
-[SFDT1](https://sfdt1.fr/) et [Compare](https://compare.aphp.fr/) (APHP).
+{{%/collapse%}}
+{{% collapse "Hypoglycémies" %}}
 
+> Chapitre d'après *ADA/EASD 2021*
+
+{{%info%}}
+
+- Seuil de 70 mg/dL: resucrage
+- Vérifier la technique de resucrage
+- À quel niveau l'hypoglycémie est ressentie (dépistage de l'altération de la perception des hypoglycémies)  
+  TODO: Gold and Clarke questionnaires showing a score equal or above 4 are indicative of IAH (100, 103)
+{{%/info%}}
+
+### Définitions de l'hypoglycémie au cours du diabète
+
+{{< table title="Classification de l'hypoglycémie selon ADA/EASD 2021" >}}
+| Niveau | Intervalle glycémique (mg/dL)       | Signification      |
+|-------:|------------------------------------:|--------------------|
+| 1      | 54 - 70                             | Seuil d'alerte     |
+| 2      | ≤ 43                                | Sérieuse           |
+| 3      | Complications mentales ou physiques | Sévère, nécessité de tiers |
+{{< /table >}}
+
+Les hypoglycémies peuvent aussi être subdivisées selon qu'elles sont **symptomatiques**, **asymptomatiques** ou **probablement symptomatiques** (symptômes évocateurs mais sans contrôle glycémique).
+
+### Facteurs de risque d'hypoglycémie
+
+Diabète ancien, âge avancé, hypoglycémies sévères récentes, alcool, activité physique, bas niveau socio-économique, insuffisance rénale, **altération de la perception des hypoglycémies** ({{%lang%}}impaired awareness of hypoglycaemia - IAH{{%/lang%}}, le facteur majeur est la survenue répétée d'hypos et est réversible).
+
+Altération de la perception des hypoglycémies
+: {{%lang%}}impaired awareness of hypoglycaemia - IAH{{%/lang%}}
+: Le facteur majeur est la survenue répétée d'hypoglycémies.  
+La sensibilité aux hypos peut être restaurée en évinçant leur survenue.
+
+{{%/collapse%}}
 {{%sources%}}
 
 {{< card-link title="e-learning EASD" url="https://easd-elearning.org/">}}
