@@ -4,7 +4,6 @@ prefix = "le "
 titleSeo = "Sevrage de l'alcool"
 description = "Recommandations pour la prise en charge du sevrage de l'alcool. Vitamines, benzodiazépine pour le syndrome de sevrage ambulatoire, acamprosate pour l'abstinence"
 synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
-aliases = ["/recommandations/alcool/"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
 publishdate = "2022-01-11"

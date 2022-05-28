@@ -57,7 +57,7 @@ Adresser au [centre de compétence ou de référence HYPO](http://www.firendo.fr
   - Troubles visuels
 - Signes généraux
   - Sueurs
-  - Paresthésies des mains avec [syndrome du canal carpien]({{< relref "canal-carpien.md" >}})
+  - Paresthésies des mains avec [syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}})
   - Arthralgies
 - Complications de la maladie
   - Ostéo-articulaires: arthropathies, fractures vertébrales

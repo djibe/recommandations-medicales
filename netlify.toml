@@ -97,16 +97,21 @@ HUGO_ENABLEGITINFO = "false"
   force = true
 
 [[redirects]]
-  from = "/guidelineyears/*"
-  to = " /annees/:splat"
+  from = "/recommandations/papillomavirus/"
+  to = "/recommandations/cancer-col-uterus/"
   status = 301
 
 [[redirects]]
-  from = "/categories/*"
-  to = " /specialites/:splat"
+  from = "/recommandations/alcool/"
+  to = "/recommandations/sevrage-alcool/"
   status = 301
 
-# [[plugins]]
-#   package = "netlify-plugin-inline-critical-css"
-#     [plugins.inputs]
-#       directoryFilter = ["!annees", "!specialites", "!tags"]
+[[redirects]]
+  from = "/recommandations/canal-carpien/"
+  to = "/recommandations/syndrome-canal-carpien/"
+  status = 301
+
+[[plugins]]
+  package = "netlify-plugin-inline-critical-css"
+    [plugins.inputs]
+      directoryFilter = ["!annees", "!specialites", "!tags"]

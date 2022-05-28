@@ -118,7 +118,7 @@ Parfois troubles de la coagulation et du bilan hépatique.
 - Phanères  
   Secs et cassants, dépilation (queue du sourcil) et pousse lente des cheveux/poils, peau épaissie, froide, sèche et squameuse, teint carotinodermique (jaunâtre), cicatrisation lente
 - Myxœdème  
-  Macroglossie, voix rauque ou grave, hypoacousie, vertiges, ronflements voire [syndrome du canal carpien]({{< relref "canal-carpien.md" >}}), gonflement des paupières.
+  Macroglossie, voix rauque ou grave, hypoacousie, vertiges, ronflements voire [syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}}), gonflement des paupières.
 - Cardiaque  
   Bradycardie, assourdissement des bruits du cœur, hypertension artérielle fréquente, angor, épanchement péricardique si ancien.
 - Respiratoire  

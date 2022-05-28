@@ -6,7 +6,7 @@
             <a class="navbar-brand" href="/">RecoMédicales</a>
          </div>
          <div class="navdrawer-nav">
-            <a class="text-secondary" href="/scores/" rel="nofollow">Scores et outils cliniques</a>
+            <a class="text-secondary" href="/scores/">Scores et outils cliniques</a>
             {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
                {{ if eq "specialites" $taxonomyname }}
                   {{- range $category, $pageOfCategory := $taxonomy -}}
@@ -14,7 +14,7 @@
                   href="#navd-{{ $category | urlize }}">{{ $category | truncate 30 }}</a>
                   <div class="collapse" id="navd-{{$category | urlize | lower}}">
                      {{- range $pageOfCategory.Pages.ByTitle -}}
-                     <a href="{{ .RelPermalink }}" {{ with .Params.Noindex }}rel="nofollow"{{ end }}>{{ .Title }}</a>
+                     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
                      {{ end }}
                   </div>
                   {{ end }}

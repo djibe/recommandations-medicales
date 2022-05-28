@@ -73,7 +73,7 @@ Diagnostic d'interrogatoire: acrosyndrome constitué d'épisodes paroxystiques d
 ### Interrogatoire
 
 - Antécédents personnels  
-  [Canal carpien]({{< relref "canal-carpien.md" >}}), syndrome du défilé thoracique, thromboses.
+  [Canal carpien]({{< relref "syndrome-canal-carpien.md" >}}), syndrome du défilé thoracique, thromboses.
 - Antécédents familiaux  
   Raynaud, autres.
 - Traitements  
@@ -157,7 +157,7 @@ Nécessité de surveillance et de bilan complémentaire.
 - Engelures  
   Temps froid et humide, terrain familial et féminin, évoluant sur quelques semaines avec poussées successives de papules violacées ± œdémateuses, douloureuses ou prurigineuses en face dorsale des doigts/orteils.
 - Algodystrophie
-- [Syndrome du canal carpien]({{< relref "canal-carpien.md" >}})
+- [Syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}})
 - Syndrome du défilé thoracique (compression nerveuse)
 - Sténose artérielle du membre supérieur
 
