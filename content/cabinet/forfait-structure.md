@@ -20,7 +20,7 @@ Les montants versés couvrent potentiellement intégralement vos dépenses d'éq
 
 Le Forfait structure est segmenté en 2 parties: équipement du cabinet et service aux patients, avec un certain montant accordé pour chaque indicateur. **Au total la prime 2021 atteignait au maximum 6195€** (885 points pour 7€ le point). En 2020, le forfait moyen reçu par praticien était de 3946€.
 
-La déclaration des objectifs se fait depuis Amelipro (*Déclarer mes indicateurs*).
+La déclaration des objectifs se fait depuis AmeliPro (*Déclarer mes indicateurs*).
 
 ## Volet 1 : Équipement du cabinet 2022
 
@@ -30,7 +30,7 @@ La déclaration des objectifs se fait depuis Amelipro (*Déclarer mes indicateur
 - Disposer d'une [messagerie sécurisée de santé]({{< relref "messagerie-mssante.md" >}})
 - Utiliser les derniers chiffrements Sesam-Vitale 1.4 add. 8 *
 - Télétransmettre > 2/3 des feuilles de soins
-- Afficher les horaires d'ouverture du cabinet dans l'Annuaire Santé (édition des *Horaires de cabinet* sur Amelipro)
+- Afficher les horaires d'ouverture du cabinet dans l'Annuaire Santé (édition des *Horaires de cabinet* sur AmeliPro)
 - Implication dans des soins coordonnés (MSP, ESP, CPTS, RCP ...)
 {.list-group}
 
@@ -40,7 +40,7 @@ La déclaration des objectifs se fait depuis Amelipro (*Déclarer mes indicateur
 
 Les primes du volet 2 ne sont accessibles que lorsque l'ensemble des points du Volet 1 sont respectés, et versées à la carte selon les critères remplis (625 pts soit 4375€ + effection SAS max 2520€):
 
-- Taux de dématérialisation (formulaires Amelipro) |  100 pts - 700€
+- Taux de dématérialisation (formulaires AmeliPro) |  100 pts - 700€
 - DMP: ≥ 20% des consultations avec 1 document versé | 40 pts - 280€
 - MSS avec le patient: ≥ 5% des consultations avec 1 message | 40 pts - 280€
 - TODO: Capacité à coder et requêter sur des données médicales pour alimenter ou produire des registres par exemple | 50 pts - 350€
