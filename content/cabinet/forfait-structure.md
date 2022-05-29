@@ -34,7 +34,8 @@ La déclaration des objectifs se fait depuis AmeliPro (*Déclarer mes indicateur
 - Implication dans des soins coordonnés (MSP, ESP, CPTS, RCP ...)
 {.list-group}
 
-> \* Pour utiliser le dernier chiffrement Sesam-Vitale des FSE, il faut disposer d'un DPI à jour et de [lecteurs de carte à puce]({{< relref "peripheriques-ordinateur.md" >}}) pour la carte vitale et la carte CPS
+> \* Pour utiliser le dernier chiffrement Sesam-Vitale des FSE, il faut disposer d'un DPI à jour et de [lecteurs de carte à puce]({{< relref "peripheriques-ordinateur.md" >}}) pour la carte vitale et la carte CPS  
+DPI = dossier patient informatisé
 
 ## Volet 2 : Service aux patients 2021
 
@@ -53,7 +54,7 @@ Les primes du volet 2 ne sont accessibles que lorsque l'ensemble des points du V
 {.list-group}
 
 > *Taux de dématérialisation* comprend: la prescription d'arrêt de travail en ligne (≥ 80% des AAT), la déclaration médecin traitant en ligne (≥ 90% des DMT), le protocole de soins électronique (≥ 80% des PSE), la déclaration simplifiée de grossesse (≥30% des DSG), la déclaration d'un certificat médical d'Accident de Travail ou de Maladie Professionnelle en ligne (≥ 30% des CMATMP) et prescription électronique de transport (≥ 10% des SPE). Il ne prend en compte que les affiliés au Régime Général.  
-**MSS** = messagerie sécurisée de santé (MSSanté ou Apicrypt V2)
+**MSS** = messagerie sécurisée de santé (MSSanté ou Apicrypt v2)
 
 ## Modifications du Forfait structure à venir
 

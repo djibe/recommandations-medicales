@@ -6,7 +6,7 @@ synonyms = ["Impuissance"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-05-05T12:48:09+02:00"
 publishdate = "2020-05-05"
-lastmod = "2022-05-24"
+lastmod = "2022-05-29"
 specialites = ["urologie"]
 annees = "2010"
 sources = ["AIUS"]
@@ -16,10 +16,8 @@ sctid = "860914002"
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "questionnaire IIEF5, https://www.revmed.ch/RMS/2019/RMS-N-642/Nouvelles-recommandations-pour-la-prise-en-charge-de-la-dysfonction-erectile-a-l-usage-du-praticien, https://www.sfcardio.fr/publication/chemin-clinique-pour-le-depistage-et-la-prise-en-charge-de-la-dysfonction-erectile-des"
+todo = "https://www.revmed.ch/RMS/2019/RMS-N-642/Nouvelles-recommandations-pour-la-prise-en-charge-de-la-dysfonction-erectile-a-l-usage-du-praticien, https://www.sfcardio.fr/publication/chemin-clinique-pour-le-depistage-et-la-prise-en-charge-de-la-dysfonction-erectile-des"
 +++
-
-{{< scores/iief5 >}}
 
 {{%article-summary%}}
 
@@ -151,7 +149,7 @@ Une DE réactionnelle, situationnelle associée à la persistance d'érections s
 - Retentissement professionnel
 - Compliance au traitement d'une maladie chronique
 - Questionnaires facultatifs en complément
-  IIEF ou SHIM (version courte) ou EHS, échelle visuelle de cotation de l'érection
+  {{< modal-btn modal-iief5 >}}IIEF-5{{< /modal-btn >}} ou SHIM (version courte) ou EHS, échelle visuelle de cotation de l'érection
 
 #### 5) Antécédents
 
@@ -161,7 +159,7 @@ Une DE réactionnelle, situationnelle associée à la persistance d'érections s
 - FRCV, maladies cardiovasculaires
 - Sédentarité
 - Facteurs psycho-sociaux
-- Signes d'HBP
+- Signes d'hypertrophie prostatique
 - Troubles du sommeil, apnées du sommeil
 
 #### 6) Traitements en cours, psychotropes
@@ -405,5 +403,10 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 {{% modal title="Score STOP-BANG" id="modal-saos"%}}
 
 {{< scores/stop-bang >}}
+
+{{% /modal %}}
+{{% modal title="Score IIEF-5" id="modal-iief5"%}}
+
+{{< scores/iief5 >}}
 
 {{% /modal %}}

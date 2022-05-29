@@ -1,7 +1,7 @@
 <form class="mt-4" id="score-iief5" autocomplete="off">
-  <p>Le questionnaire IIEF5 (<span lang="en"></span>) pour l'évaluation d'un adulte présentant une dysfonction érectile.<br>
+  <p>Le questionnaire IIEF-5 (<span lang="en">Simplified International Index of Erectile Function</span>) pour l'évaluation d'un adulte présentant une dysfonction érectile.<br>
   Le questionnaire peut être utilisé pour une auto-évaluation.</p>
-  <p>Ce questionnaire permet d'évaluer votre fonction sexuelle au cours des six derniers mois.</p>
+  <p>Ce questionnaire IIEF-5 permet d'évaluer votre fonction sexuelle au cours des six derniers mois.</p>
   <hr>
   <p>Au cours des 6 derniers mois:</p>
   <p class="text-black-secondary"><strong>Notice</strong><br>Rarement = beaucoup moins que la moitié du temps<br>Quelquefois = environ la moitié du temps<br>La plupart du temps = beaucoup plus que la moitié du temps</p>
@@ -87,10 +87,11 @@
   </div>
 </form>
 <blockquote class="blockquote my-4">
-  <p class="mb-0"><a href="#" rel="external nofollow noopener"></a></p>
+  <p class="mb-0"><a href="https://www.nature.com/articles/3900472" rel="external nofollow noopener">Rosen RC. et al. Development and evaluation of an abridged, 5-item version of the International Index of Erectile Function (IIEF-5) as a diagnostic tool for erectile dysfunction. Int J Impot Res. 1999.</a></p>
+  <small>D'après Urofrance score IIEF5</small>
 </blockquote>
 {{ $script := `
-  // Score IIEF5 by djibe
+  // Score IIEF-5 by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreiief5 = document.getElementById('iief5Score')
     const textiief5 = document.getElementById('iief5Text');
