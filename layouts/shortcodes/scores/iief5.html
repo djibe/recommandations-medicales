@@ -45,8 +45,8 @@
     <label for="iief5-34" class="chip chip-action chip-sm chip-choice">Quelquefois</label>
     <input type="radio" id="iief5-35" name="radio-iief5-3" class="d-input-none" value="4">
     <label for="iief5-35" class="chip chip-action chip-sm chip-choice">La plupart du temps</label>
-    <input type="radio" id="iief5-35" name="radio-iief5-3" class="d-input-none" value="5">
-    <label for="iief5-35" class="chip chip-action chip-sm chip-choice">Presque tout le temps ou tout le temps</label>
+    <input type="radio" id="iief5-36" name="radio-iief5-3" class="d-input-none" value="5">
+    <label for="iief5-36" class="chip chip-action chip-sm chip-choice">Presque tout le temps ou tout le temps</label>
   </fieldset>
   <fieldset>
     <legend>4. Pendant vos rapports sexuels, à quel point vous a-t-il été difficile de rester en érection jusqu'à la fin de ces rapports&nbsp;?</legend>
@@ -95,8 +95,8 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreiief5 = document.getElementById('iief5Score')
     const textiief5 = document.getElementById('iief5Text');
-    [...document.querySelectorAll('#score-iief5 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { iief5() }) })
-    const iief5 = () => {
+    [...document.querySelectorAll('#score-iief5 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { calcIief5() }) })
+    const calcIief5 = () => {
       let score = 0
       const checkedElems = document.querySelectorAll('#score-iief5 input[type=\"radio\"]:checked')
       if (checkedElems.length === 5) {

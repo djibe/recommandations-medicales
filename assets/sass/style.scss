@@ -224,30 +224,19 @@ a[href^="http"]:not([class]):not([href*="recomedicales.fr"])::after {
     letter-spacing: 1px;
   }
   .h1 {
-    font-size: calc(1.5rem + 2vw);
+    font-size: calc(clamp(1.875rem, 1.284rem + 2.95vw, 3.5rem));
     letter-spacing: -1.5px;
     line-height: 1.2;
-    @media (min-width: 1200px) {
-      & {
-        font-size: 3.5rem;
-      }
-    }
+
   }
   h3,
   p {
     color: #757575;
-    // font-family: var(--font-family-sans-serif);
-    // font-size: clamp(1.5rem, 5vw, 3rem);
     font-weight: 400;
     line-height: 1.25;
   }
   h3 {
-    font-size: calc(1.275rem + 0.3vw);
-    @media (min-width: 1200px) {
-      & {
-        font-size: 1.5rem;
-      }
-    }
+    font-size: calc(clamp(1.25rem, 1.159rem + 0.45vw, 1.5rem)); // Wrap in calc to prevent Sass crash
   }
 }
 
@@ -284,6 +273,10 @@ article {
   color: #424242;
   letter-spacing: normal;
   line-height: 1.5rem;
+}
+
+.lead {
+  font-size: calc(clamp(1rem, 0.909rem + 0.45vw, 1.25rem));
 }
 
 .recommandation__info {
@@ -468,10 +461,6 @@ article {
 
   &__content {
     max-width: 80ch;
-
-    .lead {
-      font-size: 20px;
-    }
 
     section > h2 + div {
       max-width: 80ch;
