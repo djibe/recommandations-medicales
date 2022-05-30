@@ -7,7 +7,7 @@ synonyms = ["Psychothérapie remboursée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-23T13:48:59+02:00"
 publishdate = "2022-05-23"
-lastmod = "2022-05-27"
+lastmod = "2022-05-30"
 specialites = ["therapeutique"]
 annees = "2022"
 sources = ["Ameli"]
@@ -34,7 +34,7 @@ todo = "échelles"
 - Enfants dès 3 ans ou adolescents avec mal-être ou souffrance psychique d'intensité légère à modérée
 - Adultes en souffrance psychique d'intensité légère à modérée
   - Trouble anxieux
-  - Trouble dépressif
+  - Trouble dépressif ({{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}})
   - Mésusage tabac, [alcool]({{< relref "sevrage-alcool.md" >}}) ({{< modal-btn modal-auditc >}}AUDIT-C{{< /modal-btn >}} < 10) ou cannabis sans dépendance  
     {{%class%}}En cas de dépendance, adresser en [CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html).{{%/class%}}
   - Trouble du comportement alimentaire (sans gravité)
@@ -84,5 +84,10 @@ Voir l'annuaire des CMP dans l'introduction.
 {{% modal title="Évaluation d'un mésusage de l'alcool" id="modal-auditc"%}}
 
 {{< scores/audit-c >}}
+
+{{% /modal %}}
+{{% modal title="Score PHQ-9" id="modal-phq9"%}}
+
+{{< scores/phq9 >}}
 
 {{% /modal %}}

@@ -8,10 +8,10 @@ synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-06-21T10:56:00+02:00
 publishdate = 2021-06-29
-lastmod = 2022-03-30
+lastmod = 2022-05-30
 specialites = ["pneumologie"]
-annees = "2021"
-sources = ["GINA", "ERS", "SPLF", "HAS"]
+annees = "2022"
+sources = ["ERS", "GINA", "SPLF", "HAS"]
 tags = ["AINS", "allergie", "asthme", "dyspnee", "tabac", "toux", "vaccin"]
 anglais = ["Asthma"]
 sctid = "195967001"
@@ -44,7 +44,8 @@ Ils sont associés à une variabilité du débit expiratoire de pointe (DEP) par
 : L'obstruction est objectivée par l'observation d'un trouble ventilatoire obstructif (TVO) réversible (partiellement ou complètement), à l'état basal ou après un test de provocation bronchique.
 : Les principaux facteurs favorisants et entretenant ces anomalies sont les *infections virales*, les *allergies respiratoires* et les *irritants bronchiques*.
 : *Asthme sévère*: nécessité de fortes doses de {{< modal-btn modal-ttt-laba-csi >}}CSI-LABA{{< /modal-btn >}} (*GINA 2021*)
-: 300 millions de malades dans le monde, 4 millions en France (*SPF*) à l'origine de 60.000 séjours hospitaliers et 1000 décès annuels.
+: 340 millions de malades dans le monde, 4 millions en France (*SPF*) à l'origine de 60.000 séjours hospitaliers et 1000 décès annuels.  
+Jusqu'à 30% de diagnostics en excès.
 
 Exacerbation d'asthme
 : Majoration des symptômes respiratoires habituels et de l'obstruction bronchique pendant plus de 48 heures (*SPLF 2015*).  
@@ -52,14 +53,14 @@ Parler de *poussée* avec le patient (*GINA 2019*).
 : Dite *sévère* si nécessite des corticoïdes oraux, un passage aux urgences ou une hospitalisation.
 
 Maîtrise de l'asthme
-: Elle correspond à 2 champs d'action: la maîtrise des symptômes et celle des facteurs de risque de complications futures (exacerbations ++).
+: Elle correspond à 2 champs d'action: la {{< modal-btn modal-score-act >}}maîtrise des symptômes{{< /modal-btn >}} et celle des facteurs de risque de complications futures (exacerbations ++).
 
 {{%warning%}}
 Tout asthmatique peut avoir une exacerbation sévère (*GINA 2019*).
 
 ---
 
-Bannir le terme de << bronchite asthmatiforme >>: il s'agit d'une maladie chronique et les antibiotiques sont inappropriés (*SPLF 2015*).
+Bannir le terme de << bronchite asthmatiforme >>: l'asthme est une maladie chronique et les antibiotiques sont inappropriés (*SPLF 2015*).
 {{%/warning%}}
 
 ### Abréviations
