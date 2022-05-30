@@ -12,6 +12,8 @@ sources = ["EASD", "ADA", "SFD", "ESC"]
 tags = ["coeliaque", "diabete", "risque cardiovasculaire", "insuline", "SAS", "retinopathie", "nephropathie", "neuropathie", "vaccin"]
 anglais = ["Diabetes mellitus type 1"]
 sctid = "46635009"
+image = true
+imageSrc = "Illustration du diabète type 1 par macrovector / Freepik"
 todo = "EASD 2021 Fig 1 | Table 5, objectifs DT1, Lighthouse texte trop petit, glucagon"
 +++
 
