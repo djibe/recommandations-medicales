@@ -2,7 +2,7 @@
 title = "Cancer du sein"
 prefix = "le "
 titleSeo = "Cancer du sein"
-shortname = ""
+description = "Recommandations pour le diagnostic et la prise en charge du cancer du sein. Dépistage généralisé dès 50 ans, échographie et mammographie devant un nodule"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
@@ -22,7 +22,7 @@ todo = "revoir ttt > gg sentinelle, algorithme 2 et 3, EI hormonothérapie, perr
 {{%article-summary%}}
 
 - Palpation mammaire annuelle à partir de 25 ans
-- Vérifier la participation au dépistage organisé (50-74 ans, consigner dans le dossier)
+- Vérifier la participation au dépistage organisé (50-74 ans, à consigner dans le dossier)
 - Dépistage spécifique si risque élevé ou très élevé (voir *Niveaux de risque*)
 - En antécédents familiaux, calcul du {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}}
 - Dépistage identique en cas de prothèses mammaires (*INCa 2019*)

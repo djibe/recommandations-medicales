@@ -2,6 +2,7 @@
 title = "Benzodiazépines"
 prefix = "les "
 noindex = true
+description = "Recommandations pour la prise en charge avec un traitement par benzodiazépines. Indications (anxiété, sevrage en alcool), demi-vie et décroissance progressive"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-16T13:47:19+01:00"
@@ -25,6 +26,8 @@ Ces recommandations concernent le sevrage après > 30 jours.
 - Respecter les durées de traitement de l'AMM
 - Intervention brève à chaque prescription
 - Décroissance toujours progressive après prise prolongée
+
+Voir: [sevrage en alcool]({{< relref "sevrage-alcool.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

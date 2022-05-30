@@ -1,13 +1,13 @@
 +++
 title = "Fièvre jaune"
-noindex = true
 prefix = "la "
-shortname = "Fièvre jaune"
+noindex = true
+description = "Recommandations pour la prévention de la fièvre jaune par vaccination. Pour un voyage, qui vacciner et où se vacciner contre la fièvre jaune ?"
 synonyms = ["Fièvre amarile, typhus amaril, vomito negro"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-02-12T08:55:00+02:00
-publishdate = 2021-02-12
-lastmod = 2022-04-27
+date = "2021-02-12T08:55:00+02:00"
+publishdate = "2021-02-12"
+lastmod = "2022-04-27"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["MinSanté"]

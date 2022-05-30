@@ -1,12 +1,12 @@
 +++
 title = "Panaris"
 prefix = "le "
-shortname = "Panaris"
+description = "Recommandations pour le diagnostic et le traitement du panaris. Infection par Staphylocoque doré ou streptocoque. Bains antiseptiques voire antibiothérapie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-09-25T21:22:41+02:00
-publishdate = 2020-09-25
-lastmod = 2020-09-25
+date = "2020-09-25T21:22:41+02:00"
+publishdate = "2020-09-25"
+lastmod = "2020-09-25"
 specialites = ["infectiologie"]
 annees = "2011"
 sources = ["CMIT"]

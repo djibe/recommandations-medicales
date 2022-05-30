@@ -14,7 +14,6 @@ sources = ["Acad Médecine"]
 tags = ["adolescent", "enfant"]
 anglais = []
 sctid = ""
-draft = false
 image = false
 imageSrc = ""
 todo = ""

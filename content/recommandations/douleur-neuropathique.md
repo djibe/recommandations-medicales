@@ -2,13 +2,13 @@
 title = "Douleurs neuropathiques"
 prefix = "les "
 titleSeo = "Douleurs neuropathiques"
-description = "Recommandations pour le diagnostic et le traitement des douleurs neuropathiques. Questionnaire DN4, antidépresseurs tricycliques, antiépileptiques ou duloxétine"
+description = "Recommandations pour le diagnostic et le traitement des douleurs neuropathiques. Échelle DN4, antidépresseurs tricycliques, antiépileptiques ou duloxétine"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr X. MOISSET (SFEMC) et Dr D. BOUHASSIRA (SFETD)"
-date = 2021-09-09T13:10:04+02:00
-publishdate = 2021-09-13
-lastmod = 2022-05-17
+date = "2021-09-09T13:10:04+02:00"
+publishdate = "2021-09-13"
+lastmod = "2022-05-17"
 specialites = ["neurologie"]
 annees = "2021"
 sources = ["SFETD", "SFD", "HAS"]
@@ -23,7 +23,7 @@ todo = "carence B9B12?, dermatomes, https://journals.lww.com/pain/Fulltext/2005/
 
 {{%article-summary%}}
 
-- Typer la douleur: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /modal-btn >}} et examen clinique
+- Typer la douleur: {{< modal-btn modal-score-dn4 >}}échelle DN4{{< /modal-btn >}} et examen clinique
 - Coter la douleur sur 10 (EN, EVA)
 - 1<sup>re</sup> intention: duloxétine, gabapentine ou tricyclique  
   Emplâtre de lidocaïne ou TENS pour une atteinte superficielle localisée.
@@ -133,7 +133,7 @@ Selon la localisation de la douleur:
   - **Paresthésies**  
     En l'absence de stimulation: picotement, fourmillement, démangeaison, engourdissement.
   - Dysesthésies (contact des draps...)
-  - {{< modal-btn modal-score-dn4 >}}Questionnaire DN4{{< /modal-btn >}}
+  - {{< modal-btn modal-score-dn4 >}}Questionnaire ou échelle DN4{{< /modal-btn >}}
 - Examen neurologique anormal avec signes sensoriels du même territoire
   - An/hyper/**hypoesthésie**
   - Trouble de la sensibilité vibratoire
@@ -188,7 +188,7 @@ Uniquement sur avis du neurologue.
 {{%/collapse%}}
 {{%collapse "Classes thérapeutiques efficaces" %}}
 
-Seuls traitements ayant un niveau de preuve satisfaisant en 2020 sur les douleurs neuropathiques de l'adulte:
+Molécules de première ligne ou ayant un niveau de preuve satisfaisant en 2020 sur les douleurs neuropathiques de l'adulte:
 
 - Antidépresseurs
   - IRSNA  
@@ -232,7 +232,9 @@ Amitriptyline 10 mg/j et gabapentine 900 mg/j avec la même efficacité sans eff
 
 - [Liste des structures spécialisées douleur chronique (SDC)](https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)
 - Informer sur les risques pour la conduite automobile
-- Manque d'efficacité: réduction de la douleur < 30% et/ou amélioration fonctionnelle < 30% après ≥ 6 semaines à dose maximale tolérée
+- Manque d'efficacité de la prise en charge: réduction de la douleur < 30% et/ou amélioration fonctionnelle < 30% après ≥ 6 semaines à dose maximale tolérée
+
+Molécules de première ligne pour la prise en charge des douleurs neuropathiques selon la localisation et l'étendue des zones douloureuses.
 
 ### Douleur neuropathique périphérique focale
 
@@ -241,7 +243,7 @@ Amitriptyline 10 mg/j et gabapentine 900 mg/j avec la même efficacité sans eff
 - TENS  
   Prescription uniquement par un centre de la douleur chronique.
 
-#### Douleur neuropathique périphérique focale en 2e intention
+#### Douleur neuropathique périphérique focale en deuxième intention
 
 - [Capsaïcine en patchs de haute concentration à 8%](https://ec.europa.eu/health/documents/community-register/2021/20210709152316/anx_152316_fr.pdf) (Qutenza®). 1–4 patchs selon la superficie.  
   Appliquer 30 minutes sur les pieds et 60 minutes sur les autres zones du corps.  
@@ -295,7 +297,7 @@ Clomipramine 10 mg le soir. Paliers de 10 mg tous les 7 jours. Avis spécialisé
 
 #### Douleur neuropathique en 3e intention
 
-Prescription et réalisation uniquement en centre de la douleur chronique.
+Prise en charge, prescription et réalisation uniquement en centre de la douleur chronique.
 
 - rTMS et stimulation médullaire
 - Morphine et oxycodone LP

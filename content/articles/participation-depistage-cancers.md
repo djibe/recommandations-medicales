@@ -2,13 +2,12 @@
 title = "Participation au dépistage des cancers"
 description = "Taux de participation des français au dépistage organisé des cancers: mammographies, frottis du cols de l'utérus et test immunologique fécal"
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-08-15T19:54:00+02:00
-publishdate = 2021-08-18
-lastmod = 2022-03-16
+date = "2021-08-15T19:54:00+02:00"
+publishdate = "2021-08-18"
+lastmod = "2022-03-16"
 specialites = []
 sources = ["SPF"]
 tags = ["cancer"]
-draft = false
 chart = true
 image = false
 imageSrc = ""

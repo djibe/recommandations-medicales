@@ -1,12 +1,12 @@
 +++
 title = "Eczéma de contact"
 prefix = "l'"
-shortname = "Eczéma de contact"
+description = "TODO:"
 synonyms = ["Dermatite allergique de contact"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-09-01T10:58:41+02:00
-publishdate = 2020-09-01
-lastmod = 2020-09-01
+date = "2020-09-01T10:58:41+02:00"
+publishdate = "2020-09-01"
+lastmod = "2020-09-01"
 specialites = ["dermatologie"]
 annees = "2000"
 sources = ["FMC"]

@@ -1,23 +1,21 @@
 +++
 title = "Déficit en G6PD"
 prefix = "le "
-shortname = "G6PD"
+description = "Recommandations pour la prise en charge du déficit en G6PD. Médicaments et traitements contre-indiqués au cours du favisme, supplémentation en acide folique ..."
 synonyms = ["Favisme", "déficit en Glucose-6-déshydrogénase"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-07-08T22:38:00+02:00
-publishdate = 2021-07-09
-lastmod = 2021-07-09
+date = "2021-07-08T22:38:00+02:00"
+publishdate = "2021-07-09"
+lastmod = "2021-07-09"
 specialites = ["hematologie"]
 annees = "2021"
 sources = ["ANSM", "HAS"]
 tags = []
 anglais = ["Glucose-6-phosphate dehydrogenase deficiency anemia"]
 sctid = "62403005"
-draft = false
 datatable = true
 image = true
 imageSrc = "Illustration par macrovector / Freepik"
-todo = "resume"
 +++
 
 {{%article-summary%}}
@@ -57,7 +55,7 @@ Nécessité de bilan biologique en urgence{{%/warning%}}
   - Malaise
   - Douleurs abdominales et lombaires
   - Hémoglobinurie  
-  Urines foncées, rouge << porto >> voire noires.
+    Urines foncées, rouge << porto >> voire noires.
   - Ictère
 - Splénomégalie en hémolyse chronique
 
@@ -106,6 +104,7 @@ Seul élément à mentionner sur le PAI, il porte la carte spécifique sur lui.{
 - Poppers
 - Naphtalène des boules anti-mites
 - Applications de henné
+{.list-group}
 
 ### Médicaments à proscrire et possibles
 
@@ -183,8 +182,8 @@ Doit être demandée par le médecin.
   - L'anémie se majore jusqu'à J7-J8 après l'arrêt de l'exposition
   - Guérison spontanée le plus souvent à partir de J8-J10
   - Transfusion en anémie profonde
-- Hémolyse chronique, grossesse: supplémentation en acide folique  
-  5-10 mg/j 1-2 semaines/mois.
+- Hémolyse chronique, grossesse  
+  Supplémentation en acide folique 5-10 mg/j 1-2 semaines/mois.
 - Supplémentation en fer  
   Uniquement en carence démontrée.
 - Vaccination [hépatite A]({{< relref "hepatite-a.md" >}}) en séjour hors pays de l'ouest

@@ -1,22 +1,21 @@
 +++
 title = "Paludisme"
 prefix = "le "
-shortname = "Palu"
+description = "Recommandations pour la prévention du paludisme et la prise en charge d'une suspicion de paludisme. Antipaludéens: atovaquone Malarone, doxycycline, méfloquine"
 synonyms = ["Malaria"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-02-17T12:42:00+02:00
-publishdate = 2021-02-17
-lastmod = 2022-01-24
+date = "2021-02-17T12:42:00+02:00"
+publishdate = "2021-02-17"
+lastmod = "2022-01-24"
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["MinSanté", "Pasteur"]
 tags = ["fievre", "vaccin", "voyage"]
 anglais = ["Malaria"]
 sctid = "61462000"
-draft = false
 slider = true
 image = true
-imageSrc = "Culicidae, Anopheles sp. Photo de Techuser sur Foter.com / CC BY-NC-ND"
+imageSrc = "Moustique du paludisme. Culicidae, Anopheles sp. Photo de Techuser sur Foter.com / CC BY-NC-ND"
 todo = "ttt ambulatoire accès palustre, piqures, Pilly 2020, http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/028.pdf, http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5222.pdf"
 +++
 
@@ -33,27 +32,26 @@ todo = "ttt ambulatoire accès palustre, piqures, Pilly 2020, http://medecinetro
 {{%collapse "Épidémiologie" %}}
 
 - Incidence: 4000 cas/an (importés)  
-95% contractés en Afrique subsaharienne  
-90% par *P. falciparum*
-- Décès: 10 à 20/an
+  95% contractés en Afrique subsaharienne et 90% par *Plasmodium falciparum*
+- Décès en France: 10 à 20/an
 
 L'Afrique subsaharienne comptabilise 90% des cas mondiaux.
 
 {{% /collapse %}}
-{{%collapse "Signes de gravité" %}}
+{{%collapse "Signes de gravité du paludisme" %}}
 
-Accès palustres graves: seuls *P. falciparum* (> 90% des diag en France) et *P. knowlesi*
+Accès palustres graves: seuls *Plasmodium falciparum* (+ 90% des diagnostics en France) et *P. knowlesi*
 
 Appel du 15 en cas de signes gravité:
 
-- Troubles neurologiques  
-Obnubilation, confusion, somnolence, prostration, convulsion
+- Troubles neurologiques: obnubilation, confusion, somnolence, prostration, convulsion
 - Défaillance viscérale
 - Hypotension sévère
 - Hémorragie
 - Ictère
 - Pâleur marquée
 - Hypoglycémie
+{.list-group}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -63,14 +61,14 @@ Incubation:
 - Minimum 7 jours pour *P. falciparum*, 10 à 15 jours pour les autres
 - Maximum 2 mois pour *P. falciparum*, 3 ans *P. vivax* et *ovale*, plus de 10 ans pour *P. malariae*.
 
-**Anémie hémolytique fébrile**:
+Signes d'**anémie hémolytique fébrile**:
 
 - Accès de fièvre intermittente (rarement stéréotypée tierce/quarte)
 - Frissons, sueurs
 - Céphalées
 - Myalgies
 - Troubles digestifs  
-nausées, vomissements, diarrhées.
+  Nausées, vomissements, diarrhées.
 - Ictère
 - Splénomégalie après un certain temps
 

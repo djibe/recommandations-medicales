@@ -2,19 +2,18 @@
 title = "Contraception d'urgence"
 prefix = "la "
 titleSeo = "Contraception d'urgence"
-shortname = "CU"
+description = "Recommandations pour la prise en charge d'une contraception d'urgence. À prendre dans les 72 heures, pilule progestative lévonorgestrel ou stérilet cuivre"
 synonyms = ["Pilule du lendemain"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-03-05T14:50:00+02:00
-publishdate = 2021-03-05
-lastmod = 2022-01-02
+date = "2021-03-05T14:50:00+02:00"
+publishdate = "2021-03-05"
+lastmod = "2022-05-30"
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["HAS", "CNGOF"]
 tags = ["contraception"]
 anglais = ["Postcoital contraception"]
 sctid = "268463003"
-draft = false
 flowchart = true
 image = true
 imageSrc = "Crédit OnSexPrime.fr"
@@ -22,14 +21,15 @@ imageSrc = "Crédit OnSexPrime.fr"
 
 {{%article-summary%}}
 
-- Information systématique de tous sur la contraception d'urgence, notamment lors de la prescription d'une contraception
+- Information systématique de tous sur la contraception d'urgence, notamment lors de la prescription d'une [contraception]({{< relref "contraception.md" >}})
 - Information sur sa grande efficacité prise précocement et son innocuité
-- La pilule du lendemain est accessible sans ordonnance jusqu'à 72h, anonyme et gratuite pour les -25 ans
+- La pilule du lendemain est accessible sans ordonnance jusqu'à 72 heures, remboursée su ordonnance, anonyme et gratuite pour les -25 ans
 - La pose d'un DIU est la méthode la plus efficace et possible jusqu'à J5
 - Envisager une prescription en prévention surtout si: adolescente, préservatif, VIH, voyage à l'étranger, milieu rural.
 - Il existe un risque de grossesse à tout moment du cycle en rapport non protégé
 - Hotline: {{<phone>}}0 800 08 11 11{{</phone>}}
-- Article lié: [contraception]({{< relref "contraception.md" >}})
+
+Article lié: [contraception]({{< relref "contraception.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -70,7 +70,7 @@ La contraception d'urgence peut être prescrite en prévision "au cas où".
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Traitement en urgence (le + tôt possible) et préparation de la prochain contraception.  
+Prise en charge en urgence (le plus tôt possible) et préparation de la prochain contraception.  
 Intérêt de fournir une ordonnance en avance surtout si: adolescente, préservatif, VIH, voyage à l'étranger, milieu rural.
 
 ### Dispositif intra-utérin au cuivre (DIU)
@@ -94,7 +94,7 @@ Sur prescription de sage-femme ou médecin pour un remboursement à 60%.
 [Lévonorgestrel 1,5 mg en 1 prise](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66791234&typedoc=R)  
 AR 1 fois si besoin.
 
-Utiliser le préservatif jusqu'au 1<sup>er</sup> jour des règles suivantes et débuter la contraception efficace à ce moment.  
+Prise en charge associée au préservatif jusqu'au 1<sup>er</sup> jour des règles suivantes et débuter la contraception efficace à ce moment.  
 Utiliser un test de grossesse si retard des règles > 5 jours.  
 En cas de vomissements survenant dans les 3 heures suivant la prise du comprimé ou en cas de fortes diarrhées, reprendre immédiatement un comprimé.
 {{%/info%}}

@@ -1,13 +1,13 @@
 +++
 title = "Antalgie chez l'enfant"
 prefix = "l'"
-titleSeo = "Antalgie chez l'enfant"
-shortname = "Antalgie"
+titleSeo = "Douleur de l'enfant"
+description = "Recommandations pour le traitement de la douleur de l'enfant en pédiatrie. Echelles d'évaluation, dose de paracétamol Doliprane 15 mg/kg toutes les 6 heures"
 synonyms = ["Antidouleurs en pédiatrie"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-12-26T00:12:41+02:00
-publishdate = 2020-12-26
-lastmod = 2020-12-28
+date = "2020-12-26T00:12:41+02:00"
+publishdate = "2020-12-26"
+lastmod = "2020-12-28"
 specialites = ["pediatrie"]
 annees = "2019"
 sources = ["HAS", "Pediadol"]
@@ -26,9 +26,9 @@ todo = "nubin, https://www.phel.ch/upload/docs/application/pdf/2016-05/a4_poster
 - [Halte aux suppositoires ! (Pediadol)](https://pediadol.org/halte-aux-suppositoires/)
 
 {{%/article-summary%}}
-{{%collapse "Palier 1" "show" %}}
+{{%collapse "Antalgie palier 1" "show" %}}
 
-En 1<sup>re</sup> intention pour les douleurs faibles à modérées.
+En première intention pour les douleurs faibles à modérées.
 
 ### Paracétamol
 
@@ -181,7 +181,7 @@ Classé en palier 1 mais peut être plus efficace que des paliers 2 voire 3 apr�
 - Risque de déshydratation
 
 {{% /collapse %}}
-{{%collapse "Palier 2" %}}
+{{%collapse "Antalgie palier 2" %}}
 
 ### Tramadol chez l'enfant
 
@@ -203,7 +203,7 @@ Classé en palier 1 mais peut être plus efficace que des paliers 2 voire 3 apr�
 {{%/warning%}}
 
 {{% /collapse %}}
-{{%collapse "Palier 3" %}}
+{{%collapse "Antalgie palier 3" %}}
 
 Morphine 0,1 mg/kg/prise chez le moins d'1 an.
 Surveillance par soignant pendant 1h.
@@ -213,7 +213,7 @@ Surveillance par soignant pendant 1h.
 {{< outils/conversion-opioides height="800" >}}
 
 {{% /collapse %}}
-{{%collapse "Évaluation de la douleur" %}}
+{{%collapse "Évaluation de la douleur de l'enfant" %}}
 
 {{< table title="Échelles d'évaluation de la douleur chez l'enfant (source Pediadol)" >}}
 | Âge          | Échelle                  | Seuil de traitement |

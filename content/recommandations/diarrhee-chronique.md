@@ -2,12 +2,12 @@
 title = "Diarrhée chronique"
 prefix = "la "
 titleSeo = "Diarrhée chronique"
-shortname = "Diarrhée chronique"
+description = "Recommandations pour le diagnostic et la prise en charge de la diarrhée chronique. Bilan de première intention pour étayer la cause. Coloscopie si rectorragie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-07-22T19:42:41+02:00
-publishdate = 2020-07-22
-lastmod = 2022-04-20
+date = "2020-07-22T19:42:41+02:00"
+publishdate = "2020-07-22"
+lastmod = "2022-04-20"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["BSG", "Collège"]
@@ -101,7 +101,7 @@ TIF
 
 ### Rare
 
-Autres atteintes du grêle (Whipple...), hypoparathyroïdie, insuffisance surrénale, tumeur endocrine (VIPome...), neuropathie autonome, diarrhée factice, diarrhée de Brainerd.
+Autres atteintes du grêle (Whipple ...), hypoparathyroïdie, insuffisance surrénale, tumeur endocrine (VIPome ...), neuropathie autonome, diarrhée factice, diarrhée de Brainerd.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -142,7 +142,7 @@ La *malabsorption* donne souvent une stéatorrhée avec selles pâteuses et déc
 - Examen pelvien
 - Fonte musculaire
 - Signes généraux  
-Syndrome anémique ou hémorragique, thyrotoxicose, glossite, aménorrhée.
+  Syndrome anémique ou hémorragique, thyrotoxicose, glossite, aménorrhée.
 - Œdèmes
 
 {{% /collapse %}}
@@ -156,7 +156,7 @@ Syndrome anémique ou hémorragique, thyrotoxicose, glossite, aménorrhée.
 - Ferritinémie
 - TSH
 - Glycémie à jeun
-- Proposer une sérologie VIH
+- Proposer une [sérologie VIH]({{< relref "vih-sida.md" >}})
 - Malabsorption  
   Créatinine, ionogramme, calcémie, albuminémie, ASAT, ALAT, GGT, PAL, TP, vitamine B12, folate.
 - Sérologie cœliaque  
@@ -170,8 +170,8 @@ Rectorragie ou modifications du transit: coloscopie.
 ### Bilan de 2<sup>e</sup> intention
 
 - Suspicion de SII et < 40 ans: calprotectine fécale  
-Bilan normal et symptômes typiques: diagnostic de *syndrome de l'intestin irritable* (SII).
-- Suspicion d'intolérance au lactose: test d'éviction préférable
+  Bilan normal et symptômes typiques: diagnostic de *syndrome de l'intestin irritable* (SII).
+- Suspicion d'[intolérance au lactose]({{< relref "intolerance-lactose.md" >}}): test d'éviction préférable
 
 Adresser au spécialiste si un diagnostic pouvant être suivi en ville n'est pas expliqué par ce bilan.
 

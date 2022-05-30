@@ -2,19 +2,18 @@
 title = "Arrêt de travail"
 noindex = true
 prefix = "l'"
-shortname = "AT"
+description = "TODO:"
 synonyms = ["Arrêt maladie"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-09-25T21:16:41+02:00
-publishdate = 2020-09-25
-lastmod = 2020-09-25
+date = "2020-09-25T21:16:41+02:00"
+publishdate = "2020-09-25"
+lastmod = "2020-09-25"
 specialites = ["certificats"]
 annees = "2020"
 sources = ["Assurance Maladie"]
 tags = []
 anglais = []
 sctid = ""
-draft = false
 todo = "TODO: summary, modalité papier/ameli"
 +++
 

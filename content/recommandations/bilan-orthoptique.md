@@ -1,8 +1,8 @@
 +++
 title = "Bilan orthoptique et orthoptie"
-noindex = true
 prefix = "le "
 titleSeo = "Bilan orthoptique"
+description = "Recommandations pour le dépistage et la réalisation du bilan orthoptique. Prise en charge par l'orthoptiste en fatigue chronique, céphalées, strabisme ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-10T16:46:32+01:00"

@@ -1,21 +1,20 @@
 +++
 title = "Récapitulatif des cibles de marqueurs biologiques et d'apports recommandés"
+prefix = "le "
 titleSeo = "Cibles biologiques"
 noindex = true
-prefix = "le "
-shortname = ""
+description = "Cibles biologiques à obtenir pour une prévention primaire ou secondaire optimale"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-01-14T15:36:00+02:00
-publishdate = 2021-01-14
-lastmod = 2021-11-19
+date = "2021-01-14T15:36:00+02:00"
+publishdate = "2021-01-14"
+lastmod = "2021-11-19"
 specialites = ["biologie"]
 annees = "2022"
 sources = ["CNGOF", "SFDiabète", "SFRhumato"]
 tags = ["ferritine"]
 anglais = []
 sctid = ""
-draft = false
 image = true
 imageSrc = "Photo de ZEISS Microscopy sur Foter.com / CC BY-SA"
 todo = "LDL"

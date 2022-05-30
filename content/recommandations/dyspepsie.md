@@ -1,7 +1,7 @@
 +++
 title = "Dyspepsie"
 prefix = "la "
-shortname = "Dyspepsie"
+description = "Recommandations pour le diagnostic et la prise en charge de la dyspepsie. Douleur ou inconfort digestif. Indications à l'endoscopie digestive et traitement IPP"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-17T20:11:06+02:00"

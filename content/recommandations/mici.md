@@ -1,12 +1,12 @@
 +++
 title = "Maladies inflammatoire chroniques intestinales"
 prefix = "les "
-shortname = "MICI"
+description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-10-14T17:42:41+02:00
-publishdate = 2020-10-14
-lastmod = 2020-11-10
+date = "2020-10-14T17:42:41+02:00"
+publishdate = "2020-10-14"
+lastmod = "2020-11-10"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["FMC"]

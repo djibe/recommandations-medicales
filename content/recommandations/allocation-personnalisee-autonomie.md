@@ -15,7 +15,6 @@ sources = ["Service Public"]
 tags = []
 anglais = []
 sctid = ""
-draft = false
 image = false
 imageSrc = ""
 todo = "Relire service-public"

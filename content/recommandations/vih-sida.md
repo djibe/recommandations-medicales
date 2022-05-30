@@ -6,9 +6,9 @@ description = "Recommandations pour le dépistage et le bilan initial d'une infe
 synonyms = ["Virus de l'immunodéficience humaine", "prise en charge du VIH"]
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CAZANAVE (CMIT)"
-date = 2021-01-16T22:06:00+02:00
-publishdate = 2021-01-16
-lastmod = 2022-04-27
+date = "2021-01-16T22:06:00+02:00"
+publishdate = "2021-01-16"
+lastmod = "2022-05-30"
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["CNS", "HAS", "MinSanté"]
@@ -17,7 +17,7 @@ anglais = ["Human immunodeficiency virus infection"]
 sctid = "86406008"
 image = true
 imageSrc = "Photo de NIAID sur Foter.com"
-todo = "relecture CNS, TPE, https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, depistage DT2, info transmission/guérison, https://www.aides.org/prep"
+todo = "relecture CNS, TPE, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, depistage DT2, info transmission/guérison, méningo C 26 ans ?"
 +++
 
 {{%article-summary%}}
@@ -107,7 +107,7 @@ VIH
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-### Clinique de la primo-infection
+### Clinique de la primo-infection VIH
 
 {{%warning%}}
 Proposer PCR + sérologie VIH systématiquement devant:
@@ -136,7 +136,7 @@ Signes cliniques aspécifiques le plus souvent, présents dans 3/4 des cas avec 
   - Paralysie faciale périphérique, polyradiculonévrite
   - Pneumopathie interstitielle
 
-#### Signes biologiques
+#### Signes biologiques d'une infection VIH
 
 - Thrombopénie (75%)
 - Leucopénie (50%), lymphopénie, syndrome mononucléosique
@@ -158,7 +158,7 @@ Signes cliniques mineurs:
 - AEG, fébricule
 - Sueurs nocturnes
 
-#### Signes biologiques inconstants
+#### Signes biologiques inconstants d'infection VIH
 
 - Neutropénie
 - Thrombopénie
@@ -193,7 +193,7 @@ Pathologies selon le taux de CD4 (/mm³):
 {{% /collapse %}}
 {{%collapse "VIH - dépistage" %}}
 
-### Le dépistage du VIH - Qui ?
+### Chez qui dépister le VIH ?
 
 Le dépistage doit être large et pour les personnes à risque, systématique et répété à long terme.
 
@@ -221,7 +221,7 @@ Le dépistage doit être large et pour les personnes à risque, systématique et
 
 {{%info%}}Proposer de coupler au dépistage les sérologies VHB et VHC{{%/info%}}
 
-### Le dépistage du VIH - Comment ?
+### Comment dépister le VIH ?
 
 Le dépistage doit être accompagné d'une information claire:
 
@@ -253,13 +253,15 @@ Annonce faite par le médecin qui a prescrit le test au cours d'une consultation
 
 ### Dépistage des infections sexuellement transmissibles
 
-- *Chlamydia* et gonocoques selon le contexte
+Rythme de dépistage des [IST](/tags/ist/) au cours du VIH:
+
+- *Chlamydia* et gonocoque selon le contexte
 - [Hépatite C]({{< relref "hepatite-c.md" >}}) tous les 3 à 6 mois
 - [Syphilis]({{< relref "syphilis.md" >}}) tous les 3 à 6 mois
 
 ### Dépistage des cancers du côlon et du sein
 
-Dépistage identique au dépistage généralisé des cancers du sein et du colon.
+Dépistage identique au dépistage généralisé des [cancers du sein]({{< relref "cancer-sein.md" >}}) et du colon.
 
 ### Dépistage du cancer du col de l'utérus
 
@@ -277,7 +279,7 @@ Examen cutanéo-muqueux annuel par un dermatologue.
 
 ### Dépistage du cancer du poumon
 
-Indications au scanner thoracique, VIH+ et:
+Indications au scanner thoracique pour le dépistage du [cancer du poumon]({{< relref "cancer-poumon.md" >}}) chez le VIH+ si:
 
 - Toux persistante
 - Hémoptysie
@@ -304,8 +306,7 @@ Palpation des aires ganglionnaires au moins 1/an.
 
 - [Mise à jour du calendrier vaccinal]({{< relref "vaccination.md" >}})
   - Rappel DTP tous les 10 ans
-  - Méningocoque C  
-    Jusqu'à 26 ans, 2 injections à M0-M6.
+  - Méningocoque C jusqu'à 24 ans
 - Grippe annuelle
 - {{< modal-btn modal-vaccin-hepatite-a >}}Hépatite A{{< /modal-btn >}}
   - Indications: co-infection VHB ou VHC, hépatopathie chronique, alcool, voyage zone endémique
@@ -313,7 +314,7 @@ Palpation des aires ganglionnaires au moins 1/an.
   - Contrôle IgG post-vaccinal 2 mois après la 2<sup>e</sup> injection
 - Hépatite B  
   - Contrôle sérologique préalable
-  - Schéma: 2 Engerix B20® 4 fois à M0, M1, M2, M6
+  - Schéma: Engerix B20® double dose 4 fois à M0, M1, M2, M6
   - Contrôle taux d'anticorps post-vaccinal puis annuel
   - Rappel si anticorps anti-HBs < 10 UI/mL
 - Papillomavirus  
@@ -410,16 +411,9 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 - NFS, transaminases et autres selon le traitement
 
 {{% /collapse %}}
-{{%collapse "FMC gratuite" %}}
-
-{{< card-link title="La PrEP et ses enjeux" url="https://www.formaprep.org/" subtitle="Le MOOC gratuit par FormaPrEP">}}
-
-{{% /collapse %}}
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
-- [HAS. Réponses rapides dans le cadre de la COVID-19 - Prophylaxie (PrEP) du VIH par ténofovir disoproxil / emtricitabine dans le cadre de l'urgence sanitaire. 28/04/2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-04/reco_435__reponse_rapide_prep_au_vih_150421_cd_vudoc_am_pg_vd_mel_v0.pdf)
-- [CNS. Avis sur la place de la PrEP dans la prévention du VIH en France : changer de paradigme, changer d'échelle. 15/04/2021. (PDF)](https://cns.sante.fr/wp-content/uploads/2021/05/2021-04-15_avis_fr_prevention.pdf)
 - [CMIT. Infection à VIH. Item 165 UE6. ECN.Pilly 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-165-nb.pdf)
 - [Cazein F. et al. Activité de dépistage du VIH et circonstances de découverte de l'infection à VIH, France 2018. Bull Epidémiol Hebd. 2019.](http://beh.santepubliquefrance.fr/beh/2019/31-32/2019_31-32_1.html)
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
@@ -429,7 +423,6 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 
 ### À lire
 
-- [MedQual. VIH : La PrEP arrive en ville ! Janvier 2022.](http://www.medqual.fr/images/PRO_2018/LA/2022-JAN-LAPrEP-n195-vF.pdf)
 - [HAS. Infection par le VIH](https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih)
 
 {{%/sources%}}

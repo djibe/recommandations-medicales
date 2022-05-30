@@ -10,7 +10,7 @@ lastmod = "2022-05-15"
 specialites = ["pneumologie"]
 annees = "2022"
 sources = ["HAS", "SPLF", "ERS"]
-tags = ["cancer", "dyspnee", "fatigue", "tabac", "toux"]
+tags = ["cancer", "dyspnee", "fatigue", "tabac", "toux", "VIH"]
 anglais = ["Lung cancer"]
 sctid = "93880001"
 image = true
@@ -82,13 +82,13 @@ Le diagnostic de cancer broncho-pulmonaire est évoqué devant (fumeur ou ancien
   - Douleur thoracique
   - Syndrome de Pancoast Tobias  
     Névralgie cervico-brachiale C8-D1 avec myosis - ptosis - énophtalmie (syndrome de Claude Bernard Horner homolatéral)
-- Métastase SNC, os, foie, peau
+- Métastase du système nerveux, os, foie, peau
 - Syndrome paranéoplasique  
   - [Thrombose veineuse profonde]({{< relref "thrombose-veineuse-profonde.md" >}})
   - Hippocratisme digital récent avec arthralgies inflammatoires (syndrome de Pierre-Marie)
   - Hyponatrémie (sécrétion inappropriée d'ADH)
   - Fièvre isolée
-  - Pseudomyasthénie, neuropathie périphérique
+  - Pseudo-myasthénie, neuropathie périphérique
 
 {{%info%}}Le diagnostic de cancer du poumon est anatomopathologique{{%/info%}}
 
@@ -141,7 +141,8 @@ La SPLF, au vu des données de recherche, est favorable au dépistage ciblé du 
 - Pendant 5,5 à 10 ans
 
 {{%info%}}
-#### Qui dépister selon la SPLF ?
+
+#### Chez qui dépister le cancer du poumon selon la SPLF ?
 
 - Âge 50-74 ans
 - et tabagisme > 10 cig/j pendant 30 ans  
@@ -158,6 +159,15 @@ La SPLF, au vu des données de recherche, est favorable au dépistage ciblé du 
   - Comorbidité sévère restreignant toute intervention thérapeutique
   - Symptômes évocateurs de cancer (hémoptysie, amaigrissement, infection pulmonaire récente)
 {{%/info%}}
+
+Et pour une personne vivant avec le VIH (PVVIH):
+
+- Toux persistante
+- Hémoptysie
+- Douleur chronique
+- Altération de l'état général
+
+> *CNS 2017*
 
 #### Information sur le dépistage destinée aux personnes éligibles (SPLF)
 
@@ -209,6 +219,7 @@ Le traitement doit être démarré dans les 6 semaines qui suivent la réalisati
 - [Kauczor H-U et al. ESR/ERS statement paper on lung cancer screening. Eur Respir J. 2020.](https://erj.ersjournals.com/content/55/2/1900506)
 - [Delafosse P et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Poumon. Santé Publique France. 2020.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-poumon)
 - [NICE. Lung cancer: diagnosis and management. 2019.](https://www.nice.org.uk/guidance/NG122)
+- [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
 - [HAS. ALD n°30 Cancer du poumon et mésothéliome pleural malin. 2014.](https://www.has-sante.fr/jcms/c_820058/fr/ald-n-30-cancer-du-poumon-et-mesotheliome-pleural-malin)
 - [HAS. Guides du parcours de soins des cancers broncho-pulmonaires et mésothéliome pleural malin. 2013.](https://www.has-sante.fr/jcms/c_1650525/fr/guides-du-parcours-de-soins-des-cancers-broncho-pulmonaires-et-mesotheliome-pleural-malin)
 - [INCa. Cancer du poumon - Bilan initial. 2011.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-du-poumon-Bilan-initial-recommandation-argumentees)

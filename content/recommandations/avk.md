@@ -1,6 +1,7 @@
 +++
-title = "Antivitamines K"
+title = "Antivitamines K AVK"
 prefix = "les "
+description = "Recommandations pour le traitement par AVK. Conduite à tenir et prise en charge d'un surdosage selon l'INR, arrêt des anticoagulants avant chirurgie, éducation"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-24T22:57:41+01:00"
@@ -10,9 +11,8 @@ specialites = ["therapeutique"]
 annees = "2008"
 sources = ["HAS"]
 tags = ["anticoagulant"]
-anglais = []
-sctid = ""
-draft = false
+anglais = ["Antivitamin k"]
+sctid = "419847008"
 image = false
 imageSrc = ""
 todo = "adapt doses"

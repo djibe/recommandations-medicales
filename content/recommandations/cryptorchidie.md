@@ -1,19 +1,18 @@
 +++
 title = "Cryptorchidie"
 prefix = "la "
-shortname = "Cryptorchidie"
+description = "Recommandations pour le diagnostic et la prise en charge de la cryptorchidie. Echographie abdominale et chirurgie avant 2 ans pour préserver le testicule"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-04-30T16:38:00+02:00
-publishdate = 2021-05-01
-lastmod = 2021-05-01
+date = "2021-04-30T16:38:00+02:00"
+publishdate = "2021-05-01"
+lastmod = "2021-05-01"
 specialites = ["pediatrie"]
 annees = "2011"
 sources = ["AFU"]
 tags = []
 anglais = ["Cryptorchidism"]
 sctid = "204878001"
-draft = false
 image = true
 imageSrc = "Lamiot via Wikipedia Commons, CC BY-SA 3.0"
 todo = "beh"

@@ -10,10 +10,10 @@ publishdate = "2022-05-30"
 lastmod = "2022-05-30"
 specialites = ["infectiologie", "therapeutique"]
 annees = "2020"
-sources = ["Society1", "Society2"]
-tags = ["tag 1", "tag 2"]
-anglais = ["English word", "you can add one or delete this one"]
-sctid = "76102007"
+sources = ["CNS", "HAS"]
+tags = ["HSH", "IST", "VIH"]
+anglais = []
+sctid = ""
 draft = true
 image = false
 imageSrc = ""
@@ -22,11 +22,18 @@ todo = ""
 
 {{%article-summary%}}
 
+- Toute personne avec au moins 2 rapports non protégés en 6 mois est éligible à la PrEP (toute personne exposée au VIH)
+- La PrEP est gratuite et prescriptible par tout médecin
 
+Chapitre lié: [VIH et SIDA]({{< relref "vih-sida.md" >}})
 
 {{%/article-summary%}}
+{{%collapse "La PrEP, pour qui ?" %}}
+
+### Indications à la PrEP
+
 {{%info%}}
-Toutes les personnes exposées au VIH (message simplifié: ≥ 2 rapports non protégés en 6 mois) doivent être informées qu'elles peuvent en bénéficier et qu'elle est très efficace pour se prémunir d'une infection à VIH.
+Toutes les personnes exposées au VIH (message simplifié: au moins 2 rapports non protégés en 6 mois) doivent être informées qu'elles peuvent en bénéficier et qu'elle est très efficace pour se prémunir d'une infection à VIH.
 
 La PrEP doit être couplée au *préservatif* pour prévenir les [IST](/tags/ist/) et les grossesses non désirées.
 
@@ -133,11 +140,22 @@ Minimum 1 cp par jour pendant **2 jours** après le dernier rapport non protég�
 - Lieux: [Réseau de Santé Sexuelle Publique](https://www.santesexuelle.org/), COREVIH, {{< references/cegidd >}}
 - Sites: [PrEP info](http://prep-info.fr/), [Sida Info Service](https://www.sida-info-service.org/dossier-la-prep/)
 - Applis: [My PrEP](https://myprep.app/), [AR PrEP](https://play.google.com/store/apps/details?id=fr.observia.atprep), [GMT Ma PrEP](https://play.google.com/store/apps/details?id=com.guenmat.android.prep)
+
+{{% /collapse %}}
+{{%collapse "FMC gratuite" %}}
+
+{{< card-link title="La PrEP et ses enjeux" url="https://www.formaprep.org/" subtitle="Le MOOC gratuit par FormaPrEP">}}
+
+{{% /collapse %}}
 {{%sources%}}
 
-- [Source 1](URL)
+- [HAS. Réponses rapides dans le cadre de la COVID-19 - Prophylaxie (PrEP) du VIH par ténofovir disoproxil / emtricitabine dans le cadre de l'urgence sanitaire. 28/04/2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-04/reco_435__reponse_rapide_prep_au_vih_150421_cd_vudoc_am_pg_vd_mel_v0.pdf)
+- [CNS. Avis sur la place de la PrEP dans la prévention du VIH en France : changer de paradigme, changer d'échelle. 15/04/2021. (PDF)](https://cns.sante.fr/wp-content/uploads/2021/05/2021-04-15_avis_fr_prevention.pdf)
+
+### À lire
+
+- [MedQual. VIH : La PrEP arrive en ville ! Janvier 2022.](http://www.medqual.fr/images/PRO_2018/LA/2022-JAN-LAPrEP-n195-vF.pdf)
+- <https://www.aides.org/prep>
+- <https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil>
 
 {{%/sources%}}
-
-≤≥±®œŒÈ³ÂSpO<sub>2</sub>
-[External link](https://discourse.gohugo.io/ "{rel='nofollow'}")
