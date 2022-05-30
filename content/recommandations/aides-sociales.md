@@ -1,8 +1,9 @@
 +++
 title = "Aides sociales pour se soigner"
-noindex = true
 prefix = "les "
-titleSeo = "Aides sociales"
+noindex = true
+titleSeo = "Aides sociales médicales"
+description = "Aides sociales disponibles pour l'accès aux soins. Simulateurs pour vérifier l'éligibilité du patient à la CMU, l'Aide Complémentaire Santé, aide des réfugiés"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-26T13:38:41+02:00

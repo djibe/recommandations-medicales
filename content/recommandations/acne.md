@@ -1,8 +1,7 @@
 +++
 title = "Acné"
 prefix = "l'"
-shortname = "Acné"
-synonyms = []
+description = "TODO:"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-27T21:48:41+02:00
 publishdate = 2020-07-27

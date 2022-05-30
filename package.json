@@ -3,7 +3,7 @@
   "version": "0.5.0",
   "description": "Site communautaire des recommandations en premier recours en médecine générale",
   "scripts": {
-    "article:new": "hugo new recommandations/article.md",
+    "recommandations:new": "hugo new recommandations/article.md",
     "css:compile": "node-sass --output-style expanded --precision 6 assets/sass/_material-custom.scss assets/css/material.css",
     "css:purge": "hugo && purgecss --css assets/css/material.css --content public/**/*.html --output assets/css/material-purge.css --safelist p-2 close collapse collapsing modal fade modal-open modal-backdrop modal-scrollbar-measure nav-tabs-material nav-tabs-indicator animate show active tooltip tooltip-inner irs irs--material irs-line irs-min irs-max irs-from irs-to irs-single irs-grid irs-bar irs-bar--single irs-handle single state_hover irs-hidden-input",
     "favicon": "real-favicon generate ./build/faviconDescription.json ./build/faviconData.json ./favicons",

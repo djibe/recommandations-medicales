@@ -1,7 +1,8 @@
 +++
 title = "Sinusite aiguë purulente"
 prefix = "la "
-titleSeo = "Sinusite aiguë"
+titleSeo = "Sinusite aigue"
+description = "Recommandations pour la prise en charge de la sinusite aigue (maxillaire, frontale). Critères diagnostiques, antibiothérapie de première intention et allergie"
 synonyms = ["Rhinosinusites infectieuses aiguës"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-18T09:20:00+02:00

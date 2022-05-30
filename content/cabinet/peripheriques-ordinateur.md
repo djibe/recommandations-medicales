@@ -16,13 +16,15 @@ todo= "https://www.clubic.com/materiel-informatique/imprimante/article-851535-1-
 Ensemble de périphériques pour l'utilisation bureautique quotidienne au cabinet médical.
 {.lead}
 
+{{< card-link title="Article lié" subtitle="L'ordinateur recommandé pour le médecin généraliste" url="/cabinet/ordinateur-medecin/">}}
+
 {{%collapse "Imprimantes laser" %}}
 
 Imprimantes choisies par 01Net.
 
 ### Imprimante laser avec toners compatibles
 
-Imprimante (non multifonction) permettant d'utiliser des toners compatibles moins chers (CartoucheMania, Tinkco, Toner.fr ...)
+Imprimante (non multifonction) permettant d'utiliser des toners compatibles moins chers (17€ contre 80€ chez CartoucheMania, Tinkco, Toner.fr ...)
 
 - [Choix: Brother HL-L2350DW (petite, rapide, R/V, pas de Wi-Fi) - 140€](https://ledenicheur.fr/product.php?p=4549237)
 

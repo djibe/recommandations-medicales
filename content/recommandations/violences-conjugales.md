@@ -2,7 +2,7 @@
 title = "Violences conjugales"
 noindex = true
 prefix = "les "
-shortname = "Violences conjugales"
+description = "Recommandations pour le dépistage des violences faites aux femmes. Questionnaire WAST, informer pour porter plainte et où se rendre pour être en sécurité"
 synonyms = ["Violences faites aux femmes"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-04T19:26:00+02:00

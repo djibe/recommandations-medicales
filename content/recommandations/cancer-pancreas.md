@@ -2,7 +2,7 @@
 title = "Cancer du pancréas"
 prefix = "le "
 titleSeo = "Cancer du pancréas"
-shortname = ""
+description = "Recommandations pour le diagnostic et la prise en charge du cancer du pancréas. Signes cliniques, scanner avec injection et avis spécialisé en urgence"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-16T15:41:56+01:00"
@@ -14,7 +14,6 @@ sources = ["SNFGE"]
 tags = ["cancer", "diabete", "prurit"]
 anglais = ["Pancreatic cancer"]
 sctid = "363418001"
-draft = false
 image = true
 imageSrc = "Illustration du pancréas par brgfx / Freepik"
 +++

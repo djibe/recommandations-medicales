@@ -2,7 +2,7 @@
 title = "Thrombose veineuse superficielle"
 noindex = true
 prefix = "la "
-shortname = "TVS"
+description = "TODO:"
 synonyms = ["Phlébite superficielle", "paraphlébite"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-29T10:47:00+02:00

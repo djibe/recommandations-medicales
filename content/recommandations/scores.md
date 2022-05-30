@@ -3,6 +3,7 @@ title = "Scores et outils cliniques"
 noindex = true
 url = "/scores"
 titleSeo = "Scores pour la clinique"
+description = "Scores médicaux utiles au quotidien pour la pratique du médecin généraliste"
 prefix = ""
 longHtml = true
 synonyms = []

@@ -1,7 +1,7 @@
 +++
 title = "Saturnisme"
 prefix = "le "
-shortname = "Saturnisme"
+description = "Recommandations pour le dépistage et la prise en charge du saturnisme. Facteurs de risque, seuils de plombémie et déclaration obligatoire"
 synonyms = ["Intoxication au plomb"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-21T22:01:41+02:00

@@ -68,3 +68,5 @@ Le PC présenté ci-dessous peut être assemblé sur mesure par les grands magas
 **NB.** Windows 11 peut être acheté 15€ (au lieu des 200) sur les géants du e-commerce si un ami peut vous l'installer.
 
 {{% /collapse %}}
+
+{{< card-link title="Article lié" subtitle="Les périphériques pour l'ordinateur au cabinet (imprimante ...)" url="/cabinet/peripheriques-ordinateur/" class="mt-5">}}

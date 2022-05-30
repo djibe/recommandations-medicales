@@ -6,7 +6,7 @@ synonyms = ["et papillomavirus humains HPV", "dysplasies et condylomes"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = 2021-01-18T10:55:00+02:00
 publishdate = 2022-04-20
-lastmod = 2022-05-10
+lastmod = 2022-05-30
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
 sources = ["INCa", "HAS", "MinSanté"]
@@ -25,6 +25,7 @@ todo = "relecture INCa, pharynx"
 - << Le préservatif peut limiter le risque d'infection mais n'assure pas une protection efficace >> (*INCa*)
 - Vaccination pour tous de 11 à 19 ans  
   Étendue à 26 ans pour les [HSH]({{< relref "hsh.md" >}}).
+- Pas de vaccination en une seule dose avant changement de l'AMM (*Infovac*)
 - Dépistage organisé du cancer du col de l'utérus de 25 à 65 ans (test HPV-HR après 30 ans)
 - Dépistage ciblé du cancer anal
 

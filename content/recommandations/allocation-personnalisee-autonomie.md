@@ -3,6 +3,7 @@ title = "Allocation personnalisée d'autonomie"
 prefix = "l'"
 noindex = true
 titleSeo = "Allocation personnalisée d'autonomie"
+description = "Explications des principes d'attribution de l'Allocation personnalisée d'autonomie. Demande à partir de 60 ans pour bénéficier d'aides à l'autonomie ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-25T11:57:30+01:00"

@@ -2,6 +2,7 @@
 title = "Voyage à l'étranger"
 prefix = "le "
 noindex = true
+description = "Adaptation des recommandations de Santé Publique France pour la prévention des maladies lors des voyages à l'étranger. Vaccinations, médicaments, grossesse ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-02-17T11:56:00+02:00

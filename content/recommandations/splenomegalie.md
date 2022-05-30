@@ -1,7 +1,7 @@
 +++
 title = "Conduite à tenir devant une splénomégalie"
 prefix = "la "
-shortname = "SM"
+description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-27T17:43:41+02:00

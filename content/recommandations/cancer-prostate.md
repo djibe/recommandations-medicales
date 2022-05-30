@@ -2,7 +2,6 @@
 title = "Cancer de la prostate"
 prefix = "le "
 noindex = true
-shortname = "ADK prostatique"
 synonyms = ["Adénocarcinome prostatique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-27T19:51:30+02:00
@@ -14,7 +13,6 @@ sources = ["EAU"]
 tags = ["cancer", "depistage"]
 anglais = ["Carcinoma of prostate"]
 sctid = "254900004"
-draft = false
 flowchart = true
 image = false
 imageSrc = ""

@@ -1,7 +1,7 @@
 +++
 title = "Chalazion"
 prefix = "le "
-description = "Recommandations pour le traitement du chalazion, infection d'une glande de Meibomius. Collyre antibiotique et corticoïde 7 jours"
+description = "Recommandations pour le traitement du chalazion, infection d'une glande de Meibomius. Collyre antibiotique et corticoïde pendant 7 jours"
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-29T23:34:00+02:00
 publishdate = 2021-04-30
@@ -19,25 +19,26 @@ imageSrc = "Photo d'un chalazion par jd, via Wikimedia Commons"
 {{%article-summary%}}
 
 - Antibiothérapie locale 7 jours
-- Voir aussi [Orgelet]({{< relref "orgelet.md" >}})
+
+Article lié: [Orgelet]({{< relref "orgelet.md" >}})
 
 {{%/article-summary%}}
 
-## Définition
+## Définition {.mt-5}
 
 Chalazion
 : Granulome inflammatoire se développant sur une *glande de Meibomius* avec occlusion du canal excréteur.  
 Stagnation des sécrétions sébacées le plus souvent sans surinfection bactérienne.
 : Tuméfaction douloureuse de la paupière sans communication avec le bord libre. Évolution sur plusieurs semaines.
 
-## Traitement du chalazion
+## Traitement du chalazion {.mt-5}
 
 - Soins de paupières  
 Humidification à l'eau chaude puis massages avec le doigt, de la base vers le bord libre pour drainer les sécrétions.
 - Éviter le port de lentilles pendant toute la durée du traitement
 - Avis ophtalmologique si persistance après 7-14 jours
 
-### Antibiothérapie locale
+### Antibiothérapie locale {.mt-5}
 
 Corticothérapie locale avec collyre antibiotique local 2 en 1 pendant **7 jours**.  
 Vérifier la monographie car contre-indications spécifiques pour chaque spécialité.
@@ -57,6 +58,6 @@ Vérifier la monographie car contre-indications spécifiques pour chaque spécia
   **: éviter chez le nourrisson  
   ***: contre-indiqué chez enfant < 8 ans ET grossesse/allaitement
 
-## Source
+## Source {.mt-5}
 
 [Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 84. 2017. (PDF)](http://couf.fr/wp-content/uploads/2016/03/Chapitre-18.pdf)

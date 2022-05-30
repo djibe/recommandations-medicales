@@ -1,7 +1,7 @@
 +++
 title = "Vitiligo"
 prefix = "le "
-shortname = "Vitiligo"
+description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-29T20:48:41+02:00

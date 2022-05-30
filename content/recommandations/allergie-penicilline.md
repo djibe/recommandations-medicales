@@ -1,7 +1,7 @@
 +++
 title = "Allergie à la pénicilline"
-prefix = "la "
-shortname = "M"
+prefix = "l'"
+description = "TODO: Recommandations pour le diagnostic et la prise en charge d'une allergie à la pénicilline"
 synonyms = ["Hypersensibilité aux bêtalactamines"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-29T23:58:00+02:00

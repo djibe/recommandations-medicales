@@ -2,6 +2,7 @@
 title = "Pédiculoses"
 prefix = "les "
 titleSeo = "Poux"
+description = "Recommandations pour le diagnostic et la prise en charge des poux. Peigne anti-poux, lotion de diméticone et examen de l'entourage pour décontamination"
 synonyms = ["Poux"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-18T18:48:00+02:00
@@ -10,10 +11,9 @@ lastmod = 2021-05-05
 specialites = ["dermatologie"]
 annees = "2020"
 sources = ["CMIT", "CSHP", "SFDermato"]
-tags = []
+tags = ["prurit"]
 anglais = ["Pediculosis"]
 sctid = "20848007"
-draft = false
 image = true
 imageSrc = "Poux, CC BY-SA 3.0 via Wikimedia Commons"
 todo = "https://cpias-occitanie.fr/wp-content/uploads/2019/06/P%C3%A9diculoses-2019.pdf, TTT"
@@ -48,15 +48,15 @@ Peuvent transmettre des infections.
 {{%info%}}Le diagnostic est clinique par visualisation de lentes vivantes à la racine des cheveux{{%/info%}}
 
 - Symptômes
-  - Prurit (50-60%)
+  - [Prurit](/tags/prurit/) (50-60%)
   - Excoriations
   - Impétigo cervical
   - Adénopathies
   - Eczéma
 - Atteinte du cuir chevelu  
-Tempes, contour des oreilles, nuque.
+  Tempes, contour des oreilles, nuque.
 - Poux de corps  
-Dos, ceinture et racine des membres. Vivent dans les vêtements (coutures +++).
+  Dos, ceinture et racine des membres. Vivent dans les vêtements (coutures +++).
 - Contage familial ou scolaire
 
 {{% /collapse %}}
@@ -67,6 +67,7 @@ Surtout le diagnostic d'un prurit de la tête. Les lentes sont pathognomoniques.
 - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
 - Psoriasis
 - Dermatophytie
+{.list-group}
 
 {{% /collapse %}}
 {{%collapse "Traitement des poux" %}}
@@ -75,8 +76,10 @@ Surtout le diagnostic d'un prurit de la tête. Les lentes sont pathognomoniques.
 
 {{%info%}}
 Diméticone lotion 2 applications à J1 et J7  
-Suivie par peignage anti-poux 30 minutes  
-Examen de tous les membres du foyer  
+Suivie par peignage anti-poux 30 minutes
+
+Examen de tous les membres du foyer
+
 Décontamination des linge/literie/accessoires
 {{%/info%}}
 

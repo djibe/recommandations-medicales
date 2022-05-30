@@ -1,7 +1,7 @@
 +++
 title = "Phimosis"
 prefix = "le "
-shortname = ""
+description = "Recommandations pour le diagnostic et la prise en charge du phimosis. Applications de dermocorticoïdes et repousser la chirurgie après 3 voire 6 ans"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:35:35+02:00"
@@ -103,7 +103,7 @@ Définir si phimosis physiologique persistant ou secondaire.
 
 ### Traitement médical
 
-En 1<sup>re</sup> intention dans le phimosis congénital avec application de **corticoïdes locaux de classe forte** couplées à des **manœuvres douces de rétraction du prépuce** (études discordantes).
+En première intention dans le phimosis congénital avec application de **corticoïdes locaux de classe forte** couplées à des **manœuvres douces de rétraction du prépuce** (études discordantes).
 
 Pourrait être utilisé sur tous les types de phimosis, donc systématiquement en 1<sup>re</sup> intention.  
 Manipulations débutées de J1 à J14 selon les études.  

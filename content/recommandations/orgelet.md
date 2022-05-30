@@ -1,23 +1,20 @@
 +++
 title = "Orgelet"
-noindex = true
 prefix = "l'"
-shortname = "Orgelet"
+description = "Recommandations pour la prise en charge d'une orgelet. Furoncle de la paupière à Staphylocoque doré avec traitement par collyre antibiotique pendant 7 jours"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-29T23:33:00+02:00
 publishdate = 2021-04-30
-lastmod = 2021-04-30
+lastmod = 2022-05-30
 specialites = ["ophtalmologie"]
 annees = "2018"
 sources = ["COUF"]
 tags = []
 anglais = ["Hordeolum externum", "sty"]
 sctid = "1489008"
-draft = false
 image = true
 imageSrc = "Andre Riemann, domaine public, via Wikimedia Commons"
-todo = ""
 +++
 
 {{%article-summary%}}
@@ -27,21 +24,21 @@ todo = ""
 
 {{%/article-summary%}}
 
-## Définition
+## Définition {.mt-5}
 
 Orgelet
 : Furoncle du bord libre de la paupière centré sur un follicule pilosébacé du cil.
 : Infection bactérienne le plus souvent à Staphylocoque doré.  
 Tuméfaction inflammatoire centrée par un point blanc.
 
-## Traitement
+## Traitement {.mt-5}
 
 - Traitement antibiotique 7 jours
 - Ne pas porter les lentilles de contact pendant toute la durée du traitement
 - Penser à rechercher un diabète en récidives fréquentes (Université St-Etienne)
 - Si échec: avis ophtalmologique
 
-### Antibiothérapie
+### Antibiothérapie {.mt-5}
 
 Antibiothérapie pendant **7 jours**.
 
@@ -57,6 +54,6 @@ Antibiothérapie pendant **7 jours**.
 > *: ne pas utiliser chez l'enfant < 8 ans, femme enceinte ou allaitante  
   **: éviter pendant la grossesse
 
-## Source
+## Source {.mt-5}
 
 [Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 84. 2017. (PDF)](http://couf.fr/wp-content/uploads/2016/03/Chapitre-18.pdf)

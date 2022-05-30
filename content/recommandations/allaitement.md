@@ -1,7 +1,7 @@
 +++
 title = "Allaitement"
 prefix = "l'"
-shortname = ""
+description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-20T18:16:14+01:00"

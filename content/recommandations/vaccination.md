@@ -23,6 +23,7 @@ todo = "texte vaccins obligatoires , choc anaphylactique, Rattrapage vaccinal ht
 - [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
 - Grossesse: rappel Coqueluche à chaque grossesse (entre 20 et 36 SA)
 - Vaccination ≥ 16 ans par IDE et pharmaciens sans ordonnance pour: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage
+- Poser une question pour un cas particulier: [Infovac App](https://app.infovac.fr/) (créer un compte)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

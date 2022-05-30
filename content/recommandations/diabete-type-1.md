@@ -2,6 +2,7 @@
 title = "Diabète de type 1"
 prefix = "le "
 synonyms = []
+description = "Recommandations pour le diagnostic, le suivi et la prise en charge du diabète type 1. Objectifs glycémiques et capteur, hypoglycémies et activité physique"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-04T19:15:12+02:00"
 publishdate = "2020-11-04"
@@ -14,7 +15,7 @@ anglais = ["Diabetes mellitus type 1"]
 sctid = "46635009"
 image = true
 imageSrc = "Illustration du diabète type 1 par macrovector / Freepik"
-todo = "EASD 2021 Fig 1 | Table 5, SFD capteur, Lighthouse texte trop petit, glucagon"
+todo = "EASD 2021 Fig 1 | Table 5, SFD capteur, glucagon"
 +++
 
 {{%article-summary%}}

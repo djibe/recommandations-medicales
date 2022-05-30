@@ -1,6 +1,7 @@
 +++
 title = "Vitamine K1"
 prefix = "la "
+description = "Recommandations pour l'administration de la vitamine K chez le nourrisson. Dose et rythme d'administration pour la prévention de la maladie hémorragique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-17T20:27:29+02:00
@@ -12,7 +13,7 @@ sources = ["SFNeonat"]
 tags = ["nourrisson"]
 anglais = ["Vitamin K"]
 sctid = "65183007"
-todo = "Noindex ?"
+image = false
 +++
 
 {{%article-summary%}}

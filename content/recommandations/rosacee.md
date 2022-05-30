@@ -1,7 +1,7 @@
 +++
 title = "Rosacée"
 prefix = "la "
-shortname = "Rosacée"
+description = "Recommandations pour la prise en charge et le diagnostic de la rosacée. Traitement par métronidazole, doxycycline, propranolol et avis dermatologique pour laser"
 synonyms = ["Couperose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-20T20:11:41+02:00
@@ -13,7 +13,6 @@ sources = ["BAD"]
 tags = []
 anglais = ["Rosacea"]
 sctid = "398909004"
-draft = false
 flowchart = true
 image = true
 imageSrc = "Rosacée papulopustuleuse avec érythème. Photo de The Thinking Doll sur Foter.com / CC BY-NC"
@@ -55,7 +54,7 @@ Le diagnostic est clinique pour ses différentes variantes cliniques.
 
 - Phototype
 - Signes différentiels  
-Applications de dermocorticoïdes, atrophie, hyperkératose, photosensibilité, comédons, squames.
+  Applications de dermocorticoïdes, atrophie, hyperkératose, photosensibilité, comédons, squames.
 
 ### Forme érythématotélangiectasique (vasculaire)
 
@@ -93,14 +92,14 @@ Corticodépendance, érythème desquamatif, grandes télangiectasies des zones p
 {{%collapse "Diagnostic différentiel" %}}
 
 - [Acné]({{< relref "acne.md" >}})  
-Adolescent, visage, cou et tronc, comédons, pas de flushs/érythème/télangiectasies, papules douloureuses.
+  Adolescent, visage, cou et tronc, comédons, pas de flushs/érythème/télangiectasies, papules douloureuses.
 - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})  
-Fréquemment associée.  
-Localisations séborrhées (scalp, rétroauriculaires, paupières, sillons nasogéniens), fond érythémateux parsemé de squames grasses.
+  Fréquemment associée.  
+  Localisations séborrhées (scalp, rétroauriculaires, paupières, sillons nasogéniens), fond érythémateux parsemé de squames grasses.
 - Lupus érythémateux  
-Pas de flushs, pas de papules/pustules, atrophie et hyperkératose, photosensibilité, vespertilio.
+  Pas de flushs, pas de papules/pustules, atrophie et hyperkératose, photosensibilité, vespertilio.
 - Syndrome carcinoïde  
-Flushs prolongés, généralisés, sévères, sudation, bronchospasme, douleurs abdominales voire diarrhées.
+  Flushs prolongés, généralisés, sévères, sudation, bronchospasme, douleurs abdominales voire diarrhées.
 - Sarcoïdose nasale
 
 {{% /collapse %}}
@@ -130,13 +129,13 @@ Selon les Annales de Dermato, intérêt de rechercher systématiquement:
 ### Forme érythémato-télangiectasique
 
 - Flush invalidants  
-Propranolol 30-120 mg/j (*[Logger 2020](https://doi.org/10.1016/j.jaad.2020.04.129)*)
+  Propranolol 30-120 mg/j (*[Logger 2020](https://doi.org/10.1016/j.jaad.2020.04.129)*)
 - Érythème facial
   - Brimonidine 0,3% gel (Mirvaso®) x 1/j (résurgence à l'arrêt)
   - {{%class%}}Oxymetazoline non disponible en France.{{%/class%}}
   - Voire laser par le dermatologue
 - Télangiectasies  
-Adresser au dermatologue pour laser ou électrocoagulation.
+  Adresser au dermatologue pour laser ou électrocoagulation.
 
 ### Forme papulopustuleuse mineure
 
@@ -144,7 +143,7 @@ Adresser au dermatologue pour laser ou électrocoagulation.
 
 **Effet indésirable:** xérose cutanée.
 
-#### Traitements de 2<sup>e</sup> intention
+#### Traitements de deuxième intention
 
 Acide azélaïque 15% gel (Finacéa®) x 2/j pendant 3 mois
 

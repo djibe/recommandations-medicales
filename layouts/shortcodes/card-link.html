@@ -13,8 +13,7 @@
   {{ $imageURL = printf "/favicon.svg" }}
 {{ end }}
 
-
-<div class="card card-body card-primary-action rounded-lg d-inline-flex flex-row mb-4" style="width: 250px">
+<div class="card card-body card-primary-action rounded-lg d-inline-flex flex-row mb-4 {{ with .Get "class" }}{{ . }}{{ end }}" style="width: 250px">
   <img class="mr-4 card-icon rounded-circle" src="{{ $imageURL }}" {{with .Get "subtitle" }}alt="Logo de {{.}}"{{else}}alt="Logo RecoMédicales"{{end}} loading="lazy" decoding="async">
   <div>
     <h3 class="typography-body-2 font-weight-bold"><a href="{{ .Get "url" }}" rel="external nofollow noopener" class="stretched-link text-reset">{{ .Get "title" }}</a></h3>
