@@ -147,7 +147,7 @@ Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 ### Patients à risque de décès par asthme
 
 - Mauvais contrôle sur les 12 derniers mois  
-Hospitalisation, urgences, corticoïdes oraux.
+  Hospitalisation, urgences, corticoïdes oraux.
 - Antécédent d'asthme aigu grave avec intubation/VNI
 - Absence de traitement par {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}}, {{< modal-btn modal-observance >}}mauvaise observance{{< /modal-btn >}} du CSI
 - Absence de plan d'action écrit contre l'asthme
@@ -177,14 +177,14 @@ Revoir la *maîtrise de l'asthme*:
     - Plan d'action écrit contre l'asthme
     - Tabagisme
     - Exposition aux fumées  
-    Sprays ménagers, fumée de tabac, échappements de véhicules, BTP, peintures, parfums, huiles essentielles.
+      Sprays ménagers, fumée de tabac, échappements de véhicules, BTP, peintures, parfums, huiles essentielles.
     - Contrôle des allergènes  
-    Pollens, poussière, literie avec textiles anti-acariens, éviction tapis-moquettes, animaux en extérieur, contrôle de l'humidité intérieure.
+      Pollens, poussière, literie avec textiles anti-acariens, éviction tapis-moquettes, animaux en extérieur, contrôle de l'humidité intérieure.
     - Confirmation des allergies alimentaires
     - Contrôle de comorbidités  
-    Rhinite, sinusite, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), obésité, anxiété, dépression.
+      Rhinite, sinusite, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), obésité, anxiété, dépression.
     - Grossesse  
-    Suivi toutes les 4-6 semaines et supplémentation en vitamine D (*GINA 2021*).
+      Suivi toutes les 4-6 semaines et supplémentation en vitamine D (*GINA 2021*).
     - Problèmes socio-économiques
     - EFR au moins annuelles
 
@@ -200,12 +200,12 @@ Très haut sur et sous-diagnostic de la maladie.
     - Déclenchement à l'activité physique, au rire, par les allergènes ou le froid
     - Déclenchement ou aggravation par des infections virales
 2. **Observation d'une limitation variable du débit expiratoire**
-    - Obtenir une courbe VEMS1/CVF inférieure à la normale (0,75-0,8; 0,85 chez l'enfant)
+    - Obtenir une courbe VEMS1/CVF inférieure à la normale (0,75 - 0,8 ; 0,85 chez l'enfant)
     - Réversibilité sous bronchodilatateurs (VEMS1 augmente de > 200 mL et > 12%)  
-    Si non concluant: répéter en cas de symptômes, > 12h après l'interruption des médicaments (24h si action très prolongée)
+      Si non concluant: répéter en cas de symptômes, > 12h après l'interruption des médicaments (24h si action très prolongée) et la mesure du monoxyde d'azote dans l'air expiré (FeNO)
     - Augmentation du VEMS1 après 1 mois de CSI (VEMS1 augmente de > 12%)
     - La variabilité quotidienne moyenne du DEP diurne est > 10% (> 13% chez l'enfant)  
-    Moyenne sur 1 ou 2 semaines.
+      Moyenne sur 1 ou 2 semaines.
     - Le diagnostic est d'autant plus probable si la variabilité est importante et fréquente
     - Il peut être nécessaire de répéter les tests lorsque les symptômes sont présents, en début de matinée ou après une interruption des bronchodilatateurs
 
@@ -224,18 +224,18 @@ Réévaluer l'efficacité du traitement initial à 2-3 mois.
 
 - Antécédents
   - Allergiques  
-  Pollens, poussières, poils d'animaux, humidité-moisissures, acariens (tapis-moquettes), sulfites, insectes, substances végétales.
+    Pollens, poussières, poils d'animaux, humidité-moisissures, acariens (tapis-moquettes), sulfites, insectes, substances végétales.
   - Atopiques  
-  Dermatite atopique, rhinite allergique (80%).
+    Dermatite atopique, rhinite allergique (80%).
   - Gaz  
-  Sprays ménagers, fumée de tabac, échappements de véhicules, BTP, peintures, parfums, huiles essentielles.
+    Sprays ménagers, fumée de tabac, échappements de véhicules, BTP, peintures, parfums, huiles essentielles.
   - Respiratoires  
-  Toux à l'effort par temps froid et sec ++
+    Toux à l'effort par temps froid et sec ++
   - Pathologies: [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}).
 - Antécédents familiaux  
-Atopiques, maladies respiratoires.
+  Atopiques, maladies respiratoires.
 - Profession  
-Chômage, boulangerie-pâtisserie, industrie alimentaire, coiffure, taxi, ambulance, auto-école, forain.
+  Chômage, boulangerie-pâtisserie, industrie alimentaire, coiffure, taxi, ambulance, auto-école, forain.
 - Expositions domestiques, professionnelles/scolaires
   - Amélioration en vacances
   - {{%class%}}15-20% des asthmes de l'adulte sont liés à une exposition professionnelle. (*SPF*){{%/class%}}
@@ -243,7 +243,7 @@ Chômage, boulangerie-pâtisserie, industrie alimentaire, coiffure, taxi, ambula
 - Symptômes des 4 dernières semaines
   - Variabilité en intensité
   - Variabilité dans le temps  
-  Aggravation la nuit ou au petit matin ++
+    Aggravation la nuit ou au petit matin ++
   - **Toux spasmodique**
   - **Sibilants, wheezing répétés** voire à l'effort
   - **Dyspnée** ou gêne respiratoire
@@ -258,7 +258,7 @@ Chômage, boulangerie-pâtisserie, industrie alimentaire, coiffure, taxi, ambula
   - Suivi médical
 - Exacerbation
   - Facteur déclenchant  
-  Virose, allergène, fumée, exercice, stress, traitement (BB, aspirine, AINS).
+    Virose, allergène, fumée, exercice, stress, traitement (BB, aspirine, AINS).
 
 En gras, les symptômes clés de l'asthme.
 
@@ -295,6 +295,7 @@ Selon le terrain:
 - Obésité
 - Pathologie ostéoarticulaire ou musculaire
 - Dysfonction des cordes vocales
+{.list-group}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -314,7 +315,7 @@ Au diagnostic.
 
 - NFS
 - Gaz du sang  
-Adulte avec VEMS < 50%, discordance symptômes-VEMS
+  Adulte avec VEMS < 50%, discordance symptômes-VEMS
 
 ### Consultations spécialisées
 
@@ -342,7 +343,7 @@ Utiliser une chambre d'inhalation si adaptable sur le dispositif.
 - Augmenter le traitement de contrôle en cours:
   - {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}}: quadrupler la dose
   - {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}}: quadrupler la dose (max 72 µg/g)  
-  Si utilisé aussi comme traitement de secours: conserver la dose de fond, augmenter la dose en secours (max 72 µg/g)  
+    Si utilisé aussi comme traitement de secours: conserver la dose de fond, augmenter la dose en secours (max 72 µg/g)  
   - {{< modal-btn modal-ttt-laba-csi >}}Autre LABA + CSI{{< /modal-btn >}}: passer à la dose supérieure ou ajouter un {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} seul pour quadrupler la dose
 - Corticostéroïdes oraux (CSO)  
   - Adulte: prednisone 40-50 mg/j pendant 5-7 jours
@@ -461,6 +462,7 @@ Conduite à tenir:
 - {{< modal-btn modal-observance >}}Vérifier l'observance{{< /modal-btn >}}
 - Vérifier la [technique d'inhalation](https://splf.fr/videos-zephir/)
 - Croyances à l'égard de l'asthme et des médicaments
+{.list-group}
 
 ### Asthme parfaitement contrôlé
 

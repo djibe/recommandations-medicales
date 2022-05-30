@@ -194,7 +194,7 @@ Trame des éléments à relever pour un dossier médical complet.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Vaccination Covid-19, grippe, pneumocoque
 - Dépistage de la [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})  
-  Au diagnostic puis annuel pendant 5 ans *(ISPAD 2018)[https://cdn.ymaws.com/www.ispad.org/resource/resmgr/consensus_guidelines_2018_/19.other_complications_and_a.pdf]*.
+  Au diagnostic puis annuel pendant 5 ans (*[ISPAD 2018](https://cdn.ymaws.com/www.ispad.org/resource/resmgr/consensus_guidelines_2018_/19.other_complications_and_a.pdf))*.
 - Dépistage du retentissement psychologique  
   Score WHO-5, PAID, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}} ou GAD-7 (anxiété)  
   {{%class%}}Dépression et anxiété x2, commentaires de l'entourage.{{%/class%}}
@@ -228,7 +228,7 @@ Adulte: aiguilles de 4 mm avec injection à 90°.
 
 {{< table title="Classification de l'hypoglycémie selon ADA/EASD 2021" >}}
 | Niveau | Intervalle glycémique (mg/dL)       | Signification      |
-|-------:|------------------------------------:|--------------------|
+|:------:|------------------------------------:|--------------------|
 | 1      | 54 - 70                             | Seuil d'alerte     |
 | 2      | ≤ 43                                | Sérieuse           |
 | 3      | Complications mentales ou physiques | Sévère, nécessité de tiers |
@@ -252,7 +252,7 @@ Les hypoglycémies peuvent aussi être subdivisées selon qu'elles sont **sympto
 Diabète ancien, âge avancé, hypoglycémies sévères récentes, **alcool** (et tout toxique), activité physique, bas niveau socio-économique, insuffisance rénale, **altération de la perception des hypoglycémies** ({{%lang%}}impaired awareness of hypoglycaemia - IAH{{%/lang%}}, le facteur majeur est la survenue répétée d'hypos et est réversible).
 
 Altération de la perception des hypoglycémies
-: {{%lang%}}impaired awareness of hypoglycaemia - IAH{{%/lang%}}
+: En anglais: {{%lang%}}impaired awareness of hypoglycaemia - IAH{{%/lang%}}
 : Le facteur majeur est la survenue répétée d'hypoglycémies.  
 La sensibilité aux hypos peut être restaurée en évinçant leur survenue.
 
