@@ -14,7 +14,7 @@ anglais = ["Diabetes mellitus type 1"]
 sctid = "46635009"
 image = true
 imageSrc = "Illustration du diabète type 1 par macrovector / Freepik"
-todo = "EASD 2021 Fig 1 | Table 5, objectifs DT1, Lighthouse texte trop petit, glucagon"
+todo = "EASD 2021 Fig 1 | Table 5, SFD capteur, Lighthouse texte trop petit, glucagon"
 +++
 
 {{%article-summary%}}
@@ -187,10 +187,7 @@ Trame des éléments à relever pour un dossier médical complet.
   L'objectif de LDL dépend du {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}
 - Activité physique  
   **Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire.
-- Cible d'HbA<sub>1c</sub> personnalisée  
-  - Globalement < 7% chez l'adulte (sans hypoglycémies profondes) voire moins
-  - Ce qui correspond à une glycémie pré-prandiale: 80 - 130 mg/dL
-  - Glycémies post-prandiales 1-2h après le début du repas: < 180 mg/dL
+- {{< modal-btn modal-hba1c-dt1 >}}Cible d'HbA<sub>1c</sub> personnalisée + pré et post-prandiales{{< /modal-btn >}} (globalement 7%)
 - Surpoids  
   Négocier une perte de poids (5-10%). Un accompagnement spécialisé permet une baisse d'HbA<sub>1c</sub> 1 à 1,9%.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
@@ -289,6 +286,11 @@ Pour la conduite, contrôle glycémique avant la conduite puis toutes les 2 heur
 - [IDF. Oral health for people with diabetes. 2009. (PDF)](https://www.idf.org/component/attachments/attachments.html?id=729&task=download)
 
 {{%/sources%}}
+{{% modal title="Objectifs glycémiques du DT1 (ADA/EASD 2021)" id="modal-hba1c-dt1"%}}
+
+{{< clinique/objectifs-hba1c-dt1 >}}
+
+{{% /modal %}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}
 
 {{< traitements/regime-mediterraneen >}}
