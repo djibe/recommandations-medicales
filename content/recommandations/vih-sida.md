@@ -24,13 +24,14 @@ todo = "relecture CNS, TPE, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://
 
 - Dépister largement (gratuit sans ordonnance depuis 1/1/22)
 - Répéter le dépistage chez les populations à risque, conseils de prévention et transmission
-- Toute personne exposée au VIH est éligible à la PrEP (gratuite), prescriptible par tout médecin
 - PCR + sérologie VIH (répéter à 1 mois) devant: fièvre ou fatigue inexpliquées, exanthème fébrile de l'adulte, zona de l'adulte jeune ...
 - Dépistages de comorbidités et vaccinations spécifiques
 - Observance et suivi spécialisé
 - Maladie à [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
 - Aide à la consultation: [VIHclic](https://vihclic.fr/)
 - Rappels du dépistage pour le patient: [JeMeDépiste.com](https://jemedepiste.com/)
+
+[Chapitre sur la PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}}): Toute personne exposée au VIH est éligible à la PrEP (gratuite), prescriptible par tout médecin
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -43,7 +44,7 @@ Le VIH a la capacité de rentrer dans le noyau cellulaire et de s'intégrer dans
 
 Syndrome d'immunodéficience acquise (SIDA)
 : Dernier stade de l'infection par le VIH avec disparition des cellules immunitaires CD4+ donnant lieu à des infections opportunistes mortelles, souvent lorsque le taux CD4 est < 200/mm³.  
-Délai contamination-Sida d'environ **10 ans**.
+Délai contamination - Sida d'environ **10 ans**.
 
 ### Abréviations
 
@@ -57,13 +58,13 @@ IST
 : infection sexuellement transmissible
 
 PrEP
-: prophylaxie pré-exposition
+: [prophylaxie pré-exposition]({{< relref "prophylaxie-preexposition-prep.md" >}})
 
 PVVIH
 : personne vivant avec le VIH
 
 TDS
-: travailleurs du sexe
+: travailleur du sexe
 
 TPE
 : traitement post-exposition
@@ -255,7 +256,7 @@ Annonce faite par le médecin qui a prescrit le test au cours d'une consultation
 
 Rythme de dépistage des [IST](/tags/ist/) au cours du VIH:
 
-- *Chlamydia* et gonocoque selon le contexte
+- *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* et gonocoque selon le contexte
 - [Hépatite C]({{< relref "hepatite-c.md" >}}) tous les 3 à 6 mois
 - [Syphilis]({{< relref "syphilis.md" >}}) tous les 3 à 6 mois
 
@@ -408,7 +409,7 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 - Glycémie à jeun annuelle
 - Bilan lipidique tous les 5 ans
 - Charge virale et CD4 selon le spécialiste
-- NFS, transaminases et autres selon le traitement
+- NFS, ASAT, ALAT et autres selon le traitement
 
 {{% /collapse %}}
 {{%sources%}}

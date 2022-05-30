@@ -9,70 +9,110 @@ date = "2022-05-30T10:49:36+02:00"
 publishdate = "2022-05-30"
 lastmod = "2022-05-30"
 specialites = ["infectiologie", "therapeutique"]
-annees = "2020"
+annees = "2022"
 sources = ["CNS", "HAS"]
 tags = ["HSH", "IST", "VIH"]
 anglais = []
-sctid = ""
-draft = true
-image = false
-imageSrc = ""
-todo = ""
+sctid = "1137457009"
+image = true
+imageSrc = "Illustration de la PrEP par pikisuperstar / Freepik"
+todo = "Graphique"
 +++
 
 {{%article-summary%}}
 
 - Toute personne avec au moins 2 rapports non protégés en 6 mois est éligible à la PrEP (toute personne exposée au VIH)
 - La PrEP est gratuite et prescriptible par tout médecin
+- Vérifier les contre-indications et réaliser le bilan pré-thérapeutique
+- Emtricitabine/Ténofovir disoproxil 200/245 mg 1 cp par jour à heure fixe pendant le repas. Délai de 7 jours avant le premier rapport sexuel à protéger
+- Arrêt du traitement: 1 cp par jour pendant **7 jours** après le dernier rapport non protégé puis arrêt
+- Schéma discontinu possible (voir *Prescrire la PrEP*)
 
 Chapitre lié: [VIH et SIDA]({{< relref "vih-sida.md" >}})
 
 {{%/article-summary%}}
-{{%collapse "La PrEP, pour qui ?" %}}
+{{%collapse "Définitions" %}}
 
-### Indications à la PrEP
+### Abréviations
+
+HSH
+: homme ayant des rapports sexuels avec des hommes
+
+IST
+: infection sexuellement transmissible
+
+PrEP
+: prophylaxie pré-exposition
+
+PVVIH
+: personne vivant avec le VIH
+
+TDS
+: travailleur du sexe
+
+TPE
+: traitement post-exposition
+
+UDI
+: usager de drogues par injection
+
+VIH
+: virus de l'immunodéficience humaine
+{.dl-inline}
+
+{{% /collapse %}}
+{{%collapse "La PrEP, pour qui ?" %}}
 
 {{%info%}}
 Toutes les personnes exposées au VIH (message simplifié: au moins 2 rapports non protégés en 6 mois) doivent être informées qu'elles peuvent en bénéficier et qu'elle est très efficace pour se prémunir d'une infection à VIH.
 
 La PrEP doit être couplée au *préservatif* pour prévenir les [IST](/tags/ist/) et les grossesses non désirées.
 
-<< Tout médecin peut faire la première prescription et le renouvellement de la PrEP >> (HAS 2021). Sinon adresser en {{< references/cegidd >}}, *COREVIH* régional ou centre spécialisé.
+<< Tout médecin peut faire la première prescription et le renouvellement de la PrEP >> (*HAS 2021*). Sinon adresser en {{< references/cegidd >}}, *COREVIH* régional ou centre spécialisé.
 {{%/info%}}
 
-{{< card-link title="La PrEP et ses enjeux" url="https://www.formaprep.org" subtitle="MOOC gratuit">}}
+{{< card-link title="La PrEP et ses enjeux" url="https://www.formaprep.org" subtitle="MOOC gratuit" class="my-4">}}
 
-### Indications à la PrEp (HAS 2021)
+### Indications à la PrEP
 
 Chez le plus de 15 ans:
 
 - Toute situation jugée à risque par le médecin
-- HSH, transgenres ou bisexuels avec expositions VIH actuelles, antérieures ou futures
+- [HSH](/tags/hsh/), transgenres ou bisexuels avec expositions VIH actuelles, antérieures ou futures
 - Hétérosexuels (F/H) avec:
   - Forte prévalence ou forte exposition  
-  Afrique subsaharienne, Caraïbes, Amérique du Sud, partenaires multiples, travailleurs du sexe (TDS), sexe transactionnel.
+    Afrique subsaharienne, Caraïbes, Amérique du Sud, partenaires multiples, travailleurs du sexe (TDS), sexe transactionnel.
   - Contexte relationnel  
-  Partenaire de statut VIH inconnu ou à risque, vivant avec PVVIH de charge non contrôlée ou inconnue, femme enceinte avec exposition ou violences sexuelles, frein du partenaire pour le préservatif.
+    Partenaire de statut VIH inconnu ou à risque, vivant avec PVVIH de charge non contrôlée ou inconnue, femme enceinte avec exposition ou violences sexuelles, frein du partenaire pour le préservatif.
   - Forte exposition au VIH  
-  Refus du préservatif, autres IST/IVG, antériorité de traitement post-exposition (TPE).
+    Refus du préservatif, autres IST/IVG, antériorité de traitement post-exposition (TPE).
   - Usagers de drogues intraveineuses (UDI)  
-  Partenaire de statut inconnu ou VIH+, échange du matériel.
+    Partenaire de statut inconnu ou VIH+, échange du matériel.
+
+> *HAS 2021*
 
 {{%info%}}La PrEP n'est pas indiquée pour le conjoint d'un couple stable exclusif avec charge virale indétectable depuis > 6 mois{{%/info%}}
 
-Possible si: infection VHB (avis gastro), grossesse ou allaitement avec suivi coordonné, contraception hormonale.
+Possible si: [infection VHB]({{< relref "hepatite-b.md" >}}) (avis gastro), grossesse ou allaitement avec suivi coordonné, [contraception hormonale]({{< relref "contraception.md" >}}).
 
-### Contre-indications à la PrEp
+{{% /collapse %}}
+{{%collapse "Contre-indications" %}}
+
+{{%warning%}}
+
+### Contre-indications à la PrEP
 
 - PVVIH
 - Statut VIH inconnu
 - Signes ou symptômes de primo-infection VIH
 - Insuffisance rénale modérée (< 60 mL/min)
 - Hypersensibilité au traitement
+{{%/warning%}}
 
-### Bilan pré-thérapeutique
+{{% /collapse %}}
+{{%collapse "Bilan pré-thérapeutique de la PrEP" %}}
 
-En l'absence de suspicion de primo-infection VIH:
+Bilan avant l'instauration de la PrEP, en l'absence de suspicion de primo-infection VIH:
 
 - Sérologie VIH
 - Ag HBs, anticorps anti-HBc, anticorps anti-HBs
@@ -84,25 +124,28 @@ En l'absence de suspicion de primo-infection VIH:
   - ALAT
   - Femme: ßHCG
 
-### Prescription de la PrEP
+{{% /collapse %}}
+{{%collapse "Prescrire la PrEP" %}}
 
 Prescription initiale pour 1 mois, puis renouvellement tous les 3 mois:
 
 {{%info%}}
 [Emtricitabine/Ténofovir disoproxil 200/245 mg](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) 1 cp par jour à heure fixe pendant le repas.
-{{%/info%}}
 
 Délai de 7 jours avant le premier rapport sexuel à protéger  
 ou dose de charge pour une protection dès J1: 2 cp en 1 prise entre 2 et 24h avant le rapport à protéger puis rythme standard.
+{{%/info%}}
 
-- Avis infectiologique si co-infection VHB
+Considérations associés:
+
+- Avis infectiologique si [co-infection VHB]({{< relref "hepatite-b.md" >}})
 - Éviter au maximum les néphrotoxiques (AINS)
 - Absence d'interactions avec contraceptifs, antidépresseurs, alcool et psychoactifs
 - Adolescent: intérêt de suivi en {{< references/cegidd >}} pour anonymat et suivi rapproché spécialisé
 
-Traitement **gratuit**, à obtenir en {{< references/cegidd >}} en l'absence de couverture Maladie.
+Traitement **gratuit**, à obtenir en {{< references/cegidd >}} en l'absence d'Assurance Maladie.
 
-#### Schéma discontinu (hors AMM)
+### Schéma discontinu de la PrEP (hors AMM)
 
 Possible chez l'HSH voire en 2<sup>e</sup> intention chez l'homme hétérosexuel (en l'absence d'hépatite B active):
 
@@ -110,7 +153,17 @@ Emtricitabine/Ténofovir disoproxil 200/245 mg 2 cp en 1 prise entre 2-24h avant
 
 Si rapports répétés: poursuivre à 1 cp/j jusqu'à 2j après le dernier rapport.
 
-### Suivi de la PrEP
+### Arrêt de la PrEP
+
+Rappeler l'importance du préservatif et des dépistages répétés des IST.
+
+- Schéma continu  
+  1 cp par jour pendant **7 jours** après le dernier rapport non protégé puis arrêt.
+- Schéma discontinu  
+  Minimum 1 cp par jour pendant **2 jours** après le dernier rapport non protégé puis arrêt.
+
+{{% /collapse %}}
+{{%collapse "Suivi de la PrEP" %}}
 
 {{< table title="Suivi de la PrEP préconisé par la HAS 2021" >}}
 | Période | Bilan       | Remarque   |
@@ -124,18 +177,10 @@ Si rapports répétés: poursuivre à 1 cp/j jusqu'à 2j après le dernier rappo
 > Sites de dépistage des IST gono + chlam selon les pratiques  
 *Sérologie VHC plus fréquente si UDI, chemsex ou pratiques traumatisantes
 
-### Arrêt de la PrEP
-
-Rappeler l'importance du préservatif et des dépistages répétés des IST.
-
-- Schéma continu  
-1 cp par jour pendant **7 jours** après le dernier rapport non protégé puis arrêt.
-- Schéma discontinu  
-Minimum 1 cp par jour pendant **2 jours** après le dernier rapport non protégé puis arrêt.
-
 **NB.** Suivi spécialisé si hépatite B active.
 
-### Ressources patient
+{{% /collapse %}}
+{{%collapse "Ressources patients" %}}
 
 - Lieux: [Réseau de Santé Sexuelle Publique](https://www.santesexuelle.org/), COREVIH, {{< references/cegidd >}}
 - Sites: [PrEP info](http://prep-info.fr/), [Sida Info Service](https://www.sida-info-service.org/dossier-la-prep/)
