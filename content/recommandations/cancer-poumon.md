@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T17:35:52+02:00"
 publishdate = "2022-05-12"
-lastmod = "2022-05-15"
+lastmod = "2022-05-31"
 specialites = ["pneumologie"]
 annees = "2022"
 sources = ["HAS", "SPLF", "ERS"]
@@ -160,9 +160,9 @@ La SPLF, au vu des données de recherche, est favorable au dépistage ciblé du 
   - Symptômes évocateurs de cancer (hémoptysie, amaigrissement, infection pulmonaire récente)
 {{%/info%}}
 
-Et pour une personne vivant avec le VIH (PVVIH):
+Et pour une [personne vivant avec le VIH]({{< relref "vih-sida.md" >}}) (PVVIH) avec symptôme parmi:
 
-- Toux persistante
+- [Toux persistante](/tags/toux/)
 - Hémoptysie
 - Douleur chronique
 - Altération de l'état général

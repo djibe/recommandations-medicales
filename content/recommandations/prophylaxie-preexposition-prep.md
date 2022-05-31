@@ -2,7 +2,7 @@
 title = "Prophylaxie pré-exposition PrEP"
 titleSeo = "Prophylaxie pré-exposition PrEP"
 prefix = "la "
-description = "TODO:"
+description = "Recommandations pour la prescription de la PrEP (prophylaxie pré-exposition). Pour toutes les personnes exposées au VIH par Truvada, bilan pré-thérapeutique ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-30T10:49:36+02:00"
@@ -16,7 +16,7 @@ anglais = []
 sctid = "1137457009"
 image = true
 imageSrc = "Illustration de la PrEP par pikisuperstar / Freepik"
-todo = "Graphique"
+todo = "descr, à lire, Graphique"
 +++
 
 {{%article-summary%}}
@@ -49,9 +49,6 @@ PVVIH
 
 TDS
 : travailleur du sexe
-
-TPE
-: traitement post-exposition
 
 UDI
 : usager de drogues par injection
