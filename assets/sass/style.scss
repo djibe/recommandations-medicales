@@ -142,6 +142,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
+  overflow: scroll;
   video {
     max-width: 100%;
   }

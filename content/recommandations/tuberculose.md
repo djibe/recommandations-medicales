@@ -1,21 +1,21 @@
 +++
 title = "Tuberculose"
 prefix = "la "
-description = "TODO:"
+description = "Recommandations pour la prise en charge de la tuberculose. Adresser au CLAT en suspicion, indications au BCG, suivi sous traitement antituberculeux"
 synonyms = ["Bacille de Koch"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-06-03T15:14:20+02:00
-publishdate = 2020-06-03
-lastmod = 2022-04-27
+date = "2020-06-03T15:14:20+02:00"
+publishdate = "2020-06-03"
+lastmod = "2022-04-27"
 specialites = ["infectiologie", "pneumologie"]
-annees = "2021"
+annees = "2017"
 sources = ["HAS", "MinSanté", "CMIT"]
 tags = ["fatigue", "fievre", "sueurs nocturnes", "toux", "vaccin"]
 anglais = ["Tuberculosis"]
 sctid = "56717001"
 image = true
 imageSrc = "Jeune femme de 20 ans avec toux chronique et perte de poids. Cas clinique par Dr Hani Makky Al Salam, Radiopaedia.org, rID: 12437"
-todo = "Pilly 2020, à lire, lecture tubertest, KEY: maladie, lutte contre la tuberculose, infection tuberculeuse, organisation mondiale, traitement de la tuberculose, tuberculose pulmonaire, infection tuberculeuse latente, mycobacterium tuberculosis"
+todo = "A LIRE, lecture tubertest, KEY: maladie, lutte contre la tuberculose, infection tuberculeuse, organisation mondiale, traitement de la tuberculose, tuberculose pulmonaire, infection tuberculeuse latente, mycobacterium tuberculosis"
 +++
 
 {{%article-summary%}}
@@ -24,9 +24,10 @@ todo = "Pilly 2020, à lire, lecture tubertest, KEY: maladie, lutte contre la tu
 - [Maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
 
 {{%/article-summary%}}
-{{%collapse "Vaccination" %}}
+{{%collapse "Vaccination BCG" %}}
 
-Le vaccin (BCG AJVaccines®) est disponible uniquement en centre de vaccination, PMI ou CLAT.
+Le vaccin BCG (BCG AJVaccines®) est disponible uniquement en centre de vaccination, PMI ou CLAT.  
+Il est réalisé à partir de 1 mois, idéalement à **2 mois**.
 
 ### Indications au BCG en 2022
 
@@ -42,11 +43,9 @@ Vacciner les enfants dans l'ordre suivant, en priorité les < 5 ans:
 - 2<sup>e</sup> niveau: enfant < 5 ans habitant en Île-de-France
 - 3<sup>e</sup> niveau: enfant de 5 à 15 ans avec facteur de risque de tuberculose identifié (après test tuberculinique)
 
-Vaccination réalisée à partir de 1 mois, idéalement à **2 mois**.
-
 Pour les professionnels de santé: évaluation de l'exposition au cas par cas par la *médecine du travail*.
 
-**Contre-indications au BCG:** PVVIH, chimiothérapie, corticoïdes.
+**Contre-indications au BCG:** [VIH]({{< relref "vih-sida.md" >}}), chimiothérapie, corticoïdes.
 
 ### Pays de forte endémie tuberculeuse
 
@@ -66,17 +65,17 @@ Pour les professionnels de santé: évaluation de l'exposition au cas par cas pa
 {{%collapse "Suivi thérapeutique de la tuberculose" %}}
 
 {{< table title="Examens de suivi de la tuberculose maladie" >}}
-| Délai | Consultation | BK  | Radio | BH  | Bio | Opht |
-|:-----:|:------------:|:---:|:-----:|:---:|:---:|:----:|
-|  J0   | X            | X   | X     | X   | X   | X    |
-|  J15  | X            | X   |       | X   | X   |      |
-|  J30  | X            |     | X     | X   | X   |  X   |
-| 2 mois | X           | X   | X     | X   | Si anomalie précédente   | X |
-| 4 mois | X           |     |       |     | Si anomalie précédente   |  |
-| 6 mois | X           | X   | X     |     | Si anomalie précédente   |  |
-| 9 mois | X           |     | X     |     |     |      |
-| 12 mois | X          |     | X     |     |     |      |
-| 18 mois | X          |     | X     |     |     |      |
+| Délai   | Consultation | BK  | Radio | BH  | Bio | Opht |
+|:-------:|:------------:|:---:|:-----:|:---:|:---:|:----:|
+|  J0     | X            | X   | X     | X   | X   | X    |
+|  J15    | X            | X   |       | X   | X   |      |
+|  J30    | X            |     | X     | X   | X   |  X   |
+| 2 mois  | X            | X   | X     | X   | Si anomalie précédente   | X |
+| 4 mois  | X            |     |       |     | Si anomalie précédente   |  |
+| 6 mois  | X            | X   | X     |     | Si anomalie précédente   |  |
+| 9 mois  | X            |     | X     |     |     |      |
+| 12 mois | X            |     | X     |     |     |      |
+| 18 mois | X            |     | X     |     |     |      |
 {{< /table >}}
 
 > **Légende**  
@@ -85,14 +84,14 @@ Pour les professionnels de santé: évaluation de l'exposition au cas par cas pa
   Opht (Examen ophtalmologique)
 
 {{%/collapse%}}
-{{%collapse "Cas contact de tuberculose" %}}
+{{%collapse "Conduite à tenir devant un cas contact de tuberculose" %}}
 
 Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre de Lutte AntiTuberculeuse* (CLAT) départemental.
 
 {{< iframe url="https://splf.fr/clat/" title="SPLF: Liste des centres de lutte AntiTuberculeuse">}}
 
 {{%/collapse%}}
-{{%collapse "Informations du patient" %}}
+{{%collapse "Informations du patient avec la tuberculose" %}}
 
 [HAS. ALD n°29 - Guide patient: Comprendre la tuberculose](https://www.has-sante.fr/jcms/c_609444/fr/ald-n-29-guide-patient-comprendre-la-tuberculose)
 

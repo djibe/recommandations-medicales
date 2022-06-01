@@ -24,7 +24,7 @@ title = "Recommandations Médicales"
 [params]
   author = "Jean-Baptiste FRON"
   dateFormat = "02/01/2006"
-  description = "Les dernières recommandations médicales adaptées pour la pratique en médecine générale. Bilan de première intention, prise en charge, arbre décisionnel et score"
+  description = "Les dernières recommandations médicales de prise en charge pour la pratique en médecine générale. Bilan de première intention, arbre décisionnel et scores"
   github = "https://github.com/djibe/recommandations-medicales"
   githubUser = "djibe"
   facebook = "https://www.facebook.com/RecoMedicales"

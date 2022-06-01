@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-30T10:49:36+02:00"
 publishdate = "2022-05-30"
-lastmod = "2022-05-30"
+lastmod = "2022-06-01"
 specialites = ["infectiologie", "therapeutique"]
 annees = "2022"
 sources = ["CNS", "HAS"]
@@ -25,7 +25,7 @@ todo = "descr, à lire, Graphique"
 - Toute personne avec au moins 2 rapports non protégés en 6 mois est éligible à la PrEP (toute personne exposée au VIH)
 - La PrEP est gratuite et prescriptible par tout médecin
 - Vérifier les contre-indications et réaliser le bilan pré-thérapeutique
-- Emtricitabine/Ténofovir disoproxil 200/245 mg 1 cp par jour à heure fixe pendant le repas. Délai de 7 jours avant le premier rapport sexuel à protéger
+- Emtricitabine/Ténofovir disoproxil 200/245 mg (Truvada) 1 cp par jour à heure fixe pendant le repas. Délai de 7 jours avant le premier rapport sexuel à protéger
 - Arrêt du traitement: 1 cp par jour pendant **7 jours** après le dernier rapport non protégé puis arrêt
 - Schéma discontinu possible (voir *Prescrire la PrEP*)
 
@@ -100,7 +100,7 @@ Possible si: [infection VHB]({{< relref "hepatite-b.md" >}}) (avis gastro), gros
 
 ### Contre-indications à la PrEP
 
-- PVVIH
+- [VIH - Sida]({{< relref "vih-sida.md" >}})
 - Statut VIH inconnu
 - Signes ou symptômes de primo-infection VIH
 - Insuffisance rénale modérée (< 60 mL/min)
@@ -128,10 +128,13 @@ Bilan avant l'instauration de la PrEP, en l'absence de suspicion de primo-infect
 Prescription initiale pour 1 mois, puis renouvellement tous les 3 mois:
 
 {{%info%}}
-[Emtricitabine/Ténofovir disoproxil 200/245 mg](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) 1 cp par jour à heure fixe pendant le repas.
+[Emtricitabine/Ténofovir disoproxil 200/245 mg](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) (Truvada)  
+1 cp par jour à heure fixe pendant le repas.
 
-Délai de 7 jours avant le premier rapport sexuel à protéger  
-ou dose de charge pour une protection dès J1: 2 cp en 1 prise entre 2 et 24h avant le rapport à protéger puis rythme standard.
+Délai de 7 jours avant le premier rapport sexuel à protéger
+
+OU dose de charge pour une protection dès J1:  
+2 cp en 1 prise entre 2 et 24h avant le rapport à protéger puis rythme standard
 {{%/info%}}
 
 Considérations associés:
@@ -147,7 +150,11 @@ Traitement **gratuit**, à obtenir en {{< references/cegidd >}} en l'absence d'A
 
 Possible chez l'HSH voire en 2<sup>e</sup> intention chez l'homme hétérosexuel (en l'absence d'hépatite B active):
 
-Emtricitabine/Ténofovir disoproxil 200/245 mg 2 cp en 1 prise entre 2-24h avant le rapport à protéger, puis 1 cp 24h (± 2h) après, à renouveler à 48h (± 2h).
+{{%info%}}
+[Emtricitabine/Ténofovir disoproxil 200/245 mg](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) (Truvada)  
+2 cp en 1 prise entre 2 et 24 heures avant le rapport à protéger,  
+puis 1 cp 24h (± 2h) après, à renouveler à 48h (± 2h)
+{{%/info%}}
 
 Si rapports répétés: poursuivre à 1 cp/j jusqu'à 2j après le dernier rapport.
 
@@ -192,22 +199,35 @@ Rappeler l'importance du préservatif et des dépistages répétés des IST.
 {{% /collapse %}}
 {{%collapse "Prise en charge avec la PrEP" "show" %}}
 
-{{< mermaid title="XXX. Dr JB Fron d'après XX" >}}
-journey
-  title Schéma continu
-  section Initiation de PrEP
-    J1: 20: Emtricitabine
-  section 1er rapport
-    J8: 20: Emtricitabine
-  section Long cours
-    1 cp/j: 20: Emtricitabine  
+{{< mermaid title="Instauration de la PrEP en continu. Dr JB Fron d'après HAS 2021" >}}
+%%{init: { 'gitGraph': { 'mainBranchName': 'Continu' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
+gitGraph
+  commit id: "J1" tag: "Initiation"
+  commit id: " "
+  commit id: "  "
+  commit id: "   "
+  commit id: "    "
+  commit id: "     "
+  commit id: "      "
+  commit id: "J8" tag: "1er rapport"
+  commit id: "1 cp/j" tag: "Poursuite"
 {{< /mermaid >}}
 
-{{< mermaid title="XX. Dr JB Fron d'après XX" >}}
-    gitGraph
-      commit id: "Initiation" tag: "J1"
-      commit id: "1er rapport" tag: "J8"
-      commit id: "1 cp/j" tag: "Long cours"
+{{< mermaid title="Instauration de la PrEP en continu avec démarrage immédiat. Dr JB Fron d'après HAS 2021" >}}
+%%{init: { 'gitGraph': { 'mainBranchName': 'Rapide' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
+gitGraph
+  commit id: "H0" tag: "2 cp"
+  commit id: "H2-H24" tag: "1er rapport"
+  commit id: "1 cp/j" tag: "Poursuite"
+{{< /mermaid >}}
+
+{{< mermaid title="Utilisation de la PrEP en schéma discontinu (hors AMM). Dr JB Fron d'après HAS 2021" >}}
+%%{init: { 'gitGraph': { 'mainBranchName': 'Discontinu' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
+gitGraph
+  commit id: "H-2 à -24" tag: "2 cp"
+  commit id: " " tag: "Rapport"
+  commit id: "H24 ± 2" tag: "1 cp"
+  commit id: "H48 ± 2" tag: "1 cp"
 {{< /mermaid >}}
 
 {{%/collapse%}}
@@ -223,3 +243,8 @@ journey
 - <https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil>
 
 {{%/sources%}}
+{{% modal title="Clairance selon Cockroft" id="modal-score-cockroft"%}}
+
+{{< scores/cockroft >}}
+
+{{% /modal %}}

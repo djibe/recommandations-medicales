@@ -115,16 +115,14 @@ document.addEventListener( 'DOMContentLoaded', event => {
   // https://mermaid-js.github.io/mermaid/#/Setup?id=fontfamily
   const MermaidConfig = {
     fontFamily: 'Roboto',
-    fontSize: '1rem',
     defaultLinkColor: '#4150f5',
     nodeBorder: '#fff',
     nodeTextColor: '#212121',
-    // logLevel: 1,
-    startOnLoad: true,
+    logLevel: 1,
     securityLevel: 'loose',
+    // theme: 'default',
     themeCSS: '.node rect, .node polygon {stroke-width: 0;} .edgePath {opacity: 0.3 !important} .edgePath .path {stroke-width: 2px;}',
     flowchart: {
-      curve: 'Basis',
       htmlLabels: true,
       nodeSpacing: 30,
       rankSpacing: 40,
