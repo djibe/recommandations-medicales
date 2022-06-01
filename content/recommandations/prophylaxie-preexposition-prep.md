@@ -17,7 +17,7 @@ sctid = "1137457009"
 flowchart = true
 image = true
 imageSrc = "Illustration de la PrEP par pikisuperstar / Freepik"
-todo = "descr, à lire, Graphique"
+todo = "à lire"
 +++
 
 {{%article-summary%}}
