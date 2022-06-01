@@ -2,12 +2,12 @@
 title = "Spondylarthrite ankylosante"
 prefix = "la "
 titleSeo = "Spondylarthrite ankylosante"
-description = "Actualisation des recommandations pour la prise en charge des spondylarthrites. Bilan avec radiographie et IRM des sacro-iliaques. Traitement AINS ou biothérapie"
+description = "Actualisation des recommandations pour la prise en charge des spondylarthrites. Bilan avec radiographie et IRM sacro-iliaque. Traitement AINS ou biothérapie"
 synonyms = ["Spondyloarthrite"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-10-15T20:39:41+02:00
-publishdate = 2020-10-15
-lastmod = 2022-05-10
+date = "2020-10-15T20:39:41+02:00"
+publishdate = "2020-10-15"
+lastmod = "2022-05-10"
 specialites = ["rhumatologie"]
 annees = "2022"
 sources = ["SFRhumato", "EULAR"]

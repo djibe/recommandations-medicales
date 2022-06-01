@@ -1,14 +1,14 @@
 +++
 title = "Hépatite C"
 prefix = "l'"
-description = "Recommandations AFEF pour la prise en "
+description = "Recommandations AFEF et HAS pour la prise en charge de l'hépatite C. Dépistage, bilan pré-thérapeutique et prescription des antiviraux Epclusa sofosbuvir ..."
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Comité de l'AFEF"
-date = 2020-09-06T20:18:41+02:00
-publishdate = 2020-09-06
-lastmod = 2022-03-29
+date = "2020-09-06T20:18:41+02:00"
+publishdate = "2020-09-06"
+lastmod = "2022-06-01"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["AFEF", "HAS"]
@@ -27,7 +27,7 @@ todo = "symptômes/fatigue, signes d'insuffisance hépatique, signes de cirrhose
 Adaptation des recommandations de l'AFEF et HAS pour la prise en charge simplifiée de l'hépatite C par le médecin généraliste
 
 - Maladie guérissable (> 90%)
-- Dépister largement (voir *Qui dépister?*) car sous-diagnostiquée
+- Dépister largement car sous-diagnostiquée (voir *Qui dépister?*)
 - Tout médecin peut prescrire les antiviraux pour la guérison
 - Évaluation des comorbidités, interactions médicamenteuses et de la fibrose avant le traitement
 - Traitement par Epclusa® ou Maviret® pendant respectivement 12 ou 8 semaines
@@ -56,6 +56,9 @@ HSH
 TROD
 : test rapide d'orientation diagnostique
 
+VHB
+: virus de l'hépatite B
+
 VHC
 : virus de l'hépatite C
 {.dl-inline}
@@ -66,7 +69,7 @@ VHC
 
 - Décès: 2700 morts/an
 - Sous-diagnostic: 1 personne sur 2 n'est pas diagnostiquée
-- 75 000 personnes non diagnostiquées en 2014  
+- 75.000 personnes non diagnostiquées en 2014  
   {{%class%}}Chez les 18-80 ans contre 101.000 en 2004.{{%/class%}}
 
 #### L'hépatite C dans le monde
@@ -99,7 +102,7 @@ VHC
 - Tatouage, piercing, mésothérapie, acupuncture
 - Immigré, soigné ou séjour prolongé en zone d'endémie (Égypte, Pakistan, Europe de l'Est et méditerranéenne, Afrique et Asie)
 - ALAT élevées sans cause connue
-- [VIH+]({{< relref "vih-sida.md" >}}) ou VHB+
+- [VIH+]({{< relref "vih-sida.md" >}}) ou [VHB+]({{< relref "hepatite-b.md" >}})
 - Professionnel de santé lors d'un AES
 
 {{% /collapse %}}
@@ -124,16 +127,18 @@ VHC
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Sérologie hépatite C et co-infections VHB et VIH
+### Sérologie hépatite C et co-infections hépatite B et VIH
 
-{{%warning%}}Le dépistage VHB-VHC-VIH doit être combiné (*AFEF*){{%/warning%}}
+{{%warning%}}Le dépistage VHB - VHC - VIH doit être combiné (*AFEF*){{%/warning%}}
 
 Sérologie VHC ([Remb. 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=3784&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)):
 
-- Positive  
-  Nécessité de sérologie de contrôle et charge virale (RT-PCR) VHC.
-- Négative  
-  Pas d'infection par le VHC, sauf infection récente ou immunodépression sévère (voir Conduite à tenir).
+Sérologie positive  
+: Nécessité de sérologie de contrôle et charge virale (RT-PCR) VHC.
+
+Sérologie négative  
+: Pas d'infection par le VHC, sauf infection récente ou immunodépression sévère (voir Conduite à tenir).
+{.dl-inline}
 
 Ou TROD VHC au plus près du patient (remboursé à 100%).
 
@@ -170,11 +175,11 @@ Test non invasif en 1<sup>re</sup> intention:
   - Fibroscan® le plus proche: appeler {{<phone>}}0 800 004 372{{</phone>}}
 - Tests sanguins
   - FibroTest®  
-  Absence de maladie sévère si résultat ≤ 0,58.  
-  [Remb. 100% en ALD x 1/an](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=1000&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
+    Absence de maladie sévère si résultat ≤ 0,58.  
+    [Remb. 100% en ALD x 1/an](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=1000&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
   - Fibromètre®  
-  Absence de maladie sévère si résultat ≤ 0,786.  
-  [Remb. 100% en ALD x 1/an](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=1001&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
+    Absence de maladie sévère si résultat ≤ 0,786.  
+    [Remb. 100% en ALD x 1/an](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=1001&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
 
 Mentionner sur l'ordonnance << hépatite chronique C non traitée >>.
 
@@ -193,7 +198,7 @@ Prise en charge de l'hépatite C par antiviraux à action directe possible par t
 - Absence d'insuffisance rénale sévère
 - Absence de comorbidité hépatique mal contrôlée
 - Absence de maladie hépatique sévère  
-{{%class%}}Objectivée par Fibroscan®, FibroTest® ou Fibromètre®.{{%/class%}}
+  {{%class%}}Objectivée par Fibroscan®, FibroTest® ou Fibromètre®.{{%/class%}}
 - Bilan clinique et complémentaire sans anomalie majeure (voir *Clinique* et *Examens complémentaires*)
 
 ### Mesures générales
@@ -214,30 +219,30 @@ Prise en charge de l'hépatite C par antiviraux à action directe possible par t
   - Pas de partage des rasoirs, brosse à dent.
   - Matériel à usage unique en cas d'acte invasif (drogue IV).
 
-### Antiviraux à Action Directe (AAD) du VHC
+### Antiviraux à Action Directe (AAD) de l'hépatite C
 
 {{%info%}}Epclusa® 400/100 mg 1 cp par jour pendant 12 semaines  
 ou Maviret® 3cp en 1 prise par jour, pendant le repas, pendant 8 semaines.{{%/info%}}
 
-**Tout médecin peut prescrire les antiviraux**.  
-Mesure de la charge virale obligatoire avant de débuter le traitement.  
-Taux de guérison > 90%.
+**Tout médecin peut prescrire les antiviraux de l'hépatite C**.  
+Mesure de la charge virale obligatoire avant de débuter le traitement.
 
-2 schémas thérapeutiques au choix:
+2 schémas thérapeutiques au choix (guérison > 90%):
 
 - [Epclusa®](https://ec.europa.eu/health/documents/community-register/2020/20200825148798/anx_148798_fr.pdf) (sofosbuvir + velpastavir)  
 Epclusa® 400/100 mg 1 cp par jour pendant 12 semaines.
 - [Maviret®](https://ec.europa.eu/health/documents/community-register/2020/20200303147380/anx_147380_fr.pdf) (glécaprévir + pibrentasvir)  
-Maviret® 100/40 mg 3 cp en 1 prise quotidienne lors d'un repas pendant 8 semaines.
+Maviret® 100/40 mg 3 cp en 1 prise quotidienne lors d'un repas pendant 8 semaines
 
 **Effets indésirables principaux:** asthénie, céphalées, nausées d'intensité modérée, atteignant 10% des patients.
 
 {{%info%}}
-Contrôle de la charge virale VHC 12 semaines après la fin du traitement.  
-**NB.** Persistance des anticorps après la guérison.
+Contrôle de la charge virale VHC 12 semaines après la fin du traitement:
 
 - Charge virale négative: Patient guéri
 - Charge virale positive: Adresser au spécialiste
+
+**NB.** Persistance des anticorps anti-VHC après la guérison
 {{%/info%}}
 
 {{% /collapse %}}

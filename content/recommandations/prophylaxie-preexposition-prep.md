@@ -14,6 +14,7 @@ sources = ["CNS", "HAS"]
 tags = ["HSH", "IST", "VIH"]
 anglais = []
 sctid = "1137457009"
+flowchart = true
 image = true
 imageSrc = "Illustration de la PrEP par pikisuperstar / Freepik"
 todo = "descr, à lire, Graphique"
@@ -189,6 +190,27 @@ Rappeler l'importance du préservatif et des dépistages répétés des IST.
 {{< card-link title="La PrEP et ses enjeux" url="https://www.formaprep.org/" subtitle="Le MOOC gratuit par FormaPrEP">}}
 
 {{% /collapse %}}
+{{%collapse "Prise en charge avec la PrEP" "show" %}}
+
+{{< mermaid title="XXX. Dr JB Fron d'après XX" >}}
+journey
+  title Schéma continu
+  section Initiation de PrEP
+    J1: 20: Emtricitabine
+  section 1er rapport
+    J8: 20: Emtricitabine
+  section Long cours
+    1 cp/j: 20: Emtricitabine  
+{{< /mermaid >}}
+
+{{< mermaid title="XX. Dr JB Fron d'après XX" >}}
+    gitGraph
+      commit id: "Initiation" tag: "J1"
+      commit id: "1er rapport" tag: "J8"
+      commit id: "1 cp/j" tag: "Long cours"
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [HAS. Réponses rapides dans le cadre de la COVID-19 - Prophylaxie (PrEP) du VIH par ténofovir disoproxil / emtricitabine dans le cadre de l'urgence sanitaire. 28/04/2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-04/reco_435__reponse_rapide_prep_au_vih_150421_cd_vudoc_am_pg_vd_mel_v0.pdf)

@@ -17,7 +17,7 @@ anglais = ["Asthma"]
 sctid = "195967001"
 image = true
 imageSrc = "Illustration de l'asthme par brgfx / Freepik"
-todo = "Applis Effic'Asthme, doses Symbicort turbuhaler, GINA 2021 p21, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique, formaldéhyde"
+todo = "vaccins pneumocoque, A LIRE - doses Symbicort turbuhaler, GINA 2021 p21, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique, formaldéhyde"
 +++
 
 {{%article-summary%}}

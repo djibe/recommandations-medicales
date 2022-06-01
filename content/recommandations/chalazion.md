@@ -5,7 +5,7 @@ description = "Recommandations pour le traitement du chalazion, infection d'une 
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-29T23:34:00+02:00"
 publishdate = "2021-04-30"
-lastmod = "2022-03-18"
+lastmod = "2022-05-31"
 specialites = ["ophtalmologie"]
 annees = "2018"
 sources = ["COUF"]
@@ -29,12 +29,12 @@ Article lié: [Orgelet]({{< relref "orgelet.md" >}})
 Chalazion
 : Granulome inflammatoire se développant sur une *glande de Meibomius* avec occlusion du canal excréteur.  
 Stagnation des sécrétions sébacées le plus souvent sans surinfection bactérienne.
-: Tuméfaction douloureuse de la paupière sans communication avec le bord libre. Évolution sur plusieurs semaines.
+: Tuméfaction ± douloureuse de la paupière sans communication avec le bord libre. Évolution sur plusieurs semaines.
 
 ## Traitement du chalazion {.mt-5}
 
 - Soins de paupières  
-Humidification à l'eau chaude puis massages avec le doigt, de la base vers le bord libre pour drainer les sécrétions.
+  Humidification à l'eau chaude puis massages avec le doigt, de la base vers le bord libre pour drainer les sécrétions.
 - Éviter le port de lentilles pendant toute la durée du traitement
 - Avis ophtalmologique si persistance après 7-14 jours
 
@@ -57,6 +57,13 @@ Vérifier la monographie car contre-indications spécifiques pour chaque spécia
 > *: contre-indiqué chez femme enceinte ou allaitante  
   **: éviter chez le nourrisson  
   ***: contre-indiqué chez enfant < 8 ans ET grossesse/allaitement
+
+{{< youtube id="vji5gGRZfSo" title="Traitement du chalazion (DOCTEUR VIDEO)" >}}
+
+#### Chalazion enkysté
+
+Forme enkystée: incision de la glande de Meibomius par l'ophtalmologue sous anesthésie locale.  
+En cas de saignement post-interventionnel: compression simple pendant quelques minutes.
 
 ## Source {.mt-5}
 

@@ -54,6 +54,8 @@ Antibiothérapie pendant **7 jours**.
 > *: ne pas utiliser chez l'enfant < 8 ans, femme enceinte ou allaitante  
   **: éviter pendant la grossesse
 
+Forme enkystée d'orgelet: incision du bord libre par l'ophtalmologue sous anesthésie locale.
+
 ## Source {.mt-5}
 
 [Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 84. 2017. (PDF)](http://couf.fr/wp-content/uploads/2016/03/Chapitre-18.pdf)

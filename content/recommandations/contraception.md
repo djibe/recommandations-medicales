@@ -17,7 +17,7 @@ sctid = "13197004"
 chart = true
 image = true
 imageSrc = "La contraception illustrée par stories / Freepik"
-todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, 5% dev HTA sous COP ESC 2018, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, barrière, contraception et HTA ESC 2018, 360medics, inducteur enz p9, cat vmts et diarrhées p9, contraception définitive"
+todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, barrière, contraception et HTA ESC 2018, 360medics, inducteur enz p9, cat vmts et diarrhées p9, contraception définitive"
 +++
 
 {{%article-summary%}}
@@ -27,6 +27,8 @@ todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult 
 - [QuestionSexualité_ - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)
 - Contraceptions très efficaces de 1<sup>re</sup> intention: COP, DIU, implant
 - Informer sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
+
+Article lié: [acné]({{< relref "acne.md" >}}), [ménopause]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -161,9 +163,9 @@ Nécessité d'une consultation dédiée pour la primo-prescription, renouvelée 
 
 - Âge
 - Antécédents personnels  
-{{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé{{< /modal-btn >}}, HTA, dyslipidémie, diabète type 1, migraine (préciser l'aura), thrombophilie, cancer (du sein), MVTE, IST, GEU, chirurgie.
+  {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé{{< /modal-btn >}}, HTA, dyslipidémie, diabète type 1, migraine (préciser l'aura), thrombophilie, cancer (du sein), MVTE, IST, GEU, chirurgie.
 - Antécédents familiaux au 1<sup>er</sup> degré  
-IDM/AVC chez homme < 55 ans ou femme < 65 ans, MVTE (TVP, EP) < 50 ans ou épisodes répétés quelque soit le degré.
+  IDM/AVC chez homme < 55 ans ou femme < 65 ans, MVTE (TVP, EP) < 50 ans ou épisodes répétés quelque soit le degré.
 - Traitements en cours
 - Tabac
 - Profession
@@ -184,10 +186,11 @@ IDM/AVC chez homme < 55 ans ou femme < 65 ans, MVTE (TVP, EP) < 50 ans ou épiso
 ### Examen clinique
 
 - Poids, taille, IMC
-- Pression artérielle
+- Pression artérielle  
+  {{%class%}}5% développent une [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) sous COP (*ESC 2018*){{%/class%}}
 - Examen des seins
 - Examen gynécologique  
-N'est pas nécessaire pour la 1<sup>re</sup> consultation (sauf symptôme ou antécédent).
+  N'est pas nécessaire pour la 1<sup>re</sup> consultation (sauf symptôme ou antécédent).
 - {{%modal-btn "modal-hyperandrogenie"%}}Signes d'hyperandrogénie{{%/modal-btn%}}
 - Frottis selon le rythme du dépistage à partir de 25 ans
 - Recherche [Chlamydia]({{< relref "chlamydia-trachomatis.md" >}}) chez 15-25 ans ou partenaires multiples
