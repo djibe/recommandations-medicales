@@ -2,7 +2,7 @@
 title = "Prophylaxie pré-exposition PrEP"
 titleSeo = "Prophylaxie pré-exposition PrEP"
 prefix = "la "
-description = "Recommandations pour la prescription de la PrEP (prophylaxie pré-exposition). Pour toutes les personnes exposées au VIH par Truvada®, bilan pré-thérapeutique ..."
+description = "Recommandations pour la prescription de la PrEP (prophylaxie pré-exposition). Pour toutes les personnes exposées au VIH par Truvada, bilan pré-thérapeutique ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-30T10:49:36+02:00"
