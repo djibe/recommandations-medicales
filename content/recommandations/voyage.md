@@ -72,7 +72,7 @@ Certains vaccins peuvent être obligatoires pour entrer dans le pays, ils néces
 
 Se référer à la page dédiée à chaque maladie pour en savoir plus (ex. [fièvre jaune]({{< relref "fievre-jaune.md" >}}), [hépatite A]({{< relref "hepatite-a.md" >}}), [paludisme]({{< relref "paludisme.md" >}}), ...).
 
-{{< card-link title="Vaccins recommandés et prévention palustre selon l'Institut Pasteur pour un voyage" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
+{{< card-link title="Vaccins recommandés et prévention palustre" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
 
 {{< card-link title="Vaccins et conseils par pays" url="https://www.diplomatie.gouv.fr/fr/dossiers-pays/" subtitle="France Diplomatie" image="ministere" >}}
 
@@ -134,5 +134,9 @@ Numéro vert: 0800 130 000
 
 - Sites mentionnés au sein du chapitre concerné
 - [Haut Conseil de la Santé Publique. Recommandations sanitaires 2020 pour les voyageurs. 19/05/2020.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=829)
+
+### À lire
+
+[Haut Conseil de la Santé Publique. Recommandations sanitaires 2022 pour les voyageurs. 14/04/2022.](https://www.santepubliquefrance.fr/determinants-de-sante/voyage/documents/magazines-revues/bulletin-epidemiologique-hebdomadaire-2-juin-2022-n-hors-serie-recommandations-sanitaires-pour-les-voyageurs-2022-a-l-attention-des-professionn)
 
 {{%/sources%}}

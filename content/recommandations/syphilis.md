@@ -6,11 +6,11 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-02T08:27:41+02:00"
 publishdate = "2020-09-02"
-lastmod = "2021-08-19"
+lastmod = "2022-06-02"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2016"
 sources = ["SFDermato", "SPILF"]
-tags = ["depistage", "HSH", "IST", "VIH"]
+tags = ["depistage", "HSH", "IST", "prevention", "VIH"]
 anglais = ["Syphilis"]
 sctid = "76272004"
 flowchart = true
@@ -22,7 +22,7 @@ todo = "Prescrire cite la ceftriaxone IM 1g/j 10 à 14j"
 - Évoquer un chancre devant toute ulcération génitale
 - Traiter comme une syphilis tardive quand la date de contamination n'est pas connue
 - Diagnostic par positivité de la sérologie syphilitique
-- Sérologies des autres [IST](/tags/ist/)
+- Sérologies des autres [IST](/tags/ist/) et dépistage des partenaires
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -82,7 +82,7 @@ Recommandations pour le dépistage répété des personnes à risque:
 - Grossesse
 - 1<sup>re</sup> consultation avec personne jeune, population à risque, antécédent d'IST
 - Vulnérabilité  
-Parcours sentimental ou addictions.
+  Parcours sentimental ou addictions.
 - **[HSH]({{< relref "hsh.md" >}}) avec rapports non protégés**
 - Prisonnier
 - Prostitué&bull;e
@@ -102,7 +102,7 @@ Parcours sentimental ou addictions.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-### Syphilis primaire = C
+### Syphilis primaire = Chancre
 
 Le chancre est constant mais non vu en atteinte profonde (cervico-vaginale, rectale, pharyngée).  
 Lésion unique, muqueuse, indurée, indolore, superficielle, propre et très contagieuse mais peut prendre tout autre aspect. Cicatrisation complète sans cicatrice.  
@@ -120,21 +120,19 @@ Inconstante (1/3 des patients), survient en cas de syphilis primaire non traité
 
 Atteinte cutanée préférentielle:
 
-- 1<sup>re</sup> floraison: **roséole syphilitique**  
-Discrètes macules rosées non prurigineuses des tronc, cou, racine des membres. Épargne le visage.  
-Régression en 1-2 mois sans séquelles
-- 2<sup>e</sup> floraison: **syphilides** cutanées papulo-squameuses  
-Papules non prurigineuses, rouge brun, collerette squameuse (de Biett) des visages, OGE, palmo-plantaire symétrique.  
-Évolution par poussées.
+- Première floraison: **roséole syphilitique**
+  - Discrètes macules rosées non prurigineuses des tronc, cou, racine des membres. Épargne le visage
+  - Régression en 1-2 mois sans séquelles
+- Deuxième floraison: **syphilides** cutanées papulo-squameuses
+  - Papules non prurigineuses, rouge brun, collerette squameuse (de Biett) des visages, OGE, palmo-plantaire symétrique
+  - Évolution par poussées
 
 **Toutes les lésions élémentaires dermatologiques sont possibles au cours de la syphilis, sauf vésicules et bulles.**  
 Ex: Dépilation des sourcils, lésions d'aspect séborrhéiques des sillons naso-géniens, papules acnéiformes du menton, alopécie en petite plaques
 
-**Lésions prédominantes sur tronc et visage**, prurit rare.
+**Lésions prédominantes sur tronc et visage**, prurit rare. Atteintes muqueuses fréquentes.
 
 **Lésions contagieuses si excoriées**.
-
-Atteintes muqueuses fréquentes.
 
 #### Autres signes
 
@@ -162,6 +160,7 @@ Nombreux diagnostics différentiels, c'est pourquoi on appelle la syphilis la "g
 - Lichen
 - Psoriasis et parapsoriasis en goutte
 - [Varicelle]({{< relref "varicelle.md" >}})
+{.list-group}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -207,17 +206,17 @@ Recommandations pour la prise en charge de la syphilis.
 
 ### Syphilis précoce
 
-{{%info%}}Benzathine pénicilline G (BPG) 2,4 MU en dose unique IM{{%/info%}}
+{{%info%}}Benzathine pénicilline G (BPG, Extencilline®) 2,4 MU en dose unique IM{{%/info%}}
 
 - Paracétamol systématique  
   Informer sur la réaction d'Herxeimer.
 - Antibiotique
-  - Benzathine pénicilline G (benzathine benzylpénicilline, BPG) 2,4 MU voie intramusculaire dans la fesse ou cuisse face latérale OU 2 injections IM de 1,2 MU
+  - Benzathine pénicilline G (benzathine benzylpénicilline BPG) 2,4 MU voie intramusculaire dans la fesse ou cuisse face latérale OU 2 injections IM de 1,2 MU
   - Administration intra-musculaire exclusivement
   - Garder le patient sous surveillance pendant 30 minutes en présence de matériel d'urgence
   - **Contre-indications:** allergie bêtalactamines, anticoagulants
 - Dépistage des contacts  
-  Notification des partenaires des 3 mois précédents.
+  Notification des partenaires des **3 mois précédents**.
 
 {{%info%}}Affirmer la guérison est impossible, nécessité de surveiller les patients pendant plusieurs années.  
 Répéter le suivi sérologique dans les populations à risque (contaminées ou non){{%/info%}}
@@ -244,7 +243,7 @@ Répéter le suivi sérologique dans les populations à risque (contaminées ou 
 
 Traitement d'une syphilis de plus d'un an ou ancienneté non connue:
 
-{{%info%}}1 injection de Benzathine pénicilline G (BPG) 2,4 MU IM par semaine pendant 3 semaines{{%/info%}}.
+{{%info%}}1 injection de Benzathine pénicilline G (BPG Extencilline®) 2,4 MU IM par semaine pendant 3 semaines{{%/info%}}.
 
 - Femme enceinte: Pas d'alternative à la pénicilline G  
   Désensibilisation si nécessaire.
@@ -292,12 +291,12 @@ Contrôles du VDRL:
 - Juste avant le début du traitement
 - 3 mois
 - 6 mois  
-Cible: taux divisé par 4.  
-Évoquer échec du traitement ou recontamination si taux hors cible (voir plus bas).  
+  Cible: taux divisé par 4.  
+  Évoquer échec du traitement ou recontamination si taux hors cible (voir plus bas).  
 - 12 mois  
-Négatif si primaire.
+  Négatif si primaire.
 - Puis 1/an jusqu'à négativation  
-Négatif à 2 ans si secondaire.
+  Négatif à 2 ans si secondaire.
 
 **NB.** La décroissance du VDRL dans la syphilis latente précoce (ou en cas de recontamination) n'est pas franche pour 1/4 des patients.
 
@@ -313,7 +312,7 @@ On parle de **recontamination** lorsque le VDRL est multiplié d'un facteur ≥ 
 Dans ce cas:
 
 - Recommencer le traitement d'une syphilis tardive  
-1 injection de Benzathine pénicilline G (BPG) 2,4 MU IM par semaine pendant 3 semaines
+  1 injection de Benzathine pénicilline G (BPG) 2,4 MU IM par semaine pendant 3 semaines
 - Sérologie VIH
 - Adresser en dermatologie pour ponction lombaire  
 {{%class%}}Recherche d'une neurosyphilis.{{%/class%}}
@@ -335,7 +334,7 @@ graph TB
   chancre[Chancre] -- Syphilis primaire --> ttt("VDRL, sérologies IST<br>BPG 2,4 MU IM unique<br>Paracétamol<br>Dépistage contacts &lt; 3 mois")
   style chancre stroke:#4150f5, stroke-width:1px
     ttt --> surv("- Clinique<br>- VDRL M3, M6, M12")
-      surv -. "Échec" .-> echec(Adresser infectiologue)
+      surv -. Échec .-> echec(Adresser infectiologue)
   clinique["Lésions suspectes<br>Dépistage IST"] -- Sérologie + --> anciennete("Date de contamination<br>connue ?")
   style clinique stroke:#4150f5, stroke-width:1px
     anciennete -- Oui --> adapte("Schéma BPG adapté<br>(unique ou 1/sem 3 sem)<br>Dépistage contacts adapté") --> surv

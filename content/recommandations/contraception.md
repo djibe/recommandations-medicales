@@ -17,7 +17,7 @@ sctid = "13197004"
 chart = true
 image = true
 imageSrc = "La contraception illustrée par stories / Freepik"
-todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, barrière, contraception et HTA ESC 2018, 360medics, inducteur enz p9, cat vmts et diarrhées p9, contraception définitive"
+todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, 360medics, inducteur enz p9, cat vmts et diarrhées p9, contraception définitive"
 +++
 
 {{%article-summary%}}
@@ -27,6 +27,7 @@ todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult 
 - [QuestionSexualité_ - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)
 - Contraceptions très efficaces de 1<sup>re</sup> intention: COP, DIU, implant
 - Informer sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
+- Pas d'interaction DIU et AINS
 
 Article lié: [acné]({{< relref "acne.md" >}}), [ménopause]({{< relref "menopause.md" >}})
 
@@ -144,7 +145,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 {{< /table >}}
 
 > **EE** = éthinyl-estradiol ; **gén** = générique ; **LNG** = lévonorgestrel ; **NR** = non remboursé. Les pilules de 1<sup>re</sup> génération ne sont plus disponibles en France.  
-Ne sont pas listées: les 3<sup>e</sup>et 4<sup>e</sup> générations ainsi que le DMPA qui augmentent le risque vasculaire. Autres: diaphragme, capes cervicales (NR), spermicides (NR), retrait, stérilisation, Ogino.
+Ne sont pas listées: les 3<sup>e</sup> et 4<sup>e</sup> générations ainsi que le DMPA qui augmentent le risque vasculaire. Autres: diaphragme, capes cervicales (NR), spermicides (NR), retrait, stérilisation, Ogino.
 
 Les générations de pilules œstroprogestatives correspondent à la date de mise sur le marché du progestatif (P3: desogestrel, gestodène et norgestimate; P4: drospirénone). **Utiliser LNG et norgestimate en première intention**, les 3<sup>e</sup> et 4<sup>e</sup> doublant le risque de MVTE (*HAS 2013*).  
 Pas d'arrêt brutal d'une contraception de 3-4<sup>e</sup> génération bien tolérée.
@@ -274,28 +275,29 @@ Symptômes cataméniaux, ménorragies fonctionnelles, [endométriose]({{< relref
 ### Les dispositifs intra-utérins
 
 - Contraception la moins chère (28,37€ pour 5 ans)
+- Pas de contre-indication aux AINS avec les DIU
 - Cotation CCAM
   - Pose du stérilet JKLD001 (38,40 €)
   - Ablation non cotée sauf remplacement du stérilet JKKD001 (38,40 €)
 - Seuls le toucher vaginal avec examen bimanuel et l'inspection cervicale sont formellement recommandés avant la pose d'un DIU
 - Informer sur la modification des saignements selon le stérilet
 - Pas de dépistage systématique des IST avant la pose  
-Dépistage des IST si à risque (notamment [Ct]({{< relref "chlamydia-trachomatis.md" >}}) chez les 15-25 ans ou partenaires multiples non protégés).  
-Le jour de la prescription voire avant la pose.
+  Dépistage des IST si à risque (notamment [Ct]({{< relref "chlamydia-trachomatis.md" >}}) chez les 15-25 ans ou partenaires multiples non protégés).  
+  Le jour de la prescription voire avant la pose.
 - Peut être posé à n'importe quel moment du cycle (en l'absence de grossesse)
 - Couper les fils à 2-3 cm de leur saillie  
-Ou plus courts si gênants.
+  Ou plus courts si gênants.
 - Préciser la date du retrait
 - Contrôle annuel de la visibilité des fils
 - Un antécédent de GEU n'est pas une contre-indication
 - Métrorragies ou douleurs pelviennes persistantes:  
-Échographie ± ASP.
+  Échographie ± ASP.
 - Grossesse (intra-utérine) sur DIU  
-Le retirer si les fils sont accessibles.
+  Le retirer si les fils sont accessibles.
 - IST ou infection génitale haute  
-Pas de retrait d'emblée.
+  Pas de retrait d'emblée.
 - VIH pré-SIDA  
-Le stérilet n'augmente pas le risque de progression du virus ni le risque de transmission au partenaire.
+  Le stérilet n'augmente pas le risque de progression du virus ni le risque de transmission au partenaire.
 
 {{%info%}}
 La contraception intra-utérine ne constitue pas un facteur de risque de grossesse extra-utérine (GEU)
@@ -330,10 +332,10 @@ Méthode MAMA: voir *Contraception selon le profil > Post-partum*
 Les préservatifs sont les seules barrières contre les IST. Informer sur la *Contraception d'urgence*.
 
 - Physique  
-Préservatif masculin/féminin, cape cervicale ou diaphragme.
+  Préservatif masculin/féminin, cape cervicale ou diaphragme.
   - Cape/diaphragme doivent être laissés en place ≥ 6 heures après le rapport et combinés avec spermicides.
 - Chimique = spermicides  
-Efficacité seuls est faible.
+  Efficacité seuls est faible.
 - Associées
 
 {{% /collapse %}}
@@ -408,6 +410,8 @@ Habituelle avec COP de 2<sup>e</sup> génération.
 
 Proposer:
 
+- Lévonorgestrel
+- Puis norgestimate
 - Changement de contraception
 - COP triphasique avec 35 µg d'EE et norgestimate: Triafemi (non remboursée)
 
@@ -446,7 +450,7 @@ Migraines cataméniales sous COP, proposer au choix:
 {{% /collapse %}}
 {{%collapse "Interactions médicamenteuses" %}}
 
-{{%info%}}Pas de contre-indication aux AINS avec le DIU cuivre{{%/info%}}
+{{%info%}}Pas de contre-indication aux AINS avec le DIU cuivre (*CNGOF 2018*){{%/info%}}
 
 Contrôler les interactions médicamenteuses en cas de cotraitement.
 

@@ -36,13 +36,13 @@ Articles liés: [vitamine D]({{< relref "vitamine-d.md" >}}), [ostéoporose]({{<
 Intolérance au lactose
 : Syndrome clinique causé par une réduction ou la perte d'activité (< 50%) de l'enzyme jéjunale lactase-phlorizine hydrolase, souvent au cours de l'enfance voire chez l'adulte jeune selon les origines. La persistance de lactose non dégradé a un effet osmotique et déclenche une fermentation bactérienne.
 
-### Épidémiologie
+### Épidémiologie de l'intolérance au lactose
 
 Prévalence mondiale disparate, une sélection critique semble avoir eu lieu en Europe du Nord.
 
-- Prévalence mondiale (57-65%)
-  - Europe 28% (Scandinavie 2% et Italie du Sud 70%), Amérique 50%, Asie 70%, Afrique 100%
-  - USA: blanc 15%, mexicain 53%, afro-américain 80%
+- Prévalence mondiale: 57-65%
+- Europe 28% (Scandinavie 2% et Italie du Sud 70%), Amérique 50%, Asie 70%, Afrique 100%
+- USA: blanc 15%, mexicain 53%, afro-américain 80%
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -63,8 +63,7 @@ Autres signes:
 - Retentissement sur la qualité de vie
   - {{< modal-btn modal-had >}}Anxiété, dépression{{< /modal-btn >}}
   - [Fatigue](/tags/fatigue/)
-- Troubles alimentaires  
-  Liés à un fractionnement.
+- Troubles alimentaires (par fractionnement)
 - Symptômes extra-digestifs
   - Troubles mnésiques
   - [Céphalées](/tags/cephalees/)

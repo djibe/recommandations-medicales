@@ -118,9 +118,8 @@ document.addEventListener( 'DOMContentLoaded', event => {
     defaultLinkColor: '#4150f5',
     nodeBorder: '#fff',
     nodeTextColor: '#212121',
-    logLevel: 1,
+    // logLevel: 1, // debug
     securityLevel: 'loose',
-    // theme: 'default',
     themeCSS: '.node rect, .node polygon {stroke-width: 0;} .edgePath {opacity: 0.3 !important} .edgePath .path {stroke-width: 2px;}',
     flowchart: {
       htmlLabels: true,
@@ -129,16 +128,14 @@ document.addEventListener( 'DOMContentLoaded', event => {
     }
   }
 
-  window.onload = () => { mermaid.initialize(MermaidConfig) }
+  window.addEventListener('load', () => mermaid.initialize(MermaidConfig))
 </script>
 {{- end -}}
 
 {{- with .Params.slider }}
 <script src="https://cdn.jsdelivr.net/npm/ion-rangeslider/js/ion.rangeSlider.min.js" crossorigin defer></script>
 <script>
-  window.addEventListener('load', function() {
-  $('.slider-default').ionRangeSlider()
-  })
+  window.addEventListener('load', () => $('.slider-default').ionRangeSlider())
 </script>
 
 {{- end -}}

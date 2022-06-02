@@ -1,11 +1,11 @@
 +++
 title = "Acné"
 prefix = "l'"
-description = "TODO:"
+description = "Recommandations pour la prise en charge de l'acné. Traitement des formes minimes à sévères, inflammatoires ou rétentionnelles. Rétinoïdes ..."
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-27T21:48:41+02:00"
 publishdate = "2020-07-27"
-lastmod = "2020-08-14"
+lastmod = "2022-06-02"
 specialites = ["dermatologie"]
 annees = "2017"
 sources = ["SFDermato", "HAS"]
@@ -15,24 +15,49 @@ sctid = "11381005"
 image = true
 imageSrc = "Photo d'acné par profeticsbeta sur Foter.com / CC BY-NC-SA"
 flowchart = true
-todo= "flowchart, outil, intol lactose catanzaro 2021, soriatane contra 3 ans après arrêt, A LIRE + PRESCRIRE"
+todo= "flowchart, outil, A LIRE + PRESCRIRE"
 +++
 
 {{%article-summary%}}
 
-TODO:
+- Mesures d'hygiène
+- Rétinoïdes tératogènes
+- Topiques
+  - Rétentionnelle: adapalène 0,1% crème x 1/j 3 mois
+  - Inflammatoire: peroxyde de benzoyle 5% 1/j 4-6 sem puis 2-3/semaine  
+    Étendue: doxycycline 100 mg/j max 3 mois
+- Forme sévère: avis dermatologique (voir *Forme sévère*)
+- Acné par contraception: LNG > norgestimate > autre voire Triafemi
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Acné
 : *Nom féminin*
 : Dermatose chronique évoluant par poussées avec atteinte quasi ubiquitaire des adolescents (+70%), garçons surtout. L'atteinte prédomine au niveau des **visage, dos, cou et thorax antérieur**.
-: Retentissement psychosocial et altération de la **qualité de vie**
+: Retentissement psychosocial et altération de la **qualité de vie**.
 : **Le traitement est suspensif. Un traitement d'entretien est utilisé aussi longtemps que nécessaire.** Un délai de quelques semaines est nécessaire avant de voir les améliorations.
 
-TODO:
-{{< clinique/hyperandrogenie >}}
+### Formes graves d'acné
+
+Acné nodulaire ou acné conglobata
+: Nodules inflammatoires pouvant évoluer en abcès ou fistuliser en profondeur (sinus). Extension au tronc fréquente.
+: Évolution chronique avec cicatrices souvent importantes.
+
+Acné fulminante
+: Acné nodulaire aiguë, fébrile et ulcéreuse. Exceptionnelle.
+: Début brutal avec AEG, fièvre élevée, arthralgies, hyperleucocytose et très nombreux nodules inflammatoires.
+
+### Formes particulières
+
+Acné néonatale
+: Sur le visage dès les premières semaines. Dû aux androgènes maternels. Régression spontanée en quelques semaines.
+
+Acnés exogènes
+: Prédominance de comédons ouverts (points noirs) par contact prolongé d'huiles minérales (localisations atypiques chez garagiste, mécanicien) ou sur le visage avec cosmétiques (huiles végétales, poudres de pigments).
+
+Acné de la femme adulte
+: Femme après 25 ans avec acné juvénile. Papules et nodules de la mandibule et rétentionnelles sur le haut du visage.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -49,23 +74,46 @@ TODO:
 Papule
 : Élément rouge en relief, de 1 à 5 mm de diamètre, parfois sensible, évoluant vers la **pustule** (collection purulente blanc-jaunâtre).
 
+Pustule
+: Évolution d'une papule avec pus au sommet.
+
 Nodule
-: Plus profond, diamètre +5 mm, pouvant évoluer vers l'abcédation et la rupture.
+: Plus profond, diamètre +10 mm, pouvant évoluer vers l'abcédation et la rupture.
 {.dl-inline}
 
 Ces lésions risquent de laisser des cicatrices cutanées atrophiques définitives, des cicatrices hypertrophiques ou des macules érythémateuses le plus souvent transitoires et/ou pigmentées.
+
+[SFDermato. Photos des lésions élémentaires](https://reco.sfdermato.org/fr/recommandations-acn%C3%A9/l%C3%A9sions-%C3%A9l%C3%A9mentaires)
+
+{{%info%}}
+
+### Signes évoquant une endocrinopathie
+
+Signes d'hyperandrogénie:
+
+{{< clinique/hyperandrogenie >}}
+{{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
 Diagnostic différentiel d'une acné:
 
-- [Rosacée papulo-pustuleuse]({{< relref "rosacee.md" >}})  
-  Flushs du visage, conjonctivite, télangiectasies, symétrie des lésions et absence de comédons
-- Dermatite péri-orale ou des folliculites  
-  Absence de comédons
-- [Syphilis]({{< relref "syphilis.md" >}})
-  Évoquer en âge atypique, notion de chancre.
+[Rosacée papulo-pustuleuse]({{< relref "rosacee.md" >}})
+: Flushs du visage, conjonctivite, télangiectasies, symétrie des lésions et absence de comédons.
+
+Dermatite péri-orale ou folliculite infectieuse
+: Absence de comédons.
+
+Folliculite médicamenteuse
+: Début brutal, papulo-pustules sans comédons et régression à l'arrêt du traitement (androgènes, progestatifs, corticoïdes, antiépileptiques ...).
+
+[Syphilis]({{< relref "syphilis.md" >}})
+: Évoquer en âge atypique, notion de chancre.
+
+Sarcoïdose
+: 
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'acné" %}}
@@ -84,8 +132,8 @@ Les soins locaux d'une acné sont systématiques:
   - Hormones (androgènes, progestatifs)
   - Immunodépresseurs
   - Antiépileptiques
-
-Pas de bénéfices à modifier son alimentation.
+- Pas de bénéfices à modifier son alimentation  
+  Envisager un test d'éviction du lactose (*Aghasi 2018*)
 
 {{%warning%}}Traitements déconseillés sur l'acné: Produits alcoolisés ou antiseptiques, manipulation des lésions (provoquent poussées inflammatoires) et exposition au soleil{{%/warning%}}
 
@@ -182,13 +230,27 @@ Antibiothérapie à utiliser en association avec:
 
 **NB.** L'association d'antibiothérapie locale et générale n'est pas recommandée
 
+### Acné et contraception hormonale
+
+Acné habituelle avec COP de 2<sup>e</sup> génération.
+
+Proposer:
+
+- Lévonorgestrel
+- Puis norgestimate
+- Changement de contraception
+- COP triphasique avec 35 µg d'EE et norgestimate: Triafemi (non remboursée)
+
+> *CNGOF 2018*
+
 {{% /collapse %}}
 {{% collapse "Forme sévère et règles de prescription de l'isotrétinoïne" %}}
 
 La prescription de l'isotrétinoïne est réservée au dermatologue et permet d'obtenir la guérison dans 50% des cas.  
-Une cure de traitement dure habituellement **4 à 6 mois**.
+Une cure de traitement dure habituellement **4 à 6 mois**.  
+Exacerbation de l'acné pendant les 4 premières semaines.
 
-Effets indésirables de l'isotrétinoïne: tératogène (aucune baisse des grossesses depuis 2010), troubles psychiatriques, xérose cutanée et muqueuse, dyslipidémie, perturbations hépatiques, toxidermie grave.
+Effets indésirables de l'isotrétinoïne: tératogène (aucune baisse des grossesses depuis 2010), troubles psychiatriques, xérose cutanée et muqueuse, dyslipidémie, douleurs ligamentaires, perturbations hépatiques, toxidermie grave.
 
 ### Conditions de l'utilisation de l'isotrétinoïne
 
@@ -238,10 +300,12 @@ Découverte de grossesse = avis du Diagnostic Anténatal semi-urgent
 graph TB
   suspicion[Suspicion d'acné] --> diagnostic(Diagnostic clinique d'acné)
   style suspicion stroke:#4150f5, stroke-width:1px
-  suspicion -- Diagnostic différentiel --> differentiel("- Dermatite péri-orale<br>- Rosacée papulo-pustuleuse<br>- Syphilis")
-    diagnostic --> personne(Enfant et adulte)
-      personne --> tresLeger(Très léger)
-    diagnostic --> grossesse(Femme enceinte)
+  suspicion -- Diagnostic différentiel --> differentiel("- Dermatite péri-orale ou med<br>- Rosacée papulo-pustuleuse<br>- Syphilis<br>- Sarcoïdose")
+    diagnostic --> soins(Soins locaux) --> personne(Enfant et adulte)
+      personne --> tresLegere(Très légère) -- Attaque --> tL("Trétinoïne 0,025 ou 0,05%<br>ou adapalène 0,1%<br>ou peroxyde de benzoyle 1/j") -- entretien --> tle("Adapalène 0,1% (1/j ou 1j/2)<br>OU adapalène 0,1%<br>+ peroxyde de benzoyle 2,5% 1/j")
+      personne --> legere(Légère) --> l()
+      personne --> moderee(Modérée)
+    soins --> grossesse(Femme enceinte)
 {{< /mermaid >}}
 
 {{%/collapse%}}
@@ -267,6 +331,8 @@ Selon la SFDermato, informer le patient:
 
 - [ANSM. Traitement de l'acné sévère : premières recommandations pour améliorer la sécurité d'utilisation de l'isotrétinoïne. 06/12/2021.](https://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Traitement-contre-l-acne-regles-de-bon-usage-de-l-isotretinoine-pour-limiter-les-risques-Point-d-Information)
 - [ANSM. Traitement contre l'acné : règles de bon usage de l'isotrétinoïne pour limiter les risques. 30/03/2021.](https://ansm.sante.fr/actualites/traitement-contre-lacne-regles-de-bon-usage-de-lisotretinoine-pour-limiter-les-risques)
+- [Aghasi M. et al. Dairy intake and acne development: A meta-analysis of observational studies. Clinical Nutrition. 2019.](https://www.clinicalnutritionjournal.com/article/S0261-5614(18)30166-3/fulltext)
+- [CEDEF. Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109 UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
 - Prescrire Redaction. Patients ayant une acné. Mars 2017.
 - Prescrire Redaction. Premiers choix Prescrire. Acné. Octobre 2016.
 - [Société Française de Dermatologie. Prise en charge de l'acné. Label HAS. 10/06/2015. (PDF)](https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)
@@ -274,7 +340,6 @@ Selon la SFDermato, informer le patient:
 
 ### À lire
 
-- [CEDEF. Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
 - [SFD. Recommandations acné. Octobre 2015.](https://reco.sfdermato.org/fr/recommandations-acn%C3%A9)
 - Prescrisur, dermatoclic
 

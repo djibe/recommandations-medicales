@@ -36,12 +36,15 @@ Les sinusites maxillaires aiguës représentent la grande majorité. Elles survi
 
 ### Formes selon l'âge
 
-- Ethmoïdite  
-Limitée aux jeunes enfants.
-- Sinusite sphénoïdale ou maxillaire  
-À partir de 3 ans.
-- Sinusite frontale  
-À partir de 10 ans.
+Ethmoïdite
+: Limitée aux jeunes enfants
+
+Sinusite sphénoïdale ou maxillaire
+: À partir de 3 ans
+
+Sinusite frontale
+: À partir de 10 ans
+{.dl-inline}
 
 ### Diagnostic différentiel
 
@@ -67,9 +70,9 @@ Le diagnostic est clinique et nécessite **≥ 2 critères** parmi:
 
 1. Persistance ou augmentation des douleurs sinusiennes infra-orbitaires sous traitement symptomatique ≥ 48h
 2. Caractère unilatéral  
-et/ou augmenté tête penchée en avant  
-et/ou pulsatile  
-et/ou max en fin d'après-midi/nuit
+  et/ou augmenté tête penchée en avant  
+  et/ou pulsatile  
+  et/ou max en fin d'après-midi/nuit
 3. Augmentation d'une rhinorrhée et purulence permanente (unilatérale ++)
 
 Autres arguments en faveur d'une sinusite:

@@ -23,7 +23,8 @@ imageSrc = "Illustration de la PrEP par pikisuperstar / Freepik"
 
 - Toute personne avec au moins 2 rapports non protégés en 6 mois est éligible à la PrEP (toute personne exposée au VIH)
 - La PrEP est gratuite et prescriptible par tout médecin
-- Vérifier les contre-indications et réaliser le bilan pré-thérapeutique: [check-list ANSM (PDF)](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-checklist-pds-version3-2021-juin.pdf) pour le médecin prescripteur
+- Vérifier les contre-indications et réaliser le bilan pré-thérapeutique  
+  [Check-list ANSM (PDF)](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-checklist-pds-version3-2021-juin.pdf) pour le médecin prescripteur
 - Emtricitabine/Ténofovir disoproxil 200/245 mg (Truvada®) 1 cp par jour à heure fixe pendant le repas. Délai de 7 jours avant le premier rapport sexuel à protéger
 - Arrêt du traitement: 1 cp par jour pendant **7 jours** après le dernier rapport non protégé puis arrêt
 - Schéma discontinu possible (voir *Prescrire la PrEP*)
