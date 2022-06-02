@@ -213,12 +213,12 @@ Rappeler l'importance du préservatif et des dépistages répétés des IST.
 %%{init: { 'gitGraph': { 'mainBranchName': 'Continu' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
 gitGraph
   commit id: "J1" tag: "Initiation"
-  commit id: " "
-  commit id: "  "
-  commit id: "   "
-  commit id: "    "
-  commit id: "     "
-  commit id: "      "
+  commit id: "J2"
+  commit id: "J3"
+  commit id: "J4"
+  commit id: "J5"
+  commit id: "J6"
+  commit id: "J7"
   commit id: "J8" tag: "1er rapport"
   commit id: "1 cp/j" tag: "Poursuite"
 {{< /mermaid >}}
@@ -235,7 +235,7 @@ gitGraph
 %%{init: { 'gitGraph': { 'mainBranchName': 'Discontinu' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
 gitGraph
   commit id: "H-2 à -24" tag: "2 cp"
-  commit id: " " tag: "Rapport"
+  commit id: "H0" tag: "Rapport"
   commit id: "H24 ± 2" tag: "1 cp"
   commit id: "H48 ± 2" tag: "1 cp"
 {{< /mermaid >}}
