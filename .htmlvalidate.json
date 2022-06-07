@@ -3,6 +3,8 @@
     "html-validate:recommended"
   ],
   "rules": {
+    "attr-quotes": "off",
+    "doctype-style": ["warn", { "style": "lowercase" }],
     "element-required-attributes": "off",
     "no-inline-style": "off",
     "no-raw-characters": "off",
