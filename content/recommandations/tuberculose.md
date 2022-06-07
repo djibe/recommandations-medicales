@@ -2,7 +2,7 @@
 title = "Tuberculose"
 prefix = "la "
 description = "Recommandations pour la prise en charge de la tuberculose. Adresser au CLAT en suspicion, indications au BCG, suivi sous traitement antituberculeux"
-synonyms = ["Bacille de Koch"]
+synonyms = ["Bacille de Koch", "Mycobacterium tuberculosis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-06-03T15:14:20+02:00"
 publishdate = "2020-06-03"

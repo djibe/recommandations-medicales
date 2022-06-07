@@ -137,6 +137,6 @@ Numéro vert: 0800 130 000
 
 ### À lire
 
-[Haut Conseil de la Santé Publique. Recommandations sanitaires 2022 pour les voyageurs. 14/04/2022.](https://www.santepubliquefrance.fr/determinants-de-sante/voyage/documents/magazines-revues/bulletin-epidemiologique-hebdomadaire-2-juin-2022-n-hors-serie-recommandations-sanitaires-pour-les-voyageurs-2022-a-l-attention-des-professionn)
+[Haut Conseil de la Santé Publique. Recommandations sanitaires 2022 pour les voyageurs. 14/04/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1215)
 
 {{%/sources%}}

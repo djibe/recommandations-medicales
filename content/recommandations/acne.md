@@ -5,9 +5,9 @@ description = "Recommandations pour la prise en charge de l'acné. Traitement de
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-27T21:48:41+02:00"
 publishdate = "2020-07-27"
-lastmod = "2022-06-02"
+lastmod = "2022-06-07"
 specialites = ["dermatologie"]
-annees = "2017"
+annees = "2015"
 sources = ["SFDermato", "HAS"]
 tags = ["contraception"]
 anglais = ["Acne"]
@@ -218,7 +218,7 @@ Autre traitement possible mais de faible efficacité: acide azélaïque gel 15% 
 OU lymécycline 300 mg x 1/j  
 Effets indésirables: troubles digestifs, photosensibilité, réactions cutanées, HTIC, tératogène
 
-En deuxième intention (si contre-indication aux traitements ci-dessus): érythromycine par voie générale.
+L'érythromycine par voie orale (1g/j) est réservée à des situations exceptionnelles.
 
 Ne pas utiliser la minocycline (Mynocine®, gén) du fait d'effets indésirables graves.
 
@@ -228,7 +228,7 @@ Antibiothérapie à utiliser en association avec:
 - rétinoïde local si lésions rétentionnelles, adapalène aussi actif sur lésions inflammatoires
 - ou l'association des 2
 
-**NB.** L'association d'antibiothérapie locale et générale n'est pas recommandée
+{{%warning%}}L'association d'antibiothérapie locale et générale n'est pas recommandée{{%/warning%}}
 
 ### Acné et contraception hormonale
 
@@ -301,12 +301,19 @@ graph TB
   suspicion[Suspicion d'acné] --> diagnostic(Diagnostic clinique d'acné)
   style suspicion stroke:#4150f5, stroke-width:1px
   suspicion -- Diagnostic différentiel --> differentiel("- Dermatite péri-orale ou med<br>- Rosacée papulo-pustuleuse<br>- Syphilis<br>- Sarcoïdose")
-    diagnostic --> soins(Soins locaux) --> personne(Enfant et adulte)
-      personne --> tresLegere(Très légère) -- Attaque --> tL("Trétinoïne 0,025 ou 0,05%<br>ou adapalène 0,1%<br>ou peroxyde de benzoyle 1/j") -- entretien --> tle("Adapalène 0,1% (1/j ou 1j/2)<br>OU adapalène 0,1%<br>+ peroxyde de benzoyle 2,5% 1/j")
-      personne --> legere(Légère) --> l()
-      personne --> moderee(Modérée)
-    soins --> grossesse(Femme enceinte)
+    diagnostic --> soins(Soins locaux) ---> personne(Enfant et adulte)
+      personne --> tresLegere(Très légère) -- Attaque --> tl("Trétinoïne<br>ou ADA<br>ou PeBo 1/j") -- Entretien --> tle("ADA (1/j ou 1j/2)<br>OU<br>ADA<br>+ PeBo 2,5% 1/j") -. Échec M3 .-> tlechec(voir Légère)
+      personne --> legere(Légère) -- Attaque --> l(Trétinoïne<br>OU<br>ADA<br>+ PeBo 1/j) -- Entretien --> le("1/j: ADA (1/j ou 1j/2)<br>OU<br>ADA<br>+ PeBo 2,5%") -. Échec M3 .-> lechec("- Intensification<br>ou rétinoïdes + atb locale<br>ou acide azélaïque + atb locale<br>ou doxycycline ou lymécycline<br>+ rétinoïde + PeBo")
+      personne --> moderee(Modérée) -- Attaque --> m(Rétinoïde) -- Entretien --> me("ADA<br>(1/j ou 1j/2 ou trétinoïne)<br>OU<br>ADA<br>+ PeBo 2,5% 1/j") -. Échec M3 .-> mechec(voir Très sévère)
+      personne ------> severe(Sévère) -- Attaque --> s("Doxycycline 100 mg/j<br>ou lymécycline<br>+ rétinoïde<br>+ PeBo") -- Entretien --> se("ADA<br>(1/j ou 1j/2 ou trétinoïne)<br>OU<br>ADA<br>+ PeBo 2,5% 1/j") -. Échec M3 .-> sechec(voir Très sévère)
+      personne ------> tsevere(Très sévère) --> dermato("Avis dermatologique<br>Isotrétinoïne orale")
+    soins --> grossesse(Grossesse) -- CRAT --> fe("PeBo")
 {{< /mermaid >}}
+
+> **Rétinoïde** = trétinoïne 0,025 ou 0,05% ou adapalène 0,1%  
+ADA = adapalène 0,1%  
+PeBo = peroxyde de benzoyle (2,5, 5 % ou 10% sauf mention contraire, 1 appli/j)  
+Trétinoïne = trétinoïne 0,025 ou 0,05%
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
@@ -325,8 +332,6 @@ Selon la SFDermato, informer le patient:
 
 {{< card-link title="Recommandations Acné" url="https://reco.sfdermato.org/fr/recommandations-acn%C3%A9" subtitle="SFDermato">}}
 
-{{< card-link title="Acné" url="https://www.prescrisur.fr/" subtitle="Prescrisur">}}
-
 {{< card-link title="Acné" url="https://www.dermatoclic.com/acne" subtitle="Dermatoclic">}}
 
 - [ANSM. Traitement de l'acné sévère : premières recommandations pour améliorer la sécurité d'utilisation de l'isotrétinoïne. 06/12/2021.](https://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Traitement-contre-l-acne-regles-de-bon-usage-de-l-isotretinoine-pour-limiter-les-risques-Point-d-Information)
@@ -337,10 +342,5 @@ Selon la SFDermato, informer le patient:
 - Prescrire Redaction. Premiers choix Prescrire. Acné. Octobre 2016.
 - [Société Française de Dermatologie. Prise en charge de l'acné. Label HAS. 10/06/2015. (PDF)](https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)
 - [ANSM. Restriction de la prescription initiale de l'isotrétinoïne orale aux dermatologues – Lettre aux professionnels de santé. Mai 2015.](https://archiveansm.integra.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Restriction-de-la-prescription-initiale-de-l-isotretinoine-orale-aux-dermatologues-Lettre-aux-professionnels-de-sante)
-
-### À lire
-
-- [SFD. Recommandations acné. Octobre 2015.](https://reco.sfdermato.org/fr/recommandations-acn%C3%A9)
-- Prescrisur, dermatoclic
 
 {{%/sources%}}

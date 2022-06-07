@@ -301,7 +301,7 @@ Diagnostic de dépression au cours du bilan de DE avec le généraliste:
 
 {{%info%}}[Sildénafil 50 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69085330&typedoc=R) (Viagra®, gén) à la demande (max 1/j). Selon l'effet, utiliser de 25 à 100 mg (efficace 4-5 heures){{%/info%}}
 
-En 2<sup>e</sup> intention: [tadalafil 10 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67515025&typedoc=R). Possibilité d'augmenter à 20 mg. Max 1 prise par jour.  
+En 2<sup>e</sup> intention: [tadalafil 10 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67515025&typedoc=R) (Cialis®, gén). Possibilité d'augmenter à 20 mg. Max 1 prise par jour.  
 Avantages: pas de retard absorptif dus à l'alimentation, efficacité prolongée à 12 heures.
 
 **Tadalafil en continu:** débuter à [2,5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63536698&typedoc=R) x 1/j. Max 5 mg en 1 prise/j.  
