@@ -5,13 +5,13 @@ titleSeo = "Syndrome du canal carpien"
 description = "Recommandations pour le diagnostic et la prise en charge du canal carpien. Atteinte des premiers doigts avec douleurs nocturnes. Place d'EMG et de la chirurgie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-07-14T18:30:29+02:00
-publishdate = 2020-07-14
-lastmod = 2022-05-16
+date = "2020-07-14T18:30:29+02:00"
+publishdate = "2020-07-14"
+lastmod = "2022-06-07"
 specialites = ["rhumatologie"]
 annees = "2013"
 sources = ["HAS"]
-tags = []
+tags = ["diabete"]
 anglais = ["Carpal tunnel syndrome"]
 sctid = "57406009"
 image = true
@@ -25,7 +25,8 @@ todo = "rec maladie pro, lire reco 2013"
 
 - Évoquer une [acromégalie]({{< relref "acromegalie.md" >}})
 - Signes de gravité: déficit moteur de flexion du pouce, sensitif du dermatome et amyotrophie
-- Pas de bilan et orthèse seule en 1<sup>re</sup> intention
+- Pas de bilan et orthèse seule en première intention
+- Guérison quasi systématique après la grossesse
 - Reconnaissance possible en maladie professionnelle
 
 {{%/article-summary%}}
@@ -34,11 +35,19 @@ todo = "rec maladie pro, lire reco 2013"
 Syndrome du canal carpien (SCC)
 : Compression du *nerf médian*  lors de son passage sous le *ligament annulaire antérieur du carpe*.  
 L'atteinte est le plus souvent unilatérale, d'apparition progressive et féminine (65%).
-: Son atteinte est à l'origine de troubles de la sensibilité des 3 premiers doigts et à la moitié externe du 4<sup>e</sup> doigt à la face palmaire et à la face dorsale aux 2 dernières phalanges des 3 premiers doigts et à la moitié externe du 4<sup>e</sup> doigt.
+: Trouble musculo-squelettique le plus fréquente à l'origine de troubles de la sensibilité des 3 premiers doigts et à la moitié externe du 4<sup>e</sup> doigt à la face palmaire et à la face dorsale aux 2 dernières phalanges des 3 premiers doigts et à la moitié externe du 4<sup>e</sup> doigt.
 : Parfois décrit par le malade comme atteignant toute la main ou forme atypique avec douleurs ascendantes de l'avant-bras (différencier des douleurs descendantes des NCB).
-: 127.000 chirurgies (2014), soit une incidence Femme - Homme de 2,5 et 1,4/1000 respectivement.
-: 2<sup>e</sup> cause de *Maladie professionnelle* (MP) 
-Chez les ouvriers, 75% seraient provoqués par leur métier. Pourtant la sous-déclaration atteindrait les 60%.
+
+### Épidémiologie
+
+- Opérations: 140.000 chirurgies annuelles
+- Incidence: Femme 4-5 / 1000 et Homme 1-2 / 1000
+- Prévalence
+  - Chez le diabétique: 14% sans neuropathie, 30% avec
+  - Grossesse: 7 - 62% avec régression spontanée après l'accouchement
+- 2<sup>e</sup> cause de *Maladie professionnelle* (MP)  
+- Ouvriers, 75% seraient provoqués par leur métier.  
+  La sous-déclaration en Maladie Professionnelle atteindrait les 60%.
 
 ### Abréviations
 
@@ -47,6 +56,9 @@ NCB
 
 SCC
 : syndrome du canal carpien
+
+TMS
+: Trouble musculo-squelettique
 {.dl-inline}
 
 {{% /collapse %}}
@@ -59,12 +71,14 @@ SCC
 - [Acromégalie]({{< relref "acromegalie.md" >}})
 - Grossesse
 - Maladie de système ([Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}))
+{.list-group}
 
 {{% /collapse %}}
 {{%collapse "Signes de gravité"%}}
 
 {{%warning%}}
-Signes de gravité devant un canal carpien:
+
+### Signes de gravité d'un canal carpien
 
 - Déficit moteur de flexion du pouce
 - Déficit sensitif du dermatome
@@ -74,7 +88,7 @@ Signes de gravité devant un canal carpien:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-**Le diagnostic est clinique**, évoqué lors de symptômes évocateurs (l'examen clinique peut être normal, pas de gold standard).
+**Le diagnostic du syndrome du canal carpien est clinique**, évoqué lors de symptômes évocateurs (l'examen clinique peut être normal, pas de gold standard).
 
 - **Paresthésies surtout nocturnes** des 3 premiers doigts  
   Obligeant le lever, déclenchées par certains mouvements, engourdissement, décharges électriques.  
@@ -128,9 +142,14 @@ Obligatoire pour la reconnaissance en **maladie professionnelle**.
 
 La **perte axonale** est le facteur pronostic essentiel.
 
+### Échographie
+
+Permet l'analyse du nerf médian et des structures anatomiques. Mieux tolérée et moins coûteuse que l'EMG.  
+Elle ne permet pas d'évaluer le type d'atteinte fonctionnelle.
+
 ### Autres examens
 
-Radiographies, scanner, IRM, échographie. Contribuent en cas de doute sur une pathologie secondaire.
+Radiographies, scanner, IRM. Contribuent en cas de doute sur une pathologie secondaire.
 
 {{% /collapse %}}
 {{%collapse "Traitement du canal carpien idiopathique" %}}
@@ -214,6 +233,7 @@ diagnostic -- Diagnostic différentiel --> differentiel("- Atteintes radiculaire
 - [HAS, Centre de référence des maladies rares de l'hypophyse. Acromégalie. Protocole National de Diagnostic et de Soins. 2021.](https://www.has-sante.fr/jcms/p_3292767/fr/acromegalie)
 - [Santé Publique France. Syndrome du canal carpien. 18/08/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-liees-au-travail/troubles-musculo-squelettiques/donnees/syndrome-du-canal-carpien)
 - Prescrire Redaction. Syndrome du canal carpien: parfois d'origine médicamenteuse. Avril 2019.
+- [Petrover D., Richette P. Prise en charge du syndrome du canal carpien: de l'échographie diagnostique à la libération percutanée sous échographie. Revue du Rhumatisme. 2018.](https://www.sciencedirect.com/science/article/pii/S1169833017303071)
 - [HAS. Syndrome du canal carpien - Optimiser la pertinence du parcours patient. Février 2013.](https://www.has-sante.fr/jcms/c_1365548/fr/syndrome-du-canal-carpien-optimiser-la-pertinence-du-parcours-patient)
 
 {{%/sources%}}
