@@ -8,6 +8,7 @@
     {{ $id = . }}
   {{ else }}
   {{ $id = delimit (shuffle (seq 1 9)) "" }}
+  {{ $id = printf "t-%s"  $id}}
   {{ end }}
 
 {{ if $title }}

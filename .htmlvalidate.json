@@ -4,7 +4,7 @@
   ],
   "rules": {
     "attr-quotes": "off",
-    "doctype-style": ["warn", { "style": "lowercase" }],
+    "doctype-style": ["warn", { "style": "uppercase" }],
     "element-required-attributes": "off",
     "no-inline-style": "off",
     "no-raw-characters": "off",

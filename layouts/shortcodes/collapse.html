@@ -1,8 +1,8 @@
 <section>
-<h2 id="{{ .Get 0 | anchorize }}">
-  <button type="button" data-toggle="collapse" data-target="#{{ .Get 0 | anchorize }}-block" aria-expanded="{{ with .Get 1 }}true{{ else }}false{{ end }}" aria-controls="{{ .Get 0 | anchorize }}-block">{{ .Get 0 }}</button>
+<h2 id="{{ .Get 0 | urlize }}">
+  <button type="button" data-toggle="collapse" data-target="#{{ .Get 0 | urlize }}-b" aria-expanded="{{ with .Get 1 }}true{{ else }}false{{ end }}" aria-controls="{{ .Get 0 | urlize }}-b">{{ .Get 0 }}</button>
 </h2>
-<div class="collapse d-print-block {{ .Get 1 }}" id="{{ .Get 0 | anchorize }}-block" aria-labelledby="{{ .Get 0 | anchorize }}">
+<div class="collapse d-print-block {{ .Get 1 }}" id="{{ .Get 0 | urlize }}-b" aria-labelledby="{{ .Get 0 | urlize }}">
   {{.Inner | safeHTML}}
 </div>
 </section>

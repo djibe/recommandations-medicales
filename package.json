@@ -9,7 +9,7 @@
     "favicon": "real-favicon generate ./build/faviconDescription.json ./build/faviconData.json ./favicons",
     "html:lint-htmllint": "npm run start && htmllint --rc build/.htmllintrc \"public/**/*.html\"",
     "html:lint-vnu": "npm run start && node build/vnu-jar.js",
-    "html:lint-validate": "npm run start && npm exec html-validate \"public/**/*.html\"",
+    "html:lint-validate": "hugo --cleanDestinationDir && npm exec html-validate \"public/**/*.html\"",
     "hugo:debug": "hugo --cleanDestinationDir --minify --debug --logFile ./hugo.log --verboseLog",
     "hugo:update": "choco upgrade hugo-extended -y",
     "links-md:check": "linkinator content/**/*.md --markdown --verbosity error --skip '(%22)$'",
