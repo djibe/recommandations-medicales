@@ -103,6 +103,8 @@ Prise en charge chirurgicale en cas de craniosynostose confirmée.
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="5xtCwQV86pA" title="La minute RECO HAS | Plagiocéphalies (Pr Hugues Patural)" >}}
+
 - [HAS (Haute Autorité de Santé), CNP. Prévention des déformations crâniennes positionnelles et mort inattendue du nourrisson. Février 2020.](https://www.has-sante.fr/jcms/p_3151574/fr/prevention-des-deformations-craniennes-positionnelles-dcp-et-mort-inattendue-du-nourrisson)
 - [Société Canadienne de Pédiatrie. La plagiocéphalie positionnelle. Octobre 2011.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3202395/)
 

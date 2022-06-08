@@ -16,7 +16,7 @@ anglais = ["Menière's disease"]
 sctid = "13445001"
 image = true
 imageSrc = "Oreille interne. Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "ttt betahistine, score AAO, https://pubmed.ncbi.nlm.nih.gov/19195928/"
+todo = "ttt betahistine, score AAO"
 +++
 
 {{%article-summary%}}
@@ -206,6 +206,10 @@ Association de patients
 - [Wu V. et al. Approche à adopter pour la prise en charge de la maladie de Ménière. Canadian family physician Medecin de famille canadien. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6738464/)
 - [Nervous J. et al; SFORL. Stratégie diagnostique et thérapeutique dans la maladie de Menière. 2016. (PDF)](https://www.orlfrance.org/wp-content/uploads/2017/06/Maladie-de-Meniere-stategie-diagnostique-et-therapeutique.pdf)
 - [Lopez-Escamez JA et al. ; Classification Committee of the Barany Society; Japan Society for Equilibrium Research; European Academy of Otology and Neurotology (EAONO); Equilibrium Committee of the American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNS); Korean Balance Society. Diagnostic criteria for Menière's disease. J Vestib Res. 2015.](https://content.iospress.com/articles/journal-of-vestibular-research/ves00549)
+
+### À lire
+
+[Basura GJ. et al. Clinical Practice Guideline: Ménière's Disease. Otolaryngology–Head and Neck Surgery. 2020.](https://journals.sagepub.com/doi/full/10.1177/0194599820909438)
 
 {{%/sources%}}
 {{% modal title="Questionnaire STOP-BANG" id="modal-score-stopbang" size="lg"%}}

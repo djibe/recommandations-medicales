@@ -236,7 +236,9 @@ compétences spécifiques (l'ITT sera fixée ultérieurement à la demande des a
 {{% /collapse %}}
 {{%collapse "FMC" %}}
 
-{{< card-link title="Violences faites aux femmes" url="https://www.youtube.com/playlist?list=PL1J3p7EV5Esb6twJhoYUCptt1uzpcHuvl" subtitle="Pédagogie Numérique en Santé">}}
+{{< card-link title="Violences faites aux femmes" url="https://www.pns-mooc.com/fr/mooc/module/64/introduction" subtitle="Pédagogie Numérique en Santé">}}
+
+{{< youtube id="cHONPEYxRKo" title="La minute RECO HAS | Violences conjugales (Dr Ghada Hatem)" >}}
 
 {{% /collapse %}}
 {{%collapse "Ressources" %}}

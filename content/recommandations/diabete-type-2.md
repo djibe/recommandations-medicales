@@ -44,9 +44,9 @@ La glycémie à jeun est mesurée de 1 à 1,25 g/L (HGPO H2 < 1,4 g/L).
 
 Rémission du diabète
 : Définitions *EASD 2021*:
-    - Diabète sous régime seul depuis ≥ 3 mois avec HbA1c < 6,5% (48 mmol/mol)
-    - HbA1c < 6,5% à au moins 3 mois de la chirurgie bariatrique et de l'arrêt de tout traitement
-    - HbA1c < 6,5% à au moins 6 mois du changement de mode de vie et au moins 3 mois de l'arrêt de tout traitement
+    - Diabète sous régime seul depuis ≥ 3 mois avec HbA<sub>1c</sub> < 6,5% (48 mmol/mol)
+    - HbA<sub>1c</sub> < 6,5% à au moins 3 mois de la chirurgie bariatrique et de l'arrêt de tout traitement
+    - HbA<sub>1c</sub> < 6,5% à au moins 6 mois du changement de mode de vie et au moins 3 mois de l'arrêt de tout traitement
 : Lorsque la mesure de l'HbA1c n'est pas fiable, recours à la glycémie à jeun < 1,26 g/L ou estimation par automesure (la glycémie moyenne doit être < 6,5% d'équivalent HbA1c).
 : Le *dépistage des complications* doit être poursuivi, avec la surveillance de l'HbA1c tous les 3-12 mois.
 

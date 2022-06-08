@@ -157,11 +157,11 @@ Demander au patient l'autorisation de parler de sa consommation d'alcool.
     </li>
   </ul>
   <div class="tab-content card-body">
-    <div aria-labelledby="auditc-tab" class="tab-pane fade show active" id="auditc-panel" role="tabpanel">
-    {{< scores/audit-c >}}
+  <div aria-labelledby="auditc-tab" class="tab-pane fade show active" id="auditc-panel" role="tabpanel">
+  {{< scores/audit-c >}}
   </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
   <div aria-labelledby="face-tab" class="tab-pane fade" id="face-panel" role="tabpanel">
-    {{< scores/face >}}
+  {{< scores/face >}}
   </div>
   </div>
 </div>
@@ -385,7 +385,7 @@ Réévaluation à 7 et 14 jours puis 1/mois au moins 6 mois.
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
-- [SPF: L'alcool pour comprendre]([L'alcool pour comprendre](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/brochure/l-alcool-pour-comprendre))
+- [SPF: L'alcool pour comprendre](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/brochure/l-alcool-pour-comprendre)
 - [Santé BD. L'alcool et ma santé](https://santebd.org/les-fiches-santebd/cancer/ma-sante-et-lalcool)
 - [Addictions France (ex ANPAA)](https://addictions-france.org/)
 
@@ -402,7 +402,8 @@ Réévaluation à 7 et 14 jours puis 1/mois au moins 6 mois.
 {{% /collapse %}}
 {{%collapse "Information du Grand Public" %}}
 
-[Auto-évaluer sa consommation - Alcoometre.fr](https://www.alcoometre.fr/)  
+{{< card-link title="Alcoometre.fr" url="https://www.alcoometre.fr/" subtitle="Auto-évaluer sa consommation">}}
+
 [Affiches pour le cabinet](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/outils/#tabs)
 
 {{%info%}}

@@ -610,6 +610,8 @@ graph TB
 
 {{< card-link title="Vidéos pour la maîtrise des inhalateurs" url="https://splf.fr/videos-zephir/" subtitle="par la SPLF">}}
 
+{{< youtube id="xVwdrtJ2dfY" title="La minute RECO HAS | BPCO : le parcours de soins (Dr Anthony Chapron)" >}}
+
 {{< video poster="https://splf.fr/wp-content/uploads/2021/05/Webinaire-2021-05-26-1300-500.png" mp4="https://dts.podtrac.com/redirect.mp4/docs.splf.fr/videos/Webinaires/2021/Webinaire-SPLF-2021-05-26.mp4" description="Webinaire SPLF/Groupe BPCO Optimisation du traitement médicamenteux des patients atteints de BPCO en état stable" width="768" height="432" >}}
 
 {{% /collapse %}}

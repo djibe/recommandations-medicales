@@ -338,6 +338,8 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
+{{< youtube id="1uehBQjbbFU" title="La minute RECO HAS | Lombalgie commune (Pr Éric Fontaine)" >}}
+
 - [HAS, FFN. Diagnostic de la dénutrition chez la personne de 70 ans et plus. Recommandation de bonne pratique. Novembre 2021.](https://www.has-sante.fr/jcms/p_3165944/fr/diagnostic-de-la-denutrition-chez-la-personne-de-70-ans-et-plus)
 - Prescrire Redaction. Complémentation nutritionnelle orale chez les adultes dénutris : conditions de remboursement en France en 2020. Rev Prescrire. Mai 2020.
 - [HAS, FFN. Diagnostic de la dénutrition de l'enfant et de l'adulte. Recommandation de bonne pratique. Novembre 2019.](https://has-sante.fr/jcms/p_3118872/fr/diagnostic-de-la-denutrition-de-l-enfant-et-de-l-adulte)

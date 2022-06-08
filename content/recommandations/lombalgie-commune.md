@@ -205,6 +205,8 @@ Ne pas utiliser: ultrasons, tractions lombaires.
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="YpejbojhWrY" title="La minute RECO HAS | Lombalgie commune (Dr Florent Bailly)" >}}
+
 - Prescrire Redaction. Signes de fracture vertébrale en cas de lombalgie récente. Prescrire. Juin 2020.
 - [HAS. Prise en charge du patient présentant une lombalgie commune. Mars 2019.](https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient-presentant-une-lombalgie-commune)
 

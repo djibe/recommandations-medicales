@@ -246,6 +246,8 @@ La prise en charge de l'infertilité relève d'un accompagnement par une équipe
 
 {{< card-link title="Endométriose - L'affaire de tous" url="https://pns-mooc.com/fr/mooc/19/presentation" subtitle="MOOC gratuit">}}
 
+{{< youtube id="RCXR1TFWcpg" title="La minute RECO HAS | Endométriose (Pr Xavier Fritel)" >}}
+
 {{< youtube id="mRnCMWZMDhk" title="Diagnostic de l'endométriose (Dr Thierry Brillac)" >}}
 
 {{< youtube id="Fg2XYcw5Bk8" title="Douleur et endométriose (Dr Delphine Lhuillery)" >}}

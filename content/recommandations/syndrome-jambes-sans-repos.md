@@ -7,9 +7,9 @@ longHtml = true
 synonyms = ["Maladie de Willis-Ekbom"]
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
-date = 2021-02-02T08:52:00+02:00
-publishdate = 2021-03-10
-lastmod = 2022-05-16
+date = "2021-02-02T08:52:00+02:00"
+publishdate = "2021-03-10"
+lastmod = "2022-05-16"
 specialites = ["medecine du sommeil"]
 annees = "2019"
 sources = ["SFRMS"]
@@ -20,6 +20,7 @@ flowchart = true
 image = true
 imagePNG = true
 imageSrc = "Comparaison entre le sommeil d'une personne atteinte du syndrome des jambes sans repos (en rouge) et celui d'une personne en bonne santé (en bleu). Markus Mueller derivative, CC BY-SA 3.0, via Wikimedia Commons"
+todo = "https://pubmed.ncbi.nlm.nih.gov/19195928/"
 +++
 
 {{%article-summary%}}
