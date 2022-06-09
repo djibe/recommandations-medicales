@@ -73,22 +73,22 @@ SFEMC
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques ICHD-3" %}}
 
-Critères ICHD-3 de l'AVF:
+Critères diagnostiques de l'algie vasculaire de la face (ICHD-3):
 
 1. Au moins 5 crises réunissant les critères B à D
-1. Douleur unilatérale sévère à très sévère, orbitaire, supra-orbitaire et/ou temporale durant 15 à 180 minutes sans traitement
-1. La céphalée est associée à au moins un des signes suivant
+2. Douleur unilatérale sévère à très sévère, orbitaire, supra-orbitaire et/ou temporale durant 15 à 180 minutes sans traitement
+3. La céphalée est associée à au moins un des signes suivant
     1. Au moins un des signes ou symptômes suivants survenant du côté de la douleur
         1. Injection conjonctivale et/ou larmoiement
-        1. Congestion nasale et/ou rhinorrhée
-        1. Œdème palpébral
-        1. Sudation du front et de la face
-        1. Rougeur du front et de la face
-        1. Sensation de plénitude de l'oreille
-        1. Myosis et/ou ptosis
-    1. Sensation d'impatience ou agitation motrice
-1. La fréquence des crises varie de 1 crise, un jour sur deux, à 8 crises par jour pendant plus de la moitié des périodes actives de la maladie
-1. Ne correspondant pas mieux à un autre diagnostic de l'ICHD-3
+        2. Congestion nasale et/ou rhinorrhée
+        3. Œdème palpébral
+        4. Sudation du front et de la face
+        5. Rougeur du front et de la face
+        6. Sensation de plénitude de l'oreille
+        7. Myosis et/ou ptosis
+    2. Sensation d'impatience ou agitation motrice
+4. La fréquence des crises varie de 1 crise, un jour sur deux, à 8 crises par jour pendant plus de la moitié des périodes actives de la maladie
+5. Ne correspondant pas mieux à un autre diagnostic de l'ICHD-3
 {.liste-lettres}
 
 AVF épisodique
@@ -110,7 +110,7 @@ AVF chronique
 
 ### Interrogatoire
 
-Pilier de la prise en charge diagnostique (**en gras**, les éléments majeurs du questionnaire de dépistage *QATCH* (*Wilbrink 2013*)):
+Pilier de la prise en charge diagnostique de l'algie vasculaire (**en gras**, les éléments majeurs du questionnaire de dépistage *QATCH* (*Wilbrink 2013*)):
 
 - **Homme** surtout: âge moyen de début avant 40 ans
 - Femme: jeune ou après 50 ans
@@ -193,7 +193,7 @@ IRM cérébrale et ARM cérébrale systématiques
 {{%/info%}}
 
 {{% /collapse %}}
-{{%collapse "Traitement de l'algie vasculaire de la face en crise" %}}
+{{%collapse "Traitement de crise de l'algie vasculaire de la face" %}}
 
 {{%info%}}
 Sumatriptan 6 mg SC, 1 injection SC dès le début des douleurs.  
@@ -258,7 +258,7 @@ Traitements de l'algie spécialisés:
 {{% /collapse %}}
 {{%collapse "Traitement de fond" %}}
 
-Indication à la prise en charge par traitement de fond: forme épisodique avec période douloureuse > 2 semaines ou forme chronique.
+Indication à la prise en charge par traitement de fond de l'algie vasculaire de la face: forme épisodique avec période douloureuse plus de 2 semaines ou forme chronique.
 
 - Pas d'ALD
 - Arrêt du tabac
@@ -288,7 +288,7 @@ Voire *lithium*.
 - Stimulation cérébrale profonde (hypothalamique)
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant une AVF" "show" %}}
+{{%collapse "Pris en charge d'une algie vasculaire de la face AVF" "show" %}}
 
 {{< mermaid title="Conduite à tenir et prise en charge d'une suspicion d'algie vasculaire de la face. Dr JB Fron d'après SFEMC 2014" >}}
 graph TB

@@ -6,9 +6,9 @@ titleSeo = "Maladies à déclaration obligatoire"
 description = "Liste des 36 maladies à déclaration obligatoire selon l'article D3113-6 du Code de la Santé publique: Hépatite A ou hépatite B symptomatique, VIH ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-03-27T17:24:00+02:00
-publishdate = 2021-03-27
-lastmod = 2022-02-11
+date = "2021-03-27T17:24:00+02:00"
+publishdate = "2021-03-27"
+lastmod = "2022-06-09"
 specialites = ["certificats"]
 annees = "2021"
 sources = ["SPF"]
@@ -17,7 +17,6 @@ anglais = []
 sctid = ""
 image = true
 imageSrc = "Illustration par rawpixel.com / Freepik"
-todo= ""
 +++
 
 36 maladies sont à déclaration obligatoire (MDO) en 2022, dont 2 non infectieuses (mésothéliomes et saturnisme chez les enfants mineurs). Cette liste est définie par l'[article D3113-6](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190444/) du Code de la Santé publique.
@@ -44,7 +43,7 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme:
 - Légionellose
 - Listériose
 - Mésothéliome
-- Orthopoxvirose, dont la variole
+- Orthopoxvirose, dont la variole ou Monkeypox (variole du singe)
 - [Paludisme]({{< relref "paludisme.md" >}}) autochtone ou d'importation dans les départements d'Outre-mer
 - Peste
 - Poliomyélite

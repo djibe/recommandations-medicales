@@ -5,9 +5,9 @@ titleSeo = "Diabète gestationnel"
 description = "Recommandations CNGOF pour le diagnostic et le traitement du diabète gestationnel. Glycémie à jeun puis HGPO troisième trimestre, autosurveillance glycémique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-04-30T19:57:00+02:00
-publishdate = 2021-05-01
-lastmod = 2022-03-17
+date = "2021-04-30T19:57:00+02:00"
+publishdate = "2021-05-01"
+lastmod = "2022-06-09"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["SFD", "CNGOF"]
@@ -27,7 +27,7 @@ todo = "attente relecture C Brunet"
 - Diagnostic de diabète gestationnel si glycémie à jeun ≥ 0,92 g/L ou HGPO H0 ≥ 0,92 g/L et/ou H1 ≥ 1,80 g/L et/ou H2 ≥ 1,53 g/L
 - Adresser à la maternité pour autosurveillance glycémique et diététique
 - Objectif de terme: 39 SA
-- GAJ à la consultation post-natale et tous les 1-3 ans à vie
+- Glycémie à la consultation post-natale et tous les 1-3 ans à vie
 - En pandémie Covid-19, si HGPO non réalisable, remplacer par GAJ + HbA1c avec un seuil diagnostique à 5,7% (*[Vambergue 2020](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)*)
 
 {{%/article-summary%}}
@@ -49,7 +49,7 @@ Conclusion de l'étude *Diagest2*: 18% des femmes avec un diabète gestationnel 
 ### Abréviations
 
 ADO
-: antidiabétiques oraux
+: *ex* antidiabétiques oraux, anti-hyperglicémiants oraux
 
 ASG
 : autosurveillance glycémique
@@ -76,7 +76,7 @@ T1
 {{% /collapse %}}
 {{%collapse "Dépistage du diabète gestationnel" %}}
 
-### Qui dépister ?
+### Chez qui dépister le diabète gestationnel ?
 
 Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque parmi:
 
@@ -96,9 +96,9 @@ Indication au dépistage du diabète gestationnel si ≥ 1 facteur de risque par
 
 {{%info%}}
 
-#### Diagnostic de diabète gestationnel
+#### Quels sont les critères diagnostiques du diabète gestationnel ?
 
-Recommandations pour le diagnostic de diabète gestationnel:
+Recommandations pour le diagnostic biologique de diabète gestationnel:
 
 - **glycémie à jeun ≥ 0,92 g/L** au premier trimestre  
   {{%class%}}Seuil *IADPSG*.{{%/class%}}
@@ -117,7 +117,7 @@ Au diagnostic, adresser à la maternité de son choix pour la mise en place d'un
 
 {{%info%}}Objectifs glycémiques du diabète gestationnel: glycémie à jeun < 0,95 g/L et post-prandiale à 2 heures < 1,20 g/L{{%/info%}}
 
-### Mesures hygiéno-diététiques (RHD)
+### Mesures hygiéno-diététiques au cours du diabète gestationnel (RHD)
 
 Prise en charge recommandée pour toutes les femmes avec un diagnostic de diabète gestationnel:
 
@@ -130,12 +130,12 @@ Prise en charge recommandée pour toutes les femmes avec un diagnostic de diabè
 ### Auto-surveillance glycémique (ASG)
 
 - Surveillance glycémique à jeun et post-prandiale (H2)
-- Si GAJ ≥ 0,95 g/L à jeun ou ≥ 1,20 g/L 2 heures après le repas pendant 7 à 10 jours malgré les RHD, recours à l'insulinothérapie
-- ASG poursuivie en post-partum immédiat
+- Si glycémie à jeun (GAJ) ≥ 0,95 g/L à jeun ou ≥ 1,20 g/L 2 heures après le repas pendant 7 à 10 jours malgré les mesures hygiéno-diététiques, recours à l'insulinothérapie
+- Auto-surveillance glycémique poursuivie en post-partum immédiat
 
-### Insulinothérapie
+### Indications à l'insuline au cours du diabète gestationnel
 
-Traitement du diabète gestationnel par insuline lorsque les glycémies dépassant les objectifs **après 10 jours de mesures hygiéno-diététiques** (grade A).
+Pris en charge du diabète gestationnel par insuline lorsque les glycémies dépassant les objectifs **après 10 jours de mesures hygiéno-diététiques** (grade A).
 
 Prise en charge spécialisée par le médecin endocrinologue-diabétologue:
 
@@ -144,12 +144,11 @@ Prise en charge spécialisée par le médecin endocrinologue-diabétologue:
 
 #### Insulines autorisées pendant la grossesse
 
-NPH, glargine U100, détémir, insuline rapide humaine, asparte, lispro.  
-Si nécessaire: glargine U300.
+Insulines utilisées en sécurité pour le traitement du diabète gestationnel: NPH, glargine U100, détémir, insuline rapide humaine, asparte, lispro (glargine U300 si nécessaire).
 
-**NB.** Pas d'ADO pendant la grossesse.
+**NB.** Pas d'antidiabétiques oraux (ADO) pendant la grossesse.
 
-### Pour en savoir plus: surveillance obstétricale périnatale
+### Pour en savoir plus: surveillance obstétricale périnatale du diabète gestationnel
 
 - Diabète gestationnel bien équilibré  
   Pas de suivi spécialisé particulier si pas de pathologie ou facteur de risque surajouté.
@@ -165,7 +164,7 @@ Si nécessaire: glargine U300.
 {{% /collapse %}}
 {{%collapse "Surveillance en post-partum et à long terme" %}}
 
-{{%info%}}Risque de récidive de DG de 30-84%, de syndrome métabolique x 2-5, de DT2 x7 et de maladie cardiovasculaire x1,7{{%/info%}}
+{{%info%}}Risque de récidive de diabète gestationnel de 30 à 84%, de syndrome métabolique x 2-5, de diabète type 2 x7 et de maladie cardiovasculaire x1,7{{%/info%}}
 
 - Surveillance de la normalisation des glycémies post-partum sans traitement
 - Si autres facteurs de risque cardiovasculaire:  
@@ -183,7 +182,7 @@ Si nécessaire: glargine U300.
   Surveillance pondérale + activité physique régulière
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir" "show" %}}
+{{%collapse "Prise en charge du diabète gestationnel" "show" %}}
 
 {{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge du diabète gestationnel. Dr JB Fron d'après SFD/CNGOF 2010" >}}
 graph TB
@@ -212,5 +211,9 @@ style fdr stroke:#4150f5, stroke-width:1px
 - [Regnault N. et al. Diabète gestationnel en France en 2012 : dépistage, prévalence et modalités de prise en charge pendant la grossesse. BEH. Santé Publique France. Mars 2016.](http://beh.santepubliquefrance.fr/beh/2016/9/2016_9_2.html)
 - SFD. Le livre blanc du diabète. 2011.
 - [CNGOF, SFD. Le diabète gestationnel. Recommandations pour la pratique clinique. 2010. (PDF)](http://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/diabete%20gesta%20cngof.pdf)
+
+### À lire
+
+[Louvet et al; SFD. Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022.pdf)
 
 {{%/sources%}}

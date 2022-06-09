@@ -20,7 +20,7 @@ todo = "SPF, information du patient NICE et HAS"
 
 {{%article-summary%}}
 
-- 1<sup>re</sup> cause de mortalité par cancer alors qu'il est quasi totalement évitable (tabac)
+- Première cause de mortalité par cancer alors qu'il est quasi totalement évitable (tabac)
 - Rechercher devant toute hémoptysie ou symptôme thoracique persistant chez un (ex)-fumeur
 - Radio de thorax F+P et scanner thoracique avec injection
 - Adresser en semi-urgence au Centre de Lutte contre le Cancer
@@ -52,7 +52,7 @@ PA
 : paquets-années
 {.dl-inline}
 
-### Épidémiologie
+### Épidémiologie du cancer du poumon en France
 
 - Incidence: 46.000/an (2e de l'homme, 3e de la femme)
 - Décès: 33.000/an (2018. 1<sup>re</sup> cause de mortalité par cancer)
@@ -67,7 +67,7 @@ PA
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic de cancer broncho-pulmonaire est évoqué devant (fumeur ou ancien fumeur ++):
+Le diagnostic de cancer broncho-pulmonaire est évoqué devant les symptômes suivants (fumeur ou ancien fumeur ++):
 
 - Signes respiratoires
   - [Toux](/tags/toux/)
@@ -112,7 +112,7 @@ Pour la suite de la prise en charge, relever:
 
 {{%info%}}Le dosage des marqueurs tumoraux n'a aucune indication{{%/info%}}
 
-### Imagerie en semi-urgence
+### Imageries en semi-urgence en suspicion de cancer du poumon
 
 - Radiographie thoracique face et profil
 - Scanner thoracique avec injection
@@ -171,16 +171,16 @@ Et pour une [personne vivant avec le VIH]({{< relref "vih-sida.md" >}}) (PVVIH) 
 
 #### Information sur le dépistage destinée aux personnes éligibles (SPLF)
 
-**Votre médecin vous a proposé d'effectuer un dépistage du cancer du poumon. Pourquoi ?**
+##### Votre médecin vous a proposé d'effectuer un dépistage du cancer du poumon. Pourquoi ?
 
 Parce que des études réalisées chez des personnes de votre tranche d'âge et ayant un tabagisme comparable au vôtre ont montré que le dépistage permet de réduire le risque de décès par cancer du poumon de plus de 20%.
 
-**Comment se déroule ce dépistage ?**
+##### Comment se déroule ce dépistage ?
 
 Vous passerez un examen tomodensitométrique (le plus souvent appelé scanner) à faible irradiation une fois par an pendant les deux premières années, puis le rythme sera déterminé par votre médecin, entre une fois tous les ans ou une fois tous les deux ans. Ces examens sont tout à fait indolores et non invasifs.  
 Comme dans les dépistages de toutes formes de cancer, il arrive qu'une anomalie soit détectée, à la lecture de l'examen, pouvant être source d'inquiétude. Le médecin vous proposera alors des examens complémentaires. Toutefois, dans la plupart des cas, ces anomalies ne sont pas cancéreuses.
 
-**Quel est l'intérêt de ce dépistage ?**
+##### Quel est l'intérêt de ce dépistage ?
 
 Alors qu'un cancer, découvert par des symptômes, est souvent à un stade avancé, le dépistage permet de découvrir précocement un cancer, de traiter et de guérir huit malades sur dix, et donc de réduire considérablement le nombre de décès par cancer du poumon.  
 La mise en œuvre de ce dépistage, si elle est accompagnée d'un arrêt du tabac, contribue à une diminution encore plus conséquente de la mortalité. C'est un moment privilégié pour arrêter de fumer si vous fumez encore. Votre médecin peut vous accompagner dans cette démarche. Vous pouvez également consulter les centres anti-tabac dont vous trouverez le numéro d'appel au 39 89 ou sur le site : <https://www.tabac-info-service.fr/>.  
@@ -188,9 +188,9 @@ Votre médecin est à votre disposition pour discuter de tous ces éléments.
 
 > *SPLF 2021*
 
-### Pour en savoir plus: Aux États-Unis d'Amérique
+### Pour en savoir plus: le dépistage du cancer du poumon aux États-Unis d'Amérique
 
-*Medicare* rembourse le scanner faible dose pour les personnes de 55-77 ans avec ≥ 30 PA (actif ou arrêté depuis < 15 ans).
+*Medicare* rembourse le scanner faible dose pour les personnes de 55-77 ans avec au moins 30 paquets-années (tabagisme actif ou arrêté depuis < 15 ans).
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}

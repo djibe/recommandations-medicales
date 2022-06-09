@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-30T10:49:36+02:00"
 publishdate = "2022-05-30"
-lastmod = "2022-06-02"
+lastmod = "2022-06-09"
 specialites = ["infectiologie", "therapeutique"]
 annees = "2022"
 sources = ["CNS", "HAS", "ANSM"]
@@ -28,6 +28,8 @@ imageSrc = "Illustration de la PrEP par pikisuperstar / Freepik"
 - Emtricitabine/Ténofovir disoproxil 200/245 mg (Truvada®) 1 cp par jour à heure fixe pendant le repas. Délai de 7 jours avant le premier rapport sexuel à protéger
 - Arrêt du traitement: 1 cp par jour pendant **7 jours** après le dernier rapport non protégé puis arrêt
 - Schéma discontinu possible (voir *Prescrire la PrEP*)
+- Applis pour l'aide à l'observance (My PrEP ..., voir *Resources patients*)
+- Suivi biologique et des dépistages systématique
 
 Chapitre lié: [VIH et SIDA]({{< relref "vih-sida.md" >}})
 
@@ -154,7 +156,7 @@ Applis pour l'aide à la prise du traitement: [My PrEP](https://myprep.app/), [A
 Possible chez l'HSH voire en 2<sup>e</sup> intention chez l'homme hétérosexuel (en l'absence d'hépatite B active):
 
 {{%info%}}
-Décrire le schéma continu sur l'ordonnance car seul à avoir l'AMM
+Toujours mentionner le schéma continu sur l'ordonnance car seul à permettre le remboursement et avoir l'AMM (cf ci-dessus). Ajouter en dessous:
 
 [Emtricitabine/Ténofovir disoproxil 200/245 mg](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) (Truvada®)  
 2 cp en 1 prise entre 2 et 24 heures avant le rapport à protéger,  

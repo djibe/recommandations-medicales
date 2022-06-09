@@ -5,9 +5,9 @@ titleSeo = "Polyarthrite rhumatoïde"
 description = "Recommandations SFR 2018 pour le diagnostic et le traitement de la polyarthrite rhumatoïde. Bilan biologique et radiographies. AINS, méthotrexate, biothérapie"
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr JG LETAROUILLY (SFR)"
-date = 2020-10-23T22:24:41+02:00
-publishdate = 2020-10-23
-lastmod = 2022-03-18
+date = "2020-10-23T22:24:41+02:00"
+publishdate = "2020-10-23"
+lastmod = "2022-03-18"
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "EULAR", "ACR", "HAS"]
@@ -46,11 +46,11 @@ Traitements conventionnels
 ### Diagnostic différentiel de la polyarthrite rhumatoïde
 
 - Connectivite  
-Lupus, Gougerot-Sjögren.
+  Lupus, Gougerot-Sjögren.
 - [Spondylarthrite]({{< relref "spondylarthrite-ankylosante.md" >}})
 - Arthrose digitale
 
-### Facteurs de mauvais pronostic
+### Facteurs de mauvais pronostic de la polyarthrite rhumatoïde
 
 - Érosions précoces
 - Présence de facteur rhumatoïde et d'ACPA (surtout si taux élevés ≥ 3N)
@@ -277,7 +277,7 @@ Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
 - Évaluation annuelle du retentissement: [échelle HAQ](http://www.arthrites.be/fr/pr.asp?Rub=127)
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant une suspicion de polyarthrite" "show" %}}
+{{%collapse "Prise en charge d'une suspicion de polyarthrite" "show" %}}
 
 {{< mermaid title="Conduite à tenir pour le diagnostic de la polyarthrite rhumatoïde. Dr JB Fron d'après SFRhumato 2018" >}}
 graph TB

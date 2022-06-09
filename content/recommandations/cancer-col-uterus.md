@@ -2,7 +2,7 @@
 title = "Cancer du col de l'utérus"
 prefix = "le "
 description = "Recommandations pour le dépistage du cancer du col de l'utérus et des papillomavirus. Vaccination Gardasil, frottis cervico-vaginal et test HPV haut risque"
-synonyms = ["et papillomavirus humains HPV", "dysplasies et condylomes"]
+synonyms = ["Papillomavirus humains HPV", "dysplasies et condylomes"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2021-01-18T10:55:00+02:00"
 publishdate = "2022-04-20"
@@ -77,13 +77,13 @@ Cancer du col de l'utérus
 
 Cancer (carcinome épidermoïde) et lésions précancéreuses sous-entendues.
 
-### Épidémiologie
+### Épidémiologie des atteintes liées aux papillomavirus
 
 - **Incidence:** 6300 cancers annuels et 35.000 dysplasies
 - **Sex ratio:** 75% des cancers atteignent des femmes
 - **Mortalité:** 1100 décès/an (lire [Taux de participation aux dépistages]({{< relref "participation-depistage-cancers.md" >}}))  
   Un dépistage de toute la population entraînerait une diminution de 90%.
-- 80% des hommes et des femmes sexuellement actifs seront infectés durant leur vie
+- 80% des hommes et des femmes sexuellement actifs seront infectés par les papillomavirus durant leur vie
 - **Couverture vaccinale:** 23,7% des jeunes filles âgées de 16 ans ont un schéma vaccinal complet (2018)
 
 > *INCa*
@@ -103,7 +103,7 @@ HPV-HR
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Les symptômes sont tardifs et témoignent d'une maladie avancée:
+Les symptômes du cancer du col de l'utérus sont tardifs et témoignent d'une maladie avancée:
 
 - Métrorragies ± provoquées
 - Leucorrhées
@@ -160,7 +160,7 @@ Parmi les femmes de 25 à 65 ans:
 
 > Le préservatif peut limiter le risque d'infection mais n'assure pas une protection efficace (*INCa*)
 
-### Vaccination
+### Vaccination anti papillomavirus
 
 Indications au vaccin HPV ([Gardasil 9®](https://ec.europa.eu/health/documents/community-register/2020/20201124149982/anx_149982_fr.pdf), seul recommandé):
 
@@ -215,7 +215,7 @@ En cas de ménopause induite, un [traitement hormonal]({{< relref "menopause.md"
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
 
-{{< card-link title="HPV - L'affaire de tous" url="https://pns-mooc.com/fr/mooc/21/presentation" subtitle="Université de Paris">}}
+{{< card-link title="MOOC HPV - L'affaire de tous" url="https://pns-mooc.com/fr/mooc/21/presentation" subtitle="Université de Paris">}}
 
 - [INCa. Dépistage organisé du cancer du col de l'utérus](https://depistagecoluterus.e-cancer.fr/)
 - [Abramovitz L. Vaccin contre le Papilloma virus : De l'AMM au pragmatisme. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/

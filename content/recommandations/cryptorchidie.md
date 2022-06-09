@@ -1,7 +1,7 @@
 +++
 title = "Cryptorchidie"
 prefix = "la "
-description = "Recommandations pour le diagnostic et la prise en charge de la cryptorchidie. Echographie abdominale et chirurgie avant 2 ans pour préserver le testicule"
+description = "Recommandations pour le diagnostic et la prise en charge de la cryptorchidie. Echographie abdominale et chirurgie avant deux ans pour préserver le testicule"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-30T16:38:00+02:00"
@@ -35,7 +35,7 @@ Elle est différente de l'*ectopie testiculaire* où le testicule n'est pas sur 
 
 Fréquemment oscillant ou << testicule ascenseur >>, migrant entre la bourse et la région inguinale.
 
-### Épidémiologie
+### Épidémiologie de la cryptorchidie
 
 2-4% des nouveaux-nés, 1% des garçons à 1 an, 20 à 30% des prématurés.  
 Atteinte bilatérale dans 20% des cas.
@@ -43,7 +43,7 @@ Atteinte bilatérale dans 20% des cas.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic est clinique par palpation des bourses.
+Le diagnostic de cryptorchidie est clinique par palpation des bourses.
 
 3 situations:
 
@@ -59,28 +59,28 @@ Soit intra-abdominal, soit atrophique.
 
 {{%info%}}Échographie abdomino-scrotale{{%/info%}}
 
-Les autres bilans (endocrinien, cœlioscopie exploratrice) dépendent du chirurgien pédiatrique.
+Les autres bilans de la découverte d'une cryptorchidie (endocrinien, cœlioscopie exploratrice) dépendent du chirurgien pédiatrique.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la cryptorchidie" %}}
 
-Le traitement est chirurgical par *orchidopexie* **avant 2 ans** (pas avant 6 mois, idéalement avant 1 an).  
-Indications:
+La prise en charge de la cryptorchidie est chirurgicale par *orchidopexie* **avant 2 ans** (pas avant 6 mois, idéalement avant 1 an).  
+Indications au traitement chirurgical d'un enfant cryptorchide:
 
 - Testicule palpable mais au-dessus de la bourse
 - Testicule cryptorchide  
-Exploration par cœlioscopie.
+  Exploration par cœlioscopie.
 
 Déroulement:
 
 - Hospitalisation courte 1-2 jours
 - Éviter piscine et vélo pendant 15 jours
 - Nécessite toujours une surveillance spécialisée à distance  
-Atrophie testiculaire secondaire dans 1-2% des cas à 6-12 mois post-chirurgie.
+  Atrophie testiculaire secondaire dans 1-2% des cas à 6-12 mois post-chirurgie.
 
 Surveillance annuelle des testicules oscillants (30% nécessiteront une intervention chirurgicale).
 
-### Information des parents
+### Information des parents d'un garçon cryptorchide
 
 [Document d'information des parents de l'AFU](https://www.urofrance.org/base-bibliographique/cryptorchidie-intervention-chirurgicale-pour-cryptorchidie) et le [document d'Ameli sur la cryptorchidie](https://www.ameli.fr/assure/sante/themes/cryptorchidie-testicule-non-descendu-ectopie-testiculaire/comprendre-cryptorchidie).
 

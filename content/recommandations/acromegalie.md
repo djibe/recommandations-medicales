@@ -1,7 +1,7 @@
 +++
 title = "Acromégalie"
 prefix = "l'"
-description = "Recommandations pour le diagnostic et la prise en charge de l'acromégalie. Suspecter devant un syndrome dysmorphique, adresser en centre de compétence HYPO"
+description = "Recommandations pour le diagnostic et la prise en charge de l'acromégalie. IRM hypophysaire, IGF-1, syndrome dysmorphique, adresser en centre de compétence HYPO"
 synonyms = ["Tumeur hypophysaire somatotrope"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-16T11:43:00+02:00"
@@ -38,9 +38,9 @@ IGF-1
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Clinique" %}}
+{{%collapse "Clinique de l'acromégalie" %}}
 
-Le diagnostic est souvent retardé (~5 ans) devant l'installation progressive des symptômes.
+Le diagnostic est souvent retardé (~5 ans) devant l'installation progressive des symptômes de l'acromégalie.
 
 Adresser au [centre de compétence ou de référence HYPO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/carte/document/) en cas de suspicion d'acromégalie:
 
@@ -72,9 +72,9 @@ Adresser au [centre de compétence ou de référence HYPO](http://www.firendo.fr
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%info%}}Les examens relèvent du centre spécialisé{{%/info%}}
+{{%info%}}Le bilan de l'acromégalie relève du centre spécialisé{{%/info%}}
 
-### Pour en savoir plus: le diagnostic
+### Pour en savoir plus: le diagnostic biologique d'acromégalie
 
 Le diagnostic est biologique: IGF-1 élevée et GH non freinée lors de l'hyperglycémie provoquée par voie orale.  
 Les autres axes hypophysaires sont également étudiés afin de détecter une autre anomalie.
@@ -82,7 +82,7 @@ Les autres axes hypophysaires sont également étudiés afin de détecter une au
 L'IRM hypophysaire retrouve souvent une tumeur.  
 Étude du champ visuel lors d'un macroadénome.
 
-### Autres
+### Autres examens
 
 - Radiographies des 2 épaules (face 3 rotations), hanches (face et faux profil) et genoux (face, schuss, profil, défilé 30-60°).
 - Coloscopie au diagnostic si +40 ans puis selon les recommandations générales
@@ -91,7 +91,7 @@ L'IRM hypophysaire retrouve souvent une tumeur.
 {{% /collapse %}}
 {{%collapse "Traitement de l'acromégalie" %}}
 
-{{%info%}}Le choix du traitement relève du centre spécialisé et le suivi doit être annuel{{%/info%}}
+{{%info%}}La prise en charge dépend du centre spécialisé et le suivi doit être annuel{{%/info%}}
 
 - [ALD 31]({{< relref "affection-longue-duree.md" >}})
 - MDPH

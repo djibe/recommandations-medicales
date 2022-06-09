@@ -48,7 +48,7 @@ Acné fulminante
 : Acné nodulaire aiguë, fébrile et ulcéreuse. Exceptionnelle.
 : Début brutal avec AEG, fièvre élevée, arthralgies, hyperleucocytose et très nombreux nodules inflammatoires.
 
-### Formes particulières
+### Formes particulières d'acné
 
 Acné néonatale
 : Sur le visage dès les premières semaines. Dû aux androgènes maternels. Régression spontanée en quelques semaines.
@@ -120,7 +120,7 @@ Sarcoïdose
 
 ### Mesures d'hygiène de la peau
 
-Les soins locaux d'une acné sont systématiques:
+Les soins locaux sont systématiques pour la prise en charge de l'acné:
 
 - **Toilette douce quotidienne** matin et soir avec gels/pains dermatologiques **SANS savon**, rinçage soigneux
 - Suivie d'application quotidienne de **crème hydratante** adaptée à la peau acnéique
@@ -330,9 +330,9 @@ Selon la SFDermato, informer le patient:
 {{%/collapse%}}
 {{%sources%}}
 
-{{< card-link title="Recommandations Acné" url="https://reco.sfdermato.org/fr/recommandations-acn%C3%A9" subtitle="SFDermato">}}
+{{< card-link title="Recommandations Acné SFD" url="https://reco.sfdermato.org/fr/recommandations-acn%C3%A9" subtitle="SFDermato">}}
 
-{{< card-link title="Acné" url="https://www.dermatoclic.com/acne" subtitle="Dermatoclic">}}
+{{< card-link title="L'Acné par Dermatoclic" url="https://www.dermatoclic.com/acne">}}
 
 - [ANSM. Traitement de l'acné sévère : premières recommandations pour améliorer la sécurité d'utilisation de l'isotrétinoïne. 06/12/2021.](https://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Traitement-contre-l-acne-regles-de-bon-usage-de-l-isotretinoine-pour-limiter-les-risques-Point-d-Information)
 - [ANSM. Traitement contre l'acné : règles de bon usage de l'isotrétinoïne pour limiter les risques. 30/03/2021.](https://ansm.sante.fr/actualites/traitement-contre-lacne-regles-de-bon-usage-de-lisotretinoine-pour-limiter-les-risques)
