@@ -62,9 +62,9 @@ VIH
 {{%collapse "La PrEP, pour qui ?" %}}
 
 {{%info%}}
-Toutes les personnes exposées au VIH (message simplifié: au moins 2 rapports non protégés en 6 mois) doivent être informées qu'elles peuvent en bénéficier et qu'elle est très efficace pour se prémunir d'une infection à VIH.
+Toutes les personnes exposées au [VIH]({{< relref "vih-sida.md" >}}) (message simplifié: au moins 2 rapports non protégés en 6 mois) doivent être informées qu'elles peuvent en bénéficier et qu'elle est très efficace pour se prémunir d'une infection à VIH.
 
-La PrEP doit être couplée au *préservatif* pour prévenir les [IST](/tags/ist/) et les grossesses non désirées.
+La PrEP doit être couplée au *préservatif* pour prévenir les [infections sexuellement transmissibles](/tags/ist/) et les grossesses non désirées.
 
 << Tout médecin peut faire la première prescription et le renouvellement de la PrEP >> (*HAS 2021*). Sinon adresser en {{< references/cegidd >}}, *COREVIH* régional ou centre spécialisé.
 {{%/info%}}
@@ -73,7 +73,7 @@ La PrEP doit être couplée au *préservatif* pour prévenir les [IST](/tags/ist
 
 ### Indications à la PrEP
 
-Chez le plus de 15 ans:
+Tout sujet de plus de 15 ans:
 
 - Toute situation jugée à risque par le médecin
 - [HSH](/tags/hsh/), transgenres ou bisexuels avec expositions VIH actuelles, antérieures ou futures
@@ -89,21 +89,19 @@ Chez le plus de 15 ans:
 
 > *HAS 2021*
 
-{{%info%}}La PrEP n'est pas indiquée pour le conjoint d'un couple stable exclusif avec charge virale indétectable depuis > 6 mois{{%/info%}}
+{{%info%}}La PrEP n'est pas indiquée pour le conjoint d'un couple stable exclusif avec charge virale VIH indétectable depuis plus de 6 mois{{%/info%}}
 
-Possible si: [infection VHB]({{< relref "hepatite-b.md" >}}) (avis gastro), grossesse ou allaitement avec suivi coordonné, [contraception hormonale]({{< relref "contraception.md" >}}).
+Possible si: [infection hépatite B]({{< relref "hepatite-b.md" >}}) (avis gastro), grossesse ou allaitement avec suivi coordonné, [contraception hormonale]({{< relref "contraception.md" >}}).
 
 {{% /collapse %}}
-{{%collapse "Contre-indications" %}}
+{{%collapse "Contre-indications à la PrEP" %}}
 
 {{%warning%}}
-
-### Contre-indications à la PrEP
 
 - [Personne vivant avec le VIH (PVVIH)]({{< relref "vih-sida.md" >}})
 - Statut VIH inconnu
 - Signes ou symptômes de primo-infection VIH
-- Insuffisance rénale modérée (< 60 mL/min)
+- [Insuffisance rénale modérée]({{< relref "insuffisance-renale-chronique.md" >}}) (< 60 mL/min)
 - Hypersensibilité au traitement
 {{%/warning%}}
 
@@ -250,7 +248,7 @@ gitGraph
 - [AIDES. La PrEP](https://www.aides.org/prep)
 
 {{%/sources%}}
-{{% modal title="Clairance selon Cockroft" id="modal-score-cockroft"%}}
+{{% modal title="Clairance de la créatinine selon Cockroft" id="modal-score-cockroft"%}}
 
 {{< scores/cockroft >}}
 

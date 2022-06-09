@@ -2,13 +2,13 @@
 title = "Paralysie faciale périphérique idiopathique"
 prefix = "la "
 titleSeo = "Paralysie faciale"
-description = "Recommandations pour le diagnostic et le traitement de la paralysie faciale a frigore. Examens en urgence, corticothérapie, antiviral valaciclovir"
+description = "Recommandations pour la prise en charge et le traitement de la paralysie faciale a frigore. Examens en urgence, IRM, corticoïdes, antiviral valaciclovir"
 synonyms = ["Paralysie faciale a frigore"]
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr S. TRINGALI et Dr M. FIEUX (SFORL)"
-date = 2021-03-07T17:12:00+02:00
-publishdate = 2021-03-08
-lastmod = 2021-12-27
+date = "2021-03-07T17:12:00+02:00"
+publishdate = "2021-03-08"
+lastmod = "2021-12-27"
 specialites = ["ORL"]
 annees = "2020"
 sources = ["SFORL"]
@@ -156,7 +156,7 @@ Remettre en cause le diagnostic en présence de ces signes d'alerte:
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-La PFI étant un diagnostic d'élimination, il faut s'assurer qu'il ne s'agisse pas d'une paralysie faciale centrale et éliminer les autres causes de paralysie faciale périphérique.
+La paralysie faciale a frigore étant un diagnostic d'élimination, il faut s'assurer qu'il ne s'agisse pas d'une **paralysie faciale centrale** et éliminer les autres causes de **paralysie faciale périphérique**.
 
 Les diagnostics différentiels sont dominés par les **causes tumorales, traumatiques ou zostériennes**.
 
@@ -277,7 +277,7 @@ Traitements non recommandés au cours d'une PFI:
 {{%/warning%}}
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant une paralysie faciale a frigore" "show" %}}
+{{%collapse "Prise en charge d'une paralysie faciale a frigore" "show" %}}
 
 {{< mermaid title="Conduite à tenir devant une paralysie faciale idiopathique. Dr JB Fron d'après SFORL 2020" >}}
 graph TB
@@ -297,7 +297,6 @@ graph TB
 - [Collège des enseignants de neurologie. Paralysie faciale.](https://www.cen-neurologie.fr/deuxieme-cycle/paralysie-faciale)
 
 {{%/sources%}}
-
 {{% modal title="Classification de House-Brackmann" id="score-house" %}}
 
 {{< scores/house-brackmann >}}

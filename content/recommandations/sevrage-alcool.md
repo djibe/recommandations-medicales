@@ -8,10 +8,10 @@ synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
 publishdate = "2022-01-11"
-lastmod = "2022-05-23"
+lastmod = "2022-06-09"
 specialites = ["addictologie"]
 annees = "2021"
-sources = ["HAS", "SFA"]
+sources = ["HAS", "SFA", "AFEF"]
 tags = ["depistage"]
 anglais = ["Alcoholism"]
 sctid = "7200002"
@@ -22,18 +22,19 @@ todo = "Kits addiction https://lecmg.fr/addictionsmg/, KEY x3 sevrage ambulatoir
 
 {{%article-summary%}}
 
-1. Repérage: consommation moyenne par jour, fréquence mensuelle de consommation ≥ 6 verres, autres toxiques (voir *Dépistage*)
+1. Repérage systématique: consommation moyenne par jour, fréquence mensuelle de consommation ≥ 6 verres, autres toxiques (voir *Dépistage*)
 2. Évaluation: score AUDIT-C ou FACE d'un mésusage et recherche de comorbidités (voir *Évaluation*)
 3. Intervention brève
 4. Dépistage des complications
 
 - 1 verre standard = 10g d'alcool. << Pour votre santé, l'alcool c'est maximum 2 verres par jour et pas tous les jours >> (seuil de mésusage = 10 verres/semaine, *[affiche SPF](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/affiche/pour-votre-sante-l-alcool-c-est-maximum-2-verres-par-jour-et-pas-tous-les-jours)*)
 - 0 alcool pendant la grossesse et chez les enfants
-- Prise en charge des co-addictions (tabac, cannabis) et troubles psychiatriques ([MonPsy]({{< relref "remboursement-psychologue-monpsy.md" >}}), dépression, anxiété...)
+- Mésusage: 1 homme sur 3 et 1 femme sur 6
+- Prise en charge des co-addictions (tabac, cannabis), complications somatiques et troubles psychiatriques ([MonPsy]({{< relref "remboursement-psychologue-monpsy.md" >}}), dépression, anxiété...)
 - Accepter l'objectif de consommation du sujet car toute réduction de consommation est positive. + efficace: auto-évaluation quotidienne de la consommation
 - Abstinence est préférable en dépendance à l'alcool ou comorbidités. Si non souhaitée, accompagnement vers la réduction des dommages
 
-Pour la pratique: [Alcool Info Service](https://www.alcool-info-service.fr/) ou {{<phone>}}0 980 980 930{{</phone>}}, [liste des CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html) et [Annuaire des centres de soins](https://www.addictaide.fr/annuaire/)
+Pour la pratique: [liste des CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html) et [Annuaire des centres de soins](https://www.addictaide.fr/annuaire/)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -63,6 +64,9 @@ Rechute
 
 ### Abréviations
 
+AFEF
+: Association française pour l'étude du foie
+
 API
 : alcoolisations ponctuelles importantes (≥ 6 verres/occasion)
 
@@ -78,6 +82,9 @@ FACE
 GGT
 : Gamma-GT (Gamma glutamyl transpeptidase)
 
+MFLA
+: Maladie du foie liée à l'alcool
+
 RPIB
 : repérage précoce et intervention brève
 
@@ -89,20 +96,26 @@ SSA
 
 TCC
 : thérapies cognitives et comportementales
+
+TUA
+: Trouble d'usage d'alcool
 {.dl-inline}
 
-### Épidémiologie de la consommation d'alcool
+### Épidémiologie de la consommation d'alcool en France
 
 - 1<sup>re</sup> substance addictive en coût social
-- Responsable d'1/3 des décès prématurés
+- 1/3 des décès prématurés
 - Décès: 41.000 annuels (30.000 hommes)
   - Cancers: 30.000 annuels attribuables (2<sup>e</sup> cause évitable derrière le tabac)  
     Bouche, pharynx, larynx, œsophage, foie, côlon-rectum, sein. Augmentation du risque/unité alcool de 9 à 168% selon les localisations (bouche, pharynx, larynx +++).
   - Décès cardiovasculaires: 9900 décès annuels attribuables (HTA, AVC, FA)
+- Coût sociétal: 118 milliards annuels
 - Consommation excessive
   - La France est 6<sup>e</sup> des pays de l'OCDE (sur 34)
-  - 23,6% des 18-75 ans dépassent les repères de consommation (2017)
-  - 10% des 18-75 ans consomment 58% de l'alcool consommé
+  - 23,7% des 18-75 ans dépassent les repères de consommation (2020)  
+    1 homme sur 3 et 1 femme sur 6  
+    48% ont un diplôme ≤ au baccalauréat
+  - 10% des 18-75 ans absorbent 58% de l'alcool consommé
   - 11,7 L/an/+15 ans
 - Risque suicidaire: x90 quand > 100 g/j
 - Accidents
@@ -219,7 +232,7 @@ Rechercher les complications d'un mésusage de l'alcool et proposer un suivi sp�
   - Accidents répétés
   - Érythrose du visage, hyperémie conjonctivale
   - Troubles digestifs
-  - Maladie alcoolique du foie (MAF)  
+  - Maladie du foie liée à l'alcool (MFLA)  
     Stéatose > stéato-hépatite > cirrhose.
   - Polynévrite
   - {{< modal-btn modal-mna >}}Dépister une dénutrition (MNA){{< /modal-btn >}}
@@ -236,11 +249,11 @@ Le bilan biologique est annuel:
 - Consultation dentaire
 - Troubles neurologiques: bilan de [dénutrition]({{< relref "denutrition.md" >}}) et carences (B1 ++)
 
-### Maladie alcoolique du foie (MAF)
+### Maladie du foie liée à l'alcool (MFLA)
 
 Diagnostic si mésusage de l'alcool, cytolyse 2-5N prédominant sur les ASAT, GGT augmentées, élimination des autres hépatopathies.
 
-Un bilan hépatique normal permet d'exclure une MAF significative à court terme.
+Un bilan hépatique normal permet d'exclure une MFLA significative à court terme.
 
 {{% /collapse %}}
 {{%collapse "Mesures générales et suivi" %}}
@@ -385,11 +398,13 @@ Réévaluation à 7 et 14 jours puis 1/mois au moins 6 mois.
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
+[Alcool Info Service.fr](https://www.alcool-info-service.fr/) ou {{<phone>}}0 980 980 930{{</phone>}}.
+
 - [SPF: L'alcool pour comprendre](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/brochure/l-alcool-pour-comprendre)
 - [Santé BD. L'alcool et ma santé](https://santebd.org/les-fiches-santebd/cancer/ma-sante-et-lalcool)
 - [Addictions France (ex ANPAA)](https://addictions-france.org/)
 
-### Bénéfices
+### Bénéfices de l'arrêt de l'alcool
 
 - Psychiques
   - Humeur
@@ -486,6 +501,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 {{% /collapse %}}
 {{%sources%}}
 
+- [Angler R et al. Dépassement des repères de consommation d'alcool à moindre risque en 2020 : résultats du Baromètre santé de Santé publique France. BEH. Novembre 2021.](http://beh.santepubliquefrance.fr/beh/2021/17/2021_17_1.html)
 - [HAS. Outil d'aide au repérage précoce et intervention brève : alcool, cannabis, tabac chez l'adulte. Janvier 2021.](https://www.has-sante.fr/jcms/c_1795221/fr/outil-d-aide-au-reperage-precoce-et-intervention-breve-alcool-cannabis-tabac-chez-l-adulte)
 - [Addictions France. Les repères de consommation des boissons alcooliques. Novembre 2018. (PDF)](https://addictions-france.org/datafolder/uploads/2021/02/Fiche-Reperes-Reperes-alcool.pdf)
 - [SFA, ANPAA, EUFAS. Mésusage de l'alcool dépistage, diagnostic et traitement. 2015.](http://www.sfalcoologie.asso.fr/download/RBP2014-SFA-Mesusage-AA.pdf)
@@ -495,21 +511,19 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 ### À lire
 
-- [Angler R et al. Dépassement des repères de consommation d'alcool à moindre risque en 2020 : résultats du Baromètre santé de Santé publique France. BEH. Novembre 2021.](http://beh.santepubliquefrance.fr/beh/2021/17/2021_17_1.html)
+- [Louvet A. et al. Prise en charge de la maladie du foie liée à l'alcool. Recommandations de l'Association française pour l'étude du foie et de la Société française d'alcoologie. Janvier 2021.](https://afef.asso.fr/wp-content/uploads/2021/01/Recommandations-AFEF-SFA-sur-Prise-en-charge-de-la-maladie-du-foie-liee-a-lalcool.pdf)
 - <https://www.cen-neurologie.fr/fr/deuxieme-cycle/addiction-lalcool-complications-neurologiques-lalcoolisme>
 - <https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa>
 - <http://www.addictologie.org/spip.php?page=avectitre&id_rubrique=8>
 - <http://www.addictologie.org/spip.php?page=accueil&id_rubrique=1>
 - <http://www.sfalcoologie.asso.fr/page.php?choix=A10>
 - <https://bdoc.ofdt.fr/index.php?lvl=more_results&autolevel1=1>
-- <https://www.cnge.fr/conseil_scientifique/productions_du_conseil_scientifique/soins_du_patient_ayant_une_consommation_dalcool_ri/>
 - <https://www.alcool-info-service.fr/Alcool/Home-Professionnels/Alcool-et-grossesse/Le-reperage-et-le-depistage-de-la-consommation-maternelle/Comment-mener-un-entretien-Quelques-cles>
 - <https://www.lissa.fr/dc/#env=lissa&q=alcool&p=1>
 - J. Rehm, Section of Cancer Surveillance, International Agency for Research on Cancer, Lyon, France
 - Risque vie-entière d'un décès attribuable à l'alcool en France chez les femmes/hommes
 - Prescrire
 - <https://www.ofdt.fr/BDD/publications/docs/TabAlcool2000-2018.pdf>
-- <https://www.insee.fr/fr/statistiques/1373390?sommaire=1373438>
 - <https://www.fmcgastro.org/texte-postu/postu-2020-paris/sevrage-en-alcool-et-maladies-chroniques-du-foie/>
 
 {{%/sources%}}

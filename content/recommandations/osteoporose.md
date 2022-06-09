@@ -7,9 +7,9 @@ longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. CORTET et Dr T. FUNCK-BRENTANO (SFR, GRIO)"
-date = 2020-09-04T17:43:41+02:00
-publishdate = 2021-12-06
-lastmod = 2022-03-28
+date = "2020-09-04T17:43:41+02:00"
+publishdate = "2021-12-06"
+lastmod = "2022-03-28"
 specialites = ["rhumatologie"]
 annees = "2019"
 sources = ["SFRhumato", "GRIO", "IOF", "HAS"]
@@ -39,9 +39,9 @@ Recommandations simplifiées pour un traitement réaliste:
 7. Nouveau contrôle 2 ans après l'arrêt du traitement
 
 **Prévention pour toutes**  
-{{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, arrêt du tabac, activité physique, [vitamine D]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1-1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
+{{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, arrêt du tabac, activité physique, [vitamine D]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1 - 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
 
-Voir aussi: [Traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
+Chapitre lié: [Traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -63,10 +63,10 @@ Fracture de fragilité sévère
 FRAX®
 : Score de probabilité à 10 ans de fracture de l'extrémité supérieure du fémur (FESF) et des {{< modal-btn modal-fracture-severe >}}fractures majeures{{< /modal-btn >}} développé par l'OMS. Validé en France en cas de ménopause.
 
-### Facteurs de risque de fracture
+### Facteurs de risque de fracture osseuse
 
 - **Fracture récente** (facteur majeur)  
-{{%class%}}Fracture vertébrale: 25% de récidive dans l'année (non diagnostiquée dans 2/3 des cas). Non vertébrale: risque nettement majoré pendant 3 ans.{{%/class%}}
+  {{%class%}}Fracture vertébrale: 25% de récidive dans l'année (non diagnostiquée dans 2/3 des cas). Non vertébrale: risque nettement majoré pendant 3 ans.{{%/class%}}
 - {{< modal-btn modal-risque-chute >}}Facteurs de risque de chute{{< /modal-btn >}}
 - {{< modal-btn modal-risque-fracture >}}Liste des facteurs de risque de fracture{{< /modal-btn >}}
 
@@ -106,17 +106,17 @@ THM
 : traitement hormonal de la ménopause
 {.dl-inline}
 
-### Épidémiologie
+### Épidémiologie de l'ostéoporose en France
 
 {{%info%}}Après 50 ans, 1 femme sur 2 et 1 homme sur 5 auront une fracture ostéoporotique (*COFER*){{%/info%}}
 
 L'ostéoporose est responsable d'un lourd fardeau médico-économique:
 
 - 177.000 hospitalisations de +50 ans (2013)  
-3/4 de femmes et 2/3 ont +70 ans.
+  3/4 de femmes et 2/3 ont +70 ans.
 - 70.000 fractures vertébrales (2001)
 - 60.000 fractures de l'extrémité supérieure du fémur (ESF, 2001)  
-≥ 55 ans: 23,5% de mortalité (toutes causes confondues) dans l'année qui suit une FESF (*Drees 2016*)
+  +55 ans: 23,5% de mortalité (toutes causes confondues) dans l'année qui suit une FESF (*Drees 2016*)
 - 35.000 fractures du poignet (2001)
 - 2009 - 2016: 2x moins de traitements spécifiques de l'ostéoporose prescrits ! (*[Cortet 2022](https://doi.org/10.1016/j.bone.2021.116255)*)
 
@@ -149,9 +149,9 @@ L'ostéoporose est responsable d'un lourd fardeau médico-économique:
 
 Examens pour éliminer une ostéoporose secondaire.
 
-### Bilan biologique
-
 {{%info%}}
+
+### Bilan biologique pour la prise en charge de l'ostéoporose
 
 - NFS, VS, CRP
 - Créatininémie avec DFGe (CKD-EPI)
@@ -182,7 +182,7 @@ Indications:
 {{%info%}}
 Indications de l'ostéodensitométrie:
 
-- Ménopause et
+- [Ménopause]({{< relref "menopause.md" >}}) et
   - Fracture de fragilité du col fémoral chez un parent
   - IMC < 19 kg/m²
   - Insuffisance ovarienne précoce (< 40 ans)
@@ -212,20 +212,20 @@ Toutefois 50% des fractures surviennent chez des personnes avec T-score > -2,5.
 Les mesures sur os arthrosique ou sur fracture vertébrale surestiment la DMO.
 
 {{%/collapse%}}
-{{%collapse "Risque de fracture - calcul du FRAX" %}}
+{{%collapse "Risque de fracture osseuse - calcul du FRAX" %}}
 
 ### Calcul du FRAX
 
 Inutile si traitement indiqué d'emblée: {{< modal-btn modal-fracture-severe >}}antécédent de fracture sévère{{< /modal-btn >}}, T-score ≤ -3 au site vertébral et fémoral.  
-Validé en France uniquement en cas de ménopause.
+Validé en France uniquement en cas de [ménopause]({{< relref "menopause.md" >}}).
 
 {{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" title="Calcul du FRAX® en France sur le site officiel">}}
 
 > Calcul du FRAX® sur le [site officiel](https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12) pour les françaises.
 
-### Décision de traitement selon le FRAX
+### Décision de traitement anti-ostéoporotique selon le FRAX
 
-Le seuil d'intervention dépend de l'âge et la décision de traiter du clinicien.
+Le seuil d'intervention sur l'ostéoporose dépend de l'âge et la décision de traiter du clinicien.
 
 <div class="border card-body mt-3">
   <label for="age" class="mb-4">Âge de la patiente ménopausée</label>
@@ -326,15 +326,14 @@ Tout au long de la vie: activité physique adaptée, apports vitamino-calciques.
 
 - Sevrage tabagique + alcool
 - Soins bucco-dentaires ≥ 1/an (et avant traitement)  
-{{%class%}}Débuter le traitement si risque élevé de fracture à court terme.{{%/class%}}
+  {{%class%}}Débuter le traitement si risque élevé de fracture à court terme.{{%/class%}}
 - Évaluation gériatrique si {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} ou fragilité
 - Prévention des chutes
   - Arrêt des somnifères et opiacés, alcool
   - Recherche de l'hypotension orthostatique
   - Contrôler les lunettes
 - Activité physique avec impact
-  - ≥ 2 j/semaine
-  - Supervisée ++
+  ≥ 2 j/semaine, supervisée ++
 - Vitamine D
   - Prévenir une carence en vitamine D par cible ≥ 75 nmol/L
   - Dose d'entretien: 800-1200 UI/j (ou 80-100.000 UI/2-3 mois)
@@ -342,13 +341,13 @@ Tout au long de la vie: activité physique adaptée, apports vitamino-calciques.
 - Calcium
   - Femme ménopausée ≥ 50 ans: cible 1-1,2 g/j ({{< modal-btn modal-calcium-cible >}}Apports calciques cibles{{< /modal-btn >}})
   - Associations calcium/vitamine D  
-  {{%class "text-black-secondary"%}}Cacit, Calcidose, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Eptavit, Fixical, Ideos, Metocalcium, Natecal, Orocal, Osseans, Structocal.{{%/class%}}
+    {{%class "text-black-secondary"%}}Cacit, Calcidose, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Eptavit, Fixical, Ideos, Metocalcium, Natecal, Orocal, Osseans, Structocal.{{%/class%}}
   - {{< modal-btn modal-calcium >}}Aliments riches en calcium{{< /modal-btn >}}
   - Évaluation des apports par [questionnaire du GRIO](http://www.grio.org/espace-gp/calcul-apport-calcique-quotidien.php)
   - Apports lactés quotidiens jusqu'à 3 ans
 
 {{%/collapse%}}
-{{%collapse "Traitements spécifiques anti-ostéoporotiques: biphosphonates, raloxifène, dénosumab" %}}
+{{%collapse "Traitements anti-ostéoporotiques: biphosphonates, raloxifène, dénosumab" %}}
 
 {{%info%}}
 
@@ -357,9 +356,9 @@ Tout au long de la vie: activité physique adaptée, apports vitamino-calciques.
 La prise en charge médicamenteuse de l'ostéoporose est recommandée dans les situations suivantes:
 
 - Antécédent de {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} avec T-score ≤ -1  
-Avis rhumatologique si T-score > -1.
+  Avis rhumatologique si T-score > -1.
 - Fracture ostéoporotique non sévère avec T-score ≤ -2 (DMO rachis ou fémur)  
-Avis rhumatologique si T-score > -2 et < -1.
+  Avis rhumatologique si T-score > -2 et < -1.
 - Ménopause avec T-score ≤ -3 (DMO rachis ou fémur)
   - Avis rhumatologique si T-score entre -2 et -3
   - Utiliser les traitements indiqués pour les fractures non sévères
@@ -506,9 +505,9 @@ Envisager la suspension de la prise en charge par médicaments de l'ostéoporose
 Réévaluation de la prise en charge avec ostéodensitométrie 2 ans après l'arrêt du traitement.
 
 {{%/collapse%}}
-{{%collapse "Conduite à tenir devant une ostéoporose" "show" %}}
+{{%collapse "Prise en charge de l'ostéoporose" "show" %}}
 
-{{< mermaid title="Dépistage de l'ostéoporose en l'absence d'antécédent de fracture. JB Fron d'après SFRhumato 2018" >}}
+{{< mermaid title="Dépistage de l'ostéoporose en l'absence d'antécédent de fracture osseuse. JB Fron d'après SFRhumato 2018" >}}
 graph TB
   menopause["<b>Ménopause et &ge; 1 parmi:</b><br>- Fracture fragilité chez parent<br>- IMC &lt; 19<br>- Ménopause précoce<br>- FRAX &gt; seuil pour l'âge<br>- Contrôle à 3-5 ans de DXA sans ttt<hr>- Sujet âgé à risque de chute<br>- Corticothérapie prolongée<br>- Endocrinopathie ou<br>pathologie déminéralisante<br>- Maladie cœliaque"]
   style menopause stroke:#4150f5, stroke-width:1px
@@ -526,7 +525,7 @@ graph TB
 
 ---
 
-{{< mermaid title="Prise en charge de l'ostéoporose fracturaire de la femme. JB Fron d'après SFRhumato 2018, HAS 2019 BUM ostéoporose et HAS 2019 lombalgie" >}}
+{{< mermaid title="Prise en charge de l'ostéoporose après fracture osseuse chez la femme. JB Fron d'après SFRhumato 2018, HAS 2019 BUM ostéoporose et HAS 2019 lombalgie" >}}
 graph TB
   perteTaille["- Perte de taille<br>&ge; 2 cm au long cours<br>ou &ge; 4 cm comparée à 20 ans<br>- Rachialgies après 55 ans<br>ou ménopause<br>- Corticoïdes chroniques"] --> radio(Radio dorso-lombaires) -- Fracture vertébrale --> bilan
   fracture[Fracture osseuse]
@@ -557,11 +556,11 @@ graph TB
 {{%/collapse%}}
 {{%collapse "Vidéos de formation" %}}
 
-### Vidéos du GRIO
+### Vidéos du GRIO sur l'ostéoporose
 
 {{< card-link title="L'Ostéoporose et les signes d'appel, Le diagnostic de l'ostéoporose et Prévenir l'ostéoporose" url="http://www.grio.org/espace-gp/films-osteoporose.php">}}
 
-{{< card-link title="Ostéoporose Masculine" url="http://www.grio.org/membres/video-webcast.php" subtitle="Le point sur les recommandations françaises">}}
+{{< card-link title="Ostéoporose Masculine" url="http://www.grio.org/membres/video-webcast.php" subtitle="Le point sur les recommandations françaises de la prise en charge de l'ostéoporose masculine">}}
 
 {{%/collapse%}}
 {{%sources%}}

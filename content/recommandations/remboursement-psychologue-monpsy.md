@@ -69,11 +69,11 @@ Adressage pour un accompagnement psychologique (entretien d'évaluation et jusqu
 Le patient choisit son psychologue dans l'annuaire (ci-dessus).
 
 {{% /collapse %}}
-{{%collapse "Les CMP" %}}
+{{%collapse "Les CMP : Centres médico-psychologiques" %}}
 
 Adresser au centre médico-psychologique (CMP) les patients ne relevant pas d'un suivi psychothérapeutique seul et pouvant bénéficier d'équipe pluridisciplinaire.
 
-Voir l'annuaire des CMP dans l'introduction.
+[Annuaire des CMP](https://www.santeenfrance.fr/annuaire/13-centres-medico-psychologiques-cmp-cattp) et [CMPP](https://annuaire.action-sociale.org/etablissements/jeunes-handicapes/centre-medico-psycho-pedagogique--c-m-p-p---189.html).
 
 {{% /collapse %}}
 {{%sources%}}

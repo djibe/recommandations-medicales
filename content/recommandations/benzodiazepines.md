@@ -199,7 +199,7 @@ Dr ...
 - [HAS. Modalités d'arrêt des benzodiazépines et médicaments apparentés chez le patient âgé. Recommandations professionnelles. Octobre 2007.](https://www.has-sante.fr/jcms/c_601509/fr/modalites-d-arret-des-benzodiazepines-et-medicaments-apparentes-chez-le-patient-age)
 
 {{%/sources%}}
-{{% modal title="Échelle cognitive d'attachement aux benzodiazépines" id="modal-score-ecab"%}}
+{{% modal title="Échelle ECAB" id="modal-score-ecab"%}}
 
 {{< scores/ecab >}}
 

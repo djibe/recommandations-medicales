@@ -346,7 +346,7 @@ graph TB
 {{< scores/herdoo2 >}}
 
 {{% /modal %}}
-{{% modal title="Clairance selon Cockroft" id="modal-score-cockroft"%}}
+{{% modal title="Clairance de la créatinine selon Cockroft" id="modal-score-cockroft"%}}
 
 {{< scores/cockroft >}}
 

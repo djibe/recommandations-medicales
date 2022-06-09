@@ -24,11 +24,11 @@ todo = "diarrhée chro, https://doi.org/10.1016/j.mmm.2020.10.008"
 - Symptômes typiques: douleurs abdominales, diarrhées, flatulences  
   Dans l'heure suivant l'ingestion (hypervariable possible)
 - Toujours évoquer en [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
-- Test d'éviction 2 semaines car test respiratoire à l'hydrogène non remboursé
-- Des apports 12-18g/j de lactose semblent tolérés
+- Diagnostic: amélioration franche après un test d'éviction du lactose pendant 2 semaines car test respiratoire à l'hydrogène non remboursé
+- Prise en charge: des apports 12-18g/j de lactose semblent tolérés
 - Maintenir des apports en produits laitiers pour apporter les micronutriments
 
-Articles liés: [vitamine D]({{< relref "vitamine-d.md" >}}), [ostéoporose]({{< relref "osteoporose.md" >}})
+Articles liés: [vitamine D]({{< relref "vitamine-d.md" >}}) et [ostéoporose]({{< relref "osteoporose.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -89,7 +89,7 @@ Test perturbé par l'activité physique, le tabac, IPP, aspirine et probiotiques
 
 Alternative: 4 mesures sur 3 heures (méthode *4SLHBT*)
 
-### Diète d'exclusion ou test d'éviction
+### Diète d'exclusion ou test d'éviction du lactose
 
 Après 2 semaines d'éviction du lactose, une amélioration significative doit être observée.  
 Le lactose est alors réintroduit (250 mL de lait ≥ 2 fois dans la semaine chez l'enfant) comme test diagnostique avec résurgence des symptômes qui signe l'intolérance au lactose.  
@@ -98,10 +98,11 @@ Le lactose est alors réintroduit (250 mL de lait ≥ 2 fois dans la semaine che
 > *Roy 2016*
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'intolérance au lactose" %}}
 
 {{%info%}}L'éviction des produits laitiers n'est plus encouragée{{%/info%}}
 
+La prise en charge de l'intolérance au lactose repose sur le maintien d'apports en **produits laitiers**.  
 Laits sans lactose et maintien d'apports en produits laitiers pour les apports en calcium, protéines, minéraux, acides gras polyinsaturés (plupart tolèrent 12-18 g de lactose/j, soit 25 cL de lait).
 
 - Produits pauvres en lactose: fromages affinés (pâtes dures), fermentés (yaourt, kefir, skyr)

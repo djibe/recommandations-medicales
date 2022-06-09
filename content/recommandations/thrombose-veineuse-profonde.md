@@ -310,7 +310,7 @@ graph TB
 - [Afshari A. et al; ESA VTE Guidelines Task Force. European Guidelines on perioperative venous thromboembolism prophylaxis. Eur Jour Anaes. 2018.](https://journals.lww.com/ejanaesthesiology/fulltext/2018/02000/european_guidelines_on_perioperative_venous.2.aspx)
 
 {{%/sources%}}
-{{% modal title="Clairance selon Cockroft" id="modal-score-cockroft"%}}
+{{% modal title="Clairance de la créatinine selon Cockroft" id="modal-score-cockroft"%}}
 
 {{< scores/cockroft >}}
 

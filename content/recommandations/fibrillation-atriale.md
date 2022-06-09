@@ -433,7 +433,7 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{< scores/observance >}}
 
 {{% /modal %}}
-{{% modal title="Clairance selon Cockroft" id="modal-score-cockroft"%}}
+{{% modal title="Clairance de la créatinine selon Cockroft" id="modal-score-cockroft"%}}
 
 {{< scores/cockroft >}}
 
