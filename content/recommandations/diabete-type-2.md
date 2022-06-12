@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-03-19"
+lastmod = "2022-06-12"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["SFD", "ESC", "EASD", "ADA", "HAS"]
@@ -15,7 +15,7 @@ anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | GS: cible 6,5%, < 0.95 jeun et 1,2 H2. Post-IDM + diabète: simva + ezetimibe"
+todo = "glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | Post-IDM + diabète: simva + ezetimibe"
 +++
 
 {{%article-summary%}}
@@ -24,7 +24,10 @@ todo = "glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/20
 - Sevrage tabagique obligatoire
 - Points vitaux obligatoires (voir plus bas)
 - Traitements: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}
+- Dépistages des complications +++ (voir *Dépistage*)
 - Éducation thérapeutique du patient: [diabeclic.com](https://www.diabeclic.com)
+
+Articles liés: [diabète type 1]({{< relref "diabete-type-1.md" >}}), [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions"%}}
@@ -35,12 +38,12 @@ Diabète
     - ou HbA1c ≥ 6,5%
     - ou HGPO H2 ≥ 2 g/L
     - Symptômes et glycémie ≥ 2 g/L
-: L'atteinte coronaire est plus étendue, sévère et diffuse. 6-35% ont une ischémie myocardique sans angor et 50% des infarctus du myocarde sont **silencieux** (*SFD 2021 CAD*). Responsable majeur est le **LDL**.
+: L'atteinte coronaire est plus étendue, sévère et diffuse. 6-35% ont une ischémie myocardique sans angor et 50% des infarctus du myocarde sont **silencieux** (*SFD 2021 CAD*). Responsable majeur est le **LDL**. Risque [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) x2-4.
 
 Hyperglycémie modérée à jeun (HGMAJ)
 : Ou *prédiabète*, correspond au stade précurseur du diabète.  
 La glycémie à jeun est mesurée de 1 à 1,25 g/L (HGPO H2 < 1,4 g/L).
-: La perte d'1 kg réduit de 43% le risque de DT2 (*ESC 2019 diabetes*).
+: La perte d'un kg réduit de 43% le risque de DT2 (*ESC 2019 diabetes*).
 
 Rémission du diabète
 : Définitions *EASD 2021*:
@@ -79,11 +82,10 @@ Rémission du diabète
   - {{< modal-btn modal-statine-intensite >}}< 0,7 g/L{{< /modal-btn >}}
   - {{< modal-btn modal-statine-intensite >}}< 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-rcv-diabete >}}maladie cardiovasculaire, > 20 ans d'évolution ou ≥ 3 autres FRCV{{< /modal-btn >}}
 - Activité physique  
-{{%class "text-black-secondary" %}}**Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense). Endurance et renforcement musculaire. Commencer par 1000 pas supplémentaires/j.{{%/class%}}
-- Cible d'HbA<sub>1c</sub>  
-{{< modal-btn modal-hba1c >}}Globalement **7%**{{< /modal-btn >}} {{%class%}}(*SFD 2021*){{%/class%}}.
+  {{%class "text-black-secondary" %}}**Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense). Endurance et renforcement musculaire. Commencer par 1000 pas supplémentaires/j.{{%/class%}}
+- Cible d'HbA<sub>1c</sub>: {{< modal-btn modal-hba1c >}}globalement **7%**{{< /modal-btn >}} {{%class%}}(*SFD 2021*){{%/class%}}
 - Surpoids  
-Perte de poids (5-10%) ou chirurgie bariatrique.
+  Perte de poids (5-10%) ou chirurgie bariatrique.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Dépister des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et dysfonction érectile (*[Phé 2012](https://doi.org/10.1016/j.diabet.2011.09.003)*)
 - ALD 8 et proposer [Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
@@ -95,9 +97,10 @@ Perte de poids (5-10%) ou chirurgie bariatrique.
 
 *Version préliminaire d'après SFD 2021*
 
-- Cliquer sur la classe thérapeutique pour afficher plus d'informations
+- Cliquer sur la classe thérapeutique pour afficher plus d'informations sur la prise en charge
 - Les classes thérapeutiques de préférence sont entourées ou signalées avec un indicateur bleu
-- **Objectif 0 hypo !**
+- **Objectif 0 hypoglycémie !**
+- Pour la grossesse, objectifs identiques au [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
 
 <form class="border p-4 my-4">
   <fieldset class="m-0">
@@ -112,8 +115,6 @@ Perte de poids (5-10%) ou chirurgie bariatrique.
     <label for="mrc" class="chip chip-action chip-choice" data-toggle="tooltip" title="Maladie rénale chronique">MRC</label>
     <input type="radio" name="assistant" id="ic" class="d-input-none" disabled>
     <label for="ic" class="chip chip-action chip-choice" data-toggle="tooltip" title="Insuffisance cardiaque">Insuf. cardiaque</label>
-    <input type="radio" name="assistant" id="grossesse" class="d-input-none" disabled>
-    <label for="grossesse" class="chip chip-action chip-choice" data-toggle="tooltip" title="Grossesse">Grossesse</label>
   </fieldset>
 </form>
 <h3 class="typography-overline">Toujours</h3>
@@ -254,6 +255,7 @@ window.onload = () => {
 | ECG          | Annuel (VPN très faible)                                                                         | SFD 2021 CAD             |
 | Épreuve d'effort | Angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans) | SFD 2021 CAD |
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
+| Insuff. cardiaque | (NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, MRC, coronaropathie, femme, bas socio-éco | ADA 2022 |
 | Neuropathie  | Dépistage annuel monofilament                                                                    | ESC 2019 diabetes        |
 | Rénal        | Créatininémie, albuminurie sur échantillon annuels                                               | ESC 2019 diabetes        |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | SFD 2016                 |
@@ -261,7 +263,7 @@ window.onload = () => {
 | Vaccins      | Covid-19, grippe, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}        | Calendrier vaccinal |
 {{< /table >}}
 
-> **AAA** = anévrysme de l'aorte abdominale ; **EE** = épreuve d'effort ; **aspirine:** IPP si risque élevé de saignement digestif  
+> **AAA** = anévrysme de l'aorte abdominale ; **EE** = épreuve d'effort ; **MRC** = maladie rénale chronique ; **aspirine:** IPP si risque élevé de saignement digestif ;  
 Épreuve d'effort: évaluer les facteurs de risque: FRCV usuels, tour de taille, ancienneté du diabète, HbA<sub>1c</sub>, complications, dysfonction érectile, SAOS, NASH
 
 {{% /collapse %}}
@@ -283,6 +285,7 @@ window.onload = () => {
 
 {{< card-link title="e-learning EASD" url="https://easd-elearning.org/">}}
 
+- [Pop-Busui R et al. Heart Failure: An Underappreciated Complication of Diabetes. A Consensus Report of the American Diabetes Association. Diabetes Care. 2022.](https://diabetesjournals.org/care/article/doi/10.2337/dci22-0014/147048/Heart-Failure-An-Underappreciated-Complication-of)
 - {{< references/calendrier-vaccinal >}}
 - {{< references/sfd-dt2 >}}
 - [Riddle M.C. et al. Consensus report: definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021.](https://link.springer.com/article/10.1007/s00125-021-05542-z)
