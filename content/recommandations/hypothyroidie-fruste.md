@@ -1,7 +1,7 @@
 +++
 title = "Hypothyroïdie fruste"
 prefix = "l'"
-shortname = "hThyroïdie fruste"
+description = "Recommandations pour la prise en charge de l'hypothyroïdie fruste. Surveillance de la TSH et des anticorps et indications au traitement lévothyroxine"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-21T19:40:41+02:00"

@@ -1,7 +1,7 @@
 +++
 title = "Hypertrophie bénigne de la prostate"
 prefix = "l'"
-shortname = "HBP"
+description = "Recommandations pour la prise en charge de l'hypertrophie de prostate HBP. Bilan de première intention, phytothérapie, alphabloquant alfusozine"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-04T10:52:08+02:00"

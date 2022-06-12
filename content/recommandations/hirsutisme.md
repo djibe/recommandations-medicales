@@ -2,7 +2,7 @@
 title = "Hirsutisme"
 noindex = true
 prefix = "l'"
-shortname = "hirsutisme"
+description = "Recommandations pour la prise en charge de l'hirsutisme. Étiologie, bilan biologique et traitement recommandés: rasage, spironolactone"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-15T00:43:56+02:00"
@@ -16,7 +16,7 @@ anglais = ["Hirsutism"]
 sctid = "399939002"
 image = true
 imageSrc = "Charles Eisenmann, Wikimedia Commons"
-todo = "TODO: summary, bilan paraclinique"
+todo = "summary, bilan paraclinique"
 +++
 
 {{%article-summary%}}
@@ -52,7 +52,7 @@ Les causes de l'hirsutisme sont gynécologiques, endocriniennes et idiopathique:
 
 - Duvet
 - Hypertrichose  
-Excès de poils sous forme de duvet sur des zones non androgéniques. Elle est localisée (autour d'un grain de beauté) ou diffuse. Autant chez les femmes que les hommes.
+  Excès de poils sous forme de duvet sur des zones non androgéniques. Elle est localisée (autour d'un grain de beauté) ou diffuse. Autant chez les femmes que les hommes.
 
 {{%/collapse %}}
 {{%collapse "Clinique" %}}
@@ -61,14 +61,14 @@ Excès de poils sous forme de duvet sur des zones non androgéniques. Elle est l
 
 - Age de survenue, évolution de la pilosité
 - Signes d'**hyperandrogénie** d'un SOPK  
-Dysménorrhée, surpoids, acné
+  Dysménorrhée, surpoids, acné
 - Signes de **virilisme** (cause tumorale ovarienne ou surrénalienne)  
-Accroissement rapide de la pilosité, hypertrophie musculaire, clitoridienne, raucité de la voix, calvitie, troubles menstruels récents
+  Accroissement rapide de la pilosité, hypertrophie musculaire, clitoridienne, raucité de la voix, calvitie, troubles menstruels récents
 - Hyperplasie congénitale des surrénale  
-Accroissement progressif de la pilosité, premières règles tardives chez une petite femme, virilisme, troubles menstruels
+  Accroissement progressif de la pilosité, premières règles tardives chez une petite femme, virilisme, troubles menstruels
 - Idiopathique: **antécédents familiaux**, isolé sans hyperandrogénie ni virilisme
 - **Médicaments pris**  
-Si iatrogène, apparition le plus souvent après plusieurs mois et régression en quelques mois après l'arrêt du traitement.
+  Si iatrogène, apparition le plus souvent après plusieurs mois et régression en quelques mois après l'arrêt du traitement.
   - Testostérone/DHEA, danazol, tibolone
   - Lévonorgestrel et progestatifs
   - Corticoïdes (même inhalés)
@@ -81,7 +81,7 @@ Si iatrogène, apparition le plus souvent après plusieurs mois et régression e
 
 Rasage ou épilation mécanique.
 
-### Traitements de 2<sup>e</sup> intention
+### Traitements de deuxième intention
 
 Spironolactone par voie orale.
 
@@ -90,6 +90,10 @@ Spironolactone par voie orale.
 {{%/collapse %}}
 {{%sources%}}
 
-- Prescrire nov 2019
+Prescrire Redaction. Hirsutisme L'essentiel sur les soins de premier choix. 2019.
+
+### À lire
+
+[Martin K et al. Evaluation and Treatment of Hirsutism in Premenopausal Women: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2018.](https://academic.oup.com/jcem/article/103/4/1233/4924418)
 
 {{%/sources%}}

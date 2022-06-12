@@ -1,12 +1,12 @@
 +++
 title = "Mélanome malin"
 prefix = "le "
-shortname = "Mélanome"
+description = "Recommandations pour la prise en charge d'une suspicion de mélanome malin. Dépistage des personnes à risque, phototypes, critères ABCDE d'un nævus suspect ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-11-29T14:54:41+02:00
-publishdate = 2020-11-30
-lastmod = 2021-03-01
+date = "2020-11-29T14:54:41+02:00"
+publishdate = "2020-11-30"
+lastmod = "2021-03-01"
 specialites = ["dermatologie"]
 annees = "2017"
 sources = ["HAS", "SFDermato"]
@@ -15,7 +15,7 @@ anglais = ["Malignant melanoma"]
 sctid = "2092003"
 image = true
 imageSrc = "National Cancer Institute"
-todo = ""
+todo = "MAJ"
 +++
 
 {{%article-summary%}}
@@ -42,7 +42,7 @@ Il n'est donné que pour les mélanomes envahissant le derme.
 Éphélides
 : Communément appelées *tâches de rousseur*.
 
-### Types histologiques du mélanome
+### Types histologiques de mélanome
 
 - Superficiel extensif SSM (60-70%)
 - de Dubreuilh (10%)
@@ -54,11 +54,11 @@ Il n'est donné que pour les mélanomes envahissant le derme.
 Le type histologique ne modifie pas le pronostic à indice de Breslow identique.  
 La lésion primitive n'est parfois jamais retrouvé au stade métastatique.
 
-### Facteurs pronostics anatomo-pathologiques du mélanome
+### Facteurs pronostics anatomopathologiques du mélanome
 
 Indice de Breslow, de Clark, ulcération, index mitotique, emboles vasculaires.
 
-### Épidémiologie
+### Épidémiologie du mélanome
 
 - 13<sup>e</sup> cancer de la femme, 7<sup>e</sup> de l'homme
 - **Incidence:** 15.400 nouveaux cas en 2017  
@@ -82,20 +82,20 @@ Attention à toute lésion présentée par le patient.
 
 - Physique
   - Sujet à peau claire  
-Cheveux roux ou blonds, yeux clairs.
+  Cheveux roux ou blonds, yeux clairs.
   - Éphélides nombreuses
   - Nombreux nævi (≥ 40)
   - Nævus congénital géant
   - Nævus atypique (> 5mm, irrégulier)
   - Sensibilité au soleil (coups de soleil fréquents, bronze peu)
 - Photo-exposition solaire/UV/latitude  
-Brûlures dans l'enfance (cloques) ++
+  Brûlures dans l'enfance (cloques) ++
 - Antécédents familiaux de cancer cutané (mélanome sur nævi dysplasiques)
 - Antécédent personnel de mélanome  
   Risque de 2<sup>e</sup> de 5 à 8%.
 - Immunodépression
 - Exposition professionnelle  
-Travail en extérieur, rayonnements ionisants, soudure de métaux, sidérurgie, pesticides.
+  Travail en extérieur, rayonnements ionisants, soudure de métaux, sidérurgie, pesticides.
 
 Ces personnes doivent réaliser un auto-examen trimestriel et un suivi dermatologique annuel.
 
@@ -108,11 +108,11 @@ Ces personnes doivent réaliser un auto-examen trimestriel et un suivi dermatolo
 
 - Nævus atypique
 - Kératose séborrhéique  
-{{%class "text-black-secondary"%}}Surface mate, bords nets, petits grains blanchâtres.{{%/class%}}
+  {{%class "text-black-secondary"%}}Surface mate, bords nets, petits grains blanchâtres.{{%/class%}}
 - Carcinome basocellulaire pigmenté  
-{{%class "text-black-secondary"%}}Aspect translucide perlé.{{%/class%}}
+  {{%class "text-black-secondary"%}}Aspect translucide perlé.{{%/class%}}
 - Histiocytofibrome pigmenté  
-{{%class "text-black-secondary"%}}Palpation caractéristique: pastille indurée.{{%/class%}}
+  {{%class "text-black-secondary"%}}Palpation caractéristique: pastille indurée.{{%/class%}}
 - Angiome thrombosé
 
 {{% /collapse %}}
@@ -122,7 +122,7 @@ Ces personnes doivent réaliser un auto-examen trimestriel et un suivi dermatolo
 
 - Antécédents personnels et familiaux de cancers cutanés
 - Antécédents d'exposition à risque aux UV  
-Cabine de bronzage, soudure à l'arc.
+  Cabine de bronzage, soudure à l'arc.
 - Facteurs de risque (voir ci-dessus)
 - Immunodépression
 - Comorbidités
@@ -143,14 +143,14 @@ Un mélanome est lésion pigmentée avec caractères ABCDE suivants:
 - Couleur hétérogène (brun clair ou foncé, rouge, bleuté, noir)
 - Diamètre > 6 mm
 - **Évolution** en aspect, taille, couleur, épaisseur  
-Critère majeur.
+  Critère majeur.
 
 {{%/warning%}}
 
 - Une lésion mélanocytaire est considérée comme **suspecte si ≥ 2 critères ABCDE sont validés**.
 - Un **nævus est considéré comme suspect s'il est différent des autres**.
 - Inspection et palpation de la totalité du revêtement cutané et des muqueuses accessibles  
-Recherche mélanome, nævus atypique, nodules sous-cutanés.
+  Recherche mélanome, nævus atypique, nodules sous-cutanés.
 - Palpation de toutes les aires ganglionnaires
 
 {{% /collapse %}}
@@ -174,9 +174,9 @@ Dépend du classement pT de la tumeur.
 #### Imagerie
 
 - Échographie des aires ganglionnaires locorégionales.  
-Indications: mélanome stade II ou III.
+  Indications: mélanome stade II ou III.
 - Scanner cérébro-TAP ± TEP-FDG  
-Indications: envahissement ganglionnaire ou Breslow > 4 mm avec ulcération.
+  Indications: envahissement ganglionnaire ou Breslow > 4 mm avec ulcération.
 
 #### Ganglion sentinelle
 

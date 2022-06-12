@@ -2,11 +2,12 @@
 title = "Enthésopathie calcanéenne"
 prefix = "l'"
 titleSeo = "Épine calcanéenne"
+description = "Recommandations pour la prise en charge de l'épine calcanéenne. Radiographies, repos, talonnettes ou semelles orthopédiques voire kinésithérapie"
 synonyms = ["Aponévrosite plantaire, épine calcanéenne, fasciite plantaire"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-06-02T15:14:20+02:00
-publishdate = 2020-06-02
-lastmod = 2022-01-27
+date = "2020-06-02T15:14:20+02:00"
+publishdate = "2020-06-02"
+lastmod = "2022-01-27"
 specialites = ["rhumatologie"]
 annees = "2021"
 sources = ["Prescrire"]
@@ -31,13 +32,15 @@ Enthésopathie calcanéenne
 ### Facteurs de risque
 
 - Sport  
-Course à pied, basket-ball.
+  Course à pied, basket-ball.
 - Surpoids
 - Troubles de statique du pied
 - Âge
 
 {{%/collapse%}}
 {{%collapse "Diagnostic différentiel" %}}
+
+Diagnostic différentiel de symptômes évocateurs de l'épine calcanéenne:
 
 - Tendinopathie plantaire
 - Talonnade
@@ -49,6 +52,7 @@ Course à pied, basket-ball.
 - Compression de la première branche du nerf plantaire latéral
 - Tumeur
 - Varice plantaire
+{.list-group}
 
 {{%/collapse%}}
 {{%collapse "Clinique" %}}
@@ -57,8 +61,7 @@ Talalgie plantaire. Les douleurs surviennent souvent dès le lever puis s'améli
 
 ### Interrogatoire
 
-- Caractères des douleurs  
-Talalgie plantaire mécanique.
+- Caractères des douleurs: Talalgie plantaire mécanique
 - Antécédents neurologiques, métaboliques et auto-immuns
 - Métier
 
@@ -67,7 +70,7 @@ Talalgie plantaire mécanique.
 - Pied creux ou plat
 - Recherche une sciatique S1 atypique
 - Examen des pieds avec test des amplitudes plantaires  
-Palpation sous-calcanéenne (bursite), douleur médiale/latérale (osseuse), plantaire (talonnade, enthésopathie).
+  Palpation sous-calcanéenne (bursite), douleur médiale/latérale (osseuse), plantaire (talonnade, enthésopathie).
 - Testing des muscles plantaires avec contraction contrariée (tendinopathie calcanéenne)
 - Test au monofilament
 - Chaussage
@@ -75,7 +78,7 @@ Palpation sous-calcanéenne (bursite), douleur médiale/latérale (osseuse), pla
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Bilan ciblé devant une épine calcanéenne.
+Bilan ciblé de première intention devant une épine calcanéenne.
 
 ### Radiographies du talon de profil
 
@@ -88,7 +91,8 @@ En cas de poussées récurrentes: uricémie, glycémie à jeun.
 
 ### Autres, selon la clinique
 
-- Échographie ± doppler veineux  
+#### Échographie ± doppler veineux
+
 Élimine une bursite sous-calcanéenne ou tendinopathie.  
 Épaississement de l'aponévrose plantaire.
 
@@ -100,9 +104,11 @@ Examens de 2<sup>e</sup> intention:
 {{%/collapse%}}
 {{%collapse "Traitement" %}}
 
+Prise en charge recommandée pour l'épine calcanéenne:
+
 - Repos
 - Chaussures à talon, semelle souple ou talonnette amortissante  
-Dès le matin.
+  Dès le matin.
 - Éviter la station debout et le piétinement prolongé
 - Chaussettes de contention
 - Étirements de l'aponévrose plantaire et du mollet

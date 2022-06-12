@@ -3,6 +3,7 @@ title = "Exposition des enfants aux écrans"
 prefix = "l'"
 titleSeo = "Exposition des enfants aux écrans"
 noindex = true
+description = "Recommandations pour l'exposition des enfants aux écrans. Interdictions selon l'âge et l'usage maitrisé. Accompagnement et éducation à l'usage des écrans"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-25T14:37:17+01:00"
@@ -14,9 +15,8 @@ sources = ["Acad Médecine"]
 tags = ["adolescent", "enfant"]
 anglais = []
 sctid = ""
-image = false
-imageSrc = ""
-todo = ""
+image = true
+imageSrc = "Illustration par studio4rt / Freepik"
 +++
 
 {{%article-summary%}}

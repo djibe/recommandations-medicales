@@ -2,12 +2,12 @@
 title = "Hépatite A"
 noindex = true
 prefix = "l'"
-shortname = "VHA"
+description = "Recommandations pour la prise en charge de l'hépatite A. Indications à la vaccination et lors d'un voyage. Vaccins VHA disponibles chez l'adulte et l'enfant"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-02-10T18:52:41+02:00
-publishdate = 2021-02-10
-lastmod = 2021-02-17
+date = "2021-02-10T18:52:41+02:00"
+publishdate = "2021-02-10"
+lastmod = "2021-02-17"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2022"
 sources = ["MinSanté", "Pasteur"]
@@ -18,7 +18,6 @@ flowchart = false
 image = false
 imageSrc = ""
 todo = "symptômes/fatigue, vaccin combiné"
-
 +++
 
 {{%article-summary%}}

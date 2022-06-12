@@ -1,7 +1,7 @@
 +++
 title = "Gonarthrose"
 prefix = "la "
-shortname = ""
+description = "Recommandations pour la prise en charge de la gonarthrose. Radios, infiltrations du genou, anti-inflammatoires, infiltrations et indications à la chirurgie ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-15T19:21:00+02:00"

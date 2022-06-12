@@ -1,6 +1,7 @@
 +++
 title = "Maladie de Verneuil"
 prefix = "la "
+description = "Recommandations pour la prise en charge de la maladie de Verneuil ou Hidradénite suppurée. Suivi pluridisciplinaire, antibiothérapie de la poussée et de fond"
 synonyms = ["Hidradénite suppurée", "hidrosadénite"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-25T16:51:53+01:00"
@@ -57,7 +58,7 @@ Plusieurs types lésionnels associés:
      - Lésions d'âge différents froids et chauds
      - Prodromes stéréotypés selon le patient permettant de reconnaître une poussée
 2. Abcès multiples  
-Fermés puis ouverts. Tarissement progressif ou suppuration chronique.
+  Fermés puis ouverts. Tarissement progressif ou suppuration chronique.
 3. Fistules intra ou sous-cutanées entre lésions
 4. Cicatrices hypertrophiques << en cordes >>
 5. Bourgeons charnus à *Pyoderma gangrenosum*
@@ -88,7 +89,7 @@ Les prélèvements bactériologiques sont d'interprétation délicate et réserv
 [Liste des spécialistes du RésoVerneuil](https://resoverneuil.com/nos-specialistes/)
 
 - Suivi dermatologique systématique  
-Le médecin traitant dépiste, oriente et prescrit le traitement abortif d'urgence.
+  Le médecin traitant dépiste, oriente et prescrit le traitement abortif d'urgence.
 - Arrêt du tabac
 - Mesures d'hygiène (Orphanet)
   - Séchage des plis
@@ -97,7 +98,7 @@ Le médecin traitant dépiste, oriente et prescrit le traitement abortif d'urgen
 - Correction d'un surpoids (facteur aggravant)
 - Substituer un traitement au lithium (facteur aggravant)
 - Association de patients  
-[Association Française pour la Recherche sur l'Hidrosadénite (AFRH)](http://www.afrh.fr/)
+  [Association Française pour la Recherche sur l'Hidrosadénite (AFRH)](http://www.afrh.fr/)
 - Participer à la [recherche ComPaRe](https://compare.aphp.fr/les-maladies-chroniques/)
 - Soutien psychologique
 - Adaptation du poste avec le médecin du travail

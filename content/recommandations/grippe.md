@@ -1,12 +1,12 @@
 +++
-title = "Grippe"
+title = "Grippe saisonnière"
 prefix = "la "
-shortname = "grippe"
+description = "Recommandations pour la prise en charge de la grippe. Indications à la vaccination et aux antiviraux, personne à risque de forme grave, grippe pendant grossesse"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-08-23T10:34:41+02:00
-publishdate = 2020-08-23
-lastmod = 2022-04-27
+date = "2020-08-23T10:34:41+02:00"
+publishdate = "2020-08-23"
+lastmod = "2022-04-27"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "MinSanté"]
@@ -20,7 +20,6 @@ todo = "def, grippe grossesse, antiviral, vaccin grippe porcin aviaire"
 
 - Vaccination annuelle des personnes à risque de forme grave à partir de mi-octobre (en métropole)  
 ainsi que toutes les personnes fragiles pour la Covid-19
-- Adjoindre le vaccin Pneumocoque pour les +65 ans (*[Académie 13.05](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)*)
 - Pas de délai (voire co-injection) entre les vaccins anti-grippaux et anti-covid19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*)
 
 {{%/article-summary%}}
@@ -33,7 +32,7 @@ ainsi que toutes les personnes fragiles pour la Covid-19
 - Bronchite aiguë
 - Pneumopathie (virale, pneumocoque ou haemophilus)
 
-### Épidémiologie
+### Épidémiologie de la grippe en France
 
 - 10.000 morts/an dont +90% chez les +65 ans.
 - Couverture vaccinale 2019-2020 des personnes à risque: 45% (objectif OMS 75%).
@@ -47,7 +46,7 @@ ainsi que toutes les personnes fragiles pour la Covid-19
 Personnes exclusives jusqu'au 22 novembre 2021:
 
 - Professionnels de santé
-- ≥ 65 ans
+- +65 ans
 - Femmes enceintes
 - Pathologie chronique  
   Insuffisance respiratoire, insuffisance cardiaque, diabète, insuffisance rénale, asthme, bronchopneumopathie obstructive, mucoviscidose, …

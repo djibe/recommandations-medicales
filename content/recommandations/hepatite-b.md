@@ -1,12 +1,12 @@
 +++
 title = "Hépatite B"
 prefix = "l'"
-shortname = "VHB"
+description = "Recommandations pour la prise en charge de l'hépatite B. Indications au dépistage et à la vaccination, PCR VHB, découverte d'une hépatite B active et suivi"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-09-07T12:03:00+02:00
-publishdate = 2021-09-07
-lastmod = 2022-05-21
+date = "2021-09-07T12:03:00+02:00"
+publishdate = "2021-09-07"
+lastmod = "2022-05-21"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2018"
 sources = ["SNFGE", "HAS"]

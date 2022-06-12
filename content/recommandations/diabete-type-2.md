@@ -2,6 +2,7 @@
 title = "Diabète de type 2"
 prefix = "le "
 longHtml = true
+description = "Recommandations pour la prise en charge et le traitement du diabète type 2. Critères diagnostiques, rémission, dépistage des complications, metformine, GLP1 ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"

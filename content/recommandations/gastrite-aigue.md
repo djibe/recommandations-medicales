@@ -1,12 +1,12 @@
 +++
 title = "Gastrite aiguë"
 prefix = "la "
-shortname = "gastrite aiguë"
+description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-01-15T17:43:00+02:00
-publishdate = 2021-04-04
-lastmod = 2021-04-04
+date = "2021-01-15T17:43:00+02:00"
+publishdate = "2021-04-04"
+lastmod = "2021-04-04"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
 sources = ["SNFGE"]

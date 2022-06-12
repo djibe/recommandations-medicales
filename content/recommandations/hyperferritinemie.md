@@ -1,12 +1,12 @@
 +++
 title = "Hyperferritinémie"
 prefix = "l'"
-shortname = "Hyperferritinémie"
+description = "Recommandations pour la prise en charge d'une hyperferritinémie. Bilan: ferritine élevée: coefficient de saturation de la transferrine CST, CRP, bilan hépatique"
 synonyms = ["Conduite à tenir devant une hyperferritinémie"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-08-27T20:02:41+02:00
-publishdate = 2020-08-27
-lastmod = 2021-03-23
+date = "2020-08-27T20:02:41+02:00"
+publishdate = "2020-08-27"
+lastmod = "2021-03-23"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["SNFGE"]

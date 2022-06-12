@@ -2,6 +2,7 @@
 title = "Épreuve d'effort"
 prefix = "l'"
 noindex = true
+description = "Recommandations pour les indications au test d'effort. Épreuve d'effort selon les maladies cardiovasculaires, selon les symptômes (angor), chez le sportif"
 synonyms = ["Test d'effort"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-07T19:51:41+02:00"
@@ -21,9 +22,10 @@ todo = "probabilite pre-test, rcv score"
 {{%collapse "Définitions" %}}
 
 Angor
-: - Douleur thoracique rétrosternale déclenchée par: l'effort, la digestion ou le stress émotionnel
-  - Douleur qui dure plusieurs minutes (< 20 minutes)
-  - Douleur soulagée par le repos ou la nitroglycérine
+:  
+    - Douleur thoracique rétrosternale déclenchée par: l'effort, la digestion ou le stress émotionnel
+    - Douleur qui dure plusieurs minutes (< 20 minutes)
+    - Douleur soulagée par le repos ou la nitroglycérine
 : La **probabilité pré-test** (probabilité de coronaropathie pré-test d'effort) est calculée selon l'âge, le sexe, l'angor.
 
 Angor typique
@@ -58,48 +60,33 @@ RCV
 <div class="alert" id="epreuve-effort">
 <input type="checkbox" id="chip-tout" class="d-input-none">
 <label for="chip-tout" class="chip chip-action chip-filter collapsed chip-activator">Afficher tout</label>
-
 <input type="checkbox" id="chip-aomi" class="d-input-none">
 <label for="chip-aomi" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-aomi">AOMI</label>
-
 <input type="checkbox" id="chip-congenital" class="d-input-none">
 <label for="chip-congenital" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-congenital">Cardiopathie congénitale</label>
-
 <input type="checkbox" id="chip-chir" class="d-input-none">
 <label for="chip-chir" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-chir">Chirurgie cardiaque</label>
-
 <input type="checkbox" id="chip-coro" class="d-input-none">
 <label for="chip-coro" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-coro">Coronaropathie</label>
-
 <input type="checkbox" id="chip-diabete" class="d-input-none">
 <label for="chip-diabete" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-diabete">Diabète</label>
-
 <input type="checkbox" id="chip-hta" class="d-input-none">
 <label for="chip-hta" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-hta">Hypertension</label>
-
 <input type="checkbox" id="chip-htap" class="d-input-none">
 <label for="chip-htap" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-htap">HTAP</label>
-
 <input type="checkbox" id="chip-hypertrophie" class="d-input-none">
 <label for="chip-hypertrophie" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-hypertrophie">Hypertrophie</label>
-
 <input type="checkbox" id="chip-ic" class="d-input-none">
 <label for="chip-ic" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-ic">Insuffisance cardiaque</label>
-
 <input type="checkbox" id="chip-pm" class="d-input-none">
 <label for="chip-pm" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-pm">Pacemaker/DAI/Troubles du rythme</label>
-
 <input type="checkbox" id="chip-sport" class="d-input-none">
 <label for="chip-sport" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-sport">Sportif ou profession à risque</label>
-
 <input type="checkbox" id="chip-sympt" class="d-input-none">
 <label for="chip-sympt" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-sympt">Symptômes cardiaques</label>
-
 <input type="checkbox" id="chip-valvulopathie" class="d-input-none">
 <label for="chip-valvulopathie" class="chip chip-action chip-filter collapsed" data-toggle="collapse" data-target="#collapse-valvulopathie">Valvulopathie</label>
-
 <hr class="my-3">
-
 <div class="collapse" id="collapse-aomi">
 
 #### AOMI {.typography-headline-6}
@@ -253,13 +240,13 @@ window.onload = () => {
   $(function () {
     $('#chip-tout').on('click', function(){
       if ( $(this).prop('checked') ) {
-        $('.chip-filter.collapsed:not(".chip-activator")').trigger('click');
+        $('.chip-filter.collapsed:not(".chip-activator")').trigger('click')
       } else {
-        $('.chip-filter:not(".chip-activator"):not(".collapsed")').trigger('click');
+        $('.chip-filter:not(".chip-activator"):not(".collapsed")').trigger('click')
       }
-    });
-  });
-};
+    })
+  })
+}
 </script>
 
 {{%/collapse%}}

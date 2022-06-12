@@ -2,6 +2,7 @@
 title = "Écoulement mamelonnaire du sein"
 prefix = "l'"
 titleSeo = "Écoulement mamelonnaire"
+description = "Recommandations pour la prise en charge d'un écoulement mamelonnaire. Signes de malignité et bilan recommandé: mammographie et échographie et avis spécialisé"
 synonyms = ["Galactorrhée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-21T19:43:29+02:00"
@@ -16,6 +17,7 @@ sctid = "54302000"
 flowchart = true
 image = false
 imageSrc = ""
+todo = "galactorrhée"
 +++
 
 {{%article-summary%}}
@@ -98,7 +100,7 @@ L'EM pathologique est unilatéral, abondant, persistant, spontané et unipore.
 ### Bilan devant un écoulement mamelonnaire unilatéral
 
 - Mammographies  
-{{%class%}}Faible sensibilité pour le diagnostic de cancer en EM.{{%/class%}}
+  {{%class%}}Faible sensibilité pour le diagnostic de cancer en EM.{{%/class%}}
 - Échographie mammaire
 
 Adresser au spécialiste avec les résultats.

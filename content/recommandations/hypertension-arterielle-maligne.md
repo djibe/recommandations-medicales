@@ -2,6 +2,7 @@
 title = "Hypertension artérielle maligne"
 prefix = "l'"
 titleSeo = "HTA maligne"
+description = "Recommandations pour la prise en charge de l'hypertension artérielle maligne. Examen neurologique avec fond d'œil, ECG et recherche de CIVD"
 synonyms = ["et urgences hypertensives"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-05-04T08:54:00+02:00"

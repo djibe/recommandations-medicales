@@ -1,7 +1,7 @@
 +++
 title = "Énurésie primaire"
 prefix = "l'"
-shortname = "Énurésie"
+description = "Recommandations pour la prise en charge de l'énurésie. Bilan de première intention, calendrier mictionnel, mesures hygiéno-diétetiques et avis urologique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-24T16:33:00+02:00"
@@ -15,7 +15,7 @@ anglais = ["Primary nocturnal enuresis"]
 sctid = "450842007"
 image = false
 imageSrc = ""
-todo = "NICE, info parents, https://afpa.org/content/uploads/2018/11/Enur%C3%A9sie-Dr-Desvignes.pdf"
+todo = "oxyure ?, NICE, info parents, https://afpa.org/content/uploads/2018/11/Enur%C3%A9sie-Dr-Desvignes.pdf"
 +++
 
 {{%article-summary%}}
@@ -59,24 +59,24 @@ Intensité:
 
 - Antécédents urinaires et traumatiques
 - Antécédents familiaux (30-60%)
-- Signes de diabète  
-Polyuro-polydipsie, perte de poids, fatigue.
+- Signes de [diabète]({{< relref "diabete-type-2.md" >}})  
+  Polyuro-polydipsie, perte de poids, fatigue.
 - Signes d'infection urinaire  
-Brûlures mictionnelles, pollakiurie, urines malodorantes.
+  Brûlures mictionnelles, pollakiurie, urines malodorantes.
 - Signes d'anomalie urinaire  
-Pertes d'urines, urgenturie, > 7 ou < 4 mictions diurnes, douleurs mictionnelles, jet faible, nécessité de pression abdominale pour uriner.  
-Avis urologique si présent.
+  Pertes d'urines, urgenturie, > 7 ou < 4 mictions diurnes, douleurs mictionnelles, jet faible, nécessité de pression abdominale pour uriner.  
+  Avis urologique si présent.
 - Constipation  
-Efforts de poussée, selles dures ou incontinence fécale.
+  Efforts de poussée, selles dures ou incontinence fécale.
 - Mictions la journée  
-{{%class%}}Sécrétion inversée de vasopressine{{%/class%}}
+  {{%class%}}Sécrétion inversée de vasopressine{{%/class%}}
 - Ronflements et apnées du sommeil observées
 - Troubles associés  
-Seuil d'éveil anormal, troubles avec déficit d'attention et hyperactivité (TDAH), baisse de l'estime de soi (pas de sur-représentation des autres troubles psychiatriques)
+  Seuil d'éveil anormal, troubles avec déficit d'attention et hyperactivité (TDAH), baisse de l'estime de soi (pas de sur-représentation des autres troubles psychiatriques)
 - Enquête des apports hydriques/heure  
-{{%class%}}Polyurie nocturne par hydratation excessive.{{%/class%}}
+  {{%class%}}Polyurie nocturne par hydratation excessive.{{%/class%}}
 - Épisodes d'énurésie  
-Fréquence, horaire, circonstances des épisodes.
+  Fréquence, horaire, circonstances des épisodes.
 - Port de couches
 - Facteurs psychologiques
 - Mesures déjà entreprises
@@ -88,7 +88,7 @@ Fréquence, horaire, circonstances des épisodes.
 - Poids, taille, IMC et courbes de croissance
 - Organes génitaux externes
 - Inspection de la région lombo-sacrée  
-{{%class%}}Recherche spina bifida, agénésie du sacrum.{{%/class%}}
+  {{%class%}}Recherche spina bifida, agénésie du sacrum.{{%/class%}}
 - Examen neurologique simple
 - Bandelette urinaire
 

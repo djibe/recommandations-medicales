@@ -1,12 +1,12 @@
 +++
 title = "Gastrite chronique"
 prefix = "la "
-shortname = ""
+description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-01-18T15:45:00+02:00
-publishdate = 2021-01-18
-lastmod = 2021-01-18
+date = "2021-01-18T15:45:00+02:00"
+publishdate = "2021-01-18"
+lastmod = "2021-01-18"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2000"
 sources = []

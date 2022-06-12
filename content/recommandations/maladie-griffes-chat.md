@@ -2,11 +2,12 @@
 title = "Maladie des griffes du chat"
 prefix = "la "
 titleSeo = "Maladie des griffes du chat"
+description = "Recommandations pour la prise en charge de la maladie des griffes du chat. Diagnostic: griffure de chat, adénopathie. Antibiothérapie non systématique"
 synonyms = ["Bartonellose à Bartonella henselae, lymphogranulomatose bénigne d'inoculation"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-03-28T19:47:00+02:00
-publishdate = 2021-03-28
-lastmod = 2022-01-24
+date = "2021-03-28T19:47:00+02:00"
+publishdate = "2021-03-28"
+lastmod = "2022-01-24"
 specialites = ["infectiologie"]
 annees = "2020"
 sources = ["CMIT", "MinAgri"]
