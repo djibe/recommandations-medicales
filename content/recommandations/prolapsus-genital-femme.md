@@ -190,7 +190,7 @@ Elle peut être associée à l'utilisation d'un pessaire.
 
 ### Chirurgie
 
-Indications à la chirurgie ...
+Indications à la chirurgie ..
 
 {{% /collapse %}}
 {{%collapse "Information de la patiente" %}}

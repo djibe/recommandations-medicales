@@ -9,7 +9,7 @@ enableRobotsTXT = true
 languageCode = "fr"
 removePathAccents = true
 rssLimit = 30
-summaryLength = 50
+summaryLength = 10
 title = "Recommandations Médicales"
 
 [permalinks]

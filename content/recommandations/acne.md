@@ -1,7 +1,7 @@
 +++
 title = "Acné"
 prefix = "l'"
-description = "Recommandations pour la prise en charge de l'acné. Traitement des formes minimes à sévères, inflammatoires ou rétentionnelles. Rétinoïdes ..."
+description = "Recommandations pour la prise en charge de l'acné. Traitement des formes minimes à sévères, inflammatoires ou rétentionnelles. Rétinoïdes, doxycycline"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-27T21:48:41+02:00"
 publishdate = "2020-07-27"

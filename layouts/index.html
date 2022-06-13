@@ -35,14 +35,14 @@
         </div>
       {{ end }}
       </div>
-      <p class="typography-overline text-black-secondary mt-5">Les bons outils</p>
+      <nav class="d-flex justify-content-center" id="home__nav">
+        <a class="chip chip-action" href="/recommandations/" role="button"><i class="chip-icon bg-primary">R</i>Recommandations</a>
+        <a class="chip chip-action" href="/cabinet/" role="button"><i class="chip-icon">C</i>Cabinet</a>
+        <a class="chip chip-action" href="/articles/" role="button"><i class="chip-icon bg-info">A</i>Articles</a>
+        <a class="chip chip-action" href="/tags/" role="button"><i class="chip-icon bg-primary">M</i>Mots-clés</a>
+      </nav>
+      <p class="typography-overline text-black-secondary mt-5">Quelques bons outils</p>
       <div class="home-outils">
-        <div class="card card-body card-primary-action flex-row m-0">
-          <img class="mr-4 img-32 rounded-circle" src="/favicon.svg" alt="Logo de Recommandations Médicales" decoding="async">
-          <div>
-            <h3 class="typography-body-2 font-weight-bold"><a href="/scores/" class="stretched-link text-reset">Les scores utiles</a></h3>
-          </div>
-        </div>
         <div class="card card-body card-primary-action flex-row m-0">
           <img class="mr-4 img-32 rounded-circle" src="/favicon.svg" alt="Logo de Recommandations Médicales" decoding="async">
           <div>
@@ -62,30 +62,31 @@
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-sm">
       <p class="typography-overline text-black-secondary mt-5">La vie au cabinet</p>
       <div class="home-cabinet">
       {{ range ( where site.RegularPages "Section" "cabinet" | first 6 ) }}
-          <div class="card card-primary-action card-body" style="max-width: 380px;">
-            <h3 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h3>
-            <p class="card-subtitle pb-0">
-              {{ with .Params.auteurs}}{{ delimit . ", " }}{{ end }} le
-              <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .Lastmod.Format "2 Jan" }}</time>
-            </p>
-          </div>
-      {{ end }}
+        <article class="card-primary-action card-body">
+          {{ with .Params.auteurs}}<small class="text-black-secondary">{{ delimit . ", " }}</small>{{ end }}
+          <h3 class="lead"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h3>
+          <p class="card-subtitle">{{ .Summary }}</p>
+          <small class="text-black-secondary"><time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .Lastmod.Format "2 Jan" }}</time></small>
+        </article>
+        {{ end }}
       </div>
+    </div>
+    <div class="col-sm">
       <p class="typography-overline text-black-secondary mt-5">Derniers articles</p>
       <div class="home-articles">
-      {{ range ( where site.RegularPages "Section" "articles" | first 6 ) }}
-          <div class="card card-primary-action card-body" style="max-width: 380px;">
-            <h3 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h3>
-            <p class="card-subtitle pb-0">
-              {{ with .Params.auteurs}}
-              {{ delimit . ", " }}{{ end }} le
-              <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .Lastmod.Format "2 Jan" }}</time>
-            </p>
-          </div>
-      {{ end }}
+        {{ range ( where site.RegularPages "Section" "articles" | first 6 ) }}
+        <article class="card-primary-action card-body">
+          {{ with .Params.auteurs}}<small class="text-black-secondary">{{ delimit . ", " }}</small>{{ end }}
+          <h3 class="lead"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h3>
+          <p class="card-subtitle">{{ .Summary }}</p>
+          <small class="text-black-secondary"><time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .Lastmod.Format "2 Jan" }}</time></small>
+        </article>
+        {{ end }}
       </div>
     </div>
   </section>

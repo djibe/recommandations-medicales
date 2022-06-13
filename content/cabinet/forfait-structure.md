@@ -2,9 +2,9 @@
 title = "Forfait structure 2022 pour le généraliste"
 description = "Explication et détail des indicateurs du Forfait structure pour le généraliste en 2022 détaillés dans l'Avenant 9. Valeur du point et montants des primes"
 auteurs = ["Jean-Baptiste FRON"]
-date = 2022-05-16T09:20:00+02:00
-publishdate = 2022-05-16
-lastmod = 2022-05-17
+date = "2022-05-16T09:20:00+02:00"
+publishdate = "2022-05-16"
+lastmod = "2022-05-17"
 specialites = []
 sources = []
 tags = []
