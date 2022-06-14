@@ -271,7 +271,7 @@ Surtout si hypertension résistante, insuffisance rénale d'évolution rapide, r
   - Hypertrophie du palais mou et de ses piliers avec hypertrophie de la luette
   - Hypertrophie des amygdales
   - Obstruction nasale
-- [Score de Mallampati modifié](https://www.researchgate.net/figure/Score-de-Mallampati-modifie-classe-1-la-luette-et-les-loges-amygdaliennes-sont_fig2_309274013)
+- [Score de Mallampati modifié](https://www.msdmanuals.com/fr/professional/multimedia/figure/score-de-mallampati-modifi%C3%A9)
 - Examen cardio-respiratoire  
 Pression artérielle aux 2 bras avec pouls, SpO<sub>2</sub>.  
 Auscultation cardiaque et vasculaire.

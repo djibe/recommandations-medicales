@@ -464,7 +464,7 @@ graph TB
 
 {{% /collapse %}}
 {{%sources%}}
-
+mds.28903
 - [Chenini S. et al. Depressive Symptoms and Suicidal Thoughts in Restless Legs Syndrome. Mov Disord. 2022.](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28903)
 - Prescrire Redaction. Jambes sans repos : soulager sans médicament. Août 2019.
 - [Chenini S. et al. ; SFRMS. Syndrome des jambes sans repos pharmaco-résistant. Médecine du Sommeil. 2019.](https://doi.org/10.1016/j.msom.2018.10.004)

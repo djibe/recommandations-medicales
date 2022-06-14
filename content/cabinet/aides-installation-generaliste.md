@@ -146,7 +146,7 @@ Faciliter l'installation des médecins généralistes en zone sous-dense (ZIP ou
 - Protection sociale plus étendue  
   Couverture maladie dès 8 jours d'arrêt (68€/j), maternité/paternité/adoption.
 
-> *[Ameli Médecin. Contrat de début d'exercice : une nouveauté pour faciliter l'installation des jeunes médecins. 29/03/2021.](https://www.ameli.fr/medecin/actualites/contrat-de-debut-dexercice-une-nouveaute-pour-faciliter-linstallation-des-jeunes-medecins)*
+> *[Ministère de la Santé. Contrat de début d’exercice (CDE). 22/03/2021](https://solidarites-sante.gouv.fr/professionnels/se-former-s-installer-exercer/contrat-de-debut-d-exercice-cde/CDE)*
 
 {{%/collapse%}}
 {{%collapse "Aides régionales" %}}

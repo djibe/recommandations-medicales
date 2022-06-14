@@ -50,7 +50,7 @@ Chez des patients ayant arrêté leur traitement pour myalgies, traités en aveu
 {{% /collapse %}}
 {{%collapse "Effets de l'arrêt d'une statine" %}}
 
-Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**infarctus du myocarde** en plus et +18% de **mortalité cardiovasculaire**. (*[Sune Fallgaard Nielsen 2016](https://academic.oup.com/eurheartj/article/37/11/908/2398344?login=false)*)
+Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**infarctus du myocarde** en plus et +18% de **mortalité cardiovasculaire**. (*[Sune Fallgaard Nielsen 2016](https://academic.oup.com/eurheartj/article/37/11/908/2398344)*)
 
 {{% /collapse %}}
 
