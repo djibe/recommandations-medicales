@@ -1,27 +1,29 @@
 +++
 title = "Prolapsus génital de la femme"
 prefix = "le "
-description = "TODO:"
-synonyms = []
+description = "Recommandations pour la prise en charge du prolapsus génital ou colpocèle. Traitement conservateur avec rééducation pelvienne et pessaire gynécologique"
+synonyms = ["Colpocèle"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-07T13:29:43+02:00"
-publishdate = "2022-06-07"
-lastmod = "2022-06-07"
-specialites = ["endocrinologie"]
+publishdate = "2022-06-14"
+lastmod = "2022-06-14"
+specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["HAS"]
 tags = []
-anglais = ["English word"]
-sctid = ""
-draft = true
+anglais = ["Prolapse of female genital organs"]
+sctid = "73998008"
 image = false
 imageSrc = ""
-todo = "prescrire pessaire, Prescrire"
+todo = "HAS annexes Échelles PFDI-20, APFQ"
 +++
 
 {{%article-summary%}}
 
-TODO:
+- Interrogatoire et examen clinique
+- Lutte contre les faveurs favorisants
+- Adresser à sage-femme ou kinésithérapeute pour rééducation et choix du pessaire (non remboursé)
+- Chirurgie uniquement en cas d'échec
 
 Article lié: [Ménopause et THM]({{< relref "menopause.md" >}})
 
@@ -88,7 +90,7 @@ Enquête sur les symptômes et le retentissement du prolapsus génital:
   - Obésité
   - Sédentarité
 - Symptômes associés  
-  TODO: Échelles PFDI-20, APFQ.
+  Échelles des symptômes et qualité de vie: PFDI-20, APFQ.
   - Syndrome d'hyperactivité vésicale  
     Urgenturie ± fuites, pollakiurie, nycturie.
   - Incontinence urinaire d'effort (IUE)
@@ -99,7 +101,6 @@ Enquête sur les symptômes et le retentissement du prolapsus génital:
   - Activités physiques
   - Sexuel
   - Anxiété, dépression
-- Qualité de vie (TODO: chap 1.2)
 - Attentes et préférences
 
 Une aggravation brutale des symptômes lors d'un effort intense ou d'un accident ne préjuge pas de la sévérité du prolapsus génital et ne requiert pas systématiquement de chirurgie.
@@ -111,7 +112,7 @@ Décrire le prolapsus observé:
 - Examen pelvien  
   Couché puis debout. Efforts de poussée, de toux.
 - Classification [POP-Q](https://pop-q.netlify.app/) (de l'ICS)  
-  ou Baden-Walker: 1) Intra-vaginal 2) Hymen 3) Extériorisation 4) Déroulement vagin
+  ou Baden-Walker: 1) Intra-vaginal 2) Affleurant à la vulve 3) Extériorisation 4) Prolapsus totalement extériorisé
 - Trophicité vaginale, tonicité du plancher pelvien
 - Recherche de fuite urinaire à la toux
 
@@ -127,7 +128,7 @@ Examens selon des symptômes non expliqués par le prolapsus génital.
 Indication: prolapsus extériorisé en permanence pr risque d'insuffisance rénale obstructive.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Mesures générales" %}}
 
 {{%info%}}Prise en charge uniquement des prolapsus génitaux symptomatiques ou compliqués{{%/info%}}
 
@@ -142,6 +143,9 @@ Prise en charge générale du prolapsus génital de la femme:
 - Prise en charge d'une constipation chronique
 - Éducation au port de charges
 - Éducation à la toux
+
+{{% /collapse %}}
+{{%collapse "Traitement conservateur ou chirurgical du prolapsus génital" %}}
 
 {{%info%}}
 Intérêt de concertation pluridisciplinaire pour les prolapsus génitaux complexes:
@@ -160,6 +164,8 @@ Traitement de première intention d'un prolapsus génital de la femme (stade < 3
 
 Efficacité immédiate et équivalente au traitement chirurgical du prolapsus.  
 Non pris en charge par l'Assurance Maladie.
+
+{{%info%}}Adresser à tout spécialiste en gynécologie (généraliste, gynécologue, sage-femme) pour l'évaluation du modèle adéquat et le suivi du pessaire gynécologique{{%/info%}}
 
 {{%info%}}<< Il est recommandé de proposer la pose d'un pessaire en première intention à toutes les patientes présentant un prolapsus génital symptomatique, quels que soient leur âge et le stade du prolapsus >> (*HAS 2021*){{%/info%}}
 
@@ -188,12 +194,32 @@ Elle peut être associée à l'utilisation d'un pessaire.
 
 **NB.** Pas d'intérêt démontré de l'électrostimulation à domicile, du laser ou de la radiofréquence.
 
-### Chirurgie
+### Chirurgie du prolapsus génito-urinaire
 
-Indications à la chirurgie ..
+Indications à la chirurgie du prolapsus génital: handicap persistant avec le traitement conservateur.
+
+La grossesse et l'accouchement voie basse sont envisageables après chirurgie du prolapsus.  
+Reprise progressive des activités à partir de la troisième semaine postopératoire, en l'absence de gêne, d'inconfort ou de douleurs.
+
+{{%info%}}L'hystérectomie n'améliore pas les symptômes (sauf extériorisation en permanence ou allongement du col){{%/info%}}
+
+#### Pour en savoir plus: techniques chirurgicales du prolapsus et voies d'abord
+
+- Voie vaginale autologue  
+  Recommandée chez la patiente fragile. La plus rapide et possible sous rachianesthésie. Risque de récidive.
+- Colpocléisis  
+  Fermeture du vagin. Irréversible et rapports sexuels avec pénétration impossibles.
+- Promontofixation avec prothèse synthétique  
+  Recommandée par cœlioscopie. [Fiche info AFU (PDF)](https://www.urofrance.org/sites/default/files/fileadmin/documents/data/FI/2012/prolapsus-promontofixation/prolapsus-promontofixation_1.pdf)
+- Voie vaginale avec prothèse synthétique  
+  Risque de complications et reprises accru. Uniquement en recherche clinique après concertation pluridisciplinaire.  
+- Voie vaginale avec prothèse biologique  
+  Non recommandée.
 
 {{% /collapse %}}
 {{%collapse "Information de la patiente" %}}
+
+### Informations sur le prolapsus génital
 
 Informations à délivrer concernant le prolapsus génital:
 
@@ -208,6 +234,21 @@ Informations à délivrer concernant le prolapsus génital:
 - Lorsque la chirurgie est choisie, elle est très rarement urgente
 
 > *HAS 2021*
+
+### Informations sur les pessaires
+
+[HAS 2022. Le pessaire gynécologique : à quoi ça sert ? Comment l'utiliser ? (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2022-04/reco443_fiche_patient_pessaire_prolapsus__cd_2022_04_28_v0.pdf)
+
+Les pessaires peuvent être proposés à la majorité des patientes présentant un prolapsus génital.  
+Les pessaires les plus fréquemment proposés sont les pessaires anneau et cube.  
+Le pessaire anneau est plus facile d'utilisation et sera adapté dans la majorité des cas.  
+Le pessaire cube sera plutôt proposé aux femmes jeunes, pour une utilisation à la demande.
+
+Le pessaire Donut sera plutôt utilisé en seconde intention car il peut être difficile à insérer dans le vagin. Le pessaire Dish est parfois utilisé en cas de fuites urinaires associées au prolapsus.
+
+**Préférer les pessaires en silicone à ceux en latex.**
+
+{{%info%}}En règle générale, le pessaire peut être utilisé plusieurs années (2-3 ans). Il doit être changé en cas de modification d'aspect (fissuration, cassure){{%/info%}}
 
 {{% /collapse %}}
 {{%sources%}}
