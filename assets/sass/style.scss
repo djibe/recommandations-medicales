@@ -1,5 +1,12 @@
 @import "../css/material-purge";
 
+:root {
+  --bg-rgb: 65, 80, 245;
+  --bgs-rgb: 232, 117, 0;
+  --bg-article-rgb: 175, 52, 220;
+  --article: #af34dc;
+}
+
 html,
 body,
 .list-page {
@@ -217,7 +224,11 @@ a[href^="http"]:not([class]):not([href*="recomedicales.fr"])::after {
 }
 
 .text-secondary {
-  color: var(--secondary-dark) !important;
+  color: var(--secondary-dark);
+}
+
+.text-article {
+  color: var(--article);
 }
 
 .site-title {
@@ -264,11 +275,38 @@ article {
   }
 }
 
+.home-icon {
+  padding: 1rem;
+  color: var(--primary);
+  background-color: rgba(var(--bg-rgb), 0.1);
+  background-blend-mode: multiple;
+  border-radius: 1rem;
+  mix-blend-mode: darken;
+  margin-bottom: .5rem;
+
+  &-secondary {
+    color: var(--secondary);
+    background-color: rgba(var(--bgs-rgb), 0.1);
+  }
+
+  &-article {
+    color: var(--article);
+    background-color: rgba(var(--bg-article-rgb), 0.1);
+  }
+}
+
+.bi {
+  font-size: 2.5rem;
+  width: 1em;
+  height: 1em;
+  fill: currentcolor;
+}
+
 .home-outils {
-  display: grid;
-  gap: 1rem;
-  grid-template-columns: repeat(auto-fill, 240px);
-  justify-content: center;
+  align-items: end;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 5rem auto;
 }
 
 .home-cabinet,
