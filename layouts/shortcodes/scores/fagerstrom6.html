@@ -1,0 +1,83 @@
+<form class="mt-4" id="score-fager6" autocomplete="off">
+  <p>Le score de Fagerström en 6 questions pour l'évaluation de la dépendance d'un adulte consommant du tabac.</p>
+  <fieldset>
+    <legend>1. Le matin, combien de temps après être réveillé(e) fumez-vous votre première cigarette&nbsp;?</legend>
+    <input type="radio" id="fager6-11" name="radio-fager6-1" class="d-input-none" value="3" required>
+    <label for="fager6-11" class="chip chip-action chip-sm chip-choice">Dans les 5 minutes</label>
+    <input type="radio" id="fager6-12" name="radio-fager6-1" class="d-input-none" value="2">
+    <label for="fager6-12" class="chip chip-action chip-sm chip-choice">6-30 min</label>
+    <input type="radio" id="fager6-13" name="radio-fager6-1" class="d-input-none" value="1">
+    <label for="fager6-13" class="chip chip-action chip-sm chip-choice">31-60 min</label>
+    <input type="radio" id="fager6-14" name="radio-fager6-1" class="d-input-none" value="0">
+    <label for="fager6-14" class="chip chip-action chip-sm chip-choice">Plus de 60 min</label>
+  </fieldset>
+  <fieldset>
+    <legend>2. Trouvez-vous qu'il est difficile de vous abstenir de fumer dans les endroits où c’est interdit&nbsp;? (ex. : cinémas, bibliothèques)</legend>
+    <input type="radio" id="fager6-21" name="radio-fager6-2" class="d-input-none" value="1" required>
+    <label for="fager6-21" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="fager6-22" name="radio-fager6-2" class="d-input-none" value="0">
+    <label for="fager6-22" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>3. À quelle cigarette renonceriez-vous le plus difficilement&nbsp;?</legend>
+    <input type="radio" id="fager6-31" name="radio-fager6-3" class="d-input-none" value="1" required>
+    <label for="fager6-31" class="chip chip-action chip-sm chip-choice">À la première de la journée</label>
+    <input type="radio" id="fager6-32" name="radio-fager6-3" class="d-input-none" value="0">
+    <label for="fager6-32" class="chip chip-action chip-sm chip-choice">À une autre</label>
+  </fieldset>
+  <fieldset>
+    <legend>4. Combien de cigarettes fumez-vous par jour, en moyenne&nbsp;?</legend>
+    <input type="radio" id="fager6-41" name="radio-fager6-4" class="d-input-none" value="0" required>
+    <label for="fager6-41" class="chip chip-action chip-sm chip-choice">10 ou moins</label>
+    <input type="radio" id="fager6-42" name="radio-fager6-4" class="d-input-none" value="1">
+    <label for="fager6-42" class="chip chip-action chip-sm chip-choice">11 à 20</label>
+    <input type="radio" id="fager6-43" name="radio-fager6-4" class="d-input-none" value="2">
+    <label for="fager6-43" class="chip chip-action chip-sm chip-choice">21 à 30</label>
+    <input type="radio" id="fager6-44" name="radio-fager6-4" class="d-input-none" value="3">
+    <label for="fager6-44" class="chip chip-action chip-sm chip-choice">31 ou +</label>
+  </fieldset>
+  <fieldset>
+    <legend>5. Fumez-vous à intervalles plus rapprochés durant les premières heures de la matinée que durant le reste de la journée&nbsp;?</legend>
+    <input type="radio" id="fager6-51" name="radio-fager6-5" class="d-input-none" value="1" required>
+    <label for="fager6-51" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="fager6-52" name="radio-fager6-5" class="d-input-none" value="0">
+    <label for="fager6-52" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>6. Fumez-vous lorsque vous êtes malade au point de devoir rester au lit presque toute la journée&nbsp;?</legend>
+    <input type="radio" id="fager6-61" name="radio-fager6-6" class="d-input-none" value="1" required>
+    <label for="fager6-61" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="fager6-62" name="radio-fager6-6" class="d-input-none" value="0">
+    <label for="fager6-62" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <div class="alert bg-light d-flex mt-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline score-output-title">Score Fagerström-6</p>
+      <output class="score-output" id="fager6Score">0</output>
+    </div>
+    <p id="fager6Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  </div>
+</form>
+<blockquote class="blockquote my-4">
+  <p class="mb-0"><a href="" rel="external nofollow noopener"></a></p>
+</blockquote>
+{{ $script := `
+  // Score Fagerström-6 by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scorefager6 = document.getElementById('fager6Score')
+    const textfager6 = document.getElementById('fager6Text');
+    [...document.querySelectorAll('#score-fager6 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { calcFager6() }) })
+    const calcFager6 = () => {
+      let score = 0
+      const checkedElems = document.querySelectorAll('#score-fager6 input[type=\"radio\"]:checked')
+      if (checkedElems.length === 6) {
+        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
+        scorefager6.innerHTML = score
+        if (score <= 2) { textfager6.innerHTML = "Pas de dépendance" }
+        else if (score >= 3 && score <= 4) { textfager6.innerHTML = "Dépendance faible" }
+        else if (score >= 5 && score <= 6) { textfager6.innerHTML = "Dépendance moyenne" }
+        else if (score >= 7) { textfager6.innerHTML = "Dépendance forte ou très forte" }
+      }
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>
