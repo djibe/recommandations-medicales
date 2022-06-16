@@ -20,7 +20,7 @@ imageSrc = "Rosacée papulopustuleuse avec érythème. Photo de The Thinking Dol
 
 {{%article-summary%}}
 
-- Le diagnostic est clinique: visage médian rouge de l'adulte avec bouffées vasomotrices
+- Le diagnostic de rosacée est clinique: visage médian rouge de l'adulte avec bouffées vasomotrices
 - Le traitement est suspensif avec rechutes à l'arrêt
 - Atteinte oculaire possible
 - Métronidazole gel 0,75% x 2/j pendant 3 mois en 1<sup>re</sup> intention
@@ -31,11 +31,11 @@ imageSrc = "Rosacée papulopustuleuse avec érythème. Photo de The Thinking Dol
 
 Rosacée
 : Dermatose faciale chronique fréquente chez l'adulte d'âge moyen à peau claire ({{< modal-btn modal-fitzpatrick >}}Fitzpatrick I-III{{< /modal-btn >}}). L'atteinte est médiane: nez, front, joues et menton.
-Prédominance féminine (2/3) et maximale entre 35-50 ans.
+Prédominance de la maladie chez la femme (2/3) et maximale entre 35-50 ans.
 : Formes initiales déclenchées par climat froid, travail à la chaleur, photo-exposition. Puis évolution chronique avec poussées de papules et pustules sans facteur déclenchant.  
-Atteinte typique avec flushs, érythème du visage et télangiectasies et périodes inflammatoires développant des papulopustules.
+Atteinte typique de la rosacée avec flushs, érythème du visage et télangiectasies et périodes inflammatoires développant des papulopustules.
 : Aboutit à des **complications oculaires** fréquentes (50%): blépharite, xérose, conjonctivite.
-: Évolution spontanément favorable après plusieurs années pour 40% des patients.
+: Évolution spontanément favorable de la maladie après plusieurs années pour 40% des patients.
 
 Dermatose mixte du visage
 : Fréquente, lorsque **rosacée et dermatite séborrhéique** sont associées.
@@ -43,7 +43,7 @@ Dermatose mixte du visage
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic est clinique pour ses différentes variantes cliniques.
+Le diagnostic est clinique pour les différentes formes de rosacée.
 
 ### Interrogatoire
 
@@ -66,20 +66,20 @@ Aucun signe systémique et récupération spontanée totale en quelques minutes.
 Rosacée érythémato-télangiectasique permanente.  
 Atteinte permanente des joues, nez, menton, front en partie médiane avec:
 
-- érythrose (érythème diffus s'effaçant en vitropression)
-- et télangiectasies des joues et ailes du nez (ou couperose)
+- Érythrose (érythème diffus s'effaçant en vitropression)
+- Télangiectasies des joues et ailes du nez (ou couperose)
 - Flushs parfois surajoutés
 
 ### Forme papulopustuleuse (inflammatoire)
 
-Forme clinique la plus caractéristique avec papules inflammatoires et pustules *indolores* survenant sur un fond érythémateux permanent. Extension variable.
+Forme de rosacée la plus caractéristique avec papules inflammatoires et pustules *indolores* survenant sur un fond érythémateux permanent. Extension variable.
 
-Signes négatifs (différences avec l'acné): respect péri-buccal et péri-oculaire, pas de comédon, de cicatrice ou de douleurs.
+Signes négatifs (différences avec l'[acné]({{< relref "acne.md" >}})): respect péri-buccal et péri-oculaire, pas de comédon, de cicatrice ou de douleurs.
 
 ### Forme hypertrophique - Rhinophyma
 
-Homme +50 ans à 95%.  
-Hypertrophie du nez, rouge avec orifices folliculaires dilatés. Peau épaissie avec aspect de << trogne >>.  
+Forme de rosacée sévère atteignant l'homme +50 ans à 95%.  
+Rhynophyma: Hypertrophie du nez, rouge avec orifices folliculaires dilatés. Peau épaissie avec aspect de << trogne >>.  
 N'est pas synonyme d'alcoolisme.  
 Aucune régression après installation.
 
@@ -90,6 +90,8 @@ Corticodépendance, érythème desquamatif, grandes télangiectasies des zones p
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
+
+Diagnostic différentiel de la rosacée:
 
 - [Acné]({{< relref "acne.md" >}})  
   Adolescent, visage, cou et tronc, comédons, pas de flushs/érythème/télangiectasies, papules douloureuses.

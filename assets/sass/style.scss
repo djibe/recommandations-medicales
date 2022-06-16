@@ -224,7 +224,7 @@ a[href^="http"]:not([class]):not([href*="recomedicales.fr"])::after {
 }
 
 .text-secondary {
-  color: var(--secondary-dark);
+  color: var(--secondary-dark) !important;
 }
 
 .text-article {

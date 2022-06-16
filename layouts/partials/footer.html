@@ -186,7 +186,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
   }
 </script>
 
-{{ $searchjs := resources.Get "js/search.js" | minify }}
+{{ $searchjs := resources.Get "js/search.js" | minify | fingerprint }}
 <script src="{{ $searchjs.Permalink }}" async fetchpriority="low"></script>
 <script>
   document.addEventListener( 'DOMContentLoaded', event => {

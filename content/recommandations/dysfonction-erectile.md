@@ -6,9 +6,9 @@ synonyms = ["Impuissance"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-05-05T12:48:09+02:00"
 publishdate = "2020-05-05"
-lastmod = "2022-05-29"
+lastmod = "2022-06-14"
 specialites = ["urologie"]
-annees = "2010"
+annees = "2018"
 sources = ["AIUS"]
 tags = ["risque cardiovasculaire"]
 anglais = ["Erectile dysfunction"]
@@ -16,7 +16,7 @@ sctid = "860914002"
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "https://www.revmed.ch/RMS/2019/RMS-N-642/Nouvelles-recommandations-pour-la-prise-en-charge-de-la-dysfonction-erectile-a-l-usage-du-praticien, https://www.sfcardio.fr/publication/chemin-clinique-pour-le-depistage-et-la-prise-en-charge-de-la-dysfonction-erectile-des"
+todo = "https://www.sfcardio.fr/publication/chemin-clinique-pour-le-depistage-et-la-prise-en-charge-de-la-dysfonction-erectile-des"
 +++
 
 {{%article-summary%}}
@@ -389,10 +389,6 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 - [Colson MH et al. La dysfonction érectile du diabétique. Sexologies. 2018.](https://www.sciencedirect.com/science/article/pii/S1158136018300112)
 - [Nehra A et al. The Princeton III Consensus Recommendations for the Management of Erectile Dysfunction and Cardiovascular Disease. Mayo Clinic Proceedings. 2012.](https://www.mayoclinicproceedings.org/article/S0025-6196%2812%2900635-0/fulltext)
 - [Cuzin B. et al; AIUS. Recommandations aux médecins généralistes pour la prise en charge de première intention de la dysfonction érectile. 2010.](https://ur.booksc.eu/book/17263369/eede54)
-
-### À lire
-
-[Bonierbale M, Colson MH. Nouvelles recommandations pour la dysfonction érectile à l'usage du praticien. Sexologies. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S115813601830001X)
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}

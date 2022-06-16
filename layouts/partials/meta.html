@@ -96,10 +96,12 @@
       "@type": "Article",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": {{ .Permalink }}
+        "@id": {{ .Site.BaseURL }}
       },
-      "headline": "{{ .Title | truncate 110 }} : recommandations 2021",
-      "description": "Les recommandations pour la prise en charge de {{ .Title }} en médecine générale.",
+      "articleSection" : "{{ .Section }}",
+      "name" : "{{ .Title }}",
+      "headline": "{{ .Title | truncate 110 }}",
+      "description" : "{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}",
       {{- if (not .Params.longHtml) }}"articleBody": "{{ .Plain }}",{{ end -}}
       "image": [{{ $imageUrl | absURL }}],
       "author": {
@@ -107,8 +109,10 @@
         "name": "{{ range first 1 .Params.auteurs }}{{.}}{{end}}"
       },
       "wordCount": "{{ .WordCount }}",
+      "copyrightYear" : "{{ .Date.Format "2006" }}",
       "datePublished": {{ .PublishDate.Format $ISO8601 }},
       "dateModified": {{ .Lastmod.Format $ISO8601 }},
+      "url" : "{{ .Permalink }}",
       "publisher": {
         "@type": "Organization",
         "name": {{ .Site.Title }},
