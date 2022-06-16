@@ -23,8 +23,7 @@ todo = "https://www.sfcardio.fr/publication/chemin-clinique-pour-le-depistage-et
 
 *Les recommandations concernent l'homme de plus de 18 ans. Avant, la prise en charge relève de psychologue/psychiatre formé en sexologie et aux pathologies de l'adolescent.*
 
-*Recommandations 2018 à venir*
-
+- Dépister systématiquement chez le diabétique
 - Vérifier les contre-indications aux IPDE5
 - [Sildénafil 50 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69085330&typedoc=R) (Viagra®, gén) à la demande (max 1/j)  
   Selon l'effet, utiliser de 25 à 100 mg (efficace 4-5 heures)
@@ -58,8 +57,8 @@ S'y ajoute le retentissement psychologique du patient/couple (DSM IV).
 
 ### Facteurs de risque de dysfonction érectile indépendants de l'âge
 
-- Diabète  
-  - 50% des diabétiques, risque x4,5 et le trouble survient 10 à 15 ans plus tôt
+- [Diabète]({{< relref "diabete-type-2.md" >}})  
+  - 50% des diabétiques, risque multiplié par 4,5 et le trouble survient 10 à 15 ans plus tôt
   - La DE est l'indicateur le plus fiable de l'installation des complications viscérales et vasculaires
   - 40% arrêtent le traitement antidiabétique pensant améliorer la DE
 - Pathologie cardiovasculaire
@@ -386,7 +385,7 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 
 - [Allen MS. Physical activity as an adjunct treatment for erectile dysfunction. Nat Rev Urol. 2019.](https://www.ncbi.nlm.nih.gov/pubmed/31239541)
 - [Colson MH et al. Démarche diagnostique et prise en charge du patient souffrant de dysfonction érectile, actualisation et consignes pratiques. Sexologies. 2018.](https://www.em-consulte.com/en/article/1198573)
-- [Colson MH et al. La dysfonction érectile du diabétique. Sexologies. 2018.](https://www.sciencedirect.com/science/article/pii/S1158136018300112)
+- [Colson MH et al; AIUS. La dysfonction érectile du diabétique. Sexologies. 2018.](https://www.sciencedirect.com/science/article/pii/S1158136018300112)
 - [Nehra A et al. The Princeton III Consensus Recommendations for the Management of Erectile Dysfunction and Cardiovascular Disease. Mayo Clinic Proceedings. 2012.](https://www.mayoclinicproceedings.org/article/S0025-6196%2812%2900635-0/fulltext)
 - [Cuzin B. et al; AIUS. Recommandations aux médecins généralistes pour la prise en charge de première intention de la dysfonction érectile. 2010.](https://ur.booksc.eu/book/17263369/eede54)
 

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-06-12"
+lastmod = "2022-06-16"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["SFD", "ESC", "EASD", "ADA", "HAS"]
@@ -253,6 +253,7 @@ window.onload = () => {
 | Aspirine prev secondaire | 75-160 mg ± associé selon la pathologie, prolonger bi-antiagrégants si bien toléré (max 3 ans) | ESC 2019 diabetes |
 | Chir bariatrique | < 65 ans et IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, SAOS ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH | HAS 2009 obésité |
 | Dentaire     | Suivi annuel                                                                                     | IDF 2009                 |
+| Dysfonction érectile | Systématique                                                                             | AIUS 2018                |
 | ECG          | Annuel (VPN très faible)                                                                         | SFD 2021 CAD             |
 | Épreuve d'effort | Angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans) | SFD 2021 CAD |
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
@@ -297,6 +298,7 @@ window.onload = () => {
 - {{< references/esc-diabetes >}}
 - {{< references/esc-hta >}}
 - [Borel AL et al; SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. Med Mal Metab. 2018. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
+- [Colson MH et al; AIUS. La dysfonction érectile du diabétique. Sexologies. 2018.](https://www.sciencedirect.com/science/article/pii/S1158136018300112)
 - [Massin P et al; SFD. Référentiel pour le dépistage et la surveillance des complications oculaires du patient diabétique. Validé par la Société Francophone du Diabète (SFD) et par la Société Française d'Ophtalmologie (SFO). Med Mal Metab. 2016. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_complications_oculaires_sfd_sfo_mmm.pdf)
 - [IDF. Oral health for people with diabetes. 2009. (PDF)](https://www.idf.org/component/attachments/attachments.html?id=729&task=download)
 
