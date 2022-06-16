@@ -23,7 +23,7 @@ todo = "https://www.sfcardio.fr/publication/chemin-clinique-pour-le-depistage-et
 
 *Les recommandations concernent l'homme de plus de 18 ans. Avant, la prise en charge relève de psychologue/psychiatre formé en sexologie et aux pathologies de l'adolescent.*
 
-- Dépister systématiquement chez le diabétique
+- Dépister systématiquement chez le diabétique, marqueur de maladie endothéliale et des autres complications du diabète
 - Vérifier les contre-indications aux IPDE5
 - [Sildénafil 50 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69085330&typedoc=R) (Viagra®, gén) à la demande (max 1/j)  
   Selon l'effet, utiliser de 25 à 100 mg (efficace 4-5 heures)
@@ -59,7 +59,7 @@ S'y ajoute le retentissement psychologique du patient/couple (DSM IV).
 
 - [Diabète]({{< relref "diabete-type-2.md" >}})  
   - 50% des diabétiques, risque multiplié par 4,5 et le trouble survient 10 à 15 ans plus tôt
-  - La DE est l'indicateur le plus fiable de l'installation des complications viscérales et vasculaires
+  - La DE est l'indicateur le plus fiable de l'installation des complications viscérales et vasculaires (MCV x1,6)
   - 40% arrêtent le traitement antidiabétique pensant améliorer la DE
 - Pathologie cardiovasculaire
 - Troubles anxio-dépressifs
@@ -74,19 +74,25 @@ S'y ajoute le retentissement psychologique du patient/couple (DSM IV).
 
 DE
 : dysfonction érectile
+
+IPDE5 ou iPDE-5
+: inhibiteurs de la PDE5
+
+MCV
+: maladie cardiovasculaire
 {.dl-inline}
 
 {{%/collapse%}}
 {{%collapse "Contre-indications à la prescription d'IPDE5" %}}
 
-Restrictions à la prescription d'emblée d'IPDE5 avec avis cardiologique systématique:
+Restrictions à la prescription d'emblée d'iPDE-5 avec avis cardiologique systématique:
 
 1. Inapte  
   Patient cardiaque ou dans l'impossibilité de monter facilement 2 étages ou 20 minutes de marche par jour.
 2. ≥ 3 facteurs de risque cardiovasculaire
-3. Diabétique avec ≥ 1 FRCV (≥ 50 ans, hypertension, tabac ...)
+3. Diabète
 4. Coronarien connu, insuffisance cardiaque grave, IDM/AVC récent
-5. Autres: IHC grave, hypotension grave, rétinite pigmentaire, neuropathie optique
+5. Autres: insuffisance hépatique grave, hypotension grave, rétinite pigmentaire, neuropathie optique
 
 Paraphilie, psychose instable: pas d'IPDE5 avant avis psychiatrique.
 
@@ -155,7 +161,7 @@ Une DE réactionnelle, situationnelle associée à la persistance d'érections s
 - Abdomino-pelviens  
   Cancer du testicule, traumatisme, chirurgie herniaire, cryptorchidie, radiothérapie.
 - Diabète, maladies neurologiques ou endocriniennes
-- FRCV, maladies cardiovasculaires
+- Facteurs de risque cardiovasculaire, maladies cardiovasculaires
 - Sédentarité
 - Facteurs psycho-sociaux
 - Signes d'hypertrophie prostatique
@@ -173,8 +179,8 @@ Une DE réactionnelle, situationnelle associée à la persistance d'érections s
 
 Dépistage de la dépression en 2 questions (+ si ≥ 1 vraie):
 
-1. Au cours du dernier mois, vous êtes-vous senti abattu, déprimé, désespéré ?
-2. « Au cours du dernier mois, avez-vous souvent ressenti une baisse d'intérêt ou de plaisir dans votre vie de tous les jours ?
+1. << Au cours du dernier mois, vous êtes-vous senti abattu, déprimé, désespéré ? >>
+2. << Au cours du dernier mois, avez-vous souvent ressenti une baisse d'intérêt ou de plaisir dans votre vie de tous les jours ? >>
 
 - Anxiété de performance sexuelle (anxieux ++)
 - Éléments de vie positifs ou négatifs dans les 6 mois précédents l'apparition du trouble
@@ -189,13 +195,13 @@ Examen clinique annuel en cas de dysfonction érectile avec:
 
 - Poids, taille, IMC, tour de taille
 - Uro-génital  
-  Testicules (taille, consistance), pénis (prépuce, frein, phimosis, déformation, taille, mycose), toucher rectal après 50 ans, gynécomastie  
+  Testicules (taille, consistance), pénis (**mycose**, **phimosis**, prépuce, frein, , déformation, taille), toucher rectal après 50 ans, gynécomastie  
 - Cardiovasculaire  
   - Pression artérielle, pouls périphériques, souffles vasculaires
   - Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ({{< scores/heartscore >}})
   - {{< modal-btn modal-saos >}}Apnées du sommeil{{< /modal-btn >}}
 - Neurologique  
-  Centré sur ROT, RCP, sensibilité des pieds, anesthésie en selle et des membres inférieurs, hypotension orthostatique.
+  Centré sur les réflexes, sensibilité des pieds, anesthésie en selle et des membres inférieurs, hypotension orthostatique.
 
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
@@ -210,7 +216,7 @@ Examen clinique annuel en cas de dysfonction érectile avec:
 - Glycémie à jeun (sauf < 1 an) ou HbA<sub>1c</sub>
 - Bilan lipidique (sauf < 1 an)
 - PSA si > 50 ans (ou 45 si antécédents familiaux)
-- Testostéronémie totale  
+- Diabète type 2: testostéronémie totale  
   Le matin entre 8h et 11h.
 {{%/info%}}
 
@@ -296,7 +302,7 @@ Diagnostic de dépression au cours du bilan de DE avec le généraliste:
 {{%/collapse%}}
 {{%collapse "Traitements spécifiques de la dysfonction érectile" %}}
 
-### Inhibiteurs de la phospho-diestérase de type 5 (IPDE5)
+### Inhibiteurs de la phospho-diestérase de type 5 (iPDE-5)
 
 {{%info%}}[Sildénafil 50 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69085330&typedoc=R) (Viagra®, gén) à la demande (max 1/j). Selon l'effet, utiliser de 25 à 100 mg (efficace 4-5 heures){{%/info%}}
 
@@ -304,9 +310,10 @@ En 2<sup>e</sup> intention: [tadalafil 10 mg](https://base-donnees-publique.medi
 Avantages: pas de retard absorptif dus à l'alimentation, efficacité prolongée à 12 heures.
 
 **Tadalafil en continu:** débuter à [2,5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63536698&typedoc=R) x 1/j. Max 5 mg en 1 prise/j.  
-Proposer si traitement efficace et ≥ 2 utilisations par semaine.
+Proposer le tadalafil en continu si traitement efficace et ≥ 2 utilisations par semaine ou le **diabétique**.
 
-Autres IPDE5 à la demande: vardénafil, avanafil (Spedra®). Les IPDE5 ont une efficacité de 65-85 %.
+Autres IPDE5 à la demande: vardénafil, avanafil (Spedra®).  
+Les IPDE5 ont une efficacité de 65-85 % (52-72% en cas de diabète).
 
 {{%info%}}
 
@@ -317,7 +324,7 @@ Les informations suivantes doivent être données au patient, car il s'agit d'un
 - Facilitateur de l'érection, à la demande ou en continu selon la molécule, nécessitant une stimulation sexuelle
 - L'effet peut être visible dès la 1<sup>re</sup> prise mais les résultats peuvent s'améliorer au fil du traitement
 - Pas d'obligation d'activité après la prise du traitement. Efficacité prolongée de 5 heures (12 pour le tadalafil)
-- Nécessite ≥ 4-6 essais avant échec. Réévaluation systématique à 1-2 mois
+- Nécessite au moins 4-6 essais avant échec. Réévaluation systématique à 1-2 mois
 - Acheter le traitement uniquement en pharmacie (mais comparer différentes pharmacies)
 - Autres traitements disponibles en cas d'absence de réponse
 
@@ -325,7 +332,7 @@ Les informations suivantes doivent être données au patient, car il s'agit d'un
 
 #### Effets indésirables des IPDE5
 
-Céphalées (> 10%) > bouffées vasomotrices, altération de la vision des couleurs réversible/vision floue, nausées, congestion nasale > dyspepsie, palpitations, douleurs dorsales, vertiges.
+Céphalées (+10%), bouffées vasomotrices, altération de la vision des couleurs réversible/vision floue, nausées, congestion nasale > dyspepsie, palpitations, douleurs dorsales, vertiges.
 
 Les effets indésirables graves sont rares: allongement QT, IDM, NOIAA, surdité brutale irréversible.
 
@@ -346,7 +353,7 @@ Les traitements suivants ne relèvent pas de la prise en charge du médecin trai
 {{%/collapse%}}
 {{%collapse "Suivi" %}}
 
-Réévaluation systématique sous 1-2 mois: compréhension et utilisation du traitement, efficacité, effets secondaires, satisfaction personnelle et de la partenaire.
+Réévaluation de l'impuissance systématique sous 1-2 mois: compréhension et utilisation du traitement, efficacité, effets secondaires, satisfaction personnelle et de la partenaire.
 
 ### Si échec après 4 à 6 essais
 

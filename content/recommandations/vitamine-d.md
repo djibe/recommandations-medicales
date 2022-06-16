@@ -63,8 +63,8 @@ Principaux aliments riches en vitamine D: poissons et produits laitiers (*Anses*
 
 ### Abréviations
 
-25OHD
-: vitamine D (TODO:)
+25OHD (25-OH-D)
+: vitamine D-25
 
 HAS
 : Haute autorité de santé

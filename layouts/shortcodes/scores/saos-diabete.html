@@ -49,8 +49,8 @@
     document.addEventListener( 'DOMContentLoaded', event => {
     const scoreSaosDiabete = document.getElementById('saosDiabeteScore')
     const textSaosDiabete = document.getElementById('saosDiabeteText');
-    [...document.querySelectorAll('#score-saos-diabete input[type="checkbox"]')].forEach((elem) => { elem.addEventListener('click', () => { saosDiabete() }) })
-    const saosDiabete = () => {
+    [...document.querySelectorAll('#score-saos-diabete input[type="checkbox"]')].forEach((elem) => { elem.addEventListener('click', () => calcSaosDiabete() ) })
+    const calcSaosDiabete = () => {
       let score = 0
       const saosDiabeteElemsChecked = document.querySelectorAll('#score-saos-diabete input[type="checkbox"]:checked')
         saosDiabeteElemsChecked.forEach(saosDiabeteElemChecked => {

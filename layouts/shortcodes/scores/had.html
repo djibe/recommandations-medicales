@@ -1,4 +1,4 @@
-<form class="mt-4" id="score-had" autocomplete="off">
+<div class="mt-4" id="score-had">
   <p>Échelle <abbr title="Hospital Anxiety and Depression scale" lang="en">HAD</abbr> (<span lang="en">Hospital Anxiety and Depression scale</span>) pour le dépistage des troubles anxieux et dépressifs en 14 questions.</p>
   <fieldset>
     <legend>1. Je me sens tendu(e) ou énervé(e)</legend>
@@ -161,7 +161,7 @@
     </div>
     <p id="hadText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
-</form>
+</div>
 <blockquote class="blockquote my-4">
   <p class="mb-0"><a href="https://pubmed.ncbi.nlm.nih.gov/6880820/" rel="external nofollow noopener">Zigmond AS, Snaith RP. The hospital anxiety and depression scale. Acta Psychiatr Scand. 1983;67(6):361-370.</a> et
     <a href="https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil__echelle_had.pdf" rel="external nofollow noopener">traduction française JF Lépine</a></p>
@@ -171,8 +171,8 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreHad = document.getElementById('hadScore')
     const textHad = document.getElementById('hadText');
-    [...document.querySelectorAll('#score-had input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { had() }) })
-    const had = () => {
+    [...document.querySelectorAll('#score-had input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcHad() ) })
+    const calcHad = () => {
       let scoreAnxiete = 0
       let scoreDepression = 0
       const anxieteElems = document.querySelectorAll('#score-had .anxiete:checked')

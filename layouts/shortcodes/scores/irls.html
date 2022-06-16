@@ -1,4 +1,4 @@
-<form class="my-4" id="score-irls" autocomplete="off">
+<div class="my-4" id="score-irls">
   <h4>Score <abbr title="IRLSSSG rating scale" lang="en">IRLS</abbr> (<span lang="en">IRLSSSG rating scale</span>)</h4>
   <fieldset>
     <legend>1. Quelle est votre appréciation du désagrément provoqué par le syndrome des jambes sans repos&nbsp;?</legend>
@@ -135,14 +135,14 @@
     </div>
     <p id="irlsText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
-</form>
+</div>
 {{ $script := `
   // Score IRLS by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreIRLS = document.getElementById('irlsScore')
     const textIRLS = document.getElementById('irlsText');
-    [...document.querySelectorAll('#score-irls input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { irls() }) })
-    const irls = () => {
+    [...document.querySelectorAll('#score-irls input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcIrls() ) })
+    const calcIrls = () => {
       let score = 0
       const irlsElemsChecked = document.querySelectorAll('#score-irls input[type=\"radio\"]:checked')
         irlsElemsChecked.forEach(irlsElemChecked => {

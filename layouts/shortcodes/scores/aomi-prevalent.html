@@ -1,4 +1,4 @@
-<form class="my-4" id="score-prevalent" autocomplete="off">
+<div class="my-4" id="score-prevalent">
   <p>Score du dépistage ciblé de l'<abbr title="Artériopathie oblitérante des membres inférieurs">AOMI</abbr> en soins primaires à partir de 55 ans.</p>
   <fieldset>
     <legend>Âge</legend>
@@ -42,7 +42,7 @@
     </div>
     <p id="prevalentText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
-</form>
+</div>
 <blockquote class="mt-4">
   <p lang="en">
     <a
@@ -58,17 +58,15 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scorePREVALENT = document.getElementById('prevalentScore')
     const textPREVALENT = document.getElementById('prevalentText');
-    [...document.querySelectorAll('#score-prevalent input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => {
-      prevalent()
-    }) })
-    const prevalent = () => {
+    [...document.querySelectorAll('#score-prevalent input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcPrevalent() ) })
+    const calcPrevalent = () => {
       let score = 0
       const elemsChecked = document.querySelectorAll('#score-prevalent input[type=\"radio\"]:checked')
         elemsChecked.forEach(elemChecked => {
         score += parseInt(elemChecked.value, 10)
         if (elemsChecked.length === 3) {
           scorePREVALENT.innerHTML = score
-          let explainPrevalent = "<span class='d-block text-muted mt-2'>Risque d'AOMI de " + prevalence(score) + "%</span>"
+          let explainPrevalent = "<span class='d-block text-muted mt-2'>Risque d'AOMI de " + findPrevalence(score) + "%</span>"
           if (score <= 7) {
             textPREVALENT.innerHTML = "Pas de dépistage de l'AOMI sauf comorbidités" + explainPrevalent
           }
@@ -80,7 +78,7 @@
         }
       })
     }
-    const prevalence = (score) => {
+    const findPrevalence = (score) => {
       if (score <= 3) { return 7 }
       else if (score === 4) { return 11.9 }
       else if (score === 5) { return 14.5 }

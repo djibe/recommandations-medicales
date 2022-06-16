@@ -1,4 +1,4 @@
-<form class="pt-3">
+<div class="pt-3">
   <div class="form-group" id="score-ecab">
     <p class="mb-4">Échelle <abbr title="Échelle cognitive d'attachement aux benzodiazépines">ECAB</abbr> (Échelle cognitive d'attachement aux benzodiazépines)</p>
     <div class="custom-control custom-checkbox">
@@ -49,7 +49,7 @@
     </div>
     <p id="ecabText" class="lead m-auto">Pas de dépendance</p>
   </div>
-</form>
+</div>
 <blockquote>
   <p>Pelissolo A et al. Troubles anxieux et dépressifs chez 4425 patients consommateurs de benzodiazépines au long cours en médecine générale. Encéphale 2007;33:32-38.</p>
 </blockquote>
@@ -58,8 +58,8 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreecab = document.getElementById('ecabScore')
     const textecab = document.getElementById('ecabText');
-    [...document.querySelectorAll('#score-ecab input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => { ecab() }) })
-    const ecab = () => {
+    [...document.querySelectorAll('#score-ecab input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcEcab() ) })
+    const calcEcab = () => {
       let score = 0
       const ecabElemsChecked = document.querySelectorAll('#score-ecab input[type=\"checkbox\"]:checked')
       ecabElemsChecked.forEach(ecabElemChecked => {

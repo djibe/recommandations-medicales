@@ -1,4 +1,4 @@
-<form class="pt-3">
+<div class="pt-3">
   <div class="form-group" id="score-herdoo2">
     <div class="custom-control custom-checkbox">
       <input type="checkbox" id="herdoo2-1" class="custom-control-input" value="1">
@@ -26,16 +26,14 @@
     </div>
     <p id="herdoo2Text" class="lead m-auto">Risque de récidive <strong>faible</strong></p>
   </div>
-</form>
+</div>
 {{ $script := `
   // Score HERDOO2 by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreHerdoo2 = document.getElementById('herdoo2Score')
     const textHerdoo2 = document.getElementById('herdoo2Text');
-    [...document.querySelectorAll('#score-herdoo2 input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => {
-      herdoo2()
-    }) })
-    const herdoo2 = () => {
+    [...document.querySelectorAll('#score-herdoo2 input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcHerdoo2() ) })
+    const calcHerdoo2 = () => {
       let score = 0
       const herdoo2ElemsChecked = document.querySelectorAll('#score-herdoo2 input[type=\"checkbox\"]:checked')
       herdoo2ElemsChecked.forEach(herdoo2ElemChecked => {

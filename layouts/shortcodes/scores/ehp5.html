@@ -1,4 +1,4 @@
-<form class="my-4" id="score-ehp5" autocomplete="off">
+<div class="my-4" id="score-ehp5">
   <h3 class="card-title">Échelle <abbr title="Endometriosis health profile 5" lang="en">EHP 5</abbr></h3>
   <h4 class="card-subtitle font-italic" lang="en">Endometriosis health profile 5</h4>
   <p class="my-3">Au cours des 4 dernières semaines, combien de fois, du fait de votre endométriose...</p>
@@ -153,14 +153,14 @@
     </div>
     <p id="ehp5Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
-</form>
+</div>
 {{ $script := `
   // Score EHP-5 FR by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreEHP5 = document.getElementById('ehp5Score')
     const textEHP5 = document.getElementById('ehp5Text');
-    [...document.querySelectorAll('#score-ehp5 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { ehp5() }) })
-    const ehp5 = () => {
+    [...document.querySelectorAll('#score-ehp5 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcEhp5() ) })
+    const calcEhp5 = () => {
       let score = 0
       const EHP5ElemsChecked = document.querySelectorAll('#score-ehp5 input[type=\"radio\"]:checked')
       EHP5ElemsChecked.forEach(EHP5ElemChecked => {

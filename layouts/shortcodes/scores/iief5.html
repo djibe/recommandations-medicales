@@ -1,4 +1,4 @@
-<form class="mt-4" id="score-iief5" autocomplete="off">
+<div class="mt-4" id="score-iief5">
   <p>Le questionnaire <abbr title="Simplified International Index of Erectile Function" lang="en">IIEF-5</abbr> (<span lang="en">Simplified International Index of Erectile Function</span>) pour l'évaluation d'un adulte présentant une dysfonction érectile.<br>
   Le questionnaire peut être utilisé pour une auto-évaluation.</p>
   <p>Ce questionnaire IIEF-5 permet d'évaluer votre fonction sexuelle au cours des six derniers mois.</p>
@@ -85,7 +85,7 @@
     </div>
     <p id="iief5Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
-</form>
+</div>
 <blockquote class="blockquote my-4">
   <p class="mb-0"><a href="https://www.nature.com/articles/3900472" rel="external nofollow noopener">Rosen RC. et al. Development and evaluation of an abridged, 5-item version of the International Index of Erectile Function (IIEF-5) as a diagnostic tool for erectile dysfunction. Int J Impot Res. 1999.</a></p>
   <small>D'après Urofrance score IIEF5</small>
@@ -95,7 +95,7 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreiief5 = document.getElementById('iief5Score')
     const textiief5 = document.getElementById('iief5Text');
-    [...document.querySelectorAll('#score-iief5 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { calcIief5() }) })
+    [...document.querySelectorAll('#score-iief5 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcIief5() ) })
     const calcIief5 = () => {
       let score = 0
       const checkedElems = document.querySelectorAll('#score-iief5 input[type=\"radio\"]:checked')

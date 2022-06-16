@@ -53,8 +53,8 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreRiete = document.getElementById('rieteScore')
     const textRiete = document.getElementById('rieteText');
-    [...document.querySelectorAll('#score-riete input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => { riete() }) })
-    const riete = () => {
+    [...document.querySelectorAll('#score-riete input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcRiete() ) })
+    const calcRiete = () => {
       let score = 0
       const rieteElemsChecked = document.querySelectorAll('#score-riete input[type=\"checkbox\"]:checked')
         rieteElemsChecked.forEach(rieteElemChecked => {

@@ -9,8 +9,8 @@ date = "2020-04-15T00:43:56+02:00"
 publishdate = "2020-04-15"
 lastmod = "2020-07-08"
 specialites = ["endocrinologie"]
-annees = "2019"
-sources = ["Prescrire"]
+annees = "2018"
+sources = ["ENDO"]
 tags = []
 anglais = ["Hirsutism"]
 sctid = "399939002"
@@ -33,6 +33,9 @@ L'hirsutisme atteint de 5 à 15% des femmes.
 Zones androgénodépendantes
 : Lèvre supérieure, menton, joue, poitrine, ligne ombilico-pubienne, fesse, dos, région lombaire, bras, face antérieure des cuisses.
 
+Hypertrichose
+: Excès de poils sous forme de duvet sur des zones non androgéniques. Elle est localisée (autour d'un grain de beauté) ou diffuse. Autant chez les femmes que les hommes.
+
 {{%/collapse %}}
 {{%collapse "Étiologie" %}}
 
@@ -51,8 +54,7 @@ Les causes de l'hirsutisme sont gynécologiques, endocriniennes et idiopathique:
 ### Diagnostic différentiel
 
 - Duvet
-- Hypertrichose  
-  Excès de poils sous forme de duvet sur des zones non androgéniques. Elle est localisée (autour d'un grain de beauté) ou diffuse. Autant chez les femmes que les hommes.
+- Hypertrichose
 
 {{%/collapse %}}
 {{%collapse "Clinique" %}}
@@ -74,12 +76,45 @@ Les causes de l'hirsutisme sont gynécologiques, endocriniennes et idiopathique:
   - Corticoïdes (même inhalés)
   - Minoxidil
   - Ciclosporine, tacrolimus
-  - Phénytoine
+  - Phénytoïne
+
+Score Ferriman–Gallwey de l'hirsutisme.
+ United States and United Kingdom black or white women, ≥8 (6); Mediterranean,
+Hispanic, and Middle Eastern women, ≥9 to 10 (6);
+South American women, ≥6 (7); and Asian women, a
+range of ≥2 for Han Chinese women (6) to ≥7 for
+Southern Chinese women
+
+{{%/collapse %}}
+{{%collapse "Examens complémentaires" %}}
+
+Uniquement en cas de score anormal:
+
+- Testostéronémie  
+  Entre 8 et 11h.
 
 {{%/collapse %}}
 {{%collapse "Traitement de l'hirsutisme" %}}
 
-Rasage ou épilation mécanique.
+### Mesures hygiéno-diétetiques
+
+Obésité ou SOPK: correction d'un surpoids
+
+### Patiente pré-ménopausique
+
+Cosmétiques
+
+Traitement pharmacologique
+Contraception orale (COP ou progestative) 6 mois
+ou si DIU/implant: anti-androgènes
+
+Anti-androgènes si échec à 6 mois
+Essai pendant au moins 6 mois
+Pas flutamide
+
+Photo-épilation si foncés, électrolyse si clairs.
+Pendant le traitement, possible ajout de eflornithine topique pour accélérer
+hyperandrogénie: maintenir ttt med pour éviter la repousse
 
 ### Traitements de deuxième intention
 

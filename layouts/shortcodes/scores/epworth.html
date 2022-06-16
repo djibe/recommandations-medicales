@@ -1,4 +1,4 @@
-<form class="my-4" id="score-epworth" autocomplete="off">
+<div class="my-4" id="score-epworth">
   <p>Meilleure échelle auto-administrée pour objectiver la somnolence diurne (<em><abbr title="American Academy of Sleep Medicine" lang="en">AASM</abbr> 2017</em>).</p>
   <p>Évaluez le risque de vous assoupir en sélectionnant l'adjectif le plus approprié pour chaque situation.</p>
   <p>Il est utile d'avoir une confirmation du score par un proche.</p>
@@ -98,7 +98,7 @@
     </div>
     <p id="epworthText" class="lead m-auto">Sélectionnez les réponses appropriées</p>
   </div>
-</form>
+</div>
 <blockquote class="mt-4">
   <p lang="en">
     <a
@@ -112,10 +112,8 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreEPWORTH = document.getElementById('epworthScore')
     const textEPWORTH = document.getElementById('epworthText');
-    [...document.querySelectorAll('#score-epworth input[type=\"radio\"]')].forEach((EPWORTHElem) => { EPWORTHElem.addEventListener('click', () => {
-      epworth()
-    }) })
-    const epworth = () => {
+    [...document.querySelectorAll('#score-epworth input[type=\"radio\"]')].forEach((EPWORTHElem) => { EPWORTHElem.addEventListener('click', () => calcEpworth() ) })
+    const calcEpworth = () => {
       let score = 0
       const elemsChecked = document.querySelectorAll('#score-epworth input[type=\"radio\"]:checked')
         elemsChecked.forEach(elemChecked => {

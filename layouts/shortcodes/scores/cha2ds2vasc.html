@@ -53,8 +53,8 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const textChads = document.getElementById('chadsText')
     const scoreChads = document.getElementById('chadsScore');
-    [...document.querySelectorAll('#score-cha2ds2vasc input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => { chads() }) })
-    const chads = () => {
+    [...document.querySelectorAll('#score-cha2ds2vasc input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcChads() ) })
+    const calcChads = () => {
       let score = 0
       const checkboxFemme = document.getElementById('check-femme')
       const elemsChecked = document.querySelectorAll('#score-cha2ds2vasc input[type=\"checkbox\"]:checked');

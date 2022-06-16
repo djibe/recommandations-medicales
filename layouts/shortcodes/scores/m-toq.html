@@ -45,8 +45,8 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreMtoq = document.getElementById('mtoqScore')
     const textMtoq = document.getElementById('mtoqText');
-    [...document.querySelectorAll('#score-mtoq input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('change', () => { mtoq() }) })
-    const mtoq = () => {
+    [...document.querySelectorAll('#score-mtoq input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('change', () => calcMtoq() ) })
+    const calcMtoq = () => {
       let score = 0
       const elemsChecked = document.querySelectorAll('#score-mtoq input[type=\"checkbox\"]:checked')
       elemsChecked.forEach(elemChecked => {

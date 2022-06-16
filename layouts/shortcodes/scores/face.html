@@ -1,4 +1,4 @@
-<form class="mt-4" id="score-face" autocomplete="off">
+<div class="mt-4" id="score-face">
   <h3 class="card-title">Hétéro-questionnaire <abbr title="Formule pour approcher la consommation d'alcool par entretien">FACE</abbr></h3>
   <p class="card-subtitle font-italic">Formule pour approcher la consommation d'alcool par entretien</p>
   <p class="typography-body-1">Lorsqu'une consommation à risque est suspectée, les 5 questions doivent être de préférence posées sans reformulation.</p>
@@ -63,7 +63,7 @@
     </div>
   <p id="faceText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
-</form>
+</div>
 <blockquote class="blockquote">
   <small>Repérage d'une consommation excessive: Femmes (Se 84,4%; Spe 84%), Hommes (Se 87,8%; Spe 74%)</small>
   <p>Arfaoui S. et al. Repérage précoce du risque alcool: savoir faire «FACE». Rev Prat Med Gen. 2004 ; 18 (641) : 201-5.</p>
@@ -73,8 +73,8 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreFace = document.getElementById('faceScore')
     const textFace = document.getElementById('faceText');
-    [...document.querySelectorAll('#score-face input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { face() }) })
-    const face = () => {
+    [...document.querySelectorAll('#score-face input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcFace() ) })
+    const calcFace = () => {
       let score = 0
       const sexe = document.querySelector('input[name=\"sexe\"]:checked')
       const faceElemsChecked = document.querySelectorAll('#score-face input[type=\"radio\"]:checked')

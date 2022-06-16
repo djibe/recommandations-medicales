@@ -1,4 +1,4 @@
-<form class="mt-4" id="score-hit6" autocomplete="off">
+<div class="mt-4" id="score-hit6">
   <p>Le questionnaire <abbr title="Health Impact Test 6" lang="en">HIT-6</abbr> (<span lang="en">Health Impact Test 6</span>) a été conçu pour vous aider à décrire et à exprimer ce que vous ressentez et ce que vous ne pouvez pas faire à cause de vos maux de tête.</p>
   <fieldset>
     <legend>1. Lorsque vous avez des maux de tête, la douleur est-elle intense&nbsp;?</legend>
@@ -85,7 +85,7 @@
     </div>
     <p id="hit6Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
-</form>
+</div>
 <blockquote class="blockquote my-4">
   <p class="mb-0"><a href="https://sfemc.fr/images/docs_SFEMC/docs_PATIENTS/patients-QUESTHIT6MLM.pdf" rel="external nofollow noopener">SFEMC. HIT-6&trade; Questionnaire sur l'impact des maux de tête France Version 1.0.</a></p>
 </blockquote>
@@ -94,8 +94,8 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreHit6 = document.getElementById('hit6Score')
     const textHit6 = document.getElementById('hit6Text');
-    [...document.querySelectorAll('#score-hit6 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { hit6() }) })
-    const hit6 = () => {
+    [...document.querySelectorAll('#score-hit6 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcHit6() ) })
+    const calcHit6 = () => {
       let score = 0
       const checkedElems = document.querySelectorAll('#score-hit6 input[type=\"radio\"]:checked')
       if (checkedElems.length === 6) {

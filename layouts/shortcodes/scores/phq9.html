@@ -1,4 +1,4 @@
-<form class="mt-4" id="score-phq9" autocomplete="off">
+<div class="mt-4" id="score-phq9">
   <p>Le questionnaire <abbr title="Patient Health Questionnaire 9" lang="en">PHQ-9</abbr> (<span lang="en">Patient Health Questionnaire 9</span>) pour l'évaluation d'un adulte présentant des symptômes dépressifs.<br>
   Le questionnaire peut être utilisé pour une auto-évaluation.</p>
   <p>Au cours des 2 dernières semaines, selon quelle fréquence avez-vous été gêné(e) par les problèmes suivants&nbsp;?</p>
@@ -119,7 +119,7 @@
     </div>
     <p id="phq9Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
-</form>
+</div>
 <blockquote class="blockquote my-4">
   <p class="mb-0"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1495268/" rel="external nofollow noopener">Kroenke K, Spitzer RL, Williams JBW. The PHQ-9: Validity of a brief depression severity measure. J G en Intern Med 2001;16:606-613</a></p>
   <p>Un score &ge; 10 a une sensibilité de 88% et spécificité de 88% pour un épisode dépressif majeur.</p>
@@ -129,8 +129,8 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scorephq9 = document.getElementById('phq9Score')
     const textphq9 = document.getElementById('phq9Text');
-    [...document.querySelectorAll('#score-phq9 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { phq9() }) })
-    const phq9 = () => {
+    [...document.querySelectorAll('#score-phq9 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcPhq9() ) })
+    const calcPhq9 = () => {
       let score = 0
       const checkedElems = document.querySelectorAll('#score-phq9 input[type=\"radio\"]:checked')
       if (checkedElems.length === 9) {

@@ -1,4 +1,4 @@
-<form class="mt-4" id="score-gad7" autocomplete="off">
+<div class="mt-4" id="score-gad7">
   <p>Le score <abbr title="Generalized Anxiety Disorder 7" lang="en">GAD-7</abbr> (<span lang="en">Generalized Anxiety Disorder-7</span>) pour l'évaluation d'un adulte présentant des symptômes anxieux.</p>
   <p>Au cours des 2 dernières semaines, à quelle fréquence avez-vous été gêné(e) par les problèmes suivants&nbsp;?</p>
   <fieldset>
@@ -85,7 +85,7 @@
     </div>
     <p id="gad7Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
-</form>
+</div>
 <blockquote class="blockquote my-4">
   <p>Score &ge;10: sensibilité 89% et spécificité 82% pour le diagnostic d'anxiété.</p>
   <p class="mb-0"><a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/410326" rel="external nofollow noopener">Spitzer RL et al. A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006.</a></p>
@@ -95,7 +95,7 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoregad7 = document.getElementById('gad7Score')
     const textgad7 = document.getElementById('gad7Text');
-    [...document.querySelectorAll('#score-gad7 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { calcGad7() }) })
+    [...document.querySelectorAll('#score-gad7 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcGad7() ) })
     const calcGad7 = () => {
       let score = 0
       const checkedElems = document.querySelectorAll('#score-gad7 input[type=\"radio\"]:checked')

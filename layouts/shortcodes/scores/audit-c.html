@@ -1,4 +1,4 @@
-<form class="mt-4" id="score-auditc" autocomplete="off">
+<div class="mt-4" id="score-auditc">
   <h3 class="card-title">Hétéro-questionnaire <abbr title="Alcohol Use Disorders Identification Test" lang="en">AUDIT-C</abbr> de l'<abbr title="Organisation Mondiale de la Santé">OMS</abbr></h3>
   <h4 class="card-subtitle font-italic" lang="en">Alcohol Use Disorders Identification Test</h4>
   <fieldset>
@@ -56,7 +56,7 @@
     </div>
   <p id="auditText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
-</form>
+</div>
 <blockquote class="blockquote">
   <p lang="en"><a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1530-0277.2007.00403.x" rel="external nofollow noopener">Bradley KA et al. AUDIT-C as a brief screen for alcohol misuse in primary care. Alcohol Clin Exp Res. 2007.</a></p>
 </blockquote>
@@ -65,8 +65,8 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreAuditc = document.getElementById('auditScore')
     const textAuditc = document.getElementById('auditText');
-    [...document.querySelectorAll('#score-auditc input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { auditc() }) })
-    const auditc = () => {
+    [...document.querySelectorAll('#score-auditc input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcAuditc() ) })
+    const calcAuditc = () => {
       let score = 0
       const sexe = document.querySelector('input[name=\"audit-sexe\"]:checked')
       const auditcElemsChecked = document.querySelectorAll('#score-auditc input[type=\"radio\"]:checked')

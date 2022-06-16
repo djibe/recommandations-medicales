@@ -55,8 +55,8 @@
     const scoreBled = document.getElementById('bledScore')
     const textBled = document.getElementById('bledText');
     var bledElems = document.querySelectorAll('#score-has-bled input');
-    bledElems.forEach((elem) => { elem.addEventListener('change', () => { bled() }) })
-    const bled = () => {
+    bledElems.forEach((elem) => { elem.addEventListener('change', () => calcBled() ) })
+    const calcBled = () => {
       let score = 0
       bledElems.forEach(bledElem => {
         if (bledElem.checked || bledElem.type === 'number') {

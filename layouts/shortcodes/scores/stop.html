@@ -35,10 +35,8 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreStop = document.getElementById('stopScore')
     const textStop = document.getElementById('stopText');
-    [...document.querySelectorAll('#score-stop input[type="checkbox"]')].forEach((stopElem) => { stopElem.addEventListener('click', () => {
-      stop()
-    }) })
-    const stop = () => {
+    [...document.querySelectorAll('#score-stop input[type="checkbox"]')].forEach((stopElem) => { stopElem.addEventListener('click', () => calcStop() ) })
+    const calcStop = () => {
       let score = 0
       const elemsChecked = document.querySelectorAll('#score-stop input[type="checkbox"]:checked')
         elemsChecked.forEach(elemChecked => {

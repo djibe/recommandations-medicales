@@ -253,7 +253,7 @@ window.onload = () => {
 | Aspirine prev secondaire | 75-160 mg ± associé selon la pathologie, prolonger bi-antiagrégants si bien toléré (max 3 ans) | ESC 2019 diabetes |
 | Chir bariatrique | < 65 ans et IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, SAOS ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH | HAS 2009 obésité |
 | Dentaire     | Suivi annuel                                                                                     | IDF 2009                 |
-| Dysfonction érectile | Systématique                                                                             | AIUS 2018                |
+| Dysfonction érectile | Systématique. Si +: dépistage annuel hypotension orthostatique, dysfonction vésicale     | AIUS 2018                |
 | ECG          | Annuel (VPN très faible)                                                                         | SFD 2021 CAD             |
 | Épreuve d'effort | Angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans) | SFD 2021 CAD |
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |

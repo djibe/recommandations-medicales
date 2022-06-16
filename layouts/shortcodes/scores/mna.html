@@ -1,4 +1,4 @@
-<form class="my-4" id="score-mna" autocomplete="off">
+<div class="my-4" id="score-mna">
   <p><abbr title="Mini Nutritional Assessment Short Form">MNA-SF®</abbr>: version courte pour le dépistage de la dénutrition.</p>
   <fieldset>
     <legend>A. Le patient présente-t-il une perte d'appétit? A-t-il moins mangé ces 3 derniers mois par manque d'appétit, problèmes digestifs, difficultés de mastication ou de déglutition&nbsp;?</legend>
@@ -64,7 +64,7 @@
     </div>
     <p id="mnaText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
-</form>
+</div>
 <blockquote class="mt-4">
   <p lang="en">Rubenstein LZ et al. Screening for Undernutrition in Geriatric Practice: Developing the Short-Fom Mini Nutritional Assessment (MNA-SF). J. Geront 2001;56A: M366-377.</p>
 </blockquote>
@@ -73,8 +73,8 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoremna = document.getElementById('mnaScore')
     const textmna = document.getElementById('mnaText');
-    [...document.querySelectorAll('#score-mna input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { mna() }) })
-    const mna = () => {
+    [...document.querySelectorAll('#score-mna input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcMna() ) })
+    const calcMna = () => {
       let score = 0
       const mnaElemsChecked = document.querySelectorAll('#score-mna input[type=\"radio\"]:checked')
       mnaElemsChecked.forEach(mnaElemChecked => {

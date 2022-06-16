@@ -1,5 +1,5 @@
 <p class="text-black-secondary"><em>Asthma Control Test&trade;</em>, réservé aux patients de plus de 12 ans.</p>
-<form class="mb-4 mw-640" id="score-act">
+<div class="mb-4 mw-640" id="score-act">
 <fieldset>
 <legend>1. Au cours des 4 dernières semaines, votre asthme vous a-t-il gêné dans vos activités au travail, à l'école/université ou chez vous&nbsp;?</legend>
   <input type="radio" id="act-11" name="act-1" class="d-input-none" value="1" required>
@@ -72,7 +72,7 @@
   </div>
   <p id="actText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
 </div>
-</form>
+</div>
 <blockquote class="mt-4">
 <p class="typography-caption">ACT&trade;, ® 2002, by QualityMetric Incorporated Asthma France/French. Control Test&trade; is a trademark of QualityMetric Incorporated. Test réservé aux patients asthmatiques de plus de 12 ans.<br>
   <a href="https://gskpro.com/content/dam/global/hcpportal/fr_FR/AiresThrapeutiques/Asthme/PDF/TCA_adulte_HD.pdf" rel="external nofollow noopener">Adaptation française originale (PDF)</a>
@@ -83,8 +83,8 @@
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreAct = document.getElementById('actScore')
     const textAct = document.getElementById('actText');
-    [...document.querySelectorAll('#score-act input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { act() }) })
-    const act = () => {
+    [...document.querySelectorAll('#score-act input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcAct() ) })
+    const calcAct = () => {
       let score = 0
       const elemsChecked = document.querySelectorAll('#score-act input[type=\"radio\"]:checked')
         elemsChecked.forEach(elemChecked => {

@@ -118,9 +118,7 @@
       geneveRevise()
     }) })
     // Reset counter on tab switch
-    panels.forEach((panel) => { panel.addEventListener('click', () => {
-        reset()
-      })
+    panels.forEach((panel) => { panel.addEventListener('click', () => { reset() })
     })
     const reset = () => {
       radioElems.forEach(radio => {
