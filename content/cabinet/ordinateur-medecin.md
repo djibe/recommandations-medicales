@@ -61,7 +61,8 @@ Modèles approuvés par *UFC Que Choisir 2021*:
 {{% /collapse %}}
 {{%collapse "La configuration proposée pour travailler efficacement" %}}
 
-Le PC présenté ci-dessous peut être assemblé sur mesure par les grands magasins avec la garantie dont vous avez besoin. Il a ce qu'il faut (avec carte Wi-Fi intégrée pour dépanner les jours de coup dur), est réparable pièce par pièce et coûte une bouchée de pain par rapports à ce qu'on vous vend. Il tiendra 10 ans et est mis à jour régulièrement avec les progrès de l'informatique.
+Le PC présenté ci-dessous peut être assemblé sur mesure par les grands magasins avec la garantie dont vous avez besoin. Il a ce qu'il faut (avec carte Wi-Fi intégrée pour dépanner les jours de coup dur), est réparable pièce par pièce et coûte une bouchée de pain par rapports à ce qu'on vous vend. Il tiendra 10 ans et est mis à jour régulièrement avec les progrès de l'informatique.  
+**NB.** Ajoutez un lecteur DVD ou Blu-Ray selon vos besoins.
 
 {{< card-link title="Achat sur Hardware.fr" url="https://shop.hardware.fr/configurateur/cee953576fddc65e4b6a1602ca595491" subtitle="Le PC du médecin">}}
 

@@ -60,7 +60,7 @@ Les primes du volet 2 ne sont accessibles que lorsque l'ensemble des points du V
 
 ### Ce qui va changer en 2023
 
-- Le dossier patient doit être référencé *Ségur*
+- Le dossier patient doit être [référencé *Ségur*](https://industriels.esante.gouv.fr/segur-du-numerique-en-sante/solutions-referencees-segur)
 - La e-prescription (40 pts) et l'appli carte vitale (apCV, 40 pts) apparaîtront comme indicateurs
 
 ## Abréviations

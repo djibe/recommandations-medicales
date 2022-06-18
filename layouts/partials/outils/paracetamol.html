@@ -4,8 +4,8 @@ $(function () {
   const Input = $('#weightInput');
   const min = 3;
   const max = 50;
-  const Paracetamol = $('#paracetamol');
-  const Ibuprofene = $('#ibuprofene');
+  const Paracetamol = $('#text-paracetamol');
+  const Ibuprofene = $('#text-ibuprofene');
 
   Slider.ionRangeSlider({
     skin: 'material',
@@ -20,14 +20,14 @@ $(function () {
 
   Input.on('input', function() {
       let val = this.value;
-  
+
       // Validate Slider
       if (val < min) {
           val = min;
       } else if (val > max) {
           val = max;
       }
-  
+
       sliderInstance.update({
           from: val
       });

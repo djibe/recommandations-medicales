@@ -5,12 +5,17 @@ description = "Apprendre à créer sa carte e CPS afin de bénéficier de connex
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-20T09:00:00+02:00"
 publishdate = "2022-01-20"
-lastmod = "2022-01-20"
+lastmod = "2022-06-18"
 sources = []
 tags = []
 image = true
 imageSrc = "slidesgo / Freepik"
 +++
+
+La e-CPS est un service d'authentification forte du médecin en mobilité. Au lieu d'utiliser un objet dont on dispose pour la connexion sécurisée (la carte CPS), on couple un numéro de téléphone à cette carte CPS, assortie d'un mot de passe.
+{.lead}
+
+La protection des données de santé impose un haut niveau de sécurité. L'authentification forte répond à cette nécessité et correspond à une connexion avec l'association d'un élément dont je dispose (la carte CPS) et un élément que je connais (le mot de passe).
 
 {{%warning%}}Si vous recevez une notification de connexion de l'appli e-CPS et que vous n'êtes pas à l'origine de la connexion, refusez la connexion et référez-vous à la partie Fraude à la e-CPS{{%/warning%}}
 

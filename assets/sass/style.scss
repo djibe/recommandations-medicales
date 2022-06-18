@@ -135,6 +135,10 @@ main {
   }
 }
 
+#nav {
+  background-color: #ecedfe;
+}
+
 .taxonomyTerms {
   padding-top: 80px;
 
@@ -839,7 +843,7 @@ legend {
     white-space: nowrap;
     align-items: center;
     border-radius: 4px;
-    color: inherit;
+    color: #666;
     display: flex;
     font-weight: 400;
     height: 2.5rem;

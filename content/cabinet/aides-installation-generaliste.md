@@ -12,7 +12,10 @@ imageSrc = "pikisuperstar / Freepik"
 todo = "forfait structure et exonérations fiscales, https://www.ameli.fr/medecin/exercice-liberal/vie-cabinet/aides-financieres, http://www.snjmg.org/outils/demographie-et-installation"
 +++
 
-[PAPS - Synthèse des aides dans Le Portail d'Accompagnement des Professionnels de Santé de votre région](https://www.iledefrance.paps.sante.fr/les-aides-linstallation-29?rubrique=10010) ou {{<phone>}}3608{{</phone>}}
+Plusieurs services publics offrent des contrats d'aide à l'installation du médecin généraliste.  
+Détail des aides disponibles pour une primo-installation.
+
+Les PAPS centralisent les guichets pour prétendre aux aides, et ce par région: [PAPS - Synthèse des aides dans Le Portail d'Accompagnement des Professionnels de Santé de votre région](https://www.iledefrance.paps.sante.fr/les-aides-linstallation-29?rubrique=10010) ou {{<phone>}}3608{{</phone>}}.
 
 {{%collapse "Définitions" %}}
 
