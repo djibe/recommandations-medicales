@@ -171,6 +171,8 @@ Puis renouvellement tous les 3 mois.
 Truvada® 2 cp en 1 prise entre 2 et 24 heures avant le rapport à protéger,  
 puis 1 cp 24h (± 2h) après, à renouveler à 48h (± 2h)
 
+En cas de rapports répétés: poursuivre à 1 cp/j jusqu'à 2 jours après le dernier rapport
+
   </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
   <div aria-labelledby="prep-f-tab" class="tab-pane fade" id="prep-f" role="tabpanel">
 
