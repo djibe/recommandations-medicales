@@ -244,7 +244,7 @@ La prise en charge de l'infertilité relève d'un accompagnement par une équipe
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}
 
-{{< card-link title="Endométriose - L'affaire de tous" url="https://pns-mooc.com/fr/mooc/19/presentation" subtitle="MOOC gratuit">}}
+{{< card-link title="Endométriose - L'affaire de tous" url="https://pns-mooc.com/fr/mooc/19/presentation" subtitle="e-learning gratuit">}}
 
 {{< youtube id="RCXR1TFWcpg" title="La minute RECO HAS | Endométriose (Pr Xavier Fritel)" >}}
 

@@ -1,5 +1,6 @@
 +++
 title = "L'ordinateur au cabinet du médecin généraliste"
+noindex = true
 description = "Quel ordinateur pour le médecin généraliste ? Conseils pour un ordinateur performant au cabinet de médecine générale. Configuration minimale et pièges à éviter"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"

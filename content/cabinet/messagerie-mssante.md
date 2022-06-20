@@ -11,6 +11,9 @@ image = true
 imageSrc = "slidesgo / Freepik"
 +++
 
+MSSanté est le réseau de messagerie sécurisée des professionnels de santé réglementés de France.
+{.lead}
+
 {{%collapse "Définitions" %}}
 
 MSSanté

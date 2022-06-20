@@ -8,7 +8,7 @@ synonyms = ["et maladie rénale chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-03-25"
+lastmod = "2022-06-19"
 specialites = ["nephrologie"]
 annees = "2021"
 sources = ["HAS", "KDIGO", "ESC"]
@@ -18,7 +18,7 @@ sctid = "42399005"
 flowchart = true
 image = true
 imageSrc = "Illustration de l'insuffisance rénale par pch.vector / Freepik"
-todo = "ameliorer flowchart, consultation dediee Coter C + ALD ???, aliments riches K/P"
+todo = "consultation dediee Coter C + ALD ???, aliments riches K/P"
 +++
 
 {{% article-summary %}}
@@ -58,6 +58,9 @@ CKD-EPI
 
 DFGe
 : débit de filtration glomérulaire estimé (remplace le calcul de la clairance de la créatinine Cockroft)
+
+FRCV
+: facteurs de risque cardiovasculaire
 
 HTA
 : hypertension artérielle
@@ -279,7 +282,8 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
   - Attention au risque hypoglycémique (sulfamide, glinide, insuline)
 - Bicarbonates < 22 mmol/L: supplémentation
 - Maladie professionnelle et prévention si expositions
-- TODO: Associations de patients
+- Associations de patients  
+  [Fondation du Rein](https://www.fondation-du-rein.org/), [France Rein](https://www.francerein.org/), [renaloo](https://renaloo.com/), [AIRG](https://www.airg-france.fr/), [Objectif Rein Santé](https://objectifreinsante.org/).
 
 ### Surveillance biologique
 
@@ -415,8 +419,9 @@ style fdr stroke:#4150f5, stroke-width:1px
   4 --> Normal
     Normal --> 2
   4 --> Anormal
-  Anormal --> bilan("Bilan initial de la MRC + Stade<br>Néphroprotection maximale")
-  bilan --> 7(Avis néphro)
+  Anormal --> bilan("Bilan initial de la MRC + Stade<br>voir Examens complémentaires")
+  bilan --> nephroprotection("<strong>Néphroprotection maximale</strong><hr>- Lutte FRCV<br>- Éviction néphrotoxiques<br>- Adaptation des posologies<br>- Risque cardiovasculaire (très) élevé<br>- < 5g sel/j<br>- PA &lt; 120/90 mmHg<br>- LDL &lt; 0,7 g/L<br>- Albuminurie cible &lt; 30 mg/mmol<br>- Vaccin grippe, pneumo, Covid, VHB<br>- Ferritinémie +100 ng/mL")
+  nephroprotection -- stade 3B+ --> avis(Suivi néphrologique)
 {{< /mermaid >}}
 
 {{%/collapse%}}

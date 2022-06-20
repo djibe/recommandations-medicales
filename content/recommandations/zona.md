@@ -4,9 +4,9 @@ prefix = "le "
 description = "Recommandations pour le traitement et la prise en charge du zona. Réactivation VZV virus, indication au valaciclovir et à la vaccination, sérologie VIH à 50 ans"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-11-14T19:48:41+02:00
-publishdate = 2020-11-16
-lastmod = 2022-04-27
+date = "2020-11-14T19:48:41+02:00"
+publishdate = "2020-11-16"
+lastmod = "2022-06-19"
 specialites = ["dermatologie", "infectiologie", "ophtalmologie"]
 annees = "2020"
 sources = ["SPILF", "MinSanté"]
@@ -15,7 +15,7 @@ anglais = ["Herpes zoster"]
 sctid = "4740000"
 image = true
 imageSrc = "Photo d'un zona thoracique par Gzzz, CC BY-SA 4.0"
-todo = "flowchart"
+todo = "flowchart, zona en pédiatrie"
 +++
 
 {{%article-summary%}}
@@ -143,7 +143,7 @@ Informer sur la nécessité de consultation immédiate en cas de survenue de br�
 {{% /collapse %}}
 {{%collapse "Traitement du zona" %}}
 
-{{%warning%}}Hospitalisation en cas d'immunodépression ou d'atteinte organique.{{%/warning%}}
+{{%warning%}}Hospitalisation en cas d'immunodépression ou d'atteinte organique{{%/warning%}}
 
 - Antalgie palier 1 ± 2 ou 3  
   et application de glace
@@ -165,20 +165,25 @@ Informer sur la nécessité de consultation immédiate en cas de survenue de br�
 
 ### Antiviral
 
+#### Indications au traitement antiviral
+
+- Zona ophtalmique (voir ci-dessous)
+- Immunodépression
+- Âge +50 ans  
+  {{%class%}}En prévention des algies-post-zostériennes.{{%/class%}}
+- Âge < 50 avec *Facteurs prédictifs d'algies post-zostériennes*
+- Paralysie faciale périphérique zostérienne
+
+#### Prise en charge du zona par antiviral
+
 Le traitement doit être débuté en urgence dans les 48-72 premières heures.
 
-{{%info%}}Valaciclovir 2 x 500 mg x 3/j pendant 7 jours, début immédiat.{{%/info%}}
+{{%info%}}Valaciclovir 2 x 500 mg x 3/j pendant 7 jours, début immédiat{{%/info%}}
 
 **Alternatives:** aciclovir 800 mg x 5/j pendant 7 jours (seule forme buvable)  
 ou famciclovir 500 mg x 3/j pendant 7 jours.
 
-#### Indications au traitement antiviral
-
-- Zona ophtalmique (voir ci-dessous)
-- Âge > 50 ans  
-{{%class%}}En prévention des algies-post-zostériennes.{{%/class%}}
-- Âge < 50 avec *Facteurs prédictifs d'algies post-zostériennes*
-- Paralysie faciale périphérique zostérienne
+Chez l'enfant: utiliser l'aciclovir buvable (Zovirax) à partir de 2 ans. Avis spécialisé avant.
 
 ### Traitement du zona ophtalmique
 

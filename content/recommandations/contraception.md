@@ -550,7 +550,7 @@ Y compris phytothérapie, compléments alimentaires.
 
 ### FMC gratuite
 
-{{< card-link title="Contraception - L'affaire de tous" url="https://www.pns-mooc.com/fr/mooc/7/presentation" subtitle="MOOC du CNGOF">}}
+{{< card-link title="Contraception - L'affaire de tous" url="https://www.pns-mooc.com/fr/mooc/7/presentation" subtitle="e-learning du CNGOF">}}
 
 ### Bénéfices de la contraception
 

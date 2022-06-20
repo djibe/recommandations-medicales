@@ -1,5 +1,7 @@
 +++
 title = "Périphériques pour l'ordinateur (imprimante, webcam, lecteur de carte ...)"
+titleSeo = "Périphériques pour l'ordinateur"
+noindex = true
 description = "Quel ordinateur pour le médecin généraliste ? Conseils pour un ordinateur performant au cabinet de médecine générale. Configuration minimale et pièges à éviter"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T19:15:00+02:00"

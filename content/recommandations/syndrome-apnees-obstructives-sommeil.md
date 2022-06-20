@@ -165,13 +165,13 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
   </ul>
   <div class="tab-content">
     <div aria-labelledby="stop-bang-tab" class="tab-pane fade show active" id="stop-bang-panel" role="tabpanel">
-    {{< scores/stop-bang >}}
+  {{< scores/stop-bang >}}
   </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
   <div aria-labelledby="stop-tab" class="tab-pane fade" id="stop-panel" role="tabpanel">
-    {{< scores/stop >}}
+  {{< scores/stop >}}
   </div>
   <div aria-labelledby="saos-diabete-tab" class="tab-pane fade" id="saos-diabete-panel" role="tabpanel">
-    {{< scores/saos-diabete >}}
+  {{< scores/saos-diabete >}}
   </div>
   </div>
 </div>
@@ -281,14 +281,18 @@ Auscultation cardiaque et vasculaire.
 
 Diagnostic différentiel du syndrome obstructif d'apnées du sommeil:
 
-- Du ronflement  
-  {{%class%}}Ronflement isolé.{{%/class%}}
-- De la somnolence diurne  
-  {{%class%}}Narcolepsie, hypersomnie idiopathique, dette de sommeil, syndrome obésité-hypoventilation.{{%/class%}}
-- De dyspnée nocturne  
-  {{%class%}}Attaques de paniques nocturnes, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), [asthme]({{< relref "asthme.md" >}}), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), angor nocturne{{%/class%}}.
-- Des apnées  
-  {{%class%}}Syndrome d'apnées centrales du sommeil (SACS).{{%/class%}}
+Ronflement
+: Ronflement isolé
+
+Somnolence diurne
+: Narcolepsie, hypersomnie idiopathique, dette de sommeil, syndrome obésité-hypoventilation
+
+Dyspnée nocturne
+: Attaques de paniques nocturnes, [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), [asthme]({{< relref "asthme.md" >}}), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), angor nocturne
+
+Apnées
+: Syndrome d'apnées centrales du sommeil (SACS)
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
