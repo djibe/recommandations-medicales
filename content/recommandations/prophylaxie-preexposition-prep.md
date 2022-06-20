@@ -139,7 +139,7 @@ Bilan avant l'instauration de la PrEP, en l'absence de suspicion de primo-infect
 **NB.** Rattrapage de la [vaccination HPV]({{< relref "cancer-col-uterus.md" >}}) chez l'HSH jusqu'à 26 ans.
 
 {{% /collapse %}}
-{{%collapse "Prescrire la PrEP" "show" %}}
+{{%collapse "Prescrire la PrEP" %}}
 
 {{%warning%}}Ne pas prescrire la PrEP en suspicion de primo-infection VIH{{%/warning%}}
 
@@ -160,28 +160,28 @@ Puis renouvellement tous les 3 mois.
   <div class="tab-content card-body">
     <div aria-labelledby="prep-h-tab" class="tab-pane fade show active" id="prep-h" role="tabpanel">
 
-  #### Schéma continu
+#### Schéma continu
 
-  [Truvada®](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) 2 cp en 1 prise entre 2 et 24h avant le rapport à protéger 1 cp/j à heure fixe pendant le repas en continu.
+[Truvada®](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) 2 cp en 1 prise entre 2 et 24h avant le rapport à protéger 1 cp/j à heure fixe pendant le repas en continu.
 
-  #### ou à la demande
+#### ou à la demande
 
-  (Schéma non praticable en cas d'hépatite B active)
+(Schéma non praticable en cas d'hépatite B active)
 
-  Truvada® 2 cp en 1 prise entre 2 et 24 heures avant le rapport à protéger,  
-  puis 1 cp 24h (± 2h) après, à renouveler à 48h (± 2h)
+Truvada® 2 cp en 1 prise entre 2 et 24 heures avant le rapport à protéger,  
+puis 1 cp 24h (± 2h) après, à renouveler à 48h (± 2h)
 
   </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
   <div aria-labelledby="prep-f-tab" class="tab-pane fade" id="prep-f" role="tabpanel">
 
-  [Truvada®](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) 1 cp/j à heure fixe pendant le repas en continu.  
-  Délai de 7 jours avant le premier rapport sexuel à protéger.
-  </div>
+[Truvada®](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) 1 cp/j à heure fixe pendant le repas en continu.  
+Délai de 7 jours avant le premier rapport sexuel à protéger.
+</div>
 
-  Pour arrêter la PrEP: après le dernier rapport à risque, prendre 1cp 24h après puis 2<sup>e</sup> cp 48h après puis arrêter.
+Pour arrêter la PrEP: après le dernier rapport à risque, prendre 1cp 24h après puis 2<sup>e</sup> cp 48h après puis arrêter.
 
-  Traitement initial pour 30 jours.  
-  Puis renouvellements tous les 3 mois.
+Traitement initial pour 30 jours.  
+Puis renouvellements tous les 3 mois.
 
   </div>
 </div>
