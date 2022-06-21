@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr P. DELOBEL (CMIT)"
 date = "2022-05-30T10:49:36+02:00"
 publishdate = "2022-05-30"
-lastmod = "2022-06-20"
+lastmod = "2022-06-21"
 specialites = ["infectiologie", "therapeutique"]
 annees = "2022"
 sources = ["CNS", "HAS", "ANSM"]
@@ -18,7 +18,6 @@ sctid = "1137457009"
 flowchart = true
 image = true
 imageSrc = "Illustration de la PrEP par pikisuperstar / Freepik"
-todo = "cohorte Prevenir"
 +++
 
 {{%article-summary%}}
@@ -30,7 +29,7 @@ todo = "cohorte Prevenir"
 - Prescription initiale limitée à 1 mois avec sérologie VIH récente (< 7 jours)  
   Puis prescription trimestrielle.
 - Schéma continu (toujours mentionner sur l'ordonnance)
-  - Initiation: Homme: 2cp en 1 prise (min 2-24h avant le rapport) | Femme ou VHB+: délai de 7 jours avant le 1<sup>er</sup> rapport sexuel à protéger
+  - Initiation: Homme: 2cp en 1 prise (min 2-24h avant le rapport) | Femme: délai de 7 jours avant le 1<sup>er</sup> rapport sexuel à protéger
   - ensuite Truvada® 1 cp/j à heure fixe pendant le repas
 - ou discontinu (à la demande, homme sans VHB uniquement)  
   Truvada® 2cp en 1 prise 2-24 heures avant le rapport à protéger, puis 1cp à H24 et 1cp à H48
@@ -74,7 +73,7 @@ VIH
 {{%info%}}
 **Toutes les personnes exposées au [VIH]({{< relref "vih-sida.md" >}})** doivent être informées qu'elles peuvent en bénéficier et qu'elle est très efficace pour se prémunir d'une infection à VIH.
 
-La PrEP doit être couplée au *préservatif* pour prévenir les [infections sexuellement transmissibles](/tags/ist/) et les grossesses non désirées.
+La PrEP protège du [VIH]({{< relref "vih-sida.md" >}}) mais pas des autres [IST](/tags/ist/) et à la différence du préservatif, elle ne permet pas non plus d'assurer une contraception.
 
 << Tout médecin peut faire la première prescription et le renouvellement de la PrEP >> (*HAS 2021*). Sinon adresser en {{< references/cegidd >}}, *COREVIH* régional ou centre spécialisé.
 {{%/info%}}
@@ -231,9 +230,9 @@ puis 1 cp 24h (± 2h) après, à renouveler à 48h (± 2h)
 Rappeler l'importance du préservatif et des dépistages répétés des IST.
 
 - Schéma continu  
-  1 cp par jour pendant **7 jours** après le dernier rapport non protégé puis arrêt.
+  1 cp par jour pendant **2 jours** après le dernier rapport non protégé puis arrêt.
 - Schéma discontinu  
-  Minimum 1 cp par jour pendant **2 jours** après le dernier rapport non protégé puis arrêt.
+  1 cp 24h (± 2h) après le dernier rapport à risque, à renouveler à 48h (± 2h)
 
 {{% /collapse %}}
 {{%collapse "Suivi de la PrEP" %}}
@@ -271,7 +270,7 @@ Suivi spécialisé en cas d'hépatite B active.
 {{%collapse "Prise en charge avec la PrEP" "show" %}}
 
 {{< mermaid title="Instauration de la PrEP en continu. Dr JB Fron d'après HAS 2021" >}}
-%%{init: { 'gitGraph': { 'mainBranchName': 'Continu femme ou VHB' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
+%%{init: { 'gitGraph': { 'mainBranchName': 'Continu femme' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
 gitGraph
   commit id: "J1" tag: "Initiation"
   commit id: "J2"
@@ -292,7 +291,7 @@ gitGraph
   commit id: "1 cp/j" tag: "Poursuite"
 {{< /mermaid >}}
 
-{{< mermaid title="Utilisation de la PrEP en schéma discontinu (hors AMM). Dr JB Fron d'après HAS 2021" >}}
+{{< mermaid title="Utilisation de la PrEP en schéma discontinu (hors AMM, hors VHB actif). Dr JB Fron d'après HAS 2021" >}}
 %%{init: { 'gitGraph': { 'mainBranchName': 'Schéma discontinu homme' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
 gitGraph
   commit id: "H-2 à -24" tag: "2 cp"
