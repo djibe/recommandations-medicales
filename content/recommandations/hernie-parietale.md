@@ -5,25 +5,26 @@ titleSeo = "Hernies inguinales et crurales"
 description = "Recommandations pour la prises en charge des hernies pariétales: inguinales, crurales, ombilicales, ligne blanche. Indications à l'échographie et la chirurgie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-03-24T19:43:00+02:00
-publishdate = 2021-03-25
-lastmod = 2021-10-22
+date = "2021-03-24T19:43:00+02:00"
+publishdate = "2021-03-25"
+lastmod = "2022-06-21"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2018"
 sources = ["HAS", "Collèges"]
-tags = []
+tags = ["nourrisson"]
 anglais = ["Hernia of abdominal wall"]
 sctid = "128545000"
 flowchart = true
 image = true
 imageSrc = "Hernie inguinale de l'homme, myupchar.com, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "fmc-gastro, éventration"
 +++
 
 {{%article-summary%}}
 
 - Le diagnostic est clinique sans nécessité d'examen complémentaire
+- La palpation des orifices herniaires doit être systématique chez le nourrisson (vomissements, pleurs inexpliqués ++)
 - Proposition d'une chirurgie puisque toute hernie peut s'étrangler
+- Toute hernie étranglée est une urgence chirurgicale
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -38,6 +39,12 @@ Signe d'une menace d'étranglement et donc indication formelle à la chirurgie.
 Étranglement herniaire
 : Urgence chirurgicale pour blocage d'une anse digestive dans la hernie amenant à son ischémie et sa perforation.
 
+Éventration
+: Hernie à travers un orifice secondaire à une précédente incision. Souvent à distance d'une laparotomie.
+
+Éviscération
+: Lésion survenant en post-opératoire précoce. Urgence chirurgicale par rupture du péritoine amenant les viscères à l'air ou sous la peau.
+
 {{% /collapse %}}
 {{%collapse "Étranglement herniaire" %}}
 
@@ -46,32 +53,31 @@ Urgence chirurgicale par risque de perforation digestive:
 
 - Douleurs intenses permanentes de début brutal dans le périmètre d'un orifice herniaire
 - Hernie irréductible
-- Syndrome occlusif  
-Nausées, arrêt du transit.
+- Syndrome occlusif: nausées, arrêt du transit
 {{%/warning%}}
 
 Adresser immédiatement aux urgences.  
-Toutes les hernies peuvent s'étrangler.
+**Toutes les hernies peuvent s'étrangler**.
 
 {{% /collapse %}}
 {{%collapse "Hernie inguinale de l'adulte" %}}
 
 La hernie inguinale est très fréquente et atteint surtout l'homme. Elle est congénitale ou acquise.
 
-### Clinique
+### Clinique de la hernie inguinale de l'adulte
 
 - Tuméfaction de l'aine à l'effort, indolore, impulsive à la toux, expansive à l'effort, réductible ± gênante
 - Observée à l'examen  
-{{%class%}}Couché au repos puis en poussée puis debout. Examen bilatéral et ombilical.{{%/class%}}
+  {{%class%}}Couché au repos puis en poussée puis debout. Examen bilatéral et ombilical.{{%/class%}}
 - Recherche de l'orifice herniaire  
-{{%class%}}Charge le scrotum et recherche le canal inguinal où normalement le doigt ne peut s'infiltrer.{{%/class%}}
+  {{%class%}}Charge le scrotum et recherche le canal inguinal où normalement le doigt ne peut s'infiltrer.{{%/class%}}
 - Prendre en compte la profession et le niveau d'activité physique
 - Facteurs favorisants la hernie  
-BPCO et toux chronique, constipation, dysurie.
+  [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) et [toux chronique]({{< relref "toux-chronique.md" >}}), constipation, dysurie.
 
 Pas d'examen complémentaire.
 
-### Diagnostic différentiel
+### Diagnostic différentiel de la hernie inguinale
 
 Intérêt de la transillumination et du caractère non réductible.
 
@@ -93,14 +99,14 @@ Chirurgie ambulatoire sous anesthésie locale avec fermeture de l'orifice.
 {{%collapse "Hernie inguinale de l'enfant" %}}
 
 - Fréquente, 95% sont congénitales, 80% de garçons
-- Par persistance du *processus vaginalis* et non par défaut de la paroi musculo-aponévrotique.
+- Par persistance du canal péritonéo-vaginal (processus vaginalis. Canal de Nück chez la fille) et non par défaut de la paroi musculo-aponévrotique.
 - Le diagnostic est clinique
-  - Tuméfaction inguinale ou inguino-scrotale, arrondie, molle, indolore, intermittente, impulsive en pression abdominale
+  - Tuméfaction inguinale ou inguino-scrotale, arrondie, molle, indolore et souple, intermittente, impulsive à la toux
   - Réductible spontanément ou en pression douce en haut et en dehors avec sensation de gargouillement
   - Palpation des testicules
-- Fille: jamais de réduction car contient l'ovaire (intestin après 1 an)
+- **Fille: jamais de réduction** car contient l'ovaire (intestin après 1 an)
 - Pas d'examen complémentaire
-- Chirurgie systématique chez l'enfant > 6 mois
+- Chirurgie systématique chez l'enfant +6 mois
 
 {{% /collapse %}}
 {{%collapse "Hernie crurale" %}}
@@ -117,13 +123,14 @@ Chirurgie ambulatoire sous anesthésie locale avec fermeture de l'orifice.
 - Guérison spontanée sous 3 ans le plus souvent (7 ans chez l'enfant noir)
 - Le diagnostic est clinique avec tuméfaction aux caractères herniaires centrée sur l'ombilic
 - Pas d'examen complémentaire
-- Chirurgie après 3 ans (7 ans si enfant noir)
+- Chirurgie après 4-5 ans (7 ans si enfant noir)
 
 {{% /collapse %}}
-{{%collapse "Hernie de la ligne blanche" %}}
+{{%collapse "Hernie de la ligne blanche ou hernie épigastrique" %}}
 
 - Orifice anormal entre le processus xyphoïde et l'ombilic
-- Tuméfaction sous-cutanée, arrondie, ferme et sensible à la palpation
+- Tuméfaction sous-cutanée, arrondie, ferme et sensible à la palpation (contenu graisseux)
+- Hernie douloureuse à l'effort et à la palpation mais sans danger (contenu graisseux)
 - Chirurgie si gêne dans la vie quotidienne
 
 {{% /collapse %}}
@@ -144,8 +151,9 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
+- Collège Français de Chirurgie Générale, Viscérale et Digestive. Hernie pariétale chez l'enfant et chez l'adulte. Item 286 - UE8. Chirurgie générale, viscérale et digestive. 2e édition.
 - [HAS. Pertinence des soins en chirurgie pédiatrique. 06/03/2018.](https://www.has-sante.fr/jcms/c_2831488/fr/pertinence-des-soins-en-chirurgie-pediatrique)
-- [CHUCP. Hernie pariétale chez l'enfant. 286. 2014.](http://www.college-chirped.fr/College_National_Hospitalier_et_Universitaire_de_Chirurgie_Pediatrique/2e_Cycle_-_ECNi_files/N%C2%B0286%20-%20Hernie%20Parie%CC%81tale%20chez%20l%27Enfant%20-%2006-03-2015.pdf)
+- CHUCP. Hernie pariétale chez l'enfant. 286. 2014.
 - [Faucheron JL. Hernie inguinale de l'adulte. Item 245. Mars 2005.](http://www-sante.ujf-grenoble.fr/SANTE/corpus/disciplines/hepgastro/pathparoi/245a/leconimprim.pdf)
 - [Sauvat F. Urgences en chirurgie viscérale pédiatrique.](https://urgences-serveur.fr/IMG/pdf/Urg_chir_pediatriques.pdf)
 

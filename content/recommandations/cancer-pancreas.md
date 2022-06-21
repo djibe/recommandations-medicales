@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-16T15:41:56+01:00"
 publishdate = "2022-01-07"
-lastmod = "2022-01-18"
+lastmod = "2022-06-21"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["SNFGE"]
@@ -21,7 +21,7 @@ imageSrc = "Illustration du pancréas par brgfx / Freepik"
 {{%article-summary%}}
 
 - Consultation d'oncogénétique et dépistage si ≥ 2 apparentés atteints d'AP dont ≥ 1 au 1<sup>er</sup> degré  
-ou certaines mutations génétiques (voir *Dépistage*)
+  ou certaines mutations génétiques (voir *Dépistage*)
 - Suspecter devant ictère, douleurs abdominales transfixiantes, diabète récent ou décompensé
 - TDM TAP avec injection en semi-urgence dès la suspicion
 - Le CA 19-9 n'a aucun intérêt pour le dépistage ou le diagnostic
@@ -63,13 +63,13 @@ TVP
 
 Pour toute la population: correction de tabagisme, obésité, diabète.
 
-### Qui dépister ?
+### Chez qui dépister le cancer du pancréas ?
 
 {{%info%}}Adresser en consultation d'oncogénétique devant une suspicion de cancers familiaux{{%/info%}}
 
-Personnes avec risque cumulé d'adénocarcinome du pancréas > 5% ou risque relatif estimé ≥ 5:
+Dépister les personnes avec risque cumulé d'adénocarcinome du pancréas supérieur à 5% ou risque relatif estimé ≥ 5:
 
-- ≥ 2 apparentés atteints d'AP dont ≥ 1 au 1<sup>er</sup> degré
+- ≥ 2 apparentés atteints d'adénocarcinome du pancréas dont ≥ 1 au premier degré
 - Mutation germinale d'un gène de prédisposition et ≥ 2 apparentés atteints d'AP OU ≥ 1 au 1<sup>er</sup> degré
 - Syndrome de Peutz-Jeghers
 
@@ -85,7 +85,7 @@ Dépistage uniquement si l'état de santé permettrait une chirurgie après avis
   - TVP
 - Douleur abdominale intense à irradiation postérieure ou dorsale
 - Tumeur de la tête du pancréas (70-80%)  
-Plus rapidement symptomatique par atteinte des voies biliaires.
+  Plus rapidement symptomatique par atteinte des voies biliaires.
   - Ictère sans fièvre, décoloration des selles ± prurit
   - Grosse vésicule palpable
 - Corps et queue du pancréas
@@ -112,24 +112,28 @@ Plus rapidement symptomatique par atteinte des voies biliaires.
 
 ### Scanner TAP avec injection
 
-Examen de référence en semi-urgence (protocole d'acquisition spécifique).  
-Si le diagnostic est évoqué sur l'imagerie, la RCP doit avoir lieu < 4 semaines après.  
-L'IRM est équivalente (et plus chère).
+Examen de référence en semi-urgence den suspicion d'adénocarcinome du pancréas (protocole d'acquisition spécifique).  
+Si le diagnostic est évoqué sur l'imagerie, la RCP doit avoir lieu dans les 4 semaines.
+
+L'IRM a une performance diagnostique équivalente (et plus chère).
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Adresser en semi-urgence à l'équipe hospitalière de gastro-entérologie.
+Adresser en semi-urgence à l'équipe hospitalière de gastro-entérologie pour la suite de la prise en charge du cancer du pancréas.
 
 Les récidives sont très élevées.
 
-- Association de patients  
-[ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr/)
+Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr/).
 
 {{% /collapse %}}
 {{%sources%}}
 
 - {{< references/college-gastro >}}
-- [Neuzillet C et al. Thésaurus National de Cancérologie Digestive (TNCD). Dig Liver Dis. 2018 Dec. 50(12):1257-1271. 24/01/2021.](https://www.snfge.org/download/file/fid/4204)
+- [Neuzillet C et al. Thésaurus National de Cancérologie Digestive (TNCD). Dig Liver Dis. 24/01/2021.](https://www.snfge.org/download/file/fid/4204)
+
+### À lire
+
+[CDU-HGE. Tumeur du pancréas. Item 308. 2021. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Formation/dsn_cdu-hge_2021-juillet.pdf)
 
 {{%/sources%}}

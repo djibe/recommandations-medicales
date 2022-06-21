@@ -130,7 +130,7 @@ Rechercher des signes de maladies auto-immunes.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-De principe dosage de l'hCG, bilan complémentaire si négatif.
+De principe dosage des ßHCG, bilan complémentaire si négatif.
 
 ### Bilan devant une ménopause précoce
 

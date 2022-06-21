@@ -540,13 +540,13 @@ const chartOptions3 = {
 }
 </script>
 
-> Indicateurs: Taux de dépistage des personnes à risque, couverture vaccinale antigrippale annuelle, spirométrie ou EFR annuelle. Après hospitalisation pour exacerbation de BPCO: suivi dans les 7 jours, réévaluation pneumologique dans les 2 mois, bronchodilatateur de longue durée, recours à la réhabilitation respiratoire  
+> Indicateurs en partant de midi: Taux de dépistage des personnes à risque de BPCO, couverture vaccinale antigrippale annuelle, spirométrie ou EFR annuelle. Après hospitalisation pour exacerbation de BPCO: consultation de suivi dans les 7 jours (Cs J7), réévaluation pneumologique dans les 2 mois (Cs J60), bronchodilatateur de longue durée (BDLA), recours à la réhabilitation respiratoire  
 Dr JB Fron d'après [HAS 04/2022](https://www.has-sante.fr/upload/docs/application/pdf/2022-04/iqss_2022_-_indicateurs_bpco_developpement-_synthese_mars_2022.pdf)
 
 ### Un texte ne suffit pas
 
 Initialement sur mon stockage personnel, mes fiches textes ne me permettaient pas de répondre à la complexité croissante de la médecine moderne: des scores, des arbres de décisions se décrivent difficilement avec des mots.  
-Cette limitation est récurrente sur les sites existants, pourtant d'une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net/), [doctofiche](https://doctofiche.fr/), [Medix](http://www.medix.free.fr/), [Ordotype](https://www.ordotype.fr/), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil), [WeLinkCare](https://www.welinkcare.com/) ...
+Cette limitation est récurrente sur les sites existants, pourtant d'une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net/), [doctofiche](https://doctofiche.fr/), [Medix](http://www.medix.free.fr/), [Ordotype](https://www.ordotype.fr/), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil), [WeLinkCare](https://www.welinkcare.com/).
 
 ## Objectifs du Projet
 

@@ -28,6 +28,8 @@ todo = "améliorer clinique, flowchart"
 - Dépistage des [autres IST](/tags/ist/) et des partenaires des 12 derniers mois
 - Contrôle de l'éradication à 6 mois
 
+Renseigner sur la [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}}) toute personne exposée au VIH
+
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 

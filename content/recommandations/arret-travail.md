@@ -7,14 +7,14 @@ synonyms = ["Arrêt maladie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-25T21:16:41+02:00"
 publishdate = "2020-09-25"
-lastmod = "2020-09-25"
+lastmod = "2022-06-21"
 specialites = ["certificats"]
 annees = "2020"
 sources = ["Assurance Maladie"]
 tags = []
 anglais = []
 sctid = ""
-todo = "TODO: summary, modalité papier/ameli"
+todo = "TODO: summary, modalité papier/ameli, MOOC"
 +++
 
 {{%article-summary%}}
@@ -22,6 +22,91 @@ todo = "TODO: summary, modalité papier/ameli"
 À compléter
 
 {{%/article-summary%}}
+{{%collapse "Abréviations officielles" %}}
+
+AAT
+: Arrêt de travail
+
+ALD
+: Affection de longue durée
+
+AT
+: Accident du travail
+
+BOETH
+: Bénéficiaires de l'Obligation d'Emploi des Travailleurs Handicapés
+
+CMI
+: Certificat médical initial
+
+CPAM
+: Caisse primaire de l'Assurance Maladie
+
+CRRMP
+: Comité Régional de Reconnaissance des Maladies Professionnelles
+
+CRPE
+: Convention de rééducation professionnelle en entreprise
+
+DPCM
+: Date de première constatation médicale
+
+EDC
+: État dépressif caractérisé
+
+EMS
+: Échanges médicaux sécurisés (messagerie d'Amelipro)
+
+FIE
+: Faute inexcusable de l'employeur
+
+HAS
+: Haute Autorité de Santé
+
+IP
+: Incapacité permanente
+
+IT
+: Incapacité temporaire
+
+ITI
+: Indemnité temporaire d'inaptitude
+
+MDE
+: Maintien dans l'emploi
+
+MDPH
+:Maison Départementale des Personnes Handicapées
+
+MEE
+: Maintien en emploi
+
+MP
+:Maladie professionnelle
+
+PCH
+: Prestation de compensation du handicap
+
+PCRTP
+: Prestation complémentaire pour recours à tierce personne
+
+PDP
+: Prévention de la désinsertion professionnelle
+
+RCT
+: Recours contre tiers
+
+RQTH
+: Reconnaissance de la qualité de travailleur handicapé
+
+SPTS
+: Services de prévention et de santé au travail
+
+TAD
+: Trouble anxio-dépressif
+{.dl-inline}
+
+{{% /collapse %}}
 {{%collapse "Arrêt de travail et vacances" %}}
 
 Pour partir en vacances lorsque le patient est en arrêt de travail:

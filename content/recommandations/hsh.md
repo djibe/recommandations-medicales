@@ -5,9 +5,9 @@ titleSeo = "HSH"
 description = "Mesures de prévention à proposer aux hommes ayant des rapports sexuels avec des hommes (HSH): PrEp, sérologies des IST, Gardasil, hépatite A..."
 synonyms = ["Homosexuel ou bisexuel masculin"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-07-22T17:43:41+02:00
-publishdate = 2020-07-22
-lastmod = 2021-08-25
+date = "2020-07-22T17:43:41+02:00"
+publishdate = "2020-07-22"
+lastmod = "2021-08-25"
 specialites = ["infectiologie"]
 annees = "2020"
 sources = ["HAS", "MinSanté"]
@@ -22,7 +22,7 @@ todo = "TODO: gono, https://www.eacsociety.org/files/2019_guidelines-10.0_final.
 {{%article-summary%}}
 
 - Port du préservatif systématique
-- Parler de la [PrEP]({{< relref "vih-sida.md" >}}#prophylaxie-pré-exposition-prep)
+- Renseigner sur la [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}})
 - Dépistage du VIH tous les 3 mois (*HAS 2017*)
 - Dépistage du *Chlamydia* tous les 3-6 mois (*HAS 2018*)
 - Vaccination hépatite A (après sérologie), hépatite B, papillomavirus (jusqu'à 26 ans)
@@ -76,9 +76,9 @@ Bilans à proposer en cas de conduites sexuelles à risque:
 - Dépistage tous les 3 mois du [VIH]({{< relref "vih-sida.md" >}})
 - Dépistage tous les 3 à 6 mois de *[Chlamydia trachomatis]({{< relref "chlamydia-trachomatis.md" >}})*
 
-### PreEp
+### PrEp
 
-Aborder avec toutes les personnes ayant des rapports non protégés avec des personnes de statut virologique inconnu (voir [PrEP]({{< relref "vih-sida.md" >}})).
+Aborder avec toutes les personnes ayant des rapports non protégés avec des personnes de statut virologique inconnu (voir [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}})).
 
 ### Préservatif
 

@@ -24,6 +24,8 @@ todo = "Prescrire cite la ceftriaxone IM 1g/j 10 à 14j"
 - Diagnostic par positivité de la sérologie syphilitique
 - Sérologies des autres [IST](/tags/ist/) et dépistage des partenaires
 
+Renseigner sur la [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}}) toute personne exposée au VIH
+
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 

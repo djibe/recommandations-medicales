@@ -5,9 +5,9 @@ titleSeo = "médicament Méthotrexate"
 description = "Recommandations pour l'utilisation du médicament méthotrexate. Bilan pré-thérapeutique, contre-indications, jour de prise, supplémentation acide folique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-09-20T19:04:41+02:00
-publishdate = 2020-09-20
-lastmod = 2022-05-22
+date = "2020-09-20T19:04:41+02:00"
+publishdate = "2020-09-20"
+lastmod = "2022-05-22"
 specialites = ["therapeutique"]
 annees = "2022"
 sources = ["HAS", "ANSM", "SNFGE"]
@@ -84,7 +84,7 @@ Associations médicamenteuses déconseillées: AINS, pénicilline, ciprofloxacin
 - ASAT, ALAT, GGT, PAL, bilirubine, albuminémie
 - Radiographie thoracique (TODO:)  
   Systématique avant de débuter le traitement.
-- bHCG
+- ßHCG
 - Spirométrie si: tabac, BPCO, emphysème
 
 Selon *Prescrire*, contrôler la vitamine B12 après 50 ans (la supplémentation en B9 masque une carence).

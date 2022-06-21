@@ -166,7 +166,7 @@ Adresser au spécialiste avec le bilan initial:
 - Anti-TPO, anti-nucléaires, anti-muscle lisse, anti-LKM1
 - Glycémie à jeun
 - Bilan lipidique
-- bHCG
+- ßHCG
 - Échodoppler hépatique
 - ECG, consultation de cardiologie
 {{%/info%}}
