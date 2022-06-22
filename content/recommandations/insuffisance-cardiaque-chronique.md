@@ -137,7 +137,7 @@ FA, troubles du rythme, AVC, AOMI.
 Diabète, anémie, carence martiale, BPCO, insuffisance rénale, hépatopathie, apnées du sommeil, dépression, démence.
 - {{< modal-btn modal-observance >}}Non observance{{< /modal-btn >}}
 
-### Épidémiologie
+### Épidémiologie de l'insuffisance cardiaque en France
 
 - Prévalence: 2,3%  
   - 10% après 70 ans
@@ -150,6 +150,8 @@ Diabète, anémie, carence martiale, BPCO, insuffisance rénale, hépatopathie, 
 - Nouveaux inscrits pour greffe cardiaque: 573 (2019)
 - Vivant avec greffe: 5093 (2019)
 - Survie avec greffe: 1 an 77% - 5 ans 68% - 10 ans 57% (2014-2018)
+
+{{< card-link title="Dépenses liées à l'insuffisance cardiaque" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20cardio-neurovasculaires&refine.patho_niv2=Insuffisance%20cardiaque">}}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

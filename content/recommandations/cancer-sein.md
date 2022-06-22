@@ -48,9 +48,9 @@ Maladie de Paget du mamelon
 ### Facteurs de risque de cancer du sein
 
 - Sexe  
-{{%class%}}< 1% chez l'homme.{{%/class%}}
+  {{%class%}}< 1% chez l'homme.{{%/class%}}
 - Âge  
-{{%class%}}78% après 50 ans.{{%/class%}}
+  {{%class%}}78% après 50 ans.{{%/class%}}
 - Prédisposition génétique (5-10%)
 - Antécédent personnel de cancer du sein
 - Antécédent personnel de radiothérapie thoracique à haute dose
@@ -73,6 +73,8 @@ Très fréquente (50-80% de 30 à 50 ans). Associée à une augmentation du risq
 - Mortalité: 12.146 (métropole 2018)
 - Survie: 88% à 5 ans (métropole, diagnostic en 2010-2015)
 - Participation au dépistage organisé: 50,3% (2018)
+
+{{< card-link title="Dépenses liées au cancer du sein" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Cancers&refine.patho_niv2=Cancer%20du%20sein%20de%20la%20femme">}}
 
 ### Abréviations
 

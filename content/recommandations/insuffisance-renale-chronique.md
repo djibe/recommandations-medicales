@@ -87,6 +87,10 @@ MRC
 Fin 2018: 89.692 malades en suppléance (55% dialyse et 45% greffés).  
 4 milliards d'euros annuels (82% pour la dialyse).
 
+{{< card-link title="Dépenses liées à la dialyse" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Insuffisance%20r%C3%A9nale%20chronique%20terminale&refine.patho_niv2=Dialyse%20chronique">}}
+
+[Dépenses liées à l'IRC terminale](https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Insuffisance%20r%C3%A9nale%20chronique%20terminale), à la [transplantation rénale](https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Insuffisance%20r%C3%A9nale%20chronique%20terminale&refine.patho_niv2=Transplantation%20r%C3%A9nale) et son [suivi](https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Insuffisance%20r%C3%A9nale%20chronique%20terminale&refine.patho_niv2=Suivi%20de%20transplantation%20r%C3%A9nale)
+
 {{%/collapse%}}
 {{%collapse "Facteurs de risque de l'insuffisance rénale - Qui dépister?" %}}
 

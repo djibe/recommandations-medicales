@@ -287,6 +287,8 @@ window.onload = () => {
 
 {{< card-link title="e-learning EASD" url="https://easd-elearning.org/">}}
 
+{{< card-link title="Dépenses des soins liés au diabète" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Diab%C3%A8te">}}
+
 - [Pop-Busui R et al. Heart Failure: An Underappreciated Complication of Diabetes. A Consensus Report of the American Diabetes Association. Diabetes Care. 2022.](https://diabetesjournals.org/care/article/doi/10.2337/dci22-0014/147048/Heart-Failure-An-Underappreciated-Complication-of)
 - {{< references/calendrier-vaccinal >}}
 - {{< references/sfd-dt2 >}}
