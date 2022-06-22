@@ -98,16 +98,16 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
     </div>
   </div>
   <p class="card-text mb-1">Atovaquone/proguanil</p>
-  <p id="atovaquone" class="user-select-all">1 cp (250/100 mg) par jour pendant le repas à heure fixe</p>
+  <p id="text-atovaquone" class="user-select-all">1 cp (250/100 mg) par jour pendant le repas à heure fixe</p>
   <hr>
   <p class="card-text mb-1">Méfloquine</p>
-  <p id="mefloquine" class="user-select-all">1 cp à 250 mg 1 fois par semaine</p>
+  <p id="text-mefloquine" class="user-select-all">1 cp à 250 mg 1 fois par semaine</p>
   <hr>
   <p class="card-text mb-1">Doxycycline monohydratée ou hyclate</p>
-  <p id="doxycycline" class="user-select-all">1 cp à 100 mg pendant le dîner <span class="text-muted">(si 8+ ans)</span></p>
+  <p id="text-doxycycline" class="user-select-all">1 cp à 100 mg pendant le dîner <span class="text-muted">(si 8+ ans)</span></p>
   <hr>
   <p class="card-text mb-1">Chloroquine</p>
-  <p id="nivaquine">1 cp par jour ou 4 cuillères-mesure par jour (100 mg)</p>
+  <p id="text-nivaquine">1 cp par jour ou 4 cuillères-mesure par jour (100 mg)</p>
 </div>
 <script>
 window.onload = () => {
@@ -116,10 +116,10 @@ window.onload = () => {
     const Input = $('#weightInput');
     const min = 5;
     const max = 60;
-    const Nivaquine = $('#nivaquine');
-    const Atovaquone = $('#atovaquone');
-    const Mefloquine = $('#mefloquine');
-    const Doxycycline = $('#doxycycline');
+    const Nivaquine = $('#text-nivaquine');
+    const Atovaquone = $('#text-atovaquone');
+    const Mefloquine = $('#text-mefloquine');
+    const Doxycycline = $('#text-doxycycline');
     Slider.ionRangeSlider({
       skin: 'material',
       min: min,

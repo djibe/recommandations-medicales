@@ -424,7 +424,7 @@ style fdr stroke:#4150f5, stroke-width:1px
     Normal --> 2
   4 --> Anormal
   Anormal --> bilan("Bilan initial de la MRC + Stade<br>voir Examens complémentaires")
-  bilan --> nephroprotection("<strong>Néphroprotection maximale</strong><hr>- Lutte FRCV<br>- Éviction néphrotoxiques<br>- Adaptation des posologies<br>- Risque cardiovasculaire (très) élevé<br>- < 5g sel/j<br>- PA &lt; 120/90 mmHg<br>- LDL &lt; 0,7 g/L<br>- Albuminurie cible &lt; 30 mg/mmol<br>- Vaccin grippe, pneumo, Covid, VHB<br>- Ferritinémie +100 ng/mL")
+  bilan --> nephroprotection("<strong>Néphroprotection maximale</strong><hr>- Lutte FRCV<br>- Éviction néphrotoxiques<br>- Adaptation des posologies<br>- Risque cardiovasculaire (très) élevé<br>- &lt; 5g sel/j<br>- PA &lt; 120/90 mmHg<br>- LDL &lt; 0,7 g/L<br>- Albuminurie cible &lt; 30 mg/mmol<br>- Vaccin grippe, pneumo, Covid, VHB<br>- Ferritinémie +100 ng/mL")
   nephroprotection -- stade 3B+ --> avis(Suivi néphrologique)
 {{< /mermaid >}}
 

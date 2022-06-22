@@ -69,7 +69,7 @@ Pour se tenir informé sans naviguer de site en site.
 
 Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans le projet, suivez le guide.
 
-1. Télécharger [Git](https://git-scm.com/downloads) (installez avec les options par défaut) et [NodeJS](https://nodejs.org/download/release/v14.19.3/) (à l'installation de NodeJS, cochez "Automatically install the necessary tools. Note this will also install Chocolatery", on en a besoin)
+1. Télécharger [Git](https://git-scm.com/downloads) (installez avec les options par défaut) et [NodeJS](https://nodejs.org/download/release/v16.15.1/) (à l'installation de NodeJS, cochez "Automatically install the necessary tools. Note this will also install Chocolatery", on en a besoin)
 2. Sur votre PC, dans le dossier où vous voulez placer le projet, ouvrir une Invite de Commande en mode administrateur et tapez `git clone https://github.com/djibe/recommandations-medicales.git`
 3. puis `choco upgrade hugo-extended -y`
 4. puis placer la *Commande* dans le dossier de recommandations-medicales

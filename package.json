@@ -51,20 +51,19 @@
     "html-validate": "^7.1.1",
     "htmllint-cli": "0.0.7",
     "linkinator": "^3.1.0",
-    "node-sass": "^5.0.0",
-    "vnu-jar": "^21.4.9"
+    "node-sass": "^6.0.1",
+    "vnu-jar": "^21.10.12"
   },
   "dependencies": {
-    "autoprefixer": "^10.2.4",
+    "autoprefixer": "^10.4.7",
     "netlify-plugin-inline-critical-css": "^2.0.0",
-    "postcss": "^8.2.4",
-    "postcss-cli": "^8.3.1"
+    "postcss": "^8.3.11",
+    "postcss-cli": "^9.0.1"
   },
   "browserslist": [
     "defaults"
   ],
   "engines": {
-    "node": "14.19.3",
-    "npm": "8.10.0"
+    "node": ">=14"
   }
 }

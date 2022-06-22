@@ -1346,7 +1346,6 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
 
 .card {
   background-color: #ffffff;
-  background-color: var(--surface- 1, #ffffff);
   border-radius: 4px;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 2px 1px -1px rgba(0, 0, 0, 0.2);
   display: flex;
@@ -1796,7 +1795,6 @@ input:disabled + .chip {
 
 .table {
   background-color: #ffffff;
-  background-color: var(--surface- 1, #ffffff);
   border: 0;
   font-size: 0.875rem;
   width: 100%;
@@ -1992,9 +1990,8 @@ input:disabled + .chip {
 }
 
 .modal-content {
-  background-color: #ffffff;
-  background-color: var(--surface- 24, #ffffff);
   background-clip: padding-box;
+  background-color: #ffffff;
   border-radius: 4px;
   box-shadow: 0 24px 38px 3px rgba(0, 0, 0, 0.14), 0 9px 46px 8px rgba(0, 0, 0, 0.12), 0 11px 15px -7px rgba(0, 0, 0, 0.2);
   display: flex;
@@ -2140,7 +2137,6 @@ input:disabled + .chip {
 
 .list-group {
   background-color: #ffffff;
-  background-color: var(--surface- 1, #ffffff);
   border: 1px solid rgba(0, 0, 0, 0.12);
   border-radius: 4px;
   display: flex;
@@ -2389,10 +2385,9 @@ input:disabled + .chip {
 }
 
 .dropdown-menu::before {
-  background-color: #ffffff;
-  background-color: var(--surface- 8, #ffffff);
   border-radius: 4px;
   background-clip: padding-box;
+  background-color: #ffffff;
   box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
   content: '';
   position: absolute;
@@ -2598,11 +2593,10 @@ input:disabled + .chip {
 }
 
 .navdrawer-content {
-  background-color: #ffffff;
-  background-color: var(--surface- 16, #ffffff);
   transition-duration: 195ms;
   transition-property: box-shadow, transform;
   transition-timing-function: cubic-bezier(0.4, 0, 0.6, 1);
+  background-color: #ffffff;
   max-width: calc(100% - 3.5rem);
   overflow-x: hidden;
   overflow-y: auto;
@@ -3051,11 +3045,6 @@ legend {
   border: 0;
 }
 
-.form-control:-moz-focusring {
-  color: transparent;
-  text-shadow: 0 0 0 rgba(0, 0, 0, 0.87);
-}
-
 .form-control::placeholder {
   color: rgba(0, 0, 0, 0.54);
   opacity: 1;
@@ -3148,6 +3137,11 @@ select.form-control option:hover {
 
 select.form-control option:active {
   background-color: rgba(0, 0, 0, 0.12) !important;
+}
+
+select.form-control:-moz-focusring {
+  color: transparent;
+  text-shadow: 0 0 0 rgba(0, 0, 0, 0.87);
 }
 
 select.form-control:focus {
@@ -4265,7 +4259,7 @@ a.text-warning:hover, a.text-warning:focus, a.text-warning:active {
     background-color: transparent;
   }
   ::-webkit-scrollbar-track-piece {
-    background-color: transparent;
+    background-color: transparent none;
     border: solid 4px transparent;
     border-right-width: 8px;
   }
@@ -4329,9 +4323,6 @@ input:-webkit-autofill:active {
   blockquote {
     border: 1px solid rgba(0, 0, 0, 0.12);
     page-break-inside: avoid;
-  }
-  thead {
-    display: table-header-group;
   }
   tr,
   img {
