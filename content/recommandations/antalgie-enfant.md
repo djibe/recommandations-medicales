@@ -18,7 +18,7 @@ slider = true
 paracetamol = true
 image = true
 imageSrc = "La douleur de l'enfant par Nathan Phillips sur Foter.com"
-todo = "nubin, https://www.phel.ch/upload/docs/application/pdf/2016-05/a4_poster_gsasa_2015_rotation_opiaces_mj.pdf"
+todo = "orifices herniaires, palpation abdo, nubin, https://www.phel.ch/upload/docs/application/pdf/2016-05/a4_poster_gsasa_2015_rotation_opiaces_mj.pdf"
 +++
 
 {{%article-summary%}}

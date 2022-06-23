@@ -6,25 +6,25 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-20T22:32:54+02:00"
 publishdate = "2022-06-21"
-lastmod = "2022-06-21"
+lastmod = "2022-06-23"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
-sources = ["SFCD"]
+sources = ["SFCD", "Collèges"]
 tags = []
 anglais = ["Acute appendicitis"]
 sctid = "85189001"
 image = false
 imageSrc = ""
-todo = "signe du psoas, signe de l'obturateur, signe de Rovsing, https://www.sciencedirect.com/science/article/pii/B9782294759710000298, relecture leon.maggiori@aphp"
+todo = "FLOW, summary, https://www.sciencedirect.com/science/article/pii/B9782294759710000298, relecture leon.maggiori@aphp"
 +++
 
 {{%article-summary%}}
 
-- Le diagnostic est délicat et exige des examens complémentaires (biologie, imagerie)
+- Le diagnostic est délicat (diagnostics différentiels) et exige des examens complémentaires (BU, biologie, échographie)
 - Urgence chirurgicale (pouvant être différée jusqu'à H24 du diagnostic)
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Appendicite aiguë
 : Inflammation de l'appendice du cæcum (diverticule ~10cm du côlon droit de fonction inconnue) pouvant survenir à tout âge (6 ans - 40 ans ++).  
@@ -32,16 +32,11 @@ Tableau de douleurs abdominales aiguës avec fébricule. Le diagnostic est diffi
 : La cause serait une obstruction de la lumière appendiculaire (stercolithe, ascaris), de la paroi (hyperplasie lymphoïde, tumeur) ou du cæcum.
 : Elle expose à des complications: abcès appendiculaire, phlegmon et plastron appendiculaire, perforation digestive ou nécrose (gangrène) avec **péritonite appendiculaire**.
 
-### Diagnostic différentiel
+Point de Mc Burney
+: Point situé au tiers externe de la ligne reliant l'épine iliaque antéro-supérieure droite à l'ombilic.
 
-- Gastro-entérite aiguë
-- Torsion du testicule
-- Grossesse extra-utérine, salpingite
-- Kyste de l'ovaire
-- [Endométriose]({{< relref "endometriose.md" >}})
-- MICI
-- Pyélonéphrite aiguë
-{.list-group}
+Psoïtis
+: Contraction involontaire, très douloureuse et irréductible du psoas entraînant une flexion de cuisse.
 
 ### Abréviations
 
@@ -51,8 +46,26 @@ AA
 FID
 : fosse iliaque droite
 
+SFU
+: signes fonctionnels urinaires
+
 TDM
 : tomodensitométrie (ou scanner)
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Diagnostics différentiels de l'appendicite aiguë:
+
+- Gastro-entérite aiguë
+- MICI
+- Cholécystite aiguë
+- Garçon: torsion du testicule
+- Femme: Grossesse extra-utérine, salpingite, torsion ovarienne ou kyste de l'ovaire, [endométriose]({{< relref "endometriose.md" >}})
+- Pyélonéphrite aiguë
+- Colique néphrétique
+- Pédiatrie: adénolymphite mésentérique, invagination intestinale aiguë
+{.list-group}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -70,7 +83,8 @@ La clinique n'est pas suffisante pour le diagnostic d'appendicite aiguë.
 - Symptômes
   - **Douleur abdominale** de début épigastrique ou péri-ombilicale **migrant en fosse iliaque droite** en quelques heures
   - Type torsion ou crampe et devient permanente sans irradiation
-  - Psoïtis: soulagée immobile jambes pliées. Augmentée à la toux et mouvements de cuisse.
+  - Soulagée immobile jambes pliées. Augmentée à la toux et mouvements de cuisse.
+  - **Psoïtis**
   - Troubles digestifs: nausées (50%), constipation (30%) voire diarrhées, anorexie
 - Enfant: plus fréquentes à partir de 10 ans et chez le garçon
 - Signes négatifs
@@ -81,18 +95,37 @@ Femme enceinte: utérus repousse l'appendice avec tableau de colique hépatique.
 ### Examen clinique
 
 - Pression artérielle, pouls, température
-- Inspection  
-  Sueurs, pâleur, déshydratation (conjonctives, langue), cicatrices abdominales, météorisme, ictère, position antalgique.  
+- Inspection
+  - Cicatrices abdominales
+  - Sueurs, pâleur, déshydratation (conjonctives, langue), ictère, position antalgique.  
   Douleur à la toux ou en sautant.
-- Palpation abdominale
-  - Douleur en décompression de FID, maximale au point de Mc Burney
-  - Sensibilité ou **défense en fosse iliaque droite** (voire contracture)
-- Palpation des orifices herniaires
+- Palpation abdominale  
+  Débutée en zone non douloureuse.
+  - Sensibilité ou **défense en fosse iliaque droite** (voire contracture), maximale au point de Mc Burney
+  - Douleur provoquée en décompression de FID (signe de Blumberg) et par la décompression de la fosse iliaque gauche (signe de Rovsing). Signes inconstants.
+  - Heel drop test: patient debout sur la pointe des pieds, douleur abdominale déclenchée en passant brutalement sur les talons
+  - Toucher rectal douloureux du côté droit (déconseillé chez l'enfant)
+- Palpation des [orifices herniaires]({{< relref "hernie-parietale.md" >}})
 
 ### Signes d'appendicite chez le petit enfant
 
 Elle est possible à tout âge mais exceptionnelle avant 1 an.  
-Signes non spécifiques: insomnie, agitation, diarrhée, anorexie, fièvre élevée.
+Signes non spécifiques: AEG, fièvre élevée, vomissements, diarrhées, insomnie, agitation.
+
+### Autres formes cliniques d'appendicite selon sa topographie
+
+Appendicite rétro-cæcale
+: Psoïtis plus franc. Examen en décubitus latéral gauche objective mieux la douleur en palper bimanuel (flanc droit - fosse lombaire droite).
+
+Appendicite pelvienne
+: Signes pelviens: SFU, ténesme ou signes gynécologiques. Touchers pelviens avec douleur latéralisée à droite.
+
+Appendicite méso-cœliaque
+: Tableau d'occlusion fébrile.
+
+Appendicite en position sous-hépatique
+: Tableau de cholécystite aiguë.
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -101,8 +134,8 @@ Les marqueurs biologiques ne sont pas suffisants pour le diagnostic d'appendicit
 Aucun score typant le syndrome inflammatoire ne s'est révélé discriminant.
 
 - Bandelette urinaire
-- NFS, CRP
-- ASAT, ALAT, GGT, PAL
+- NFS (80% d'hyperleucocytose)
+- CRP
 - Créatininémie
 - ßHCG
 
@@ -112,11 +145,11 @@ Aucun score typant le syndrome inflammatoire ne s'est révélé discriminant.
 
 En l'**absence** de signes cliniques (douleur migrant en FID) ET biologiques (NFS et CRP normaux), le diagnostic d'AA est peu probable. Possible exploration par imagerie ou surveillance clinique adaptée au contexte.
 
-Échographie abdominale par examinateur entraîné ou scanner abdomino-pelvien (+75 ans, obèse ++) avec injection.  
+**Échographie abdominale** par examinateur entraîné ou **scanner abdominal** (+75 ans et obèse ++) avec injection.  
 Après une échographie normale, contrôler avec un opérateur entraîné ou scanner.
 
-Chez la femme enceinte: échographie abdominale ou IRM sans injection.  
-Après échographie normale ou non concluante et absence d'accès à l'IRM: scanner AP avec injection.
+Chez la femme enceinte: échographie abdominale ou IRM abdominale sans injection.  
+Après échographie normale ou non concluante et absence d'accès à l'IRM: scanner abdominal avec injection.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'appendicite aiguë" %}}
