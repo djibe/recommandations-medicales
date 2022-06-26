@@ -29,7 +29,7 @@ todo = "attente relecture C Brunet"
 - Objectifs glycémiques du diabète gestationnel ou d'une grossesse chez la diabétique: HbA1c cible 6,5%, glycémie à jeun < 0,95 g/L et post-prandiale H2 < 1,20 g/L
 - Objectif de terme: 39 SA
 - Glycémie à la consultation post-natale et tous les 1-3 ans à vie
-- En pandémie Covid-19, si HGPO non réalisable, remplacer par GAJ + HbA1c avec un seuil diagnostique à 5,7% (*[Vambergue 2020](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)*)
+- En pandémie Covid-19, si HGPO non réalisable, remplacer par GAJ + HbA<sub>1c</sub> avec un seuil diagnostique à 5,7% (*[Vambergue 2020](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)*)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -37,8 +37,8 @@ todo = "attente relecture C Brunet"
 Diabète gestationnel (DG)
 : Hyperglycémie à jeun gravidique sans hyperglycémie avant la grossesse.  
 Facteur de risque de complications obstétricales:  
-    - Maternelles: pré-éclampsie, césarienne
-    - Fœtales: macrosomie, hydramnios (rare), hyperbilirubinémie, dystocie des épaules
+    - Maternelles: pré-éclampsie, césarienne, traumatisme périnéal
+    - Fœtales: macrosomie, hydramnios (rare), hyperbilirubinémie, dystocie des épaules, mortalité, hypoglycémie, prématurité
 : La prévalence du diabète gestationnel est de 8% (2012) et en augmentation. Le risque à long terme de [diabète de type 2]({{< relref "diabete-type-2.md" >}}) est alors multiplié par 7.
 : Sur-dépistage du diabète gestationnel: 76% versus 42% attendus (*Regnault 2012*)
 
@@ -186,6 +186,30 @@ Insulines utilisées en sécurité pour le traitement du diabète gestationnel: 
   Surveillance pondérale + activité physique régulière
 
 {{% /collapse %}}
+{{%collapse "Nutrition et diabète gestationnel" %}}
+
+Recommandations sur la nutrition et les consignes diététiques pour la prise en charge du diabète gestationnel (*SFD 2022*).
+
+Le développement d'un DG ne modifie pas les consignes valables pour toute grossesse.
+
+### Augmentation des besoins énergétiques au cours de la grossesse
+
+{{< table title="Augmentation des besoins énergétiques pendant la grossesse selon PNNS 2019" >}}
+| Terme de la grossesse | Augmentation des apports (kcal/j) |
+|-----------------------|----------------------------------:|
+| T1                    |                                70 |
+| T2                    |                               260 |
+| T3                    |                               500 |
+| Allaitement           |                               500 |
+{{< /table >}}
+
+Il est déconseillé de descendre sous 1600 kcal/j (même si obésité, *[Eades et al 2017](https://pubmed.ncbi.nlm.nih.gov/28531829/)*)
+
+### Sources supplémentaires de cette section
+
+[Anses. Avis de de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail relatif à l'actualisation des repères alimentaires du PNNS pour les femmes enceintes ou allaitantes. 2019. (PDF)](https://www.anses.fr/fr/system/files/NUT2017SA0141.pdf)
+
+{{% /collapse %}}
 {{%collapse "Prise en charge du diabète gestationnel" "show" %}}
 
 {{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge du diabète gestationnel. Dr JB Fron d'après SFD/CNGOF 2010" >}}
@@ -208,6 +232,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%sources%}}
 
+- [Louvet et al; SFD. Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022.pdf)
 - {{< references/sfd-dt2 >}}
 - [Vambergue A. et al; SFD, Collège National des Gynécologues et Obstétriciens Français (CNGOF). Diabète gestationnel et pandémie SARS-Cov2 (COVID-19). Avril 2020. (PDF)](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)
 - [Brown J. et al. L'insuline pour le traitement des femmes atteintes de diabète gestationnel. Cochrane Database of Systematic Reviews. 2017.](https://www.cochrane.org/fr/CD012037/PREG_linsuline-pour-le-traitement-des-femmes-atteintes-de-diabete-gestationnel)
@@ -215,9 +240,5 @@ style fdr stroke:#4150f5, stroke-width:1px
 - [Regnault N. et al. Diabète gestationnel en France en 2012 : dépistage, prévalence et modalités de prise en charge pendant la grossesse. BEH. Santé Publique France. Mars 2016.](http://beh.santepubliquefrance.fr/beh/2016/9/2016_9_2.html)
 - SFD. Le livre blanc du diabète. 2011.
 - [CNGOF, SFD. Le diabète gestationnel. Recommandations pour la pratique clinique. 2010. (PDF)](http://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/diabete%20gesta%20cngof.pdf)
-
-### À lire
-
-[Louvet et al; SFD. Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022.pdf)
 
 {{%/sources%}}

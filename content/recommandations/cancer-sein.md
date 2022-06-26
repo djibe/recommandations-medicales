@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
 publishdate = "2021-11-03"
-lastmod = "2022-04-30"
+lastmod = "2022-06-26"
 specialites = ["gynecologie-obstetrique"]
 annees = "2017"
 sources = ["HAS", "INCa", "ACOG"]
@@ -21,6 +21,7 @@ todo = "revoir ttt > gg sentinelle, algorithme 2 et 3, EI hormonothérapie, perr
 
 {{%article-summary%}}
 
+- Arrêt tabac, alcool, lutte surpoids et activité physique
 - Palpation mammaire annuelle à partir de 25 ans
 - Vérifier la participation au dépistage organisé (50-74 ans, à consigner dans le dossier)
 - Dépistage spécifique si risque élevé ou très élevé (voir *Niveaux de risque*)
@@ -54,16 +55,21 @@ Maladie de Paget du mamelon
 - Prédisposition génétique (5-10%)
 - Antécédent personnel de cancer du sein
 - Antécédent personnel de radiothérapie thoracique à haute dose
+- Facteurs modifiables
+  - [Alcool]({{< relref "sevrage-alcool.md" >}}) (15% attribuables)
+  - Tabac (4,4% attribuables)
+  - Surpoids ou obésité (11% des cancers post-ménopausiques)
+  - Inactivité physique
 
-### Diagnostic différentiel
+### Diagnostic différentiel du cancer du sein
 
 - Calcifications mammaires
 - Fibroadénome  
-Tumeur bénigne fréquente avant 25 ans.
+  Tumeur bénigne fréquente avant 25 ans.
 - Kyste  
-Masse bénigne liquidienne la plus fréquente de 35 à 50 ans.
+  Masse bénigne liquidienne la plus fréquente de 35 à 50 ans.
 - Mastose ou fibrose kystique du sein  
-Très fréquente (50-80% de 30 à 50 ans). Associée à une augmentation du risque de cancer du sein en antécédent de mastose au 1<sup>er</sup> degré.
+  Très fréquente (50-80% de 30 à 50 ans). Associée à une augmentation du risque de cancer du sein en antécédent de mastose au 1<sup>er</sup> degré.
 - Hyperplasie mammaire simple
 - [Écoulement mamelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
 
@@ -101,13 +107,12 @@ Seules personnes concernées par le dépistage organisé du cancer du sein.
 
 ### Niveau de risque élevé
 
-1. Antécédent de cancer invasif du sein ou de carcinome canalaire *in situ*  
-Voir *Surveillance*.
+1. Antécédent de cancer invasif du sein ou de carcinome canalaire *in situ* (voir *Surveillance*)
 2. Antécédent de radiothérapie thoracique à haute dose
     - Examen clinique annuel 8 ans après la fin (si ≥ 20 ans)
     - Mammographies (incidence oblique) + IRM mammaire annuelles 8 après la fin (si ≥ 30 ans)
-3. Antécédent d'hyperplasie canalaire atypique, d'hyperplasie lobulaire atypique ou de carcinome lobulaire *in situ*
-    - Mammographie ± échographie annuelle pendant 10 ans, puis tous les 2 ans jusqu'au dépistage organisé
+3. Antécédent d'hyperplasie canalaire atypique, d'hyperplasie lobulaire atypique ou de carcinome lobulaire *in situ*  
+  Mammographie ± échographie annuelle pendant 10 ans, puis tous les 2 ans jusqu'au dépistage organisé
 4. Antécédent familial de cancer du sein avec {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} ≥ 3 et risque élevé estimé par l'oncogénéticien (*INCa 2017*)  
   Pour les apparenté au 1<sup>er</sup> degré ou nièce par un frère: Surveillance radiologique 5 ans avant l'âge du diagnostic de cancer chez le plus jeune:
     - Examen clinique annuel à partir de 20 ans
@@ -326,6 +331,7 @@ Après RCP peuvent être proposés: Chirurgie, radiothérapie, chimiothérapie, 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Santé Publique France. Dépistage du cancer du sein : quelle participation des femmes en 2021 ? 2022.](https://www.santepubliquefrance.fr/les-actualites/2022/depistage-du-cancer-du-sein-quelle-participation-des-femmes-en-2021)
 - [INCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
 - [INCa. Prothèses mammaires et risque de cancer. Avril 2019.](https://www.e-cancer.fr/Comprendre-prevenir-depister/Reduire-les-risques-de-cancer/Protheses-mammaires)
 - [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. Octobre 2017.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)

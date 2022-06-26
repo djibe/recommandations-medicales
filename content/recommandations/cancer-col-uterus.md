@@ -16,7 +16,7 @@ sctid = "363354003"
 flowchart = true
 image = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "relecture INCa, pharynx"
+todo = "relecture INCa, pharynx, Les infections a HPV deviennent indétectables au bout de 2 ans dans 90% des cas. Dans les 10% des cas où elle persiste elle peut être a l'origine de cancer."
 +++
 
 {{%article-summary%}}
@@ -40,8 +40,6 @@ Mortalité de 20 à 40% pour les cancers induits, avec des séquelles majeures.
 La vaccination prévient 90% des infections causant ces cancers.
 : 1<sup>re</sup> *[infection sexuellement transmissible](/tags/ist/)* mondiale avec plus de 150 génotypes.  
 : En coloscopie, des HPV sont retrouvés chez 43% des femmes et 24% des hommes (*Vuitton 2018*).
-
-TODO: Les infections a HPV deviennent indétectables au bout de 2 ans dans 90% des cas. Dans les 10% des cas où elle persiste elle peut être a l'origine de cancer.
 
 Cancer du col de l'utérus
 : Cancers non hormonodépendants avec un pic d'incidence à 40 ans.  
@@ -84,7 +82,7 @@ Cancer (carcinome épidermoïde) et lésions précancéreuses sous-entendues.
 - **Mortalité:** 1100 décès/an (lire [Taux de participation aux dépistages]({{< relref "participation-depistage-cancers.md" >}}))  
   Un dépistage de toute la population entraînerait une diminution de 90%.
 - 80% des hommes et des femmes sexuellement actifs seront infectés par les papillomavirus durant leur vie
-- **Couverture vaccinale:** 23,7% des jeunes filles âgées de 16 ans ont un schéma vaccinal complet (2018)
+- **Couverture vaccinale:** 24% des jeunes filles âgées de 16 ans ont un schéma vaccinal complet (2018)
 
 > *INCa*
 
