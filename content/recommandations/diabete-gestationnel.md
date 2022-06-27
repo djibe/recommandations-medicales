@@ -2,7 +2,7 @@
 title = "Diabète gestationnel"
 prefix = "le "
 titleSeo = "Diabète gestationnel"
-description = "Recommandations CNGOF pour le diagnostic et le traitement du diabète gestationnel. Glycémie à jeun puis HGPO troisième trimestre, autosurveillance glycémique"
+description = "Recommandations CNGOF pour le diagnostic et le traitement du diabète gestationnel. Glycémie à jeun puis HGPO, autosurveillance glycémique et glycémies cibles"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-30T19:57:00+02:00"
@@ -190,24 +190,7 @@ Insulines utilisées en sécurité pour le traitement du diabète gestationnel: 
 
 Recommandations sur la nutrition et les consignes diététiques pour la prise en charge du diabète gestationnel (*SFD 2022*).
 
-Le développement d'un DG ne modifie pas les consignes valables pour toute grossesse.
-
-### Augmentation des besoins énergétiques au cours de la grossesse
-
-{{< table title="Augmentation des besoins énergétiques pendant la grossesse selon PNNS 2019" >}}
-| Terme de la grossesse | Augmentation des apports (kcal/j) |
-|-----------------------|----------------------------------:|
-| T1                    |                                70 |
-| T2                    |                               260 |
-| T3                    |                               500 |
-| Allaitement           |                               500 |
-{{< /table >}}
-
-Il est déconseillé de descendre sous 1600 kcal/j (même si obésité, *[Eades et al 2017](https://pubmed.ncbi.nlm.nih.gov/28531829/)*)
-
-### Sources supplémentaires de cette section
-
-[Anses. Avis de de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail relatif à l'actualisation des repères alimentaires du PNNS pour les femmes enceintes ou allaitantes. 2019. (PDF)](https://www.anses.fr/fr/system/files/NUT2017SA0141.pdf)
+{{%info%}}Le développement d'un diabète gestationnel ne modifie pas les consignes valables pour toute grossesse (prise de poids, apports en glucides ...)(article à venir){{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du diabète gestationnel" "show" %}}

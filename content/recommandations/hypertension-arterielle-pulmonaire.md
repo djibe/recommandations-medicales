@@ -5,9 +5,9 @@ titleSeo = "Hypertension artérielle pulmonaire"
 description = "Recommandations pour l'Hypertension artérielle pulmonaire (HTAP) par le médecin généraliste. Qui dépister ? Quel suivi ? Échodoppler cardiaque, épreuve d'effort"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-03-02T11:46:00+02:00
-publishdate = 2021-03-02
-lastmod = 2022-03-20
+date = "2021-03-02T11:46:00+02:00"
+publishdate = "2021-03-02"
+lastmod = "2022-03-20"
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["HAS"]
@@ -37,7 +37,7 @@ Il s'agit d'une complication de plusieurs pathologies (par ordre de fréquence):
 : Diagnostic de certitude par cathétérisme cardiaque: PAPm ≥ 25 mmHg.
 : La complication est la survenue d'une insuffisance cardiaque droite (pronostic majeur).
 
-Hypertension artérielle pulmonaire
+Hypertension artérielle pulmonaire (HTAP)
 : Maladie rare caractérisée par des modifications importantes des artères pulmonaires de petit calibre (HTP pré-capillaire).
 : Elle est le plus souvent idiopathique, mais peut avoir une origine médicamenteuse ou compliquant une autre pathologie.  
 Elle peut arriver à tout âge, atteint préférentiellement les femmes (65%) avec un âge moyen au diagnostic de 40-50 ans.  
@@ -61,21 +61,23 @@ RxT
 {{% /collapse %}}
 {{%collapse "Étiologie" %}}
 
+Causes d'hypertension artérielle pulmonaire (HTAP):
+
 - Héréditaire
 - Congénitale
 - Secondaire à une pathologie générale  
-Connectivite (sclérodermie), cirrhose et hypertension portale, [infection VIH]({{< relref "vih-sida.md" >}}), bilharziose...
+  Connectivite (sclérodermie), cirrhose et hypertension portale, [infection VIH]({{< relref "vih-sida.md" >}}), bilharziose...
 - Secondaire à une maladie respiratoire
 - Secondaire à une cardiopathie gauche
 - Secondaire à une maladie thromboembolique chronique
 - Iatrogène  
-Anorexigènes, immunothérapies...
+  Anorexigènes, immunothérapies...
 - Idiopathique surtout
 
 {{% /collapse %}}
-{{%collapse "Dépistage systématique" %}}
+{{%collapse "Dépistage systématique de l'HTAP" %}}
 
-Dépistage systématique de l'HTAP par échocardiographie dans les pathologies à risque:
+Dépistage systématique de l'hypertension artérielle pulmonaire (HTAP) par échocardiographie dans les pathologies à risque:
 
 - Cardiopathie congénitale
 - Insuffisance respiratoire chronique
@@ -98,8 +100,7 @@ Les signes cliniques de l'hypertension artérielle pulmonaire sont peu spécifiq
 - Syncope et lipothymies (à l'effort)
 - Angor
 - Hémoptysie
-- Signes d'HTP  
-Insuffisance tricuspide ou pulmonaire.
+- Signes d'HTP: insuffisance tricuspide ou pulmonaire
 - Signes d'insuffisance cardiaque droite
 {{%/info%}}
 
@@ -111,9 +112,9 @@ Insuffisance tricuspide ou pulmonaire.
 - Facteurs de risque cardiovasculaires
 - Antécédent familial d'HTAP
 - Traitements  
-Anorexigène ou immunothérapie.
+  Anorexigène ou immunothérapie.
 - Toxiques  
-Amphétamines, cocaïne.
+  Amphétamines, cocaïne.
 - Symptômes de repos et d'effort
 - {{< modal-btn score-nyha >}}Score NYHA{{< /modal-btn >}}
 
@@ -121,14 +122,14 @@ Amphétamines, cocaïne.
 
 - Pression artérielle, pouls, SpO<sub>2</sub>
 - Auscultation cardiaque  
-Insuffisance tricuspide (souffle holosystolique majoré en inspiration profonde), éclat du B2 pulmonaire, souffle diastolique d'insuffisance pulmonaire.
+  Insuffisance tricuspide (souffle holosystolique majoré en inspiration profonde), éclat du B2 pulmonaire, souffle diastolique d'insuffisance pulmonaire.
 - Auscultation pulmonaire  
-Normale, discordante avec la sévérité des symptômes.
+  Normale, discordante avec la sévérité des symptômes.
 - Signes d'insuffisance cardiaque droite  
-{{< clinique/insuffisance-cardiaque-droite >}}
+  {{< clinique/insuffisance-cardiaque-droite >}}
 - Signes d'hypertension portale
 - Signes de sclérodermie  
-[Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), sclérodactylie, télangiectasies, calcifications sous-cutanées, ulcérations digitales, dysphagie, [dyspepsie]({{< relref "dyspepsie.md" >}}) ...
+  [Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), sclérodactylie, télangiectasies, calcifications sous-cutanées, ulcérations digitales, dysphagie, [dyspepsie]({{< relref "dyspepsie.md" >}}) ...
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -161,7 +162,7 @@ Le traitement relève uniquement du centre de référence. Le suivi est au moins
 - Tolérance des traitements
 - Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
 - Proposer des associations de patients  
-[HTapFrance](http://www.htapfrance.com/new.asp), [France Assos Sante](https://www.france-assos-sante.org/)
+  [HTapFrance](http://www.htapfrance.com/new.asp), [France Assos Sante](https://www.france-assos-sante.org/)
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

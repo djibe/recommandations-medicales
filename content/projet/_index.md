@@ -466,7 +466,7 @@ Pourtant, des exemples comme les *prescriptions d'antibiotiques* ou le *suivi du
 
 <figure class="figure border alert mb-4">
   <div id="chart"></div>
-  <figcaption><b>DQD:</b> doses quotidiennes définies/1000 hab/j (DDD en anglais)<br>
+  <figcaption><b>DQD:</b> doses quotidiennes définies/1000 hab/j (DDD en anglais) <br>
   <b>Figure. </b><a href="https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-associees-aux-soins-et-resistance-aux-antibiotiques/resistance-aux-antibiotiques/documents/rapport-synthese/la-consommation-d-antibiotiques-en-secteur-de-ville-en-france-2009-2019.-synthese-preliminaire-des-indicateurs-disponibles-sous-geodes" rel="external nofollow noopener">Santé Publique France. SPF. La consommation d'antibiotiques en secteur de ville en France 2009-2019. Synthèse préliminaire des indicateurs disponibles sous Géodes.</a></figcaption>
 </figure>
 <script>

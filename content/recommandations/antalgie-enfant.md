@@ -218,7 +218,7 @@ Surveillance par soignant pendant 1h.
 {{< table title="Échelles d'évaluation de la douleur chez l'enfant (source Pediadol)" >}}
 | Âge          | Échelle                  | Seuil de traitement |
 |--------------|--------------------------|:-------------------:|
-| Nouveau-né   | EDIN<br>EVENDOL          | 4-5/15              |
+| Nouveau-né   | EDIN <br>EVENDOL         | 4-5/15              |
 | 0 - 7 ans    | EVENDOL                  | 4-5/15              |
 | <b>Auto-évaluation</b>    |             |                     |
 | 4+ ans       | Visages (FPS-R)          | 4/10                |

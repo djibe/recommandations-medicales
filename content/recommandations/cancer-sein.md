@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
 publishdate = "2021-11-03"
-lastmod = "2022-06-26"
+lastmod = "2022-06-27"
 specialites = ["gynecologie-obstetrique"]
 annees = "2017"
 sources = ["HAS", "INCa", "ACOG"]
@@ -173,15 +173,18 @@ Toute suspicion diagnostique justifie un avis spécialisé sans délai.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-- Mammographies
-  - Pas de délai minimal entre des mammographies diagnostiques et de dépistage
-  - Femme non ménopausée: les réaliser durant les 10 premiers jours du cycle
-  - La veille et le jour de l'examen: aucun déodorant, poudre, crème, parfum sur les seins ou les aisselles
+### Mammographies
+
+- Pas de délai minimal entre des mammographies diagnostiques et de dépistage
+- Femme non ménopausée: les réaliser durant les 10 premiers jours du cycle
+- La veille et le jour de l'examen: aucun déodorant, poudre, crème, parfum sur les seins ou les aisselles
+
+{{%info%}}
 
 ### Bilan devant un nodule palpable
 
-Mammographies et échographie mammaire bilatérales  
-Complétées par biopsies pour histologie.
+Mammographies et échographie mammaire bilatérales, complétées par biopsies pour histologie.
+{{%/info%}}
 
 ### Bilan devant un écoulement mamelonnaire unipore sérosanglant
 
@@ -209,9 +212,9 @@ Indications limitées:
 - Écoulement unipore sérosanglant
 
 {{% /collapse %}}
-{{%collapse "Prévention" %}}
+{{%collapse "Prévention du cancer du sein" %}}
 
-Réduction de la consommation d'[alcool]({{< relref "sevrage-alcool.md" >}}) (*SPF*).
+Réduction de la consommation d'[alcool]({{< relref "sevrage-alcool.md" >}}) (15% attribuables, *CIRC et SPF*), tabac (4,4%), lutte contre surpoids/obésité (11%) et l'inactivité physique.
 
 {{%info%}}Mammographies avec double lecture tous les 2 ans chez les femmes de 50 à 74 ans asymptomatiques (sans facteur de risque élevé ou très élevé de cancer du sein){{%/info%}}
 

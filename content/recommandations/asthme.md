@@ -390,7 +390,7 @@ Confirmer le diagnostic avant de démarrer un traitement (*GINA 2019*), puis ins
   </div>
   <div class="tab-pane fade" id="nav-asthme-stade3" role="tabpanel" aria-labelledby="nav-tab-stade3">
     <ul><li><a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">CSI + LABA faible dose</a> au quotidien</li>
-    <li><a data-toggle="modal" href="#modal-ttt-baca">BACA</a> au besoin<br>Si insuffisant: remplacer par <a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">Formotérol + budésonide ou béclométasone faible dose</a>
+    <li><a data-toggle="modal" href="#modal-ttt-baca">BACA</a> au besoin <br>Si insuffisant: remplacer par <a data-toggle="modal" href="#modal-ttt-laba-csi" role="button">Formotérol + budésonide ou béclométasone faible dose</a>
     </li></ul>
     <hr>
     <p class="font-weight-bold">Traitements alternatifs</p>

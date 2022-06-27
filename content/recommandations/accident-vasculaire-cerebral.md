@@ -161,7 +161,7 @@ Si le patient appelle au cabinet, transférer l'appel au {{<phone>}}15{{</phone>
 - Ulcères gastro-intestinaux documentés au cours des 3 derniers mois, varices œsophagiennes, anévrisme artériel, malformations artérielles ou veineuses.
 - Néoplasie majorant le risque hémorragique.
 - Hépatopathie sévère  
-Insuffisance hépatique, cirrhose, hypertension portale, varices œsophagiennes, hépatite évolutive.
+  Insuffisance hépatique, cirrhose, hypertension portale, varices œsophagiennes, hépatite évolutive.
 - Intervention chirurgicale ou traumatismes importants au cours des 3 derniers mois.
 
 ### Contre-indications en cas d'accident vasculaire cérébral aigu

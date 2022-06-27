@@ -29,6 +29,13 @@ todo = ""
 
 
 {{% /collapse %}}
+{{%collapse "Prise en charge des complications pendant l'allaitement" %}}
+
+### Candidose mammaire et allaitement
+
+TODO: https://ansm.sante.fr/actualites/candidose-mammaire-et-allaitement-eviter-le-violet-de-gentiane
+
+{{% /collapse %}}
 {{%collapse "Location d'un tire-lait" %}}
 
 {{%info%}}Location de tire-lait électrique double pompe et ses accessoires pendant 10 semaines{{%/info%}}

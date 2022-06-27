@@ -219,7 +219,7 @@ Boudin noir, Moules, seiche, lentilles, soja, épinards, raison sec ([Anses. Tab
 
 {{< mermaid title="Conduite à tenir devant une anémie avec suspicion de carence en fer. Dr JB Fron d'après BSG 2021" >}}
 graph TB
-  anemie[Anémie avec suspicion<br>de carence en fer]
+  anemie[Anémie avec suspicion <br>de carence en fer]
   style anemie stroke:#4150f5, stroke-width:1px
     anemie --> ferritine(Ferritinémie)
       ferritine -- &lt; 45 ng/mL --> basse[Ferritine basse<br>= Carence martiale]
