@@ -3,7 +3,7 @@ title = "Bilan orthoptique et orthoptie"
 prefix = "le "
 titleSeo = "Bilan orthoptique"
 description = "Recommandations pour le dépistage et la réalisation du bilan orthoptique. Prise en charge par l'orthoptiste en fatigue chronique, céphalées, strabisme ..."
-synonyms = []
+synonyms = ["Rééducation orthoptique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-10T16:46:32+01:00"
 publishdate = "2022-01-10"
@@ -35,7 +35,7 @@ imageSrc = "Illustration par rawpixel.com / Freepik"
 Bilan orthoptique et rééducation si besoin
 {{%/info%}}
 
-Indications au bilan orthoptique devant:
+Indications au bilan orthoptique devant les signes ou symptômes suivants:
 
 - Strabisme (5-8% des enfants)
 - Amblyopie
@@ -54,7 +54,7 @@ Indications au bilan orthoptique devant:
 - Ptosis (paupière tombante) et nystagmus
 {.list-group}
 
-Et enfant avec les signes suivants (+ ci-dessus):
+Et chez l'enfant avec les signes suivants (+ ci-dessus):
 
 - Acuité visuelle réduite
 - Antécédent parental et suspicion pour l'enfant (*NHS*)

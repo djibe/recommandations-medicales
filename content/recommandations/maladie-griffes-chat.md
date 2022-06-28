@@ -36,6 +36,8 @@ Le plus souvent bénigne avec guérison sans séquelles.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+Signes et symptômes évocateurs de la maladie des griffes du chat:
+
 - Contexte de griffure ou morsure par un chat  
   Exceptionnellement par inoculation (épine ou écharde).
 - Incubation de 2-3 semaines puis apparition d'**adénopathie régionale** (unique dans 50% des cas) pouvant persister plusieurs mois
@@ -67,13 +69,15 @@ Mesures de prévention des zoonoses, dont la *Maladie des griffes du chat*:
 
 {{%info%}}Azithromycine 500 mg en 1 prise J1 puis 250 mg en 1 prise de J2 à J5 et arrêt{{%/info%}}
 
-Le traitement de la maladie des griffes du chat n'est pas systématique (voir citation ci-dessous). Il consiste en une antibiothérapie par macrolide.  
-Si allergie ou contre-indication: doxycycline 200 mg x 1/j pendant 14 jours.
+Le traitement par antibiotiques de la maladie des griffes du chat n'est pas systématique (voir citation ci-dessous). Il consiste en une antibiothérapie par macrolide.  
+Si allergie ou contre-indication aux macrolides: doxycycline 200 mg x 1/j pendant 14 jours.
 
 > Pour le traitement de la maladie des griffes du chat: << Chez l'immunocompétent, l'intérêt d'une antibiothérapie est discuté, car l'évolution est spontanément favorable >> *CMIT 2020*
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
+
+Informations et mesures de prévention pour la maladie des griffes du chat:
 
 - Ne pas se frotter les yeux après contact avec des animaux
 - Se laver les mais (eau + savon) systématiquement après contact avec l'animal ou déjections

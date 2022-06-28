@@ -8,7 +8,7 @@ synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
 publishdate = "2022-01-11"
-lastmod = "2022-06-09"
+lastmod = "2022-06-28"
 specialites = ["addictologie"]
 annees = "2021"
 sources = ["HAS", "SFA", "AFEF"]
@@ -23,7 +23,7 @@ todo = "Kits addiction https://lecmg.fr/addictionsmg/, KEY x3 sevrage ambulatoir
 {{%article-summary%}}
 
 1. Repérage systématique: consommation moyenne par jour, fréquence mensuelle de consommation ≥ 6 verres, autres toxiques (voir *Dépistage*)
-2. Évaluation: score AUDIT-C ou FACE d'un mésusage et recherche de comorbidités (voir *Évaluation*)
+2. Évaluation de la consommation d'alcool: score AUDIT-C ou FACE d'un mésusage et recherche de comorbidités (voir *Évaluation*)
 3. Intervention brève
 4. Dépistage des complications
 
@@ -55,9 +55,12 @@ Alcool
       Asymptomatique mais susceptible d'entraîner des dommages.
     - Usage nocif  
       Dommages somatiques, psychiques ou sociaux mais sans éléments en faveur d'une dépendance.
-    - Usage avec dépendance
+    - Usage avec dépendance (CIM-10) ou trouble de l'usage de l'alcool (TUA, DSM-V)
 
-L'*usage nocif* et la *dépendance*, dits troubles liés à l'usage de l'alcool (CIM-10), sont caractérisés par des symptômes visibles sur le plan **social**, **psychologique** ou **médical**.
+L'*usage nocif* et la *dépendance* sont caractérisés par des symptômes visibles sur le plan **social**, **psychologique** ou **médical**.
+
+Sevrage
+: Arrêt de toute consommation d'alcool, qu'il soit intentionnel ou non.
 
 Rechute
 : Reprise par le patient de fortes consommations ≥ 5 verres/j en 1 seule occasion pour l'homme < 65 ans, 4 si femme ou ≥ 65 ans (définition *FDA* avec verre à 14g).
@@ -72,6 +75,9 @@ API
 
 BZD
 : benzodiazépine
+
+CDT
+: Transferrine désialytée (très spécifique d'un TUA)
 
 CSAPA
 : Centres de soins, d'accompagnement et de prévention en addictologie (CSAPA)
@@ -98,12 +104,12 @@ TCC
 : thérapies cognitives et comportementales
 
 TUA
-: Trouble d'usage d'alcool
+: Trouble de l'usage de l'alcool
 {.dl-inline}
 
 ### Épidémiologie de la consommation d'alcool en France
 
-- 1<sup>re</sup> substance addictive en coût social
+- 1<sup>re</sup> substance addictive en coût social, cause de décès liée au foie et cause de transplantation hépatique
 - 1/3 des décès prématurés
 - Décès: 41.000 annuels (30.000 hommes)
   - Cancers: 30.000 annuels attribuables (2<sup>e</sup> cause évitable derrière le tabac)  
@@ -138,20 +144,20 @@ Questions pour dépister une consommation à risque (mésusage):
 
 {{< clinique/addiction-reperage >}}
 
-Demander aussi la fréquence des jours avec forte consommation ≥ 6 verres
-Chez l'enfant: << Y a-t-il déjà eu consommation d'alcool au moins une fois ? >>
+Demander aussi la **fréquence des jours avec forte consommation ≥ 6 verres**  
+**Chez l'enfant:** << Y a-t-il déjà eu consommation d'alcool au moins une fois ? >>
 
 {{%warning%}}Toute consommation pendant la **grossesse** est un mésusage: urgence addictologique, gynécologique, psychologique et sociale.  
 Idem sans urgence pour jeune (avec avis psychiatrique + parents), cirrhose, travail sur machine, chauffeur professionnel{{%/warning%}}
 
 Occasions pour dépister un mésusage: consultation de routine, prescription d'un médicament interagissant avec l'alcool, désir de grossesse, tabagisme, jeune adulte, troubles psychiatriques, précarité, pathologie cardiovasculaire, pathologie résistante au traitement (douleur, dépression, diabète...).
 
-{{%info%}}Gamma-GT, VGM et CDT sont trop peu sensibles pour le dépistage d'un mésusage{{%/info%}}
+{{%info%}}Les marqueurs biologiques n'ont pas d'utilité dans le repérage systématique du mésusage d'alcool (*AFEF 2021*){{%/info%}}
 
 ### Pratiques à risque majorant les dommages
 
 - Consommation épisodique massive: ≥ 6 verres/occasion  
-{{%class%}}Binge drinking, biture expresse, ivresse aiguë.{{%/class%}}
+  dit binge drinking, biture expresse ou consommation importante épisodique (60g d'alcool pur en une occasion).
 - Association d'alcool et d'autre substance psychoactive
 
 {{% /collapse %}}
@@ -182,16 +188,21 @@ Demander au patient l'autorisation de parler de sa consommation d'alcool.
 {{% /collapse %}}
 {{%collapse "Intervention brève et approches motivationnelles" %}}
 
-Encourager à tenir un **agenda de la consommation**.
+{{%info%}}Une intervention brève doit être proposée aux patients identifiés comme présentant un mésusage d'alcool (*AFEF 2021*){{%/info%}}
+
+Encourager à tenir un **agenda de la consommation** et:
 
 - Informer
   - Restituer les résultats des questionnaires de consommation
-  - Informer sur les risques concernant la consommation de substance
+  - Informer sur les risques concernant la consommation de substance et les bénéfices d'une réduction de la consommation
+  - Clarifier ce qui constitue une consommation d'alcool à faible risque  
+    {{%class%}}< 10 verres/semaine et < 6 verres par occasion{{%/class%}}
 - Échanger
   - Évaluer avec le consommateur ses risques personnels et situationnels
   - Identifier les représentations et les attentes du consommateur
   - Échanger sur l'intérêt personnel de l'arrêt/réduction de la consommation
 - Définir des objectifs
+  - Identification des situations à risques et des stratégies pour y faire face
   - Expliquer les méthodes utilisables pour réduire/arrêter sa consommation
   - Proposer des objectifs et laisser le choix
   - Évaluer la motivation, le bon moment et la confiance dans la réussite de la réduction ou de l'arrêt de la consommation
@@ -251,9 +262,10 @@ Le bilan biologique est annuel:
 
 ### Maladie du foie liée à l'alcool (MFLA)
 
-Diagnostic si mésusage de l'alcool, cytolyse 2-5N prédominant sur les ASAT, GGT augmentées, élimination des autres hépatopathies.
-
+Diagnostic si mésusage de l'alcool, cytolyse 2-5N prédominant sur les ASAT, GGT augmentées, élimination des autres hépatopathies.  
 Un bilan hépatique normal permet d'exclure une MFLA significative à court terme.
+
+{{%info%}}Il est probablement recommandé d'arrêter complètement et définitivement tout usage d'alcool chez les patients atteints de cirrhose et/ou de CHC afin de limiter les risques de surmortalité (*AFEF 2021*){{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Mesures générales et suivi" %}}
@@ -305,7 +317,7 @@ Installer une alliance thérapeutique sur la définition du problème à résoud
 {{% /collapse %}}
 {{%collapse "A) Objectif: sevrage en alcool et maintien de l'abstinence" %}}
 
-Le sevrage ambulatoire est prépondérant avec un suivi médical rapproché.
+Le sevrage de l'alcool peut le plus souvent être un sevrage ambulatoire mais nécessite un suivi médical rapproché.
 
 ### Indications au sevrage hospitalier en alcool
 
@@ -331,10 +343,12 @@ Peut être prolongée en centre d'hébergement et de réinsertion sociale (CHRS)
 
 ### Thérapeutiques pour le sevrage alcoolique
 
-Lorsque l'objectif est l'abstinence, le sevrage alcoolique et tabagique combiné est recommandé.  
-La **préparation** du sevrage diminue le risque de rechute et s'inscrit dans un projet de soins.
+Lorsque l'objectif est l'abstinence, le **sevrage alcoolique et tabagique combiné préparé** est recommandé.  
+L'abstinence est la cible en complication somatique (cirrhose ++).
 
 #### Prévention du syndrome de sevrage alcoolique (SSA)
+
+{{%info%}}<< Dans la majorité des cas, le sevrage ne requiert pas de traitement pharmacologique >> *SFA 2015*{{%/info%}}
 
 {{%info%}}
 Diazépam 10 mg 1 boîte 1-1-1-1 à J1 et J2  
@@ -344,20 +358,19 @@ Diazépam 10 mg 1 boîte 1-1-1-1 à J1 et J2
 
 Doses adaptées aux symptômes résiduels et réduites chez l'adolescent et le sujet âgé.  
 Rester à la maison les 2 premiers jours, pas de conduite automobile pendant les 5 jours.  
-Consultation durant le traitement.
+Suivi rapproché durant le traitement.
 
 > *SFA 2015*
 {{%/info%}}
 
-Symptômes de sevrage: **[benzodiazépines à demi-vie longue]({{< relref "benzodiazepines.md" >}})** type diazépam max 8-10 jours (*SFA 2015*). Contre-indiquée si cirrhose.  
-Patient âgé (≥ 75 ans): oxazépam ou lorazépam en diminuant la dose 30-50%.  
-Les benzodiazépines n'ont aucune indication dans l'aide au maintien de l'abstinence.
+Symptômes de sevrage possibles jusqu'à J10 après l'arrêt de l'alcool: **[benzodiazépines à demi-vie longue]({{< relref "benzodiazepines.md" >}})** type diazépam max 8-10 jours (*SFA 2015*). Contre-indiquée si cirrhose.  
+Patient âgé (≥ 75 ans): oxazépam ou lorazépam en diminuant la dose 30-50%.
 
-Les dépressions sont fréquentes (80%) au cours du sevrage de l'alcool, mais seules 15% persistent à son issue. Recontrôler à 2-4 semaines après le début du sevrage avant d'introduire un antidépresseur.
-
-{{%info%}}<< Dans la majorité des cas, le sevrage ne requiert pas de traitement pharmacologique >> *SFA 2015*{{%/info%}}
+Les **dépressions** sont fréquentes (80%) au cours du sevrage de l'alcool, mais seules 15% persistent à son issue. Recontrôler à 2-4 semaines après le début du sevrage avant d'introduire un antidépresseur.
 
 #### Prévention des rechutes
+
+{{%info%}}Les benzodiazépines n'ont aucune indication dans l'aide au maintien de l'abstinence{{%/info%}}
 
 Prise en charge du maintien de l'abstinence des personnes dépendantes par acamprosate (ex Aotal®) ou naltrexone (ex Revia®) en première intention pour diminuer l'envie de consommer.  
 Les traitements doivent être arrêtés après 4-6 semaines si la consommation d'alcool persiste.
@@ -501,7 +514,10 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="OPs09amiMC0" title="Prise en charge de la maladie du foie liée à l'alcool (AFEF)" >}}
+
 - [Angler R et al. Dépassement des repères de consommation d'alcool à moindre risque en 2020 : résultats du Baromètre santé de Santé publique France. BEH. Novembre 2021.](http://beh.santepubliquefrance.fr/beh/2021/17/2021_17_1.html)
+- [Louvet A. et al. Prise en charge de la maladie du foie liée à l'alcool. Recommandations de l'Association française pour l'étude du foie et de la Société française d'alcoologie. Janvier 2021.](https://afef.asso.fr/wp-content/uploads/2021/01/Recommandations-AFEF-SFA-sur-Prise-en-charge-de-la-maladie-du-foie-liee-a-lalcool.pdf)
 - [HAS. Outil d'aide au repérage précoce et intervention brève : alcool, cannabis, tabac chez l'adulte. Janvier 2021.](https://www.has-sante.fr/jcms/c_1795221/fr/outil-d-aide-au-reperage-precoce-et-intervention-breve-alcool-cannabis-tabac-chez-l-adulte)
 - [Addictions France. Les repères de consommation des boissons alcooliques. Novembre 2018. (PDF)](https://addictions-france.org/datafolder/uploads/2021/02/Fiche-Reperes-Reperes-alcool.pdf)
 - [SFA, ANPAA, EUFAS. Mésusage de l'alcool dépistage, diagnostic et traitement. 2015.](http://www.sfalcoologie.asso.fr/download/RBP2014-SFA-Mesusage-AA.pdf)
@@ -511,7 +527,6 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 ### À lire
 
-- [Louvet A. et al. Prise en charge de la maladie du foie liée à l'alcool. Recommandations de l'Association française pour l'étude du foie et de la Société française d'alcoologie. Janvier 2021.](https://afef.asso.fr/wp-content/uploads/2021/01/Recommandations-AFEF-SFA-sur-Prise-en-charge-de-la-maladie-du-foie-liee-a-lalcool.pdf)
 - <https://www.cen-neurologie.fr/fr/deuxieme-cycle/addiction-lalcool-complications-neurologiques-lalcoolisme>
 - <https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa>
 - <http://www.addictologie.org/spip.php?page=avectitre&id_rubrique=8>

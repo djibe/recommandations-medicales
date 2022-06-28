@@ -1,13 +1,13 @@
 +++
 title = "Goutte"
 prefix = "la "
-description = "Recommandations SFR pour la prise en charge de la goutte. Uricémie cible, traitement de crise par colchicine et indication au traitement de fond allopurinol"
+description = "Recommandations SFR pour la prise en charge de la goutte. Uricémie cible, traitement de crise par colchicine et indications au traitement de fond allopurinol"
 longHtml = true
-synonyms = ["hyperuricémie", "arthropathie uricémique"]
+synonyms = ["Hyperuricémie", "arthropathie uricémique"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-01-08T09:35:00+02:00
-publishdate = 2021-01-08
-lastmod = 2022-01-10
+date = "2021-01-08T09:35:00+02:00"
+publishdate = "2021-01-08"
+lastmod = "2022-01-10"
 specialites = ["rhumatologie"]
 annees = "2020"
 sources = ["SFRhumato", "ACR", "EULAR"]
@@ -27,7 +27,7 @@ todo = "relecture demandée, HAS, https://www.ebmfrance.net/fr/Pages/ebm/ebm0045
   Glaçage, paracétamol, naproxène, forcer la diurèse.  
   Privilégier l'infiltration en monoarthrite de grosse articulation.
 - Traitement de fond  
-  Allopurinol titration en débutant ≤ 100 mg/j avec uricémie cible < 50 mg/L et couverture colchicine 0,5-1 mg/j ≥ 3-6 mois.  
+  Allopurinol titration en débutant ≤ 100 mg/j avec uricémie cible < 50 mg/L et couverture colchicine 0,5-1 mg/j 3-6 mois.  
   Peut être débuté pendant la crise.
 - Régime  
   Perte poids, arrêt bière, réduire alcool/sodas/jus, viandes/abats, crustacés, laits maigres, substituer diurétique.
@@ -68,6 +68,8 @@ SFR
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+Signes et symptômes de la crise de goutte.
+
 ### Interrogatoire
 
 - Facteurs de risques cardiovasculaire  
@@ -99,7 +101,7 @@ SFR
 
 ### Bilan devant une crise de goutte
 
-Complète le bilan des facteurs de risque cardiovasculaire.
+Le bilan étaie les facteurs de risque cardiovasculaire.
 
 - Créatininémie et DFGe CKD-EPI
 - Uricémie
@@ -224,7 +226,7 @@ Canakinumab (Ilaris®) 150 mg SC dose unique. Intervalle de 12 semaines entre 2 
 
 {{%info%}}
 
-### Indications au traitement de fond
+### Indications au traitement de fond chez le goutteux
 
 Recommandations pour la prise en charge par traitement de fond selon la *SFRhumato*: à débuter dès que le diagnostic de goutte symptomatique est posé avec cible d'uricémie < 50 mg/L car la goutte est un facteur de risque indépendant de mortalité prématurée.
 
@@ -254,7 +256,7 @@ Prévention de crise par colchicine 0,5-1 mg/j pendant 3-6 premiers mois (altern
 L'*ACR* recommande la recherche *HLA–B*5801* pour les personnes originaires d'Asie du Sud-Est (Chine, Thaïlande, Corée) et afro-américains par sur-risque de toxidermie (x3).  
 Non remboursé, il est prudent de démarrer à 50 mg avec paliers de 50 mg pour ces personnes.
 
-#### Traitement de fond selon la fonction rénale
+#### Traitement de fond privilégié selon la fonction rénale
 
 - Clairance > 60 mL/min/1,73m²  
   Allopurinol.
@@ -263,7 +265,7 @@ Non remboursé, il est prudent de démarrer à 50 mg avec paliers de 50 mg pour 
 - Clairance < 30  
   Fébuxostat uniquement.
 
-### Précisions sur le traitement de fond
+### Précisions sur le traitement de fond de la goutte
 
 - Surveillance de l'uricémie 1 à 2/an
 - Si fonction rénale altérée:  
@@ -314,6 +316,8 @@ Autre traitement de fond: ~~~benzbromarone~~~ (Desuric®, retiré en 2008).
 {{% /collapse %}}
 {{%collapse "Surveillance du traitement" %}}
 
+La goutte étant une maladie chronique, les points suivants doivent être repris régulièrement:
+
 - Connaissances sur l'automédication des crises
 - Fréquence des crises, arthropathie microcristalline, tophus, lithiases uriques
 - Biologique
@@ -322,9 +326,9 @@ Autre traitement de fond: ~~~benzbromarone~~~ (Desuric®, retiré en 2008).
   - Surveillance cardiovasculaire
 
 {{% /collapse %}}
-{{% collapse "Conduite à tenir devant une crise de goutte" "show" %}}
+{{% collapse "Prise en charge de la crise de goutte" "show" %}}
 
-{{< mermaid title="Conduite à tenir thérapeutique devant une crise de goutte. Dr JB Fron d'après SFR et ACR 2020" >}}
+{{< mermaid title="Conduite à tenir devant une crise de goutte. Dr JB Fron d'après SFR et ACR 2020" >}}
 graph TB
   crise[Crise de goutte] --> rhd("- Éducation<br>- Traitement à avoir sur soi<br>- Envisager hypouricémiant")
   style crise stroke:#4150f5, stroke-width:1px
@@ -345,9 +349,9 @@ AINS = naproxène 750 mg puis 250 mg x 3/j.
 Corticoïdes = 30 mg/j prednisone 3-5 jours.
 
 {{%/collapse%}}
-{{% collapse "Conduite à tenir pour le traitement hypouricémiant" "show" %}}
+{{% collapse "Prise en charge de la goutte par traitement de fond hypouricémiant" "show" %}}
 
-{{< mermaid title="Prise en charge de la goutte par le traitement hypouricémiant. Dr JB Fron d'après SFR et ACR 2020" >}}
+{{< mermaid title="Conduite à tenir pour le traitement hypouricémiant de fond du patient goutteux. Dr JB Fron d'après SFR et ACR 2020" >}}
 graph TB
   diagnostic[Diagnostic de goutte] --> education(<b>Éducation</b><hr>- Traitement sur soi<br>- RHD) --> criteres("<b>Critères de traitement</b><hr>- SFRhumato: dès la 1<sup>re</sup> crise<br>- ACR:<br>&ge; 1 tophus, lésions radiologiques,<br>&ge; 2 crises/an,<br>critères annexes (Voir ttt fond)")
   style diagnostic stroke:#4150f5, stroke-width:1px
@@ -369,6 +373,8 @@ Uricémie cible < 50 mg/L (300 µmol/L)
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
+
+Éducation du patient goutteux:
 
 - Les douleurs sont causées par les dépôts d'urate de sodium dans les articulations
 - Importance du régime et surtout de la réduction de l'alcool

@@ -8,7 +8,7 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2022-05-01"
+lastmod = "2022-06-27"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HCSP", "MinSanté", "HAS"]
@@ -88,14 +88,15 @@ Toutes les conditions doivent être remplies
 2. Test antigénique ou RT-PCR positif
 3. Pas d'oxygénothérapie nécessaire
 4. Début des symptômes depuis ≤ 5 jours
-5. Absence de contre-indication au traitement (voir *Document HAS officiel*)
+5. [Absence de contre-indication au traitement](https://www.ameli.fr/sites/default/files/Documents/Prescription-Paxlovid-en-ville.pdf)
+    - Insuffisance hépatique sévère (Child C)
+    - Insuffisance rénale sévère (clairance < 30 mL/min)
+    - Médicaments contr-indiqués liés au CYP3A (voir ci-dessous item 6)
 6. [Contrôle obligatoire des interactions du Paxlovid](https://sfpt-fr.org/recospaxlovid)
 
 ### Prescrire le Paxlovid
 
-Prescription en accès précoce sur: <https://www.ap-paxlovid.com/> (nécessite CPS ou [e-CPS]({{< relref "cabinet/e-cps.md" >}}))
-
-{{%info%}}Nirmatrelvir 150 mg 2 cp + Ritonavir 100 mg per os toutes les 12h pendant 5 jours{{%/info%}}
+{{%info%}}Paxlovid®: Nirmatrelvir 150 mg 2 cp + Ritonavir 100 mg 1 cp per os toutes les 12h pendant 5 jours{{%/info%}}
 
 {{%/collapse%}}
 {{%collapse "Vaccination" %}}

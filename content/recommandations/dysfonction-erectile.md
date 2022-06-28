@@ -83,7 +83,7 @@ MCV
 {.dl-inline}
 
 {{%/collapse%}}
-{{%collapse "Contre-indications à la prescription d'IPDE5" %}}
+{{%collapse "Contre-indications à la prescription des IPDE5" %}}
 
 Restrictions à la prescription d'emblée d'iPDE-5 avec avis cardiologique systématique:
 
@@ -101,7 +101,7 @@ Paraphilie, psychose instable: pas d'IPDE5 avant avis psychiatrique.
 
 {{%info%}}La dysfonction érectile est un diagnostic d'interrogatoire: << Donc, vous avez un problème d'érection pendant les rapports ? >>{{%/info%}}
 
-### En bref
+### Points essentiels pour guider l'examen en cas de dysfonction érectile
 
 1. Diagnostic positif de dysfonction érectile  
   Incapacité à obtenir et/ou à maintenir une érection suffisante pour une activité sexuelle satisfaisante.

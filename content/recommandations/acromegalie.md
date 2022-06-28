@@ -40,7 +40,7 @@ IGF-1
 {{% /collapse %}}
 {{%collapse "Clinique de l'acromégalie" %}}
 
-Le diagnostic est souvent retardé (~5 ans) devant l'installation progressive des symptômes de l'acromégalie.
+Le diagnostic est souvent retardé (~5 ans) devant l'installation progressive des signes et symptômes de l'acromégalie.
 
 Adresser au [centre de compétence ou de référence HYPO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/carte/document/) en cas de suspicion d'acromégalie:
 
@@ -91,7 +91,7 @@ L'IRM hypophysaire retrouve souvent une tumeur.
 {{% /collapse %}}
 {{%collapse "Traitement de l'acromégalie" %}}
 
-{{%info%}}La prise en charge dépend du centre spécialisé et le suivi doit être annuel{{%/info%}}
+{{%info%}}La prise en charge de l'acromégalie dépend du centre spécialisé et le suivi doit être annuel{{%/info%}}
 
 - [ALD 31]({{< relref "affection-longue-duree.md" >}})
 - MDPH
@@ -99,10 +99,9 @@ L'IRM hypophysaire retrouve souvent une tumeur.
 - Soutien psychologique
 - Lutte contre le [risque cardiovasculaire](/tags/risque-cardiovasculaire/)
 - Programmes d'éducation thérapeutique au sein des centres de référence
-- Association de patients  
-  [Acromégales Pas Seulement](https://www.acromegalie-asso.org/)
+- Association de patients: [Acromégales Pas Seulement](https://www.acromegalie-asso.org/)
 
-### Pour en savoir plus: traitement
+### Pour en savoir plus: traitement hormonal de l'acromégalie
 
 Le traitement de première intention est chirurgical avec exérèse de la tumeur hypophysaire somatotrope.
 

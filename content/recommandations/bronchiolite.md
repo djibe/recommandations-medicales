@@ -64,19 +64,19 @@ OU dyspnée sifflante après 12 mois (sans autre cause).
 
 - Difficultés d'alimentation
 - Détresse respiratoire aiguë  
-{{%class%}}Surtout nourrisson < 6 semaines.{{%/class%}}
+  {{%class%}}Surtout nourrisson < 6 semaines.{{%/class%}}
 - Infection bactérienne concomitante  
-{{%class%}}*Haemophilus*, pneumocoque, *M. catarrhalis*.{{%/class%}}
+  {{%class%}}*Haemophilus*, pneumocoque, *M. catarrhalis*.{{%/class%}}
 - Asthme du nourrisson
 - Pulmonaires  
-Rares: bronchiolites oblitérantes, dilatation des bronches.
+  Rares: bronchiolites oblitérantes, dilatation des bronches.
 
-### Épidémiologie
+### Épidémiologie de la bronchiolite en France
 
 - 30% des nourrisson atteints chaque hiver  
-Pic chez les 2 à 8 mois.
+  Pic chez les 2 à 8 mois.
 - Taux d'hospitalisation: 0,6/1000 (2010)  
-Hétérogénéité selon les centres.
+  Hétérogénéité selon les centres.
 - 1 à 2% de cas graves
 
 ### Abréviations
@@ -97,38 +97,38 @@ SCM
 {{% /collapse %}}
 {{%collapse "Formes cliniques de bronchiolite" "show" %}}
 
-### 3 formes cliniques: légère, modérée et grave
+### 3 formes cliniques de bronchiolite: légère, modérée et grave
 
 {{< table title="Formes cliniques de la bronchiolite selon HAS/CNPP 2019" class="table-wrap">}}
 | Forme clinique                      | Légère                | Modérée                        | Grave                                        |
 |-------------------------------------|-----------------------|--------------------------------|----------------------------------------------|
 | AEG                                 | Non                   | Non                            | Oui                                          |
-| FR (/min)                           | &lt; 60               | 60-69                          | &ge; 70 ou &lt; 30<br>ou respiration superficielle |
-| FC (&gt; 180 ou &lt; 80/min)        | Non                   | Non                            | Oui                                          |
+| FR (/min)                           | < 60                  | 60-69                          | ≥ 70 ou < 30<br>ou respiration superficielle |
+| FC (> 180 ou < 80/min)              | Non                   | Non                            | Oui                                          |
 | Utilisation des muscles accessoires | Légère                | Modérée                        | Intense                                      |
-| SpO<sub>2</sub> (%)                 | &gt; 92               | 90 &lt; SpO<sub>2</sub> &le; 92  | &le; 90 ou cyanose                         |
-| Alimentation (%)                    | &gt; 50               | &lt; 50 sur 3 prises consécutives| Réduction importante<br>ou refus           |
-| Interprétation                      | Critères tous remplis | &ge; 1 critère<br>(et non grave) | ≥ 1 critère                                |
+| SpO<sub>2</sub> (%)                 | > 92                  | 90 < SpO<sub>2</sub> ≤ 92      | ≤ 90 ou cyanose                              |
+| Alimentation (%)                    | > 50                  |< 50 sur 3 prises consécutives  | Réduction importante<br>ou refus             |
+| Interprétation                      | Critères tous remplis | ≥ 1 critère<br>(et non grave)  | ≥ 1 critère                                  |
 {{< /table >}}
 
 {{% /collapse %}}
-{{%collapse "Signes de gravité et hospitalisation" %}}
+{{%collapse "Signes de gravité de la bronchiolite et hospitalisation" %}}
 
 ### Indications à l'hospitalisation lors d'une première bronchiolite
 
 L'hospitalisation est la règle en présence de signe de gravité (*forme grave* ou *modérée* avec certains paramètres) avec appel du 15:
 
 - Altération de l'état général  
-Modification du comportement, hypotonie, mauvaise impression clinique.
+  Modification du comportement, hypotonie, mauvaise impression clinique.
 - ≥1 critère de gravité
   - Fréquence respiratoire sur 1 minute (> 60 ou < 30/min)
   - Fréquence cardiaque (> 180 ou < 80/min)
   - Apnées/pauses respiratoires
   - Respiration superficielle
   - Signes de lutte respiratoire intenses  
-  Mise en jeu des muscles accessoires intercostaux inférieurs, SCM, balancement thoraco abdominal, battement des ailes du nez.
+  Mise en jeu des muscles accessoires intercostaux inférieurs, SCM, balancement thoraco-abdominal, battement des ailes du nez.
   - Alimentation  
-  < 50% de la quantité habituelle sur 3 prises consécutives ou refus alimentaire.
+    < 50% de la quantité habituelle sur 3 prises consécutives ou refus alimentaire.
   - SpO<sub>2</sub> < 92%
   - Prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j ET < 6 mois en début d'épidémie de VRS (indication palivizumab)
 - Forme modérée avec
@@ -144,10 +144,10 @@ Vigilance accrue en forme légère avec signe de fragilité:
 
 - Début des des symptômes respiratoires depuis < 48 heures
 - Âge corrigé < 2 mois  
-{{%class%}}Risque d'apnées.{{%/class%}}
+  {{%class%}}Risque d'apnées.{{%/class%}}
 - Prématurité < 36 SA
 - Comorbidités  
-Cardiopathie congénitale avec shunt, pathologie pulmonaire chronique dont dysplasie broncho-pulmonaire, déficit immunitaire, pathologie neuromusculaire, polyhandicap, trisomie 21, indication de traitement par palivizumab.
+  Cardiopathie congénitale avec shunt, pathologie pulmonaire chronique dont dysplasie broncho-pulmonaire, déficit immunitaire, pathologie neuromusculaire, polyhandicap, trisomie 21, indication de traitement par palivizumab.
 - Contexte social ou économique défavorable
 - Tabagisme passif
 - Capacité de recours aux soins ne permettant pas un retour au domicile
@@ -163,17 +163,19 @@ Cardiopathie congénitale avec shunt, pathologie pulmonaire chronique dont dyspl
 
 {{%info%}}L'examen est réalisé APRÈS une DRP{{%/info%}}
 
+Signes et symptômes de la bronchiolite:
+
 - Antécédents  
-Asthme, néonataux.
+  Asthme, néonataux.
 - Pollution  
-Tabagisme, cannabis, cigarette électronique, poêle à bois.
+  Tabagisme, cannabis, cigarette électronique, poêle à bois.
 - Contage
 - **Incubation 2-8 jours**, élimination en 3-7 jours (pouvant aller jusqu'à 1 mois)  
 - **Aggravation dans les 48 premières heures**  
-Noter la date de début et tenir compte des facteurs de vulnérabilité et d'environnement.
+  Noter la date de début et tenir compte des facteurs de vulnérabilité et d'environnement.
 - Rhinopharyngite aiguë peu fébrile avec toux sèche, rhinorrhée
 - **Phase d'état**  
-Dyspnée avec polypnée, geignements expiratoires (grunting)
+  Dyspnée avec polypnée, geignements expiratoires (grunting)
 
 ### Examen clinique
 
@@ -238,7 +240,7 @@ L'injection intra-musculaire mensuelle est très douloureuse (max 5 injections).
 
 Hospitalisation si critères ci-dessus.
 
-### Traitement symptomatique
+### Prise en charge symptomatique de la bronchiolite
 
 [Fiche conseils aux parents (HAS/CNPP, PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 
@@ -264,7 +266,7 @@ Fractionnement des repas, pas de modification du régime habituel.
 
 {{%warning%}}Ne pas utiliser: bronchodilatateurs, corticoïdes, antibiotiques, anti-reflux, antitussifs et fluidifiants{{%/warning%}}
 
-### Traitement médical
+### Traitement médical d'une bronchiolite aiguë
 
 Réservé à l'hospitalisation.
 
@@ -275,11 +277,11 @@ Réservé à l'hospitalisation.
   - Forme modérée avec SpO<sub>2</sub> ≤ 92%: cible > 92% éveil et 90% sommeil
   - Cardiopathie: cible habituelle ou > 92% par défaut
 - Discuter une antibiothérapie si:
-fièvre ≥ 38,5°C pendant > 48h, OMAP associée, pathologie pulmonaire ou cardiaque sous-jacente, foyer pulmonaire radiologiquement documenté, élévation CRP/PNN.
+  fièvre ≥ 38,5°C pendant > 48h, OMAP associée, pathologie pulmonaire ou cardiaque sous-jacente, foyer pulmonaire radiologiquement documenté, élévation CRP/PNN.
 
-### Kinésithérapie respiratoire
+### Kinésithérapie respiratoire et bronchiolite
 
-Globalement non indiquée. Peut se discuter si comorbidités pour une surveillance ambulatoire.  
+Globalement la kinésithérapie respiratoire n'est pas indiquée. Peut se discuter si comorbidités pour une surveillance ambulatoire.  
 Comprend la DRP, l'expiration lente prolongée/augmentation du flux expiratoire (AFE, non recommandée en hospitalisation), toux provoquée (TP).
 
 Sont contre-indiquées: drainage postural, vibration, clapping, désencombrement bronchique (en ambulatoire).
@@ -341,7 +343,7 @@ Revenir consulter rapidement si:
 - détérioration de l'état respiratoire
 - majoration de la fièvre
 
-### Explications
+### Explications sur la bronchiolite à remettre aux parents
 
 Maladie liée à un virus qui touche le petit enfant, évoluant le plus souvent vers la guérison en une dizaine de jours.
 Petite fièvre, nez qui coule, toux sèche, respiration difficile et sifflante.

@@ -1,5 +1,5 @@
 +++
-title = "Article"
+title = "Grossesse"
 titleSeo = "In case of long title or delete whole line"
 prefix = "la "
 description = "160 characters max"

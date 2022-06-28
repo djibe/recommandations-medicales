@@ -6,9 +6,9 @@ description = "Recommandations pour le dépistage et le diagnostic de la maladie
 synonyms = ["Intolérance au gluten", "allergie au gluten", "sprue cœliaque", "cœliaquie"]
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CELLIER (SNFGE)"
-date = 2020-04-16T12:31:11+02:00
-publishdate = 2020-04-16
-lastmod = 2022-03-29
+date = "2020-04-16T12:31:11+02:00"
+publishdate = "2020-04-16"
+lastmod = "2022-03-29"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["ESsCD", "HAS", "SNFGE"]
@@ -56,7 +56,7 @@ IgA anti-transglutaminase
 - Altération de la qualité de vie
 - [Ostéoporose]({{< relref "osteoporose.md" >}}) et fracture osseuse
 
-### Épidémiologie
+### Épidémiologie de la maladie cœliaque
 
 - **Prévalence:** 1% dans le monde en l'absence d'antécédents familiaux.
 - 700.000 malades cœliaques en France. Seulement **10 à 20%** seraient diagnostiqués.
@@ -65,16 +65,14 @@ IgA anti-transglutaminase
 - 2 à 3 fois plus fréquente chez la femme.
 
 {{%/collapse%}}
-{{%collapse "Facteurs de risque de maladie cœliaque" %}}
+{{%collapse "Facteurs de risque de maladie coeliaque" %}}
 
 - Antécédents familiaux  
-Peu importe le degré, 10%.
-- [Diabète de type 1]({{< relref "diabete-type-1.md" >}})  
-Prévalence 3-10%.
+  Peu importe le degré, 10%.
+- [Diabète de type 1]({{< relref "diabete-type-1.md" >}}) (3-10%)
 - Maladie de [Hashimoto]({{< relref "hypothyroidie.md" >}}) ou de Basedow
 - HLA-DQ2 et HLA-DQ8
-- Autres  
-Voir *Qui dépister par sérologie ?*
+- Autres: voir *Qui dépister par sérologie ?*
 
 {{%/collapse%}}
 {{%collapse "Qui dépister par fibroscopie d'emblée ?" %}}
@@ -90,9 +88,10 @@ Prise en charge pae endoscopie digestive d'emblée pour le diagnostic de la mala
 - Dermatite herpétiforme confirmée par biopsie cutanée
 - Atrophies des villosités observée en vidéocapsule
 - Iléostomie ou colostomie avec hyperdébit non expliqué
+{.list-group}
 
 {{%/collapse%}}
-{{%collapse "Qui dépister par sérologie ?" %}}
+{{%collapse "Qui dépister par sérologie coeliaque ?" %}}
 
 - Syndrome de l'intestin irritable (SII)
 - Transaminases augmentées inexpliquées
@@ -120,11 +119,11 @@ ou maladie de Basedow
 {{%/collapse%}}
 {{%collapse "Clinique" %}}
 
-### Symptômes
+### Symptômes de la maladie cœliaque
 
 #### De la malabsorption
 
-- Diarrhée chronique
+- [Diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
 - Stéatorrhée
 - Amaigrissement
 - Retard de croissance
@@ -132,7 +131,7 @@ ou maladie de Basedow
 
 #### Autres symptômes
 
-- Anémie
+- [Anémie]({{< relref "anemie.md" >}})
 - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}}) (RGO)
 - Œsophagite à éosinophiles
 - Neuropathie
@@ -140,7 +139,7 @@ ou maladie de Basedow
 - Dépression
 - Asthénie
 - Petite taille
-- Pathologie osseuse. Ostéomalacie, ostéoporose
+- Pathologie osseuse: Ostéomalacie, ostéoporose
 - Transaminases élevées
 - Complications gravidiques
 - Lymphome du grêle
@@ -220,7 +219,7 @@ Recommandations pour la prise en charge de la maladie cœliaque:
 {{% /collapse%}}
 {{%collapse "Suivi médical" %}}
 
-Par le gastro-entérologue et le diététicien spécialisé.
+Suivi de la maladie cœliaque par le gastro-entérologue et le diététicien spécialisé.
 
 {{< table title="Suivi de la maladie cœliaque" >}}
 | Période          | Bilan associé |
@@ -239,15 +238,15 @@ Par le gastro-entérologue et le diététicien spécialisé.
 {{% /collapse%}}
 {{%collapse "Information du patient" %}}
 
-- [Proposer de participer à la cohorte ComPare de l'APHP](https://compare.aphp.fr/)
 - Éviction définitive et maximale du gluten
 - Aliments à éviter
 - Gestes culinaires et de conservation des aliments
 - Mesures pour régime sans gluten équilibré à vie
 - Association de patients  
   [Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
+- [Proposer de participer à la cohorte ComPare de l'APHP](https://compare.aphp.fr/)
 
-### Aliments à éviter en allergie au gluten
+### Aliments à éviter en cas d'allergie au gluten
 
 [SNFGE/CREGG. Alimentation sans gluten. (PDF)](https://www.snfge.org/sites/default/files/recommandations/alimentation_sans_gluten-snfge-cregg_2017.pdf)
 

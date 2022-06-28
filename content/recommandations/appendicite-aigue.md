@@ -27,6 +27,7 @@ todo = "FLOW, summary, https://www.sciencedirect.com/science/article/pii/B978229
 {{%collapse "Définitions" %}}
 
 Appendicite aiguë
+: *Crise d'appendicite* en langage populaire.
 : Inflammation de l'appendice du cæcum (diverticule ~10cm du côlon droit de fonction inconnue) pouvant survenir à tout âge (6 ans - 40 ans ++).  
 Tableau de douleurs abdominales aiguës avec fébricule. Le diagnostic est difficile et le traitement de référence est chirurgical (environ 60.000/an).
 : La cause serait une obstruction de la lumière appendiculaire (stercolithe, ascaris), de la paroi (hyperplasie lymphoïde, tumeur) ou du cæcum.
@@ -51,6 +52,7 @@ SFU
 
 TDM
 : tomodensitométrie (ou scanner)
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -68,9 +70,10 @@ Diagnostics différentiels de l'appendicite aiguë:
 {.list-group}
 
 {{% /collapse %}}
-{{%collapse "Clinique" %}}
+{{%collapse "Clinique de l'appendicite aiguë" %}}
 
-La clinique n'est pas suffisante pour le diagnostic d'appendicite aiguë.
+La clinique n'est pas suffisante pour le diagnostic d'appendicite aiguë.  
+Signes et symptômes faisant évoquer une appendicite aiguë:
 
 ### Interrogatoire
 
@@ -141,9 +144,9 @@ Aucun score typant le syndrome inflammatoire ne s'est révélé discriminant.
 
 > *Bilan non exhaustif du CDU-HGE*
 
-### Imagerie de l'appendicite
+{{%info%}}En l'absence de signes cliniques (douleur migrant en FID) ET biologiques (NFS et CRP normaux), le diagnostic d'AA est peu probable. Possible exploration par imagerie ou surveillance clinique adaptée au contexte{{%/info%}}
 
-En l'**absence** de signes cliniques (douleur migrant en FID) ET biologiques (NFS et CRP normaux), le diagnostic d'AA est peu probable. Possible exploration par imagerie ou surveillance clinique adaptée au contexte.
+### Imagerie de l'appendicite
 
 **Échographie abdominale** par examinateur entraîné ou **scanner abdominal** (+75 ans et obèse ++) avec injection.  
 Après une échographie normale, contrôler avec un opérateur entraîné ou scanner.
