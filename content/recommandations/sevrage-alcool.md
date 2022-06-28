@@ -31,6 +31,7 @@ todo = "Kits addiction https://lecmg.fr/addictionsmg/, KEY x3 sevrage ambulatoir
 - 0 alcool pendant la grossesse et chez les enfants
 - Mésusage: 1 homme sur 3 et 1 femme sur 6
 - Prise en charge des co-addictions (tabac, cannabis), complications somatiques et troubles psychiatriques ([MonPsy]({{< relref "remboursement-psychologue-monpsy.md" >}}), dépression, anxiété...)
+- Diagnostic de Maladie du foie liée à l'alcool (MFLA): mésusage de l'alcool + cytolyse 2-5N prédominant sur les ASAT + GGT augmentées et élimination des autres hépatopathies. Test de fibrose hépatique, arrêt du tabac et lutte surpoids, suivi addictologique
 - Accepter l'objectif de consommation du sujet car toute réduction de consommation est positive. + efficace: auto-évaluation quotidienne de la consommation
 - Abstinence est préférable en dépendance à l'alcool ou comorbidités. Si non souhaitée, accompagnement vers la réduction des dommages
 
@@ -44,6 +45,10 @@ Alcool
 : Concentration plasmatique maximale atteinte en 45 minutes (90 pendant un repas). 95% est éliminé par le foie.
 : Un verre standard contient 10 grammes d'alcool pur (éthanol). Marqueurs de consommation: **VGM** (diminue en 3 mois à l'arrêt) + **GGT** (peu sensible avant 30 ans, diminue de 50% tous les 15 jours à l'arrêt).
 : Objectifs principaux de la prise en charge du mésusage: éviter l'évolution vers des complications somatiques ou psychiatriques, réduire les dommages consécutifs et améliorer la qualité de vie des patients.
+
+Stéatopathie métabolique
+: Devrait être appelée *stéatoses hépatiques métaboliques* ({{%lang%}}Non-Alcoholic Fatty Liver Disease (NAFLD){{%/lang%}})
+: Lésions hépatiques non liées à l'alcool mais par insulino-résistance et inflammation métabolique liées à un surpoids.
 
 ### 5 catégories d'usage de l'alcool
 
@@ -161,7 +166,7 @@ Occasions pour dépister un mésusage: consultation de routine, prescription d'u
 - Association d'alcool et d'autre substance psychoactive
 
 {{% /collapse %}}
-{{%collapse "Évaluation si consommation à risque" %}}
+{{%collapse "Évaluation d'une consommation à risque" %}}
 
 L'entretien motivationnel est empathique avec une écoute sans jugement et une acceptation inconditionnelle de la situation (acceptation et bienveillance), c'est un accompagnement.  
 Demander au patient l'autorisation de parler de sa consommation d'alcool.
@@ -244,7 +249,7 @@ Rechercher les complications d'un mésusage de l'alcool et proposer un suivi sp�
   - Érythrose du visage, hyperémie conjonctivale
   - Troubles digestifs
   - Maladie du foie liée à l'alcool (MFLA)  
-    Stéatose > stéato-hépatite > cirrhose.
+    Stéatose > stéato-hépatite (90% des buveurs excessifs) > cirrhose (10-20% des buveurs excessifs).
   - Polynévrite
   - {{< modal-btn modal-mna >}}Dépister une dénutrition (MNA){{< /modal-btn >}}
 
@@ -254,16 +259,42 @@ Le bilan biologique est annuel:
 
 - NFS
 - ASAT, ALAT, GGT, PAL, TP
+- Bilirubinémie
 - Sérologies [hépatite B]({{< relref "hepatite-b.md" >}}) et [hépatite C]({{< relref "hepatite-c.md" >}})
 - Sérologie VIH si expositions à risque
+- Occasionnel: glycémie à jeun et bilan lipidique
+- Si MFLA: Fibroscan® ou biologique (Fibrotest® ou Fibromètre Alcool®)  
+  Interprétation des résultats selon les taux d'ASAT et bilirubine.
 - Consultation ORL
 - Consultation dentaire
 - Troubles neurologiques: bilan de [dénutrition]({{< relref "denutrition.md" >}}) et carences (B1 ++)
 
 ### Maladie du foie liée à l'alcool (MFLA)
 
-Diagnostic si mésusage de l'alcool, cytolyse 2-5N prédominant sur les ASAT, GGT augmentées, élimination des autres hépatopathies.  
+#### Chez qui dépister la maladie du foie liée à l'alcool ?
+
+Âge ≥ 40 ans ET score AUDIT-C pathologique
+ou/et consommation déclarée ≥ 14 verres/semaine
+
+#### Critères diagnostiques de la maladie du foie liée à l'alcool
+
+**Diagnostic de MFLA devant: mésusage de l'alcool, cytolyse 2-5N prédominant sur les ASAT, GGT augmentées, élimination des autres hépatopathies.**  
+En cas de MFLA: test non invasif de fibrose hépatique systématique (Fibroscan® ou biologique: Fibrotest® ou Fibromètre Alcool®), arrêt du tabac et correction d'un surpoids, **suivi addictologique spécialisé**.  
 Un bilan hépatique normal permet d'exclure une MFLA significative à court terme.
+
+{{< table title="Seuils diagnostiques du Fibrotest®, du FibroMètre Alcool®, et du FibroScan® dans la maladie du foie liée à l'alcool selon AFEF 2021" >}}
+|                                                         | Fibrose septale | Fibrose sévère | Cirrhose |
+|---------------------------------------------------------|----------------:|---------------:|---------:|
+| Fibrotest                                               |            0,49 |           0,59 |     0,75 |
+| FibroMètre Alcool                                       |           0,593 |                |    0,947 |
+| **FibroScan (kPa)**                                     |                 |                |          |
+| ASAT < 38,7 UI/L et bili < 9 µmol/L                     |             6,9 |            8,8 |     12,1 |
+| ASAT 38,7-75 et bili < 9<br>ou ASAT < 38,7 et bili 9-16 |             8,1 |           11,2 |     15,4 |
+| ASAT 38,7-75 et bili 9-16                               |             8,8 |           12,3 |     19,9 |
+| ASAT > 75 et bili < 9                                   |            11,6 |           16,1 |     25,9 |
+{{< /table >}}
+
+> **Fibrose septale** = Metavir F≥2, NASH CRN F≥3 ; **Fibrose sévère** = Metavir F≥3 ; **Cirrhose** = Metavir F4, NASH CRN F4
 
 {{%info%}}Il est probablement recommandé d'arrêter complètement et définitivement tout usage d'alcool chez les patients atteints de cirrhose et/ou de CHC afin de limiter les risques de surmortalité (*AFEF 2021*){{%/info%}}
 
@@ -351,28 +382,42 @@ L'abstinence est la cible en complication somatique (cirrhose ++).
 {{%info%}}<< Dans la majorité des cas, le sevrage ne requiert pas de traitement pharmacologique >> *SFA 2015*{{%/info%}}
 
 {{%info%}}
-Diazépam 10 mg 1 boîte 1-1-1-1 à J1 et J2  
-1-1-1 J3  
-1-0-1 J4  
-0-0-1 J5 et arrêt (max 10)
+Diazépam 5 mg 2-2-2-2 à J1  
+1-1-1-1 à J2 et 3  
+1-1-1 J4  
+1-0-1 J5 et arrêt (max 10)
 
 Doses adaptées aux symptômes résiduels et réduites chez l'adolescent et le sujet âgé.  
 Rester à la maison les 2 premiers jours, pas de conduite automobile pendant les 5 jours.  
 Suivi rapproché durant le traitement.
 
-> *SFA 2015*
+> *AFEF 2021 et SFA 2015*
 {{%/info%}}
 
-Symptômes de sevrage possibles jusqu'à J10 après l'arrêt de l'alcool: **[benzodiazépines à demi-vie longue]({{< relref "benzodiazepines.md" >}})** type diazépam max 8-10 jours (*SFA 2015*). Contre-indiquée si cirrhose.  
-Patient âgé (≥ 75 ans): oxazépam ou lorazépam en diminuant la dose 30-50%.
+Symptômes de sevrage possibles jusqu'à J10 après l'arrêt de l'alcool: **[benzodiazépines à demi-vie longue]({{< relref "benzodiazepines.md" >}})** type diazépam max 8-10 jours (*SFA 2015*).  
+Patient âgé (≥ 75 ans) ou cirrhotique: oxazépam ou lorazépam en diminuant la dose 30-50%.
 
 Les **dépressions** sont fréquentes (80%) au cours du sevrage de l'alcool, mais seules 15% persistent à son issue. Recontrôler à 2-4 semaines après le début du sevrage avant d'introduire un antidépresseur.
+
+##### Signes et symptômes du sevrage alcoolique
+
+Troubles subjectifs
+: anxiété, agitation, irritabilité, insomnie, cauchemars
+
+Troubles neurovégétatifs
+: sueurs, tremblements, tachycardie, hypertension artérielle
+
+Troubles digestifs
+: anorexie, nausées, vomissements, diarrhée
+{.dl-inline}
+
+**Confusion**: évoquer encéphalopathie hépatique (cirrhotique ++), hématome intracrânien, surdosage médicamenteux, complication métabolique ou carentielle.
 
 #### Prévention des rechutes
 
 {{%info%}}Les benzodiazépines n'ont aucune indication dans l'aide au maintien de l'abstinence{{%/info%}}
 
-Prise en charge du maintien de l'abstinence des personnes dépendantes par acamprosate (ex Aotal®) ou naltrexone (ex Revia®) en première intention pour diminuer l'envie de consommer.  
+Prise en charge du maintien de l'abstinence des personnes dépendantes par acamprosate (ex Aotal®) ou naltrexone (ex Revia®) en première intention pour diminuer l'envie de consommer. Avis spécialisé en cas d'insuffisance hépatocellulaire.  
 Les traitements doivent être arrêtés après 4-6 semaines si la consommation d'alcool persiste.
 
 - [Acamprosate 333 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69724187&typedoc=R)
@@ -383,20 +428,20 @@ Les traitements doivent être arrêtés après 4-6 semaines si la consommation d
   - La naltrexone est débutée après le sevrage
   - 1/2 cp avec une surveillance d'1 heure. Puis prise de l'autre moitié et 1 cp/j pendant 3 mois (jusqu'à 6 mois si bénéfique et souhaité)
 
-##### Autres médicaments pour le maintien de l'abstinence
+Autre médicament pour le maintien de l'abstinence:
 
-- [Disulfirame 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61500746&typedoc=R) (Espéral®)
-  - Le disulfirame déclenche un effet antabuse avec toute source d'alcool (boisson, nourriture, parfum). Risque de neuropathie périphérique et hépatotoxicité
-  - Indication: patient motivé souhaitant l'abstinence avec ce médicament. Nombreuses interactions et contre-indications
-  - Après ≥ 24h de la dernière consommation: 1 cp/j
-  - Suivi 2/mois 1 mois, puis 1/mois 4 mois puis 2/an
-- Nalméfène, Gamma-hydroxybutyrate (GHB), baclofène  
-  Prescription spécialisée.
+[Disulfirame 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61500746&typedoc=R) (Espéral®):
+
+- Le disulfirame déclenche un effet antabuse avec toute source d'alcool (boisson, nourriture, parfum). Risque de neuropathie périphérique et hépatotoxicité
+- Indication: patient motivé souhaitant l'abstinence avec ce médicament. Nombreuses interactions et contre-indications
+- Après ≥ 24h de la dernière consommation: 1 cp/j
+- Suivi 2/mois 1 mois, puis 1/mois 4 mois puis 2/an
 
 {{%/collapse%}}
 {{%collapse "B) Objectif: Réduction d'une consommation" %}}
 
-Rappel: Il est recommandé de **promouvoir l'abstinence** mais d'**accepter les objectifs de consommation du patient** s'il choisit une réduction de la consommation (idéalement à faible risque < 10 verres/semaine). Toute réduction de consommation doit être valorisée par le médecin généraliste.
+Rappel: Il est recommandé de **promouvoir l'abstinence** mais d'**accepter les objectifs de consommation du patient** s'il choisit une réduction de la consommation (idéalement à faible risque < 10 verres/semaine).  
+Toute réduction de consommation doit être valorisée par le médecin généraliste.
 
 ### Objectif de réduction de la consommation d'alcool
 
@@ -407,6 +452,8 @@ Après essai de réduction spontanée de 15 jours, le nalméfène est le médica
 1 cp tous les jours où vous pensez être exposé au risque de boire. À prendre 2 heures avant le moment du risque ou dès le matin.  
 Réévaluation à 7 et 14 jours puis 1/mois au moins 6 mois.
 {{%/info%}}
+
+Autre traitement: baclofène (Baclocur®, max 80 mg/j), 30 mg/j en cas de cirrhose.
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
@@ -425,7 +472,7 @@ Réévaluation à 7 et 14 jours puis 1/mois au moins 6 mois.
   - Risque suicidaire
 - Somatiques
   - Cirrhose
-- Korsakoff (20% s'améliorent)
+- Troubles cognitifs dont Korsakoff (20% s'améliorent)
 
 {{% /collapse %}}
 {{%collapse "Information du Grand Public" %}}

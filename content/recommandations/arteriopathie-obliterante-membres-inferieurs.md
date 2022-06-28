@@ -55,7 +55,7 @@ Une neuropathie doit être éliminée lorsque les douleurs sont absentes.
 Blue toe syndrome
 : Ischémie aiguë d'un ou plusieurs orteils par embolie athéroscléreuse à l'origine d'une coloration cyanosée de l'orteil. Urgence thérapeutique.
 
-### Épidémiologie
+### Épidémiologie de l'artériopathie des membres inférieurs
 
 - **Prévalence:** 3-10%  
 15-20% après 70 ans.
@@ -106,11 +106,11 @@ TZD
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Dépistage" %}}
+{{%collapse "Dépistage de l'AOMI" %}}
 
 {{%info%}}
 
-### Qui dépister ?
+### Chez qui dépister l'AOMI ?
 
 - {{< modal-btn modal-depistage-prevalent >}}Ciblé ≥ 55 ans{{< /modal-btn >}} (*Bendermacher 2007*)
 - Suspicion clinique
@@ -138,7 +138,7 @@ TZD
 
 Le dépistage de l'artériopathie par l'IPS est à **renouveler tous les 5 ans** ou plus souvent si situation à risque.
 
-### Comment ?
+### Comment dépister l'AOMI?
 
 Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se 75%, Spe 86%) et de l'*index de pression au gros orteil* (IPSGO) ≤ 0,7 (*SFMV 2020*).  
 {{%class%}}IPS = rapport PAS cheville / PAS humérale.{{%/class%}}  
@@ -147,7 +147,9 @@ Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}60 à 80% des patients sont asymptomatiques au diagnostic{{%/info%}}
+{{%info%}}60 à 80% des patients sont asymptomatiques au diagnostic d'AOMI{{%/info%}}
+
+Signes et symptômes de l'artériopathie oblitérante des membres inférieurs:
 
 ### Interrogatoire
 
@@ -206,14 +208,14 @@ L'*ESC* encourage la **mesure de l'index de pression systolique** (IPS) par tout
 Autres douleurs à l'effort:
 
 - Syndrome de loges  
-Sujet sportif, compression ou serrement des mollets après un exercice important, la douleur diminue très lentement, soulagement jambes surélevées.
+  Sujet sportif, compression ou serrement des mollets après un exercice important, la douleur diminue très lentement, soulagement jambes surélevées.
 - Claudication veineuse  
-ATCD de TVP. Après la marche, compression/serrement de tout le MI, soulagement rapide jambe surélevée.
+  ATCD de TVP. Après la marche, compression/serrement de tout le MI, soulagement rapide jambe surélevée.
 - Sciatalgie/cruralgie
 - Canal lombaire étroit  
-Soulagement variable au repos, aggravé debout.
+  Soulagement variable au repos, aggravé debout.
 - Kyste poplité  
-ATCD arthrosique. Sensibilité, inconfort, œdème rétro-gonal ou du mollet, au repos et à l'exercice sans effet positionnel.
+  Antécédents arthrosique. Sensibilité, inconfort, œdème rétro-gonal ou du mollet, au repos et à l'exercice sans effet positionnel.
 - Coxarthrose
 - Métastase osseuse
 
@@ -237,18 +239,18 @@ ATCD arthrosique. Sensibilité, inconfort, œdème rétro-gonal ou du mollet, au
 
 **NB.** L'atteinte d'un territoire vasculaire impose le bilan d'aval et des autres localisations (60-70% d'atteintes associées).
 
-### Échodoppler artériel des membres inférieurs, aorte et TSA
+### Échodoppler artériel des membres inférieurs, aorte et troncs supra-aortiques
 
-Confirme les lésions d'AOMI et couplé au [dépistage systématique de l'anévrysme de l'aorte abdominale]({{< relref "anevrysme-aorte-abdominale.md" >}}).  
+L'échodoppler artériel confirme les lésions d'AOMI et est couplé au [dépistage systématique de l'anévrysme de l'aorte abdominale]({{< relref "anevrysme-aorte-abdominale.md" >}}).  
 Aide à la classification de *Fontaine et Rutherford*.
 
 ### ECG de repos ± épreuve d'effort
 
 Dépiste une coronaropathie ou un trouble du rythme associé.
 
-### Autres
+### Échodoppler des artère rénales
 
-Échodoppler des artère rénales si OAP flash ou [IRC]({{< relref "insuffisance-renale-chronique.md" >}}) rapidement progressive.
+Échodoppler des artère rénales si OAP flash ou [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) rapidement progressive.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'AOMI" %}}

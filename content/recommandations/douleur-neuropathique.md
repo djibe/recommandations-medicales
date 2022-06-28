@@ -93,7 +93,7 @@ TENS
 {{%/collapse%}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Selon la localisation de la douleur:
+Diagnostic différentiel de douleurs neuropathiques selon la localisation de la douleur:
 
 - [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})  
   Douleurs quand sténose > 70%.
@@ -188,7 +188,7 @@ Uniquement sur avis du neurologue.
 {{%/collapse%}}
 {{%collapse "Classes thérapeutiques efficaces" %}}
 
-Molécules de première ligne ou ayant un niveau de preuve satisfaisant en 2020 sur les douleurs neuropathiques de l'adulte:
+Traitements des douleurs neuropathiques de première intention ou ayant un niveau de preuve satisfaisant en 2020 chez l'adulte:
 
 - Antidépresseurs
   - IRSNA  
@@ -223,7 +223,7 @@ Molécules de première ligne ou ayant un niveau de preuve satisfaisant en 2020 
 
 > *SFETD 2020*
 
-### Douleurs neuropathiques en pédiatrie
+### Traitement des douleurs neuropathiques en pédiatrie
 
 Amitriptyline 10 mg/j et gabapentine 900 mg/j avec la même efficacité sans effets indésirables majeurs.
 
@@ -267,6 +267,8 @@ Clomipramine 10 mg le soir. Paliers de 10 mg tous les 7 jours. Avis spécialisé
 > *[OMéDIT Centre 2018](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/8120.pdf)* et [appli Douleur Hôpital Saint Joseph](https://play.google.com/store/apps/details?id=hopitalsaintjoseph.douleur)
 {{%/info%}}
 
+Traitements des douleurs neuropathiques de référence:
+
 - IRSNA
   - **[Duloxétine 60-120 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64381382&typedoc=R)** (Cymbalta®, gén) en 1-2 prise/j
   - [Venlafaxine LP 150-225 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65018658&typedoc=R) en 2-3 prises/j (débuté 37,5 mg/j, paliers +75 mg/sem, ECG et pression artérielle)
@@ -282,7 +284,7 @@ Clomipramine 10 mg le soir. Paliers de 10 mg tous les 7 jours. Avis spécialisé
   - Effets indésirables: somnolence et prise de poids, anticholinergiques. Levée d'inhibition avec risque suicidaire
   - Surveillance: cardiaque, anticholinergique, hypotension orthostatique, impuissance
 
-#### Douleur neuropathique en 2e intention
+#### Traitements des douleurs neuropathiques de 2e intention
 
 - [Prégabaline 150-600 mg/j](https://ec.europa.eu/health/documents/community-register/2020/20200703148324/anx_148324_fr.pdf) (Lyrica®, gén) en 2-3 prises
   - Ordonnance sécurisée d'une durée maximale de 6 mois | peu d'interactions
@@ -295,7 +297,7 @@ Clomipramine 10 mg le soir. Paliers de 10 mg tous les 7 jours. Avis spécialisé
 - Thérapie cognitivo-comportementale (TCC) et thérapie pleine conscience  
   En association avec les autres traitements.
 
-#### Douleur neuropathique en 3e intention
+#### Traitements des douleurs neuropathiques de 3e intention
 
 Prise en charge, prescription et réalisation uniquement en centre de la douleur chronique.
 
@@ -310,9 +312,9 @@ Prise en charge, prescription et réalisation uniquement en centre de la douleur
 {{%warning%}}Les opioïdes forts ne doivent être proposés par un spécialiste de la douleur qu'en l'absence d'alternatives{{%/warning%}}
 
 {{%/collapse%}}
-{{%collapse "Conduite à tenir pour le traitement des douleurs neuropathiques" "show" %}}
+{{%collapse "Prise en charge des douleurs neuropathiques" "show" %}}
 
-{{< mermaid title="Algorithme thérapeutique proposé pour la prise en charge de la douleur neuropathique de l'adulte. Dr JB Fron d'après SFETD 2020" >}}
+{{< mermaid title="Conduite à tenir pour la prise en charge des douleurs neuropathiques. Dr JB Fron d'après SFETD 2020" >}}
 graph TB
   DN["<b>Douleur neuropathique</b><hr>- Caractères<br>- Questionnaire DN4<br>- Bilan étiologique"]
   style DN stroke:#4150f5, stroke-width:1px

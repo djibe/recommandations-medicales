@@ -22,7 +22,8 @@ imageSrc = "La Covid-19 par stories / Freepik"
 
 {{%article-summary%}}
 
-- Page servant uniquement à stocker quelques mémos
+Page servant uniquement à stocker quelques mémos
+
 - [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire) et [règles d'isolement du 3/1](https://www.ameli.fr/medecin/actualites/covid-19-les-regles-d-isolement-evoluent)
 - Rappel vaccinal à 3 mois (max 4, et 12-17 ans fragiles), décalé à 4 mois (min 2, 6 avant le 15/2/22) si infection Covid (*HAS 24/12, 25/11 et 19/11*)  
   [Mon Rappel vaccin Covid](https://monrappelvaccincovid.ameli.fr/)
@@ -76,9 +77,9 @@ Risque démultiplié de forme grave si polypathologique. Doit tenir compte des c
 
 ### Paxlovid
 
-[Ameli: Prescription du Paxlovid en ville](https://www.ameli.fr/sites/default/files/Documents/Prescription-Paxlovid-en-ville.pdf)
+[Ameli: Prescription du Paxlovid en ville](https://www.ameli.fr/sites/default/files/Documents/Prescription-Paxlovid-en-ville.pdf)  
 [Document HAS officiel (RCP)](https://www.has-sante.fr/jcms/p_3311133/fr/paxlovid-pf-07321332/ritonavir).  
-Administrer dès que possible.
+**Administrer dès que possible.**
 
 #### Indications au Paxlovid
 
@@ -91,12 +92,17 @@ Toutes les conditions doivent être remplies
 5. [Absence de contre-indication au traitement](https://www.ameli.fr/sites/default/files/Documents/Prescription-Paxlovid-en-ville.pdf)
     - Insuffisance hépatique sévère (Child C)
     - Insuffisance rénale sévère (clairance < 30 mL/min)
-    - Médicaments contr-indiqués liés au CYP3A (voir ci-dessous item 6)
+    - Médicaments contre-indiqués liés au CYP3A (voir ci-dessous item 6)
 6. [Contrôle obligatoire des interactions du Paxlovid](https://sfpt-fr.org/recospaxlovid)
 
 ### Prescrire le Paxlovid
 
-{{%info%}}Paxlovid®: Nirmatrelvir 150 mg 2 cp + Ritonavir 100 mg 1 cp per os toutes les 12h pendant 5 jours{{%/info%}}
+{{%info%}}
+
+#### Ordonnance de paxlovid
+
+Paxlovid®: Nirmatrelvir 150 mg 2 cp + Ritonavir 100 mg 1 cp per os toutes les 12h pendant 5 jours
+{{%/info%}}
 
 {{%/collapse%}}
 {{%collapse "Vaccination" %}}

@@ -1,7 +1,6 @@
 +++
 title = "Évolution du tarif des consultations des médecins généralistes"
-titleSeo = "Évolution du tarif des consultations médicales"
-description = "Évolution du prix d'une consultation chez le médecin généraliste sur 40 ans (honoraires en secteur 1), de 1980 à 2021, corrigée de l'inflation"
+description = "Évolution du prix d'une consultation d'un médecin généraliste sur 40 ans (honoraires en secteur 1), de 1980 à 2021, corrigée de l'inflation"
 longHtml = "true"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-23T14:00:00+02:00"
@@ -18,9 +17,9 @@ todo = "Éléments cliquables trop rapprochés, cadres, temps travail, cotisatio
 
 ## Résumé
 
-Publication préliminaire afin de disposer d'une série longue, n'ayant pas trouvé d'article complet sur le sujet.
+Publication préliminaire afin de disposer d'une série longue sur les prix des consultations de médecin généraliste de 1980 à 2021, n'ayant pas trouvé d'article complet sur le sujet.
 
-Ce qui manque: la comparaison avec l'évolution du salaire médian des cadres (corrigé sur l'âge serait un plus). En effet les jeunes décalent fortement la médiane alors que les jeunes médecins ... n'existent pas. Le temps de travail des cadres serait intéressant.
+Ce qui manque: la comparaison avec l'évolution du salaire médian des cadres (corrigé sur l'âge serait un plus). En effet les jeunes décalent fortement la médiane alors que les jeunes médecins ... n'existent pas. Le temps de travail des cadres serait également intéressant.
 
 Ce que sera délicat: l'augmentation des prélèvements obligatoires, des loyers, des revenus.
 
@@ -30,7 +29,7 @@ Ce qui nécessitera un autre travail: l'évolution de l'activité des praticiens
 
 <figure>
   <div id="chart" class="border alert mb-4"></div>
-  <figcaption>Figure. Montant d'une consultation chez le médecin généraliste en secteur 1 de 1980 à 2021. Valeurs faciales et valeurs corrigées de l'inflation et évolution du salaire médian. Dr JB Fron d'après <a href="http://piketty.pse.ens.fr/fichiers/enseig/memothes/DeaMayneris2004.pdf" rel="external nofollow noopener">Mayneris 2004</a> et <a href="https://www.insee.fr/fr/information/2417794" rel="external nofollow noopener">INSEE</a>.</figcaption>
+  <figcaption>Figure. Prix d'une consultation chez le médecin généraliste en secteur 1 de 1980 à 2021. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après <a href="http://piketty.pse.ens.fr/fichiers/enseig/memothes/DeaMayneris2004.pdf" rel="external nofollow noopener">Mayneris 2004</a> et <a href="https://www.insee.fr/fr/information/2417794" rel="external nofollow noopener">INSEE</a>.</figcaption>
 </figure>
 <script>
 const chartOptions = {
@@ -85,10 +84,10 @@ const chartOptions = {
 
 {{%collapse "Données" %}}
 
-Les données sont téléchargeables depuis le graphique.  
+Les données du prix des consultations chez le médecin sont téléchargeables depuis le graphique.  
 Pour le graphique avant 2002, les francs français ont été convertis avec l'outil [INSEE Convertisseur franc-euro](https://www.insee.fr/fr/information/2417794).
 
-{{< table title="Tarif des consultations de médecine générale conventionnée Secteur 1 en Francs et en Euros 2021 de 1980 à 2001 d'après Mayneris 2004 et INSEE. Dr JB Fron" >}}
+{{< table title="Prix de la consultation de médecine générale conventionnée Secteur 1 en Francs et en Euros 2021 de 1980 à 2001 d'après Mayneris 2004 et INSEE. Dr JB Fron" >}}
 | Année | Consultation(Francs) | C (Euros 2021) |
 |-------|---------------------:|---------------:|
 | 1980  | 43                   | 19.05          |

@@ -21,11 +21,11 @@ todo = "flowchart, zona en pédiatrie"
 {{%article-summary%}}
 
 - Valaciclovir 1 g x 3/j 7 jours si:  
-  Ophtalmique, > 50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs +++ en phase aiguë, lésions cutanées graves)
+  Ophtalmique, +50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs +++ en phase aiguë, lésions cutanées graves)
 - Hospitalisation en urgence si immunodéprimé, atteinte organique ou PFP zostérienne
 - Vaccination post-exposition (varicelle) si ≥ 12 ans immunocompétent sans antécédent de varicelle en contact avec un cas de zona, après sérologie
 - Vaccination zona de 65 à 74 ans
-- PCR VIH si adulte < 50 ans
+- PCR VIH si adulte -50 ans
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -39,7 +39,7 @@ Zona et personne immunodéprimée
 Ce sont les principales personnes qui développent des formes compliquée.  
 : **Pathologies pourvoyeuses de zona:** Leucémie aiguë, lymphome en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, VIH (CD4 < 350/mm³ surtout).
 
-### Zona selon l'âge
+### Atteintes du zona selon l'âge
 
 - Jeune enfant  
   Zona possible dans les premières années de vie. Rare avant 4 ans et ne présente pas de caractère de gravité.
@@ -79,6 +79,8 @@ Les complications du zona surviennent principalement chez l'immunodéprimé et l
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+Signes et symptômes du zona chez l'adulte (et chez l'enfant):
+
 - Antécédents de varicelle et d'épisode de zona
 - Rechercher une immunodépression
 - Phase prodromique
@@ -93,7 +95,7 @@ Les complications du zona surviennent principalement chez l'immunodéprimé et l
 - Douleurs du dermatome  
   Quasi constantes en phase aiguë. Risque de chronicisation des douleurs neuropathiques.
 - Zona ophtalmique  
-  Surtout patient > 50 ans, fréquentes complications oculaires et douleurs chroniques.
+  Surtout patient +50 ans, fréquentes complications oculaires et douleurs chroniques.
 
 {{%warning%}}
 Facteurs prédictifs d'algies post-zostériennes:
@@ -102,7 +104,7 @@ Facteurs prédictifs d'algies post-zostériennes:
 - Intensité des douleurs en phase aiguë
 - Gravité de l'éruption cutanée
 
-**Diagnostic différentiel:** herpès ou coxsackie.
+**Diagnostic différentiel d'un zona:** herpès ou coxsackie.
 
 {{%/warning%}}
 
@@ -117,17 +119,17 @@ Parfois troubles auditifs ou vertiges.
 Ulcérations pseudo-membraneuses et vésicules de l'hémilangue.
 
 {{% /collapse %}}
-{{%collapse "Prévention" %}}
+{{%collapse "Prévention du zona" %}}
 
-### Vaccination zona
+### Vaccination contre le zona
 
 Vaccin vivant: [Zostavax®](https://ec.europa.eu/health/documents/community-register/2019/20191024146373/anx_146373_fr.pdf) (104,74€, remb. 30% SS).
 
-**Indication:** Dose unique en SC de 65 à 74 ans (y compris en antécédents de zona, *Calendrier vaccinal*). Le *GOLD 2022* propose aussi de vacciner en cas de BPCO.  
+**Indication:** Dose unique sous-cutanée de 65 à 74 ans (y compris en antécédents de zona, *Calendrier vaccinal*). Le *GOLD 2022* propose aussi de vacciner en cas de [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}).  
 **Contre-indication:** grossesse, immunodépression.  
 **Avis de Prescrire®:** Efficacité modeste. Pas d'intérêt à une vaccination systématique.
 
-### Vaccination post-exposition
+### Vaccination post-exposition du zona
 
 Vaccination post-exposition: âge ≥ 12 ans immunocompétent sans antécédent de varicelle, en contact avec un cas de [varicelle]({{< relref "varicelle.md" >}}) ou de zona.  
 Sérologie varicelle en urgence. La vaccination varicelle doit avoir lieu dans les 3 jours suivant le contact.
@@ -145,6 +147,8 @@ Informer sur la nécessité de consultation immédiate en cas de survenue de br�
 
 {{%warning%}}Hospitalisation en cas d'immunodépression ou d'atteinte organique{{%/warning%}}
 
+Traitement du zona non sévère:
+
 - Antalgie palier 1 ± 2 ou 3  
   et application de glace
 - Mesures d'hygiène
@@ -157,7 +161,7 @@ Informer sur la nécessité de consultation immédiate en cas de survenue de br�
 - Éviter le contact avec les femmes enceintes non immunisées et immunodéprimées
 - Si surinfection cutanée  
   Antibiothérapie per os cloxacilline.
-- PCR VIH si < 50 ans
+- PCR VIH si -50 ans
 
 {{%info%}}Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anesthésiques, antiprurigineux) ne doit être appliqué{{%/info%}}
 

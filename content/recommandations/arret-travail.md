@@ -14,7 +14,7 @@ sources = ["Assurance Maladie"]
 tags = []
 anglais = []
 sctid = ""
-todo = "TODO: summary, modalité papier/ameli, MOOC"
+todo = "TODO: summary, modalité papier/ameli, MOOC, https://www.fmfpro.org/reprise-du-travail-apres-un-arret-prolonge.html"
 +++
 
 {{%article-summary%}}

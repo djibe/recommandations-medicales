@@ -107,7 +107,7 @@ SFEMC
 : Société française d'études des migraines et céphalées
 {.dl-inline}
 
-### Épidémiologie
+### Épidémiologie des migraines
 
 - **Prévalence:** 14% des adultes en Europe (18-50 ans ++), 75% de femmes  
 France: 21,3% des adultes remplissent les critères de la migraine ICHD-3.

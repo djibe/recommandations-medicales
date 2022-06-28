@@ -3,7 +3,7 @@ title = "Maladie de Menière"
 prefix = "la "
 titleSeo = "Maladie de Menière"
 description = "Recommandations pour le diagnostic et la prise en charge thérapeutique de la Maladie de Menière. Symptômes vertiges, hypoacousie, surdité, plénitude. Traitement"
-synonyms = ["Syndrome de ménière"]
+synonyms = ["Syndrome de Ménière"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-30T08:50:00+02:00"
 publishdate = "2021-03-30"
@@ -35,9 +35,9 @@ Elle découle de modifications de l'endolymphe, touche toutes les populations, p
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-**Le diagnostic de la maladie est clinique** (critères AAO-HNS).
+**Le diagnostic de la maladie de Menière est clinique** (critères diagnostiques *AAO-HNS*).
 
-### Maladie définie
+### Maladie de Menière définie
 
 Le diagnostic de la maladie est certain devant l'association des 4 signes et symptômes suivants:
 
@@ -52,7 +52,7 @@ Le diagnostic de la maladie est certain devant l'association des 4 signes et sym
   Acouphènes (ressentis comme le plus grave symptôme) et sensation de plénitude de l'oreille.
 4. Absence d'autre cause identifiée
 
-### Maladie probable
+### Maladie de Menière probable
 
 - ≥ 2 crises de vertiges durant de 20 min à 12 h
 - Fluctuation des symptômes otologiques (surdité, acouphènes, sensation de plénitude) dans l'oreille malade
@@ -74,7 +74,7 @@ Qualité de vie et suivi de la Maladie de Menière avec les 6 questions:
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Pathologies donnant des symptômes similaires (hypoacousie ou surdité, vertiges):
+Pathologies donnant des symptômes similaires (hypoacousie ou surdité, vertiges) à la Maladie de Menière:
 
 - Tumeur labyrinthique ou du voisinage  
   Tumeur du sac endolymphatique, méningiome, kyste arachnoïdien.
@@ -107,7 +107,7 @@ Bilan différentiel systématique.
 
 ### Bilan ORL
 
-La prise en charge débute par un bilan ORL exhaustif par le spécialiste (oreille interne ++):
+La prise en charge de la maladie de Menière débute par un bilan ORL exhaustif par le spécialiste (oreille interne ++):
 
 - Audiométrie tonale et vocale
 - Vidéonystagmographie avec épreuve calorique calibrée
@@ -123,7 +123,7 @@ La prise en charge débute par un bilan ORL exhaustif par le spécialiste (oreil
 Dans l'ensemble, le niveau de preuve de chaque traitement est faible.  
 La prise en charge thérapeutique dépend de la plainte et de la sévérité de la maladie. Réserver les traitements suppresseurs au dernier recours.
 
-### Mode de vie
+### Adaptation du mode de vie
 
 - Éviter le stress et apprendre à mieux le gérer
 - Cycle nycthéméral régulier avec durée suffisante de sommeil
@@ -137,12 +137,11 @@ La prise en charge thérapeutique dépend de la plainte et de la sévérité de 
   {{%class%}}Efficacité prouvée sur la réhabilitation vestibulaire et le niveau d'anxiété.{{%/class%}}
 - Orthoptie  
   {{%class%}}Si troubles de la vergence et du suivi oculaire.{{%/class%}}
-- Association de patients  
-  [France Acouphènes](https://www.france-acouphenes.org/)
+- Association de patients: [France Acouphènes](https://www.france-acouphenes.org/)
 
-### Traitement médical et chirurgical
+### Traitement médical et chirurgical de la Maladie de Menière
 
-Géré par le spécialiste.
+Le traitement relève du spécialiste.
 
 ### Kinésithérapie de rééducation vestibulaire
 
@@ -157,9 +156,9 @@ En cas de troubles de la vergence et du suivi oculaire.
 
 (rapport 2016 SFORL maladies pro oreille interne)
 
-### Pour en savoir plus
+### Pour en savoir plus sur la Maladie de Menière
 
-#### En savoir plus: Traitements médicaux
+#### En savoir plus sur les traitements médicaux
 
 Bétahistine
 : Bétahistine 24 mg x 2/j au long cours.  
@@ -182,7 +181,7 @@ Injection transtympanique de gentamycine
 Titration fonctionnelle.  
 Contre-indiquée en oreille unique ou atteinte bilatérale.
 
-### Pour en savoir plus: Chirurgie
+### En savoir plus sur la chirurgie
 
 Principaux moyens chirurgicaux pour la prise en charge de la Maladie de Menière:
 
@@ -197,8 +196,7 @@ Principaux moyens chirurgicaux pour la prise en charge de la Maladie de Menière
 
 [Document d'information du patient de l'Encyclopédie Orphanet sur La maladie de Menière. (PDF)](https://www.orpha.net/data/patho/Pub/fr/Meniere-FRfrPub10587v02.pdf)
 
-Association de patients  
-[France Acouphènes](https://www.france-acouphenes.fr/)
+Association de patients: [France Acouphènes](https://www.france-acouphenes.fr/)
 
 {{% /collapse %}}
 {{%sources%}}

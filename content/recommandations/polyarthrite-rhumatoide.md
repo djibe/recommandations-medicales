@@ -317,8 +317,7 @@ graph TB
 
 ### À lire
 
-- [](https://www.revmed.ch/revue-medicale-suisse/2022/revue-medicale-suisse-773/suivi-biologique-des-traitements-de-fond-en-rhumatologie)
-- [Daien C., Czernichow S, Letarouilly JG et al. Recommandations de la Société française de rhumatologie sur l'alimentation des patients ayant un rhumatisme inflammatoire chronique. Revue du Rhumatisme. 2021.](https://www.sciencedirect.com/science/article/pii/S1169833021009108)
+[Daien C., Czernichow S, Letarouilly JG et al. Recommandations de la Société française de rhumatologie sur l'alimentation des patients ayant un rhumatisme inflammatoire chronique. Revue du Rhumatisme. 2021.](https://www.sciencedirect.com/science/article/pii/S1169833021009108)
 
 {{%/sources%}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}

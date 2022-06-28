@@ -58,7 +58,7 @@ Seules personnes éligibles à l'antibioprophylaxie en soins dentaires à haut r
 > *ESC 2015*
 {{%/info%}}
 
-### Gestes odontologiques à risque chez ces personnes
+### Chirurgies dentaires à risque chez le sujet à haut risque d'endocardite
 
 - Manipulation de la région gingivale ou péri-apicale de la dent
 - Perforation de la muqueuse orale
@@ -104,9 +104,9 @@ Réaliser des hémocultures avant la prescription d'antibiotiques
   Ischémie (sub)-aiguë de membre, syndrome coronarien aigu, embolie pulmonaire.
 
 {{% /collapse %}}
-{{%collapse "Prévention" %}}
+{{%collapse "Prévention de l'endocardite infectieuse" %}}
 
-Recommandations pour les personnes à risque d'endocardite infectieuse:
+Recommandations sur les mesures de prévention à respecter par les personnes à risque d'endocardite infectieuse:
 
 - Carte patient avec niveau de risque
 - Éducation du patient  
@@ -122,7 +122,7 @@ Recommandations pour les personnes à risque d'endocardite infectieuse:
 - Désinfection des plaies
 - Dépistage organisé des cancers (colorectal dès 50 ans ++)
 - Soutien psychologique
-- Limiter le recours au cathéter central, IV et prolongé
+- Limiter le recours au cathéter central, intraveineux et prolongé
 
 {{%info%}}
 
@@ -136,7 +136,7 @@ Amoxicilline 2 g (50 mg/kg chez l'enfant)
 **Si allergie:** clindamycine 600 mg (20 mg/kg chez l'enfant).
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir pour les personnes à risque" "show" %}}
+{{%collapse "Conduite à tenir pour les personnes à risque d'endocardite" "show" %}}
 
 {{< mermaid title="Recommandations pour la prise en charge des personnes à haut risque d'endocardite infectieuse. Dr JB Fron d'après ESC 2015" >}}
 graph TB
