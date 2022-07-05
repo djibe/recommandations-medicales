@@ -154,7 +154,7 @@ graph TB
 - Collège Français de Chirurgie Générale, Viscérale et Digestive. Hernie pariétale chez l'enfant et chez l'adulte. Item 286 - UE8. Chirurgie générale, viscérale et digestive. 2e édition.
 - [HAS. Pertinence des soins en chirurgie pédiatrique. 06/03/2018.](https://www.has-sante.fr/jcms/c_2831488/fr/pertinence-des-soins-en-chirurgie-pediatrique)
 - CHUCP. Hernie pariétale chez l'enfant. 286. 2014.
-- [Faucheron JL. Hernie inguinale de l'adulte. Item 245. Mars 2005.](http://www-sante.ujf-grenoble.fr/SANTE/corpus/disciplines/hepgastro/pathparoi/245a/leconimprim.pdf)
+- [Faucheron JL. Hernie inguinale de l'adulte. Item 245. Mars 2005.](https://doczz.fr/doc/2579938/hernie-inguinale-de-l-adulte--245a-)
 - [Sauvat F. Urgences en chirurgie viscérale pédiatrique.](https://urgences-serveur.fr/IMG/pdf/Urg_chir_pediatriques.pdf)
 
 {{%/sources%}}

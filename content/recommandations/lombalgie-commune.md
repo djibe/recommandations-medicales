@@ -170,7 +170,7 @@ Recommandations pour le traitement et la prise en charge de la << poussée aigu�
 
 - Éducation du patient
   - Expliquer les termes et le pronostic favorable
-  - [La lombalgie - Ameli (PDF)](https://www.ameli.fr/sites/default/files/Documents/346615/document/lombalgie-que-faire_assurance-maladie.pdf) et [les dossiers Ameli](https://www.ameli.fr/assure/sante/themes/lombalgie-aigue).
+  - [Les dossiers Ameli sur la lombalgie](https://www.ameli.fr/assure/sante/themes/lombalgie-aigue).
 - Maintien d'activité normale
 - Antalgique palier 1 voire palier 2
 - AINS

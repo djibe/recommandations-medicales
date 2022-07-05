@@ -6,9 +6,9 @@ description = "Liste des 20 examens du nourrisson et de l'enfant remboursés à 
 shortname = "Suivi pédiatrique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-06-02T11:57:29+02:00
-publishdate = 2020-06-02
-lastmod = 2022-01-20
+date = "2020-06-02T11:57:29+02:00"
+publishdate = "2020-06-02"
+lastmod = "2022-01-20"
 specialites = ["pediatrie"]
 annees = "2021"
 sources = ["Service-public"]
@@ -20,13 +20,14 @@ imageSrc = "Illustration par pch.vector / Freepik"
 {{%collapse "Définitions" %}}
 
 Nouveau-né
-: Période de vie de 0 à 28 jours
+: Enfant de 0 à 28 jours
 
 Nourrisson
-: Période de 29 jours à 23 mois
+: Enfant de 29 jours à 23 mois
 
 Enfant
-: Période de vie de 2 à 18 ans.
+: Enfant de 2 à 18 ans.
+{.dl-inline}
 
 > {{< references/calendrier-vaccinal >}}
 

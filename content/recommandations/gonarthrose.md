@@ -87,7 +87,7 @@ AASAL
   - Augmentée à la descente des escaliers, station assise prolongée et agenouillement
 - Raideur
 - Gêne fonctionnelle  
-  Recommandation pour des questionnaires types: [Indice de Lequesne](https://www.chu-clermontferrand.fr/Internet/Documents/Rhumatologie/Gonarthrose.Lequesne.pdf), [KOOS](http://fr.scale-library.com/resultat_echelle.php?echelle=Knee%20injury%20and%20Osteoarthritis%20Outcome%20Score%20(KOOS)&theme=&type=&scalage=adulte&retour=liste&cle=&echelle_box=Index%20de%20WOMAC) ou [WOMAC](http://fr.scale-library.com/resultat_echelle.php?echelle=Knee%20injury%20and%20Osteoarthritis%20Outcome%20Score%20(KOOS)&theme=&type=&scalage=adulte&retour=liste&cle=&echelle_box=Index%20de%20WOMAC).
+  Recommandation pour des questionnaires types: [Indice de Lequesne](http://medicalcul.free.fr/lequesne_genou.html), [KOOS](http://fr.scale-library.com/resultat_echelle.php?echelle=Knee%20injury%20and%20Osteoarthritis%20Outcome%20Score%20(KOOS)&theme=&type=&scalage=adulte&retour=liste) ou [WOMAC](http://fr.scale-library.com/resultat_echelle.php?echelle=Knee%20injury%20and%20Osteoarthritis%20Outcome%20Score%20(KOOS)&theme=&type=&scalage=adulte&retour=liste&cle=&echelle_box=Index%20de%20WOMAC).
 - Niveau d'activité physique
 - Qualité de vie
 

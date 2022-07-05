@@ -129,7 +129,7 @@ La supplémentation en acide folique (vitamine B9) réduit les effets indésirab
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-[Fiche info patient sous méthotrexate (PDF)](https://www.chu-clermontferrand.fr/Internet/Documents/Rhumatologie/A4_Notice_methotrexate.pdf)
+[Fiche info patient sous méthotrexate (PDF)](https://pharmacie.hug.ch/infomedic/utilismedic/metho_infopat.pdfDocuments/Rhumatologie/A4_Notice_methotrexate.pdf)
 
 - [Carte patient sous méthotrexate](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-carte-patient-version-1-2021-03.pdf)
 - Maladie inflammatoire: Prise de la dose complète en une seule prise par semaine  
