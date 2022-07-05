@@ -193,7 +193,7 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 
 - **Ostéodensitométrie** au diagnostic puis tous les 2-5 ans selon la densité osseuse (*ESsCD 2019*)
 
 {{%/collapse%}}
-{{%collapse "Traitement de la maladie cœliaque" %}}
+{{%collapse "Traitement de la maladie coeliaque" %}}
 
 **NB.** Le diagnostic de certitude doit être posé par un gastro-entérologue.
 
@@ -277,7 +277,7 @@ Le gluten est présent dans toutes les variétés de blé, froment, épeautre, o
 
 ### Logo présent sur les produits sans gluten
 
-![Logo des produits sans gluten](/images/sans-gluten.webp)
+<img loading="lazy" src="/images/sans-gluten.webp" class="img-fluid" alt="Logo des produits sans gluten">
 
 Un remboursement par l'[Assurance Maladie](https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/remboursement-aliments-sans-gluten-ameli) est possible jusqu'à 45,73 euros par mois de produits sans gluten.
 
