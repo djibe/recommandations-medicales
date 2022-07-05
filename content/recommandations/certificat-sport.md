@@ -6,9 +6,9 @@ titleSeo = "Certificat du sportif"
 description = "Recommandations pour l'établissement du certificat de non contre-indication à la pratique du sport. Examens complémentaires, ECG, épreuve d'effort ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-10-08T20:02:41+02:00
-publishdate = 2020-10-08
-lastmod = 2021-10-26
+date = "2020-10-08T20:02:41+02:00"
+publishdate = "2020-10-08"
+lastmod = "2021-10-26"
 specialites = ["certificats"]
 annees = "2021"
 sources = ["JO", "SFC"]
@@ -25,7 +25,7 @@ imageSrc = "Le certificat du sportif illustré par pikisuperstar / Freepik"
 
 - Majeurs: certificat valable 3 ans sauf *Disciplines nécessitant un certificat...*
 - Mineurs: [questionnaire de santé](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486824). Certificat requis si ≥ 1 réponse positive.  
-Pour les parents: [Service-public du 12/05/2021](https://www.service-public.fr/particuliers/actualites/A14888)
+  Pour les parents: [simulateur de Service-public.fr](https://www.service-public.fr/particuliers/vosdroits/R51612)
 - Préciser l'accès aux compétitions le cas échéant
 - Informer systématiquement sur les *10 règles d'or* de la pratique sportive
 - La consultation n'est pas prise en charge par l'*Assurance Maladie*

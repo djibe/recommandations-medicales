@@ -23,7 +23,7 @@ imageSrc = "Crédit OnSexPrime.fr"
 
 - Information systématique de tous sur la contraception d'urgence, notamment lors de la prescription d'une [contraception]({{< relref "contraception.md" >}})
 - Information sur sa grande efficacité prise précocement et son innocuité
-- La pilule du lendemain est accessible sans ordonnance jusqu'à 72 heures, remboursée su ordonnance, anonyme et gratuite pour les -25 ans
+- La pilule du lendemain est accessible sans ordonnance jusqu'à 72 heures, remboursée sur ordonnance, anonyme et gratuite pour les -25 ans
 - La pose d'un DIU est la méthode la plus efficace et possible jusqu'à J5
 - Envisager une prescription en prévention surtout si: adolescente, préservatif, VIH, voyage à l'étranger, milieu rural.
 - Il existe un risque de grossesse à tout moment du cycle en rapport non protégé

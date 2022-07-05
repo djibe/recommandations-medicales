@@ -4,9 +4,9 @@ prefix = "l'"
 description = "Recommandations pour l'hypothyroïdie dont Hashimoto. Bilan TSH et T4, échographie thyroïdienne, suivi, titration pour débuter le lévothyrox à 1,7 µg/kg/j"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-04-14T23:30:41+02:00
-publishdate = 2020-04-14
-lastmod = 2022-05-09
+date = "2020-04-14T23:30:41+02:00"
+publishdate = "2020-04-14"
+lastmod = "2022-05-09"
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["HAS", "SFE"]
@@ -20,13 +20,14 @@ imageSrc = "Illustration de l'hypothyroïdie par storyset / Freepik"
 
 {{%article-summary%}}
 
+Prochaines recommandations HAS hypothyroïdie en 2022
+
 - Pas de dépistage systématique
 - TSH seule en cas de symptômes évocateurs
 - +65 ans: pas d'examens complémentaires, traiter si TSH > 20 mUI/L (avis endocrino entre 10 et 20), borne supérieure de TSH = âge/10
 - Traitement par LT: dosage de la TSH et adaptation par paliers de 12 µg toutes les 6-12 semaines sur critères clinico-TSH
 - Puis surveillance TSH annuelle (sauf symptômes ou traitement perturbateur)
 - Hashimoto: rechercher une [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) associée
-- Prochaines recommandations HAS en 2022
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
