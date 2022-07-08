@@ -19,9 +19,9 @@ imageSrc = "Moustique du paludisme. Culicidae, Anopheles sp. Photo de Techuser s
 todo = "ttt ambulatoire accès palustre, piqures, http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/028.pdf, http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5222.pdf"
 +++
 
-*Le traitement de l'accès palustre n'est pas encore traité*.
-
 {{%article-summary%}}
+
+*Le traitement de l'accès palustre n'est pas encore abordé*
 
 - Toute fièvre dans les 3 mois suivant le retour de voyage est un paludisme jusqu'à preuve du contraire.
 - Toute suspicion de paludisme est une urgence diagnostique et thérapeutique.
@@ -29,7 +29,9 @@ todo = "ttt ambulatoire accès palustre, piqures, http://medecinetropicale.free.
 - Voyage tropical: protection contre les moustiques et chimioprophylaxie.
 
 {{%/article-summary%}}
-{{%collapse "Épidémiologie" %}}
+{{%collapse "Définition" %}}
+
+### Épidémiologie du paludisme
 
 - Incidence: 4000 cas/an (importés)  
   95% contractés en Afrique subsaharienne et 90% par *Plasmodium falciparum*
@@ -107,7 +109,7 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
   <p id="text-doxycycline" class="user-select-all">1 cp à 100 mg pendant le dîner <span class="text-muted">(si 8+ ans)</span></p>
   <hr>
   <p class="card-text mb-1">Chloroquine</p>
-  <p id="text-nivaquine">1 cp par jour ou 4 cuillères-mesure par jour (100 mg)</p>
+  <p id="text-nivaquine">1 cp par jour (100 mg)</p>
 </div>
 <script>
 window.onload = () => {
@@ -143,57 +145,58 @@ window.onload = () => {
     });
     Slider.on('change', function() {
       let weight = Slider.val();
+      let chloroArret = 'Sirop retiré le 01/07/2022';
       // Nivaquine
       if ( weight <= 10 ) {
-        str = '1 cuillère-mesure (25 mg) 1 jour sur 2';
+        str = chloroArret;
       } else if ( weight >= 10 && weight < 23 ) {
-        str = '1 cuillère-mesure (25 mg) par jour';
+        str = chloroArret;
       } else if ( weight >= 23 && weight < 37 ) {
-        str = '2 cuillères-mesure (50 mg) par jour';
+        str = chloroArret;
       } else if ( weight >= 37 && weight < 52 ) {
-        str = '3 cuillères-mesure (75 mg) par jour';
+        str = chloroArret;
       } else if ( weight >= 52 ) {
-        str = '1 cp par jour ou 4 cuillères-mesure par jour (100 mg)';
+        str = '1 cp par jour (100 mg)';
       }
       Nivaquine.html(str);
       // Atovaquone
-      atoHtml = "<br><br>À débuter la veille ou le jour du départ et poursuivre 7 jours après le retour.<br>La prise en continu est limitée à 3 mois consécutifs.";
+      atoHtml = '<br><br>À débuter la veille ou le jour du départ et poursuivre 7 jours après le retour.<br>La prise en continu est limitée à 3 mois consécutifs.';
       if ( weight < 11) {
         str2 = 'Pas de traitement adapté';
       } else if ( weight >= 11 && weight <= 20 ) {
-        str2 = `1 cp (62,5/25 mg) par jour pendant le repas à heure fixe ${atoHtml}`;
+        str2 = `1 cp (62,5/25 mg) par jour pendant le repas à heure fixe`;
       } else if ( weight >= 21 && weight <= 30 ) {
-        str2 = `2 cp (62,5/25 mg) par jour en 1 prise pendant le repas à heure fixe ${atoHtml}`;
+        str2 = `2 cp (62,5/25 mg) par jour en 1 prise pendant le repas à heure fixe`;
       } else if ( weight >= 31 && weight <= 39 ) {
-        str2 = `3 cp (62,5/25 mg) par jour en 1 prise pendant le repas à heure fixe ${atoHtml}`;
+        str2 = `3 cp (62,5/25 mg) par jour en 1 prise pendant le repas à heure fixe`;
       } else if ( weight >= 40 ) {
-        str2 = `1 cp (250/100 mg) par jour pendant le repas à heure fixe ${atoHtml}`;
+        str2 = `1 cp (250/100 mg) par jour pendant le repas à heure fixe`;
       }
-      Atovaquone.html(str2);
+      Atovaquone.html(`${str2} ${atoHtml}`);
       // Méfloquine
-      mefloHtml = "<br><br>À débuter au moins 10 jours avant le départ et poursuivre 3 semaines après le retour.<br>Au mieux 3 semaines avant pour évaluer correctement la tolérance.";
+      mefloHtml = '<br><br>À débuter au moins 10 jours avant le départ et poursuivre 3 semaines après le retour.<br>Au mieux 3 semaines avant pour évaluer correctement la tolérance.';
       if ( weight < 15) {
         str3 = 'Pas de traitement adapté';
       } else if ( weight >= 15 && weight <= 19 ) {
-        str3 = `1/4 cp à 250 mg 1 fois par semaine ${mefloHtml}`;
+        str3 = `1/4 cp à 250 mg 1 fois par semaine`;
       } else if ( weight >= 20 && weight <= 30 ) {
-        str3 = `1/2 cp à 250 mg 1 fois par semaine ${mefloHtml}`;
+        str3 = `1/2 cp à 250 mg 1 fois par semaine`;
       } else if ( weight >= 31 && weight <= 45 ) {
-        str3 = `3/4 cp à 250 mg 1 fois par semaine ${mefloHtml}`;
+        str3 = `3/4 cp à 250 mg 1 fois par semaine`;
       } else if ( weight >= 45 ) {
-        str3 = `1 cp à 250 mg 1 fois par semaine ${mefloHtml}`;
+        str3 = `1 cp à 250 mg 1 fois par semaine`;
       }
-      Mefloquine.html(str3);
+      Mefloquine.html(`${str3} ${mefloHtml}`);
       // Doxycycline
       doxyHtml = `pendant le dîner <span class="text-muted">(si +8 ans)</span><br><br>À débuter le jour de l'arrivée et poursuivre 4 semaines après le retour.<br>Débuter au mieux 3 semaines avant pour évaluer correctement la tolérance.<br>Prendre pendant le dîner, au moins 1h avant le coucher.`;
       if ( weight < 20) {
         str4 = 'Contre-indiquée avant 8 ans';
       } else if ( weight >= 20 && weight < 40 ) {
-        str4 = `1 cp à 50 mg ${doxyHtml}`;
+        str4 = '1 cp à 50 mg';
       } else if ( weight >= 40 ) {
-        str4 = `1 cp à 100 mg ${doxyHtml}`;
+        str4 = '1 cp à 100 mg';
       }
-      Doxycycline.html(str4);
+      Doxycycline.html(`${str4} ${doxyHtml}`);
     });
   });
 };
@@ -203,14 +206,14 @@ window.onload = () => {
 
 ### Chloroquine
 
-Spécialité: [Nivaquine®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65130778&typedoc=R) (cp, sirop) uniquement.
+Spécialité: [Nivaquine®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65130778&typedoc=R) (cp, sirop retiré le 01/07/2022) uniquement.
 
 - Patient ≥ 60 kg  
-Chloroquine 100 mg 1 cp par jour
+  Chloroquine 100 mg 1 cp par jour
 - Adulte et enfant < 60 kg  
-1,7 mg/kg en 1 prise par jour
+  Sirop retiré
 - Enfant < 10 kg  
-1 cuillère-mesure (25 mg), 1 jour sur 2
+  Sirop retiré
 
 {{%info%}}
 À débuter le jour du départ et poursuivre 4 semaines après le retour.

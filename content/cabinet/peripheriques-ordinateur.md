@@ -6,7 +6,7 @@ description = "Quel ordinateur pour le médecin généraliste ? Conseils pour un
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T19:15:00+02:00"
 publishdate = "2022-05-15"
-lastmod = "2022-05-15"
+lastmod = "2022-07-06"
 specialites = []
 sources = []
 tags = []
@@ -48,8 +48,8 @@ Hp laserjet m209dwe
 
 Tout en 1
 
-Brother MFC-L2750DW 5 Lesnum
-HP M227fdw
+- Brother MFC-L2750DW 5 Lesnum
+- HP M227fdw
 
 {{% /collapse %}}
 {{%collapse "Écrans" %}}
@@ -84,6 +84,7 @@ Classement composite d'après LesNumerique, 01Net ou autre. Par ordre de qualit�
 - [Logitech MX Master 3 - 90€ (grandes mains)](https://ledenicheur.fr/product.php?p=5184666)
 - [Razer Pro Click - 100€](https://ledenicheur.fr/product.php?p=5542256)
 - [Logitech MX Anywhere 3 - 100€ (petites mains)](https://ledenicheur.fr/product.php?p=5542303)
+- [Logitech MX Anywhere 2S - 55€ (petites mains)](https://ledenicheur.fr/product.php?p=4354037)
 - [Steelseries Rival 3 Wireless - 40€](https://ledenicheur.fr/product.php?p=5576780)
 - [Razer Pro Click Mini - 80€ (petites mains)](https://ledenicheur.fr/product.php?p=5935454)
 - [Logitech G Pro Wireless - 80€](https://ledenicheur.fr/product.php?p=4960533)

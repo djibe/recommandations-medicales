@@ -74,7 +74,7 @@ TVP
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Contre-indications aux œstroprogestatifs et progestatifs" %}}
+{{%collapse "Contre-indications aux oestroprogestatifs et progestatifs" %}}
 
 Les œstroprogestatifs augmentent le risque de [MVTE](/tags/mvte/) x3-6 (plus important la 1<sup>re</sup> année).  
 Seuls les COP contenant ≥ 50 µg d'EE sont associées au risque d'accident artériel, sauf FRCV associé (dose-dépendant avec tabac ≥ 15 cig/j).
@@ -439,7 +439,7 @@ Migraines cataméniales sous COP, proposer au choix:
 
 - Schéma continu
 - Œstrogènes percutanés  
-1,5 mg  gel/j ou patch 100 µg/24h pendant les 7 jours libres.
+  1,5 mg  gel/j ou patch 100 µg/24h pendant les 7 jours libres.
 
 ### Troubles de l'humeur
 

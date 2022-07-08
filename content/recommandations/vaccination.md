@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2022-05-26"
+lastmod = "2022-07-06"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["MinSanté", "HCSP"]
@@ -47,6 +47,9 @@ HPV
 
 SA
 : semaines d'aménorrhée
+
+VVA
+: vaccin vivant atténué (ROR, BCG, rotavirus, varicelle, zona, fièvre jaune)
 {.dl-inline}
 
 {{% /collapse %}}
@@ -160,7 +163,24 @@ Personnes nécessitant un schéma vaccinal renforcé (détail des vaccinations d
   - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
 - Rhumatologique
   - [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}})
-- [HSH]({{< relref "hsh.md" >}})
+- [Homme ayant des rapports avec des hommes]({{< relref "hsh.md" >}})
+
+{{% /collapse %}}
+{{%collapse "Contre-indications temporaires" %}}
+
+Les contre-indications de chaque vaccin sont détaillées dans leur RCP (notice).  
+Vacciner 4 à 6 semaines avant la mise en place d'une immunosuppression.
+
+Les virus vivants atténués (VVA) sont contre-indiqués pendant la grossesse et en cas d'immunodépression, sauf cas particuliers (charge virale et CD4 pour le VIH).  
+Ils ne sont pas contre-indiqués en cas d'hyposplénie ou d'asplénie.
+
+Contre-indications temporaires à la vaccination:
+
+- Au moins 3 mois (jusqu'à 11 mois) après administration de produits sanguins (dont immunoglobulines) et vaccin vivant
+- Au moins 3 mois (6 mois pour rituximab ou après chimiothérapie) après arrêt de l'immunosuppresseur, d'une biothérapie ou corticothérapie immunosuppressive et un vaccin vivant
+- Allaitement maternel pour la fièvre jaune
+
+> *[Medqual VacciNews 1](http://medqual.fr/index.php/la-vaccination-en-pays-de-la-loire/publications-outils)*
 
 {{% /collapse %}}
 {{%collapse "Administration des vaccins" %}}

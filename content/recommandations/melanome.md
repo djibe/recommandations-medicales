@@ -20,7 +20,8 @@ todo = "MAJ"
 
 {{%article-summary%}}
 
-- Personnes à risque: auto-examen cutané tous les 3 mois et consultation annuelle du dermatologue
+- Message de prévention du mélanome: << L'ombre, c'est l'endroit le plus cool de l'été ! >> (*[INCa 2022](https://www.e-cancer.fr/Actualites-et-evenements/Actualites/L-ombre-c-est-l-endroit-le-plus-cool-de-l-ete-!-la-nouvelle-campagne-d-information-de-l-Institut-national-du-cancer-sur-la-prevention-des-risques-solaires)*)
+- Personnes à risque de mélanome: auto-examen cutané tous les 3 mois et consultation annuelle du dermatologue
 - Une lésion mélanocytaire est suspecte si elle remplit ≥ 2 critères ABCDE
 - Un nævus est suspect s'il est différent des autres
 - Suspicion de mélanome = avis dermatologique en semi-urgence

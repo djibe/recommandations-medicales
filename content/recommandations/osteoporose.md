@@ -29,10 +29,10 @@ todo = "lire recos, https://www.osteoporosis.foundation/sites/iofbonehealth/file
 Recommandations simplifiées pour un traitement réaliste:
 
 1. Ostéodensitométrie pour toutes les femmes après 60 ans ou après une fracture ({{< modal-btn modal-dxa-remboursement >}}critères de remboursement{{< /modal-btn >}})
-2. Bilan: NFS, CRP, bilan rénal et hépatique, vitamine D, calcémie, phosphatémie, électrophorèse des protéines sériques
+2. Bilan: NFS, CRP, créatininémie, ASAT, ALAT, GGT, PAL, vitamine D, calcémie, phosphatémie, électrophorèse des protéines sériques
 3. Biphosphonate en 1<sup>er</sup> traitement anti-ostéoporotique selon T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou tout T-score ≤ -3
 4. Avis rhumatologique si T-score proche (1 point) de l'indication de traiter
-5. Biphosphonate: bilan bucco-dentaire, [alendronate 70 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69784280&typedoc=R) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 75 mg 2 jours de suite 1 fois par mois
+5. Biphosphonate: bilan bucco-dentaire, [acide alendronique 70 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69784280&typedoc=R) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 75 mg 2 jours de suite 1 fois par mois
     - ≥ 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)  
     - Fracture fémorale (FESF): [zolédronate 5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture).
 6. Contrôle de l'ostéodensitométrie à 2-3 ans ± avis rhumatologique
@@ -41,7 +41,7 @@ Recommandations simplifiées pour un traitement réaliste:
 **Prévention pour toutes**  
 {{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, arrêt du tabac, activité physique, [vitamine D]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1 - 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
 
-Chapitre lié: [Traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
+Chapitre lié: [Traitement hormonal de la ménopause]({{< relref "menopause.md" >}}) et [vitamine D]({{< relref "vitamine-d.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

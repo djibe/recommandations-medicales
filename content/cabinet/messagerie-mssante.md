@@ -53,7 +53,7 @@ Le téléphone doit être associé à l'adresse sécurisée depuis l'espace pers
 
 Tout médecin peut envoyer un message sécurisé avec ou sans pièce-jointe à un patient en écrivant à:
 
-{{%info%}}NIRDuPatientA13Chiffres@patient.mssante.fr{{%/info%}}
+{{%info%}}NumeroDeSécuDuPatientA13Chiffres@patient.mssante.fr{{%/info%}}
 
 **NB.** Les patients ne peuvent pas initier de conversation avec vous. Mais ils pourront répondre à votre message depuis leur espace **MonEspaceSanté**.
 

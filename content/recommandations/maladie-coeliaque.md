@@ -193,9 +193,9 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 
 - **Ostéodensitométrie** au diagnostic puis tous les 2-5 ans selon la densité osseuse (*ESsCD 2019*)
 
 {{%/collapse%}}
-{{%collapse "Traitement de la maladie coeliaque" %}}
+{{%collapse "Traitement de la maladie cœliaque" %}}
 
-**NB.** Le diagnostic de certitude doit être posé par un gastro-entérologue.
+**NB.** Le diagnostic de certitude de la maladie cœliaque doit être posé par un gastro-entérologue.
 
 {{%info%}}<< Chez les enfants qui se portent bien après l'arrêt du régime sans gluten, la recherche des auto-anticorps est **à répéter tous les ans**, afin de vérifier qu'il n'y a pas de rechutes >>{{%/info%}}
 

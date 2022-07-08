@@ -61,7 +61,7 @@ title = "Recommandations Médicales"
   #datetime = "2006-01-02T15:04:05Z0700"  # html ISO 8601 datetimeformat
 
 [markup.goldmark.parser]
-  autoHeadingIDType = 'github-ascii'
+  autoHeadingIDType = 'github'
 [markup.goldmark.parser.attribute]
   block = true # Allow classes on HTML entities
 [markup.goldmark.renderer]

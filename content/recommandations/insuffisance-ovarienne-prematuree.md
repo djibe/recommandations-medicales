@@ -62,6 +62,9 @@ Spanioménorrhée
 
 ### Abréviations
 
+AMH
+: hormone anti-müllérienne
+
 ESHRE
 : {{%lang%}}European Society of Human Reproduction and Embryology{{%/lang%}}
 

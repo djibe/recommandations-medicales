@@ -115,7 +115,7 @@ Signes typiques de reflux:
 {{%/collapse%}}
 {{%collapse "Examens complémentaires" %}}
 
-Aucun examen complémentaire devant des signes typiques et l'absence de signe d'alarme.
+Aucun examen complémentaire devant des signes typiques de reflux et l'absence de signe d'alarme.
 
 ### Indications à la réalisation d'examens
 
@@ -154,7 +154,7 @@ Réalisé sous IPP double dose.
 {{%/collapse%}}
 {{%collapse "Traitement du RGO" %}}
 
-**Objectifs du traitement :** soulager les symptômes, cicatrisation des lésions et prévention des récidives.
+**Objectifs de la prise en charge :** soulager les symptômes, cicatrisation des lésions et prévention des récidives.
 
 {{%info%}}
 
@@ -234,7 +234,7 @@ Ne pas utiliser:
 - Argiles médicamenteuses
 {{%/warning%}}
 
-### Chirurgie
+### Chirurgie du reflux gastro-œsophagien
 
 La prise en charge du reflux par chirurgie est limitée:
 
@@ -243,13 +243,13 @@ La prise en charge du reflux par chirurgie est limitée:
 
 Elle consiste en une fundoplicature par cœlioscopie.
 
-### Grossesse et reflux
+### Grossesse et reflux gastro-œsophagien
 
-Utiliser les RHD et l'oméprazole (voire ~~la ranitidine~~).
+Utiliser les mesures hygiéno-diététiques et l'oméprazole (voire ~~la ranitidine~~).
 
-### Nourrisson et RGO
+### RGO du nourrisson
 
-Le RGO est très fréquent chez le nourrisson et le plus souvent physiologique.  
+Le reflux est très fréquent chez le nourrisson et le plus souvent physiologique.  
 Il débute avant 3 mois et disparaît généralement vers 12-18 mois.
 
 Utiliser dans l'ordre:
@@ -271,7 +271,7 @@ Utiliser dans l'ordre:
 - Faible prise de poids
 
 {{%/collapse%}}
-{{%collapse "Conduite à tenir" "show" %}}
+{{%collapse "Prise en charge du reflux gastro-oesophagien" "show" %}}
 
 {{< mermaid title="Conduite à tenir devant un reflux gastro-œsophagien. Dr JB Fron d'après SNFGE" >}}
 graph TB

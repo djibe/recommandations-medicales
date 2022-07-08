@@ -8,7 +8,7 @@ synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
 publishdate = "2022-01-11"
-lastmod = "2022-06-28"
+lastmod = "2022-07-06"
 specialites = ["addictologie"]
 annees = "2021"
 sources = ["HAS", "SFA", "AFEF"]
@@ -17,7 +17,7 @@ anglais = ["Alcoholism"]
 sctid = "7200002"
 image = true
 imageSrc = "Les verres d'alcool standards par Alcool-Info-Service"
-todo = "Kits addiction https://lecmg.fr/addictionsmg/, KEY x3 sevrage ambulatoire | x2 syndrome de sevrage, symptômes de sevrage | médicaments, sevrage de l'alcool, entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, bilan des complications"
+todo = "AFEF 2021 hépatite alcoolique, Kits addiction https://lecmg.fr/addictionsmg/, KEY x3 sevrage ambulatoire | x2 syndrome de sevrage, symptômes de sevrage | médicaments, sevrage de l'alcool, entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, bilan des complications"
 +++
 
 {{%article-summary%}}
@@ -31,7 +31,7 @@ todo = "Kits addiction https://lecmg.fr/addictionsmg/, KEY x3 sevrage ambulatoir
 - 0 alcool pendant la grossesse et chez les enfants
 - Mésusage: 1 homme sur 3 et 1 femme sur 6
 - Prise en charge des co-addictions (tabac, cannabis), complications somatiques et troubles psychiatriques ([MonPsy]({{< relref "remboursement-psychologue-monpsy.md" >}}), dépression, anxiété...)
-- Diagnostic de Maladie du foie liée à l'alcool (MFLA): mésusage de l'alcool + cytolyse 2-5N prédominant sur les ASAT + GGT augmentées et élimination des autres hépatopathies. Test de fibrose hépatique, arrêt du tabac et lutte surpoids, suivi addictologique
+- Dépister la Maladie du foie liée à l'alcool (MFLA): ≥ 14 verres/semaine et/ou âge ≥ 40 ans ET score AUDIT-C pathologique (voir *Évaluation d'une consommation*) par test de fibrose hépatique (Fibroscan® ou biologique Fibrotest® ou Fibromètre Alcool). Arrêt du tabac et lutte surpoids, suivi addictologique
 - Accepter l'objectif de consommation du sujet car toute réduction de consommation est positive. + efficace: auto-évaluation quotidienne de la consommation
 - Abstinence est préférable en dépendance à l'alcool ou comorbidités. Si non souhaitée, accompagnement vers la réduction des dommages
 
@@ -271,16 +271,21 @@ Le bilan biologique est annuel:
 
 ### Maladie du foie liée à l'alcool (MFLA)
 
+{{%info%}}
+
 #### Chez qui dépister la maladie du foie liée à l'alcool ?
 
-Âge ≥ 40 ans ET score AUDIT-C pathologique
-ou/et consommation déclarée ≥ 14 verres/semaine
+Âge ≥ 40 ans ET score AUDIT-C pathologique (voir *Évaluation d'une consommation*)  
+ET/OU consommation déclarée ≥ 14 verres/semaine
+{{%/info%}}
 
 #### Critères diagnostiques de la maladie du foie liée à l'alcool
 
 **Diagnostic de MFLA devant: mésusage de l'alcool, cytolyse 2-5N prédominant sur les ASAT, GGT augmentées, élimination des autres hépatopathies.**  
-En cas de MFLA: test non invasif de fibrose hépatique systématique (Fibroscan® ou biologique: Fibrotest® ou Fibromètre Alcool®), arrêt du tabac et correction d'un surpoids, **suivi addictologique spécialisé**.  
-Un bilan hépatique normal permet d'exclure une MFLA significative à court terme.
+En cas de MFLA: test non invasif de fibrose hépatique systématique (**Fibroscan® ou biologique: Fibrotest® ou Fibromètre Alcool®**), arrêt du tabac et correction d'un surpoids, **suivi addictologique spécialisé**.
+
+Un bilan hépatique normal permet d'exclure une MFLA significative à court terme.  
+L'échographie hépatique n'a pas d'intérêt pour dépister une MFLA.
 
 {{< table title="Seuils diagnostiques du Fibrotest®, du FibroMètre Alcool®, et du FibroScan® dans la maladie du foie liée à l'alcool selon AFEF 2021" >}}
 |                                                         | Fibrose septale | Fibrose sévère | Cirrhose |

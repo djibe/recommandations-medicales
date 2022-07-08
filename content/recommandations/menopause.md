@@ -34,7 +34,8 @@ todo = "KEY patiente | règles d'hygiène, Chart J1-J31, lire sources, relecture
 **CI majeures**: antécédent de cancer du sein, infarctus du myocarde ou AVC et Alzheimer
 - Débuter quand diagnostic certain et seulement dans les 10 premières années
 - Doses minimales efficaces d'estrogène cutané + progestérone orale combinés continu (ou discontinu ou séquentiels si hémorragies souhaitées)
-- Article lié: [Insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
+
+Chapitres liés: [insuffisance ovarienne prématurée (ménopause précoce)]({{< relref "insuffisance-ovarienne-prematuree.md" >}}), [contraception]({{< relref "contraception.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -232,7 +233,7 @@ puis dépistage organisé à partir de 50 ans (*HAS 2015 cancer du sein*)
 
 ### Ostéodensitométrie
 
-Indications à l'ODM:
+Indications au **remboursement** l'ostéodensitométrie au cours de la ménopause:
 
 - ≥ 1 {{< modal-btn modal-risque-fracture >}}facteur de risque fracturaire{{< /modal-btn >}}
 - La connaissance de la DMO peut modifier la balance bénéfices-risques du THM
@@ -261,21 +262,21 @@ Le reste du bilan est réalisé par l'endocrinologue.
 Si endomètre > 4 mm ou saignements répétés.
 
 {{% /collapse %}}
-{{%collapse "Traitements non hormonaux" %}}
+{{%collapse "Traitements non hormonaux de la ménopause" %}}
 
 Objectifs: amélioration de la santé, des signes climatériques, du risque cardiovasculaire et [prévention de l'ostéoporose]({{< relref "osteoporose.md" >}}).
 
 - Arrêt tabac et alcool
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Correction d'un surpoids  
-Perte de 5-10% par réduction glucido-lipidique.
+  Perte de 5-10% par réduction glucido-lipidique.
 - Lutte contre la sédentarité
 - Activité physique 30 min/j
   - Intensité faible à modérée
   - Avec impact (marche, course à pied)
   - Renforcement musculaire
 - Supplémentation vitamino-calcique  
-Globalement cible vitamine D > 75 nmol/L (détail au chapitre [Vitamine D]({{< relref "vitamine-d.md" >}}), *Souberbielle 2019*)
+  Globalement cible vitamine D > 75 nmol/L (détail au chapitre [Vitamine D]({{< relref "vitamine-d.md" >}}), *Souberbielle 2019*)
 - Dépistages organisés des cancers
 - Bouffées vasomotrices
   - Yoga
@@ -292,7 +293,7 @@ Globalement cible vitamine D > 75 nmol/L (détail au chapitre [Vitamine D]({{< r
   - Acide hyaluronique local
   - Sténose: dilatateurs de taille croissante
 - Antécédent de cancer du sein  
-Contre-indication aux phytoœstrogènes.
+  Contre-indication aux phytoœstrogènes.
 
 {{%info%}}Prise de poids à la ménopause: << Seuls les excès répétés et/ou un déséquilibre chronique quantitatif et qualitatif de l'alimentation peuvent être en cause >> (*CNGOF 2021*){{% /collapse %}}
 
