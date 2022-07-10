@@ -524,7 +524,7 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 {{< table title="THM recommandés par le CNGOF disponibles seuls ou en association en France en 2022. Dr JB Fron d'après BDPM" class="table-wrap">}}
 | Classe              | Molécule                   | Spécialités                                                                   | Dosages (cp en mg, patch en µg/24h) |
 |---------------------|----------------------------|-------------------------------------------------------------------------------|------------------------------------:|
-| Estradiol patch     | Estradiol                  | Dermestril (-Septem), Estrapatch, Femsept, Oesclim, Thais (-sept), Vivelledot |   25, 37,5, 40, 50, 60, 75, 80, 100 |
+| Estradiol patch     | Estradiol                  | Dermestril (-Septem), Estrapatch, Femsept, Oesclim, Thais (-sept), Vivelledot |       25, 37,5, 40, 50, 60, 75, 100 |
 | Estradiol gel       | Estradiol                  | Delidose, Estreva, Oestrodose                                                 |                        0,5, 0,75, 1 |
 | Progestatif         | Dydrogestérone             | Duphaston                                                                     |                                  10 |
 |                     | Médrogestone               | Colprone                                                                      |                                   5 |

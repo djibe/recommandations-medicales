@@ -305,7 +305,7 @@ Favorisée par l'obésité et une hernie hiatale.
 
 [Zerbib F. Diagnostic actuel du RGO : Consensus de Lyon (GUT 2018). POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-actuel-du-rgo-consensus-de-lyon-gut-2018/)
 
-{{< youtube id="Kf2iGE3aUrI" title="Vidéo d'explications du traitement du reflux gastro-œsophagien" >}}
+{{< youtube id="Kf2iGE3aUrI" title="Vidéo d'explications du traitement du reflux gastro-œsophagien (SNFGE)" >}}
 
 {{%/collapse%}}
 {{%sources%}}

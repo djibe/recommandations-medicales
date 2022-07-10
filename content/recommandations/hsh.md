@@ -2,16 +2,16 @@
 title = "Hommes ayant des rapports sexuels avec des hommes"
 prefix = "les "
 titleSeo = "HSH"
-description = "Mesures de prévention à proposer aux hommes ayant des rapports sexuels avec des hommes (HSH): PrEp, sérologies des IST, Gardasil, hépatite A..."
+description = "Mesures de prévention à proposer aux hommes ayant des rapports sexuels avec des hommes (HSH): PrEP, sérologies des MST, vaccins papillomavirus, hépatites A et B"
 synonyms = ["Homosexuel ou bisexuel masculin"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-22T17:43:41+02:00"
 publishdate = "2020-07-22"
-lastmod = "2021-08-25"
+lastmod = "2022-07-10"
 specialites = ["infectiologie"]
 annees = "2020"
 sources = ["HAS", "MinSanté"]
-tags = ["depistage", "HSH", "IST", "vaccin", "VIH"]
+tags = ["depistage", "HSH", "IST", "prevention", "vaccin", "VIH"]
 anglais = ["Men who have sex with men (MSM)"]
 sctid = "76102007"
 image = true
@@ -30,9 +30,11 @@ todo = "TODO: gono, https://www.eacsociety.org/files/2019_guidelines-10.0_final.
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-**HSH:** Homme ayant des rapports sexuel avec des hommes
+HSH
+: Homme ayant des rapports sexuel avec des hommes
+{.dl-inline}
 
-Surexposition au [VIH]({{< relref "vih-sida.md" >}}) (prévalence 13%, 45% des cas), [syphilis]({{< relref "syphilis.md" >}}) (80% des cas), HPV, [hépatite A]({{< relref "hepatite-A.md" >}}), autres IST.
+Surexposition au [VIH]({{< relref "vih-sida.md" >}}) (prévalence 13%, 45% des cas), [syphilis]({{< relref "syphilis.md" >}}) (80% des cas), HPV, [hépatite A]({{< relref "hepatite-A.md" >}}), Monkeypox et autres IST.
 
 ### Épidémiologie
 
@@ -76,7 +78,7 @@ Bilans à proposer en cas de conduites sexuelles à risque:
 - Dépistage tous les 3 mois du [VIH]({{< relref "vih-sida.md" >}})
 - Dépistage tous les 3 à 6 mois de *[Chlamydia trachomatis]({{< relref "chlamydia-trachomatis.md" >}})*
 
-### PrEp
+### La PrEP
 
 Aborder avec toutes les personnes ayant des rapports non protégés avec des personnes de statut virologique inconnu (voir [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}})).
 
@@ -85,6 +87,10 @@ Aborder avec toutes les personnes ayant des rapports non protégés avec des per
 Post systématique avec tout partenaire dont le statut sérologique n'est pas connu.
 
 ### Vaccinations
+
+#### Vaccin Monkeypox
+
+Voir *Monkeypox*
 
 #### Vaccin hépatite A
 
@@ -105,6 +111,7 @@ Spécialités chez l'adulte:
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)

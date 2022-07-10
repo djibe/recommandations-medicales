@@ -14,15 +14,17 @@ sources = ["Assurance Maladie"]
 tags = []
 anglais = []
 sctid = ""
-todo = "TODO: summary, modalité papier/ameli, MOOC, https://www.fmfpro.org/reprise-du-travail-apres-un-arret-prolonge.html"
+todo = "TODO: summary, reprise temps partiel, modalité papier/ameli, https://www.fmfpro.org/reprise-du-travail-apres-un-arret-prolonge.html | Arrêt dépression: suivi hebdo, psycho, antidep 6 mois, temps partiel"
 +++
 
 {{%article-summary%}}
 
-À compléter
+TODO: À compléter
 
 {{%/article-summary%}}
-{{%collapse "Abréviations officielles" %}}
+{{%collapse "Définitions" %}}
+
+### Abréviations officielles
 
 AAT
 : Arrêt de travail
@@ -76,13 +78,13 @@ MDE
 : Maintien dans l'emploi
 
 MDPH
-:Maison Départementale des Personnes Handicapées
+: Maison Départementale des Personnes Handicapées
 
 MEE
 : Maintien en emploi
 
 MP
-:Maladie professionnelle
+: Maladie professionnelle
 
 PCH
 : Prestation de compensation du handicap
@@ -106,6 +108,11 @@ TAD
 : Trouble anxio-dépressif
 {.dl-inline}
 
+### Les arrêts de travail ne France
+
+- 361 millions de journées d'arrêts de travail pour 13,9 milliards d'euros
+- Période 2014-2019: +21,6% de journées (pour seulement +2% de salariés)
+
 {{% /collapse %}}
 {{%collapse "Arrêt de travail et vacances" %}}
 
@@ -120,6 +127,8 @@ Préciser l'adresse exacte de résidence durant le séjour.
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< card-link title="Arrêts de travail : prévenir, prescrire, accompagner ..." url="https://www.fun-mooc.fr/fr/cours/arrets-de-travail-prevenir-prescrire-accompagner-la-reprise/" subtitle="FMC par l'Assurance Maladie">}}
 
 TODO
 

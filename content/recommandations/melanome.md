@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-29T14:54:41+02:00"
 publishdate = "2020-11-30"
-lastmod = "2021-03-01"
+lastmod = "2022-07-10"
 specialites = ["dermatologie"]
 annees = "2017"
 sources = ["HAS", "SFDermato"]
@@ -62,8 +62,8 @@ Indice de Breslow, de Clark, ulcération, index mitotique, emboles vasculaires.
 ### Épidémiologie du mélanome
 
 - 13<sup>e</sup> cancer de la femme, 7<sup>e</sup> de l'homme
-- **Incidence:** 15.400 nouveaux cas en 2017  
-{{%class%}}47% de femmes. Incidence en augmentation de 10 %/an depuis 50 ans.{{%/class%}}
+- **Incidence:** 15.500 nouveaux cas en 2018  
+  {{%class%}}47% de femmes. Incidence en augmentation de 10 %/an depuis 50 ans. x50 sur période 1990-2018{{%/class%}}
 - Âge moyen au diagnostic: 56 ans.
 - Décès annuels: 1783 en 2017  
 {{%class%}}58% d'hommes. 1,2% des décès par cancer.{{%/class%}}
@@ -72,7 +72,7 @@ Indice de Breslow, de Clark, ulcération, index mitotique, emboles vasculaires.
 - 10% des mélanomes sont familiaux (≥ 2 personnes atteintes dans une famille).
 - Très rares formes muqueuses ou rétiniennes.
 - 80% sont détectés par le patient (*FMC EREVO*)  
-Attention à toute lésion présentée par le patient.
+  Attention à toute lésion présentée par le patient.
 
 {{% /collapse %}}
 {{%collapse "Facteurs de risques de mélanome" %}}
@@ -195,13 +195,18 @@ Systématique pour les patients de plus de 75 ans avant la RCP.
 {{% /collapse %}}
 {{%collapse "Prévention du mélanome" %}}
 
+- Gestes de protection contre les rayons UV (INCa)
+  - Ne pas exposer les enfants de moins de 3 ans aux rayons UV
+  - Rechercher l'ombre au maximum et ne pas s'exposer aux heures les plus chaudes (de 10h à 14h en Outre-mer et de 12h à 16h en métropole)
+  - Se couvrir : porter des habits longs et amples, un chapeau à bords larges et des lunettes de soleil avec filtre anti-UV
+  - Protéger les parties découvertes du corps avec de la crème solaire indice SPF50, à renouveler toutes les 2 heures
 - Information sur les risques liés à l'exposition solaire ou artificielle
 - Photoprotection cutanée  
-Il n'est pas prouvé qu'elle réduise le risque de mélanome.
+  Il n'est pas prouvé qu'elle réduise le risque de mélanome.
 - Limiter les expositions solaires
 - Personnes à risque
   - Auto-dépistage tous les 3 mois  
-  Voir *Éducation thérapeutique*.
+    Voir *Éducation thérapeutique*.
   - Surveillance annuelle par le dermatologue
 
 {{% /collapse %}}
@@ -291,6 +296,7 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 {{% /collapse %}}
 {{%sources%}}
 
+- [INCa. << L'ombre, c'est l'endroit le plus cool de l'été ! >>: la nouvelle campagne d'information de l'Institut national du cancer sur la prévention des risques solaires. 04/07/2022.](https://www.e-cancer.fr/Actualites-et-evenements/Actualites/L-ombre-c-est-l-endroit-le-plus-cool-de-l-ete-!-la-nouvelle-campagne-d-information-de-l-Institut-national-du-cancer-sur-la-prevention-des-risques-solaires)
 - [HAS. Mélanome cutané : la détection précoce est essentielle. 11/02/2020.](https://www.has-sante.fr/jcms/pprd_2974838/fr/melanome-cutane-la-detection-precoce-est-essentielle?fbclid=IwAR0lsNr1vfC7AvM-SeKrLZlYNiRb0q4bgx4_mgwkQRRjHLJNMPPIlmxWC_U)
 - [Oncologik. Mélanomes vulvaires et vaginaux. 24/01/2020.](http://oncologik.fr/referentiels/rrc/melanomes-vulvaires-et-vaginaux)
 - [Oncologik. Mélanome cutané. 22/03/2019.](http://oncologik.fr/referentiels/oncolor/melanome-cutane)

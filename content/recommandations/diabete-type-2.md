@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-06-16"
+lastmod = "2022-07-09"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["SFD", "ESC", "EASD", "ADA", "HAS"]
@@ -16,7 +16,7 @@ anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | IC: met > iSGLT2 (voire lira/séma/dula sauf ICFEd ou sita) | MCV: met > GLP1/iSGLT2 (maintien si insuline), sitagliptine si recours | Post-IDM + diabète: simva + ezetimibe"
+todo = "glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | Post-IDM + diabète: simva + ezetimibe"
 +++
 
 {{%article-summary%}}
@@ -94,7 +94,7 @@ Rémission du diabète
 {{%info%}}Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75% (*ESC 2019 diabetes*){{%/info%}}
 
 {{% /collapse %}}
-{{%collapse "Escalade thérapeutique" %}}
+{{%collapse "Escalade thérapeutique" "show" %}}
 
 *Version préliminaire d'après SFD 2021*
 
@@ -110,11 +110,11 @@ Rémission du diabète
     <label for="standard" class="chip chip-action chip-choice">Sans</label>
     <input type="radio" name="assistant" id="obese" class="d-input-none">
     <label for="obese" class="chip chip-action chip-choice" data-toggle="tooltip" title="Obésité grade 2">IMC &ge; 35</label>
-    <input type="radio" name="assistant" id="mcv" class="d-input-none" disabled>
+    <input type="radio" name="assistant" id="mcv" class="d-input-none">
     <label for="mcv" class="chip chip-action chip-choice" data-toggle="tooltip" title="Maladie cardiovasculaire">MCV</label>
     <input type="radio" name="assistant" id="mrc" class="d-input-none">
     <label for="mrc" class="chip chip-action chip-choice" data-toggle="tooltip" title="Maladie rénale chronique">MRC</label>
-    <input type="radio" name="assistant" id="ic" class="d-input-none" disabled>
+    <input type="radio" name="assistant" id="ic" class="d-input-none">
     <label for="ic" class="chip chip-action chip-choice" data-toggle="tooltip" title="Insuffisance cardiaque">Insuf. cardiaque</label>
   </fieldset>
 </form>
@@ -141,6 +141,19 @@ Rémission du diabète
   <h3 class="typography-overline mt-3">Troisième ligne</h3>
   <p>Si insuffisants: avis endocrinologique et informer sur la chirurgie bariatrique</p>
 </div>
+<div class="mb-2 choix-mcv">
+  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1ra">GLP-1</button>
+  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
+  <p class="mt-3 mb-4">Maintenir même si insuline.</p>
+  <h3 class="text-primary typography-overline mt-3">Troisième ligne</h3>
+  <p>Si insuffisants: avis endocrinologique</p>
+</div>
+<div class="mb-2 choix-ic">
+  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
+  <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-glp1ra">GLP-1</button>
+  <h3 class="text-primary typography-overline mt-3">Troisième ligne</h3>
+  <p>Si insuffisants: avis endocrinologique</p>
+</div>
 <div class="mb-2 choix-mrc">
   <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-glp1ra">GLP-1</button>
   <h3 class="typography-overline mt-3">Trithérapie - Selon les traitements essayés</h3>
@@ -148,12 +161,9 @@ Rémission du diabète
   <p>En maintenant l'iSGLT2 ou le GLP-1.<br>
   Suivi spécialisé systématique.</p>
 </div>
-<div class="mb-2 choix-ic">
-  <button class="chip chip-action" type="button">iSGLT2</button>
-</div>
 <!-- 3e intention -->
 <div class="mb-2 choix-standard">
-<h3 class="typography-overline mt-3">Trithérapie - Selon les traitements essayés</h3>
+<h3 class="text-primary typography-overline mt-3">Trithérapie - Selon les traitements essayés</h3>
 <div class="accordion mb-5" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" role="button">
@@ -215,7 +225,7 @@ Rémission du diabète
   </div>
 </div>
 <!-- 4e intention -->
-<h3 class="typography-overline mt-3">4e intention</h3>
+<h3 class="text-primary typography-overline mt-3">4e intention</h3>
 <ul>
   <li>Avis endocrinologique de préférence</li>
   <li>Sinon metformine + <a role="button" data-toggle="modal" href="#modal-glp1ra">GLP1</a> + <a role="button" data-toggle="modal" href="#modal-isglt2">iSGLT2</a>/<a role="button" data-toggle="modal" href="#modal-su">SU</a></li>

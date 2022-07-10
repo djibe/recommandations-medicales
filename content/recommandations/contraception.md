@@ -29,7 +29,7 @@ todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult 
 - Informer sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
 - Pas d'interaction DIU et AINS
 
-Article lié: [acné]({{< relref "acne.md" >}}), [ménopause]({{< relref "menopause.md" >}})
+Chapitres lié: [acné]({{< relref "acne.md" >}}), [ménopause]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

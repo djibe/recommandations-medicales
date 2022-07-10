@@ -282,7 +282,7 @@ Le gluten est présent dans toutes les variétés de blé, froment, épeautre, o
 Un remboursement par l'[Assurance Maladie](https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/remboursement-aliments-sans-gluten-ameli) est possible jusqu'à 45,73 euros par mois de produits sans gluten.
 
 {{% /collapse%}}
-{{%collapse "Conduite à tenir" "show" %}}
+{{%collapse "Prise en charge de la maladie coeliaque" "show" %}}
 
 {{< mermaid title="Conduite à tenir en cas de suspicion de maladie cœliaque. Dr JB Fron d'après ESsCD 2019" >}}
 graph TB
@@ -295,10 +295,12 @@ graph TB
       gastro -- Diagnostic infirmé --> explo("Poursuite du bilan<br>par le spécialiste")
 {{< /mermaid >}}
 
-> **ATCD** = antécédents; **fam** = familiaux; **MC** = maladie cœliaque
+> **ATCD** = antécédents ; **fam** = familiaux ; **MC** = maladie cœliaque
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< youtube id="l3CGdp4T7Fw" title="Le régime sans gluten (RSG) : pour qui et pourquoi ? (TutoGastro SNFGE)" >}}
 
 - Prescrire Redaction. Intolérance au gluten - L'essentiel sur les soins de premier choix. Janvier 2020.
 - [Al-Toma A et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. UEG Journal. 2019.](https://doi.org/10.1177%2F2050640619844125)

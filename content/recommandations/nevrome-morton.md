@@ -2,12 +2,12 @@
 title = "Métatarsalgies et névrome de Morton"
 prefix = "les "
 titleSeo = "Névrome de Morton"
-description = "Recommandations sur les examens et traitements à proposer en cas de névrome de Morton ou de métatarsalgies. Radiographies, semelles orthopédiques ..."
+description = "Recommandations sur les examens et traitements à proposer en cas de névrome de Morton dit métatarsalgies. Radiographies, semelles orthopédiques ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-01-08T08:58:20+02:00
-publishdate = 2021-01-08
-lastmod = 2022-05-17
+date = "2021-01-08T08:58:20+02:00"
+publishdate = "2021-01-08"
+lastmod = "2022-05-17"
 specialites = ["rhumatologie"]
 annees = "2013"
 sources = ["RevMedSuis", "SFD"]
@@ -39,7 +39,10 @@ Bursite inter-capito-métatarsienne.
 {{%/collapse%}}
 {{%collapse "Clinique" %}}
 
-Douleur plantaire aiguë des métatarses (3 et 4e) provoquée par la marche, [neuropathique]({{< relref "douleur-neuropathique.md" >}}), avec irradiation aux orteils contigus. Allodynie mécanique en regard dde la zone douloureuse.
+### Symptômes du névrome de Morton
+
+Douleur plantaire aiguë des métatarses (3 et 4e) provoquée par la marche, [neuropathique]({{< relref "douleur-neuropathique.md" >}}), avec irradiation aux orteils contigus.  
+Allodynie mécanique en regard de la zone douloureuse.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -55,8 +58,10 @@ En cas de doute diagnostique.
 {{%/collapse%}}
 {{%collapse "Traitement du névrome de Morton" %}}
 
-- Semelles sur mesure
-- Infiltrations de corticoïdes
+Prise en charge du névrome de Morton avec:
+
+- Semelles orthopédiques sur mesure
+- voire infiltrations de corticoïdes
 
 La chirurgie est réservée aux échecs du traitement médical.
 

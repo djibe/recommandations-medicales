@@ -130,7 +130,7 @@ Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr/).
 {{%sources%}}
 
 - {{< references/college-gastro >}}
-- [Neuzillet C et al. Thésaurus National de Cancérologie Digestive (TNCD). Dig Liver Dis. 24/01/2021.](https://www.snfge.org/download/file/fid/4204)
+- [Thésaurus National de Cancérologie Digestive (TNCD). Dig Liver Dis. 24/01/2021.](https://www.snfge.org/content/9-cancer-du-pancreas)
 
 ### À lire
 

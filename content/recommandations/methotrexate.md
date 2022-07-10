@@ -18,7 +18,7 @@ sctid = "387381009"
 
 {{%article-summary%}}
 
-- Ordonnance
+- Ordonnance de méthotrexate
   - Préciser le jour de la prise et rappeler qu'il ne doit être pris qu'un seul jour par semaine
   - Mentionner l'indication, le dosage et la posologie en mg
   - Le jour de la prise de l'acide folique
@@ -27,7 +27,7 @@ sctid = "387381009"
 - [Carte patient sous méthotrexate](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-carte-patient-version-1-2021-03.pdf)
 
 {{%/article-summary%}}
-{{%collapse "Contre-indications" %}}
+{{%collapse "Contre-indications au méthotrexate" %}}
 
 {{%warning%}}En cas de grossesse sous méthotrexate, adresser au diagnostic anténatal en semi-urgence{{%/warning%}}
 
@@ -59,6 +59,8 @@ Associations médicamenteuses déconseillées: AINS, pénicilline, ciprofloxacin
 
 ### Utilisation à posologie immunodépressive
 
+Effets indésirables du méthotrexate lors d'une immunosuppression:
+
 - Troubles digestifs fréquents  
   Diarrhées, nausées
 - Syndrome post-injection  
@@ -78,6 +80,8 @@ Associations médicamenteuses déconseillées: AINS, pénicilline, ciprofloxacin
 
 ### Bilan pré-thérapeutique du méthotrexate
 
+Bilan pré-méthotrexate:
+
 - Recherche de foyer infectieux  
   NFS, sérologies VHB et VHC, quantiféron (TODO:).
 - Créatininémie
@@ -86,8 +90,8 @@ Associations médicamenteuses déconseillées: AINS, pénicilline, ciprofloxacin
   Systématique avant de débuter le traitement.
 - ßHCG
 - Spirométrie si: tabac, BPCO, emphysème
-
-Selon *Prescrire*, contrôler la vitamine B12 après 50 ans (la supplémentation en B9 masque une carence).
+- +50 ans: vitamine B12 (*Prescrire*)  
+  La supplémentation systématique en vitamine B9 masque une carence.
 
 ### Suivi biologique sous méthotrexate
 
@@ -98,7 +102,7 @@ Selon *Prescrire*, contrôler la vitamine B12 après 50 ans (la supplémentation
 {{% /collapse %}}
 {{%collapse "Spécialités - Fiches RCP - Grossesse" %}}
 
-### Spécialités
+### Spécialités de méthotrexate
 
 - Imeth (cp, cp séc, SC)
 - Méthotrexate ([cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60390455&typedoc=R), [SC](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65917662&typedoc=R))
@@ -117,14 +121,14 @@ Selon *Prescrire*, contrôler la vitamine B12 après 50 ans (la supplémentation
 
 {{% info %}}Acide folique 5 mg, 1cp 2 jours après la prise du méthotrexate{{% /info %}}
 
-La supplémentation en acide folique (vitamine B9) réduit les effets indésirables:
+La supplémentation en acide folique (vitamine B9) réduit les effets indésirables du méthotrexate:
 
 - Symptômes gastro-intestinaux
 - Stomatite
 - Alopécie
 - Augmentation  des enzymes hépatiques
 
-**NB.** Contrôler la vitamine B12 avant le traitement (l'acide folique perturbe le dosage ensuite).
+**NB.** Contrôler la **vitamine B12** avant le traitement (l'acide folique perturbe le dosage ensuite).
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

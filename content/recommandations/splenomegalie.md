@@ -14,7 +14,6 @@ sources = ["UMVF"]
 tags = []
 anglais = ["Splenomegaly"]
 sctid = "16294009"
-draft = true
 flowchart = true
 todo = "source on flowchart, tableau avec anomalies biologiques"
 +++

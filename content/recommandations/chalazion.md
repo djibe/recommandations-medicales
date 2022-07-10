@@ -33,6 +33,8 @@ Stagnation des sécrétions sébacées le plus souvent sans surinfection bactér
 
 ## Traitement du chalazion {.mt-5}
 
+Traitement recommandé d'un chalazion:
+
 - Soins de paupières  
   Humidification à l'eau chaude puis massages avec le doigt, de la base vers le bord libre pour drainer les sécrétions.
 - Éviter le port de lentilles pendant toute la durée du traitement
