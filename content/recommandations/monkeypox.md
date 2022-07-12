@@ -14,32 +14,40 @@ tags = ["HSH", "IST", "prevention", "vaccin"]
 anglais = ["Monkeypox"]
 sctid = "359814004"
 draft = true
-image = false
-imageSrc = ""
-todo = "COREB, ANSM, SPF, fiche HSH"
+image = true
+imageSrc = "Illustration du Monkeypox par brgfx / www.freepik.com"
+todo = "COREB, ANSM, SPF, fiche HSH, Prescrire"
 +++
 
 {{%article-summary%}}
 
 - Poliovirus: [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
+- [Flyer d'info Variole du singe](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-transmissibles-de-l-animal-a-l-homme/monkeypox/documents/depliant-flyer/variole-du-singe-monkeypox-flyer-a5) (*SPF*)
 TODO:
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Monkeypox ou variole du singe
-: Maladie infectieuse par transmission du virus Monkeypox. Contamination directe par muqueuse ou peau lésée ou gouttelettes.
+: Maladie infectieuse liée virus Monkeypox (Orthopoxvirus). Contamination directe par muqueuse ou peau lésée ou gouttelettes, habituellement dans les zones forestières d'Afrique du Centre et de l'Ouest par des rongeurs sauvages ou des primates puis dans le foyer familial.
 : [HSH]({{< relref "hsh.md" >}}) à 97%
 
 Cas suspect de Monkeypox
-:
+: Signes cliniques évocateurs de Monkeypox sans exposition à risque. Diagnostic biologique.
 
 Cas possible de Monkeypox
-: 
+: Signes cliniques évocateurs de Monkeypox et ≥ 1 exposition à risque (retour d'un pays d'endémie, partenaires sexuels multiples). Diagnostic biologique dispensable si lésions typiques.
+
+Cas probable de Monkeypox
+: Signes cliniques évocateurs de Monkeypox et lien épidémiologique avec un cas confirmé. Pas de test biologique.
+
+Cas confirmé de Monkeypox
+: Diagnostic biologique avec qPCR d'Orthopoxvirus positif ± séquençage partiel du virus MKP.
 
 Personne à risque d'exposition au Monkeypox
 : Contact direct non protégé avec une lésion ou contact à < 2 mètres pendant 3 heures sur la journée.
-: Définition *Santé Publique France*
+
+> Définitions de *Santé Publique France*
 
 ### Abréviations
 
@@ -48,8 +56,14 @@ HSH
 {.dl-inline}
 
 {{% /collapse %}}
+{{%collapse "Clinique" %}}
+
+TODO:
+
+{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+TODO:
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
@@ -65,16 +79,22 @@ Toutes les personnes avec risque élevé d'exposition au virus:
 
 > *HAS 08/07/2022*
 
-Le schéma de vaccination est identique à la vaccination Monkeypox post-exposition
+Le schéma de vaccination est identique à la vaccination Monkeypox post-exposition (voir *Traitement*).
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
 {{%warning%}}Poliovirus = [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}){{%/warning%}}
 
-- Vaccination post-exposition
+- 21 jours d'isolement
+- Vaccination post-exposition des contacts
+  - Vaccins Imvanex et Jynneos dont la protection n'est pas immédiate
   - 2 doses à J0-J28, les vaccins sont interchangeables
-  - 1 seule dose si déjà vacciné contre la variole
+  - 1 seule dose si déjà vacciné contre la variole, 3 doses si immunodépression
+
+### Antiviral Tecovirimat
+
+Indiqué chez les personnes à risque de forme grave de variole du singe.
 
 {{% /collapse %}}
 {{%sources%}}

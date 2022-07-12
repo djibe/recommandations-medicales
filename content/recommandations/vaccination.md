@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2022-07-06"
+lastmod = "2022-07-12"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["MinSanté", "HCSP"]
@@ -58,6 +58,7 @@ VVA
 {{< table title="Calendrier des vaccins recommandés en France en 2022. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Ministère de la Santé 2022" >}}
 | Âge     | Valences      | Spécialités équivalentes       |
 |:-------:|---------------|--------------------------------|
+| 6 sem   | Rotavirus (HAS) | RotaTeq, Rotarix             |
 | 2 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
 | 3 mois  | Méningo B  | Bexsero                           |
 | 4 mois  | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
@@ -84,11 +85,12 @@ VVA
 | Coqueluche   | 39 ans                   | [Grossesse, cocooning]({{< relref "coqueluche.md" >}}) |
 | Haemophilus  | 5 ans                    | [Asplénie]({{< relref "asplenie.md" >}}) |
 | Hépatite B   | 15 ans                   | [Hépatite B]({{< relref "hepatite-b.md" >}}) |
-| Méningocoque B | 23 mois                | |
+| Méningocoque B | 23 mois                |                         |
 | Méningocoque C | 24 ans                 | Dose unique après 12 mois |
 | Papillomavirus | 19 ans                 | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}}) |
-| Pneumocoque  | 23 mois                  | BPCO, diabète ... |
-| Rougeole<br>Oreillons<br>Rubéole | 42 ans | |
+| Pneumocoque  | 23 mois                  | BPCO, diabète ...       |
+| Rotavirus    | 6 mois                   | 3 doses avec RotaTeq    |
+| Rougeole<br>Oreillons<br>Rubéole | 42 ans |                       |
 | Varicelle    | 18 ans                   | [Autour d'un cas]({{< relref "varicelle.md" >}}) |
 {{< /table >}}
 
@@ -262,6 +264,7 @@ Le don du sang est contre-indiqué durant quatre semaines après les vaccination
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. La HAS recommande la vaccination des nourrissons contre les infections à rotavirus. 12/07/2022.](https://www.has-sante.fr/jcms/p_3352137/fr/la-has-recommande-la-vaccination-des-nourrissons-contre-les-infections-a-rotavirus)
 - {{< references/calendrier-vaccinal >}}
 - [Décret 2022-610 pour la vaccination par les infirmiers et pharmaciens](https://www.mesvaccins.net/textes/2022-04-21-JO-DECRET-2022-610.pdf)
 - [Infovac](https://www.infovac.fr/)

@@ -33,7 +33,7 @@ Recommandations simplifiées pour un traitement réaliste:
 3. Biphosphonate en 1<sup>er</sup> traitement anti-ostéoporotique selon T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou tout T-score ≤ -3
 4. Avis rhumatologique si T-score proche (1 point) de l'indication de traiter
 5. Biphosphonate: bilan bucco-dentaire, [acide alendronique 70 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69784280&typedoc=R) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 75 mg 2 jours de suite 1 fois par mois
-    - ≥ 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)  
+    - Au moins 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)  
     - Fracture fémorale (FESF): [zolédronate 5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture).
 6. Contrôle de l'ostéodensitométrie à 2-3 ans ± avis rhumatologique
 7. Nouveau contrôle 2 ans après l'arrêt du traitement
