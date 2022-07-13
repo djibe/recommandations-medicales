@@ -77,7 +77,7 @@ La **vaccination anti-amarile** est réalisée dans un centre homologué avec re
 
 1 injection au moins 10 jours avant le départ sans rappel (possible dès l'âge de 9 mois).
 
-{{< card-link title="Liste des centres de vaccination fièvre jaune par département" url="https://solidarites-sante.gouv.fr/IMG/pdf/tableau_cvfj_janvier_2019.pdf" subtitle="Ministère de la Santé" image="ministere" >}}
+{{< card-link title="Liste des centres de vaccination fièvre jaune par département" url="https://solidarites-sante.gouv.fr/IMG/pdf/tableau_cvfj_fevrier_2022.pdf" subtitle="Ministère de la Santé" image="ministere" >}}
 
 {{% /collapse %}}
 {{%sources%}}

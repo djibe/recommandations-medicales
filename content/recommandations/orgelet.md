@@ -19,8 +19,9 @@ imageSrc = "Andre Riemann, domaine public, via Wikimedia Commons"
 
 {{%article-summary%}}
 
-- Antibiothérapie 7 jours
-- Voir aussi [Chalazion]({{< relref "chalazion.md" >}})
+Antibiothérapie locale 7 jours
+
+Chapitre lié: [Chalazion]({{< relref "chalazion.md" >}})
 
 {{%/article-summary%}}
 
@@ -31,18 +32,18 @@ Orgelet
 : Infection bactérienne le plus souvent à Staphylocoque doré.  
 Tuméfaction inflammatoire centrée par un point blanc.
 
-## Traitement {.mt-5}
+## Traitement de l'orgelet {.mt-5}
 
-- Traitement antibiotique 7 jours
+- Prise en charge par traitement antibiotique pendant 7 jours
 - Ne pas porter les lentilles de contact pendant toute la durée du traitement
 - Penser à rechercher un diabète en récidives fréquentes (Université St-Etienne)
 - Si échec: avis ophtalmologique
 
-### Antibiothérapie {.mt-5}
+### Antibiothérapie de l'orgelet {.mt-5}
 
-Antibiothérapie pendant **7 jours**.
+Prise en charge de l'orgelet par un collyre ou une pommade antibiotique pendant **7 jours**.
 
-{{< table title="Antibiotiques disponibles pour le traitement d'un orgelet" >}}
+{{< table title="Antibiotiques disponibles pour le traitement d'un orgelet. Dr JB Fron d'après BDPM" >}}
 | Famille      | Spécialité  | Posologie |
 |--------------|-------------|-----------|
 | acide fusidique | [fucithalmic 1% gel opht](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69088419&typedoc=R) | 1 gte x 2/j |

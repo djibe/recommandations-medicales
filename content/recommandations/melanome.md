@@ -21,6 +21,10 @@ todo = "MAJ"
 {{%article-summary%}}
 
 - Message de prévention du mélanome: << L'ombre, c'est l'endroit le plus cool de l'été ! >> (*[INCa 2022](https://www.e-cancer.fr/Actualites-et-evenements/Actualites/L-ombre-c-est-l-endroit-le-plus-cool-de-l-ete-!-la-nouvelle-campagne-d-information-de-l-Institut-national-du-cancer-sur-la-prevention-des-risques-solaires)*)
+  - Aucune exposition aux UV avant 3 ans
+  - Ne pas s'exposer de 12-16h et 10-14h en Outre-mer
+  - Se couvrir: habits longs et amples, un chapeau à bords larges et des lunettes de soleil avec filtre anti-UV
+  - Protéger les parties découvertes du corps avec de la crème solaire indice SPF50, à renouveler toutes les 2 heures
 - Personnes à risque de mélanome: auto-examen cutané tous les 3 mois et consultation annuelle du dermatologue
 - Une lésion mélanocytaire est suspecte si elle remplit ≥ 2 critères ABCDE
 - Un nævus est suspect s'il est différent des autres

@@ -16,7 +16,7 @@ sctid = "359814004"
 draft = true
 image = true
 imageSrc = "Illustration du Monkeypox par brgfx / www.freepik.com"
-todo = "COREB, ANSM, SPF, fiche HSH, Prescrire"
+todo = "COREB, ANSM, SPF, HCSP, fiche HSH, Prescrire"
 +++
 
 {{%article-summary%}}
@@ -28,9 +28,12 @@ TODO:
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
+{{%info%}}L'infection par le virus de la variole du singe n'est pas connue comme une [IST](/tags/ist/), mais le contact direct avec une peau lésée durant un rapport sexuel facilite la transmission (*SPF*){{%/info%}}
+
 Monkeypox ou variole du singe
-: Maladie infectieuse liée virus Monkeypox (Orthopoxvirus). Contamination directe par muqueuse ou peau lésée ou gouttelettes, habituellement dans les zones forestières d'Afrique du Centre et de l'Ouest par des rongeurs sauvages ou des primates puis dans le foyer familial.
-: [HSH]({{< relref "hsh.md" >}}) à 97%
+: Maladie infectieuse liée virus Monkeypox (Orthopoxvirus). Contamination directe par muqueuse ou peau lésée ou gouttelettes. Contamination également possible par literie, vêtements, vaisselle, linge de bain ...  
+Les zones d'endémie sont les zones forestières d'Afrique du Centre et de l'Ouest avec contamination par des rongeurs sauvages ou des primates puis dans le foyer familial.
+: 721 cas confirmés en France au 7 juillet, à 97% des [HSH]({{< relref "hsh.md" >}}).
 
 Cas suspect de Monkeypox
 : Signes cliniques évocateurs de Monkeypox sans exposition à risque. Diagnostic biologique.
@@ -58,7 +61,18 @@ HSH
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-TODO:
+Délai médian au diagnostic de Monkeypox de 6 jours.
+
+### Interrogatoire
+
+Signes et symptômes de la variole du singe:
+
+- Fièvre (79%)
+- Adénopathies (75%)
+- Éruption vésiculeuse avec contenu liquidien
+  - Localisation génito-anale (81%) et autre (74%)
+
+> Statistiques *SPF*
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -86,8 +100,9 @@ Le schéma de vaccination est identique à la vaccination Monkeypox post-exposit
 
 {{%warning%}}Poliovirus = [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}){{%/warning%}}
 
-- 21 jours d'isolement
+- 21 jours d'isolement, y compris au sein du logement
 - Vaccination post-exposition des contacts
+  - Dans les 4 à 14 jours après l'exposition à risque
   - Vaccins Imvanex et Jynneos dont la protection n'est pas immédiate
   - 2 doses à J0-J28, les vaccins sont interchangeables
   - 1 seule dose si déjà vacciné contre la variole, 3 doses si immunodépression
@@ -99,11 +114,12 @@ Indiqué chez les personnes à risque de forme grave de variole du singe.
 {{% /collapse %}}
 {{%sources%}}
 
-[HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)
+- [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)
+- [Santé Publique France. Cas de variole du singe : point de situation au 7 juillet 2022. 08/07/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-7-juillet-2022)
 
 ### À lire
 
-- [DGS-Urgent 2022_65](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
+- [DGS-Urgent 2022_65, 61, 58](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HCSP. Mesures de prévention vis-à-vis de l'infection à Monkeypox virus. 09/07/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1230)
 - [COREB. Monkeypox - Prendre en charge les patients.](https://www.coreb.infectiologie.com/fr/prendre-en-charge-les-patients-fiches-pratiques.html)
 - [COREB. Monkeypox - Fiche conseils patient.](https://www.coreb.infectiologie.com/fr/alertes-infos/monkeypox-fiche-conseils-patient-et-actualisation-de-la-fiche-soignants_-n.html)

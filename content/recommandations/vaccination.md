@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2022-07-12"
+lastmod = "2022-07-13"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["MinSanté", "HCSP"]
@@ -189,13 +189,14 @@ Contre-indications temporaires à la vaccination:
 
 {{%warning%}}<< La présence d'une infection mineure ou d'une fièvre de faible intensité ne doit pas retarder le rattrapage vaccinal. L'existence d'une maladie fébrile (> 38°C) ou d'une infection aiguë modérée ou sévère ne contre-indique pas la vaccination mais peut conduire à la différer de quelques jours >> (*Calendrier vaccinal*){{%/warning%}}
 
-Contrôler la date de péremption du vaccin, la chaîne du froid (à l'abri de la lumière, température de 2°C à 8°C), consigner le lot dans le dossier médical.
+Contrôler la date de péremption du vaccin, la chaîne du froid (à l'abri de la lumière, température de 2°C à 8°C), consigner le lot dans le dossier médical.  
+Changer d'aiguille après la reconstitution du vaccin.
 
 Possibilité de réaliser jusqu'à 4 injections en même temps, dont 2 sur le même site (2 IM, 2 SC ou IM + SC) espacées d'au moins 2,5 cm.  
 La présence d'une infection mineure ne doit pas retarder le rattrapage vaccinal.  
 Vaccins vivants, soit injectés en même temps ou sinon laisser 1 mois de délai entre les 2 injections.
 
-Vider l'air de la seringue, désinfection locale et laisser sécher (risque d'inactivation du vaccin), insérer avec angle de 90° avec la peau, injection rapide avec retrait rapide (testée chez nourrisson).
+Vider l'air de la seringue (optionnel), désinfection locale et laisser sécher (risque d'inactivation du vaccin), insérer avec angle de 90° avec la peau, injection rapide avec retrait rapide (testée chez nourrisson). Pas d'aspiration préalable nécessaire.
 
 Disposer du matériel nécessaire à un choc anaphylactique.
 
