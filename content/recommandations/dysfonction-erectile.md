@@ -6,7 +6,7 @@ synonyms = ["Impuissance"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-05-05T12:48:09+02:00"
 publishdate = "2020-05-05"
-lastmod = "2022-06-14"
+lastmod = "2022-07-14"
 specialites = ["urologie"]
 annees = "2018"
 sources = ["AIUS"]
@@ -25,8 +25,8 @@ todo = "https://www.sfcardio.fr/publication/chemin-clinique-pour-le-depistage-et
 
 - Dépister systématiquement chez le diabétique, marqueur de maladie endothéliale et des autres complications du diabète
 - Vérifier les contre-indications aux IPDE5
-- [Sildénafil 50 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69085330&typedoc=R) (Viagra®, gén) à la demande (max 1/j)  
-  Selon l'effet, utiliser de 25 à 100 mg (efficace 4-5 heures)
+- [Tadalafil 10 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67515025&typedoc=R) (Cialis®, gén) à la demande (max 1/j)  
+  Selon l'effet, utiliser max 20 mg/j ou en 5 mg/j (efficace 12 heures)
 
 Grandes lignes:
 
@@ -47,12 +47,12 @@ Dysfonction érectile (DE)
 S'y ajoute le retentissement psychologique du patient/couple (DSM IV).
 
 {{< table title="Prévalence de la dysfonction érectile selon l'âge" >}}
-| Âge       | Prévalence (%) |
-|:---------:|:--------------:|
-| 18-39 ans | 1-10           |
-| 40-59 ans | 2-30           |
-| 60-69 ans | 20-40          |
-| 70 ans    | 50-75          |
+| Âge (ans) | Prévalence (%) |
+|----------:|---------------:|
+|     18-39 | 1-10           |
+|     40-59 | 2-30           |
+|     60-69 | 20-40          |
+|     70    | 50-75          |
 {{< /table >}}
 
 ### Facteurs de risque de dysfonction érectile indépendants de l'âge
@@ -76,25 +76,11 @@ DE
 : dysfonction érectile
 
 IPDE5 ou iPDE-5
-: inhibiteurs de la PDE5
+: inhibiteurs de la PDE5 (phosphodiestérase V)
 
 MCV
 : maladie cardiovasculaire
 {.dl-inline}
-
-{{%/collapse%}}
-{{%collapse "Contre-indications à la prescription des IPDE5" %}}
-
-Restrictions à la prescription d'emblée d'iPDE-5 avec avis cardiologique systématique:
-
-1. Inapte  
-  Patient cardiaque ou dans l'impossibilité de monter facilement 2 étages ou 20 minutes de marche par jour.
-2. ≥ 3 facteurs de risque cardiovasculaire
-3. Diabète
-4. Coronarien connu, insuffisance cardiaque grave, IDM/AVC récent
-5. Autres: insuffisance hépatique grave, hypotension grave, rétinite pigmentaire, neuropathie optique
-
-Paraphilie, psychose instable: pas d'IPDE5 avant avis psychiatrique.
 
 {{%/collapse%}}
 {{%collapse "Clinique" %}}
@@ -277,6 +263,8 @@ Une information adaptée peut parfois suffire.
 
 ### Dimension psychologique
 
+Un accompagnement par psycho-sexothérapie est possible en parallèle de la prescription d'IPDE5.
+
 Bilan de la partenaire si problématique chez la partenaire suspectée.
 
 Diagnostic de dépression au cours du bilan de DE avec le généraliste:
@@ -300,20 +288,67 @@ Diagnostic de dépression au cours du bilan de DE avec le généraliste:
 - Problème relationnel au premier plan: thérapie de couple, sexothérapie
 
 {{%/collapse%}}
+{{%collapse "Contre-indications aux iPDE-5 et effets indésirables" %}}
+
+### Contre-indications aux iPDE-5
+
+- Dérivés nitrés et donneurs de NO au long cours ou dans les 24h précédentes (48h pour tadalafil)
+- Infarctus du myocarde récent ou angor instable
+- Accident cardiovasculaire < 6 mois
+- Insuffisance cardiaque sévère non contrôlée
+- Insuffisance hépatique sévère
+- Hypotension < 90/50 mmHg (interaction alpha-bloquants ++)
+- Tadalafil
+  - Troubles du rythme ou hypertension artérielle non contrôlée
+  - Intolérance au galactose, déficit en lactase de Lapp ou malabsorption du glucose-galactose
+- Sildénafil, vardénafil: rétinite pigmentaire
+
+### Précautions avant prescription d'IPDE5
+
+Avis cardiologique systématique en antécédents cardiovasculaires, sédentaire ou ne remplissant pas les conditions ci-dessous.
+
+Possible sans avis cardiologique si:
+
+- Capable de monter facilement 2 étages et 20 minutes de marche par jour
+- Sans signes cardiovasculaires à l'effort
+- ≤ 3 facteurs de risque cardiovasculaire
+
+Autres précautions:
+
+- Polymédication: contrôler les interactions
+- Insuffisance rénale: utiliser le dosage minimal
+- Déformation pénienne (Lapeyronie, sclérose des corps caverneux): avis urologique
+- Pathologie hématologique (drépanocytose, myélome, leucémie): avis hématologique
+- Paraphilie, psychose instable: avis psychiatrique
+
+### Effets indésirables des IPDE5
+
+Des effets indésirables sont observés dans 2-16% des cas: Céphalées (+10%), bouffées vasomotrices, altération de la vision des couleurs réversible/vision floue, nausées, congestion nasale > dyspepsie, palpitations, douleurs dorsales, vertiges.
+
+Les effets indésirables graves sont rares: allongement QT, IDM, NOIAA (3/100.000), surdité brutale irréversible.
+
+{{%/collapse%}}
 {{%collapse "Traitements spécifiques de la dysfonction érectile" %}}
 
 ### Inhibiteurs de la phospho-diestérase de type 5 (iPDE-5)
 
-{{%info%}}[Sildénafil 50 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69085330&typedoc=R) (Viagra®, gén) à la demande (max 1/j). Selon l'effet, utiliser de 25 à 100 mg (efficace 4-5 heures){{%/info%}}
+Les IPDE5 sont le traitement de première intention de la dysfonction érectile.
 
-En 2<sup>e</sup> intention: [tadalafil 10 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67515025&typedoc=R) (Cialis®, gén). Possibilité d'augmenter à 20 mg. Max 1 prise par jour.  
-Avantages: pas de retard absorptif dus à l'alimentation, efficacité prolongée à 12 heures.
+{{%info%}}
+[Tadalafil 10 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67515025&typedoc=R) (Cialis®, gén). Possibilité d'augmenter à **20 mg**. Max 1 prise par jour (délai 30 min, efficace 12 heures, [contrôler les interactions](https://www.drugs.com/interaction/list/?drug_list=2144-0)).  
+Pas de retard absorptif dus à l'alimentation ou l'alcool.
+{{%/info%}}
 
-**Tadalafil en continu:** débuter à [2,5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63536698&typedoc=R) x 1/j. Max 5 mg en 1 prise/j.  
-Proposer le tadalafil en continu si traitement efficace et ≥ 2 utilisations par semaine ou le **diabétique**.
+Ou [Sildénafil 50 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69085330&typedoc=R) (Viagra®, gén) à la demande (max 1/j). Selon l'effet, utiliser de 25 à **100 mg** (délai 25 min, efficace 4-5 heures, [contrôler les interactions](https://www.drugs.com/interaction/list/?drug_list=2061-0)).
+
+#### Tadalafil en continu
+
+Débuter à [2,5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63536698&typedoc=R) x 1/j. Max 5 mg en 1 prise quotidienne.  
+Proposer le tadalafil en continu si traitement efficace et ≥ 2 utilisations par semaine ou pour le **diabétique**.  
+Il améliore également les troubles du bas appareil urinaire de l'homme (SBAU).
 
 Autres IPDE5 à la demande: vardénafil, avanafil (Spedra®).  
-Les IPDE5 ont une efficacité de 65-85 % (52-72% en cas de diabète).
+Les IPDE5 ont une efficacité de 65-85 % (52-72% en cas de diabète et élevée après prostatectomie) et le même profil de sécurité / tolérance.
 
 {{%info%}}
 
@@ -327,16 +362,12 @@ Les informations suivantes doivent être données au patient, car il s'agit d'un
 - Nécessite au moins 4-6 essais avant échec. Réévaluation systématique à 1-2 mois
 - Acheter le traitement uniquement en pharmacie (mais comparer différentes pharmacies)
 - Autres traitements disponibles en cas d'absence de réponse
+- Nécessite le souhait partagé d'un rapport et d'attendre l'absorption intestinale, la durée d'efficacité permet d'avoir le temps
+- La prise du traitement n'oblige pas à un rapport
 
 {{%/info%}}
 
-#### Effets indésirables des IPDE5
-
-Céphalées (+10%), bouffées vasomotrices, altération de la vision des couleurs réversible/vision floue, nausées, congestion nasale > dyspepsie, palpitations, douleurs dorsales, vertiges.
-
-Les effets indésirables graves sont rares: allongement QT, IDM, NOIAA, surdité brutale irréversible.
-
-### Autres traitements de la dysfonction érectile
+### Autres traitements médicamenteux de la dysfonction érectile
 
 Les traitements suivants ne relèvent pas de la prise en charge du médecin traitant (sauf formation solide):
 
@@ -349,6 +380,8 @@ Les traitements suivants ne relèvent pas de la prise en charge du médecin trai
 - Chirurgie: Implants péniens (satisfaction 79-98%)
 - Hormones  
   Androgénothérapie, prescription initiale réservée aux endocrino/uro/gynécologues.
+
+L'association à une éjaculation précoce est fréquente et l'utilisation de dapoxétine (Priligy®) est possible.
 
 {{%/collapse%}}
 {{%collapse "Suivi" %}}
@@ -364,7 +397,7 @@ Ou proposer un autre IPDE5
 - Réévaluer les interactions médicamenteuses
 - Vérifier le bilan organique
 
-### Si persistance de l'échec
+### Si persistance de l'inefficacité
 
 Avis et suivi spécialisé (urologue, sexologue, psychiatre selon)  
 ET évoquer les autres traitements de la DE  
@@ -391,6 +424,7 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 {{%sources%}}
 
 - [Allen MS. Physical activity as an adjunct treatment for erectile dysfunction. Nat Rev Urol. 2019.](https://www.ncbi.nlm.nih.gov/pubmed/31239541)
+- [Colson MH et al. Les traitements oraux de la dysfonction érectile aujourd'hui, pour quel patient ? Sexologies. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S1158136018300094)
 - [Colson MH et al. Démarche diagnostique et prise en charge du patient souffrant de dysfonction érectile, actualisation et consignes pratiques. Sexologies. 2018.](https://www.em-consulte.com/en/article/1198573)
 - [Colson MH et al; AIUS. La dysfonction érectile du diabétique. Sexologies. 2018.](https://www.sciencedirect.com/science/article/pii/S1158136018300112)
 - [Nehra A et al. The Princeton III Consensus Recommendations for the Management of Erectile Dysfunction and Cardiovascular Disease. Mayo Clinic Proceedings. 2012.](https://www.mayoclinicproceedings.org/article/S0025-6196%2812%2900635-0/fulltext)

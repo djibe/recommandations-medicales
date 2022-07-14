@@ -114,13 +114,14 @@ Indiqué chez les personnes à risque de forme grave de variole du singe.
 {{% /collapse %}}
 {{%sources%}}
 
+- [DGS-Urgent 2022_65, 61, 58](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)
 - [Santé Publique France. Cas de variole du singe : point de situation au 7 juillet 2022. 08/07/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-7-juillet-2022)
 
 ### À lire
 
-- [DGS-Urgent 2022_65, 61, 58](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HCSP. Mesures de prévention vis-à-vis de l'infection à Monkeypox virus. 09/07/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1230)
+- [ANSM. Monkeypox. 20/06/2022.](https://ansm.sante.fr/dossiers-thematiques/monkeypox)
 - [COREB. Monkeypox - Prendre en charge les patients.](https://www.coreb.infectiologie.com/fr/prendre-en-charge-les-patients-fiches-pratiques.html)
 - [COREB. Monkeypox - Fiche conseils patient.](https://www.coreb.infectiologie.com/fr/alertes-infos/monkeypox-fiche-conseils-patient-et-actualisation-de-la-fiche-soignants_-n.html)
 

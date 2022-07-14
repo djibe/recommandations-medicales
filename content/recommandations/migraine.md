@@ -17,7 +17,7 @@ sctid = "37796009"
 flowchart = true
 image = true
 imageSrc = "Illustration de la migraine par stories / Freepik"
-todo = "titration Propranolol et topiramate, recouper THM, Prescrire, EHF, migraine abdo enfant, https://play.google.com/store/apps/details?id=ai.vik.migraine&hl=fr"
+todo = "titration Propranolol et topiramate, recouper THM, Prescrire, EHF, migraine abdo enfant, https://ansm.sante.fr/actualites/topiramate-pregabaline-et-valproate-publication-de-nouvelles-donnees-sur-les-risques-lies-a-lexposition-a-ces-medicaments, https://play.google.com/store/apps/details?id=ai.vik.migraine&hl=fr"
 +++
 
 {{%article-summary%}}
