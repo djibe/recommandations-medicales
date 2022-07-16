@@ -2,15 +2,15 @@
 title = "Syndrome du canal carpien"
 prefix = "le "
 titleSeo = "Syndrome du canal carpien"
-description = "Recommandations pour le diagnostic et la prise en charge du canal carpien. Atteinte des premiers doigts avec douleurs nocturnes. Place d'EMG et de la chirurgie"
+description = "Recommandations pour le diagnostic et la prise en charge du syndrome du canal carpien. Place de l'électromyogramme (EMG), attelle et de la chirurgie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-14T18:30:29+02:00"
 publishdate = "2020-07-14"
-lastmod = "2022-06-07"
+lastmod = "2022-07-16"
 specialites = ["rhumatologie"]
 annees = "2013"
-sources = ["HAS"]
+sources = ["HAS", "Ameli"]
 tags = ["diabete"]
 anglais = ["Carpal tunnel syndrome"]
 sctid = "57406009"
@@ -18,16 +18,16 @@ image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "rec maladie pro, lire reco 2013"
+todo = "rec maladie pro"
 +++
 
 {{%article-summary%}}
 
-- Évoquer une [acromégalie]({{< relref "acromegalie.md" >}})
+- Évoquer une [acromégalie]({{< relref "acromegalie.md" >}}) ou une Maladie professionnelle
 - Signes de gravité: déficit moteur de flexion du pouce, sensitif du dermatome et amyotrophie
 - Pas de bilan et orthèse seule en première intention
 - Guérison quasi systématique après la grossesse
-- Reconnaissance possible en maladie professionnelle
+- [Brochure patient (PDF)](https://www.ameli.fr/sites/default/files/Documents/5099/document/syndrome-canal-carpien_assurance-maladie.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -38,7 +38,17 @@ L'atteinte est le plus souvent unilatérale, d'apparition progressive et fémini
 : Trouble musculo-squelettique le plus fréquente à l'origine de troubles de la sensibilité des 3 premiers doigts et à la moitié externe du 4<sup>e</sup> doigt à la face palmaire et à la face dorsale aux 2 dernières phalanges des 3 premiers doigts et à la moitié externe du 4<sup>e</sup> doigt.
 : Parfois décrit par le malade comme atteignant toute la main ou forme atypique avec douleurs ascendantes de l'avant-bras (différencier des douleurs descendantes des NCB).
 
-### Épidémiologie
+### Étiologie
+
+- Idiopathique le plus souvent
+- Maladie professionnelle
+- [Diabète]({{< relref "diabete-type-2.md" >}})
+- [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
+- [Acromégalie]({{< relref "acromegalie.md" >}})
+- Grossesse
+- Maladie de système ([polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}) ...)
+
+### Épidémiologie du syndrome du canal carpien en France
 
 - Opérations: 140.000 chirurgies annuelles
 - Incidence: Femme 4-5 / 1000 et Homme 1-2 / 1000
@@ -51,6 +61,9 @@ L'atteinte est le plus souvent unilatérale, d'apparition progressive et fémini
 
 ### Abréviations
 
+EMG
+: électromyogramme (ou ENMG pour électroneuromyogramme)
+
 NCB
 : névralgie cervico-brachiale
 
@@ -62,23 +75,11 @@ TMS
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Étiologie" %}}
-
-- Idiopathique le plus souvent
-- Maladie professionnelle
-- [Diabète]({{< relref "diabete-type-2.md" >}})
-- [Hypothyroïdie]({{< relref "hypothyroidie.md" >}})
-- [Acromégalie]({{< relref "acromegalie.md" >}})
-- Grossesse
-- Maladie de système ([Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}))
-{.list-group}
-
-{{% /collapse %}}
-{{%collapse "Signes de gravité"%}}
+{{%collapse "Signes de gravité du canal carpien"%}}
 
 {{%warning%}}
 
-### Signes de gravité d'un canal carpien
+### Signes de gravité devant un syndrome du canal carpien
 
 - Déficit moteur de flexion du pouce
 - Déficit sensitif du dermatome
@@ -90,9 +91,14 @@ TMS
 
 **Le diagnostic du syndrome du canal carpien est clinique**, évoqué lors de symptômes évocateurs (l'examen clinique peut être normal, pas de gold standard).
 
-- **Paresthésies surtout nocturnes** des 3 premiers doigts  
-  Obligeant le lever, déclenchées par certains mouvements, engourdissement, décharges électriques.  
-  Diminués lorsque secoue la main atteinte ou la laisse pendante.
+- Rechercher une profession à risque pour la reconnaissance en Maladie professionnelle  
+  Travail en force, postures maintenues et répétées.
+- **Paresthésies surtout nocturnes** des 3 premiers doigts (min 2)
+  - Fourmillements, picotements, engourdissements ou hyposesthésie
+  - obligeant le lever, déclenchées par certains mouvements
+  - Diminués lorsque secoue la main atteinte ou la laisse pendante
+  - Sans atteinte de la paume ou de la face dorsale
+- Douleurs spontanée au poignet ou irradiante
 - Troubles vasomoteurs  
   Sueur, xérose cutanée, modification de couleur de la main.
 - Signe de Mac Murthy-Durkan  
@@ -117,6 +123,8 @@ Si survient pendant la grossesse, 50% guérison à 1 an.
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
+Diagnostic différentiel d'un syndrome du canal carpien:
+
 - Atteintes radiculaires C6-C7
 - Syndrome de la traversée thoraco-brachiale
 - Myélopathies cervicales
@@ -133,13 +141,12 @@ Aucun examen complémentaire n'est recommandé en attente purement sensitive du 
 
 ### Électromyogramme (EMG)
 
-Recommandé si :
+Recommandé devant un tableau de canal carpien si:
 
 - une chirurgie envisagée (preuve médico-légale)
 - doute diagnostique
 
-Obligatoire pour la reconnaissance en **maladie professionnelle**.
-
+L'EMG est obligatoire pour la reconnaissance en **maladie professionnelle**.  
 La **perte axonale** est le facteur pronostic essentiel.
 
 ### Échographie
@@ -154,20 +161,26 @@ Radiographies, scanner, IRM. Contribuent en cas de doute sur une pathologie seco
 {{% /collapse %}}
 {{%collapse "Traitement du canal carpien idiopathique" %}}
 
-Le traitement de première intention est médical.
+Le traitement de première intention du syndrome du canal carpien est médical.
 
 **NB. Aucun intérêt des AINS**.
 
 ### Orthèse de poignet
 
-Port nocturne, en position neutre pendant plusieurs mois.  
+**Attelle nocturne**, en position neutre pendant 3 mois max (*Ameli*).  
 Se limiter à l'orthèse chez la femme enceinte.
 
 ### Infiltrations locales de corticoïdes
 
 Infiltrations locales de méthylprednisolone.  
-Efficace sous 4h, délai entre 2 injections de 1 à 6 mois. Échec si inefficace après 1 à 3 injections.  
-**Essayer 1 seule infiltration selon Prescrire**.
+Efficace sous 4h, délai entre les 2 injections de 3 à 6 mois (*Ameli*).  
+**Essayer une seule infiltration selon *Prescrire***.
+
+### Adaptation du poste de travail et Maladie professionnelle
+
+Rapidement prendre l'avis du médecin du travail pour l'adaptation du poste de travail.
+
+[Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 57](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2057).
 
 ### Chirurgie
 
@@ -176,13 +189,13 @@ En cas d'échecs répétés des traitements fonctionnels ou si syndrome grave (d
 Section du ligament annulaire antérieur du carpe en **chirurgie ambulatoire**.  
 Diminution des paresthésies et douleurs dès le lendemain de l'intervention, persistance possible plusieurs mois. L'amyotrophie peut persister.
 
-#### Complications de la chirurgie
+#### Complications de la chirurgie du canal carpien
 
 Algodystrophie, section incomplète avec récidive, blessure nerveuse, adhérences des fléchisseurs si immobilisation prolongée, générales
 
 ##### Post-chirurgical
 
-- Arrêt de travail de 2 à 3 semaines selon le métier en post-chirurgical (Saint-Louis)
+- Arrêt de travail de 7 à 45 jours selon le métier en post-chirurgical (*Ameli*)
 - Ablation des fils à J15 ou J21
 - Obtenir rapidement une flexion active complète des doigts
 - Conduite automobile peut être reprise après 2 à 3 semaines
@@ -196,7 +209,11 @@ Prise en charge spécialisée.
 Traitement limité au paracétamol et à l'orthèse pendant la grossesse.
 
 {{% /collapse %}}
-{{%collapse "Informations du patient post-chirurgie" %}}
+{{%collapse "Information du patient" %}}
+
+[Ameli. Le syndrome du canal carpien (PDF)](https://www.ameli.fr/sites/default/files/Documents/5099/document/syndrome-canal-carpien_assurance-maladie.pdf)
+
+### Informations du patient post-chirurgie du canal carpien
 
 La douleur liée à l'intervention peut persister quelques jours mais peut être soulagée par des médicaments.
 
@@ -213,13 +230,13 @@ Les fils sont retirés au bout de 15 jours à 3 semaines après l'intervention. 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show"%}}
 
-{{< mermaid title="Conduite à tenir devant un syndrome du canal carpien. Dr JB Fron d'après HAS 2013" >}}
+{{< mermaid title="Conduite à tenir devant un syndrome du canal carpien. Dr JB Fron d'après HAS 2013 et Ameli 2021" >}}
 graph TD
-diagnostic["Diagnostic clinique<br>de canal carpien"] --> gravite{Signes de gravité ?}
+diagnostic["Diagnostic clinique<br>de canal carpien<br>(écho ou EMG si doute)"] --> gravite{Signes de gravité ?}
 style diagnostic stroke:#4150f5, stroke-width:1px
 diagnostic -- Diagnostic différentiel --> differentiel("- Atteintes radiculaires C6-C7<br>- Syndrome de la traversée thoraco-brachiale<br>- Myélopathies cervicales<br>- Plexopathies<br>- Neuropathies périphériques<br>- Compression du n. médian en amont<br>- Acrosyndromes vasculaires<br>- Paresthésies fonctionnelles")
-  gravite -- Oui --> emg(ENMG pré-opératoire) --> chir("Chirurgie")
-  gravite -- Non --> medical(Traitement médical<br>Orthèse - Infiltration)
+  gravite -- Oui --> emg(EMG) -- Confirmation --> chir("Chirurgie<br>&plusmn; Maladie professionnelle") -.-> emg
+  gravite -- Non --> medical("<strong>Traitement médical</strong><hr>- Attelle nocturne mx 3 mois<br>- 2 infiltrations") -. Échec .-> medTravail(Adaptation du poste) -. Échec .-> emg
 {{< /mermaid >}}
 
 {{% /collapse %}}
@@ -230,6 +247,7 @@ diagnostic -- Diagnostic différentiel --> differentiel("- Atteintes radiculaire
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ameli. Aide à la pratique : syndrome du canal carpien. 13/12/2021.](https://www.ameli.fr/exercice-coordonne/exercice-professionnel/memos/aide-pratique-syndrome-canal-carpien)
 - [HAS, Centre de référence des maladies rares de l'hypophyse. Acromégalie. Protocole National de Diagnostic et de Soins. 2021.](https://www.has-sante.fr/jcms/p_3292767/fr/acromegalie)
 - [Santé Publique France. Syndrome du canal carpien. 18/08/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-liees-au-travail/troubles-musculo-squelettiques/donnees/syndrome-du-canal-carpien)
 - Prescrire Redaction. Syndrome du canal carpien: parfois d'origine médicamenteuse. Avril 2019.

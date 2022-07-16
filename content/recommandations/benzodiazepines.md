@@ -117,7 +117,7 @@ Respecter l'AMM de la spécialité:
 
 > Données insuffisantes pour comparer les efficacités hypnotiques ou anxiolytiques.  
 Le diazépam est la référence de la *SFA* pour le sevrage alcoolique.  
-L'oxazépam est la BZD de préférence de *Prescrire* en insomnie transitoire.
+L'oxazépam est la BZD de préférence de *Prescrire* en insomnie transitoire. Il ne présente pas les interactions avec le cytochrome C3A4 (à l'inverse de l'alprazolam qui pose problème avec le paxlovid).
 
 {{% /collapse %}}
 {{%collapse "Décroissance des benzodiazépines" %}}

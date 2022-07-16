@@ -100,7 +100,8 @@ Le schéma de vaccination est identique à la vaccination Monkeypox post-exposit
 
 {{%warning%}}Poliovirus = [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}){{%/warning%}}
 
-- 21 jours d'isolement, y compris au sein du logement
+- 21 jours d'isolement, y compris au sein du logement  
+  {{%class%}}Jusqu'à disparition des dernières croûtes.{{%/class%}}
 - Vaccination post-exposition des contacts
   - Dans les 4 à 14 jours après l'exposition à risque
   - Vaccins Imvanex et Jynneos dont la protection n'est pas immédiate
@@ -114,9 +115,9 @@ Indiqué chez les personnes à risque de forme grave de variole du singe.
 {{% /collapse %}}
 {{%sources%}}
 
+- [Santé Publique France. Cas de variole du singe : point de situation au 12 juillet 2022. 13/07/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-7-juillet-2022)
 - [DGS-Urgent 2022_65, 61, 58](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)
-- [Santé Publique France. Cas de variole du singe : point de situation au 7 juillet 2022. 08/07/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-7-juillet-2022)
 
 ### À lire
 
