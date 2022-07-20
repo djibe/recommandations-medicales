@@ -248,7 +248,7 @@ Effectuées et remboursées à 100% (les examens supplémentaires ne le sont pas
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Après RCP peuvent être proposés: Chirurgie, radiothérapie, chimiothérapie, hormonothérapie (récepteur estrogène ou progestérone), thérapies ciblées (bévacizumab, HER2).
+Après RCP peuvent être proposés pour le cancer du sein: Chirurgie, radiothérapie, chimiothérapie, hormonothérapie (récepteur estrogène ou progestérone), thérapies ciblées (bévacizumab, HER2).
 
 ### Mesures associées
 
@@ -263,10 +263,10 @@ Après RCP peuvent être proposés: Chirurgie, radiothérapie, chimiothérapie, 
   - Éviter les vêtements synthétiques
   - Limiter l'exposition solaire
   - Hygiène rigoureuse et pommades émollientes
-- Associations  
+- Associations de patients  
   [étincelle](http://www.etincelle.asso.fr/), [Europa Donna](http://www.europadonna.fr/), [Rose up](https://www.rose-up.fr/#1), [Skin](https://associationskin.org/), [Vivre Comme Avant](https://www.vivrecommeavant.fr/).
 
-### Pour en savoir plus: Principes des traitements selon la tumeur
+### Pour en savoir plus: Principes des traitements selon la tumeur du sein
 
 - Carcinome *in situ*
   - Tumorectomie voire mastectomie
@@ -301,7 +301,7 @@ Après RCP peuvent être proposés: Chirurgie, radiothérapie, chimiothérapie, 
   - Signaler tout symptôme vaginal (pertes, tâches, leucorrhée), tout symptôme doit être exploré
   - Échographie transvaginale initiale et suivi gynécologique annuel (*ACOG 2020*), renforcé si risque élevé de cancer de l'endomètre
 - Antiaromatase
-  - Ostéodensitométrie tous les 1-3 ans
+  - [Ostéodensitométrie]({{< relref "osteoporose.md" >}}) tous les 1-3 ans
   - Bilan lipidique annuel
 - Thérapie ciblée  
   Échocardiographies.

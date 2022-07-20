@@ -90,7 +90,7 @@ Post systématique avec tout partenaire dont le statut sérologique n'est pas co
 
 #### Vaccin Monkeypox
 
-Voir *Monkeypox*
+Voir *[Monkeypox]({{< relref "monkeypox.md" >}})*
 
 #### Vaccin hépatite A
 

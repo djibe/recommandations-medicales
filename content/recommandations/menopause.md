@@ -587,15 +587,15 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 
 [GEMVI: Fiche info ménopause et THM (PDF)](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
 
-- Bénéfique pour symptômes (bouffées vasomotrices ++) et ralentissement du vieillissement des différents tissus (ostéoporose, trophicité)
+- Bénéfique sur les symptômes (bouffées vasomotrices ++) et ralentissement du vieillissement des différents tissus (ostéoporose, trophicité)
 - Réduit le risque de cancer du côlon et de fracture ostéoporotique
 - Augmentation faible du risque de cancer du sein temps-dépendant  
 Décroît après l'arrêt du traitement.
 - Augmente le risque de cancer de l'ovaire
 - Avec le schéma du THM français (estrogène patch + progestérone naturelle orale), pas d'augmentation thrombo-embolique
 - Les études divergent sur les bénéfices cardiovasculaires et sur les troubles cognitifs du fait de la grande variété des traitements de la ménopause
-- On limite les risques avec le traitement œstrogénique par voie transdermique
-- Le suivi est au moins annuel et le traitement réévalué tous les ans
+- On limite les risques de cancer du sein avec le traitement œstrogénique par voie transdermique
+- Le suivi sous traitement hormonal est au moins annuel
 - Risques éventuels lors de consommation de soja et ses dérivés
 - Pas d'automédication
 

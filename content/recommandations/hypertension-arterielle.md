@@ -183,18 +183,21 @@ En cas de discordance mesures au cabinet et automesure/MAPA, répéter les mesur
 
 ### Le tensiomètre électronique
 
-- Appareils validés
-  - [Pour le cabinet](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=office_clinic)
-  - [Pour l'automesure](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=home)
-  - [Enfants](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=children)
-  - [Grossesse](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=pregnancy)
-  - [Rechercher un modèle](https://stridebp.org/bp-monitors) [ou autre liste de modèles validés](https://www.validatebp.org/)
-- Le brassard est spécifique pour l'appareil
+Appareils validés pour la mesure automatisée de la pression artérielle:
+
+- [Pour le cabinet](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=office_clinic)
+- [Pour l'automesure tensionnelle](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=home)
+- [Enfants](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=children)
+- [Grossesse](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=pregnancy)
+- [Rechercher un modèle](https://stridebp.org/bp-monitors) [ou autre liste de modèles validés](https://www.validatebp.org/)
+
+Le brassard est spécifique de chaque appareil.
 
 {{% /collapse %}}
 {{%collapse "Automesure tensionnelle" %}}
 
-[Le carnet d'automesure tensionnelle en PDF (international 2021)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
+[Le carnet d'automesure tensionnelle en PDF (international 2021)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)  
+[Appareils validés pour l'automesure tensionnelle](https://stridebp.org/bp-monitors/37-pdfs/734-home?format=pdf&tmpl=component&box=home)
 
 L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hypertension en vie quotidienne et démasquer une HTA masquée.
 

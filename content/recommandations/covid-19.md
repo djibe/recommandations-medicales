@@ -29,7 +29,7 @@ Page servant uniquement à stocker quelques mémos
 - [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire) et [règles d'isolement du 3/1](https://www.ameli.fr/medecin/actualites/covid-19-les-regles-d-isolement-evoluent)
 - Rappel vaccinal à 3 mois (max 4, et 12-17 ans fragiles), décalé à 4 mois (min 2, 6 avant le 15/2/22) si infection Covid (*HAS 24/12, 25/11 et 19/11*)  
   [Mon Rappel vaccin Covid](https://monrappelvaccincovid.ameli.fr/)
-- 2e rappel si +80 ans ou immunodéprimé à M3 et 60-79 ans / grossesse / entourage de fragile à M6  
+- 2e rappel si +80 ans ou immunodéprimé à M3 et 60-79 ans / grossesse / 18-59 ans à risque / entourage de fragile à M6  
   même si Covid après la 3e dose (rappel min 3 mois après l'infection, *HAS 13/7*)
 - Passe vaccinal frauduleux désirant se faire vacciner, orienter vers un centre de vaccination (*[CNOM 23/02](https://www.conseil-national.medecin.fr/publications/actualites/rectification-vaccinal-frauduleux)*)
 
@@ -45,7 +45,7 @@ Cas possible
 : Personne présentant des signes cliniques évocateurs de la Covid-19.
 
 Cas probable
-: Personne présentant des signes cliniques et des signes scannographiques évocateurs de la Covid-19.
+: Personne présentant des signes cliniques et des signes scanographiques évocateurs de la Covid-19.
 
 Cas confirmé
 : Personne, symptomatique ou non, avec un résultat biologique confirmant l'infection par le SARS-CoV-2, par RT-PCR ou sérologie.
@@ -191,10 +191,11 @@ Atteintes possibles après une infection à Sars-Cov-2.
 
 ### Autres
 
+- [DGS-Urgent](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Covid-19 : une dose de rappel vaccinal additionnelle ouverte à davantage de personnes et des délais précisés. 13/07/2022.](https://www.has-sante.fr/jcms/p_3352553/fr/covid-19-une-dose-de-rappel-vaccinal-additionnelle-ouverte-a-davantage-de-personnes-et-des-delais-precises)
 - [HAS. Réponse rapide dans le cadre du COVID-19 Traitement par antiviral des patients à risque de forme grave de la Covid-19. Janvier 2022.](https://www.has-sante.fr/upload/docs/application/pdf/2022-01/reco458_fiche_rr_paxlovid_mel.pdf)
 - [HAS. Stratégie de vaccination contre le Sars-Cov-2. 01/03/2021.](https://www.has-sante.fr/upload/docs/application/pdf/2021-03/actualisation_des_facteurs_de_risque_de_formes_graves_de_la_covid-19_et_des_reco_sur_la_strategie_de_priorisation_des_popula.pdf)
-- [Journal Officiel. Arrêté du 24 juillet 2020 modifiant l'arrêté du 10 juillet 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de covid-19 dans les territoires sortis de l'état d'urgence sanitaire et dans ceux où il a été prorogé. 25/07/2020](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000042148309&categorieLien=id)
+- [Journal Officiel. Arrêté du 24 juillet 2020 modifiant l'arrêté du 10 juillet 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de covid-19 dans les territoires sortis de l'état d'urgence sanitaire et dans ceux où il a été prorogé. 25/07/2020.](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000042148309&categorieLien=id)
 - [Académie nationale de Médecine. Avis: Les séquelles de la Covid-19. 15/07/2020](http://www.academie-medecine.fr/wp-content/uploads/2020/07/Se%CC%81quelles-Avis.pdf)
 - [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe !. 13/05/2020](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
 - Santé Publique France. Définition de cas d'infection au SARS-CoV-2 (COVID-19). MAJ 07/05/2020.
