@@ -8,7 +8,7 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2022-09-13"
+lastmod = "2022-07-20"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HCSP", "MinSanté", "HAS"]
@@ -25,13 +25,15 @@ todo = "https://ansm.sante.fr/actualites/troubles-menstruels-apres-la-vaccinatio
 
 Page servant uniquement à stocker quelques mémos
 
+- Recours à l'antiviral Paxlovid +++, voir *Antiviraux*
 - [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire) et [règles d'isolement du 3/1](https://www.ameli.fr/medecin/actualites/covid-19-les-regles-d-isolement-evoluent)
 - Rappel vaccinal à 3 mois (max 4, et 12-17 ans fragiles), décalé à 4 mois (min 2, 6 avant le 15/2/22) si infection Covid (*HAS 24/12, 25/11 et 19/11*)  
   [Mon Rappel vaccin Covid](https://monrappelvaccincovid.ameli.fr/)
 - 2e rappel si +80 ans ou immunodéprimé à M3 et 60-79 ans / grossesse / entourage de fragile à M6  
   même si Covid après la 3e dose (rappel min 3 mois après l'infection, *HAS 13/7*)
 - Passe vaccinal frauduleux désirant se faire vacciner, orienter vers un centre de vaccination (*[CNOM 23/02](https://www.conseil-national.medecin.fr/publications/actualites/rectification-vaccinal-frauduleux)*)
-- Indications du Paxlovid, voir *Antiviraux*
+
+<< Important de bien comprendre cela car pas du tout évident à priori. L'immunité naturelle, celle que l'on acquiert après une infection procure en générale une bonne protection. Ce n'est pas le cas avec le Sars-Cov2, non seulement l'immunité naturelle ne semble pas très efficace mais le virus éroderait notre système immunitaire. De plus, les réinfections augmenteraient le risque de séquelles à long terme. >> (*Rémi Salomon 16/07/2022*)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -72,6 +74,10 @@ Contact à risque négligeable
 
 Risque démultiplié de forme grave si polypathologique. Doit tenir compte des comorbidités, âge, sexe, facteurs socio-économiques. L'âge est le facteur majeur.
 
+- DGS Urgent 2022-66 a ajouté
+  - +60 ans sans 2<sup>e</sup> rappel
+  - Immunodépression (tout âge et tout statut vaccinal)
+  - Comorbidité à haut risque de forme sévère et schéma vaccinal incomplet (tout âge)
 {{< clinique/covid-forme-grave >}}
 
 {{%/collapse%}}
@@ -83,9 +89,11 @@ Risque démultiplié de forme grave si polypathologique. Doit tenir compte des c
 [Document HAS officiel (RCP)](https://www.has-sante.fr/jcms/p_3311133/fr/paxlovid-pf-07321332/ritonavir).  
 **Administrer dès que possible.**
 
+Son efficacité est comparable avec tous les variants (*DGS Urgent 2022-66*)
+
 #### Indications au Paxlovid
 
-Toutes les conditions doivent être remplies
+Toutes les conditions doivent être remplies pour la prescription de Paxlovid:
 
 1. Personne ≥ 18 ans à risque de {{< modal-btn modal-grave >}}forme grave{{< /modal-btn >}}
 2. Test antigénique ou RT-PCR positif
@@ -97,6 +105,8 @@ Toutes les conditions doivent être remplies
     - Médicaments contre-indiqués liés au CYP3A (voir ci-dessous item 6)
 6. [Contrôle obligatoire des interactions du Paxlovid](https://sfpt-fr.org/recospaxlovid)
 
+> En cas de contre-indication au Paxlovid, adresser à l'hôpital pour administration d'Evusheld (*DGS Urgent 2022-66*)
+
 ### Prescrire le Paxlovid
 
 {{%info%}}
@@ -104,6 +114,8 @@ Toutes les conditions doivent être remplies
 #### Ordonnance de paxlovid
 
 Paxlovid®: Nirmatrelvir 150 mg 2 cp + Ritonavir 100 mg 1 cp per os toutes les 12h pendant 5 jours
+
+*Préciser la fonction rénale sur l'ordonnance*
 {{%/info%}}
 
 {{%/collapse%}}

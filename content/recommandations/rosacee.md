@@ -169,7 +169,7 @@ Ne pas s'allonger dans l'heure qui suit.
 ± associée au métronidazole topique
 {{%/info%}}
 
-**NB.** *Prescrire®* rapporte une efficacité comparable de la **doxycycline 50 mg/j** pour une tolérance bien meilleure.
+**NB.** *Prescrire®* rapporte une efficacité comparable de la **doxycycline 50 mg/j** pour la rosacée avec une tolérance bien meilleure.
 
 **Effets indésirables:** troubles digestifs, réactions cutanées, vaginites, HTIC, photosensibilité, atteinte hépatique.  
 **Contre-indications:** grossesse/allaitement.

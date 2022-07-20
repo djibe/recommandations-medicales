@@ -45,7 +45,7 @@ La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance car
 : 1 patient sur 2 est > 140/90 mmHg. Principaux facteurs de non contrôle: défaut d'observance et inertie du médecin.
 : Observance à 6 mois: 2/3, 1 an: 50%.
 
-{{< table title="Grades d'hypertension sur les mesures au cabinet à partir de 16 ans. Dr JB Fron d'après ESC 2018 et ESH 2021" class="table-wrap" >}}
+{{< table title="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Dr JB Fron d'après ESC 2018 et ESH 2021" class="table-wrap" >}}
 | Catégorie                 | Systolique (mmHg) |       | Diastolique (mmHg) | Action                                                                        |
 |---------------------------|:-----------------:|:-----:|:------------------:|-------------------------------------------------------------------------------|
 | Optimale                  | &lt; 120          | et    | &lt; 80            | Surveillance &ge; /5 ans                                                      |
@@ -57,7 +57,7 @@ La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance car
 | Hypertension systolique isolée | &ge; 140     | et    | &lt; 90            | Traitement selon le grade de la PAS                                           |
 {{< /table >}}
 
-> AMT: automesure tensionnelle; HRCV/THRCV: {{%modal-btn "modal-rcv"%}}haut/très haut risque CV{{%/modal-btn%}}.  
+> AMT: automesure tensionnelle ; HRCV/THRCV: {{%modal-btn "modal-rcv"%}}haut/très haut risque CV{{%/modal-btn%}}.  
 Utiliser la plus haute valeur des mesures standardisées effectuées au cabinet.  
 RHD pour tous dès tension *normale haute*.  
 Découverte ≥ 65 ans: traiter si antihypertenseurs bien tolérés. Sinon attendre grade 2.  
@@ -194,7 +194,7 @@ En cas de discordance mesures au cabinet et automesure/MAPA, répéter les mesur
 {{% /collapse %}}
 {{%collapse "Automesure tensionnelle" %}}
 
-[Le carnet d'automesure tensionnelle 2021 (PDF)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
+[Le carnet d'automesure tensionnelle en PDF (international 2021)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
 
 L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hypertension en vie quotidienne et démasquer une HTA masquée.
 
@@ -230,7 +230,7 @@ Ajouter sur l'ordonnance le tensiomètre électronique, certaines mutuelles pouv
 
 {{%info%}}Une PAD 70-79 mmHg est la cible pour tout hypertendu{{%/info%}}
 
-{{< table title="Synthèse des objectifs tensionnels selon le profil du patient. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
+{{< table title="Synthèse des cibles de pression artérielle selon le profil du patient. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
 | Population          | Objectif (mmHg) | Source     |
 |---------------------|----------------:|------------|
 | Cible minimale      | &lt; 140/90     | ESC 2018   |

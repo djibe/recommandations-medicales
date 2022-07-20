@@ -255,13 +255,15 @@ Diagnostic certain si 3 critères - possible si 2 - exclu si ≤ 1.
 
 ### Traitement de l'érythème migrant
 
-Prise en charge thérapeutique:
+Prise en charge thérapeutique de l'érythème migrant après piqûre de tique:
 
 - Surveillance clinique de la guérison à J14
 - Photos avant et évolution sous traitement
 - Disparition complète de l'érythème en 1 semaine à 1 mois  
   Persistance à 1 mois: observance de l'antibiotique, étude d'un diagnostic différentiel, avis dermatologique.
 - Traitement identique en érythèmes migrants multiples (EMM)
+
+L'antibiothérapie de référence de la maladie de Lyme au stade de l'érythème migrant est la doxycycline et l'amoxicilline avant 8 ans.
 
 {{%info%}}
 Antibiothérapie pendant 14 jours:

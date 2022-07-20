@@ -11,14 +11,14 @@ image = true
 imageSrc = "slidesgo / Freepik"
 +++
 
-MSSanté est le réseau de messagerie sécurisée des professionnels de santé réglementés de France.
+MSSanté est le réseau de messagerie sécurisée des professionnels de santé réglementés de France. Mailiz est un service gratuit de messagerie MSSanté proposé par les Ordres de santé.
 {.lead}
 
 {{%collapse "Définitions" %}}
 
 MSSanté
 : MSSanté signifie *Messagerie Sécurisée de Santé*. Il s'agit d'un réseau sécurisé de messagerie électronique réservé aux professionnels de santé. Il permet d'envoyer un message (avec pièce-jointe) à n'importe quel praticien disposant d'une adresse de messagerie sécurisée.  
-Plusieurs opérateurs ont été homologués pour échanger des messages sur ce réseau sécurisé. Le service [Mailiz](https://mailiz.mssante.fr/) est gratuit pour les médecins.
+Plusieurs opérateurs ont été homologués pour échanger des messages sur ce réseau sécurisé. Le webmail MSSanté [Mailiz](https://mailiz.mssante.fr/) est gratuit pour les médecins.
 : Depuis 2022, le service de l'Assurance Maladie *MonEspaceSanté* a intégré ce réseau, permettant de transmettre à tout patient des messages et documents de façon sécurisée (voir *Envoyer un message sécurisé à un patient*).
 
 {{%/collapse%}}

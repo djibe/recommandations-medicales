@@ -5,9 +5,9 @@ titleSeo = "supplémentation Vitamine D"
 description = "Recommandations sur les apports et la supplémentation en vitamine D. Aliments riches, 1000 UI par jour, indications au dosage et cible selon l'âge, nourrisson"
 synonyms = ["Cholécalciferol vitamine D3", "ergocalciférol vitamine D2"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-04-15T00:28:29+02:00
-publishdate = 2020-04-15
-lastmod = 2022-03-31
+date = "2020-04-15T00:28:29+02:00"
+publishdate = "2020-04-15"
+lastmod = "2022-03-31"
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2022"
 sources = ["SFP", "HAS", "SFR"]
@@ -50,7 +50,7 @@ Seuil de toxicité de la vitamine D
 : Taux sérique > 375 nmol/L.  
 Ne pas supplémenter au-delà 150 nmol/L.
 
-### Épidémiologie
+### Épidémiologie sur la vitamine D en France
 
 Principaux aliments riches en vitamine D: poissons et produits laitiers (*Anses*).
 
@@ -128,9 +128,9 @@ La supplémentation en vitamine D peut être instaurée et suivie sans dosage de
 S'assurer d'apports calciques suffisants:
 
 - {{< modal-btn modal-calcium-cible >}}Apports en calcium cibles selon l'âge{{< /modal-btn >}}
-- -18 ans: ≥ 3 portions de produits laitiers quotidiens  
+- Avant 18 ans: ≥ 3 portions de produits laitiers quotidiens  
   - Eaux riches en calcium si apports légèrement insuffisants (Courmayeur, Hépar et Contrex)
-  - Sinon supplémentation en calcium 500-1000 mg/j (apports < 300 mg/j ou vegan)
+  - Sinon supplémentation en calcium 500 à 1000 mg/j (apports < 300 mg/j ou vegan)
 - Évaluer les apports calciques si fracture ou douleurs osseuses
 
 {{< table title="Apports en vitamine D recommandés en 2022 selon le profil du patient" >}}
@@ -148,7 +148,7 @@ S'assurer d'apports calciques suffisants:
 | Ostéoporose, biphosphonates        | &ge; 75 nmol/L                               | *Annweiler 2018* |
 {{< /table >}}
 
-> Apports quotidiens préférés chez -18 ans: vitamine D2 (Stérogyl® 400 UI/gte) ou D3 (ZymaD® 300 UI/gte ou Adrigyl® 333 UI/gte). Sinon vitamine D3 en ampoule (*Bacchetta 2022*)  
+> Apports quotidiens préférés chez l'enfant et l'adolescent: vitamine D2 (Stérogyl® 400 UI/gte) ou D3 (ZymaD® 300 UI/gte ou Adrigyl® 333 UI/gte). Sinon vitamine D3 en ampoule (*Bacchetta 2022*)  
 Ne pas utiliser d'autres formes de supplémentations.
 
 {{% /collapse %}}
@@ -207,7 +207,7 @@ Nouveau dosage 1 semaine après la fin du traitement.
 
 #### Dosage et adaptation du protocole d'entretien
 
-Posologie selon le nouveau résultat du dosage de vitamine D après 3 à 6 mois d'entretien:
+Dose réajustée selon le nouveau résultat du dosage de vitamine D après 3 à 6 mois d'entretien:
 
 - Dosage < 75 nmol/L (30 ng/mL)  
   - 80 à 100.000 UI par mois
@@ -220,7 +220,7 @@ Posologie selon le nouveau résultat du dosage de vitamine D après 3 à 6 mois 
 
 > Protocole d'entretien après carence en vitamine D selon *Souberbielle JC 2019*
 
-Intensification si:
+Intensification de la supplémentation si:
 
 - Sujet à peau très foncée
 - Absence d'exposition estivale

@@ -25,11 +25,11 @@ imageSrc = "Crédit OnSexPrime.fr"
 - Information sur sa grande efficacité prise précocement et son innocuité
 - La pilule du lendemain est accessible sans ordonnance jusqu'à 72 heures, remboursée sur ordonnance, anonyme et gratuite pour les -25 ans
 - La pose d'un DIU est la méthode la plus efficace et possible jusqu'à J5
-- Envisager une prescription en prévention surtout si: adolescente, préservatif, VIH, voyage à l'étranger, milieu rural.
+- Envisager une prescription en prévention surtout si: adolescente, préservatif, [VIH]({{< relref "vih-sida.md" >}}), voyage à l'étranger, milieu rural.
 - Il existe un risque de grossesse à tout moment du cycle en rapport non protégé
-- Hotline: {{<phone>}}0 800 08 11 11{{</phone>}}
+- Hotline Aide avortement: {{<phone>}}0 800 08 11 11{{</phone>}}
 
-Article lié: [contraception]({{< relref "contraception.md" >}})
+Articles liés: [contraception]({{< relref "contraception.md" >}}) et [interruption volontaire de grossesse]({{< relref "interruption-volontaire-grossesse.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -38,7 +38,7 @@ Contraception d'urgence
 : Méthode de rattrapage, conçue pour être utilisée par une femme en situation d'urgence, après un rapport non protégé (voire un viol), un échec ou un usage défectueux d'une méthode contraceptive.  
 Elle peut être hormonale (lévonorgestrel ou ulipristal acétate) ou mécanique (stérilet).
 
-### Épidémiologie
+### Épidémiologie sur la pilule du lendemain en France
 
 - Usage lié à 30% d'oubli de pilule, 30% de rupture de préservatif, 17% d'absence de contraception
 - Principe bien connu: 95% des -30 ans
