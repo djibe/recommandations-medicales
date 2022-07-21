@@ -152,15 +152,15 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 [Liste des centres homologués SFRMS par région](https://www.sfrms-sommeil.org/carte-des-centres-agrees/)
 
 <div class="card card-hover my-3 mb-xl-5 mw-640">
-  <ul class="nav nav-justified nav-tabs" id="tabs-saos" role="tablist">
-    <li class="nav-item">
-      <a aria-controls="stop-bang-panel" aria-selected="true" class="nav-link active" data-toggle="tab" href="#stop-bang-panel" id="stop-bang-tab" role="tab">STOP-BANG</a>
+  <ul class="nav nav-tabs nav-justified" id="tabs-saos" role="tablist">
+    <li class="nav-item" role="presentation">
+      <button aria-controls="stop-bang-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#stop-bang-panel" id="stop-bang-tab" type="button" role="tab">STOP-BANG</button>
     </li>
-    <li class="nav-item">
-      <a aria-controls="stop-panel" aria-selected="false" class="nav-link" data-toggle="tab" href="#stop-panel" id="stop-tab" role="tab">STOP</a>
+    <li class="nav-item" role="presentation">
+      <button aria-controls="stop-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#stop-panel" id="stop-tab" type="button" role="tab">STOP</button>
     </li>
-    <li class="nav-item">
-      <a aria-controls="saos-diabete-panel" aria-selected="false" class="nav-link" data-toggle="tab" href="#saos-diabete-panel" id="saos-diabete-tab" role="tab">Diabète</a>
+    <li class="nav-item" role="presentation">
+      <button aria-controls="saos-diabete-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#saos-diabete-panel" id="saos-diabete-tab" type="button" role="tab">Diabète</button>
     </li>
   </ul>
   <div class="tab-content">

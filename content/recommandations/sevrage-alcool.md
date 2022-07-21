@@ -172,12 +172,12 @@ L'entretien motivationnel est empathique avec une écoute sans jugement et une a
 Demander au patient l'autorisation de parler de sa consommation d'alcool.
 
 <div class="card card-hover my-3 mb-xl-5 mw-640">
-  <ul class="nav nav-justified nav-tabs" id="tabs-alcool" role="tablist">
-    <li class="nav-item">
-      <a aria-controls="auditc-panel" aria-selected="true" class="nav-link active" data-toggle="tab" href="#auditc-panel" id="auditc-tab" role="tab">AUDIT-C</a>
+  <ul class="nav nav-tabs nav-justified" id="tabs-alcool" role="tablist">
+    <li class="nav-item" role="presentation">
+      <button aria-controls="auditc-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#auditc-panel" id="auditc-tab" type="button" role="tab">AUDIT-C</button>
     </li>
-    <li class="nav-item">
-      <a aria-controls="face-panel" aria-selected="false" class="nav-link" data-toggle="tab" href="#face-panel" id="face-tab" role="tab">FACE</a>
+    <li class="nav-item" role="presentation">
+      <button aria-controls="face-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#face-panel" id="face-tab" type="button" role="tab">FACE</button>
     </li>
   </ul>
   <div class="tab-content card-body">

@@ -33,18 +33,18 @@ En première intention pour les douleurs faibles à modérées.
 ### Paracétamol
 
 <div class="card card-hover my-3 my-xl-5 mw-480">
-  <ul class="nav nav-justified nav-tabs" id="justifiedTab" role="tablist">
-    <li class="nav-item">
-      <a aria-controls="posologie" aria-selected="true" class="nav-link active" data-toggle="tab" href="#posologie" id="posologie-tab" role="tab">Posologie</a>
+  <ul class="nav nav-tabs nav-justified" id="justifiedTab" role="tablist">
+    <li class="nav-item" role="presentation">
+      <button aria-controls="posologie" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#posologie" id="posologie-tab" type="button" role="tab">Posologie</button>
     </li>
-    <li class="nav-item">
-      <a aria-controls="sirop" aria-selected="false" class="nav-link" data-toggle="tab" href="#sirop" id="sirop-tab" role="tab">Sirop</a>
+    <li class="nav-item" role="presentation">
+      <button aria-controls="sirop" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#sirop" id="sirop-tab" type="button" role="tab">Sirop</button>
     </li>
-    <li class="nav-item">
-      <a aria-controls="sachet" aria-selected="false" class="nav-link" data-toggle="tab" href="#sachet" id="sachet-tab" role="tab">Sachet</a>
+    <li class="nav-item" role="presentation">
+      <button aria-controls="sachet" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#sachet" id="sachet-tab" type="button" role="tab">Sachet</button>
     </li>
-    <li class="nav-item">
-      <a aria-controls="suppo" aria-selected="false" class="nav-link" data-toggle="tab" href="#suppo" id="suppo-tab" role="tab">Suppo</a>
+    <li class="nav-item" role="presentation">
+      <button aria-controls="suppo" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#suppo" id="suppo-tab" type="button" role="tab">Suppo</button>
     </li>
   </ul>
   <div class="card-body tab-content">

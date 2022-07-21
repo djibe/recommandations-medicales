@@ -292,18 +292,18 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
 ### Surveillance biologique
 
 <div class="card card-hover">
-<ul class="nav nav-justified nav-tabs mb-4" id="justifiedTab" role="tablist">
-  <li class="nav-item">
-    <a aria-controls="sup45" aria-selected="true" class="nav-link active" data-toggle="tab" href="#sup45" id="sup45-tab" role="tab">DFGe &ge; 45</a>
+<ul class="nav nav-tabs nav-justified mb-4" id="justifiedTab" role="tablist">
+  <li class="nav-item" role="presentation">
+    <button aria-controls="sup45" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#sup45" id="sup45-tab" type="button" role="tab">DFGe &ge; 45</button>
   </li>
-  <li class="nav-item">
-    <a aria-controls="stade3b" aria-selected="false" class="nav-link" data-toggle="tab" href="#stade3b" id="stade3b-tab" role="tab">30-44</a>
+  <li class="nav-item" role="presentation">
+    <button aria-controls="stade3b" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#stade3b" id="stade3b-tab" type="button" role="tab">30-44</button>
   </li>
-  <li class="nav-item">
-    <a aria-controls="stade4" aria-selected="false" class="nav-link" data-toggle="tab" href="#stade4" id="stade4-tab" role="tab">15-29</a>
+  <li class="nav-item" role="presentation">
+    <button aria-controls="stade4" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#stade4" id="stade4-tab" type="button" role="tab">15-29</button>
   </li>
-  <li class="nav-item">
-    <a aria-controls="stade5" aria-selected="false" class="nav-link" data-toggle="tab" href="#stade5" id="stade5-tab" role="tab">&lt; 15</a>
+  <li class="nav-item" role="presentation">
+    <button aria-controls="stade5" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#stade5" id="stade5-tab" type="button" role="tab">&lt; 15</button>
   </li>
 </ul>
 <div class="tab-content" id="justifiedTabContent">

@@ -364,7 +364,7 @@ Confirmer le diagnostic avant de démarrer un traitement (*GINA 2019*), puis ins
 
 <div class="card card-hover my-3 my-xl-5">
 <nav class="mb-4">
-  <div class="nav nav-justified nav-tabs" role="tablist">
+  <div class="nav nav-tabs nav-justified" role="tablist">
     <a class="nav-item nav-link" id="nav-tab-stade1" data-toggle="tab" href="#nav-asthme-stade1" role="tab" aria-controls="nav-asthme-stade1" aria-selected="true">Stade 1</a>
     <a class="nav-item nav-link active" id="nav-tab-stade2" data-toggle="tab" href="#nav-asthme-stade2" role="tab" aria-controls="nav-asthme-stade2" aria-selected="false">Stade 2</a>
     <a class="nav-item nav-link" id="nav-tab-stade3" data-toggle="tab" href="#nav-asthme-stade3" role="tab" aria-controls="nav-asthme-stade3" aria-selected="false">Stade 3</a>

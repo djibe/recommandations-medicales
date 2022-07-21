@@ -148,12 +148,12 @@ Puis renouvellement tous les 3 mois.
 ### Ordonnance initiale de PrEP
 
 <div class="card card-hover my-3 mb-xl-5 mw-640">
-  <ul class="nav nav-justified nav-tabs" id="tabs-prep" role="tablist">
-    <li class="nav-item">
-      <a aria-controls="prep-h" aria-selected="true" class="nav-link active" data-toggle="tab" href="#prep-h" id="prep-h-tab" role="tab">Homme</a>
+  <ul class="nav nav-tabs nav-justified" id="tabs-prep" role="tablist">
+    <li class="nav-item" role="presentation">
+      <button aria-controls="prep-h" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#prep-h" id="prep-h-tab" type="button" role="tab">Homme</button>
     </li>
-    <li class="nav-item">
-      <a aria-controls="prep-f" aria-selected="false" class="nav-link" data-toggle="tab" href="#prep-f" id="prep-f-tab" role="tab">Femme</a>
+    <li class="nav-item" role="presentation">
+      <button aria-controls="prep-f" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#prep-f" id="prep-f-tab" type="button" role="tab">Femme</button>
     </li>
   </ul>
   <div class="tab-content card-body">
