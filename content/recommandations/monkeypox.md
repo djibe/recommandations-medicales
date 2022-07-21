@@ -1,7 +1,7 @@
 +++
 title = "Monkeypox"
 prefix = ""
-description = "160 characters max"
+description = "Recommandations pour la prise en charge du Monkeypox. Personnes à vacciner contre la variole du singe, traitement avec isolement, déclaration obligatoire"
 synonyms = ["Variole du singe"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
@@ -15,7 +15,7 @@ anglais = ["Monkeypox"]
 sctid = "359814004"
 image = true
 imageSrc = "Illustration du Monkeypox par brgfx / www.freepik.com"
-todo = "fiche HSH, Prescrire"
+todo = "Prescrire, https://www.sexosafe.fr/Variole-du-singe"
 +++
 
 {{%article-summary%}}
@@ -67,7 +67,7 @@ MPXV
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Examen clinique de tout patient suspect avec tous les moyens de protection.
+Examen clinique de tout patient suspect de variole du singe avec tous les moyens de protection (masque FFP2, gants ...).
 
 Délai médian au diagnostic de Monkeypox de 6 jours. L'incubation dure de 5 à 21 jours.  
 Guérison spontanée en 2 à 3 semaines (voire 4).
@@ -98,10 +98,10 @@ Appel du 15 pour l'avis d'un infectiologue en éruption douteuse.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-PCR monkeypox sur des lésions cutanéo-muqueuses.
+PCR Monkeypox sur des lésions cutanéo-muqueuses.
 
 {{% /collapse %}}
-{{%collapse "Prévention" %}}
+{{%collapse "Prévention du Monkeypox" %}}
 
 ### Personnes à vacciner contre Monkeypox
 
@@ -118,9 +118,11 @@ Le schéma de vaccination est identique à la vaccination Monkeypox post-exposit
 [Centres de vaccination contre Monkeypox ?](https://www.sante.fr/monkeypox)
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du Monkeypox" %}}
 
 {{%warning%}}Poliovirus = [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}){{%/warning%}}
+
+Prise en charge recommandée en cas de variole du singe:
 
 - Isolement 21 jours, y compris au sein du logement  
   {{%class%}}Jusqu'à disparition des dernières croûtes.{{%/class%}}
