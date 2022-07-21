@@ -6,7 +6,7 @@ synonyms = ["Variole du singe"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
 publishdate = "2022-07-20"
-lastmod = "2022-07-20"
+lastmod = "2022-07-21"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "HCSP", "MinSanté"]
@@ -35,7 +35,7 @@ Monkeypox ou variole du singe
 : Maladie infectieuse liée virus Monkeypox (MPXV, Orthopoxvirus). Contamination directe par muqueuse ou peau lésée ou gouttelettes. Contamination également possible par literie, vêtements, vaisselle, linge de bain ...  
 Les zones d'endémie sont les zones forestières d'Afrique du Centre et de l'Ouest avec contamination par des rongeurs sauvages ou des primates (zoonose) puis dans le foyer familial.
 : Complications de la variole du singe: surinfection des lésions cutanées ou atteintes respiratoires, digestives, ophtalmologiques ou neurologiques.
-: 912 cas confirmés en France au 12 juillet, à 97% des [HSH]({{< relref "hsh.md" >}}) sans aucun décès (au 05/07/2022).
+: 1453 cas confirmés en France au 19 juillet, à 96% des [HSH]({{< relref "hsh.md" >}}) sans aucun décès en Europe (au 19/07/2022).
 
 Cas suspect de Monkeypox
 : Signes cliniques évocateurs de Monkeypox sans exposition à risque. Diagnostic biologique.
@@ -78,12 +78,12 @@ La variole du singe est plus grave chez l'enfant et les immunodéprimés.
 
 Signes et symptômes de la variole du singe:
 
-- Fièvre (79%) 1-3 jours
-- Adénopathies (75%)
+- Fièvre (76%) 1-3 jours
+- Adénopathies (74%)
 - Céphalées, courbatures
 - Éruption vésiculeuse avec contenu liquidien
   - Dessèchement puis croûtes puis cicatrisation
-  - Localisation: visage, génito-anale (81%), paumes et plantes, possibles aussi sur tronc et membres.  
+  - Localisation: visage, génito-anale (78%), paumes et plantes, possibles aussi sur tronc et membres.  
     Muqueuses buccale ou génitale
 - Odynophagie
 
@@ -140,8 +140,8 @@ Antiviral indiqué chez les personnes à risque de forme grave de variole du sin
 {{% /collapse %}}
 {{%sources%}}
 
+- [Santé Publique France. Cas de variole du singe : point de situation au 19 juillet 2022. 20/07/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-19-juillet-2022)
 - [Infovac. Epidémie de variole dite « du singe » ou monkey pox : place des enfants et préconisations actuelles du GPIP et de la SFP. 20/07/2022.](https://www.infovac.fr/actualites/epidemie-de-variole-dite-du-singe-ou-monkey-pox-place-des-enfants-et-preconisations-actuelles-du-gpip-et-de-la-sfp)
-- [Santé Publique France. Cas de variole du singe : point de situation au 12 juillet 2022. 13/07/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-7-juillet-2022)
 - [DGS-Urgent 2022_65, 61, 58](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HCSP. Mesures de prévention vis-à-vis de l'infection à Monkeypox virus. 09/07/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1230)
 - [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)
@@ -149,7 +149,9 @@ Antiviral indiqué chez les personnes à risque de forme grave de variole du sin
 
 ### À lire
 
-- [Ministère de la Santé. Fiche de synthèse << cariole du singe >> à destination des professionnels de santé. 11/07/2022. (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/mkp___fiche_a_destination_des_professionnels_11072022.pdf)
+- [ARS Ile-de-France. Variole du singe : conseils et prise en charge en Ile-de-France. 18/07/2022.](https://www.iledefrance.ars.sante.fr/variole-du-singe-conseils-et-prise-en-charge-en-ile-de-france)
+- [Vaccination Info Service. Variole du singe (Monkeypox). 13/07/2022.](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Variole-du-singe-Monkeypox)
+- [Ministère de la Santé. Fiche de synthèse << variole du singe >> à destination des professionnels de santé. 11/07/2022. (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/mkp___fiche_a_destination_des_professionnels_11072022.pdf)
 - [COREB. Monkeypox - Prendre en charge les patients.](https://www.coreb.infectiologie.com/fr/prendre-en-charge-les-patients-fiches-pratiques.html)
 - [COREB. Monkeypox - Fiche conseils patient.](https://www.coreb.infectiologie.com/fr/alertes-infos/monkeypox-fiche-conseils-patient-et-actualisation-de-la-fiche-soignants_-n.html)
 - [Sante.fr. Monkeypox : ressources et supports de communication](https://www.sante.fr/monkeypox-ressources-et-supports-de-communication)
