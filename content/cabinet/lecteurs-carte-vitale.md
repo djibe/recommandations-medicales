@@ -12,7 +12,7 @@ image = true
 imageSrc = "unDraw"
 +++
 
-Modèles et particularités des lecteurs de carte vitale et de carte CPS pour le médecin généraliste.
+Modèles et particularités des lecteurs de carte vitale et de carte CPS homologués par le GIE Sesam-Vitale pour la facturation par le médecin généraliste.
 {.lead}
 
 {{< card-link title="Article lié" subtitle="Équipements pour l'ordinateur du médecin" url="/cabinet/peripheriques-ordinateur/">}}
