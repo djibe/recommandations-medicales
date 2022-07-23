@@ -1,6 +1,6 @@
 +++
-title = "Périphériques pour l'ordinateur (imprimante, webcam, lecteur de carte ...)"
-titleSeo = "Périphériques pour l'ordinateur"
+title = "Périphériques pour l'ordinateur (imprimante, webcam, clavier ...)"
+titleSeo = "Périphériques pour l'ordinateur du médecin"
 noindex = true
 description = "Quel ordinateur pour le médecin généraliste ? Conseils pour un ordinateur performant au cabinet de médecine générale. Configuration minimale et pièges à éviter"
 auteurs = ["Jean-Baptiste FRON"]
@@ -28,23 +28,22 @@ Imprimantes choisies par 01Net.
 
 Imprimante (non multifonction) permettant d'utiliser des toners compatibles moins chers (17€ contre 80€ chez CartoucheMania, Tinkco, Toner.fr ...)
 
-- [Choix: Brother HL-L2350DW (petite, rapide, R/V, pas de Wi-Fi) - 140€](https://ledenicheur.fr/product.php?p=4549237)
+[Choix: Brother HL-L2350DW (petite, rapide, R/V, pas de Wi-Fi) - 140€](https://ledenicheur.fr/product.php?p=4549237)
 
 ### Imprimante laser couleur multifonctions avec toners compatibles
 
-- [Brother MFC-L2750DW - 260€](https://ledenicheur.fr/product.php?p=4549236)
+[Brother MFC-L2750DW - 260€](https://ledenicheur.fr/product.php?p=4549236)
 
 ### Autres à étudier
 
 - Top: HP laserjet pro m283fdw (connectivité, rapidité, couleur, chargeur - 400€)
 - Rapport Q/P: Brother hl-3140cw laser couleur, connectivité, prix raisonnable
-
-HP Neverstop
-HP M404dn
-Brother hl-l5000d
-Brother hl-l2375dw
-Xerox b210
-Hp laserjet m209dwe
+- HP Neverstop
+- HP M404dn
+- Brother hl-l5000d
+- Brother hl-l2375dw
+- Xerox b210
+- Hp laserjet m209dwe
 
 Tout en 1
 
@@ -107,12 +106,5 @@ Webcams avec une qualité d'image suffisante pour une téléconsultation et avec
 - [Logitech HD Pro Webcam C920S - 72€](https://ledenicheur.fr/product.php?p=5064507)
 - [Microsoft LifeCam HD-3000 - 25€](https://ledenicheur.fr/product.php?p=829887)
 {.list-group}
-
-{{% /collapse %}}
-{{%collapse "Lecteur de carte vitale - CPS - carte à puce" %}}
-
-Les dernières recommandations SESAM-Vitale préconisent l'utilisation de lecteurs de carte à puce qui utilisent des standards internationaux. Il en faudra 2 pour la carte vitale et la carte CPS. Seul bémol, l'utilisation en visites à domicile, qui fera l'objet d'un autre article.
-
-Pas de modèle précis, pour une fois je stoppe mon blocage des GAFAM pour vous laisser [choisir un modèle de lecteur de carte à puce](https://www.amazon.fr/s?k=lecteur+carte+%C3%A0+puce&rh=p_72%3A437873031&s=review-rank&dc&qid=1652633680&rnid=437872031&sprefix=lecteur+carte+%C3%A0+puce%2Caps%2C47&ref=sr_st_review-rank).
 
 {{% /collapse %}}

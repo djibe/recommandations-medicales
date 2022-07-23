@@ -6,7 +6,7 @@ synonyms = ["Variole du singe"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
 publishdate = "2022-07-20"
-lastmod = "2022-07-21"
+lastmod = "2022-07-22"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "HCSP", "MinSanté"]
@@ -20,11 +20,11 @@ todo = "Prescrire, https://www.sexosafe.fr/Variole-du-singe"
 
 {{%article-summary%}}
 
-- Poliovirus = [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
+- Poliovirus = [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}) à l'ARS
 - Si besoin, avis d'un {{< references/cegidd >}} ou appel du 15 pour avis infectiologique
 - [Où se faire vacciner contre Monkeypox ?](https://www.sante.fr/monkeypox)
 - [Flyer d'info Variole du singe](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-transmissibles-de-l-animal-a-l-homme/monkeypox/documents/depliant-flyer/variole-du-singe-monkeypox-flyer-a5) (*SPF*)
-- Monkeypox Info Service: {{<phone>}}0 801 90 80 69{{</phone>}} (8-23h)
+- Monkeypox Info Service Grand public: {{<phone>}}0 801 90 80 69{{</phone>}} (8-23h)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -98,6 +98,8 @@ Appel du 15 pour l'avis d'un infectiologue en éruption douteuse.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+### Ordonnance devant des lésions évocatrices de Monkeypox
+
 PCR Monkeypox sur des lésions cutanéo-muqueuses.
 
 {{% /collapse %}}
@@ -115,7 +117,7 @@ Toutes les personnes avec risque élevé d'exposition au virus:
 > *HAS 08/07/2022*
 
 Le schéma de vaccination est identique à la vaccination Monkeypox post-exposition (voir *Traitement*).  
-[Centres de vaccination contre Monkeypox ?](https://www.sante.fr/monkeypox)
+[Liste des Centres de vaccination contre Monkeypox](https://www.sante.fr/monkeypox)
 
 {{% /collapse %}}
 {{%collapse "Traitement du Monkeypox" %}}
@@ -124,7 +126,7 @@ Le schéma de vaccination est identique à la vaccination Monkeypox post-exposit
 
 Prise en charge recommandée en cas de variole du singe:
 
-- Isolement 21 jours, y compris au sein du logement  
+- Isolement 21 jours immédiat, y compris au sein du logement  
   {{%class%}}Jusqu'à disparition des dernières croûtes.{{%/class%}}
 - Contact tracing
 - Vaccination post-exposition des contacts
@@ -133,7 +135,7 @@ Prise en charge recommandée en cas de variole du singe:
   - Vaccins Imvanex et Jynneos dont la protection n'est pas immédiate
   - 2 doses à J0-J28, les vaccins sont interchangeables
   - 1 seule dose si déjà vacciné contre la variole, 3 doses si immunodépression
-- Dépistage des [IST](/tags/ist/)
+- Dépistage des [IST](/tags/ist/) si rapports à risque
 
 ### Antiviral Tecovirimat
 
@@ -144,6 +146,7 @@ Antiviral indiqué chez les personnes à risque de forme grave de variole du sin
 
 - [Santé Publique France. Cas de variole du singe : point de situation au 19 juillet 2022. 20/07/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-19-juillet-2022)
 - [Infovac. Epidémie de variole dite « du singe » ou monkey pox : place des enfants et préconisations actuelles du GPIP et de la SFP. 20/07/2022.](https://www.infovac.fr/actualites/epidemie-de-variole-dite-du-singe-ou-monkey-pox-place-des-enfants-et-preconisations-actuelles-du-gpip-et-de-la-sfp)
+- [Ameli. Virus Monkeypox : les recommandations sur la prise en charge. 19/07/2022.](https://www.ameli.fr/medecin/actualites/virus-monkeypox-les-recommandations-sur-la-prise-en-charge)
 - [DGS-Urgent 2022_65, 61, 58](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HCSP. Mesures de prévention vis-à-vis de l'infection à Monkeypox virus. 09/07/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1230)
 - [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)

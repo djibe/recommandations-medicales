@@ -60,13 +60,13 @@ Vérifier la monographie car contre-indications spécifiques pour chaque spécia
   **: éviter chez le nourrisson  
   ***: contre-indiqué chez enfant < 8 ans ET grossesse/allaitement
 
-{{< youtube id="vji5gGRZfSo" title="Traitement du chalazion (DOCTEUR VIDEO)" >}}
-
 #### Chalazion enkysté
 
 Forme enkystée: incision de la glande de Meibomius par l'ophtalmologue sous anesthésie locale.  
 En cas de saignement post-interventionnel: compression simple pendant quelques minutes.
 
 ## Source {.mt-5}
+
+{{< youtube id="vji5gGRZfSo" title="Traitement du chalazion (DOCTEUR VIDEO)" >}}
 
 [Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 84. 2017. (PDF)](http://couf.fr/wp-content/uploads/2016/03/Chapitre-18.pdf)
