@@ -24,7 +24,7 @@ todo = "poulet ?, https://www.sciencedirect.com/science/article/abs/pii/S1877032
 - PPN: préparation pour nourrissons (= lait homologué)
 - Poursuivre l'éviction jusqu'aux 2 ans de l'enfant, tenter réintroduction douce (milieu hospitalier si grave)
 - Suivi régulier des courbes de croissance
-- Tout est sur [EBMFrance](https://www.ebmfrance.net/fr/Pages/ebm/ebm00645.aspx), sauf quelques ajouts ci-dessous.
+- Plus de détails sur [EBMFrance](https://www.ebmfrance.net/fr/Pages/ebm/ebm00645.aspx)
 
 {{%/article-summary%}}
 {{%collapse "Allergies croisées avec l'APLV" %}}
@@ -55,7 +55,7 @@ Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de 
 - Bébé Mandorle Riz 1, 2 et 3
 - Modilac Expert Riz 1, 2 et 3
 - Modilac Expert Riz AR ~~1~~, 2 et 3
-- Modilac croissance végétal avec protéines de riz 2 à 3 (supermarché ou en ligne, 2+)
+- Modilac croissance végétal avec protéines de riz 3 (supermarché ou en ligne)
 - Novalac Riz ou Riz AR de 1 à 3
 - Prémiriz 1, 2 et 3
 

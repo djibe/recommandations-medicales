@@ -458,7 +458,7 @@ Après essai de réduction spontanée de 15 jours, le nalméfène est le médica
 Réévaluation à 7 et 14 jours puis 1/mois au moins 6 mois.
 {{%/info%}}
 
-Autre traitement: baclofène (Baclocur®, max 80 mg/j), 30 mg/j en cas de cirrhose.
+Autre traitement: baclofène (Baclocur®, max 80 mg/j, n'est plus remboursé), 30 mg/j en cas de cirrhose.
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
