@@ -135,7 +135,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 | 3G          | 35       | Norgestimate 0,25 | NR: Femi, Naravela, Optikinzy 28j |
 | 3G          | 35       | Norgestimate 0,18/215/25 | NR: Triafemi |
 | P2          | 0        | LNG 0,03         | Microval        |
-| P3          | 0        | Désogestrel 0,075 | Antigone, Cérazette 28j, Clareal, désogestrel 75, Désopop, Elfasette, Optimizette |
+| P3          | 0        | Désogestrel 0,075 | Antigone, Cérazette 28j NR, désogestrel 75, Désopop, Elfasette, Optimizette |
 | Implant     | 0        | Etonogestrel     | Nexplanon (18-40 ans) |
 | Anneau      | 15       | Etonogestrel 0,12 | NR: Etoring, Nuvaring, gén (18-40 ans) |
 | Patch       | 20       | Norelgestromine 0,15 | NR: Evra (18-45 ans, < 90 kg) |

@@ -25,7 +25,7 @@ todo = "diarrhée chro, https://doi.org/10.1016/j.mmm.2020.10.008"
   Dans l'heure suivant l'ingestion (hypervariable possible)
 - Toujours évoquer en [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
 - Diagnostic: amélioration franche après un test d'éviction du lactose pendant 2 semaines car test respiratoire à l'hydrogène non remboursé
-- Prise en charge: des apports 12-18g/j de lactose semblent tolérés
+- Prise en charge: des apports 12-18 g/j de lactose semblent tolérés
 - Maintenir des apports en produits laitiers pour apporter les micronutriments
 
 Articles liés: [vitamine D]({{< relref "vitamine-d.md" >}}) et [ostéoporose]({{< relref "osteoporose.md" >}})

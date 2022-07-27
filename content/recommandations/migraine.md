@@ -226,7 +226,7 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
 
 ### IRM cérébrale
 
-Indications:
+Indications à l'IRM cérébrale en cas de migraines:
 
 - Apparition après 50 ans
 - Aura atypique  
@@ -266,7 +266,7 @@ Ne pas culpabiliser l'abus médicamenteux en migraine chronique (effet délétè
 ### Hygiène de vie
 
 - Arrêt du tabac obligatoire  
-  {{%class%}}Décuple le risque d'AVC.{{%/class%}}
+  {{%class%}}L'association migraine - tabac décuple le risque d'AVC.{{%/class%}}
 - Éviter les facteurs déclenchants identifiés  
   Habituels: facteur alimentaire, alcool, manque de sommeil/grasse matinée, stress, jeûne, chaleur, changements de climat.
 - Activité physique d'endurance régulière
@@ -320,7 +320,7 @@ Max 14 j/mois et 8 j/mois si associés (caféine ou métoclopramide).
 
 Max 2 prises/24h avec intervalle minimal de 2 heures entre les prises.
 
-- Comprimé: **élétriptan** 20/40 mg (meilleur sur 24h) > **rizatriptan** 5/10 mg (2<sup>e</sup>) > sumatriptan 50 mg (<sup>3e</sup> avec 100 mg), almotriptan 12,5 mg, frovatriptan 2,5 mg, naratriptan 2,5 mg, zolmitriptan 2,5 mg
+- Comprimé: **élétriptan** 20/40 mg (meilleur sur 24h) > **rizatriptan** 5/10 mg (2<sup>e</sup>) > sumatriptan 50 mg (3<sup>e</sup> avec 100 mg), almotriptan 12,5 mg, frovatriptan 2,5 mg, naratriptan 2,5 mg, zolmitriptan 2,5 mg
 - Orodispersible: **rizatriptan**, zolmitriptan
 - Nasal: sumatriptan 10 mg/0,1 mL
 - Sous-cutané: sumatriptan 6 mg/inj

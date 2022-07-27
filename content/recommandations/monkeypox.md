@@ -1,12 +1,12 @@
 +++
-title = "Monkeypox"
-prefix = ""
+title = " Variole du singe (Monkeypox)"
+prefix = "la "
 description = "Recommandations pour la prise en charge du Monkeypox. Personnes à vacciner contre la variole du singe, traitement avec isolement, déclaration obligatoire"
-synonyms = ["Variole du singe"]
+synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
 publishdate = "2022-07-20"
-lastmod = "2022-07-25"
+lastmod = "2022-07-27"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "HCSP", "MinSanté"]
@@ -26,6 +26,8 @@ todo = "Prescrire, https://www.sexosafe.fr/Variole-du-singe"
 - [Flyer d'info Variole du singe](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-transmissibles-de-l-animal-a-l-homme/monkeypox/documents/depliant-flyer/variole-du-singe-monkeypox-flyer-a5) (*SPF*)
 - Monkeypox Info Service Grand public: {{<phone>}}0 801 90 80 69{{</phone>}} (8-23h)
 
+Chapitre lié: [HSH]({{< relref "hsh.md" >}})
+
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
@@ -34,7 +36,7 @@ todo = "Prescrire, https://www.sexosafe.fr/Variole-du-singe"
 Monkeypox ou variole du singe
 : Maladie infectieuse liée virus Monkeypox (MPXV, orthopoxvirus). Contamination directe par muqueuse ou peau lésée ou gouttelettes. Contamination également possible par literie, vêtements, vaisselle, linge de bain ...  
 Les zones d'endémie sont les zones forestières d'Afrique du Centre et de l'Ouest avec contamination par des rongeurs sauvages ou des primates (zoonose) puis dans le foyer familial.
-: Complications de la variole du singe: surinfection des lésions cutanées ou atteintes respiratoires, digestives, ophtalmologiques ou neurologiques.
+: Complications de la variole du singe: surinfection cutanées bactériennes, infections respiratoires basses, sepsis, encéphalite, kératites, ou gastro-intestinales avec pertes liquidiennes (*HCSP mai 2022*).
 : 1567 cas confirmés en France au 21 juillet, à 96% des [HSH]({{< relref "hsh.md" >}}) sans aucun décès en Europe (au 19/07/2022).
 
 Cas suspect de Monkeypox
@@ -62,12 +64,49 @@ HSH
 
 MPXV
 : monkeypox virus
+
+PVVIH
+: personne vivant avec le VIH
 {.dl-inline}
+
+{{% /collapse %}}
+{{%collapse "Personnes à risque de forme grave et signes de gravité du Monkeypox" %}}
+
+{{%warning%}}
+
+### Personnes à risque de forme grave de Monkeypox
+
+Personnes à risque de forme grave de Monkeypox:
+
+- Immunodéprimés (dont [PVVIH]({{< relref "vih-sida.md" >}}))
+- Grossesse  
+  Risque mort fœtale in utero, fausse couche spontanée, transmission materno-fœtale ou périnatale
+- Enfants et adolescents de moins de 18 ans
+
+> *HCSP mai 2022*
+
+{{%/warning%}}
+
+### Signes de gravité du Monkeypox
+
+Signes de gravité de la variole du singe:
+
+- Fièvre supérieure à 38,3°C pendant 7 jours
+- Plus de 100 lésions cutanées
+- Douleurs buccales avec odynophagie et dysphagie
+- Adénopathies cervicales volumineuses avec risque de compression des voies aériennes
+- Troubles digestifs  
+  Nausées, vomissements.
+- Anomalies biologiques  
+  Transaminases, hypoalbuminémie, hyperleucocytose et thrombopénie.
+
+> *HCSP mai 2022*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-[Services d'infectiologie d'aide au diagnostic en Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients)
+[Services d'infectiologie d'aide au diagnostic en Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients).  
+Un cas suspect doit être confirmé par l'infectiologue référent de l'établissement de santé de référence (ESR).
 
 Examen clinique de tout patient suspect de variole du singe avec tous les moyens de protection (masque FFP2, gants ...).
 
@@ -77,7 +116,7 @@ Guérison spontanée en 2 à 3 semaines (voire 4).
 
 La variole du singe est plus grave chez l'enfant et les immunodéprimés.
 
-### Interrogatoire et examen clinique
+### Interrogatoire et examen clinique d'un patient suspect de Monkeypox
 
 Signes et symptômes de la variole du singe:
 
@@ -97,7 +136,7 @@ Signes et symptômes de la variole du singe:
 
 Appel du 15 pour l'avis d'un infectiologue en éruption douteuse.
 
-<< Risque très faible d’avoir la maladie et de la transmettre, forte probabilité de diagnostic différentiel bénin devant une éruption vésiculeuse. Les pédiatres restent en même temps vigilants car de nombreuses inconnues persistent. >> (*Infovac 20/07/2022*)
+<< Risque très faible d'avoir la maladie et de la transmettre, forte probabilité de diagnostic différentiel bénin devant une éruption vésiculeuse. Les pédiatres restent en même temps vigilants car de nombreuses inconnues persistent. >> (*Infovac 20/07/2022*)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -137,12 +176,17 @@ Le schéma de vaccination est identique à la vaccination Monkeypox post-exposit
 
 {{%warning%}}Poliovirus = [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}){{%/warning%}}
 
+Le traitement du Monkeypox est symptomatique avec la prévention des surinfections cutanéo-muqueuses.
+
 Prise en charge recommandée en cas de variole du singe:
 
 - Isolement 21 jours immédiat, y compris au sein du logement  
   {{%class%}}Jusqu'à disparition des dernières croûtes.{{%/class%}}
+- Prévenir la ré-inoculation: éviter le grattage des lésions, couvrir les lésions
 - Remettre la [fiche d'information patient Monkeypox (PDF)](https://www.coreb.infectiologie.com/UserFiles/File/monkeypox/20220714-mkppatient.pdf)
-- Contact tracing
+- Autres mesures: éloigner les animaux de compagnie
+- Contact tracing  
+  avec auto-surveillance jusqu'à 3 semaines post-contact
 - Vaccination post-exposition des contacts
   - [Où se faire vacciner contre Monkeypox ?](https://www.sante.fr/monkeypox)
   - Dans les 4 à 14 jours après l'exposition à risque. Au cas par cas chez l'enfant
@@ -153,26 +197,28 @@ Prise en charge recommandée en cas de variole du singe:
 
 ### Antiviral Tecovirimat
 
-Antiviral indiqué chez les personnes à risque de forme grave de variole du singe.
+Antiviral disponible en gélules indiqué chez les personnes à **risque de forme grave** de variole du singe (voir *Personnes à risque de forme grave*). La durée de prise du tecovirimat est de 14 jours.
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Vaccination Info Service. Variole du singe (Monkeypox). 22/07/2022.](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Variole-du-singe-Monkeypox)
 - [Santé Publique France. Cas de variole du singe : point de situation au 21 juillet 2022. 22/07/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-21-juillet-2022)
 - [Infovac. Epidémie de variole dite « du singe » ou monkey pox : place des enfants et préconisations actuelles du GPIP et de la SFP. 20/07/2022.](https://www.infovac.fr/actualites/epidemie-de-variole-dite-du-singe-ou-monkey-pox-place-des-enfants-et-preconisations-actuelles-du-gpip-et-de-la-sfp)
 - [Ameli. Virus Monkeypox : les recommandations sur la prise en charge. 19/07/2022.](https://www.ameli.fr/medecin/actualites/virus-monkeypox-les-recommandations-sur-la-prise-en-charge)
 - [DGS-Urgent 2022_65, 61, 58](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [ARS Ile-de-France. Variole du singe : conseils et prise en charge en Ile-de-France. 18/07/2022.](https://www.iledefrance.ars.sante.fr/variole-du-singe-conseils-et-prise-en-charge-en-ile-de-france)
-- [HCSP. Mesures de prévention vis-à-vis de l'infection à Monkeypox virus. 09/07/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1230)
+- [HCSP. Mesures de prévention vis-à-vis de l'infection à Monkeypox virus. 08/07/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1230)
 - [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)
 - [ANSM. Monkeypox. 20/06/2022.](https://ansm.sante.fr/dossiers-thematiques/monkeypox)
+- [HCSP. Avis relatif relatif à la conduite à tenir pour les cas confirmés d'infection à Monkeypox virus (MPXV) à risque de forme grave et pour les personnes contacts à risque d'infection par MPXV. 09/06/2022.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=1216)
+- [HCSP. Avis relatif à la conduite à tenir autour d'un cas suspect, probable ou confirmé d'infection à Monkeypox virus. 24/05/2022.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=1216)
+- [Sante.fr. Monkeypox : ressources et supports de communication](https://www.sante.fr/monkeypox-ressources-et-supports-de-communication)
 
 ### À lire
 
-- [Vaccination Info Service. Variole du singe (Monkeypox). 13/07/2022.](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Variole-du-singe-Monkeypox)
 - [Ministère de la Santé. Fiche de synthèse << variole du singe >> à destination des professionnels de santé. 11/07/2022. (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/mkp___fiche_a_destination_des_professionnels_11072022.pdf)
 - [COREB. Monkeypox - Prendre en charge les patients.](https://www.coreb.infectiologie.com/fr/prendre-en-charge-les-patients-fiches-pratiques.html)
-- [COREB. Monkeypox - Fiche conseils patient.](https://www.coreb.infectiologie.com/fr/alertes-infos/monkeypox-fiche-conseils-patient-et-actualisation-de-la-fiche-soignants_-n.html)
-- [Sante.fr. Monkeypox : ressources et supports de communication](https://www.sante.fr/monkeypox-ressources-et-supports-de-communication)
+- [SPILF. Monkeypox: actualités mise à jour. 18/07/2022.](https://www.infectiologie.com/fr/actualites/monkeypox-actualites-mise-a-jour_-n.html)
 
 {{%/sources%}}

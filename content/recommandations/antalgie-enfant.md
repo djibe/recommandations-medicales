@@ -197,9 +197,9 @@ Classé en palier 1 mais peut être plus efficace que des paliers 2 voire 3 apr�
 
 {{%warning%}}
 
-- La codéine n'est utilisable qu'à partir de 12 ans après échec de paracétamol + AINS.
-- Elle est contre-indiquée après amygdalectomie et adénoïdectomie.  
-- Proscrire chez la femme qui allaite.
+- La codéine n'est utilisable qu'à partir de 12 ans après échec de paracétamol + AINS
+- Elle est contre-indiquée après amygdalectomie et adénoïdectomie
+- Proscrire chez la femme qui allaite
 {{%/warning%}}
 
 {{% /collapse %}}
@@ -216,14 +216,14 @@ Surveillance par soignant pendant 1h.
 {{%collapse "Évaluation de la douleur de l'enfant" %}}
 
 {{< table title="Échelles d'évaluation de la douleur chez l'enfant (source Pediadol)" >}}
-| Âge          | Échelle                  | Seuil de traitement |
-|--------------|--------------------------|:-------------------:|
+| Âge (années) | Échelle                  | Seuil de traitement |
+|-------------:|--------------------------|:-------------------:|
 | Nouveau-né   | EDIN <br>EVENDOL         | 4-5/15              |
-| 0 - 7 ans    | EVENDOL                  | 4-5/15              |
-| <b>Auto-évaluation</b>    |             |                     |
-| 4+ ans       | Visages (FPS-R)          | 4/10                |
-| 6+ ans       | EVA                      | 3/10                |
-| 8+ ans       | EN                       | 3/10                |
+| 0 - 7        | EVENDOL                  | 4-5/15              |
+| <b>Auto-évaluation</b>|                 |                     |
+| 4+           | Visages (FPS-R)          | 4/10                |
+| 6+           | EVA                      | 3/10                |
+| 8+           | EN                       | 3/10                |
 {{< /table >}}
 
 {{% /collapse %}}
