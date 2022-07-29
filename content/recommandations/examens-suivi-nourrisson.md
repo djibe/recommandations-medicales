@@ -5,7 +5,7 @@ titleSeo = "Suivi de l'enfant"
 description = "Liste des 20 examens du nourrisson et de l'enfant remboursés à 100% par l'Assurance Maladie avec leur code de facturation selon l'âge"
 shortname = "Suivi pédiatrique"
 synonyms = []
-auteurs = ["Jean-Baptiste FRON"]
+auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2020-06-02T11:57:29+02:00"
 publishdate = "2020-06-02"
 lastmod = "2022-01-20"
@@ -13,6 +13,8 @@ specialites = ["pediatrie"]
 annees = "2021"
 sources = ["Service-public"]
 tags = ["nourrisson", "enfant", "adolescent"]
+anglais = ["Children follow up"]
+sctid = ""
 image = true
 imageSrc = "Illustration par pch.vector / Freepik"
 +++
@@ -40,7 +42,7 @@ Examens médicaux de la naissance à 16 ans, réalisés en **tiers payant total 
 - Les consultations *COE* correspondent aux certificats obligatoires (8 jours, 9 mois et 24 mois)  
 - Les tarifs ci-dessous concernent la Métropole
 
-{{< table title="Examens de suivi du nourrisson remboursés à 100%" >}}
+{{< table title="Examens de suivi du nourrisson remboursés à 100% selon l'Arrêté du 26/02/2019" >}}
 | N°    | Âge           | Cotation MG |
 |------:|:-------------:|:-----------:|
 | 1     | **Dans les 8 premiers jours** | COE (46€) |
@@ -66,5 +68,13 @@ Examens médicaux de la naissance à 16 ans, réalisés en **tiers payant total 
 {{< /table >}}
 
 > [Service-public. Visites médicales de l'enfant : examens obligatoires. 21/05/2021](https://www.service-public.fr/particuliers/vosdroits/F967) et [Arrêté du 26/02/2019](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038175215/)
+
+Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de suivi:
+
+1. Développement psychomoteur
+2. Développement staturo-pondéral
+3. Dépistages sensoriels
+4. Alimentation
+5. Vaccinations
 
 {{% /collapse %}}

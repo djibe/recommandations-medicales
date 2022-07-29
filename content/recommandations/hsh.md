@@ -23,9 +23,9 @@ todo = "TODO: gono, https://www.eacsociety.org/files/2019_guidelines-10.0_final.
 
 - Port du préservatif systématique
 - Renseigner sur la [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}})
-- Dépistage du VIH tous les 3 mois (*HAS 2017*)
-- Dépistage du *Chlamydia* tous les 3-6 mois (*HAS 2018*)
-- Vaccination hépatite A (après sérologie), hépatite B, papillomavirus (jusqu'à 26 ans)
+- Dépistage du [VIH]({{< relref "vih-sida.md" >}}) tous les 3 mois (*HAS 2017*)
+- Dépistage du *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* tous les 3-6 mois (*HAS 2018*)
+- Vaccination [hépatite A]({{< relref "hepatite-a.md" >}}) (après sérologie), [hépatite B]({{< relref "hepatite-b.md" >}}), [monkeypox]({{< relref "monkeypox.md" >}}), [papillomavirus]({{< relref "cancer-col-uterus.md" >}}) (jusqu'à 26 ans)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -33,10 +33,9 @@ todo = "TODO: gono, https://www.eacsociety.org/files/2019_guidelines-10.0_final.
 HSH
 : Homme ayant des rapports sexuel avec des hommes
 {.dl-inline}
+: Surexposition au [VIH]({{< relref "vih-sida.md" >}}) (prévalence 13%, 45% des cas), [syphilis]({{< relref "syphilis.md" >}}) (80% des cas), HPV, [hépatite A]({{< relref "hepatite-a.md" >}}), Monkeypox et autres IST.
 
-Surexposition au [VIH]({{< relref "vih-sida.md" >}}) (prévalence 13%, 45% des cas), [syphilis]({{< relref "syphilis.md" >}}) (80% des cas), HPV, [hépatite A]({{< relref "hepatite-A.md" >}}), Monkeypox et autres IST.
-
-### Épidémiologie
+### Épidémiologie chez les hommes ayant des rapports sexuels avec des hommes
 
 En 2019, durant les 12 deniers mois:
 
@@ -49,7 +48,7 @@ Principalement dans les lieux publics > professionnel et scolaire > familial.
 
 Au moins 2 fois plus de dépressions (1/4 expliquées par les agressions), tentatives de suicides et suicides que les personnes hétérosexuelles.
 
-> [El Khoury Lesueur F et al. Le groupe Baromètre de Santé publique France 2017. Santé mentale des adultes selon l'orientation sexuelle et violences subies. Résultats du Baromètre de Santé publique France 2017. Bull Epidémiol Hebd. 2021;(6-7):97-104.](http://beh.santepubliquefrance.fr/beh/2021/6-7/2021_6-7_1.html)
+> [El Khoury Lesueur F et al. Le groupe Baromètre de Santé publique France 2017. Santé mentale des adultes selon l'orientation sexuelle et violences subies. Résultats du Baromètre de Santé publique France 2017. Bull Epidémiol Hebd. 2021.](http://beh.santepubliquefrance.fr/beh/2021/6-7/2021_6-7_1.html)
 
 Parmi les HSH fréquentant les milieux sociaux HSH (bars, backrooms):
 
@@ -65,8 +64,8 @@ Bilans à proposer en cas de conduites sexuelles à risque:
 
 - [VIH]({{< relref "vih-sida.md" >}})
 - [Hépatite A]({{< relref "hepatite-a.md" >}})
-- Hépatite B
-- Hépatite C
+- [Hépatite B]({{< relref "hepatite-b.md" >}})
+- [Hépatite C]({{< relref "hepatite-c.md" >}})
 - [Syphilis]({{< relref "syphilis.md" >}})
 - PCR *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* + gonocoque selon les pratiques
 

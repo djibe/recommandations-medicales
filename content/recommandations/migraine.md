@@ -397,7 +397,8 @@ Prise en charge par traitement de fond au moins 3 mois avant de conclure à une 
   - [Métoprolol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62837759&typedoc=R) LP 50-200 mg le matin
   - Alternatives aux bêtabloquants: amitriptyline, candésartan ou topiramate
 - Migraine chronique {{%class%}}(≥ 15 j/mois){{%/class%}}
-  - [Topiramate](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67515484&typedoc=R) 50-200 mg en 1-2 prises
+  - [Topiramate](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67515484&typedoc=R) 50-200 mg en 1-2 prises  
+    Débuter à 25 mg le soir. Paliers de 25 mg par semaine.
 
 {{%/info%}}
 

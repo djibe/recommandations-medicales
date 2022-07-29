@@ -72,7 +72,7 @@ VVA
 | 45 ans  | dTPolio       | Revaxis                        |
 | ≥ 65 ans    | dTPolio tous les 10 ans<br>Antigrippal annuel | Revaxis<br>Efluelda, Flurarix-Influvac-Vaxigrip Tetra |
 | 65-74 ans   | Zona      | Zostavax (vivant)              |
-| Grossesse   | Coqueluche<br>Grippe | BoostrixTetra, Repevax ... |
+| Grossesse   | Coqueluche, Covid, grippe | BoostrixTetra, Repevax ... |
 {{< /table >}}
 
 {{% /collapse %}}
