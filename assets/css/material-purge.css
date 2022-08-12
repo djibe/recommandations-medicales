@@ -424,6 +424,11 @@ summary {
   display: list-item;
 }
 
+mark {
+  background-color: #ffeb3b;
+  color: rgba(0, 0, 0, 0.87);
+}
+
 @-ms-viewport {
   width: device-width;
 }
@@ -703,6 +708,13 @@ small,
 .small {
   font-size: 0.875em;
   font-weight: 400;
+}
+
+mark,
+.mark {
+  background-color: #ffeb3b;
+  color: rgba(0, 0, 0, 0.87);
+  padding: 0.2em;
 }
 
 ol {

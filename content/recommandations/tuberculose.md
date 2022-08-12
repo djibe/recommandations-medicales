@@ -27,7 +27,7 @@ todo = "A LIRE, lecture tubertest, KEY: maladie, lutte contre la tuberculose, in
 {{%collapse "Vaccination BCG" %}}
 
 Le vaccin BCG (BCG AJVaccines®) est disponible uniquement en centre de vaccination, PMI ou CLAT.  
-Il est réalisé à partir de 1 mois, idéalement à **2 mois**.
+Il est réalisé à partir de 1 mois, idéalement à **2 mois** et réalisé jusqu'à 15 ans.
 
 ### Indications au BCG en 2022
 

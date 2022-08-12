@@ -6,7 +6,7 @@ description = "Quel ordinateur pour le médecin généraliste ? Conseils pour un
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T19:15:00+02:00"
 publishdate = "2022-05-15"
-lastmod = "2022-07-06"
+lastmod = "2022-08-12"
 specialites = []
 sources = []
 tags = []
@@ -24,11 +24,17 @@ Ensemble de périphériques pour l'utilisation bureautique quotidienne au cabine
 
 Imprimantes choisies par 01Net.
 
-### Imprimante laser avec toners compatibles
+### Imprimantes laser avec toners compatibles
 
-Imprimante (non multifonction) permettant d'utiliser des toners compatibles moins chers (17€ contre 80€ chez CartoucheMania, Tinkco, Toner.fr ...)
+Imprimantes laser monochromes Wi-Fi (non multifonction) permettant d'utiliser des toners compatibles moins chers (17€ contre 80€ chez CartoucheMania, Tinkco, Toner.fr ...), triées par note *UFC Que Choisir* et mon coup de cœur en premier:
 
-[Choix: Brother HL-L2350DW (petite, rapide, R/V, pas de Wi-Fi) - 140€](https://ledenicheur.fr/product.php?p=4549237)
+- [Choix: Brother HL-L2350DW (vitesse, petite taille, R/V, coûts d'utilisation) - 140€](https://ledenicheur.fr/product.php?p=4549237)
+- [Brother HL-L2375DW](https://ledenicheur.fr/product.php?p=4533630)
+- [HP Laser 107W](https://ledenicheur.fr/product.php?p=5184291)
+- Canon i-Sensys LBP113w (pas de toners compatibles)
+- HP Laserjet Pro M404dw
+- Canon i-Sensys LBP223dw
+{.list-group}
 
 ### Imprimante laser couleur multifonctions avec toners compatibles
 
@@ -41,7 +47,6 @@ Imprimante (non multifonction) permettant d'utiliser des toners compatibles moin
 - HP Neverstop
 - HP M404dn
 - Brother hl-l5000d
-- Brother hl-l2375dw
 - Xerox b210
 - Hp laserjet m209dwe
 
@@ -53,16 +58,16 @@ Tout en 1
 {{% /collapse %}}
 {{%collapse "Écrans" %}}
 
-Écrans 27 pouces FullHD avec un beau rendu de couleurs, pied réglable, des hauts-parleurs intégrés pour les téléconsultations et une dalle matte pour éviter de travailler sur un miroir.
+Écrans 27 pouces (résolution minimale Full HD) avec un beau rendu de couleurs, de larges angles de vue, un pied réglable, des hauts-parleurs intégrés pour les téléconsultations et une dalle mate pour éviter de travailler sur un miroir.
 
-Je vous laisse choisir le style :D
+À vous de choisir le style.
 
 - [ViewSonic XG2705-2K - 250€](https://ledenicheur.fr/product.php?p=5699238)
-- [AOC 27G2U - 240€](https://ledenicheur.fr/product.php?p=5192457)
-- [Asus TUF VG279Q - 260€](https://www.materiel.net/produit/201901140085.html)
-- [Iiyama G-Master GB2730HSU-B1 - 220€](https://ledenicheur.fr/product.php?p=4807294)
+- [Iiyama G-Master GB2730HSU-B1 - 200€](https://ledenicheur.fr/product.php?p=4807294)
 - [Iiyama G-Master GB2766HSU-B1 - 250€](https://ledenicheur.fr/product.php?p=5823764)
 {.list-group}
+
+Autres: [Acer Nitro XV272UP](https://ledenicheur.fr/product.php?p=5008145), [Philips E-Line 275E2FAE](https://ledenicheur.fr/product.php?p=5577074), [ASUS VA27AQSB](https://ledenicheur.fr/product.php?p=5594415), [ASUS PB278QV](https://ledenicheur.fr/product.php?p=5232617), [AOC I2790PQU](https://ledenicheur.fr/product.php?p=4390158), [Lenovo Q27h-10 (stylé, non réglable)](https://ledenicheur.fr/product.php?p=5362929)
 
 {{% /collapse %}}
 {{%collapse "Claviers et souris" %}}
@@ -70,7 +75,7 @@ Je vous laisse choisir le style :D
 Ensembles sans fil pour ne pas avoir un fil à la patte.  
 Le clavier numérique dédié est indispensable pour entrer facilement les valeurs de tensions ou autres valeurs dans le dossier patient.
 
-Classement composite d'après LesNumerique, 01Net ou autre. Par ordre de qualité.
+Classement composite d'après *LesNumerique*, *01Net* ou autre. Par ordre de qualité.
 
 ### Claviers sans fil
 
