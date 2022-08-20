@@ -5,9 +5,9 @@
   "lang": "fr",
   "icons": [
     {
-        "src": "/android-chrome-192x192.png",
-        "sizes": "192x192",
-        "type": "image/png"
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
     },
     {
       "src": "/android-chrome-192x192.png",
@@ -16,14 +16,15 @@
       "purpose": "maskable"
     },
     {
-        "src": "/android-chrome-512x512.png",
-        "sizes": "512x512",
-        "type": "image/png"
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
-  "start_url": "/",
+  "start_url": "/?utm_source=pwa",
+  "scope": "/",
   "orientation": "portrait",
   "display": "minimal-ui",
   "theme_color": "#4150f5",
-  "background_color": "#4150f5"
+  "background_color": "#ffffff"
 }

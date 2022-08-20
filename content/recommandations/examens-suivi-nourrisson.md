@@ -78,3 +78,43 @@ Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de s
 5. Vaccinations
 
 {{% /collapse %}}
+{{%collapse "Développement psychomoteur physiologique" %}}
+
+Les signes d'alerte pour un retard du développement psychomoteur sont en **gras**.
+
+1 mois
+: Vision: poursuite horizontale
+
+2 mois
+: - Sourire-réponse
+- Serre le doigt
+- Gazouillis-voyelles
+- Soulève tête et épaules (sur le ventre)
+- Émet une réponse vocale à une sollicitation
+- Bouge vigoureusement les quatre membres de manière symétrique
+
+3 mois
+: - Vision : poursuite horizontale + verticale
+- Apparition du clignement à la menace
+- Durée moyenne de sommeil de 15h dont 9h nocturnes
+- Tient la tête
+
+4 mois
+: - Tend la main vers l'objet
+-	Empaumement cubital vers l'objet
+- Rires aux éclats
+- S'appuie sur les avant bras (sur le ventre)
+- Joue avec ses mains
+- Absence de poursuite oculaire = cs ophtalmo
+
+5 mois
+: -	Station assise avec les mains vers l'avant (6mois)
+-	Empaumement médian (6mois) <mark> L'absence de préhension volontaire à 6 mois est un signe d'alerte </mark>
+- Orientation parfaite au bruit (6 mois)
+- Babillage (6 mois)
+- Peut boire a une tasse
+- Mange à la cuillère
+- Mange un biscuit seul (6 mois)
+- 3-4 siestes journalières
+
+{{% /collapse %}}
