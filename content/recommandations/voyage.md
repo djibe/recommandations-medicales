@@ -24,7 +24,7 @@ todo = "liste mallette, dépistage BMR si hospit"
 - Prévoir une consultation dédiée plusieurs mois avant le voyage
 - Voyager avec le double des ordonnances écrites en DCI
 - Demander une [carte européenne d'assurance maladie](https://www.ameli.fr/assure/adresses-et-contacts/lobtention-dun-document/commander-une-carte-europeenne-dassurance-maladie-ceam) (CEAM sur Ameli)
-- Déclarer son déplacement sur le [Fil d'Ariane](https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html)
+- Déclarer son déplacement au Ministère des Affaires étrangères sur le [Fil d'Ariane](https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html)
 - Covid-19: quarantaine en retour de voyage
 
 {{%/article-summary%}}
@@ -137,6 +137,6 @@ Numéro vert: 0800 130 000
 
 ### À lire
 
-[Haut Conseil de la Santé Publique. Recommandations sanitaires 2022 pour les voyageurs. 14/04/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1215) (et *[SPF BEH HS](https://www.santepubliquefrance.fr/determinants-de-sante/voyage/documents/magazines-revues/bulletin-epidemiologique-hebdomadaire-2-juin-2022-n-hors-serie-recommandations-sanitaires-pour-les-voyageurs-2022-a-l-attention-des-professionn)*)
+{{< references/voyageur >}}
 
 {{%/sources%}}

@@ -58,7 +58,8 @@ Tout en 1
 {{% /collapse %}}
 {{%collapse "Écrans" %}}
 
-Écrans 27 pouces (résolution minimale Full HD) avec un beau rendu de couleurs, de larges angles de vue, un pied réglable, des hauts-parleurs intégrés pour les téléconsultations et une dalle mate pour éviter de travailler sur un miroir.
+Écrans 27 pouces (résolution minimale Full HD) avec un beau rendu de couleurs et de larges angles de vue (technologie IPS), un pied réglable, des hauts-parleurs intégrés pour les téléconsultations et une dalle mate pour éviter de travailler sur un miroir.  
+Si le son ne vous convient pas, vous pourrez investir dans des écouteurs, casque ou hauts-parleurs plus tard.
 
 À vous de choisir le style.
 
@@ -75,7 +76,7 @@ Autres: [Acer Nitro XV272UP](https://ledenicheur.fr/product.php?p=5008145), [Phi
 Ensembles sans fil pour ne pas avoir un fil à la patte.  
 Le clavier numérique dédié est indispensable pour entrer facilement les valeurs de tensions ou autres valeurs dans le dossier patient.
 
-Classement composite d'après *LesNumerique*, *01Net* ou autre. Par ordre de qualité.
+Classement composite d'après *LesNumerique*, *01Net* ou autre, par ordre de qualité.
 
 ### Claviers sans fil
 

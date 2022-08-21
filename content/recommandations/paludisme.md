@@ -1,37 +1,53 @@
 +++
 title = "Paludisme"
 prefix = "le "
-description = "Recommandations pour la prévention du paludisme et la prise en charge d'une suspicion de paludisme. Antipaludéens: atovaquone Malarone, doxycycline, méfloquine"
+description = "Recommandations pour la prévention du paludisme et la prise en charge d'une suspicion d'accès palustre. Prophylaxie anti-moustiques et atovaquone Malarone ..."
 synonyms = ["Malaria"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T12:42:00+02:00"
 publishdate = "2021-02-17"
-lastmod = "2022-01-24"
+lastmod = "2022-08-21"
 specialites = ["infectiologie"]
-annees = "2021"
-sources = ["MinSanté", "Pasteur"]
+annees = "2022"
+sources = ["MinSanté", "HCSP", "Pasteur"]
 tags = ["fievre", "vaccin", "voyage"]
 anglais = ["Malaria"]
 sctid = "61462000"
 slider = true
 image = true
 imageSrc = "Moustique du paludisme. Culicidae, Anopheles sp. Photo de Techuser sur Foter.com / CC BY-NC-ND"
-todo = "ttt ambulatoire accès palustre, piqures, http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/028.pdf, http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5222.pdf"
+todo = "ttt ambulatoire accès palustre, http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/028.pdf, http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5222.pdf"
 +++
 
 {{%article-summary%}}
 
 *Le traitement de l'accès palustre n'est pas encore abordé*
 
-- Toute fièvre dans les 3 mois suivant le retour de voyage est un paludisme jusqu'à preuve du contraire.
-- Toute suspicion de paludisme est une urgence diagnostique et thérapeutique.
-- Maladie à déclaration obligatoire
-- Voyage tropical: protection contre les moustiques et chimioprophylaxie.
+- Toute fièvre dans les 3 mois suivant le retour de voyage est un paludisme jusqu'à preuve du contraire
+- Toute suspicion de paludisme est une urgence diagnostique et thérapeutique
+- [Maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
+- Les séjours en zones d'endémie palustre sont déconseillés en cours de grossesse (*CRAT*)
+- Voyage tropical: protection contre les moustiques et chimioprophylaxie
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-### Épidémiologie du paludisme
+Malaria
+: littéralement << mauvais air >>
+
+### Abréviations
+
+CPAP
+: chimioprophylaxie antipaludique
+
+P.
+: *Plasmodium*
+
+PPAV
+: protection personnelle anti-vectorielle (PPAV = protection contre les piqûres de moustiques)
+{.dl-inline}
+
+### Épidémiologie du paludisme en France
 
 - Incidence: 4000 cas/an (importés)  
   95% contractés en Afrique subsaharienne et 90% par *Plasmodium falciparum*
@@ -42,9 +58,9 @@ L'Afrique subsaharienne comptabilise 90% des cas mondiaux.
 {{% /collapse %}}
 {{%collapse "Signes de gravité du paludisme" %}}
 
-Accès palustres graves: seuls *Plasmodium falciparum* (+ 90% des diagnostics en France) et *P. knowlesi*
+Accès palustres graves: seuls *Plasmodium falciparum* (> 90% des diagnostics en France) et *Plasmodium knowlesi*
 
-Appel du 15 en cas de signes gravité:
+Appel du 15 en cas de signes gravité devant une suspicion d'accès palustre:
 
 - Troubles neurologiques: obnubilation, confusion, somnolence, prostration, convulsion
 - Défaillance viscérale
@@ -58,7 +74,7 @@ Appel du 15 en cas de signes gravité:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Incubation:
+Délai d'incubation du paludisme:
 
 - Minimum 7 jours pour *P. falciparum*, 10 à 15 jours pour les autres
 - Maximum 2 mois pour *P. falciparum*, 3 ans *P. vivax* et *ovale*, plus de 10 ans pour *P. malariae*.
@@ -73,9 +89,11 @@ Signes d'**anémie hémolytique fébrile**:
   Nausées, vomissements, diarrhées.
 - Ictère
 - Splénomégalie après un certain temps
-
+  
 {{% /collapse %}}
 {{%collapse "Indications à la prophylaxie palustre selon le pays de destination" %}}
+
+{{%warning%}}Grossesse: séjour en zone d'endémie déconseillé (*CRAT*){{%/warning%}}
 
 Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité d'un traitement préventif contre le paludisme.
 
@@ -84,6 +102,16 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 {{< card-link title="Vaccins et conseils par pays" url="https://www.diplomatie.gouv.fr/fr/dossiers-pays/" subtitle="France Diplomatie" image="ministere" >}}
 
 {{< card-link title="Vaccins recommandés et conseils médicaux par destination" url="https://www.pasteur-lille.fr/vaccinations-voyages/" subtitle="Pasteur Lille" image="pasteur" >}}
+
+{{%info%}}Les séjours en zones d'endémie palustre sont déconseillés en cours de grossesse (*CRAT*){{%/info%}}
+
+### Indication à la chimioprophylaxie antipaludique selon le type de voyage
+
+- Séjour << conventionnel >>  
+  Courte durée (inférieure à un mois), majoritairement en zone urbaine ou sur des sites touristiques classiques avec quelques nuitées en zone rurale mais dans des conditions d'hébergement satisfaisantes (hôtels, maisons).
+- Séjour << non conventionnel >>  
+  Routards, militaires, séjour improvisé, mission humanitaire ou une exploration scientifique.  
+  1 ou + parmi: durée supérieure à un mois, nombre élevé de nuitées en zone rurale, hébergements précaires (tente, habitations non protégées), périple pendant la saison des pluies ou dans une région de forte transmission palustre.
 
 {{% /collapse %}}
 {{%collapse "Molécules en prévention du paludisme" %}}
@@ -109,7 +137,7 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
   <p id="text-doxycycline" class="user-select-all">1 cp à 100 mg pendant le dîner <span class="text-muted">(si 8+ ans)</span></p>
   <hr>
   <p class="card-text mb-1">Chloroquine</p>
-  <p id="text-nivaquine">1 cp par jour (100 mg)</p>
+  <p>N'est plus recommandée depuis 2022</p>
 </div>
 <script>
 window.onload = () => {
@@ -118,7 +146,6 @@ window.onload = () => {
     const Input = $('#weightInput');
     const min = 5;
     const max = 60;
-    const Nivaquine = $('#text-nivaquine');
     const Atovaquone = $('#text-atovaquone');
     const Mefloquine = $('#text-mefloquine');
     const Doxycycline = $('#text-doxycycline');
@@ -145,56 +172,48 @@ window.onload = () => {
     });
     Slider.on('change', function() {
       let weight = Slider.val();
-      let chloroArret = 'Sirop retiré le 01/07/2022';
-      // Nivaquine
-      if ( weight <= 10 ) {
-        str = chloroArret;
-      } else if ( weight >= 10 && weight < 23 ) {
-        str = chloroArret;
-      } else if ( weight >= 23 && weight < 37 ) {
-        str = chloroArret;
-      } else if ( weight >= 37 && weight < 52 ) {
-        str = chloroArret;
-      } else if ( weight >= 52 ) {
-        str = '1 cp par jour (100 mg)';
-      }
-      Nivaquine.html(str);
       // Atovaquone
       atoHtml = '<br><br>À débuter la veille ou le jour du départ et poursuivre 7 jours après le retour.<br>La prise en continu est limitée à 3 mois consécutifs.';
-      if ( weight < 11) {
+      if ( weight < 5 ) {
         str2 = 'Pas de traitement adapté';
+      } else if( weight >= 5 && weight < 8 ) {
+        str2 = 'Préparation magistrale équivalente à 1/2 cpP par jour pendant le repas à heure fixe';
+      } else if ( weight >= 8 && weight < 11 ) {
+        str2 = 'Préparation magistrale équivalente à 3/4 cpP par jour pendant le repas à heure fixe';
       } else if ( weight >= 11 && weight <= 20 ) {
         str2 = `1 cp (62,5/25 mg) par jour pendant le repas à heure fixe`;
       } else if ( weight >= 21 && weight <= 30 ) {
         str2 = `2 cp (62,5/25 mg) par jour en 1 prise pendant le repas à heure fixe`;
-      } else if ( weight >= 31 && weight <= 39 ) {
+      } else if ( weight >= 31 && weight <= 40 ) {
         str2 = `3 cp (62,5/25 mg) par jour en 1 prise pendant le repas à heure fixe`;
-      } else if ( weight >= 40 ) {
+      } else if ( weight > 40 ) {
         str2 = `1 cp (250/100 mg) par jour pendant le repas à heure fixe`;
       }
       Atovaquone.html(`${str2} ${atoHtml}`);
       // Méfloquine
       mefloHtml = '<br><br>À débuter au moins 10 jours avant le départ et poursuivre 3 semaines après le retour.<br>Au mieux 3 semaines avant pour évaluer correctement la tolérance.';
-      if ( weight < 15) {
+      if ( weight < 5) {
         str3 = 'Pas de traitement adapté';
+      } else if ( weight >= 5 && weight <= 14 ) {
+        str3 = `Préparation magistrale équivalente à 1/8 cp 1 fois par semaine`;
       } else if ( weight >= 15 && weight <= 19 ) {
         str3 = `1/4 cp à 250 mg 1 fois par semaine`;
       } else if ( weight >= 20 && weight <= 30 ) {
         str3 = `1/2 cp à 250 mg 1 fois par semaine`;
       } else if ( weight >= 31 && weight <= 45 ) {
         str3 = `3/4 cp à 250 mg 1 fois par semaine`;
-      } else if ( weight >= 45 ) {
+      } else if ( weight >= 46 ) {
         str3 = `1 cp à 250 mg 1 fois par semaine`;
       }
       Mefloquine.html(`${str3} ${mefloHtml}`);
       // Doxycycline
-      doxyHtml = `pendant le dîner <span class="text-muted">(si +8 ans)</span><br><br>À débuter le jour de l'arrivée et poursuivre 4 semaines après le retour.<br>Débuter au mieux 3 semaines avant pour évaluer correctement la tolérance.<br>Prendre pendant le dîner, au moins 1h avant le coucher.`;
+      doxyHtml = `pendant le dîner <span class="text-muted">(si +8 ans)</span><br><br>À débuter la veille du départ et poursuivre 4 semaines après le retour.<br>Débuter au mieux 3 semaines avant pour évaluer correctement la tolérance.<br>Prendre pendant le dîner, au moins 1h avant le coucher.`;
       if ( weight < 20) {
         str4 = 'Contre-indiquée avant 8 ans';
       } else if ( weight >= 20 && weight < 40 ) {
-        str4 = '1 cp à 50 mg';
+        str4 = '1 cp à 50 mg (si âge &ge; 8 ans)';
       } else if ( weight >= 40 ) {
-        str4 = '1 cp à 100 mg';
+        str4 = '1 cp à 100 mg (si âge &ge; 8 ans)';
       }
       Doxycycline.html(`${str4} ${doxyHtml}`);
     });
@@ -206,34 +225,27 @@ window.onload = () => {
 
 ### Chloroquine
 
-Spécialité: [Nivaquine®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65130778&typedoc=R) (cp, sirop retiré le 01/07/2022) uniquement.
-
-- Patient ≥ 60 kg  
-  Chloroquine 100 mg 1 cp par jour
-- Adulte et enfant < 60 kg  
-  Sirop retiré
-- Enfant < 10 kg  
-  Sirop retiré
-
-{{%info%}}
-À débuter le jour du départ et poursuivre 4 semaines après le retour.
-
-**Contraception efficace** pour hommes et femmes jusqu'à **8 mois** après l'arrêt du traitement (soit 9 mois après le retour).  
-Contre-indiqué si grossesse ou allaitement.
-{{%/info%}}
+La chimioprophylaxie anti-palustre par chloroquine a été définitivement retirée en 2022.
 
 ### Atovaquone-proguanil
 
-Spécialités: [atovaquone/proguanil gén 250/100 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66395950&typedoc=R) et [atovaquone/proguanil gén 62,5/25 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68303281&typedoc=R), cp uniquement.
+Spécialités: [atovaquone/proguanil 250/100 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66395950&typedoc=R) et [cpP atovaquone/proguanil 62,5/25 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68303281&typedoc=R), comprimés uniquement.  
+Prise quotidienne pendant le repas à heure fixe.
 
-- Personne ≥ 40 kg  
-1 cp (250/100 mg) par jour pendant le repas à heure fixe
-- Enfant de 31 à 39 kg  
-3 cp (62,5/25 mg) par jour en 1 prise pendant le repas à heure fixe
+- Personne > 40 kg  
+  1 cp (250/100 mg) par jour
+- Enfant de 31 à 40 kg  
+  3 cpP (62,5/25 mg) par jour en 1 prise
 - Enfant de 21 à 30 kg  
-2 cp (62,5/25 mg) par jour en 1 prise pendant le repas à heure fixe
+  2 cpP (62,5/25 mg) par jour en 1 prise
 - Enfant de 11 à 20 kg  
-1 cp (62,5/25 mg) par jour pendant le repas à heure fixe
+  1 cpP (62,5/25 mg) par jour
+- Enfant de 8 à 11 kg (hors AMM)  
+  Préparation magistrale équivalente à 3/4 cpP par jour
+- Enfant de 5 à 7 kg (hors AMM)
+  Préparation magistrale équivalente à 1/2 cpP par jour
+
+> cpP = comprimé pédiatrique (62,5/25 mg), doses selon *HCSP/SPF voyage*
 
 {{%info%}}
 À débuter la veille ou le jour du départ et poursuivre 7 jours après le retour.
@@ -241,41 +253,20 @@ Spécialités: [atovaquone/proguanil gén 250/100 mg](https://base-donnees-publi
 La prise en continu est limitée à 3 mois consécutifs.
 {{%/info%}}
 
-### Méfloquine
-
-Spécialité: [Lariam®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65999556&typedoc=R) (cp sécable) uniquement.
-
-- Personne ≥ 45 kg  
-1 cp à 250 mg 1 fois par semaine
-- Enfant de 31 à 45 kg
-3/4 cp à 250 mg 1 fois par semaine
-- Enfant de 20 à 30 kg
-1/2 cp à 250 mg 1 fois par semaine
-- Enfant de 15 à 19 kg
-1/4 cp à 250 mg 1 fois par semaine
-
-Peut être utilisée pendant la grossesse.
-
-**Effets indésirables:** anxiété, tristesse, dépression, agitation, confusion, tendance suicidaire, céphalées, vertiges, troubles du sommeil.  
-Arrêt immédiat en cas de survenue.
-
-{{%info%}}
-À débuter au moins 10 jours avant le départ et poursuivre 3 semaines après le retour.  
-Au mieux 3 semaines avant pour évaluer correctement la tolérance.  
-{{%/info%}}
+**Effets indésirables de l'atovaquone-proguanil**: augmentation de l'INR sous AVK  
+**Contre-indication:** insuffisance rénale sévère
 
 ### Doxycycline (monohydrate ou hyclate)
 
-Spécialités uniquement si **âge ≥ 8 ans**
+Possible uniquement si **âge ≥ 8 ans**: [doxycycline monohydratée](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63307856&typedoc=R) cp 50/100 mg ou [doxycycline hyclate](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67061569&typedoc=R) cp 50/100 mg.
 
-- [Doxycycline monohydratée](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63307856&typedoc=R) cp 50/100 mg ou [Doxycycline hyclate](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67061569&typedoc=R) cp 50/100 mg
-  - Poids ≥ 40 kg  
+- Poids ≥ 40 kg  
   1 cp à 100 mg pendant le dîner
-  - Poids < 40 kg  
+- Poids < 40 kg  
   1 cp à 50 mg pendant le dîner
 
 {{%info%}}
-À débuter le jour de l'arrivée et poursuivre 4 semaines après le retour.  
+À débuter la veille du départ et poursuivre 4 semaines après le retour.  
 Débuter au mieux 3 semaines avant pour évaluer correctement la tolérance.
 
 Prendre pendant le dîner, au moins 1h avant le coucher.
@@ -283,9 +274,39 @@ Prendre pendant le dîner, au moins 1h avant le coucher.
 Contre-indiqué avant 8 ans et pendant la grossesse.
 {{%/info%}}
 
+**Contre-indications:** grossesse, allaitement, âge < 8 ans  
+**Effets indésirables:** photosensibilisation, déséquilibre d'un traitement par AVK
+
+### Méfloquine
+
+Spécialité: [Lariam®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65999556&typedoc=R) (cp sécable) uniquement.
+
+- Personne ≥ 46 kg  
+  1 cp à 250 mg 1 fois par semaine
+- Enfant de 31 à 45 kg
+  3/4 cp à 250 mg 1 fois par semaine
+- Enfant de 20 à 30 kg
+  1/2 cp à 250 mg 1 fois par semaine
+- Enfant de 15 à 19 kg
+  1/4 cp à 250 mg 1 fois par semaine
+- Enfant de 5 à 14 kg (hors AMM)  
+  Préparation magistrale équivalente à 1/8 cp 1 fois par semaine
+
+Peut être utilisée pendant la grossesse.
+
+**Effets indésirables:** anxiété, tristesse, dépression, agitation, confusion, tendance suicidaire, céphalées, vertiges, troubles du sommeil.  
+Arrêt immédiat en cas de survenue.  
+**Contre-indications:** antécédent de convulsions, de troubles neuro-psychiques, insuffisance hépatique sévère, traitement par acide valproïque
+
+{{%info%}}
+À débuter la première fois au moins 10 jours avant le départ et poursuivre 3 semaines après le retour. Au mieux 3 semaines avant pour évaluer correctement la tolérance.  
+Ensuite débuter 3 jours avant l'entrée dans la zone à risque.
+{{%/info%}}
+
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/voyageur >}}
 - [Institut Pasteur. Recommandations générales - Prévention du paludisme.](https://www.pasteur.fr/fr/centre-medical/vaccination/recommandations-generales#prvention-du-paludisme)
 - [CMIT. Paludisme. UE6 Item 166. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-166-nb.pdf)
 

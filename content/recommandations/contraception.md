@@ -389,7 +389,7 @@ Risque de grossesse < 2% à 6 mois si:
 {{% /collapse %}}
 {{%collapse "Gestion des effets indésirables de la contraception" %}}
 
-[Métrorragies]({{< relref "contraception.md#métrorragies" >}}) - [Acné]({{< relref "contraception.md#acné" >}}) - [Libido]({{< relref "contraception.md#libido" >}}) - [Prise de poids]({{< relref "contraception.md#prise-de-poids" >}}) - [Céphalées]({{< relref "contraception.md#céphalées" >}}) - [Troubles de l'humeur]({{< relref "contraception.md#troubles-de-lhumeur" >}})
+[Métrorragies](#métrorragies) - [Acné](#acné) - [Libido](#libido) - [Prise de poids](#prise-de-poids) - [Céphalées](céphalées) - [Troubles de l'humeur](#troubles-de-lhumeur)
 
 ### Métrorragies
 

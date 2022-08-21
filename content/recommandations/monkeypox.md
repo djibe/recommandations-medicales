@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
 publishdate = "2022-07-20"
-lastmod = "2022-08-20"
+lastmod = "2022-08-21"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "HCSP", "MinSanté"]
@@ -22,8 +22,10 @@ todo = "Prescrire, https://www.sexosafe.fr/Variole-du-singe"
 {{%article-summary%}}
 
 - Poliovirus = [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}) à l'ARS
-- Si besoin, avis d'un {{< references/cegidd >}} ou appel du 15 pour avis infectiologique
-- [Où se faire vacciner contre Monkeypox ?](https://www.sante.fr/monkeypox) ou [vaccination MKPX en Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients)
+- Suspicion de Monkeypox:
+  - Suspicion: appel du 15 pour avis infectiologique urgent ou avis d'un {{< references/cegidd >}}
+  - Certitude: isolement strict et déclaration obligatoire
+- Vaccination des personnes à risque: [où se faire vacciner contre Monkeypox ?](https://www.sante.fr/monkeypox) ou [vaccination MKPX en Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients) sur auto-déclaration du statut de personne cible (voir *Prévention*)
 - [Flyer d'info Variole du singe](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-transmissibles-de-l-animal-a-l-homme/monkeypox/documents/depliant-flyer/variole-du-singe-monkeypox-flyer-a5) (*SPF*)
 - Monkeypox Info Service Grand public: {{<phone>}}0 801 90 80 69{{</phone>}} (8-23h)
 
@@ -158,9 +160,9 @@ Isolement immédiat dans l'attente des résultats.
 {{% /collapse %}}
 {{%collapse "Prévention du Monkeypox" %}}
 
-### Personnes à vacciner contre Monkeypox
+### Qui vacciner contre Monkeypox ?
 
-Toutes les personnes avec risque élevé d'exposition au virus:
+Toutes les personnes avec risque élevé d'exposition au virus de la variole du singe sont éligibles à la vaccination préventive:
 
 - [Hommes ayant des relations sexuelles avec des hommes (HSH)]({{< relref "hsh.md" >}})
 - Personnes trans multi-partenaires
@@ -169,10 +171,16 @@ Toutes les personnes avec risque élevé d'exposition au virus:
 
 > *HAS 08/07/2022*
 
-Le schéma de vaccination est identique à la vaccination Monkeypox post-exposition (voir *Traitement*).  
+### Comment vacciner contre Monkeypox ?
+
+Accès libre à la vaccination sur auto-déclaration de statut de personne cible (*sante.fr*).
+
+**Une seule dose** de vaccin Monkeypox en prévention (*DGS Urgent 2022-70*) sauf immunodépression (2 à 3 doses chez PVVIH) ou travailleur du sexe.  
+La 2<sup>e</sup> dose sera réalisée quand une large population aura été primo-vaccinée.
+
 [Liste des Centres de vaccination contre Monkeypox](https://www.sante.fr/monkeypox) ou [spécifiques de l'Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients).
 
-{{% /collapse %}}
+{{%/collapse%}}
 {{%collapse "Traitement du Monkeypox" %}}
 
 {{%warning%}}Poliovirus = [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}){{%/warning%}}
@@ -204,10 +212,10 @@ Antiviral disponible en gélules indiqué chez les personnes à **risque de form
 {{%sources%}}
 
 - [Santé Publique France. Cas de variole du singe : point de situation au 18 août 2022. 19/08/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-18-aout-2022)
+- [DGS-Urgent 2022_70, 65, 61, 58](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [Vaccination Info Service. Variole du singe (Monkeypox). 22/07/2022.](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Variole-du-singe-Monkeypox)
 - [Infovac. Epidémie de variole dite « du singe » ou monkey pox : place des enfants et préconisations actuelles du GPIP et de la SFP. 20/07/2022.](https://www.infovac.fr/actualites/epidemie-de-variole-dite-du-singe-ou-monkey-pox-place-des-enfants-et-preconisations-actuelles-du-gpip-et-de-la-sfp)
 - [Ameli. Virus Monkeypox : les recommandations sur la prise en charge. 19/07/2022.](https://www.ameli.fr/medecin/actualites/virus-monkeypox-les-recommandations-sur-la-prise-en-charge)
-- [DGS-Urgent 2022_65, 61, 58](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [ARS Ile-de-France. Variole du singe : conseils et prise en charge en Ile-de-France. 18/07/2022.](https://www.iledefrance.ars.sante.fr/variole-du-singe-conseils-et-prise-en-charge-en-ile-de-france)
 - [HCSP. Mesures de prévention vis-à-vis de l'infection à Monkeypox virus. 08/07/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1230)
 - [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)
