@@ -12,13 +12,13 @@ sources = []
 tags = []
 image = true
 imageSrc = "Illustration par macrovector / Freepik"
-todo= "https://www.clubic.com/materiel-informatique/imprimante/article-851535-1-meilleure-imprimante-laser-comparatif.html#"
+todo= "DELL S2721DS, https://www.clubic.com/materiel-informatique/imprimante/article-851535-1-meilleure-imprimante-laser-comparatif.html#"
 +++
 
 Ensemble de périphériques pour l'utilisation bureautique quotidienne au cabinet médical.
 {.lead}
 
-{{< card-link title="Article lié" subtitle="L'ordinateur recommandé pour le médecin généraliste" url="/cabinet/ordinateur-medecin/">}}
+{{< card-link title="L'ordinateur recommandé pour le cabinet" subtitle="Configuration durable pour le médecin généraliste" url="/cabinet/ordinateur-medecin/">}}
 
 {{%collapse "Imprimantes laser" %}}
 

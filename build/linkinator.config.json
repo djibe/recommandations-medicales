@@ -4,7 +4,8 @@
   "skip": [
     "recomedicales.fr",
     "doi.org",
-    "github.com"
+    "github.com",
+    "images/"
   ],
   "verbosity": "error",
   "markdown": false,

@@ -79,35 +79,6 @@ Se référer à la page dédiée à chaque maladie pour en savoir plus (ex. [fi�
 {{< card-link title="Vaccins recommandés et conseils médicaux par destination" url="https://www.pasteur-lille.fr/vaccinations-voyages/" subtitle="Pasteur Lille" image="pasteur" >}}
 
 {{% /collapse %}}
-{{%collapse "Covid - Conduite à tenir en retour de voyage" %}}
-
-### Retour hors Espace Économique Européen
-
-Pour les personnes de 11 ans et plus:
-
-- Possible uniquement pour motif impérieux via l'Attestation de déplacement et de voyage
-- Test RT-PCR Covid-19 datant de moins de 72h avant le vol  
-Pays sans tests: dispense auprès du consulat local et test au retour avec isolement 7 jours dans [hôtel homologué (PDF)](https://www.diplomatie.gouv.fr/IMG/pdf/liste_des_hotels_cle48796e-1.pdf).  
-Les frais sont à la charge du voyageur.
-- Déclaration sur l'honneur de l'absence de signes de Covid-19 ou de contact avec personne infectée dans les 14 jours qui précèdent le voyage ...
-- Isolement pendant 7 jours au retour en France  
-Engagement pris lors de la déclaration sur l'honneur.
-- Test RT-PCR Covid-19 7 jours après avec isolement jusqu'au résultat.
-
-[Documents officiels sur le Ministère de l'Intérieur.](https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Attestation-de-deplacement-et-de-voyage)
-
-### Retour depuis l'Espace Économique Européen
-
-- Test RT-PCR Covid-19 datant de moins de 72h avant le voyage  
-Détail des exceptions en ligne.
-- Il est fortement recommandé de s'isoler 7 jours
-- Il est fortement recommandé de réaliser une RT-PCR Covid-19 après 7 jours
-- Utiliser TousAntiCovid
-
-> [Ministère des Affaires Étrangères 31/01/2021](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/informations-pratiques/article/coronavirus-covid-19-31-janvier-2021)  
-Numéro vert: 0800 130 000
-
-{{% /collapse %}}
 {{%collapse "Contre-indications aux voyages aériens" %}}
 
 - Nouveau-né de moins de 48 heures

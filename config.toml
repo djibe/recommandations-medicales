@@ -48,10 +48,11 @@ title = "Recommandations Médicales"
 
 # Dependencies
 [params.cdn]
-  material_js = "https://cdn.jsdelivr.net/npm/djibe-material@4.6.0-rc.2/js/material.min.js"
+  material_js = "https://cdn.jsdelivr.net/npm/djibe-material@4.6.2-1.0/js/material.min.js"
+  material_js_hash = "sha256-B6009p2rnV9Tx+3+m0kEff8HiL9uJ2wE11zD7zgZ82g="
   css =         "css/style.css"
-  bs_js =       "https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"
-  bs_js_hash =  "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
+  bs_js =       "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+  bs_js_hash =  "sha256-GRJrh0oydT1CwS36bBeJK/2TggpaUQC6GzTaTQdZm0k="
   jquery =      "https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"
   jquery_hash = "sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI="
 

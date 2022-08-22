@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2022-04-27"
+lastmod = "2022-08-21"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "MinSanté"]
@@ -25,12 +25,12 @@ ainsi que toutes les personnes fragiles pour la Covid-19
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-### Complications de la grippe
+### Complications de la grippe saisonnière
 
-- Sinusite
+- [Sinusite]({{< relref "sinusite.md" >}})
 - Otite moyenne aiguë
 - Bronchite aiguë
-- Pneumopathie (virale, pneumocoque ou haemophilus)
+- Pneumopathie (virale, pneumocoque ou *Haemophilus*)
 
 ### Épidémiologie de la grippe en France
 
@@ -41,28 +41,13 @@ ainsi que toutes les personnes fragiles pour la Covid-19
 {{%/collapse%}}
 {{%collapse "Personnes à risque de grippe grave" %}}
 
-### Personnes prioritaires pour la vaccination en 2021
-
-Personnes exclusives jusqu'au 22 novembre 2021:
-
-- Professionnels de santé
-- +65 ans
-- Femmes enceintes
-- Pathologie chronique  
-  Insuffisance respiratoire, insuffisance cardiaque, diabète, insuffisance rénale, asthme, bronchopneumopathie obstructive, mucoviscidose, …
-- Obésité morbide (IMC ≥ 40 kg/m<sup>2</sup>)
-- Entourage des nourrissons de moins de 6 mois à risque de grippe grave  
-  Prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d'une affection de longue durée ainsi - Immunodéprimé et son entourage
-
-> *[Ameli Médecin 22/10/2021 (PDF)](https://www.ameli.fr/sites/default/files/Documents/707929/document/grippe-memos-medecins2021.pdf)*
-
-**Pour les autres personnes, différer la vaccination à début décembre.**
-
 {{%info%}}
-Vaccination annuelle en octobre pour ces personnes.
+Vaccination annuelle en octobre pour les personnes à risque de grippe grave.
 
-Bon de prise en charge n°850 sur Ameli pro.
+Bon de prise en charge à 100% n°850 sur Ameli pro.
 {{%/info%}}
+
+Personnes à risque de forme grave de grippe saisonnière:
 
 - ≥ 65 ans
 - Femmes enceintes
@@ -114,14 +99,14 @@ Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
 - Immunodéprimés (greffé, SIDA): mortalité identique aux +65 ans.
 
 {{%/collapse%}}
-{{%collapse "Vaccins disponibles en 2021-2022" %}}
+{{%collapse "Vaccins disponibles en 2022-2023" %}}
 
 - Efluelda® (≥ 60 ans)
-- Flurarix tetra®
-- Influvac Tetra®
-- Vaxigrip Tetra®
+- FlurarixTetra®
+- InfluvacTetra®
+- VaxigripTetra®
 
-Campagne de vaccination du 26 octobre 2021 au 31 janvier 2022.
+Campagne de vaccination: *dates à venir*.
 
 Pas de délai (voire co-injection) entre les vaccins anti-grippaux et anti-covid19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
 

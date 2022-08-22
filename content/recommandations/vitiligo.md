@@ -94,7 +94,7 @@ Récidives++
 {{% /collapse %}}
 {{%sources%}}
 
-- [Inserm. Vitiligo.](https://www.inserm.fr/information-en-sante/dossiers-information/vitiligo)
+- [Inserm. Vitiligo. 14/08/2017.](https://www.inserm.fr/information-en-sante/dossiers-information/vitiligo)
 - [Cochrane. Traitements du vitiligo. 07/12/2011.](https://www.cochrane.org/fr/CD003263/SKIN_traitements-du-vitiligo-maladie-entrainant-une-perte-de-la-couleur-de-la-peau-en-plaques)
 
 {{%/sources%}}

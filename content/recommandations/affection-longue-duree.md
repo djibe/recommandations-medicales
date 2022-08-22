@@ -20,6 +20,9 @@ imageSrc = "Illustration par pch.vector / Freepik"
 todo= "TODO: summary, Affections psychiatriques de longue durée"
 +++
 
+Ne pas oublier de valider le Protocole de soins (PSE) après accord de la CPAM.  
+Sur Ameli Pro, aller dans Protocoles de soins et ALD > Gérer > Filtrer: Avis du Service médical.
+
 {{%collapse "Définitions" %}}
 
 ALD exonérante
@@ -104,7 +107,7 @@ Ex: Polyarthrose avec troubles de la marche + incontinence urinaire + tremblemen
 
 ### ALD 30
 
-Lorsque l'on est le médecin traitant d'un patient déclaré en ALD exonérante, la CPAM verse 40€ par an (Forfait médecin traitant pour les patients en ALD, RMT).
+Lorsque l'on est le médecin traitant d'un patient déclaré en ALD exonérante, la CPAM verse 42€ par an (70€ pour les +80 ans) via le *Forfait patientèle médecin traitant* (FPMT).
 
 Avec ce patient, il faut consacrer 1 consultation dédiée par an. Elle se cote CA (26 €).  
 Compléter le dossier médical avec le modèle (PDF suivi patient ALD).

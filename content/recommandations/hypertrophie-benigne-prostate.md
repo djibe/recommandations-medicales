@@ -130,11 +130,9 @@ Indication: symptômes légers ou acceptables (score IPSS ≤ 7-8) avec gêne mi
 Ne peut être associée aux autres traitements.  
 {{%class%}}Chaque formulation est très différente empêchant des études de qualité. L'EAU 2017 ne peut se prononcer.{{%/class%}}
 
-- Pygeum Africanum (Tadenan®, Prunier d'Afrique gén)
+- ~~~Pygeum Africanum~~~ (Tadenan®, retiré)
 - Secale cerale
 - Serenoa Repens (Permixon®). Revue Cochrane: pas de supériorité au placebo.
-
-{{%info%}}Prunier d'Afrique 50 mg x 2/j pendant 8 semaines (renouvelables){{%/info%}}
 
 ### Alpha1-bloquant
 

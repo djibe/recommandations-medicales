@@ -339,7 +339,7 @@ Tout au long de la vie: activité physique adaptée, apports vitamino-calciques.
   - Dose d'entretien: 800-1200 UI/j (ou 80-100.000 UI/2-3 mois)
   - Voir *[Vitamine D]({{< relref "vitamine-d.md" >}})* pour les protocoles de correction
 - Calcium
-  - Femme ménopausée ≥ 50 ans: cible 1-1,2 g/j ({{< modal-btn modal-calcium-cible >}}Apports calciques cibles{{< /modal-btn >}})
+  - Femme ménopausée ≥ 50 ans: cible 1 - 1,2 g/j ({{< modal-btn modal-calcium-cible >}}Apports calciques cibles{{< /modal-btn >}})
   - Associations calcium/vitamine D  
     {{%class "text-black-secondary"%}}Cacit, Calcidose, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Eptavit, Fixical, Ideos, Metocalcium, Natecal, Orocal, Osseans, Structocal.{{%/class%}}
   - {{< modal-btn modal-calcium >}}Aliments riches en calcium{{< /modal-btn >}}

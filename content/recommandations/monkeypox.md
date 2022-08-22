@@ -16,7 +16,7 @@ anglais = ["Monkeypox"]
 sctid = "359814004"
 image = true
 imageSrc = "Illustration du Monkeypox par brgfx / www.freepik.com"
-todo = "Prescrire, https://www.sexosafe.fr/Variole-du-singe"
+todo = "https://www.sexosafe.fr/Variole-du-singe"
 +++
 
 {{%article-summary%}}
@@ -24,7 +24,7 @@ todo = "Prescrire, https://www.sexosafe.fr/Variole-du-singe"
 - Poliovirus = [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}) à l'ARS
 - Suspicion de Monkeypox:
   - Suspicion: appel du 15 pour avis infectiologique urgent ou avis d'un {{< references/cegidd >}}
-  - Certitude: isolement strict et déclaration obligatoire
+  - Certitude: isolement strict avec prévention des surinfections des lésions et déclaration obligatoire
 - Vaccination des personnes à risque: [où se faire vacciner contre Monkeypox ?](https://www.sante.fr/monkeypox) ou [vaccination MKPX en Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients) sur auto-déclaration du statut de personne cible (voir *Prévention*)
 - [Flyer d'info Variole du singe](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-transmissibles-de-l-animal-a-l-homme/monkeypox/documents/depliant-flyer/variole-du-singe-monkeypox-flyer-a5) (*SPF*)
 - Monkeypox Info Service Grand public: {{<phone>}}0 801 90 80 69{{</phone>}} (8-23h)
@@ -111,7 +111,7 @@ Signes de gravité de la variole du singe:
 [Services d'infectiologie d'aide au diagnostic en Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients).  
 Un cas suspect doit être confirmé par l'infectiologue référent de l'établissement de santé de référence (ESR).
 
-Examen clinique de tout patient suspect de variole du singe avec tous les moyens de protection (masque FFP2, gants ...).
+Examen clinique de tout patient suspect de variole du singe avec tous les moyens de protection (masque FFP2, gants, surblouse ...).
 
 La contagiosité commence dès l'apparition des premiers symptômes.  
 Délai médian au diagnostic de Monkeypox de 6 jours. L'incubation dure de 5 à 21 jours.  

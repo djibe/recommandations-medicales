@@ -22,7 +22,7 @@ todo = "relecture CNS, TPE, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://
 
 {{%article-summary%}}
 
-- Dépister largement (gratuit sans ordonnance depuis 1/1/22)
+- Dépister largement (gratuit en labo sans ordonnance depuis 2022 ou en Cegidd)
 - Répéter le dépistage chez les populations à risque, conseils de prévention et transmission
 - PCR + sérologie VIH (répéter à 1 mois) devant: fièvre ou fatigue inexpliquées, exanthème fébrile de l'adulte, zona de l'adulte jeune ...
 - Dépistages de comorbidités et vaccinations spécifiques
@@ -248,8 +248,8 @@ Annonce faite par le médecin qui a prescrit le test au cours d'une consultation
 - Consultation ambulatoire
 - Admission aux urgences
 - Médecine préventive pour les étudiants
-- {{< references/cegidd >}}
-- Laboratoire d'analyses médicales
+- {{< references/cegidd >}} (gratuit pour tous)
+- Laboratoire d'analyses médicales (gratuit sans ordonnance pour les assurés, sinon Cegidd)
 
 {{% /collapse %}}
 {{%collapse "Dépistage des cancers et IST au cours du VIH" %}}

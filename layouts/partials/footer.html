@@ -1,10 +1,10 @@
-<script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin></script>
-<script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin defer></script>
-<script src="{{ .Site.Params.cdn.material_js}}" crossorigin defer></script>
-<script src="https://cdn.jsdelivr.net/npm/instant.page@5.1.0/instantpage.min.js" type="module" crossorigin async></script>
+<script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin="anonymous"></script>
+<script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin="anonymous" defer></script>
+<script src="{{ .Site.Params.cdn.material_js}}" {{ printf "integrity=%q" .Site.Params.cdn.material_js_hash | safeHTMLAttr }} crossorigin="anonymous" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/instant.page@5.1.1/instantpage.js" integrity="sha256-aHQ9cMB6I1ChFkcoMA56Loxh9OHORS98dK/iLbGzGmU=" crossorigin="anonymous" async></script>
 
 {{- with .Params.chart }}
-<script src="https://cdn.jsdelivr.net/npm/apexcharts@3.35.3/dist/apexcharts.min.js" integrity="sha256-O0jRQRwJJOBXXHT4JBRvbPIFSwTZeDwV3zCy7tSt6EA=" crossorigin defer></script>
+<script src="https://cdn.jsdelivr.net/npm/apexcharts@3.35.3/dist/apexcharts.min.js" integrity="sha256-O0jRQRwJJOBXXHT4JBRvbPIFSwTZeDwV3zCy7tSt6EA=" crossorigin="anonymous" defer></script>
 <script>
 document.addEventListener( 'DOMContentLoaded', event => {
   Apex = {
@@ -110,7 +110,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 
 {{- with .Params.flowchart }}
-<script src="https://cdn.jsdelivr.net/npm/mermaid@9.1.5/dist/mermaid.min.js" integrity="sha256-RqbL4xBKYq/iP+616ZrXdmaNyCuRX1mW7wjsHPfa8uY=" crossorigin defer></script>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@9.1.6/dist/mermaid.min.js" integrity="sha256-ZfzwelSToHk5YAcr9wbXAmWgyn9Jyq08fSLrLhZE89w=" crossorigin="anonymous" defer></script>
 <script>
   // https://mermaid-js.github.io/mermaid/#/Setup?id=fontfamily
   const MermaidConfig = {
@@ -133,7 +133,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 
 {{- with .Params.slider }}
-<script src="https://cdn.jsdelivr.net/npm/ion-rangeslider/js/ion.rangeSlider.min.js" crossorigin defer></script>
+<script src="https://cdn.jsdelivr.net/npm/ion-rangeslider/js/ion.rangeSlider.min.js" crossorigin="anonymous" defer></script>
 <script>
   window.addEventListener('load', () => $('.slider-default').ionRangeSlider())
 </script>

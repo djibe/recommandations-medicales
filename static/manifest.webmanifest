@@ -1,7 +1,7 @@
 {
   "name": "Recommandations Médicales",
-  "short_name": "Reco Med",
-  "description": "Les dernières recommandations médicales pour la pratique au cabinet médical.",
+  "short_name": "RecoMédicales",
+  "description": "Les dernières recommandations médicales pour la pratique au cabinet médical",
   "lang": "fr",
   "icons": [
     {
