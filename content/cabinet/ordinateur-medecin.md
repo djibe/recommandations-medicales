@@ -13,12 +13,12 @@ image = true
 imageSrc = "Freepik"
 +++
 
-L'ordinateur (PC ou Mac) est essentiel au sein du cabinet du médecin afin de gérer à long terme le suivi des patients. Il permet également l'accès aux outils de productivité comme Ameli Pro. Bref, il est vital. Et pourtant, sans aucune connaissance préalable, on vous vendra ce qui rapporte, pas ce dont vous avez besoin.
+L'ordinateur (PC ou Mac) est essentiel au sein du cabinet du médecin afin de gérer à long terme le suivi des patients. Il permet également l'accès aux outils de productivité comme *Ameli Pro*. Bref, il est vital. Et pourtant, sans aucune connaissance préalable, on vous vendra ce qui rapporte, pas ce dont vous avez besoin.
 {.lead}
 
-Je ne parle ici que de l'ordinateur et de l'écran. Voir [les périphériques pour bien travailler]({{< relref "peripheriques-ordinateur.md" >}}) (clavier, souris, imprimante ...).
+Je ne parle ici que de l'unité centrale, lire [les périphériques pour bien travailler]({{< relref "peripheriques-ordinateur.md" >}}) pour les accessoires (clavier, souris, imprimante ...).
 
-Le *Forfait structure* contribue à financer le renouvellement du parc informatique du médecin généraliste.
+Le [Forfait structure]({{< relref "forfait-structure.md" >}}) contribue à financer le renouvellement du parc informatique du médecin généraliste.
 
 {{%collapse "L'ordinateur minimum pour le médecin généraliste" %}}
 
@@ -28,12 +28,15 @@ Au minimum le PC doit avoir:
 
 - Un processeur 4 cœurs dernière génération
 - Un disque dur ultra-rapide (dit SSD)  
-  500 Go suffiront pour un exercice normal.
-- 8 Go de mémoire vive (dite RAM)
-- Windows 10 ou 11 Pro (pour la gestion en réseau)  
+  500 Go de stockage suffiront pour un exercice normal.
+- 8 Go de mémoire vive (ou plus, dite RAM)  
+  Conserve les programmes ouverts en parallèle
+- Windows 10 ou 11 Pro (pour la gestion du réseau du cabinet)  
   Windows 7 et 8 peuvent toujours être mis à jour gratuitement vers Windows 10 puis 11.
 - De très nombreuses prises USB  
   Comptez l'imprimante, les lecteurs de carte à puce (carte vitale et carte CPS), souris, clavier, webcam ...
+
+Si vous n'êtes pas effrayé par les risques de conflits des appareils USB (coucou lecteur vitale et CPS), vous pouvez envisager un PC portable (ou Mac) avec écran secondaire pour travailler dans de bonnes conditions.
 
 {{% /collapse %}}
 {{%collapse "Les pièges à éviter pour un choix éclairé" %}}
@@ -59,16 +62,16 @@ Modèles approuvés par *UFC Que Choisir 2021*:
 {.list-group}
 
 {{% /collapse %}}
-{{%collapse "La configuration proposée pour travailler efficacement" %}}
+{{%collapse "La configuration proposée pour travailler efficacement" "show" %}}
 
 Le PC présenté ci-dessous peut être assemblé sur mesure par les grands magasins avec la garantie dont vous avez besoin. Il a ce qu'il faut (avec carte Wi-Fi intégrée pour dépanner les jours de coup dur), est réparable pièce par pièce et coûte une bouchée de pain par rapports à ce qu'on vous vend. Il tiendra plus de 10 ans et reste facilement réparable.
 
-**NB.** Changez la couleur du boîtier (les goûts et les couleurs) et la souris si vous avez de petites mains. Ajoutez un lecteur DVD ou Blu-Ray selon vos besoins (mais en 2022 ...).
+{{%info%}}[Achat du PC recommandé sur Hardware.fr](https://shop.hardware.fr/configurateur/5e85ae72c84371bb5bb5d864bd2a20bc), qui offre un bon service de support{{%/info%}}
 
-{{< card-link title="Achat du PC recommandé sur Hardware.fr" url="https://shop.hardware.fr/configurateur/7d9c1635787a46532365f102358f61ad" subtitle="Une boutique avec un bon support client pour le médecin">}}
+Changez la couleur du boîtier (les goûts et les couleurs ... mais vérifiez une taille très proche de 44 x 22 x 41 cm) et la souris si vous avez de petites mains. Ajoutez un lecteur DVD ou Blu-Ray selon vos besoins (mais en 2022 ...).
 
-**NB.** Windows 10/11 peut être acheté 15€ (au lieu des 200) sur les géants du e-commerce si un ami peut vous l'installer ([lien](https://www.amazon.fr/gp/product/B0B6QJBDPS/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)).
+**NB.** Windows 10/11 peut être acheté 15€ (au lieu des 200€) sur les géants du e-commerce si un ami peut vous l'installer ([lien](https://www.amazon.fr/gp/product/B0B6QJBDPS/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)).
 
 {{% /collapse %}}
 
-{{< card-link title="Les périphériques pour l'ordinateur du cabinet" subtitle="Webcam, imprimante, écran ..." url="/cabinet/peripheriques-ordinateur/" class="mt-5">}}
+{{< card-link title="Article lié: Les périphériques pour l'ordinateur du cabinet" subtitle="Webcam, imprimante, écran ..." url="/cabinet/peripheriques-ordinateur/" class="mt-5">}}
