@@ -5,13 +5,12 @@ description = "Quel ordinateur pour le médecin généraliste ? Conseils pour un
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2022-01-27"
-lastmod = "2022-05-15"
+lastmod = "2022-08-22"
 specialites = []
 sources = []
 tags = []
 image = true
 imageSrc = "Freepik"
-todo= "i3 10100 ou 12100"
 +++
 
 L'ordinateur (PC ou Mac) est essentiel au sein du cabinet du médecin afin de gérer à long terme le suivi des patients. Il permet également l'accès aux outils de productivité comme Ameli Pro. Bref, il est vital. Et pourtant, sans aucune connaissance préalable, on vous vendra ce qui rapporte, pas ce dont vous avez besoin.
@@ -32,7 +31,7 @@ Au minimum le PC doit avoir:
   500 Go suffiront pour un exercice normal.
 - 8 Go de mémoire vive (dite RAM)
 - Windows 10 ou 11 Pro (pour la gestion en réseau)  
-  Windows 7 et 8 peuvent encore être mis à jour gratuitement vers Windows 10 puis 11.
+  Windows 7 et 8 peuvent toujours être mis à jour gratuitement vers Windows 10 puis 11.
 - De très nombreuses prises USB  
   Comptez l'imprimante, les lecteurs de carte à puce (carte vitale et carte CPS), souris, clavier, webcam ...
 
@@ -62,13 +61,14 @@ Modèles approuvés par *UFC Que Choisir 2021*:
 {{% /collapse %}}
 {{%collapse "La configuration proposée pour travailler efficacement" %}}
 
-Le PC présenté ci-dessous peut être assemblé sur mesure par les grands magasins avec la garantie dont vous avez besoin. Il a ce qu'il faut (avec carte Wi-Fi intégrée pour dépanner les jours de coup dur), est réparable pièce par pièce et coûte une bouchée de pain par rapports à ce qu'on vous vend. Il tiendra 10 ans et est mis à jour régulièrement avec les progrès de l'informatique.  
-**NB.** Ajoutez un lecteur DVD ou Blu-Ray selon vos besoins.
+Le PC présenté ci-dessous peut être assemblé sur mesure par les grands magasins avec la garantie dont vous avez besoin. Il a ce qu'il faut (avec carte Wi-Fi intégrée pour dépanner les jours de coup dur), est réparable pièce par pièce et coûte une bouchée de pain par rapports à ce qu'on vous vend. Il tiendra plus de 10 ans et reste facilement réparable.
 
-{{< card-link title="Achat sur Hardware.fr" url="https://shop.hardware.fr/configurateur/cee953576fddc65e4b6a1602ca595491" subtitle="Le PC du médecin">}}
+**NB.** Changez la couleur du boîtier (les goûts et les couleurs) et la souris si vous avez de petites mains. Ajoutez un lecteur DVD ou Blu-Ray selon vos besoins (mais en 2022 ...).
 
-**NB.** Windows 11 peut être acheté 15€ (au lieu des 200) sur les géants du e-commerce si un ami peut vous l'installer.
+{{< card-link title="Achat du PC recommandé sur Hardware.fr" url="https://shop.hardware.fr/configurateur/7d9c1635787a46532365f102358f61ad" subtitle="Une boutique avec un bon support client pour le médecin">}}
+
+**NB.** Windows 10/11 peut être acheté 15€ (au lieu des 200) sur les géants du e-commerce si un ami peut vous l'installer ([lien](https://www.amazon.fr/gp/product/B0B6QJBDPS/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)).
 
 {{% /collapse %}}
 
-{{< card-link title="Article lié" subtitle="Les périphériques pour l'ordinateur au cabinet (imprimante ...)" url="/cabinet/peripheriques-ordinateur/" class="mt-5">}}
+{{< card-link title="Les périphériques pour l'ordinateur du cabinet" subtitle="Webcam, imprimante, écran ..." url="/cabinet/peripheriques-ordinateur/" class="mt-5">}}
