@@ -8,16 +8,16 @@ synonyms = ["Alcoolodépendance", "sevrage alcoolique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-11T09:17:51+01:00"
 publishdate = "2022-01-11"
-lastmod = "2022-07-06"
+lastmod = "2022-08-23"
 specialites = ["addictologie"]
-annees = "2021"
-sources = ["HAS", "SFA", "AFEF"]
+annees = "2022"
+sources = ["AFEF", "HAS", "SFA"]
 tags = ["depistage"]
 anglais = ["Alcoholism"]
 sctid = "7200002"
 image = true
 imageSrc = "Les verres d'alcool standards par Alcool-Info-Service"
-todo = "AFEF 2021 hépatite alcoolique, Kits addiction https://lecmg.fr/addictionsmg/, KEY x3 sevrage ambulatoire | x2 syndrome de sevrage, symptômes de sevrage | médicaments, sevrage de l'alcool, entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, bilan des complications"
+todo = "remarques mail, KEY x3 sevrage ambulatoire | x2 syndrome de sevrage, symptômes de sevrage | médicaments, sevrage de l'alcool, entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, bilan des complications"
 +++
 
 {{%article-summary%}}
@@ -27,7 +27,7 @@ todo = "AFEF 2021 hépatite alcoolique, Kits addiction https://lecmg.fr/addictio
 3. Intervention brève
 4. Dépistage des complications
 
-- 1 verre standard = 10g d'alcool. << Pour votre santé, l'alcool c'est maximum 2 verres par jour et pas tous les jours >> (seuil de mésusage = 10 verres/semaine, *[affiche SPF](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/affiche/pour-votre-sante-l-alcool-c-est-maximum-2-verres-par-jour-et-pas-tous-les-jours)*)
+- 1 verre standard = 10g d'alcool. << Pour votre santé, l'alcool c'est maximum 2 verres par jour et pas tous les jours >> et << toute consommation d'alcool comporte un risque pour la santé >> (seuil de mésusage = 10 verres/semaine, *[affiche SPF](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/affiche/pour-votre-sante-l-alcool-c-est-maximum-2-verres-par-jour-et-pas-tous-les-jours)*)
 - 0 alcool pendant la grossesse et chez les enfants
 - Mésusage: 1 homme sur 3 et 1 femme sur 6
 - Prise en charge des co-addictions (tabac, cannabis), complications somatiques et troubles psychiatriques ([MonPsy]({{< relref "remboursement-psychologue-monpsy.md" >}}), dépression, anxiété...)
@@ -114,6 +114,8 @@ TUA
 
 ### Épidémiologie de la consommation d'alcool en France
 
+{{%info%}}Réduire la consommation d'alcool de 10% préviendrait la survenue de 2178 cancers annuels (*Shield KD 2018*){{%/info%}}
+
 - 1<sup>re</sup> substance addictive en coût social, cause de décès liée au foie et cause de transplantation hépatique
 - 1/3 des décès prématurés
 - Décès: 41.000 annuels (30.000 hommes)
@@ -123,9 +125,9 @@ TUA
 - Coût sociétal: 118 milliards annuels
 - Consommation excessive
   - La France est 6<sup>e</sup> des pays de l'OCDE (sur 34)
-  - 23,7% des 18-75 ans dépassent les repères de consommation (2020)  
+  - **23,7% des 18-75 ans dépassent les repères de consommation** (2020)  
     1 homme sur 3 et 1 femme sur 6  
-    48% ont un diplôme ≤ au baccalauréat
+    48% ont un diplôme inférieur ou égal au baccalauréat
   - 10% des 18-75 ans absorbent 58% de l'alcool consommé
   - 11,7 L/an/+15 ans
 - Risque suicidaire: x90 quand > 100 g/j
@@ -568,23 +570,23 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 {{< youtube id="OPs09amiMC0" title="Prise en charge de la maladie du foie liée à l'alcool (AFEF)" >}}
 
+- [SFA. Repères de consommation d'alcool à moindre risque : les abaisser chez les plus jeunes ?. 08/08/2022. (PDF)](http://www.sfalcoologie.asso.fr/download/2022-CP_alcool-SFA-2022_08_08.pdf)
 - [Angler R et al. Dépassement des repères de consommation d'alcool à moindre risque en 2020 : résultats du Baromètre santé de Santé publique France. BEH. Novembre 2021.](http://beh.santepubliquefrance.fr/beh/2021/17/2021_17_1.html)
 - [Louvet A. et al. Prise en charge de la maladie du foie liée à l'alcool. Recommandations de l'Association française pour l'étude du foie et de la Société française d'alcoologie. Janvier 2021.](https://afef.asso.fr/wp-content/uploads/2021/01/Recommandations-AFEF-SFA-sur-Prise-en-charge-de-la-maladie-du-foie-liee-a-lalcool.pdf)
 - [HAS. Outil d'aide au repérage précoce et intervention brève : alcool, cannabis, tabac chez l'adulte. Janvier 2021.](https://www.has-sante.fr/jcms/c_1795221/fr/outil-d-aide-au-reperage-precoce-et-intervention-breve-alcool-cannabis-tabac-chez-l-adulte)
+- [HAS. Prévention des addictions et réduction des risques et des dommages par les centres de soins, d'accompagnement et de prévention en addictologie (CSAPA). 2019.](https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa)
 - [Addictions France. Les repères de consommation des boissons alcooliques. Novembre 2018. (PDF)](https://addictions-france.org/datafolder/uploads/2021/02/Fiche-Reperes-Reperes-alcool.pdf)
 - [SFA, ANPAA, EUFAS. Mésusage de l'alcool dépistage, diagnostic et traitement. 2015.](http://www.sfalcoologie.asso.fr/download/RBP2014-SFA-Mesusage-AA.pdf)
 - [ANAES, SFA. Modalités de l'accompagnement du sujet alcoolodépendant après un sevrage. 2001.](https://www.has-sante.fr/jcms/c_271905/fr/modalites-de-l-accompagnement-du-sujet-alcoolodependant-apres-un-sevrage)
 - [Santé Publique France. Alcool.](https://www.santepubliquefrance.fr/determinants-de-sante/alcool)
 - [Fédération Addiction](https://www.federationaddiction.fr/)
+- [Collège des Enseignants de Neurologie (CEN). Addiction à l'alcool - Complications neurologiques de l'alcoolisme.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/addiction-lalcool-complications-neurologiques-lalcoolisme)
 
 ### À lire
 
-- <https://www.cen-neurologie.fr/fr/deuxieme-cycle/addiction-lalcool-complications-neurologiques-lalcoolisme>
-- <https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa>
 - <http://www.addictologie.org/spip.php?page=avectitre&id_rubrique=8>
 - <http://www.addictologie.org/spip.php?page=accueil&id_rubrique=1>
 - <http://www.sfalcoologie.asso.fr/page.php?choix=A10>
-- <https://bdoc.ofdt.fr/index.php?lvl=more_results&autolevel1=1>
 - <https://www.alcool-info-service.fr/Alcool/Home-Professionnels/Alcool-et-grossesse/Le-reperage-et-le-depistage-de-la-consommation-maternelle/Comment-mener-un-entretien-Quelques-cles>
 - <https://www.lissa.fr/dc/#env=lissa&q=alcool&p=1>
 - J. Rehm, Section of Cancer Surveillance, International Agency for Research on Cancer, Lyon, France
@@ -592,6 +594,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 - Prescrire
 - <https://www.ofdt.fr/BDD/publications/docs/TabAlcool2000-2018.pdf>
 - <https://www.fmcgastro.org/texte-postu/postu-2020-paris/sevrage-en-alcool-et-maladies-chroniques-du-foie/>
+- <https://lecmg.fr/addictionsmg/>
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}

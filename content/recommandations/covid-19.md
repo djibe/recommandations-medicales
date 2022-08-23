@@ -126,6 +126,32 @@ Paxlovid®: Nirmatrelvir 150 mg 2 cp + Ritonavir 100 mg 1 cp per os toutes les 1
 - [Imprimer son attestation de vaccination](https://attestation-vaccin.ameli.fr/)
 - [Demander la conversion d'un certificat de vaccination étranger en passe sanitaire français](https://www.sante.fr/obtenir-un-passe-sanitaire-en-cas-de-vaccination-letranger)
 
+### Contre-indications à la vaccination contre le Covid-19
+
+Pour les professionnels concernés par l'obligation vaccinale, le [Certificat médical de contre-indication à la vaccination COVID-19, Cerfa 52361#3](https://www.ameli.fr/sites/default/files/formulaires/S3188-certificat-medical-contre-indication-covid19_0.pdf)
+
+#### Contre-indication médicale faisant obstacle à la vaccination contre la covid-19 mentionnés à l'article 2-4
+
+1. Les contre-indications inscrites dans les dernières versions des résumés des caractéristiques du produit (RCP) :
+    1. Contre-indications pour tous les vaccins autorisés en France
+        - Antécédent d'allergie documentée à un des composants du vaccin, produit actif ou excipients tels que mentionnés dans le RCP
+        - Réaction anaphylactique au moins de grade 2 (atteinte au moins de 2 organes) secondaire à une injection d'un vaccin contre la covid-19, confirmée par une après expertise allergologique
+    2. Contre-indications aux vaccins Vaxzevria (Astra Zeneca) et JCovden (Janssen)
+        - Personnes ayant déjà présenté un ou plusieurs épisodes de syndrome de fuite capillaire (contre-indication commune au vaccin Vaxzevria (AstraZeneca) et au vaccin JCovden (Janssen))
+        - Personnes ayant présenté un syndrome thrombotique et thrombocytopénique (STT) à suite d’une vaccination par le vaccin Vaxzevria (AstraZeneca) ou le vaccin JCovden (Janssen)
+2. Une recommandation médicale de ne pas initier une vaccination (première dose):  
+  Myocardites ou myo-péricardites associées à une infection par SARS-CoV2.
+3. Une recommandation établie après concertation médicale pluridisciplinaire de ne pas effectuer une dose supplémentaire de vaccin (deuxième dose ou dose de rappel) suite à la survenue d'un effet indésirable d'intensité sévère ou grave attribué à une précédente injection de vaccin signalé au système de pharmacovigilance (par exemple : la survenue de myocardite, de syndrome de Guillain-Barré, de syndrome inflammatoire multisystémique pédiatrique (PIMS)…).
+4. Une recommandation établie par un centre de référence maladies rares (CRMR) ou un centre de compétence maladies rares (CCMR) après concertation médicale pluridisciplinaire (avis collégial documenté) de ne pas initier la vaccination contre la covid-19.
+
+#### Contre-indication médicale temporaire faisant obstacle à la vaccination contre la covid-19 mentionnés à l'article 2-4
+
+1. Traitement par anticorps monoclonaux anti-SARS-CoV-2
+2. Myocardites ou péricardites d'étiologie non liée à une infection par SARS-CoV-2 survenues antérieurement à la vaccination et toujours évolutives
+3. Syndrome inflammatoire multi-systémique pédiatrique (PIMS) post-infection par le SARS-CoV-2, pendant 3 mois suivant la survenue du PIMS. La vaccination peut avoir lieu passé ce délai, après récupération d'une fonction cardiaque normale, et en l'absence de tout syndrome inflammatoire.
+
+> *DGS Urgent 2022-72*
+
 {{% /collapse %}}
 {{%collapse "Masques" %}}
 

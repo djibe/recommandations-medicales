@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-26T13:38:41+02:00
 publishdate = "2020-07-26"
-lastmod = "2022-05-22"
+lastmod = "2022-08-23"
 specialites = ["social"]
 annees = "2022"
 sources = ["MinSanté"]
@@ -29,3 +29,5 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2018-03/annexes2.pd
 ## Réfugiés {.mt-5}
 
 [Le guide du réfugié (PDF)](https://leguidedurefugie.com/pdf/guide-du-refugie-version-fr.pdf)
+
+[Santé Publique France. Migrants/étrangers en situation précaire. Soins et accompagnement. 2015.](https://www.santepubliquefrance.fr/docs/migrants-etrangers-en-situation-precaire.-soins-et-accompagnement-edition-2015)

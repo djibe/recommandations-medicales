@@ -152,9 +152,15 @@ Personnes nécessitant un schéma vaccinal renforcé (détail des vaccinations d
 - Prématuré
   - Vaccination doit débuter à 2 mois d'âge chronologique
   - Calendrier vaccinal identique avec en supplément: Prevenar à 3 mois
-  - Mère Ag HBs+: se référer au Calendrier vaccinal
+  - Mère Ag HBs+: se référer au *Calendrier vaccinal*
 - [Asplénie]({{< relref "asplenie.md" >}})
-- [Cancer](/tags/cancer/)
+- [Cancer](/tags/cancer/) avec chimiothérapie
+  - Pas de recommandations spécifiques sous immunothérapie, thérapie ciblée ou hormonothérapie
+  - Calendrier vaccinal avec rappel systématique 3 mois après l'arrêt de la chimio (6 mois si hémopathie)
+  - Covid-19 (+ entourage)
+  - Grippe (2 doses à M0M1 si chimio et période épidémique à < 6 mois)
+  - Pneumocoque. Schéma complet à refaire 3 mois après l'arrêt de la chimio si primo-vaccination avant la chimio
+  - Vaccins vivants contre-indiqués pendant et jusqu'à 6 mois après
 - Cardio-vasculaire
   - [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
   - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
@@ -265,6 +271,7 @@ Le don du sang est contre-indiqué durant quatre semaines après les vaccination
 {{% /collapse %}}
 {{%sources%}}
 
+- [Omedit Auvergne. Vaccination et Chimiothérapie. 22/07/2022.](https://www.omedit-auvergne-rhone-alpes.ars.sante.fr/vaccination-et-chimiotherapie)
 - [HAS. La HAS recommande la vaccination des nourrissons contre les infections à rotavirus. 12/07/2022.](https://www.has-sante.fr/jcms/p_3352137/fr/la-has-recommande-la-vaccination-des-nourrissons-contre-les-infections-a-rotavirus)
 - {{< references/calendrier-vaccinal >}}
 - [Décret 2022-610 pour la vaccination par les infirmiers et pharmaciens](https://www.mesvaccins.net/textes/2022-04-21-JO-DECRET-2022-610.pdf)
