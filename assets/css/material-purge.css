@@ -56,8 +56,8 @@
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
   --font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvetica Neue", "Arial", "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --font-family-monospace: "Roboto Mono", "SFMono-Regular", "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace;
-  --font-family-material-icons: "Material Icons", "Material Icons Outlined", "Material Icons Two Tone", "Material Icons Round", "Material Icons Sharp";
+  --font-family-monospace: 0;
+  --font-family-material-icons: 0;
 }
 
 *,
@@ -217,7 +217,7 @@ a:not([href]):not([class]), a:not([href]):not([class]):hover {
 
 pre,
 code {
-  font-family: "Roboto Mono", "SFMono-Regular", "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace;
+  font-family: 0;
   font-size: 1em;
 }
 
@@ -422,11 +422,6 @@ iframe {
 summary {
   cursor: pointer;
   display: list-item;
-}
-
-mark {
-  background-color: #ffeb3b;
-  color: rgba(0, 0, 0, 0.87);
 }
 
 @-ms-viewport {
@@ -708,13 +703,6 @@ small,
 .small {
   font-size: 0.875em;
   font-weight: 400;
-}
-
-mark,
-.mark {
-  background-color: #ffeb3b;
-  color: rgba(0, 0, 0, 0.87);
-  padding: 0.2em;
 }
 
 ol {
@@ -1041,6 +1029,54 @@ a.close.disabled {
   white-space: nowrap;
   display: flex;
   flex: 1;
+}
+
+.nav-pills .nav-link {
+  border-radius: 4px;
+  /* transition: $transition-duration-mobile;
+  transition-property: $property;
+  transition-timing-function: $transition-timing-function-standard; */
+  transition: background-color, color, opacity 300ms cubic-bezier(0.4, 0, 0.2, 1);
+  background-color: transparent;
+  border: none;
+  color: rgba(0, 0, 0, 0.87);
+  opacity: 0.7;
+}
+
+@media (min-width: 576px) {
+  .nav-pills .nav-link {
+    transition-duration: 390ms;
+  }
+}
+
+@media (min-width: 992px) {
+  .nav-pills .nav-link {
+    transition-duration: 280ms;
+  }
+}
+
+.nav-pills .nav-link:hover, .nav-pills .nav-link:focus, .nav-pills .nav-link:active {
+  background-color: rgba(0, 0, 0, 0.12);
+}
+
+.nav-pills .nav-link.active {
+  color: #e87500;
+  opacity: 1;
+}
+
+.nav-pills .nav-link.disabled {
+  background-color: transparent;
+  color: rgba(0, 0, 0, 0.38);
+  opacity: 1;
+}
+
+.nav-pills .nav-link:active {
+  opacity: 1;
+}
+
+.nav-pills .show > .nav-link {
+  background-color: rgba(0, 0, 0, 0.12);
+  opacity: 1;
 }
 
 .tab-content > .tab-pane {
@@ -3972,6 +4008,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 
 .mb-0 {
   margin-bottom: 0 !important;
+}
+
+.ml-0 {
+  margin-left: 0 !important;
 }
 
 .mb-1 {

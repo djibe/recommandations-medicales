@@ -93,7 +93,7 @@ VVA
 | Varicelle    | 18 ans                   | [Autour d'un cas]({{< relref "varicelle.md" >}}) |
 {{< /table >}}
 
-Pour le BCG, voir [tuberculose]({{< relref "tuberculose.md" >}}).  
+Pour le BCG, lire [tuberculose]({{< relref "tuberculose.md" >}}).  
 Rotavirus: informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours avec pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles.
 
 {{%info%}}<< Un rattrapage vaccinal est indiqué en cas de statut inconnu >> (*Calendrier vaccinal*){{%/info%}}
