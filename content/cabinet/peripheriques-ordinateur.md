@@ -12,7 +12,7 @@ sources = []
 tags = []
 image = true
 imageSrc = "Illustration par macrovector / Freepik"
-todo= "DELL S2721DS, https://www.clubic.com/materiel-informatique/imprimante/article-851535-1-meilleure-imprimante-laser-comparatif.html#"
+todo= "scanners barrettes, https://www.clubic.com/materiel-informatique/imprimante/article-851535-1-meilleure-imprimante-laser-comparatif.html#"
 +++
 
 Ensemble de périphériques pour l'utilisation bureautique quotidienne au cabinet médical.
@@ -22,7 +22,7 @@ Ensemble de périphériques pour l'utilisation bureautique quotidienne au cabine
 
 {{%collapse "Imprimantes laser" %}}
 
-Imprimantes choisies par 01Net.
+Imprimantes choisies par 01Net et UFC Que Choisir.
 
 ### Imprimantes laser avec toners compatibles
 
@@ -58,10 +58,19 @@ Tout en 1
 {{% /collapse %}}
 {{%collapse "Écrans" %}}
 
-Écrans 27 pouces (résolution minimale Full HD) avec un beau rendu de couleurs et de larges angles de vue (technologie IPS), un pied réglable, des hauts-parleurs intégrés pour les téléconsultations et une dalle mate pour éviter de travailler sur un miroir.  
-Si le son ne vous convient pas, vous pourrez investir dans des écouteurs, casque ou hauts-parleurs plus tard.
+Un écran de bureautique moderne doit être de 27 pouces, parce que comme les diamants, il finira toujours par être trop petit. C'est la taille idéale pour gérer le logiciel et la fenêtre de téléconsultation (voire de compta ou autre).
 
+Écrans 27 pouces (résolution minimale Full HD) avec un beau rendu de couleurs et de larges angles de vue (technologie IPS), un pied réglable, des hauts-parleurs intégrés pour les téléconsultations et une dalle mate pour éviter de travailler sur un miroir.  
+Si le son ne vous convient pas, vous pourrez investir dans des écouteurs, casque ou hauts-parleurs plus tard.  
 À vous de choisir le style.
+
+Si vous avez de bons yeux, l'écran doit être de résolution WQHD (ou QHD 2560 x 1440 pixels)
+
+Mon choix: [Dell S2721DS](https://ledenicheur.fr/product.php?p=5485696)
+
+Autres modèles QHD [parmi cette liste](https://ledenicheur.fr/c/ecrans?1705=2717&528=834&544=13606%7C16660%7C25920&b_1624=1&b_3453=1&r_89=27-28&sort=price_includes_shipping) (vérifiez les critères cités plus haut pour le pied réglable etc ...).
+
+Sinon, vous pouvez prendre un écran FullHD (1920 x 1080 pixels)
 
 - [ViewSonic XG2705-2K - 250€](https://ledenicheur.fr/product.php?p=5699238)
 - [Iiyama G-Master GB2730HSU-B1 - 200€](https://ledenicheur.fr/product.php?p=4807294)
@@ -111,6 +120,19 @@ Webcams avec une qualité d'image suffisante pour une téléconsultation et avec
 
 - [Logitech HD Pro Webcam C920S - 72€](https://ledenicheur.fr/product.php?p=5064507)
 - [Microsoft LifeCam HD-3000 - 25€](https://ledenicheur.fr/product.php?p=829887)
+{.list-group}
+
+{{% /collapse %}}
+{{%collapse "Routeurs ethernet Gigabit" %}}
+
+Routeurs (ou switchs) réseau au protocole Gigabit (aussi appelé 10/100/1000 Mbps). Ils permettent de brancher plusieurs appareils du réseau local (PC, lecteur de carte bleue, téléphone).  
+1000 Mbps / 8 = 125 Mo/seconde (théoriques), suffisants pour faire de la téléconsultation.  
+Il faut bien noter que les câbles réseaux doivent être de catégorie 5e ou plus (CAT5e - les moins chers et suffisants, CAT6 ...).
+
+Le routeur classique comprend 5 ports, reste à choisir la couleur et le format.
+
+- [Le mini routeur: Dlinkgo GO-SW-5G - 15€](https://www.grosbill.com/switch/d-link/20669.aspx?utm_source=flux_awin&utm_campaign=comparateur_prix&utm_content=produit_17169)
+- [Aperçu de modèles, disponibles dans différentes boutiques](https://www.grosbill.com/2-switch_reseau-cat-reseaux?order=i%3ad%3bp%3aa%3b&crits=1527%3a4227%3a4228%3a984)
 {.list-group}
 
 {{% /collapse %}}
