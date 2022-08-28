@@ -2,15 +2,15 @@
 title = "Accident vasculaire cérébral (AVC)"
 prefix = "l'"
 titleSeo = "Accident vasculaire cérébral"
-description = "Dernières recommandations 2021 sur l'AVC pour le médecin généraliste. Prévention secondaire avec aspirine, statine, objectif LDL, IEC, objectif tensionnel..."
-synonyms = ["AIT", "accident ischémique transitoire", "infarctus cérébral"]
+description = "Dernières recommandations 2022 sur l'AVC pour le médecin généraliste. Prévention secondaire avec aspirine, statine, objectif de LDL, IEC, objectif tensionnel"
+synonyms = ["Accident ischémique transitoire (AIT)", "infarctus cérébral"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-25T14:04:00+02:00"
 publishdate = "2021-01-25"
-lastmod = "2022-02-04"
+lastmod = "2022-08-28"
 specialites = ["neurologie"]
-annees = "2021"
-sources = ["AHA", "ESC", "HAS"]
+annees = "2022"
+sources = ["HAS", "AHA", "ESC"]
 tags = ["antiplaquettaire", "cephalees", "demence", "diabete", "HTA", "risque cardiovasculaire", "SAS", "vertige"]
 anglais = ["Cerebrovascular accident"]
 sctid = "230690007"
@@ -238,31 +238,77 @@ Selon les résultats du bilan spécialisé cardiologique et neurologique.
 
 ### Rééducation motrice de l'AVC
 
-{{%info%}}Il est recommandé de débuter la rééducation motrice dès que possible avec poursuite au long cours. (*HAS 2012*){{%/info%}}
+{{%info%}}
+Il est recommandé de débuter la rééducation motrice dès que possible avec poursuite au long cours (*HAS 2012*)
 
-Les auto-exercices sont recommandés.  
+Il est nécessaire de proposer un programme de rééducation (...) aux personnes présentant des séquelles d'une paralysie initiale au-delà de six mois après un AVC (*HAS 2022*)
+{{%/info%}}
+
+Les **auto-exercices** sont recommandés.  
 Le dossier de soin est partagé entre intervenants.
 
-#### À distance
+Rééducation intensive de la marche dès que possible. Des exercices prolongés améliorent les performances de la marche (> 90 min, Schnitzler 2018). Pratiquer un activité physique et gymnique, renforcement musculaire.
 
-- Rééducation intensive de la marche dès que possible  
-  - Des exercices prolongés améliorent les performances de la marche (> 90 min, Schnitzler 2018).
-  - Rééducation de la mise en charge et de l'équilibre.
-  - Goniofeedback du genou pour améliorer la marche.
-  - Myofeedback pour améliorer la marche.
-  - Stimulation électrique fonctionnelle pour la marche.
-  - Rééducation tâche orientée (répétition) pour la marche.
-  - Orthèse de marche en cas d'insuffisance de la commande.
-  - Aide technique de marche, avec apprentissage personnalisé.
-  - Entraînement électromécanique de la marche sans kiné.
-- Membres supérieurs
-  - Myofeedback et stimulation électrique fonctionnelle.
-  - Contrainte induite.
-  - Entraînement par robot et traitement conventionnel.
-- Pratiquer un activité physique et gymnique
-- Renforcement musculaire
-- Approches neurophysiologiques
-- Imagerie mentale motrice associée à d'autres traitements
+#### Avis de la HAS sur les techniques de rééducation motrice post AVC
+
+Technique de rééducation post AVC recommandée par la HAS:
+
+- Biofeedback
+- Contrainte induite du membre supérieur
+- Exercices de marche
+- Imagerie mentale motrice (en association)
+- Orthèses (membre inférieur)
+- Programmes d'activités physiques et d'exercices physiques
+- Réalité virtuelle (en association)
+- Rééducation de la posture et de l'équilibre
+- Thérapie miroir (membre supérieur)
+- Toxine botulinique (en association)
+
+{{%warning%}}Pas assez de preuves d'efficacité: Balnéothérapie, bandages adhésifs, étirements, rééducation assistée par robotique, stimulation électrique neuromusculaire, thérapie bimanuelle intensive (IBT), thérapie vibratoire et l'utilisation de plateforme vibrante, thérapies neurodéveloppementales{{%/warning%}}
+
+#### Avis de la HAS sur les techniques de rééducation cognitive post AVC
+
+Technique de rééducation cognitive post-AVC recommandée par la HAS:
+
+- Troubles mnésiques
+  - Activité physique aérobie
+  - Compensation
+  - Rééducation et compensation des troubles de la mémoire de travail
+- Trouble des fonctions exécutives
+  - Compensation
+  - Prise en charge occupationnelle (CO-OP)
+- Négligence spatiale unilatérale
+  - Adaptation prismatique
+  - Visual Scanning Training
+- Troubles attentionnels: Time Pressure Management
+- Aphasie et troubles de la communication
+  - Aides technologiques à visée de compensation
+  - Contrainte induite (pour la dénomination)
+  - Information, éducation thérapeutique, favorisation de l'implication et l'entraînement de l'aidant/du partenaire de communication aux stratégies de communication
+  - Rééducation à poursuivre à forte intensité, à forte dose et sur une longue durée
+  - Rééducation informatisée du langage accompagnée d'un thérapeute
+  - rTMS
+  - tDCS (associée)
+  - Thérapies multimodales (pour la dénomination)
+- Apraxie gestuelle: rééducation
+- Rééducation en réalité virtuelle: en complément de la rééducation cognitive classique
+
+{{%warning%}}
+Pas assez de preuves d'efficacité:
+
+- Mémoire: restauration et réorganisation
+- Fonctions exécutives: restauration
+- Négligence unilatérale  
+  Contrainte induite, réalité virtuelle, rTMS, smooth pursuit, stimulation optocinétique, theta-burst stimulation
+- Troubles attentionnels: rééducation des sous-composantes attentionnelles
+- Communication
+  Acupuncture, musicothérapie, rééducation de la dysarthrie, rééducation des alexies et des agraphies, stimulation corticale épidurale
+- Agnosies: rééducation
+{{%/warning%}}
+
+### Reprise de la rééducation en hospitalisation à la phase chronique de l'AVC
+
+Rééducation hospitalière envisageable pour une Évaluation spécialisée courte et une Rééducation du langage et de la communication.
 
 {{% /collapse %}}
 {{%collapse "Éducation de la population et des personnes à risque" %}}
@@ -293,6 +339,7 @@ Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de tr
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Rééducation à la phase chronique d'un AVC de l'adulte : Pertinence, indications et modalités. 02/06/2022.](https://www.has-sante.fr/jcms/p_3150692/fr/reeducation-a-la-phase-chronique-d-un-avc-de-l-adulte-pertinence-indications-et-modalites)
 - {{< references/sfd-dt2 >}}
 - [Kleindorfer DO et al. 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2021.](https://www.ahajournals.org/doi/10.1161/STR.0000000000000375)
 - {{< references/esc-dyslipidemie >}}
