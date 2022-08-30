@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-02T11:46:00+02:00"
 publishdate = "2021-03-02"
-lastmod = "2022-03-20"
+lastmod = "2022-08-30"
 specialites = ["cardiologie"]
 annees = "2020"
 sources = ["HAS"]
@@ -23,10 +23,10 @@ todo = "ESC, surveillance (aggrav signes + IRC), psycho, social, fam"
 
 - Suspecter une HTAP devant dyspnée d'effort inexpliquée, syncope, signes droits
 - Adresser au cardiologue avec biologie + RxT
-- Suivi annuel en centre de référence
+- Suivi annuel en centre de référence ([liste des centres de référence de l'HTAP](https://respifil.fr/ou-consulter/))
 - Dépistage systématique en pathologie à haut risque d'HTAP
-- [Liste des centres de référence de l'HTAP](https://respifil.fr/ou-consulter/)
-- Prochaines recommandations ESC durant l'année
+
+Dernières recommandations ESC 2022 non intégrées pour l'instant
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -63,6 +63,7 @@ RxT
 
 Causes d'hypertension artérielle pulmonaire (HTAP):
 
+- Idiopathique surtout
 - Héréditaire
 - Congénitale
 - Secondaire à une pathologie générale  
@@ -70,9 +71,9 @@ Causes d'hypertension artérielle pulmonaire (HTAP):
 - Secondaire à une maladie respiratoire
 - Secondaire à une cardiopathie gauche
 - Secondaire à une maladie thromboembolique chronique
-- Iatrogène  
-  Anorexigènes, immunothérapies...
-- Idiopathique surtout
+- Iatrogène (10% selon *Badesch DB 2010*)  
+  Anorexigènes (amphétamines, méthylphénidate), immunothérapies (inhibiteurs tyrosine-kinase BCR-ABL), alkylants, immunosuppresseurs (léflunomide, interférons), sofosbuvir, dérivés de l'ergot de seigle ...  
+  Pendant la grossesse: IRS, AINS
 
 {{% /collapse %}}
 {{%collapse "Dépistage systématique de l'HTAP" %}}
@@ -87,21 +88,21 @@ Dépistage systématique de l'hypertension artérielle pulmonaire (HTAP) par éc
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Les symptômes prédominent **à l'effort**.  
-Les signes cliniques de l'hypertension artérielle pulmonaire sont peu spécifiques et doivent être évoqués à tout âge devant:
+Les symptômes de l'hypertension artérielle pulmonaire prédominent **à l'effort**.  
+Les signes cliniques de l'HTAP sont peu spécifiques et doivent être évoqués à tout âge devant:
 
 {{%info%}}
 
-- **Dyspnée d'effort** inexpliquée malgré le bilan
+- **[Dyspnée d'effort](/tags/dyspnee/)** inexpliquée malgré le bilan
   - Principal symptôme
   - Valeur pronostique du {{< modal-btn score-nyha >}}score NYHA{{< /modal-btn >}} au diagnostic
-  - Chronique et d'aggravation progressive
-- Asthénie et fatigue à l'effort
+  - Dyspnée chronique et d'aggravation progressive
+- [Asthénie et fatigue à l'effort](/tags/fatigue/)
 - Syncope et lipothymies (à l'effort)
 - Angor
 - Hémoptysie
 - Signes d'HTP: insuffisance tricuspide ou pulmonaire
-- Signes d'insuffisance cardiaque droite
+- Signes d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) droite
 {{%/info%}}
 
 ### Interrogatoire
@@ -157,31 +158,26 @@ C'est le **cathétérisme cardiaque** droit qui affirme le diagnostic. Il est r�
 
 Le traitement relève uniquement du centre de référence. Le suivi est au moins annuel.
 
-- ALD n°5
-- Observance
-- Tolérance des traitements
+- [ALD n°5]({{< relref "affection-longue-duree.md" >}})
+- Observance et tolérance des traitements
 - Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
+- [RespiFil - Le site de référence d'informations sur l'HTAP](https://respifil.fr/maladies/hypertension-pulmonaire/)
 - Proposer des associations de patients  
   [HTapFrance](http://www.htapfrance.com/new.asp), [France Assos Sante](https://www.france-assos-sante.org/)
 
 {{% /collapse %}}
-{{%collapse "Information du patient" %}}
-
-[RespiFil - Le site de référence](https://respifil.fr/maladies/hypertension-pulmonaire/)
-
-{{% /collapse %}}
 {{%sources%}}
 
+- [Collège des Enseignants de Pneumologie (CEP). Hypertension artérielle pulmonaire. Item 222. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2021/01/item_222_HTP_2021v2.pdf)
 - [HAS. Hypertension artérielle pulmonaire. PNDS. 2020.](https://www.has-sante.fr/jcms/p_3167172/fr/hypertension-arterielle-pulmonaire)
+- Prescrire Redaction. Hypertensions artérielles pulmonaires d'origine médicamenteuse. Avril 2020.
 - [Collège National des Enseignants de Cardiologie. Hypertension artérielle pulmonaire de l'enfant et de l'adulte. Item 222. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch19_hypertension_pulmonaire.pdf)
-- [Collège des enseignants de pneumologie. Hypertension artérielle pulmonaire. Item 222. 2017. (PDF)](http://cep.splf.fr/wp-content/uploads/2018/09/item_222_HTP_2017-cor2018.pdf)
 - [Orphanet. Hypertension artérielle pulmonaire idiopathique/familiale.](https://www.orpha.net/consor/www/cgi-bin/OC_Exp.php?lng=FR&Expert=422)
 
 ### À lire
 
-- [Collège des Enseignants de Pneumologie (CEP). Hypertension artérielle pulmonaire. Item 222. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2021/01/item_222_HTP_2021v2.pdf)
+- [Humbert M. et al; ESC/ERS Scientific Document Group. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension: Developed by the task force for the diagnosis and treatment of pulmonary hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS). Endorsed by the International Society for Heart and Lung Transplantation (ISHLT) and the European Reference Network on rare respiratory diseases (ERN-LUNG). European Heart Journal. 2022.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehac237/6673929?login=false)
 - [Delcroix M. et al. ERS statement on chronic thromboembolic pulmonary hypertension. European Respiratory Journal. 2021.](https://erj.ersjournals.com/content/57/6/2002828)
-- [Galiè N. et al. 2015 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension: The Joint Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS): Endorsed by: Association for European Paediatric and Congenital Cardiology (AEPC), International Society for Heart and Lung Transplantation (ISHLT). European Heart Journal. 2016.](https://academic.oup.com/eurheartj/article/37/1/67/2887599)
 
 {{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}

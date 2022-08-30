@@ -317,6 +317,7 @@ window.onload = () => {
 ### À lire
 
 - [Thivolet C. et al. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)
+- [Jarl Emanuel Strange. eposter. Risk of heart failure following short-term non-steroidal anti-inflammatory drug use in patients with type 2 diabetes mellitus; communiqué ESC. ESC 26 août 2022.] : éviter toute prise d'AINS
 
 {{%/sources%}}
 {{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}

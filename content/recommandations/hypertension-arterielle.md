@@ -349,8 +349,7 @@ En l'absence de MCV, calculer le risque {{< scores/heartscore >}}.
 - Toujours associé aux mesures hygiéno-diétetiques et surveillance de l'observance
 - Privilégier d'emblée une bithérapie en essayant de conserver un seul comprimé  
   Préférer une monothérapie si PAS < 150 mmHg ou ≥ 80 ans.
-- Le traitement pris le soir est plus efficace et réduit les événements CV (*[ChronoTrial](https://doi.org/10.1093/eurheartj/ehz754)*)  
-  Le principal: le traitement doit être pris.
+- Aucune différence entre une prise le matin ou le soir (*étude TIME*)
 - Pas d'arrêt du traitement sur le seul critère d'âge
 - Les bêtabloquants sont privilégiés en maladie cardiovasculaire (insuffisance cardiaque, angor, infarctus, FA) ou grossesse
 - Suivi tous les 3-6 mois

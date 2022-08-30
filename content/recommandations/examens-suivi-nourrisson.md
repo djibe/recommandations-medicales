@@ -45,7 +45,7 @@ Examens médicaux de la naissance à 16 ans, réalisés en **tiers payant total 
 {{< table title="Examens de suivi du nourrisson remboursés à 100% selon l'Arrêté du 26/02/2019" >}}
 | N°    | Âge           | Cotation MG |
 |------:|:-------------:|:-----------:|
-| 1     | **Dans les 8 premiers jours** | COE (46€) |
+| 1     | **Dans les 8 premiers jours** | COE (46€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |
 | 2     | 13 ou 14 jours | COD (30€) |
 | 3     | 1 mois | COD (30€) |
 | 4     | 2 mois | COD (30€) |
@@ -53,11 +53,11 @@ Examens médicaux de la naissance à 16 ans, réalisés en **tiers payant total 
 | 6     | 4 mois | COD (30€) |
 | 7     | 5 mois | COD (30€) |
 | 8     | 6 mois | COD (30€) |
-| 9     | **9 mois** | COE (46€) |
+| 9     | **9 mois** | COE (46€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12597.do)) |
 | 10    | 12 mois | COD (30€) |
 | 11    | 13 mois | COD (30€) |
 | 12    | 16 à 18 mois | COD (30€) |
-| 13    | **24 ou 25 mois** | COE (46€) |
+| 13    | **24 ou 25 mois** | COE (46€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12598.do)) |
 | 14    | 3 ans | COD (30€) |
 | 15    | 4 ans | COD (30€) |
 | 16    | 5 ans | COD (30€) |

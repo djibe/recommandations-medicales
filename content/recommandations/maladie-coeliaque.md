@@ -1,7 +1,8 @@
 +++
 title = "Maladie cœliaque"
 prefix = "la "
-titleSeo = "Maladie cœliaque"
+longHtml = true
+titleSeo = "Maladie cœliaque (gluten)"
 description = "Recommandations pour le dépistage et le diagnostic de la maladie cœliaque. Endoscopie digestive, IgA totales et IgA anti-transglutaminase, régime sans gluten"
 synonyms = ["Intolérance au gluten", "allergie au gluten", "sprue cœliaque", "cœliaquie"]
 auteurs = ["Jean-Baptiste FRON"]

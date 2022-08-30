@@ -7,7 +7,7 @@ synonyms = ["Migraine avec ou sans aura", "aura migraineuse"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-12T13:03:13+01:00"
 publishdate = "2022-02-17"
-lastmod = "2022-04-30"
+lastmod = "2022-08-30"
 specialites = ["neurologie"]
 annees = "2021"
 sources = ["SFEMC", "CNGOF"]
@@ -17,7 +17,7 @@ sctid = "37796009"
 flowchart = true
 image = true
 imageSrc = "Illustration de la migraine par stories / Freepik"
-todo = "titration Propranolol et topiramate, recouper THM, Prescrire, EHF, migraine abdo enfant, https://ansm.sante.fr/actualites/topiramate-pregabaline-et-valproate-publication-de-nouvelles-donnees-sur-les-risques-lies-a-lexposition-a-ces-medicaments, https://play.google.com/store/apps/details?id=ai.vik.migraine&hl=fr"
+todo = "titration Propranolol et topiramate, recouper THM, EHF, https://ansm.sante.fr/actualites/topiramate-pregabaline-et-valproate-publication-de-nouvelles-donnees-sur-les-risques-lies-a-lexposition-a-ces-medicaments, https://play.google.com/store/apps/details?id=ai.vik.migraine&hl=fr"
 +++
 
 {{%article-summary%}}
@@ -31,8 +31,7 @@ todo = "titration Propranolol et topiramate, recouper THM, Prescrire, EHF, migra
   - Crise légère: AINS, triptan si persistance à H1
   - Crise modérée à sévère: triptan et AINS si persistance à H1
   - Aura: AINS d'emblée et attendre le début de la céphalée pour prendre le triptan. Contre-indication aux estrogènes
-  - Nausées/vomissements: métoclopramide
-  - Jamais d'opiacés
+  - Jamais d'opiacés ; nausées/vomissements: métoclopramide
 - Traitement de fond
   - Indications: crises ou traitement de crise ≥ 8 j/mois depuis ≥ 3 mois ou {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50% des épisodes ou crises invalidantes malgré un traitement de crise optimal
   - < 15 j/mois (dite épisodique): propranolol ou métoprolol ≥ 3 mois. Si échec ou contre-indication: amitriptyline, candésartan ou topiramate
@@ -141,12 +140,12 @@ Critères A à E remplis:
 L'**osmophobie** (dégoût des odeurs) est très spécifique de la crise migraineuse.  
 La douleur typique est frontale, orbitale, temporale et occipitale. Fréquemment cervicale et attribuée à tort à une névralgie d'Arnold.
 
-**Autres symptômes non douloureux:** allodynie, fatigue, bâillements, difficultés de concentration, changements d'humeur, raideur nucale, pâleur et vertiges.
+**Autres symptômes non douloureux:** allodynie, fatigue, bâillements, difficultés de concentration, changements d'humeur, raideur nucale, pâleur et [vertiges](/tags/vertige/).
 
-**Signes autonomes possibles:** rougeur conjonctivale, larmoiement, congestion nasale, rhinorrhée, œdème de paupière, myosis ou ptosis (différencier d'AVF).  
+**Signes autonomes possibles:** rougeur conjonctivale, larmoiement, congestion nasale, rhinorrhée, œdème de paupière, myosis ou ptosis (différencier d'une [algie vasculaire de la face]({{< relref "algie-vasculaire-face.md" >}})).  
 Ces symptômes peuvent précéder la crise de 2 jours et persister 2 jours après sa résolution.
 
-Si l'un des critères A, B, C ou D n'est pas rempli en totalité: **migraine sans aura probable**.
+Si l'un des critères A, B, C ou D n'est pas rempli en totalité = **migraine sans aura probable**.
 
 ### Critères de la migraine avec aura
 
@@ -185,7 +184,7 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
 ### Interrogatoire
 
 - Antécédents  
-  Familiaux, autres douleurs...
+  Familiaux, autres douleurs ...
 - Alcool, tabac
 - Risques de chronicisation
   - Rechercher un syndrome anxieux/dépressif ({{< modal-btn modal-had >}}échelle HAD{{< /modal-btn >}})
@@ -282,7 +281,7 @@ Ne pas culpabiliser l'abus médicamenteux en migraine chronique (effet délétè
 
 {{%info%}}
 
-### Exemple de prescription
+### Exemple de prescription du traitement de crise antimigraineux
 
 Prendre dès le début des symptômes (avoir sur soi et prise dans l'heure):
 
@@ -302,7 +301,7 @@ Prescrire AINS et triptan selon les traitements déjà essayés et préférences
   - Pas de traitement médicamenteux spécifique contre l'aura
 - AINS et triptan mal tolérés: essayer aspirine voire paracétamol + métoclopramide
 
-#### Traitements disponibles
+#### Traitements antimigraineux disponibles
 
 ##### Traitements non spécifiques
 
@@ -333,11 +332,11 @@ Les triptans:
 - Reconsulter si triptan pris > 8 jours/mois
 - ≥ 3 essais du triptan lors de crises différentes avant de conclure à une inefficacité de la molécule (sauf mauvaise tolérance)
 
-#### Réévaluation du traitement de la crise
+#### Réévaluation du traitement de la crise migraineuse
 
 Réévaluation de la prise en charge par le traitement de crise à chaque consultation avec le {{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}} (concerne AINS, triptan, paracétamol...)
 
-#### Absence de réponse aux traitements
+#### Absence de réponse aux traitements antimigraineux
 
 On parle de résistance après échec sur ≥ 3 crises de ≥ 2 traitements essayés en posologies/voies optimales des AINS et des triptans. Demander une avis neurologique.
 
@@ -345,7 +344,7 @@ On parle de résistance après échec sur ≥ 3 crises de ≥ 2 traitements essa
 
 Efficacité prouvée: Neuromodulation électrique. Sur prescription spécialisée uniquement.
 
-### Pour en savoir plus: autres traitements non spécifiques
+### Pour en savoir plus: autres traitements non spécifiques de la migraine
 
 - Paracétamol 1g
 - Paracétamol + caféine 500/50 (efficacité comparable sumatriptan)  
@@ -356,7 +355,7 @@ Efficacité prouvée: Neuromodulation électrique. Sur prescription spécialisé
   - Essai suppositoire si mal toléré (kétoprofène, naproxène, diclofénac)
 - Aspirine 1g (± métoclopramide Migpriv)
 - Nausées et vomissements  
-Métoclopramide 10 mg voire dompéridone 10 mg sont efficaces.
+  Métoclopramide 10 mg voire dompéridone 10 mg sont efficaces.
 
 {{% /collapse %}}
 {{%collapse "Traitement de fond de la migraine" %}}
@@ -392,7 +391,8 @@ Autres thérapies avec efficacité prouvée: relaxation, rétro-contrôle (biofe
 Prise en charge par traitement de fond au moins 3 mois avant de conclure à une inefficacité:
 
 - Migraine épisodique {{%class%}}(< 15 j/mois){{%/class%}}
-  - [Propranolol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65135519&typedoc=R) 20-240 mg/j en 2 prises ou LP matin  
+  - [Propranolol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65135519&typedoc=R) 20-240 mg/j en 2 prises ou LP matin.  
+  Débuter à 40 mg x 2-3/j avec paliers de 40 mg/semaine (*Prescrire*). Pas d'arrêt brutal.
   Effets indésirables: asthénie, mauvaise tolérance à l'effort; Contre-indications des BB.
   - [Métoprolol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62837759&typedoc=R) LP 50-200 mg le matin
   - Alternatives aux bêtabloquants: amitriptyline, candésartan ou topiramate
@@ -549,6 +549,7 @@ graph TB
 - [Demarquay G. et al. Revised guidelines of the French headache society for the diagnosis and management of migraine in adults. Part 3: Non-pharmacological treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.009)
 - [Lucas C. Migraine with aura. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.010)
 - [Donnet A. et al. Severe migraine and its control: A proposal for definitions and consequences for care. Revue neurologique. 2021.](https://doi.org/10.1016/j.neurol.2020.11.012)
+- Prescrire Redaction. Migraine : prévention des crises chez un adulte. Premiers choix Prescrire. Mai 2021.
 - [Lanteri-Minet M. et al. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant. Revue Neurologique. 2013. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20sur%20la%20prise%20en%20charge%20diagnostique%20et%20th%C3%A9rapeutique%20de%20la%20migraine%20chez%20l%2527adulte%20et%20chez%20l%2527enfant%20(1).pdf)
 - [Anaes. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant : aspects cliniques et économiques. Recommandations de bonne pratique. Octobre 2002.](https://www.has-sante.fr/jcms/c_272212/fr/prise-en-charge-diagnostique-et-therapeutique-de-la-migraine-chez-l-adulte-et-chez-l-enfant-aspects-cliniques-et-economiques)
 - [ICHD-3 version française 2019 (PDF)](https://ichd-3.org/wp-content/uploads/2019/06/ICHD3-traduction-fran%C3%A7aise-VF-%C3%A0-publier.pdf)

@@ -54,13 +54,11 @@ Le diagnostic de la maladie est certain devant l'association des 4 signes et sym
 
 ### Maladie de Menière probable
 
-- ≥ 2 crises de vertiges durant de 20 min à 12 h
+- Au moins 2 crises de vertiges durant de 20 minutes à 12 heures
 - Fluctuation des symptômes otologiques (surdité, acouphènes, sensation de plénitude) dans l'oreille malade
 - Absence d'autre cause identifiée
 
 ### Échelle de niveau fonctionnel
-
-> *Ménière's Disease Outcome Questionnaire, AAO-HNS 1995*
 
 Qualité de vie et suivi de la Maladie de Menière avec les 6 questions:
 
@@ -70,6 +68,8 @@ Qualité de vie et suivi de la Maladie de Menière avec les 6 questions:
 4. Je suis capable de travailler, conduire, m'occuper de ma famille, de m'impliquer dans la plupart de mes activités, mais cela me demande constamment des efforts importants, et me demande d'économiser mon énergie.
 5. Je suis incapable de travailler, de conduire, de m'occuper de ma famille, ou de m'impliquer dans la plupart des activités que j'avais l'habitude de faire. Même les activités essentielles me sont difficiles à réaliser. Je suis handicapé(e).
 6. J'ai arrêté de travailler depuis un an ou plus et/ou je touche une indemnisation à cause de mes problèmes de vertiges ou déséquilibre.
+
+> *Ménière's Disease Outcome Questionnaire, AAO-HNS 1995*
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
