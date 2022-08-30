@@ -2,11 +2,11 @@
 title = "Périphériques pour l'ordinateur (imprimante, webcam, clavier ...)"
 titleSeo = "Périphériques pour l'ordinateur du médecin"
 noindex = true
-description = "Quel ordinateur pour le médecin généraliste ? Conseils pour un ordinateur performant au cabinet de médecine générale. Configuration minimale et pièges à éviter"
+description = "Quels périphériques pour le PC du médecin ? Conseils sur les écrans, imprimantes, claviers, souris, routeurs et webcams pour soigner avec plaisir"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T19:15:00+02:00"
 publishdate = "2022-05-15"
-lastmod = "2022-08-12"
+lastmod = "2022-08-30"
 specialites = []
 sources = []
 tags = []
@@ -64,13 +64,15 @@ Un écran de bureautique moderne doit être de 27 pouces, parce que comme les di
 Si le son ne vous convient pas, vous pourrez investir dans des écouteurs, casque ou hauts-parleurs plus tard.  
 À vous de choisir le style.
 
-Si vous avez de bons yeux, l'écran doit être de résolution WQHD (ou QHD 2560 x 1440 pixels)
+Si vous avez de bons yeux, **l'écran doit être de résolution WQHD** (ou simplement QHD soit 2560 x 1440 pixels).
 
-Mon choix: [Dell S2721DS](https://ledenicheur.fr/product.php?p=5485696)
+{{%info%}}
+Mon choix: [Dell S2721DS](https://ledenicheur.fr/product.php?p=5485696) (joli avec un son de bonne qualité)
 
 Autres modèles QHD [parmi cette liste](https://ledenicheur.fr/c/ecrans?1705=2717&528=834&544=13606%7C16660%7C25920&b_1624=1&b_3453=1&r_89=27-28&sort=price_includes_shipping) (vérifiez les critères cités plus haut pour le pied réglable etc ...).
+{{%/info%}}
 
-Sinon, vous pouvez prendre un écran FullHD (1920 x 1080 pixels)
+Sinon, vous pouvez prendre un écran FullHD (1920 x 1080 pixels, au risque de voir les pixels rendant la lecture difficile)
 
 - [ViewSonic XG2705-2K - 250€](https://ledenicheur.fr/product.php?p=5699238)
 - [Iiyama G-Master GB2730HSU-B1 - 200€](https://ledenicheur.fr/product.php?p=4807294)
@@ -82,10 +84,10 @@ Autres: [Acer Nitro XV272UP](https://ledenicheur.fr/product.php?p=5008145), [Phi
 {{% /collapse %}}
 {{%collapse "Claviers et souris" %}}
 
-Ensembles sans fil pour ne pas avoir un fil à la patte.  
+Ensembles sans fils pour ne pas avoir un fil à la patte.  
 Le clavier numérique dédié est indispensable pour entrer facilement les valeurs de tensions ou autres valeurs dans le dossier patient.
 
-Classement composite d'après *LesNumerique*, *01Net* ou autre, par ordre de qualité.
+Classement composite d'après *LesNumerique*, *01Net* et autres, par ordre de qualité.
 
 ### Claviers sans fil
 
@@ -118,15 +120,15 @@ Classement composite d'après *LesNumerique*, *01Net* ou autre, par ordre de qua
 
 Webcams avec une qualité d'image suffisante pour une téléconsultation et avec un microphone intégré.
 
-- [Logitech HD Pro Webcam C920S - 72€](https://ledenicheur.fr/product.php?p=5064507)
-- [Microsoft LifeCam HD-3000 - 25€](https://ledenicheur.fr/product.php?p=829887)
+- [Logitech HD Pro Webcam C920S - 72€ (FullHD)](https://ledenicheur.fr/product.php?p=5064507)
+- [Microsoft LifeCam HD-3000 - 25€ (image 720p)](https://ledenicheur.fr/product.php?p=829887)
 {.list-group}
 
 {{% /collapse %}}
 {{%collapse "Routeurs ethernet Gigabit" %}}
 
 Routeurs (ou switchs) réseau au protocole Gigabit (aussi appelé 10/100/1000 Mbps). Ils permettent de brancher plusieurs appareils du réseau local (PC, lecteur de carte bleue, téléphone).  
-1000 Mbps / 8 = 125 Mo/seconde (théoriques), suffisants pour faire de la téléconsultation.  
+1000 Mbps / 8 = 125 Mo/seconde (théoriques), amplement suffisants pour faire de la téléconsultation et utiliser son dossier patient Cloud.  
 Il faut bien noter que les câbles réseaux doivent être de catégorie 5e ou plus (CAT5e - les moins chers et suffisants, CAT6 ...).
 
 Le routeur classique comprend 5 ports, reste à choisir la couleur et le format.
