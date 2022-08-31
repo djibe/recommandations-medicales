@@ -24,21 +24,21 @@ Ensemble de périphériques pour l'utilisation bureautique quotidienne au cabine
 
 Imprimantes choisies par 01Net et UFC Que Choisir.
 
-### Imprimantes laser avec toners compatibles
+### Imprimantes laser noir & blanc avec toners compatibles
 
-Imprimantes laser monochromes Wi-Fi (non multifonction) permettant d'utiliser des toners compatibles moins chers (17€ contre 80€ chez CartoucheMania, Tinkco, Toner.fr ...), triées par note *UFC Que Choisir* et mon coup de cœur en premier:
+Imprimantes laser monochromes Wi-Fi (non multifonction) permettant d'utiliser des **toners compatibles moins chers** (ex: 18€ contre les 80€ officiels grâce aux boutiques *CartoucheMania*, *Tinkco*, *Toner.fr* ...), triées par note *UFC Que Choisir* et mon coup de cœur en premier:
 
-- [Choix: Brother HL-L2350DW (vitesse, petite taille, R/V, coûts d'utilisation) - 140€](https://ledenicheur.fr/product.php?p=4549237)
-- [Brother HL-L2375DW](https://ledenicheur.fr/product.php?p=4533630)
-- [HP Laser 107W](https://ledenicheur.fr/product.php?p=5184291)
-- Canon i-Sensys LBP113w (pas de toners compatibles)
-- HP Laserjet Pro M404dw
-- Canon i-Sensys LBP223dw
+- [Choix: Brother HL-L2350DW (vitesse, petite taille, R/V, coût d'utilisation) - 140€](https://ledenicheur.fr/product.php?p=4549237)
+- [Brother HL-L2375DW (idem + réseau) - 175€](https://ledenicheur.fr/product.php?p=4533630)
+- [HP Laser 107W - 300€](https://ledenicheur.fr/product.php?p=5184291)
+- Canon i-Sensys LBP113w (pas de toners compatibles ++, réseau, TODO: successeur)
+- [HP Laserjet Pro M404dw - 280€](https://ledenicheur.fr/product.php?p=5135208)
+- [Canon i-Sensys LBP223dw - 250€ (réseau)](https://ledenicheur.fr/product.php?p=6030116)
 {.list-group}
 
-### Imprimante laser couleur multifonctions avec toners compatibles
+### Imprimante laser noir & blanc multifonctions avec toners compatibles
 
-[Brother MFC-L2750DW - 260€](https://ledenicheur.fr/product.php?p=4549236)
+[Brother MFC-L2750DW - 320€](https://ledenicheur.fr/product.php?p=4549236)
 
 ### Autres à étudier
 
@@ -50,10 +50,26 @@ Imprimantes laser monochromes Wi-Fi (non multifonction) permettant d'utiliser de
 - Xerox b210
 - Hp laserjet m209dwe
 
-Tout en 1
+Tout en 1:
 
 - Brother MFC-L2750DW 5 Lesnum
 - HP M227fdw
+
+{{% /collapse %}}
+{{%collapse "Scanners" %}}
+
+### Scanner barrette
+
+Je n'aborde pour l'instant que les petits scanners "barrette" (de poche).  
+Ils ne sont toutefois adaptés que si vous avez un(e) secrétaire au cabinet.
+
+Certains sont autonomes, stockant en mémoire interne permettant de numériser les documents des patients polypathologiques en visite (à moins que vous n'utilisiez le smartphone).
+
+- [Brother DS-740D - 160€ (autonome, 15 ppm, R/V)](https://ledenicheur.fr/product.php?p=5313874)
+- Brother DS-940DW - 200€ (idem + Wi-Fi)
+- [Fujitsu ScanSnap iX100 - 230€](https://ledenicheur.fr/product.php?p=2783702)
+- [Epson Workforce ES-50 - 130€](https://ledenicheur.fr/product.php?p=4979048)
+{.list-group}
 
 {{% /collapse %}}
 {{%collapse "Écrans" %}}

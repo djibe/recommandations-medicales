@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
 publishdate = "2022-07-20"
-lastmod = "2022-08-26"
+lastmod = "2022-08-31"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "HCSP", "MinSanté"]
@@ -16,7 +16,6 @@ anglais = ["Monkeypox"]
 sctid = "359814004"
 image = true
 imageSrc = "Illustration du Monkeypox par brgfx / www.freepik.com"
-todo = "https://www.sexosafe.fr/Variole-du-singe"
 +++
 
 {{%article-summary%}}
@@ -40,7 +39,7 @@ Monkeypox ou variole du singe
 : Maladie infectieuse liée virus Monkeypox (MPXV, orthopoxvirus). Contamination directe par muqueuse ou peau lésée ou gouttelettes. Contamination également possible par literie, vêtements, vaisselle, linge de bain ...  
 Les zones d'endémie sont les zones forestières d'Afrique du Centre et de l'Ouest avec contamination par des rongeurs sauvages ou des primates (zoonose) puis dans le foyer familial.
 : Complications de la variole du singe: surinfection cutanées bactériennes, infections respiratoires basses, sepsis, encéphalite, kératites, ou gastro-intestinales avec pertes liquidiennes (*HCSP mai 2022*).
-: 3421 cas confirmés en France au 23 août, à 96% des [HSH]({{< relref "hsh.md" >}}) sans aucun décès en France.
+: 3547 cas confirmés en France au 29 août, à 96% des [HSH]({{< relref "hsh.md" >}}) sans aucun décès en France.
 
 Cas suspect de Monkeypox
 : Signes cliniques évocateurs de Monkeypox sans exposition à risque. Diagnostic biologique.
@@ -214,7 +213,8 @@ Antiviral disponible en gélules indiqué chez les personnes à **risque de form
 {{% /collapse %}}
 {{%sources%}}
 
-- [Santé Publique France. Cas de variole du singe : point de situation au 23 août 2022. 25/08/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-23-aout-2022)
+- [Santé Publique France. Cas de variole du singe : point de situation au 29 août 2022. 30/08/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-29-aout-2022)
+- [Ameli. Virus Monkeypox : les recommandations sur la prise en charge et la vaccination. 16/08/2022.](https://www.ameli.fr/medecin/actualites/virus-monkeypox-les-recommandations-sur-la-prise-en-charge-et-la-vaccination)
 - [DGS-Urgent 2022_70, 65, 61, 58. 05/08/2022.](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [Ministère de la Santé. Fiche de synthèse << variole du singe >> à destination des professionnels de santé. 05/08/2022. (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/fiche_de_synthese_a_destination_des_professionnels_de_sante_040822.pdf)
 - [Vaccination Info Service. Variole du singe (Monkeypox). 22/07/2022.](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Variole-du-singe-Monkeypox)
@@ -233,5 +233,6 @@ Antiviral disponible en gélules indiqué chez les personnes à **risque de form
 
 - [COREB. Monkeypox - Prendre en charge les patients.](https://www.coreb.infectiologie.com/fr/prendre-en-charge-les-patients-fiches-pratiques.html)
 - [SPILF. Monkeypox: actualités mise à jour. 18/07/2022.](https://www.infectiologie.com/fr/actualites/monkeypox-actualites-mise-a-jour_-n.html)
+- <https://www.sexosafe.fr/Variole-du-singe>
 
 {{%/sources%}}
