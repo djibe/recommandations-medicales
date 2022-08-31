@@ -197,8 +197,13 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
 - [SNFGE. Traitement du RGO. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
 - [HAS et CNPHGE. Diagnostic de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
 - [SFED et CREGG. Fiche de Recommandation sur la prévention des cancers digestifs par endoscopie. 14/03/2014.](https://www.cregg.org/commissions/prevention-des-cancers-par-endoscopie/fiches-de-recommandations-prevention-des-cancers-par-endoscopie/prevention-du-cancer-de-l-estomac-2/)
-- [HAS. Cancer de l'estomac. Guide ALD. Septembre 2011.](https://www.has-sante.fr/jcms/c_1105137/fr/ald-n-30-cancer-de-l-estomac)
+- [HAS, INCa. Cancer de l'estomac. Guide ALD. Septembre 2011.](https://www.has-sante.fr/jcms/c_1105137/fr/ald-n-30-cancer-de-l-estomac)
 - [Collège Français des Pathologistes (CoPath). Tumeurs de l'estomac. Item 300.](http://campus.cerimes.fr/anatomie-pathologique/enseignement/anapath_19/site/html/2.html)
+
+### À lire
+
+- [INCa. Médecins traitants : Acteurs de la prévention du cancer de l'estomac. Février 2013. ](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Medecins-traitants-Acteurs-de-la-prevention-du-cancer-de-l-estomac)
+- [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique Cancer gastrique diffus héréditaire. (PDF)](https://www.e-cancer.fr/content/download/58352/531992/file/chir_prophy_predi_gene_gastrique.pdf)
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}

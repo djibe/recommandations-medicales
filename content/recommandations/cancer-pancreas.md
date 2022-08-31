@@ -134,6 +134,9 @@ Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr/).
 
 ### À lire
 
-[CDU-HGE. Tumeur du pancréas. Item 308. 2021. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Formation/dsn_cdu-hge_2021-juillet.pdf)
+- [CDU-HGE. Tumeur du pancréas. Item 308. 2021. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Formation/dsn_cdu-hge_2021-juillet.pdf)
+- [INCa. Cancer du pancréas - Du diagnostic au suivi. Juin 2020. (PDF)](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-digestifs)
+- [INCa. Les cancers du pancréas en 12 points clés. Juin 2020. (PDF)](https://www.e-cancer.fr/content/download/291472/4150728/file/Cancer_du_pancreas_points-cles_mel_20200605.pdf)
+- [INCa. Synthèse - Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Septembre 2019. (PDF)](https://www.e-cancer.fr/content/download/278143/3948778/file/Synthese_CAT_patients_atteints_adenocarcinomes_pancreas_mel_20191118.pdf)
 
 {{%/sources%}}

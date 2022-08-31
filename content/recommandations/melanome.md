@@ -310,4 +310,8 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 - [Collège National des Enseignants de Dermatologie. Item 149 : Tumeurs cutanées épithéliales et mélaniques : mélanomes. 2011. (PDF)](http://campus.cerimes.fr/dermatologie/enseignement/dermato_26/site/html/cours.pdf)
 - [SFDermato. Recommandations pour la Pratique Clinique : Standards, Options et Recommandations 2005 pour la prise en charge des patients adultes atteints d'un mélanome cutané MO. Décembre 2005. (PDF)](https://www.oncoderm.fr/upload/recommandations/9738-Prise-en-charge-des-meAlanome.pdf)
 
+### À lire
+
+[INCa. Détection précoce des cancers de la peau - Médecins généralistes. Octobre 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Detection-precoce-des-cancers-de-la-peau-Medecins-generalistes)
+
 {{%/sources%}}
