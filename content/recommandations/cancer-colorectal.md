@@ -26,8 +26,6 @@ TODO:
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-
-
 {{% /collapse %}}
 {{%collapse "Niveaux de risque de cancer colorectal" %}}
 

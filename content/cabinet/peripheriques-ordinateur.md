@@ -121,6 +121,7 @@ Classement composite d'après *LesNumerique*, *01Net* et autres, par ordre de qu
 - [Razer Pro Click Mini - 80€ (petites mains)](https://ledenicheur.fr/product.php?p=5935454)
 - [Logitech G Pro Wireless - 80€](https://ledenicheur.fr/product.php?p=4960533)
 - [Microsoft Classic Intellimouse - 35€](https://ledenicheur.fr/product.php?p=4526662)
+- [Trust Verto (souris ergonomique recommandée par un Divanais) - 17€](https://www.amazon.fr/Trust-22879-Souris-Noir/dp/B07FM2GLNQ/ref=sr_1_5)
 {.list-group}
 
 ### Ensembles clavier-souris
