@@ -6,7 +6,7 @@ breadcrumbTitle = "Projet"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-06T09:56:35+02:00"
 publishdate = "2021-07-07"
-lastmod = "2022-04-07"
+lastmod = "2022-09-06"
 chart = true
 +++
 
@@ -547,6 +547,8 @@ Dr JB Fron d'après [HAS 04/2022](https://www.has-sante.fr/upload/docs/applicati
 
 Initialement sur mon stockage personnel, mes fiches textes ne me permettaient pas de répondre à la complexité croissante de la médecine moderne: des scores, des arbres de décisions se décrivent difficilement avec des mots.  
 Cette limitation est récurrente sur les sites existants, pourtant d'une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net/), [doctofiche](https://doctofiche.fr/), [Medix](http://www.medix.free.fr/), [Ordotype](https://www.ordotype.fr/), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil), [WeLinkCare](https://www.welinkcare.com/).
+
+**RecoMédicales** n'est pas adapté aux étudiants. Voir [ECNi](https://www.ecni.fr/), [prepECN](https://prepecn.com/).
 
 ## Objectifs du Projet
 

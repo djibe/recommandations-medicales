@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
 publishdate = "2022-07-20"
-lastmod = "2022-08-31"
+lastmod = "2022-09-05"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "HCSP", "MinSanté"]
@@ -16,6 +16,7 @@ anglais = ["Monkeypox"]
 sctid = "359814004"
 image = true
 imageSrc = "Illustration du Monkeypox par brgfx / www.freepik.com"
+todo = "personnes contacts + flow avec https://www.has-sante.fr/jcms/p_3361191/fr/reponses-rapides-infection-par-le-virus-monkeypox-prise-en-charge-en-medecine-de-1er-recours"
 +++
 
 {{%article-summary%}}
@@ -39,7 +40,7 @@ Monkeypox ou variole du singe
 : Maladie infectieuse liée virus Monkeypox (MPXV, orthopoxvirus). Contamination directe par muqueuse ou peau lésée ou gouttelettes. Contamination également possible par literie, vêtements, vaisselle, linge de bain ...  
 Les zones d'endémie sont les zones forestières d'Afrique du Centre et de l'Ouest avec contamination par des rongeurs sauvages ou des primates (zoonose) puis dans le foyer familial.
 : Complications de la variole du singe: surinfection cutanées bactériennes, infections respiratoires basses, sepsis, encéphalite, kératites, ou gastro-intestinales avec pertes liquidiennes (*HCSP mai 2022*).
-: 3547 cas confirmés en France au 29 août, à 96% des [HSH]({{< relref "hsh.md" >}}) sans aucun décès en France.
+: 3646 cas confirmés en France au 1er septembre, à 96% des [HSH]({{< relref "hsh.md" >}}) sans aucun décès en France.
 
 Cas suspect de Monkeypox
 : Signes cliniques évocateurs de Monkeypox sans exposition à risque. Diagnostic biologique.
@@ -65,7 +66,7 @@ HSH
 : hommes ayant des relations sexuelles avec des hommes
 
 MPXV
-: monkeypox virus
+: monkeypox virus (virus de la variole du singe)
 
 PVVIH
 : personne vivant avec le VIH
@@ -120,6 +121,8 @@ La variole du singe est plus grave chez l'enfant et les immunodéprimés.
 
 ### Interrogatoire et examen clinique d'un patient suspect de Monkeypox
 
+Antécédents dont statut VIH +++ (et CD4+. Avis spécialisé)
+
 Signes et symptômes de la variole du singe:
 
 - Fièvre (76%) 1-3 jours
@@ -143,6 +146,8 @@ Appel du 15 pour l'avis d'un infectiologue en éruption douteuse.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
+
+Bilan des [IST](/tags/ist/) en cas de transmission sexuelle.
 
 ### Ordonnance devant des lésions évocatrices de Monkeypox
 
@@ -213,7 +218,8 @@ Antiviral disponible en gélules indiqué chez les personnes à **risque de form
 {{% /collapse %}}
 {{%sources%}}
 
-- [Santé Publique France. Cas de variole du singe : point de situation au 29 août 2022. 30/08/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-29-aout-2022)
+- [HAS. Réponses Rapides : Infection par le virus Monkeypox – Prise en charge en médecine de 1er recours. 05/09/2022.](https://www.has-sante.fr/jcms/p_3361191/fr/reponses-rapides-infection-par-le-virus-monkeypox-prise-en-charge-en-medecine-de-1er-recours)
+- [Santé Publique France. Cas de variole du singe : point de situation au 1er septembre 2022. 02/09/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-1er-septembre-2022)
 - [Ameli. Virus Monkeypox : les recommandations sur la prise en charge et la vaccination. 16/08/2022.](https://www.ameli.fr/medecin/actualites/virus-monkeypox-les-recommandations-sur-la-prise-en-charge-et-la-vaccination)
 - [DGS-Urgent 2022_70, 65, 61, 58. 05/08/2022.](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [Ministère de la Santé. Fiche de synthèse << variole du singe >> à destination des professionnels de santé. 05/08/2022. (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/fiche_de_synthese_a_destination_des_professionnels_de_sante_040822.pdf)

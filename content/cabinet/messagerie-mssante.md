@@ -9,6 +9,7 @@ sources = []
 tags = []
 image = true
 imageSrc = "slidesgo / Freepik"
+todo = "Apicrypt v2"
 +++
 
 MSSanté est le réseau de messagerie sécurisée des professionnels de santé réglementés de France. Mailiz est un service gratuit de messagerie MSSanté proposé par les Ordres de santé.

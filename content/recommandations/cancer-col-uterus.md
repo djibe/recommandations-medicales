@@ -235,6 +235,8 @@ En cas de ménopause induite, un [traitement hormonal]({{< relref "menopause.md"
 
 ### À lire
 
-[Marth C. et al. Cervical cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2017.](https://www.annalsofoncology.org/article/S0923-7534(19)42148-0/fulltext)
+- [INCa. Programme national de dépistage du cancer du col de l'utérus - Information RGPD. Janvier 2022](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Programme-national-de-depistage-du-cancer-du-col-de-l-uterus-Information-RGPD-Janvier-20224)
+- [INCa. Dépistage et prévention de cancer du col de l'utérus - Rôle du médecin et de la sage-femme. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Depistage-et-prevention-de-cancer-du-col-de-l-uterus-Role-du-medecin-et-de-la-sage-femme)
+- [Marth C. et al. Cervical cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2017.](https://www.annalsofoncology.org/article/S0923-7534(19)42148-0/fulltext)
 
 {{%/sources%}}

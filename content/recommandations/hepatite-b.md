@@ -49,7 +49,7 @@ VHB
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Personnes à vacciner" %}}
+{{%collapse "Personnes à vacciner contre l'hépatite B" %}}
 
 Indications à la vaccination hépatite B:
 
@@ -79,27 +79,27 @@ Indications à la vaccination hépatite B:
 > \* Contrôle de la réponse immunitaire au cas par cas  
 Hémodialyse et immunodépression avec exposition au risque: sérologie annuelle et rappel si anti-HBs < 10 UI/L.
 
-### Voyage - Faut-il vacciner contre l'hépatite B ?
+### Faut-il vacciner contre l'hépatite B pour un voyage ?
 
 {{< card-link title="Vaccins recommandés par l'Institut Pasteur pour un voyage" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
 
 {{% /collapse %}}
-{{%collapse "Vaccins disponibles" %}}
+{{%collapse "Spécialités de vaccins hépatite B et schéma vaccinal" %}}
 
 La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
 
 ### Vaccins hépatite B pour adultes
 
 - [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R)  
-Ne doit pas être injecté dans le fessier.
+  Ne doit pas être injecté dans le fessier.
 - [HBVaxPro 10®](https://ec.europa.eu/health/documents/community-register/2021/20210111150361/anx_150361_fr.pdf)
 
-### Vaccins hépatite B pour enfants < 15 ans
+### Vaccins hépatite B pour les enfants jusqu'à 15 ans
 
 - [Engerix B10®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65782652&typedoc=R)
 - [HBVaxPro 5®](https://ec.europa.eu/health/documents/community-register/2021/20210111150361/anx_150361_fr.pdf)
 
-#### Nourrisson
+#### Vaccins hépatite B pour les nourrissons
 
 Les hexavalents sont recommandés en 3 doses à 2 mois, 4 mois et 11 mois:
 
@@ -140,7 +140,7 @@ Précautions chez: sclérose en plaques.
 
 Porteur chronique de l'AgHBs: AgHBs + > 6 mois quelque soit les anti-HBc
 
-### À la réception du bilan
+### Bilan à la découverte d'une hépatite B active
 
 - Antécédents (familiaux hépatiques, pays de naissance)
 - Addictions  
@@ -207,7 +207,7 @@ Adresser au spécialiste avec le bilan initial:
   - Négativation de l'AgHBs: surveillance AgHBs et anti-HBs tous les 6 mois
   - Si anti-HBs+: surveillance tous les 3 mois pendant 1 an puis selon avis du spécialiste
 
-#### Patient non traité
+#### Suivi du patient porteur d'une hépatite B chronique non traitée
 
 Suivi minimum des patients AgHBs + non traités, en l'absence de, cirrhose et en l'absence de maladie grave du foie dans la famille:
 

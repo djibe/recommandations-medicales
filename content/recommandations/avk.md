@@ -1,12 +1,13 @@
 +++
-title = "Antivitamines K AVK"
+title = "Antivitamines K (AVK)"
 prefix = "les "
+titleSeo = "Antivitamines K AVK"
 description = "Recommandations pour le traitement par AVK. Conduite à tenir et prise en charge d'un surdosage selon l'INR, arrêt des anticoagulants avant chirurgie, éducation"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-24T22:57:41+01:00"
 publishdate = "2022-01-25"
-lastmod = "2022-01-25"
+lastmod = "2022-09-06"
 specialites = ["therapeutique"]
 annees = "2008"
 sources = ["HAS"]
@@ -18,79 +19,38 @@ imageSrc = ""
 todo = "adapt doses"
 +++
 
-{{%collapse "Warfarine" %}}
+{{%collapse "Les spécialités d'antivitamine K" %}}
+
+Anticoagulant de référence, seule la warfarine est détaillée ici.
+
+### La warfarine
 
 Comprimés sécables de 2 et [5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63245753&typedoc=R).
 
 - Bilan pré-thérapeutique  
-NFS-plaquettes, TP, TCA, créatininémie, transaminases
+  NFS-plaquettes, TP, TCA, créatininémie, transaminases.
 - Débuter le traitement  
   - **Débuter à 5 mg/j**
-  - 2 mg/j si: [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), personne âgée, fragile, maigre/dénutrie, insuffisance rénale, cardiaque ou hépatique
+  - Préférer 2 mg/j si: [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), personne âgée, fragile, maigre/dénutrie, insuffisance rénale, cardiaque ou hépatique
   - de préférence le soir
-  - **INR 12h après la 3<sup>e</sup> prise**. Si > 2: diminuer la posologie.
+  - **INR 12 heures après la 3<sup>e</sup> prise**. Si INR > 2: diminuer la posologie.
 - **Ajustements par paliers de 1 mg et contrôle INR à J3**  
-Puis 1-2 INR/semaine jusqu'à stabilisation.
+  Puis 1-2 INR/semaine jusqu'à stabilisation.
 - Surveillance INR
   - En début de traitement: 2-3 INR/semaine pendant 1-2 semaines jusqu'à 2 INR consécutifs dans la cible thérapeutique
   - Le plus souvent cible 2,5 (2-3)
   - Traitement équilibré: **INR mensuel**
 
-**NB.** Pas d'intérêt à une décroissance progressive en fin de traitement.
+**NB.** Le traitement peut être arrêté brutalement.
 
 {{% /collapse %}}
-{{%collapse "Information du patient" %}}
+{{%collapse "Conduite à tenir devant un surdosage en AVK" %}}
 
-### Éducation thérapeutique du patient sous AVK
-
-- Connaître la raison, les bénéfices et les risques du traitement
-- Prévenir tout médecin de la prise d'anticoagulant
-- [Carnet de patient AVK](https://www.omedit-normandie.fr/media-files/24150/carnet-suivi-avk-2018.pdf)
-- Observance et prise à heure régulière du traitement
-  - Oubli: à prendre dans les 8 heures, au-delà, attendre le lendemain
-- Interactions médicamenteuses et alimentaires
-  - Contre-indiqués: AINS, aspirine, clopidogrel, miconazole, millepertuis
-  - Pas d'automédication
-- Prévention des blessures, éviter les objets tranchants
-- Signes d'alerte et savoir réagir
-- Tout saignement, même mineur, est à considérer comme surdosage: contact médical en urgence  
-  - Banal: gingivorragies, épistaxis, hémorragies conjonctivales, règles exceptionnellement abondantes, hématomes
-  - Plus inquiétant: hématurie, rectorragies ou méléna, hématémèse, hémoptysie, saignement persistant
-  - Trompeurs: fatigue, dyspnée, pâleur, céphalées ne cédant pas au traitement antalgique habituel, malaise
-inexpliqué
-  - Idem si traumatisme susceptible de provoquer une hémorragie interne
-- Un sous-dosage expose à une thrombose
-- INR
-  - Adaptation selon le résultat
-  - Toujours dans le même laboratoire
-  - Intensifier quand: vomissements, diarrhées, déshydratation, événement médical, introduction médicamenteuse
-
-{{% /collapse %}}
-{{%collapse "Automesure de l'INR" %}}
-
-### CoaguChek INRange
-
-TROD INR avec résultat fiable en 1 minute.
-
-Indications: valve mécanique avec AVK ou enfant traité par AVK ayant bénéficié d'une ETP avec certificat délivré. [Arrêté 28/07/17](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035329082)
-
-- Prescription initiale par chirurgien cardiaque ou cardiologue ([centres avec ETP](http://cobas.fr/home/produits_solutions/systeme_coaguchek_inrange.html))
-- Renouvellement des bandelettes sans limite par le médecin généraliste
-- Automesure 1/semaine jusqu'à stabilisation de l'INR
-- Autocontrôle tous les 14 jours
-- Contrôle de l'INR tous les 6 mois
-- Discordance si différence TROD - INR > 15%
-
-{{< video poster="https://roche63-h.assetsadobe2.com/is/image/content/dam/diagnostics/fr/videos/biologie-délocalisee/vignette_video_INRange_patients.jpg" mp4="https://gateway-eu.assetsadobe.com/DMGateway/public-ssl/roche63/_renditions_/bdc/bdce5fe6-267f-40c9-8692-7679aaa5abb3/avs/Coaguchek%20INRange-0x720-3000k.mp4" description="Système CoaguChek pour l'autosurveillance de l'INR" width="768" height="432" >}}
-
-{{% /collapse %}}
-{{%collapse "Surdosage en AVK" %}}
-
-Méthodes pour réduire l'INR: diminuer la dose, sauter une prise, administration orale de 1 mg de vitamine K1.
+Méthodes pour réduire l'INR en cas de surdosage en AVK: diminuer la dose, sauter une prise, administration orale de 1 mg de vitamine K1.
 
 {{%info%}}Nouvel INR le lendemain du diagnostic de surdose avec reconduction identique des mesures ci-dessous tant que l'INR n'est pas dans la cible ET rechercher systématiquement la cause du déséquilibre{{%/info%}}
 
-### INR cible 2-3
+### INR cible entre 2 et 3
 
 {{< table title="Conduite à tenir devant un surdosage en AVK pour un INR cible entre 2 et 3 selon HAS 2008" class="table-wrap" >}}
 | INR             | Action                                    |
@@ -102,7 +62,7 @@ Méthodes pour réduire l'INR: diminuer la dose, sauter une prise, administratio
 | Hémorragie grave | SAMU, hospitalisation, 10 mg vitamine K IV et PPSB (PFC à défaut), transfusion |
 {{< /table >}}
 
-### INR cible 3-4,5
+### INR cible entre 3 et 4,5
 
 {{< table title="Conduite à tenir devant un surdosage en AVK pour un INR cible entre 3 et 4,5 selon HAS 2008" class="table-wrap" >}}
 | INR             | Action                                |
@@ -142,7 +102,7 @@ Hospitalisation en urgence devant une hémorragie grave ou potentiellement grave
 - Appel du 15
 - Correction hémodynamique si possible
 
-### Localisation
+### Hémorragie grave en AVK et localisation du saignement
 
 #### Traumatisme crânien
 
@@ -160,7 +120,7 @@ Reprendre l'AVK selon risque de récidive et indication initiale de l' AVK.
 
 ### Gestes invasifs pouvant être réalisés SANS interrompre les AVK
 
-- Injections SC
+- Injections sous-cutanées
 - Chirurgie cutanée
 - Chirurgie de la cataracte
 - Actes de rhumatologie à faible risque hémorragique
@@ -168,13 +128,13 @@ Reprendre l'AVK selon risque de récidive et indication initiale de l' AVK.
 
 ### Gestes invasifs déconseillés
 
-- Association de traitement: AINS, antibiotique, CYP450
-- Injections IM
+- Association de traitement: AINS, antibiotique, interactions du CYP450
+- Injections intra-musculaires
 
 {{% /collapse %}}
 {{%collapse "Arrêt des AVK avant intervention programmée" %}}
 
-À déterminer avec l'équipe hospitalière. Savoir si on réalise un relais héparine ou un arrêt simple.
+Rythme d'arrêt des AVK avant une intervention à déterminer avec l'équipe hospitalière. Savoir si on réalise un relais héparine ou un arrêt simple.
 
 ### Pas de relais par héparine
 
@@ -203,7 +163,7 @@ Reprendre l'AVK selon risque de récidive et indication initiale de l' AVK.
 
 **NB.** Pas d'utilisation d'HBPM curative en 1 seule injection (Innohep®, Fondaparinux®)
 
-### Post-opératoire
+### Repris des AVK en post-opératoire
 
 Lors du retour à domicile, si l'INR n'est pas dans la cible, l'héparine à dose curative est poursuivie jusqu'à obtenir 2 INR successifs dans la cible.
 
@@ -214,14 +174,14 @@ Aucun aliment n'est interdit mais le régime alimentaire contenant de la vitamin
 
 {{%info%}}
 
-### Aliments très riches (100-1000 µg/100g)
+### Aliments très riches en vitamine K (100-1000 µg/100g)
 
 - Huile de colza, soja
 - Brocoli, chou vert, de Bruxelles, choucroute
 - Laitue, cresson, persil
 - Épinards, fenouil
 
-### Aliments riches (10-100 µg/100g)
+### Aliments riches en vitamine K (10-100 µg/100g)
 
 - Margarine, huile d'olive
 - Chou rouge, chou-fleur
@@ -233,7 +193,7 @@ Aucun aliment n'est interdit mais le régime alimentaire contenant de la vitamin
 - Foie et abats
 {{%/info%}}
 
-### Aliments modérés (1-10 µg/100g)
+### Aliments à teneur modérée (1-10 µg/100g)
 
 - Huile de maïs, palme, tournesol
 - Crème, beurre, fromage
@@ -265,6 +225,51 @@ Aucun aliment n'est interdit mais le régime alimentaire contenant de la vitamin
 - Concombre sans peau
 - Poulet sans peau
 - Œuf, poisson
+
+{{% /collapse %}}
+{{%collapse "Information du patient sous AVK" %}}
+
+### Éducation thérapeutique du patient sous AVK
+
+- Connaître la raison, les bénéfices et les risques du traitement
+- Prévenir tout médecin de la prise d'anticoagulant
+- [Carnet de patient AVK](https://www.omedit-normandie.fr/media-files/24150/carnet-suivi-avk-2018.pdf)
+- Observance et prise à heure régulière du traitement
+  - Oubli: à prendre dans les 8 heures, au-delà, attendre le lendemain
+- Interactions médicamenteuses et alimentaires
+  - Contre-indiqués: AINS, aspirine, clopidogrel, miconazole, millepertuis
+  - Pas d'automédication
+- Prévention des blessures, éviter les objets tranchants
+- Signes d'alerte et savoir réagir
+- Tout saignement, même mineur, est à considérer comme surdosage: contact médical en urgence  
+  - Banal: gingivorragies, épistaxis, hémorragies conjonctivales, règles exceptionnellement abondantes, hématomes
+  - Plus inquiétant: hématurie, rectorragies ou méléna, hématémèse, hémoptysie, saignement persistant
+  - Trompeurs: fatigue, dyspnée, pâleur, céphalées ne cédant pas au traitement antalgique habituel, malaise
+inexpliqué
+  - Idem si traumatisme susceptible de provoquer une hémorragie interne
+- Un sous-dosage expose à une thrombose
+- INR
+  - Adaptation selon le résultat
+  - Toujours dans le même laboratoire
+  - Intensifier quand: vomissements, diarrhées, déshydratation, événement médical, introduction médicamenteuse
+
+{{% /collapse %}}
+{{%collapse "Système d'automesure de l'INR" %}}
+
+### CoaguChek INRange
+
+TROD INR avec résultat fiable en 1 minute.
+
+Indications: valve mécanique avec AVK ou enfant traité par AVK ayant bénéficié d'une ETP avec certificat délivré. [Arrêté 28/07/17](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035329082)
+
+- Prescription initiale par chirurgien cardiaque ou cardiologue ([centres avec ETP](http://cobas.fr/home/produits_solutions/systeme_coaguchek_inrange.html))
+- Renouvellement des bandelettes sans limite par le médecin généraliste
+- Automesure 1/semaine jusqu'à stabilisation de l'INR
+- Autocontrôle tous les 14 jours
+- Contrôle de l'INR tous les 6 mois
+- Discordance si différence TROD - INR > 15%
+
+{{< video poster="https://roche63-h.assetsadobe2.com/is/image/content/dam/diagnostics/fr/videos/biologie-délocalisee/vignette_video_INRange_patients.jpg" mp4="https://gateway-eu.assetsadobe.com/DMGateway/public-ssl/roche63/_renditions_/bdc/bdce5fe6-267f-40c9-8692-7679aaa5abb3/avs/Coaguchek%20INRange-0x720-3000k.mp4" description="Système CoaguChek pour l'autosurveillance de l'INR" width="768" height="432" >}}
 
 {{% /collapse %}}
 {{%sources%}}
