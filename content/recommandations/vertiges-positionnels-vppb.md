@@ -2,35 +2,39 @@
 title = "Vertige positionnel paroxystique bénin (VPPB)"
 titleSeo = "Vertige positionnel VPPB"
 prefix = "le "
-description = "TODO:"
+description = "Recommandations 2012 de la SFORL sur le vertige positionnel paroxystique bénin (VPPB). Signes de gravité, examen ORL au premier épisode, manœuvre d'Epley ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-21T19:36:09+02:00"
-publishdate = "2022-08-31"
-lastmod = "2022-08-31"
+publishdate = "2022-09-07"
+lastmod = "2022-09-07"
 specialites = ["ORL"]
 annees = "2017"
 sources = ["HAS", "SFORL"]
 tags = ["vertige"]
 anglais = ["Benign positional vertigo (BPPV)"]
 sctid = "111541001"
-draft = true
 image = true
 imageSrc = "Illustration de l'oreille interne par BruceBlaus. Blausen.com staff (2014). WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436., via Wikimedia Commons"
-todo = "EBM, autres cours, signes périph"
+todo = "vertige signes périph collège neuro"
 +++
 
 {{%article-summary%}}
 
-TODO:
+- Vérifier l'absence de [signe d'alerte](#signes-dalerte), ne pas manquer l'[AVC]({{< relref "accident-vasculaire-cerebral.md" >}})
+- Examen ORL pour un premier épisode, en cas de signes atypiques ou de fragilité (antécédent de traumatisme crânien ++)
+- Pas de traitement efficace sauf par manœuvres par un kiné ou ORL (surtout si vertiges invalidants, risque de chute ou de fracture)
+- Résolution spontanée dans la semaine voire le mois
+- Réévaluation systématique à 1 mois
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Vertige positionnel paroxystique bénin
-: Pathologie fréquente (17-42% des consultations de vertige) définie par l'apparition d'un vertige induit par un changement de position de la tête, avec des caractéristiques cliniques rigoureuses (notamment absence de lésion vestibulaire ou neurologique). L'atteinte peut être bilatérale et atteindre plusieurs canaux semi-circulaires. Survient surtout à un âge moyen.
-: Le pronostic est favorable mais les vertiges peuvent altérer la qualité de vie (et la durée de cet épisode est imprévisible).
-: Le consensus s'accorde sur la responsabilité d'une canalolithiase d'un canal semi-circulaire (postérieur 85-95%) pour la survenue de ces vertiges. Il est le plus souvent **idiopathique** (70%) mais parfois secondaire à un traumatisme crânien (20%) ou à certaines pathologies de l'oreille interne (10% avec **névrite vestibulaire** ou [Maladie de Menière]({{< relref "maladie-meniere.md" >}})).
+: Pathologie fréquente (17-42% des consultations pour [vertiges](/tags/vertige/)) définie par l'apparition d'un vertige induit par un changement de position de la tête, avec des caractéristiques cliniques rigoureuses (notamment absence de lésion vestibulaire ou neurologique).  
+L'atteinte peut être bilatérale et atteindre plusieurs canaux semi-circulaires en même temps. Le VPPB survient surtout à un âge moyen.
+: Le pronostic est favorable mais les vertiges peuvent altérer la **qualité de vie** d'autant plus que la durée de cet épisode est imprévisible.
+: Le consensus s'accorde sur la responsabilité d'une canalolithiase d'un canal semi-circulaire (postérieur dans 85-95% des cas) pour la survenue de ces vertiges. Il est le plus souvent **idiopathique** (70%) mais parfois secondaire à un traumatisme crânien (20%) ou à certaines pathologies de l'oreille interne (10% avec **névrite vestibulaire** ou [Maladie de Menière]({{< relref "maladie-meniere.md" >}})).
 
 ### Diagnostic différentiel des vertige positionnels paroxystiques bénins
 
@@ -66,8 +70,14 @@ Hypotension orthostatique
 
 ### Abréviations
 
+AVC
+: accident vasculaire cérébral
+
 CAE
 : conduit auditif externe
+
+CSC
+: canal semi-circulaire
 
 MRC
 : manœuvre de repositionnement des canalithes
@@ -81,7 +91,9 @@ VPPB
 
 ### Signes d'alerte devant des vertiges
 
-- Épisode d'allure de VPPB prolongé > 1 mois
+Drapeaux rouges à rechercher devant chaque épisode de vertiges:
+
+- Épisode d'allure de VPPB prolongé **plus d'un mois**
 - Neurologiques
   - Contexte de traumatisme crânien ou cervical
   - Céphalée (violente et brusque ++)
@@ -89,15 +101,13 @@ VPPB
   - Déficit neurologique (diplopie, ataxie ...)
   - Nystagmus atypique (battant vers le menton, spontané ou persistant au regard fixe)
   - Marche impossible sans chute
-- ORL
-  - Surdité brusque, acouphènes, otalgie
-
+- ORL: surdité brusque, acouphènes ou otalgie
 {.list-group}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le caractère "bénin" nécessite des critères précis et un examen rigoureux en période vertigineuse. Adresser à l'ORL en l'absence de formation spécifique.
+Le caractère << bénin >> nécessite des critères précis et un examen rigoureux en période vertigineuse. Adresser à l'ORL en l'absence de formation spécifique ou pour un premier épisode.
 
 {{%warning%}}<< Un vertige positionnel doit être toujours très suspect d'une atteinte centrale durant l'enfance >> (*SFORL 2012*){{%/warning%}}
 
@@ -117,28 +127,28 @@ Interrogatoire devant une suspicion de vertige positionnel paroxystique bénin:
   - Reproductible dans certaines positions
   - Dominante matinale avec tendance à l'amélioration dans la journée
   - Période d'une semaine à 1 mois  
-    Avis systématique quand survenue durant > 1 mois
+    Avis systématique quand durée > 1 mois
 - Signes associés possibles  
   Cervicalgies modérées, nausées (vomissements rares), pâleur, sueurs.
 - Recherche des signes d'alerte (voir section précédente)
 - Terrain spécifique
   - Chutes à répétition  
     Risque majoré en baisse d'acuité visuelle, neuropathie.
-  - Personne âgée ou ostéoporotique  
+  - Personne âgée ou [ostéoporotique]({{< relref "osteoporose.md" >}})  
     Suivi spécialisé pour la prévention des chutes.
   - Diabète  
     Hypoglycémie, neuropathie.
   - Antécédent de traumatisme crânien  
-    Suivi spécialisé ++, manœuvres répétées
+    Suivi spécialisé ++, manœuvres répétées.
   - Anxiété  
     Prolonge les symptômes.
-- Signes négatifs
+- **Signes négatifs**
   - Enfant  
     Le VPPB est exceptionnel et doit faire recherche une atteinte neurologique.
   - Facteurs de risque cardiovasculaire
   - Examen neurologique anormal
   - Signes otologiques  
-    Surdité, hypoacousie, acouphènes, plénitude de l'oreille, chute à l'emporte-pièce sans perte de connaissance
+    Surdité, hypoacousie, acouphènes, plénitude de l'oreille ou chute à l'emporte-pièce sans perte de connaissance.
 
 ### Examen clinique
 
@@ -150,40 +160,54 @@ Manœuvre de Dix-Hallpike (se 80%, spe 70%)
 : Elle est dite positive quand déclenche simultanément vertige et nystagmus.  
 Voir les vidéos dans la section *Sources* plus bas.
 
-Pression artérielle assis et debout.  
-Otoscopie
-Examen neurologique
-Examen cardiovasculaire
-Évaluation du **risque de chute** chez les personnes fragiles.
+Autres examens:
+
+- Pression artérielle assis et debout
+- Otoscopie
+- Examen neurologique complet
+- Examen cardiovasculaire
+- Évaluation du **risque de chute** chez les personnes fragiles
 
 {{% /collapse %}}
-{{%collapse "Examens complémentaires" %}}
+{{%collapse "Examens complémentaires d'un VPPB" %}}
 
-Examens auditifs systématiques au premier épisode de vertiges (audiométrie tonale et vocale, impédancemétrie) devant une suspicion de vertige positionnel paroxystique bénin.
+{{%info%}}
+**Adresser à l'ORL** au premier épisode de vertiges pour examens auditifs systématiques.  
+(Audiométrie tonale et vocale, impédancemétrie)
+{{%/info%}}
 
 Les autres examens dépendent de l'avis de l'ORL ou de VPPB atypiques (IRM ++).
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du VPPB" %}}
 
-Disparition spontanée souvent dans la semaine (30%) voire le mois, récidives ++
-Rechercher une autre cause quand > 1 mois
+La résolution du vertige positionnel (VPPB) spontanée survient souvent dans la semaine (30%) voire le mois mais les récidives sont très fréquentes.  
+Rechercher une autre cause quand l'épisode **dure plus d'un mois**.
 
-Attente d'une résolution spontanée: aucun médicament n'a prouvé d'efficacité.
+La plus grande part du traitement consiste en l'**information du patient**: mécanisme du VPPB et identification et compréhension des symptômes.
 
-{{%info%}}Ordonnance: Bilan-diagnostic kinésithérapique, manœuvres thérapeutiques pour vertige positionnel et contrôle si nécessaire{{%/info%}}
+{{%info%}}
+Attente d'une résolution spontanée: aucun médicament n'a prouvé d'efficacité pour le traitement des vertiges positionnels paroxystiques bénins (VPPB).  
+Réévaluation systématique à 1 mois (car lésions du SNC attribuée à VPPB de 1-3%).
 
-VPPB du canal semi-circulaire postérieur: Manœuvre de repositionnement des otolithes (*Manœuvre d'Epley*) ou *manœuvre libératoire de Stemont* (60% de guérison, 90-98% en manœuvres répétées).  
-VPPB du canal semi-circulaire horizontal: manœuvre de Lempert et Tiel-Wilck ou la manœuvre de Gufoni et al.
-Peuvent aggraver transitoirement les symptômes.
-Privilégier chez les personnes à risque de chute.
+---
 
-Information du patient: mécanisme du VPPB et identification et compréhension des symptômes
+Ordonnance: Bilan-diagnostic kinésithérapique, manœuvres thérapeutiques pour vertige positionnel et contrôle si nécessaire
+{{%/info%}}
 
-Réévaluation à 1 mois  
-Lésions du SNC attribuée à VPPB de 1-3%.
+### Manœuvres de repositionnement des otolithes
 
-{{{%warning%}}}Traitements inutiles : acétylleucine (Tanganil®), bétahistine, piracétam, méclozine, dompéridone, métoclopramide (et autres anti-émétiques){{{%/warning%}}}
+Les manœuvres sont indiquées en cas de vertiges prolongés, invalidants ou chez les personnes à risque de chute.  
+Elles peuvent aggraver transitoirement les symptômes.
+
+- VPPB du canal semi-circulaire postérieur  
+  Manœuvre de repositionnement des otolithes (*Manœuvre d'Epley*) ou *manœuvre libératoire de Stemont* (60% de guérison, 90-98% en manœuvres répétées).
+- VPPB du canal semi-circulaire horizontal  
+  Manœuvre de Lempert et Tiel-Wilck ou la manœuvre de Gufoni et al.
+- VPPB du canal semi-circulaire antérieur  
+  Pas de recommandations.
+
+{{%warning%}}Traitements inutiles : acétylleucine (Tanganil®), bétahistine, piracétam, méclozine, dompéridone (Vogalène®), métoclopramide (Primpéran® ainsi que les autres anti-émétiques){{%/warning%}}
 
 {{% /collapse %}}
 {{%sources%}}
@@ -196,5 +220,6 @@ Lésions du SNC attribuée à VPPB de 1-3%.
 - [HAS. Vertiges positionnels paroxystiques bénins : Manoeuvres diagnostiques et thérapeutiques. Décembre 2017.](https://www.has-sante.fr/jcms/c_2819896/fr/vertiges-positionnels-paroxystiques-benins-manoeuvres-diagnostiques-et-therapeutiques)
 - [SFORL. THÈME : VERTIGE POSITIONNEL PAROXYSTIQUE BENIN. Janvier 2012. (PDF)](https://www.sforl.org/wp-content/uploads/2020/02/Vertige-Positionnel-Paroxystique-Benin-2012-Janvier.pdf)
 - [Collège Français d'ORL & CCF. Vertige. Item 101 UE4.](https://campusorl.fr/espace-etudiants/2eme-cycle-ecni/item-101-vertige/)
+- [Collège des Enseignants de Neurologie (CEN). Vertige.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/vertige)
 
 {{%/sources%}}
