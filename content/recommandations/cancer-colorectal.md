@@ -16,7 +16,7 @@ sctid = "76102007"
 draft = true
 image = false
 imageSrc = ""
-todo = "suivi colo, documents patient CCR et dépistage du CCR"
+todo = "suivi colo, documents patient CCR et dépistage du CCR, collèges"
 +++
 
 {{%article-summary%}}
@@ -25,6 +25,12 @@ TODO:
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
+
+Cancer colorectal (CCR)
+: Tumeur maligne du côlon ou du rectum. Il correspond le plus souvent (60-80%) à une dégénérescence d'un **polype** survenue en 5 à 10 ans.
+
+Polype
+: Tumeur bénigne colorectale de type histologique adénomateux (PA) ou festonné (PF).
 
 ### Épidémiologie du cancer colorectal
 
@@ -41,10 +47,19 @@ CCR
 : cancer colorectal
 
 MICI
-: Maladie inflammatoire chronique de l'intestin (maladie de Crohn ou rectocolite hémorragique)
+: Maladie inflammatoire chronique de l'intestin (rectocolite hémorragique ou maladie de Crohn colique pour ce chapitre)
+
+PA
+: polype adénomateux
 
 PAF
-: polypose adénomateuse familiale
+: polyposes adénomateuses familiales
+
+PF
+: polype festonné
+
+Premier degré
+: parents, fratrie, enfants.
 
 {{< card-link title="Article: les français et leur participation au dépistage des cancers" url="/articles/participation-depistage-cancers/">}}
 
@@ -70,9 +85,9 @@ PAF
 
 {{%warning%}}Tout signe évocateur de cancer colorectal impose une consultation de gastro-entérologie en vue d'une coloscopie{{%/warning%}}
 
-Signes évocateurs de cancer colorectal devant leur persistance:
+Signes évocateurs de cancer colorectal en cas de symptômes persistants:
 
-- Rectorragies, méléna
+- Rectorragies, méléna (melæna)
 - Alternance diarrhée - constipation
 - Douleurs abdominales d'apparition récente, persistantes ou inexpliquées (+50 ans ++)
 - Syndrome rectal  
@@ -167,4 +182,3 @@ Stade IV: cas par cas
 {{%/sources%}}
 
 ≤≥±®æœŒÈ³ÂSpO<sub>2</sub>
-[External link](https://discourse.gohugo.io/ "{rel='nofollow'}")

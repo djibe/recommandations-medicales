@@ -211,8 +211,6 @@ Prise en charge de l'endométriose de première intention:
 - Participer à la recherche  
   [ComPaRe](https://compare.aphp.fr/)
 
-Mise en place en cours des [Centres experts de l'endométriose](https://www.endofrance.org/nos-actions/centres-experts-dedies-lendometriose/).
-
 ### Traitements hormonaux de première intention
 
 {{%info%}}
@@ -240,6 +238,19 @@ Réévaluation des traitements sous quelques semaines pour tolérance-efficacit�
 ### Infertilité
 
 La prise en charge de l'infertilité relève d'un accompagnement par une équipe d'[Assistance Médicale à la Procréation](https://www.agence-biomedecine.fr/Autorisation-des-centres) (AMP).
+
+{{% /collapse %}}
+{{%collapse "Centres experts de l'endométriose" %}}
+
+Mise en place en cours des [Centres experts de l'endométriose](https://www.endofrance.org/nos-actions/centres-experts-dedies-lendometriose/).
+
+- Île-de-France
+  - 78 et 95 Ouest: CHU de Poissy Saint-Germain, CH Versailles
+  - 92 Centre et Nord: Beaujon, Ambroisé Paré, Foch, GHEM Simone Veil
+  - 92 Sud, 91 et 94: Cochin, Saint-Joseph, Hôpital privé d'Antony et Institut de la femme et de l'endométriose
+  - 93, 77 et 95 Est: Diaconesses Croix Saint-Simon, Tenon, Clinique de l'Estrée
+
+*Merci de m'aider à compléter cette liste*
 
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}
