@@ -584,6 +584,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 ### À lire
 
+- [Inserm. Réduction des dommages associés à la consommation d'alcool. Synthèses et recommandations. 2021.](https://www.inserm.fr/expertise-collective/reduction-dommages-associes-consommation-alcool/)
 - <http://www.addictologie.org/spip.php?page=avectitre&id_rubrique=8>
 - <http://www.addictologie.org/spip.php?page=accueil&id_rubrique=1>
 - <http://www.sfalcoologie.asso.fr/page.php?choix=A10>

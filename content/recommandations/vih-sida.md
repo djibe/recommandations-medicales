@@ -29,7 +29,6 @@ todo = "relecture CNS, TPE, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://
 - Observance et suivi spécialisé
 - Maladie à [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
 - Aide à la consultation: [VIHclic](https://vihclic.fr/)
-- Rappels du dépistage pour le patient: [JeMeDépiste.com](https://jemedepiste.com/)
 
 [Chapitre sur la PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}}): Toute personne exposée au VIH est éligible à la PrEP (gratuite), prescriptible par tout médecin
 

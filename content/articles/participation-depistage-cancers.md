@@ -1,17 +1,18 @@
 +++
-title = "Participation au dépistage des cancers"
-description = "Taux de participation des français au dépistage organisé des cancers: mammographies, frottis du cols de l'utérus et test immunologique fécal"
+title = "Participation des français au dépistage organisé des cancers (colorectal, sein et col de l'utérus)"
+titleSeo = "Participation des français au dépistage des cancers"
+description = "Taux de participation des français au dépistage organisé des cancers du sein (mammographie), du cancer colorectal (test fécal) et du cancer du col de l'utérus"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-08-15T19:54:00+02:00"
 publishdate = "2021-08-18"
-lastmod = "2022-06-26"
+lastmod = "2022-09-14"
 specialites = []
 sources = ["SPF"]
 tags = ["cancer"]
 chart = true
 image = false
 imageSrc = ""
-todo = "### Le dépistage organisé des cancers | Trois cancers bénéficient en France d'un dépistage organisé par l'Institut National du Cancer (INCa) et remboursés à 100% par l'Assurance Maladie. Deux dépistages concernent les femmes. KEY x10: dépistage du cancer | x3: cancer du sein, mammographie de dépistage, dépistage organisé, participation au dépistage, assurance maladie, décès par cancer, dépistage individuel, données, facteurs de risque, programme de dépistage | x1: ATCD personnel de cancer, avance de frais, consultation d'oncogénétique, courrier d'invitation, prise en charge thérapeutique, tranches d'âge"
+todo = "https://www.e-cancer.fr/Patients-et-proches/Les-cancers - ### Le dépistage organisé des cancers | Trois cancers bénéficient en France d'un dépistage organisé par l'Institut National du Cancer (INCa) et remboursés à 100% par l'Assurance Maladie. Deux dépistages concernent les femmes - KEY x10: dépistage du cancer | x3: cancer du sein, mammographie de dépistage, dépistage organisé, participation au dépistage, assurance maladie, décès par cancer, dépistage individuel, données, facteurs de risque, programme de dépistage | x1: ATCD personnel de cancer, avance de frais, consultation d'oncogénétique, courrier d'invitation, prise en charge thérapeutique, tranches d'âge"
 +++
 
 ### Résumé
@@ -19,8 +20,8 @@ todo = "### Le dépistage organisé des cancers | Trois cancers bénéficient en
 Trois cancers bénéficient en France d'un dépistage généralisé. Il s'agit de cancers fréquents et graves, le cancer du sein, du col de l'utérus et colorectal.
 
 Pourtant plus le cancer tue, moins les français participent à sa prévention par le dépistage.  
-Ainsi, le cancer colorectal, responsable de 17.000 décès annuels n'est recherché que par 35% des français.  
-Le taux de participation au dépistage maximal, qui atteint 59%, concerne le cancer du col de l'utérus, responsable pour sa part de 1100 décès annuels.
+Ainsi, le cancer colorectal, responsable de 17.000 décès annuels (2<sup>e</sup> en mortalité) n'est recherché que par 35% des français.  
+Le taux maximal de participation au dépistage, qui atteint 59%, concerne le cancer du col de l'utérus, responsable pour sa part de 1100 décès annuels.
 
 Pour tous les dépistages, les taux de participation restent très en-dessous des attentes de santé publique.
 
@@ -28,14 +29,14 @@ Pour tous les dépistages, les taux de participation restent très en-dessous de
 
 <figure>
   <div id="chart" class="border alert mb-4"></div>
-  <figcaption>Figure. Données de participation au dépistage organisé des cancers et mortalité 2017 (dépistages: col 2018-2020 - sein 2020-2021 - colorectal 2020-2021). Utilisation des données 2019 du fait de la pandémie. Dr JB Fron d'après dernières données SPF.</figcaption>
+  <figcaption>Figure. Données de participation au dépistage organisé des cancers et mortalité 2017 (dépistages: col 2018-2020 - sein 2020-2021 - colorectal 2020-2021). Dr JB Fron d'après dernières données Santé Publique France.</figcaption>
 </figure>
 
 ### Sources
 
 - [Santé Publique France. Dépistage du cancer du sein : quelle participation des femmes en 2021 ? 2022.](https://www.santepubliquefrance.fr/les-actualites/2022/depistage-du-cancer-du-sein-quelle-participation-des-femmes-en-2021)
 - [Santé Publique France. Cancer du côlon rectum : données. Mars 2022.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-colon-rectum/donnees)
-- [Jéhannin-Ligier K et al. Projection de l'incidence et de la mortalité par cancer en France métropolitaine en 2017. Rapport technique. Saint-Maurice : Santé publique France, 2017. 80 p.](https://www.santepubliquefrance.fr/docs/projection-de-l-incidence-et-de-la-mortalite-par-cancer-en-france-metropolitaine-en-2017)
+- [Jéhannin-Ligier K et al. Projection de l'incidence et de la mortalité par cancer en France métropolitaine en 2017. Rapport technique. Santé publique France. 2017.](https://www.santepubliquefrance.fr/docs/projection-de-l-incidence-et-de-la-mortalite-par-cancer-en-france-metropolitaine-en-2017)
 - [Santé Publique France. Cancer du col de l'utérus : la couverture du dépistage et de la vaccination doivent progresser pour une meilleure prévention. Janvier 2022.](https://www.santepubliquefrance.fr/presse/2022/cancer-du-col-de-l-uterus-la-couverture-du-depistage-et-de-la-vaccination-doivent-progresser-pour-une-meilleure-prevention)
 
 <script>

@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-16T20:52:00+02:00"
 publishdate = "2021-02-16"
-lastmod = "2021-05-02"
+lastmod = "2022-09-14"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
-sources = ["HAS", "SNFGE"]
+sources = ["SNFGE", "HAS"]
 tags = ["EOGD", "ferritine", "gastrite"]
 anglais = ["Cancer of stomach"]
 sctid = "363349007"
@@ -24,7 +24,7 @@ todo = "algo, FDR: IPP > 1 an ?"
 - Atteint préférentiellement l'homme +65 ans
 - Principaux facteurs de risque: [gastrite à HP]({{< relref "helicobacter-pylori.md" >}}) (80%), tabagisme, alimentation salée/fumée, antécédent familial de cancer gastrique, Lynch/HNPCC
 - Signes d'alarmes en symptômes digestifs hauts: dysphagie, amaigrissement, anémie
-- Dépistage du 1<sup>er</sup> degré en cas de lésion cancéreuse (sérologie HP < 45 ans, fibroscopie après)
+- Dépistage du 1<sup>er</sup> degré en cas de lésion cancéreuse: sérologie HP chez un sujet -45 ans, fibroscopie au-delà
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -33,16 +33,15 @@ Cancer de l'estomac
 : Tumeurs malignes de l'estomac de pronostic intermédiaire composées à 90% d'*adénocarcinomes* atteignant préférentiellement les hommes âgés (2/3).  
 Autres types rares: lymphomes (du MALT, *Helicobacter pylori* +++) > stromales (GIST) > endocrine.
 : Classées en 2 entités par facteurs de risque différents: cancer du cardia (*jonction œso-gastrique* *JOG*) et non-cardia (distal).
-: 80% sont causés par une **[gastrite chronique à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}})**.
-: Survie à 5 ans de 30%
+: 80% sont causés par une **[gastrite chronique à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}})** avec une survie à 5 ans de 30%.
 
-### Épidémiologie
+### Épidémiologie du cancer de l'estomac
 
-#### Épidémiologie du cancer de l'estomac en France
+#### Le cancer de l'estomac en France
 
 - **Incidence**: 6600 cas (2017).  
-La moitié après 75 ans, 2/3 d'hommes.
-- 4400 décès (2017)
+  La moitié après 75 ans, 2/3 d'hommes.
+- Mortalité: 4400 décès (2017)
 
 #### Le cancer de l'estomac dans le monde
 
@@ -66,6 +65,9 @@ IPP
 
 K
 : Cancer
+
+Premier degré
+: parents, fratrie, enfants
 {.dl-inline}
 
 {{% /collapse %}}
@@ -80,9 +82,10 @@ K
   - Ulcère gastrique chronique
   - Polype gastrique adénomateux
   - Maladie de Ménétrier
-- Porteur HNPCC ou syndrome de Lynch
-- Antécédent familial au premier degré de cancer de l'estomac
-- Antécédent de gastrectomie partielle > 10 ans
+- Syndrome de Lynch (HNPCC)
+- **Antécédent familial au premier degré de cancer de l'estomac**
+- Traitement par IPP depuis plus d'un an (consensus Masstricht IV/Florence 2012)
+- Antécédent de gastrectomie partielle datant de +10 ans
 - [Consommation d'alcool]({{< relref "sevrage-alcool.md" >}})
 - Tabagisme
 - Alimentation salée/fumée et faible apports en fruits/légumes
@@ -90,7 +93,7 @@ K
 - Origine géographique  
   Asie, Amérique latine.
 
-Principaux facteurs de risque du cancer du cardia:
+Principaux facteurs de risque de cancer du cardia gastrique:
 
 - Surpoids
 - [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
@@ -193,17 +196,14 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
 
 - [Nousbaum JB. et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Estomac. BEH. Santé Publique France. 2021.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-estomac)
 - [Zaanan A. Bilan pré-thérapeutique et traitement péri-opératoire des adénocarcinomes de l'estomac. POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/bilan-pre-therapeutique-et-traitement-peri-operatoire-des-adenocarcinomes-de-lestomac/)
-- [Thésaurus National de Cancérologie Digestive (TNCD). 24/06/2019.](https://www.snfge.org/content/2-cancer-de-lestomac)
+- [Zaanan A et al. Gastric cancer: French intergroup clinical practice guidelines for diagnosis, treatments and follow-up (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, SFRO). Dig Liver Dis. 2018.](https://www.snfge.org/content/2-cancer-de-lestomac)
 - [SNFGE. Traitement du RGO. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
 - [HAS et CNPHGE. Diagnostic de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
 - [SFED et CREGG. Fiche de Recommandation sur la prévention des cancers digestifs par endoscopie. 14/03/2014.](https://www.cregg.org/commissions/prevention-des-cancers-par-endoscopie/fiches-de-recommandations-prevention-des-cancers-par-endoscopie/prevention-du-cancer-de-l-estomac-2/)
+- [INCa. Médecins traitants : Acteurs de la prévention du cancer de l'estomac. Février 2013.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Medecins-traitants-Acteurs-de-la-prevention-du-cancer-de-l-estomac)
 - [HAS, INCa. Cancer de l'estomac. Guide ALD. Septembre 2011.](https://www.has-sante.fr/jcms/c_1105137/fr/ald-n-30-cancer-de-l-estomac)
+- [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique - Cancer gastrique diffus héréditaire. 2009. (PDF)](https://www.e-cancer.fr/content/download/58352/531992/file/chir_prophy_predi_gene_gastrique.pdf)
 - [Collège Français des Pathologistes (CoPath). Tumeurs de l'estomac. Item 300.](http://campus.cerimes.fr/anatomie-pathologique/enseignement/anapath_19/site/html/2.html)
-
-### À lire
-
-- [INCa. Médecins traitants : Acteurs de la prévention du cancer de l'estomac. Février 2013. ](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Medecins-traitants-Acteurs-de-la-prevention-du-cancer-de-l-estomac)
-- [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique Cancer gastrique diffus héréditaire. (PDF)](https://www.e-cancer.fr/content/download/58352/531992/file/chir_prophy_predi_gene_gastrique.pdf)
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}

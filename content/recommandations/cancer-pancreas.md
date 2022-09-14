@@ -51,6 +51,9 @@ AEG
 AP
 : adénocarcinome du pancréas
 
+Premier degré
+: parents, fratrie, enfants.
+
 RCP
 : réunion de concertation pluridisciplinaire
 

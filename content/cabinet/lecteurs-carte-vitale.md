@@ -25,7 +25,7 @@ Modèles de lecteurs combinés bifentes (carte CPS et carte vitale) pour le cabi
 
 - Olaqin: ICT 250, IHC 610, IWL 250, IWL 280, IHC 951, MOVE/5000
 - Kapelse: Kap&Link 2, Kap&Link
-- [Modèles auto-déclarés: DSC-FX](https://www.sesam-vitale.fr/web/sesam-vitale/catalogue-produits)
+- [Modèles auto-déclarés: DSC-FX](https://www.sesam-vitale.fr/web/sesam-vitale/catalogue-produits) (recommandation personnelle)
 {.list-group}
 
 > *[GIE Sesam Vitale. Liste des dernières versions d’applications de lecteurs SESAM-Vitale

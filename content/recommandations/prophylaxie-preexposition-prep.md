@@ -257,7 +257,7 @@ Suivi spécialisé en cas d'hépatite B active.
 Collection de différents supports d'informations sur la PrEP à remettre au patient:
 
 - Lieux: [Réseau de Santé Sexuelle Publique](https://www.santesexuelle.org/), [Comité régional de lutte contre le VIH](https://vihclic.fr/contacts/annuaire-des-corevih/) (COREVIH), {{< references/cegidd >}}
-- Sites: [PrEP info](http://prep-info.fr/), [Sida Info Service](https://www.sida-info-service.org/dossier-la-prep/)
+- Sites: [Sexosafe](https://www.sexosafe.fr/ma-sante/prevention-et-depistage/la-prep-est-elle-pour-vous), [Sida Info Service](https://www.sida-info-service.org/dossier-la-prep/)
 - Brochures: [ANSM. Information importante (PDF)](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-brochure-d-information-sujets-version3-2021-juin.pdf), [AIDES. La PrEP mode d'emploi](https://fr.calameo.com/aides/read/0062255000aa42fef48d6?page=1)
 - Applis: [My PrEP](https://myprep.app/), [AR PrEP](https://play.google.com/store/apps/details?id=fr.observia.atprep), [GMT Ma PrEP](https://play.google.com/store/apps/details?id=com.guenmat.android.prep)
 
