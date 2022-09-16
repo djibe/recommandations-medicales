@@ -5,11 +5,11 @@ description = "TODO:"
 synonyms = ["Cancer du côlon", "cancer du rectum"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
-publishdate = "2022-08-31"
-lastmod = "2022-08-31"
+publishdate = "2022-09-16"
+lastmod = "2022-09-16"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
-sources = ["INCa", "HAS"]
+sources = ["INCa", "HAS", "ESGE"]
 tags = ["cancer"]
 anglais = ["Colorectal cancer"]
 sctid = "781382000"
@@ -34,7 +34,7 @@ Polype
 : Tumeur bénigne colorectale de type histologique adénomateux (PA) ou festonné (PF).
 
 Adénome
-: Seul polype à risque de malignité. Sa définition est anatomopathologique: tumeur épithéliale bénigne avec risque de transformation maligne. Il est caractérisé selon son degré de dysplasie (toujours de bas grade), les critères pronostiques étant: sa taille (+1 cm), composante villeuse et degré de dysplasie.
+: Seul type de polype à risque de malignité. Sa définition est anatomopathologique: tumeur épithéliale bénigne avec risque de transformation maligne. Il est caractérisé selon son degré de dysplasie (toujours de bas grade), les critères pronostiques étant: sa taille (+1 cm), la composante villeuse et son degré de dysplasie.
 
 ### Épidémiologie du cancer colorectal
 
@@ -92,7 +92,7 @@ TAP
 {{%collapse "Niveaux de risque de cancer colorectal" %}}
 
 Risque moyen
-: 50 à 74 ans asymptomatique sans antécédent personnel ou familial d'adénome/CCR ou MICI
+: Âge de 50 à 74 ans asymptomatique sans antécédent personnel ou familial d'adénome/CCR ou MICI
 : Dépistage par test immunologique.
 
 Risque élevé
@@ -131,7 +131,7 @@ Envisager une consultation d'oncogénétique en cas de:
 - Antécédents  
   Dont MICI, adénome ou cancer colorectal, acromégalie et autres comorbidités
 - Antécédents familiaux  
-  Dont adénome ou cancer colorectal, polypose adénomateuse familiale, Lynch (cancer de l'endomètre, ovaire, intestin grêle, uretère)
+  Avec l'âge de survenue pour: adénome ou cancer colorectal, polypose adénomateuse familiale, Lynch (cancer de l'endomètre, ovaire, intestin grêle, uretère)
 - Alcool, tabac
 - Activité physique, consommation de viande rouge, fibres
 - Symptômes digestifs (voir encadré plus bas)
@@ -156,6 +156,7 @@ Signes évocateurs de cancer colorectal en cas de symptômes persistants:
 - Palpation abdominale
 - Touchers pelviens
 - Palpation des aires ganglionnaires
+- Dénutrition
 
 Le bilan complémentaire d'extension après la coloscopie totale comprend: Scanner thoraco-abdomino-pelvien avec injection (TAP) et pour le rectum une échoendoscopie rectale ou IRM pelvienne.
 
@@ -235,18 +236,22 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 Le traitement dépend de la décision de la réunion de concertation pluridisciplinaire.
 
 [HAS Guide patient: La prise en charge du cancer colorectal (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-05/ald_30_gp_cancer_colorectal_web.pdf)
-ALD
-Mesures de prévention: arrêt tabac, alcool, augmenter activité, fibres, lait
-Dénutrition (39%), diet
-Stomie: IDE stomathérapeute
-Association de patients
-[France Côlon](https://www.france-colon.fr/), [Crohn-RCH France](https://www.afa.asso.fr/), [Ligue nationale contre le cancer](https://www.ligue-cancer.net/), [Polyposes Familiales](https://www.polyposes-familiales.fr/), [HNPCC - Lynch](http://www.hnpcc-lynch.com/)
+
+- ALD
+- Mesures systématiques  
+  Arrêt tabac, alcool, augmenter activité, fibres. Pour diminuer les risques de complication des traitements, de second cancer et améliorer la survie.
+- Dénutrition (39%), diet
+- Stomie: infirmier stomathérapeute
+- Association de patients  
+  [France Côlon](https://www.france-colon.fr/), [Crohn-RCH France](https://www.afa.asso.fr/), [Ligue nationale contre le cancer](https://www.ligue-cancer.net/), [Polyposes Familiales](https://www.polyposes-familiales.fr/), [HNPCC - Lynch](http://www.hnpcc-lynch.com/), [Ligue Cancer info](https://www.ligue-cancer.net/) (ou {{<phone>}}0 805 123 124{{</phone>}})
 
 ### Suivi après cancer du côlon ou rectum
 
-Pendant 5 ans: clinique, scanner ou écho AP, scanner thoracique, coloscopie et parfois ACE.
+Pendant 5 ans: clinique (4/an pendant 3 ans puis 2/an), scanner ou écho AP (idem), scanner thoracique et coloscopie (annuels), parfois ACE.
 
 Après 5 ans: suivi du risque élevé avec coloscopie tous les 5 ans.
+
+> *INCa 2018*
 
 ### Pour en savoir: traitement du cancer du côlon et du haut rectum
 
@@ -264,13 +269,13 @@ Stade IV: cas par cas
 
 ### Préparation colique pour une coloscopie
 
-- Régime sans résidus dès J-2
+- Régime sans résidus dès J-2 (J-1 ESGE)
   - Interdits: fruits, légumes, lait, yaourts, fromage blanc, pain, jus de fruits
   - Autorisés: viandes, volailles, œufs, poissons, jambon blanc, pâtes, riz blanc, pommes de terre (sans la peau), fromages à pâte cuite (gruyère, emmenthal, beaufort, comté), biscottes au froment, gâteaux secs simples
-- Produit à base de polyéthilèneglycol (PEG)
+- Produit à base de polyéthilèneglycol (PEG) + simethicone
 - A jeun le jour J
 
-> *HAS 2013*
+> *ESGE 2019* et *HAS 2013*
 
 ### Complications de la coloscopie
 
@@ -283,6 +288,8 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 - [INCa. Cancer colorectal - Dépistage par test immunologique et autres modalités. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-colorectal-Depistage-par-test-immunologique-et-autres-modalites)
 - [INCa. Dépistage du cancer colorectal - Accompagner vos patients de 50 à 74 ans. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Depistage-du-cancer-colorectal-Accompagner-vos-patients-de-50-a-74-ans)
 - [Grandval P. Diagnostic et surveillance des patients à très haut risque génétique de CCR. POST'U 2020](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-et-surveillance-des-patients-a-tres-haut-risque-genetique-de-ccr/)
+- [Hassan C. et al. Bowel preparation for colonoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Guideline – Update 2019. Endoscopy. 2019.](https://www.thieme-connect.de/products/ejournals/html/10.1055/a-0959-0505)
+- [INCa. Cancers colorectaux - Du diagnostic au suivi. Octobre 2018. (PDF)](https://www.e-cancer.fr/content/download/247273/3415432/file/Cancers_colorectaux_du_diagnostic_au_suivi_mel_20181029.pdf)
 - [HAS. Cancer colorectal : modalités de dépistage et de prévention chez les sujets à risque élevé et très élevé. Mai 2017.](https://www.has-sante.fr/jcms/c_2772744/fr/cancer-colorectal-modalites-de-depistage-et-de-prevention-chez-les-sujets-a-risque-eleve-et-tres-eleve)
 - [HAS. Quand faut-il faire une coloscopie de contrôle après une polypectomie ?. Septembre 2013.](https://www.has-sante.fr/jcms/c_1695396/fr/quand-faut-il-faire-une-coloscopie-de-controle-apres-une-polypectomie)
 - [HAS. Dépistage et prévention du cancer colorectal. Juin 2013.](https://www.has-sante.fr/jcms/c_1623732/fr/depistage-et-prevention-du-cancer-colorectal)
@@ -294,9 +301,13 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 
 ### À lire
 
-- [INCa. Cancers colorectaux - Du diagnostic au suivi. Octobre 2018. (PDF)](https://www.e-cancer.fr/content/download/247273/3415432/file/Cancers_colorectaux_du_diagnostic_au_suivi_mel_20181029.pdf)
 - [Robaszkiewicz M. et al. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml) +++
-- [SNFGE. Cancer colorectal métastatique. TNCD. 2022.](https://www.snfge.org/download/file/fid/4649)
+- <https://www.fmcgastro.org/texte-postu/postu-2022/recommandations-pour-le-suivi-apres-polypectomie-recommandations-sfed-2021/>
+- [SNFGE. Cancer colorectal métastatique. TNCD. 2022.](https://www.snfge.org/content/4-cancer-colorectal-metastatique)
+- [SNFGE. Cancer du côlon non métastatique. TNCD. 2021.](https://www.snfge.org/content/3-cancer-du-colon-non-metastatique)
+- [SNFGE. Cancer du rectum. TNCD. 2021.](https://www.snfge.org/content/5-cancer-du-rectum)
+- <https://www.fmcgastro.org/texte-postu/postu-2020-paris/les-criteres-de-la-qualite-de-la-coloscopie-et-de-la-preparation-colique-sfed-cnp-esge-2019/>
+- Vaccination info service chimiothérapie
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}

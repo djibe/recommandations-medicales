@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-07-09"
+lastmod = "2022-09-16"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["SFD", "ESC", "EASD", "ADA", "HAS"]
@@ -94,7 +94,7 @@ Rémission du diabète
 {{%info%}}Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75% (*ESC 2019 diabetes*){{%/info%}}
 
 {{% /collapse %}}
-{{%collapse "Escalade thérapeutique" "show" %}}
+{{%collapse "Escalade thérapeutique" %}}
 
 *Version préliminaire d'après SFD 2021*
 
@@ -261,13 +261,14 @@ window.onload = () => {
 | AOMI         | Symptômes + pouls annuels, IPS au diagnostic puis /5-10 ans                                      | ESC 2019 diabetes        |
 | Aspirine prev primaire | 75-100 mg envisageable si {{< modal-btn modal-rcv-diabete >}}(très) haut risque CV{{< /modal-btn >}} ou {{< modal-btn modal-coronaire-diabete >}}coronaire{{< /modal-btn >}} sans risque de saignement | ESC 2019 diabetes |
 | Aspirine prev secondaire | 75-160 mg ± associé selon la pathologie, prolonger bi-antiagrégants si bien toléré (max 3 ans) | ESC 2019 diabetes |
+| Cancer du pancréas | Diabète < 12 mois: +50 ans sans ATCD familial ni surpoids OU amaigrissement > 10%<br>Pancréatite chronique + apparition ou décompensation de diabète | INCa 2019 |
 | Chir bariatrique | < 65 ans et IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, SAOS ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH | HAS 2009 obésité |
 | Dentaire     | Suivi annuel                                                                                     | IDF 2009                 |
 | Dysfonction érectile | Systématique. Si +: dépistage annuel hypotension orthostatique, dysfonction vésicale     | AIUS 2018                |
 | ECG          | Annuel (VPN très faible)                                                                         | SFD 2021 CAD             |
 | Épreuve d'effort | Angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans) | SFD 2021 CAD |
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
-| Insuff. cardiaque | (NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, MRC, coronaropathie, femme, bas socio-éco | ADA 2022 |
+| Insuffisance cardiaque | (NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, MRC, coronaropathie, femme, bas socio-éco | ADA 2022 |
 | Neuropathie  | Dépistage annuel monofilament                                                                    | ESC 2019 diabetes        |
 | Rénal        | Créatininémie, albuminurie sur échantillon annuels                                               | ESC 2019 diabetes        |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | SFD 2016                 |
@@ -308,6 +309,7 @@ window.onload = () => {
 - [Monnier L. et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
 - [Valensi P. et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. 2021.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_paper_sfc_sfd_march_2021.pdf)
 - [KDIGO. 2020 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. 2020. (PDF)](https://kdigo.org/wp-content/uploads/2020/10/KDIGO-2020-Diabetes-in-CKD-GL.pdf)
+- [INCa. Synthèse - Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Septembre 2019. (PDF)](https://www.e-cancer.fr/content/download/278143/3948778/file/Synthese_CAT_patients_atteints_adenocarcinomes_pancreas_mel_20191118.pdf)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/esc-diabetes >}}
 - {{< references/esc-hta >}}

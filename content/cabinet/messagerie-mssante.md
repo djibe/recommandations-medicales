@@ -4,7 +4,7 @@ description = "Tout savoir sur la Messagerie sécurisée de santé MSSanté et l
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-04-29T19:00:00+02:00"
 publishdate = "2022-04-29"
-lastmod = "2022-04-29"
+lastmod = "2022-09-15"
 sources = []
 tags = []
 image = true
@@ -45,9 +45,9 @@ Pour trouver l'adresse sécurisée d'un confrère:
 {{%/collapse%}}
 {{%collapse "Utiliser la messagerie MSSanté sur mobile" %}}
 
-L'application gratuite M@iliz ([Android](https://play.google.com/store/apps/details?id=fr.asip.mssante), [iOS](https://apps.apple.com/fr/app/mssant%C3%A9/id813551300)) permet d'accéder à sa boîte mail MSSanté.
+L'application gratuite M@iliz ([Android](https://play.google.com/store/apps/details?id=fr.asip.mssante), [iOS](https://apps.apple.com/fr/app/mssant%C3%A9/id813551300)) permet d'accéder à sa boîte mail MSSanté depuis son smartphone.
 
-Le téléphone doit être associé à l'adresse sécurisée depuis l'espace personnel web de M@iliz.
+Le numéro de téléphone doit être associé à l'adresse de messagerie sécurisée **depuis l'espace personnel web** de Mailiz.
 
 {{%/collapse%}}
 {{%collapse "Envoyer un message sécurisé à un patient" %}}

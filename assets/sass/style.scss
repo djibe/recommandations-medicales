@@ -354,7 +354,7 @@ article {
     font-size: .875rem;
     font-weight: 500;
     letter-spacing: .017857em;
-    line-height: 1.25rem;
+    line-height: 2rem;
     vertical-align: middle;
   }
 }
@@ -491,6 +491,7 @@ article {
   }
   .alert-info {
     color: #0073a9;
+    word-break: break-all;
   }
   .alert-warning {
     color: var(--secondary-dark);

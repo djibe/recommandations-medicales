@@ -57,7 +57,7 @@ Contact à risque
 : Contact avec:
 
 - Personne ayant partagé le même lieu de vie que le cas
-- Contact direct avec un cas, en face à face, à moins d'1 mètre, quelle que soit la durée.  
+- Contact direct avec un cas, en face à face, à moins d'un mètre, quelle que soit la durée.  
 {{%class%}}Des personnes croisées dans l'espace public de manière fugace ne sont pas considérées comme des personnes-contacts à risque.{{%/class%}}
 - Ayant prodigué ou reçu des actes d'hygiène ou de soins
 - Espace confiné pendant > 15 minutes avec un cas ou face à un cas ayant plusieurs épisodes de toux/éternuement.
@@ -72,7 +72,7 @@ Contact à risque négligeable
 {{%/collapse%}}
 {{%collapse "Personnes à risque de forme grave" %}}
 
-Risque démultiplié de forme grave si polypathologique. Doit tenir compte des comorbidités, âge, sexe, facteurs socio-économiques. L'âge est le facteur majeur.
+Risque démultiplié de forme grave de covid-19 si polypathologique. Doit tenir compte des comorbidités, âge, sexe, facteurs socio-économiques. L'âge est le facteur majeur.
 
 - DGS Urgent 2022-66 a ajouté
   - +60 ans sans 2<sup>e</sup> rappel

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-16T20:52:00+02:00"
 publishdate = "2021-02-16"
-lastmod = "2022-09-14"
+lastmod = "2022-09-15"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["SNFGE", "HAS"]
@@ -194,6 +194,7 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
 {{% /collapse %}}
 {{%sources%}}
 
+- [Chollet R. et al; SFED, CREGG. Prévention du cancer de l'estomac. 2021.](https://www.sfed.org/sites/www.sfed.org/files/2021-08/Cancerestomac_prevention.pdf)
 - [Nousbaum JB. et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Estomac. BEH. Santé Publique France. 2021.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-estomac)
 - [Zaanan A. Bilan pré-thérapeutique et traitement péri-opératoire des adénocarcinomes de l'estomac. POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/bilan-pre-therapeutique-et-traitement-peri-operatoire-des-adenocarcinomes-de-lestomac/)
 - [Zaanan A et al. Gastric cancer: French intergroup clinical practice guidelines for diagnosis, treatments and follow-up (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, SFRO). Dig Liver Dis. 2018.](https://www.snfge.org/content/2-cancer-de-lestomac)
