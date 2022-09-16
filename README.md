@@ -2,7 +2,9 @@
 
 **Projet Open Source, gratuit et indépendant visant à partager l'État de l'Art de la pratique en médecine de premier recours.**
 
-[Recommandations Médicales](https://recomedicales.fr) est développé pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder en 2 clics à tout ce dont ils ont besoin en consultation.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International</a>
+
+[Recomédicales](https://recomedicales.fr) est développé pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder en 2 clics à tout ce dont ils ont besoin en consultation.
 
 ## Pourquoi ce projet ?
 
@@ -20,18 +22,18 @@ Seul un outil numérique peut nous aider.
 
 - Open Source
 - Participatif  
-Tout le monde peut commenter le travail, participer à l'élaboration et demander plus d'informations.
+  Tout le monde peut commenter le travail, participer à l'élaboration et demander plus d'informations.
 - Indépendant  
-Aucun financement de l'industrie. Jamais.
+  Aucun financement de l'industrie. Jamais.
 - Gratuit
 - Validé  
-Faire valider chaque fiche par un expert ou la Société savante de référence (certaines fiches pour le moment).
+  Faire valider chaque fiche par un expert ou la Société savante de référence (certaines fiches pour le moment).
 - \+ Simple  
-Segmentation des chapitres pour accéder rapidement à l'info recherchée: 1 question = 1 réponse.
+  Segmentation des chapitres pour accéder rapidement à l'info recherchée: 1 question = 1 réponse.
 - \+ Visuel  
-Présence d'un arbre décisionnel pour balayer rapidement la prise en charge de la pathologie.
+  Présence d'un arbre décisionnel pour balayer rapidement la prise en charge de la pathologie.
 - \+ Pratique  
-Accès immédiat au score ou calcul de risque numérique.
+  Accès immédiat au score ou calcul de risque numérique.
 - \+ Sûr  
 Accès à l'ordonnance ou bilan de première intention.
 - \+ Moderne  
@@ -90,3 +92,7 @@ Je recommande l'éditeur de texte/code gratuit [Visual Studio Code](https://code
 ## Dernière compilation du site
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/327af24a-1868-47c1-959c-7c0afe3b1891/deploy-status)](https://app.netlify.com/sites/recommandations-medicales/deploys)
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International</a>
