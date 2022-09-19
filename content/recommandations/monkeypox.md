@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
 publishdate = "2022-07-20"
-lastmod = "2022-09-14"
+lastmod = "2022-09-18"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "HCSP", "MinSanté"]
@@ -40,7 +40,7 @@ Monkeypox ou variole du singe
 : Maladie infectieuse liée virus Monkeypox (MPXV, orthopoxvirus). Contamination directe par muqueuse ou peau lésée ou gouttelettes. Contamination également possible par literie, vêtements, vaisselle, linge de bain ...  
 Les zones d'endémie sont les zones forestières d'Afrique du Centre et de l'Ouest avec contamination par des rongeurs sauvages ou des primates (zoonose) puis dans le foyer familial.
 : Complications de la variole du singe: surinfection cutanées bactériennes, infections respiratoires basses, sepsis, encéphalite, kératites, ou gastro-intestinales avec pertes liquidiennes (*HCSP mai 2022*).
-: 3833 cas confirmés en France au 12 septembre, à 96% des [HSH]({{< relref "hsh.md" >}}) sans aucun décès en France.
+: 3898 cas confirmés en France au 15 septembre, à 96% des [HSH]({{< relref "hsh.md" >}}) sans aucun décès en France.
 
 Cas suspect de Monkeypox
 : Signes cliniques évocateurs de Monkeypox sans exposition à risque. Diagnostic biologique.
@@ -218,7 +218,7 @@ Antiviral disponible en gélules indiqué chez les personnes à **risque de form
 {{% /collapse %}}
 {{%sources%}}
 
-- [Santé Publique France. Cas de variole du singe : point de situation au 12 septembre 2022. 13/09/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-12-septembre-2022)
+- [Santé Publique France. Cas de variole du singe : point de situation au 15 septembre 2022. 16/09/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-15-septembre-2022)
 - [DGS-Urgent 2022-76, 70, 65, 61, 58. 05/08/2022.](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Réponses Rapides : Infection par le virus Monkeypox – Prise en charge en médecine de 1er recours. 05/09/2022.](https://www.has-sante.fr/jcms/p_3361191/fr/reponses-rapides-infection-par-le-virus-monkeypox-prise-en-charge-en-medecine-de-1er-recours)
 - [Ameli. Virus Monkeypox : les recommandations sur la prise en charge et la vaccination. 16/08/2022.](https://www.ameli.fr/medecin/actualites/virus-monkeypox-les-recommandations-sur-la-prise-en-charge-et-la-vaccination)

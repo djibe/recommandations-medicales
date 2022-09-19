@@ -86,6 +86,8 @@ Cancer (carcinome épidermoïde) et lésions précancéreuses sous-entendues.
 
 > *INCa*
 
+{{< card-link title="Les français et leur participation au dépistage des cancers" subtitle="Article RecoMédicales" url="/articles/participation-depistage-cancers/">}}
+
 ### Abréviations
 
 HSH

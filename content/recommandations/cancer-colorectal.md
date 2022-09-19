@@ -16,7 +16,7 @@ sctid = "781382000"
 draft = true
 image = false
 imageSrc = ""
-todo = "test dénutrition, SPF, SFED, SNFGE, bas grade, HAS 2013 p8 critères Amsterdam Lynch, Table, documents patient dépistage du CCR, collèges"
+todo = "test dénutrition, SFED, SNFGE, bas grade, HAS 2013 p8 critères Amsterdam Lynch, Table, documents patient dépistage du CCR, collèges"
 +++
 
 {{%article-summary%}}
@@ -27,8 +27,8 @@ TODO:
 {{%collapse "Définition" %}}
 
 Cancer colorectal (CCR)
-: Tumeur maligne du côlon ou du rectum (30-40%, côlon distal 20% ou proximal 30-40%). Il correspond le plus souvent (60-80%) à une dégénérescence d'un **polype** survenue en 5 à 10 avec pour histologie un adénocarcinome dans +95% des cas.
-: Il est diagnostiqué dans 95% des cas après 50 ans avec sex-ratio de 2/3 d'hommes.
+: Tumeur maligne du côlon (distal 20% ou proximal 30-40%) ou du rectum (30-40%). Il correspond le plus souvent (60-80%) à une **dégénérescence d'un polype** survenue en 5 à 10 avec pour histologie un adénocarcinome dans +95% des cas.
+: Il est diagnostiqué dans 95% des cas **après 50 ans** avec sex-ratio de 2/3 d'hommes.
 
 Polype
 : Tumeur bénigne colorectale de type histologique adénomateux (PA) ou festonné (PF).
@@ -38,13 +38,16 @@ Adénome
 
 ### Épidémiologie du cancer colorectal
 
-Top 3 des cancers en France avec un taux de dépistage de participation au dépistage limité à 34,6%. Le diagnostic est le plus souvent réalisé à un stade avancé.
-La France est un pays Européen des plus hautes incidences.
+Top 3 des cancers en France. Le diagnostic est le plus souvent réalisé à un stade avancé.
+La France est un pays Européen avec les plus **hautes incidences** de cancer colorectal.
 
 - Incidence: 2<sup>e</sup> cancer de la femme (21.000 en 2017), 3<sup>e</sup> cancer de l'homme (24.000)
-- Décès: 2<sup>e</sup> par mortalité ()
+- Décès: 2<sup>e</sup> par mortalité (17.117 en 2017)
+- Taux de participation au dépistage: 34,6% (2020-2021)
 - 95% des cancers colorectaux surviennent après 50 ans
 - Survie à 5 ans: stade I 90% - stade IV 13%
+
+{{< card-link title="Les français et leur participation au dépistage des cancers" subtitle="Article RecoMédicales" url="/articles/participation-depistage-cancers/">}}
 
 ### Abréviations
 
@@ -86,10 +89,10 @@ TAP
 : thoraco-abdomino-pelvien
 {.dl-inline}
 
-{{< card-link title="Les français et leur participation au dépistage des cancers" subtitle="Article" url="/articles/participation-depistage-cancers/">}}
-
 {{% /collapse %}}
 {{%collapse "Niveaux de risque de cancer colorectal" %}}
+
+Le niveau de risque de cancer colorectal détermine la méthode et le rythme de suivi du dépistage.
 
 Risque moyen
 : Âge de 50 à 74 ans asymptomatique sans antécédent personnel ou familial d'adénome/CCR ou MICI
@@ -99,7 +102,7 @@ Risque élevé
 :  - Antécédent personnel de cancer colorectal ou d'adénome
     - Antécédent familial de cancer colorectal ou d'adénome ≥ 10 mm chez 1 parent au 1<sup>er</sup> degré avant 65 ans ou chez ≥ 2 parents au 1<sup>er</sup> degré à tout âge
     - Maladie inflammatoire chronique de l'intestin  
-      Maladie de Crohn ou rectocolite hémorragique.
+      {{%class%}}Maladie de Crohn ou rectocolite hémorragique.{{%/class%}}
     - [Acromégalie]({{< relref "acromegalie.md" >}})
     - Dépistage: surveillance gastro-entérologique et coloscopique
 
@@ -135,7 +138,7 @@ Envisager une consultation d'oncogénétique en cas de:
 - Alcool, tabac
 - Activité physique, consommation de viande rouge, fibres
 - Symptômes digestifs (voir encadré plus bas)
-- AEG
+- AEG: amaigrissement, asthénie, anorexie
 
 ### Clinique
 
@@ -156,7 +159,9 @@ Signes évocateurs de cancer colorectal en cas de symptômes persistants:
 - Palpation abdominale
 - Touchers pelviens
 - Palpation des aires ganglionnaires
-- Dénutrition
+- [Dénutrition]({{< relref "denutrition.md" >}}) (dépistage avec le {{< modal-btn modal-mna >}}Mini Nutritional Assessment{{< /modal-btn >}})
+
+### Pour en savoir plus: bilan d'extension initial
 
 Le bilan complémentaire d'extension après la coloscopie totale comprend: Scanner thoraco-abdomino-pelvien avec injection (TAP) et pour le rectum une échoendoscopie rectale ou IRM pelvienne.
 
@@ -315,5 +320,3 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 {{< scores/mna >}}
 
 {{% /modal %}}
-
-≤≥±®æœŒÈ³ÂSpO<sub>2</sub>

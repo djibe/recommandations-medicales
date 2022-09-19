@@ -17,15 +17,17 @@ todo = "https://www.e-cancer.fr/Patients-et-proches/Les-cancers - ### Le dépist
 
 ### Résumé
 
-Trois cancers bénéficient en France d'un dépistage généralisé. Il s'agit de cancers fréquents et graves, le cancer du sein, du col de l'utérus et colorectal.
+Trois cancers bénéficient en France d'un dépistage organisé. Il s'agit de cancers fréquents et graves: le [cancer du sein]({{< relref "cancer-sein.md" >}}), du [col de l'utérus]({{< relref "cancer-col-uterus.md" >}}) et du cancer colorectal.
 
 Pourtant plus le cancer tue, moins les français participent à sa prévention par le dépistage.  
-Ainsi, le cancer colorectal, responsable de 17.000 décès annuels (2<sup>e</sup> en mortalité) n'est recherché que par 35% des français.  
+Ainsi, le cancer colorectal, responsable de 17.000 décès annuels (2<sup>e</sup> en mortalité) n'est recherché que par **35%** des français.  
 Le taux maximal de participation au dépistage, qui atteint 59%, concerne le cancer du col de l'utérus, responsable pour sa part de 1100 décès annuels.
 
 Pour tous les dépistages, les taux de participation restent très en-dessous des attentes de santé publique.
 
 ### Graphique de la participation au dépistage organisé des cancers et décès par cancer
+
+Représentation des taux de participation aux dépistages organisés des cancers et mortalité associée à ces cancers.
 
 <figure>
   <div id="chart" class="border alert mb-4"></div>
@@ -35,6 +37,7 @@ Pour tous les dépistages, les taux de participation restent très en-dessous de
 ### Sources
 
 - [Santé Publique France. Dépistage du cancer du sein : quelle participation des femmes en 2021 ? 2022.](https://www.santepubliquefrance.fr/les-actualites/2022/depistage-du-cancer-du-sein-quelle-participation-des-femmes-en-2021)
+- [Santé Publique France. Cancer colorectal : données de dépistage 2020-2021. 15/03/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cancer-colorectal-donnees-de-depistage-2020-2021)
 - [Santé Publique France. Cancer du côlon rectum : données. Mars 2022.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-colon-rectum/donnees)
 - [Jéhannin-Ligier K et al. Projection de l'incidence et de la mortalité par cancer en France métropolitaine en 2017. Rapport technique. Santé publique France. 2017.](https://www.santepubliquefrance.fr/docs/projection-de-l-incidence-et-de-la-mortalite-par-cancer-en-france-metropolitaine-en-2017)
 - [Santé Publique France. Cancer du col de l'utérus : la couverture du dépistage et de la vaccination doivent progresser pour une meilleure prévention. Janvier 2022.](https://www.santepubliquefrance.fr/presse/2022/cancer-du-col-de-l-uterus-la-couverture-du-depistage-et-de-la-vaccination-doivent-progresser-pour-une-meilleure-prevention)
