@@ -21,10 +21,10 @@ todo = "algo, FDR: IPP > 1 an ?"
 
 {{%article-summary%}}
 
-- Atteint préférentiellement l'homme +65 ans
-- Principaux facteurs de risque: [gastrite à HP]({{< relref "helicobacter-pylori.md" >}}) (80%), tabagisme, alimentation salée/fumée, antécédent familial de cancer gastrique, Lynch/HNPCC
+- Le cancer de l'estomac atteint préférentiellement l'homme après 65 ans
+- Principaux facteurs de risque de cancer de l'estomac: [gastrite à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}}) (80%), tabagisme, alimentation salée/fumée, antécédent familial de cancer gastrique, Lynch/HNPCC
 - Signes d'alarmes en symptômes digestifs hauts: dysphagie, amaigrissement, anémie
-- Dépistage du 1<sup>er</sup> degré en cas de lésion cancéreuse: sérologie HP chez un sujet -45 ans, fibroscopie au-delà
+- Dépistage du premier degré en cas de lésion cancéreuse: sérologie HP chez un sujet de moins de 45 ans, fibroscopie gastrique au-delà
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -84,19 +84,15 @@ Premier degré
   - Maladie de Ménétrier
 - Syndrome de Lynch (HNPCC)
 - **Antécédent familial au premier degré de cancer de l'estomac**
-- Traitement par IPP depuis plus d'un an (consensus Masstricht IV/Florence 2012)
+- **Traitement par IPP depuis plus d'un an** (consensus Masstricht IV/Florence 2012)
 - Antécédent de gastrectomie partielle datant de +10 ans
 - [Consommation d'alcool]({{< relref "sevrage-alcool.md" >}})
 - Tabagisme
 - Alimentation salée/fumée et faible apports en fruits/légumes
 - Infection à EBV
-- Origine géographique  
-  Asie, Amérique latine.
+- Origine géographique: Asie, Amérique latine
 
-Principaux facteurs de risque de cancer du cardia gastrique:
-
-- Surpoids
-- [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
+Principaux facteurs de risque de cancer du cardia gastrique: Surpoids et [reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

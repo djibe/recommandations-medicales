@@ -2,7 +2,7 @@
 title = "Polyarthrite rhumatoïde"
 prefix = "la "
 titleSeo = "Polyarthrite rhumatoïde"
-description = "Recommandations SFR 2018 pour le diagnostic et le traitement de la polyarthrite rhumatoïde. Bilan biologique et radiographies. AINS, méthotrexate, biothérapie"
+description = "Recommandations SFR 2018 pour le diagnostic et le traitement de la polyarthrite rhumatoïde. Anticorps et radiographies. AINS, méthotrexate, biothérapie"
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr JG LETAROUILLY (SFR)"
 date = "2020-10-23T22:24:41+02:00"
@@ -23,11 +23,11 @@ todo = "lire sources, Échodoppler des TSA ?"
 
 {{%article-summary%}}
 
-- Évoquer devant toute arthrite, dérouillage > 30 min, douleur en pression des MCP/MTP
-- Une suspicion de PR nécessite un diagnostic et un traitement rapide
-- Prescrire le bilan biologique avec les radios pour adresser au rhumatologue dans les 6 semaines (voir *Examens complémentaires*)
+- Évoquer une polyarthrite rhumatoïde devant toute arthrite, dérouillage de plus de 30 minutes, douleurs en pression des mains ou pieds (MCP/MTP)
+- Une suspicion de polyarthrite rhumatoïde nécessite un diagnostic et un traitement rapide
+- Prescrire le bilan biologique avec les radiographies pour adresser au rhumatologue dans les 6 semaines (voir *Examens complémentaires*)
 - Le traitement spécifique relève exclusivement du rhumatologue
-- Dépistage des cancers, facteurs de risque cardiovasculaire, dTP tous les 10 ans, pneumocoque tous les 5 ans
+- Dépistage des [cancers](/tags/cancer/), facteurs de risque cardiovasculaire, dTP tous les 10 ans, pneumocoque tous les 5 ans
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -35,7 +35,7 @@ todo = "lire sources, Échodoppler des TSA ?"
 Polyarthrite rhumatoïde (PR)
 : Maladie chronique évoluant par poussées inflammatoires de la membrane synoviale.  
 Premier rhumatisme inflammatoire de l'adulte (prévalence de 0,3 à 1%).  
-La destruction articulaire entraîne altération de la qualité de vie, handicap et réduction de l'espérance de vie (~10 ans)
+La destruction articulaire entraîne altération de la qualité de vie, handicap et réduction de l'espérance de vie (10 ans)
 : Intérêt d'un diagnostic et d'un traitement précoce.
 : **Complications** de la polyarthrite: déformations articulaires et handicap, douleurs et altération de la qualité de vie, augmentation du risque cardiovasculaire, insuffisance respiratoire restrictive, infections, lymphomes, fractures ostéoporotiques.
 : *Rémission* de la polyarthrite rhumatoïde: lorsque le score [DAS28](https://sfr.larhumatologie.fr/sites/sfr.larhumatologie.fr/files/medias/formations-ressources/boite_outils/das28.pdf) est < 2,6.
@@ -109,9 +109,9 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
   - Syndrome sec
 - Diagnostic différentiel
   - Connectivites  
-  [Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), myalgie, perte de force, lésions cutanées, photosensibilité.
+    [Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}), myalgie, perte de force, lésions cutanées, photosensibilité.
   - Spondyloarthrites et rhumatisme psoriasique  
-  Atteinte des IPD, psoriasis, diarrhée glairo-sanglante, uvéite, rachialgie, pyalgie.
+    Atteinte des IPD, psoriasis, diarrhée glairo-sanglante, uvéite, rachialgie, pyalgie.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -127,12 +127,14 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
 - Facteur rhumatoïde (FR)
 - Anticorps anti-peptide citrulliné (*ACPA* ou *anti-CCP*)
 - Anticorps antinucléaires (AAN)
-- Sérologies [hépatites B]({{< relref "hepatite-c.md" >}}) et [C]({{< relref "hepatite-c.md">}}), VIH
-- Radiographies
-  - Mains et poignets de face
-  - Avants-pieds face et 3/4 en grandeur normale
-  - Thorax face
-  - Toute articulation symptomatique
+- Sérologies [hépatites B]({{< relref "hepatite-c.md" >}}) et [C]({{< relref "hepatite-c.md">}}), [VIH]({{< relref "vih-sida.md" >}})
+
+avec les radiographies suivantes:
+
+- Mains et poignets de face
+- Avants-pieds face et 3/4 en grandeur normale
+- Thorax de face
+- Toute articulation symptomatique
 {{%/info%}}
 
 Selon le contexte:
@@ -194,8 +196,8 @@ Ceux-ci relèvent exclusivement du rhumatologue.
 
 ### Traitement de fond conventionnel
 
-Systématique << en urgence >> dès le diagnostic, même s'il ne remplit pas encore les critères de rhumatisme défini.  
-Modifié en cas d'inefficacité à 3 mois (ou objectif thérapeutique non atteint à 6 mois).
+Le traitement de la polyarthrite rhumatoïde est systématique, << en urgence >> dès le diagnostic, même s'il ne remplit pas encore les critères de rhumatisme défini.  
+Il est modifié en cas d'**inefficacité à 3 mois** (ou objectif thérapeutique non atteint à 6 mois).
 
 {{%info%}}
 **Méthotrexate (MTX)** en première intention, dose optimale (25 mg/semaine) à atteindre en 4-8 semaines.  
@@ -213,9 +215,9 @@ Décroissance de dose seulement après rémission persistante et prolongée.
 
 Si traitement inaugural ou contre-indication au méthotrexate: **léflunomide** (Arava®, générique) 20 g/j ou **sulfasalazine** (Salazopyrine®) 3 mg/j.
 
-### Traitement de fond par biothérapie
+### Biothérapies pour le traitement de la polyarthrite rhumatoïde
 
-En 2<sup>e</sup> intention.
+Les biothérapies sont utilisées en 2<sup>e</sup> intention.
 
 #### En présence de facteurs de mauvais pronostic
 

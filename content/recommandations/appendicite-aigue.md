@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-20T22:32:54+02:00"
 publishdate = "2022-06-21"
-lastmod = "2022-06-23"
+lastmod = "2022-09-19"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["SFCD", "Collèges"]
@@ -15,13 +15,13 @@ anglais = ["Acute appendicitis"]
 sctid = "85189001"
 image = false
 imageSrc = ""
-todo = "FLOW, summary, https://www.sciencedirect.com/science/article/pii/B9782294759710000298, relecture leon.maggiori@aphp"
+todo = "FLOW, https://www.sciencedirect.com/science/article/pii/B9782294759710000298, relecture leon.maggiori@aphp"
 +++
 
 {{%article-summary%}}
 
-- Le diagnostic est délicat (diagnostics différentiels) et exige des examens complémentaires (BU, biologie, échographie)
-- Urgence chirurgicale (pouvant être différée jusqu'à H24 du diagnostic)
+- Le diagnostic d'appendicite aiguë est délicat (fréquents diagnostics différentiels) et nécessite des examens complémentaires (bandelette urinaire, bilan biologique et échographie abdominale)
+- L'appendicite aiguë est une urgence chirurgicale (pouvant être différée jusqu'à 24 heures du diagnostic)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -47,6 +47,9 @@ AA
 FID
 : fosse iliaque droite
 
+MICI
+: maladie inflammatoire chronique de l'intestin
+
 SFU
 : signes fonctionnels urinaires
 
@@ -60,7 +63,7 @@ TDM
 Diagnostics différentiels de l'appendicite aiguë:
 
 - Gastro-entérite aiguë
-- MICI
+- Maladie inflammatoire chronique de l'intestin (MICI)
 - Cholécystite aiguë
 - Garçon: torsion du testicule
 - Femme: Grossesse extra-utérine, salpingite, torsion ovarienne ou kyste de l'ovaire, [endométriose]({{< relref "endometriose.md" >}})
@@ -72,8 +75,8 @@ Diagnostics différentiels de l'appendicite aiguë:
 {{% /collapse %}}
 {{%collapse "Clinique de l'appendicite aiguë" %}}
 
-La clinique n'est pas suffisante pour le diagnostic d'appendicite aiguë.  
-Signes et symptômes faisant évoquer une appendicite aiguë:
+L'examen clinique n'est pas suffisante pour le diagnostic d'appendicite aiguë.  
+Signes et symptômes devant faire évoquer une appendicite aiguë:
 
 ### Interrogatoire
 
@@ -93,7 +96,7 @@ Signes et symptômes faisant évoquer une appendicite aiguë:
 - Signes négatifs
   Signes fonctionnels urinaires, gynécologiques.
 
-Femme enceinte: utérus repousse l'appendice avec tableau de colique hépatique.
+{{%info%}}Chez la femme enceinte: l'utérus repousse l'appendice avec tableau de colique hépatique{{%/info%}}
 
 ### Examen clinique
 
@@ -112,8 +115,8 @@ Femme enceinte: utérus repousse l'appendice avec tableau de colique hépatique.
 
 ### Signes d'appendicite chez le petit enfant
 
-Elle est possible à tout âge mais exceptionnelle avant 1 an.  
-Signes non spécifiques: AEG, fièvre élevée, vomissements, diarrhées, insomnie, agitation.
+L'appendicite aiguë est possible à tout âge mais reste exceptionnelle avant 1 an.  
+Les signes sont non spécifiques: AEG, fièvre élevée, vomissements, diarrhées, insomnie, agitation.
 
 ### Autres formes cliniques d'appendicite selon sa topographie
 
@@ -121,7 +124,7 @@ Appendicite rétro-cæcale
 : Psoïtis plus franc. Examen en décubitus latéral gauche objective mieux la douleur en palper bimanuel (flanc droit - fosse lombaire droite).
 
 Appendicite pelvienne
-: Signes pelviens: SFU, ténesme ou signes gynécologiques. Touchers pelviens avec douleur latéralisée à droite.
+: Signes pelviens: signes urinaires, ténesme ou signes gynécologiques. Touchers pelviens avec douleur latéralisée à droite.
 
 Appendicite méso-cœliaque
 : Tableau d'occlusion fébrile.
@@ -131,10 +134,10 @@ Appendicite en position sous-hépatique
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Examens complémentaires" %}}
+{{%collapse "Examens complémentaires de l'appendicite aiguë" %}}
 
 Les marqueurs biologiques ne sont pas suffisants pour le diagnostic d'appendicite aiguë.  
-Aucun score typant le syndrome inflammatoire ne s'est révélé discriminant.
+Aucun score basé sur le syndrome inflammatoire ne s'est révélé suffisant pour affirmer le diagnostic.
 
 - Bandelette urinaire
 - NFS (80% d'hyperleucocytose)
@@ -148,8 +151,8 @@ Aucun score typant le syndrome inflammatoire ne s'est révélé discriminant.
 
 ### Imagerie de l'appendicite
 
-**Échographie abdominale** par examinateur entraîné ou **scanner abdominal** (+75 ans et obèse ++) avec injection.  
-Après une échographie normale, contrôler avec un opérateur entraîné ou scanner.
+**Échographie abdominale** par examinateur entraîné ou **scanner abdominal avec injection** (+75 ans et obèse ++).  
+Après une échographie normale, contrôler avec un opérateur entraîné ou un scanner.
 
 Chez la femme enceinte: échographie abdominale ou IRM abdominale sans injection.  
 Après échographie normale ou non concluante et absence d'accès à l'IRM: scanner abdominal avec injection.

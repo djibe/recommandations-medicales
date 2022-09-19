@@ -19,11 +19,11 @@ imageSrc = "Illustration de Freepik"
 todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests_fagerstrom.pdf"
 +++
 
-## Sevrage tabagique - les substituts nicotiniques remboursés {.typography-headline-5}
+## Les substituts nicotiniques remboursés pour le sevrage tabagique {.typography-headline-5}
 
-Liste des substituts nicotiniques remboursés sur prescription par la Sécurité Sociale en 2022, sans limite de dépenses.
+Liste des substituts nicotiniques remboursés sur prescription par la Sécurité Sociale en 2022, sans limite de dépenses en vue de l'arrêt du tabac.
 
-### Aide au choix des médicaments remboursés à 65% par l'Assurance Maladie sur prescription {.typography-subtitle-1 .text-black-primary}
+### Aide au choix des médicaments remboursés à 65% par l'Assurance Maladie sur prescription médicale {.typography-subtitle-1 .text-black-primary}
 
 <hr class="my-3">
 <div class="my-3 my-lg-4" style="max-width: 800px">

@@ -1,7 +1,7 @@
 +++
 title = "Gonarthrose"
 prefix = "la "
-description = "Recommandations pour la prise en charge de la gonarthrose. Radios, infiltrations du genou, anti-inflammatoires, infiltrations et indications à la chirurgie ..."
+description = "Recommandations pour la prise en charge de la gonarthrose. Radiographies, infiltrations du genou, anti-inflammatoires, indications à la chirurgie ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-15T19:21:00+02:00"
@@ -20,9 +20,9 @@ todo = "Recommandations 2021 pour la prise en charge non pharmacologique des mal
 
 {{%article-summary%}}
 
-- Risque cardiovasculaire par sédentarité
+- Complications de la gonarthrose: risque cardiovasculaire par sédentarité, dépression
 - Maintien de l'activité physique
-- Traitement de la crise: AINS topiques, per os, infiltrations
+- Traitement de la crise de gonarthrose: AINS topiques et oraux, infiltrations
 - Chirurgie en résistance au traitement et altération de la qualité de vie
 
 {{%/article-summary%}}
@@ -30,7 +30,7 @@ todo = "Recommandations 2021 pour la prise en charge non pharmacologique des mal
 
 Gonarthrose
 : Atteinte la plus fréquente de l'arthrose.  
-Les 2 compartiments peuvent être atteints: fémoro-tibiale (interne surtout, 1/2) et fémoro-patellaire (1/3).
+Les 2 compartiments peuvent être atteints: **fémoro-tibiale** (interne surtout, 1/2) et **fémoro-patellaire** (1/3).
 : L'évolution se fait par poussées et est très variable.  
 Une synovite chronique est un facteur de mauvais pronostic.
 
@@ -39,6 +39,8 @@ Gonarthrose destructrice rapide
 Rechercher une chondrocalcinose associée.
 
 ### Facteurs de risque de gonarthrose
+
+Éléments inducteurs de gonarthrose:
 
 - Fémoro-tibiale
   - Troubles de la statique des membres inférieurs  
@@ -52,9 +54,9 @@ Rechercher une chondrocalcinose associée.
 - Vieillissement
 - Traumatismes articulaires répétés
 
-### Épidémiologie
+### Épidémiologie de la gonarthrose
 
-France: chez les 40-75 ans, prévalence de 2-10% pour les femmes et 1,5-15% pour les hommes.
+France: chez les 40-75 ans, prévalence de 2 à 10% chez les femmes et 1,5 à 15% chez les hommes.
 
 ### Abréviations
 
@@ -67,6 +69,8 @@ AASAL
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
+
+L'évaluation clinique pour une gonarthrose recherche le retentissement sur les capacités fonctionnelles et sa sévérité.
 
 ### Interrogatoire
 
@@ -108,6 +112,8 @@ AASAL
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
+Diagnostic différentiel de douleurs évocatrices de gonarthrose.
+
 ### Douleurs aiguës
 
 - Arthrite septique
@@ -129,11 +135,11 @@ AASAL
 - Algodystrophie
 - Tendinopathie
   - Tendinite rotulienne  
-  Douleur sous-rotulienne majorée à la montée/descente des escaliers, flexion.
+    Douleur sous-rotulienne majorée à la montée/descente des escaliers, flexion.
   - Tendinite quadricipitale  
-  Rare. Douleur sus-rotulienne. Rupture à bas bruit du sujet âgé. Échographie.
+    Rare. Douleur sus-rotulienne. Rupture à bas bruit du sujet âgé. Échographie.
   - Tendinite de la patte d'oie  
-  Douleur réveillée en palpation de face interne du tibia sous l'interligne fémoro-tibial interne. Déclenchée par flexion contrariée.
+    Douleur réveillée en palpation de face interne du tibia sous l'interligne fémoro-tibial interne. Déclenchée par flexion contrariée.
 - Hygroma du genou  
   Bursite pré-rotulienne, profession à risque. Tuméfaction molle, peu douloureuse, antérieure.  
   AINS topiques, ponctions évacuatrices avec infiltration de corticoïdes.
@@ -147,24 +153,25 @@ AASAL
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan devant une gonarthrose
+### Bilan biologique devant une gonarthrose
 
 - NFS, VS, CRP  
-Pas de syndrome inflammatoire.
+  Pas de syndrome inflammatoire.
 
-### Radiographies bilatérales
+### Radiographies bilatérales du genou
 
 Pour le diagnostic positif et différentiel.  
 **NB.** La douleur est mal corrélée au stade radiographique.
 
 {{%info%}}
+Radiographies des deux genoux:
 
 - Genoux de face en charge, profil
 - Défilé fémoro-patellaire à 30° de flexion
 - Schuss (de face, en charge avec 30-60° de flexion)
 {{%/info%}}
 
-#### En savoir plus: Signes radiologiques de l'arthrose
+#### En savoir plus: Signes radiologiques de l'arthrose des genoux
 
 - Pincement de l'interligne localisé à 1 compartiment (voire 2)
 - Arthrose fémoro-tibiale
@@ -172,8 +179,8 @@ Pour le diagnostic positif et différentiel.
   - Schuss: ostéophytose des épines tibiales
   - Profil: ostéophytose anté et rétro tibiale
   - Ostéosclérose sous-chondrale avec géodes du même compartiment
-- Arthrose fémoro-patellaire
-  - Défilé 30°: raccourcissement de l'interligne externe, ostéophytose rotulienne trochléenne externe.
+- Arthrose fémoro-patellaire  
+  Défilé 30°: raccourcissement de l'interligne externe, ostéophytose rotulienne trochléenne externe.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la gonarthrose" %}}
@@ -208,7 +215,7 @@ Recommandations pour la prise en charge des douleurs par les traitements pharmac
 
 #### Infiltrations de corticoïdes
 
-Les injections intra-articulaires de corticoïdes peuvent être proposées, particulièrement en poussée inflammatoire avec épanchement articulaire.
+Les injections intra-articulaires de corticoïdes peuvent être proposées, particulièrement en poussée inflammatoire d'arthrose avec épanchement articulaire.
 
 Les infiltrations sont à préférer chez le sujet âgé.
 
@@ -217,7 +224,7 @@ Essayer l'abstention en cas de chirurgie proche.
 
 #### Infiltrations d'acide hyaluronique
 
-Les injections intra-articulaires d'acide hyaluronique (AH) peuvent être proposées, sans avancer d'effet chondroprotecteur.  
+Les injections intra-articulaires d'acide hyaluronique (AH) dans le genou peuvent être proposées, sans avancer d'effet chondroprotecteur.  
 L'efficacité est retardée par rapport aux corticoïdes.
 
 > << Le groupe de travail a considéré que leur niveau d'efficacité et leur profil de tolérance les placent comme un outil thérapeutique important de la gonarthrose symptomatique >> (*SFR 2020*).
@@ -236,41 +243,40 @@ Méthodes: ostéotomie de réaxation ou prothèse de genou.
 
 Indication limitée aux patients avec une contre-indication à la chirurgie du genou, en cas d'échec ou contre-indication aux autres traitements.
 
-> "L'efficacité des opioïdes faibles et forts est considérée comme modeste sur la douleur arthrosique". *SFR 2020*
+> << L'efficacité des opioïdes faibles et forts est considérée comme modeste sur la douleur arthrosique >>. *SFR 2020*
 
 #### Médicaments anti-arthrosiques symptomatiques d'action lente
 
-Peuvent être proposés, ils ont une faible efficacité.
+Les anti-arthrosiques symptomatiques d'action lente peuvent être proposés mais avec une faible efficacité.
 
-Molécules: insaponifiables d'avocat et de soja, chondroïtine, glucosamine, diacéréine (CI après 65 ans en antécédent hépatique).
+Molécules: insaponifiables d'avocat et de soja, chondroïtine, glucosamine, diacéréine (contre-indiquée après 65 ans en antécédent hépatique).
 
-(Pré)-diabétiques: ne pas utiliser de compléments alimentaires avec glucosamine +/ chondroïtine (ANSES).
+(Pré)-diabétiques: ne pas utiliser de compléments alimentaires avec glucosamine ± chondroïtine (*Anses*).
 
 #### Capsaïcine topique faiblement dosée (< 1%)
 
-Elle peut être envisagée.
+La capsaïcine topique peut être envisagée, sur ordonnance de préparation magistrale.
 
 Dans 35 à 100% des cas, elle entraîne des brûlures légères locales temporaires.  
-Sur ordonnance de préparation magistrale.  
 Les AINS topiques sont le traitement topique préférable.
 
-#### Autres traitements
+#### Autres traitements de la gonarthrose
 
 ##### Injections intra-articulaires de concentrés plaquettaires
 
-Manque de recul et insuffisance de données.
+Manque de recul et insuffisance de données concernant l'efficacité des injections intra-articulaires de concentrés plaquettaires sur la gonarthrose.
 
 #### Duloxétine hors AMM
 
-Par expert en absence d'alternatives thérapeutiques.
+Recours possible sur prescription par un expert en absence d'alternatives thérapeutiques.
 
 ### Traitements de la gonarthrose fémoro-patellaire
 
-- Kinésithérapie  
-Rééducation isométrique du vaste interne pour réaxer la rotule, auto-exercices.
+- **Kinésithérapie**  
+  Rééducation isométrique du vaste interne pour réaxer la rotule, auto-exercices.
 - Phase douloureuse  
-Limiter vélo, ski.
-- Infiltrations de corticoïdes en poussée.
+  Limiter vélo, ski.
+- Infiltrations de corticoïdes en poussée
 - Chirurgie en cas d'échec du traitement conservateur
 
 {{% /collapse %}}

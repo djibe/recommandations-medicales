@@ -23,11 +23,11 @@ todo = "centres réadapt vasculaire, QDV EQ-5D, association patient, https://pub
 
 {{%article-summary%}}
 
-- Dépister par IPS largement: {{< modal-btn modal-depistage-prevalent >}}ciblé ≥ 55 ans{{< /modal-btn >}}, ≥ 65 ans, ≥ 50 ans avec ATCD familial ou ≥ 1 autre FRCV, claudication vasculaire, athérome, AAA, insuffisance rénale, insuffisance cardiaque, {{< modal-btn modal-rcv >}}risque CV élevé{{< /modal-btn >}}...
-- Définit un {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}}
+- Dépister largement l'artériopathie par IPS: {{< modal-btn modal-depistage-prevalent >}}ciblé ≥ 55 ans{{< /modal-btn >}}, ≥ 65 ans, ≥ 50 ans avec antécédent familial ou ≥ 1 autre FRCV, claudication vasculaire, athérome, [anévrysme de l'aorte]({{< relref "anevrysme-aorte-abdominale.md" >}}), [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), {{< modal-btn modal-rcv >}}risque CV élevé{{< /modal-btn >}}...
+- La présence d'une artériopathie des membres inférieurs définit un {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}}
 - Bilan des autres localisations athéromateuses
 - Suivi par cardiologue et angiologue
-- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, sevrage tabagique, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
+- Thérapeutique: {{< modal-btn modal-statine-intensite >}}statine{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, sevrage tabagique, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -138,7 +138,7 @@ TZD
 
 Le dépistage de l'artériopathie par l'IPS est à **renouveler tous les 5 ans** ou plus souvent si situation à risque.
 
-### Comment dépister l'AOMI?
+### Comment dépister l'artériopathie oblitérante des membres inférieurs?
 
 Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se 75%, Spe 86%) et de l'*index de pression au gros orteil* (IPSGO) ≤ 0,7 (*SFMV 2020*).  
 {{%class%}}IPS = rapport PAS cheville / PAS humérale.{{%/class%}}  
@@ -147,7 +147,7 @@ Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}60 à 80% des patients sont asymptomatiques au diagnostic d'AOMI{{%/info%}}
+{{%info%}}60 à 80% des patients sont asymptomatiques au diagnostic d'artériopathie des membres inférieurs{{%/info%}}
 
 Signes et symptômes de l'artériopathie oblitérante des membres inférieurs:
 
@@ -205,7 +205,7 @@ L'*ESC* encourage la **mesure de l'index de pression systolique** (IPS) par tout
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Autres douleurs à l'effort:
+Éliminer les autres types de douleurs à l'effort:
 
 - Syndrome de loges  
   Sujet sportif, compression ou serrement des mollets après un exercice important, la douleur diminue très lentement, soulagement jambes surélevées.
@@ -224,7 +224,7 @@ Autres douleurs à l'effort:
 
 {{%info%}}
 
-### Bilan devant une AOMI
+### Bilan devant une artériopathie des membres inférieurs
 
 - Biologie
   - NFS
@@ -244,23 +244,23 @@ Autres douleurs à l'effort:
 L'échodoppler artériel confirme les lésions d'AOMI et est couplé au [dépistage systématique de l'anévrysme de l'aorte abdominale]({{< relref "anevrysme-aorte-abdominale.md" >}}).  
 Aide à la classification de *Fontaine et Rutherford*.
 
-### ECG de repos ± épreuve d'effort
+### Électrocardiogramme de repos voire épreuve d'effort
 
-Dépiste une coronaropathie ou un trouble du rythme associé.
+L'ECG dépiste une coronaropathie ou un trouble du rythme associé.
 
 ### Échodoppler des artère rénales
 
-Échodoppler des artère rénales si OAP flash ou [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) rapidement progressive.
+Échodoppler des artère rénales après un œdème aigu du poumon flash ou une [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) rapidement progressive.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'AOMI" %}}
 
-**Objectif:** obtenir une amélioration du périmètre de marche et restaurer une qualité de vie.
+**Objectif du traitement de l'artériopathie:** obtenir une amélioration du périmètre de marche et restaurer une qualité de vie.
 
-{{%info%}}Suivi cardiologique spécialisé, traitement systématique par statine et IEC, sevrage tabagique et mesures d'hygiène.{{%/info%}}
+{{%info%}}Suivi cardiologique spécialisé, traitement systématique par statine et IEC, sevrage tabagique et mesures d'hygiène{{%/info%}}
 
 - [ALD n°3]({{< relref "affection-longue-duree.md" >}})  
-Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant nécessité revascularisation ou amputation.
+  Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant nécessité revascularisation ou amputation.
 - Arrêt du tabac
 - {{< modal-btn modal-statine-intensite >}}Statine systématique{{< /modal-btn >}}
   - {{< modal-btn modal-rcv >}}LDL cible < 0,55 g/L{{< /modal-btn >}} avec contrôle annuel
@@ -300,7 +300,7 @@ Suivi déterminé par l'angiologue après revascularisation.
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-[HAS - La prise en charge de votre artérite des membres inférieurs (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-06/08-098_gp_maladie_corona_2008-06-16_14-30-47_587.pdf)
+[HAS : La prise en charge de votre artérite des membres inférieurs (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-06/08-098_gp_maladie_corona_2008-06-16_14-30-47_587.pdf)
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour le dépistage de l'AOMI" "show" %}}
@@ -321,7 +321,7 @@ style depister stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%collapse "FMC gratuite" %}}
 
-{{< youtube id="YqY_zHXRgxQ" title="La prise de l'indice tibio-brachial (Dr Richard Belley)" >}}
+{{< youtube id="YqY_zHXRgxQ" title="La mesure de l'index de pression systolique (Dr Richard Belley)" >}}
 
 {{% /collapse %}}
 {{%sources%}}
@@ -330,12 +330,12 @@ style depister stroke:#4150f5, stroke-width:1px
 - [Mahé G. et al, the SFMV/SCVE group. Disparities between international guidelines (AHA/ESC/ESVS/ESVM/SVS) concerning - Lower extremity arterial disease: consensus of the French Society of Vascular Medicine (SFMV) and the French Society for Vascular and Endovascular Surgery (SCVE). Annals of Vascular Surgery. 2021.](https://doi.org/10.1016/j.avsg.2020.11.011)
 - {{< references/esc-dyslipidemie >}}
 - Prescrire Redaction. Signes d'artériopathie des membres inférieurs. Août 2019.
-- [Aboyans A. et al. 2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS): Document covering atherosclerotic disease of extracranial carotid and vertebral, mesenteric, renal, upper and lower extremity arteries. Endorsed by: the European Stroke Organization (ESO) The Task Force for the Diagnosis and Treatment of Peripheral Arterial Diseases of the European Society of Cardiology (ESC) and of the European Society for Vascular Surgery (ESVS). Eur Heart J. 2018 Mar 1;39(9):763-816.](https://doi.org/10.1093/eurheartj/ehx095)
-- [Mahé G., Jaquinandi V. Artériopathie des membres inférieurs athéromateuse : diagnostic. La Presse Médicale. Volume 47. Issue 1. 20183 Pages 47-55. ISSN 0755-4982.](https://doi.org/10.1016/j.lpm.2017.09.021)
-- [HAS. Actes et prestations – ALD. Artériopathie oblitérante des membres inférieurs. Novembre 2016.](https://www.has-sante.fr/jcms/c_534760/fr/ald-n3-arteriopathie-obliterante-des-membres-inferieurs)
-- [Mounier-Vehier C et al. Quand doit-on dépister l'artériopathie oblitérante des membres inférieurs ? Quelle stratégie médicale proposer ? Mal Coeur Vaiss Prat. 15 déc 2009;15(182):13‑24.](https://www.em-consulte.com/article/237143)
+- [Aboyans A. et al. 2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS): Document covering atherosclerotic disease of extracranial carotid and vertebral, mesenteric, renal, upper and lower extremity arteries. Endorsed by: the European Stroke Organization (ESO) The Task Force for the Diagnosis and Treatment of Peripheral Arterial Diseases of the European Society of Cardiology (ESC) and of the European Society for Vascular Surgery (ESVS). Eur Heart J. 2018.](https://doi.org/10.1093/eurheartj/ehx095)
+- [Mahé G., Jaquinandi V. Artériopathie des membres inférieurs athéromateuse : diagnostic. La Presse Médicale. 2018.](https://doi.org/10.1016/j.lpm.2017.09.021)
+- [HAS. Actes et prestations - ALD. Artériopathie oblitérante des membres inférieurs. Novembre 2016.](https://www.has-sante.fr/jcms/c_534760/fr/ald-n3-arteriopathie-obliterante-des-membres-inferieurs)
+- [Mounier-Vehier C et al. Quand doit-on dépister l'artériopathie oblitérante des membres inférieurs ? Quelle stratégie médicale proposer ? Mal Coeur Vaiss Prat. 2009.](https://www.em-consulte.com/article/237143)
 - [TASC II. Management of Peripheral Arterial Disease. 2007.](https://www.jvascsurg.org/article/S0741-5214(06)02296-8/pdf)
-- [Bendermacher BL et al. A clinical prediction model for the presence of peripheral arterial disease--the benefit of screening individuals before initiation of measurement of the ankle-brachial index: an observational study. Vasc Med. 2007 Feb;12(1):5-11.](https://journals.sagepub.com/doi/10.1177/1358863X07076827)
+- [Bendermacher BL et al. A clinical prediction model for the presence of peripheral arterial disease--the benefit of screening individuals before initiation of measurement of the ankle-brachial index: an observational study. Vasc Med. 2007.](https://journals.sagepub.com/doi/10.1177/1358863X07076827)
 - [HAS. Guide ALD Artériopathie oblitérante des membres inférieurs. Mars 2007.](https://www.has-sante.fr/upload/docs/application/pdf/ald3_aomi_guide_cardiovasc_post_corrlemire_revuenp28avril__205.pdf)
 - [HAS. Prise en charge de l'artériopathie chronique oblitérante athéroscléreuse des membres inférieurs. Avril 2006.](https://www.has-sante.fr/jcms/c_272513/fr/prise-en-charge-de-l-arteriopathie-chronique-obliterante-atherosclereuse-des-membres-inferieurs-indications-medicamenteuses-de-revascularisation-et-de-reeducation)
 
