@@ -6,7 +6,7 @@ synonyms = ["Favisme", "déficit en Glucose-6-déshydrogénase"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-08T22:38:00+02:00"
 publishdate = "2021-07-09"
-lastmod = "2021-07-09"
+lastmod = "2022-09-22"
 specialites = ["hematologie"]
 annees = "2021"
 sources = ["ANSM", "HAS"]
@@ -15,14 +15,14 @@ anglais = ["Glucose-6-phosphate dehydrogenase deficiency anemia"]
 sctid = "62403005"
 datatable = true
 image = true
-imageSrc = "Illustration par macrovector / Freepik"
+imageSrc = "Illustration du déficit en G6PD par macrovector / Freepik"
 +++
 
 {{%article-summary%}}
 
-- Éviction à vie des substances à risque
-- Port d'une carte et de la liste des médicaments à risque
-- Bilan en urgence en exposition
+- Déficit en G6PD: Éviction à vie des substances à risque  
+  et port d'une carte et de la liste des médicaments à risque
+- Bilan en urgence en exposition aux fèves ou autres produits interdits
 - Conseil génétique familial
 
 {{%/article-summary%}}
@@ -42,10 +42,10 @@ G6PD
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le patient doit reconnaître les signes d'un accident hémolytique.
+Le patient atteint d'un déficit en G6PD doit reconnaître les signes d'un accident hémolytique.
 
 {{%warning%}}La survenue d'une hémolyse aiguë peut mettre en jeu le pronostic vital.  
-Nécessité de bilan biologique en urgence{{%/warning%}}
+Nécessité d'un bilan biologique en urgence{{%/warning%}}
 
 - Homme le plus souvent
 - Quelques heures à 3 jours après la **prise de l'agent déclenchant** ou en contexte fébrile
@@ -67,7 +67,7 @@ Consultation de génétique avec conseil familial.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Examens **en urgence** en hémolyse aiguë.
+Examens **en urgence** en hémolyse aiguë chez un sujet atteint d'un déficit en G6PD.
 
 ### Déficit non connu
 
@@ -89,11 +89,11 @@ Examens **en urgence** en hémolyse aiguë.
 - Créatininémie, urémie
 
 {{% /collapse %}}
-{{%collapse "Médicaments et aliments à risque" %}}
+{{%collapse "Médicaments et aliments à risque en cas de déficit en G6PD" %}}
 
 {{%info%}}
 Les enfants peuvent manger à la cantine à l'exclusion seule des fèves.  
-Seul élément à mentionner sur le PAI, il porte la carte spécifique sur lui.{{%/info%}}
+Seul élément à mentionner sur le *PAI*, il porte la carte spécifique sur lui.{{%/info%}}
 
 ### Aliments et produits à proscrire
 
@@ -109,11 +109,11 @@ Seul élément à mentionner sur le PAI, il porte la carte spécifique sur lui.{
 ### Médicaments à proscrire et possibles
 
 {{%warning%}}
-Toute automédication est proscrite.  
+Toute **automédication** est proscrite lors d'un déficit en G6PD.  
 Remettre au patient la [liste ANSM (PDF)](https://ansm.sante.fr/uploads/2021/03/11/liste-substances-actives-deficit-g6pd-20052019-1-2.pdf) des médicaments proscrits.
 {{%/warning%}}
 
-{{< table title="Possibilités de recours aux substances actives en cas de déficit en G6PD. Dr JB Fron d'après ANSM du 24/05/2019" >}}
+{{< table title="Possibilités de recours aux substances actives en cas de déficit en G6PD. Dr JB Fron d'après ANSM du 24/05/2019" class="datatable" >}}
 | Substance | Utilisation |
 |-----------|-------------|
 | Acide acétylsalicylique (aspirine) | Possible |
@@ -197,6 +197,6 @@ Doit être demandée par le médecin.
 
 - [ANSM. Médicament et déficit en G6PD. 25/05/2021.](https://ansm.sante.fr/documents/reference/medicament-et-deficit-en-g6pd)
 - [HAS. Déficit en G6PD ou favisme. PNDS. Juin 2017.](https://www.has-sante.fr/jcms/c_2800207/fr/deficit-en-g6pd-glucose-6-phosphate-deshydrogenase-ou-favisme)
-- [Anses. Favisme. 27/05/2016.](https://www.anses.fr/fr/content/favisme)
+- [Anses. Favisme. 11/12/2012.](https://www.anses.fr/fr/content/favisme)
 
 {{%/sources%}}

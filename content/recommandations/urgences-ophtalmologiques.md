@@ -6,8 +6,8 @@ description = "Liste non exhaustive des services d'Urgences ophtalmologiques en 
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-01-07T13:22:41+02:00
-publishdate = 2021-01-07
-lastmod = 2022-03-23
+publishdate = "2021-01-07"
+lastmod = "2022-03-23"
 specialites = ["ophtalmologie"]
 annees = "2022"
 sources = []
@@ -23,7 +23,7 @@ datatable = true
 
 {{%collapse "Liste des services d'urgences ophtalmologiques de France métropolitaine" "show" %}}
 
-{{< table title="Liste non exhaustive des services d'urgences ophtalmologiques de France métropolitaine. Dr JB Fron. Soumettez ceux qui vous manquent. Merci" >}}
+{{< table title="Liste non exhaustive des services d'urgences ophtalmologiques de France métropolitaine. Dr JB Fron. Soumettez ceux qui vous manquent avec le formulaire de contact. Merci" class="datatable" >}}
 | Agglomération | Hôpital | Adresse | Ouverture | Téléphone | Commentaire |
 |-------|---------|---------|:---------:|-----------|-------------|
 | Bordeaux | Hôpital Pellegrin | Pl. Amélie Léon<br>33000 Bordeaux | 24/7 | 05 56 79 56 79 | |

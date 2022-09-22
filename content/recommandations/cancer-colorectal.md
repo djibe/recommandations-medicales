@@ -5,18 +5,17 @@ description = "TODO:"
 synonyms = ["Cancer du côlon", "cancer du rectum"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
-publishdate = "2022-09-16"
-lastmod = "2022-09-16"
+publishdate = "2022-09-22"
+lastmod = "2022-09-22"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
 sources = ["INCa", "HAS", "ESGE"]
 tags = ["cancer", "depistage", "fatigue", "obesite", "prevention", "tabac"]
 anglais = ["Colorectal cancer"]
 sctid = "781382000"
-draft = true
-image = false
-imageSrc = ""
-todo = "test dénutrition, SFED, SNFGE, bas grade, HAS 2013 p8 critères Amsterdam Lynch, Table, documents patient dépistage du CCR, collèges"
+image = true
+imageSrc = "Illustration du cancer colorectal. Blausen Medical Communications, Inc., CC BY 3.0, via Wikimedia Commons"
+todo = "SFED, SNFGE, bas grade, HAS 2013 p8 critères Amsterdam Lynch, collèges"
 +++
 
 {{%article-summary%}}
@@ -166,7 +165,16 @@ Signes évocateurs de cancer colorectal en cas de symptômes persistants:
 Le bilan complémentaire d'extension après la coloscopie totale comprend: Scanner thoraco-abdomino-pelvien avec injection (TAP) et pour le rectum une échoendoscopie rectale ou IRM pelvienne.
 
 {{% /collapse %}}
-{{%collapse "Prévention du cancer colorectal en population générale" %}}
+{{%collapse "Mesures de prévention du cancer colorectal" %}}
+
+{{%info%}}
+
+### Mesures de prévention du cancer colorectal pour la population générale
+
+- Activité physique (réduction 18-29%)
+- Correction d'un surpoids
+- Consommation de laitages
+{{%/info%}}
 
 ### Lutte contre les facteurs de risque environnementaux du cancer colorectal
 
@@ -176,32 +184,23 @@ Facteurs de risque de cancer colorectal liés au mode de vie:
 - Tabac
 - Sédentarité
 - Surpoids (+15% / 5 kg/m²)
-- Alimentation riche en viande rouge - charcuterie (+29% / 100g/j - +21% / 50 g/j)  
+- Alimentation riche en viande rouge (+29% / 100g/j), charcuterie (+21% / 50 g/j)  
   Cible < 500 g/semaine
 - Alimentation pauvre en fibres  
   Cible 400 g/j
 
 > *HAS 2017 et 2013*
 
-Protection du cancer colorectal: activité physique (réduction 18-29%), correction d'un surpoids, consommation de laitages.
+{{% /collapse %}}
+{{%collapse "Les test de dépistage du cancer colorectal" %}}
 
-### Dépistage du cancer du côlon par le test immunologique
+### Dépistage du cancer du côlon par le test immunologique fécal
 
-{{%info%}}Indication au test immunologique: personnes à risque modéré asymptomatiques sans coloscopie dans les 5 ans (ou coloscanner dans les 2 ans){{%/info%}}
+{{< card-link title="INCa - information des personnes pour le dépistage du cancer colorectal" url="https://www.e-cancer.fr/Comprendre-prevenir-depister/Se-faire-depister/Depistage-du-cancer-colorectal">}}
 
-[INCa : information des personnes pour le dépistage du cancer colorectal](https://www.e-cancer.fr/Comprendre-prevenir-depister/Se-faire-depister/Depistage-du-cancer-colorectal)
+{{%info%}}Indication au test immunologique fécal: personnes à risque modéré asymptomatiques sans coloscopie dans les 5 ans (ou coloscanner dans les 2 ans), à répéter tous les 2 ans de 50 à 74 ans{{%/info%}}
 
-Le test immunologique remplace le test *Hemoccult®*. Il est performant (se 70%, spe 96-98%), fiable, gratuit et simple avec un seul prélèvement de selles tous les 2 ans.  
-4% des tests sont positifs, nécessitant une coloscopie de confirmation (cancer 8%, adénome avancé 40%): << détecté tôt, un cancer colorectal peut se guérir dans 9 cas sur 10 >> (*INCa 2020*)
-
-**Critères d'exclusion** au test de dépistage immunologique du cancer du côlon: risque de CCR élevé ou très élevé, symptômes évocateurs de CCR (voir *Clinique*), coloscopie totale dans les 5 ans, coloscanner seul ou coloscopie incomplète suivie de coloscanner dans les 2 ans.
-
-Personne réticente au dépistage par test immunologique:
-
-- Identifier les freins et donner les informations éclairées
-- Rappeler l'enjeu (fréquent et grave) et les qualités du dépistage (performance, simplicité, prélèvement unique)
-
-{{%info%}}<< 90% des personnes réalisent le test lorsqu'il est remis par le médecin >> (*INCa 2020*){{%/info%}}
+[La brochure d'info de l'INCa (PDF)](https://www.e-cancer.fr/content/download/320843/4600170/file/D%C3%A9pliant%20-%20D%C3%A9pistage%20du%20cancer%20colorectal%20-%20D%C3%A8s%2050%20ans,%20un%20test%20%C3%A0%20faire%20chez%20soi%20tous%20les%20deux%20ans.%20148x210.pdf)
 
 #### Commander des kits de dépistage du cancer colorectal
 
@@ -212,6 +211,21 @@ Le kit du dépistage du cancer du côlon peut être remis par le médecin ou dé
   - Le site permet aussi au patient de consulter son résultat
   - Sans invitation, le patient contacte son [CRCDC (annuaire)](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Strategies-de-depistage/Centres-regionaux-de-coordination-des-depistages-des-cancers/)
 
+#### Pour en savoir plus : les test immunologique fécal
+
+Le test immunologique fécal (TIF) remplace le test *Hemoccult®*. Il est performant (se 70%, spe 96-98%), fiable, gratuit et simple avec un seul prélèvement de selles tous les 2 ans.
+
+4% des tests sont positifs, nécessitant une coloscopie de confirmation (cancer 8%, adénome avancé 40%): << détecté tôt, un cancer colorectal peut se guérir dans 9 cas sur 10 >> (*INCa 2020*)
+
+**Critères d'exclusion** au test de dépistage: risque de CCR élevé ou très élevé (voir *[Niveaux de risque](#niveaux-de-risque-de-cancer-colorectal)*), symptômes évocateurs de CCR (voir *Clinique*), coloscopie totale dans les 5 ans, coloscanner seul ou coloscopie incomplète suivie de coloscanner dans les 2 ans.
+
+Personne réticente au dépistage par test immunologique:
+
+- Identifier les freins et donner les informations éclairées
+- Rappeler l'enjeu (fréquent et grave) et les qualités du dépistage (performance, simplicité, prélèvement unique)
+
+{{%info%}}<< 90% des personnes réalisent le test lorsqu'il est remis par le médecin >> (*INCa 2020*){{%/info%}}
+
 {{% /collapse %}}
 {{%collapse "Dépistage et suivi des sujets à risque élevé de cancer colorectal" %}}
 
@@ -220,15 +234,15 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 ### Rythme de dépistage chez les personnes à haut risque de cancer colorectal
 
 {{< table title="Indications au dépistage du cancer colorectal pour les personnes à haut risque selon HAS 2017" class="table-sm" >}}
-| Sujet                                                               | Début surveillance                                                           | Population                                                                                                                                                           | Suivi et rythme                                                                                                     |
-|---------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Antécédent personnel d'adénome                                      | Après résection                                                              | Polype haut risque:<br>nb ≥ 3 ou taille > 1 cm<br>ou PA avec dysplasie haut grade<br>ou PF avec dysplasie                                                             | Coloscopie:<br>À 3 ans puis tous les 3-5 ans selon résultats<br>Après 2 colo normales: 5-10 ans ou arrêt à discuter |
-|                                                                     |                                                                              | Polype bas risque:<br>nb < 3 et taille < 1 cm et PA bas grade<br>ou PF sans dysplasie                                                                                | À 5 ans, puis tous les 3-5 ans selon résultats<br>Après 2 colo normales: 5-10 ans ou arrêt à discuter               |
-| Antécédent personnel de CCR                                         | Après résection                                                              |                                                                                                                                                                      | Coloscopie:<br>A 1 an (3-6 mois si incomplète)<br>Puis tous les 5 ans si normales                                   |
-| Antécédent familial 1er degré de CCR <br>ou d'adénome avancé > 1 cm | À partir de 45 ans<br>ou 10 ans avant l'âge<br>de diagnostic du<br>cas index |                                                                                                                                                                      | Coloscopie tous les 5 ans                                                                                           |
-| MICI                                                                | 6-8 ans après le début<br>des symptômes                                      | Risque élevé:<br>CSP, ATCD de dysplasie, forme étendue<br>sur +50% du côlon, persistance inflammatoire,<br>ATCD familiaux CCR, nb pseudo-polypes,<br>sténose colique | Chromoendoscopie tous les 1-2 ans                                                                                   |
-|                                                                     |                                                                              | Risque intermédiaire:<br>RCH étendue en dessous de l'angle gauche,<br>MC colique étendue sur 30-50%                                                                  | Tous les 3-4 ans                                                                                                    |
-|                                                                     |                                                                              | Risque faible:<br>Rectite de RCH et MC colique étendue sur < 30%                                                                                                     | Pas de suivi spécifique défini                                                                                      |
+| Sujet | Début surveillance | Population | Suivi et rythme |
+|---|---|---|---|
+| Antécédent personnel d'adénome | Après résection | <strong>Polype haut risque:</strong><br>nb ≥ 3 ou taille > 1 cm<br>ou PA avec dysplasie haut grade<br>ou PF avec dysplasie | Coloscopie:<br>À 3 ans puis tous les 3-5 ans selon résultats<br>Après 2 colo normales: 5-10 ans ou arrêt à discuter |
+| | | <strong>Polype bas risque:</strong><br>nb < 3 et taille < 1 cm et PA bas grade<br>ou PF sans dysplasie | À 5 ans, puis tous les 3-5 ans selon résultats<br>Après 2 colo normales: 5-10 ans ou arrêt à discuter |
+| Antécédent personnel de CCR | Après résection |  | Coloscopie:<br>A 1 an (3-6 mois si incomplète)<br>Puis tous les 5 ans si normales |
+| Antécédent familial 1<sup>er</sup> degré de CCR<br>ou d'adénome avancé > 1 cm | À partir de 45 ans<br>ou 10 ans avant l'âge<br>de diagnostic du<br>cas index |  | Coloscopie tous les 5 ans |
+| MICI | 6-8 ans après le début<br>des symptômes | <strong>Risque élevé:</strong><br>CSP, ATCD de dysplasie, forme étendue<br>sur +50% du côlon, persistance inflammatoire,<br>ATCD familiaux CCR, nb pseudo-polypes,<br>sténose colique | Chromoendoscopie tous les 1-2 ans |
+| | | <strong>Risque intermédiaire:</strong><br>RCH étendue en dessous de l'angle gauche,<br>MC colique étendue sur 30-50% | Tous les 3-4 ans |
+| | | <strong>Risque faible:</strong><br>Rectite de RCH et MC colique étendue sur < 30% | Pas de suivi spécifique défini |
 {{< /table >}}
 
 ### Rythme de dépistage chez les personnes à très haut risque de cancer colorectal
@@ -240,19 +254,18 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 
 Le traitement dépend de la décision de la réunion de concertation pluridisciplinaire.
 
-[HAS Guide patient: La prise en charge du cancer colorectal (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-05/ald_30_gp_cancer_colorectal_web.pdf)
-
-- ALD
+- [HAS Guide patient: La prise en charge du cancer colorectal (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-05/ald_30_gp_cancer_colorectal_web.pdf)
+- Déclarer l'ALD
 - Mesures systématiques  
-  Arrêt tabac, alcool, augmenter activité, fibres. Pour diminuer les risques de complication des traitements, de second cancer et améliorer la survie.
-- Dénutrition (39%), diet
-- Stomie: infirmier stomathérapeute
+  Arrêt tabac, alcool, augmenter l'activité physique, fibres pour diminuer les risques de complication des traitements, de second cancer et améliorer la survie.
+- {{< modal-btn modal-mna >}}Dépister la Dénutrition{{< /modal-btn >}} (39%) et accompagnement diététique spécialisé
+- Stomie: soins par infirmier stomathérapeute
 - Association de patients  
   [France Côlon](https://www.france-colon.fr/), [Crohn-RCH France](https://www.afa.asso.fr/), [Ligue nationale contre le cancer](https://www.ligue-cancer.net/), [Polyposes Familiales](https://www.polyposes-familiales.fr/), [HNPCC - Lynch](http://www.hnpcc-lynch.com/), [Ligue Cancer info](https://www.ligue-cancer.net/) (ou {{<phone>}}0 805 123 124{{</phone>}})
 
 ### Suivi après cancer du côlon ou rectum
 
-Pendant 5 ans: clinique (4/an pendant 3 ans puis 2/an), scanner ou écho AP (idem), scanner thoracique et coloscopie (annuels), parfois ACE.
+Pendant 5 ans: clinique (4/an pendant 3 ans puis 2/an), scanner ou échographie abdomino-pelvienne (même rythme que la clinique), scanner thoracique et coloscopie (annuels), parfois marqueur *ACE*.
 
 Après 5 ans: suivi du risque élevé avec coloscopie tous les 5 ans.
 
@@ -264,21 +277,21 @@ Chirurgie le plus souvent. Parfois chimiothérapie adjuvante et thérapie ciblé
 
 ### Pour en savoir: traitement des cancers du moyen et bas rectum
 
-Chirurgie.  
-Stade I: radiothérapie +/- chimiothérapie  
-Stade II et III: radio-chimiothérapie néo-adjuvante et chimiothérapie adjuvante  
-Stade IV: cas par cas
+- Chirurgie
+- Stade I: radiothérapie ± chimiothérapie
+- Stade II et III: radio-chimiothérapie néo-adjuvante et chimiothérapie adjuvante
+- Stade IV: au cas par cas
 
 {{% /collapse %}}
 {{%collapse "La coloscopie" %}}
 
 ### Préparation colique pour une coloscopie
 
-- Régime sans résidus dès J-2 (J-1 ESGE)
+- Régime sans résidus dès J-2 (J-1 selon *ESGE*)
   - Interdits: fruits, légumes, lait, yaourts, fromage blanc, pain, jus de fruits
   - Autorisés: viandes, volailles, œufs, poissons, jambon blanc, pâtes, riz blanc, pommes de terre (sans la peau), fromages à pâte cuite (gruyère, emmenthal, beaufort, comté), biscottes au froment, gâteaux secs simples
 - Produit à base de polyéthilèneglycol (PEG) + simethicone
-- A jeun le jour J
+- À jeun le jour J
 
 > *ESGE 2019* et *HAS 2013*
 
