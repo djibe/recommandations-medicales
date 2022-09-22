@@ -67,7 +67,7 @@ LNG
 : lévonorgestrel
 
 MVTE
-: [maladie veineuse thromboembolique](tags/mvte/)
+: [maladie veineuse thromboembolique](/tags/mvte/)
 
 TVP
 : [thrombose veineuse profonde]({{< relref "thrombose-veineuse-profonde.md" >}})
@@ -389,7 +389,7 @@ Risque de grossesse < 2% à 6 mois si:
 {{% /collapse %}}
 {{%collapse "Gestion des effets indésirables de la contraception" %}}
 
-[Métrorragies](#métrorragies) - [Acné](#acné) - [Libido](#libido) - [Prise de poids](#prise-de-poids) - [Céphalées](céphalées) - [Troubles de l'humeur](#troubles-de-lhumeur)
+[Métrorragies](#métrorragies) - [Acné](#acné) - [Libido](#libido) - [Prise de poids](#prise-de-poids) - [Céphalées](#céphalées) - [Troubles de l'humeur](#troubles-de-lhumeur)
 
 ### Métrorragies
 
@@ -475,7 +475,7 @@ En traitement prolongé, utiliser une contraception non hormonale.
 
 - Charbon: délai > 2h de distance avec la prise hormonale
 - Contraception fortement dosée en EE et traitement ci-dessous: risque d'augmentation des concentrations en EE  
-Étoricoxib, atorvastatine, antifongique azolé (kétoconazole...), bocéprévir.
+  Étoricoxib, atorvastatine, antifongique azolé (kétoconazole...), bocéprévir.
 
 {{% /collapse %}}
 {{%collapse "Contraception et cancer" %}}
@@ -485,13 +485,13 @@ En traitement prolongé, utiliser une contraception non hormonale.
 Utilisation de contraception œstroprogestative:
 
 - Augmentation de l'incidence  
-Modérée du risque du **cancer du sein** avec une COP, qui diminue après l'arrêt de la contraception hormonale.
+  Modérée du risque du **cancer du sein** avec une COP, qui diminue après l'arrêt de la contraception hormonale.
 - Diminution de l'incidence  
-Prolongée après l'arrêt.
+  Prolongée après l'arrêt.
   - Cancer de l'endomètre
   - Cancer de l'ovaire
   - Hémopathies malignes
-  - Cancer colorectal
+  - [Cancer colorectal]({{< relref "cancer-colorectal.md" >}})
 
 DIU au LNG: réduction des cancers de l'endomètre et de l'ovaire.
 
@@ -525,7 +525,7 @@ Privilégier les contraceptions non hormonales.
 
 #### Contraception et prédisposition familiale au cancer
 
-BRCA1/2 et Syndrome de Lynch: Toute contraception peut être proposée.
+BRCA 1 ou BRCA 2 et Syndrome de Lynch: Toute contraception peut être proposée.
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

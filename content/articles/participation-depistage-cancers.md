@@ -17,7 +17,7 @@ todo = "https://www.e-cancer.fr/Patients-et-proches/Les-cancers - ### Le dépist
 
 ### Résumé
 
-Trois cancers bénéficient en France d'un dépistage organisé. Il s'agit de cancers fréquents et graves: le [cancer du sein]({{< relref "cancer-sein.md" >}}), du [col de l'utérus]({{< relref "cancer-col-uterus.md" >}}) et du cancer colorectal.
+Trois cancers bénéficient en France d'un dépistage organisé. Il s'agit de cancers fréquents et graves: le [cancer du sein]({{< relref "cancer-sein.md" >}}), du [col de l'utérus]({{< relref "cancer-col-uterus.md" >}}) et du [cancer colorectal]({{< relref "cancer-colorectal.md" >}}).
 
 Pourtant plus le cancer tue, moins les français participent à sa prévention par le dépistage.  
 Ainsi, le cancer colorectal, responsable de 17.000 décès annuels (2<sup>e</sup> en mortalité) n'est recherché que par **35%** des français.  

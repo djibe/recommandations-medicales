@@ -26,7 +26,7 @@ todo = "red flags NICE 23-24-184, Prescrire, risque K src 11-25-63, indication t
   Correction si tabagisme ou altitude.
 - Carence martiale = Ferritinémie < 45 ng/mL
 - Bilan étiologique: BU/ECBU, maladie cœliaque, examen gynécologique
-- EOGD et coloscopie si homme ou femme > 50 ans, ménopausée/sans menstruations, risque élevé de CCR, sévérité inexpliquée
+- EOGD et coloscopie si homme ou femme > 50 ans, ménopausée/sans menstruations, risque élevé de [cancer colorectal]({{< relref "cancer-colorectal.md" >}}), sévérité inexpliquée
 - Supplémentation: 50-100 mg de fer élément à jeun pendant 3 mois
 - Surveillance trimestrielle de la NFS pendant 1 an
 
@@ -172,7 +172,7 @@ Examens recommandés pour la prise en charge d'une anémie (réaliser dans l'ord
 - Facteur de risque d'insuffisance rénale: créatininémie
 - Sujet âgé: vitamines B9 et B12
 - Homme (tout âge)  
-  ou femme > 50 ans, ménopausée/sans menstruations, risque élevé de CCR, sévérité inexpliquée
+  ou femme > 50 ans, ménopausée/sans menstruations, [risque élevé de cancer colorectal]({{< relref "cancer-colorectal.md" >}}), sévérité inexpliquée
   - EOGD et coloscopie rapidement  
     Uniquement si anémie. Si carence martiale seule, surveillance de la NFS.
   - Coloscanner si impossible voire coloIRM

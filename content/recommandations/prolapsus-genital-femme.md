@@ -1,6 +1,7 @@
 +++
 title = "Prolapsus génital de la femme"
 prefix = "le "
+titleSeo = "Prolapsus génital féminin"
 description = "Recommandations pour la prise en charge du prolapsus génital ou colpocèle. Traitement conservateur avec rééducation pelvienne et pessaire gynécologique"
 synonyms = ["Colpocèle"]
 auteurs = ["Jean-Baptiste FRON"]

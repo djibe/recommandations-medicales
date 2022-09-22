@@ -120,7 +120,7 @@ Recommandations sur les mesures de prévention à respecter par les personnes à
   Manipulation de la région gingivale ou péri-apicale de la dent, perforation de la muqueuse orale.
   - Contre-indication aux brossettes interdentaires ou pratiques agressives
 - Désinfection des plaies
-- Dépistage organisé des cancers (colorectal dès 50 ans ++)
+- Dépistage organisé des cancers ([colorectal]({{< relref "cancer-colorectal.md" >}}) dès 50 ans)
 - Soutien psychologique
 - Limiter le recours au cathéter central, intraveineux et prolongé
 

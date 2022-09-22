@@ -1,13 +1,13 @@
 +++
 title = "Conduite à tenir devant un prurit"
 prefix = "la "
-titleSeo = "Conduite à tenir devant un prurit"
+titleSeo = "Prurit et conduite à tenir"
 description = "Recommandations pour la prise en charge d'un prurit. Bilan: biologie, radio de thorax, échographie abdominale et médicament anti-histaminique. Éliminer une gale"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-02T17:43:41+02:00
-publishdate = 2020-10-02
-lastmod = 2021-01-03
+publishdate = "2020-10-02"
+lastmod = "2021-01-03"
 specialites = ["dermatologie"]
 annees = "2017"
 sources = ["CEDEF"]

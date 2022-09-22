@@ -18,6 +18,7 @@ sctid = "235595009"
 image = true
 imageSrc = "BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
+todo = "Reflux Disease Questionnaire (RDQ)"
 +++
 
 {{%article-summary%}}
@@ -313,7 +314,8 @@ Favorisée par l'obésité et une hernie hiatale.
 {{%/collapse%}}
 {{%sources%}}
 
-- [Zerbib F.  Traitement endoscopique du reflux gastro-œsophagien : la quête du graal continue. GastroScoop. 27/04/2022.](https://www.snfge.org/gastroscoop/traitement-endoscopique-du-reflux-gastro-oesophagien-la-quete-du-graal-continue)
+- [Zerbib F. Traitement endoscopique du reflux gastro-œsophagien : la quête du graal continue. GastroScoop. 27/04/2022.](https://www.snfge.org/gastroscoop/traitement-endoscopique-du-reflux-gastro-oesophagien-la-quete-du-graal-continue)
+- [Jouet P. Faut-il diminuer les FODMAPs en cas de RGO ? GastroScoop. 28/07/2021.](https://www.snfge.org/gastroscoop/faut-il-diminuer-les-fodmaps-en-cas-de-rgo)
 - Prescrire Redaction. Patients ayant un reflux gastro-œsophagien. Janvier 2021.
 - Prescrire Redaction. Reflux gastro-œsophagien chez un nourrisson. Août 2020.
 - [Zerbib F. Diagnostic actuel du RGO : Consensus de Lyon (GUT 2018). POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-actuel-du-rgo-consensus-de-lyon-gut-2018/)

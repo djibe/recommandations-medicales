@@ -1,6 +1,6 @@
 +++
 title = "Prophylaxie pré-exposition PrEP"
-titleSeo = "Prophylaxie pré-exposition PrEP"
+titleSeo = "Prophylaxie PrEP"
 prefix = "la "
 description = "Recommandations pour la prescription de la PrEP (prophylaxie pré-exposition). Pour toutes les personnes exposées au VIH par Truvada, bilan pré-thérapeutique ..."
 synonyms = []

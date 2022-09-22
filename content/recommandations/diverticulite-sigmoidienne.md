@@ -1,13 +1,13 @@
 +++
 title = "Diverticulite sigmoïdienne aiguë"
 prefix = "la "
-titleSeo = "Diverticulite sigmoïdienne"
+titleSeo = "Diverticulite sigmoidienne"
 description = "Recommandations pour la prise en charge de la diverticulite sigmoïdienne. Bilan avec CRP, scanner abdomino-pelvien, pas d'antibiotique en crise non compliquée"
 synonyms = ["Sigmoïdite diverticulaire, diverticulite colique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-09T11:33:00+02:00"
 publishdate = "2021-02-09"
-lastmod = "2021-09-27"
+lastmod = "2022-09-22"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["ESCP", "SNFGE", "HAS"]
@@ -16,23 +16,23 @@ anglais = ["Diverticulitis of sigmoid colon"]
 sctid = "427910000"
 flowchart = true
 image = true
-imageSrc = "Anpol42, CC BY-SA 4.0, via Wikimedia Commons"
+imageSrc = "Images endoscopiques de diverticules par Anpol42, CC BY-SA 4.0, via Wikimedia Commons"
 +++
 
 {{%article-summary%}}
 
 - La diverticulose colique est asymptomatique dans 80% des cas
-- Scanner abdomino-pelvien pour le diagnostic
-- Pas d'antibiotiques si crise non compliquée, sans gravité et sans grossesse
-- Chirurgie prophylactique si comorbidités  
-{{%class "text-black-secondary" %}}Immunodépression, insuffisance rénale, altération qualité de vie, fistule, abcès, sténose symptomatique.{{%/class%}}
+- Scanner abdomino-pelvien systématique pour le diagnostic d'une première poussée de diverticulite sigmoïdienne aiguë
+- Pas d'antibiotiques si crise de diverticulite non compliquée, sans gravité et sans grossesse durant les 48 premières heures
+- Chirurgie prophylactique des diverticules en cas de comorbidités:  
+  {{%class "text-black-secondary" %}}Immunodépression, insuffisance rénale, altération qualité de vie, fistule, abcès, sténose symptomatique.{{%/class%}}
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Diverticulite sigmoïdienne aiguë
 : Inflammation infectieuse colique d'origine diverticulaire survenant le plus souvent entre 50 et 70 ans.
-: Facteurs de risque: âge, hérédité, obésité.  
+: Facteurs de risque de diverticulite: âge, hérédité, obésité.  
 30% de récidives à 5 ans. 16 à 35% se compliquent d'abcès.
 
 Diverticulose du côlon
@@ -42,8 +42,8 @@ Elle est asymptomatique dans 80% des cas.
 {{% /collapse %}}
 {{%collapse "Complications" %}}
 
-Les complications surviennent principalement à la première poussée.  
-Le traitement de la diverticulite compliquée est urgent et spécialisé:
+Les complications des poussées de diverticulite sigmoïdienne surviennent principalement à la première poussée.  
+Le traitement de la **diverticulite compliquée** est urgent et spécialisé:
 
 - Abcès
 - Fistule sigmoïdienne
@@ -56,20 +56,20 @@ Facteurs de risque: aspirine, AINS, [alcool]({{< relref "sevrage-alcool.md" >}})
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Triade:
+Triade de symptômes d'une poussée de diverticulite sigmoïdienne aiguë:
 
 - Douleur abdominale en fosse iliaque gauche ± défense
 - Fièvre, sepsis
 - Troubles du transit
 
-Le diagnostic clinique est erroné dans plus de 50% des cas (*[Werner 2003](https://doi.org/10.1007/s00330-003-1887-7)*).
+Le diagnostic clinique de poussée de diverticulite est erroné dans plus de 50% des cas (*[Werner 2003](https://doi.org/10.1007/s00330-003-1887-7)*).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Examens systématiques pour affirmer le diagnostic.
+Les examens complémentaires sont systématiques pour affirmer le diagnostic de diverticulite sigmoïdienne aiguë.
 
-### Bilan devant une diverticulite sigmoïdienne
+### Bilan biologique devant une diverticulite sigmoïdienne
 
 - NFS
 - CRP
@@ -77,19 +77,20 @@ Examens systématiques pour affirmer le diagnostic.
 
 ### Scanner abdomino-pelvien avec injection
 
-Examen de référence pour le diagnostic et la recherche de complications.
+{{%info%}}Le scanner est obligatoire en cas de 1<sup>er</sup> épisode de diverticulite{{%/info%}}
 
-Obligatoire en cas de 1<sup>er</sup> épisode.  
+Le scanner est l'examen de référence pour le diagnostic et la recherche de complications d'une poussée de diverticulite.
+
 Il peut être ensuite réalisé uniquement en cas de récidive d'intensité inhabituelle ou de syndrome inflammatoire biologique marqué (*ESCP 2020*).
 
-Il doit être réalisé dans les *72h* suivant le début des douleurs en ambulatoire (24h si hospitalisation).  
-Échographie voire IRM si contre-indication au scanner.
+Il doit être réalisé dans les **72 heures** suivant le début des douleurs en ambulatoire (24h si hospitalisation).  
+Échographie voire IRM en cas de contre-indication au scanner.
 
 ### Coloscopie
 
-Indication: ≥ 2 crises (en l'absence de coloscopie dans les 3 ans)(*ESCP 2020*)
+Indications à la coloscopie: ≥ 2 crises (en l'absence de coloscopie dans les 3 ans)(*ESCP 2020*)
 
-À réaliser au moins 6 semaines après l'épisode.
+La coloscopie doit être réalisée au moins 6 semaines après l'épisode diverticulaire.
 
 {{% /collapse %}}
 {{%collapse "Indications à l'hospitalisation" %}}
@@ -111,7 +112,7 @@ Indication: ≥ 2 crises (en l'absence de coloscopie dans les 3 ans)(*ESCP 2020*
   - Impossibilité de surveillance ambulatoire
   - Terrain fragile
 - Gravité scanographique  
-Perforation ou abcès.
+  Perforation ou abcès.
 - Contexte social défavorable
 
 {{%/warning%}}
@@ -119,23 +120,23 @@ Perforation ou abcès.
 {{% /collapse %}}
 {{%collapse "Traitement ambulatoire de la diverticulite sigmoïdienne" %}}
 
-Uniquement en l'absence d'*indications à l'hospitalisation* (voir ci-dessus).
+Une prise en charge ambulatoire de diverticulite aiguë est possible uniquement en l'absence d'*indications à l'hospitalisation* (voir ci-dessus).
 
-{{%info%}}Aucun traitement ou régime ne permet de prévenir les crises{{%/info%}}
+{{%info%}}Aucun traitement ou régime ne permet de prévenir les crises de diverticulite{{%/info%}}
 
 - Antalgie simple
-- Pas d'AINS, corticoïdes, aspirine
+- Pas d'AINS, corticoïdes ou aspirine
 - Pas de modification du régime alimentaire
 - Surveillance clinique des symptômes  
-{{%class%}}Après bilan biologique ± scanner.{{%/class%}}
+  {{%class%}}Après bilan biologique ± scanner.{{%/class%}}
 - Pas de suivi biologique systématique ni de scanner de contrôle en cas d'évolution favorable
 - Coloscopie si ≥ 2 crises (en l'absence de coloscopie dans les 3 ans)(*ESCP 2020*)
 
 ### Antibiothérapie
 
-{{%info%}}Pas d'antibiothérapie en 1<sup>re</sup> intention si scanner sans complication{{%/info%}}
+{{%info%}}Pas d'antibiothérapie en 1<sup>re</sup> intention devant une poussée diverticulaire lorsque le scanner ne révèle pas de complication{{%/info%}}
 
-Indication à l'antibiothérapie ambulatoire: échec thérapeutique à 48h sans critère d'hospitalisation.  
+Indication à l'antibiothérapie ambulatoire: échec thérapeutique à 48 heures sans critère d'hospitalisation.  
 Amoxicilline + acide clavulanique 1 g x 3/j pendant 7 jours.
 
 Si allergie: ciprofloxacine 500 mg x 2/j OU lévofloxacine 500 mg x 1/j  
@@ -143,7 +144,7 @@ Si allergie: ciprofloxacine 500 mg x 2/j OU lévofloxacine 500 mg x 1/j
 
 ### Chirurgie
 
-À distance de l'épisode aigu (> 2 mois), la sigmoïdectomie élective est envisagée selon les indications suivantes:
+À distance de l'épisode aigu (> 2 mois), la **sigmoïdectomie élective** est envisagée selon les indications suivantes:
 
 - Immunodépression
 - Insuffisance rénale chronique
@@ -152,12 +153,12 @@ Si allergie: ciprofloxacine 500 mg x 2/j OU lévofloxacine 500 mg x 1/j
 - Abcès
 - Sténose symptomatique
 
-Intérêt d'une **coloscopie** avant la chirurgie, surtout si > 50 ans ou risque élevé de cancer colorectal.
+Intérêt d'une **coloscopie** avant la chirurgie, surtout si +50 ans ou [risque élevé de cancer colorectal]({{< relref "cancer-colorectal.md" >}}).
 
 {{% /collapse %}}
 {{% collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de diverticulite sigmoïdienne. Dr JB Fron d'après HAS 2017 et 2021" >}}
+{{< mermaid title="Prise en charge d'suspicion de diverticulite sigmoïdienne. Dr JB Fron d'après HAS 2017 et 2021" >}}
 graph TB
   diverticulite[Suspicion de diverticulite]
   style diverticulite stroke:#4150f5, stroke-width: 1px

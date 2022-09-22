@@ -15,7 +15,7 @@ anglais = ["Colorectal cancer"]
 sctid = "781382000"
 image = true
 imageSrc = "Illustration du cancer colorectal. Blausen Medical Communications, Inc., CC BY 3.0, via Wikimedia Commons"
-todo = "SFED, SNFGE, bas grade, HAS 2013 p8 critères Amsterdam Lynch, collèges, dépistage G8 gériatrie"
+todo = "Google ergonomie, SFED, bas grade, collèges, préparation coloscopie, dépistage G8 gériatrie"
 +++
 
 {{%article-summary%}}
@@ -146,7 +146,7 @@ Envisager une consultation d'oncogénétique en cas de:
 - Symptômes digestifs (voir encadré plus bas)
 - AEG: amaigrissement, asthénie, anorexie
 
-### Clinique
+### Examen clinique
 
 {{%warning%}}
 Signes évocateurs de cancer colorectal en cas de symptômes persistants:
@@ -221,6 +221,7 @@ Le kit du dépistage du cancer du côlon peut être remis par le médecin ou dé
 - Commander des kits en tant que patient avec livraison gratuite à domicile: [monkit.depistage-colorectal.fr](https://monkit.depistage-colorectal.fr/#/invitation) (nécessite l'invitation de la Sécu)
   - Le site permet aussi au patient de consulter son résultat
   - Sans invitation, le patient contacte son [CRCDC (annuaire)](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Strategies-de-depistage/Centres-regionaux-de-coordination-des-depistages-des-cancers/)
+- En Ile-de-France, avec ou sans invitation par son pharmacien (*NeonetIDF*)
 
 #### Pour en savoir plus : les test immunologique fécal
 

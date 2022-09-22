@@ -1,13 +1,13 @@
 +++
 title = "Électrophorèse des protéines sériques et immunoglobuline monoclonale"
 prefix = "l'"
-titleSeo = "Électrophorèse et immunoglobuline monoclonale"
+titleSeo = "immunoglobuline monoclonale"
 description = "Indications à la réalisation d'une Électrophorèse des protéines sériques. Réaliser devant des adénopathies, polyarthrite, splénomégalie, syndrome de Raynaud ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-17T00:20:41+01:00
-publishdate = 2020-12-17
-lastmod = 2021-11-21
+publishdate = "2020-12-17"
+lastmod = "2021-11-21"
 specialites = ["rhumatologie"]
 annees = "2017"
 sources = ["HAS"]

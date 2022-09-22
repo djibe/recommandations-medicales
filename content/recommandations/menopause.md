@@ -550,7 +550,7 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
   Prévention de l'[ostéoporose]({{< relref "osteoporose.md" >}}).
 - Infarctus du myocarde  
   Si < 60 ans ou ménopause moins de 10 ans.
-- Cancers: colorectal, du pancréas, de l'œsophage, de l'estomac et du foie
+- Cancers: [colorectal]({{< relref "cancer-colorectal.md" >}}), du [pancréas]({{< relref "cancer-pancreas.md" >}}), de l'œsophage, de l'[estomac]({{< relref "cancer-estomac.md" >}}) et du foie
 - Démence (29-44% mais biais) surtout si [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
 - Mortalité si < 60 ans  
   Effet cardiovasculaire très protecteur.

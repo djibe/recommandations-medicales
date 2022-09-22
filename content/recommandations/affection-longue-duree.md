@@ -89,10 +89,10 @@ Exemples:
 
 - [Acromégalie]({{< relref "acromegalie.md" >}})
 - Malformation congénitale des membres
-- Embolie pulmonaire à répétition
+- [Embolie pulmonaire à répétition]({{< relref "embolie-pulmonaire.md" >}})
 - DMLA
-- Asthme
-- Maladie de Paget, de Verneuil
+- [Asthme]({{< relref "astme.md" >}})
+- Maladie de Paget, maladie de Verneuil
 - Ulcère cutané chronique ou récidivant avec retentissement fonctionnel sévère
 - Transsexualisme
 - Stérilité

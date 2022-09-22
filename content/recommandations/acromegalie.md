@@ -67,7 +67,7 @@ Adresser au [centre de compétence ou de référence HYPO](http://www.firendo.fr
   - Dentaires avec déchaussements
   - Métaboliques avec prédiabète ou [diabète]({{< relref "diabete-type-2.md" >}}) (20-35%)
   - Endocriniens: [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}), spanioménorrhée
-  - Autres: nodules thyroïdiens et cancers, polypes coliques (27-55%) et cancer colorectal (x 2-3)
+  - Autres: nodules thyroïdiens et cancers, polypes coliques (27-55%) et [cancer colorectal]({{< relref "cancer-colorectal.md" >}}) (risque élevé, x 2-3)
 - Risque cardiovasculaire: calcul du {{< scores/heartscore >}}
 
 {{% /collapse %}}
