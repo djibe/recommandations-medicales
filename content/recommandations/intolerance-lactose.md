@@ -20,15 +20,15 @@ todo = "diarrhée chro, https://doi.org/10.1016/j.mmm.2020.10.008"
 
 {{%article-summary%}}
 
-- Prévalence européenne 28%
-- Symptômes typiques: douleurs abdominales, diarrhées, flatulences  
+- Prévalence européenne de l'intolérance au lactose: 28%
+- Symptômes typiques de l'intolérance au lactose: douleurs abdominales, diarrhées, flatulences  
   Dans l'heure suivant l'ingestion (hypervariable possible)
-- Toujours évoquer en [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
-- Diagnostic: amélioration franche après un test d'éviction du lactose pendant 2 semaines car test respiratoire à l'hydrogène non remboursé
-- Prise en charge: des apports 12-18 g/j de lactose semblent tolérés
-- Maintenir des apports en produits laitiers pour apporter les micronutriments
+- Toujours évoquer devant une [diarrhée chronique]({{< relref "diarrhee-chronique.md" >}})
+- Diagnostic de l'intolérance au lactose: amélioration franche après un test d'éviction du lactose pendant 2 semaines car test respiratoire à l'hydrogène non remboursé
+- Prise en charge: des apports de 12 à 18 g quotidiens de lactose semblent tolérés
+- Maintenir des apports en produits laitiers pour apporter les micronutriments (calcium ++)
 
-Articles liés: [vitamine D]({{< relref "vitamine-d.md" >}}) et [ostéoporose]({{< relref "osteoporose.md" >}})
+Articles liés: [allergie au gluten]({{< relref "maladie-coeliaque.md" >}}), [vitamine D]({{< relref "vitamine-d.md" >}}) et [ostéoporose]({{< relref "osteoporose.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

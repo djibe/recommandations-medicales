@@ -134,6 +134,8 @@ L'examen recherche:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+[SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/download/file/fid/2775)
+
 En cas de symptômes évocateurs, adresser directement au gastro-entérologue pour endoscopie œsogastrique avec biopsies.
 
 {{%info%}}Les marqueurs tumoraux ACE et CA19-9 ne sont pas utiles au diagnostic initial.{{%/info%}}
@@ -201,6 +203,10 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
 - [HAS, INCa. Cancer de l'estomac. Guide ALD. Septembre 2011.](https://www.has-sante.fr/jcms/c_1105137/fr/ald-n-30-cancer-de-l-estomac)
 - [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique - Cancer gastrique diffus héréditaire. 2009. (PDF)](https://www.e-cancer.fr/content/download/58352/531992/file/chir_prophy_predi_gene_gastrique.pdf)
 - [Collège Français des Pathologistes (CoPath). Tumeurs de l'estomac. Item 300.](http://campus.cerimes.fr/anatomie-pathologique/enseignement/anapath_19/site/html/2.html)
+
+### À lire
+
+{{< references/college-gastro >}}
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}

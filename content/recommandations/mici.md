@@ -14,7 +14,7 @@ tags = ["ferritine"]
 anglais = []
 sctid = ""
 draft = true
-todo = "summary, privilégier aliments primaires https://presse.inserm.fr/les-emulsifiants-alimentaires-augmentent-le-pouvoir-pathogene-de-certaines-bacteries-et-le-risque-dinflammation-intestinale/41250/, https://www.snfge.org/download/file/fid/3640"
+todo = "summary, privilégier aliments primaires https://presse.inserm.fr/les-emulsifiants-alimentaires-augmentent-le-pouvoir-pathogene-de-certaines-bacteries-et-le-risque-dinflammation-intestinale/41250/, https://www.snfge.org/download/file/fid/3640, https://www.snfge.org/gastroscoop/epidemie-de-mici-pediatriques-preparons-nous-affronter-la-vague, https://www.snfge.org/gastroscoop/les-aliments-ultra-transformes-role-dans-laugmentation-de-lincidence-des-mici"
 +++
 
 {{%article-summary%}}

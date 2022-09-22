@@ -47,6 +47,9 @@ EOGD
 
 IgA anti-transglutaminase
 : anticorps anti-transglutaminase tissulaire (ou t-TG-IgA)
+
+Premier degré
+: parents, fratrie, enfants.
 {.dl-inline}
 
 ### Complications de la maladie cœliaque
@@ -182,6 +185,8 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 
 **NB. La biopsie du grêle est décommandée chez l'enfant (AG nécessaire) par mauvais rapport bénéfice/risque.**
 
 {{% warning %}}Dépistage de tous les proches au 1<sup>er</sup> degré{{% /warning %}}
+
+[SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/download/file/fid/2775)
 
 ### Autres examens
 

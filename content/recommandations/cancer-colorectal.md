@@ -1,26 +1,34 @@
 +++
 title = "Cancer colorectal"
 prefix = "le "
-description = "TODO:"
+description = "Recommandations pour la prise en charge du cancer colorectal. Niveaux de risque de cancer du côlon, rythme de dépistage du test fécal Hemoccult, prévention ..."
 synonyms = ["Cancer du côlon", "cancer du rectum"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
 publishdate = "2022-09-22"
 lastmod = "2022-09-22"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2020"
-sources = ["INCa", "HAS", "ESGE"]
+annees = "2022"
+sources = ["SNFGE", "INCa", "HAS", "ESGE"]
 tags = ["cancer", "depistage", "fatigue", "obesite", "prevention", "tabac"]
 anglais = ["Colorectal cancer"]
 sctid = "781382000"
 image = true
 imageSrc = "Illustration du cancer colorectal. Blausen Medical Communications, Inc., CC BY 3.0, via Wikimedia Commons"
-todo = "SFED, SNFGE, bas grade, HAS 2013 p8 critères Amsterdam Lynch, collèges"
+todo = "SFED, SNFGE, bas grade, HAS 2013 p8 critères Amsterdam Lynch, collèges, dépistage G8 gériatrie"
 +++
 
 {{%article-summary%}}
 
-TODO:
+- Le cancer colorectal (CCR) est le 2<sup>e</sup> cancer par mortalité et pourtant seulement 35% de participation au dépistage par test fécal
+- Il survient dans 95% des cas après 50 ans
+- 3 niveaux de risque de cancer colorectal (voir *Niveaux de risque* pour les détails) avec rythme spécifique pour chacun (voir *Dépistage et suivi des sujets*)
+  - Moyen: 50 à 74 ans
+  - Élevé: antécédent personnel ou familial de CCR ou d'adénome, MICI, acromégalie
+  - Très élevé: PAF, syndrome de Lynch
+- Symptômes persistants évocateurs de cancer du côlon ou du rectum: rectorragies/méléna, alternance diarrhée-constipation, douleur ou masse abdominale, syndrome rectal, AEG, anémie ferriprive
+- Facteurs de risque de cancer colorectal: alcool, tabac, surpoids, viande rouge/charcuterie, fibres rares
+- Test de dépistage fécal: tous les 2 ans de 50 à 74 ans (à risque modéré asymptomatiques sans coloscopie dans les 5 ans). Commandes de kits sur Ameli Pro ou [monkit.depistage-colorectal.fr](https://monkit.depistage-colorectal.fr/#/invitation)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -41,8 +49,8 @@ Top 3 des cancers en France. Le diagnostic est le plus souvent réalisé à un s
 La France est un pays Européen avec les plus **hautes incidences** de cancer colorectal.
 
 - Incidence: 2<sup>e</sup> cancer de la femme (21.000 en 2017), 3<sup>e</sup> cancer de l'homme (24.000)
-- Décès: 2<sup>e</sup> par mortalité (17.117 en 2017)
-- Taux de participation au dépistage: 34,6% (2020-2021)
+- Décès: **2<sup>e</sup> par mortalité** (17.117 en 2017)
+- Taux de participation au dépistage: **34,6%** (2020-2021)
 - 95% des cancers colorectaux surviennent après 50 ans
 - Survie à 5 ans: stade I 90% - stade IV 13%
 
@@ -57,8 +65,7 @@ DOCCR
 : dépistage organisé du cancer colorectal
 
 HNPCC
-: syndrome de Lynch ou {{%lang%}}hereditary non-polyposis colorectal cancer{{%/lang%}} (cancer colorectal héréditaire
-sans polypose)
+: {{%lang%}}hereditary non-polyposis colorectal cancer{{%/lang%}} (cancer colorectal héréditaire sans polypose) ou syndrome de Lynch
 
 IMC
 : indice de masse corporelle
@@ -156,13 +163,17 @@ Signes évocateurs de cancer colorectal en cas de symptômes persistants:
 
 - Poids, taille, IMC, variation sur 6 mois
 - Palpation abdominale
-- Touchers pelviens
+- Toucher rectal
 - Palpation des aires ganglionnaires
 - [Dénutrition]({{< relref "denutrition.md" >}}) (dépistage avec le {{< modal-btn modal-mna >}}Mini Nutritional Assessment{{< /modal-btn >}})
 
 ### Pour en savoir plus: bilan d'extension initial
 
 Le bilan complémentaire d'extension après la coloscopie totale comprend: Scanner thoraco-abdomino-pelvien avec injection (TAP) et pour le rectum une échoendoscopie rectale ou IRM pelvienne.
+
+Bilan biologique: NFS, CRP, TP, TCA, créatininémie, albuminémie, bilirubinémie totale et conjuguée, ASAT, ALAT, PAL, LDH
+
+Autres bilans: ECG, détermination du statut des gènes RAS et BRAF tumoraux, du phénotype MSI (immunothérapie).
 
 {{% /collapse %}}
 {{%collapse "Mesures de prévention du cancer colorectal" %}}
@@ -285,6 +296,8 @@ Chirurgie le plus souvent. Parfois chimiothérapie adjuvante et thérapie ciblé
 {{% /collapse %}}
 {{%collapse "La coloscopie" %}}
 
+[SFED, SNFGE - informations médicales avant réalisation d'une coloscopie (PDF)](https://www.snfge.org/download/file/fid/2772)
+
 ### Préparation colique pour une coloscopie
 
 - Régime sans résidus dès J-2 (J-1 selon *ESGE*)
@@ -302,6 +315,12 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="PwEBt_rpET0" title="Dépistage du cancer du côlon en France. FIT ou coloscopie : comment choisir ? (TutoGastro SNFGE)" >}}
+
+{{< youtube id="kWiExzPWF4w" title="Quand demander un marqueur tumoral dans le cancer colorectal ? (TutoGastro SNFGE)" >}}
+
+- [Phelip JM. et al. Metastatic colorectal cancer (mCRC): French intergroup clinical practice guidelines for diagnosis, treatments and follow-up (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, ACHBT, SFRO, SFR)(TNCD). Dig Liver Dis. 2019. Maj 21/07/2022.](https://www.snfge.org/content/4-cancer-colorectal-metastatique)
+- [Cotte E. et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/5-cancer-du-rectum)
 - [INCa. Les cancers colorectaux en 12 points clés. Juillet 2020. (PDF)](https://www.e-cancer.fr/content/download/292187/4161375/file/Cancers_colorectaux_en_12_points_cl%C3%A9s_mel_20200702.pdf)
 - [INCa. Cancer colorectal - Dépistage par test immunologique et autres modalités. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-colorectal-Depistage-par-test-immunologique-et-autres-modalites)
 - [INCa. Dépistage du cancer colorectal - Accompagner vos patients de 50 à 74 ans. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Depistage-du-cancer-colorectal-Accompagner-vos-patients-de-50-a-74-ans)
@@ -321,10 +340,9 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 
 - [Robaszkiewicz M. et al. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml) +++
 - <https://www.fmcgastro.org/texte-postu/postu-2022/recommandations-pour-le-suivi-apres-polypectomie-recommandations-sfed-2021/>
-- [SNFGE. Cancer colorectal métastatique. TNCD. 2022.](https://www.snfge.org/content/4-cancer-colorectal-metastatique)
 - [SNFGE. Cancer du côlon non métastatique. TNCD. 2021.](https://www.snfge.org/content/3-cancer-du-colon-non-metastatique)
-- [SNFGE. Cancer du rectum. TNCD. 2021.](https://www.snfge.org/content/5-cancer-du-rectum)
 - <https://www.fmcgastro.org/texte-postu/postu-2020-paris/les-criteres-de-la-qualite-de-la-coloscopie-et-de-la-preparation-colique-sfed-cnp-esge-2019/>
+- {{< references/college-gastro >}}
 - Vaccination info service chimiothérapie
 
 {{%/sources%}}

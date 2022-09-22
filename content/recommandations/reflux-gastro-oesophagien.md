@@ -7,8 +7,8 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr F. ZERBIB (SNFGE)"
 date = 2020-08-26T12:55:41+02:00
-publishdate = 2020-08-26
-lastmod = 2022-01-21
+publishdate = "2020-08-26"
+lastmod = "2022-09-22"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2018"
 sources = ["SNFGE"]
@@ -22,18 +22,17 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le diagnostic de RGO est clinique: signes typiques et en l'absence de signes d'alarme
-- Signes d'alarme du reflux: Amaigrissement, anémie, dysphagie, hémorragie digestive, vomissements répétés, échec du traitement
-- Indications à l'endoscopie: symptômes atypiques isolés, signe d'alarme, âge > 50 ans, résistance aux IPP ou rechute précoce à l'arrêt.
-- Traitement: RHD > antiacides > oméprazole 1/2 dose
-- L'anti-H2 ranitidine est suspendu
+- Le diagnostic de reflux gastro-œsophagien (RGO) est clinique: signes typiques en l'absence de signes d'alarme
+- Signes d'alarme d'un reflux: Amaigrissement, anémie, dysphagie, hémorragie digestive, vomissements répétés, échec du traitement
+- Indications à la gastroscopie: symptômes atypiques isolés, signe d'alarme, âge +50 ans, résistance aux IPP ou rechute précoce à l'arrêt
+- Prise en charge du reflux gastro-œsophagien: RHD > antiacides > oméprazole demi-dose
 - Rappel: on prononce "ésophage"
 
 {{%/article-summary%}}
 {{%collapse "Signes d'alarme" %}}
 
 {{%danger%}}
-Signes de gravité nécessitant la réalisation d'examens complémentaires.
+Signes de gravité devant un reflux gastro-œsophagien nécessitant la réalisation d'examens complémentaires:
 
 - Amaigrissement
 - Anémie
@@ -86,7 +85,7 @@ Le reflux gastro-œsophagien est un diagnostic d'interrogatoire devant des signe
 
 #### Signes typiques de reflux
 
-Signes typiques de reflux:
+Signes typiques de reflux gastro-œsophagien:
 
 - **Pyrosis**  
   {{%class%}}Spécificité de 90% pour le RGO.{{%/class%}}
@@ -104,6 +103,8 @@ Signes typiques de reflux:
 
 {{%/collapse%}}
 {{%collapse "Diagnostic différentiel" %}}
+
+Diagnostic différentiel d'un reflux gastro-œsophagien:
 
 - [Dyspepsie]({{< relref "dyspepsie.md" >}})
 - [Cancer de l'estomac]({{< relref "cancer-estomac.md" >}})
@@ -130,6 +131,8 @@ Aucun examen complémentaire devant des signes typiques de reflux et l'absence d
 
 #### Indications à l'EOGD
 
+[SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/download/file/fid/2775)
+
 Prise en charge diagnostique par endoscopie si:
 
 - Symptômes atypiques isolés
@@ -154,7 +157,7 @@ Réalisé sous IPP double dose.
 {{%/collapse%}}
 {{%collapse "Traitement du RGO" %}}
 
-**Objectifs de la prise en charge :** soulager les symptômes, cicatrisation des lésions et prévention des récidives.
+**Objectifs de la prise en charge du reflux gastro-œsophagien:** soulager les symptômes, cicatrisation des lésions et prévention des récidives.
 
 {{%info%}}
 
@@ -173,7 +176,7 @@ Augmentation possible à 20 voire 40 mg/j.
 
 ### Mesures hygiéno-diététiques
 
-Mesures générales de prise en charge du reflux :
+Mesures générales de prise en charge du reflux gastro-œsophagien:
 
 - Postures
   - Surélévation de la tête du lit de 45° (10-15 cm)
@@ -310,11 +313,12 @@ Favorisée par l'obésité et une hernie hiatale.
 {{%/collapse%}}
 {{%sources%}}
 
+- [Zerbib F.  Traitement endoscopique du reflux gastro-œsophagien : la quête du graal continue. GastroScoop. 27/04/2022.](https://www.snfge.org/gastroscoop/traitement-endoscopique-du-reflux-gastro-oesophagien-la-quete-du-graal-continue)
 - Prescrire Redaction. Patients ayant un reflux gastro-œsophagien. Janvier 2021.
 - Prescrire Redaction. Reflux gastro-œsophagien chez un nourrisson. Août 2020.
 - [Zerbib F. Diagnostic actuel du RGO : Consensus de Lyon (GUT 2018). POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-actuel-du-rgo-consensus-de-lyon-gut-2018/)
 - [SNFGE. Traitement du RGO. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
 - [SNFGE. Reflux gastro-œsophagien (RGO)](https://www.snfge.org/content/reflux-gastro-oesophagien-rgo)
-- [Gyawali CP et al. Modern diagnosis of GERD: the Lyon Consensus. Gut. 2018;67(7):1351-1362. doi:10.1136/gutjnl-2017-314722](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6031267/)
+- [Gyawali CP et al. Modern diagnosis of GERD: the Lyon Consensus. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6031267/)
 
 {{%/sources%}}

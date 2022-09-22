@@ -21,8 +21,8 @@ todo = "échoabdo?, gérer seul sd métabo, https://www.fmcgastro.org/postu-main
 
 {{%article-summary%}}
 
-- Interrogatoire et examen clinique pour établir le profil du patient
-- Dosage à jeun à 2 reprises du CST
+- Découverte d'une hyperferritinémie: interrogatoire et examen clinique pour établir le profil du patient
+- Dosage à jeun à 2 reprises du coefficient de saturation de la transferrine (CST)
 - Bilan biologique systématique
 
 {{%/article-summary%}}
@@ -36,7 +36,7 @@ Hyperferritinémie (HF)
 : Ferritinémie **> 200 µg/L chez la femme** et **300 µg/L chez l'homme**.
 : Elle est *modérée* jusqu'à 500 µg/L, *nette* jusqu'à 1000 µg/L et *majeure* > 1000 µg/L.
 
-### Épidémiologie
+### Épidémiologie de l'hyperferritinémie
 
 - Une hyperferritinémie est associée à la survenue d'un syndrome métabolique et d'un diabète de type 2
 - 1/3 des diabétiques et 1/4 des pré-diabétiques ont une hyperferritinémie
@@ -110,6 +110,8 @@ SAM
 
 ### Interrogatoire
 
+Enquête devant la découverte d'une hyperferritinémie:
+
 - Antécédents personnels  
 (Pré)-diabète et facteurs de risque cardiovasculaires, hépatite, cancer, vascularite, hémoglobinopathie.
 - Antécédents familiaux  
@@ -137,7 +139,7 @@ Hépatopathie, surcharge en fer, hémoglobinopathie, diabète, cataracte précoc
 
 ### Bilan devant une hyperferritinémie
 
-À jeun pendant 12h:
+Bilan à jeun pendant 12h:
 
 - NFS, CRP
 - Ferritinémie, coefficient de saturation de la transferrine (CST) à jeun
@@ -147,16 +149,18 @@ Hépatopathie, surcharge en fer, hémoglobinopathie, diabète, cataracte précoc
 - Bilan lipidique à jeun
 {{%/info%}}
 
-Le CST élevé doit être confirmé par un 2<sup>e</sup> dosage à jeun à distance.  
-En anomalie de la NFS: haptoglobine, réticulocytes.
+Le coefficient de saturation de la transferrine (CST) élevé doit être confirmé par un 2<sup>e</sup> dosage à jeun à distance.  
+En cas d'anomalie de la NFS: haptoglobine, réticulocytes.
 
 ### IRM-Fer hépatique
 
-Réservée au gastro-entérologue.  
-Évaluation non invasive la surcharge en fer.
+La prescription d'une IRM-fer hépatique est réservée au gastro-entérologue.  
+Elle permet une évaluation non invasive la surcharge en fer.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
+
+Prise en charge d'une hyperferritinémie:
 
 - Correction d'un surpoids
 - [Sevrage alcoolique]({{< relref "sevrage-alcool.md" >}})
@@ -165,7 +169,7 @@ Réservée au gastro-entérologue.
 
 ### Traitement de l'hyperferritinémie
 
-Uniquement par le gastro-entérologue:
+La prise en charge relève uniquement du gastro-entérologue:
 
 - Surcharge en fer sans anémie: saignées
 - Surcharge en fer avec anémie: chélation orale
@@ -198,6 +202,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="qQJUYIxmn1Q" title="Hyperferritinémie : quand rechercher la mutation HFE ? (TutoGastro SNFGE)" >}}
+
 - [Centre de référence des hémochromatoses.](https://centre-reference-fer-rennes.org/)
 - [Bardou Jacquet E. Hyperferritinémie non hémochromatosique : diagnostic et prise en charge. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/hyperferritinemie-non-hemochromatosique-diagnostic-et-prise-en-charge/)
 - [Brissot P., SNFGE et AFEF. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. Février 2019. (PDF)](https://www.snfge.org/sites/default/files/recommandations/brissot_2019.pdf)
@@ -207,6 +213,6 @@ graph TB
 
 ### À lire
 
-[CDU-HGE. Pathologie du fer. Item 219. 2021. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Formation/dsn_cdu-hge_2021-juillet.pdf)
+{{< references/college-gastro >}}
 
 {{%/sources%}}

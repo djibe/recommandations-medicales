@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-16T15:41:56+01:00"
 publishdate = "2022-01-07"
-lastmod = "2022-09-16"
+lastmod = "2022-09-22"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
 sources = ["INCa", "SNFGE"]
@@ -20,11 +20,12 @@ imageSrc = "Illustration du pancréas par brgfx / Freepik"
 
 {{%article-summary%}}
 
-- Consultation d'oncogénétique et dépistage si ≥ 2 apparentés atteints d'AP dont ≥ 1 au 1<sup>er</sup> degré  
+- Consultation d'oncogénétique et dépistage du cancer du pancréas si ≥ 2 apparentés atteints d'AP dont ≥ 1 au 1<sup>er</sup> degré  
   ou certaines mutations génétiques (voir *Dépistage*)
-- Suspecter devant ictère, douleurs abdominales transfixiantes, diabète récent ou décompensé
+- Suspecter un cancer du pancréas devant les symptômes suivants: ictère, douleurs abdominales transfixiantes, diabète récent ou décompensé
 - TDM TAP avec injection en semi-urgence dès la suspicion
 - Le CA 19-9 n'a aucun intérêt pour le dépistage ou le diagnostic
+- La prise en charge est semi-urgente par les spécialistes
 - Pour toute la population: prévention par correction de tabagisme, obésité et diabète
 
 {{%/article-summary%}}
@@ -43,9 +44,9 @@ OU ≥ 3 cas de la même branche (quelque soit le degré de parenté et l'âge d
 
 - Âge
 - Antécédents familiaux de cancer du pancréas (CaPaFa)
-- [Diabète de type 2]({{< relref "diabete-type-2.md" >}}) ancien
+- [Diabète de type 2]({{< relref "diabete-type-2.md" >}}) ancien (x 1,5-3)
 - Tabac
-- Obésité
+- Obésité (+45% d'incidence quand IMC > 35)
 - Pancréatite chronique
 - Mutation BRCA1 et BRCA1
 - Néoplasie endocrinienne multiple type 1 (NEM1) et autres mutations
@@ -206,6 +207,8 @@ Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr/).
 {{% /collapse %}}
 {{%sources%}}
 
+- [Rebours V. Risque de cancer du pancréas : maigrir c’est bien, ne pas grossir c'est mieux. GastroScoop. 13/01/2022.](https://www.snfge.org/gastroscoop/risque-de-cancer-du-pancreas-maigrir-cest-bien-ne-pas-grossir-cest-mieux)
+- [Rebours V. Les chiffres du cancer du pancréas dans le monde : l'effroyable raz-de-marée. GastroScoop. 17/11/2021.](https://www.snfge.org/gastroscoop/les-chiffres-du-cancer-du-pancreas-dans-le-monde-leffroyable-raz-de-maree)
 - {{< references/college-gastro >}}
 - [INCa. Les cancers du pancréas en 12 points clés. Juin 2020. (PDF)](https://www.e-cancer.fr/content/download/291472/4150728/file/Cancer_du_pancreas_points-cles_mel_20200605.pdf)
 - [INCa. Cancer du pancréas - Du diagnostic au suivi. Juin 2020. (PDF)](https://www.e-cancer.fr/content/download/291469/4150680/file/Cancer_du_pancreas_du_diagnostic_au_suivi_mel_20200605.pdf)
