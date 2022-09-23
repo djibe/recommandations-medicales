@@ -18,7 +18,7 @@ sctid = "235595009"
 image = true
 imageSrc = "BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "Reflux Disease Questionnaire (RDQ)"
+todo = "rythme suivi RGO par EOGD, Reflux Disease Questionnaire (RDQ)"
 +++
 
 {{%article-summary%}}

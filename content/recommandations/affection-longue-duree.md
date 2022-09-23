@@ -91,7 +91,7 @@ Exemples:
 - Malformation congénitale des membres
 - [Embolie pulmonaire à répétition]({{< relref "embolie-pulmonaire.md" >}})
 - DMLA
-- [Asthme]({{< relref "astme.md" >}})
+- [Asthme]({{< relref "asthme.md" >}})
 - Maladie de Paget, maladie de Verneuil
 - Ulcère cutané chronique ou récidivant avec retentissement fonctionnel sévère
 - Transsexualisme

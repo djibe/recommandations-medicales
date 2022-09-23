@@ -177,6 +177,8 @@ Indications:
 - Antécédent de fracture vertébrale
 - Corticothérapie prolongée, anti-aromatase/androgène
 
+**Rappel.** Une fracture vertébrale du mur antérieur donne un **aspect cunéiforme**. Lorsque le tassement atteint toute la vertèbre, on parle de **vertèbre en galette**.
+
 ### Ostéodensitométrie (DXA)
 
 {{%info%}}
@@ -583,6 +585,7 @@ graph TB
 - [Kanis J. et al. Executive summary of the European guidance for the diagnosis and management of osteoporosis in postmenopausal women. Calcif Tissue Int. 2019.](https://link.springer.com/article/10.1007/s00223-018-00512-x)
 - [Kanis J. et al. Algorithm for the management of patients at low, high and very high risk of osteoporotic fractures. Osteoporos Int. 2019.](https://link.springer.com/article/10.1007/s00198-019-05176-3)
 - [Kanis J et al; on behalf of the Scientific Advisory Board of the European Society for Clinical and Economic Aspects of Osteoporosis (ESCEO) and the Committees of Scientific Advisors and National Societies of the International Osteoporosis Foundation (IOF). European guidance for the diagnosis & management of osteoporosis in postmenopausal women. Osteoporos Int. 2018.](https://link.springer.com/article/10.1007%2Fs00198-018-4704-5)
+- Collège
 
 {{%/sources%}}
 {{% modal title="Fractures ostéoporotiques dites sévères" id="modal-fracture-severe"%}}
