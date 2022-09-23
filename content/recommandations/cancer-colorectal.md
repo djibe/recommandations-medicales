@@ -6,10 +6,10 @@ synonyms = ["Cancer du côlon", "cancer du rectum"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
 publishdate = "2022-09-22"
-lastmod = "2022-09-22"
+lastmod = "2022-09-23"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2022"
-sources = ["SNFGE", "INCa", "HAS", "ESGE"]
+sources = ["SNFGE", "INCa", "HAS", "SFED"]
 tags = ["cancer", "depistage", "fatigue", "obesite", "prevention", "tabac"]
 anglais = ["Colorectal cancer"]
 sctid = "781382000"
@@ -31,7 +31,7 @@ todo = "Google ergonomie, SFED, bas grade, collèges, préparation coloscopie, d
 - Test de dépistage fécal: tous les 2 ans de 50 à 74 ans (à risque modéré asymptomatiques sans coloscopie dans les 5 ans). Commandes de kits sur Ameli Pro ou [monkit.depistage-colorectal.fr](https://monkit.depistage-colorectal.fr/#/invitation)
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Cancer colorectal (CCR)
 : Tumeur maligne du côlon (distal 20% ou proximal 30-40%) ou du rectum (30-40%). Il correspond le plus souvent (60-80%) à une **dégénérescence d'un polype** survenue en 5 à 10 avec pour histologie un adénocarcinome dans +95% des cas.
@@ -120,15 +120,17 @@ Risque très élevé : prédisposition génétique au cancer colorectal
 > *INCa 2020 test immunologique*  
   Risque moyen (80% des cas - risque de CCR vie entière de 3 à 4%) | risque élevé (15% des cas - 4-10%) | risque très élevé (5% des cas - 40-100%)
 
-### Critères pouvant faire suspecter un cancer colorectal héréditaire
+### Critères devant faire suspecter un cancer colorectal héréditaire
 
-Envisager une consultation d'oncogénétique en cas de:
+Indications à une consultation d'oncogénétique:
 
-- Antécédents familiaux de cancers colorectaux avant 50 ans
-- Antécédents chez 2 parents au 1<sup>er</sup> degré
-- Un même sujet avec 2 cancers colorectaux ou 1 CCR + autre cancer de Lynch (endomètre, ovaire, intestin grêle, uretère)
+- 2 antécédents familiaux au 1<sup>er</sup> degré de cancer du spectre de Lynch (colorectal, endomètre, ovaire, intestin grêle, uretère) dont 1 avant 50 ans
+- Antécédent personnel de cancer du spectre de Lynch (colorectal, endomètre, ovaire, intestin grêle, uretère)
+- Cancer colorectal avant 40 ans
+- Phénotype MSI ou dMMR
+- Suspicion de PAF
 
-> *HAS 2017*
+> *TNCD 2021*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -151,14 +153,13 @@ Envisager une consultation d'oncogénétique en cas de:
 {{%warning%}}
 Signes évocateurs de cancer colorectal en cas de symptômes persistants:
 
-- Rectorragies, méléna (melæna)
+- Rectorragies, méléna (melæna), occulte ([anémie ferriprive]({{< relref "anemie.md" >}}))
 - Alternance diarrhée - constipation
 - Douleurs abdominales d'apparition récente, persistantes ou inexpliquées (+50 ans ++)
 - Syndrome rectal  
   Faux besoins, ténesme, épreintes.
 - Masse abdominale ou rectale
 - AEG
-- [Anémie ferriprive]({{< relref "anemie.md" >}})
 {{%/warning%}}
 
 - Poids, taille, IMC, variation sur 6 mois
@@ -321,12 +322,14 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 {{< youtube id="kWiExzPWF4w" title="Quand demander un marqueur tumoral dans le cancer colorectal ? (TutoGastro SNFGE)" >}}
 
 - [Phelip JM. et al. Metastatic colorectal cancer (mCRC): French intergroup clinical practice guidelines for diagnosis, treatments and follow-up (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, ACHBT, SFRO, SFR)(TNCD). Dig Liver Dis. 2019. Maj 21/07/2022.](https://www.snfge.org/content/4-cancer-colorectal-metastatique)
+- [Lecomte T. et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/3-cancer-du-colon-non-metastatique)
 - [Cotte E. et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/5-cancer-du-rectum)
+- {{< references/college-gastro >}}
 - [INCa. Les cancers colorectaux en 12 points clés. Juillet 2020. (PDF)](https://www.e-cancer.fr/content/download/292187/4161375/file/Cancers_colorectaux_en_12_points_cl%C3%A9s_mel_20200702.pdf)
 - [INCa. Cancer colorectal - Dépistage par test immunologique et autres modalités. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-colorectal-Depistage-par-test-immunologique-et-autres-modalites)
 - [INCa. Dépistage du cancer colorectal - Accompagner vos patients de 50 à 74 ans. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Depistage-du-cancer-colorectal-Accompagner-vos-patients-de-50-a-74-ans)
 - [Grandval P. Diagnostic et surveillance des patients à très haut risque génétique de CCR. POST'U 2020](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-et-surveillance-des-patients-a-tres-haut-risque-genetique-de-ccr/)
-- [Hassan C. et al. Bowel preparation for colonoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Guideline – Update 2019. Endoscopy. 2019.](https://www.thieme-connect.de/products/ejournals/html/10.1055/a-0959-0505)
+- [Hassan C. et al. Bowel preparation for colonoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2019. Endoscopy. 2019.](https://www.thieme-connect.de/products/ejournals/html/10.1055/a-0959-0505)
 - [INCa. Cancers colorectaux - Du diagnostic au suivi. Octobre 2018. (PDF)](https://www.e-cancer.fr/content/download/247273/3415432/file/Cancers_colorectaux_du_diagnostic_au_suivi_mel_20181029.pdf)
 - [HAS. Cancer colorectal : modalités de dépistage et de prévention chez les sujets à risque élevé et très élevé. Mai 2017.](https://www.has-sante.fr/jcms/c_2772744/fr/cancer-colorectal-modalites-de-depistage-et-de-prevention-chez-les-sujets-a-risque-eleve-et-tres-eleve)
 - [HAS. Quand faut-il faire une coloscopie de contrôle après une polypectomie ?. Septembre 2013.](https://www.has-sante.fr/jcms/c_1695396/fr/quand-faut-il-faire-une-coloscopie-de-controle-apres-une-polypectomie)
@@ -339,11 +342,8 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 
 ### À lire
 
-- [Robaszkiewicz M. et al. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml) +++
-- <https://www.fmcgastro.org/texte-postu/postu-2022/recommandations-pour-le-suivi-apres-polypectomie-recommandations-sfed-2021/>
-- [SNFGE. Cancer du côlon non métastatique. TNCD. 2021.](https://www.snfge.org/content/3-cancer-du-colon-non-metastatique)
+- [Robaszkiewicz M. et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml) +++
 - <https://www.fmcgastro.org/texte-postu/postu-2020-paris/les-criteres-de-la-qualite-de-la-coloscopie-et-de-la-preparation-colique-sfed-cnp-esge-2019/>
-- {{< references/college-gastro >}}
 - Vaccination info service chimiothérapie
 
 {{%/sources%}}

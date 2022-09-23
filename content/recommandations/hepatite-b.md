@@ -226,4 +226,8 @@ Suivi minimum des patients AgHBs + non traités, en l'absence de, cirrhose et en
 - [HAS. Hépatite chronique B. Actes et prestations Affection de longue durée. Mai 2016.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
 - [HAS. Hépatite B Chronique. Guide Affection de longue durée. Octobre 2006.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
 
+### À lire
+
+{{< references/afef-foie-non-invasif >}}
+
 {{%/sources%}}

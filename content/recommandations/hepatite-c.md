@@ -337,6 +337,10 @@ graph TB
 - [Fourcher J., Rosa I. Traitement de l'hépatite C en 2018. POST'U 2018 Paris](https://www.fmcgastro.org/texte-postu/postu-2018-paris/traitement-de-lhepatite-c-en-2018/)
 - [Hépatites Info Service](https://www.hepatites-info-service.org/hepatite-c/)
 
+### À lire
+
+{{< references/afef-foie-non-invasif >}}
+
 {{%/sources%}}
 <!-- Modal -->
 {{% modal title="Vaccination anti-pneumococcique" id="modal-vaccin-pneumocoque"%}}
