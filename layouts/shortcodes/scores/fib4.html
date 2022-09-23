@@ -1,0 +1,39 @@
+<p class="mb-3 mb-lg-5"><abbr title="COPD Assessment Test" lang="en">FIB-4</abbr> (COPD) pour évaluer votre BPCO.</p>
+<p>Ce questionnaire vous aidera, ainsi que votre médecin, à mesurer l'impact de la BPCO sur votre bien-être et votre santé au quotidien. Vous pourrez, ainsi que votre médecin, utiliser les réponses et les scores du questionnaire pour mieux prendre soin de votre BPCO et tirer le plus grand bénéfice de votre traitement.</p>
+<p>Un résultat inférieur à 1,3 élimine une hépatopathie avancée.</p>
+<div id="score-fib4">
+  <div class="form-group textfield-box form-ripple">
+    <label class="mb-2" for="fib4-1">Âge (années)</label>
+    <input aria-describedby="fib4-1" class="form-control" id="fib4-1" type="number" value="50" min="10" max="120">
+  </div>
+  <div class="form-group textfield-box form-ripple">
+    <label class="mb-2" for="fib4-2">Plaquettes (10<sup>9</sup>/L)</label>
+    <input aria-describedby="fib4-2" class="form-control" id="fib4-2" type="number" min="0">
+  </div>
+  <div class="form-group textfield-box form-ripple">
+    <label class="mb-2" for="fib4-3">ASAT (UI/L)</label>
+    <input aria-describedby="fib4-3" class="form-control" id="fib4-3" type="number" min="0">
+  </div>
+  <div class="form-group textfield-box form-ripple">
+    <label class="mb-2" for="fib4-4">ALAT (UI/L)</label>
+    <input aria-describedby="fib4-4" class="form-control" id="fib4-4" type="number" min="0">
+  </div>
+</div>
+<div class="alert bg-light d-flex mt-md-4">
+  <div class="d-flex flex-column align-items-center">
+    <p class="typography-overline score-output-title">Score FIB-4</p>
+    <output class="score-output" id="fib4Score"></output>
+  </div>
+  <p id="fib4Text" class="lead m-auto"></p>
+</div>
+<p class="typography-caption">fib4, COPD Assessment Test et le logo fib4 sont des marques du groupe de sociétés GSK. © 2009 GSK. Tous droits réservés.</p>
+<p><a href="https://www.fib4estonline.org/patient-site-test-page-french-belgium.html" rel="external nofollow noopener">Version francophone originale</a> et <a href="https://www.fib4estonline.org/content/dam/global/fib4estonline/questionnaires/French_Belgium_fib4_combined.pdf" rel="external nofollow noopener">Version papier (PDF)</a></p>
+{{ $script := `
+  // Score FIB-4 by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scorefib4 = document.getElementById('fib4Score')
+    const textfib4 = document.getElementById('fib4Text')
+
+  })
+})` }}
+<script>{{ $script | safeJS }}</script>
