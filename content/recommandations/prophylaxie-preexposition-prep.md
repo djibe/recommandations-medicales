@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr P. DELOBEL (CMIT)"
 date = "2022-05-30T10:49:36+02:00"
 publishdate = "2022-05-30"
-lastmod = "2022-06-21"
+lastmod = "2022-09-26"
 specialites = ["infectiologie", "therapeutique"]
 annees = "2022"
 sources = ["HAS", "CNS", "ANSM"]
@@ -32,7 +32,7 @@ imageSrc = "Illustration de la PrEP par pikisuperstar / Freepik"
   - Initiation: Homme: 2cp en 1 prise (min 2-24h avant le rapport) | Femme: délai de 7 jours avant le 1<sup>er</sup> rapport sexuel à protéger
   - ensuite Truvada® 1 cp/j à heure fixe pendant le repas
 - ou discontinu (à la demande, homme sans VHB uniquement)  
-  Truvada® 2cp en 1 prise 2-24 heures avant le rapport à protéger, puis 1cp à H24 et 1cp à H48
+  Truvada® 2cp en 1 prise 2 à 24 heures avant le rapport à protéger, puis 1cp 24 et 48h après la double prise
 - Arrêt du traitement: 1 cp/j pendant 2 jours après le dernier rapport non protégé puis arrêt
 - Applis pour l'aide à l'observance (My PrEP ..., voir *Resources patients*)
 - Suivi biologique et des dépistages systématique
@@ -142,8 +142,9 @@ Bilan avant l'instauration de la PrEP, en l'absence de suspicion de primo-infect
 
 {{%warning%}}Ne pas prescrire la PrEP en suspicion de primo-infection VIH{{%/warning%}}
 
-Prescription initiale possible avec **sérologie VIH < 7 jours et créatininémie** pour 1 mois, [check-list ANSM (PDF)](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-checklist-pds-version3-2021-juin.pdf) pour le médecin prescripteur.  
-Puis renouvellement tous les 3 mois.
+Prescription initiale possible avec **sérologie VIH < 7 jours (et créatininémie)** pour une durée initiale d'un mois.  
+[Check-list ANSM (PDF) pour le médecin prescripteur](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-checklist-pds-version3-2021-juin.pdf).  
+Puis **renouvellement tous les 3 mois**.
 
 ### Ordonnance initiale de PrEP
 
@@ -168,7 +169,7 @@ Puis renouvellement tous les 3 mois.
 (Schéma non praticable en cas d'hépatite B active)
 
 Truvada® 2 cp en 1 prise entre 2 et 24 heures avant le rapport à protéger,  
-puis 1 cp 24h (± 2h) après, à renouveler à 48h (± 2h)
+puis 1 cp 24h (± 2h) après la 1<sup>re</sup> prise, à renouveler à 48h (± 2h)
 
 En cas de rapports répétés: poursuivre à 1 cp/j jusqu'à 2 jours après le dernier rapport
 
@@ -197,9 +198,9 @@ Considérations associés:
 - Adolescent: intérêt de suivi en {{< references/cegidd >}} pour anonymat et suivi rapproché spécialisé
 - Surveillance rigoureuse (voir plus bas)
 
-Aucune couverture santé: traitement **gratuit** dans les {{< references/cegidd >}}.
+**NB.** En l'absence d'assurance maladie, le traitement est **gratuit** dans les {{< references/cegidd >}}.
 
-Applis pour l'aide à la prise du traitement: [My PrEP](https://myprep.app/), [AR PrEP](https://play.google.com/store/apps/details?id=fr.observia.atprep), [GMT Ma PrEP](https://play.google.com/store/apps/details?id=com.guenmat.android.prep)
+Applis pour l'aide à la prise du traitement: [My PrEP](https://myprep.app/), [AR PrEP](https://play.google.com/store/apps/details?id=fr.observia.atprep) et [GMT Ma PrEP](https://play.google.com/store/apps/details?id=com.guenmat.android.prep).
 
 ### Schéma continu de la PrEP
 
@@ -220,24 +221,21 @@ Toujours mentionner le schéma continu sur l'ordonnance car seul à permettre le
 
 [Emtricitabine/Ténofovir disoproxil 200/245 mg](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) (Truvada®)  
 2 cp en 1 prise entre 2 et 24 heures avant le rapport à protéger,  
-puis 1 cp 24h (± 2h) après, à renouveler à 48h (± 2h)
+puis 1 cp 24h (± 2h) après la première prise, à renouveler à 48h (± 2h)
 {{%/info%}}
 
-**Si rapports répétés:** poursuivre à 1 cp/j jusqu'à 2 jours après le dernier rapport.
+**En cas de rapports répétés:** poursuivre à 1 cp/j jusqu'à 2 jours après le dernier rapport.
 
 ### Arrêt de la PrEP
 
 Rappeler l'importance du préservatif et des dépistages répétés des IST.
 
-- Schéma continu  
-  1 cp par jour pendant **2 jours** après le dernier rapport non protégé puis arrêt.
-- Schéma discontinu  
-  1 cp 24h (± 2h) après le dernier rapport à risque, à renouveler à 48h (± 2h)
+Quelque soit le schéma: poursuivre 1 cp par jour pendant **2 jours** après le dernier rapport non protégé puis arrêt.
 
 {{% /collapse %}}
 {{%collapse "Suivi de la PrEP" %}}
 
-Suivi spécialisé en cas d'hépatite B active.
+Suivi spécialisé en cas d'[hépatite B active]({{< relref "hepatite-b.md" >}}).
 
 {{< table title="Suivi de la PrEP préconisé par HAS et ANSM 2021" >}}
 | Période | Bilan       | Remarque   |
@@ -293,14 +291,16 @@ gitGraph
   commit id: "1 cp/j" tag: "Poursuite"
 {{< /mermaid >}}
 
-{{< mermaid title="Utilisation de la PrEP en schéma discontinu (hors AMM, hors VHB actif). Dr JB Fron d'après HAS 2021" >}}
+{{< mermaid title="Utilisation de la PrEP en schéma discontinu (hors AMM et hors VHB actif). Dr JB Fron d'après HAS 2021" >}}
 %%{init: { 'gitGraph': { 'mainBranchName': 'Schéma discontinu homme' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
 gitGraph
-  commit id: "H-2 à -24" tag: "2 cp"
-  commit id: "H0" tag: "Rapport"
-  commit id: "H24 ± 2" tag: "1 cp"
-  commit id: "H48 ± 2" tag: "1 cp"
+  commit id: "T0: H-2 à H-24" tag: "2 cp"
+  commit id: " " tag: "Rapport"
+  commit id: "T0 + 24h" tag: "1 cp"
+  commit id: "T0 + 48h" tag: "1 cp"
 {{< /mermaid >}}
+
+> 2 cp de 2 à 24h avant le rapport puis 1 cp 24 heures après cette double prise, 4<sup>e</sup> cp 24h après la 2<sup>e</sup> prise. En cas de rapports répétés, poursuivre 1 cp/j avec arrêt 2 jours après le dernier rapport sexuel.
 
 {{%/collapse%}}
 {{%sources%}}
