@@ -221,6 +221,8 @@ Suivi minimum des patients AgHBs + non traités, en l'absence de, cirrhose et en
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="sYKByv4Olg8" title="VHB Indications thérapeutiques et surveillance H. Fontaine 2019 (AFEF Medical Education)" >}}
+
 - {{< references/calendrier-vaccinal >}}
 - [Sogni P.; SNFGE, AFEF. Prise en charge d'un patient porteur chronique de l'AgHBs. 2018. (PDF)](https://www.snfge.org/download/file/fid/3634)
 - [HAS. Hépatite chronique B. Actes et prestations Affection de longue durée. Mai 2016.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)

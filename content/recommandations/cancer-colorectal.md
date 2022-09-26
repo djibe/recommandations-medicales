@@ -6,7 +6,7 @@ synonyms = ["Cancer du côlon", "cancer du rectum"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
 publishdate = "2022-09-22"
-lastmod = "2022-09-23"
+lastmod = "2022-09-26"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2022"
 sources = ["SNFGE", "INCa", "HAS", "SFED"]
@@ -226,7 +226,7 @@ Le kit du dépistage du cancer du côlon peut être remis par le médecin ou dé
 
 #### Pour en savoir plus : les test immunologique fécal
 
-Le test immunologique fécal (TIF) remplace le test *Hemoccult®*. Il est performant (se 70%, spe 96-98%), fiable, gratuit et simple avec un seul prélèvement de selles tous les 2 ans.
+Le test immunologique fécal (TIF) remplace le test *Hemoccult®*. Il est performant (se 70%, spe 96-98%), fiable, gratuit et simple avec un seul prélèvement de selles tous les 2 ans. Le même rythme de suivi est préconisé par la [Commission Européenne](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562).
 
 4% des tests sont positifs, nécessitant une coloscopie de confirmation (cancer 8%, adénome avancé 40%): << détecté tôt, un cancer colorectal peut se guérir dans 9 cas sur 10 >> (*INCa 2020*)
 
@@ -299,6 +299,8 @@ Chirurgie le plus souvent. Parfois chimiothérapie adjuvante et thérapie ciblé
 {{%collapse "La coloscopie" %}}
 
 [SFED, SNFGE - informations médicales avant réalisation d'une coloscopie (PDF)](https://www.snfge.org/download/file/fid/2772)
+
+{{< card-link title="Appli MaColo" subtitle="Application d'aide à la préparation de la coloscopie" url="https://macolo.fr/">}}
 
 ### Préparation colique pour une coloscopie
 

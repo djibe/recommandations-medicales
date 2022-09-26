@@ -568,7 +568,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 {{% /collapse %}}
 {{%sources%}}
 
-{{< youtube id="OPs09amiMC0" title="Prise en charge de la maladie du foie liée à l'alcool (AFEF)" >}}
+{{< youtube id="OPs09amiMC0" title="Prise en charge de la maladie du foie liée à l'alcool (AFEF Medical Education)" >}}
 
 - [SFA. Repères de consommation d'alcool à moindre risque : les abaisser chez les plus jeunes ?. 08/08/2022. (PDF)](http://www.sfalcoologie.asso.fr/download/2022-CP_alcool-SFA-2022_08_08.pdf)
 - [Angler R et al. Dépassement des repères de consommation d'alcool à moindre risque en 2020 : résultats du Baromètre santé de Santé publique France. BEH. Novembre 2021.](http://beh.santepubliquefrance.fr/beh/2021/17/2021_17_1.html)

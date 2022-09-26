@@ -8522,8 +8522,8 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  background-color: #6d6d6d;
-  border-radius: 12px;
+  background-color: #2f312d;
+  border-radius: 4px;
   color: white;
   height: 2rem;
   letter-spacing: 0.033333em;

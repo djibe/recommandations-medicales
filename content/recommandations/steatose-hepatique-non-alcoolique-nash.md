@@ -192,6 +192,12 @@ Le suivi est réalisé avec les méthodes non invasives selon le niveau de fibro
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="K5QbZI12BJM" title="Webconférence AFEF 2021 - Partie 1 NASH (AFEF Medical Education)" >}}
+
+{{< youtube id="ZF47AKyOtgk" title="Fibrose avancée dans la stéatopathie du diabétique : l'algorithme pratique (CREGG)" >}}
+
+{{< youtube id="YdGoM7KWe6s" title="Le Fib4 : un intérêt pronostique chez les diabétiques et/ou obèses ? (CREGG)" >}}
+
 - {{< references/afef-foie-non-invasif >}}
 - [SNFGE, AFEF. Diagnostic de la NASH. Conseil de pratique. Mars 2019.](https://www.snfge.org/download/file/fid/3648)
 - [SNFGE. Stéatose hépatique non alcoolique (NAFLD/NASH).](https://www.snfge.org/content/steatose-hepatique-non-alcoolique-nafldnash)

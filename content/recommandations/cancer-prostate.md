@@ -97,4 +97,8 @@ graph TB
 - [Gandaglia G et al. Structured Population-based Prostate-specific Antigen Screening for Prostate Cancer: The European Association of Urology Position in 2019. Eur Urol. août 2019;76(2):142-50](https://www.europeanurology.com/article/S0302-2838(19)30347-1/fulltext)
 - [HAS. Détection précoce du cancer de la prostate. Mai 2013.](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate)
 
+### À lire
+
+La Commission européenne recommande ce dépistage depuis son [communiqué de septembre 2022](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562).
+
 {{%/sources%}}

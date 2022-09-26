@@ -204,6 +204,8 @@ graph TB
 
 {{< youtube id="qQJUYIxmn1Q" title="Hyperferritinémie : quand rechercher la mutation HFE ? (TutoGastro SNFGE)" >}}
 
+{{< youtube id="N4mWcUyGAf8" title="Nouvelle classification des surcharges en fer - E. BARDOU-JACQUET 2019 (AFEF Medical Education)" >}}
+
 - [Centre de référence des hémochromatoses.](https://centre-reference-fer-rennes.org/)
 - [Bardou Jacquet E. Hyperferritinémie non hémochromatosique : diagnostic et prise en charge. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/hyperferritinemie-non-hemochromatosique-diagnostic-et-prise-en-charge/)
 - [Brissot P., SNFGE et AFEF. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. Février 2019. (PDF)](https://www.snfge.org/sites/default/files/recommandations/brissot_2019.pdf)

@@ -2,11 +2,11 @@
 title = "Cancer du poumon"
 prefix = "le "
 description = "Recommandations pour la prise en charge d'une suspicion de cancer du poumon et pour le dépistage du cancer du poumon par scanner thoracique faible dose"
-synonyms = []
+synonyms = ["Cancer broncho-pulmonaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T17:35:52+02:00"
 publishdate = "2022-05-12"
-lastmod = "2022-05-31"
+lastmod = "2022-09-27"
 specialites = ["pneumologie"]
 annees = "2022"
 sources = ["HAS", "SPLF", "ERS"]
@@ -20,11 +20,11 @@ todo = "SPF, information du patient NICE et HAS"
 
 {{%article-summary%}}
 
-- Première cause de mortalité par cancer alors qu'il est quasi totalement évitable (tabac)
-- Rechercher devant toute hémoptysie ou symptôme thoracique persistant chez un (ex)-fumeur
-- Radio de thorax F+P et scanner thoracique avec injection
+- Le cancer du poumon est la première cause de mortalité par cancer alors qu'il est quasi totalement évitable (arrêt du tabac)
+- Rechercher un cancer du poumon devant toute hémoptysie ou symptôme thoracique persistant chez un (ex)-fumeur
+- Radiographie de thorax F+P et scanner thoracique avec injection
 - Adresser en semi-urgence au Centre de Lutte contre le Cancer
-- Dépistage ciblé recommandé par la SPLF
+- Dépistage du cancer du poumon ciblé recommandé par la *SPLF* et la [Commission européenne](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -65,6 +65,8 @@ PA
 
 Étude NELSON
 : Réduction de la mortalité par cancer du poumon à 10 ans de 26%/61% (H/F) chez les personnes à haut risque de CBP. La réduction de la mortalité à 10 ans n'est que 3,2% (6,7% dans l'étude NSLT).
+
+La Commission européenne recommande ce dépistage depuis son [communiqué de septembre 2022](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -108,13 +110,15 @@ Pour la suite de la prise en charge, relever:
 ### Bilan biologique
 
 - NFS
-- Créatininémie, DFGe CKD-EPI
+- Créatininémie, CKD-EPI
 - Bilan hépatique
 - TP, TCA
 
-{{%info%}}Le dosage des marqueurs tumoraux n'a aucune indication{{%/info%}}
+{{%info%}}Le dosage des marqueurs tumoraux n'a aucune indication pour le dépistage du cancer du poumon{{%/info%}}
 
-### Imageries en semi-urgence en suspicion de cancer du poumon
+### Imageries en semi-urgence devant une suspicion de cancer du poumon
+
+Bilan systématique en cas de signes d'alerte ou de symptômes atypiques:
 
 - Radiographie thoracique face et profil
 - Scanner thoracique avec injection
@@ -143,6 +147,8 @@ La SPLF, au vu des données de recherche, est favorable au dépistage ciblé du 
 - Pendant 5,5 à 10 ans
 
 {{%info%}}
+
+La Commission européenne recommande ce dépistage depuis son [communiqué de septembre 2022](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562).
 
 #### Chez qui dépister le cancer du poumon selon la SPLF ?
 
