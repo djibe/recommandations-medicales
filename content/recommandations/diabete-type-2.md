@@ -88,7 +88,7 @@ Rémission du diabète
 - Surpoids  
   Perte de poids (5-10%) ou chirurgie bariatrique.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Dépister des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et dysfonction érectile (50%)
+- Dépister des {{< modal-btn modal-saos-diabete >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et dysfonction érectile (50%)
 - ALD 8 et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
 
 {{%info%}}Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75% (*ESC 2019 diabetes*){{%/info%}}
@@ -257,24 +257,24 @@ window.onload = () => {
 {{< table title="Rythme de dépistage des complications du diabète. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
 | Appareil     | Soins                                                                                            | Source                   |
 |--------------|--------------------------------------------------------------------------------------------------|--------------------------|
-| AAA          | Échographie si homme 65-75 ans et tabac (sevré < 20 ans) ou 50-75 ans avec ATCD familial AAA 1er degré          | ESC 2014 aortic          |
-| AOMI         | Symptômes + pouls annuels, IPS au diagnostic puis /5-10 ans                                      | ESC 2019 diabetes        |
+| [AAA]({{< relref "anevrysme-aorte-abdominale.md" >}}) | Échographie si homme 65-75 ans et tabac (sevré < 20 ans) ou 50-75 ans avec ATCD familial AAA 1<sup>er</sup> degré | ESC 2014 aortic |
+| [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) | Symptômes + pouls annuels, IPS au diagnostic puis /5-10 ans | ESC 2019 diabetes |
 | Aspirine prev primaire | 75-100 mg envisageable si {{< modal-btn modal-rcv-diabete >}}(très) haut risque CV{{< /modal-btn >}} ou {{< modal-btn modal-coronaire-diabete >}}coronaire{{< /modal-btn >}} sans risque de saignement | ESC 2019 diabetes |
 | Aspirine prev secondaire | 75-160 mg ± associé selon la pathologie, prolonger bi-antiagrégants si bien toléré (max 3 ans) | ESC 2019 diabetes |
-| Cancer du pancréas | Diabète < 12 mois: +50 ans sans ATCD familial ni surpoids OU amaigrissement > 10%<br>Pancréatite chronique + apparition ou décompensation de diabète | INCa 2019 |
-| Chir bariatrique | < 65 ans et IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, SAOS ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH | HAS 2009 obésité |
+| [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) | - Diabète < 12 mois: ≥ 50 ans sans ATCD familial ni surpoids OU amaigrissement > 10%<br>- Pancréatite chronique + apparition ou décompensation de diabète | INCa 2019 |
+| Chir bariatrique | < 65 ans et IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH | HAS 2009 obésité |
 | Dentaire     | Suivi annuel                                                                                     | IDF 2009                 |
-| Dysfonction érectile | Systématique. Si +: dépistage annuel hypotension orthostatique, dysfonction vésicale     | AIUS 2018                |
+| [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) | Systématique. Si présente: dépistage annuel hypotension orthostatique, dysfonction vésicale | AIUS 2018             |
 | ECG          | Annuel (VPN très faible)                                                                         | SFD 2021 CAD             |
 | Épreuve d'effort | Angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans) | SFD 2021 CAD |
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
-| Insuffisance cardiaque | (NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ADA 2022 |
-| NAFLD        | Score FIB-4 et avis gastro si positif                                                            | AFEF 2020                |
+| [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | (NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ADA 2022 |
+| NAFLD/NASH   | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}}                                        | AFEF 2020                |
 | Neuropathie  | Monofilament annuel                                                                              | ESC 2019 diabetes        |
-| Rénal        | Créatininémie, albuminurie sur échantillon annuels                                               | ESC 2019 diabetes        |
+| [Rénal]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie, albuminurie sur échantillon annuels | ESC 2019 diabetes        |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | SFD 2016                 |
 | Score calcique | {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} &plusmn; EE | SFD 2021 CAD |
-| Vaccins      | Covid-19, [grippe]({{< relref "grippe.md" >}}), {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
+| [Vaccins]({{< relref "vaccination.md" >}}) | Covid-19, [grippe]({{< relref "grippe.md" >}}), {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
 {{< /table >}}
 
 > **AAA** = anévrysme de l'aorte abdominale ; **EE** = épreuve d'effort ; **MRC** = maladie rénale chronique ; **aspirine:** IPP si risque élevé de saignement digestif ;  
@@ -341,9 +341,14 @@ window.onload = () => {
 {{< clinique/risque-coronaire-diabete >}}
 
 {{% /modal %}}
-{{% modal title="Dépistage du SAOS et diabète" id="modal-saos"%}}
+{{% modal title="Dépistage du SAOS et diabète" id="modal-saos-diabete"%}}
 
 {{< scores/saos-diabete >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage de la fibrose hépatique" id="modal-fib4"%}}
+
+{{< scores/fib4 >}}
 
 {{% /modal %}}
 {{% modal title="Statines et réduction du LDL" id="modal-statine-intensite"%}}

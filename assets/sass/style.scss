@@ -521,6 +521,10 @@ article {
   }
 }
 
+.form-ripple::before {
+  top: calc(60px - 2px);
+}
+
 .projet {
   .offset-xl-2 {
     margin-left: auto;

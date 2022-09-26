@@ -113,6 +113,7 @@ Classement composite d'après *LesNumerique*, *01Net* et autres, par ordre de qu
 
 ### Souris
 
+- [Logitech MX Master 3s - 120€ (grandes mains)](https://ledenicheur.fr/product.php?p=6496148)
 - [Logitech MX Master 3 - 90€ (grandes mains)](https://ledenicheur.fr/product.php?p=5184666)
 - [Razer Pro Click - 100€](https://ledenicheur.fr/product.php?p=5542256)
 - [Logitech MX Anywhere 3 - 100€ (petites mains)](https://ledenicheur.fr/product.php?p=5542303)

@@ -6,7 +6,7 @@
     "recommandations:new": "hugo new recommandations/article.md",
     "css:compile": "node-sass --output-style expanded --precision 6 assets/sass/_material-custom.scss assets/css/material.css",
     "css:purge": "hugo && purgecss --css assets/css/material.css --content public/**/*.html --output assets/css/material-purge.css --safelist p-2 close collapse collapsing modal fade modal-open modal-backdrop modal-scrollbar-measure nav-tabs-material nav-tabs-indicator animate show active tooltip tooltip-inner irs irs--material irs-line irs-min irs-max irs-from irs-to irs-single irs-grid irs-bar irs-bar--single irs-handle single state_hover irs-hidden-input",
-    "favicon": "real-favicon generate ./build/faviconDescription.json ./build/faviconData.json ./favicons",
+    "favicon": "real-favicon generate \"./build/faviconDescription.json\" \"./build/favicons/\"",
     "html:lint-htmllint": "hugo --cleanDestinationDir && htmllint --rc build/.htmllintrc \"public/**/*.html\"",
     "html:lint-vnu": "hugo --cleanDestinationDir && node build/vnu-jar.js",
     "html:lint-validate": "hugo --cleanDestinationDir && npm exec html-validate \"public/**/*.html\"",
@@ -45,7 +45,7 @@
   "homepage": "https://recomedicales.fr",
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^4.1.3",
-    "cli-real-favicon": "0.0.8",
+    "cli-real-favicon": "^0.0.8",
     "cross-env": "^7.0.3",
     "hint": "^7.0.0",
     "html-validate": "^7.1.1",
