@@ -1,5 +1,5 @@
 <p class="mb-3">Score <abbr title="Fibrosis-4" lang="en">FIB-4</abbr> (Fibrosis-4) pour rechercher une fibrose hépatique significative avant 70 ans.</p>
-<p>Un score FIB-4 inférieur à 1,3 (2 si +65 ans) élimine une hépatopathie avancée (VPN 90%).<br>Au-delà, confirmer la fibrose par un test sanguin plus spécifique: Fibromètre&reg;, Fibrotest&reg; ou ELF&reg;.</p>
+<p>Un score FIB-4 inférieur à 1,3 (2 si +65 ans) élimine une hépatopathie avancée (VPN 90%).<br>Au-delà, confirmer la fibrose par un test sanguin plus spécifique: Fibromètre®, Fibrotest® ou ELF®.</p>
 <p class="text-black-secondary">Le score FIB-4 n'est pas utile pour les patients déjà suivis pour une maladie du foie.</p>
 <div id="score-fib4">
   <div class="form-group form-ripple">
@@ -49,7 +49,7 @@
         if ( (age < 65 && score < 1.3) || (age >= 65 && score < 2) ) {
           textFib4.innerHTML = 'Pas de fibrose hépatique'
         } else if ( (age < 65 && score >= 1.3) || (age >= 65 && score >= 2) ) {
-          textFib4.innerHTML = '<strong>Fibrose hépatique probable</strong><br>Prescrire pour le laboratoire:<br>Fibromètre&reg;, Fibrotest&reg; ou ELF&reg;'
+          textFib4.innerHTML = '<strong>Fibrose hépatique probable</strong><br>Prescrire pour le laboratoire:<br>Fibromètre®, Fibrotest® ou ELF®'
         }
         scoreFib4.innerHTML = score.toPrecision(4)
       } else {

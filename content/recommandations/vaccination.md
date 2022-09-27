@@ -75,6 +75,8 @@ VVA
 | Grossesse   | Coqueluche, Covid, grippe | BoostrixTetra, Repevax ... |
 {{< /table >}}
 
+> Les consultations à 25, 45 et 65 ans seront gratuites dès 2023
+
 {{% /collapse %}}
 {{%collapse "Rattrapage vaccinal" %}}
 
