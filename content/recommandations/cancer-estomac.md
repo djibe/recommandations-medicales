@@ -194,7 +194,6 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
 
 - [Chollet R. et al; SFED, CREGG. Prévention du cancer de l'estomac. 2021.](https://www.sfed.org/sites/www.sfed.org/files/2021-08/Cancerestomac_prevention.pdf)
 - [Nousbaum JB. et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Estomac. BEH. Santé Publique France. 2021.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-estomac)
-- [Zaanan A. Bilan pré-thérapeutique et traitement péri-opératoire des adénocarcinomes de l'estomac. POST'U 2020 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/bilan-pre-therapeutique-et-traitement-peri-operatoire-des-adenocarcinomes-de-lestomac/)
 - [Zaanan A et al. Gastric cancer: French intergroup clinical practice guidelines for diagnosis, treatments and follow-up (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, SFRO). Dig Liver Dis. 2018.](https://www.snfge.org/content/2-cancer-de-lestomac)
 - [SNFGE. Traitement du RGO. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
 - [HAS et CNPHGE. Diagnostic de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)

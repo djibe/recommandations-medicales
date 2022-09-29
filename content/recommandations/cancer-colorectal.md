@@ -6,7 +6,7 @@ synonyms = ["Cancer du côlon", "cancer du rectum"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
 publishdate = "2022-09-22"
-lastmod = "2022-09-26"
+lastmod = "2022-09-29"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2022"
 sources = ["SNFGE", "INCa", "HAS", "SFED"]
@@ -15,7 +15,7 @@ anglais = ["Colorectal cancer"]
 sctid = "781382000"
 image = true
 imageSrc = "Illustration du cancer colorectal. Blausen Medical Communications, Inc., CC BY 3.0, via Wikimedia Commons"
-todo = "Google ergonomie, SFED, bas grade, collèges, préparation coloscopie, dépistage G8 gériatrie"
+todo = "Lighthouse ergonomie, préparation coloscopie, dépistage G8 gériatrie"
 +++
 
 {{%article-summary%}}
@@ -330,8 +330,8 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 - [INCa. Les cancers colorectaux en 12 points clés. Juillet 2020. (PDF)](https://www.e-cancer.fr/content/download/292187/4161375/file/Cancers_colorectaux_en_12_points_cl%C3%A9s_mel_20200702.pdf)
 - [INCa. Cancer colorectal - Dépistage par test immunologique et autres modalités. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-colorectal-Depistage-par-test-immunologique-et-autres-modalites)
 - [INCa. Dépistage du cancer colorectal - Accompagner vos patients de 50 à 74 ans. Juillet 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Depistage-du-cancer-colorectal-Accompagner-vos-patients-de-50-a-74-ans)
-- [Grandval P. Diagnostic et surveillance des patients à très haut risque génétique de CCR. POST'U 2020](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-et-surveillance-des-patients-a-tres-haut-risque-genetique-de-ccr/)
 - [Hassan C. et al. Bowel preparation for colonoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2019. Endoscopy. 2019.](https://www.thieme-connect.de/products/ejournals/html/10.1055/a-0959-0505)
+- [Lapuelle J. et al. Critères de qualité de la coloscopie - Recommandations du CNP-HGE et de la SFED. Hépato-Gastro et Oncologie Digestive. 2019. (PDF)](https://www.jle.com/download/hpg-313694-41353-criteres_de_qualite_de_la_coloscopie_recommandations_du_cnp_hge_et_de_la_sfed-a.pdf)
 - [INCa. Cancers colorectaux - Du diagnostic au suivi. Octobre 2018. (PDF)](https://www.e-cancer.fr/content/download/247273/3415432/file/Cancers_colorectaux_du_diagnostic_au_suivi_mel_20181029.pdf)
 - [HAS. Cancer colorectal : modalités de dépistage et de prévention chez les sujets à risque élevé et très élevé. Mai 2017.](https://www.has-sante.fr/jcms/c_2772744/fr/cancer-colorectal-modalites-de-depistage-et-de-prevention-chez-les-sujets-a-risque-eleve-et-tres-eleve)
 - [HAS. Quand faut-il faire une coloscopie de contrôle après une polypectomie ?. Septembre 2013.](https://www.has-sante.fr/jcms/c_1695396/fr/quand-faut-il-faire-une-coloscopie-de-controle-apres-une-polypectomie)

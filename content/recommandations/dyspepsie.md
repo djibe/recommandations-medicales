@@ -149,6 +149,5 @@ style Dyspepsie stroke:#4150f5, stroke-width:1px
 {{%sources%}}
 
 - [Mion F.; SNFGE et GFNG. Prise en charge de la dyspepsie. Conseil de pratique. Janvier 2019. (PDF)](https://www.snfge.org/sites/default/files/recommandations/dyspepsie_2019.pdf)
-- [Bruley des Varannes S. Prise en charge de la dyspepsie fonctionnelle. POST'U 2011 Paris.](https://www.fmcgastro.org/postu-main/archives/postu-2011-paris/textes-postu-2011-paris/prise-en-charge-de-la-dyspepsie-fonctionnelle/)
 
 {{%/sources%}}

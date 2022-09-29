@@ -70,7 +70,7 @@ Le PC présenté ci-dessous peut être assemblé sur mesure par les grands magas
 
 Changez la couleur du boîtier (les goûts et les couleurs ... mais vérifiez une taille très proche de 44 x 22 x 41 cm) et la souris si vous avez de petites mains. Ajoutez un lecteur DVD ou Blu-Ray selon vos besoins (mais en 2022 ...).
 
-**NB.** Windows 10/11 peut être acheté 15€ (au lieu des 200€) sur les géants du e-commerce si un ami peut vous l'installer ([lien](https://www.amazon.fr/gp/product/B0B6QJBDPS/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)).
+**NB.** Windows 10/11 peut être acheté 15€ (au lieu des 200€) sur les géants du e-commerce si un ami peut vous l'installer.
 
 {{% /collapse %}}
 

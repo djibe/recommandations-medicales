@@ -242,10 +242,8 @@ graph TB
 {{%sources%}}
 
 - [Snook J et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051.](https://gut.bmj.com/content/70/11/2030)
-- [Abitbol V. Comment explorer et traiter une carence martiale ? POST'U 2021 - Paris](https://www.fmcgastro.org/texte-postu/postu-2021-paris/comment-explorer-et-traiter-une-carence-martiale-3/)
 - [Santé Publique France. Étude de santé sur l'environnement, la biosurveillance, l'activité physique et la nutrition (Esteban) 2014-2016. Volet Nutrition. Chapitre Dosages biologiques : vitamines et minéraux. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/rapport-synthese/etude-de-sante-sur-l-environnement-la-biosurveillance-l-activite-physique-et-la-nutrition-esteban-2014-2016-.-volet-nutrition.-chapitre-dosages)
 - [Rouillon JM, SNFGE. Prise en charge de l'anémie ferriprive. 2018.](https://www.snfge.org/download/file/fid/3372)
-- [Clair E, Nahon S. Prise en charge de l'anémie ferriprive chez la personne âgée. POST'U 2016 - Paris](https://www.fmcgastro.org/textes-postus/no-postu_year/prise-en-charge-de-lanemie-ferriprive-chez-la-personne-agee/)
 - [OMS. Concentrations en hémoglobine permettant de diagnostiquer l'anémie et d'en évaluer la sévérité. Système 'informations nutritionnelles sur les vitamines et les minéraux. Genève, Organisation mondiale de la Santé, 2011 (WHO/NMH/NHD/MNM/11.1)](https://www.who.int/fr/publications-detail/WHO-NMH-NHD-MNM-11.1)
 - [HAS. Choix des examens du métabolisme du fer en cas de suspicion de carence en fer. Mars 2011.](https://www.has-sante.fr/jcms/c_1051506/fr/choix-des-examens-du-metabolisme-du-fer-en-cas-de-suspicion-de-carence-en-fer-rapport-d-evaluation)
 

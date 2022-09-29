@@ -178,15 +178,11 @@ graph TB
 {{%sources%}}
 
 - [HAS. Choix et durée de l'antibiothérapie : Diverticulite aiguë sigmoïdienne non compliquée. Recommander les bonnes pratiques. 27/08/2021.](https://www.has-sante.fr/jcms/p_3282886/fr/choix-et-duree-de-l-antibiotherapie-diverticulite-aigue-sigmoidienne-non-compliquee)
+- {{< references/college-gastro >}}
 - [Schultz J.K. et al. European Society of Coloproctology: guidelines for the management of diverticular disease of the colon. Colorectal Dis. 2020.](https://doi.org/10.1111/codi.15140)
-- [Meurette G. et Vitton V. Diverticulite sigmoïdienne à l'heure des recommandations. POST'U 2019 - Paris](https://www.fmcgastro.org/texte-postu/postu-2019-paris/diverticulite-en-2019/)
 - [Rouillon JM. Prise en charge de la diverticulite sigmoïdienne. SNFGE. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/prise_en_charge_de_la_diverticulite.pdf)
 - Prescrire Rédaction. Diverticulite aiguë du côlon. Novembre 2018.
 - [HAS. Prise en charge médicale et chirurgicale de la diverticulite colique. Novembre 2017.](https://www.has-sante.fr/jcms/c_2806798/fr/prise-en-charge-medicale-et-chirurgicale-de-la-diverticulite-colique)
-
-### À lire
-
-{{< references/college-gastro >}}
 
 {{%/sources%}}
 {{% modal title="Score ASA" id="modal-score-asa"%}}

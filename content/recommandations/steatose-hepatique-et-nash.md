@@ -218,6 +218,8 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
+{{< card-link title="e-learning EASD" url="https://easd-elearning.org/courses/nafld/">}}
+
 {{< youtube id="K5QbZI12BJM" title="Webconférence AFEF 2021 - Partie 1 NASH (AFEF Medical Education)" >}}
 
 {{< youtube id="ZF47AKyOtgk" title="Fibrose avancée dans la stéatopathie du diabétique : l'algorithme pratique (CREGG)" >}}

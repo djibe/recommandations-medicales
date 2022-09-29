@@ -42,8 +42,6 @@ Hyperferritinémie (HF)
 - 1/3 des diabétiques et 1/4 des pré-diabétiques ont une hyperferritinémie
 - 20% des NASH ont une HF et 1/3 a une hépatosidérose métabolique.
 
-> Source FMC POST'U
-
 ### Abréviations
 
 CST
@@ -207,10 +205,8 @@ graph TB
 {{< youtube id="N4mWcUyGAf8" title="Nouvelle classification des surcharges en fer - E. BARDOU-JACQUET 2019 (AFEF Medical Education)" >}}
 
 - [Centre de référence des hémochromatoses.](https://centre-reference-fer-rennes.org/)
-- [Bardou Jacquet E. Hyperferritinémie non hémochromatosique : diagnostic et prise en charge. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/hyperferritinemie-non-hemochromatosique-diagnostic-et-prise-en-charge/)
 - [Brissot P., SNFGE et AFEF. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. Février 2019. (PDF)](https://www.snfge.org/sites/default/files/recommandations/brissot_2019.pdf)
 - [Brissot P. et al. Pathophysiology and classification of iron overload diseases; update 2018. Transfusion Clinique et Biologique (2018).](https://doi.org/10.1016/j.tracli.2018.08.006)
-- [Sogni P. Prise en charge de l'hyperferritinémie. POST'U 2017 Paris](https://www.fmcgastro.org/textes-postus/postu-2017/prise-en-charge-de-lhyperferritinemie/)
 - [Brissot P. Diagnostic d'une hyperferritinémie. (PDF)](https://www.hemochromatose.org/wp-content/uploads/2012/12/hyperferritinemie.pdf)
 
 ### À lire

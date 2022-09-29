@@ -7,10 +7,10 @@ synonyms = ["Accident ischémique transitoire (AIT)", "infarctus cérébral"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-25T14:04:00+02:00"
 publishdate = "2021-01-25"
-lastmod = "2022-08-28"
+lastmod = "2022-09-29"
 specialites = ["neurologie"]
 annees = "2022"
-sources = ["HAS", "AHA", "ESC"]
+sources = ["HAS", "AHA", "ESC", "ESO"]
 tags = ["antiplaquettaire", "cephalees", "demence", "diabete", "HTA", "risque cardiovasculaire", "SAS", "vertige"]
 anglais = ["Cerebrovascular accident"]
 sctid = "230690007"
@@ -187,30 +187,31 @@ Si le patient appelle au cabinet, transférer l'appel au {{<phone>}}15{{</phone>
 S'applique aussi après un AIT.
 
 - **Aspirine 50-325 mg/j**  
-Si non cardioembolique. Clopidogrel 75 mg/j si allergie.
+  Si non cardioembolique. Clopidogrel 75 mg/j si allergie (bithérapie les 90 premiers jours).
 - Hypertension artérielle
   - Seuil diagnostique ≥ 130/90 mmHg car très haut RCV (160 après 80 ans, *ESC 2018*)
-  - Cible 120-130/70-79 mmHg (*ESC 2018* et *AHA 2021*)
+  - Cible 120-130/70-79 mmHg (*ESO 2022*, *AHA 2021* et *ESC 2018*)
   - ≥ 65 ans: 130-139/70-79 mmHg
   - Molécules: thiazidiques, {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}} (voire ARA2)
   - Hypertendu: réduire la consommation de sel de 2,5 g/j
+  - Automesure tensionnelle (*ESO 2022*)
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,55 g/L et réduction ≥ 50%  
-Patient à {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}.
-- Arrêt du tabac
-- [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}})
-- {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Perte de poids si surpoids
-- Activité physique ≥ 10 min x 4/semaine
-- Sédentaire: bouger 3 minutes toutes les 30 minutes
-- Vaccin Covid-19
+  Patient à {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}.
+- Mesures hygiéno-diététiques associées
+  - Arrêt du tabac
+  - [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}})
+  - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
+  - Perte de poids si surpoids
+  - Activité physique ≥ 10 min x 4/semaine
+  - Sédentaire: bouger 3 minutes toutes les 30 minutes
 - Diabète
   - AVC < 6 mois: {{< modal-btn modal-hba1c >}}HbA1c cible 8%{{< /modal-btn >}}
   - Après 6 mois: {{< modal-btn modal-hba1c >}}cible réadaptée selon le profil{{< /modal-btn >}}
 - [Dépister des apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) {{%class%}}(40%){{%/class%}}
 - [ALD]({{< relref "affection-longue-duree.md" >}})  
-Critère: séquelles neurologiques nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.
+  Critère: séquelles neurologiques nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.
 - Éducation du patient  
-Mode de vie, réagir, traitements.
+  Mode de vie, réagir, traitements.
 
 {{% /collapse %}}
 {{%collapse "Traitements spécifiques" %}}
@@ -339,6 +340,7 @@ Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de tr
 {{% /collapse %}}
 {{%sources%}}
 
+- [Dawson J. et al. European Stroke Organisation (ESO) guideline on pharmacological interventions for long-term secondary prevention after ischaemic stroke or transient ischaemic attack. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/10.1177/23969873221100032)
 - [HAS. Rééducation à la phase chronique d'un AVC de l'adulte : Pertinence, indications et modalités. 02/06/2022.](https://www.has-sante.fr/jcms/p_3150692/fr/reeducation-a-la-phase-chronique-d-un-avc-de-l-adulte-pertinence-indications-et-modalites)
 - {{< references/sfd-dt2 >}}
 - [Kleindorfer DO et al. 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2021.](https://www.ahajournals.org/doi/10.1161/STR.0000000000000375)
