@@ -1563,6 +1563,8 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
 
 .card-actions {
   align-items: center;
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 12px;
   display: flex;
   flex-wrap: wrap;
   min-height: 3.25rem;
