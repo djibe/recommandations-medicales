@@ -7,11 +7,11 @@ longHtml = true
 synonyms = ["Phlébite profonde"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-19T18:21:00+02:00
-publishdate = 2021-03-19
-lastmod = 2022-03-17
+publishdate = "2021-03-19"
+lastmod = "2022-09-28"
 specialites = ["cardiologie"]
 annees = "2019"
-sources = ["SFC", "SPLF"]
+sources = ["SFC", "SPLF", "SFMV"]
 tags = ["anticoagulant", "MVTE"]
 anglais = ["Deep venous thrombosis"]
 sctid = "128053003"
@@ -25,9 +25,8 @@ Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'
 
 {{%article-summary%}}
 
-- En l'absence de dyspnée, malaise, tachycardie et douleur thoracique, sinon voir *[suspicion d'embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})*
-- Score clinique systématique et D-dimères ou écho-doppler veineux selon le résultat
-- Thrombose veineuse superficielle, voir la fiche dédiée (*en cours*).
+- Prise en charge d'une suspicion de thrombose veineuse profonde (TVP) en l'absence de signe d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) (dyspnée, malaise, tachycardie et douleur thoracique)
+- Score clinique systématique (score de Wells ou Constans) avec dosage des D-dimères ou écho-doppler veineux selon le résultat du score
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -55,51 +54,51 @@ HNF
 MI
 : membre inférieur
 
-MVTE
+MVTE (ou MTEV)
 : maladie veineuse thromboembolique
 
 TIH
 : thrombopénie induite à l'héparine
 
 TVP
-: thrombose veineuse profonde
+: thrombose veineuse profonde (ou phlébite profonde)
 
 UI
 : unités internationales
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Probabilité clinique et score de Wells" %}}
+{{%collapse "Probabilité clinique de TVP et score de Wells" %}}
 
-{{%warning%}}Rechercher des signes d'embolie pulmonaire: dyspnée, malaise, tachycardie et douleur thoracique.{{%/warning%}}
+{{%warning%}}Rechercher des signes d'embolie pulmonaire devant toute suspicion de thrombose veineuse: dyspnée, malaise, tachycardie et douleur thoracique{{%/warning%}}
 
-En l'absence de signes d'EP, il est recommandé d'utiliser l'un des scores ci-dessous plutôt qu'une appréciation clinique pour l'évaluation d'une suspicion de thrombose veineuse profonde.
+En l'absence de signes d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}), il est recommandé d'utiliser l'un des scores cliniques de thrombose veineuse ci-dessous plutôt qu'une appréciation clinique pour l'évaluation d'une suspicion de thrombose veineuse profonde.
 
-{{< scores/wells-tvp >}}
+{{< scores/tvp >}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Une suspicion de TVP (sans EP) devrait être explorée en ambulatoire (voir *Critères d'hospitalisation*).
+Une suspicion de thrombose veineuse profonde (sans EP) devrait être explorée en ambulatoire (voir *Critères d'hospitalisation*).
 
 - NFS
 - Créatininémie
 
 ### D-dimères
 
-Indications: **probabilité faible** ou **intermédiaire** de TVP (selon le score clinique initial).
+Indications au dosage des D-dimères: **probabilité faible** ou **intermédiaire** de thrombose veineuse profonde (selon le score clinique initial).
 
-Recours d'emblée à l'écho-doppler veineux si non accessible.
+Recours d'emblée à l'écho-doppler veineux si les D-dimères ne sont pas réalisables.
 
 #### Interpréter les résultats de D-dimères
+
+{{%info%}}Après 50 ans, la borne des D-dimères est à 10x l'âge {{%class%}}(ex. 700 à 70 ans, < 500 ng/mL avant 50 ans){{%/class%}}{{%/info%}}
 
 - D-dimères normaux
   - Ne pas réaliser d'écho-doppler
   - Ne pas poursuivre les investigations
 - D-dimères anormaux  
   Réaliser l'écho-doppler veineux.
-
-{{%info%}}Après 50 ans, la borne des D-dimères est à 10x l'âge {{%class%}}(ex. 700 à 70 ans){{%/class%}}.{{%/info%}}
 
 ### Écho-doppler veineux
 
@@ -112,24 +111,26 @@ Indications: **probabilité forte** de TVP (selon le score clinique initial), D-
 - Écho-doppler veineux douteux ou incomplet normal:  
   Prévoir un écho-doppler veineux complet de contrôle à J7.
 - Écho-doppler veineux anormal avec thrombus proximal/distal:  
-  TVP certaine.
+  Thrombose veineuse profonde certaine.
 
 {{% /collapse %}}
 {{%collapse "Critères d'hospitalisation" %}}
 
 {{%warning%}}
 
-### Critères d'hospitalisation en cas de TVP
+### Critères d'hospitalisation d'une thrombose veineuse profonde
+
+L'hospitalisation est recommandée en cas de phlébite avec:
 
 - Suspicion d'embolie pulmonaire
-- TVP bilatérale
+- Phlébite bilatérale
 - Syndrome obstructif sévère ou signes d'ischémie
-- Symptômes mal tolérés après 15j d'anticoagulation efficace
+- Symptômes mal tolérés après 15 jours d'anticoagulation efficace
 - Survenue sous anticoagulants ou suspicion de TIH
 - Hémorragie active ou risque hémorragique élevé  
 {{%class "text-black-secondary"%}}RIETE > 4, voir *Score hémorragique RIETE* plus bas.{{%/class%}}
 - Insuffisance rénale sévère ({{< modal-btn modal-score-cockroft >}}< 30 mL/min{{< /modal-btn >}})
-- Cancer ou comorbidités à risque de décompensation
+- [Cancer](/tags/cancer/) ou comorbidités à risque de décompensation
 - Contexte médico-social ou géographique défavorable
 - Absence d'entourage
 - Absence de téléphone
@@ -145,7 +146,7 @@ Un score hémorragique de RIETE élevé impose une hospitalisation.
 {{< scores/riete >}}
 
 {{% /collapse %}}
-{{%collapse "Bilan étiologique" %}}
+{{%collapse "Bilan étiologique de la thrombose veineuse" %}}
 
 {{%info%}}
 Pour toute survenue de MVTE, il faut rechercher la présence de {{< modal-btn modal-mvte-fdr >}}facteurs de risque cliniques de MVTE{{< /modal-btn >}}
@@ -155,7 +156,7 @@ La MVTE est *non provoquée* en l'absence de {{< modal-btn modal-mvte-fdr >}}fac
 
 ### Enquête étiologique
 
-- Pas de recherche systématique de cancer en {{< modal-btn modal-mvte-fdr >}}risque majeur transitoire{{< /modal-btn >}}
+- Pas de recherche systématique de cancer en prsénce de {{< modal-btn modal-mvte-fdr >}}risque majeur transitoire{{< /modal-btn >}}
 - EP avec *nécrose cutanée* ou antécédent de pathologie vasculaire placentaire: rechercher un *SAPL*
 - EP avec *signes d'hémolyse* ou *cytopénie*: rechercher une *hémoglobinurie paroxystique nocturne* (HPN)
 
@@ -300,12 +301,12 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-[Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/pii/S0761842519300051)
+- [SFMV, GFHT. La place du dosage des d-dimères en médecine. Communiqué. 2021.](https://site.geht.org/actu/la-place-du-dosage-des-d-dimeres-en-medecine-document-medecins-sfmv-gfht-innovte/)
+- [Sanchez O. et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/pii/S0761842519300051)
 
 ### À lire
 
 - [Collège des Enseignants de Pneumologie (CEP). Embolie pulmonaire et thrombose veineuse profonde. Item 226 & 330. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_226_et_330_MTEV_2021_ex_items_ex-items_224_et_326v3.pdf)
-- [Samama C-M et al; SFAR. Prévention de la maladie thromboembolique veineuse postopératoire. Actualisation 2011. Texte court. (PDF)](https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prevention-de-la-maladie-thromboembolique-veineuse-postoperatoire-copie.pdf)
 - [Albaladejo et al. Commentaires et propositions du Groupe d'Intérêt en Hémostase Périopératoire (GIHP) sur les recommandations de la Société Européenne d'Anesthésie : European Guidelines on perioperative venous thromboembolism prophylaxis. 2019. (PDF)](https://www.portailvasculaire.fr/sites/default/files/docs/2019_gihp_commentaires_2018_esa_vte_guidelines_mtev_prevention_peri-op.pdf)
 - [Afshari A. et al; ESA VTE Guidelines Task Force. European Guidelines on perioperative venous thromboembolism prophylaxis. Eur Jour Anaes. 2018.](https://journals.lww.com/ejanaesthesiology/fulltext/2018/02000/european_guidelines_on_perioperative_venous.2.aspx)
 

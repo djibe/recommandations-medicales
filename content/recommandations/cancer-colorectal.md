@@ -15,7 +15,7 @@ anglais = ["Colorectal cancer"]
 sctid = "781382000"
 image = true
 imageSrc = "Illustration du cancer colorectal. Blausen Medical Communications, Inc., CC BY 3.0, via Wikimedia Commons"
-todo = "Lighthouse ergonomie, préparation coloscopie, dépistage G8 gériatrie"
+todo = "Lighthouse ergonomie, dépistage G8 gériatrie, Vaccination info service chimiothérapie"
 +++
 
 {{%article-summary%}}
@@ -93,6 +93,9 @@ Premier degré
 
 TAP
 : thoraco-abdomino-pelvien
+
+TIF (ou FIT)
+: test immunologique fécal de recherche de sang occulte dans les selles
 {.dl-inline}
 
 {{% /collapse %}}
@@ -228,7 +231,8 @@ Le kit du dépistage du cancer du côlon peut être remis par le médecin ou dé
 
 Le test immunologique fécal (TIF) remplace le test *Hemoccult®*. Il est performant (se 70%, spe 96-98%), fiable, gratuit et simple avec un seul prélèvement de selles tous les 2 ans. Le même rythme de suivi est préconisé par la [Commission Européenne](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562).
 
-4% des tests sont positifs, nécessitant une coloscopie de confirmation (cancer 8%, adénome avancé 40%): << détecté tôt, un cancer colorectal peut se guérir dans 9 cas sur 10 >> (*INCa 2020*)
+4% des tests sont positifs, nécessitant une coloscopie de confirmation dans les 31 jours (*SFED 2019*).  
+En cas de TIF positif, la coloscopie découvre un cancer pour 8% et un adénome avancé chez 40% des sujets: << détecté tôt, un cancer colorectal peut se guérir dans 9 cas sur 10 >> (*INCa 2020*)
 
 **Critères d'exclusion** au test de dépistage: risque de CCR élevé ou très élevé (voir *[Niveaux de risque](#niveaux-de-risque-de-cancer-colorectal)*), symptômes évocateurs de CCR (voir *Clinique*), coloscopie totale dans les 5 ans, coloscanner seul ou coloscopie incomplète suivie de coloscanner dans les 2 ans.
 
@@ -304,13 +308,16 @@ Chirurgie le plus souvent. Parfois chimiothérapie adjuvante et thérapie ciblé
 
 ### Préparation colique pour une coloscopie
 
-- Régime sans résidus dès J-2 (J-1 selon *ESGE*)
-  - Interdits: fruits, légumes, lait, yaourts, fromage blanc, pain, jus de fruits
-  - Autorisés: viandes, volailles, œufs, poissons, jambon blanc, pâtes, riz blanc, pommes de terre (sans la peau), fromages à pâte cuite (gruyère, emmenthal, beaufort, comté), biscottes au froment, gâteaux secs simples
-- Produit à base de polyéthilèneglycol (PEG) + simethicone
-- À jeun le jour J
+- Régime sans résidus à débuter la veille (*ESGE*)
+  - Interdits: fruits, légumes, lait, yaourts, fromage blanc, pains et céréales complètes, jus de fruits
+  - Autorisés: pommes ou carottes fraîches cuites, viandes, volailles, œufs, poissons, jambon blanc, pâtes, riz et pain blanc, pommes de terre (sans la peau), fromages à pâte cuite (gruyère, emmental, beaufort, comté), biscottes au froment, gâteaux secs simples
+- Le liquide de préparation colique
+  - Fractionnement de la prise de produit à base de 2-4 litres de polyéthilèneglycol (PEG type Colopeg, Fortrans, Klean-Prep) + siméticone orale (ex. Ximipeg)
+  - Éviter les PEG à bas de phosphate de sodium (Colokit, Recholan)
+- Terminer la préparation de H-5 à H-2 puis rester à jeun  
+  Préparation possible le jour J en cas de coloscopie programmée l'après-midi.
 
-> *ESGE 2019* et *HAS 2013*
+> *SFED 2019*, *ESGE 2019* et *HAS 2013*
 
 ### Complications de la coloscopie
 
@@ -344,9 +351,7 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 
 ### À lire
 
-- [Robaszkiewicz M. et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml) +++
-- <https://www.fmcgastro.org/texte-postu/postu-2020-paris/les-criteres-de-la-qualite-de-la-coloscopie-et-de-la-preparation-colique-sfed-cnp-esge-2019/>
-- Vaccination info service chimiothérapie
+- [Robaszkiewicz M. et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}

@@ -33,8 +33,8 @@ todo = "ttt ambulatoire accès palustre, http://medecinetropicale.free.fr/cours/
 {{%collapse "Définition" %}}
 
 Paludisme
-: ou malaria, littéralement << mauvais air >>
-: Maladie infectieuse due au parasite du genre *Plasmodium* (falciparum surtout, vivax, malaria, ovale ou knowlesi) transmise par les moustiques anophèles.
+: de l'ancien français << palus >> (marécage) ou aussi malaria, littéralement << mauvais air >>
+: Maladie infectieuse due au parasite du genre *Plasmodium* (*Plasmodium falciparum* surtout voire *P. vivax*, *P. malariae*, *P. ovale* ou *P knowlesi*) transmise par les moustiques *Anophèles*.
 
 ### Abréviations
 

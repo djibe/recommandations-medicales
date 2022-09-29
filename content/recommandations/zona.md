@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-14T19:48:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2022-06-19"
+lastmod = "2022-09-29"
 specialites = ["dermatologie", "infectiologie", "ophtalmologie"]
 annees = "2020"
 sources = ["SPILF", "MinSanté"]
@@ -20,18 +20,18 @@ todo = "flowchart, zona en pédiatrie"
 
 {{%article-summary%}}
 
-- Valaciclovir 1 g x 3/j 7 jours si:  
-  Ophtalmique, +50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs +++ en phase aiguë, lésions cutanées graves)
-- Hospitalisation en urgence si immunodéprimé, atteinte organique ou PFP zostérienne
+- Prise en charge du zona par antiviral valaciclovir 1 g x 3/j 7 jours si:  
+  zona ophtalmique, +50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs intenses en phase aiguë, lésions cutanées graves)
+- Hospitalisation d'un zona en urgence si immunodéprimé, atteinte organique ou [paralysie faciale zostérienne]({{< relref "paralysie-faciale-idiopathique.md" >}})
 - Vaccination post-exposition (varicelle) si ≥ 12 ans immunocompétent sans antécédent de varicelle en contact avec un cas de zona, après sérologie
 - Vaccination zona de 65 à 74 ans
-- PCR VIH si adulte -50 ans
+- [PCR VIH]({{< relref "vih-sida.md" >}}) en cas de zona avant 50 ans
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Zona
-: Réactivation du virus [varicelle]({{< relref "varicelle.md" >}})-zona (VZV) dans le ganglion sensitif où il reste quiescent avec apparition de vésicules et douleurs dans le dermatome correspondant.
+: Réactivation du virus [varicelle]({{< relref "varicelle.md" >}})-zona (VZV) dans le ganglion sensitif où il reste quiescent avec apparition de vésicules et douleurs dans le **dermatome** correspondant.
 : Complications liées aux [douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}) séquellaires, au pronostic visuel en **zona ophtalmique** et aux formes de l'immunodéprimé.
 
 Zona et personne immunodéprimée
@@ -40,6 +40,8 @@ Ce sont les principales personnes qui développent des formes compliquée.
 : **Pathologies pourvoyeuses de zona:** Leucémie aiguë, lymphome en traitement, lupus érythémateux, greffe, chimiothérapie cytotoxique, corticothérapie au long cours, VIH (CD4 < 350/mm³ surtout).
 
 ### Atteintes du zona selon l'âge
+
+Formes cliniques du zona selon l'âge:
 
 - Jeune enfant  
   Zona possible dans les premières années de vie. Rare avant 4 ans et ne présente pas de caractère de gravité.
@@ -95,7 +97,7 @@ Signes et symptômes du zona chez l'adulte (et chez l'enfant):
 - Douleurs du dermatome  
   Quasi constantes en phase aiguë. Risque de chronicisation des douleurs neuropathiques.
 - Zona ophtalmique  
-  Surtout patient +50 ans, fréquentes complications oculaires et douleurs chroniques.
+  Surtout après 50 ans, fréquentes complications oculaires et douleurs chroniques.
 
 {{%warning%}}
 Facteurs prédictifs d'algies post-zostériennes:
@@ -104,7 +106,7 @@ Facteurs prédictifs d'algies post-zostériennes:
 - Intensité des douleurs en phase aiguë
 - Gravité de l'éruption cutanée
 
-**Diagnostic différentiel d'un zona:** herpès ou coxsackie.
+**Diagnostic différentiel d'un zona:** infection herpétique ou coxsackie.
 
 {{%/warning%}}
 
@@ -145,9 +147,9 @@ Informer sur la nécessité de consultation immédiate en cas de survenue de br�
 {{% /collapse %}}
 {{%collapse "Traitement du zona" %}}
 
-{{%warning%}}Hospitalisation en cas d'immunodépression ou d'atteinte organique{{%/warning%}}
+{{%warning%}}Hospitalisation en cas de zona chez un immunodéprimé ou compliqué d'atteinte organique{{%/warning%}}
 
-Traitement du zona non sévère:
+Prise en charge d'un zona non sévère:
 
 - Antalgie palier 1 ± 2 ou 3  
   et application de glace
@@ -165,7 +167,7 @@ Traitement du zona non sévère:
 
 {{%info%}}Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anesthésiques, antiprurigineux) ne doit être appliqué{{%/info%}}
 
-**NB**. Pas de bénéfice prouvé des anti-H1 sur le prurit au cours d'un zona.
+**NB**. Pas de bénéfice prouvé des anti-histaminiques sur le prurit au cours d'un zona.
 
 ### Antiviral
 
@@ -180,9 +182,9 @@ Traitement du zona non sévère:
 
 #### Prise en charge du zona par antiviral
 
-Le traitement doit être débuté en urgence dans les 48-72 premières heures.
+Le traitement antiviral doit être débuté en urgence dans les 48 à 72 premières heures.
 
-{{%info%}}Valaciclovir 2 x 500 mg x 3/j pendant 7 jours, début immédiat{{%/info%}}
+{{%info%}}Valaciclovir 2 x 500 mg 3 fois par jour pendant 7 jours, début immédiat{{%/info%}}
 
 **Alternatives:** aciclovir 800 mg x 5/j pendant 7 jours (seule forme buvable)  
 ou famciclovir 500 mg x 3/j pendant 7 jours.
@@ -191,7 +193,7 @@ Chez l'enfant: utiliser l'aciclovir buvable (Zovirax) à partir de 2 ans. Avis s
 
 ### Traitement du zona ophtalmique
 
-Traitement antiviral comme ci-dessus. **Début immédiat du traitement**.
+Traitement antiviral comme ci-dessus avec **début immédiat du traitement**.
 
 {{%warning%}}
 Indications à l'avis ophtalmologique en urgence:
@@ -213,7 +215,7 @@ Hospitalisation pour aciclovir intra-veineux et (méthyl-)prednisolone.
 {{% /collapse %}}
 {{%collapse "Traitement des douleurs post-zostériennes" %}}
 
-### Traitements localisés
+### Traitements localisés de douleurs séquellaires d'un zona
 
 - Glaçage local
 - Couvrir la zone douloureuse
@@ -221,9 +223,9 @@ Hospitalisation pour aciclovir intra-veineux et (méthyl-)prednisolone.
   - 1 à 3 selon la superficie de la zone, 12 h/j
   - Effets indésirables: irritation cutanée, allergie
 
-### Traitements généraux
+### Traitements généraux de douleurs neuropathiques
 
-Détail dans le [chapitre Douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}).
+Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}}).
 
 - Fond douloureux permanent: amitriptyline
 - Paroxysmes hyperalgiques: carbamazépine ([Tegretol® ou gén](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61547468&typedoc=R))

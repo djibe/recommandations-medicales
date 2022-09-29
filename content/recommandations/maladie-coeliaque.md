@@ -306,7 +306,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-{{< youtube id="l3CGdp4T7Fw" title="Le régime sans gluten (RSG) : pour qui et pourquoi ? (TutoGastro SNFGE)" >}}
+{{< youtube id="l3CGdp4T7Fw" title="Le régime sans gluten pour qui et pourquoi (TutoGastro SNFGE)" >}}
 
 - Prescrire Redaction. Intolérance au gluten - L'essentiel sur les soins de premier choix. Janvier 2020.
 - [Al-Toma A et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. UEG Journal. 2019.](https://doi.org/10.1177%2F2050640619844125)

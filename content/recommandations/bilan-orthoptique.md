@@ -20,10 +20,10 @@ imageSrc = "Illustration par rawpixel.com / Freepik"
 
 {{%article-summary%}}
 
-- Bilan systématique de fatigue ou céphalées, retard scolaire ou troubles de l'attention
-- Accès libre pour la prescription de lunettes de 16 à 42 ans. Porteur de lunettes: possible si bilan ophtalmologique dans les 5 ans (3 ans si lentilles)
-- Accès direct pour le dépistage de l'amblyopie et de troubles visuels entre 9 à 15 mois puis entre 30 mois et 5 ans
-- [Annuaire des orthoptistes](http://annuairesante.ameli.fr/)
+- Bilan orthoptique systématique de fatigue ou céphalées, retard scolaire ou troubles de l'attention
+- Accès libre à l'orthoptiste pour la prescription de lunettes de 16 à 42 ans. Porteur de lunettes: possible si bilan ophtalmologique dans les 5 ans (3 ans si lentilles)
+- Accès direct à l'orthoptiste pour le dépistage de l'amblyopie et de troubles visuels entre 9 à 15 mois puis entre 30 mois et 5 ans
+- [Annuaire des orthoptistes en France](http://annuairesante.ameli.fr/)
 
 {{%/article-summary%}}
 {{%collapse "Indications au bilan orthoptique" "show" %}}
@@ -61,15 +61,15 @@ Et chez l'enfant avec les signes suivants (+ ci-dessus):
 - Retard scolaire (lecture, écriture, copie, géométrie)
 - Enfant trop proche de l'écran ou du livre
 - Posture anormale de la tête (*NHS*)
-- Nourrisson avec interactions limitées  
-    Ne joue pas, ne fixe pas, ne s'intéresse pas à son entourage.
+- Nourrisson avec interactions limitées: ne joue pas, ne fixe pas, ne s'intéresse pas à son entourage
+{.list-group}
 
 {{% /collapse %}}
 {{%sources%}}
 
 - [Décret 2022-691 relatif aux soins visuels pouvant être réalisés sans prescription médicale par les orthoptistes](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045668574)
 - [Syndicat National Autonome des Orthoptistes](https://www.orthoptiste.pro/l-orthoptie/ou-et-quand-consulter/)
-- [Godts D et al. Binocular Vision in Chronic Fatigue Syndrome. Am Orthopt J. 2016.](https://pubmed.ncbi.nlm.nih.gov/27799582/)
+- [Godts D. et al. Binocular Vision in Chronic Fatigue Syndrome. Am Orthopt J. 2016.](https://pubmed.ncbi.nlm.nih.gov/27799582/)
 - [NHS Devon (PDF)](https://www.northdevonhealth.nhs.uk/wp-content/uploads/2014/06/Appendix-1.pdf)
 
 {{%/sources%}}
