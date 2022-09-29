@@ -20,7 +20,7 @@ todo = "Lighthouse ergonomie, dépistage G8 gériatrie, Vaccination info service
 
 {{%article-summary%}}
 
-- Le cancer colorectal (CCR) est le 2<sup>e</sup> cancer par mortalité et pourtant seulement 35% de participation au dépistage par test fécal
+- Le cancer colorectal (CCR) est le deuxième cancer par mortalité et pourtant n'obtient que 35% de participation au dépistage
 - Il survient dans 95% des cas après 50 ans
 - 3 niveaux de risque de cancer colorectal (voir *Niveaux de risque* pour les détails) avec rythme spécifique pour chacun (voir *Dépistage et suivi des sujets*)
   - Moyen: 50 à 74 ans
@@ -250,17 +250,20 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 
 ### Rythme de dépistage chez les personnes à haut risque de cancer colorectal
 
-{{< table title="Indications au dépistage du cancer colorectal pour les personnes à haut risque selon HAS 2017" class="table-sm" >}}
-| Sujet | Début surveillance | Population | Suivi et rythme |
+{{< table title="Indications au dépistage du cancer colorectal pour les personnes à haut risque selon SFED 2021 et HAS 2017" class="table-sm" >}}
+| Patient | Début surveillance | Population | Suivi et rythme |
 |---|---|---|---|
-| Antécédent personnel d'adénome | Après résection | <strong>Polype haut risque:</strong><br>nb ≥ 3 ou taille > 1 cm<br>ou PA avec dysplasie haut grade<br>ou PF avec dysplasie | Coloscopie:<br>À 3 ans puis tous les 3-5 ans selon résultats<br>Après 2 colo normales: 5-10 ans ou arrêt à discuter |
-| | | <strong>Polype bas risque:</strong><br>nb < 3 et taille < 1 cm et PA bas grade<br>ou PF sans dysplasie | À 5 ans, puis tous les 3-5 ans selon résultats<br>Après 2 colo normales: 5-10 ans ou arrêt à discuter |
-| Antécédent personnel de CCR | Après résection |  | Coloscopie:<br>A 1 an (3-6 mois si incomplète)<br>Puis tous les 5 ans si normales |
-| Antécédent familial 1<sup>er</sup> degré de CCR<br>ou d'adénome avancé > 1 cm | À partir de 45 ans<br>ou 10 ans avant l'âge<br>de diagnostic du<br>cas index |  | Coloscopie tous les 5 ans |
+| Antécédent personnel d'adénome<br>(SFED 2021) | Après résection | <strong>Risque élevé:</strong><br>- ≥ 5 adénomes<br>- 1 adénome ≥ 10 mm ou en DHG<br>- ≥ 1 PF | Coloscopie à 3 ans |
+| | | <strong>Risque faible:</strong><br>1-2 adénome < 10 mm en DBG | Cs de prévention à 5 ans<br>+ coloscopie sous 7-10 ans<br>ou reprise FIT à 5 ans |
+| | | <strong>Risque faible:</strong><br>3-4 adénomes < 10 mm en DBG<br>PF < 10 mm sans dysplasie | Coloscopie à 5 ans |
+| Antécédent personnel de CCR | Après résection |  | Coloscopie à 1 an<br>(sous 6 mois si incomplète)<br>puis intervalle de 3 ans<bR>et encore 5 ans |
+| Antécédent familial 1<sup>er</sup> degré de CCR<br>ou d'adénome avancé > 10 mm | À partir de 45 ans<br>ou 10 ans avant l'âge<br>de diagnostic du<br>cas index |  | Coloscopie tous les 5 ans |
 | MICI | 6-8 ans après le début<br>des symptômes | <strong>Risque élevé:</strong><br>CSP, ATCD de dysplasie, forme étendue<br>sur +50% du côlon, persistance inflammatoire,<br>ATCD familiaux CCR, nb pseudo-polypes,<br>sténose colique | Chromoendoscopie tous les 1-2 ans |
 | | | <strong>Risque intermédiaire:</strong><br>RCH étendue en dessous de l'angle gauche,<br>MC colique étendue sur 30-50% | Tous les 3-4 ans |
 | | | <strong>Risque faible:</strong><br>Rectite de RCH et MC colique étendue sur < 30% | Pas de suivi spécifique défini |
 {{< /table >}}
+
+> Légende. **DBG =** dysplasie de bas grade ; **DHG =** dysplasie de haut grade ; **PF =** polype festonné
 
 ### Rythme de dépistage chez les personnes à très haut risque de cancer colorectal
 
@@ -330,6 +333,7 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 
 {{< youtube id="kWiExzPWF4w" title="Quand demander un marqueur tumoral dans le cancer colorectal ? (TutoGastro SNFGE)" >}}
 
+- [Robaszkiewicz M. et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)
 - [Phelip JM. et al. Metastatic colorectal cancer (mCRC): French intergroup clinical practice guidelines for diagnosis, treatments and follow-up (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, ACHBT, SFRO, SFR)(TNCD). Dig Liver Dis. 2019. Maj 21/07/2022.](https://www.snfge.org/content/4-cancer-colorectal-metastatique)
 - [Lecomte T. et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/3-cancer-du-colon-non-metastatique)
 - [Cotte E. et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/5-cancer-du-rectum)
@@ -348,10 +352,6 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 - [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique polypose adénomateuse familiale et polypose liée à MYH. 2009. (PDF)](https://www.e-cancer.fr/content/download/58351/531984/file/chir_prophy_predi_gene_polypose.pdf)
 - [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique SYNDROME HNPCC / lynch. 2009. (PDF)](https://www.e-cancer.fr/content/download/58350/531976/file/chir_prophy_predi_gene_hnpcc-lynch.pdf)
 - [INCa. Label métastases hépatiques synchrones du cancer colorectal (synthèse). (PDF)](https://www.e-cancer.fr/content/download/58365/532096/file/reco-label-mhs-synthese.pdf)
-
-### À lire
-
-- [Robaszkiewicz M. et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
