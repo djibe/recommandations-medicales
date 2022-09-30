@@ -67,6 +67,8 @@ Physiologique: prostate souple, régulière, élastique, bords bien délimités,
 {{% /collapse %}}
 {{%collapse "Dépistage du cancer de la prostate" %}}
 
+[INCa 2016 : Le dépistage du cancer de la prostate - s'informer avant de décider](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Le-depistage-du-cancer-de-la-prostate-S-informer-avant-de-decider)
+
 {{%info%}}Dosage du PSA pour tous les hommes à partir de 45 ans ayant une espérance de vie ≥ 10 ans.{{%/info%}}
 
 Le dépistage est répété selon le résultat:
@@ -94,11 +96,15 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Gandaglia G et al. Structured Population-based Prostate-specific Antigen Screening for Prostate Cancer: The European Association of Urology Position in 2019. Eur Urol. août 2019;76(2):142-50](https://www.europeanurology.com/article/S0302-2838(19)30347-1/fulltext)
-- [HAS. Détection précoce du cancer de la prostate. Mai 2013.](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate)
+[Gandaglia G. et al. Structured Population-based Prostate-specific Antigen Screening for Prostate Cancer: The European Association of Urology Position in 2019. Eur Urol. 2019.](https://www.europeanurology.com/article/S0302-2838(19)30347-1/fulltext)
 
 ### À lire
 
-La Commission européenne recommande ce dépistage depuis son [communiqué de septembre 2022](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562).
+- [Mottet N. et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2022.](https://uroweb.org/guidelines/prostate-cancer)
+- La Commission européenne recommande ce dépistage depuis son [communiqué de septembre 2022](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
+- [INCa. La première prescription du PSA chez l'homme asymptomatique. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/La-premiere-prescription-du-PSA-chez-l-homme-asymptomatique)
+- [INCa. Synthèse sur les bénéfices et les risques d'un dépistage du cancer de la prostate par dosage du PSA. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Synthese-sur-les-benefices-et-les-risques-d-un-depistage-du-cancer-de-la-prostate-par-dosage-du-PSA)
+- [HAS. Détection précoce du cancer de la prostate. Mai 2013.](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate)
+- [HAS. ALD n°30 - Cancer de la prostate. Guide maladie chronique. 2012.](https://www.has-sante.fr/jcms/c_725257/fr/ald-n-30-cancer-de-la-prostate)
 
 {{%/sources%}}

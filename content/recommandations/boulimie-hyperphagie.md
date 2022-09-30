@@ -39,20 +39,6 @@ Hyperphagie boulimique
 
 {{%warning%}}Le vécu douloureux du trouble impose de faire preuve de bienveillance et d'empathie{{%/warning%}}
 
-### Facteurs de risque de boulimie
-
-Un repérage ciblé doit être réalisé chez les groupes à risque:
-
-- Adolescent (fille et jeune femme surtout)
-- Antécédent familial de TCA
-- Activités à risque
-  - Mannequin
-  - Sportif soumis à des catégories de poids  
-    Danse, gymnastique, athlétisme, natation synchronisée, culturisme, jockey.
-
-Étudiant ?
-(Difficultés entre 2.1 et 2.2 p. 11 texte court)
-
 ### Épidémiologie de la boulimie
 
 TODO:
@@ -70,18 +56,99 @@ TDAH
 {.dl-inline}
 
 {{% /collapse %}}
+{{%collapse "Quand évoquer une boulimie ?" %}}
+
+**NB.** Les personnes souffrant de TCA consultent plus fréquemment, notamment pour des troubles digestifs.
+
+### Facteurs de risque de boulimie
+
+Un repérage ciblé de la boulimie est recommandé chez les groupes à risque:
+
+- Adolescent (fille et jeune femme surtout)
+- Activités à risque
+  - Mannequin
+  - Sportif avec catégories de poids  
+    Danse, gymnastique, athlétisme, natation synchronisée, culturisme, jockey.
+- Antécédent personnel ou familial de TCA
+- Situations ou symptômes évocateurs
+  - Variations rapides de poids
+  - Surpoids ou obésité résistants à la prise en charge
+  - Régime: diabète type 1, type 2 ou maladie cœliaque
+  - Troubles des menstruations, de la fertilité
+  - Symptômes digestifs inexpliqués
+  - Vomissements répétés ou hypokaliémie inexpliqués
+  - Problèmes dentaires (érosions dentaires)
+- Manifestations psychologiques
+  - Tentative de suicide, automutilations
+  - Addictions
+  - Troubles anxieux ou bipolaire
+  - Troubles de la personnalité (personnalité limite)
+  - Troubles de déficit de l'attention avec hyperactivité
+  - Abus sexuel, maltraitance
+- Signes cliniques d'appel
+  - Demande de perte de poids ou régime amaigrissant
+  - Préoccupations autour du poids (surtout en IMC normal)
+  - Restrictions alimentaires, exclusions, détox
+  - Usage inapproprié de laxatifs, diurétiques, compléments alimentaires
+  - Inquiétude de l'entourage pour le comportement alimentaire
+  - Exercice physique excessif
+
+TODO: Étudiant ?
+
+### Facteurs devant faire rechercher une boulimie hyperphagique
+
+- Surpoids, obésité, demande de chirurgie bariatrique
+- Échec d'une chirurgie bariatrique
+- Troubles bipolaires
+- Traitement antipsychotique (amplifie la prise de poids)
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-### Situations devant faire évoquer une boulimie
+**NB.** Chez les jeunes, il est recommandé de réaliser l'entretien avec puis sans les accompagnants.
 
+### Aborder la boulimie
 
+Chez les personnes à risque (voir *Quand évoquer une boulimie ?*), repérage par questions spécifiques:
+
+- Avez-vous, avez-vous eu ou pensez-vous avoir un problème avec votre poids ou votre alimentation ?
+- Votre poids vous inquiète-t-il de manière excessive ?
+- Votre poids influence-t-il la façon dont vous vous sentez ?
+- Est-ce que quelqu'un de votre entourage pense que vous avez un problème avec l'alimentation ?
+- Est-ce que vous vomissez ? Vous arrive-t-il de vous faire vomir ?
+
+Le repérage peut être aussi être réalisé avec un **questionnaire spécifique** (TODO: SCOFF-F, ESP).
+
+### Interrogatoire
+
+Un repérage positif doit faire reprendre l'ensemble des éléments cliniques détaillés plus haut (voir *Quand évoquer une boulimie ?*).  
+Il permet une évaluation exhaustive des atteintes somatiques et psychiatriques.
+
+L'Interrogatoire détaille également:
+
+- Identifier la demande ou la plainte
+- Traitements en cours
+- Histoire des troubles
+  - Ancienneté, installation
+  - Fréquence et déroulement des crises (où, quand, comment, facteur déclenchant)
+  - Quantité, type d'aliments et de boissons
+  - Contrôle du poids: purge, régime, sport
+  - Culpabilité, honte
+- Retentissement des troubles (social, somatique, psychiatrique)
+
+TODO: réaliser un bilan nutritionnel (p. 14), établir le bilan nutritionnel personnalisé
 
 ### Examen clinique
 
-- Poids, taille, IMC, variations (± courbes de croissance)
+- Poids, taille, IMC et leurs variations (± courbes de croissance)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
+
+- Bilan biologique  
+  ionogramme sanguin
+  TODO:
+- Si vomissements: électrocardiogramme
 
 TODO:
 

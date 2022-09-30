@@ -51,8 +51,9 @@
         <p class="typography-overline">Anglais</p>
         <p lang="en">{{ delimit . ", " }}</p>{{ end }}
 
+        {{ if gt (len .Params.Tags) 0 }}<!-- Array not empty -->
         <p class="typography-overline">Mots-clés</p>
-        <div class="d-flex flex-wrap">{{ partial "widgets/tags-render.html" . }}</div>
+        <div class="d-flex flex-wrap">{{ partial "widgets/tags-render.html" . }}</div>{{ end }}
 
         {{ with .Params.Sctid }}
         <p class="typography-overline" lang="en">SNOMED-CT</p>
