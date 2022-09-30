@@ -1,5 +1,5 @@
 {{ define "main" }}
-<!-- Example: Page like Tags > anticoagulant ou Accueil > annees > 2017-->
+<!-- Example: Pages like /recommandations, Tags > anticoagulant ou Accueil > annees > 2017-->
 <div class="bg-light list-page">
   <div class="container-md">
     <div class="row">
@@ -10,8 +10,9 @@
             {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
           </ol>
         </nav>
+        {{ with .Content }}<div class="mw-80ch mb-5">{{ . }}</div>{{ end }}
       </div>
-      <div class="col-12 grid-1-2-3">
+      <div class="col-12 grid-1-2-3 mb-5">
       {{ range .Pages.ByTitle }}
       <div class="card">
         <div class="card-body position-relative card-primary-action">

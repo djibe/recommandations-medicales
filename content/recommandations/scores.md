@@ -72,11 +72,6 @@ Ensemble de grilles et scores essentiels en pratique quotidienne de médecine g�
 {{< scores/nyha >}}
 
 {{% /modal %}}
-{{% modal title="Échelle de dyspnée du Medical Research Council modifiée" id="modal-score-mmrc"%}}
-
-{{< scores/mmrc >}}
-
-{{% /modal %}}
 {{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}

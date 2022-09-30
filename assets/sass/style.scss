@@ -140,11 +140,11 @@ main {
 }
 
 .taxonomyTerms {
-  padding-top: 80px;
+  padding-top: 96px;
 
   @media (min-width: 1024px) {
     & {
-      padding-top: 56px;
+      padding-top: 120px;
     }
   }
 }
@@ -1098,6 +1098,10 @@ div.mermaidTooltip {
 
 .mw-640 {
   max-width: 640px;
+}
+
+.mw-80ch {
+  max-width: 80ch;
 }
 
 .justify-content-between {
