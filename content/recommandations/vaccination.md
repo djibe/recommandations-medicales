@@ -11,11 +11,11 @@ specialites = ["infectiologie"]
 annees = "2022"
 sources = ["MinSanté", "HCSP"]
 tags = ["prevention", "vaccin", "zona"]
-anglais = []
-sctid = ""
+anglais = ["Immunization", "vaccination"]
+sctid = "33879002"
 image = true
 imageSrc = "Illustration par Freepik"
-todo = "texte vaccins obligatoires , choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages"
+todo = "texte SEO, texte vaccins obligatoires , choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages"
 +++
 
 {{%article-summary%}}

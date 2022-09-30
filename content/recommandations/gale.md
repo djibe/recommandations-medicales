@@ -5,15 +5,15 @@ description = "Recommandations pour le diagnostic et le traitement de la gale. T
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-16T16:50:41+01:00
-publishdate = 2020-12-15
-lastmod = 2022-01-24
+publishdate = "2020-12-15"
+lastmod = "2022-01-24"
 specialites = ["dermatologie"]
 annees = "2020"
 sources = ["CMIT", "CEDEF"]
 tags = ["prurit"]
 anglais = ["Scabies"]
 sctid = "128869009"
-todo = "collectivité, impétiginisation, ttt < 2 mois, source Prescrire"
+todo = "SEO, collectivité, impétiginisation, ttt < 2 mois, source Prescrire"
 +++
 
 {{%article-summary%}}

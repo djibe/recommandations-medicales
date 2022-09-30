@@ -15,7 +15,7 @@ anglais = ["Lyme disease"]
 sctid = "23502006"
 image = true
 imageSrc = "Érythème migrant. Photo de monkeypuzzle sur Foter"
-todo = "algo HAS Annexe 2 et 3"
+todo = "SEO, algo HAS Annexe 2 et 3"
 +++
 
 {{%article-summary%}}

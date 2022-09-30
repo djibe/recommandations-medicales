@@ -6,8 +6,8 @@ description = "Recommandations pour le traitement et la prise en charge du Phén
 synonyms = ["Maladie de Raynaud", "syndrome de Raynaud"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-04T10:57:00+02:00
-publishdate = 2021-05-04
-lastmod = 2021-10-18
+publishdate = "2021-05-04"
+lastmod = "2021-10-18"
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFMV", "CEDEF"]
@@ -17,7 +17,7 @@ sctid = "266261006"
 flowchart = true
 image = true
 imageSrc = "Photos du syndrome de Raynaud par Tcal via wikipedia, CC BY-SA 3.0"
-todo = "lire https://www.em-consulte.com/article/833156/article/bilan-etiologique-minimal-du-phenomene-de-raynaud%C2%A0"
+todo = "SEO, lire https://www.em-consulte.com/article/833156/article/bilan-etiologique-minimal-du-phenomene-de-raynaud%C2%A0"
 +++
 
 {{%article-summary%}}

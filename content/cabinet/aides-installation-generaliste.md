@@ -1,5 +1,6 @@
 +++
 title = "Aides à l'installation du médecin généraliste"
+noindex = true
 description = "Les aides de l'Assurance Maladie, des ARS et aides régionales pour l'aide à l'installation des médecins généralistes dans les déserts médicaux (ZAC et ZIP)"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-17T20:00:00+02:00"

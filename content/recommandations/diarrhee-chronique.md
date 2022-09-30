@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-22T19:42:41+02:00"
 publishdate = "2020-07-22"
-lastmod = "2022-04-20"
+lastmod = "2022-09-30"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["BSG", "Collège"]
@@ -21,10 +21,10 @@ todo = "SeHCAT, FODMAPs"
 
 {{%article-summary%}}
 
-- Ramollissement des selles fréquentes (> 3/j) et prolongées (> 1 mois)
-- Signes d'alarme: ≥ 50 ans, AEG, rectorragie/méléna ou modification récente et inexpliquée du transit
-- Bilan de 1<sup>re</sup> intention (voir *Examens complémentaires*)
-- Avis spécialisé: signes d'alarme, altération de la qualité de vie
+- Définition de la diarrhée chronique: Ramollissement de selles fréquentes (> 3/j) et prolongées (durée > 1 mois)
+- Signes d'alarme de la diarrhée chronique: +50 ans, AEG, rectorragies/méléna ou modification récente et inexpliquée du transit
+- Bilan de première intention (voir *Examens complémentaires*)
+- Avis spécialisé si: signes d'alarme, altération de la qualité de vie
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -40,10 +40,10 @@ SII
 : syndrome de l'intestin irritable
 
 TIF
-: test immunologique fécal (ex. Hemoccult®)
+: test immunologique fécal (ou FIT, ex. Hemoccult®)
 {.dl-inline}
 
-### Diagnostic différentiel
+### Diagnostic différentiel d'une diarrhée chronique
 
 - Fausse diarrhée du constipé, fécalome
 - Incontinence fécale
@@ -57,8 +57,8 @@ TIF
 
 ### Signes d'alarme devant une diarrhée chronique
 
-- AEG
-- Rectorragie, méléna
+- AEG (amaigrissement, asthénie, anorexie)
+- Rectorragies, méléna
 - Modification récente et inexpliquée du transit
 - Âge ≥ 50 ans (*CDU-HGE*)
 
@@ -69,21 +69,23 @@ TIF
 
 ### Causes fréquentes de diarrhée chronique
 
+Rechercher à l'examen les arguments en faveur des causes suivantes de diarrhée chronique:
+
 - Syndrome de l'intestin irritable
-- Biliaire
+- Origine biliaire
 - Diététique
-  - FODMAP, intolérance au lactose ou fructose
+  - FODMAP, [intolérance au lactose]({{< relref "intolerance-lactose.md" >}}) ou fructose
   - Édulcorants (sodas, bonbons, chewing gum)
   - Caféine
   - [Alcool]({{< relref "sevrage-alcool.md" >}})
   - Réglisse
-- Tumeur colique
+- [Tumeur colique]({{< relref "cancer-colorectal.md" >}})
 - Inflammation intestinale (colite ulcéreuse ou microscopique, MICI)
 - [Maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})
 - Iatrogénie  
-  Antibiotique, AINS, magnésium, IEC, olmésartan, metformine - iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.
-- Sécrétoire
-- Fonctionnelle
+  Antibiotique, anti-inflammatoires AINS, magnésium, IEC, olmésartan, metformine - iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.
+- Cause sécrétoire
+- Diarrhée fonctionnelle
 
 ### Causes peu fréquentes
 
@@ -93,20 +95,22 @@ TIF
 - Complication post-opératoire
 - Pancréatite chronique
 - Entérocolite radique
-- Cancer du pancréas
+- [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}})
 - Hyperthyroïdie
 - Diabète
 - Giardiase ou autre
 - Mucoviscidose
 
-### Rare
+### Causes rares de diarrhée chronique
 
-Autres atteintes du grêle (Whipple ...), hypoparathyroïdie, insuffisance surrénale, tumeur endocrine (VIPome ...), neuropathie autonome, diarrhée factice, diarrhée de Brainerd.
+Autres atteintes du grêle (maladie de Whipple ...), hypoparathyroïdie, insuffisance surrénale, tumeur endocrine (VIPome ...), neuropathie autonome, diarrhée factice, diarrhée de Brainerd.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 ### Interrogatoire
+
+L'interrogatoire est primordial pour orienter vers l'origine de la diarrhée chronique:
 
 - Antécédents  
   Chirurgie digestive (bariatrique, cholécystectomie, résection), auto-immuns, thyroïde, diabète, radiothérapie, SEP, rapports sexuels non protégés.
@@ -117,7 +121,7 @@ Autres atteintes du grêle (Whipple ...), hypoparathyroïdie, insuffisance surr�
 - Traitements en cours et essayés  
   Antibiotique, AINS, magnésium, IEC, olmésartan, metformine-iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.
 - Diarrhée
-  - Contexte de voyage, TIAC
+  - Contexte de voyage, toxi-infection alimentaire
   - Antibiothérapie récente
   - Étayer une intolérance au lactose, au gluten
   - Ancienneté
@@ -143,7 +147,7 @@ La *malabsorption* donne souvent une stéatorrhée avec selles pâteuses et déc
 - Fonte musculaire
 - Signes généraux  
   Syndrome anémique ou hémorragique, thyrotoxicose, glossite, aménorrhée.
-- Œdèmes
+- Recherche d'œdèmes
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -158,18 +162,18 @@ La *malabsorption* donne souvent une stéatorrhée avec selles pâteuses et déc
 - Glycémie à jeun
 - Proposer une [sérologie VIH]({{< relref "vih-sida.md" >}})
 - Malabsorption  
-  Créatinine, ionogramme, calcémie, albuminémie, ASAT, ALAT, GGT, PAL, TP, vitamine B12, folate.
+  Créatinine, ionogramme, calcémie, albuminémie, ASAT, ALAT, GGT, PAL, TP, vitamine B12, folates.
 - Sérologie cœliaque  
   IgA anti-transglutaminase et IgA totales.
 - Examen parasitologique des selles 3 jours de suite (se 60-90%)
-- Test immunologique fécal (TIF *ex* Hemoccult®)
+- [Test immunologique fécal]({{< relref "cancer-colorectal.md" >}}) (TIF *ex* Hemoccult®)
 
-Rectorragie ou modifications du transit: coloscopie.
+En cas de rectorragies ou de modifications du transit: adresser au gastro-entérologue pour une coloscopie.
 {{%/info%}}
 
-### Bilan de 2<sup>e</sup> intention
+### Bilan de deuxième intention
 
-- Suspicion de SII et < 40 ans: calprotectine fécale  
+- Suspicion de syndrome de l'intestin irritable avant 40 ans: calprotectine fécale  
   Bilan normal et symptômes typiques: diagnostic de *syndrome de l'intestin irritable* (SII).
 - Suspicion d'[intolérance au lactose]({{< relref "intolerance-lactose.md" >}}): test d'éviction préférable
 

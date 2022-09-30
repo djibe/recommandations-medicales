@@ -1,12 +1,12 @@
 +++
 title = "Dyspepsie"
 prefix = "la "
-description = "Recommandations pour le diagnostic et la prise en charge de la dyspepsie. Douleur ou inconfort digestif. Indications à l'endoscopie digestive et traitement IPP"
+description = "Recommandations pour le diagnostic et la prise en charge de la dyspepsie. Douleur ou inconfort digestif. Indications à la fibroscopie et traitement par IPP"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-17T20:11:06+02:00"
 publishdate = "2021-08-18"
-lastmod = "2021-08-18"
+lastmod = "2022-09-30"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["SNFGE"]
@@ -16,37 +16,37 @@ sctid = "162031009"
 flowchart = true
 image = false
 imageSrc = ""
+todo = "image"
 +++
 
 {{%article-summary%}}
 
-- Rechercher un diabète et des troubles du comportement alimentaire
-- Indications à l'EOGD: signes d'alarme (perte de poids, anémie, dysphagie, hémorragie digestive), âge > 50 ans, échec du traitement médical, antécédent familial ou personnel de cancer digestif
-- Recherche d'*Helicobacter pylori* (sérologie, test respiratoire) SI EOGD non indiquée
-- IPP simple dose 4-8 semaines, augmentation possible x 2/j
+- Devant une plainte de dyspepsie, rechercher un diabète et des troubles du comportement alimentaire
+- Indications à la fibroscopie gastrique: signes d'alarme (perte de poids, anémie, dysphagie, hémorragie digestive), âge > 50 ans, échec du traitement médical, antécédent familial ou personnel de [cancer digestif](/tags/cancer/)
+- Rechercher une [infection à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}}) (sérologie ou test respiratoire) si la fibroscopie n'est pas indiquée
+- Traitement par IPP simple dose pendant 4 à 8 semaines, intensification possible avec 2 prises par jour
 - Éviter les repas gras
-- Essai d'éviction séquentiel de certains aliments
+- Essai d'éviction séquentiel de certains aliments suspects
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Dyspepsie
 : Syndrome défini par une douleur ou un inconfort chronique centré sur l'épigastre.  
-Les symptômes peuvent être: brûlures épigastriques, satiété précoce, pesanteur épigastrique post-prandiale, ballonnement, plénitude gastrique, nausées, éructations voire vomissements.
-: En cas de pyrosis ou de régurgitations prédominants, le diagnostic de [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}) est le plus probable.  
-Rechercher un *diabète* et des *troubles du comportement alimentaire*.
+Les symptômes de la dyspepsie sont peu spécifiques: brûlures épigastriques, satiété précoce, pesanteur épigastrique post-prandiale, ballonnement abdominal, plénitude gastrique, nausées, éructations voire vomissements.
+: En cas de pyrosis ou de régurgitations prédominants, le diagnostic de [reflux gastrique]({{< relref "reflux-gastro-oesophagien.md" >}}) est le plus probable.  
+Toujours rechercher un *[diabète]({{< relref "diabete-type-2.md" >}})* et des *troubles du comportement alimentaire*.
 
-La classification de Rome IV distingue 2 grands syndromes:
+La classification de Rome IV distingue 2 grands syndromes dyspeptiques:
 
 1. Syndrome de douleur épigastrique (EPS)  
 {{%class%}}Indépendant des repas ou soulagé par le repas.{{%/class%}}
 1. Syndrome de détresse post-prandial (PDS)  
 {{%class%}}Symptômes déclenchés par les repas.{{%/class%}}
 
-### Causes principales
+### Étiologie de la dyspepsie
 
-Proches de celles de l'intestin irritable (souvent associé): anomalies de la sensibilité
-et des contrôles réflexes des fonctions digestives, inflammation, infections gastro-intestinales, facteurs génétiques, dysautonomie, troubles psychologiques.
+Les causes principales de la dyspepsie sont proches de celles de l'intestin irritable (qui est souvent associé): anomalies de la sensibilité et des contrôles réflexes des fonctions digestives, inflammation, infections gastro-intestinales, facteurs génétiques, dysautonomie, troubles psychologiques.
 
 ### Abréviations
 
@@ -70,9 +70,9 @@ TCA
 {{%collapse "Signes d'alarme" %}}
 
 {{%danger%}}
-Signes de gravité nécessitant la réalisation d'examens complémentaires:
+Signes de gravité devant un syndrome dyspeptique nécessitant la réalisation d'examens complémentaires:
 
-- Âge > 50 ans
+- Âge +50 ans
 - Amaigrissement
 - Anémie
 - Dysphagie
@@ -86,7 +86,7 @@ Le bilan est ciblé devant une dyspepsie.
 
 ### Endoscopie œso-gastro-duodénale (EOGD)
 
-Indications:
+Indications à la fibroscopie gastrique:
 
 - Signes d'alarme
 - Âge > 50 ans
@@ -95,21 +95,23 @@ Indications:
 
 ### Recherche d'*Helicobacter pylori*
 
-Chez le < 50 ans en 1<sup>re</sup> intention (sauf indication à l'EOGD): sérologie HP ou test respiratoire.  
-Alternative: IPP simple dose 4-8 semaines.
+Chez le moins de 50 ans en première intention (sauf indication à la fibroscopie): sérologie *Helicobacter pylori* ou test respiratoire.  
+Alternative: inhibiteur de la pompe à protons (IPP) simple dose 4-8 semaines.
 
 ### Imagerie abdominale
 
-Échographie abdominale ± scanner thoraco-abdominal ou IRM.  
-Si résistance au traitement médical.
+L'imagerie est réalisée lorsque les symptômes sont résistants au traitement médical.
+Échographie abdominale voire scanner thoraco-abdominal ou IRM.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la dyspepsie" %}}
 
-- Âge > 50 ans: guidé par l'EOGD
+Prise en charge de la dyspepsie:
+
+- Âge > 50 ans: traitement guidé par les résultats de la fibroscopie gastrique
 - Âge < 50 ans
   - Test thérapeutique avec IPP simple dose 4-8 semaines  
-  Oméprazole 20 mg/j, ésoméprazole 40 mg/j.
+    Oméprazole 20 mg/j, ésoméprazole 40 mg/j.
   - Si bilans rassurants et réponse insuffisante: essai IPP simple dose x 2/j avant le repas
 - Pas de régime alimentaire spécifique
   - Éviter les aliments gras (ralentissent vidange gastrique)
@@ -117,7 +119,7 @@ Si résistance au traitement médical.
   - Test d'éviction séquentiel des aliments acides (duodénum), épicés (intestins), hypercaloriques ou riches en fibres
 - Éradication d'*[Helicobacter pylori]({{< relref "helicobacter-pylori.md" >}})* si positif
 
-### Pour en savoir plus - Autres traitements possibles
+### Pour en savoir plus - Autres traitements possibles de la dyspepsie
 
 Sur avis spécialisé uniquement:
 
@@ -129,12 +131,12 @@ Sur avis spécialisé uniquement:
   Buspirone.
 - Amitryptiline, mirtazapine, sulpiride
 - Hypnose, psychothérapie
-- Intervention pylorique
+- Chirurgie d'intervention du pylore
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une dyspepsie" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une dyspepsie. Dr JB Fron d'après SNFGE 2019" >}}
+{{< mermaid title="Prise en charge d'une dyspepsie. Dr JB Fron d'après SNFGE 2019" >}}
 graph TB
 Dyspepsie
 style Dyspepsie stroke:#4150f5, stroke-width:1px

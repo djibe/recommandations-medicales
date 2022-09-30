@@ -15,7 +15,7 @@ sctid = "11381005"
 image = true
 imageSrc = "Photo d'acné par profeticsbeta sur Foter.com / CC BY-NC-SA"
 flowchart = true
-todo= "flowchart, outil, A LIRE + PRESCRIRE"
+todo = "SEO, flowchart, outil, A LIRE + PRESCRIRE"
 +++
 
 {{%article-summary%}}

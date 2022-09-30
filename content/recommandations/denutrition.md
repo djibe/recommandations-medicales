@@ -17,7 +17,7 @@ sctid = "65404009"
 flowchart = true
 image = false
 imageSrc = ""
-todo = "FFN, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl..., https://www.sfncm.org/outils-education/outils/realises-par-la-sfncm"
+todo = "SEO, FFN, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl..., https://www.sfncm.org/outils-education/outils/realises-par-la-sfncm"
 +++
 
 {{%article-summary%}}

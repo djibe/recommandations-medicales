@@ -1,6 +1,7 @@
 +++
 title = "Cancer du poumon"
 prefix = "le "
+noindex = true
 description = "Recommandations pour la prise en charge d'une suspicion de cancer du poumon et pour le dépistage du cancer du poumon par scanner thoracique faible dose"
 synonyms = ["Cancer broncho-pulmonaire"]
 auteurs = ["Jean-Baptiste FRON"]

@@ -1,8 +1,9 @@
 +++
 title = "Hommes ayant des rapports sexuels avec des hommes"
 prefix = "les "
-titleSeo = "HSH"
-description = "Mesures de prévention à proposer aux hommes ayant des rapports sexuels avec des hommes (HSH): PrEP, sérologies des MST, vaccins papillomavirus, hépatites A et B"
+titleSeo = "HSH et santé homosexuelle"
+noindex = true
+description = "Mesures de prévention à proposer aux hommes ayant des rapports sexuels avec des hommes (HSH): sérologies des infections sexuelles, vaccins, PrEP"
 synonyms = ["Homosexuel ou bisexuel masculin"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-22T17:43:41+02:00"
@@ -15,8 +16,8 @@ tags = ["depistage", "HSH", "IST", "prevention", "vaccin", "VIH"]
 anglais = ["Men who have sex with men (MSM)"]
 sctid = "76102007"
 image = true
-imageSrc = "Illustration par pch.vector / Freepik"
-todo = "TODO: gono, https://www.eacsociety.org/files/2019_guidelines-10.0_final.pdf p. 24"
+imageSrc = "Illustration de l'HSH par pch.vector / Freepik"
+todo = "texte SEO, sites patients, gono, https://www.eacsociety.org/files/2019_guidelines-10.0_final.pdf p. 24"
 +++
 
 {{%article-summary%}}
@@ -79,7 +80,7 @@ Bilans à proposer en cas de conduites sexuelles à risque:
 
 ### La PrEP
 
-Aborder avec toutes les personnes ayant des rapports non protégés avec des personnes de statut virologique inconnu (voir [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}})).
+Aborder la prophylaxie de pré-exposition VIH avec toutes les personnes ayant des rapports non protégés avec des personnes de statut virologique inconnu (voir [la PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}})).
 
 ### Préservatif
 
@@ -114,6 +115,6 @@ Spécialités chez l'adulte:
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)
-- [Le Bourhis-Zaimi M. et al. Épidémie d'hépatite A parmi des hommes ayant des rapports sexuels avec des hommes, Rouen, décembre 2016 – avril 2017. Bull Epidémiol Hebd. 2017;(18):355-61.](http://beh.santepubliquefrance.fr/beh/2017/18/2017_18_2.html)
+- [Le Bourhis-Zaimi M. et al. Épidémie d'hépatite A parmi des hommes ayant des rapports sexuels avec des hommes, Rouen, décembre 2016 – avril 2017. BEH. 2017.](http://beh.santepubliquefrance.fr/beh/2017/18/2017_18_2.html)
 
 {{%/sources%}}

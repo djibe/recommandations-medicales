@@ -17,7 +17,7 @@ sctid = "36971009"
 flowchart = true
 image = true
 imageSrc = "Photo de NIAID sur Foter.com / CC BY"
-todo = "KEY SPILF sinusite-ethmoidite aigue-has sinusite, https://www.sforl.org/wp-content/uploads/2020/02/recoRSIA.pdf, age ethmoidite, indications scanner, sources prescrire"
+todo = "SEO, KEY SPILF sinusite-ethmoidite aigue-has sinusite, https://www.sforl.org/wp-content/uploads/2020/02/recoRSIA.pdf, age ethmoidite, indications scanner, sources prescrire"
 +++
 
 {{%article-summary%}}

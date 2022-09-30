@@ -6,7 +6,7 @@ synonyms = ["Couperose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-20T20:11:41+02:00"
 publishdate = "2020-10-20"
-lastmod = "2021-09-05"
+lastmod = "2022-09-30"
 specialites = ["dermatologie"]
 annees = "2021"
 sources = ["BAD"]
@@ -16,34 +16,35 @@ sctid = "398909004"
 flowchart = true
 image = true
 imageSrc = "Rosacée papulopustuleuse avec érythème. Photo de The Thinking Doll sur Foter.com / CC BY-NC"
+todo = "interrogatoire, SEO"
 +++
 
 {{%article-summary%}}
 
-- Le diagnostic de rosacée est clinique: visage médian rouge de l'adulte avec bouffées vasomotrices
-- Le traitement est suspensif avec rechutes à l'arrêt
-- Atteinte oculaire possible
-- Métronidazole gel 0,75% x 2/j pendant 3 mois en 1<sup>re</sup> intention
-- Contre-indication aux dermocorticoïdes
+- Le diagnostic de rosacée est clinique: partie médiane du visage rouge chez un adulte présentant des bouffées vasomotrices
+- Le traitement de la rosacée est suspensif avec rechute à l'arrêt
+- Une atteinte oculaire est possible
+- La prise en charge débute par du Métronidazole gel 0,75% en 2 applications par jour pendant 3 mois en 1<sup>re</sup> intention
+- La rosacée est une contre-indication à l'utilisation des dermocorticoïdes
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Rosacée
-: Dermatose faciale chronique fréquente chez l'adulte d'âge moyen à peau claire ({{< modal-btn modal-fitzpatrick >}}Fitzpatrick I-III{{< /modal-btn >}}). L'atteinte est médiane: nez, front, joues et menton.
-Prédominance de la maladie chez la femme (2/3) et maximale entre 35-50 ans.
-: Formes initiales déclenchées par climat froid, travail à la chaleur, photo-exposition. Puis évolution chronique avec poussées de papules et pustules sans facteur déclenchant.  
-Atteinte typique de la rosacée avec flushs, érythème du visage et télangiectasies et périodes inflammatoires développant des papulopustules.
-: Aboutit à des **complications oculaires** fréquentes (50%): blépharite, xérose, conjonctivite.
-: Évolution spontanément favorable de la maladie après plusieurs années pour 40% des patients.
+: Dermatose chronique faciale fréquente chez l'adulte d'âge moyen à peau claire ({{< modal-btn modal-fitzpatrick >}}Fitzpatrick I-III{{< /modal-btn >}}). L'atteinte du visage atteint la ligne médiane: nez, front, joues et menton.
+Prédominance de la maladie chez la femme (2/3) avec un pic de fréquence entre 35 et 50 ans.
+: Les formes initiales sont déclenchées par un climat froid, le travail à la chaleur ou une exposition au soleil. Puis l'évolution devient chronique avec des poussées de papules et pustules sans facteur déclenchant.  
+L'atteinte typique de la rosacée survient avec des flushs, érythème du visage et télangiectasies et périodes inflammatoires développant des papulopustules.
+: Les **complications oculaires** sont fréquentes (50%): blépharite, xérose, conjonctivite.
+: L'évolution de la maladie est spontanément favorable après plusieurs années pour 40% des patients.
 
 Dermatose mixte du visage
-: Fréquente, lorsque **rosacée et dermatite séborrhéique** sont associées.
+: Fréquente, appellation lorsque **rosacée et [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})** sont associées.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic est clinique pour les différentes formes de rosacée.
+Le diagnostic de la rosacée est clinique pour ses différentes formes.
 
 ### Interrogatoire
 
@@ -107,7 +108,7 @@ Diagnostic différentiel de la rosacée:
 {{% /collapse %}}
 {{%collapse "Traitement de la rosacée" %}}
 
-**Objectifs:** réduire les symptômes, préserver le capital esthétique et prévenir les complications.
+**Objectifs de la prise en charge:** réduire les symptômes, préserver le capital esthétique et prévenir les complications.
 
 {{%warning%}}Contre-indication formelle aux dermocorticoïdes dans la rosacée{{%/warning%}}
 
@@ -125,7 +126,7 @@ Alcool, soleil, boissons chaudes and alimentation épicée.
 
 Selon les Annales de Dermato, intérêt de rechercher systématiquement:
 
-- Une infection à [Helicobacter pylori]({{< relref "helicobacter-pylori.md" >}}) avec traitement ad-hoc
+- Une infection à *[Helicobacter pylori]({{< relref "helicobacter-pylori.md" >}})* avec traitement ad-hoc
 - Une pullulation microbienne digestive, traitée par rifampicine 600 mg x 2/j pendant 10 jours
 
 ### Forme érythémato-télangiectasique

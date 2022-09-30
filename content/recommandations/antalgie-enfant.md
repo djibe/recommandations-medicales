@@ -2,6 +2,7 @@
 title = "Antalgie chez l'enfant"
 prefix = "l'"
 titleSeo = "Douleur de l'enfant"
+noindex = true
 description = "Recommandations pour le traitement de la douleur de l'enfant en pédiatrie. Echelles d'évaluation, dose de paracétamol Doliprane 15 mg/kg toutes les 6 heures"
 synonyms = ["Antidouleurs en pédiatrie"]
 auteurs = ["Jean-Baptiste FRON"]

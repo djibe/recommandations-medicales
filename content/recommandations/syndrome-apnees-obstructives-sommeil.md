@@ -8,8 +8,8 @@ synonyms = ["Apnées du sommeil"]
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2020-12-22T09:52:41+02:00
-publishdate = 2020-12-22
-lastmod = 2022-05-16
+publishdate = "2020-12-22"
+lastmod = "2022-05-16"
 specialites = ["medecine du sommeil"]
 annees = "2018"
 sources = ["SFRMS", "AASM", "HAS"]
@@ -19,7 +19,7 @@ sctid = "78275009"
 image = true
 imageSrc = "Illustration de l'apnée du sommeil par Habib M'henni / Wikimedia Commons"
 imagePNG = true
-todo = "103, 105, à lire, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, doc explication PPC"
+todo = "texte SEO, 103, 105, à lire, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, doc explication PPC"
 +++
 
 {{%article-summary%}}

@@ -20,7 +20,7 @@ imageSrc = "Illustration par rawpixel.com / Freepik"
 
 {{%article-summary%}}
 
-- Bilan orthoptique systématique de fatigue ou céphalées, retard scolaire ou troubles de l'attention
+- Bilan orthoptique systématique en cas de fatigue ou céphalées, retard scolaire ou troubles de l'attention
 - Accès libre à l'orthoptiste pour la prescription de lunettes de 16 à 42 ans. Porteur de lunettes: possible si bilan ophtalmologique dans les 5 ans (3 ans si lentilles)
 - Accès direct à l'orthoptiste pour le dépistage de l'amblyopie et de troubles visuels entre 9 à 15 mois puis entre 30 mois et 5 ans
 - [Annuaire des orthoptistes en France](http://annuairesante.ameli.fr/)

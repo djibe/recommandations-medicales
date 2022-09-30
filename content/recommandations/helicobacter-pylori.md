@@ -16,9 +16,9 @@ tags = ["B12", "bariatrique", "depistage", "EOGD", "ferritine", "gastrite", "IPP
 anglais = ["Helicobacter pylori"]
 sctid = "80774000"
 image = true
-imageSrc = "Helicobacter pylori implantés sur la muqueuse gastrique, CDC/Dr Patricia Fields, Dr Collette Fitzgerald (PHIL #5715), 2004"
+imageSrc = "Helicobacter pylori implantés sur la muqueuse gastrique, CDC/Dr Patricia Fields, Dr Collette Fitzgerald (PHIL 5715), 2004"
 flowchart = true
-todo = "reco enfant 2022, comment diag quand rosacée, dépistage en AINS long cours maastricht III"
+todo = "SEO, reco enfant 2022, comment diag quand rosacée, dépistage en AINS long cours Maastricht III"
 +++
 
 {{%article-summary%}}

@@ -10,6 +10,7 @@ sources = []
 tags = []
 image = true
 imageSrc = "slidesgo / Freepik"
+todo = "écriture SEO + liens"
 +++
 
 La e-CPS est un service d'authentification forte du médecin en mobilité. Au lieu d'utiliser un objet dont on dispose pour la connexion sécurisée (la carte CPS), on couple un numéro de téléphone à cette carte CPS, assortie d'un mot de passe.

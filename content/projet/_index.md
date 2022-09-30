@@ -1,5 +1,6 @@
 +++
 title = "Le projet de Recommandations médicales"
+noindex = true
 description = "Présentation du projet Recommandations Médicales développé pour tous les médecins généralistes. Créé pour accéder à l'information nécessaire aux soins primaires"
 longHtml = true
 breadcrumbTitle = "Projet"

@@ -20,7 +20,7 @@ todo = "college"
 
 {{%article-summary%}}
 
-- Rechercher devant un changement de bague, de pointure de chaussures, de syndrome dysmorphique ...
+- Rechercher une acromégalie devant: un changement de bague, de pointure de chaussures, de syndrome dysmorphique ...
 - ou des complications: canal carpien, apnées du sommeil, hypertension artérielle
 - Adresser au [centre de compétence ou de référence HYPO (annuaire)](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/carte/document/) en cas de suspicion d'acromégalie
 
@@ -73,11 +73,11 @@ Adresser au [centre de compétence ou de référence HYPO](http://www.firendo.fr
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%info%}}Le bilan de l'acromégalie relève du centre spécialisé{{%/info%}}
+{{%info%}}Le bilan complémentaire d'une découverte d'acromégalie relève du centre spécialisé{{%/info%}}
 
 ### Pour en savoir plus: le diagnostic biologique d'acromégalie
 
-Le diagnostic est biologique: IGF-1 élevée et GH non freinée lors de l'hyperglycémie provoquée par voie orale.  
+Le diagnostic d'acromégalie est biologique: IGF-1 élevée et GH non freinée lors de l'hyperglycémie provoquée par voie orale.  
 Les autres axes hypophysaires sont également étudiés afin de détecter une autre anomalie.
 
 L'IRM hypophysaire retrouve souvent une tumeur.  
@@ -100,7 +100,7 @@ L'IRM hypophysaire retrouve souvent une tumeur.
 - Soutien psychologique
 - Lutte contre le [risque cardiovasculaire](/tags/risque-cardiovasculaire/)
 - Programmes d'éducation thérapeutique au sein des centres de référence
-- Association de patients: [Acromégales Pas Seulement](https://www.acromegalie-asso.org/)
+- Association de patients acromégales: [Acromégales Pas Seulement](https://www.acromegalie-asso.org/)
 
 ### Pour en savoir plus: traitement hormonal de l'acromégalie
 

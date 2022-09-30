@@ -2,7 +2,7 @@
 title = "Ménopause et traitement hormonal de la ménopause"
 prefix = "la "
 titleSeo = "Ménopause et traitement hormonal"
-description = "Recommandations pour le traitement hormonal de la ménopause (THM ou THS). Traitement du syndrome climatérique, contre-indications, patch, gel, progestérone ..."
+description = "Recommandations pour le traitement hormonal de la ménopause (THM ou THS). Prise en charge du syndrome climatérique, contre-indications, patchs, progestérone"
 longHtml = true
 synonyms = ["Syndrome climatérique", "traitement hormonal substitutif THS"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -19,13 +19,13 @@ chart = true
 flowchart = true
 image = true
 imageSrc = "Illustration de la ménopause par Freepik"
-todo = "KEY patiente | règles d'hygiène, Chart J1-J31, lire sources, relecture gemvi-secretariat@gemvi.org"
+todo = "écriture SEO, KEY patiente | règles d'hygiène, Chart J1-J31, lire sources, relecture gemvi-secretariat@gemvi.org"
 +++
 
 {{%article-summary%}}
 
-- La ménopause entraîne une augmentation importante du risque de *fracture* et de *maladie cardiovasculaire*
-- Diagnostic clinique rétrospectif (la VPP du test au progestatif n'est pas connue)
+- La ménopause entraîne une augmentation importante du risque de *[fracture osseuse]({{< relref "osteoporose.md" >}})* et de *maladie cardiovasculaire*
+- Le diagnostic de ménopause est clinique et rétrospectif (la VPP du test au progestatif n'est pas connue)
 - Contraception: interrompre la contraception et suivre l'aménorrhée
 - Bilan d'*insuffisance ovarienne prématurée* si survenue avant 40 ans (*détail à venir*)
 - Examen clinique complet et complémentaires adaptés
@@ -116,6 +116,9 @@ SUA
 
 THM
 : traitement hormonal de la ménopause (ex Traitement hormonal substitutif THS)
+
+VPP
+: valeur prédictive positive
 {.dl-inline}
 
 {{% /collapse %}}

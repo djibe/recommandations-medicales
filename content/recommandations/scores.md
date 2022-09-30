@@ -10,7 +10,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-14T15:58:37+01:00"
 publishdate = "2021-12-14"
-lastmod = "2022-05-05"
+lastmod = "2022-09-30"
 specialites = []
 annees = "2022"
 sources = []
@@ -19,8 +19,10 @@ anglais = []
 sctid = ""
 image = true
 imageSrc = "Scores cliniques par slidesgo / Freepik"
-todo = "ACT"
+todo = "texte, ACT"
 +++
+
+Ensemble de grilles et scores essentiels en pratique quotidienne de médecine générale, classés par organe.
 
 ## Cardiovasculaire {.typography-overline}
 
@@ -61,7 +63,7 @@ todo = "ACT"
 ## Pneumologie {.typography-overline}
 
 - {{< modal-btn modal-depistage-bpco >}}Dépistage BPCO{{< /modal-btn >}}
-- {{< modal-btn modal-mmrc >}}Score mMRC{{< /modal-btn >}}
+- {{< modal-btn modal-score-mmrc >}}Score mMRC{{< /modal-btn >}}
 
 <!-- Modals -->
 
@@ -163,6 +165,11 @@ todo = "ACT"
 {{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}
 
 {{< clinique/depistage-bpco-gold >}}
+
+{{% /modal %}}
+{{% modal title="Échelle de dyspnée du Medical Research Council modifiée" id="modal-score-mmrc"%}}
+
+{{< scores/mmrc >}}
 
 {{% /modal %}}
 {{% modal title="Score STOP-BANG" id="modal-saos"%}}

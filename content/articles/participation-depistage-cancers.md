@@ -1,5 +1,6 @@
 +++
 title = "Participation des français au dépistage organisé des cancers (colorectal, sein et col de l'utérus)"
+noindex = true
 titleSeo = "Participation des français au dépistage des cancers"
 description = "Taux de participation des français au dépistage organisé des cancers du sein (mammographie), du cancer colorectal (test fécal) et du cancer du col de l'utérus"
 auteurs = ["Jean-Baptiste FRON"]
@@ -15,7 +16,7 @@ imageSrc = ""
 todo = "https://www.e-cancer.fr/Patients-et-proches/Les-cancers - ### Le dépistage organisé des cancers | Trois cancers bénéficient en France d'un dépistage organisé par l'Institut National du Cancer (INCa) et remboursés à 100% par l'Assurance Maladie. Deux dépistages concernent les femmes - KEY x10: dépistage du cancer | x3: cancer du sein, mammographie de dépistage, dépistage organisé, participation au dépistage, assurance maladie, décès par cancer, dépistage individuel, données, facteurs de risque, programme de dépistage | x1: ATCD personnel de cancer, avance de frais, consultation d'oncogénétique, courrier d'invitation, prise en charge thérapeutique, tranches d'âge"
 +++
 
-### Résumé
+## Résumé
 
 Trois cancers bénéficient en France d'un dépistage organisé. Il s'agit de cancers fréquents et graves: le [cancer du sein]({{< relref "cancer-sein.md" >}}), du [col de l'utérus]({{< relref "cancer-col-uterus.md" >}}) et du [cancer colorectal]({{< relref "cancer-colorectal.md" >}}).
 
@@ -25,7 +26,7 @@ Le taux maximal de participation au dépistage, qui atteint 59%, concerne le can
 
 Pour tous les dépistages, les taux de participation restent très en-dessous des attentes de santé publique.
 
-### Graphique de la participation au dépistage organisé des cancers et décès par cancer
+## Graphique de la participation au dépistage organisé des cancers et décès par cancer
 
 Représentation des taux de participation aux dépistages organisés des cancers et mortalité associée à ces cancers.
 
@@ -34,7 +35,7 @@ Représentation des taux de participation aux dépistages organisés des cancers
   <figcaption>Figure. Données de participation au dépistage organisé des cancers et mortalité 2017 (dépistages: col 2018-2020 - sein 2020-2021 - colorectal 2020-2021). Dr JB Fron d'après dernières données Santé Publique France.</figcaption>
 </figure>
 
-### Sources
+## Sources
 
 - [Santé Publique France. Dépistage du cancer du sein : quelle participation des femmes en 2021 ? 2022.](https://www.santepubliquefrance.fr/les-actualites/2022/depistage-du-cancer-du-sein-quelle-participation-des-femmes-en-2021)
 - [Santé Publique France. Cancer colorectal : données de dépistage 2020-2021. 15/03/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cancer-colorectal-donnees-de-depistage-2020-2021)

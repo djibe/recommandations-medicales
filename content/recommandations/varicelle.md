@@ -16,7 +16,7 @@ sctid = "38907003"
 flowchart = true
 image = true
 imageSrc = "Lésion vésiculeuse typique de varicelle peu après son apparition. Devient trouble en 1 à 2 jours. Par F malan, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "vérif co-vaccination ROR"
+todo = "SEO, vérif co-vaccination ROR"
 +++
 
 {{%article-summary%}}

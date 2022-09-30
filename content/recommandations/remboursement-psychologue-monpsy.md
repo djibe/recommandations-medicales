@@ -2,6 +2,7 @@
 title = "Prescrire des séances chez un psychologue (MonPsy)"
 titleSeo = "psychologue remboursé MonPsy"
 prefix = "pour "
+noindex = true
 description = "Informations pour prescrire des séances de psychologue remboursées (MonPsy). Ordonnance modèle pour le remboursement de la psychothérapie, max 8 séances par an"
 synonyms = ["Psychothérapie remboursée"]
 auteurs = ["Jean-Baptiste FRON"]

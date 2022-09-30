@@ -2,6 +2,7 @@
 title = "Métatarsalgies et névrome de Morton"
 prefix = "les "
 titleSeo = "Névrome de Morton"
+noindex = true
 description = "Recommandations sur les examens et traitements à proposer en cas de névrome de Morton dit métatarsalgies. Radiographies, semelles orthopédiques ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
@@ -16,7 +17,7 @@ anglais = ["Morton's metatarsalgia"]
 sctid= "30085007"
 image = true
 imageSrc = "Photo de gm.esthermax sur Foter.com"
-todo = "améliorer"
+todo = "SEO"
 +++
 
 {{%article-summary%}}

@@ -2,7 +2,7 @@
 title = "Vertige positionnel paroxystique bénin (VPPB)"
 titleSeo = "Vertige positionnel VPPB"
 prefix = "le "
-description = "Recommandations 2012 de la SFORL sur le vertige positionnel paroxystique bénin (VPPB). Signes de gravité, examen ORL au premier épisode, manœuvre d'Epley ..."
+description = "Recommandations de la SFORL sur les vertiges positionnels paroxystiques bénins (VPPB). Signes de gravité, bilan, examen ORL, manœuvre de libération"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-21T19:36:09+02:00"
@@ -16,7 +16,7 @@ anglais = ["Benign positional vertigo (BPPV)"]
 sctid = "111541001"
 image = true
 imageSrc = "Illustration de l'oreille interne par BruceBlaus. Blausen.com staff (2014). WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436., via Wikimedia Commons"
-todo = "vertige signes périph collège neuro"
+todo = "écriture SEO, vertige signes périph collège neuro"
 +++
 
 {{%article-summary%}}

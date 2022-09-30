@@ -1,6 +1,7 @@
 +++
 title = "Grippe saisonnière"
 prefix = "la "
+noindex = true
 description = "Recommandations pour la prise en charge de la grippe. Indications à la vaccination et aux antiviraux, personne à risque de forme grave, grippe pendant grossesse"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

@@ -1,30 +1,31 @@
 +++
-title = "La téléexpertise par le médecin généraliste"
-description = "Demander une téléexpertise médicale pour un patient. Comment ? Comment facturer la téléexpertise RQD ? Quelles plateformes et solutions pour une téléexpertise ?"
+title = "Demande de téléexpertise par le médecin généraliste"
+description = "Demander une téléexpertise médicale pour un patient. Comment faire ? Comment facturer la téléexpertise ? Quelles plateformes utiliser ?"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T09:25:00+02:00"
 publishdate = "2022-08-31"
-lastmod = "2022-08-31"
+lastmod = "2022-09-30"
 specialites = []
 sources = []
 tags = []
 image = true
-imageSrc = "macrovector / Freepik"
+imageSrc = "Illustration de la téléexpertise par macrovector / Freepik"
 +++
 
-La téléexpertise (TLE) permet de demander un avis spécialisé différé: ni le patient ni l'expert ne doivent être présents, elle est dite asynchrone.  
-Elle vous permet ainsi de demander une conduite à tenir pour une question simple sans urgence (ce n'est pas une RCP).
+La téléexpertise (TLE) permet de demander un avis médical spécialisé de façon différée: ni le patient ni l'expert ne doivent être présents, elle est dite asynchrone.  
+Elle vous permet ainsi de demander une conduite à tenir pour une question simple sans urgence.
 {.lead}
 
-Les exemples de demandes (qui doivent rester circonscrites) peuvent être variés: avis sur l'urgence d'une lésion cutanée, ECG de dépistage, interrogation sur une anomalie biologique, adaptation thérapeutique ou tout autre motif. La téléexpertise permet d'offrir à chaque patient la conduite à tenir adaptée sans forcément recourir à une consultation spécialisée.
+Les exemples de demandes de téléexpertise peuvent être variés: avis sur l'urgence d'une lésion dermatologique, ECG de dépistage, interrogation sur une anomalie biologique, adaptation d'un traitement ou tout autre motif ou question pertinente.  
+La téléexpertise permet ainsi d'offrir à chaque patient la conduite à tenir adaptée sans forcément recourir à une consultation spécialisée.
 
-La téléexpertise est remboursée à 100% pour tous les patients depuis le 1<sup>er</sup> avril 2022, dans la limite de 4 demandes par an par patient. Vous êtes rémunérés **10€** pour la demande et 20€ pour l'expert, facturés pour tous les patients en AMO 100%.
+La téléexpertise est remboursée à 100% pour tous les patients depuis le 1<sup>er</sup> avril 2022, dans la limite de 4 demandes par an par patient. Vous êtes rémunérés **10€** pour la demande et 20€ pour l'expert, pris en charge à 100% par l'Assruance Maladie pour tous les patients.
 
 {{%collapse "Quels sont les services de téléexpertise pour le médecin généraliste ?" %}}
 
-Liste des plateformes permettant de demander gratuitement une téléexpertise médicale. Ces solutions de téléexpertise gèrent les informations sociales du patient afin de vous permettre la facturation de 10€ due au médecin demandeur (dit *requérant*).
+Liste des sites permettant de demander gratuitement une téléexpertise médicale. Ces solutions de téléexpertise gèrent les informations sociales du patient afin de vous permettre la facturation de 10€ due au médecin demandeur (dit *requérant*).
 
-Vous devez d'abord créer un compte sur une plateforme de téléexpertise afin que l'expert connaisse vos coordonnées (qu'il précisera sur sa FSE).
+Vous devez d'abord créer un compte sur une plateforme de téléexpertise afin que l'expert connaisse vos coordonnées (qu'il précisera sur sa feuille de soins électronique).
 
 - [Omnidoc](https://omnidoc.fr/medecins-generalistes)
 - [Postelo](https://www.postelo.fr/)
@@ -64,7 +65,7 @@ Le médecin demandeur est dit *requérant* et le médecin expert est dit *requis
 {{% /collapse %}}
 {{%collapse "Comment facturer une téléexpertise ?" %}}
 
-La facturation d'une téléexpertise s'effectue toujours en mode Sesam sans vitale avec un tiers payant AMO total (la téléexpertise est prise en charge à 100% afin de faciliter votre facturation).
+La facturation d'une téléexpertise s'effectue toujours en mode Sesam sans vitale avec un tiers payant AMO total (la téléexpertise est prise en charge à 100% pour faciliter votre facturation).
 
 ### Facturer une téléexpertise en tant que médecin requérant
 
@@ -91,4 +92,4 @@ La facturation d'une téléexpertise s'effectue toujours en mode Sesam sans vita
 
 {{%/sources%}}
 
-{{< card-link title="Article lié: Le forfait structure" subtitle="Primes à la dématérialisation ..." url="/cabinet/forfait-structure/" class="mt-5">}}
+{{< card-link title="Article lié: Le forfait structure" subtitle="Prime pour la dématérialisation des soins" url="/cabinet/forfait-structure/" class="mt-5">}}

@@ -20,7 +20,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "Ostéodensitométrie avant 35 ans ???, dermatite herpétiforme Souvent résolutive après l'éviction du gluten"
+todo = "SEO, ostéodensitométrie avant 35 ans ???, dermatite herpétiforme Souvent résolutive après l'éviction du gluten"
 +++
 
 {{%article-summary%}}
