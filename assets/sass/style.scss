@@ -2,7 +2,7 @@
 
 :root {
   --bg-rgb: 65, 80, 245;
-  --bgs-rgb: 232, 117, 0;
+  --bg-secondary-rgb: 232, 117, 0;
   --bg-article-rgb: 175, 52, 220;
   --article: #af34dc;
 }
@@ -223,9 +223,16 @@ a[href^="http"]:not([class]):not([href*="recomedicales.fr"])::after {
   transform-origin: top center;
 }
 
-.taxonomyList::first-letter {
-  text-transform: uppercase;
+
+.taxonomyList {
+  text-align: center;
+
+  &::first-letter {
+    text-transform: uppercase;
+  }
 }
+
+
 
 .text-secondary {
   color: var(--secondary-dark) !important;
@@ -290,7 +297,7 @@ article {
 
   &-secondary {
     color: var(--secondary);
-    background-color: rgba(var(--bgs-rgb), 0.1);
+    background-color: rgba(var(--bg-secondary-rgb), 0.1);
   }
 
   &-article {

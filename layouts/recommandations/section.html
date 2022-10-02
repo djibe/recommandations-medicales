@@ -1,10 +1,9 @@
 {{ define "main" }}
-<!-- Example: Pages like /recommandations, Tags > anticoagulant ou Accueil > annees > 2017-->
 <div class="bg-light list-page">
   <div class="container-md">
     <div class="row">
       <div class="col-12">
-        <h1 class="taxonomyList">{{ .Title }}</h1>
+        <h1 class="taxonomyList text-primary">{{ .Title }}</h1>
         <nav aria-label="Fil d'ariane" class="mb-4">
           <ol class="breadcrumb">
             {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
