@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="bg-light list-page">
+<div class="list-page">
   <div class="container-md">
     <div class="row">
       <div class="col-12">
@@ -11,19 +11,26 @@
         </nav>
         {{ with .Content }}<div class="mb-5">{{ . }}</div>{{ end }}
       </div>
-      <div class="col-12 grid-1-2-3 mb-5">
-      {{ range .Pages.ByTitle }}
-      <div class="card">
-        <div class="card-body position-relative card-primary-action">
-          <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-          {{ with .Params.specialites}}<h3 class="card-subtitle d-none d-md-block">{{ delimit . ", " }}</h3>{{end}}
-        </div>
-        <div class="card-actions">
-          {{ partial "widgets/guidelineyear-render.html" . }}
-          {{ partial "widgets/tags-render.html" . }}
-        </div>
-      </div>
-      {{ end }}
+      <div class="col-12 mb-5">
+        <!-- create a list with all uppercase letters -->
+        {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+        <!-- range all pages sorted by their title -->
+        {{ range .Data.Pages.ByTitle }}
+          <!-- get the first character of each title. Assumes that the title is never empty! -->
+          {{ $firstChar := substr .Title 0 1 | upper }}
+          <!-- in case $firstChar is a letter -->
+          {{ if $firstChar | in $letters }}
+            <!-- get the current letter -->
+            {{ $curLetter := $.Scratch.Get "curLetter" }}
+            <!-- if $curLetter isn't set or the letter has changed -->
+            {{ if ne $firstChar $curLetter }}
+            <!-- update the current letter and print it -->
+              {{ $.Scratch.Set "curLetter" $firstChar }}
+              <h2 class="typography-healine-6 mt-5">{{ $firstChar }}</h2>
+            {{ end }}
+            <a class="chip chip-action" href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ end }}
+        {{ end }}
       </div>
     </div>
   </div>

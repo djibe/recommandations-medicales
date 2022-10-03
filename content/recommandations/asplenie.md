@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T23:51:41+02:00"
 publishdate = "2020-09-29"
-lastmod = "2022-09-30"
+lastmod = "2022-10-03"
 specialites = ["hematologie"]
 annees = "2022"
 sources = ["HCSP", "MinSanté"]
@@ -17,13 +17,13 @@ sctid = "707147002"
 image = true
 imageWEBP = true
 imageSrc = "Illustration de la rate par scientificanimations.com, CC BY-SA 4.0"
-todo = "améliorer vaccins, graph"
+todo = "améliorer vaccins"
 +++
 
 {{%article-summary%}}
 
-- Asplénie: antibioprophylaxie par pénicilline V pendant 2 ans (5 ans chez l'enfant)
-- 6 vaccinations recommandées contre l'immunodépression: pneumocoque, méningocoques B et ACYW135, *Haemophilus*, grippe et Covid 19
+- Asplénie: antibioprophylaxie par pénicilline V Oracilline® 1 MUI 1 cp x 2/j pendant 2 ans (5 ans chez l'enfant)
+- 6 vaccinations recommandées contre l'immunodépression: pneumocoque, méningocoques B et ACYW135, grippe, Covid 19 et *Haemophilus* (âge < 6 ans)
 - Les vaccins doivent être injectés dans les 2 à 6 semaines d'une splénectomie en urgence (ou au moins 2 semaines avant une splénectomie programmée)
 
 {{%/article-summary%}}
@@ -65,8 +65,8 @@ Splénectomie chirurgicale: 1<sup>re</sup> cause avec 6 à 9000 cas par an (50% 
 
 {{%info%}}Oracilline® 1 MUI, 1 cp x 2/j pendant 2 ans (5 ans chez l'enfant){{%/info%}}
 
-Antibiothérapie par Oracilline® (pénicilline V, phénoxyméthylpénicilline) à débuter dès le lendemain de la splénectomie.  
-{{%class%}}Existe en sirop (250.000 UI/5 mL, 500.000 UI/5 mL, 1 MUI/10mL) ou comprimés à 1 MUI.{{%/class%}}
+Antibiothérapie par [Oracilline®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67151899&typedoc=R) (pénicilline V, phénoxyméthylpénicilline) à débuter dès le lendemain de la splénectomie.  
+{{%class%}}Existe en sirop (250.000 UI/5 mL, 500.000 UI/5 mL, 1 MUI/10 mL) ou comprimés à 1 MUI.{{%/class%}}
 
 - Enfant de 10 à 40 kg  
   25.000 UI/kg x 2/j (max 2 MUI/j) pendant 5 ans.  
@@ -78,7 +78,20 @@ Antibiothérapie par Oracilline® (pénicilline V, phénoxyméthylpénicilline) 
 {{% /collapse %}}
 {{%collapse "Vaccinations après splénectomie" %}}
 
+### Mémo des vaccins recommandés en cas d'asplénie
+
 Vaccins à réaliser avant voire après une splénectomie.
+
+{{< table title="Synthèse des vaccins à administrer chez l'asplénique selon Calendrier vaccinal et HCSP 2014" >}}
+| Germe           | Primo-vaccination            | Rappel           |
+|-----------------|------------------------------|------------------|
+| Pneumocoque     | Prevenar13 puis Pneumovax M2 | Pneumovax /5 ans |
+| Méningocoque B  | Bexsero (/Trumenba) à M0M2   |                  |
+| Méningo ACYW135 | Menveo/Nimenrix à M0M6       | Tous les 5 ans   |
+| *H. influenzae* | Âge < 6 ans: ACT-HIB         |                  |
+| Grippe          | 1 dose                       | Annuel           |
+| Covid-19        | Recommandations en vigueur   |                  |
+{{< /table >}}
 
 ### Quand vacciner?
 
@@ -98,27 +111,29 @@ Mise à jour du calendrier vaccinal.
 - Enfant 2 à 5 ans non vaccinés: Prevenar 13® M0M2 et Pneumovax® M4
 - Enfant < 2 ans: schéma nourrisson et rappel Pneumovax® après ses 2 ans
 
+Rappel par Pneumovax® tous les 5 ans.
+
 #### Vaccination anti-méningococcique (*Neisseria meningitidis*)
 
 ##### Méningocoque ACYW135
 
-- Menveo® ou Nimenrix® avec rappel à 6 mois puis tous les 5 ans
-- Vacciné avant 7 ans par Méning ACYW135: rappel à 3 ans puis tous les 5 ans
+- [Menveo®](https://ec.europa.eu/health/documents/community-register/2021/20210129150720/anx_150720_fr.pdf) ou Nimenrix® avec 2<sup>e</sup> injection à 6 mois puis **rappel** tous les 5 ans
+- Vacciné avant 7 ans contre méningocoque ACYW135: rappel à 3 ans puis tous les 5 ans
 
 ##### Méningocoque B
 
-- ≥ 11 ans: Bexsero® avec 2<sup>e</sup> injection à 1 mois  
+- ≥ 11 ans: [Bexsero®](https://ec.europa.eu/health/documents/community-register/2021/20210701152279/anx_152279_fr.pdf) avec 2<sup>e</sup> injection à 1 mois  
   ou Trumenba® ≥ 10 ans en 2 ou 3 injections (et rythme de rappel non défini)
 - 6 mois à 10 ans: Bexsero® avec 2<sup>e</sup> injection à 2 mois
 - 2 à 5 mois: Bexsero® en 3 injections à 1 mois d'intervalle
 
 #### *Haemophilus influenzae* type B
 
-Vaccin ACT-HIB® dose unique.
+Vaccin [ACT-HIB®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61104024&typedoc=R) dose unique avant l'âge de 6 ans.
 
 #### Grippe saisonnière
 
-1 dose annuelle de rappel au moment de la campagne annuelle de vaccination.
+1 dose annuelle de rappel au moment de la campagne annuelle de vaccination (voir [Grippe]({{< relref "grippe.md" >}})).
 
 {{%info%}}Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques (sauf les vaccins vivants en cas d'immunosuppression). (*HCSP 2014*){{%/info%}}
 

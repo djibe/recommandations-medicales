@@ -21,8 +21,8 @@ todo = "texte SEO, texte vaccins obligatoires , choc anaphylactique, Rattrapage 
 {{%article-summary%}}
 
 - [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
-- Grossesse: rappel Coqueluche à chaque grossesse (entre 20 et 36 SA)
-- Vaccination ≥ 16 ans par IDE et pharmaciens sans ordonnance pour: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage
+- Grossesse: rappel [Coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA)
+- Vaccination +16 ans par IDE et pharmaciens sans ordonnance pour: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage (bloque encore au niveau de la Sécu. Faire une ordonnance pour l'infirmier)
 - Poser une question pour un cas particulier: [Infovac App](https://app.infovac.fr/) (créer un compte)
 
 {{%/article-summary%}}
@@ -33,7 +33,7 @@ dTcaPolio
 Ces dosages réduits ne peuvent être utilisés qu'à partir de 11 ans.
 
 Rattrapage vaccinal
-: << Si un retard est intervenu dans le programme de vaccination, il n'est pas nécessaire de recommencer. Il suffit de reprendre ce programme au stade où il a été interrompu et de compléter la vaccination en fonction de l'âge et du nombre de doses de vaccin manquantes >> (INPES).
+: << Si un retard est intervenu dans le programme de vaccination, il n'est pas nécessaire de recommencer. Il suffit de reprendre ce programme au stade où il a été interrompu et de compléter la vaccination en fonction de l'âge et du nombre de doses de vaccin manquantes >> (*INPES*).
 
 Nourrisson prématuré
 : Naissance avant 37 SA.
