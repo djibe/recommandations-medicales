@@ -17,7 +17,7 @@ sctid = "39406005"
 flowchart = true
 image = true
 imageSrc = "Illustration de l'IVG par stories / Freepik"
-todo = "Prescrire"
+todo = "https://drees.solidarites-sante.gouv.fr/sites/default/files/2022-09/er1241.pdf"
 +++
 
 {{%article-summary%}}

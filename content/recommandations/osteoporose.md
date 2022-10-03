@@ -2,14 +2,14 @@
 title = "Ostéoporose post-ménopausique"
 prefix = "l'"
 titleSeo = "Ostéoporose post-ménopausique"
-description = "Recommandations pour le traitement de l'ostéoporose: indications de l'ostéodensitométrie, FRAX et T-score, biphosphonates et bilan pré-thérapeutique"
+description = "Recommandations pour la prise en charge et le traitement de l'ostéoporose: indications de l'ostéodensitométrie, FRAX et T-score, biphosphonates"
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. CORTET et Dr T. FUNCK-BRENTANO (SFR, GRIO)"
 date = "2020-09-04T17:43:41+02:00"
 publishdate = "2021-12-06"
-lastmod = "2022-03-28"
+lastmod = "2022-10-03"
 specialites = ["rhumatologie"]
 annees = "2019"
 sources = ["SFRhumato", "GRIO", "IOF", "HAS"]
@@ -203,6 +203,9 @@ Indications de l'ostéodensitométrie:
   - À chaque modification de traitement et en arrêt précoce
   - 2 ans après l'arrêt du traitement
 - Homme VIH+ CD4 > 500/mm³ ET ≥ 60 ans ou < 60 ans avec IMC < 20 (*HAS 2018 VIH*)
+- Boulimie (*HAS 2019 boulimie*)
+  - et aménorrhée ≥ 6 mois
+  - et antécédent d'anorexie mentale
 
 Examen diagnostique de l'ostéoporose: **T-score ≤ -2,5 DS au col fémoral** (*OMS 94*)  
 T-score > -1 = **DMO normale** | -2,5 < T-score ≤ -1 = **Ostéopénie**.
@@ -568,6 +571,7 @@ graph TB
 {{%sources%}}
 
 - Prescrire Redaction. Fracture liées à une fragilité osseuse : prévention. Janvier 2021.
+- [HAS, FFAB. Boulimie et hyperphagie boulimique. Recommandation de bonne pratique. Juin 2019.](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique-reperage-et-elements-generaux-de-prise-en-charge)
 - [HAS. Les médicaments de l'ostéoporose. Bon usage du médicament. Mai 2019.](https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-losteoporose)
 - [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d'ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 2019. (PDF)](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
 - [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l'ostéoporose post-ménopausique. Revue du Rhumatisme. 2018.](https://doi.org/10.1016/j.rhum.2018.02.005)

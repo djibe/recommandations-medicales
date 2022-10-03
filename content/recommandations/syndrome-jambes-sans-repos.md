@@ -94,6 +94,9 @@ CST
 HDJ
 : hôpital de jour
 
+ISRS
+: inhibiteur sélectif de la recapture de la sérotonine
+
 ENMG
 : électroneuromyogramme
 
@@ -159,7 +162,7 @@ TDAH
 
 ### Critères diagnostiques IRLSSG du syndrome des jambes sans repos
 
-5 critères pour le diagnostic de sjsr:
+5 critères pour le diagnostic de syndrome des jambes sans repos:
 
 1. Besoin impérieux de bouger les jambes  
 Sensations inconfortables, désagréables ou douloureuses des jambes.
