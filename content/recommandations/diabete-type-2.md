@@ -9,8 +9,8 @@ date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
 lastmod = "2022-10-04"
 specialites = ["endocrinologie"]
-annees = "2021"
-sources = ["SFD", "ESC", "EASD", "ADA", "HAS"]
+annees = "2022"
+sources = ["EASD", "ADA", "SFD", "ESC", "HAS"]
 tags = ["bariatrique", "diabete", "epreuve effort", "HTA", "insuline", "retinopathie", "nephropathie",  "risque cardiovasculaire", "neuropathie", "obesite", "SAS", "vaccin"]
 anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
@@ -21,12 +21,11 @@ todo = "glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/20
 
 {{%article-summary%}}
 
-- [Findrisc: risque de diabète à 10 ans](https://www.diabeclic.com/findrisc)
-- Sevrage tabagique obligatoire
-- Points vitaux obligatoires (voir plus bas)
-- Traitements: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}
-- Dépistages des complications +++ (voir *Dépistage*)
-- Éducation thérapeutique du patient: [diabeclic.com](https://www.diabeclic.com)
+- [Score Findrisc: risque de diabète à 10 ans](https://www.diabeclic.com/findrisc)
+- Pour chaque personne vivant avec un diabète: sevrage tabagique obligatoire et points vitaux obligatoires (voir plus bas)
+- Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}
+- Dépistage des complications du diabète et des comorbidités (voir *Dépistage*)
+- Éducation thérapeutique du patient diabétique: [diabeclic.com](https://www.diabeclic.com)
 
 Articles liés: [diabète type 1]({{< relref "diabete-type-1.md" >}}), [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
 
@@ -39,12 +38,12 @@ Diabète
     - ou HbA1c ≥ 6,5%
     - ou HGPO H2 ≥ 2 g/L
     - Symptômes et glycémie ≥ 2 g/L
-: L'atteinte coronaire est plus étendue, sévère et diffuse. 6-35% ont une ischémie myocardique sans angor et 50% des infarctus du myocarde sont **silencieux** (*SFD 2021 CAD*). Responsable majeur est le **LDL**. Risque [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) x2-4.
+: Au cours du diabète, l'atteinte coronaire est plus étendue, sévère et diffuse. 6 à 35% ont une **ischémie myocardique sans angor** et 50% des infarctus du myocarde sont **silencieux** (*SFD 2021 CAD*). Le responsable majeur est le **LDL cholestérol**. Le risque d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) est multiplié par 2 à 4.
 
 Hyperglycémie modérée à jeun (HGMAJ)
 : Ou *prédiabète*, correspond au stade précurseur du diabète.  
 La glycémie à jeun est mesurée de 1 à 1,25 g/L (HGPO H2 < 1,4 g/L).
-: La perte d'un kg réduit de 43% le risque de DT2 (*ESC 2019 diabetes*).
+: La perte d'1 kg réduit de 43% le risque de DT2 (*ESC 2019 diabetes*).
 
 Rémission du diabète
 : Définitions *EASD 2021*:
@@ -52,7 +51,7 @@ Rémission du diabète
     - HbA<sub>1c</sub> < 6,5% à au moins 3 mois de la chirurgie bariatrique et de l'arrêt de tout traitement
     - HbA<sub>1c</sub> < 6,5% à au moins 6 mois du changement de mode de vie et au moins 3 mois de l'arrêt de tout traitement
 : Lorsque la mesure de l'HbA1c n'est pas fiable, recours à la glycémie à jeun < 1,26 g/L ou estimation par automesure (la glycémie moyenne doit être < 6,5% d'équivalent HbA1c).
-: Le *dépistage des complications* doit être poursuivi, avec la surveillance de l'HbA1c tous les 3-12 mois.
+: Le *dépistage des complications* du diabète doit être poursuivi, avec la surveillance de l'HbA<sub>1c</sub> tous les 3 à 12 mois.
 
 ### Conversion des unités du diabète
 
@@ -270,7 +269,7 @@ window.onload = () => {
 | [Épreuve d'effort]({{< relref "epreuve-effort.md" >}}) | Angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans) | SFD 2021 CAD |
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
 | [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | (NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ADA 2022 |
-| [NAFLD/NASH]({{< relref "steatose-hepatique-et-nash.md" >}})   | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}}                                        | AFEF 2020                |
+| [NAFLD/NASH]({{< relref "steatose-hepatique-et-nash.md" >}}) | {{< modal-btn modal-fib4 >}}Score FIB-4 annuel{{< /modal-btn >}} | AFEF 2020 |
 | Neuropathie  | Monofilament annuel                                                                              | ESC 2019 diabetes        |
 | [Rénal]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie, albuminurie sur échantillon annuels | ESC 2019 diabetes        |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | SFD 2016                 |
@@ -300,8 +299,9 @@ window.onload = () => {
 
 {{< card-link title="e-learning EASD" url="https://easd-elearning.org/">}}
 
-{{< card-link title="Dépenses des soins liés au diabète" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Diab%C3%A8te">}}
+{{< card-link title="Ameli Data Pathologies. Dépenses des soins liés au diabète" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Diab%C3%A8te">}}
 
+- [Davies MJ. et al. Management of hyperglycaemia in type 2 diabetes, 2022. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2022.](https://link.springer.com/article/10.1007/s00125-022-05787-2)
 - [Pop-Busui R. et al. Heart Failure: An Underappreciated Complication of Diabetes. A Consensus Report of the American Diabetes Association. Diabetes Care. 2022.](https://diabetesjournals.org/care/article/doi/10.2337/dci22-0014/147048/Heart-Failure-An-Underappreciated-Complication-of)
 - [Lee CG. et al. Effect of Metformin and Lifestyle Interventions on Mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study. Diabetes Care. 2021.](https://doi.org/10.2337/dc21-1046)  
   Sujets à haut risque de diabète suivis pendant 20 ans, pas de bénéfice sur la mortalité totale à un programme intensif de modifications des habitudes de vie versus conseils de perte de poids et d'augmentation de l'activité physique.
@@ -324,7 +324,6 @@ window.onload = () => {
 
 ### À lire
 
-- [Davies MJ. et al. Management of hyperglycaemia in type 2 diabetes, 2022. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2022.](https://link.springer.com/article/10.1007/s00125-022-05787-2)
 - [Thivolet C. et al. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)
 - [Jarl Emanuel Strange. eposter. Risk of heart failure following short-term non-steroidal anti-inflammatory drug use in patients with type 2 diabetes mellitus; communiqué ESC. 26/08/2022.] : éviter toute prise d'AINS
 

@@ -7,8 +7,8 @@ longHtml = true
 synonyms = ["Insuffisance cardiaque à FEVG altérée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
-publishdate = 2021-06-03
-lastmod = 2021-10-08
+publishdate = "2021-06-03"
+lastmod = "2021-10-08"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS"]
@@ -23,10 +23,10 @@ todo = "sup. Table 4 MRA+5Sacu+7Diur https://www.santepubliquefrance.fr/determin
 
 {{%article-summary%}}
 
-- Évoquer devant fatigue, dyspnée, œdèmes des chevilles...
-- ECG, NT-proBNP et consultation de cardiologie
+- Évoquer systématiquement une insuffisance cardiaque en cas de fatigue, dyspnée, œdèmes des chevilles ...
+- Bilan initial devant une suspicion d'insuffisance cardiaque chronique: ECG, NT-proBNP et consultation de cardiologie
 - Bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), anémie)
-- Contrôle des FRCV: HTA, tabac...
+- Contrôle des facteurs de risque cardiovasculaire: HTA, tabac, dyslipidémie
 - Maximiser les posologies du traitement: {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, {{< modal-btn modal-bb >}}BB{{< /modal-btn >}}, anti-aldostérone, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, ferritine > 100 ng/mL
 - Éducation thérapeutique pour la surveillance des poids-tension et l'adaptation des diurétiques
 
@@ -159,7 +159,7 @@ Diabète, anémie, carence martiale, BPCO, insuffisance rénale, hépatopathie, 
 ### Interrogatoire
 
 - Antécédents familiaux  
-Insuffisance cardiaque, maladie cardiovasculaire, génétiques.
+  Insuffisance cardiaque, maladie cardiovasculaire, génétiques.
 - Facteurs de risque cardiovasculaire
 - Antécédents  
   - Cardiovasculaires  
@@ -173,9 +173,9 @@ Insuffisance cardiaque, maladie cardiovasculaire, génétiques.
   - Carences ou déficits enzymatiques, anémie, anorexie
 - Médicaments en cours, notion d'amélioration sous diurétiques
 - Traitements exposés  
-Mediator, radiothérapie thoracique, chimiothérapie, immunomodulateurs, antiarythmiques, AINS, anesthésiques.
+  Mediator, radiothérapie thoracique, chimiothérapie, immunomodulateurs, antiarythmiques, AINS, anesthésiques.
 - Toxiques  
-Alcool, cocaïne, amphétamines, anabolisants.
+  Alcool, cocaïne, amphétamines, anabolisants.
 - Exposition aux métaux lourds
 - Symptômes typiques
   - Dyspnée d'effort ou de repos ({{< modal-btn score-nyha >}}score NYHA{{< /modal-btn >}}), orthopnée, dyspnée paroxystique nocturne
@@ -270,11 +270,10 @@ Indications: cardiomyopathie hypertrophique (CMH), cardiomyopathie dilatée idio
   - 30 minutes d'activité physique quotidienne (atteindre une dyspnée légère à modérée)
   - Minimum 20 min x 3/sem
   - Réadaptation cardiaque supervisée en SSR
-- Arrêt du tabac
+- Arrêt du tabac et de l'[alcool]({{< relref "sevrage-alcool.md" >}})
 - Prise en charge d'une obésité
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}})
-- Vaccination
+- Vaccinations
   - Antigrippale annuelle
   - Covid-19
   - {{< modal-btn modal-pneumocoque >}}Anti-pneumococcique{{< /modal-btn >}}/5 ans
@@ -286,7 +285,7 @@ Indications: cardiomyopathie hypertrophique (CMH), cardiomyopathie dilatée idio
 - Évaluation diététique
 - Éducation thérapeutique
 - Ferritinémie ≥ 100 ng/mL  
-Bilan étiologique et fer maltose IV.
+  Bilan étiologique et fer maltose IV.
 - Dépister des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) et mesure systématique de l'IPS (*ESC 2017 LEAD*)
 - Dépister annuellement une dépression
   - Échelle: Beck, Cardiac Depression Scale
