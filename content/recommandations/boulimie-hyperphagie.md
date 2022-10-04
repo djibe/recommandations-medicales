@@ -12,12 +12,12 @@ specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["HAS"]
 tags = ["depistage"]
-anglais = []
-sctid = ""
+anglais = ["Bulimia nervosa"]
+sctid = "78004001"
 draft = true
 image = false
 imageSrc = ""
-todo = "borderline, autres sources"
+todo = "borderline, score SCOFF-F, autres sources"
 +++
 
 {{%article-summary%}}

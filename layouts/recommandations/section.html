@@ -11,26 +11,30 @@
         </nav>
         {{ with .Content }}<div class="mb-5">{{ . }}</div>{{ end }}
       </div>
-      <div class="col-12 mb-5">
-        <!-- create a list with all uppercase letters -->
-        {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
-        <!-- range all pages sorted by their title -->
-        {{ range .Data.Pages.ByTitle }}
-          <!-- get the first character of each title. Assumes that the title is never empty! -->
-          {{ $firstChar := substr .Title 0 1 | upper }}
-          <!-- in case $firstChar is a letter -->
-          {{ if $firstChar | in $letters }}
-            <!-- get the current letter -->
-            {{ $curLetter := $.Scratch.Get "curLetter" }}
-            <!-- if $curLetter isn't set or the letter has changed -->
-            {{ if ne $firstChar $curLetter }}
-            <!-- update the current letter and print it -->
-              {{ $.Scratch.Set "curLetter" $firstChar }}
-              <h2 class="typography-healine-6 mt-5">{{ $firstChar }}</h2>
+      <div class="col-12 d-flex justify-content-center mb-5">
+        <div class="w-768">
+          <a class="chip chip-action chip-outline chip-outline-active" href="#">Toutes</a>
+          <a class="chip chip-action chip-outline" href="/annees/">Par années</a>
+          <!-- create a list with all uppercase letters -->
+          {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+          <!-- range all pages sorted by their title -->
+          {{ range .Data.Pages.ByTitle }}
+            <!-- get the first character of each title. Assumes that the title is never empty! -->
+            {{ $firstChar := substr .Title 0 1 | upper }}
+            <!-- in case $firstChar is a letter -->
+            {{ if $firstChar | in $letters }}
+              <!-- get the current letter -->
+              {{ $curLetter := $.Scratch.Get "curLetter" }}
+              <!-- if $curLetter isn't set or the letter has changed -->
+              {{ if ne $firstChar $curLetter }}
+              <!-- update the current letter and print it -->
+                {{ $.Scratch.Set "curLetter" $firstChar }}
+                <h2 class="typography-healine-6 mt-5">{{ $firstChar }}</h2>
+              {{ end }}
+              <p><a href="{{ .RelPermalink }}" class="list-group-item">{{ .Title }}</a></p>
             {{ end }}
-            <a class="chip chip-action" href="{{ .RelPermalink }}">{{ .Title }}</a>
           {{ end }}
-        {{ end }}
+        </div>
       </div>
     </div>
   </div>

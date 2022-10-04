@@ -2,9 +2,11 @@
 {{ if .p1.Parent }}
 {{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 )  }}
 {{ else if not .p1.IsHome }}
-{{ template "breadcrumbnav" (dict "p1" "Accueil" "p2" .p2 )  }}
+{{ template "breadcrumbnav" (dict "p1" .p1.Site.Home "p2" .p2 )  }}
 {{ end }}
 <li {{- if eq .p1 .p2 }} class="breadcrumb-item active" aria-current="page"{{ else }} class="breadcrumb-item"{{ end }}>
-  {{ if ne .p1 .p2 }}<a href="{{ .p1.Permalink }}">{{ end }}{{ .p1.Title }}{{ if ne .p1 .p2 }}</a>{{ end }}
+  {{ if ne .p1 .p2 }}<a href="{{ .p1.Permalink }}">{{ end }}
+    {{ with .p1.Params.breadcrumbTitle }}{{ . }}{{ else }}{{ .p1.Title | truncate 25 }}{{ end }}
+    {{ if ne .p1 .p2 }}</a>{{ end }}
 </li>
 {{ end }}

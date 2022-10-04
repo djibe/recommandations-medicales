@@ -991,6 +991,11 @@ a:focus-visible {
   outline-offset: 0.1em;
 }
 
+.chip-outline-active {
+  background-color: rgba(var(--bg-rgb), 0.12);
+  color: var(--primary);
+}
+
 /* Plugins */
 
 .dataTables_wrapper {

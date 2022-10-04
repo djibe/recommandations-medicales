@@ -1,35 +1,33 @@
 {{ define "main" }}
-{{ $href := print ("guidelineyears/") (urlize .) }}
-<div class="w-100 min-vh-100 bg-light">
+<div class="bg-light list-page">
   <div class="container-md">
     <div class="row">
       <div class="col-12">
-        <h1 class="taxonomyList my-lg-4">Les recommandations de <span class="text-primary">{{ .Title }}</span></h1>
-        <nav aria-label="Fil d'ariane" class="mb-4">
+        <h1 class="taxonomyList text-primary">Recommandations publiées en {{ .Title }}</h1>
+        <nav aria-label="Fil d'ariane" class="my-4">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="/">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="/recommandations/">Recommandations</a></li>
             <li class="breadcrumb-item"><a href="/annees/">Années</a></li>
             <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
           </ol>
         </nav>
+        {{ with .Content }}<div class="mb-5">{{ . }}</div>{{ end }}
       </div>
-      {{ range (.Pages.ByTitle) }}
-          <div class="col-sm-4 d-flex">
-            <div class="card flex-fill">
-              <div class="card-body card-primary-action">
-                <h3 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h3>
-                <p class="card-subtitle">
-                  {{ with .Params.auteurs}}
-                  {{ delimit . ", " }}{{ end }} le
-                  <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .Lastmod.Format "02 January" }}</time>
-                </p>
-              </div>
-              <div class="card-actions">
-                {{ partial "widgets/guidelineyear-render.html" . }}{{ partial "widgets/tags-render.html" . }}
-              </div>
-            </div>
-          </div>
+      <div class="col-12 grid-1-2-3 mb-5">
+      {{ range .Pages.ByTitle }}
+      <div class="card">
+        <div class="card-body position-relative card-primary-action">
+          <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+          {{ with .Params.specialites}}<h3 class="card-subtitle d-none d-md-block">{{ delimit . ", " }}</h3>{{end}}
+        </div>
+        <div class="card-actions">
+          {{ partial "widgets/guidelineyear-render.html" . }}
+          {{ partial "widgets/tags-render.html" . }}
+        </div>
+      </div>
       {{ end }}
+      </div>
     </div>
   </div>
 </div>

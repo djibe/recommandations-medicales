@@ -16,7 +16,7 @@ sctid = "390943009"
 image = false
 imageSrc = ""
 flowchart = true
-todo = "échoabdo?, gérer seul sd métabo, https://www.fmcgastro.org/postu-main/archives/postu-2006-paris/que-faire-devant-une-hyperferritinemie/, https://www.sciencedirect.com/science/article/pii/S0248866314011114, AFEF hyperferritinémie secondaires doivent être éliminées (alcoolisme chronique, syndrome inflammatoire, hyperthyroïdie, cancers et hémopathies, hémolyse, myolyse"
+todo = "reprendre, échoabdo?, gérer seul sd métabo, https://www.fmcgastro.org/postu-main/archives/postu-2006-paris/que-faire-devant-une-hyperferritinemie/, https://www.sciencedirect.com/science/article/pii/S0248866314011114, AFEF hyperferritinémie secondaires doivent être éliminées (alcoolisme chronique, syndrome inflammatoire, hyperthyroïdie, cancers et hémopathies, hémolyse, myolyse"
 +++
 
 {{%article-summary%}}
@@ -40,7 +40,7 @@ Hyperferritinémie (HF)
 
 - Une hyperferritinémie est associée à la survenue d'un syndrome métabolique et d'un diabète de type 2
 - 1/3 des diabétiques et 1/4 des pré-diabétiques ont une hyperferritinémie
-- 20% des NASH ont une HF et 1/3 a une hépatosidérose métabolique.
+- 20% des [NASH]({{< relref "steatose-hepatique-et-nash.md" >}}) ont une hyperferritinémie et 1/3 a une hépatosidérose métabolique.
 
 ### Abréviations
 
@@ -73,7 +73,7 @@ SAM
 - **Hépatite** (aiguë ou chronique)  
   CST > 45%, pas de surcharge en fer, transaminases élevées
 - **Alcoolisme**  
-  **HF fluctuante**, CST normal/peu élevé, surcharge en fer absente/modérée
+  HF fluctuante, CST normal/peu élevé, surcharge en fer absente/modérée
 - **Transfusions multiples**
   - Myélodysplasie, thalassémie
   - CST élevé, surcharge en fer globale, [anémie chronique]({{< relref "anemie.md" >}})

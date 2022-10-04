@@ -16,8 +16,6 @@ imageSrc = "unDraw"
 Modèles et particularités des lecteurs de carte vitale et de carte CPS homologués par le GIE Sesam-Vitale pour la facturation par le médecin généraliste.
 {.lead}
 
-{{< card-link title="Article lié" subtitle="Équipements pour l'ordinateur du médecin" url="/cabinet/peripheriques-ordinateur/">}}
-
 {{%collapse "Lecteur de carte vitale et carte CPS pour le cabinet" %}}
 
 Les dernières recommandations SESAM-Vitale préconisent l'utilisation de lecteurs de carte à puce (dit standard PC/SC ou Smart Card) qui utilisent des standards internationaux. Cependant, on ne pourra avoir recours qu'à des lecteurs certifiés par le GIE Sesam-Vitale en version 1.40.
@@ -50,3 +48,5 @@ homologués du mois de juillet 2022. (PDF)](https://industriels.sesam-vitale.fr/
 La liste est consultable sur le [site du GIE Sesam-Vitale](https://www.sesam-vitale.fr/web/sesam-vitale/catalogue-produits).
 
 {{% /collapse %}}
+
+{{< card-link title="Matériel informatique pour le cabinet du médecin" subtitle="Article lié" url="/cabinet/peripheriques-ordinateur/" class="my-4">}}

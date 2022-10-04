@@ -3,6 +3,11 @@
   <div class="row min-vh-100">
     <!-- CONTENT -->
     <article class="col-12">
+      <nav aria-label="Fil d'ariane" class="mt-5" style="padding-inline: clamp(1.375rem, 1.2rem + 0.89vw, 2rem)">
+        <ol class="breadcrumb">
+          {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+        </ol>
+      </nav>
       <div class="w-768">
         <header class="cabinet__header">
           <div class="cabinet-bg" style="background-image: url('/images/cabinet/{{$.File.BaseFileName}}.webp')">

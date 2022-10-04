@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-09-23"
+lastmod = "2022-10-04"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["SFD", "ESC", "EASD", "ADA", "HAS"]
@@ -261,15 +261,16 @@ window.onload = () => {
 | [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) | Symptômes + pouls annuels, IPS au diagnostic puis /5-10 ans | ESC 2019 diabetes |
 | Aspirine prev primaire | 75-100 mg envisageable si {{< modal-btn modal-rcv-diabete >}}(très) haut risque CV{{< /modal-btn >}} ou {{< modal-btn modal-coronaire-diabete >}}coronaire{{< /modal-btn >}} sans risque de saignement | ESC 2019 diabetes |
 | Aspirine prev secondaire | 75-160 mg ± associé selon la pathologie, prolonger bi-antiagrégants si bien toléré (max 3 ans) | ESC 2019 diabetes |
+| Boulimie et TCA | Dépister                                                                                      | HAS 2019                 |
 | [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) | - Diabète < 12 mois: ≥ 50 ans sans ATCD familial ni surpoids OU amaigrissement > 10%<br>- Pancréatite chronique + apparition ou décompensation de diabète | INCa 2019 |
 | Chir bariatrique | < 65 ans et IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH | HAS 2009 obésité |
 | Dentaire     | Suivi annuel                                                                                     | IDF 2009                 |
 | [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) | Systématique. Si présente: dépistage annuel hypotension orthostatique, dysfonction vésicale | AIUS 2018             |
 | ECG          | Annuel (VPN très faible)                                                                         | SFD 2021 CAD             |
-| Épreuve d'effort | Angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans) | SFD 2021 CAD |
+| [Épreuve d'effort]({{< relref "epreuve-effort.md" >}}) | Angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans) | SFD 2021 CAD |
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
 | [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | (NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ADA 2022 |
-| NAFLD/NASH   | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}}                                        | AFEF 2020                |
+| [NAFLD/NASH]({{< relref "steatose-hepatique-et-nash.md" >}})   | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}}                                        | AFEF 2020                |
 | Neuropathie  | Monofilament annuel                                                                              | ESC 2019 diabetes        |
 | [Rénal]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie, albuminurie sur échantillon annuels | ESC 2019 diabetes        |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | SFD 2016                 |
@@ -301,7 +302,7 @@ window.onload = () => {
 
 {{< card-link title="Dépenses des soins liés au diabète" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Diab%C3%A8te">}}
 
-- [Pop-Busui R et al. Heart Failure: An Underappreciated Complication of Diabetes. A Consensus Report of the American Diabetes Association. Diabetes Care. 2022.](https://diabetesjournals.org/care/article/doi/10.2337/dci22-0014/147048/Heart-Failure-An-Underappreciated-Complication-of)
+- [Pop-Busui R. et al. Heart Failure: An Underappreciated Complication of Diabetes. A Consensus Report of the American Diabetes Association. Diabetes Care. 2022.](https://diabetesjournals.org/care/article/doi/10.2337/dci22-0014/147048/Heart-Failure-An-Underappreciated-Complication-of)
 - [Lee CG. et al. Effect of Metformin and Lifestyle Interventions on Mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study. Diabetes Care. 2021.](https://doi.org/10.2337/dc21-1046)  
   Sujets à haut risque de diabète suivis pendant 20 ans, pas de bénéfice sur la mortalité totale à un programme intensif de modifications des habitudes de vie versus conseils de perte de poids et d'augmentation de l'activité physique.
 - {{< references/calendrier-vaccinal >}}
@@ -314,6 +315,7 @@ window.onload = () => {
 - [INCa. Synthèse - Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Septembre 2019. (PDF)](https://www.e-cancer.fr/content/download/278143/3948778/file/Synthese_CAT_patients_atteints_adenocarcinomes_pancreas_mel_20191118.pdf)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/esc-diabetes >}}
+- [HAS, FFAB. Boulimie et hyperphagie boulimique. Recommandation de bonne pratique. Juin 2019.](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique-reperage-et-elements-generaux-de-prise-en-charge)
 - {{< references/esc-hta >}}
 - [Borel AL et al; SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. Med Mal Metab. 2018. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
 - [Colson MH et al; AIUS. La dysfonction érectile du diabétique. Sexologies. 2018.](https://www.sciencedirect.com/science/article/pii/S1158136018300112)

@@ -301,7 +301,7 @@ L'échographie hépatique n'a pas d'intérêt pour dépister une MFLA.
 | ASAT > 75 et bili < 9                                   |            11,6 |           16,1 |     25,9 |
 {{< /table >}}
 
-> **Fibrose septale** = Metavir F≥2, NASH CRN F≥3 ; **Fibrose sévère** = Metavir F≥3 ; **Cirrhose** = Metavir F4, NASH CRN F4
+> **Fibrose septale** = Metavir F ≥ 2, NASH CRN F ≥ 3 ; **Fibrose sévère** = Metavir F≥3 ; **Cirrhose** = Metavir F4, NASH CRN F4
 
 {{%info%}}Il est probablement recommandé d'arrêter complètement et définitivement tout usage d'alcool chez les patients atteints de cirrhose et/ou de CHC afin de limiter les risques de surmortalité (*AFEF 2021*){{%/info%}}
 
