@@ -6,7 +6,7 @@ synonyms = ["Cancer du côlon", "cancer du rectum"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
 publishdate = "2022-09-22"
-lastmod = "2022-09-29"
+lastmod = "2022-10-05"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2022"
 sources = ["SNFGE", "INCa", "HAS", "SFED"]
@@ -15,18 +15,19 @@ anglais = ["Colorectal cancer"]
 sctid = "781382000"
 image = true
 imageSrc = "Illustration du cancer colorectal. Blausen Medical Communications, Inc., CC BY 3.0, via Wikimedia Commons"
-todo = "Lighthouse ergonomie, dépistage G8 gériatrie, Vaccination info service chimiothérapie"
+todo = "suivi ATCD perso de CCR, revoir indication génétique, Lighthouse ergonomie, dépistage G8 gériatrie, Vaccination info service chimiothérapie"
 +++
 
 {{%article-summary%}}
 
 - Le cancer colorectal (CCR) est le deuxième cancer par mortalité et pourtant n'obtient que 35% de participation au dépistage
 - Il survient dans 95% des cas après 50 ans
-- 3 niveaux de risque de cancer colorectal (voir *Niveaux de risque* pour les détails) avec rythme spécifique pour chacun (voir *Dépistage et suivi des sujets*)
+- 3 niveaux de risque de cancer colorectal (voir *Niveaux de risque* pour les détails) avec rythme de surveillance   spécifique pour chacun (voir *Dépistage et suivi des sujets*)
   - Moyen: 50 à 74 ans
   - Élevé: antécédent personnel ou familial de CCR ou d'adénome, MICI, acromégalie
   - Très élevé: PAF, syndrome de Lynch
-- Symptômes persistants évocateurs de cancer du côlon ou du rectum: rectorragies/méléna, alternance diarrhée-constipation, douleur ou masse abdominale, syndrome rectal, AEG, anémie ferriprive
+- Symptômes persistants évocateurs de cancer du côlon ou du rectum: rectorragies/méléna, alternance diarrhée-constipation, douleur ou masse abdominale, syndrome rectal, AEG, anémie ferriprive.  
+  Leur présence impose une consultation rapide de gastro-entérologie pour une coloscopie diagnostique.
 - Facteurs de risque de cancer colorectal: alcool, tabac, surpoids, viande rouge/charcuterie, fibres rares
 - Test de dépistage fécal: tous les 2 ans de 50 à 74 ans (à risque modéré asymptomatiques sans coloscopie dans les 5 ans). Commandes de kits sur Ameli Pro ou [monkit.depistage-colorectal.fr](https://monkit.depistage-colorectal.fr/#/invitation)
 
@@ -34,7 +35,7 @@ todo = "Lighthouse ergonomie, dépistage G8 gériatrie, Vaccination info service
 {{%collapse "Définitions" %}}
 
 Cancer colorectal (CCR)
-: Tumeur maligne du côlon (distal 20% ou proximal 30-40%) ou du rectum (30-40%). Il correspond le plus souvent (60-80%) à une **dégénérescence d'un polype** survenue en 5 à 10 avec pour histologie un adénocarcinome dans +95% des cas.
+: Tumeur maligne du côlon (distal 20% ou proximal 30-40%) ou du rectum (30-40%). Il correspond le plus souvent (60-80%) à une **dégénérescence d'un polype** survenue en 5 à 10 ans avec pour histologie un adénocarcinome dans +95% des cas.
 : Il est diagnostiqué dans 95% des cas **après 50 ans** avec sex-ratio de 2/3 d'hommes.
 
 Polype
@@ -54,7 +55,7 @@ La France est un pays Européen avec les plus **hautes incidences** de cancer co
 - 95% des cancers colorectaux surviennent après 50 ans
 - Survie à 5 ans: stade I 90% - stade IV 13%
 
-{{< card-link title="Les français et leur participation au dépistage des cancers" subtitle="Article RecoMédicales" url="/articles/participation-depistage-cancers/">}}
+{{< card-link title="Les français et leur participation au dépistage des cancers" subtitle="Article RecoMédicales" url="/articles/participation-depistage-cancers/" class="my-4">}}
 
 ### Abréviations
 
@@ -105,15 +106,16 @@ Le niveau de risque de cancer colorectal détermine la méthode et le rythme de 
 
 Risque moyen
 : Âge de 50 à 74 ans asymptomatique sans antécédent personnel ou familial d'adénome/CCR ou MICI
-: Dépistage par test immunologique.
+: Dépistage par test immunologique fécal.
 
 Risque élevé
-:  - Antécédent personnel de cancer colorectal ou d'adénome
+: 4 groupes à risque élevé de cancer colorectal:
+    - Antécédent personnel de cancer colorectal ou d'adénome
     - Antécédent familial de cancer colorectal ou d'adénome ≥ 10 mm chez 1 parent au 1<sup>er</sup> degré avant 65 ans ou chez ≥ 2 parents au 1<sup>er</sup> degré à tout âge
     - Maladie inflammatoire chronique de l'intestin  
       {{%class%}}Maladie de Crohn ou rectocolite hémorragique.{{%/class%}}
     - [Acromégalie]({{< relref "acromegalie.md" >}})
-    - Dépistage: surveillance gastro-entérologique et coloscopique
+: Dépistage: surveillance gastro-entérologique et coloscopique.
 
 Risque très élevé : prédisposition génétique au cancer colorectal
 :  - Polyposes adénomateuses familiales (PAF par mutation APC ou MYH)
@@ -121,11 +123,11 @@ Risque très élevé : prédisposition génétique au cancer colorectal
     - Dépistage: surveillance par chromocoloscopie et oncogénétique
 
 > *INCa 2020 test immunologique*  
-  Risque moyen (80% des cas - risque de CCR vie entière de 3 à 4%) | risque élevé (15% des cas - 4-10%) | risque très élevé (5% des cas - 40-100%)
+  Risque moyen (80% des cas et risque de CCR vie entière de 3 à 4%) ; Risque élevé (15% des cas et risque vie entière 4-10%) ; Risque très élevé (5% des cas et risque vie entière 40-100%)
 
 ### Critères devant faire suspecter un cancer colorectal héréditaire
 
-Indications à une consultation d'oncogénétique:
+Indications à une **consultation d'oncogénétique**:
 
 - 2 antécédents familiaux au 1<sup>er</sup> degré de cancer du spectre de Lynch (colorectal, endomètre, ovaire, intestin grêle, uretère) dont 1 avant 50 ans
 - Antécédent personnel de cancer du spectre de Lynch (colorectal, endomètre, ovaire, intestin grêle, uretère)
@@ -133,7 +135,7 @@ Indications à une consultation d'oncogénétique:
 - Phénotype MSI ou dMMR
 - Suspicion de PAF
 
-> *TNCD 2021*
+> *TNCD 2021*; TODO: à revoir
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -143,9 +145,9 @@ Indications à une consultation d'oncogénétique:
 ### Interrogatoire
 
 - Antécédents  
-  Dont MICI, adénome ou cancer colorectal, acromégalie et autres comorbidités
+  Dont MICI, adénome ou cancer colorectal, acromégalie et autres comorbidités.
 - Antécédents familiaux  
-  Avec l'âge de survenue pour: adénome ou cancer colorectal, polypose adénomateuse familiale, Lynch (cancer de l'endomètre, ovaire, intestin grêle, uretère)
+  Avec l'âge de survenue pour: adénome ou cancer colorectal, polypose adénomateuse familiale, Lynch (cancer de l'endomètre, ovaire, intestin grêle, uretère).
 - Alcool, tabac
 - Activité physique, consommation de viande rouge, fibres
 - Symptômes digestifs (voir encadré plus bas)
@@ -211,11 +213,12 @@ Facteurs de risque de cancer colorectal liés au mode de vie:
 
 ### Dépistage du cancer du côlon par le test immunologique fécal
 
-{{< card-link title="INCa - information des personnes pour le dépistage du cancer colorectal" url="https://www.e-cancer.fr/Comprendre-prevenir-depister/Se-faire-depister/Depistage-du-cancer-colorectal">}}
+{{%info%}}Indication au test immunologique fécal: personnes à risque modéré asymptomatiques sans coloscopie dans les 5 ans (ou coloscanner dans les 2 ans), à répéter tous les 2 ans de 50 à 74 ans
 
-{{%info%}}Indication au test immunologique fécal: personnes à risque modéré asymptomatiques sans coloscopie dans les 5 ans (ou coloscanner dans les 2 ans), à répéter tous les 2 ans de 50 à 74 ans{{%/info%}}
+Un test de dépistage positif impose une coloscopie dans les 31 jours.
+{{%/info%}}
 
-[La brochure d'info de l'INCa (PDF)](https://www.e-cancer.fr/content/download/320843/4600170/file/D%C3%A9pliant%20-%20D%C3%A9pistage%20du%20cancer%20colorectal%20-%20D%C3%A8s%2050%20ans,%20un%20test%20%C3%A0%20faire%20chez%20soi%20tous%20les%20deux%20ans.%20148x210.pdf)
+[La brochure d'info de l'INCa (PDF)](https://www.e-cancer.fr/content/download/320843/4600170/file/D%C3%A9pliant%20-%20D%C3%A9pistage%20du%20cancer%20colorectal%20-%20D%C3%A8s%2050%20ans,%20un%20test%20%C3%A0%20faire%20chez%20soi%20tous%20les%20deux%20ans.%20148x210.pdf) et le [site web d'info patient](https://www.e-cancer.fr/Comprendre-prevenir-depister/Se-faire-depister/Depistage-du-cancer-colorectal)
 
 #### Commander des kits de dépistage du cancer colorectal
 
@@ -227,11 +230,11 @@ Le kit du dépistage du cancer du côlon peut être remis par le médecin ou dé
   - Sans invitation, le patient contacte son [CRCDC (annuaire)](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Strategies-de-depistage/Centres-regionaux-de-coordination-des-depistages-des-cancers/)
 - En Ile-de-France, avec ou sans invitation par son pharmacien (*NeonetIDF*)
 
-#### Pour en savoir plus : les test immunologique fécal
+#### Pour en savoir plus : le test immunologique fécal (FIT)
 
 Le test immunologique fécal (TIF) remplace le test *Hemoccult®*. Il est performant (se 70%, spe 96-98%), fiable, gratuit et simple avec un seul prélèvement de selles tous les 2 ans. Le même rythme de suivi est préconisé par la [Commission Européenne](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562).
 
-4% des tests sont positifs, nécessitant une coloscopie de confirmation dans les 31 jours (*SFED 2019*).  
+**4% des tests sont positifs, nécessitant une coloscopie de confirmation dans les 31 jours** (*SFED 2019*).  
 En cas de TIF positif, la coloscopie découvre un cancer pour 8% et un adénome avancé chez 40% des sujets: << détecté tôt, un cancer colorectal peut se guérir dans 9 cas sur 10 >> (*INCa 2020*)
 
 **Critères d'exclusion** au test de dépistage: risque de CCR élevé ou très élevé (voir *[Niveaux de risque](#niveaux-de-risque-de-cancer-colorectal)*), symptômes évocateurs de CCR (voir *Clinique*), coloscopie totale dans les 5 ans, coloscanner seul ou coloscopie incomplète suivie de coloscanner dans les 2 ans.
