@@ -95,8 +95,8 @@ HUGO_ENABLEGITINFO = "false"
   status = 301
   force = true
 
-  [[redirects]]
-  from = "https://recomedicales.fr/?*"
+[[redirects]]
+  from = "https://recomedicales.fr/?ref*"
   to = "https://recomedicales.fr/"
   status = 301
   force = true
