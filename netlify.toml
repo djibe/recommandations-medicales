@@ -95,6 +95,12 @@ HUGO_ENABLEGITINFO = "false"
   status = 301
   force = true
 
+  [[redirects]]
+  from = "https://recomedicales.fr/?*"
+  to = "https://recomedicales.fr/"
+  status = 301
+  force = true
+
 [[redirects]]
   from = "/recommandations/papillomavirus/"
   to = "/recommandations/cancer-col-uterus/"
