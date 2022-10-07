@@ -1,1 +1,1 @@
-<figure aria-hidden="true" style="text-align: {{ if .Get "align" }}{{ .Get "align" }}{{ else }}center{{ end }}"><div class="mermaid">{{- .Inner | safeHTML }}</div>{{ if .Get "title" }}<figcaption><span class="font-weight-bold">Graphique.</span> {{ .Get "title" }}.</figcaption>{{end}}</figure>
+<figure aria-hidden="true" style="text-align: {{ if .Get "align" }}{{ .Get "align" }}{{ else }}center{{ end }}"><div class="mermaid">{{- .Inner | safeHTML }}</div>{{ if .Get "title" }}<figcaption><b>Graphique.</b> {{ .Get "title" }}.</figcaption>{{end}}</figure>

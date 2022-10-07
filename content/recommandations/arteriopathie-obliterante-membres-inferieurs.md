@@ -1,5 +1,5 @@
 +++
-title = "Artériopathie oblitérante des membres inférieurs"
+title = "Artériopathie oblitérante des membres inférieurs (AOMI)"
 prefix = "l'"
 titleSeo = "Artériopathie des membres inférieurs"
 description = "Recommandations pour le dépistage et le traitement de l'artériopathie oblitérante des membres inférieurs AOMI. Index de pression systolique, aspirine, statine"

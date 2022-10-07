@@ -1,12 +1,12 @@
 +++
 title = "Angine"
 prefix = "l'"
-description = "Recommandations pour le traitement de l'angine. Score de Mac Isaac, streptatest, indications à l'antibiothérapie et à l'amygdalectomie. Amoxicilline 6 jours ..."
+description = "Recommandations pour le traitement de l'angine. Score de Mac Isaac, test rapide du streptocoque, indications à l'antibiothérapie et à l'amygdalectomie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2022-04-11"
+lastmod = "2022-10-07"
 specialites = ["ORL"]
 annees = "2021"
 sources = ["HAS", "SPILF"]
@@ -14,15 +14,15 @@ tags = []
 anglais = ["Tonsilitis"]
 sctid = "90176007"
 image = true
-imageSrc = "Angine, photo de Fireflyez76 sur Foter.com / CC BY-ND"
+imageSrc = "Angine gauche, photo de Fireflyez76 sur Foter.com / CC BY-ND"
 flowchart = true
 todo = "Collège"
 +++
 
 {{%article-summary%}}
 
-- Toujours viral avant 3 ans
-- TDR de 3 à 14 ans et score de Mc Isaac au-delà
+- Une angine est toujours virale avant 3 ans
+- Test de diagnostic rapide (TDR) du streptocoque de 3 à 14 ans et score clinique de Mc Isaac au-delà
 - Le TDR peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si TROD angine positif, sous 7 jours calendaires >> (*[Arrêté du 13/12/21](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044483134)*)
 
 {{%/article-summary%}}
@@ -32,10 +32,10 @@ Angine
 : Infection amygdalienne aiguë palatine voire de l'ensemble du pharynx.  
 La majorité des infections est virale.
 : Le streptocoque β-hémolytique du groupe A (*SGA* ou *Streptococcus pyogenes*) est la 1<sup>re</sup> bactérie responsable des angines bactériennes avec un pic entre 4 et 15 ans.  
-Il est responsable de 25-40 % des angines de l'enfant, 10-25 % des angines de l'adulte.
+Il est responsable de 25 à 40% des angines de l'enfant, 10 à 25% des angines de l'adulte.
 
 TDR
-: *Test de Diagnostic Rapide* du SGA ou *Test de dépistage Rapide à Orientation Diagnostique* (TROD) de l'angine. Aussi appelé Streptatest®.
+: *Test de Diagnostic Rapide* du streptocoque (SGA) ou *Test de dépistage Rapide à Orientation Diagnostique* (TROD) de l'angine. Aussi appelé Streptatest®.
 
 ### Complications de l'angine
 
@@ -65,13 +65,13 @@ TDR
 
 Autres formes d'angine:
 
-- Vésiculeuse  
-Dite herpangine par coxsackie ou VZV.
-- Pseudomembraneuse  
-Mononucléose ou diphtérie.
-- Gonocoque
-- Anaérobies (ulcéreuse dite *de Vincent*)  
-Éliminer agranulocytose, hémopathie/cancer.
+- Angine vésiculeuse  
+  Dite herpangine par coxsackie ou VZV.
+- Angine pseudomembraneuse  
+  Mononucléose ou diphtérie.
+- Angine gonococcique
+- Anaérobies (angine ulcéreuse dite *angine de Vincent*)  
+  Éliminer agranulocytose, hémopathie/cancer.
 
 {{%info%}}Pour mieux visualiser les amygdales, demander à l'enfant de rugir comme un lion ou de bailler la bouche ouverte (*Pr Douglas Paauw*){{%/info%}}
 
@@ -86,19 +86,21 @@ Le TDR peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si T
 {{%collapse "Traitement de l'angine" %}}
 
 - Antalgique, antipyrétique  
-Paracétamol voire antalgique palier 2.
-- Pas d'AINS ni corticoïdes
+  Paracétamol voire antalgique palier 2.
+- Pas d'anti-inflammatoires (AINS) ni corticoïdes
 - La persistance de fièvre, dysphagie après 3 jours doit faire évoquer une infection intercurrente.
 - Scarlatine  
-Traitement identique avec éviction scolaire limitée à 48 heures.
+  Traitement identique avec éviction scolaire limitée à 48 heures.
 
-### Antibiothérapie
+### Angine et antibiothérapie
 
-Indication: angine chez les +3 ans avec TDR positif.
+Indication à une prise en charge de l'angine par antibiotique: angine chez les +3 ans avec TDR positif.
 
-#### Adulte
+#### Antibiothérapie de l'angine chez l'adulte
 
 {{% info %}}Amoxicilline 1 g matin et soir pendant 6 jours{{% /info %}}
+
+Antibiothérapies alternatives:
 
 - Allergie vraie à la pénicilline
   - C2G céfuroxime-axétil 250 mg x 2/j pendant 4 jours
@@ -109,9 +111,11 @@ Indication: angine chez les +3 ans avec TDR positif.
   - ou clarithromycine 250 mg x 2/j pendant 5 jours
   - ou josamycine 1 g x 2/j pendant 5 jours
 
-#### Enfant
+#### Antibiothérapie de l'angine chez l'enfant
 
 {{%info%}}Amoxicilline 50 mg/kg/j en 2 prises pendant 6 jours{{%/info%}}
+
+Antibiothérapies alternatives:
 
 - Allergie vraie à la pénicilline
   - C3G céfpodoxime 8 mg/kg/j en 2 prises (max 400 mg/j) 5 jours
@@ -122,7 +126,7 @@ Indication: angine chez les +3 ans avec TDR positif.
 {{% /collapse %}}
 {{%collapse "Amygdalectomie chez l'enfant" %}}
 
-Indications de l'amygdalectomie chez l'enfant:
+Indications à une amygdalectomie chez l'enfant:
 
 - Hypertrophie amygdalienne symptomatique (stades 3 et 4 de [Brodsky](https://www.dr-delagranda.com/amygdalectomie/), occupation de l'oropharynx ≥ 50%)  
   Symptômes: troubles respiratoires du sommeil, ralentissement staturo-pondéral, troubles de déglutition, difficultés de phonation, troubles du dev oro-facial, malocclusion dentaire.
@@ -139,7 +143,7 @@ Indications de l'amygdalectomie chez l'enfant:
   - Troubles de la phonation
   - Syndrome PFAPA
   - Glomérulonéphrite à IgA
-  - Angine aiguë dyspnéeisante
+  - Angine aiguë dyspnéisante
 
 > *SFORL 2020*
 
@@ -158,7 +162,7 @@ Rechercher:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une angine. Dr JB Fron d'après SPILF/HAS 2016" >}}
+{{< mermaid title="Prise en charge d'angine selon le tableau clinique. Dr JB Fron d'après SPILF/HAS 2016 et HAS 2021" >}}
 graph TB
   angine[Angine] --> moins3("&lt; 3 ans") --> viral(Viral)
   style angine stroke:#4150f5, stroke-width:1px
@@ -171,7 +175,6 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [SPILF, HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'adulte. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/fiche_memo_rhinopharyngite_angine_adulte_durees_antibiotherapies.pdf)
 - [SPILF, HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'enfant. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/fiche_memo_rhinopharyngite_angine_enfant_durees_antibiotherapies.pdf)
 - [Lescanne E. et al. Amygdalectomie de l'enfant Actualisation 2020 de la recommandation SFORL & CFC. 2020.](https://www.sforl.org/wp-content/uploads/2021/11/Recommandation-SFORL-Amygdalectomie_2021.pdf)
 - [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)

@@ -107,7 +107,7 @@ Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
 - InfluvacTetra®
 - VaxigripTetra®
 
-Campagne de vaccination: *dates à venir*.
+Campagne de vaccination: débute le 18 octobre 2022.
 
 Pas de délai (voire co-injection) entre les vaccins anti-grippaux et anti-covid19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
 

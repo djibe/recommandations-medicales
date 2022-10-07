@@ -6,7 +6,7 @@ synonyms = ["Cancer du côlon", "cancer du rectum"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
 publishdate = "2022-09-22"
-lastmod = "2022-10-05"
+lastmod = "2022-10-07"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2022"
 sources = ["SNFGE", "INCa", "HAS", "SFED"]
@@ -15,7 +15,7 @@ anglais = ["Colorectal cancer"]
 sctid = "781382000"
 image = true
 imageSrc = "Illustration du cancer colorectal. Blausen Medical Communications, Inc., CC BY 3.0, via Wikimedia Commons"
-todo = "suivi ATCD perso de CCR, revoir indication génétique, Lighthouse ergonomie, dépistage G8 gériatrie, Vaccination info service chimiothérapie"
+todo = "dépistage G8 gériatrie, Vaccination info service chimiothérapie"
 +++
 
 {{%article-summary%}}
@@ -28,7 +28,7 @@ todo = "suivi ATCD perso de CCR, revoir indication génétique, Lighthouse ergon
   - Très élevé: PAF, syndrome de Lynch
 - Symptômes persistants évocateurs de cancer du côlon ou du rectum: rectorragies/méléna, alternance diarrhée-constipation, douleur ou masse abdominale, syndrome rectal, AEG, anémie ferriprive.  
   Leur présence impose une consultation rapide de gastro-entérologie pour une coloscopie diagnostique.
-- Facteurs de risque de cancer colorectal: alcool, tabac, surpoids, viande rouge/charcuterie, fibres rares
+- Facteurs de risque de cancer colorectal: alcool, tabac, surpoids, alimentation riche en viande rouge et charcuterie et faible en fibres
 - Test de dépistage fécal: tous les 2 ans de 50 à 74 ans (à risque modéré asymptomatiques sans coloscopie dans les 5 ans). Commandes de kits sur Ameli Pro ou [monkit.depistage-colorectal.fr](https://monkit.depistage-colorectal.fr/#/invitation)
 
 {{%/article-summary%}}
@@ -130,12 +130,12 @@ Risque très élevé : prédisposition génétique au cancer colorectal
 Indications à une **consultation d'oncogénétique**:
 
 - 2 antécédents familiaux au 1<sup>er</sup> degré de cancer du spectre de Lynch (colorectal, endomètre, ovaire, intestin grêle, uretère) dont 1 avant 50 ans
-- Antécédent personnel de cancer du spectre de Lynch (colorectal, endomètre, ovaire, intestin grêle, uretère)
+- Antécédent personnel de cancer du spectre de Lynch surajouté (endomètre, ovaire, intestin grêle, uretère)
 - Cancer colorectal avant 40 ans
 - Phénotype MSI ou dMMR
 - Suspicion de PAF
 
-> *TNCD 2021*; TODO: à revoir
+> *TNCD 2021*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -259,7 +259,7 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 | Antécédent personnel d'adénome<br>(SFED 2021) | Après résection | <strong>Risque élevé:</strong><br>- ≥ 5 adénomes<br>- 1 adénome ≥ 10 mm ou en DHG<br>- ≥ 1 PF | Coloscopie à 3 ans |
 | | | <strong>Risque faible:</strong><br>1-2 adénome < 10 mm en DBG | Cs de prévention à 5 ans<br>+ coloscopie sous 7-10 ans<br>ou reprise FIT à 5 ans |
 | | | <strong>Risque faible:</strong><br>3-4 adénomes < 10 mm en DBG<br>PF < 10 mm sans dysplasie | Coloscopie à 5 ans |
-| Antécédent personnel de CCR | Après résection |  | Coloscopie à 1 an<br>(sous 6 mois si incomplète)<br>puis intervalle de 3 ans<bR>et encore 5 ans |
+| Antécédent personnel de CCR<br>sporadique (SFED 2021) | Après résection |  | Coloscopie à 1 an<br>(sous 6 mois si incomplète)<br>puis intervalle de 3 ans<br>et encore 5 ans (selon polypes) |
 | Antécédent familial 1<sup>er</sup> degré de CCR<br>ou d'adénome avancé > 10 mm | À partir de 45 ans<br>ou 10 ans avant l'âge<br>de diagnostic du<br>cas index |  | Coloscopie tous les 5 ans |
 | MICI | 6-8 ans après le début<br>des symptômes | <strong>Risque élevé:</strong><br>CSP, ATCD de dysplasie, forme étendue<br>sur +50% du côlon, persistance inflammatoire,<br>ATCD familiaux CCR, nb pseudo-polypes,<br>sténose colique | Chromoendoscopie tous les 1-2 ans |
 | | | <strong>Risque intermédiaire:</strong><br>RCH étendue en dessous de l'angle gauche,<br>MC colique étendue sur 30-50% | Tous les 3-4 ans |

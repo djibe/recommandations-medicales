@@ -17,13 +17,13 @@ sctid = "37796009"
 flowchart = true
 image = true
 imageSrc = "Illustration de la migraine par stories / Freepik"
-todo = "titration Propranolol et topiramate, recouper THM, EHF, https://ansm.sante.fr/actualites/topiramate-pregabaline-et-valproate-publication-de-nouvelles-donnees-sur-les-risques-lies-a-lexposition-a-ces-medicaments, https://play.google.com/store/apps/details?id=ai.vik.migraine&hl=fr"
+todo = "titration Propranolol, recouper THM, EHF, https://play.google.com/store/apps/details?id=ai.vik.migraine&hl=fr"
 +++
 
 {{%article-summary%}}
 
-- Triade: évolution chronique par crises récurrentes avec intervalle libre + crises stéréotypées + examen clinique normal
-- Contre-indication: migraine + pilule + tabac. Impacte le choix de la [contraception]({{< relref "contraception.md" >}})
+- Triade migraineuse: évolution chronique par crises récurrentes avec intervalle libre + crises migraineuses stéréotypées + examen clinique normal
+- Contre-indication à l'association: migraine + pilule + tabac. Impacte le choix de la [contraception]({{< relref "contraception.md" >}})
 - Suivi à chaque consultation de l'[Agenda migraineux](https://www.sfemc.fr/images/docs_SFEMC/docs_PATIENTS/patients-AGENDA-DE-LA-MIGRAINE-def.pdf)
 - Traitement de la crise
   - Réévalué après 3 crises ({{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}})
@@ -397,8 +397,8 @@ Prise en charge par traitement de fond au moins 3 mois avant de conclure à une 
   - [Métoprolol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62837759&typedoc=R) LP 50-200 mg le matin
   - Alternatives aux bêtabloquants: amitriptyline, candésartan ou topiramate
 - Migraine chronique {{%class%}}(≥ 15 j/mois){{%/class%}}
-  - [Topiramate](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67515484&typedoc=R) 50-200 mg en 1-2 prises  
-    Débuter à 25 mg le soir. Paliers de 25 mg par semaine.
+  - Topiramate 50-200 mg en 1-2 prises  
+    Prescription réservée au neurologue/pédiatre chez la fille et femme en âge de procréer (*ANSM 2022*)
 
 {{%/info%}}
 
@@ -544,6 +544,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [ANSM. Médicaments contenant du topiramate (Epitomax et génériques) : modification des conditions de prescription et de délivrance. 06/10/2022.](https://ansm.sante.fr/informations-de-securite/medicaments-contenant-du-topiramate-epitomax-et-generiques-modification-des-conditions-de-prescription-et-de-delivrance)
 - [Demarquay G. et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 1: Diagnosis and assessment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.001)
 - [Ducros A. et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 2: Pharmalogical treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.006)
 - [Demarquay G. et al. Revised guidelines of the French headache society for the diagnosis and management of migraine in adults. Part 3: Non-pharmacological treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.009)

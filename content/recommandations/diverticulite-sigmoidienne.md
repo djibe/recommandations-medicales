@@ -2,7 +2,7 @@
 title = "Diverticulite sigmoïdienne aiguë"
 prefix = "la "
 titleSeo = "Diverticulite sigmoidienne"
-description = "Recommandations pour la prise en charge de la diverticulite sigmoïdienne. Bilan avec CRP, scanner abdomino-pelvien, pas d'antibiotique en crise non compliquée"
+description = "Recommandations pour la prise en charge de la diverticulite sigmoidienne ex sigmoidite. Bilan avec CRP, scanner abdomino-pelvien, pas d'antibiotique en crise .."
 synonyms = ["Sigmoïdite diverticulaire, diverticulite colique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-09T11:33:00+02:00"
@@ -22,7 +22,7 @@ imageSrc = "Images endoscopiques de diverticules par Anpol42, CC BY-SA 4.0, via 
 {{%article-summary%}}
 
 - La diverticulose colique est asymptomatique dans 80% des cas
-- Scanner abdomino-pelvien systématique pour le diagnostic d'une première poussée de diverticulite sigmoïdienne aiguë
+- Première poussée de diverticulite sigmoïdienne aiguë: diagnostic systématique par scanner abdomino-pelvien
 - Pas d'antibiotiques si crise de diverticulite non compliquée, sans gravité et sans grossesse durant les 48 premières heures
 - Chirurgie prophylactique des diverticules en cas de comorbidités:  
   {{%class "text-black-secondary" %}}Immunodépression, insuffisance rénale, altération qualité de vie, fistule, abcès, sténose symptomatique.{{%/class%}}
@@ -31,6 +31,7 @@ imageSrc = "Images endoscopiques de diverticules par Anpol42, CC BY-SA 4.0, via 
 {{%collapse "Définitions" %}}
 
 Diverticulite sigmoïdienne aiguë
+: *ex* sigmoïdite diverticulaire
 : Inflammation infectieuse colique d'origine diverticulaire survenant le plus souvent entre 50 et 70 ans.
 : Facteurs de risque de diverticulite: âge, hérédité, obésité.  
 30% de récidives à 5 ans. 16 à 35% se compliquent d'abcès.
@@ -42,7 +43,7 @@ Elle est asymptomatique dans 80% des cas.
 {{% /collapse %}}
 {{%collapse "Complications" %}}
 
-Les complications des poussées de diverticulite sigmoïdienne surviennent principalement à la première poussée.  
+Les complications des poussées de diverticulite sigmoïdienne (ex sigmoïdite diverticulaire) surviennent principalement à la première poussée.  
 Le traitement de la **diverticulite compliquée** est urgent et spécialisé:
 
 - Abcès
@@ -183,6 +184,8 @@ graph TB
 - [Rouillon JM. Prise en charge de la diverticulite sigmoïdienne. SNFGE. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/prise_en_charge_de_la_diverticulite.pdf)
 - Prescrire Rédaction. Diverticulite aiguë du côlon. Novembre 2018.
 - [HAS. Prise en charge médicale et chirurgicale de la diverticulite colique. Novembre 2017.](https://www.has-sante.fr/jcms/c_2806798/fr/prise-en-charge-medicale-et-chirurgicale-de-la-diverticulite-colique)
+
+Mots-clé: sigmoidite
 
 {{%/sources%}}
 {{% modal title="Score ASA" id="modal-score-asa"%}}
