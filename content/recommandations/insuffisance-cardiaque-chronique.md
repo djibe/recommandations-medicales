@@ -18,7 +18,7 @@ sctid = "48447003"
 flowchart = true
 image = true
 imageSrc = "Illustration de l'insuffisance cardiaque par vectorjuice / Freepik"
-todo = "SGLT2 pour tous les types ?, sup. Table 4 MRA+5Sacu+7Diur, depression Beck"
+todo = "sup. Table 4 MRA+5Sacu+7Diur, depression Beck"
 +++
 
 {{%article-summary%}}
