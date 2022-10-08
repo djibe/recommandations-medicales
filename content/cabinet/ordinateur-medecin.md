@@ -61,6 +61,8 @@ Modèles approuvés par *UFC Que Choisir 2021*:
 - Acer Aspire C27-1655 - 1300 €
 {.list-group}
 
+Ou configurez votre [PC tout en 1 chez PCSpecialist](https://www.pcspecialist.fr/ordinateurs-tout-en-un/) (4,5/5 selon 01Net).
+
 {{% /collapse %}}
 {{%collapse "La configuration proposée pour travailler efficacement" "show" %}}
 

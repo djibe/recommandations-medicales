@@ -17,14 +17,16 @@
 
 <!-- Title Tags 70 ch -->
 {{ $metaTitle := "" }}
+{{ $year := "" }}
+{{ if ge .Params.Annees (sub now.Year 2) }}{{ $year = .Params.Annees }}{{ end }}
 {{ if .IsHome }}
   {{ $metaTitle = (printf "Dernières recommandations médicales pour le généraliste | RecoMédicales" ) }}
 {{ else if and (eq .Section "recommandations") (.Params.TitleSeo) }}
-  {{ $metaTitle = ( printf "%s %s %s %s" "Recommandations" .Params.TitleSeo .Params.Annees "| RecoMédicales" ) }}
+  {{ $metaTitle = ( printf "%s %s %s %s" "Recommandations" .Params.TitleSeo $year "| RecoMédicales" ) }}
 {{ else if .Params.TitleSeo }}
   {{ $metaTitle = ( printf "%s %s" .Params.TitleSeo "| RecoMédicales" ) }}
 {{ else if and (eq .Section "recommandations") (eq .Kind "page") }}
-  {{ $metaTitle = ( printf "%s %s%s %s %s" "Recommandations sur" (.Params.prefix | safeHTML ) .Title .Params.Annees "| RecoMédicales" ) }}
+  {{ $metaTitle = ( printf "%s %s%s %s %s" "Recommandations sur" (.Params.prefix | safeHTML ) .Title $year "| RecoMédicales" ) }}
 {{ else }}
   {{ $metaTitle = ( printf "%s %s" .Title "| RecoMédicales" ) }}
 {{ end }}

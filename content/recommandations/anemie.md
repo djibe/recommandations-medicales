@@ -11,7 +11,7 @@ lastmod = "2021-11-17"
 specialites = ["hematologie"]
 annees = "2021"
 sources = ["BSG", "SNFGE"]
-tags = ["AINS", "depistage", "fatigue", "ferritine", "vertige"]
+tags = ["AINS", "depistage", "EOGD", "fatigue", "ferritine", "vertige"]
 anglais = ["Iron deficiency anemia"]
 sctid = "87522002"
 flowchart = true
@@ -22,11 +22,11 @@ todo = "red flags NICE 23-24-184, Prescrire, risque K src 11-25-63, indication t
 
 {{%article-summary%}}
 
-- Anémie = Hb < 12 g/dL femme et < 13 homme  
-  Correction si tabagisme ou altitude.
-- Carence martiale = Ferritinémie < 45 ng/mL
-- Bilan étiologique: BU/ECBU, maladie cœliaque, examen gynécologique
-- EOGD et coloscopie si homme ou femme > 50 ans, ménopausée/sans menstruations, risque élevé de [cancer colorectal]({{< relref "cancer-colorectal.md" >}}), sévérité inexpliquée
+- Définition de l'anémie: hémoglobine < 12 g/dL chez la femme et < 13 chez l'homme  
+  Correction des valeurs selon tabagisme et altitude.
+- Carence martiale = [Ferritinémie](/tags/ferritine/) < 45 ng/mL
+- Bilan étiologique d'une anémie: examen gynécologique, BU/ECBU, sérologie cœliaque
+- [Fibroscopie](/tags/eogd/) et coloscopie si homme ou femme +50 ans, ménopausée/sans menstruations, [risque élevé de cancer colorectal]({{< relref "cancer-colorectal.md" >}}), sévérité inexpliquée
 - Supplémentation: 50-100 mg de fer élément à jeun pendant 3 mois
 - Surveillance trimestrielle de la NFS pendant 1 an
 
@@ -96,13 +96,16 @@ Une cause digestive haute et basse est retrouvée dans 1-10% des cas (sujet âg�
 - Thalassémie
 - Autres
   - Déficit en vitamine B6
-  - Saturnisme
+  - [Saturnisme]({{< relref "saturnisme.md" >}})
   - Syndrome myélodysplasique
 
 ### Abréviations
 
 ACM
 : anémie par carence martiale ({{%lang%}}Iron deficiency anaemia - IDA{{%/lang%}})
+
+BSG
+: {{%lang%}}British Society of Gastroenterology{{%/lang%}}
 
 CM
 : carence martiale

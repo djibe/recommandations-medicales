@@ -7,7 +7,7 @@ synonyms = ["Hyperuricémie", "arthropathie uricémique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-08T09:35:00+02:00"
 publishdate = "2021-01-08"
-lastmod = "2022-01-10"
+lastmod = "2022-10-07"
 specialites = ["rhumatologie"]
 annees = "2020"
 sources = ["SFRhumato", "ACR", "EULAR"]
@@ -18,40 +18,40 @@ image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "relecture demandée, HAS, https://www.ebmfrance.net/fr/Pages/ebm/ebm00451.aspx"
+todo = "relecture demandée, HAS"
 +++
 
 {{%article-summary%}}
 
-- Traitement de la crise  
-  Glaçage, paracétamol, naproxène, forcer la diurèse.  
-  Privilégier l'infiltration en monoarthrite de grosse articulation.
-- Traitement de fond  
-  Allopurinol titration en débutant ≤ 100 mg/j avec uricémie cible < 50 mg/L et couverture colchicine 0,5-1 mg/j 3-6 mois.  
-  Peut être débuté pendant la crise.
-- Régime  
-  Perte poids, arrêt bière, réduire alcool/sodas/jus, viandes/abats, crustacés, laits maigres, substituer diurétique.
-- Contrôle des facteurs de [risque cardiovasculaire](/tags/risque-cardiovasculaire/)
-- Éducation thérapeutique et observance +++
+- Traitement de la crise de goutte
+  - Glaçage, paracétamol, naproxène/corticoïdes ou colchicine, forcer la diurèse
+  - Privilégier l'infiltration en monoarthrite de grosse articulation
+- Traitement de fond de la goutte
+  - Allopurinol: titration en débutant ≤ 100 mg/j avec uricémie cible < 50 mg/L et couverture colchicine 0,5 à 1 mg/j pendant les 3 à 6 premiers mois
+  - Peut être débuté pendant la crise
+- Régime pauvre en purines  
+  Perte de poids, arrêt de la bière, réduire: alcool/sodas/jus, viandes/abats, crustacés, laits maigres, substituer un diurétique.
+- Contrôle des [facteurs de risque cardiovasculaire](/tags/risque-cardiovasculaire/)
+- Éducation thérapeutique et observance ++
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Goutte
 : Rhumatisme inflammatoire le plus fréquent dans le monde, surtout chez l'homme âgé. Elle est la conséquence d'une *hyperuricémie chronique* avec dépôts articulaires de cristaux d'acide urique.
-: Famille des *arthropathies microcristallines* par dépôts de cristaux d'**urate de sodium** (monosodique dit **UMS**) dans les articulations. Ces derniers provoquent des arthrites aiguës (souvent monoarthrite fixes), récidivantes et de résolution spontanée.  
-Prévalence de 0,9 à 2,5% selon les pays, en augmentation.
-: **Complications:** tophus, arthropathies uratiques, colique néphrétique, lithiases uriques radiotransparentes, néphropathie goutteuse.
-: **Diagnostic différentiel:** chondrocalcinose articulaire, arthrite infectieuse, rhumatisme psoriasique, poussée d'arthrose, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}).
+: La goutte appartient à la famille des *arthropathies microcristallines* par dépôts de cristaux d'**urate de sodium** (monosodique dit **UMS**) dans les articulations. Ces derniers provoquent des arthrites aiguës (souvent monoarthrite fixes), récidivantes et de résolution spontanée.  
+Sa prévalence est de 0,9 à 2,5% selon les pays, en augmentation.
+: **Complications de la goutte:** tophus, arthropathies uratiques, colique néphrétique, lithiases uriques radiotransparentes, néphropathie goutteuse.
+: **Diagnostic différentiel d'une arthrite goutteuse:** chondrocalcinose articulaire, arthrite infectieuse, rhumatisme psoriasique, poussée d'arthrose, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}).
 
 Tophus
 : Dépôt tissulaire de cristaux d'acide urique entouré de cellules inflammatoires lors de chronicité de la maladie.  
-Localisés autour des articulations atteintes par la goutte et préférentiellement oreille (pavillon et hélix), bursite olécrânienne, tendon d'Achille et patellaire, inter-phalangienne distale ou pulpe digitale.
+Les tophi sont localisés autour des articulations atteintes par la goutte et préférentiellement oreille (pavillon et hélix), bursite olécrânienne, tendon d'Achille et patellaire, inter-phalangienne distale ou pulpe digitale.
 
 Allopurinol
 : Médicament hypo-uricémiant utilisé trop largement.  
-Il est la 1<sup>re</sup> de cause survenue de toxidermies bulleuses graves en Europe.  
-La **mortalité** est de 20-30% et 60% de ces accidents sous *allopurinol* surviennent chez des patients qui n'ont aucune indication au traitement.
+Il est la première cause survenue de **toxidermies bulleuses** graves en Europe.  
+La **mortalité** est de 20-30% et 60% de ces accidents sous allopurinol surviennent chez des patients qui n'ont aucune indication au traitement.
 
 ### Abréviations
 

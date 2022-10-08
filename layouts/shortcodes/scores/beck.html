@@ -1,14 +1,18 @@
 <div class="mt-4" id="score-beck">
-  <h3>Questionnaire abrégé de Beck (<abbr title="Beck depressive inventory" lang="en">BDI-13</abbr>) pour le dépistage d'une dépression en 13 questions</h3>
+  <p>Questionnaire abrégé de Beck (<abbr title="Beck depressive inventory" lang="en">BDI-13</abbr>) pour le dépistage d'une dépression en 13 questions.</p>
   <p>Ce questionnaire comporte 13 séries de quatre propositions. Pour chaque série, lisez les quatre propositions,
     puis choisissez celle qui décrit le mieux votre état actuel de ces deux dernières semaines.
     Entourez le numéro qui correspond à la proposition choisie</p>
   <fieldset>
     <legend>A.</legend>
-    <input type="radio" id="beck-11" name="radio-beck-1" class="d-input-none" value="0" required>
-    <label for="beck-11" class="chip chip-action chip-sm chip-choice">Je ne me sens pas triste</label>
-    <input type="radio" id="beck-12" name="radio-beck-1" class="d-input-none" value="1">
-    <label for="beck-12" class="chip chip-action chip-sm chip-choice">Je me sens cafardeux ou triste</label>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-11" name="radio-beck-1" class="custom-control-input" value="0" required>
+      <label for="beck-11" class="custom-control-label">Je ne me sens pas triste</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-12" name="radio-beck-1" class="custom-control-input" value="1">
+      <label for="beck-12" class="custom-control-label">Je me sens cafardeux ou triste</label>
+    </div>
     <input type="radio" id="beck-13" name="radio-beck-1" class="d-input-none" value="2">
     <label for="beck-13" class="chip chip-action chip-sm chip-choice">Je me sens tout le temps cafardeux ou triste, et je n'arrive pas à en sortir</label>
     <input type="radio" id="beck-14" name="radio-beck-1" class="d-input-none" value="3">
@@ -68,6 +72,28 @@
     <label for="beck-63" class="chip chip-action chip-sm chip-choice">Je me dégoûte moi-même</label>
     <input type="radio" id="beck-64" name="radio-beck-6" class="d-input-none" value="3">
     <label for="beck-64" class="chip chip-action chip-sm chip-choice">Je me hais</label>
+  </fieldset>
+  <fieldset>
+    <legend>G.</legend>
+    <input type="radio" id="beck-71" name="radio-beck-7" class="d-input-none" value="0" required>
+    <label for="beck-71" class="chip chip-action chip-sm chip-choice">Je ne pense pas à me faire du mal</label>
+    <input type="radio" id="beck-72" name="radio-beck-7" class="d-input-none" value="1">
+    <label for="beck-72" class="chip chip-action chip-sm chip-choice">Je pense que la mort me libérerait</label>
+    <input type="radio" id="beck-73" name="radio-beck-7" class="d-input-none" value="2">
+    <label for="beck-73" class="chip chip-action chip-sm chip-choice">J’ai des plans précis pour me suicider</label>
+    <input type="radio" id="beck-74" name="radio-beck-7" class="d-input-none" value="3">
+    <label for="beck-74" class="chip chip-action chip-sm chip-choice">Si je le pouvais, je me tuerais</label>
+  </fieldset>
+  <fieldset>
+    <legend>G.</legend>
+    <input type="radio" id="beck-71" name="radio-beck-7" class="d-input-none" value="0" required>
+    <label for="beck-71" class="chip chip-action chip-sm chip-choice">Je ne pense pas à me faire du mal</label>
+    <input type="radio" id="beck-72" name="radio-beck-7" class="d-input-none" value="1">
+    <label for="beck-72" class="chip chip-action chip-sm chip-choice">Je pense que la mort me libérerait</label>
+    <input type="radio" id="beck-73" name="radio-beck-7" class="d-input-none" value="2">
+    <label for="beck-73" class="chip chip-action chip-sm chip-choice">J’ai des plans précis pour me suicider</label>
+    <input type="radio" id="beck-74" name="radio-beck-7" class="d-input-none" value="3">
+    <label for="beck-74" class="chip chip-action chip-sm chip-choice">Si je le pouvais, je me tuerais</label>
   </fieldset>
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center">

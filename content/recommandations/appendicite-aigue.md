@@ -15,7 +15,7 @@ anglais = ["Acute appendicitis"]
 sctid = "85189001"
 image = false
 imageSrc = ""
-todo = "FLOW, https://www.sciencedirect.com/science/article/pii/B9782294759710000298, relecture leon.maggiori@aphp"
+todo = "flowchart, https://www.sciencedirect.com/science/article/pii/B9782294759710000298, relecture leon.maggiori@aphp"
 +++
 
 {{%article-summary%}}
@@ -49,6 +49,9 @@ FID
 
 MICI
 : maladie inflammatoire chronique de l'intestin
+
+SFCD
+: Société française de chirurgie digestive
 
 SFU
 : signes fonctionnels urinaires

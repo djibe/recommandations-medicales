@@ -1,7 +1,7 @@
 +++
 title = "Antivitamines K (AVK)"
 prefix = "les "
-titleSeo = "Antivitamines K AVK"
+titleSeo = "Antivitamines K (AVK)"
 noindex = true
 description = "Recommandations pour le traitement par AVK. Conduite à tenir et prise en charge d'un surdosage selon l'INR, arrêt des anticoagulants avant chirurgie, éducation"
 synonyms = []

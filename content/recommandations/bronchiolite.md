@@ -18,7 +18,7 @@ sctid = "4120002"
 flowchart = true
 image = false
 imageSrc = ""
-todo = "avis CT, FC + SpO2 selon l'âge, relecture, https://afpa.org/outil/normes-cardiorespiratoires-utiles/, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
+todo = "SEO, avis CT, FC + SpO2 selon l'âge, relecture, https://afpa.org/outil/normes-cardiorespiratoires-utiles/, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
 +++
 
 {{%article-summary%}}
