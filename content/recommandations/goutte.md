@@ -7,7 +7,7 @@ synonyms = ["Hyperuricémie", "arthropathie uricémique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-08T09:35:00+02:00"
 publishdate = "2021-01-08"
-lastmod = "2022-10-07"
+lastmod = "2022-10-09"
 specialites = ["rhumatologie"]
 annees = "2020"
 sources = ["SFRhumato", "ACR", "EULAR"]
@@ -18,7 +18,7 @@ image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "relecture demandée, HAS"
+todo = "relecture, HAS"
 +++
 
 {{%article-summary%}}
@@ -94,14 +94,15 @@ Signes et symptômes de la crise de goutte.
 - Poids, taille, IMC
 - Articulations, déformations
 - Tophi
-- Examen cardiovasculaire (pression artérielle, pouls périphériques)
+- Examen cardiovasculaire (pression artérielle, pouls périphériques)  
+  Calcul du risque cardiovasculaire.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 ### Bilan devant une crise de goutte
 
-Le bilan étaie les facteurs de risque cardiovasculaire.
+Le bilan étaie les facteurs de risque cardiovasculaire:
 
 - Créatininémie et DFGe CKD-EPI
 - Uricémie
@@ -116,7 +117,7 @@ Radiographies des articulations atteintes au diagnostic pour le diagnostic diff�
 
 ### Échographie articulaire
 
-Peut être utile pour affirmer le diagnostic et étayer le diagnostic différentiel.
+L'échographie peut être utile pour affirmer le diagnostic et étayer le diagnostic différentiel.
 
 {{% /collapse %}}
 {{%collapse "Mesures hygiéno-diététiques" %}}
@@ -156,27 +157,28 @@ Losartan, fénofibrate, atorvastatine, amlodipine.
 {{% /collapse %}}
 {{%collapse "Traitement de la crise de goutte" %}}
 
-Le plus précoce possible (< 12 heures), dès les prodromes (auto-médication adaptée aux comorbidités).  
+La prise en charge par traitement de crise doit être la plus précoce possible (< 12 heures), dès les prodromes (auto-médication adaptée aux comorbidités).  
 Traitement adapté à la tolérance et à l'efficacité passée.
 
 Recommandations pour la prise en charge de la crise de goutte:
 
 - Repos au lit avec immobilisation de l'articulation
 - Glaçage de l'articulation  
-3 fois par jour pendant 10-15 minutes x 3/j (avec protection cutanée).
+  3 fois par jour pendant 10-15 minutes x 3/j (avec protection cutanée).
 - Paracétamol pleine dose
 - Hydratation  
-Force la diurèse à 2-3 L/jour.
+  Forcer la diurèse à 2-3 L/jour.
 - Régime hypocalorique (< 2000 kcal/j) et hypo-uricémiant
-- **AINS**  
+- Colchicine, AINS et corticoïdes en première ligne
   - À prendre dès le début des symptômes, uniquement le temps de la poussée
-  - {{%info-span%}}Naproxène 750 mg puis 250 mg x 3/j (max 7j){{%/info-span%}}
-  - Ne pas utiliser si maladie cardiovasculaire grave ou insuffisance rénale
-- Envisager un traitement de fond
+  - {{%info-span%}}ex. Naproxène 750 mg puis 250 mg x 3/j (max 7 jours){{%/info-span%}} (sauf maladie cardiovasculaire)
+  - Pour colchicine et corticoïdes, voir plus bas
+- Envisager un traitement de fond (voir chapitre suivant)
 
 ### Colchicine
 
-Indication: en deuxième intention selon *Prescrire®* (à la place des AINS).
+Indication à la colchicine: traitement symptomatique de première ligne. (*SFR 2020*)  
+En deuxième intention selon *Prescrire®* (à la place des AINS).
 
 {{%info%}}
 [Colchicine 1 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68066715&typedoc=R) per os avec 2<sup>e</sup> prise de 0,5 mg 1 heure après.  
@@ -187,7 +189,7 @@ Puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours
 - Débuter si crise datant < 12 heures (à avoir toujours sur soi)
 - Diminuer la dose chez l'insuffisant rénal et le sujet âgé
 - Adapter la posologie avec certains traitements  
-[Vérifier les interactions avec la colchicine](https://go.drugbank.com/drugs/DB01394).
+  [Vérifier les interactions avec la colchicine](https://go.drugbank.com/drugs/DB01394).
 - Attention à l'association avec les statines (neuro et musculo-toxicité)
 - Contre-indiquée si insuffisance rénale sévère, ciclosporine, clarithromycine, vérapamil, kétoconazole
 
@@ -195,7 +197,8 @@ Puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours
 
 ### Corticoïdes per os
 
-Indication: en troisième intention, en remplacement des AINS et de la colchicine.
+Indications à la corticothérapie: traitement symptomatique de première ligne. (*SFR 2020*)  
+En troisième intention selon *Prescrire®*, en remplacement des AINS et de la colchicine.
 
 {{%info%}}[Prednisone 20 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64793934&typedoc=R) 1,5 cp x 1/j pendant 3-5 jours{{%/info%}}
   
@@ -210,7 +213,7 @@ Contre-indication formelle si sepsis, intérêt pour confirmation diagnostique.
 
 ### Inhibiteur IL-1
 
-**Prescription initiale réservée au spécialiste** (dermatologue, interniste, rhumatologue).
+**Prescription initiale d'inhibiteur IL-1 réservée au spécialiste** (dermatologue, interniste, rhumatologue).
 
 Traitement de dernier ressort en cas de:
 
@@ -235,9 +238,9 @@ ou recommandé pour certains patients ayant déjà eu ≥ 1 crise mais non fréq
 ou recommandé si DFG < 60, uricémie ≥ 90 mg/L ou lithiase urique.
 {{%/info%}}
 
-**Objectif:** Prévenir les crises douloureuses et les complications par la dissolution des cristaux d'urate de sodium en maintenant l'uricémie < 60 mg/L (360 µmol/L) au long cours avec cible **< 50 mg/L** (300 µmol/L).  
+**Objectif du traitement de fond:** Prévenir les crises douloureuses et les complications par la dissolution des cristaux d'urate de sodium en maintenant l'uricémie < 60 mg/L (360 µmol/L) au long cours avec cible **< 50 mg/L** (300 µmol/L).  
 Contrôle de l'**uricémie 1-2/an**.  
-Ne pas descendre sous les **30 mg/L** au long cours car probable rôle neuroprotecteur de l'acide urique.
+Ne pas descendre l'uricémie sous **30 mg/L** au long cours car l'acide urique a un probable rôle neuroprotecteur.
 
 ### Mise en route du traitement de fond
 
@@ -250,11 +253,11 @@ L'allopurinol est le traitement de référence mais nécessite une titration pou
 [Allopurinol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68320252&typedoc=R) 50-100 mg/j, paliers de 50-100 mg /2-4 semaines jusqu'à l'objectif uricémique (< 50 mg/L, max 900 mg/j) puis au long cours.  
 Peut être débuté pendant la crise de goutte.
 
-Prévention de crise par colchicine 0,5-1 mg/j pendant 3-6 premiers mois (alternatives: AINS, prednisone).
+Prévention de crise par colchicine 0,5 à 1 mg/j pendant les 3 à 6 premiers mois (alternatives: AINS, prednisone).
 {{%/info%}}
 
-L'*ACR* recommande la recherche *HLA–B*5801* pour les personnes originaires d'Asie du Sud-Est (Chine, Thaïlande, Corée) et afro-américains par sur-risque de toxidermie (x3).  
-Non remboursé, il est prudent de démarrer à 50 mg avec paliers de 50 mg pour ces personnes.
+L'*ACR* recommande la recherche *HLA–B*5801* pour les **personnes originaires d'Asie du Sud-Est** (Chine, Thaïlande, Corée) et **afro-américains** par sur-risque de toxidermie (x3).  
+La recherche d'HLA n'étant pas remboursée, il est prudent de démarrer à 50 mg avec paliers de 50 mg pour ces personnes.
 
 #### Traitement de fond privilégié selon la fonction rénale
 
@@ -383,7 +386,7 @@ Uricémie cible < 50 mg/L (300 µmol/L)
 - Éviter les gros repas
 - Éviter les excès en viandes, abats et crustacés (riches en purines)
 - Encourager les produits quotidiens pauvres en graisses, le lait écrémé et les yaourts faibles en calories.  
-Le lait est uricosurique.
+  Le lait est uricosurique.
 - Importance de la perte de poids et d'une activité physique quotidienne
 - Différence entre le traitement de la douleur aiguë et celui de la maladie métabolique
 - Explication du bon usage des AINS ou de la colchicine
