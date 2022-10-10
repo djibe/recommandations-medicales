@@ -52,7 +52,7 @@
     "htmllint-cli": "0.0.7",
     "linkinator": "^4.0.3",
     "node-sass": "^6.0.1",
-    "vnu-jar": "^21.10.12"
+    "vnu-jar": "^22.9.29"
   },
   "dependencies": {
     "autoprefixer": "^10.4.7",

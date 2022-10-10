@@ -519,6 +519,7 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 
 ### À lire
 
+- [Inserm. Asthme : Portraits-robots des personnes à risque. 10/10/2022.](https://www.inserm.fr/actualite/asthme-portraits-robots-des-personnes-a-risque/)
 - [Collège des Enseignants de Pneumologie (CEP). Hypersensibilités et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_188_ASTHME-RHINITE_2021_ex_item_1841.pdf)
 - [Louis R. et al. European Respiratory Society Guidelines for the Diagnosis of Asthma in Adults. European Respiratory Journal. 2022.](https://erj.ersjournals.com/content/early/2022/02/03/13993003.01585-2021?ct)
 - [Raherison-Semjen C. et al. Mise à jour des recommandations (2021) pour la prise en charge et le suivi des patients asthmatiques adultes sous l'égide de la Société de pneumologie de langue française (SPLF) et de la Société pédiatrique de pneumologie et allergologie (SP2A). Version longue. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/recos-asthme-adultes-2021-version-longue.pdf)
