@@ -6,7 +6,7 @@ description = "Quels périphériques pour le PC du médecin ? Conseils sur les �
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T19:15:00+02:00"
 publishdate = "2022-05-15"
-lastmod = "2022-09-23"
+lastmod = "2022-10-10"
 specialites = []
 sources = []
 tags = []
@@ -117,6 +117,7 @@ Classement composite d'après *LesNumerique*, *01Net* et autres, par ordre de qu
 - [Logitech MX Master 3 - 90€ (grandes mains)](https://ledenicheur.fr/product.php?p=5184666)
 - [Razer Pro Click - 100€](https://ledenicheur.fr/product.php?p=5542256)
 - [Logitech MX Anywhere 3 - 100€ (petites mains)](https://ledenicheur.fr/product.php?p=5542303)
+- [Logitech Lift - 70€ (ergonomique)](https://ledenicheur.fr/product.php?p=6220032)
 - [Logitech MX Anywhere 2S - 55€ (petites mains)](https://ledenicheur.fr/product.php?p=4354037)
 - [Steelseries Rival 3 Wireless - 40€](https://ledenicheur.fr/product.php?p=5576780)
 - [Razer Pro Click Mini - 80€ (petites mains)](https://ledenicheur.fr/product.php?p=5935454)

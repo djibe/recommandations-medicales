@@ -8,7 +8,7 @@ synonyms = ["Insuffisance cardiaque à FEVG altérée", "insuffisance cardiaque 
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
 publishdate = "2021-06-03"
-lastmod = "2022-10-07"
+lastmod = "2022-10-11"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS"]
@@ -18,7 +18,7 @@ sctid = "48447003"
 flowchart = true
 image = true
 imageSrc = "Illustration de l'insuffisance cardiaque par vectorjuice / Freepik"
-todo = "SGLT2 pour tous les stades ?, sup. Table 4 MRA+5Sacu+7Diur, depression Beck"
+todo = "sup. Table 4 MRA+5Sacu+7Diur, depression Beck"
 +++
 
 {{%article-summary%}}
@@ -27,7 +27,7 @@ todo = "SGLT2 pour tous les stades ?, sup. Table 4 MRA+5Sacu+7Diur, depression B
 - Bilan initial devant une suspicion d'insuffisance cardiaque chronique: ECG, NT-proBNP et consultation de cardiologie
 - Bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), anémie)
 - Contrôle des facteurs de risque cardiovasculaire: HTA, tabac, dyslipidémie
-- Maximiser les posologies du traitement: {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, {{< modal-btn modal-bb >}}BB{{< /modal-btn >}}, anti-aldostérone, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, ferritine > 100 ng/mL
+- Maximiser les posologies du traitement: {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} voire Valsartan/sacubitril, {{< modal-btn modal-bb >}}BB{{< /modal-btn >}}, anti-aldostérone, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} (dapagliflozine ++), ferritine > 100 ng/mL
 - Éducation thérapeutique pour la surveillance des poids-tension et l'adaptation des diurétiques
 
 {{%/article-summary%}}
@@ -166,9 +166,10 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
 - Facteurs de risque cardiovasculaire
 - Antécédents  
   - Cardiovasculaires  
-  [Hypertension]({{< relref "hypertension-arterielle.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}), angor, syndrome coronarien/IDM, [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}), myocardite/péricardite, valvulopathie, trouble du rythme.
+    [Hypertension]({{< relref "hypertension-arterielle.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}), angor, syndrome coronarien/infarctus, [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}), myocardite/péricardite, valvulopathie, trouble du rythme.
   - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
-  - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (20%)
+  - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (20%)  
+    {{< modal-btn modal-depistage-bpco >}}Faut-il faire une spirométrie ?{{< /modal-btn >}}
   - Auto-immuns et hormonaux  
     [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [hypothyroïdie de Basedow]({{< relref "hypothyroidie.md" >}}), connectivite, lupus, sarcoïdose, amylose.
   - Infectieux: [VIH]({{< relref "vih-sida.md" >}}), parasites
@@ -236,7 +237,7 @@ Bilan initial devant une suspicion d'insuffisance cardiaque:
 - ECG de repos 12D
 - Consultation de cardiologie
 - Échocardiographie
-- Bilan des autres suspicions diagnostiques
+- Bilan des autres suspicions diagnostiques ({{< modal-btn modal-depistage-bpco >}}spirométrie{{< /modal-btn >}})
 
 > Bilan initial selon la *ESC 2021*
 {{%/info%}}
@@ -252,7 +253,7 @@ Utiliser toujours le même marqueur au cours du suivi.
 
 La sensibilité de l'ECG est de 89%: << L'IC est peu probable en cas d'ECG totalement normal >> (*ESC 2021*)
 
-L'épreuve d'effort (EEVO<sub>2</sub>) est systématique au diagnostic d'insuffisance cardiaque (*SFC 2018*).
+L'[épreuve d'effort]({{< relref "epreuve-effort.md" >}}) (EEVO<sub>2</sub>) est systématique au diagnostic d'insuffisance cardiaque (*SFC 2018*).
 
 ### Examen génétique
 
@@ -291,6 +292,7 @@ Indications à une consultation génétique: cardiomyopathie hypertrophique (CMH
 - Comorbidités
   - Obésité: prise en charge spécifique
   - Diabète: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
+  - {{< modal-btn modal-depistage-bpco >}}Dépister une BPCO{{< /modal-btn >}}
 - Dépister annuellement une dépression
   - Échelle: Beck, Cardiac Depression Scale
   - Traitements sûrs: sertraline, escitalopram. Éviter les tricycliques.
@@ -336,6 +338,8 @@ Indications à la greffe cardiaque: symptômes invalidants, mauvais pronostic, a
 
 - Diurétique à visée symptomatique  
   Voir *Mesures générales*
+- {{< modal-btn modal-isglt2 >}}Empagliflozine 10 mg{{< /modal-btn >}} (*HAS 09/2022*)  
+  **NB.** Non citée dans les recommandations car essai Emperor-preserved publié après.
 
 ### Traitements à considérer
 
@@ -348,7 +352,9 @@ Indications à la greffe cardiaque: symptômes invalidants, mauvais pronostic, a
 {{%collapse "Traitement de l'insuffisance cardiaque à fraction d'éjection préservée (ICFEp)" %}}
 
 - Contrôle strict des facteurs de risque cardiovasculaire, des comorbidités (arythmie...) et surcharges volumiques (solutés, produits de contraste iodés)
-- Faible niveau de preuve d'efficacité: nébivolol, candésartan, spironolactone.
+- Faible niveau de preuve d'efficacité: nébivolol, {{< modal-btn modal-ara2 >}}candésartan{{< /modal-btn >}}, spironolactone.
+- {{< modal-btn modal-isglt2 >}}Empagliflozine 10 mg{{< /modal-btn >}} (*HAS 09/2022*)  
+  **NB.** Non citée dans les recommandations car essai Emperor-preserved publié après.
 - Diurétique à visée symptomatique  
   Voir *Mesures générales*
 
@@ -530,6 +536,7 @@ réalistes
 {{%/collapse%}}
 {{%sources%}}
 
+- [HAS. JARDIANCE (empagliflozine) - Insuffisance cardiaque chronique symptomatique. 16/09/2022.](https://www.has-sante.fr/jcms/p_3352200/fr/jardiance-empagliflozine-insuffisance-cardiaque-chronique-symptomatique)
 - [McDonagh T et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) With the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. 2021.](https://doi.org/10.1093/eurheartj/ehab368)
 - Prescrire Redaction. Insuffisances cardiaques médicamenteuses en bref, Patients insuffisants cardiaques chroniques. Janvier 2021.
 - [Fervers B. et al; Santé Publique France. Indications d'un programme d'activité physique, en complément au traitement médical. BEH. 2020.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical)
@@ -548,6 +555,11 @@ réalistes
 {{< scores/nyha >}}
 
 {{% /modal %}}
+{{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}
+
+{{< clinique/depistage-bpco-gold >}}
+
+{{% /modal %}}
 {{% modal title="Vaccin pneumocoque" id="modal-pneumocoque"%}}
 
 {{< traitements/vaccin-pneumocoque >}}
@@ -556,6 +568,11 @@ réalistes
 {{% modal title="IEC dans l'IC" id="modal-iec"%}}
 
 {{< traitements/iec-ic >}}
+
+{{% /modal %}}
+{{% modal title="ARA2 dans l'hypertension" id="modal-ara2" size="lg"%}}
+
+{{< traitements/ara2 >}}
 
 {{% /modal %}}
 {{% modal title="BB dans l'IC" id="modal-bb"%}}

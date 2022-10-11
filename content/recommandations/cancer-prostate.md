@@ -10,7 +10,7 @@ publishdate = "2020-09-27"
 lastmod = "2020-10-10"
 specialites = ["urologie"]
 annees = "2022"
-sources = ["EAU"]
+sources = ["EAU", "HAS"]
 tags = ["cancer", "depistage"]
 anglais = ["Prostate Cancer (PCa)"]
 sctid = "254900004"
@@ -88,10 +88,11 @@ TR
 
 ### Interrogatoire
 
-- Antécédents familiaux de cancer prostatique
-- Symptômes frustes  
-Génito-urinaire  
-Métastatique (douleurs lombaires osseuses surtout)
+- Antécédents familiaux (cancers ++)
+- Antécédents
+- Symptômes frustes
+  Génito-urinaire  
+  Douleurs lombaires osseuses surtout (Métastatique)
 
 ### Examen clinique
 
@@ -153,7 +154,7 @@ Liste des complications de la biopsie prostatique (par ordre de fréquence): hé
 
 Chapitre pour en savoir plus, le traitement du cancer de la prostate dépendant des décisions de la RCP accordées avec le souhait du patient.
 
-Plusieurs stratégies thérapeutiques pour le traitement du cancer de la prostate: prostatectomie, radiothérapie, hormonothérapie, surveillance active voire une surveillance attentive (TODO: traduction, patient asymptomatique avec cancer localisé et espérance de vie < 10 ans).
+Plusieurs stratégies thérapeutiques pour le traitement du cancer de la prostate: prostatectomie, radiothérapie, hormonothérapie, surveillance active voire une *Abstention surveillance clinique* (patient asymptomatique avec cancer localisé et espérance de vie < 10 ans).
 
 De même, le suivi est spécialisé.
 Dosages réguliers du PSA: tous les 6 mois pendant 3 ans puis annuel
@@ -179,6 +180,7 @@ graph TB
 
 - [Mottet N. et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2022.](https://uroweb.org/guidelines/prostate-cancer)
 - [Gandaglia G. et al. Structured Population-based Prostate-specific Antigen Screening for Prostate Cancer: The European Association of Urology Position in 2019. Eur Urol. 2019.](https://www.europeanurology.com/article/S0302-2838(19)30347-1/fulltext)
+- [HAS. ALD n°30 - Cancer de la prostate. Guide maladie chronique. 2012.](https://www.has-sante.fr/jcms/c_725257/fr/ald-n-30-cancer-de-la-prostate)
 
 ### À lire
 
@@ -186,6 +188,5 @@ graph TB
 - [INCa. La première prescription du PSA chez l'homme asymptomatique. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/La-premiere-prescription-du-PSA-chez-l-homme-asymptomatique)
 - [INCa. Synthèse sur les bénéfices et les risques d'un dépistage du cancer de la prostate par dosage du PSA. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Synthese-sur-les-benefices-et-les-risques-d-un-depistage-du-cancer-de-la-prostate-par-dosage-du-PSA)
 - [HAS. Détection précoce du cancer de la prostate. Mai 2013.](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate)
-- [HAS. ALD n°30 - Cancer de la prostate. Guide maladie chronique. 2012.](https://www.has-sante.fr/jcms/c_725257/fr/ald-n-30-cancer-de-la-prostate)
 
 {{%/sources%}}
