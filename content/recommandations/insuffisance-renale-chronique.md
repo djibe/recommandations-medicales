@@ -143,15 +143,15 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 ### Interrogatoire
 
 - Antécédents personnels et familiaux de maladie rénale ou urinaire
-- Antécédents cardiovasculaires et {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}}
-- FRCV: hypertension artérielle, diabète, tabagisme, dyslipidémie, obésité
+- Antécédents cardiovasculaires et FRCV (hypertension, diabète, tabagisme, dyslipidémie, obésité)
+- {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}}
 - Exposition aux {{< modal-btn modal-nephrotoxiques >}}néphrotoxiques{{< /modal-btn >}}
   - Professionnelle  
-  Plomb, mercure, cadmium, solvants organiques.
+    Plomb, mercure, cadmium, solvants organiques.
   - Médicamenteuse  
-  AINS, aminoside, produit de contraste iodé, chimiothérapie.
+    AINS, aminoside, produit de contraste iodé, chimiothérapie.
   - Alimentaire  
-  Phytothérapie, herbes chinoises.
+    Phytothérapie, herbes chinoises.
 - Résultats antérieurs de créatininémie et analyses urinaires
 
 ### Évaluer le stade la maladie rénale chronique et l'albuminurie

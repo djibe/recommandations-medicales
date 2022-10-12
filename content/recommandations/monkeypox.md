@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
 publishdate = "2022-07-20"
-lastmod = "2022-10-06"
+lastmod = "2022-10-12"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "HCSP", "MinSanté"]
@@ -173,8 +173,9 @@ Toutes les personnes avec risque élevé d'exposition au virus de la variole du 
 - Personnes trans multi-partenaires
 - Prostitution
 - Professionnel travaillant dans les lieux de consommation sexuelle
+- Femmes avec contact proches des personnes ci-dessus
 
-> *HAS 08/07/2022*
+> *HAS 11/10 et 08/07/2022*
 
 ### Comment vacciner contre Monkeypox ?
 
@@ -207,8 +208,9 @@ Prise en charge recommandée en cas de variole du singe:
   - [Où se faire vacciner contre Monkeypox ?](https://www.sante.fr/monkeypox)
   - Dans les 4 à 14 jours après l'exposition à risque. Au cas par cas chez l'enfant
   - Vaccins Imvanex et Jynneos dont la protection n'est pas immédiate
-  - 2 doses à J0-J28, les vaccins sont interchangeables
+  - 2 doses à J0-J28 (voire J35), les vaccins sont interchangeables
   - 1 seule dose si déjà vacciné contre la variole, 3 doses si immunodépression
+  - Pas de vaccination si antécédent de Monkeypox
 - Dépistage des [IST](/tags/ist/) si rapports à risque
 
 ### Antiviral Tecovirimat
@@ -218,6 +220,7 @@ Antiviral disponible en gélules indiqué chez les personnes à **risque de form
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Monkeypox : la HAS complète ses recommandations sur la vaccination. 11/10/2022.](https://www.has-sante.fr/jcms/p_3376314/fr/monkeypox-la-has-complete-ses-recommandations-sur-la-vaccination)
 - [Santé Publique France. Cas de variole du singe : point de situation au 4 octobre 2022. 05/10/2022.](https://www.santepubliquefrance.fr/les-actualites/2022/cas-de-variole-du-singe-point-de-situation-au-4-octobre-2022)
 - [DGS-Urgent 2022-76, 70, 65, 61, 58. 05/08/2022.](https://solidarites-sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Réponses Rapides : Infection par le virus Monkeypox – Prise en charge en médecine de 1er recours. 05/09/2022.](https://www.has-sante.fr/jcms/p_3361191/fr/reponses-rapides-infection-par-le-virus-monkeypox-prise-en-charge-en-medecine-de-1er-recours)
