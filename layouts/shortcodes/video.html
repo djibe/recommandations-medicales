@@ -1,5 +1,5 @@
-<figure class="figure">
-  <video {{ with .Get "poster" }}poster="{{ . }}"{{ end }} 
+<figure class="figure mb-4">
+  <video {{ with .Get "poster" }}poster="{{ . }}"{{ end }}
   {{ with .Get "width" }}width="{{ . }}"{{ else }} width="320"{{ end }}
   {{ with .Get "height" }}height="{{ . }}"{{ else }} height="240"{{ end }}
     preload="none"

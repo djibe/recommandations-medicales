@@ -17,7 +17,7 @@ sctid = "66071002"
 flowchart = false
 image = true
 imageSrc = "Hépatite B, illustration par pch.vector / Freepik"
-todo = "calendrier page 80, clinique, BEH, flow, découverte hépatite B guérie"
+todo = "Le dépistage VHB - VHC - VIH doit être combiné (*AFEF*), calendrier page 80, clinique, BEH, flow, découverte hépatite B guérie"
 +++
 
 {{%article-summary%}}

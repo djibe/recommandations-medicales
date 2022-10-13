@@ -197,8 +197,10 @@ Prostate > 80 mL.
 
 - [Gravas S. et al, European Association of Urology. Management of Non-neurogenic Male LUTS. 2021.](https://uroweb.org/guideline/treatment-of-non-neurogenic-male-luts/)
 - Association Française d'Urologie. Descazeaud A. & al. Bilan initial, suivi et traitements des troubles mictionnels en rapport avec hyperplasie bénigne de la prostate. 1er octobre 2012
-- AFU. Item 123. Hypertrophie bénigne de la prostate
-- HAS. Mai 2013. Détection précoce du cancer de la prostate
+
+### À lire
+
+[Collège d'Urologie. Hypertrophie bénigne de la prostate. Item 127. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-127-Hypertrophie-benigne-de-prostate.pdf)
 
 {{%/sources%}}
 {{% modal title="Score STOP-BANG" id="modal-saos"%}}

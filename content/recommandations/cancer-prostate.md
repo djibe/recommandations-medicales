@@ -188,5 +188,6 @@ graph TB
 - [INCa. La première prescription du PSA chez l'homme asymptomatique. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/La-premiere-prescription-du-PSA-chez-l-homme-asymptomatique)
 - [INCa. Synthèse sur les bénéfices et les risques d'un dépistage du cancer de la prostate par dosage du PSA. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Synthese-sur-les-benefices-et-les-risques-d-un-depistage-du-cancer-de-la-prostate-par-dosage-du-PSA)
 - [HAS. Détection précoce du cancer de la prostate. Mai 2013.](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate)
+- [Collège d'Urologie. Infections urinaires de l'adulte et de l'enfant. Item 161. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-161-Infections-urinaires.pdf)
 
 {{%/sources%}}

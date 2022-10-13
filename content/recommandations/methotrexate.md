@@ -11,7 +11,7 @@ lastmod = "2022-05-22"
 specialites = ["therapeutique"]
 annees = "2022"
 sources = ["HAS", "ANSM", "SNFGE"]
-tags = ["acide folique", "AINS", "toux"]
+tags = ["AINS", "toux"]
 anglais = ["Methotrexate"]
 sctid = "387381009"
 +++

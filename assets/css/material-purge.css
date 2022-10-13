@@ -424,11 +424,6 @@ summary {
   display: list-item;
 }
 
-mark {
-  background-color: #ffeb3b;
-  color: rgba(0, 0, 0, 0.87);
-}
-
 @-ms-viewport {
   width: device-width;
 }

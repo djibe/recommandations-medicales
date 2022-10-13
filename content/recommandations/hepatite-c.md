@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Comité de l'AFEF"
 date = "2020-09-06T20:18:41+02:00"
 publishdate = "2020-09-06"
-lastmod = "2022-06-01"
+lastmod = "2022-10-12"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["AFEF", "HAS"]
@@ -26,18 +26,18 @@ todo = "symptômes/fatigue, signes d'insuffisance hépatique, signes de cirrhose
 
 Adaptation des recommandations de l'AFEF et HAS pour la prise en charge simplifiée de l'hépatite C par le médecin généraliste
 
-- Maladie guérissable (> 90%)
-- Dépister largement car sous-diagnostiquée (voir *Qui dépister?*)
-- Tout médecin peut prescrire les antiviraux pour la guérison
+- L'hépatite C est désormais une maladie guérissable (+90%)
+- Dépister largement l'hépatite C car elle reste sous-diagnostiquée (voir *Qui dépister?*)
+- Tout médecin peut prescrire les antiviraux pour la guérison de l'hépatite C
 - Évaluation des comorbidités, interactions médicamenteuses et de la fibrose avant le traitement
-- Traitement par Epclusa® ou Maviret® pendant respectivement 12 ou 8 semaines
+- Traitement antiviral par Epclusa® ou Maviret® pendant respectivement 12 ou 8 semaines
 - Surveillance chronique de la cirrhose et de la charge virale (guérison, réinfection)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Hépatite C
-: Maladie du foie causée par l'infection chronique du virus de l'hépatite C (VHC), à l'origine d'une hépatite le plus souvent silencieuse qui devient chronique dans 80% des cas.  
+: Maladie du foie causée par l'infection chronique du virus de l'hépatite C (VHC, identifié en 1989), à l'origine d'une hépatite le plus souvent silencieuse qui devient chronique dans 80% des cas.  
 La transmission est sanguine (drogues intraveineuses ou sniffées, sexe).  
 Des médicaments antiviraux permettent une guérison totale dans la grande majorité des cas.
 : Enjeux liés à la diffusion du virus, la cirrhose et ses complications: hypertension portale et carcinome hépatocellulaire.
@@ -63,13 +63,13 @@ VHC
 : virus de l'hépatite C
 {.dl-inline}
 
-### Épidémiologie
+### Épidémiologie de l'hépatite C
 
-#### Épidémiologie de l'hépatite C en France
+#### Épidémiologie en France
 
-- Décès: 2700 morts/an
-- Sous-diagnostic: 1 personne sur 2 n'est pas diagnostiquée
-- 75.000 personnes non diagnostiquées en 2014  
+- **Décès:** 2700 morts/an
+- Sous-diagnostic: 1 personne sur 2 n'est pas diagnostiquée  
+  soit 75.000 personnes non diagnostiquées en 2014  
   {{%class%}}Chez les 18-80 ans contre 101.000 en 2004.{{%/class%}}
 
 #### L'hépatite C dans le monde
@@ -77,10 +77,11 @@ VHC
 - 170 millions de personnes infectées (3%)
 - Incidence: 3 à 4 millions de nouveaux cas par an
 - Responsable de 70% des hépatopathies chroniques
-- Virus identifié en 1989
 
 {{% /collapse %}}
 {{%collapse "Hépatite C - Qui dépister?" %}}
+
+Personnes à risque d'hépatite C:
 
 - Tout adulte au moins 1 fois dans sa vie (*AFEF*)
 - Toute personne qui a pu avoir un contact avec le VHC
@@ -131,10 +132,10 @@ VHC
 
 {{%warning%}}Le dépistage VHB - VHC - VIH doit être combiné (*AFEF*){{%/warning%}}
 
-Sérologie VHC ([Remb. 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=3784&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)):
+Sérologie hépatite C ([Remb. 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=3784&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)):
 
-Sérologie positive  
-: Nécessité de sérologie de contrôle et charge virale (RT-PCR) VHC.
+Sérologie VHC positive  
+: Nécessité de sérologie de contrôle et charge virale VHC (RT-PCR).
 
 Sérologie négative  
 : Pas d'infection par le VHC, sauf infection récente ou immunodépression sévère (voir Conduite à tenir).
@@ -144,9 +145,9 @@ Ou TROD VHC au plus près du patient (remboursé à 100%).
 
 **NB.** Dépistage tous les 3 à 6 mois en cas de VIH (*HAS 2018*).
 
-### Charge virale VHC
+### Charge virale de l'hépatite C
 
-Systématique lorsque 2 sérologies sont positives (ou 1 TROD+ + 1 sérologie+).  
+Mesure de la charge virale systématique lorsque 2 sérologies sont positives (ou 1 TROD + 1 sérologie).  
 [Remboursée à 100%](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=4124&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI).
 
 > << la recherche du génotype du VHC n'est pas nécessaire >> (*AFEF*)
@@ -155,7 +156,7 @@ Systématique lorsque 2 sérologies sont positives (ou 1 TROD+ + 1 sérologie+).
 
 - Sérologie VIH  
 - Sérologie VHB: Ag Hbs, anticorps anti-HBs, anticorps anti-HBc
-- NFS-plaquettes
+- NFS
 - INR
 - Créatininémie et clairance CKD-EPI
 - ASAT, ALAT, GGT, bilirubine
@@ -164,10 +165,10 @@ Systématique lorsque 2 sérologies sont positives (ou 1 TROD+ + 1 sérologie+).
 
 ### Fibrose hépatique
 
-Mesure de la fibrose hépatique systématique.  
+Mesure de la fibrose hépatique systématique après la découverte d'une hépatite C.  
 Par le spécialiste ou sur prescription pour un traitement ambulatoire.
 
-Test non invasif en 1<sup>re</sup> intention:
+Test non invasif en première intention:
 
 - Élasticité hépatique échographique: Fibroscan®  
   - Absence de maladie sévère si résultat < 10 kPa
@@ -323,12 +324,11 @@ graph TB
 - [Proposer de participer à la cohorte ComPare](https://compare.aphp.fr/)
 
 {{% /collapse %}}
-{{%collapse "Vidéos" %}}
+{{%sources%}}
+
+{{< card-link title="L'hépatite C en médecine de premier recours et dans la prise en charge des usagers de drogues et d'alcool" url="https://www.inhsu.org/learning_modules/FR_FR/index.html#/" subtitle="e-learning gratuit par INSHU, ashm, UNSW, Kirby">}}
 
 [Vidéos de l'AFEF sur l'hépatite C](https://www.youtube.com/channel/UCgWEPppp0YbWbvpcWoXd9fg/search?query=h%C3%A9patite%20C)
-
-{{% /collapse %}}
-{{%sources%}}
 
 - [HAS. Hépatite C - Panorama](https://www.has-sante.fr/jcms/p_3261788/fr/hepatite-c)
 - [HAS. Hépatite C : prise en charge simplifiée chez l'adulte. Mars 2019 MAJ Septembre 2019.](https://www.has-sante.fr/jcms/c_2911891/fr/hepatite-c-prise-en-charge-simplifiee-chez-l-adulte)
@@ -341,7 +341,6 @@ graph TB
 {{< references/afef-foie-non-invasif >}}
 
 {{%/sources%}}
-<!-- Modal -->
 {{% modal title="Vaccination anti-pneumococcique" id="modal-vaccin-pneumocoque"%}}
 
 {{< traitements/vaccin-pneumocoque >}}

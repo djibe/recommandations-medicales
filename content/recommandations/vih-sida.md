@@ -17,7 +17,7 @@ anglais = ["Human immunodeficiency virus infection"]
 sctid = "86406008"
 image = true
 imageSrc = "Photo de NIAID sur Foter.com"
-todo = "relecture CNS, TPE, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, depistage DT2, info transmission/guérison, méningo C 26 ans ?"
+todo = "Le dépistage VHB - VHC - VIH doit être combiné (*AFEF*), relecture CNS, TPE, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, depistage DT2, info transmission/guérison, méningo C 26 ans ?"
 +++
 
 {{%article-summary%}}

@@ -213,14 +213,14 @@ Le traitement doit être démarré dans les 6 semaines qui suivent la réalisati
   - Rédiger un certificat médical initial établissant le lien possible. C'est le patient qui l'adresse à sa CPAM pour la reconnaissance en Maladie Professionnelle.
 - [Guide patient: la prise en charge du cancer du poumon (PDF)](https://www.has-sante.fr/jcms/c_985214/fr/ald-n-30-guide-patient-la-prise-en-charge-du-cancer-du-poumon)
 - Arrêt du tabac  
-  Majore les complications des traitements et de second cancer.
-- Associations de patients  
-  [De l'Air](https://cancer-poumon.fr/).
-- Soins de support
-- Directives anticipées
+  Améliore la survie à tous les stades (voir vidéo dans les *Sources*).
+- Association de patients: [De l'Air](https://cancer-poumon.fr/)
+- Soins de support, directives anticipées
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< video mp4="https://docs.splf.fr/videos/ATS/mission-ats-2022/ATS-Dr-Marjolaine-Georges.mp4" description="Le tabac c’est tabou! sous toutes ses formes! et à tous les stades de cancer! (SPLF)" width="768" height="432" >}}
 
 - [HAS. Dépistage du cancer bronchopulmonaire par scanner thoracique faible dose sans injection : actualisation de l'avis de 2016. Février 2022.](https://www.has-sante.fr/jcms/p_3310940/fr/depistage-du-cancer-bronchopulmonaire-par-scanner-thoracique-faible-dose-sans-injection-actualisation-de-l-avis-de-2016)
 - [Couraud S et al. Recommandations de l'Intergroupe francophone de cancérologie thoracique, de la Société de pneumologie de langue française, et de la Société d'imagerie thoracique sur le dépistage du cancer bronchopulmonaire par tomodensitométrie à faible dose d'irradiation. Rev Mal Resp. 2021.](https://www.sciencedirect.com/science/article/pii/S0761842521000437)

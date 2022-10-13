@@ -20,9 +20,9 @@ todo = "beh"
 
 {{%article-summary%}}
 
-- Palper tous les petits garçons (2-4% atteints)
-- Idéalement opération à partir d'1 an
-- Surveillance post-opératoire pendant 1 an (atrophie)
+- Dépistage systématique de la cryptorchidie: palper les bourses de tous les petits garçons (2-4% atteints)
+- La chirurgie d'un testicule cryptorchide est réalisée idéalement à partir d'1 an
+- Surveillance post-opératoire du testicule pendant 1 an (atrophie)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -91,7 +91,7 @@ En l'absence de testicule ou simple présence d'un reliquat, exérèse de ce der
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège d'Urologie. Pathologie génito-scrotale chez le garçon et chez l'homme. Item 48 UE2.](https://www.urofrance.org/congres-et-formations/formation-initiale/referentiel-du-college/pathologie-genito-scrotale.html)
+- [Collège d'Urologie. Pathologie génito-scrotale chez le garçon et chez l'homme. Item 50. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-50-Pathologies-genito-scrotale.pdf)
 - [Ameli. Comprendre la cryptorchidie ou testicule non descendu. 09/04/2020.](https://www.ameli.fr/assure/sante/themes/cryptorchidie-testicule-non-descendu-ectopie-testiculaire/comprendre-cryptorchidie)
 
 {{%/sources%}}
