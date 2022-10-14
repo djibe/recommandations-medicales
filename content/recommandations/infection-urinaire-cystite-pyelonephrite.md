@@ -16,7 +16,7 @@ anglais = ["Urinary tract infections"]
 sctid = "68566005"
 image = true
 imageSrc = "Illustration des infections urinaires par Freepik"
-todo = "flowchart Figure 1 et 5, Collège symptômes, revoir uroscanner p. 23, améliorer pec ECBU+, enfants++"
+todo = "flowchart Figure 1 et 5, revoir uroscanner p. 23, améliorer pec ECBU+, enfants++"
 +++
 
 {{%article-summary%}}
@@ -37,6 +37,8 @@ La bandelette urinaire détecte une leucocyturie (seuil 10<sup>4</sup> leucocyte
 
 **Indications à l'ECBU:** toute suspicion clinique d'infection urinaire sauf cystite simple ou colonisation urinaire nécessitant un traitement (grossesse ou geste urologique programmé).  
 L'ECBU est réalisé avant l'antibiothérapie.
+
+**NB.** Conservation possible des urines 12 heures à 4°C (*Collège*).
 
 #### Prise en charge d'un ECBU positif
 
@@ -70,7 +72,7 @@ Un ECBU de contrôle est réalisé uniquement en cas d'évolution défavorable.
 Rechercher des signes de gravité devant toute infection urinaire avec des signes généraux:
 
 - Gravité du sepsis  
-  Sepsis grave ([Quick SOFA](http://medicalcul.free.fr/qsofa.html) ≥ 2), choc septique.
+  Sepsis grave ({{< modal-btn modal-qsofa >}}Quick SOFA{{< /modal-btn >}} ≥ 2), choc septique.
 - Nécessité de geste urologique (autre que sondage vésical) en péri-opératoire
 {{%/warning%}}
 
@@ -94,7 +96,7 @@ Colonisation urinaire
 
 ### Cystite aiguë simple
 
-Symptômes de la cystite: brûlures mictionnelles et/ou urgenturie.
+Symptômes de la cystite: brûlures mictionnelles, pollakiurie, impériosité/urgenturie ou dysurie dits signes fonctionnels urinaires (SFU), urines troubles ou hématuriques.
 
 Prise en charge de la cystite par **BU** (leuco+ voire nit+) et antibiothérapie probabiliste:
 
@@ -164,7 +166,8 @@ Prophylaxie des cystites récidivantes:
 Cette section concerne uniquement la femme non enceinte (la femme enceinte et l'homme ont une section dédiée).
 
 Pyélonéphrite aiguë (PNA)
-: Infection urinaire bactérienne atteignant le rein.
+: Infection urinaire le plus souvent bactérienne atteignant le rein.
+: Signes fonctionnels urinaires avec douleurs en fosse lombaire unilatérale (spontanée ou provoquée), signes digestifs, signes généraux (fièvre, frissons).
 
 BU et si positive **ECBU**.
 
@@ -278,16 +281,15 @@ Ensuite **ECBU mensuel** jusqu'à l'accouchement.
 {{%collapse "Infections urinaires de l'homme" %}}
 
 Infection urinaires masculine (IU masculine)
-: *ex prostatite*, trop réductrice (forme pauci-symptomatique, prostatite, pyélonéphrite aiguë).
-: **Bandelette urinaire conseillée**, positive elle conforte la suspicion diagnostique d'infection urinaire masculine (une BU négative ne permet pas d'éliminer le diagnostic).
+: *ex prostatite*, trop réductrice (forme pauci-symptomatique, prostatite, pyélonéphrite aiguë). Symptômes évocateurs: douleurs pelviennes, périnéales, urétrales ou rectales intenses indépendantes de la miction, dysurie, rétention d'urines, douleurs lombaires, signes généraux.
+: **Bandelette urinaire conseillée**, positive elle conforte la suspicion diagnostique (une BU négative ne permet pas d'éliminer le diagnostic).
 : Premier épisode, rechercher une uropathie: pollakiurie, miction impérieuse, diminution de la force du jet, nycturie, dysurie ou anomalie au toucher rectal.
-: Les critères d'hospitalisation sont ceux de la pyélonéphrite.  
-Prise en charge de l'infection urinaire masculine par **ECBU avant antibiothérapie différée si possible**, sinon antibiothérapie probabiliste initiale.
+: Les critères d'hospitalisation sont ceux de la pyélonéphrite.
 : Hémocultures si fièvre. Le PSA peut être perturbé jusqu'à 6 mois après l'infection.
 : Échographie des voies urinaires sous 24h si sepsis grave, suspicion de rétention ou de lithiase.  
 Sinon avec mesure du résidu post-mictionnel, dès le 2<sup>e</sup> épisode ou en cas de suspicion d'anomalie des voies urinaires (+50 ans).
 
-Antibiothérapie probabiliste d'une IU masculine très symptomatique:
+Prise en charge par antibiothérapie probabiliste d'une infection urinaire masculine très symptomatique:
 
 1. Ciprofloxacine 500 mg x 2/j ou lévofloxacine 500 mg/j  
   Sauf fluoroquinolone dans les 6 mois.
@@ -314,11 +316,8 @@ ECBU uniquement en cas d'évolution défavorable.
 {{%sources%}}
 
 - [HAS, SPILF, GPIP, CMG. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
+- [Collège d'Urologie. Infections urinaires de l'adulte et de l'enfant. Item 161. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-161-Infections-urinaires.pdf)
 - [Caron F. et al; SPILF. Recommandations pour la prise en charge des infections urinaires communautaires de l'adulte. Med Mal Inf. 2018.](https://www.sciencedirect.com/science/article/pii/S0399077X17310363)
-
-### À lire
-
-[Collège d'Urologie. Infections urinaires de l'adulte et de l'enfant. Item 161. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-161-Infections-urinaires.pdf)
 
 {{%/sources%}}
 {{% modal title="FDR de complication d'une IU selon HAS 2021" id="modal-fdr-complication"%}}
@@ -326,5 +325,10 @@ ECBU uniquement en cas d'évolution défavorable.
 Facteurs de risque de complication d'infection urinaire symptomatique:
 
 {{< clinique/iu-fdr-complication >}}
+
+{{% /modal %}}
+{{% modal title="Score Quick SOFA prédictif du sepsis" id="modal-qsofa"%}}
+
+{{< scores/qsofa >}}
 
 {{% /modal %}}
