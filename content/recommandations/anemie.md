@@ -252,6 +252,7 @@ graph TB
 
 ### À lire
 
-[HCSP. Avis relatif à la couverture des besoins de la population générale en vitamine D et en fer. 21/06/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1251)
+- [HCSP. Avis relatif à la couverture des besoins de la population générale en vitamine D et en fer. 21/06/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1251)
+- [de Tournemire R.; SFP. Anémie par carence martiale chez l'adolescente. 2017.](https://pap-pediatrie.fr/hematologie/anemie-par-carence-martiale-chez-ladolescente)
 
 {{%/sources%}}

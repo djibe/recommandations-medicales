@@ -149,5 +149,6 @@ Après 6 mois, la supplémentation relève uniquement d'un risque carieux élev�
 ### À lire
 
 - [Parosphère. Le brossage des dents.](https://fr.calameo.com/read/00004081837980b6f6e52)
+- [Berthet A., Lopez I., Jacquelin LF.; SFP. Dépistage carieux en denture temporaire. 2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/depistage-carieux-en-denture-temporaire)
 
 {{%/sources%}}

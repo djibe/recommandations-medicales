@@ -1,13 +1,12 @@
 +++
 title = "Cancer de la prostate"
 prefix = "le "
-noindex = true
 description = "Recommandations pour la prise en charge du cancer de la prostate. Indications au dépistage et conduite à tenir selon le PSA, toucher rectal et avis urologique"
 synonyms = ["Adénocarcinome prostatique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-27T19:51:30+02:00"
 publishdate = "2020-09-27"
-lastmod = "2020-10-10"
+lastmod = "2022-10-14"
 specialites = ["urologie"]
 annees = "2022"
 sources = ["EAU", "HAS"]
@@ -17,7 +16,7 @@ sctid = "254900004"
 flowchart = true
 image = true
 imageSrc = "Illustration du cancer de la prostate par brgfx / Freepik "
-todo = "SPF, Collège, Geriatric 8 Table 5.10 source 151, tableau espérance de vie, https://curie.fr/dossier-pedagogique/cancer-de-la-prostate-les-facteurs-de-risque, https://www.urofrance.org/recommandation/recommandations-francaises-du-comite-de-cancerologie-de-lafu-actualisation-2020-2022-cancer-de-la-prostate/?date=&themes=&search="
+todo = "Collège > Flow > AFU, Geriatric 8 Table 5.10 source 151, tableau espérance de vie"
 +++
 
 {{%article-summary%}}
@@ -65,8 +64,8 @@ L'intérêt du `ratio PSA libre / PSA total` est faible du fait du recours à l'
 
 ### Épidémiologie du cancer de la prostate
 
-- **Incidence:** 1<sup>er</sup> cancer de l'homme (71.000 cas/an)
-- **Décès:** 3<sup>e</sup> cause de décès par cancer de l'homme (8700/an)
+- **Incidence:** 1<sup>er</sup> cancer de l'homme (50.000 cas en 2015)
+- **Décès:** 3<sup>e</sup> cause de décès par cancer de l'homme (8500 en 2015)
 - Âge médian au diagnostic: 74 ans
 - Prévalence à l'autopsie: 5% avant 30 ans et 59% chez les +79 ans  
   Enjeu de ne traiter que les cancers agressifs.
@@ -120,9 +119,14 @@ Indications à une consultation d'oncogénétique chez un homme ayant un antéc�
 
 ### Dépistage des hommes à risque par mesure du PSA
 
-[INCa 2016 : Le dépistage du cancer de la prostate - s'informer avant de décider](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Le-depistage-du-cancer-de-la-prostate-S-informer-avant-de-decider)
+{{%info%}}
 
-{{%info%}}EAU 2022: aucune indication à un dépistage généralisé mais intérêt d'une détection précoce des personnes à risque ayant une [espérance de vie de +15 ans](https://ec.europa.eu/eurostat/databrowser/view/demo_mlexpec$DV_291/default/table) après information éclairée{{%/info%}}
+### Positions des organismes et sociétés savantes sur le dépistage du cancer de la prostate
+
+- HAS 2013 et INCa 2016: pas de dépistage systématique en population générale ni à haut risque ([INCa 2016. Le dépistage du cancer de la prostate - s'informer avant de décider](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Le-depistage-du-cancer-de-la-prostate-S-informer-avant-de-decider))
+- Commission européenne 2022: PSA jusqu'à 70 ans
+- EAU 2022: intérêt d'une détection précoce des personnes à risque ayant une [espérance de vie de +15 ans](https://ec.europa.eu/eurostat/databrowser/view/demo_mlexpec$DV_291/default/table) après information éclairée
+{{%/info%}}
 
 {{%warning%}}
 **Hommes à risque augmenté de cancer de la prostate:** +50 ans, +45 ans avec antécédent familial de CaP ou d'origine africaine, +40 ans avec BRCA2.
@@ -178,16 +182,13 @@ graph TB
 
 {{< youtube id="cm7rIZAXHYU" title="Indication du toucher rectal en médecine (Urologie Lyon Sud)" >}}
 
+- [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Mottet N. et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2022.](https://uroweb.org/guidelines/prostate-cancer)
+- [Collège d'Urologie. Tumeur de prostate. Item 310. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-310-Tumeur-de-prostate.pdf)
 - [Gandaglia G. et al. Structured Population-based Prostate-specific Antigen Screening for Prostate Cancer: The European Association of Urology Position in 2019. Eur Urol. 2019.](https://www.europeanurology.com/article/S0302-2838(19)30347-1/fulltext)
-- [HAS. ALD n°30 - Cancer de la prostate. Guide maladie chronique. 2012.](https://www.has-sante.fr/jcms/c_725257/fr/ald-n-30-cancer-de-la-prostate)
-
-### À lire
-
-- La Commission européenne recommande ce dépistage depuis son [communiqué de septembre 2022](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
-- [INCa. La première prescription du PSA chez l'homme asymptomatique. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/La-premiere-prescription-du-PSA-chez-l-homme-asymptomatique)
 - [INCa. Synthèse sur les bénéfices et les risques d'un dépistage du cancer de la prostate par dosage du PSA. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Synthese-sur-les-benefices-et-les-risques-d-un-depistage-du-cancer-de-la-prostate-par-dosage-du-PSA)
+- [INCa. La première prescription du PSA chez l'homme asymptomatique. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/La-premiere-prescription-du-PSA-chez-l-homme-asymptomatique)
 - [HAS. Détection précoce du cancer de la prostate. Mai 2013.](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate)
-- [Collège d'Urologie. Infections urinaires de l'adulte et de l'enfant. Item 161. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-161-Infections-urinaires.pdf)
+- [HAS. ALD n°30 - Cancer de la prostate. Guide maladie chronique. 2012.](https://www.has-sante.fr/jcms/c_725257/fr/ald-n-30-cancer-de-la-prostate)
 
 {{%/sources%}}

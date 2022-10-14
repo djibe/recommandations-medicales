@@ -348,7 +348,8 @@ graph TB
 
 ### À lire
 
-[Société Francophone de Nutrition Clinique et Métabolisme - Référentiels](https://www.sfncm.org/outils-education/recommandations/referentiels)
+- [Hankard R.; SFP. Établir une stratégie nutritionnelle chez un enfant dénutri. 2017.](https://pap-pediatrie.fr/hepato-gastro/etablir-une-strategie-nutritionnelle-chez-un-enfant-denutri)
+- [Société Francophone de Nutrition Clinique et Métabolisme - Référentiels](https://www.sfncm.org/outils-education/recommandations/referentiels)
 
 {{%/sources%}}
 {{% modal title="Définition de la sarcopénie" id="modal-sarcopenie"%}}

@@ -180,4 +180,8 @@ graph TB
 - [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)
 - [Collège Français d'ORL et de Chirurgie Cervico-faciale. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 146 UE6.](https://campusorl.fr/espace-etudiants/2eme-cycle-ecni/item-146-angines-de-ladulte-et-de-lenfant-et-rhinopharyngites-de-lenfant/)
 
+### À lire
+
+[Cohen J., Cohen R.; SFP. Angine. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
+
 {{%/sources%}}

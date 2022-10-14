@@ -1,0 +1,51 @@
+<div class="my-4" id="score-qsofa">
+  <p class="mb-3">Score prédictif de mortalité par sepsis <abbr title="Quick SOFA">qSOFA</abbr> (hors Urgences)<br>
+  PAS = Pression artérielle systolique</p>
+  <input type="checkbox" id="mental" class="d-input-none" value="1">
+  <label for="mental" class="chip chip-action chip-filter">Glasgow &lt; 15</label>
+  <input type="checkbox" id="pulmonary" class="d-input-none" value="1">
+  <label for="pulmonary" class="chip chip-action chip-filter">Polypnée &ge; 22</label>
+  <input type="checkbox" id="pressure" class="d-input-none" value="1">
+  <label for="pressure" class="chip chip-action chip-filter">PAS &le; 100 mmHg</label>
+  <div class="alert bg-light d-flex mt-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline score-output-title">Score</p>
+      <output class="score-output" id="qsofaScore">0</output>
+    </div>
+    <p id="qsofaText" class="lead m-auto">Pas de haut risque</p>
+  </div>
+</div>
+<blockquote class="mt-4">
+  <p lang="en">
+    <a
+      href="https://jamanetwork.com/journals/jama/fullarticle/2492875"
+      rel="external nofollow noopener"
+      >Singer M, Deutschman CS, Seymour C, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA. 2016;315(8):801-810.</a>
+  </p>
+</blockquote>
+{{ $script := `
+  // Score qSOFA by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scoreqsofa = document.getElementById('qsofaScore')
+    const textqsofa = document.getElementById('qsofaText');
+    [...document.querySelectorAll('#score-qsofa input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcqsofa() ) })
+    const calcqsofa = () => {
+      let score = 0
+      const elemsChecked = document.querySelectorAll('#score-qsofa input[type=\"checkbox\"]:checked')
+        elemsChecked.forEach(elemChecked => {
+        score += parseInt(elemChecked.value, 10)
+        scoreqsofa.innerHTML = score
+        if (score <= 1) {
+          textqsofa.innerHTML = "Pas de haut risque"
+        }
+        else {
+          textqsofa.innerHTML = "Sepsis à haut risque<br>Mortalité &ge; 10%"
+        }
+      })
+      if (elemsChecked.length === 0) {
+        scoreqsofa.innerHTML = 0
+        textqsofa.innerHTML = 'Pas de haut risque'
+      }
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>
