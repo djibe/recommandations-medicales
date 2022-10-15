@@ -222,4 +222,8 @@ Elles peuvent aggraver transitoirement les symptômes.
 - [Collège Français d'ORL & CCF. Vertige. Item 101 UE4.](https://campusorl.fr/espace-etudiants/2eme-cycle-ecni/item-101-vertige/)
 - [Collège des Enseignants de Neurologie (CEN). Vertige.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/vertige)
 
+### À lire
+
+[Bhattacharyya N. et al. Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update). Otolaryngology–Head and Neck Surgery. 2017.](https://journals.sagepub.com/doi/full/10.1177/0194599816689667)
+
 {{%/sources%}}

@@ -14,6 +14,7 @@ sources = ["HAS", "SPILF"]
 tags = ["douleur pelvienne", "fievre"]
 anglais = ["Urinary tract infections"]
 sctid = "68566005"
+flowchart = true
 image = true
 imageSrc = "Illustration des infections urinaires par Freepik"
 todo = "flowchart Figure 1 et 5, revoir uroscanner p. 23, améliorer pec ECBU+, enfants++"
@@ -313,6 +314,21 @@ Traitement prolongé 21 jours si uropathie non corrigée ou autre antibiotique.
 ECBU uniquement en cas d'évolution défavorable.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge des infections urinaires" "show" %}}
+
+{{< mermaid title="Prise en charge d'une pyélonéphrite en ambulatoire. Dr JB Fron d'après HAS 2021 et SPILF 2018" >}}
+graph TB
+  pna[Pyélonéphrite aiguë] --> gravite("Gravité, grossesse ou obstacle ?<br>- qSOFA &ge; 2<br>- Choc septique")
+  style pna stroke:#4150f5, stroke-width:1px
+  gravite -- Non --> homme(Homme ?)
+    homme -- Non --> complication("<b>Facteur de risque<br>de complication ?</b><hr>- Uropathie<br>- Acte uro récent<br>- +75 ans<br>- +65 ans avec 3 fragilités<br>- IRC sévère<br>- Immunodépression grave")
+      complication -- Non --> simple(PNA simple)
+      complication -- Oui --> arisque(PNA à risque de complication<hr>- Biologie<br>- Uroscanner urgent)
+    homme -- Oui --> masculine(IU masculine)
+  gravite -- Oui --> urgences(Urgences)
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [HAS, SPILF, GPIP, CMG. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
