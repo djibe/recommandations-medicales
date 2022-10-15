@@ -238,7 +238,7 @@ graph TB
 - EASD
 
 {{%/sources%}}
-{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

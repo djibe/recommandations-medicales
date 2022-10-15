@@ -186,12 +186,12 @@ Si le patient appelle au cabinet, transférer l'appel au {{<phone>}}15{{</phone>
 
 S'applique aussi après un AIT.
 
-- **Aspirine 50-325 mg/j**  
+- **Aspirine 75-150 mg/j**  
   Si non cardioembolique. Clopidogrel 75 mg/j si allergie (bithérapie les 90 premiers jours).
 - Hypertension artérielle
-  - Seuil diagnostique ≥ 130/90 mmHg car très haut RCV (160 après 80 ans, *ESC 2018*)
-  - Cible 120-130/70-79 mmHg (*ESO 2022*, *AHA 2021* et *ESC 2018*)
-  - ≥ 65 ans: 130-139/70-79 mmHg
+  - Seuil diagnostique ≥ 140/90 mmHg
+  - Cible habituelle de 120-130/70-79 mmHg (*ESO 2022*, *AHA 2021* et *ESC 2018*)
+  - +70 ans: 130-139/70-79 mmHg
   - Molécules: thiazidiques, {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}} (voire ARA2)
   - Hypertendu: réduire la consommation de sel de 2,5 g/j
   - Automesure tensionnelle (*ESO 2022*)
@@ -342,6 +342,7 @@ Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de tr
 
 - [Dawson J. et al. European Stroke Organisation (ESO) guideline on pharmacological interventions for long-term secondary prevention after ischaemic stroke or transient ischaemic attack. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/10.1177/23969873221100032)
 - [HAS. Rééducation à la phase chronique d'un AVC de l'adulte : Pertinence, indications et modalités. 02/06/2022.](https://www.has-sante.fr/jcms/p_3150692/fr/reeducation-a-la-phase-chronique-d-un-avc-de-l-adulte-pertinence-indications-et-modalites)
+- {{< references/esc-cvd >}}
 - {{< references/sfd-dt2 >}}
 - [Kleindorfer DO et al. 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2021.](https://www.ahajournals.org/doi/10.1161/STR.0000000000000375)
 - {{< references/esc-dyslipidemie >}}
@@ -354,7 +355,7 @@ Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de tr
 - [HAS. Accident vasculaire cérébral :  prise en charge précoce. Mai 2009.](https://www.has-sante.fr/jcms/c_830203/fr/accident-vasculaire-cerebral-prise-en-charge-precoce-alerte-phase-prehospitaliere-phase-hospitaliere-initiale-indications-de-la-thrombolyse)
 
 {{%/sources%}}
-{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

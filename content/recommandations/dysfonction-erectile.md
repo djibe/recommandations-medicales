@@ -436,7 +436,7 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 - [Collège d'Urologie. Trouble de l'érection. Item 126. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-126-Troubles-de-lerection.pdf)
 
 {{%/sources%}}
-{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

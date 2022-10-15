@@ -23,7 +23,7 @@ todo = "glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/20
 
 - [Score Findrisc: risque de diabète à 10 ans](https://www.diabeclic.com/findrisc)
 - Pour chaque personne vivant avec un diabète: sevrage tabagique obligatoire et points vitaux obligatoires (voir plus bas)
-- Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}
+- Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}
 - Dépistage des complications du diabète et des comorbidités (voir *Dépistage*)
 - Éducation thérapeutique du patient diabétique: [diabeclic.com](https://www.diabeclic.com)
 
@@ -39,6 +39,7 @@ Diabète
     - ou HGPO H2 ≥ 2 g/L
     - Symptômes et glycémie ≥ 2 g/L
 : Au cours du diabète, l'atteinte coronaire est plus étendue, sévère et diffuse. 6 à 35% ont une **ischémie myocardique sans angor** et 50% des infarctus du myocarde sont **silencieux** (*SFD 2021 CAD*). Le responsable majeur est le **LDL cholestérol**. Le risque d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) est multiplié par 2 à 4.
+: Les femmes avec DT2 sont à risque élevé d'[AVC]({{< relref "accident-vasculaire-cerebral.md" >}}).
 
 Hyperglycémie modérée à jeun (HGMAJ)
 : Ou *prédiabète*, correspond au stade précurseur du diabète.  

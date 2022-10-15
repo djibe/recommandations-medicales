@@ -2,13 +2,13 @@
 title = "Insuffisance rénale chronique"
 prefix = "l'"
 titleSeo = "Insuffisance rénale chronique"
-description = "Recommandations pour la prise en charge de l'insuffisance rénale. DFG CKD-EPI, clairance de la créatinine, néphroprotection, IEC, statine, pression artérielle"
+description = "Recommandations pour la prise en charge de l'insuffisance rénale. Clairance de la créatinine selon CKD-EPI, néphroprotection, IEC, statine, pression artérielle"
 longHtml = true
 synonyms = ["et maladie rénale chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-06-19"
+lastmod = "2022-10-15"
 specialites = ["nephrologie"]
 annees = "2021"
 sources = ["HAS", "KDIGO", "ESC"]
@@ -18,19 +18,19 @@ sctid = "42399005"
 flowchart = true
 image = true
 imageSrc = "Illustration de l'insuffisance rénale par pch.vector / Freepik"
-todo = "consultation dediee Coter C + ALD ???, aliments riches K/P"
+todo = "aliments riches K/P"
 +++
 
 {{% article-summary %}}
 
 - {{< modal-btn modal-creatinine >}}Situations où le débit de filtration estimé n'est pas fiable{{< /modal-btn >}}
-- Dépistage annuel des populations à risque par créatininémie + albuminurie sur échantillon
-- 3 piliers: étiologie, DFGe et albuminurie
+- Dépistage annuel des populations à risque d'insuffisance rénale par créatininémie + albuminurie sur échantillon
+- 3 piliers de l'évaluation rénale: étiologie, DFG et albuminurie
 - Toute personne avec une insuffisance rénale est à {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Néphroprotection  
-  {{< modal-btn modal-nephrotoxiques >}}Éviter les néphrotoxiques{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, PA < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, vaccin covid-19...
+  {{< modal-btn modal-nephrotoxiques >}}Éviter les néphrotoxiques{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, PA < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}}, vaccin covid-19 ...
 - Adaptation des traitements selon {{< scores/ckd-epi >}}
-- Estimation de la progression de la maladie: [score KFRE](https://kidneyfailurerisk.com/)
+- Estimation de la progression de la maladie rénale chronique: [score KFRE](https://kidneyfailurerisk.com/)
 - Le suivi de l'enfant relève exclusivement du néphrologue
 
 {{%/article-summary%}}
@@ -167,7 +167,7 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 | 5     | &lt; 15       | IRC terminale |
 {{< /table >}}
 
-> DFGe selon CKD-EPI en mL/min/1,73 m². Ajouter un T au stade quand patient greffé (ex: 4T)
+> DFGe = DFG estimé selon CKD-EPI en mL/min/1,73 m². Ajouter un T au stade quand patient greffé (ex: 4T)
 
 {{< table title="Classification de l'albuminurie selon KDIGO 2012" >}}
 | Stade | mg/mmol | mg/g     | mg/24h   | Définition           |
@@ -259,29 +259,33 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
   {{%class%}}Considérer si diabète avec albuminurie sans hypertension (*KDIGO 2020*){{%/class%}}
   - PA cible < 120/90 mmHg (*KDIGO 2021*), {{%class%}}< 150-160 si ≥ 80 ans (*HAS 2021*){{%/class%}}
   - Greffe < 130/80 mmHg (*KDIGO 2021*)
-  - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} (ou {{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}) ± thiazidique ou anticalcique
+  - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} ou {{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale
   - Automesure tensionnelle
-- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,7 g/L et réduction ≥ 50%
-  - {{< modal-btn modal-rcv >}}DFGe < 30{{< /modal-btn >}}: LDL cible < 0,55 g/L et réduction ≥ 50%
+- {{< modal-btn modal-statine-intensite >}}Statine de moyenne intensité{{< /modal-btn >}}
+  - {{< modal-btn modal-rcv >}}RCV très élevé{{< /modal-btn >}}: LDL cible < 0,55 g/L et réduction +50%  
+    IRC sévère ou modérée avec albuminurie &gt; 3 ; diabète et DFG < 45 ou DFG 45-59 avec albu 3-30 ou albu +30
+  - {{< modal-btn modal-rcv >}}RCV élevé{{< /modal-btn >}}: LDL cible < 0,7 g/L et réduction +50%  
+    Toutes les autres atteintes rénales.
 - **Albuminurie cible** < 30 mg/mmol par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}  
 < 3 mg/mmol chez le diabétique.
+- Envisager la {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}} (*ESC 2021*)
 - Protéines < 1 g/kg/j
   - DFGe < 60: 0,6-0,8 g/kg/j
   - Sauf chez la personne âgée
-- Vaccination
+- Vaccinations
   - Grippe annuelle
   - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}}
   - Covid-19
   - Sérologie [hépatite B]({{< relref "hepatite-b.md" >}}) ± vacciner  
-  {{%class%}}Cible anti-HBs > 10 UI/L.{{%/class%}}
-- Ferritinémie cible > 100 ng/mL
+  {{%class%}}Cible anti-HBs +10 UI/L.{{%/class%}}
+- Ferritinémie cible +100 ng/mL
 - DFGe < 45
   - Suivi par néphrologue impératif
   - Protection du *capital veineux*
-  - Vitamine D cible ≥ 75 nmol/L (*Souberbielle 2019*)
+  - Vitamine D cible +75 nmol/L (*Souberbielle 2019*)
 - Si diabète
   - {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}}  
-  8% si IRC sévère ou terminale.
+    8% si IRC sévère ou terminale.
   - Suivi diabétologique impératif
   - Attention au risque hypoglycémique (sulfamide, glinide, insuline)
 - Bicarbonates < 22 mmol/L: supplémentation
@@ -352,7 +356,7 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
 ### Traitement des complications
 
 - Anémie
-  - Ferritinémie cible > 100 ng/mL
+  - Ferritinémie cible +100 ng/mL
   - Bilan CRP, dosage vitamines B9 et B12
   - Si insuffisants et Hb < 10 g/dL:  
   EPO par spécialiste avec cible 10-12 g/dL et surveillance tensionnelle.
@@ -431,6 +435,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%sources%}}
 
+- {{< references/esc-cvd >}}
 - {{< references/sfd-dt2 >}}
 - [HAS. Maladie rénale chronique de l'adulte. Guide du parcours de soins. Juillet 2021.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
 - [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. 2021.](https://www.kidney-international.org/article/S0085-2538(20)31269-2/fulltext)
@@ -449,7 +454,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{< clinique/creatinine-inadaptee >}}
 
 {{% /modal %}}
-{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 
@@ -477,6 +482,11 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{% modal title="ARA2 dans l'hypertension" id="modal-ara2" size="lg"%}}
 
 {{< traitements/ara2 >}}
+
+{{% /modal %}}
+{{% modal title="Inhibiteurs du cotransporteur SLGT2" id="modal-isglt2"%}}
+
+{{< traitements/isglt2 >}}
 
 {{% /modal %}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}

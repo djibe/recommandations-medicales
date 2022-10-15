@@ -348,7 +348,7 @@ ou débutant une activité intense (> 6 METs)
 {{< clinique/risque-coronaire-diabete >}}
 
 {{% /modal %}}
-{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

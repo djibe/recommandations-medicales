@@ -15,7 +15,7 @@ anglais = ["Statin"]
 sctid = "372912004"
 image = true
 imageSrc = "Illustration des statines par macrovector / Freepik"
-todo = "SEO"
+todo = "SEO, ESC CVD p.16"
 +++
 
 {{%article-summary%}}

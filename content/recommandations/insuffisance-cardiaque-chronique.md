@@ -8,7 +8,7 @@ synonyms = ["Insuffisance cardiaque à FEVG altérée", "insuffisance cardiaque 
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
 publishdate = "2021-06-03"
-lastmod = "2022-10-11"
+lastmod = "2022-10-15"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS"]
@@ -537,6 +537,7 @@ réalistes
 {{%sources%}}
 
 - [HAS. JARDIANCE (empagliflozine) - Insuffisance cardiaque chronique symptomatique. 16/09/2022.](https://www.has-sante.fr/jcms/p_3352200/fr/jardiance-empagliflozine-insuffisance-cardiaque-chronique-symptomatique)
+- {{< references/esc-cvd >}}
 - [McDonagh T et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) With the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. 2021.](https://doi.org/10.1093/eurheartj/ehab368)
 - Prescrire Redaction. Insuffisances cardiaques médicamenteuses en bref, Patients insuffisants cardiaques chroniques. Janvier 2021.
 - [Fervers B. et al; Santé Publique France. Indications d'un programme d'activité physique, en complément au traitement médical. BEH. 2020.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical)

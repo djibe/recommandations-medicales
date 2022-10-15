@@ -8,9 +8,9 @@ synonyms = ["AOMI", "artériopathie aorto-iliaque et des membres inférieurs", "
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-05-05T18:53:00+02:00"
 publishdate = "2021-05-16"
-lastmod = "2022-05-25"
+lastmod = "2022-10-15"
 specialites = ["cardiologie"]
-annees = "2020"
+annees = "2021"
 sources = ["ESC", "HAS", "SFMV"]
 tags = ["depistage", "diabete", "epreuve effort", "HTA", "neuropathie", "risque cardiovasculaire", "tabac", "vaccin"]
 anglais = ["Lower extremity artery disease (LEAD)"]
@@ -27,7 +27,7 @@ todo = "centres réadapt vasculaire, QDV EQ-5D, association patient, https://pub
 - La présence d'une artériopathie des membres inférieurs définit un {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}}
 - Bilan des autres localisations athéromateuses
 - Suivi par cardiologue et angiologue
-- Thérapeutique: {{< modal-btn modal-statine-intensite >}}statine{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, sevrage tabagique, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
+- Thérapeutique: {{< modal-btn modal-statine-intensite >}}statine{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, sevrage tabagique, clopidogrel, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -112,7 +112,7 @@ TZD
 
 ### Chez qui dépister l'AOMI ?
 
-- {{< modal-btn modal-depistage-prevalent >}}Ciblé ≥ 55 ans{{< /modal-btn >}} (*Bendermacher 2007*)
+- {{< modal-btn modal-depistage-prevalent >}}Ciblé +55 ans{{< /modal-btn >}} (*Bendermacher 2007*)
 - Suspicion clinique
   - Abolition des pouls distaux ou souffle vasculaire
   - Douleur d'effort
@@ -127,10 +127,10 @@ TZD
   - [Diabète]({{< relref "diabete-type-2.md" >}}) (*ESC 2019 diabetes*)  
   Au diagnostic puis tous les 5-10 ans.
 - Asymptomatique à risque d'AOMI
-  - **Âge ≥ 65 ans**
+  - **Âge +65 ans**
   - {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé{{< /modal-btn >}}
-  - Âge ≥ 50 ans avec antécédent familial d'AOMI
-  - Âge ≥ 50 ans avec ≥ 1 autre facteur de risque cardiovasculaire (*SFMV 2020*)
+  - Âge +50 ans avec antécédent familial d'AOMI
+  - Âge +50 ans avec ≥ 1 autre facteur de risque cardiovasculaire (*SFMV 2020*)
 
 > Indications au dépistage de l'AOMI selon *ESC 2017* (sauf mention contraire)
 
@@ -178,12 +178,12 @@ Signes et symptômes de l'artériopathie oblitérante des membres inférieurs:
 ### Examen Clinique
 
 - Pression artérielle aux 2 bras  
-{{%class%}}Une différence ≥ 15 mmHg est un marqueur de maladie cardiovasculaire et de décès.{{%/class%}}
+  {{%class%}}Une différence ≥ 15 mmHg est un marqueur de maladie cardiovasculaire et de décès.{{%/class%}}
 - Auscultation cardiaque et vasculaire  
-Iliaque, fémorale ou poplité, souffle systolique au triangle de Scarpa ++ (RV+ 4), abdominale (AAA).
+  Iliaque, fémorale ou poplité, souffle systolique au triangle de Scarpa ++ (RV+ 4), abdominale (AAA).
 - Palpation abdominale
 - Palpation des pouls périphériques des 4 membres  
-{{%class%}}Fémoraux, poplité; pédieux et tibiaux postérieurs ++ (RV+ 5).{{%/class%}}
+  {{%class%}}Fémoraux, poplité; pédieux et tibiaux postérieurs ++ (RV+ 5).{{%/class%}}
 - Examen des jambes et pieds
   - Dépilation, peau sèche, blanche, froide (RV+ 6)
   - Temps de recoloration cutanée (> 2 s)
@@ -224,7 +224,7 @@ L'*ESC* encourage la **mesure de l'index de pression systolique** (IPS) par tout
 
 {{%info%}}
 
-### Bilan devant une artériopathie des membres inférieurs
+### Bilan devant une artériopathie des membres inférieurs (AOMI)
 
 - Biologie
   - NFS
@@ -255,47 +255,45 @@ L'ECG dépiste une coronaropathie ou un trouble du rythme associé.
 {{% /collapse %}}
 {{%collapse "Traitement de l'AOMI" %}}
 
-**Objectif du traitement de l'artériopathie:** obtenir une amélioration du périmètre de marche et restaurer une qualité de vie.
+**Objectif de la prise en charge de l'artériopathie:** obtenir une amélioration du périmètre de marche et restaurer une qualité de vie.
 
 {{%info%}}Suivi cardiologique spécialisé, traitement systématique par statine et IEC, sevrage tabagique et mesures d'hygiène{{%/info%}}
 
-- [ALD n°3]({{< relref "affection-longue-duree.md" >}})  
-  Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant nécessité revascularisation ou amputation.
-- Arrêt du tabac
+- Réadaptation vasculaire en centre voire par kinésithérapeute
 - {{< modal-btn modal-statine-intensite >}}Statine systématique{{< /modal-btn >}}
   - {{< modal-btn modal-rcv >}}LDL cible < 0,55 g/L{{< /modal-btn >}} avec contrôle annuel
   - Ajout d'ézétimibe voire evolocumab sur avis spécialisé
 - Clopidogrel 75 mg/j
-  - Indications: claudication ou AOMI masquée, prévention secondaire, revascularisation du MI ou {{< modal-btn modal-rcv-diabete >}}diabète à haut RCV{{< /modal-btn >}}
+  - Indications: claudication ou AOMI masquée, MCV, revascularisation du MI ou {{< modal-btn modal-rcv-diabete >}}diabète à haut RCV{{< /modal-btn >}}
   - Sinon aspirine 75-100 mg/j
   - Si double antiagrégant: pantoprazole
 - {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} systématique (voire ARA2, *SFMV 2020*).
-- Pression artérielle cible 120-140/90 mmHg
+- Pression artérielle cible 120-139/90 mmHg
   - Cible moindre en atteinte sévère pour maintien de pression distale
   - Classes possibles: TZD, IEC/ARA2, anticalcique voire BB
   - Précautions avec les BB en ischémie chronique
   - Apports sodés < 5 g/j
-- Suivi cardiologique systématique  
-  Par {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} pour évaluer le risque coronarien et d'insuffisance cardiaque.
-- Suivi angiologique
-- Vaccins
-  - [Grippe annuelle]({{< relref "grippe.md" >}}) (*SFMV 2020*)
-  - Mise à jour de la vaccination antitétanique
-- {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}} et correction d'un surpoids  
-  Évaluations diététiques répétées, lutte contre la {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}.
-- Réadaptation vasculaire en centre voire par kinésithérapeute
-- Activité physique quotidienne  
-  Auto-exercices et podomètre.
+- Mesures hygiéno-diététiques
+  - **Arrêt du tabac**
+  - Activité physique quotidienne: auto-exercices et podomètre
+  - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
+  - Correction d'un surpoids  
+    Évaluations diététiques répétées, lutte contre la {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}.
+  - Vaccins: [grippe annuelle]({{< relref "grippe.md" >}}) (*SFMV 2020*), tétanos
+- Suivi
+  - Suivi au moins annuel, IPS et doppler recontrôlés en modification des symptômes
+  - Cardiologique systématique  
+    Par {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} pour évaluer le risque coronarien et d'insuffisance cardiaque.
+  - Suivi angiologique
 - Si diabète
   - PAD cible < 85 mmHg
   - {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}} (*SFD 2019*, *SFMV 2020*)
   - ≤ 8% si comorbidité sévère ou espérance de vie < 5 ans
   - AOMI symptomatique: envisager rivaroxaban 2,5 mg x 2/j + aspirine 100 mg/j (*ESC 2019 diabetes*)
+- [ALD n°3]({{< relref "affection-longue-duree.md" >}})  
+  Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant nécessité revascularisation ou amputation.
 - Participer à la recherche  
   [ComPaRe](https://compare.aphp.fr/)
-
-Suivi au moins annuel, IPS et doppler recontrôlés en modification des symptômes.  
-Suivi déterminé par l'angiologue après revascularisation.
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
@@ -319,13 +317,11 @@ style depister stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{%/collapse%}}
-{{%collapse "FMC gratuite" %}}
+{{%sources%}}
 
 {{< youtube id="YqY_zHXRgxQ" title="La mesure de l'index de pression systolique (Dr Richard Belley)" >}}
 
-{{% /collapse %}}
-{{%sources%}}
-
+- {{< references/esc-cvd >}}
 - {{< references/sfd-dt2 >}}
 - [Mahé G. et al, the SFMV/SCVE group. Disparities between international guidelines (AHA/ESC/ESVS/ESVM/SVS) concerning - Lower extremity arterial disease: consensus of the French Society of Vascular Medicine (SFMV) and the French Society for Vascular and Endovascular Surgery (SCVE). Annals of Vascular Surgery. 2021.](https://doi.org/10.1016/j.avsg.2020.11.011)
 - {{< references/esc-dyslipidemie >}}
@@ -340,7 +336,7 @@ style depister stroke:#4150f5, stroke-width:1px
 - [HAS. Prise en charge de l'artériopathie chronique oblitérante athéroscléreuse des membres inférieurs. Avril 2006.](https://www.has-sante.fr/jcms/c_272513/fr/prise-en-charge-de-l-arteriopathie-chronique-obliterante-atherosclereuse-des-membres-inferieurs-indications-medicamenteuses-de-revascularisation-et-de-reeducation)
 
 {{%/sources%}}
-{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

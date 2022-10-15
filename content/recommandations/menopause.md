@@ -614,7 +614,7 @@ Décroît après l'arrêt du traitement.
 - [HAS. Les traitements hormonaux substitutifs de la ménopause. 2004.](https://www.has-sante.fr/jcms/c_272308/fr/les-traitements-hormonaux-substitutifs-de-la-menopause)
 
 {{%/sources%}}
-{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

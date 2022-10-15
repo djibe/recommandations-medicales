@@ -237,7 +237,7 @@ Informer: les microbes ne sont pas éliminés par la sueur.
 - <https://www.sciencedirect.com/science/article/abs/pii/S0735109721081572>
 
 {{%/sources%}}
-{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-risque-cv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-risque-cv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

@@ -87,7 +87,7 @@ Ensemble de grilles et scores essentiels en pratique quotidienne de m√©decine g√
 {{< scores/aomi-prevalent >}}
 
 {{% /modal %}}
-{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

@@ -8,16 +8,16 @@ synonyms = ["Arythmie complète par fibrillation auriculaire ou ACFA"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-05T17:43:41+02:00"
 publishdate = "2022-02-10"
-lastmod = "2022-02-14"
+lastmod = "2022-10-15"
 specialites = ["cardiologie"]
-annees = "2020"
+annees = "2021"
 sources = ["ESC", "HAS"]
 tags = ["anticoagulant", "demence", "depistage", "dyspnee", "fatigue", "HTA", "SAS", "TSH"]
 anglais = ["Atrial fibrillation"]
 sctid = "49436004"
 image = true
 imageSrc = "Fibrillation atriale sur 2 dérivations, PeaBrainC, CC BY-SA 4.0 via Wikimedia Commons"
-todo = "ESC 2020: chap 11.5 saignement, Prescrire, Source 2013 bonne pour EGS, prev IRC Marijon"
+todo = "ESC 2020: chap 11.5 saignement, Source 2013 bonne pour EGS, prev IRC Marijon"
 +++
 
 {{%article-summary%}}
@@ -366,6 +366,7 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/esc-cvd >}}
 - [Hindricks G. et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Hear Jour. 2021.](https://doi.org/10.1093/eurheartj/ehaa612)
 - Prescrire Redaction. Fibrillation auriculaire. Premiers Choix Prescrire. Février 2021.
 - [Collège National des Enseignants de Cardiologie. Fibrillation atriale. Item 230 - UE8. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch14_fibrillation_atriale.pdf)
@@ -393,7 +394,7 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{< scores/ehra >}}
 
 {{% /modal %}}
-{{% modal title="Risque cardiovasculaire selon ESC 2019" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 
