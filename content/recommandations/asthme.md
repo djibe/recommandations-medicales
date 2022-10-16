@@ -8,7 +8,7 @@ synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-06-21T10:56:00+02:00"
 publishdate = "2021-06-29"
-lastmod = "2022-05-30"
+lastmod = "2022-10-16"
 specialites = ["pneumologie"]
 annees = "2022"
 sources = ["ERS", "GINA", "SPLF", "HAS"]
@@ -30,9 +30,9 @@ todo = "vaccins pneumocoque, A LIRE - doses Symbicort turbuhaler, GINA 2021 p21,
 - EFR 1-3 fois par an
 - 80% ne savent pas utiliser l'inhalateur (*GINA 2019*)
 - Le plan d'action doit être écrit
-- Jamais de {{< modal-btn modal-ttt-baca >}}bronchodilatateurs de courte durée{{< /modal-btn >}} seuls
-- Traitements d'entretien de l'asthme: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous. Ou en asthme parfaitement contrôlé sans traitement {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide{{< /modal-btn >}} en cas de symptômes
-- Traitement de secours de l'asthme: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide{{< /modal-btn >}}
+- Jamais de {{< modal-btn modal-ttt-baca >}}bronchodilatateur de courte durée{{< /modal-btn >}} seul
+- Traitement de crise de l'asthme: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide{{< /modal-btn >}}
+- Traitements de fond de l'asthme: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous. Ou en asthme parfaitement contrôlé sans traitement {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide{{< /modal-btn >}} en cas de symptômes. {{< modal-btn modal-vaccin-pneumocoque >}}Vaccin pneumocoque{{< /modal-btn >}} et grippe si en ALD
 - Décroissance: par paliers de 25-50% si parfaitement contrôlé 2-3 mois jusqu'à {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide{{< /modal-btn >}} en cas de symptômes
 
 {{%/article-summary%}}
@@ -252,9 +252,9 @@ Réévaluer l'efficacité du traitement initial à 2-3 mois.
 - Limitation variable du débit expiratoire de pointe  
 {{%class%}}Meilleure des 3 mesures consécutives.{{%/class%}}
 - Diagnostic d'asthme
-  - Posé par qui
+  - Posé par quel professionnel ?
   - Examens complémentaires
-  - Contrôle de l'asthme
+  - {{< modal-btn modal-score-act >}}Contrôle de l'asthme{{< /modal-btn >}}
   - Suivi médical
 - Exacerbation
   - Facteur déclenchant  
@@ -279,7 +279,7 @@ Mesure du DEP pour les personnes percevant mal leurs symptômes.
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Selon le terrain:
+Diagnostic différentiel de l'asthme, à étayer selon le terrain:
 
 - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
 - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
@@ -309,17 +309,16 @@ Répéter au diagnostic pour obtenir une certitude.
 
 ### Radiographie thoracique
 
-Au diagnostic.
+Radiographie de thorax systématique au diagnostic.
 
 ### Autres bilans
 
 - NFS
-- Gaz du sang  
-  Adulte avec VEMS < 50%, discordance symptômes-VEMS
+- Gaz du sang si:adulte avec VEMS < 50%, discordance symptômes-VEMS
 
 ### Consultations spécialisées
 
-- Bilan allergologique systématique en pédiatrie (HAS 2006)
+- Bilan allergologique systématique en pédiatrie (*HAS 2006*)
 - Consultation ORL
 
 {{% /collapse %}}
@@ -423,6 +422,7 @@ Confirmer le diagnostic avant de démarrer un traitement (*GINA 2019*), puis ins
   - Toutes les mesures du *Contrôle de l'asthme* (voir partie dédiée plus haut)
   - **{{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous** (même si BPCO associée, voir *Stratégie de traitement de l'asthme selon GINA*)
   - Toujours disposer de {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} de secours
+  - {{< modal-btn modal-vaccin-pneumocoque >}}Vaccin pneumocoque{{< /modal-btn >}} et coqueluche ++
   - [Carte du patient asthmatique](https://asthme-allergies.org/carte-asthme-agir/)
   - [Guide patient HAS: vivre avec un asthme (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/guide_patient-asthme.pdf)
   - [Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/)
@@ -434,12 +434,11 @@ Confirmer le diagnostic avant de démarrer un traitement (*GINA 2019*), puis ins
   Bêtabloquants de façon relative, aspirine et AINS si hypersensibilité.
 - Asthme professionnel  
   Déclarer la maladie professionnelle, médecin du travail, reclassement, RQTH.
-- Association de patients  
-  [Asthme & Allergies](https://asthme-allergies.org/)
+- Association de patients: [Asthme & Allergies](https://asthme-allergies.org/)
 
 #### Asthme et ALD
 
-Conditions de prise en charge à 100% de l'asthme par l'ALD 14.
+Conditions de prise en charge à 100% de l'asthme par l'ALD 14:
 
 - Adulte: asthme persistant sévère
   - Symptômes permanents, exacerbations fréquentes, asthme nocturne fréquent ou activité physique limitée par les symptômes
@@ -449,7 +448,7 @@ Conditions de prise en charge à 100% de l'asthme par l'ALD 14.
   - Persistance des symptômes et/ou anomalies EFR
   - Malgré LABA + CSI fortes doses
 
-En cas d'ALD, vaccin grippe annuel et {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}.
+En cas d'ALD, vaccin grippe annuel (et {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}).
 
 ### Asthme non contrôlé
 
@@ -513,6 +512,7 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 - [GINA. Global strategy for the asthma management and prevention. 2021.](https://ginasthma.org/reports/)
 - [Gaillard EA. et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5–16 years. Eur Respir J. 2021.](https://doi.org/10.1183/13993003.04173-2020)
 - [Collège des enseignants de pneumologie. Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_188_ASTHME-RHINITE_2021_ex_item_1841.pdf)
+- [Raherison-Semjen C. et al. Asthme. Revue des Maladies Respiratoires Actualités. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1877120320300598)
 - [Santé Publique France. Asthme. 05/10/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/asthme)
 - Prescrire Redaction. Asthme. Premiers choix Prescrire. Juin 2020.
 - [Raherison C. et al. Updated guidelines (2015) for management and monitoring of adult and adolescent asthmatic patients (from 12 years and older) of the Société de pneumologie de langue française (SPLF) (summary). Revue des Maladies Respiratoires. 2016. (PDF)](https://splf.fr/wp-content/uploads/2016/11/reco-asthme-re%CC%81sume%CC%81-2016.pdf)
