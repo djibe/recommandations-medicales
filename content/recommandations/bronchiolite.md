@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-16T08:08:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2021-11-16"
+lastmod = "2022-10-17"
 specialites = ["pediatrie"]
 annees = "2019"
 sources = ["HAS", "SFP"]
@@ -16,37 +16,39 @@ tags = ["asthme", "nourrisson"]
 anglais = ["Bronchiolitis"]
 sctid = "4120002"
 flowchart = true
-image = false
-imageSrc = ""
-todo = "SEO, avis CT, FC + SpO2 selon l'âge, relecture, https://afpa.org/outil/normes-cardiorespiratoires-utiles/, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
+image = true
+imageSrc = "Image du Virus respiratoire syncytial de la bronchiolite par le CDC 1981 du United States Department of Health and Human Services, Public domain, via Wikimedia Commons"
+todo = "avis CT, FC + SpO2 selon l'âge, https://afpa.org/outil/normes-cardiorespiratoires-utiles/, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
 +++
 
 {{%article-summary%}}
 
-- La bronchiolite concerne uniquement les enfants < 12 mois (*asthme du nourrisson* au-delà ou si ≥ 3 épisodes)
-- Éliminer insuffisance cardiaque et pneumopathie
-- Hospitalisation: voir *Signes de gravité et hospitalisation*
-- Durée de 3 à 10 jours (voire 6 semaines)
-- DRP - fractionner - surveillance - 0 tabac
-- [Fiche conseils aux parents (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
+- La bronchiolite concerne uniquement les enfants de moins de 12 mois (*asthme du nourrisson* au-delà ou à partir de 2-3 épisodes)
+- Éliminer une insuffisance cardiaque et une pneumopathie
+- Critères d'hospitalisation de la bronchiolite: voir *Signes de gravité et hospitalisation*
+- Durée de la dyspnée de 3 à 10 jours (voire 6 semaines)
+- Prise en charge de la bronchiolite: DRP - fractionner - surveillance - 0 tabac
+- [Bronchiolite: Fiche conseils aux parents HAS (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définitions et diagnostic différentiel" %}}
 
 Bronchiolite aiguë (BA)
 : Infection virale respiratoire épidémique du nourrisson (VRS 50-80% des cas, co-infection 10%) d'évolution favorable dans la très grande majorité des cas.
-: Premier épisode aigu de gêne respiratoire (rhinite suivie de signes respiratoires: toux, sibilants, crépitants ± polypnée ± signes de lutte) du nourrisson < 12 mois à tout moment de l'année.
+: Premier épisode aigu de gêne respiratoire (rhinite suivie de signes respiratoires: toux, sibilants, crépitants ± polypnée ± signes de lutte) du nourrisson de moins de 12 mois à tout moment de l'année.
 : Persistance des signes d'obstruction respiratoire pendant 8-10 jours et une toux résiduelle peut persister 15 jours.  
 Guérison spontanée le plus souvent en 3-4 semaines.  
 Taux de récidive élevé: 23 à 60% avant 2 ans.
-: Tabagisme passif: facteur de risque majeur de BA, augmente le risque d'hospitalisation. Le tabagisme pendant la grossesse augmente le risque de BA et la gravité chez le prématuré.
+: Tabagisme passif: facteur de risque majeur de bronchiolite et augmente le risque d'hospitalisation. Le tabagisme pendant la grossesse augmente le risque de BA et la gravité chez le prématuré.
 
 Asthme du nourrisson
-: ≥ 3 épisodes de bronchiolite chez un nourrisson de < 12 mois  
-OU 2 épisodes de bronchiolite chez un nourrisson de < 12 mois avec atopie familiale ou personnelle  
+: Au-moins 3 épisodes de bronchiolite chez un nourrisson de moins de 12 mois  
+OU 2 épisodes de bronchiolite chez un nourrisson de moins de 12 mois avec atopie familiale ou personnelle  
 OU dyspnée sifflante après 12 mois (sans autre cause).
 
 ### Diagnostic différentiel de la bronchiolite
+
+Diagnostics à étayer devant un épisode de dyspnée du nourrisson:
 
 - **Insuffisance cardiaque congestive**
 - Exacerbation d'asthme
@@ -73,8 +75,7 @@ OU dyspnée sifflante après 12 mois (sans autre cause).
 
 ### Épidémiologie de la bronchiolite en France
 
-- 30% des nourrisson atteints chaque hiver  
-  Pic chez les 2 à 8 mois.
+- Prévalence: 30% des nourrisson atteints chaque hiver (pic chez les 2-8 mois)
 - Taux d'hospitalisation: 0,6/1000 (2010)  
   Hétérogénéité selon les centres.
 - 1 à 2% de cas graves
@@ -92,6 +93,9 @@ NS
 
 SCM
 : sternocléido-mastoidiens
+
+VRS
+: virus respiratoire syncytial
 {.dl-inline}
 
 {{% /collapse %}}
@@ -99,7 +103,7 @@ SCM
 
 ### 3 formes cliniques de bronchiolite: légère, modérée et grave
 
-{{< table title="Formes cliniques de la bronchiolite selon HAS/CNPP 2019" class="table-wrap">}}
+{{< table title="Formes cliniques de la bronchiolite avec les signes cliniques de gravité selon HAS/CNPP 2019" class="table-wrap">}}
 | Forme clinique                      | Légère                | Modérée                        | Grave                                        |
 |-------------------------------------|-----------------------|--------------------------------|----------------------------------------------|
 | AEG                                 | Non                   | Non                            | Oui                                          |
@@ -120,7 +124,7 @@ L'hospitalisation est la règle en présence de signe de gravité (*forme grave*
 
 - Altération de l'état général  
   Modification du comportement, hypotonie, mauvaise impression clinique.
-- ≥1 critère de gravité
+- ≥ 1 critère de gravité
   - Fréquence respiratoire sur 1 minute (> 60 ou < 30/min)
   - Fréquence cardiaque (> 180 ou < 80/min)
   - Apnées/pauses respiratoires
@@ -154,6 +158,8 @@ Vigilance accrue en forme légère avec signe de fragilité:
 
 #### Indications au palivizumab
 
+Indications à l'anticorps monoclonal palivizumab pour la bronchiolite:
+
 - Prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j ET < 6 mois en début d'épidémie de VRS
 - < 2 ans en début épidémique, prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j et ayant nécessité un traitement pour dysplasie bronchopulmonaire dans les 6 mois
 - < 2 ans avec cardiopathie congénitale avec retentissement hémodynamique
@@ -161,16 +167,15 @@ Vigilance accrue en forme légère avec signe de fragilité:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}L'examen est réalisé APRÈS une DRP{{%/info%}}
+{{%info%}}L'examen est réalisé APRÈS une désobstruction rhinopharyngée (DRP){{%/info%}}
 
-Signes et symptômes de la bronchiolite:
+Signes et symptômes cliniques de la bronchiolite aiguë du nourrisson:
 
-- Antécédents  
-  Asthme, néonataux.
+- Antécédents (asthme, néonataux)
 - Pollution  
   Tabagisme, cannabis, cigarette électronique, poêle à bois.
-- Contage
-- **Incubation 2-8 jours**, élimination en 3-7 jours (pouvant aller jusqu'à 1 mois)  
+- Contage infectieux
+- **Incubation en 2 à 8 jours**, élimination en 3-7 jours (pouvant aller jusqu'à 1 mois)  
 - **Aggravation dans les 48 premières heures**  
   Noter la date de début et tenir compte des facteurs de vulnérabilité et d'environnement.
 - Rhinopharyngite aiguë peu fébrile avec toux sèche, rhinorrhée
@@ -179,7 +184,7 @@ Signes et symptômes de la bronchiolite:
 
 ### Examen clinique
 
-{{%warning%}}Toujours rechercher une hépatomégalie, seul signe permettant d'éliminer une insuffisance cardiaque aiguë.{{%/warning%}}
+{{%warning%}}Toujours rechercher une hépatomégalie, seul signe permettant d'éliminer une insuffisance cardiaque aiguë{{%/warning%}}
 
 - Désinfection des mains et matériel et masque FFP2
 - Constantes
@@ -198,7 +203,7 @@ Signes et symptômes de la bronchiolite:
 - Difficultés d'alimentation (quantifier la réduction sur prises consécutives) ou refus d'alimentation
 - Signes de déshydratation
 - **Crépitants** (secs, inspiratoires) et/ou sous-crépitants (plus humides, expiratoires) puis apparition rapide de râles bronchiques et **sibilants** (**wheezing** fréquent)
-- Nourrisson > 1 an: auscultation plus riche dominée par les sibilants expiratoires
+- Nourrisson de +1 an: auscultation plus riche dominée par les sibilants expiratoires
 - Classer selon les 3 niveaux de gravité
 
 **NB.** L'auscultation peut être silencieuse en forme grave à thorax distendu.
@@ -210,7 +215,7 @@ Signes et symptômes de la bronchiolite:
 
 ### Radiographie pulmonaire
 
-Indications à la radio de thorax:
+Indications à la radiographie de thorax devant un épisode évocateur de bronchiolite:
 
 - Diagnostic incertain
 - Guérison trop lente
@@ -219,15 +224,15 @@ Indications à la radio de thorax:
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-Moyens recommandés pour prévenir la bronchiolite:
+Moyens recommandés de prévention de la bronchiolite:
 
 - Allaitement maternel
 - Retarder la mise en collectivité
-- Nourrisson à haut risque de forme grave: ne pas fréquenter en période épidémique
+- Nourrisson à haut risque de forme grave: ne pas fréquenter la collectivité en période épidémique
 
 #### Immunoglobulines anti-VRS
 
-[Palivizumab](https://ec.europa.eu/health/documents/community-register/2021/20210701152506/anx_152506_fr.pdf) (Synagis®) mensuel pendant la période épidémique en risque élevé d'infection grave au VRS:
+Anticorps [palivizumab](https://ec.europa.eu/health/documents/community-register/2021/20210701152506/anx_152506_fr.pdf) (Synagis®) mensuel pendant la période épidémique en risque élevé d'infection grave au VRS:
 
 - Prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j ET < 6 mois en début d'épidémie de VRS
 - < 2 ans en début épidémique, prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j et ayant nécessité un traitement pour dysplasie bronchopulmonaire dans les 6 mois
@@ -238,13 +243,13 @@ L'injection intra-musculaire mensuelle est très douloureuse (max 5 injections).
 {{% /collapse %}}
 {{%collapse "Traitement de la bronchiolite" %}}
 
-Hospitalisation si critères ci-dessus.
+Hospitalisation si critères remplis (voir plus haut).
 
 ### Prise en charge symptomatique de la bronchiolite
 
 [Fiche conseils aux parents (HAS/CNPP, PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 
-- Désobstruction rhino-pharyngée pluri-quotidienne **DRP**  
+- Désobstruction rhino-pharyngée pluri-quotidienne (**DRP**)
   - Sérum physiologique uniquement
   - << Les aspirations nasopharyngées ont plus d'effets secondaires et ne sont pas recommandées >>
 - Couchage habituel sur le dos à plat
@@ -270,19 +275,21 @@ Fractionnement des repas, pas de modification du régime habituel.
 
 Réservé à l'hospitalisation.
 
-#### Pour en savoir plus: rappels
+#### Pour en savoir plus: Rappels sur les autres traitements (oxygène, antibiothérapie)
+
+Indications spécifiques au cours d'un épisode de bronchiolite:
 
 - Oxygénothérapie  
   - Forme grave: SpO<sub>2</sub> > 94%
   - Forme modérée avec SpO<sub>2</sub> ≤ 92%: cible > 92% éveil et 90% sommeil
   - Cardiopathie: cible habituelle ou > 92% par défaut
 - Discuter une antibiothérapie si:
-  fièvre ≥ 38,5°C pendant > 48h, OMAP associée, pathologie pulmonaire ou cardiaque sous-jacente, foyer pulmonaire radiologiquement documenté, élévation CRP/PNN.
+  fièvre ≥ 38,5°C pendant +48 heures, otite associée, pathologie pulmonaire ou cardiaque sous-jacente, foyer pulmonaire radiologiquement documenté, élévation de la CRP ou hyperleucocytose.
 
 ### Kinésithérapie respiratoire et bronchiolite
 
-Globalement la kinésithérapie respiratoire n'est pas indiquée. Peut se discuter si comorbidités pour une surveillance ambulatoire.  
-Comprend la DRP, l'expiration lente prolongée/augmentation du flux expiratoire (AFE, non recommandée en hospitalisation), toux provoquée (TP).
+Globalement la kinésithérapie respiratoire n'est pas indiquée devant un épisode de bronchiolite. Elle peut se discuter en cas de comorbidités pour une **surveillance ambulatoire**.  
+La kiné comprend la DRP, l'expiration lente prolongée/augmentation du flux expiratoire (AFE, non recommandée en hospitalisation), toux provoquée (TP).
 
 Sont contre-indiquées: drainage postural, vibration, clapping, désencombrement bronchique (en ambulatoire).
 
@@ -317,7 +324,7 @@ graph TB
 - Masse médiastinale<br>- Fistule œso-trachéale")
 {{< /mermaid >}}
 
-> AA = air ambiant; Alimentation considérées sur 3 prises consécutives; FC = fréquence cardiaque; FR = fréquence respiratoire
+> **AA =** air ambiant; **FC =** fréquence cardiaque; **FR =** fréquence respiratoire. L'alimentation est quantifiée sur 3 prises consécutives
 
 {{%/collapse%}}
 {{%collapse "Bronchiolite et Permanence des soins" %}}
@@ -337,11 +344,11 @@ graph TB
 
 Revenir consulter rapidement si:
 
-- refus d'alimentation
-- troubles digestifs
-- anomalie du comportement
-- détérioration de l'état respiratoire
-- majoration de la fièvre
+- Refus d'alimentation
+- Troubles digestifs
+- Anomalie du comportement
+- Détérioration de l'état respiratoire
+- Majoration de la fièvre
 
 ### Explications sur la bronchiolite à remettre aux parents
 

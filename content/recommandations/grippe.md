@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2022-08-21"
+lastmod = "2022-10-17"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "MinSanté"]
@@ -19,7 +19,7 @@ todo = "def, grippe grossesse, antiviral, vaccin grippe porcin aviaire"
 
 {{%article-summary%}}
 
-- Vaccination annuelle des personnes à risque de forme grave à partir de mi-octobre (en métropole)  
+- Vaccination annuelle contre la grippe des personnes à risque de forme grave à partir de mi-octobre (en métropole)  
 ainsi que toutes les personnes fragiles pour la Covid-19
 - Pas de délai (voire co-injection) entre les vaccins anti-grippaux et anti-covid19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*)
 
@@ -50,7 +50,7 @@ Bon de prise en charge à 100% n°850 sur Ameli pro.
 
 Personnes à risque de forme grave de grippe saisonnière:
 
-- ≥ 65 ans
+- +65 ans
 - Femmes enceintes
 - Asthme et [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (ALD 14)
 - Insuffisances respiratoires chroniques obstructives ou restrictives
@@ -102,16 +102,19 @@ Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
 {{%/collapse%}}
 {{%collapse "Vaccins disponibles en 2022-2023" %}}
 
-- Efluelda® (≥ 60 ans)
-- FlurarixTetra®
+Vaccins contre la grippe disponibles en France:
+
+- Efluelda® (+60 ans)
 - InfluvacTetra®
 - VaxigripTetra®
 
-Campagne de vaccination: débute le 18 octobre 2022.
+La campagne de vaccination débute le 18 octobre 2022.
 
-Pas de délai (voire co-injection) entre les vaccins anti-grippaux et anti-covid19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
+[Document CRATB d'information patient contre la grippe (PDF)](http://medqual.fr/images/PRO_2018/CAT-PATHO-IFECTIEUSE/GRIPPE/MEDCAL_GRIPPE_A3_OK_VF.pdf)
 
-La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
+Pas de délai à respecter entre les vaccins anti-grippaux et anti-covid19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
+
+La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance (décret paru mais en attente de la convention par l'Assurance Maladie).
 
 ### Pour en savoir plus: Bénéfices de la vaccination antigrippale
 

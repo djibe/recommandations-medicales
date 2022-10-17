@@ -17,7 +17,7 @@ sctid = "68566005"
 flowchart = true
 image = true
 imageSrc = "Illustration des infections urinaires par Freepik"
-todo = "flowchart Figure 1 et 5, revoir uroscanner p. 23, améliorer pec ECBU+, enfants++"
+todo = "flowchart Figure 1 et 5, revoir uroscanner p. 23, améliorer pec ECBU+, enfants++, http://medqual.fr/images/PRO_2018/FORMATIONS/OUTILS/ATBR_Memo_OCT2022_OK_PAP.pdf"
 +++
 
 {{%article-summary%}}
