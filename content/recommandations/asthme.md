@@ -507,7 +507,7 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 {{% /collapse %}}
 {{%sources%}}
 
-{{< video poster="https://splf.fr/wp-content/uploads/2021/11/Webinaire-2021-12-06-1300-500.jpg" mp4="http://dts.podtrac.com/redirect.mp4/docs.splf.fr/videos/Webinaires/2021/Webinaire-asthme-2021-12-09.mp4" description="Mise à jour des recommandations 2021 pour la prise en charge des patients asthmatiques adultes (SPLF)" width="600" height="330" >}}
+{{< video poster="https://splf.fr/wp-content/uploads/2021/11/Webinaire-2021-12-06-1300-500.jpg" mp4="https://dts.podtrac.com/redirect.mp4/docs.splf.fr/videos/Webinaires/2021/Webinaire-asthme-2021-12-09.mp4" description="Mise à jour des recommandations 2021 pour la prise en charge des patients asthmatiques adultes (SPLF)" width="600" height="330" >}}
 
 - [GINA. Global strategy for the asthma management and prevention. 2021.](https://ginasthma.org/reports/)
 - [Gaillard EA. et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5–16 years. Eur Respir J. 2021.](https://doi.org/10.1183/13993003.04173-2020)
