@@ -1,38 +1,37 @@
 +++
 title = "Kyste pilonidal"
 prefix = "la "
-description = "TODO:"
+description = "Recommandations pour la prise en charge du kyste pilonidal. Traitement chirurgical avec incision en urgence. Rasage et cicatrisation dirigée en forme chronique"
 synonyms = ["Sinus pilonidal"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-16T22:24:08+02:00"
-publishdate = "2022-10-18"
-lastmod = "2022-10-18"
+publishdate = "2022-10-20"
+lastmod = "2022-10-20"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["ASCRS", "SNFGE", "SNFCP"]
 tags = []
 anglais = ["Pilonidal cyst", "pilonidal disease"]
 sctid = "47639008"
-draft = true
 image = true
 imageSrc = "Photo d'un kyste pilonidal abcédé par Jonathanlund, CC BY-SA 4.0, via Wikimedia Commons"
-todo = ""
 +++
 
 {{%article-summary%}}
 
-- Abstention si asymptomatique
-- Traitement chirurgical
-TODO:
+- Abstention devant un kyste pilonidal asymptomatique
+- En cas d'abcès (sinus pilonidal infecté): traitement chirurgical en urgence avec incision
+- Kyste pilonidal chronique invalidant: chirurgie programmée de cicatrisation dirigée
+- Correction d'un surpoids + rasage/épilation local pour limiter les récidives
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Kyste pilonidal (ou sinus pilonidal ou kyste sacro-coccygien)
 : Accumulation de débris pilaires dans le pore du sillon inter-fessier atteignant le plus souvent l'homme blanc alors jeune adulte.
-: Les complications sont infectieuses locales, avec la formation d'abcès répétés douloureux. L'évolution en tumeur épidermoïde est exceptionnelle avec un terrain VIH+ et HPV+.
+: Les complications infectieuses sont locales, avec la formation d'abcès répétés douloureux. L'évolution en tumeur épidermoïde est exceptionnelle avec un terrain [VIH+]({{< relref "vih-sida.md" >}}) et [HPV+]({{< relref "cancer-col-uterus.md" >}}).
 
-### Abréviation
+### Abréviations
 
 ASCRS
 : {{%lang%}}American Society of Colon and Rectal Surgeons{{%/lang%}}
@@ -60,10 +59,10 @@ SPI
 Le kyste pilonidal peut prendre plusieurs formes:
 
 - Forme asymptomatique  
-  Découverte fortuite d'une fossette médiane de 5 cm supra-anale, centrée par un ou plusieurs poils
+  Découverte fortuite d'une fossette médiane de 5 cm supra-anale, centrée par un ou plusieurs poils.
+- Kyste pilonidal aigu avec abcès
 - Infection chronique avec suintement séro-purulent  
   Orifice médian supra-anal (90%). Évolution par poussées possible.
-- Kyste pilonidal aigu avec abcès
 - Forme atypique  
   Abcès à distance, antérieur ou bas situé (sans fistule anale).
 
@@ -82,37 +81,31 @@ Diagnostics à évoquer devant une lésion évocatrice de sinus pilonidal:
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Traitement symptomatique
+{{%info%}}Abstention sur les formes de kystes pilonidaux asymptomatiques{{%/info%}}
 
-Abstention sur les formes asymptomatiques
+Mesures générales:
 
-Correction d'un surpoids.
-Sevrage tabagique pour bénéfice général et cicatrisation
+- Traitement symptomatique des douleurs et suintements
+- Correction d'un surpoids
+- Sevrage tabagique (bénéfice global et de cicatrisation)
 
-### Chirurgie
+### Traitement chirurgical du kyste pilonidal
 
-Incision en urgence sous anesthésie locale en cas d'abcès aigu (40% de récidives)
-Poursuivre par rasage local pendant 1-2 semaines jusqu'à cicatrisation.
+#### Kyste pilonidal abcédé
 
-ou exérèse sous AG ou locorégionale, sans plastie
+Prise en charge chirurgicale en urgence par incision sous anesthésie locale en cas d'abcès aigu. Les récidives du sinus pilonidal infecté (SPI) sont fréquentes (40%).  
+Alternative: exérèse sous anesthésie générale ou locorégionale, sans plastie.
 
-Stade chronique
+Poursuivre un rasage local pendant 1 à 2 semaines jusqu'à cicatrisation (*ASCRS*).
 
-exérèse d'emblée ou après incision si abcès collecté
+#### Kyste pilonidal au stade chronique
 
-Technique privilégiée est la cicatrisation dirigée.
-cicatrisation longue 6-12 semaines.
+Prise en charge du kyste pilonidal chronique par exérèse d'emblée ou après incision si abcès collecté.
 
-Débuter un rasage local hebdomadaire après cicatrisation permet de réduire les récidives (*ASCRS 2019*).  
-Voire épilation laser.
+La technique chirurgicale privilégiée est la cicatrisation dirigée. La cicatrisation est longue (6-12 semaines).  
+Une nouvelle technique est possible au laser (SiLaT).
 
-Nouvelle technique laser (SiLaT).
-
-### A trier
-
-Aigu ou chronique sans abcès, Application phénol local.
-
-Chronique sans abcès: colle fibrine
+Débuter un rasage local hebdomadaire après cicatrisation permet de réduire les récidives. Voire réaliser une épilation laser locale ou un application de phénol ou de colle à base de fibrine (*ASCRS 2019*).
 
 {{% /collapse %}}
 {{%sources%}}

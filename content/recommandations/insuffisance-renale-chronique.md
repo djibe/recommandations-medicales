@@ -2,17 +2,17 @@
 title = "Insuffisance rénale chronique"
 prefix = "l'"
 titleSeo = "Insuffisance rénale chronique"
-description = "Recommandations pour la prise en charge de l'insuffisance rénale. Clairance de la créatinine selon CKD-EPI, néphroprotection, IEC, statine, pression artérielle"
+description = "Recommandations pour la prise en charge de l'insuffisance rénale. Clairance de la créatinine CKD-EPI, néphroprotection, IEC, LDL et statine, pression artérielle"
 longHtml = true
 synonyms = ["et maladie rénale chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-10-15"
+lastmod = "2022-10-20"
 specialites = ["nephrologie"]
 annees = "2021"
 sources = ["HAS", "KDIGO", "ESC"]
-tags = ["depistage", "diabete", "ferritine", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "vaccin", "vitamine d"]
+tags = ["depistage", "diabete", "dyspnee", "fatigue", "ferritine", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "vaccin", "vitamine d"]
 anglais = ["Renal failure syndrome"]
 sctid = "42399005"
 flowchart = true
@@ -26,7 +26,7 @@ todo = "aliments riches K/P"
 - {{< modal-btn modal-creatinine >}}Situations où le débit de filtration estimé n'est pas fiable{{< /modal-btn >}}
 - Dépistage annuel des populations à risque d'insuffisance rénale par créatininémie + albuminurie sur échantillon
 - 3 piliers de l'évaluation rénale: étiologie, DFG et albuminurie
-- Toute personne avec une insuffisance rénale est à {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
+- Toute personne avec une insuffisance rénale chronique est à {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Néphroprotection  
   {{< modal-btn modal-nephrotoxiques >}}Éviter les néphrotoxiques{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, PA < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}}, vaccin covid-19 ...
 - Adaptation des traitements selon {{< scores/ckd-epi >}}
@@ -46,7 +46,7 @@ OU présence ≥ 1 *marqueur d'atteinte rénale* persistant **plus de 3 mois**:
     - Leucocyturie > 10/mm³ (en l'absence d'infection)
     - Anomalie morphologique à l'échographie rénale  
     Asymétrie de taille, contours bosselés, reins de petite taille/gros reins polykystiques, néphrocalcinose, kyste.
-: Elle augmente le risque et la mortalité cardiovasculaire.
+: La maladie rénale chronique augmente le risque et la {{< modal-btn modal-rcv >}}mortalité cardiovasculaire{{< /modal-btn >}}.
 
 Insuffisance rénale chronique terminale (IRCT)
 : Insuffisance rénale chronique avec un débit de filtration glomérulaire < 15 mL/min/1,73 m² (*stade 5* ou *terminale*).
@@ -191,6 +191,9 @@ Recherche de signes étiologiques et du retentissement de la maladie rénale:
 - Œdèmes, hydratation, reins palpables, signes de maladie de système
 - Urologiques  
   Signes fonctionnels urinaires, globe vésical, touchers pelvien.
+- {{< modal-btn modal-mna >}}Dénutrition{{< /modal-btn >}}
+- Stade avancé: syndrome urémique  
+  Fatigue, dyspnée, anorexie, nausées, vomissements, prurit, syndrome des jambes sans repos, crampes nocturnes, nycturie, troubles cognitifs, somnolence, hémorragies, troubles endocriniens, hypertension sévère.
 
 ### Critères pour apprécier l'évolutivité de la MRC
 
@@ -216,23 +219,23 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
 - ± Écho-doppler des artères rénales
 - NFS
 - Créatininémie avec estimation du DFGe {{< scores/ckd-epi >}}
-- Ionogramme sanguin, bicarbonates
 - Bilan lipidique (de moins d'un an)
 - Glycémie à jeun ou HbA<sub>1C</sub>
 - Urinaire  
   ECBU + échantillon albuminurie/créatininurie.
 {{%/info%}}
 
-- DFGe < 60
-  - PTH, calcémie, phosphorémie
-  - Vitamine D
-- DFGe < 45  
-  Albuminémie, urémie, AgHBs, anticorps anti-HBs et anti-HBc, urée et sodium sur urines de 24h.
-- Anémie  
-  Réticulocytes + ferritinémie.
-- **Confirmer une albuminurie** ≥ 30 mg/g (3 mg/mmol) sur un échantillon du matin
-- Signes fonctionnels urinaires, hématurie: échographie vésicale
-- Goutte symptomatique: uricémie
+- DFGe < 60 (voire < 45)
+  - Ionogramme sanguin, bicarbonates
+  - Ferritinémie
+  - [25-OH-Vitamine D]({{< relref "vitamine-d.md" >}}), calcémie, phosphorémie, PTH
+  - Albuminémie, urémie
+  - Statut hépatite B: AgHBs, anticorps anti-HBs et anti-HBc
+- Si anémie: réticulocytes  
+  {{%class%}}Anémie normochrome normocytaire arégénérative.{{%/class%}}
+- **Confirmer une albuminurie** +30 mg/g (3 mg/mmol) sur un échantillon du matin
+- Si signes fonctionnels urinaires ou hématurie: échographie vésicale
+- Si [goutte symptomatique]({{< relref "goutte.md" >}}): uricémie
 
 {{%/collapse %}}
 {{%collapse "Prise en charge et suivi de l'insuffisant rénal" %}}
@@ -452,6 +455,11 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{% modal title="Situations où le DFGe est ininterprétable selon KDIGO 2012" id="modal-creatinine"%}}
 
 {{< clinique/creatinine-inadaptee >}}
+
+{{% /modal %}}
+{{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
+
+{{< scores/mna >}}
 
 {{% /modal %}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
