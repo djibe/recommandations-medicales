@@ -1,0 +1,71 @@
+<div class="my-4" id="score-scoff">
+  <p>Questionnaire <abbr title="Sick - Control - One - Fat - Food" lang="en">SCOFF</abbr> pour le dépistage des troubles du comportement alimentaire (<abbr title="troubles du comportement alimentaire">TCA</abbr>).</p>
+  <fieldset>
+    <legend>1. Vous êtes-vous déjà fait vomir parce que vous ne vous sentiez pas bien « l'estomac plein »&nbsp;</legend>
+    <input type="radio" id="scoff-11" name="radio-scoff-1" class="d-input-none" value="1" required>
+    <label for="scoff-11" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="scoff-12" name="radio-scoff-1" class="d-input-none" value="0">
+    <label for="scoff-12" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>2. Craignez-vous d'avoir perdu le contrôle des quantités que vous mangez&nbsp;?</legend>
+    <input type="radio" id="scoff-21" name="radio-scoff-2" class="d-input-none" value="1" required>
+    <label for="scoff-21" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="scoff-22" name="radio-scoff-2" class="d-input-none" value="0">
+    <label for="scoff-22" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>3. Avez-vous récemment perdu plus de 6 kilos en moins de trois mois&nbsp;?</legend>
+    <input type="radio" id="scoff-31" name="radio-scoff-3" class="d-input-none" value="1" required>
+    <label for="scoff-31" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="scoff-32" name="radio-scoff-3" class="d-input-none" value="0">
+    <label for="scoff-32" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>4. Pensez-vous que vous êtes trop gros(se) alors que les autres vous considèrent comme trop mince&nbsp;?</legend>
+    <input type="radio" id="scoff-41" name="radio-scoff-4" class="d-input-none" value="1" required>
+    <label for="scoff-41" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="scoff-42" name="radio-scoff-4" class="d-input-none" value="0">
+    <label for="scoff-42" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>5. Diriez-vous que la nourriture est quelque chose qui occupe une place dominante dans votre vie&nbsp;?</legend>
+    <input type="radio" id="scoff-51" name="radio-scoff-5" class="d-input-none" value="1" required>
+    <label for="scoff-51" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="scoff-52" name="radio-scoff-5" class="d-input-none" value="0">
+    <label for="scoff-52" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <div class="alert bg-light d-flex mt-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline score-output-title">Score SCOFF-F</p>
+      <output class="score-output" id="scoffScore">0</output>
+    </div>
+    <p id="scoffText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  </div>
+</div>
+<blockquote class="mt-4">
+  <p lang="en"><a href="https://pubmed.ncbi.nlm.nih.gov/12364305/" rel="external nofollow noopener">Luck AJ. et al. The SCOFF questionnaire and clinical interview for eating disorders in general practice: comparative study. BMJ. 2002;325(7367):755-756.</a> et <a href="https://pubmed.ncbi.nlm.nih.gov/20509759/" rel="external nofollow noopener">Garcia FD. et al. Validation of the French version of SCOFF questionnaire for screening of eating disorders among adults. World J Biol Psychiatry. 2010 Oct;11(7):888-93.</a></p>
+</blockquote>
+{{ $script := `
+  // Score SCOFF-F by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scorescoff = document.getElementById('scoffScore')
+    const textscoff = document.getElementById('scoffText');
+    [...document.querySelectorAll('#score-scoff input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcScoff() ) })
+    const calcScoff = () => {
+      let score = 0
+      const scoffElemsChecked = document.querySelectorAll('#score-scoff input[type=\"radio\"]:checked')
+      scoffElemsChecked.forEach(scoffElemChecked => {
+        score += parseInt(scoffElemChecked.value, 10)
+        if (scoffElemsChecked.length === 5) {
+          scorescoff.innerHTML = score
+          if (score >= 2) {
+            textscoff.innerHTML = 'TCA possible'
+          } else {
+            textscoff.innerHTML = 'Pas de TCA'
+          }
+        }
+      })
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>

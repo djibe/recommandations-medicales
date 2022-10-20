@@ -22,7 +22,7 @@ imageSrc = "Illustration de l'IVG par stories / Freepik"
 
 {{%article-summary%}}
 
-- L'interruption volontaire de grossesse (IVG) est autorisée jusqu'à 14 semaines d'aménorrhée (SA), en ville jusqu'à 9 SA (depuis [avril 2021](https://www.has-sante.fr/jcms/p_3223429/fr/interruption-volontaire-de-grossesse-par-methode-medicamenteuse-mise-a-jour))
+- L'interruption volontaire de grossesse (IVG) est autorisée jusqu'à 14 semaines d'aménorrhée (SA), en ville jusqu'à 9 SA (depuis avril 2021)
 - Temps de réflexion d'une semaine (sauf délai avancé)
 - Systématiques: calcul du terme + examen gynécologique + groupe sanguin + échographie pelvienne
 - Centres et praticiens réalisant des IVG: [ivg.gouv](https://ivg.gouv.fr/) (téléphone {{<phone>}}0 800 08 11 11{{</phone>}}) et [ivglesadressess.org](https://ivglesadresses.org/)

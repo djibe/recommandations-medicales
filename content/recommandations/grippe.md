@@ -105,6 +105,7 @@ Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
 Vaccins contre la grippe disponibles en France:
 
 - Efluelda® (+60 ans)
+- FlurarixTetra®
 - InfluvacTetra®
 - VaxigripTetra®
 

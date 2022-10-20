@@ -308,6 +308,8 @@ Réévaluation à chaque consultation, au moins mensuelle (trimestrielle mois ch
 
 ### Exemple de questions
 
+[Appli patient Poids plus](https://play.google.com/store/apps/details?id=com.poids&hl=fr)
+
 - Combien faites-vous de repas par jour ?
 - Mangez-vous tout votre repas ?
 - Est-ce qu'il y a certains aliments que vous ne mangez pas ?

@@ -2,53 +2,47 @@
 title = "Boulimie et hyperphagie boulimique"
 prefix = "les "
 titleSeo = "Boulimie et hyperphagie"
-description = "TODO:"
+description = "Recommandations pour la prise en charge de la boulimie. Dépistage des personnes à risque (mannequin), éducation thérapeutique, équipe spécialisée, Boulimie Info"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-09-26T14:50:48+02:00"
-publishdate = "2022-09-26"
-lastmod = "2022-09-26"
-specialites = ["endocrinologie"]
+publishdate = "2022-10-20"
+lastmod = "2022-10-20"
+specialites = ["psychiatrie"]
 annees = "2019"
-sources = ["HAS"]
-tags = ["depistage"]
+sources = ["HAS", "FFAB"]
+tags = ["depistage", "vitamine d"]
 anglais = ["Bulimia nervosa"]
 sctid = "78004001"
-draft = true
-image = false
-imageSrc = ""
-todo = "borderline, score SCOFF-F, autres sources"
+image = true
+imageSrc = "Illustration de la boulimie par storyset / Freepik"
+todo = "borderline"
 +++
 
 {{%article-summary%}}
 
-- La boulimie et l'hyperphagie boulimique (sans comportement de compensation) débutent le plus souvent vers 18 ans, avec prédominance de jeunes filles pour la boulimie (90%)
-- Retentissement individuel (physique, psychique), familial et social à l'origine d'une surmortalité (troubles métaboliques et suicide)
-- L'accueil doit être bienveillant, empathique, sans moralisation. Répéter que la guérison est possible
-- Identifier les populations à risque (adolescents, mannequins, surpoids ... voir *Quand évoquer une boulimie ?*)
-- Repérer un TCA dans ces populations (ou [questionnaire SCOFF-F](https://www.journeemondialetca.fr/tout-sur-les-tca/test-du-scoff)):
-  - Avez-vous, avez-vous eu ou pensez-vous avoir un problème avec votre poids ou votre alimentation ?
-  - Votre poids vous inquiète-t-il de manière excessive ?
-  - Votre poids influence-t-il la façon dont vous vous sentez ?
-  - Est-ce que quelqu'un de votre entourage pense que vous avez un problème avec l'alimentation ?
-  - Est-ce que vous vomissez ? Vous arrive-t-il de vous faire vomir ?
-- Interrogatoire et examen clinique approfondis pour le bilan des complications et comorbidités (le retentissement vécu doit rester central)
-- Examens complémentaires systématiques
-- Objectifs des soins: réduire les crises de boulimie et de purge, retour à une scolarité/vie professionnelle stables
-- Soins pluridisciplinaires prolongés ([équipe spécialisée FFAB](https://www.ffab.fr/trouver-de-l-aide/annuaire-2021), psychiatre, diététicien, psychologue)
-- Éducation thérapeutique, documents d'auto-support et Associations de patients
+- La *boulimie* et l'*hyperphagie boulimique* (sans comportement de compensation) débutent en fin d'adolescence avec une prédominance féminine pour la boulimie (90%)
+- Retentissement individuel (physique, psychique), familial et social du *trouble du comportement alimentaire* (TCA) à l'origine d'une surmortalité (troubles métaboliques et suicides)
+- L'accueil du sujet boulimique doit être bienveillant, empathique, sans moralisation. Répéter que la guérison est possible
+- Repérer un TCA dans les populations à risque (adolescents, mannequins, surpoids ... voir *Quand évoquer une boulimie ?*) par {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}} ou à l'interrogatoire (voir *Clinique *)
+- Consultation approfondie pour le bilan des complications et comorbidités (le retentissement vécu est central)
+- Les examens complémentaires sont systématiques
+- Objectifs des soins: réduire les crises de boulimie et de purge et un retour à une scolarité/vie professionnelle stables
+- Les soins pluridisciplinaires sont prolongés: [équipe spécialisée FFAB](https://www.ffab.fr/trouver-de-l-aide/annuaire-2021), psychiatre, diététicien, psychologue
+- Éducation thérapeutique, [documents d'auto-support](https://www.ffab.fr/trouver-de-l-aide/livres), association [Autrement](https://www.anorexie-et-boulimie.fr/) et Anorexie-Boulimie Info {{<phone>}}0 810 037 037{{</phone>}}
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Boulimie nerveuse
-: Trouble du comportement alimentaire (TCA) marqué par des crises de **boulimie** (absorption de grandes quantités de nourriture en un temps restreint avec sentiment de perte de contrôle) suivie de **comportements compensatoires** (vomissements provoqués, laxatifs, diurétiques ou autres, jeûne, exercice physique intensif) permettant généralement de maintenir un **IMC normal**.
-: La boulimie atteint le plus souvent les filles (90% argu p. 21) avec une installation en fin d'adolescence (18 ans argu p. 21).
-: Le retentissement est important tant individuel (physique, psychique) que familial et social, à l'origine d'une surmortalité (troubles métaboliques et suicide). La guérison complète est la cible de l'approche pluridisciplinaire qui doit être la plus précoce possible.
-: Comorbidités psychiatriques très fréquentes: dépression, anxiété, addiction, troubles de la personnalité, autres TCA.
+: Trouble du comportement alimentaire (TCA) marqué par des **crises de boulimie** (absorption de grandes quantités de nourriture en un temps restreint avec sentiment de perte de contrôle) suivie de **comportements compensatoires** (vomissements provoqués, laxatifs, diurétiques ou autres, jeûne, exercice physique intensif) permettant généralement de maintenir un **IMC normal**.
+: La boulimie atteint le plus souvent les filles (90%) avec une installation en fin d'adolescence (18 ans).
+: Le retentissement est important tant individuel (physique, psychique) que familial et social, à l'origine d'une surmortalité (troubles métaboliques et suicides)
+: La guérison complète est la cible de l'approche pluridisciplinaire qui doit être la plus précoce possible.
+: Les comorbidités psychiatriques sont très fréquentes: dépression, anxiété, addictions, troubles de la personnalité et autres TCA.
 
 Hyperphagie boulimique
-: Trouble du comportement alimentaire (TCA) marqué par des crises de **boulimie** sans les **comportements compensatoires** associés à la boulimie nerveuse, à l'origine d'un surpoids ou d'une **obésité**.
+: Trouble du comportement alimentaire (TCA) marqué par des crises de **boulimie sans les comportements compensatoires** associés à la boulimie nerveuse, à l'origine d'un surpoids ou d'une **obésité**.
 : Le trouble débute un peu plus tard (jeune adulte) sans différence de sexe.
 
 {{%warning%}}Le vécu douloureux du trouble impose de faire preuve de bienveillance et d'empathie. Éviter d'être moralisateur et informer que la guérison est possible et le répéter régulièrement{{%/warning%}}
@@ -60,9 +54,12 @@ Autres causes d'hyperphagie secondaire d'origine organique:
 - Tumeur cérébrale frontale
 - Épilepsie partielle
 - Syndrome démentiel
-- Endocrinopathie (hyperthyroïdie, Cushing)
-- Syndrome de Kleine-Levin (adolescent avec crises d'hyperphagie, hypersomnie et troubles du comportement sexuel)
-- Autres troubles psychiatriques: accès maniaque, schizophrénie, psychose infantile
+- Endocrinopathie  
+  Hyperthyroïdie, Cushing.
+- Syndrome de Kleine-Levin  
+  Adolescent avec crises d'hyperphagie, hypersomnie et troubles du comportement sexuel.
+- Autres troubles psychiatriques  
+  Accès maniaque, schizophrénie, psychose infantile.
 
 ### Épidémiologie de la boulimie
 
@@ -82,12 +79,15 @@ TCA
 
 TDAH
 : trouble déficit de l'attention avec ou sans hyperactivité
+
+TOC
+: trouble obsessionnel compulsif
 {.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Quand évoquer une boulimie ?" %}}
 
-**NB.** Les personnes souffrant de TCA consultent plus fréquemment, notamment pour des troubles digestifs.
+**NB.** Les personnes souffrant de *troubles du comportement alimentaire* (TCA) consultent plus fréquemment, notamment pour des troubles digestifs.
 
 ### Facteurs de risque de boulimie
 
@@ -137,7 +137,7 @@ Un repérage ciblé de la boulimie est recommandé chez les groupes à risque:
 
 ### Aborder la boulimie
 
-Chez les personnes à risque (voir *Quand évoquer une boulimie ?*), repérage par questions spécifiques:
+Chez les personnes à risque (voir *Quand évoquer une boulimie*), repérage par questions spécifiques:
 
 - Avez-vous, avez-vous eu ou pensez-vous avoir un problème avec votre poids ou votre alimentation ?
 - Votre poids vous inquiète-t-il de manière excessive ?
@@ -145,17 +145,17 @@ Chez les personnes à risque (voir *Quand évoquer une boulimie ?*), repérage p
 - Est-ce que quelqu'un de votre entourage pense que vous avez un problème avec l'alimentation ?
 - Est-ce que vous vomissez ? Vous arrive-t-il de vous faire vomir ?
 
-Le repérage peut être aussi être réalisé avec un **questionnaire spécifique** ([SCOFF-F](https://www.journeemondialetca.fr/tout-sur-les-tca/test-du-scoff), ESP).
+Le repérage de la boulimie peut également être réalisé avec un questionnaire spécifique: {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}} ou ESP.
 
 ### Interrogatoire
 
-Un repérage positif doit faire reprendre l'ensemble des éléments cliniques détaillés plus haut (voir *Quand évoquer une boulimie ?*).  
+Un repérage positif doit faire reprendre l'ensemble des éléments cliniques détaillés plus haut (voir *Quand évoquer une boulimie*).  
 Il permet une évaluation exhaustive des atteintes somatiques et psychiatriques.
 
 L'interrogatoire explore également:
 
 - Identifier la demande ou la plainte
-- Antécédents (voir *Quand évoquer une boulimie ?*)
+- Antécédents (voir *Quand évoquer une boulimie*)
 - Autres situations à dépister
   - Femme enceinte: nausées/vomissements intenses, prise de poids insuffisante/excessive
   - Diabète type 1: variations importantes d'HbA1c ou poids (mésusage d'insuline). Questionnaires adaptés (DEPS-R, m-EDI, m-SCOFF)
@@ -202,16 +202,25 @@ Bilan à la recherche de complications somatiques:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+### Bilan de première intention de la boulimie
+
+Examens proposés pour évaluer le retentissement de la boulimie:
+
 - Bilan biologique  
-  NFS-plaq, TP, TCA, ionogramme sanguin, créatininémie, bicarbonates, glycémie à jeun, lipidique (surpoids), vitamine D, vitamine B12 (végétarien).
+  - NFS, TP, TCA
+  - Ionogramme sanguin, créatininémie, bicarbonates
+  - Glycémie à jeun
+  - Surpoids: Bilan lipidique
+  - Vitamine D
+  - Végétarien: vitamine B12
 - Consultation dentaire
 - Consultation gynécologique
 - Consultation diététique pour bilan nutritionnel
-- Ostéodensitométrie
-  - Examens répétés après plusieurs années
-  - Boulimie et aménorrhée ≥ 6 mois
+- Ostéodensitométrie si:
+  - Boulimie et aménorrhée +6 mois
   - Boulimie et antécédent d'anorexie mentale
-  - Facteur de risque d'ostéoporose
+  - Facteur de risque d'[ostéoporose]({{< relref "osteoporose.md" >}})
+  - Examen répété après plusieurs années
 - Si vomissements
   - Vitamine B1
   - Consultation ophtalmologique
@@ -221,8 +230,19 @@ Bilan à la recherche de complications somatiques:
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-**Objectifs majeurs de la prise en charge de la boulimie:** réduire les crises de boulimie et de purge, retour à une scolarité/vie professionnelle stables.  
-Prise en charge concomitante du trouble du comportement alimentaire et de l'obésité.
+**Objectifs majeurs de la prise en charge de la boulimie:** réduire les crises de boulimie et de purge et un retour à une scolarité/vie professionnelle stables.  
+Prise en charge concomitante du trouble du comportement alimentaire et de l'**obésité**.
+
+{{%warning%}}
+
+### Indications à l'hospitalisation
+
+Indications à une hospitalisation du sujet boulimique:
+
+- Hypokaliémie majeure
+- Cause psychiatrique  
+  État de mal boulimique ou risque suicidaire.
+{{%/warning%}}
 
 ### Initiation des soins par le médecin généraliste
 
@@ -237,19 +257,15 @@ S'appuyer sur des éléments motivant le patient pour avancer dans les soins (pr
 Les entretiens motivationnels sont recommandés en cas de difficultés à s'engager dans les soins.  
 Un trouble borderline augmente le risque d'abandon prématuré. Rester disponible même en adhésion intermittente.
 
-### Indications à l'hospitalisation
+### Prise en charge ambulatoire de la boulimie
 
-Indications à une hospitalisation: hypokaliémie majeure ou psychiatrique (état de mal boulimique ou risque suicidaire).
-
-### Prise en charge ambulatoire
-
-La prise en charge est pluridisciplinaire et chronique, ambulatoire en première intention:
+La prise en charge de la boulimie est pluridisciplinaire et chronique, ambulatoire en première intention:
 
 - Trouble sévère: ALD n°23
 - Impliquer la famille
-- Le coordonner du parcours doit être clairement identifié
+- Le coordonnateur du parcours doit être clairement identifié
 - Équipe: équipe spécialisée ([annuaire FFAB](https://www.ffab.fr/trouver-de-l-aide/annuaire-2021)), psychiatre, nutritionniste
-- Psychologique
+- Suivi psychologique
   - Après le bilan initial pluridisciplinaire
   - Techniques: auto-support ([guides FFAB](https://www.ffab.fr/trouver-de-l-aide/livres)), thérapies cognitivo-comportementales (TCC), thérapies comportementales dialectiques, thérapies interpersonnelles, psychothérapies psychodynamiques ou d'inspiration analytique, thérapies familiales.
 - Antidépresseur ISRS  
@@ -283,7 +299,8 @@ Informer et traiter les risques liés à chaque atteinte:
 {{% /collapse %}}
 {{%collapse "Information du patient et éducation thérapeutique" %}}
 
-Anorexie-Boulimie Info {{<phone>}}0 810 037 037{{</phone>}} et [Association Autrement](https://www.anorexie-et-boulimie.fr/)
+Anorexie-Boulimie Info {{<phone>}}0 810 037 037{{</phone>}} et [Association Autrement](https://www.anorexie-et-boulimie.fr/).  
+Autres ressources: Fédération FNA-TCA {{<phone>}}06 87 41 86 66{{</phone>}}, [guides FFAB](https://www.ffab.fr/trouver-de-l-aide/livres) et [annuaire des centres FFAB](https://www.ffab.fr/trouver-de-l-aide/annuaire-2021).
 
 {{%info%}}<< Il n'est jamais trop tard pour consulter : la guérison est toujours possible même après plusieurs années d’évolution des troubles >> (*HAS 2019*){{%/info%}}
 
@@ -305,16 +322,14 @@ Anorexie-Boulimie Info {{<phone>}}0 810 037 037{{</phone>}} et [Association Autr
 {{% /collapse %}}
 {{%sources%}}
 
-[HAS, FFAB. Boulimie et hyperphagie boulimique. Recommandation de bonne pratique. Juin 2019.](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique-reperage-et-elements-generaux-de-prise-en-charge)
-
-[FFAB](https://www.ffab.fr/)
-[FNA-TCA](https://www.fna-tca.org/bienvenue)
-[CNAO Obésité](https://cnao.fr/)
-
-### À lire
-
-- CNPP
-- SFNCM
-- <https://www.journeemondialetca.fr>
+- [HAS, FFAB. Boulimie et hyperphagie boulimique. Recommandation de bonne pratique. Juin 2019.](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique-reperage-et-elements-generaux-de-prise-en-charge)
+- [FFAB](https://www.ffab.fr/)
+- [Fédération nationale des associations liées aux troubles des conduites alimentaires (FNA-TCA)](https://www.fna-tca.org/)
+- [Collectif national des associations d'obèses (CNAO Obésité)](https://cnao.fr/)
 
 {{%/sources%}}
+{{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}
+
+{{< scores/scoff >}}
+
+{{% /modal %}}

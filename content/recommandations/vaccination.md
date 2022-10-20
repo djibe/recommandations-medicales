@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2022-07-13"
+lastmod = "2022-10-18"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["MinSanté", "HCSP"]
@@ -21,9 +21,9 @@ todo = "texte SEO, texte vaccins obligatoires , choc anaphylactique, Rattrapage 
 {{%article-summary%}}
 
 - [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
-- Grossesse: rappel [Coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA)
+- Rappel vaccinal de [coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA)
 - Vaccination +16 ans par IDE et pharmaciens sans ordonnance pour: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage (bloque encore au niveau de la Sécu. Faire une ordonnance pour l'infirmier)
-- Poser une question pour un cas particulier: [Infovac App](https://app.infovac.fr/) (créer un compte)
+- Poser une question pour un cas vaccinal particulier: [Infovac App](https://app.infovac.fr/) (créer un compte)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -58,9 +58,9 @@ VVA
 {{< table title="Calendrier des vaccins recommandés en France en 2022. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Ministère de la Santé 2022" >}}
 | Âge     | Valences      | Spécialités équivalentes       |
 |:-------:|---------------|--------------------------------|
-| 2 mois  | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus (HAS) | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
-| 3 mois  | Méningo B<br>Rotavirus (HAS)  | Bexsero<br>RotaTeq 2/3, Rotarix 2/2 |
-| 4 mois  | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus (HAS) | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 3/3 |
+| 2 mois  | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus (HAS) | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 1/3 NR, Rotarix 1/2 NR |
+| 3 mois  | Méningo B<br>Rotavirus (HAS)  | Bexsero<br>RotaTeq 2/3 NR, Rotarix 2/2 NR |
+| 4 mois  | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus (HAS) | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 3/3 NR |
 | 5 mois  | Méningo C<br>Méningo B    | Menjugate, Neisvac<br>Bexsero |
 | 11 mois | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
 | 12 mois | Méningo C<br>ROR<br>Méningo B | Menjugate, Neisvac<br>MMRvaxPro, Priorix<br>Bexsero |
@@ -70,12 +70,13 @@ VVA
 | 11-14 ans   | HPV       | Gardasil9                      |
 | 25 ans  | dTcaPolio     | BoostrixTetra, Repevax         |
 | 45 ans  | dTPolio       | Revaxis                        |
-| ≥ 65 ans    | dTPolio tous les 10 ans<br>Antigrippal annuel | Revaxis<br>Efluelda, Flurarix-Influvac-Vaxigrip Tetra |
+| +65 ans    | dTPolio tous les 10 ans<br>Antigrippal annuel | Revaxis<br>Efluelda, Flurarix-Influvac-Vaxigrip Tetra |
 | 65-74 ans   | Zona      | Zostavax (vivant)              |
 | Grossesse   | Coqueluche, Covid, grippe | BoostrixTetra, Repevax ... |
 {{< /table >}}
 
-> Les consultations à 25, 45 et 65 ans seront gratuites dès 2023
+> **NR =** non remboursé  
+Les consultations à 25, 45 et 65 ans seront gratuites dès 2023.
 
 {{% /collapse %}}
 {{%collapse "Rattrapage vaccinal" %}}

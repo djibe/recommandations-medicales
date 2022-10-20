@@ -8,23 +8,23 @@ synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-06-21T10:56:00+02:00"
 publishdate = "2021-06-29"
-lastmod = "2022-10-16"
+lastmod = "2022-10-18"
 specialites = ["pneumologie"]
 annees = "2022"
-sources = ["ERS", "GINA", "SPLF", "HAS"]
+sources = ["GINA", "ERS", "SPLF", "HAS"]
 tags = ["AINS", "allergie", "asthme", "dyspnee", "tabac", "toux", "vaccin"]
 anglais = ["Asthma"]
 sctid = "195967001"
 image = true
 imageSrc = "Illustration de l'asthme par brgfx / Freepik"
-todo = "vaccins pneumocoque, A LIRE - doses Symbicort turbuhaler, GINA 2021 p21, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique, formaldéhyde"
+todo = "doses Symbicort turbuhaler, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique, formaldéhyde"
 +++
 
 {{%article-summary%}}
 
-- Bannir le terme de << bronchite asthmatiforme >>, il s'agit d'une maladie chronique
-- Éviction du tabac
-- Diagnostic de certitude par symptômes évocateurs répétés et EFR concluantes
+- Bannir le terme de << bronchite asthmatiforme >>, l'asthme est une maladie chronique
+- Éviction du tabac et cigarette électronique
+- Diagnostic de certitude de l'asthme par symptômes évocateurs répétés et EFR concluantes
 - Maîtrise de l'asthme: {{< modal-btn modal-score-act >}}questionnaire *ACT™*{{< /modal-btn >}} à chaque consultation et appli [Asthm'Activ](https://play.google.com/store/apps/details?id=com.sophia.asthme), [Effic'Asthme](https://play.google.com/store/apps/details?id=fr.parisdescartes.efficasthme&hl=fr&gl=US)
 - Le DEP est toujours répété 3 fois de suite
 - EFR 1-3 fois par an
@@ -163,10 +163,9 @@ Ces personnes doivent bénéficier d'un suivi médical et d'une éducation thér
 {{% /collapse %}}
 {{%collapse "Contrôle de l'asthme" %}}
 
-Revoir la *maîtrise de l'asthme*:
+Revoir la *maîtrise de l'asthme* à chaque consultation:
 
 1. Maîtrise des symptômes de l'asthme
-    - À chaque consultation
     - Traitement en cours
     - {{< modal-btn modal-score-act >}}Asthma Control Test™ (ACT){{< /modal-btn >}}
     - Autosurveillance des symptômes et du DEP
@@ -191,7 +190,7 @@ Revoir la *maîtrise de l'asthme*:
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques" %}}
 
-Très haut sur et sous-diagnostic de la maladie.
+Très haut sur et sous-diagnostic de la maladie asthmatique.
 
 1. **Antécédents de variabilité des symptômes respiratoires**
     - Plusieurs symptômes parmi sifflement expiratoire, dyspnée, oppression thoracique et toux
@@ -239,7 +238,7 @@ Réévaluer l'efficacité du traitement initial à 2-3 mois.
 - Expositions domestiques, professionnelles/scolaires
   - Amélioration en vacances
   - {{%class%}}15-20% des asthmes de l'adulte sont liés à une exposition professionnelle. (*SPF*){{%/class%}}
-- Tabac
+- Tabac et cigarette électronique
 - Symptômes des 4 dernières semaines
   - Variabilité en intensité
   - Variabilité dans le temps  
@@ -509,7 +508,7 @@ L'asthme est une maladie dont les symptômes sont variables et bien les reconna�
 
 {{< video poster="https://splf.fr/wp-content/uploads/2021/11/Webinaire-2021-12-06-1300-500.jpg" mp4="https://dts.podtrac.com/redirect.mp4/docs.splf.fr/videos/Webinaires/2021/Webinaire-asthme-2021-12-09.mp4" description="Mise à jour des recommandations 2021 pour la prise en charge des patients asthmatiques adultes (SPLF)" width="600" height="330" >}}
 
-- [GINA. Global strategy for the asthma management and prevention. 2021.](https://ginasthma.org/reports/)
+- [GINA. Global strategy for the asthma management and prevention. 2022.](https://ginasthma.org/reports/)
 - [Gaillard EA. et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5–16 years. Eur Respir J. 2021.](https://doi.org/10.1183/13993003.04173-2020)
 - [Collège des enseignants de pneumologie. Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_188_ASTHME-RHINITE_2021_ex_item_1841.pdf)
 - [Raherison-Semjen C. et al. Asthme. Revue des Maladies Respiratoires Actualités. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1877120320300598)
