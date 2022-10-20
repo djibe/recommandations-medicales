@@ -1,8 +1,8 @@
 +++
-title = "Participation des français au dépistage organisé des cancers (colorectal, sein et col de l'utérus)"
+title = "Participation des Français au dépistage organisé des cancers (colorectal, sein et col de l'utérus)"
 noindex = true
-titleSeo = "Participation des français au dépistage des cancers"
-description = "Taux de participation des français au dépistage organisé des cancers du sein (mammographie), du cancer colorectal (test fécal) et du cancer du col de l'utérus"
+titleSeo = "Participation des Français au dépistage des cancers"
+description = "Taux de participation des Français au dépistage organisé des cancers du sein (mammographie), du cancer colorectal (test fécal) et du cancer du col de l'utérus"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-08-15T19:54:00+02:00"
 publishdate = "2021-08-18"
@@ -20,8 +20,8 @@ todo = "https://www.e-cancer.fr/Patients-et-proches/Les-cancers - ### Le dépist
 
 Trois cancers bénéficient en France d'un dépistage organisé. Il s'agit de cancers fréquents et graves: le [cancer du sein]({{< relref "cancer-sein.md" >}}), du [col de l'utérus]({{< relref "cancer-col-uterus.md" >}}) et du [cancer colorectal]({{< relref "cancer-colorectal.md" >}}).
 
-Pourtant plus le cancer tue, moins les français participent à sa prévention par le dépistage.  
-Ainsi, le cancer colorectal, responsable de 17.000 décès annuels (2<sup>e</sup> en mortalité) n'est recherché que par **35%** des français.  
+Pourtant plus le cancer tue, moins les Français participent à sa prévention par le dépistage.  
+Ainsi, le cancer colorectal, responsable de 17.000 décès annuels (2<sup>e</sup> en mortalité) n'est recherché que par **35%** des Français.  
 Le taux maximal de participation au dépistage, qui atteint 59%, concerne le cancer du col de l'utérus, responsable pour sa part de 1100 décès annuels.
 
 Pour tous les dépistages, les taux de participation restent très en-dessous des attentes de santé publique.

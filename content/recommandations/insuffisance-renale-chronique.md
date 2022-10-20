@@ -80,7 +80,7 @@ MRC
 
 ### Épidémiologie de l'insuffisance rénale
 
-3 millions de français atteints de maladie rénale chronique (7-10% des adultes) avec un dépistage insuffisant.
+3 millions de Français atteints de maladie rénale chronique (7-10% des adultes) avec un dépistage insuffisant.
 
 9500 nouveaux dialysés par an, augmentation de 4%/an, liés aux facteurs de risque cardiovasculaires: [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) et **diabète** pour la moitié des cas.
 

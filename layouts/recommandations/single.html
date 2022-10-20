@@ -72,6 +72,11 @@
         <div class="row">
           <article class="col">
             <div class="w-768">
+              <nav aria-label="Fil d'ariane" class="mt-4 mb-5">
+                <ol class="breadcrumb">
+                  {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+                </ol>
+              </nav>
               <header class="recommandation__header">
                 <h1 class="my-3 mt-md-5 my-xl-5">{{ .Title }}</h1>
                 {{ with .Params.Synonyms }}

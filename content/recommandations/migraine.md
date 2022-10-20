@@ -47,7 +47,7 @@ Origine génétique et environnementale avec altération très importante de la 
 : Dite **migraine épisodique** avec < 15 jours/mois, **chronique** au-delà depuis > 3 mois.
 : **Migraine sévère:** crises fréquentes (≥ 8 jours/mois) OU {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 OU intensité impose un arrêt total des activités pour ≥ 50% des épisodes.
 : **Migraine résistante:** échec de 3 traitements de fond bien conduits. Dite **réfractaire** quand aucun ne fonctionne.
-: 30-45% des migraineux français n'ont jamais consulté, ignorent leur diagnostic et les traitements existants.  
+: 30-45% des migraineux Français n'ont jamais consulté, ignorent leur diagnostic et les traitements existants.  
 90% devraient être soulagés en soins primaires, 1% suivis en centre spécialisé.
 
 Migraine avec aura

@@ -55,7 +55,7 @@ La France est un pays Européen avec les plus **hautes incidences** de cancer co
 - 95% des cancers colorectaux surviennent après 50 ans
 - Survie à 5 ans: stade I 90% - stade IV 13%
 
-{{< card-link title="Les français et leur participation au dépistage des cancers" subtitle="Article RecoMédicales" url="/articles/participation-depistage-cancers/" class="my-4">}}
+{{< card-link title="Les Français et leur participation au dépistage des cancers" subtitle="Article RecoMédicales" url="/articles/participation-depistage-cancers/" class="my-4">}}
 
 ### Abréviations
 

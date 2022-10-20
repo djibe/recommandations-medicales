@@ -63,7 +63,7 @@ Les responsables de l'inflammation hépatique sont principalement les éléments
 ### Épidémiologie de la stéatopathie métabolique en France
 
 - Première cause de maladie chronique du foie
-- Prévalence de la stéatopathie métabolique (NAFLD): **1/4** des français
+- Prévalence de la stéatopathie métabolique (NAFLD): **1/4** des Français
 - Parmi lesquels 20-30% développent une NASH: 2,3 millions (2016, et une prévision de 3,39 millions atteints en 2030)
 - Parmi lesquels 217.000 sont en fibrose avancée (F3-F4, *cohorte CONSTANCES*)  
   avec risque de carcinome hépatocellulaire et décompensations hépatiques.

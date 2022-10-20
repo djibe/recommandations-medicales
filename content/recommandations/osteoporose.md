@@ -226,7 +226,7 @@ Validé en France uniquement en cas de [ménopause]({{< relref "menopause.md" >}
 
 {{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" title="Calcul du FRAX® en France sur le site officiel">}}
 
-> Calcul du FRAX® sur le [site officiel](https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12) pour les françaises.
+> Calcul du FRAX® sur le [site officiel](https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12) pour les Françaises.
 
 ### Décision de traitement anti-ostéoporotique selon le FRAX
 

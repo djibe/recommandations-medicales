@@ -1,7 +1,7 @@
 +++
 title = "Violences conjugales"
-noindex = true
 prefix = "les "
+noindex = true
 description = "Recommandations pour le dépistage des violences faites aux femmes. Questionnaire WAST, informer pour porter plainte et où se rendre pour être en sécurité"
 synonyms = ["Violences faites aux femmes"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -280,9 +280,9 @@ Aborder les violences, évaluer, le certificat médical, le signalement, ITT, ou
 
 ### À lire
 
-- https://www.has-sante.fr/jcms/p_3116900/fr/violences-reperer-proteger-accompagner
-- https://www.has-sante.fr/jcms/p_3104867/fr/reperage-des-femmes-victimes-de-violences-au-sein-du-couple
-- http://beh.santepubliquefrance.fr/beh/2021/2/2021_2_2.html
-- https://www.has-sante.fr/upload/docs/application/pdf/2019-09/170919_reperage_des_femmes_victimes_de_violences_au_sein_du_couple_argumentaire.pdf
+- <https://www.has-sante.fr/jcms/p_3116900/fr/violences-reperer-proteger-accompagner>
+- <https://www.has-sante.fr/jcms/p_3104867/fr/reperage-des-femmes-victimes-de-violences-au-sein-du-couple>
+- <http://beh.santepubliquefrance.fr/beh/2021/2/2021_2_2.html>
+- <https://www.has-sante.fr/upload/docs/application/pdf/2019-09/170919_reperage_des_femmes_victimes_de_violences_au_sein_du_couple_argumentaire.pdf>
 
 {{%/sources%}}

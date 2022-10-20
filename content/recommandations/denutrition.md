@@ -35,7 +35,7 @@ Dénutrition
 : *Malnutrition* dans la CIM-10.
 : << État d'un organisme en déséquilibre nutritionnel >>. Possible par un déficit d'apport isolé, une augmentation des dépenses ou des pertes ou une association de ceux-ci.  
 Le déséquilibre nutritionnel est caractérisé par un bilan énergétique et/ou protéique négatif aboutissant à une *perte de poids* ou une *fonte musculaire*.  
-Elle touche > 2 millions de français.
+Elle touche > 2 millions de Français.
 : **Facteurs de risque:** cancer, syndrome inflammatoire, escarre, toxicomanies, démence et dégénératif, troubles de déglutition et bucco-dentaires (dont candidose), précarité, régime restrictif.
 
 Albuminémie

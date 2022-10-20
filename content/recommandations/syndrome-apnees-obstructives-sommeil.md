@@ -370,7 +370,7 @@ Recommandations générales pour la prise en charge des apnées du sommeil:
 
 ### En savoir plus sur le traitement du SAOS
 
-#### Indications françaises à traiter le SAOS
+#### Conditions de remboursement des traitements des apnées du sommeil en France
 
 Le patient doit remplir les [conditions du Journal Officiel 07/2017 (PDF)](http://www.sfrms-sommeil.org/wp-content/uploads/2017/09/Avis-de-projet_juillet-2017_joe_20170711_0161_0100.pdf) pour bénéficier d'une prise en charge de la PPC par l'Assurance Maladie:
 
@@ -396,7 +396,7 @@ On propose l'OAM en cas de refus ou d'intolérance à la PPC et pour les autres 
 
 Une surveillance dentaire régulière est nécessaire avec l'orthèse d'avancée mandibulaire.
 
-#### Conditions de remboursement français de la PPC
+#### Conditions de remboursement de la PPC en France
 
 - Respect des indications et:
   - Utilisation de la machine ≥ 3 heures/24h
