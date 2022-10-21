@@ -68,6 +68,9 @@ Bannir le terme de << bronchite asthmatiforme >>: l'asthme est une maladie chron
 ACT
 : {{%lang%}}Asthma Control Test™{{%/lang%}}
 
+AIE
+: asthme induit par l'exercice
+
 BACA
 : bêta<sub>2</sub>-agoniste de courte durée d'action
 
@@ -114,6 +117,7 @@ VEMS
 {{% /collapse %}}
 {{%collapse "Signes de gravité" %}}
 
+{{%warning%}}
 ### Signes de défaillance = asthme aigu grave
 
 Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
@@ -142,7 +146,7 @@ Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 - SpO<sub>2</sub> < 95%
 - DEP > 50% de la meilleure valeur connue
 
-{{%warning%}}
+{{%/warning%}}
 
 ### Patients à risque de décès par asthme
 
@@ -156,12 +160,13 @@ Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
 - Antécédents de troubles psychiatriques ou psychosociaux
 
 > *GINA 2019*
-{{%/warning%}}
 
 Ces personnes doivent bénéficier d'un suivi médical et d'une éducation thérapeutique renforcés.
 
 {{% /collapse %}}
 {{%collapse "Contrôle de l'asthme" %}}
+
+{{%info%}}Demander à être suivi par le service **Sophia** de l'Assurance Maladie: {{<phone>}}0 809 400 040{{</phone>}}{{%/info%}}
 
 Revoir la *maîtrise de l'asthme* à chaque consultation:
 
@@ -354,9 +359,13 @@ Consultation de suivi dans la semaine qui suit l'exacerbation.
 {{% /collapse %}}
 {{%collapse "Traitement de fond de l'asthme" %}}
 
-{{%info%}}Les corticoïdes inhalés (CSI) réduisent de façon marquée la fréquence et la gravité des symptômes de l'asthme ainsi que les risques d'exacerbation ou de décès causé par l'asthme (*GINA 2019*){{%/info%}}
+{{%info%}}
+Demander à être suivi par le service **Sophia** de l'Assurance Maladie: {{<phone>}}0 809 400 040{{</phone>}}
 
-Confirmer le diagnostic avant de démarrer un traitement (*GINA 2019*), puis instaurer le plus rapidement possible un traitement par CSI.
+Les corticoïdes inhalés (CSI) réduisent de façon marquée la fréquence et la gravité des symptômes de l'asthme ainsi que les risques d'exacerbation ou de décès causé par l'asthme (*GINA 2019*)
+{{%/info%}}
+
+Confirmer le diagnostic avant de démarrer un traitement, puis instaurer rapidement un traitement par CSI.
 
 ### Stratégie de traitement de l'asthme selon GINA
 
@@ -496,12 +505,6 @@ La prescription dépend uniquement du pneumologue:
 {{%collapse "Information du patient" %}}
 
 [Ameli. Comprendre ma maladie & bien utiliser mon dispositif d'inhalation (PDF)](https://www.ameli.fr/sites/default/files/Documents/5358/document/asthme-bien-utiliser-dispositif-inhalation_assurance-maladie.pdf)
-
-L'asthme est une maladie dont les symptômes sont variables et bien les reconnaître aide à la maîtriser.
-
-### Maladie
-
-- Maladie respiratoire par inflammation bronchique entraînant une inflammation anormale des bronches
 
 {{% /collapse %}}
 {{%sources%}}

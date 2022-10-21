@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-16T08:08:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2022-10-17"
+lastmod = "2022-10-21"
 specialites = ["pediatrie"]
 annees = "2019"
 sources = ["HAS", "SFP"]
@@ -84,6 +84,9 @@ Diagnostics à étayer devant un épisode de dyspnée du nourrisson:
 
 BA
 : bronchiolite aiguë
+
+CNPP
+: Collège National Professionnel de Pédiatrie
 
 DRP
 : désobstruction rhinopharyngée
@@ -229,13 +232,21 @@ Moyens recommandés de prévention de la bronchiolite:
 - Allaitement maternel
 - Retarder la mise en collectivité
 - Nourrisson à haut risque de forme grave: ne pas fréquenter la collectivité en période épidémique
+- Mesures d'hygiène
+  - Lavage des mains à l'eau et au savon 30 secondes avant et après change, tétée, câlins, biberon, repas ...
+  - Aérer la chambre de bébé au moins 10 minutes par jour
+  - Éviter les lieux publics confinés
+  - Pas de partage des biberons, tétines, sucettes ou couverts
+  - Laver régulièrement jouets et doudous
+  - Éviction du tabagisme passif
+  - En cas de rhume: éternuer dans le coude, éviter d'embrasser bébé sur visage et mains, porter un masque pour s'occuepr de bébé
 
 #### Immunoglobulines anti-VRS
 
 Anticorps [palivizumab](https://ec.europa.eu/health/documents/community-register/2021/20210701152506/anx_152506_fr.pdf) (Synagis®) mensuel pendant la période épidémique en risque élevé d'infection grave au VRS:
 
-- Prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j ET < 6 mois en début d'épidémie de VRS
-- < 2 ans en début épidémique, prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j et ayant nécessité un traitement pour dysplasie bronchopulmonaire dans les 6 mois
+- Prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28 jours ET < 6 mois en début d'épidémie de VRS
+- < 2 ans en début épidémique, prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28 jours et ayant nécessité un traitement pour dysplasie bronchopulmonaire dans les 6 mois
 - < 2 ans avec cardiopathie congénitale avec retentissement hémodynamique
 
 L'injection intra-musculaire mensuelle est très douloureuse (max 5 injections).
@@ -383,8 +394,9 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ameli Médecin. Bronchiolite : informer les parents de la conduite à tenir les sensibiliser à la prévention. 19/10/2022.](https://www.ameli.fr/medecin/actualites/bronchiolite-informer-les-parents-de-la-conduite-tenir-les-sensibiliser-la-prevention)
 - [Santé Publique France. Bronchiolite. 03/11/2021.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite)
-- [HAS et Collège National Professionnel de Pédiatrie. Prise en charge du premier épisode de bronchiolite aiguë chez le nourrisson de moins de 12 mois. Novembre 2019.](https://www.has-sante.fr/jcms/p_3118113/fr/prise-en-charge-du-1er-episode-de-bronchiolite-aigue-chez-le-nourrisson-de-moins-de-12-mois)
+- [HAS et Collège National Professionnel de Pédiatrie (CNPP). Prise en charge du premier épisode de bronchiolite aiguë chez le nourrisson de moins de 12 mois. Novembre 2019.](https://www.has-sante.fr/jcms/p_3118113/fr/prise-en-charge-du-1er-episode-de-bronchiolite-aigue-chez-le-nourrisson-de-moins-de-12-mois)
 - [Société Canadienne de Pédiatrie. Recommandations pour le diagnostic, la surveillance et les prise en charge des enfants de un à 24 mois. 31/01/2018.](https://www.cps.ca/fr/documents/position/bronchiolitis1)
 - Prescrire Rédaction. Bronchiolite chez un nourrisson. Octobre 2017.
 - [HAS. Synagis. Commission de la transparence. 05/04/2017.](https://www.has-sante.fr/jcms/c_2756580/fr/synagis-palivizumab)

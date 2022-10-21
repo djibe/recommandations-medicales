@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2022-10-17"
+lastmod = "2022-10-21"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "MinSanté"]
@@ -113,7 +113,8 @@ La campagne de vaccination débute le 18 octobre 2022.
 
 [Document CRATB d'information patient contre la grippe (PDF)](http://medqual.fr/images/PRO_2018/CAT-PATHO-IFECTIEUSE/GRIPPE/MEDCAL_GRIPPE_A3_OK_VF.pdf)
 
-Pas de délai à respecter entre les vaccins anti-grippaux et anti-covid19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
+Pas de délai à respecter entre les vaccins anti-grippaux et anti-covid19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).  
+**Rappel.** Le vaccin anti-grippal ne donne pas de syndrome grippal (du à une infection concomitante).
 
 La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance (décret paru mais en attente de la convention par l'Assurance Maladie).
 
@@ -126,6 +127,7 @@ Chez le sujet vivant en établissement, la vaccination réduit la survenue de pa
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ameli Médecin. Vaccination contre la grippe saisonnière : une FAQ pour répondre aux interrogations des patients. 18/10/2022.](https://www.ameli.fr/medecin/actualites/vaccination-contre-la-grippe-saisonniere-une-faq-pour-repondre-aux-interrogations-des-patients)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Vaccination antigrippale : la stratégie de la prochaine campagne annuelle réaffirmée dans le contexte de l'épidémie de COVID-19. 02/06/2020.](https://www.has-sante.fr/jcms/p_3187536/fr/vaccination-antigrippale-la-strategie-de-la-prochaine-campagne-annuelle-reaffirmee-dans-le-contexte-de-l-epidemie-de-covid-19)
 - [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe ! 13/05/2020.](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
