@@ -5,7 +5,7 @@ description = "Quel ordinateur pour le médecin généraliste ? Conseils pour un
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2022-01-27"
-lastmod = "2022-10-14"
+lastmod = "2022-10-21"
 specialites = []
 sources = []
 tags = []
@@ -56,10 +56,13 @@ Attention aussi au nombre limité de ports USB qui mène à un joli hub USB sur 
 
 Modèles approuvés par *UFC Que Choisir 2021*:
 
-- Dell Inspiron 27 7000 - 1350 €
-- Lenovo IdeaCentre AIO 3i FOG1001HFR - 900 €
-- Acer Aspire C27-1655 - 1300 €
+- HP Pavilion 27 ca0039nf - 950€
+- Asus VIVO AIU 27 M3700WUAK - 900€
+- Lenovo IdeaCentre 3 27ALC6 - 850€
+- cer Aspire C24-1650 (24 pouces) - 800€
 {.list-group}
+
+Précédentes références: Dell Inspiron 27 7000, Lenovo IdeaCentre AIO 3i FOG1001HFR, Acer Aspire C27-1655.
 
 Ou configurez votre [PC tout en 1 chez PCSpecialist](https://www.pcspecialist.fr/ordinateurs-tout-en-un/) (4,5/5 selon 01Net).
 

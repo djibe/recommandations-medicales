@@ -16,7 +16,7 @@ sctid = "254900004"
 flowchart = true
 image = true
 imageSrc = "Illustration du cancer de la prostate par brgfx / Freepik "
-todo = "Flowchart, Geriatric 8 Table 5.10 source 151, tableau espérance de vie"
+todo = "Geriatric 8 Table 5.10 source 151, tableau espérance de vie, source doubler valeur IPDE5"
 +++
 
 {{%article-summary%}}
@@ -35,7 +35,7 @@ todo = "Flowchart, Geriatric 8 Table 5.10 source 151, tableau espérance de vie"
 
 Cancer de la prostate (CaP)
 : Dégénérescence tumorale prostatique par un **adénocarcinome** sporadique (80%), héréditaire (10%) ou familial (10%).
-: L'évolution initiale est intra-capsulaire (cancer localisé) puis **métastatique ganglionnaire et osseux** (foie et poumon rares). < 20% des patients ont des métastases à 10 ans.
+: L'évolution initiale est intra-prostatique (cancer localisé) puis **métastatique ganglionnaire et osseuse** (foie et poumon rares). < 20% des patients ont des métastases à 10 ans.
 
 Cancer de la prostate héréditaire
 : Au moins 2 cas au premier ou second degré de la même branche familiale ou antécédents de cancers du spectre de Lynch (sein, ovaire).
@@ -47,15 +47,13 @@ Cancer de la prostate héréditaire
 - Principal facteur de risque: âge +50 ans
 - Forme héréditaire (voir plus haut)
 - Origine africaine
-- Hypertension artérielle
-- Obésité abdominale
-- Alcool
+- Dans une moindre mesure: hypertension artérielle, obésité abdominale, consommation excessive d'alcool
 
 **NB.** En correction d'un hypogonadisme, la supplémentation en testostérone n'augmente pas le risque de cancer de la prostate.
 
 ### Facteurs pronostiques
 
-Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de Gleason et ISUP** au diagnostic.
+Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de Gleason et ISUP** (évolution du Gleason) au diagnostic.
 
 {{< table title="Risque de cancer de prostate (CaP) selon le taux de PSA. EAU 2022" class="table-sm" >}}
 | PSA (ng/mL) | Risque de CaP (%) | Risque de CaP ISUP ≥ 2 (%) |
@@ -157,7 +155,7 @@ Indications à une consultation d'oncogénétique chez un homme ayant un **anté
 Risque diminué de cancer de la prostate si PSA < 1 ng/mL à 40 ans et < 2 à 60 ans.
 {{%/warning%}}
 
-**Rappel.** La mesure du PSA est faussée à la hausse par une prostatite, une HBP ou à l'inverse à la baisse par un IPDE5 (HBP, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})).
+**Rappel.** La mesure du PSA est faussée à la hausse par une prostatite, une HBP ou à l'inverse à la baisse par un IPDE5 (HBP, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})). En cas de prise d'IPDE5, doubler la valeur du PSA.
 
 {{%info%}}
 
@@ -204,7 +202,7 @@ Répéter le dépistage par toucher rectal et dosage du PSA:
 
 ### Pour en savoir plus: la biopsie de prostate
 
-La biopsie de prostate par voie transpérinéale est indiquée en cas de lésion avancée à l'IRM prostatique.
+La biopsie de prostate (voie transrectale ou transpérinéale) est indiquée en cas de lésion avancée à l'IRM prostatique.
 
 Liste des complications de la biopsie prostatique par ordre de fréquence: hémospermie (37%), hématurie +1 jour, rectorragie < 2 jours, prostatite, fièvre, épididymite ...
 
