@@ -14,7 +14,7 @@ anglais = ["Meibomian gland cyst", "Chalazion"]
 sctid = "1482004"
 image = true
 imageSrc = "Photo d'un chalazion par jd, via Wikimedia Commons"
-todo = "SEO, chalazion photo | chalazion image"
+todo = "SEO, HAS troubles oculaires, chalazion photo | chalazion image"
 +++
 
 {{%article-summary%}}

@@ -37,10 +37,9 @@ Le plus souvent, le pic correspond à une immunoglobuline monoclonale dite *de s
 {{% /collapse %}}
 {{%collapse "Indications à l'électrophorèse des protéines sériques" %}}
 
-Indications à l'EPS:
+Indications à la réalisation de l'électrophorèse des protéines sériques (EPS):
 
-- Syndrome d'hyperviscosité  
-{{%class%}}Dosage en urgence.{{%/class%}}
+- Syndrome d'hyperviscosité (en urgence)
 - Infections à répétition des voies aériennes supérieures et pulmonaires
 - Douleurs osseuses non traumatiques sans anomalies à l'examen radiologique standard
 - Polyarthrite inexpliquée
@@ -57,9 +56,10 @@ Indications à l'EPS:
 - Insuffisance rénale récente non obstructive
 - Protéinurie > 0,5 g/L
 - Certaines anomalies osseuses radiologiques  
-Fracture vertébrale suspecte, fracture pathologique, géodes.
+  Fracture vertébrale suspecte, fracture pathologique, géodes.
 - [Phénomène de Raynaud]({{< relref "phenomene-raynaud.md" >}}) (*COFER*)
 - [Bouffées vasomotrices atypiques]({{< relref "menopause.md" >}}) (*CNGOF 2021 Ménopause*)
+- [Prurit sans orientation]({{< relref "prurit.md" >}}) (*CEDEF 2021*)
 
 > *HAS 2017*
 
@@ -88,11 +88,11 @@ Personnes avec suspicion d'hémopathie maligne devant être adressées rapidemen
 
 - Patient < 60 ans
 - Suspicion d'hémopathie maligne  
-AEG, douleurs osseuses, adénopathies, syndrome tumoral
+  AEG, douleurs osseuses, adénopathies, syndrome tumoral
 - Anomalie biologique  
-Anémie, hypercalcémie, insuffisance rénale.
+  Anémie, hypercalcémie, insuffisance rénale.
 - Anomalie à l'imagerie  
-Lésions osseuses.
+  Lésions osseuses.
 - Asymptomatique avec:
   - ≥ 1 anomalie au bilan de 1<sup>re</sup> intention.
   - Ig monoclonale avec IgG > 15 g/L, IgA ou IgM > 10 g/L.
@@ -110,7 +110,7 @@ Lorsque le patient présente une immunoglobuline monoclonale de façon asymptoma
 **Surveillance à 6 mois de la découverte puis annuelle**:
 
 - Électrophorèse des protéines sériques
-Dans le même laboratoire avec la même technique.
+  Dans le même laboratoire avec la même technique.
 - NFS
 - Créatininémie
 - Pic d'IgA/IgG: calcémie corrigée

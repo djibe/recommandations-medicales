@@ -1,15 +1,15 @@
 +++
 title = "Conduite à tenir devant un prurit"
 prefix = "la "
-titleSeo = "Prurit et conduite à tenir"
+titleSeo = "Prise en charge d'un prurit"
 description = "Recommandations pour la prise en charge d'un prurit. Bilan: biologie, radio de thorax, échographie abdominale et médicament anti-histaminique. Éliminer une gale"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-02T17:43:41+02:00
 publishdate = "2020-10-02"
-lastmod = "2021-01-03"
+lastmod = "2022-10-24"
 specialites = ["dermatologie"]
-annees = "2017"
+annees = "2021"
 sources = ["CEDEF"]
 tags = ["prurit", "TSH"]
 anglais = ["Itching"]
@@ -17,14 +17,14 @@ sctid = "418290006"
 flowchart = true
 image = true
 imageSrc = "Photo par wayhomestudio / Freepik"
-todo = "Prescrire, médicaments responsables, algo, lire dermato-info"
+todo = "Prescrire, médicaments prurigineux, algo, lire dermato-info"
 +++
 
 {{%article-summary%}}
 
-- Éliminer une [gale]({{< relref "gale.md" >}})
-- Prurit chronique nu chez jeune adulte doit faire évoquer un lymphome
-- Prurit nu non évident: biologie, radio de thorax, échographie abdominale
+- Éliminer une [gale]({{< relref "gale.md" >}}) devant tout prurit
+- Un prurit chronique nu chez un jeune adulte doit faire évoquer un lymphome
+- Prise en charge d'un prurit nu sans cause évidente: biologie, radiographie de thorax, échographie abdominale
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -32,6 +32,7 @@ todo = "Prescrire, médicaments responsables, algo, lire dermato-info"
 Prurit
 : Sensation de démangeaison localisée ou généralisée, atteignant la peau ou certaines muqueuses.  
 Il s'agit d'un diagnostic d'interrogatoire.
+: Un prurit sans lésion cutanée est dit *sine materia*.
 
 Prurit physiologique
 : Discret, principalement le soir ou lors du déshabillage.
@@ -45,51 +46,60 @@ Prurigo
 Lichénification
 : Épaississement de la peau lorsque le prurit est chronique avec une peau grisâtre, recouverte de fines squames dessinant un quadrillage.
 
+### Abréviation
+
+CEDEF
+: Collège des enseignants de dermatologie de France
+
 {{% /collapse %}}
 {{%collapse "Étiologie" %}}
 
 ### Dermatoses prurigineuses
 
+Dermatoses fréquemment prurigineuses:
+
 - Ectoparasitoses  
-Gale et pédiculose.
+  [Gale]({{< relref "gale.md" >}}) et [pédiculose]({{< relref "pediculoses.md" >}}) (prurit du scalp ++).
 - Piqûres d'insectes
 - [Dermatite atopique]({{< relref "dermatite-atopique.md" >}})
 - Dermatite de contact  
-Caustique, irritative, allergique.
-- Urticaire, dermographisme
+  Caustique, irritative, allergique.
+- [Urticaire]({{< relref "urticaire.md" >}}), dermographisme
 - Mastocytose cutanée
 - Psoriasis
 - Lichen plan
 - Pemphigoïde bulleuse
 - Lymphomes cutanés  
-Mycosis fongoïde et syndrome de Sézary.
+  Mycosis fongoïde et syndrome de Sézary.
 - Dermatophytoses
 
 ### Prurit d'origine systémique
 
+Maladies systémiques à l'origine d'un prurit:
+
 - Cholestase et insuffisance hépatique
-- Insuffisance rénale chronique et hémodialyse
+- [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) et hémodialyse
 - Hémopathies malignes  
-Maladie de Hodgkin et Vaquez.
-- Dysthyroïdies
+  Maladie de Hodgkin et Vaquez (prurit aquagénique).
+- [Dysthyroïdies](/tags/tsh/)
 - Infection chronique  
-[VIH]({{< relref "vih-sida.md" >}}), [hépatite B]({{< relref "hepatite-b.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}})
+  [VIH]({{< relref "vih-sida.md" >}}), [hépatite B]({{< relref "hepatite-b.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}})
 - Carences  
-[Fer]({{< relref "anemie.md" >}}), vitamines.
+  [Fer]({{< relref "anemie.md" >}}), vitamines.
 - Parasitoses  
-Ascaridiose, toxocarose, tropicales.
+  Ascaridiose, toxocarose, tropicales.
 
 ### Autres causes
 
 - Grossesse (cholestase intra-hépatique de la grossesse)  
-Prurit généralisé, sévère, nu. Cholestase biologique.  
-Aussi: pemphigoïde gravidique, éruption polymorphe de la grossesse.
+  Prurit généralisé, sévère, nu. Cholestase biologique.  
+  Aussi: pemphigoïde gravidique, éruption polymorphe de la grossesse.
 - Iatrogène
 - Xérose cutanée
 - Prurit sénile  
-Physiologique. Caractère insomniant contraste avec rareté des lésions.
+  Physiologique. Caractère insomniant contraste avec rareté des lésions.
 - Prurit psychogène (diagnostic d'élimination)  
-Pathologie psychiatrique associée, événement stressant.
+  Pathologie psychiatrique associée, événement stressant.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -134,60 +144,69 @@ Aux jambes, différencier de paresthésies ou impatiences (évocatrices de [jamb
 
 ### Bilan devant un prurit sans orientation
 
-- NFS
+- NFS, ferritinémie
 - Bilan hépatique  
-ASAT, ALAT, GGT, PAL, bilirubine totale.
+  ASAT, ALAT, GGT, PAL, bilirubine totale.
 - Créatininémie
 - TSH
+- [Électrophorèse des protéines sériques]({{< relref "electrophorese-proteines-seriques.md" >}})
 - Sérologies VIH, VHB, VHC
 - Radiographie thoracique
-- Échographie abdominale
+- Sujet âgé: biopsie cutanée
 {{%/info%}}
 
-La biopsie cutanée n'est pas indiquée si aucune lésion clinique. En pratique chez le sujet âgé , le dosage des anticorps anti-membrane basale est fréquent.
+> *CEDEF 2021*
+
+Voire échographie abdominale.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-### Symptomatique
+### Traitement symptomatique
+
+Prise en charge symptomatique d'un prurit:
 
 - Limiter les facteurs irritants  
-Antiseptiques, savon parfumé, vêtements serrés et rêches.
+  Antiseptiques, savon parfumé, vêtements serrés et rêches.
 - Couper les ongles courts
 - Savons surgras
 - Émollients quotidiens  
-Cérat de Galien, Cold Cream.
+  Cérat de Galien, Cold Cream.
 - Antihistaminique de première génération  
-Hydroxyzine ou doxépine le soir.
+  Hydroxyzine ou doxépine le soir.
 
 Avis dermatologique pour photothérapie UVB.
 
 **NB.** Les antihistaminiques ne sont actifs que sur les prurits histamino-médiés. Donc pour l'urticaire chronique.
 
-### Étiologique
+### Traitement étiologique
 
-Traitement de la cause et des facteurs aggravants.
+Traitement de la cause et des facteurs aggravants le prurit.
 
 Substitution d'un traitement suspect.
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant un prurit. Dr JB Fron d'après CEDEF 2017" >}}
+{{< mermaid title="Prise en charge d'un prurit. Dr JB Fron d'après CEDEF 2021" >}}
 graph TB
   prurit[Prurit] --> examen("- Interrogatoire<br>- Clinique")
   style prurit stroke:#4150f5, stroke-width:1px
     examen --> orientation("Signes évocateurs <br>de pathologie ?")
       orientation -- Oui --> tttSpe(Traitement spécifique)
-      orientation -- Non --> bilan("<b>Prurit nu: éliminer un lymphome</b><hr>- NFS, BH, BR, TSH<br>- Sérologies VIH et hépatites<br>- RxT<br>- Échographie abdominale")
+      orientation -- Non --> bilan("<b>Prurit nu: éliminer un lymphome</b><hr>- NFS, ferritine<br>- BH, BR, TSH<br>- Sérologies VIH et hépatites<br>- Électrophorèse<br>- RxT, écho abdo")
     examen --> etiologie("<b>Causes principales</b><hr>- Gale, poux<br>- Dermatite atopique/contact<br>- Urticaire<br>- Psoriasis<br>- Lichen<br>- Pemphigoïde<br>- Autres")
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [CEDEF. Prurit. Item 116. 2021.](https://cedef.org/enseignement)
 - Prescrire Rédaction. Prurit lié à une affection cutanée et antihistaminiques H1 oraux. Février 2019.
-- [CEDEF. Prurit. Item 113. UE 4. 2017.](https://undf.cedef.org/fr/document/Prurit_r%C3%A9f%C3%A9rentiel-CEDEF)
-- [Dermato-info. Le prurit et le prurigo.](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-prurit-et-le-prurigo)
+- [CEDEF. Prurit. Item 113 UE 4. 2017.](https://undf.cedef.org/fr/document/Prurit_r%C3%A9f%C3%A9rentiel-CEDEF)
+
+### À lire
+
+[Dermato-info. Le prurit et le prurigo.](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-prurit-et-le-prurigo)
 
 {{%/sources%}}

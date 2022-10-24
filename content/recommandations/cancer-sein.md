@@ -16,7 +16,7 @@ anglais = ["Malignant neoplasm of breast "]
 sctid = "254837009"
 image = true
 imageSrc = "Le cancer du sein, illustration par Freepik"
-todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, EI hormonothérapie, perruque INCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e"
+todo = "SEO, revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, EI hormonothérapie, perruque INCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e"
 +++
 
 {{%article-summary%}}
@@ -329,12 +329,9 @@ Après RCP peuvent être proposés pour le cancer du sein: Chirurgie, radiothér
   Remb. 240€.
 
 {{% /collapse %}}
-{{%collapse "Vidéos de formation" %}}
+{{%sources%}}
 
 {{< youtube id="QXlT9651svA" title="Palpation des seins (Dr Jean-Philippe Harlicot)" >}}
-
-{{% /collapse %}}
-{{%sources%}}
 
 - [Santé Publique France. Dépistage du cancer du sein : quelle participation des femmes en 2021 ? 2022.](https://www.santepubliquefrance.fr/les-actualites/2022/depistage-du-cancer-du-sein-quelle-participation-des-femmes-en-2021)
 - [INCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)

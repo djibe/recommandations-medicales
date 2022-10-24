@@ -22,11 +22,11 @@ todo = "SEO, FFN, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl...
 
 {{%article-summary%}}
 
-- Dépister avec le {{< modal-btn modal-mna >}}Mini Nutritional Assessment{{< /modal-btn >}} (MNA, ≥ 1/an après 70 ans)
-- Le diagnostic est clinique: association d'un critère phénotypique et d'un critère étiologique
+- Dépister une dénutrition avec le {{< modal-btn modal-mna >}} questionnaire Mini Nutritional Assessment (MNA){{< /modal-btn >}} (dépistage annuel après 70 ans)
+- Le diagnostic de dénutrition est clinique: association d'un critère phénotypique et d'un critère étiologique
 - Un IMC élevé n'exclut pas une dénutrition
-- Poids hebdomadaire et à chaque consultation (reporté dans les dossier médical, DMP, carnet de santé...)
-- Bilan étiologique, enrichir l'alimentation, soins bucco-dentaires ± CNO
+- Suivi de la dénutrition: poids hebdomadaire et à chaque consultation (noté dans les dossier médical, DMP, carnet de santé...)
+- Prise en charge d'une dénutrition: bilan étiologique, enrichir l'alimentation, soins bucco-dentaires ± compléments alimentaires
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -35,8 +35,7 @@ Dénutrition
 : *Malnutrition* dans la CIM-10.
 : << État d'un organisme en déséquilibre nutritionnel >>. Possible par un déficit d'apport isolé, une augmentation des dépenses ou des pertes ou une association de ceux-ci.  
 Le déséquilibre nutritionnel est caractérisé par un bilan énergétique et/ou protéique négatif aboutissant à une *perte de poids* ou une *fonte musculaire*.  
-Elle touche > 2 millions de Français.
-: **Facteurs de risque:** cancer, syndrome inflammatoire, escarre, toxicomanies, démence et dégénératif, troubles de déglutition et bucco-dentaires (dont candidose), précarité, régime restrictif.
+La dénutrition touche +2 millions de Français.
 
 Albuminémie
 : Elle doit être dosée par immunonéphélémétrie ou immunoturbidimétrie (pas d'électrophorèse).  
@@ -45,6 +44,19 @@ Elle n'est qu'un *critère de sévérité* de la dénutrition et non un critère
 Syndrome de renutrition inappropriée
 : Manifestations adverses cliniques et biologiques observées à la renutrition de patients dénutris ou ayant subi un jeûne ou une restriction alimentaire prolongée (*SFNCM*).
 : Cliniquement: œdèmes, défaillance d'organes, troubles électrolytiques.
+
+### Facteurs de risque de dénutrition
+
+Situations et facteurs de risque de dénutrition:
+
+- [Cancer](/tags/cancer/)
+- Syndrome inflammatoire
+- Escarre
+- Toxicomanies
+- Démence et maladie dégénérative
+- Troubles de déglutition et bucco-dentaires (dont candidose)
+- Précarité
+- Régime restrictif
 
 ### Abréviations
 
@@ -257,7 +269,7 @@ Réévaluation à chaque consultation, au moins mensuelle.
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Traitement de la dénutrition de l'adulte.
+Pris en charge de la dénutrition de l'adulte:
 
 - Traitement étiologique
 - Évaluation diététique
@@ -291,7 +303,7 @@ Une fois ouvert, 2h à température ambiante et 24h au réfrigérateur.
 {{% /collapse %}}
 {{%collapse "Surveillance" %}}
 
-Réévaluation à chaque consultation, au moins mensuelle (trimestrielle mois chez l'adulte).
+Réévaluation de la dénutrition à chaque consultation, au moins mensuelle (trimestrielle mois chez l'adulte).
 
 - Poids (1/sem, même balance), IMC
 - Albuminémie max 1/mois
@@ -306,7 +318,7 @@ Réévaluation à chaque consultation, au moins mensuelle (trimestrielle mois ch
 - Mastication et déglutition
 - Niveau d'activité physique
 
-### Exemple de questions
+### Exemple de questions d'évaluation du suivi de la dénutrition
 
 [Appli patient Poids plus](https://play.google.com/store/apps/details?id=com.poids&hl=fr)
 
@@ -325,7 +337,7 @@ Réévaluation à chaque consultation, au moins mensuelle (trimestrielle mois ch
 
 {{< mermaid title="Conduite à tenir devant une personne à risque de dénutrition. Dr JB Fron d'après HAS/FFN 2021" >}}
 graph TB
-  fdr["<b>Personne à risque de dénutrition</b><hr>- &ge; 70 ans (dépistage annuel)<br>- Cancer<br>- Maladie inflammatoire<br>- Escarre<br>- Démence, dégénératif<br>- Troubles de déglutition et bucco-dentaires<br>- Toxicomanie<br>- Régime"]
+  fdr["<b>Personne à risque de dénutrition</b><hr>- +70 ans (dépistage annuel)<br>- Cancer<br>- Maladie inflammatoire<br>- Escarre<br>- Démence, dégénératif<br>- Troubles de déglutition et bucco-dentaires<br>- Toxicomanie<br>- Régime"]
   style fdr stroke:#4150f5, stroke-width:1px
     fdr --> MNA("Score MNA &le; 11 ?")
       MNA -- Oui --> criteres("<b>&ge; 1 critère phénotypique</b><hr>- PP &ge; 5% en 1 mois<br>ou &ge; 10% en 6 mois ou avant la maladie<br>- IMC &lt; 18,5 (22 si âgée)<br>- Sarcopénie<br>- Enfant: stagnation pondérale avec<br>décalage poids 2 couloirs<hr><b>&ge; 1 critère étiologique</b><hr>- Réduction apports &ge; 50% &gt; 1 sem<br>ou toute réduction &gt; 2 sem<br>- Malabsorption, maldigestion<br>- Situation d'agression")

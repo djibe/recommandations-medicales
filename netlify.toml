@@ -96,11 +96,6 @@ HUGO_ENABLEGITINFO = "false"
   force = true
 
 [[redirects]]
-  from = "/recommandations/papillomavirus/"
-  to = "/recommandations/cancer-col-uterus/"
-  status = 301
-
-[[redirects]]
   from = "/recommandations/alcool/"
   to = "/recommandations/sevrage-alcool/"
   status = 301
