@@ -6,32 +6,37 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-16T16:50:41+01:00
 publishdate = "2020-12-15"
-lastmod = "2022-01-24"
+lastmod = "2022-10-24"
 specialites = ["dermatologie"]
 annees = "2020"
 sources = ["CMIT", "CEDEF"]
 tags = ["prurit"]
 anglais = ["Scabies"]
 sctid = "128869009"
-todo = "SEO, collectivité, impétiginisation, ttt < 2 mois, source Prescrire"
+image = true
+imageSrc = "Lésions de gale de la main, photo de Sven Teschke, CC BY-SA 3.0, via Wikimedia Commons"
+todo = "sources"
 +++
 
 {{%article-summary%}}
 
-- Évoquer d'emblée devant tout prurit
-- Traitement concomitant de tout le foyer
-- Perméthrine en 1<sup>re</sup> intention
+- Évoquer une gale devant tout [prurit](/tags/prurit/)
+- Prise en charge de la gale
+  - Traitement concomitant de tout le foyer présentant un cas de gale
+  - Perméthrine crème (Topiscab®) 1 application le soir, renouveler à J8
+  - Désinfection du linge et de la literie
+  - Éviction 3 jours
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Gale humaine
-: Contamination cutanée inter-humaine par le *sarcopte* (acarien *Sarcoptes scabiei* variété hominis). Les signes cliniques sont la conséquence à la fois de l'infestation parasitaire et de la réaction de l'organisme contre les sarcoptes et leurs déjections.  
-Pic de contamination août-novembre.
+: Contamination cutanée inter-humaine par le *sarcopte* (acarien *Sarcoptes scabiei* variété hominis). Les signes cliniques de la gale sont la conséquence à la fois de l'infestation parasitaire et de la réaction immunitaire contre les sarcoptes et leurs déjections.  
+Pic de contamination de gale d'août à novembre.
 
 Sillon
 : Lésion pathognomonique rouge sinueuse, filiforme de quelques millimètres de long.  
-Siège aux mains, poignets, coudes, aisselles, organes génitaux, cuisses et pieds.  
+Il siège aux mains, poignets, coudes, aisselles, organes génitaux, cuisses et pieds.  
 **NB.** Absence de sillons chez les gens propres.
 
 Vésicule perlée
@@ -39,23 +44,24 @@ Vésicule perlée
 
 Nodule scabieux
 : Parfois seul signe chez les gens propres.  
-Pathognomonique, rouge/brun cuivré infiltré en palpation, persistant quelques semaines à quelques mois.  
-Il s'agit d'une réaction inflammatoire, ils ne contiennent pas de sarcopte. Recours aux dermocorticoïdes en cas de persistance.
+Il est pathognomonique, rouge/brun cuivré infiltré en palpation, persistant quelques semaines à quelques mois.
+: Il s'agit d'une réaction inflammatoire, ils ne contiennent pas de sarcopte. Recours aux dermocorticoïdes en cas de persistance.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 {{%info%}}Évoquer une gale devant tout prurit ou impétiginisation{{%/info%}}
 
-**Forme typique**: prurit diffus à recrudescence nocturne, épargnant le visage à caractère conjugal ou familial.
+**Forme typique de la gale**: [prurit](/tags/prurit/) diffus à recrudescence nocturne épargnant le visage, à caractère conjugal ou familial.
 
-Le diagnostic est clinique. Cependant un prurit isolé non évocateur ne doit pas faire réaliser un traitement d'épreuve.
+Le diagnostic de gale est clinique. Cependant un prurit isolé non évocateur ne doit pas faire réaliser un traitement d'épreuve.
 
 Incubation silencieuse pendant 1 mois.
 
 ### Interrogatoire
 
-- Notion de contage
+- Notion de contage de gale
+- Immunodépression
 - Prurit cutané
   - Recrudescence vespérale/nocturne
   - Intense
@@ -67,8 +73,8 @@ Incubation silencieuse pendant 1 mois.
 #### Topographie des lésions de gale
 
 - Espaces interdigitaux
-- Face antérieure des poignets
-- Coudes et emmanchures antérieures
+- Face antérieure des poignets et avant-bras
+- Coudes
 - Ombilic
 - Fesses
 - Face interne des cuisses
@@ -78,63 +84,60 @@ Incubation silencieuse pendant 1 mois.
 ### Examen clinique
 
 - Recherche lésions typiques  
-Sillons et vésicules perlées (voir *Définition*).
-- Éruption eczématiforme/d'hypersensibilité des tronc et membres
+  Sillons et vésicules perlées (voir *Définition*).
+- Éruption eczématiforme d'hypersensibilité des tronc et membres
 - Lésions de grattage et topographie
 - Autres signes  
-Lésions sans cicatrisation, prurit matinal des doigts, xérose cutanée résistante.
+  Lésions sans cicatrisation, prurit matinal des doigts, xérose cutanée résistante.
 
 ### Formes atypiques de gale
 
 Gale profuse
-: Eruption cutanée extensive lors de diagnostic tardif ou déficit immunitaire.
+: Éruption cutanée extensive lors d'un diagnostic tardif ou d'une immunodépression.
 
 Gale norvégienne ou croûteuse
 : Lésions squameuses peu ou non prurigineuses.  
 Atteinte des visage, cuir chevelu et ongles avec contagiosité maximale.
 
 Gale des gens propres
-: Forme pauci-symptomatique avec peu de signes évocateurs, pas de sillons. Anamnèse +++
+: Forme pauci-symptomatique avec peu de signes évocateurs, pas de sillons. Importance de l'anamnèse.
 
 Gale du nourrisson
 : Atteinte plantaire ou palmaire vésiculeuse ou pustuleuse. Lésions infiltrées, rouge cuivré des régions péri-axillaires et du tronc.  
-Enfant présente des mouvements de reptation lorsqu'il est déshabillé.
+L'enfant présente des mouvements de reptation lorsqu'il est déshabillé.
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Diagnostics différentiels d'un prurit tenace ou d'une gale:
+Diagnostic différentiel d'un [prurit](/tags/prurit/) tenace ou d'une gale:
 
 - Prurit sénile
-- Eczéma
+- [Eczéma]({{< relref "dermatite-atopique.md" >}})
 - Psoriasis
 - Lymphome cutané
 - Prurit médicamenteux ou psychologiques
 - Pemphigoïde bulleuse
-- Pédiculose
+- [Pédiculose]({{< relref "pediculoses.md" >}})
 - Prurit métabolique  
-Cholestases et insuffisances hépatiques ou rénales.
+  Cholestases et insuffisances hépatiques ou rénales.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la gale" %}}
 
-Le traitement est ambulatoire sauf gale norvégienne.  
-Traitement concomitant de toute la famille/entourage.
+La prise en charge de la gale est ambulatoire (sauf gale norvégienne).  
+Traitement antiparasitaire concomitant de toute la famille/entourage avec:
 
-- Traitement curatif perméthrine ou ivermectine (voir ci-dessous)
-- Éviction scolaire/professionnelle jusqu'à 3 jours après le traitement  
-Possible déclaration en *Maladie professionnelle* inscrite au Tableau 76.
-- Prévenir l'établissement scolaire  
-Voir *Information du patient*.
+- Traitement curatif par perméthrine ou ivermectine (voir ci-dessous)
+- Éviction scolaire/professionnelle jusqu'à 3 jours après le traitement (*CMIT*)  
+  Possible déclaration en *Maladie professionnelle* inscrite au Tableau 76.
+- Prévenir l'établissement scolaire (voir *Information du patient*)
 - Lavage des mains à l'eau et savon doux  
-Insister sur paumes et dos des mains, espaces inter-digitaux, lavages pluri-quotidiens.
+  Insister sur paumes et dos des mains, espaces inter-digitaux, lavages pluri-quotidiens.
 - Brossage des ongles, ongles courts, séchage des mains avec serviettes papier jetable
-- Désinfection du linge et vêtements  
-Voir *Information du patient*.
-- Information du patient  
-Fiche de gestion du linge et de la literie.  
+- Désinfection du linge et vêtements (voir *Information du patient*)
+- Bilan d'[IST](/tags/ist/) avec accord du patient
+
 Prévenir que le prurit peut persister 1 mois et n'est pas signe d'échec du traitement.
-- Bilan d'IST avec accord du patient
 
 **NB.** Le linge doit être manipulé avec des gants jetables car les solutions hydro-alcooliques sont inefficaces sur le sarcopte.
 
@@ -142,39 +145,38 @@ Prévenir que le prurit peut persister 1 mois et n'est pas signe d'échec du tra
 
 #### Perméthrine (Topiscab® 5% crème, remb. 65%)
 
-Premier choix Prescrire®.  
-Appliquer le tube entier sur toute la peau (sauf visage). Laisser agir au moins 8 heures. Puis douche eau + savon.  
+La [perméthrine crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61712553&typedoc=R) est le traitement de référence selon Prescrire®.  
+Appliquer le tube entier sur toute la peau (sauf visage). Laisser agir au moins 8 heures. Puis douche à l'eau et au savon.  
 **Renouveler le traitement à J8**.  
 **Contre-indications**: allergie au produit, enfant < 2 mois
 
-{{< table title="Posologie de la permethrine selon l'âge" >}}
-Âge        | Nombre tubes de 30 g
-:---------:|:-------------------:
-≥ 12 ans   | 1
-6 à 11 ans | 1/2
-1 à 5 ans  | 1/4
-2 à 11 mois | 1/8
-
+{{< table title="Posologie de la perméthrine selon l'âge pour le traitement de la gale" class="table-sm" >}}
+| Âge         | Nombre tubes de 30 g |
+| :----------:|:--------------------:|
+| +12 ans     | 1                    |
+| 6 à 11 ans  | 1/2                  |
+| 1 à 5 ans   | 1/4                  |
+| 2 à 11 mois | 1/8                  |
 {{< /table >}}
 
-> 1/4 de tube est équivalent à 2 noisettes.
+> 1/4 de tube est équivalent à 2 noisettes de perméthrine.
 
 #### Ivermectine 3 mg (Stromectol® ou gén, remb. 65%)
 
-Traitement oral en une prise 200 µg/kg et **rappel à J15** (InVS).  
-Efficacité de 85%.  
-**Contre-indications:** grossesse 1<sup>er</sup> trimestre, allaitement, poids < 15 kg, traitement par ivermectine durant le mois.  
-Selon Le CRAT: pas de souci pendant la grossesse.
+Traitement oral de la gale par [ivermectine en une prise de 200 µg/kg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67988035&typedoc=R) et **rappel à J15** (*InVS*, efficacité de 85%).  
+Traitement de première intention selon le *CMIT*.
+**Contre-indications:** grossesse au 1<sup>er</sup> trimestre, allaitement, poids < 15 kg, traitement par ivermectine durant le mois.  
+[Selon Le CRAT](https://lecrat.fr/articleSearchSaisie.php?recherche=ivermectine): pas de souci pendant la grossesse.
 
-{{< table title="Posologie de l'ivermectine en fonction du poids (source VIDAL)" >}}
+{{< table title="Posologie de l'ivermectine en fonction du poids pour le traitement de la gale" class="table-sm">}}
 Poids (kg) | Nombre de cp à 3 mg
-:---------:|--------------------:
+----------:|--------------------:
 15 à 24    | 1
 25 à 35    | 2
 36 à 50    | 3
 51 à 65    | 4
 66 à 79    | 5
-≥ 80       | 6
++80        | 6
 
 {{< /table >}}
 
@@ -186,16 +188,13 @@ Spregal® lotion, Ascabiol® émulsion.
 
 ### Cas particuliers
 
-- Impétiginisation  
-Antibiothérapie (TODO:).
-- Persistance de nodules scabieux  
-Application de dermocorticoïdes.
-- Gale norvégienne  
-Hospitalisation en dermatologie pour application de kératolytiques avant le traitement.
+- Impétiginisation: antibiothérapie
+- Persistance de nodules scabieux: dermocorticoïdes
+- Gale norvégienne: hospitalisation en dermatologie pour application de kératolytiques avant le traitement
 
 ### Prurit résiduel après traitement
 
-En cas de persistance de prurit après 1 mois, évoquer:
+En cas de persistance de prurit à 1 mois du traitement, évoquer:
 
 - Persistance de la gale suite à un traitement mal conduit ou insuffisant
 - Ré-infestation par l'entourage
@@ -223,16 +222,16 @@ Afin d'éviter tout risque d'épidémie, nous vous demandons de bien vouloir con
 3 choix possibles pour le traitement du linge:
 
 1. Lavage machine à 60°C  
-Le linge est stérilisé et peut être réutilisé une fois sec.
+  Le linge est stérilisé et peut être réutilisé une fois sec.
 2. Mise en quarantaine de 5 jours  
-Dans des sacs, puis lavage machine 30°C, séchage machine haute température puis repassage au fer chaud.  
+  Dans des sacs, puis lavage machine 30°C, séchage machine haute température puis repassage au fer chaud.  
 8 jours si gale profuse.
 3. Ascaricide  
-En supermarché actif sur le sarcopte de la gale (type Enviroscab® spray ou autre. Aucun n'est remboursé).  
-Pulvériser sur toute la surface du vêtement, à l'endroit et à l'envers, en insistant sur les coutures et plis, puis laisser agir dans des sacs fermés hermétiquement. Laisser agir le produit 3 heures. Enfin ressortir le linge pour un lavage machine à 30°C (ou laisser aérer 2 heures).  
-Si application sur literie, laisser reposer 12h.  
-**NB.** Ne peut être manipulé par asthmatique/problème respiratoire (idem pour Spregal®).  
-Tous les sprays ascaricides doivent être utilisés dans des pièces aérées (fenêtres ouvertes), quitter la pièce pendant 3 heures.
+  En supermarché actif sur le sarcopte de la gale (type Enviroscab® spray ou autre. Aucun n'est remboursé).  
+  Pulvériser sur toute la surface du vêtement, à l'endroit et à l'envers, en insistant sur les coutures et plis, puis laisser agir dans des sacs fermés hermétiquement. Laisser agir le produit 3 heures. Enfin ressortir le linge pour un lavage machine à 30°C (ou laisser aérer 2 heures).  
+  Si application sur literie, laisser reposer 12h.  
+  **NB.** Ne peut être manipulé par asthmatique/problème respiratoire (idem pour Spregal®).  
+  Tous les sprays ascaricides doivent être utilisés dans des pièces aérées (fenêtres ouvertes), quitter la pièce pendant 3 heures.
 
 ### Fiche d'exemple d'une éradication de la gale par JB Fron
 
@@ -286,5 +285,10 @@ Si traitement oral: 2<sup>e</sup> prise orale du nombre de comprimés prescrits.
 - [CEDEF. Ectoparasitoses cutanées : gale et pédiculose. Item 167 - UE 6. 2017.](https://undf.cedef.org/fr/document/Ectoparasitoses-cutan%C3%A9es_gale-et-p%C3%A9diculose)
 - [HCSP. Survenue de un ou plusieurs cas de gale. Conduite à tenir. 2012.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=312)
 - [Omedit Centre. Prise en charge et traitement des sujets atteints de gale. Mars 2010. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/6308.pdf)
+
+### À lire
+
+- Prescrire
+- [Salavastru CM. et al. European guideline for the management of scabies. J Eur Acad Dermatol Venereol. 2017.](https://pubmed.ncbi.nlm.nih.gov/28639722/)
 
 {{%/sources%}}

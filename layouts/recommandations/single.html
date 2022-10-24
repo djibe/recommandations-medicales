@@ -92,16 +92,16 @@
                   {{- range . }}
                   <span class="header-params px-2">{{ . }}</span> &bull;
                   {{ end }}
-                {{ end }}
+                {{ end -}}
 
-                {{ if .Lastmod }}
+                {{- if .Lastmod }}
                   <span class="header-params px-2">Mis à jour <time lang="en" class="ml-1" datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Lastmod.Format "2 January 2006" }}</time></span>
-                {{ end }}
+                {{ end -}}
 
                 {{- range .Params.auteurs }}
                   {{- with $.Site.GetPage "taxonomyTerm" (printf "auteurs/%s" (urlize .)) }}
                   {{ end }}
-                {{ end }}
+                {{ end -}}
 
                 {{- with .Params.relecteur }}
                   <span class="header-params px-2">Relecture {{ . }}</span>
@@ -115,6 +115,7 @@
               <div class="mt-4 recommandation__content">
                 {{ with .Params.Relecteur }}<p class="my-4">Tous mes remerciements au {{ . }} pour sa relecture attentive.</p>{{ end }}
                 {{ .Content }}
+                <div class="text-center"><button class="card-link my-5" type="button" data-toggle="modal" data-target="#modal-contact">Signaler un problème</button></div>
               </div>
             </div>
           </article>
