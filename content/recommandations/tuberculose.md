@@ -16,7 +16,7 @@ anglais = ["Tuberculosis"]
 sctid = "56717001"
 image = true
 imageSrc = "Jeune femme de 20 ans avec toux chronique et perte de poids. Cas clinique par Dr Hani Makky Al Salam, Radiopaedia.org, rID: 12437"
-todo = "A LIRE, lecture tubertest, KEY: maladie, lutte contre la tuberculose, infection tuberculeuse, organisation mondiale, traitement de la tuberculose, tuberculose pulmonaire, infection tuberculeuse latente, mycobacterium tuberculosis"
+todo = "A LIRE, lecture tubertest, quantiferon positif signe TM ?, KEY: maladie, lutte contre la tuberculose, infection tuberculeuse, organisation mondiale, traitement de la tuberculose, tuberculose pulmonaire, infection tuberculeuse latente, mycobacterium tuberculosis"
 +++
 
 {{%article-summary%}}
