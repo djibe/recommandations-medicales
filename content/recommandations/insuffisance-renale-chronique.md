@@ -11,7 +11,7 @@ publishdate = "2020-04-27"
 lastmod = "2022-10-25"
 specialites = ["nephrologie"]
 annees = "2021"
-sources = ["HAS", "KDIGO", "ESC", "SFNDT"]
+sources = ["HAS", "KDIGO", "ESC"]
 tags = ["depistage", "diabete", "dyspnee", "fatigue", "ferritine", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "vaccin", "vitamine d"]
 anglais = ["Renal failure syndrome"]
 sctid = "42399005"
@@ -416,11 +416,6 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
 Connaître les signes et symptômes de la MRC et savoir qui prévenir.
 
 {{%/collapse%}}
-{{%collapse "Rein et produits de contraste" %}}
-
-
-
-{{%/collapse%}}
 {{%collapse "Dépistage - Arbre décisionnel" "show" %}}
 
 {{< mermaid title="Conduite à tenir pour le dépistage de la maladie rénale chronique et prise en charge. Dr JB Fron d'après HAS 2021" >}}
@@ -442,7 +437,6 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%sources%}}
 
-- [SFNDT. Rein et produits de contraste. 2020.](https://www.sfndt.org/sites/www.sfndt.org/files/medias/documents/Fiche%20de%20recommandation%20pour%20la%20pratique%20clinique_rein%20et%20produit%20de%20contraste.pdf)
 - {{< references/esc-cvd >}}
 - {{< references/sfd-dt2 >}}
 - [HAS. Maladie rénale chronique de l'adulte. Guide du parcours de soins. Juillet 2021.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
