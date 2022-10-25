@@ -356,4 +356,8 @@ graph TB
 - [HAS. Modification de la Nomenclature des actes de biologie médicale pour les actes de recherche du Treponema pallidum. Mai 2015. (PDF)](https://www.has-sante.fr/portail/upload/docs/application/pdf/2015-05/argumentaire_syphilis_vd.pdf)
 - [SPILF (Société de Pathologie Infectieuse de Langue Française). Alternatives pour le traitement des syphilis non neurologiques dans un contexte de rupture de stock de benzathine pénicilline ± doxycycline. Février 2014. (PDF)](http://www.infectiologie.com/UserFiles/File/spilf/recos/2014-traitement-syphilis.pdf)
 
+### À lire
+
+[Janier M. et al. 2020 European guideline on the management of syphilis. J Eur Acad Dermatol Venereol. 2021.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16946)
+
 {{%/sources%}}

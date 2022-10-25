@@ -7,7 +7,7 @@ synonyms = ["Galactorrhée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-21T19:43:29+02:00"
 publishdate = "2021-10-21"
-lastmod = "2021-11-08"
+lastmod = "2022-10-25"
 specialites = ["gynecologie-obstetrique"]
 annees = "2017"
 sources = ["CNGOF", "HAS"]
@@ -22,35 +22,39 @@ todo = "galactorrhée"
 
 {{%article-summary%}}
 
-- Le plus souvent bénin
-- Examen clinique exhaustif
-- Si unilatéral: mammographie + échographie
-- Adresser au spécialiste avec les résultats
+- Un écoulement mamelonnaire est le plus souvent bénin
+- Examen clinique exhaustif de tout écoulement mamelonnaire
+- Écoulement du sein unilatéral: bilan mammographie + échographie  
+  et adresser au spécialiste avec les résultats
+
+Chapitre lié: [cancer du sein]({{< relref "cancer-sein.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Écoulement mamelonnaire (EM)
-: Extériorisation de liquide d'un ou deux mamelons. Il peut être unipore ou de plusieurs pores et avoir une couleur ou aspect variable. Il est spontané ou provoqué mais survient toujours en dehors de l'allaitement (jusqu'à 1 an) et du post-partum.
+: Extériorisation de liquide par un ou deux mamelons. Il peut être unipore ou de plusieurs pores et avoir une couleur ou aspect variable. Il est spontané ou provoqué mais survient toujours en dehors de l'allaitement (jusqu'à 1 an) et du post-partum.
 
 Galactorrhée
-: Physiologique pendant ou après la grossesse et jusqu'à 1 an après la fin de l'allaitement.
+: Une galactorrhée (écoulement de lait) est physiologique pendant ou après la grossesse et jusqu'à 1 an après la fin de l'allaitement.
 
 Pyramidectomie
 : Mastectomie partielle, dite *chirurgie conservatrice*. Elle correspond à l'ablation d'un canal galactophorique et ses ramifications. [Procédé opératoire](https://www.docteur-benchimol.com/pyramidectomie-du-sein.html)
 
-### Étiologie
+### Étiologie d'un écoulement mamelonnaire
+
+Pathologies à l'origine d'un écoulement mamelonnaire:
 
 - Endocrinologique
   - Adénome pituitaire
-  - Hypothyroïdie sévère
-  - Insuffisance rénale ou hépatique sévère
+  - [Hypothyroïdie sévère]({{< relref "hypothyroidie.md" >}})
+  - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) ou hépatique sévère
   - Production ectopique de prolactine (carcinome bronchogénique)
   - Pathologie hypothalamique
 - Tumeur du sein
   - Papillomes intracanalaires, ectasie canalaire (80% des EM colorés)
-  - Carcinome canalaire  
-  Le risque de malignité augmente avec l'âge (> 50 ans).
+  - [Carcinome canalaire]({{< relref "cancer-sein.md" >}})  
+  Le risque de malignité augmente avec l'âge (+50 ans).
 
 ### Abréviations
 
@@ -66,31 +70,34 @@ PRL
 
 ### Interrogatoire
 
+Éléments à rechercher à l'interrogatoire pour un écoulement mamelonnaire:
+
 - Antécédents personnels  
-Grossesse, allaitement.
+  Grossesse, allaitement.
 - Antécédents familiaux sénologiques, endocriniens et génétiques
 - Traitements en cours  
-Contraception ou hormonal, antidépresseur, neuroleptique, anti-H2, anti-émétique, antihypertenseur.
+  [Contraception]({{< relref "contraception.md" >}}) ou hormonal, antidépresseur, neuroleptique, anti-H2, anti-émétique, antihypertenseur.
 - Toxiques  
-Amphétamine, marijuana, caféine en excès.
+  Amphétamine, marijuana, caféine en excès.
 - Menstruations
 - Dermatose mamelonnaire
 - Écoulement mamelonnaire
   - Date et mode de survenue
   - Spontané ou provoqué  
-  {{%class%}}Soutien-gorge serré{{%/class%}}
+    {{%class%}}Soutien-gorge serré{{%/class%}}
   - Uni ou bilatéral
   - Uni ou multipore
   - Étude du quadrant du canal pathologique
   - Couleur de l'écoulement (étaler sur compresse)  
-  Laiteux, multicolore ou purulent. Les autres (clair, hydrique, séro-sanglant, sanglant) sont considérés comme pathologiques.  
-  Coloré est associé à 3-21% de malignité (surtout sanglant > 50 ans).
+    Laiteux, multicolore ou purulent. Les autres (clair, hydrique, séro-sanglant, sanglant) sont considérés comme pathologiques.  
+    Coloré est associé à 3-21% de malignité (surtout sanglant si +50 ans).
   - Différencier de sécrétions péri-aréolaires
 - Palpation mammaire
 - Aires ganglionnaires
 
-L'EM bénin est typiquement lactescent, bilatéral, provoqué et multipore. Par sécrétions apocrines glandulaires mammaires.  
-L'EM pathologique est unilatéral, abondant, persistant, spontané et unipore.
+L'écoulement mamelonnaire (EM) bénin est typiquement lactescent, bilatéral, provoqué et multipore. Par sécrétions apocrines glandulaires mammaires.  
+
+{{%warning%}}L'écoulement mamelonnaire pathologique est unilatéral, abondant, persistant, spontané et unipore{{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -109,12 +116,12 @@ Adresser au spécialiste avec les résultats.
 
 {{%/info%}}
 
-- Un écoulement bilatéral ne nécessite pas d'imagerie sauf dépistage adapté ou aspect sanglant
-- Biopsie de toute lésion radiologique
+Un écoulement bilatéral ne nécessite pas d'imagerie sauf dépistage adapté ou aspect sanglant.  
+Biopsie de toute lésion radiologique.
 
 ### IRM mammaire
 
-Lorsque le bilan de 1<sup>re</sup> intention n'est pas contributif.
+Recours à l'IRM lorsque le bilan de première intention n'est pas contributif.
 
 ### Prolactinémie
 
@@ -127,7 +134,7 @@ Indication: imagerie normale et EM suspect (séro/sanglant, reproductible, unipo
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant un écoulement mamelonnaire" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant un écoulement mamelonnaire. Dr JB Fron d'après CNGOF 2015" >}}
+{{< mermaid title="Prise en charge d'un écoulement mamelonnaire. Dr JB Fron d'après CNGOF 2015" >}}
 graph TB
   EM[Écoulement mamelonnaire]
   style EM stroke:#4150f5, stroke-width:1px
@@ -136,7 +143,7 @@ graph TB
       clinique -- Bilatéral --> maj(Mise à jour des dépistages) --> seno
 {{< /mermaid >}}
 
-> PRL = prolactine
+> **PRL =** prolactine
 
 {{%/collapse%}}
 {{%sources%}}

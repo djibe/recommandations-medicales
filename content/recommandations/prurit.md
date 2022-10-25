@@ -1,13 +1,13 @@
 +++
 title = "Conduite à tenir devant un prurit"
 prefix = "la "
-titleSeo = "Prise en charge d'un prurit"
+titleSeo = "Prise en charge du prurit"
 description = "Recommandations pour la prise en charge d'un prurit. Bilan: biologie, radio de thorax, échographie abdominale et médicament anti-histaminique. Éliminer une gale"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-02T17:43:41+02:00
 publishdate = "2020-10-02"
-lastmod = "2022-10-24"
+lastmod = "2022-10-25"
 specialites = ["dermatologie"]
 annees = "2021"
 sources = ["CEDEF"]
@@ -17,7 +17,6 @@ sctid = "418290006"
 flowchart = true
 image = true
 imageSrc = "Photo par wayhomestudio / Freepik"
-todo = "Prescrire, médicaments prurigineux, algo, lire dermato-info"
 +++
 
 {{%article-summary%}}
@@ -41,7 +40,7 @@ Prurit pathologique
 : Prurit entraînant des **lésions de grattage** ou ayant un retentissement sur la vie quotidienne.
 
 Prurigo
-: Lésions provoquées par le grattage: papules excoriées, croûteuses ou encore nodules.
+: Dermatose caractérisé par des lésions prurigineuses, excoriées et/ou associées à des stries de grattage (papules excoriées, croûteuses ou encore nodules). Il est aigu pour une durée inférieure à 6 semaines (souvent par piqûre d'insectes) ou chronique (cause dermatologique, neurologique, psychiatrique, systémique).
 
 Lichénification
 : Épaississement de la peau lorsque le prurit est chronique avec une peau grisâtre, recouverte de fines squames dessinant un quadrillage.
@@ -94,12 +93,35 @@ Maladies systémiques à l'origine d'un prurit:
 - Grossesse (cholestase intra-hépatique de la grossesse)  
   Prurit généralisé, sévère, nu. Cholestase biologique.  
   Aussi: pemphigoïde gravidique, éruption polymorphe de la grossesse.
-- Iatrogène
+- Iatrogène  
+  Liste non exhaustive: bêtalactamines, chloroquine, opiacés, cardiaque (statine, IEC/sartan, bêtabloquant), produit de remplissage, IL-2
 - Xérose cutanée
 - Prurit sénile  
   Physiologique. Caractère insomniant contraste avec rareté des lésions.
 - Prurit psychogène (diagnostic d'élimination)  
   Pathologie psychiatrique associée, événement stressant.
+
+### Orientation diagnostique selon la localisation du prurit
+
+Diagnostics fréquents selon la topographie du prurit:
+
+- Cuir chevelu
+  - Teigne
+  - [Pédiculose]({{< relref "pediculoses.md" >}})
+  - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
+  - Psoriasis
+  - Irritation par hygiène excessive
+- Visage
+  - [Dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}})
+  - [Eczéma]({{< relref "dermatite-atopique.md" >}})
+  - Photodermatose
+  - [Acné]({{< relref "acne.md" >}})
+- Génital
+  - Lichen scléreux
+  - Dermite/vulvite de contact
+  - Balanite/vulvite infectieuse
+  - Psoriasis génital
+  - Tumeur maligne
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -115,14 +137,16 @@ Le prurit est un diagnostic d'interrogatoire.
 - Animaux domestiques
 - Antécédents personnels et familiaux atopiques
 - Traitements en cours
+- Toxiques (cannabis)
 - Caractères du prurit
-  - Ancienneté
+  - Date de début et vitesse d'installation
   - Horaire de survenue
   - Topographie
   - Sévérité  
-  Insomnie, troubles du comportement, gêne dans le travail ou la vie quotidienne.
+    Insomnie, troubles du comportement, gêne dans le travail ou la vie quotidienne.
   - Facteurs déclenchants et soulageants
   - Évolution par poussées ou chronique
+  - Effet des traitements
 - Autres symptômes
 - Profession
 - Conduites sexuelles à risque
@@ -204,9 +228,10 @@ graph TB
 - [CEDEF. Prurit. Item 116. 2021.](https://cedef.org/enseignement)
 - Prescrire Rédaction. Prurit lié à une affection cutanée et antihistaminiques H1 oraux. Février 2019.
 - [CEDEF. Prurit. Item 113 UE 4. 2017.](https://undf.cedef.org/fr/document/Prurit_r%C3%A9f%C3%A9rentiel-CEDEF)
+- [Dermato-info. Le prurit et le prurigo.](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-prurit-et-le-prurigo)
 
 ### À lire
 
-[Dermato-info. Le prurit et le prurigo.](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-prurit-et-le-prurigo)
+[Pereira M. et al. European academy of dermatology and venereology European prurigo project: expert consensus on the definition, classification and terminology of chronic prurigo. J Eur Acad Dermatol Venereol. 2018.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.14570)
 
 {{%/sources%}}

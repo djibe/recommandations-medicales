@@ -289,6 +289,6 @@ Si traitement oral: 2<sup>e</sup> prise orale du nombre de comprimés prescrits.
 ### À lire
 
 - Prescrire
-- [Salavastru CM. et al. European guideline for the management of scabies. J Eur Acad Dermatol Venereol. 2017.](https://pubmed.ncbi.nlm.nih.gov/28639722/)
+- [Salavastru C. et al. European guideline for the management of scabies. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14351)
 
 {{%/sources%}}

@@ -122,4 +122,8 @@ Aucune étude n'a prouvé l'efficacité d'HE de lavande, qui est perturbateur en
 - [CEDEF. Ectoparasitoses cutanées : gale et pédiculose. Item 167 - UE 6. 2017.](https://undf.cedef.org/fr/document/Ectoparasitoses-cutan%C3%A9es_gale-et-p%C3%A9diculose)
 - [Conseil Supérieur d'Hygiène Publique de France. Avis relatif à la conduite à tenir devant un sujet atteint de pédiculose du cuir chevelu. 27/06/2003. (PDF)](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=a_mt_270603_pediculose.pdf)
 
+### À lire
+
+[Salavastru C. et al. European guideline for the management of pediculosis pubis. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14420)
+
 {{%/sources%}}

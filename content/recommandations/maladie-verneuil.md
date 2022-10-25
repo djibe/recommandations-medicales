@@ -1,6 +1,7 @@
 +++
 title = "Maladie de Verneuil"
 prefix = "la "
+noindex = true
 description = "Recommandations pour la prise en charge de la maladie de Verneuil ou Hidradénite suppurée. Suivi pluridisciplinaire, antibiothérapie de la poussée et de fond"
 synonyms = ["Hidradénite suppurée", "hidrosadénite"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -190,6 +191,7 @@ Il est essentiel d'apprendre à reconnaître les signes avant-coureurs des pouss
 
 - [Bertolotti A. et al. Guidelines for the management of hidradenitis suppurativa: recommendations supported by the Centre of Evidence of the French Society of Dermatology. Br J Dermatol, 184: 963-965. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/bjd.19710)
 - [SFD. recommandations Hidradénite suppurée - Arbre décisionnel. Août 2019.](https://reco.sfdermato.org/fr/recommandations-hidrad%C3%A9nite-suppur%C3%A9e)
+- [Zouboulis C. et al. European S1 guideline for the treatment of hidradenitis suppurativa/acne inversa. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.12966)
 - Prescrire
 
 {{%/sources%}}

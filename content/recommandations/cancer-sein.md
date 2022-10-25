@@ -16,52 +16,56 @@ anglais = ["Malignant neoplasm of breast "]
 sctid = "254837009"
 image = true
 imageSrc = "Le cancer du sein, illustration par Freepik"
-todo = "SEO, revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, EI hormonothérapie, perruque INCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e"
+todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, EI hormonothérapie, perruque INCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e"
 +++
 
 {{%article-summary%}}
 
-- Arrêt tabac, alcool, lutte surpoids et activité physique
+- Prévention du cancer du sein: arrêt tabac, alcool, lutte contre un surpoids et activité physique régulière
 - Palpation mammaire annuelle à partir de 25 ans
-- Vérifier la participation au dépistage organisé (50-74 ans, à consigner dans le dossier)
-- Dépistage spécifique si risque élevé ou très élevé (voir *Niveaux de risque*)
-- En antécédents familiaux, calcul du {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}}
-- Dépistage identique en cas de prothèses mammaires (*INCa 2019*)
-- En cas de suspicion de lésion du sein: mammographie, échographie mammaire bilatérales et avis sénologique
+- Vérifier la participation au dépistage organisé du cancer du sein (de 50 à 74 ans, à consigner dans le dossier médical)  
+  Dépistage identique en cas de prothèses mammaires (*INCa 2019*).
+- Dépistage spécifique en cas de risque élevé ou très élevé de cancer du sein (voir *Niveaux de risque*)
+- En cas d'antécédents familiaux de cancers du sein, calcul du {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} pour savoir orienter en oncogénétique
+- Bilan initial devant un lésion du sein: mammographie et échographie mammaire bilatérales puis avis sénologique
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Cancer du sein
-: 90% diagnostiqués suite à un dépistage.
-: Principalement des adénocarcinomes (95%) le plus souvent *intra-canalaires*, parfois *lobulaires*. Évolution *in situ* > invasif > métastases (os > foie > poumon > moelle > cerveau).  
-Délai de 6-10 ans entre mutation cancéreuse et tumeur de 2 cm.
+: 90% des cancers sont diagnostiqués suite à un dépistage.
+: Histologiquement, il s'agit principalement d'adénocarcinomes (95%) le plus souvent *intra-canalaires*, parfois *lobulaires*. Les métastases disséminent par fréquence: os > foie > poumon > moelle > cerveau.  
+Délai de 6 à 10 ans entre la mutation cancéreuse et une tumeur de 2 cm.
 : Les formes familiales représentent 15-20% des cancers du sein.
 
 Carcinome lobulaire
 : Facteur de risque de développer un cancer du sein. La prise en charge est différente des autres cancers du sein.
-: Ils représentent 1-15% des cancers *in situ*.
+: Ils représentent 1 à 15% des cancers *in situ*.
 
 Maladie de Paget du mamelon
 : Carcinome canalaire *in situ* pouvant se propager vers l'aréole ou profondément.
-: Aspect clinique de croûte au niveau du mamelon et de l'aréole avec érythème sous-jacent, parfois une desquamation.
+: Aspect clinique de croûte au niveau du mamelon et de l'aréole avec érythème sous-jacent, parfois avec une desquamation.
 
 ### Facteurs de risque de cancer du sein
 
-- Sexe  
+Liste des facteurs de risque de cancer du sein:
+
+- Sexe féminin  
   {{%class%}}< 1% chez l'homme.{{%/class%}}
 - Âge  
   {{%class%}}78% après 50 ans.{{%/class%}}
 - Prédisposition génétique (5-10%)
 - Antécédent personnel de cancer du sein
 - Antécédent personnel de radiothérapie thoracique à haute dose
-- Facteurs modifiables
+- Facteurs de risque modifiables
   - [Alcool]({{< relref "sevrage-alcool.md" >}}) (15% attribuables)
   - Tabac (4,4% attribuables)
   - Surpoids ou obésité (11% des cancers post-ménopausiques)
   - Inactivité physique
 
 ### Diagnostic différentiel du cancer du sein
+
+Autres diagnostics à étayer devant une lésion du sein:
 
 - Calcifications mammaires
 - Fibroadénome  
@@ -75,6 +79,8 @@ Maladie de Paget du mamelon
 
 ### Épidémiologie du cancer du sein en France
 
+Chiffres du cancer du sein en France:
+
 - Incidence: 58.459 (métropole 2018)
 - Mortalité: 12.146 (métropole 2018)
 - Survie: 88% à 5 ans (métropole, diagnostic en 2010-2015)
@@ -87,7 +93,7 @@ Maladie de Paget du mamelon
 ### Abréviations
 
 DO
-: programme de dépistage organisé du cancer du sein
+: programme de dépistage organisé (du cancer du sein)
 
 HER2
 : {{%lang%}}Human Epidermal Growth Factor Receptor-2{{%/lang%}}
@@ -101,7 +107,7 @@ RCP
 
 {{%info%}}Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans (*HAS*){{%/info%}}
 
-### Absence de facteur de risque
+### Absence de facteur de risque élevé de cancer du sein
 
 Femme asymptomatique de 50 à 74 ans (sans facteur ci-dessous).
 
@@ -146,7 +152,7 @@ Prédisposition génétiques aux cancers des seins-ovaires.
 
 {{%warning%}}
 
-Toute suspicion diagnostique justifie un avis spécialisé sans délai.
+Toute suspicion diagnostique de cancer du sein justifie un avis spécialisé sans délai.
 
 ### Signes d'appel de cancer du sein
 
@@ -166,7 +172,7 @@ Toute suspicion diagnostique justifie un avis spécialisé sans délai.
   - Asymétrie
   - Peau: déformation, ulcération, rétractation.
 - Mamelon
-  - Écoulement unipore sérosanglant
+  - [Écoulement unipore]({{< relref "ecoulement-mamelonnaire.md" >}}) sérosanglant
   - Eczéma (ou de l'aréole)
 - Aires ganglionnaires palpables  
   Axillaires, sus et sous-claviculaires.
@@ -194,7 +200,7 @@ Mammographies et échographie mammaire bilatérales, complétées par biopsies p
 - Voire IRM mammaire
 - Pyramidectomie chirurgicale puis histologie
 
-Voir [écoulement mammelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
+Voir le chapitre [écoulement mammelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
 
 ### Bilan devant une maladie de Paget du mamelon
 
@@ -204,7 +210,7 @@ Voir [écoulement mammelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
 
 ### IRM mammaire
 
-Indications limitées:
+Indications à l'IRM limitées:
 
 - Antécédent de radiothérapie thoracique haute dose (systématique)
 - BRCA1 ou 2 ou prédisposition génétique avérée (systématique)
@@ -221,7 +227,7 @@ Réduction de la consommation d'[alcool]({{< relref "sevrage-alcool.md" >}}) (15
 {{%info%}}Mammographies avec double lecture tous les 2 ans chez les femmes de 50 à 74 ans asymptomatiques (sans facteur de risque élevé ou très élevé de cancer du sein){{%/info%}}
 
 Dépistage identique en cas de prothèses mammaires (*INCa 2019*).  
-Effectuées et remboursées à 100% (les examens supplémentaires ne le sont pas) dans le cadre du Programme national de dépistage organisé du cancer du sein (2001, modifié 2006, géré par DGS et INCa).
+Les mammographies sont remboursées à 100% (les examens supplémentaires ne le sont pas) dans le cadre du Programme national de dépistage organisé du cancer du sein (introduit en 2001, modifié en 2006, géré par DGS et INCa).
 
 {{%info%}}Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans (*HAS*){{%/info%}}
 
@@ -307,8 +313,7 @@ Après RCP peuvent être proposés pour le cancer du sein: Chirurgie, radiothér
   - Bilan lipidique annuel
 - Thérapie ciblée  
   Échocardiographies.
-- Radiothérapie sus et sous-claviculaire  
-  TSH régulière.
+- Radiothérapie sus et sous-claviculaire: TSH régulière
 
 ### Consignes de précautions pour le côté d'un curage axillaire (lymphœdème)
 
