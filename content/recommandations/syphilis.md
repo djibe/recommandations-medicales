@@ -1,12 +1,12 @@
 +++
 title = "Syphilis"
 prefix = "la "
-description = "Recommandations pour le diagnostic et la prise en charge de la syphilis. Sérologie syphilitique et suivi sérologique, antibiotique benzathine benzylpénicilline"
+description = "Recommandations pour le diagnostic et la prise en charge de la syphilis. Sérologie syphilitique et suivi sérologique, antibiothérapie pénicilline G et dépistage"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-02T08:27:41+02:00"
 publishdate = "2020-09-02"
-lastmod = "2022-06-02"
+lastmod = "2022-10-26"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2016"
 sources = ["SFDermato", "SPILF"]
@@ -14,15 +14,15 @@ tags = ["depistage", "HSH", "IST", "prevention", "VIH"]
 anglais = ["Syphilis"]
 sctid = "76272004"
 flowchart = true
-todo = "Prescrire cite la ceftriaxone IM 1g/j 10 à 14j"
+todo = "lire, Prescrire cite la ceftriaxone IM 1g/j 10 à 14j"
 +++
 
 {{%article-summary%}}
 
-- Évoquer un chancre devant toute ulcération génitale
+- Évoquer un chancre syphilitique devant toute ulcération génitale
 - Traiter comme une syphilis tardive quand la date de contamination n'est pas connue
-- Diagnostic par positivité de la sérologie syphilitique
-- Sérologies des autres [IST](/tags/ist/) et dépistage des partenaires
+- Le diagnostic de syphilis est biologique (sérologie syphilitique positive)
+- Réaliser les sérologies des autres [infections sexuelles](/tags/ist/) et dépister les partenaires
 
 Renseigner sur la [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}}) toute personne exposée au VIH
 
@@ -30,16 +30,16 @@ Renseigner sur la [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}}) tou
 {{%collapse "Définition" %}}
 
 Syphilis
-: Maladie infectieuse à transmission directe principalement sexuelle par contact avec une lésion génitale (fellation comprise) de la bactérie *Treponema pallidum* (tréponème, bactérie spirochète, trépanomatose), ou materno-fœtale.  
+: Maladie infectieuse à transmission directe principalement sexuelle par contact avec une lésion génitale (fellation comprise) de la bactérie *Treponema pallidum* (tréponème pâle, bactérie spirochète, trépanomatose), ou materno-fœtale.  
 La contamination lors de la grossesse entraîne des complications graves chez le fœtus.
 
-La majorité des cas survient chez les [HSH]({{< relref "hsh.md" >}}) (85% des cas en 2020) et entre 20 et 29 ans.
+La majorité des cas survient chez les [hommes ayant des rapports sexuels avec des hommes (HSH)]({{< relref "hsh.md" >}}) (85% des cas en 2020) entre 20 et 29 ans.
 
-Forte prévalence d'une co-infection VIH (25%).
+Forte prévalence d'une [co-infection VIH]({{< relref "vih-sida.md" >}}) (25%).
 
 ### Stades de la syphilis
 
-Évolution en quatre stades de la syphilis:
+La syphilis évolue en quatre stades.
 
 Syphilis précoce
 : Évolution datant de moins d'un an (J1 étant le 1<sup>er</sup> jour du chancre).  
@@ -75,14 +75,14 @@ Réaction d'Herxeimer
 Ne pas confondre avec une allergie aux bêtalactamines.
 
 {{% /collapse %}}
-{{%collapse "Qui dépister?" %}}
+{{%collapse "Chez qui dépister la syphilis?" %}}
 
-Recommandations pour le dépistage répété des personnes à risque:
+Recommandations pour le dépistage répété des personnes à risque de syphilis:
 
 - Demande du patient (arrêt du préservatif, changement de partenaire, comportement à risque, accident de préservatif)
 - Toute consultation pour motif urologique ou gynécologique bénin
 - Grossesse
-- 1<sup>re</sup> consultation avec personne jeune, population à risque, antécédent d'IST
+- Première consultation avec personne jeune, population à risque, antécédent d'IST
 - Vulnérabilité  
   Parcours sentimental ou addictions.
 - **[HSH]({{< relref "hsh.md" >}}) avec rapports non protégés**
@@ -107,12 +107,12 @@ Recommandations pour le dépistage répété des personnes à risque:
 ### Syphilis primaire = Chancre
 
 Le chancre est constant mais non vu en atteinte profonde (cervico-vaginale, rectale, pharyngée).  
-Lésion unique, muqueuse, indurée, indolore, superficielle, propre et très contagieuse mais peut prendre tout autre aspect. Cicatrisation complète sans cicatrice.  
+Il s'agit d'une lésion unique, muqueuse, indurée, indolore, superficielle, propre et très contagieuse mais qui peut prendre tout autre aspect. La cicatrisation est complète sans cicatrice.  
 On parle de syphilis primo-secondaire quand le chancre persiste durant l'éruption secondaire.
 
-Adénopathie régionale (inguinale) qui ne fistulise pas.
+Le chancre est souvent accompagné d'une adénopathie régionale (inguinale) qui ne fistulise pas.
 
-Invasion du LCR du système nerveux sans atteinte parenchymateuse.
+Phase d'invasion du liquide cérébro-spinal sans atteinte parenchymateuse.
 
 {{%info%}}Évoquer un chancre devant toute ulcération génitale{{%/info%}}
 
@@ -136,19 +136,19 @@ Ex: Dépilation des sourcils, lésions d'aspect séborrhéiques des sillons naso
 
 **Lésions contagieuses si excoriées**.
 
-#### Autres signes
+#### Autres signes de syphilis
 
 - Fébricule
 - Polyadénopathies
-- Arthroses
+- Arthralgies
 - Ostéite
 - Hépatite
 - Uvéite
 - Glomérulonéphrite
 
-{{%warning%}}Les atteintes ophtalmologiques et neurologiques peuvent engager le pronostic fonctionnel{{%/warning%}}
+{{%warning%}}Les atteintes ophtalmologiques et neurologiques de la syphilis peuvent engager le pronostic fonctionnel{{%/warning%}}
 
-**NB.** Ne pas confondre la *réaction d'Herxeimer* avec une allergie bêtalactamines.
+**NB.** Ne pas confondre la *réaction d'Herxeimer* avec une allergie aux bêtalactamines.
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -175,7 +175,7 @@ Recommandations pour la prise en charge diagnostique devant une suspicion de syp
 
 Les sérologies se positivent quelques jours après le début du chancre et atteignent un titre maximum vers 6 mois, correspondant à la phase secondaire si elle est présente.
 
-Le diagnostic de syphilis par sérologie est plus difficile en recontamination du fait de la positivité des anticorps.
+Le diagnostic de syphilis par sérologie est plus difficile en cas de recontamination du fait de la persistance des anticorps.
 
 {{%class%}}La sérologie syphilitique consiste en un test tréponémique unique depuis 2015 (anciennement TPHA - VDRL){{%/class%}}
 
@@ -185,7 +185,7 @@ Examen au microscope à fond noir d'un prélèvement lésionnel. Permet un diagn
 
 ### Sérologies et prélèvements des autres IST
 
-Selon les expositions.
+Selon les expositions, voir [les IST](/tags/ist/).
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
