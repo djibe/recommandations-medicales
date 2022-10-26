@@ -6,7 +6,7 @@ synonyms = ["Adénocarcinome prostatique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-27T19:51:30+02:00"
 publishdate = "2020-09-27"
-lastmod = "2022-10-21"
+lastmod = "2022-10-26"
 specialites = ["urologie"]
 annees = "2022"
 sources = ["EAU", "AFU", "HAS"]
@@ -16,26 +16,26 @@ sctid = "254900004"
 flowchart = true
 image = true
 imageSrc = "Illustration du cancer de la prostate par brgfx / Freepik "
-todo = "Geriatric 8 Table 5.10 source 151, tableau espérance de vie, source doubler valeur IPDE5"
+todo = "Cancer agressif ISUP >= 2, Geriatric 8 Table 5.10 source 151, tableau espérance de vie, source doubler valeur IPDE5"
 +++
 
 {{%article-summary%}}
 
-- Proposer le dépistage du cancer de la prostate (CaP) par toucher rectal et dosage du PSA après information éclairée: homme asymptomatique à risque augmenté de CaP jusqu'à une espérance de vie < 15 ans (~70 ans) tous les 2 ans (EAU, AFU et Commission européenne)
-  - Hommes à risque: +50 ans, +45 ans avec antécédent familial de CaP ou d'origine africaine, +40 ans avec BRCA2
+- Proposer le dépistage du cancer de la prostate (CaP) par toucher rectal et dosage du PSA après information éclairée aux hommes asymptomatiques ayant espérance de vie de +15 ans (~70 ans) (EAU, AFU et Commission européenne):
+  - **Hommes à risque augmenté:** +50 ans, +45 ans avec antécédent familial de CaP ou d'origine africaine, +40 ans avec BRCA2
   - Tous les 2 ans
-  - Tous les 8 ans si risque faible: PSA < 1 ng/mL à 40 ans ou < 2 à 60 ans
+  - voire tous les 8 ans si risque faible: PSA < 1 ng/mL à 40 ans ou < 2 à 60 ans
 - Toute anomalie au toucher rectal ou un PSA > 2 ng/mL impose un avis urologique (seuil de 4 pour l'AFU)  
   Redoser le PSA si le 1<sup>er</sup> dosage est compris de 3 à 10 ng/mL.
-- Consultation d'oncogénétique en cas de: CaP métastatique, plusieurs cas avant 60 ans ... (voir *Dépistage du cancer*)
+- Consultation d'oncogénétique en cas de: CaP métastatique, plusieurs cas avant 60 ans (voir *Dépistage du cancer*)
 - Après traitement, le suivi spécialisé est long (10 ans)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Cancer de la prostate (CaP)
-: Dégénérescence tumorale prostatique par un **adénocarcinome** sporadique (80%), héréditaire (10%) ou familial (10%).
-: L'évolution initiale est intra-prostatique (cancer localisé) puis **métastatique ganglionnaire et osseuse** (foie et poumon rares). < 20% des patients ont des métastases à 10 ans.
+: Dégénérescence tumorale prostatique en **adénocarcinome**: sporadique (80%), héréditaire (10%) ou familial (10%).
+: L'évolution initiale est intra-prostatique (cancer localisé) puis **métastatique ganglionnaire et osseuse** (foie et poumon rares). Moins de 20% des patients ont des métastases à 10 ans.
 
 Cancer de la prostate héréditaire
 : Au moins 2 cas au premier ou second degré de la même branche familiale ou antécédents de cancers du spectre de Lynch (sein, ovaire).
@@ -49,14 +49,14 @@ Cancer de la prostate héréditaire
 - Origine africaine
 - Dans une moindre mesure: hypertension artérielle, obésité abdominale, consommation excessive d'alcool
 
-**NB.** En correction d'un hypogonadisme, la supplémentation en testostérone n'augmente pas le risque de cancer de la prostate.
+**NB.** En cas d'hypogonadisme, la supplémentation en testostérone n'augmente pas le risque de cancer de la prostate.
 
 ### Facteurs pronostiques
 
 Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de Gleason et ISUP** (évolution du Gleason) au diagnostic.
 
-{{< table title="Risque de cancer de prostate (CaP) selon le taux de PSA. EAU 2022" class="table-sm" >}}
-| PSA (ng/mL) | Risque de CaP (%) | Risque de CaP ISUP ≥ 2 (%) |
+{{< table title="Risque de cancer de prostate (CaP) selon le taux de PSA. Agressif = CaP ISUP &ge; 2. EAU 2022" class="table-sm" >}}
+| PSA (ng/mL) | Risque de CaP (%) | Risque de CaP agressif (%) |
 |------------:|------------------:|---------------------------:|
 | 0 - 0,5     | 6,6               | 0,8                        |
 | 0,6 - 1     | 10,1              | 1                          |
@@ -90,7 +90,7 @@ EV
 : espérance de vie
 
 ISUP
-: score 2014 de l'{{%lang%}}International Society of Urological Pathology{{%/lang%}}
+: score 2014 de l'{{%lang%}}International Society of Urological Pathology{{%/lang%}} (évolution du Gleason)
 
 PSA
 : {{%lang%}}prostate-specific antigen{{%/lang%}}
@@ -107,7 +107,7 @@ TR
 La plupart des hommes atteints par le cancer de la prostate sont asymptomatiques ou les symptômes sont liés à une pathologie bénigne associée (ex. hypertrophie de la prostate).
 
 - Antécédents
-- Antécédents familiaux ([cancers](/tags/cancer/) prostate, [sein]({{< relref "cancer-sein.md" >}}), ovaire ++)
+- Antécédents familiaux ([cancers](/tags/cancer/) de prostate, [sein]({{< relref "cancer-sein.md" >}}) et ovaire ++)
 - Symptômes frustes génito-urinaire: dysurie
 - Métastases
   - AEG
@@ -180,7 +180,7 @@ Patient à risque asymptomatique informé demandant un diagnostic précoce, dép
 - Toucher rectal normal
   - PSA < 1 ng/mL à 40 ans ou < 2 à 60 ans: répéter le dosage dans 8 ans
   - PSA 1<sup>er</sup> dosage de 3-10 ng/mL: refaire le dosage
-  - PSA 2<sup>e</sup> dosage 2-10 ng/mL: avis urologique pour utilisation d'un score ou IRM prostatique (seuil de 4 ng/mL selon *AFU 2020*)
+  - PSA 2<sup>e</sup> dosage de 2-10 ng/mL: avis urologique pour utilisation d'un score ou IRM prostatique (seuil de 4 ng/mL selon *AFU 2020*)
   - PSA +10 ng/mL: avis urologique
 - Toucher rectal anormal: avis urologique
 
@@ -209,7 +209,7 @@ Liste des complications de la biopsie prostatique par ordre de fréquence: hémo
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Chapitre pour en savoir plus, le traitement du cancer de la prostate dépendant des décisions de la réunion de **concertation pluridisciplinaire** (RCP) accordées avec le souhait du patient.  
+Chapitre pour en savoir plus, le traitement du cancer de la prostate dépend des décisions de la réunion de **concertation pluridisciplinaire** (RCP) et du souhait du patient.  
 Déclarer l'**ALD** avec le compte-rendu.
 
 Plusieurs stratégies thérapeutiques pour le traitement du cancer de la prostate: **prostatectomie, radiothérapie, hormonothérapie, surveillance active** (détaillée plus bas) voire une ***Abstention-surveillance*** (patient asymptomatique avec cancer localisé et espérance de vie < 10 ans).
@@ -229,7 +229,7 @@ Il s'agit d'une surveillance spécialisée prolongée avec examen clinique, PSA,
 graph TB
   homme[Homme asymptomatique<br>avec Espérance de vie +15 ans<hr>+50 ans<br>+45 ans avec antécédent familial<br>ou origine Africaine<br>+40 ans avec BRCA2] -- information éclairée --> depistage(TR + PSA<br>tous les 2 ans)
   style homme stroke:#4150f5, stroke-width:1px
-    depistage --> normal("<b>TR normal</b>")
+    depistage ==> normal("<b>TR normal</b>")
       normal --> bas(PSA &lt; 1 à 40 ans<br>ou &lt; 2 à 60 ans) -- Répéter à 8 ans --> depistage
       normal --> intermediaire(PSA 3-10) --> controle(Contrôler le PSA)
         controle --> sup("PSA &ge; 2<br>(4 selon l'AFU)") --> urologue

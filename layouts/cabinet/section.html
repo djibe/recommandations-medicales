@@ -3,7 +3,7 @@
   <div class="container-md">
     <div class="row">
       <div class="col-12">
-        <h1 class="taxonomyList my-xl-5">{{ .Title }}</h1>
+        <h1 class="taxonomyList my-xl-5">{{ .Title | safeHTML }}</h1>
         <nav aria-label="Fil d'ariane" class="mb-4">
           <ol class="breadcrumb">
             {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}

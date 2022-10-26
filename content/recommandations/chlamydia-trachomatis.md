@@ -7,10 +7,10 @@ synonyms = ["Chlamydiose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-28T12:09:00+02:00"
 publishdate = "2021-03-28"
-lastmod = "2022-03-02"
+lastmod = "2022-10-26"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
-sources = ["HAS", "Inpes"]
+sources = ["HAS", "SPILF"]
 tags = ["depistage", "HSH", "IST"]
 anglais = ["Chlamydia trachomatis infection"]
 sctid = "240589008"
@@ -21,19 +21,19 @@ todo = "améliorer clinique, flowchart"
 
 {{%article-summary%}}
 
-- Dépister largement (voir *Qui dépister ?*), tous les 3-6 mois chez les HSH
-- PCR sur auto-prélèvement vaginal ou 1<sup>er</sup> jet d'urine pour les hommes
+- Dépister largement les *Chlamydia* (voir *Qui dépister ?*), tous les 3-6 mois chez les HSH
+- PCR *Chlamydia* sur auto-prélèvement vaginal ou premier jet d'urine pour les hommes
 - Prélèvement des autres sites selon les pratiques
-- Azithromycine per os 1g dose unique + traitement du partenaire + préservatif 7 jours
-- Dépistage des [autres IST](/tags/ist/) et des partenaires des 12 derniers mois
-- Contrôle de l'éradication à 6 mois
+- Prise en charge par Azithromycine per os 1g dose unique + traitement du partenaire + préservatif 7 jours
+- Dépistage des [autres infections sexuelles](/tags/ist/) et des partenaires des 12 derniers mois
+- Contrôle de l'éradication des *Chlamydia* à 6 mois
 
 Renseigner sur la [PrEP]({{< relref "prophylaxie-preexposition-prep.md" >}}) toute personne exposée au VIH
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-*Chlamydia trachomatis* (Ct)
+*Chlamydiae trachomatis* (Ct)
 : Bactérie intracellulaire pathogène (sérotype D et K) responsable d'infections urogénitales sexuellement transmises.  
 Problème de Santé publique du fait des complications: stérilité, grossesse extra-utérine, algies pelviennes chroniques.  
 Elle atteint 3% des 18-29 ans avec co-infection *gonocoque* de 2-24%. +30% entre 2017 et 2019.
@@ -45,7 +45,7 @@ Elle atteint 3% des 18-29 ans avec co-infection *gonocoque* de 2-24%. +30% entre
 ### Abréviations
 
 Ct
-: *Chlamydia trachomatis*
+: *Chlamydiae trachomatis*
 
 DIU
 : dispositif intra-utérin (ou stérilet)
@@ -71,41 +71,41 @@ VIH
 
 ### Qui dépister ?
 
-Dépister systématiquement *Chlamydia trachomatis* chez:
+Dépister systématiquement *Chlamydiae trachomatis* chez:
 
 1. Femme sexuellement active de 15 à 25 ans
 2. Personne sexuellement active à tout âge avec facteur de risque parmi
     - ≥ 2 partenaires dans l'année
     - Changement de partenaire récent
     - Autre IST diagnostiquée (personnelle ou du partenaire)
-    - Antécédent d'IST
+    - Antécédent d'[infection sexuelle](/tags/ist/)
     - Prostitution
     - Viol
 3. Femme consultant pour [IVG]({{< relref "interruption-volontaire-grossesse.md" >}})
 4. Homme ayant des rapports sexuels avec des hommes ([HSH]({{< relref "hsh.md" >}}))
 5. Avant pose de DIU en [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) (HAS 2019)
 
-### Quel dépistage ?
+### Quel dépistage du *Chlamydiae trachomatis* ?
 
-- Femme  
-PCR par (auto)-prélèvement vaginal (co-détection Chlam-gono).  
-Si spéculum: prélèvement du col.
-- Homme  
-PCR sur 1<sup>er</sup> jet d'urines (co-détection Chlam-gono).
+- Femme: PCR par (auto)-prélèvement vaginal (co-détection Chlam-gono)  
+  Si utilisation d'un spéculum: prélèvement du col.
+- Homme: PCR sur 1<sup>er</sup> jet d'urines (co-détection Chlam-gono).
 - Autres sites selon les pratiques sexuelles  
-Ano-rectal, pharyngé.
+  Ano-rectal, pharyngé.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
+
+Signes et symptômes des infections à *Chlamydia* selon le sexe.
 
 ### Femme
 
 - Incubation 5-14 jours
 - Asymptomatique (70%)
 - Cervicite  
-Leucorrhées jaunes/blanches, cystalgies, syndrome urétral, dyspareunie, spotting.
+  Leucorrhées jaunes/blanches, cystalgies (douleurs de vessie), syndrome urétral, dyspareunie, spotting.
 - Salpingite et douleurs pelviennes chroniques  
-Majoritairement subaiguë ou chronique, douleurs abdominales augmentées pendant les règles.
+  Majoritairement subaiguë ou chronique, douleurs abdominales augmentées pendant les règles.
 - Grossesse extra-utérine
 - Stérilité
 
@@ -114,12 +114,12 @@ Majoritairement subaiguë ou chronique, douleurs abdominales augmentées pendant
 - Incubation 5-10 jours
 - Asymptomatique (50%)
 - Urétrite  
-Écoulement clair, modéré, intermittent.
+  Écoulement clair, modéré, intermittent.
 - Épididymite aiguë
 - Syndrome de Fiessinger-Leroy-Reiter
   - Dans les suites d'une urétrite
   - Conjonctivite bilatérale
-  - Polyarthrite asymétrique (sub)aigüe des grosses articulations
+  - Polyarthrite asymétrique (sub)aiguë des grosses articulations
   - Fréquentes: rachialgies, talalgies et tendinites
   - Balanite circinée
   - Lésions psoriasiformes
@@ -127,39 +127,39 @@ Majoritairement subaiguë ou chronique, douleurs abdominales augmentées pendant
 {{% /collapse %}}
 {{%collapse "Traitement du Chlamydia" %}}
 
-Traitement selon les résultats de l'analyse PCR.
+Prise en charge des infections à *Chlamydia* selon les résultats de la PCR.
 
 ### Dépistage négatif
 
-**Dépistage annuel** si rapports non protégés avec un nouveau partenaire.  
+**Dépistage annuel** de *Chlamydiae trachomatis* si rapports non protégés avec un nouveau partenaire.  
 Dépistage tous les 3-6 mois chez les HSH.
 
-### Dépistage positif
+### Dépistage *Chlamydia* positif
 
 - Traitement des formes non compliquées (pas de salpingite)
 - Traitement systématique en cas d'infection par le gonocoque (voir le chapitre dédié pour le traitement du gonocoque)
 
 {{%info%}}
-Azithromycine per os 1 g dose unique
+Doxycycline per os 100 mg x 2/j pendant 7 jours  
+ou azithromycine per os 1g dose unique
 
 PCR de contrôle à 6 mois
 {{%/info%}}
 
-**Alternative:** doxycycline per os 100 mg x 2/j pendant 7 jours.
-
 - Traiter simultanément le partenaire
 - Préservatif pendant 7 jours
+- Consultation de contrôle à J7 pour guérison clinique, résultats du bilan IST et conseils de prévention
 - [HSH]({{< relref "hsh.md" >}}): PCR répétée tous les **3-6 mois**
 - Contacter les partenaires des 12 derniers mois
 - Dépistage des autres [IST](/tags/ist/)  
-Gonocoque, trichomonase, syphilis, VIH, VHC.
+  Gonocoque, trichomonase, [syphilis]({{< relref "syphilis.md" >}}), [VIH]({{< relref "vih-sida.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}}).
 - Statut vaccinal hépatite B ± vaccination VHB  
-Indication: << e. Personnes ayant des relations sexuelles avec des partenaires multiples, exposées aux IST ou ayant une IST en cours ou récente >> (*Calendrier vaccinal. MinSanté 2021*).
+  Indication: << Personnes ayant des relations sexuelles avec des partenaires multiples, exposées aux IST ou ayant une IST en cours ou récente >> (*Calendrier vaccinal. MinSanté*).
 
-#### Cas particuliers
+#### Traitement des cas particuliers d'infections à Chlamydia
 
-- Grossesse et allaitement: [azithromycine](http://lecrat.fr/articleSearchSaisie.php?recherche=azithromycine)
-- PVVIH: azithromycine
+- Grossesse et allaitement: l'utilisation de l'[azithromycine](http://lecrat.fr/articleSearchSaisie.php?recherche=azithromycine) est sans risques
+- Personne vivant avec le VIH: azithromycine également possible
 
 {{% /collapse %}}
 {{%sources%}}

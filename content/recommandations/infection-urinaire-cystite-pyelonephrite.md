@@ -79,7 +79,7 @@ Rechercher des signes de gravité devant toute infection urinaire avec des signe
 
 ### Facteurs de risque de complication d'une infection urinaire
 
-{{%info%}}<< Le diabète, type 1 ou 2, n’est pas un facteur de risque de complication >> (*HAS 2021*){{%/info%}}
+{{%info%}}<< Le diabète, type 1 ou 2, n'est pas un facteur de risque de complication >> (*HAS 2021*){{%/info%}}
 
 {{< clinique/iu-fdr-complication >}}
 
@@ -334,6 +334,10 @@ graph TB
 - [HAS, SPILF, GPIP, CMG. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [Collège d'Urologie. Infections urinaires de l'adulte et de l'enfant. Item 161. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-161-Infections-urinaires.pdf)
 - [Caron F. et al; SPILF. Recommandations pour la prise en charge des infections urinaires communautaires de l'adulte. Med Mal Inf. 2018.](https://www.sciencedirect.com/science/article/pii/S0399077X17310363)
+
+### À lire
+
+[Cohen R. et al. Prise en charge des infections urinaires de l'enfant. Recommandations du groupe de pathologie infectieuse pédiatrique de la Société française de pédiatrie et de la Société de pathologie infectieuse de langue française. Archives de Pédiatrie. 2015. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/infections_voies_urinaires_gpip_2015.pdf)
 
 {{%/sources%}}
 {{% modal title="FDR de complication d'une IU selon HAS 2021" id="modal-fdr-complication"%}}
