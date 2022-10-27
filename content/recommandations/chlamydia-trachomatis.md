@@ -24,7 +24,7 @@ todo = "améliorer clinique, flowchart"
 - Dépister largement les *Chlamydia* (voir *Qui dépister ?*), tous les 3-6 mois chez les HSH
 - PCR *Chlamydia* sur auto-prélèvement vaginal ou premier jet d'urine pour les hommes
 - Prélèvement des autres sites selon les pratiques
-- Prise en charge par Azithromycine per os 1g dose unique + traitement du partenaire + préservatif 7 jours
+- Prise en charge par Doxycycline 100 mg x 2/j 7 jours OU Azithromycine 1g dose unique + traitement du partenaire + préservatif 7 jours
 - Dépistage des [autres infections sexuelles](/tags/ist/) et des partenaires des 12 derniers mois
 - Contrôle de l'éradication des *Chlamydia* à 6 mois
 
