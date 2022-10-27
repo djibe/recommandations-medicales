@@ -25,7 +25,7 @@ todo = "aliments riches K/P"
 
 - {{< modal-btn modal-creatinine >}}Situations où le débit de filtration estimé n'est pas fiable{{< /modal-btn >}}
 - Dépistage annuel des populations à risque d'insuffisance rénale par créatininémie + albuminurie sur échantillon
-- 3 piliers de l'évaluation rénale: étiologie, DFG et albuminurie
+- 3 piliers de l'évaluation rénale: étiologie, DFG selon CKD-EPI et albuminurie
 - Toute personne avec une insuffisance rénale chronique est à {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Néphroprotection  
   {{< modal-btn modal-nephrotoxiques >}}Éviter les néphrotoxiques{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, PA < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}}, vaccin covid-19 ...
@@ -50,6 +50,16 @@ OU présence ≥ 1 *marqueur d'atteinte rénale* persistant **plus de 3 mois**:
 
 Insuffisance rénale chronique terminale (IRCT)
 : Insuffisance rénale chronique avec un débit de filtration glomérulaire < 15 mL/min/1,73 m² (*stade 5* ou *terminale*).
+
+{{%info%}}
+
+### Estimation du débit de filtration glomérulaire
+
+Chez l'adulte, la formule utilisée pour estimer le débit de filtration glomérulaire (DFG ou DFGe) est celle du {{< scores/ckd-epi >}}.
+
+> *KDIGO 2012*
+
+{{%/info%}}
 
 ### Abréviations
 
@@ -451,7 +461,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 - [HAS. Suivi ambulatoire de l'adulte transplanté rénal au-delà de 3 mois après transplantation. Recommandations de bonne pratique. Novembre 2007.](https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation)
 
 {{%/sources%}}
-{{% modal title="Situations où le DFGe est ininterprétable selon KDIGO 2012" id="modal-creatinine"%}}
+{{% modal title="Situations où le DFG est ininterprétable selon KDIGO 2012" id="modal-creatinine"%}}
 
 {{< clinique/creatinine-inadaptee >}}
 

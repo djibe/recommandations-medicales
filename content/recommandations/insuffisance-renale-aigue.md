@@ -30,7 +30,8 @@ Chapitre lié: [insuffisance rénale chronique]({{< relref "insuffisance-renale-
 
 Insuffisance rénale aiguë (IRA)
 : Définition *KDIGO 2012*: Augmentation de créatininémie **> 26 µmol/L en 48 heures** ou **> 50% en 7 jours** ou d'une **oligoanurie < 0,5 mL/kg/h** pendant 6 à 12 heures.
-: L'estimation du débit de filtration glomérulaire n'est pas réalisable lors d'une insuffisance rénale aiguë.
+: L'estimation du débit de filtration glomérulaire n'est pas réalisable lors d'une insuffisance rénale aiguë.  
+Valeurs normales de créatininémie: 60-107 µmol/L chez la femme et 80-115 chez l'homme.
 
 {{< table title="Stades de l'insuffisance rénale aiguë selon KDIGO 2012" >}}
 | Stade | Créatininémie | Diurèse |
@@ -39,6 +40,15 @@ Insuffisance rénale aiguë (IRA)
 | 2     | x2            | < 0,5 mL/kg/h pendant > 12h |
 | 3     | x3<br>ou > 354 µmol/L<br>ou nécessité de dialyse | < 0,3 mL/kg/h pendant > 24h<br>ou anurie > 12h |
 {{< /table >}}
+
+### Étiologie de l'insuffisance rénale aiguë
+
+Causes possibles d'une insuffisance rénale aiguë:
+
+- Cause prérénale fonctionnelle  
+  Hypovolémie ou choc, insuffisance cardiaque, sepsis
+- Cause parenchymateuse  
+  Nécrose tubulaire aiguë (ischémique ou toxique), néphropathie interstitielle ou glomérulopathie.
 
 ### Abréviations
 
@@ -110,12 +120,12 @@ Risque d'insuffisance rénale aiguë post-contraste selon la voie d'injection:
 {{%/collapse%}}
 {{%sources%}}
 
-[SFR, CIRTACI, SFNDT. Rein et produits de contraste. 2020. (PDF)](https://www.sfndt.org/sites/www.sfndt.org/files/medias/documents/Fiche%20de%20recommandation%20pour%20la%20pratique%20clinique_rein%20et%20produit%20de%20contraste.pdf)
+- [SFR, CIRTACI, SFNDT. Rein et produits de contraste. 2020. (PDF)](https://www.sfndt.org/sites/www.sfndt.org/files/medias/documents/Fiche%20de%20recommandation%20pour%20la%20pratique%20clinique_rein%20et%20produit%20de%20contraste.pdf)
+- [Collège d'urologie. Insuffisance rénale aiguë - Anurie. Item 348. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/item-348-Insuffisance-renale-aigue.pdf)
 
 ### À lire
 
-- [KDIGO. Clinical practice guideline for acute kidney injury. 2012. (PDF)](https://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf)
-[Collège d'urologie. Insuffisance rénale aiguë - Anurie. Item 348. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/item-348-Insuffisance-renale-aigue.pdf)
+[KDIGO. Clinical practice guideline for acute kidney injury. 2012. (PDF)](https://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf)
 
 {{%/sources%}}
 

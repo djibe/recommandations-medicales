@@ -14,6 +14,7 @@ todo = "forfait structure et exonérations fiscales, https://www.ameli.fr/medeci
 +++
 
 Plusieurs services publics offrent des contrats d'aide à l'installation du médecin généraliste. Cet article vise à lister et décrire les conditions à remplir pour accéder à ces aides à la primo-installation.
+{.lead}
 
 Les PAPS centralisent les guichets pour prétendre aux aides, et ce par région: [PAPS - Synthèse des aides dans Le Portail d'Accompagnement des Professionnels de Santé de votre région](https://www.iledefrance.paps.sante.fr/les-aides-linstallation-29?rubrique=10010) ou {{<phone>}}3608{{</phone>}}.
 

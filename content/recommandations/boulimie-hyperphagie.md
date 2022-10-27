@@ -16,7 +16,7 @@ anglais = ["Bulimia nervosa"]
 sctid = "78004001"
 image = true
 imageSrc = "Illustration de la boulimie par storyset / Freepik"
-todo = "borderline"
+todo = "borderline, complications"
 +++
 
 {{%article-summary%}}

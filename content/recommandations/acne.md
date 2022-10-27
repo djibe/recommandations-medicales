@@ -345,6 +345,7 @@ Selon la SFDermato, informer le patient:
 
 ### À lire
 
+- [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales. Item 111. 2021.](https://cedef.org/enseignement)
 - [Nast A. et al; EADV. European evidence-based (S3) guideline for the treatment of acne – update 2016 (short version). 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13776)
 
 {{%/sources%}}

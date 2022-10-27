@@ -22,7 +22,7 @@ todo = "MAJ"
 
 - Message de prévention du mélanome: << L'ombre, c'est l'endroit le plus cool de l'été ! >> (*[INCa 2022](https://www.e-cancer.fr/Actualites-et-evenements/Actualites/L-ombre-c-est-l-endroit-le-plus-cool-de-l-ete-!-la-nouvelle-campagne-d-information-de-l-Institut-national-du-cancer-sur-la-prevention-des-risques-solaires)*)
   - Aucune exposition aux UV avant 3 ans
-  - Ne pas s'exposer de 12-16h et 10-14h en Outre-mer
+  - Ne pas s'exposer de 12 à 16 heures (10-14h en Outre-mer)
   - Se couvrir: habits longs et amples, un chapeau à bords larges et des lunettes de soleil avec filtre anti-UV
   - Protéger les parties découvertes du corps avec de la crème solaire indice SPF50, à renouveler toutes les 2 heures
 - Personnes à risque de mélanome: auto-examen cutané tous les 3 mois et consultation annuelle du dermatologue
@@ -312,6 +312,7 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 
 ### À lire
 
-[INCa. Détection précoce des cancers de la peau - Médecins généralistes. Octobre 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Detection-precoce-des-cancers-de-la-peau-Medecins-generalistes)
+- [Collège des enseignants de dermatologie de France (CEDEF). Tumeurs cutanées épithéliales et mélaniques. Item 302. 2021.](https://cedef.org/enseignement)
+- [INCa. Détection précoce des cancers de la peau - Médecins généralistes. Octobre 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Detection-precoce-des-cancers-de-la-peau-Medecins-generalistes)
 
 {{%/sources%}}

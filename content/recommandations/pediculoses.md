@@ -124,6 +124,7 @@ Aucune étude n'a prouvé l'efficacité d'HE de lavande, qui est perturbateur en
 
 ### À lire
 
-[Salavastru C. et al. European guideline for the management of pediculosis pubis. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14420)
+- [Collège des enseignants de dermatologie de France (CEDEF). IST. Item 162. 2021.](https://cedef.org/enseignement)
+- [Salavastru C. et al. European guideline for the management of pediculosis pubis. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14420)
 
 {{%/sources%}}

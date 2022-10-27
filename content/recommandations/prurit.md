@@ -225,7 +225,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [CEDEF. Prurit. Item 116. 2021.](https://cedef.org/enseignement)
+- [Collège des enseignants de dermatologie de France (CEDEF). Prurit. Item 116. 2021.](https://cedef.org/enseignement)
 - Prescrire Rédaction. Prurit lié à une affection cutanée et antihistaminiques H1 oraux. Février 2019.
 - [CEDEF. Prurit. Item 113 UE 4. 2017.](https://undf.cedef.org/fr/document/Prurit_r%C3%A9f%C3%A9rentiel-CEDEF)
 - [Dermato-info. Le prurit et le prurigo.](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-prurit-et-le-prurigo)

@@ -25,7 +25,7 @@ todo = "titration Propranolol, recouper THM, EHF, https://play.google.com/store/
 - Triade migraineuse: évolution chronique par crises récurrentes avec intervalle libre + crises migraineuses stéréotypées + examen clinique normal
 - Contre-indication à l'association: migraine + pilule + tabac. Impacte le choix de la [contraception]({{< relref "contraception.md" >}})
 - Suivi à chaque consultation de l'[Agenda migraineux](https://www.sfemc.fr/images/docs_SFEMC/docs_PATIENTS/patients-AGENDA-DE-LA-MIGRAINE-def.pdf)
-- Traitement de la crise
+- Traitement de la crise migraineuse
   - Réévalué après 3 crises ({{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}})
   - Prescrire AINS et triptan selon traitements déjà essayés et préférences du patient, à avoir sur soi
   - Crise légère: AINS, triptan si persistance à H1
