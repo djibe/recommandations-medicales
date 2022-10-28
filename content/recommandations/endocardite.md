@@ -2,12 +2,12 @@
 title = "Endocardite infectieuse"
 prefix = "l'"
 titleSeo = "Endocardite infectieuse"
-description = "Dernières recommandations ESC pour la prévention de l'endocardite infectieuse. Haut risque (valve prothétique, cardiopathie congénitale) et antibioprophylaxie"
+description = "Dernières recommandations ESC pour la prévention de l'endocardite infectieuse. Haut risque (valve, prothèse, cardiopathie congénitale) et antibioprophylaxie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-08-18T11:07:22+02:00"
 publishdate = "2021-09-07"
-lastmod = "2022-03-19"
+lastmod = "2022-10-28"
 specialites = ["cardiologie"]
 annees = "2015"
 sources = ["ESC"]
@@ -22,21 +22,21 @@ todo = "Brossettes ?"
 
 {{%article-summary%}}
 
-- Mesures de prévention de l'endocardite pour toutes les personnes à risque
-- Antibioprophylaxie uniquement pour les patients à haut risque
-- Amoxicilline per os 2 g 30-60 minutes avant (50 mg/kg chez l'enfant)
+- Mesures de prévention de l'endocardite infectieuse pour toutes les personnes à risque
+- Antibioprophylaxie uniquement pour les patients à haut risque d'endocardite:  
+  Amoxicilline per os 2 g 30 à 60 minutes avant le geste à risque (50 mg/kg chez l'enfant)
 - Soutien psychologique
-- Adresser aux urgences toute suspicion d'endocardite infectieuse
-- Prochaines recommandations ESC en 2023
+- Adresser aux Urgences toute suspicion d'endocardite infectieuse
+- Prochaines recommandations ESC sur l'endocardite infectieuse en 2023
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Endocardite infectieuse (EI)
 : Infection d'une ou plusieurs valves cardiaques par une bactérie, plus rarement par des germes intracellulaires ou des levures. L'atteinte de l'endocarde pariétale est plus rare. *L'endocardite infectieuse est rare mais grave*.
-: La porte d'entrée est cutanée (40%), nosocomiale, toxicomanie IV, bucco-dentaire (1/3), gastro-intestinale (23%), urogénitale (4%) et autres.
-: Les germes sont les staphylocoques (30-50%, mauvais pronostic, *Staphylococcus aureus* ++), *streptocoques gallolyticus* et entérocoques.
-: La prophylaxie repose sur les mesures d'hygiène et pour les patients à haut risque d'endocardite: l'antibioprophylaxie en geste invasif.
+: La porte d'entrée infectieuse est cutanée (40%), nosocomiale, toxicomanie intraveineuse, bucco-dentaire (1/3), gastro-intestinale (23%), urogénitale (4%) et autres.
+: Les germes sont les staphylocoques (30-50%, mauvais pronostic, *Staphylococcus aureus* ++), *Streptocoques gallolyticus* et entérocoques.
+: La prophylaxie repose sur les mesures d'hygiène et pour les patients à haut risque d'endocardite: l'antibioprophylaxie en cas de geste invasif.
 
 {{%info%}}1/3 des personnes à haut risque ne bénéficient pas d'antibioprophylaxie lors des soins invasifs{{%/info%}}
 
@@ -50,8 +50,8 @@ Seules personnes éligibles à l'antibioprophylaxie en soins dentaires à haut r
 
 1. Valve prothétique  
   Mécanique, homogreffe ou bioprothèse.
-1. Antécédent d'endocardite
-1. Cardiopathie congénitale
+2. Antécédent d'endocardite
+3. Cardiopathie congénitale
     - Cyanogène
     - Matériel prothétique implanté dans les 6 mois ou avec persistance de shunt ou régurgitation valvulaire
 
@@ -65,23 +65,25 @@ Seules personnes éligibles à l'antibioprophylaxie en soins dentaires à haut r
 
 > *ESC 2015*
 
-Les autres gestes (coloscopie, endoscopie bronchique ...) ne nécessitent pas d'antibioprophylaxie HORS contexte infectieux.
+Les autres gestes ([coloscopie]({{< relref "cancer-colorectal.md" >}}), endoscopie bronchique ...) ne nécessitent pas d'antibioprophylaxie hors contexte infectieux.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 Les manifestations de l'endocardite infectieuse sont variées avec des présentations parfois trompeuses.
 
-**Tableau typique:** apparition ou majoration d'un *souffle cardiaque* en contexte *fébrile*.  
-Évoquer devant: AVC, purpura, lombalgies fébriles.
+**Tableau typique d'endocardite:** apparition ou majoration d'un souffle cardiaque en contexte fébrile.  
+Évoquer une endocardite devant: [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), purpura, lombalgies fébriles.
 
 {{%warning%}}
-Évoquer devant tout insuffisance cardiaque ou signe neurologique fébrile
+Évoquer une endocardite devant tout insuffisance cardiaque ou signe neurologique fébrile
 
 ---
 
 Réaliser des hémocultures avant la prescription d'antibiotiques
 {{%/warning%}}
+
+Signes et symptômes de l'endocardite infectieuse:
 
 - Fièvre +++
 - Signes cutanés (5-15%)
