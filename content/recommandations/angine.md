@@ -16,7 +16,6 @@ sctid = "90176007"
 image = true
 imageSrc = "Angine gauche, photo de Fireflyez76 sur Foter.com / CC BY-ND"
 flowchart = true
-todo = "Collège"
 +++
 
 {{%article-summary%}}
@@ -182,6 +181,7 @@ graph TB
 
 ### À lire
 
-[Cohen J., Cohen R.; SFP. Angine. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
+- [Cohen J., Cohen R.; SFP. Angine. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
+- [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. UE6 Item 146. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-146-nb.pdf)
 
 {{%/sources%}}

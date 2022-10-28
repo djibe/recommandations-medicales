@@ -17,12 +17,12 @@ sctid = "56819008"
 flowchart = true
 image = true
 imageSrc = "Végétation sur la tricuspide. Daisuke Koya, Kazuyuki Shibuya, Ryuichi Kikkawa et Masakazu Haneda: Materialscientist, via Wikimedia Commons"
-todo = "Brossettes, Pilly"
+todo = "Brossettes ?"
 +++
 
 {{%article-summary%}}
 
-- Mesures de prévention pour toutes les personnes à risque
+- Mesures de prévention de l'endocardite pour toutes les personnes à risque
 - Antibioprophylaxie uniquement pour les patients à haut risque
 - Amoxicilline per os 2 g 30-60 minutes avant (50 mg/kg chez l'enfant)
 - Soutien psychologique
@@ -151,7 +151,7 @@ graph TB
 {{%sources%}}
 
 - [Duval X., Iung B. Prophylaxie de l'endocardite infectieuse. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/j.amcp.2021.03.003)
-- [CMIT, SPILF. Endocardite infectieuse. Item 149 - UE 6. ECN.PILLY 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-149-nb.pdf)
+- [CMIT. Endocardite infectieuse. Item 149 UE 6. ECN.Pilly 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-149-nb.pdf)
 - [Collège National des Enseignants de Cardiologie. Endocardite infectieuse. Item 149 - UE6. Cardiologie 2e édition. 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch11_endocardite.pdf)
 - [Habib H. et al. 2015 ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC) Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). European Heart Journal. 2015.](https://doi.org/10.1093/eurheartj/ehv319)
 

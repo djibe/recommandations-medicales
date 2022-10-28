@@ -213,4 +213,8 @@ graph TB
 - [HAS, SPILF. Prise en charge des infections cutanées bactériennes courantes. Février 2019. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/recos/2019-fiche-de-synthese-infections-cutanees-mel.pdf)
 - [SFD, SPILF. Erysipèle et fasciite nécrosante : prise en charge. Ann Dermatol Venerol. 128:463-82. 2001. (PDF)](http://www.sfdermato.org/media/pdf/recommandation/erysipele-long-60a03bfa8c55af03ef3ec54a1b380a73.pdf)
 
+### À lire
+
+[CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. UE6 Item 152. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-152-nb.pdf)
+
 {{%/sources%}}

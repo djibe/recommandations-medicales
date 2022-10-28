@@ -108,6 +108,7 @@ Se référer à la page dédiée à chaque maladie pour en savoir plus (ex. [fi�
 
 ### À lire
 
-{{< references/voyageur >}}
+- {{< references/voyageur >}}
+- [CMIT. Voyage en pays tropical de l'adulte et de l'enfant. UE6 Item 171. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-171-nb.pdf)
 
 {{%/sources%}}
