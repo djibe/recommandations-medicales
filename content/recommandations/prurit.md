@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-10-02T17:43:41+02:00
 publishdate = "2020-10-02"
-lastmod = "2022-10-25"
+lastmod = "2022-10-28"
 specialites = ["dermatologie"]
 annees = "2021"
 sources = ["CEDEF"]
@@ -53,51 +53,53 @@ CEDEF
 {{% /collapse %}}
 {{%collapse "Étiologie" %}}
 
-### Dermatoses prurigineuses
-
-Dermatoses fréquemment prurigineuses:
-
-- Ectoparasitoses  
-  [Gale]({{< relref "gale.md" >}}) et [pédiculose]({{< relref "pediculoses.md" >}}) (prurit du scalp ++).
-- Piqûres d'insectes
-- [Dermatite atopique]({{< relref "dermatite-atopique.md" >}})
-- Dermatite de contact  
-  Caustique, irritative, allergique.
-- [Urticaire]({{< relref "urticaire.md" >}}), dermographisme
-- Mastocytose cutanée
-- Psoriasis
-- Lichen plan
-- Pemphigoïde bulleuse
-- Lymphomes cutanés  
-  Mycosis fongoïde et syndrome de Sézary.
-- Dermatophytoses
-
-### Prurit d'origine systémique
-
-Maladies systémiques à l'origine d'un prurit:
-
-- Cholestase et insuffisance hépatique
-- [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) et hémodialyse
-- Hémopathies malignes  
-  Maladie de Hodgkin et Vaquez (prurit aquagénique).
-- [Dysthyroïdies](/tags/tsh/)
-- Infection chronique  
-  [VIH]({{< relref "vih-sida.md" >}}), [hépatite B]({{< relref "hepatite-b.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}})
-- Carences  
-  [Fer]({{< relref "anemie.md" >}}), vitamines.
-- Parasitoses  
-  Ascaridiose, toxocarose, tropicales.
-
-### Autres causes
-
-- Grossesse (cholestase intra-hépatique de la grossesse)  
-  Prurit généralisé, sévère, nu. Cholestase biologique.  
-  Aussi: pemphigoïde gravidique, éruption polymorphe de la grossesse.
-- Iatrogène  
-  Liste non exhaustive: bêtalactamines, chloroquine, opiacés, cardiaque (statine, IEC/sartan, bêtabloquant), produit de remplissage, IL-2
-- Xérose cutanée
+- Dermatoses prurigineuses
+  - Xérose cutanée
+  - Ectoparasitoses  
+    [Gale]({{< relref "gale.md" >}}) et [pédiculose]({{< relref "pediculoses.md" >}}) (prurit du scalp ++).
+  - Piqûres d'insectes
+  - [Dermatite atopique]({{< relref "dermatite-atopique.md" >}})
+  - Dermatite de contact  
+    Caustique, irritative, allergique.
+  - [Urticaire]({{< relref "urticaire.md" >}}), dermographisme
+  - Mastocytose cutanée
+  - Psoriasis
+  - Lichen plan
+  - Pemphigoïde bulleuse
+  - Lymphomes cutanés  
+    Mycosis fongoïde et syndrome de Sézary.
+  - Dermatophytoses
+- Prurit urémique  
+  [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}) et hémodialyse.
+- Prurit cholestatique
+  - Lithiase biliaire
+  - Pancréatite
+  - [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}), métastases hépatiques
+  - [Hépatite B]({{< relref "hepatite-b.md" >}}), [hépatite C]({{< relref "hepatite-c.md" >}})
+  - Cirrhose biliaire primitive
+  - Cholangite sclérosante primitive
+  - Cholestase gravidique  
+    Prurit généralisé, sévère, nu. Cholestase biologique.
+- Prurit hématologique
+  - Lymphomes (maladie de Hodgkin)
+  - Gammapathies monoclonales
+  - Syndromes myéloprolifératifs  
+    Maladie de Vaquez (prurit aquagénique), thrombocytémie essentielle, myélofibrose primitive.
+  - Mastocytose
+- Prurit paranéoplasique
+- Troubles endocriniens et métaboliques
+  - [Carence martiale]({{< relref "anemie.md" >}}), vitamines
+  - [Dysthyroïdies](/tags/tsh/)
+  - Hyperparathyroïdie
+  - Diabète
+  - Grossesse
+- Prurit associé à une infection  
+  [VIH]({{< relref "vih-sida.md" >}}) ++, parasitoses (ascaridiose, toxocarose, tropicales).
+- Prurit iatrogène  
+  Liste non exhaustive: bêtalactamines, chloroquine, opiacés, cardiaque (statine, IEC/sartan, bêtabloquant), produit de remplissage, IL-2.
 - Prurit sénile  
   Physiologique. Caractère insomniant contraste avec rareté des lésions.
+- Prurit neurologique
 - Prurit psychogène (diagnostic d'élimination)  
   Pathologie psychiatrique associée, événement stressant.
 
