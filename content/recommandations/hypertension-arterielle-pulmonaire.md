@@ -109,7 +109,7 @@ Les signes cliniques de l'HTAP sont peu spécifiques et doivent être évoqués 
 
 - Antécédents personnels  
   - [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) et [TVP]({{< relref "thrombose-veineuse-profonde.md" >}}), cardiopathie congénitale, sclérodermie, [VIH]({{< relref "vih-sida.md" >}}), hypertension portale, bilharziose
-  - [Asthme]({{< relref "asthme.md" >}}), BPCO, tabagisme
+  - [Asthme]({{< relref "asthme.md" >}}), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), tabagisme
 - Facteurs de risque cardiovasculaires
 - Antécédent familial d'HTAP
 - Traitements  

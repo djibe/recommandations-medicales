@@ -89,7 +89,7 @@ Bilan pré-méthotrexate:
 - Radiographie thoracique (TODO:)  
   Systématique avant de débuter le traitement.
 - ßHCG
-- Spirométrie si: tabac, BPCO, emphysème
+- Spirométrie si: tabac, [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), emphysème
 - +50 ans: vitamine B12 (*Prescrire*)  
   La supplémentation systématique en vitamine B9 masque une carence.
 

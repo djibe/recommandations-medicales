@@ -11,7 +11,7 @@ lastmod = "2022-09-27"
 specialites = ["pneumologie"]
 annees = "2022"
 sources = ["HAS", "SPLF", "ERS"]
-tags = ["cancer", "dyspnee", "fatigue", "tabac", "toux", "VIH"]
+tags = ["BPCO", "cancer", "dyspnee", "fatigue", "tabac", "toux", "VIH"]
 anglais = ["Lung cancer"]
 sctid = "93880001"
 image = true
@@ -32,7 +32,7 @@ todo = "SPF, information du patient NICE et HAS"
 
 Cancer broncho-pulmonaire (CBP)
 : Les cancers du poumon sont principalement de type histologique non à petites cellules (CBNPC, 85%, adénocarcinome surtout, carcinome épidermoïde ou carcinome à grandes cellules) ou à petites cellules (15%).
-: Principaux facteurs de risque: tabagisme actif ou passif (85-90%) et amiante (x5, x50 si tabac), échappement de diesel, radon, arsenic, nickel, cobalt, chrome, hydrocarbure à cycle aromatique, rayonnements ionisants, silice, cadmium. Aussi: antécédent de CBP, BPCO, pneumopathies interstitielles diffuses fibrosantes.  
+: Principaux facteurs de risque: tabagisme actif ou passif (85-90%) et amiante (x5, x50 si tabac), échappement de diesel, radon, arsenic, nickel, cobalt, chrome, hydrocarbure à cycle aromatique, rayonnements ionisants, silice, cadmium. Aussi: antécédent de CBP, [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), pneumopathies interstitielles diffuses fibrosantes.  
 La nocivité de la cigarette dépend plus de la durée d'exposition que du paquet-année (PA).
 
 ### Abréviations

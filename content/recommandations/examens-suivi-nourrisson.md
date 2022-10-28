@@ -104,13 +104,13 @@ Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de s
 {{< table title="Âges limites du rattrapage vaccinal systématique en population générale selon le Calendrier vaccinal" >}}
 | Germe        | Âge limite de rattrapage | Rattrapages spécifiques |
 |--------------|:------------------------:|-------------------------|
-| Coqueluche   | 39 ans                   | [Grossesse, cocooning]({{< relref "coqueluche.md" >}}) |
+| Coqueluche   | 39 ans                   | |
 | Haemophilus  | 5 ans                    | [Asplénie]({{< relref "asplenie.md" >}}) |
 | Hépatite B   | 15 ans                   | [Hépatite B]({{< relref "hepatite-b.md" >}}) |
 | Méningocoque B | 23 mois                |                         |
 | Méningocoque C | 24 ans                 | Dose unique après 12 mois |
 | Papillomavirus | 19 ans                 | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}}) |
-| Pneumocoque  | 23 mois                  | BPCO, diabète ...       |
+| Pneumocoque  | 23 mois                  | |
 | Rotavirus    | 6 mois                   | 3 doses avec RotaTeq    |
 | Rougeole<br>Oreillons<br>Rubéole | 42 ans |                       |
 | Varicelle    | 18 ans                   | [Autour d'un cas]({{< relref "varicelle.md" >}}) |

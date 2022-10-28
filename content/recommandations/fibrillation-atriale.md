@@ -12,18 +12,18 @@ lastmod = "2022-10-15"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS"]
-tags = ["anticoagulant", "demence", "depistage", "dyspnee", "fatigue", "HTA", "SAS", "TSH"]
+tags = ["anticoagulant", "BPCO", "demence", "depistage", "dyspnee", "fatigue", "HTA", "SAS", "TSH"]
 anglais = ["Atrial fibrillation"]
 sctid = "49436004"
 image = true
 imageSrc = "Fibrillation atriale sur 2 dérivations, PeaBrainC, CC BY-SA 4.0 via Wikimedia Commons"
-todo = "ESC 2020: chap 11.5 saignement, Source 2013 bonne pour EGS, prev IRC Marijon"
+todo = "SEO, ESC 2020: chap 11.5 saignement, Source 2013 bonne pour EGS, prev IRC Marijon"
 +++
 
 {{%article-summary%}}
 
 - FA mal tolérée = appel du {{< phone >}}15{{< /phone >}}
-- Dépister: ≥ 65 ans, diabète, HTA
+- Dépister: +65 ans, diabète, HTA
 - Le diagnostic est ECG. Survenue isolée ou sur cardiopathie ?
 - Réévaluer régulièrement les {{< modal-btn modal-chads >}}risques embolique CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}hémorragique HAS-BLED{{< /modal-btn >}}, symptômes, facteurs favorisants
 - Selon {{< modal-btn modal-chads >}}risque embolique{{< /modal-btn >}}: {{< modal-btn modal-aod >}}AOD{{< /modal-btn >}} ou absence d'anticoagulant...
@@ -96,37 +96,37 @@ Inhibiteurs calciques non dihydropyridiniques: diltiazem ou vérapamil.
 ### Facteurs de risque de la fibrillation atriale
 
 - Facteurs non modifiables  
-Âge, homme, caucasien.
+  Âge, homme, caucasien.
 - Mode de vie
   - Inactivité ou activité physique intense
   - Hypercholestérolémie
-  - Alcool
+  - [Alcool]({{< relref "sevrage-alcool.md" >}})
   - Tabac
   - Obésité
 - Maladies cardiovasculaires
-  - Insuffisance rénale
-  - Hypertension artérielle (x1,7)
-  - Diabète (x2)
+  - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
+  - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) (x1,7)
+  - [Diabète]({{< relref "diabete-type-2.md" >}}) (x2)
   - Valvulopathie
-  - Insuffisance cardiaque
+  - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
   - Coronaropathie
-  - Artériopathie
+  - [Artériopathie]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
   - Embolie pulmonaire
 - Causes extra-cardiaques
-  - Apnées du sommeil
-  - BPCO
+  - [Apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
+  - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
   - Insuffisance respiratoire
   - Maladie inflammatoire, hyperthyroïdie
 - Pathologie aiguë
   - Infection, chirurgie
   - Hypokaliémie
 - Iatrogénie  
-Diurétiques, théophylline, salbutamol, anti-arythmique (voir *Clinique* > *Interrogatoire*).
+  Diurétiques, théophylline, salbutamol, anti-arythmique (voir *Clinique* > *Interrogatoire*).
 
 ### Épidémiologie de la fibrillation atriale en France
 
 - Prévalence: 600.000 à 1 million de patients, 2/3 ont +75 ans  
-Elle augmente avec l'âge et atteint 10-20% après 80 ans.
+  Elle augmente avec l'âge et atteint 10-20% après 80 ans.
 - Incidence 2018: 226.000/an (*[*SPF 2020*](http://beh.santepubliquefrance.fr/beh/2021/5/2021_5_1.html)*)
 - Responsable d'1/6 des AVC emboliques
 - Coût: 3000€/patient/an
@@ -136,7 +136,7 @@ Elle augmente avec l'âge et atteint 10-20% après 80 ans.
 {{%collapse "Clinique" %}}
 
 {{%info%}}
-Toute suspicion clinique de FA doit être confirmée au plus tôt par un ECG
+Toute suspicion clinique de fibrillation atriale doit être confirmée au plus tôt par un ECG
 
 ---
 
@@ -149,16 +149,16 @@ Toute suspicion clinique de FA doit être confirmée au plus tôt par un ECG
 
 - Nom du cardiologue
 - Comorbidités  
-HTA, diabète, insuffisance cardiaque, coronaropathie, valvulopathie, insuffisance rénale, obésité, maladie respiratoire.
+  HTA, diabète, insuffisance cardiaque, coronaropathie, valvulopathie, insuffisance rénale, obésité, maladie respiratoire.
 - Complications  
-AVC, insuffisance cardiaque.
+  AVC, insuffisance cardiaque.
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} ± {{< scores/heartscore >}}
 - Épisode aigu récent  
-Fièvre, infection, manque de sommeil, réaction vagale, chirurgie, infarctus, péricardite.
+  Fièvre, infection, manque de sommeil, réaction vagale, chirurgie, infarctus, péricardite.
 - Tabac, [alcool]({{< relref "sevrage-alcool.md" >}}), toxiques
 - Activité physique
 - Traitements en cours et {{< modal-btn modal-observance >}}observance{{< /modal-btn >}}  
-Pro-arythmiques: diurétiques, théophylline, salbutamol, triptan, AINS, bupropione, biphosphonate.
+  Pro-arythmiques: diurétiques, théophylline, salbutamol, triptan, AINS, bupropione, biphosphonate.
 - Fibrillation atriale
   - Ancienneté
   - Facteurs déclenchants
