@@ -6,7 +6,7 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2022-04-17"
+lastmod = "2022-10-28"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["SPILF", "HAS", "HCSP"]
@@ -20,13 +20,13 @@ todo = "https://www.wiv-isp.be/matra/fiches/coqueluche.pdf"
 
 {{%article-summary%}}
 
-- Ces recommandations visent à protéger les nourrissons non immuns
-- Évoquer devant toute toux > 7 jours
+- Ces recommandations visent à protéger les nourrissons non immuns de la coqueluche
+- Évoquer une coqueluche devant toute toux +7 jours
 - PCR coqueluche nécessaire
-- Éviction et antibiothérapie macrolide azithromycine 250 mg x 2/j 3 jours
+- Éviction et antibiothérapie macrolide azithromycine 250 mg x 2/j pendant 3 jours
 - Antibioprophylaxie des contacts
-- Rappel vaccinal à chaque grossesse
-- Signalement à l'ARS quand ≥ 2 cas en collectivité
+- Rappel vaccinal coqueluche à chaque grossesse (20-36 SA)
+- Signalement à l'ARS quand ≥ 2 cas de coqueluche en collectivité
 
 Voir aussi: [toux chronique]({{< relref "toux-chronique.md" >}})
 
@@ -38,7 +38,7 @@ Coqueluche
 : Immunité post-infectieuse dure 10-15 ans, par vaccination 5-10 ans.
 : **Cas groupés** de coqueluche quand ≥ 2 cas en collectivité. Doit être notifié au médecin inspecteur de santé publique de l'ARS.
 
-### Épidémiologie
+### Épidémiologie de la coqueluche
 
 - Mortalité par coqueluche de 1979 à 2005: 113 cas, 1<sup>re</sup> cause de décès des nourrissons (88% < 1 an)
 - 3 morts/an, première cause de mortalité de J10 à 2 mois, troisième cause tout âge confondu (méningo > pneumo).
@@ -48,7 +48,7 @@ Coqueluche
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Évoquer la coqueluche à tout âge devant une toux persistante ≥ 7 jours, à recrudescence nocturne ou émétisante si vaccination > 10 ans{{%/info%}}
+{{%info%}}Évoquer la coqueluche à tout âge devant une toux persistante ≥ 7 jours, à recrudescence nocturne ou émétisante si vaccination +10 ans{{%/info%}}
 
 - Transmission aérienne directe, intra-familiale +++  
   Contamination maximale pendant la phase catarrhale.
@@ -60,13 +60,13 @@ Coqueluche
 - Diagnostic différentiel  
   Infection (Mycoplasme ou Chlamydia, [grippe]({{< relref "grippe.md" >}}), [tuberculose]({{< relref "tuberculose.md" >}}), [sinusite]({{< relref "sinusite.md" >}})), allergique (allergie, [asthme]({{< relref "asthme.md" >}}), pneumopathie interstitielle diffuse), [RGO]({{< relref "reflux-gastro-oesophagien.md" >}}), tumeur, corps étranger, iatrogène (IEC, bêtabloquant), psychogène.
 
-### Cas possible selon l'ECDC
+### Cas possible de coqueluche selon l'ECDC
 
-Toute personne atteinte de toux depuis ≥ 2 semaines ET ≥ 1 parmi:
+Toute personne atteinte de toux depuis ≥ 2 semaines ET ≥ 1 signe parmi:
 
-- quintes de toux
-- cornage
-- vomissements après la toux
+- Quintes de toux
+- Cornage
+- Vomissements après la toux
 - OU toute personne chez qui un médecin a diagnostiqué une coqueluche
 - OU apnées chez les nourrissons.
 
@@ -117,10 +117,10 @@ Cas contact: dans les 3 semaines suivants le dernier contact avec le cas-index.
 {{% /collapse %}}
 {{%collapse "Prévention = vaccination coqueluche" %}}
 
-La vaccination protège de la coqueluche pendant 5-10 ans.
+La vaccination protège de la coqueluche pendant 5 à 10 ans.
 
 - Avant 11-13 ans: vaccins avec dose complète d'antigènes coquelucheux (Ca)  
-  Vaccins hexavalents du nourrisson puis à 6 ans InfanrixTetra ou Tetravac-acellulaire.
+  Vaccins hexavalents du nourrisson puis à 6 ans (Tetravac-acellulaire).
 - À partir de 11-13 ans: doses réduites (ca)  
   BoostrixTetra, Repevax sauf si vaccination débutée après 12 mois.
 - Rattrapage à tout âge
@@ -133,7 +133,7 @@ La vaccination protège de la coqueluche pendant 5-10 ans.
 | 2 mois                      | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
 | 4 mois                      | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
 | 11 mois                     | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
-| 6 ans                       | InfanrixTetra, Tetravac-acellulaire                            |                                         |
+| 6 ans                       | ~~~InfanrixTetra~~~, Tetravac-acellulaire                      |                                         |
 | 11-13 ans                   | BoostrixTetra, Repevax                                         | Schéma des 6 ans si manqué              |
 | 25 ans                      | BoostrixTetra, Repevax<br>Sauf rappel dans les 5 ans           | Rattrapage jusqu'à 39 ans               |
 | Grossesse 20-36 SA          | BoostrixTetra, Repevax<br>et entourage (foyer, grands-parents, babysitters) | À chaque grossesse. Rattrapage avant la sortie de maternité |
@@ -149,6 +149,8 @@ La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordo
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
+Prise en charge de la coqueluche:
+
 - Éviction immédiate  
   Retour possible en collectivité après 5 jours d'antibiothérapie (3 jours si azithromycine) ou 21 jours de toux.
 - Proclive, fractionnement des repas, DRP
@@ -161,7 +163,7 @@ La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordo
 
 ### Antibiothérapie de la coqueluche
 
-Antibiothérapie indiquée uniquement dans les 3 premières semaines d'évolution pour réduire la contagiosité.
+Antibiothérapie indiquée uniquement dans les 3 premières semaines d'évolution de la coqueluche pour réduire la contagiosité.
 
 Macrolides:
 
@@ -171,7 +173,7 @@ Macrolides:
   ou 1 dose-poids x 2/j
 
 Possibles pendant la grossesse.  
-L'antibiothérapie n'améliore pas la toux.
+**L'antibiothérapie n'améliore pas la toux.**
 
 #### Allergie aux macrolides
 
@@ -183,7 +185,7 @@ Possible pendant la grossesse en association avec l'acide folique.
 {{% /collapse %}}
 {{%collapse "Antibioprophylaxie des sujets contacts" %}}
 
-La plus précoce possible jusqu'à 21 jours après le dernier contact avec le cas-index.
+La plus précoce possible jusqu'à 21 jours après le dernier contact avec le cas-index coquelucheux:
 
 - Schéma identique au traitement curatif
 - Contacts proches (foyer, toute la crèche, enfants contacts)  
