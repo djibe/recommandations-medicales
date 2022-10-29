@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr JG LETAROUILLY (SFR)"
 date = "2020-10-23T22:24:41+02:00"
 publishdate = "2020-10-23"
-lastmod = "2022-03-18"
+lastmod = "2022-10-29"
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "EULAR", "ACR", "HAS"]
@@ -26,24 +26,25 @@ todo = "lire sources, Échodoppler des TSA ?"
 - Évoquer une polyarthrite rhumatoïde devant toute arthrite, dérouillage de plus de 30 minutes, douleurs en pression des mains ou pieds (MCP/MTP)
 - Une suspicion de polyarthrite rhumatoïde nécessite un diagnostic et un traitement rapide
 - Prescrire le bilan biologique avec les radiographies pour adresser au rhumatologue dans les 6 semaines (voir *Examens complémentaires*)
-- Le traitement spécifique relève exclusivement du rhumatologue
-- Dépistage des [cancers](/tags/cancer/), facteurs de risque cardiovasculaire, dTP tous les 10 ans, pneumocoque tous les 5 ans
+- La prise en charge par un traitement spécifique relève exclusivement du rhumatologue
+- Dépistage des [cancers](/tags/cancer/), facteurs de risque cardiovasculaire, rappels vaccinaux (dTP tous les 10 ans, pneumocoque tous les 5 ans)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Polyarthrite rhumatoïde (PR)
-: Maladie chronique évoluant par poussées inflammatoires de la membrane synoviale.  
-Premier rhumatisme inflammatoire de l'adulte (prévalence de 0,3 à 1%).  
-La destruction articulaire entraîne altération de la qualité de vie, handicap et réduction de l'espérance de vie (10 ans)
-: Intérêt d'un diagnostic et d'un traitement précoce.
+: Maladie chronique de la membrane synoviale évoluant par poussées inflammatoires. Il s'agit du 1<sup>er</sup> rhumatisme inflammatoire de l'adulte (prévalence de 0,3 à 1%).  
+La destruction articulaire entraîne une altération de la qualité de vie, un handicap et une réduction de l'espérance de vie (10 ans)
+: Intérêt d'un diagnostic et d'un traitement précoce pour ralentir l'évolution de la maladie.
 : **Complications** de la polyarthrite: déformations articulaires et handicap, douleurs et altération de la qualité de vie, augmentation du risque cardiovasculaire, insuffisance respiratoire restrictive, infections, lymphomes, fractures ostéoporotiques.
 : *Rémission* de la polyarthrite rhumatoïde: lorsque le score [DAS28](https://sfr.larhumatologie.fr/sites/sfr.larhumatologie.fr/files/medias/formations-ressources/boite_outils/das28.pdf) est < 2,6.
 
-Traitements conventionnels
+Traitements conventionnels de la polyarthrite rhumatoïde
 : Méthotrexate, léflunomide ou sulfasalazine.
 
 ### Diagnostic différentiel de la polyarthrite rhumatoïde
+
+Autres diagnostics à évoquer devant des polyarthralgies:
 
 - Connectivite  
   Lupus, Gougerot-Sjögren.
@@ -51,6 +52,8 @@ Traitements conventionnels
 - Arthrose digitale
 
 ### Facteurs de mauvais pronostic de la polyarthrite rhumatoïde
+
+Éléments en faveur d'une forme sévère:
 
 - Érosions précoces
 - Présence de facteur rhumatoïde et d'ACPA (surtout si taux élevés ≥ 3N)
@@ -152,12 +155,10 @@ Les autres examens relèvent du rhumatologue.
 
 Mesures générales de prise en charge de la polyarthrite:
 
-- [ALD 22]({{< relref "affection-longue-duree.md" >}}): Polyarthrite évolutive  
-{{%class%}}Indication: Polyarthrite inflammatoire d'évolution chronique justifiant un traitement de fond.{{%/class%}}
-- AINS  
-{{%class%}}Si symptomatique, état rénal et cardio-vasculaire correct. En complément du traitement de fond.{{%/class%}}
+- Anti-inflammatoires AINS  
+  {{%class%}}Si symptomatique, état rénal et cardio-vasculaire correct. En complément du traitement de fond.{{%/class%}}
 - **Éducation thérapeutique**  
-{{%class%}}Gérer la douleur, handicap, observance, maintien de l'activité professionnelle.{{%/class%}}
+  {{%class%}}Gérer la douleur, handicap, observance, maintien de l'activité professionnelle.{{%/class%}}
 - **Suivi bucco-dentaire rigoureux**
 - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md">}})  
   - dTP tous les 10 ans
@@ -169,8 +170,7 @@ Mesures générales de prise en charge de la polyarthrite:
   - Activité physique régulière
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Échodoppler des TSA
-- Association de patients  
-[AFPric](https://www.polyarthrite.org/), [ANDAR](http://www.polyarthrite-andar.com/)
+- Association de patients: [AFPric](https://www.polyarthrite.org/), [ANDAR](http://www.polyarthrite-andar.com/)
 - Proposer un soutien psychologique
 - Accompagnement socioprofessionnel
 - Rééducation fonctionnelle
@@ -179,6 +179,8 @@ Mesures générales de prise en charge de la polyarthrite:
 - Pédicurie-podologie
 - Diététique
 - Voire chirurgie
+- [ALD 22]({{< relref "affection-longue-duree.md" >}}): Polyarthrite évolutive  
+  {{%class%}}Indication: Polyarthrite inflammatoire d'évolution chronique justifiant un traitement de fond.{{%/class%}}
 
 {{% /collapse %}}
 {{%collapse "Traitements spécifiques de la polyarthrite rhumatoïde" %}}
@@ -188,7 +190,7 @@ Chapitre pour en savoir plus sur la prise en charge par les traitements de fond 
 Ceux-ci relèvent exclusivement du rhumatologue.
 {{%/info%}}
 
-**Objectif:** rémission clinique (absence de signes ou symptômes inflammatoires significatifs) ou plus faible activité possible.  
+**Objectif de la prise en charge:** rémission clinique (absence de signes ou symptômes inflammatoires significatifs) ou plus faible activité possible.  
 **Rémission:** absence de signes et symptômes d'activité inflammatoire significative.
 
 - Prévention des complications: cardiovasculaires, respiratoires, infectieuses, lymphomes et fractures [ostéoporotiques]({{< relref "osteoporose.md" >}}).
@@ -267,9 +269,9 @@ Infiltrations ciblées des articulations douloureuses.
   - Nombre d'articulations douloureuses (NAD) et gonflées (NAG)
   - Consommation d'antalgiques et AINS
 - Biologique  
-VS, CRP, BU.
+  VS, CRP, BU.
 - Radiographies  
-Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
+  Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
 - Correction des facteurs de risque cardiovasculaire et calcul du {{< scores/heartscore >}}
 
 ### Pour en savoir plus: suivi par le rhumatologue

@@ -18,14 +18,14 @@ sctid = "128053003"
 flowchart = true
 image = false
 imageSrc = ""
-todo = "plaq en HBPM préventif, proba forte et doppler neg?, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/, IRC avec CKD-EPI ou cockroft ?, https://splf.fr/traitement-de-la-maladie-veineuse-thromboembolique-au-cours-du-cancer-mis-a-jour-mars-2021/?utm_source=rss&utm_medium=rss&utm_campaign=traitement-de-la-maladie-veineuse-thromboembolique-au-cours-du-cancer-mis-a-jour-mars-2021"
+todo = "SEO traitement anticoagulant x3; plaq en HBPM préventif, proba forte et doppler neg?, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/, IRC avec CKD-EPI ou cockroft ?, https://splf.fr/traitement-de-la-maladie-veineuse-thromboembolique-au-cours-du-cancer-mis-a-jour-mars-2021/?utm_source=rss&utm_medium=rss&utm_campaign=traitement-de-la-maladie-veineuse-thromboembolique-au-cours-du-cancer-mis-a-jour-mars-2021"
 +++
 
 Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'état.
 
 {{%article-summary%}}
 
-- Prise en charge d'une suspicion de thrombose veineuse profonde (TVP) en l'absence de signe d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) (dyspnée, malaise, tachycardie et douleur thoracique)
+- Recommandations pour la prise en charge d'une suspicion de thrombose veineuse profonde (TVP) en l'absence de signe d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) (dyspnée, malaise, tachycardie et douleur thoracique)
 - Score clinique systématique (score de Wells ou Constans) avec dosage des D-dimères ou écho-doppler veineux selon le résultat du score
 
 {{%/article-summary%}}

@@ -23,7 +23,7 @@ imageSrc = "Photo par wayhomestudio / Freepik"
 
 - Éliminer une [gale]({{< relref "gale.md" >}}) devant tout prurit
 - Un prurit chronique nu chez un jeune adulte doit faire évoquer un lymphome
-- Prise en charge d'un prurit nu sans cause évidente: biologie, radiographie de thorax, échographie abdominale
+- Prise en charge d'un prurit nu sans cause évidente: biologie, radiographie de thorax voire échographie abdominale
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -59,7 +59,7 @@ CEDEF
     [Gale]({{< relref "gale.md" >}}) et [pédiculose]({{< relref "pediculoses.md" >}}) (prurit du scalp ++).
   - Piqûres d'insectes
   - [Dermatite atopique]({{< relref "dermatite-atopique.md" >}})
-  - Dermatite de contact  
+  - Eczéma de contact  
     Caustique, irritative, allergique.
   - [Urticaire]({{< relref "urticaire.md" >}}), dermographisme
   - Mastocytose cutanée

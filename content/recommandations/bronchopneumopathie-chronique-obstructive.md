@@ -156,10 +156,10 @@ Dépister par spirométrie toute personne par l'{{< modal-btn modal-depistage-bp
 
 - Tabagisme
 - Pollution atmosphérique
-- Chauffage bois ou charbon
+- Chauffage au bois ou au charbon
 - Exposition professionnelle  
   Silice, charbon, moisissures, gaz, vapeurs, fumées.
-- Toux chronique
+- [Toux chronique]({{< relref "toux-chronique.md" >}})
 - Expectoration fréquente
 - Dyspnée
 

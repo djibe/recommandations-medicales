@@ -6,8 +6,8 @@ description = "Recommandations pour la prise en charge d'une névralgie du triju
 synonyms = ["Névralgie du trijumeau"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-05T23:43:00+02:00
-publishdate = 2021-03-21
-lastmod = 2022-01-20
+publishdate = "2021-03-21"
+lastmod = "2022-01-20"
 specialites = ["neurologie"]
 annees = "2018"
 sources = ["SFEMC", "SFNC"]
@@ -18,16 +18,16 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "Illustration de la névralgie du trijumeau par BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "durée avant envisager décroissance, attente A. Donnet"
+todo = "SEO, durée avant envisager décroissance, attente A. Donnet"
 +++
 
 {{%article-summary%}}
 
-- Les recommandations concernent la forme essentielle/idiopathique de l'adulte
-- Critères cliniques stricts
+- Les recommandations concernent la névralgie du trijumeau forme essentielle/idiopathique de l'adulte
+- Critères diagnostiques stricts de la névralgie du trijumeau
 - Normalité de l'examen neurologique intercritique
 - IRM cérébrale 3T systématique
-- Carbamazépine ou oxcarbazépine
+- Prise en charge par carbamazépine ou oxcarbazépine
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

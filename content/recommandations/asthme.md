@@ -8,7 +8,7 @@ synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-06-21T10:56:00+02:00"
 publishdate = "2021-06-29"
-lastmod = "2022-10-18"
+lastmod = "2022-10-28"
 specialites = ["pneumologie"]
 annees = "2022"
 sources = ["GINA", "ERS", "SPLF", "HAS"]
@@ -17,7 +17,7 @@ anglais = ["Asthma"]
 sctid = "195967001"
 image = true
 imageSrc = "Illustration de l'asthme par brgfx / Freepik"
-todo = "doses Symbicort turbuhaler, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, taux humidité intérieure, rhinite allergique, formaldéhyde"
+todo = "doses Symbicort turbuhaler, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, rhinite allergique"
 +++
 
 {{%article-summary%}}
@@ -39,7 +39,7 @@ todo = "doses Symbicort turbuhaler, CSI + ARL, revoir Stades GINA, plan d'action
 {{%collapse "Définitions" %}}
 
 Asthme
-: Maladie respiratoire chronique des voies aériennes par hyperréactivité bronchique, inflammation et obstruction réversible des voies aériennes. Les symptômes sont peu spécifiques (dyspnée, toux, sifflements respiratoires, oppression thoracique), leur fréquence et leur intensité varie avec le temps.  
+: Maladie respiratoire chronique des voies aériennes par hyperréactivité bronchique, inflammation et obstruction réversible des voies aériennes. Les symptômes sont peu spécifiques (dyspnée, [toux chronique]({{< relref "toux-chronique.md" >}}), sifflements respiratoires, oppression thoracique), leur fréquence et leur intensité varie avec le temps.  
 Ils sont associés à une variabilité du débit expiratoire de pointe (DEP) par bronchoconstriction, épaississement de la paroi bronchique et production accrue de mucus.
 : L'obstruction est objectivée par l'observation d'un trouble ventilatoire obstructif (TVO) réversible (partiellement ou complètement), à l'état basal ou après un test de provocation bronchique.
 : Les principaux facteurs favorisants et entretenant ces anomalies sont les *infections virales*, les *allergies respiratoires* et les *irritants bronchiques*.
@@ -62,6 +62,26 @@ Tout asthmatique peut avoir une exacerbation sévère (*GINA 2019*).
 
 Bannir le terme de << bronchite asthmatiforme >>: l'asthme est une maladie chronique et les antibiotiques sont inappropriés (*SPLF 2015*).
 {{%/warning%}}
+
+### Diagnostic différentiel
+
+Diagnostic différentiel de l'asthme, à étayer selon le terrain:
+
+- [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
+- [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
+- Bronchite
+- [Bronchiolite]({{< relref "bronchiolite.md" >}})
+- Rhinite
+- Dilatation des bronches
+- Mucoviscidose
+- [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
+- Pneumopathie interstitielle
+- Syndrome d'hyperventilation
+- [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
+- Obésité
+- Pathologie ostéoarticulaire ou musculaire
+- Dysfonction des cordes vocales
+{.list-group}
 
 ### Abréviations
 
@@ -118,6 +138,7 @@ VEMS
 {{%collapse "Signes de gravité" %}}
 
 {{%warning%}}
+
 ### Signes de défaillance = asthme aigu grave
 
 Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
@@ -243,7 +264,8 @@ Réévaluer l'efficacité du traitement initial à 2-3 mois.
 - Expositions domestiques, professionnelles/scolaires
   - Amélioration en vacances
   - {{%class%}}15-20% des asthmes de l'adulte sont liés à une exposition professionnelle. (*SPF*){{%/class%}}
-- Tabac et cigarette électronique
+- Tabac et cigarette électronique  
+  {{%class%}}La cigarette électronique aggrave les symptômes et les exacerbations (*GINA 2022*){{%/class%}}
 - Symptômes des 4 dernières semaines
   - Variabilité en intensité
   - Variabilité dans le temps  
@@ -254,7 +276,7 @@ Réévaluer l'efficacité du traitement initial à 2-3 mois.
   - Oppression thoracique
   - Déclenchement par: infections virales, exercice, exposition aux allergènes/irritants, rire, pleurs.
 - Limitation variable du débit expiratoire de pointe  
-{{%class%}}Meilleure des 3 mesures consécutives.{{%/class%}}
+  {{%class%}}Meilleure des 3 mesures consécutives.{{%/class%}}
 - Diagnostic d'asthme
   - Posé par quel professionnel ?
   - Examens complémentaires
@@ -281,27 +303,6 @@ Mesure du DEP pour les personnes percevant mal leurs symptômes.
 - Étayer un diagnostic différentiel: insuffisance cardiaque, corps étranger, embolie pulmonaire
 
 {{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-Diagnostic différentiel de l'asthme, à étayer selon le terrain:
-
-- [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
-- [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
-- Bronchite
-- [Bronchiolite]({{< relref "bronchiolite.md" >}})
-- Rhinite
-- Dilatation des bronches
-- Mucoviscidose
-- [Embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}})
-- Pneumopathie interstitielle
-- Syndrome d'hyperventilation
-- [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})
-- Obésité
-- Pathologie ostéoarticulaire ou musculaire
-- Dysfonction des cordes vocales
-{.list-group}
-
-{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 ### *Spirométrie* avec *test de réversibilité*
@@ -317,7 +318,8 @@ Radiographie de thorax systématique au diagnostic.
 
 ### Autres bilans
 
-- NFS
+- NFS  
+  Vérifier les éosinophiles en asthme difficilement contrôlé (recherche anguillulose quand ≥ 300/μL).
 - Gaz du sang si:adulte avec VEMS < 50%, discordance symptômes-VEMS
 
 ### Consultations spécialisées
@@ -444,6 +446,8 @@ Confirmer le diagnostic avant de démarrer un traitement, puis instaurer rapidem
   Déclarer la maladie professionnelle, médecin du travail, reclassement, RQTH.
 - Association de patients: [Asthme & Allergies](https://asthme-allergies.org/)
 
+**NB.** Les purificateurs d'air n'ont pas prouvé d'amélioration du contrôle de l'asthme.
+
 #### Asthme et ALD
 
 Conditions de prise en charge à 100% de l'asthme par l'ALD 14:
@@ -460,15 +464,15 @@ En cas d'ALD, vaccin grippe annuel (et {{< modal-btn modal-vaccin-pneumocoque >}
 
 ### Asthme non contrôlé
 
-Asthme non-contrôlé = {{< modal-btn modal-score-act >}}ACT™ < 20{{< /modal-btn >}}.  
+Asthme non-contrôlé = {{< modal-btn modal-score-act >}}Asthma Control Test™ < 20{{< /modal-btn >}}.  
 
-Conduite à tenir:
+Prise en charge de l'asthme non contrôlé:
 
 - Augmentation d'un palier (stade supérieur)
 - Vérifier le diagnostic d'asthme
 - {{< modal-btn modal-observance >}}Vérifier l'observance{{< /modal-btn >}}
 - Vérifier la [technique d'inhalation](https://splf.fr/videos-zephir/)
-- Croyances à l'égard de l'asthme et des médicaments
+- Évaluer les croyances à l'égard de l'asthme et des médicaments
 {.list-group}
 
 ### Asthme parfaitement contrôlé
@@ -490,7 +494,8 @@ La prescription dépend uniquement du pneumologue:
 - Anticorps anti-IgE {{%class%}}(omalizumab sous-cutané SC){{%/class%}}
 - Anticorps anti-IL5 et IL5R  
   Mépolizumab SC, reslizumab IV, benralizumab SC.
-- Anticorps anti-IL4R {{%class%}}(dupilumab SC){{%/class%}}
+- Anticorps anti-IL4R {{%class%}}(dupilumab SC possible chez le +6 ans){{%/class%}}
+- Anticorps anti-TSLP (tezepelumab non commercialisé)
 
 {{% /collapse %}}
 {{%collapse "Techniques d'inhalation des bronchodilatateurs" %}}

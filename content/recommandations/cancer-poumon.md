@@ -171,7 +171,7 @@ La Commission européenne recommande ce dépistage depuis son [communiqué de se
 
 Et pour une [personne vivant avec le VIH]({{< relref "vih-sida.md" >}}) (PVVIH) avec symptôme parmi:
 
-- [Toux persistante](/tags/toux/)
+- Toux persistante
 - Hémoptysie
 - Douleur chronique
 - Altération de l'état général

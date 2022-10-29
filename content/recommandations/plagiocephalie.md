@@ -5,24 +5,24 @@ description = "Recommandations pour le diagnostic et la prise en charge de la pl
 synonyms = ["Déformations crâniennes positionnelles"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-11T17:40:29+02:00
-publishdate = 2020-07-11
-lastmod = 2022-02-03
+publishdate = "2020-07-11"
+lastmod = "2022-10-29"
 specialites = ["pediatrie"]
 annees = "2020"
 sources = ["HAS"]
 tags = ["nourrisson"]
 anglais = ["Plagiocephaly"]
 sctid = "21850008"
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Photo d'une plagiocéphalie positionnelle postérieure gauche chez un nourrisson, Gzzz, CC BY-SA 4.0, via Wikimedia Commons"
 +++
 
 {{%article-summary%}}
 
-- N'entraîne pas de retard neuro-développemental
-- Vérifier les sutures et amplitudes des mouvements, rechercher dysmorphies et syndromes
-- Prévention: inverser tous les jours le sens tête - pieds, coucher sur le dos dans une position contraire à sa préférence, augmenter le temps d'éveil passé en décubitus ventral
-- Kinésithérapie voire prise en charge spécialisée pluri-disciplinaire si déformations importantes ou sans amélioration
+- La plagiocéphalie n'entraîne pas de retard neuro-développemental
+- Vérifier les sutures et amplitudes des mouvements, rechercher des dysmorphies et syndromes
+- Prévention de la plagiocéphalie: inverser tous les jours le sens tête - pieds, coucher sur le dos dans une position contraire à sa préférence, augmenter le temps d'éveil passé en décubitus ventral
+- Prise en charge de la plagiocéphalie par kinésithérapie voire prise en charge spécialisée pluri-disciplinaire si déformations importantes ou sans amélioration
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -31,9 +31,11 @@ Plagiocéphalie
 : Asymétrie crânienne par appui prolongé (appui de la partie arrière du crâne), décrite souvent comme un parallélogramme.
 : La **plagiocéphalie positionnelle** (PP) est de type postérieure non synostotique (absence de synostose des sutures). On parle de **déformations crâniennes positionnelles** (DCP).
 : Elle n'entraîne pas de retard neuro-développemental du bébé.
-: Prévalence élevée dès les premiers mois de vie: 16% à 6 semaines, 20% à 4 mois. La majorité est résorbée à 2 ans.
+: Prévalence élevée de la plagiocéphalie dès les premiers mois de vie: 16% à 6 semaines, 20% à 4 mois. La majorité est résorbée à 2 ans.
 
 ### Facteurs de risque de plagiocéphalie
+
+Éléments favorisant le développement des déformations crâniennes:
 
 - Garçon
 - Aîné
@@ -44,10 +46,21 @@ Plagiocéphalie
 - Taux d'activité limité
 - Autres: position préférentielle pendant le sommeil, position fixe dans le lit
 
+### Abréviations
+
+DCP
+: déformation crânienne positionnelle
+
+MIN
+: mort inattendue du nourrisson
+
+PP
+: plagiocéphalie positionnelle
+
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic est clinique.  
+Le diagnostic de plagiocéphalie est clinique.  
 L'examen clinique recherche des facteurs aggravants.
 
 - Interrogatoire sur les facteurs de risque et le couchage
@@ -56,7 +69,7 @@ L'examen clinique recherche des facteurs aggravants.
 - Vérifier l'**amplitude des mouvements passifs et actifs du cou** (torticolis congénital)
 - Vérifier les **sutures** (lambdoïdes +++, craniosynostose)
 
-3 grands types de DCP décrits en vue du sommet du crâne:
+3 grands types de déformations crâniennes positionnelles (DCP) décrites en vue du sommet du crâne:
 
 1. Plagiocéphalies fronto-occipitales (déformations asymétriques)
 2. Plagiocéphalies occipitales (déformations asymétriques)
@@ -65,17 +78,19 @@ L'examen clinique recherche des facteurs aggravants.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-**Aucun**.
+Aucun examen complémentaire devant une plagiocéphalie positionnelle isolée.
 
 Radiographies du crâne uniquement en suspicion de craniosynostose ou d'aggravation à un âge où les DCP devraient s'atténuer.
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-- Alterner tous les jours la position dans de l'enfant dans le lit en inversant sa position tête - pieds
+Mesures de prévention de la plagiocéphalie positionnelle:
+
+- Alterner tous les jours la position du bébé dans le lit en inversant sa position tête - pieds
 - Coucher bébé sur le dos dans une position contraire à sa préférence
 - Augmenter le temps d'éveil du bébé passé en décubitus ventral  
-  ≥ 10-15 minutes ≥ 3 fois par jour.
+  Au moins 10 à 15 minutes au moins 3 fois par jour.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la plagiocéphalie" %}}
@@ -98,7 +113,7 @@ Recommandations générales pour la prise en charge de la plagiocéphalie:
 
 ### Traitement chirurgical
 
-Prise en charge chirurgicale en cas de craniosynostose confirmée.
+Prise en charge chirurgicale d'une plagiocéphalie en cas de craniosynostose confirmée.
 
 {{% /collapse %}}
 {{%sources%}}

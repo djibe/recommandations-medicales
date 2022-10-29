@@ -1,12 +1,12 @@
 +++
 title = "Toux chronique"
 prefix = "la "
-description = "Recommandations pour la prise en charge d'une toux chronique. Iatrogénie, PCR coqueluche, radio de thorax. Traitement d'épreuve rhinorrhée, EFR, RGO, avis ORL"
+description = "Recommandations pour la prise en charge d'une toux chronique. Iatrogénie, PCR coqueluche, radiographie de thorax. Traitement d'épreuve rhinorrhée, EFR, avis ORL"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-15T10:55:41+02:00
 publishdate = "2020-09-15"
-lastmod = "2022-03-22"
+lastmod = "2022-10-29"
 specialites = ["pneumologie"]
 annees = "2020"
 sources = ["SFORL"]
@@ -16,22 +16,23 @@ sctid = "68154008"
 flowchart = true
 image = true
 imageSrc = "Illustration de la toux chronique par stories / Freepik"
-todo = "EOGD?"
+todo = "revoir flowchart"
 +++
 
 {{%article-summary%}}
 
-- Fumeur ancien: avis ORL et pneumologique
-- Étayer: Signes de gravité > Médicament imputable > PCR coqueluche > Radio de thorax
-- En l'absence d'orientation diagnostique, traitement séquentiel: rhinorrhée postérieure > EFR > RGO > ORL, pneumo, gastro > psychiatre > antitussif
-- Suspicion de cause ORL: pas de corticoïdes oraux, scanner des sinus et avis ORL
+- Toux chronique chez un ancien fumeur: avis ORL et du pneumologue
+- Étayer les pathologies pouvant induire une toux chronique: Signes de gravité > Médicament imputable > PCR coqueluche > Radiographie de thorax
+- En l'absence d'orientation diagnostique devant une toux chronique, prise en charge par un traitement d'épreuve séquentiel:  
+  Rhinorrhée postérieure > EFR > Reflux > Avis ORL, pneumo, gastro > Psychiatre > Antitussif
+- Suspicion d'une toux de cause ORL: pas de corticoïdes oraux, scanner des sinus et avis ORL
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Toux chronique native
 : Définition:
-    1. Durée > 3 semaines
+    1. Toux d'une durée supérieure à 3 semaines
     2. Sans tendance à l'amélioration
     3. En dehors d'un épisode identifié susceptible d'être en cause
 : Un **hemmage** (raclement de gorge) peut être une forme clinique.
@@ -40,8 +41,17 @@ Toux chronique native
 
 ### Abréviations
 
+AEG
+: altération de l'état général
+
+RGO
+: reflux gastro-œsophagien
+
 TVO
 : trouble ventilatoire obstructif
+
+VADS
+: voies aéro-digestives supérieures
 {.dl-inline}
 
 {{% /collapse %}}
@@ -53,7 +63,7 @@ TVO
 
 - AEG
 - Syndrome infectieux  
-  Fièvre, sueurs nocturnes ...
+  Fièvre, sueurs nocturnes.
 - Dyspnée d'effort
 - Hémoptysie
 - Apparition/modification de la toux chez un fumeur
@@ -71,36 +81,35 @@ Causes fréquentes de toux chronique devant être éliminées:
 
 - Médicamenteuse
   - **IEC**  
-  {{%class%}}3/4 des toux médicamenteuses. 5-20% des patients traités. À l'arrêt, résolution en 1 jour à 6 semaines.{{%/class%}}
+    {{%class%}}3/4 des toux médicamenteuses. 5-20% des patients traités. À l'arrêt, résolution en 1 jour à 6 semaines.{{%/class%}}
   - Autres  
-  ARA2, bêtabloquants, interféron alpha 2b, thérapeutiques inhalées.
+    ARA2, bêtabloquants, interféron alpha 2b, thérapeutiques inhalées.
   - Plus rares  
-  Morphine et dérivés, méthotrexate.
-- Coqueluche  
+    Morphine et dérivés, [méthotrexate]({{< relref "methotrexate.md" >}}).
+- [Coqueluche]({{< relref "coqueluche.md" >}})  
   Contage, toux quinteuse émétisante, spasmes laryngés, intensité croissante et sans amélioration à J21.
 - Tabac, cannabis  
-  Irritative, **[BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})** ou **cancer des VADS**.
+  Toux irritative, **[BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})** ou **cancer des VADS**.
 
-Autres causes à éliminer (par ordre anatomique):
+Autres causes de toux à éliminer (par ordre anatomique):
 
 - Cause ORL
   - Rhinite, sinusite, rhinorrhée postérieure
   - Carrefour aéro-digestif  
-  Dysphonie, fausse-route, dysphagie, régurgitations, paresthésies pharyngées. Avis ORL.  
-  Toux suivie d'asphyxie aiguë sans perte de connaissance (spasmes laryngés).  
-  Examen: adénopathies cervicales, goitre, hypertrophie amygdalienne, luette longue. Avis ORL.  
-  Affections du conduit auditif externe exceptionnels.
+    Dysphonie, fausse-route, dysphagie, régurgitations, paresthésies pharyngées. Avis ORL.  
+    Toux suivie d'asphyxie aiguë sans perte de connaissance (spasmes laryngés).  
+    Examen: adénopathies cervicales, goitre, hypertrophie amygdalienne, luette longue. Avis ORL.  
+    Affections du conduit auditif externe exceptionnels.
 - Cause bronchopulmonaire
-  - Inhalations tabac, cannabis, polluants et aérosols
-  - Coqueluche: toux rauque et aboyante, quinteuse
-  - Cancer bronchique: toux avec hémoptysie
+  - Inhalations de tabac, cannabis, polluants et aérosols
+  - [Cancer bronchique]({{< relref "cancer-poumon.md" >}}): toux avec hémoptysie
   - [Asthme]({{< relref "asthme.md" >}}): toux avec sifflements thoraciques épisodiques
-  - DDB: toux avec expectoration muqueuse matinale et purulente
-- [RGO]({{< relref "reflux-gastro-oesophagien.md" >}})  
+  - Dilatation des bronches: toux avec expectoration muqueuse matinale et purulente
+- [Reflux]({{< relref "reflux-gastro-oesophagien.md" >}})  
   Symptômes digestifs hauts inconstants (reflux absent dans 50-75% des cas de toux chronique liée à un RGO). Voire dysphagie.
 - Cardiologique
   - Toux à l'effort ou au décubitus avec dyspnée
-  - Souffle, trouble du rythme, signes d'insuffisance cardiaque, angor
+  - Souffle, trouble du rythme, signes d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), angor
 - Cause allergique
 - Cause comportementale
   - Exclusion de tous les diagnostics ci-dessus
@@ -111,6 +120,8 @@ Autres causes à éliminer (par ordre anatomique):
 {{%collapse "Clinique" %}}
 
 ### Interrogatoire
+
+Ensemble de signes et symptômes à rechercher pour étayer une toux chronique:
 
 - Antécédents  
   Infections ORL à répétition, terrain atopique.
@@ -133,11 +144,11 @@ Autres causes à éliminer (par ordre anatomique):
 
 #### Orientation étiologique
 
-- Asthme  
+- [Asthme]({{< relref "asthme.md" >}})  
   Toux spasmodique, nocturne, au froid ou brouillard, à l'exercice.
 - Rhinite  
   Antécédents de sinusite, rhinorrhée postérieure, hemmage, écoulement ou obstruction nasal, troubles de l'odorat.
-- Reflux gastro-œsophagien  
+- [Reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}})  
   Après le repas ou penché en avant.
 
 La toux peut être multifactorielle.
@@ -147,7 +158,7 @@ Examen clinique complet.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une toux chronique de l'adulte" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une toux chronique native chez l'adulte. Dr JB Fron d'après SFORL 2020" >}}
+{{< mermaid title="Prise en charge d'une toux chronique native chez l'adulte. Dr JB Fron d'après SFORL 2020" >}}
 graph TB
   toux["Toux &gt; 3 semaines"] --> examen(Anamnèse, examen clinique) --> gravité(Signes de gravité ?)
   style toux stroke:#4150f5, stroke-width:1px
@@ -159,7 +170,7 @@ graph TB
       normale --> absenceOrientation("Pas de signes<br>d'orientation diagnostique") --> suite(Voir graphique suivant)
 {{< /mermaid >}}
 
-{{< mermaid title="Conduite à tenir devant une toux chronique native sans signe d'orientation diagnostique chez l'adulte. Dr JB Fron d'après SFORL 2020" >}}
+{{< mermaid title="Prise en charge d'une toux chronique native sans signe d'orientation diagnostique chez l'adulte. Dr JB Fron d'après SFORL 2020" >}}
 graph TB
   absence["Absence de signe d'orientation<br>diagnostique de la toux"] --> rhinorrhée(Traitement d'une rhinorrhée postérieure) -- Échec --> EFR("EFR avec tests<br>Sans TVO: BDCA + CSI") -- Échec --> RGO(Traitement d'un RGO) -- Échec --> ORL(Explorations par l'ORL) -- Échec --> essais("- Traitement antitussif<br>- Avis psychiatrique")
   style absence stroke:#4150f5, stroke-width:1px
