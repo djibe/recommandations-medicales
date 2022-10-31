@@ -22,7 +22,7 @@ todo = "SEO, FFN, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl...
 
 {{%article-summary%}}
 
-- Dépister une dénutrition avec le {{< modal-btn modal-mna >}} questionnaire Mini Nutritional Assessment (MNA){{< /modal-btn >}} (dépistage annuel après 70 ans)
+- Dépister une dénutrition avec le {{< modal-btn modal-mna >}}questionnaire Mini Nutritional Assessment (MNA){{< /modal-btn >}} (dépistage annuel après 70 ans)
 - Le diagnostic de dénutrition est clinique: association d'un critère phénotypique et d'un critère étiologique
 - Un IMC élevé n'exclut pas une dénutrition
 - Suivi de la dénutrition: poids hebdomadaire et à chaque consultation (noté dans les dossier médical, DMP, carnet de santé...)

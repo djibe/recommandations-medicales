@@ -314,7 +314,7 @@ Arrêt de l'allopurinol et remplacement par **[fébuxostat](https://base-donnees
 
 Uricosurique alternatif, le probénécide (Santuril®) est de maniement délicat (*Prescrire Rédaction*).
 
-Autre traitement de fond: ~~~benzbromarone~~~ (Desuric®, retiré en 2008).
+Autre traitement de fond: ~~benzbromarone~~ (Desuric®, retiré en 2008).
 
 {{% /collapse %}}
 {{%collapse "Surveillance du traitement" %}}

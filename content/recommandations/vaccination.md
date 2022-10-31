@@ -15,7 +15,7 @@ anglais = ["Immunization", "vaccination"]
 sctid = "33879002"
 image = true
 imageSrc = "Illustration par Freepik"
-todo = "texte SEO, texte vaccins obligatoires , choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages"
+todo = "texte SEO, texte vaccins obligatoires , choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages, https://publications.aap.org/pediatrics/article/150/3/e2021056007/188497/Value-of-the-Immunization-Program-for-Children-in"
 +++
 
 {{%article-summary%}}
@@ -55,7 +55,7 @@ VVA
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal" "show" %}}
 
-{{< table title="Calendrier des vaccins recommandés en France en 2022. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Ministère de la Santé 2022" >}}
+{{< table title="Calendrier des vaccins recommandés en France en 2022. Tous les vaccins sont remboursés par l'Assurance Maladie sauf les rotavirus. Dr JB Fron d'après Ministère de la Santé 2022" >}}
 | Âge     | Valences      | Spécialités équivalentes       |
 |:-------:|---------------|--------------------------------|
 | 2 mois  | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus (HAS) | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 1/3 NR, Rotarix 1/2 NR |
@@ -65,7 +65,7 @@ VVA
 | 11 mois | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
 | 12 mois | Méningo C<br>ROR<br>Méningo B | Menjugate, Neisvac<br>MMRvaxPro, Priorix<br>Bexsero |
 | 16-18 mois | ROR        | MMRvaxPro, Priorix             |
-| 6 ans   | DTCaPolio     | ~~~InfanrixTetra~~~, Tetravac-acellulaire |
+| 6 ans   | DTCaPolio     | ~~InfanrixTetra~~, Tetravac-acellulaire |
 | 11-13 ans   | dTcaPolio<br>(DTCaPolio si non fait)       | BoostrixTetra, Repevax<br>(voir 6 ans)    |
 | 11-14 ans   | HPV       | Gardasil9                      |
 | 25 ans  | dTcaPolio     | BoostrixTetra, Repevax         |
@@ -75,11 +75,14 @@ VVA
 | Grossesse   | Coqueluche, Covid, grippe | BoostrixTetra, Repevax ... |
 {{< /table >}}
 
-> **NR =** non remboursé  
-Les consultations à 25, 45 et 65 ans seront gratuites dès 2023.
+**Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours avec pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles.
+
+> Les consultations à 25, 45 et 65 ans seront gratuites dès 2023.
 
 {{% /collapse %}}
 {{%collapse "Rattrapage vaccinal" %}}
+
+{{%info%}}<< Un rattrapage vaccinal est indiqué en cas de statut inconnu >> (*Calendrier vaccinal*){{%/info%}}
 
 {{< table title="Âges limites du rattrapage vaccinal systématique en population générale selon le Calendrier vaccinal" >}}
 | Germe        | Âge limite de rattrapage | Rattrapages spécifiques |
@@ -96,10 +99,7 @@ Les consultations à 25, 45 et 65 ans seront gratuites dès 2023.
 | Varicelle    | 18 ans                   | [Autour d'un cas]({{< relref "varicelle.md" >}}) |
 {{< /table >}}
 
-Pour le BCG, lire [tuberculose]({{< relref "tuberculose.md" >}}).  
-Rotavirus: informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours avec pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles.
-
-{{%info%}}<< Un rattrapage vaccinal est indiqué en cas de statut inconnu >> (*Calendrier vaccinal*){{%/info%}}
+Pour le BCG, lire [tuberculose]({{< relref "tuberculose.md" >}}).
 
 ### Rattrapage du vaccin méningocoque B
 
@@ -280,9 +280,5 @@ Le don du sang est contre-indiqué durant quatre semaines après les vaccination
 - [Décret 2022-610 pour la vaccination par les infirmiers et pharmaciens](https://www.mesvaccins.net/textes/2022-04-21-JO-DECRET-2022-610.pdf)
 - [Infovac](https://www.infovac.fr/)
 - [Vaccination Info Service](https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Administration-des-vaccins)
-
-### À lire
-
-<https://publications.aap.org/pediatrics/article/150/3/e2021056007/188497/Value-of-the-Immunization-Program-for-Children-in>
 
 {{%/sources%}}

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-21T19:40:41+02:00"
 publishdate = "2020-07-21"
-lastmod = "2020-07-21"
+lastmod = "2022-10-30"
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["HAS", "ANSM"]
@@ -21,59 +21,57 @@ todo = "TODO: read MAJ https://www.em-select.com/article/1229908, simplifier ?"
 
 {{%article-summary%}}
 
-- TSH élevée avec T4L normale
-- Indications au traitement  
-TSH > 10 mUI/L, anticorps anti-TPO positifs, TSH > 4 mUI/L pendant la grossesse
+- Définition de l'hypothyroïdie fruste: TSH élevée avec T4L normale
+- Indications au traitement par lévothyroxine:  
+  TSH > 10 mUI/L, anticorps anti-TPO positifs, TSH > 4 mUI/L pendant la grossesse
 - Traitement d'épreuve si hypothyroïdie fruste avec signes cliniques évocateurs
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Hypothyroïdie fruste (ou infraclinique)
-: **TSH élevée de façon isolée**  .
+: TSH élevée de façon isolée.  
 TSH > 4mUI/L à 2 reprises (espacées d'un mois) avec T4L normale.
+: Prévalence de l'hypothyroïdie fruste en France: 2,5%.
 : Chez le +80 ans: prendre comme valeur limite haute 7 mUI/L.
 
-[Hypothyroïdie patente]({{< relref "hypothyroidie.md" >}})
-: **TSH élevée et T4L diminuée**.
+Hypothyroïdie patente
+: TSH élevée et T4L diminuée (voir [hypothyroïdie]({{< relref "hypothyroidie.md" >}})).
 
 Lorsque la TSH est modérément élevée, de 4 à 10 mUI/L, renouveler le dosage TSH + T4L à 2 mois.
 
-### Épidémiologie
-
-Prévalence en France: 2,5%.
-
-### Évolution
+### Évolution de l'hypothyroïdie fruste
 
 - Normalisation 1/3
 - Stabilisation 1/3
 - Hypothyroïdie 1/3
 
-### Facteurs prédictifs d'évolution vers une hypothyroïdie
+### Facteurs prédictifs d'évolution vers une hypothyroïdie patente
 
 - TSH initiale haute (≥ 10 mUI/L)
 - Anticorps anti-TPO positifs
-- Age > 60 ans
+- Age +60 ans
 - Antécédents thyroïdiens
 - Antécédents médicamenteux  
-Amiodarone, lithium, interféron.
+  Amiodarone, lithium, interféron.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Clinique inconstante.
-
-Si TSH > 10: augmentation du risque cardiovasculaire, de répercussions neuro-psychologiques et qualité de vie.
-
+Clinique inconstante au cours de l'hypothyroïdie fruste.  
 Perturbations du bilan lipidique.
+
+Si TSH > 10: augmentation du risque cardiovasculaire, des répercussions neuro-psychologiques et de la qualité de vie.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hypothyroïdie fruste" %}}
 
-Pas de dépistage de la population générale.  
-Dépistage ciblé: femme > 60 ans et facteurs de risque.
+Pas de dépistage de l'hypothyroïdie en population générale.  
+Dépistage ciblé: femme +60 ans et facteurs de risque.
 
-### Indications au traitement
+### Indications au traitement par lévothyroxine
+
+Prise en charge de l'hypothyroïdie fruste en cas de situation:
 
 - TSH > 10 mUI/L
 - Anticorps anti-TPO positifs
@@ -84,8 +82,10 @@ Débuter la lévothyroxine à posologie basse, croissante par paliers jusqu'à o
 
 ### Femme enceinte
 
-- Possible majoration des risques: hématome rétro-placentaire, prématurité, DRA néonatale.
-- Dépistage si signes évocateurs: ATCD thyroïdiens personnels/familiaux, notion d'anticorps thyroïdiens, maladie auto-immune
+Hypothyroïdie fruste et grossesse:
+
+- Possible majoration des risques: hématome rétro-placentaire, prématurité, DRA néonatale
+- Dépistage si signes évocateurs: antécédents thyroïdiens personnels/familiaux, notion d'anticorps thyroïdiens, maladie auto-immune
 - Examens: TSH, T4L, anticorps anti-TPO
 - Si TSH > 3 mUI/L: surveillance rapprochée avec TSH à 1 mois
 - Traitement systématique dès que la TSH > 4 mUI/L
@@ -99,15 +99,16 @@ Débuter la lévothyroxine à posologie basse, croissante par paliers jusqu'à o
 - Dépistage chez population à risque (à revoir)
 - Bilan systématique
 
-**Bilan à 1 mois avec TSH, T4L, anticorps anti-TPO**
+**Bilan à 1 mois avec TSH, T4L, anticorps anti-TPO**.
 
 - Si T4L basse: hypothyroïdie (voir fiche)
-- Si T4L normale et TSH > 10 mUI/L: traitement immédiat
-- Si T4L normale et anticorps anti-TPO+: traitement immédiat
+- Si T4L normale
+  - TSH > 10 mUI/L: traitement immédiat
+  - Anticorps anti-TPO+: traitement immédiat
 - Si enceinte avec TSH > 4 mUI/L: traitement immédiat
 - Sinon: contrôle TSH à 6 mois puis annuel en l'absence de normalisation
 
-{{< mermaid title="Conduite à tenir devant une hypothyroïdie fruste. Dr JB Fron d'après HAS 2019" >}}
+{{< mermaid title="Prise en charge de l'hypothyroïdie fruste. Dr JB Fron d'après HAS 2019" >}}
 graph TB
   decouverte[TSH augmentée] -- Contrôle à 1 mois + T4L--> TSH[TSH augmentée] -- T4L normale --> hTFruste(Hypothyroïdie fruste) --> anomalies("<b>Anomalies?</b><hr>- TSH &gt; 10<br>- Anticorps anti-TPO+<br>- Grossesse et TSH &gt; 4<br>- Clinique d'hypothyroïdie") -- Oui --> traitement(Traitement par lévothyroxine)
   style decouverte stroke:#4150f5, stroke-width:1px

@@ -21,8 +21,8 @@ todo = "beh"
 {{%article-summary%}}
 
 - Dépistage systématique de la cryptorchidie: palper les bourses de tous les petits garçons (2-4% atteints)
-- La chirurgie d'un testicule cryptorchide est réalisée idéalement à partir d'1 an
-- Surveillance post-opératoire du testicule pendant 1 an (atrophie)
+- La chirurgie d'un testicule cryptorchide est réalisée idéalement à partir d'un an
+- Surveillance post-opératoire du testicule pendant 1 an (risque d'atrophie)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

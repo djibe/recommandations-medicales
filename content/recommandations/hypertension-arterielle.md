@@ -370,12 +370,12 @@ Prise en charge par bithérapie au choix parmi:
 <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + ICa</button>
 
 - Envisager une monothérapie chez le +80 ans, fragile ou avec HTA < 150 mmHg à faible RCV
-- Chez le sujet noir:{{< modal-btn modal-tzd-ica >}}TZD + ICa{{< /modal-btn >}} aussi possible
+- Chez le sujet noir: {{< modal-btn modal-tzd-ica >}}TZD + ICa{{< /modal-btn >}} aussi possible
 - Intérêt de l'éducation thérapeutique pour maximiser l'observance
 - Réévaluation sous 2 mois  
   Intérêt de suivi mensuel les 6 premiers mois selon la HAS (*HAS 2016*).
 
-{{%class%}}La réduction de la PA intervient en 1-2 semaines après l'introduction du traitement, pouvant se prolonger jusqu'à 2 mois.{{%/class%}}
+{{%class%}}La baisse de pression artérielle intervient en 1-2 semaines après l'introduction du traitement, pouvant se prolonger jusqu'à 2 mois.{{%/class%}}
 
 ### Traitement de niveau 2
 

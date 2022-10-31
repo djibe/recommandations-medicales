@@ -133,7 +133,7 @@ La vaccination protège de la coqueluche pendant 5 à 10 ans.
 | 2 mois                      | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
 | 4 mois                      | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
 | 11 mois                     | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
-| 6 ans                       | ~~~InfanrixTetra~~~, Tetravac-acellulaire                      |                                         |
+| 6 ans                       | ~~InfanrixTetra~~, Tetravac-acellulaire                      |                                         |
 | 11-13 ans                   | BoostrixTetra, Repevax                                         | Schéma des 6 ans si manqué              |
 | 25 ans                      | BoostrixTetra, Repevax<br>Sauf rappel dans les 5 ans           | Rattrapage jusqu'à 39 ans               |
 | Grossesse 20-36 SA          | BoostrixTetra, Repevax<br>et entourage (foyer, grands-parents, babysitters) | À chaque grossesse. Rattrapage avant la sortie de maternité |

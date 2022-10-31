@@ -1,12 +1,12 @@
 +++
 title = "Hyperferritinémie"
 prefix = "l'"
-description = "Recommandations pour la prise en charge d'une hyperferritinémie. Bilan: ferritine élevée: coefficient de saturation de la transferrine CST, CRP, bilan hépatique"
+description = "Recommandations pour la prise en charge d'une hyperferritinémie. Bilan de ferritine élevée: coefficient de saturation de la transferrine CST, bilan hépatique"
 synonyms = ["Conduite à tenir devant une hyperferritinémie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-27T20:02:41+02:00"
 publishdate = "2020-08-27"
-lastmod = "2021-03-23"
+lastmod = "2022-10-29"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["SNFGE"]
@@ -22,8 +22,8 @@ todo = "reprendre, échoabdo?, gérer seul sd métabo, https://www.fmcgastro.org
 {{%article-summary%}}
 
 - Découverte d'une hyperferritinémie: interrogatoire et examen clinique pour établir le profil du patient
-- Dosage à jeun à 2 reprises du coefficient de saturation de la transferrine (CST)
-- Bilan biologique systématique
+- Bilan d'une hyperferritinémie: dosage à jeun à 2 reprises du coefficient de saturation de la transferrine (CST)
+- Prise en charge selon l'orientation diagnostique
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -34,12 +34,12 @@ De nombreuses maladies influent sur la ferritinémie, en dehors de l'*hémochrom
 
 Hyperferritinémie (HF)
 : Ferritinémie **> 200 µg/L chez la femme** et **300 µg/L chez l'homme**.
-: Elle est *modérée* jusqu'à 500 µg/L, *nette* jusqu'à 1000 µg/L et *majeure* > 1000 µg/L.
+: L'hyperferritinémie est *modérée* jusqu'à 500 µg/L, *nette* jusqu'à 1000 µg/L et *majeure* au-delà de 1000 µg/L.
 
 ### Épidémiologie de l'hyperferritinémie
 
-- Une hyperferritinémie est associée à la survenue d'un syndrome métabolique et d'un diabète de type 2
-- 1/3 des diabétiques et 1/4 des pré-diabétiques ont une hyperferritinémie
+- Une hyperferritinémie est associée à la survenue d'un syndrome métabolique et d'un [diabète de type 2]({{< relref "diabete-type-2.md" >}})  
+  1/3 des diabétiques et 1/4 des pré-diabétiques ont une hyperferritinémie.
 - 20% des [NASH]({{< relref "steatose-hepatique-et-nash.md" >}}) ont une hyperferritinémie et 1/3 a une hépatosidérose métabolique.
 
 ### Abréviations
@@ -84,24 +84,24 @@ SAM
 
 - Acquises avec surcharge en fer
   - Dysérythropoïèse (myélodysplasie, thalassémie) sans transfusions  
-  CST élevée, surcharge en fer globale
+    CST élevée, surcharge en fer globale.
   - Supplémentation parentérale excessive de fer
-  CST élevée, surcharge en fer globale
+    CST élevée, surcharge en fer globale.
 - Acquise sans surcharge en fer
   - Syndrome d'activation macrophagique (SAM)  
-  HF > 1000, CST abaissé, pas de surcharge, CRP élevée, Contexte viral/hémato-immuno
+    HF > 1000, CST abaissé, pas de surcharge, CRP élevée, Contexte viral/hémato-immuno.
 - Génétique avec surcharge en fer
   - Maladie de la ferroportine  
-  HF très élevée et familiale, CST normal, surcharge en fer globale
+    HF très élevée et familiale, CST normal, surcharge en fer globale.
   - Hémochromatose non HFE  
-  CST élevé, surcharge en fer globale
+    CST élevé, surcharge en fer globale.
   - Acéruloplasminémie héréditaire  
-  CST bas, surcharge en fer globale, céruloplasminémie effondrée
+    CST bas, surcharge en fer globale, céruloplasminémie effondrée.
 - Génétique sans surcharge en fer
   - Syndrome ferritine-cataracte  
-  HF familiale, CST normal, pas de surcharge, mutations du gène de la L-ferritine
+    HF familiale, CST normal, pas de surcharge, mutations du gène de la L-ferritine.
   - Maladie de Gaucher  
-  CST normal, pas de surcharge, splénomégalie
+    CST normal, pas de surcharge, splénomégalie.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -111,9 +111,9 @@ SAM
 Enquête devant la découverte d'une hyperferritinémie:
 
 - Antécédents personnels  
-(Pré)-diabète et facteurs de risque cardiovasculaires, hépatite, cancer, vascularite, hémoglobinopathie.
+  (Pré)-diabète et facteurs de risque cardiovasculaires, hépatite, cancer, vascularite, hémoglobinopathie.
 - Antécédents familiaux  
-Hépatopathie, surcharge en fer, hémoglobinopathie, diabète, cataracte précoce.
+  Hépatopathie, surcharge en fer, hémoglobinopathie, diabète, cataracte précoce.
 - Traitements en cours, automédication, apports en fer, transfusions
 - Consommation d'alcool
 - Symptômes
@@ -137,7 +137,7 @@ Hépatopathie, surcharge en fer, hémoglobinopathie, diabète, cataracte précoc
 
 ### Bilan devant une hyperferritinémie
 
-Bilan à jeun pendant 12h:
+Bilan à jeun pendant 12 heures:
 
 - NFS, CRP
 - Ferritinémie, coefficient de saturation de la transferrine (CST) à jeun
@@ -175,7 +175,7 @@ La prise en charge relève uniquement du gastro-entérologue:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une hyperferritinémie" "show" %}}
 
-{{< mermaid title="Conduite à tenir diagnostique devant une hyperferritinémie. Dr JB Fron d'après SNFGE 2019" >}}
+{{< mermaid title="Prise en charge diagnostique d'une hyperferritinémie. Dr JB Fron d'après SNFGE 2019" >}}
 graph TB
   HF["<b>Hyperferritinémie</b><hr>Femme &gt; 200<br>Homme &gt; 300"] --> CST(CST à jeun)
   style HF stroke:#4150f5, stroke-width:1px

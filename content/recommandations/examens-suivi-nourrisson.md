@@ -94,7 +94,7 @@ Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de s
 | 11 mois | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
 | 12 mois | Méningo C<br>ROR<br>Méningo B | Menjugate, Neisvac<br>MMRvaxPro, Priorix<br>Bexsero |
 | 16-18 mois | ROR        | MMRvaxPro, Priorix             |
-| 6 ans   | DTCaPolio     | ~~~InfanrixTetra~~~, Tetravac-acellulaire |
+| 6 ans   | DTCaPolio     | ~~InfanrixTetra~~, Tetravac-acellulaire |
 | 11-13 ans   | dTcaPolio<br>(DTCaPolio si non fait)       | BoostrixTetra, Repevax<br>(voir 6 ans)    |
 | 11-14 ans   | HPV       | Gardasil9                      |
 {{< /table >}}
