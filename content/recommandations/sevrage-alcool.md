@@ -587,17 +587,16 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 ### À lire
 
 - [Inserm. Réduction des dommages associés à la consommation d'alcool. Synthèses et recommandations. 2021.](https://www.inserm.fr/expertise-collective/reduction-dommages-associes-consommation-alcool/)
-- <http://www.addictologie.org/spip.php?page=avectitre&id_rubrique=8>
-- <http://www.addictologie.org/spip.php?page=accueil&id_rubrique=1>
-- <http://www.sfalcoologie.asso.fr/page.php?choix=A10>
-- <https://www.alcool-info-service.fr/Alcool/Home-Professionnels/Alcool-et-grossesse/Le-reperage-et-le-depistage-de-la-consommation-maternelle/Comment-mener-un-entretien-Quelques-cles>
-- <https://www.lissa.fr/dc/#env=lissa&q=alcool&p=1>
+- [Fédération Française d'Addictologie](https://www.addictologie.org/)
+- [Société Française d'Alcoologie. Documents de référence.](http://www.sfalcoologie.asso.fr/page.php?choix=A10)
+- [Alcool Info Service Professionnels](https://www.alcool-info-service.fr/Alcool/Home-Professionnels/)
+- [LiSSA Alcool](https://www.lissa.fr/dc/#env=lissa&q=alcool&p=1)
 - J. Rehm, Section of Cancer Surveillance, International Agency for Research on Cancer, Lyon, France
 - Risque vie-entière d'un décès attribuable à l'alcool en France chez les femmes/hommes
 - Prescrire
-- <https://www.ofdt.fr/BDD/publications/docs/TabAlcool2000-2018.pdf>
-- <https://www.fmcgastro.org/texte-postu/postu-2020-paris/sevrage-en-alcool-et-maladies-chroniques-du-foie/>
-- <https://lecmg.fr/addictionsmg/>
+- [Palle C; OFDT. Les évolutions de la consommation d'alcool en France et ses conséquences 2000-2018. (PDF)](https://www.ofdt.fr/BDD/publications/docs/TabAlcool2000-2018.pdf)
+- [Barrault C. Sevrage en alcool et maladies chroniques du foie. POST'U. 2020.](https://www.fmcgastro.org/texte-postu/postu-2020-paris/sevrage-en-alcool-et-maladies-chroniques-du-foie/)
+- [Le CMG. Addictions en médecine générale.](https://lecmg.fr/addictionsmg/)
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}

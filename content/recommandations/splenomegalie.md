@@ -15,7 +15,7 @@ tags = []
 anglais = ["Splenomegaly"]
 sctid = "16294009"
 flowchart = true
-todo = "source on flowchart, tableau avec anomalies biologiques"
+todo = "SEO, source on flowchart, tableau avec anomalies biologiques"
 +++
 
 {{%article-summary%}}
@@ -195,7 +195,7 @@ graph TB
 
 ### À lire
 
-- [Barlogis V. Splénomégalie. Pas à Pas en Pédiatrie. 2016.](https://fr.pap-pediatrie2-poc.elsevier.cc/consulter/hepato-gastro/splenomegalie)
+- [Barlogis V. Splénomégalie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/hepato-gastro/splenomegalie)
 - SFH
 - Collège médecine interne
 

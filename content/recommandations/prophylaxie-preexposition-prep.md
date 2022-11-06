@@ -200,7 +200,7 @@ Considérations associés:
 
 **NB.** En l'absence d'assurance maladie, le traitement est **gratuit** dans les {{< references/cegidd >}}.
 
-Applis pour l'aide à la prise du traitement: [My PrEP](https://myprep.app/), [AR PrEP](https://play.google.com/store/apps/details?id=fr.observia.atprep) et [GMT Ma PrEP](https://play.google.com/store/apps/details?id=com.guenmat.android.prep).
+Applis pour l'aide à la prise du traitement: [My PrEP](https://myprep.app/) ou [GMT Ma PrEP](https://play.google.com/store/apps/details?id=com.guenmat.android.prep).
 
 ### Schéma continu de la PrEP
 
