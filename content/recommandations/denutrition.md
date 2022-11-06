@@ -363,6 +363,7 @@ graph TB
 ### À lire
 
 - [Hankard R.; SFP. Établir une stratégie nutritionnelle chez un enfant dénutri. 2017.](https://pap-pediatrie.fr/hepato-gastro/etablir-une-strategie-nutritionnelle-chez-un-enfant-denutri)
+- [Hankard R. et al; SFP. Dépister la dénutrition de l'enfant en pratique courante. 2012. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/recos-sfp-cn_depistage_denutrition_oct_2012_0.pdf)
 - [Société Francophone de Nutrition Clinique et Métabolisme - Référentiels](https://www.sfncm.org/outils-education/recommandations/referentiels)
 
 {{%/sources%}}

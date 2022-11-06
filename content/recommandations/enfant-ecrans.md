@@ -65,4 +65,8 @@ Les normes de sécurité oculaire devraient prendre en compte la photosensibilit
 
 [Académie de médecine. L'enfant, l'adolescent, la famille et les écrans - Appel à une vigilance raisonnée sur les technologies numériques. Avril 2019.](https://www.academie-sciences.fr/fr/Rapports-ouvrages-avis-et-recommandations-de-l-Academie/enfant-ecrans-technologies-numeriques.html)
 
+### À lire
+
+HCSP. Avis relatif aux effets de l'exposition des enfants et des jeunes aux écrans. 2019.
+
 {{%/sources%}}

@@ -521,6 +521,7 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 
 ### À lire
 
+- [Malfertheiner P. et al. Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report. Gut. 2022.](https://pubmed.ncbi.nlm.nih.gov/35944925/)
 - [Kalach N. et al.; GFHGNP. Diagnostic et traitement de l'infection à Helicobacter pylori chez l'enfant. 2022.](http://www.helicobacter.fr/wp-content/uploads/2022/01/Diagnostic-et-traitement-de-linfection-%C3%A0-Helicobacter-pylori-chez-l%E2%80%99enfant.pdf)
 
 {{%/sources%}}

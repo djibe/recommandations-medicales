@@ -96,6 +96,6 @@ En l'absence de testicule ou simple présence d'un reliquat, exérèse de ce der
 
 ### À lire
 
-[Gueorguieva I., Bouvattier C.; SFP. Cryptorchidie. 2017.](https://pap-pediatrie.fr/endocrinologie/cryptorchidie)
+[Gueorguieva I., Bouvattier C.; SFP. Cryptorchidie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/endocrinologie/cryptorchidie)
 
 {{%/sources%}}

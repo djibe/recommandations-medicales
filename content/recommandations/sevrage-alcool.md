@@ -17,10 +17,12 @@ anglais = ["Alcoholism"]
 sctid = "7200002"
 image = true
 imageSrc = "Les verres d'alcool standards par Alcool-Info-Service"
-todo = "remarques mail, KEY x3 sevrage ambulatoire | x2 syndrome de sevrage, symptômes de sevrage | médicaments, sevrage de l'alcool, entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, bilan des complications"
+todo = "simplifier, remarques mail, KEY x3 sevrage ambulatoire | x2 syndrome de sevrage, symptômes de sevrage | médicaments, sevrage de l'alcool, entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, bilan des complications"
 +++
 
 {{%article-summary%}}
+
+*Nous avons conscience que cette page doit être simplifiée*
 
 1. Repérage systématique: consommation moyenne par jour, fréquence mensuelle de consommation ≥ 6 verres, autres toxiques (voir *Dépistage*)
 2. Évaluation de la consommation d'alcool: score AUDIT-C ou FACE d'un mésusage et recherche de comorbidités (voir *Évaluation*)

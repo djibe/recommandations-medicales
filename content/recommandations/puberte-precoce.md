@@ -209,6 +209,6 @@ graph TB
 
 ### À lire
 
-[Pas à Pas en Pédiatrie. Puberté précoce. 2019.](https://pap-pediatrie.fr/endocrinologie/puberte-precoce)
+[Haïne E. Puberté précoce. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/endocrinologie/puberte-precoce)
 
 {{%/sources%}}

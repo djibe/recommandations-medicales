@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-17T14:11:29+02:00
 publishdate = "2020-06-17"
-lastmod = "2022-03-11"
+lastmod = "2022-11-06"
 specialites = ["addictologie"]
 annees = "2022"
 sources = ["Ameli"]
@@ -59,19 +59,17 @@ Liste des substituts nicotiniques remboursés sur prescription par la Sécurité
     <ul class="list-group list-group-xs"><!--Pierre Fabre-->
       <li class="list-group-item">Nicopatchlib 14 mg<span class="text-muted">/24h</span></li>
       <li class="list-group-item">Nicopatchlib 7 mg<span class="text-muted">/24h</span></li>
-      <li class="list-group-divider"></li><!--Nicotine EG-->
+      <li class="list-group-divider"></li><!--EG Labo-->
       <li class="list-group-item">Nicotine EG 14 mg<span class="text-muted">/24h</span></li>
       <li class="list-group-item">Nicotine EG 7 mg<span class="text-muted">/24h</span></li>
       <li class="list-group-divider"></li><!--Johnson & Johnson, 16h-->
       <li class="list-group-item">NicoretteSkin 15 mg<span class="text-muted">/16h</span></li>
       <li class="list-group-item">NicoretteSkin 10 mg<span class="text-muted">/16h</span></li>
-      <li class="list-group-divider"></li>
+      <li class="list-group-divider"></li><!--Omega Pharma-->
       <li class="list-group-item">Niquitin 14 mg<span class="text-muted">/24h</span></li>
-      <!--Perrigo Company-->
       <li class="list-group-item">Niquitin 7 mg<span class="text-muted">/24h</span></li>
-      <li class="list-group-divider"></li>
+      <li class="list-group-divider"></li><!--GlaxoSmithKline-->
       <li class="list-group-item">Nicotinell TTS 14 mg<span class="text-muted">/24h</span></li>
-      <!--GlaxoSmithKline-->
       <li class="list-group-item">Nicotinell TTS 7 mg<span class="text-muted">/24h</span></li>
     </ul>
     <h4 class="typography-overline mt-lg-5">Gommes à mâcher</h4>
@@ -86,7 +84,6 @@ Liste des substituts nicotiniques remboursés sur prescription par la Sécurité
     <h4 class="typography-overline mt-lg-3">Comprimés à sucer</h4>
     {{% class "typography-body-2 text-black-secondary" %}} Sucer les comprimés lentement sans croquer. {{%/class%}}
     <ul class="list-group">
-      {{< list-item title="Niquitin sans sucre 2 mg (Menthe douce)" subtitle="1 comprimé à sucer toutes les 1 à 2 heures. Max 15/j." >}}
       {{< list-item title="Nicotinell 1 mg (Menthe)" subtitle="1 comprimé à sucer toutes les 1 à 2 heures. Max 30/j." >}}
     </ul>
     <!-- Pastilles à sucer -->
@@ -128,14 +125,13 @@ Liste des substituts nicotiniques remboursés sur prescription par la Sécurité
     </ul>
     <h4 class="typography-overline mt-lg-5">Gommes à mâcher</h4>
     <ul class="list-group">
-      {{< list-item title="Nicorette sans sucre 4 mg (Fruits, menthe fraîche, menthe glaciale)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
+      {{< list-item title="Nicorette sans sucre 4 mg (Fruits, menthe fraîche, menthe glaciale, neutre)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
       {{< list-item title="Nicotine EG sans sucre 4 mg (Citron, fruit, menthe)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
       {{< list-item title="Niquitin sans sucre 4 mg (Fruits tropicaux, menthe glaciale)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
       {{< list-item title="Nicotinell sans sucre 4 mg (menthe fraîcheur)" subtitle="En cas d'envie de fumer. 8 à 12 par jour. Max 15/j." >}}
     </ul>
     <h4 class="typography-overline mt-lg-3">Comprimés à sucer</h4>
     <ul class="list-group">
-      {{< list-item title="Niquitin sans sucre 4 mg (Menthe douce)" subtitle="1 comprimé à sucer toutes les 1 à 2 heures. Max 11/j." >}}
       {{< list-item title="Nicotinell menthe 2 mg" subtitle="1 comprimé à sucer toutes les 1 à 2 heures. Max 15/j." >}}
     </ul>
     <h4 class="typography-overline mt-lg-3">Pastilles à sucer</h4>
@@ -144,12 +140,11 @@ Liste des substituts nicotiniques remboursés sur prescription par la Sécurité
     </ul>
   </div>
 </div>
-
 <blockquote class="blockquote mt-5">
-  <h3 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au 20/09/2021. (PDF)</h3>
+  <h3 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au 18/10/2022. (PDF)</h3>
   <footer class="blockquote-footer">
     <cite title="Ameli"><a
-        href="https://www.ameli.fr/sites/default/files/Documents/441422/document/liste-substituts-nicotiniques_assurance-maladie_2021-10-15_0.pdf"
+        href="https://www.ameli.fr/sites/default/files/Documents/Liste-substituts-nicotiniques_assurance-maladie_2022-10-18.DPROD_v2.pdf"
         rel="external nofollow noopener">L'Assurance Maladie</a></cite>
   </footer>
 </blockquote>

@@ -336,8 +336,8 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 
 {{< youtube id="kWiExzPWF4w" title="Quand demander un marqueur tumoral dans le cancer colorectal ? (TutoGastro SNFGE)" >}}
 
-- [Robaszkiewicz M. et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)
 - [Phelip JM. et al. Metastatic colorectal cancer (mCRC): French intergroup clinical practice guidelines for diagnosis, treatments and follow-up (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, ACHBT, SFRO, SFR)(TNCD). Dig Liver Dis. 2019. Maj 21/07/2022.](https://www.snfge.org/content/4-cancer-colorectal-metastatique)
+- [Robaszkiewicz M. et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)
 - [Lecomte T. et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/3-cancer-du-colon-non-metastatique)
 - [Cotte E. et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/5-cancer-du-rectum)
 - {{< references/college-gastro >}}

@@ -16,15 +16,15 @@ anglais = ["Cancer of stomach"]
 sctid = "363349007"
 image = true
 imageSrc = "Coupe histopathologique comparative d'adénocarcinome gastrique par Green, John et al. CC BY 4.0, via Wikimedia Commons"
-todo = "SEO, algo, FDR: IPP > 1 an ?"
+todo = "algo, FDR: IPP > 1 an ?"
 +++
 
 {{%article-summary%}}
 
 - Le cancer de l'estomac atteint préférentiellement l'homme après 65 ans
-- Principaux facteurs de risque de cancer de l'estomac: [gastrite à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}}) (80%), tabagisme, alimentation salée/fumée, antécédent familial de cancer gastrique, Lynch/HNPCC
-- Signes d'alarmes en symptômes digestifs hauts: dysphagie, amaigrissement, anémie
-- Dépistage du premier degré en cas de lésion cancéreuse: sérologie HP chez un sujet de moins de 45 ans, fibroscopie gastrique au-delà
+- Principaux facteurs de risque de cancer de l'estomac: [gastrite à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}}) (80%), tabac, alimentation salée/fumée, antécédent familial de cancer gastrique, Lynch/HNPCC
+- Signes d'alarmes devant des symptômes digestifs hauts: dysphagie, amaigrissement, anémie
+- Dépistage du premier degré en cas de lésion cancéreuse de l'estomac: sérologie HP chez un sujet de moins de 45 ans, fibroscopie gastrique au-delà
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -32,8 +32,8 @@ todo = "SEO, algo, FDR: IPP > 1 an ?"
 Cancer de l'estomac
 : Tumeurs malignes de l'estomac de pronostic intermédiaire composées à 90% d'*adénocarcinomes* atteignant préférentiellement les hommes âgés (2/3).  
 Autres types rares: lymphomes (du MALT, *Helicobacter pylori* +++) > stromales (GIST) > endocrine.
-: Classées en 2 entités par facteurs de risque différents: cancer du cardia (*jonction œso-gastrique* *JOG*) et non-cardia (distal).
-: 80% sont causés par une **[gastrite chronique à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}})** avec une survie à 5 ans de 30%.
+: Les tumeurs sont classées en 2 entités par facteurs de risque différents: cancer du cardia (*jonction œso-gastrique* *JOG*) et non-cardia (distal).
+: 80% des cancers de l'estomac sont causés par une **[gastrite chronique à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}})** avec une survie à 5 ans de 30%.
 
 ### Épidémiologie du cancer de l'estomac
 
@@ -175,7 +175,7 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
   NFS, folates x 1/an.
 - Dépistage de l'entourage au 1<sup>er</sup> degré (voir *Traitement*)
 
-### Signes évocateurs de récidive
+### Signes évocateurs de récidive du cancer gastrique
 
 - Reprise de l'amaigrissement
 - Douleurs abdominales
@@ -205,7 +205,8 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
 
 ### À lire
 
-{{< references/college-gastro >}}
+- [Zaanan A et al. Gastric cancer: French intergroup clinical practice guidelines for diagnosis, treatments and follow-up (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, SFRO)(TNCD). Dig Liver Dis. 2022.](https://www.snfge.org/content/9-cancer-du-pancreas)
+- {{< references/college-gastro >}}
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
