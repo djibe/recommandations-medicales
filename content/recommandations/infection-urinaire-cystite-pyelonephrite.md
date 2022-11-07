@@ -6,8 +6,8 @@ description = "Recommandations pour la prise en charges des infections urinaires
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-10T13:36:06+02:00"
-publishdate = "2022-10-13"
-lastmod = "2022-10-14"
+publishdate = "2022-11-07"
+lastmod = "2022-11-07"
 specialites = ["urologie"]
 annees = "2021"
 sources = ["HAS", "SPILF"]
@@ -22,8 +22,23 @@ todo = "flowchart Figure 1 et 5, revoir uroscanner p. 23, améliorer pec ECBU+, 
 
 {{%article-summary%}}
 
-- Recommandations pour le traitement des infections urinaires communautaires de l'adulte à partir de 16 ans
-- Cystite ou IU masculine pauci-symptomatique: privilégier si possible un traitement différé adapté à l'antibiogramme
+Recommandations pour le traitement des infections urinaires communautaires de l'adulte à partir de 16 ans:
+
+- Colonisation urinaire  
+  Traitement uniquement pendant la grossesse et avant un geste urologique.
+- Cystite aiguë simple  
+  Fosfomycine trométamol 3g dose unique.
+- Cystite aiguë à {{< modal-btn modal-fdr-complication >}}risque de complication{{< /modal-btn >}} ou infection urinaire masculine pauci-symptomatique:  
+  Privilégier si possible un traitement différé adapté à l'antibiogramme.
+- Pyélonéphrite aiguë simple  
+  Vérifier les indications à l'hospitalisation, ECBU en urgence puis Ciprofloxacine 500 mg x 2/j et réadaptation avec l'antibiogramme.
+- Pyélonéphrite avec {{< modal-btn modal-fdr-complication >}}facteur de risque de complication{{< /modal-btn >}} sans signe de gravité:  
+  Bilan biologique, uroscanner et antibiothérapie probabiliste identique à la PNA simple.
+- Grossesse
+  - BU mensuelle à partir du 4<sup>e</sup> mois (sauf antécédent d'IU pendant la grossesse, uropathie, diabète, antécédent de cystites récidivantes)
+  - Colonisation urinaire: antibiothérapie d'emblée adaptée et ECBU de contrôle J8-J10
+  - Cystite: ECBU, antibiothérapie probabiliste puis ECBU de contrôle et mensuel
+  - Pyélonéphrite: Urgences
 
 {{%/article-summary%}}
 {{%collapse "BU et ECBU" %}}
@@ -33,6 +48,8 @@ todo = "flowchart Figure 1 et 5, revoir uroscanner p. 23, améliorer pec ECBU+, 
 La bandelette urinaire détecte une leucocyturie (seuil 10<sup>4</sup> leucocytes/mm³) ou des nitrites signant une entérobactérie.
 
 {{%info%}}Devant des signes évocateurs d'infection urinaire (IU) chez l'immunocompétent, une bandelette urinaire normale permet d'éliminer une IU chez la femme (VPN +95%) ou en faveur d'infection urinaire masculine lorsqu'elle est positive (VPP +90%){{%/info%}}
+
+**NB.** Une BU peut être réalisée en pharmacie en cas de suspicion de cystite simple. La patiente est orientée vers le médecin en cas de positivité.
 
 ### Examen cytobactériologique des urines (ECBU)
 
@@ -99,14 +116,15 @@ Colonisation urinaire
 
 Symptômes de la cystite: brûlures mictionnelles, pollakiurie, impériosité/urgenturie ou dysurie dits signes fonctionnels urinaires (SFU), urines troubles ou hématuriques.
 
-Prise en charge de la cystite par **BU** (leuco+ voire nit+) et antibiothérapie probabiliste:
+Prise en charge de la cystite par **BU** (leucocytes+ voire nitrites+) et antibiothérapie probabiliste:
 
 1. <mark>**[Fosfomycine trométamol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66430643&typedoc=R) 3g dose unique**</mark>
 2. [Pivmécillinam](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60670489&typedoc=R) (Selexid®) 400 mg x 2/j pendant 3 jours
 
 ECBU uniquement en l'absence d'amélioration à 72 heures, récidive dans les 2 semaines ou double contre-indication. Le traitement adapté à l'antibiogramme sera celui des cystites à risque de complication.
 
-**En cas de BU négative**, rechercher un diagnostic différentiel: mycose, urétrite, sécheresse cutanéo-muqueuse.
+**En cas de BU négative**, rechercher un diagnostic différentiel: mycose, urétrite, sécheresse cutanéo-muqueuse.  
+Une BU peut être réalisée en pharmacie avec orientation vers le médecin en cas de positivité.
 
 ### Cystite aiguë à risque de complication
 
@@ -185,7 +203,6 @@ BU et si positive **ECBU**.
 - Poly-allergies ou multi-résistances
 - Décompensation d'une comorbidité
 - Rétention d'urine, obstacle urinaire
-
 {{%/warning%}}
 
 ### Pyélonéphrite aiguë simple
@@ -331,6 +348,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
+- [Arrêté du 31 mars 2022. Journal Officiel. (PDF)](https://www.ameli.fr/sites/default/files/Documents/convention-pharmaciens-titulaires-officine_journal-officiel.pdf)
 - [HAS, SPILF, GPIP, CMG. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [Collège d'Urologie. Infections urinaires de l'adulte et de l'enfant. Item 161. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-161-Infections-urinaires.pdf)
 - [Caron F. et al; SPILF. Recommandations pour la prise en charge des infections urinaires communautaires de l'adulte. Med Mal Inf. 2018.](https://www.sciencedirect.com/science/article/pii/S0399077X17310363)

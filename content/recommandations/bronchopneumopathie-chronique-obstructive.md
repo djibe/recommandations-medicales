@@ -20,7 +20,7 @@ slider = true
 flowchart = true
 image = true
 imageSrc = "Illustration de la BPCO par Freepik"
-todo = "Tableau 2 SPLF 2021, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24, ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, remboursement RR, flow p.46, travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, fonctionnement et critères mini-spiromètre"
+todo = "SEO prise en charge x3, amélioration de la qualité de vie | Tableau 2 SPLF 2021, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24, ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, remboursement RR, flow p.46, travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, fonctionnement et critères mini-spiromètre"
 +++
 
 {{%article-summary%}}

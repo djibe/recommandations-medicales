@@ -6,7 +6,7 @@ synonyms = ["Cancer du côlon", "cancer du rectum"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
 publishdate = "2022-09-22"
-lastmod = "2022-10-07"
+lastmod = "2022-11-07"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["SNFGE", "INCa", "HAS", "SFED"]
@@ -29,7 +29,7 @@ todo = "dépistage G8 gériatrie, Vaccination info service chimiothérapie"
 - Symptômes persistants évocateurs de cancer du côlon ou du rectum: rectorragies/méléna, alternance diarrhée-constipation, douleur ou masse abdominale, syndrome rectal, AEG, anémie ferriprive.  
   Leur présence impose une consultation rapide de gastro-entérologie pour une coloscopie diagnostique.
 - Facteurs de risque de cancer colorectal: alcool, tabac, surpoids, alimentation riche en viande rouge et charcuterie et faible en fibres
-- Test de dépistage fécal: tous les 2 ans de 50 à 74 ans (à risque modéré asymptomatiques sans coloscopie dans les 5 ans). Commandes de kits sur Ameli Pro ou [monkit.depistage-colorectal.fr](https://monkit.depistage-colorectal.fr/#/invitation)
+- Test de dépistage fécal: tous les 2 ans de 50 à 74 ans (à risque modéré asymptomatiques sans coloscopie dans les 5 ans). Commandes de kits sur Ameli Pro, retrait en pharmacie ou livraison à domicile sur [monkit.depistage-colorectal.fr](https://monkit.depistage-colorectal.fr/#/invitation)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -222,9 +222,10 @@ Un test de dépistage positif impose une coloscopie dans les 31 jours.
 
 #### Commander des kits de dépistage du cancer colorectal
 
-Le kit du dépistage du cancer du côlon peut être remis par le médecin ou désormais commandé par le médecin à domicile.
+{{%info%}}Le kit du dépistage du cancer du côlon peut être remis par le médecin, retiré en pharmacie ou commandé par le patient à domicile{{%/info%}}
 
 - Commander des kits en tant que médecin: **Ameli Pro** > Commandes > Commande de dispositifs > Kit de Dépistage du Cancer Colorectal
+- Retirer le kit en pharmacie (*Service-Public.fr 02/11/2022*)
 - Commander des kits en tant que patient avec livraison gratuite à domicile: [monkit.depistage-colorectal.fr](https://monkit.depistage-colorectal.fr/#/invitation) (nécessite l'invitation de la Sécu)
   - Le site permet aussi au patient de consulter son résultat
   - Sans invitation, le patient contacte son [CRCDC (annuaire)](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Strategies-de-depistage/Centres-regionaux-de-coordination-des-depistages-des-cancers/)
@@ -318,8 +319,8 @@ Chirurgie le plus souvent. Parfois chimiothérapie adjuvante et thérapie ciblé
   - Interdits: fruits, légumes, lait, yaourts, fromage blanc, pains et céréales complètes, jus de fruits
   - Autorisés: pommes ou carottes fraîches cuites, viandes, volailles, œufs, poissons, jambon blanc, pâtes, riz et pain blanc, pommes de terre (sans la peau), fromages à pâte cuite (gruyère, emmental, beaufort, comté), biscottes au froment, gâteaux secs simples
 - Le liquide de préparation colique
-  - Fractionnement de la prise de produit à base de 2-4 litres de polyéthilèneglycol (PEG type Colopeg, Fortrans, Klean-Prep) + siméticone orale (ex. Ximipeg)
-  - Éviter les PEG à bas de phosphate de sodium (Colokit, Recholan)
+  - Fractionnement de la prise de produit à base de 2-4 litres de polyéthilèneglycol (PEG type Colopeg®, Fortrans®, Klean-Prep®) + siméticone orale (ex. Ximipeg®)
+  - Éviter les PEG à bas de phosphate de sodium (Colokit®, Recholan®)
 - Terminer la préparation de H-5 à H-2 puis rester à jeun  
   Préparation possible le jour J en cas de coloscopie programmée l'après-midi.
 
@@ -336,6 +337,7 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 
 {{< youtube id="kWiExzPWF4w" title="Quand demander un marqueur tumoral dans le cancer colorectal ? (TutoGastro SNFGE)" >}}
 
+- [Service-Public.fr. Cancer colorectal : des kits de dépistage disponibles en pharmacie. 02/11/2022.](https://www.service-public.fr/particuliers/actualites/A15541)
 - [Phelip JM. et al. Metastatic colorectal cancer (mCRC): French intergroup clinical practice guidelines for diagnosis, treatments and follow-up (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, ACHBT, SFRO, SFR)(TNCD). Dig Liver Dis. 2019. Maj 21/07/2022.](https://www.snfge.org/content/4-cancer-colorectal-metastatique)
 - [Robaszkiewicz M. et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)
 - [Lecomte T. et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive (TNCD). 2021.](https://www.snfge.org/content/3-cancer-du-colon-non-metastatique)

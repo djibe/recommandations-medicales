@@ -8,7 +8,7 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2022-09-25"
+lastmod = "2022-11-07"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "HCSP", "MinSanté"]
@@ -85,11 +85,11 @@ Risque démultiplié de forme grave de covid-19 si polypathologique. Doit tenir 
 
 ### Paxlovid
 
-[Ameli: Prescription du Paxlovid en ville](https://www.ameli.fr/sites/default/files/Documents/Prescription-Paxlovid-en-ville.pdf)  
-[Document HAS officiel (RCP)](https://www.has-sante.fr/jcms/p_3311133/fr/paxlovid-pf-07321332/ritonavir).  
-**Administrer dès que possible.**
+- Plateforme d'aide à la prescription: {{<phone>}}0800 130 000{{</phone>}}
+- [Ameli: Prescription du Paxlovid en ville](https://www.ameli.fr/sites/default/files/Documents/Prescription-Paxlovid-en-ville.pdf)
+- [Document HAS officiel (RCP)](https://www.has-sante.fr/jcms/p_3311133/fr/paxlovid-pf-07321332/ritonavir)
 
-Son efficacité est comparable avec tous les variants (*DGS Urgent 2022-66*)
+**Administrer dès que possible.** Son efficacité est comparable avec tous les variants (*DGS Urgent 2022-66*)
 
 #### Indications au Paxlovid
 
@@ -116,6 +116,8 @@ Toutes les conditions doivent être remplies pour la prescription de Paxlovid:
 Paxlovid®: Nirmatrelvir 150 mg 2 cp + Ritonavir 100 mg 1 cp per os toutes les 12h pendant 5 jours
 
 *Préciser la fonction rénale sur l'ordonnance*
+
+Possibilité de préciser une **dispensation conditionnelle** en cas de test Covid positif dans les 5 jours suivant la prescription.
 {{%/info%}}
 
 {{%/collapse%}}

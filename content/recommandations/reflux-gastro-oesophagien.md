@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr F. ZERBIB (SNFGE)"
 date = 2020-08-26T12:55:41+02:00
 publishdate = "2020-08-26"
-lastmod = "2022-09-22"
+lastmod = "2022-11-07"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2018"
 sources = ["SNFGE"]
@@ -25,7 +25,7 @@ todo = "SEO, rythme suivi RGO par EOGD, Reflux Disease Questionnaire (RDQ)"
 
 - Le diagnostic de reflux gastro-œsophagien (RGO) est clinique: signes typiques en l'absence de signes d'alarme
 - Signes d'alarme d'un reflux: Amaigrissement, anémie, dysphagie, hémorragie digestive, vomissements répétés, échec du traitement
-- Indications à la gastroscopie: symptômes atypiques isolés, signe d'alarme, âge +50 ans, résistance aux IPP ou rechute précoce à l'arrêt
+- Indications à la fibroscopie: symptômes atypiques isolés, signe d'alarme, âge +50 ans, résistance aux IPP ou rechute précoce à l'arrêt
 - Prise en charge du reflux gastro-œsophagien: RHD > antiacides > oméprazole demi-dose
 - Rappel: on prononce "ésophage"
 
@@ -105,7 +105,7 @@ Signes typiques de reflux gastro-œsophagien:
 {{%/collapse%}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Diagnostic différentiel d'un reflux gastro-œsophagien:
+Pathologies à étayer devant un tableau de reflux gastro-œsophagien:
 
 - [Dyspepsie]({{< relref "dyspepsie.md" >}})
 - [Cancer de l'estomac]({{< relref "cancer-estomac.md" >}})
@@ -138,7 +138,7 @@ Prise en charge diagnostique par endoscopie si:
 
 - Symptômes atypiques isolés
 - Signes d'alarme (perte de poids, anémie, dysphagie, hémorragie digestive)
-- Âge > 50 ans
+- Âge +50 ans
 - Résistance au traitement initial ou rechute précoce à l'arrêt du traitement
 
 Le reflux n'est pas démontré en cas d'EOGD normale ou avec œsophagite de bas grade. Il faut compléter avec une **pH-métrie** réalisée 7 jours après l'arrêt des IPP.
@@ -171,8 +171,8 @@ Attention aux apports en sodium.
 
 ---
 
-[Oméprazole 10 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69606819&typedoc=R) x 1/j 15 minutes avant le repas pendant 1 mois  
-Augmentation possible à 20 voire 40 mg/j.
+[Oméprazole 20 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69606819&typedoc=R) x 1/j 15 minutes avant le repas pendant 4 semaines  
+Augmentation possible à 40 mg/j.
 {{%/info%}}
 
 ### Mesures hygiéno-diététiques
@@ -187,7 +187,7 @@ Mesures générales de prise en charge du reflux gastro-œsophagien:
 - Correction d'un surpoids ou obésité abdominale
 - Augmenter l'activité physique
 - Mastiquer suffisamment et manger lentement  
-Repas > 20-30 min en position assise et détendue.
+  Repas > 20-30 min en position assise et détendue.
 - Arrêt du tabac
 - Adaptation de l'alimentation
   - RGO nocturne: dîner léger et intervalle dîner-coucher de 3 heures
@@ -206,9 +206,9 @@ Les traitements soulagent les symptômes, mais ne permettent pas la cicatrisatio
 - Carbonate de calcium: constipation et flatulences
 - Bicarbonate de sodium: risque chez le patient vasculaire
 
-### Inhibiteurs de la pompe à protons
+### Inhibiteurs de la pompe à protons (IPP)
 
-- Cure courte à ½ dose si insuffisamment soulagé par RHD et anti-acides
+- Cure courte à ½ dose (ésoméprazole, lansoprazole, pantoprazole et rabéprazole) ou pleine dose pour l'oméprazole si insuffisamment soulagé par RHD et anti-acides
 - D'emblée en œsophagite
 - Prise intermittente ou à la demande en RGO modéré sans œsophagite
 
@@ -314,6 +314,7 @@ Favorisée par l'obésité et une hernie hiatale.
 {{%/collapse%}}
 {{%sources%}}
 
+- [HAS. Bon usage des inhibiteurs de la pompe à protons (IPP). Septembre 2022.](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/fiche_bum_-_bon_usage_des_inhibiteurs_de_la_pompe_a_protons_ipp.pdf)
 - [Zerbib F. Traitement endoscopique du reflux gastro-œsophagien : la quête du graal continue. GastroScoop. 27/04/2022.](https://www.snfge.org/gastroscoop/traitement-endoscopique-du-reflux-gastro-oesophagien-la-quete-du-graal-continue)
 - [Jouet P. Faut-il diminuer les FODMAPs en cas de RGO ? GastroScoop. 28/07/2021.](https://www.snfge.org/gastroscoop/faut-il-diminuer-les-fodmaps-en-cas-de-rgo)
 - Prescrire Redaction. Patients ayant un reflux gastro-œsophagien. Janvier 2021.

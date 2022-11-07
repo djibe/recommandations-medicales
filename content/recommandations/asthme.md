@@ -48,9 +48,10 @@ Ils sont associés à une variabilité du débit expiratoire de pointe (DEP) par
 Jusqu'à 30% de diagnostics en excès.
 
 Exacerbation d'asthme
+: *ex* crise d'asthme
 : Majoration des symptômes respiratoires habituels et de l'obstruction bronchique pendant plus de 48 heures (*SPLF 2015*).  
 Parler de *poussée* avec le patient (*GINA 2019*).
-: Dite *sévère* si nécessite des corticoïdes oraux, un passage aux urgences ou une hospitalisation.
+: **Exacerbation dite*sévère** si nécessite des corticoïdes oraux, un passage aux urgences ou une hospitalisation.
 
 Maîtrise de l'asthme
 : Elle correspond à 2 champs d'action: la {{< modal-btn modal-score-act >}}maîtrise des symptômes{{< /modal-btn >}} et celle des facteurs de risque de complications futures (exacerbations ++).
@@ -292,7 +293,7 @@ En gras, les symptômes clés de l'asthme.
 
 Mesure du DEP pour les personnes percevant mal leurs symptômes.
 
-#### En cas d'exacerbation
+#### En cas d'exacerbation (crise d'asthme)
 
 Évaluation de la gravité en parallèle de l'administration de BACA avec chambre d'inhalation (4-10 bouffées/20 min pendant 1h), l'oxygénothérapie et CSO.
 
@@ -330,7 +331,7 @@ Radiographie de thorax systématique au diagnostic.
 {{% /collapse %}}
 {{%collapse "Traitement de l'exacerbation" %}}
 
-Reconnaissance par le patient et application du *plan d'action*.
+Reconnaissance de la crise d'asthme (exacerbation) par le patient et application du *plan d'action*.
 
 ### Le plan d'action écrit
 

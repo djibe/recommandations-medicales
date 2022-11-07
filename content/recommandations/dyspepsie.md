@@ -24,7 +24,7 @@ todo = "image"
 - Devant une plainte de dyspepsie, rechercher un diabète et des troubles du comportement alimentaire
 - Indications à la fibroscopie gastrique: signes d'alarme (perte de poids, anémie, dysphagie, hémorragie digestive), âge > 50 ans, échec du traitement médical, antécédent familial ou personnel de [cancer digestif](/tags/cancer/)
 - Rechercher une [infection à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}}) (sérologie ou test respiratoire) si la fibroscopie n'est pas indiquée
-- Traitement par IPP simple dose pendant 4 à 8 semaines, intensification possible avec 2 prises par jour
+- Traitement de la dyspepsie par IPP simple dose pendant 4 à 8 semaines, intensification possible avec 2 prises par jour
 - Éviter les repas gras
 - Essai d'éviction séquentiel de certains aliments suspects
 
@@ -89,7 +89,7 @@ Le bilan est ciblé devant une dyspepsie.
 Indications à la fibroscopie gastrique:
 
 - Signes d'alarme
-- Âge > 50 ans
+- Âge +50 ans
 - Âge < 50 ans avec résistance au traitement médical
 - Antécédent familial ou personnel de cancer digestif
 
@@ -108,7 +108,7 @@ L'imagerie est réalisée lorsque les symptômes sont résistants au traitement 
 
 Prise en charge de la dyspepsie:
 
-- Âge > 50 ans: traitement guidé par les résultats de la fibroscopie gastrique
+- Âge +50 ans: traitement guidé par les résultats de la fibroscopie gastrique
 - Âge < 50 ans
   - Test thérapeutique avec IPP simple dose 4-8 semaines  
     Oméprazole 20 mg/j, ésoméprazole 40 mg/j.
@@ -121,7 +121,7 @@ Prise en charge de la dyspepsie:
 
 ### Pour en savoir plus - Autres traitements possibles de la dyspepsie
 
-Sur avis spécialisé uniquement:
+Autres traitements de la dyspepsie, sur avis spécialisé uniquement:
 
 - Prokinétiques gastriques  
   Dompéridone, érythromycine faible dose, prucalopride.

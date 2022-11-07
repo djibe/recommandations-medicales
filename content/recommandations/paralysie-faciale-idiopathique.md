@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr S. TRINGALI et Dr M. FIEUX (SFORL)"
 date = "2021-03-07T17:12:00+02:00"
 publishdate = "2021-03-08"
-lastmod = "2021-12-27"
+lastmod = "2022-11-07"
 specialites = ["ORL"]
 annees = "2020"
 sources = ["SFORL"]
@@ -23,19 +23,19 @@ todo = "soins oculaires"
 
 {{%article-summary%}}
 
-- *Ces recommandations concernent l'adulte*
-- Diagnostic d'élimination d'une PFP
+- *Ces recommandations de la paralysie faciale concernent l'adulte*
+- Le diagnostic de paralysie faciale périphérique idiopathique (*ex* paralysie faciale *a frigore*) est le diagnostic d'élimination d'une paralysie faciale périphérique (PFP)
 - Interrogatoire et examen clinique majeurs
-- Bilan systématique: NFS, glycémie, sérologie Lyme et VIH, audiométrie, IRM avec injection, ENMG si grave
-- PFP hyperalgique: sérologie VZV et HSV
-- Traitement en urgence prednisolone + valaciclovir
+- Bilan systématique de toute paralysie faciale a frigore: NFS, glycémie, sérologie Lyme et VIH, audiométrie, IRM avec injection, EMG si paralysie faciale grave
+- PFP hyperalgique: sérologies VZV et HSV
+- Prise en charge de la paralysie faciale périphérique idiopathique en urgence: prednisolone + valaciclovir
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Paralysie faciale périphérique idiopathique (PFI)
-: Anciennement appelée *paralysie faciale périphérique a frigore*.  
-*Paralysie faciale périphérique* (PFP) d'installation brutale pouvant s'aggraver pendant maximum 72 heures.  
+: *Ex* paralysie faciale périphérique *a frigore*.  
+**Paralysie faciale périphérique** (PFP) d'installation brutale pouvant s'aggraver pendant maximum 72 heures.  
 Elle touche les territoires supérieur et inférieur du nerf facial (VII) de l'hémiface avec une atteinte des motricités volontaire, automatique et émotionnelle.  
 La guérison spontanée sous 6 mois est observée dans 70% des cas, elle est corrélée à la gravité initiale.
 : La PFI est un diagnostic d'élimination. Les fréquentes causes infectieuses et tumorales mimant une PFI motivent un bilan complémentaire systématique.  
@@ -44,7 +44,7 @@ Les récidives sont exceptionnelles (6%).
 ### Abréviations
 
 ENMG
-: électroneuromyogramme (ou électromyogramme)
+: électroneuromyogramme (ou électromyogramme EMG)
 
 PF
 : paralysie faciale
@@ -54,6 +54,9 @@ PFI
 
 PFP
 : paralysie faciale périphérique
+
+SFORL
+: Société française d'oto-rhino-laryngologie
 {.dl-inline}
 
 ### Épidémiologie de la paralysie faciale idiopathique
@@ -61,7 +64,7 @@ PFP
 - 70% de guérison complète à 6 mois  
   Corrélée à la gravité initiale.  
   Taux de récupération de 61% en PFP totale initiale et de 94% pour une PFP partielle initiale.
-- Maladie de Lyme  
+- [Maladie de Lyme]({{< relref "maladie-lyme.md" >}})  
   6 à 20% des PFP selon les régions.
 - [Diabète]({{< relref "diabete-type-2.md" >}})  
   Présent chez 10% des patients développant une PFP.
@@ -215,7 +218,7 @@ Paralysie faciale sévère ({{< modal-btn score-house >}}House et Brackmann grad
 
 {{%/info%}}
 
-### IRM avec injection cérébrale et de tout le trajet du nerf facial
+### IRM cérébrale avec injection étende au trajet du nerf facial
 
 Doit être réalisée dans les 30 jours ou en urgence en signes atypiques.
 
@@ -225,25 +228,25 @@ L'IRM confirme le diagnostic (prise de contraste isolée du n. facial) et élimi
 
 ### Électroneuromyogramme
 
-Réservé aux paralysies faciales sévères ({{< modal-btn score-house >}}House et Brackmann grades V et VI{{< /modal-btn >}}) pour évaluer le pronostic de récupération.
+L'électromyogramme est réservé aux paralysies faciales sévères ({{< modal-btn score-house >}}House et Brackmann grades V et VI{{< /modal-btn >}}) pour évaluer le pronostic de récupération.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la paralysie faciale a frigore" %}}
 
-Traitement de toute paralysie faciale idiopathique en urgence et au mieux dans les 72 premières heures.  
+Prise en charge de toute paralysie faciale idiopathique en urgence et au mieux dans les 72 premières heures.  
 La surveillance clinique de la récupération doit être prolongée.
 
 ### Corticothérapie systémique
 
 {{%info%}}Prednisone orale 1 mg/kg/j (max 120 mg/j) pendant 7 à 10 jours{{%/info%}}
 
-En **forme sévère** ({{< modal-btn score-house >}}grades V et VI du House-Brackmann{{< /modal-btn >}}): prednisone 2 mg/kg/j pendant 10 jours.
+En cas de **paralysie sévère** ({{< modal-btn score-house >}}grades V et VI du House-Brackmann{{< /modal-btn >}}): prednisone 2 mg/kg/j pendant 10 jours.
 
 Alternative: méthylprednisolone intra-veineuse.
 
 ### Antiviral
 
-Le traitement est associé aux corticoïdes et doit être débuté dans les 72 premières heures.
+Le traitement de la paralysie est associé aux corticoïdes et doit être débuté dans les 72 premières heures.
 
 {{%info%}}Valaciclovir 1 g x 3/j pendant 7 jours{{%/info%}}
 
@@ -254,7 +257,7 @@ Hospitalisation en urgence, [lire le chapitre *Zona*]({{< relref "zona.md" >}}).
 ### Soins ophtalmologiques
 
 - Avis ophtalmologique en urgence si:  
-photophobie, troubles visuels, douleurs oculaires.
+  photophobie, troubles visuels, douleurs oculaires.
 - Larmes artificielles
 - Occlusion palpébrale nocturne voire diurne
   - Contrôler l'absence de contact entre le pansement adhésif et l'œil

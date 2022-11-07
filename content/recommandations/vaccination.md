@@ -22,7 +22,7 @@ todo = "texte SEO, texte vaccins obligatoires , choc anaphylactique, Rattrapage 
 
 - [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
 - Rappel vaccinal de [coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA)
-- Vaccination +16 ans par IDE et pharmaciens sans ordonnance pour: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage (bloque encore au niveau de la Sécu. Faire une ordonnance pour l'infirmier)
+- Vaccination +16 ans par IDE et pharmaciens sans ordonnance pour: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage
 - Poser une question pour un cas vaccinal particulier: [Infovac App](https://app.infovac.fr/) (créer un compte)
 
 {{%/article-summary%}}
@@ -168,12 +168,11 @@ Personnes nécessitant un schéma vaccinal renforcé (détail des vaccinations d
   - [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}})
   - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
   - [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}})
-- Diabète [type 1]({{< relref "diabete-type-1.md" >}}) et [type 2]({{< relref "diabete-type-2.md" >}})
+- [Diabète type 1]({{< relref "diabete-type-1.md" >}}) et [type 2]({{< relref "diabete-type-2.md" >}})
 - Respiratoire
   - [Asthme]({{< relref "asthme.md" >}})
   - [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}})
-- Rhumatologique
-  - [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}})
+- Rhumatologique: [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}})
 - [Homme ayant des rapports avec des hommes]({{< relref "hsh.md" >}})
 
 {{% /collapse %}}
@@ -209,7 +208,7 @@ Vider l'air de la seringue (optionnel), désinfection locale et laisser sécher 
 
 Disposer du matériel nécessaire à un choc anaphylactique.
 
-{{%info%}}Depuis le 22 avril 2022, les infirmiers et pharmaciens peuvent administrer sans ordonnance à partir de 16 ans: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage{{%/info%}}
+{{%info%}}Depuis le 7 novembre 2022, les infirmiers et pharmaciens peuvent administrer sans ordonnance à partir de 16 ans: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage{{%/info%}}
 
 ### Sites d'injection
 
@@ -277,7 +276,7 @@ Le don du sang est contre-indiqué durant quatre semaines après les vaccination
 - [Omedit Auvergne. Vaccination et Chimiothérapie. 22/07/2022.](https://www.omedit-auvergne-rhone-alpes.ars.sante.fr/vaccination-et-chimiotherapie)
 - [HAS. La HAS recommande la vaccination des nourrissons contre les infections à rotavirus. 12/07/2022.](https://www.has-sante.fr/jcms/p_3352137/fr/la-has-recommande-la-vaccination-des-nourrissons-contre-les-infections-a-rotavirus)
 - {{< references/calendrier-vaccinal >}}
-- [Décret 2022-610 pour la vaccination par les infirmiers et pharmaciens](https://www.mesvaccins.net/textes/2022-04-21-JO-DECRET-2022-610.pdf)
+- [Décret 2022-610 pour la vaccination par les infirmiers et pharmaciens. Journal officiel. (PDF)](https://www.mesvaccins.net/textes/2022-04-21-JO-DECRET-2022-610.pdf)
 - [Infovac](https://www.infovac.fr/)
 - [Vaccination Info Service](https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Administration-des-vaccins)
 

@@ -7,7 +7,7 @@ synonyms = ["Névralgie du trijumeau"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-05T23:43:00+02:00
 publishdate = "2021-03-21"
-lastmod = "2022-01-20"
+lastmod = "2022-11-07"
 specialites = ["neurologie"]
 annees = "2018"
 sources = ["SFEMC", "SFNC"]
@@ -27,16 +27,15 @@ todo = "SEO, durée avant envisager décroissance, attente A. Donnet"
 - Critères diagnostiques stricts de la névralgie du trijumeau
 - Normalité de l'examen neurologique intercritique
 - IRM cérébrale 3T systématique
-- Prise en charge par carbamazépine ou oxcarbazépine
+- Prise en charge de la névralgie du trijumeau par carbamazépine ou oxcarbazépine
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Névralgie trigéminale classique (NTC)
-: Anciennement **névralgie du trijumeau**.  
-Maladie rare atteignant le nerf trijumeau qui évolue par poussées douloureuses chez des sujets d'âge moyen (60 ans) avec 2/3 de femmes.
-: Un conflit vasculo-nerveux est le facteur causal majeur de la NTC.  
-Il se produit au niveau de la citerne pré-pontique entre une méga-dolicho-artère (artère cérébelleuse antéro-supérieure ++) et la portion centrale de la racine à l'origine de démyélinisation.  
+: *Ex* **névralgie du trijumeau**.  
+Maladie rare atteignant le nerf trijumeau qui évolue par poussées douloureuses chez des sujets d'âge moyen (60 ans) avec 2/3 de femmes. Les douleurs sont à l'origine d'une dégradation de la qualité de vie.
+: Un conflit vasculo-nerveux est le facteur causal majeur de la NTC, situé au niveau de la citerne pré-pontique entre une méga-dolicho-artère (artère cérébelleuse antéro-supérieure ++) et la portion centrale de la racine à l'origine de démyélinisation.  
 Ce conflit est aggravé par l'[hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}).
 : Les poussées durent 49 jours (médiane). 1/3 des patients n'a pas de récidive et des périodes de rémissions variables sont fréquentes.
 
@@ -44,12 +43,12 @@ Nerf trijumeau
 : Le nerf crânien mixte trijumeau est responsable de la sensibilité somatique de la partie antérieure céphalique et motrice des muscles masticateurs.
 : Il est composé de 3 branches: *nerf ophtalmique V1*, *nerf maxillaire V2* et *nerf mandibulaire V3* et son ganglion (dit de Gasser) est localisé dans le *cavum de Meckel*.
 
-### Épidémiologie
+### Épidémiologie de la névralgie du trijumeau
 
-- Maladie rare avec prévalence h/f 10,7-20/100.000.  
-- Personne d'âge moyen (60+)
-- Atteint préférentiellement les femmes (2/3)
-- 1/3 n'a pas de récidives
+- Maladie rare avec prévalence h/f 10,7-20/100.000
+- Elle atteint le sujet d'âge moyen: +60 ans
+- Atteint préférentiellement les femmes: 2/3
+- 1/3 des patients n'a pas de récidives
 
 ### Abréviations
 
@@ -61,6 +60,9 @@ névralgie trigéminale classique (ex névralgie du trijumeau)
 
 SEP
 : sclérose en plaques
+
+SFEMC
+: Société française d'études des migraines et des céphalées
 
 V1
 : nerf ophtalmique
@@ -75,7 +77,7 @@ V3
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques ICHD-3" %}}
 
-Tous les [critères 13.1.1 de la classification ICHD-3](https://ichd-3.org/13-painful-cranial-neuropathies-and-other-facial-pains/13-1-trigeminal-neuralgia/13-1-1-classical-trigeminal-neuralgia/13-1-1-3-idiopathic-trigeminal-neuralgia/ ) doivent être remplis:
+Tous les [critères diagnostiques 13.1.1 de la classification ICHD-3](https://ichd-3.org/13-painful-cranial-neuropathies-and-other-facial-pains/13-1-trigeminal-neuralgia/13-1-1-classical-trigeminal-neuralgia/13-1-1-3-idiopathic-trigeminal-neuralgia/) doivent être remplis pour le diagnostic de névralgie du trijumeau:
 
 1. Au moins 3 crises de douleur faciale unilatérale répondant aux critères 2 et 3
 2. Survenant dans une ou plusieurs branches du nerf trijumeau sans irradiation au-delà des branches du nerf trijumeau
@@ -92,7 +94,9 @@ Tous les [critères 13.1.1 de la classification ICHD-3](https://ichd-3.org/13-pa
 
 {{%warning%}}
 
-### Signes incompatibles avec la névralgie trigéminale classique
+### Drapeaux rouges devant une suspicion de névralgie du trijumeau
+
+Signes incompatibles avec le diagnostic de névralgie trigéminale classique:
 
 - Troubles sensitifs persistants
 - Surdité ou problèmes auditifs
@@ -103,6 +107,8 @@ Tous les [critères 13.1.1 de la classification ICHD-3](https://ichd-3.org/13-pa
 - Névrite optique
 - Antécédents familiaux de sclérose en plaques
 {{%/warning%}}
+
+La présence d'une de ces drapeaux rouges impose une consultation neurologique urgente.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -126,8 +132,8 @@ Des rémissions spontanées sont possibles.
       En crise, figement avec une attitude douloureuse et grimaçante.  
     Cette phase peut être suivie d'un phase motrice de la face, puis vasomotrice (larmoiement, injection, hypersécrétions muqueuses).
 2. **Topographie de la douleur**  
-Unilatérale (prédominance droite) et localisée sur le métamère du trijumeau.  
-Initialement 1 branche (maxillaire V2 surtout) mais extension possible à 2 (V2+V3 surtout).
+  Unilatérale (prédominance droite) et localisée sur le métamère du trijumeau.  
+  Initialement 1 branche (maxillaire V2 surtout) mais extension possible à 2 (V2+V3 surtout).
 3. **Circonstances de déclenchement de la douleur**
     - Déclenchement par stimulation du territoire concerné (**zone gâchette**) avec une latence avec extension progressive de la douleur. Déclenchement possible par le froid, vent, rire, mastication...
     - Comportements d'évitement: arrêt de rasage, maquillage, brossage des dents.
@@ -161,10 +167,12 @@ Examen sensitivo-moteur exhaustif normal:
 - Force des masséter et temporaux
 - Aucun déficit neurologique autre
 
-{{%warning%}}Toute anomalie de l'examen neurologique impose une consultation spécialisée.{{%/warning%}}
+{{%warning%}}Toute anomalie de l'examen neurologique impose une consultation spécialisée{{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
+
+Autres diagnostics responsables de douleurs faciales à étayer:
 
 - **Neuropathie trigéminale douloureuse** (NTD)  
   Atteinte identifiée sur le trajet du nerf trijumeau.  
@@ -173,10 +181,10 @@ Examen sensitivo-moteur exhaustif normal:
   - Peut être bilatérale
   - Pas de zone gâchette
   - Troubles sensitifs fréquents  
-  Hypoesthésie voire anesthésie.
+    Hypoesthésie voire anesthésie.
   - Faible réponse initiale à la carbamazépine
   - Atteintes parfois associées  
-  Névrite optique, atteinte cutanée, lésions orales et du système nerveux.
+    Névrite optique, atteinte cutanée, lésions orales et du système nerveux.
 - Névralgie du nerf glossopharyngien (IX)  
   Douleurs *oropharyngées* et/ou de l'oreille, possibles signes végétatifs (toux, éternuement, bradycardie voire syncope).
 - Névralgie du nerf intermédiaire (VII bis) ou du nerf facial (VII)  
@@ -185,7 +193,7 @@ Examen sensitivo-moteur exhaustif normal:
   ou syndrome paratrigéminal oculosympathique  
   Douleurs de névralgie trigéminale avec ptosis, myosis voire l'atteinte d'autres paires crâniennes.
 - Céphalées SUNCT et SUNA
-- Algie vasculaire de la face  
+- [Algie vasculaire de la face]({{< relref "algie-vasculaire-face.md" >}})  
   Douleurs prolongées (15 à 180 minutes) sans décharge électrique et larmoiement intense. Évolution circadienne et circannuelle.
 - Céphalées en coup de poignard  
   Douleur en coup de poignard de quelques secondes (parfois en salves) le + souvent en-dehors du territoire trigéminal et migratrice.
@@ -197,13 +205,13 @@ Examen sensitivo-moteur exhaustif normal:
 
 ### IRM cérébrale 3T
 
-Systématique pour la recherche d'un conflit vasculo-nerveux (NTC) ou différentiel (NTD).  
+IRM cérébrale systématique pour la recherche d'un conflit vasculo-nerveux (NTC) ou le diagnostic différentiel (NTD).  
 Avec **séquences spécifiques**.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la névralgie du trijumeau" %}}
 
-Traitement de fond de 1<sup>re</sup> intention: carbamazépine ou oxcarbazépine.
+Prise en charge par un traitement médicamenteux de fond de première intention: **carbamazépine ou oxcarbazépine**.
 
 {{%warning%}}Les antalgiques et AINS ne sont pas efficaces sur la NTC{{%/warning%}}
 
@@ -253,7 +261,7 @@ Lamotrigine, phénytoïne voire gabapentine, prégabaline, topiramate, baclofèn
 
 ### Neurochirurgie
 
-Indications pour une NTC certaine:
+Indications pour une NTC certaine par thermocoagulation ou autre technique:
 
 - Échec du traitement médical bien conduit
 - Échec de 3 molécules à doses efficaces dont la carbamazépine
