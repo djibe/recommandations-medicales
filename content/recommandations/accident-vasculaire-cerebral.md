@@ -316,8 +316,8 @@ Rééducation hospitalière envisageable pour une Évaluation spécialisée cour
 
 Éduquer les personnes à risque cardiovasculaire (antécédents CV, HTA, diabète, FA, AOMI...) et leur entourage, mais aussi la population générale aux signes de l'AVC.
 
-- Savoir reconnaître l'AVC: FAST (Face Arm Speech Time).  
-Appeler le {{<phone>}}15{{</phone>}} en urgence vitale devant tout déficit indolore du visage-bras-parole et noter l'heure.
+- Savoir reconnaître l'AVC: FAST ({{%lang%}}Face Arm Speech Time{{%/lang%}}).  
+  Appeler le {{<phone>}}15{{</phone>}} en urgence vitale devant tout déficit indolore du visage-bras-parole et noter l'heure.
 - Même procédure si les symptômes régressent
 - Allonger la victime
 

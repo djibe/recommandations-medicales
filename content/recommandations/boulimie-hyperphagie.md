@@ -22,7 +22,7 @@ todo = "borderline, complications"
 {{%article-summary%}}
 
 - La *boulimie* et l'*hyperphagie boulimique* (sans comportement de compensation) débutent en fin d'adolescence avec une prédominance féminine pour la boulimie (90%)
-- Retentissement individuel (physique, psychique), familial et social du *trouble du comportement alimentaire* (TCA) à l'origine d'une surmortalité (troubles métaboliques et suicides)
+- Retentissement individuel (physique, psychique), familial et social du *trouble des conduites alimentaires* (TCA) à l'origine d'une surmortalité (troubles métaboliques et suicides)
 - L'accueil du sujet boulimique doit être bienveillant, empathique, sans moralisation. Répéter que la guérison est possible
 - Repérer un TCA dans les populations à risque (adolescents, mannequins, surpoids ... voir *Quand évoquer une boulimie ?*) par {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}} ou à l'interrogatoire (voir *Clinique *)
 - Consultation approfondie pour le bilan des complications et comorbidités (le retentissement vécu est central)
@@ -35,14 +35,14 @@ todo = "borderline, complications"
 {{%collapse "Définitions" %}}
 
 Boulimie nerveuse
-: Trouble du comportement alimentaire (TCA) marqué par des **crises de boulimie** (absorption de grandes quantités de nourriture en un temps restreint avec sentiment de perte de contrôle) suivie de **comportements compensatoires** (vomissements provoqués, laxatifs, diurétiques ou autres, jeûne, exercice physique intensif) permettant généralement de maintenir un **IMC normal**.
+: Trouble des conduites alimentaires (TCA) marqué par des **crises de boulimie** (absorption de grandes quantités de nourriture en un temps restreint avec sentiment de perte de contrôle) suivie de **comportements compensatoires** (vomissements provoqués, laxatifs, diurétiques ou autres, jeûne, exercice physique intensif) permettant généralement de maintenir un **IMC normal**.
 : La boulimie atteint le plus souvent les filles (90%) avec une installation en fin d'adolescence (18 ans).
 : Le retentissement est important tant individuel (physique, psychique) que familial et social, à l'origine d'une surmortalité (troubles métaboliques et suicides)
 : La guérison complète est la cible de l'approche pluridisciplinaire qui doit être la plus précoce possible.
 : Les comorbidités psychiatriques sont très fréquentes: dépression, anxiété, addictions, troubles de la personnalité et autres TCA.
 
 Hyperphagie boulimique
-: Trouble du comportement alimentaire (TCA) marqué par des crises de **boulimie sans les comportements compensatoires** associés à la boulimie nerveuse, à l'origine d'un surpoids ou d'une **obésité**.
+: Trouble des conduites alimentaires (TCA) marqué par des crises de **boulimie sans les comportements compensatoires** associés à la boulimie nerveuse, à l'origine d'un surpoids ou d'une **obésité**.
 : Le trouble débute un peu plus tard (jeune adulte) sans différence de sexe.
 
 {{%warning%}}Le vécu douloureux du trouble impose de faire preuve de bienveillance et d'empathie. Éviter d'être moralisateur et informer que la guérison est possible et le répéter régulièrement{{%/warning%}}
@@ -75,7 +75,7 @@ ISRS (ou IRS)
 : inhibiteur sélectif de la recapture de la sérotonine
 
 TCA
-: trouble du comportement alimentaire
+: troubles des conduites alimentaire
 
 TDAH
 : trouble déficit de l'attention avec ou sans hyperactivité
@@ -87,7 +87,7 @@ TOC
 {{% /collapse %}}
 {{%collapse "Quand évoquer une boulimie ?" %}}
 
-**NB.** Les personnes souffrant de *troubles du comportement alimentaire* (TCA) consultent plus fréquemment, notamment pour des troubles digestifs.
+**NB.** Les personnes souffrant de *troubles des conduites alimentaires* (TCA) consultent plus fréquemment, notamment pour des troubles digestifs.
 
 ### Facteurs de risque de boulimie
 
@@ -231,7 +231,7 @@ Examens proposés pour évaluer le retentissement de la boulimie:
 {{%collapse "Traitement" %}}
 
 **Objectifs majeurs de la prise en charge de la boulimie:** réduire les crises de boulimie et de purge et un retour à une scolarité/vie professionnelle stables.  
-Prise en charge concomitante du trouble du comportement alimentaire et de l'**obésité**.
+Prise en charge concomitante du TCA et de l'**obésité**.
 
 {{%warning%}}
 

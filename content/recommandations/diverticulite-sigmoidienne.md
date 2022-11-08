@@ -3,7 +3,7 @@ title = "Diverticulite sigmoïdienne aiguë"
 prefix = "la "
 titleSeo = "Diverticulite sigmoidienne"
 description = "Recommandations pour la prise en charge de la diverticulite sigmoidienne ex sigmoidite. Bilan avec CRP, scanner abdomino-pelvien, pas d'antibiotique en crise .."
-synonyms = ["Sigmoïdite diverticulaire, diverticulite colique"]
+synonyms = ["Sigmoïdite diverticulaire", "diverticulite colique", "sigmoïdite aiguë"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-09T11:33:00+02:00"
 publishdate = "2021-02-09"
@@ -32,7 +32,7 @@ todo = "https://fascrs.org/ascrs/media/files/DCR-tics-CPG-2020.pdf"
 {{%collapse "Définitions" %}}
 
 Diverticulite sigmoïdienne aiguë
-: *ex* sigmoïdite diverticulaire
+: *ex* sigmoïdite diverticulaire (aussi appelée diverticulite colique ou sigmoïdite aiguë)
 : Inflammation infectieuse colique d'origine diverticulaire survenant le plus souvent entre 50 et 70 ans.
 : Facteurs de risque de diverticulite: âge, hérédité, obésité.  
 30% de récidives à 5 ans. 16 à 35% se compliquent d'abcès.

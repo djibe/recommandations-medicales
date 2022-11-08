@@ -26,7 +26,7 @@ todo = "lire recos, https://www.osteoporosis.foundation/sites/iofbonehealth/file
 
 {{%article-summary%}}
 
-Recommandations simplifiées pour un traitement réaliste:
+Recommandations simplifiées pour une prise en charge réaliste de l'ostéoporose:
 
 1. Ostéodensitométrie pour toutes les femmes après 60 ans ou après une fracture ({{< modal-btn modal-dxa-remboursement >}}critères de remboursement{{< /modal-btn >}})
 2. Bilan: NFS, CRP, créatininémie, ASAT, ALAT, GGT, PAL, vitamine D, calcémie, phosphatémie, électrophorèse des protéines sériques
@@ -169,7 +169,7 @@ Avis spécialisé en cas d'anomalie.
 
 ### Radiographies dorso-lombaires
 
-Indications:
+Indications aux radiographies du rachis dorso-lombaire:
 
 - Femme ménopausée avec rachialgies
 - Perte de taille ≥ 4 cm (comparaison à l'âge de 20 ans)
@@ -221,14 +221,14 @@ Les mesures sur os arthrosique ou sur fracture vertébrale surestiment la DMO.
 
 ### Calcul du FRAX
 
-Inutile si traitement indiqué d'emblée: {{< modal-btn modal-fracture-severe >}}antécédent de fracture sévère{{< /modal-btn >}}, T-score ≤ -3 au site vertébral et fémoral.  
-Validé en France uniquement en cas de [ménopause]({{< relref "menopause.md" >}}).
+Calcul du FRAX inutile si le traitement est indiqué d'emblée: {{< modal-btn modal-fracture-severe >}}antécédent de fracture sévère{{< /modal-btn >}}, T-score ≤ -3 au site vertébral et fémoral.  
+Le calcul du FRAX est validé en France uniquement en cas de [ménopause]({{< relref "menopause.md" >}}).
 
 {{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" title="Calcul du FRAX® en France sur le site officiel">}}
 
 > Calcul du FRAX® sur le [site officiel](https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12) pour les Françaises.
 
-### Décision de traitement anti-ostéoporotique selon le FRAX
+### Décision de traitement anti-ostéoporotique selon le calcul du FRAX
 
 Le seuil d'intervention sur l'ostéoporose dépend de l'âge et la décision de traiter du clinicien.
 
@@ -262,11 +262,8 @@ $(function () {
   Input.on('input', function() {
       let val = this.value;
       // Validate Slider
-      if (val < min) {
-          val = min;
-      } else if (val > max) {
-          val = max;
-      }
+      if (val < min) { val = min }
+      else if (val > max) { val = max }
       sliderInstance.update({ from: val });
   });
   Slider.on('change', function() {
@@ -330,7 +327,7 @@ $(function () {
 Tout au long de la vie: activité physique adaptée, apports vitamino-calciques.
 
 - Sevrage tabagique + alcool
-- Soins bucco-dentaires ≥ 1/an (et avant traitement)  
+- Soins bucco-dentaires au moins annuels (et avant traitement)  
   {{%class%}}Débuter le traitement si risque élevé de fracture à court terme.{{%/class%}}
 - Évaluation gériatrique si {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}} ou fragilité
 - Prévention des chutes
@@ -338,7 +335,7 @@ Tout au long de la vie: activité physique adaptée, apports vitamino-calciques.
   - Recherche de l'hypotension orthostatique
   - Contrôler les lunettes
 - Activité physique avec impact
-  ≥ 2 j/semaine, supervisée ++
+  Au moins 2 jours par semaine, supervisée ++
 - Vitamine D
   - Prévenir une carence en vitamine D par cible ≥ 75 nmol/L
   - Dose d'entretien: 800-1200 UI/j (ou 80-100.000 UI/2-3 mois)

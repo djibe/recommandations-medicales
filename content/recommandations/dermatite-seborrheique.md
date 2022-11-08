@@ -30,7 +30,7 @@ Chapitres liés: [acné]({{< relref "acne.md" >}}), [eczéma]({{< relref "dermat
 {{%/article-summary%}}
 {{% collapse "Définition" %}}
 
-Dermatite séborrhéique (DS)
+Dermatite séborrhéique (DS ou dermite séborrhéique)
 : Dermatose chronique du visage fréquente (prévalence 1-3%), évoluant par **poussées**, localisée aux **zones séborrhéiques du visage** par prolifération d'une levure lipophile: *Malassezia furfur*.
 : La dermatite séborrhéique atteint préférentiellement l'homme à la puberté, mais parfois après 50 ans. Elle peut toucher les nourrissons (croûtes de lait).
 

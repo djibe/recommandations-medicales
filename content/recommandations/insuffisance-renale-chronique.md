@@ -2,7 +2,7 @@
 title = "Insuffisance rénale chronique"
 prefix = "l'"
 titleSeo = "Insuffisance rénale chronique"
-description = "Recommandations pour la prise en charge de l'insuffisance rénale. Clairance de la créatinine CKD-EPI, néphroprotection, IEC, LDL et statine, pression artérielle"
+description = "Recommandations pour la prise en charge de l'insuffisance rénale chronique. Clairance de la créatinine CKD-EPI, néphroprotection, IEC, LDL et statine"
 longHtml = true
 synonyms = ["et maladie rénale chronique"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -88,7 +88,7 @@ MRC
 : maladie rénale chronique
 {.dl-inline}
 
-### Épidémiologie de l'insuffisance rénale
+### Épidémiologie de l'insuffisance rénale chronique
 
 3 millions de Français atteints de maladie rénale chronique (7-10% des adultes) avec un dépistage insuffisant.
 
@@ -102,9 +102,9 @@ Fin 2018: 89.692 malades en suppléance (55% dialyse et 45% greffés).
 [Dépenses liées à l'IRC terminale](https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Insuffisance%20r%C3%A9nale%20chronique%20terminale), à la [transplantation rénale](https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Insuffisance%20r%C3%A9nale%20chronique%20terminale&refine.patho_niv2=Transplantation%20r%C3%A9nale) et son [suivi](https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Insuffisance%20r%C3%A9nale%20chronique%20terminale&refine.patho_niv2=Suivi%20de%20transplantation%20r%C3%A9nale)
 
 {{%/collapse%}}
-{{%collapse "Facteurs de risque de l'insuffisance rénale - Qui dépister?" %}}
+{{%collapse "Facteurs de risque d'insuffisance rénale - Qui dépister?" %}}
 
-Population à risque d'insuffisance rénale, définie par la présence d'au moins 1 facteur de risque parmi:
+Population à risque d'insuffisance rénale chronique, définie par la présence d'au moins un facteur de risque parmi:
 
 - [Diabète type 2]({{< relref "diabete-type-2.md" >}}) ou [type 1]({{< relref "diabete-type-1.md" >}})
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
@@ -128,7 +128,7 @@ Population à risque d'insuffisance rénale, définie par la présence d'au moin
 
 {{%info%}}
 
-- Créatininémie avec DFGe selon {{< scores/ckd-epi >}}
+- Créatininémie avec DFG selon {{< scores/ckd-epi >}}
 - Albuminurie sur échantillon (Albuminurie/créatininurie ou A/C)  
 {{%class%}}Recueil à tout moment de la journée (de préférence le matin).{{%/class%}}
 {{%/info%}}
@@ -137,12 +137,14 @@ En cas d'anomalie (hématurie, protéinurie, DFGe < 60), le bilan doit être **r
 
 ### Suivi par un néphrologue
 
+Indications au suivi de la maladie rénale chronique par un néphrologue:
+
 - Immédiat  
   - Glomérulonéphrite rapidement progressive
   - Insuffisance rénale aiguë
 - Rapide
   - Lithiase, hydronéphrose, tumeur
-  - HTA réfractaire
+  - Hypertension artérielle réfractaire
   - Syndrome néphrotique, œdèmes, hématurie, signes extra-rénaux
 
 Le recours au néphrologue est recommandé en cas de doute sur la nature de la maladie rénale ou des antécédents familiaux.
@@ -150,7 +152,7 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 {{%/collapse%}}
 {{%collapse "Clinique" %}}
 
-### Interrogatoire
+### 1) Interrogatoire
 
 - Antécédents personnels et familiaux de maladie rénale ou urinaire
 - Antécédents cardiovasculaires et FRCV (hypertension, diabète, tabagisme, dyslipidémie, obésité)
@@ -164,7 +166,9 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
     Phytothérapie, herbes chinoises.
 - Résultats antérieurs de créatininémie et analyses urinaires
 
-### Évaluer le stade la maladie rénale chronique et l'albuminurie
+### 2) Évaluer le stade de la maladie rénale chronique et l'albuminurie
+
+Stades de l'insuffisance rénale chronique selon le débit de filtration glomérulaire et de l'albuminurie.
 
 {{< table title="Stades de la maladie rénale chronique selon KDIGO 2012" >}}
 | Stade | DFGe          | Définition    |
@@ -191,7 +195,7 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 
 **NB.** Faux positifs pour une albuminurie/protéinurie: infection urinaire, fièvre, insuffisance cardiaque, protéinurie orthostatique, sport intense dans les 24h, menstruations, AINS, alimentation riche en protéines.
 
-### Examen clinique
+### 3) Examen clinique
 
 Recherche de signes étiologiques et du retentissement de la maladie rénale:
 
@@ -205,16 +209,16 @@ Recherche de signes étiologiques et du retentissement de la maladie rénale:
 - Stade avancé: syndrome urémique  
   Fatigue, dyspnée, anorexie, nausées, vomissements, prurit, syndrome des jambes sans repos, crampes nocturnes, nycturie, troubles cognitifs, somnolence, hémorragies, troubles endocriniens, hypertension sévère.
 
-### Critères pour apprécier l'évolutivité de la MRC
+### 4) Critères pour apprécier l'évolutivité de la MRC
 
-Considérée comme évolutive si présence de facteur ci-dessous (déclin annuel rapide du DFG, différence entre 2 annnées - calculé par DFGe année n – DFGe année n+1)
+La maladie rénale est considérée comme évolutive si présence de facteur ci-dessous (déclin annuel rapide du DFG, différence entre 2 annnées - calculé par DFGe année n – DFGe année n+1)
 
 - {{%class%}}Physiologique si < 2 mL/min/1,73m²/an{{%/class%}}
 - {{%class%}}Modéré si ≥ 2 et < 5{{%/class%}}
 - [Score KFRE > 3% à 5 ans](https://kidneyfailurerisk.com/)
 - **Déclin rapide** si variation annuelle du DFG ≥ -5 mL/min/1,73m²
 - Présence d'une albuminurie (surtout si sévère > 500 mg/g)
-- HTA non contrôlée
+- Hypertension artérielle non contrôlée
 
 Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologique.
 
@@ -252,7 +256,7 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
 
 **Objectifs du traitement:** traiter la maladie causale, ralentir la progression de la maladie, prévenir le risque cardiovasculaire et les complications de la MRC.
 
-Éléments vitaux de la prise en charge d'une atteinte de la fonction rénale:
+Éléments vitaux de la prise en charge de l'insuffisance rénale chronique:
 
 - [ALD 19]({{< relref "affection-longue-duree.md" >}})
 - Suivi par le généraliste possible si:  

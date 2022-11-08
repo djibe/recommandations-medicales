@@ -1,6 +1,6 @@
 +++
 title = "Infections urinaires communautaires : cystite, pyélonéphrite et infection urinaire masculine"
-titleSeo = "Infection urinaire cystite pyélonéphrite"
+titleSeo = "Infections urinaires cystite pyélonéphrite"
 prefix = "les "
 description = "Recommandations pour la prise en charges des infections urinaires: colonisation urinaire, cystite,  pyélonéphrite et infection urinaire masculine ..."
 synonyms = []

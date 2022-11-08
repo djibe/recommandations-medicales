@@ -7,25 +7,24 @@ synonyms = ["Eczéma atopique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-02T17:43:41+02:00
 publishdate = "2021-11-29"
-lastmod = "2022-04-27"
+lastmod = "2022-11-08"
 specialites = ["dermatologie"]
-annees = "2017"
-sources = ["SFDermato", "CEDEF"]
+annees = "2020"
+sources = ["EADV", "SFDermato", "CEDEF"]
 tags = ["allergie", "prurit"]
-anglais = ["Atopic dermatitis"]
+anglais = ["Atopic dermatitis (AD)"]
 sctid = "24079001"
 flowchart = true
 image = true
 imageSrc = "Photo de Care_SMC sur Foter.com / CC BY-ND"
-todo = "A lire, CEDEF 2021, préparations CHRU, Impétiginisation"
+todo = "préparations CHRU, impétiginisation"
 +++
 
 {{%article-summary%}}
 
-- Émollients quotidiens (préparations détaillées dans *Traitement de fond*)
-- Poussée: {{< modal-btn modal-dc >}}dermocorticoïde le soir{{< /modal-btn >}} jusqu'à disparition de l'inflammation puis arrêt brutal
-- Lutte contre les facteurs favorisants
-- DA sévère: observance, suivi dermatologique, École de l'atopie
+- Traitement de fond de la dermatite atopique: Émollients quotidiens (préparations détaillées dans *Traitement de fond*) et éviction des facteurs favorisants
+- Prise en charge de la poussée d'eczéma: {{< modal-btn modal-dc >}}dermocorticoïde le soir{{< /modal-btn >}} jusqu'à disparition de l'inflammation puis arrêt brutal
+- Dermatite atopique sévère: contrôle de l'observance, suivi dermatologique spécialisé et École de l'atopie
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -65,11 +64,17 @@ Autres pathologies eczématiformes:
 
 ### Abréviations
 
+CEDEF
+: Collège des enseignants de dermatologie de France
+
 DA
 : dermatite atopique (ex eczéma atopique)
 
 DC
 : dermocorticoïde
+
+EADV
+: {{%lang%}}European Academy of Dermatology and Venereology{{%/lang%}}
 
 SCORAD
 : {{%lang%}}SCORing Atopic Dermatitis{{%/lang%}}
@@ -82,8 +87,8 @@ Dermatite atopique sévère: [score SCORAD](https://www.mdapp.co/scoring-atopic-
 
 ### Critères diagnostiques de Williams (*US Working Party 1994*)
 
-- Prurit  
-ou troubles du sommeil chez le nourrisson
+- [Prurit](/tags/prurit/)  
+  ou troubles du sommeil chez le nourrisson
 - et ≥ 3 critères parmi:
   - Début avant 2 ans
   - Antécédent de lésions des convexités
@@ -95,23 +100,24 @@ ou troubles du sommeil chez le nourrisson
 
 Le diagnostic est clinique:
 
-- Dermatose vésiculeuse prurigineuse récidivante avec atteinte privilégiée des plis de flexion (*UK Working Party*)  
-Vésicules rarement visibles remplacées par *suintement* et *croûtes*.
+- Dermatose vésiculeuse prurigineuse récidivante avec atteinte privilégiée des plis de flexion (*UK Working Party*)
+  - Lésions élémentaires de l'eczéma aigu: œdème, érythème, vésicules.
+  - Vésicules rarement visibles remplacées par *suintement* et *croûtes*.
 - Les lésions sont aiguës, mal limitées, érythémateuses, suintantes puis croûteuses
 - Lichénification si grattage
 - Interrogatoire policier pour éliminer un facteur aggravant allergique
 - Terrain atopique (70%)  
-Allergie alimentaire, asthme du nourrisson, antécédents familiaux atopiques (allergie alimentaire, asthme, DA, rhinite allergique).
+  Allergie alimentaire, asthme du nourrisson, antécédents familiaux atopiques (allergie alimentaire, asthme, DA, rhinite allergique).
 - Débutant dès le bas âge
 - Évolution par poussées avec intervalles libres (xérose persistante)
 - Respect la région médio-faciale (nez ++)
 - Signe de Dennie-Morgan: double pli sous-palpébral
 - Facteurs favorisants  
-Irritants: savon, détergents, tissus rêches, chaleur, sueur, air sec.
+  Irritants: savon, détergents, tissus rêches, chaleur, sueur, air sec.
 
 **NB.** Les vésicules ne sont qu'exceptionnellement visibles macroscopiquement.
 
-### Aspect selon l'âge
+### Aspect de l'eczéma selon l'âge
 
 #### Premières semaines de vie
 
@@ -136,39 +142,39 @@ Atteinte visage et cou par érythème caractéristique. Parfois aspect érythrod
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Aucun examen dans la plupart des cas.
+Aucun examen n'est nécessaire devant un tableau de dermatite atopique dans la plupart des cas.
 
 ### Bilan allergologique
 
-Indications du bilan allergologique:
+Indications au bilan allergologique:
 
 - Suspicion d'allergie (alimentaire, environnement)
 - DA avec échec au traitement adapté bien conduit (même chez nourrissons en allaitement maternel exclusif)
 - DA avec stagnation ou cassure de la croissance staturo-pondérale
 - DA avec signes évocateurs d'allergie alimentaire  
-Après ingestion: syndrome oral, asthme, rhinite, urticaire, angio-œdème, vomissements, diarrhée.
+  Après ingestion: syndrome oral, asthme, rhinite, urticaire, angio-œdème, vomissements, diarrhée.
 - DA avec signes évocateurs d'allergie de contact  
-Eczéma localisé en zone inhabituelle (siège, paumes, plantes)
+  Eczéma localisé en zone inhabituelle (siège, paumes, plantes)
 - Autres  
-RGO, pleurs, coliques résistantes, antécédents familiaux d'atopie sévère, apparition précoce avant 3 mois.
+  RGO, pleurs, coliques résistantes, antécédents familiaux d'atopie sévère, apparition précoce avant 3 mois.
 
 {{% /collapse %}}
 {{%collapse "Traitement de fond de la dermatite atopique" %}}
 
 Le traitement est symptomatique avec lutte contre la xérose cutanée en dehors des poussées.
 
-### Émollients
+### Émollients remboursés
 
 Application 1 à 2 fois/j au long cours en couche épaisse (doubler en temps froid et sec):
 
 - Niveau 1  
-[Glycérol/Vaseline/Paraffine 15%/8%/2% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62395668&typedoc=R).
+  [Glycérol/Vaseline/Paraffine 15%/8%/2% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62395668&typedoc=R).
 - Niveau 2: préparation*  
-Glycérolé d'amidon 35 g + Cold Cream Fluide 300 mL sur tout le corps (*CHRU Lille*)
+  Glycérolé d'amidon 35 g + Cold Cream Fluide 300 mL sur tout le corps (*CHRU Lille*)
 - Niveau 3: Cérat de Galien ou préparation*:  
-Cire blanche 26 g + Huile de paraffine 107 g + Eau stérile 66 g + Borate de sodium 1 g (*CHRU Lille*)
+  Cire blanche 26 g + Huile de paraffine 107 g + Eau stérile 66 g + Borate de sodium 1 g (*CHRU Lille*)
 - Niveau 4  
-Blanc de baleine synthétique 11,75 g + Cire blanche d'abeille 13,5 g + Huile paraffine 63,25 g (*CHRU Lille*)
+  Blanc de baleine synthétique 11,75 g + Cire blanche d'abeille 13,5 g + Huile paraffine 63,25 g (*CHRU Lille*)
 - Nourrisson: 150-200 g/sem
 
 Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d'émollient.
@@ -179,8 +185,8 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
 
 - Éviter les facteurs favorisants  
   - Stress, détergents, savons, laine. Préférer coton, soie, polyesters à fibres fines.
-  - Bain court quotidien ou douche avec température tiède, pains ou gels surgras sans savon
-  - Sécher en  tamponnant plutôt que frottant
+  - Bain court quotidien ou 1j/2 ou douche avec température tiède, pains ou gels surgras sans savon
+  - Sécher en tamponnant plutôt que frottant
   - Pas d'intérêt de lessive spécifique
   - Ongles courts
 - Arrêt du tabac
@@ -195,10 +201,10 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
   - Allergie à l'œuf associée: avis spécialisé avant grippe ou fièvre jaune
   - Éviter en poussée sévère
 - Éviter les animaux domestiques
-- Encourager l'allaitement maternel exclusif ≥ 3 mois
+- Encourager l'allaitement maternel exclusif +3 mois
 - Acupuncture, homéopathie, phytothérapie déconseillées par la *SFD*, pas d'efficacité des eaux thermales
 
-**NB.** Les anti-histaminiques ont << un intérêt très limité dans la dermatite atopique >> (Pr D. Staumont, dermato-info) car sans efficacité sur le prurit.
+**NB.** Les anti-histaminiques ont << un intérêt très limité dans la dermatite atopique >> (Pr D. Staumont, dermato-info) car sans efficacité sur le prurit. En visée sédative, recours à l'hydroxyzine.
 
 ### Dermatite atopique sévère
 
@@ -255,14 +261,14 @@ graph TB
 {{%sources%}}
 
 - [Staumont D. la dermatite atopique. dermato-info. 29/05/2021.](https://dermato-info.fr/fr/les-maladies-de-la-peau/la-dermatite-atopique)
+- [Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéomuqueuses chez l'enfant et l'adulte. urticaire, dermatites atopique et de contact. Item 187. 2021.](https://cedef.org/enseignement)
 - Prescrire Redaction. Eczéma atopique des nourrissons. La Revue Prescrire. Octobre 2017.
-- [CEDEF, Staumont D. Dermatite atopique. Item 163 UE 7. 2017.](https://undf.cedef.org/fr/document/Hypersensibilit%C3%A9s-et-allergies-cutan%C3%A9o-muqueuses-chez-l%E2%80%99enfant-et-l%E2%80%99adulte)
+- [Collège des enseignants de dermatologie de France (CEDEF), Staumont D. Dermatite atopique. Item 163 UE 7. 2017.](https://undf.cedef.org/fr/document/Hypersensibilit%C3%A9s-et-allergies-cutan%C3%A9o-muqueuses-chez-l%E2%80%99enfant-et-l%E2%80%99adulte)
 - [SFDermato. Prise en charge de la dermatite atopique de l'enfant. Ann Dermatol Venereol. 2005. (PDF)](https://www.sfdermato.org/upload/recommandations/da-court-21929906693b437d6f4315bef48d1518.pdf)
 
 ### À lire
 
-- [Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéomuqueuses chez l'enfant et l'adulte. urticaire, dermatites atopique et de contact. Item 187. 2021.](https://cedef.org/enseignement)
-- [Wollenberg A et al; European Task Force on Atopic Dermatitis/EADV Eczema Task Force. ETFAD/EADV Eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children. J Eur Acad Dermatol Venereol. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16892)
+[Wollenberg A et al; European Task Force on Atopic Dermatitis/EADV Eczema Task Force. ETFAD/EADV Eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children. J Eur Acad Dermatol Venereol. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16892)
 
 {{%/sources%}}
 {{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}

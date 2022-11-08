@@ -20,22 +20,24 @@ imageSrc = "Injurymap, CC BY 4.0, via Wikimedia Commons"
 
 {{%article-summary%}}
 
-- Rechercher des arguments neurologiques, métaboliques et auto-immuns
-- Talonnettes, contention, kiné, éviter debout prolongé
+- Devant un aspect d'enthésopathie calcanéenne: rechercher des arguments neurologiques, métaboliques et auto-immuns
+- Prise en charge de l'épine calcanéenne: talonnettes, contention, kinésithérapie, éviter la station debout prolongée
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Enthésopathie calcanéenne
-: Communément << épine calcanéenne >>, enthésopathie mécanique, secondaire à des microtraumatismes répétés sur l'insertion calcanéenne de l'aponévrose plantaire. Une extension de l'inflammation donne souvent une fasciite plantaire associée.
+: Communément << épine calcanéenne >>, il s'agit d'une enthésopathie plantaire mécanique, secondaire à des microtraumatismes répétés sur l'insertion calcanéenne de l'aponévrose plantaire. Une extension de l'inflammation donne souvent une fasciite plantaire associée.
 
-### Facteurs de risque
+### Facteurs de risque d'épine calcanéenne
 
-- Sport  
-  Course à pied, basket-ball.
+Situations à risque augmenté d'enthésopathie calcanéenne:
+
+- Sport: course à pied, basket-ball
 - Surpoids
 - Troubles de statique du pied
 - Âge
+{.list-group}
 
 {{%/collapse%}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -57,7 +59,8 @@ Diagnostic différentiel de symptômes évocateurs de l'épine calcanéenne:
 {{%/collapse%}}
 {{%collapse "Clinique" %}}
 
-Talalgie plantaire. Les douleurs surviennent souvent dès le lever puis s'améliorent avec récurrence en fin de journée. Parfois irradiations plantaires. Atteinte souvent bilatérale.
+Talalgie plantaire (douleurs plantaires). Les douleurs surviennent souvent dès le lever puis s'améliorent avec récurrence en fin de journée. Parfois irradiations plantaires.  
+L'atteinte est souvent **bilatérale**.
 
 ### Interrogatoire
 
@@ -78,7 +81,7 @@ Talalgie plantaire. Les douleurs surviennent souvent dès le lever puis s'améli
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Bilan ciblé de première intention devant une épine calcanéenne.
+Bilan ciblé de première intention devant un tableau clinique d'épine calcanéenne.
 
 ### Radiographies du talon de profil
 
@@ -89,9 +92,9 @@ Recherche d'enthésophyte calcanéen (épine) et élimine une lésion osseuse ca
 
 En cas de poussées récurrentes: uricémie, glycémie à jeun.
 
-### Autres, selon la clinique
+### Autres examens, selon la clinique
 
-#### Échographie ± doppler veineux
+#### Échographie voire doppler veineux
 
 Élimine une bursite sous-calcanéenne ou tendinopathie.  
 Épaississement de l'aponévrose plantaire.
@@ -104,7 +107,7 @@ Examens de 2<sup>e</sup> intention:
 {{%/collapse%}}
 {{%collapse "Traitement" %}}
 
-Prise en charge recommandée pour l'épine calcanéenne:
+Prise en charge recommandée de l'épine calcanéenne:
 
 - Repos
 - Chaussures à talon, semelle souple ou talonnette amortissante  
@@ -119,7 +122,7 @@ Prise en charge recommandée pour l'épine calcanéenne:
 - AINS
 - Semelles orthopédiques si trouble de la statique plantaire
 
-En cas de persistance: orthèse plantaire voire infiltrations de corticoïdes.
+En cas de persistance des douleurs plantaires: avis d'un pédicure-podologue pour la confection d'orthèses plantaires voire infiltrations de corticoïdes (rhumatologue).
 
 {{%/collapse%}}
 {{%sources%}}

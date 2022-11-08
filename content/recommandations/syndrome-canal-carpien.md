@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-14T18:30:29+02:00"
 publishdate = "2020-07-14"
-lastmod = "2022-07-16"
+lastmod = "2022-11-07"
 specialites = ["rhumatologie"]
 annees = "2013"
 sources = ["HAS", "Ameli"]
@@ -23,10 +23,10 @@ todo = "rec maladie pro"
 
 {{%article-summary%}}
 
-- Évoquer une [acromégalie]({{< relref "acromegalie.md" >}}) ou une Maladie professionnelle
-- Signes de gravité: déficit moteur de flexion du pouce, sensitif du dermatome et amyotrophie
-- Pas de bilan et orthèse seule en première intention
-- Guérison quasi systématique après la grossesse
+- Devant un tableau de syndrome du canal carpien, évoquer une [acromégalie]({{< relref "acromegalie.md" >}}) et une Maladie professionnelle
+- Signes de gravité du syndrome du canal carpien: déficit moteur de flexion du pouce, sensitif du dermatome et amyotrophie
+- Pas de bilan et prise en charge du canal carpien par une orthèse seule en première intention
+- La guérison est quasi systématique en cas de survenue pendant la grossesse
 - [Brochure patient (PDF)](https://www.ameli.fr/sites/default/files/Documents/5099/document/syndrome-canal-carpien_assurance-maladie.pdf)
 
 {{%/article-summary%}}
@@ -35,10 +35,12 @@ todo = "rec maladie pro"
 Syndrome du canal carpien (SCC)
 : Compression du *nerf médian*  lors de son passage sous le *ligament annulaire antérieur du carpe*.  
 L'atteinte est le plus souvent unilatérale, d'apparition progressive et féminine (65%).
-: Trouble musculo-squelettique le plus fréquente à l'origine de troubles de la sensibilité des 3 premiers doigts et à la moitié externe du 4<sup>e</sup> doigt à la face palmaire et à la face dorsale aux 2 dernières phalanges des 3 premiers doigts et à la moitié externe du 4<sup>e</sup> doigt.
-: Parfois décrit par le malade comme atteignant toute la main ou forme atypique avec douleurs ascendantes de l'avant-bras (différencier des douleurs descendantes des NCB).
+: Le syndrome du canal carpien est le trouble musculo-squelettique le plus fréquent à l'origine de troubles de la sensibilité des 3 premiers doigts et à la moitié externe du 4<sup>e</sup> doigt à la face palmaire et à la face dorsale aux 2 dernières phalanges des 3 premiers doigts et à la moitié externe du 4<sup>e</sup> doigt.
+: Il est parfois décrit par le malade comme atteignant toute la main ou d'une forme atypique avec douleurs ascendantes de l'avant-bras (différencier des douleurs descendantes des NCB).
 
-### Étiologie
+### Étiologie du syndrome du canal carpien
+
+Pathologies à l'origine du tableau clinique:
 
 - Idiopathique le plus souvent
 - Maladie professionnelle
@@ -81,6 +83,8 @@ TMS
 
 ### Signes de gravité devant un syndrome du canal carpien
 
+Symptômes nécessitant des examens en semi-urgence:
+
 - Déficit moteur de flexion du pouce
 - Déficit sensitif du dermatome
 - Amyotrophie
@@ -104,7 +108,7 @@ TMS
 - Signe de Mac Murthy-Durkan  
   Paresthésies du nerf médian lors de la pression du poignet face palmaire.
 - Signe de Tinel  
-  Idem lors de percussion du poignet.
+  Paresthésies du nerf médian lors de la percussion du poignet.
 - Test de Phalen  
   Avant-bras vertical, flexion maximale du poignet pendant une minute déclenche des paresthésies du nerf médian.
 - Examen de sensibilité au niveau de la pulpe index  
@@ -123,7 +127,7 @@ Si survient pendant la grossesse, 50% guérison à 1 an.
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Diagnostic différentiel d'un syndrome du canal carpien:
+Autres pathologies à étayer devant un tableau de syndrome du canal carpien:
 
 - Atteintes radiculaires C6-C7
 - Syndrome de la traversée thoraco-brachiale
@@ -141,17 +145,14 @@ Aucun examen complémentaire n'est recommandé en attente purement sensitive du 
 
 ### Électromyogramme (EMG)
 
-Recommandé devant un tableau de canal carpien si:
-
-- une chirurgie envisagée (preuve médico-légale)
-- doute diagnostique
+L'électromyogramme est recommandé devant un tableau de syndrome du canal carpien si une chirurgie est envisagée (preuve médico-légale) ou en cas de doute diagnostique.
 
 L'EMG est obligatoire pour la reconnaissance en **maladie professionnelle**.  
 La **perte axonale** est le facteur pronostic essentiel.
 
 ### Échographie
 
-Permet l'analyse du nerf médian et des structures anatomiques. Mieux tolérée et moins coûteuse que l'EMG.  
+L'échographie permet l'analyse du nerf médian et des structures anatomiques. Mieux tolérée et moins coûteuse que l'EMG.  
 Elle ne permet pas d'évaluer le type d'atteinte fonctionnelle.
 
 ### Autres examens
@@ -161,14 +162,14 @@ Radiographies, scanner, IRM. Contribuent en cas de doute sur une pathologie seco
 {{% /collapse %}}
 {{%collapse "Traitement du canal carpien idiopathique" %}}
 
-Le traitement de première intention du syndrome du canal carpien est médical.
+La prise en charge du syndrome du canal carpien de première intention est médicale.
 
 **NB. Aucun intérêt des AINS**.
 
 ### Orthèse de poignet
 
 **Attelle nocturne**, en position neutre pendant 3 mois max (*Ameli*).  
-Se limiter à l'orthèse chez la femme enceinte.
+Se limiter au traitement par une orthèse chez la femme enceinte.
 
 ### Infiltrations locales de corticoïdes
 
@@ -176,17 +177,20 @@ Infiltrations locales de méthylprednisolone.
 Efficace sous 4h, délai entre les 2 injections de 3 à 6 mois (*Ameli*).  
 **Essayer une seule infiltration selon *Prescrire***.
 
-### Adaptation du poste de travail et Maladie professionnelle
+### Adaptation du poste de travail et Maladie professionnelle à l'origine d'un syndrome du canal carpien
 
-Rapidement prendre l'avis du médecin du travail pour l'adaptation du poste de travail.
+Prendre rapidement l'avis du médecin du travail pour l'adaptation du poste de travail.
 
-[Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 57](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2057).
+[Reconnaissance possible du syndrome du canal carpien en Maladie professionnelle dans le cadre du Tableau 57](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2057).
 
-### Chirurgie
+### Chirurgie du canal carpien
 
-En cas d'échecs répétés des traitements fonctionnels ou si syndrome grave (déficit sensitif et/ou moteur).
+Indications à la chirurgie pour syndrome du canal carpien:
 
-Section du ligament annulaire antérieur du carpe en **chirurgie ambulatoire**.  
+- Échecs répétés des traitements fonctionnels (orthèse, infiltrations)
+- Syndrome du canal carpien grave (déficit sensitif et/ou moteur)
+
+Technique chirurgicale par section du ligament annulaire antérieur du carpe en **chirurgie ambulatoire**.  
 Diminution des paresthésies et douleurs dès le lendemain de l'intervention, persistance possible plusieurs mois. L'amyotrophie peut persister.
 
 #### Complications de la chirurgie du canal carpien
@@ -206,7 +210,7 @@ Prise en charge spécialisée.
 
 ### Traitement pendant la grossesse
 
-Traitement limité au paracétamol et à l'orthèse pendant la grossesse.
+Prise en charge du canal carpien pendant la grossesse limité au paracétamol et au port d'orthèse (attelle).
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
@@ -230,7 +234,7 @@ Les fils sont retirés au bout de 15 jours à 3 semaines après l'intervention. 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show"%}}
 
-{{< mermaid title="Conduite à tenir devant un syndrome du canal carpien. Dr JB Fron d'après HAS 2013 et Ameli 2021" >}}
+{{< mermaid title="Prise en charge d'un syndrome du canal carpien. Dr JB Fron d'après HAS 2013 et Ameli 2021" >}}
 graph TD
 diagnostic["Diagnostic clinique<br>de canal carpien<br>(écho ou EMG si doute)"] --> gravite{Signes de gravité ?}
 style diagnostic stroke:#4150f5, stroke-width:1px
@@ -241,6 +245,8 @@ diagnostic -- Diagnostic différentiel --> differentiel("- Atteintes radiculaire
 
 {{% /collapse %}}
 {{%collapse "Vidéos de formation" %}}
+
+### Le signe de Tinel
 
 {{< youtube id="U8cPjPeZgFw" title="Le signe de Tinel" >}}
 
