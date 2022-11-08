@@ -146,7 +146,9 @@ Si le patient appelle au cabinet, transférer l'appel au {{<phone>}}15{{</phone>
 {{% /collapse %}}
 {{%collapse "Contre-indications à la thrombolyse" %}}
 
-### Contre-indications liées à un risque hémorragique élevé
+### Contre-indications à la thrombolyse liées à un risque hémorragique élevé
+
+Liste des contre-indications à la thrombolyse par risque hémorragique:
 
 - Trouble hémorragique significatif actuel ou au cours des six derniers mois.
 - Trouble de la coagulation connu.
@@ -164,7 +166,9 @@ Si le patient appelle au cabinet, transférer l'appel au {{<phone>}}15{{</phone>
   Insuffisance hépatique, cirrhose, hypertension portale, varices œsophagiennes, hépatite évolutive.
 - Intervention chirurgicale ou traumatismes importants au cours des 3 derniers mois.
 
-### Contre-indications en cas d'accident vasculaire cérébral aigu
+### Contre-indications à la thrombolyse en cas d'accident vasculaire cérébral aigu
+
+Liste des contre-indications à la thrombolyse par balancé bénéfice-risque défavorable:
 
 - Symptômes d'AIC apparus plus de 4h30 avant l'initiation du traitement ou dont l'heure d'apparition est inconnue et pourrait potentiellement être supérieure à 4h30.
 - Déficit neurologique mineur ou symptômes s'améliorant rapidement avant l'initiation du traitement.

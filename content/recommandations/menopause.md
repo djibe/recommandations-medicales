@@ -8,7 +8,7 @@ synonyms = ["Syndrome climatérique", "traitement hormonal substitutif THS"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
 publishdate = "2021-10-19"
-lastmod = "2022-05-03"
+lastmod = "2022-11-08"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF"]
@@ -307,6 +307,8 @@ Objectifs: amélioration de la santé, des signes climatériques, du risque card
 
 ### Contre-indications au traitement hormonal de la ménopause
 
+Contre-indications au traitement de la ménopause:
+
 - Antécédent de cancer du sein  
 Quelque soit le statut hormonal ou invasif/in situ.
 - Cancer de l'endomètre (TODO: vérifier)
@@ -332,7 +334,7 @@ Quelque soit le statut hormonal ou invasif/in situ.
 
 [Information de la patiente - GEMVI: Fiche info ménopause et THM (PDF)](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
 
-### Indications
+### Indications au THM
 
 Le THM peut être proposé en ménopause récente (< 10 ans) selon la balance bénéfices-risques individualisée:
 
@@ -351,7 +353,7 @@ Au moins jusqu'à 51 ans.
 
 Précisions: aucun effet sur l'endomètre si durée < 2 ans.
 
-### Le THM en pratique
+### Le traitement hormonal de la ménopause en pratique
 
 Recommandations pour le traitement hormonal de la ménopause (THM) en pratique:
 
@@ -481,37 +483,37 @@ const chartOptions = {
     },
     title: {text: 'Jour du traitement'}
   },
-  tooltip: {
-    x: {
-      format: 'd'
-    }
-  }
+  tooltip: { x: { format: 'd' }}
 }
 </script>
 
-### Adaptation du THM
+### Adaptation du traitement hormonal
+
+Adaptation du traitement hormonal selon les signes estrogéniques:
 
 - Signes d'hyper-estrogénie: réduire les doses  
-Mastodynies, gonflement abdominal, prise de poids, nervosité/irritabilité.
+  Mastodynies, gonflement abdominal, prise de poids, nervosité/irritabilité.
 - Signes d'hypo-estrogénie: augmenter les doses  
-Bouffées vasomotrices, sécheresse vaginale, troubles du sommeil, asthénie, frilosité, douleurs articulaires.
+  Bouffées vasomotrices, sécheresse vaginale, troubles du sommeil, asthénie, frilosité, douleurs articulaires.
 
-### Arrêt du THM
+### Arrêt du traitement hormonal
 
-- Il peut être brutal ou dégressif  
-Effet identique sur la récidive du syndrome climatérique.
-- Il peut être repris en cas de dégradation de la qualité de vie (selon la balance B-R)
-- Poursuite du suivi médical osseux et cardiovasculaire
+L'arrêt du traitement hormonal de la ménopause peut être brutal ou progressif avec un effet identique sur la récidive du syndrome climatérique.  
+Il peut être repris en cas de dégradation de la qualité de vie (selon la balance bénéfice-risque).
 
-### Découverte de masse mammaire
+Après l'arrêt du traitement hormonal, poursuivre un suivi médical osseux et cardiovasculaire rigoureux.
 
-- Suspendre le THM
+### Découverte de masse mammaire sous traitement hormonal
+
+Prise en charge d'un nodule du sein sous traitement hormonal:
+
+- Suspendre le traitement hormonal
 - Réaliser échographie mammaire + mammographie
 - Exploration habituelle du kyste (*CNGOF 2015*)
 - Reprise possible du THM si lésion bénigne ou contre-indication formelle si lésion maligne
 
 {{% /collapse %}}
-{{%collapse "Spécialités disponibles pour le THM" "show" %}}
+{{%collapse "Spécialités disponibles pour le traitement hormonal" "show" %}}
 
 {{%info%}}
 **Débuter:** estradiol transcutané 25-37,5 µg/j ou gel 0,5 mg/j  
@@ -555,7 +557,7 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
   Si < 60 ans ou ménopause moins de 10 ans.
 - Cancers: [colorectal]({{< relref "cancer-colorectal.md" >}}), du [pancréas]({{< relref "cancer-pancreas.md" >}}), de l'œsophage, de l'[estomac]({{< relref "cancer-estomac.md" >}}) et du foie
 - Démence (29-44% mais biais) surtout si [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
-- Mortalité si < 60 ans  
+- Mortalité si -60 ans  
   Effet cardiovasculaire très protecteur.
 
 #### Risques du THM
@@ -588,12 +590,12 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 {{% /collapse %}}
 {{%collapse "Information de la patiente" %}}
 
-[GEMVI: Fiche info ménopause et THM (PDF)](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
+[GEMVI: Fiche info ménopause et traitement hormonal (PDF)](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
 
 - Bénéfique sur les symptômes (bouffées vasomotrices ++) et ralentissement du vieillissement des différents tissus (ostéoporose, trophicité)
 - Réduit le risque de cancer du côlon et de fracture ostéoporotique
 - Augmentation faible du risque de cancer du sein temps-dépendant  
-Décroît après l'arrêt du traitement.
+  Décroît après l'arrêt du traitement.
 - Augmente le risque de cancer de l'ovaire
 - Avec le schéma du THM français (estrogène patch + progestérone naturelle orale), pas d'augmentation thrombo-embolique
 - Les études divergent sur les bénéfices cardiovasculaires et sur les troubles cognitifs du fait de la grande variété des traitements de la ménopause

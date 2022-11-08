@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-19T11:25:57+01:00"
 publishdate = "2021-11-23"
-lastmod = "2021-11-30"
+lastmod = "2022-11-08"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["HAS", "FFN", "SFNCM"]
@@ -17,7 +17,7 @@ sctid = "65404009"
 flowchart = true
 image = false
 imageSrc = ""
-todo = "SEO, FFN, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl..., https://www.sfncm.org/outils-education/outils/realises-par-la-sfncm"
+todo = "FFN, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl..., https://www.sfncm.org/outils-education/outils/realises-par-la-sfncm"
 +++
 
 {{%article-summary%}}
@@ -52,7 +52,7 @@ Situations et facteurs de risque de dénutrition:
 - [Cancer](/tags/cancer/)
 - Syndrome inflammatoire
 - Escarre
-- Toxicomanies
+- Toxicomanie
 - Démence et maladie dégénérative
 - Troubles de déglutition et bucco-dentaires (dont candidose)
 - Précarité
@@ -168,22 +168,24 @@ Après 60 ans, lorsque la taille n'est pas mesurable par une toise (alitement, t
 {{% /collapse %}}
 {{%collapse "Dénutrition du sujet âgé" %}}
 
-Chez l'adulte de plus de 70 ans, le dépistage doit être au moins annuel.
+{{%info%}}Chez le plus de 70 ans, le dépistage de la dénutrition doit être au moins annuel{{%/info%}}
 
 ### 1. Diagnostic de dénutrition chez le sujet âgé
 
+Diagnostic de dénutrition en cas d'association d'un critère phénotypique et d'un critère étiologique:
+
 - Critères phénotypiques
   - Perte de poids ≥ 5% en 1 mois  
-  ou ≥ 10% en 6 mois  
-  ou ≥ 10% par rapport au poids habituel avant le début de la maladie
+    ou ≥ 10% en 6 mois  
+    ou ≥ 10% par rapport au poids habituel avant le début de la maladie
   - IMC < 22
   - {{< modal-btn modal-sarcopenie >}}Sarcopénie confirmée{{< /modal-btn >}}
 - Critères étiologiques
   - Réduction de la prise alimentaire ≥ 50% pendant > 1 semaine  
-  ou toute réduction des apports pendant > 2 semaines par rapport à la consommation habituelle ou aux besoins PE
+    ou toute réduction des apports pendant > 2 semaines par rapport à la consommation habituelle ou aux besoins PE
   - Malabsorption, maldigestion
   - Situation d'agression (hypercatabolisme protéique)  
-  Pathologie aiguë, chronique évolutive ou maligne évolutive.
+    Pathologie aiguë, chronique évolutive ou maligne évolutive.
 
 {{%info%}}Si le critère étiologique disparaît (reprise de l'alimentation, guérison d'une maladie), le diagnostic de dénutrition persiste tant que persiste le critère phénotypique{{%/info%}}
 
@@ -205,18 +207,20 @@ Dénutrition sévère si ≥ 1 critère parmi:
 
 ### 1. Diagnostic de dénutrition chez l'adulte
 
+Diagnostic de dénutrition en cas d'association d'un critère phénotypique et d'un critère étiologique:
+
 - Critères phénotypiques
   - Perte de poids ≥ 5% en 1 mois  
-  ou ≥ 10% en 6 mois  
-  ou ≥ 10% par rapport au poids habituel avant le début de la maladie
+    ou ≥ 10% en 6 mois  
+    ou ≥ 10% par rapport au poids habituel avant le début de la maladie
   - IMC < 18,5
   - {{< modal-btn modal-sarcopenie >}}Réduction quantifiée de la masse et/ou de la fonction musculaires{{< /modal-btn >}}
 - Critères étiologiques
   - Réduction de la prise alimentaire ≥ 50% pendant > 1 semaine  
-  ou toute réduction des apports pendant > 2 semaines par rapport à la consommation habituelle ou aux besoins PE
+    ou toute réduction des apports pendant > 2 semaines par rapport à la consommation habituelle ou aux besoins PE
   - Malabsorption, maldigestion
   - Situation d'agression (hypercatabolisme protéique)  
-  Pathologie aiguë, chronique évolutive ou maligne évolutive.
+    Pathologie aiguë, chronique évolutive ou maligne évolutive.
 
 ### 2. Sévérité de la dénutrition chez l'adulte
 
@@ -234,23 +238,23 @@ Réévaluation à chaque consultation et minimum sous 3 mois.
 {{% /collapse %}}
 {{%collapse "Dénutrition de l'enfant" %}}
 
-Enfant < 18 ans.
-
 ### 1. Diagnostic de dénutrition chez l'enfant
+
+Diagnostic de dénutrition de l'enfant (sujet **-18 ans**) en cas d'association d'un critère phénotypique et d'un critère étiologique:
 
 - Critères phénotypiques
   - Perte de poids ≥ 5% en 1 mois  
-  ou ≥ 10% en 6 mois  
-  ou ≥ 10% par rapport au poids habituel avant le début de la maladie
+    ou ≥ 10% en 6 mois  
+    ou ≥ 10% par rapport au poids habituel avant le début de la maladie
   - IMC < courbe 18,5 kg/m² (courbes IMC IOTF [filles](https://cress-umr1153.fr/wp-content/uploads/2018/03/Courbes-IMC-filles-1-18-ans-AFPA-CRESS-Inserm-CGM-2018.pdf), [garçon](https://cress-umr1153.fr/wp-content/uploads/2018/03/Courbes-IMC-garcons-1-18-ans-AFPA-CRESS-Inserm-CGM-2018.pdf))
   - Stagnation pondérale aboutissant à un décalage du poids 2 couloirs en dessous (courbes poids IOTF [filles](https://cress-umr1153.fr/wp-content/uploads/2018/03/Courbes-Taille-et-Poids-filles-1-18-ans-AFPA-CRESS-Inserm-CGM-2018.pdf), [garçon](https://cress-umr1153.fr/wp-content/uploads/2018/03/Courbes-Taille-et-Poids-garcons-1-18-ans-AFPA-CRESS-Inserm-CGM-2018.pdf))
   - Réduction de la masse et/ou de la fonction musculaires
 - Critères étiologiques
   - Réduction de la prise alimentaire ≥ 50% pendant > 1 semaine  
-  ou toute réduction des apports pendant > 2 semaines par rapport: à la consommation alimentaire habituelle quantifiée ou aux besoins protéino-énergétiques estimés
+    ou toute réduction des apports pendant > 2 semaines par rapport: à la consommation alimentaire habituelle quantifiée ou aux besoins protéino-énergétiques estimés
   - Malabsorption, maldigestion
   - Situation d'agression (hypercatabolisme protéique)  
-  Pathologie aiguë, chronique évolutive ou maligne évolutive.
+    Pathologie aiguë, chronique évolutive ou maligne évolutive.
 
 ### 2. Sévérité de la dénutrition chez l'enfant
 
@@ -286,6 +290,8 @@ Pris en charge de la dénutrition de l'adulte:
 
 ### Compléments nutritionnels oraux (CNO)  
 
+Place des compléments alimenatires:
+
 - Objectif  
   - Minimal ou ≥ 70 ans: supplément de 400 cal/j et/ou 30 g/j de protéines
   - Maximal: 1000 kcal/j et 80 g/j de protéines
@@ -303,7 +309,7 @@ Une fois ouvert, 2h à température ambiante et 24h au réfrigérateur.
 {{% /collapse %}}
 {{%collapse "Surveillance" %}}
 
-Réévaluation de la dénutrition à chaque consultation, au moins mensuelle (trimestrielle mois chez l'adulte).
+Réévaluation de la dénutrition **à chaque consultation**, au moins mensuelle (trimestrielle mois chez l'adulte).
 
 - Poids (1/sem, même balance), IMC
 - Albuminémie max 1/mois
@@ -335,7 +341,7 @@ Réévaluation de la dénutrition à chaque consultation, au moins mensuelle (tr
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une dénutrition" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une personne à risque de dénutrition. Dr JB Fron d'après HAS/FFN 2021" >}}
+{{< mermaid title="Prise en charge d'une personne à risque de dénutrition. Dr JB Fron d'après HAS/FFN 2021" >}}
 graph TB
   fdr["<b>Personne à risque de dénutrition</b><hr>- +70 ans (dépistage annuel)<br>- Cancer<br>- Maladie inflammatoire<br>- Escarre<br>- Démence, dégénératif<br>- Troubles de déglutition et bucco-dentaires<br>- Toxicomanie<br>- Régime"]
   style fdr stroke:#4150f5, stroke-width:1px
@@ -352,7 +358,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
-{{< youtube id="1uehBQjbbFU" title="La minute RECO HAS | Lombalgie commune (Pr Éric Fontaine)" >}}
+{{< youtube id="1uehBQjbbFU" title="La minute RECO HAS | Dénutrition : pour un meilleur diagnostic (Pr Éric Fontaine)" >}}
 
 - [HAS, FFN. Diagnostic de la dénutrition chez la personne de 70 ans et plus. Recommandation de bonne pratique. Novembre 2021.](https://www.has-sante.fr/jcms/p_3165944/fr/diagnostic-de-la-denutrition-chez-la-personne-de-70-ans-et-plus)
 - Prescrire Redaction. Complémentation nutritionnelle orale chez les adultes dénutris : conditions de remboursement en France en 2020. Rev Prescrire. Mai 2020.

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-17T20:27:29+02:00"
 publishdate = "2020-07-17"
-lastmod = "2021-05-08"
+lastmod = "2022-11-08"
 specialites = ["pediatrie"]
 annees = "2015"
 sources = ["SFNeonat"]
@@ -18,16 +18,18 @@ image = false
 
 {{%article-summary%}}
 
-Vitamine K1 2 mg/0,2 mL, 1 ampoule per os à 4h, 4 jours et 4 semaines
+Supplémentation systématique en Vitamine K (K1) 2 mg/0,2 mL, 1 ampoule par voie orale à 4 heures, 4 jours et 4 semaines
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Vitamine K1
-: Elle prévient la **maladie hémorragique du nouveau-né (MHN)**, qui est maximale après la première semaine de vie et entraîne des hémorragies digestives ou des hématomes aux points de ponction.
+: La vitamine K prévient la **maladie hémorragique du nouveau-né (MHN)**, qui est maximale après la première semaine de vie et entraîne des hémorragies digestives ou des hématomes aux points de ponction.
 
 {{% /collapse %}}
 {{%collapse "Facteurs de risque de la maladie hémorragique du nouveau-né" %}}
+
+Liste des facteurs de risque de maladie hémorragique:
 
 - Prématurité
 - Asphyxie périnatale
@@ -36,22 +38,23 @@ Vitamine K1
 - Médicament chez la mère perturbant la vitamine K
 
 {{% /collapse %}}
-{{%collapse "Prévention" %}}
+{{%collapse "Prévention par la vitamine K" %}}
 
-{{%info%}}Administration à 4 heures - 4 jours - 4 semaines{{%/info%}}
+{{%info%}}Administration de vitamine K à 4 heures - 4 jours - 4 semaines{{%/info%}}
 
-**Prescrire**: 1 ampoule de vitamine K1 2 mg/0,2 mL nourrissons buvable.
+**Prescrire**: 1 ampoule de vitamine K1 2 mg/0,2 mL nourrissons buvable à 4 heures, 4 jours et 4 semaines.
 
-### Enfant né à terme
+### Supplémentation en vitamine K de l'enfant né à terme
 
-- En cas de sortie précoce de maternité (48h), la 2<sup>e</sup> ampoule peut être administrée avant la sortie
-- En allaitement artificiel, la 3<sup>e</sup> ampoule n'est pas obligatoire
+En cas de sortie précoce de maternité (48 heures), la deuxième ampoule peut être administrée avant la sortie.
 
-### Autres situations
+En cas d'allaitement artificiel, la troisième ampoule n'est pas obligatoire.
 
-La 1<sup>re</sup> ampoule doit être administrée durant la 1<sup>re</sup> heure de vie (cf. tableau ci-dessous).
+### Autres situations pour la supplémentation en vitamine K
 
-{{< table title="Rythme d'administration de la vitamine K1 en périnatal d'après SFNéonat 2015" >}}
+La première ampoule doit être administrée durant la 1<sup>re</sup> heure de vie (cf. tableau ci-dessous).
+
+{{< table title="Rythme d'administration de la vitamine K1 en périnatal d'après SFNéonat 2015. MHN = maladie hémorragique du nouveau-né" >}}
 |               | Naissance     | J3-J4      | 1 mois     |
 |---------------|:-------------:|------------|------------|
 | Né à terme    | 2 mg per os    | 2 mg per os | 2 mg per os |

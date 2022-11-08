@@ -23,18 +23,18 @@ todo = "centres réadapt vasculaire, QDV EQ-5D, association patient, https://pub
 
 {{%article-summary%}}
 
-- Dépister largement l'artériopathie par IPS: {{< modal-btn modal-depistage-prevalent >}}ciblé ≥ 55 ans{{< /modal-btn >}}, ≥ 65 ans, ≥ 50 ans avec antécédent familial ou ≥ 1 autre FRCV, claudication vasculaire, athérome, [anévrysme de l'aorte]({{< relref "anevrysme-aorte-abdominale.md" >}}), [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), {{< modal-btn modal-rcv >}}risque CV élevé{{< /modal-btn >}}...
+- Dépister largement l'artériopathie par index de pression systolique (IPS): {{< modal-btn modal-depistage-prevalent >}}ciblé +55 ans{{< /modal-btn >}}, +65 ans, +50 ans avec antécédent familial ou ≥ 1 autre FRCV, claudication vasculaire, athérome, [anévrysme de l'aorte]({{< relref "anevrysme-aorte-abdominale.md" >}}), [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}
 - La présence d'une artériopathie des membres inférieurs définit un {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}}
 - Bilan des autres localisations athéromateuses
 - Suivi par cardiologue et angiologue
-- Thérapeutique: {{< modal-btn modal-statine-intensite >}}statine{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, sevrage tabagique, clopidogrel, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
+- Prise en charge de l'AOMI: {{< modal-btn modal-statine-intensite >}}statine{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, sevrage tabagique, clopidogrel, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Artériopathie oblitérante des membres inférieurs (AOMI)
 : Obstruction athéromateuse partielle ou totale des artères des membres inférieurs, le plus souvent asymptomatique.
-: Les facteurs majeurs sont: âge, tabac, hypertension artérielle, dyslipidémie et [diabète]({{< relref "diabete-type-2.md" >}}).
+: Les facteurs majeurs d'artérite sont: âge, tabac, [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}), dyslipidémie et [diabète]({{< relref "diabete-type-2.md" >}}).
 : 3 stades: asymptomatique (20-50%), ischémie d'effort (45%, dont seulement 10-35% de claudication typique) et ischémie de repos (ou *critique*, < 5%).
 : Patients à {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} par atteinte artérielle globale:
     - Coronaropathie (50%) et infarctus du myocarde (IDM)
@@ -58,7 +58,7 @@ Blue toe syndrome
 ### Épidémiologie de l'artériopathie des membres inférieurs
 
 - **Prévalence:** 3-10%  
-15-20% après 70 ans.
+  15-20% après 70 ans.
 - À 5 ans:
   - 20% des personnes avec une claudication ont eu un AVC ou un IDM
   - 10-15% sont morts
@@ -112,6 +112,8 @@ TZD
 
 ### Chez qui dépister l'AOMI ?
 
+Sujets à haut risque de développer une artériopathie des membres inférieurs:
+
 - {{< modal-btn modal-depistage-prevalent >}}Ciblé +55 ans{{< /modal-btn >}} (*Bendermacher 2007*)
 - Suspicion clinique
   - Abolition des pouls distaux ou souffle vasculaire
@@ -120,12 +122,12 @@ TZD
   - Douleurs de repos ou plaie distale avec retard de cicatrisation
 - Patients à risque d'AOMI
   - Toute autre localisation athéromateuse connue  
-  Symptomatique ou non, coronaropathie +++.
+    Symptomatique ou non, coronaropathie +++.
   - [Anévrysme de l'aorte abdominale]({{< relref "anevrysme-aorte-abdominale.md" >}})
   - [Insuffisance rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
   - [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})
   - [Diabète]({{< relref "diabete-type-2.md" >}}) (*ESC 2019 diabetes*)  
-  Au diagnostic puis tous les 5-10 ans.
+    Au diagnostic puis tous les 5-10 ans.
 - Asymptomatique à risque d'AOMI
   - **Âge +65 ans**
   - {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé{{< /modal-btn >}}
@@ -133,7 +135,6 @@ TZD
   - Âge +50 ans avec ≥ 1 autre facteur de risque cardiovasculaire (*SFMV 2020*)
 
 > Indications au dépistage de l'AOMI selon *ESC 2017* (sauf mention contraire)
-
 {{%/info%}}
 
 Le dépistage de l'artériopathie par l'IPS est à **renouveler tous les 5 ans** ou plus souvent si situation à risque.
@@ -141,8 +142,9 @@ Le dépistage de l'artériopathie par l'IPS est à **renouveler tous les 5 ans**
 ### Comment dépister l'artériopathie oblitérante des membres inférieurs?
 
 Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se 75%, Spe 86%) et de l'*index de pression au gros orteil* (IPSGO) ≤ 0,7 (*SFMV 2020*).  
-{{%class%}}IPS = rapport PAS cheville / PAS humérale.{{%/class%}}  
-**Valeurs normales de l'IPS:** 0,91 - 1,40
+{{%class%}}IPS = rapport PAS cheville / PAS humérale.{{%/class%}}
+
+**Valeurs normales de l'IPS:** 0,91 - 1,40.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -257,7 +259,7 @@ L'ECG dépiste une coronaropathie ou un trouble du rythme associé.
 
 **Objectif de la prise en charge de l'artériopathie:** obtenir une amélioration du périmètre de marche et restaurer une qualité de vie.
 
-{{%info%}}Suivi cardiologique spécialisé, traitement systématique par statine et IEC, sevrage tabagique et mesures d'hygiène{{%/info%}}
+{{%info%}}Traitement de l'AOMI: Suivi cardiologique spécialisé, traitement systématique par statine et IEC, sevrage tabagique et mesures d'hygiène{{%/info%}}
 
 - Réadaptation vasculaire en centre voire par kinésithérapeute
 - {{< modal-btn modal-statine-intensite >}}Statine systématique{{< /modal-btn >}}

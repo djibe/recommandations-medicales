@@ -7,7 +7,7 @@ synonyms = ["Syndrome de Ménière"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-30T08:50:00+02:00"
 publishdate = "2021-03-30"
-lastmod = "2022-03-25"
+lastmod = "2022-11-08"
 specialites = ["ORL"]
 annees = "2019"
 sources = ["SFORL"]
@@ -16,13 +16,13 @@ anglais = ["Menière's disease"]
 sctid = "13445001"
 image = true
 imageSrc = "Oreille interne. Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "ttt betahistine, score AAO"
+todo = "ttt betahistine"
 +++
 
 {{%article-summary%}}
 
-- Tétrade par atteinte de l'oreille interne: vertiges, surdité/hypoacousie unilatérale, acouphènes et sensation de plénitude de l'oreille chez un sujet d'âge moyen
-- Bilan biologique et IRM pour l'avis ORL
+- Tétrade diagnostique de la Maladie de Menière par atteinte de l'oreille interne: vertiges, surdité/hypoacousie unilatérale, acouphènes et sensation de plénitude de l'oreille chez un sujet d'âge moyen
+- Examens de la suspicion de Maladie de Menière par bilan biologique et IRM cérébrale avant avis ORL spécialisé
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -30,19 +30,21 @@ todo = "ttt betahistine, score AAO"
 Maladie de Menière
 : Maladie chronique peu fréquente de l'oreille interne évoluant par crises brutales, de cause inconnue et entraînant une **surdité** toujours associée à des **vertiges** spontanés et épisodiques.  
 Elle découle de modifications de l'endolymphe, touche toutes les populations, préférentiellement les femmes (60%) et survient le plus souvent entre 20 et 50 ans.
-: Évolution de la maladie: variable et imprévisible. Avec les années, la surdité s'installe et devient moins dépendante des crises, les crises de vertiges deviennent plus rares.
+: L'évolution de la maladie est imprévisible. Avec les années, la surdité s'installe et devient moins dépendante des crises, les crises de vertiges deviennent plus rares.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-**Le diagnostic de la maladie de Menière est clinique** (critères diagnostiques *AAO-HNS*).
+**Le diagnostic de maladie de Menière est clinique** (critères diagnostiques *AAO-HNS*).
+
+{{%info%}}
 
 ### Maladie de Menière définie
 
-Le diagnostic de la maladie est certain devant l'association des 4 signes et symptômes suivants:
+Le diagnostic de maladie de Menière est certain devant l'association des 4 signes et symptômes suivants:
 
 1. Signes vestibulaires  
-  ≥ 2 crises de *vertiges* durant de 20 minutes à 12 heures (obligeant le repos au lit, voire nausées)  
+  Au moins 2 crises de *vertiges* durant de 20 minutes à 12 heures (obligeant le repos au lit, voire nausées)  
   OU crises otolithiques de Tumarkin (chute à l'emporte-pièce sans perte de connaissance initiale)
 2. Signes auditifs
     - *Surdité* neurosensorielle unilatérale fluctuante
@@ -51,6 +53,7 @@ Le diagnostic de la maladie est certain devant l'association des 4 signes et sym
 3. Autres signes otologiques homolatéraux fluctuants  
   Acouphènes (ressentis comme le plus grave symptôme) et sensation de plénitude de l'oreille.
 4. Absence d'autre cause identifiée
+{{%/info%}}
 
 ### Maladie de Menière probable
 
@@ -95,19 +98,19 @@ Pathologies donnant des symptômes similaires (hypoacousie ou surdité, vertiges
 
 - NFS, VS, CRP
 - Glycémie à jeun
-- TSH
+- [TSH](/tags/tsh/)
 - Sérologie [syphilis]({{< relref "syphilis.md" >}})
 
 ### IRM cérébrale
 
-{{%info%}}IRM de la fosse postérieure et de la charnière cervico-occipitale avec injection pour le bilan de vertiges et surdité unilatérale{{%/info%}}
+{{%info%}}IRM cérébrale de la fosse postérieure et de la charnière cervico-occipitale avec injection pour le bilan de vertiges et surdité unilatérale{{%/info%}}
 
-Bilan différentiel systématique.  
+L'IRM cérébrale pour le bilan différentiel est systématique.  
 {{%class%}}Coupes axiales et sagittales, sans et après injection de produit de contraste, avec acquisitions 3D, haute résolution pondérées T2.{{%/class%}}
 
 ### Bilan ORL
 
-La prise en charge de la maladie de Menière débute par un bilan ORL exhaustif par le spécialiste (oreille interne ++):
+La prise en charge de la maladie de Menière débute par un bilan ORL spécialisé exhaustif (oreille interne ++):
 
 - Audiométrie tonale et vocale
 - Vidéonystagmographie avec épreuve calorique calibrée
@@ -121,7 +124,7 @@ La prise en charge de la maladie de Menière débute par un bilan ORL exhaustif 
 {{%collapse "Traitement de la maladie de Menière" %}}
 
 Dans l'ensemble, le niveau de preuve de chaque traitement est faible.  
-La prise en charge thérapeutique dépend de la plainte et de la sévérité de la maladie. Réserver les traitements suppresseurs au dernier recours.
+La prise en charge dépend de la plainte et de la sévérité de la maladie de Menière. Réserver les traitements suppresseurs au dernier recours.
 
 ### Adaptation du mode de vie
 
@@ -135,9 +138,11 @@ La prise en charge thérapeutique dépend de la plainte et de la sévérité de 
 - Suivi de l'efficacité par la qualité de vie et l'*Échelle de niveau fonctionnel*
 - Soutien psychologique  
   {{%class%}}Efficacité prouvée sur la réhabilitation vestibulaire et le niveau d'anxiété.{{%/class%}}
-- Orthoptie  
+- [Orthoptie]({{< relref "bilan-orthoptique.md" >}})  
   {{%class%}}Si troubles de la vergence et du suivi oculaire.{{%/class%}}
 - Association de patients: [France Acouphènes](https://www.france-acouphenes.org/)
+- Information du patient  
+  [Document d'information du patient de l'Encyclopédie Orphanet sur La maladie de Menière. (PDF)](https://www.orpha.net/data/patho/Pub/fr/Meniere-FRfrPub10587v02.pdf)
 
 ### Traitement médical et chirurgical de la Maladie de Menière
 
@@ -145,8 +150,8 @@ Le traitement relève du spécialiste.
 
 ### Kinésithérapie de rééducation vestibulaire
 
-Vise à entraîner une compensation vestibulaire controlatérale (amélioration prouvée de la qualité de vie).  
-Ne doit pas être réalisée en période critique.
+La kinésithérapie vise à entraîner une compensation vestibulaire controlatérale (amélioration prouvée de la qualité de vie).  
+Elle est interrompue durant la période critique.
 
 ### Rééducation orthoptique
 
@@ -154,7 +159,7 @@ En cas de troubles de la vergence et du suivi oculaire.
 
 ### Réhabilitation auditive
 
-(rapport 2016 SFORL maladies pro oreille interne)
+(TODO: Rapport 2016 SFORL maladies pro oreille interne)
 
 ### Pour en savoir plus sur la Maladie de Menière
 
@@ -190,13 +195,6 @@ Principaux moyens chirurgicaux pour la prise en charge de la Maladie de Menière
 - Neurotomie vestibulaire. Destructrice, très efficace sur vertiges et crises otolithiques unilatéraux
 - Labyrinthectomie chirurgicale. Surdité profonde non appareillable avec vertiges invalidants
 - Chirurgie d'oblitération des canaux semi-circulaires
-
-{{% /collapse %}}
-{{%collapse "Information du patient" %}}
-
-[Document d'information du patient de l'Encyclopédie Orphanet sur La maladie de Menière. (PDF)](https://www.orpha.net/data/patho/Pub/fr/Meniere-FRfrPub10587v02.pdf)
-
-Association de patients: [France Acouphènes](https://www.france-acouphenes.fr/)
 
 {{% /collapse %}}
 {{%sources%}}

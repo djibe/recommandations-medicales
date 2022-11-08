@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-21T19:36:09+02:00"
 publishdate = "2022-09-07"
-lastmod = "2022-09-07"
+lastmod = "2022-11-08"
 specialites = ["ORL"]
 annees = "2017"
 sources = ["HAS", "SFORL"]
@@ -21,11 +21,11 @@ todo = "écriture SEO, vertige signes périph collège neuro"
 
 {{%article-summary%}}
 
-- Vérifier l'absence de [signe d'alerte](#signes-dalerte), ne pas manquer l'[AVC]({{< relref "accident-vasculaire-cerebral.md" >}})
-- Examen ORL pour un premier épisode, en cas de signes atypiques ou de fragilité (antécédent de traumatisme crânien ++)
-- Pas de traitement efficace sauf par manœuvres par un kiné ou ORL (surtout si vertiges invalidants, risque de chute ou de fracture)
-- Résolution spontanée dans la semaine voire le mois
-- Réévaluation systématique à 1 mois
+- Devant un tableau de vertige positionnel paroxystique bénin (VPPB), vérifier l'absence de [signe d'alerte](#signes-dalerte), ne pas manquer l'[AVC]({{< relref "accident-vasculaire-cerebral.md" >}})
+- Examen ORL pour un premier épisode de vertige positionnel, en cas de signes atypiques ou de fragilité (antécédent de traumatisme crânien ++)
+- Pas de traitement efficace des vertiges sauf par manœuvres par un kinésithérapeute ou ORL (surtout si vertiges invalidants, risque de chute ou de fracture)
+- Résolution spontanée de l'épisode de vertige positionnel paroxystique bénin dans la semaine voire le mois
+- Réévaluation systématique à 1 mois d'un épisode de VPPB
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -40,9 +40,7 @@ L'atteinte peut être bilatérale et atteindre plusieurs canaux semi-circulaires
 
 Plusieurs maladies doivent être différenciées d'un vertige positionnel (VPPB) qui a un examen sans atteinte neurologique.
 
-#### Instabilité
-
-Hypotension orthostatique
+Devant une instabilité, rechercher une hypotension orthostatique.
 
 #### Vertiges avec des signes otologiques d'origine périphérique
 
@@ -113,7 +111,7 @@ Le caractère << bénin >> nécessite des critères précis et un examen rigoure
 
 ### Interrogatoire
 
-Interrogatoire devant une suspicion de vertige positionnel paroxystique bénin:
+Rechercher les signes et symptômes du VPPB et étayer le diagnostic différentiel:
 
 - Antécédents  
   ORL, neurologiques ([migraine]({{< relref "migraine.md" >}}) 34%), infection récente, manipulations cervicales, cardiovasculaires ([HTA]({{< relref "hypertension-arterielle.md" >}}) 52%), [diabète]({{< relref "diabete-type-2.md" >}}).
@@ -122,7 +120,7 @@ Interrogatoire devant une suspicion de vertige positionnel paroxystique bénin:
 - [Vertiges](/tags/vertige/)
   - Sensation **rotatoire** avec illusion de mouvement, avec ou sans perception visuelle d'une rotation du décor
   - Transitoire
-  - Durée généralement < 1 minute, répétée plusieurs fois par jour
+  - Durée du VPPB généralement < 1 minute, répétée plusieurs fois par jour
   - Déclenchée immédiatement par un mouvement de tête
   - Reproductible dans certaines positions
   - Dominante matinale avec tendance à l'amélioration dans la journée
@@ -152,7 +150,7 @@ Interrogatoire devant une suspicion de vertige positionnel paroxystique bénin:
 
 ### Examen clinique
 
-Examen strictement normal dans l'intervalle libre.  
+Examen strictement normal dans l'intervalle libre des vertiges.  
 Adresser à l'ORL en l'absence de formation spécialisée.
 
 Manœuvre de Dix-Hallpike (se 80%, spe 70%)  
@@ -182,7 +180,7 @@ Les autres examens dépendent de l'avis de l'ORL ou de VPPB atypiques (IRM ++).
 {{%collapse "Traitement du VPPB" %}}
 
 La résolution du vertige positionnel (VPPB) spontanée survient souvent dans la semaine (30%) voire le mois mais les récidives sont très fréquentes.  
-Rechercher une autre cause quand l'épisode **dure plus d'un mois**.
+Rechercher une autre cause quand l'épisode de vertiges **dure plus d'un mois**.
 
 La plus grande part du traitement consiste en l'**information du patient**: mécanisme du VPPB et identification et compréhension des symptômes.
 
@@ -197,7 +195,7 @@ Ordonnance: Bilan-diagnostic kinésithérapique, manœuvres thérapeutiques pour
 
 ### Manœuvres de repositionnement des otolithes
 
-Les manœuvres sont indiquées en cas de vertiges prolongés, invalidants ou chez les personnes à risque de chute.  
+La prise en charge du VPPB par des manœuvres est indiquée en cas de vertiges prolongés, invalidants ou chez les personnes à risque de chute.  
 Elles peuvent aggraver transitoirement les symptômes.
 
 - VPPB du canal semi-circulaire postérieur  

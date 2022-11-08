@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = "2021-02-02T08:52:00+02:00"
 publishdate = "2021-03-10"
-lastmod = "2022-05-16"
+lastmod = "2022-11-08"
 specialites = ["medecine du sommeil"]
 annees = "2019"
 sources = ["SFRMS"]
@@ -25,14 +25,13 @@ todo = "https://pubmed.ncbi.nlm.nih.gov/19195928/"
 
 {{%article-summary%}}
 
-- 5 critères diagnostiques, examen neurologique +++
+- 5 critères diagnostiques du syndrome des jambes sans repos (SJSR, examen neurologique +++)
 - Dissociation temps de sommeil-somnolence
 - Étude de tous les diagnostics différentiels
-- Retentissement: {{< modal-btn modal-score-irls >}}IRLS{{< /modal-btn >}}, qualité de vie (sommeil, vie sociale, humeur)
-- Ferritinémie cible > 75 ng/mL
-- Conseils d'hygiène de vie
-- Traitement par palier 2 à la demande en SJSR léger
-- Avis du spécialiste pour les formes modérées à très sévères ou doute diagnostique
+- Mesurer le retentissement du syndrome des jambes sans repos: {{< modal-btn modal-score-irls >}}IRLS{{< /modal-btn >}}, qualité de vie (sommeil, vie sociale, humeur)
+- Prise en charge du du syndrome des jambes sans repos: Ferritinémie cible > 75 ng/mL et Conseils d'hygiène de vie
+- Traitement par opioïde palier 2 à la demande en cas de syndrome léger
+- Avis du spécialiste pour les formes modérées à très sévères des jambes sans repos ou de doute diagnostique
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -123,7 +122,7 @@ TDAH
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Facteurs de risque et favorisants" %}}
+{{%collapse "Facteurs de risque et facteurs favorisants" %}}
 
 ### Facteurs de risque du syndrome des jambes sans repos
 
@@ -197,6 +196,8 @@ Intérêt de laisser le patient décrire ses symptômes, ou l'enfant avec ses mo
 
 #### Symptômes du syndrome des jambes sans repos
 
+Signes et symptômes du syndrome des jambes sans repos à rechercher:
+
 - Type et sensations
   - Laisser le patient décrire avec ses mots
   - Besoin de bouger les jambes ± sensations désagréables, dysesthésies
@@ -222,7 +223,9 @@ Intérêt de laisser le patient décrire ses symptômes, ou l'enfant avec ses mo
 - Fréquence de survenue  
   Nombre d'épisodes hebdomadaires, mensuels (forme chronique persistante ou intermittente si < 2 ép./semaine).
 
-#### Retentissement
+#### Retentissement de la maladie
+
+Évaluer le retentissement:
 
 - Sommeil (3/4 perturbés avec réduction à 4,5-6h/nuit)  
   Difficultés d'endormissement et de maintien du sommeil, mouvements périodiques des membres.  
@@ -242,7 +245,7 @@ Doivent faire reconsidérer le diagnostic:
 - La tolérance de l'immobilité forcée
 - L'inefficacité initiale des agonistes dopaminergiques
 
-Une somnolence sévère doit faire rechercher une autre cause de somnolence.
+Une somnolence sévère doit faire rechercher une autre cause de troubles du sommeil.
 {{%/warning%}}
 
 Lister avec le patient:
@@ -269,8 +272,8 @@ Interrogatoire difficile: Proposer à l'entourage de filmer les épisodes.
 
 ### Échelle IRLS  
 
-{{< modal-btn modal-score-irls >}}Auto-questionnaire{{< /modal-btn >}} essentiel pour le suivi des symptômes du sjsr et de l'efficacité thérapeutique.  
-Un traitement spécifique est indiqué d'emblée pour les formes modérée à très sévères (score IRLS ≥ 11).
+{{< modal-btn modal-score-irls >}}Auto-questionnaire{{< /modal-btn >}} essentiel pour le suivi des symptômes du syndrome des jambes sans repos et de l'efficacité thérapeutique.  
+Une prise en charge spécifique est indiquée d'emblée pour les formes modérée à très sévères (score IRLS ≥ 11).
 
 {{< table title="Sévérité du syndrome des jambes sans repos selon l'échelle IRLS" >}}
 | Score | Sévérité |
@@ -283,6 +286,8 @@ Un traitement spécifique est indiqué d'emblée pour les formes modérée à tr
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
+
+Diagnostics alternatifs à étayer devant une suspicion de syndrome des jambes sans repos:
 
 - Inconfort positionnel  
   {{%class%}}Inconfort survenant assis, jambes croisées. Paresthésies systématisées améliorées au mouvement sans recrudescence vespérale.{{%/class%}}
@@ -342,7 +347,7 @@ Un traitement spécifique est indiqué d'emblée pour les formes modérée à tr
 
 ### Polysomnographie
 
-La prise en charge par PSG est limitée:
+La prise en charge par polysomnographie (PSG) est limitée:
 
 - Doute diagnostique
 - Doute sur la nécessité de traiter
@@ -355,10 +360,11 @@ La prise en charge par PSG est limitée:
 {{% /collapse %}}
 {{%collapse "Traitement du syndrome des jambes sans repos" %}}
 
+La prise en charge du syndrome des jambes sans repos associe:
+
 1. Correction des facteurs aggravants  
   Arrêter si possible ou substituer les classes suivantes: antidépresseurs (toute classe), neuroleptiques, lithium, anti-histaminiques, oxybate de sodium.
-2. Association de patients  
-  [France Ekbom](https://www.france-ekbom.fr/)
+2. Association de patients: [France Ekbom](https://www.france-ekbom.fr/)
 3. Conseils d'hygiène de vie  
   {{%class%}}Voir chapitre dédié plus bas.{{%/class%}}
 4. Correction d'une carence martiale
@@ -390,10 +396,10 @@ Recommandations de prise en charge pour tous:
 
 ### Correction d'une anémie et d'une carence martiale
 
-Traitement de première intention avec une **cible de ferritinémie > 75 ng/mL**.
+Traitement de première intention du syndrome des jambes sans repos avec une **cible de ferritinémie > 75 ng/mL**.
 
 - Supplémentation 3 mois avec contrôle à la fin du traitement
-- Supplémentation IV en HDJ en cas d'échec ou de mauvaise tolérance de la supplémentation orale
+- Supplémentation intra-veineuse en HDJ en cas d'échec ou de mauvaise tolérance de la supplémentation orale
 - Recherche étiologique en carence non évidente
 - Peut entraîner une amélioration voire la guérison
 
@@ -407,7 +413,7 @@ Si échec: fer saccharose IV (Venofer®, préféré par Prescrire®) en hôpital
 
 ### Traitement médicamenteux à la demande: antalgiques de palier 2
 
-Prise en charge par antalgique palier 2 à la demande dans les SJSR avec ferritinémie > 75 ng/mL et persistances de symptômes légers ({{< modal-btn modal-score-irls >}}score IRLS{{< /modal-btn >}} ≤ 10).
+Prise en charge par antalgique palier 2 à la demande dans les SJSR avec ferritinémie à +75 ng/mL et persistances de symptômes légers ({{< modal-btn modal-score-irls >}}score IRLS{{< /modal-btn >}} ≤ 10).
 
 Prise à la demande ou en période de recrudescence des symptômes.  
 Prendre le médicament antalgique 1 à 2 heures avant l'apparition des symptômes.
@@ -442,7 +448,7 @@ Suivi au moins annuel.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant un syndrome des jambes sans repos" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de syndrome des jambes sans repos et prise en charge par traitement médicamenteux. Dr JB Fron d'après SFRMS 2019" >}}
+{{< mermaid title="Prise en charge d'une suspicion de syndrome des jambes sans repos et traitement médicamenteux. Dr JB Fron d'après SFRMS 2019" >}}
 graph TB
   suspSJSR[Suspicion de SJSR]
   style suspSJSR stroke:#4150f5, stroke-width:1px
@@ -467,12 +473,12 @@ graph TB
 
 {{% /collapse %}}
 {{%sources%}}
-mds.28903
+
+- Prescrire Redaction. Syndrome des jambes sans repos. Prescrire. Octobre 2022.
 - [Chenini S. et al. Depressive Symptoms and Suicidal Thoughts in Restless Legs Syndrome. Mov Disord. 2022.](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28903)
-- Prescrire Redaction. Jambes sans repos : soulager sans médicament. Août 2019.
-- [Chenini S. et al. ; SFRMS. Syndrome des jambes sans repos pharmaco-résistant. Médecine du Sommeil. 2019.](https://doi.org/10.1016/j.msom.2018.10.004)
-- [Limousin N. et al. ; SFRMS. Traitement du syndrome des jambes sans repos nouvellement diagnostiqué. Médecine du Sommeil. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302449)
-- [Leclair-Visonneau L et al. ; SFRMS. Comment poser le diagnostic d'un syndrome des jambes sans repos ? Médecine du Sommeil. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302437)
+- [Chenini S. et al.; SFRMS. Syndrome des jambes sans repos pharmaco-résistant. Médecine du Sommeil. 2019.](https://doi.org/10.1016/j.msom.2018.10.004)
+- [Limousin N. et al.; SFRMS. Traitement du syndrome des jambes sans repos nouvellement diagnostiqué. Médecine du Sommeil. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302449)
+- [Leclair-Visonneau L et al.; SFRMS. Comment poser le diagnostic d'un syndrome des jambes sans repos ? Médecine du Sommeil. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302437)
 - [Silber MH. et al; Medical Advisory Board of the Willis-Ekbom Disease Foundation. Willis-Ekbom Disease Foundation revised consensus statement on the management of restless legs syndrome. Mayo Clin Proc. 2013.](https://doi.org/10.1016/j.mayocp.2013.06.016)
 - [Aurora RN. et al. Update to the AASM clinical practice guideline: “the treatment of restless legs syndrome and periodic limb movement disorder in adults—an update for 2012: practice parameters with an evidence-based systematic review and meta-analyses.” Sleep. 2012.](https://aasm.org/clinical-resources/practice-standards/practice-guidelines/)
 - [IRLSSG. 2012 revised IRLSSG diagnostic criteria for RLS](http://irlssg.org/Diagnostic-criteria)

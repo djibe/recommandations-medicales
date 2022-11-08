@@ -204,7 +204,7 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
 - Encourager l'allaitement maternel exclusif +3 mois
 - Acupuncture, homéopathie, phytothérapie déconseillées par la *SFD*, pas d'efficacité des eaux thermales
 
-**NB.** Les anti-histaminiques ont << un intérêt très limité dans la dermatite atopique >> (Pr D. Staumont, dermato-info) car sans efficacité sur le prurit. En visée sédative, recours à l'hydroxyzine.
+**NB.** Les anti-histaminiques ont << un intérêt très limité dans la dermatite atopique >> (Pr D. Staumont *dermato-info* et *EADV*) car sans efficacité sur le prurit. En visée sédative, recours à l'hydroxyzine.
 
 ### Dermatite atopique sévère
 

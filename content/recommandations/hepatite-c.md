@@ -152,7 +152,7 @@ Mesure de la charge virale systématique lorsque 2 sérologies sont positives (o
 
 > << la recherche du génotype du VHC n'est pas nécessaire >> (*AFEF*)
 
-### Bilan si diagnostic positif
+### Bilan devant une découverte d'hépatite C
 
 - Sérologie VIH  
 - Sérologie VHB: Ag Hbs, anticorps anti-HBs, anticorps anti-HBc
@@ -223,7 +223,7 @@ Prise en charge de l'hépatite C par antiviraux à action directe possible par t
 ### Antiviraux à Action Directe (AAD) de l'hépatite C
 
 {{%info%}}Epclusa® 400/100 mg 1 cp par jour pendant 12 semaines  
-ou Maviret® 3cp en 1 prise par jour, pendant le repas, pendant 8 semaines.{{%/info%}}
+ou Maviret® 3 cp en 1 prise par jour, pendant le repas, pendant 8 semaines.{{%/info%}}
 
 **Tout médecin peut prescrire les antiviraux de l'hépatite C**.  
 Mesure de la charge virale obligatoire avant de débuter le traitement.
@@ -231,9 +231,9 @@ Mesure de la charge virale obligatoire avant de débuter le traitement.
 2 schémas thérapeutiques au choix (guérison > 90%):
 
 - [Epclusa®](https://ec.europa.eu/health/documents/community-register/2020/20200825148798/anx_148798_fr.pdf) (sofosbuvir + velpastavir)  
-Epclusa® 400/100 mg 1 cp par jour pendant 12 semaines.
+  Epclusa® 400/100 mg 1 cp par jour pendant 12 semaines.
 - [Maviret®](https://ec.europa.eu/health/documents/community-register/2020/20200303147380/anx_147380_fr.pdf) (glécaprévir + pibrentasvir)  
-Maviret® 100/40 mg 3 cp en 1 prise quotidienne lors d'un repas pendant 8 semaines
+  Maviret® 100/40 mg 3 cp en 1 prise quotidienne lors d'un repas pendant 8 semaines
 
 **Effets indésirables principaux:** asthénie, céphalées, nausées d'intensité modérée, atteignant 10% des patients.
 

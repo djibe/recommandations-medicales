@@ -292,6 +292,8 @@ window.onload = () => {
   - Indications: patient ≥ 4 ans avec insulinothérapie intensifiée (pompe ou ≥ 3 injections/j) et pratiquant une ASG ≥ 3/j.
   - Prescription initiale par endocrinologue
   - 26 capteurs/an remboursés ([Freestyle Libre 2](https://www.federationdesdiabetiques.org/federation/actualites/freestyle-libre-2-c-est-officiel-le-dispositif-bientot-pris-en-charge))
+- Stylo à insuline connecté (Novopen 6, Novopen Echo Plus)  
+  1 stylo par an.
 
 > *[Ameli 2021](https://www.ameli.fr/medecin/exercice-liberal/memos/suivi/auto-surveillance-glycemique-du-patient-diabetique-systeme-freestyle-libre)*
 
