@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2022-10-07"
+lastmod = "2022-11-09"
 specialites = ["ORL"]
 annees = "2021"
 sources = ["HAS", "SPILF"]
@@ -22,21 +22,22 @@ flowchart = true
 
 - Une angine est toujours virale avant 3 ans
 - Test de diagnostic rapide (TDR) du streptocoque de 3 à 14 ans et score clinique de Mc Isaac au-delà
-- Le TDR peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si TROD angine positif, sous 7 jours calendaires >> (*[Arrêté du 13/12/21](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044483134)*)
+- Le Streptatest peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si TROD angine positif, sous 7 jours calendaires >> (*[Arrêté du 13/12/21](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044483134)*)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Angine
-: Infection amygdalienne aiguë palatine voire de l'ensemble du pharynx.  
-La majorité des infections est virale.
-: Le streptocoque β-hémolytique du groupe A (*SGA* ou *Streptococcus pyogenes*) est la 1<sup>re</sup> bactérie responsable des angines bactériennes avec un pic entre 4 et 15 ans.  
-Il est responsable de 25 à 40% des angines de l'enfant, 10 à 25% des angines de l'adulte.
+: Infection amygdalienne aiguë palatine voire de l'ensemble du pharynx. La majorité des infections est virale.
+: Le streptocoque β-hémolytique du groupe A (*SGA* ou *Streptococcus pyogenes*) est la première bactérie responsable des angines bactériennes avec un pic entre 4 et 15 ans.  
+Il est responsable de 25 à 40% des angines de l'enfant et 10 à 25% des angines de l'adulte.
 
 TDR
-: *Test de Diagnostic Rapide* du streptocoque (SGA) ou *Test de dépistage Rapide à Orientation Diagnostique* (TROD) de l'angine. Aussi appelé Streptatest®.
+: *Test de Diagnostic Rapide* du streptocoque (SGA) ou *Test de dépistage Rapide à Orientation Diagnostique* (TROD) de l'angine. Aussi appelé Streptatest®, il a une VPP de 90% et une VPN de 95% (*PAP*).
 
 ### Complications de l'angine
+
+Les complications sont locales voire générales:
 
 - Phlegmon péri-amygdalien
 - Complications infectieuses locales
@@ -52,6 +53,8 @@ TDR
 
 {{%info%}}L'aspect de l'oropharynx n'est pas prédictif de l'angine à SGA (*Collège*){{%/info%}}
 
+Signes et symptômes de l'angine:
+
 - Début brutal
 - Odynophagie intense
 - Fièvre
@@ -65,9 +68,9 @@ TDR
 Autres formes d'angine:
 
 - Angine vésiculeuse  
-  Dite herpangine par coxsackie ou VZV.
+  Dite herpangine par coxsackie virus ou virus varicelle-zona (VZV).
 - Angine pseudomembraneuse  
-  Mononucléose ou diphtérie.
+  Mononucléose infectieuse (EBV) ou diphtérie.
 - Angine gonococcique
 - Anaérobies (angine ulcéreuse dite *angine de Vincent*)  
   Éliminer agranulocytose, hémopathie/cancer.
@@ -84,6 +87,8 @@ Le TDR peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si T
 {{% /collapse %}}
 {{%collapse "Traitement de l'angine" %}}
 
+Prise en charge de l'angine:
+
 - Antalgique, antipyrétique  
   Paracétamol voire antalgique palier 2.
 - Pas d'anti-inflammatoires (AINS) ni corticoïdes
@@ -99,7 +104,7 @@ Indication à une prise en charge de l'angine par antibiotique: angine chez les 
 
 {{% info %}}Amoxicilline 1 g matin et soir pendant 6 jours{{% /info %}}
 
-Antibiothérapies alternatives:
+Antibiothérapies alternatives à partir de 15 ans:
 
 - Allergie vraie à la pénicilline
   - C2G céfuroxime-axétil 250 mg x 2/j pendant 4 jours
@@ -114,7 +119,7 @@ Antibiothérapies alternatives:
 
 {{%info%}}Amoxicilline 50 mg/kg/j en 2 prises pendant 6 jours{{%/info%}}
 
-Antibiothérapies alternatives:
+Antibiothérapies alternatives avant 15 ans:
 
 - Allergie vraie à la pénicilline
   - C3G céfpodoxime 8 mg/kg/j en 2 prises (max 400 mg/j) 5 jours
@@ -161,9 +166,9 @@ Rechercher:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Prise en charge d'angine selon le tableau clinique. Dr JB Fron d'après SPILF/HAS 2016 et HAS 2021" >}}
+{{< mermaid title="Prise en charge de l'angine selon le tableau clinique. Dr JB Fron d'après SPILF/HAS 2016 et HAS 2021" >}}
 graph TB
-  angine[Angine] --> moins3("&lt; 3 ans") --> viral(Viral)
+  angine[Angine érythémateuse<br>ou érythémato-pultacée] --> moins3("&lt; 3 ans") --> viral(Viral)
   style angine stroke:#4150f5, stroke-width:1px
     angine --> 314ans(3 à 14 ans) --> TDR(TDR) -- "Positif" --> ATB("<b>Antibiothérapie 6j</b><hr>Adulte: amoxicilline 1g x 2/j<br>Enfant: amox 25 mg/kg x 2/j")
       TDR -- Négatif --> viral
@@ -174,6 +179,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Cohen J., Cohen R.; SFP. Angine. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
 - [SPILF, HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'enfant. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/fiche_memo_rhinopharyngite_angine_enfant_durees_antibiotherapies.pdf)
 - [Lescanne E. et al. Amygdalectomie de l'enfant Actualisation 2020 de la recommandation SFORL & CFC. 2020.](https://www.sforl.org/wp-content/uploads/2021/11/Recommandation-SFORL-Amygdalectomie_2021.pdf)
 - [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)
@@ -181,7 +187,6 @@ graph TB
 
 ### À lire
 
-- [Cohen J., Cohen R.; SFP. Angine. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
 - [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. UE6 Item 146. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-146-nb.pdf)
 
 {{%/sources%}}

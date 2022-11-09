@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-10T13:36:06+02:00"
 publishdate = "2022-11-07"
-lastmod = "2022-11-07"
+lastmod = "2022-11-09"
 specialites = ["urologie"]
 annees = "2021"
 sources = ["HAS", "SPILF"]
@@ -24,18 +24,18 @@ todo = "flowchart Figure 1 et 5, revoir uroscanner p. 23, améliorer pec ECBU+, 
 
 Recommandations pour le traitement des infections urinaires communautaires de l'adulte à partir de 16 ans:
 
-- Colonisation urinaire  
+- **Colonisation urinaire**  
   Traitement uniquement pendant la grossesse et avant un geste urologique.
-- Cystite aiguë simple  
+- **Cystite aiguë simple**  
   Fosfomycine trométamol 3g dose unique.
-- Cystite aiguë à {{< modal-btn modal-fdr-complication >}}risque de complication{{< /modal-btn >}} ou infection urinaire masculine pauci-symptomatique:  
+- **Cystite aiguë à {{< modal-btn modal-fdr-complication >}}risque de complication{{< /modal-btn >}} ou infection urinaire masculine pauci-symptomatique**  
   Privilégier si possible un traitement différé adapté à l'antibiogramme.
-- Pyélonéphrite aiguë simple  
+- **Pyélonéphrite aiguë simple**  
   Vérifier les indications à l'hospitalisation, ECBU en urgence puis Ciprofloxacine 500 mg x 2/j et réadaptation avec l'antibiogramme.
-- Pyélonéphrite avec {{< modal-btn modal-fdr-complication >}}facteur de risque de complication{{< /modal-btn >}} sans signe de gravité:  
+- **Pyélonéphrite avec {{< modal-btn modal-fdr-complication >}}facteur de risque de complication{{< /modal-btn >}} sans signe de gravité**  
   Bilan biologique, uroscanner et antibiothérapie probabiliste identique à la PNA simple.
-- Grossesse
-  - BU mensuelle à partir du 4<sup>e</sup> mois (sauf antécédent d'IU pendant la grossesse, uropathie, diabète, antécédent de cystites récidivantes)
+- **Grossesse**
+  - BU mensuelle à partir du 4<sup>e</sup> mois pour toutes (ou ECBU mensuel en cas d'antécédent d'IU pendant la grossesse, uropathie, diabète, antécédent de cystites récidivantes)
   - Colonisation urinaire: antibiothérapie d'emblée adaptée et ECBU de contrôle J8-J10
   - Cystite: ECBU, antibiothérapie probabiliste puis ECBU de contrôle et mensuel
   - Pyélonéphrite: Urgences
@@ -144,7 +144,7 @@ Antibiotique de préférence suivant l'antibiogramme:
   
 ECBU de contrôle uniquement en l'absence d'amélioration à 72 heures ou récidive précoce dans les 2 semaines.
 
-Bladder-scan en suspicion de rétention aiguë d'urines.
+Bladder-scan si suspicion de rétention aiguë d'urines.
 
 ### Cystite récidivante
 
@@ -247,14 +247,13 @@ Réévaluation systématique à 72 heures.
 ECBU de contrôle uniquement en cas d'évolution défavorable après 72 heures.
 
 {{% /collapse %}}
-{{%collapse "Infections urinaires gravidiques" %}}
+{{%collapse "Infections urinaires pendant la grossesse" %}}
 
 ### Colonisation urinaire pendant la grossesse
 
 Colonisation urinaire gravidique
-: ECBU positif avec un seul germe à titre ≥ **10<sup>5</sup> UFC/mL**. Idéalement 2 ECBU positifs à une semaine d'intervalle sont requis pour le diagnostic (en pratique 1 seul est admis).
-: Dépistage par ECBU mensuel à partir du 4<sup>e</sup> mois car risque d'évolution en pyélonéphrite de 20 à 40%.  
-Dépistage alternatif possible par **BU mensuelle** (sauf IU pendant la grossesse, uropathie, diabète, antécédent de cystites récidivantes).
+: Patiente asymptomatique avec un ECBU positif avec un seul germe à titre ≥ **10<sup>5</sup> UFC/mL**. Idéalement 2 ECBU positifs à une semaine d'intervalle sont requis pour le diagnostic (en pratique 1 seul est admis).
+: Dépistage par **BU mensuelle** (ECBU en cas d'IU pendant la grossesse, uropathie, diabète, antécédent de cystites récidivantes).
 
 Prise en charge par **antibiothérapie systématique** d'emblée adaptée à l'antibiogramme:
 
