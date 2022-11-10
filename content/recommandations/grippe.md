@@ -3,35 +3,50 @@ title = "Grippe saisonnière"
 prefix = "la "
 noindex = true
 description = "Recommandations pour la prise en charge de la grippe. Indications à la vaccination et aux antiviraux, personne à risque de forme grave, grippe pendant grossesse"
-synonyms = []
+synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2022-10-21"
+lastmod = "2022-11-10"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "MinSanté"]
 tags = ["BPCO", "obesite", "prevention", "vaccin"]
 anglais = ["influenza", "flu"]
 sctid = "6142004"
-todo = "def, grippe grossesse, antiviral, vaccin grippe porcin aviaire"
+todo = "grippe grossesse, antiviral, vaccin grippe porcin aviaire"
 +++
 
 {{%article-summary%}}
 
-- Vaccination annuelle contre la grippe des personnes à risque de forme grave à partir de mi-octobre (en métropole)  
-ainsi que toutes les personnes fragiles pour la Covid-19
-- Pas de délai (voire co-injection) entre les vaccins anti-grippaux et anti-covid19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*)
+- Vaccination annuelle contre la grippe des personnes à risque de forme grave à partir de mi-octobre (en métropole)
+- Rappel couplé à la vaccination Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
+
+Grippe saisonnière
+: Maladie infectieuse fréquente très contagieuse interhumaine stricte due au virus à ARN *Myxovirus influenzae* (famille des *Orthomyxoviridae*) avec 3 types: grippe A surtout, grippe B et grippe C.
+: Le réservoir naturel de la grippe A est aviaire avec un rythme épidémique automno-hivernal.
+: La grippe entraîne un risque élevé de décompensation d'une maladie chronique.  
+Maladie cardiovasculaire, risque d'infarctus du myocarde multiplié par 6-10 dans la semaine qui suit l'infection. En cas de diabète, le risque d'admission aux Urgences et multiplié par 4.
 
 ### Complications de la grippe saisonnière
 
 - [Sinusite]({{< relref "sinusite.md" >}})
 - Otite moyenne aiguë
 - Bronchite aiguë
-- Pneumopathie (virale, pneumocoque ou *Haemophilus*)
+- Pneumopathie (grippale, pneumocoque, staphylocoque doré ou *Haemophilus*)
+- Extra-pulmonaire: myocardite, péricardite, encéphalite
+- Décompensation d'une comorbidité
+
+### Diagnostic différentiel
+
+Diagnostics à étayer devant un tableau de toux aiguë:
+
+- Bronchite ou pneumonie virale ou bactérienne (VRS, coronavirus, adénovirus, [coqueluche]({{< relref "coqueluche.md" >}}), pneumopathie)
+- Toux pneumo-allergologique: allergie, [asthme]({{< relref "asthme.md" >}})
+- Toux mécanique avec surinfection: tumeur, compression trachéale, corps étranger
 
 ### Épidémiologie de la grippe en France
 
@@ -48,35 +63,29 @@ Vaccination annuelle en octobre pour les personnes à risque de grippe grave.
 Bon de prise en charge à 100% n°850 sur Ameli pro.
 {{%/info%}}
 
-Personnes à risque de forme grave de grippe saisonnière:
+Sujets à risque de forme grave de grippe saisonnière:
 
 - +65 ans
 - Femmes enceintes
-- Asthme et [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}) (ALD 14)
-- Insuffisances respiratoires chroniques obstructives ou restrictives
-- Maladies respiratoires chroniques ne remplissant pas les critères de l'ALD mais susceptibles d'être aggravées ou décompensées par une affection grippale (asthme, bronchite chronique, bronchiectasies, hyper-réactivité bronchique)
-- Dysplasies broncho-pulmonaires
-- Mucoviscidose
-- Cardiopathies congénitales cyanogènes ou avec une HTAP et/ou une insuffisance cardiaque
-- Insuffisances cardiaques graves
-- Valvulopathies graves
-- Troubles du rythme graves justifiant un traitement au long cours
-- Maladies des coronaires
-- [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (SFMV 2020)
-- Antécédents d'[accident vasculaire cérébral]({{< relref "accident-vasculaire-cerebral.md" >}})
-- Formes graves des affections neurologiques et musculaires (dont myopathie, poliomyélite, myasthénie et maladie de Charcot)
-- Paraplégies et tétraplégies avec atteinte diaphragmatique
-- Néphropathies chroniques graves
-- Syndromes néphrotiques
-- Drépanocytoses, homozygotes et doubles hétérozygotes S/C, thalasso-drépanocytose
 - Diabètes de [type 1]({{< relref "diabete-type-1.md" >}}) et de [type 2]({{< relref "diabete-type-2.md" >}})
+- Obésité morbide (IMC ≥ 40 kg/m<sup>2</sup>)
+- Maladies respiratoires
+  - Insuffisances respiratoires chroniques obstructives ou restrictives
+  - [Asthme]({{< relref "asthme.md" >}}), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), emphysème, dilatation des bronches
+  - Mucoviscidose, silicose
+- Maladie cardiovasculaire  
+  Cardiopathies congénitale, insuffisance cardiaque, valvulopathie grave, trouble du rythme cardiaque avec traitement, coronaropathie, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), IDM, [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (SFMV 2020)
+- Maladies neurologiques et neuromusculaires  
+  Formes graves des affections neurologiques et musculaires (dont myopathie, poliomyélite, myasthénie et maladie de Charcot), paraplégies et tétraplégies avec atteinte diaphragmatique.
+- Néphropathies  
+  Néphropathies chroniques graves, syndromes néphrotiques
+- Drépanocytoses, homozygotes et doubles hétérozygotes S/C, thalasso-drépanocytose
 - Maladie hépatique chronique avec ou sans cirrhose
 - Déficits immunitaires primitifs ou acquis
   - Pathologies oncologiques et hématologiques, transplantations d'organe et de cellules souches hématopoïétiques, déficits immunitaires héréditaires
   - Maladies inflammatoires et/ou auto-immunes recevant un traitement immunosuppresseur,
   - Toute [PVVIH]({{< relref "vih-sida.md" >}})
-- Obésité morbide (IMC ≥ 40 kg/m<sup>2</sup>)
-- Personnes séjournant en SSR, EHPAD ou médico-social
+- Résident de SSR, EHPAD ou médico-social
 - Entourage des nourrissons de moins de 6 mois présentant des facteurs de risque de grippe grave: prématurés, notamment ceux porteurs de séquelles à type de broncho-dysplasie, et enfants atteints de cardiopathie congénitale, de déficit immunitaire congénital, de pathologie pulmonaire, neurologique ou neuromusculaire ou d'une affection de longue durée ainsi que l'entourage des personnes immunodéprimées.
 
 > {{< references/calendrier-vaccinal >}}
@@ -91,13 +100,25 @@ Personnes à risque de forme grave de grippe saisonnière:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-- Incubation de 2 jours. Contagieux jusqu'à 5 jours après l'apparition des signes.
-- Tableau de syndrome grippal fébrile  
-Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
+{{%info%}}L'apparition brutale d'une toux fébrile de novembre à février (durant la phase épidémique ou après exposition) est une grippe jusqu'à preuve du contraire{{%/info%}}
+
+Signes et symptômes de la grippe:
+
+- Incubation de 1 à 3 jours  
+  Contagieux 1 jour avant et jusqu'à 6 jours après l'apparition des symptômes.
+- Tableau de **syndrome grippal fébrile** pendant quelques jours  
+  Asthénie, myalgies, toux, anorexie, congestion nasale, céphalées.
+- Guérison avec asthénie et toux résiduelle plusieurs semaines
 - **Grossesse:** 3<sup>e</sup> trimestre ++, mortalité élevée chez obèse et asthmatique
-- Particularités du sujet âgé: dyspnée, confusion mentale, déshydratation, troubles digestifs
+- Sujet âgé
+  - Dyspnée, confusion mentale, déshydratation, troubles digestifs
+  - Pneumopathie post-grippale (J5-J7)
 - Enfant: somnolence, troubles digestifs
 - Immunodéprimés (greffé, SIDA): mortalité identique aux +65 ans.
+
+Signes de gravité: fièvre très élevée persistante, réapparition de la fièvre, dyspnée ou tachycardie, cyanose, convulsions fébriles, signes méningés, hypotonie ...
+
+Aucun examen complémentaire devant un tableau de grippe saisonnière non compliquée.
 
 {{%/collapse%}}
 {{%collapse "Vaccins disponibles en 2022-2023" %}}
@@ -109,7 +130,7 @@ Vaccins contre la grippe disponibles en France:
 - InfluvacTetra®
 - VaxigripTetra®
 
-La campagne de vaccination débute le 18 octobre 2022.
+La campagne de vaccination débute le <mark>18 octobre 2022</mark>.
 
 [Document CRATB d'information patient contre la grippe (PDF)](http://medqual.fr/images/PRO_2018/CAT-PATHO-IFECTIEUSE/GRIPPE/MEDCAL_GRIPPE_A3_OK_VF.pdf)
 
@@ -125,15 +146,36 @@ Chez l'adulte sain, réduit de 29% (65% chez +60 ans) le nombre de cas de syndro
 Chez le sujet vivant en établissement, la vaccination réduit la survenue de pathologie respiratoire (56%), pneumonie (53%), hospitalisation (50%), décès (68%).
 
 {{% /collapse %}}
+{{%collapse "Traitement de la grippe" %}}
+
+Prise en charge symptomatique de la grippe saisonnière non compliquée.  
+Isolement pour limiter la transmission.
+
+Contre-indications aux AINS et corticoïdes. Antitussifs et fluidifiants bronchiques inefficaces.
+
+### Traitement antiviral de la grippe
+
+{{%info%}}
+Indications au traitement antiviral de la grippe par [oseltamivir](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65545895&typedoc=R) (Tamiflu®, gén):
+
+- Personnes à risque de grippe grave (voir section plus haut) symptomatique ou en post-exposition
+- Grippe grave d'emblée
+- Grippe hospitalisée
+- Post-exposition (< 48h): comorbidités sévères, immunodéprimé, EHPAD
+{{%/info%}}
+
+L'oseltamivir doit être débuté dans les 48 heures suivant l'apparition des symptômes (même pendant la grossesse), à dose prophylactique en post-exposition.
+
+{{% /collapse %}}
 {{%sources%}}
 
+- [Ameli Médecin. Grippe : vacciner ses patients atteints de maladies chroniques est essentiel. 08/11/2022.](https://www.ameli.fr/medecin/actualites/grippe-vacciner-ses-patients-atteints-de-maladies-chroniques-est-essentiel)
 - [Ameli Médecin. Vaccination contre la grippe saisonnière : une FAQ pour répondre aux interrogations des patients. 18/10/2022.](https://www.ameli.fr/medecin/actualites/vaccination-contre-la-grippe-saisonniere-une-faq-pour-repondre-aux-interrogations-des-patients)
+- Prescrire Redaction. Grippe saisonnière. Prescrire. Août 2022.
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Vaccination antigrippale : la stratégie de la prochaine campagne annuelle réaffirmée dans le contexte de l'épidémie de COVID-19. 02/06/2020.](https://www.has-sante.fr/jcms/p_3187536/fr/vaccination-antigrippale-la-strategie-de-la-prochaine-campagne-annuelle-reaffirmee-dans-le-contexte-de-l-epidemie-de-covid-19)
 - [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe ! 13/05/2020.](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
-
-### À lire
-
-[CMIT. Grippe. UE6 Item 162. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-162-nb.pdf)
+- [CMIT. Grippe. UE6 Item 162. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-162-nb.pdf)
+- [SPILF. Prise en charge de la grippe en dehors d'une situation de pandémie en 2005. Médecine et Maladies Infectieuses. 2005.](https://www.sciencedirect.com/science/article/pii/S0399077X05002064)
 
 {{%/sources%}}

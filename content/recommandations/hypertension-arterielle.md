@@ -409,9 +409,9 @@ Hypertension résistante: avis spécialisé + RHD rappelées + ajout de spironol
   - Emballage façon pilulier
 
 {{% /collapse %}}
-{{%collapse "HTA et grossesse" %}}
+{{%collapse "Hypertension et grossesse" %}}
 
-Particularités de l'hypertension pendant la grossesse:
+Particularités de l'hypertension artérielle pendant la grossesse:
 
 - Seuil diagnostique habituel: PAS ≥ 140 mmHg et/ou PAD ≥ 90 mmHg avec brassard manuel
 - Classification différente
@@ -426,7 +426,7 @@ Particularités de l'hypertension pendant la grossesse:
   - Pré-éclampsie: HTA gestationnelle avec protéinurie ≥ 30 mg/mmol (*chapitre spécifique à venir*)
   - Hypertension anténatale non classifiée: découverte après 20 semaines de grossesse sans connaissance de valeurs pré-gestationnelles. La surveillance après 6 semaines du post-partum aide au diagnostic rétrospectif.
 - Bilan mensuel  
-BU (albuminurie si protéines +), NFS, ASAT, ALAT, créatininémie, uricémie.
+  BU (albuminurie si protéines +), NFS, ASAT, ALAT, créatininémie, uricémie.
 - Bilan étiologique
   - Échodoppler des artères utérines (après 22 SA)
   - Recherche signes de phéochromocytome

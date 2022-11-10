@@ -189,7 +189,7 @@ Il est essentiel d'apprendre à reconnaître les signes avant-coureurs des pouss
 
 ### À lire
 
-- [Bertolotti A. et al. Guidelines for the management of hidradenitis suppurativa: recommendations supported by the Centre of Evidence of the French Society of Dermatology. Br J Dermatol, 184: 963-965. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/bjd.19710)
+- [Bertolotti A. et al; Centre de preuves en dermatologie. Prise en charge de l'hidradénite suppurée. 2019. (PDF)](https://document.sfdermato.org/reco/hidrad%C3%A9nite-suppur%C3%A9e/SFD_2020-11_texte-court_prise-en-charge-de-l-hidrad%C3%A9nite-suppur%C3%A9e.pdf)
 - [SFD. recommandations Hidradénite suppurée - Arbre décisionnel. Août 2019.](https://reco.sfdermato.org/fr/recommandations-hidrad%C3%A9nite-suppur%C3%A9e)
 - [Zouboulis C. et al. European S1 guideline for the treatment of hidradenitis suppurativa/acne inversa. J Eur Acad Dermatol Venereol. 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.12966)
 - Prescrire

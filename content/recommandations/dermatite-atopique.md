@@ -7,7 +7,7 @@ synonyms = ["Eczéma atopique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-02T17:43:41+02:00
 publishdate = "2021-11-29"
-lastmod = "2022-11-08"
+lastmod = "2022-11-10"
 specialites = ["dermatologie"]
 annees = "2020"
 sources = ["EADV", "SFDermato", "CEDEF"]
@@ -16,7 +16,7 @@ anglais = ["Atopic dermatitis (AD)"]
 sctid = "24079001"
 flowchart = true
 image = true
-imageSrc = "Photo de Care_SMC sur Foter.com / CC BY-ND"
+imageSrc = "Photo d'eczéma lichénifié du dos de la main par Care_SMC sur Foter.com / CC BY-ND"
 todo = "préparations CHRU, impétiginisation"
 +++
 
@@ -165,7 +165,7 @@ Le traitement est symptomatique avec lutte contre la xérose cutanée en dehors 
 
 ### Émollients remboursés
 
-Application 1 à 2 fois/j au long cours en couche épaisse (doubler en temps froid et sec):
+Application 1 à 2 fois/j au long cours en couche épaisse (1 kg/mois chez l'adulte, prévoir 30 minutes d'application, doubler la dose par temps froid et sec):
 
 - Niveau 1  
   [Glycérol/Vaseline/Paraffine 15%/8%/2% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62395668&typedoc=R).
@@ -184,17 +184,22 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
 ### Mesures générales et Éducation thérapeutique
 
 - Éviter les facteurs favorisants  
-  - Stress, détergents, savons, laine. Préférer coton, soie, polyesters à fibres fines.
+  - Stress, détergents, savons, laine. Préférer coton, soie, polyesters à fibres fines
   - Bain court quotidien ou 1j/2 ou douche avec température tiède, pains ou gels surgras sans savon
   - Sécher en tamponnant plutôt que frottant
   - Pas d'intérêt de lessive spécifique
   - Ongles courts
+  - Rincer et hydrater après la natation
+  - Aspirateur hebdomadaire
+  - Laver la literie à 55°C tous les 10 jours, éviter les peluches non lavables
+  - Housses anti-acariens
+  - Éviter les chats
 - Arrêt du tabac
 - 19°C dans la chambre
 - Lutte contre les idées reçues  
-  Usage des DC, la DA n'est pas allergique-psychologique-infectieuse-contagieuse.
+  Usage des dermocorticoïdes, la dermatite atopique n'est pas allergique-psychologique-infectieuse-contagieuse.
 - Suivi médical régulier  
-  Courbe de croissance++
+  Courbe de croissance ++
 - Vigilance en contact avec l'herpès
 - Soutien psychologique
 - Vaccins
@@ -212,27 +217,28 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
 - Suivi médical régulier
 - [École de l'atopie](https://www.fondationeczema.org/etre-accompagne/trouver-un-expert)
 
-#### Pour en savoir plus: Traitements spécialisés de la DA sévère
+#### Pour en savoir plus: Traitements spécialisés de l'eczéma sévère
 
 - Inhibiteurs de la calcineurine
 - Photothérapie UVA ou UVB
 - Rétinoïdes
-- Ciclosporine, méthotrexate
-- Anticorps monoclonal anti-R IL-4 Dupilumab
+- Ciclosporine, [méthotrexate]({{< relref "methotrexate.md" >}})
+- Anticorps monoclonaux anti-R IL-4 dupilumab
 
 {{% /collapse %}}
-{{%collapse "Traitement des poussées" %}}
+{{%collapse "Traitement des poussées d'eczéma" %}}
 
-Traiter dès le début de la poussée:
+Traiter dès le début de la poussée d'eczéma:
 
 - Émollients quotidiens 2-4/j
-- {{< modal-btn modal-dc >}}Dermocorticoïde le soir{{< /modal-btn >}} jusqu'à disparition de l'inflammation
+- {{< modal-btn modal-dc >}}Dermocorticoïde le soir{{< /modal-btn >}} jusqu'à disparition de l'inflammation (souvent 3-5 jours)
+  - Classe selon la localisation
   - Compter le nombre de tubes
   - Arrêt brutal
   - Avis dermatologique si résistance au traitement
 - Consultation de suivi
 
-{{%warning%}}Les corticoïdes par voie orale ou injectable n'ont aucune indication dans la DA{{%/warning%}}
+{{%warning%}}Les corticoïdes par voie orale ou injectable n'ont aucune indication dans la dermatite atopique{{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Vidéos de formation" %}}
@@ -244,13 +250,13 @@ Traiter dès le début de la poussée:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de dermatite atopique et prise en charge de l'eczéma. Dr JB Fron d'après SFD 2005 et CEDEF 2017" >}}
+{{< mermaid title="Conduite à tenir devant une suspicion de dermatite atopique et prise en charge de l'eczéma. Dr JB Fron d'après EADV 2020, CEDEF 2021 et SFD 2005" >}}
 graph TB
   suspicion[Suspicion de dermatite atopique]
   style suspicion stroke:#4150f5, stroke-width:1px
-    suspicion --> criteres("<b>Critères diagnostiques</b><hr>- Prurit et &ge; 3 parmi:<br>- Début &lt; 2 ans<br>- Lésions des convexités<br>- Antécédent personnel d'asthme/rhinite allergique<br>- Xérose généralisée<br>- Lésions d'eczéma des plis (enfant)") --> diagnostic[Dermatite atopique]
+    suspicion --> criteres("<b>Critères diagnostiques</b><hr>Prurit et &ge; 3 parmi:<br>- Début &lt; 2 ans<br>- Lésions des convexités<br>- ATCD personnel d'asthme/rhinite allergique<br>- Xérose généralisée<br>- Lésions d'eczéma des plis (enfant)") --> diagnostic[Dermatite atopique]
     style diagnostic stroke:#4150f5, stroke-width:1px
-      diagnostic --> fond("- Émollients 1-2/j<br>- Éviter les facteurs favorisants<br>- Arrêt tabac<br>- Suivi clinique et croissance<br>- Soutien psychologique")
+      diagnostic --> fond("- Émollients 1-2/j (1 kg/mois)<br>- Éviter les facteurs favorisants<br>- Arrêt du tabac<br>- Suivi clinique et croissance<br>- Soutien psychologique")
         fond -- Poussée --> dc("- Dermocorticoïdes<br>- Augmenter les émollients")
           dc -. Échec .-> echecs("- Résistance au traitement<br>- DA sévère")
             echecs --> spe("- Suivi spécialisé<br>- Bilan allergologique<br>- École de l'atopie")

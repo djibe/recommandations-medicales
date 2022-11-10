@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-10-28"
+lastmod = "2022-11-09"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["EASD", "ADA", "SFD", "ESC", "HAS"]
@@ -16,7 +16,7 @@ anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | Post-IDM + diabète: simva + ezetimibe"
+todo = "dépister hyperferritinémie?, glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | Post-IDM + diabète: simva + ezetimibe"
 +++
 
 {{%article-summary%}}
@@ -253,6 +253,23 @@ window.onload = () => {
 
 {{% /collapse %}}
 {{%collapse "Dépistage des complications" %}}
+
+### Bilan biologique annuel du diabétique
+
+{{%info%}}
+Bilan à jeun pendant 12 heures:
+
+- HbA<sub>1c</sub> tous les 3 mois
+- Bilan lipidique (LDL, HDL, CT, TG)
+- NFS, ferritinémie
+- ASAT, ALAT, GGT ({{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}})
+- Créatininémie
+- Ratio albuminurie/créatininurie
+- Si HTA: ionogramme sanguin
+- Si obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme ou bas socio-éco: (NT-pro)BNP
+{{%/info%}}
+
+### Les complications du diabète à dépister
 
 {{< table title="Rythme de dépistage des complications du diabète. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
 | Appareil     | Soins                                                                                            | Source                   |

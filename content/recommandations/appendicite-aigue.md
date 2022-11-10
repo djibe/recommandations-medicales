@@ -187,7 +187,7 @@ Antibiothérapie type amoxicilline + a. clavulanique (Augmentin) ou fluoroquinol
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collard M.K. et al. Appendicite de l'adulte : recommandations pour la pratique clinique de la Société française de chirurgie digestive (SFCD) et de la Société d'imagerie abdominale et digestive (SIAD). Journal de Chirurgie Viscérale. 2021.](https://www.sciencedirect.com/science/article/abs/pii/S1878786X20304447)
+- [Collard M.K. et al. Appendicite de l'adulte : recommandations pour la pratique clinique de la Société française de chirurgie digestive (SFCD) et de la Société d'imagerie abdominale et digestive (SIAD). Journal de Chirurgie Viscérale. 2021.](https://www.sciencedirect.com/science/article/abs/pii/S1878786X20304447)
 - Collège Français de Chirurgie Générale, Viscérale et Digestive. Appendicite de l'enfant et de l'adulte. Item 351 - UE11. Chirurgie générale, viscérale et digestive. 2e édition.
 - {{< references/college-gastro >}}
 - Prescrire Redaction. Signes d'appendicite chez les enfants. Prescrire. 2021.

@@ -553,7 +553,7 @@ Cette limitation est récurrente sur les sites existants, pourtant d'une grande 
 
 ## Objectifs du Projet
 
-Le projet << Recommandations Médicales >> vise à produire un démonstrateur de plateforme informatique **permettant à tous les généralistes d'accéder rapidement aux informations médicales les plus récentes nécessaires à chaque prise en charge**.
+Le projet << Recommandations Médicales >> vise à produire un démonstrateur de plateforme informatique **permettant à tous les généralistes d'accéder rapidement aux informations médicales les plus récentes nécessaires à chaque prise en charge**.
 
 Le démonstrateur doit être **hautement interactif, simple d'emploi, gratuit et Open Source**.
 
