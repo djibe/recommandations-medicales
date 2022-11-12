@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr JG LETAROUILLY (SFR)"
 date = "2020-10-23T22:24:41+02:00"
 publishdate = "2020-10-23"
-lastmod = "2022-10-29"
+lastmod = "2022-11-12"
 specialites = ["rhumatologie"]
 annees = "2018"
 sources = ["SFRhumato", "EULAR", "ACR", "HAS"]
@@ -155,21 +155,22 @@ Les autres examens relèvent du rhumatologue.
 
 Mesures générales de prise en charge de la polyarthrite:
 
-- Anti-inflammatoires AINS  
+- Anti-inflammatoires (AINS)  
   {{%class%}}Si symptomatique, état rénal et cardio-vasculaire correct. En complément du traitement de fond.{{%/class%}}
 - **Éducation thérapeutique**  
   {{%class%}}Gérer la douleur, handicap, observance, maintien de l'activité professionnelle.{{%/class%}}
 - **Suivi bucco-dentaire rigoureux**
+- Correction des facteurs de risque cardiovasculaire
+  - Arrêt du tabac
+  - Risque {{< scores/heartscore >}}
+  - Activité physique régulière
+  - Correction d'un surpoids
+  - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
+  - Échodoppler des TSA
 - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md">}})  
   - dTP tous les 10 ans
   - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque tous les 5 ans{{< /modal-btn >}}
 - Mise à jour des dépistages des cancers
-- Arrêt du tabac
-- Correction des facteurs de risque cardiovasculaire
-  - Risque {{< scores/heartscore >}}
-  - Activité physique régulière
-  - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-  - Échodoppler des TSA
 - Association de patients: [AFPric](https://www.polyarthrite.org/), [ANDAR](http://www.polyarthrite-andar.com/)
 - Proposer un soutien psychologique
 - Accompagnement socioprofessionnel
@@ -181,6 +182,8 @@ Mesures générales de prise en charge de la polyarthrite:
 - Voire chirurgie
 - [ALD 22]({{< relref "affection-longue-duree.md" >}}): Polyarthrite évolutive  
   {{%class%}}Indication: Polyarthrite inflammatoire d'évolution chronique justifiant un traitement de fond.{{%/class%}}
+
+**NB.** Hormis le {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}} voire une supplémentation en oméga-3 ≥ 2 g/j, aucun régime ou supplémentation n'a fait preuve de son efficacité.
 
 {{% /collapse %}}
 {{%collapse "Traitements spécifiques de la polyarthrite rhumatoïde" %}}
@@ -312,6 +315,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
+- [Daien C., Czernichow S, Letarouilly JG et al. Recommandations de la Société française de rhumatologie sur l'alimentation des patients ayant un rhumatisme inflammatoire chronique. Revue du Rhumatisme. 2021.](https://www.sciencedirect.com/science/article/pii/S1169833021009108)
 - [Daien C. et al. Actualisation des Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. 2018.](https://www.sciencedirect.com/science/article/pii/S1169833018301522)
 - [EULAR. 2016 update of the EULAR recommandations for the management of early arthritis. 03/31/2017.](https://ard.bmj.com/content/76/6/948)
 - [EULAR. EULAR recommandations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs : 2016 update. 03/17/2017.](https://ard.bmj.com/content/76/6/960)
@@ -321,7 +325,7 @@ graph TB
 
 ### À lire
 
-[Daien C., Czernichow S, Letarouilly JG et al. Recommandations de la Société française de rhumatologie sur l'alimentation des patients ayant un rhumatisme inflammatoire chronique. Revue du Rhumatisme. 2021.](https://www.sciencedirect.com/science/article/pii/S1169833021009108)
+[Smolen J. et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. Annals of the Rheumatic Diseases. 2022.](https://ard.bmj.com/content/early/2022/11/10/ard-2022-223356)
 
 {{%/sources%}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}

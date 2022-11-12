@@ -13,7 +13,7 @@ annees = "2020"
 sources = ["Society1", "Society2"]
 tags = ["tag 1", "tag 2"]
 anglais = ["English word", "you can add one or delete this one"]
-sctid = "76102007"
+sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
 draft = true
 image = false
 imageSrc = ""

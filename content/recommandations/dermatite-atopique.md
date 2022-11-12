@@ -192,7 +192,7 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
   - Rincer et hydrater après la natation
   - Aspirateur hebdomadaire
   - Laver la literie à 55°C tous les 10 jours, éviter les peluches non lavables
-  - Housses anti-acariens
+  - Housses Gore-Tex ou équivalent
   - Éviter les chats
 - Arrêt du tabac
 - 19°C dans la chambre

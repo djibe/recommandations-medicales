@@ -55,13 +55,12 @@ Contact
 
 Contact à risque
 : Contact avec:
-
-- Personne ayant partagé le même lieu de vie que le cas
-- Contact direct avec un cas, en face à face, à moins d'un mètre, quelle que soit la durée.  
-{{%class%}}Des personnes croisées dans l'espace public de manière fugace ne sont pas considérées comme des personnes-contacts à risque.{{%/class%}}
-- Ayant prodigué ou reçu des actes d'hygiène ou de soins
-- Espace confiné pendant > 15 minutes avec un cas ou face à un cas ayant plusieurs épisodes de toux/éternuement.
-- Élève ou enseignant de la même classe scolaire.
+    - Personne ayant partagé le même lieu de vie que le cas
+    - Contact direct avec un cas, en face à face, à moins d'un mètre, quelle que soit la durée.  
+      {{%class%}}Des personnes croisées dans l'espace public de manière fugace ne sont pas considérées comme des personnes-contacts à risque.{{%/class%}}
+    - Ayant prodigué ou reçu des actes d'hygiène ou de soins
+    - Espace confiné pendant > 15 minutes avec un cas ou face à un cas ayant plusieurs épisodes de toux/éternuement.
+    - Élève ou enseignant de la même classe scolaire.
 : **Cette définition va être révisée suite aux faibles transmissions réalisées par les enfants (HCSP 17.09).**
 : **Ne pas considérer comme contact un adulte encadrant équipé d'un masque AFNOR/médical au contact d'un enfant < 11 ans Covid+ (HCSP 17.09)**
 

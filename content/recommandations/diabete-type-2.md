@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-11-09"
+lastmod = "2022-11-12"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["EASD", "ADA", "SFD", "ESC", "HAS"]
@@ -38,8 +38,9 @@ Diabète
     - ou HbA1c ≥ 6,5%
     - ou HGPO H2 ≥ 2 g/L
     - Symptômes et glycémie ≥ 2 g/L
-: Au cours du diabète, l'atteinte coronaire est plus étendue, sévère et diffuse. 6 à 35% ont une **ischémie myocardique sans angor** et 50% des infarctus du myocarde sont **silencieux** (*SFD 2021 CAD*). Le responsable majeur est le **LDL cholestérol**. Le risque d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) est multiplié par 2 à 4.
-: Les femmes avec DT2 sont à risque élevé d'[AVC]({{< relref "accident-vasculaire-cerebral.md" >}}).
+: Au cours du diabète, l'atteinte coronaire est plus étendue, sévère et diffuse. 6 à 35% ont une **ischémie myocardique sans angor** et 50% des infarctus du myocarde sont **silencieux** (*SFD 2021 CAD*). Le responsable majeur est le **LDL cholestérol**. Le risque d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) est multiplié par 2 à 4.  
+Les femmes avec DT2 sont à risque élevé d'[AVC]({{< relref "accident-vasculaire-cerebral.md" >}}).
+: Épidémiologie du diabète en France: 3,5 millions de sujets traités, 80% en surpoids ou obèse, 3/4 hypertendus, 13% sont fumeurs et seulement 64% reçoivent une statine (*Entred3*).
 
 Hyperglycémie modérée à jeun (HGMAJ)
 : Ou *prédiabète*, correspond au stade précurseur du diabète.  

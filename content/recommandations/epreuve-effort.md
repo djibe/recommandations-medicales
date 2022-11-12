@@ -23,9 +23,9 @@ todo = "probabilite pre-test, rcv score"
 
 Angor
 :  
-    - Douleur thoracique rétrosternale déclenchée par: l'effort, la digestion ou le stress émotionnel
-    - Douleur qui dure plusieurs minutes (< 20 minutes)
-    - Douleur soulagée par le repos ou la nitroglycérine
+    1. Douleur thoracique rétrosternale déclenchée par: l'effort, la digestion ou le stress émotionnel
+    2. Douleur qui dure plusieurs minutes (< 20 minutes)
+    3. Douleur soulagée par le repos ou la nitroglycérine
 : La **probabilité pré-test** (probabilité de coronaropathie pré-test d'effort) est calculée selon l'âge, le sexe, l'angor.
 
 Angor typique

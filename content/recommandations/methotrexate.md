@@ -18,13 +18,13 @@ sctid = "387381009"
 
 {{%article-summary%}}
 
-- Ordonnance de méthotrexate
-  - Préciser le jour de la prise et rappeler qu'il ne doit être pris qu'un seul jour par semaine
+- Ordonnance de méthotrexate (MTX)
+  - Préciser le jour de la prise du méthotrexate et rappeler qu'il ne doit être pris qu'un seul jour par semaine
   - Mentionner l'indication, le dosage et la posologie en mg
   - Le jour de la prise de l'acide folique
-- Associer l'acide folique 5 mg 1 cp en 1 prise/sem 48h après le MTX
-- Ne pas associer avec: [AINS](/tags/ains/), Bactrim, [vaccins vivants]({{< relref "vaccination.md" >}}) ... ([vérifier les interactions](https://www.drugs.com/interaction/list/?drug_list=1590-0))
-- [Carte patient sous méthotrexate](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-carte-patient-version-1-2021-03.pdf)
+- Associer l'acide folique 5 mg 1 cp en 1 prise/semaine 48 heures après le méthotrexate
+- Ne pas associer le méthotrexate avec: [AINS](/tags/ains/), Bactrim, [vaccins vivants]({{< relref "vaccination.md" >}}) ... ([vérifier les interactions](https://www.drugs.com/interaction/list/?drug_list=1590-0))
+- [Carte du patient sous méthotrexate](https://ansm.sante.fr/uploads/2022/04/28/methotrexate-per-os-carte-patient-version-1-2021-03.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Contre-indications au méthotrexate" %}}
