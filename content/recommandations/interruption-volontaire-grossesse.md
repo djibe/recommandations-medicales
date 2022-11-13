@@ -7,7 +7,7 @@ synonyms = ["IVG", "avortement"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-16T10:54:41+02:00"
 publishdate = "2020-09-16"
-lastmod = "2022-10-18"
+lastmod = "2022-11-13"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF", "HAS"]
@@ -22,9 +22,9 @@ imageSrc = "Illustration de l'IVG par stories / Freepik"
 
 {{%article-summary%}}
 
-- L'interruption volontaire de grossesse (IVG) est autorisée jusqu'à 14 semaines d'aménorrhée (SA), en ville jusqu'à 9 SA (depuis avril 2021)
-- Temps de réflexion d'une semaine (sauf délai avancé)
-- Systématiques: calcul du terme + examen gynécologique + groupe sanguin + échographie pelvienne
+- L'interruption volontaire de grossesse (IVG) est autorisée jusqu'à 16 semaines d'aménorrhée (SA), en ville jusqu'à 9 SA (IVG médicamenteuse)
+- Temps de réflexion d'une semaine (sauf délai avancé) avant l'interruption volontaire de grossesse
+- Systématiques avant l'IVG: calcul du terme + examen gynécologique + groupe sanguin + échographie pelvienne
 - Centres et praticiens réalisant des IVG: [ivg.gouv](https://ivg.gouv.fr/) (téléphone {{<phone>}}0 800 08 11 11{{</phone>}}) et [ivglesadressess.org](https://ivglesadresses.org/)
 
 Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
@@ -114,7 +114,7 @@ OU
 
 ### Grossesse après 9 SA
 
-Traitement chirurgical uniquement passées 9 semaines d'aménorrhée.
+IVG chirurgicale uniquement passées 9 semaines d'aménorrhée, possible jusqu'à 16 semaines d'aménorrhée.
 
 {{% /collapse %}}
 {{%collapse "Déroulement de l'IVG" %}}
@@ -157,7 +157,7 @@ Plus l'IVG intervient précocement pendant la grossesse, plus le risque de compl
 ### 4<sup>e</sup> consultation: si choix de prise avec le médecin généraliste
 
 - Prise du misoprostol + check-list ci-dessus
-- Prévention de l'incompatibilité rhésus si femme Rhésus négatif: immunoglobulines anti-D 200 µg IM au plus tard dans les 72h qui suivent les saignements.
+- Prévention de l'incompatibilité rhésus si femme Rhésus négatif: immunoglobulines anti-D 200 µg IM au plus tard dans les 72 heures qui suivent les saignements.
 - Visite de contrôle OBLIGATOIRE  
   Prévue entre 14 et 21<sup>e</sup> jour post-IVG
 - Examen clinique, dosage bêta-hCG plasmatiques OU échographie pelvienne  
@@ -174,20 +174,21 @@ Informer sur le recours à la [contraception d'urgence]({{< relref "contraceptio
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour une interruption volontaire de grossesse" "show" %}}
 
-{{< mermaid title="Prise en charge d'une IVG par le médecin généraliste. Dr JB Fron d'après HAS 2021" >}}
+{{< mermaid title="Prise en charge d'une IVG par le médecin généraliste en France. Dr JB Fron d'après HAS 2021 modifiée par loi 2022-295" >}}
 graph TB
   demande[Demande d'IVG]
   style demande stroke:#4150f5, stroke-width:1px
     demande --> cs("Calcul du terme (DDR)<br>&plusmn; examen")
-    cs --> orientation("Orienter pour RDV sous 5j<hr>0 800 08 11 11<br>ivglesadresses.org")
+    cs --> orientation(Orienter pour RDV sous 5j<hr>0 800 08 11 11<br>ivglesadresses.org)
       orientation -- "&lt; 10 SA" --> med(Traitement médical<br>ambulatoire)
-        med --> suivi("<b>Consultation de suivi</b><hr>- Contrôle à J14-J21<br>- bHCG, examen<br>- Contraception<br>&plusmn; Prévention alloI rhésus<br>- Suivi psychologique")
-      orientation -- 10-14 SA --> chir(Aspiration chirurgicale) --> suivi
+        med --> suivi("<b>Consultation de suivi</b><hr>- Contrôle à J14-J21<br>- bHCG, examen<br>- Contraception<br>&plusmn; Prévention allo-immunisation rhésus<br>- Suivi psychologique")
+      orientation -- 10-16 SA --> chir(Aspiration chirurgicale) --> suivi
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Service-Public. Interruption volontaire de grossesse (IVG). 03/05/2022.](https://www.service-public.fr/particuliers/vosdroits/F1551)
 - [Drees. Interruptions volontaires de grossesse : la baisse des taux de recours se poursuit chez les plus jeunes en 2021. Études et résultats. 2022.](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/interruptions-volontaires-de-grossesse-la)
 - [HAS. Interruption volontaire de grossesse par méthode médicamenteuse - Mise à jour. 12/04/2021.](https://www.has-sante.fr/jcms/p_3223429/fr/interruption-volontaire-de-grossesse-par-methode-medicamenteuse-mise-a-jour)
 - [HAS. La HAS valide l'extension de l'IVG médicamenteuse à domicile jusqu'à 9 semaines. 10/04/2020.](https://www.has-sante.fr/jcms/p_3179352/fr/la-has-valide-l-extension-de-l-ivg-medicamenteuse-a-domicile-jusqu-a-9-semaines)
