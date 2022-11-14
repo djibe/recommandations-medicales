@@ -71,7 +71,7 @@ En revanche, un test *négatif* (absence de saignements) n'affirme pas une méno
 | &gt; 55 ans             | Ménopause tardive              |
 | 45-55 ans               | Ménopause naturelle            |
 | 40-45 ans               | Ménopause anticipée            |
-| &lt; 40 ans             | Insuffisance ovarienne prématurée |
+| &lt; 40 ans             | [Insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}}) |
 | Radio/chimio-induite    | Ménopause iatrogène            |
 | Ovariectomie bilatérale | Ménopause chirurgicale         |
 {{< /table >}}
@@ -138,14 +138,14 @@ Le diagnostic est clinique (voir *Définitions*).
   - Interrompre la contraception et suivre l'aménorrhée
   - Contraception barrière pendant 1 an d'aménorrhée
 - Hystérectomie interannexielle ou endométrectomie avec aménorrhée  
-Dosages répétés de FSH (≥ 30 UI/L) et estradiol (< 20 pg/mL) à distance de l'opération en faveur de ménopause.
+  Dosages répétés de FSH (≥ 30 UI/L) et estradiol (< 20 pg/mL) à distance de l'opération en faveur de ménopause.
 - Cancer  
   - L'aménorrhée est très fréquente sous traitement
   - La reprise ovarienne peut être extrêmement retardée (> 12 mois). La définition habituelle n'est donc pas applicable.
   - Aucun examen ne peut conclure au diagnostic après chimiothérapie gonadotoxique
-  - Cancer du sein  
-  Considérer la femme comme non ménopausée si le statut n'est pas connu sous contraception hormonale.  
-  En traitement agoniste GnRH ou tamoxifène, aucun examen ne peut faire le diagnostic.
+  - [Cancer du sein]({{< relref "cancer-sein.md" >}})  
+    Considérer la femme comme non ménopausée si le statut n'est pas connu sous contraception hormonale.  
+    En traitement agoniste GnRH ou tamoxifène, aucun examen ne peut faire le diagnostic.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -310,7 +310,7 @@ Objectifs: amélioration de la santé, des signes climatériques, du risque card
 Contre-indications au traitement de la ménopause:
 
 - Antécédent de cancer du sein  
-Quelque soit le statut hormonal ou invasif/in situ.
+  Quelque soit le statut hormonal ou invasif/in situ.
 - Cancer de l'endomètre (TODO: vérifier)
 - Antécédent d'infarctus du myocarde ou d'AVC ischémique
 - Maladie d'Alzheimer

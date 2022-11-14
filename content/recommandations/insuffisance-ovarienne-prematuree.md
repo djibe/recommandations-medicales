@@ -7,7 +7,7 @@ synonyms = ["Ménopause précoce", "ménopause prématurée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-07T12:11:02+01:00"
 publishdate = "2022-01-10"
-lastmod = "2022-03-28"
+lastmod = "2022-11-14"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["HAS", "CNGOF"]
@@ -15,21 +15,21 @@ tags = ["coeliaque", "infertilite", "sueurs nocturnes", "TSH"]
 anglais = ["Premature ovarian insufficiency"]
 sctid = "237788002"
 flowchart = true
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Illustration de la ménopause précoce par vectorjuice / Freepik"
 todo = "tabac, Anticorps anti-surrénaliens, Turner, ESHRE"
 +++
 
 {{%article-summary%}}
 
-- Évoquer chez femme < 40 ans avec aménorrhée/spanioménorrhée et syndrome climatérique
-- Le diagnostic est clinico-biologique: aménorrhée ou spanioménorrhée ≥ 4 mois avant 40 ans avec FSH ≥ 25 UI/L et estradiol bas (à 2 reprises à 4 semaines d'intervalle)
-- Maladies auto-immunes fréquemment associées
-- Exploration dans un [centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/)
-- THS à démarrer rapidement pour réduire le risque cardiovasculaire et fracturaire
-- Le THS pour les IOP spontanées (non iatrogènes) n'augmente pas le risque de cancer du sein (*HAS 2021*)
+- Évoquer une ménopause précoce chez femme -40 ans avec aménorrhée (ou spanioménorrhée) accompagnée d'un syndrome climatérique
+- Le diagnostic d'insuffisance ovarienne prématurée est clinico-biologique: aménorrhée ou spanioménorrhée ≥ 4 mois avant 40 ans avec FSH ≥ 25 UI/L et estradiol bas (à 2 reprises à 4 semaines d'intervalle)
+- Des maladies auto-immunes sont fréquemment associées
+- Exploration de la ménopause précoce dans un [centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/)
+- Le traitement hormonal substitutif (THS) doit être démarré rapidement pour réduire le risque cardiovasculaire et fracturaire
+- Le THS utilisé pour les insuffisances ovariennes prématurées spontanées (non iatrogènes) n'augmente pas le risque de [cancer du sein]({{< relref "cancer-sein.md" >}}) (*HAS 2021*)
 
-Article lié: [Ménopause et traitement hormonal]({{< relref "menopause.md" >}})
+Article lié: [Ménopause et traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -75,7 +75,9 @@ THS
 : traitement hormonal substitutif
 {.dl-inline}
 
-### Étiologie
+### Étiologie de l'insuffisance ovarienne prématurée
+
+Liste des causes pouvant être à l'origine de la ménopause précoce:
 
 - **Génétique**  
   - Formes familiales (4-31%)
@@ -90,18 +92,18 @@ THS
   - Radiothérapie pelvienne
 - Idiopathique (70%)
 
-### Épidémiologie
+### Épidémiologie de la ménopause précoce
 
-- 1-2% des femmes avant 40 ans
-- 1/1000 à 30 ans
-- 1/10.000 avant 20 ans
+La ménopause précoce atteint 1 à 2% des femmes avant 40 ans (1/1000 à 30 ans et 1/10.000 avant 20 ans).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Diagnostic rapide pour mettre en place rapidement le THS et prévenir les complications, notamment cardiovasculaires.
+Diagnostic rapide de l'insuffisance ovarienne prématurée pour mettre en place rapidement le traitement hormonal substitutif (THS) et prévenir les complications, notamment cardiovasculaires.
 
 ### Interrogatoire
+
+Signes et symptômes à rechercher:
 
 - Âge de la patiente
 - Antécédents  
@@ -112,18 +114,18 @@ Diagnostic rapide pour mettre en place rapidement le THS et prévenir les compli
 - Antécédents familiaux d'insuffisance ovarienne prématurée
 - Aménorrhée primaire ou secondaire ≥ 4 mois (absence de règles)
 - **Infertilité**
-- Syndrome climatérique
+- **Syndrome climatérique**
   - Bouffées de chaleur
   - Sueurs nocturnes
   - Troubles du sommeil
   - Troubles de l'humeur
   - Douleurs articulaires
 - Syndrome génito-urinaire de la ménopause  
-Diagnostic clinique si ≥ 1 symptôme: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (SFU, cystites récidivantes).
+  Diagnostic clinique si ≥ 1 parmi: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (SFU, cystites récidivantes).
 - Chez l'enfant: impubérisme
 - Dépression, anxiété
 
-L'aménorrhée peut être révélée après l'arrêt d'une contraception œstroprogestative.  
+L'aménorrhée peut être révélée après l'arrêt d'une [contraception œstroprogestative]({{< relref "contraception.md" >}}).  
 L'*infertilité* est le plus souvent définitive mais pas toujours (4-10% de grossesses spontanées).
 
 ### Examen clinique
@@ -133,46 +135,47 @@ Rechercher des signes de maladies auto-immunes.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-De principe dosage des ßHCG, bilan complémentaire si négatif.
+{{%info%}}En première intention, dosage de la bêta-HCG seule avec un bilan complémentaire si négative{{%/info%}}
 
-### Bilan devant une ménopause précoce
+### Bilan devant un tableau de ménopause précoce
 
-**Le diagnostic d'IOP (ex ménopause précoce) est biologique**.
+**Le diagnostic d'insuffisance ovarienne prématurée (ex ménopause précoce) est biologique**.
 
 FSH, estradiol, hCG, prolactine, TSH:
 
-- Répéter après > 4 semaines si FSH élevée/estradiol bas
+- Répéter après +4 semaines si FSH élevée/estradiol bas
 - Doser sans contraception hormonale et à distance de la pré-ovulation
 - FSH élevée > 25 UI/L et estradiol bas
 
-### Bilan en diagnostic avéré
+### Bilan en cas de diagnostic avéré
 
-Prise en charge dans un Centre de Référence de maladies rares prenant en charge les IOP avec:
+Prise en charge dans un *Centre de Référence de maladies rares* prenant en charge les insuffisances ovariennes prématurées avec:
 
 - AMH (évaluation de la réserve ovarienne)
 - [Anticorps anti-TPO]({{< relref "hypothyroidie.md" >}})
 - [Sérologie cœliaque]({{< relref "maladie-coeliaque.md" >}}): IgA totales + IgA anti-transglutaminase
 - Absence de cause iatrogène: anticorps anti-surrénaliens, anti 21-hydroxylase
 
-Caryotype en IOP non iatrogène, réalisé lors du bilan spécialisé.
+Caryotype en cas d'IOP non iatrogène, réalisé lors du bilan spécialisé.
 
 #### Échographie pelvienne
 
-Ne fait pas partie du bilan diagnostique puisque l'observation de follicules peut être faussement rassurante.  
+L'échographie pelvienne ne fait pas partie du bilan diagnostique puisque l'observation de follicules peut être faussement rassurante.  
 À visée étiologique, voie endovaginale préférée.
 
 #### Ostéodensitométrie
 
-Au diagnostic puis tous les 5 ans pour évaluer la perte osseuse.  
+Ostéodensitométrie au diagnostic puis tous les 5 ans pour évaluer la perte osseuse.  
 Voir les [indications au traitement selon T-score et FRAX]({{< relref "osteoporose.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-{{%info%}}Le THS pour les IOP spontanées (non iatrogènes) n'augmente pas le risque de cancer du sein (56-79% des patientes le croient, *HAS 2021*){{%/info%}}
+{{%info%}}Le traitement hormonal substitutif (THS) pour les IOP spontanées (non iatrogènes) n'augmente pas le risque de cancer du sein (56-79% des patientes le croient, *HAS 2021*){{%/info%}}
 
-- Prise en charge dans un [Centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/)
-- Traitement hormonal substitutif (THS) jusqu'à ≥ 51 ans
+Prise en charge de l'insuffisance ovarienne prématurée (ménopause précoce) dans un [Centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/):
+
+- Traitement hormonal substitutif (THS) jusqu'à au moins 51 ans
   - Par [contraceptif estroprogestatif]({{< relref "contraception.md" >}})
   - ou THS, voir [Spécialités disponibles pour le THM]({{< relref "menopause.md#spécialités-disponibles-pour-le-thm" >}})
   - Préférer le schéma combiné discontinu (afin de détecter une aménorrhée/grossesse), mais au choix de la patiente
@@ -185,8 +188,8 @@ Voir les [indications au traitement selon T-score et FRAX]({{< relref "osteoporo
 - Origine génétique suspectée: avis génétique voire RCP pour génotype complet (Plan France Médecine Génomique)
 - IOP non iatrogène: Dépistage du cancer du sein à partir de 50 ans
 - Surveillance
-  - annuelle du THS  
-  Seins, gynécologique, poids, pression artérielle.
+  - Annuelle du THS  
+    Seins, gynécologique, poids, pression artérielle.
   - Psychologique
   - TSH, surrénales
   - Ostéodensitométrie tous les 5 ans
@@ -213,7 +216,7 @@ Recommandations de prise en charge spécifiques pour les femmes suivantes:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir et prise en charge d'un suspicion de ménopause précoce" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le diagnostic de l'insuffisance ovarienne prématurée. Dr JB Fron d'après HAS 2021 et Cox et Liu 2014" >}}
+{{< mermaid title="Conduite à tenir pour le diagnostic et la prise en charge de l'insuffisance ovarienne prématurée. Dr JB Fron d'après HAS 2021 et Cox et Liu 2014" >}}
 graph TB
   amenorrhee["Aménorrhée &ge; 4 mois<br>ou spanioménorrhée &ge; 4 mois<br>avant 40 ans"] --> hcg(Test de grossesse<br>hCG)
   style amenorrhee stroke:#4150f5, stroke-width:1px
