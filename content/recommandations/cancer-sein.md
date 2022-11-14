@@ -16,7 +16,7 @@ anglais = ["Malignant neoplasm of breast "]
 sctid = "254837009"
 image = true
 imageSrc = "Le cancer du sein, illustration par Freepik"
-todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, EI hormonothérapie, perruque INCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e, https://www.has-sante.fr/jcms/c_2849735/fr/revue-critique-de-la-litterature-sur-la-performance-de-la-mammographie-par-tomosynthese-dans-le-depistage-organise-du-cancer-du-sein"
+todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, EI hormonothérapie, perruque INCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e, https://www.has-sante.fr/jcms/c_2849735/fr/revue-critique-de-la-litterature-sur-la-performance-de-la-mammographie-par-tomosynthese-dans-le-depistage-organise-du-cancer-du-sein, file:///C:/Users/JB/Downloads/ETAETHDEPSEIN12.pdf"
 +++
 
 {{%article-summary%}}
@@ -107,6 +107,8 @@ RCP
 
 {{%info%}}Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans (*HAS*){{%/info%}}
 
+Dépistages recommandés du cancer du sein chez les femmes à haut risque selon *HAS 2019* repris par *INCa 2022*.
+
 ### Absence de facteur de risque élevé de cancer du sein
 
 Femme asymptomatique de 50 à 74 ans (sans facteur ci-dessous).
@@ -115,14 +117,15 @@ Seules personnes concernées par le dépistage organisé du cancer du sein par m
 
 ### Niveau de risque élevé
 
-1. Antécédent de cancer invasif du sein ou de carcinome canalaire *in situ* (voir *Surveillance*)
+1. Antécédent de cancer invasif du sein ou de carcinome canalaire *in situ*  
+  Voir *Surveillance*.
 2. Antécédent de radiothérapie thoracique à haute dose (*HAS 2019*)
-    - À partir de 8 ans après la fin de l'irradiation (si âge +20 ans):
+    - À partir de 8 ans après la fin de l'irradiation (dès que +20 ans):
     - Examen clinique annuel
     - Mammographies (incidence oblique) ± échographie mammaire
     - IRM mammaire
-3. Antécédent d'hyperplasie canalaire atypique, d'hyperplasie lobulaire atypique ou de carcinome lobulaire *in situ*  
-  Mammographie ± échographie annuelle pendant 10 ans, puis tous les 2 ans jusqu'au dépistage organisé
+3. Antécédent d'hyperplasie canalaire ou lobulaire atypique ou de carcinome lobulaire *in situ*  
+  Mammographie ± échographie annuelle pendant 10 ans, puis tous les 2 ans jusqu'au dépistage organisé.
 4. Antécédent familial de cancer du sein avec {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} ≥ 3 et risque élevé estimé par l'oncogénéticien (*INCa 2017*)  
   Pour les apparenté au 1<sup>er</sup> degré ou nièce par un frère: Surveillance radiologique 5 ans avant l'âge du diagnostic de cancer chez le plus jeune:
     - Examen clinique annuel à partir de 20 ans
@@ -360,6 +363,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 - [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. Septembre 2022.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
 - [Santé Publique France. Dépistage du cancer du sein : quelle participation des femmes en 2021 ? 2022.](https://www.santepubliquefrance.fr/les-actualites/2022/depistage-du-cancer-du-sein-quelle-participation-des-femmes-en-2021)
 - [INCa. Les cancers du sein en 10 points clés. Juin 2020. (PDF)](https://www.e-cancer.fr/content/download/292195/4161509/file/Cancers_du_sein_en_10_points_cles_mel_20200702.pdf)
+- [HAS. Cancer du sein : modalités spécifiques de dépistage pour les femmes à haut risque. 2019.](https://www.has-sante.fr/jcms/pprd_2974673/fr/cancer-du-sein-modalites-specifiques-de-depistage-pour-les-femmes-a-haut-risque)
 - [INCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
 - [INCa. Prothèses mammaires et risque de cancer. Avril 2019.](https://www.e-cancer.fr/Comprendre-prevenir-depister/Reduire-les-risques-de-cancer/Protheses-mammaires)
 - [INCa. Cancer du sein - Quelles modalités de dépistage, pour quelles femmes ? Janvier 2018.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-du-sein-Quelles-modalites-de-depistage-pour-quelles-femmes)
@@ -369,7 +373,6 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 ### À lire
 
 - [INCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. Octobre 2021.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)
-- [HAS. Cancer du sein : modalités spécifiques de dépistage pour les femmes à haut risque. 2019.](https://www.has-sante.fr/jcms/pprd_2974673/fr/cancer-du-sein-modalites-specifiques-de-depistage-pour-les-femmes-a-haut-risque)
 - [CNGOF. Cancers du sein : les patientes dans la tourmente. 2017. (PDF)](http://www.cngof.fr/component/rsfiles/apercu?path=Presse%252F2017%252FCancer%2Bdu%2Bsein%252FK-SEIN-2017.pdf&i=11967)
 
 {{%/sources%}}
