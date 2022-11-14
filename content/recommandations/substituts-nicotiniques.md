@@ -28,9 +28,12 @@ Liste des substituts nicotiniques remboursés sur prescription par la Sécurité
 <hr class="my-3">
 <div class="my-3 my-lg-4" style="max-width: 800px">
 
-#### Nombre de cigarettes quotidiennes {.typography-headline-6 .mb-3}
+#### Nombre de cigarettes quotidiennes {.typography-headline-6}
 
-<div class="d-flex">
+{{< modal-btn modal-fagerstrom >}}Évaluation de la dépendance tabagique par le test de Fagerström{{< /modal-btn >}}
+{.font-weight-bold .my-4}
+
+<div class="d-flex my-3">
   <label class="radio-card m-3" data-toggle="collapse" data-target="#patchs-moins20">
     <input type="radio" name="demo" class="card-input-element d-none" id="moins20" checked required>
     <span class="card card-primary-action rounded-lg card-body d-flex flex-row justify-content-center align-items-center">
@@ -184,3 +187,8 @@ Débuter avec ces dosages le premier mois.
 </blockquote>
 
 {{< references/tabac-info-service >}}
+{{% modal title="Test de Fagerström de dépendance au tabac" id="modal-fagerstrom"%}}
+
+{{< scores/fagerstrom >}}
+
+{{% /modal %}}

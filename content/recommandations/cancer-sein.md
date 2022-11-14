@@ -7,21 +7,21 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
 publishdate = "2021-11-03"
-lastmod = "2022-06-27"
+lastmod = "2022-11-14"
 specialites = ["gynecologie-obstetrique"]
-annees = "2017"
-sources = ["HAS", "INCa", "ACOG"]
+annees = "2022"
+sources = ["INCa", "HAS", "ACOG"]
 tags = ["cancer", "contraception", "depistage"]
 anglais = ["Malignant neoplasm of breast "]
 sctid = "254837009"
 image = true
 imageSrc = "Le cancer du sein, illustration par Freepik"
-todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, EI hormonothérapie, perruque INCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e"
+todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, EI hormonothérapie, perruque INCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e, https://www.has-sante.fr/jcms/c_2849735/fr/revue-critique-de-la-litterature-sur-la-performance-de-la-mammographie-par-tomosynthese-dans-le-depistage-organise-du-cancer-du-sein"
 +++
 
 {{%article-summary%}}
 
-- Prévention du cancer du sein: arrêt tabac, alcool, lutte contre un surpoids et activité physique régulière
+- Prévention du cancer du sein: arrêt tabac et alcool, correction d'un surpoids et activité physique régulière
 - Palpation mammaire annuelle à partir de 25 ans
 - Vérifier la participation au dépistage organisé du cancer du sein (de 50 à 74 ans, à consigner dans le dossier médical)  
   Dépistage identique en cas de prothèses mammaires (*INCa 2019*).
@@ -33,14 +33,14 @@ todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, E
 {{%collapse "Définitions" %}}
 
 Cancer du sein
-: 90% des cancers sont diagnostiqués suite à un dépistage.
+: Premier cancer de la femme (58.459 en 2018 en métropole). 90% des cancers du sein sont diagnostiqués suite à un dépistage.
 : Histologiquement, il s'agit principalement d'adénocarcinomes (95%) le plus souvent *intra-canalaires*, parfois *lobulaires*. Les métastases disséminent par fréquence: os > foie > poumon > moelle > cerveau.  
 Délai de 6 à 10 ans entre la mutation cancéreuse et une tumeur de 2 cm.
 : Les formes familiales représentent 15-20% des cancers du sein.
 
 Carcinome lobulaire
 : Facteur de risque de développer un cancer du sein. La prise en charge est différente des autres cancers du sein.
-: Ils représentent 1 à 15% des cancers *in situ*.
+: Il représente 10 à 15% des cancers *in situ*.
 
 Maladie de Paget du mamelon
 : Carcinome canalaire *in situ* pouvant se propager vers l'aréole ou profondément.
@@ -111,20 +111,22 @@ RCP
 
 Femme asymptomatique de 50 à 74 ans (sans facteur ci-dessous).
 
-Seules personnes concernées par le dépistage organisé du cancer du sein.
+Seules personnes concernées par le dépistage organisé du cancer du sein par mammographies bilatérales tous les 2 ans.
 
 ### Niveau de risque élevé
 
 1. Antécédent de cancer invasif du sein ou de carcinome canalaire *in situ* (voir *Surveillance*)
-2. Antécédent de radiothérapie thoracique à haute dose
-    - Examen clinique annuel 8 ans après la fin (si ≥ 20 ans)
-    - Mammographies (incidence oblique) + IRM mammaire annuelles 8 après la fin (si ≥ 30 ans)
+2. Antécédent de radiothérapie thoracique à haute dose (*HAS 2019*)
+    - À partir de 8 ans après la fin de l'irradiation (si âge +20 ans):
+    - Examen clinique annuel
+    - Mammographies (incidence oblique) ± échographie mammaire
+    - IRM mammaire
 3. Antécédent d'hyperplasie canalaire atypique, d'hyperplasie lobulaire atypique ou de carcinome lobulaire *in situ*  
   Mammographie ± échographie annuelle pendant 10 ans, puis tous les 2 ans jusqu'au dépistage organisé
 4. Antécédent familial de cancer du sein avec {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} ≥ 3 et risque élevé estimé par l'oncogénéticien (*INCa 2017*)  
   Pour les apparenté au 1<sup>er</sup> degré ou nièce par un frère: Surveillance radiologique 5 ans avant l'âge du diagnostic de cancer chez le plus jeune:
     - Examen clinique annuel à partir de 20 ans
-    - Mammographies annuelles à partir de 5 ans avant le cas ± échographie jusqu'à 50 ans
+    - Mammographies annuelles à partir de 5 ans avant le cas (pas avant 40 ans) ± échographie jusqu'à 50 ans
     - puis dépistage organisé
 
 ### Niveau de risque très élevé
@@ -132,13 +134,15 @@ Seules personnes concernées par le dépistage organisé du cancer du sein.
 1. Mutation BRCA1 ou 2 ou apparenté au 1<sup>er</sup> degré ou nièce par un frère  
 2. Forme familiale avec {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} ≥ 3 et risque très élevé estimé par l'oncogénéticien
 
+Dépistage des personnes à risque très élevé de cancer du sein:
+
 - Orientation vers la consultation d'oncogénétique
-- Examen clinique tous les 6 mois après 20 ans
-- Mammographies + échographie + IRM annuelles après 30 ans
+- Examen clinique tous les 6 mois à partir de 20 ans
+- Mammographies + IRM annuelles ± échographie à partir de 30 ans
 
-#### Mutations BRCA1 et BRCA2
+#### Mutations BRCA1 et BRCA2 autosomiques dominantes
 
-Prédisposition génétiques aux cancers des seins-ovaires.
+Dépistage des cancers du sein en cas de prédisposition génétique aux cancers des seins-ovaires:
 
 - Surveillance clinique tous les 6 mois à partir de 20 ans
 - Auto-palpation non recommandée
@@ -183,6 +187,10 @@ Toute suspicion diagnostique de cancer du sein justifie un avis spécialisé san
 
 ### Mammographies
 
+Indications à réaliser des mammographies diagnostiques:  tuméfaction du sein ou nodule, rétraction cutanée ou mamelonnaire, inflammation du sein, écoulement mamelonnaire (voir plus bas), Eczéma du mamelon (voir plus bas), adénopathie axillaire.
+
+Précisions sur la réalisation des mammographies:
+
 - Pas de délai minimal entre des mammographies diagnostiques et de dépistage
 - Femme non ménopausée: les réaliser durant les 10 premiers jours du cycle
 - La veille et le jour de l'examen: aucun déodorant, poudre, crème, parfum sur les seins ou les aisselles
@@ -200,7 +208,7 @@ Mammographies et échographie mammaire bilatérales, complétées par biopsies p
 - Voire IRM mammaire
 - Pyramidectomie chirurgicale puis histologie
 
-Voir le chapitre [écoulement mammelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
+Voir le chapitre [écoulement mamelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
 
 ### Bilan devant une maladie de Paget du mamelon
 
@@ -210,34 +218,44 @@ Voir le chapitre [écoulement mammelonnaire]({{< relref "ecoulement-mamelonnaire
 
 ### IRM mammaire
 
-Indications à l'IRM limitées:
+Les indications à l'IRM sont limitées:
 
 - Antécédent de radiothérapie thoracique haute dose (systématique)
 - BRCA1 ou 2 ou prédisposition génétique avérée (systématique)
 - {{< modal-btn modal-eisinger >}}Score d'Eisinger{{< /modal-btn >}} ≥ 3 (systématique)
 - Mammographie + échographie non contributives (selon le cas)
 - Densité mammaire classe 4
-- Écoulement unipore sérosanglant
+- Écoulement unipore séro-sanglant
 
 {{% /collapse %}}
 {{%collapse "Prévention du cancer du sein" %}}
 
+### Lutte contre les facteurs de risques modifiables de cancer du sein
+
 Réduction de la consommation d'[alcool]({{< relref "sevrage-alcool.md" >}}) (15% attribuables, *CIRC et SPF*), tabac (4,4%), lutte contre surpoids/obésité (11%) et l'inactivité physique.
 
-{{%info%}}Mammographies avec double lecture tous les 2 ans chez les femmes de 50 à 74 ans asymptomatiques (sans facteur de risque élevé ou très élevé de cancer du sein){{%/info%}}
-
-Dépistage identique en cas de prothèses mammaires (*INCa 2019*).  
-Les mammographies sont remboursées à 100% (les examens supplémentaires ne le sont pas) dans le cadre du Programme national de dépistage organisé du cancer du sein (introduit en 2001, modifié en 2006, géré par DGS et INCa).
+### Palpation mammaire annuelle
 
 {{%info%}}Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans (*HAS*){{%/info%}}
 
+### Mammographies de dépistage du cancer du sein
+
+{{%info%}}Mammographies avec double lecture tous les 2 ans chez les femmes de 50 à 74 ans asymptomatiques (sans facteur de risque élevé ou très élevé de cancer du sein){{%/info%}}
+
+[Guide patiente INCa : le dépistage des cancers du sein (PDF)](https://www.e-cancer.fr/content/download/336634/4809878/file/Depliant%20DOCS%202022_148x210%20DEPSEIN21%20BD.pdf)
+
+Dépistage identique en cas de prothèses mammaires (*INCa 2019*).
+
+Les mammographies sont remboursées à 100% (les examens supplémentaires ne le sont pas) dans le cadre du Programme national de dépistage organisé du cancer du sein (introduit en 2001, modifié en 2006, géré par DGS et INCa).
+
 > La patiente ne reçoit pas ses invitations ? Elle contacte le [CRCDC régional](https://www.e-cancer.fr/Comprendre-prevenir-depister/Se-faire-depister/Centres-regionaux-de-coordination-des-depistages-des-cancers).
 
-### Conduite à tenir selon les résultats de la mammographie
+#### Conduite à tenir selon les résultats de la mammographie
 
-{{< table title="Prise en charge selon les résultats des mammographies de dépistage selon HAS 2015" >}}
+{{< table title="Prise en charge selon les résultats des mammographies de dépistage selon HAS 2015 et INCa 2018" >}}
 | Classification | Signification         | Conduite à tenir |
 |----------------|-----------------------|------------------|
+| ACR 0          | Classification provisoire | Investigations supplémentaires nécessaires pour reclasser |
 | ACR 1 ou 2     | Normales ou bénignes  | Poursuite du dépistage tous les 2 ans jusqu'à 74 ans, consultation sans délai si symptôme |
 | ACR 3          | Probablement bénignes | Surveillance clinique et radiologique tous les 6 mois pendant 2 ans |
 | ACR 4 ou 5     | Anormales             | Biopsie échoguidée (sénologue, radiologue) puis avis sénologique rapide |
@@ -256,7 +274,7 @@ Les mammographies sont remboursées à 100% (les examens supplémentaires ne le 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Après RCP peuvent être proposés pour le cancer du sein: Chirurgie, radiothérapie, chimiothérapie, hormonothérapie (récepteur estrogène ou progestérone), thérapies ciblées (bévacizumab, HER2).
+Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Chirurgie, radiothérapie, chimiothérapie, hormonothérapie (récepteur estrogène ou progestérone), thérapies ciblées (bévacizumab, HER2).
 
 ### Mesures associées
 
@@ -271,6 +289,7 @@ Après RCP peuvent être proposés pour le cancer du sein: Chirurgie, radiothér
   - Éviter les vêtements synthétiques
   - Limiter l'exposition solaire
   - Hygiène rigoureuse et pommades émollientes
+- Information de la patiente: [INCa](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-du-sein/Les-points-cles)
 - Associations de patients  
   [étincelle](http://www.etincelle.asso.fr/), [Europa Donna](http://www.europadonna.fr/), [Rose up](https://www.rose-up.fr/#1), [Skin](https://associationskin.org/), [Vivre Comme Avant](https://www.vivrecommeavant.fr/).
 
@@ -298,7 +317,7 @@ Après RCP peuvent être proposés pour le cancer du sein: Chirurgie, radiothér
 
 ### Suivi post traitement
 
-- Examen clinique tous les 6 mois pendant 2 ans, puis annuel (*INCa 2017*)
+- Examen clinique tous les 6 mois pendant 2 ans, puis annuel (*HAS 2019*, *INCa 2017*)
   - Symptômes généraux
   - Palpation des seins
   - Aires ganglionnaires
@@ -338,17 +357,20 @@ Après RCP peuvent être proposés pour le cancer du sein: Chirurgie, radiothér
 
 {{< youtube id="QXlT9651svA" title="Palpation des seins (Dr Jean-Philippe Harlicot)" >}}
 
+- [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. Septembre 2022.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
 - [Santé Publique France. Dépistage du cancer du sein : quelle participation des femmes en 2021 ? 2022.](https://www.santepubliquefrance.fr/les-actualites/2022/depistage-du-cancer-du-sein-quelle-participation-des-femmes-en-2021)
+- [INCa. Les cancers du sein en 10 points clés. Juin 2020. (PDF)](https://www.e-cancer.fr/content/download/292195/4161509/file/Cancers_du_sein_en_10_points_cles_mel_20200702.pdf)
 - [INCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
 - [INCa. Prothèses mammaires et risque de cancer. Avril 2019.](https://www.e-cancer.fr/Comprendre-prevenir-depister/Reduire-les-risques-de-cancer/Protheses-mammaires)
-- [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. Octobre 2017.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
+- [INCa. Cancer du sein - Quelles modalités de dépistage, pour quelles femmes ? Janvier 2018.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-du-sein-Quelles-modalites-de-depistage-pour-quelles-femmes)
 - [HAS. Dépistage et prévention du cancer du sein. Février 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
 - [ACOG. Tamoxifen and Uterine Cancer. 2014. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/06/tamoxifen-and-uterine-cancer)
 
 ### À lire
 
 - [INCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. Octobre 2021.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)
-- [INCa. Cancer du sein - Quelles modalités de dépistage, pour quelles femmes ? Janvier 2018.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-du-sein-Quelles-modalites-de-depistage-pour-quelles-femmes)
+- [HAS. Cancer du sein : modalités spécifiques de dépistage pour les femmes à haut risque. 2019.](https://www.has-sante.fr/jcms/pprd_2974673/fr/cancer-du-sein-modalites-specifiques-de-depistage-pour-les-femmes-a-haut-risque)
+- [CNGOF. Cancers du sein : les patientes dans la tourmente. 2017. (PDF)](http://www.cngof.fr/component/rsfiles/apercu?path=Presse%252F2017%252FCancer%2Bdu%2Bsein%252FK-SEIN-2017.pdf&i=11967)
 
 {{%/sources%}}
 {{% modal title="Score d'Eisinger et consultation génétique" id="modal-eisinger"%}}

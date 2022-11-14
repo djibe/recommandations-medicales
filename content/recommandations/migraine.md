@@ -67,6 +67,8 @@ Céphalées par abus médicamenteux
 
 ### Diagnostic différentiel des migraines
 
+Autres causes de céphalées:
+
 - Céphalées par abus médicamenteux  
   Céphalées ≥ 15 j/mois, lors de prise d'antalgiques > 10 j/mois > 3 mois. Souvent associée.
 - Céphalée de tension  
@@ -84,9 +86,9 @@ Céphalées par abus médicamenteux
 Diagnostic différentiel des migraines avec aura:
 
 - [AIT]({{< relref "accident-vasculaire-cerebral.md" >}})  
-Déficit de début brutal et symptômes d'emblée maximaux, souvent associés (moteur et sensitif), ± amaurose fugace ou hémianopsie, souvent > 40 ans.
+  Déficit de début brutal et symptômes d'emblée maximaux, souvent associés (moteur et sensitif), ± amaurose fugace ou hémianopsie, souvent > 40 ans.
 - Épilepsie partielle occipitale  
-Installation en quelques secondes, début en vision périphérique, formes circulaires colorées de qq secondes à minutes, début enfance/adolescence.
+  Installation en quelques secondes, début en vision périphérique, formes circulaires colorées de qq secondes à minutes, début enfance/adolescence.
 
 ### Abréviations
 
@@ -109,9 +111,9 @@ SFEMC
 ### Épidémiologie des migraines
 
 - **Prévalence:** 14% des adultes en Europe (18-50 ans ++), 75% de femmes  
-France: 21,3% des adultes remplissent les critères de la migraine ICHD-3.
+  France: 21,3% des adultes remplissent les critères de la migraine ICHD-3.
 - 2<sup>e</sup> maladie la plus importante responsable d'*années vécues avec une incapacité* (AVI, *OMS 2016*)
-- 50% ont ≥ 2 crises par mois; 40% ont durée > 24h; 50% ont intensité sévère à très sévère
+- 50% ont au moins 2 crises par mois; 40% ont durée +24h; 50% ont intensité sévère à très sévère
 
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques ICHD-3" %}}
@@ -128,13 +130,13 @@ Examen clinique normal en dehors des crises.
 Critères A à E remplis:
 
 1. ≥ 5 crises répondant aux critères B à D
-1. Céphalées paroxystiques durant de 4 à 72 heures
-1. Céphalées avec ≥ 2 caractères suivants:  
+2. Céphalées paroxystiques durant de 4 à 72 heures (2-72 chez le mineur)
+3. Céphalées avec ≥ 2 caractères suivants:  
   Unilatérale, pulsatile, intensité modérée/sévère, aggravée par ou entraînant l'évitement de l'activité physique de routine (marche, escaliers...).
-1. Céphalées associées à ≥ 1 caractère suivant:  
+4. Céphalées associées à ≥ 1 caractère suivant:  
     - Nausées/vomissements
     - Photophobie et phonophobie
-1. N'est pas mieux expliquée par un autre diagnostic de l'ICHD-3
+5. N'est pas mieux expliquée par un autre diagnostic de l'ICHD-3
 {.liste-lettres}
 
 L'**osmophobie** (dégoût des odeurs) est très spécifique de la crise migraineuse.  
@@ -146,6 +148,15 @@ La douleur typique est frontale, orbitale, temporale et occipitale. Fréquemment
 Ces symptômes peuvent précéder la crise de 2 jours et persister 2 jours après sa résolution.
 
 Si l'un des critères A, B, C ou D n'est pas rempli en totalité = **migraine sans aura probable**.
+
+#### Migraine sans aura chez l'enfant ou l'adolescent
+
+Chez le moins de 18 ans, la crise migraineuse peut avoir certaines particularités:
+
+- Céphalées bilatérales  
+  Devient unilatérale chez le jeune adulte.
+- Frontotemporale le plus souvent  
+  Prudence devant des douleurs occipitales.
 
 ### Critères de la migraine avec aura
 
@@ -196,11 +207,15 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
 - Histoire des céphalées
   - Âge de début
   - Localisation, type, durée, intensité, périodicité, jours mensuels
-  - Prodromes et signes associés avant-pendant-après
+  - Prodromes (début possible des heures voire 2 jours avant)  
+    Fatigue, difficultés de concentration, raideur nucale, phonophotophobie, nausées, vision floue, bâillements, pâleur.
+  - Signes associés pendant la crise
+  - Signes post-critiques  
+    Fatigue, humeur exaltée ou dépressive.
   - Aura
   - Facteurs déclenchants identifiés  
     Menstruations, alcool. Souvent confondus avec les prodromes (osmophobie, phonophotophobie).
-- Critères diagnostiques ICHD-3 (voir chapitre dédié)
+- Critères diagnostiques ICHD-3 de la migraine (voir chapitre dédié)
 - Antimigraineux
   - Traitements déjà essayés, crise/fond, efficacité, observance, tolérance, doses, durées, raison de l'arrêt
   - Traitement actuel de crise/fond: {{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}}
@@ -554,6 +569,10 @@ graph TB
 - [Lanteri-Minet M. et al. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant. Revue Neurologique. 2013. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20sur%20la%20prise%20en%20charge%20diagnostique%20et%20th%C3%A9rapeutique%20de%20la%20migraine%20chez%20l%2527adulte%20et%20chez%20l%2527enfant%20(1).pdf)
 - [Anaes. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant : aspects cliniques et économiques. Recommandations de bonne pratique. Octobre 2002.](https://www.has-sante.fr/jcms/c_272212/fr/prise-en-charge-diagnostique-et-therapeutique-de-la-migraine-chez-l-adulte-et-chez-l-enfant-aspects-cliniques-et-economiques)
 - [ICHD-3 version française 2019 (PDF)](https://ichd-3.org/wp-content/uploads/2019/06/ICHD3-traduction-fran%C3%A7aise-VF-%C3%A0-publier.pdf)
+
+### À lire
+
+[Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/migraine-nevralgie-du-trijumeau-algies-face)
 
 {{%/sources%}}
 {{% modal title="Score HAD" id="modal-had"%}}

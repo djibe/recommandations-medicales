@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-03T13:12:00+02:00"
 publishdate = "2021-04-05"
-lastmod = "2022-04-12"
+lastmod = "2022-11-14"
 specialites = ["gynecologie-obstetrique"]
 annees = "2018"
 sources = ["ACOG", "CNGOF", "HAS"]
@@ -16,18 +16,17 @@ sctid = "129103003"
 flowchart = true
 image = true
 imageSrc = "Illustration de l'endométriose par vectorjuice / Freepik"
-todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité physique bassin, contraceptions, information de la patiente, quid bilan IST/salpingite ?, app Luna"
+todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité physique bassin, information de la patiente, quid bilan IST/salpingite ?"
 +++
 
 {{%article-summary%}}
 
-- Évoquer devant des [douleurs pelviennes](/tags/douleur-pelvienne/) chroniques
-- Le diagnostic de l'endométriose est clinique
-- Explorations seulement quand douloureuse ou avec retentissement (infertilité, qualité de vie)
-- 1<sup>re</sup> intention: examen gynécologique et échographie pelvienne
-- Étayer le diagnostic différentiel
-- [Contraception œstroprogestative ou DIU LNG]({{< relref "contraception.md" >}}) à visée symptomatique
-- IRM pelvienne et avis du gynécologue si signes profonds, désir de grossesse, échec du traitement ou masse ovarienne
+- Évoquer une endométriose devant des [douleurs pelviennes](/tags/douleur-pelvienne/) chroniques
+- Le diagnostic d'endométriose est clinique
+- Explorations de l'endométriose seulement lorsqu'elle est douloureuse ou avec retentissement (infertilité, qualité de vie)
+- Prise en charge de l'endométriose en première intention: examen gynécologique et échographie pelvienne
+- Traitement par [contraception œstroprogestative ou stérilet au lévonorgestrel (LNG)]({{< relref "contraception.md" >}}) à visée symptomatique
+- IRM pelvienne et avis du gynécologue si symptômes pelviens profonds, désir de grossesse, échec du traitement ou masse ovarienne
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -52,27 +51,27 @@ Endométriome ovarien
 : Kyste endométriosique de l'ovaire.
 
 Dysménorrhée
-: Douleurs pelviennes ou dorsales menstruelles ou quelques jours avant.
+: Douleurs pelviennes ou dorsales menstruelles ou quelques jours avant les règles.
 
 {{%info%}}
 
 ### Les douleurs d'endométriose
 
 1. Une part importante des douleurs est *neuropathique* par l'atteinte des nerfs par l'endométriose  
-Ce sont des douleurs à type de coups d'aiguille ou d'étau irradiant le long des structures pelviennes.
-1. La fibrose endométriale entraîne une immobilité tissulaire douloureuse avec perte de fonction des organes  
-Traitée par auto-exercices, acupuncture, ostéopathie, yoga.
-1. Hypersensibilité centrale  
-Accessible à l'hypnose, psychothérapie, sexologie.
-1. Les douleurs inflammatoires sont surtout liées aux règles  
-Les AINS ne sont donc utilisés qu'en péri-menstruel.
+  Ce sont des douleurs à type de coups d'aiguille ou d'étau irradiant le long des structures pelviennes.
+2. La fibrose endométriale entraîne une immobilité tissulaire douloureuse avec perte de fonction des organes  
+  Traitée par auto-exercices, acupuncture, ostéopathie, yoga.
+3. Hypersensibilité centrale  
+  Accessible à l'hypnose, psychothérapie, sexologie.
+4. Les douleurs inflammatoires sont surtout liées aux règles  
+  Les AINS ne sont donc utilisés qu'en péri-menstruel.
 {{%/info%}}
 
-### Épidémiologie
+### Épidémiologie de l'endométriose
 
 - 2,5 millions de patientes en France, environ 10% des femmes en âge de procréer
-- Endométriose responsable de 30% des infertilités féminines
-- et 30% des femmes avec douleurs pelviennes chroniques
+- L'endométriose est responsable de 30% des infertilités féminines
+- et 30% des douleurs pelviennes chroniques féminines
 - 75% des douleurs pelviennes chroniques résistantes sont endométriosiques
 - 70% des adolescentes avec dysménorrhées
 
@@ -103,17 +102,17 @@ TV
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Pas de bilan complémentaire en dysménorrhée isolée contrôlée par une contraception (sauf souhait de grossesse immédiat){{%/info%}}
+{{%info%}}Pas de bilan complémentaire en cas de dysménorrhée isolée contrôlée par une contraception (sauf souhait de grossesse immédiat){{%/info%}}
 
-Prise en charge lors d'une consultation dédiée.
+Prise en charge de l'endométriose lors d'une consultation dédiée.
 
 ### Interrogatoire
 
-Évoquer devant des douleurs pelviennes chroniques.
+Évoquer une endométriose devant des douleurs pelviennes chroniques:
 
 - Dysménorrhées intenses
   - Douleurs pelviennes cycliques péri-menstruelles
-  - Type  
+  - Type des douleurs  
     Parts nociceptive ou neuropathique.
   - Intensité ≥ 8 (EAN)
   - Résistance aux paliers 1
@@ -145,25 +144,27 @@ Prise en charge lors d'une consultation dédiée.
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
+Autres diagnostics à étayer devant des douleurs pelviennes de la femme:
+
 - Adénomyose
 - Salpingite et inflammation pelvienne chronique
 - Fibromyomes utérins
 - Kyste ovarien
 - Cancer de l'ovaire
 - Douleurs d'origine digestive
-- Douleurs neuropathiques
+- [Douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}})
 - Violences sexuelles
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%info%}}Une imagerie normale n'infirme pas le diagnostic (20% de faux négatifs){{%/info%}}
+{{%info%}}Une imagerie normale n'élimine pas le diagnostic (20% de faux négatifs){{%/info%}}
 
 Pas de bilan biologique.
 
 ### Échographie pelvienne
 
-Échographie pelvienne par voie sus-pubienne dans le bilan initial (extension des lésions).  
+Échographie pelvienne par voie sus-pubienne dans le bilan initial (bilan d'extension des lésions).  
 L'échographie a les mêmes performances que l'IRM pour le diagnostic d'endométriome.
 
 L'échographie endovaginale peut faire partie du bilan de 2<sup>e</sup> intention.
@@ -192,10 +193,10 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
 
 ### Mesures générales
 
-Prise en charge de l'endométriose de première intention:
+Prise en charge de l'endométriose en première intention:
 
 - Antalgie
-  - Paliers 1 pendant ≥ 3 mois
+  - Paliers 1 pendant +3 mois
   - Paracétamol et AINS en péri-menstruel uniquement  
     Ibuprofène ou naproxène ± opioïdes si insuffisants.
   - Éviter les AINS au long cours
@@ -206,12 +207,10 @@ Prise en charge de l'endométriose de première intention:
   - Acupuncture, ostéopathie, yoga
   - Activité physique quotidienne avec exercices du bassin
   - Aucun régime ou supplémentation n'a de bénéfice prouvé
-- Association de patientes  
-  [EndoFrance](https://www.endofrance.org/)
-- Participer à la recherche  
-  [ComPaRe](https://compare.aphp.fr/)
+- Association de patientes: [EndoFrance](https://www.endofrance.org/)
+- Participer à la recherche: [ComPaRe](https://compare.aphp.fr/)
 
-### Traitements hormonaux de première intention
+### Traitements hormonaux de première intention pour l'endométriose
 
 {{%info%}}
 
@@ -225,9 +224,11 @@ Prise en charge de l'endométriose de première intention:
 
 Réévaluation des traitements sous quelques semaines pour tolérance-efficacité.
 
-**NB.** Pas de différence d'efficacité en augmentant la dose d'éthinylestradiol (EE) > 40 µg.
+**NB.** Pas de différence d'efficacité en augmentant la dose d'éthinylestradiol (EE) à +40 µg.
 
 ### Traitements de deuxième intention
+
+Traitements de l'endométriose de deuxième intention:
 
 - Contraception orale microprogestative au désogestrel
 - Implant à l'étonogestrel
@@ -237,7 +238,7 @@ Réévaluation des traitements sous quelques semaines pour tolérance-efficacit�
 
 ### Infertilité
 
-La prise en charge de l'infertilité relève d'un accompagnement par une équipe d'[Assistance Médicale à la Procréation](https://www.agence-biomedecine.fr/Autorisation-des-centres) (AMP).
+La prise en charge de l'infertilité associée à l'endométriose relève d'un accompagnement par une équipe d'[Assistance Médicale à la Procréation](https://www.agence-biomedecine.fr/Autorisation-des-centres) (AMP).
 
 {{% /collapse %}}
 {{%collapse "Centres experts de l'endométriose" %}}
@@ -309,11 +310,11 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [ACOG. Dysmenorrhea and Endometriosis in the Adolescent. 2018.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/12/dysmenorrhea-and-endometriosis-in-the-adolescent?utm_source=redirect&utm_medium=web&utm_campaign=otn)
+- [ACOG. Dysmenorrhea and Endometriosis in the Adolescent. 2018.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/12/dysmenorrhea-and-endometriosis-in-the-adolescent)
 - [CNGOF, ARS IDF, PNS-MOOC. Endométriose : l'affaire de tous. Mai 2021.](https://endometriose-affairedetous.com/)
-- Prescrire Rédaction. Endométriose douloureuse. En absence de projet de grossesse : paracétamol et AINS, voire estroprogestatif ou DIU au lévonorgestrel. Rev Prescrire 2019.
+- Prescrire Rédaction. Endométriose douloureuse. En absence de projet de grossesse : paracétamol et AINS, voire estroprogestatif ou DIU au lévonorgestrel. Prescrire. 2019.
 - [Inserm. Endométriose. Dossiers d'information. 11/12/2018.](https://www.inserm.fr/information-en-sante/dossiers-information/endometriose)
-- [HAS et CNGOF. Prise en charge de l'endométriose. Recommandation de bonne pratique. Décembre 2017.](https://www.has-sante.fr/jcms/c_2819733/fr/prise-en-charge-de-l-endometriose)
+- [HAS, CNGOF. Prise en charge de l'endométriose. Recommandation de bonne pratique. Décembre 2017.](https://www.has-sante.fr/jcms/c_2819733/fr/prise-en-charge-de-l-endometriose)
 
 {{%/sources%}}
 {{% modal title="Échelle EHP-5" id="modal-score-ehp5"%}}

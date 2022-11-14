@@ -10,7 +10,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-14T15:58:37+01:00"
 publishdate = "2021-12-14"
-lastmod = "2022-09-30"
+lastmod = "2022-11-14"
 specialites = []
 annees = "2022"
 sources = []
@@ -22,7 +22,7 @@ imageSrc = "Scores cliniques par slidesgo / Freepik"
 todo = "texte, ACT"
 +++
 
-Ensemble de grilles et scores essentiels en pratique quotidienne de médecine générale, classés par organe.
+Sélection de grilles et scores essentiels en pratique quotidienne de médecine générale, classés par appareil.
 
 ## Cardiovasculaire {.typography-overline}
 
@@ -62,6 +62,7 @@ Ensemble de grilles et scores essentiels en pratique quotidienne de médecine g�
 
 ## Pneumologie {.typography-overline}
 
+- {{< modal-btn modal-fagerstrom >}}Test de Fagerström{{< /modal-btn >}}
 - {{< modal-btn modal-depistage-bpco >}}Dépistage BPCO{{< /modal-btn >}}
 - {{< modal-btn modal-score-mmrc >}}Score mMRC{{< /modal-btn >}}
 
@@ -157,6 +158,11 @@ Ensemble de grilles et scores essentiels en pratique quotidienne de médecine g�
 {{< scores/dn4 >}}
 
 {{%/modal%}}
+{{% modal title="Test de Fagerström de dépendance au tabac" id="modal-fagerstrom"%}}
+
+{{< scores/fagerstrom >}}
+
+{{% /modal %}}
 {{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}
 
 {{< clinique/depistage-bpco-gold >}}

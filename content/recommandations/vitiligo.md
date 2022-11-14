@@ -15,7 +15,7 @@ anglais = ["Vitiligo"]
 sctid = "56727007"
 draft = true
 image = false
-imageSrc = ""
+imageSrc = "Photo de vitiligo des mains par James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
 todo = ""
 +++
 
@@ -69,6 +69,8 @@ BAD
 Le diagnostic de vitiligo est clinique avec à la lampe de Wood un dépigmentation totale des zones achromiques.
 
 ATCD familiaux
+Etat psychologique
+Qualité de vie
 
 ### Forme segmentaire
 
@@ -77,6 +79,8 @@ Atteinte circonscrite à une zone bien délimitée.
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
+La prise en charge du vitiligo relève du dermatologue.
+
 Limiter les frottements
 
 Traitement par le spécialiste:
@@ -84,7 +88,8 @@ Traitement par le spécialiste:
 Autobronzant
 Maquillage médical pur dermatologue spécialiste
 Crème dermocorticoïde ou tacrolimus (hors AMM)
-Photothérapie UVB
+Photothérapie UVB, PUVA
+Laser
 Greffe mélanocytaire
 Chirurgie exceptionnelle
 

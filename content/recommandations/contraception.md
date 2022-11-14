@@ -125,7 +125,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 
 {{%info%}}La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares (*CNGOF 2018*){{%/info%}}
 
-{{< table title="Spécialités de contraception disponibles en France en 2022. Dr JB Fron d'après BDPM" class="table-wrap" id="table-pilule" >}}
+{{< table title="Spécialités de contraception disponibles en France en 2022 (sauf dernières générations et DMPA qui augmentent le risque vasculaire). Dr JB Fron d'après BDPM" class="table-wrap" id="table-pilule" >}}
 | Type        | EE (µg)  | Progestatif (mg) | Spécialités     |
 |-------------|---------:|------------------|-----------------|
 | 2G          | 30/40    | LNG 0,15-0,2     | Adepal, Pacilia |
@@ -145,12 +145,13 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 {{< /table >}}
 
 > **EE** = éthinyl-estradiol ; **gén** = générique ; **LNG** = lévonorgestrel ; **NR** = non remboursé. Les pilules de 1<sup>re</sup> génération ne sont plus disponibles en France.  
-Ne sont pas listées: les 3<sup>e</sup> et 4<sup>e</sup> générations ainsi que le DMPA qui augmentent le risque vasculaire. Autres: diaphragme, capes cervicales (NR), spermicides (NR), retrait, stérilisation, Ogino.
+Autres contraceptions: diaphragme, capes cervicales (NR), spermicides (NR), retrait, stérilisation, méthode Ogino.
 
-Les générations de pilules œstroprogestatives correspondent à la date de mise sur le marché du progestatif (P3: desogestrel, gestodène et norgestimate; P4: drospirénone). **Utiliser LNG et norgestimate en première intention**, les 3<sup>e</sup> et 4<sup>e</sup> doublant le risque de MVTE (*HAS 2013*).  
+Les générations de pilules œstroprogestatives correspondent à la date de mise sur le marché du progestatif (P3: désogestrel, gestodène et norgestimate; P4: drospirénone). **Utiliser LNG et norgestimate en première intention**, les autres progestatifs de 3<sup>e</sup> et 4<sup>e</sup> générations doublent le risque de MVTE (*HAS 2013*).  
 Pas d'arrêt brutal d'une contraception de 3-4<sup>e</sup> génération bien tolérée.
 
-Intérêt de présenter les contraceptions par *[groupe d'efficacité](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)* (plutôt que par nombre de grossesses): hormonale (pilule 2<sup>e</sup> génération, progestative, implant), DIU, contraception d'urgence et stérilisation. Patch et anneau vaginal réservés en intolérance aux moyens déjà listés (sur-risque thrombo-embolique).
+Intérêt de présenter les contraceptions par *[groupe d'efficacité](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)* (plutôt que par nombre de grossesses): hormonale (pilule 2<sup>e</sup> génération, progestative, implant), DIU, contraception d'urgence et stérilisation.  
+Patch et anneau vaginal réservés en intolérance aux moyens déjà listés (sur-risque thrombo-embolique).
 Ces moyens efficaces sont **gratuits jusqu'à 25 ans révolus** (sauf patch et anneau qui ont risque de MVTE augmenté, *[Service public](https://www.service-public.fr/particuliers/actualites/A15158)*).
 
 **NB.** Possibilité de faire renouveler une fois le contraceptif oral pour 6 mois en présentation d'une ordonnance de moins d'un an.
@@ -158,7 +159,7 @@ Ces moyens efficaces sont **gratuits jusqu'à 25 ans révolus** (sauf patch et a
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Nécessité d'une consultation dédiée pour la primo-prescription, renouvelée à 3 mois puis annuelle.
+Nécessité d'une consultation dédiée pour la primo-prescription d'une contraception, renouvelée à 3 mois puis annuelle.
 
 ### Interrogatoire
 
@@ -212,8 +213,8 @@ Bilan après 3-6 mois de contraception (avant et renouvelé en antécédent fami
 
 #### DIU
 
-Pas de dépistage systématique des IST avant la pose sauf personne à risque.  
-Notamment [Ct]({{< relref "chlamydia-trachomatis.md" >}}) chez les 15-25 ans ou partenaires multiples non protégés.
+Pas de dépistage systématique des IST avant la pose du dispositif intra-utérin (DIU, stérilet) sauf personne à risque.  
+Notamment *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* chez les 15-25 ans ou partenaires multiples non protégés.
 
 > *CNGOF 2018*
 
@@ -222,7 +223,7 @@ Notamment [Ct]({{< relref "chlamydia-trachomatis.md" >}}) chez les 15-25 ans ou 
 
 ### Première consultation contraception gratuite
 
-Pour une première consultation chez une jeune femme ou un jeune homme < 26 ans, coter **CCP** (46€, une seule fois) avec TP AMO.
+Pour une première consultation chez une jeune femme ou un jeune homme -26 ans, coter **CCP** (46€, une seule fois) avec TP AMO.
 
 La première consultation reprend les types de contraceptifs groupés par efficacité, leurs avantages, limites et inconvénients, la contraception d'urgence et les IST.
 
