@@ -1,12 +1,12 @@
 +++
 title = "Maladie de Lyme"
 prefix = "la "
-description = "Recommandations pour la prise en charge de la borréliose Maladie de Lyme. Prévention, érythème migrant, examens diagnostiques et traitement par antibiothérapie"
+description = "Recommandations pour la prise en charge de la borréliose (maladie) de Lyme. Prévention, érythème migrant, examens diagnostiques et traitement par antibiotiques"
 synonyms = ["Borréliose de Lyme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-30T18:17:39+02:00"
 publishdate = "2021-10-02"
-lastmod = "2022-04-27"
+lastmod = "2022-11-15"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "DGS"]
@@ -15,26 +15,26 @@ anglais = ["Lyme disease"]
 sctid = "23502006"
 image = true
 imageSrc = "Érythème migrant. Photo de monkeypuzzle sur Foter"
-todo = "SEO, algo HAS Annexe 2 et 3"
+todo = "algo HAS Annexe 2 et 3"
 +++
 
 {{%article-summary%}}
 
-- Zones à risque: métropole entière (surtout Alsace, Lorraine, Limousin)
-- Mesure de prévention en forêt
-- Piqûre de tique: tire-tique, auto-surveillance 30 jours, [signaler la piqûre](https://tiquotheque.fr/signalement/public/)
-- Érythème migrant: survient dans les 30 jours, diagnostic clinique, antibiothérapie 14j, guérison à J14
-- [Paralysie faciale]({{< relref "paralysie-faciale-idiopathique.md" >}}) ou péricardite idiopathique: sérologie systématique
-- Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose
+- Zones à risque de tiques: métropole entière (surtout Alsace, Lorraine, Limousin)
+- Mesure de prévention des piqûres de tique en forêt
+- Prise en charge d'une piqûre de tique: tire-tique, auto-surveillance 30 jours, [signaler la piqûre](https://tiquotheque.fr/signalement/public/)
+- Recommandations pour la prise en charge d'un érythème migrant: survient dans les 30 jours, diagnostic clinique, antibiothérapie 14 jours, contrôle de guérison à J14
+- [Paralysie faciale]({{< relref "paralysie-faciale-idiopathique.md" >}}) ou péricardite idiopathique: sérologie borréliose systématique
+- Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose (complication neurologique de la maladie de Lyme)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Maladie de Lyme
 : Infection survenant lors d'une piqûre par une tique infectée par une bactérie de la famille des spirochètes: *Borrelia burgdorferi* (voire *Borrelia garinii* ou *Borrelia afzelii*).
-: Pas de surmortalité même en neuroborréliose.  
+: Pas de surmortalité même en cas de neuroborréliose.  
 Les autres maladies transmises par les tiques (maladies vectorielles à tiques) sont exceptionnelles.
-: En symptômes évocateurs, seuls 15% ont un diagnostic réel de Lyme (*[Jacquet 2019](https://doi.org/10.1016/j.medmal.2018.06.002)*).  
+: En présence de symptômes évocateurs de maladie de Lyme, seuls 15% ont un diagnostic réel de Lyme (*[Jacquet 2019](https://doi.org/10.1016/j.medmal.2018.06.002)*).  
 Diagnostic différentiel: neurologique (12-19%), rhumatologique (15-43%), psychiatrique, psychologique (burn-out 13-25%), auto-immun.
 
 La sérologie de Lyme
@@ -63,12 +63,12 @@ LCS
 : liquide cérébrospinal
 
 MVT
-: maladies vectorielles à tiques (borréliose de Lyme, méningo-encéphalite à tiques, tularémie, babésiose, anaplasmose granulocytique humaine, certaines rickettsioses et les infections à Candidatus neoehrlichia mikurensis)
+: maladies vectorielles à tiques (borréliose de Lyme, méningo-encéphalite à tiques, tularémie, babésiose, anaplasmose granulocytique humaine, certaines rickettsioses et les infections à *Candidatus neoehrlichia mikurensis*)
 {.dl-inline}
 
-### Épidémiologie de la borréliose de Lyme en France
+### Épidémiologie de la maladie de Lyme en France
 
-- Incidence: 25-68.500 diagnostics annuels en médecine générale
+Incidence de 25 à 68.500 diagnostics annuels en médecine générale.
 
 {{% /collapse %}}
 {{%collapse "Prévention de la maladie" %}}
@@ -100,13 +100,12 @@ Inefficaces: huiles essentielles (lavande, citronnelle), bracelets insecticides.
 
 ### Zones d'endémie des tiques
 
-Métropole entière (surtout Alsace, Lorraine, Limousin).  
-Moins fréquent sur la méditerranée.
+Les tiques sont dispersées sur la Métropole entière (surtout Alsace, Lorraine, Limousin), moins fréquentes en Méditerranée.
 
 {{% /collapse %}}
 {{%collapse "Extraction d'une tique" %}}
 
-Le risque de borréliose de Lyme est < 5% (même en zone de forte endémie avec fixation prolongée de la tique).
+Le risque de borréliose de Lyme est inférieur à 5% après une piqûre de tique (même en zone de forte endémie avec fixation prolongée de la tique).
 
 ### Prise en charge d'une morsure de tique
 
@@ -129,36 +128,35 @@ Prise en charge recommandée après une morsure de tique:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Évolution de la borréliose en 3 phases: localisée précoce (érythème migrant), disséminée précoce (évolution < 6 mois) et tardive (> 6 mois).
+Évolution de la maladie de Lyme en 3 phases: localisée précoce (érythème migrant), disséminée précoce (évolution < 6 mois) et tardive (+6 mois):
+
+- Recrudescence de mars à novembre
+- Maladie plus fréquente après 60 ans
+- Signes négatifs
+  - Fièvre
+  - Syndrome inflammatoire
 
 {{%info%}}
-La séropositivité ne peut suffire à elle seule pour diagnostiquer une infection (nombreux asymptomatiques)
+La séropositivité *Borrelia* ne peut suffire à elle seule pour diagnostiquer une infection (nombreux asymptomatiques)
 
 ---
 
 La découverte fortuite d'une sérologie de Lyme positive sans signes évocateurs ne doit pas engager d'autres examens.
 {{%/info%}}
 
-- De mars à novembre
-- Maladie + fréquente après 60 ans
-- Signes négatifs
-  - Fièvre
-  - Syndrome inflammatoire
-
 ### Érythème migrant
 
-{{%info%}}Antibiothérapie sans aucun examen complémentaire{{%/info%}}
+{{%info%}}Antibiothérapie de tout érythème migrant sans aucun examen complémentaire{{%/info%}}
 
-- Notion de piqûre locale de tique
-- Trace de piqûre de tique (inconstante)
-- Survenue dans les **3 à 30 jours**
-- Macule rose à rouge, ovalaire
-- Éclaircissement central inconstant
-- Croissance régulière centrifuge  
-  Souvent **> 5 cm** au diagnostic.
-- Non prurigineuse
-- Plusieurs macules érythémateuses possibles  
-  Surtout chez l'enfant: Érythèmes migrants multiples (EMM).
+- Notion de piqûre locale de tique voire trace de la piqûre (inconstante)
+- Survenue dans les **3 à 30 jours**:
+  - Macule rose à rouge, ovalaire
+  - Éclaircissement central inconstant
+  - Croissance régulière centrifuge  
+    Souvent **> 5 cm** au diagnostic.
+  - Non prurigineuse
+  - Plusieurs macules érythémateuses possibles  
+    Surtout chez l'enfant: Érythèmes migrants multiples (EMM).
 - Signes négatifs
   - Érythème douloureux
   - Ulcération, tâche noire, lésion croûteuse
@@ -167,7 +165,7 @@ La découverte fortuite d'une sérologie de Lyme positive sans signes évocateur
   - Adresser en infectiologie ou au CC MVT car évoque une autre MVT (rickettsiose, tularémie)
 - Signes généraux possibles
 - Guérit en 7 à 13 jours sous traitement antibiotique adapté  
-  Remettre en cause le diagnostic si persiste.
+  Remettre en cause le diagnostic si persiste en fin de traitement.
 
 [Photos d'érythèmes migrants](https://www.nice.org.uk/guidance/ng95/resources/lyme-disease-rash-images-pdf-4792273597)
 
@@ -176,10 +174,11 @@ La découverte fortuite d'une sérologie de Lyme positive sans signes évocateur
 
 ### Phase disséminée précoce: Lymphocytome borrélien
 
+Caractères cliniques du lymphocytome borrélien:
+
 - Plaque ou nodule solitaire infiltré
 - Croissance lente
-- Couleur variable  
-  Rose-rouge, rouge-brun.
+- Couleur variable: Rose-rouge, rouge-brun
 - Asymptomatique ou prurit léger
 - Localisation spécifique  
   Lobule oreille enfant, plaque aréolaire ou scrotum de l'adulte ou exceptionnellement visage, tronc ou membre.
@@ -213,8 +212,8 @@ Autres signes cliniques et symptômes de la maladie de Lyme:
 
 ### Neuroborréliose de Lyme
 
-Présente dans 6,5-15% des borrélioses de Lyme.  
-Survient dans la phase disséminée précoce (< 6 mois, > 90% des cas).
+La neuroborréliose est présente dans 6,5 à 15% des borrélioses de Lyme.  
+Elle survient dans la phase disséminée précoce (< 6 mois, +90% des cas).
 
 {{%info%}}Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose{{%/info%}}
 
@@ -238,10 +237,10 @@ Adresser au CC MVT pour investigations et ponction lombaire.
 #### Pour en savoir plus: critères diagnostiques européens de la maladie de Lyme
 
 1. Symptômes compatibles avec une neuroborréliose
-1. Pléiocytose du liquide cérébro-spinal (LCS)
-1. Anticorps anti-Borrelia dans le LCS
+2. Pléiocytose du liquide cérébro-spinal (LCS)
+3. Anticorps anti-Borrelia dans le LCS
 
-Diagnostic certain si 3 critères - possible si 2 - exclu si ≤ 1.
+Diagnostic de maladie de Lyme certain si 3 critères - possible si 2 - exclu si ≤ 1.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la maladie de Lyme" %}}
@@ -260,7 +259,7 @@ Prise en charge thérapeutique de l'érythème migrant après piqûre de tique:
 - Surveillance clinique de la guérison à J14
 - Photos avant et évolution sous traitement
 - Disparition complète de l'érythème en 1 semaine à 1 mois  
-  Persistance à 1 mois: observance de l'antibiotique, étude d'un diagnostic différentiel, avis dermatologique.
+  Persistance à 1 mois: observance de l'antibiotique, étude d'un diagnostic différentiel, **avis dermatologique**.
 - Traitement identique en érythèmes migrants multiples (EMM)
 
 L'antibiothérapie de référence de la maladie de Lyme au stade de l'érythème migrant est la doxycycline et l'amoxicilline avant 8 ans.
@@ -279,7 +278,7 @@ Antibiothérapie pendant 14 jours:
 
 ### Traitement du lymphocytome borrélien
 
-Prise en charge avec des posologies identiques.  
+Prise en charge du lymphocytome borrélien avec des posologies identiques.  
 Antibiothérapie pendant 21 jours sauf enfant < 8 ans avec l'azithromycine: 10 jours.
 
 Traitement par l'infectiologue des autres formes de borréliose.
