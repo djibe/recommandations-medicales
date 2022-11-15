@@ -2,15 +2,15 @@
 title = "Polyarthrite rhumatoïde"
 prefix = "la "
 titleSeo = "Polyarthrite rhumatoïde"
-description = "Recommandations SFR 2018 pour le diagnostic et le traitement de la polyarthrite rhumatoïde. Anticorps et radiographies. AINS, méthotrexate, biothérapie"
+description = "Recommandations pour le diagnostic et la prise en charge de la polyarthrite rhumatoïde. Anticorps et radiographies. Corticoïdes, méthotrexate voire biothérapie"
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr JG LETAROUILLY (SFR)"
 date = "2020-10-23T22:24:41+02:00"
 publishdate = "2020-10-23"
-lastmod = "2022-11-12"
+lastmod = "2022-11-15"
 specialites = ["rhumatologie"]
-annees = "2018"
-sources = ["SFRhumato", "EULAR", "ACR", "HAS"]
+annees = "2022"
+sources = ["EULAR", "SFRhumato", "ACR", "HAS"]
 tags = ["biotherapie", "vaccin"]
 anglais = ["Rheumatoid arthritis"]
 sctid = "69896004"
@@ -18,7 +18,6 @@ image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "lire sources, Échodoppler des TSA ?"
 +++
 
 {{%article-summary%}}
@@ -55,10 +54,14 @@ Autres diagnostics à évoquer devant des polyarthralgies:
 
 Éléments en faveur d'une forme sévère:
 
+- Persistance d'une activité modérée à forte sous traitement conventionnel selon un score composite (dont nombre élevé d'articulations gonflées
+- VS et CRP élevées
+- Nombreuses articulations gonflées
+- Présence de facteur rhumatoïde et/ou d'ACPA (surtout si taux élevés ≥ 3N)
 - Érosions précoces
-- Présence de facteur rhumatoïde et d'ACPA (surtout si taux élevés ≥ 3N)
-- Persistance d'une activité modérée à forte sous traitement conventionnel avec niveau élevé de VS et CRP et/ou nombre élevé d'articulations gonflées
-- Échec ≥ 2 traitements conventionnels
+- Échec d'au moins 2 traitements conventionnels
+
+> *EULAR 2022*
 
 ### Abréviations
 
@@ -125,12 +128,12 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
 
 - NFS, VS, CRP
 - ASAT, ALAT, PAL, bilirubine
-- Créatininémie, CKD-EPI
+- Créatininémie, DFG selon CKD-EPI
 - Bandelette urinaire (protéinurie, hématurie)
 - Facteur rhumatoïde (FR)
 - Anticorps anti-peptide citrulliné (*ACPA* ou *anti-CCP*)
 - Anticorps antinucléaires (AAN)
-- Sérologies [hépatites B]({{< relref "hepatite-c.md" >}}) et [C]({{< relref "hepatite-c.md">}}), [VIH]({{< relref "vih-sida.md" >}})
+- Sérologies [hépatite B]({{< relref "hepatite-c.md" >}}), [hépatite C]({{< relref "hepatite-c.md">}}) et [VIH]({{< relref "vih-sida.md" >}})
 
 avec les radiographies suivantes:
 
@@ -189,7 +192,7 @@ Mesures générales de prise en charge de la polyarthrite:
 {{%collapse "Traitements spécifiques de la polyarthrite rhumatoïde" %}}
 
 {{%info%}}
-Chapitre pour en savoir plus sur la prise en charge par les traitements de fond de la PR.  
+Chapitre pour en savoir plus sur la prise en charge de la polyarthrite par les traitements de fond spécifiques.  
 Ceux-ci relèvent exclusivement du rhumatologue.
 {{%/info%}}
 
@@ -211,7 +214,8 @@ Augmentation de 5 mg/1-4 semaines selon efficacité-tolérance.
 
 ---
 
-10 mg/semaine d'acide folique systématique
+10 mg/semaine d'acide folique systématique  
+Associée à une corticothérapie initiale.
 {{%/info%}}
 
 Voie sous-cutanée au-delà de 15 mg/semaine ou si efficacité insuffisante (Imeth injectable®, Metoject®, Nordimet®, génériques).
@@ -232,8 +236,7 @@ En association avec le méthotrexate (≥ 10 mg/semaine), selon la tolérance, p
   - Sous-cutanés: adalimumab (Humira® ou Amgevita®, Hulio®, Amsparity®, Hyrimoz®, Idacio®, Imraldi®, Yuflyma®), certolizumab (Cimzia®), étanercept (Benepali®, Enbrel® ou Erelzi®, Nepexto®), golimumab (Simponi®)
   - IV: infliximab (Remicade® ou Flixabi®, Inflextra®, Remsima®, Zessly®)
 - Anti-IL6
-  - Tocilizumab (Roactemra®)
-  - Sarilumab (Kevzara®)
+  - Sarilumab (Kevzara®), tocilizumab (Roactemra®)
 - Anti-CD20  
   Rituximab (pour cas spécifiques: Mabthera®, Truxima®).
 - Inhibiteurs JAK  
@@ -251,11 +254,11 @@ OU rotation léflunomide - sulfasalazine.
 
 ### Corticothérapie orale
 
-En attente de l'efficacité du traitement de fond ou lors du échange de traitement de fond.  
-Posologie initiale ex. 0,15 mg/kg.
+En attente de l'efficacité du traitement de fond ou lors de son remplacement.  
+Posologie initiale ex. 0,15 mg/kg. On parle de faible dose quand ≤ 7,5 mg/j d'équivalent prednisone.
 
 **Arrêt sous 3 mois avec décroissance progressive (maximum 6 mois)**, dose minimale suffisante.  
-Complications fréquentes: ostéoporose, surinfections.  
+Complications fréquentes: [ostéoporose]({{< relref "osteoporose.md" >}}), surinfections.  
 Alternative: méthylprednisolone IV 80-120 mg.
 
 ### Infiltrations de corticoïdes
@@ -280,7 +283,7 @@ Infiltrations ciblées des articulations douloureuses.
 ### Pour en savoir plus: suivi par le rhumatologue
 
 - Par le rhumatologue tous les 1 à 3 mois tant que la maladie est active
-- [Indice articulaire DAS28](https://sfr.larhumatologie.fr/sites/sfr.larhumatologie.fr/files/medias/formations-ressources/boite_outils/das28.pdf)
+- [Indice articulaire DAS28 (PDF)](https://sfr.larhumatologie.fr/sites/sfr.larhumatologie.fr/files/medias/formations-ressources/boite_outils/das28.pdf)
 - Évaluation annuelle du retentissement: [échelle HAQ](http://www.arthrites.be/fr/pr.asp?Rub=127)
 
 {{% /collapse %}}
@@ -315,17 +318,14 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
+- [Smolen JS. et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. Annals of the Rheumatic Diseases. 2022.](https://ard.bmj.com/content/early/2022/11/10/ard-2022-223356)
 - [Daien C., Czernichow S, Letarouilly JG et al. Recommandations de la Société française de rhumatologie sur l'alimentation des patients ayant un rhumatisme inflammatoire chronique. Revue du Rhumatisme. 2021.](https://www.sciencedirect.com/science/article/pii/S1169833021009108)
-- [Daien C. et al. Actualisation des Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. 2018.](https://www.sciencedirect.com/science/article/pii/S1169833018301522)
-- [EULAR. 2016 update of the EULAR recommandations for the management of early arthritis. 03/31/2017.](https://ard.bmj.com/content/76/6/948)
-- [EULAR. EULAR recommandations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs : 2016 update. 03/17/2017.](https://ard.bmj.com/content/76/6/960)
+- [Daien C. et al. Actualisation des Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. Revue du Rhumatisme. 2019.](https://www.sciencedirect.com/science/article/pii/S1169833018301522)
+- [Combe B, Landewe R, Daien CI, et al. 2016 update of the EULAR recommendations for the management of early arthritis. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/6/948)
+- [Smolen JS. et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2016 update. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/6/960)
 - [HAS. ALD n° 22 - Polyarthrite rhumatoïde évolutive grave. 2008 et 2015.](https://www.has-sante.fr/jcms/c_664454/fr/ald-n-22-polyarthrite-rhumatoide-evolutive-grave)
 - [Société Française de Rhumatologie. Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. Juin 2014.](https://www.sciencedirect.com/science/article/pii/S1169833014001148)
 - [Le COFER. Polyarthrite rhumatoïde. Item 196 UE 8.](http://www.lecofer.org/item-cours-1-17-0.php)
-
-### À lire
-
-[Smolen J. et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. Annals of the Rheumatic Diseases. 2022.](https://ard.bmj.com/content/early/2022/11/10/ard-2022-223356)
 
 {{%/sources%}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}

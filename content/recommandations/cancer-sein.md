@@ -267,6 +267,8 @@ Les mammographies sont remboursées à 100% (les examens supplémentaires ne le 
 {{% /collapse %}}
 {{%collapse "Prise en charge rapide d'anomalies du sein" %}}
 
+[Tous les établissements de France pour le cancer du sein](https://www.e-cancer.fr/Professionnels-de-sante/L-organisation-de-l-offre-de-soins/Traitements-du-cancer-les-etablissements-autorises/Carte-interactive-de-l-offre-de-soins-en-cancerologie)
+
 ### En Île-de-France
 
 - Institut Gustave Roussy (IGR)
