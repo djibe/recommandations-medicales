@@ -329,11 +329,75 @@ Radiographie de thorax systématique au diagnostic.
 - Consultation ORL
 
 {{% /collapse %}}
-{{%collapse "Traitement de l'exacerbation" %}}
+{{%collapse "Traitement de l'exacerbation" "show"%}}
 
 Reconnaissance de la crise d'asthme (exacerbation) par le patient et application du *plan d'action*.
 
 ### Le plan d'action écrit
+
+<!--<div class="card card-body border shadow-none my-2 flex-row justify-content-between" style="background-color: rgba(var(--bg-rgb), 0.05)">
+  <div>
+    <p class="typography-overline">Âge</p>
+    <input type="radio" name="asthme-age" id="enfant" class="d-input-none" required>
+    <label for="enfant" class="chip chip-action chip-choice chip-sm">6-11</label>
+    <input type="radio" name="asthme-age" id="ado" class="d-input-none">
+    <label for="ado" class="chip chip-action chip-choice chip-sm">Adolescent</label>
+    <input type="radio" name="asthme-age" id="adulte" class="d-input-none" checked>
+    <label for="adulte" class="chip chip-action chip-choice chip-sm">Adulte</label>
+  </div>
+  <div>
+    <p class="typography-overline">Stade GINA</p>
+    <input type="radio" name="asthme-stade" id="niveau1" class="d-input-none" checked required>
+    <label for="niveau1" class="chip chip-action chip-choice chip-sm" data-toggle="tooltip" title="Symptômes &lt; 2/mois">1</label>
+    <input type="radio" name="asthme-stade" id="niveau2" class="d-input-none">
+    <label for="niveau2" class="chip chip-action chip-choice chip-sm" data-toggle="tooltip" title="Contrôlé par CSI faible dose">2</label>
+    <input type="radio" name="asthme-stade" id="niveau3" class="d-input-none">
+    <label for="niveau3" class="chip chip-action chip-choice chip-sm" data-toggle="tooltip" title="Contrôlé par CSI+LABA faible ou CSI moyen">3</label>
+    <input type="radio" name="asthme-stade" id="niveau4" class="d-input-none">
+    <label for="niveau4" class="chip chip-action chip-choice chip-sm">4</label>
+    <input type="radio" name="asthme-stade" id="niveau5" class="d-input-none">
+    <label for="niveau5" class="chip chip-action chip-choice chip-sm">5</label>
+  </div>
+</div>
+<div class="card card-body my-2">
+  <h4 class="card-title">Traitement de fond</h4>
+  <p>Budésonide/formotérol 200/6 à la demande</p>
+</div>
+<div class="card card-body my-2">
+  <h4 class="card-title">Exacerbation d'asthme</h4>
+  <p class="card-subtitle">Utilisation fréquente du traitement de secours, réveil avec asthme, activités habituelles impossibles. Augmentation pendant 1-2 semaines.</p>
+  <p>Budésonide/formotérol à la demande</p>
+</div>
+<div class="card card-body my-2">
+  <h4 class="card-title">Exacerbation sévère</h4>
+  <p class="card-subtitle">DEP &lt; 60% ou <strong>absence de réponse à 48 heures</strong></p>
+  <p>Prednisolone <span id="asthme-cso">40-50 mg/j pendant 5-7 jours</span></p>
+  <p>Consultation médicale urgente</p>
+</div>
+<script>
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const age = document.getElementByTagName('asthme-age')
+    const gina = document.getElementByTagName('asthme-stade');
+    [...document.querySelectorAll('#score-act input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcAct() ) })
+    const calcAct = () => {
+      let score = 0
+      const elemsChecked = document.querySelectorAll('#score-act input[type=\"radio\"]:checked')
+        elemsChecked.forEach(elemChecked => {
+        score += parseInt(elemChecked.value, 10)
+        if (elemsChecked.length === 5) {
+          scoreAct.innerHTML = score
+          if (score >= 20) {
+            textAct.innerHTML = "Asthme contrôlé"
+          }
+          else if (score < 20) {
+            textAct.innerHTML = "Asthme non contrôlé<br><span class=\"text-muted\">Intensifier le traitement (augmenter le CSI &plusmn; LABA)</span>"
+          }
+        } else {
+          textAct.innerHTML = "Veuillez répondre à toutes les questions"
+        }
+      })
+    }
+</script>-->
 
 Il doit préciser:
 
@@ -518,7 +582,7 @@ La prescription dépend uniquement du pneumologue:
 {{< video poster="https://splf.fr/wp-content/uploads/2021/11/Webinaire-2021-12-06-1300-500.jpg" mp4="https://dts.podtrac.com/redirect.mp4/docs.splf.fr/videos/Webinaires/2021/Webinaire-asthme-2021-12-09.mp4" description="Mise à jour des recommandations 2021 pour la prise en charge des patients asthmatiques adultes (SPLF)" width="600" height="330" >}}
 
 - [GINA. Global strategy for the asthma management and prevention. 2022.](https://ginasthma.org/reports/)
-- [Gaillard EA. et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5–16 years. Eur Respir J. 2021.](https://doi.org/10.1183/13993003.04173-2020)
+- [Gaillard EA. et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5-16 years. Eur Respir J. 2021.](https://doi.org/10.1183/13993003.04173-2020)
 - [Collège des enseignants de pneumologie. Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_188_ASTHME-RHINITE_2021_ex_item_1841.pdf)
 - [Raherison-Semjen C. et al. Asthme. Revue des Maladies Respiratoires Actualités. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1877120320300598)
 - [Santé Publique France. Asthme. 05/10/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/asthme)

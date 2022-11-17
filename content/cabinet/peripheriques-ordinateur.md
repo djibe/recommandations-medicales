@@ -12,7 +12,7 @@ sources = []
 tags = []
 image = true
 imageSrc = "Illustration par macrovector / Freepik"
-todo= "scanners barrettes, https://www.clubic.com/materiel-informatique/imprimante/article-851535-1-meilleure-imprimante-laser-comparatif.html#"
+todo = "https://www.clubic.com/materiel-informatique/imprimante/article-851535-1-meilleure-imprimante-laser-comparatif.html + UFC"
 +++
 
 Ensemble de périphériques pour l'utilisation bureautique quotidienne au cabinet médical.

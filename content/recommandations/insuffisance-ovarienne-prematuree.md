@@ -22,7 +22,7 @@ todo = "tabac, Anticorps anti-surrénaliens, Turner, ESHRE"
 
 {{%article-summary%}}
 
-- Évoquer une ménopause précoce chez femme -40 ans avec aménorrhée (ou spanioménorrhée) accompagnée d'un syndrome climatérique
+- Évoquer une ménopause précoce chez la femme -40 ans avec aménorrhée (ou spanioménorrhée) accompagnée d'un syndrome climatérique
 - Le diagnostic d'insuffisance ovarienne prématurée est clinico-biologique: aménorrhée ou spanioménorrhée ≥ 4 mois avant 40 ans avec FSH ≥ 25 UI/L et estradiol bas (à 2 reprises à 4 semaines d'intervalle)
 - Des maladies auto-immunes sont fréquemment associées
 - Exploration de la ménopause précoce dans un [centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/)
@@ -50,14 +50,14 @@ Spanioménorrhée
 : Diminution de la fréquence des cycles menstruels (= allongement de leur durée).
 
 {{< table title="Terminologie de la ménopause. Dr JB Fron d'après CNGOF 2021" >}}
-| Situation de survenue   | Terme                          |
-|-------------------------|--------------------------------|
-| &gt; 55 ans             | Ménopause tardive              |
-| 45-55 ans               | Ménopause naturelle            |
-| 40-45 ans               | Ménopause anticipée            |
-| &lt; 40 ans             | Insuffisance ovarienne prématurée |
-| Radio/chimio-induite    | Ménopause iatrogène            |
-| Ovariectomie bilatérale | Ménopause chirurgicale         |
+| Situation de survenue (ans)   | Terme                          |
+|------------------------------:|--------------------------------|
+| +55                           | Ménopause tardive              |
+| 45-55                         | Ménopause naturelle            |
+| 40-45                         | Ménopause anticipée            |
+| &lt; 40 ans                   | Insuffisance ovarienne prématurée |
+| Radio/chimio-induite          | Ménopause iatrogène            |
+| Ovariectomie bilatérale       | Ménopause chirurgicale         |
 {{< /table >}}
 
 ### Abréviations
