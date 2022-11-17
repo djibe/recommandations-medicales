@@ -10,7 +10,7 @@ sources = []
 tags = []
 image = true
 imageSrc = "Illustration de l'Assistant médical par pch.vector / Freepik"
-todo = "Droit du travail"
+todo = "activité médecin pour les Percentiles, Droit du travail"
 +++
 
 Le recours à un assistant médical est soutenu par l'Assurance Maladie depuis 2019 afin de recentrer la pratique du médecin généraliste sur les soins.
