@@ -3989,6 +3989,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   justify-content: space-between !important;
 }
 
+.justify-content-evenly {
+  justify-content: space-evenly !important;
+}
+
 .align-items-center {
   align-items: center !important;
 }
@@ -4053,6 +4057,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 
 .ml-1 {
   margin-left: 0.25rem !important;
+}
+
+.m-2 {
+  margin: 0.5rem !important;
 }
 
 .mt-2,
@@ -4224,9 +4232,6 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 }
 
 @media (min-width: 992px) {
-  .mt-lg-3 {
-    margin-top: 1rem !important;
-  }
   .mb-lg-3 {
     margin-bottom: 1rem !important;
   }
@@ -4238,7 +4243,7 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   .my-lg-4 {
     margin-bottom: 1.5rem !important;
   }
-  .mt-lg-5,
+  
   .my-lg-5 {
     margin-top: 3rem !important;
   }
