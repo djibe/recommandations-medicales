@@ -198,8 +198,8 @@ Trame des éléments à relever pour un dossier médical complet.
 - Dépistage du retentissement psychologique  
   Score WHO-5, PAID, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}} ou GAD-7 (anxiété)  
   {{%class%}}Dépression et anxiété x2, commentaires de l'entourage.{{%/class%}}
-- Participer à des études  
-  [SFDT1](https://sfdt1.fr/) et [Compare](https://compare.aphp.fr/) (APHP).
+- Participer à des études: [SFDT1](https://sfdt1.fr/)
+- {{< references/compare >}}
 
 Adulte bien équilibré, un suivi annuel peut être suffisant.
 

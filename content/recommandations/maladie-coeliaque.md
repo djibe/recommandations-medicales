@@ -250,7 +250,7 @@ Suivi de la maladie cœliaque par le gastro-entérologue et le diététicien sp�
 - Mesures pour régime sans gluten équilibré à vie
 - Association de patients  
   [Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
-- [Proposer de participer à la cohorte ComPare de l'APHP](https://compare.aphp.fr/)
+- {{< references/compare >}}
 
 ### Aliments à éviter en cas d'allergie au gluten
 

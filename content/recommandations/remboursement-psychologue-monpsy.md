@@ -82,7 +82,7 @@ Adresser au centre médico-psychologique (CMP) les patients ne relevant pas d'un
 
 ### Échelles d'évaluation de la dépression
 
-Scores: {{< modal-btn modal-gad7 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-had >}}HAD{{< /modal-btn >}}
+Scores: {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-had >}}HAD{{< /modal-btn >}}
 
 ### Échelles d'évaluation de l'anxiété
 

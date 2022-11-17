@@ -228,8 +228,7 @@ Résumé des recommandations pour la prise en charge de la spondylarthrite:
 - Soutien psychologique
 - Associations de patients  
   [Action contre les Spondylarthropathies](https://www.acs-france.org/), [Association Française de Lutte Anti-Rhumatismale](https://www.aflar.org/), [Association France Spondyloarthrites](https://www.spondy.fr/), [Spondyl(O)action](https://spondyloaction.fr/)
-- Participer à la recherche  
-  [Cohorte ComPaRe](https://compare.aphp.fr/)
+- {{< references/compare >}}
 
 ### Arthrite périphérique
 

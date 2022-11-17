@@ -10,29 +10,30 @@ lastmod = "2022-11-12"
 specialites = ["dermatologie"]
 annees = "2021"
 sources = ["BAD", "Inserm"]
-tags = []
+tags = ["TSH"]
 anglais = ["Vitiligo"]
 sctid = "56727007"
 draft = true
 image = false
 imageSrc = "Photo de vitiligo des mains par James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
-todo = ""
+todo = "Prescrire, info patient src 1, autres sources; BAD Figure 1"
 +++
 
 {{%article-summary%}}
 
-- Le diagnostic de vitiligo est clinique avec la lampe de Wood
+- Le diagnostic de vitiligo relève du dermatologue avec la lampe de Wood
 - TODO:
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Vitiligo
-: Dermatose chronique bénigne autoimmune à l'origine d'une dépigmentation cutanée progressive par destruction des mélanocytes **sans facteur prédictif évolutif**. Il débute le plus souvent à l'âge adulte avec une **atteinte préférentielle du visage et des extrémités** (mains et pieds).  
+: Dermatose chronique bénigne autoimmune à l'origine d'une dépigmentation cutanée progressive par destruction des mélanocytes **sans facteur prédictif évolutif**. Il débute le plus souvent avant 30 ans (70%) avec une **atteinte préférentielle du visage et des extrémités** (mains et pieds).  
 Une atteinte exclusive des muqueuse est possible et rare.  
 Il atteint 0,5 à 1% de la population de façon homogène avec un sur-risque en cas d'**antécédents familiaux et de stress**.
+: Le vitiligo est dit **stable** en l'absence de nouvelle lésions sur 12 mois avec une stabilité des lésions pré-existantes.
 : Le pronostic du vitiligo est **psychologique** sans augmentation des **cancers de la peau**.  
-Les comorbidités auto-immunes sont fréquentes ([Hashimoto]({{< relref "hypothyroidie.md" >}}), Basedow, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [diabète de type 1]({{< relref "diabete-type-1.md" >}}), MICI).
+Les comorbidités auto-immunes sont fréquentes: [Hashimoto]({{< relref "hypothyroidie.md" >}}), Basedow, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [diabète de type 1]({{< relref "diabete-type-1.md" >}}), MICI.
 
 Vitiligo segmentaire
 : Forme de vitiligo la plus rare avec une dépigmentation unilatérale circonscrite à une zone bien délimitée du corps.
@@ -52,7 +53,7 @@ Phénomène de Koebner
 
 ### Diagnostic différentiel du vitiligo
 
-Autres causes d'hypopigmentation cutanée:
+Étayer les autres causes possibles d'hypopigmentation cutanée:
 
 - Dartres
 - Psoriasis
@@ -66,34 +67,56 @@ BAD
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic de vitiligo est clinique avec à la lampe de Wood un dépigmentation totale des zones achromiques.
+{{%info%}}Adresser toute suspicion de vitiligo au dermatologue pour le diagnostic de certitude et la prise en charge{{%/info%}}
 
-ATCD familiaux
-Etat psychologique
-Qualité de vie
+Le diagnostic de vitiligo est clinique avec à la lampe de Wood un dépigmentation totale des zones achromiques:
 
-### Forme segmentaire
+- Antécédents (dont auto-immuns ++)
+- Antécédents familiaux (auto-immuns ++)
+- {{< modal-btn modal-phototype >}}Phototype{{< /modal-btn >}}
+- Caractères du vitiligo
+  - Date d'apparition et contexte
+  - Évolution
+  - Type: vitiligo segmentaire ou non
+  - Localisation et surface corporelle
+  - Traitements essayés
+- Retentissement psychologique et qualité de vie  
+  Scores PHQ-4, PHQ-9, {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, DLQI, VIPs, VitiQoL.
 
-Atteinte circonscrite à une zone bien délimitée.
+{{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
+
+Dépistage d'une hypothyroïdie ou d'une prédisposition: [TSH](/tags/tsh/) et anticorps anti-TPO.
+
+[Contrôle de la vitamine D]({{< relref "vitamine-d.md" >}}) en cas d'éviction solaire totale.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-La prise en charge du vitiligo relève du dermatologue.
+La prise en charge du vitiligo relève du dermatologue.  
+Adresser en semi-urgence en cas d'évolution rapide.
 
-Limiter les frottements
+- Limiter les frottements
+- Crème solaire IP50 sur les zones atteintes
+- Soutien psychologique (parcours MonPsy)
+- Association de patients: [Association Française du Vitiligo](https://www.afvitiligo.com/comprendre-le-vitiligo/les-traitements-du-vitiligo/)
+- {{< references/compare >}}
 
 Traitement par le spécialiste:
 
-Autobronzant
-Maquillage médical pur dermatologue spécialiste
-Crème dermocorticoïde ou tacrolimus (hors AMM)
-Photothérapie UVB, PUVA
-Laser
-Greffe mélanocytaire
-Chirurgie exceptionnelle
+- **Traitements locaux**
+  - {{< modal-btn modal-dc >}}Dermocorticoïde fort ou très fort{{< /modal-btn >}} ou tacrolimus x 2/j (hors AMM)  
+    Sauf péri-oculaire.
+- **Photothérapie UVB** + bétaméthasone 0,1 mg/kg x 2/sem voire PUVA thérapie en deuxième intention.
+- Laser (± 5-fluorouracil)  
+  Dépigmentation de zones restantes.
+- Greffe mélanocytaire
+- Camouflage
+  - Autobronzant
+  - Maquillage médical par le dermatologue
+- La chirurgie est exceptionnelle
 
-Dépigmentation de zones restantes par laser
+Surveillance clinique (et photos) tous les 3-6 mois.
 
 Repigmentation longue sur 6 à 24 mois. Meilleure réponse visage que les extrémités.
 Récidives++
@@ -107,11 +130,24 @@ Récidives++
 {{% /collapse %}}
 {{%sources%}}
 
+- [Eleftheriadou V. et al. British Association of Dermatologists guidelines for the management of people with vitiligo 2021.](https://onlinelibrary.wiley.com/doi/10.1111/bjd.20596)
+- [LY S. Le vitiligo. Dermato-info. 03/12/2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/vitiligo-quand-la-peau-perd-son-pigment)
 - [Inserm. Vitiligo. 14/08/2017.](https://www.inserm.fr/information-en-sante/dossiers-information/vitiligo)
 - [Cochrane. Traitements du vitiligo. 07/12/2011.](https://www.cochrane.org/fr/CD003263/SKIN_traitements-du-vitiligo-maladie-entrainant-une-perte-de-la-couleur-de-la-peau-en-plaques)
 
-### À lire
-
-[Eleftheriadou V. et al. British Association of Dermatologists guidelines for the management of people with vitiligo 2021.](https://onlinelibrary.wiley.com/doi/10.1111/bjd.20596)
-
 {{%/sources%}}
+{{% modal title="Phototype selon Fitzpatrick" id="modal-phototype" size="lg" %}}
+
+{{< clinique/phototype-fitzpatrick >}}
+
+{{% /modal %}}
+{{% modal title="Score GAD-7" id="modal-gad7"%}}
+
+{{< scores/gad7 >}}
+
+{{% /modal %}}
+{{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}
+
+{{< traitements/dermocorticoides >}}
+
+{{% /modal %}}

@@ -319,9 +319,8 @@ graph TB
 - Contrôle des addictions
 - Nécessité de prévenir tous les sujets avec contact à risque
 - Consignes d'hépatoprotection
-- Associations de patients  
-  [SOS hépatites](https://soshepatites.org/), [actions traitements](https://www.actions-traitements.org/)
-- [Proposer de participer à la cohorte ComPare](https://compare.aphp.fr/)
+- Associations de patients: [SOS hépatites](https://soshepatites.org/), [actions traitements](https://www.actions-traitements.org/)
+- {{< references/compare >}}
 
 {{% /collapse %}}
 {{%sources%}}

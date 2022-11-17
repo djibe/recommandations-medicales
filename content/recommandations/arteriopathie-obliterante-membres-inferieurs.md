@@ -294,8 +294,7 @@ L'ECG dépiste une coronaropathie ou un trouble du rythme associé.
   - AOMI symptomatique: envisager rivaroxaban 2,5 mg x 2/j + aspirine 100 mg/j (*ESC 2019 diabetes*)
 - [ALD n°3]({{< relref "affection-longue-duree.md" >}})  
   Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant nécessité revascularisation ou amputation.
-- Participer à la recherche  
-  [ComPaRe](https://compare.aphp.fr/)
+- {{< references/compare >}}
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

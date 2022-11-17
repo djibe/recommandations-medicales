@@ -98,13 +98,12 @@ Les prélèvements bactériologiques sont d'interprétation délicate et réserv
   - Éviter les longs trajets en voiture par temps chaud
 - Correction d'un surpoids (facteur aggravant)
 - Substituer un traitement au lithium (facteur aggravant)
-- Association de patients  
-  [Association Française pour la Recherche sur l'Hidrosadénite (AFRH)](http://www.afrh.fr/)
-- Participer à la [recherche ComPaRe](https://compare.aphp.fr/les-maladies-chroniques/)
+- Association de patients: [Association Française pour la Recherche sur l'Hidrosadénite (AFRH)](http://www.afrh.fr/)
 - Soutien psychologique
 - Adaptation du poste avec le médecin du travail
 - [ALD 31]({{< relref "affection-longue-duree.md" >}})  
-Demande avec le compte rendu du dermatologue.
+  Demande avec le compte rendu du dermatologue.
+- {{< references/compare >}}
 
 ### Antibiothérapies probabilistes prolongées
 

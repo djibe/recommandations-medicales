@@ -208,7 +208,7 @@ Prise en charge de l'endométriose en première intention:
   - Activité physique quotidienne avec exercices du bassin
   - Aucun régime ou supplémentation n'a de bénéfice prouvé
 - Association de patientes: [EndoFrance](https://www.endofrance.org/)
-- Participer à la recherche: [ComPaRe](https://compare.aphp.fr/)
+- {{< references/compare >}}
 
 ### Traitements hormonaux de première intention pour l'endométriose
 
