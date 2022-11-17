@@ -329,7 +329,7 @@ Radiographie de thorax systématique au diagnostic.
 - Consultation ORL
 
 {{% /collapse %}}
-{{%collapse "Traitement de l'exacerbation" "show"%}}
+{{%collapse "Traitement de l'exacerbation" %}}
 
 Reconnaissance de la crise d'asthme (exacerbation) par le patient et application du *plan d'action*.
 
