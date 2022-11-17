@@ -1,10 +1,11 @@
 # Le site des Recommandations Médicales
 
-**Projet Open Source, gratuit et indépendant visant à partager l'État de l'Art de la pratique en médecine de premier recours.**
+**Projet Open Source, gratuit et indépendant visant à partager l'État de l'Art de la pratique en médecine de premier recours.**  
+Medical information for all general practitioners.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br>Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International</a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br>Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale 4.0 International</a>
 
-[Recomédicales](https://recomedicales.fr) est développé pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder en 2 clics à tout ce dont ils ont besoin en consultation.
+[RecoMédicales](https://recomedicales.fr) est développé pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder en 2 clics à tout ce dont ils ont besoin en consultation.
 
 ## Pourquoi ce projet ?
 
@@ -14,7 +15,7 @@ Plusieurs constats:
 - Or nous ne retenons que 10% de ce que nous lisons
 - Donc même en apprenant TOUT, nous ne retiendrions que 10%, ce qui est insuffisant
 - Nous avons donc besoin d'avoir un accès permanent à de l'information fiable pour guider nos consultations
-- De plus, les enjeux de Santé publique ([hypertension artérielle](https://recomedicales.fr/recommandations/hypertension-arterielle/), [diabète](https://recomedicales.fr/recommandations/diabete-type-2/), [BPCO](https://recomedicales.fr/recommandations/bronchopneumopathie-chronique-obstructive/), [ostéoporose](https://recomedicales.fr/recommandations/osteoporose/)) sont d'une complexité croissante, hors de portée de simples fiches textes et de nos petits cerveaux.
+- De plus, les enjeux de Santé publique ([hypertension artérielle](https://recomedicales.fr/recommandations/hypertension-arterielle/), [diabète](https://recomedicales.fr/recommandations/diabete-type-2/), [BPCO](https://recomedicales.fr/recommandations/bronchopneumopathie-chronique-obstructive/), [ostéoporose](https://recomedicales.fr/recommandations/osteoporose/) sont d'une complexité croissante, hors de portée de simples fiches textes et de nos petits cerveaux.
 
 Seul un outil numérique peut nous aider.
 
@@ -35,30 +36,30 @@ Seul un outil numérique peut nous aider.
 - \+ Pratique  
   Accès immédiat au score ou calcul de risque numérique.
 - \+ Sûr  
-Accès à l'ordonnance ou bilan de première intention.
+  Accès à l'ordonnance ou bilan de première intention.
 - \+ Moderne  
-Finie l'information cachée au fond d'un PDF.
+  Finie l'information cachée au fond d'un PDF.
 - \+ Récent  
-Proposer les connaissances validées les plus récentes.
+  Proposer les connaissances validées les plus récentes.
 - \+ Mobile  
-Le site s'adapte à tous les écrans.
+  Le site s'adapte à tous les écrans.
 - \+ Rapide  
-Très léger.
+  Très léger.
 - \+ Transparent  
-Toute modification est historisée pour plus de traçabilité.
+  Toute modification est historisée pour plus de traçabilité.
 - \+ Ouvert  
-Accessible à toute la francophonie.
+  Accessible à toute la francophonie.
 
 et aussi...
 
 - Low tech  
-Seulement à base de fichiers textes éditables par tout le monde.
+  Seulement à base de fichiers textes éditables par tout le monde.
 - Résistant  
-Pas de bases de données, facile à sauvegarder et déménager.
+  Pas de bases de données, facile à sauvegarder et déménager.
 - Sans frais  
-Aucun coût d'hébergement.
+  Aucun coût d'hébergement.
 - Flux RSS  
-Pour se tenir informé sans naviguer de site en site.
+  Pour se tenir informé sans naviguer de site en site.
 
 ## Ce qui manque pour le moment
 
@@ -82,7 +83,7 @@ Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans
 
 ### Créer un nouvel article
 
-`npm run article`. Le fichier article.md est créé dans le dossier /content/recommandations/.  
+`npm run recommandations:new`. Le fichier article.md est créé dans le dossier /content/recommandations/.  
 Tous les articles sont au [format Markdown](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0) qui permet d'écrire du texte brut avec quelques enrichissements pour se concentrer sur le contenu.
 
 ### Faciliter l'édition
@@ -95,4 +96,4 @@ Je recommande l'éditeur de texte/code gratuit [Visual Studio Code](https://code
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br>Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International</a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br>Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale 4.0 International</a>
