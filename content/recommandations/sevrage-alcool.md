@@ -321,7 +321,7 @@ Installer une alliance thérapeutique sur la définition du problème à résoud
   - Consultation d'addictologie
   - Centres de soins, d'accompagnement et de prévention en addictologie ([CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html))
   - Équipe de liaison en addictologie
-  - [Annuaire par géolocalisation](https://www.addictaide.fr/annuaire/) ou [autre](http://annuaire.loraddict.org/annuaire-national?title=&postal_code=&city=&province=All&field_type_de_structure_tid_1=All)
+  - [Annuaire par géolocalisation](https://www.addictaide.fr/annuaire/)
 - Livret d'information  
   Maladie alcoolique, sevrage, intérêt de l'accompagnement, coordonnées des acteurs.
 - Intervention psychosociale

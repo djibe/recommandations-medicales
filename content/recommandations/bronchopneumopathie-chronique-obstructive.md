@@ -617,7 +617,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease 2022 Report.](https://goldcopd.org/2022-gold-reports-2/)
+- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease 2022 Report.](https://goldcopd.org/archived-reports/)
 - [Zysman M. et al. Optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. Position de la Société de pneumologie de langue française. Actualisation 2021. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/optimisation-du-traitement-BPCO.pdf)
 - [Georges M. Réhabilitation respiratoire dans la BPCO : bis repetita. 18/05/2021.](https://splf.fr/rehabilitation-respiratoire-dans-la-bpco-bis-repetita/)
 - Prescrire Redaction. Questionner sa pratique : préserver la qualité de vie des patients souffrant de BPCO. Rev Prescrire 2020
@@ -632,7 +632,8 @@ graph TB
 
 ### À lire
 
-[Collège des Enseignants de Pneumologie (CEP). Bronchopneumopathie chronique obstructive (BPCO). Item 209. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_209_BPCO_2021_ex_item_2051-1.pdf)
+- [Collège des Enseignants de Pneumologie (CEP). Bronchopneumopathie chronique obstructive (BPCO). Item 209. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_209_BPCO_2021_ex_item_2051-1.pdf)
+- [2023 GOLD summary of changes](https://goldcopd.org/wp-content/uploads/2022/11/KEY-CHANGES-GOLD-2023.pdf)
 
 {{%/sources%}}
 <!-- Scores -->

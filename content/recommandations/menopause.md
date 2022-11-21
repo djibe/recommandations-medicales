@@ -332,7 +332,7 @@ Contre-indications au traitement de la ménopause:
 {{% /collapse %}}
 {{%collapse "Traitement hormonal de la ménopause" %}}
 
-[Information de la patiente - GEMVI: Fiche info ménopause et THM (PDF)](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
+[Information de la patiente - GEMVI: Fiche info ménopause et THM (PDF)](http://gemvi.org/wp-content/uploads/2022/06/fiche-info-patiente-menopause-THM.pdf)
 
 ### Indications au THM
 
@@ -593,7 +593,7 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 {{% /collapse %}}
 {{%collapse "Information de la patiente" %}}
 
-[GEMVI: Fiche info ménopause et traitement hormonal (PDF)](http://www.gemvi.org/documents/fiche-info-patiente-menopause-THM.pdf)
+[GEMVI: Fiche info ménopause et traitement hormonal (PDF)](http://gemvi.org/wp-content/uploads/2022/06/fiche-info-patiente-menopause-THM.pdf)
 
 - Bénéfique sur les symptômes (bouffées vasomotrices ++) et ralentissement du vieillissement des différents tissus (ostéoporose, trophicité)
 - Réduit le risque de cancer du côlon et de fracture ostéoporotique

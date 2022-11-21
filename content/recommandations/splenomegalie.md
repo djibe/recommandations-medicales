@@ -191,7 +191,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-[UMVF. Item 332 : Orientation diagnostique devant une splénomégalie. 2010. (PDF)](https://campus.cerimes.fr/hematologie/enseignement/hematologie_332/site/html/cours.pdf)
+UMVF. Item 332 : Orientation diagnostique devant une splénomégalie. 2010. (PDF)
 
 ### À lire
 

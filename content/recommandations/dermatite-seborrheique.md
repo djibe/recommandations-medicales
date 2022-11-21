@@ -78,7 +78,7 @@ Forme extensive: érythrodermie de Leiner-Moussous.
 
 Autres diagnostics à étayer devant une dermatose du visage:
 
-- Psoriasis des régions séborrhéiques  
+- **Psoriasis**  
   Plaques bien limitées extra-faciales, début précoce, antécédents.
 - [Rosacée]({{< relref "rosacee.md" >}})  
   Bouffées vasomotrices, érythrose faciale permanente, télangiectasies, absence de squames.
