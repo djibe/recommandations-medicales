@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-19T11:25:57+01:00"
 publishdate = "2021-11-23"
-lastmod = "2022-11-08"
+lastmod = "2022-11-20"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["HAS", "FFN", "SFNCM"]
@@ -34,8 +34,8 @@ todo = "FFN, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl..., htt
 Dénutrition
 : *Malnutrition* dans la CIM-10.
 : << État d'un organisme en déséquilibre nutritionnel >>. Possible par un déficit d'apport isolé, une augmentation des dépenses ou des pertes ou une association de ceux-ci.  
-Le déséquilibre nutritionnel est caractérisé par un bilan énergétique et/ou protéique négatif aboutissant à une *perte de poids* ou une *fonte musculaire*.  
-La dénutrition touche +2 millions de Français.
+Le déséquilibre nutritionnel est caractérisé par un bilan énergétique et/ou protéique négatif aboutissant à une *perte de poids* ou une *fonte musculaire*.
+: La dénutrition touche +2 millions de Français chaque année.
 
 Albuminémie
 : Elle doit être dosée par immunonéphélémétrie ou immunoturbidimétrie (pas d'électrophorèse).  
@@ -49,11 +49,13 @@ Syndrome de renutrition inappropriée
 
 Situations et facteurs de risque de dénutrition:
 
-- [Cancer](/tags/cancer/)
+- [Cancer](/tags/cancer/) (prévalence de 40%)
 - Syndrome inflammatoire
+- Pathologie digestive, insuffisance rénale, respiratoire, hépatique ou cardiaque
 - Escarre
 - Toxicomanie
-- Démence et maladie dégénérative
+- Démence et maladie neuropsychiatrique  
+  Anorexie mentale, Alzheimer, Parkinson.
 - Troubles de déglutition et bucco-dentaires (dont candidose)
 - Précarité
 - Régime restrictif
@@ -371,6 +373,8 @@ graph TB
 - [Hankard R.; SFP. Établir une stratégie nutritionnelle chez un enfant dénutri. 2017.](https://pap-pediatrie.fr/hepato-gastro/etablir-une-strategie-nutritionnelle-chez-un-enfant-denutri)
 - [Hankard R. et al; SFP. Dépister la dénutrition de l'enfant en pratique courante. 2012. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/recos-sfp-cn_depistage_denutrition_oct_2012_0.pdf)
 - [Société Francophone de Nutrition Clinique et Métabolisme - Référentiels](https://www.sfncm.org/outils-education/recommandations/referentiels)
+- [SFNCM. Dénutrition chez l'adulte de 18 à 69 ans et la personne de 70 ans et plus. (PDF)](https://www.ameli.fr/sites/default/files/Documents/Affiche_D%C3%A9nutrtion_SFNCM_14.pdf)
+- [Lutte contre la dénutrition](https://www.luttecontreladenutrition.fr/)
 
 {{%/sources%}}
 {{% modal title="Définition de la sarcopénie" id="modal-sarcopenie"%}}

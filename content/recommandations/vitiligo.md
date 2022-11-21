@@ -1,12 +1,12 @@
 +++
 title = "Vitiligo"
 prefix = "le "
-description = "Recommandations pour le traitement et la prise en charge du vitiligo. TODO:"
+description = "Recommandations pour le traitement et la prise en charge du vitiligo. Suivi dermatologique et traitement par dermocorticoïdes et photothérapie UVB"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-29T20:48:41+02:00"
-publishdate = "2022-11-12"
-lastmod = "2022-11-12"
+publishdate = "2022-11-18"
+lastmod = "2022-11-18"
 specialites = ["dermatologie"]
 annees = "2021"
 sources = ["BAD", "Inserm"]
@@ -21,8 +21,11 @@ todo = "Prescrire, info patient src 1, autres sources; BAD Figure 1"
 
 {{%article-summary%}}
 
-- Le diagnostic de vitiligo relève du dermatologue avec la lampe de Wood
-- TODO:
+- Le diagnostic de vitiligo relève du dermatologue
+- Dépistage d'une [dysthyroïdie](/tags/tsh/)
+- Prise en charge du vitiligo par le généraliste: information, photoprotection des plaques, évaluation psychologique ({{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}})
+- Traitement de première intention: dermocorticoïdes ou tacrolimus et photothérapie UVB
+- Suivi dermatologique tous les 3 à 6 mois tant que le vitiligo est actif
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -48,8 +51,8 @@ Vitiligo universalis
 Leucotrichie
 : Atteinte des mélanocytes des poils leur donnant une couleur blanche.
 
-Phénomène de Koebner
-: Seul facteur identifiable d'apparition de nouvelles lésions. Elles sont favorisées au niveau des cicatrices récentes, de zones lésées, ou encore de zones soumises à des frottements réguliers.
+Phénomène de Koebner (ou Köbner)
+: Apparition de nouvelles lésions sur le trajet de cicatrices récentes, de zones lésées ou de zones soumises à des frottements réguliers.
 
 ### Diagnostic différentiel du vitiligo
 
@@ -67,7 +70,7 @@ BAD
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Adresser toute suspicion de vitiligo au dermatologue pour le diagnostic de certitude et la prise en charge{{%/info%}}
+{{%info%}}Adresser toute suspicion de vitiligo au dermatologue pour le diagnostic clinique de certitude à la lampe de Wood et la prise en charge{{%/info%}}
 
 Le diagnostic de vitiligo est clinique avec à la lampe de Wood un dépigmentation totale des zones achromiques:
 
@@ -80,8 +83,9 @@ Le diagnostic de vitiligo est clinique avec à la lampe de Wood un dépigmentati
   - Type: vitiligo segmentaire ou non
   - Localisation et surface corporelle
   - Traitements essayés
+  - Plaques le plus souvent asymptomatiques
 - Retentissement psychologique et qualité de vie  
-  Scores PHQ-4, PHQ-9, {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, DLQI, VIPs, VitiQoL.
+  Scores PHQ-4, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, DLQI, VIPs ou VitiQoL.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -91,21 +95,26 @@ Dépistage d'une hypothyroïdie ou d'une prédisposition: [TSH](/tags/tsh/) et a
 [Contrôle de la vitamine D]({{< relref "vitamine-d.md" >}}) en cas d'éviction solaire totale.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du vitiligo" %}}
 
+{{%info%}}
 La prise en charge du vitiligo relève du dermatologue.  
 Adresser en semi-urgence en cas d'évolution rapide.
+{{%/info%}}
 
 - Limiter les frottements
 - Crème solaire IP50 sur les zones atteintes
-- Soutien psychologique (parcours MonPsy)
+- Soutien psychologique: [parcours MonPsy]({{< relref "remboursement-psychologue-monpsy.md" >}}) ou autre
+- Information du patient: [Dermato-info](https://dermato-info.fr/fr/les-maladies-de-la-peau/vitiligo-quand-la-peau-perd-son-pigment)
 - Association de patients: [Association Française du Vitiligo](https://www.afvitiligo.com/comprendre-le-vitiligo/les-traitements-du-vitiligo/)
 - {{< references/compare >}}
 
-Traitement par le spécialiste:
+### Pour en savoir plus: traitements spécialisés du vitiligo
+
+Ensemble des traitements possibles pour la prise en charge spécialisée d'un vitiligo:
 
 - **Traitements locaux**
-  - {{< modal-btn modal-dc >}}Dermocorticoïde fort ou très fort{{< /modal-btn >}} ou tacrolimus x 2/j (hors AMM)  
+  - {{< modal-btn modal-dc >}}Dermocorticoïde fort ou très fort{{< /modal-btn >}} ou tacrolimus 0,1% x 2/j (hors AMM)  
     Sauf péri-oculaire.
 - **Photothérapie UVB** + bétaméthasone 0,1 mg/kg x 2/sem voire PUVA thérapie en deuxième intention.
 - Laser (± 5-fluorouracil)  
@@ -116,16 +125,22 @@ Traitement par le spécialiste:
   - Maquillage médical par le dermatologue
 - La chirurgie est exceptionnelle
 
-Surveillance clinique (et photos) tous les 3-6 mois.
+Surveillance clinique spécialisée (et photos) tous les 3-6 mois.
 
-Repigmentation longue sur 6 à 24 mois. Meilleure réponse visage que les extrémités.
-Récidives++
+La repigmentation est longue sur 6 à 24 mois avec une meilleure réponse au visage que sur les extrémités.  
+Les récidives peuvent être nombreuses mais l'évolution est imprévisible.
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
+Informations à donner sur le vitiligo:
+
+- Maladie de peau relativement fréquente atteignant les 2 sexes à tous les âges
+- Il a une origine auto-immune, ce n'est ni contagieux ni un problème psychosomatique
+- Le système immunitaire attaque les mélanocytes qui teintent la peau
 - Évolution non prévisible sans sur-risque de cancer cutané
 - Phénomène de Koebner
+- Le traitement de référence comprend l'application de dermocorticoïdes et une photothérapie par UVB
 
 {{% /collapse %}}
 {{%sources%}}
@@ -139,6 +154,11 @@ Récidives++
 {{% modal title="Phototype selon Fitzpatrick" id="modal-phototype" size="lg" %}}
 
 {{< clinique/phototype-fitzpatrick >}}
+
+{{% /modal %}}
+{{% modal title="Score PHQ-9" id="modal-phq9"%}}
+
+{{< scores/phq9 >}}
 
 {{% /modal %}}
 {{% modal title="Score GAD-7" id="modal-gad7"%}}

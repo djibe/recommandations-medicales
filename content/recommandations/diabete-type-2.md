@@ -294,6 +294,7 @@ Bilan à jeun pendant 12 heures:
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | SFD 2016                 |
 | Score calcique | {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} &plusmn; EE | SFD 2021 CAD |
 | [Vaccins]({{< relref "vaccination.md" >}}) | Covid-19, [grippe]({{< relref "grippe.md" >}}), {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
+| Vitamine B12 | Si metformine: recherche de carence après 4 ans de traitement                                    | KDIGO 2020 diabetes      |
 {{< /table >}}
 
 > **AAA** = anévrysme de l'aorte abdominale ; **EE** = épreuve d'effort ; **MRC** = maladie rénale chronique ; **aspirine:** IPP si risque élevé de saignement digestif ;  

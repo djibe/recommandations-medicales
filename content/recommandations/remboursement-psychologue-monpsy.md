@@ -91,7 +91,9 @@ Scores: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal
 {{% /collapse %}}
 {{%sources%}}
 
-- [MonPsy](https://monpsy.sante.gouv.fr/)
+{{< youtube id="B5GpVmHKcSo" title="La santé mentale et la médecine générale (CMG)" >}}
+
+[MonPsy](https://monpsy.sante.gouv.fr/)
 
 {{%/sources%}}
 {{% modal title="Évaluation d'un mésusage de l'alcool" id="modal-auditc"%}}

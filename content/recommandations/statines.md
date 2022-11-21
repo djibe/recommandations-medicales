@@ -20,7 +20,7 @@ todo = "SEO, ESC CVD p.16"
 
 {{%article-summary%}}
 
-- Pour une baisse du LDLc +50%: atorvastatine ≥ 40 ou rosuvastatine ≥ 20 mg (voir *Intensité des statines*)
+- Pour une baisse du LDLc de +50%: atorvastatine ≥ 40 ou rosuvastatine ≥ 20 mg (voir *Intensité des statines*)
 - Cible de LDL selon le {{< scores/heartscore >}}
 - 90% des myalgies sont attribuables à un effet nocebo, elles surviennent durant la première année (sauf haute intensité)
 - Arrêt de statine: +20% de mortalité cardiovasculaire

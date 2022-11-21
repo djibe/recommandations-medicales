@@ -365,12 +365,12 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 - [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. Septembre 2022.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
 - [Santé Publique France. Dépistage du cancer du sein : quelle participation des femmes en 2021 ? 2022.](https://www.santepubliquefrance.fr/les-actualites/2022/depistage-du-cancer-du-sein-quelle-participation-des-femmes-en-2021)
 - [INCa. Les cancers du sein en 10 points clés. Juin 2020. (PDF)](https://www.e-cancer.fr/content/download/292195/4161509/file/Cancers_du_sein_en_10_points_cles_mel_20200702.pdf)
+- [ACOG. Tamoxifen and Uterine Cancer. 2014. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/06/tamoxifen-and-uterine-cancer)
 - [HAS. Cancer du sein : modalités spécifiques de dépistage pour les femmes à haut risque. 2019.](https://www.has-sante.fr/jcms/pprd_2974673/fr/cancer-du-sein-modalites-specifiques-de-depistage-pour-les-femmes-a-haut-risque)
 - [INCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
 - [INCa. Prothèses mammaires et risque de cancer. Avril 2019.](https://www.e-cancer.fr/Comprendre-prevenir-depister/Reduire-les-risques-de-cancer/Protheses-mammaires)
 - [INCa. Cancer du sein - Quelles modalités de dépistage, pour quelles femmes ? Janvier 2018.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-du-sein-Quelles-modalites-de-depistage-pour-quelles-femmes)
 - [HAS. Dépistage et prévention du cancer du sein. Février 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
-- [ACOG. Tamoxifen and Uterine Cancer. 2014. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/06/tamoxifen-and-uterine-cancer)
 
 ### À lire
 
