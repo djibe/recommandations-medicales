@@ -153,7 +153,8 @@ mark {
   }
 }
 
-.figure {
+.figure,
+.figure-chart {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -164,8 +165,25 @@ mark {
 }
 
 .figure-caption {
-  color: rgba(0, 0, 0, 0.54);
+  color: rgba(0, 0, 0, 0.54) !important;
   font-size: 0.875rem;
+}
+
+.figure-chart {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 12px;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  position: relative;
+
+  > [id*="chart"] {
+    width: 100% !important;
+  }
+
+  > figcaption {
+    @extend .figure-caption
+  }
 }
 
 %material-icon {

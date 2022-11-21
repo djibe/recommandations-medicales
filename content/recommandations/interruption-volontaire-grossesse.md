@@ -36,7 +36,7 @@ Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contrace
 {{< outils/terme >}}
 
 {{% /collapse %}}
-{{%collapse "Introduction" %}}
+{{%collapse "Introduction" "show" %}}
 
 > << Les échecs contraceptifs dus au défaut d'observance sont l'une des principales causes de recours à l'interruption volontaire de grossesse (IVG) en France >> (*CNGOF 2018*).
 
@@ -51,7 +51,7 @@ Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contrace
 - 76% des IVG sont médicamenteuses
 - Depuis l'autorisation de 2004: 1 IVG médicamenteuse sur 6 a lieu en libéral (soit 18.273 en 2007, 3/4 par gynécologue, 1/4 par médecin généraliste)
 
-<figure class="figure border alert my-4">
+<figure class="figure-chart">
   <div id="chart"></div>
   <figcaption><b>Figure. </b>Évolution du ratio d'avortement France entière de 1990 à 2021. (<em>Drees 2022</em>)<br>
   Le ratio d'avortement correspond au rapport entre le nombre d'IVG et le nombre de naissances vivantes. En 2021, 30 IVG pour 100 naissances vivantes (<em>Drees 2022</em>)</figcaption>
@@ -62,10 +62,7 @@ const chartOptions = {
     name: "Ratio d'avortement",
     data: [[1990, 0.26], [1991, 0.27], [1992, 0.26], [1993, 0.27], [1994, 0.27], [1995, 0.26], [1996, 0.27], [1997, 0.27], [1998, 0.27], [1999, 0.27], [2000, 0.25], [2001, 0.27], [2001, 0.27], [2002, 0.28], [2003, 0.27], [2004, 0.28], [2005, 0.27], [2006, 0.28], [2007, 0.28], [2008, 0.27], [2009, 0.27], [2010, 0.27], [2011, 0.27], [2012, 0.27], [2013, 0.28], [2014, 0.28], [2015, 0.28], [2016, 0.28], [2017, 0.28], [2018, 0.30], [2019, 0.31], [2020, 0.30], [2021, 0.30]]
   }],
-  chart: {
-    height: 256,
-    type: 'line',
-  },
+  chart: { type: 'line', height: 240 },
   markers: {size: 0},
   stroke: { colors: ['#4150f5'], curve: 'smooth', width: 4 },
   title: { text: 'Évolution du ratio d\'avortement de 1990 à 2021' },

@@ -16,12 +16,13 @@ sctid = "90176007"
 image = true
 imageSrc = "Angine gauche, photo de Fireflyez76 sur Foter.com / CC BY-ND"
 flowchart = true
+todo = "suivi de pso en goutte"
 +++
 
 {{%article-summary%}}
 
 - Une angine est toujours virale avant 3 ans
-- Test de diagnostic rapide (TDR) du streptocoque de 3 à 14 ans et score clinique de Mc Isaac au-delà
+- Test de diagnostic rapide (TDR) du streptocoque devant une angine de 3 à 14 ans et score clinique de Mc Isaac au-delà
 - Le Streptatest peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si TROD angine positif, sous 7 jours calendaires >> (*[Arrêté du 13/12/21](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044483134)*)
 
 {{%/article-summary%}}

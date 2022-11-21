@@ -597,17 +597,18 @@ En 1<sup>re</sup> intention en alternative à la COP et après chirurgie.
 
 ### Méthodes de contraception utilisées en France
 
-<figure id="chart" class="border alert mt-5"></figure>
+<figure class="figure-chart">
+  <div id="chart"></div>
+  <figcaption>Figure. Méthodes de contraception des françaises de 15 à 49 ans en 2016. Dr JB Fron d'après <a href="https://www.santepubliquefrance.fr/determinants-de-sante/sante-sexuelle/documents/enquetes-etudes/barometre-sante-2016-contraception-quatre-ans-apres-la-crise-de-la-pilule-les-evolutions-se-poursuivent" rel="external nofollow noopener">Rahib D 2017</a></figcaption>
+</figure>
 <script>
 const chartOptions = {
   series: [36.5, 25.6, 15.5, 8, 4.6, 4.5, 4.3, 1],
-  chart: { height: 280, type: 'donut' },
+  chart: { type: 'donut' },
   title: { text: 'Contraceptions utilisées par les femmes en France' },
   labels: ['Pilule', 'Stérilet', 'Préservatif', 'Aucune', 'Autres', 'Stérilisation', 'Implant', 'Patch/anneau']
 }
 </script>
-
-> Méthodes de contraception des françaises de 15 à 49 ans en 2016. Dr JB Fron d'après [Rahib D 2017](https://www.santepubliquefrance.fr/determinants-de-sante/sante-sexuelle/documents/enquetes-etudes/barometre-sante-2016-contraception-quatre-ans-apres-la-crise-de-la-pilule-les-evolutions-se-poursuivent)
 
 {{% /collapse %}}
 {{%sources%}}

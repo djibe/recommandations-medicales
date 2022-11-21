@@ -57,7 +57,10 @@ Mort subite du sportif
 La survie sans séquelles dépend énormément de la formation de la population au massage cardiaque (> 90% dans le Nord, 10-20% en France). 300-400 décès pourraient être évités chaque année avec les gestes de 1<sup>er</sup> secours.
   > *Marijon 2021*
 
-<figure id="chart" class="border alert mt-5"></figure>
+<figure class="figure-chart">
+  <div id="chart"></div>
+  <figcaption>Figure. Incidence moyenne annuelle de la mort subite du sportif par million de sportifs de 15 à 75 ans selon l'âge et le sexe. Se référer à l'article pour l'intervalle de confiance. Dr JB Fron d'après Marijon 2013.</figcaption>
+</figure>
 <script>
 const chartOptions = {
   series: [{
@@ -78,8 +81,6 @@ const chartOptions = {
   }
 }
 </script>
-
-> {{%class "typography-body-2 text-black-secondary" %}}Figure. Incidence moyenne annuelle de la mort subite du sportif par million de sportifs de 15 à 75 ans selon l'âge et le sexe. Se référer à l'article pour l'intervalle de confiance. Dr JB Fron d'après *Marijon 2013*.{{%/class%}}
 
 ### Abréviations
 
