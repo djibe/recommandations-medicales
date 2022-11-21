@@ -127,7 +127,7 @@ Seules personnes concernées par le dépistage organisé du cancer du sein par m
 3. Antécédent d'hyperplasie canalaire ou lobulaire atypique ou de carcinome lobulaire *in situ*  
   Mammographie ± échographie annuelle pendant 10 ans, puis tous les 2 ans jusqu'au dépistage organisé.
 4. Antécédent familial de cancer du sein avec {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} ≥ 3 et risque élevé estimé par l'oncogénéticien (*INCa 2017*)  
-  Pour les apparenté au 1<sup>er</sup> degré ou nièce par un frère: Surveillance radiologique 5 ans avant l'âge du diagnostic de cancer chez le plus jeune:
+  Pour les apparenté au 1<sup>er</sup> degré ou nièce par un frère:
     - Examen clinique annuel à partir de 20 ans
     - Mammographies annuelles à partir de 5 ans avant le cas (pas avant 40 ans) ± échographie jusqu'à 50 ans
     - puis dépistage organisé
