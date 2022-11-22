@@ -30,8 +30,8 @@ Ce qui nécessitera un autre travail: l'évolution de l'activité des praticiens
 {{< figure-chart title="Prix d'une consultation chez le médecin généraliste en secteur 1 de 1980 à 2021. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après <a href='http://piketty.pse.ens.fr/fichiers/enseig/memothes/DeaMayneris2004.pdf' rel='external nofollow noopener'>Mayneris 2004</a> et <a href='https://www.insee.fr/fr/information/2417794' rel='external nofollow noopener'>INSEE</a>" >}}
 
 <script>
+// https://www.insee.fr/fr/information/2417794
 const chartOptions = {
-  // https://www.insee.fr/fr/information/2417794
   series: [{
     name: 'Euros 2021',
     data: [19.05, 21.49, 19.22, 20.72, 20.77, 21.03, 21.85, 22.51, 21.92, 21.16, 21.67, 20.98, 22.79, 22.32, 23.06, 23.71, 23.24, 22.97, 23.86, 23.74, 23.36, 22.98, 25.71, 25.2, 24.67, 24.22, 25.02, 25.83, 25.12, 25.1, 24.73, 25.32, 24.83, 24.62, 24.49, 24.48, 24.44, 26.29, 25.81, 25.53, 25.41, 25]
