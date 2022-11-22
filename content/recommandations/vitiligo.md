@@ -16,15 +16,15 @@ sctid = "56727007"
 draft = true
 image = false
 imageSrc = "Photo de vitiligo des mains par James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "Prescrire, info patient src 1, autres sources; BAD Figure 1"
+todo = "info patient src 1, BAD Figure 1, galerie photo"
 +++
 
 {{%article-summary%}}
 
 - Le diagnostic de vitiligo relève du dermatologue
-- Dépistage d'une [dysthyroïdie](/tags/tsh/)
+- Dépistage systématique d'une [dysthyroïdie](/tags/tsh/) par TSH + anticorps anti-TPO
 - Prise en charge du vitiligo par le généraliste: information, photoprotection des plaques, évaluation psychologique ({{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}})
-- Traitement de première intention: dermocorticoïdes ou tacrolimus et photothérapie UVB
+- Traitement de première intention du vitiligo: {{< modal-btn modal-dc >}}dermocorticoïdes{{< /modal-btn >}} ou tacrolimus et photothérapie UVB
 - Suivi dermatologique tous les 3 à 6 mois tant que le vitiligo est actif
 
 {{%/article-summary%}}
@@ -141,6 +141,16 @@ Informations à donner sur le vitiligo:
 - Évolution non prévisible sans sur-risque de cancer cutané
 - Phénomène de Koebner
 - Le traitement de référence comprend l'application de dermocorticoïdes et une photothérapie par UVB
+
+{{% /collapse %}}
+{{%collapse "Photos de vitiligo" "show"%}}
+
+{{< gallery >}}
+{{< gallery-item image="/images/photos/vitiligo1.webp"  title="Vitiligo non segmentaire des paupières" author="par Maria Sieglinda von Nudeldorf, CC BY-SA 4.0 via Wikimedia Commons">}}
+{{< gallery-item image="/images/photos/vitiligo2.webp"  title="Vitiligo non segmentaire des mains" author="par James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons">}}
+{{< gallery-item image="/images/photos/vitiligo3.webp"  title="Vitiligo sur peau claire" author="par Produnis">}}
+{{< gallery-item image="/images/photos/vitiligo4.webp"  title="Vitiligo du dos des mains à la lampe de Wood" author="par Chip Bobbert, CC BY-SA 4.0, via Wikimedia Commons">}}
+{{< /gallery >}}
 
 {{% /collapse %}}
 {{%sources%}}
