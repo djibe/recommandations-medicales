@@ -1,6 +1,6 @@
 <div class="mt-4" id="score-auditc">
-  <h3 class="card-title">Hétéro-questionnaire <abbr title="Alcohol Use Disorders Identification Test" lang="en">AUDIT-C</abbr> de l'<abbr title="Organisation Mondiale de la Santé">OMS</abbr></h3>
-  <h4 class="card-subtitle font-italic" lang="en">Alcohol Use Disorders Identification Test</h4>
+  <h3 class="card-title">Hétéro-questionnaire <abbr title="Alcohol Use Disorders Identification Test" lang="en">AUDIT-C</abbr> pour le repérage d'un mésusage de l'alcool</h3>
+  <h4 class="card-subtitle"><span lang="en">Questionnaire Alcohol Use Disorders Identification Test</span> de l'<abbr title="Organisation Mondiale de la Santé">OMS</abbr></h4>
   <fieldset>
     <legend>Sexe</legend>
     <input type="radio" id="audit-femme" name="audit-sexe" class="d-input-none" value="0" required>
@@ -79,7 +79,7 @@
           } else if ((score >= 4 && score < 10 && sexe.id === 'audit-homme') || (score >= 3 && score < 10 && sexe.id === 'audit-femme')) {
             textAuditc.innerHTML = "<strong>Mésusage probable</strong><br>Intervention brève"
           } else {
-            textAuditc.innerHTML = "<strong>Risque faible ou nul</strong><br>Renforcement des conduites favorables à la santé"
+            textAuditc.innerHTML = "<strong>Risque faible ou nul de mésusage</strong><br>Renforcement des conduites favorables à la santé"
           }
         } else {
           textAuditc.innerHTML = 'Veuillez répondre à toutes les questions'

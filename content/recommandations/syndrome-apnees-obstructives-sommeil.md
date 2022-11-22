@@ -19,14 +19,14 @@ sctid = "78275009"
 image = true
 imageSrc = "Illustration de l'apnée du sommeil par Habib M'henni / Wikimedia Commons"
 imagePNG = true
-todo = "texte SEO, 103, 105, à lire, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, doc explication PPC"
+todo = "SEO, 103, 105, à lire, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, doc explication PPC"
 +++
 
 {{%article-summary%}}
 
-- Suspecter devant: sommeil non réparateur, somnolence, fatigue, hypertension non contrôlée, reflux nocturne
-- Dépister systématiquement si obésité, diabète, FA, maladie cardiovasculaire ...
-- Dépister par le questionnaire STOP-BANG ou les *8 questions* (voir *Comment dépister ...* )
+- Suspecter des apnées du sommeil en cas de: sommeil non réparateur, somnolence, [fatigue](/tags/fatigue/), hypertension non contrôlée, reflux nocturne
+- Dépister systématiquement des apnées si obésité, [diabète]({{< relref "diabete-type-2.md" >}}), fibrillation atriale, maladie cardiovasculaire ...
+- Dépister des apnées par le questionnaire STOP-BANG ou les *8 questions* chez le diabétique (voir *Comment dépister ...* )
 - Probabilité forte de SAOS avec somnolence inexpliquée malgré une polygraphie normale: réaliser une polysomnographie
 - La PPC doit être utilisée ≥ 4h/nuit et renouvelée au bout de 3 ans par le médecin traitant
 
@@ -115,8 +115,8 @@ MPJS
 REM
 : {{%lang%}}Rapid eye movement{{%/lang%}} ou phase de sommeil paradoxal
 
-SAOS
-: syndrome d'apnées obstructives du sommeil (ex-SAHOS)
+SAOS (ou SAHOS)
+: syndrome d'apnées obstructives du sommeil
 
 SFRMS
 : Société Française de Recherche en Médecine du Sommeil

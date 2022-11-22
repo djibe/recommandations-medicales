@@ -1,0 +1,83 @@
+<div class="my-4" id="score-cast">
+  <h3 class="card-title">Questionnaire <abbr lang="en" title="Cannabis Abuse Screening Test">CAST</abbr> pour le repérage d'un problème de consommation de cannabis</h3>
+  <p>Repérer l'usage nocif de cannabis à l'aide de six questions abordant les aspects problématiques de la consommation
+    chez les adolescents et les jeunes adultes.
+  </p>
+  <p>Au cours des 12 derniers mois:</p>
+  <fieldset class="mt-4">
+    <legend>1. Avez-vous fumé du cannabis avant midi&nbsp;?</legend>
+    <input type="radio" id="cast-11" name="radio-cast-1" class="d-input-none" value="1" required>
+    <label for="cast-11" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="cast-12" name="radio-cast-1" class="d-input-none" value="0">
+    <label for="cast-12" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset class="mt-4">
+    <legend>2. Avez-vous fumé du cannabis lorsque vous étiez seul(e)&nbsp;?</legend>
+    <input type="radio" id="cast-21" name="radio-cast-2" class="d-input-none" value="1" required>
+    <label for="cast-21" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="cast-22" name="radio-cast-2" class="d-input-none" value="0">
+    <label for="cast-22" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset class="mt-4">
+    <legend>3. Avez-vous eu des problèmes de mémoire quand vous fumiez du cannabis&nbsp;?</legend>
+    <input type="radio" id="cast-31" name="radio-cast-3" class="d-input-none" value="1" required>
+    <label for="cast-31" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="cast-32" name="radio-cast-3" class="d-input-none" value="0">
+    <label for="cast-32" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset class="mt-4">
+    <legend>4. Des amis ou des membres de votre famille vous ont-ils déjà dit que vous devriez réduire votre consommation de cannabis&nbsp;?</legend>
+    <input type="radio" id="cast-41" name="radio-cast-4" class="d-input-none" value="1" required>
+    <label for="cast-41" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="cast-42" name="radio-cast-4" class="d-input-none" value="0">
+    <label for="cast-42" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset class="mt-4">
+    <legend>5. Avez-vous essayé de réduire ou d'arrêter votre consommation de cannabis sans y parvenir&nbsp;?</legend>
+    <input type="radio" id="cast-51" name="radio-cast-5" class="d-input-none" value="1" required>
+    <label for="cast-51" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="cast-52" name="radio-cast-5" class="d-input-none" value="0">
+    <label for="cast-52" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset class="mt-4">
+    <legend>6. Avez-vous eu des problèmes à cause de votre consommation de cannabis (dispute, bagarre,
+      accident, mauvais résultat à l'école ...)&nbsp;?</legend>
+    <input type="radio" id="cast-61" name="radio-cast-6" class="d-input-none" value="1" required>
+    <label for="cast-61" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="cast-62" name="radio-cast-6" class="d-input-none" value="0">
+    <label for="cast-62" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <div class="alert bg-light d-flex mt-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline score-output-title">CAST</p>
+      <output class="score-output" id="castScore">0</output>
+    </div>
+    <p id="castText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  </div>
+</div>
+<blockquote lang="en">
+  <p>
+    <a href="https://www.tandfonline.com/doi/full/10.1080/14659890701476532" rel="external nofollow noopener">
+      S. Legleye, L. Karila, F. Beck & M. Reynaud (2007) Validation of the CAST, a general population Cannabis Abuse Screening Test, Journal of Substance Use, 12:4, 233-242, DOI: 10.1080/14659890701476532</a>
+  </p>
+</blockquote>
+{{ $script := `
+  // Score CAST by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scoreCast = document.getElementById('castScore')
+    const textCast = document.getElementById('castText');
+    [...document.querySelectorAll('#score-cast input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcCast() ) })
+    const calcCast = () => {
+      let score = 0
+      const elemsChecked = document.querySelectorAll('#score-cast input[type=\"radio\"]:checked')
+      elemsChecked.forEach(elemChecked => {
+        score += parseInt(elemChecked.value, 10)
+        if (elemsChecked.length === 6) {
+          scoreCast.innerHTML = score
+          if (score >= 2) { textCast.innerHTML = "Risque élevé d'usage problématique" }
+          if (score >= 3) { textCast.innerHTML += "<br>Proposer un accompagnement pour l'arrêt" }
+        }
+      })
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>

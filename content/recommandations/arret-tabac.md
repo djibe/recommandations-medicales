@@ -19,6 +19,8 @@ imageSrc = ""
 todo = ""
 +++
 
+{{< scores/cast >}}
+
 {{%article-summary%}}
 
 - Le tabagisme est la première cause de mortalité évitable
@@ -43,7 +45,7 @@ Dépendance (ou addiction)
 : Perte de la liberté de s'abstenir. Elle se caractérise par un désir compulsif de consommer associé à la perte de contrôle de la consommation.
 
 Faux pas
-: Prise isolée de tabac chez un sujet abstinent dans une démarche d’arrêt. On distingue le faux pas (lapse en anglais) de la rechute (relapse en anglais) par le fait que le faux pas est ponctuel.
+: Prise isolée de tabac chez un sujet abstinent dans une démarche d'arrêt. On distingue le faux pas (lapse en anglais) de la rechute (relapse en anglais) par le fait que le faux pas est ponctuel.
 
 ### Complications du tabac
 
@@ -72,7 +74,7 @@ TNS
 {{% /collapse %}}
 {{%collapse "Dépistage et évaluation de la dépendance au tabac" %}}
 
-## Dépistage
+### Dépistage
 
 1. Fumez-vous ?
 2. Oui: Avez-vous déjà essayé de fumer ?  
@@ -81,9 +83,34 @@ TNS
 
 TODO: Tableau 1 en algorithme
 
-### Evaluation de la dépendance
+### Évaluation de la dépendance à la nicotine
 
-Fagerstrom 2 (p. 14) et 6
+<div class="card card-hover my-3 mb-xl-5 mw-640">
+  <ul class="nav nav-tabs nav-justified" id="tabs-fag" role="tablist">
+    <li class="nav-item" role="presentation">
+      <button aria-controls="fag2-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#fag2-panel" id="fag2-tab" type="button" role="tab">Fagerström 2</button>
+    </li>
+    <li class="nav-item" role="presentation">
+      <button aria-controls="fag-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#fag-panel" id="fag-tab" type="button" role="tab">Fagerström</button>
+    </li>
+  </ul>
+  <div class="card-body tab-content">
+    <div aria-labelledby="fag2-tab" class="tab-pane fade show active" id="fag2-panel" role="tabpanel">
+  {{< scores/fagerstrom >}}
+  </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
+  <div aria-labelledby="fag-tab" class="tab-pane fade" id="fag-panel" role="tabpanel">
+  {{< scores/fagerstrom6 >}}
+  </div>
+  </div>
+</div>
+
+Rechercher également un syndrome de sevrage, une perte de contrôle, un désir persistant ou une incapacité à réduire ou arrêter sa consommation.
+
+La dépendance est certaine en présence d'au moins 1 critère parmi:
+
+- Rechute après une tentative d'arrêt
+- Complications (BPCO, artérite, cancer ...) ou risques encourus dans certaines situations spécifiques (intervention chirurgicale, grossesse ...)
+- Souci constant d'approvisionnement de tabac
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -93,8 +120,9 @@ TODO:
 Tous les patients et leur entourage
 Tous les modes de consommation du tabac
 Dépendance: Fagerstrom
-Autres toxiques
+Autres toxiques (TODO: alcool CAGE-DETA, cannabis CAST), addictions comportementales
 FRCV
+Anxiété et dépression (HAD, inventaire d'anxiété de Beck, inventaire de dépression de Beck)
 
 ### Ambivalent (stade l'intention)
 
@@ -131,7 +159,14 @@ En première intention: substituts nicotiniques pour l'arrêt ou la réduction d
 
 [HAS. Arrêt de la consommation de tabac : du dépistage individuel au maintien de l'abstinence en premier recours. 2014.](https://www.has-sante.fr/jcms/c_1718021/fr/arret-de-la-consommation-de-tabac-du-depistage-individuel-au-maintien-de-l-abstinence-en-premier-recours)
 
+### À lire
+
+- Tabac Info Service
+- SPF
+- Addictions France
+- OFDT
+- intervenir-addictions.fr
+
 {{%/sources%}}
 
 ≤≥±®æœŒÈ³ÂSpO<sub>2</sub>
-[External link](https://discourse.gohugo.io/ "{rel='nofollow'}")

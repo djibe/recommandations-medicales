@@ -27,7 +27,7 @@ todo = "rec maladie pro"
 - Signes de gravité du syndrome du canal carpien: déficit moteur de flexion du pouce, sensitif du dermatome et amyotrophie
 - Pas de bilan et prise en charge du canal carpien par une orthèse seule en première intention
 - La guérison est quasi systématique en cas de survenue pendant la grossesse
-- [Brochure patient (PDF)](https://www.ameli.fr/sites/default/files/Documents/5099/document/syndrome-canal-carpien_assurance-maladie.pdf)
+- [Brochure patient d'information sur le canal carpien (PDF)](https://www.ameli.fr/sites/default/files/Documents/5099/document/syndrome-canal-carpien_assurance-maladie.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
