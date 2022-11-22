@@ -1,5 +1,6 @@
 +++
-title = "Arrêt du tabac"
+title = "Arrêt du tabac et sevrage tabagique"
+titleSeo = "Arrêt du tabac"
 prefix = "l'"
 description = "TODO:"
 synonyms = ["Sevrage tabagique"]
@@ -19,12 +20,10 @@ imageSrc = ""
 todo = ""
 +++
 
-{{< scores/cast >}}
-
 {{%article-summary%}}
 
 - Le tabagisme est la première cause de mortalité évitable
-- Le dépistage du tabagisme et le conseil d'arrêt doit être systématique
+- Le dépistage du tabagisme et le conseil d'arrêt doivent être systématiques
 - Note personnelle: informer sur le caractère gratuit et illimité sur ordonnance de la prise en charge des traitements d'aide à l'arrêt
 - Pour tous les fumeurs proposer une prise en charge par des substituts nicotiniques pour réduire la consommation de tabac
 - [Liste des substituts nicotiniques remboursés]({{< relref "substituts-nicotiniques.md" >}})
@@ -33,10 +32,9 @@ todo = ""
 {{%collapse "Définitions" %}}
 
 Tabagisme
-: Usage de tabac quelle que soit la forme : fumé (cigarette, cigare, tabac à rouler, pipe, narguilé),
-prisé, mâché (snus), associé ou non à d'autres substances (joint), etc.
-: Risque de complications quelque soit la durée et la quantité (BPCO, maladie cardiovasculaire). Deuxième cause de mortalité mondiale (5,1 millions/an), première cause évitable.
-Idem tabagisme passif.
+: Usage de tabac quelle que soit la forme: fumé (cigarette, cigare, tabac à rouler, pipe, narguilé), prisé, mâché (snus), associé ou non à d'autres substances (joint), etc.
+: Risque de complications quelque soit la forme, la durée et la quantité (BPCO, maladie cardiovasculaire). Les risques sont identiques pour le tabagisme passif.
+Le tabagisme est la deuxième cause de mortalité mondiale (5,1 millions de décès/an) et la première cause évitable.
 
 Craving
 : Besoin irrépressible de consommer. Le craving est un symptôme de la dépendance.
@@ -74,7 +72,7 @@ TNS
 {{% /collapse %}}
 {{%collapse "Dépistage et évaluation de la dépendance au tabac" %}}
 
-### Dépistage
+### 1) Dépistage
 
 1. Fumez-vous ?
 2. Oui: Avez-vous déjà essayé de fumer ?  
@@ -83,7 +81,9 @@ TNS
 
 TODO: Tableau 1 en algorithme
 
-### Évaluation de la dépendance à la nicotine
+Demander l'accord du patient pour parler de sa consommation.
+
+### 2) Évaluation de la dépendance à la nicotine
 
 <div class="card card-hover my-3 mb-xl-5 mw-640">
   <ul class="nav nav-tabs nav-justified" id="tabs-fag" role="tablist">
@@ -111,6 +111,28 @@ La dépendance est certaine en présence d'au moins 1 critère parmi:
 - Rechute après une tentative d'arrêt
 - Complications (BPCO, artérite, cancer ...) ou risques encourus dans certaines situations spécifiques (intervention chirurgicale, grossesse ...)
 - Souci constant d'approvisionnement de tabac
+
+### 3) Conseil d'arrêt
+
+Le conseil consiste à indiquer à un fumeur qu'il est bénéfique pour sa santé d’arrêter de fumer. Il s'adresse à tous les fumeurs.
+
+Rappeler que l'arrêt du tabac n'est pas qu'une question de volonté mais qu'il s’agit d'’'une addiction qui peut nécessiter une prise en charge thérapeutique par un professionnel.
+
+{{%info%}}
+
+#### Exemples de conseils d'arrêt
+
+- Arrêter de fumer est la décision la plus importante que vous pouvez prendre pour protéger votre santé. Je peux vous aider si vous le souhaitez
+- Il est important que vous arrêtiez de fumer, et je peux vous aider
+- Je peux vous aider à arrêter de fumer. Ce sera sûrement plus facile que d'essayer tout seul
+- Arrêter de fumer pendant que vous êtes malade est une bonne décision, ce peut être l'occasion de reprendre votre liberté face au tabac
+- Fumer occasionnellement ou en faible quantité est encore dangereux
+- Il n'est jamais trop tard pour arrêter et c'est encore mieux si on arrête tôt
+- Continuer à fumer aggravera votre bronchite ou votre asthme (...), en revanche arrêter de fumer pourra améliorer votre santé de façon importante
+- La fréquence des infections respiratoires des enfants est supérieure dans un environnement fumeur
+
+> *HAS 2014*
+{{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

@@ -8,7 +8,7 @@ synonyms = ["Syndrome climatérique", "traitement hormonal substitutif THS"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
 publishdate = "2021-10-19"
-lastmod = "2022-11-08"
+lastmod = "2022-11-22"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF"]
@@ -349,7 +349,7 @@ Le THM peut être proposé en ménopause récente (< 10 ans) selon la balance b�
   - Estrogènes par voie vaginale
   - Effet synergique avec lactobacilles
 - [Insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}})  
-Au moins jusqu'à 51 ans.
+  Traitement hormonal substitutif poursuivi jusqu'à au moins 51 ans.
 
 Précisions: aucun effet sur l'endomètre si durée < 2 ans.
 
@@ -375,19 +375,17 @@ L'absence d'efficacité doit faire rechercher des BVM atypiques (voir *Clinique*
   - Thrombophilie
 - Réévaluation annuelle du THM
 
-### Les schémas du THM
+### Les schémas du traitement hormonal de la ménopause
 
 - Schéma combiné sans hémorragie de privation
-  - Continu: estrogène + progestatif en continu
+  - Continu: estrogène et progestatif en continu
   - Discontinu: estrogène + progestatif pendant 25 jours puis arrêt 1 semaine
-- Schéma séquentiel avec hémorragie de privation
-  - Continu: estrogène en continu + progestatif débuté de J11 à J13 et suspendu à J25. Hémorragie suit l'arrêt du progestatif.
-  - Discontinu: Estrogène pendant 25 jours puis arrêt 1 semaine + progestatif débuté de J11 à J13 et suspendu à J25 avec l'estrogène. Hémorragie suit l'arrêt du progestatif.
+- Schéma séquentiel = avec hémorragies de privation
+  - Continu: estrogène en continu + progestatif débuté entre J11 à J13 et suspendu à J25 (12-14 jours de progestatif). L'hémorragie suit l'arrêt du progestatif
+  - Discontinu: estrogène pendant 25 jours puis arrêt 1 semaine + progestatif débuté entre J11 à J13 et suspendu à J25 avec l'estrogène (12-14 jours de progestatif). Hémorragie suit l'arrêt du progestatif
 
-<figure class="figure-chart">
-  <div id="chart"></div>
-  <figcaption><b>Figure. </b>Schémas de prise du traitement hormonal de la ménopause</figcaption>
-</figure>
+{{< figure-chart title="Schémas de prise du traitement hormonal de la ménopause. Dr JB Fron d'après CNGOF 2021" >}}
+
 <script>
 const chartOptions = {
   series: [
@@ -432,14 +430,14 @@ const chartOptions = {
     {
       x: 'Séquentiel continu',
       y: [
-        new Date(Date.UTC(2021, 0, 11)).getTime(),
+        new Date(Date.UTC(2021, 0, 12)).getTime(),
         new Date(Date.UTC(2021, 0, 25)).getTime()
       ]
     },
     {
       x: 'Séquentiel discontinu',
       y: [
-        new Date(Date.UTC(2021, 0, 11)).getTime(),
+        new Date(Date.UTC(2021, 0, 12)).getTime(),
         new Date(Date.UTC(2021, 0, 25)).getTime()
       ]
     }
@@ -489,6 +487,8 @@ const chartOptions = {
   tooltip: { x: { format: 'd' }}
 }
 </script>
+
+> Pour un schéma discontinu, le progestatif est démarré entre J11 et J13 et arrêté à J25, soit 12 à 14 jours de traitement (*CNGOF 2021*)
 
 ### Adaptation du traitement hormonal
 

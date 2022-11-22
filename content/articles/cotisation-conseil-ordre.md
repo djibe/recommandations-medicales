@@ -23,11 +23,8 @@ Sur 20 ans (période 2001 - 2021), l'augmentation de la cotisation ordinale atte
 
 ## Graphique
 
-<figure class="figure-chart">
-  <div id="chart"></div>
-  <figcaption><b>Figure.</b> Montant de la cotisation ordinale des médecins de 2001 à 2021. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après cotisations CNOM.</figcaption>
-</figure>
-<script>
+{{< figure-chart title="Montant de la cotisation ordinale des médecins de 2001 à 2021. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après cotisations CNOM" >}}
+
 // https://www.insee.fr/fr/information/2417794
 const chartOptions = {
   series: [{

@@ -145,6 +145,8 @@ Informations à donner sur le vitiligo:
 {{% /collapse %}}
 {{%collapse "Photos de vitiligo" %}}
 
+Galerie de photos du vitiligo.
+
 {{< gallery >}}
 {{< gallery-item image="/images/photos/vitiligo1.webp"  title="Vitiligo non segmentaire des paupières" author="par Maria Sieglinda von Nudeldorf, CC BY-SA 4.0 via Wikimedia Commons">}}
 {{< gallery-item image="/images/photos/vitiligo2.webp"  title="Vitiligo non segmentaire des mains" author="par James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons">}}

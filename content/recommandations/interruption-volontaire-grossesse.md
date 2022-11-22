@@ -1,9 +1,9 @@
 +++
-title = "Interruption volontaire de grossesse"
+title = "Interruption volontaire de grossesse (IVG)"
 prefix = "l'"
 titleSeo = "Interruption de grossesse IVG"
 description = "Recommandations pour la prise en charge ambulatoire de l'interruption volontaire de grossesse (IVG). Terme autorisé, examen gynécologique, échographie pelvienne"
-synonyms = ["IVG", "avortement"]
+synonyms = ["Avortement"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-16T10:54:41+02:00"
 publishdate = "2020-09-16"
@@ -36,7 +36,7 @@ Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contrace
 {{< outils/terme >}}
 
 {{% /collapse %}}
-{{%collapse "Introduction" "show" %}}
+{{%collapse "Introduction" %}}
 
 > << Les échecs contraceptifs dus au défaut d'observance sont l'une des principales causes de recours à l'interruption volontaire de grossesse (IVG) en France >> (*CNGOF 2018*).
 
@@ -51,11 +51,8 @@ Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contrace
 - 76% des IVG sont médicamenteuses
 - Depuis l'autorisation de 2004: 1 IVG médicamenteuse sur 6 a lieu en libéral (soit 18.273 en 2007, 3/4 par gynécologue, 1/4 par médecin généraliste)
 
-<figure class="figure-chart">
-  <div id="chart"></div>
-  <figcaption><b>Figure. </b>Évolution du ratio d'avortement France entière de 1990 à 2021. (<em>Drees 2022</em>)<br>
-  Le ratio d'avortement correspond au rapport entre le nombre d'IVG et le nombre de naissances vivantes. En 2021, 30 IVG pour 100 naissances vivantes (<em>Drees 2022</em>)</figcaption>
-</figure>
+{{< figure-chart title="Évolution du ratio d'avortement France entière de 1990 à 2021. (<em>Drees 2022</em>)<br>Le ratio d'avortement correspond au rapport entre le nombre d'IVG et le nombre de naissances vivantes. En 2021, 30 IVG pour 100 naissances vivantes (<em>Drees 2022</em>)" >}}
+
 <script>
 const chartOptions = {
   series: [{

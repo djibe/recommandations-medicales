@@ -30,10 +30,7 @@ Pour tous les dépistages, les taux de participation restent très en-dessous de
 
 Représentation des taux de participation aux dépistages organisés des cancers et mortalité associée à ces cancers.
 
-<figure class="figure-chart">
-  <div id="chart"></div>
-  <figcaption>Figure. Données de participation au dépistage organisé des cancers et mortalité 2017 (dépistages: col 2018-2020 - sein 2020-2021 - colorectal 2020-2021). Dr JB Fron d'après dernières données Santé Publique France.</figcaption>
-</figure>
+{{< figure-chart title="Données de participation au dépistage organisé des cancers et mortalité 2017 (dépistages: col 2018-2020 - sein 2020-2021 - colorectal 2020-2021). Dr JB Fron d'après dernières données Santé Publique France" >}}
 
 ## Sources
 

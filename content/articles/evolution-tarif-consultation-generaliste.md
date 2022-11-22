@@ -27,10 +27,8 @@ Ce qui nécessitera un autre travail: l'évolution de l'activité des praticiens
 
 ## Graphique de l'historique des honoraires médicaux conventionnés secteur 1
 
-<figure class="figure-chart">
-  <div id="chart"></div>
-  <figcaption>Figure. Prix d'une consultation chez le médecin généraliste en secteur 1 de 1980 à 2021. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après <a href="http://piketty.pse.ens.fr/fichiers/enseig/memothes/DeaMayneris2004.pdf" rel="external nofollow noopener">Mayneris 2004</a> et <a href="https://www.insee.fr/fr/information/2417794" rel="external nofollow noopener">INSEE</a>.</figcaption>
-</figure>
+{{< figure-chart title="Prix d'une consultation chez le médecin généraliste en secteur 1 de 1980 à 2021. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après <a href='http://piketty.pse.ens.fr/fichiers/enseig/memothes/DeaMayneris2004.pdf' rel='external nofollow noopener'>Mayneris 2004</a> et <a href='https://www.insee.fr/fr/information/2417794' rel='external nofollow noopener'>INSEE</a>" >}}
+
 <script>
 const chartOptions = {
   // https://www.insee.fr/fr/information/2417794
