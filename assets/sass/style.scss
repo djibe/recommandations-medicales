@@ -192,6 +192,7 @@ mark {
   grid-template-columns: repeat(2, 1fr);
   gap: 8px;
   grid-auto-flow: row dense;
+  margin: 2rem 0;
 
   > figure {
     margin: 0;

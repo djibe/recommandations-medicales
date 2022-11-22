@@ -5,18 +5,17 @@ description = "Recommandations pour le traitement et la prise en charge du vitil
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-29T20:48:41+02:00"
-publishdate = "2022-11-18"
-lastmod = "2022-11-18"
+publishdate = "2022-11-22"
+lastmod = "2022-11-22"
 specialites = ["dermatologie"]
 annees = "2021"
 sources = ["BAD", "Inserm"]
 tags = ["TSH"]
 anglais = ["Vitiligo"]
 sctid = "56727007"
-draft = true
-image = false
+image = true
 imageSrc = "Photo de vitiligo des mains par James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "info patient src 1, BAD Figure 1, galerie photo"
+todo = "BAD Figure 1"
 +++
 
 {{%article-summary%}}
@@ -136,14 +135,15 @@ Les récidives peuvent être nombreuses mais l'évolution est imprévisible.
 Informations à donner sur le vitiligo:
 
 - Maladie de peau relativement fréquente atteignant les 2 sexes à tous les âges
-- Il a une origine auto-immune, ce n'est ni contagieux ni un problème psychosomatique
+- Il a une origine auto-immune et n'est ni contagieux, ni un problème psychosomatique
 - Le système immunitaire attaque les mélanocytes qui teintent la peau
 - Évolution non prévisible sans sur-risque de cancer cutané
-- Phénomène de Koebner
+- Phénomène de Koebner: les frottements répétés favorisent de nouvelle lésions
+- La prise en charge relève du dermatologue
 - Le traitement de référence comprend l'application de dermocorticoïdes et une photothérapie par UVB
 
 {{% /collapse %}}
-{{%collapse "Photos de vitiligo" "show"%}}
+{{%collapse "Photos de vitiligo" %}}
 
 {{< gallery >}}
 {{< gallery-item image="/images/photos/vitiligo1.webp"  title="Vitiligo non segmentaire des paupières" author="par Maria Sieglinda von Nudeldorf, CC BY-SA 4.0 via Wikimedia Commons">}}
