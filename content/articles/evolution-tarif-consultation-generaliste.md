@@ -12,7 +12,7 @@ tags = []
 chart = true
 image = false
 imageSrc = ""
-todo = "écriture SEO, Éléments cliquables trop rapprochés, cadres, temps travail, cotisations | KEY x3: consultations, médecin, médecins généralistes, consultation médicale, médecin traitant, tiers payant, augmentation des tarifs réglementés, assurance maladie, assurés, euro par consultation, patients | x1: prix d'une consultation, consultations chez le médecin, prix d'une visite, montant, médecine générale, sécurité sociale, revalorisation, évolution des prix, consultation classique; https://www.ofce.sciences-po.fr/pdf/ebook/ebook121.pdf; https://www.insee.fr/fr/outil-interactif/5369554/series-longues-dans-le-secteur-prive"
+todo = "écriture SEO, Éléments cliquables trop rapprochés, cadres, temps travail, cotisations | KEY x3: consultations, médecin, médecins généralistes, consultation médicale, médecin traitant, tiers payant, augmentation des tarifs réglementés, assurance maladie, assurés, euro par consultation, patients | x1: prix d'une consultation, consultations chez le médecin, prix d'une visite, montant, médecine générale, sécurité sociale, revalorisation, évolution des prix, consultation classique; https://www.ofce.sciences-po.fr/pdf/ebook/ebook121.pdf; https://www.insee.fr/fr/outil-interactif/5369554/series-longues-dans-le-secteur-prive, https://www.insee.fr/fr/information/2417794"
 +++
 
 ## Résumé
@@ -30,7 +30,6 @@ Ce qui nécessitera un autre travail: l'évolution de l'activité des praticiens
 {{< figure-chart title="Prix d'une consultation chez le médecin généraliste en secteur 1 de 1980 à 2021. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après <a href='http://piketty.pse.ens.fr/fichiers/enseig/memothes/DeaMayneris2004.pdf' rel='external nofollow noopener'>Mayneris 2004</a> et <a href='https://www.insee.fr/fr/information/2417794' rel='external nofollow noopener'>INSEE</a>" >}}
 
 <script>
-// https://www.insee.fr/fr/information/2417794
 const chartOptions = {
   series: [{
     name: 'Euros 2021',
