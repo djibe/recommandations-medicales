@@ -27,7 +27,7 @@ todo = "calcium enfant dans screenshots"
 - 75 nmol/L à partir de 65 ans ou pathologie à risque, chutes
 - {{< modal-btn modal-calcium-cible >}}Apports en calcium recommandés{{< /modal-btn >}} et {{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}
 
-Articles liés: {{< modal-btn modal-calcium-cible >}}apports en calcium recommandés{{< /modal-btn >}}, {{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}} et [ostéoporose]({{< relref "osteoporose.md" >}})
+Articles liés: [ostéoporose]({{< relref "osteoporose.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -232,11 +232,15 @@ Intensification de la supplémentation si:
 
 ### Spécialités de vitamine D3 par galénique
 
-<ul class="list-group mw-480">
-  {{< list-item title="Ampoule" subtitle="Cholécalciférol 200, 100, 80 ou 50.000 UI" >}}
-  {{< list-item title="Capsule molle" subtitle="Kipos® 100.000 UI" >}}
-  {{< list-item title="Gouttes" subtitle="Adrigyl® 333 UI/goutte, ZymaD® 300 UI/goutte" >}}
-</ul>
+Ampoule
+: Cholécalciférol 200, 100, 80 ou 50.000 UI
+
+Capsule molle
+: Kipos® 100.000 UI
+
+Goutte
+: Adrigyl® 333 UI/goutte, ZymaD® 300 UI/goutte
+{.dl-inline}
 
 ### Spécialité de vitamine D2
 

@@ -41,11 +41,11 @@ Valeurs normales de créatininémie: 60-107 µmol/L chez la femme et 80-115 chez
 | Stade | Créatininémie | Diurèse |
 |------:|:--------------|---------|
 | 1     | Augmentation ≥ 26,5 µmol/L en 48h<br>ou ≥ 50% en 7 jours | < 0,5 mL/kg/h pendant 6-12h |
-| 2     | x2            | < 0,5 mL/kg/h pendant ≥ 12h |
-| 3     | x3<br>ou augmentation ≥ 353,6 µmol/L<br>ou nécessité de dialyse<br>ou DFG < 35 chez le -18 ans | < 0,3 mL/kg/h pendant ≥ 24h<br>ou anurie ≥ 12h |
+| 2     | Créatinine doublée* | < 0,5 mL/kg/h pendant ≥ 12h |
+| 3     | Créatinine triplée*<br>ou augmentation ≥ 353,6 µmol/L<br>ou nécessité de dialyse<br>ou DFG < 35 chez le -18 ans | < 0,3 mL/kg/h pendant ≥ 24h<br>ou anurie ≥ 12h |
 {{< /table >}}
 
-> 26,5 µmol/L de créatininémie = 0,3 mg/dL | 353,6 µmol/L = 4 mg/dL
+> \* par rapport à sa valeur de base | 26,5 µmol/L de créatininémie = 0,3 mg/dL | 353,6 µmol/L = 4 mg/dL
 
 ### Étiologie de l'insuffisance rénale aiguë
 
@@ -112,7 +112,7 @@ Les symptômes et signes associés à la survenue d'une insuffisance rénale aig
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Rechercher un globe vésical et adresser aux Urgences pour la prise en charge de l'insuffisance rénale aiguë (biologie, ECG échographie rénovésicale).
+Rechercher un globe vésical et adresser aux Urgences pour la prise en charge de l'insuffisance rénale aiguë (biologie, ECG, échographie rénovésicale).
 
 Préciser les antécédents (insuffisance rénale, HBP ...), les valeurs antérieures de créatinine et le niveau de diurèse.
 
@@ -124,11 +124,21 @@ Consultation de contrôle à 3 mois après la correction de l'épisode.
 {{%info%}}<< il n'est pas recommandé de doser la créatininémie pour estimer le DFG avant une IRM injectée >> car << une insuffisance rénale aiguë avec les produits gadolinés en IRM, n'existe pas aux doses utilisées >> (*SFNDT 2020*){{%/info%}}
 
 Insuffisance rénale aiguë post-contraste (IRA-PC)
-: Même définition e que l'insuffisance rénale aiguë, survenant dans les 48 à 72 heures suivant l'injection intravasculaire d'un produit de contraste iodé.
+: Même définition que l'insuffisance rénale aiguë, survenant dans les 48 à 72 heures suivant l'injection intravasculaire d'un produit de contraste iodé.
 : L'IRA-PC ne survient que sur un rein altéré et entraîne une surmortalité.
-: Dosage de la créatininémie avant injection de produit de contraste iodé: néphropathie (IRA, IRC, chirurgie, protéinurie), lupus, diabète, hypertension artérielle. Un dosage de créatinine est valable 3 mois (7 jours en aigu).
 
 **NB.** Aucune contre-indication à des injections le même jour de Gadolinium et de produit de contraste iodé.
+
+### Indications au dosage de la créatininémie avant injection de produit de contraste
+
+Situations nécessitant une mesure de la créatininémie avant l'injection de produit de contraste iodé:
+
+- Néphropathie (IRA, IRC, chirurgie, protéinurie)
+- Lupus
+- Diabète
+- Hypertension artérielle
+
+Un dosage de créatinine est valable 3 mois (7 jours en aigu).
 
 ### Facteurs de risque d'insuffisance rénale aiguë post-contraste
 
