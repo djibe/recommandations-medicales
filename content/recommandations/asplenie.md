@@ -73,7 +73,7 @@ Antibiothérapie par [Oracilline®](https://base-donnees-publique.medicaments.go
 - Enfant < 10 kg  
   100.000 UI/kg/j pendant 5 ans.
 - Allergie aux bêtalactamines  
-  Macrolide roxythromycine (Rulid®, gén) 150 mg x 2/j.
+  Macrolide roxithromycine (Rulid®, gén) 150 mg x 2/j.
 
 {{% /collapse %}}
 {{%collapse "Vaccinations après splénectomie" %}}

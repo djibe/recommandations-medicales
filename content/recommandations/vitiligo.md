@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-29T20:48:41+02:00"
 publishdate = "2022-11-22"
-lastmod = "2022-11-22"
+lastmod = "2022-11-23"
 specialites = ["dermatologie"]
 annees = "2021"
 sources = ["BAD", "Inserm"]
@@ -31,7 +31,7 @@ todo = "BAD Figure 1"
 
 Vitiligo
 : Dermatose chronique bénigne autoimmune à l'origine d'une dépigmentation cutanée progressive par destruction des mélanocytes **sans facteur prédictif évolutif**. Il débute le plus souvent avant 30 ans (70%) avec une **atteinte préférentielle du visage et des extrémités** (mains et pieds).  
-Une atteinte exclusive des muqueuse est possible et rare.  
+Une atteinte exclusive des muqueuses est possible et rare.  
 Il atteint 0,5 à 1% de la population de façon homogène avec un sur-risque en cas d'**antécédents familiaux et de stress**.
 : Le vitiligo est dit **stable** en l'absence de nouvelle lésions sur 12 mois avec une stabilité des lésions pré-existantes.
 : Le pronostic du vitiligo est **psychologique** sans augmentation des **cancers de la peau**.  
@@ -71,7 +71,7 @@ BAD
 
 {{%info%}}Adresser toute suspicion de vitiligo au dermatologue pour le diagnostic clinique de certitude à la lampe de Wood et la prise en charge{{%/info%}}
 
-Le diagnostic de vitiligo est clinique avec à la lampe de Wood un dépigmentation totale des zones achromiques:
+Le diagnostic de vitiligo est clinique avec à la lampe de Wood une dépigmentation totale des zones achromiques:
 
 - Antécédents (dont auto-immuns ++)
 - Antécédents familiaux (auto-immuns ++)

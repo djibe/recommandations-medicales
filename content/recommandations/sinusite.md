@@ -167,7 +167,7 @@ Contre-indication aux bêtalactamines
 Selon Prescrire®: spiramycine 3 MU x 2-3/j  
 ou azithromycine 2 x 250 mg x 1/j pendant 3 jours
 : **Enfant > 6 ans:** pristinamycine 50 mg/kg/j x 2-3/j pendant 8 jours  
-**Enfant < 6 ans:** Triméthoprime-sulfamétoxazole 15 mg/kg x 2/j pendant 8 jours
+**Enfant < 6 ans:** Triméthoprime-sulfaméthoxazole 15 mg/kg x 2/j pendant 8 jours
 
 #### Antibiothérapie de la sinusite frontale
 

@@ -48,7 +48,7 @@ Contre-indications au méthotrexate:
 
 - Vaccins vivants (fièvre jaune, ROR, varicelle, BCG)
 - Aspirine autre qu'à dose antiagrégante (si MTX > 20 mg/sem)
-- Trimétoprime-sulfaméthoxazole (Bactrim®)
+- Triméthoprime-sulfaméthoxazole (Bactrim®)
 - Probénécide
 - Phénylbutazone
 

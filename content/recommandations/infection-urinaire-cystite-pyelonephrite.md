@@ -164,7 +164,7 @@ Bilan avec échographie des voies urinaires et mesure du résidu post-mictionnel
   - Traitement d'une cystite simple (sauf nitrofurantoïne) jusqu'à 1 fois par mois
   - Si éducation possible: auto-BU et auto-antibiothérapie si positive, suivi semestriel
 
-Éviter au maximum une **antibioprophylaxie** au long cours. En dernier recours avec > 1 épisode par mois et échec des autres mesures, sur avis spécialisé, par fosfomycine trométamol 3g 1 dose/semaine ou trimétoprime 150 mg/j au coucher (voire cotrimoxazole 400/80 mg/j au coucher).
+Éviter au maximum une **antibioprophylaxie** au long cours. En dernier recours avec > 1 épisode par mois et échec des autres mesures, sur avis spécialisé, par fosfomycine trométamol 3g 1 dose/semaine ou triméthoprime 150 mg/j au coucher (voire cotrimoxazole 400/80 mg/j au coucher).
 
 **Cystites post-coïtales:** mêmes antibiotiques à prendre dans les 2 heures avant ou après le rapport, sans dépasser le rythme de la prophylaxie continue.
 
@@ -260,7 +260,7 @@ Prise en charge par **antibiothérapie systématique** d'emblée adaptée à l'a
 1. <mark>**Amoxicilline 1g x 3/j pendant 7 jours**</mark>
 2. Pivmécillinam (Selexid®) 400 mg x 2/j pendant 7 jours
 3. Fosfomycine trométamol 3g dose unique
-4. Trimétoprime 300 mg/j pendant 7 jours  
+4. Triméthoprime 300 mg/j pendant 7 jours  
   Éviter les 10 premières semaines d'aménorrhée.
 5. Alternatives pendant 7 jours: nitrofurantoïne 100 mg x 3/j, cotrimoxazole 800/160 mg x 2/j (éviter < 10 SA), amoxicilline-acide clavulanique 1g x 3/j
 
@@ -283,7 +283,7 @@ Cystite gravidique
 En cas d'échec ou de résistance:
 
 1. <mark>**Amoxicilline 1g x 3/j pendant 7 jours**</mark>
-2. Trimétoprime 300 mg/j pendant 7 jours  
+2. Triméthoprime 300 mg/j pendant 7 jours  
   Éviter les 10 premières semaines d'aménorrhée.
 3. Nitrofurantoïne 100 mg x 3/j pendant 7 jours
 4. Alternatives pendant 7 jours: cotrimoxazole 800/160 mg x 2/j (éviter < 10 SA) ou amoxicilline-acide clavulanique 1g x 3/j

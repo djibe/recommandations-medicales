@@ -163,7 +163,7 @@ Selon Prescrire®: pénicilline V (Oracilline®) 1-1,5 MUI x 4/j jusqu'à améli
 - Enfants
   - Amoxicilline-acide clavulanique 80 mg/kg/j en 3 prises pendant 7 jours (max 3 g/j)
   - Si allergie pénicilline +6 ans: clindamycine buvable 40 mg/kg/j en 3 prises pendant 7 jours
-  - Si allergie pénicilline avant 6 ans: triméthoprime-sulfamétoxazole 40 mg/kg/j (de SMX) en 3 prises pendant 7 jours
+  - Si allergie pénicilline avant 6 ans: triméthoprime-sulfaméthoxazole 40 mg/kg/j (de SMX) en 3 prises pendant 7 jours
 - Morsure d'animal (adulte)  
   - Amoxicilline-acide clavulanique 50 mg/kg/j en 3 prises pendant 7 jours (amoxicilline max 6 g/j et a. clavulanique max 375 mg/j)
   - Avis infectiologique en cas d'allergie à la pénicilline

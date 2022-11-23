@@ -63,7 +63,7 @@ Autres causes d'hyperphagie secondaire d'origine organique:
 
 ### Épidémiologie de la boulimie
 
-- Prévalence de la boulimie: 1,5% des 11-20 ans avec 90 de jeunes filles
+- Prévalence de la boulimie: 1,5% des 11-20 ans avec 90% de jeunes filles
 - Prévalence de l'hyperphagie boulimique: 3-5% de la population, sex-ratio équilibré
 
 ### Abréviations
@@ -188,7 +188,7 @@ Bilan à la recherche de complications somatiques:
 - Cardiovasculaire  
   Palpitations, douleur thoracique, dyspnée.
 - Digestif  
-  Reflux, douleurs abdominales, troubles du transite, hémorragie digestive.
+  Reflux, douleurs abdominales, troubles du transit, hémorragie digestive.
 - Dermatologique  
   Scarifications, callosités dorsales des mains (signe de Russell lié aux vomissements fréquents), signes de carences (alopécie, ongles cassants, perlèche)
 - Musculaire  
@@ -247,21 +247,21 @@ Indications à une hospitalisation du sujet boulimique:
 ### Initiation des soins par le médecin généraliste
 
 - Nommer le trouble des conduites alimentaires avec tact et sans stigmatisation et de souligner qu'il est un mode d'adaptation comportementale à un mal-être
-- informer sur les risques liés au trouble (chronicité, conséquences potentiellement graves à court et long terme) qui nécessitent des soins somatiques et psychiques
+- Informer sur les risques liés au trouble (chronicité, conséquences potentiellement graves à court et long terme) qui nécessitent des soins somatiques et psychiques
 - Informer sur les possibilités de guérison avec une prise en charge adaptée (quelque soit le nombre d'année écoulées et les déceptions précédentes)
-- Expliquer l'objectif des soins: traiter les dysrégulations émotionnelles et les dimensions psychiques associées, restaurer un comportement alimentaire adapté, diminuer des crises, avec des objectifs thérapeutiques plus larges : complications somatiques, psychiques, sociales et relationnelles
+- Expliquer l'objectif des soins: traiter les dysrégulations émotionnelles et les dimensions psychiques associées, restaurer un comportement alimentaire adapté, diminuer les crises, avec des objectifs thérapeutiques plus larges : complications somatiques, psychiques, sociales et relationnelles
 
 S'appuyer sur des éléments motivant le patient pour avancer dans les soins (projets, loisirs, études/travail).  
 **Valoriser** la personne sur ses points forts, ses efforts, ses succès.
 
-Les entretiens motivationnels sont recommandés en cas de difficultés à s'engager dans les soins.  
+Les entretiens motivationnels sont recommandés en cas d'adhésion intermittente aux soins.  
 Un trouble borderline augmente le risque d'abandon prématuré. Rester disponible même en adhésion intermittente.
 
 ### Prise en charge ambulatoire de la boulimie
 
 La prise en charge de la boulimie est pluridisciplinaire et chronique, ambulatoire en première intention:
 
-- Trouble sévère: ALD n°23
+- Trouble sévère: [ALD n°23]({{< relref "affection-longue-duree.md" >}})
 - Impliquer la famille
 - Le coordonnateur du parcours doit être clairement identifié
 - Équipe: équipe spécialisée ([annuaire FFAB](https://www.ffab.fr/trouver-de-l-aide/annuaire-2021)), psychiatre, nutritionniste
