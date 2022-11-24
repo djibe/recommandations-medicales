@@ -19,8 +19,9 @@ todo = "grippe grossesse, antiviral, vaccin grippe porcin aviaire"
 
 {{%article-summary%}}
 
-- Vaccination annuelle contre la grippe des personnes à risque de forme grave à partir de mi-octobre (en métropole)
-- Rappel couplé à la vaccination Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*)
+- Vaccination annuelle contre la grippe des personnes à risque de forme grave à partir de mi-octobre (en métropole)  
+  Le vaccin ne donne évidemment pas de syndrome grippal puisqu'il ne contient que des protéines virales
+- Le rappel antigrippal est couplé à la vaccination Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

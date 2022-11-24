@@ -17,13 +17,13 @@ sctid = "36971009"
 flowchart = true
 image = true
 imageSrc = "Photo de NIAID sur Foter.com / CC BY"
-todo = "SEO, KEY SPILF sinusite-ethmoidite aigue-has sinusite, https://www.sforl.org/wp-content/uploads/2020/02/recoRSIA.pdf, age ethmoidite, indications scanner, sources prescrire"
+todo = "SEO, KEY SPILF sinusite-ethmoidite aigue-has sinusite, https://www.sforl.org/wp-content/uploads/2020/02/recoRSIA.pdf, indications scanner, sources prescrire"
 +++
 
 {{%article-summary%}}
 
-- Recherche systématique de complications
-- [Contrôler l'antibiothérapie sur Antibioclic](https://antibioclic.com/questionnaire/45)
+- Recherche systématique de complications devant un tableau de sinusite
+- Contrôler l'antibiothérapie de référence de la sinusite sur [Antibioclic](https://antibioclic.com/questionnaire/45)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -50,7 +50,7 @@ Sinusite frontale
 
 Rhinopharyngite aiguë.
 
-### Complications
+### Complications de la sinusite
 
 Rechercher systématiquement des signes de complication de la sinusite:
 
@@ -66,13 +66,13 @@ Rechercher systématiquement des signes de complication de la sinusite:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic est clinique et nécessite **≥ 2 critères** parmi:
+Le diagnostic est clinique et nécessite **au moins 2 critères** parmi:
 
 1. Persistance ou augmentation des douleurs sinusiennes infra-orbitaires sous traitement symptomatique ≥ 48h
 2. Caractère unilatéral  
   et/ou augmenté tête penchée en avant  
   et/ou pulsatile  
-  et/ou max en fin d'après-midi/nuit
+  et/ou maximal en fin d'après-midi ou la nuit
 3. Augmentation d'une rhinorrhée et purulence permanente (unilatérale ++)
 
 Autres arguments en faveur d'une sinusite:
@@ -83,7 +83,7 @@ Autres arguments en faveur d'une sinusite:
 ### Ethmoïdite aiguë
 
 Chez le petit enfant: Fièvre et œdème palpébral d'apparition brutale débutant au canthus interne.  
-Urgence médicale, hospitalisation, antibiothérapie intraveineuse.
+Urgence médicale, hospitalisation pour antibiothérapie intraveineuse.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -121,7 +121,7 @@ Méthode: ponction ou prélèvement au méat moyen.
 
 - Consulter le dentiste si SMA unilatérale (fétide++)
 - Antalgie  
-Paracétamol 1g x 4/j voire palier 2
+  Paracétamol 1g x 4/j voire palier 2.
   - Hyperalgique: corticoïdes per os max 7 jours.
   - Si insuffisants: avis ORL pour ponction-drainage maxillaire.
 - Désobstruction rhino-pharyngée (DRP)

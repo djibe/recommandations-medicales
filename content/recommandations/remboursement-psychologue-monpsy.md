@@ -22,13 +22,14 @@ todo = "échelles"
 
 {{%article-summary%}}
 
-- Sur prescription, jusqu'à 8 séances remboursées/an
-- Courrier d'adressage pour le remboursement:  
+- Sur prescription, jusqu'à 8 séances de psychothérapie remboursées chaque année
+- Courrier d'adressage au psychologue pour le remboursement:  
   Adressage pour un accompagnement psychologique (entretien d’évaluation et jusqu’à 7 séances de suivi) par un psychologue conventionné avec l’Assurance Maladie (annuaire disponible sur [monpsy.sante.gouv.fr](https://monpsy.sante.gouv.fr/annuaire)).
 - \+ courrier du contexte
 - [Annuaire des psychologues remboursés (MonPsy)](https://monpsy.sante.gouv.fr/annuaire), des [CMP](https://www.santeenfrance.fr/annuaire/13-centres-medico-psychologiques-cmp-cattp) et [CMPP](https://annuaire.action-sociale.org/etablissements/jeunes-handicapes/centre-medico-psycho-pedagogique--c-m-p-p---189.html)
 - [Appli pour le suivi des symptômes: Mon suivi psy](https://jardinmental.fabrique.social.gouv.fr/pro)
-- À venir: scores d'évaluation psychologique selon l'âge
+
+À venir: scores d'évaluation psychologique selon l'âge
 
 {{%/article-summary%}}
 {{%collapse "Personnes éligibles au dispositif MonPsy" %}}

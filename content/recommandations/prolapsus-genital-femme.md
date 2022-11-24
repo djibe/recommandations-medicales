@@ -7,7 +7,7 @@ synonyms = ["Colpocèle"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-07T13:29:43+02:00"
 publishdate = "2022-06-14"
-lastmod = "2022-06-14"
+lastmod = "2022-11-23"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["HAS"]
@@ -22,9 +22,9 @@ todo = "HAS annexes Échelles PFDI-20, APFQ"
 {{%article-summary%}}
 
 - Interrogatoire et examen clinique
-- Lutte contre les faveurs favorisants
-- Adresser à sage-femme ou kinésithérapeute pour rééducation et choix du pessaire (non remboursé)
-- Chirurgie uniquement en cas d'échec
+- Lutte contre les faveurs favorisants le prolapsus génital
+- Prise en charge du prolapsus génital de la femme par une sage-femme ou un kinésithérapeute pour la rééducation abdomino-périnéale et le choix du pessaire (non remboursé)
+- Chirurgie des prolapsus génitaux uniquement en cas d'échec de la rééducation et du pessaire
 
 Article lié: [Ménopause et THM]({{< relref "menopause.md" >}})
 

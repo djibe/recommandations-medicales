@@ -2,12 +2,12 @@
 title = "Spondylarthrite ankylosante"
 prefix = "la "
 titleSeo = "Spondylarthrite ankylosante"
-description = "Actualisation des recommandations pour la prise en charge des spondylarthrites. Bilan avec radiographie et IRM sacro-iliaque. Traitement AINS ou biothérapie"
-synonyms = ["Spondyloarthrite"]
+description = "Recommandations pour la prise en charge des spondylarthrites. Bilan avec radiographies et IRM sacro-iliaque. Traitement anti-inflammatoire AINS ou biothérapie"
+synonyms = ["Spondyloarthrite", "spondylarthropathie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-15T20:39:41+02:00"
 publishdate = "2020-10-15"
-lastmod = "2022-05-10"
+lastmod = "2022-11-24"
 specialites = ["rhumatologie"]
 annees = "2022"
 sources = ["SFRhumato", "EULAR"]
@@ -15,23 +15,25 @@ tags = ["AINS", "biotherapie"]
 anglais = ["Axial spondyloarthritis"]
 sctid = "723116002"
 flowchart = true
+image = true
+imageSrc = "Scanner: Ankylose de toutes les vertèbres thoraco-lombaires et des sacro-iliaques chez un patient de 70 ans. Di Muzio B, Ankylosing spondylitis. Étude de cas, Radiopaedia.org"
 todo = "def rhumatisme pso + MICI, bilan pré-thérap antitnfa"
 +++
 
 {{%article-summary%}}
 
-- Dorso-lombalgies durée > 3 mois, réveil nocturne, dérouillage matinal > 30 minutes, aggravées au repos, diminuées à l'activité physique.
+- Évoquer une spondylarthrite ankylosante en cas de: dorso-lombalgies persistantes +3 mois, réveil nocturne, dérouillage matinal +30 minutes, aggravées au repos, diminuées à l'activité physique
 - Grande efficacité des AINS
-- Bilan biologique + Rx + IRM
-- Avis rhumatologique systématique
+- Bilan devant une suspicion de spondylarthrite: bilan biologique + Radiographies et IRM des sacro-iliaques
+- Prise en charge de toute suspicion de spondyloarthrite par le rhumatologue
 - [Suivi du patient sous biothérapie](http://www.cri-net.com/fiches-pratiques-et-eSessions/dernieres-mises-a-jour)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Spondyloarthrite (SpA)
-: Maladie vaste englobant différentes entités auparavant différenciées: spondylarthrite ankylosante, rhumatisme psoriasique (Rpso), arthrites réactionnelles, rhumatismes inflammatoires associés aux MICI spondyloarthrites indifférenciées et formes juvéniles (syndrome enthésite et arthrite).
-: Une importante partie de la pris en charge thérapeutique est commune pour le spondyloarthrites axiales et le rhumatisme psoriasique. Le passage d'une forme à l'autre est également relativement fréquent.
+: Maladie vaste englobant différentes entités auparavant différenciées: spondylarthrite ankylosante, rhumatisme psoriasique (Rpso), arthrites réactionnelles, rhumatismes inflammatoires associés aux MICI, spondyloarthrites indifférenciées et formes juvéniles (syndrome enthésite et arthrite).
+: Une importante partie de la prise en charge thérapeutique est commune pour le spondyloarthrites axiales et le rhumatisme psoriasique. Le passage d'une forme à l'autre est également relativement fréquent.
 
 ### Facteurs de mauvais pronostic de la spondylarthrite ankylosante
 
@@ -76,17 +78,28 @@ Spondylarthropaties indifférenciées
 
 ### Abréviations
 
+AINS
+: anti-inflammatoires non stéroïdiens
+
 ESSG
 : {{%lang%}}European Spondylarthropathy Study Group{{%/lang%}}
 
 MICI
 : maladie inflammatoire chronique de l'intestin
+
+Rpso
+: rhumatisme psoriasique
+
+SFR
+: Société Française de Rhumatologie
 {.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-### Syndrome axial (pelvi-rachidien)
+### Syndrome axial (ou pelvi-rachidien)
+
+Signes et symptômes de l'atteinte axiale d'une spondyloarthrite:
 
 - Dorso-lombalgies inflammatoires chroniques  
   - **Durée > 3 mois, réveil nocturne, dérouillage matinal > 30 minutes, aggravées au repos, diminuées à l'activité physique**  
@@ -106,18 +119,20 @@ MICI
 
 ### Syndrome enthésopathique
 
-Plus fréquente est la **talalgie sous-calcanéenne** ou postérieure (bilatérale ou à bascule), mais toutes les enthèses peuvent être atteintes avec un rythme inflammatoire (rotulienne ++).
+Le syndrome enthésopathique le plus fréquent est la **talalgie sous-calcanéenne** ou postérieure (bilatérale ou à bascule), mais toutes les enthèses peuvent être atteintes avec un rythme inflammatoire (rotulienne ++).
 
 Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, ischion).
 
 ### Syndrome extra-articulaire
+
+Autres atteintes des spondylarthrites:
 
 - Uvéite antérieure
 - Psoriasis
 - Balanite
 - Urétrite
 - Entéro-colopathie inflammatoire (diarrhée, amaigrissement)
-- Troubles du rythme/conduction et valvulopathies
+- Troubles du rythme ou de la conduction et valvulopathies
 
 {{%warning%}}Recherche systématique de MICI si diarrhée ou amaigrissement inexpliqué.{{%/warning%}}
 
@@ -133,42 +148,43 @@ Palpation systématique des enthèses (tubérosité tibiale, grand trochanter, i
 - Facteurs de risque d'[ostéoporose et calcul du FRAX]({{< relref "osteoporose.md" >}})
 
 {{% /collapse %}}
-{{%collapse "Critères diagnostiques ESSG" %}}
+{{%collapse "Critères diagnostiques ESSG de spondylarthropathie" %}}
 
 {{%info%}}
-**Diagnostic formel de spondylarthropathie si un critère majeur ET un critère mineur.**
+**Diagnostic formel de spondylarthropathie en présence d'un critère majeur ET d'un critère mineur.**
 
 ### Critères majeurs
 
 1. Synovites (passées ou présentes) asymétriques ou prédominant aux membres inférieurs
 2. Douleurs du rachis (lombaire, dorsal ou cervical passées ou présentes) avec au moins 3 critères parmi:
-    - début avant 45 ans
-    - début progressif
+    - Début avant 45 ans
+    - Début progressif
     - Améliorées à l'exercice
-    - raideur matinale
-    - depuis plus de 3 mois
+    - Raideur matinale
+    - Depuis plus de 3 mois
 
 ---
 
 ### Critères mineurs
 
-1. ATCD familiaux de spondylarthrite, psoriasis, uvéite, arthrite réactionnelle, MICI
+1. Antécédents familiaux de spondylarthrite, psoriasis, uvéite, arthrite réactionnelle, MICI
 2. Psoriasis (antécédent ou actif)
 3. Infection génitale ou digestive 1 mois avant l'arthrite
 4. MICI (antécédent ou active)
 5. Enthésopathie achilléenne ou plantaire
 6. Fessalgie à bascule
 7. Sacro-iliite radiologique  
-(stade 2-4 bilatéral ou 3-4 unilatéral; 0=normal, 1=possible, 2=modéré, 3=évolué, 4=ankylose)
+  Stade 2-4 bilatéral ou 3-4 unilatéral; 0 = normal; 1 = possible; 2 = modéré; 3 = évolué; 4 = ankylose.
 
 Se 87%, Spe 96%
-
 {{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 ### Bilan devant une spondylarthrite
+
+Recherche d'un syndrome inflammatoire biologique:
 
 - NFS
 - VS, CRP  
@@ -178,14 +194,14 @@ Se 87%, Spe 96%
 
 ### Radiographies
 
-- Rachis cervico-thoraco-lombaire Face + Profil
+- Radiographies du rachis cervico-thoraco-lombaire de face et de profil
 - Bassin de face
 
 {{< table title="Classification radiologique de la sacro-iliite de la spondylarthrite ankylosante" >}}
 | Stade   | Image   |
 |---------|---------|
 | Stade 0 | Inflammation de l'enthèse non visible en radio |
-| Stade 1 | Érosion/irrégularité du cortex et ostéopénie sous-chondrale <br>de la zone d'enthèse |
+| Stade 1 | Érosion/irrégularité du cortex et ostéopénie sous-chondrale<br>de la zone d'enthèse |
 | Stade 2 | Érosion avec ébauche d'apposition périostée |
 | Stade 3 | Enthésophyte (ossification cicatricielle le long de l'enthèse) |
 {{< /table >}}
@@ -194,7 +210,7 @@ Se 87%, Spe 96%
 
 ### IRM des sacro-iliaques et des rachis dorso-lombaires
 
-Importante pour un diagnostic précoce.
+L'IRM des sacro-iliaques et des rachis dorso-lombaires est importante pour un diagnostic précoce.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la spondylarthrite ankylosante" %}}
@@ -203,9 +219,7 @@ Importante pour un diagnostic précoce.
 
 Résumé des recommandations pour la prise en charge de la spondylarthrite:
 
-- Déclarer l'ALD 27 ± MDPH
 - Suivi spécialisé systématique par le rhumatologue
-- Information et éducation du patient
 - Arrêt du tabac systématique  
   {{%class%}}Augmente la sévérité de la maladie et facteur de moindre réponse aux anti-TNF.{{%/class%}}
 - Activité physique quotidienne
@@ -225,6 +239,8 @@ Résumé des recommandations pour la prise en charge de la spondylarthrite:
 - Kinésithérapie en extension rachidienne
   - Travail d'amplitude respiratoire
   - Auto-exercices
+- Information et éducation du patient
+- Déclarer l'[ALD n°27]({{< relref "affection-longue-duree.md" >}}) ± MDPH
 - Soutien psychologique
 - Associations de patients  
   [Action contre les Spondylarthropathies](https://www.acs-france.org/), [Association Française de Lutte Anti-Rhumatismale](https://www.aflar.org/), [Association France Spondyloarthrites](https://www.spondy.fr/), [Spondyl(O)action](https://spondyloaction.fr/)
@@ -239,10 +255,6 @@ Résumé des recommandations pour la prise en charge de la spondylarthrite:
 
 Infiltrations de corticoïdes.
 
-### Traitement de fond
-
-Voir le chapitre dédié.
-
 ### Chirurgie
 
 Indications: arthrite périphérique destructrice, ankylose rachidienne avec déformation majeure ou de fracture rachidienne.
@@ -250,9 +262,9 @@ Indications: arthrite périphérique destructrice, ankylose rachidienne avec dé
 {{% /collapse %}}
 {{%collapse "Traitements de fond" %}}
 
-{{%info%}}Envisager une décroissance du biomédicament après 6 mois de rémission de faible activité{{%/info%}}
+{{%info%}}Envisager une décroissance du biomédicament après 6 mois de rémission de faible activité de la spondyloarthrite{{%/info%}}
 
-Lors de réponse partielle aux AINS, prescription par le rhumatologue.
+Le traitement de fond est introduit par le rhumatologue pour une réponse partielle aux AINS ou une maladie évolutive.
 
 ### Traitements conventionnels
 
@@ -339,9 +351,9 @@ Une amélioration doit être obtenue à 3 mois pour poursuivre une stratégie, a
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de spondylarthrite ankylosante. Dr JB Fron d'après SFRhumato 2018" >}}
+{{< mermaid title="Prise en charge d'une suspicion de spondylarthrite ankylosante par le médecin généraliste. Dr JB Fron d'après SFRhumato 2022" >}}
 graph TB
-  suspicion[Suspicion de SpA] --> bilan("Biologie<br>Rx rachis complet F+P<br>et bassin F<br>IRM rachis DL + SI") --> rhumato("AINS pleine dose<br>Avis rhumatologique systématique")
+  suspicion[Suspicion de SpA] --> bilan("- Biologie<br>- Rx rachis complet F+P<br>et bassin F<br>- IRM rachis dorso-lombaire<br>et sacro-iliaques") --> rhumato("- AINS pleine dose<br>- Avis rhumatologique systématique")
   style suspicion stroke:#4150f5, stroke-width:1px
 
 {{< /mermaid >}}
@@ -355,7 +367,7 @@ graph TB
 - [Van der Heijde D. et al. 2016 update of the ASAS-EULAR management recommendations for axial spondyloarthritis. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/6/978)
 - [Mandl P. et al. EULAR recommendations for the use of imaging in the diagnosis and management of spondyloarthritis in clinical practice. Annals of the Rheumatic Diseases. 2015.](https://ard.bmj.com/content/74/7/1327)
 - [Wendling D. et al. Recommandations de la Société française de rhumatologie pour la prise en charge en pratique courante des malades atteints de spondylarthrite. Revue du Rhumatisme. 2014. (PDF)](https://www.larhumato.fr/wp-content/uploads/2017/11/SA20recos20SFR20Rev20Rhum.pdf)
-- [Collège Français des Enseignants en Rhumatologie (COFER). Spondylarthrite inflammatoire - Item 197 UE 8.](http://www.lecofer.org/item-objectifs-0-18-0.php)
+- [Collège Français des Enseignants en Rhumatologie (COFER). Spondylarthrite inflammatoire. Item 197 UE 8.](http://www.lecofer.org/item-objectifs-0-18-0.php)
 
 {{%/sources%}}
 {{% modal title="Score HAD" id="modal-had"%}}

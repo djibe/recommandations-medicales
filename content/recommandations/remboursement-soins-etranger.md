@@ -21,29 +21,31 @@ imageSrc = "Illustration par Freepik"
 
 {{%collapse "Démarches" "show" %}}
 
-Le remboursement des soins s'effectue depuis le compte Ameli de l'assuré ou en envoyant un double des factures à sa CPAM.  
+Le remboursement de soins effectués à l'étranger s'effectue depuis le compte Ameli de l'assuré ou en envoyant un double des factures à sa Caisse Primaire d'Assurance Maladie (CPAM).  
 Taux moyen de remboursement en 2018: 73,4% (*France Assos Santé*)
 
 ### Remboursement via Ameli.fr
 
+Demander un remboursement des soins via le portail Ameli:
+
 - Connexion au compte Ameli de l'assuré
-- Rubrique Mes démarches
-- Section Effectuer une démarche > Demander un remboursement de soins à l'étranger
+- Rubrique "Mes démarches"
+- Section **Effectuer une démarche** > **Demander un remboursement de soins à l'étranger**
 - Joindre les documents nécessaires: détail des prestations, factures, preuves de paiement, prescriptions, avis de mission professionnelle  
-Si le nombre de documents est > 10: [compléter le formulaire S3125 (PDF)](https://www.ameli.fr/sites/default/files/formualires/221/s3125.pdf)
+  Si le nombre de documents est supérieur à 10: [compléter le formulaire S3125 (PDF)](https://www.ameli.fr/sites/default/files/formualires/221/s3125.pdf)
 
 Pour les militaires, voir la [CNMSS](https://www.cnmss.fr/).
 
 ### Carte européenne d'assurance maladie (CEAM)
 
-Intérêt d'obtenir cette carte avant un déplacement des un pays de l'Union européenne (Islande, Lichtenstein, Norvège et Suisse). Elle permet d'attester des droits à l'Assurance Maladie et d'une prise en charge sanitaire non programmée par les services publics des pays respectifs.
+Intérêt d'obtenir la Carte européenne d'assurance maladie (CEAM) avant un déplacement dans les pays de l'Union Européenne (+ Islande, Lichtenstein, Norvège et Suisse). Elle permet d'attester des droits à l'Assurance Maladie et d'une prise en charge sanitaire non programmée par les services publics des pays respectifs.
 
-Elle est individuelle et nominative, valable 1 an.
+La Carte européenne d'assurance maladie est individuelle et nominative, valable un an.
 
 #### Obtenir sa Carte européenne d'assurance maladie
 
 - Connexion au compte Ameli de l'assuré
-- Rubrique Mes démarches en 2 clics > Carte européenne d'assurance maladie
+- Rubrique **Mes démarches en 2 clics** > **Carte européenne d'assurance maladie**
 
 {{% /collapse %}}
 {{%sources%}}

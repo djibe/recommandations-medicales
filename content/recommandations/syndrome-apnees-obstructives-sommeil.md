@@ -9,17 +9,17 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2020-12-22T09:52:41+02:00
 publishdate = "2020-12-22"
-lastmod = "2022-05-16"
+lastmod = "2022-11-24"
 specialites = ["medecine du sommeil"]
 annees = "2018"
 sources = ["SFRMS", "AASM", "HAS"]
-tags = ["BPCO", "depistage", "diabete", "fatigue", "HTA", "obesite", "risque cardiovasculaire", "SAS"]
+tags = ["BPCO", "depistage", "diabete", "fatigue", "HTA", "obesite", "risque cardiovasculaire", "SAS", "tabac"]
 anglais = ["Obstructive sleep apnea syndrome"]
 sctid = "78275009"
 image = true
 imageSrc = "Illustration de l'apnée du sommeil par Habib M'henni / Wikimedia Commons"
 imagePNG = true
-todo = "SEO, 103, 105, à lire, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, doc explication PPC"
+todo = "103, 105, à lire, renouvellement DAP PPC: aide, formulaire type, dépistage NOSAS, doc explication PPC"
 +++
 
 {{%article-summary%}}
@@ -27,8 +27,8 @@ todo = "SEO, 103, 105, à lire, renouvellement DAP PPC: aide, formulaire type, d
 - Suspecter des apnées du sommeil en cas de: sommeil non réparateur, somnolence, [fatigue](/tags/fatigue/), hypertension non contrôlée, reflux nocturne
 - Dépister systématiquement des apnées si obésité, [diabète]({{< relref "diabete-type-2.md" >}}), fibrillation atriale, maladie cardiovasculaire ...
 - Dépister des apnées par le questionnaire STOP-BANG ou les *8 questions* chez le diabétique (voir *Comment dépister ...* )
-- Probabilité forte de SAOS avec somnolence inexpliquée malgré une polygraphie normale: réaliser une polysomnographie
-- La PPC doit être utilisée ≥ 4h/nuit et renouvelée au bout de 3 ans par le médecin traitant
+- Probabilité forte de syndrome d'apnées du sommeil avec somnolence inexpliquée malgré une polygraphie normale: réaliser une polysomnographie
+- La ventilation par PPC doit être utilisée au moins 4 heures par nuit et renouvelée au bout de 3 ans par le médecin traitant
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -38,11 +38,12 @@ Syndrome d'apnée du sommeil (SAS)
 Il a une origine *obstructive* (SAOS), *centrale* (SACS) ou *mixte*.
 
 {{%info%}}
-Les complications des apnées du sommeil sont nombreuses et sévères:
+
+### Complications des apnées du sommeil
 
 - Coronaropathie et [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (+50%)  
-  HTA diastolique, nocturne et résistante (> 60% des HTA résistantes).
-- Accidents vasculaires cérébraux (x 2-3)
+  [Hypertension artérielle diastolique]({{< relref "hypertension-arterielle.md" >}}), nocturne et résistante (+60% des hypertensions résistantes).
+- [Accidents vasculaires cérébraux]({{< relref "accident-vasculaire-cerebral.md" >}}) (x 2-3)
 - [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}})
 - Insulinorésistance
 - Troubles de la concentration et de l'humeur
@@ -56,7 +57,7 @@ Le traitement des apnées réduit significativement les risques.
 
 Index Apnées-Hypopnées (IAH)
 : ({{%lang%}}Apnea-hypopnea index AHI{{%/lang%}})
-: Le comptage est électro-physiologique et définit la sévérité du SAS. **On ne considère que les IAH ≥ 15**.
+: Le décompte est électro-physiologique et définit la sévérité du SAS. **On ne considère que les IAH ≥ 15**.
 : Il est calculé comme la somme des événements d'apnées et d'hypopnées = nombre d'apnées + nombre d'hypopnées / nombre d'heures de sommeil enregistrés.
 
 Insomnie
@@ -76,7 +77,7 @@ Hypersomnie
 - Surpoids ou obèse
 - Homme
 - Âge
-- Cou large (≥ 43 cm homme - 41 cm femme)
+- Cou large (≥ 43 cm homme, 41 cm femme)
 - [Ménopause]({{< relref "menopause.md" >}})
 - Maladies des tissus mous
 - Trisomie 21
@@ -134,22 +135,20 @@ VEMS
 : volume expiratoire maximal pendant la 1<sup>re</sup> seconde
 {.dl-inline}
 
-### Épidémiologie
+### Épidémiologie du syndrome d'apnées du sommeil
 
 Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 
-- **Prévalence**  
+- **Prévalence du syndrome d'apnées du sommeil**  
   - US: 14% des hommes et 9% des femmes (*Peppard AJE 2013*) et jusqu'à 50% des hommes adultes (*Heinzer 2015*)
   - France: 4% de la population (*HAS*)
   - 1 à 4% des enfants
-- 82% des hommes et 92% des femmes ne sont pas diagnostiqués
+- <mark>82% des hommes et 92% des femmes ne sont pas diagnostiqués</mark>
 - 60% des SAOS modérés à sévères sont attribuables au surpoids
 - De 18 à 53% des diabétiques ont un SAOS modéré à sévère
 
 {{% /collapse %}}
 {{%collapse "Dépister les apnées du sommeil" %}}
-
-[Liste des centres homologués SFRMS par région](https://www.sfrms-sommeil.org/carte-des-centres-agrees/)
 
 <div class="card card-hover my-3 mb-xl-5 mw-640">
   <ul class="nav nav-tabs nav-justified" id="tabs-saos" role="tablist">
@@ -184,7 +183,7 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 
 - Obèse ≥ 35 kg/m²
 - [Diabète type 2]({{< relref "diabete-type-2.md">}}) (65-85%)  
-Surtout si hypertension résistante, insuffisance rénale d'évolution rapide, rétinopathie, forte insulinorésistance, chauffeur professionnel (*SFD 2019*)
+  Surtout si hypertension résistante, insuffisance rénale d'évolution rapide, rétinopathie, forte insulinorésistance, chauffeur professionnel (*SFD 2019*).
 - [Diabète type 1]({{< relref "diabete-type-1.md">}}) (*SFD 2019*)
 - Maladie cardiovasculaire
   - Coronaropathie
@@ -198,26 +197,26 @@ Surtout si hypertension résistante, insuffisance rénale d'évolution rapide, r
 - Chauffeurs professionnels (ou métiers à risque)
 - Pré-opératoire de chirurgie bariatrique (71-77%)
 
-> Indications selon *SPLF 2010*
+> Indications au dépistage selon *SPLF 2010*
 {{%/info%}}
 
 ### Échelle de somnolence d'Epworth
 
 {{%lang%}}*Epworth sleepiness scale - ESS*{{%/lang%}}
 
-{{< modal-btn modal-score-epworth >}}Échelle auto-administrée{{< /modal-btn >}} pour objectiver la somnolence diurne. Il n'est pas performant pour le dépistage du SAOS.  
+{{< modal-btn modal-score-epworth >}}Échelle auto-administrée{{< /modal-btn >}} pour objectiver la somnolence diurne. **L'Epworth n'est pas performant pour le dépistage du SAOS**.  
 {{%class%}}Il est utile d'avoir une confirmation du score par un proche.{{%/class%}}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Toute suspicion de SAOS doit être confirmée par un enregistrement du sommeil (polygraphie voire polysomnographie).{{%/info%}}
+{{%info%}}Toute suspicion d'apnées du sommeil doit être confirmée par un enregistrement du sommeil (polygraphie voire polysomnographie){{%/info%}}
 
 ### Interrogatoire
 
 - Facteurs de risque cardiovasculaires
 - Antécédents cardiovasculaires  
-  AVC, FA, IC, diabète, HTA...
+  AVC, fibrillation atriale, insuffisance cardiaque, diabète, hypertension ...
 - Antécédents familiaux
 - Facteurs aggravants  
   Liste des médicaments, rhinite chronique.
@@ -230,10 +229,10 @@ Surtout si hypertension résistante, insuffisance rénale d'évolution rapide, r
   - Céphalées matinales (12-18%)
 - Symptômes nocturnes
   - **Ronflements**  
-  Sévères et quotidiens (50-60%).
+    Sévères et quotidiens (50-60%).
   - **Réveils fréquents**
   - Pauses respiratoires  
-  Constatées par l'entourage (10-15%).
+    Constatées par l'entourage (10-15%).
   - Sensation d'étouffement ou de suffocation pendant le sommeil
   - **Reflux gastro-œsophagien** nocturne (50-75%)
   - Agitation nocturne
@@ -246,7 +245,7 @@ Surtout si hypertension résistante, insuffisance rénale d'évolution rapide, r
   - Sévérité de la somnolence et score à l'*Epworth*
 - Signes d'autres pathologies du sommeil
   - Besoin impérieux de bouger les jambes par paresthésies  
-  Aggravation au repos surtout couché, amélioration à l'activité, rythme nycthéméral).
+    Aggravation au repos surtout couché, amélioration à l'activité, rythme nycthéméral).
   - Périodes de sommeil irrépressibles
 - Signes différentiels
   - Syndrome dépressif
@@ -255,16 +254,17 @@ Surtout si hypertension résistante, insuffisance rénale d'évolution rapide, r
   - Mauvaise hygiène de sommeil
   - Dette de sommeil
   - Affection neurologique  
-  {{%class%}}Narcolepsie, hypersomnie idiopathique.{{%/class%}}
+    {{%class%}}Narcolepsie, hypersomnie idiopathique.{{%/class%}}
   - Asthme nocturne
   - Douleurs  
-  {{%class%}}Rhumatismales, artéritiques, polynévrite ou neurologiques.{{%/class%}}
+    {{%class%}}Rhumatismales, artéritiques, polynévrite ou neurologiques.{{%/class%}}
   - Dysthyroïdie
 - Qualité de Vie
 
 ### Examen clinique
 
-- Poids, taille, IMC, périmètre abdominal et cervical
+- Poids, taille, IMC
+- Périmètre abdominal et cervical
 - Examen ORL
   - Rétrognatisme
   - Macroglossie
@@ -309,13 +309,13 @@ La prescription et l'interprétation relèvent d'un médecin formé à la médec
 
 ### Gaz du sang
 
-Indiqué pour tout SAOS avec:
+Indications aux gaz du sang:
 
 - BPCO, trouble ventilatoire obstructif
 - Obésité ≥ grade 2 (35 kg/m²)
 - Sp0<sub>2</sub> éveil < 94%
 
-### Épreuves fonctionnelles respiratoires EFR
+### Épreuves fonctionnelles respiratoires (EFR)
 
 Le SAOS ne s'accompagne d'aucune perturbation spirométrique ou gazométrique diurne.
 
@@ -330,14 +330,14 @@ Proposer des EFR à tout patient SAOS si:
 D'autres tests peuvent être demandés selon les suspicions cliniques:
 
 - Test Itératif de latence d'endormissement (TILE)  
-Test lourd et coûteux d'évaluation objective de la somnolence diurne.
+  Test lourd et coûteux d'évaluation objective de la somnolence diurne.
 - Test de maintien d'éveil (TME)  
-Évaluation objective de la capacité de résistance à l'endormissement dans des conditions passives.
+  Évaluation objective de la capacité de résistance à l'endormissement dans des conditions passives.
 
 {{% /collapse %}}
 {{%collapse "Traitement du SAOS" %}}
 
-Le traitement spécifique relève exclusivement du spécialiste.  
+Lea prise en charge du syndrome d'apnées du sommeil relève exclusivement du spécialiste.  
 Il consiste en une ventilation à pression positive continue (PPC) ou un orthèse d'avancée mandibulaire (OAM).
 
 ### Mesures générales

@@ -21,14 +21,16 @@ todo = "relecture Boub, vidéos"
 
 {{%article-summary%}}
 
+Mesures d'hygiène bucco-dentaire pour la prévention des caries:
+
 - Pas de collation matinale, grignotage ou de boissons sucrées
 - Brossage 2 minutes après chaque repas
 - Enfants
   - Réaliser/superviser le brossage jusqu'à 8 ans
-  - Dentifrice: teneur en fluor adaptée à l'âge (< 6 ans: ≥ 1000 ppmF, 1450 ensuite), dose sur la brosse adaptée à l'âge (< 3 ans: trace, petit pois jusqu'à 6 ans puis 1/3 longueur de brosse)
+  - Dentifrice: teneur en fluor adaptée à l'âge (-6 ans: ≥ 1000 ppmF, 1450 ensuite), dose sur la brosse adaptée à l'âge (-3 ans: trace, petit pois jusqu'à 6 ans puis 1/3 longueur de brosse)
   - Recracher le dentifrice sans rincer la bouche
 - Consultation dentaire annuelle de 6 à 18 ans  
-  \+ M'T Dents: consultation gratuite à 3, 6, 9, 12, 15, 18, 21 et 24 ans
+  \+ M'T Dents: consultation dentaire gratuite à 3, 6, 9, 12, 15, 18, 21 et 24 ans
 - Apports en fluor: selon avis du dentiste
 
 Fiche patient [soins dentaires](http://www.ufsbd.fr/wp-content/uploads/2019/02/2019-02-07-fiche-RECO-070219.pdf), [fluor](http://www.ufsbd.fr/wp-content/uploads/2020/12/Fluor_CB_260820.pdf) et [jeune enfant](http://www.ufsbd.fr/wp-content/uploads/2018/03/JEUNE-ENFANT_Fiche-profil-PDS2018_GP_vsOK.pdf)
@@ -36,7 +38,7 @@ Fiche patient [soins dentaires](http://www.ufsbd.fr/wp-content/uploads/2019/02/2
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-### Épidémiologie de la carie en France
+### Épidémiologie de la carie dentaire en France
 
 - 4-5 ans: 20-30% avec ≥ 1 carie non soignée
 - 6 ans: 50-70% indemnes de carie

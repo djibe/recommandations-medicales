@@ -21,8 +21,8 @@ todo = "Liens InVS, MAJ"
 
 {{%article-summary%}}
 
-- Déclaration obligatoire pour enfants avec plombémie ≥ 50 µg/L
-- Prise en charge: Repérer les facteurs de risque, dose la plombémie, déclaration obligatoire au médecin inspecteur de santé publique
+- Déclaration obligatoire du saturnisme pour enfants avec plombémie ≥ 50 µg/L
+- Prise en charge du saturnisme: Repérer les facteurs de risque, doser la plombémie, déclaration obligatoire au médecin inspecteur de santé publique
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -36,7 +36,7 @@ Le plomb est un toxique sans rôle physiologique, il s'accumule principalement d
 Pica
 : Trouble du comportement alimentaire caractérisé par l'ingestion prolongée (> 1 mois) de substances non comestibles non nutritives.
 
-### Épidémiologie
+### Épidémiologie du saturnisme
 
 25% des enfants 1 à 6 ans ont une plombémie > 25 µg/L (InVS).
 
@@ -60,7 +60,7 @@ Adolescent et adulte
 : Augmente le risque de maladie rénale chronique, d'hypertension artérielle, diminue la fertilité masculine.
 
 {{% /collapse %}}
-{{%collapse "Facteurs de risque" %}}
+{{%collapse "Facteurs de risque de saturnisme" %}}
 
 Repérer systématiquement aux examens obligatoires des 9<sup>e</sup> et 24<sup>e</sup> mois les enfants à risque, ainsi que lors de l'entretien prénatal pour chaque grossesse au 4<sup>e</sup> mois ou pour toute femme avec désir d'enfant.
 

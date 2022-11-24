@@ -24,7 +24,7 @@ todo = "interrogatoire, SEO"
 - Le diagnostic de rosacée est clinique: partie médiane du visage rouge chez un adulte présentant des bouffées vasomotrices
 - Le traitement de la rosacée est suspensif avec rechute à l'arrêt
 - Une atteinte oculaire est possible
-- La prise en charge débute par du Métronidazole gel 0,75% en 2 applications par jour pendant 3 mois en 1<sup>re</sup> intention
+- La prise en charge de la rosacée débute par du Métronidazole gel 0,75% en 2 applications par jour pendant 3 mois en première intention
 - La rosacée est une contre-indication à l'utilisation des dermocorticoïdes
 
 {{%/article-summary%}}

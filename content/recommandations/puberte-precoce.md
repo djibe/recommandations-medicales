@@ -5,7 +5,7 @@ description = "Recommandations pour le diagnostic de la puberté précoce. Âge,
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-06-30T14:06:29+02:00
 publishdate = "2020-06-30"
-lastmod = "2021-05-04"
+lastmod = "2022-11-23"
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2015"
 sources = ["SFE", "CNPU"]
@@ -18,11 +18,11 @@ todo = "Avances pubertaires dissociées"
 
 {{%article-summary%}}
 
-- Caractères sexuels secondaires chez fille < 8 ans et garçon < 9,5 ans.
+- Puberté précoce = caractères sexuels secondaires chez fille avant 8 ans et le garçon avant 9,5 ans.
 - IRM semi-urgente si troubles visuels ou syndrome polyuro-polydipsique.
-- Tracer les courbes à chaque consultation.
-- Bilan de 1<sup>re</sup> intention: âge osseux et échographie pelvienne (chez la fille).
-- Avis de l'endocrinologue pédiatrique systématique.
+- Suivi de la puberté précoce: tracer les courbes à chaque consultation.
+- Bilan de première intention de la puberté précoce: âge osseux et échographie pelvienne (chez la fille).
+- Prise en charge spécialisée de la puberté précoce avec avis de l'endocrinologue pédiatrique systématique.
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
