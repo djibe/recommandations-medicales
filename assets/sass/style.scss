@@ -4,6 +4,7 @@
   --bg-rgb: 65, 80, 245;
   --bg-hex: #ecedfe;
   --bg-secondary-rgb: 232, 117, 0;
+  --bg-secondary-hex: #fef3de;
   --bg-article-rgb: 175, 52, 220;
   --article: #af34dc;
 }
@@ -377,7 +378,7 @@ article {
 
   &-secondary {
     color: var(--secondary);
-    background-color: rgba(var(--bg-secondary-rgb), 0.1);
+    background-color: var(--bg-secondary-hex);
   }
 
   &-article {
@@ -430,14 +431,26 @@ article {
 
   .title-container {
     background-color: var(--bg-hex);
+
+    &.bg-secondary {
+      background-color: var(--bg-secondary-hex);
+    }
   }
 
   .icon-container {
     border: 1px solid var(--bg-hex);
+
+    img {
+      max-height: 21rem;
+    }
   }
 
   h1 {
     font-size: calc(3.5rem + 1.5vw);
+
+    &.small {
+      font-size: calc(2.5rem + 1vw);
+    }
   }
 }
 

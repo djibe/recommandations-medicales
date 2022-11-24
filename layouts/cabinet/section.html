@@ -3,8 +3,15 @@
   <div class="container-md">
     <div class="row">
       <div class="col-12">
-        <h1 class="taxonomyList my-xl-5" style="margin: auto;max-width: 800px">{{ .Title }}</h1>
-        <nav aria-label="Fil d'ariane" class="mb-4">
+        <header class="fancy__header grid-1-2">
+          <div class="title-container bg-secondary">
+            <h1 class="small">{{ .Title }}</h1>
+          </div>
+          <div class="icon-container">
+            <img src="/images/icons/cabinet.svg" class="img-fluid" alt="Outils numériques du généraliste">
+          </div>
+        </header>
+        <nav aria-label="Fil d'ariane" class="mt-4 mb-5">
           <ol class="breadcrumb">
             {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
           </ol>

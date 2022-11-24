@@ -3,7 +3,15 @@
   <div class="container-md">
     <div class="row">
       <div class="col-12 d-flex flex-column align-items-center">
-        <h1 class="taxonomyList">{{ .Title | safeHTML }}</h1>
+        <header class="fancy__header grid-1-2">
+          <div class="title-container">
+            <h1 class="small mb-4">Recommandations</h1>
+            <h2>Les dernières recommandations adaptées pour le médecin généraliste</h2>
+          </div>
+          <div class="icon-container">
+            <img src="/images/icons/recommandations.svg" class="img-fluid" alt="Recommandations médicales pour le médecin généraliste">
+          </div>
+        </header>
         <nav aria-label="Fil d'ariane" class="my-5">
           <ol class="breadcrumb">
             {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
