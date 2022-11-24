@@ -5,8 +5,8 @@
   --bg-hex: #ecedfe;
   --bg-secondary-rgb: 232, 117, 0;
   --bg-secondary-hex: #fef3de;
-  --bg-article-rgb: 175, 52, 220;
   --article: #af34dc;
+  --bg-article-hex: #f7eafb;
 }
 
 html,
@@ -340,9 +340,8 @@ article {
 .grid-1-2 {
   display: grid;
   gap: .5rem;
-  grid-template-columns: 1fr;
 
-  @media (min-width: 576px) {
+  @media (min-width: 768px) {
     & {
       grid-template-columns: repeat(2, 1fr);
     }
@@ -352,7 +351,6 @@ article {
 .grid-1-2-3 {
   display: grid;
   gap: .5rem;
-  grid-template-columns: 1fr;
 
   @media (min-width: 576px) {
     & {
@@ -383,8 +381,12 @@ article {
 
   &-article {
     color: var(--article);
-    background-color: rgba(var(--bg-article-rgb), 0.1);
+    background-color: var(--bg-article-hex);
   }
+}
+
+.break {
+  hyphens: auto !important;
 }
 
 .bi {
@@ -426,14 +428,23 @@ article {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 56px;
+    padding: 32px;
+
+    @media (min-width: 992px) {
+      & {
+        padding: 56px;
+      }
+    }
   }
 
   .title-container {
     background-color: var(--bg-hex);
 
     &.bg-secondary {
-      background-color: var(--bg-secondary-hex);
+      background-color: var(--bg-secondary-hex) !important;
+    }
+    &.bg-article {
+      background-color: var(--bg-article-hex);
     }
   }
 
@@ -441,7 +452,7 @@ article {
     border: 1px solid var(--bg-hex);
 
     img {
-      max-height: 21rem;
+      max-height: 14rem;
     }
   }
 
@@ -449,7 +460,7 @@ article {
     font-size: calc(3.5rem + 1.5vw);
 
     &.small {
-      font-size: calc(2.5rem + 1vw);
+      font-size: calc(2rem + 1vw);
     }
   }
 }
@@ -806,7 +817,11 @@ blockquote {
     background-color: #FFF4DF;
     box-shadow: 0px 5px 5px -3px rgba(0,0,0,.1),0px 8px 8px 1px rgba(0,0,0,.07),0px 3px 8px 2px rgba(0,0,0,.08),0px 0px 0px 2px #ffa600;
     transition: transform 200ms linear,box-shadow 200ms linear,background 400ms ease,border-color 400ms ease;
-    // border-color: var(--light-dark);
+  }
+
+  &.article:hover {
+    background-color: var(--bg-article-hex);
+    box-shadow: 0px 5px 5px -3px rgba(0,0,0,.1),0px 8px 8px 1px rgba(0,0,0,.07),0px 3px 8px 2px rgba(0,0,0,.08),0px 0px 0px 2px var(--article);
   }
 }
 
@@ -818,6 +833,10 @@ blockquote {
   background-position: 50%;
   background-size: cover;
   aspect-ratio: 16/9;
+
+  &.bg-article {
+    background-color: var(--bg-article-hex);
+  }
 }
 
 .card-body .card-title + .card-subtitle {

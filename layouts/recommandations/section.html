@@ -5,7 +5,7 @@
       <div class="col-12 d-flex flex-column align-items-center">
         <header class="fancy__header grid-1-2">
           <div class="title-container">
-            <h1 class="small mb-4">Recommandations</h1>
+            <h1 class="small break font-weight-bold mb-4">Recommandations</h1>
             <h2>Les dernières recommandations adaptées pour le médecin généraliste</h2>
           </div>
           <div class="icon-container">
@@ -39,7 +39,7 @@
                 {{ $.Scratch.Set "curLetter" $firstChar }}
                 <h2 class="typography-healine-6 mt-5">{{ $firstChar }}</h2>
               {{ end }}
-              <p><a href="{{ .RelPermalink }}" class="list-group-item">{{ .Title }}</a></p>
+              <p class="m-0"><a href="{{ .RelPermalink }}" class="list-group-item">{{ .Title }}</a></p>
             {{ end }}
           {{ end }}
         </div>

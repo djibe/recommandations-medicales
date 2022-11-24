@@ -340,6 +340,8 @@ D'autres tests peuvent être demandés selon les suspicions cliniques:
 Lea prise en charge du syndrome d'apnées du sommeil relève exclusivement du spécialiste.  
 Il consiste en une ventilation à pression positive continue (PPC) ou un orthèse d'avancée mandibulaire (OAM).
 
+[Liste des centres homologués SFRMS par région](https://www.sfrms-sommeil.org/carte-des-centres-agrees/)
+
 ### Mesures générales
 
 Recommandations générales pour la prise en charge des apnées du sommeil:
@@ -515,6 +517,7 @@ Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire 
 {{% /collapse %}}
 {{%collapse "Sources" %}}
 
+- [US Preventive Services Task Force. Screening for Obstructive Sleep Apnea in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2798399)
 - [Bonsignore MR et al. European Respiratory Society statement on sleep apnoea, sleepiness and driving risk. Eur Respir J 2021.](https://doi.org/10.1183/13993003.01272-2020)
 - [Gottlieb DJ, Punjabi NM. Diagnosis and Management of Obstructive Sleep Apnea: A Review. JAMA. 2020.](https://jamanetwork.com/journals/jama/article-abstract/2764461?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jama.2020.3514)
 - [SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. MMM. 2018. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)

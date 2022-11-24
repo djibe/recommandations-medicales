@@ -9,9 +9,9 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. HOUSSET (SPLF) et Dr S. LAUNOIS (SFRMS/SPLF)"
 date = "2021-03-28T23:07:00+02:00"
 publishdate = "2021-04-14"
-lastmod = "2022-04-07"
+lastmod = "2022-11-24"
 specialites = ["pneumologie"]
-annees = "2022"
+annees = "2023"
 sources = ["GOLD", "ERS", "HAS", "SPLF"]
 tags = ["asthme", "BPCO", "depistage", "dyspnee", "fatigue", "tabac", "toux", "vaccin"]
 anglais = ["Chronic Obstructive Pulmonary Disease (COPD)"]
@@ -26,14 +26,14 @@ todo = "SEO prise en charge x3, amélioration de la qualité de vie | Tableau 2 
 {{%article-summary%}}
 
 - {{< modal-btn modal-depistage-bpco >}}Dépistage systématique de la BPCO{{< /modal-btn >}} et arrêt du tabac pour tout le monde (facteur principal du déclin du VEMS)
-- Le diagnostic est spirométrique: trouble ventilatoire obstructif non réversible
+- Le diagnostic de BPCO est spirométrique: trouble ventilatoire obstructif non réversible
 - Le VEMS est le facteur pronostique majeur de la {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
 - 4 piliers du traitement: arrêt du tabac, vaccination covid-19 + grippe + {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, activité physique et réhabilitation respiratoire
 - Évaluer les symptômes et exacerbations: {{< modal-btn modal-score-cat >}}questionnaire CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}mMRC{{< /modal-btn >}} pour déterminer le bronchodilatateur
 - Bronchodilatateurs: {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-bdca >}}BDCA de secours{{< /modal-btn >}}. Escalade: {{< modal-btn modal-ttt-laba-lama >}}LABA + LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}} > {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}
 - EFR/spirométrie de suivi annuelle
 - Prévention cardiovasculaire
-- EABPCO hospitalisée: réévaluation dans les 7 jours, dans les 2 mois par le pneumologue, réhabilitation
+- Hospitalisation pour exacerbation de BPCO: réévaluation dans les 7 jours, dans les 2 mois par le pneumologue, réhabilitation respiratoire
 - [Vidéos des techniques d'inhalation](https://splf.fr/videos-zephir/)
 - La BPCO n'est pas une contre-indication aux bêtabloquants (*ESC 2016 IC*)
 
@@ -41,11 +41,11 @@ todo = "SEO prise en charge x3, amélioration de la qualité de vie | Tableau 2 
 {{%collapse "Définitions" %}}
 
 Bronchopneumopathie chronique obstructive (BPCO)
-: Maladie respiratoire chronique définie par des symptômes respiratoires persistants avec une obstruction permanente et progressive des voies aériennes et/ou alvéolaires causée par l'exposition à des particules ou gaz toxiques.
+: Maladie respiratoire hétérogène définie par des symptômes respiratoires chroniques avec une obstruction permanente et progressive des voies aériennes et/ou alvéolaires.
 : Le diagnostic est *spirométrique* avec un *trouble ventilatoire obstructif* (VEMS/CVF < 0,7) non réversible.
 : Les symptômes respiratoires les plus fréquents sont: dyspnée, toux et/ou expectorations. Ils sont sous-rapportés par les patients et 3/4 des cas ne sont pas diagnostiqués.
 : Le tabagisme est la 1<sup>re</sup> cause (90%) suivie par l'expositions aux fumées.
-: Causes de mortalité: insuffisance respiratoire (10% en Gold 1, 50% en Gold 4), maladies cardio-vasculaires (20-40%), cancers (10-20%).
+: Causes de mortalité: insuffisance respiratoire (10% en Gold 1, 50% en Gold 4), maladies cardio-vasculaires (20-40%), [cancers](/tags/cancer/) (10-20%).
 
 Exacerbation de BPCO (EABPCO)
 : Le diagnostic est clinique: aggravation aiguë des symptômes respiratoires au-delà des variations quotidiennes justifiant une modification thérapeutique (augmentation des bronchodilatateurs > 24h ou ajout d'un traitement). Elle dure souvent 7-10 jours mais parfois plus (20% à 2 mois).
@@ -58,7 +58,7 @@ Exacerbation de BPCO (EABPCO)
     - **Sévère**: passage aux urgences ou hospitalisation
 
 Bronchite chronique
-: Abandonnée par le GOLD car n'est présente que chez une minorité de patients atteints de BPCO.
+: Abandonnée par le GOLD car n'est présente que chez une minorité (27-35%) de patients atteints de BPCO.
 
 Emphysème
 : Est une composante variable de la BPCO.  
@@ -125,15 +125,15 @@ VEMS
 : volume expiré maximal à la première seconde ({{%lang%}}FEV1{{%/lang%}} en anglais)
 {.dl-inline}
 
-### Épidémiologie de la BPCO
+### Épidémiologie de la bronchopneumopathie chronique obstructive
 
-- 3<sup>e</sup> cause mondiale de décès (*OMS*)
+- 3<sup>e</sup> cause mondiale de décès (*OMS*): 3,23 millions de décès (2019)
 - 6% des dépenses de santé européennes
 - USA: coût estimé de 52,4 milliards $ annuels (32 directs + 20,4 indirects)
 
-### En France
+#### Épidémiologie de la BPCO en France
 
-{{%info%}}1 seul marqueur de prise en charge optimale sur 7 atteint le seuil de 70% (*HAS 2022*){{%/info%}}
+{{%info%}}1 seul marqueur de prise en charge optimale sur 7 atteint le seuil de 70% (voir [Projet](/projet/), *HAS 2022*){{%/info%}}
 
 - Prévalence: 7-10% des 40-64 ans (3,5 millions en 2010)
 - Hospitalisations: 100-160.000/an (2017)  
@@ -223,7 +223,7 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
 Autres causes de toux et dyspnée chronique d'origine thoracique:
 
 - [Asthme]({{< relref "asthme.md" >}})
-- Cancer du poumon
+- [Cancer du poumon]({{< relref "cancer-poumon.md" >}})
 - [Tuberculose]({{< relref "tuberculose.md" >}})
 - Dilatation des bronches et emphysème pulmonaire
 - [Insuffisance cardiaque chronique]({{< relref "insuffisance-cardiaque-chronique.md" >}})
@@ -235,7 +235,8 @@ Autres causes de toux et dyspnée chronique d'origine thoracique:
 {{%collapse "Examens complémentaires" %}}
 
 {{%info%}}
-Bilan systématique:
+
+### Bilan initial de le bronchopneumopathie chronique obstructive
 
 - NFS
 - Glycémie à jeun
@@ -251,20 +252,24 @@ Bilan systématique:
 
 ### Spirométrie
 
-Examen diagnostique de référence: VEMS/CV post-bronchodilatateur < 0,7.  
-Mesure également la {{< modal-btn modal-severite-bpco >}}sévérité de l'obstruction bronchique par le VEMS{{< /modal-btn >}} et le suivi de la capacité respiratoire.  
+La spirométrie est l'examen diagnostique et de suivi de référence: trouble ventilatoire obstructif (VEMS/CV post-bronchodilatateur < 0,7) et {{< modal-btn modal-severite-bpco >}}sévérité de l'obstruction bronchique (VEMS){{< /modal-btn >}}.
+
 Cotation CCAM: GLQP012 soit 40,28€.
 
 Les autres examens recherchent des complications.
 
 ### Gaz du sang
 
-Indications: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3{{< /modal-btn >}}, {{< modal-btn modal-severite-bpco >}}stade obstructif ≥ 3{{< /modal-btn >}}, suspicion d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) ou d'hypercapnie.
+Indications aux gaz du sang: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3{{< /modal-btn >}}, {{< modal-btn modal-severite-bpco >}}stade obstructif ≥ 3{{< /modal-btn >}}, suspicion d'[embolie pulmonaire]({{< relref "embolie-pulmonaire.md" >}}) ou d'hypercapnie.
 
-### Autres
+### Autres examens
 
-Scanner thoracique, ECBC, alpha1 antitrypsine... selon le pneumologue.  
-Scanner faible dose de dépistage de cancer du poumon annuel en BPCO tabagique selon les recommandations en vigueur pour la population (*GOLD 2022*).
+- Scanner thoracique  
+  Indications: exacerbations persistantes, symptômes discordants avec la spirométrie, VEMS < 45%. (*GOLD 2023*)
+- Déficit en alpha-1 antitrypsine  
+  Dosage unique au diagnostic. Une concentration < 20% évoque un déficit homozygote. (*GOLD 2023*)
+- ECBC selon le pneumologue
+- Scanner faible dose de [dépistage de cancer du poumon annuel]({{< relref "cancer-poumon.md" >}}) en BPCO tabagique selon les recommandations en vigueur pour la population (*GOLD 2023*)
 
 {{% /collapse %}}
 {{%collapse "Indications à l'hospitalisation et sortie d'hospitalisation" %}}
@@ -273,7 +278,7 @@ Scanner faible dose de dépistage de cancer du poumon annuel en BPCO tabagique s
 
 ### Indications à l'hospitalisation en exacerbation de BPCO
 
-- Âge > 85 ans
+- Âge +85 ans
 - Dyspnée basale {{< modal-btn modal-score-mmrc >}}mMRC 4 ou 5{{< /modal-btn >}}
 - Oxygénorequérant
 - Exacerbations antérieures sévères
@@ -288,7 +293,7 @@ Scanner faible dose de dépistage de cancer du poumon annuel en BPCO tabagique s
 - Contexte social
 - Échec du traitement ambulatoire ou aggravation à 48-72h (*SPLF 2017*)
 
-> *HAS 2019*
+> *HAS 2019* et *GOLD 2023*
 {{%/info%}}
 
 ### Sortie d'hospitalisation après une exacerbation de BPCO
@@ -314,7 +319,7 @@ Scanner faible dose de dépistage de cancer du poumon annuel en BPCO tabagique s
 
 - [ALD n°14]({{< relref "affection-longue-duree.md" >}})  
   Indications: insuffisance respiratoire chronique, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-bpco >}}VEMS < 50%{{< /modal-btn >}}
-- Arrêt du tabac
+- **Arrêt du tabac**
   - Principal facteur pronostique
   - Prise en charge optimale (conseil minimal, [substituts]({{< relref "substituts-nicotiniques.md" >}}), [tabac-info-service](https://www.tabac-info-service.fr/), tabacologue, psychothérapie, varénicline)
   - Autres expositions aux toxiques et gaz domestiques et professionnels  
@@ -323,8 +328,8 @@ Scanner faible dose de dépistage de cancer du poumon annuel en BPCO tabagique s
   - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}}) avec la coqueluche
   - Covid-19
   - Grippe annuelle
-  - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}} /5 ans si ≥ 65 ans ou comorbidités (cardio-respiratoire)
-  - [Zona]({{< relref "zona.md" >}}) (*GOLD 2022*)
+  - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}} (*GOLD 2023*)
+  - [Zona]({{< relref "zona.md" >}}) chez le +50 ans (*GOLD 2023*)
 - Réhabilitation respiratoire
   - Essentielle pour tous pour réduire la dyspnée, le stress et améliorer la qualité de vie
   - Dès 1 mois post-hospitalisation, répétée si besoin

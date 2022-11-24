@@ -59,7 +59,7 @@ Modèles approuvés par *UFC Que Choisir 2021*:
 - HP Pavilion 27 ca0039nf - 950€
 - Asus VIVO AIU 27 M3700WUAK - 900€
 - Lenovo IdeaCentre 3 27ALC6 - 850€
-- cer Aspire C24-1650 (24 pouces) - 800€
+- Acer Aspire C24-1650 (24 pouces) - 800€
 {.list-group}
 
 Précédentes références: Dell Inspiron 27 7000, Lenovo IdeaCentre AIO 3i FOG1001HFR, Acer Aspire C27-1655.

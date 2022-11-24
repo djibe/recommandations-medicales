@@ -324,8 +324,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 
 - Examen clinique tous les 6 mois pendant 2 ans, puis annuel (*HAS 2019*, *INCa 2017*)
   - Symptômes généraux
-  - Palpation des seins
-  - Aires ganglionnaires
+  - Palpation des seins et des aires ganglionnaires
 - Mammographie annuelle (bilatérale si tumorectomie) ± échographie mammaire
   - Tumorectomie: la 1<sup>re</sup> mammographie homolatérale est réalisée au moins 6 mois après la fin de la radiothérapie.
 - Tamoxifène (SERM)

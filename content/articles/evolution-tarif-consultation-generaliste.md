@@ -10,8 +10,8 @@ specialites = []
 sources = ["CNAM", "INSEE"]
 tags = []
 chart = true
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Illustration par storyset / Freepik"
 todo = "écriture SEO, Éléments cliquables trop rapprochés, cadres, temps travail, cotisations | KEY x3: consultations, médecin, médecins généralistes, consultation médicale, médecin traitant, tiers payant, augmentation des tarifs réglementés, assurance maladie, assurés, euro par consultation, patients | x1: prix d'une consultation, consultations chez le médecin, prix d'une visite, montant, médecine générale, sécurité sociale, revalorisation, évolution des prix, consultation classique; https://www.ofce.sciences-po.fr/pdf/ebook/ebook121.pdf; https://www.insee.fr/fr/outil-interactif/5369554/series-longues-dans-le-secteur-prive"
 +++
 
