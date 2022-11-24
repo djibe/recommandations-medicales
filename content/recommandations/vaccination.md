@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2022-10-18"
+lastmod = "2022-11-24"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["MinSanté", "HCSP"]
@@ -75,7 +75,7 @@ VVA
 | Grossesse   | Coqueluche, Covid, grippe | BoostrixTetra, Repevax ... |
 {{< /table >}}
 
-**Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours avec pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles.
+**Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours avec pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles. Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
 
 > Les consultations à 25, 45 et 65 ans seront gratuites dès 2023.
 
@@ -94,7 +94,7 @@ VVA
 | Méningocoque C | 24 ans                 | Dose unique après 12 mois |
 | Papillomavirus | 19 ans                 | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}}) |
 | Pneumocoque  | 23 mois                  | BPCO, diabète ...       |
-| Rotavirus    | 6 mois                   | 3 doses avec RotaTeq    |
+| Rotavirus    | 3 mois                   |                         |
 | Rougeole<br>Oreillons<br>Rubéole | 42 ans |                       |
 | Varicelle    | 18 ans                   | [Autour d'un cas]({{< relref "varicelle.md" >}}) |
 {{< /table >}}
@@ -273,6 +273,7 @@ Le don du sang est contre-indiqué durant quatre semaines après les vaccination
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ministère de la Santé. La vaccination du nourrisson contre les rotavirus. Questions/Réponses pour les professionnels de santé. Novembre 2022.](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-ps_nov22.pdf)
 - [Omedit Auvergne. Vaccination et Chimiothérapie. 22/07/2022.](https://www.omedit-auvergne-rhone-alpes.ars.sante.fr/vaccination-et-chimiotherapie)
 - [HAS. La HAS recommande la vaccination des nourrissons contre les infections à rotavirus. 12/07/2022.](https://www.has-sante.fr/jcms/p_3352137/fr/la-has-recommande-la-vaccination-des-nourrissons-contre-les-infections-a-rotavirus)
 - {{< references/calendrier-vaccinal >}}

@@ -3,15 +3,23 @@
   <section class="container-md">
     <div class="row">
       <div class="col-12">
-        <h1 class="taxonomyTerms">{{ .Title }}</h1>
-        <nav aria-label="Fil d'Ariane" class="mb-4">
+        <header class="fancy__header grid-1-2 taxonomyTerms">
+          <div class="title-container">
+            <h1>{{ .Title }}</h1>
+            <h2>Mots-clés pour le recoupement de pathologies ou concepts</h2>
+          </div>
+          <div class="icon-container">
+            <img src="/images/icons/tags.svg" class="img-fluid" alt="Nuage de mots-clés">
+          </div>
+        </header>
+        <nav aria-label="Fil d'Ariane" class="my-4">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="/"><img src="/favicon.svg" width="24" height="24" alt="Logo de RecoMédicales" aria-label="Accueil"></a></li>
             <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
           </ol>
         </nav>
       </div>
-      <div class="col-12">
+      <div class="col-12 p-4 my-5">
       {{ range .Pages.ByTitle }}
       <a class="chip chip-action" href="{{ .RelPermalink }}">{{ .Title }}</a>
       {{ end }}

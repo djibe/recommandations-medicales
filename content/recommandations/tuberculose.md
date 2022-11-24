@@ -104,6 +104,8 @@ Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre d
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="2TwjanDRE2Q" title=" Technique de la vaccination par le BCG en pratique  (Santé Publique France)" >}}
+
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Tuberculose maladie. Juin 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/actualisationlap_tuberculose__web_.pdf)
 

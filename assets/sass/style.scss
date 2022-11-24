@@ -2,6 +2,7 @@
 
 :root {
   --bg-rgb: 65, 80, 245;
+  --bg-hex: #ecedfe;
   --bg-secondary-rgb: 232, 117, 0;
   --bg-article-rgb: 175, 52, 220;
   --article: #af34dc;
@@ -136,11 +137,11 @@ main {
 }
 
 #nav {
-  background-color: #ecedfe;
+  background-color: var(--bg-hex);
 }
 
 mark {
-  background-color: #ecedfe;
+  background-color: var(--bg-hex);
 }
 
 .taxonomyTerms {
@@ -335,6 +336,18 @@ article {
   // content-visibility: auto; Ruins modals
 }
 
+.grid-1-2 {
+  display: grid;
+  gap: .5rem;
+  grid-template-columns: 1fr;
+
+  @media (min-width: 576px) {
+    & {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+}
+
 .grid-1-2-3 {
   display: grid;
   gap: .5rem;
@@ -404,6 +417,28 @@ article {
 
 .lead {
   font-size: calc(clamp(1rem, 0.909rem + 0.45vw, 1.25rem));
+}
+
+.fancy__header {
+  > div {
+    border-radius: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 56px;
+  }
+
+  .title-container {
+    background-color: var(--bg-hex);
+  }
+
+  .icon-container {
+    border: 1px solid var(--bg-hex);
+  }
+
+  h1 {
+    font-size: calc(3.5rem + 1.5vw);
+  }
 }
 
 .recommandation__info {
