@@ -1,6 +1,6 @@
 <figure>
-  <a href="{{ .Get "image" }}" target="_blank"><img src="{{ .Get "image" }}" loading="lazy" fetchpriority="low"
-    {{- with .Get "title" }}alt="{{ . }}" {{ else }}alt=""{{ end -}}
+  <a href="{{ .Get "image" }}" target="_blank"><img src="{{ .Get "image" }}" loading="lazy" fetchpriority="low" 
+    {{ with .Get "title" }}alt="{{ . }}" {{ else }}alt=""{{ end -}}
     ></a>
   <figcaption>
     {{ with .Get "title" }}<div class="fig-title">{{ . }}</div>{{ end }}

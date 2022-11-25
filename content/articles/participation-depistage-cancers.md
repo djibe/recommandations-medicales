@@ -51,16 +51,10 @@ const chartOptions = {
     type: 'column',
     data: [1084, 12146, 17117]
   }],
-  dataLabels: {
-    formatter: function (val, opts) {
-      return val + "%"
-      }
-  },
+  dataLabels: { formatter: function (val, opts) { return val + "%" }},
   chart: {},
   title: { text: 'Taux de participation au dépistage des cancers en 2022' },
-  xaxis: {
-    categories: ['Col de l\'utérus', 'Sein', 'Côlon-rectum'],
-  },
+  xaxis: { categories: ['Col de l\'utérus', 'Sein', 'Côlon-rectum'] },
   yaxis: [
     {
       title: {
@@ -85,17 +79,10 @@ const chartOptions = {
     }
   ],
   tooltip: {
-    x: { show: true },
-    y: [{
-      formatter: function(value) {
-        return value + '%'
-      }
-    },
-    {
-      formatter: function(value) {
-        return value + ' décès/an'
-      }
-    }]
+    y: [
+      { formatter: function(value) { return value + '%' }},
+      { formatter: function(value) { return value + ' décès/an' }}
+    ]
   }
 }
 </script>

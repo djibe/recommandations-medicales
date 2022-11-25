@@ -41,8 +41,8 @@ const chartOptions = {
     data: [7.01, 7.97, 8.48, 9.76, 10.39, 11.11, 11.46, 12.45, 12.96, 12.96, 13.53, 13.72, 13.72, 15.24, 15.63, 16.65, 16.77, 16.77, 17.34, 17.53, 17.53, 17.53, 20, 20, 20, 20, 21, 22, 22, 22, 22, 23, 23, 23, 23, 23, 23, 25, 25, 25, 25, 25]
   }],
   chart: { type: 'line' },
-  markers: {size: 0},
-  stroke: { colors: ['#4150f5', '#717cf8'], curve: 'smooth', width: 2 },
+  markers: { size: 0 },
+  stroke: { colors: ['#4150f5', '#717cf8'], curve: 'smooth', width: 3 },
   title: { text: 'Honoraires des médecins généralistes en secteur 1' },
   xaxis: {
     categories: [1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021],
@@ -56,11 +56,7 @@ const chartOptions = {
       min: 0
     }
   ],
-  tooltip: {
-    y: [{
-      formatter: function(value) { return `${value} €` }
-    }]
-  },
+  tooltip: { y: [{ formatter: function(value) { return `${value} €` }}] },
   theme: { monochrome: { enabled: true } },
   annotations: {
     xaxis: [{

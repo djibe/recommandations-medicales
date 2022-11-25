@@ -7,7 +7,7 @@ synonyms = ["Avortement"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-16T10:54:41+02:00"
 publishdate = "2020-09-16"
-lastmod = "2022-11-13"
+lastmod = "2022-11-25"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF", "HAS"]
@@ -18,7 +18,6 @@ chart = true
 flowchart = true
 image = true
 imageSrc = "Illustration de l'IVG par stories / Freepik"
-todo = "stats"
 +++
 
 {{%article-summary%}}
@@ -36,9 +35,9 @@ Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contrace
 {{< outils/terme >}}
 
 {{% /collapse %}}
-{{%collapse "Introduction" %}}
+{{%collapse "Introduction" "show"%}}
 
-> << Les échecs contraceptifs dus au défaut d'observance sont l'une des principales causes de recours à l'interruption volontaire de grossesse (IVG) en France >> (*CNGOF 2018*).
+{{%info%}}<< Les échecs contraceptifs dus au défaut d'observance sont l'une des principales causes de recours à l'interruption volontaire de grossesse (IVG) en France >> (*CNGOF 2018*){{%/info%}}
 
 > << Dans tous les cas où cela est possible, les femmes doivent pouvoir choisir la méthode, médicamenteuse ou chirurgicale, et recevoir une information détaillée. Cette information renforce la satisfaction des femmes après IVG. >>
 
@@ -51,27 +50,56 @@ Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contrace
 - 76% des IVG sont médicamenteuses
 - Depuis l'autorisation de 2004: 1 IVG médicamenteuse sur 6 a lieu en libéral (soit 18.273 en 2007, 3/4 par gynécologue, 1/4 par médecin généraliste)
 
-{{< figure-chart title="Évolution du ratio d'avortement France entière de 1990 à 2021. (<em>Drees 2022</em>)<br>Le ratio d'avortement correspond au rapport entre le nombre d'IVG et le nombre de naissances vivantes. En 2021, 30 IVG pour 100 naissances vivantes (<em>Drees 2022</em>)" >}}
+{{< figure-chart title="Évolution du nombre d'interruptions de grossesse annuelles et du ratio d'avortement France entière de 1990 à 2021. (<em>Drees 2022</em>)<br>Le ratio d'avortement correspond au rapport entre le nombre d'IVG et le nombre de naissances vivantes. Ex: en 2021, 30 IVG pour 100 naissances vivantes (<em>Drees 2022</em>)" >}}
 
 <script>
 const chartOptions = {
   series: [{
-    name: "Ratio d'avortement",
-    data: [[1990, 0.26], [1991, 0.27], [1992, 0.26], [1993, 0.27], [1994, 0.27], [1995, 0.26], [1996, 0.27], [1997, 0.27], [1998, 0.27], [1999, 0.27], [2000, 0.25], [2001, 0.27], [2001, 0.27], [2002, 0.28], [2003, 0.27], [2004, 0.28], [2005, 0.27], [2006, 0.28], [2007, 0.28], [2008, 0.27], [2009, 0.27], [2010, 0.27], [2011, 0.27], [2012, 0.27], [2013, 0.28], [2014, 0.28], [2015, 0.28], [2016, 0.28], [2017, 0.28], [2018, 0.30], [2019, 0.31], [2020, 0.30], [2021, 0.30]]
+    name: 'Nombre d\'IVG',
+    data: [208325, 211533, 204105, 203679, 202426, 193763, 202567, 204157, 211075, 210735, 205099, 215611, 220070, 216436, 221587, 219421, 228678, 226812, 222188, 222277, 225836, 221970, 219148, 228984, 227055, 220319, 216068, 217793, 225226, 233259, 222640, 223282]
+  },
+  {
+    name: 'Ratio d\'avortement',
+    data: [0.26, 0.27, 0.26, 0.27, 0.27, 0.26, 0.27, 0.27, 0.27, 0.27, 0.25, 0.27, 0.28, 0.27, 0.28, 0.27, 0.28, 0.28, 0.27, 0.27, 0.27, 0.27, 0.27, 0.28, 0.28, 0.28, 0.28, 0.28, 0.30, 0.31, 0.30, 0.30]
   }],
-  chart: { type: 'line', height: 240 },
-  markers: {size: 0},
-  stroke: { colors: ['#4150f5'], curve: 'smooth', width: 4 },
-  title: { text: 'Évolution du ratio d\'avortement de 1990 à 2021' },
-  xaxis: { tickAmount: 7 },
-  yaxis: { decimalsInFloat: 2, tickAmount: 3 }
+  chart: { type: 'line', height: 320 },
+  markers: { size: 0 },
+  stroke: { colors: ['#4150f5', '#ffa600'], curve: 'smooth', width: 4 },
+  title: { text: 'Évolution de l\'activité d\'IVG en France de 1990 à 2021' },
+  xaxis: {
+    categories: [1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021],
+    tickAmount: 7
+  },
+  yaxis: [
+    {
+      title: {
+        text: 'IVG',
+        decimalsInFloat: 0,
+        style: { color: '#4150f5' }
+      },
+      labels: {
+        style: { colors: '#757575' }
+      }
+    },
+    {
+      seriesName: 'Ratio',
+        opposite: true,
+        title: {
+          text: 'Ratio',
+          style: {color: '#ffa600'}
+        },
+        labels: {
+        style: { colors: '#757575' }
+      }
+    },
+  ]
 }
 </script>
 
 {{% /collapse %}}
-{{%collapse "Traitement médical" %}}
+{{%collapse "IVG médicamenteuse" %}}
 
-{{%info%}}L'interruption de grossesse par un médecin généraliste en ville (ou sage-femme) est possible jusqu'à 9 SA, à condition d'une formation suffisante et de convention avec établissement de santé autorisé{{%/info%}}
+{{%info%}}L'interruption de grossesse par un médecin généraliste en ville (ou sage-femme) est possible jusqu'à 9 semaines d'aménorrhée (SA), à condition d'une formation suffisante et de convention avec établissement de santé autorisé{{%/info%}}
 
 ### Conditions
 

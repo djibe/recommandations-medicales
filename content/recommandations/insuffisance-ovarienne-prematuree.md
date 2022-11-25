@@ -22,11 +22,11 @@ todo = "tabac, Anticorps anti-surrénaliens, Turner, ESHRE"
 
 {{%article-summary%}}
 
-- Évoquer une ménopause précoce chez la femme -40 ans avec aménorrhée (ou spanioménorrhée) accompagnée d'un syndrome climatérique
+- Évoquer une ménopause précoce chez la femme de moins de 40 ans avec aménorrhée (ou spanioménorrhée) accompagnée d'un syndrome climatérique
 - Le diagnostic d'insuffisance ovarienne prématurée est clinico-biologique: aménorrhée ou spanioménorrhée ≥ 4 mois avant 40 ans avec FSH ≥ 25 UI/L et estradiol bas (à 2 reprises à 4 semaines d'intervalle)
 - Des maladies auto-immunes sont fréquemment associées
 - Exploration de la ménopause précoce dans un [centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/)
-- Le traitement hormonal substitutif (THS) doit être démarré rapidement pour réduire le risque cardiovasculaire et fracturaire
+- Le traitement hormonal substitutif (THS) doit être démarré rapidement pour réduire le risque cardiovasculaire et [fracturaire]({{< relref "osteoporose.md" >}})
 - Le THS utilisé pour les insuffisances ovariennes prématurées spontanées (non iatrogènes) n'augmente pas le risque de [cancer du sein]({{< relref "cancer-sein.md" >}}) (*HAS 2021*)
 
 Article lié: [Ménopause et traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
@@ -171,18 +171,18 @@ Voir les [indications au traitement selon T-score et FRAX]({{< relref "osteoporo
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-{{%info%}}Le traitement hormonal substitutif (THS) pour les IOP spontanées (non iatrogènes) n'augmente pas le risque de cancer du sein (56-79% des patientes le croient, *HAS 2021*){{%/info%}}
+{{%info%}}Le traitement hormonal substitutif (THS) utilisé pour la ménopause précoce (spontanée, non iatrogène) n'augmente pas le risque de [cancer du sein]({{< relref "cancer-sein.md" >}}) (56-79% des patientes le croient, *HAS 2021*){{%/info%}}
 
-Prise en charge de l'insuffisance ovarienne prématurée (ménopause précoce) dans un [Centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/):
+Prise en charge de l'insuffisance ovarienne prématurée (IOP ou ménopause précoce) dans un [Centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/):
 
 - Traitement hormonal substitutif (THS) jusqu'à au moins 51 ans
   - Par [contraceptif estroprogestatif]({{< relref "contraception.md" >}})
-  - ou THS, voir [Spécialités disponibles pour le THM]({{< relref "menopause.md#spécialités-disponibles-pour-le-thm" >}})
-  - Préférer le schéma combiné discontinu (afin de détecter une aménorrhée/grossesse), mais au choix de la patiente
+  - ou traitement hormonal substitutif (voir [spécialités disponibles pour le THM]({{< relref "menopause.md#spécialités-disponibles-pour-le-thm" >}}))
+  - Préférer le schéma de THS combiné discontinu (afin de détecter une aménorrhée/grossesse), mais au choix de la patiente
   - Test de grossesse en l'absence d'hémorragie de privation
 - Traitement des troubles sexuels (voir *[Ménopause]({{< relref "menopause.md" >}})*)  
   Notamment ovule/gel estrogénique vaginal.
-- Aborder la contraception (risque 4-6%)
+- Aborder la [contraception]({{< relref "contraception.md" >}}) (risque 4-6%)
 - Projet parental: suivi AMP sans délai
 - Soutien psychologique
 - Origine génétique suspectée: avis génétique voire RCP pour génotype complet (Plan France Médecine Génomique)
@@ -216,7 +216,7 @@ Recommandations de prise en charge spécifiques pour les femmes suivantes:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir et prise en charge d'un suspicion de ménopause précoce" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le diagnostic et la prise en charge de l'insuffisance ovarienne prématurée. Dr JB Fron d'après HAS 2021 et Cox et Liu 2014" >}}
+{{< mermaid title="Conduite à tenir pour le diagnostic et la prise en charge de l'insuffisance ovarienne prématurée (ex ménopause précoce). Dr JB Fron d'après HAS 2021 et Cox et Liu 2014" >}}
 graph TB
   amenorrhee["Aménorrhée &ge; 4 mois<br>ou spanioménorrhée &ge; 4 mois<br>avant 40 ans"] --> hcg(Test de grossesse<br>hCG)
   style amenorrhee stroke:#4150f5, stroke-width:1px
