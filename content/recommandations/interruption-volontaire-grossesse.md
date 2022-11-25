@@ -35,7 +35,7 @@ Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contrace
 {{< outils/terme >}}
 
 {{% /collapse %}}
-{{%collapse "Introduction" "show"%}}
+{{%collapse "Introduction" %}}
 
 {{%info%}}<< Les échecs contraceptifs dus au défaut d'observance sont l'une des principales causes de recours à l'interruption volontaire de grossesse (IVG) en France >> (*CNGOF 2018*){{%/info%}}
 
@@ -74,12 +74,10 @@ const chartOptions = {
     {
       title: {
         text: 'IVG',
-        decimalsInFloat: 0,
         style: { color: '#4150f5' }
       },
-      labels: {
-        style: { colors: '#757575' }
-      }
+      labels: { style: { colors: '#757575' }},
+      decimalsInFloat: 0
     },
     {
       seriesName: 'Ratio',
@@ -88,9 +86,7 @@ const chartOptions = {
           text: 'Ratio',
           style: {color: '#ffa600'}
         },
-        labels: {
-        style: { colors: '#757575' }
-      }
+        labels: { style: { colors: '#757575' }}
     },
   ]
 }

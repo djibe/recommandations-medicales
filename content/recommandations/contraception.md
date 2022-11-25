@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2022-03-08"
+lastmod = "2022-11-25"
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -40,7 +40,38 @@ Contraception
 
 Le défaut d'observance est l'une des causes principales des grossesses non planifiées.
 
+### Évolution de la fécondité des françaises
+
+<figure class="figure-chart">
+  <div id="chart2"></div>
+  <figcaption><b>Figure.</b> Évolution de la fécondité en France métropolitaine de 1950 à nos jours. Dr JB Fron d'après <em><a href="https://www.insee.fr/fr/statistiques/4277635?sommaire=4318291" rel="external nofollow noopener">Insee 2020</a></em>. Échelle de temps non linéaire.<br>
+  <b>Légende:</b> Indicateur conjoncturel de fécondité (ICF), plus communément appelé nombre d'enfants par femme.</figcaption>
+</figure>
+<script>
+const chartOptions2 = {
+  series: [{
+    name: 'ICF',
+    data: [2.947, 1.945, 1.778, 1.874, 1.841, 1.835]
+  }],
+  chart: { type: 'line', height: 240 },
+  markers: { size: 0 },
+  stroke: { colors: ['#4150f5'], curve: 'smooth', width: 3 },
+  title: { text: 'Évolution de la fécondité en France métropolitaine' },
+  xaxis: { categories: [1950, 1980, 1990, 2000, 2018, 2019] },
+  yaxis: [
+    {
+      title: { text: 'Enfants par femme' },
+      decimalsInFloat: 2,
+      min: 1
+    }
+  ]
+}
+</script>
+
 ### Abréviations
+
+CNGOF
+: Collège National des Gynécologues et Obstétriciens Français
 
 COC
 : contraception orale combinée (ou œstroprogestative. COP utilisée par le CNGOF)

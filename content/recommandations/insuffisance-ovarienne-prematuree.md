@@ -65,6 +65,9 @@ Spanioménorrhée
 AMH
 : hormone anti-müllérienne
 
+CNGOF
+: Collège National des Gynécologues et Obstétriciens Français
+
 ESHRE
 : {{%lang%}}European Society of Human Reproduction and Embryology{{%/lang%}}
 

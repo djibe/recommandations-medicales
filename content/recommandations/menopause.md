@@ -84,6 +84,9 @@ AVC
 BVM
 : bouffées vasomotrices
 
+CNGOF
+: Collège National des Gynécologues et Obstétriciens Français
+
 DMO
 : densité minérale osseuse
 
