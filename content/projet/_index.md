@@ -12,7 +12,7 @@ chart = true
 +++
 
 <div class="w-100 mb-5"><!-- illustration -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4306 2667" role="img" aria-hidden="true" aria-labelledby="svg-hero"><title id="svg-hero">Les dépistages des cancers en France</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4306 2667" role="img" aria-hidden="true" aria-labelledby="svg-hero" style="border-radius:24px"><title id="svg-hero">Le projet de RecoMédicales</title>
   <defs>
     <clipPath id="a" clipPathUnits="userSpaceOnUse">
       <path d="M19534 16689a1235 1235 0 10349-2446 1235 1235 0 00-349 2446zm-1358-1863c60-144 140-277 235-396l-140-293 282-212 282-211 242 216c142-58 291-97 447-115l108-305 349 49 349 50 18 324c145 60 278 140 397 235l293-140 211 282 212 282-216 242c58 141 97 291 114 447l306 108-50 349-50 349-323 18c-61 145-140 278-235 397l139 293-282 211-282 212-242-216c-141 58-291 97-446 114l-108 306-349-50-349-50-19-324c-144-60-277-139-396-234l-293 139-212-282-211-282 216-242c-58-141-97-291-115-446l-305-108 49-350 50-349z"/>
@@ -465,11 +465,8 @@ Pourtant, des exemples comme les *prescriptions d'antibiotiques* ou le *suivi du
 
 > Si un schéma ne donne pas les résultats escomptés, il faut en chercher d'autres
 
-<figure class="figure-chart">
-  <div id="chart"></div>
-  <figcaption><b>DQD:</b> doses quotidiennes définies/1000 hab/j (DDD en anglais) <br>
-  <b>Figure. </b><a href="https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-associees-aux-soins-et-resistance-aux-antibiotiques/resistance-aux-antibiotiques/documents/rapport-synthese/la-consommation-d-antibiotiques-en-secteur-de-ville-en-france-2009-2019.-synthese-preliminaire-des-indicateurs-disponibles-sous-geodes" rel="external nofollow noopener">Santé Publique France. SPF. La consommation d'antibiotiques en secteur de ville en France 2009-2019. Synthèse préliminaire des indicateurs disponibles sous Géodes.</a></figcaption>
-</figure>
+{{< figure-chart title="Consommation d'antibiotiques en secteur de ville en France sur la période 2009-2019 (<a href='https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-associees-aux-soins-et-resistance-aux-antibiotiques/resistance-aux-antibiotiques/documents/rapport-synthese/la-consommation-d-antibiotiques-en-secteur-de-ville-en-france-2009-2019.-synthese-preliminaire-des-indicateurs-disponibles-sous-geodes' rel='external nofollow noopener'>Santé Publique France</a>).<br><b>DQD:</b> doses quotidiennes définies/1000 hab/j (DDD en anglais)" >}}
+
 <script>
 const chartOptions = {
   series: [{
@@ -486,7 +483,12 @@ const chartOptions = {
 }
 </script>
 
-<div id="chart2" class="border alert mt-5"></div>
+<figure class="figure-chart">
+  <div id="chart2"></div>
+  <figcaption><b>Figure 2.</b> Proportion de personnes diabétiques traitées pharmacologiquement ayant bénéficié des examens de suivi recommandés, France entière en 2001, 2007 et 2013. Dr JB Fron d'après <em><a href="https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/documents/article/suivi-des-examens-recommandes-dans-la-surveillance-du-diabete-en-france-en-2013" rel="external nofollow noopener">Fosse-Edorh 2015</a></em> et <a href="https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/articles/etude-entred-2001-2003" rel="external nofollow noopener">Entred 2001-2003</a>.<br>
+  <b>Légende:</b> &ge; 1 examen réalisé dans l'année pour chaque item (3 pour l'HbA<sub>1c</sub>)</figcaption>
+</figure>
+
 <script>
 const chartOptions2 = {
   series: [{
@@ -515,10 +517,12 @@ const chartOptions2 = {
 }
 </script>
 
-> *≥ 1 examen réalisé dans l'année pour chaque item (3 pour l'HbA<sub>1c</sub>)*  
-Proportion de personnes diabétiques traitées pharmacologiquement ayant bénéficié des examens de suivi recommandés, France entière, 2001, 2007 et 2013. Dr JB Fron d'après *[Fosse-Edorh 2015](https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/documents/article/suivi-des-examens-recommandes-dans-la-surveillance-du-diabete-en-france-en-2013)* et *[Entred 2001-2003](https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/articles/etude-entred-2001-2003)*
+<figure class="figure-chart">
+  <div id="chart3"></div>
+  <figcaption><b>Figure 3.</b> Indicateurs de qualité du parcours des patients à risque ou atteints de bronchopneumopathie chronique obstructive (BPCO). Dr JB Fron d'après <a href="https://www.has-sante.fr/upload/docs/application/pdf/2022-04/iqss_2022_-_indicateurs_bpco_developpement-_synthese_mars_2022.pdf" rel="external nofollow noopener">HAS 2022 (PDF)</a>.<br>
+  <b>Légende:</b> Indicateurs en partant de midi: Taux de dépistage des personnes à risque de BPCO, couverture vaccinale antigrippale annuelle, spirométrie ou EFR annuelle. Après hospitalisation pour exacerbation de BPCO: consultation de suivi dans les 7 jours (Cs J7), réévaluation pneumologique dans les 2 mois (Cs J60), bronchodilatateur de longue durée (BDLA), recours à la réhabilitation respiratoire.</figcaption>
+</figure>
 
-<div id="chart3" class="border alert mt-5"></div>
 <script>
 const chartOptions3 = {
   series: [{
@@ -541,19 +545,16 @@ const chartOptions3 = {
 }
 </script>
 
-> Indicateurs en partant de midi: Taux de dépistage des personnes à risque de BPCO, couverture vaccinale antigrippale annuelle, spirométrie ou EFR annuelle. Après hospitalisation pour exacerbation de BPCO: consultation de suivi dans les 7 jours (Cs J7), réévaluation pneumologique dans les 2 mois (Cs J60), bronchodilatateur de longue durée (BDLA), recours à la réhabilitation respiratoire  
-Dr JB Fron d'après [HAS 04/2022](https://www.has-sante.fr/upload/docs/application/pdf/2022-04/iqss_2022_-_indicateurs_bpco_developpement-_synthese_mars_2022.pdf)
-
 ### Un texte ne suffit pas
 
 Initialement sur mon stockage personnel, mes fiches textes ne me permettaient pas de répondre à la complexité croissante de la médecine moderne: des scores, des arbres de décisions se décrivent difficilement avec des mots.  
 Cette limitation est récurrente sur les sites existants, pourtant d'une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net/), [doctofiche](https://doctofiche.fr/), [Medix](http://www.medix.free.fr/), [Ordotype](https://www.ordotype.fr/), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil), [WeLinkCare](https://www.welinkcare.com/).
 
-**RecoMédicales** n'est pas adapté aux étudiants. Voir [ECNi](https://www.ecni.fr/), [prepECN](https://prepecn.com/).
+**RecoMédicales** n'est pas adapté aux étudiants (voir [ECNi](https://www.ecni.fr/), [prepECN](https://prepecn.com/)).
 
 ## Objectifs du Projet
 
-Le projet << Recommandations Médicales >> vise à produire un démonstrateur de plateforme informatique **permettant à tous les généralistes d'accéder rapidement aux informations médicales les plus récentes nécessaires à chaque prise en charge**.
+Le projet << RecoMédicales >> vise à produire un démonstrateur de plateforme informatique **permettant à tous les généralistes d'accéder rapidement aux informations médicales les plus récentes nécessaires à chaque prise en charge**.
 
 Le démonstrateur doit être **hautement interactif, simple d'emploi, gratuit et Open Source**.
 
