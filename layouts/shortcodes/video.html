@@ -18,9 +18,5 @@
     {{ end }}
     Votre navigateur ne lit pas les vidéos.
   </video>
-  {{ with .Get "description" }}
-  <figcaption class="figure-caption">
-    {{ . }}
-  </figcaption>
-  {{ end }}
+  {{ with .Get "description" }}<figcaption class="figure-caption">{{ . }}</figcaption>{{ end }}
 </figure>
