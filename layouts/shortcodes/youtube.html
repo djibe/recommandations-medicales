@@ -4,7 +4,7 @@
 {{- $id := .Get "id" | default (.Get 0) -}}
 {{- $class := .Get "class" | default (.Get 1) -}}
 {{- $title := .Get "title" | default "YouTube Video" }}
-<div class="embed-responsive embed-responsive-16by9 mb-3">
+<div class="embed-responsive embed-responsive-16by9 my-3">
   <iframe fetchpriority="low" class="embed-responsive-item" src="https://{{ $ytHost }}/embed/{{ $id }}{{ with .Get "autoplay" }}{{ if eq . "true" }}?autoplay=1{{ end }}{{ end }}" allowfullscreen loading="lazy" title="{{ $title }}"></iframe>
 </div>
 {{ end -}}

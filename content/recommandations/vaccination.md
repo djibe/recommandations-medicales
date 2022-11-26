@@ -269,9 +269,12 @@ Le don du sang est contre-indiqué durant quatre semaines après les vaccination
 
 - [Information du patient - Santé BD: La vaccination](https://santebd.org/les-fiches-santebd/docteur-generaliste/la-vaccination-mieux-comprendre-la-vaccination)
 - [CRES PACA. Des outils de promotion de la vaccination](http://www.cres-paca.org/a/157/des-outils-de-promotion-de-la-vaccination/?utm_source=phplist785&utm_medium=email&utm_content=HTML&utm_campaign=Vaccination+%3A+des+outils+pour+les+professionnels+de+sant%C3%A9+)
+- [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< youtube id="u31xRtiITzk" title="Administration du vaccin Rotarix (CDC)" >}}
 
 - [Ministère de la Santé. La vaccination du nourrisson contre les rotavirus. Questions/Réponses pour les professionnels de santé. Novembre 2022.](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-ps_nov22.pdf)
 - [Omedit Auvergne. Vaccination et Chimiothérapie. 22/07/2022.](https://www.omedit-auvergne-rhone-alpes.ars.sante.fr/vaccination-et-chimiotherapie)

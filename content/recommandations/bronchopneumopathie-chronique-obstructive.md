@@ -20,15 +20,15 @@ slider = true
 flowchart = true
 image = true
 imageSrc = "Illustration de la BPCO par Freepik"
-todo = "SEO prise en charge x3, amélioration de la qualité de vie | Tableau 2 SPLF 2021, Plan d'action, ABCD Refined ABCD Assessment tool Fig. 2.4+4.2, score BODE ----------- p.61++++, ODM selon FDR *15, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24, ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, remboursement RR, flow p.46, travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, fonctionnement et critères mini-spiromètre"
+todo = "SEO prise en charge x2, amélioration de la qualité de vie | Tableau 2 SPLF 2021, Plan d'action, score BODE ----------- p.61++++, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24, ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, remboursement RR, flow p.46, travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, fonctionnement et critères mini-spiromètre"
 +++
 
 {{%article-summary%}}
 
-- {{< modal-btn modal-depistage-bpco >}}Dépistage systématique de la BPCO{{< /modal-btn >}} et arrêt du tabac pour tout le monde (facteur principal du déclin du VEMS)
+- {{< modal-btn modal-depistage-bpco >}}Dépistage systématique des facteurs de risque de BPCO{{< /modal-btn >}} et arrêt du tabac pour tout le monde (facteur principal du déclin du VEMS)
 - Le diagnostic de BPCO est spirométrique: trouble ventilatoire obstructif non réversible
 - Le VEMS est le facteur pronostique majeur de la {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
-- 4 piliers du traitement: arrêt du tabac, vaccination covid-19 + grippe + {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, activité physique et réhabilitation respiratoire
+- 4 piliers de la prise en charge: arrêt du tabac, vaccination covid-19 + grippe + {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, activité physique et réhabilitation respiratoire
 - Évaluer les symptômes et exacerbations: {{< modal-btn modal-score-cat >}}questionnaire CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}mMRC{{< /modal-btn >}} pour déterminer le bronchodilatateur
 - Bronchodilatateurs: {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-bdca >}}BDCA de secours{{< /modal-btn >}}. Escalade: {{< modal-btn modal-ttt-laba-lama >}}LABA + LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}} > {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}
 - EFR/spirométrie de suivi annuelle
@@ -188,13 +188,13 @@ Tabagisme, âge > 35 ans, dyspnée persistante et progressive, décrite comme n�
   Asthme, allergie, atopie, sinusite, polypes du rhinopharynx, infections respiratoires infantiles, hospitalisations pour pathologies respiratoires.
 - Comorbidités  
   - Cardiovasculaires  
-    Coronaropathie, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (8,8%), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (20-70%), [arythmie]({{< relref "fibrillation-atriale.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}})
-  - Cancers liés au tabac (VADS, vessie, digestifs)
+    [Hypertension]({{< relref "hypertension-arterielle.md" >}}), coronaropathie, [AVC]({{< relref "accident-vasculaire-cerebral.md" >}}), [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) (8,8%), [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) (20-70%), [arythmie]({{< relref "fibrillation-atriale.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}})
+  - Cancers liés au tabac (poumon, vessie, digestifs)
   - Dépression, anxiété, addictions, troubles cognitifs
   - [Ostéoporose]({{< relref "osteoporose.md" >}}) et amyotrophie
   - Obésité, [dénutrition]({{< relref "denutrition.md" >}}), anémie et polyglobulie
   - [Apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), dilatation des bronches
-  - [RGO]({{< relref "reflux-gastro-oesophagien.md" >}})
+  - [Reflux gastrique]({{< relref "reflux-gastro-oesophagien.md" >}})
 - Antécédents familiaux  
   Tabagisme, BPCO et maladies respiratoires.
 - Terrain  
@@ -382,12 +382,12 @@ Dyspnée sous monothérapie toujours {{< modal-btn modal-score-mmrc >}}mMRC ≥ 
 Choix selon le profil clinique:
 
 - Dyspnée prédominante  
-{{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} + {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} ({{< modal-btn modal-ttt-laba-lama >}}association LABA+LAMA{{< /modal-btn >}}).
+  {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} + {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} ({{< modal-btn modal-ttt-laba-lama >}}association LABA+LAMA{{< /modal-btn >}}).
 - Exacerbations récurrentes de composante asthmatique (variabilité, atopie)  
-{{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}.  
-Arrêt si pneumonie ou autres effets indésirables des corticoïdes et remplacement par {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}}.
+  - {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}
+  - Arrêt si pneumonie ou autres effets indésirables des corticoïdes et remplacement par {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}}
 
-**NB.** Sur-risque de pneumonie avec les corticoïdes inhalés.
+{{%warning%}}Sur-risque de pneumopathie avec les corticoïdes inhalés{{%/warning%}}
 
 #### 3<sup>e</sup> intention - Prescription spécialisée
 
