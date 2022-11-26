@@ -269,7 +269,7 @@ Indications aux gaz du sang: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mm
 - Déficit en alpha-1 antitrypsine  
   Dosage unique au diagnostic. Une concentration < 20% évoque un déficit homozygote. (*GOLD 2023*)
 - ECBC selon le pneumologue
-- Scanner faible dose de [dépistage de cancer du poumon annuel]({{< relref "cancer-poumon.md" >}}) en BPCO tabagique selon les recommandations en vigueur pour la population (*GOLD 2023*)
+- Scanner faible dose de [dépistage de cancer du poumon annuel]({{< relref "cancer-poumon.md" >}}) en cas de BPCO tabagique selon les recommandations en vigueur pour la population (*GOLD 2023*)
 
 {{% /collapse %}}
 {{%collapse "Indications à l'hospitalisation et sortie d'hospitalisation" %}}
@@ -315,10 +315,8 @@ Indications aux gaz du sang: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mm
 - Recherche et correction d'une [carence en vitamine D]({{< relref "vitamine-d.md" >}}) (*GOLD*)
 
 {{% /collapse %}}
-{{%collapse "Traitement - état stable" %}}
+{{%collapse "Traitement de fond" %}}
 
-- [ALD n°14]({{< relref "affection-longue-duree.md" >}})  
-  Indications: insuffisance respiratoire chronique, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-bpco >}}VEMS < 50%{{< /modal-btn >}}
 - **Arrêt du tabac**
   - Principal facteur pronostique
   - Prise en charge optimale (conseil minimal, [substituts]({{< relref "substituts-nicotiniques.md" >}}), [tabac-info-service](https://www.tabac-info-service.fr/), tabacologue, psychothérapie, varénicline)
@@ -340,6 +338,8 @@ Indications aux gaz du sang: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mm
   - Augmenter le temps de marche quotidien, escaliers, vélo  
     Favoriser avec podomètre, appli (Google Fit ...)
   - [Annuaire pour l'Activité Physique Adaptée (APA)](https://www.sfp-apa.fr/annuaire/)
+- [ALD n°14]({{< relref "affection-longue-duree.md" >}})  
+  Indications: insuffisance respiratoire chronique, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-bpco >}}VEMS < 50%{{< /modal-btn >}}
 - Évaluation nutritionnelle  
   Dont santé bucco-dentaire et diététicien.
 - Éducation thérapeutique et Plan d'action écrit  
@@ -357,8 +357,7 @@ Indications aux gaz du sang: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mm
 
 ### Bronchodilatateurs
 
-La [technique d'inhalation](https://splf.fr/videos-zephir/) et l'observance sont primordiaux et repris à chaque consultation pour ces traitements symptomatiques.  
-Recherche du traitement minimal efficace.  
+La [technique d'inhalation](https://splf.fr/videos-zephir/) et l'observance sont primordiaux et repris à chaque consultation pour ces traitements symptomatiques. Recherche du traitement minimal efficace.  
 Formes: spray, poudre, brumisateur.
 
 #### Dyspnée intermittente ou à l'exercice
