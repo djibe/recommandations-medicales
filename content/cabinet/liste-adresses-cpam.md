@@ -15,4 +15,4 @@ imageSrc = "Illustration par storyset sur Freepik"
 Page mémo pour retrouver les adresses des CPAM lors de l'envoi des feuilles de soins, parce que oui, c'est toujours la plaie les feuilles de soins.
 {.lead .mb-5}
 
-{{< iframe url="/print/cpam.pdf" title="Liste des adresses des CPAM pour l'envoi de documents">}}
+<embed src="/print/cpam.pdf" type="application/pdf" title="Liste des adresses des CPAM pour l'envoi de documents" width="100%" height="600">
