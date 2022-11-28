@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
 publishdate = "2021-11-03"
-lastmod = "2022-11-14"
+lastmod = "2022-11-28"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["INCa", "HAS", "ACOG"]
@@ -28,6 +28,7 @@ todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, E
 - Dépistage spécifique en cas de risque élevé ou très élevé de cancer du sein (voir *Niveaux de risque*)
 - En cas d'antécédents familiaux de cancers du sein, calcul du {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}} pour savoir orienter en oncogénétique
 - Bilan initial devant un lésion du sein: mammographie et échographie mammaire bilatérales puis avis sénologique
+- Suivi après cancer du sein: examen clinique tous les 6 mois puis annuel avec mammographie à vie
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -320,12 +321,12 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 {{% /collapse %}}
 {{%collapse "Surveillance après cancer du sein" %}}
 
-### Suivi post traitement
+### Suivi post traitement du cancer du sein
 
-- Examen clinique tous les 6 mois pendant 2 ans, puis annuel (*HAS 2019*, *INCa 2017*)
+- Examen clinique tous les 6 mois pendant 2 ans, puis annuel à vie (*HAS 2019*, *INCa 2017*)
   - Symptômes généraux
   - Palpation des seins et des aires ganglionnaires
-- Mammographie annuelle (bilatérale si tumorectomie) ± échographie mammaire
+- Mammographie annuelle à vie (bilatérale si tumorectomie) ± échographie mammaire
   - Tumorectomie: la 1<sup>re</sup> mammographie homolatérale est réalisée au moins 6 mois après la fin de la radiothérapie.
 - Tamoxifène (SERM)
   - Informer sur le risque de prolifération/hyperplasie endométriale, de cancer de l'endomètre et de sarcome utérin (sauf pré-ménopause)

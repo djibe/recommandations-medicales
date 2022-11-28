@@ -1,14 +1,14 @@
 +++
-title = "Fibrillation atriale (ACFA)"
+title = "Fibrillation atriale (FA)"
 prefix = "la "
 titleSeo = "Fibrillation atriale FA"
 description = "Recommandations ESC 2020 sur la fibrillation auriculaire (FA ou ACFA). ECG, risque embolique CHADSVASC et hémorragique, anticoagulants AOD, antiarythmiques"
 longHtml = true
-synonyms = ["Arythmie complète par fibrillation auriculaire ou ACFA"]
+synonyms = ["Arythmie complète par fibrillation auriculaire (ACFA)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-05T17:43:41+02:00"
 publishdate = "2022-02-10"
-lastmod = "2022-10-15"
+lastmod = "2022-11-28"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS"]
@@ -17,29 +17,29 @@ anglais = ["Atrial fibrillation"]
 sctid = "49436004"
 image = true
 imageSrc = "Fibrillation atriale sur 2 dérivations, PeaBrainC, CC BY-SA 4.0 via Wikimedia Commons"
-todo = "SEO, ESC 2020: chap 11.5 saignement, Source 2013 bonne pour EGS, prev IRC Marijon"
+todo = "ESC 2020: chap 11.5 saignement, Source 2013 bonne pour EGS, prev IRC Marijon"
 +++
 
 {{%article-summary%}}
 
 - FA mal tolérée = appel du {{< phone >}}15{{< /phone >}}
-- Dépister: +65 ans, diabète, HTA
-- Le diagnostic est ECG. Survenue isolée ou sur cardiopathie ?
-- Réévaluer régulièrement les {{< modal-btn modal-chads >}}risques embolique CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}hémorragique HAS-BLED{{< /modal-btn >}}, symptômes, facteurs favorisants
-- Selon {{< modal-btn modal-chads >}}risque embolique{{< /modal-btn >}}: {{< modal-btn modal-aod >}}AOD{{< /modal-btn >}} ou absence d'anticoagulant...
-- voire [AVK]({{< relref "avk.md" >}}) si valve mécanique ou sténose mitrale modérée à sévère
-- Suivi cardiologique, {{< modal-btn modal-bradycardisant >}}ralentir < 110/min{{< /modal-btn >}}, Holter-ECG
+- Dépister la fibrillation atriale (FA ou ACFA) si: +65 ans, diabète, hypertension artérielle
+- Le diagnostic de fibrillation est ECG. Survenue isolée ou sur cardiopathie ?
+- Réévaluer régulièrement les {{< modal-btn modal-chads >}}risques embolique avec le score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}hémorragique HAS-BLED{{< /modal-btn >}}, symptômes, facteurs favorisants
+- Selon le {{< modal-btn modal-chads >}}risque embolique{{< /modal-btn >}}: {{< modal-btn modal-aod >}}anticoagulant oral direct (AOD){{< /modal-btn >}} ou absence d'anticoagulant...
+- voire [antivitamine K (AVK)]({{< relref "avk.md" >}}) si valve mécanique ou sténose mitrale modérée à sévère
+- Prise en charge de la fibrillation: suivi cardiologique, {{< modal-btn modal-bradycardisant >}}ralentir la fréquence cardiaque < 110/min{{< /modal-btn >}}, Holter-ECG
 - Parfois anti-arythmiques pour prévenir la récidive. Contrôler leurs contre-indications
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-Fibrillation atriale (FA)
+Fibrillation atriale (FA ou ACFA)
 : *ex fibrillation auriculaire*
 : Tachyarythmie supraventriculaire irrégulière caractérisée par une activation atriale anarchique (400-600/min) désorganisant la fonction mécanique des atriums. Le flux sanguin est limité avec constitution de thrombus pouvant être libérés sous forme d'emboles artériels. Toutes les cardiopathies peuvent se compliquer de fibrillation atriale.  
 Le nœud atrio-ventriculaire filtre la conduction à 130-180/min sans accélération à l'effort.
-: Le diagnostic est électrocardiographique: intervalles R-R irréguliers, absence d'ondes P et trémulation de la ligne de base sur ECG 12D ou simple dérivation pendant ≥ 30s.
-: Gravité par son **risque thrombo-embolique** (TE, AVC x 5) qui est identique pour toutes les formes cliniques de FA (paroxystique, persistante, permanente) et le risque d'**[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})**.
+: Le diagnostic est électrocardiographique: intervalles R-R irréguliers, absence d'ondes P et trémulation de la ligne de base sur ECG 12 dérivations ou simple dérivation pendant ≥ 30s.
+: Gravité de la fibrillation atriale par son **risque thrombo-embolique** (TE, AVC x 5) qui est identique pour toutes les formes cliniques de FA (paroxystique, persistante, permanente) et le risque d'**[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}})**.
 
 FA clinique
 : Fibrillation atriale symptomatique ou non, documentée par ECG. Enquête: isolée ou sur cardiopathie ?
@@ -170,7 +170,7 @@ Toute suspicion clinique de fibrillation atriale doit être confirmée au plus t
 ### Examen clinique
 
 - Fréquence cardiaque irrégulière  
-{{%class%}}Manuel (se 87-97%, spe 70-81%) ou tensiomètre électronique (se 93-100%, spe 86-92%, *Mairesse 2017*){{%/class%}}
+  {{%class%}}Manuel (se 87-97%, spe 70-81%) ou tensiomètre électronique (se 93-100%, spe 86-92%, *Mairesse 2017*){{%/class%}}
 - Pression artérielle, fréquence respiratoire, poids, taille, IMC
 - Auscultation, pouls périphériques, œdèmes
 - Recherche d'infection aiguë, insuffisance cardiaque, OAP
@@ -178,7 +178,7 @@ Toute suspicion clinique de fibrillation atriale doit être confirmée au plus t
 ### Évaluation gériatrique standardisée
 
 - Cognitif: MMSE  
-Plus rapides: MIS (Memory Impairment Screen), test des 5 mots, test de l'horloge.
+  Plus rapides: MIS (Memory Impairment Screen), test des 5 mots, test de l'horloge.
 - Dépendance: ADL ou IADL
 - Symptômes dépressifs
 - État nutritionnel
@@ -191,9 +191,9 @@ Plus rapides: MIS (Memory Impairment Screen), test des 5 mots, test de l'horloge
 {{%info%}}
 Adresser au cardiologue pour évaluation spécialisée avec **échocardiographie**.
 
-### ECG 12D
+### Électrocardiogramme (ECG)
 
-Systématique pour confirmer le diagnostic: intervalles R-R irréguliers, absence d'ondes P et trémulation de la ligne de base. Il recherche des troubles associés (conduction, ischémie).  
+Électrocardiogramme 12 dérivations systématique pour confirmer le diagnostic: intervalles R-R irréguliers, absence d'ondes P et trémulation de la ligne de base. Il recherche des troubles associés (conduction, ischémie).  
 Diagnostic possible sur simple dérivation pendant ≥ 30s.
 
 Envisager un ECG de dépistage systématique ≥ 75 ans (ou avec dispositif connecté ≥ 65 ans *Lowres 2014 et 2015*).
@@ -210,11 +210,11 @@ Envisager un ECG de dépistage systématique ≥ 75 ans (ou avec dispositif conn
 - Point d'appel: CRP, BH, troponine, albuminémie, BU
 - Si digoxine: digoxinémie
 
-### Autres
+### Autres examens
 
 - Automesure tensionnelle ou MAPA
 - Radiographie thoracique (non systématique selon l'ESC)
-- Polygraphie ventilatoire si FA symptomatique
+- [Polygraphie ventilatoire]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) si FA symptomatique
 
 {{% /collapse %}}
 {{%collapse "Risque embolique CHA2DS2-VASc et de saignement" %}}
@@ -232,7 +232,7 @@ Estimer le risque hémorragique avec le {{< modal-btn modal-hasbled >}}score HAS
 **Un risque hémorragique élevé ne contre-indique pas les anticoagulants** mais doit faire insister sur l'information du patient et intensifier le suivi.
 
 {{% /collapse %}}
-{{%collapse "Traitement général et anticoagulants" %}}
+{{%collapse "Traitement et anticoagulants" %}}
 
 **Prévention:** contrôle des facteurs de risque cardiovasculaire (tabac, HTA, diabète) et limiter la consommation d'alcool.
 
@@ -259,7 +259,7 @@ Contre-indication aux antithrombotiques (aspirine, clopidogrel sauf post-SCA) et
 
 ### Anticoagulation
 
-Recommandation des {{< modal-btn modal-aod >}}**AOD** en 1<sup>re</sup> intention (liste){{< /modal-btn >}} si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}} (même chez la personne âgée).  
+Recommandation des {{< modal-btn modal-aod >}}**AOD** (anticoagulants oraux directs) en 1<sup>re</sup> intention (liste){{< /modal-btn >}} si {{< modal-btn modal-chads >}}anticoagulant indiqué{{< /modal-btn >}} (même chez la personne âgée).  
 [AVK]({{< relref "avk.md" >}}) si valve mécanique ou sténose mitrale modérée à sévère.
 
 Réévaluer fréquemment le risque de saignement avec {{< modal-btn modal-hasbled >}}HAS-BLED{{< /modal-btn >}}.
@@ -275,11 +275,11 @@ Réévaluer fréquemment le risque de saignement avec {{< modal-btn modal-hasble
 
 Adaptation à la fonction rénale selon {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}}.
 
-#### AVK
+#### Antivitamines K (AVK)
 
-Indications: systématique si FA (quelque soit le type) avec valve mécanique ou sténose mitrale modérée à sévère.
+Indications aux AVK: systématique si FA (quelque soit le type) avec valve mécanique ou sténose mitrale modérée à sévère.
 
-[Fiche dédiée]({{< relref "avk.md" >}})
+[Voir le chapitre AVK]({{< relref "avk.md" >}})
 
 INR cible selon la prothèse ou entre 2 et 3.
 AVK avec temps dans la cible ≥ 70%  
@@ -366,6 +366,7 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{% /collapse %}}
 {{%sources%}}
 
+- [US Preventive Services Task Force. Screening for Atrial Fibrillation: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2021.23732)
 - {{< references/esc-cvd >}}
 - [Hindricks G. et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Hear Jour. 2021.](https://doi.org/10.1093/eurheartj/ehaa612)
 - Prescrire Redaction. Fibrillation auriculaire. Premiers Choix Prescrire. Février 2021.

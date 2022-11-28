@@ -62,9 +62,9 @@ Modèles approuvés par *UFC Que Choisir 2021*:
 - Acer Aspire C24-1650 (24 pouces) - 800€
 {.list-group}
 
-Précédentes références: Dell Inspiron 27 7000, Lenovo IdeaCentre AIO 3i FOG1001HFR, Acer Aspire C27-1655.
+Précédentes références: Dell Inspiron 27 7000, Lenovo IdeaCentre AIO 3i FOG1001HFR, Acer Aspire C27-1655. Configurez votre [PC tout en 1 chez PCSpecialist](https://www.pcspecialist.fr/ordinateurs-tout-en-un/) (4,5/5 selon 01Net).
 
-Ou configurez votre [PC tout en 1 chez PCSpecialist](https://www.pcspecialist.fr/ordinateurs-tout-en-un/) (4,5/5 selon 01Net).
+**NB.** L'écran doit faire au moins **27 pouces** avec une dalle mate (pour éviter l'effet miroir).
 
 {{% /collapse %}}
 {{%collapse "La configuration proposée pour travailler efficacement" "show" %}}

@@ -6,10 +6,10 @@ synonyms = ["Adénocarcinome prostatique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-27T19:51:30+02:00"
 publishdate = "2020-09-27"
-lastmod = "2022-10-26"
+lastmod = "2022-11-28"
 specialites = ["urologie"]
 annees = "2022"
-sources = ["EAU", "AFU", "HAS"]
+sources = ["EAU", "AFU", "HAS", "USPTF"]
 tags = ["cancer", "depistage"]
 anglais = ["Prostate Cancer (PCa)"]
 sctid = "254900004"
@@ -89,6 +89,9 @@ EAU
 EV
 : espérance de vie
 
+HBP
+: hypertrophie bénigne de la prostate
+
 ISUP
 : score 2014 de l'{{%lang%}}International Society of Urological Pathology{{%/lang%}} (évolution du Gleason)
 
@@ -161,7 +164,7 @@ Risque diminué de cancer de la prostate si PSA < 1 ng/mL à 40 ans et < 2 à 60
 
 #### Positions des organismes et sociétés savantes sur le dépistage du cancer de la prostate
 
-Positions des différents comités:
+Positions des différents comités, après information éclairée:
 
 - HAS 2013 et INCa 2016  
   Pas de dépistage systématique en population générale ni à haut risque ([INCa 2016. Le dépistage du cancer de la prostate - s'informer avant de décider](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Le-depistage-du-cancer-de-la-prostate-S-informer-avant-de-decider)).
@@ -170,7 +173,9 @@ Positions des différents comités:
 - EAU 2022  
   Intérêt d'une détection précoce des *hommes à risque* ayant une [espérance de vie (EV) de +15 ans](https://ec.europa.eu/eurostat/databrowser/view/demo_mlexpec$DV_291/default/table)
 - AFU 2020  
-  Hommes de 50 (40 si *à risque*) à 70 ans avec EV +10 ans, tous les 2 à 4 ans.
+  Hommes de 50 (40 si *à risque*) à 70 ans avec espérance de vie de +10 ans, tous les 2 à 4 ans.
+- USPTF 2018  
+  Hommes de 55 à 69 ans.
 {{%/info%}}
 
 #### Prise en charge selon le résultat du PSA
@@ -222,6 +227,13 @@ Après prostatectomie totale, la cible du PSA est < 0,2 ng/mL à 6 semaines.
 La surveillance active est proposée pour un cancer à faible risque évolutif chez un homme avec une espérance de vie supérieure à 10 ans.  
 Il s'agit d'une surveillance spécialisée prolongée avec examen clinique, PSA, IRM prostatique et biopsies tous les 3 à 10 ans.
 
+### Complications des traitements
+
+Complications fréquentes survenant dans les suites d'une prostatectomie radicale:
+
+- Incontinence urinaire chronique (20%)
+- [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) (2/3)
+
 {{% /collapse %}}
 {{%collapse "Prise en charge par le dépistage du cancer de la prostate" "show" %}}
 
@@ -250,6 +262,7 @@ graph TB
 - [Collège d'Urologie. Tumeur de prostate. Item 310. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-310-Tumeur-de-prostate.pdf)
 - [Rozet F. et al. Recommandations françaises du Comité de cancérologie de l'AFU – actualisation 2020–2022 : cancer de la prostate. Progrès en Urologie. 2020.](https://www.urofrance.org/recommandation/recommandations-francaises-du-comite-de-cancerologie-de-lafu-actualisation-2020-2022-cancer-de-la-prostate/?date=&themes=&search=%22)
 - [Gandaglia G. et al. Structured Population-based Prostate-specific Antigen Screening for Prostate Cancer: The European Association of Urology Position in 2019. Eur Urol. 2019.](https://www.europeanurology.com/article/S0302-2838(19)30347-1/fulltext)
+- [US Preventive Services Task Force. Screening for Prostate Cancer: US Preventive Services Task Force Recommendation Statement. JAMA. 2018.](https://jamanetwork.com/journals/jama/fullarticle/2680553)
 - [INCa. Synthèse sur les bénéfices et les risques d'un dépistage du cancer de la prostate par dosage du PSA. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Synthese-sur-les-benefices-et-les-risques-d-un-depistage-du-cancer-de-la-prostate-par-dosage-du-PSA)
 - [INCa. La première prescription du PSA chez l'homme asymptomatique. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/La-premiere-prescription-du-PSA-chez-l-homme-asymptomatique)
 - [HAS. Détection précoce du cancer de la prostate. Mai 2013.](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate)

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-02T08:27:41+02:00"
 publishdate = "2020-09-02"
-lastmod = "2022-10-26"
+lastmod = "2022-11-28"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2016"
 sources = ["SFDermato", "SPILF"]
@@ -14,7 +14,7 @@ tags = ["depistage", "HSH", "IST", "prevention", "VIH"]
 anglais = ["Syphilis"]
 sctid = "76272004"
 flowchart = true
-todo = "lire, Prescrire cite la ceftriaxone IM 1g/j 10 à 14j"
+todo = "Prescrire cite la ceftriaxone IM 1g/j 10 à 14j"
 +++
 
 {{%article-summary%}}
@@ -91,7 +91,7 @@ Recommandations pour le dépistage répété des personnes à risque de syphilis
 - Rapports non protégés avec prostitué&bull;es
 - Originaire des DROM, migrants de pays d'endémie (Afrique sub-saharienne, Asie du Sud)
 - Partenaires multiples
-- Contexte d'IST récente
+- **[Contexte d'IST récente](/tags/ist/)**
 - Viol
 
 ### Faciliter la discussion au cabinet
@@ -153,7 +153,7 @@ Ex: Dépilation des sourcils, lésions d'aspect séborrhéiques des sillons naso
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Nombreux diagnostics différentiels, c'est pourquoi on appelle la syphilis la "grande simulatrice".
+Nombreux diagnostics différentiels, c'est pourquoi on appelle la syphilis la << grande simulatrice >>.
 
 - [Acné]({{< relref "acne.md" >}})
 - Alopécie
@@ -346,6 +346,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [US Preventive Services Task Force. Screening for Syphilis Infection in Nonpregnant Adolescents and Adults: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2796685)
 - [Santé Publique France. Bulletin de santé publique VIH-IST. Décembre 2021.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/vih-sida/documents/bulletin-national/bulletin-de-sante-publique-vih-ist.-decembre-2021)
 - [SPILF. Info-antibio N°92. Mai 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2021-05-tt-courts.pdf)
 - Prescrire Rédaction. Syphilis Précoce. Octobre 2020.

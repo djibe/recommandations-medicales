@@ -8,7 +8,7 @@ synonyms = ["Syndrome climatérique", "traitement hormonal substitutif THS"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
 publishdate = "2021-10-19"
-lastmod = "2022-11-22"
+lastmod = "2022-11-28"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF"]
@@ -27,7 +27,7 @@ todo = "écriture SEO, KEY patiente | règles d'hygiène, Chart J1-J31, lire sou
 - La ménopause entraîne une augmentation importante du risque de *[fracture osseuse]({{< relref "osteoporose.md" >}})* et de *maladie cardiovasculaire*
 - Le diagnostic de ménopause est clinique et rétrospectif (la VPP du test au progestatif n'est pas connue)
 - Contraception: interrompre la contraception et suivre l'aménorrhée
-- Bilan d'*insuffisance ovarienne prématurée* si survenue avant 40 ans (*détail à venir*)
+- Bilan d'[insuffisance ovarienne prématurée]({{< relref "insuffisance-ovarienne-prematuree.md" >}}) si survenue avant 40 ans
 - Examen clinique complet et complémentaires adaptés
 - Traitements non hormonaux: arrêt tabac/alcool, activité physique, correction d'un surpoids, yoga, hypnose ...
 - THM: indications et contre-indications précises (voir *Traitement hormonal de la ménopause*)  
@@ -35,7 +35,7 @@ todo = "écriture SEO, KEY patiente | règles d'hygiène, Chart J1-J31, lire sou
 - Débuter quand diagnostic certain et seulement dans les 10 premières années
 - Doses minimales efficaces d'estrogène cutané + progestérone orale combinés continu (ou discontinu ou séquentiels si hémorragies souhaitées)
 
-Chapitres liés: [insuffisance ovarienne prématurée (ménopause précoce)]({{< relref "insuffisance-ovarienne-prematuree.md" >}}), [contraception]({{< relref "contraception.md" >}})
+Chapitres liés: [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}), [contraception]({{< relref "contraception.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -613,6 +613,7 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 {{% /collapse %}}
 {{%sources%}}
 
+- [US Preventive Services Task Force. Hormone Therapy for the Primary Prevention of Chronic Conditions in Postmenopausal Persons: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2797867)
 - [Trémollieres F. et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://doi.org/10.1016/J.GOFS.2021.03.010)
 - Prescrire Redaction. Troubles liés à la ménopause. Premiers choix Prescrire. Juin 2020.
 

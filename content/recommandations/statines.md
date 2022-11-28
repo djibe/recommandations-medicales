@@ -62,4 +62,8 @@ Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**infarctus 
 
 En regard de chaque élément présenté
 
+### À lire
+
+[US Preventive Services Task Force. Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2022.13044)
+
 {{%/sources%}}
