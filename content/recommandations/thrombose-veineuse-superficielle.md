@@ -89,7 +89,7 @@ Conduite à tenir pour une TVS inaugurale selon le résultat de l'écho-doppler:
   - Surveillance clinique et écho-doppler de contrôle dans les 7 jours
 - TVS symptomatique isolée > 5 cm de longueur située à > 3 cm de la jonction saphéno-fémorale
   - dits critères de Calisto avec doses préventives
-  - Fondaparinux SC (Arixtra®) 2,5 mg/j pendant 45 jours
+  - Fondaparinux SC (Arixtra®, gén) 2,5 mg/j pendant 45 jours
 - TVS à < 3 cm de la jonction saphéno-fémorale  
 Anticoagulation curative pendant 3 mois.
 - Pas de données pour les autres cas de TVS

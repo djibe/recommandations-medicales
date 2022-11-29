@@ -1,7 +1,7 @@
 +++
 title = "Infections urinaires communautaires : cystite, pyélonéphrite et infection urinaire masculine"
-titleSeo = "Infections urinaires cystite pyélonéphrite"
 prefix = "les "
+titleSeo = "Infections urinaires pyélonéphrite"
 description = "Recommandations pour la prise en charges des infections urinaires: colonisation urinaire, cystite,  pyélonéphrite et infection urinaire masculine ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

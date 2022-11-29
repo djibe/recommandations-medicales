@@ -248,7 +248,7 @@ Contre-indiqués en instabilité hémodynamique.
   - Énoxaparine 100 UI/kg/12h (Enoxaparine, Inhixa, Lovenox)
   - Nadroparine 85 UI/kg/12h ou 170 UI/kg/24h (Fraxiparine)
   - Tinzaparine 175 UI/kg/24h (Innohep)
-- Fondaparinux (Arixtra)
+- Fondaparinux (Arixtra, gén)
   - < 50 kg: 5 mg/24h
   - 50 à 100 kg: 7,5 mg/24h
   - \> 100 kg: 10 mg/24h

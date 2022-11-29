@@ -183,6 +183,9 @@ Demander au patient l'autorisation de parler de sa consommation d'alcool.
     <li class="nav-item" role="presentation">
       <button aria-controls="face-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#face-panel" id="face-tab" type="button" role="tab">FACE</button>
     </li>
+    <li class="nav-item" role="presentation">
+      <button aria-controls="deta-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#deta-panel" id="deta-tab" type="button" role="tab">DETA-CAGE</button>
+    </li>
   </ul>
   <div class="tab-content card-body">
   <div aria-labelledby="auditc-tab" class="tab-pane fade show active" id="auditc-panel" role="tabpanel">
@@ -190,6 +193,9 @@ Demander au patient l'autorisation de parler de sa consommation d'alcool.
   </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
   <div aria-labelledby="face-tab" class="tab-pane fade" id="face-panel" role="tabpanel">
   {{< scores/face >}}
+  </div>
+  <div aria-labelledby="deta-tab" class="tab-pane fade" id="deta-panel" role="tabpanel">
+  {{< scores/deta >}}
   </div>
   </div>
 </div>

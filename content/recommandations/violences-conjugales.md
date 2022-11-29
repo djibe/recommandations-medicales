@@ -105,7 +105,7 @@ Informer toute victime de violence conjugale sur:
 - Appeler le {{<phone>}}15{{</phone>}} ou aller aux Urgences 24/7
 - L'inciter à déposer plainte maintenant ou plus tard  
   Dès qu'elle se sentira prête et en sécurité pour le faire.
-- Conseiller d'appeler le 3919 (Violences Femmes Info)  
+- Conseiller d'appeler le 3919 (Violences Femmes Info 24/7)  
   ou le {{<phone>}}116 006{{</phone>}} (numéro européen dédié aux victimes d'infractions pénales)
 - Enregistrer toutes ses dépositions, procédures et un double de ses papiers sur [memo-de-vie.org](https://memo-de-vie.org/)
 - Utiliser le mode de navigation internet *Incognito*

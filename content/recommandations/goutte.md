@@ -23,7 +23,7 @@ todo = "relecture, HAS"
 
 {{%article-summary%}}
 
-- Traitement de la crise de goutte
+- Prise en charge de la crise de goutte
   - Glaçage, paracétamol, naproxène/corticoïdes ou colchicine, forcer la diurèse
   - Privilégier l'infiltration en monoarthrite de grosse articulation
 - Traitement de fond de la goutte
@@ -32,7 +32,7 @@ todo = "relecture, HAS"
 - Régime pauvre en purines  
   Perte de poids, arrêt de la bière, réduire: alcool/sodas/jus, viandes/abats, crustacés, laits maigres, substituer un diurétique.
 - Contrôle des [facteurs de risque cardiovasculaire](/tags/risque-cardiovasculaire/)
-- Éducation thérapeutique et observance ++
+- Éducation thérapeutique et observance
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -409,12 +409,11 @@ Intérêt de colchicine prophylactique.
 {{%sources%}}
 
 - Prescrire Rédaction. Crise de goutte. Premiers choix Prescrire. Mars 2021.
-- [Société Française de Rhumatologie. Recommandations 2020 de la Société française de rhumatologie pour la prise en charge de la goutte : traitement des crises de goutte. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.008)
-- [Société Française de Rhumatologie. Recommandations de la Société française de rhumatologie pour la prise en charge de la goutte : le traitement hypo-uricémiant. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.009)
+- [Latourte A. et al. Recommandations 2020 de la Société française de rhumatologie pour la prise en charge de la goutte : traitement des crises de goutte. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.008)
+- [Pascart T. et al. Recommandations de la Société française de rhumatologie pour la prise en charge de la goutte : le traitement hypo-uricémiant. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.009)
 - [FitzGerald JD. et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res. 2020.](https://onlinelibrary.wiley.com/doi/full/10.1002/acr.24180)
-- [EULAR. 2016 updated EULAR evidence-based recommandations for the management of gout. 2016.](https://ard.bmj.com/content/76/1/29)
+- [Richette P. et al. 2016 updated EULAR evidence-based recommendations for the management of gout. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/1/29)
 - [ANSM. Allopurinol et risque de survenue de toxidermies graves – Lettre aux professionnels de santé. 25 Février 2013. (PDF)](http://pharmacovigilance-limoges.fr/sites/default/files/files/Alertes/pi-130225-allopurinol-2.pdf)
-- [Société Française de Rhumatologie. Traitement de la goutte. Revue du Rhumatisme. 2007. (PDF)](https://www.em-consulte.com/article/59851/article/traitement-de-la-goutte)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8.](http://www.lecofer.org/item-cours-1-19-0.php#ch_2_1)
 
 {{%/sources%}}

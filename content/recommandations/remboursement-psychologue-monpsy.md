@@ -38,7 +38,7 @@ todo = "échelles"
 - Adultes en souffrance psychique d'intensité légère à modérée
   - Trouble anxieux ({{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}})
   - Trouble dépressif ({{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}})
-  - Mésusage tabac, [alcool]({{< relref "sevrage-alcool.md" >}}) ({{< modal-btn modal-auditc >}}AUDIT-C{{< /modal-btn >}} < 10) ou cannabis sans dépendance  
+  - Mésusage du tabac, [alcool]({{< relref "sevrage-alcool.md" >}}) ({{< modal-btn modal-auditc >}}AUDIT-C{{< /modal-btn >}} < 10) ou cannabis sans dépendance  
     {{%class%}}En cas de dépendance, adresser en [CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html).{{%/class%}}
   - Trouble du comportement alimentaire (sans gravité)
 
@@ -115,5 +115,10 @@ Scores: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal
 {{% modal title="Score HAD" id="modal-had"%}}
 
 {{< scores/had >}}
+
+{{% /modal %}}
+{{% modal title="Score CAST de mésusage du cannabis" id="modal-cast"%}}
+
+{{< scores/cast >}}
 
 {{% /modal %}}

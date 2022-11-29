@@ -376,6 +376,8 @@ graph TB
 - [SFNCM. Dénutrition chez l'adulte de 18 à 69 ans et la personne de 70 ans et plus. (PDF)](https://www.ameli.fr/sites/default/files/Documents/Affiche_D%C3%A9nutrtion_SFNCM_14.pdf)
 - [Lutte contre la dénutrition](https://www.luttecontreladenutrition.fr/)
 
+[Webinaire à venir: Troubles de la déglutition - Le plaisir de manger quand tout passe mal](https://www.iledefrance.ars.sante.fr/webinaire-troubles-de-la-deglutition-le-plaisir-de-manger-quand-tout-passe-mal)
+
 {{%/sources%}}
 {{% modal title="Définition de la sarcopénie" id="modal-sarcopenie"%}}
 

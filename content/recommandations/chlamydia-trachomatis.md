@@ -1,7 +1,7 @@
 +++
 title = "Infections à Chlamydia trachomatis"
 prefix = "les "
-titleSeo = "Infections Chlamydia trachomatis"
+titleSeo = "Infections Chlamydia"
 description = "Recommandations pour le traitement des infections à Chlamydia trachomatis. Dépistage des partenaires, prélèvement vaginal ou urines avec PCR, bilan des IST ..."
 synonyms = ["Chlamydiose"]
 auteurs = ["Jean-Baptiste FRON"]

@@ -1,5 +1,6 @@
 +++
 title = "Demande de téléexpertise par le médecin généraliste"
+titleSeo = "Demande de téléexpertise"
 description = "Demander une téléexpertise médicale pour un patient. Comment faire ? Comment facturer la téléexpertise ? Quelles plateformes utiliser ?"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T09:25:00+02:00"
@@ -60,7 +61,7 @@ Le médecin demandeur est dit *requérant* et le médecin expert est dit *requis
 6. Récupération du compte-rendu de téléexpertise et mise du rapport dans le dossier du patient et son DMP
 7. Feuille de soins Sesam sans vitale pour le patient  
   Cotation RQD (requérant, 10€ sans autre acte ou majoration) en **AMO 100%**
-8. Confirmer la création de la FSE pour que l'expert (le requis) puisse faire la sienne avec les infos patient et vos coordonnées
+1. Confirmer la création de la FSE pour que l'expert (le requis) puisse faire la sienne avec les infos patient et vos coordonnées
 
 {{% /collapse %}}
 {{%collapse "Comment facturer une téléexpertise ?" %}}

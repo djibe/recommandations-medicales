@@ -53,8 +53,8 @@ title = "Recommandations Médicales"
   css =         "css/style.css"
   bs_js =       "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
   bs_js_hash =  "sha256-GRJrh0oydT1CwS36bBeJK/2TggpaUQC6GzTaTQdZm0k="
-  jquery =      "https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"
-  jquery_hash = "sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI="
+  jquery =      "https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.slim.min.js"
+  jquery_hash = "sha256-w8CvhFs7iHNVUtnSP0YKEg00p9Ih13rlL9zGqvLdePA="
 
 [params.dateformat]
 # HTML doc : https://developer.mozilla.org/fr/docs/Web/HTML/Element/time

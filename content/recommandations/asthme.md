@@ -17,7 +17,7 @@ anglais = ["Asthma"]
 sctid = "195967001"
 image = true
 imageSrc = "Illustration de l'asthme par brgfx / Freepik"
-todo = "doses Symbicort turbuhaler, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, rhinite allergique"
+todo = "vidéo DEP, doses Symbicort turbuhaler, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, rhinite allergique"
 +++
 
 {{%article-summary%}}

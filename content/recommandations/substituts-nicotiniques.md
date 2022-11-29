@@ -15,23 +15,23 @@ tags = ["asthme", "BPCO", "cancer", "tabac"]
 anglais = ["Product containing only nicotine"]
 sctid = "776904000"
 image = true
-imageSrc = "Illustration de Freepik"
-todo = "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_tests_fagerstrom.pdf"
+imageSrc = "La journée mondiale sans tabac par Freepik"
 +++
 
 ## Les substituts nicotiniques remboursés pour le sevrage tabagique {.typography-headline-5}
 
-Liste des substituts nicotiniques remboursés sur prescription par la Sécurité Sociale en 2022, sans limite de dépenses en vue de l'arrêt du tabac.
+Liste des substituts nicotiniques remboursés sur prescription par la Sécurité Sociale en 2022, sans limite de remboursement en vue de l'arrêt du tabac.
 
-### Aide au choix des médicaments remboursés à 65% par l'Assurance Maladie sur prescription médicale {.typography-subtitle-1 .text-black-primary}
+<div class="card card-body card-primary-action rounded-lg mw-248" role="button" data-toggle="modal" href="#modal-fagerstrom" style="background: var(--bg-hex)">
+  <h3 class="card-title">Évaluation de la dépendance tabagique par le test de Fagerström</h3>
+</div>
+<hr class="my-5">
 
-<hr class="my-3">
-<div class="my-3 my-lg-4" style="max-width: 800px">
+## Aide au choix des traitements nicotiniques de substitution remboursés à 65% par l'Assurance Maladie sur prescription médicale
 
-#### Nombre de cigarettes quotidiennes {.typography-headline-6}
+<div class="my-4" style="max-width: 800px">
 
-{{< modal-btn modal-fagerstrom >}}Évaluation de la dépendance tabagique par le test de Fagerström{{< /modal-btn >}}
-{.font-weight-bold .my-4}
+### Nombre de cigarettes quotidiennes {.typography-headline-6}
 
 <div class="d-flex my-3">
   <label class="radio-card m-3" data-toggle="collapse" data-target="#patchs-moins20">
@@ -86,7 +86,7 @@ Une cigarette = environ 1 mg de nicotine
 
 #### Gommes à mâcher {.typography-overline .font-weight-bolder .mt-5}
 
-Mâcher 1 fois puis placer entre gencive et joue. Mâcher à nouveau en cas d'envie de fumer.
+Mâcher jusqu'à ressentir le goût puis placer entre la gencive et la joue. Mâcher à nouveau en cas d'envie de fumer (inefficace quand salive déglutie).
 {.typography-body-2 .text-black-secondary}
 
 <ul class="list-group">
@@ -129,10 +129,14 @@ Laisser fondre sous la langue. Possibilité de le retirer quand l'envie est pass
 <ul class="list-group">
   {{< list-item title="Nicotine EG 1 mg/dose" subtitle="1 à 2 pulv en cas d'envie (réitérer après qq minutes si insuff.). Max 64/j" >}}
 </ul>
+
+Il est déconseillé de poursuivre le spray plus de 6 mois.
+{.my-3}
+
 </div>
-  <!--+20-->
-  <div class="collapse" id="patchs-plus20" data-parent="#accordionExample">
-    <div class="card card-body rounded px-3 mb-3">
+<!--+20-->
+<div class="collapse" id="patchs-plus20" data-parent="#accordionExample">
+  <div class="card card-body rounded px-3 mb-3">
 
 #### Exemple de prescription {.card-text}
 

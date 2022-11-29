@@ -276,6 +276,8 @@ Le don du sang est contre-indiqué durant quatre semaines après les vaccination
 
 {{< youtube id="u31xRtiITzk" title="Administration du vaccin Rotarix (CDC)" >}}
 
+{{< youtube id="QzhPJ8c5A7E" title="Webinaire Les Mardis de la Vaccination" >}}
+
 - [Ministère de la Santé. La vaccination du nourrisson contre les rotavirus. Questions/Réponses pour les professionnels de santé. Novembre 2022.](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-ps_nov22.pdf)
 - [Omedit Auvergne. Vaccination et Chimiothérapie. 22/07/2022.](https://www.omedit-auvergne-rhone-alpes.ars.sante.fr/vaccination-et-chimiotherapie)
 - [HAS. La HAS recommande la vaccination des nourrissons contre les infections à rotavirus. 12/07/2022.](https://www.has-sante.fr/jcms/p_3352137/fr/la-has-recommande-la-vaccination-des-nourrissons-contre-les-infections-a-rotavirus)
