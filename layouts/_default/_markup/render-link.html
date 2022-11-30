@@ -1,18 +1,1 @@
-{{- $parsedTitle := dict -}}
-{{- with .Title -}}
-  {{- $parsedTitle = partial "functions/parse-title-attribute.html" . -}}
-{{- end -}}
-{{- $baseurl := urls.Parse .Page.Site.BaseURL -}}
-{{- $desturl := urls.Parse .Destination -}}
-
-<a href="{{ .Destination | safeURL }}"
-  {{- with $parsedTitle.title }} title="{{ . }}"{{- end -}}
-  {{- with $parsedTitle.attributes -}}
-    {{- range $k, $v := . -}}
-      {{- printf " %s=%q" $k $v | safeHTMLAttr -}}
-    {{- end -}}
-  {{- end -}}
-  {{- if and (strings.HasPrefix .Destination "http") (not (strings.HasPrefix $desturl.Host $baseurl.Host)) }} target="_blank" rel="external nofollow noopener"{{ end -}}
-  >{{ .Text | safeHTML }}</a>
-
-{{- /* Strip trailing space. Code by djibe, thanks to jmooring & killbus */ -}}
+<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank" rel="external nofollow noopener"{{ end }}>{{ .Text | safeHTML }}</a>
