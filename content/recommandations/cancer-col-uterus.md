@@ -1,5 +1,5 @@
 +++
-title = "Cancer du col de l'utérus"
+title = "Cancer du col de l'utérus et papillomavirus"
 prefix = "le "
 titleSeo = "Cancer du col de l'utérus"
 description = "Recommandations pour le dépistage du cancer du col de l'utérus et des papillomavirus. Vaccination Gardasil, frottis cervico-vaginal et test HPV haut risque"
@@ -7,7 +7,7 @@ synonyms = ["Papillomavirus humains HPV", "dysplasies et condylomes"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2021-01-18T10:55:00+02:00"
 publishdate = "2022-04-20"
-lastmod = "2022-05-30"
+lastmod = "2022-11-30"
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
 sources = ["INCa", "HAS", "MinSanté"]
@@ -22,12 +22,11 @@ todo = "relecture INCa, pharynx, Les infections a HPV deviennent indétectables 
 
 {{%article-summary%}}
 
-- Infection HPV nécessaire à l'apparition du cancer et des condylomes
+- Infection HPV nécessaire à l'apparition du cancer de l'utérus et des condylomes
 - << Le préservatif peut limiter le risque d'infection mais n'assure pas une protection efficace >> (*INCa*)
-- Vaccination pour tous de 11 à 19 ans  
-  Étendue à 26 ans pour les [HSH]({{< relref "hsh.md" >}}).
-- Pas de vaccination en une seule dose avant changement de l'AMM (*Infovac*)
-- Dépistage organisé du cancer du col de l'utérus de 25 à 65 ans (test HPV-HR après 30 ans)
+- Vaccination papillomavirus pour tous de 11 à 19 ans  
+  Étendue à 26 ans pour les [HSH]({{< relref "hsh.md" >}}). Pas de vaccination en une seule dose avant changement de l'AMM (*Infovac*)
+- Dépistage organisé du cancer du col de l'utérus de 25 à 65 ans (test HPV haut risque après 30 ans)
 - Dépistage ciblé du cancer anal
 
 Documents patient: [dépistage du cancer du col (PDF)](https://www.e-cancer.fr/content/download/336635/4809888/file/Depliant%20Uterus%202022_148x210_3%20volets%20DEPCCU21_BD.pdf) et [vaccination HPV (PDF)](https://www.e-cancer.fr/content/download/336636/4809898/file/Depliant%20Papillomavirus%20148x210%20HPV%20DEPVACHPV21%202022%20BD.pdf), [prise en charge d'un cancer du col de l'utérus (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-09/ald30_gp_coluterin_web.pdf)
@@ -53,9 +52,9 @@ Cancer du col de l'utérus
 - Parité élevée
 - Génotype de l'HPV (16, 18), infection par plusieurs types d'HPV à risque
 - Tabagisme
-- VIH
-- IST
-- Utilisation prolongée de contraceptifs oraux
+- [VIH]({{< relref "vih-sida.md" >}})
+- [IST](/tags/ist/)
+- Utilisation prolongée de [contraceptifs oraux]({{< relref "contraception.md" >}})
 {.list-group}
 
 > *HAS 2010*
@@ -74,7 +73,7 @@ Cancer du col de l'utérus
   {{%class%}}90 cas annuels.{{%/class%}}
 - Cancer du pharynx
 
-Cancer (carcinome épidermoïde) et lésions précancéreuses sous-entendues.
+*Par "cancer", sous-entendu carcinome épidermoïde et lésions précancéreuses.*
 
 ### Épidémiologie des atteintes liées aux papillomavirus
 
@@ -83,7 +82,7 @@ Cancer (carcinome épidermoïde) et lésions précancéreuses sous-entendues.
 - **Mortalité:** 1100 décès/an (lire [Taux de participation aux dépistages]({{< relref "participation-depistage-cancers.md" >}}))  
   Un dépistage de toute la population entraînerait une diminution de 90%.
 - 80% des hommes et des femmes sexuellement actifs seront infectés par les papillomavirus durant leur vie
-- **Couverture vaccinale:** 24% des jeunes filles âgées de 16 ans ont un schéma vaccinal complet (2018)
+- **Couverture vaccinale:** 43,6% des jeunes filles en France métropolitaine (2021)
 
 > *INCa*
 
@@ -225,6 +224,7 @@ En cas de ménopause induite, un [traitement hormonal]({{< relref "menopause.md"
 {{% /collapse %}}
 {{%sources%}}
 
+- [Hanguehard R. et al. Couverture vaccinale contre les infections à papillomavirus humain des filles âgées de 15 à 18 ans et déterminants de vaccination, France, 2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_3.html)
 - {{< references/calendrier-vaccinal >}}
 - [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. 24/01/2022.](https://www.e-cancer.fr/Professionnels-de-sante/Facteurs-de-risque-et-de-protection/Agents-infectieux/Prevenir-les-cancers-lies-aux-HPV)
 - [Vaccination Info Service. Les infections à papillomavirus humains (HPV).](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Les-Infections-a-Papillomavirus-humains-HPV)

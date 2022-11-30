@@ -27,7 +27,7 @@ todo = "SPF, prise de poids, rechute HAS p.33+35+36"
 - Note personnelle: informer sur le caractère gratuit et illimité sur ordonnance de la prise en charge des traitements d'aide à l'arrêt
 - Pour tous les fumeurs: proposer une prise en charge par des substituts nicotiniques pour viser l'abstinence voire une réduction de la consommation de tabac
 - {{< modal-btn modal-fagerstrom >}}Score de Fagerström bref{{< /modal-btn >}} et [Liste des substituts nicotiniques remboursés]({{< relref "substituts-nicotiniques.md" >}})
-- Ressources patient: [Tabac Info Service](https://www.tabac-info-service.fr) ([appli](https://play.google.com/store/apps/details?id=fr.cnamts.tis), ou {{<phone>}}3989{{</phone>}}), [annuaire des tabacologues](https://www.tabac-info-service.fr/je-trouve-un-tabacologue)
+- Ressources patient: [Tabac Info Service](https://www.tabac-info-service.fr) ([appli avec e-coaching](https://play.google.com/store/apps/details?id=fr.cnamts.tis), ou {{<phone>}}3989{{</phone>}}), [annuaire des tabacologues](https://www.tabac-info-service.fr/je-trouve-un-tabacologue)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -35,7 +35,9 @@ todo = "SPF, prise de poids, rechute HAS p.33+35+36"
 Tabagisme
 : Usage de tabac quelle que soit la forme: fumé (cigarette, cigare, tabac à rouler, pipe, narguilé), prisé, mâché (snus), associé ou non à d'autres substances (joint), etc.
 : Risque de complications quelque soit la forme, la durée et la quantité (BPCO, maladie cardiovasculaire). Les risques sont identiques pour le tabagisme passif.
-Le tabagisme est la deuxième cause de mortalité mondiale (5,1 millions de décès/an) et la première cause évitable.
+Le tabagisme est la deuxième cause de mortalité mondiale (5,1 millions de décès/an) et la première cause évitable de mortalité.
+
+> Il n'existe pas de seuil au-dessous duquel fumer ne représente pas de risque (*SPF*)
 
 Craving
 : Besoin irrépressible de consommer. Le craving est un symptôme de la dépendance.
@@ -58,12 +60,18 @@ Bénéfices importants sur la morbi-mortalité (cardiovasculaire et cancer du po
 
 ### Épidémiologie du tabagisme en France
 
-- Décès annuels: 78.000 (2010 soit 210 morts/j)  
+- **Décès annuels:** 78.000 (2010 soit 210 morts/j)  
   Répartition: 47.000 cancers, 20.000 cardiovasculaires et 11.000 par maladies respiratoires.
-- Responsable d'1/4 des cancers (90% des cancers bronchopulmonaires) et 86% des BPCO
+- 1/3 des cancers attribuables (90% des cancers bronchopulmonaires) et 80% des BPCO
 - Première cause de mortalité cardiovasculaire évitable
+- **Fumeurs quotidiens:** 25%
+- 1 fumeur sur 2 meurt de son tabagisme
+- 1100 morts/an suite au tabagisme passif
+- Coût pour la société: 120 milliards € annuels (TODO: source ?)
 
 Début d'adolescence est prédictif de dépendance adulte et d'autres dépendances.
+
+> Données *Santé Publique France*
 
 ### Abréviations
 
@@ -156,6 +164,8 @@ Examens à envisager chez le fumeur:
 - Dépistages: {{< modal-btn modal-depistage-bpco >}}BPCO{{< /modal-btn >}}, coronaropathie, {{< modal-btn modal-depistage-prevalent >}}pathologie vasculaire{{< /modal-btn >}}
 - [Dépistage du cancer du poumon]({{< relref "cancer-poumon.md" >}})
 
+TODO: AAA
+
 {{% /collapse %}}
 {{%collapse "Traitement pour le sevrage tabagique" %}}
 
@@ -167,6 +177,7 @@ Prise en charge du patient souhaitant arrêter de fumer:
 - Tabacologue ([annuaire](https://www.tabac-info-service.fr/je-trouve-un-tabacologue))  
   Indications: demande du patient, rechutes répétées, accompagnement psychologique spécifique, poly-addictions, comorbidités psychiatriques.
 - Soutien psychologique ± TCC
+- Suivi bucco-dentaire rigoureux
 - Voire traitement médicamenteux
 - Auto-support: [Tabac Info Service](https://www.tabac-info-service.fr/), appli [Kwit](https://play.google.com/store/apps/details?id=fr.kwit.android)
 
@@ -210,10 +221,6 @@ Signes de surdosage
 Traitement de deuxième intention chez l'adulte.
 
 CI grossesse/allaitement
-
-#### Bupropion
-
-TODO:
 
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus" %}}
@@ -272,16 +279,22 @@ TODO: Évaluation du sentiment d'efficacité
 - Troubles de cicatrisation et vieillissement cutané
 - Complications périopératoires
 - Femmes: ostéoporose, ménopause précoce, AVC par contraception combinée
-- Grossesse: GEU x2, fausse-couche précoce x3, MFIU, accouchement prématuré, RCIU et petit poids de naissance (-300g)
+- Grossesse: GEU x2 (35% des GEU), fausse-couche précoce x3, MFIU (+47%), accouchement prématuré, RCIU et petit poids de naissance (-300g), réduction des capacités scolaires et cognitives de l'enfant, malformations congénitales
+- Dysfonction érectile
+- Tabagisme passif
+  - IDM, AVC (x2), cancer du poumon (+25% si conjoint fume) ou maladie respiratoire, cancer des sinus
+  - Nourrisson: mort subite x2
+  - Enfant: otites, asthme, pneumopathie
 
-Autres maladies avec sur-représentation de fumeurs: Algies vasculaires de la face, maladie de Verneuil.
+Autres maladies avec sur-représentation de fumeurs: Algies vasculaires de la face, maladie de Verneuil, gastrite, ulcère gastro-duodénal, cataracte
 
 Reproduction: réduit fertilité chez les deux sexes, les chances en AMP, allonge le délai de conception, aggrave l'effet d'âge sur la fécondité, augmente morbi-mortalité péri-natales.
-
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Santé Publique France. Tabac.](https://www.santepubliquefrance.fr/determinants-de-sante/tabac)
+- [HAS. Sevrage tabagique : des outils pour repérer et accompagner les patients. Article. 2019.](https://www.has-sante.fr/jcms/pprd_2974738/fr/sevrage-tabagique-des-outils-pour-reperer-et-accompagner-les-patients#:~:text=La%20HAS%20propose%20des%20modalit%C3%A9s,accompagner%20dans%20le%20sevrage%20tabagique)
 - [HAS. Arrêt de la consommation de tabac : du dépistage individuel au maintien de l'abstinence en premier recours. 2014.](https://www.has-sante.fr/jcms/c_1718021/fr/arret-de-la-consommation-de-tabac-du-depistage-individuel-au-maintien-de-l-abstinence-en-premier-recours)
 - [Tabac Info Service Pro](https://pro.tabac-info-service.fr/Je-m-informe/S-informer)
 
@@ -290,7 +303,6 @@ Reproduction: réduit fertilité chez les deux sexes, les chances en AMP, allong
 - [INCa. Panorama des cancers en France - Édition 2022.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Panorama-des-cancers-en-France-Edition-2022)
 - [INCa. Estimations nationales de l'incidence et de la mortalité par cancer en France métropolitaine entre 1990 et 2018. Volume 1 - Tumeurs solides. 2019.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Rapport-Volume-1-Tumeurs-solides-Estimations-nationales-de-l-incidence-et-de-la-mortalite-par-cancer-en-France-metropolitaine-entre-1990-et-2018-juillet-2019)
 - [INCa. Arrêt du tabac dans la prise en charge du patient atteinte de cancer.](https://pro.tabac-info-service.fr/var/tis/storage/original/application/a86320a695ab5508545dcfc37f450481.pdf)
-- [Santé Publique France. Tabac.](https://www.santepubliquefrance.fr/determinants-de-sante/tabac)
 - Addictions France
 - OFDT
 - intervenir-addictions.fr
