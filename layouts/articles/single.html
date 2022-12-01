@@ -22,6 +22,26 @@
               </header>
               <div class="mt-4 recommandation__content projet__content">
                 {{ .Content }}
+                <div class="d-flex flex-wrap justify-content-evenly" style="margin-top: 80px">
+                  {{with .NextInSection }}
+                  <div class="card card-list article mw-248 m-2">
+                    <div class="card-img-top" style="background-image: url('/images/articles/{{.File.BaseFileName}}.webp')"></div>
+                    <div class="card-header">
+                      <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}" rel="next">{{ .Title }}</a></h2>
+                      {{ with .Params.Subtitle}}<h3 class="card-subtitle">{{ . }}</h3>{{end}}
+                    </div>
+                  </div>
+                  {{end}}
+                  {{with .PrevInSection }}
+                  <div class="card card-list article mw-248 m-2">
+                    <div class="card-img-top" style="background-image: url('/images/articles/{{.File.BaseFileName}}.webp')"></div>
+                    <div class="card-header">
+                      <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}" rel="prev">{{ .Title }}</a></h2>
+                      {{ with .Params.Subtitle}}<h3 class="card-subtitle">{{ . }}</h3>{{end}}
+                    </div>
+                  </div>
+                  {{end}}
+                </div>
               </div>
             </div>
           </article>
