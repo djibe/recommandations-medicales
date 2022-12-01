@@ -34,7 +34,7 @@ todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, E
 {{%collapse "Définitions" %}}
 
 Cancer du sein
-: Premier cancer de la femme (58.459 en 2018 en métropole). 90% des cancers du sein sont diagnostiqués suite à un dépistage.
+: Premier cancer de la femme (58.500 en 2018 en métropole). 90% des cancers du sein sont diagnostiqués suite à un dépistage.
 : Histologiquement, il s'agit principalement d'adénocarcinomes (95%) le plus souvent *intra-canalaires*, parfois *lobulaires*. Les métastases disséminent par fréquence: os > foie > poumon > moelle > cerveau.  
 Délai de 6 à 10 ans entre la mutation cancéreuse et une tumeur de 2 cm.
 : Les formes familiales représentent 15-20% des cancers du sein.

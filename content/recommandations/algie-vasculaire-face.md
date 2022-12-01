@@ -18,7 +18,7 @@ sctid = "193031009"
 flowchart = true
 image = false
 imageSrc = ""
-todo = "Examen, collège"
+todo = "SEO, Examen, collège"
 +++
 
 {{%article-summary%}}

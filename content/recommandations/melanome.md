@@ -67,9 +67,9 @@ Indice de Breslow, de Clark, ulcération, index mitotique, emboles vasculaires.
 
 - 13<sup>e</sup> cancer de la femme, 7<sup>e</sup> de l'homme
 - **Incidence:** 15.500 nouveaux cas en 2018  
-  {{%class%}}47% de femmes. Incidence en augmentation de 10 %/an depuis 50 ans. x50 sur période 1990-2018{{%/class%}}
+  {{%class%}}47% de femmes. Incidence en augmentation de 3,4 %/an (période 2010-2018). x50 sur période 1990-2018{{%/class%}}
 - Âge moyen au diagnostic: 56 ans.
-- Décès annuels: 1783 en 2017  
+- Décès annuels: 1783 (2017)  
 {{%class%}}58% d'hommes. 1,2% des décès par cancer.{{%/class%}}
 - **Survie à 5 ans:** 88% en stade localisé versus 18% si métastatique.
 - 80% surviennent de novo sur peau saine et 20% sur nævus pré-existant.

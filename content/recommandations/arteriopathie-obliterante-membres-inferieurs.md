@@ -18,7 +18,7 @@ sctid = "789703007"
 flowchart = true
 image = true
 imageSrc = "Illustration par macrovector / Freepik"
-todo = "centres réadapt vasculaire, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/33401955/, https://pubmed.ncbi.nlm.nih.gov/1474406/, Éducation thérapeutique"
+todo = "SEO, centres réadapt vasculaire, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/33401955/, https://pubmed.ncbi.nlm.nih.gov/1474406/, Éducation thérapeutique"
 +++
 
 {{%article-summary%}}

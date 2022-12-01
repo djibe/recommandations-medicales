@@ -21,7 +21,7 @@ todo = "SEO anévrisme ou anévrysme ?"
 
 {{%article-summary%}}
 
-Indications au dépistage de l'anévrysme par échodoppler:
+Indications au dépistage de l'anévrysme de l'aorte par échodoppler:
 
 - Homme de 65 à 75 ans avec tabagisme actif ou sevré depuis < 20 ans
 - Homme de 50 à 75 ans avec antécédent familial d'AAA au 1<sup>er</sup> degré (parents/fratrie)

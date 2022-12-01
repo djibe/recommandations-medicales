@@ -86,6 +86,9 @@ KFRE
 
 MRC
 : maladie rénale chronique
+
+RAC
+: Ratio albuminurie/créatininurie (mg/g)
 {.dl-inline}
 
 ### Épidémiologie de l'insuffisance rénale chronique
