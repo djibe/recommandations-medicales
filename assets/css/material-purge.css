@@ -424,6 +424,10 @@ summary {
   display: list-item;
 }
 
+[hidden] {
+  display: none !important;
+}
+
 @-ms-viewport {
   width: device-width;
 }
@@ -646,14 +650,6 @@ h6,
 .lead,
 .typography-headline-6 {
   font-size: 1.25rem;
-  font-weight: 400;
-  letter-spacing: 0.15px;
-  line-height: normal;
-}
-
-
-.typography-subtitle-1 {
-  font-size: 1rem;
   font-weight: 400;
   letter-spacing: 0.15px;
   line-height: normal;
@@ -1246,6 +1242,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 }
 
 [class*='btn-flat'],
+.btn-link,
 .card-link,
 .modal .btn,
 .modal .card-link {
@@ -1263,6 +1260,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 
 [class*='btn-flat'],
 [class*='btn-outline'],
+.btn-link,
 .card-link,
 .modal .btn,
 .modal .card-link {
@@ -1274,6 +1272,9 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 [class*='btn-outline']:hover,
 [class*='btn-outline']:focus,
 [class*='btn-outline']:active,
+.btn-link:hover,
+.btn-link:focus,
+.btn-link:active,
 .card-link:hover,
 .card-link:focus,
 .card-link:active,
@@ -1286,7 +1287,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
   box-shadow: inherit;
 }
 
-.btn-flat-primary, .card-link, .btn-flat-primary:hover, .card-link:hover, .btn-flat-primary:focus, .card-link:focus,
+.btn-flat-primary, .btn-link, .card-link, .btn-flat-primary:hover, .btn-link:hover, .card-link:hover, .btn-flat-primary:focus, .btn-link:focus, .card-link:focus,
 .btn-outline-primary,
 .btn-outline-primary:hover,
 .btn-outline-primary:focus,
@@ -1296,19 +1297,19 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
   color: #4150f5;
 }
 
-.btn-flat-primary:hover, .card-link:hover,
+.btn-flat-primary:hover, .btn-link:hover, .card-link:hover,
 .btn-outline-primary:hover,
 .modal .btn-primary:hover {
   background-image: linear-gradient(to bottom, rgba(65, 80, 245, 0.04), rgba(65, 80, 245, 0.04));
 }
 
-.btn-flat-primary:focus, .card-link:focus,
+.btn-flat-primary:focus, .btn-link:focus, .card-link:focus,
 .btn-outline-primary:focus,
 .modal .btn-primary:focus {
   background-image: linear-gradient(to bottom, rgba(65, 80, 245, 0.12), rgba(65, 80, 245, 0.12));
 }
 
-.btn-flat-primary:disabled, .card-link:disabled, .btn-flat-primary.disabled, .disabled.card-link,
+.btn-flat-primary:disabled, .btn-link:disabled, .card-link:disabled, .btn-flat-primary.disabled, .disabled.btn-link, .disabled.card-link,
 .btn-outline-primary:disabled,
 .btn-outline-primary.disabled,
 .modal .btn-primary:disabled,
@@ -4099,11 +4100,17 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 }
 
 
+.py-0 {
+  padding-top: 0 !important;
+}
+
+
 .px-0 {
   padding-right: 0 !important;
 }
 
-.pb-0 {
+.pb-0,
+.py-0 {
   padding-bottom: 0 !important;
 }
 
@@ -4268,10 +4275,6 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 
 .font-italic {
   font-style: italic !important;
-}
-
-.text-black-primary {
-  color: rgba(0, 0, 0, 0.87) !important;
 }
 
 .text-black-secondary {

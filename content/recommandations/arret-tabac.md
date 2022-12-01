@@ -19,7 +19,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "Composants toxiques de la cigarette par La Ligue contre le cancer"
-todo = "Collège, prise de poids, aider à gérer la rechute: HAS p.33+35+36"
+todo = "varénicline, Collège, prise de poids, aider à gérer la rechute: HAS p.33+35+36"
 +++
 
 {{%article-summary%}}
@@ -291,16 +291,18 @@ Signes de surdosage
 
 #### Varénicline
 
+*À développer*
+
 Traitement de deuxième intention chez l'adulte.
 
-CI grossesse/allaitement
+Contre-indiqué en cas de grossesse et allaitement.
 
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus" %}}
 
 ### Vidéos de formation
 
-{{< video poster="https://splf.fr/wp-content/uploads/2021/11/Webinaire-2021-11-16-v2-1300-500.png" mp4="http://docs.splf.fr/videos/Webinaires/2021/Webinaire-SPLF-2021-11-16.mp4" description="Webinaire SPLF: Tabac comment aider nos patients à arrêter de fumer" width="600" height="330" >}}
+{{< video poster="https://splf.fr/wp-content/uploads/2021/11/Webinaire-2021-11-16-v2-1300-500.png" mp4="https://docs.splf.fr/videos/Webinaires/2021/Webinaire-SPLF-2021-11-16.mp4" description="Webinaire SPLF: Tabac comment aider nos patients à arrêter de fumer" width="600" height="330" >}}
 
 ### Entretien motivationnel
 
@@ -351,6 +353,10 @@ graph TB
 - [Association Addictions France (ex ANPAA)](https://addictions-france.org)
 - [Intervenir Addictions](https://intervenir-addictions.fr)
 - [Observatoire français des drogues et des tendances addictives (OFDT)](https://www.ofdt.fr)
+
+### À lire
+
+[Collège des enseignants de pneumologie. Addiction au tabac. Item 75. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/11/item_75_Tabac_2021_ex_item_73.pdf)
 
 {{%/sources%}}
 

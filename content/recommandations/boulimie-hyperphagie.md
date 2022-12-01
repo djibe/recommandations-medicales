@@ -312,7 +312,8 @@ Autres ressources: Fédération FNA-TCA {{<phone>}}06 87 41 86 66{{</phone>}}, [
   - Laxatifs: sans efficacité sur la perte de poids car n'empêche pas l'absorption, dommages coliques. Arrêt progressif.
   - Diurétiques: sans efficacité sur la perte de poids
   - Malabsorption ou régimes: carences en vitamines D, B1, B12
-  - Gynécologiques: l'aménorrhée ne protège pas d'une grossesse, prise à distance des vomissements ou autre méthode contraceptive
+  - Gynécologiques  
+    L'aménorrhée ne protège pas d'une grossesse. Prise de la pilule à distance des vomissements ou autre méthode contraceptive.
 - Connaître les dimensions psychologiques associées
   - Faible estime de soi
   - Troubles de l'humeur et anxieux

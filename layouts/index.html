@@ -20,7 +20,7 @@
       <div class="home-icon d-inline-flex"><svg class="bi" height="24px" width="24px" viewBox="0 0 24 24"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3zm6.82 6L12 12.72 5.18 9 12 5.28 18.82 9zM17 15.99l-5 2.73-5-2.73v-3.72L12 15l5-2.73v3.72z"/></svg></div>
       <h3 class="typography-headline-5 mb-4"><a href="/recommandations/" class="mb-5">Dernières recommandations ajoutées</a></h3>
       <div class="grid-1-2-3">
-      {{ range ( where site.RegularPages.ByPublishDate.Reverse "Section" "recommandations" | first 6 ) }}
+      {{ range first 6 ( where site.RegularPages.ByPublishDate.Reverse "Section" "recommandations" ) }}
         <div class="card">
           <div class="card-body card-primary-action">
             <h4 class="card-title"><a href="{{ .RelPermalink }}" class="text-reset stretched-link">{{ .Title }}</a></h4>
@@ -37,6 +37,14 @@
           {{ end -}}
         </div>
       {{ end }}
+      </div>
+      <button class="btn btn-link my-3" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Afficher + de recos</button>
+      <div class="collapse" id="collapseExample">
+        <div class="card card-body d-block">
+          {{ range first 10 ( after 6 (where site.RegularPages.ByPublishDate.Reverse "Section" "recommandations" )) }}
+          <a class="chip chip-action" href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title | truncate 35 }}</a>
+          {{ end }}
+        </div>
       </div>
       <div class="d-flex home-outils">
         <svg viewBox="0 0 256 256" width="256" height="256" aria-hidden="true">

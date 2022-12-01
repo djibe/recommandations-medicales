@@ -335,6 +335,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 - Antiaromatase
   - [Ostéodensitométrie]({{< relref "osteoporose.md" >}}) tous les 1-3 ans
   - Bilan lipidique annuel
+  - L'acupuncture peut réduire les douleurs articulaires (*[Hershman 2022](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2798317?utm_source=silverchair&utm_medium=email&utm_campaign=article_alert-jamanetworkopen&utm_content=wklyforyou&utm_term=111122)*)
 - Thérapie ciblée  
   Échocardiographies.
 - Radiothérapie sus et sous-claviculaire: TSH régulière
