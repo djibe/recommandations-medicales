@@ -156,8 +156,10 @@ Autres maladies avec sur-représentation de fumeurs: [Algies vasculaires de la f
 {{% /collapse %}}
 {{%collapse "Dépistage et évaluation de la dépendance au tabac" %}}
 
-{{%info%}}1\) Dépister 2) Évaluer la dépendance 3) Conseil d'arrêt  
-1) Motivation à l'arrêt{{%/info%}}
+{{%info%}}
+1\) Dépister 2) Évaluer la dépendance 3) Conseil d'arrêt  
+4) Motivation à l'arrêt
+{{%/info%}}
 
 ### 1) Dépistage du tabagisme
 
