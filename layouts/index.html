@@ -1,5 +1,13 @@
 {{ define "main" }}
 
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "url": {{ .Site.BaseURL }},
+    "logo": {{ .Site.Params.icon | absURL }}
+  }
+</script>
 <div class="container-lg home">
   <div class="row align-items-md-center">
     <div class="pt-4 mx-auto text-center col-md-4 order-md-2 col-lg-5">
@@ -38,7 +46,7 @@
         </div>
       {{ end }}
       </div>
-      <button class="btn btn-link my-3" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Afficher + de recos</button>
+      <button class="btn btn-link my-3" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" aria-label="Afficher plus de recommandations récentes">Afficher + de recos</button>
       <div class="collapse" id="collapseExample">
         <div class="card card-body d-block">
           {{ range first 10 ( after 6 (where site.RegularPages.ByPublishDate.Reverse "Section" "recommandations" )) }}

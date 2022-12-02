@@ -13,6 +13,23 @@
   {{ $imageUrl = "/images/icons/placeholder.svg" }}
 {{ end }}
 
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Recommandations",
+      "item": {{ .Parent.Permalink }}
+    },{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title }}",
+      "item": {{ .Permalink }}
+    }]
+  }
+</script>
 <div class="container-fluid recommandation">
   <div class="row min-vh-100">
     <aside class="col-lg-3 col-xl-2 order-3 order-lg-1 d-flex flex-column px-0 d-print-none" id="recommandation-aside">

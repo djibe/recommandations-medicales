@@ -1,4 +1,21 @@
 {{ define "main" }}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Articles",
+      "item": {{ .Parent.Permalink }}
+    },{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title }}",
+      "item": {{ .Permalink }}
+    }]
+  }
+</script>
 <div class="container-fluid projet">
   <div class="row min-vh-100">
     <!-- CONTENT -->

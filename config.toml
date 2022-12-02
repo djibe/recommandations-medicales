@@ -29,6 +29,7 @@ title = "RecoMédicales"
   github = "https://github.com/djibe/recommandations-medicales"
   githubUser = "djibe"
   facebook = "https://www.facebook.com/RecoMedicales"
+  linkedin = "https://www.linkedin.com/company/recom%C3%A9dicales/"
   ogimage = "/images/icons/banner-og.jpg"
   icon = "/android-chrome-512x512.png"
   SidebarRecentLimit = 5

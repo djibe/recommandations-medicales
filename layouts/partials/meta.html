@@ -102,7 +102,7 @@
         "@type": "WebPage",
         "@id": {{ .Site.BaseURL }}
       },
-      "articleSection" : "{{ .Section }}",
+      "articleSection" : "{{ .Section | title }}",
       "name" : "{{ .Title }}",
       "headline": "{{ .Title | truncate 110 }}",
       "description" : "{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}",
@@ -117,7 +117,7 @@
       "copyrightYear": "{{ .Date.Format "2006" }}",
       "datePublished": {{ .PublishDate.Format $ISO8601 }},
       "dateModified": {{ .Lastmod.Format $ISO8601 }},
-      "url" : "{{ .Permalink }}",
+      "url" : {{ .Permalink }},
       "publisher": {
         "@type": "Organization",
         "name": {{ .Site.Title }},
@@ -145,7 +145,8 @@
     "url": {{ .Site.BaseURL }},
     "sameAs": [
       {{ .Site.Params.github }},
-      {{ .Site.Params.facebook }}
+      {{ .Site.Params.facebook }},
+      {{ .Site.Params.linkedin }}
     ]
   }
 </script>
