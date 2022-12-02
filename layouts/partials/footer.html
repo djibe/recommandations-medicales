@@ -178,13 +178,13 @@ document.addEventListener( 'DOMContentLoaded', event => {
 
   let searchfield_weight = {
     "title"   : 5,
-    "tags"    : 5,
-    "content" : 1
+    "tags"    : 1,
+    "content" : 2
   }
 </script>
 
-{{ $searchjs := resources.Get "js/search.js" | minify | fingerprint }}
-<script src="{{ $searchjs.Permalink }}" async fetchpriority="low"></script>
+{{ $searchjs := resources.Get "js/search.js" | minify | fingerprint "sha384" }}
+<script src="{{ $searchjs.Permalink }}" integrity="{{ $searchjs.Data.Integrity }}" async fetchpriority="low"></script>
 <script>
   document.addEventListener( 'DOMContentLoaded', event => {
   // When DOM is ready

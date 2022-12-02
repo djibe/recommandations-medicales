@@ -247,7 +247,7 @@ Recommandations générales pour la prise en charge de la fibrillation atriale:
   - Activité physique d'intensité modérée  
   Éviter endurance prolongée (marathon).
 - Anticoagulant ({{< modal-btn modal-chads >}}indication{{< /modal-btn >}}, {{< modal-btn modal-aod >}}molécules{{< /modal-btn >}})  
-Contre-indication aux antithrombotiques (aspirine, clopidogrel sauf post-SCA) et AINS.
+  Contre-indication aux antithrombotiques (aspirine, clopidogrel sauf post-SCA) et AINS.
 - Contrôle de la fréquence: cible < 110/min par {{< modal-btn modal-bradycardisant >}}BB{{< /modal-btn >}}  
   Voire < 80 si symptomatique.
 - La cardioversion n'est pas abordée: cardiologue uniquement
@@ -324,12 +324,12 @@ ECG de contrôle de 1-2 semaines (1 mois pour l'amiodarone)
 > **BB** = bloc de branche ; **CI** = contre-indications. Administration en 1 fois par jour sauf mention contraire.
 
 {{% /collapse %}}
-{{%collapse "Suivi" %}}
+{{%collapse "Suivi de la fibrillation atriale" %}}
 
 - Contrôle des facteurs de risque  
-Alcool, tabac, hypertension artérielle, apnées du sommeil, diabète, activité physique, surpoids.
+  Alcool, tabac, hypertension artérielle, apnées du sommeil, diabète, activité physique, surpoids.
 - Symptômes et {{< modal-btn modal-ehra >}}impact sur les activités{{< /modal-btn >}}  
-Type, durée quotidienne.
+  Type, durée quotidienne.
 - {{< modal-btn modal-chads >}}Réévaluation HA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}HAS-BLED{{< /modal-btn >}}
 - FC < 110/min
 - {{< modal-btn modal-observance >}}Observance{{< /modal-btn >}}

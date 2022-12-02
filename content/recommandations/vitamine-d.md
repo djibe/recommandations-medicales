@@ -7,7 +7,7 @@ synonyms = ["Cholécalciferol vitamine D3", "ergocalciférol vitamine D2"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-15T00:28:29+02:00"
 publishdate = "2020-04-15"
-lastmod = "2022-03-31"
+lastmod = "2022-12-01"
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2022"
 sources = ["SFP", "HAS", "SFR"]
@@ -22,9 +22,9 @@ todo = "calcium enfant dans screenshots"
 
 {{%article-summary%}}
 
-- Supplémentation de 400-800 UI/j toute la croissance
-- Cible adulte: > 50 nmol/L
-- 75 nmol/L à partir de 65 ans ou pathologie à risque, chutes
+- Supplémentation en vitamine D de 400-800 UI/j toute la croissance
+- Taux sérique cible en vitamine D pour un adulte: +50 nmol/L
+- Cible +75 nmol/L à partir de 65 ans ou pathologie à risque, chutes
 - {{< modal-btn modal-calcium-cible >}}Apports en calcium recommandés{{< /modal-btn >}} et {{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}
 
 Articles liés: [ostéoporose]({{< relref "osteoporose.md" >}})
@@ -54,10 +54,8 @@ Ne pas supplémenter au-delà 150 nmol/L.
 
 Principaux aliments riches en vitamine D: poissons et produits laitiers (*Anses*).
 
-- **Déficit en vitamine D**  
-  75% des adultes, 70% des enfants.
-- **Carence en vitamine D**  
-  7% des adultes, 13% des adolescents, 4% des enfants.
+- **Déficit en vitamine D**: 75% des adultes et 70% des enfants
+- **Carence en vitamine D**: 7% des adultes, 13% des adolescents et 4% des enfants
 
 > *Étude Esteban (Santé Publique France)*
 
@@ -88,7 +86,7 @@ vitamine D3
 {{%/collapse%}}
 {{%collapse "Conversion d'unités de la vitamine D" %}}
 
-Convertir dans les 2 sens: nmol/L (unités internationales) et ng/mL.
+Convertir dans les 2 sens les unités de mesure de la vitamine D: nmol/L (unités internationales) et ng/mL.
 
 <div class="form-group mb-5">
   <label for="nmolInput">nmol/L</label>
@@ -97,7 +95,7 @@ Convertir dans les 2 sens: nmol/L (unités internationales) et ng/mL.
   <input type="number" style="width:68px" class="form-alternative" id="ngInput" value="20" oninput="nmolInput.value = Math.round(this.value * 2.496)">
 </div>
 
-Vitamine D3 cholécalciférol: 1 µg = 40 UI
+Vitamine D3 (cholécalciférol): 1 µg = 40 UI
 
 {{%/collapse%}}
 {{%collapse "Facteurs de risque de carence" %}}
@@ -114,11 +112,11 @@ Vitamine D3 cholécalciférol: 1 µg = 40 UI
 - Anorexie mentale
 - Sujets âgés à {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}}
 
-### 3 objectifs pour les personnes à risque
+### Trois objectifs pour les personnes à risque
 
 1. Taux ≥ 75 nmol/L avec dosage initial
-1. Protocole de correction rapide
-1. Apports calciques ≥ 1 g/j
+2. Protocole de correction rapide
+3. Apports calciques ≥ 1 g/j
 
 {{%/collapse%}}
 {{%collapse "Apports cibles en vitamine D selon l'âge" %}}
@@ -137,7 +135,7 @@ S'assurer d'apports calciques suffisants:
 | Population                         | Apports (UI/j) ou cibles (25OHD) recommandés | Source           |
 |------------------------------------|----------------------------------------------|------------------|
 | 0 - 2 ans                          | 400-800 UI/j                                 | *Bacchetta 2022* |
-| 2 - 18 ans                         | Apports quotidiens voire 50.000 UI/trimestre<br>ou 80-100.000 UI novembre et février | *Bacchetta 2022* |
+| 2 - 18 ans                         | 400-800 UI/j<br>voire 50.000 UI/trimestre<br>ou 80-100.000 UI en novembre et février | *Bacchetta 2022* |
 | 2 - 18 ans à risque<br>Sujet noir, obèse, 0 exposition, vegan | 800-1600 UI/j voire 50.000 UI/6sem<br>ou 80-100.000 UI/trimestre | *Bacchetta 2022* |
 | Grossesse                          | 80-100.000 UI à 7 mois de grossesse          | *CNGOF 8e mois*  |
 | Mineur                             | &gt; 75 nmol/L                               | *Bacchetta 2022* |
@@ -153,6 +151,8 @@ Ne pas utiliser d'autres formes de supplémentations.
 
 {{% /collapse %}}
 {{%collapse "Quand doser la vitamine D ?" %}}
+
+Situations pouvant faire contrôler le taux de vitamine D:
 
 1. Suspicion de rachitisme
 2. Suspicion d'ostéomalacie (fatigue musculaire, douleurs osseuses)

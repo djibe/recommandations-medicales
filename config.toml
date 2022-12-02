@@ -1,7 +1,7 @@
 baseURL = "https://recomedicales.fr/"
 # canonifyURLs = false
 # relativeURLs = true
-copyright = "Tous droits réservés ©"
+copyright = "© 2019-2022 par Jean-Baptiste FRON sous license CC BY-NC 4.0"
 DefaultContentLanguage = "fr"
 disableHugoGeneratorInject = false
 enableInlineShortcodes = true
@@ -10,7 +10,7 @@ languageCode = "fr"
 removePathAccents = true
 rssLimit = 30
 summaryLength = 10
-title = "Recommandations Médicales"
+title = "RecoMédicales"
 
 [permalinks]
   recommandations = "/recommandations/:filename/"
@@ -30,7 +30,7 @@ title = "Recommandations Médicales"
   githubUser = "djibe"
   facebook = "https://www.facebook.com/RecoMedicales"
   ogimage = "/images/icons/banner-og.jpg"
-  icon = "/android-chrome-192x192.png"
+  icon = "/android-chrome-512x512.png"
   SidebarRecentLimit = 5
 
 # todo

@@ -10,7 +10,7 @@
 
   {{ $sass := "" }}
   {{ if hugo.IsProduction }}
-    {{ $sass = resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint }}
+    {{ $sass = resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint "sha384" }}
     <link rel="stylesheet" href="{{ $sass.Permalink }}" integrity="{{ $sass.Data.Integrity }}"><!-- media="print" onload="this.media='all'" -->
     {{ else }}
     {{ $sass = resources.Get "sass/style.scss" | toCSS }}
