@@ -12,7 +12,7 @@ tags = []
 chart = true
 image = false
 imageSrc = ""
-todo = "écriture SEO, valeur C"
+todo = "écriture SEO dont 'cotisation ordre des médecins', valeur C"
 +++
 
 ## Résumé de l'article

@@ -15,7 +15,7 @@ anglais = ["Lactose intolerance", "intolerance to lactose"]
 sctid = "785696007"
 image = false
 imageSrc = ""
-todo = "diarrhée chro, https://doi.org/10.1016/j.mmm.2020.10.008"
+todo = "SEO 'test intolérance lactose remboursement', diarrhée chro, https://doi.org/10.1016/j.mmm.2020.10.008"
 +++
 
 {{%article-summary%}}

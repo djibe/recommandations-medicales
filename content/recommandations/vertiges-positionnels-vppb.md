@@ -16,7 +16,7 @@ anglais = ["Benign positional vertigo (BPPV)"]
 sctid = "111541001"
 image = true
 imageSrc = "Illustration de l'oreille interne par BruceBlaus. Blausen.com staff (2014). WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436., via Wikimedia Commons"
-todo = "écriture SEO, vertige signes périph collège neuro"
+todo = "SEO dont 'vertiges positionnels paroxystiques bénins', vertige signes périph collège neuro"
 +++
 
 {{%article-summary%}}

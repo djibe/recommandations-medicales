@@ -16,7 +16,7 @@ anglais = ["Hypertensive emergency", "Hypertensive urgency"]
 sctid = "132721000119104"
 image = false
 imageSrc = ""
-todo = "https://academic.oup.com/ehjcvp/article/5/1/37/5079054"
+todo = "SEO hta maligne, https://academic.oup.com/ehjcvp/article/5/1/37/5079054"
 +++
 
 {{%article-summary%}}

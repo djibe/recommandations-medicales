@@ -16,7 +16,7 @@ anglais = ["Chlamydia trachomatis infection"]
 sctid = "240589008"
 image = true
 imageSrc = "Frottis cervical avec Chlamydia dans des vacuoles en grossissement 500. Dr. Lance Liotta Laboratory via Wikimedia Commons"
-todo = "améliorer clinique, flowchart"
+todo = "SEO 'chlamydia trachomatis', améliorer clinique, flowchart"
 +++
 
 {{%article-summary%}}

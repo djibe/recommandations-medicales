@@ -16,7 +16,7 @@ anglais = ["Abdominal aortic aneurysm"]
 sctid = "233985008"
 image = true
 imageSrc = "Schéma de l'anévrysme de l'aorte abdominale par loudista sur Foter.com"
-todo = "SEO anévrisme ou anévrysme ?"
+todo = "SEO 'aorte abdominale', anévrisme ou anévrysme ?"
 +++
 
 {{%article-summary%}}

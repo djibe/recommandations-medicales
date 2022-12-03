@@ -18,7 +18,7 @@ sctid = "42399005"
 flowchart = true
 image = true
 imageSrc = "Illustration de l'insuffisance rénale par pch.vector / Freepik"
-todo = "aliments riches K/P"
+todo = "SEO 'insuffisance rénale kdigo', aliments riches K/P"
 +++
 
 {{% article-summary %}}

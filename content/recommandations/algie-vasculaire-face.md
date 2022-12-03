@@ -18,7 +18,7 @@ sctid = "193031009"
 flowchart = true
 image = false
 imageSrc = ""
-todo = "SEO, Examen, collège"
+todo = "SEO dont 'algie vasculaire de la face', Examen, collège"
 +++
 
 {{%article-summary%}}

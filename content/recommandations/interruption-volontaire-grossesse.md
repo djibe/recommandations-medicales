@@ -18,6 +18,7 @@ chart = true
 flowchart = true
 image = true
 imageSrc = "Illustration de l'IVG par stories / Freepik"
+todo = "SEO 'recommandation ivg'"
 +++
 
 {{%article-summary%}}

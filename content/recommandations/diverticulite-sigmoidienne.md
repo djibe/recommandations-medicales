@@ -17,7 +17,7 @@ sctid = "427910000"
 flowchart = true
 image = true
 imageSrc = "Images endoscopiques de diverticules par Anpol42, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "https://fascrs.org/ascrs/media/files/DCR-tics-CPG-2020.pdf"
+todo = "SEO sigmoïdite, https://fascrs.org/ascrs/media/files/DCR-tics-CPG-2020.pdf"
 +++
 
 {{%article-summary%}}

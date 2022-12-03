@@ -18,7 +18,7 @@ sctid = "449916008"
 flowchart = true
 image = true
 imageSrc = "Signes à l'examen de la paralysie faciale a frigore. Photo de l'Internet Archive Book Images sur Foter.com"
-todo = "soins oculaires"
+todo = "SEO 'paralysie faciale peripherique', soins oculaires"
 +++
 
 {{%article-summary%}}

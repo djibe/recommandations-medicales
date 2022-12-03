@@ -17,7 +17,7 @@ sctid = "56819008"
 flowchart = true
 image = true
 imageSrc = "Végétation sur la tricuspide. Daisuke Koya, Kazuyuki Shibuya, Ryuichi Kikkawa et Masakazu Haneda: Materialscientist, via Wikimedia Commons"
-todo = "Brossettes ?"
+todo = "SEO 'recommandations endocardite', Brossettes ?"
 +++
 
 {{%article-summary%}}

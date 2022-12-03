@@ -18,7 +18,7 @@ sctid = "4120002"
 flowchart = true
 image = true
 imageSrc = "Photo au microscope du Virus respiratoire syncytial de la bronchiolite par le CDC 1981 du United States Department of Health and Human Services, Public domain, via Wikimedia Commons"
-todo = "avis CT, FC + SpO2 selon l'âge, https://afpa.org/outil/normes-cardiorespiratoires-utiles/, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
+todo = "SEO 'criteres hospitalisation bronchiolite', avis CT, FC + SpO2 selon l'âge, https://afpa.org/outil/normes-cardiorespiratoires-utiles/, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
 +++
 
 {{%article-summary%}}

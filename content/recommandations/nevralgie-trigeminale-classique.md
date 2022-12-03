@@ -18,7 +18,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "Illustration de la névralgie du trijumeau par BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "SEO, durée avant envisager décroissance, attente A. Donnet"
+todo = "SEO dont 'névralgie trijumeau', durée avant envisager décroissance, attente A. Donnet"
 +++
 
 {{%article-summary%}}

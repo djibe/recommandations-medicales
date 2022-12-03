@@ -17,7 +17,7 @@ anglais = ["Alcoholism"]
 sctid = "7200002"
 image = true
 imageSrc = "Les verres d'alcool standards par Alcool-Info-Service"
-todo = "simplifier, remarques mail, KEY x3 sevrage ambulatoire | x2 syndrome de sevrage, symptômes de sevrage | médicaments, sevrage de l'alcool, entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, bilan des complications"
+todo = "SEO 'sevrage alcoolique has', simplifier, remarques mail, KEY x3 sevrage ambulatoire | x2 syndrome de sevrage, symptômes de sevrage | médicaments, sevrage de l'alcool, entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, bilan des complications"
 +++
 
 {{%article-summary%}}

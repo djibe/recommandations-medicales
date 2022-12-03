@@ -16,6 +16,7 @@ anglais = ["Cat scratch disease"]
 sctid = "79974007"
 image = true
 imageSrc = "Illustration de la maladie des griffes du chat par CDC, domaine public, via Wikimedia Commons"
+todo = "SEO 'maladie griffe du chat traitement'"
 +++
 
 {{%article-summary%}}

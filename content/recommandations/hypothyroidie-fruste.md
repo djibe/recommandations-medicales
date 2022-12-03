@@ -16,7 +16,7 @@ sctid = "54823002"
 flowchart = true
 image = true
 imageSrc = "Photo de National Institutes of Health (NIH) sur Foter.com / CC BY-NC"
-todo = "TODO: read MAJ https://www.em-select.com/article/1229908, simplifier ?"
+todo = "SEO 'hypothyroïdie fruste', read MAJ https://www.em-select.com/article/1229908, simplifier ?"
 +++
 
 {{%article-summary%}}

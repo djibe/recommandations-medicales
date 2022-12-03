@@ -17,7 +17,7 @@ anglais = ["Atrial fibrillation"]
 sctid = "49436004"
 image = true
 imageSrc = "Fibrillation atriale sur 2 dérivations, PeaBrainC, CC BY-SA 4.0 via Wikimedia Commons"
-todo = "ESC 2020: chap 11.5 saignement, Source 2013 bonne pour EGS, prev IRC Marijon"
+todo = "SEO 'recommandation fibrillation auriculaire', ESC 2020: chap 11.5 saignement, Source 2013 bonne pour EGS, prev IRC Marijon"
 +++
 
 {{%article-summary%}}

@@ -19,7 +19,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
-todo = "symptômes/fatigue, signes d'insuffisance hépatique, signes de cirrhose, hépatoprotection"
+todo = "SEO 'charge virale hepatite c', symptômes/fatigue, signes d'insuffisance hépatique, signes de cirrhose, hépatoprotection"
 +++
 
 {{%article-summary%}}

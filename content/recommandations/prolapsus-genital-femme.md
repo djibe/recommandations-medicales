@@ -16,7 +16,7 @@ anglais = ["Prolapse of female genital organs"]
 sctid = "73998008"
 image = false
 imageSrc = ""
-todo = "HAS annexes Échelles PFDI-20, APFQ"
+todo = "SEO, HAS annexes Échelles PFDI-20, APFQ"
 +++
 
 {{%article-summary%}}

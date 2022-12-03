@@ -17,6 +17,7 @@ sctid = "128545000"
 flowchart = true
 image = true
 imageSrc = "Hernie inguinale de l'homme, myupchar.com, CC BY-SA 4.0, via Wikimedia Commons"
+todo = "SEO 'hernie crurale'"
 +++
 
 {{%article-summary%}}

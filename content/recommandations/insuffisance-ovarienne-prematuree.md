@@ -17,7 +17,7 @@ sctid = "237788002"
 flowchart = true
 image = true
 imageSrc = "Illustration de la ménopause précoce par vectorjuice / Freepik"
-todo = "tabac, Anticorps anti-surrénaliens, Turner, ESHRE"
+todo = "SEO 'bilan ménopause précoce', tabac, Anticorps anti-surrénaliens, Turner, ESHRE"
 +++
 
 {{%article-summary%}}

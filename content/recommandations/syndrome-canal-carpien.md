@@ -18,7 +18,7 @@ image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "rec maladie pro"
+todo = "SEO 'canal carpien emg', rec maladie pro"
 +++
 
 {{%article-summary%}}

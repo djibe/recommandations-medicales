@@ -17,12 +17,12 @@ sctid = "266261006"
 flowchart = true
 image = true
 imageSrc = "Photos du syndrome de Raynaud par Tcal via wikipedia, CC BY-SA 3.0"
-todo = "SEO, lire https://www.em-consulte.com/article/833156/article/bilan-etiologique-minimal-du-phenomene-de-raynaud%C2%A0"
+todo = "SEO dont 'syndrome de raynaud bilan', lire https://www.em-consulte.com/article/833156/article/bilan-etiologique-minimal-du-phenomene-de-raynaud%C2%A0"
 +++
 
 {{%article-summary%}}
 
-- 10% sont secondaires à une maladie de système
+- 10% des syndromes de Raynaud sont secondaires à une maladie de système
 - Forme idiopathique = maladie de Raynaud
 - Interrogatoire et examen +++
 - Bilan biologique systématique

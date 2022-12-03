@@ -15,7 +15,7 @@ anglais = ["Colorectal cancer"]
 sctid = "781382000"
 image = true
 imageSrc = "Illustration du cancer colorectal. Blausen Medical Communications, Inc., CC BY 3.0, via Wikimedia Commons"
-todo = "dépistage G8 gériatrie, Vaccination info service chimiothérapie"
+todo = "SEO 'dépistage cancer colorectal recommandations', dépistage G8 gériatrie, Vaccination info service chimiothérapie"
 +++
 
 {{%article-summary%}}
