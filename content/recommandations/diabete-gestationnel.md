@@ -215,7 +215,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%sources%}}
 
-{{< card-link title="e-learning EASD" url="https://easd-elearning.org/courses/gestational-diabetes-mellitus/">}}
+{{< card-link-external title="e-learning EASD" url="https://easd-elearning.org/courses/gestational-diabetes-mellitus/">}}
 
 - [Louvet et al; SFD. Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022.pdf)
 - {{< references/sfd-dt2 >}}

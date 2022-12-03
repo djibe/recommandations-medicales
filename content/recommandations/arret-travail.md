@@ -128,7 +128,7 @@ Préciser l'adresse exacte de résidence durant le séjour.
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link title="Arrêts de travail : prévenir, prescrire, accompagner ..." url="https://www.fun-mooc.fr/fr/cours/arrets-de-travail-prevenir-prescrire-accompagner-la-reprise/" subtitle="FMC par l'Assurance Maladie">}}
+{{< card-link-external title="Arrêts de travail : prévenir, prescrire, accompagner ..." url="https://www.fun-mooc.fr/fr/cours/arrets-de-travail-prevenir-prescrire-accompagner-la-reprise/" subtitle="FMC par l'Assurance Maladie">}}
 
 TODO
 

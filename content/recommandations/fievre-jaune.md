@@ -68,7 +68,7 @@ PVVIH
 {{% /collapse %}}
 {{%collapse "Voyage - Faut-il vacciner contre la fièvre jaune ?" %}}
 
-{{< card-link title="Vaccins recommandés par l'Institut Pasteur pour un voyage" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
+{{< card-link-external title="Vaccins recommandés par l'Institut Pasteur pour un voyage" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
 
 {{% /collapse %}}
 {{%collapse "Liste des centres de vaccinations fièvre jaune agréés" %}}
@@ -77,7 +77,7 @@ La **vaccination anti-amarile** est réalisée dans un centre homologué avec re
 
 1 injection au moins 10 jours avant le départ sans rappel (possible dès l'âge de 9 mois).
 
-{{< card-link title="Liste des centres de vaccination fièvre jaune par département" url="https://solidarites-sante.gouv.fr/IMG/pdf/tableau_cvfj_fevrier_2022.pdf" subtitle="Ministère de la Santé" image="ministere" >}}
+{{< card-link-external title="Liste des centres de vaccination fièvre jaune par département" url="https://solidarites-sante.gouv.fr/IMG/pdf/tableau_cvfj_fevrier_2022.pdf" subtitle="Ministère de la Santé" image="ministere" >}}
 
 {{% /collapse %}}
 {{%sources%}}

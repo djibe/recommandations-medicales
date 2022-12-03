@@ -20,7 +20,7 @@ todo = "https://www.has-sante.fr/upload/docs/application/pdf/2018-03/annexes2.pd
 
 {{< references/mes-droits-sociaux >}}
 
-{{< card-link title="1jeune1solution" url="https://mes-aides.1jeune1solution.beta.gouv.fr/" subtitle="Évaluer les droits à 591 aides">}}
+{{< card-link-external title="1jeune1solution" url="https://mes-aides.1jeune1solution.beta.gouv.fr" subtitle="Évaluer les droits à 591 aides">}}
 
 ## Prisonniers {.mt-5}
 

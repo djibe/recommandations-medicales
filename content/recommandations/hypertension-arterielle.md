@@ -445,7 +445,7 @@ Contre-indications aux IEC/ARA2 et inhibiteurs de la rénine.
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}
 
-{{< card-link title="Blood pressure monitoring" url="https://stridebp.dayonetech.uk/login.aspx" subtitle="Par les ESH et ISH">}}
+{{< card-link-external title="Blood pressure monitoring" url="https://stridebp.dayonetech.uk/login.aspx" subtitle="Par les ESH et ISH">}}
 
 {{% /collapse %}}
 {{%sources%}}

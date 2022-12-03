@@ -83,7 +83,7 @@ Indications à la vaccination hépatite A:
 {{%info%}}La vaccination est recommandée à partir de l'âge de 1 an pour tous les voyageurs devant séjourner dans un
 pays où le niveau d'hygiène est faible, quelles que soient les conditions du séjour (*HCSP 2022*){{%/info%}}
 
-{{< card-link title="Vaccins recommandés par l'Institut Pasteur pour un voyage" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
+{{< card-link-external title="Vaccins recommandés par l'Institut Pasteur pour un voyage" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
 
 {{% /collapse %}}
 {{%collapse "Vaccins disponibles" %}}

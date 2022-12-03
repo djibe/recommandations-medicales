@@ -325,7 +325,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link title="L'hépatite C en médecine de premier recours et dans la prise en charge des usagers de drogues et d'alcool" url="https://www.inhsu.org/learning_modules/FR_FR/index.html#/" subtitle="e-learning gratuit par INSHU, ashm, UNSW, Kirby">}}
+{{< card-link-external title="L'hépatite C en médecine de premier recours et dans la prise en charge des usagers de drogues et d'alcool" url="https://www.inhsu.org/learning_modules/FR_FR/index.html#/" subtitle="e-learning gratuit par INSHU, ashm, UNSW, Kirby">}}
 
 [Vidéos de l'AFEF sur l'hépatite C](https://www.youtube.com/channel/UCgWEPppp0YbWbvpcWoXd9fg/search?query=h%C3%A9patite%20C)
 

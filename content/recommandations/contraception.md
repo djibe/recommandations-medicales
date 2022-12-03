@@ -562,14 +562,14 @@ BRCA 1 ou BRCA 2 et Syndrome de Lynch: Toute contraception peut être proposée.
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-{{< card-link title="QuestionSexualité_" url="https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception" subtitle=" Choisir sa contraception">}}
+{{< card-link-external title="QuestionSexualité_" url="https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception" subtitle=" Choisir sa contraception">}}
 
 - [Santé Publique France. Choisir sa contraception](https://www.santepubliquefrance.fr/determinants-de-sante/sante-sexuelle/documents/brochure/choisir-sa-contraception)
 - [Santé BD: La contraception, c'est quoi ?](https://santebd.org/les-fiches-santebd/sexualite-contraception/vie-affective-et-sexuelle-la-contraception-la-contraception-cest-quoi)
 - [Santé BD: Les moyens de contraception](https://santebd.org/les-fiches-santebd/sexualite-contraception/vie-affective-et-sexuelle-la-contraception-les-moyens-de-contraception)
 - [Ameli. Comment bien choisir sa contraception ?](https://www.ameli.fr/assure/sante/themes/contraception/choisir-mode-contraception)
 
-{{< card-link title="Centres de planification ou d'éducation familiale" url="https://ivg.gouv.fr/les-centres-de-planification-ou-d-education-familiale.html">}}
+{{< card-link-external title="Centres de planification ou d'éducation familiale" url="https://ivg.gouv.fr/les-centres-de-planification-ou-d-education-familiale.html">}}
 
 - Différence efficacité théorique-pratique: importance de l'observance
 - Éviter l'automédication avec un traitement hormonal  
@@ -582,7 +582,7 @@ Y compris phytothérapie, compléments alimentaires.
 
 ### FMC gratuite
 
-{{< card-link title="Contraception - L'affaire de tous" url="https://www.pns-mooc.com/fr/mooc/7/presentation" subtitle="e-learning du CNGOF">}}
+{{< card-link-external title="Contraception - L'affaire de tous" url="https://www.pns-mooc.com/fr/mooc/7/presentation" subtitle="e-learning du CNGOF">}}
 
 ### Bénéfices de la contraception
 

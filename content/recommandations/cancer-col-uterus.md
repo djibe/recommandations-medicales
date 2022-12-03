@@ -199,7 +199,7 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 {{<figure image="/images/photos/cancer-col-uterus-30.jpg" title="Conduite à tenir devant un frottis avec analyse cytologique anormale de 25 à 29 ans. INCa 2020" loading="lazy">}}
 {{<figure image="/images/photos/cancer-col-uterus-30+.jpg" title="Conduite à tenir devant un frottis avec test HPV haut risque anormal de 30 à 65 ans. INCa 2020" loading="lazy">}}
 
-{{< card-link title="Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale" url="https://www.e-cancer.fr/content/download/287960/4097542/file/Conduite_a_tenir_devant_une_femme_ayant_une_cytologie_cervico_uterine_anormale_mel_20200306.pdf" subtitle="INCa">}}
+{{< card-link-external title="Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale" url="https://www.e-cancer.fr/content/download/287960/4097542/file/Conduite_a_tenir_devant_une_femme_ayant_une_cytologie_cervico_uterine_anormale_mel_20200306.pdf" subtitle="INCa">}}
 
 {{% /collapse %}}
 {{%collapse "Traitement du cancer du col de l'utérus" %}}
@@ -215,7 +215,7 @@ En cas de ménopause induite, un [traitement hormonal]({{< relref "menopause.md"
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
 
-{{< card-link title="MOOC HPV - L'affaire de tous" url="https://pns-mooc.com/fr/mooc/21/presentation" subtitle="Université de Paris">}}
+{{< card-link-external title="MOOC HPV - L'affaire de tous" url="https://pns-mooc.com/fr/mooc/21/presentation" subtitle="Université de Paris">}}
 
 - [INCa. Dépistage organisé du cancer du col de l'utérus](https://depistagecoluterus.e-cancer.fr/)
 - [Abramovitz L. Vaccin contre le Papilloma virus : De l'AMM au pragmatisme. POST'U 2020 Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/vaccin-contre-le-papilloma-virus-de-lamm-au-pragmatisme/

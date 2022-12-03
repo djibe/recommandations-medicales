@@ -99,7 +99,7 @@ Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre d
 {{%/collapse%}}
 {{%collapse "FMC gratuite" %}}
 
-{{< card-link title="Tuberculosis" url="https://www.fun-mooc.fr/fr/cours/tuberculosis/" subtitle="Par l'Institut Pasteur">}}
+{{< card-link-external title="Tuberculosis" url="https://www.fun-mooc.fr/fr/cours/tuberculosis/" subtitle="Par l'Institut Pasteur">}}
 
 {{% /collapse %}}
 {{%sources%}}

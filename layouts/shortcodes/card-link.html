@@ -1,22 +1,9 @@
-{{ $image := "" }}
-{{ $imageURL := "" }}
-{{ if (.Get "image") }}
-  {{ if eq (.Get "image") "ministere" }}
-    {{ $image = "ministere.webp" }}
-  {{ else if eq (.Get "image") "pasteur"}}
-    {{ $image = "pasteur.webp" }}
-  {{ else }}
-    {{ $image = .Get "image" }}
-  {{ end }}
-  {{ $imageURL = printf "/images/logos/%s" $image }}
-{{ else }}
-  {{ $imageURL = printf "/favicon.svg" }}
-{{ end }}
+{{ $imageURL := printf "/favicon.svg" }}
 
 <div class="card card-body card-primary-action rounded-lg d-inline-flex flex-row mw-248 mb-4 {{ with .Get "class" }}{{ . }}{{ end }}">
   <img class="mr-4 card-icon rounded-circle" src="{{ $imageURL }}" {{with .Get "subtitle" }}alt="Logo de {{.}}"{{else}}alt="Logo RecoMédicales"{{end}} loading="lazy" decoding="async">
   <div>
-    <h3 class="typography-body-2 font-weight-bold"><a href="{{ .Get "url" }}" rel="external nofollow noopener" class="stretched-link text-reset">{{ .Get "title" }}</a></h3>
+    <h3 class="typography-body-2 font-weight-bold"><a href="{{ .Get "url" }}" class="stretched-link text-reset">{{ .Get "title" }}</a></h3>
     {{ with .Get "subtitle" }}<h4 class="typography-body-2 mb-0">{{ . }}</h4>{{ end }}
   </div>
 </div>

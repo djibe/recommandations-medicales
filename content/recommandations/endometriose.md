@@ -256,7 +256,7 @@ Mise en place en cours des [Centres experts de l'endométriose](https://www.endo
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}
 
-{{< card-link title="Endométriose - L'affaire de tous" url="https://pns-mooc.com/fr/mooc/19/presentation" subtitle="e-learning gratuit">}}
+{{< card-link-external title="Endométriose - L'affaire de tous" url="https://pns-mooc.com/fr/mooc/19/presentation" subtitle="e-learning gratuit">}}
 
 {{< youtube id="RCXR1TFWcpg" title="La minute RECO HAS | Endométriose (Pr Xavier Fritel)" >}}
 

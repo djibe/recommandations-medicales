@@ -60,7 +60,7 @@ PA
 - Survie à 5 ans (tous stades): < 20% (+11 points en 25 ans)
 - Le tabagisme passif causerait 1/4 des CBP des non fumeurs (*Collège*)
 
-{{< card-link title="Dépenses liées au cancer du poumon" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Cancers&refine.patho_niv2=Cancer%20du%20poumon">}}
+{{< card-link-external title="Dépenses liées au cancer du poumon" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Cancers&refine.patho_niv2=Cancer%20du%20poumon">}}
 
 #### Études du dépistage du cancer du poumon
 

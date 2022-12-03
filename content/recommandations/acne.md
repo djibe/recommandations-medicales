@@ -330,9 +330,9 @@ Selon la SFDermato, informer le patient:
 {{%/collapse%}}
 {{%sources%}}
 
-{{< card-link title="Recommandations Acné SFD" url="https://reco.sfdermato.org/fr/recommandations-acn%C3%A9" subtitle="SFDermato">}}
+{{< card-link-external title="Recommandations Acné SFD" url="https://reco.sfdermato.org/fr/recommandations-acn%C3%A9" subtitle="SFDermato">}}
 
-{{< card-link title="L'Acné par Dermatoclic" url="https://www.dermatoclic.com/acne">}}
+{{< card-link-external title="L'Acné par Dermatoclic" url="https://www.dermatoclic.com/acne">}}
 
 - [ANSM. Traitement de l'acné sévère : premières recommandations pour améliorer la sécurité d'utilisation de l'isotrétinoïne. 06/12/2021.](https://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Traitement-contre-l-acne-regles-de-bon-usage-de-l-isotretinoine-pour-limiter-les-risques-Point-d-Information)
 - [ANSM. Traitement contre l'acné : règles de bon usage de l'isotrétinoïne pour limiter les risques. 30/03/2021.](https://ansm.sante.fr/actualites/traitement-contre-lacne-regles-de-bon-usage-de-lisotretinoine-pour-limiter-les-risques)

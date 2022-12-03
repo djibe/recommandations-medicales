@@ -116,7 +116,7 @@ Tumeurs
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}
 
-{{< card-link title="Diagnosis and management of hypertensive emergencies" url="https://www.escardio.org/Education/E-Learning/Webinars/diagnosis-and-management-of-hypertensive-emergencies" subtitle="ESC Councils webinar">}}
+{{< card-link-external title="Diagnosis and management of hypertensive emergencies" url="https://www.escardio.org/Education/E-Learning/Webinars/diagnosis-and-management-of-hypertensive-emergencies" subtitle="ESC Councils webinar">}}
 
 {{< youtube id="EFpLquawfqg" title="Reconnaître et traiter les urgences hypertensives hors AVC (Dr Aurélien Lorthioir)" >}}
 

@@ -89,7 +89,7 @@ Chiffres du cancer du sein en France:
 
 {{< card-link title="Les Français et leur participation au dépistage des cancers" subtitle="Article RecoMédicales" url="/articles/participation-depistage-cancers/">}}
 
-{{< card-link title="Dépenses liées au cancer du sein" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Cancers&refine.patho_niv2=Cancer%20du%20sein%20de%20la%20femme">}}
+{{< card-link-external title="Dépenses liées au cancer du sein" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Cancers&refine.patho_niv2=Cancer%20du%20sein%20de%20la%20femme">}}
 
 ### Abréviations
 

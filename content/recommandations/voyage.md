@@ -72,11 +72,11 @@ Certains vaccins peuvent être obligatoires pour entrer dans le pays, ils néces
 
 Se référer à la page dédiée à chaque maladie pour en savoir plus (ex. [fièvre jaune]({{< relref "fievre-jaune.md" >}}), [hépatite A]({{< relref "hepatite-a.md" >}}), [paludisme]({{< relref "paludisme.md" >}}), ...).
 
-{{< card-link title="Vaccins recommandés et prévention palustre" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
+{{< card-link-external title="Vaccins recommandés et prévention palustre" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
 
-{{< card-link title="Vaccins et conseils par pays" url="https://www.diplomatie.gouv.fr/fr/dossiers-pays/" subtitle="France Diplomatie" image="ministere" >}}
+{{< card-link-external title="Vaccins et conseils par pays" url="https://www.diplomatie.gouv.fr/fr/dossiers-pays/" subtitle="France Diplomatie" image="ministere" >}}
 
-{{< card-link title="Vaccins recommandés et conseils médicaux par destination" url="https://www.pasteur-lille.fr/vaccinations-voyages/" subtitle="Pasteur Lille" image="pasteur" >}}
+{{< card-link-external title="Vaccins recommandés et conseils médicaux par destination" url="https://www.pasteur-lille.fr/vaccinations-voyages/" subtitle="Pasteur Lille" image="pasteur" >}}
 
 {{% /collapse %}}
 {{%collapse "Contre-indications aux voyages aériens" %}}

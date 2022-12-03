@@ -560,9 +560,9 @@ graph TB
 
 ### Vidéos du GRIO sur l'ostéoporose
 
-{{< card-link title="L'Ostéoporose et les signes d'appel, Le diagnostic de l'ostéoporose et Prévenir l'ostéoporose" url="http://www.grio.org/espace-gp/films-osteoporose.php">}}
+{{< card-link-external title="L'Ostéoporose et les signes d'appel, Le diagnostic de l'ostéoporose et Prévenir l'ostéoporose" url="http://www.grio.org/espace-gp/films-osteoporose.php">}}
 
-{{< card-link title="Ostéoporose Masculine" url="http://www.grio.org/membres/video-webcast.php" subtitle="Le point sur les recommandations françaises de la prise en charge de l'ostéoporose masculine">}}
+{{< card-link-external title="Ostéoporose Masculine" url="http://www.grio.org/membres/video-webcast.php" subtitle="Le point sur les recommandations françaises de la prise en charge de l'ostéoporose masculine">}}
 
 {{%/collapse%}}
 {{%sources%}}

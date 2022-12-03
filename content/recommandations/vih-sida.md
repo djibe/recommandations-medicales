@@ -104,7 +104,7 @@ VIH
   - Métropole: Ile-de-France et PACA surtout, puis Rhône-Alpes
   - DROM: très haute incidence et malades non diagnostiqués en Guyane, Guadeloupe et Martinique
 
-{{< card-link title="Dépenses liées au VIH" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20inflammatoires%20ou%20rares%20ou%20VIH%20ou%20SIDA&refine.patho_niv2=VIH%20ou%20SIDA">}}
+{{< card-link-external title="Dépenses liées au VIH" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20inflammatoires%20ou%20rares%20ou%20VIH%20ou%20SIDA&refine.patho_niv2=VIH%20ou%20SIDA">}}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

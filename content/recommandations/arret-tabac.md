@@ -184,7 +184,7 @@ Rechercher également un syndrome de sevrage, une perte de contrôle, un désir 
 La dépendance est certaine en présence d'au moins 1 critère parmi:
 
 - Rechute après une tentative d'arrêt
-- Complications ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [artérite]({{{{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}}}), [cancer](/tags/cancer/) ...) ou risques encourus dans certaines situations spécifiques (intervention chirurgicale, grossesse ...)
+- Complications ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [artérite]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}), [cancer](/tags/cancer/) ...) ou risques encourus dans certaines situations spécifiques (intervention chirurgicale, grossesse ...)
 - Souci constant d'approvisionnement de tabac
 
 ### 3) Conseil d'arrêt
@@ -439,7 +439,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link title="Se former aux addictions" subtitle="Intervenir Addictions" url="https://intervenir-addictions.fr">}}
+{{< card-link-external title="Se former aux addictions" subtitle="Intervenir Addictions" url="https://intervenir-addictions.fr">}}
 
 - [Santé Publique France. Tabac.](https://www.santepubliquefrance.fr/determinants-de-sante/tabac)
 - [INCa. Panorama des cancers en France - Édition 2022.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Panorama-des-cancers-en-France-Edition-2022)

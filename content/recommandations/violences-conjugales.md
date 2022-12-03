@@ -140,7 +140,7 @@ Le certificat médical peut être utilisé pour faire valoir les droits de la vi
 {{% /collapse %}}
 {{%collapse "FMC" %}}
 
-{{< card-link title="Violences faites aux femmes" url="https://www.pns-mooc.com/fr/mooc/module/64/introduction" subtitle="Pédagogie Numérique en Santé">}}
+{{< card-link-external title="Violences faites aux femmes" url="https://www.pns-mooc.com/fr/mooc/module/64/introduction" subtitle="Pédagogie Numérique en Santé">}}
 
 {{< youtube id="cHONPEYxRKo" title="La minute RECO HAS | Violences conjugales (Dr Ghada Hatem)" >}}
 
@@ -159,13 +159,13 @@ Le certificat médical peut être utilisé pour faire valoir les droits de la vi
 
 Informations, signalement par tchat, trouver une association.
 
-{{< card-link title="arretonslesviolences.gouv.fr" url="https://arretonslesviolences.gouv.fr" >}}
+{{< card-link-external title="arretonslesviolences.gouv.fr" url="https://arretonslesviolences.gouv.fr" >}}
 
 #### DeclicViolence
 
 Pour le médecin généraliste.: Aborder les violences, évaluer, le certificat médical, le signalement, ITT, outils.
 
-{{< card-link title="DeclicViolence" url="https://declicviolence.fr" >}}
+{{< card-link-external title="DeclicViolence" url="https://declicviolence.fr" >}}
 
 #### CNOM - Secret médical et violences au sein du couple
 

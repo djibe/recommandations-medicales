@@ -277,7 +277,7 @@ Recours possible à la duloxétine sur prescription par un expert en l'absence d
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link title="Sémiologie du genou en vidéo" url="http://www.lecofer.org/semiologie.php" subtitle="Le COFER" >}}
+{{< card-link-external title="Sémiologie du genou en vidéo" url="http://www.lecofer.org/semiologie.php" subtitle="Le COFER" >}}
 
 - [Sellam J. et al. Recommandations de la Société Française de Rhumatologie sur la prise en charge pharmacologique de la gonarthrose. Revue du Rhumatisme. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301769)
 - [COFER. Arthrose. Item 129 UE 6.](http://www.lecofer.org/item-cours-1-8-0.php)

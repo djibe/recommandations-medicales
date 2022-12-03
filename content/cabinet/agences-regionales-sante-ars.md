@@ -17,6 +17,6 @@ Page mémo pour retrouver les coordonnées de toutes Agences Régionales de Sant
 
 Sur la page de votre ARS vous retrouvez la liste des médecins agréés et parfois les programmes d'éducation thérapeutique disponibles.
 
-{{< card-link title="Agence régionale de santé (ARS) sur tout le territoire" url="https://lannuaire.service-public.fr/navigation/ars" subtitle="Service-public.fr">}}
+{{< card-link-external title="Agence régionale de santé (ARS) sur tout le territoire" url="https://lannuaire.service-public.fr/navigation/ars" subtitle="Service-public.fr">}}
 
-{{< card-link title="Ars.sante.fr" url="https://www.ars.sante.fr">}}
+{{< card-link-external title="Ars.sante.fr" url="https://www.ars.sante.fr">}}

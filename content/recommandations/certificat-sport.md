@@ -204,11 +204,11 @@ Informer: les microbes ne sont pas éliminés par la sueur.
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
 
-{{< card-link title="Documentation des Cardiologues du Sport" url="https://www.clubcardiosport.com/documentation" subtitle="Club Cardio Sport">}}
+{{< card-link-external title="Documentation des Cardiologues du Sport" url="https://www.clubcardiosport.com/documentation" subtitle="Club Cardio Sport">}}
 
-{{< card-link title="Prescrire le sport santé sur ordonnance" url="https://www.mooc-sportsante.com/course/prescrire-le-sport-sante-sur-ordonnance/" subtitle="Par l'IRBMS">}}
+{{< card-link-external title="Prescrire le sport santé sur ordonnance" url="https://www.mooc-sportsante.com/course/prescrire-le-sport-sante-sur-ordonnance/" subtitle="Par l'IRBMS">}}
 
-{{< card-link title="Guide méthodologique Sport et Santé" url="https://www.mooc-sportsante.com/course/guide-methodologique/" subtitle="Par l'IRBMS">}}
+{{< card-link-external title="Guide méthodologique Sport et Santé" url="https://www.mooc-sportsante.com/course/guide-methodologique/" subtitle="Par l'IRBMS">}}
 
 {{% /collapse %}}
 {{%sources%}}

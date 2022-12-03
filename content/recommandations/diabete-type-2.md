@@ -319,9 +319,9 @@ Bilan à jeun pendant 12 heures:
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link title="e-learning EASD: Diabète" url="https://easd-elearning.org/">}}
+{{< card-link-external title="e-learning EASD: Diabète" url="https://easd-elearning.org/">}}
 
-{{< card-link title="Ameli Data Pathologies. Dépenses des soins liés au diabète" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Diab%C3%A8te">}}
+{{< card-link-external title="Ameli Data Pathologies. Dépenses des soins liés au diabète" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Diab%C3%A8te">}}
 
 - [US Preventive Services Task Force. Screening for Prediabetes and Type 2 Diabetes in Children and Adolescents: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2022.14543)
 - [HAS. La chirurgie métabolique en dernier recours en cas de diabète de type 2 couplé à une obésité modérée. Communiqué de presse. 12/10/2022.](https://www.has-sante.fr/jcms/p_3376491/fr/la-chirurgie-metabolique-en-dernier-recours-en-cas-de-diabete-de-type-2-couple-a-une-obesite-moderee)

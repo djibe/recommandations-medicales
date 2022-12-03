@@ -274,7 +274,7 @@ Pour la conduite, contrôle glycémique avant la conduite puis toutes les 2 heur
 {{%/collapse%}}
 {{%sources%}}
 
-{{< card-link title="e-learning EASD" url="https://easd-elearning.org/">}}
+{{< card-link-external title="e-learning EASD" url="https://easd-elearning.org/">}}
 
 - {{< references/calendrier-vaccinal >}}
 - [Holt R. et al. The management of type 1 diabetes in adults. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8481000/)

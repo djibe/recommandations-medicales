@@ -549,9 +549,9 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 
 ### FMC gratuites
 
-{{< card-link title="Ménopause: L'Affaire de tous" url="https://www.pns-mooc.com/fr/mooc/1/presentation" subtitle="CNGOF, GEMVI">}}
+{{< card-link-external title="Ménopause: L'Affaire de tous" url="https://www.pns-mooc.com/fr/mooc/1/presentation" subtitle="par les CNGOF et GEMVI">}}
 
-{{< card-link title="IMPART" url="https://www.imsociety.org/education/impart-registration/" subtitle="International Menopause Society">}}
+{{< card-link-external title="IMPART" url="https://www.imsociety.org/education/impart-registration/" subtitle="International Menopause Society">}}
 
 ### Balance bénéfices-risques du THM
 

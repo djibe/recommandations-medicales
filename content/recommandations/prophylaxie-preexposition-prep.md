@@ -22,20 +22,20 @@ imageSrc = "Illustration de la PrEP par pikisuperstar / Freepik"
 
 {{%article-summary%}}
 
-- Toutes les personnes exposées au VIH sont éligibles à la PrEP et doivent en être informées
-- La PrEP est gratuite et prescriptible par tout médecin, elle protège du [VIH]({{< relref "vih-sida.md" >}}) mais pas des autres [IST](/tags/ist/)
-- Vérifier les contre-indications et réaliser le bilan pré-thérapeutique  
+- Toutes les personnes exposées au VIH sont éligibles à la prophylaxie pré-exposition (PrEP) du VIH et doivent en être informées
+- La PrEP est gratuite et prescriptible par tout médecin, elle protège du [VIH]({{< relref "vih-sida.md" >}}) mais pas des autres [IST](/tags/ist/), encourager le préservatif
+- Vérifier les contre-indications et réaliser le bilan pré-thérapeutique (voir chapitres dédiés)  
   [Check-list ANSM pour le prescripteur (PDF)](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-checklist-pds-version3-2021-juin.pdf)
-- Prescription initiale limitée à 1 mois avec sérologie VIH récente (< 7 jours)  
+- Prescription initiale de l'emtricitabine/tenofovir disoproxil 200/245 mg (Truvada®, certains gén) limitée à 1 mois avec sérologie VIH récente (< 7 jours)  
   Puis prescription trimestrielle.
 - Schéma continu (toujours mentionner sur l'ordonnance)
-  - Initiation: Homme: 2cp en 1 prise (min 2-24h avant le rapport) | Femme: délai de 7 jours avant le 1<sup>er</sup> rapport sexuel à protéger
+  - Initiation: Homme: 2 cp en 1 prise (2-24h avant le rapport) | Femme: délai de 7 jours avant le 1<sup>er</sup> rapport sexuel à protéger
   - ensuite Truvada® 1 cp/j à heure fixe pendant le repas
-- ou discontinu (à la demande, homme sans VHB uniquement)  
-  Truvada® 2cp en 1 prise 2 à 24 heures avant le rapport à protéger, puis 1cp 24 et 48h après la double prise
+- ou **discontinu** (dit *à la demande*, homme sans VHB uniquement)  
+  Truvada® 2 cp en 1 prise 2 à 24 heures avant le rapport à protéger, puis 1cp 24 et 48h après la double prise
 - Arrêt du traitement: 1 cp/j pendant 2 jours après le dernier rapport non protégé puis arrêt
 - Applis pour l'aide à l'observance (My PrEP ..., voir *Resources patients*)
-- Suivi biologique et des dépistages systématique
+- Suivi biologique et dépistages des IST systématique
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -82,7 +82,7 @@ La PrEP protège du [VIH]({{< relref "vih-sida.md" >}}) mais pas des autres [IST
 << Tout médecin peut faire la première prescription et le renouvellement de la PrEP >> (*HAS 2021*). Sinon adresser en {{< references/cegidd >}}, *COREVIH* régional ou centre spécialisé.
 {{%/info%}}
 
-{{< card-link title="La PrEP et ses enjeux" url="https://www.formaprep.org" subtitle="e-learning gratuit" class="my-4">}}
+{{< card-link-external title="La PrEP et ses enjeux" url="https://www.formaprep.org" subtitle="e-learning gratuit" class="my-4">}}
 
 ### Indications à la PrEP
 
@@ -166,7 +166,7 @@ Puis **renouvellement tous les 3 mois**.
 
 #### Schéma continu
 
-[Truvada®](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) 2 cp en 1 prise entre 2 et 24h avant le rapport à protéger 1 cp/j à heure fixe pendant le repas en continu.
+[Truvada®](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) (ou générique avec AMM) 2 cp en 1 prise entre 2 et 24h avant le rapport à protéger 1 cp/j à heure fixe pendant le repas en continu.
 
 #### ou à la demande
 
@@ -210,7 +210,7 @@ Applis pour l'aide à la prise du traitement: [My PrEP](https://myprep.app/) ou 
 
 {{%info%}}
 
-[Emtricitabine/Ténofovir disoproxil 200/245 mg](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) (Truvada®) 1 cp/j à heure fixe pendant le repas.
+[Emtricitabine/Ténofovir disoproxil 200/245 mg](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) (Truvada® ou gén avec AMM) 1 cp/j à heure fixe pendant le repas.
 
 - Femme: délai de 7 jours avant le premier rapport sexuel à protéger
 - Homme: 2 cp en 1 prise entre 2 et 24h avant le rapport à protéger puis 1 cp/j à heure fixe pendant le repas
@@ -266,7 +266,7 @@ Collection de différents supports d'informations sur la PrEP à remettre au pat
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}
 
-{{< card-link title="La PrEP et ses enjeux" url="https://www.formaprep.org/" subtitle="e-learning gratuit par FormaPrEP">}}
+{{< card-link-external title="La PrEP et ses enjeux" url="https://www.formaprep.org/" subtitle="e-learning gratuit par FormaPrEP">}}
 
 [ANSM. Informations importantes concernant le bon usage de l'emtricitabine/Ténofovir disoproxil dans l'indication Prophylaxie pré-exposition (PrEP) au VIH (PDF)](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-brochure-d-information-pds-version4-2021-juin.pdf)
 
@@ -309,6 +309,7 @@ gitGraph
 {{%/collapse%}}
 {{%sources%}}
 
+- [Ameli Médecin. Forte augmentation de la prescription de la PrEP en ville par des médecins généralistes. 29/11/2022.](https://www.ameli.fr/medecin/actualites/forte-augmentation-de-la-prescription-de-la-prep-en-ville-par-des-medecins-generalistes)
 - [Velter A. et al. Évolution du niveau de protection contre le VIH parmi les hommes ayant des rapports sexuels avec des hommes séronégatifs pour le VIH – Résultats de l’enquête Rapport au sexe 2017-2019-2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_1.html)
 - [MedQual. VIH : La PrEP arrive en ville ! Janvier 2022.](http://www.medqual.fr/images/PRO_2018/LA/2022-JAN-LAPrEP-n195-vF.pdf)
 - [ANSM.  Emtricitabine - Ténofovir disoproxil. 27/07/2021.](https://ansm.sante.fr/tableau-marr/emtricitabine-tenofovir-disoproxil)

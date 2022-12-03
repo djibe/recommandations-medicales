@@ -311,7 +311,7 @@ Chirurgie le plus souvent. Parfois chimiothérapie adjuvante et thérapie ciblé
 
 [SFED, SNFGE - informations médicales avant réalisation d'une coloscopie (PDF)](https://www.snfge.org/download/file/fid/2772)
 
-{{< card-link title="Appli MaColo" subtitle="Application d'aide à la préparation de la coloscopie" url="https://macolo.fr/">}}
+{{< card-link-external title="Appli MaColo" subtitle="Application d'aide à la préparation de la coloscopie" url="https://macolo.fr/">}}
 
 ### Préparation colique pour une coloscopie
 

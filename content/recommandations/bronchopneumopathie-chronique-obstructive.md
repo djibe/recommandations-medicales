@@ -612,7 +612,7 @@ graph TB
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
 
-{{< card-link title="Vidéos pour la maîtrise des inhalateurs" url="https://splf.fr/videos-zephir/" subtitle="par la SPLF">}}
+{{< card-link-external title="Vidéos pour la maîtrise des inhalateurs" url="https://splf.fr/videos-zephir/" subtitle="par la SPLF">}}
 
 {{< youtube id="xVwdrtJ2dfY" title="La minute RECO HAS | BPCO : le parcours de soins (Dr Anthony Chapron)" >}}
 
