@@ -181,7 +181,7 @@ Insulines utilisées en sécurité pour le traitement du diabète gestationnel: 
 - Mesures hygiéno-diététiques
   - Activité physique régulière 30-60 min/j 5j/sem
   - Alimentation équilibrée
-  - Arrêt du tabac
+  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Pour l'enfant  
   Surveillance pondérale + activité physique régulière
 

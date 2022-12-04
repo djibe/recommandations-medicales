@@ -2,13 +2,13 @@
 title = "Bronchiolite aiguë du nourrisson"
 prefix = "la "
 titleSeo = "Bronchiolite aiguë"
-description = "Recommandations pour le diagnostic et le traitement de la bronchiolite du nourrisson. Critères de gravité (SpO2, polypnée), indications à l'hospitalisation, DRP"
+description = "Recommandations pour la prise en charge et le traitement de la bronchiolite. Critères de gravité (SpO2, polypnée), critères d'hospitalisation, DRP, surveillance"
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-16T08:08:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2022-10-21"
+lastmod = "2022-12-04"
 specialites = ["pediatrie"]
 annees = "2019"
 sources = ["HAS", "SFP"]
@@ -18,7 +18,7 @@ sctid = "4120002"
 flowchart = true
 image = true
 imageSrc = "Photo au microscope du Virus respiratoire syncytial de la bronchiolite par le CDC 1981 du United States Department of Health and Human Services, Public domain, via Wikimedia Commons"
-todo = "SEO 'criteres hospitalisation bronchiolite', avis CT, FC + SpO2 selon l'âge, https://afpa.org/outil/normes-cardiorespiratoires-utiles/, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
+todo = "avis CT, FC + SpO2 selon l'âge, https://afpa.org/outil/normes-cardiorespiratoires-utiles/, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
 +++
 
 {{%article-summary%}}
@@ -31,7 +31,7 @@ todo = "SEO 'criteres hospitalisation bronchiolite', avis CT, FC + SpO2 selon l'
 - [Bronchiolite: Fiche conseils aux parents HAS (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 
 {{%/article-summary%}}
-{{%collapse "Définitions et diagnostic différentiel" %}}
+{{%collapse "Définitions" %}}
 
 Bronchiolite aiguë (BA)
 : Infection virale respiratoire épidémique du nourrisson (VRS 50-80% des cas, co-infection 10%) d'évolution favorable dans la très grande majorité des cas.
@@ -121,7 +121,7 @@ VRS
 {{% /collapse %}}
 {{%collapse "Signes de gravité de la bronchiolite et hospitalisation" %}}
 
-### Indications à l'hospitalisation lors d'une première bronchiolite
+### Critères d'hospitalisation de la bronchiolite (premier épisode)
 
 L'hospitalisation est la règle en présence de signe de gravité (*forme grave* ou *modérée* avec certains paramètres) avec appel du 15:
 
@@ -159,13 +159,13 @@ Vigilance accrue en forme légère avec signe de fragilité:
 - Tabagisme passif
 - Capacité de recours aux soins ne permettant pas un retour au domicile
 
-#### Indications au palivizumab
+#### Indications aux anticorps palivizumab
 
 Indications à l'anticorps monoclonal palivizumab pour la bronchiolite:
 
-- Prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j ET < 6 mois en début d'épidémie de VRS
-- < 2 ans en début épidémique, prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j et ayant nécessité un traitement pour dysplasie bronchopulmonaire dans les 6 mois
-- < 2 ans avec cardiopathie congénitale avec retentissement hémodynamique
+1. Prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j ET < 6 mois en début d'épidémie de VRS
+2. < 2 ans en début épidémique, prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j et ayant nécessité un traitement pour dysplasie bronchopulmonaire dans les 6 mois
+3. < 2 ans avec cardiopathie congénitale avec retentissement hémodynamique
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -225,7 +225,7 @@ Indications à la radiographie de thorax devant un épisode évocateur de bronch
 - Gravité évoquant d'autres diagnostiques
 
 {{% /collapse %}}
-{{%collapse "Prévention" %}}
+{{%collapse "Prévention de la bronchiolite" %}}
 
 Moyens recommandés de prévention de la bronchiolite:
 
@@ -238,8 +238,8 @@ Moyens recommandés de prévention de la bronchiolite:
   - Éviter les lieux publics confinés
   - Pas de partage des biberons, tétines, sucettes ou couverts
   - Laver régulièrement jouets et doudous
-  - Éviction du tabagisme passif
-  - En cas de rhume: éternuer dans le coude, éviter d'embrasser bébé sur visage et mains, porter un masque pour s'occuepr de bébé
+  - [Éviction du tabagisme passif]({{< relref "arret-tabac.md" >}})
+  - En cas de rhume: éternuer dans le coude, éviter d'embrasser bébé sur visage et mains, porter un masque pour s'occuper de bébé
 
 #### Immunoglobulines anti-VRS
 

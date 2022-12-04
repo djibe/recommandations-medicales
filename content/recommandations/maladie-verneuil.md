@@ -91,7 +91,7 @@ Les prélèvements bactériologiques sont d'interprétation délicate et réserv
 
 - Suivi dermatologique systématique  
   Le médecin traitant dépiste, oriente et prescrit le traitement abortif d'urgence.
-- Arrêt du tabac
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Mesures d'hygiène (Orphanet)
   - Séchage des plis
   - Vêtements larges en coton

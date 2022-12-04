@@ -352,7 +352,7 @@ Recommandations générales pour la prise en charge des apnées du sommeil:
 - Activité physique régulière
 - Évaluer le bénéfice/risque d'une chirurgie bariatrique chez les sujets obèses (35 kg/m²)
 - Traitement d'une rhinite chronique/obstruction nasale associée
-- Arrêt du tabac  
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})  
   {{%class%}}N'améliore pas le SAOS mais réduit l'impact des comorbidités.{{%/class%}}
 - Réduire la consommation d'alcool
 - Réduire la consommation d'hypnotiques

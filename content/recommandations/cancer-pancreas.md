@@ -45,7 +45,7 @@ OU ≥ 3 cas de la même branche (quelque soit le degré de parenté et l'âge d
 - Âge
 - Antécédents familiaux de cancer du pancréas (CaPaFa)
 - [Diabète de type 2]({{< relref "diabete-type-2.md" >}}) ancien (x 1,5-3)
-- Tabac
+- [Tabac]({{< relref "arret-tabac.md" >}})
 - Obésité (+45% d'incidence quand IMC > 35)
 - Pancréatite chronique
 - Mutation BRCA1 et BRCA1

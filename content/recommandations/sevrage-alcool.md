@@ -357,7 +357,7 @@ Installer une alliance thérapeutique sur la définition du problème à résoud
 
 - Lutte contre les facteurs de rechute
 - Consommation: VGM et GGT à 3, 6 et 12 mois
-- Arrêt du tabac
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Rechute: rassurer et déculpabiliser
 
 {{% /collapse %}}

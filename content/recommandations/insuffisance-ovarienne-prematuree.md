@@ -1,9 +1,9 @@
 +++
-title = "Insuffisance ovarienne prématurée"
+title = "Insuffisance ovarienne prématurée (ex ménopause précoce)"
 prefix = "l'"
 titleSeo = "Ménopause précoce IOP"
 description = "Recommandations, conduite à tenir et prise en charge d'une ménopause précoce. Aménorrhée avant 40 ans, bilan FSH haut et estradiol bas, traitement hormonal THS"
-synonyms = ["Ménopause précoce", "ménopause prématurée"]
+synonyms = ["Ménopause prématurée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-07T12:11:02+01:00"
 publishdate = "2022-01-10"
@@ -17,7 +17,7 @@ sctid = "237788002"
 flowchart = true
 image = true
 imageSrc = "Illustration de la ménopause précoce par vectorjuice / Freepik"
-todo = "SEO 'bilan ménopause précoce', tabac, Anticorps anti-surrénaliens, Turner, ESHRE"
+todo = "tabac, Anticorps anti-surrénaliens, Turner, ESHRE"
 +++
 
 {{%article-summary%}}
@@ -37,7 +37,7 @@ Article lié: [Ménopause et traitement hormonal de la ménopause]({{< relref "m
 Insuffisance ovarienne prématurée (IOP, terme de l'*ESHRE*)
 : ou Insuffisance ovarienne précoce, *ex ménopause précoce* ou *ménopause prématurée*.
 : Ménopause survenant avant 40 ans et dont l'étiologie doit être recherchée.  
-Diagnostic par l'association d'un critère clinique:
+Diagnostic de ménopause précoce par l'association d'un critère clinique:
     - Aménorrhée ≥ 4 mois primaire ou secondaire
     - Spanioménorrhée ≥ 4 mois survenant avant 40 ans  
   Et d'un critère biologique:
@@ -49,7 +49,9 @@ Lien épidémiologique suggéré: risque d'Alzheimer x3 (annulée si THM jusqu'�
 Spanioménorrhée
 : Diminution de la fréquence des cycles menstruels (= allongement de leur durée).
 
-{{< table title="Terminologie de la ménopause. Dr JB Fron d'après CNGOF 2021" >}}
+**NB.** Le terme de ménopause précoce est uniquement utilisé à des fins d'indexation par les moteurs de recherche.
+
+{{< table title="Définitions de la ménopause précoce, naturelle et tardive. Dr JB Fron d'après CNGOF 2021" >}}
 | Situation de survenue (ans)   | Terme                          |
 |------------------------------:|--------------------------------|
 | +55                           | Ménopause tardive              |
@@ -106,7 +108,7 @@ Diagnostic rapide de l'insuffisance ovarienne prématurée pour mettre en place 
 
 ### Interrogatoire
 
-Signes et symptômes à rechercher:
+Signes et symptômes de ménopause précoce à rechercher:
 
 - Âge de la patiente
 - Antécédents  
@@ -140,7 +142,7 @@ Rechercher des signes de maladies auto-immunes.
 
 {{%info%}}En première intention, dosage de la bêta-HCG seule avec un bilan complémentaire si négative{{%/info%}}
 
-### Bilan devant un tableau de ménopause précoce
+### Bilan d'une ménopause précoce
 
 **Le diagnostic d'insuffisance ovarienne prématurée (ex ménopause précoce) est biologique**.
 
@@ -150,7 +152,7 @@ FSH, estradiol, hCG, prolactine, TSH:
 - Doser sans contraception hormonale et à distance de la pré-ovulation
 - FSH élevée > 25 UI/L et estradiol bas
 
-### Bilan en cas de diagnostic avéré
+### Bilan en cas de diagnostic de ménopause précoce confirmé
 
 Prise en charge dans un *Centre de Référence de maladies rares* prenant en charge les insuffisances ovariennes prématurées avec:
 
@@ -172,7 +174,7 @@ Ostéodensitométrie au diagnostic puis tous les 5 ans pour évaluer la perte os
 Voir les [indications au traitement selon T-score et FRAX]({{< relref "osteoporose.md" >}}).
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la ménopause précoce" %}}
 
 {{%info%}}Le traitement hormonal substitutif (THS) utilisé pour la ménopause précoce (spontanée, non iatrogène) n'augmente pas le risque de [cancer du sein]({{< relref "cancer-sein.md" >}}) (56-79% des patientes le croient, *HAS 2021*){{%/info%}}
 

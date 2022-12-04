@@ -276,7 +276,7 @@ L'ECG dépiste une coronaropathie ou un trouble du rythme associé.
   - Précautions avec les BB en ischémie chronique
   - Apports sodés < 5 g/j
 - Mesures hygiéno-diététiques
-  - **Arrêt du tabac**
+  - **[Arrêt du tabac]({{< relref "arret-tabac.md" >}})**
   - Activité physique quotidienne: auto-exercices et podomètre
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Correction d'un surpoids  

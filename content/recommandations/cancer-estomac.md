@@ -170,7 +170,7 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
   [Et la prévention associée]({{< relref "asplenie.md" >}}).
 - Examen clinique tous les 6 mois pendant ≥ 5 ans  
   Signes de récidive, signes de {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}.
-- Abstinence tabac et [alcool]({{< relref "sevrage-alcool.md" >}})
+- [Abstinence tabac]({{< relref "arret-tabac.md" >}}) et [alcool]({{< relref "sevrage-alcool.md" >}})
 - Biologique  
   NFS, folates x 1/an.
 - Dépistage de l'entourage au 1<sup>er</sup> degré (voir *Traitement*)

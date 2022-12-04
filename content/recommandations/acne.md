@@ -126,7 +126,7 @@ Les soins locaux sont systématiques pour la prise en charge de l'acné:
 - Suivie d'application quotidienne de **crème hydratante** adaptée à la peau acnéique
 - **Photoprotection** en cas d'exposition solaire
 - L'utilisation de maquillages adaptés à la peau acnéique est possible
-- Arrêt du tabac
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Adaptation des facteurs aggravants l'acné
   - Dermocorticoïdes et corticoïdes
   - Hormones (androgènes, progestatifs)

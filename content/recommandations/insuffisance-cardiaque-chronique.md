@@ -277,7 +277,7 @@ Indications à une consultation génétique: cardiomyopathie hypertrophique (CMH
   - 30 minutes d'activité physique quotidienne (min 20 min x 3/sem)  
     {{%class%}}Atteindre une dyspnée légère à modérée.{{%/class%}}
   - **Réadaptation cardiaque** supervisée en SSR
-- Arrêt du tabac et de l'[alcool]({{< relref "sevrage-alcool.md" >}})
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et de l'[alcool]({{< relref "sevrage-alcool.md" >}})
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Mesures associées
   - Éducation thérapeutique

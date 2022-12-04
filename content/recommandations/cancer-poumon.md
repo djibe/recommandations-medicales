@@ -212,7 +212,7 @@ Le traitement doit être démarré dans les 6 semaines qui suivent la réalisati
   - [Tableaux des maladies professionnelles](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&motsCles=&planPatho=TABMALPRO_Cancers%2FCancer%20broncho-pulmonaire%20et%20pleural%2FCancer%20broncho-pulmonaire%2FCancer%20primitif)
   - Rédiger un certificat médical initial établissant le lien possible. C'est le patient qui l'adresse à sa CPAM pour la reconnaissance en Maladie Professionnelle.
 - [Guide patient: la prise en charge du cancer du poumon (PDF)](https://www.has-sante.fr/jcms/c_985214/fr/ald-n-30-guide-patient-la-prise-en-charge-du-cancer-du-poumon)
-- Arrêt du tabac  
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})  
   Améliore la survie à tous les stades (voir vidéo dans les *Sources*).
 - Association de patients: [De l'Air](https://cancer-poumon.fr/)
 - Soins de support, directives anticipées

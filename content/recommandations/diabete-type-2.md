@@ -73,7 +73,7 @@ Rémission du diabète
 
 {{%warning%}}Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} (rarement modéré) {{%class%}}(risque CV x 3-4){{%/class%}}{{%/warning%}}
 
-- Arrêt du tabac (passif également)
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (passif également)
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
   - Seuil diagnostique ≥ 140/90 mmHg (160 après 80 ans, {{%class%}}*ESC 2018*{{%/class%}})
   - Cible 120-130/70-79 mmHg {{%class%}}(*ESC 2019 diabetes*){{%/class%}}

@@ -191,7 +191,7 @@ En signes de maladie systémique:
 - Anticorps anti-cardiolipine
 - Cryoglobuline
 - Radiographie des mains, pieds et thorax
-- Echodoppler des artères des membres supérieurs
+- Échodoppler des artères des membres supérieurs
 - Capillaroscopie  
   Par l'angiologue: recherche une micro-angiopathie spécifique débutante de sclérodermie.
 
@@ -201,7 +201,7 @@ En signes de maladie systémique:
 Mesures générales de la prise en charge:
 
 - Mesures d'hygiène pour limiter les crises
-  - Arrêt du tabac
+  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
   - Arrêt des médicaments vasoconstricteurs  
     Déclaration en pharmacovigilance.
   - Lutte contre le froid et l'humidité  

@@ -274,6 +274,7 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Activité physique d'intensité modérée ≥ 150 min/semaine
   - {{< modal-btn modal-sel >}}Régime désodé < 5 g/j{{< /modal-btn >}} et hydrique 1,5 L/j (ni restreint ni forcé)
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Contrôle tensionnel
   - Traitement si PA n'est pas dans la cible (*KDIGO 2021*)  
   {{%class%}}Considérer si diabète avec albuminurie sans hypertension (*KDIGO 2020*){{%/class%}}

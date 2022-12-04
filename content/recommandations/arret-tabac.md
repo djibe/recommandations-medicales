@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-11-21T14:11:22+01:00"
 publishdate = "2022-12-01"
-lastmod = "2022-12-02"
+lastmod = "2022-12-04"
 specialites = ["addictologie"]
 annees = "2019"
 sources = ["HAS", "HCSP", "INCa"]
@@ -19,7 +19,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "Composants toxiques de la cigarette par La Ligue contre le cancer"
-todo = "TODO:, bénéfices, aider à gérer la rechute: HAS p.33+35+36; Arret avant 30ans : élimine 100 % du risque de décès par coro. Avant 40 ans : élimine 90 % du risque (Pirie Ket al ? Lancet 2013 ; 381:133-41)"
+todo = "bénéfices, aider à gérer la rechute: HAS p.33+35+36; Arret avant 30ans : élimine 100 % du risque de décès par coro. Avant 40 ans : élimine 90 % du risque (Pirie Ket al ? Lancet 2013 ; 381:133-41)"
 +++
 
 {{%article-summary%}}
@@ -163,21 +163,16 @@ Autres maladies avec sur-représentation de fumeurs: [Algies vasculaires de la f
 
 ### 1) Dépistage du tabagisme
 
-Le dépistage doit être systématique pour tous: Fumez-vous ?
+Le dépistage doit être systématique pour tous: **<< Fumez-vous ? >>**
 
-Si oui: Avez-vous déjà essayé de fumer ?
-
-> Voir l'arbre décisionnel en bas de la page
+Si oui: **<< Avez-vous déjà essayé de fumer ? >>**  
+Prolonger l'interrogatoire avec l'arbre décisionnel en bas de la page.
 
 Demander l'accord du patient pour parler de sa consommation.
 
 ### 2) Évaluation de la dépendance à la nicotine
 
-{{< modal-btn modal-fagerstrom6 >}}Fagerström complet{{< /modal-btn >}} ou version simplifiée ci-dessous.
-
-<div class="card card-body py-0 my-3">
-{{< scores/fagerstrom >}}
-</div>
+{{< modal-btn modal-fagerstrom >}}Évaluation de la dépendance par le test de Fagerström simplifié{{< /modal-btn >}} voire le {{< modal-btn modal-fagerstrom6 >}}Fagerström complet{{< /modal-btn >}}.
 
 Rechercher également un syndrome de sevrage, une perte de contrôle, un désir persistant ou une incapacité à réduire ou arrêter sa consommation.
 
@@ -217,7 +212,7 @@ Rappeler que l'arrêt du tabac n'est pas qu'une question de volonté mais qu'il 
   Conseiller d'arrêter, comprendre les avantages qu'il en retire, proposer une {{< modal-btn modal-fagerstrom >}}évaluation du niveau de dépendance{{< /modal-btn >}}, proposer une réduction avec TNS et un soutien thérapeutique par un soignant.
 2. Intention: il pense à arrêter de fumer mais est encore ambivalent  
   Encourager à arrêter avec les traitements recommandés, envisager une réduction.  
-  Explorer l'ambivalence et la motivation (TODO: échelle analogique d'évaluation), les soutiens.
+  Explorer l'ambivalence et la motivation ([échelle PDF](https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_echelle_analogique_evaluation_motivation.pdf)), les soutiens.
 3. Décision: il prend la décision d'arrêter de fumer et élabore une stratégie d'arrêt  
   Conseiller de fixer une date d'arrêt, encourager.
 4. Action: il est activement engagé dans le changement, il arrête de fumer  
@@ -417,7 +412,7 @@ L'entretien motivationnel n'est pas une confrontation ou une persuasion.
 - << Avez-vous peur d'arrêter de fumer ? Si oui, pour quelles raisons ? >>
 - << Si vous décidez d'arrêter de fumer, quelle confiance auriez-vous dans votre capacité à y parvenir ? >>
 
-TODO: Évaluation du sentiment d'efficacité
+[Échelle de l'évaluation du sentiment d'efficacité (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_evaluation_sentiment_efficacite.pdf)
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}

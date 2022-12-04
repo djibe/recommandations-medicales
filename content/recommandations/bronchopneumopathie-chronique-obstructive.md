@@ -308,16 +308,16 @@ Indications aux gaz du sang: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mm
   {{%class%}}Avec EFR et gaz du sang.{{%/class%}}
 - Réhabilitation respiratoire dans les 2 à 4 semaines  
   {{%class%}}Diminue la mortalité (50% à 5 ans) et les ré-hospitalisations.{{%/class%}}
-- Encourager à l'arrêt du tabac (voir *État stable*)
+- Encourager à l'arrêt du tabac (voir *Traitement de fond*)
 - Suivi infirmier à domicile
 - Contrôler le Plan d'Action
-- Poursuivre les traitements de l'état stable
+- Poursuivre les traitements de fond
 - Recherche et correction d'une [carence en vitamine D]({{< relref "vitamine-d.md" >}}) (*GOLD*)
 
 {{% /collapse %}}
 {{%collapse "Traitement de fond" %}}
 
-- **Arrêt du tabac**
+- **[Arrêt du tabac]({{< relref "arret-tabac.md" >}}**
   - Principal facteur pronostique
   - Prise en charge optimale (conseil minimal, [substituts]({{< relref "substituts-nicotiniques.md" >}}), [tabac-info-service](https://www.tabac-info-service.fr/), tabacologue, psychothérapie, varénicline)
   - Autres expositions aux toxiques et gaz domestiques et professionnels  
@@ -529,7 +529,7 @@ bénéfices
 {{% /collapse %}}
 {{%collapse "Surveillance" %}}
 
-Reprendre tous les points de *Traitement - état stable* ainsi que les mesures suivantes.  
+Reprendre tous les points du *Traitement de fond* ainsi que les mesures suivantes.  
 Suivi tous les 1 à 3 mois après chaque modification de traitement et tous les 3 à 12 mois selon la sévérité de la BPCO.
 
 Bilan à reprendre régulièrement:

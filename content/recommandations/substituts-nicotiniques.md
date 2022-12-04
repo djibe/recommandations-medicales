@@ -21,7 +21,7 @@ todo = "SEO 'liste des substituts nicotiniques remboursables par l'assurance mal
 
 ## Les substituts nicotiniques remboursés pour le sevrage tabagique {.typography-headline-5}
 
-Liste des substituts nicotiniques remboursés sur prescription par la Sécurité Sociale en 2022, sans limite de remboursement en vue de l'arrêt du tabac.
+Liste des substituts nicotiniques remboursés sur prescription par la Sécurité Sociale en 2022, sans limite de remboursement en vue de [l'arrêt du tabac]({{< relref "arret-tabac.md" >}}).
 
 <div class="card card-body card-primary-action rounded-lg mw-248" role="button" data-toggle="modal" data-target="#modal-fagerstrom" style="background: var(--bg-hex)">
   <h3 class="card-title">Évaluation de la dépendance tabagique par le test de Fagerström</h3>
@@ -192,6 +192,7 @@ Débuter avec ces dosages le premier mois.
 </blockquote>
 
 {{< references/tabac-info-service >}}
+
 {{% modal title="Test de Fagerström de dépendance au tabac" id="modal-fagerstrom"%}}
 
 {{< scores/fagerstrom >}}

@@ -134,7 +134,7 @@ Possibles seulement si 1 seul facteur de risque cardiovasculaire isolé parmi:
 
 - Âge ≥ 35 ans
 - Surpoids, obésité
-- Tabac > 15 cig/j
+- [Tabac > 15 cig/j]({{< relref "arret-tabac.md" >}})
 - Dyslipidémie contrôlée
 - [Diabète type 2]({{< relref "diabete-type-2.md" >}})
 - [Migraine sans aura]({{< relref "migraine.md" >}})

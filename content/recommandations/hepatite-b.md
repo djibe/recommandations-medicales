@@ -186,7 +186,7 @@ Adresser au spécialiste avec le bilan initial:
   - VHA avec sérologie préalable
   - Pneumocoque
   - Grippe annuelle
-- Arrêt de l'alcool et du tabac
+- Arrêt de l'alcool et du [tabac]({{< relref "arret-tabac.md" >}})
 - Correction d'un surpoids
 
 [Guide patient: vivre avec une hépatite B chronique (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/guide_patient_vhb.pdf)

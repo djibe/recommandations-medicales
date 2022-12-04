@@ -272,7 +272,7 @@ Si endomètre > 4 mm ou saignements répétés.
 
 Objectifs: amélioration de la santé, des signes climatériques, du risque cardiovasculaire et [prévention de l'ostéoporose]({{< relref "osteoporose.md" >}}).
 
-- Arrêt tabac et alcool
+- [Arrêt tabac]({{< relref "arret-tabac.md" >}}) et alcool
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Correction d'un surpoids  
   Perte de 5-10% par réduction glucido-lipidique.

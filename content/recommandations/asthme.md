@@ -265,7 +265,7 @@ Réévaluer l'efficacité du traitement initial à 2-3 mois.
 - Expositions domestiques, professionnelles/scolaires
   - Amélioration en vacances
   - {{%class%}}15-20% des asthmes de l'adulte sont liés à une exposition professionnelle. (*SPF*){{%/class%}}
-- Tabac et cigarette électronique  
+- [Tabac et cigarette électronique]({{< relref "arret-tabac.md" >}})  
   {{%class%}}La cigarette électronique aggrave les symptômes et les exacerbations (*GINA 2022*){{%/class%}}
 - Symptômes des 4 dernières semaines
   - Variabilité en intensité

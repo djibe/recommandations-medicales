@@ -331,7 +331,7 @@ ECG 12 dérivations
 {{%collapse "Mesures hygiéno-diétetiques" %}}
 
 - Restriction sodée < 5 g/j
-- Arrêt du tabac et réduction de la [consommation d'alcool]({{< relref "sevrage-alcool.md" >}})  
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et réduction de la [consommation d'alcool]({{< relref "sevrage-alcool.md" >}})  
   < 2 verre/j/homme, < 1/j si femme.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Correction d'un surpoids et d'une obésité abdominale (102 cm homme, 88 cm femme)  

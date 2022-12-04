@@ -164,7 +164,7 @@ Mesures générales de prise en charge de la polyarthrite:
   {{%class%}}Gérer la douleur, handicap, observance, maintien de l'activité professionnelle.{{%/class%}}
 - **Suivi bucco-dentaire rigoureux**
 - Correction des facteurs de risque cardiovasculaire
-  - Arrêt du tabac
+  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
   - Risque {{< scores/heartscore >}}
   - Activité physique régulière
   - Correction d'un surpoids

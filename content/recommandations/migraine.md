@@ -279,7 +279,7 @@ Ne pas culpabiliser l'abus médicamenteux en migraine chronique (effet délétè
 
 ### Hygiène de vie
 
-- Arrêt du tabac obligatoire  
+- [Arrêt du tabac obligatoire]({{< relref "arret-tabac.md" >}})  
   {{%class%}}L'association migraine - tabac décuple le risque d'AVC.{{%/class%}}
 - Éviter les facteurs déclenchants identifiés  
   Habituels: facteur alimentaire, alcool, manque de sommeil/grasse matinée, stress, jeûne, chaleur, changements de climat.

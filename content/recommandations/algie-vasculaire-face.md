@@ -260,13 +260,13 @@ Traitements de l'algie spécialisés:
 
 Indication à la prise en charge par traitement de fond de l'algie vasculaire de la face: forme épisodique avec période douloureuse plus de 2 semaines ou forme chronique.
 
-- Pas d'ALD
-- Arrêt du tabac
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Éviction de l'alcool, cannabis et cocaïne
 - Traitement transitionnel si besoin le temps de la titration (voir *Traitement de la crise*)
 - Association de patients  
 [AFCAVF](http://www.afcavf.org/index/page/id/accueil)
 - [Appli d'agenda des crises](https://play.google.com/store/apps/details?id=eu.monavf.android.monavf)
+- Pas d'ALD accordée
 
 ### Vérapamil
 

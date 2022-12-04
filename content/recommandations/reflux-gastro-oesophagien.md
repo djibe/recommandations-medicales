@@ -188,7 +188,7 @@ Mesures générales de prise en charge du reflux gastro-œsophagien:
 - Augmenter l'activité physique
 - Mastiquer suffisamment et manger lentement  
   Repas > 20-30 min en position assise et détendue.
-- Arrêt du tabac
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Adaptation de l'alimentation
   - RGO nocturne: dîner léger et intervalle dîner-coucher de 3 heures
   - Cuissons sans matières grasses et limiter les graisses et l'alcool

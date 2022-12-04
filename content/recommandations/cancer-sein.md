@@ -60,7 +60,7 @@ Liste des facteurs de risque de cancer du sein:
 - Antécédent personnel de radiothérapie thoracique à haute dose
 - Facteurs de risque modifiables
   - [Alcool]({{< relref "sevrage-alcool.md" >}}) (15% attribuables)
-  - Tabac (4,4% attribuables)
+  - [Tabac]({{< relref "arret-tabac.md" >}}) (4,4% attribuables)
   - Surpoids ou obésité (11% des cancers post-ménopausiques)
   - Inactivité physique
 

@@ -164,7 +164,7 @@ Trame des éléments à relever pour un dossier médical complet.
 ### Objectifs
 
 - Individualisés, atteignables et réalistes
-  - Nutrition, activité physique, arrêt du tabac
+  - Nutrition, activité physique, [arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Glycémiques
   - HbA<sub>1c</sub>, temps dans la cible, hypoglycémies
 

@@ -240,9 +240,9 @@ Recommandations générales pour la prise en charge de la fibrillation atriale:
 
 - Traitement à vie et {{< modal-btn modal-observance >}}observance{{< /modal-btn >}} +++
 - Facteurs favorisants
-  - Arrêt du tabac
+  - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
   - Réduction de l'alcool
-  - HTA
+  - Hypertension artérielle
   - Correction d'un surpoids
   - Activité physique d'intensité modérée  
   Éviter endurance prolongée (marathon).

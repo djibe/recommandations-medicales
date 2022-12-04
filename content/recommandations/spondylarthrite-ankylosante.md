@@ -220,7 +220,7 @@ L'IRM des sacro-iliaques et des rachis dorso-lombaires est importante pour un di
 Résumé des recommandations pour la prise en charge de la spondylarthrite:
 
 - Suivi spécialisé systématique par le rhumatologue
-- Arrêt du tabac systématique  
+- [Arrêt du tabac systématique ]({{< relref "arret-tabac.md" >}}) 
   {{%class%}}Augmente la sévérité de la maladie et facteur de moindre réponse aux anti-TNF.{{%/class%}}
 - Activité physique quotidienne
 - Contrôle du poids

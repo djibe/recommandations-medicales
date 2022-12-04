@@ -364,7 +364,7 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 - Interactions alimentaires  
   Compléments alimentaires hyperprotéinés, millepertuis, jus de pamplemousse, kaolin ...
 - Addictions  
-  Lutte tabac et cannabis, alcool, psychotropes.
+  [Lutte tabac]({{< relref "arret-tabac.md" >}}) et cannabis, [alcool]({{< relref "sevrage-alcool.md" >}}), psychotropes.
 - Vaccinations multiples (voir *Vaccinations spécifiques au cours du VIH*)
 - Rechercher une dépression, démence
 - Santé sexuelle

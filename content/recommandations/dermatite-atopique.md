@@ -194,7 +194,7 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
   - Laver la literie à 55°C tous les 10 jours, éviter les peluches non lavables
   - Housses Gore-Tex ou équivalent
   - Éviter les chats
-- Arrêt du tabac
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - 19°C dans la chambre
 - Lutte contre les idées reçues  
   Usage des dermocorticoïdes, la dermatite atopique n'est pas allergique-psychologique-infectieuse-contagieuse.

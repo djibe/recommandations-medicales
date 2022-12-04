@@ -184,7 +184,7 @@ Les glitazones (non disponibles en France) et les {{< modal-btn modal-glp1ra >}}
 - Suivi par le gastro-entérologue
 - Aucune consommation d'alcool
 - Perte de poids de 10%
-- Arrêt du tabac
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Activité physique quotidienne
 - Évaluer le {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} (calcul du {{< scores/heartscore >}} sauf diabète)
 - Dépister des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}} ({{< modal-btn modal-saos-diabete >}}dépistage si diabète{{< /modal-btn >}})

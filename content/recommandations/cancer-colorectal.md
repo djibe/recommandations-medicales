@@ -198,7 +198,7 @@ Autres bilans: ECG, détermination du statut des gènes RAS et BRAF tumoraux, du
 Facteurs de risque de cancer colorectal liés au mode de vie:
 
 - [Alcool]({{< relref "sevrage-alcool.md" >}})
-- Tabac
+- [Tabac]({{< relref "arret-tabac.md" >}})
 - Sédentarité
 - Surpoids (+15% / 5 kg/m²)
 - Alimentation riche en viande rouge (+29% / 100g/j), charcuterie (+21% / 50 g/j)  

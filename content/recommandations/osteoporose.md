@@ -39,7 +39,7 @@ Recommandations simplifiées pour une prise en charge réaliste de l'ostéoporos
 7. Nouveau contrôle 2 ans après l'arrêt du traitement
 
 **Prévention pour toutes**  
-{{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, arrêt du tabac, activité physique, [vitamine D]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1 - 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
+{{< modal-btn modal-risque-chute >}}Risque de chutes{{< /modal-btn >}}, [arrêt du tabac]({{< relref "arret-tabac.md" >}}), activité physique, [vitamine D]({{< relref "vitamine-d.md" >}}) ≥ 75 nmol/L, {{< modal-btn modal-calcium-cible >}}calcium cible 1 - 1,2 g/j{{< /modal-btn >}} ({{< modal-btn modal-calcium >}}aliments riches en calcium{{< /modal-btn >}}).
 
 Chapitre lié: [Traitement hormonal de la ménopause]({{< relref "menopause.md" >}}) et [vitamine D]({{< relref "vitamine-d.md" >}})
 

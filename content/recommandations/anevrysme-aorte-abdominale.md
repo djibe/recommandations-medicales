@@ -21,7 +21,7 @@ todo = "SEO 'aorte abdominale', anévrisme ou anévrysme ?"
 
 {{%article-summary%}}
 
-Indications au dépistage de l'anévrysme de l'aorte par échodoppler:
+Indications au dépistage de l'anévrysme de l'aorte abdominale par échodoppler:
 
 - Homme de 65 à 75 ans avec tabagisme actif ou sevré depuis < 20 ans
 - Homme de 50 à 75 ans avec antécédent familial d'AAA au 1<sup>er</sup> degré (parents/fratrie)
@@ -64,8 +64,8 @@ Imagerie complémentaire par angioscanner ou angio-IRM si images anormales.
 
 Prise en charge de l'anévrisme de l'aorte abdominale:
 
-- Arrêt du tabac +++
-- Correction d'une hypertension artérielle
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) +++
+- [Correction d'une hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
 - Correction d'une hypercholestérolémie
 - Correction d'un surpoids ou obésité
 - Exercice physique régulier
