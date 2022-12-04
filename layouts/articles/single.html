@@ -21,7 +21,14 @@
     <!-- CONTENT -->
     <div class="col-lg-9 offset-xl-2">
         <div class="row">
-          <article class="col">
+          <div class="col-12">
+            <nav aria-label="Fil d'ariane" class="mt-5" style="padding-inline: clamp(1.375rem, 1.2rem + 0.89vw, 2rem)">
+              <ol class="breadcrumb">
+                {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+              </ol>
+            </nav>
+          </div>
+          <article class="col-12">
             <div class="w-768">
               <header class="projet__header">
                 <h1 class="my-3 mt-md-5 my-xl-5">{{ .Title }}</h1>
