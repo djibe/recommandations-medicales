@@ -626,6 +626,13 @@ article {
     color: #0073a9;
     word-break: break-word;
   }
+  .alert-verified {
+    background-color: #fcf8ca;
+
+    p {
+      color: #74680B;
+    }
+  }
   .alert-warning {
     color: var(--secondary-dark);
   }

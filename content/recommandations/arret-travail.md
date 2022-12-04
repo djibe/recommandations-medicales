@@ -2,7 +2,7 @@
 title = "Arrêt de travail"
 noindex = true
 prefix = "l'"
-description = "TODO:"
+description = "Détails sur la prescription des arrêts de travail, patient en vacances"
 synonyms = ["Arrêt maladie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-25T21:16:41+02:00"
@@ -19,7 +19,7 @@ todo = "TODO: summary, reprise temps partiel, modalité papier/ameli, https://ww
 
 {{%article-summary%}}
 
-TODO: À compléter
+*Page mémo de contenu médiocre pour le moment*
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
