@@ -82,7 +82,7 @@ Antibiothérapie par [Oracilline®](https://base-donnees-publique.medicaments.go
 
 Vaccins à réaliser avant voire après une splénectomie.
 
-{{< table title="Synthèse des vaccins à administrer en cas d'asplénie selon Calendrier vaccinal et HCSP 2014" class="table-wrap" >}}
+{{< table title="Synthèse des vaccins à administrer en cas d'asplénie selon Calendrier vaccinal 2022 et HCSP 2014" class="table-wrap" >}}
 | Germe           | Primo-vaccination            | Rappel           |
 |-----------------|------------------------------|------------------|
 | Pneumocoque     | Prevenar13 puis Pneumovax M2 | Pneumovax /5 ans |

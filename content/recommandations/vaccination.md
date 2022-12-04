@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2022-11-26"
+lastmod = "2022-12-04"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["MinSanté", "HCSP"]
@@ -55,18 +55,18 @@ VVA
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal" "show" %}}
 
-{{< table title="Calendrier des vaccins recommandés en France en 2022. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Ministère de la Santé 2022" >}}
+{{< table title="Calendrier des vaccins recommandés en France en 2022. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Ministère de la Santé 2022." >}}
 | Âge     | Valences      | Spécialités équivalentes       |
 |:-------:|---------------|--------------------------------|
 | 2 mois  | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus (HAS) | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
-| 3 mois  | Méningo B<br>Rotavirus (HAS)  | Bexsero<br>RotaTeq 2/3, Rotarix 2/2 |
+| 3 mois  | Méningo B<br>Rotavirus (HAS)<br>Prématuré: Pneumo 13 | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>Prevenar 13 |
 | 4 mois  | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus (HAS) | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 3/3 |
 | 5 mois  | Méningo C<br>Méningo B    | Menjugate, Neisvac<br>Bexsero |
 | 11 mois | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
 | 12 mois | Méningo C<br>ROR<br>Méningo B | Menjugate, Neisvac<br>MMRvaxPro, Priorix<br>Bexsero |
 | 16-18 mois | ROR        | MMRvaxPro, Priorix             |
 | 6 ans   | DTCaPolio     | ~~InfanrixTetra~~, Tetravac-acellulaire |
-| 11-13 ans   | dTcaPolio<br>(DTCaPolio si non fait)       | BoostrixTetra, Repevax<br>(voir 6 ans)    |
+| 11-13 ans   | dTcaPolio<br>(DTCaPolio si non fait)       | BoostrixTetra, Repevax<br>(voir *6 ans*)    |
 | 11-14 ans   | HPV       | Gardasil9                      |
 | 25 ans  | dTcaPolio     | BoostrixTetra, Repevax         |
 | 45 ans  | dTPolio       | Revaxis                        |
@@ -147,6 +147,8 @@ Lire le *Calendrier vaccinal* page 75.
 - Méningocoque C
 - Pneumocoque
 
+> *[Loi du 30 décembre 2017](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171171)*
+
 {{% /collapse %}}
 {{%collapse "Populations à risque" %}}
 
@@ -156,7 +158,7 @@ Personnes nécessitant un schéma vaccinal renforcé (détail des vaccinations d
   - Vaccination doit débuter à 2 mois d'âge chronologique
   - Calendrier vaccinal identique avec en supplément: Prevenar à 3 mois
   - Mère Ag HBs+: se référer au *Calendrier vaccinal*
-- [Asplénie]({{< relref "asplenie.md" >}})
+- [Asplénie]({{< relref "asplenie.md" >}}) (détail sur la fiche dédiée)
 - [Cancer](/tags/cancer/) avec chimiothérapie
   - Pas de recommandations spécifiques sous immunothérapie, thérapie ciblée ou hormonothérapie
   - Calendrier vaccinal avec rappel systématique 3 mois après l'arrêt de la chimio (6 mois si hémopathie)
