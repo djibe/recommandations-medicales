@@ -16,7 +16,7 @@ sctid = "54823002"
 flowchart = true
 image = true
 imageSrc = "Photo de National Institutes of Health (NIH) sur Foter.com / CC BY-NC"
-todo = "SEO 'hypothyroïdie fruste', read MAJ https://www.em-select.com/article/1229908, simplifier ?"
+todo = "read MAJ https://www.em-select.com/article/1229908, simplifier ?"
 +++
 
 {{%article-summary%}}
@@ -25,6 +25,7 @@ todo = "SEO 'hypothyroïdie fruste', read MAJ https://www.em-select.com/article/
 - Indications au traitement par lévothyroxine:  
   TSH > 10 mUI/L, anticorps anti-TPO positifs, TSH > 4 mUI/L pendant la grossesse
 - Traitement d'épreuve si hypothyroïdie fruste avec signes cliniques évocateurs
+- On dit << fruste >> et non << frustre >> (qui n'existe pas, [Académie française](https://www.dictionnaire-academie.fr/article/A9F1803))
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -42,9 +43,7 @@ Lorsque la TSH est modérément élevée, de 4 à 10 mUI/L, renouveler le dosage
 
 ### Évolution de l'hypothyroïdie fruste
 
-- Normalisation 1/3
-- Stabilisation 1/3
-- Hypothyroïdie 1/3
+Évolution en 3 parts égales vers: une normalisation, une stabilisation ou une évolution vers une [hypothyroïdie clinique]({{< relref "hypothyroidie.md" >}}).
 
 ### Facteurs prédictifs d'évolution vers une hypothyroïdie patente
 

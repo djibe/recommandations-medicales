@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-16T08:08:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2022-12-04"
+lastmod = "2022-12-05"
 specialites = ["pediatrie"]
 annees = "2019"
 sources = ["HAS", "SFP"]
@@ -27,7 +27,7 @@ todo = "avis CT, FC + SpO2 selon l'âge, https://afpa.org/outil/normes-cardiores
 - Éliminer une insuffisance cardiaque et une pneumopathie
 - Critères d'hospitalisation de la bronchiolite: voir *Signes de gravité et hospitalisation*
 - Durée de la dyspnée de 3 à 10 jours (voire 6 semaines)
-- Prise en charge de la bronchiolite: DRP - fractionner - surveillance - 0 tabac
+- Recommandations de prise en charge de la bronchiolite: DRP - fractionner - surveillance - 0 tabac
 - [Bronchiolite: Fiche conseils aux parents HAS (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 
 {{%/article-summary%}}
@@ -90,6 +90,9 @@ CNPP
 
 DRP
 : désobstruction rhinopharyngée
+
+HAS
+: Haute Autorité de Santé
 
 NS
 : nourrisson
@@ -172,7 +175,7 @@ Indications à l'anticorps monoclonal palivizumab pour la bronchiolite:
 
 {{%info%}}L'examen est réalisé APRÈS une désobstruction rhinopharyngée (DRP){{%/info%}}
 
-Signes et symptômes cliniques de la bronchiolite aiguë du nourrisson:
+Signes et symptômes de la bronchiolite aiguë du nourrisson:
 
 - Antécédents (asthme, néonataux)
 - Pollution  
@@ -227,7 +230,7 @@ Indications à la radiographie de thorax devant un épisode évocateur de bronch
 {{% /collapse %}}
 {{%collapse "Prévention de la bronchiolite" %}}
 
-Moyens recommandés de prévention de la bronchiolite:
+Recommandations pour la prévention de la bronchiolite:
 
 - Allaitement maternel
 - Retarder la mise en collectivité
@@ -258,8 +261,9 @@ Hospitalisation si critères remplis (voir plus haut).
 
 ### Prise en charge symptomatique de la bronchiolite
 
-[Fiche conseils aux parents (HAS/CNPP, PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
+Recommandations de prise en charge d'un épisode de bronchiolite:
 
+- [Fiche conseils aux parents (HAS/CNPP, PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 - Désobstruction rhino-pharyngée pluri-quotidienne (**DRP**)
   - Sérum physiologique uniquement
   - << Les aspirations nasopharyngées ont plus d'effets secondaires et ne sont pas recommandées >>
@@ -280,7 +284,7 @@ Fractionnement des repas, pas de modification du régime habituel.
   - Fréquentation non souhaitable en phase aiguë
   - Nourrisson à haut risque de forme grave: ne pas fréquenter en période épidémique
 
-{{%warning%}}Ne pas utiliser: bronchodilatateurs, corticoïdes, antibiotiques, anti-reflux, antitussifs et fluidifiants{{%/warning%}}
+{{%warning%}}Ne pas utiliser: bronchodilatateurs (salbutamol Ventoline ou autre), corticoïdes, antibiotiques, anti-reflux, antitussifs et fluidifiants{{%/warning%}}
 
 ### Traitement médical d'une bronchiolite aiguë
 

@@ -26,9 +26,9 @@ todo = "vidéo DEP, doses Symbicort turbuhaler, CSI + ARL, revoir Stades GINA, p
 - Éviction du tabac et cigarette électronique
 - Diagnostic de certitude de l'asthme par symptômes évocateurs répétés et EFR concluantes
 - Maîtrise de l'asthme: {{< modal-btn modal-score-act >}}questionnaire *ACT™*{{< /modal-btn >}} à chaque consultation et appli [Asthm'Activ](https://play.google.com/store/apps/details?id=com.sophia.asthme), [Effic'Asthme](https://play.google.com/store/apps/details?id=fr.parisdescartes.efficasthme&hl=fr&gl=US)
-- Le DEP est toujours répété 3 fois de suite
-- EFR 1-3 fois par an
-- 80% ne savent pas utiliser l'inhalateur (*GINA 2019*)
+- Le débit expiratoire de pointe (DEP) est toujours répété 3 fois de suite
+- Épreuves fonctionnelles respiratoires (EFR) 1-3 fois par an
+- 80% ne savent pas utiliser l'inhalateur (*GINA 2022*)
 - Le plan d'action doit être écrit
 - Jamais de {{< modal-btn modal-ttt-baca >}}bronchodilatateur de courte durée{{< /modal-btn >}} seul
 - Traitement de crise de l'asthme: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + budésonide{{< /modal-btn >}}
@@ -578,6 +578,8 @@ La prescription dépend uniquement du pneumologue:
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< youtube id="kVODyHcz2xk" title="Mesure du débit expiratoire de pointe - Peak flow (IFMK Brest)" >}}
 
 {{< video poster="https://splf.fr/wp-content/uploads/2021/11/Webinaire-2021-12-06-1300-500.jpg" mp4="https://dts.podtrac.com/redirect.mp4/docs.splf.fr/videos/Webinaires/2021/Webinaire-asthme-2021-12-09.mp4" description="Mise à jour des recommandations 2021 pour la prise en charge des patients asthmatiques adultes (SPLF)" width="600" height="330" >}}
 

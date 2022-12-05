@@ -515,7 +515,7 @@ Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire 
 - [Lyon 1](http://offre-de-formations.univ-lyon1.fr/parcours-658/physiologie-et-pathologie-du-sommeil.html)
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [US Preventive Services Task Force. Screening for Obstructive Sleep Apnea in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2798399)
 - [Bonsignore MR et al. European Respiratory Society statement on sleep apnoea, sleepiness and driving risk. Eur Respir J 2021.](https://doi.org/10.1183/13993003.01272-2020)
@@ -533,7 +533,7 @@ Accessible par Diplôme Inter-Universitaire aux docteurs en médecine, dentaire 
 
 [Kapur VK et al. Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea: An American Academy of Sleep Medicine Clinical Practice Guideline. J Clin Sleep Med. 2017.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/)
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Échelle de somnolence d'Epworth" id="modal-score-epworth"%}}
 
 {{< scores/epworth >}}

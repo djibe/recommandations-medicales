@@ -48,7 +48,7 @@ VCE
 [Viennot S. Diagnostic initial, suivi des MICI et détection des complications. POST'U 2019 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-initial-suivi-des-mici-et-detection-des-complications-reco-ecco-esgar-2019/)
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 - [Viennot S. Diagnostic initial, suivi des MICI et détection des complications. POST'U 2019 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-initial-suivi-des-mici-et-detection-des-complications-reco-ecco-esgar-2019/)
 
@@ -230,3 +230,4 @@ ECCO-ESGAR Guideline for Diagnostic Assessment in IBD Part 1: Initial diagnosis,
 
 https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-initial-suivi-des-mici-et-detection-des-complications-reco-ecco-esgar-2019/
 
+{{%/sources%}}

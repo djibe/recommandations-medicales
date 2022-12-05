@@ -1,6 +1,3 @@
 User-Agent: *
-{{- if eq hugo.Environment "production" }}
 Sitemap: {{ "sitemap.xml" | absURL }}
-{{- else }}
-Disallow:
-{{- end }}
+Disallow: /index.json

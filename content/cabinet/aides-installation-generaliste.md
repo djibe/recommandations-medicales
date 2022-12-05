@@ -174,7 +174,7 @@ Financement de la création de nouvelles structures d'exercices collectif (créa
 - À hauteur de 50% de la dépense de l'équipement dans la limite de 100.000 €
 
 {{%/collapse%}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 Les références sont mentionnées sous chaque article.
 
@@ -185,4 +185,4 @@ Les références sont mentionnées sous chaque article.
 - [Forfait structure](https://www.ameli.fr/hauts-de-seine/medecin/exercice-liberal/vie-cabinet/aides-financieres/modernisation-cabinet)
 - [Exonérations fiscales](https://www.iledefrance.paps.sante.fr/les-exonerations-fiscales-105?rubrique=10010&parent=10018)
 
-{{%/collapse%}}
+{{%/sources%}}

@@ -2,7 +2,7 @@
 title = "Arrêt du tabac ou sevrage tabagique"
 titleSeo = "Arrêt du tabac"
 prefix = "l'"
-description = "Recommandations pour la prise en charge médicale de l'arrêt du tabac: dépendance selon Fagerström, substituts nicotiniques, soutien psychologique, varénicline"
+description = "Recommandations pour la prise en charge médicale de l'arrêt du tabac (sevrage tabagique): dépendance Fagerström, substituts nicotiniques, soutien psychologique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-11-21T14:11:22+01:00"
@@ -19,7 +19,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "Composants toxiques de la cigarette par La Ligue contre le cancer"
-todo = "bénéfices, aider à gérer la rechute: HAS p.33+35+36; Arret avant 30ans : élimine 100 % du risque de décès par coro. Avant 40 ans : élimine 90 % du risque (Pirie Ket al ? Lancet 2013 ; 381:133-41)"
+todo = "'sevrage tabagique prise en charge', 'sevrage tabagique pdf', bénéfices, aider à gérer la rechute: HAS p.33+35+36; Arret avant 30ans : élimine 100 % du risque de décès par coro. Avant 40 ans : élimine 90 % du risque (Pirie Ket al ? Lancet 2013 ; 381:133-41)"
 +++
 
 {{%article-summary%}}

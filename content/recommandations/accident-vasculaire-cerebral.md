@@ -22,13 +22,13 @@ todo = "rééduc, bilan étiologique, https://erj.ersjournals.com/content/55/4/1
 {{%article-summary%}}
 
 - Considérer tout déficit neurologique brutal, transitoire ou prolongé, comme une urgence absolue
-- Urgence vitale, protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU  
+- Un accident vasculaire cérébral est une Urgence vitale: protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU  
 4h30 pour thrombolyser.
-- 1<sup>re</sup> cause de mortalité de la femme, 3<sup>e</sup> de l'homme
+- L'AVC est la première cause de mortalité de la femme, 3<sup>e</sup> de l'homme
 - Un antécédent d'AIT ou d'AVC détermine un {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}
-- Post-AVC: aspirine 50-325, IEC, TZD, PA < 14/9, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,55 g/L, vaccin Covid-19
+- Prise en charge post-AVC: aspirine 50-325 mg/j, IEC, TZD, PA < 14/9, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,55 g/L, vaccin Covid-19
 - Bilan spécialisé cardiaque et neurovasculaire
-- [Éducation de toute la population](https://solidarites-sante.gouv.fr/IMG/png/infographieavcsignes.png)
+- [Éducation de toute la population à reconnaître un AVC](https://solidarites-sante.gouv.fr/IMG/png/infographieavcsignes.png)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

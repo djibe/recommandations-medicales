@@ -130,6 +130,16 @@ HUGO_ENABLEGITINFO = "false"
   to = "/annees/"
   status = 301
 
+[[redirects]]
+  from = "/annees/1998/"
+  to = "/annees/"
+  status = 301
+
+[[redirects]]
+  from = "/recommandations/papillomavirus/"
+  to = "/recommandations/cancer-col-uterus/"
+  status = 301
+
 # [[plugins]]
 #   package = "netlify-plugin-inline-critical-css"
 #     [plugins.inputs]

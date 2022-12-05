@@ -50,11 +50,11 @@ todo = "LDL"
 {{< /table >}}
 
 {{% /collapse %}}
-{{%collapse "Sources" %}}
+{{%sources%}}
 
 Références respectives mentionnées pour chaque entité (vitamine D, carence martiale...).
 
-{{% /collapse %}}
+{{%/sources%}}
 {{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}

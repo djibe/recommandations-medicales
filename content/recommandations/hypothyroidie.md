@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-14T23:30:41+02:00"
 publishdate = "2020-04-14"
-lastmod = "2022-05-09"
+lastmod = "2022-12-04"
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["HAS", "SFE"]
@@ -16,18 +16,20 @@ sctid = "40930008"
 flowchart = true
 image = true
 imageSrc = "Illustration de l'hypothyroïdie par storyset / Freepik"
+todo = "SEO"
 +++
 
 {{%article-summary%}}
 
 Prochaines recommandations HAS hypothyroïdie en 2022
 
-- Pas de dépistage systématique
-- TSH seule en cas de symptômes évocateurs
-- +65 ans: pas d'examens complémentaires, traiter si TSH > 20 mUI/L (avis endocrino entre 10 et 20), borne supérieure de TSH = âge/10
-- Traitement par LT: dosage de la TSH et adaptation par paliers de 12 µg toutes les 6-12 semaines sur critères clinico-TSH
-- Puis surveillance TSH annuelle (sauf symptômes ou traitement perturbateur)
-- Hashimoto: rechercher une [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) associée
+- Pas de dépistage systématique de l'hypothyroïdie
+- Doser la TSH seule en cas de symptômes évocateurs
+- Dès 60 ans: borne supérieure de TSH = âge/10
+- Chez le +65 ans: pas d'examens complémentaires, traiter si TSH > 20 mUI/L (avis endocrinologique entre 10 et 20)
+- Traitement par lévothyroxine: dosage de la TSH et adaptation par paliers de 12 µg toutes les 6-12 semaines sur critères clinico-TSH
+- Puis surveillance annuelle de la TSH (sauf symptômes ou traitement perturbateur)
+- Maladie de Hashimoto: rechercher une [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) associée
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -96,6 +98,21 @@ La TSH est élevée et la T4L basse.
 
 Parfois troubles de la coagulation et du bilan hépatique.
 
+### Abréviations
+
+HAS
+: Haute Autorité de Santé
+
+SFE
+: Société française d'endocrinologie
+
+T4
+: thyroxine (3-5-3'-5'tétra-iodothyronine)
+
+T4L
+: T4 libre
+{.dl-inline}
+
 {{% /collapse %}}
 {{% collapse "Clinique" %}}
 
@@ -115,9 +132,9 @@ Parfois troubles de la coagulation et du bilan hépatique.
 - Palpation thyroïdienne  
   Souvent ferme et hétérogène, pseudo-nodulaire, taille variable, goitre (Hashimoto) ou atrophique (thyroïdite).
 - Signes généraux  
-  [Asthénie](/tags/fatigue/) (physique, intellectuelle, sexuelle), prise de poids modeste, constipation, sensibilité au froid.
+  [Fatigue](/tags/fatigue/) (physique, intellectuelle, sexuelle), prise de poids modeste, constipation, sensibilité au froid.
 - Phanères  
-  Secs et cassants, dépilation (queue du sourcil) et pousse lente des cheveux/poils, peau épaissie, froide, sèche et squameuse, teint carotinodermique (jaunâtre), cicatrisation lente
+  Ongles secs et cassants, dépilation (queue du sourcil) et pousse lente des cheveux et poils, peau épaissie, froide, sèche et squameuse, teint carotinodermique (jaunâtre), cicatrisation lente.
 - Myxœdème  
   Macroglossie, voix rauque ou grave, hypoacousie, vertiges, ronflements voire [syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}}), gonflement des paupières.
 - Cardiaque  
@@ -134,13 +151,13 @@ Parfois troubles de la coagulation et du bilan hépatique.
 ### Bilan devant une hypothyroïdie
 
 {{%info%}}
-En 1<sup>re</sup> intention, doser la TSH seule.  
-Le dosage de la TSH peut être réalisé à tout moment de la journée (limites 0,4 mUI/L - âge/10 mUI/L après 60 ans).
+En première intention, doser la **TSH seule**.  
+Le dosage de la TSH peut être réalisé à tout moment de la journée (limites 0,4 mUI/L - âge/10 mUI/L après 60 ans, *SFE 2019*).
 
-TSH augmentée avec signes cliniques ou +10 mUI/L: prescrire pour le mois suivant: TSH + T4L. Sinon TSH seule à 3 mois.
+Si TSH augmentée avec signes cliniques ou valeur > 10 mUI/L: prescrire pour le mois suivant: **TSH + T4L**. Sinon TSH seule à 3 mois.
 {{%/info%}}
 
-TSH normale, pas de nouveau dosage avant 6-12 mois (sauf nouveaux signes cliniques).  
+Si TSH normale: pas de nouveau dosage avant 6-12 mois (sauf nouveaux signes cliniques).  
 Éviter le dosage en pathologie aiguë.
 
 {{%info%}}<< Il n'y a pas lieu de doser la T3L >>{{%/info%}}
@@ -193,7 +210,7 @@ Signes résolutifs sous lévothyroxine.
 Délai avant amélioration des symptômes de **2 semaines après instauration du traitement**. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
 
 **NB. Le traitement ne doit pas être débuté sans dosage préalable de la TSH**  
-{{%class%}}30% des traitements introduits sans TSH (HAS 11/2020 dysthyroïdies).{{%/class%}}
+{{%class%}}30% des traitements introduits sans TSH (*HAS 2020 dysthyroïdies*).{{%/class%}}
 
 ### Lévothyroxine sodique (opothérapie substitutive)
 
@@ -311,7 +328,7 @@ graph TB
 
 - [ANSM. Liste des médicaments à base de lévothyroxine disponibles en France. 18/01/2022.](https://ansm.sante.fr/dossiers-thematiques/les-medicaments-a-base-de-levothyroxine-disponibles-en-france-1/les-medicaments-a-base-de-levothyroxine-disponibles-en-france)
 - [HAS. Quelle imagerie pour les pathologies de la thyroïde. 28/09/2021.](https://www.has-sante.fr/jcms/p_3288963/fr/quelle-imagerie-pour-les-pathologies-de-la-thyroide)
-- [Goichot B et al. Management of thyroid dysfunctions in the elderly. French Endocrine Society consensus 2019. Short version. Ann Endocrinol. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S0003426620300883)
+- [Goichot B et al; SFE. Management of thyroid dysfunctions in the elderly. French Endocrine Society consensus 2019. Short version. Ann Endocrinol. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S0003426620300883)
 - [Mooijaart SP et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 2019.](https://jamanetwork.com/journals/jama/fullarticle/2753909)
 - [HAS. Hypothyroïdie – pertinence des soins. Mars 2019.](https://www.has-sante.fr/portail/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)
 - S. Laboureau-Soares et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8.
