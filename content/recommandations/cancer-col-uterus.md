@@ -7,7 +7,7 @@ synonyms = ["Papillomavirus humains HPV", "dysplasies et condylomes"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2021-01-18T10:55:00+02:00"
 publishdate = "2022-04-20"
-lastmod = "2022-11-30"
+lastmod = "2022-12-04"
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
 sources = ["INCa", "HAS", "MinSanté"]
@@ -125,7 +125,8 @@ Au spéculum: ulcération à bords irréguliers, saignant au contact. Le col peu
 
 [Information de la patiente - Santé BD: Le frottis](https://santebd.org/les-fiches-santebd/cancer/gyneco-le-depistage-cancer-du-col-de-luterus)
 
-Dépistage organisé du *cancer du col de l'utérus* pour toutes les femmes de 25 à 65 ans par frottis cervico-vaginal (vaccinées HPV ou non, généralisé depuis 2018):
+Le dépistage organisé du *cancer du col de l'utérus* est recommandé pour toutes les femmes de **25 à 65 ans** par frottis cervico-vaginal (vaccinées HPV ou non, généralisé depuis 2018).  
+Le dépistage généralisé est aussi recommandé par la Commission européenne 2022 (30-65 ans).
 
 - Frottis cervico-vaginal à 25 ans, 26 ans et 29 ans avec analyse cytologique
 - À partir de 30 ans: frottis cervico-vaginal tous les 5 ans avec test HPV-HR
@@ -224,6 +225,7 @@ En cas de ménopause induite, un [traitement hormonal]({{< relref "menopause.md"
 {{% /collapse %}}
 {{%sources%}}
 
+- [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Hanguehard R. et al. Couverture vaccinale contre les infections à papillomavirus humain des filles âgées de 15 à 18 ans et déterminants de vaccination, France, 2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_3.html)
 - {{< references/calendrier-vaccinal >}}
 - [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. 24/01/2022.](https://www.e-cancer.fr/Professionnels-de-sante/Facteurs-de-risque-et-de-protection/Agents-infectieux/Prevenir-les-cancers-lies-aux-HPV)

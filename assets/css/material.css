@@ -1,6 +1,6 @@
 /* Custom variables */
 /*!
- * Djibe Material UI 4.6.0 (https://djibe.github.io/material/)
+ * Djibe Material UI 4.6.2 (https://djibe.github.io/material/)
  * Copyright 2011-2022 The Bootstrap Authors
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
@@ -2137,6 +2137,49 @@ a.close.disabled {
 
 .tab-content > .active {
   display: block;
+}
+
+.embed-responsive {
+  display: block;
+  overflow: hidden;
+  padding: 0;
+  position: relative;
+  width: 100%;
+}
+
+.embed-responsive::before {
+  content: '';
+  display: block;
+}
+
+.embed-responsive embed,
+.embed-responsive iframe,
+.embed-responsive object,
+.embed-responsive video,
+.embed-responsive .embed-responsive-item {
+  border: 0;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.embed-responsive-1by1::before {
+  padding-top: 100%;
+}
+
+.embed-responsive-4by3::before {
+  padding-top: 75%;
+}
+
+.embed-responsive-16by9::before {
+  padding-top: 56.25%;
+}
+
+.embed-responsive-21by9::before {
+  padding-top: 42.857143%;
 }
 
 .fade {
@@ -12050,11 +12093,12 @@ body * {
 }
 
 input:-webkit-autofill,
-input:-webkit-autofill:hover,
-input:-webkit-autofill:focus,
-input:-webkit-autofill:active {
-  transition: background-color 5000s;
-  -webkit-text-fill-color: rgba(0, 0, 0, 0.87);
+input:-webkit-autofill:focus {
+  transition: background-color 600000s 0s, color 600000s 0s;
+}
+
+input[data-autocompleted] {
+  background-color: transparent !important;
 }
 
 @media print {

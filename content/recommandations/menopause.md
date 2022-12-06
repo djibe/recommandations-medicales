@@ -532,7 +532,7 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 \+ Progesterone orale 100 mg x 1/j en continu
 {{%/info%}}
 
-{{< table title="THM recommandés par le CNGOF disponibles seuls ou en association en France en 2022. Dr JB Fron d'après BDPM" class="table-wrap">}}
+{{< table title="Traitements hormonaux de la ménopause (THM) recommandés par le CNGOF disponibles seuls ou en association en France en 2022. Dr JB Fron d'après BDPM" class="table-wrap">}}
 | Classe              | Molécule                   | Spécialités                                                                   | Dosages (cp en mg, patch en µg/24h) |
 |---------------------|----------------------------|-------------------------------------------------------------------------------|------------------------------------:|
 | Estradiol patch     | Estradiol                  | Dermestril (-Septem), Estrapatch, Femsept, Oesclim, Thais (-sept), Vivelledot |       25, 37,5, 40, 50, 60, 75, 100 |

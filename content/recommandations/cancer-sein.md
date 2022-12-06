@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
 publishdate = "2021-11-03"
-lastmod = "2022-11-28"
+lastmod = "2022-12-04"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["INCa", "HAS", "ACOG"]
@@ -108,7 +108,8 @@ RCP
 
 {{%info%}}Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans (*HAS*){{%/info%}}
 
-Dépistages recommandés du cancer du sein chez les femmes à haut risque selon *HAS 2019* repris par *INCa 2022*.
+Dépistages recommandés du cancer du sein chez les femmes à haut risque selon *HAS 2019* (repris par *INCa 2022*).  
+Le dépistage généralisé est aussi recommandé par la *Commission Européenne* 2022 (de 45 à 74 ans).
 
 ### Absence de facteur de risque élevé de cancer du sein
 
@@ -265,6 +266,14 @@ Les mammographies sont remboursées à 100% (les examens supplémentaires ne le 
 | ACR 4 ou 5     | Anormales             | Biopsie échoguidée (sénologue, radiologue) puis avis sénologique rapide |
 {{< /table >}}
 
+#### Répondre à l'angoisse de la mammographie
+
+<< Mieux vaut aider les femmes à réfléchir à cette angoisse, en leur communiquant une information qui les aide à s'y retrouver, plutôt qu'à favoriser leur cancérophobie. Il faut leur expliquer que c'est un sentiment légitime, parfaitement adapté, mais que peut être, aussi, ce geste les sauvera d'une chimiothérapie, de traitements invalidants.>>
+
+<< Détecter un cancer le plus petit possible, c'est s'assurer le moins d'ennuis possible >>
+
+> *Natacha Espié*, psychologue et présidente de l'association Europa Donna (*CNGOF 2017*)
+
 {{% /collapse %}}
 {{%collapse "Prise en charge rapide d'anomalies du sein" %}}
 
@@ -364,6 +373,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 {{< youtube id="QXlT9651svA" title="Palpation des seins (Dr Jean-Philippe Harlicot)" >}}
 
 - [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. Septembre 2022.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
+- [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Santé Publique France. Dépistage du cancer du sein : quelle participation des femmes en 2021 ? 2022.](https://www.santepubliquefrance.fr/les-actualites/2022/depistage-du-cancer-du-sein-quelle-participation-des-femmes-en-2021)
 - [INCa. Les cancers du sein en 10 points clés. Juin 2020. (PDF)](https://www.e-cancer.fr/content/download/292195/4161509/file/Cancers_du_sein_en_10_points_cles_mel_20200702.pdf)
 - [ACOG. Tamoxifen and Uterine Cancer. 2014. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/06/tamoxifen-and-uterine-cancer)
@@ -371,12 +381,12 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 - [INCa. Remboursement des prothèses et appareillages. Avril 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
 - [INCa. Prothèses mammaires et risque de cancer. Avril 2019.](https://www.e-cancer.fr/Comprendre-prevenir-depister/Reduire-les-risques-de-cancer/Protheses-mammaires)
 - [INCa. Cancer du sein - Quelles modalités de dépistage, pour quelles femmes ? Janvier 2018.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-du-sein-Quelles-modalites-de-depistage-pour-quelles-femmes)
+- [CNGOF. Cancers du sein : les patientes dans la tourmente. 2017. (PDF)](http://www.cngof.fr/component/rsfiles/apercu?path=Presse%252F2017%252FCancer%2Bdu%2Bsein%252FK-SEIN-2017.pdf&i=11967)
 - [HAS. Dépistage et prévention du cancer du sein. Février 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
 
 ### À lire
 
 - [INCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. Octobre 2021.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)
-- [CNGOF. Cancers du sein : les patientes dans la tourmente. 2017. (PDF)](http://www.cngof.fr/component/rsfiles/apercu?path=Presse%252F2017%252FCancer%2Bdu%2Bsein%252FK-SEIN-2017.pdf&i=11967)
 
 {{%/sources%}}
 {{% modal title="Score d'Eisinger et consultation génétique" id="modal-eisinger"%}}

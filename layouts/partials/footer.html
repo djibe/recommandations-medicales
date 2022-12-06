@@ -1,7 +1,7 @@
 <script src="{{ .Site.Params.cdn.jquery }}" {{ printf "integrity=%q" .Site.Params.cdn.jquery_hash | safeHTMLAttr }} crossorigin="anonymous"></script>
 <script src="{{ .Site.Params.cdn.bs_js }}" {{ printf "integrity=%q" .Site.Params.cdn.bs_js_hash | safeHTMLAttr }} crossorigin="anonymous" defer></script>
 <script src="{{ .Site.Params.cdn.material_js}}" {{ printf "integrity=%q" .Site.Params.cdn.material_js_hash | safeHTMLAttr }} crossorigin="anonymous" defer></script>
-<script src="https://cdn.jsdelivr.net/npm/instant.page@5.1.1/instantpage.js" integrity="sha256-aHQ9cMB6I1ChFkcoMA56Loxh9OHORS98dK/iLbGzGmU=" crossorigin="anonymous" async></script>
+<script src="https://cdn.jsdelivr.net/npm/instant.page@5.1.1/instantpage.min.js" crossorigin="anonymous" async></script>
 
 {{- with .Params.chart }}
 <script src="https://cdn.jsdelivr.net/npm/apexcharts@3.36.0/dist/apexcharts.min.js" integrity="sha256-mikOxoTv7g0jzVKZf9F/dlUkBPLPfji45Kl3zpwz+dw=" crossorigin="anonymous" defer></script>
@@ -203,6 +203,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
     if (matchMedia('(pointer:fine)').matches) { // Device has a mouse
       $('.data-tooltip').tooltip({trigger: 'hover', placement: 'bottom'});
     }
+    $('.floating-label .custom-select, .floating-label .form-control').floatinglabel()
   })
   })
 </script>

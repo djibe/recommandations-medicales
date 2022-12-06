@@ -1,6 +1,6 @@
 /* Custom variables */
 /*!
- * Djibe Material UI 4.6.0 (https://djibe.github.io/material/)
+ * Djibe Material UI 4.6.2 (https://djibe.github.io/material/)
  * Copyright 2011-2022 The Bootstrap Authors
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
@@ -146,7 +146,12 @@ abbr[title] {
   text-decoration-skip-ink: none;
 }
 
+address {
+  font-style: normal;
+  line-height: inherit;
+}
 
+address,
 dd,
 ol,
 ul {
@@ -424,10 +429,6 @@ summary {
   display: list-item;
 }
 
-[hidden] {
-  display: none !important;
-}
-
 @-ms-viewport {
   width: device-width;
 }
@@ -629,7 +630,8 @@ h3,
 }
 
 h4,
-.h4 {
+.h4,
+.typography-headline-4 {
   font-size: 2.125rem;
   font-weight: 400;
   letter-spacing: 0.25px;
@@ -941,7 +943,8 @@ a.close.disabled {
     vertical-align: middle;
     width: auto;
   }
-  .form-inline .input-group {
+  .form-inline .input-group,
+  .form-inline .custom-select {
     width: auto;
   }
   .form-inline .custom-control {
@@ -968,6 +971,11 @@ a.close.disabled {
   height: 1rem;
   vertical-align: 0;
   width: 0;
+}
+
+[class~='textfield-box'] .form-text,
+[class~='textfield-box'] ~ .form-text {
+  padding: 0 1rem;
 }
 
 .img-fluid {
@@ -1079,6 +1087,36 @@ a.close.disabled {
 
 .tab-content > .active {
   display: block;
+}
+
+.embed-responsive {
+  display: block;
+  overflow: hidden;
+  padding: 0;
+  position: relative;
+  width: 100%;
+}
+
+.embed-responsive::before {
+  content: '';
+  display: block;
+}
+
+.embed-responsive embed,
+.embed-responsive iframe,
+.embed-responsive video,
+.embed-responsive .embed-responsive-item {
+  border: 0;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.embed-responsive-16by9::before {
+  padding-top: 56.25%;
 }
 
 .fade {
@@ -2921,6 +2959,95 @@ input:disabled + .chip {
   content: "radio_button_checked";
 }
 
+.custom-switch {
+  align-items: center;
+  display: flex;
+  flex-grow: 1;
+  padding-left: 36px;
+}
+
+.custom-switch .custom-control-label {
+  flex: 1;
+  /* &:active::before {
+      opacity: 1;
+    } */
+}
+
+.custom-switch .custom-control-label::before {
+  background-color: #000000;
+  border-radius: 0.4375rem;
+  content: '';
+  height: 0.875rem;
+  opacity: 0.38;
+  pointer-events: all;
+  position: absolute;
+  top: 15px;
+  transform: none;
+  transition: background-color 90ms cubic-bezier(0.4, 0, 0.2, 1), transform 90ms cubic-bezier(0.4, 0, 0.2, 1);
+  width: 2rem;
+  will-change: background-color, transform;
+}
+
+.custom-switch .custom-control-label::after {
+  background-color: #ffffff;
+  border-radius: 50%;
+  box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+  content: '';
+  height: 1.25rem;
+  position: absolute;
+  left: -1rem;
+  transform: translateX(0);
+  transition: transform 90ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 90ms cubic-bezier(0.4, 0, 0.2, 1);
+  width: 1.25rem;
+  will-change: box-shadow, transform;
+}
+
+.custom-switch .custom-control-input:active ~ .custom-control-label::before {
+  opacity: 0.38;
+}
+
+.custom-switch .custom-control-input:checked ~ .custom-control-label::before {
+  background-color: #e87500;
+}
+
+.custom-switch .custom-control-input:checked ~ .custom-control-label::after {
+  background-color: #e87500;
+  transform: translateX(1.25rem);
+}
+
+.custom-switch .custom-control-input:not(:checked):not(:disabled) ~ .custom-control-label:hover::after {
+  box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 0 0 0.875rem rgba(0, 0, 0, 0.04);
+}
+
+.custom-switch .custom-control-input:checked:not(:disabled) ~ .custom-control-label:hover::after {
+  box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 0 0 0.875rem rgba(232, 117, 0, 0.12);
+}
+
+.custom-switch .custom-control-input:not(:checked):focus ~ .custom-control-label::after {
+  box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 0 0 0.875rem rgba(0, 0, 0, 0.08);
+}
+
+.custom-switch .custom-control-input:checked:focus ~ .custom-control-label::after {
+  box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 0 0 0.875rem rgba(232, 117, 0, 0.12);
+}
+
+.custom-switch .custom-control-input:disabled ~ .custom-control-label::before {
+  background-color: #e0e0e0;
+  display: block;
+}
+
+.custom-switch .custom-control-input:disabled ~ .custom-control-label::after {
+  box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.07), 0 2px 2px 0 rgba(0, 0, 0, 0.05), 0 1px 5px 0 rgba(0, 0, 0, 0.04);
+}
+
+.custom-switch .custom-control-input:checked:disabled ~ .custom-control-label::before {
+  background-color: rgba(251, 229, 208, 0.8252);
+}
+
+.custom-switch .custom-control-input:checked:disabled ~ .custom-control-label::after {
+  background-color: #f6cb9e;
+}
+
 .nav-tabs {
   flex-wrap: nowrap;
   width: 100%;
@@ -3090,7 +3217,7 @@ legend {
   margin-bottom: 0.5rem;
 }
 
-.form-control {
+.form-control, .custom-select {
   background-clip: padding-box;
   background-color: transparent;
   border-color: rgba(0, 0, 0, 0.42);
@@ -3109,39 +3236,39 @@ legend {
   width: 100%;
 }
 
-.form-control::-ms-expand {
+.form-control::-ms-expand, .custom-select::-ms-expand {
   background-color: transparent;
   border: 0;
 }
 
-.form-control::placeholder {
+.form-control::placeholder, .custom-select::placeholder {
   color: rgba(0, 0, 0, 0.54);
   opacity: 1;
   /* needed for Firefox */
 }
 
-.form-control:disabled, .form-control[readonly] {
+.form-control:disabled, .custom-select:disabled, .form-control[readonly], .custom-select[readonly] {
   border-style: dotted;
   color: rgba(0, 0, 0, 0.38);
   opacity: 1;
 }
 
-.form-control:disabled:hover, .form-control:disabled:focus, .form-control[readonly]:hover, .form-control[readonly]:focus {
+.form-control:disabled:hover, .custom-select:disabled:hover, .form-control:disabled:focus, .custom-select:disabled:focus, .form-control[readonly]:hover, .custom-select[readonly]:hover, .form-control[readonly]:focus, .custom-select[readonly]:focus {
   border-color: rgba(0, 0, 0, 0.42);
   box-shadow: none;
 }
 
-.form-control:hover {
+.form-control:hover, .custom-select:hover {
   border-color: rgba(0, 0, 0, 0.87);
 }
 
-.form-control:focus {
+.form-control:focus, .custom-select:focus {
   border-color: #e87500;
   box-shadow: inset 0 -2px 0 -1px #e87500;
   outline: 0;
 }
 
-.form-control:invalid:required {
+.form-control:invalid:required, .custom-select:invalid:required {
   outline: 0;
 }
 
@@ -3155,18 +3282,18 @@ input[type='month'].form-control {
   appearance: none;
 }
 
-select.form-control {
+select.form-control, select.custom-select {
   appearance: none;
   background: url('data:image/svg+xml,%3csvg fill="%23000000" fill-opacity="0.54" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"%3e%3cpath d="M7 10l5 5 5-5z"/%3e%3c/svg%3e') 100% 50%/1.5em 1.5em no-repeat;
   padding-right: 1.5em;
   transition: background-image 180ms;
 }
 
-select.form-control[multiple], select.form-control[size]:not([size='1']) {
+select.form-control[multiple], select.custom-select[multiple], select.form-control[size]:not([size='1']), select.custom-select[size]:not([size='1']) {
   background-image: none;
 }
 
-select.form-control[multiple], select.form-control[size]:not([size='1']), textarea.form-control:not([rows='1']) {
+select.form-control[multiple], select.form-control[size]:not([size='1']), select.custom-select[multiple], select.custom-select[size]:not([size='1']), textarea.form-control:not([rows='1']) {
   background-image: none !important;
   border-color: rgba(0, 0, 0, 0.24);
   border-radius: 12px;
@@ -3175,24 +3302,24 @@ select.form-control[multiple], select.form-control[size]:not([size='1']), textar
   padding: calc(1rem - 1px) 1rem;
 }
 
-select.form-control:hover[multiple], select.form-control:hover[size]:not([size='1']), textarea.form-control:hover:not([rows='1']) {
+select.form-control:hover[multiple], select.form-control:hover[size]:not([size='1']), select.custom-select:hover[multiple], select.custom-select:hover[size]:not([size='1']), textarea.form-control:hover:not([rows='1']) {
   border-color: rgba(0, 0, 0, 0.87);
 }
 
-select.form-control:focus[multiple], select.form-control:focus[size]:not([size='1']), textarea.form-control:focus:not([rows='1']) {
+select.form-control:focus[multiple], select.form-control:focus[size]:not([size='1']), select.custom-select:focus[multiple], select.custom-select:focus[size]:not([size='1']), textarea.form-control:focus:not([rows='1']) {
   border-color: #e87500;
   box-shadow: inset 2px 2px 0 -1px #e87500, inset -2px -2px 0 -1px #e87500;
 }
 
-select.form-control[multiple], select.form-control[size]:not([size='1']) {
+select.form-control[multiple], select.form-control[size]:not([size='1']), select.custom-select[multiple], select.custom-select[size]:not([size='1']) {
   padding: 0.5rem 0;
 }
 
-select.form-control[multiple] option, select.form-control[size]:not([size='1']) option {
+select.form-control[multiple] option, select.form-control[size]:not([size='1']) option, select.custom-select[multiple] option, select.custom-select[size]:not([size='1']) option {
   padding: 0 1.5rem;
 }
 
-select.form-control option {
+select.form-control option, select.custom-select option {
   align-items: center;
   display: flex;
   font-size: 1rem;
@@ -3200,25 +3327,34 @@ select.form-control option {
   letter-spacing: 0.15px;
 }
 
-select.form-control option:hover {
+select.form-control option:hover, select.custom-select option:hover {
   background-color: rgba(0, 0, 0, 0.04);
 }
 
-select.form-control option:active {
+select.form-control option:active, select.custom-select option:active {
   background-color: rgba(0, 0, 0, 0.12) !important;
 }
 
-select.form-control:-moz-focusring {
+select.form-control:-moz-focusring, select.custom-select:-moz-focusring {
   color: transparent;
   text-shadow: 0 0 0 rgba(0, 0, 0, 0.87);
 }
 
-select.form-control:focus {
+select.form-control:focus, select.custom-select:focus {
   background-image: url('data:image/svg+xml;charset=utf8,%3csvg fill="%23e87500" transform="rotate(180)" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"%3e%3cpath d="M7 10l5 5 5-5z"/%3e%3canimateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 0 0" to="180 0 0" dur="250ms"/%3e%3c/svg%3e');
 }
 
 textarea.form-control {
   min-height: 2.25rem;
+}
+
+.custom-select {
+  /* @extend %form-select;
+
+  &[multiple],
+  &[size]:not([size='1']) {
+    @extend %form-textarea;
+  } */
 }
 
 .form-control[class*='valid'] {
@@ -3229,11 +3365,13 @@ textarea.form-control {
   color: #e87500;
 }
 
-[class*='form-ripple'] {
+[class*='form-ripple'],
+.floating-label {
   position: relative;
 }
 
-[class*='form-ripple']::before {
+[class*='form-ripple']::before,
+.floating-label::before {
   background-color: #e87500;
   content: '';
   height: 2px;
@@ -3246,7 +3384,8 @@ textarea.form-control {
   z-index: 3;
 }
 
-[class*='form-ripple'] .form-control:focus {
+[class*='form-ripple'] .form-control:focus,
+.floating-label .form-control:focus {
   box-shadow: none;
 }
 
@@ -3258,6 +3397,165 @@ textarea.form-control {
   top: calc(57px - 2px);
 }
 
+.textfield-box .form-control, .textfield-box .custom-select {
+  background-color: rgba(0, 0, 0, 0.04);
+  border-radius: 12px 12px 0 0;
+  padding: 1rem 1rem calc(1rem - 1px);
+  transition: background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.textfield-box .form-control::placeholder, .textfield-box .custom-select::placeholder {
+  color: rgba(0, 0, 0, 0.6);
+  opacity: 1;
+  /* needed for Firefox */
+}
+
+.textfield-box .form-control:hover, .textfield-box .custom-select:hover {
+  background-color: rgba(0, 0, 0, 0.07);
+}
+
+.textfield-box .form-control:focus, .textfield-box .custom-select:focus {
+  background-color: rgba(0, 0, 0, 0.14);
+}
+
+.textfield-box select.form-control, .textfield-box select.custom-select {
+  padding-right: 1.5em;
+}
+
+.textfield-box select.form-control[multiple], .textfield-box select.form-control[size]:not([size='1']), .textfield-box select.custom-select[multiple], .textfield-box select.custom-select[size]:not([size='1']), .textfield-box textarea.form-control:not([rows='1']) {
+  border-radius: 12px 12px 0 0;
+  border-width: 0 0 1px;
+  padding: 1rem 1rem calc(1rem - 1px);
+}
+
+.textfield-box select.form-control:hover[multiple], .textfield-box select.form-control:hover[size]:not([size='1']), .textfield-box select.custom-select:hover[multiple], .textfield-box select.custom-select:hover[size]:not([size='1']), .textfield-box textarea.form-control:hover:not([rows='1']) {
+  border-color: rgba(0, 0, 0, 0.87);
+}
+
+.textfield-box select.form-control:focus[multiple], .textfield-box select.form-control:focus[size]:not([size='1']), .textfield-box select.custom-select:focus[multiple], .textfield-box select.custom-select:focus[size]:not([size='1']), .textfield-box textarea.form-control:focus:not([rows='1']) {
+  border-color: #e87500;
+  box-shadow: inset 0 -2px 0 -1px #e87500;
+}
+
+.textfield-box textarea.form-control {
+  min-height: 3.5rem;
+}
+
+.textfield-box .form-control[type='file'] {
+  max-height: 3.5rem;
+}
+
+
+.floating-label.textfield-box.form-ripple::before {
+  top: calc(3.5rem - 2px);
+}
+
+.textfield-box.form-ripple::before {
+  top: calc(85px - 2px);
+}
+
+.floating-label {
+  padding-top: 0.75rem;
+  position: relative;
+}
+
+.floating-label.has-value label, .floating-label.has-value legend,
+.floating-label.is-focused label,
+.floating-label.is-focused legend {
+  top: 0;
+  transform: scale(0.75);
+}
+
+.floating-label:not(.has-value):not(.is-focused) .form-control[type='date'], .floating-label:not(.has-value):not(.is-focused) .form-control[type='time'] {
+  color: transparent;
+}
+
+.floating-label label, .floating-label legend {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: rgba(0, 0, 0, 0.54);
+  font-size: 1rem;
+  letter-spacing: 0.15px;
+  line-height: 1.15;
+  margin: 0;
+  max-width: 98%;
+  padding: 0;
+  position: absolute;
+  top: 1.125rem;
+  left: 0;
+  transform-origin: left top;
+  transition: transform 0.15s cubic-bezier(0.4, 0, 0.2, 1), color 0.15s cubic-bezier(0.4, 0, 0.2, 1), top 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.floating-label .form-control, .floating-label .custom-select {
+  position: relative;
+}
+
+.floating-label .form-control:focus::placeholder, .floating-label .custom-select:focus::placeholder {
+  color: rgba(0, 0, 0, 0.38);
+  opacity: 1;
+  /* needed for Firefox */
+}
+
+.floating-label .form-control::placeholder, .floating-label .custom-select::placeholder {
+  transition: opacity 300ms cubic-bezier(0.4, 0, 0.2, 1);
+  color: transparent;
+  opacity: 0;
+}
+
+@media (min-width: 576px) {
+  .floating-label .form-control::placeholder, .floating-label .custom-select::placeholder {
+    transition-duration: 390ms;
+  }
+}
+
+@media (min-width: 992px) {
+  .floating-label .form-control::placeholder, .floating-label .custom-select::placeholder {
+    transition-duration: 280ms;
+  }
+}
+
+.floating-label.textfield-box {
+  padding-top: 0;
+}
+
+.floating-label.textfield-box.has-value label, .floating-label.textfield-box.has-value legend,
+.floating-label.textfield-box.is-focused label,
+.floating-label.textfield-box.is-focused legend {
+  line-height: 1;
+  top: 0.5rem;
+}
+
+.floating-label.textfield-box label, .floating-label.textfield-box legend {
+  color: rgba(0, 0, 0, 0.6);
+  top: 1rem;
+  left: 1rem;
+}
+
+.floating-label.textfield-box .form-control, .floating-label.textfield-box .custom-select,
+.floating-label.textfield-box select.form-control[multiple],
+.floating-label.textfield-box select.form-control[size]:not([size='1']),
+.floating-label.textfield-box select.custom-select[multiple],
+.floating-label.textfield-box select.custom-select[size]:not([size='1']),
+.floating-label.textfield-box textarea.form-control:not([rows='1']) {
+  padding-top: 1.5rem;
+}
+
+.floating-label.textfield-box .form-control, .floating-label.textfield-box .custom-select {
+  padding-bottom: calc(0.5rem - 1px);
+}
+
+
+.floating-label.is-focused label,
+.floating-label.is-focused legend {
+  color: rgba(232, 117, 0, 0.87);
+}
+
+.floating-label.form-ripple::before {
+  top: calc(3rem - 2px);
+}
+
 .input-group {
   align-items: stretch;
   display: flex;
@@ -3267,7 +3565,10 @@ textarea.form-control {
 }
 
 
-.input-group > .form-control {
+.input-group > .custom-select,
+.input-group > .floating-label,
+.input-group > .form-control,
+.input-group > .textfield-box {
   flex: 1 1 auto;
   margin-bottom: 0;
   min-width: 0;
@@ -3276,11 +3577,27 @@ textarea.form-control {
 }
 
 
-.input-group > .form-control + .form-control {
+.input-group > .custom-select + .custom-select,
+.input-group > .custom-select + .floating-label,
+.input-group > .custom-select + .form-control,
+.input-group > .custom-select + .textfield-box,
+.input-group > .floating-label + .custom-select,
+.input-group > .floating-label + .floating-label,
+.input-group > .floating-label + .form-control,
+.input-group > .floating-label + .textfield-box,
+.input-group > .form-control + .custom-select,
+.input-group > .form-control + .floating-label,
+.input-group > .form-control + .form-control,
+.input-group > .form-control + .textfield-box,
+.input-group > .textfield-box + .custom-select,
+.input-group > .textfield-box + .floating-label,
+.input-group > .textfield-box + .form-control,
+.input-group > .textfield-box + .textfield-box {
   margin-left: 1rem;
 }
 
-.input-group > .form-control:focus {
+.input-group > .form-control:focus,
+.input-group > .custom-select:focus {
   z-index: 3;
 }
 
@@ -3375,9 +3692,13 @@ textarea.form-control {
   color: rgba(0, 0, 0, 0.87);
 }
 
-
+.floating-label.is-focused ~ .input-group-icon,
 .form-control:focus ~ .input-group-icon {
   color: #e87500;
+}
+
+.floating-label:not(.textfield-box) ~ .input-group-icon {
+  margin-top: 0.75rem;
 }
 
 .navbar, .navbar .container,
@@ -3987,6 +4308,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   box-shadow: none !important;
 }
 
+.w-50 {
+  width: 50% !important;
+}
+
 .w-100 {
   width: 100% !important;
 }
@@ -4100,17 +4425,11 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 }
 
 
-.py-0 {
-  padding-top: 0 !important;
-}
-
-
 .px-0 {
   padding-right: 0 !important;
 }
 
-.pb-0,
-.py-0 {
+.pb-0 {
   padding-bottom: 0 !important;
 }
 
@@ -4379,11 +4698,8 @@ body * {
 }
 
 input:-webkit-autofill,
-input:-webkit-autofill:hover,
-input:-webkit-autofill:focus,
-input:-webkit-autofill:active {
-  transition: background-color 5000s;
-  -webkit-text-fill-color: rgba(0, 0, 0, 0.87);
+input:-webkit-autofill:focus {
+  transition: background-color 600000s 0s, color 600000s 0s;
 }
 
 @media print {

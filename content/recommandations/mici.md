@@ -52,7 +52,7 @@ VCE
 
 - [Viennot S. Diagnostic initial, suivi des MICI et détection des complications. POST'U 2019 - Paris](https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-initial-suivi-des-mici-et-detection-des-complications-reco-ecco-esgar-2019/)
 
-{{% /collapse %}}
+{{%/sources%}}
 
 Diagnostic de MICI: examen de ref est colo + iléo.
 Surv régulière pour contrôle efficacité ttt et cicat endoscopique.
@@ -114,7 +114,6 @@ sérologie rougeole et varicelle
 vérif 1er bilan. VHB, VHC, VIH, EBV, CMV
 Quantiferon
 VACCINATION IMMUNODEP
-
 
 Surveillance d'une MICI connue
 
@@ -229,5 +228,3 @@ Les patients à risque intermédiaire doivent bénéficier d'une coloscopie tous
 ECCO-ESGAR Guideline for Diagnostic Assessment in IBD Part 1: Initial diagnosis, monitoring of known IBD, detection of complications. Maaser C. et al, J Crohns Colitis. 2019 Feb 1;13(2):144-164. doi: 10.1093/ecco-jcc/jjy113
 
 https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-initial-suivi-des-mici-et-detection-des-complications-reco-ecco-esgar-2019/
-
-{{%/sources%}}
