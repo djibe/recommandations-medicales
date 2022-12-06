@@ -44,26 +44,26 @@
         </header>
         <div class="mt-4 recommandation__content cabinet__content">
           {{ .Content }}
-          <div class="d-flex flex-wrap justify-content-evenly" style="margin-top: 80px">
+          <nav class="d-flex flex-wrap justify-content-evenly" style="margin-top: 80px">
             {{with .NextInSection }}
-            <div class="card card-list mw-248 m-2">
+            <div class="card card-list mw-248">
               <div class="card-img-top" style="background-image: url('/images/cabinet/{{.File.BaseFileName}}.webp')"></div>
-              <div class="card-header">
-                <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}" rel="next">{{ .Title }}</a></h2>
-                {{ with .Params.Subtitle}}<h3 class="card-subtitle">{{ . }}</h3>{{end}}
+              <div class="card-header d-flex flex-column">
+                <span class="card-subtitle mb-2">Article suivant</span>
+                <a class="card-title stretched-link text-reset" href="{{ .RelPermalink }}" rel="next">{{ .Title }}</a>
               </div>
             </div>
             {{end}}
             {{with .PrevInSection }}
-            <div class="card card-list mw-248 m-2">
+            <div class="card card-list mw-248">
               <div class="card-img-top" style="background-image: url('/images/cabinet/{{.File.BaseFileName}}.webp')"></div>
-              <div class="card-header">
-                <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}" rel="prev">{{ .Title }}</a></h2>
-                {{ with .Params.Subtitle}}<h3 class="card-subtitle">{{ . }}</h3>{{end}}
+              <div class="card-header d-flex flex-column">
+                <span class="card-subtitle mb-2">Article précédent</span>
+                <a class="card-title stretched-link text-reset" href="{{ .RelPermalink }}" rel="prev">{{ .Title }}</a>
               </div>
             </div>
             {{end}}
-          </div>
+          </nav>
         </div>
       </div>
     </article>

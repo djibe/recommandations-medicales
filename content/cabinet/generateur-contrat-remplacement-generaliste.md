@@ -8,10 +8,11 @@ publishdate = "2022-12-05"
 lastmod = "2022-12-05"
 sources = ["CNOM"]
 tags = []
+printPlugin = true
 draft = true
 image = true
 imageSrc = "storyset / Freepik"
-todo = "durée m-j > sexe H > plugin > webkit-autofill > Option 1 > Copier > Télécharger .doc"
+todo = "durée m-j > sexe H > plugin > webkit-autofill > Copier > Télécharger .doc"
 +++
 
 Le moment de signer le contrat de remplacement donne toujours les mêmes suées aux médecins concernés. On ne sait plus où l'on a rangé le précédent, on la flemme de changer les noms.  
@@ -42,7 +43,7 @@ Créez votre contrat de remplacement en quelques clics.
   <input class="form-control" id="contract-address" type="text" autocomplete="street-address" required>
   <small class="form-text">Adresse complète sur 1 ligne</small>
 </div>
-<div class="form-group floating-label textfield-box form-ripple">
+<div class="form-group floating-label textfield-box form-ripple w-50">
   <label for="contract-inscription">Numéro ordinal</label>
   <input class="form-control" id="contract-inscription" type="text" required>
 </div>
@@ -69,20 +70,22 @@ Créez votre contrat de remplacement en quelques clics.
 
 ### Contrat {.typography-overline .mt-4}
 
-<div class="form-group floating-label textfield-box form-ripple w-50">
+<div class="d-flex">
+<div class="form-group floating-label textfield-box form-ripple w-50 mr-3">
   <label for="contract-date">Fait le</label>
   <input class="form-control" id="contract-date" type="date" required>
 </div>
 <div class="form-group floating-label textfield-box form-ripple w-50">
-  <label for="contract-retrocession">Taux de rétrocession (%)</label>
+  <label for="contract-retrocession">Rétrocession (%)</label>
   <input class="form-control" id="contract-retrocession" type="number" min="20" max="100" required>
+</div>
 </div>
 <div class="form-group floating-label textfield-box">
   <label for="contract-duration">Période (texte libre)</label>
   <textarea class="form-control" id="contract-duration" placeholder="ex. 01/01/2023 au 31/12/2023, ou 4, 5 et 6 mars 2023 ..." rows="3"></textarea>
 </div>
-<p>En cas de remplacement régulier de courte durée, préciser le/les jour(s) ou la/les demi-journée(s) de remplacement.</p>
-<div class="form-group mt-3 ml-4 custom-control custom-switch">
+<small>En cas de remplacement régulier de courte durée, préciser le/les jour(s) ou la/les demi-journée(s) de remplacement.</small>
+<div class="form-group mt-4 ml-4 custom-control custom-switch">
   <input type="checkbox" class="custom-control-input" id="contract-competition" onclick="document.getElementById('contract-competition-block').classList.toggle('d-none')">
   <label class="custom-control-label" for="contract-competition">Clause de non-concurrence</label>
 </div>
@@ -147,7 +150,7 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
 </script>
 
 <div class="card card-body user-select-all mb-4" style="height: 600px;overflow:scroll">
-<div class="a4">
+<section class="sheet">
 
 Modèle de contrat de remplacement  
 en exercice libéral
@@ -186,8 +189,8 @@ d'autre part
 
 Dans le souci de respecter l'obligation déontologique qui est la sienne d'assurer la permanence des soins et conformément aux dispositions de l'article R.4127-65 du code de la santé publique (code de déontologie), la docteure <span class="contract-name-text">X</span> a contacté Mme <span class="contract-name-substitute-text">Z</span>, régulièrement autorisé(e), en vertu de l'article L.4131-2 du code de la santé publique, pour prendre en charge, lors de la cessation temporaire de son activité professionnelle habituelle, les patients qui feraient appel à elle/lui. Pour permettre le bon déroulement de ce remplacement, la docteure <span class="contract-name-text">X</span> met à la disposition de Mme <span class="contract-name-substitute-text">Z</span> son cabinet de consultations sis <span class="contract-address-text">...</span> et son secrétariat.
 
-</div>
-<div class="a4">
+</section>
+<div class="sheet">
 
 Mme <span class="contract-name-substitute-text">Z</span> assume de ce fait toutes les obligations inscrites dans le code de déontologie. Elle/Il ne peut aliéner son indépendance professionnelle sous quelque forme que ce soit.
 
@@ -220,7 +223,7 @@ Compte tenu du caractère par nature provisoire de l'activité du remplaçant/de
 remplaçante, dans le souci de la permanence des soins.</small>
 
 </div>
-<div class="a4">
+<div class="sheet">
 
 **Article 4**
 
@@ -253,7 +256,7 @@ Conformément aux dispositions de l'article R.4127-66 du code de la santé publi
 <small>4 Le taux de rétrocession d'honoraires doit être en rapport avec les charges du cabinet</small>
 
 </div>
-<div class="a4">
+<div class="sheet">
 
 **Article 8**
 
@@ -266,7 +269,7 @@ Aux termes de l'article R4127-86 du code de la santé publique (code de déontol
 
 **Option 1**
 
-En application des dispositions ci-dessus si, au terme du remplacement prévu au présent contrat, la/le remplaçant(e) a remplacé la docteure <span class="contract-name-text">X</span> pendant une période de trois mois consécutifs ou non, elle/il ne pourra, pendant une durée de deux ans, s'installer dans un poste où elle/il puisse entrer en concurrence directe avec le médecin remplacé(e) ou éventuellement ses associé(e)s c'est-à-dire dans un rayon de .../ou dans la/les commune(s) de .... /ou dans l'/les arrondissements (préciser ici commune(s),arrondissement(s), ...).
+En application des dispositions ci-dessus si, au terme du remplacement prévu au présent contrat, la/le remplaçant(e) a remplacé la docteure <span class="contract-name-text">X</span> pendant une période de trois mois consécutifs ou non, elle/il ne pourra, pendant une durée de deux ans, s'installer dans un poste où elle/il puisse entrer en concurrence directe avec le médecin remplacé(e) ou éventuellement ses associé(e)s c'est-à-dire dans un rayon de .../ou dans la/les commune(s) de .... /ou dans l'/les arrondissements (préciser ici commune(s), arrondissement(s), ...).
 </div>
 
 **Option 2**
@@ -283,7 +286,7 @@ En cas d'échec de la conciliation, les litiges ou différends relatifs à la va
 
 <small>5 La clause d'arbitrage (clause compromissoire) est facultative et les parties peuvent décider de ne pas y recourir ou encore y recourir dans des conditions différentes de celles proposées ci-dessus</small>
 </div>
-<div class="a4">
+<div class="sheet">
 
 **1re option :**
 

@@ -12,7 +12,7 @@
   {{ end }}
 
 {{ if $title }}
-  {{ $new = printf "<table class=\"table %s\" id=\"%s\" itemscope itemtype=\"https://schema.org/Table\"><caption id=\"table-caption-%s\" itemprop=\"about\"><span class=\"font-weight-bold\">Tableau.</span> %s</caption>" $extraClass $id $id $title }}
+  {{ $new = printf "<table class=\"table %s\" id=\"%s\" itemscope itemtype=\"https://schema.org/Table\"><caption id=\"table-caption-%s\" itemprop=\"about\"><b>Tableau.</b> %s</caption>" $extraClass $id $id $title }}
 {{ else }}
   {{ $new = printf "<table class=\"table %s\" id=\"%s\">" $extraClass $id}}
 {{ end }}

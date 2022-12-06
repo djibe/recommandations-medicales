@@ -7,7 +7,7 @@ synonyms = ["Cholécalciferol vitamine D3", "ergocalciférol vitamine D2"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-15T00:28:29+02:00"
 publishdate = "2020-04-15"
-lastmod = "2022-12-01"
+lastmod = "2022-12-06"
 specialites = ["endocrinologie", "pediatrie"]
 annees = "2022"
 sources = ["SFP", "HAS", "SFR"]
@@ -230,13 +230,13 @@ Intensification de la supplémentation si:
 {{% /collapse %}}
 {{%collapse "Spécialités de vitamine D disponibles" %}}
 
-### Spécialités de vitamine D3 par galénique
+### Spécialités de vitamine D3 (colécalciférol) par galénique
 
 Ampoule
 : Cholécalciférol 200, 100, 80 ou 50.000 UI
 
 Capsule molle
-: Kipos® 100.000 UI
+: Kipos® 100.000 UI, Uvedose® 50.000 UI
 
 Goutte
 : Adrigyl® 333 UI/goutte, ZymaD® 300 UI/goutte
