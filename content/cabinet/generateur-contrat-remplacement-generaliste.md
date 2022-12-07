@@ -119,7 +119,7 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
     function isInscriptionStored() {
       const valueStored = localStorage.getItem('contract-inscription');
       if (valueStored){ inscription.value = valueStored };
-    }
+    };
     function isUrssafStored() {
       const valueStored = localStorage.getItem('contract-urssaf');
       if (valueStored){ urssaf.value = valueStored };
@@ -139,17 +139,15 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
       window.localStorage.setItem('contract-urssaf', urssaf.value);
       durationElem.textContent = duration.value;
       window.localStorage.setItem('contract-duration', duration.value);
-      dateElem.textContent = new Date(date.value).toLocaleDateString('fr');
+      dateElem.textContent = setContractDate(date.value);
       retrocessionElem.textContent = retrocession.value;
-      if (document.querySelector('#contract-competition:checked')){}
-      if (document.querySelector('input[name=contract-sex]:checked').value === 'f'){ console.log('f')}
-      else if (document.querySelector('input[name=contract-sex]:checked').value === 'm'){ console.log('m')}
     }
+    const setContractDate = (dateVal) => { return (dateVal != null && dateVal.length !== 0)?new Date(dateVal).toLocaleDateString('fr') : new Date().toLocaleDateString('fr') };
     editContract();
   })
 </script>
 
-<div class="card card-body user-select-all mb-4" style="height: 600px;overflow:scroll">
+<div class="card card-body user-select-all mb-4">
 <section class="sheet">
 
 Modèle de contrat de remplacement  

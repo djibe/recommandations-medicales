@@ -10,8 +10,8 @@ specialites = []
 sources = ["CNOM"]
 tags = []
 chart = true
-image = false
-imageSrc = ""
+image = true
+imageSrc = "vectorjuice / Freepik"
 todo = "écriture SEO dont 'cotisation ordre des médecins', valeur C"
 +++
 
@@ -23,7 +23,7 @@ Sur 20 ans (période 2001 - 2021), l'augmentation de la cotisation ordinale atte
 
 ## Graphique
 
-{{< figure-chart title="Montant de la cotisation ordinale des médecins de 2001 à 2021. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après cotisations CNOM" >}}
+{{< figure-chart title="Évolution du tarif de la cotisation ordinale des médecins de 2001 à 2021. Valeurs faciales et valeurs corrigées de l'inflation. Dr JB Fron d'après cotisations CNOM" >}}
 
 <script>
 const chartOptions = {
