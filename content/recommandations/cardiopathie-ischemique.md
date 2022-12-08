@@ -141,7 +141,7 @@ Confirmation: échodoppler des TSA, AAA, IPS ± échodoppler MI, HTA-R ou IRC do
 
 ### ECG de repos 12D
 
-<< La normalité du tracé ECG ne permet pas d’exclure un SCC >>
+<< La normalité du tracé ECG ne permet pas d'exclure un SCC >>
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
@@ -183,43 +183,43 @@ Correction des facteurs de risque cardiovasculaire
 - Socio-professionnelle: Adaptation du poste de travail
 - Éducation thérapeutique TODO: Annexe 3
 - ALD  
-  Toute ischémie myocardique objectivement documentée (ECG, épreuve d’effort, scintigraphie
-myocardique de perfusion, échographie de stress, échographie d’effort, holter ECG, coronarographie)
-relève de l’exonération du ticket modérateur. L’exonération initiale est accordée pour une durée de
+  Toute ischémie myocardique objectivement documentée (ECG, épreuve d'effort, scintigraphie
+myocardique de perfusion, échographie de stress, échographie d'effort, holter ECG, coronarographie)
+relève de l'exonération du ticket modérateur. L'exonération initiale est accordée pour une durée de
 10 ans, renouvelable.
 
 FA: CHADS, aspirine 75 à 100 mg/jour ou le clopidogrel 75 mg/jour peuvent être proposés en association
-avec l’anticoagulation orale au long cours chez les patients en FA, avec un antécédent
-d’infarctus du myocarde au-delà des 12 mois recommandés et un haut risque de récurrence
-d’évènements ischémiques, et qui ne sont pas à haut risque hémorragique
+avec l'anticoagulation orale au long cours chez les patients en FA, avec un antécédent
+d'infarctus du myocarde au-delà des 12 mois recommandés et un haut risque de récurrence
+d'évènements ischémiques, et qui ne sont pas à haut risque hémorragique
 
 Information: SFC, FFC
 
 ### Crise d'angor
 
-Conseiller au patient d’arrêter l’effort dès l’apparition des signes.
-➔ Prescrire un dérivé nitré d’action immédiate : une bouffée sous-linguale si douleur thoracique.
+Conseiller au patient d'arrêter l'effort dès l'apparition des signes.
+➔ Prescrire un dérivé nitré d'action immédiate : une bouffée sous-linguale si douleur thoracique.
 ➔ Expliquer :
 ‒
-la nécessité de s’allonger en cas de sensation vertigineuse ;
+la nécessité de s'allonger en cas de sensation vertigineuse ;
 ‒
-la possibilité de répéter la prise après 5 minutes si la douleur n’a pas cédé ;
+la possibilité de répéter la prise après 5 minutes si la douleur n'a pas cédé ;
 ‒
-la nécessité d’appeler le centre 15 si la douleur n’a pas cédé dans les 5 minutes après la
+la nécessité d'appeler le centre 15 si la douleur n'a pas cédé dans les 5 minutes après la
 deuxième dose ;
 ‒
 les possibles effets secondaires : céphalées, sensations vertigineuses, érythème et bouffées
 de chaleur ;
 ‒
-la nécessité d’informer son médecin de l’apparition de douleurs angineuses ayant cédé à la
+la nécessité d'informer son médecin de l'apparition de douleurs angineuses ayant cédé à la
 trinitrine (TNT) et éventuellement le 15 si les douleurs cèdent sous TNT mais récidivent ;
 ‒
-l’indication exclusive de la TNT est la douleur angineuse ;
+l'indication exclusive de la TNT est la douleur angineuse ;
 ‒
-l’importance de ne pas associer aux vasodilatateurs (ex.: sildénafil, …) ;
+l'importance de ne pas associer aux vasodilatateurs (ex.: sildénafil, …) ;
 ‒
-l’intérêt de la prise préventive de ce médicament immédiatement avant l’exercice planifié ou
-l’effort pour les patients restant symptomatiques à l’effort
+l'intérêt de la prise préventive de ce médicament immédiatement avant l'exercice planifié ou
+l'effort pour les patients restant symptomatiques à l'effort
 
 {{% /collapse %}}
 {{%collapse "Éducation thérapeutique" %}}
@@ -232,14 +232,14 @@ savoir pratiquer et interpréter les automesures chez le patient concerné (HTA,
 ‒
 connaître et expliquer sa maladie ;
 ‒
-repérer les facteurs déclenchants et les signes précurseurs de survenue de l’angor ;
+repérer les facteurs déclenchants et les signes précurseurs de survenue de l'angor ;
 ‒
 utiliser le traitement de la crise à bon escient et savoir quand appeler le 15 ;
 ‒
 connaître les médicaments du traitement de fond, les effets bénéfiques et indésirables, et les
 modalités de prises ;
 ‒
-solliciter le système de santé à bon escient (anticiper les renouvellements d’ordonnance,
+solliciter le système de santé à bon escient (anticiper les renouvellements d'ordonnance,
 contacter la médecine du travail en cas de besoin, etc.) ;
 ‒
 repérer et corriger les erreurs alimentaires permettant de maintenir un comportement social
@@ -247,10 +247,10 @@ adapté aux souhaits du patient ;
 ‒
 découvrir et mettre en place de nouvelles habitudes culinaires riches en plaisir gustatif ;
 ‒
-pour l’activité physique :
+pour l'activité physique :
 • découvrir ou redécouvrir ses bienfaits et intégrer sa pratique régulière et efficace dans la vie
-quotidienne en se donnant des objectifs hebdomadaires raisonnables et si besoin avec l’aide
-d’un professionnel du sport-santé,
+quotidienne en se donnant des objectifs hebdomadaires raisonnables et si besoin avec l'aide
+d'un professionnel du sport-santé,
 • savoir reprendre, si cela est souhaité, les activités antérieures dans la mesure du possible
 en connaissant et en respectant les limites de sécurité précisées par son environnement
 médical ;
@@ -258,7 +258,7 @@ médical ;
 connaître les effets délétères du tabagisme et élaborer une balance bénéfices/risques du
 sevrage ;
 ‒
-s’engager dans une dynamique de sevrage avec l’aide des différents professionnels concernés.
+s'engager dans une dynamique de sevrage avec l'aide des différents professionnels concernés.
 
 
 
@@ -266,24 +266,24 @@ Connaissance des indications :
 ‒
 de recours au cardiologue, au-delà de la confirmation diagnostique et du suivi régulier ; en
 particulier en cas de :
-• exacerbation d’un SCC,
+• exacerbation d'un SCC,
 • douleurs récurrentes chez un angineux ancien,
 • effets indésirables médicamenteux,
 • fibrillation auriculaire nouvelle diagnostiquée,
-• échec d’une bithérapie anti-angineuse à dose maximale tolérée,
-• aggravation d’une dyspnée et angor,
+• échec d'une bithérapie anti-angineuse à dose maximale tolérée,
+• aggravation d'une dyspnée et angor,
 • syncope ou lipothymies ;
 ‒
 de recours à la réadaptation cardiaque en ambulatoire ou non ;
 ‒
-de recours à l’hospitalisation :
+de recours à l'hospitalisation :
 • angor instable ou SCA,
-• besoin d’explorations invasives,
+• besoin d'explorations invasives,
 • insuffisance cardiaque rapidement évolutive,
-• apparition d’un trouble du rythme mal toléré ou de mauvais pronostic ;
+• apparition d'un trouble du rythme mal toléré ou de mauvais pronostic ;
 ‒
-d’un travail à plusieurs professionnels de proximité, en particulier chez le coronarien âgé ou en
-situation complexe, avec, si nécessaire, élaboration d’un plan personnalisé de coordination en
+d'un travail à plusieurs professionnels de proximité, en particulier chez le coronarien âgé ou en
+situation complexe, avec, si nécessaire, élaboration d'un plan personnalisé de coordination en
 santé
 
 {{% /collapse %}}

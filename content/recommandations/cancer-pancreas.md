@@ -207,7 +207,7 @@ Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr/).
 {{% /collapse %}}
 {{%sources%}}
 
-- [Rebours V. Risque de cancer du pancréas : maigrir c’est bien, ne pas grossir c'est mieux. GastroScoop. 13/01/2022.](https://www.snfge.org/gastroscoop/risque-de-cancer-du-pancreas-maigrir-cest-bien-ne-pas-grossir-cest-mieux)
+- [Rebours V. Risque de cancer du pancréas : maigrir c'est bien, ne pas grossir c'est mieux. GastroScoop. 13/01/2022.](https://www.snfge.org/gastroscoop/risque-de-cancer-du-pancreas-maigrir-cest-bien-ne-pas-grossir-cest-mieux)
 - [Rebours V. Les chiffres du cancer du pancréas dans le monde : l'effroyable raz-de-marée. GastroScoop. 17/11/2021.](https://www.snfge.org/gastroscoop/les-chiffres-du-cancer-du-pancreas-dans-le-monde-leffroyable-raz-de-maree)
 - {{< references/college-gastro >}}
 - [INCa. Les cancers du pancréas en 12 points clés. Juin 2020. (PDF)](https://www.e-cancer.fr/content/download/291472/4150728/file/Cancer_du_pancreas_points-cles_mel_20200605.pdf)

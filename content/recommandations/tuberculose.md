@@ -60,7 +60,7 @@ Pour les professionnels de santé: évaluation de l'exposition au cas par cas pa
 - Europe centrale  
   Sauf Grèce, Hongrie, Slovaquie, Slovénie et République Tchèque.
 
-> *[Santé Publique France. Liste des pays de haute endémie (taux d’incidence > 40 cas de tuberculose/100.000 habitants), année 2020.](https://www.santepubliquefrance.fr/media/files/01-maladies-et-traumatismes/maladies-et-infections-respiratoires/tuberculose/donnees-tuberculose_tableau-12)*
+> *[Santé Publique France. Liste des pays de haute endémie (taux d'incidence > 40 cas de tuberculose/100.000 habitants), année 2020.](https://www.santepubliquefrance.fr/media/files/01-maladies-et-traumatismes/maladies-et-infections-respiratoires/tuberculose/donnees-tuberculose_tableau-12)*
 
 {{%/collapse%}}
 {{%collapse "Suivi thérapeutique de la tuberculose" %}}

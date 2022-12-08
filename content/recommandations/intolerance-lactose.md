@@ -131,7 +131,7 @@ Laits sans lactose et maintien d'apports en produits laitiers pour les apports e
 
 - [Catanzonaro R et al. Lactose intolerance: An update on its pathogenesis, diagnosis, and treatment. Nutrition Research. 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0271531721000129)
 - [Lule VK. et al. Food Intolerance: Lactose Intolerance. Encyclopedia of Food and Health. 2016.](https://www.sciencedirect.com/science/article/pii/B9780123849472003123)
-- [Roy ME et al. Diagnostic de l’intolérance au lactose dans un contexte pédiatrique. 2016.](https://www.chusj.org/CORPO/files/81/81da31b9-c18b-44b7-9b9f-eaa5a4c6cb8f.pdf)
+- [Roy ME et al. Diagnostic de l'intolérance au lactose dans un contexte pédiatrique. 2016.](https://www.chusj.org/CORPO/files/81/81da31b9-c18b-44b7-9b9f-eaa5a4c6cb8f.pdf)
 
 {{%/sources%}}
 {{% modal title="Score HAD" id="modal-had"%}}

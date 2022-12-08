@@ -27,7 +27,7 @@ Modèles de lecteurs combinés bifentes (carte CPS et carte vitale) pour le cabi
 - [Modèles auto-déclarés: DSC-FX](https://www.sesam-vitale.fr/web/sesam-vitale/catalogue-produits) (recommandation personnelle)
 {.list-group}
 
-> *[GIE Sesam Vitale. Liste des dernières versions d’applications de lecteurs SESAM-Vitale
+> *[GIE Sesam Vitale. Liste des dernières versions d'applications de lecteurs SESAM-Vitale
 homologués du mois de juillet 2022. (PDF)](https://industriels.sesam-vitale.fr/documents/10192/3574897/Liste+des+derni%C3%A8res+versions+d%27applications+de+lecteurs+homologu%C3%A9s+SESAM-Vitale)*
 
 Pour les modèles dits *auto-déclarés compatibles*, vérifier auprès de l'éditeur de votre logiciel médical qu'il est compatible.  
@@ -42,7 +42,7 @@ Modèles de lecteurs de cartes vitales pour les visites (autonomes dits TLA pour
 - Kapelse: Kap&Go, eS-KAP-Ad
 {.list-group}
 
-> *[GIE Sesam Vitale. Liste des dernières versions d’applications de lecteurs SESAM-Vitale
+> *[GIE Sesam Vitale. Liste des dernières versions d'applications de lecteurs SESAM-Vitale
 homologués du mois de juillet 2022. (PDF)](https://industriels.sesam-vitale.fr/documents/10192/3574897/Liste+des+derni%C3%A8res+versions+d%27applications+de+lecteurs+homologu%C3%A9s+SESAM-Vitale)*
 
 La liste est consultable sur le [site du GIE Sesam-Vitale](https://www.sesam-vitale.fr/web/sesam-vitale/catalogue-produits).

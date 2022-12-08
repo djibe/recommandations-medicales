@@ -139,7 +139,7 @@ Pour les professionnels concernés par l'obligation vaccinale, le [Certificat m�
         - Réaction anaphylactique au moins de grade 2 (atteinte au moins de 2 organes) secondaire à une injection d'un vaccin contre la covid-19, confirmée par une après expertise allergologique
     2. Contre-indications aux vaccins Vaxzevria (Astra Zeneca) et JCovden (Janssen)
         - Personnes ayant déjà présenté un ou plusieurs épisodes de syndrome de fuite capillaire (contre-indication commune au vaccin Vaxzevria (AstraZeneca) et au vaccin JCovden (Janssen))
-        - Personnes ayant présenté un syndrome thrombotique et thrombocytopénique (STT) à suite d’une vaccination par le vaccin Vaxzevria (AstraZeneca) ou le vaccin JCovden (Janssen)
+        - Personnes ayant présenté un syndrome thrombotique et thrombocytopénique (STT) à suite d'une vaccination par le vaccin Vaxzevria (AstraZeneca) ou le vaccin JCovden (Janssen)
 2. Une recommandation médicale de ne pas initier une vaccination (première dose):  
   Myocardites ou myo-péricardites associées à une infection par SARS-CoV2.
 3. Une recommandation établie après concertation médicale pluridisciplinaire de ne pas effectuer une dose supplémentaire de vaccin (deuxième dose ou dose de rappel) suite à la survenue d'un effet indésirable d'intensité sévère ou grave attribué à une précédente injection de vaccin signalé au système de pharmacovigilance (par exemple : la survenue de myocardite, de syndrome de Guillain-Barré, de syndrome inflammatoire multisystémique pédiatrique (PIMS)…).

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2022-11-09"
+lastmod = "2022-12-08"
 specialites = ["ORL"]
 annees = "2021"
 sources = ["HAS", "SPILF"]
@@ -23,6 +23,10 @@ todo = "suivi de pso en goutte"
 
 - Une angine est toujours virale avant 3 ans
 - Test de diagnostic rapide (TDR) du streptocoque devant une angine de 3 à 14 ans et score clinique de Mc Isaac au-delà
+- Traitement par antibiotique cas de TDR positif:
+  - Adulte: amoxicilline 1g x 2/j pendant 6 jours
+  - Enfant: amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises/j pendant 6 jours
+- La prise en charge pédiatrique en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
 - Le Streptatest peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si TROD angine positif, sous 7 jours calendaires >> (*[Arrêté du 13/12/21](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044483134)*)
 
 {{%/article-summary%}}
@@ -103,7 +107,7 @@ Indication à une prise en charge de l'angine par antibiotique: angine chez les 
 
 #### Antibiothérapie de l'angine chez l'adulte
 
-{{% info %}}Amoxicilline 1 g matin et soir pendant 6 jours{{% /info %}}
+{{%info%}}Amoxicilline 1 g matin et soir pendant 6 jours{{%/info%}}
 
 Antibiothérapies alternatives à partir de 15 ans:
 
@@ -118,7 +122,7 @@ Antibiothérapies alternatives à partir de 15 ans:
 
 #### Antibiothérapie de l'angine chez l'enfant
 
-{{%info%}}Amoxicilline 50 mg/kg/j en 2 prises pendant 6 jours{{%/info%}}
+{{%info%}}Amoxicilline 50 mg/kg/j en 2 prises par jour pendant 6 jours (max 2 g/j){{%/info%}}
 
 Antibiothérapies alternatives avant 15 ans:
 
@@ -127,6 +131,14 @@ Antibiothérapies alternatives avant 15 ans:
 - Contre-indication aux bêtalactamines
   - azithromycine 20 mg/kg/j x 1/j (max 500 mg/j) 3 jours
   - ou josamycine 15 mg/kg/j en 2 prises (max 1g/j)
+
+{{%warning%}}
+
+##### Antibiothérapie de l'enfant en situation de pénurie
+
+Amoxicilline cp 1 g dispersible: 1/2 cp (à diluer dans 10 mL d'eau) matin et soir, de 3 à 10 ans (quel que soit le poids)  
+pendant 5 jours
+{{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Amygdalectomie chez l'enfant" %}}
@@ -180,6 +192,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
 - [Cohen J., Cohen R.; SFP. Angine. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
 - [SPILF, HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'enfant. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/fiche_memo_rhinopharyngite_angine_enfant_durees_antibiotherapies.pdf)
 - [Lescanne E. et al. Amygdalectomie de l'enfant Actualisation 2020 de la recommandation SFORL & CFC. 2020.](https://www.sforl.org/wp-content/uploads/2021/11/Recommandation-SFORL-Amygdalectomie_2021.pdf)

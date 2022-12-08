@@ -150,7 +150,7 @@ Faciliter l'installation des médecins généralistes en zone sous-dense (ZIP ou
 - Protection sociale plus étendue  
   Couverture maladie dès 8 jours d'arrêt (68€/j), maternité/paternité/adoption.
 
-> *[Ministère de la Santé. Contrat de début d’exercice (CDE). 22/03/2021](https://solidarites-sante.gouv.fr/professionnels/se-former-s-installer-exercer/contrat-de-debut-d-exercice-cde/CDE)*
+> *[Ministère de la Santé. Contrat de début d'exercice (CDE). 22/03/2021](https://solidarites-sante.gouv.fr/professionnels/se-former-s-installer-exercer/contrat-de-debut-d-exercice-cde/CDE)*
 
 {{%/collapse%}}
 {{%collapse "Aides régionales" %}}
