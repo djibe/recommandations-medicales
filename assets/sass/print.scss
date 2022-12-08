@@ -1,3 +1,9 @@
+@import '../../../material/assets/scss/colors';
+@import '../../../material/assets/scss/functions';
+@import '../../../material/assets/scss/variables';
+@import '../../../material/assets/scss/mixins';
+@import '../../../material/assets/scss/print';
+
 @page {
   margin: 0;
   size: auto;
@@ -53,10 +59,10 @@ p {
   display: none;
 }
 #contract-generated {
-  // width: 100%;
+  width: 100%;
   border: 0;
-  margin: 0;
-  // float: none;
+  margin: 0 !important;
+  float: none;
 
   & ~ * {
     display: none;
