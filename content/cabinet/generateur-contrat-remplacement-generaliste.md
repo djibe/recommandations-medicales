@@ -29,9 +29,9 @@ Créez votre contrat de remplacement en quelques clics.
 ### Médecin installé {.typography-overline}
 
 <div class="form-group d-flex">
-  <input type="radio" id="contract-sex-f" name="contract-sex" class="d-none" value="f" required>
+  <input type="radio" id="contract-sex-f" name="contract-sex" class="d-none">
   <label for="contract-sex-f" class="chip chip-action chip-choice">Madame</label>
-  <input type="radio" id="contract-sex-m" name="contract-sex" class="d-none" value="m">
+  <input type="radio" id="contract-sex-m" name="contract-sex" class="d-none">
   <label for="contract-sex-m" class="chip chip-action chip-choice">Monsieur</label>
 </div>
 <div class="form-group floating-label textfield-box form-ripple">
@@ -51,7 +51,7 @@ Créez votre contrat de remplacement en quelques clics.
 ### Médecin remplaçant {.typography-overline .mt-4}
 
 <div class="form-group d-flex">
-  <input type="radio" id="contract-sex-substitute-f" name="contract-sex-substitute" class="d-none" value="f" required>
+  <input type="radio" id="contract-sex-substitute-f" name="contract-sex-substitute" class="d-none" value="f">
   <label for="contract-sex-substitute-f" class="chip chip-action chip-choice">Madame</label>
   <input type="radio" id="contract-sex-substitute-m" name="contract-sex-substitute" class="d-none" value="m">
   <label for="contract-sex-substitute-m" class="chip chip-action chip-choice">Monsieur</label>
@@ -73,7 +73,7 @@ Créez votre contrat de remplacement en quelques clics.
 <div class="d-flex">
 <div class="form-group floating-label textfield-box form-ripple w-50 mr-3">
   <label for="contract-date">Fait le</label>
-  <input class="form-control" id="contract-date" type="date" required>
+  <input class="form-control" id="contract-date" type="date">
 </div>
 <div class="form-group floating-label textfield-box form-ripple w-50">
   <label for="contract-retrocession">Rétrocession (%)</label>
@@ -96,6 +96,9 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
 <script>
   // Contract generator by djibe
   window.addEventListener( 'DOMContentLoaded', event => {
+    const sexMan = document.getElementById('contract-sex-m')
+    const sexSubstituteMan = document.getElementById('contract-sex-substitute-m')
+    const contractOwner = document.getElementsByClassName('contract-owner')
     const name = document.getElementById('contract-name')
     const nameElems = document.getElementsByClassName('contract-name-text')
     const address = document.getElementById('contract-address')
@@ -130,11 +133,12 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
     }
     [...document.querySelectorAll('#contract-generator input')].forEach((elem) => { elem.addEventListener('change', () => editContract() ) })
     const editContract = () => {
-      [...nameElems].forEach((elem) => {elem.textContent = name.value});
-      [...addressElems].forEach((elem) => {elem.textContent = address.value});
+      [...contractOwner].forEach((elem) => { elem.textContent = setPolite(sexMan).full });
+      [...nameElems].forEach((elem) => { elem.textContent = name.value });
+      [...addressElems].forEach((elem) => { elem.textContent = address.value });
       inscriptionElem.textContent = inscription.value;
       window.localStorage.setItem('contract-inscription', inscription.value);
-      [...nameSubstituteElems].forEach((elem) => {elem.textContent = nameSubstitute.value});
+      [...nameSubstituteElems].forEach((elem) => { elem.textContent = nameSubstitute.value });
       urssafElem.textContent = urssaf.value;
       window.localStorage.setItem('contract-urssaf', urssaf.value);
       durationElem.textContent = duration.value;
@@ -143,6 +147,22 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
       retrocessionElem.textContent = retrocession.value;
     }
     const setContractDate = (dateVal) => { return (dateVal != null && dateVal.length !== 0)?new Date(dateVal).toLocaleDateString('fr') : new Date().toLocaleDateString('fr') };
+    const setPolite = ( radio ) => { return (radio.checked)?isMan() : isWoman() }
+    const isMan = () => {
+      console.log('man');
+      const obj = {
+        full: 'Le docteur',
+        adj: 'il'
+      }
+      return obj
+    };
+    const isWoman = () => {
+      console.log('woman');
+      const obj = {
+        full: 'La docteure',
+        adj: 'elle'
+      }
+    };
     editContract();
   })
 </script>
@@ -168,7 +188,7 @@ MAJ 10 septembre 2020
 
 Entre
 
-La docteure <span class="contract-name-text">X</span> (indiquer les qualités et numéro <span id="contract-inscription-text">d'inscription au Tableau</span>)  
+<span class="contract-owner">La docteure</span> <span class="contract-name-text">X</span> (indiquer les qualités et numéro <span id="contract-inscription-text">d'inscription au Tableau</span>)  
 exerçant à <span class="contract-address-text">...</span>
 
 d'une part
@@ -229,7 +249,7 @@ Mme <span class="contract-name-substitute-text">Z</span> exerce son art en toute
 
 **Article 5**
 
-Mme <span class="contract-name-substitute-text">Z</span> utilise conformément à la convention nationale les ordonnances ainsi que les feuilles de soins et imprimés pré-identifiés au nom de La docteure <span class="contract-name-text">X</span> et/ou sa CPF<sup>3</sup> dans son activité relative aux seuls patients de la docteure <span class="contract-name-text">X</span>.
+Mme <span class="contract-name-substitute-text">Z</span> utilise conformément à la convention nationale les ordonnances ainsi que les feuilles de soins et imprimés pré-identifiés au nom de la docteure <span class="contract-name-text">X</span> et/ou sa CPF<sup>3</sup> dans son activité relative aux seuls patients de la docteure <span class="contract-name-text">X</span>.
 
 En outre, elle/il doit faire mention de son identification personnelle sur les ordonnances, feuilles de soins et imprimés réglementaires qu'elle/il sera amené(e) à remplir.
 
@@ -318,6 +338,7 @@ le <span id="contract-date-text">...</span>
 <div class="d-flex justify-content-between"><p>La docteure <span class="contract-name-text">X</span></p><p>Madame <span class="contract-name-substitute-text">Z</span></p></div>
 
 <small>6 Les parties peuvent renoncer à cette modalité de l'arbitrage et, dans ce cas, il suffit de supprimer la mention de l'amiable composition.</small>
+
 <small>7 Les parties peuvent renoncer à cette modalité de l'arbitrage et, dans ce cas, il suffit de supprimer la mention de l'amiable composition.</small>
 
 </div>

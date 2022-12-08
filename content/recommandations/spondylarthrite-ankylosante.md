@@ -5,6 +5,7 @@ titleSeo = "Spondylarthrite ankylosante"
 description = "Recommandations pour la prise en charge des spondylarthrites. Bilan avec radiographies et IRM sacro-iliaque. Traitement anti-inflammatoire AINS ou biothérapie"
 synonyms = ["Spondyloarthrite", "spondylarthropathie"]
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Pr D. WENDLING (SFR)"
 date = "2020-10-15T20:39:41+02:00"
 publishdate = "2020-10-15"
 lastmod = "2022-12-08"
