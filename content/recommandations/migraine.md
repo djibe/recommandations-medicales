@@ -452,7 +452,7 @@ Autres traitements de fond (dose min-max en mg) et niveau de recommandation *SFE
 
 Autres traitements de fond antimigraineux pouvant être proposés en migraine épisodique (< 15 j/mois):
 
-- Acupuncture
+- Acupuncture, électroacupuncture
 - Coenzyme Q10 300 mg/j (sans ordonnance)
 - Mélatonine libération immédiate 3 mg
 - TENS supra-orbitaire

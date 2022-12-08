@@ -256,6 +256,10 @@ a[href^="http"]:not([class]):not([href*="recomedicales.fr"])::after {
   color: rgba(0, 0, 0, 0.6) !important;
 }
 
+.svg-primary {
+  filter: invert(46%) sepia(95%) saturate(6840%) hue-rotate(234deg) brightness(99%) contrast(94%);
+}
+
 .grid-list {
   display: grid;
   grid-template-columns: repeat(1, 1fr);

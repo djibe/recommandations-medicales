@@ -6,7 +6,7 @@ synonyms = ["Adénocarcinome prostatique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-27T19:51:30+02:00"
 publishdate = "2020-09-27"
-lastmod = "2022-11-28"
+lastmod = "2022-12-08"
 specialites = ["urologie"]
 annees = "2022"
 sources = ["EAU", "AFU", "HAS", "USPTF"]
@@ -16,7 +16,7 @@ sctid = "254900004"
 flowchart = true
 image = true
 imageSrc = "Illustration du cancer de la prostate par brgfx / Freepik "
-todo = "Cancer agressif ISUP >= 2, Geriatric 8 Table 5.10 source 151, tableau espérance de vie, source doubler valeur IPDE5"
+todo = "Geriatric 8 Table 5.10 source 151, tableau espérance de vie"
 +++
 
 {{%article-summary%}}
@@ -158,7 +158,7 @@ Indications à une consultation d'oncogénétique chez un homme ayant un **anté
 Risque diminué de cancer de la prostate si PSA < 1 ng/mL à 40 ans et < 2 à 60 ans.
 {{%/warning%}}
 
-**Rappel.** La mesure du PSA est faussée à la hausse par une prostatite, une HBP ou à l'inverse à la baisse par un IPDE5 (HBP, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})). En cas de prise d'IPDE5, doubler la valeur du PSA.
+**Rappel.** La mesure du PSA est faussée à la hausse par une prostatite, une HBP ou à l'inverse à la baisse par un IPDE5 (HBP, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})). En cas de prise d'IPDE5, doubler la valeur du PSA (*Sakalis 2021*).
 
 {{%info%}}
 
@@ -259,6 +259,7 @@ graph TB
 
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Mottet N. et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2022.](https://uroweb.org/guidelines/prostate-cancer)
+- [Sakalis V et al. The effect of pharmacotherapy on prostate volume, prostate perfusion and prostate-specific antigen (prostate morphometric parameters) in patients with lower urinary tract symptoms and benign prostatic obstruction. A systematic review and meta-analysis. Cent European J Urol. 2021.](https://pubmed.ncbi.nlm.nih.gov/34729231/)
 - [Collège d'Urologie. Tumeur de prostate. Item 310. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-310-Tumeur-de-prostate.pdf)
 - [Rozet F. et al. Recommandations françaises du Comité de cancérologie de l'AFU – actualisation 2020–2022 : cancer de la prostate. Progrès en Urologie. 2020.](https://www.urofrance.org/recommandation/recommandations-francaises-du-comite-de-cancerologie-de-lafu-actualisation-2020-2022-cancer-de-la-prostate/?date=&themes=&search=%22)
 - [Gandaglia G. et al. Structured Population-based Prostate-specific Antigen Screening for Prostate Cancer: The European Association of Urology Position in 2019. Eur Urol. 2019.](https://www.europeanurology.com/article/S0302-2838(19)30347-1/fulltext)

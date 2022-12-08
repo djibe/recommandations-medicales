@@ -6,9 +6,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-15T19:21:00+02:00"
 publishdate = "2021-01-17"
-lastmod = "2022-10-17"
+lastmod = "2022-12-08"
 specialites = ["rhumatologie"]
-annees = "2020"
+annees = "2021"
 sources = ["SFRhumato", "COFER"]
 tags = ["AINS", "obesite"]
 anglais = ["Osteoarthritis of knee, gonarthrosis"]
@@ -21,8 +21,8 @@ imageSrc = "Disparition de l'interligne des 3 compartiments avec ostéophytose. 
 
 - Complications de la gonarthrose: risque cardiovasculaire par sédentarité, dépression
 - Maintien de l'activité physique
-- Traitement de la crise de gonarthrose: AINS topiques et oraux, infiltrations de corticoïdes
-- Chirurgie en cas d'échec du traitement médical et d'une altération de la qualité de vie due à l'arthrose du genou
+- Prise en charge et traitement de la poussée de gonarthrose: AINS topiques et oraux, infiltrations de corticoïdes
+- Chirurgie du genou en cas d'échec du traitement médical et d'une altération de la qualité de vie due à l'arthrose du genou
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -111,7 +111,7 @@ L'évaluation clinique pour une gonarthrose recherche le retentissement sur les 
 
 Autres diagnostics à étayer devant des douleurs des genoux.
 
-### Douleurs aiguës
+### Douleurs aiguës du genou
 
 - Arthrite septique
 - Arthropathie microcristalline  
@@ -120,7 +120,7 @@ Autres diagnostics à étayer devant des douleurs des genoux.
   [Polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), [spondyloarthrite]({{< relref "spondylarthrite-ankylosante.md" >}}).
 - Synovite villonodulaire
 
-### Douleurs chroniques
+### Douleurs chroniques du genou
 
 - Coxarthrose (douleurs projetées.
 - Atteinte méniscale  
@@ -187,7 +187,7 @@ Radiographies des deux genoux:
 
 Recommandations pour la prise en charge des douleurs par les traitements pharmacologiques ou non de première intention.
 
-#### Mesures générales
+#### Mesures générales pour la prise en charge de l'arthrose du genou
 
 - Arrêt des traitements inefficaces et/ou mal tolérés
 - Contrôle des contre-indications et interactions médicamenteuses
@@ -202,11 +202,17 @@ Recommandations pour la prise en charge des douleurs par les traitements pharmac
   - << Rapport bénéfice-risque intéressant dans la population de patients avec une gonarthrose >>
   - NB. Photosensibilité du kétoprofène topique.
 - Repos, canne
-- Activité physique régulière en dehors des poussées
-- Perte de poids si surpoids
+- Correction d'un surpoids
+- Proposer une **activité physique régulière** des membres inférieurs (aquatique ou non)  
+  Renforcement musculaire + étirements + travail aérobie en dehors des poussées.
 - Kinésithérapie  
   Renforcement du quadriceps, auto-exercices.
-- Genouillère articulée à visée antalgique
+- Arthrose fémoro-tibiale: orthèse (genouillère) articulée de décharge unicompartimentale à visée antalgique
+- Conseiller les chaussures souples avec semelles amortissantes
+- Pourraient être proposés: acupuncture, cure thermale
+- Adaptation du poste avec le Médecin du travail ou à défaut un Centre Régional de Pathologies Professionnelles et Environnementales
+
+{{%warning%}}Ne pas utiliser: bandes adhésives de contention ou orthèses souples, électrothérapie, thermothérapie, ondes de choc, laser, thérapies électromagnétiques{{%/warning%}}
 
 #### Infiltrations de corticoïdes
 
@@ -279,12 +285,12 @@ Recours possible à la duloxétine sur prescription par un expert en l'absence d
 
 {{< card-link-external title="Sémiologie du genou en vidéo" url="http://www.lecofer.org/semiologie.php" subtitle="Le COFER" >}}
 
+- [Congrès SFR 2021 (12-14 décembre 2021, Paris) - Recommandations 2021 pour la prise en charge non pharmacologique des malades atteints de gonarthrose (PDF)](https://seralpar.aphp.fr/sites/default/files/recommandations_non-pharmacologiques_gonarthrose_nguyen_rannou.pdf)
 - [Sellam J. et al. Recommandations de la Société Française de Rhumatologie sur la prise en charge pharmacologique de la gonarthrose. Revue du Rhumatisme. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301769)
 - [COFER. Arthrose. Item 129 UE 6.](http://www.lecofer.org/item-cours-1-8-0.php)
 
 ### À lire
 
 - [CNGE. Eviter la visco-supplémentation dans la gonarthrose. 05/09/2022.](https://www.cnge.fr/conseil_scientifique/productions_du_conseil_scientifique/eviter_la_visco_supplementation_dans_la_gonarthros/)
-- [Congrès SFR 2021 (12-14 décembre 2021, Paris)- Recommandations 2021 pour la prise en charge non pharmacologique des malades atteints de gonarthrose (PDF)](https://seralpar.aphp.fr/sites/default/files/recommandations_non-pharmacologiques_gonarthrose_nguyen_rannou.pdf)
 
 {{%/sources%}}
