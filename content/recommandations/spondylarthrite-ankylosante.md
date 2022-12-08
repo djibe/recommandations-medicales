@@ -7,7 +7,7 @@ synonyms = ["Spondyloarthrite", "spondylarthropathie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-15T20:39:41+02:00"
 publishdate = "2020-10-15"
-lastmod = "2022-11-24"
+lastmod = "2022-12-08"
 specialites = ["rhumatologie"]
 annees = "2022"
 sources = ["SFRhumato", "EULAR"]
@@ -97,6 +97,9 @@ SFR
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+Le diagnostic de spondylarthropathie relève du **spécialiste**.  
+Il est posé sur un faisceau d'arguments anamnestiques (antécédents familiaux de SpA, uvéite, psoriasis, MICI), cliniques et paracliniques et éventuellement HLA-B27 (en 2° intention).
+
 ### Syndrome axial (ou pelvi-rachidien)
 
 Signes et symptômes de l'atteinte axiale d'une spondyloarthrite:
@@ -148,9 +151,32 @@ Autres atteintes des spondylarthrites:
 - Facteurs de risque d'[ostéoporose et calcul du FRAX]({{< relref "osteoporose.md" >}})
 
 {{% /collapse %}}
-{{%collapse "Critères diagnostiques ESSG de spondylarthropathie" %}}
+{{%collapse "Critères diagnostiques d'Amor de spondylarthropathie" %}}
 
-{{%info%}}
+### Critères diagnostiques de spondylarthropathies d'Amor
+
+6 points pour remplir les critères diagnostiques de spondylarthrite de la classification d'Amor:
+
+1. Douleurs nocturnes lombaires ou dorsales ou raideur matinale lombaire ou dorsale (1 point)
+2. Oligoarthrite asymétrique (2 pts)
+3. douleur fessière sans précision (1 pt)  
+  ou douleur fessière à bascule (2 pts)
+4. Doigt ou orteil en saucisse (2 pts)
+5. Talalgie ou toute autre entésopathie (2 pts)
+6. Iritis (2 pts)
+7. Urétrite non gonococcique ou cervicite moins d'un mois avant le début d'une arthrite (1 pt)
+8. Diarrhée moins d'un mois avant une arthrite (1 pt)
+9. Présence ou antécédent de psoriasis, ou de balanite, ou d'entérocolopathie chronique (2 pts)
+10. Sacro-iliite (stade > 2; 2 pts)
+11. Présence de l'antigène HLA-B27 ou antécédents familiaux de spondylarthrite, de syndrome de Reiter, de psoriasis, d'entérocolopathie chronique
+12. Amélioration en 48 heures des douleurs par anti-inflammatoires non stéroïdiens ou rechute rapide (< 48 heures) des douleurs à leur arrêt
+
+Sensibilité 92%, spécificité 98%
+
+> [Amor B, Dougados M, Mijiyawa M. Critères de classification des spondylarthropathies. Rev Rhum Mal Osteoartic. 1990.](https://pubmed.ncbi.nlm.nih.gov/2181618/)
+
+### Critères diagnostiques ESSG
+
 **Diagnostic formel de spondylarthropathie en présence d'un critère majeur ET d'un critère mineur.**
 
 ### Critères majeurs
@@ -176,8 +202,7 @@ Autres atteintes des spondylarthrites:
 7. Sacro-iliite radiologique  
   Stade 2-4 bilatéral ou 3-4 unilatéral; 0 = normal; 1 = possible; 2 = modéré; 3 = évolué; 4 = ankylose.
 
-Se 87%, Spe 96%
-{{%/info%}}
+Sensibilité 87%, spécificité 96%
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -232,7 +257,7 @@ Résumé des recommandations pour la prise en charge de la spondylarthrite:
   - Souvent rechute douloureuse en < 48h après leur arrêt
   - Essai ≥ 2 molécules différentes pendant ≥ 15 jours chacune avant de conclure à l'inefficacité de chacune (aucun effet sur l'inflammation biologique). Échec nécessite d'envisager un biomédicament.  
   - Utiliser à dose optimale (même si doses maximales), mais en conservant posologie et durée minimales
-  - Selon *Prescrire*: ibuprofène (max 400 mg x 3/j) et naproxène (max 550 mg x 2/j) ont le meilleur rapport bénéfice/risque parmi les AINS.
+  - Selon *Prescrire*: ibuprofène (max 400 mg x 3/j selon les RCP, le spécialiste peut les majorer) et naproxène (max 550 mg x 2/j) ont le meilleur rapport bénéfice/risque parmi les AINS.
 - << La corticothérapie générale n'est pas justifiée dans la majorité des cas >>
 - Antalgiques pour les douleurs résiduelles
 - Physiothérapie, ergothérapie, appareillages
@@ -264,7 +289,7 @@ Indications: arthrite périphérique destructrice, ankylose rachidienne avec dé
 
 {{%info%}}Envisager une décroissance du biomédicament après 6 mois de rémission de faible activité de la spondyloarthrite{{%/info%}}
 
-Le traitement de fond est introduit par le rhumatologue pour une réponse partielle aux AINS ou une maladie évolutive.
+La prise en charge de la spondylarthrite par un traitement de fond relève du rhumatologue lors d'une réponse partielle aux AINS ou lorsque la maladie est évolutive.
 
 ### Traitements conventionnels
 
