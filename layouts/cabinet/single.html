@@ -44,7 +44,7 @@
         </header>
         <div class="mt-4 recommandation__content cabinet__content">
           {{ .Content }}
-          <nav class="d-flex flex-wrap justify-content-evenly" style="margin-top: 80px">
+          <nav class="mt-xl d-flex flex-wrap justify-content-evenly d-print-none">
             {{with .NextInSection }}
             <div class="card card-list mw-248">
               <div class="card-img-top" style="background-image: url('/images/cabinet/{{.File.BaseFileName}}.webp')"></div>

@@ -1,10 +1,14 @@
-@import '../../../material/assets/scss/colors';
-@import '../../../material/assets/scss/functions';
-@import '../../../material/assets/scss/variables';
-@import '../../../material/assets/scss/mixins';
-
-@import '../../../material/assets/scss/print';
-
+@page {
+  margin: 0;
+  size: auto;
+}
+html {
+  background-color: #fff !important;
+  margin: 0;
+}
+body {
+  margin: 2cm;
+}
 main > .recommandation {
   padding-top: 0;
 }
@@ -33,30 +37,30 @@ a[target="_blank"]::after {
 h3 {
   color: initial !important;
 }
-p {
-  color: #000;
-}
 blockquote,
 .list-group,
 .list-group-item {
   border: 0;
 }
+nav,
 .embed-responsive {
+  display: none !important;
+}
+p {
+  color: #000 !important;
+}
+#contract-generator {
   display: none;
 }
-
-@page {
-  margin: 2cm;
-  size: A4;
-}
 #contract-generated {
-  width: 100%;
+  // width: 100%;
+  border: 0;
   margin: 0;
-  float: none;
-}
-body {
-  margin: 0;
-  background: #fff !important;
+  // float: none;
+
+  & ~ * {
+    display: none;
+  }
 }
 .sheet {
   margin: 0;

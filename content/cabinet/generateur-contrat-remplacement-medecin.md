@@ -4,27 +4,24 @@ titleSeo = "Générateur et modèle de contrat de remplacement"
 description = "Modèle de contrat pour les remplacements de médecins libéraux et générateur de contrat"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-05T12:18:00+02:00"
-publishdate = "2022-12-05"
-lastmod = "2022-12-05"
+publishdate = "2022-12-08"
+lastmod = "2022-12-08"
 sources = ["CNOM"]
 tags = []
-printPlugin = true
-draft = true
 image = true
 imageSrc = "storyset / Freepik"
-todo = "durée m-j > webkit-autofill > Copier > Télécharger .doc"
+todo = "modèle SNJMG > validate form > durée m-j > webkit-autofill > Copier > Télécharger .doc"
 +++
 
-Le moment de signer le contrat de remplacement donne toujours les mêmes suées aux médecins concernés. On ne sait plus où l'on a rangé le précédent, on la flemme de changer les noms.  
-Bref, c'est la plaie et on remercie l'Ordre ne pas nous permettre d'éditer ce contrat facilement.
+**RecoMédicales** vous permet de créer un contrat de remplacement en quelques clics d'après le modèle officiel du Conseil de l'Ordre.
 {.lead}
 
 ## Générer un contrat de remplacement
 
-Créez votre contrat de remplacement en quelques clics.  
+Créer un contrat de remplacement en quelques clics.  
 Évidemment aucune donnée n'est récoltée (comme partout ailleurs sur RecoMédicales).
 
-<div class="card card-body shadow-none border flex-wrap mb-5" id="contract-generator">
+<form class="card card-body shadow-none border flex-wrap" id="contract-generator">
 
 ### Médecin installé {.typography-overline}
 
@@ -92,7 +89,7 @@ Créez votre contrat de remplacement en quelques clics.
 
 Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
 
-</div>
+</form>
 <script>
   // Contract generator by djibe
   window.addEventListener( 'DOMContentLoaded', event => {
@@ -181,10 +178,20 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
     editContract();
   })
 </script>
-
-Sélectionner le texte > Clic droit > Imprimer
-{.typography-headline-6 .text-center}
-
+<script>
+  function printPageArea(areaID){
+    var printContent = document.getElementById(areaID).innerHTML;
+    var originalContent = document.body.innerHTML;
+    document.body.innerHTML = printContent;
+    window.print();
+    document.body.innerHTML = originalContent;
+}
+</script>
+<div class="my-5 d-flex justify-content-center">
+<button class="btn btn-outline-primary d-print-none" type="submit" form="contract-generator" onclick="printPageArea('contract-generated')">
+  <svg class="svg-primary mr-2" aria-hidden="true" height="24" viewBox="0 0 24 24" width="24"><path d="M19 8h-1V3H6v5H5c-1.66 0-3 1.34-3 3v6h4v4h12v-4h4v-6c0-1.66-1.34-3-3-3zM8 5h8v3H8V5zm8 12v2H8v-4h8v2zm2-2v-2H6v2H4v-4c0-.55.45-1 1-1h14c.55 0 1 .45 1 1v4h-2z"/><circle cx="18" cy="11.5" r="1"/></svg> Imprimer le contrat
+</button>
+</div>
 <div class="card card-body user-select-all mb-4" id="contract-generated">
 <div class="sheet">
 
@@ -352,7 +359,10 @@ Fait en trois exemplaires
 le <span id="contract-date-text">...</span>
 {.text-right}
 
-<div class="d-flex justify-content-between"><p>La docteure <span class="contract-name-text">X</span></p><p>Madame <span class="contract-name-substitute-text">Z</span></p></div>
+<div class="d-flex justify-content-between">
+  <p><span class="contract-title-full">La docteure</span> <span class="contract-name-text">X</span></p>
+  <p><span class="contract-title-substitute-full">Madame</span> <span class="contract-name-substitute-text">Z</span></p>
+</div>
 
 <small>6 Les parties peuvent renoncer à cette modalité de l'arbitrage et, dans ce cas, il suffit de supprimer la mention de l'amiable composition.</small>
 
