@@ -1,4 +1,8 @@
-@import "../css/print-material";
+@import '../../../material/assets/scss/colors';
+@import '../../../material/assets/scss/functions';
+@import '../../../material/assets/scss/variables';
+@import '../../../material/assets/scss/mixins';
+@import '../../../material/assets/scss/print';
 
 @page {
   margin: 0;

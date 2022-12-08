@@ -1,0 +1,196 @@
+@media print {
+  *,
+  *::before,
+  *::after {
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+  abbr[title]::after {
+    content: ' ("attr(title) ") ';
+  }
+  pre {
+    white-space: pre-wrap !important;
+  }
+  pre,
+  blockquote {
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    page-break-inside: avoid;
+  }
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+  h2,
+  h3 {
+    page-break-inside: avoid;
+  }
+  @page {
+    size: a3;
+  }
+  body {
+    min-width: 992px !important;
+  }
+  .container {
+    min-width: 992px !important;
+  }
+  .fab-actions,
+  .navbar,
+  .tooltip {
+    display: none;
+  }
+  .badge {
+    border: 1px solid #000000;
+  }
+  .table {
+    border-collapse: collapse !important;
+  }
+  .table td,
+  .table th {
+    background-color: #ffffff !important;
+  }
+  .table-bordered th,
+  .table-bordered td {
+    border: 1px solid #e1e1e1;
+  }
+  .table-dark {
+    color: inherit;
+  }
+  .table-dark th,
+  .table-dark td,
+  .table-dark thead th,
+  .table-dark tbody + tbody {
+    border-color: #e1e1e1;
+  }
+  .table .thead-dark th {
+    border-color: #e1e1e1;
+    color: inherit;
+  }
+  .card {
+    border: 1px solid #e1e1e1;
+    page-break-inside: avoid;
+  }
+  .dropdown-menu {
+    border: 1px solid #e1e1e1;
+  }
+  .list-group-item {
+    border: 1px solid #e1e1e1;
+    margin-bottom: -1px;
+  }
+  .list-group-item:last-child {
+    margin-bottom: 0;
+  }
+  .list-group-flush:first-child .list-group-item:first-child {
+    border-top: 0;
+  }
+  .list-group-flush:last-child .list-group-item:last-child {
+    border-bottom: 0;
+  }
+  .list-group-flush .list-group-item {
+    border-right: 0;
+    border-left: 0;
+  }
+  .nav-tabs {
+    border-bottom: 1px solid #e1e1e1;
+  }
+  .popover {
+    border: 1px solid #e1e1e1;
+  }
+}
+
+@page {
+  margin: 0;
+  size: auto;
+}
+
+html {
+  background-color: #fff !important;
+  margin: 0;
+}
+
+body {
+  margin: 2cm;
+}
+
+main > .recommandation {
+  padding-top: 0;
+}
+
+.alert {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.alert-info {
+  color: #212121;
+}
+
+.recommandation .chip-secondary {
+  color: var(--secondary);
+}
+
+figure {
+  break-inside: avoid;
+}
+
+h1.my-xl-5 {
+  margin-top: 0 !important;
+}
+
+a[target="_blank"] {
+  color: initial;
+}
+
+a[target="_blank"]::after {
+  color: rgba(0, 0, 0, 0.6);
+  content: attr(href) !important;
+}
+
+h3 {
+  color: initial !important;
+}
+
+blockquote,
+.list-group,
+.list-group-item {
+  border: 0;
+}
+
+nav,
+.embed-responsive {
+  display: none !important;
+}
+
+p {
+  color: #000 !important;
+}
+
+#contract-generator {
+  display: none;
+}
+
+#contract-generated {
+  width: 100%;
+  border: 0;
+  margin: 0 !important;
+  float: none;
+}
+
+#contract-generated ~ * {
+  display: none;
+}
+
+.sheet {
+  margin: 0;
+  padding: 25mm;
+  overflow: hidden;
+  position: relative;
+  box-sizing: border-box;
+  page-break-after: always;
+  height: 296mm;
+  width: 210mm;
+}

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2022-11-25"
+lastmod = "2022-12-08"
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -23,9 +23,10 @@ todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult 
 {{%article-summary%}}
 
 - Contraception gratuite avant 26 ans (consultation, pilule/stérilet, coter GS Exo 3 depuis le [1/1/22](https://www.service-public.fr/particuliers/actualites/A15158))
-- Seul le préservatif est efficace contre les [IST](/tags/ist/)
+- Seul le préservatif est efficace contre les [IST](/tags/ist/)  
+  Il sera gratuit pour les 18-25 ans en 2023.
 - [QuestionSexualité_ - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)
-- Contraceptions très efficaces de 1<sup>re</sup> intention: COP, DIU, implant
+- Contraceptions très efficaces de première intention: COP, DIU, implant
 - Informer sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
 - Pas d'interaction DIU et AINS
 
