@@ -81,9 +81,6 @@ Spondylarthropaties indifférenciées
 AINS
 : anti-inflammatoires non stéroïdiens
 
-ESSG
-: {{%lang%}}European Spondylarthropathy Study Group{{%/lang%}}
-
 MICI
 : maladie inflammatoire chronique de l'intestin
 
@@ -175,7 +172,7 @@ Sensibilité 92%, spécificité 98%
 
 > [Amor B, Dougados M, Mijiyawa M. Critères de classification des spondylarthropathies. Rev Rhum Mal Osteoartic. 1990.](https://pubmed.ncbi.nlm.nih.gov/2181618/)
 
-### Critères diagnostiques ESSG
+### Critères diagnostiques ESSG ({{%lang%}}European Spondylarthropathy Study Group{{%/lang%}})
 
 **Diagnostic formel de spondylarthropathie en présence d'un critère majeur ET d'un critère mineur.**
 
@@ -257,7 +254,7 @@ Résumé des recommandations pour la prise en charge de la spondylarthrite:
   - Souvent rechute douloureuse en < 48h après leur arrêt
   - Essai ≥ 2 molécules différentes pendant ≥ 15 jours chacune avant de conclure à l'inefficacité de chacune (aucun effet sur l'inflammation biologique). Échec nécessite d'envisager un biomédicament.  
   - Utiliser à dose optimale (même si doses maximales), mais en conservant posologie et durée minimales
-  - Selon *Prescrire*: ibuprofène (max 400 mg x 3/j selon les RCP, le spécialiste peut les majorer) et naproxène (max 550 mg x 2/j) ont le meilleur rapport bénéfice/risque parmi les AINS.
+  - Selon *Prescrire*: ibuprofène (max 400 mg x 3/j selon les RCP, le spécialiste peut le majorer) et naproxène (max 550 mg x 2/j) ont le meilleur rapport bénéfice/risque parmi les AINS.
 - << La corticothérapie générale n'est pas justifiée dans la majorité des cas >>
 - Antalgiques pour les douleurs résiduelles
 - Physiothérapie, ergothérapie, appareillages

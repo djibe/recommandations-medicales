@@ -16,7 +16,7 @@ body,
 }
 
 [id] {
-  scroll-margin-top: 56px;
+  scroll-margin-top: 3.5rem;
 }
 
 a {
@@ -49,7 +49,6 @@ h1 {
   &.site-title {
     color: var(--secondary);
     font-size: calc(1.375rem + 1vw);
-    // letter-spacing: -1px;
   }
 }
 
@@ -96,7 +95,7 @@ dl {
 }
 
 dd + dt {
-  margin-top: 32px;
+  margin-top: 2rem;
 }
 
 .dl-inline {
@@ -125,14 +124,14 @@ main {
   > .recommandation,
   > .projet,
   .cabinet__header {
-    padding-top: 64px;
+    padding-top: 4rem;
   }
   @media (min-width: 1024px) {
     & > .container-lg,
     & > .recommandation,
     & > .projet,
     .cabinet__header {
-      padding-top: 56px;
+      padding-top: 3.5rem;
     }
   }
 }
@@ -146,11 +145,11 @@ mark {
 }
 
 .taxonomyTerms {
-  padding-top: 96px;
+  padding-top: 6rem;
 
   @media (min-width: 1024px) {
     & {
-      padding-top: 120px;
+      padding-top: 7.5rem;
     }
   }
 }
@@ -173,7 +172,7 @@ mark {
 
 .figure-chart {
   border: 1px solid rgba(0, 0, 0, 0.12);
-  border-radius: 12px;
+  border-radius: 0.75rem;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
   padding: 1rem;
@@ -192,7 +191,7 @@ mark {
   display: grid;
   grid-template-rows: repeat(auto-fill, 240px);
   grid-template-columns: repeat(2, 1fr);
-  gap: 8px;
+  gap: 0.5rem;
   grid-auto-flow: row dense;
   margin: 2rem 0;
 
@@ -236,9 +235,9 @@ mark {
 %material-icon {
   content: "";
   display: inline-block;
-  height: 24px;
+  height: 1.5rem;
   transition: transform 280ms;
-  width: 24px;
+  width: 1.5rem;
 }
 
 %material-icon-content {
@@ -249,7 +248,7 @@ mark {
 a[href^="http"]:not([class]):not([href*="recomedicales.fr"])::after {
   @extend %material-icon-content;
   content: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" height="18" viewBox="0 0 24 24" fill="%234150f5" width="18"%3E%3Cpath d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/%3E%3C/svg%3E');
-  margin-left: 4px;
+  margin-left: 0.25rem;
 }
 
 .text-black-secondary {
@@ -264,7 +263,7 @@ a[href^="http"]:not([class]):not([href*="recomedicales.fr"])::after {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   grid-template-rows: repeat(auto-fit, 1fr);
-  gap: 16px;
+  gap: 1rem;
   margin-bottom: 12rem;
 
   @media (min-width: 768px) {
@@ -292,7 +291,7 @@ a[href^="http"]:not([class]):not([href*="recomedicales.fr"])::after {
 }
 
 .navbar .dropdown-menu::before {
-  border-radius: 0 0 4px 4px;
+  border-radius: 0 0 .25rem .25rem;
   transform-origin: top center;
 }
 
@@ -428,7 +427,7 @@ article {
 
 .fancy__header {
   > div {
-    border-radius: 24px;
+    border-radius: 1.25rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -436,7 +435,7 @@ article {
 
     @media (min-width: 992px) {
       & {
-        padding: 56px;
+        padding: 3.5rem;
       }
     }
   }
@@ -549,7 +548,7 @@ article {
   }
   section > div > h3,
   section > div > h4 {
-    margin-bottom: 12px;
+    margin-bottom: 0.75rem;
     margin-top: 32px;
   }
   section div .text-muted {
@@ -687,8 +686,8 @@ article {
   .projet__content {
     > h2,
     > h3 {
-      margin-bottom: 16px;
-      margin-top: 48px;
+      margin-bottom: 1rem;
+      margin-top: 3rem;
     }
 
     h2 {
@@ -696,11 +695,11 @@ article {
     }
 
     > h3 {
-      font-size: 24px;
+      font-size: 1.5rem;
     }
 
     p {
-      font-size: 18px;
+      font-size: 1.125rem;
     }
   }
 }
@@ -712,8 +711,8 @@ article {
   border-radius: 64px;
   display: flex;
   align-items: center;
-  margin-bottom: 24px;
-  padding: 16px;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
 
   @media (min-width: 768px) {
     & {
