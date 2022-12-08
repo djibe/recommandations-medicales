@@ -12,7 +12,7 @@ printPlugin = true
 draft = true
 image = true
 imageSrc = "storyset / Freepik"
-todo = "durée m-j > sexe H > plugin > webkit-autofill > Copier > Télécharger .doc"
+todo = "durée m-j > webkit-autofill > Copier > Télécharger .doc"
 +++
 
 Le moment de signer le contrat de remplacement donne toujours les mêmes suées aux médecins concernés. On ne sait plus où l'on a rangé le précédent, on la flemme de changer les noms.  
@@ -98,7 +98,13 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
   window.addEventListener( 'DOMContentLoaded', event => {
     const sexMan = document.getElementById('contract-sex-m')
     const sexSubstituteMan = document.getElementById('contract-sex-substitute-m')
-    const contractOwner = document.getElementsByClassName('contract-owner')
+    const titleFull = document.getElementsByClassName('contract-title-full')
+    const titleSubstituteFull = document.getElementsByClassName('contract-title-substitute-full')
+    const titleShort = document.getElementsByClassName('contract-title-short')
+    const titleSubstituteShort = document.getElementsByClassName('contract-title-substitute-short')
+    const titlePronoun = document.getElementsByClassName('contract-title-pronoun')
+    const titleSubstitutePronoun = document.getElementsByClassName('contract-title-substitute-pronoun')
+    const titleSubstitutePronoun2 = document.getElementsByClassName('contract-title-substitute-pronoun2')
     const name = document.getElementById('contract-name')
     const nameElems = document.getElementsByClassName('contract-name-text')
     const address = document.getElementById('contract-address')
@@ -133,7 +139,13 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
     }
     [...document.querySelectorAll('#contract-generator input')].forEach((elem) => { elem.addEventListener('change', () => editContract() ) })
     const editContract = () => {
-      [...contractOwner].forEach((elem) => { elem.textContent = setPolite(sexMan).full });
+      [...titleFull].forEach((elem) => { elem.textContent = setPolite(sexMan).full });
+      [...titleSubstituteFull].forEach((elem) => { elem.textContent = setPolite(sexSubstituteMan).subFull });
+      [...titleShort].forEach((elem) => { elem.textContent = setPolite(sexMan).subShort });
+      [...titleSubstituteShort].forEach((elem) => { elem.textContent = setPolite(sexSubstituteMan).subShort });
+      [...titlePronoun].forEach((elem) => { elem.textContent = setPolite(sexMan).pronoun });
+      [...titleSubstitutePronoun].forEach((elem) => { elem.textContent = setPolite(sexSubstituteMan).pronoun });
+      [...titleSubstitutePronoun2].forEach((elem) => { elem.textContent = setPolite(sexSubstituteMan).pronoun2 });
       [...nameElems].forEach((elem) => { elem.textContent = name.value });
       [...addressElems].forEach((elem) => { elem.textContent = address.value });
       inscriptionElem.textContent = inscription.value;
@@ -149,30 +161,36 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
     const setContractDate = (dateVal) => { return (dateVal != null && dateVal.length !== 0)?new Date(dateVal).toLocaleDateString('fr') : new Date().toLocaleDateString('fr') };
     const setPolite = ( radio ) => { return (radio.checked)?isMan() : isWoman() }
     const isMan = () => {
-      console.log('man');
-      const obj = {
-        full: 'Le docteur',
-        adj: 'il'
+      return obj = {
+        full: 'le docteur',
+        pronoun: 'il',
+        pronoun2: 'lui',
+        subFull: 'Monsieur',
+        subShort: 'M.'
       }
-      return obj
     };
     const isWoman = () => {
-      console.log('woman');
-      const obj = {
-        full: 'La docteure',
-        adj: 'elle'
+      return obj = {
+        full: 'la docteure',
+        pronoun: 'elle',
+        pronoun2: 'elle',
+        subFull: 'Madame',
+        subShort: 'Mme'
       }
     };
     editContract();
   })
 </script>
 
-<div class="card card-body user-select-all mb-4">
-<section class="sheet">
+Sélectionner le texte > Clic droit > Imprimer
+{.typography-headline-6 .text-center}
+
+<div class="card card-body user-select-all mb-4" id="contract-generated">
+<div class="sheet">
 
 Modèle de contrat de remplacement  
 en exercice libéral
-{.typography-headline-4 .text-primary .text-center}
+{.typography-headline-5 .text-primary .text-center}
 
 Articles R.4127-65 et R.4127-91 du code de la santé publique (code de déontologie médicale)
 {.text-center}
@@ -188,7 +206,7 @@ MAJ 10 septembre 2020
 
 Entre
 
-<span class="contract-owner">La docteure</span> <span class="contract-name-text">X</span> (indiquer les qualités et numéro <span id="contract-inscription-text">d'inscription au Tableau</span>)  
+<span class="contract-title-full">La docteure</span> <span class="contract-name-text">X</span> (indiquer les qualités et numéro <span id="contract-inscription-text">d'inscription au Tableau</span>)  
 exerçant à <span class="contract-address-text">...</span>
 
 d'une part
@@ -196,7 +214,7 @@ d'une part
 
 Et
 
-Madame <span class="contract-name-substitute-text">Z</span> (indiquer l'adresse et les caractéristiques de la licence de
+<span class="contract-title-substitute-full">Madame</span> <span class="contract-name-substitute-text">Z</span> (indiquer l'adresse et les caractéristiques de la licence de
 remplacement),  
 Immatriculé(e) à l'URSSAF, sous le n° <span id="contract-urssaf-text">...</span>
 
@@ -205,53 +223,52 @@ d'autre part
 
 ### PRÉAMBULE {.typography-headline-6 .text-center}
 
-Dans le souci de respecter l'obligation déontologique qui est la sienne d'assurer la permanence des soins et conformément aux dispositions de l'article R.4127-65 du code de la santé publique (code de déontologie), la docteure <span class="contract-name-text">X</span> a contacté Mme <span class="contract-name-substitute-text">Z</span>, régulièrement autorisé(e), en vertu de l'article L.4131-2 du code de la santé publique, pour prendre en charge, lors de la cessation temporaire de son activité professionnelle habituelle, les patients qui feraient appel à elle/lui. Pour permettre le bon déroulement de ce remplacement, la docteure <span class="contract-name-text">X</span> met à la disposition de Mme <span class="contract-name-substitute-text">Z</span> son cabinet de consultations sis <span class="contract-address-text">...</span> et son secrétariat.
+Dans le souci de respecter l'obligation déontologique qui est la sienne d'assurer la permanence des soins et conformément aux dispositions de l'article R.4127-65 du code de la santé publique (code de déontologie), <span class="contract-title-full">la docteure</span> <span class="contract-name-text">X</span> a contacté <span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span>, régulièrement autorisé(e), en vertu de l'article L.4131-2 du code de la santé publique, pour prendre en charge, lors de la cessation temporaire de son activité professionnelle habituelle, les patients qui feraient appel à <span class="contract-title-substitute-pronoun2">elle</span>. Pour permettre le bon déroulement de ce remplacement, <span class="contract-title-full">la docteure</span> <span class="contract-name-text">X</span> met à la disposition de <span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> son cabinet de consultations sis <span class="contract-address-text">...</span> et son secrétariat.
 
-</section>
+</div>
 <div class="sheet">
 
-Mme <span class="contract-name-substitute-text">Z</span> assume de ce fait toutes les obligations inscrites dans le code de déontologie. Elle/Il ne peut aliéner son indépendance professionnelle sous quelque forme que ce soit.
+<span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> assume de ce fait toutes les obligations inscrites dans le code de déontologie. <span class="contract-title-substitute-pronoun text-capitalize">Elle</span> ne peut aliéner son indépendance professionnelle sous quelque forme que ce soit.
 
-Il a été convenu ce qui suit
+*Il a été convenu ce qui suit*
 {.text-center}
 
 **Article 1er**
 
-Dans le souci de la permanence des soins, la docteure <span class="contract-name-text">X</span> charge Mme <span class="contract-name-substitute-text">Z</span> qui accepte, de le remplacer temporairement auprès des patients qui feraient appel à elle/lui.
+Dans le souci de la permanence des soins, <span class="contract-title-full">la docteure</span> <span class="contract-name-text">X</span> charge <span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> qui accepte, de le remplacer temporairement auprès des patients qui feraient appel à <span class="contract-title-substitute-pronoun2">elle</span>.
 
 Les patients doivent être avertis, dès que possible, de la présence d'un(e) remplaçant(e), notamment lors de toute demande de visite à domicile ou de rendez-vous au cabinet médical.
 
-Mme <span class="contract-name-substitute-text">Z</span> doit consacrer à cette activité tout le temps nécessaire selon des modalités qu'elle/il fixe librement<sup>1</sup>. Elle/Il s'engage à donner, à tout malade faisant appel à elle/lui, des soins consciencieux et attentifs dans le respect des dispositions du code de déontologie.
+<span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> doit consacrer à cette activité tout le temps nécessaire selon des modalités qu'<span class="contract-title-substitute-pronoun">elle</span> fixe librement<sup>1</sup>. <span class="contract-title-substitute-pronoun text-capitalize">Elle</span> s'engage à donner, à tout malade faisant appel à <span class="contract-title-substitute-pronoun2">elle</span>, des soins consciencieux et attentifs dans le respect des dispositions du code de déontologie.
 
-Hors le cas d'urgence, elle/il peut, dans les conditions de l'article R.4127-47 du code de la santé publique (code de déontologie), refuser ses soins pour des raisons professionnelles ou personnelles.
+Hors le cas d'urgence, <span class="contract-title-substitute-pronoun">elle</span> peut, dans les conditions de l'article R.4127-47 du code de la santé publique (code de déontologie), refuser ses soins pour des raisons professionnelles ou personnelles.
 
 **Article 2**
 
-Le présent contrat de remplacement est prévu pour une période de ... mois (ou jours) s'étendant du <span id="contract-duration-text"></span> compris.
+Le présent contrat de remplacement est prévu pour une période de TODO: ... mois (ou jours) s'étendant du <span id="contract-duration-text"></span> compris.
 
 Son éventuel renouvellement est subordonné au respect des dispositions de l'article L.4131-2 du code de la santé publique.
 
 **Article 3**
 
-Pendant la durée du présent contrat de remplacement et pour les besoins de son exécution, Mme <span class="contract-name-substitute-text">Z</span> a l'usage des locaux professionnels, installations et appareils que la docteure <span class="contract-name-text">X</span> met à sa disposition. Elle/Il doit en faire un usage raisonnable.
+Pendant la durée du présent contrat de remplacement et pour les besoins de son exécution, <span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> a l'usage des locaux professionnels, installations et appareils que <span class="contract-title-full">la docteure</span> <span class="contract-name-text">X</span> met à sa disposition. <span class="contract-title-substitute-pronoun text-capitalize">Elle</span> doit en faire un usage raisonnable.
 
 Compte tenu du caractère par nature provisoire de l'activité du remplaçant/de la remplaçante, celle-ci /celui-ci s'interdit toute modification des lieux ou de leur destination.
 
-<small>1 Il est recommandé que les modalités habituelles de fonctionnement du cabinet soient précisées au remplaçant/à la
-remplaçante, dans le souci de la permanence des soins.</small>
+<small>1 Il est recommandé que les modalités habituelles de fonctionnement du cabinet soient précisées au remplaçant/à la remplaçante, dans le souci de la permanence des soins.</small>
 
 </div>
 <div class="sheet">
 
 **Article 4**
 
-Mme <span class="contract-name-substitute-text">Z</span> exerce son art en toute indépendance. Elle/Il est seul(e) responsable vis-à-vis des patients et des tiers des conséquences de son exercice professionnel et conserve seul(e) la responsabilité de son activité professionnelle pour laquelle elle /il s'assure personnellement à ses frais à une compagnie notoirement solvable. Elle/Il doit apporter la preuve de cette assurance avant le début de son activité.<sup>2</sup>
+<span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> exerce son art en toute indépendance. <span class="contract-title-substitute-pronoun">Elle</span> est seul(e) responsable vis-à-vis des patients et des tiers des conséquences de son exercice professionnel et conserve seul(e) la responsabilité de son activité professionnelle pour laquelle <span class="contract-title-substitute-pronoun">elle</span> s'assure personnellement à ses frais à une compagnie notoirement solvable. <span class="contract-title-substitute-pronoun text-capitalize">Elle</span> doit apporter la preuve de cette assurance avant le début de son activité.<sup>2</sup>
 
 **Article 5**
 
-Mme <span class="contract-name-substitute-text">Z</span> utilise conformément à la convention nationale les ordonnances ainsi que les feuilles de soins et imprimés pré-identifiés au nom de la docteure <span class="contract-name-text">X</span> et/ou sa CPF<sup>3</sup> dans son activité relative aux seuls patients de la docteure <span class="contract-name-text">X</span>.
+<span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> utilise conformément à la convention nationale les ordonnances ainsi que les feuilles de soins et imprimés pré-identifiés au nom de <span class="contract-title-full">la docteure</span> <span class="contract-name-text">X</span> et/ou sa CPF<sup>3</sup> dans son activité relative aux seuls patients de <span class="contract-title-full">la docteure</span> <span class="contract-name-text">X</span>.
 
-En outre, elle/il doit faire mention de son identification personnelle sur les ordonnances, feuilles de soins et imprimés réglementaires qu'elle/il sera amené(e) à remplir.
+En outre, <span class="contract-title-substitute-pronoun">elle</span> doit faire mention de son identification personnelle sur les ordonnances, feuilles de soins et imprimés réglementaires qu'<span class="contract-title-substitute-pronoun">elle</span> sera amené(e) à remplir.
 
 **Article 6**
 
@@ -259,15 +276,15 @@ Les deux co-contractants procèdent à des déclarations fiscales et sociales in
 
 **Article 7**
 
-Mme <span class="contract-name-substitute-text">Z</span> perçoit l'ensemble des honoraires correspondant aux actes effectués sur les patients à qui elle/il a donné ses soins.
+<span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> perçoit l'ensemble des honoraires correspondant aux actes effectués sur les patients à qui <span class="contract-title-substitute-pronoun">elle</span> a donné ses soins.
 
-Elle/Il doit remplir les obligations comptables normales et habituelles qui lui sont imposées réglementairement.
+<span class="contract-title-substitute-pronoun text-capitalize">Elle</span> doit remplir les obligations comptables normales et habituelles qui lui sont imposées réglementairement.
 
-En fin de remplacement, la docteure <span class="contract-name-text">X</span> reverse à Mme <span class="contract-name-substitute-text">Z</span> <span id="contract-retrocession-text">...</span>% du total des honoraires perçus et à percevoir correspondant au remplacement<sup>4</sup>.
+En fin de remplacement, <span class="contract-title-full">la docteure</span> <span class="contract-name-text">X</span> reverse à <span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> <span id="contract-retrocession-text">...</span>% du total des honoraires perçus et à percevoir correspondant au remplacement<sup>4</sup>.
 
-En cas de participation, au cours du remplacement, à la permanence des soins ambulatoire, le montant de la rémunération d'astreinte est dû à Mme <span class="contract-name-substitute-text">Z</span> qui a exécuté la/les garde(s).
+En cas de participation, au cours du remplacement, à la permanence des soins ambulatoire, le montant de la rémunération d'astreinte est dû à <span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> qui a exécuté la/les garde(s).
 
-Conformément aux dispositions de l'article R.4127-66 du code de la santé publique (code de déontologie médicale), le remplacement terminé, Madame <span class="contract-name-substitute-text">Z</span> doit cesser toute activité s'y rapportant et transmettre les informations nécessaires à la continuité des soins.
+Conformément aux dispositions de l'article R.4127-66 du code de la santé publique (code de déontologie médicale), le remplacement terminé, <span class="contract-title-substitute-full">Madame</span> <span class="contract-name-substitute-text">Z</span> doit cesser toute activité s'y rapportant et transmettre les informations nécessaires à la continuité des soins.
 
 <small>2 Il serait souhaitable que la copie de cette assurance soit jointe au présent contrat</small>
 <small>3 Carte de professionnel en formation</small>
@@ -287,12 +304,12 @@ Aux termes de l'article R4127-86 du code de la santé publique (code de déontol
 
 **Option 1**
 
-En application des dispositions ci-dessus si, au terme du remplacement prévu au présent contrat, la/le remplaçant(e) a remplacé la docteure <span class="contract-name-text">X</span> pendant une période de trois mois consécutifs ou non, elle/il ne pourra, pendant une durée de deux ans, s'installer dans un poste où elle/il puisse entrer en concurrence directe avec le médecin remplacé(e) ou éventuellement ses associé(e)s c'est-à-dire dans un rayon de .../ou dans la/les commune(s) de .... /ou dans l'/les arrondissements (préciser ici commune(s), arrondissement(s), ...).
+En application des dispositions ci-dessus si, au terme du remplacement prévu au présent contrat, la/le remplaçant(e) a remplacé <span class="contract-title-full">la docteure</span> <span class="contract-name-text">X</span> pendant une période de trois mois consécutifs ou non, <span class="contract-title-substitute-pronoun">elle</span> ne pourra, pendant une durée de deux ans, s'installer dans un poste où <span class="contract-title-substitute-pronoun">elle</span> puisse entrer en concurrence directe avec le médecin remplacé(e) ou éventuellement ses associé(e)s c'est-à-dire dans un rayon de .../ou dans la/les commune(s) de .... /ou dans l'/les arrondissements (préciser ici commune(s), arrondissement(s), ...).
 </div>
 
 **Option 2**
 
-Conformément à la possibilité offerte par les dispositions ci-dessus, la docteure <span class="contract-name-text">X</span> renonce dès à présent à se prévaloir de l'interdiction d'installation prévue à l'article R4127-86 du code de la santé publique (code de déontologie médicale) et s'engage à donner à Mme <span class="contract-name-substitute-text">Z</span> l'accord éventuellement nécessaire de sa part à son installation et à notifier cet accord au conseil départemental.
+Conformément à la possibilité offerte par les dispositions ci-dessus, <span class="contract-title-full">la docteure</span> <span class="contract-name-text">X</span> renonce dès à présent à se prévaloir de l'interdiction d'installation prévue à l'article R4127-86 du code de la santé publique (code de déontologie médicale) et s'engage à donner à <span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> l'accord éventuellement nécessaire de sa part à son installation et à notifier cet accord au conseil départemental.
 
 **Article 9 : Conciliation**
 
@@ -326,7 +343,7 @@ Les parties affirment sur l'honneur n'avoir passé aucune contre-lettre ou avena
 
 **Article 12**
 
-Conformément aux dispositions des articles R.4127-65 (code de déontologie), ce contrat sera communiqué, avant le début du remplacement, par la docteure <span class="contract-name-text">X</span> au Conseil départemental au tableau duquel il est inscrit et par Mme <span class="contract-name-substitute-text">Z</span> au conseil départemental auprès duquel elle/il est enregistré(e).
+Conformément aux dispositions des articles R.4127-65 (code de déontologie), ce contrat sera communiqué, avant le début du remplacement, par <span class="contract-title-full">la docteure</span> <span class="contract-name-text">X</span> au Conseil départemental au tableau duquel il est inscrit et par <span class="contract-title-substitute-short">Mme</span> <span class="contract-name-substitute-text">Z</span> au conseil départemental auprès duquel <span class="contract-title-substitute-pronoun">elle</span> est enregistré(e).
 
 Son renouvellement sera soumis à ces mêmes dispositions.
 

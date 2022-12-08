@@ -1305,47 +1305,6 @@ input[type="search"]::-webkit-search-results-decoration {
   }
 }
 
-/* Print */
-
-@media print {
-  main > .recommandation {
-    padding-top: 0;
-  }
-  .alert {
-    border: 1px solid rgba(0, 0, 0, 0.12);
-    &-info {
-      color: #212121;
-    }
-  }
-  .recommandation .chip-secondary {
-    color: var(--secondary);
-  }
-  figure {
-    break-inside: avoid;
-  }
-  h1.my-xl-5 {
-    margin-top: 0 !important;
-  }
-  a[target="_blank"] {
-    color: initial;
-  }
-  a[target="_blank"]::after {
-    color: rgba(0, 0, 0, 0.6);
-    content: attr(href) !important;
-  }
-  h3 {
-    color: initial !important;
-  }
-  blockquote,
-  .list-group,
-  .list-group-item {
-    border: 0;
-  }
-  .embed-responsive {
-    display: none;
-  }
-}
-
 /* Datatables */
 
 table.dataTable.dtr-inline td,

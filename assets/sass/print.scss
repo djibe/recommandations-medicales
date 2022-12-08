@@ -1,0 +1,70 @@
+@import '../../../material/assets/scss/colors';
+@import '../../../material/assets/scss/functions';
+@import '../../../material/assets/scss/variables';
+@import '../../../material/assets/scss/mixins';
+
+@import '../../../material/assets/scss/print';
+
+main > .recommandation {
+  padding-top: 0;
+}
+.alert {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  &-info {
+    color: #212121;
+  }
+}
+.recommandation .chip-secondary {
+  color: var(--secondary);
+}
+figure {
+  break-inside: avoid;
+}
+h1.my-xl-5 {
+  margin-top: 0 !important;
+}
+a[target="_blank"] {
+  color: initial;
+}
+a[target="_blank"]::after {
+  color: rgba(0, 0, 0, 0.6);
+  content: attr(href) !important;
+}
+h3 {
+  color: initial !important;
+}
+p {
+  color: #000;
+}
+blockquote,
+.list-group,
+.list-group-item {
+  border: 0;
+}
+.embed-responsive {
+  display: none;
+}
+
+@page {
+  margin: 2cm;
+  size: A4;
+}
+#contract-generated {
+  width: 100%;
+  margin: 0;
+  float: none;
+}
+body {
+  margin: 0;
+  background: #fff !important;
+}
+.sheet {
+  margin: 0;
+  padding: 25mm;
+  overflow: hidden;
+  position: relative;
+  box-sizing: border-box;
+  page-break-after: always;
+  height: 296mm;
+  width: 210mm;
+}
