@@ -39,7 +39,8 @@ todo = ""
 {{% /collapse %}}
 {{%sources%}}
 
-- [Source 1](URL)
+- [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. UE6 Item 152. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-152-nb.pdf)
+- https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Algorithme_teignes_2021-06-22.pdf
 
 {{%/sources%}}
 
