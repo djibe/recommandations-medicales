@@ -13,13 +13,13 @@ imageSrc = "storyset / Freepik"
 todo = "modèle SNJMG > validate form > durée m-j > webkit-autofill > Copier > Télécharger .doc"
 +++
 
-**RecoMédicales** vous permet de créer un contrat de remplacement en quelques clics d'après le modèle officiel du Conseil de l'Ordre.
+**RecoMédicales** vous permet de créer un contrat de remplacement rapidement d'après le modèle officiel du Conseil de l'Ordre.
 {.lead}
 
 ## Générer un contrat de remplacement
 
-Créer un contrat de remplacement en quelques clics.  
-Évidemment aucune donnée n'est récoltée (comme partout ailleurs sur RecoMédicales).
+Créer un contrat de remplacement pour le médecin libéral depuis le navigateur web.  
+Évidemment aucune donnée n'est récoltée (comme partout ailleurs sur **RecoMédicales**).
 
 <form class="card card-body shadow-none border flex-wrap mb-3" id="contract-generator">
 
