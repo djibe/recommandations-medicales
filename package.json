@@ -10,14 +10,14 @@
     "css:purge-preview": "hugo --buildDrafts && purgecss --css assets/css/material.css --content public/**/*.html --output assets/css/material-purge.css --safelist is-focused has-value close collapse collapsing modal fade modal-open modal-backdrop modal-scrollbar-measure nav-tabs-material nav-tabs-indicator animate show active tooltip tooltip-inner irs irs--material irs-line irs-min irs-max irs-from irs-to irs-single irs-grid irs-bar irs-bar--single irs-handle single state_hover irs-hidden-input",
     "favicon": "real-favicon generate \"./build/faviconDescription.json\" \"./build/favicons/\"",
     "html:lint-htmllint": "hugo --cleanDestinationDir && htmllint --rc build/.htmllintrc \"public/**/*.html\"",
-    "html:lint-vnu": "hugo --cleanDestinationDir && node build/vnu-jar.js",
-    "html:lint-validate": "hugo --cleanDestinationDir && npm exec html-validate \"public/**/*.html\"",
+    "html:lint-vnu": "npm run start && node build/vnu-jar.js",
+    "html:lint-validate": "npm run start && npm exec html-validate \"public/**/*.html\"",
     "hugo:debug": "hugo --cleanDestinationDir --minify --debug --logFile ./hugo.log --verboseLog",
     "hugo:update": "choco upgrade hugo-extended -y",
     "links-md:check": "linkinator content/**/*.md --markdown --verbosity error --skip '(%22)$'",
     "links-external:check": "linkinator layouts/shortcodes/**/*.html --verbosity error",
     "server": "hugo server --buildDrafts --watch --destination dev --verbose --cleanDestinationDir -p 1313",
-    "start": "hugo --cleanDestinationDir --gc --minify",
+    "start": "hugo --environment production --cleanDestinationDir --gc --minify",
     "webhint": "hint http://localhost:1313"
   },
   "keywords": [

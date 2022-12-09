@@ -14,7 +14,7 @@
     {{ $sass = resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint "sha384" }}
     {{ $print = resources.Get "sass/print.scss" | toCSS | postCSS | minify | fingerprint "sha384" }}
     <link rel="stylesheet" href="{{ $sass.Permalink }}" integrity="{{ $sass.Data.Integrity }}"><!-- media="print" onload="this.media='all'" -->
-    <link rel="stylesheet" href="{{ $print.Permalink }}" media="print" integrity="{{ $sass.Data.Integrity }}">
+    <link rel="stylesheet" href="{{ $print.Permalink }}" media="print" integrity="{{ $print.Data.Integrity }}">
     {{ else }}
     {{ $sass = resources.Get "sass/style.scss" | toCSS }}
     {{ $print = resources.Get "sass/print.scss" | toCSS }}
