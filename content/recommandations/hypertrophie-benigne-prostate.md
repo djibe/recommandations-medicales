@@ -49,7 +49,8 @@ Après 60 ans, 1 seule miction nocturne et un intervalle de 4 heures entre 2 mic
 
 Le diagnostic d'hypertrophie bénigne de prostate est clinique.
 
-{{%warning%}}Évoquer un *cancer de la vessie* devant toute symptomatologie chez un fumeur{{%/warning%}}
+Évoquer un *cancer de la vessie* devant toute symptomatologie chez un fumeur
+{.alert .alert-warning}
 
 ### Interrogatoire
 

@@ -107,7 +107,8 @@ Drapeaux rouges à rechercher devant chaque épisode de vertiges:
 
 Le caractère << bénin >> nécessite des critères précis et un examen rigoureux en période vertigineuse. Adresser à l'ORL en l'absence de formation spécifique ou pour un premier épisode.
 
-{{%warning%}}<< Un vertige positionnel doit être toujours très suspect d'une atteinte centrale durant l'enfance >> (*SFORL 2012*){{%/warning%}}
+> << Un vertige positionnel doit être toujours très suspect d'une atteinte centrale durant l'enfance >> (*SFORL 2012*)
+{.alert .alert-warning}
 
 ### Interrogatoire
 
@@ -205,7 +206,8 @@ Elles peuvent aggraver transitoirement les symptômes.
 - VPPB du canal semi-circulaire antérieur  
   Pas de recommandations.
 
-{{%warning%}}Traitements inutiles : acétylleucine (Tanganil®), bétahistine, piracétam, méclozine, dompéridone (Vogalène®), métoclopramide (Primpéran® ainsi que les autres anti-émétiques){{%/warning%}}
+Traitements inutiles : acétylleucine (Tanganil®), bétahistine, piracétam, méclozine, dompéridone (Vogalène®), métoclopramide (Primpéran® ainsi que les autres anti-émétiques)
+{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%sources%}}

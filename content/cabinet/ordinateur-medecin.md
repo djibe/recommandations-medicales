@@ -71,7 +71,8 @@ Précédentes références: Dell Inspiron 27 7000, Lenovo IdeaCentre AIO 3i FOG1
 
 Le PC présenté ci-dessous peut être assemblé sur mesure par les grands magasins avec la garantie dont vous avez besoin. Il a ce qu'il faut (avec carte Wi-Fi intégrée pour dépanner les jours de coup dur), est réparable pièce par pièce et coûte une bouchée de pain par rapports à ce qu'on vous vend. Il tiendra plus de 10 ans et reste facilement réparable.
 
-{{%info%}}[Achat du PC recommandé sur Hardware.fr](https://shop.hardware.fr/configurateur/5e85ae72c84371bb5bb5d864bd2a20bc), qui offre un bon service de support{{%/info%}}
+[Achat du PC recommandé sur Hardware.fr](https://shop.hardware.fr/configurateur/5e85ae72c84371bb5bb5d864bd2a20bc), qui offre un bon service de support
+{.alert .alert-info}
 
 Changez la couleur du boîtier (les goûts et les couleurs ... mais vérifiez une taille très proche de 44 x 22 x 41 cm) et la souris si vous avez de petites mains. Ajoutez un lecteur DVD ou Blu-Ray selon vos besoins (mais en 2022 ...).
 

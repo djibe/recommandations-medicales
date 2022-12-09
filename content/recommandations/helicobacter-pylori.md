@@ -241,7 +241,8 @@ Indications en première intention:
 {{% /collapse %}}
 {{%collapse "Traitement de Helicobacter pylori 2021 avec antibiogramme" %}}
 
-{{%warning%}}En cas de grossesse ou d'allaitement, il faut différer le traitement{{%/warning%}}
+En cas de grossesse ou d'allaitement, il faut différer le traitement
+{.alert .alert-warning}
 
 ### Traitement de première ligne de *H. pylori*
 
@@ -249,7 +250,8 @@ Indications en première intention:
 
 Traitement de première intention d'infection à *Helicobacter pylori* avec fonction rénale normale.
 
-{{%warning%}}Tout traitement antibiotique doit être suivi d'un {{< modal-btn modal-test-respi >}}contrôle d'éradication{{< /modal-btn >}}{{%/warning%}}
+Tout traitement antibiotique doit être suivi d'un {{< modal-btn modal-test-respi >}}contrôle d'éradication{{< /modal-btn >}}
+{.alert .alert-warning}
 
 {{%info%}}
 En cas de sensibilité à la clarithromycine, trithérapie pendant 14 jours:
@@ -280,9 +282,10 @@ Quadrithérapie avec *bismuth* pendant 10 jours:
 
 - Pylera®: 3 gélules après les repas du matin, du midi, du soir et au coucher, avec un grand verre d'eau
 - Oméprazole 20 mg matin et soir 15 minutes avant le repas  
-{{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
+  {{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
 
-{{%warning%}}Arrêt immédiat du traitement et avis médical en cas de signes neurologiques{{%/warning%}}
+Arrêt immédiat du traitement et avis médical en cas de signes neurologiques
+{.alert .alert-warning}
 
 voire trithérapie pendant 14 jours:
 
@@ -295,7 +298,7 @@ voire trithérapie pendant 14 jours:
 Quadrithérapie avec bismuth pendant 10 jours:
 
 - Oméprazole 20 mg matin et soir 15 minutes avant le repas  
-{{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
+  {{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
 - Pylera® 3 gélules après les repas du matin, du midi, du soir et au coucher, avec un grand verre d'eau.
 
 Si quadrithérapie déjà utilisée en 1<sup>re</sup> ligne, voir 3<sup>e</sup> ligne.
@@ -311,7 +314,8 @@ La réalisation d'une nouvelle endoscopie est préférable pour antibiogramme.
 {{% /collapse %}}
 {{%collapse "Traitement probabiliste d'infection Helicobacter pylori" %}}
 
-{{%warning%}}En cas de grossesse ou d'allaitement, il faut différer le traitement{{%/warning%}}
+En cas de grossesse ou d'allaitement, il faut différer le traitement
+{.alert .alert-warning}
 
 Traitement sans antibiogramme, dit *traitement empirique*.
 
@@ -323,7 +327,8 @@ Quadrithérapie avec *bismuth* pendant 10 jours:
 - Oméprazole 20 mg matin et soir 15 minutes avant le repas  
 {{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
 
-{{%warning%}}Arrêt immédiat du traitement et avis médical en cas de signes neurologiques{{%/warning%}}
+Arrêt immédiat du traitement et avis médical en cas de signes neurologiques
+{.alert .alert-warning}
 
 ou quadrithérapie du *traitement concomitant* pendant 14 jours:
 
@@ -359,7 +364,8 @@ Quadrithérapie avec *bismuth* pendant 10 jours:
 - Oméprazole 20 mg matin et soir 15 minutes avant le repas  
 {{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
 
-{{%warning%}}Arrêt immédiat du traitement et avis médical en cas de signes neurologiques{{%/warning%}}
+Arrêt immédiat du traitement et avis médical en cas de signes neurologiques
+{.alert .alert-warning}
 
 #### Allergie à la pénicilline: 2e ligne
 

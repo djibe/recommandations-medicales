@@ -87,7 +87,8 @@ TSA
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%warning%}}Arthrite atteignant > 1 articulation: avis rhumatologique sous 6 semaines (à compter de l'apparition des symptômes){{%/warning%}}
+Arthrite atteignant > 1 articulation: avis rhumatologique sous 6 semaines (à compter de l'apparition des symptômes)
+{.alert .alert-warning}
 
 {{%info%}}Évoquer une polyarthrite rhumatoïde devant toute arthrite clinique, raideur matinale > 30 minutes, douleurs à la pression transverse des mains (MCP) ou avant-pieds (MTP), évolution > 6 semaines, antécédent de PR chez un parent au 1<sup>er</sup> degré, difficultés à fermer le poing{{%/info%}}
 

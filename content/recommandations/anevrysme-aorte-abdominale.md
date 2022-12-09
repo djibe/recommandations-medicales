@@ -75,7 +75,8 @@ Prise en charge de l'anévrisme de l'aorte abdominale:
   - Le traitement est chirurgical (référence) ou endovasculaire
   - Indications opératoires basées sur: diamètre > 5 cm, croissance > 10 mm/an, AAA symptomatique
 
-{{%info%}}Le traitement des AAA < 50 mm n'a montré aucun bénéfice par rapport à l'abstention{{%/info%}}
+Le traitement des AAA < 50 mm n'a montré aucun bénéfice par rapport à l'abstention
+{.alert .alert-info}
 
 {{%/collapse%}}
 {{%sources%}}

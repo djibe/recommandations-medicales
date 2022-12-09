@@ -30,9 +30,10 @@ todo = "img, SEO 'bilan pré thérapeutique méthotrexate'"
 {{%/article-summary%}}
 {{%collapse "Contre-indications au méthotrexate" %}}
 
-{{%warning%}}En cas de grossesse sous méthotrexate, adresser au diagnostic anténatal en semi-urgence{{%/warning%}}
+En cas de grossesse sous méthotrexate, adresser au diagnostic anténatal en semi-urgence
+{.alert .alert-warning}
 
-Contre-indications au méthotrexate:
+### Liste des contre-indications au méthotrexate
 
 - Grossesse  
   Possible sans délai après l'arrêt de la contraception ([CRAT](http://lecrat.fr/spip.php?page=article&id_article=469)).

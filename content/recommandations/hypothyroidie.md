@@ -226,8 +226,9 @@ Initier à 1,7 µg/kg/j chez l'adulte.
 Adaptation par paliers de 12 µg toutes les 6-12 semaines.
 {{%/info%}}
 
-{{%warning%}}+65 ans: débuter si TSH > 20 à 2 reprises, jamais si < 10. Avis endocrinologique entre 10 et 20.  
-Surveillance de la TSH tous les 6 mois pendant 2 ans, ou annuelle si TSH stable.{{%/warning%}}
++65 ans: débuter si TSH > 20 à 2 reprises, jamais si < 10. Avis endocrinologique entre 10 et 20.  
+Surveillance de la TSH tous les 6 mois pendant 2 ans, ou annuelle si TSH stable.
+{.alert .alert-warning}
 
 #### Spécialités de lévothyroxine disponibles
 

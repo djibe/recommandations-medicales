@@ -38,7 +38,8 @@ TODO: https://ansm.sante.fr/actualites/candidose-mammaire-et-allaitement-eviter-
 {{% /collapse %}}
 {{%collapse "Location d'un tire-lait" %}}
 
-{{%info%}}Location de tire-lait électrique double pompe et ses accessoires pendant 10 semaines{{%/info%}}
+Location de tire-lait électrique double pompe et ses accessoires pendant 10 semaines
+{.alert .alert-info}
 
 Sur prescription dédiée de médecin ou sage-femme.  
 Renouvellement possible tous les 3 mois ensuite.

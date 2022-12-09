@@ -122,7 +122,8 @@ CCR
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}L'enquête diagnostique de l'anémie doit être effectuée sans délai chez un adulte sans diagnostic évident{{%/info%}}
+L'enquête diagnostique de l'anémie doit être effectuée sans délai chez un adulte sans diagnostic évident
+{.alert .alert-info}
 
 Signes et symptômes cliniques d'une anémie:
 
@@ -190,7 +191,8 @@ Une anémie par carence martiale pendant la **grossesse** dispense du bilan éti
 
 ### Supplémentation en fer
 
-{{%info%}}1 cp/j de 50-100 mg de fer élément (fer sulphate, fumarate ou gluconate) à distance des repas jusqu'à 3 mois après la normalisation de l'hémoglobine{{%/info%}}
+1 cp/j de 50-100 mg de fer élément (fer sulphate, fumarate ou gluconate) à distance des repas jusqu'à 3 mois après la normalisation de l'hémoglobine
+{.alert .alert-info}
 
 Prise en charge de l'anémie par supplémentation et fer puis surveillance de la remontée de l'hémoglobine à 1 mois, mensuelle jusqu'à correction de l'anémie, trimestrielle pendant 1 an puis semestrielle pendant 2-3 ans.
 

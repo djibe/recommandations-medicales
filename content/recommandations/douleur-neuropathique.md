@@ -309,7 +309,7 @@ Prise en charge, prescription et réalisation uniquement en centre de la douleur
 
 > "Effets indésirables": sous-entendu, effets indésirables principaux.
 
-{{%warning%}}Les opioïdes forts ne doivent être proposés par un spécialiste de la douleur qu'en l'absence d'alternatives{{%/warning%}}
+Les opioïdes forts ne doivent être proposés par un spécialiste de la douleur qu'en l'absence d'alternatives
 
 {{%/collapse%}}
 {{%collapse "Prise en charge des douleurs neuropathiques" "show" %}}

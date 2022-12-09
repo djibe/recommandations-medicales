@@ -190,7 +190,8 @@ Signes et symptômes de la bronchiolite aiguë du nourrisson:
 
 ### Examen clinique
 
-{{%warning%}}Toujours rechercher une hépatomégalie, seul signe permettant d'éliminer une insuffisance cardiaque aiguë{{%/warning%}}
+Toujours rechercher une hépatomégalie, seul signe permettant d'éliminer une insuffisance cardiaque aiguë
+{.alert .alert-warning}
 
 - Désinfection des mains et matériel et masque FFP2
 - Constantes
@@ -284,7 +285,8 @@ Fractionnement des repas, pas de modification du régime habituel.
   - Fréquentation non souhaitable en phase aiguë
   - Nourrisson à haut risque de forme grave: ne pas fréquenter en période épidémique
 
-{{%warning%}}Ne pas utiliser: bronchodilatateurs (salbutamol Ventoline ou autre), corticoïdes, antibiotiques, anti-reflux, antitussifs et fluidifiants{{%/warning%}}
+Ne pas utiliser: bronchodilatateurs (salbutamol Ventoline ou autre), corticoïdes, antibiotiques, anti-reflux, antitussifs et fluidifiants
+{.alert .alert-warning}
 
 ### Traitement médical d'une bronchiolite aiguë
 

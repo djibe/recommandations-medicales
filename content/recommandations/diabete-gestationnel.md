@@ -114,7 +114,8 @@ Recommandations pour le diagnostic biologique de diabète gestationnel:
 Au diagnostic, adresser à la maternité de son choix pour la mise en place d'une auto-surveillance glycémique et consultation diététique.
 {{%/info%}}
 
-{{%warning%}}Si glycémie à jeun > 1,26 g/L en début de grossesse (à 2 reprises), il s'agit d'un diagnostic de diabète de type 2{{%/warning%}}
+Si glycémie à jeun > 1,26 g/L en début de grossesse (à 2 reprises), il s'agit d'un diagnostic de diabète de type 2
+{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "Traitement du diabète gestationnel" %}}

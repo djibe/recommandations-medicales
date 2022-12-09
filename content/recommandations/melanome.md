@@ -81,7 +81,8 @@ Indice de Breslow, de Clark, ulcération, index mitotique, emboles vasculaires.
 {{% /collapse %}}
 {{%collapse "Facteurs de risques de mélanome" %}}
 
-{{%warning%}}Pour toutes les personnes à risque: auto-examen cutané tous les 3 mois et consultation annuelle chez le dermatologue.{{%/warning%}}
+Pour toutes les personnes à risque: auto-examen cutané tous les 3 mois et consultation annuelle chez le dermatologue
+{.alert .alert-warning}
 
 ### Personnes à risque de mélanome malin
 
@@ -216,7 +217,8 @@ Systématique pour les patients de plus de 75 ans avant la RCP.
 {{% /collapse %}}
 {{%collapse "Traitement du mélanome" %}}
 
-{{%warning%}}Dès suspicion, adresser en semi-urgence au dermatologue pour une exérèse complète.{{%/warning%}}
+Dès suspicion de mélanome, adresser en semi-urgence au dermatologue pour une exérèse complète
+{.alert .alert-warning}
 
 **NB**. Jamais de biopsie de lésion pigmentée, l'exérèse complète doit être systématique.
 

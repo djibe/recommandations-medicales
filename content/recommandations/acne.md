@@ -135,7 +135,8 @@ Les soins locaux sont systématiques pour la prise en charge de l'acné:
 - Pas de bénéfices à modifier son alimentation  
   Envisager un test d'éviction du lactose (*Aghasi 2018*)
 
-{{%warning%}}Traitements déconseillés sur l'acné: Produits alcoolisés ou antiseptiques, manipulation des lésions (provoquent poussées inflammatoires) et exposition au soleil{{%/warning%}}
+Traitements déconseillés sur l'acné: Produits alcoolisés ou antiseptiques, manipulation des lésions (provoquent poussées inflammatoires) et exposition au soleil
+{.alert .alert-warning}
 
 ### Traitements topiques de l'acné
 
@@ -146,7 +147,8 @@ Les soins locaux sont systématiques pour la prise en charge de l'acné:
 
 **Tous les traitements sont irritants, attention à l'application près des yeux et bouche.**
 
-{{%warning%}}Tous les rétinoïdes sont tératogènes, même en gel ou crème{{%/warning%}}
+Tous les rétinoïdes sont tératogènes, même en gel ou crème
+{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'acné minime à modérée" %}}
@@ -213,7 +215,8 @@ Autre traitement possible mais de faible efficacité: acide azélaïque gel 15% 
 
 #### Acné inflammatoire étendue et/ou d'évolution prolongée
 
-{{%info%}}doxycycline po (Vibramycine N®, gén) 100 mg x 1/j pendant le repas. Max 3 mois (photoprotection et contraception efficace){{%/info%}}
+doxycycline po (Vibramycine N®, gén) 100 mg x 1/j pendant le repas. Max 3 mois (photoprotection et contraception efficace)
+{.alert .alert-info}
 
 OU lymécycline 300 mg x 1/j  
 Effets indésirables: troubles digestifs, photosensibilité, réactions cutanées, HTIC, tératogène
@@ -228,7 +231,8 @@ Antibiothérapie à utiliser en association avec:
 - rétinoïde local si lésions rétentionnelles, adapalène aussi actif sur lésions inflammatoires
 - ou l'association des 2
 
-{{%warning%}}L'association d'antibiothérapie locale et générale n'est pas recommandée{{%/warning%}}
+L'association d'antibiothérapie locale et générale n'est pas recommandée
+{.alert .alert-warning}
 
 ### Acné et contraception hormonale
 

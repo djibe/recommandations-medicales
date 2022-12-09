@@ -111,7 +111,8 @@ Tumeurs
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-{{%warning%}}Appel du 15 pour bilan en urgence{{%/warning%}}
+Appel du 15 pour bilan en urgence
+{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "FMC gratuite" %}}

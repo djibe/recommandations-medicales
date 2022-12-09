@@ -167,7 +167,8 @@ Examen sensitivo-moteur exhaustif normal:
 - Force des masséter et temporaux
 - Aucun déficit neurologique autre
 
-{{%warning%}}Toute anomalie de l'examen neurologique impose une consultation spécialisée{{%/warning%}}
+Toute anomalie de l'examen neurologique impose une consultation spécialisée
+{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -213,7 +214,8 @@ Avec **séquences spécifiques**.
 
 Prise en charge par un traitement médicamenteux de fond de première intention: **carbamazépine ou oxcarbazépine**.
 
-{{%warning%}}Les antalgiques et AINS ne sont pas efficaces sur la NTC{{%/warning%}}
+> Les antalgiques et AINS ne sont pas efficaces sur la névralgie du trijumeau
+{.alert .alert-warning}
 
 ### Carbamazépine
 

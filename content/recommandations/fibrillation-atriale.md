@@ -271,7 +271,8 @@ Réévaluer fréquemment le risque de saignement avec {{< modal-btn modal-hasble
 - Thrombopénie < 50.000/mm³
 - [Anémie]({{< relref "anemie.md" >}}) non expliquée
 
-{{%warning%}}Un traitement anticoagulant contre-indique les antithrombotiques (aspirine, clopidogrel sauf post-SCA) et AINS{{%/warning%}}
+Un traitement anticoagulant contre-indique les antithrombotiques (aspirine, clopidogrel sauf post-SCA) et AINS
+{.alert .alert-warning}
 
 Adaptation à la fonction rénale selon {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}}.
 
@@ -304,7 +305,8 @@ Si temps dans la cible non atteint: AOD et observance ++ ou éducation et renfor
 
 ### Antiarythmiques
 
-{{%warning%}}Arrêt des antiarythmiques en FA permanente car échec manifeste OU troubles de conduction{{%/warning%}}
+Arrêt des antiarythmiques en cas de FA permanente car échec manifeste OU troubles de conduction
+{.alert .alert-warning}
 
 Prise en charge par antiarythmiques des patients symptomatiques pour le maintien à long terme du rythme sinusal.  
 Listés ici pour la surveillance des contre-indications.

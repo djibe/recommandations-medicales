@@ -118,7 +118,8 @@ SFEMC
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques ICHD-3" %}}
 
-{{%warning%}}En cas de doute, une cause organique doit être éliminée par des examens complémentaires{{%/warning%}}
+En cas de doute, une cause organique doit être éliminée par des examens complémentaires
+{.alert .alert-warning}
 
 Ensemble des critères internationaux de diagnostic de la migraine chez l'adulte.
 
@@ -236,7 +237,8 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%warning%}}Devant une céphalée aiguë sévère, s'installant en < 1 minute et durant > 1 heure et jugée intense, réaliser une imagerie cérébrale en urgence{{%/warning%}}
+Devant une céphalée aiguë sévère, s'installant en < 1 minute et durant > 1 heure et jugée intense, réaliser une imagerie cérébrale en urgence
+{.alert .alert-warning}
 
 ### IRM cérébrale
 
@@ -268,7 +270,8 @@ Selon *ESsCD 2019*: IgA anti-transglutaminase et IgA totales devant migraine ou 
 {{% /collapse %}}
 {{%collapse "Traitement de la crise migraineuse et mesures générales" %}}
 
-{{%warning%}}Avis neurologique si aura atypique ou sévère, migraine sévère, migraine résistante/réfractaire (en centre spécialisé){{%/warning%}}
+Avis neurologique si aura atypique ou sévère, migraine sévère, migraine résistante/réfractaire (en centre spécialisé)
+{.alert .alert-warning}
 
 **Objectifs:** Absence de douleurs à H2 du traitement de crise (ou réduction satisfaisante) avec maintien pendant 24 heures sans effets indésirables (ou minimes).  
 Les symptômes associés (digestifs, phonophotophobie) et la capacité à reprendre les activités doit aussi être évaluée. En cas d'aura, celle-ci devrait être atténuée.  
@@ -290,7 +293,8 @@ Ne pas culpabiliser l'abus médicamenteux en migraine chronique (effet délétè
 - Stress, anxiété, retentissement  
   Relaxation, biofeedback, TCC, thérapie de pleine conscience.
 
-{{%warning%}}Aura = contre-indication aux contraceptions estroprogestatives{{%/warning%}}
+Aura = contre-indication aux contraceptions estroprogestatives
+{.alert .alert-warning}
 
 ### Traitement de la crise migraineuse
 
@@ -494,7 +498,8 @@ En cas de traitement de crise inefficace:
 
 ### Migraine et contraception orale
 
-{{%warning%}}Contre-indications formelles à la contraception œstroprogestative: migraine avec aura, de novo ou aggravation sous œstroprogestatifs (*CNGOF 2018*){{%/warning%}}
+Contre-indications formelles à la contraception œstroprogestative: migraine avec aura, de novo ou aggravation sous œstroprogestatifs (*CNGOF 2018*)
+{.alert .alert-warning}
 
 2 questions: Cette contraception risque-t-elle d'aggraver la migraine et expose-t-elle à un risque vasculaire particulier ?
 

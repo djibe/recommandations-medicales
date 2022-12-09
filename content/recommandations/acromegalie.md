@@ -73,7 +73,8 @@ Adresser au [centre de compétence ou de référence HYPO](http://www.firendo.fr
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%info%}}Le bilan complémentaire d'une découverte d'acromégalie relève du centre spécialisé{{%/info%}}
+Le bilan complémentaire d'une découverte d'acromégalie relève du centre spécialisé
+{.alert .alert-info}
 
 ### Pour en savoir plus: le diagnostic biologique d'acromégalie
 
@@ -92,7 +93,8 @@ L'IRM hypophysaire retrouve souvent une tumeur.
 {{% /collapse %}}
 {{%collapse "Traitement de l'acromégalie" %}}
 
-{{%info%}}La prise en charge de l'acromégalie dépend du centre spécialisé et le suivi doit être annuel{{%/info%}}
+La prise en charge de l'acromégalie dépend du centre spécialisé et le suivi doit être annuel
+{.alert .alert-info}
 
 - [ALD 31]({{< relref "affection-longue-duree.md" >}})
 - MDPH

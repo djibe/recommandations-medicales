@@ -244,7 +244,8 @@ Ne pas descendre l'uricémie sous **30 mg/L** au long cours car l'acide urique a
 
 ### Mise en route du traitement de fond
 
-{{%warning%}}Informer systématiquement sur la nécessité d'interrompre immédiatement le traitement en cas de réaction cutanée et de consulter immédiatement un médecin{{%/warning%}}
+Informer systématiquement sur la nécessité d'interrompre immédiatement le traitement en cas de réaction cutanée et de consulter immédiatement un médecin
+{.alert .alert-warning}
 
 La dissolution des dépôts d'urate expose à des crises de goutte durant les 6 premiers mois du traitement de fond.  
 L'allopurinol est le traitement de référence mais nécessite une titration pour éviter les **toxidermies**.

@@ -46,7 +46,8 @@ todo = "lire sources, liste centre hébergement urgence, commissariat + proche, 
 {{% /collapse %}}
 {{%collapse "Dépistage des violences conjugales" %}}
 
-{{%warning%}}Questionnez toutes vos patientes lors de l'anamnèse comme vous le faites pour les antécédents médicaux ou la consommation de tabac (*HAS 2020*){{%/warning%}}
+> << Questionnez toutes vos patientes lors de l'anamnèse comme vous le faites pour les antécédents médicaux ou la consommation de tabac >> (*HAS 2020*)
+{.alert .alert-warning}
 
 ### Dépister des violences conjugales à l'interrogatoire
 
@@ -119,7 +120,8 @@ Le certificat médical peut être utilisé pour faire valoir les droits de la vi
 
 [Modèle de certificat initial (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/certificat_en_cas_de_violences_sur_personne_majeure.pdf)
 
-{{%warning%}}La consultation et l'examen clinique de la patiente sont un préalable indispensable à la rédaction du certificat.{{%/warning%}}
+La consultation et l'examen clinique de la patiente sont un préalable indispensable à la rédaction du certificat
+{.alert .alert-warning}
 
 - N'exprimer aucun jugement ni aucune interprétation  
   Le rédacteur ne se prononce pas sur la réalité des faits, sur la responsabilité d'un tiers, ni sur l'imputabilité.

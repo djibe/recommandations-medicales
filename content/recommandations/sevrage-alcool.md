@@ -156,8 +156,9 @@ Questions pour dépister une consommation à risque (mésusage):
 Demander aussi la **fréquence des jours avec forte consommation ≥ 6 verres**  
 **Chez l'enfant:** << Y a-t-il déjà eu consommation d'alcool au moins une fois ? >>
 
-{{%warning%}}Toute consommation pendant la **grossesse** est un mésusage: urgence addictologique, gynécologique, psychologique et sociale.  
-Idem sans urgence pour jeune (avec avis psychiatrique + parents), cirrhose, travail sur machine, chauffeur professionnel{{%/warning%}}
+Toute consommation pendant la **grossesse** est un mésusage: urgence addictologique, gynécologique, psychologique et sociale.  
+Idem sans urgence pour jeune (avec avis psychiatrique + parents), cirrhose, travail sur machine, chauffeur professionnel
+{.alert .alert-warning}
 
 Occasions pour dépister un mésusage: consultation de routine, prescription d'un médicament interagissant avec l'alcool, désir de grossesse, tabagisme, jeune adulte, troubles psychiatriques, précarité, pathologie cardiovasculaire, pathologie résistante au traitement (douleur, dépression, diabète...).
 
@@ -367,7 +368,8 @@ Le sevrage de l'alcool peut le plus souvent être un sevrage ambulatoire mais n�
 
 ### Indications au sevrage hospitalier en alcool
 
-{{%warning%}}Seulement 3 indications aux services d'Urgences: complications somatiques sévères, crises suicidaires, agitation avec agressivité{{%/warning%}}
+Seulement 3 indications aux services d'Urgences: complications somatiques sévères, crises suicidaires, agitation avec agressivité
+{.alert .alert-warning}
 
 Indications à l'hospitalisation pour une abstinence:
 

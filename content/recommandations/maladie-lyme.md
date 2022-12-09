@@ -123,7 +123,8 @@ Prise en charge recommandée après une morsure de tique:
 - Surveiller la zone pendant 4 semaines  
   Avis médical en cas d'apparition d'un érythème migrant (EM) qui signe une borréliose de Lyme.
 
-{{%warning%}}Pas d'antibiothérapie ou d'examens systématiques après extraction de tique{{%/warning%}}
+Pas d'antibiothérapie ou d'examens systématiques après extraction de tique
+{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

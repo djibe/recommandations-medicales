@@ -44,8 +44,9 @@ G6PD
 
 Le patient atteint d'un déficit en G6PD doit reconnaître les signes d'un accident hémolytique.
 
-{{%warning%}}La survenue d'une hémolyse aiguë peut mettre en jeu le pronostic vital.  
-Nécessité d'un bilan biologique en urgence{{%/warning%}}
+La survenue d'une hémolyse aiguë peut mettre en jeu le pronostic vital.  
+Nécessité d'un bilan biologique en urgence
+{.alert .alert-warning}
 
 - Homme le plus souvent
 - Quelques heures à 3 jours après la **prise de l'agent déclenchant** ou en contexte fébrile

@@ -157,10 +157,9 @@ Antibiotique de référence pour la prise en charge de la sinusite maxillaire:
 - **Enfant:** Amoxicilline 80-100 mg/kg/j en 2 prises/j pendant 10 jours
 {{%/info%}}
 
-{{%warning%}}
 En cas de pénurie, traitement différé si possible: Amoxicilline cp 1 g dispersible toutes les 12 heures pendant 5 jours  
 [Ordonnance (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/lien_2_ordonnance_dilution_amoxicilline_plus_de_12_kg.pdf)
-{{%/warning%}}
+{.alert .alert-warning}
 
 ##### Si échec ou origine dentaire
 

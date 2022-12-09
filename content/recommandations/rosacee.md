@@ -110,7 +110,8 @@ Diagnostic différentiel de la rosacée:
 
 **Objectifs de la prise en charge:** réduire les symptômes, préserver le capital esthétique et prévenir les complications.
 
-{{%warning%}}Contre-indication formelle aux dermocorticoïdes dans la rosacée{{%/warning%}}
+Contre-indication formelle aux dermocorticoïdes dans la rosacée
+{.alert .alert-warning}
 
 Traitement au long cours car suspensif seulement.
 
@@ -189,7 +190,8 @@ Isotrétinoïne envisageable seulement par le dermatologue.
 
 {{%info%}}Métronidazole gel 0,75% (Rozex®, gén) x 1-2/j{{%/info%}}
 
-{{%warning%}}Adresser au dermatologue en cas de résistance aux traitements de première intention.{{%/warning%}}
+Adresser au dermatologue en cas de résistance aux traitements de première intention
+{.alert .alert-warning}
 
 ### Rhinophyma
 

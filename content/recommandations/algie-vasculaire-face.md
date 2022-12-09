@@ -106,7 +106,8 @@ AVF chronique
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%warning%}}Moins de 25% des cas sont diagnostiqués au début de la maladie{{%/warning%}}
+Moins de 25% des cas sont diagnostiqués au début de la maladie
+{.alert .alert-warning}
 
 ### Interrogatoire
 
@@ -234,9 +235,10 @@ Objectif: disparition ou persistance de céphalée légère à 15 ou 30 minutes.
 
 ### Oxygénothérapie
 
-{{%info%}}Prescription (initiale et renouvellement) réservée à un neurologue, ORL ou centre de la douleur.{{%/info%}}
+Prescription (initiale et renouvellement) de l'oxygène réservée à un neurologue, ORL ou centre de la douleur
+{.alert .alert-info}
 
-Normobare au masque haute concentration 12-15 L/min pendant 15-20 minutes.
+Oxygénothérapie normobare au masque haute concentration 12-15 L/min pendant 15-20 minutes.
 
 Traiter ≥ 3 crises à 12-15 L/min pendant 30 minutes avant de conclure à son inefficacité.  
 *Effet rebond* possible.

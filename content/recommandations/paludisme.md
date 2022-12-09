@@ -94,7 +94,8 @@ Signes d'**anémie hémolytique fébrile**:
 {{% /collapse %}}
 {{%collapse "Indications à la prophylaxie palustre selon le pays de destination" %}}
 
-{{%warning%}}Grossesse: séjour en zone d'endémie déconseillé (*CRAT*){{%/warning%}}
+Grossesse: séjour en zone d'endémie déconseillé (*CRAT*)
+{.alert .alert-warning}
 
 Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité d'un traitement préventif contre le paludisme.
 
@@ -117,7 +118,8 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 {{% /collapse %}}
 {{%collapse "Molécules en prévention du paludisme" %}}
 
-{{%warning%}}La prophylaxie n'élimine pas complètement le risque infectieux{{%/warning%}}
+La prophylaxie anti-palustre n'élimine pas complètement le risque infectieux
+{.alert .alert-warning}
 
 <div class="card card-body mb-4">
   <p class="card-title">Prophylaxie palustre selon le poids</p>

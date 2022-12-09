@@ -183,7 +183,8 @@ Non pris en charge par l'Assurance Maladie.
 
 Le pessaire peut être utilisé comme test diagnostic lorsque le lien symptômes - prolapsus n'est pas certain (ex: dysurie, urgenturie, douleurs abdomino-pelviennes).
 
-{{%warning%}}Consulter rapidement en cas de: pertes vaginales anormales, métrorragies, troubles de la vidange vésicale ou rectale, fuites urinaires, inconfort ou douleurs{{%/warning%}}
+Consulter rapidement en cas de: pertes vaginales anormales, métrorragies, troubles de la vidange vésicale ou rectale, fuites urinaires, inconfort ou douleurs
+{.alert .alert-warning}
 
 #### Rééducation périnéale
 

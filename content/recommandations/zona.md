@@ -147,7 +147,8 @@ Informer sur la nécessité de consultation immédiate en cas de survenue de br�
 {{% /collapse %}}
 {{%collapse "Traitement du zona" %}}
 
-{{%warning%}}Hospitalisation en cas de zona chez un immunodéprimé ou compliqué d'atteinte organique{{%/warning%}}
+Hospitalisation en cas de zona chez un immunodéprimé ou compliqué d'atteinte organique
+{.alert .alert-warning}
 
 Prise en charge d'un zona non sévère:
 

@@ -56,7 +56,8 @@ Les complications sont locales voire générales:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}L'aspect de l'oropharynx n'est pas prédictif de l'angine à SGA (*Collège*){{%/info%}}
+L'aspect de l'oropharynx n'est pas prédictif de l'angine à SGA (*Collège*)
+{.alert .alert-info}
 
 Signes et symptômes de l'angine:
 
@@ -80,7 +81,8 @@ Autres formes d'angine:
 - Anaérobies (angine ulcéreuse dite *angine de Vincent*)  
   Éliminer agranulocytose, hémopathie/cancer.
 
-{{%info%}}Pour mieux visualiser les amygdales, demander à l'enfant de rugir comme un lion ou de bailler la bouche ouverte (*Pr Douglas Paauw*){{%/info%}}
+Pour mieux visualiser les amygdales, demander à l'enfant de rugir comme un lion ou de bailler la bouche ouverte (*Pr Douglas Paauw*)
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Score de Mac Isaac" %}}
@@ -107,7 +109,8 @@ Indication à une prise en charge de l'angine par antibiotique: angine chez les 
 
 #### Antibiothérapie de l'angine chez l'adulte
 
-{{%info%}}Amoxicilline 1 g matin et soir pendant 6 jours{{%/info%}}
+Amoxicilline 1 g matin et soir pendant 6 jours
+{.alert .alert-info}
 
 Antibiothérapies alternatives à partir de 15 ans:
 
@@ -122,7 +125,8 @@ Antibiothérapies alternatives à partir de 15 ans:
 
 #### Antibiothérapie de l'angine chez l'enfant
 
-{{%info%}}Amoxicilline 50 mg/kg/j en 2 prises par jour pendant 6 jours (max 2 g/j){{%/info%}}
+Amoxicilline 50 mg/kg/j en 2 prises par jour pendant 6 jours (max 2 g/j)
+{.alert .alert-info}
 
 Antibiothérapies alternatives avant 15 ans:
 

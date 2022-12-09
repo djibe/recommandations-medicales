@@ -464,7 +464,8 @@ Réaliser un bilan complet si prise de poids importante.
 
 ### Céphalées
 
-{{%warning%}}Contre-indication formelle aux œstroprogestatifs si migraines de novo ou aggravation des migraines pré-existantes{{%/warning%}}
+Contre-indication formelle aux œstroprogestatifs si migraines de novo ou aggravation des migraines pré-existantes
+{.alert .alert-warning}
 
 La survenue de céphalées sous contraceptifs hormonaux peuvent être le marqueur d'un risque vasculaire. Réévaluation clinique cardiovasculaire.
 
@@ -547,14 +548,14 @@ Chez l'homme: recommander le préservatif avec les nouvelles thérapies.
 
 #### Contraception après cancer
 
-{{%warning%}}Après un cancer du sein, toutes les contraceptions hormonales sont contre-indiquées{{%/warning%}}
+Après un [cancer du sein]({{< relref "cancer-sein.md" >}}), toutes les contraceptions hormonales sont contre-indiquées{.alert .alert-warning}
 
 Une contraception doit être systématiquement envisagée en l'absence de [ménopause]({{< relref "menopause.md" >}}).
 
 - Cancer du sein  
-Contraception non hormonale par DIU cuivre privilégiée.
+  Contraception non hormonale par DIU cuivre privilégiée.
 - Hépatocarcinome  
-Privilégier les contraceptions non hormonales.
+  Privilégier les contraceptions non hormonales.
 
 #### Contraception et prédisposition familiale au cancer
 

@@ -135,7 +135,8 @@ Autres atteintes des spondylarthrites:
 - Entéro-colopathie inflammatoire (diarrhée, amaigrissement)
 - Troubles du rythme ou de la conduction et valvulopathies
 
-{{%warning%}}Recherche systématique de MICI si diarrhée ou amaigrissement inexpliqué.{{%/warning%}}
+Recherche systématique de MICI si diarrhée ou amaigrissement inexpliqué
+{.alert .alert-warning}
 
 ### Comorbidités
 

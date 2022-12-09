@@ -99,7 +99,8 @@ Signes et symptômes devant faire évoquer une appendicite aiguë:
 - Signes négatifs
   Signes fonctionnels urinaires, gynécologiques.
 
-{{%info%}}Chez la femme enceinte: l'utérus repousse l'appendice avec tableau de colique hépatique{{%/info%}}
+Chez la femme enceinte: l'utérus repousse l'appendice avec tableau de colique hépatique
+{.alert .alert-info}
 
 ### Examen clinique
 
@@ -150,7 +151,8 @@ Aucun score basé sur le syndrome inflammatoire ne s'est révélé suffisant pou
 
 > *Bilan non exhaustif du CDU-HGE*
 
-{{%info%}}En l'absence de signes cliniques (douleur migrant en FID) ET biologiques (NFS et CRP normaux), le diagnostic d'AA est peu probable. Possible exploration par imagerie ou surveillance clinique adaptée au contexte{{%/info%}}
+En l'absence de signes cliniques (douleur migrant en FID) ET biologiques (NFS et CRP normaux), le diagnostic d'AA est peu probable. Possible exploration par imagerie ou surveillance clinique adaptée au contexte
+{.alert .alert-info}
 
 ### Imagerie de l'appendicite
 
@@ -163,7 +165,8 @@ Après échographie normale ou non concluante et absence d'accès à l'IRM: scan
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'appendicite aiguë" %}}
 
-{{%info%}}<< L'antibiothérapie seule n'est pas recommandée en première intention dans l'appendicite aiguë non compliquée et le traitement chirurgical reste la prise en charge de référence >> *SFCD 2021*{{%/info%}}
+> << L'antibiothérapie seule n'est pas recommandée en première intention dans l'appendicite aiguë non compliquée et le traitement chirurgical reste la prise en charge de référence >> (*SFCD 2021*)
+{.alert .alert-info}
 
 ### Traitement chirurgical: appendicectomie
 

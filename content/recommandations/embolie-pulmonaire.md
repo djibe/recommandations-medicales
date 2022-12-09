@@ -90,7 +90,8 @@ Appel du {{<phone>}}15{{</phone>}} en présence d'au moins 1 parmi:
 {{% /collapse %}}
 {{%collapse "Probabilité clinique d'embolie pulmonaire" %}}
 
-{{%warning%}}&ge; 50 ans, grossesse ou post-partum = Urgences{{%/warning%}}
++50 ans, grossesse ou post-partum = Urgences
+{.alert .alert-warning}
 
 Sauf critères de gravité ou profil cité ci-dessus, utiliser l'un de ces scores validés pour déterminer la probabilité clinique d'embolie pulmonaire.
 
@@ -127,7 +128,8 @@ La réponse aux 8 questions suivantes doit être négative pour infirmer une *su
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%warning%}}Toute suspicion d'EP doit être explorée aux urgences (sauf probabilité faible infirmée par la règle PERC){{%/warning%}}
+Toute suspicion d'embolie pulmonaire doit être explorée aux urgences (sauf probabilité faible infirmée par la règle PERC)
+{.alert .alert-warning}
 
 {{%info%}}
 Si réception de D-dimères pour suspicion d'EP au cabinet:
@@ -157,7 +159,8 @@ En prenant en compte l'adaptation de l'âge après 50 ans.
 {{% /collapse %}}
 {{%collapse "Traitement de l'embolie pulmonaire" %}}
 
-{{%warning%}}Toute suspicion d'EP doit être explorée aux urgences (sauf probabilité faible infirmée par la règle PERC).{{%/warning%}}
+Toute suspicion d'embolie pulmonaire doit être explorée aux urgences (sauf probabilité faible infirmée par la règle PERC)
+{.alert .alert-warning}
 
 ### Traitement ambulatoire
 

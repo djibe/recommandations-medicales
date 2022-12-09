@@ -332,7 +332,8 @@ Palpation des aires ganglionnaires au moins 1/an.
 - [Fièvre jaune]({{< relref "fievre-jaune.md" >}})  
   Séjour en Guyane.
 
-{{%warning%}}Contre-indication au BCG quel que soit le taux de CD4{{%/warning%}}
+Contre-indication au BCG quel que soit le taux de CD4
+{.alert .alert-warning}
 
 > Sources *Calendrier vaccinal* et *HAS 2018*
 

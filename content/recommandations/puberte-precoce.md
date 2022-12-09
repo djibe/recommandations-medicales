@@ -144,7 +144,7 @@ Prescrite par le spécialiste.
 Indications à l'IRM en semi-urgence:
 
 - Troubles visuels  
-Baisse d'acuité visuelle, scotome.
+  Baisse d'acuité visuelle, scotome.
 - Syndrome polyuro-polydipsique (suspicion de diabète insipide)
 
 {{%/warning%}}

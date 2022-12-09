@@ -134,7 +134,8 @@ TZD
 {{% /collapse %}}
 {{%collapse "Mesure de la pression artérielle au cabinet" %}}
 
-{{%warning%}}Les mesures sur la table d'examen ne sont pas valables (*ESH 2021*){{%/warning%}}
+> Les mesures sur la table d'examen ne sont pas valables (*ESH 2021*)
+{.alert .alert-warning}
 
 Toute personne majeure devrait avoir la mesure de PA dans son dossier et connaître ses valeurs.
 

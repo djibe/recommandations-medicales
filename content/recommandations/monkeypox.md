@@ -189,8 +189,9 @@ La 2<sup>e</sup> dose sera réalisée quand une large population aura été prim
 {{%/collapse%}}
 {{%collapse "Traitement du Monkeypox" %}}
 
-{{%warning%}}Poliovirus = [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}). Le monkeypox nécessite un [cerfa spécifique de déclaration](https://www.formulaires.service-public.fr/gf/cerfa_12218.do). Contacter l'ARS au plus vite en cas de femme ou d'enfant.  
-Pas d'AINS (*SFDermato*){{%/warning%}}
+Poliovirus = [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}). Le monkeypox nécessite un [cerfa spécifique de déclaration](https://www.formulaires.service-public.fr/gf/cerfa_12218.do). Contacter l'ARS au plus vite en cas de femme ou d'enfant.  
+Pas d'AINS (*SFDermato*)
+{.alert .alert-warning}
 
 Le traitement du Monkeypox est symptomatique avec la prévention des surinfections cutanéo-muqueuses.
 

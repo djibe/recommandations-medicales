@@ -212,7 +212,8 @@ Recommandations pour la prise en charge des douleurs par les traitements pharmac
 - Pourraient être proposés: acupuncture, cure thermale
 - Adaptation du poste avec le Médecin du travail ou à défaut un Centre Régional de Pathologies Professionnelles et Environnementales
 
-{{%warning%}}Ne pas utiliser: bandes adhésives de contention ou orthèses souples, électrothérapie, thermothérapie, ondes de choc, laser, thérapies électromagnétiques{{%/warning%}}
+Ne pas utiliser: bandes adhésives de contention ou orthèses souples, électrothérapie, thermothérapie, ondes de choc, laser, thérapies électromagnétiques
+{.alert .alert-warning}
 
 #### Infiltrations de corticoïdes
 

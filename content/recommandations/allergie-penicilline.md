@@ -118,7 +118,7 @@ Céfépime.
 {{% /collapse %}}
 {{%collapse "Conduite à tenir en notion d'allergie aux pénicillines" %}}
 
-{{%warning%}}Bilan allergo{{%/warning%}}
+Bilan allergo
 
 ### Céphalosporines
 

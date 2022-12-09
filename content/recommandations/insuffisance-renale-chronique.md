@@ -427,7 +427,8 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
   - Limiter les protéines < 1 g/kg/j dès que la clairance est < 60
 - Apports en calcium, phosphore, potassium
 
-{{%warning%}}Protection du capital veineux quand DFGe < 45 mL/min (pas de prélèvement des avant-bras){{%/warning%}}
+Protection du capital veineux quand DFGe < 45 mL/min (pas de prélèvement des avant-bras)
+{.alert .alert-warning}
 
 #### Symptômes
 

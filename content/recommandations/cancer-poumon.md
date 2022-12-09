@@ -126,7 +126,8 @@ Bilan systématique en cas de signes d'alerte ou de symptômes atypiques:
 
 Puis adresser en semi-urgence en Centre de Lutte contre le Cancer (CLCC).
 
-{{%warning%}}Le scanner n'élimine pas formellement le diagnostic en cas de forte suspicion diagnostique. Intérêt d'avis pneumologique ou oncologique en semi-urgence{{%/warning%}}
+Le scanner n'élimine pas formellement le diagnostic en cas de forte suspicion diagnostique. Intérêt d'avis pneumologique ou oncologique en semi-urgence
+{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "Dépistage du cancer du poumon" %}}

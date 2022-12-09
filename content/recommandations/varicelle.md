@@ -133,7 +133,8 @@ Vaccination recommandée sans antécédents de varicelle ou histoire douteuse:
 
 > *Calendrier vaccinal*
 
-{{%warning%}}Vaccination varicelle contre-indiquée pendant la grossesse. Une grossesse doit être évitée dans le mois suivant la vaccination{{%/warning%}}
+Vaccination varicelle contre-indiquée pendant la grossesse. Une grossesse doit être évitée dans le mois suivant la vaccination
+{.alert .alert-warning}
 
 #### Spécialités
 

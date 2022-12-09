@@ -305,7 +305,8 @@ La prescription et l'interprétation relèvent d'un médecin formé à la médec
 
 *Polygraphie ventilatoire* voire *polysomnographie* en cas de suspicion de pathologies neurologiques associées.
 
-{{%warning%}}En cas de somnolence avec suspicion forte de SAOS, une polygraphie normale n'exclut pas le diagnostic et doit faire pratiquer une polysomnographie (25-50% de faux négatifs, *Gottlieb 2020*){{%/warning%}}
+En cas de somnolence avec suspicion forte de SAOS, une polygraphie normale n'exclut pas le diagnostic et doit faire pratiquer une polysomnographie (25-50% de faux négatifs, *Gottlieb 2020*)
+{.alert .alert-warning}
 
 ### Gaz du sang
 

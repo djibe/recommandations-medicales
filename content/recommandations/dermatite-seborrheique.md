@@ -44,7 +44,8 @@ Dermatite séborrhéique (DS ou dermite séborrhéique)
 {{% /collapse %}}
 {{% collapse "Clinique" %}}
 
-{{%warning%}}Dépister le VIH en cas de dermatite séborrhéique grave, résistante ou chronique{{%/warning%}}
+Dépister le VIH en cas de dermatite séborrhéique grave, résistante ou chronique
+{.alert .alert-warning}
 
 Le diagnostic de dermatite séborrhéique est clinique.
 

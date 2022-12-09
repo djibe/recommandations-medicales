@@ -387,7 +387,8 @@ Choix selon le profil clinique:
   - {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}
   - Arrêt si pneumonie ou autres effets indésirables des corticoïdes et remplacement par {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}}
 
-{{%warning%}}Sur-risque de pneumopathie avec les corticoïdes inhalés{{%/warning%}}
+Sur-risque de pneumopathie avec les corticoïdes inhalés
+{.alert .alert-warning}
 
 #### 3<sup>e</sup> intention - Prescription spécialisée
 

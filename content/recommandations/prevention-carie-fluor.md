@@ -64,7 +64,8 @@ Populations à risque élevé de carie:
 {{% /collapse %}}
 {{%collapse "Soins dentaires recommandés" %}}
 
-{{%warning%}}<< la collation matinale doit être supprimée en collectivité >> (*HAS*){{%/warning%}}
+> << la collation matinale doit être supprimée en collectivité >> (*HAS*)
+{.alert .alert-warning}
 
 Soins dentaires minimum recommandés:
 

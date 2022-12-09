@@ -128,7 +128,8 @@ Diagnostics fréquents selon la topographie du prurit:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%warning%}}Tout prurit nu et chronique chez un adulte jeune doit faire évoquer un lymphome.{{%/warning%}}
+Tout prurit nu et chronique chez un adulte jeune doit faire évoquer un lymphome
+{.alert .alert-warning}
 
 Le prurit est un diagnostic d'interrogatoire.
 

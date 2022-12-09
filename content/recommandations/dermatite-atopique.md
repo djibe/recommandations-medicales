@@ -238,7 +238,8 @@ Traiter dès le début de la poussée d'eczéma:
   - Avis dermatologique si résistance au traitement
 - Consultation de suivi
 
-{{%warning%}}Les corticoïdes par voie orale ou injectable n'ont aucune indication dans la dermatite atopique{{%/warning%}}
+Les corticoïdes par voie orale ou injectable n'ont aucune indication dans la dermatite atopique
+{.alert .alert-warning}
 
 {{% /collapse %}}
 {{%collapse "Vidéos de formation" %}}

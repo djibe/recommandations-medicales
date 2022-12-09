@@ -71,7 +71,8 @@ Rémission du diabète
 {{% /collapse %}}
 {{%collapse "Les points vitaux du diabète type 2" "show" %}}
 
-{{%warning%}}Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} (rarement modéré) {{%class%}}(risque CV x 3-4){{%/class%}}{{%/warning%}}
+Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} (rarement modéré) {{%class%}}(risque CV x 3-4){{%/class%}}
+{.alert .alert-warning}
 
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (passif également)
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
