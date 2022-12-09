@@ -58,7 +58,7 @@ Créer un contrat de remplacement en quelques clics.
   <input class="form-control" id="contract-name-substitute" type="text" autocomplete="off" required>
 </div>
 <div class="form-group floating-label textfield-box form-ripple w-50">
-  <label class="mb-2" for="contract-name-substitute">Siret</label>
+  <label class="mb-2" for="contract-urssaf">Siret</label>
   <input class="form-control" id="contract-urssaf" type="number" max="99999999999999" autocomplete="off">
   <small class="form-text">Numéro URSSAF à 14 chiffres</small>
 </div>
@@ -89,7 +89,7 @@ Créer un contrat de remplacement en quelques clics.
 
 Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
 
-<button class="btn btn-outline-primary d-print-none mt-4" type="button" onclick="printPageArea('contract-generated')">
+<button class="btn btn-outline-primary d-print-none mt-4" type="button" id="contract-btn" onclick="printPageArea('contract-generated')">
   <svg class="svg-primary mr-2" aria-hidden="true" height="24" viewBox="0 0 24 24" width="24"><path d="M19 8h-1V3H6v5H5c-1.66 0-3 1.34-3 3v6h4v4h12v-4h4v-6c0-1.66-1.34-3-3-3zM8 5h8v3H8V5zm8 12v2H8v-4h8v2zm2-2v-2H6v2H4v-4c0-.55.45-1 1-1h14c.55 0 1 .45 1 1v4h-2z"/><circle cx="18" cy="11.5" r="1"/></svg> Imprimer le contrat
 </button>
 </form>
@@ -180,13 +180,13 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
     };
     editContract();
   })
-  function printPageArea(areaID){
+  function printPageArea(areaID) {
       const printContent = document.getElementById(areaID).innerHTML;
       const originalContent = document.body.innerHTML;
       document.body.innerHTML = printContent;
       window.print();
       document.body.innerHTML = originalContent;
-    };
+  };
 </script>
 <div class="card card-body user-select-all mb-4" id="contract-generated">
 <div class="sheet">
