@@ -143,7 +143,8 @@ Selon les Annales de Dermato, intérêt de rechercher systématiquement:
 
 ### Forme papulopustuleuse mineure
 
-{{%info%}}Métronidazole 0,75% gel (Rozex®, gén) x 2/j pendant 3 mois{{%/info%}}
+Métronidazole 0,75% gel (Rozex®, gén) x 2/j pendant 3 mois
+{.alert .alert-info}
 
 **Effet indésirable:** xérose cutanée.
 
@@ -165,11 +166,10 @@ Atteinte papulopustuleuse marquée et oculaire.
 
 #### 1. Traitement d'attaque
 
-{{%info%}}
 Doxycycline 100 mg (Vibramycine N®, gén) pendant le dîner pendant 3 mois  
 Ne pas s'allonger dans l'heure qui suit.  
 ± associée au métronidazole topique
-{{%/info%}}
+{.alert .alert-info}
 
 **NB.** *Prescrire®* rapporte une efficacité comparable de la **doxycycline 50 mg/j** pour la rosacée avec une tolérance bien meilleure.
 
@@ -188,7 +188,8 @@ Isotrétinoïne envisageable seulement par le dermatologue.
 
 #### 2. Traitement d'entretien
 
-{{%info%}}Métronidazole gel 0,75% (Rozex®, gén) x 1-2/j{{%/info%}}
+Métronidazole gel 0,75% (Rozex®, gén) x 1-2/j
+{.alert .alert-info}
 
 Adresser au dermatologue en cas de résistance aux traitements de première intention
 {.alert .alert-warning}

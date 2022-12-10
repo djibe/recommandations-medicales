@@ -68,7 +68,8 @@ Mesures de prévention des zoonoses, dont la *Maladie des griffes du chat*:
 
 ### Antibiothérapie
 
-{{%info%}}Azithromycine 500 mg en 1 prise J1 puis 250 mg en 1 prise de J2 à J5 et arrêt{{%/info%}}
+Azithromycine 500 mg en 1 prise J1 puis 250 mg en 1 prise de J2 à J5 et arrêt
+{.alert .alert-info}
 
 Le traitement par antibiotiques de la maladie des griffes du chat n'est pas systématique (voir citation ci-dessous). Il consiste en une antibiothérapie par macrolide.  
 Si allergie ou contre-indication aux macrolides: doxycycline 200 mg x 1/j pendant 14 jours.

@@ -133,7 +133,8 @@ VEMS
 
 #### Épidémiologie de la BPCO en France
 
-{{%info%}}1 seul marqueur de prise en charge optimale sur 7 atteint le seuil de 70% (voir [Projet](/projet/), *HAS 2022*){{%/info%}}
+Un seul marqueur de prise en charge optimale de la BPCO sur 7 atteint le seuil de 70% (voir [Projet](/projet/), *HAS 2022*)
+{.alert .alert-info}
 
 - Prévalence: 7-10% des 40-64 ans (3,5 millions en 2010)
 - Hospitalisations: 100-160.000/an (2017)  
@@ -514,7 +515,8 @@ Si récupération incomplète: spirométrie à 3 mois.
 
 [Modèle SPLF du Plan d'action BPCO (PDF)](https://splf.fr/wp-content/uploads/2017/09/F-PlanAction_2013-o.pdf)
 
-{{%info%}}Toujours remettre au patient le *Plan d'Action*. Son entourage doit aussi le connaître.{{%/info%}}
+Toujours remettre au patient le *Plan d'Action*. Son entourage doit aussi le connaître
+{.alert .alert-info}
 
 - Savoir quand appeler son médecin généraliste ou son pneumologue
 - Ajuster le traitement bronchodilatateur aux symptômes

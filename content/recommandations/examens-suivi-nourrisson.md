@@ -81,7 +81,8 @@ Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de s
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal de l'enfant" %}}
 
-{{%info%}}Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{< relref "vaccination.md" >}}){{%/info%}}
+Pour plus d'informations sur les vaccinations, voir le chapitre [Vaccination]({{< relref "vaccination.md" >}})
+{.alert .alert-info}
 
 ### Vaccinations de l'enfant
 

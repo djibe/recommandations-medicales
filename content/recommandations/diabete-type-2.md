@@ -93,7 +93,8 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 - Dépister des {{< modal-btn modal-saos-diabete >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et dysfonction érectile (50%)
 - ALD 8 et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
 
-{{%info%}}Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75% (*ESC 2019 diabetes*){{%/info%}}
+> Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75% (*ESC 2019 diabetes*)
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Escalade thérapeutique" %}}

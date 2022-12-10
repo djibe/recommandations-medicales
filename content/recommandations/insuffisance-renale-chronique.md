@@ -125,7 +125,8 @@ Population à risque d'insuffisance rénale chronique, définie par la présence
 - Exposition professionnelle  
   [Plomb]({{< relref "saturnisme.md" >}}), cadmium, mercure.
 
-{{%info%}}Le dépistage des populations à risque doit être répété 1 fois par an (ou selon l'avis du néphrologue en antécédents familiaux.){{%/info%}}
+Le dépistage des populations à risque doit être répété 1 fois par an (ou selon l'avis du néphrologue en antécédents familiaux.)
+{.alert .alert-info}
 
 ### Comment dépister la maladie rénale chronique ?
 
@@ -133,7 +134,7 @@ Population à risque d'insuffisance rénale chronique, définie par la présence
 
 - Créatininémie avec DFG selon {{< scores/ckd-epi >}}
 - Albuminurie sur échantillon (Albuminurie/créatininurie ou A/C)  
-{{%class%}}Recueil à tout moment de la journée (de préférence le matin).{{%/class%}}
+  {{%class%}}Recueil à tout moment de la journée (de préférence le matin).{{%/class%}}
 {{%/info%}}
 
 En cas d'anomalie (hématurie, protéinurie, DFGe < 60), le bilan doit être **recontrôlé à 3 mois** dans le même laboratoire. La persistance à 3 mois de l'anomalie affirme la *maladie rénale chronique*.
@@ -194,7 +195,8 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 | A3    | &gt; 30 | &gt; 300 | &gt; 300 | Augmentée            |
 {{< /table >}}
 
-{{%info%}}Le terme de *microalbuminurie* n'est plus utilisé{{%/info%}}
+Le terme de *microalbuminurie* n'est plus utilisé
+{.alert .alert-warning}
 
 **NB.** Faux positifs pour une albuminurie/protéinurie: infection urinaire, fièvre, insuffisance cardiaque, protéinurie orthostatique, sport intense dans les 24h, menstruations, AINS, alimentation riche en protéines.
 

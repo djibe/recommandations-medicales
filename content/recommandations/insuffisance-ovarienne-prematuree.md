@@ -140,7 +140,8 @@ Rechercher des signes de maladies auto-immunes.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%info%}}En première intention, dosage de la bêta-HCG seule avec un bilan complémentaire si négative{{%/info%}}
+En première intention, dosage de la bêta-HCG seule avec un bilan complémentaire si négative
+{.alert .alert-info}
 
 ### Bilan d'une ménopause précoce
 
@@ -176,7 +177,8 @@ Voir les [indications au traitement selon T-score et FRAX]({{< relref "osteoporo
 {{% /collapse %}}
 {{%collapse "Traitement de la ménopause précoce" %}}
 
-{{%info%}}Le traitement hormonal substitutif (THS) utilisé pour la ménopause précoce (spontanée, non iatrogène) n'augmente pas le risque de [cancer du sein]({{< relref "cancer-sein.md" >}}) (56-79% des patientes le croient, *HAS 2021*){{%/info%}}
+> Le traitement hormonal substitutif (THS) utilisé pour la ménopause précoce (spontanée, non iatrogène) n'augmente pas le risque de [cancer du sein]({{< relref "cancer-sein.md" >}}) (56-79% des patientes le croient, *HAS 2021*)
+{.alert .alert-info}
 
 Prise en charge de l'insuffisance ovarienne prématurée (IOP ou ménopause précoce) dans un [Centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/):
 

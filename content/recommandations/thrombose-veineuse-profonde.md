@@ -93,7 +93,8 @@ Recours d'emblée à l'écho-doppler veineux si les D-dimères ne sont pas réal
 
 #### Interpréter les résultats de D-dimères
 
-{{%info%}}Après 50 ans, la borne des D-dimères est à 10x l'âge {{%class%}}(ex. 700 à 70 ans, < 500 ng/mL avant 50 ans){{%/class%}}{{%/info%}}
+Après 50 ans, la borne des D-dimères est à 10x l'âge {{%class%}}(ex. 700 à 70 ans, < 500 ng/mL avant 50 ans){{%/class%}}
+{.alert .alert-info}
 
 - D-dimères normaux
   - Ne pas réaliser d'écho-doppler
@@ -226,10 +227,9 @@ Le traitement doit durer 3 à 6 mois voire une durée non limitée et prend en c
 En 1<sup>re</sup> intention en TVP proximale pour les 3 premiers mois de traitement.  
 Contre-indiqué pendant la grossesse.
 
-{{%info%}}
 Apixaban 5 mg 2 cp matin et soir pendant 7 jours  
 puis 5 mg x 2/j au moins 3 mois
-{{%/info%}}
+{.alert .alert-info}
 
 2 AOD ont l'AMM pour la TVP:
 

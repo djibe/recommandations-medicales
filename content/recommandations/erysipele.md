@@ -153,7 +153,8 @@ Mesures de prévention des érysipèles:
 
 La prise en charge ambulatoire d'un érésipèle n'est possible que si le **tableau est typique sans signe de gravité** chez patient sans antécédents:
 
-{{%info%}}Amoxicilline 50 mg/kg/j en 3 prises pendant 7 jours (max 6 g/j){{%/info%}}
+Amoxicilline 50 mg/kg/j en 3 prises pendant 7 jours (max 6 g/j)
+{.alert .alert-info}
 
 Selon Prescrire®: pénicilline V (Oracilline®) 1-1,5 MUI x 4/j jusqu'à amélioration des signes locaux.
 

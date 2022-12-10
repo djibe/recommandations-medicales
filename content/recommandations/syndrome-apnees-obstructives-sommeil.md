@@ -210,7 +210,8 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Toute suspicion d'apnées du sommeil doit être confirmée par un enregistrement du sommeil (polygraphie voire polysomnographie){{%/info%}}
+Toute suspicion d'apnées du sommeil doit être confirmée par un enregistrement du sommeil (polygraphie voire polysomnographie)
+{.alert .alert-info}
 
 ### Interrogatoire
 
@@ -297,7 +298,8 @@ Apnées
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%info%}}Bilan des facteurs de risque cardiovasculaires{{%/info%}}
+Bilan des facteurs de risque cardiovasculaires
+{.alert .alert-info}
 
 ### Polygraphie ventilatoire et polysomnographie
 

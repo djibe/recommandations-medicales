@@ -120,7 +120,8 @@ Si glycémie à jeun > 1,26 g/L en début de grossesse (à 2 reprises), il s'agi
 {{% /collapse %}}
 {{%collapse "Traitement du diabète gestationnel" %}}
 
-{{%info%}}Objectifs glycémiques du diabète gestationnel ou d'une grossesse chez la diabétique: HbA1c cible 6,5%, glycémie à jeun < 0,95 g/L et post-prandiale H2 < 1,20 g/L{{%/info%}}
+Objectifs glycémiques du diabète gestationnel ou d'une grossesse chez la diabétique: HbA1c cible 6,5%, glycémie à jeun < 0,95 g/L et post-prandiale H2 < 1,20 g/L
+{.alert .alert-info}
 
 ### Mesures hygiéno-diététiques au cours du diabète gestationnel (RHD)
 
@@ -169,7 +170,8 @@ Insulines utilisées en sécurité pour le traitement du diabète gestationnel: 
 {{% /collapse %}}
 {{%collapse "Surveillance en post-partum et à long terme" %}}
 
-{{%info%}}Risque de récidive de diabète gestationnel de 30 à 84%, de syndrome métabolique x 2-5, de diabète type 2 x7 et de maladie cardiovasculaire x1,7{{%/info%}}
+Risque de récidive de diabète gestationnel de 30 à 84%, de syndrome métabolique x 2-5, de diabète type 2 x7 et de maladie cardiovasculaire x1,7
+{.alert .alert-info}
 
 - Surveillance de la normalisation des glycémies post-partum sans traitement
 - Si autres facteurs de risque cardiovasculaire:  
@@ -191,7 +193,8 @@ Insulines utilisées en sécurité pour le traitement du diabète gestationnel: 
 
 Recommandations sur la nutrition et les consignes diététiques pour la prise en charge du diabète gestationnel (*SFD 2022*).
 
-{{%info%}}Le développement d'un diabète gestationnel ne modifie pas les consignes valables pour toute grossesse (prise de poids, apports en glucides ...)(article à venir){{%/info%}}
+Le développement d'un diabète gestationnel ne modifie pas les consignes valables pour toute grossesse (prise de poids, apports en glucides ...)(article à venir)
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du diabète gestationnel" "show" %}}

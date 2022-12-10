@@ -103,7 +103,8 @@ Pathologies donnant des symptômes similaires (hypoacousie ou surdité, vertiges
 
 ### IRM cérébrale
 
-{{%info%}}IRM cérébrale de la fosse postérieure et de la charnière cervico-occipitale avec injection pour le bilan de vertiges et surdité unilatérale{{%/info%}}
+IRM cérébrale de la fosse postérieure et de la charnière cervico-occipitale avec injection pour le bilan de vertiges et surdité unilatérale
+{.alert .alert-info}
 
 L'IRM cérébrale pour le bilan différentiel est systématique.  
 {{%class%}}Coupes axiales et sagittales, sans et après injection de produit de contraste, avec acquisitions 3D, haute résolution pondérées T2.{{%/class%}}

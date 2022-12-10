@@ -47,7 +47,8 @@ Recommandations pour le traitement des infections urinaires communautaires de l'
 
 La bandelette urinaire détecte une leucocyturie (seuil 10<sup>4</sup> leucocytes/mm³) ou des nitrites signant une entérobactérie.
 
-{{%info%}}Devant des signes évocateurs d'infection urinaire (IU) chez l'immunocompétent, une bandelette urinaire normale permet d'éliminer une IU chez la femme (VPN +95%) ou en faveur d'infection urinaire masculine lorsqu'elle est positive (VPP +90%){{%/info%}}
+Devant des signes évocateurs d'infection urinaire (IU) chez l'immunocompétent, une bandelette urinaire normale permet d'éliminer une IU chez la femme (VPN +95%) ou en faveur d'infection urinaire masculine lorsqu'elle est positive (VPP +90%)
+{.alert .alert-info}
 
 **NB.** Une BU peut être réalisée en pharmacie en cas de suspicion de cystite simple. La patiente est orientée vers le médecin en cas de positivité.
 
@@ -96,7 +97,8 @@ Rechercher des signes de gravité devant toute infection urinaire avec des signe
 
 ### Facteurs de risque de complication d'une infection urinaire
 
-{{%info%}}<< Le diabète, type 1 ou 2, n'est pas un facteur de risque de complication >> (*HAS 2021*){{%/info%}}
+> << Le diabète, type 1 ou 2, n'est pas un facteur de risque de complication >> (*HAS 2021*)
+{.alert .alert-info}
 
 {{< clinique/iu-fdr-complication >}}
 

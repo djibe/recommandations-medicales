@@ -48,7 +48,8 @@ Coqueluche
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Évoquer la coqueluche à tout âge devant une toux persistante ≥ 7 jours, à recrudescence nocturne ou émétisante si vaccination +10 ans{{%/info%}}
+Évoquer la coqueluche à tout âge devant une toux persistante ≥ 7 jours, à recrudescence nocturne ou émétisante si vaccination +10 ans
+{.alert .alert-info}
 
 - Transmission aérienne directe, intra-familiale +++  
   Contamination maximale pendant la phase catarrhale.

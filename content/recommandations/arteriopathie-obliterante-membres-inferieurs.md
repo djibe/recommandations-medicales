@@ -149,7 +149,8 @@ Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}60 à 80% des patients sont asymptomatiques au diagnostic d'artériopathie des membres inférieurs{{%/info%}}
+60 à 80% des patients sont asymptomatiques au diagnostic d'artériopathie des membres inférieurs
+{.alert .alert-info}
 
 Signes et symptômes de l'artériopathie oblitérante des membres inférieurs:
 
@@ -259,7 +260,8 @@ L'ECG dépiste une coronaropathie ou un trouble du rythme associé.
 
 **Objectif de la prise en charge de l'artériopathie:** obtenir une amélioration du périmètre de marche et restaurer une qualité de vie.
 
-{{%info%}}Traitement de l'AOMI: Suivi cardiologique spécialisé, traitement systématique par statine et IEC, sevrage tabagique et mesures d'hygiène{{%/info%}}
+Prise en charge de l'artériopathie (AOMI): Suivi cardiologique spécialisé, traitement systématique par statine et IEC, sevrage tabagique et mesures d'hygiène
+{.alert .alert-info}
 
 - Réadaptation vasculaire en centre voire par kinésithérapeute
 - {{< modal-btn modal-statine-intensite >}}Statine systématique{{< /modal-btn >}}

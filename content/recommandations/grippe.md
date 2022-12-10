@@ -101,7 +101,8 @@ Sujets à risque de forme grave de grippe saisonnière:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}L'apparition brutale d'une toux fébrile de novembre à février (durant la phase épidémique ou après exposition) est une grippe jusqu'à preuve du contraire{{%/info%}}
+L'apparition brutale d'une toux fébrile de novembre à février (durant la phase épidémique ou après exposition) est une grippe jusqu'à preuve du contraire
+{.alert .alert-info}
 
 Signes et symptômes de la grippe:
 

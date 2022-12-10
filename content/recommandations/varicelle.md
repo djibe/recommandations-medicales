@@ -81,7 +81,8 @@ VZV
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Toujours rechercher: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans{{%/info%}}
+Toujours rechercher: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans
+{.alert .alert-info}
 
 - Antécédent de varicelle
 - Statut immunitaire de la famille
@@ -192,7 +193,8 @@ Recommandations pour la prise en charge de la varicelle:
 
 **NB.** Aucun autre produit (talc, pommade, gel) ne doit être appliqué
 
-{{%info%}}Reporter les vaccinations du nourrisson d'au moins 15 jours (question à *Infovac*){{%/info%}}
+Reporter les vaccinations du nourrisson d'au moins 15 jours (question à *Infovac*)
+{.alert .alert-info}
 
 ### Traitement d'une surinfection cutanée: impétigo
 

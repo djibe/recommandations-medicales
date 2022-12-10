@@ -110,7 +110,7 @@ Les hexavalents sont recommandés en 3 doses à 2 mois, 4 mois et 11 mois:
 
 ##### Nouveau-né de mère porteuse de l'AgHBs
 
-3 doses à J0-M1-M6 avec Ig anti-HBs à la naissance.
+3 doses à J0-M1-M6 avec immunoglobulines anti-HBs à la naissance.
 
 Si prématuré < 32 semaines ou poids < 2 kg: schéma 4 doses à J0-M1-M2-M6 avec les mêmes vaccins. Contrôle AgHBs et anti-HBs à 9 mois.
 

@@ -62,7 +62,8 @@ EADV
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Évoquer une gale devant tout prurit ou impétiginisation{{%/info%}}
+Évoquer une gale devant tout prurit ou impétiginisation
+{.alert .alert-info}
 
 **Forme typique de la gale**: [prurit](/tags/prurit/) diffus à recrudescence nocturne épargnant le visage, à caractère conjugal ou familial.
 

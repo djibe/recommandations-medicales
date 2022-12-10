@@ -63,7 +63,8 @@ Test au progestatif
 : Le test est dit *positif* si une hémorragie de privation survient à l'arrêt (elle signe une imprégnation estrogénique). En périménopause, un test positif exclut le diagnostic de ménopause.  
 En revanche, un test *négatif* (absence de saignements) n'affirme pas une ménopause.
 
-{{%info%}}La valeur prédictive du test au progestatif pour le diagnostic de ménopause n'a été évalué par aucune étude{{%/info%}}
+La valeur prédictive du test au progestatif pour le diagnostic de ménopause n'a été évalué par aucune étude
+{.alert .alert-info}
 
 {{< table title="Terminologie de la ménopause. Dr JB Fron d'après CNGOF 2021" >}}
 | Situation de survenue   | Terme                          |
@@ -301,7 +302,8 @@ Objectifs: amélioration de la santé, des signes climatériques, du risque card
 - Antécédent de cancer du sein  
   Contre-indication aux phytoœstrogènes.
 
-{{%info%}}Prise de poids à la ménopause: << Seuls les excès répétés et/ou un déséquilibre chronique quantitatif et qualitatif de l'alimentation peuvent être en cause >> (*CNGOF 2021*){{% /collapse %}}
+> Prise de poids à la ménopause: << Seuls les excès répétés et/ou un déséquilibre chronique quantitatif et qualitatif de l'alimentation peuvent être en cause >> (*CNGOF 2021*)
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Contre-indications au THM" %}}
@@ -591,7 +593,8 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 
 > *CNGOF 2021*
 
-{{%info%}}<< La mortalité par cancer du sein n'est pas augmentée chez les femmes recevant un THM que cela soit dans les essais randomisés ou les études d'observation et quel que soit le type de THM >> (*CNGOF 2021*){{%/info%}}
+> << La mortalité par cancer du sein n'est pas augmentée chez les femmes recevant un THM que cela soit dans les essais randomisés ou les études d'observation et quel que soit le type de THM >> (*CNGOF 2021*)
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Information de la patiente" %}}

@@ -170,10 +170,9 @@ Autres examens:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires d'un VPPB" %}}
 
-{{%info%}}
 **Adresser à l'ORL** au premier épisode de vertiges pour examens auditifs systématiques.  
 (Audiométrie tonale et vocale, impédancemétrie)
-{{%/info%}}
+{.alert .alert-info}
 
 Les autres examens dépendent de l'avis de l'ORL ou de VPPB atypiques (IRM ++).
 

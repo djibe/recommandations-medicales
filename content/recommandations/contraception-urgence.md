@@ -63,7 +63,8 @@ UPA
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-{{%info%}}Intérêt d'une contraception efficace pendant toute la période de vie sexuelle active{{%/info%}}
+Intérêt d'une contraception efficace pendant toute la période de vie sexuelle active
+{.alert .alert-info}
 
 La contraception d'urgence peut être prescrite en prévision "au cas où".
 

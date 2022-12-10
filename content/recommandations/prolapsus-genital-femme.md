@@ -72,7 +72,8 @@ SGUM
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Le diagnostic d'un prolapsus génital est clinique{{%/info%}}
+Le diagnostic de prolapsus génital est clinique
+{.alert .alert-info}
 
 ### Interrogatoire
 
@@ -131,7 +132,8 @@ Indication: prolapsus extériorisé en permanence pr risque d'insuffisance réna
 {{% /collapse %}}
 {{%collapse "Mesures générales" %}}
 
-{{%info%}}Prise en charge uniquement des prolapsus génitaux symptomatiques ou compliqués{{%/info%}}
+Prise en charge restreinte aux prolapsus génitaux symptomatiques ou compliqués
+{.alert .alert-info}
 
 ### Mesures générales de prise en charge du prolapsus génital
 
@@ -166,9 +168,11 @@ Traitement de première intention d'un prolapsus génital de la femme (stade < 3
 Efficacité immédiate et équivalente au traitement chirurgical du prolapsus.  
 Non pris en charge par l'Assurance Maladie.
 
-{{%info%}}Adresser à tout spécialiste en gynécologie (généraliste, gynécologue, sage-femme) pour l'évaluation du modèle adéquat et le suivi du pessaire gynécologique{{%/info%}}
+Adresser à tout spécialiste en gynécologie (généraliste, gynécologue, sage-femme) pour l'évaluation du modèle adéquat et le suivi du pessaire gynécologique
+{.alert .alert-info}
 
-{{%info%}}<< Il est recommandé de proposer la pose d'un pessaire en première intention à toutes les patientes présentant un prolapsus génital symptomatique, quels que soient leur âge et le stade du prolapsus >> (*HAS 2021*){{%/info%}}
+> << Il est recommandé de proposer la pose d'un pessaire en première intention à toutes les patientes présentant un prolapsus génital symptomatique, quels que soient leur âge et le stade du prolapsus >> (*HAS 2021*)
+{.alert .alert-info}
 
 Éléments à connaître sur les pessaires:
 
@@ -203,7 +207,8 @@ Indications à la chirurgie du prolapsus génital: handicap persistant avec le t
 La grossesse et l'accouchement voie basse sont envisageables après chirurgie du prolapsus.  
 Reprise progressive des activités à partir de la troisième semaine postopératoire, en l'absence de gêne, d'inconfort ou de douleurs.
 
-{{%info%}}L'hystérectomie n'améliore pas les symptômes (sauf extériorisation en permanence ou allongement du col){{%/info%}}
+L'hystérectomie n'améliore pas les symptômes (sauf extériorisation en permanence ou allongement du col)
+{.alert .alert-info}
 
 #### Pour en savoir plus: techniques chirurgicales du prolapsus et voies d'abord
 
@@ -250,7 +255,8 @@ Le pessaire Donut sera plutôt utilisé en seconde intention car il peut être d
 
 **Préférer les pessaires en silicone à ceux en latex.**
 
-{{%info%}}En règle générale, le pessaire peut être utilisé plusieurs années (2-3 ans). Il doit être changé en cas de modification d'aspect (fissuration, cassure){{%/info%}}
+En règle générale, le pessaire peut être utilisé plusieurs années (2-3 ans). Il doit être changé en cas de modification d'aspect (fissuration, cassure)
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%sources%}}

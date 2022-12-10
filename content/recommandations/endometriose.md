@@ -102,7 +102,8 @@ TV
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Pas de bilan complémentaire en cas de dysménorrhée isolée contrôlée par une contraception (sauf souhait de grossesse immédiat){{%/info%}}
+Pas de bilan complémentaire en cas de dysménorrhée isolée contrôlée par une contraception (sauf souhait de grossesse immédiat)
+{.alert .alert-info}
 
 Prise en charge de l'endométriose lors d'une consultation dédiée.
 
@@ -158,7 +159,8 @@ Autres diagnostics à étayer devant des douleurs pelviennes de la femme:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%info%}}Une imagerie normale n'élimine pas le diagnostic (20% de faux négatifs){{%/info%}}
+Une imagerie normale n'élimine pas le diagnostic d'endométriose (20% de faux négatifs)
+{.alert .alert-info}
 
 Pas de bilan biologique.
 
@@ -189,7 +191,8 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
 {{% /collapse %}}
 {{%collapse "Traitement de l'endométriose" %}}
 
-{{%info%}}Tout traitement autre que la contraception et l'antalgie relève du spécialiste{{%/info%}}
+Tout traitement autre que la contraception et l'antalgie relève du spécialiste
+{.alert .alert-info}
 
 ### Mesures générales
 

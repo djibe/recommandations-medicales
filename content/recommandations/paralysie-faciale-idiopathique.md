@@ -238,7 +238,8 @@ La surveillance clinique de la récupération doit être prolongée.
 
 ### Corticothérapie systémique
 
-{{%info%}}Prednisone orale 1 mg/kg/j (max 120 mg/j) pendant 7 à 10 jours{{%/info%}}
+Prednisone orale 1 mg/kg/j (max 120 mg/j) pendant 7 à 10 jours
+{.alert .alert-info}
 
 En cas de **paralysie sévère** ({{< modal-btn score-house >}}grades V et VI du House-Brackmann{{< /modal-btn >}}): prednisone 2 mg/kg/j pendant 10 jours.
 
@@ -246,9 +247,10 @@ Alternative: méthylprednisolone intra-veineuse.
 
 ### Antiviral
 
-Le traitement de la paralysie est associé aux corticoïdes et doit être débuté dans les 72 premières heures.
+L'antiviral de la paralysie faciale est combiné aux corticoïdes et doit être débuté dans les 72 premières heures.
 
-{{%info%}}Valaciclovir 1 g x 3/j pendant 7 jours{{%/info%}}
+Valaciclovir 1 g x 3/j pendant 7 jours
+{.alert .alert-info}
 
 #### Paralysie faciale périphérique zostérienne
 

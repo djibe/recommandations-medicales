@@ -106,15 +106,15 @@ Accident ischémique transitoire
 5 signes d'alerte de l'*American Stroke Association*:
 
 1. Déficit moteur (> 50%)  
-Faiblesse ou engourdissement soudain, uni ou bilatéral de la face, du bras ou de la jambe.
+  Faiblesse ou engourdissement soudain, uni ou bilatéral de la face, du bras ou de la jambe.
 2. Trouble visuel (28%)  
-Diminution ou perte de vision uni ou bilatérale.
+  Diminution ou perte de vision uni ou bilatérale.
 3. Dysarthrie/aphasie (> 42%)  
-Difficulté de langage ou de la compréhension.
+  Difficulté de langage ou de la compréhension.
 4. Céphalées  
-Mal de tête sévère, soudain ou inhabituel sans cause apparente (saignement intra-crânien).
+  Mal de tête sévère, soudain ou inhabituel sans cause apparente (saignement intra-crânien).
 5. Troubles de l'équilibre (17%)  
-Instabilité à la marche ou chutes inexpliquées.
+  Instabilité à la marche ou chutes inexpliquées.
 
 Et déficit sensitif brutal (35%)
 {{%/info%}}
@@ -220,6 +220,8 @@ S'applique aussi après un AIT.
 {{% /collapse %}}
 {{%collapse "Traitements spécifiques" %}}
 
+Prise en charge de l'AVC selon certaines comorbidités.
+
 ### Fibrillation atriale
 
 Anticoagulation au long cours par warfarine ou AOD selon le score CHA2DS2VASc.
@@ -243,11 +245,9 @@ Selon les résultats du bilan spécialisé cardiologique et neurologique.
 
 ### Rééducation motrice de l'AVC
 
-{{%info%}}
-Il est recommandé de débuter la rééducation motrice dès que possible avec poursuite au long cours (*HAS 2012*)
+> Il est recommandé de débuter la rééducation motrice dès que possible avec poursuite au long cours (*HAS 2012*)
 
-Il est nécessaire de proposer un programme de rééducation (...) aux personnes présentant des séquelles d'une paralysie initiale au-delà de six mois après un AVC (*HAS 2022*)
-{{%/info%}}
+> Il est nécessaire de proposer un programme de rééducation (...) aux personnes présentant des séquelles d'une paralysie initiale au-delà de six mois après un AVC (*HAS 2022*)
 
 Les **auto-exercices** sont recommandés.  
 Le dossier de soin est partagé entre intervenants.

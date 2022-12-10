@@ -111,7 +111,8 @@ Diagnostic différentiel de douleurs neuropathiques selon la localisation de la 
 {{%/collapse%}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Avis neurologique devant toute douleur neuropathique dont l'étiologie ou le tableau n'est pas raisonnablement explicable{{%/info%}}
+Avis neurologique devant toute douleur neuropathique dont l'étiologie ou le tableau n'est pas raisonnablement explicable
+{.alert .alert-info}
 
 ### Interrogatoire et examen
 

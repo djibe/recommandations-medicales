@@ -121,7 +121,8 @@ Consultation de contrôle à 3 mois après la correction de l'épisode.
 {{% /collapse %}}
 {{%collapse "Rein et produits de contraste" %}}
 
-{{%info%}}<< il n'est pas recommandé de doser la créatininémie pour estimer le DFG avant une IRM injectée >> car << une insuffisance rénale aiguë avec les produits gadolinés en IRM, n'existe pas aux doses utilisées >> (*SFNDT 2020*){{%/info%}}
+> << il n'est pas recommandé de doser la créatininémie pour estimer le DFG avant une IRM injectée >> car << une insuffisance rénale aiguë avec les produits gadolinés en IRM, n'existe pas aux doses utilisées >> (*SFNDT 2020*)
+{.alert .alert-info}
 
 Insuffisance rénale aiguë post-contraste (IRA-PC)
 : Même définition que l'insuffisance rénale aiguë, survenant dans les 48 à 72 heures suivant l'injection intravasculaire d'un produit de contraste iodé.

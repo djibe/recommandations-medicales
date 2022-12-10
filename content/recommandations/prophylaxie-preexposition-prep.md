@@ -103,7 +103,8 @@ Tout sujet de plus de 15 ans:
 
 > *HAS 2021*
 
-{{%info%}}La PrEP n'est pas indiquée pour le conjoint d'un couple stable exclusif avec charge virale VIH indétectable depuis plus de 6 mois{{%/info%}}
+La PrEP n'est pas indiquée pour le conjoint d'un couple stable exclusif avec charge virale VIH indétectable depuis plus de 6 mois
+{.alert .alert-info}
 
 Possible si: [infection hépatite B]({{< relref "hepatite-b.md" >}}) (avis gastro), grossesse ou allaitement avec suivi coordonné, [contraception hormonale]({{< relref "contraception.md" >}}).
 

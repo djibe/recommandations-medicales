@@ -69,7 +69,8 @@ BAD
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Adresser toute suspicion de vitiligo au dermatologue pour le diagnostic clinique de certitude à la lampe de Wood et la prise en charge{{%/info%}}
+Adresser toute suspicion de vitiligo au dermatologue pour le diagnostic clinique de certitude à la lampe de Wood et la prise en charge
+{.alert .alert-info}
 
 Le diagnostic de vitiligo est clinique avec à la lampe de Wood une dépigmentation totale des zones achromiques:
 
@@ -96,10 +97,9 @@ Dépistage d'une hypothyroïdie ou d'une prédisposition: [TSH](/tags/tsh/) et a
 {{% /collapse %}}
 {{%collapse "Traitement du vitiligo" %}}
 
-{{%info%}}
 La prise en charge du vitiligo relève du dermatologue.  
 Adresser en semi-urgence en cas d'évolution rapide.
-{{%/info%}}
+{.alert .alert-info}
 
 - Limiter les frottements
 - Crème solaire IP50 sur les zones atteintes

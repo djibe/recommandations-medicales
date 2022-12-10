@@ -286,7 +286,8 @@ Indications: arthrite périphérique destructrice, ankylose rachidienne avec dé
 {{% /collapse %}}
 {{%collapse "Traitements de fond" %}}
 
-{{%info%}}Envisager une décroissance du biomédicament après 6 mois de rémission de faible activité de la spondyloarthrite{{%/info%}}
+Envisager une décroissance du biomédicament après 6 mois de rémission de faible activité de la spondyloarthrite
+{.alert .alert-info}
 
 La prise en charge de la spondylarthrite par un traitement de fond relève du rhumatologue lors d'une réponse partielle aux AINS ou lorsque la maladie est évolutive.
 

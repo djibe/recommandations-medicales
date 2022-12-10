@@ -221,7 +221,8 @@ Le dépistage doit être large et pour les personnes à risque, systématique et
 - Accident d'exposition au sang
 - Exposition sexuelle à risque
 
-{{%info%}}Proposer de coupler au dépistage les sérologies VHB et VHC{{%/info%}}
+Proposer de coupler au dépistage les sérologies VHB et VHC
+{.alert .alert-info}
 
 ### Comment dépister le VIH ?
 
@@ -237,10 +238,9 @@ Plusieurs méthodes de dépistage sont accessibles afin de s'adapter aux populat
 - TROD/autotest
 - En urgence: RT-PCR VIH
 
-{{%info%}}
 Un test positif nécessite un 2<sup>e</sup> prélèvement par sérologie pour confirmation.  
 Annonce faite par le médecin qui a prescrit le test au cours d'une consultation dédiée.
-{{%/info%}}
+{.alert .alert-info}
 
 À différents endroits:
 
@@ -346,8 +346,9 @@ Aucune guérison n'est attendue.
 
 [Fiche HAS des points clés du suivi (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2018-11/infographie_vih_consultation_de_suivi_medecine_generale_pour_impression_a4.pdf)
 
-{{%info%}}Cette section ne concerne que les patients avec une charge virale indétectable.  
-Le suivi est spécialisé dans le cas contraire{{%/info%}}
+Cette section ne concerne que les patients avec une charge virale indétectable.  
+Le suivi est spécialisé dans le cas contraire
+{.alert .alert-info}
 
 Recommandations pour la prise en charge du patient traité par antirétroviral:
 

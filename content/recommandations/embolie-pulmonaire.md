@@ -108,9 +108,8 @@ Sauf critères de gravité ou profil cité ci-dessus, utiliser l'un de ces score
 {{% /collapse %}}
 {{%collapse "Éliminer une embolie pulmonaire - Règle PERC" %}}
 
-{{%info%}}
-La **règle PERC** permet d'éliminer une suspicion faible d'embolie pulmonaire aiguë **avant 50 ans, en-dehors de la grossesse et du post-partum** (l'hémodynamique doit être stable).
-{{%/info%}}
+La **règle PERC** permet d'éliminer une suspicion faible d'embolie pulmonaire aiguë **avant 50 ans, en-dehors de la grossesse et du post-partum** (l'hémodynamique doit être stable)
+{.alert .alert-info}
 
 La réponse aux 8 questions suivantes doit être négative pour infirmer une *suspicion faible* d'embolie pulmonaire:
 
@@ -234,9 +233,11 @@ Si posé temporairement, le retrait doit être programmé dès la reprise de l'a
 
 TODO: A reprendre
 
-{{%info%}}Pour toute survenue de MVTE, il faut rechercher la présence de {{< modal-btn modal-mvte-fdr >}}facteurs de risque clinique de MVTE{{< /modal-btn >}}{{%/info%}}
+Pour toute survenue de MVTE, il faut rechercher la présence de {{< modal-btn modal-mvte-fdr >}}facteurs de risque clinique de MVTE{{< /modal-btn >}}
+{.alert .alert-info}
 
-{{%info%}}La MVTE est **non provoquée** en l'absence de {{< modal-btn modal-mvte-fdr >}}facteur de risque clinique majeur{{< /modal-btn >}}.{{%/info%}}
+La MVTE est **non provoquée** en l'absence de {{< modal-btn modal-mvte-fdr >}}facteur de risque clinique majeur{{< /modal-btn >}}
+{.alert .alert-info}
 
 ### Bilan étiologique
 

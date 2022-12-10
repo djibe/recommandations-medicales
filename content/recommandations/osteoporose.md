@@ -108,7 +108,8 @@ THM
 
 ### Épidémiologie de l'ostéoporose en France
 
-{{%info%}}Après 50 ans, 1 femme sur 2 et 1 homme sur 5 auront une fracture ostéoporotique (*COFER*){{%/info%}}
+> Après 50 ans, 1 femme sur 2 et 1 homme sur 5 auront une fracture ostéoporotique (*COFER*)
+{.alert .alert-info}
 
 L'ostéoporose est responsable d'un lourd fardeau médico-économique:
 

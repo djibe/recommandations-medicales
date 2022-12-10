@@ -149,10 +149,9 @@ IPS
 {{% /collapse %}}
 {{%collapse "Prévention des atteintes podologiques" %}}
 
-{{%info%}}
 La consultation d'un pédicure-podologue n'est pas prise en charge par l'Assurance Maladie sauf chez les diabétiques grade podologique ≥ 2 sur prescription (à 100%) ou dans certains réseaux de soins.  
 Tarifs observés pour: Bilan podologique 30-80 € | Soins de pédicurie 32-60 €.
-{{%/info%}}
+{.alert .alert-info}
 
 Toutes les personnes de +60 ans peuvent être adressées au pédicures-podologues pour bénéficier d'un bilan podologique (avec/sans prescription et sans remboursement).  
 Particulièrement diabète, polyarthrite rhumatoïde, anti-cancéreux EGFR.
@@ -181,7 +180,8 @@ Ne pas utiliser: bains de pieds, antiseptiques répétés, coricides, matériel 
 
 ### Les orthèses plantaires ou semelles orthopédiques
 
-{{%info%}}Ordonnance: une paire de semelles orthopédiques{{%/info%}}
+Ordonnance: une paire de semelles orthopédiques
+{.alert .alert-info}
 
 Anciennement **semelles orthopédiques**, les orthèses plantaires sont remboursables tous les ans (15,52 à 17,31€ par paire selon la pointure pris en charge par l'Assurance Maladie) pour un montant variant de 75 à 400€ par paire uniquement sur **prescription médicale**.  
 Les corrections ou remplacement pour usure prématurée des semelles orthopédiques dans les 6 premiers mois sont gratuits.

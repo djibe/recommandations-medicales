@@ -179,7 +179,8 @@ L'interrogatoire explore également:
 Envisager la recherche de schizophrénie chez tout homme atteinte de TCA
 {.alert .alert-warning}
 
-{{%info%}}Freins aux soins les plus souvent observés: la honte, la peur, la méconnaissance, le déni, la recherche de solutions immédiates, l'accès aux soins, la chronicisation ...{{%/info%}}
+Freins aux soins les plus souvent observés: la honte, la peur, la méconnaissance, le déni, la recherche de solutions immédiates, l'accès aux soins, la chronicisation ...
+{.alert .alert-info}
 
 ### Examen clinique
 
@@ -304,7 +305,8 @@ Informer et traiter les risques liés à chaque atteinte:
 Anorexie-Boulimie Info {{<phone>}}0 810 037 037{{</phone>}} et [Association Autrement](https://www.anorexie-et-boulimie.fr/).  
 Autres ressources: Fédération FNA-TCA {{<phone>}}06 87 41 86 66{{</phone>}}, [guides FFAB](https://www.ffab.fr/trouver-de-l-aide/livres) et [annuaire des centres FFAB](https://www.ffab.fr/trouver-de-l-aide/annuaire-2021).
 
-{{%info%}}<< Il n'est jamais trop tard pour consulter : la guérison est toujours possible même après plusieurs années d'évolution des troubles >> (*HAS 2019*){{%/info%}}
+> << Il n'est jamais trop tard pour consulter : la guérison est toujours possible même après plusieurs années d'évolution des troubles >> (*HAS 2019*)
+{.alert .alert-info}
 
 - Alimentation saine et comportement alimentaire pour la santé
 - Brossage des dents au moins 2 minutes après les repas

@@ -90,7 +90,8 @@ TSA
 Arthrite atteignant > 1 articulation: avis rhumatologique sous 6 semaines (à compter de l'apparition des symptômes)
 {.alert .alert-warning}
 
-{{%info%}}Évoquer une polyarthrite rhumatoïde devant toute arthrite clinique, raideur matinale > 30 minutes, douleurs à la pression transverse des mains (MCP) ou avant-pieds (MTP), évolution > 6 semaines, antécédent de PR chez un parent au 1<sup>er</sup> degré, difficultés à fermer le poing{{%/info%}}
+Évoquer une polyarthrite rhumatoïde devant toute arthrite clinique, raideur matinale > 30 minutes, douleurs à la pression transverse des mains (MCP) ou avant-pieds (MTP), évolution > 6 semaines, antécédent de PR chez un parent au 1<sup>er</sup> degré, difficultés à fermer le poing
+{.alert .alert-info}
 
 L'examen clinique a une place primordiale dans la détection et le traitement de l'arthrite.
 
@@ -155,7 +156,8 @@ Les autres examens relèvent du rhumatologue.
 {{% /collapse %}}
 {{%collapse "Traitement de la polyarthrite rhumatoïde" %}}
 
-{{%info%}}La décision du traitement dépend du rhumatologue, partagée avec le patient{{%/info%}}
+La décision du traitement dépend du rhumatologue, partagée avec le patient
+{.alert .alert-info}
 
 Mesures générales de prise en charge de la polyarthrite:
 
@@ -192,10 +194,9 @@ Mesures générales de prise en charge de la polyarthrite:
 {{% /collapse %}}
 {{%collapse "Traitements spécifiques de la polyarthrite rhumatoïde" %}}
 
-{{%info%}}
 Chapitre pour en savoir plus sur la prise en charge de la polyarthrite par les traitements de fond spécifiques.  
 Ceux-ci relèvent exclusivement du rhumatologue.
-{{%/info%}}
+{.alert .alert-info}
 
 **Objectif de la prise en charge:** rémission clinique (absence de signes ou symptômes inflammatoires significatifs) ou plus faible activité possible.  
 **Rémission:** absence de signes et symptômes d'activité inflammatoire significative.

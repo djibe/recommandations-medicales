@@ -84,7 +84,8 @@ Soins dentaires minimum recommandés:
   - Alimentation équilibrée et diversifiée
   - Consommation d'eau pure
 
-{{%info%}}**Brossage électrique:** sur des critères de jugement intermédiaires, il semble que le brossage soit plus efficace{{%/info%}}
+**Brossage électrique:** sur des critères de jugement intermédiaires, il semble que le brossage soit plus efficace
+{.alert .alert-info}
 
 Gommes à mâcher contenant du xylitol après un repas quand le brossage n'est pas réalisé.
 

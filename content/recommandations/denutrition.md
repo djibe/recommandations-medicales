@@ -170,7 +170,8 @@ Après 60 ans, lorsque la taille n'est pas mesurable par une toise (alitement, t
 {{% /collapse %}}
 {{%collapse "Dénutrition du sujet âgé" %}}
 
-{{%info%}}Chez le plus de 70 ans, le dépistage de la dénutrition doit être au moins annuel{{%/info%}}
+Chez le plus de 70 ans, le dépistage de la dénutrition doit être au moins annuel
+{.alert .alert-info}
 
 ### 1. Diagnostic de dénutrition chez le sujet âgé
 
@@ -189,7 +190,8 @@ Diagnostic de dénutrition en cas d'association d'un critère phénotypique et d
   - Situation d'agression (hypercatabolisme protéique)  
     Pathologie aiguë, chronique évolutive ou maligne évolutive.
 
-{{%info%}}Si le critère étiologique disparaît (reprise de l'alimentation, guérison d'une maladie), le diagnostic de dénutrition persiste tant que persiste le critère phénotypique{{%/info%}}
+Si le critère étiologique disparaît (reprise de l'alimentation, guérison d'une maladie), le diagnostic de dénutrition persiste tant que persiste le critère phénotypique
+{.alert .alert-info}
 
 ### 2. Dénutrition sévère ?
 

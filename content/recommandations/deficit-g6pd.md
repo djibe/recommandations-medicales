@@ -92,9 +92,9 @@ Examens **en urgence** en hémolyse aiguë chez un sujet atteint d'un déficit e
 {{% /collapse %}}
 {{%collapse "Médicaments et aliments à risque en cas de déficit en G6PD" %}}
 
-{{%info%}}
 Les enfants peuvent manger à la cantine à l'exclusion seule des fèves qui sont le seul élément à mentionner sur le *PAI*.  
-L'enfant doit aussi porter la carte spécifique sur lui{{%/info%}}
+L'enfant doit aussi porter la carte spécifique sur lui
+{.alert .alert-info}
 
 ### Aliments et produits à proscrire
 

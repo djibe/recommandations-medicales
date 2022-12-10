@@ -100,7 +100,8 @@ Le lactose est alors réintroduit (250 mL de lait ≥ 2 fois dans la semaine che
 {{% /collapse %}}
 {{%collapse "Traitement de l'intolérance au lactose" %}}
 
-{{%info%}}L'éviction des produits laitiers n'est plus encouragée{{%/info%}}
+L'éviction des produits laitiers n'est plus encouragée
+{.alert .alert-info}
 
 La prise en charge de l'intolérance au lactose repose sur le maintien d'apports en **produits laitiers**.  
 Laits sans lactose et maintien d'apports en produits laitiers pour les apports en calcium, protéines, minéraux, acides gras polyinsaturés (plupart tolèrent 12-18 g de lactose/j, soit 25 cL de lait).

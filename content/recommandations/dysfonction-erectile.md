@@ -68,7 +68,8 @@ S'y ajoute le retentissement psychologique du patient/couple (DSM IV).
 
 **NB.** L'association déficit androgénique - dysfonction érectile n'est pas clairement établie.
 
-{{%info%}}La DE est un marqueur de **risque cardiovasculaire** et d'altération de la qualité de vie *[Dong 2011](https://pubmed.ncbi.nlm.nih.gov/21920268/)*{{%/info%}}
+> La dysfonction érectile est un marqueur de **risque cardiovasculaire** et d'altération de la qualité de vie *[Dong 2011](https://pubmed.ncbi.nlm.nih.gov/21920268/)*
+{.alert .alert-info}
 
 ### Abréviations
 
@@ -85,7 +86,8 @@ MCV
 {{%/collapse%}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}La dysfonction érectile est un diagnostic d'interrogatoire: << Donc, vous avez un problème d'érection pendant les rapports ? >>{{%/info%}}
+La dysfonction érectile est un diagnostic d'interrogatoire: << Donc, vous avez un problème d'érection pendant les rapports ? >>
+{.alert .alert-info}
 
 ### Points essentiels pour guider l'examen en cas de dysfonction érectile
 
@@ -124,7 +126,8 @@ MCV
 
 Une DE réactionnelle, situationnelle associée à la persistance d'érections spontanées/provoquées de bonne qualité évoque une pathologie psychogène prédominante.  
 
-{{%info%}}La persistance d'une capacité érectile résiduelle est un facteur de bon pronostic et permet de rassurer le patient{{%/info%}}
+La persistance d'une capacité érectile résiduelle est un facteur de bon pronostic et permet de rassurer le patient
+{.alert .alert-info}
 
 #### 3) Histoire sexuelle
 
@@ -173,7 +176,8 @@ Dépistage de la dépression en 2 questions (+ si ≥ 1 vraie):
 - Partenaire  
   Attitude et motivation sexuelle, troubles sexuels, santé psychique et physique, ménopause, ATCD gynéco, contraception. La consultation de la partenaire est vivement recommandée.
 
-{{%info%}}Faire la part entre une personnalité anxieuse (psychotrope, psychothérapie, IPDE5) et une anxiété de performance sexuelle (expliquer, rassurer, IPDE5){{%/info%}}
+Faire la part entre une personnalité anxieuse (psychotrope, psychothérapie, IPDE5) et une anxiété de performance sexuelle (expliquer, rassurer, IPDE5)
+{.alert .alert-info}
 
 ### Examen clinique
 
@@ -280,7 +284,8 @@ Diagnostic de dépression au cours du bilan de DE avec le généraliste:
 
 #### Avis psychiatrique (ou sexologique)
 
-{{%info%}}Avis psychiatrique systématique: dysfonction érectile primaire, pathologie psychotique, paraphilie, personnalité pathologique{{%/info%}}
+Avis psychiatrique systématique: dysfonction érectile primaire, pathologie psychotique, paraphilie, personnalité pathologique
+{.alert .alert-info}
 
 - Psychothérapie: anxiété de fond, trouble du désir, éjaculation rapide
 - Anxiété de fond: psychotropes
@@ -334,10 +339,9 @@ Les effets indésirables graves sont rares: allongement QT, IDM, NOIAA (3/100.00
 
 Les IPDE5 sont le traitement de première intention de la dysfonction érectile.
 
-{{%info%}}
 [Tadalafil 10 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67515025&typedoc=R) (Cialis®, gén). Possibilité d'augmenter à **20 mg**. Max 1 prise par jour (délai 30 min, efficace 12 heures, [contrôler les interactions](https://www.drugs.com/interaction/list/?drug_list=2144-0)).  
 Pas de retard absorptif dus à l'alimentation ou l'alcool.
-{{%/info%}}
+{.alert .alert-info}
 
 Ou [Sildénafil 50 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69085330&typedoc=R) (Viagra®, gén) à la demande (max 1/j). Selon l'effet, utiliser de 25 à **100 mg** (délai 25 min, efficace 4-5 heures, [contrôler les interactions](https://www.drugs.com/interaction/list/?drug_list=2061-0)).
 

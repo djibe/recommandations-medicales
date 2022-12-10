@@ -223,8 +223,9 @@ Prise en charge de l'hépatite C par antiviraux à action directe possible par t
 
 ### Antiviraux à Action Directe (AAD) de l'hépatite C
 
-{{%info%}}Epclusa® 400/100 mg 1 cp par jour pendant 12 semaines  
-ou Maviret® 3 cp en 1 prise par jour, pendant le repas, pendant 8 semaines.{{%/info%}}
+Epclusa® 400/100 mg 1 cp par jour pendant 12 semaines  
+ou Maviret® 3 cp en 1 prise par jour, pendant le repas, pendant 8 semaines
+{.alert .alert-info}
 
 **Tout médecin peut prescrire les antiviraux de l'hépatite C**.  
 Mesure de la charge virale obligatoire avant de débuter le traitement.

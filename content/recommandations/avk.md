@@ -49,7 +49,8 @@ Comprimés sécables de 2 et [5 mg](https://base-donnees-publique.medicaments.go
 
 Méthodes pour réduire l'INR en cas de surdosage en AVK: diminuer la dose, sauter une prise, administration orale de 1 mg de vitamine K1.
 
-{{%info%}}Nouvel INR le lendemain du diagnostic de surdose avec reconduction identique des mesures ci-dessous tant que l'INR n'est pas dans la cible ET rechercher systématiquement la cause du déséquilibre{{%/info%}}
+Nouvel INR le lendemain du diagnostic de surdose avec reconduction identique des mesures ci-dessous tant que l'INR n'est pas dans la cible ET rechercher systématiquement la cause du déséquilibre
+{.alert .alert-info}
 
 ### INR cible entre 2 et 3
 

@@ -38,7 +38,8 @@ Rattrapage vaccinal
 Nourrisson prématuré
 : Naissance avant 37 SA.
 
-{{%info%}}<< Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >> (*[SFSEP 2019](https://doi.org/10.1016/j.neurol.2019.01.218)*){{%/info%}}
+> << Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >> (*[SFSEP 2019](https://doi.org/10.1016/j.neurol.2019.01.218)*)
+{.alert .alert-info}
 
 ### Abréviations
 
@@ -82,7 +83,8 @@ VVA
 {{% /collapse %}}
 {{%collapse "Rattrapage vaccinal" %}}
 
-{{%info%}}<< Un rattrapage vaccinal est indiqué en cas de statut inconnu >> (*Calendrier vaccinal*){{%/info%}}
+> << Un rattrapage vaccinal est indiqué en cas de statut inconnu >> (*Calendrier vaccinal*)
+{.alert .alert-info}
 
 {{< table title="Âges limites du rattrapage vaccinal systématique en population générale selon le Calendrier vaccinal" >}}
 | Germe        | Âge limite de rattrapage | Rattrapages spécifiques |
@@ -211,7 +213,8 @@ Vider l'air de la seringue (optionnel), désinfection locale et laisser sécher 
 
 Disposer du matériel nécessaire à un choc anaphylactique.
 
-{{%info%}}Depuis le 7 novembre 2022, les infirmiers et pharmaciens peuvent administrer sans ordonnance à partir de 16 ans: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage{{%/info%}}
+Depuis le 7 novembre 2022, les infirmiers et pharmaciens peuvent administrer sans ordonnance à partir de 16 ans: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage
+{.alert .alert-info}
 
 ### Sites d'injection
 

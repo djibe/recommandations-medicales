@@ -116,7 +116,8 @@ TUA
 
 ### Épidémiologie de la consommation d'alcool en France
 
-{{%info%}}Réduire la consommation d'alcool de 10% préviendrait la survenue de 2178 cancers annuels (*Shield KD 2018*){{%/info%}}
+> Réduire la consommation d'alcool de 10% préviendrait la survenue de 2178 cancers annuels (*Shield KD 2018*)
+{.alert .alert-info}
 
 - 1<sup>re</sup> substance addictive en coût social, cause de décès liée au foie et cause de transplantation hépatique
 - 1/3 des décès prématurés
@@ -162,7 +163,8 @@ Idem sans urgence pour jeune (avec avis psychiatrique + parents), cirrhose, trav
 
 Occasions pour dépister un mésusage: consultation de routine, prescription d'un médicament interagissant avec l'alcool, désir de grossesse, tabagisme, jeune adulte, troubles psychiatriques, précarité, pathologie cardiovasculaire, pathologie résistante au traitement (douleur, dépression, diabète...).
 
-{{%info%}}Les marqueurs biologiques n'ont pas d'utilité dans le repérage systématique du mésusage d'alcool (*AFEF 2021*){{%/info%}}
+> Les marqueurs biologiques n'ont pas d'utilité dans le repérage systématique du mésusage d'alcool (*AFEF 2021*)
+{.alert .alert-info}
 
 ### Pratiques à risque majorant les dommages
 
@@ -204,7 +206,8 @@ Demander au patient l'autorisation de parler de sa consommation d'alcool.
 {{% /collapse %}}
 {{%collapse "Intervention brève et approches motivationnelles" %}}
 
-{{%info%}}Une intervention brève doit être proposée aux patients identifiés comme présentant un mésusage d'alcool (*AFEF 2021*){{%/info%}}
+> Une intervention brève doit être proposée aux patients identifiés comme présentant un mésusage d'alcool (*AFEF 2021*)
+{.alert .alert-info}
 
 Encourager à tenir un **agenda de la consommation** et:
 
@@ -312,7 +315,8 @@ L'échographie hépatique n'a pas d'intérêt pour dépister une MFLA.
 
 > **Fibrose septale** = Metavir F ≥ 2, NASH CRN F ≥ 3 ; **Fibrose sévère** = Metavir F≥3 ; **Cirrhose** = Metavir F4, NASH CRN F4
 
-{{%info%}}Il est probablement recommandé d'arrêter complètement et définitivement tout usage d'alcool chez les patients atteints de cirrhose et/ou de CHC afin de limiter les risques de surmortalité (*AFEF 2021*){{%/info%}}
+> Il est probablement recommandé d'arrêter complètement et définitivement tout usage d'alcool chez les patients atteints de cirrhose et/ou de CHC afin de limiter les risques de surmortalité (*AFEF 2021*)
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Mesures générales et suivi" %}}
@@ -396,7 +400,8 @@ L'abstinence est la cible en complication somatique (cirrhose ++).
 
 #### Prévention du syndrome de sevrage alcoolique (SSA)
 
-{{%info%}}<< Dans la majorité des cas, le sevrage ne requiert pas de traitement pharmacologique >> *SFA 2015*{{%/info%}}
+<< Dans la majorité des cas, le sevrage ne requiert pas de traitement pharmacologique >> (*SFA 2015*)
+{.alert .alert-info}
 
 {{%info%}}
 Diazépam 5 mg 2-2-2-2 à J1  
@@ -432,7 +437,8 @@ Troubles digestifs
 
 #### Prévention des rechutes
 
-{{%info%}}Les benzodiazépines n'ont aucune indication dans l'aide au maintien de l'abstinence{{%/info%}}
+Les benzodiazépines n'ont aucune indication dans l'aide au maintien de l'abstinence
+{.alert .alert-info}
 
 Prise en charge du maintien de l'abstinence des personnes dépendantes par acamprosate (ex Aotal®) ou naltrexone (ex Revia®) en première intention pour diminuer l'envie de consommer. Avis spécialisé en cas d'insuffisance hépatocellulaire.  
 Les traitements doivent être arrêtés après 4-6 semaines si la consommation d'alcool persiste.
@@ -464,11 +470,10 @@ Toute réduction de consommation doit être valorisée par le médecin général
 
 Après essai de réduction spontanée de 15 jours, le nalméfène est le médicament de référence de la prise en charge.
 
-{{%info%}}
 [Nalméfène 18 mg](https://ec.europa.eu/health/documents/community-register/2021/20211220153913/anx_153913_fr.pdf) (Selincro®) 1 boîte  
 1 cp tous les jours où vous pensez être exposé au risque de boire. À prendre 2 heures avant le moment du risque ou dès le matin.  
 Réévaluation à 7 et 14 jours puis 1/mois au moins 6 mois.
-{{%/info%}}
+{.alert .alert-info}
 
 Autre traitement: baclofène (Baclocur®, max 80 mg/j, n'est plus remboursé), 30 mg/j en cas de cirrhose.
 

@@ -34,7 +34,8 @@ Chapitre lié: [HSH]({{< relref "hsh.md" >}})
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-{{%info%}}L'infection par le virus de la variole du singe n'est pas connue comme une [IST](/tags/ist/), mais le contact direct avec une peau lésée durant un rapport sexuel facilite la transmission (*SPF*){{%/info%}}
+L'infection par le virus de la variole du singe n'est pas connue comme une [IST](/tags/ist/), mais le contact direct avec une peau lésée durant un rapport sexuel facilite la transmission (*SPF*)
+{.alert .alert-info}
 
 Monkeypox ou variole du singe
 : Maladie infectieuse liée virus Monkeypox (MPXV, orthopoxvirus). Contamination directe par muqueuse ou peau lésée ou gouttelettes. Contamination également possible par literie, vêtements, vaisselle, linge de bain ...  

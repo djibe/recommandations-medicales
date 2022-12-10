@@ -173,7 +173,8 @@ Indications à l'anticorps monoclonal palivizumab pour la bronchiolite:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}L'examen est réalisé APRÈS une désobstruction rhinopharyngée (DRP){{%/info%}}
+L'examen est réalisé APRÈS une désobstruction rhinopharyngée (DRP)
+{.alert .alert-info}
 
 Signes et symptômes de la bronchiolite aiguë du nourrisson:
 
@@ -218,7 +219,8 @@ Toujours rechercher une hépatomégalie, seul signe permettant d'éliminer une i
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%info%}}Pas d'examen complémentaire en cas de forme typique de bronchiolite aiguë{{%/info%}}
+Pas d'examen complémentaire en cas de forme typique de bronchiolite aiguë
+{.alert .alert-info}
 
 ### Radiographie pulmonaire
 
@@ -310,7 +312,8 @@ La kiné comprend la DRP, l'expiration lente prolongée/augmentation du flux exp
 
 Sont contre-indiquées: drainage postural, vibration, clapping, désencombrement bronchique (en ambulatoire).
 
-{{%info%}}Selon la Revue Prescrire: pas de place pour la kinésithérapie respiratoire sauf mauvaise compréhension des parents pour assurer une surveillance{{%/info%}}
+Selon la Revue Prescrire: pas de place pour la kinésithérapie respiratoire sauf mauvaise compréhension des parents pour assurer une surveillance
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une dyspnée sifflante" "show" %}}

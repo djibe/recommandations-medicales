@@ -95,7 +95,8 @@ Le diagnostic de cancer broncho-pulmonaire est évoqué devant les symptômes su
   - Fièvre isolée
   - Pseudo-myasthénie, neuropathie périphérique
 
-{{%info%}}Le diagnostic de cancer du poumon est anatomopathologique{{%/info%}}
+Le diagnostic de cancer du poumon est anatomopathologique
+{.alert .alert-info}
 
 Pour la suite de la prise en charge, relever:
 
@@ -115,7 +116,8 @@ Pour la suite de la prise en charge, relever:
 - Bilan hépatique
 - TP, TCA
 
-{{%info%}}Le dosage des marqueurs tumoraux n'a aucune indication pour le dépistage du cancer du poumon{{%/info%}}
+Le dosage des marqueurs tumoraux n'a aucune indication pour le dépistage du cancer du poumon
+{.alert .alert-info}
 
 ### Imageries en semi-urgence devant une suspicion de cancer du poumon
 
@@ -134,7 +136,8 @@ Le scanner n'élimine pas formellement le diagnostic en cas de forte suspicion d
 
 Aucun dépistage du cancer du poumon n'est actuellement recommandé en France.
 
-{{%info%}}Aucun intérêt du dépistage par: radiographie thoracique, ECBC, fibroscopie ou TEP-TDM (*SPLF 2021*){{%/info%}}
+Aucun intérêt du dépistage par: radiographie thoracique, ECBC, fibroscopie ou TEP-TDM (*SPLF 2021*)
+{.alert .alert-info}
 
 ### Préconisations SPLF 2021 pour le dépistage du cancer du poumon
 

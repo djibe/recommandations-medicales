@@ -42,7 +42,8 @@ Cancer de la prostate héréditaire
 
 ### Facteurs de risque de cancer de la prostate
 
-{{%info%}}Aucun moyen préventif alimentaire ou pharmacologique n'a été identifié (*EAU 2022*){{%/info%}}
+> Aucun moyen préventif alimentaire ou pharmacologique du cancer de la prostate n'a été identifié (*EAU 2022*)
+{.alert .alert-info}
 
 - Principal facteur de risque: âge +50 ans
 - Forme héréditaire (voir plus haut)

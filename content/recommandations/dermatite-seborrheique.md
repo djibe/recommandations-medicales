@@ -109,10 +109,9 @@ Prise en charge par un **traitement d'attaque** pendant 2 à 4 semaines puis **t
 
 #### Face et thorax
 
-{{%info%}}
 Kétoconazole gel moussant ou crème 2% x 2/sem pendant 4 semaines  
 OU ciclopirox crème 1% x 2/j pendant 4 semaines
-{{%/info%}}
+{.alert .alert-info}
 
 Puis application 2-4/mois.
 
@@ -120,10 +119,9 @@ Puis application 2-4/mois.
 
 Shampooing antipelliculaire en alternance avec shampooing doux.
 
-{{%info%}}
-[Ciclopirox](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60655327&typedoc=R) (Sebiprox®, gén) shampooing 1,5% 2-3/sem
+[Ciclopirox](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60655327&typedoc=R) (Sebiprox®, gén) shampooing 1,5% 2-3/sem  
 OU [kétoconazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66227874&typedoc=R) (Ketoderm®, gén) gel moussant 2% 2/sem
-{{%/info%}}
+{.alert .alert-info}
 
 **Effets indésirables:** prurit, sensation de brûlure, xérose cutanée, interactions médicamenteuses.  
 Seul le kétoconazole topique peut être utilisé [pendant la grossesse](https://lecrat.fr/spip.php?page=article&id_article=494).

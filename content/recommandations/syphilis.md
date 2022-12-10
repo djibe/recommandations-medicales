@@ -114,7 +114,8 @@ Le chancre est souvent accompagné d'une adénopathie régionale (inguinale) qui
 
 Phase d'invasion du liquide cérébro-spinal sans atteinte parenchymateuse.
 
-{{%info%}}Évoquer un chancre devant toute ulcération génitale{{%/info%}}
+Évoquer un chancre devant toute ulcération génitale
+{.alert .alert-info}
 
 ### Syphilis secondaire
 
@@ -210,7 +211,8 @@ Recommandations pour la prise en charge de la syphilis.
 
 ### Syphilis précoce
 
-{{%info%}}Benzathine pénicilline G (BPG, Extencilline®) 2,4 MU en dose unique IM{{%/info%}}
+Benzathine pénicilline G (BPG, Extencilline®) 2,4 MU en dose unique IM
+{.alert .alert-info}
 
 - Paracétamol systématique  
   Informer sur la réaction d'Herxeimer.
@@ -222,8 +224,9 @@ Recommandations pour la prise en charge de la syphilis.
 - Dépistage des contacts  
   Notification des partenaires des **3 mois précédents**.
 
-{{%info%}}Affirmer la guérison est impossible, nécessité de surveiller les patients pendant plusieurs années.  
-Répéter le suivi sérologique dans les populations à risque (contaminées ou non){{%/info%}}
+Affirmer la guérison est impossible, nécessité de surveiller les patients pendant plusieurs années.  
+Répéter le suivi sérologique dans les populations à risque (contaminées ou non)
+{.alert .alert-info}
 
 #### Situations particulières
 
@@ -247,7 +250,8 @@ Répéter le suivi sérologique dans les populations à risque (contaminées ou 
 
 Traitement d'une syphilis de plus d'un an ou ancienneté non connue:
 
-{{%info%}}1 injection de Benzathine pénicilline G (BPG Extencilline®) 2,4 MU IM par semaine pendant 3 semaines{{%/info%}}.
+1 injection de Benzathine pénicilline G (BPG Extencilline®) 2,4 MU IM par semaine pendant 3 semaines
+{.alert .alert-info}
 
 - Femme enceinte: Pas d'alternative à la pénicilline G  
   Désensibilisation si nécessaire.
@@ -304,7 +308,8 @@ Contrôles du VDRL:
 
 **NB.** La décroissance du VDRL dans la syphilis latente précoce (ou en cas de recontamination) n'est pas franche pour 1/4 des patients.
 
-{{%info%}} La négativation du VDRL est considérée comme le meilleur critère de guérison{{%/info%}}
+La négativation du VDRL est considérée comme le meilleur critère de guérison
+{.alert .alert-info}
 
 Le TPHA ne se négative que rarement sauf chez le patient *VIH+*. Il n'est pas utilisé dans la surveillance.
 

@@ -45,7 +45,8 @@ Peuvent transmettre des infections.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Le diagnostic est clinique par visualisation de lentes vivantes à la racine des cheveux{{%/info%}}
+Le diagnostic est clinique par visualisation de lentes vivantes à la racine des cheveux
+{.alert .alert-info}
 
 - Symptômes
   - [Prurit](/tags/prurit/) (50-60%)

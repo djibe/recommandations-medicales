@@ -57,7 +57,8 @@ Soit intra-abdominal, soit atrophique.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%info%}}Échographie abdomino-scrotale{{%/info%}}
+Échographie abdomino-scrotale
+{.alert .alert-info}
 
 Les autres bilans de la découverte d'une cryptorchidie (endocrinien, cœlioscopie exploratrice) dépendent du chirurgien pédiatrique.
 

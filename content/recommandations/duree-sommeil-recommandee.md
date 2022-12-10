@@ -30,7 +30,8 @@ todo = "https://www.freepik.com/free-vector/flat-person-sleeping-night-bed-backg
 {{%/article-summary%}}
 {{%collapse "Durée recommandée de sommeil chez l'adulte" %}}
 
-{{%info%}}Temps de sommeil de 7 à 9 heures (AASM 2015){{%/info%}}
+> Temps de sommeil de 7 à 9 heures recommandé pour tous les adultes (*AASM 2015*)
+{.alert .alert-info}
 
 ### Conséquences d'un temps de sommeil insuffisant ou augmenté chez l'adulte
 

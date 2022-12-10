@@ -203,7 +203,8 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 
 
 **NB.** Le diagnostic de certitude de la maladie cœliaque doit être posé par un gastro-entérologue.
 
-{{%info%}}<< Chez les enfants qui se portent bien après l'arrêt du régime sans gluten, la recherche des auto-anticorps est **à répéter tous les ans**, afin de vérifier qu'il n'y a pas de rechutes >>{{%/info%}}
+> << Chez les enfants qui se portent bien après l'arrêt du régime sans gluten, la recherche des auto-anticorps est **à répéter tous les ans**, afin de vérifier qu'il n'y a pas de rechutes >>
+{.alert .alert-info}
 
 Recommandations pour la prise en charge de la maladie cœliaque:
 

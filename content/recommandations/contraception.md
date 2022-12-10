@@ -155,7 +155,8 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 {{% /collapse %}}
 {{%collapse "Spécialités" "show" %}}
 
-{{%info%}}La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares (*CNGOF 2018*){{%/info%}}
+> La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares (*CNGOF 2018*)
+{.alert .alert-info}
 
 {{< table title="Spécialités de contraception disponibles en France en 2022 (sauf dernières générations et DMPA qui augmentent le risque vasculaire). Dr JB Fron d'après BDPM" class="table-wrap" id="table-pilule" >}}
 | Type        | EE (µg)  | Progestatif (mg) | Spécialités     |
@@ -286,10 +287,9 @@ Pour les mineurs désirant le secret:
 {{% /collapse %}}
 {{%collapse "Précisions sur les classes disponibles" %}}
 
-{{%info%}}
 Les contraceptifs hormonaux sont habituellement démarrés le *1er jour des règles*.  
 Le << Quickstart >> ou démarrage à tout moment du cycle peut être proposé à toute femme avec les précautions suivantes: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1<sup>re</sup> plaquette.
-{{%/info%}}
+{.alert .alert-info}
 
 **Effets secondaires habituels:** métrorragies (progestatifs ++), acné, prise de poids, troubles de libido ou de l'humeur.
 
@@ -457,7 +457,8 @@ Changement de contraception à discuter.
 
 ### Prise de poids
 
-{{%info%}}Les contraceptions hormonales ne sont pas associées à une prise de poids (*CNGOF 2018*){{%/info%}}
+> Les contraceptions hormonales ne sont pas associées à une prise de poids (*CNGOF 2018*)
+{.alert .alert-info}
 
 L'implant sous-cutané à l'étonogestrel ou le DMPA injectable peuvent parfois augmenter modérément le poids.  
 Réaliser un bilan complet si prise de poids importante.
@@ -484,7 +485,8 @@ Migraines cataméniales sous COP, proposer au choix:
 {{% /collapse %}}
 {{%collapse "Interactions médicamenteuses" %}}
 
-{{%info%}}Pas de contre-indication aux AINS avec le DIU cuivre (*CNGOF 2018*){{%/info%}}
+> Pas de contre-indication aux AINS avec le DIU cuivre (*CNGOF 2018*)
+{.alert .alert-info}
 
 Contrôler les interactions médicamenteuses en cas de cotraitement.
 
@@ -514,7 +516,7 @@ En traitement prolongé, utiliser une contraception non hormonale.
 {{% /collapse %}}
 {{%collapse "Contraception et cancer" %}}
 
-{{%info%}}Il n'est pas retrouvé d'augmentation de l'incidence ou de la mortalité par cancer (tous confondus) chez les utilisatrices de contraception (*CNGOF 2018*){{%/info%}}
+> Il n'est pas retrouvé d'augmentation de l'incidence ou de la mortalité par cancer (tous confondus) chez les utilisatrices de contraception (*CNGOF 2018*)
 
 Utilisation de contraception œstroprogestative:
 
@@ -548,7 +550,8 @@ Chez l'homme: recommander le préservatif avec les nouvelles thérapies.
 
 #### Contraception après cancer
 
-Après un [cancer du sein]({{< relref "cancer-sein.md" >}}), toutes les contraceptions hormonales sont contre-indiquées{.alert .alert-warning}
+Après un [cancer du sein]({{< relref "cancer-sein.md" >}}), toutes les contraceptions hormonales sont contre-indiquées
+{.alert .alert-warning}
 
 Une contraception doit être systématiquement envisagée en l'absence de [ménopause]({{< relref "menopause.md" >}}).
 

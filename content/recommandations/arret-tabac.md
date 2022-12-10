@@ -61,8 +61,9 @@ Faux pas
 
 ### Bénéfices de l'arrêt
 
-{{%info%}}<< Il n'est jamais trop tard pour arrêter (*HAS 2014*) >>  
-Arrêter à 40 ans augmente l'espérance de vie de 7 ans, à 50 ans de 4 ans, à 60 ans de 3 ans.{{%/info%}}
+> << Il n'est jamais trop tard pour arrêter (*HAS 2014*) >>  
+Arrêter à 40 ans augmente l'espérance de vie de 7 ans, à 50 ans de 4 ans, à 60 ans de 3 ans
+{.alert .alert-info}
 
 Bénéfices importants sur la morbi-mortalité (cardiovasculaire et cancer du poumon ++).
 
@@ -156,10 +157,9 @@ Autres maladies avec sur-représentation de fumeurs: [Algies vasculaires de la f
 {{% /collapse %}}
 {{%collapse "Dépistage et évaluation de la dépendance au tabac" %}}
 
-{{%info%}}
 1\) Dépister 2) Évaluer la dépendance 3) Conseil d'arrêt  
 4) Motivation à l'arrêt
-{{%/info%}}
+{.alert .alert-info}
 
 ### 1) Dépistage du tabagisme
 
@@ -301,7 +301,8 @@ En première intention: **[substituts nicotiniques]({{< relref "substituts-nicot
 
 #### Substituts nicotiniques (TNS)
 
-{{%info%}}Promouvoir les substituts nicotiniques pour tous afin de réduire la consommation: Débuter avec 1 cigarette = 1 mg de nicotine. [Liste des substituts nicotiniques remboursés]({{< relref "substituts-nicotiniques.md" >}}){{%/info%}}
+Promouvoir les substituts nicotiniques pour tous afin de réduire la consommation: Débuter avec 1 cigarette = 1 mg de nicotine. [Liste des substituts nicotiniques remboursés]({{< relref "substituts-nicotiniques.md" >}})
+{.alert .alert-info}
 
 À savoir sur les traitements nicotiniques de substitution (TNS):
 
@@ -352,35 +353,34 @@ Possible en cas d'antécédents neuro-psychiatriques.
 {{% /collapse %}}
 {{%collapse "Place de la cigarette électronique" %}}
 
-{{%info%}}
 Injonctions paradoxales pour le généraliste: << Les connaissances fondées sur les preuves sont insuffisantes pour proposer les SEDEN comme aides au sevrage tabagique dans la prise en charge des fumeurs par les professionnels de santé >> (*HCSP 2021*)  
 et << La cigarette électronique peut être considérée comme une aide au sevrage tabagique (*Collège*) >>
-{{%/info%}}
+{.alert .alert-info}
 
 Synthèse des 13 recommandations du *Haut Conseil de la Santé Publique* pour la prise en charge par cigarette électronique (SEDEN) du sevrage tabagique (les 5 premières nous concernent):
 
 1. Utiliser les traitements ayant prouvé leur efficacité.  
   Les cigarettes électroniques ont un niveau de preuve insuffisant.
-2. L'absence de preuves n'exclut pas que le rapport bénéfices/risques puisse être favorable pour la santé de certains consommateurs.
-3. Son utilisation est déconseillée pendant la grossesse. Recourir aux substituts nicotiniques.
-4. La cigarette électronique pourrait être utilisée pour certaines personnes vulnérables (co-addiction, comorbidités, facteurs sociaux) fortement dépendants ayant une faible adhésion aux traitements validés.
-5. Nécessité de la mise en place d'un système de << vapovigilance >>  
+1. L'absence de preuves n'exclut pas que le rapport bénéfices/risques puisse être favorable pour la santé de certains consommateurs.
+2. Son utilisation est déconseillée pendant la grossesse. Recourir aux substituts nicotiniques.
+3. La cigarette électronique pourrait être utilisée pour certaines personnes vulnérables (co-addiction, comorbidités, facteurs sociaux) fortement dépendants ayant une faible adhésion aux traitements validés.
+4. Nécessité de la mise en place d'un système de << vapovigilance >>  
   Accessible sur [Signalement-Santé](https://signalement.social-sante.gouv.fr) > Vous êtes un professionnel de santé > Vapotage & pneumopathie.
-6. Interdiction de vente aux mineurs.  
+1. Interdiction de vente aux mineurs.  
   L'initiation au tabac au travers de la cigarette électronique est documentée.
-7. Maintien des mesures réglementaires pour en limiter l'attractivité et l'accessibilité.
-8. Élaborer des recommandations d'utilisation selon les analyses de l'Anses
-9. Informer la population:
+1. Maintien des mesures réglementaires pour en limiter l'attractivité et l'accessibilité.
+2. Élaborer des recommandations d'utilisation selon les analyses de l'Anses
+3. Informer la population:
     1. Les bénéfices et risques à long terme ne sont pas connus
     2. Le sevrage tabagique est recommandé avec l'aide d'un professionnel et des traitements ayant prouvé leur efficacité
     3. L'arrêt du tabac est important lors du recours aux SEDEN pour le sevrage tabagique
     4. Le double tabagisme avec cigarette et cigarette électronique (vapofumage) est formellement déconseillé dans toutes les situations
     5. Par principe de précaution, il est recommandé de ne pas réaliser soi-même les mélanges ({{%lang%}}<< do it yourself >>{{%/lang%}})
     6. Un dispositif de signalement des symptômes, problèmes et maladies existe
-10. Il est recommandé que les interventions d'éducation à la santé pour les adolescents reprennent ces éléments
-11. Des études cliniques bien conduites sont nécessaires
-12. Des études de cohorte sont nécessaires pour analyser le rôle initiateur des SEDEN
-13. Les connaissances sur le rôle des saveurs sur l'attractivité des jeunes doivent être analysées
+4.  Il est recommandé que les interventions d'éducation à la santé pour les adolescents reprennent ces éléments
+5.  Des études cliniques bien conduites sont nécessaires
+6.  Des études de cohorte sont nécessaires pour analyser le rôle initiateur des SEDEN
+7.  Les connaissances sur le rôle des saveurs sur l'attractivité des jeunes doivent être analysées
 
 > *HCSP 2021*, **SEDEN** = systèmes électroniques de délivrance de la nicotine
 

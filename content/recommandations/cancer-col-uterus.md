@@ -121,7 +121,8 @@ Au spéculum: ulcération à bords irréguliers, saignant au contact. Le col peu
 
 ### Dépistage du cancer du col de l'utérus
 
-{{%info%}}Un frottis cervico-utérin non satisfaisant doit être renouvelé dans les 3 mois{{%/info%}}
+Un frottis cervico-utérin non satisfaisant doit être renouvelé dans les 3 mois
+{.alert .alert-info}
 
 [Information de la patiente - Santé BD: Le frottis](https://santebd.org/les-fiches-santebd/cancer/gyneco-le-depistage-cancer-du-col-de-luterus)
 

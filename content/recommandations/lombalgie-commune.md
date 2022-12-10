@@ -138,8 +138,9 @@ Arrêt > 4 semaines: rechercher drapeaux bleus et noirs et expertise avec le *m�
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%info%}}Aucun examen n'est recommandé dans les 6 premières semaines (sauf *Drapeau rouge*).  
-Expliquer pourquoi l'imagerie n'est pas nécessaire.{{%/info%}}
+Aucun examen n'est recommandé dans les 6 premières semaines d'évolution de la lombalgie (sauf *Drapeau rouge*).  
+Expliquer au patient pourquoi l'imagerie n'est pas nécessaire
+{.alert .alert-info}
 
 Pas de renouvellement de l'imagerie sauf modification des symptômes. Expliquer les termes du compte-rendu.
 
@@ -162,7 +163,8 @@ Indications à l'IRM: lombalgie chronique, geste invasif (infiltration épidural
 {{% /collapse %}}
 {{%collapse "Traitement de la lombalgie aiguë" %}}
 
-{{%info%}}L'exercice physique est le traitement principal permettant une évolution favorable de la lombalgie (*HAS 2019*){{%/info%}}
+> L'exercice physique est le traitement principal permettant une évolution favorable de la lombalgie (*HAS 2019*)
+{.alert .alert-info}
 
 La prise en charge est centrée sur le patient (bio-psycho-sociale) avec décisions partagées.
 

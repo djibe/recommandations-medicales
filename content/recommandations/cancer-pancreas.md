@@ -83,7 +83,8 @@ Pour toute la population: correction de tabagisme, obésité et diabète.
 
 ### Chez qui dépister le cancer du pancréas ?
 
-{{%info%}}Adresser en consultation d'oncogénétique devant une suspicion de cancers familiaux{{%/info%}}
+Adresser en consultation d'oncogénétique devant une suspicion de cancers familiaux
+{.alert .alert-info}
 
 - Pancréatite chronique
   - génétique (mutation PRSS1)
@@ -180,7 +181,8 @@ Nouveaux examens scanners et IRM à 3, 6 et 12 mois:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%info%}}Le marqueur tumoral CA 19-9 n'a aucun intérêt pour le dépistage et le diagnostic de l'adénocarcinome du pancréas (AP){{%/info%}}
+Le marqueur tumoral CA 19-9 n'a aucun intérêt pour le dépistage et le diagnostic de l'adénocarcinome du pancréas (AP)
+{.alert .alert-info}
 
 Bilan biologique en vue du scanner: bilan hépatique, créatininémie, glycémie.
 

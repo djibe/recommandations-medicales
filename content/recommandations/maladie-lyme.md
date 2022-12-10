@@ -147,7 +147,8 @@ La découverte fortuite d'une sérologie de Lyme positive sans signes évocateur
 
 ### Érythème migrant
 
-{{%info%}}Antibiothérapie de tout érythème migrant sans aucun examen complémentaire{{%/info%}}
+Antibiothérapie de tout érythème migrant sans aucun examen complémentaire
+{.alert .alert-info}
 
 - Notion de piqûre locale de tique voire trace de la piqûre (inconstante)
 - Survenue dans les **3 à 30 jours**:
@@ -216,7 +217,8 @@ Autres signes cliniques et symptômes de la maladie de Lyme:
 La neuroborréliose est présente dans 6,5 à 15% des borrélioses de Lyme.  
 Elle survient dans la phase disséminée précoce (< 6 mois, +90% des cas).
 
-{{%info%}}Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose{{%/info%}}
+Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose
+{.alert .alert-info}
 
 Atteintes neurologiques évocatrices:
 
@@ -251,7 +253,8 @@ Diagnostic de maladie de Lyme certain si 3 critères - possible si 2 - exclu si 
   - Critères: manifestations cliniques et confirmée par sérologies
 - Les anticorps ne protègent pas contre une nouvelle infection à *Borrelia burgdorferi*
 
-{{%info%}}Le contrôle de la guérison est clinique. Des taux élevés d'anticorps peuvent persister des années après la guérison{{%/info%}}
+Le contrôle de la guérison d'un Lyme est clinique. Des taux élevés d'anticorps peuvent persister des années après la guérison
+{.alert .alert-info}
 
 ### Traitement de l'érythème migrant
 

@@ -180,10 +180,9 @@ Recommandations pour la prise en charge de la crise de goutte:
 Indication à la colchicine: traitement symptomatique de première ligne. (*SFR 2020*)  
 En deuxième intention selon *Prescrire®* (à la place des AINS).
 
-{{%info%}}
 [Colchicine 1 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68066715&typedoc=R) per os avec 2<sup>e</sup> prise de 0,5 mg 1 heure après.  
 Puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours).
-{{%/info%}}
+{.alert .alert-info}
 
 - Réduire/arrêter la dose en cas de survenue de diarrhées
 - Débuter si crise datant < 12 heures (à avoir toujours sur soi)
@@ -200,16 +199,16 @@ Puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours
 Indications à la corticothérapie: traitement symptomatique de première ligne. (*SFR 2020*)  
 En troisième intention selon *Prescrire®*, en remplacement des AINS et de la colchicine.
 
-{{%info%}}[Prednisone 20 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64793934&typedoc=R) 1,5 cp x 1/j pendant 3-5 jours{{%/info%}}
+[Prednisone 20 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64793934&typedoc=R) 1,5 cp x 1/j pendant 3-5 jours
+{.alert .alert-info}
   
 Ne pas associer AINS et corticoïdes.  
 Ne pas utiliser en cas de diabète ou d'[HTA]({{< relref "hypertension-arterielle.md" >}}) déséquilibrés.
 
-{{%info%}}
 Possibilité d'infiltrations de corticoïdes pour une arthrite facilement accessible (ex. genou).  
 Elles doivent être privilégiées afin d'épargner un traitement général.  
 Contre-indication formelle si sepsis, intérêt pour confirmation diagnostique.
-{{%/info%}}
+{.alert .alert-info}
 
 ### Inhibiteur IL-1
 
@@ -309,7 +308,8 @@ Arrêt de l'allopurinol et remplacement par **[fébuxostat](https://base-donnees
 
 **NB.** Absence d'allergie croisée entre allopurinol et fébuxostat.
 
-{{%info%}}Si maladie invalidante et traitements insuffisants: adresser au spécialiste pour introduire la pegloticase.{{%/info%}}
+Si maladie invalidante et traitements insuffisants: adresser au spécialiste pour introduire la pegloticase.
+{.alert .alert-info}
 
 #### Probénécide
 

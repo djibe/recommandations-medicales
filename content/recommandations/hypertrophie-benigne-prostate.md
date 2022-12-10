@@ -157,13 +157,15 @@ Autres: doxazosine (Zoxan®, gén), prazosine (Minipress®, gén), silodosine (S
 
 ### Inhibiteur de la 5alpha-réductase
 
-{{%info%}}Dutastéride 0,5 mg x 1/j pendant ≥ 6 mois{{%/info%}}
+Dutastéride 0,5 mg x 1/j pendant ≥ 6 mois
+{.alert .alert-info}
 
 Indication: symptômes modérés à sévères et prostate > 40mL.  
 Efficace après 6 mois de traitement.  
 Peut être associé à un alpha1-bloquant chez les hommes avec gêne modérée à sévère et prostate > 40 mL.
 
-{{%info%}}Entraîne une baisse iatrogène du PSA de moitié{{%/info%}}
+Les IPDE5 entraînent une diminution du PSA de moitié
+{.alert .alert-info}
 
 - Dutastéride (Avodart®, gén)
 - Finastéride (Chibro-Proscar®, gén)

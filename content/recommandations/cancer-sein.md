@@ -106,7 +106,8 @@ RCP
 {{% /collapse %}}
 {{%collapse "Niveaux de risque de cancer du sein" %}}
 
-{{%info%}}Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans (*HAS*){{%/info%}}
+> Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans (*HAS*)
+{.alert .alert-info}
 
 Dépistages recommandés du cancer du sein chez les femmes à haut risque selon *HAS 2019* (repris par *INCa 2022*).  
 Le dépistage généralisé est aussi recommandé par la *Commission Européenne* 2022 (de 45 à 74 ans).
@@ -241,11 +242,13 @@ Réduction de la consommation d'[alcool]({{< relref "sevrage-alcool.md" >}}) (15
 
 ### Palpation mammaire annuelle
 
-{{%info%}}Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans (*HAS*){{%/info%}}
+Palpation mammaire annuelle recommandée pour toutes les femmes à partir de 25 ans (*HAS*)
+{.alert .alert-info}
 
 ### Mammographies de dépistage du cancer du sein
 
-{{%info%}}Mammographies avec double lecture tous les 2 ans chez les femmes de 50 à 74 ans asymptomatiques (sans facteur de risque élevé ou très élevé de cancer du sein){{%/info%}}
+Mammographies avec double lecture tous les 2 ans chez les femmes de 50 à 74 ans asymptomatiques (sans facteur de risque élevé ou très élevé de cancer du sein)
+{.alert .alert-info}
 
 [Guide patiente INCa : le dépistage des cancers du sein (PDF)](https://www.e-cancer.fr/content/download/336634/4809878/file/Depliant%20DOCS%202022_148x210%20DEPSEIN21%20BD.pdf)
 

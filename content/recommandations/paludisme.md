@@ -105,7 +105,8 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 
 {{< card-link-external title="Vaccins recommandés et conseils médicaux par destination" url="https://www.pasteur-lille.fr/vaccinations-voyages/" subtitle="Pasteur Lille" image="pasteur" >}}
 
-{{%info%}}Les séjours en zones d'endémie palustre sont déconseillés en cours de grossesse (*CRAT*){{%/info%}}
+> Les séjours en zones d'endémie palustre sont déconseillés durant la grossesse (*CRAT*)
+{.alert .alert-info}
 
 ### Indication à la chimioprophylaxie antipaludique selon le type de voyage
 
@@ -224,7 +225,8 @@ window.onload = () => {
 };
 </script>
 
-{{%info%}}Un vaccin contre le paludisme existe (RTS,S), recommandé par l'OMS pour les enfants du Ghana, Kenya et Malawi (*[OMS](https://www.who.int/news/item/06-10-2021-who-recommends-groundbreaking-malaria-vaccine-for-children-at-risk)*){{%/info%}}
+Un vaccin contre le paludisme existe (RTS,S), recommandé par l'OMS pour les enfants du Ghana, Kenya et Malawi (*[OMS](https://www.who.int/news/item/06-10-2021-who-recommends-groundbreaking-malaria-vaccine-for-children-at-risk)*)
+{.alert .alert-info}
 
 ### Chloroquine
 
@@ -301,10 +303,9 @@ Peut être utilisée pendant la grossesse.
 Arrêt immédiat en cas de survenue.  
 **Contre-indications:** antécédent de convulsions, de troubles neuro-psychiques, insuffisance hépatique sévère, traitement par acide valproïque
 
-{{%info%}}
 À débuter la première fois au moins 10 jours avant le départ et poursuivre 3 semaines après le retour. Au mieux 3 semaines avant pour évaluer correctement la tolérance.  
 Ensuite débuter 3 jours avant l'entrée dans la zone à risque.
-{{%/info%}}
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%sources%}}

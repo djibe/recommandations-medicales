@@ -138,7 +138,8 @@ L'examen recherche:
 
 En cas de symptômes évocateurs, adresser directement au gastro-entérologue pour endoscopie œsogastrique avec biopsies.
 
-{{%info%}}Les marqueurs tumoraux ACE et CA19-9 ne sont pas utiles au diagnostic initial.{{%/info%}}
+Les marqueurs tumoraux ACE et CA19-9 ne sont pas utiles au diagnostic initial
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de l'estomac" %}}

@@ -41,7 +41,8 @@ Liste des facteurs de risque de maladie hémorragique:
 {{% /collapse %}}
 {{%collapse "Prévention par la vitamine K" %}}
 
-{{%info%}}Administration de vitamine K à 4 heures - 4 jours - 4 semaines{{%/info%}}
+Administration de vitamine K à 4 heures - 4 jours - 4 semaines
+{.alert .alert-info}
 
 **Prescrire**: 1 ampoule de vitamine K1 2 mg/0,2 mL nourrissons buvable à 4 heures, 4 jours et 4 semaines.
 

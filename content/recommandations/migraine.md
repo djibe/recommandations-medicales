@@ -332,7 +332,8 @@ Max 14 j/mois et 8 j/mois si associés (caféine ou métoclopramide).
 - Nausées et vomissements  
   Métoclopramide 10 mg voire dompéridone 10 mg sont efficaces.
 
-{{%info%}}Ne pas utiliser les opiacés: aggravent les nausées, risque de céphalées par abus médicamenteux et mésusage{{%/info%}}
+Ne pas utiliser les opiacés: aggravent les nausées, risque de céphalées par abus médicamenteux et mésusage
+{.alert .alert-info}
 
 ##### Triptans
 
@@ -541,7 +542,8 @@ Toute utilisation de traitement de fond doit être rapportée à la pharmacovigi
 - La prise continue induit moins de crises que la prise discontinue
 - Vérifier les [contre-indications au THM]({{< relref "menopause.md" >}})
 
-{{%info%}}Privilégier un traitement transdermique en continu à la plus faible dose possible avec réévaluation régulière{{%/info%}}
+Privilégier un traitement transdermique en continu à la plus faible dose possible avec réévaluation régulière
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant des céphalées migraineuses" "show" %}}

@@ -67,7 +67,8 @@ ECAB
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-{{%info%}}Tout consommateur chronique de BZD est exposé en cas d'arrêt brutal accidentel ou non (oubli, hospitalisation...) à un risque de syndrome de sevrage{{%/info%}}
+Tout consommateur chronique de BZD est exposé en cas d'arrêt brutal accidentel ou non (oubli, hospitalisation...) à un risque de syndrome de sevrage
+{.alert .alert-info}
 
 - Traitements en cours
 - [Consommation d'alcool]({{< relref "sevrage-alcool.md" >}})
@@ -122,10 +123,9 @@ L'oxazépam est la BZD de préférence de *Prescrire* en insomnie transitoire. I
 {{% /collapse %}}
 {{%collapse "Décroissance des benzodiazépines" %}}
 
-{{%info%}}
 Proposer une diminution de 25% la 1<sup>re</sup> semaine avec consultation de suivi.  
 Puis paliers de 25% toutes les 2-4 semaines en l'absence de difficultés.
-{{%/info%}}
+{.alert .alert-info}
 
 - Expliquer: la durée du traitement, les modalités d'arrêt et le risque de dépendance
 - Traitement > 30j: proposer systématiquement l'arrêt  

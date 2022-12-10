@@ -286,7 +286,8 @@ INR cible selon la prothèse ou entre 2 et 3.
 AVK avec temps dans la cible ≥ 70%  
 Si temps dans la cible non atteint: AOD et observance ++ ou éducation et renforcement des INR.
 
-{{%info%}}Aspirine 75-300 mg/j si refus d'anticoagulation, mais inefficace en prévention des AVC{{%/info%}}
+Aspirine 75-300 mg/j si refus d'anticoagulation, mais inefficace en prévention des AVC
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Contrôle du rythme et anti-arythmiques" %}}

@@ -232,7 +232,8 @@ Ajouter sur l'ordonnance le tensiomètre électronique, certaines mutuelles pouv
 {{% /collapse %}}
 {{%collapse "Objectifs tensionnels" "show" %}}
 
-{{%info%}}Une PAD 70-79 mmHg est la cible pour tout hypertendu. La pression cible doit être atteinte sous 3 mois{{%/info%}}
+Une PAD 70-79 mmHg est la cible pour tout hypertendu. La pression cible doit être atteinte sous 3 mois
+{.alert .alert-info}
 
 {{< table title="Synthèse des cibles de pression artérielle selon le profil de l'adulte de plus de 18 ans. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
 | Population          | Objectif (mmHg) | Source     |

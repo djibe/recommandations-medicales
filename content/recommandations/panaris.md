@@ -100,7 +100,8 @@ Mesures générales de prise en charge du panaris:
 
 ### Stade inflammatoire: traitement du panaris
 
-{{%info%}}Bains de chlorhexidine 2 à 3 fois par jour{{%/info%}}
+Bains de chlorhexidine 2 à 3 fois par jour
+{.alert .alert-info}
 
 Selon Prescrire®: Bains dans l'eau chaude 10-15 minutes x 3-4/jour.  
 Antibioclic: Bains antiseptiques pluriquotidiens (x 2-3 /jour)  
@@ -112,14 +113,16 @@ Indications au traitement antibiotique d'un panaris: immunodépression (diabète
 
 #### Antibiothérapie du panaris de l'adulte
 
-{{%info%}}Pristinamycine (Pyostacine®) 1g x 2-3/j pendant 7 jours (couvre le SARM){{%/info%}}
+Pristinamycine (Pyostacine®) 1g x 2-3/j pendant 7 jours (couvre le SARM)
+{.alert .alert-info}
 
 ou cloxacilline (Orbénine®) 50 mg/kg/j en 3 prises (max 4 g/j) 7 jours  
 ou amoxicilline-acide clavulanique 1g x 3/j 7 jours
 
 #### Antibiothérapie du panaris de l'enfant
 
-{{%info%}}Pristinamycine (Pyostacine®) 50 mg/kg/j x 2-3/j pendant 7 jours (couvre le SARM){{%/info%}}
+Pristinamycine (Pyostacine®) 50 mg/kg/j x 2-3/j pendant 7 jours (couvre le SARM)
+{.alert .alert-info}
 
 ou cloxacilline (Orbénine®) 50 mg/kg/j en 3 prises (max 4g/j) 7 jours  
 ou amoxicilline-acide clavulanique 1 dose-kg x 3/j 7 jours (seul traitement pour les -6 ans)

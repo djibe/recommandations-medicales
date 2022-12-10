@@ -38,7 +38,8 @@ Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contrace
 {{% /collapse %}}
 {{%collapse "Introduction" %}}
 
-{{%info%}}<< Les échecs contraceptifs dus au défaut d'observance sont l'une des principales causes de recours à l'interruption volontaire de grossesse (IVG) en France >> (*CNGOF 2018*){{%/info%}}
+> << Les échecs contraceptifs dus au défaut d'observance sont l'une des principales causes de recours à l'interruption volontaire de grossesse (IVG) en France >> (*CNGOF 2018*)
+{.alert .alert-info}
 
 > << Dans tous les cas où cela est possible, les femmes doivent pouvoir choisir la méthode, médicamenteuse ou chirurgicale, et recevoir une information détaillée. Cette information renforce la satisfaction des femmes après IVG. >>
 

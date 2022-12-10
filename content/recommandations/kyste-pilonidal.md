@@ -81,9 +81,10 @@ Diagnostics à évoquer devant une lésion évocatrice de sinus pilonidal:
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-{{%info%}}Abstention sur les formes de kystes pilonidaux asymptomatiques{{%/info%}}
+Abstention thérapeutique pour un kyste pilonidal asymptomatique
+{.alert .alert-info}
 
-Mesures générales:
+Mesures générales de prise en charge du kyste pilonidal:
 
 - Traitement symptomatique des douleurs et suintements
 - Correction d'un surpoids
@@ -93,7 +94,7 @@ Mesures générales:
 
 #### Kyste pilonidal abcédé
 
-Prise en charge chirurgicale en urgence par incision sous anesthésie locale en cas d'abcès aigu. Les récidives du sinus pilonidal infecté (SPI) sont fréquentes (40%).  
+Prise en charge chirurgicale du kyste pilonidal abcédé en urgence par incision sous anesthésie locale en cas d'abcès aigu. Les récidives du sinus pilonidal infecté (SPI) sont fréquentes (40%).  
 Alternative: exérèse sous anesthésie générale ou locorégionale, sans plastie.
 
 Poursuivre un rasage local pendant 1 à 2 semaines jusqu'à cicatrisation (*ASCRS*).

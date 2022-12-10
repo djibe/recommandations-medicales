@@ -160,13 +160,15 @@ Si TSH augmentée avec signes cliniques ou valeur > 10 mUI/L: prescrire pour le 
 Si TSH normale: pas de nouveau dosage avant 6-12 mois (sauf nouveaux signes cliniques).  
 Éviter le dosage en pathologie aiguë.
 
-{{%info%}}<< Il n'y a pas lieu de doser la T3L >>{{%/info%}}
+> << Il n'y a pas lieu de doser la T3L >>
+{.alert .alert-info}
 
 Si arguments pour étiologie auto-immune, dosage des **anticorps anti-TPO**. Il est inutile de renouveler ce dosage ainsi que de doser d'autres anticorps antithyroïdiens.
 
 #### Interpréter les résultats de TSH et T4L
 
-{{%info%}}Aucun autre examen chez la personne âgée{{%/info%}}
+Aucun autre examen chez la personne âgée
+{.alert .alert-info}
 
 - TSH élevée et T4L basse: **hypothyroïdie avérée**.  
   Doser les **anticorps anti-TPO** (sauf personne âgée).
@@ -205,7 +207,8 @@ Signes résolutifs sous lévothyroxine.
 {{%/collapse%}}
 {{%collapse "Traitement de l'hypothyroïdie" %}}
 
-{{%info%}}En cas d'indication de traitement peu claire (ex. doses faibles de LT), il est possible de suspendre le traitement en accord avec le patient et de contrôler la TSH à 4-6 semaines{{%/info%}}
+En cas d'indication de traitement peu claire (ex. doses faibles de LT), il est possible de suspendre le traitement en accord avec le patient et de contrôler la TSH à 4-6 semaines
+{.alert .alert-info}
 
 Délai avant amélioration des symptômes de **2 semaines après instauration du traitement**. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
 

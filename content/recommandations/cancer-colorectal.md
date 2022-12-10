@@ -223,7 +223,8 @@ Un test de dépistage positif impose une coloscopie dans les 31 jours.
 
 #### Commander des kits de dépistage du cancer colorectal
 
-{{%info%}}Le kit du dépistage du cancer du côlon peut être remis par le médecin, retiré en pharmacie ou commandé par le patient à domicile{{%/info%}}
+Le kit du dépistage du cancer du côlon peut être remis par le médecin, retiré en pharmacie ou commandé par le patient à domicile
+{.alert .alert-info}
 
 - Commander des kits en tant que médecin: **Ameli Pro** > Commandes > Commande de dispositifs > Kit de Dépistage du Cancer Colorectal
 - Retirer le kit en pharmacie (*Service-Public.fr 02/11/2022*)
@@ -246,7 +247,8 @@ Personne réticente au dépistage par test immunologique:
 - Identifier les freins et donner les informations éclairées
 - Rappeler l'enjeu (fréquent et grave) et les qualités du dépistage (performance, simplicité, prélèvement unique)
 
-{{%info%}}<< 90% des personnes réalisent le test lorsqu'il est remis par le médecin >> (*INCa 2020*){{%/info%}}
+> << 90% des personnes réalisent le test lorsqu'il est remis par le médecin >> (*INCa 2020*)
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Dépistage et suivi des sujets à risque élevé de cancer colorectal" %}}

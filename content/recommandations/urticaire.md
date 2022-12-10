@@ -186,11 +186,13 @@ En cas d'atteinte muqueuse intestinale, les douleurs peuvent simuler une urgence
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%info%}}Aucun examen complémentaire n'est recommandé devant une urticaire aiguë
+{{%info%}}
+Aucun examen complémentaire n'est recommandé devant une urticaire aiguë
 
 ---
 
-Aucun examen complémentaire n'est recommandé devant une urticaire chronique banale isolée sans signes cliniques d'orientation étiologique{{%/info%}}
+Aucun examen complémentaire n'est recommandé devant une urticaire chronique banale isolée sans signes cliniques d'orientation étiologique
+{{%/info%}}
 
 ### Bilan devant une urticaire chronique banale isolée sans signes cliniques d'orientation étiologique
 
@@ -258,7 +260,8 @@ Molécules peu ou pas sédatives de première intention (selon *Prescrire*): **C
 
 ### Traitement de l'urticaire chronique
 
-{{%info%}}Cétirizine 10 mg 1 par jour pendant 8 semaines{{%/info%}}
+Cétirizine 10 mg 1 par jour pendant 8 semaines
+{.alert .alert-info}
 
 Recommandations pour la prise en charge et le traitement de l'urticaire chronique:
 

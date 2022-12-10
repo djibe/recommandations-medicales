@@ -38,7 +38,8 @@ Endocardite infectieuse (EI)
 : Les germes sont les staphylocoques (30-50%, mauvais pronostic, *Staphylococcus aureus* ++), *Streptocoques gallolyticus* et entérocoques.
 : La prophylaxie repose sur les mesures d'hygiène et pour les patients à haut risque d'endocardite: l'antibioprophylaxie en cas de geste invasif.
 
-{{%info%}}1/3 des personnes à haut risque ne bénéficient pas d'antibioprophylaxie lors des soins invasifs{{%/info%}}
+1/3 des personnes à haut risque ne bénéficient pas d'antibioprophylaxie lors des soins invasifs
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Patients à risque d'endocardite" %}}

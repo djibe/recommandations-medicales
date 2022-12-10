@@ -124,14 +124,16 @@ Le plus souvent, la stéatopathie métabolique est découverte par des **anomali
   Surpoids/obésité (abdominale), diabète type 2, hypertension artérielle, dyslipidémie, syndrome d'apnées du sommeil.
 - Échographie hépatique avec foie hyperéchogène
 
-{{%info%}}Des transaminases normales n'empêchent pas une stéatopathie métabolique sévère{{%/info%}}
+Des transaminases normales n'empêchent pas une stéatopathie métabolique sévère
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Dépistage de la NASH" %}}
 
 ### Chez qui dépister une NASH ?
 
-{{%info%}}Les critères cliniques prédictifs majeurs de fibrose hépatique sont l'âge à partir de 50 ans et un diabète type 2{{%/info%}}
+Les critères cliniques prédictifs majeurs de fibrose hépatique sont l'âge à partir de 50 ans et un diabète type 2
+{.alert .alert-info}
 
 Indications au dépistage de la NASH chez les sujets à risque élevé d'évolution vers la fibrose hépatique:
 
@@ -175,7 +177,8 @@ Marqueurs non invasifs de l'évaluation du foie pour éviter la ponction-biopsie
 {{% /collapse %}}
 {{%collapse "Traitement de la NASH" %}}
 
-{{%info%}}<< perdre 10% du poids du corps fait disparaître la stéatohépatite dans 90% des cas>> (*SNFGE*){{%/info%}}
+> << ... perdre 10% du poids du corps fait disparaître la stéatohépatite dans 90% des cas >> (*SNFGE*)
+{.alert .alert-info}
 
 La prise en charge de la stéatohépatite non alcoolique (NASH) repose sur la perte de poids (10%) et la correction de chacun des facteurs de risque cardiovasculaire / métabolique (tabac, hypertension, LDL, régime méditerranéen).
 

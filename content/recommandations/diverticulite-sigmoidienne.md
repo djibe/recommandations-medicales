@@ -79,7 +79,8 @@ Les examens complémentaires sont systématiques pour affirmer le diagnostic de 
 
 ### Scanner abdomino-pelvien avec injection
 
-{{%info%}}Le scanner est obligatoire en cas de 1<sup>er</sup> épisode de diverticulite{{%/info%}}
+Le scanner est obligatoire en cas de 1<sup>er</sup> épisode de diverticulite
+{.alert .alert-info}
 
 Le scanner est l'examen de référence pour le diagnostic et la recherche de complications d'une poussée de diverticulite.
 
@@ -124,7 +125,8 @@ La coloscopie doit être réalisée au moins 6 semaines après l'épisode divert
 
 Une prise en charge ambulatoire de diverticulite aiguë est possible uniquement en l'absence d'*indications à l'hospitalisation* (voir ci-dessus).
 
-{{%info%}}Aucun traitement ou régime ne permet de prévenir les crises de diverticulite{{%/info%}}
+Aucun traitement ou régime ne permet de prévenir les crises de diverticulite
+{.alert .alert-info}
 
 - Antalgie simple
 - Pas d'AINS, corticoïdes ou aspirine
@@ -136,7 +138,8 @@ Une prise en charge ambulatoire de diverticulite aiguë est possible uniquement 
 
 ### Antibiothérapie
 
-{{%info%}}Pas d'antibiothérapie en 1<sup>re</sup> intention devant une poussée diverticulaire lorsque le scanner ne révèle pas de complication{{%/info%}}
+Pas d'antibiothérapie en 1<sup>re</sup> intention devant une poussée diverticulaire lorsque le scanner ne révèle pas de complication
+{.alert .alert-info}
 
 Indication à l'antibiothérapie ambulatoire: échec thérapeutique à 48 heures sans critère d'hospitalisation.  
 Amoxicilline + acide clavulanique 1 g x 3/j pendant 7 jours.

@@ -63,7 +63,8 @@ Splénectomie chirurgicale: 1<sup>re</sup> cause avec 6 à 9000 cas par an (50% 
 {{% /collapse %}}
 {{%collapse "Antibioprophylaxie de l'asplénie" %}}
 
-{{%info%}}Oracilline® 1 MUI, 1 cp x 2/j pendant 2 ans (5 ans chez l'enfant){{%/info%}}
+Oracilline® 1 MUI, 1 cp x 2/j pendant 2 ans (5 ans chez l'enfant)
+{.alert .alert-info}
 
 Antibiothérapie par [Oracilline®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67151899&typedoc=R) (pénicilline V, phénoxyméthylpénicilline) à débuter dès le lendemain de la splénectomie.  
 {{%class%}}Existe en sirop (250.000 UI/5 mL, 500.000 UI/5 mL, 1 MUI/10 mL) ou comprimés à 1 MUI.{{%/class%}}
@@ -135,7 +136,8 @@ Vaccin [ACT-HIB®](https://base-donnees-publique.medicaments.gouv.fr/affichageDo
 
 1 dose annuelle de rappel au moment de la campagne annuelle de vaccination (voir [Grippe]({{< relref "grippe.md" >}})).
 
-{{%info%}}Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques (sauf les vaccins vivants en cas d'immunosuppression). (*HCSP 2014*){{%/info%}}
+> Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques (sauf les vaccins vivants en cas d'immunosuppression). (*HCSP 2014*)
+{.alert .alert-info}
 
 ### Vaccination de l'entourage
 

@@ -166,7 +166,8 @@ Prise en charge d'un zona non sévère:
   Antibiothérapie per os cloxacilline.
 - PCR VIH si -50 ans
 
-{{%info%}}Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anesthésiques, antiprurigineux) ne doit être appliqué{{%/info%}}
+Aucun autre produit (talc, pommade, gel, topiques antibiotiques/antiviraux, anesthésiques, antiprurigineux) ne doit être appliqué
+{.alert .alert-warning}
 
 **NB**. Pas de bénéfice prouvé des anti-histaminiques sur le prurit au cours d'un zona.
 
@@ -185,7 +186,8 @@ Prise en charge d'un zona non sévère:
 
 Le traitement antiviral doit être débuté en urgence dans les 48 à 72 premières heures.
 
-{{%info%}}Valaciclovir 2 x 500 mg 3 fois par jour pendant 7 jours, début immédiat{{%/info%}}
+Valaciclovir 2 x 500 mg 3 fois par jour pendant 7 jours, début immédiat
+{.alert .alert-info}
 
 **Alternatives:** aciclovir 800 mg x 5/j pendant 7 jours (seule forme buvable)  
 ou famciclovir 500 mg x 3/j pendant 7 jours.
