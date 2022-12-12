@@ -22,9 +22,10 @@ todo = "préparations CHRU, impétiginisation"
 
 {{%article-summary%}}
 
-- Traitement de fond de la dermatite atopique: Émollients quotidiens (préparations détaillées dans *Traitement de fond*) et éviction des facteurs favorisants
+- Traitement de fond de la dermatite atopique (DA): Émollients quotidiens (préparations détaillées dans *Traitement de fond*) et éviction des facteurs favorisants
 - Prise en charge de la poussée d'eczéma: {{< modal-btn modal-dc >}}dermocorticoïde le soir{{< /modal-btn >}} jusqu'à disparition de l'inflammation puis arrêt brutal
 - Dermatite atopique sévère: contrôle de l'observance, suivi dermatologique spécialisé et École de l'atopie
+- [Guide SFD d'information sur la DA (PDF)](https://www.sfdermato.org/upload/fiche/etfad-great-version-france-22o32019-dd00991406282f168b08aec43c3798f0.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -207,9 +208,12 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
   - Éviter en poussée sévère
 - Éviter les animaux domestiques
 - Encourager l'allaitement maternel exclusif +3 mois
-- Acupuncture, homéopathie, phytothérapie déconseillées par la *SFD*, pas d'efficacité des eaux thermales
+- [Guide SFD d'information sur la DA (PDF)](https://www.sfdermato.org/upload/fiche/etfad-great-version-france-22o32019-dd00991406282f168b08aec43c3798f0.pdf)
 
 **NB.** Les anti-histaminiques ont << un intérêt très limité dans la dermatite atopique >> (Pr D. Staumont *dermato-info* et *EADV*) car sans efficacité sur le prurit. En visée sédative, recours à l'hydroxyzine.
+
+Acupuncture, homéopathie et phytothérapie déconseillées par la *SFD*, pas d'efficacité des eaux thermales
+{.alert .alert-warning}
 
 ### Dermatite atopique sévère
 
@@ -268,7 +272,7 @@ graph TB
 {{%sources%}}
 
 - [Staumont D. la dermatite atopique. dermato-info. 29/05/2021.](https://dermato-info.fr/fr/les-maladies-de-la-peau/la-dermatite-atopique)
-- [Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéomuqueuses chez l'enfant et l'adulte. urticaire, dermatites atopique et de contact. Item 187. 2021.](https://cedef.org/enseignement)
+- Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéomuqueuses chez l'enfant et l'adulte. urticaire, dermatites atopique et de contact. Item 187. 2021.
 - [Wollenberg A et al; European Task Force on Atopic Dermatitis/EADV Eczema Task Force. ETFAD/EADV Eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children. J Eur Acad Dermatol Venereol. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16892)
 - Prescrire Redaction. Eczéma atopique des nourrissons. La Revue Prescrire. Octobre 2017.
 - [Collège des enseignants de dermatologie de France (CEDEF), Staumont D. Dermatite atopique. Item 163 UE 7. 2017.](https://undf.cedef.org/fr/document/Hypersensibilit%C3%A9s-et-allergies-cutan%C3%A9o-muqueuses-chez-l%E2%80%99enfant-et-l%E2%80%99adulte)

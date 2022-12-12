@@ -27,6 +27,8 @@ todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult 
   Il sera gratuit pour les 18-25 ans en 2023.
 - [QuestionSexualité_ - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)
 - Contraceptions très efficaces de première intention: COP, DIU, implant
+- Démarrer une contraception hormonale: débuter le *1er jour des règles*  
+  ou démarrage à tout moment du cycle: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1<sup>re</sup> plaquette.
 - Informer sur la [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
 - Pas d'interaction DIU et AINS
 

@@ -314,7 +314,7 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 
 ### À lire
 
-- [Collège des enseignants de dermatologie de France (CEDEF). Tumeurs cutanées épithéliales et mélaniques. Item 302. 2021.](https://cedef.org/enseignement)
+- Collège des enseignants de dermatologie de France (CEDEF). Tumeurs cutanées épithéliales et mélaniques. Item 302. 2021.
 - [INCa. Détection précoce des cancers de la peau - Médecins généralistes. Octobre 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Detection-precoce-des-cancers-de-la-peau-Medecins-generalistes)
 
 {{%/sources%}}

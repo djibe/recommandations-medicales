@@ -4,6 +4,7 @@ prefix = "le "
 description = "Recommandations pour la prise en charge du cancer de la prostate. Indications au dépistage et conduite à tenir selon le PSA, toucher rectal et avis urologique"
 synonyms = ["Adénocarcinome prostatique"]
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Dr J. OLIVIER (AFU)"
 date = "2020-09-27T19:51:30+02:00"
 publishdate = "2020-09-27"
 lastmod = "2022-12-08"

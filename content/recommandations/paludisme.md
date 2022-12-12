@@ -38,6 +38,9 @@ Paludisme
 
 ### Abréviations
 
+Anofel
+: Association française des enseignants et praticiens hospitaliers titulaires de parasitologie et mycologie médicales
+
 CPAP
 : chimioprophylaxie antipaludique
 
@@ -311,6 +314,7 @@ Ensuite débuter 3 jours avant l'entrée dans la zone à risque.
 {{%sources%}}
 
 - {{< references/voyageur >}}
+- Anofel. Parasitoses et mycoses. Réussir son DFASM. 2022.
 - [Institut Pasteur. Recommandations générales - Prévention du paludisme.](https://www.pasteur.fr/fr/centre-medical/vaccination/recommandations-generales#prvention-du-paludisme)
 - [CMIT. Paludisme. UE6 Item 166. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-166-nb.pdf)
 

@@ -247,7 +247,7 @@ L'évolution fluctue. 4 personnes sur 10 guérissent spontanément après plusie
 
 ### À lire
 
-- [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales. Item 111. 2021.](https://cedef.org/enseignement)
+- Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales. Item 111. 2021.
 - [Anzengruber F. et al. Swiss S1 guideline for the treatment of rosacea. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14349)
 
 {{%/sources%}}

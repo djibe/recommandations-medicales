@@ -5,12 +5,12 @@ description = "Modèle de contrat pour les remplacements de médecins libéraux 
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-05T12:18:00+02:00"
 publishdate = "2022-12-08"
-lastmod = "2022-12-09"
+lastmod = "2022-12-12"
 sources = ["CNOM"]
 tags = []
 image = true
 imageSrc = "storyset / Freepik"
-todo = "modèle SNJMG > validate form > durée m-j > webkit-autofill > Copier > Télécharger .doc"
+todo = "validate form > webkit-autofill > Store data > Copier > Télécharger .doc"
 +++
 
 **RecoMédicales** vous permet de créer un contrat de remplacement rapidement d'après le modèle officiel du Conseil de l'Ordre.
@@ -22,9 +22,8 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 Évidemment aucune donnée n'est récoltée (comme partout ailleurs sur **RecoMédicales**).
 
 <form class="card card-body shadow-none border flex-wrap mb-3" id="contract-generator">
-
-### Médecin installé {.typography-overline}
-
+<fieldset>
+<legend class="typography-overline">Médecin installé</legend>
 <div class="form-group d-flex">
   <input type="radio" id="contract-sex-f" name="contract-sex" class="d-none">
   <label for="contract-sex-f" class="chip chip-action chip-choice">Madame</label>
@@ -40,13 +39,17 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
   <input class="form-control" id="contract-address" type="text" autocomplete="street-address" required>
   <small class="form-text">Adresse complète sur 1 ligne</small>
 </div>
+<div class="form-group floating-label textfield-box form-ripple">
+  <label for="contract-spe">Spécialité</label>
+  <input class="form-control" id="contract-spe" type="text" value="Médecin généraliste" autocomplete="off" required>
+</div>
 <div class="form-group floating-label textfield-box form-ripple w-50">
-  <label for="contract-inscription">Numéro ordinal</label>
+  <label for="contract-inscription">RPPS</label>
   <input class="form-control" id="contract-inscription" type="text" required>
 </div>
-
-### Médecin remplaçant {.typography-overline .mt-4}
-
+</fieldset>
+<fieldset>
+<legend class="typography-overline">Médecin remplaçant</legend>
 <div class="form-group d-flex">
   <input type="radio" id="contract-sex-substitute-f" name="contract-sex-substitute" class="d-none" value="f">
   <label for="contract-sex-substitute-f" class="chip chip-action chip-choice">Madame</label>
@@ -57,16 +60,28 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
   <label for="contract-name-substitute">Prénom et NOM du remplaçant</label>
   <input class="form-control" id="contract-name-substitute" type="text" autocomplete="off" required>
 </div>
+<div class="form-group floating-label textfield-box form-ripple">
+  <label for="contract-address-substitute">Adresse du remplaçant</label>
+  <input class="form-control" id="contract-address-substitute" type="text" autocomplete="off" required>
+  <small class="form-text">Adresse complète sur 1 ligne</small>
+</div>
+<div class="d-flex">
+<div class="form-group floating-label textfield-box form-ripple w-50 mr-3">
+  <label for="contract-inscription-substitute">RPPS ou license</label>
+  <input class="form-control" id="contract-inscription-substitute" type="text" required>
+</div>
 <div class="form-group floating-label textfield-box form-ripple w-50">
   <label class="mb-2" for="contract-urssaf">Siret</label>
   <input class="form-control" id="contract-urssaf" type="number" max="99999999999999" autocomplete="off">
   <small class="form-text">Numéro URSSAF à 14 chiffres</small>
 </div>
+</div>
 
 **NB.** Le remplaçant doit fournir son assurance professionnelle
 
-### Contrat {.typography-overline .mt-4}
-
+</fieldset>
+<fieldset>
+<legend class="typography-overline">Contrat</legend>
 <div class="d-flex">
 <div class="form-group floating-label textfield-box form-ripple w-50 mr-3">
   <label for="contract-date">Fait le</label>
@@ -79,7 +94,7 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 </div>
 <div class="form-group floating-label textfield-box">
   <label for="contract-duration">Période (texte libre)</label>
-  <textarea class="form-control" id="contract-duration" placeholder="ex. 01/01/2023 au 31/12/2023, ou 4, 5 et 6 mars 2023 ..." rows="3"></textarea>
+  <textarea class="form-control" id="contract-duration" placeholder="ex: les mercredis du 01/01/2023 au 31/12/2023 | les 4, 5 et 6 mars 2023 ..." rows="3"></textarea>
 </div>
 <small>En cas de remplacement régulier de courte durée, préciser le/les jour(s) ou la/les demi-journée(s) de remplacement.</small>
 <div class="form-group mt-4 ml-4 custom-control custom-switch">
@@ -89,6 +104,7 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 
 Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
 
+</fieldset>
 <button class="btn btn-outline-primary d-print-none mt-4" type="button" id="contract-btn" onclick="printPageArea('contract-generated')">
   <svg class="svg-primary mr-2" aria-hidden="true" height="24" viewBox="0 0 24 24" width="24"><path d="M19 8h-1V3H6v5H5c-1.66 0-3 1.34-3 3v6h4v4h12v-4h4v-6c0-1.66-1.34-3-3-3zM8 5h8v3H8V5zm8 12v2H8v-4h8v2zm2-2v-2H6v2H4v-4c0-.55.45-1 1-1h14c.55 0 1 .45 1 1v4h-2z"/><circle cx="18" cy="11.5" r="1"/></svg> Imprimer le contrat
 </button>
@@ -109,16 +125,22 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
     const nameElems = document.getElementsByClassName('contract-name-text')
     const address = document.getElementById('contract-address')
     const addressElems = document.getElementsByClassName('contract-address-text')
+    const addressSubstitute = document.getElementById('contract-address-substitute')
+    const addressSubstituteElems = document.getElementsByClassName('contract-address-substitute-text')
+    const spe = document.getElementById('contract-spe')
+    const speElems = document.getElementsByClassName('contract-spe-text')
     const inscription = document.getElementById('contract-inscription')
-    const inscriptionElem = document.getElementById('contract-inscription-text')
+    const inscriptionElems = document.getElementsByClassName('contract-inscription-text')
+    const inscriptionSubstitute = document.getElementById('contract-inscription-substitute')
+    const inscriptionSubstituteElems = document.getElementsByClassName('contract-inscription-substitute-text')
     const nameSubstitute = document.getElementById('contract-name-substitute')
     const nameSubstituteElems = document.getElementsByClassName('contract-name-substitute-text')
     const urssaf = document.getElementById('contract-urssaf')
-    const urssafElem = document.getElementById('contract-urssaf-text')
+    const urssafElems = document.getElementsByClassName('contract-urssaf-text')
     const duration = document.getElementById('contract-duration')
-    const durationElem = document.getElementById('contract-duration-text')
+    const durationElems = document.getElementsByClassName('contract-duration-text')
     const date = document.getElementById('contract-date')
-    const dateElem = document.getElementById('contract-date-text')
+    const dateElems = document.getElementsByClassName('contract-date-text')
     const retrocession = document.getElementById('contract-retrocession')
     const retrocessionElem = document.getElementById('contract-retrocession-text')
     const competition = document.getElementById('contract-competition')
@@ -148,14 +170,16 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
       [...titleSubstitutePronoun2].forEach((elem) => { elem.textContent = setPolite(sexSubstituteMan).pronoun2 });
       [...nameElems].forEach((elem) => { elem.textContent = name.value });
       [...addressElems].forEach((elem) => { elem.textContent = address.value });
-      inscriptionElem.textContent = inscription.value;
+      [...addressSubstituteElems].forEach((elem) => { elem.textContent = addressSubstitute.value });
+      [...speElems].forEach((elem) => { elem.textContent = spe.value });
+      [...inscriptionElems].forEach((elem) => { elem.textContent = inscription.value });
       window.localStorage.setItem('contract-inscription', inscription.value);
       [...nameSubstituteElems].forEach((elem) => { elem.textContent = nameSubstitute.value });
-      urssafElem.textContent = urssaf.value;
+      [...urssafElems].forEach((elem) => { elem.textContent = urssaf.value });
       window.localStorage.setItem('contract-urssaf', urssaf.value);
-      durationElem.textContent = duration.value;
+      [...durationElems].forEach((elem) => { elem.textContent = duration.value });
       window.localStorage.setItem('contract-duration', duration.value);
-      dateElem.textContent = setContractDate(date.value);
+      [...dateElems].forEach((elem) => { elem.textContent = setContractDate(date.value) });
       retrocessionElem.textContent = retrocession.value;
     }
     const setContractDate = (dateVal) => { return (dateVal != null && dateVal.length !== 0)?new Date(dateVal).toLocaleDateString('fr') : new Date().toLocaleDateString('fr') };
@@ -191,7 +215,7 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
 <div class="card card-body user-select-all mb-4" id="contract-generated">
 <div class="sheet">
 
-Modèle de contrat de remplacement  
+Contrat de remplacement  
 en exercice libéral
 {.typography-headline-5 .text-primary .text-center}
 
@@ -209,7 +233,8 @@ MAJ 10 septembre 2020
 
 Entre
 
-<span class="contract-title-full">La docteure</span> <span class="contract-name-text">X</span> (indiquer les qualités et numéro <span id="contract-inscription-text">d'inscription au Tableau</span>)  
+<span class="contract-title-full">La docteure</span> <span class="contract-name-text">X</span>, <span class="contract-spe-text">Médecin généraliste</span>  
+N° RPPS <span class="contract-inscription-text">...</span>  
 exerçant à <span class="contract-address-text">...</span>
 
 d'une part
@@ -217,9 +242,10 @@ d'une part
 
 Et
 
-<span class="contract-title-substitute-full">Madame</span> <span class="contract-name-substitute-text">Z</span> (indiquer l'adresse et les caractéristiques de la licence de
-remplacement),  
-Immatriculé(e) à l'URSSAF, sous le n° <span id="contract-urssaf-text">...</span>
+<span class="contract-title-substitute-full">Madame</span> <span class="contract-name-substitute-text">Z</span>  
+RPPS/license: <span class="contract-inscription-substitute-text">...</span>  
+Adresse: <span class="contract-address-substitute-text">...</span>  
+SIRET: <span class="contract-urssaf-text">...</span>
 
 d'autre part
 {.text-right}
@@ -248,7 +274,7 @@ Hors le cas d'urgence, <span class="contract-title-substitute-pronoun">elle</spa
 
 **Article 2**
 
-Le présent contrat de remplacement est prévu pour une période de TODO: ... mois (ou jours) s'étendant du <span id="contract-duration-text"></span> compris.
+Le présent contrat de remplacement est prévu pour une période couvrant <span class="contract-duration-text"></span> compris.
 
 Son éventuel renouvellement est subordonné au respect des dispositions de l'article L.4131-2 du code de la santé publique.
 
@@ -289,8 +315,8 @@ En cas de participation, au cours du remplacement, à la permanence des soins am
 
 Conformément aux dispositions de l'article R.4127-66 du code de la santé publique (code de déontologie médicale), le remplacement terminé, <span class="contract-title-substitute-full">Madame</span> <span class="contract-name-substitute-text">Z</span> doit cesser toute activité s'y rapportant et transmettre les informations nécessaires à la continuité des soins.
 
-<small>2 Il serait souhaitable que la copie de cette assurance soit jointe au présent contrat</small>
-<small>3 Carte de professionnel en formation</small>
+<small>2 Il serait souhaitable que la copie de cette assurance soit jointe au présent contrat</small>  
+<small>3 Carte de professionnel en formation</small>  
 <small>4 Le taux de rétrocession d'honoraires doit être en rapport avec les charges du cabinet</small>
 
 </div>
@@ -352,7 +378,7 @@ Son renouvellement sera soumis à ces mêmes dispositions.
 
 Fait en trois exemplaires  
 (dont un pour le conseil départemental)  
-le <span id="contract-date-text">...</span>
+le <span class="contract-date-text">...</span>
 {.text-right}
 
 <div class="d-flex justify-content-between">
@@ -360,9 +386,36 @@ le <span id="contract-date-text">...</span>
   <p><span class="contract-title-substitute-full">Madame</span> <span class="contract-name-substitute-text">Z</span></p>
 </div>
 
-<small>6 Les parties peuvent renoncer à cette modalité de l'arbitrage et, dans ce cas, il suffit de supprimer la mention de l'amiable composition.</small>
-
+<small>6 Les parties peuvent renoncer à cette modalité de l'arbitrage et, dans ce cas, il suffit de supprimer la mention de l'amiable composition.</small>  
 <small>7 Les parties peuvent renoncer à cette modalité de l'arbitrage et, dans ce cas, il suffit de supprimer la mention de l'amiable composition.</small>
+
+</div>
+<div class="sheet">
+
+### Déclaration de remplacement<br>en exercice libéral {.text-uppercase .text-center .my-5}
+
+Dans le cadre du contrat signé le <span class="contract-date-text">...</span>
+
+<span class="contract-title-full">La docteure</span> <span class="contract-name-text">X</span>, <span class="contract-spe-text">Médecin généraliste</span>  
+N° RPPS <span class="contract-inscription-text">...</span>  
+exerçant à <span class="contract-address-text">...</span>
+
+Demande l'autorisation de se faire remplacer
+{.typography-headline-6 .text-uppercase}
+
+<span class="contract-duration-text"></span>
+
+Par
+
+<span class="contract-title-substitute-full">Madame</span> <span class="contract-name-substitute-text">Z</span>  
+RPPS/license: <span class="contract-inscription-substitute-text">...</span>  
+Adresse: <span class="contract-address-substitute-text">...</span>  
+SIRET: <span class="contract-urssaf-text">...</span>
+
+<div class="d-flex justify-content-between mt-5">
+  <p class="font-weight-bold"><span class="contract-title-full">La docteure</span> <span class="contract-name-text">X</span></p>
+  <p class="font-weight-bold"><span class="contract-title-substitute-full">Madame</span> <span class="contract-name-substitute-text">Z</span></p>
+</div>
 
 </div>
 </div>

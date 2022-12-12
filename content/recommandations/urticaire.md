@@ -17,16 +17,17 @@ sctid = "126485001"
 flowchart = true
 image = true
 imageSrc = "Urticaire superficielle. Photo de woofiegrrl sur Foter.com / CC BY-ND"
-todo = "KEY urticaire aiguë, omalizumab, sources à lire, gs, enfant, choc anaphyla, Quincke, https://onlinelibrary.wiley.com/doi/full/10.1111/all.13397, https://www.dropbox.com/sh/9ivszpuwnxdp4t8/AAB04JahlYn6qounsCr-dQKwa/2019?dl=0&preview=Grille+capacit%C3%A9+urticaire+physique+Q4.docx&subfolder_nav_tracking=1, fiche, https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2488.pdf"
+todo = "SEO, KEY urticaire aiguë, omalizumab, sources à lire, gs, enfant, choc anaphyla, Quincke, https://onlinelibrary.wiley.com/doi/full/10.1111/all.13397, https://www.dropbox.com/sh/9ivszpuwnxdp4t8/AAB04JahlYn6qounsCr-dQKwa/2019?dl=0&preview=Grille+capacit%C3%A9+urticaire+physique+Q4.docx&subfolder_nav_tracking=1, fiche, https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2488.pdf"
 +++
 
 {{%article-summary%}}
 
-- Signes de gravité  
+- Signes de gravité d'une urticaire  
   Dysphonie, hyper-salivation et troubles de la déglutition.
 - Pas de corticoïdes par effet rebond
-- Traitement par antihistaminique anti-H1 seul
-- Bilan uniquement en urticaire chronique résistant
+- Traitement de l'urticaire par antihistaminique anti-H1 seul
+- Bilan uniquement en cas d'urticaire chronique résistant
+- [Fiche info patient SFD sur l'urticaire (PDF)](https://www.sfdermato.org/upload/fiche/tryptique-urticaire-couleur-96f22adbd8100bd76e000f4a6ea2c306.pdf)
 - **Une** urticaire et un **é**dème {{%class%}}(œdème){{%/class%}}
 - Pour l'enfant, lire [PAP Urticaire aiguë de l'enfant](https://pap-pediatrie.fr/urticaire-aigue-de-lenfant)
 
@@ -38,7 +39,7 @@ Urticaire
 : Réaction inflammatoire générée par la libération d'histamine par activation des mastocytes lors de leur rencontre avec un antigène.  
 Le plus souvent l'activation est non spécifique et donc non allergique. Rarement par IgE dirigées contre un antigène = urticaire immunologique pouvant déclencher une anaphylaxie.
 : Le plus souvent épisode unique et résolutif sans cicatrice ni lésion de grattage.
-: Vient d'"urtica", ortie en latin.
+: Vient d'<< urtica >>, ortie en latin.
 
 Urticaire superficielle
 : Œdème **dermique uniquement**.

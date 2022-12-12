@@ -213,6 +213,11 @@ Traitement de la cause et des facteurs aggravants le prurit.
 Substitution d'un traitement suspect.
 
 {{% /collapse %}}
+{{%collapse "FMC gratuite" %}}
+
+{{< card-link-external title="Tout savoir sur les démangeaisons" url="https://www.fun-mooc.fr/fr/cours/tout-savoir-sur-les-demangeaisons/" subtitle="par l'Université de Bretagne Occidentale">}}
+
+{{% /collapse %}}
 {{%collapse "Conduite à tenir" "show" %}}
 
 {{< mermaid title="Prise en charge d'un prurit. Dr JB Fron d'après CEDEF 2021" >}}
@@ -228,7 +233,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège des enseignants de dermatologie de France (CEDEF). Prurit. Item 116. 2021.](https://cedef.org/enseignement)
+- Collège des enseignants de dermatologie de France (CEDEF). Prurit. Item 116. 2021.
 - Prescrire Rédaction. Prurit lié à une affection cutanée et antihistaminiques H1 oraux. Février 2019.
 - [CEDEF. Prurit. Item 113 UE 4. 2017.](https://undf.cedef.org/fr/document/Prurit_r%C3%A9f%C3%A9rentiel-CEDEF)
 - [Dermato-info. Le prurit et le prurigo.](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-prurit-et-le-prurigo)

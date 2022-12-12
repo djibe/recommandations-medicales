@@ -9,8 +9,8 @@ date = 2020-09-01T22:39:41+02:00
 publishdate = "2020-09-01"
 lastmod = "2022-10-27"
 specialites = ["dermatologie"]
-annees = "2017"
-sources = ["CEDEF"]
+annees = "2021"
+sources = ["CEDEF", "CMIT"]
 tags = ["VIH"]
 anglais = ["Seborrheic dermatitis"]
 sctid = "50563003"
@@ -22,7 +22,7 @@ imageSrc = "Dermatite séborrhéique du visage, Roymishali, CC BY-SA 3.0, via Wi
 {{%article-summary%}}
 
 - Le diagnostic de dermatite séborrhéique est clinique
-- Prise en charge de la dermatite séborrhéique par ciclopirox ou kétoconazole
+- Prise en charge de la dermatite séborrhéique par ciclopirox olamine ou kétoconazole
 - Dépister le [VIH]({{< relref "vih-sida.md" >}}) si dermatite séborrhéique récente, extensive ou résistante
 
 Chapitres liés: [acné]({{< relref "acne.md" >}}), [eczéma]({{< relref "dermatite-atopique.md" >}}), [rosacée]({{< relref "rosacee.md" >}})
@@ -110,7 +110,7 @@ Prise en charge par un **traitement d'attaque** pendant 2 à 4 semaines puis **t
 #### Face et thorax
 
 Kétoconazole gel moussant ou crème 2% x 2/sem pendant 4 semaines  
-OU ciclopirox crème 1% x 2/j pendant 4 semaines
+OU ciclopirox olamine crème 1% x 2/j pendant 4 semaines
 {.alert .alert-info}
 
 Puis application 2-4/mois.
@@ -119,17 +119,17 @@ Puis application 2-4/mois.
 
 Shampooing antipelliculaire en alternance avec shampooing doux.
 
-[Ciclopirox](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60655327&typedoc=R) (Sebiprox®, gén) shampooing 1,5% 2-3/sem  
+[Ciclopirox olamine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60655327&typedoc=R) (Sebiprox®, gén) shampooing 1,5% 2-3/sem  
 OU [kétoconazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66227874&typedoc=R) (Ketoderm®, gén) gel moussant 2% 2/sem
 {.alert .alert-info}
 
 **Effets indésirables:** prurit, sensation de brûlure, xérose cutanée, interactions médicamenteuses.  
 Seul le kétoconazole topique peut être utilisé [pendant la grossesse](https://lecrat.fr/spip.php?page=article&id_article=494).
 
-Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine (ex DOP antipelliculaire), pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
+Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine (ex: *DOP antipelliculaire*), pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
 
 {{%warning%}}
-**Ne pas utiliser:**
+**Ne pas utiliser sur la dermatite séborrhéique:**
 
 - Dermocorticoïdes  
   Ou sur de très courtes périodes.
@@ -184,12 +184,10 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales. Item 111. 2021.
+- [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. UE6 Item 152. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-152-nb.pdf)
 - Prescrire Rédaction. Dermatite séborrhéique chez un adulte. Août 2020.
-- [CEDEF. Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
-- [CEDEF. Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 UE 6. 2017. (PDF)](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2486.pdf)
-
-### À lire
-
-[Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales. Item 111. 2021.](https://cedef.org/enseignement)
+- [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
+- [Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 UE 6. 2017. (PDF)](https://document.cedef.org/enseignement/em-consulte/2017/pdf/ANNDER-2486.pdf)
 
 {{%/sources%}}
