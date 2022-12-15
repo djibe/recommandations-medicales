@@ -6,17 +6,17 @@ synonyms = ["Malaria"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T12:42:00+02:00"
 publishdate = "2021-02-17"
-lastmod = "2022-08-21"
+lastmod = "2022-12-12"
 specialites = ["infectiologie"]
-annees = "2022"
-sources = ["MinSanté", "HCSP", "Pasteur"]
+annees = "2018"
+sources = ["SPILF", "MinSanté", "HCSP"]
 tags = ["fievre", "vaccin", "voyage"]
 anglais = ["Malaria"]
 sctid = "61462000"
 slider = true
 image = true
 imageSrc = "Moustique du paludisme. Culicidae, Anopheles sp. Photo de Techuser sur Foter.com / CC BY-NC-ND"
-todo = "ttt ambulatoire accès palustre, http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/028.pdf, http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5222.pdf"
+todo = "Prescrire, SPF, protection moustiques BEH, ttt ambulatoire accès palustre"
 +++
 
 {{%article-summary%}}
@@ -24,17 +24,19 @@ todo = "ttt ambulatoire accès palustre, http://medecinetropicale.free.fr/cours/
 *Le traitement de l'accès palustre n'est pas encore abordé*
 
 - Toute fièvre dans les 3 mois suivant le retour de voyage est un paludisme jusqu'à preuve du contraire
-- Toute suspicion de paludisme est une urgence diagnostique et thérapeutique
+- Toute suspicion de paludisme est une **urgence** diagnostique et thérapeutique
 - [Maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
 - Les séjours en zones d'endémie palustre sont déconseillés en cours de grossesse (*CRAT*)
-- Voyage tropical: protection contre les moustiques et chimioprophylaxie
+- Voyage tropical: protection contre les moustiques et chimioprophylaxie médicamenteuse
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Paludisme
-: de l'ancien français << palus >> (marécage) ou aussi malaria, littéralement << mauvais air >>
-: Maladie infectieuse due au parasite du genre *Plasmodium* (*Plasmodium falciparum* surtout voire *P. vivax*, *P. malariae*, *P. ovale* ou *P knowlesi*) transmise par les moustiques *Anophèles*.
+: de l'ancien français << palus >> (marécage) ou aussi malaria, littéralement << mauvais air >>.
+: Maladie infectieuse due au parasite du genre *Plasmodium* (*Plasmodium falciparum* surtout voire *P. vivax*, *P. malariae*, *P. ovale* ou *P knowlesi*) transmise par les moustiques femelles du genre *Anopheles* (piqûres de 23 à 6h).
+: Première endémie mondiale, la moitié de la population mondiale vit en zone d'endémie.
+: Absence de transmission sous 18°C.
 
 ### Abréviations
 
@@ -51,18 +53,33 @@ PPAV
 : protection personnelle anti-vectorielle (PPAV = protection contre les piqûres de moustiques)
 {.dl-inline}
 
+### Diagnostic différentiel
+
+Un accès palustre doit être éliminé avant d'étayer les autres causes de fièvre au retour de voyage:
+
+- Salmonelloses
+- Arboviroses
+- Hépatites virales
+- Amœbose hépatique
+- Helminthoses
+- Bactérioses cosmopolites
+
 ### Épidémiologie du paludisme en France
 
-- Incidence: 4000 cas/an (importés)  
-  95% contractés en Afrique subsaharienne et 90% par *Plasmodium falciparum*
+- Incidence: 5500-6000 cas/an (importés, *CNR*)  
+  95% contractés en Afrique subsaharienne et 90% par *Plasmodium falciparum*, sans diminution
 - Décès en France: 10 à 20/an
 
 L'Afrique subsaharienne comptabilise 90% des cas mondiaux.
 
+{{< card-link-external title="Malaria Atlas Project" subtitle="Données sur le paludisme" url="https://data.malariaatlas.org/">}}
+
 {{% /collapse %}}
 {{%collapse "Signes de gravité du paludisme" %}}
 
-Accès palustres graves: seuls *Plasmodium falciparum* (> 90% des diagnostics en France) et *Plasmodium knowlesi*
+TODO: revoir SPILF 2018
+
+Accès palustres graves principalement liés à *Plasmodium falciparum* (+90% des diagnostics en France) voire *Plasmodium knowlesi*.
 
 Appel du 15 en cas de signes gravité devant une suspicion d'accès palustre:
 
@@ -78,27 +95,52 @@ Appel du 15 en cas de signes gravité devant une suspicion d'accès palustre:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Délai d'incubation du paludisme:
+> << Toute fièvre dans les 3 mois suivant le retour d'une zone d'endémie est un paludisme jusqu'à preuve du contraire >> (*Anofel 2022*)
+{.alert .alert-warning}
+
+L'incubation du paludisme est asymptomatique et dure:
 
 - Minimum 7 jours pour *P. falciparum*, 10 à 15 jours pour les autres
 - Maximum 2 mois pour *P. falciparum*, 3 ans *P. vivax* et *ovale*, plus de 10 ans pour *P. malariae*.
 
-Signes d'**anémie hémolytique fébrile**:
+Signes et symptômes de l'accès palustre simple de l'adulte, tableau pseudo-grippal au retour de **voyage**:
 
-- Accès de fièvre intermittente (rarement stéréotypée tierce/quarte)
-- Frissons, sueurs
-- Céphalées
-- Myalgies
+- **Syndrome pseudo-grippal**
+  - Fièvre brutale ± intermittente (rarement stéréotypée tierce/quarte)
+  - Frissons, sueurs
+  - Céphalées
+  - Myalgies
 - Troubles digestifs  
-  Nausées, vomissements, diarrhées.
-- Ictère
-- Splénomégalie après un certain temps
-  
-{{% /collapse %}}
-{{%collapse "Indications à la prophylaxie palustre selon le pays de destination" %}}
+  Douleurs abdominales, nausées, vomissements, diarrhées.
+- Examen clinique normal (neurologique ++)
 
-Grossesse: séjour en zone d'endémie déconseillé (*CRAT*)
-{.alert .alert-warning}
+Après quelques jours, tableau d'**anémie hémolytique fébrile**:
+
+- Ictère, urines foncées
+- Hépatomégalie (enfant surtout)
+- [Splénomégalie]({{< relref "splenomegalie.md" >}})
+
+> << Toute convulsion fébrile chez un enfant au retour d'une zone d'endémie palustre doit faire évoquer un accès palustre grave >> (*Anofel 2022*)
+
+Chez l'enfant, se méfier d'un tableau clinique à prédominance digestive.
+
+### Accès palustre simple à fièvre périodique
+
+Dans les suites d'une primo-infection non traitée: fièvre tierce ou quarte.
+
+Épisode fébrile vespéral quotidien (*P. knowlesi*), tous les 2 (*P. vivax* ou ov*ale) 3 jours (*P. malariae*) avec triade successive:
+
+1. Frissons intenses pendant 1 heure
+2. Fièvre élevée pendant 3-4 heures
+3. Sueurs profuses pendant 2-4 heures avec sensation de bien-être
+
+Le tableau d'anémie hémolytique (splénomégalie) s'aggrave progressivement.
+
+{{% /collapse %}}
+{{%collapse "Indication à la prophylaxie palustre selon le pays de destination" %}}
+
+> Les séjours en zones d'endémie palustre sont déconseillés durant la grossesse (*CRAT*)
+{.alert .alert-info}
 
 Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité d'un traitement préventif contre le paludisme.
 
@@ -108,9 +150,6 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 
 {{< card-link-external title="Vaccins recommandés et conseils médicaux par destination" url="https://www.pasteur-lille.fr/vaccinations-voyages/" subtitle="Pasteur Lille" image="pasteur" >}}
 
-> Les séjours en zones d'endémie palustre sont déconseillés durant la grossesse (*CRAT*)
-{.alert .alert-info}
-
 ### Indication à la chimioprophylaxie antipaludique selon le type de voyage
 
 - Séjour << conventionnel >>  
@@ -119,10 +158,12 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
   Routards, militaires, séjour improvisé, mission humanitaire ou une exploration scientifique.  
   1 ou + parmi: durée supérieure à un mois, nombre élevé de nuitées en zone rurale, hébergements précaires (tente, habitations non protégées), périple pendant la saison des pluies ou dans une région de forte transmission palustre.
 
+**NB.** Absence de transmission sous 18°C.
+
 {{% /collapse %}}
 {{%collapse "Molécules en prévention du paludisme" %}}
 
-La prophylaxie anti-palustre n'élimine pas complètement le risque infectieux
+La prophylaxie anti-palustre (chimioprophylaxie médicamenteuse) n'élimine pas complètement le risque infectieux
 {.alert .alert-warning}
 
 <div class="card card-body mb-4">
@@ -317,5 +358,12 @@ Ensuite débuter 3 jours avant l'entrée dans la zone à risque.
 - Anofel. Parasitoses et mycoses. Réussir son DFASM. 2022.
 - [Institut Pasteur. Recommandations générales - Prévention du paludisme.](https://www.pasteur.fr/fr/centre-medical/vaccination/recommandations-generales#prvention-du-paludisme)
 - [CMIT. Paludisme. UE6 Item 166. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-166-nb.pdf)
+
+### À lire
+
+- [Bouchaud O. et al. Prise en charge et prévention du paludisme d'importation - Mise à jour 2018 des RPC 2007. Médecine et Maladies Infectieuses. 2020.](https://www.sciencedirect.com/science/article/pii/S0399077X19310613)
+- [Egmann G. et al; SFMU. Accès palustres : diagnostic et traitement. 2014. (PDF)](https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/028.pdf)
+- [Omedit Centre. Traitement des accès à Plasmodium falciparum de l'adulte. 2015. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5222.pdf) et de [l'enfant](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5223.pdf)
+- [Aubry P., Gaüzère BA. Conseils de santé sur le paludisme pour les voyageurs et leurs familles. Médecine Tropicale. 2014. (PDF)](http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf)
 
 {{%/sources%}}
