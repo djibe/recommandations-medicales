@@ -607,7 +607,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 - J. Rehm, Section of Cancer Surveillance, International Agency for Research on Cancer, Lyon, France
 - Risque vie-entière d'un décès attribuable à l'alcool en France chez les femmes/hommes
 - Prescrire
-- [Palle C; OFDT. Les évolutions de la consommation d'alcool en France et ses conséquences 2000-2018. (PDF)](https://www.ofdt.fr/BDD/publications/docs/TabAlcool2000-2018.pdf)
+- [OFDT. La consommation d'alcool et ses conséquences en France en 2021. 2022](https://www.ofdt.fr/publications/collections/bilans/la-consommation-dalcool-et-ses-consequences-en-france-en-2021/)
 - [Barrault C. Sevrage en alcool et maladies chroniques du foie. POST'U. 2020.](https://www.fmcgastro.org/texte-postu/postu-2020-paris/sevrage-en-alcool-et-maladies-chroniques-du-foie/)
 - [Le CMG. Addictions en médecine générale.](https://lecmg.fr/addictionsmg/)
 

@@ -1,5 +1,6 @@
 {{ $image := "" }}
 {{ $imageURL := "" }}
+{{ $external := false }}
 {{ if (.Get "image") }}
   {{ if eq (.Get "image") "ministere" }}
     {{ $image = "ministere.webp" }}
@@ -7,14 +8,16 @@
     {{ $image = "pasteur.webp" }}
   {{ else }}
     {{ $image = .Get "image" }}
+    {{ $external = true }}
   {{ end }}
   {{ $imageURL = printf "/images/logos/%s" $image }}
 {{ else }}
   {{ $imageURL = printf "/images/logos/external.svg" }}
+  {{ $external = true }}
 {{ end }}
 
 <div class="card card-body card-primary-action rounded-lg d-inline-flex flex-row mw-248 mb-4 {{ with .Get "class" }}{{ . }}{{ end }}">
-  <img class="mr-4 card-icon rounded-circle svg-primary" src="{{ $imageURL }}" aria-hidden="true" {{with .Get "subtitle" }}alt="Logo de {{.}}"{{else}}alt=""{{end}} loading="lazy" decoding="async">
+  <img class="mr-4 card-icon rounded-circle {{ if $external }}svg-primary{{ end }}" src="{{ $imageURL }}" aria-hidden="true" {{with .Get "subtitle" }}alt="Logo de {{.}}"{{else}}alt=""{{end}} loading="lazy" decoding="async">
   <div>
     <h3 class="typography-body-2 font-weight-bold"><a href="{{ .Get "url" }}" rel="external nofollow noopener" class="stretched-link text-reset">{{ .Get "title" }}</a></h3>
     {{ with .Get "subtitle" }}<h4 class="typography-body-2 mb-0">{{ . }}</h4>{{ end }}

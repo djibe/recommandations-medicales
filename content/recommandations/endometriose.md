@@ -9,7 +9,7 @@ publishdate = "2021-04-05"
 lastmod = "2022-11-14"
 specialites = ["gynecologie-obstetrique"]
 annees = "2018"
-sources = ["ACOG", "CNGOF", "HAS"]
+sources = ["ACOG", "HAS", "CNGOF"]
 tags = ["contraception", "douleur pelvienne"]
 anglais = ["Endometriosis"]
 sctid = "129103003"
@@ -272,7 +272,7 @@ Mise en place en cours des [Centres experts de l'endométriose](https://www.endo
 {{< youtube id="Pq_oTiL4yYo" title="Péri-ménopause et endométriose (Dr Louis Marcellin)" >}}
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant une endométriose" "show" %}}
+{{%collapse "Prise en charge de l'endométriose" "show" %}}
 
 {{< mermaid title="Conduite à tenir et prise en charge d'une suspicion d'endométriose. Dr JB Fron d'après ACOG 2018 et CNGOF/HAS 2017" >}}
 graph TB
@@ -313,8 +313,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+{{< card-link-external title="Endométriose : l'affaire de tous" url="https://endometriose-affairedetous.com" subtitle="CNGOF, ARS IDF, PNS-MOOC">}}
+
 - [ACOG. Dysmenorrhea and Endometriosis in the Adolescent. 2018.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/12/dysmenorrhea-and-endometriosis-in-the-adolescent)
-- [CNGOF, ARS IDF, PNS-MOOC. Endométriose : l'affaire de tous. Mai 2021.](https://endometriose-affairedetous.com/)
 - Prescrire Rédaction. Endométriose douloureuse. En absence de projet de grossesse : paracétamol et AINS, voire estroprogestatif ou DIU au lévonorgestrel. Prescrire. 2019.
 - [Inserm. Endométriose. Dossiers d'information. 11/12/2018.](https://www.inserm.fr/information-en-sante/dossiers-information/endometriose)
 - [HAS, CNGOF. Prise en charge de l'endométriose. Recommandation de bonne pratique. Décembre 2017.](https://www.has-sante.fr/jcms/c_2819733/fr/prise-en-charge-de-l-endometriose)

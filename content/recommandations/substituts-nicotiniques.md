@@ -16,7 +16,7 @@ anglais = ["Product containing only nicotine"]
 sctid = "776904000"
 image = true
 imageSrc = "La journée mondiale sans tabac par Freepik"
-todo = "SEO 'liste des substituts nicotiniques remboursables par l'assurance maladie'"
+todo = "SEO 'liste des substituts nicotiniques remboursables par l'assurance maladie', 'substitut nicotinique remboursé'"
 +++
 
 ## Les substituts nicotiniques remboursés pour le sevrage tabagique {.typography-headline-5}

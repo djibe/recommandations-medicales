@@ -16,7 +16,7 @@ anglais = ["Chronic diarrhea", "chronic diarrhoea"]
 sctid = "236071009"
 image = true
 imageSrc = "Illustration des diarrhées chroniques par brgfx / Freepik"
-todo = "SeHCAT, FODMAPs"
+todo = "SEO, SeHCAT, FODMAPs"
 +++
 
 {{%article-summary%}}

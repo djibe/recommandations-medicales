@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-11-21T14:11:22+01:00"
 publishdate = "2022-12-01"
-lastmod = "2022-12-04"
+lastmod = "2022-12-16"
 specialites = ["addictologie"]
 annees = "2019"
 sources = ["HAS", "HCSP", "INCa"]
@@ -119,6 +119,12 @@ const chartOptions = {
 
 ### Abréviations
 
+CNGOF
+: Collège national des gynécologues et obstétriciens français
+
+HCSP
+: Haut Conseil de la santé publique.
+
 SEDEN
 : systèmes électroniques de délivrance de la nicotine (ou cigarette électronique)
 
@@ -126,7 +132,11 @@ TCC
 : thérapie cognitive et comportementale
 
 TNS
-: traitement nicotinique de substitution ({{%lang%}}nicotine replacement therapy - NRT{{%/lang%}})
+: traitement nicotinique de substitution ({{%lang%}}nicotine replacement therapy - NRT{{%/lang%}}) ou traitements de substitution
+nicotinique (TSN)
+
+SFT
+: Société Francophone de Tabacologie
 {.dl-inline}
 
 ### Complications du tabac
@@ -150,7 +160,7 @@ Complications du tabagisme:
 - Tabagisme passif
   - IDM, AVC (x2), cancer du poumon (+25% si conjoint fume) ou maladie respiratoire, cancer des sinus
   - Nourrisson: mort subite x2
-  - Enfant: otites, asthme, pneumopathie
+  - Enfant: otites, [asthme]({{< relref "asthme.md" >}}), pneumopathie
 
 Autres maladies avec sur-représentation de fumeurs: [Algies vasculaires de la face]({{< relref "algie-vasculaire-face.md" >}}), [maladie de Verneuil]({{< relref "maladie-verneuil.md" >}}), gastrite, ulcère gastro-duodénal, cataracte.
 
@@ -353,36 +363,36 @@ Possible en cas d'antécédents neuro-psychiatriques.
 {{% /collapse %}}
 {{%collapse "Place de la cigarette électronique" %}}
 
-Injonctions paradoxales pour le généraliste: << Les connaissances fondées sur les preuves sont insuffisantes pour proposer les SEDEN comme aides au sevrage tabagique dans la prise en charge des fumeurs par les professionnels de santé >> (*HCSP 2021*)  
+Injonctions paradoxales pour le généraliste: << Les connaissances fondées sur les preuves sont insuffisantes pour proposer les SEDEN comme aides au sevrage tabagique dans la prise en charge des fumeurs par les professionnels de santé >> (*HCSP 2022*)  
 et << La cigarette électronique peut être considérée comme une aide au sevrage tabagique (*Collège*) >>
 {.alert .alert-info}
 
 Synthèse des 13 recommandations du *Haut Conseil de la Santé Publique* pour la prise en charge par cigarette électronique (SEDEN) du sevrage tabagique (les 5 premières nous concernent):
 
 1. Utiliser les traitements ayant prouvé leur efficacité.  
-  Les cigarettes électroniques ont un niveau de preuve insuffisant.
-1. L'absence de preuves n'exclut pas que le rapport bénéfices/risques puisse être favorable pour la santé de certains consommateurs.
-2. Son utilisation est déconseillée pendant la grossesse. Recourir aux substituts nicotiniques.
-3. La cigarette électronique pourrait être utilisée pour certaines personnes vulnérables (co-addiction, comorbidités, facteurs sociaux) fortement dépendants ayant une faible adhésion aux traitements validés.
-4. Nécessité de la mise en place d'un système de << vapovigilance >>  
-  Accessible sur [Signalement-Santé](https://signalement.social-sante.gouv.fr) > Vous êtes un professionnel de santé > Vapotage & pneumopathie.
-1. Interdiction de vente aux mineurs.  
-  L'initiation au tabac au travers de la cigarette électronique est documentée.
-1. Maintien des mesures réglementaires pour en limiter l'attractivité et l'accessibilité.
-2. Élaborer des recommandations d'utilisation selon les analyses de l'Anses
-3. Informer la population:
+   Les cigarettes électroniques ont un niveau de preuve insuffisant.
+2. L'absence de preuves n'exclut pas que le rapport bénéfices/risques puisse être favorable pour la santé de certains consommateurs.
+3. Son utilisation est déconseillée pendant la grossesse. Recourir aux substituts nicotiniques.
+4. La cigarette électronique pourrait être utilisée pour certaines personnes vulnérables (co-addiction, comorbidités, facteurs sociaux) fortement dépendants ayant une faible adhésion aux traitements validés.
+5. Nécessité de la mise en place d'un système de << vapovigilance >>  
+   Accessible sur [Signalement-Santé](https://signalement.social-sante.gouv.fr) > Vous êtes un professionnel de santé > Vapotage & pneumopathie.
+6. Interdiction de vente aux mineurs.
+   L'initiation au tabac au travers de la cigarette électronique est documentée.
+7. Maintien des mesures réglementaires pour en limiter l'attractivité et l'accessibilité.
+8. Élaborer des recommandations d'utilisation selon les analyses de l'Anses
+9. Informer la population:
     1. Les bénéfices et risques à long terme ne sont pas connus
     2. Le sevrage tabagique est recommandé avec l'aide d'un professionnel et des traitements ayant prouvé leur efficacité
     3. L'arrêt du tabac est important lors du recours aux SEDEN pour le sevrage tabagique
     4. Le double tabagisme avec cigarette et cigarette électronique (vapofumage) est formellement déconseillé dans toutes les situations
     5. Par principe de précaution, il est recommandé de ne pas réaliser soi-même les mélanges ({{%lang%}}<< do it yourself >>{{%/lang%}})
     6. Un dispositif de signalement des symptômes, problèmes et maladies existe
-4.  Il est recommandé que les interventions d'éducation à la santé pour les adolescents reprennent ces éléments
-5.  Des études cliniques bien conduites sont nécessaires
-6.  Des études de cohorte sont nécessaires pour analyser le rôle initiateur des SEDEN
-7.  Les connaissances sur le rôle des saveurs sur l'attractivité des jeunes doivent être analysées
+10. Il est recommandé que les interventions d'éducation à la santé pour les adolescents reprennent ces éléments
+11. Des études cliniques bien conduites sont nécessaires
+12. Des études de cohorte sont nécessaires pour analyser le rôle initiateur des SEDEN
+13. Les connaissances sur le rôle des saveurs sur l'attractivité des jeunes doivent être analysées
 
-> *HCSP 2021*, **SEDEN** = systèmes électroniques de délivrance de la nicotine
+> *HCSP 2022*, **SEDEN** = systèmes électroniques de délivrance de la nicotine
 
 Pour en savoir plus, regarder le webinaire SPLF dans la section suivante (*Pour en savoir plus*).
 
@@ -440,8 +450,9 @@ graph TB
 - [Santé Publique France. Tabac.](https://www.santepubliquefrance.fr/determinants-de-sante/tabac)
 - [INCa. Panorama des cancers en France - Édition 2022.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Panorama-des-cancers-en-France-Edition-2022)
 - Prescrire Redaction. Consommation et arrêt du tabac. Premiers choix Prescrire. 2022.
-- [Haut Conseil de la santé publique (HCSP). Avis relatif aux bénéfices-risques de la cigarette électronique. 2021.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1138)
+- [Haut Conseil de la santé publique (HCSP). Avis relatif aux bénéfices-risques de la cigarette électronique. 2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1138)
 - [Collège des enseignants de pneumologie. Addiction au tabac. Item 75. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/11/item_75_Tabac_2021_ex_item_73.pdf)
+- [CNGOF, SFT. Prise en charge du tabagisme en cours de grossesse (texte court). 2020. (PDF)](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2020%252FRPC-CNGOF-tabagisme-grossesse.pdf)
 - [HAS. Sevrage tabagique : des outils pour repérer et accompagner les patients. Article. 2019.](https://www.has-sante.fr/jcms/pprd_2974738/fr/sevrage-tabagique-des-outils-pour-reperer-et-accompagner-les-patients#:~:text=La%20HAS%20propose%20des%20modalit%C3%A9s,accompagner%20dans%20le%20sevrage%20tabagique)
 - [Hill C, Legoupil C. Taxation et prix du tabac en France et conséquences sur la consommation. Bull Epidémiol Hebd. 2018.](http://beh.santepubliquefrance.fr/beh/2018/14-15/2018_14-15_8.html)
 - [INCa. Arrêt du tabac dans la prise en charge du patient atteinte de cancer. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Synthese-Arret-du-tabac-dans-la-prise-en-charge-du-patient-atteint-de-cancer-Systematiser-son-accompagnement)
@@ -451,6 +462,10 @@ graph TB
 - [Association Addictions France (ex ANPAA)](https://addictions-france.org)
 - [Intervenir Addictions](https://intervenir-addictions.fr)
 - [Observatoire français des drogues et des tendances addictives (OFDT)](https://www.ofdt.fr)
+
+### À lire
+
+[OFDT. Tabagisme et arreêt du tabac en 2021. 2022.](https://www.ofdt.fr/publications/collections/bilans/tabagisme-et-arret-du-tabac-en-2021/)
 
 {{%/sources%}}
 
