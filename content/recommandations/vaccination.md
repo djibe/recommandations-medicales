@@ -15,22 +15,22 @@ anglais = ["Immunization", "vaccination"]
 sctid = "33879002"
 image = true
 imageSrc = "Illustration par Freepik"
-todo = "texte SEO, texte vaccins obligatoires , choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages, https://publications.aap.org/pediatrics/article/150/3/e2021056007/188497/Value-of-the-Immunization-Program-for-Children-in"
+todo = "Vaccins cancer, texte SEO, choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages, https://publications.aap.org/pediatrics/article/150/3/e2021056007/188497/Value-of-the-Immunization-Program-for-Children-in"
 +++
 
 {{%article-summary%}}
 
 - [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
-- Rappel vaccinal de [coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA)
-- Vaccination +16 ans par IDE et pharmaciens sans ordonnance pour: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACYW135 et la rage
-- Poser une question pour un cas vaccinal particulier: [Infovac App](https://app.infovac.fr/) (créer un compte)
+- Rappel vaccinal de [la coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA)
+- Vaccination des +16 ans par les infirmiers et pharmaciens sans ordonnance pour: grippe, dTcaPolio, pappillomavirus, pneumocoque, hépatite A et B, méningocoques B et ACYW135 et la rage
+- Poser une question pour un cas vaccinal particulier: [Infovac App](https://app.infovac.fr/) (nécessite de créer un compte)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 dTcaPolio
 : d (diphtérie) et ca (coqueluche) écrits en minuscules indiquent un dosage réduit en antigènes.  
-Ces dosages réduits ne peuvent être utilisés qu'à partir de 11 ans.
+Ces dosages réduits ne peuvent être utilisés qu'à partir de 11 ans (BoostrixTetra, Repevax).
 
 Rattrapage vaccinal
 : << Si un retard est intervenu dans le programme de vaccination, il n'est pas nécessaire de recommencer. Il suffit de reprendre ce programme au stade où il a été interrompu et de compléter la vaccination en fonction de l'âge et du nombre de doses de vaccin manquantes >> (*INPES*).
@@ -87,7 +87,7 @@ VVA
 {.alert .alert-info}
 
 {{< table title="Âges limites du rattrapage vaccinal systématique en population générale selon le Calendrier vaccinal" >}}
-| Germe        | Âge limite de rattrapage | Rattrapages spécifiques |
+| Pathologie   | Âge limite de rattrapage | Rattrapages spécifiques |
 |--------------|:------------------------:|-------------------------|
 | Coqueluche   | 39 ans                   | [Grossesse, cocooning]({{< relref "coqueluche.md" >}}) |
 | Haemophilus  | 5 ans                    | [Asplénie]({{< relref "asplenie.md" >}}) |
@@ -98,16 +98,15 @@ VVA
 | Pneumocoque  | 23 mois                  | BPCO, diabète ...       |
 | Rotavirus    | 3 mois                   |                         |
 | Rougeole<br>Oreillons<br>Rubéole | 42 ans |                       |
+| Tuberculose  | Lire [tuberculose]({{< relref "tuberculose.md" >}}) | |
 | Varicelle    | 18 ans                   | [Autour d'un cas]({{< relref "varicelle.md" >}}) |
 {{< /table >}}
-
-Pour le BCG, lire [tuberculose]({{< relref "tuberculose.md" >}}).
 
 ### Rattrapage du vaccin méningocoque B
 
 - Vaccination initiée entre 2 et 5 mois  
   2 doses espacées d'au moins 2 mois + rappel à M12-15 (min 6 mois avant la 3e dose)
-- Nourrisson de 6-11 mois  
+- Nourrisson 6-11 mois  
   2 doses espacées d'au moins 2 mois + rappel durant sa 2e année (min 2 mois entre chaque dose)
 - Nourrisson 12-23 mois  
   2 doses espacées d'au moins 2 mois + rappel à M12-23
@@ -121,7 +120,7 @@ Pour le BCG, lire [tuberculose]({{< relref "tuberculose.md" >}}).
   - Sérologie hépatite A
   - Sérologie varicelle
 
-Rattrapage ROR avec 2 doses avec minimum 1 mois d'intervale sans sérologie.
+Rattrapage *ROR* avec 2 doses espacées au minimum d'un mois sans sérologie.
 
 ### Sérologies pour le rattrapage vaccinal chez migrants primo-arrivants
 

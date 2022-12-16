@@ -244,6 +244,6 @@ Antiviral disponible en gélules indiqué chez les personnes à **risque de form
 
 - [HCSP. Mesures de prévention vis-à-vis de l'infection à Monkeypox virus. 08/07/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1230)
 - [COREB. Monkeypox - Prendre en charge les patients.](https://www.coreb.infectiologie.com/fr/prendre-en-charge-les-patients-fiches-pratiques.html)
-- [SPILF. Monkeypox: actualités mise à jour. 18/07/2022.](https://www.infectiologie.com/fr/actualites/monkeypox-actualites-mise-a-jour_-n.html)
+- [SPILF. Monkeypox: actualités mise à jour. 09/12/2022.](https://www.infectiologie.com/fr/actualites/mpox-actualites-mise-a-jour_-n.html)
 
 {{%/sources%}}

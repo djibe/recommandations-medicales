@@ -23,7 +23,7 @@ todo = "relecture Boub, vidéos"
 
 Mesures d'hygiène bucco-dentaire pour la prévention des caries:
 
-- Pas de collation matinale, grignotage ou de boissons sucrées
+- Pas de collation matinale, grignotage ou de boissons sucrées ([fiche ufsbd](http://www.ufsbd.fr/wp-content/uploads/2020/08/FICHE-grignotage_260820.pdf))
 - Brossage 2 minutes après chaque repas
 - Enfants
   - Réaliser/superviser le brossage jusqu'à 8 ans
@@ -33,7 +33,7 @@ Mesures d'hygiène bucco-dentaire pour la prévention des caries:
   \+ M'T Dents: consultation dentaire gratuite à 3, 6, 9, 12, 15, 18, 21 et 24 ans
 - Apports en fluor: selon avis du dentiste
 
-Fiche patient [soins dentaires](http://www.ufsbd.fr/wp-content/uploads/2019/02/2019-02-07-fiche-RECO-070219.pdf), [fluor](http://www.ufsbd.fr/wp-content/uploads/2020/12/Fluor_CB_260820.pdf) et [jeune enfant](http://www.ufsbd.fr/wp-content/uploads/2018/03/JEUNE-ENFANT_Fiche-profil-PDS2018_GP_vsOK.pdf)
+Fiches patient: [soins au quotidien (PDF)](https://www.ufsbd.fr/wp-content/uploads/2022/12/2022-UFSBD-fiche-conseils-patient-RECOMMANDATIONS.pdf), [fluor (PDF)](http://www.ufsbd.fr/wp-content/uploads/2020/12/Fluor_CB_260820.pdf) et [soins du jeune enfant (PDF)](http://www.ufsbd.fr/wp-content/uploads/2018/03/JEUNE-ENFANT_Fiche-profil-PDS2018_GP_vsOK.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -48,6 +48,9 @@ Fiche patient [soins dentaires](http://www.ufsbd.fr/wp-content/uploads/2019/02/2
 
 ppmF
 : parties par million de fluor
+
+ufsbd
+: Union française pour la santé bucco-dentaire
 {.dl-inline}
 
 {{% /collapse %}}

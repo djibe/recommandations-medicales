@@ -640,10 +640,9 @@ graph TB
 ### À lire
 
 - [Collège des Enseignants de Pneumologie (CEP). Bronchopneumopathie chronique obstructive (BPCO). Item 209. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_209_BPCO_2021_ex_item_2051-1.pdf)
-- [2023 GOLD summary of changes](https://goldcopd.org/wp-content/uploads/2022/11/KEY-CHANGES-GOLD-2023.pdf)
+- [GOLD. 2023 Summary of Changes (PDF)](https://goldcopd.org/wp-content/uploads/2022/12/KEY-CHANGES-GOLD-2023-2.pdf)
 
 {{%/sources%}}
-<!-- Scores -->
 {{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}
 
 {{< clinique/depistage-bpco-gold >}}

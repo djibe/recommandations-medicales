@@ -201,7 +201,7 @@ graph TB
 - [SPILF, HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'enfant. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/fiche_memo_rhinopharyngite_angine_enfant_durees_antibiotherapies.pdf)
 - [Lescanne E. et al. Amygdalectomie de l'enfant Actualisation 2020 de la recommandation SFORL & CFC. 2020.](https://www.sforl.org/wp-content/uploads/2021/11/Recommandation-SFORL-Amygdalectomie_2021.pdf)
 - [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)
-- [Collège Français d'ORL et de Chirurgie Cervico-faciale. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 146 UE6.](https://campusorl.fr/espace-etudiants/2eme-cycle-ecni/item-146-angines-de-ladulte-et-de-lenfant-et-rhinopharyngites-de-lenfant/)
+- Collège Français d'ORL et de Chirurgie Cervico-faciale. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 146 UE6.
 
 ### À lire
 

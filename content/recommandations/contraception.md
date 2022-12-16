@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2022-12-08"
+lastmod = "2022-12-16"
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -24,8 +24,8 @@ todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult 
 
 - Contraception gratuite avant 26 ans (consultation, pilule/stérilet, coter GS Exo 3 depuis le [1/1/22](https://www.service-public.fr/particuliers/actualites/A15158))
 - Seul le préservatif est efficace contre les [IST](/tags/ist/)  
-  Il sera gratuit pour les 18-25 ans en 2023.
-- [QuestionSexualité_ - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)
+  Il sera disponible gratuitement en pharmacie pour les moins de 26 ans en 2023.
+- [QuestionSexualité - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception) et [choisirsacontraception.fr](https://www.choisirsacontraception.fr/), [Annuaire des centres de santé sexuelle](https://ivg.gouv.fr/les-centres-de-sante-sexuelle.html)
 - Contraceptions très efficaces de première intention: COP, DIU, implant
 - Démarrer une contraception hormonale: débuter le *1er jour des règles*  
   ou démarrage à tout moment du cycle: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1<sup>re</sup> plaquette.
@@ -118,18 +118,18 @@ Seuls les COP contenant ≥ 50 µg d'EE sont associées au risque d'accident art
 ### Contre-indications formelles aux œstrogènes
 
 - Antécédent familial au 1<sup>er</sup> degré
-  - IDM/AVC chez homme < 55 ans ou femme < 65 ans
-  - MVTE (TVP, EP) < 50 ans  
-  Ou nombre élevé d'apparentés quelque soit le degré.
+  - Infarctus du myocarde ou AVC chez homme -55 ans ou femme -65 ans
+  - MVTE (TVP, EP) avant 50 ans  
+    Ou nombre élevé d'apparentés quelque soit le degré.
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
 - Dyslipidémie non contrôlée
-- Diabète type 1 > 20 ans ou compliqué
+- [Diabète type 1]({{< relref "diabete-type-1.md" >}}) depuis +20 ans ou compliqué
 - [Migraine avec aura]({{< relref "migraine.md" >}})
 - Migraine de novo ou aggravation des migraines sous œstroprogestatifs
 - Thrombophilie
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé{{< /modal-btn >}}
-- Antécédent personnel de cancer du sein  
-Contre-indication à toute contraception hormonale.
+- Antécédent personnel de [cancer du sein]({{< relref "cancer-sein.md" >}})  
+  Contre-indication à toute contraception hormonale.
 
 ### Œstrogènes possibles sous réserve
 
@@ -185,7 +185,7 @@ Autres contraceptions: diaphragme, capes cervicales (NR), spermicides (NR), retr
 Les générations de pilules œstroprogestatives correspondent à la date de mise sur le marché du progestatif (P3: désogestrel, gestodène et norgestimate; P4: drospirénone). **Utiliser LNG et norgestimate en première intention**, les autres progestatifs de 3<sup>e</sup> et 4<sup>e</sup> générations doublent le risque de MVTE (*HAS 2013*).  
 Pas d'arrêt brutal d'une contraception de 3-4<sup>e</sup> génération bien tolérée.
 
-Intérêt de présenter les contraceptions par *[groupe d'efficacité](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)* (plutôt que par nombre de grossesses): hormonale (pilule 2<sup>e</sup> génération, progestative, implant), DIU, contraception d'urgence et stérilisation.  
+Présenter les contraceptions par *[groupe d'efficacité](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)* (plutôt que par nombre de grossesses): hormonale (pilule 2<sup>e</sup> génération, progestative, implant), DIU, [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) et stérilisation.  
 Patch et anneau vaginal réservés en intolérance aux moyens déjà listés (sur-risque thrombo-embolique).
 Ces moyens efficaces sont **gratuits jusqu'à 25 ans révolus** (sauf patch et anneau qui ont risque de MVTE augmenté, *[Service public](https://www.service-public.fr/particuliers/actualites/A15158)*).
 
@@ -258,9 +258,9 @@ Notamment *[Chlamydia]({{< relref "chlamydia-trachomatis.md" >}})* chez les 15-2
 
 ### Première consultation contraception gratuite
 
-Pour une première consultation chez une jeune femme ou un jeune homme -26 ans, coter **CCP** (46€, une seule fois) avec TP AMO.
+Pour une première consultation chez une jeune femme ou un jeune homme -26 ans, coter **CCP** (46€, une seule fois) avec tiers payant AMO.
 
-La première consultation reprend les types de contraceptifs groupés par efficacité, leurs avantages, limites et inconvénients, la contraception d'urgence et les IST.
+La première consultation reprend les types de contraceptifs groupés par efficacité, leurs avantages, limites et inconvénients, la [contraception d'urgence]({{< relref "contraception-urgence.md" >}}) et les [IST](/tags/ist/).
 
 ### Consultation contraception gratuite avant 26 ans
 
@@ -609,7 +609,7 @@ Bénéfices similaires pour les différentes voies d'administration (orale, vagi
 - Améliore les symptômes de l'endométriose
 - Réduction des pathologies bénignes des seins et utérus
   - Fibrokystes du sein sans atypie
-  - Fibrodadénomes mammaires
+  - Fibroadénomes mammaires
   - Myomes
 - Réduction de l'incidence de la [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}) (OR 0,84)
 - [Acné]({{< relref "acne.md" >}})  
@@ -617,7 +617,7 @@ Bénéfices similaires pour les différentes voies d'administration (orale, vagi
 
 #### Bénéfices de la contraception progestative
 
-- Endométriose (en 2<sup>e</sup> intention)
+- [Endométriose]({{< relref "endometriose.md" >}}) (en 2<sup>e</sup> intention)
 - Dysménorrhée (implant, désogestrel)
 - Douleurs pelviennes chronique par congestion veineuse (implant)
 
@@ -626,12 +626,12 @@ Bénéfices similaires pour les différentes voies d'administration (orale, vagi
 - Ménorragies (traitement de référence et de prévention de l'anémie)
 - Dysménorrhée (après exploration)
 - Endométriose  
-En 1<sup>re</sup> intention en alternative à la COP et après chirurgie.
+  En 1<sup>re</sup> intention en alternative à la COP et après chirurgie.
 
 #### Bénéfices du DIU cuivre
 
 - Cancer de l'endomètre
-- Cancer du col de l'utérus
+- [Cancer du col de l'utérus]({{< relref "cancer-col-uterus.md" >}})
 
 ### Méthodes de contraception utilisées en France
 
@@ -649,7 +649,9 @@ const chartOptions = {
 {{% /collapse %}}
 {{%sources%}}
 
+- [Service-public.fr. Les préservatifs seront gratuits en pharmacie pour les moins de 26 ans dès janvier 2023. 09/12/2022.](https://www.service-public.fr/particuliers/actualites/A16208?xtor=EPR-100)
 - [HAS. Contraception : consultations initiale et de suivi. Mars 2020.](https://www.has-sante.fr/jcms/p_3122291/fr/contraception-consultations-initiale-et-de-suivi)
+- [HAS. Contraception : prescriptions et conseils aux femmes. Septembre 2019.](https://www.has-sante.fr/jcms/c_1752432/fr/contraception-prescriptions-et-conseils-aux-femmes)
 - [HAS. Contraception chez la femme à risque cardiovasculaire. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1638478/fr/contraception-chez-la-femme-a-risque-cardiovasculaire)
 - [HAS. Contraception chez la femme en post-partum. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1369193/fr/contraception-chez-la-femme-en-post-partum)
 - [HAS. Contraception : prescriptions et conseils aux femmes. Recommander les bonnes pratiques. Juillet 2019. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-02/1e_maj_contraception_prescription-conseil-femmes-060215.pdf)
@@ -659,12 +661,9 @@ const chartOptions = {
 
 ### À lire
 
-- https://www.has-sante.fr/jcms/c_1720982/fr/contraception-hormonale-orale-dispensation-en-officine
-- https://www.has-sante.fr/jcms/c_1752432/fr/contraception-prescriptions-et-conseils-aux-femmes
-- https://www.has-sante.fr/jcms/c_1752765/fr/sterilisation-a-visee-contraceptive-chez-l-homme-et-chez-la-femme
-- https://www.has-sante.fr/jcms/c_1757909/fr/contraception-chez-l-homme
-- https://www.has-sante.fr/jcms/c_1757924/fr/efficacite-des-methodes-contraceptives
-- https://www.has-sante.fr/jcms/p_3261764/fr/contraception
+- [HAS. Stérilisation à visée contraceptive chez l'homme et chez la femme. Septembre 2019.](https://www.has-sante.fr/jcms/c_1752765/fr/sterilisation-a-visee-contraceptive-chez-l-homme-et-chez-la-femme)
+- [HAS. Contraception chez l'homme. Septembre 2019.](https://www.has-sante.fr/jcms/c_1757909/fr/contraception-chez-l-homme)
+- [HAS. Efficacité des méthodes contraceptives. 2014.](https://www.has-sante.fr/jcms/c_1757924/fr/efficacite-des-methodes-contraceptives)
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
