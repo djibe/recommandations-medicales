@@ -129,6 +129,17 @@ document.addEventListener( 'DOMContentLoaded', event => {
 </script>
 {{- end -}}
 
+{{- with .Params.geochart }}
+<script src="https://www.gstatic.com/charts/loader.js" defer></script>
+<script>
+  window.addEventListener('load', () => {
+    google.charts.load('current', {'packages':['geochart']})
+    google.charts.setOnLoadCallback(drawRegionsMap)
+  })
+</script>
+
+{{- end -}}
+
 {{- with .Params.slider }}
 <script src="https://cdn.jsdelivr.net/npm/ion-rangeslider/js/ion.rangeSlider.min.js" crossorigin="anonymous" defer></script>
 <script>

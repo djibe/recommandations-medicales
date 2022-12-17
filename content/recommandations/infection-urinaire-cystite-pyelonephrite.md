@@ -300,7 +300,7 @@ Ensuite **ECBU mensuel** jusqu'à l'accouchement.
 {{%collapse "Infections urinaires de l'homme" %}}
 
 Infection urinaires masculine (IU masculine)
-: *ex prostatite*, trop réductrice (forme pauci-symptomatique, prostatite, pyélonéphrite aiguë). Symptômes évocateurs: douleurs pelviennes, périnéales, urétrales ou rectales intenses indépendantes de la miction, dysurie, rétention d'urines, douleurs lombaires, signes généraux.
+: *ex prostatite*, trop réductrice (forme pauci-symptomatique, prostatite, pyélonéphrite aiguë). Symptômes évocateurs: [douleurs pelviennes](/tags/douleur-pelvienne/), périnéales, urétrales ou rectales intenses indépendantes de la miction, dysurie, rétention d'urines, douleurs lombaires, signes généraux.
 : **Bandelette urinaire conseillée**, positive elle conforte la suspicion diagnostique (une BU négative ne permet pas d'éliminer le diagnostic).
 : Premier épisode, rechercher une uropathie: pollakiurie, miction impérieuse, diminution de la force du jet, nycturie, dysurie ou anomalie au toucher rectal.
 : Les critères d'hospitalisation sont ceux de la pyélonéphrite.

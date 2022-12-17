@@ -487,7 +487,7 @@ const chartOptions = {
 <figure class="figure-chart">
   <div id="chart2"></div>
   <figcaption><b>Figure 2.</b> Proportion de personnes diabétiques traitées pharmacologiquement ayant bénéficié des examens de suivi recommandés, France entière en 2001, 2007 et 2013. Dr JB Fron d'après <em><a href="https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/documents/article/suivi-des-examens-recommandes-dans-la-surveillance-du-diabete-en-france-en-2013" rel="external nofollow noopener">Fosse-Edorh 2015</a></em> et <a href="https://www.santepubliquefrance.fr/maladies-et-traumatismes/diabete/articles/etude-entred-2001-2003" rel="external nofollow noopener">Entred 2001-2003</a>.<br>
-  <b>Légende:</b> &ge; 1 examen réalisé dans l'année pour chaque item (3 pour l'HbA<sub>1c</sub>)</figcaption>
+  <b>Légende:</b> Au moins 1 examen réalisé dans l'année pour chaque item (3 pour l'HbA<sub>1c</sub>)</figcaption>
 </figure>
 
 <script>

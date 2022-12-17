@@ -111,7 +111,8 @@ Les symptômes du cancer du col de l'utérus sont tardifs et témoignent d'une m
 
 - Métrorragies ± provoquées
 - Leucorrhées
-- Dyspareunies et douleurs pelviennes
+- Dyspareunies
+- [Douleurs pelviennes](/tags/douleur-pelvienne/)
 - Dysurie
 - Douleurs lombaires
 - Voire œdèmes des membres inférieurs et névralgie crurale si évoluée

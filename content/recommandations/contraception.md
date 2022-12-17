@@ -516,33 +516,36 @@ En traitement prolongé, utiliser une contraception non hormonale.
   Étoricoxib, atorvastatine, antifongique azolé (kétoconazole...), bocéprévir.
 
 {{% /collapse %}}
-{{%collapse "Contraception et cancer" %}}
+{{%collapse "Contraception et cancers" %}}
 
 > Il n'est pas retrouvé d'augmentation de l'incidence ou de la mortalité par cancer (tous confondus) chez les utilisatrices de contraception (*CNGOF 2018*)
 
-Utilisation de contraception œstroprogestative:
+### Contraception œstroprogestative et cancers
+
+Modifications des risques de cancers liées à l'utilisation d'une contraception œstroprogestative:
 
 - Augmentation de l'incidence  
   Modérée du risque du **cancer du sein** avec une COP, qui diminue après l'arrêt de la contraception hormonale.
-- Diminution de l'incidence  
-  Prolongée après l'arrêt.
-  - Cancer de l'endomètre
+- Diminution de l'incidence (prolongée après l'arrêt)
+  - [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}})
   - Cancer de l'ovaire
   - Hémopathies malignes
   - [Cancer colorectal]({{< relref "cancer-colorectal.md" >}})
 
-DIU au LNG: réduction des cancers de l'endomètre et de l'ovaire.
+### Contraception par stérilet hormonal et cancers
 
-<< Les bénéfices en terme contraceptifs sont supérieurs aux risques >> (*CNGOF 2018*). Ces informations doivent être délivrées aux patientes et ne modifient pas la participation aux dépistages des cancers.
+Le DIU au LNG réduit les cancers de l'endomètre et de l'ovaire.
+
+> << Les bénéfices en terme contraceptifs sont supérieurs aux risques >> (*CNGOF 2018*). Ces informations doivent être délivrées aux patientes et ne modifient pas la participation aux dépistages des cancers.
 
 #### Contraception et cancer en cours de traitement
 
 Délai minimal conseillé de 6-12 mois après la fin du traitement pour envisager une grossesse (souvent plus). Une contraception est nécessaire au long du traitement et choisie selon le risque d'interactions.
 
 - Immunodépression  
-Le risque d'IST fait préférer le préservatif, le DIU LNG (avec recherche préalable de gonocoque/*Chlamydia*).
+  Le risque d'IST fait préférer le préservatif, le DIU LNG (avec recherche préalable de gonocoque/*Chlamydia*).
 - Vomissements  
-Préférer implant, préservatif (voire patch, anneau).
+  Préférer implant, préservatif (voire patch, anneau).
 - Risque thromboembolique  
   - Risque augmenté par le cancer. Éviter les œstroprogestatifs pour ne pas cumuler les risques.
   - Cancer non hormonodépendant: les macroprogestatifs à dose antigonadotrope limitent le risque thromboembolique et permettent une aménorrhée.  
@@ -598,9 +601,9 @@ Y compris phytothérapie, compléments alimentaires.
 Bénéfices similaires pour les différentes voies d'administration (orale, vaginale, transdermique).
 
 - Réduction des cancers
-  - Cancer de l'endomètre (RR 0,76)
+  - [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) (RR 0,76)
   - Cancer de l'ovaire (RR 0,73)
-  - Cancer du côlon (0,81)
+  - [Cancer du côlon]({{< relref "cancer-colorectal.md" >}}) (RR 0,81)
   - Hémopathies malignes
 - Améliorations des troubles du cycle menstruel
   - Ménorragies
@@ -630,7 +633,7 @@ Bénéfices similaires pour les différentes voies d'administration (orale, vagi
 
 #### Bénéfices du DIU cuivre
 
-- Cancer de l'endomètre
+- [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}})
 - [Cancer du col de l'utérus]({{< relref "cancer-col-uterus.md" >}})
 
 ### Méthodes de contraception utilisées en France

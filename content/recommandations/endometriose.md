@@ -112,7 +112,7 @@ Prise en charge de l'endométriose lors d'une consultation dédiée.
 Évoquer une endométriose devant des douleurs pelviennes chroniques:
 
 - Dysménorrhées intenses
-  - Douleurs pelviennes cycliques péri-menstruelles
+  - [Douleurs pelviennes](/tags/douleur-pelvienne/) cycliques péri-menstruelles
   - Type des douleurs  
     Parts nociceptive ou neuropathique.
   - Intensité ≥ 8 (EAN)

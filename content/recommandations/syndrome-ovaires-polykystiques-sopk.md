@@ -41,7 +41,7 @@ Cycles menstruels irréguliers
 
 TODO: sous forme de tableau
 
-Risque cancer endomètre x 2-6 mais risque absolu faible.
+Risque de [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) multiplié par 2 à 6 mais le risque absolu est faible.
 
 ### Diagnostic différentiel
 

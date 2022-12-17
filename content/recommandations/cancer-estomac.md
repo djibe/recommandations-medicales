@@ -22,7 +22,7 @@ todo = "algo, FDR: IPP > 1 an ?"
 {{%article-summary%}}
 
 - Le cancer de l'estomac atteint préférentiellement l'homme après 65 ans
-- Principaux facteurs de risque de cancer de l'estomac: [gastrite à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}}) (80%), tabac, alimentation salée/fumée, antécédent familial de cancer gastrique, Lynch/HNPCC
+- Principaux facteurs de risque de cancer de l'estomac: [gastrite à *Helicobacter pylori*]({{< relref "helicobacter-pylori.md" >}}) (80%), tabac, alimentation salée/fumée, antécédent familial de cancer gastrique, syndrome de Lynch/HNPCC
 - Signes d'alarmes devant des symptômes digestifs hauts: dysphagie, amaigrissement, anémie
 - Dépistage du premier degré en cas de lésion cancéreuse de l'estomac: sérologie HP chez un sujet de moins de 45 ans, fibroscopie gastrique au-delà
 

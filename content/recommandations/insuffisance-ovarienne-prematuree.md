@@ -245,6 +245,7 @@ graph TB
 
 ### À lire
 
+- [ACOG. Primary Ovarian Insufficiency in Adolescents and Young Women. 2021.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/07/primary-ovarian-insufficiency-in-adolescents-and-young-women)
 - [ESHRE. Management of women with premature ovarian insufficiency. 2015.](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Management-of-premature-ovarian-insufficiency)
 
 {{%/sources%}}

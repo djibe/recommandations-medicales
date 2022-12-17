@@ -93,6 +93,9 @@ Chiffres du cancer du sein en France:
 
 ### Abréviations
 
+ACOG
+: {{%lang%}}The American College of Obstetricians and Gynecologists{{%/lang%}}
+
 DO
 : programme de dépistage organisé (du cancer du sein)
 
@@ -341,7 +344,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 - Mammographie annuelle à vie (bilatérale si tumorectomie) ± échographie mammaire
   - Tumorectomie: la 1<sup>re</sup> mammographie homolatérale est réalisée au moins 6 mois après la fin de la radiothérapie.
 - Tamoxifène (SERM)
-  - Informer sur le risque de prolifération/hyperplasie endométriale, de cancer de l'endomètre et de sarcome utérin (sauf pré-ménopause)
+  - Informer sur le risque de prolifération/hyperplasie endométriale, de [cancer de l'endomètre et de sarcome utérin]({{< relref "cancer-endometre.md" >}}) (sauf pré-ménopause)
   - Signaler tout symptôme vaginal (pertes, tâches, leucorrhée), tout symptôme doit être exploré
   - Échographie transvaginale initiale et suivi gynécologique annuel (*ACOG 2020*), renforcé si risque élevé de cancer de l'endomètre
 - Antiaromatase

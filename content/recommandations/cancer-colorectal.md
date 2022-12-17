@@ -130,7 +130,7 @@ Risque très élevé : prédisposition génétique au cancer colorectal
 Indications à une **consultation d'oncogénétique**:
 
 - 2 antécédents familiaux au 1<sup>er</sup> degré de cancer du spectre de Lynch (colorectal, endomètre, ovaire, intestin grêle, uretère) dont 1 avant 50 ans
-- Antécédent personnel de cancer du spectre de Lynch surajouté (endomètre, ovaire, intestin grêle, uretère)
+- Antécédent personnel de cancer du spectre de Lynch surajouté ([endomètre]({{< relref "cancer-endometre.md" >}}), ovaire, intestin grêle, uretère)
 - Cancer colorectal avant 40 ans
 - Phénotype MSI ou dMMR
 - Suspicion de PAF
@@ -148,7 +148,7 @@ Tout signe évocateur de cancer colorectal impose une consultation de gastro-ent
 - Antécédents  
   Dont MICI, adénome ou cancer colorectal, acromégalie et autres comorbidités.
 - Antécédents familiaux  
-  Avec l'âge de survenue pour: adénome ou cancer colorectal, polypose adénomateuse familiale, Lynch (cancer de l'endomètre, ovaire, intestin grêle, uretère).
+  Avec l'âge de survenue pour: adénome ou cancer colorectal, polypose adénomateuse familiale, Lynch ([cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}), ovaire, intestin grêle, uretère).
 - Alcool, tabac
 - Activité physique, consommation de viande rouge, fibres
 - Symptômes digestifs (voir encadré plus bas)
@@ -288,7 +288,7 @@ Le traitement dépend de la décision de la réunion de concertation pluridiscip
 - {{< modal-btn modal-mna >}}Dépister la Dénutrition{{< /modal-btn >}} (39%) et accompagnement diététique spécialisé
 - Stomie: soins par infirmier stomathérapeute
 - Association de patients  
-  [France Côlon](https://www.france-colon.fr/), [Crohn-RCH France](https://www.afa.asso.fr/), [Ligue nationale contre le cancer](https://www.ligue-cancer.net/), [Polyposes Familiales](https://www.polyposes-familiales.fr/), [HNPCC - Lynch](http://www.hnpcc-lynch.com/), [Ligue Cancer info](https://www.ligue-cancer.net/) (ou {{<phone>}}0 805 123 124{{</phone>}})
+  [France Côlon](https://www.france-colon.fr), [Crohn-RCH France](https://www.afa.asso.fr), [Ligue nationale contre le cancer](https://www.ligue-cancer.net), [Polyposes Familiales](https://www.polyposes-familiales.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com), [Ligue Cancer info](https://www.ligue-cancer.net) (ou {{<phone>}}0 805 123 124{{</phone>}})
 
 ### Suivi après cancer du côlon ou rectum
 

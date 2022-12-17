@@ -8,7 +8,7 @@ synonyms = ["Syndrome climatérique", "traitement hormonal substitutif THS"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
 publishdate = "2021-10-19"
-lastmod = "2022-11-28"
+lastmod = "2022-12-16"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF"]
@@ -208,10 +208,10 @@ Réaliser le bilan recommandé (voir *Examens complémentaires*) et adresser à 
 
 ### Saignements utérins anormaux (SUA)
 
-Les saignements utérins anormaux chez une femme prenant un THM sont ceux survenant en dehors de la période d'arrêt du progestatif en schéma séquentiel (*FIGO 2011*).
+Les saignements utérins anormaux (SUA) chez une femme prenant un THM sont ceux survenant en dehors de la période d'arrêt du progestatif en schéma séquentiel (*FIGO 2011*).
 
-Sous THM, les SUA sont peu fréquents (15%) et surtout en début de THM. Ils sont une cause importante de mauvaise observance.  
-Le bilan différentiel doit être systématique (voir *Examens complémentaires*) pour éliminer un cancer de l'endomètre. Les autres causes sont: reprise de l'activité ovarienne, observance médiocre, troubles trophiques de l'endomètre.
+Sous traitement hormonal, les saignements anormaux sont peu fréquents (15%) et surtout en début de THM. Ils sont une cause importante de mauvaise observance.  
+Le bilan différentiel doit être systématique (voir *Examens complémentaires*) pour éliminer un [cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}). Les autres causes de saignements utérins anormaux sont: reprise de l'activité ovarienne, observance médiocre, troubles trophiques de l'endomètre.
 
 ### Syndrome douloureux mammaire (SDM)
 
@@ -233,7 +233,7 @@ Aucun examen n'est recommandé pour le diagnostic de ménopause.
 - Poids, taille, IMC, pression artérielle (2 bras), pouls périphériques
 - Palpation des seins, examen gynécologique complet
 - Mammographies de dépistage à jour  
-puis dépistage organisé à partir de 50 ans (*HAS 2015 cancer du sein*)
+  puis dépistage organisé à partir de 50 ans (*HAS 2015 cancer du sein*)
 - Frottis cervico-vaginal
 - Glycémie à jeun
 - Bilan lipidique
@@ -266,7 +266,7 @@ Le reste du bilan est réalisé par l'endocrinologue.
   - Doit être réalisée en fin de séquence progestative en schéma séquentiel ou à tout moment en schéma combiné
   - Pas d'autre examen si épaisseur normale si épisode de saignement unique
 - Hystéroscopie et biopsies  
-Si endomètre > 4 mm ou saignements répétés.
+  Si endomètre > 4 mm ou saignements répétés.
 
 {{% /collapse %}}
 {{%collapse "Traitements non hormonaux de la ménopause" %}}
@@ -578,7 +578,7 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
   - Risque de récidive en antécédent de MVTE et estradiol oral
 - [Cancer du sein]({{< relref "cancer-sein.md" >}}) si THM > 5 ans  
   Disparaît en 2-10 ans après l'arrêt du THM.
-- Cancer de l'endomètre si estradiol seul  
+- [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) si estradiol seul  
   Effacé si prise de 12 jours minimum de progestatif mensuels.
 - Cancer de l'ovaire  
   1 cas supplémentaire pour 8000 femmes traitées. Essai avec ECE + MPA ne retrouvait pas de différence pour durée < 5 ans.
@@ -589,7 +589,7 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
   Si estradiol cutané + progestérone micronisée (dydrogestérone, acétate de chlormadinone, médrogestone, acétate de cyprotérone, acétate de médroxyprogestérone) quelque soit l'IMC.
 - Incidence du cancer du sein si durée du THM < 5 ans
 - Mortalité par cancer du sein
-- Cancer de l'endomètre (en association estradiol + progestérone)
+- [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) (en association estradiol + progestérone)
 
 > *CNGOF 2021*
 
@@ -623,6 +623,8 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 ### À lire
 
 - [Hocke C. et al. Syndrome génito-urinaire de la ménopause (SGUM). RPC les femmes ménopausées du CNGOF et du GEMVi. Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000775)
+- [ACOG. Treatment of Urogenital Symptoms in Individuals With a History of Estrogen-dependent Breast Cancer. 2021.](https://www.acog.org/clinical/clinical-guidance/clinical-Consensus/articles/2021/12/Treatment-of-Urogenital-Symptoms-in-Individuals-With-a-History-of-Estrogen-dependent-Breast-Cancer)
+- [ACOG. Postmenopausal Estrogen Therapy Route of Administration and Risk of Venous Thromboembolism. 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/04/postmenopausal-estrogen-therapy-route-of-administration-and-risk-of-venous-thromboembolism)
 - [International Menopause Society. Papers, Recommendations & Statements](https://www.imsociety.org/statements/)
 - [HAS. Les traitements hormonaux substitutifs de la ménopause. 2004.](https://www.has-sante.fr/jcms/c_272308/fr/les-traitements-hormonaux-substitutifs-de-la-menopause)
 

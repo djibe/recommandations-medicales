@@ -1,7 +1,7 @@
 +++
 title = "Paludisme"
 prefix = "le "
-description = "Recommandations pour la prévention du paludisme et la prise en charge d'une suspicion d'accès palustre. Prophylaxie anti-moustiques et atovaquone Malarone ..."
+description = "Recommandations pour la prévention du paludisme et la prise en charge d'une suspicion d'accès palustre. Prophylaxie anti moustiques et atovaquone Malarone ..."
 synonyms = ["Malaria"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T12:42:00+02:00"
