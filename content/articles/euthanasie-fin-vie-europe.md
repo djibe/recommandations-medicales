@@ -8,6 +8,7 @@ lastmod = "2022-12-16"
 specialites = []
 sources = ["CNOM"]
 tags = []
+draft = true
 geochart = true
 image = false
 imageSrc = ""

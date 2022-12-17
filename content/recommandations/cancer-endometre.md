@@ -15,7 +15,6 @@ anglais = ["Endometrial cancer", "Cancer of the endometrium"]
 sctid = "93781006"
 image = true
 imageSrc = "Carcinome endométrial chez une femme de 40 ans. Cas d'Aneta Kecler-Pietrzyk, Radiopaedia.org, rID: 53104"
-todo = "Prescrire"
 +++
 
 {{%article-summary%}}
