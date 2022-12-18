@@ -15,7 +15,7 @@ anglais = ["Statin"]
 sctid = "372912004"
 image = true
 imageSrc = "Illustration des statines par macrovector / Freepik"
-todo = "SEO, ESC CVD p.16"
+todo = "SEO, USPTF, ESC CVD p.16"
 +++
 
 {{%article-summary%}}
@@ -48,19 +48,22 @@ Chez des patients ayant arrêté leur traitement pour myalgies, traités en aveu
 
 > *[Wood FA et al. N-of-1 Trial of a Statin, Placebo, or No Treatment to Assess Side Effects. N Engl J Med. 2020.](https://www.nejm.org/doi/10.1056/NEJMc2031173?url_ver=Z39.88-2003)*, corroborée par *[Cholesterol Treatment Trialists' Collaboration 2022](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01545-8/fulltext)*
 
-Pas de différences de myalgies entre les statines et leur survenue intervient durant la première année de traitement (sauf haute intensité atorvastatine ou rosuvastatine).
+Pas de différences entre les statines concernant la survenue de myalgies.  
+La survenue de myalgies survenue intervient durant la première année de traitement (sauf statine de haute intensité comme l'atorvastatine et la rosuvastatine).
 
 > *[Cholesterol Treatment Trialists' Collaboration 2022](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01545-8/fulltext)*
 
 {{% /collapse %}}
 {{%collapse "Effets de l'arrêt d'une statine" %}}
 
-Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**infarctus du myocarde** en plus et +18% de **mortalité cardiovasculaire**. (*[Sune Fallgaard Nielsen 2016](https://academic.oup.com/eurheartj/article/37/11/908/2398344)*)
+Au Danemark, les personnes ayant arrêté leur statine ont eu 26% d'**infarctus du myocarde** en plus et +18% de **mortalité cardiovasculaire**.
+
+> *[Sune Fallgaard Nielsen 2016](https://academic.oup.com/eurheartj/article/37/11/908/2398344)*
 
 {{% /collapse %}}
 {{%sources%}}
 
-En regard de chaque élément présenté
+*Bibliographie en regard de chaque élément présenté*
 
 ### À lire
 

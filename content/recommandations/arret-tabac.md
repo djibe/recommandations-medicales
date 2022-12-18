@@ -19,7 +19,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "Composants toxiques de la cigarette par La Ligue contre le cancer"
-todo = "'sevrage tabagique prise en charge', 'sevrage tabagique pdf', bénéfices, aider à gérer la rechute: HAS p.33+35+36; Arret avant 30ans : élimine 100 % du risque de décès par coro. Avant 40 ans : élimine 90 % du risque (Pirie Ket al ? Lancet 2013 ; 381:133-41)"
+todo = "'sevrage tabagique prise en charge', 'sevrage tabagique pdf', bénéfices de l'arrêt, aider à gérer la rechute: HAS p.33+35+36; Arret avant 30ans : élimine 100 % du risque de décès par coro. Avant 40 ans : élimine 90 % du risque (Pirie Ket al ? Lancet 2013 ; 381:133-41)"
 +++
 
 {{%article-summary%}}
@@ -29,7 +29,7 @@ todo = "'sevrage tabagique prise en charge', 'sevrage tabagique pdf', bénéfice
   << Fumez-vous ? >>, si oui: << Arrêter de fumer est la décision la plus importante que vous pouvez prendre pour protéger votre santé. Je peux vous aider si vous le souhaitez >>
 - Note personnelle: informer sur le caractère gratuit et illimité sur ordonnance de la prise en charge des traitements d'aide à l'arrêt
 - Pour tous les fumeurs: proposer une prise en charge par des [substituts nicotiniques]({{< relref "substituts-nicotiniques.md" >}}) pour viser l'abstinence voire une réduction de la consommation de tabac
-- {{< modal-btn modal-fagerstrom >}}Score de Fagerström simplifié{{< /modal-btn >}} et [liste des substituts nicotiniques remboursés]({{< relref "substituts-nicotiniques.md" >}})
+- Outils: {{< modal-btn modal-fagerstrom >}}Score de Fagerström simplifié{{< /modal-btn >}} et [liste des substituts nicotiniques remboursés]({{< relref "substituts-nicotiniques.md" >}})
 - Ressources patient: [brochure patient](https://www.santepubliquefrance.fr/determinants-de-sante/tabac/documents/depliant-flyer/9-questions-et-5-minutes-pour-commencer-une-vie-sans-tabac) et [brochure arrêter sans grossir (PDF)](https://pro.tabac-info-service.fr/var/tis/storage/original/application/60c2ab51a385c38d979de9bea6bbbd19.pdf), [Tabac Info Service.fr](https://www.tabac-info-service.fr) ([l'appli avec e-coaching](https://play.google.com/store/apps/details?id=fr.cnamts.tis) ou au {{<phone>}}3989{{</phone>}})
 - [Annuaire des tabacologues](https://www.tabac-info-service.fr/je-trouve-un-tabacologue) et des [CSAPA](https://annuaire.action-sociale.org/etablissements/readaptation-sociale/centre-de-soins-accompagnement-prevention-addictologie-197.html)
 
@@ -66,8 +66,6 @@ Arrêter à 40 ans augmente l'espérance de vie de 7 ans, à 50 ans de 4 ans, à
 {.alert .alert-info}
 
 Bénéfices importants sur la morbi-mortalité (cardiovasculaire et cancer du poumon ++).
-
-*Section en cours de rédaction*
 
 ### Épidémiologie du tabagisme en France
 
@@ -182,7 +180,7 @@ Demander l'accord du patient pour parler de sa consommation.
 
 ### 2) Évaluation de la dépendance à la nicotine
 
-{{< modal-btn modal-fagerstrom >}}Évaluation de la dépendance par le test de Fagerström simplifié{{< /modal-btn >}} voire le {{< modal-btn modal-fagerstrom6 >}}Fagerström complet{{< /modal-btn >}}.
+Évaluer la dépendance par le {{< modal-btn modal-fagerstrom >}}test de Fagerström simplifié{{< /modal-btn >}} voire le {{< modal-btn modal-fagerstrom6 >}}Fagerström complet{{< /modal-btn >}}.
 
 Rechercher également un syndrome de sevrage, une perte de contrôle, un désir persistant ou une incapacité à réduire ou arrêter sa consommation.
 
@@ -471,9 +469,14 @@ graph TB
 
 {{< references/tabac-info-service >}}
 
-{{% modal title="Test de Fagerström de dépendance au tabac" id="modal-fagerstrom"%}}
+{{% modal title="Fagerström simplifié" id="modal-fagerstrom"%}}
 
 {{< scores/fagerstrom >}}
+
+{{% /modal %}}
+{{% modal title="Test de Fagerström de dépendance au tabac" id="modal-fagerstrom6"%}}
+
+{{< scores/fagerstrom6 >}}
 
 {{% /modal %}}
 {{% modal title="Score CAGE-DETA de mésusage de l'alcool" id="modal-deta"%}}

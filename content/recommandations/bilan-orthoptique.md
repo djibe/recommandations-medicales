@@ -32,7 +32,7 @@ imageSrc = "Illustration par rawpixel.com / Freepik"
 
 ### Prescription
 
-Bilan orthoptique et rééducation si besoin
+Bilan orthoptique et rééducation si nécessaire
 {{%/info%}}
 
 Indications au bilan orthoptique devant les signes ou symptômes suivants:

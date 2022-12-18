@@ -15,27 +15,27 @@ anglais = ["Pertussis", "Whooping cough"]
 sctid = "27836007"
 image = true
 imageSrc = "Illustration de la coqueluche par Freepik"
-todo = "https://www.wiv-isp.be/matra/fiches/coqueluche.pdf"
+todo = "SEO, https://www.wiv-isp.be/matra/fiches/coqueluche.pdf"
 +++
 
 {{%article-summary%}}
 
 - Ces recommandations visent à protéger les nourrissons non immuns de la coqueluche
-- Évoquer une coqueluche devant toute toux +7 jours
-- PCR coqueluche nécessaire
-- Éviction et antibiothérapie macrolide azithromycine 250 mg x 2/j pendant 3 jours
-- Antibioprophylaxie des contacts
-- Rappel vaccinal coqueluche à chaque grossesse (20-36 SA)
+- Évoquer une coqueluche devant toute toux de plus de 7 jours
+- Le diagnostic de coqueluche est biologique par une *PCR coqueluche*
+- Prise en charge de la coqueluche par une éviction de la collectivité et une antibiothérapie par macrolide azithromycine 250 mg x 2/j pendant 3 jours
+- Antibioprophylaxie des sujets contacts
+- [Rappel vaccinal]({{< relref "vaccination.md" >}}) coqueluche à chaque grossesse (entre 20 et 36 SA)
 - Signalement à l'ARS quand ≥ 2 cas de coqueluche en collectivité
 
-Voir aussi: [toux chronique]({{< relref "toux-chronique.md" >}})
+Chapitre lié: [toux chronique]({{< relref "toux-chronique.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Coqueluche
 : Maladie toxinique aiguë des voies respiratoires par la bactérie *Bordetella pertussis* (rarement *Bordetella parapertussis*). Contamination aérienne interhumaine (famille, collectivité) avec taux d'attaque élevé (75%). Grave chez l'enfant voire mortelle chez le nourrisson.
-: Immunité post-infectieuse dure 10-15 ans, par vaccination 5-10 ans.
+: L'immunité post-infectieuse de la coqueluche dure 10-15 ans, par vaccination 5-10 ans.
 : **Cas groupés** de coqueluche quand ≥ 2 cas en collectivité. Doit être notifié au médecin inspecteur de santé publique de l'ARS.
 
 ### Épidémiologie de la coqueluche
@@ -109,11 +109,14 @@ Cas contact: dans les 3 semaines suivants le dernier contact avec le cas-index.
 {{% /collapse %}}
 {{%collapse "Indications à l'hospitalisation" %}}
 
-### Indications à l'hospitalisation en cas de coqueluche
+{{%warning%}}
+
+### Indications à hospitaliser une coqueluche
 
 - Nourrisson < 3 mois
 - Selon tolérance chez > 3 mois  
   Apnées, bradycardies, limitation de l'alimentation.
+{{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Prévention = vaccination coqueluche" %}}
