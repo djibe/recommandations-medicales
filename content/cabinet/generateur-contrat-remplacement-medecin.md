@@ -67,7 +67,7 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 </div>
 <div class="d-flex">
 <div class="form-group floating-label textfield-box form-ripple w-50 mr-3">
-  <label for="contract-inscription-substitute">RPPS ou license</label>
+  <label for="contract-inscription-substitute">RPPS ou licence</label>
   <input class="form-control" id="contract-inscription-substitute" type="text" required>
 </div>
 <div class="form-group floating-label textfield-box form-ripple w-50">
@@ -408,7 +408,7 @@ Demande l'autorisation de se faire remplacer
 Par
 
 <span class="contract-title-substitute-full">Madame</span> <span class="contract-name-substitute-text">Z</span>  
-RPPS/license: <span class="contract-inscription-substitute-text">...</span>  
+RPPS/licence: <span class="contract-inscription-substitute-text">...</span>  
 Adresse: <span class="contract-address-substitute-text">...</span>  
 SIRET: <span class="contract-urssaf-text">...</span>
 

@@ -1,5 +1,5 @@
 +++
-title = "Place de l'euthanasie et de la fin de vie en Europe"
+title = "Euthanasie en France et en Europe"
 description = "TODO:"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-16T12:20:00+02:00"
@@ -12,14 +12,14 @@ draft = true
 geochart = true
 image = false
 imageSrc = ""
-todo = "Check json+ld"
+todo = "comparatif des conditions dans les pays, Check json+ld"
 +++
 
-## Résumé de l'article
+## Résumé de l'article comparant les recours à l'euthanasie en Europe
 
 TODO:
 
-## Place en Europe des pays offrant une aide à mourir
+## Comparatif du statut légal de l'euthanasie dans les différents pays européens
 
 {{< figure-chart id="geochart" title="XXX. Dr JB Fron d'après cotisations CNOM" >}}
 

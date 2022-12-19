@@ -5,18 +5,18 @@ description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-17T20:24:38+01:00"
-publishdate = "2022-12-17"
-lastmod = "2022-12-17"
+publishdate = "2022-12-20"
+lastmod = "2022-12-20"
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
-sources = ["INCa"]
+sources = ["INCa", "ACOG"]
 tags = ["cancer", "douleur pelvienne"]
 anglais = ["Ovarian cancer"]
 sctid = "363443007"
 draft = true
 image = false
 imageSrc = ""
-todo = "épithélial"
+todo = "géria, adresse CLCC, Société française d’accompagnement et de soins palliatifs (SFAP), soins-palliatifs.org, 0811 020 300, cancer info 0805 123 124"
 +++
 
 {{%article-summary%}}
@@ -49,11 +49,20 @@ Cancer de l'ovaire
 
 ### Abréviations
 
+ACOG
+: {{%lang%}}The American College of Obstetricians and Gynecologists{{%/lang%}}
+
 AEG
 : altération de l'état général
 
+CLCC
+: centre de lutte contre le cancer
+
 INCa
 : Institut national du cancer
+
+RCP
+: réunion de concertation pluridisciplinaire
 {.dl-inline}
 
 ### Épidémiologie du cancer de l'ovaire
@@ -67,15 +76,35 @@ INCa
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+Au moindre doute, prescrire une échographie pelvienne sus-pubienne et endovaginale
+{.alert .alert-warning}
+
+Les signes et symptômes devant faire évoquer un cancer de l'ovaire en cas de persistance après la ménopause sont aspécifiques.
+
 ### Interrogatoire
 
 - Antécédents personnels ou familiaux  
-  Cancers du sein, de l'ovaire, ...
+  [Cancers du sein]({{< relref "cancer-sein.md" >}}) ou de l'ovaire (âge au diagnostic, BRCA), [cancer colorectal]({{< relref "cancer-colorectal.md" >}}) ou de l'[endomètre]({{< relref "cancer-endometre.md" >}}) (syndrome de Lynch).
 - Symptômes non spécifiques
-  - [Douleurs pelviennes](/tags/douleur-pelvienne/)
+  - Inconfort abdominal
+  - [Douleurs pelviennes](/tags/douleur-pelvienne/) ou douleurs abdominales
+  - Augmentation du volume abdominal
+  - Métrorragies ou écoulements vaginaux
+  - Signes de compression: troubles du transit, subocclusion, faux besoins, symptômes urinaires (impériosités, pollakiurie)
+  - Compression veineuse ou radiculaire: œdème d'un membre inférieur, phlébite, sciatique
+  - Dyspnée
+  - Douleur thoracique
   - Altération de l'état général (AEG: [fatigue](/tags/fatigue/), anorexie, amaigrissement)
+- +75 ans: évaluation gériatrique (G8, VES 13, FOG ...)
+
+En cas d'antécédents de cancer sein-ovaire, avis d'oncogénétique selon le {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}}. À demander également en cas de cancers familiaux du spectre de Lynch (côlon, rectum, endomètre voire ovaire).
 
 ### Examen clinique
+
+- Poids, taille, IMC et variations
+- Examen abdominal
+- Touchers pelviens
+- Palpation des aires ganglionnaires
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -84,60 +113,92 @@ INCa
 
 ### Bilan de première intention devant une suspicion de cancer de l'ovaire
 
-Échographie pelvienne
-
-Une **IRM pelvienne** est demandée en cas de masse ovarienne indéterminée ou suspecte de malignité.
-
-Le **marqueur tumoral CA 125** est dosé en cas de masse indéterminée en imagerie.
+**Échographie pelvienne** par voie sus-pubienne et endovaginale
 {{%/info%}}
 
-Le bilan d'extension repose sur le scanner thoraco-abdomino-pelvien.
+Si découverte d'une masse ovarienne indéterminée ou suspecte de malignité: avis d'un centre du cancer (CLCC) et **IRM pelvienne** en parallèle.  
+La découverte au stade précoce survient souvent avec la découverte d'une masse annexielle.
+
+Le **marqueur tumoral CA 125** est dosé en cas de masse indéterminée en imagerie.
+
+Le bilan d'extension repose sur le scanner thoraco-abdomino-pelvien avec injection.
+
+{{% /collapse %}}
+{{%collapse "Prévention du cancer de l'ovaire" %}}
+
+> Il n'existe pas de dépistage du cancer de l'ovaire
+{.alert .alert-info}
+
+Néanmoins une ablation opportuniste des trompes de Fallope de façon préventive peut être proposée au cours d'une chirurgie pelvienne planifiée:
+
+- Hystérectomie
+- Stérilisation
+- Césarienne avec désir de stérilisation
+- L'ovariectomie peut être couplée chez une femme ménopausée
+
+> *ACOG 2019*
 
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de l'ovaire" %}}
 
 Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP) et est pluridisciplinaire.
 
-La prise en charge du cancer de l'ovaire repose essentiellement sur la chirurgie avec une chimiothérapie adjuvante voire une thérapie ciblée en sus.
+La prise en charge du cancer de l'ovaire repose essentiellement sur la chirurgie avec une chimiothérapie adjuvante voire une thérapie ciblée surajoutée (bevacizumab).
 
 [Guide d'information patiente de l'INCa](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-l-ovaire/Les-points-cles)
 
 Comme pour tout cancer:
 
-- Déclarer l'ALD
+- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- [Sevrage tabagique]({{< relref "arret-tabac.md" >}})
 - Proposer un soutien psychologique
 - Soins de confort
 - Évaluation nutritionnelle
+- [Directives anticipées](https://www.service-public.fr/particuliers/vosdroits/F32010), [personne de confiance](https://www.service-public.fr/particuliers/vosdroits/R40462)
 - Associations de patients  
   [imagyn](https://www.imagyn.org), [Ligue contre le cancer](https://www.ligue-cancer.net), [roseup](https://www.rose-up.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com).
 
 ### Pour en savoir plus sur le cancer de l'ovaire
 
+La chirurgie du cancer de l'ovaire exige une exérèse chirurgicale sans rupture de la masse ovarienne, annexectomie bilatérale avec hystérectomie totale, omentectomie, appendicectomie, curage ganglionnaire pelvien et lombo-aortique, cytologie et biopsies péritonéale.
+
 Pour certains stades précoces, la chirurgie avant 50 ans entraîne une stérilisation pouvant être traitée par un traitement hormonal substitutif (voir [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})).
 
 {{% /collapse %}}
-{{%collapse "Suivi" %}}
+{{%collapse "Suivi d'un cancer de l'ovaire" %}}
 
 Le cancer de l'ovaire est marqué par une extension observée dans les 2 ans (70% des cas) avec une carcinose péritonéale.
 
+Les personnes atteintes de mutations BRCA1 ou 2 ou du syndrome de Lynch ont un suivi spécifique.
+
 ### Surveillance après traitement d'un cancer de l'ovaire
 
-- Surveillance clinique régulière
-- Si chirurgie initiale complète et bon état général: dosage du CA 125
+- Symptômes et examen clinique avec examen pelvien à 3, 6, 12, 18 et 24 mois puis annuel
+- Si chirurgie initiale complète et bon état général: CA 125 6 mois après la fin de la chimiothérapie puis tous les 6 mois
 - Imagerie en cas d'élévation du CA 125  
-  ou de traitement conservateur
+  ou de traitement conservateur (échographie pelvienne)
+
+### Principales localisations à risque de second cancer
+
+- Leucémie aiguë myéloïde (agents alkylants surtout)
+- [Cancer colorectal]({{< relref "cancer-colorectal.md" >}}) (si cancer de l'ovaire avant 50 ans ou syndrome de Lynch)
+- [Cancer du sein]({{< relref "cancer-sein.md" >}}) (si cancer de l'ovaire avant 50 ans ou mutation BRCA)
 
 {{% /collapse %}}
 {{%sources%}}
-
-### À lire
 
 - [INCa. Les caners de l'ovaire en 10 points clés. 2020. (PDF)](https://www.e-cancer.fr/content/download/292199/4161575/file/Cancers_de_l_ovaire_en_10_points_cles_mel_20200702.pdf)
 - [INCa. Cancers de l'ovaire Du diagnostic au suivi. 2019. (PDF)](https://www.e-cancer.fr/content/download/275099/3902051/file/Cancers_ovaire_diagostic_suivi_mel_20190920.pdf)
 - [ACOG. Opportunistic Salpingectomy as a Strategy for Epithelial Ovarian Cancer Prevention. 2019.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/04/opportunistic-salpingectomy-as-a-strategy-for-epithelial-ovarian-cancer-prevention)
 - [ACOG. The Role of the Obstetrician–Gynecologist in the Early Detection of Epithelial Ovarian Cancer in Women at Average Risk. 2017.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/09/the-role-of-the-obstetriciangynecologist-in-the-early-detection-of-epithelial-ovarian-cancer-in-women-at-average-risk)
-- [ACOG. Hereditary Breast and Ovarian Cancer Syndrome. 2017.](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2017/09/hereditary-breast-and-ovarian-cancer-syndrome)
+
+### À lire
+
+- [ACOG. Hereditary Breast and Ovarian Cancer Syndrome. 2017. (payant)](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2017/09/hereditary-breast-and-ovarian-cancer-syndrome)
 
 {{%/sources%}}
+{{% modal title="Score d'Eisinger et consultation génétique" id="modal-eisinger"%}}
 
-≤≥±®æœŒÈ³ÂSpO<sub>2</sub>
+{{< scores/eisinger >}}
+
+{{% /modal %}}

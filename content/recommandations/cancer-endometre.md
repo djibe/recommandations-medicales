@@ -126,7 +126,8 @@ La chirurgie avant 50 ans entraîne une stérilisation pouvant être traitée pa
 
 Comme pour tout cancer:
 
-- Déclarer l'ALD
+- Déclarer l'[ALD n°30]({{< relref "affection-longue-duree.md" >}})
+- [Sevrage tabagique]({{< relref "arret-tabac.md" >}})
 - Proposer un soutien psychologique
 - Soins de confort
 - Évaluation nutritionnelle

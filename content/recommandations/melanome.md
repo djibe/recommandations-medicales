@@ -11,7 +11,7 @@ specialites = ["dermatologie"]
 annees = "2017"
 sources = ["HAS", "SFDermato"]
 tags = ["cancer", "depistage"]
-anglais = ["Malignant melanoma"]
+anglais = ["Melanoma"]
 sctid = "2092003"
 image = true
 imageSrc = "National Cancer Institute"
@@ -314,7 +314,8 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 
 ### À lire
 
-- Collège des enseignants de dermatologie de France (CEDEF). Tumeurs cutanées épithéliales et mélaniques. Item 302. 2021.
+- [Garbe C. et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00152-6/fulltext)
+- [Garbe C. et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00228-3/fulltext)
 - [INCa. Détection précoce des cancers de la peau - Médecins généralistes. Octobre 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Detection-precoce-des-cancers-de-la-peau-Medecins-generalistes)
 
 {{%/sources%}}

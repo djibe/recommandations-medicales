@@ -74,16 +74,16 @@ Certains sont autonomes, stockant en mémoire interne permettant de numériser l
 {{% /collapse %}}
 {{%collapse "Écrans" %}}
 
-Un écran de bureautique moderne doit être de 27 pouces, parce que comme les diamants, il finira toujours par être trop petit. C'est la taille idéale pour gérer le logiciel et la fenêtre de téléconsultation (voire de compta ou autre).
+Un écran de bureautique moderne doit être de 27 pouces, parce que comme les diamants, il finira toujours par être trop petit. Il s'agit de la taille idéale pour gérer le logiciel et la fenêtre de téléconsultation (ou la compta).
 
 Écrans 27 pouces (résolution minimale Full HD) avec un beau rendu de couleurs et de larges angles de vue (technologie IPS), un pied réglable, des hauts-parleurs intégrés pour les téléconsultations et une dalle mate pour éviter de travailler sur un miroir.  
 Si le son ne vous convient pas, vous pourrez investir dans des écouteurs, casque ou hauts-parleurs plus tard.  
 À vous de choisir le style.
 
-Si vous avez de bons yeux, **l'écran doit être de résolution WQHD** (ou simplement QHD soit 2560 x 1440 pixels).
+Si vous avez de bons yeux, **l'écran doit être de résolution WQHD** (aussi appelé QHD affichant 2560 x 1440 pixels).
 
 {{%info%}}
-Mon choix: [Dell S2721DS](https://ledenicheur.fr/product.php?p=5485696) (joli avec un son de bonne qualité)
+Mon choix: [Dell S2721DS](https://ledenicheur.fr/product.php?p=5485696) (élégant avec un son de bonne qualité)
 
 Autres modèles QHD [parmi cette liste](https://ledenicheur.fr/c/ecrans?1705=2717&528=834&544=13606%7C16660%7C25920&b_1624=1&b_3453=1&r_89=27-28&sort=price_includes_shipping) (vérifiez les critères cités plus haut pour le pied réglable etc ...).
 {{%/info%}}
