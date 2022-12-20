@@ -49,7 +49,7 @@ Causes d'une asplénie ou d'une hyposplénie:
 
 ### Complications de l'asplénie
 
-Le risque majeur de l'asplénique est **infectieux**: incidence annuelle d'infections 50 à 100 fois plus élevée. Risque plus important les 3 années suivants la splénectomie mais persiste toute la vie.
+Le risque majeur de l'asplénique est **infectieux**: incidence annuelle d'infections 50 à 100 fois plus élevée. Risque plus important les 3 années suivant la splénectomie mais persiste toute la vie.
 
 Germes responsables du sur-risque infectieux: **pneumocoque** (50-90%) et *Haemophilus influenzae* (10-15%).
 

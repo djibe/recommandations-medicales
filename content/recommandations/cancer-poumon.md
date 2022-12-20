@@ -7,7 +7,7 @@ synonyms = ["Cancer broncho-pulmonaire", "tumeur pulmonaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T17:35:52+02:00"
 publishdate = "2022-05-12"
-lastmod = "2022-09-27"
+lastmod = "2022-12-20"
 specialites = ["pneumologie"]
 annees = "2022"
 sources = ["HAS", "SPLF", "ERS"]
@@ -105,6 +105,7 @@ Pour la suite de la prise en charge, relever:
 - Tabagisme et expositions professionnelles
 - Allergie au produit de contraste iodé
 - Symptômes autres ou généraux
+- +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -237,4 +238,13 @@ Le traitement doit être démarré dans les 6 semaines qui suivent la réalisati
 - [HAS. Guides du parcours de soins des cancers broncho-pulmonaires et mésothéliome pleural malin. 2013.](https://www.has-sante.fr/jcms/c_1650525/fr/guides-du-parcours-de-soins-des-cancers-broncho-pulmonaires-et-mesotheliome-pleural-malin)
 - [INCa. Cancer du poumon - Bilan initial. 2011.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-du-poumon-Bilan-initial-recommandation-argumentees)
 
+### À lire
+
+[ESMO Clinical Practice Guidelines](https://www.esmo.org/guidelines/guidelines-by-topic/lung-and-chest-tumours)
+
 {{%/sources%}}
+{{% modal title="Score G8" id="modal-g8"%}}
+
+{{< scores/g8 >}}
+
+{{% /modal %}}

@@ -48,11 +48,11 @@ Le diagnostic de maladie de Menière est certain devant l'association des 4 sign
   OU crises otolithiques de Tumarkin (chute à l'emporte-pièce sans perte de connaissance initiale)
 2. Signes auditifs
     - *Surdité* neurosensorielle unilatérale fluctuante
-    - Hypoacousie prédominant dans les graves sur 2 basses fréquences contiguës, d'au moins 30 dB si audition normale ou 35 dB si surdité bilatérale (audiogramme pendant ou suivant une crise)
+    - Hypoacousie prédominant dans les graves sur 2 basses fréquences contiguës, d'au moins 30 dB si audition normale ou 35 dB si surdité bilatérale (audiogramme pendant ou après une crise)
     - Ils peuvent précéder les vertiges de plusieurs années
 3. Autres signes otologiques homolatéraux fluctuants  
   Acouphènes (ressentis comme le plus grave symptôme) et sensation de plénitude de l'oreille.
-4. Absence d'autre cause identifiée
+1. Absence d'autre cause identifiée
 {{%/info%}}
 
 ### Maladie de Menière probable

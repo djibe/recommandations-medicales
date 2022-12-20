@@ -1,7 +1,7 @@
 +++
 title = "Cancer de l'ovaire"
 prefix = "le "
-description = "TODO:"
+description = "Recommandations pour la prise en charge du cancer de l'ovaire. Identifier les facteurs de risque, échographie pelvienne et IRM, avis en centre expert du cancer"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-17T20:24:38+01:00"
@@ -13,23 +13,27 @@ sources = ["INCa", "ACOG"]
 tags = ["cancer", "douleur pelvienne"]
 anglais = ["Ovarian cancer"]
 sctid = "363443007"
-draft = true
-image = false
-imageSrc = ""
-todo = "géria, adresse CLCC, Société française d’accompagnement et de soins palliatifs (SFAP), soins-palliatifs.org, 0811 020 300, cancer info 0805 123 124"
+image = true
+imageSrc = "Scanner réalisé pour des douleurs abdominales chez une femme de 55 ans. Masse hétérogène droite sans contours nets située entre l'utérus antéversé et le caecum. Cas de Ralph Nelson, Radiopaedia.org, rID: 86567"
+todo = "adresse CLCC, Société française d’accompagnement et de soins palliatifs (SFAP), soins-palliatifs.org, 0811 020 300, cancer info 0805 123 124"
 +++
 
 {{%article-summary%}}
 
-TODO:
+- Le cancer de l'ovaire survient le plus souvent après la ménopause (65 ans au diagnostic)
+- Facteurs de risque du cancer de l'ovaire: antécédents de cancers sein-ovaire (mutations BRCA) ou colorectaux (Lynch), nulliparité, surpoids, ménarche précoce, ménopause tardive
+- Les symptômes du cancer de l'ovaire sont aspécifiques, à l'origine de son mauvais pronostic: [souleurs pelviennes](/tags/douleur-pelvienne/) ou abdominales, troubles du transit, métrorragies ou écoulements, autres signes de compression
+- Au moindre doute, prescrire une échographie pelvienne sus-pubienne et endovaginale
+- Prise en charge d'une masse ovarienne: IRM pelvienne et avis spécialisé dans un Centre de lutte contre le cancer concomitant
+- Surveillance clinique et du CA 125 rapprochée après le traitement du cancer de l'ovaire. Un échappement secondaire est très fréquent (70%)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Cancer de l'ovaire
-: Tumeur maligne développée aux dépens de l'ovaire, le plus souvent par un adénocarcinome (+90%, dit épithélial). Il survient le plus souvent après la ménopause (médiane de 65 ans au diagnostic) et est diagnostiqué dans 3/4 des cas à un stade avancé (carcinose péritonéale).
+: Tumeur maligne développée aux dépens de l'ovaire, le plus souvent par un adénocarcinome (+90%, dit cancer épithélial). Il survient le plus souvent après la ménopause (médiane de 65 ans au diagnostic) avec un diagnostic à un stade avancé dans 3/4 des cas (carcinose péritonéale, métastases).
 : Le traitement des cancers des trompes et du péritoine primitif est calqué sur celui du cancer de l'ovaire épithélial.
-: Les [cancers](/tags/cancer/) non épithéliaux doivent être prise en charge dans la filière des tumeurs malignes rares de l'ovaire (TMRO TODO:).
+: Les [cancers](/tags/cancer/) non épithéliaux doivent être prise en charge dans la filière des Tumeurs Malignes Rares de l'Ovaire ([annuaire des TMRO](https://www.ovaire-rare.org/LesCentresExperts/CentresExpertsRegionaux.aspx)).
 : Le cancer de l'ovaire a la particularité de répondre initialement bien aux traitements (80% des cas) avant de diffuser dans un deuxième temps (70% des cas).
 
 ### Facteurs de risque du cancer de l'ovaire
@@ -95,7 +99,7 @@ Les signes et symptômes devant faire évoquer un cancer de l'ovaire en cas de p
   - Dyspnée
   - Douleur thoracique
   - Altération de l'état général (AEG: [fatigue](/tags/fatigue/), anorexie, amaigrissement)
-- +75 ans: évaluation gériatrique (G8, VES 13, FOG ...)
+- +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
 En cas d'antécédents de cancer sein-ovaire, avis d'oncogénétique selon le {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}}. À demander également en cas de cancers familiaux du spectre de Lynch (côlon, rectum, endomètre voire ovaire).
 
@@ -194,11 +198,18 @@ Les personnes atteintes de mutations BRCA1 ou 2 ou du syndrome de Lynch ont un s
 
 ### À lire
 
+- [Sessa C. et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
+- [Colombo N. et al. ESMO–ESGO consensus conference recommendations on ovarian cancer: pathology and molecular biology, early and advanced stages, borderline tumours and recurrent disease. Annals of Oncology. 2019.](https://www.annalsofoncology.org/article/S0923-7534(19)31162-7/fulltext)
 - [ACOG. Hereditary Breast and Ovarian Cancer Syndrome. 2017. (payant)](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2017/09/hereditary-breast-and-ovarian-cancer-syndrome)
 
 {{%/sources%}}
 {{% modal title="Score d'Eisinger et consultation génétique" id="modal-eisinger"%}}
 
 {{< scores/eisinger >}}
+
+{{% /modal %}}
+{{% modal title="Score G8" id="modal-g8"%}}
+
+{{< scores/g8 >}}
 
 {{% /modal %}}

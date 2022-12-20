@@ -138,7 +138,7 @@ Antibiothérapie probabiliste uniquement en cas de symptômes marqués:
   Sauf clairance < 45 mL/min.
 2. Fosfomycine trométamol 3g dose unique
 
-Antibiotique de préférence suivant l'antibiogramme:
+Antibiotique de préférence adapté à l'antibiogramme:
 
 1. <mark>**Amoxicilline 1g x 3/j pendant 7 jours**</mark>
 2. Pivmécillinam (Selexid®) 400 mg x 2/j pendant 7 jours

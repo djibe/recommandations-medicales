@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-29T12:11:19+02:00"
 publishdate = "2021-11-03"
-lastmod = "2022-12-04"
+lastmod = "2022-12-20"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["INCa", "HAS", "ACOG"]
@@ -190,6 +190,7 @@ Toute suspicion diagnostique de cancer du sein justifie un avis spécialisé san
 - Aires ganglionnaires palpables  
   Axillaires, sus et sous-claviculaires.
 - Douleurs associées
+- +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -392,11 +393,18 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: Ch
 
 ### À lire
 
+- [Sessa C. et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
+- [ESMO ​ Metastatic Breast Cancer Living Guidelines​](https://www.esmo.org/living-guidelines/esmo-metastatic-breast-cancer-living-guidelines)
 - [INCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. Octobre 2021.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)
 
 {{%/sources%}}
 {{% modal title="Score d'Eisinger et consultation génétique" id="modal-eisinger"%}}
 
 {{< scores/eisinger >}}
+
+{{% /modal %}}
+{{% modal title="Score G8" id="modal-g8"%}}
+
+{{< scores/g8 >}}
 
 {{% /modal %}}

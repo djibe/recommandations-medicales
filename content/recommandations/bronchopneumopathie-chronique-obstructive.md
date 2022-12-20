@@ -344,7 +344,7 @@ Indications aux gaz du sang: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mm
 - Évaluation nutritionnelle  
   Dont santé bucco-dentaire et diététicien.
 - Éducation thérapeutique et Plan d'action écrit  
-  Systématique, voir le chapitre suivant.
+  Systématique, cf chapitre suivant.
 - Réévaluation de médicaments bronchoconstricteurs  
   - Ticagrélor, adénosine, latanoprost
   - Absence de contre-indication aux bêtabloquants, préférer biso/méto-prolol ou nébivolol (*ESC 2016 IC*)

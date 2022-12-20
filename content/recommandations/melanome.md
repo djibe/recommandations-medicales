@@ -138,6 +138,7 @@ Ces personnes doivent réaliser un auto-examen trimestriel et un suivi dermatolo
   - Caractères  
   Prurit et saignement sont des signes tardifs.
 - Symptômes
+- +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
 ### Examen clinique
 
@@ -316,6 +317,13 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 
 - [Garbe C. et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00152-6/fulltext)
 - [Garbe C. et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00228-3/fulltext)
+- [Michielin O. et al. ESMO consensus conference recommendations on the management of locoregional melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39940-3/fulltext)
+- [Keilholz U. et al. ESMO consensus conference recommendations on the management of metastatic melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39939-7/fulltext)
 - [INCa. Détection précoce des cancers de la peau - Médecins généralistes. Octobre 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Detection-precoce-des-cancers-de-la-peau-Medecins-generalistes)
 
 {{%/sources%}}
+{{% modal title="Score G8" id="modal-g8"%}}
+
+{{< scores/g8 >}}
+
+{{% /modal %}}

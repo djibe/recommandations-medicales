@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-16T15:41:56+01:00"
 publishdate = "2022-01-07"
-lastmod = "2022-09-22"
+lastmod = "2022-12-20"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
 sources = ["INCa", "SNFGE"]
@@ -144,6 +144,7 @@ Signes évocateurs de cancer du pancréas, surtout après 50 ans (signes en **gr
   - Gastrine: syndrome de Zollinger-Ellison avec diarrhée et ulcères gastro-duodénaux multiples
   - Insuline: malaise hypoglycémiques sévères
   - VIPome: diarrhée sécrétoire
+- +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
 ### Quand rechercher un cancer du pancréas devant un diabète ?
 
@@ -217,4 +218,13 @@ Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr/).
 - [INCa. Synthèse - Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Septembre 2019. (PDF)](https://www.e-cancer.fr/content/download/278143/3948778/file/Synthese_CAT_patients_atteints_adenocarcinomes_pancreas_mel_20191118.pdf)
 - [Neuzillet C. et al. Thésaurus National de Cancérologie Digestive (TNCD). Dig Liver Dis. 2018.](https://www.snfge.org/content/9-cancer-du-pancreas)
 
+### À lire
+
+[Ducreux M. et al. Cancer of the pancreas: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2015.](https://www.annalsofoncology.org/article/S0923-7534(19)47178-0/fulltext)
+
 {{%/sources%}}
+{{% modal title="Score G8" id="modal-g8"%}}
+
+{{< scores/g8 >}}
+
+{{% /modal %}}

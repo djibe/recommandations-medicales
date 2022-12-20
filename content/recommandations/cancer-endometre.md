@@ -6,7 +6,7 @@ synonyms = ["Carcinome endométrial"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-16T10:38:54+01:00"
 publishdate = "2022-12-17"
-lastmod = "2022-12-17"
+lastmod = "2022-12-20"
 specialites = ["gynecologie-obstetrique"]
 annees = "2016"
 sources = ["HAS", "INCa", "ACOG"]
@@ -82,7 +82,7 @@ Signes et symptômes évocateurs à rechercher en cas de suspicion d'un cancer d
   - Leucorrhées
   - [Douleurs pelviennes](/tags/douleur-pelvienne/)
   - [Cystites répétées]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
-- +75 ans: évaluation gériatrique
+- +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
 > << Le diagnostic doit également être envisagé devant des métrorragies chez les femmes non ménopausées >> (*HAS 2010*)
 {.alert .alert-info}
@@ -174,6 +174,12 @@ Suivi après traitement du cancer de l'endomètre:
 ### À lire
 
 - [ACOG. Endometrial Intraepithelial Neoplasia. 2015. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2015/05/endometrial-intraepithelial-neoplasia)
-- [ACOG. Endometrial Cancer. 2015.](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2015/04/endometrial-cancer)
+- [Colombo N. et al. ESMO-ESGO-ESTRO Consensus Conference on Endometrial Cancer: diagnosis, treatment and follow-up. Annals of Oncology. 2016.](https://www.annalsofoncology.org/article/S0923-7534(19)35337-2/fulltext)
+- [ACOG. Endometrial Cancer. 2015. (payant)](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2015/04/endometrial-cancer)
 
 {{%/sources%}}
+{{% modal title="Score G8" id="modal-g8"%}}
+
+{{< scores/g8 >}}
+
+{{% /modal %}}

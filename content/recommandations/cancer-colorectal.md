@@ -6,7 +6,7 @@ synonyms = ["Cancer du côlon", "cancer du rectum"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
 publishdate = "2022-09-22"
-lastmod = "2022-11-07"
+lastmod = "2022-12-20"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["SNFGE", "INCa", "HAS", "SFED"]
@@ -153,6 +153,7 @@ Tout signe évocateur de cancer colorectal impose une consultation de gastro-ent
 - Activité physique, consommation de viande rouge, fibres
 - Symptômes digestifs (voir encadré plus bas)
 - AEG: amaigrissement, asthénie, anorexie
+- +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
 ### Examen clinique
 
@@ -361,9 +362,19 @@ Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 -
 - [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique SYNDROME HNPCC / lynch. 2009. (PDF)](https://www.e-cancer.fr/content/download/58350/531976/file/chir_prophy_predi_gene_hnpcc-lynch.pdf)
 - [INCa. Label métastases hépatiques synchrones du cancer colorectal (synthèse). (PDF)](https://www.e-cancer.fr/content/download/58365/532096/file/reco-label-mhs-synthese.pdf)
 
+### À lire
+
+- [ESMO. Localised Colon Cancer. Interactive Guideline.](http://interactiveguidelines.esmo.org/esmo-web-app/gl_toc/index.php?GL_id=74)
+- [Cervantes A. et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)
+
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
 
 {{< scores/mna >}}
+
+{{% /modal %}}
+{{% modal title="Score G8" id="modal-g8"%}}
+
+{{< scores/g8 >}}
 
 {{% /modal %}}

@@ -7,7 +7,7 @@ synonyms = ["Papillomavirus humains HPV", "dysplasies et condylomes"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2021-01-18T10:55:00+02:00"
 publishdate = "2022-04-20"
-lastmod = "2022-12-16"
+lastmod = "2022-12-20"
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
 sources = ["INCa", "HAS", "MinSanté"]
@@ -112,10 +112,10 @@ Les symptômes du cancer du col de l'utérus sont tardifs et témoignent d'une m
 - Métrorragies ± provoquées
 - Leucorrhées
 - Dyspareunies
-- [Douleurs pelviennes](/tags/douleur-pelvienne/)
+- [Douleurs pelviennes](/tags/douleur-pelvienne/) ou lombaires
 - Dysurie
-- Douleurs lombaires
 - Voire œdèmes des membres inférieurs et névralgie crurale si évoluée
+- +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
 ### Examen clinique
 
@@ -249,3 +249,8 @@ En cas de ménopause induite, un [traitement hormonal]({{< relref "menopause.md"
 - [Marth C. et al. Cervical cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2017.](https://www.annalsofoncology.org/article/S0923-7534(19)42148-0/fulltext)
 
 {{%/sources%}}
+{{% modal title="Score G8" id="modal-g8"%}}
+
+{{< scores/g8 >}}
+
+{{% /modal %}}

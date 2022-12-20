@@ -10,11 +10,11 @@ lastmod = "2022-09-19"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
 sources = ["SFCD", "Collèges"]
-tags = []
+tags = ["adolescent", "enfant"]
 anglais = ["Acute appendicitis"]
 sctid = "85189001"
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Appendicite terminale avec pus intraluminal chez un garçon de 7 ans avec douleurs abdominales depuis 2 jours. Cas de Maulik S Patel, Radiopaedia.org, rID: 16751"
 todo = "flowchart, https://www.sciencedirect.com/science/article/pii/B9782294759710000298, relecture leon.maggiori@aphp"
 +++
 
@@ -28,7 +28,7 @@ todo = "flowchart, https://www.sciencedirect.com/science/article/pii/B9782294759
 
 Appendicite aiguë
 : *Crise d'appendicite* en langage populaire.
-: Inflammation de l'appendice du cæcum (diverticule ~10cm du côlon droit de fonction inconnue) pouvant survenir à tout âge (6 ans - 40 ans ++).  
+: Inflammation de l'appendice du cæcum (diverticule ~10 cm du côlon droit de fonction inconnue) pouvant survenir à tout âge (6 ans - 40 ans ++).  
 Tableau de douleurs abdominales aiguës avec fébricule. Le diagnostic est difficile et le traitement de référence est chirurgical (environ 60.000/an).
 : La cause serait une obstruction de la lumière appendiculaire (stercolithe, ascaris), de la paroi (hyperplasie lymphoïde, tumeur) ou du cæcum.
 : Elle expose à des complications: abcès appendiculaire, phlegmon et plastron appendiculaire, perforation digestive ou nécrose (gangrène) avec **péritonite appendiculaire**.
@@ -196,6 +196,6 @@ Antibiothérapie type amoxicilline + a. clavulanique (Augmentin) ou fluoroquinol
 - Prescrire Redaction. Signes d'appendicite chez les enfants. Prescrire. 2021.
 - [Ameli. L'appendicite aiguë : symptômes, diagnostic et évolution. 06/12/2021.](https://www.ameli.fr/assure/sante/themes/appendicite-aigue/symptomes-diagnostic-evolution)
 - [HAS. Appendicectomie. Évaluation des technologies de santé. 2012.](https://www.has-sante.fr/jcms/c_1218019/fr/appendicectomie-elements-decisionnels-pour-une-indication-pertinente-rapport-d-evaluation)
-- [SNFGE. Appendicite aiguë](https://www.snfge.org/content/appendicite-aigue-0)
+- [SNFGE. Appendicite aiguë.](https://www.snfge.org/content/appendicite-aigue-0)
 
 {{%/sources%}}

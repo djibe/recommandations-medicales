@@ -1,0 +1,112 @@
+<div class="mt-4" id="score-g8">
+  <p>Questionnaire <abbr title="Gériatrie 8" lang="en">G8</abbr> (ou <em>Oncodage</em>) pour le repérage des sujets âgés atteints de cancer à risque de vulnérabilité.</p>
+  <p>Le questionnaire G8 est un outil de dépistage gériatrique qui permet d'identifier, parmi les patients âgés atteints de cancer,
+    ceux qui devraient bénéficier d'une évaluation gériatrique approfondie (<abbr title="évaluation gériatrique approfondie">EGA</abbr>).</p>
+  <fieldset>
+    <legend>1. Le patient présente-t-il une perte d’appétit&nbsp;? A-t-il mangé moins ces 3 derniers mois par manque d'appétit,
+      problèmes digestifs, difficultés de mastication ou de déglutition&nbsp;?</legend>
+    <input type="radio" id="g8-11" name="radio-g8-1" class="d-input-none" value="0" required>
+    <label for="g8-11" class="chip chip-action chip-sm chip-choice">Anorexie sévère</label>
+    <input type="radio" id="g8-12" name="radio-g8-1" class="d-input-none" value="1">
+    <label for="g8-12" class="chip chip-action chip-sm chip-choice">Anorexie modérée</label>
+    <input type="radio" id="g8-13" name="radio-g8-1" class="d-input-none" value="2">
+    <label for="g8-13" class="chip chip-action chip-sm chip-choice">Pas d'anorexie</label>
+  </fieldset>
+  <fieldset>
+    <legend>2. Perte récente de poids (&lt; 3 mois)</legend>
+    <input type="radio" id="g8-21" name="radio-g8-2" class="d-input-none" value="0" required>
+    <label for="g8-21" class="chip chip-action chip-sm chip-choice">Perte de poids &gt; 3 kg</label>
+    <input type="radio" id="g8-22" name="radio-g8-2" class="d-input-none" value="1">
+    <label for="g8-22" class="chip chip-action chip-sm chip-choice">Ne sait pas</label>
+    <input type="radio" id="g8-23" name="radio-g8-2" class="d-input-none" value="2">
+    <label for="g8-23" class="chip chip-action chip-sm chip-choice">Perte de poids entre 1 et 3 kg</label>
+    <input type="radio" id="g8-24" name="radio-g8-2" class="d-input-none" value="3">
+    <label for="g8-24" class="chip chip-action chip-sm chip-choice">Pas de perte de poids</label>
+  </fieldset>
+  <fieldset>
+    <legend>3. Motricité</legend>
+    <input type="radio" id="g8-31" name="radio-g8-3" class="d-input-none" value="0" required>
+    <label for="g8-31" class="chip chip-action chip-sm chip-choice">Du lit au fauteuil</label>
+    <input type="radio" id="g8-32" name="radio-g8-3" class="d-input-none" value="1">
+    <label for="g8-32" class="chip chip-action chip-sm chip-choice">Autonome à l'intérieur</label>
+    <input type="radio" id="g8-33" name="radio-g8-3" class="d-input-none" value="2">
+    <label for="g8-33" class="chip chip-action chip-sm chip-choice">Sort du domicile</label>
+  </fieldset>
+  <fieldset>
+    <legend>4. Problèmes neuropsychologiques</legend>
+    <input type="radio" id="g8-41" name="radio-g8-4" class="d-input-none" value="0" required>
+    <label for="g8-41" class="chip chip-action chip-sm chip-choice">Démence ou dépression sévère</label>
+    <input type="radio" id="g8-42" name="radio-g8-4" class="d-input-none" value="1">
+    <label for="g8-42" class="chip chip-action chip-sm chip-choice">Démence ou dépression modérée</label>
+    <input type="radio" id="g8-43" name="radio-g8-4" class="d-input-none" value="2">
+    <label for="g8-43" class="chip chip-action chip-sm chip-choice">Pas de problème psychologique</label>
+  </fieldset>
+  <fieldset>
+    <legend>5. Indice de masse corporelle (kg/m²)</legend>
+    <input type="radio" id="g8-51" name="radio-g8-5" class="d-input-none" value="0" required>
+    <label for="g8-51" class="chip chip-action chip-sm chip-choice">IMC &lt; 19</label>
+    <input type="radio" id="g8-52" name="radio-g8-5" class="d-input-none" value="1">
+    <label for="g8-52" class="chip chip-action chip-sm chip-choice">19 &le; IMC &lt; 21</label>
+    <input type="radio" id="g8-53" name="radio-g8-5" class="d-input-none" value="2">
+    <label for="g8-53" class="chip chip-action chip-sm chip-choice">21 &le; IMC &lt; 23</label>
+    <input type="radio" id="g8-54" name="radio-g8-5" class="d-input-none" value="3">
+    <label for="g8-54" class="chip chip-action chip-sm chip-choice">IMC &ge; 23</label>
+  </fieldset>
+  <fieldset>
+    <legend>6. Prend plus de 3 médicaments</legend>
+    <input type="radio" id="g8-61" name="radio-g8-6" class="d-input-none" value="0" required>
+    <label for="g8-61" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="g8-62" name="radio-g8-6" class="d-input-none" value="1">
+    <label for="g8-62" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>7. Le patient se sent-il en meilleure ou moins bonne santé que la plupart des personnes de son âge&nbsp;?</legend>
+    <input type="radio" id="g8-71" name="radio-g8-7" class="d-input-none" value="0" required>
+    <label for="g8-71" class="chip chip-action chip-sm chip-choice">Moins bonne</label>
+    <input type="radio" id="g8-72" name="radio-g8-7" class="d-input-none" value="0.5">
+    <label for="g8-72" class="chip chip-action chip-sm chip-choice">Ne sait pas</label>
+    <input type="radio" id="g8-73" name="radio-g8-7" class="d-input-none" value="1">
+    <label for="g8-73" class="chip chip-action chip-sm chip-choice">Aussi bonne</label>
+    <input type="radio" id="g8-74" name="radio-g8-7" class="d-input-none" value="2">
+    <label for="g8-74" class="chip chip-action chip-sm chip-choice">Meilleure</label>
+  </fieldset>
+  <fieldset>
+    <legend>8. Âge (ans)</legend>
+    <input type="radio" id="g8-81" name="radio-g8-8" class="d-input-none" value="0" required>
+    <label for="g8-81" class="chip chip-action chip-sm chip-choice">&gt; 85</label>
+    <input type="radio" id="g8-82" name="radio-g8-8" class="d-input-none" value="1">
+    <label for="g8-82" class="chip chip-action chip-sm chip-choice">80-85</label>
+    <input type="radio" id="g8-83" name="radio-g8-8" class="d-input-none" value="2">
+    <label for="g8-83" class="chip chip-action chip-sm chip-choice">&lt; 80</label>
+  </fieldset>
+  <div class="alert bg-light d-flex mt-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline score-output-title">Score G8</p>
+      <output class="score-output" id="g8Score">0</output>
+    </div>
+    <p id="g8Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  </div>
+</div>
+<blockquote class="blockquote my-4">
+  <p>Le G8 ou Oncodage a une sensibilité de 76,6% et une spécificité de 64,4% pour le repérage
+    d'une vulnérabilité ou d'une fragilité gériatrique.</p>
+  <p class="mb-0"><a href="https://ascopubs.org/doi/abs/10.1200/jco.2011.29.15_suppl.9001" rel="external nofollow noopener">Soubeyran P. et al. Validation of the G8 screening tool in geriatric oncology: The ONCODAGE project. Journal of Clinical Oncology. 2011. 29:15_suppl, 9001-9001.</a></p>
+</blockquote>
+{{ $script := `
+  // Score G8 - Oncodage by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scoreg8 = document.getElementById('g8Score')
+    const textg8 = document.getElementById('g8Text');
+    [...document.querySelectorAll('#score-g8 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcG8() ) })
+    const calcG8 = () => {
+      let score = 0
+      const checkedElems = document.querySelectorAll('#score-g8 input[type=\"radio\"]:checked')
+      if (checkedElems.length === 8) {
+        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
+        scoreg8.innerHTML = score
+        if (score <= 14) { textg8.innerHTML = "Fragilité. Nécessité d'une évaluation gériatrique" }
+        else { textg8.innerHTML = "Pas d'évaluation complémentaire nécessaire" }
+      }
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>

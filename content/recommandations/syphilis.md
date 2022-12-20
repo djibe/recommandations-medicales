@@ -239,7 +239,7 @@ Répéter le suivi sérologique dans les populations à risque (contaminées ou 
   Schéma BPG
 - Grossesse
   Schéma BPG et paracétamol (prévention d'Herxeimer)  
-  ± prednisone 0,5 mg/kg la veille et les 3 jours suivants l'injection en cas de syphilis secondaire profuse.
+  ± prednisone 0,5 mg/kg la veille et les 3 jours suivant l'injection en cas de syphilis secondaire profuse.
 - Syphilis congénitale  
   Prise en charge de la syphilis en hospitalisation.
 - Signes neurologiques, ophtalmologiques ou auditifs  

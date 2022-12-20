@@ -277,7 +277,7 @@ La prise en charge de la boulimie est pluridisciplinaire et chronique, ambulatoi
   Veiller à l'absence de recours à des régimes ou coupes-faim.
 - Insertion sociale, aides voire MDPH
 - Association de patients: [Association Autrement](https://www.anorexie-et-boulimie.fr/)
-- Information du patient (voir le chapitre suivant)
+- Information du patient (voir chapitre suivant)
 
 Les soins sont poursuivis au moins 1 an après l'obtention d'une amélioration significative.
 

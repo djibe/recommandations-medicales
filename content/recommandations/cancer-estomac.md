@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-16T20:52:00+02:00"
 publishdate = "2021-02-16"
-lastmod = "2022-09-15"
+lastmod = "2022-12-20"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2019"
 sources = ["SNFGE", "HAS"]
@@ -55,7 +55,7 @@ AE
 : Accord d'experts
 
 EOGD
-: Endoscopie œso-gastro-duodénale (ou fibroscopie/gastroscopie)
+: Endoscopie œso-gastro-duodénale (ou fibroscopie / gastroscopie)
 
 HP
 : *Helicobacter pylori*
@@ -120,6 +120,7 @@ Un cancer de l'estomac doit être évoqué et exploré devant:
 - Explorations réalisées
 - [Alcool]({{< relref "sevrage-alcool.md" >}}), tabagisme, alimentation fumée/salée
 - Évolution et ancienneté des symptômes
+- +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
 ### Examen clinique
 
@@ -207,11 +208,17 @@ Dépistage d'*H. pylori* systématique chez l'entourage au premier degré du pat
 ### À lire
 
 - [Zaanan A et al. Gastric cancer: French intergroup clinical practice guidelines for diagnosis, treatments and follow-up (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, SFRO)(TNCD). Dig Liver Dis. 2022.](https://www.snfge.org/content/9-cancer-du-pancreas)
+- [ESMO. Gastric cancer Interactive guidelines.](http://interactiveguidelines.esmo.org/esmo-web-app/gl_toc/index.php?GL_id=42)
 - {{< references/college-gastro >}}
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
 
 {{< scores/mna >}}
+
+{{% /modal %}}
+{{% modal title="Score G8" id="modal-g8"%}}
+
+{{< scores/g8 >}}
 
 {{% /modal %}}

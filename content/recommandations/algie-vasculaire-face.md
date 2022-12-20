@@ -77,7 +77,7 @@ Critères diagnostiques de l'algie vasculaire de la face (ICHD-3):
 
 1. Au moins 5 crises réunissant les critères B à D
 2. Douleur unilatérale sévère à très sévère, orbitaire, supra-orbitaire et/ou temporale durant 15 à 180 minutes sans traitement
-3. La céphalée est associée à au moins un des signes suivant
+3. La céphalée est associée à au moins un des signes suivants
     1. Au moins un des signes ou symptômes suivants survenant du côté de la douleur
         1. Injection conjonctivale et/ou larmoiement
         2. Congestion nasale et/ou rhinorrhée

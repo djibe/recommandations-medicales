@@ -104,7 +104,7 @@ La prestation est accordée pour 5 ans, automatiquement renouvelable.
 {{% /collapse %}}
 {{%collapse "Contester la décision d'APA" %}}
 
-- La contestation doit être déposée dans les 2 mois suivants la notification de la décision contestée
+- La contestation doit être déposée dans les 2 mois suivant la notification de la décision contestée
 - par recours amiable par lettre recommandée AR adressée au président de la commission d'APA du département
 - ou déposer un recours contentieux devant la commission départementale d'aide sociale
 - En dernier recours: Faire appel à la commission centrale d'aide sociale, voire le recours en cassation devant le Conseil d'État

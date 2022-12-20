@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr J. OLIVIER (AFU)"
 date = "2020-09-27T19:51:30+02:00"
 publishdate = "2020-09-27"
-lastmod = "2022-12-08"
+lastmod = "2022-12-20"
 specialites = ["urologie"]
 annees = "2022"
 sources = ["EAU", "AFU", "HAS", "USPTF"]
@@ -17,7 +17,7 @@ sctid = "254900004"
 flowchart = true
 image = true
 imageSrc = "Illustration du cancer de la prostate par brgfx / Freepik "
-todo = "Geriatric 8 Table 5.10 source 151, tableau espérance de vie"
+todo = "tableau espérance de vie"
 +++
 
 {{%article-summary%}}
@@ -130,9 +130,7 @@ La plupart des hommes atteints par le cancer de la prostate sont asymptomatiques
   - Prostate suspecte: nodule dur, irrégulier, indolore voire blindage pelvien
   - Sensibilité et spécificité en soins primaires < 60%
 - Nutritionnel
-- Gériatrique
-  - Gériatrique G8
-  - Cognitif [mini-COG](https://mini-cog.com/wp-content/uploads/2022/03/Standardized-English-Mini-Cog-1-19-16-EN_v1-low-1.pdf)
++75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...), cognitif [mini-COG (PDF)](https://mini-cog.com/wp-content/uploads/2022/03/Standardized-English-Mini-Cog-1-19-16-EN_v1-low-1.pdf)
 
 **NB.** Toute anomalie au toucher rectal doit conduire à une consultation d'urologie.
 
@@ -271,4 +269,13 @@ graph TB
 - [HAS. Détection précoce du cancer de la prostate. Mai 2013.](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate)
 - [HAS. ALD n°30 - Cancer de la prostate. Guide maladie chronique. 2012.](https://www.has-sante.fr/jcms/c_725257/fr/ald-n-30-cancer-de-la-prostate)
 
+### À lire
+
+[Horwich A. et al. Prostate cancer: ESMO Consensus Conference Guidelines 2012. Annals of Oncology. 2012.](https://www.annalsofoncology.org/article/S0923-7534(19)37245-X/fulltext)
+
 {{%/sources%}}
+{{% modal title="Score G8" id="modal-g8"%}}
+
+{{< scores/g8 >}}
+
+{{% /modal %}}

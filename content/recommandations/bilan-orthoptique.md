@@ -54,7 +54,7 @@ Indications au bilan orthoptique devant les signes ou symptômes suivants:
 - Ptosis (paupière tombante) et nystagmus
 {.list-group}
 
-Et chez l'enfant avec les signes suivants (+ ci-dessus):
+Et chez l'enfant avec les signes suivant (+ ci-dessus):
 
 - Acuité visuelle réduite
 - Antécédent parental et suspicion pour l'enfant (*NHS*)
