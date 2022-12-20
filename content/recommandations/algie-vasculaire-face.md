@@ -18,20 +18,20 @@ sctid = "193031009"
 flowchart = true
 image = false
 imageSrc = ""
-todo = "SEO dont 'algie vasculaire de la face', Examen, collège"
+todo = "Examen, collège"
 +++
 
 {{%article-summary%}}
 
 Adaptation des recommandations pour le diagnostic et le traitement de l'Algie Vasculaire de la Face de la SFEMC 2014 pour le médecin généraliste
 
-- Critères diagnostiques +++
+- Critères diagnostiques stricts de l'algie vasculaire +++
 - Signes migraineux possibles (prodromes, troubles digestifs, aura, photophobie, hyperacousie)
-- IRM cérébrale et ARM cérébrale au diagnostic
-- Sumatriptan 6 mg SC dès le début des douleurs
+- Examens complémentaires systématiques avec IRM cérébrale et angio-IRM cérébrale au diagnostic
+- Prise en charge de la crise douloureuse par sumatriptan 6 mg SC dès le début des douleurs
 - Oxygène prescrit et renouvelé par le spécialiste
-- Vérapamil dès le début de la période douloureuse, titration avec surveillance ECG.  
-  Décroissance en fin de période douloureuse, ≥ 2 semaines après la dernière crise
+- Traitement de fond par vérapamil dès le début de la période douloureuse, titration avec surveillance ECG  
+  Décroissance en fin de période douloureuse, ≥ 2 semaines après la dernière crise.
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -43,7 +43,7 @@ Algie vasculaire de la face (AVF)
 : Conséquences sur la qualité de vie, dépression (x 5,6), idées suicidaires (55%) et perte de productivité professionnelle.
 
 Algie vasculaire de la face réfractaire
-: Forme chronique depuis plus de 3 ans, crises quotidiennes et résistantes aux traitements de fond (vérapamil à 960 mg/j, lithium efficace et bithérapie).
+: Forme chronique d'algie vasculaire depuis plus de 3 ans, crises quotidiennes et résistantes aux traitements de fond (vérapamil à 960 mg/j, lithium efficace et bithérapie).
 : Le traitement chirurgical peut être envisagé.
 
 ### Abréviations
@@ -173,14 +173,16 @@ Un fond douloureux persistant est possible entre les crises en forme chronique.
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
+Autres causes de céphalées paroxystiques à étayer:
+
 - [Migraine]({{< relref "migraine.md" >}})  
-Moins sévère et plus longue, signes dysautonomiques bilatéraux, tendance au repli.
+  Moins sévère et plus longue, signes dysautonomiques bilatéraux, tendance au repli.
 - [Névralgie du trijumeau]({{< relref "nevralgie-trigeminale-classique.md" >}})  
-Après 50 ans, salves très brèves de quelques minutes. Territoires V2 et V3, dysautonomie minime, zone gâchette.
+  Après 50 ans, salves très brèves de quelques minutes. Territoires V2 et V3, dysautonomie minime, zone gâchette.
 - Autres céphalées trigémino-autonomiques (CTA)  
-Crises plus courtes et plus fréquentes, sans périodicité, sensibilité thérapeutique différente.
+  Crises plus courtes et plus fréquentes, sans périodicité, sensibilité thérapeutique différente.
 - Céphalée hypnique  
-Céphalée nocturne uniquement. Après 50 ans, intensité légère/modérée sans agitation.
+  Céphalée nocturne uniquement. Après 50 ans, intensité légère/modérée sans agitation.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -189,7 +191,7 @@ Céphalée nocturne uniquement. Après 50 ans, intensité légère/modérée san
 
 ### Bilan devant une algie vasculaire de la face
 
-IRM cérébrale et ARM cérébrale systématiques  
+IRM cérébrale et angio-IRM cérébrale systématiques  
 {{%class%}}Au diagnostic, pour éliminer une forme secondaire.{{%/class%}}
 {{%/info%}}
 
@@ -258,15 +260,14 @@ Traitements de l'algie spécialisés:
 - Dihydroergotamine injectable
 
 {{% /collapse %}}
-{{%collapse "Traitement de fond" %}}
+{{%collapse "Traitement de fond de l'algie vasculaire" %}}
 
 Indication à la prise en charge par traitement de fond de l'algie vasculaire de la face: forme épisodique avec période douloureuse plus de 2 semaines ou forme chronique.
 
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Éviction de l'alcool, cannabis et cocaïne
 - Traitement transitionnel si besoin le temps de la titration (voir *Traitement de la crise*)
-- Association de patients  
-[AFCAVF](http://www.afcavf.org/index/page/id/accueil)
+- Association de patients: [AFCAVF](http://www.afcavf.org/index/page/id/accueil)
 - [Appli d'agenda des crises](https://play.google.com/store/apps/details?id=eu.monavf.android.monavf)
 - Pas d'ALD accordée
 
@@ -290,7 +291,7 @@ Voire *lithium*.
 - Stimulation cérébrale profonde (hypothalamique)
 
 {{% /collapse %}}
-{{%collapse "Pris en charge d'une algie vasculaire de la face AVF" "show" %}}
+{{%collapse "Pris en charge d'une algie vasculaire de la face (AVF)" "show" %}}
 
 {{< mermaid title="Conduite à tenir et prise en charge d'une suspicion d'algie vasculaire de la face. Dr JB Fron d'après SFEMC 2014" >}}
 graph TB

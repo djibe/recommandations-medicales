@@ -126,7 +126,7 @@ Signes et symptômes de ménopause précoce à rechercher:
   - Troubles de l'humeur
   - Douleurs articulaires
 - Syndrome génito-urinaire de la ménopause  
-  Diagnostic clinique si ≥ 1 parmi: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (SFU, cystites récidivantes).
+  Diagnostic clinique si ≥ 1 parmi: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (signes fonctionnels, [cystites récidivantes]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})).
 - Chez l'enfant: impubérisme
 - Dépression, anxiété
 

@@ -181,7 +181,7 @@ Adresser à tout spécialiste en gynécologie (généraliste, gynécologue, sage
   Nécessite un suivi gynécologique régulier.
 - Préférer les modèles en silicone
 - Hydratants, lubrifiants ou estrogènes vaginaux possibles en cas de syndrome génito-urinaire de la ménopause  
-  ≥ 1 symptôme parmi: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (SFU, cystites récidivantes). Voir *[Ménopause]({{< relref "menopause.md" >}})*
+  ≥ 1 symptôme parmi: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (signes fonctionnels, [cystites récidivantes]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})). Voir *[Ménopause]({{< relref "menopause.md" >}})*
 - Rapports sexuels possibles avec pessaire anneau
 - Efficacité moindre en rectocèle prédominante ou isolée
 

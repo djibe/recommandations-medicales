@@ -117,7 +117,7 @@ Population à risque d'insuffisance rénale chronique, définie par la présence
 - Maladie de système ou auto-immune  
   Lupus, vascularite, [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}).
 - Pathologie urologique  
-  Uropathie obstructive, infections urinaires récidivantes.
+  Uropathie obstructive, [infections urinaires récidivantes]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}).
 - Antécédents familiaux d'insuffisance rénale évolutive
 - Antécédents de néphropathie aiguë
 - Traitement par {{< modal-btn modal-nephrotoxiques >}}néphrotoxiques{{< /modal-btn >}}  

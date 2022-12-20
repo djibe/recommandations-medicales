@@ -187,7 +187,7 @@ Le diagnostic est clinique (voir *Définitions*).
   - Douleurs ostéoarticulaires
   - Syndrome génito-urinaire de la ménopause (SGUM, 27-70%)  
     Ex. *atrophie vulvovaginale*.  
-    Diagnostic clinique si ≥ 1 symptôme: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (SFU, cystites récidivantes).
+    Diagnostic clinique si ≥ 1 symptôme: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (signes fonctionnels, [cystites récidivantes]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})).
 - Information claire des bénéfices-risques à notifier dans le dossier médical
 
 > En début de ménopause, le score clinique *FRAX* a des performances prédictives de fracture médiocres alors que la mesure de la DMO par DXA est prédictive à 10 ans (Se 60%, Spe 70%)
