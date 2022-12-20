@@ -6,16 +6,15 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-29T14:54:41+02:00"
 publishdate = "2020-11-30"
-lastmod = "2022-07-10"
+lastmod = "2022-12-20"
 specialites = ["dermatologie"]
-annees = "2017"
-sources = ["HAS", "SFDermato"]
+annees = "2022"
+sources = ["EADO", "HAS", "SFDermato"]
 tags = ["cancer", "depistage"]
 anglais = ["Melanoma"]
 sctid = "2092003"
 image = true
-imageSrc = "National Cancer Institute"
-todo = "MAJ"
+imageSrc = "Mélanome cutané par le National Cancer Institute"
 +++
 
 {{%article-summary%}}
@@ -35,8 +34,8 @@ todo = "MAJ"
 {{%collapse "Définitions" %}}
 
 Mélanome malin
-: Tumeur maligne cutanée la plus grave développée aux dépens des mélanocytes.  
-La majorité survient sur peau saine, 20% sur nævus pré-existant.
+: Tumeur maligne la plus grave développée aux dépens des mélanocytes.  
+La majorité survient sur peau saine, 20% sur nævus pré-existant. Le mélanome peut également atteindre l'œil, les méninges et les muqueuses.
 : Le mélanome atteint tous les âges, surtout les personnes avec *Facteurs de risque* (voir chapitre plus bas).  
 Le facteur pronostic pronostic majeur est l'*indice de Breslow*.
 
@@ -49,19 +48,21 @@ Il n'est donné que pour les mélanomes envahissant le derme.
 
 ### Types histologiques de mélanome
 
-- Superficiel extensif SSM (60-70%)
-- de Dubreuilh (10%)
-- Acro-lentigineux (des paumes-plantes, 2%)
-- Nodulaire (exceptionnel)
-- Muqueux
-- Inclassable
+4 types principaux de mélanomes:
+
+1. Mélanome superficiel extensif SSM (40%)
+2. Mélanome nodulaire (16%)
+3. Mélanome lentigo malin ou de Dubreuilh (2,7-14%)
+4. Mélanome acro-lentigineux (des paumes-plantes, 1-5%)
+
+Autres types histologiques: mélanome muqueux ou inclassable.
 
 Le type histologique ne modifie pas le pronostic à indice de Breslow identique.  
-La lésion primitive n'est parfois jamais retrouvé au stade métastatique.
+La lésion primitive n'est parfois jamais retrouvée au stade métastatique.
 
 ### Facteurs pronostics anatomopathologiques du mélanome
 
-Indice de Breslow, de Clark, ulcération, index mitotique, emboles vasculaires.
+Plusieurs facteurs sont utilisés: indice de Breslow, de Clark, ulcération, index mitotique, emboles vasculaires.
 
 ### Épidémiologie du mélanome
 
@@ -70,7 +71,7 @@ Indice de Breslow, de Clark, ulcération, index mitotique, emboles vasculaires.
   {{%class%}}47% de femmes. Incidence en augmentation de 3,4 %/an (période 2010-2018). x50 sur période 1990-2018{{%/class%}}
 - Âge moyen au diagnostic: 56 ans.
 - Décès annuels: 1783 (2017)  
-{{%class%}}58% d'hommes. 1,2% des décès par cancer.{{%/class%}}
+  {{%class%}}58% d'hommes - 1,2% des décès par cancer - 90% de la mortalité par cancer cutané{{%/class%}}
 - **Survie à 5 ans:** 88% en stade localisé versus 18% si métastatique.
 - 80% surviennent de novo sur peau saine et 20% sur nævus pré-existant.
 - 10% des mélanomes sont familiaux (≥ 2 personnes atteintes dans une famille).
@@ -88,15 +89,15 @@ Pour toutes les personnes à risque: auto-examen cutané tous les 3 mois et cons
 
 - Physique
   - Sujet à peau claire  
-  Cheveux roux ou blonds, yeux clairs.
+    Cheveux roux ou blonds, yeux clairs.
   - Éphélides nombreuses
   - Nombreux nævi (≥ 40)
   - Nævus congénital géant
-  - Nævus atypique (> 5mm, irrégulier)
+  - Nævus atypique (> 5 mm, irrégulier)
   - Sensibilité au soleil (coups de soleil fréquents, bronze peu)
-- Photo-exposition solaire/UV/latitude  
+- Photo-exposition solaire (UV, latitude)  
   Brûlures dans l'enfance (cloques) ++
-- Antécédents familiaux de cancer cutané (mélanome sur nævi dysplasiques)
+- Antécédents familiaux de cancer cutané (5-10% ont un caractère familial)
 - Antécédent personnel de mélanome  
   Risque de 2<sup>e</sup> de 5 à 8%.
 - Immunodépression
@@ -111,6 +112,10 @@ Ces personnes doivent réaliser un auto-examen trimestriel et un suivi dermatolo
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
+
+### Autres diagnostics à évoquer devant un aspect de mélanome
+
+Le diagnostic est anatomopathologique avec l'ablation macroscopiquement totale de la lésion:
 
 - Nævus atypique
 - Kératose séborrhéique  
@@ -143,22 +148,21 @@ Ces personnes doivent réaliser un auto-examen trimestriel et un suivi dermatolo
 ### Examen clinique
 
 {{%warning%}}
-Un mélanome est lésion pigmentée avec caractères ABCDE suivants:
+Un mélanome est lésion pigmentée avec les critères ABCDE suivants:
 
 - Asymétrique
 - Bordure irrégulière, encochée, polycyclique
 - Couleur hétérogène (brun clair ou foncé, rouge, bleuté, noir)
-- Diamètre > 6 mm
+- Diamètre > 5 mm (*EADO 2022*)
 - **Évolution** en aspect, taille, couleur, épaisseur  
   Critère majeur.
-
 {{%/warning%}}
 
 - Une lésion mélanocytaire est considérée comme **suspecte si ≥ 2 critères ABCDE sont validés**.
 - Un **nævus est considéré comme suspect s'il est différent des autres**.
-- Inspection et palpation de la totalité du revêtement cutané et des muqueuses accessibles  
+- Inspection et palpation de l'ensemble de la peau et des muqueuses accessibles  
   Recherche mélanome, nævus atypique, nodules sous-cutanés.
-- Palpation de toutes les aires ganglionnaires
+- Palpation des aires ganglionnaires
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -166,42 +170,50 @@ Un mélanome est lésion pigmentée avec caractères ABCDE suivants:
 Aucun examen complémentaire en première intention.  
 Ils relèvent du bilan d'extension après réunion de concertation pluridisciplinaire.
 
-### En savoir plus: examens du mélanome
+### En savoir plus: Examens du mélanome
 
-Toute suspicion de mélanome doit bénéficier d'une exérèse macroscopique complète (sauf mélanome géant) avec analyse anatomo-pathologique.  
+Toute suspicion de mélanome doit bénéficier d'une exérèse macroscopique complète (sauf mélanome géant) avec analyse anatomopathologique.  
 L'exérèse doit être réalisée avec une marge de 1 à 3 mm de peau saine et doit inclure toutes les couches de peau et un peu de graisse sous-cutanée.  
-La recherche de *mutation BRAF V600* est systématique.
+La recherche de la *mutation BRAF V600* est systématique.
 
 Le dossier doit être présenté en RCP.
 
 #### Reprise chirurgicale
 
-Dépend du classement pT de la tumeur.
+La reprise de la tumeur dépend du classement pT de la tumeur afin de déterminer la marge nécessaire:
+
+- Mélanome in situ: 5 mm
+- Breslow ≤ 2 mm: 1 cm
+- Breslow > 2 mm: 2 cm
 
 #### Imagerie
 
 - Échographie des aires ganglionnaires locorégionales.  
-  Indications: mélanome stade II ou III.
-- Scanner cérébro-TAP ± TEP-FDG  
-  Indications: envahissement ganglionnaire ou Breslow > 4 mm avec ulcération.
+  Indication: mélanome stade IB et supérieurs.
+- Scanner TAP avec injection ou TEP-FDG  
+  \+ IRM cérébrale  
+  Indications: stade IIC et supérieurs.
+
+> *EADO/EDF/EORTC 2022*
 
 #### Ganglion sentinelle
 
-Indication: Breslow > 1 mm OU ulcéré ET absence d'adénopathie suspecte.
+Indications au ganglion sentinelle (en l'absence d'adénopathie suspecte):
+
+- Indice de Breslow ≥ 1 mm
+- ou ≥ 0,8 mm avec d'autres facteurs de risque histologiques (ulcération, ≥ 1 mitose/mm², microsatellites ...)
+
+> *EADO/EDF/EORTC 2022*
 
 #### LDH
 
-Facteur pronostic en cas de métastases
+Les LDH sont un facteur pronostic en cas de métastases.  
 Aucun dosage de marqueurs tumoraux n'est recommandé.
-
-#### Évaluation gériatrique
-
-Systématique pour les patients de plus de 75 ans avant la RCP.
 
 {{% /collapse %}}
 {{%collapse "Prévention du mélanome" %}}
 
-- Gestes de protection contre les rayons UV (INCa)
+- Gestes de protection contre les rayons UV (*INCa*)
   - Ne pas exposer les enfants de moins de 3 ans aux rayons UV
   - Rechercher l'ombre au maximum et ne pas s'exposer aux heures les plus chaudes (de 10h à 14h en Outre-mer et de 12h à 16h en métropole)
   - Se couvrir : porter des habits longs et amples, un chapeau à bords larges et des lunettes de soleil avec filtre anti-UV
@@ -223,21 +235,21 @@ Dès suspicion de mélanome, adresser en semi-urgence au dermatologue pour une e
 
 **NB**. Jamais de biopsie de lésion pigmentée, l'exérèse complète doit être systématique.
 
-Le traitement est décidé en **réunion de concertation pluridisciplinaire**.
+Le traitement et la suite de la prise en charge sont décidés en **réunion de concertation pluridisciplinaire** (RCP).
 
-### En savoir plus: traitements du mélanome
+### En savoir plus: Traitements du mélanome
 
-- Immunomodulateurs  
-Interféron-alpha 2a et 2b (TODO: encore ?).
 - Immunothérapies
   - anti-CTLA-4: ipilimumab (Yervoy®)
   - anti-PD-1: nivolumab (Opdivo®), pembrolizumab (Keytruda®)
 - Thérapies ciblées
-  - anti-BRAF: vémurafénib (Zelboraf®), dabrafénib (Tafinlar®)
-  - anti-MEK: cobimetinib (Cotellic®), trametinib (Mekinist®)
+  - anti-BRAF: dabrafénib (Tafinlar®), encorafénib (Braftovi®), vémurafénib (Zelboraf®)
+  - anti-MEK: binimétinib (Mektovi®), cobimetinib (Cotellic®), trametinib (Mekinist®)
 - Chimiothérapies
+  - carbotaxol
   - dacarbazine
   - fotémustine
+  - témozolomide
 - Radiothérapie
 - Curage ganglionnaire
 
@@ -246,16 +258,16 @@ Interféron-alpha 2a et 2b (TODO: encore ?).
 
 Le risque d'apparition d'un 2<sup>e</sup> cancer cutané est supérieur à la population générale.
 
-- Déclaration ALD n°30
+- Déclaration [ALD n°30]({{< relref "affection-longue-duree.md" >}})
 - Mesures de prévention (voir *[Prévention]({{< relref "#prévention" >}})*)
 - Photoprotection systématique personnelle + familiale
 - Dépistage cutané des apparentés du 1<sup>er</sup> degré
 - Auto-surveillance (dépistage + récidive)  
-Consulter au plus vite en cas d'anomalie.
+  Consulter au plus vite en cas d'anomalie.
 - Examen clinique complet (généraliste + dermatologue)
-  - Rythme selon recommandations en vigueur.
-  - Rapproché pendant 5 ans, puis annuel à vie.
-  - Inspection et palpation des tégument, cicatrice d'exérèse, muqueuses, aires ganglionnaires.
+  - Rythme selon recommandations en vigueur
+  - Rapproché pendant 5 ans (concentre 90% des récidives) puis annuel à vie
+  - Inspection et palpation des tégument, cicatrice d'exérèse, muqueuses, aires ganglionnaires
 - Examens complémentaires selon recommandations
   - Échographie
   - TEP-scan
@@ -303,6 +315,8 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 {{% /collapse %}}
 {{%sources%}}
 
+- [Garbe C. et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00152-6/fulltext)
+- [Garbe C. et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00228-3/fulltext)
 - [INCa. << L'ombre, c'est l'endroit le plus cool de l'été ! >>: la nouvelle campagne d'information de l'Institut national du cancer sur la prévention des risques solaires. 04/07/2022.](https://www.e-cancer.fr/Actualites-et-evenements/Actualites/L-ombre-c-est-l-endroit-le-plus-cool-de-l-ete-!-la-nouvelle-campagne-d-information-de-l-Institut-national-du-cancer-sur-la-prevention-des-risques-solaires)
 - [HAS. Mélanome cutané : la détection précoce est essentielle. 11/02/2020.](https://www.has-sante.fr/jcms/pprd_2974838/fr/melanome-cutane-la-detection-precoce-est-essentielle?fbclid=IwAR0lsNr1vfC7AvM-SeKrLZlYNiRb0q4bgx4_mgwkQRRjHLJNMPPIlmxWC_U)
 - [Oncologik. Mélanomes vulvaires et vaginaux. 24/01/2020.](http://oncologik.fr/referentiels/rrc/melanomes-vulvaires-et-vaginaux)
@@ -315,11 +329,8 @@ Examen avec miroir à main: Surélever chaque jambe pour examiner la face intern
 
 ### À lire
 
-- [Garbe C. et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00152-6/fulltext)
-- [Garbe C. et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00228-3/fulltext)
 - [Michielin O. et al. ESMO consensus conference recommendations on the management of locoregional melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39940-3/fulltext)
 - [Keilholz U. et al. ESMO consensus conference recommendations on the management of metastatic melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39939-7/fulltext)
-- [INCa. Détection précoce des cancers de la peau - Médecins généralistes. Octobre 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Detection-precoce-des-cancers-de-la-peau-Medecins-generalistes)
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}

@@ -186,7 +186,7 @@ Débuter avec ces dosages le premier mois.
   <h3 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie au 18/10/2022. (PDF)</h3>
   <footer class="blockquote-footer">
     <cite title="Ameli"><a
-        href="https://www.ameli.fr/sites/default/files/Documents/Liste-substituts-nicotiniques_assurance-maladie_2022-10-18.DPROD_v2.pdf"
+        href="https://www.ameli.fr/content/liste-des-substituts-nicotiniques-pris-en-charge-par-l-assurance-maladie"
         rel="external nofollow noopener">L'Assurance Maladie</a></cite>
   </footer>
 </blockquote>

@@ -1,12 +1,12 @@
 +++
 title = "Varicelle"
 prefix = "la "
-description = "Recommandations pour la prise en charge de la varicelle. Personne à risque, indication à la vaccination, à l'antiviral aciclovir et aux immunoglobulines ant-VZV"
+description = "Recommandations pour la prise en charge de la varicelle. Personnes à risque, indication à la vaccination, antiviral aciclovir et immunoglobulines anti-VZV"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-22T12:09:36+01:00"
 publishdate = "2022-04-07"
-lastmod = "2022-04-27"
+lastmod = "2022-12-20"
 specialites = ["pediatrie"]
 annees = "2020"
 sources = ["SPILF", "ANSM", "MinSanté"]
@@ -16,18 +16,22 @@ sctid = "38907003"
 flowchart = true
 image = true
 imageSrc = "Lésion vésiculeuse typique de varicelle peu après son apparition. Devient trouble en 1 à 2 jours. Par F malan, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "SEO, vérif co-vaccination ROR"
+todo = "vérif co-vaccination ROR"
 +++
 
 {{%article-summary%}}
 
-- Bénigne uniquement chez les enfants immunocompétents
-- Immunité quasi définitive
-- Rechercher pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans
-- Personne à risque de forme grave: immunodépression (hémopathie, VIH, chimiothérapie), nouveau-né, nouveau-né si mère a débuté éruption 5 jours avant et 2 jours après l'accouchement, forme grave enfant < 1 an, varicelle compliquée, varicelle chez femme enceinte dont éruption débute 10 jours avant l'accouchement
+- La varicelle est bénigne uniquement chez les enfants immunocompétents
+- L'immunité conférée par l'infection au virus VZV est quasi définitive (5% de récidives)
+- Rechercher des complications de la varicelle: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans
+- Personnes à risque de forme grave de varicelle:
+  - Immunodépression (hémopathie, [VIH]({{< relref "vih-sida.md" >}}), chimiothérapie)
+  - Varicelle du nouveau-né ou si sa mère a débuté éruption une éruption varicelleuse 5 jours avant et 2 jours après l'accouchement
+  - Varicelle compliquée
+  - Varicelle chez la femme enceinte dont l'éruption débute 10 jours avant l'accouchement
 - Statut immunitaire de l'entourage et sérologie en urgence si personne à risque de forme grave exposée à la varicelle ou au zona ou personne susceptible d'être vaccinée
-- Pas d'AINS, aspirine ni corticoïdes
-- Pas d'éviction scolaire (*CMIT 2020*)
+- Prise en charge symptomatique sans AINS, aspirine ni corticoïdes
+- Pas d'éviction scolaire en cas de varicelle (*CMIT 2020*)
 
 Chapitre lié: [zona]({{< relref "zona.md" >}})
 
@@ -35,9 +39,9 @@ Chapitre lié: [zona]({{< relref "zona.md" >}})
 {{%collapse "Définition" %}}
 
 Varicelle
-: Maladie infectieuse correspondant à la primo-infection par le virus Varicelle-Zona (VZV), bénigne uniquement chez les enfants immunocompétents mais extrêmement contagieuse.
-: Formes graves chez les immunodéprimés, nouveaux-nés et risque d'embryo-fœtopathie avant 24 SA. Fréquemment compliquée chez les adultes.
-: Transmission respiratoire par gouttelettes ou par contact direct. L'immunité naturelle est quasi définitive (5% de récidives). Possible survenue de [zona]({{< relref "zona.md" >}}) après des années.
+: Maladie infectieuse correspondant à la primo-infection par le virus Varicelle-Zona (VZV). L'infection n'est bénigne que chez les enfants immunocompétents et s'avère extrêmement contagieuse.
+: Des formes graves de varicelle surviennent chez les immunodéprimés, les nouveaux-nés avec risque d'embryo-fœtopathie avant 24 SA. Elle se complique fréquemment chez l'adulte.
+: Transmission respiratoire par gouttelettes ou par contact direct. L'immunité naturelle est quasi définitive (5% de récidives). Possible réactivation sous forme de [zona]({{< relref "zona.md" >}}) après des années.
 
 ### Complications de la varicelle
 
@@ -50,9 +54,9 @@ Varicelle
 - Complications exceptionnelles  
   Hépatite, thrombopénie secondaire, néphropathie, arthrite, thrombose, complication oculaire, péricardite, pancréatite, orchite.
 - Varicelle congénitale  
-  Survenue chez femme enceinte < 20 SA (risque congénital de 1%).
+  Survenue chez femme enceinte avant 20 SA (risque congénital de 1%).
 
-### Épidémiologie
+### Épidémiologie de la varicelle en France
 
 En France, à la différence des autres grands pays, la vaccination contre la varicelle n'est pas proposée à partir d'un an à cause de la défiance antivax (*Infovac*).
 
@@ -61,12 +65,15 @@ En France, à la différence des autres grands pays, la vaccination contre la va
 - Mortalité: 1,4-2/100.000 (x10 après 45 ans)
 - 350-550 cas gravidiques annuels estimés et complications fréquentes chez l'adulte
 - Prévalence: 50% avant 5 ans, 90% avant 10 ans
-- Sujet immunodéprimé: risque de varicelle sévère de 30% avec risque de décès de 10%
+- Sujet immunodéprimé: risque de varicelle sévère de **30%** avec **risque de décès de 10%**
 
 ### Abréviations
 
 AAC
 : autorisation d'accès compassionnel (ex *ATU*, autorisation temporaire d'utilisation)
+
+CMIT
+: Collège des Universitaires des Maladies Infectieuses et Tropicales
 
 IV
 : intraveineux
@@ -81,7 +88,7 @@ VZV
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Toujours rechercher: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans
+Toujours rechercher des complications de la varicelle: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans
 {.alert .alert-info}
 
 - Antécédent de varicelle
@@ -96,18 +103,18 @@ Toujours rechercher: pneumopathie, myocardite, thrombopénie aiguë, purpura ful
   - Lésions cutanées se développent par vagues du **tronc vers les extrémités**, atteinte habituelle oropharynx, conjonctive, génitale (cuir chevelu, face et thorax +++)
   - Respect paumes-plantes
   - **Lésions d'âge différent sur 1 à 7 jours**
-- Rechercher les formes graves: très extensives, hémorragiques ou viscérale.
+- Rechercher les formes graves: très extensives, hémorragiques ou viscérale
 - Diagnostic différentiel  
-  Prurigo strophulus (réaction aux piqûres d'insectes), zona généralisé de l'immunodéprimé, infections à poxvirus
+  Prurigo strophulus (réaction aux piqûres d'insectes), zona généralisé de l'immunodéprimé, infections à poxvirus.
 
-Évolution spontanément favorable en 10-15 jours, sauf personnes à risque.
+Évolution de la varicelle spontanément favorable en 10-15 jours, sauf chez les personnes à risque.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Sérologie varicelle
+### Sérologie varicelleuse
 
-Sérologie en urgence si personne à risque de forme grave exposée à la varicelle ou au zona ou personne susceptible d'être vaccinée.
+Sérologie varicelle en urgence si personne à risque de forme grave exposée à la varicelle ou à un zona ou personne susceptible d'être vaccinée.
 
 {{% /collapse %}}
 {{%collapse "Prévention de la varicelle" %}}
@@ -118,14 +125,13 @@ Sérologie en urgence si personne à risque de forme grave exposée à la varice
 
 #### Indications limitées à la vaccination anti-varicelleuse
 
-Vaccination recommandée sans antécédents de varicelle ou histoire douteuse:
+Vaccination recommandée en l'absence d'antécédent de varicelle (ou histoire douteuse):
 
-1. Adolescents de 12 à 18 ans  
+1. Adolescent de 12 à 18 ans  
   << Sérologie peut être pratiquée >>.
-2. Femmes en âge de procréer (projet de grossesse ++) ou après une première grossesse  
+2. Femme en âge de procréer (projet de grossesse ++) ou après une première grossesse  
   << Sérologie peut être pratiquée >>, test de grossesse et contraception efficace le mois suivant.
-3. Toute personne avec sérologie négative  
-  ET contact étroit avec des personnes immunodéprimées
+3. Toute personne avec sérologie négative ET contact étroit avec des personnes immunodéprimées
 4. Attente de greffe d'organe solide (dans les 6 mois) avec sérologie négative  
   2 doses à ≥ 1 mois d'intervalle.
 5. Vaccination post-exposition: ≥ 12 ans immunocompétent en contact avec un cas de varicelle ou de [zona]({{< relref "zona.md" >}})  
@@ -137,7 +143,7 @@ Vaccination recommandée sans antécédents de varicelle ou histoire douteuse:
 Vaccination varicelle contre-indiquée pendant la grossesse. Une grossesse doit être évitée dans le mois suivant la vaccination
 {.alert .alert-warning}
 
-#### Spécialités
+#### Spécialités de vaccins varicelle
 
 2 vaccins vivants atténués monovalents en 2 doses Varilrix® (GSK) ou Varivax® (Sanofi) dont l'efficacité dépasse 95% (100% pour les formes graves) et en partie contre le zona.
 
@@ -151,7 +157,7 @@ Vaccination varicelle contre-indiquée pendant la grossesse. Une grossesse doit 
 
 Possibles signes minimes de varicelle (< 10%) 10 jours après l'injection.
 
-#### Précautions
+#### Précautions avec les vaccins vivants de la varicelle
 
 - Administration **SC ou IM**  
   Elle peut être associée à une vaccination *ROR* ou sinon espacée d'un mois.
@@ -171,7 +177,7 @@ Recommandations pour la prise en charge de la varicelle:
 
 - Statut sérologique de l'entourage
 - Contre-indication aux aspirine/AINS/corticoïdes  
-- L'éviction scolaire n'est plus recommandée (*Pilly 2020*)
+- L'éviction scolaire n'est plus recommandée (*CMIT 2020*)
   - Sinon éviction scolaire jusqu'au stade croûteux
   - Signaler le cas à la collectivité pour prévenir des personnes à risque
   - Éviter les personnes fragiles et les lieux publics (transports en communs, centres commerciaux, hôpitaux...)
@@ -184,7 +190,7 @@ Recommandations pour la prise en charge de la varicelle:
   ± crème cicatrisante.  
   ex: Chlorhexidine aqueuse stérile 0,2% 1 application x 2/j sur les lésions cutanées uniquement.
 - Anti-histaminique anti-cholinergique
-  - Aucun disponible chez < 2 ans
+  - Aucun disponible avant 2 ans
   - Méquitazine sirop (Primalan®)  
     10-40 kg: 1,25 mg/5 kg/j en 1 ou 2 prises par jour  
     Comprimés au-delà.
@@ -223,9 +229,9 @@ Détersion des croûtes par vaseline x 2/j et couvrir par pansement.
   Hémopathie, VIH, chimiothérapie.
 - Varicelle du nouveau-né
 - Nouveau-né si mère a débuté éruption 5j avant et 2 jours suivant l'accouchement
-- Forme grave chez l'enfant < 1 an
+- Forme grave chez l'enfant avant 1 an
 - Varicelle compliquée
-- Varicelle chez femme enceinte dont éruption débute 10 jours avant l'accouchement
+- Varicelle chez femme enceinte dont l'éruption débute 10 jours avant l'accouchement
 {{%/info%}}
 
 ### Traitement par immunoglobulines de la varicelle
@@ -234,7 +240,9 @@ Après exposition avec un malade de la varicelle, dans les 96 heures (max 10 jou
 
 {{%info%}}
 
-#### Indications aux immunoglobulines anti-varicelle-zona
+#### Indications aux immunoglobulines anti-VZV
+
+Sujets exposés à la varicelle ayant une indication aux immunoglobulines:
 
 - Femmes enceintes séronégatives ou statut sérologique inconnu
 - Sujets immunodéprimés  
@@ -264,9 +272,9 @@ Si statut sérologique non connu ou séronégative: Sérologie VZV en urgence et
 - Négative: Adresser en urgence au service de Diagnostic anténatal pour immunoglobulines anti-VZV (Varitect CP® disponible en AAC) et aciclovir intraveineux
 
 {{% /collapse %}}
-{{%collapse "Arbres décisionnels" "show" %}}
+{{%collapse "Prise en charge de la varicelle" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant un contage varicelleux de la femme enceinte. Dr JB Fron d'après SPILF, HCSP, SFP et Ministère de la Santé" >}}
+{{< mermaid title="Conduite à tenir devant un contage varicelleux de la femme enceinte et prise en charge. Dr JB Fron d'après SPILF, HCSP, SFP et Ministère de la Santé" >}}
 graph TB
 grossesse[Contage varicelle<br>de la femme enceinte] --> antecedent(Antécédent de varicelle ?)
 style grossesse stroke:#4150f5, stroke-width:1px
