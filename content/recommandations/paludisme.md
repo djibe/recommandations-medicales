@@ -16,7 +16,7 @@ sctid = "61462000"
 slider = true
 image = true
 imageSrc = "Moustique du paludisme. Culicidae, Anopheles sp. Photo de Techuser sur Foter.com / CC BY-NC-ND"
-todo = "Prescrire, SPF, protection moustiques BEH, ttt ambulatoire accès palustre"
+todo = "POLY p.170, Prescrire, SPF, protection moustiques BEH, ttt ambulatoire accès palustre"
 +++
 
 {{%article-summary%}}
@@ -355,7 +355,7 @@ Ensuite débuter 3 jours avant l'entrée dans la zone à risque.
 {{%sources%}}
 
 - {{< references/voyageur >}}
-- Anofel. Parasitoses et mycoses. Réussir son DFASM. 2022.
+- Anofel. Paludisme. Parasitoses et mycoses des régions tempérées et tropicales. 2022.
 - [Institut Pasteur. Recommandations générales - Prévention du paludisme.](https://www.pasteur.fr/fr/centre-medical/vaccination/recommandations-generales#prvention-du-paludisme)
 - [CMIT. Paludisme. UE6 Item 166. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-166-nb.pdf)
 

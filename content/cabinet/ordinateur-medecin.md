@@ -75,7 +75,7 @@ Le PC présenté ci-dessous peut être assemblé sur mesure par les grands magas
 Le problème de ces sites est le choix extrêmement limité en petits boîtiers jolis. Je suis restreint à une tour plus grosse.  
 Vous pouvez demander à l'informaticien du quartier de vous monter les pièces de cette configuration dans un boîtier plus adapté.
 
-[Achat du PC recommandé sur Hardware.fr](https://shop.hardware.fr/configurateur/5e85ae72c84371bb5bb5d864bd2a20bc), qui offre un bon service de support
+[Achat du PC recommandé sur Hardware.fr](https://shop.hardware.fr/configurateur/6a5a191e980b2e5cb0e79faa8982a231), qui offre un bon service de support
 {.alert .alert-info}
 
 ou chez [Configomania](https://www.configomania.fr/configurateur-classique.html?id=rmvbIJX4C8ffAKyfUqg75zqNjv4Pt3) (mais sans Windows :()

@@ -2,12 +2,12 @@
 title = "Hépatite A"
 noindex = true
 prefix = "l'"
-description = "Recommandations pour la prise en charge de l'hépatite A. Indications à la vaccination et lors d'un voyage. Vaccins VHA disponibles chez l'adulte et l'enfant"
+description = "Recommandations pour la prise en charge de l'hépatite A. Indications à la vaccination et lors d'un voyage. Vaccins disponibles chez l'adulte et l'enfant"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-10T18:52:41+02:00"
 publishdate = "2021-02-10"
-lastmod = "2022-08-12"
+lastmod = "2022-12-21"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2022"
 sources = ["MinSanté", "Pasteur"]
@@ -22,18 +22,17 @@ todo = "symptômes/fatigue, vaccin combiné"
 
 {{%article-summary%}}
 
-- Vacciner: HSH, enfant amené à séjourner en zone endémique, 14 jours autour d'un cas
-- Le seul traitement est préventif par les mesures d'hygiène et la vaccination
-- Voyage: 1 injection 15 jours avant le départ et rappel à 6 mois (voire +), dès 1 an
-- Hépatite A aiguë: [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
+- Vacciner contre l'hépatite A: [HSH]({{< relref "hsh.md" >}}), enfant amené à séjourner en zone endémique, 14 jours autour d'un cas
+- Le seul traitement de l'hépatite A est préventif par les mesures d'hygiène et la vaccination
+- Vaccin dans le cadre d'un voyage: 1 injection 15 jours avant le départ et rappel à 6 mois (voire +), dès 1 an
+- Hépatite A aiguë: [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}) et prise en charge symptomatique
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Hépatite A
-: Maladie infectieuse du foie causée par le virus de l'hépatite A (VHA).  
-La transmission est féco-orale (péril fécal).  
-L'hépatite A est l'hépatite la plus fréquente au monde et peut être bénigne à grave (exceptionnellement fulminante) avec une guérison entraînant une immunité à vie.
+: Maladie infectieuse du foie causée par le virus de l'hépatite A (VHA) avec une transmission féco-orale (péril fécal).  
+L'hépatite A est l'hépatite la plus fréquente au monde et peut être bénigne à grave (exceptionnellement **fulminante**) avec une guérison entraînant une immunité à vie.
 : Les zones de **haute endémicité** de l'hépatite A sont: Afrique, Moyen-Orient, Asie et Amérique latine.
 
 ### Abréviations
@@ -86,26 +85,28 @@ Indications à la vaccination hépatite A:
 {{< card-link-external title="Vaccins recommandés par l'Institut Pasteur pour un voyage" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
 
 {{% /collapse %}}
-{{%collapse "Vaccins disponibles" %}}
+{{%collapse "Vaccins disponibles pour l'hépatite A" %}}
 
 La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
 
 ### Vaccins hépatite A pour adultes
 
+Vaccins à partir de 15 ans:
+
 {{< traitements/vaccin-hepatite-a >}}
 
 ### Vaccins hépatite A pour enfants
 
-Possible à partir de 1 an.
+Vaccins possible de 1 à 14 ans:
 
 - [Avaxim 80®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63777215&typedoc=R)  
-1 dose avec rappel à 6-36 mois (max 7 ans).
+  1 dose avec rappel à 6-36 mois (max 7 ans).
 - [Havrix 720®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60152436&typedoc=R)  
-1 dose avec rappel à 6-12 mois (max 5 ans).
+  1 dose avec rappel à 6-12 mois (max 5 ans).
 
 ### Vaccination hépatite A et voyage
 
-1 injection au moins 15 jours avant le départ.  
+Une injection du vaccin **au moins 15 jours avant le départ**.  
 Rappel à 6 mois ou plus selon la spécialité administrée.
 
 {{% /collapse %}}

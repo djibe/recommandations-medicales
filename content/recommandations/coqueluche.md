@@ -63,10 +63,10 @@ Coqueluche
     2. Caractères de la toux
     3. Identification des contaminateurs
 - Diagnostic différentiel  
-  - Infection (Mycoplasme ou Chlamydia
+  - Infection (Mycoplasme ou Chlamydia)
   - [Grippe]({{< relref "grippe.md" >}})
   - [Tuberculose]({{< relref "tuberculose.md" >}})
-  - [Sinusite]({{< relref "sinusite.md" >}}))
+  - [Sinusite]({{< relref "sinusite.md" >}})
   - Allergique: allergie, [asthme]({{< relref "asthme.md" >}}), pneumopathie interstitielle diffuse
   - [Reflux gastrique]({{< relref "reflux-gastro-oesophagien.md" >}})
   - Tumeur, corps étranger, iatrogène (IEC, bêtabloquant)
@@ -143,7 +143,7 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
   - Au 2<sup>e</sup> trimestre de la grossesse (20-36 SA, *HAS 2022*)
   - Particulièrement chez jeunes parents, grands-parents, fratrie, personnels de la petite enfance
 
-{{< table title="Recommandations vaccinales contre la coqueluche selon Calendrier vaccinal 2022" >}}
+{{< table title="Recommandations vaccinales contre la coqueluche selon Calendrier vaccinal 2022" class="table-wrap" >}}
 | Âge                         | Spécialités                                                    | Commentaire                             |
 |-----------------------------|----------------------------------------------------------------|-----------------------------------------|
 | 2 mois                      | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |

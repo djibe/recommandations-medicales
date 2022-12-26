@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2022-06-27"
-lastmod = "2022-06-27"
+lastmod = "2022-12-22"
 specialites = ["endocrinologie"]
 annees = "2020"
 sources = ["Society1", "Society2"]
@@ -23,15 +23,25 @@ todo = ""
 {{%article-summary%}}
 
 - 0 alcool et 0 tabac pendant la grossesse
-- lecrat.fr
+- [Calendrier de grossesse de GestaClic](http://gestaclic.fr/calculette.html)
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Médicaments pendant la grossesse" "show" %}}
 
+Contrôler la sécurité d'utilisation d'un médicament pendant la grossesse ou l'allaitement.
 
+<form class="d-flex align-items-center my-4">
+  <div class="floating-label textfield-box form-ripple flex-grow-1">
+    <label for="grossesse-crat">Médicament</label>
+    <input class="form-control" id="grossesse-crat" type="search">
+  </div>
+  <button class="btn btn-primary ml-3" onClick="window.open(`http://lecrat.fr/articleSearchSaisie.php?recherche=${document.getElementById('grossesse-crat').value}`); return false;">Rechercher</button>
+</form>
+
+{{< references/le-crat >}}
 
 {{% /collapse %}}
-{{%collapse "Pour en savoir plus: nutrition pendant la grossesse" %}}
+{{%collapse "Pour en savoir plus: Nutrition pendant la grossesse" %}}
 
 AET
 : apport énergétique total
@@ -39,7 +49,7 @@ AET
 
 ### Augmentation des besoins énergétiques au cours de la grossesse
 
-{{< table title="Augmentation des besoins énergétiques pendant la grossesse selon Anses 2019" >}}
+{{< table title="Augmentation des besoins énergétiques pendant la grossesse selon Anses 2019" class="table-sm" >}}
 | Terme de la grossesse | Augmentation des apports (kcal/j) |
 |-----------------------|----------------------------------:|
 | T1                    |                                70 |
