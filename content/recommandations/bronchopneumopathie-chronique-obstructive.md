@@ -318,7 +318,7 @@ Indications aux gaz du sang: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mm
 {{% /collapse %}}
 {{%collapse "Traitement de fond" %}}
 
-- **[Arrêt du tabac]({{< relref "arret-tabac.md" >}}**
+- **[Arrêt du tabac]({{< relref "arret-tabac.md" >}})**
   - Principal facteur pronostique
   - Prise en charge optimale (conseil minimal, [substituts]({{< relref "substituts-nicotiniques.md" >}}), [tabac-info-service](https://www.tabac-info-service.fr/), tabacologue, psychothérapie, varénicline)
   - Autres expositions aux toxiques et gaz domestiques et professionnels  

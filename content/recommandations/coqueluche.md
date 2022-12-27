@@ -6,7 +6,7 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2022-12-20"
+lastmod = "2022-12-27"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["SPILF", "HAS", "HCSP"]
@@ -27,6 +27,7 @@ todo = "https://www.wiv-isp.be/matra/fiches/coqueluche.pdf"
 - Antibioprophylaxie des sujets contacts
 - Vaccination coqueluche
   - L'immunité vaccinale persiste 5 à 10 ans
+  - Rattrapage de la dose des 25 ans: joindre la valence coqueluche jusqu'à 39 ans
   - [Rappel vaccinal]({{< relref "vaccination.md" >}}) coqueluche à chaque grossesse (entre 20 et 36 SA)  
   - **Cocooning:** rappel si le dernier a +5 ans avant 25 ans ou +10 ans au-delà
   - Professionnels: valence coqueluche à chaque rappel
@@ -157,8 +158,8 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 | Coqueluche                  | Pas de rappel nécessaire dans les 10 ans                       | Sauf coqueluche du nourrisson           |
 {{< /table >}}
 
-> **Cocooning:** < 25 ans rappel si > 5 ans | ≥ 25 ans rappel si > 10 ans  
-**Professionnels de santé:** ajouter la coqueluche à chaque rappel du dTPolio (45 et 65 ans) + 1 dose si dernière dose réalisée ≤ 18 ans et date > 5 ans.
+> **Cocooning:** rappel avant 25 ans si dernière dose a +5 ans, si rappel a +10 ans ensuite  
+**Professionnels de santé:** ajouter la coqueluche à chaque rappel du dTPolio (45 et 65 ans) + 1 dose si dernière dose réalisée ≤ 18 ans et date de +5 ans.
 
 La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
 

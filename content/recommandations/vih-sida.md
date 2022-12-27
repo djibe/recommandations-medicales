@@ -326,9 +326,9 @@ Palpation des aires ganglionnaires au moins 1/an.
 ### Vaccinations lorsque CD4 > 200/mm³
 
 - ROR  
-  Contrôle sérologique préalable ± ßHCG. 2 injections à M0M2.
+  Contrôle sérologique préalable ± ßHCG. 2 injections à M0-M2.
 - [Varicelle]{{< relref "varicelle.md" >}}  
-  Contrôle sérologique préalable. 2 injections à M0M2.
+  Contrôle sérologique préalable. 2 injections à M0-M2.
 - [Fièvre jaune]({{< relref "fievre-jaune.md" >}})  
   Séjour en Guyane.
 
@@ -354,7 +354,7 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 
 - Suivi recommandé tous les 3 à 6 mois minimum
 - Contrôle des interactions médicamenteuses  
-[HIV Drug Interactions](https://www.hiv-druginteractions.org/checker)
+  [HIV Drug Interactions](https://www.hiv-druginteractions.org/checker)
 - Bilan annuel de synthèse
   - Liste des derniers examens réalisés  
   - Personnes ressources
@@ -429,10 +429,9 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 
 ### À lire
 
-- [HAS. Infection par le VIH](https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih)
+[HAS. Infection par le VIH](https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih)
 
 {{%/sources%}}
-<!-- Modal -->
 {{% modal title="Vaccination hépatite A" id="modal-vaccin-hepatite-a"%}}
 
 {{< traitements/vaccin-hepatite-a >}}

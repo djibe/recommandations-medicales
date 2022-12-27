@@ -38,7 +38,7 @@ Dysphagie, amaigrissement, anémie.
 <div class="card card-hover card-list-material my-4">
   <div class="card-body">
     <h3 class="card-title mt-0">Aide au choix du traitement d'<em>Helicobacter pylori</em> 2021</h3>
-    <h4 class="card-subtitle">Dr JB Fron d'après GEFH</h4>
+    <h4 class="card-subtitle">Dr JB Fron d'après <abbr title="Groupe d'Études Français des Helicobacter">GEFH</abbr></h4>
     <p class="card-text">Le traitement devrait toujours être guidé (antibiogramme, PCR).</p>
     <input type="checkbox" id="btn-atbgramme" class="d-input-none" checked onclick="functionHp()">
     <label for="btn-atbgramme" class="chip chip-action chip-filter" data-toggle="collapse" data-target="#hp-1-reference">Antibiogramme</label>
@@ -53,7 +53,7 @@ Dysphagie, amaigrissement, anémie.
         } else{ $('#btn-allergie').prop('disabled', false);$('#hp-2').collapse('show') }
       }
     </script>
-    <p class="typography-overline text-black-secondary pt-4">1<sup>re</sup> ligne</p>
+    <p class="typography-overline text-black-secondary pt-4">Première ligne</p>
     <div class="collapse show" id="hp-1-reference">
 
   - Clari-S  
@@ -89,7 +89,7 @@ EOGD souhaitable (sauf si Quinolone-S et non utilisées).
     </div>
     <div class="collapse" id="hp-2">
       <ul>
-        <li>Traitement au choix
+        <li>Traitement probabiliste au choix
           <span>Amoxicilline 50 mg/kg/j (en 3-4 prises, max 6 g/j) + Clarithromycine 500 x 2/j + Métronidazole 500 x 2/j + ésoméprazole 40 mg x 2/j pendant 14 jours<br>
           OU Pylera® 3 gél x 4/j + oméprazole 20 matin et soir pendant 10 jours</span>
         </li>

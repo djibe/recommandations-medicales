@@ -33,7 +33,7 @@ todo = ""
 
 ### Candidose mammaire et allaitement
 
-TODO: https://ansm.sante.fr/actualites/candidose-mammaire-et-allaitement-eviter-le-violet-de-gentiane
+TODO: <https://ansm.sante.fr/actualites/candidose-mammaire-et-allaitement-eviter-le-violet-de-gentiane>
 
 {{% /collapse %}}
 {{%collapse "Location d'un tire-lait" %}}

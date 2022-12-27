@@ -85,17 +85,21 @@ Hémodialyse et immunodépression avec exposition au risque: sérologie annuelle
 {{< card-link-external title="Vaccins recommandés par l'Institut Pasteur pour un voyage" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
 
 {{% /collapse %}}
-{{%collapse "Spécialités de vaccins hépatite B et schéma vaccinal" %}}
+{{%collapse "Vaccins hépatite B et schéma vaccinal" %}}
 
 La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
 
 ### Vaccins hépatite B pour adultes
 
+Vaccins hépatite B à partir de 16 ans:
+
 - [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R)  
   Ne doit pas être injecté dans le fessier.
 - [HBVaxPro 10®](https://ec.europa.eu/health/documents/community-register/2021/20210111150361/anx_150361_fr.pdf)
 
-### Vaccins hépatite B pour les enfants jusqu'à 15 ans
+### Vaccins hépatite B pour les enfants
+
+Vaccins hépatite B chez l'enfant avant 16 ans:
 
 - [Engerix B10®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65782652&typedoc=R)
 - [HBVaxPro 5®](https://ec.europa.eu/health/documents/community-register/2021/20210111150361/anx_150361_fr.pdf)
@@ -114,13 +118,13 @@ Les hexavalents sont recommandés en 3 doses à 2 mois, 4 mois et 11 mois:
 
 Si prématuré < 32 semaines ou poids < 2 kg: schéma 4 doses à J0-M1-M2-M6 avec les mêmes vaccins. Contrôle AgHBs et anti-HBs à 9 mois.
 
-#### Rattrapage de 11 à 15 ans
+#### Rattrapage de la vaccination hépatite B de 11 à 15 ans
 
 - 2 doses à M0-M6 par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R)  
   Sauf risque élevé entre les 2 doses.
 - 3 doses à M0-M1-M6
 
-#### Adultes
+#### Schéma vaccinal des adultes
 
 - 3 doses à M0-M1-M6
 - Schéma accéléré par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62279329&typedoc=R) à J0-J7-J21 et rappel à 12 mois  
@@ -132,7 +136,7 @@ Si prématuré < 32 semaines ou poids < 2 kg: schéma 4 doses à J0-M1-M2-M6 ave
 
 ### Contre-indications à la vaccination hépatite B
 
-Hypersensibilité à la substance ou ses composants.
+Une seule contre-indication: hypersensibilité à la substance ou ses composants.
 
 Précautions chez: sclérose en plaques.
 
