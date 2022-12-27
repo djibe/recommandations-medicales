@@ -36,7 +36,7 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 </div>
 <div class="form-group floating-label textfield-box form-ripple">
   <label for="contract-address">Adresse du médecin installé</label>
-  <input class="form-control" id="contract-address" type="text" autocomplete="street-address" required>
+  <input class="form-control" id="contract-address" type="text" required>
   <small class="form-text">Adresse complète sur 1 ligne</small>
 </div>
 <div class="form-group floating-label textfield-box form-ripple">

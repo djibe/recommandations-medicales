@@ -17,7 +17,7 @@ sctid = "276206000"
 draft = true
 image = false
 imageSrc = ""
-todo = "flowchart teigne > résumé > surveillance terbinafine, liens, PHOTOS, Pytiriasis capitis, muguet nourrisson"
+todo = "flowchart teigne > résumé > surveillance terbinafine, liens, PHOTOS, Pytiriasis capitis, muguet nourrisson, périonyxis fluconazole dose"
 +++
 
 {{%article-summary%}}
@@ -170,21 +170,15 @@ Les teignes faviques sont exceptionnelles en Europe par *Trichophyton schoenlein
 - Traitement probabiliste  
   Terbinafine 250 mg x 1/j pendant 28 jours (voir la section *Traitements* pour les autres poids)
 - Traitement local pendant 28 jours  
-  Éconazole 1% crème x 2/j ou ciclopirox olamine 
-- Examiner l'entourage (jusqu'à 50% de porteurs) et traitement oral si atteints
-- Éviction scolaire en l'absence de traitement débuté (sauf teigne animale ou tellurique).  
-Contrôle clinique à 4 semaines avec avis spécialisé en l'absence d'amélioration.
-- Teigne zoophile *M. canis* (chien, chat), *T. mentagrophytes* (chien, chat, lapin, souris ...), *T. verrucosum* (bovins), *T. erinacei* (hérisson), *T. gallinae* (volailles), *T. equinum* (cheval), *T. benhamiae* (cochons d'Inde), *N. persicolor* (rongeurs sauvages), *N. praecox* (cheval): examen vétérinaire
-
-Dérivé azolé
-+ oral terbinafine 4 semaines, itraconazole 6 semaines
-
-Traitement local 1 à 2 fois par jour pendant 4 semaines
-Contrôle clinique à 4 semaines avec résultat de la culture
-
-Teigne trichophytique: traitement probabiliste (pas de prélèvement ou en attente)
-
-Terbinafine (TBF) 1 prise/j pendant le repas pendant 4 semaines
+  Éconazole ou ciclopirox olamine 1% crème x 2/j
+- Examiner l'entourage  
+  Jusqu'à 50% de porteurs et traitement oral si atteints.
+- Contrôle clinique à 4 semaines avec résultats mycologiques  
+  Avis spécialisé en l'absence d'amélioration
+- Éviction scolaire en l'absence de traitement débuté (sauf teigne zoophile ou tellurique)
+  - Si teigne zoophile: examen vétérinaire des animaux de compagnie  
+    Teignes zoophiles: *M. canis* (chien, chat), *T. mentagrophytes* (chien, chat, lapin, souris ...), *T. verrucosum* (bovins), *T. erinacei* (hérisson), *T. gallinae* (volailles), *T. equinum* (cheval), *T. benhamiae* (cochons d'Inde), *N. persicolor* (rongeurs sauvages), *N. praecox* (cheval)
+  - Teignes telluriques: *Nannizzia gypsea*, *N. persicolor*
 
 Teigne microsporique
 
@@ -299,7 +293,7 @@ Prise en charge des onychomycoses:
   1. Pédicure-podologue pour limage ou meulage initial
   2. Vernis unguéal amorolfine ou ciclopirox pendant 3 à 6 mois
   3. Éconazole des espaces interdigitoplantaires pour éviter une réinfection
-  4. Périonyxis important: fluconazole (TODO: quelle dose ?)
+  4. Périonyxis important: fluconazole
   5. Si échec: avulsion chimique par bifonazole 1% + urée 40% sous pansement occlusif pendant 1-3 semaines  
     suivie de bifonazole seul pendant 4-8 semaines.
 - Atteinte matricielle
