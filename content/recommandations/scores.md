@@ -26,34 +26,33 @@ Sélection de grilles et scores essentiels en pratique quotidienne de médecine 
 
 ## Cardiovasculaire {.typography-overline}
 
-- [Carnet d'automesure tensionnelle 2021 (PDF)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
-- {{< modal-btn modal-depistage-prevalent >}}Dépistage AOMI ≥ 55 ans{{< /modal-btn >}}
-- {{< modal-btn modal-saos >}}Dépistage des apnées du sommeil{{< /modal-btn >}}
+- [Carnet international d'automesure tensionnelle (PDF)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
+- {{< modal-btn modal-depistage-prevalent >}}Critères de dépistage de l'AOMI chez le +55 ans{{< /modal-btn >}}
+- {{< modal-btn modal-saos >}}Critères de dépistage des apnées du sommeil{{< /modal-btn >}}
+- {{< modal-btn modal-chads >}}Score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}}
 - Risque cardiovasculaire
   - Calcul du {{< scores/heartscore >}}
   - {{< modal-btn modal-rcv >}}Risque cardiovasculaire et LDL cible{{< /modal-btn >}}
   - {{< modal-btn modal-statine-intensite >}}Efficacité des statines{{< /modal-btn >}}
 - {{< modal-btn score-nyha >}}Score NYHA{{< /modal-btn >}}
-- Traitements
-  - {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}}
-  - {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
+- Traitements: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}}, {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
 
 ## Dermatologie {.typography-overline}
 
-{{< modal-btn modal-dc >}}Dermocorticoïdes{{< /modal-btn >}}
+{{< modal-btn modal-dc >}}Les dermocorticoïdes{{< /modal-btn >}} (molécules par activité, manipulation)
 
 ## Diabète {.typography-overline .mt-4}
 
 - {{< modal-btn modal-hba1c >}}Cibles d'HbA1c{{< /modal-btn >}}
-- {{< modal-btn modal-saos-diabete >}}Dépistage des apnées du sommeil{{< /modal-btn >}} (avec un diabète)
-- {{< modal-btn modal-rcv-diabete >}}Risque CV du diabétique{{< /modal-btn >}}
+- {{< modal-btn modal-saos-diabete >}}Dépistage des apnées du sommeil chez le diabétique{{< /modal-btn >}}
+- {{< modal-btn modal-rcv-diabete >}}Risque cardiovasculaire du diabétique{{< /modal-btn >}}
 - [Risque de diabète à 10 ans](https://www.diabeclic.com/findrisc)
 - Traitements
   - {{< modal-btn modal-metformine >}}Metformine{{< /modal-btn >}}
-  - {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}
   - {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
   - {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}
   - {{< modal-btn modal-su >}}Sulfamides{{< /modal-btn >}}
+  - {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}
   - {{< modal-btn modal-insuline >}}Insuline{{< /modal-btn >}}
 
 ## Neurologie {.typography-overline}
@@ -62,12 +61,19 @@ Sélection de grilles et scores essentiels en pratique quotidienne de médecine 
 
 ## Pneumologie {.typography-overline}
 
-- {{< modal-btn modal-fagerstrom >}}Test de Fagerström{{< /modal-btn >}}
-- {{< modal-btn modal-depistage-bpco >}}Dépistage BPCO{{< /modal-btn >}}
-- {{< modal-btn modal-score-mmrc >}}Score mMRC{{< /modal-btn >}}
+- {{< modal-btn modal-fagerstrom >}}Test de Fagerström simplifié{{< /modal-btn >}}
+- {{< modal-btn modal-depistage-bpco >}}Critères de dépistage de la BPCO{{< /modal-btn >}}
+- {{< modal-btn modal-score-mmrc >}}Score mMRC de la dyspnée{{< /modal-btn >}}
+- *{{< modal-btn modal-score-act >}}Asthma Control Test™{{< /modal-btn >}}*
+- Traitements: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}}, {{< modal-btn modal-ttt-csi >}}corticoïdes inhalés (CSI){{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}
 
 <!-- Modals -->
 
+{{% modal title="Score CHA2DS2-VASc selon ESC 2020" id="modal-chads"%}}
+
+{{< scores/cha2ds2vasc >}}
+
+{{% /modal %}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}
 
 {{< scores/nyha >}}
@@ -181,5 +187,25 @@ Sélection de grilles et scores essentiels en pratique quotidienne de médecine 
 {{% modal title="Dépistage du SAOS et diabète" id="modal-saos-diabete"%}}
 
 {{< scores/saos-diabete >}}
+
+{{% /modal %}}
+{{% modal title="bronchodilatateurs de courte durée d'action" id="modal-ttt-baca"%}}
+
+{{< traitements/baca >}}
+
+{{% /modal %}}
+{{% modal title="Corticoïdes inhalés" id="modal-ttt-csi"%}}
+
+{{< traitements/csi >}}
+
+{{% /modal %}}
+{{% modal title="LABA + CSI inhalés" id="modal-ttt-laba-csi"%}}
+
+{{< traitements/laba-csi >}}
+
+{{% /modal %}}
+{{% modal title="Asthma Control Test" id="modal-score-act"%}}
+
+{{< scores/asthma-control-test >}}
 
 {{% /modal %}}

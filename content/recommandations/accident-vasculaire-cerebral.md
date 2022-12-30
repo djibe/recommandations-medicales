@@ -7,27 +7,26 @@ synonyms = ["Accident ischémique transitoire (AIT)", "infarctus cérébral"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-25T14:04:00+02:00"
 publishdate = "2021-01-25"
-lastmod = "2022-09-29"
+lastmod = "2022-12-30"
 specialites = ["neurologie"]
 annees = "2022"
-sources = ["HAS", "AHA", "ESC", "ESO"]
+sources = ["ESO", "ESC", "HAS", "AHA"]
 tags = ["antiplaquettaire", "cephalees", "demence", "diabete", "HTA", "risque cardiovasculaire", "SAS", "vertige"]
-anglais = ["Cerebrovascular accident"]
+anglais = ["Cerebrovascular accident", "Transient Ischaemic Attack (TIA)"]
 sctid = "230690007"
 image = true
-imageSrc = "Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
-todo = "rééduc, bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104, ESC AF holter-ecg >= 24h et préféré 3j"
+imageSrc = "AVC sylvien gauche sur une IRM de diffusion. Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
+todo = "AVCHgique ? bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104, ESC AF holter-ecg >= 24h et préféré 3j"
 +++
 
 {{%article-summary%}}
 
 - Considérer tout déficit neurologique brutal, transitoire ou prolongé, comme une urgence absolue
-- Un accident vasculaire cérébral est une Urgence vitale: protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU  
-4h30 pour thrombolyser.
-- L'AVC est la première cause de mortalité de la femme, 3<sup>e</sup> de l'homme
+- Un accident vasculaire cérébral est une Urgence vitale: protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU (4h30 pour thrombolyser)
+- L'AVC est la première cause de mortalité de la femme et la 3<sup>e</sup> de l'homme
 - Un antécédent d'AIT ou d'AVC détermine un {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}
-- Prise en charge post-AVC: aspirine 50-325 mg/j, IEC, TZD, PA < 14/9, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,55 g/L, vaccin Covid-19
-- Bilan spécialisé cardiaque et neurovasculaire
+- Prise en charge post-AVC: aspirine 75-150 mg/j, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,7 g/L, si HTA: {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}, TZD
+- Bilan spécialisé cardiologique et neurovasculaire
 - [Éducation de toute la population à reconnaître un AVC](https://solidarites-sante.gouv.fr/IMG/png/infographieavcsignes.png)
 
 {{%/article-summary%}}
@@ -54,6 +53,9 @@ AIT
 
 AVC
 : accident vasculaire cérébral
+
+ESO
+: {{%lang%}}European Stroke Organisation{{%/lang%}}
 
 FRCV
 : facteurs de risque cardiovasculaires
@@ -190,50 +192,49 @@ Liste des contre-indications à la thrombolyse par balancé bénéfice-risque d�
 
 S'applique aussi après un AIT.
 
-- **Aspirine 75-150 mg/j**  
-  Si non cardioembolique. Clopidogrel 75 mg/j si allergie (bithérapie les 90 premiers jours).
-- Hypertension artérielle
+- **Aspirine 75-150 mg/j** (*ESC 2021*)  
+  Si AIC non cardioembolique. Clopidogrel 75 mg/j si allergie (bithérapie les 90 premiers jours).
+- Hypertension artérielle (*ESO 2022*, *ESC 2021*)
   - Seuil diagnostique ≥ 140/90 mmHg
-  - Cible habituelle de 120-130/70-79 mmHg (*ESO 2022*, *AHA 2021* et *ESC 2018*)
+  - Cible générale de 120-130/70-79 mmHg (+ *AHA 2021* et *ESC 2018*)
   - +70 ans: 130-139/70-79 mmHg
-  - Molécules: thiazidiques, {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}} (voire ARA2)
+  - Molécules: thiazidiques, {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}
   - Hypertendu: réduire la consommation de sel de 2,5 g/j
   - Automesure tensionnelle (*ESO 2022*)
-- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,55 g/L et réduction ≥ 50%  
-  Patient à {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}.
+- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,7 g/L (*ESO 2022* et *ESC 2021*)
 - Mesures hygiéno-diététiques associées
   - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
   - [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}})
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-  - Perte de poids si surpoids
+  - Correction d'un surpoids
   - Activité physique ≥ 10 min x 4/semaine
   - Sédentaire: bouger 3 minutes toutes les 30 minutes
 - Diabète
   - AVC < 6 mois: {{< modal-btn modal-hba1c >}}HbA1c cible 8%{{< /modal-btn >}}
   - Après 6 mois: {{< modal-btn modal-hba1c >}}cible réadaptée selon le profil{{< /modal-btn >}}
-- [Dépister des apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) {{%class%}}(40%){{%/class%}}
-- [ALD]({{< relref "affection-longue-duree.md" >}})  
+- {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}} {{%class%}}(40%){{%/class%}}
+- [Déclarer l'ALD]({{< relref "affection-longue-duree.md" >}})  
   Critère: séquelles neurologiques nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.
 - Éducation du patient  
   Mode de vie, réagir, traitements.
 
 {{% /collapse %}}
-{{%collapse "Traitements spécifiques" %}}
+{{%collapse "Post AVC et comorbidités spécifiques" %}}
 
 Prise en charge de l'AVC selon certaines comorbidités.
 
-### Fibrillation atriale
+### Fibrillation atriale et AVC
 
-Anticoagulation au long cours par warfarine ou AOD selon le score CHA2DS2VASc.
+Anticoagulation au long cours par [AVK warfarine]({{< relref "avk.md" >}}) ou anticoagulant oral (AOD) selon le {{< modal-btn modal-chads >}}score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}}.
 
-### Prothèse valvulaire mécanique
+### Prothèse valvulaire mécanique et AVC
 
-Warfarine uniquement.  
+Anticoagulation par [AVK warfarine]({{< relref "avk.md" >}}) uniquement.  
 Cible selon prothèse et facteurs de risque du patient.
 
-### Foramen ovale perméable
+### Foramen ovale perméable et AVC
 
-Traitement antiplaquettaire.  
+Traitement antiagrégant plaquettaire.  
 Si maladie veineuse thrombo-embolique concomitante: anticoagulation.
 
 ### Autres traitements cardiovasculaires
@@ -350,16 +351,31 @@ Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de tr
 - {{< references/esc-cvd >}}
 - {{< references/sfd-dt2 >}}
 - [Kleindorfer DO et al. 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2021.](https://www.ahajournals.org/doi/10.1161/STR.0000000000000375)
+- [Fonseca AC. et al. European Stroke Organisation (ESO) guidelines on management of transient ischaemic attack. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/full/10.1177/2396987321992905)
 - {{< references/esc-dyslipidemie >}}
 - [Gabet A. et al; Santé Publique France. Connaissance de l'accident vasculaire cérébral et de ses symptômes en France en 2019. BEH. 2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/connaissance-de-l-accident-vasculaire-cerebral-et-de-ses-symptomes-en-france-en-2019)
 - {{< references/esc-hta >}}
 - [HAS. Prévention vasculaire après un infarctus cérébral ou un accident ischémique transitoire. 13/06/2018.](https://www.has-sante.fr/jcms/c_1252051/fr/prevention-vasculaire-apres-un-infarctus-cerebral-ou-un-accident-ischemique-transitoire)
+- [Kobayashi A. et al. European Academy of Neurology and European Stroke Organization consensus statement and practical guidance for pre-hospital management of stroke. Eur J Neurol. 2018.](https://onlinelibrary.wiley.com/doi/full/10.1111/ene.13539)
 - [Schnitzler A. et al. Santé Publique France. BEH. 2018.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/impact-de-la-reeducation-a-la-phase-subaigue-d-un-accident-vasculaire-cerebral-en-france-en-2016)
 - [Lecoffre C. et al, Santé Publique France. L'accident vasculaire cérébral en France : patients hospitalisés pour AVC en 2014 et évolutions 2008-2014. BEH. 2017.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/l-accident-vasculaire-cerebral-en-france-patients-hospitalises-pour-avc-en-2014-et-evolutions-2008-2014)
 - [HAS. Accident vasculaire cérébral : méthodes de rééducation de la fonction motrice chez l'adulte. Juin 2012.](https://www.has-sante.fr/jcms/c_1334330/fr/accident-vasculaire-cerebral-methodes-de-reeducation-de-la-fonction-motrice-chez-l-adulte)
 - [HAS. Accident vasculaire cérébral :  prise en charge précoce. Mai 2009.](https://www.has-sante.fr/jcms/c_830203/fr/accident-vasculaire-cerebral-prise-en-charge-precoce-alerte-phase-prehospitaliere-phase-hospitaliere-initiale-indications-de-la-thrombolyse)
 
+### À lire
+
+- [Kremer C. et al. European Stroke Organisation guidelines on stroke in women: Management of menopause, pregnancy and postpartum. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/full/10.1177/23969873221078696)
+- [Dziewas R. et al. European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/10.1177/23969873211039721)
+- [Quinn TJ. et al. European Stroke Organisation and European Academy of Neurology joint guidelines on post-stroke cognitive impairment. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/full/10.1177/23969873211042192)
+- [Holtkamp M. et al. European Stroke Organisation guidelines for the management of post-stroke seizures and epilepsy. European Stroke Journal. 2017.](https://journals.sagepub.com/doi/full/10.1177/2396987317705536)
+- [Steiner T. et al. European Stroke Organisation (ESO) Guidelines for the Management of Spontaneous Intracerebral Hemorrhage. International Journal of Stroke. 2014.](https://journals.sagepub.com/doi/10.1111/ijs.12309)
+
 {{%/sources%}}
+{{% modal title="Score STOP-BANG" id="modal-saos"%}}
+
+{{< scores/stop-bang >}}
+
+{{% /modal %}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
@@ -368,6 +384,11 @@ Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de tr
 {{% modal title="Statines et réduction du LDL" id="modal-statine-intensite"%}}
 
 {{< traitements/statine-intensite >}}
+
+{{% /modal %}}
+{{% modal title="Score CHA2DS2-VASc selon ESC 2020" id="modal-chads"%}}
+
+{{< scores/cha2ds2vasc >}}
 
 {{% /modal %}}
 {{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}
@@ -383,5 +404,10 @@ Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de tr
 {{% modal title="IEC dans l'hypertension" id="modal-iec" %}}
 
 {{< traitements/iec >}}
+
+{{% /modal %}}
+{{% modal title="ARA2 dans l'hypertension" id="modal-ara2" %}}
+
+{{< traitements/ara2 >}}
 
 {{% /modal %}}

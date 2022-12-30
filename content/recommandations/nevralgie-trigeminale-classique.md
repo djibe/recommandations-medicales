@@ -293,6 +293,7 @@ graph TB
 
 ### À lire
 
-[Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/migraine-nevralgie-du-trijumeau-algies-face)
+- [Bendtsen L. et al. European Academy of Neurology guideline on trigeminal neuralgia. Eur J Neurol. 2019.](https://onlinelibrary.wiley.com/doi/full/10.1111/ene.13950)
+- [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/migraine-nevralgie-du-trijumeau-algies-face)
 
 {{%/sources%}}

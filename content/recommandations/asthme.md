@@ -39,7 +39,7 @@ todo = "vidéo DEP, doses Symbicort turbuhaler, CSI + ARL, revoir Stades GINA, p
 {{%collapse "Définitions" %}}
 
 Asthme
-: Maladie respiratoire chronique des voies aériennes par hyperréactivité bronchique, inflammation et obstruction réversible des voies aériennes. Les symptômes sont peu spécifiques (dyspnée, [toux chronique]({{< relref "toux-chronique.md" >}}), sifflements respiratoires, oppression thoracique), leur fréquence et leur intensité varie avec le temps.  
+: Maladie respiratoire chronique des voies aériennes par hyperréactivité bronchique, inflammation et obstruction réversible des voies aériennes. Les symptômes sont peu spécifiques ([dyspnée](/tags/dyspnee/), [toux chronique]({{< relref "toux-chronique.md" >}}), sifflements respiratoires, oppression thoracique), leur fréquence et leur intensité varie avec le temps.  
 Ils sont associés à une variabilité du débit expiratoire de pointe (DEP) par bronchoconstriction, épaississement de la paroi bronchique et production accrue de mucus.
 : L'obstruction est objectivée par l'observation d'un trouble ventilatoire obstructif (TVO) réversible (partiellement ou complètement), à l'état basal ou après un test de provocation bronchique.
 : Les principaux facteurs favorisants et entretenant ces anomalies sont les *infections virales*, les *allergies respiratoires* et les *irritants bronchiques*.

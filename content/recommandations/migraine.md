@@ -17,7 +17,7 @@ sctid = "37796009"
 flowchart = true
 image = true
 imageSrc = "Illustration de la migraine par stories / Freepik"
-todo = "titration Propranolol, recouper THM, EHF, https://play.google.com/store/apps/details?id=ai.vik.migraine&hl=fr"
+todo = "titration Propranolol, questionnaire ID Migraine, recouper THM, EHF, https://play.google.com/store/apps/details?id=ai.vik.migraine&hl=fr"
 +++
 
 {{%article-summary%}}
