@@ -17,10 +17,10 @@ anglais = ["Hypertension disorder", "high blood pressure"]
 sctid = "38341003"
 image = true
 imageSrc = "Illustration de l'hypertension artérielle par vectorjuice / Freepik"
-todo = "SEO 'reco hta', modale automesure, A LIRE: Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, hypotension orthostatique, ESC 2018 tableau 4+19 - src157"
+todo = "poussée HTA +++, SEO 'reco hta', modale automesure, A LIRE: Bernatos plus de 80 ans dépendants polypatho (ehpad) : 149, étiologie HTA Collège, espérance de vie corrigée de l'incapacité, flowchart, hypotension orthostatique, ESC 2018 tableau 4+19 - src157"
 +++
 
-Ces recommandations concernent l'adulte ≥ 18 ans.
+Ces recommandations HTA concernent l'adulte de +18 ans.
 
 {{%article-summary%}}
 

@@ -141,7 +141,7 @@ Prise en charge recommandée pour toutes les femmes avec un diagnostic de diabè
 
 ### Indications à l'insuline au cours du diabète gestationnel
 
-Pris en charge du diabète gestationnel par insuline lorsque les glycémies dépassant les objectifs **après 10 jours de mesures hygiéno-diététiques** (grade A).
+Prise en charge du diabète gestationnel par insuline lorsque les glycémies dépassant les objectifs **après 10 jours de mesures hygiéno-diététiques** (grade A).
 
 Prise en charge spécialisée par le médecin endocrinologue-diabétologue:
 

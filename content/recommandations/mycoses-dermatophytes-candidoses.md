@@ -12,19 +12,19 @@ specialites = ["dermatologie"]
 annees = "2022"
 sources = ["Anofel"]
 tags = ["adolescent", "biotherapie", "cancer", "diabete", "enfant", "obesite", "prurit"]
-anglais = ["Mycosis", "dermatophytosis"]
+anglais = ["Mycosis", "dermatophytosis", "candidiasis", "vulvovaginal candidiasis"]
 sctid = "276206000"
 draft = true
 image = false
 imageSrc = ""
-todo = "flowchart teigne > résumé > surveillance terbinafine, liens, PHOTOS, Pytiriasis capitis, muguet nourrisson, périonyxis fluconazole dose"
+todo = "flowchart teigne > résumé > surveillance terbinafine, CVV Figure 1, liens, PHOTOS, Pytiriasis capitis, muguet nourrisson, périonyxis fluconazole dose"
 +++
 
 {{%article-summary%}}
 
 - Dermatophytose: prélèvement mycologique systématique en périphérie des lésions à distance de toute thérapeutique (cutanée 15 jours, ongle 2 mois) pour examen direct et culture
 - Le traitement des dermatophytoses doit toujours être guidé par l'examen mycologique direct
-- Traitement local sauf pour les teignes, candidoses buccales, onyxis à dermatophytes avec atteinte matricielle et onyxis candidosiques
+- Traitement local sauf pour les teignes, candidoses buccales et vaginales, onyxis à dermatophytes avec atteinte matricielle et onyxis candidosiques
 TODO:
 
 **NB.** Sur toute la page seul l'*éconazole* est cité mais un autre imidazolé peut lui être préféré.
@@ -188,7 +188,7 @@ Trichophyton : arrêt TBF
 - Microsporum : poursuite TBF 2 semaines OU switch ITC 2 semaines
 
 {{% /collapse %}}
-{{%collapse "Candidoses muqueuses" %}}
+{{%collapse "Candidoses buccales" %}}
 
 Plus précisément **levuroses**, le plus souvent par *Candida albicans* lors d'un facteur de risque (antibiotiques ... voir *Définitions*). Traitement par antifongique azolé local voire fluconazole par voie orale.  
 L'itraconazole est utile pour les formes résistantes.
@@ -224,9 +224,18 @@ L'aspect pseudo-membraneux blanc ou **<< muguet >>** est le plus fréquent, souv
 - Si échec: itraconazole voie orale
 {{%/info%}}
 
-### Candidose vaginale
+### Balanite candidosique
 
-Prise en charge de la candidose vaginale (mycose vaginale, candidose vulvovaginale ou vaginite candidosique). *Candida albicans* est la principale mycose vaginale.
+Début au niveau du sillon balanopréputial avec un érythème puis souvent des plaques blanchâtres du gland.  
+Extension possible au pénis, scrotum et l'aine chez l'obèse.
+
+Rechercher un [diabète]({{< relref "diabete-type-2.md" >}}) en cas de balanite candidosique sévère.
+
+{{% /collapse %}}
+{{%collapse "Candidoses vaginales" %}}
+
+Prise en charge de la candidose vaginale (mycose vaginale, candidose vulvovaginale ou vaginite candidosique) d'après les **recommandations *BASSH 2019***. *Candida albicans* est la principale mycose vaginale (80-89%).  
+Les traitements non azolés sont réservés aux résistances et *Candida non-albicans* (principalement *C. glabrata*, *C. tropicalis*, *C. krusei* et *C. parapsilosis*).
 
 Signes et symptômes d'une candidose vulvovaginale:
 
@@ -236,37 +245,58 @@ Signes et symptômes d'une candidose vulvovaginale:
 - Voire dysurie
 - Diagnostic différentiel
   - Écoulements physiologiques pendant la grossesse ou en milieu de cycle parfois malodorants
-  - Vaginose bactérienne malodorante à *Garderella vaginalis*, [IST](/tags/ist/) à trichomonase, gonococcie ou [chlamydiose]({{< relref "chlamydia-trachomatis.md" >}})
+  - Vaginose bactérienne malodorante à *Garderella vaginalis*, [IST](/tags/ist/) à trichomonase, gonococcie ou [chlamydiose]({{< relref "chlamydia-trachomatis.md" >}}), virale à herpès
   - Dermatites: lichen, eczéma, psoriasis
   - Réactions aux produits d'hygiène, tampons, spermicides, préservatifs, anneaux contraceptifs
+  - Vulvodynie
 
-> << La candidose vaginale récidivante peut être la première manifestation clinique de l'infection à VIH >> (*Anofel*)
+> << La candidose vaginale récidivante peut être la première manifestation clinique de l'[infection à VIH]({{< relref "vih-sida.md" >}}) >> (*Anofel*)
 
 {{%info%}}
 
-#### Prise en charge de la candidose vaginale
+### Prise en charge de la candidose vulvovaginale aiguë
 
-- Abstention (30% guérissent sous 4 semaines)
-- ou [éconazole LP 150 mg ovule](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65261489&typedoc=R) dose unique au coucher  
-  voire 2<sup>e</sup> ovule le lendemain matin.
-- ou [clotrimazole 500 mg caps vaginale](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60070359&typedoc=R) dose unique ([préféré pendant la grossesse](http://lecrat.fr/spip.php?page=article&id_article=929))  
-  Possible 2<sup>e</sup> capsule à J3.
-- voire [fluconazole 150 mg cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67860651&typedoc=R) dose unique
+- Inspection vulvaire
+- <mark>[Fluconazole 150 mg cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67860651&typedoc=R) dose unique</mark>
+- ou clotrimazole 500 mg caps vaginale (Mycohydralin® NR) dose unique ([référence pendant la grossesse](http://lecrat.fr/spip.php?page=article&id_article=929))
+- Alternatives
+  - Clotrimazole 200 mg cp vaginal (Mycohydralin® NR) pendant 3 nuits
+  - [Éconazole LP 150 mg ovule](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65261489&typedoc=R) dose unique au coucher ou pendant 3 nuits
+  - [Fenticonazole 600 mg caps vaginale](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69960586&typedoc=R#RcpPremiereAutorisation) (Lomexin®) dose unique au coucher ou 200 mg 3 nuits de suite
 - ± traitement local: éconazole 1% crème x 2/j pendant 14 à 28 jours
-- Mesures d'hygiène: une seule toilette par jour avec savon à pH neutre (*Prescrire*, alcalin selon *Anofel*) sans autres soins, éviter les lessives et assouplissants irritants
+- Mesures d'hygiène
+  - Une seule toilette (externe) par jour avec savon à pH neutre (*Prescrire*, alcalin selon *Anofel*) sans autres soins
+  - Éviter les lessives et assouplissants irritants
+  - Sous-vêtements coton
 {{%/info%}}
 
-##### Prise en charge de la candidose vulvovaginale récidivante
+> **NR =** non remboursé
+
+### Prise en charge de la candidose vulvovaginale récurrente
+
+Candidose vulvovaginale récurrente
+: Au moins 4 épisodes sur les 12 derniers mois avec au moins 2 épisodes symptomatiques documentés (examen direct ou culture) dont un avec abondance moyenne ou forte de *Candida*.
+: Elle est probablement liée à des particularités biologiques des patientes. 6% des femmes actives sont atteintes.
+: 2 groupes de patientes: bonne réponse au traitement avec intervalles libres ou réponse partielle avec symptômes persistants.
+
+#### Mesures générales
+
+- Contrôle des facteurs de risque  
+  Diabète, immunosuppression, traitement hormonal, antibiothérapie récente (3 mois).
+- Autres candidoses  
+  Oropharyngée, cutanée, onyxis.
+- Examen gynécologique voire dermatologique
+- Bilan biologique: NFS, ferritinémie, glycémie à jeun
+- Auto-prélèvements vaginaux répétés pour: identification du *Candida*, sensibilité au fluconazole  
+  Absence de réponse aux traitements: identification de l'espèce et sensibilité aux antimycotiques.
+- Mesures d'hygiène à tester
+  - Remplacer le savon par des émollients vulvaires
+  - Ne pas faire de douche vaginale
+  - Éviter les bains
+  - Éviter les protège-slips hors menstruations
 
 1 ovule azolé pendant 3 jours à partir de J19 (ou J20) du cycle pendant 4 à 6 mois  
 ou [fluconazole 150 à 300 mg cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67860651&typedoc=R) x 1/semaine pendant 6 mois
-
-### Balanite candidosique
-
-Début au niveau du sillon balanopréputial avec un érythème puis souvent des plaques blanchâtres du gland.  
-Extension possible au pénis, scrotum et l'aine chez l'obèse.
-
-Rechercher un [diabète]({{< relref "diabete-type-2.md" >}}) en cas de balanite candidosique sévère.
 
 {{% /collapse %}}
 {{%collapse "Mycoses des phanères - poils et ongles" %}}

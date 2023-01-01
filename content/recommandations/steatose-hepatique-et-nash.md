@@ -7,7 +7,7 @@ synonyms = ["Stéatose hépatique non alcoolique", "stéatohépatite métaboliqu
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-09-23T09:08:39+02:00"
 publishdate = "2022-09-27"
-lastmod = "2022-09-27"
+lastmod = "2022-12-30"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2020"
 sources = ["AFEF", "SNFGE"]
@@ -17,22 +17,23 @@ sctid = "442685003"
 flowchart = true
 image = true
 imageSrc = "Illustration de la NASH par brgfx / Freepik"
-todo = "remboursement fibromètre ?, liens vers NASH, quel rythme dépistage des personnes à risque ?, syndrome métabolique, compléter pathologies liées"
+todo = "remboursement fibromètre ?, syndrome métabolique, compléter pathologies liées"
 +++
 
 {{%article-summary%}}
 
-- Stéatose hépatique et NASH sont les complications hépatiques du **syndrome métabolique** (âge +50 ans et diabète de type 2 ++) et marqueur de haut risque cardiovasculaire
+- Stéatose hépatique et NASH sont les complications hépatiques du **syndrome métabolique** et sont des marqueurs de haut risque cardiovasculaire
 - Rechercher les diagnostics différentiels ou surajoutés (voir *Diagnostic différentiel*)
-- Dépistage de la NASH par bilan biologique et échographique pour les personnes à risque: obésité, diabète type 2, VIH avec lipodystrophie, cytolyse inexpliquée, stéatose échographique
-- Puis score non invasif ({{< modal-btn modal-fib4 >}}FIB-4{{< /modal-btn >}} ou NFS) du risque de fibrose et suivi spécialisé si anormal
-- Prise en charge de la NASH: perte de poids, correction des facteurs métaboliques et du risque cardiovasculaire voire analogues du GLP-1, surveillance par scores non invasifs
+- Dépister la NASH / stéatohépatite métabolique
+  - Dépister annuellement si facteurs de risque: obésité, [diabète de type 2]({{< relref "diabete-type-2.md" >}}), VIH avec lipodystrophie, cytolyse inexpliquée, stéatose échographique
+  - par un score simple non invasif {{< modal-btn modal-fib4 >}}FIB-4{{< /modal-btn >}} (calculé sur l'âge, les transaminases et les plaquettes ou le score NFS)
+- Prise en charge de la NASH: suivi hépatologique, perte de poids, correction des facteurs métaboliques et du risque cardiovasculaire voire analogues du GLP-1, surveillance non invasive
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Stéatopathie métabolique (NAFLD)
-: ou stéatopathie non alcoolique, {{%lang%}}non-alcoholic fatty liver disease{{%/lang%}} (NAFLD).
+: ou stéatopathie non alcoolique, {{%lang%}}non-alcoholic fatty liver disease - NAFLD{{%/lang%}}.
 : La stéatopathie métabolique est caractérisée par une accumulation de graisse intrahépatique. Les lésions sont différenciées selon la **présence ou non d'inflammation hépatique**: **stéatose hépatique** (NAFL) et **stéatohépatite non alcoolique** (NASH, forme aggressive) aboutissant à l'accumulation de fibrose hépatique.
 : Elle touche 1/4 de la population et est devenue la première cause de maladie chronique du foie.
 
@@ -144,7 +145,7 @@ Indications au dépistage de la NASH chez les sujets à risque élevé d'évolut
 - Stéatose échographique
 {.list-group}
 
-**En l'absence de consommation excessive d'alcool, d'[hépatite B]({{< relref "hepatite-b.md" >}}) ou [C]({{< relref "hepatite-c.md" >}}) ou de iatrogénie.**
+**Dépistage possible en l'absence de consommation excessive d'alcool, d'[hépatite B]({{< relref "hepatite-b.md" >}}) ou [C]({{< relref "hepatite-c.md" >}}) ou de iatrogénie.**
 
 ### Comment dépister la fibrose hépatique causée par une NASH ?
 
@@ -172,7 +173,7 @@ Marqueurs non invasifs de l'évaluation du foie pour éviter la ponction-biopsie
 - NASH: pas de marqueur spécifique
 - Fibrose
   - Biologique: {{< modal-btn modal-fib4 >}}FIB-4{{< /modal-btn >}} (composite avec ASAT, ALAT, plaquettes), NAFLD Fibrosis Score (NFS, composite), Fibrotest®, Fibromètre®
-  - Imagerie: Fibroscan®, élasto-IRM
+  - Imagerie: FibroScan®, élasto-IRM
 
 {{% /collapse %}}
 {{%collapse "Traitement de la NASH" %}}
@@ -221,7 +222,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
-{{< card-link-external title="e-learning EASD" url="https://easd-elearning.org/courses/nafld/">}}
+{{< card-link-external title="e-learning EASD sur la NASH" url="https://easd-elearning.org/courses/nafld/">}}
 
 {{< youtube id="K5QbZI12BJM" title="Webconférence AFEF 2021 - Partie 1 NASH (AFEF Medical Education)" >}}
 
@@ -229,6 +230,7 @@ graph TB
 
 {{< youtube id="YdGoM7KWe6s" title="Le Fib4 : un intérêt pronostique chez les diabétiques et/ou obèses ? (CREGG)" >}}
 
+- [Académie de Médecine. Stéatose hépatique non alcoolique : maladie fréquente, diagnostic devenu facile, prévention indispensable – Académie nationale de médecine. 16/12/2022.](https://www.academie-medecine.fr/steatose-hepatique-non-alcoolique-maladie-frequente-diagnostic-devenu-facile-prevention-indispensable/)
 - {{< references/afef-foie-non-invasif >}}
 - [SNFGE, AFEF. Diagnostic de la NASH. Conseil de pratique. Mars 2019.](https://www.snfge.org/download/file/fid/3648)
 - [SNFGE. Stéatose hépatique non alcoolique (NAFLD/NASH).](https://www.snfge.org/content/steatose-hepatique-non-alcoolique-nafldnash)

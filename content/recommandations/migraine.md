@@ -466,7 +466,7 @@ Autres traitements de fond antimigraineux pouvant être proposés en migraine é
 {{% /collapse %}}
 {{%collapse "Suivi et critères de contrôle d'une migraine" %}}
 
-Réévaluation de l'Agenda migraineux, {{< modal-btn modal-hit6 >}}qualité de vie HIT-6{{< /modal-btn >}} et {{< modal-btn modal-had >}}retentissement HAD{{< /modal-btn >}}.
+Trois éléments de suivi: Agenda migraineux, {{< modal-btn modal-hit6 >}}qualité de vie HIT-6{{< /modal-btn >}} et {{< modal-btn modal-had >}}retentissement HAD{{< /modal-btn >}}.
 
 - Traitement de la crise pris dans l'heure est efficace sur tous les critères (ou {{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}}):
     1. Soulagement significatif de la céphalée à H2
@@ -516,12 +516,12 @@ Informer:
 - Les migraines ne perturbent pas le déroulement de la grossesse ou l'allaitement  
   Augmentation du risque d'hypertension gravidique, de prééclampsie et de petit poids de naissance.
 - Une rémission partielle voire totale est souvent observée (avec aura peut s'aggraver)  
-Le traitement reste possible pendant la grossesse et ne limite pas l'allaitement.
+  Le traitement reste possible pendant la grossesse et ne limite pas l'allaitement.
 - Ne pas débuter de traitement prophylactique
 - Traitement de la crise: paracétamol si légère, sumatriptan si plus forte  
   Voire zolmitriptan ou rizatriptan.
 - Médicaments contre-indiqués  
-CGRP, dérivés ergot de seigle, (di)-valproate de sodium, aspirine et AINS à partir du 5<sup>e</sup> mois (évités déjà avant)
+  CGRP, dérivés ergot de seigle, (di)-valproate de sodium, aspirine et AINS à partir du 5<sup>e</sup> mois (évités déjà avant)
 - Rappeler le risque de l'auto-médication (ibuprofène, préparations de parapharmacie)
 
 #### Traitement de fond de la migraine pendant la grossesse

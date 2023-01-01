@@ -277,7 +277,7 @@ Réévaluation à chaque consultation, au moins mensuelle.
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Pris en charge de la dénutrition de l'adulte:
+Prise en charge de la dénutrition de l'adulte:
 
 - Traitement étiologique
 - Évaluation diététique

@@ -103,10 +103,10 @@
         "@id": {{ .Site.BaseURL }}
       },
       "articleSection" : "{{ .Section | title }}",
-      "name" : "{{ .Title }}",
-      "headline": "{{ .Title | truncate 110 }}",
-      "description" : "{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}",
-      {{- if (not .Params.longHtml) }}"articleBody": "{{ .Plain }}",{{ end -}}
+      "name" : {{ .Title }},
+      "headline": {{ .Title | truncate 110 }},
+      "description" : {{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }},
+      {{ if (not .Params.longHtml) }}"articleBody": {{ .Plain }},{{ end }}
       "inLanguage" : "{{ .Lang }}",
       "image": [{{ $imageUrl | absURL }}],
       "author": {

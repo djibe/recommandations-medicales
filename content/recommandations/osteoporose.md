@@ -473,9 +473,9 @@ window.addEventListener('load', function() {
   - Rebond de perte osseuse à l'arrêt, relais par BP 6-12 mois
 - Raloxifène  
 Conditions: femme < 70 ans sans antécédent fracturaire, à risque de fracture périphérique peu élevé en l'absence de: T-score ≤ -3 et {{< modal-btn modal-risque-chute >}}risque de chute élevé{{< /modal-btn >}}.
-- THM  
+- [Traitement hormonal de la ménopause (THM)]({{< relref "menopause.md" >}})
   - Privilégié en ménopause récente (< 60 ans) avec troubles climatériques invalidants ou traitements spécifiques non tolérés
-  - Contrôle de la DXA à 2-3 ans
+  - Contrôle de l'ostéodensitométrie à 2-3 ans
   - Peut être associé à un traitement spécifique anti-ostéoporotique
 
 {{%/collapse%}}

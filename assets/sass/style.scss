@@ -672,6 +672,9 @@ article {
     margin: auto;
     max-width: 70ch;
   }
+  li mark {
+    font-weight: 500;
+  }
 }
 
 .form-ripple::before {

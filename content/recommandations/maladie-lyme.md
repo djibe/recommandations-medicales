@@ -71,7 +71,7 @@ MVT
 Incidence de 25 à 68.500 diagnostics annuels en médecine générale.
 
 {{% /collapse %}}
-{{%collapse "Prévention de la maladie" %}}
+{{%collapse "Prévention de la maladie de Lyme" %}}
 
 [Ministère de la Santé: Maladie de Lyme et prévention des piqûres de tiques (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/maladie_de_lyme_depliant_gp.pdf) et [Santé Publique France. Prévention de la borréliose de Lyme (PDF)](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-transmission-vectorielle/borreliose-de-lyme/documents/depliant-flyer/maladie-de-lyme-et-prevention-des-piqures-de-tiques)
 
@@ -294,5 +294,9 @@ Traitement par l'infectiologue des autres formes de borréliose.
 - [Santé Publique France. Borréliose de Lyme : données épidémiologiques 2020. Novembre 2021.](https://www.santepubliquefrance.fr/les-actualites/2021/borreliose-de-lyme-donnees-epidemiologiques-2020)
 - [Gocko X. et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X19306201)
 - [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques. Recommandations de bonne pratique. Juin 2018.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques)
+
+### À lire
+
+[Mygland Å. et al. EFNS guidelines on the diagnosis and management of European Lyme neuroborreliosis. European Journal of Neurology. 2010.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2009.02862.x)
 
 {{%/sources%}}

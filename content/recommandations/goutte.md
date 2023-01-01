@@ -180,8 +180,8 @@ Recommandations pour la prise en charge de la crise de goutte:
 Indication à la colchicine: traitement symptomatique de première ligne. (*SFR 2020*)  
 En deuxième intention selon *Prescrire®* (à la place des AINS).
 
-[Colchicine 1 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68066715&typedoc=R) per os avec 2<sup>e</sup> prise de 0,5 mg 1 heure après.  
-Puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours).
+[Colchicine 1 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68066715&typedoc=R) per os avec 2<sup>e</sup> prise de 0,5 mg 1 heure après,  
+puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours).
 {.alert .alert-info}
 
 - Réduire/arrêter la dose en cas de survenue de diarrhées

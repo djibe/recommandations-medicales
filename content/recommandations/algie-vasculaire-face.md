@@ -291,7 +291,7 @@ Voire *lithium*.
 - Stimulation cérébrale profonde (hypothalamique)
 
 {{% /collapse %}}
-{{%collapse "Pris en charge d'une algie vasculaire de la face (AVF)" "show" %}}
+{{%collapse "Prise en charge d'une algie vasculaire de la face (AVF)" "show" %}}
 
 {{< mermaid title="Conduite à tenir et prise en charge d'une suspicion d'algie vasculaire de la face. Dr JB Fron d'après SFEMC 2014" >}}
 graph TB

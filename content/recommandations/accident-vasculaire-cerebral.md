@@ -3,7 +3,7 @@ title = "Accident vasculaire cérébral (AVC)"
 prefix = "l'"
 titleSeo = "Accident vasculaire cérébral"
 description = "Dernières recommandations 2022 sur l'AVC pour le médecin généraliste. Prévention secondaire avec aspirine, statine, objectif de LDL, IEC, objectif tensionnel"
-synonyms = ["Accident ischémique transitoire (AIT)", "infarctus cérébral"]
+synonyms = ["Accident ischémique transitoire (AIT)", "infarctus cérébral", "hémorragie intra-parenchymateuse (HIP)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-25T14:04:00+02:00"
 publishdate = "2021-01-25"
@@ -12,11 +12,11 @@ specialites = ["neurologie"]
 annees = "2022"
 sources = ["ESO", "ESC", "HAS", "AHA"]
 tags = ["antiplaquettaire", "cephalees", "demence", "diabete", "HTA", "risque cardiovasculaire", "SAS", "vertige"]
-anglais = ["Cerebrovascular accident", "Transient Ischaemic Attack (TIA)"]
+anglais = ["Cerebrovascular accident", "transient Ischaemic Attack (TIA)", "intracerebral hemorrhage (ICH)"]
 sctid = "230690007"
 image = true
 imageSrc = "AVC sylvien gauche sur une IRM de diffusion. Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
-todo = "AVCHgique ? bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104, ESC AF holter-ecg >= 24h et préféré 3j"
+todo = "bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104, ESC AF holter-ecg >= 24h et préféré 3j"
 +++
 
 {{%article-summary%}}
@@ -25,7 +25,7 @@ todo = "AVCHgique ? bilan étiologique, https://erj.ersjournals.com/content/55/4
 - Un accident vasculaire cérébral est une Urgence vitale: protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU (4h30 pour thrombolyser)
 - L'AVC est la première cause de mortalité de la femme et la 3<sup>e</sup> de l'homme
 - Un antécédent d'AIT ou d'AVC détermine un {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}
-- Prise en charge post-AVC: aspirine 75-150 mg/j, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,7 g/L, si HTA: {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}, TZD
+- Prise en charge post-AVC: aspirine 75-150 mg/j si ischémique, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,7 g/L, si HTA: {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}, TZD
 - Bilan spécialisé cardiologique et neurovasculaire
 - [Éducation de toute la population à reconnaître un AVC](https://solidarites-sante.gouv.fr/IMG/png/infographieavcsignes.png)
 
@@ -34,8 +34,8 @@ todo = "AVCHgique ? bilan étiologique, https://erj.ersjournals.com/content/55/4
 
 Accident vasculaire cérébral (AVC)
 : Déficit neurologique survenant par interruption de la vascularisation cérébrale ou parfois par un saignement intra-cérébral (hémorragie intra-parenchymateuse HIP).
-: 2 types: l'*accident ischémique* (AVS ischémique ou AIC, 88%) par caillot occlusif (athérosclérose, embole cardiaque)  
-et l'*accident hémorragique* par rupture artérielle (HTA, anévrisme, MAV, tumeur).
+: 2 types: l'*accident ischémique* (AVC ischémique ou AIC, 88%) par caillot occlusif (athérosclérose, embole cardiaque)  
+et l'*accident hémorragique* par rupture artérielle (hypertension artérielle, anévrisme, MAV, tumeur).
 : La survenue d'un AVC/AIT détermine un {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}}.
 
 Accident ischémique transitoire (AIT)
@@ -193,11 +193,12 @@ Liste des contre-indications à la thrombolyse par balancé bénéfice-risque d�
 S'applique aussi après un AIT.
 
 - **Aspirine 75-150 mg/j** (*ESC 2021*)  
-  Si AIC non cardioembolique. Clopidogrel 75 mg/j si allergie (bithérapie les 90 premiers jours).
+  Seulement pour l'AIC non cardioembolique avec clopidogrel 75 mg/j si allergie (bithérapie les 90 premiers jours).
 - Hypertension artérielle (*ESO 2022*, *ESC 2021*)
   - Seuil diagnostique ≥ 140/90 mmHg
   - Cible générale de 120-130/70-79 mmHg (+ *AHA 2021* et *ESC 2018*)
   - +70 ans: 130-139/70-79 mmHg
+  - Cible non connue pour l'AVC hémorragique
   - Molécules: thiazidiques, {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}
   - Hypertendu: réduire la consommation de sel de 2,5 g/j
   - Automesure tensionnelle (*ESO 2022*)
@@ -359,16 +360,17 @@ Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de tr
 - [Kobayashi A. et al. European Academy of Neurology and European Stroke Organization consensus statement and practical guidance for pre-hospital management of stroke. Eur J Neurol. 2018.](https://onlinelibrary.wiley.com/doi/full/10.1111/ene.13539)
 - [Schnitzler A. et al. Santé Publique France. BEH. 2018.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/impact-de-la-reeducation-a-la-phase-subaigue-d-un-accident-vasculaire-cerebral-en-france-en-2016)
 - [Lecoffre C. et al, Santé Publique France. L'accident vasculaire cérébral en France : patients hospitalisés pour AVC en 2014 et évolutions 2008-2014. BEH. 2017.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/l-accident-vasculaire-cerebral-en-france-patients-hospitalises-pour-avc-en-2014-et-evolutions-2008-2014)
+- [Steiner T. et al. European Stroke Organisation (ESO) Guidelines for the Management of Spontaneous Intracerebral Hemorrhage. International Journal of Stroke. 2014.](https://journals.sagepub.com/doi/10.1111/ijs.12309)
 - [HAS. Accident vasculaire cérébral : méthodes de rééducation de la fonction motrice chez l'adulte. Juin 2012.](https://www.has-sante.fr/jcms/c_1334330/fr/accident-vasculaire-cerebral-methodes-de-reeducation-de-la-fonction-motrice-chez-l-adulte)
 - [HAS. Accident vasculaire cérébral :  prise en charge précoce. Mai 2009.](https://www.has-sante.fr/jcms/c_830203/fr/accident-vasculaire-cerebral-prise-en-charge-precoce-alerte-phase-prehospitaliere-phase-hospitaliere-initiale-indications-de-la-thrombolyse)
 
 ### À lire
 
+- [Rubiera M. et al. European Stroke Organisation (ESO) guideline on screening for subclinical atrial fibrillation after stroke or transient ischaemic attack of undetermined origin. Eur Stroke J. 2022.](https://journals.sagepub.com/doi/10.1177/23969873221099478)
 - [Kremer C. et al. European Stroke Organisation guidelines on stroke in women: Management of menopause, pregnancy and postpartum. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/full/10.1177/23969873221078696)
 - [Dziewas R. et al. European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/10.1177/23969873211039721)
 - [Quinn TJ. et al. European Stroke Organisation and European Academy of Neurology joint guidelines on post-stroke cognitive impairment. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/full/10.1177/23969873211042192)
 - [Holtkamp M. et al. European Stroke Organisation guidelines for the management of post-stroke seizures and epilepsy. European Stroke Journal. 2017.](https://journals.sagepub.com/doi/full/10.1177/2396987317705536)
-- [Steiner T. et al. European Stroke Organisation (ESO) Guidelines for the Management of Spontaneous Intracerebral Hemorrhage. International Journal of Stroke. 2014.](https://journals.sagepub.com/doi/10.1111/ijs.12309)
 
 {{%/sources%}}
 {{% modal title="Score STOP-BANG" id="modal-saos"%}}

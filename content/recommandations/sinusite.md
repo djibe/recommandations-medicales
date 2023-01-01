@@ -163,8 +163,8 @@ En cas de pénurie, traitement différé si possible: Amoxicilline cp 1 g disper
 
 ##### Si échec ou origine dentaire
 
-- **Adulte:** Amoxicilline-a. clavulanique 1 g pendant 7 jours
-- **Enfant:** Amoxicilline-a. clavulanique 1 dose-kg x 3/j pendant 10 jours
+- **Adulte:** Amoxicilline-acide clavulanique 1 g pendant 7 jours
+- **Enfant:** Amoxicilline-acide clavulanique 1 dose-kg x 3/j pendant 10 jours
 
 ##### Allergie à la pénicilline sans allergie céphalosporines
 
@@ -174,11 +174,11 @@ En cas de pénurie, traitement différé si possible: Amoxicilline cp 1 g disper
 
 ##### Contre-indication aux bêtalactamines
 
-- **Adulte:** Pristinamycine 1 g x 2/j pendant 4 jours  
-  (voire lévofloxacine po: 500 mg x 1/j pendant 7 jours)  
-  Selon Prescrire®: spiramycine 3 MU x 2-3/j  
-  ou azithromycine 2 x 250 mg x 1/j pendant 3 jours
-- **Enfant > 6 ans:** pristinamycine 50 mg/kg/j x 2-3/j pendant 8 jours
+- **Adulte:** Pristinamycine 1 g x 2/j pendant 4 jours
+  - voire lévofloxacine po: 500 mg x 1/j pendant 7 jours
+  - Selon Prescrire®: spiramycine 3 MU x 2-3/j
+  - ou azithromycine 2 x 250 mg x 1/j pendant 3 jours
+- **Enfant +6 ans:** pristinamycine 50 mg/kg/j en 2-3/j pendant 8 jours
 - **Enfant < 6 ans:** Triméthoprime-sulfaméthoxazole 15 mg/kg x 2/j pendant 8 jours
 
 #### Antibiothérapie de la sinusite frontale
@@ -187,12 +187,12 @@ En cas de pénurie, traitement différé si possible: Amoxicilline cp 1 g disper
 Antibiotique de référence pour la prise en charge de la sinusite frontale:
 
 - **Adulte:** Amoxicilline-a. clavulanique 1 g/125 mg x 3/j pendant 7 jours
-- **Enfant:** Amoxicilline 80 mg/kg/j x 2-3/j pendant 7 jours
+- **Enfant:** Amoxicilline 80 mg/kg/j en 2-3/j pendant 7 jours
 {{%/info%}}
 
 ##### Allergie à la pénicilline sans allergie céphalosporines (sinusite frontale)
 
-- **Adulte:** céfpodoxime-proxétil 200 mg x 2/j pendant 5 jours  
+- **Adulte:** Cefpodoxime-proxétil 200 mg x 2/j pendant 5 jours  
   ou céfuroxime-axétil 250 mg x 2/j pendant 5 jours
 - **Enfant:** Avis spécialisé
 
@@ -227,7 +227,7 @@ Antibiotique de référence pour la prise en charge de la sinusite sphénoïdale
 Prélèvements bactériologiques, scanner, antibiothérapie intraveineuse urgente.
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir" "show" %}}
+{{%collapse "Conduite à tenir devant une sinusite" "show" %}}
 
 {{< mermaid title="Prise en charge d'une sinusite aiguë purulente. Dr JB Fron d'après SPILF et HAS 2021" >}}
 graph TB

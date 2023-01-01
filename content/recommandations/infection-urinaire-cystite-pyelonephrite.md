@@ -120,7 +120,7 @@ Symptômes de la cystite: brûlures mictionnelles, pollakiurie, impériosité/ur
 
 Prise en charge de la cystite par **BU** (leucocytes+ voire nitrites+) et antibiothérapie probabiliste:
 
-1. <mark>**[Fosfomycine trométamol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66430643&typedoc=R) 3g dose unique**</mark>
+1. <mark>[Fosfomycine trométamol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66430643&typedoc=R) 3g dose unique</mark>
 2. [Pivmécillinam](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60670489&typedoc=R) (Selexid®) 400 mg x 2/j pendant 3 jours
 
 ECBU uniquement en l'absence d'amélioration à 72 heures, récidive dans les 2 semaines ou double contre-indication. Le traitement adapté à l'antibiogramme sera celui des cystites à risque de complication.
@@ -140,7 +140,7 @@ Antibiothérapie probabiliste uniquement en cas de symptômes marqués:
 
 Antibiotique de préférence adapté à l'antibiogramme:
 
-1. <mark>**Amoxicilline 1g x 3/j pendant 7 jours**</mark>
+1. <mark>Amoxicilline 1g x 3/j pendant 7 jours</mark>
 2. Pivmécillinam (Selexid®) 400 mg x 2/j pendant 7 jours
 3. Nitrofurantoïne 100 mg x 3/j pendant 7 jours
   
@@ -211,7 +211,7 @@ BU et si positive **ECBU**.
 
 Antibiothérapie probabiliste juste après l'ECBU:
 
-1. <mark>**Ciprofloxacine 500 mg x 2/j ou lévofloxacine 500 mg/j**</mark>  
+1. <mark>Ciprofloxacine 500 mg x 2/j ou lévofloxacine 500 mg/j</mark>  
   Sauf fluoroquinolone dans les 6 mois.
 2. Ceftriaxone IM 1 g/j (2g si obèse)
 3. Hospitalisation
@@ -220,7 +220,7 @@ Antibiothérapie probabiliste juste après l'ECBU:
 
 Adaptation à l'antibiogramme dès le rendu des résultats:
 
-1. <mark>**Amoxicilline 1g x 3/j pendant 10 jours**</mark>
+1. <mark>Amoxicilline 1g x 3/j pendant 10 jours</mark>
 2. Cotrimoxazole 800/160 mg x 2/j pendant 10 jours
 3. Amoxicilline-acide clavulanique 1g x 3/j pendant 10 jours
 4. Ciprofloxacine 500 mg x 2/j ou lévofloxacine 500 mg/j ou ofloxacine 200 mg x 2/j pendant 7 jours
@@ -259,7 +259,7 @@ Colonisation urinaire gravidique
 
 Prise en charge par **antibiothérapie systématique** d'emblée adaptée à l'antibiogramme:
 
-1. <mark>**Amoxicilline 1g x 3/j pendant 7 jours**</mark>
+1. <mark>Amoxicilline 1g x 3/j pendant 7 jours</mark>
 2. Pivmécillinam (Selexid®) 400 mg x 2/j pendant 7 jours
 3. Fosfomycine trométamol 3g dose unique
 4. Triméthoprime 300 mg/j pendant 7 jours  
@@ -277,14 +277,14 @@ Cystite gravidique
 
 **Antibiothérapie systématique** probabiliste d'une cystite aiguë de la femme enceinte:
 
-1. <mark>**Fosfomycine trométamol 3g dose unique**</mark>
+1. <mark>Fosfomycine trométamol 3g dose unique</mark>
 2. Pivmécillinam (Selexid®) 400 mg x 2/j pendant 7 jours
 
 **ECBU de contrôle** à J8-J10 puis mensuel jusqu'à l'accouchement
 
 En cas d'échec ou de résistance:
 
-1. <mark>**Amoxicilline 1g x 3/j pendant 7 jours**</mark>
+1. <mark>Amoxicilline 1g x 3/j pendant 7 jours</mark>
 2. Triméthoprime 300 mg/j pendant 7 jours  
   Éviter les 10 premières semaines d'aménorrhée.
 3. Nitrofurantoïne 100 mg x 3/j pendant 7 jours

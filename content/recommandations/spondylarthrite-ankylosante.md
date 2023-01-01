@@ -322,11 +322,11 @@ Réduction et espacement en rémission stable et prolongée.
 #### Classes thérapeutiques
 
 - Anti-TNFα
-  - Adalimumab (Humira® ou biosim Amgevita®, Hulio®, Hyrimoz®, Idacio®, Imraldi®)
+  - Adalimumab (Humira® ou biosimilaires Amgevita®, Hulio®, Hyrimoz®, Idacio®, Imraldi®)
   - Certolizumab (Cimzia®)
-  - Étanercept (Enbrel® ou biosim Benepali®, Erelzi®)
+  - Étanercept (Enbrel® ou biosimilaires Benepali®, Erelzi®)
   - Golimumab (Simponi®)
-  - Infliximab (Remicade® ou biosim Flixabi®, Inflectra®, Remsima®)
+  - Infliximab (Remicade® ou biosimilaires Flixabi®, Inflectra®, Remsima®)
 - Anti-IL-17
   - Ixekizumab
   - Sécukinumab (Cosentyx®)
@@ -378,7 +378,7 @@ Une amélioration doit être obtenue à 3 mois pour poursuivre une stratégie, a
 
 {{< mermaid title="Prise en charge d'une suspicion de spondylarthrite ankylosante par le médecin généraliste. Dr JB Fron d'après SFRhumato 2022" >}}
 graph TB
-  suspicion[Suspicion de SpA] --> bilan("- Biologie<br>- Rx rachis complet F+P<br>et bassin F<br>- IRM rachis dorso-lombaire<br>et sacro-iliaques") --> rhumato("- AINS pleine dose<br>- Avis rhumatologique systématique")
+  suspicion[Suspicion de Spondyloarthrite] --> bilan("- Biologie<br>- Rx rachis complet F+P<br>et bassin F<br>- IRM rachis dorso-lombaire<br>et sacro-iliaques") --> rhumato("- AINS pleine dose<br>- Avis rhumatologique systématique")
   style suspicion stroke:#4150f5, stroke-width:1px
 
 {{< /mermaid >}}
