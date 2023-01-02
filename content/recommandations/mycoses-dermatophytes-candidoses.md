@@ -2,32 +2,36 @@
 title = "Mycoses: candidoses et dermatophytoses (intertrigo, teigne, vaginite)"
 titleSeo = "Mycoses: Dermatophytes et candidoses"
 prefix = "les "
-description = "TODO:"
+description = "Recommandations pour la prise en charge des mycoses: intertrigo, teigne, candidose vaginale, buccale, herpès circiné, balanite. Antifongiques azolés topiques"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-21T21:25:18+01:00"
-publishdate = "2022-12-27"
-lastmod = "2022-12-27"
+publishdate = "2023-01-02"
+lastmod = "2023-01-02"
 specialites = ["dermatologie"]
 annees = "2022"
-sources = ["Anofel"]
+sources = ["Anofel", "SFD", "BASSH"]
 tags = ["adolescent", "biotherapie", "cancer", "diabete", "enfant", "obesite", "prurit"]
-anglais = ["Mycosis", "dermatophytosis", "candidiasis", "vulvovaginal candidiasis"]
+anglais = ["Mycosis", "dermatophytosis", "candidiasis", "vulvovaginal candidiasis", "thrush"]
 sctid = "276206000"
-draft = true
-image = false
-imageSrc = ""
-todo = "flowchart teigne > résumé > surveillance terbinafine, CVV Figure 1, liens, PHOTOS, Pytiriasis capitis, muguet nourrisson, périonyxis fluconazole dose"
+flowchart = true
+image = true
+imageSrc = "Candidose linguale de l'enfant déclenchée par des antibiotiques. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
+todo = "PHOTOS, ttt balanite candidosique, ttt sycosis, Pytiriasis capitis, muguet nourrisson, périonyxis fluconazole dose"
 +++
 
 {{%article-summary%}}
 
-- Dermatophytose: prélèvement mycologique systématique en périphérie des lésions à distance de toute thérapeutique (cutanée 15 jours, ongle 2 mois) pour examen direct et culture
-- Le traitement des dermatophytoses doit toujours être guidé par l'examen mycologique direct
+- Dermatophytose type teigne ou onychomycose: prélèvement mycologique systématique en périphérie des lésions à distance de toute thérapeutique (cutanée 15 jours, ongle 2 mois) pour examen direct et culture
 - Traitement local sauf pour les teignes, candidoses buccales et vaginales, onyxis à dermatophytes avec atteinte matricielle et onyxis candidosiques
-TODO:
-
-**NB.** Sur toute la page seul l'*éconazole* est cité mais un autre imidazolé peut lui être préféré.
+- Prise en charge des mycoses courantes en première intention:
+  - Candidose buccale: miconazole 2% gel 2,5 mL x 4/j 7-14 jours, mesures associées
+  - Candidose vaginale aiguë: fluconazole 150 mg dose unique (ou éconazole LP ovule 1-3 jours) ± éconazole vulvaire 14-28 jours
+  - Intertrigo: éconazole 1% ou ciclopirox 1% crème x 2/j 14-28 jours, mesures associées
+  - Herpès circiné: éconazole 1% crème x 2/j 14-21 jours
+  - Onycomycose: prélèvement, pédicurie, traitement adapté amorolfine 5% x 1-2/semaine ou ciclopirox 8% 1/j pendant 3-6 mois, éconazole interdigital
+  - Pityriasis versicolor: kétoconazole 2% gel unidose, récidives ++
+  - Teigne: prélèvement, terbinafine 250 mg x 1/j pendant 28 jours puis contrôle clinique et culture, mesures associées
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -168,9 +172,9 @@ Les teignes faviques sont exceptionnelles en Europe par *Trichophyton schoenlein
 - Prélèvement au laboratoire
 - Raser les cheveux autour
 - Traitement probabiliste  
-  Terbinafine 250 mg x 1/j pendant 28 jours (voir la section *Traitements* pour les autres poids)
-- Traitement local pendant 28 jours  
-  Éconazole ou ciclopirox olamine 1% crème x 2/j
+  - <mark>Terbinafine 250 mg x 1/j pendant 28 jours (voir la section *Traitements* pour les doses)</mark>
+  - Prolonger 2 semaines si amélioration partielle à 4 semaines avec une culture à *Microsporum*
+- \+ éconazole ou ciclopirox olamine 1% crème x 2/j pendant 28 jours
 - Examiner l'entourage  
   Jusqu'à 50% de porteurs et traitement oral si atteints.
 - Contrôle clinique à 4 semaines avec résultats mycologiques  
@@ -180,12 +184,7 @@ Les teignes faviques sont exceptionnelles en Europe par *Trichophyton schoenlein
     Teignes zoophiles: *M. canis* (chien, chat), *T. mentagrophytes* (chien, chat, lapin, souris ...), *T. verrucosum* (bovins), *T. erinacei* (hérisson), *T. gallinae* (volailles), *T. equinum* (cheval), *T. benhamiae* (cochons d'Inde), *N. persicolor* (rongeurs sauvages), *N. praecox* (cheval)
   - Teignes telluriques: *Nannizzia gypsea*, *N. persicolor*
 
-Teigne microsporique
-
-Itraconazole 6 semaines 1 prise/j en dehors des repas.
-
-Trichophyton : arrêt TBF
-- Microsporum : poursuite TBF 2 semaines OU switch ITC 2 semaines
+Avis spécialisé si: *Microsporum* à l'examen direct ou après 6 semaines de terbinafine, échec à 4 semaines.
 
 {{% /collapse %}}
 {{%collapse "Candidoses buccales" %}}
@@ -234,8 +233,11 @@ Rechercher un [diabète]({{< relref "diabete-type-2.md" >}}) en cas de balanite 
 {{% /collapse %}}
 {{%collapse "Candidoses vaginales" %}}
 
-Prise en charge de la candidose vaginale (mycose vaginale, candidose vulvovaginale ou vaginite candidosique) d'après les **recommandations *BASSH 2019***. *Candida albicans* est la principale mycose vaginale (80-89%).  
-Les traitements non azolés sont réservés aux résistances et *Candida non-albicans* (principalement *C. glabrata*, *C. tropicalis*, *C. krusei* et *C. parapsilosis*).
+{{%info%}}Pas de traitement du partenaire et contrôle clinique uniquement en cas d'évolution défavorable{{%/info%}}
+
+Prise en charge de la candidose vaginale (mycose vaginale, candidose vulvovaginale ou vaginite candidosique) d'après les **recommandations *BASSH 2019***.
+
+*Candida albicans* est la principale mycose vaginale (80-89%). Les traitements non azolés sont réservés aux résistances et *Candida non-albicans* (principalement *C. glabrata* et *C. krusei*).
 
 Signes et symptômes d'une candidose vulvovaginale:
 
@@ -252,23 +254,24 @@ Signes et symptômes d'une candidose vulvovaginale:
 
 > << La candidose vaginale récidivante peut être la première manifestation clinique de l'[infection à VIH]({{< relref "vih-sida.md" >}}) >> (*Anofel*)
 
-{{%info%}}
-
 ### Prise en charge de la candidose vulvovaginale aiguë
 
 - Inspection vulvaire
-- <mark>[Fluconazole 150 mg cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67860651&typedoc=R) dose unique</mark>
-- ou clotrimazole 500 mg caps vaginale (Mycohydralin® NR) dose unique ([référence pendant la grossesse](http://lecrat.fr/spip.php?page=article&id_article=929))
+- <mark>Fluconazole 150 mg cp dose unique</mark> ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67860651&typedoc=R), [interactions](https://www.drugs.com/interaction/list/?drug_list=1096-0))
+- ou clotrimazole 500 mg caps vaginale (Mycohydralin® NR) dose unique ([molécule de référence pendant la grossesse](http://lecrat.fr/spip.php?page=article&id_article=929))  
+  Pendant la **grossesse**, renouveler le traitement jusqu'à 6 fois si besoin.
 - Alternatives
   - Clotrimazole 200 mg cp vaginal (Mycohydralin® NR) pendant 3 nuits
   - [Éconazole LP 150 mg ovule](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65261489&typedoc=R) dose unique au coucher ou pendant 3 nuits
   - [Fenticonazole 600 mg caps vaginale](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69960586&typedoc=R#RcpPremiereAutorisation) (Lomexin®) dose unique au coucher ou 200 mg 3 nuits de suite
-- ± traitement local: éconazole 1% crème x 2/j pendant 14 à 28 jours
-- Mesures d'hygiène
+- **Candidose sévère** (érythème étendu, œdème, excoriation ou fissure)
+  - Fluconazole 150 mg 1 cp à J1 et J4
+  - voire clotrimazole 500 mg caps vaginale (Mycohydralin® NR) à J1 et J4
+- <mark>± traitement local: éconazole 1% crème x 2/j pendant 14 à 28 jours</mark>
+- **Mesures d'hygiène**
   - Une seule toilette (externe) par jour avec savon à pH neutre (*Prescrire*, alcalin selon *Anofel*) sans autres soins
   - Éviter les lessives et assouplissants irritants
   - Sous-vêtements coton
-{{%/info%}}
 
 > **NR =** non remboursé
 
@@ -279,7 +282,7 @@ Candidose vulvovaginale récurrente
 : Elle est probablement liée à des particularités biologiques des patientes. 6% des femmes actives sont atteintes.
 : 2 groupes de patientes: bonne réponse au traitement avec intervalles libres ou réponse partielle avec symptômes persistants.
 
-#### Mesures générales
+#### Mesures générales pour les candidoses vaginales récidivantes
 
 - Contrôle des facteurs de risque  
   Diabète, immunosuppression, traitement hormonal, antibiothérapie récente (3 mois).
@@ -288,15 +291,49 @@ Candidose vulvovaginale récurrente
 - Examen gynécologique voire dermatologique
 - Bilan biologique: NFS, ferritinémie, glycémie à jeun
 - Auto-prélèvements vaginaux répétés pour: identification du *Candida*, sensibilité au fluconazole  
-  Absence de réponse aux traitements: identification de l'espèce et sensibilité aux antimycotiques.
+  Absence de réponse aux traitements: identification de l'espèce et sensibilité aux antifongiques.
 - Mesures d'hygiène à tester
   - Remplacer le savon par des émollients vulvaires
   - Ne pas faire de douche vaginale
   - Éviter les bains
   - Éviter les protège-slips hors menstruations
+- Information de la patiente  
+  Les traitements locaux peuvent créer une irritation locale et altérer l'efficacité des préservatifs, diaphragmes et spermicides.
 
-1 ovule azolé pendant 3 jours à partir de J19 (ou J20) du cycle pendant 4 à 6 mois  
-ou [fluconazole 150 à 300 mg cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67860651&typedoc=R) x 1/semaine pendant 6 mois
+{{%info%}}
+
+#### Traitement de la candidose vaginale récurrente
+
+- **Fluconazole 150 mg cp ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67860651&typedoc=R), [interactions](https://www.drugs.com/interaction/list/?drug_list=1096-0)) 1 cp à J1-J4-J7 puis 1/semaine pendant 6 mois**
+- Alternative: [éconazole LP 150 mg ovule](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65261489&typedoc=R) pendant 7 jours (voire 14 selon l'efficacité) puis clotrimazole 500 mg caps vaginale (Mycohydralin® NR) 1/semaine pendant 6 mois
+- Grossesse: traitement identique à l'alternatif avec éconazole ovule 10-14 jours + clotrimazole hebdomadaire
+{{%/info%}}
+
+Avis spécialisé en cas de *Candida* résistant aux azolés.  
+Si **récidive durant le traitement**: augmenter le fluconazole 150 mg à 1 cp x 2/semaine ou essayer **cétirizine** 10 mg/j pendant 6 mois.
+
+Après le traitement: utiliser le traitement aigu en cas de candidoses rares, sinon recommencer la séquence complète si les critères de récurrence sont remplis.
+
+Le [traitement hormonal de la ménopause]({{< relref "menopause.md" >}}) est un facteur de risque de candidose récurrente.
+
+### Candidose vulvovaginale non-albicans ou résistante
+
+Prise en charge des candidoses vaginales résistantes aux azolés ou par *Candida* non-albicans:
+
+Les traitements recommandés ne sont pas disponibles en France (nystatine, acide borique, amphotéricine B, flucytosine vaginaux), avis spécialisé.
+
+{{%warning%}}
+
+### Traitements sans efficacité démontrée
+
+- Régime spécifique
+- Probiotiques (*Lactobacillus* ...)
+- Arbre à thé et huiles essentielles
+- Sous-vêtements << antimicrobiens >>
+- Préparations de yaourt et miel
+- Ail
+
+{{%/warning%}}
 
 {{% /collapse %}}
 {{%collapse "Mycoses des phanères - poils et ongles" %}}
@@ -321,7 +358,7 @@ Prise en charge des onychomycoses:
   Séchage des mains, limiter les contacts avec le sucre, les acides, les corticoïdes, les soins de manucure.
 - Matrice épargnée
   1. Pédicure-podologue pour limage ou meulage initial
-  2. Vernis unguéal amorolfine ou ciclopirox pendant 3 à 6 mois
+  2. Vernis unguéal [amorolfine 5%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68805138&typedoc=R) x 1-2/semaine ou [ciclopirox 8%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66640136&typedoc=R) x 1/j pendant 3 à 6 mois
   3. Éconazole des espaces interdigitoplantaires pour éviter une réinfection
   4. Périonyxis important: fluconazole
   5. Si échec: avulsion chimique par bifonazole 1% + urée 40% sous pansement occlusif pendant 1-3 semaines  
@@ -359,7 +396,7 @@ Chez un [patient vivant avec le VIH]({{< relref "vih-sida.md" >}}) (PVVIH), l'œ
 Antifongiques azolés (ou imidazolés) autorisés en France, utilisés en **2 applications par jour sauf mention contraire**:
 
 - Bifonazole (Amycor®) crème/poudre x 1/j
-- [Éconazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62098492&typedoc=R) crème/poudre/émuls/sol est le mieux évalué selon Prescrire
+- [Éconazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62098492&typedoc=R) crème/poudre/émuls/ovule/sol est le mieux évalué selon *Prescrire*
 - Fenticonazole crème/caps (+12 ans)
 - Isoconazole crème/émuls
 - Kétoconazole crème/gel x 1-2/j (+18 ans)
@@ -370,27 +407,34 @@ Antifongiques azolés (ou imidazolés) autorisés en France, utilisés en **2 ap
 
 Candidose cutanée: durée de traitement de 14 à 28 jours
 
-TODO: acide undécylénique, terbinafine
-
 **NB.** La formulation (crème, lotion, gel, poudre) dépend du caractère suintant ou non de la lésion.
 
 #### Ciclopirox olamine
 
-Ciclopirox olamine 1% crème
+[Ciclopirox olamine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63273126&typedoc=R) x 2/j pendant 14 à 28 jours.
 
 Spectre large et absence d'interactions médicamenteuses.
+
+#### Autres antifongiques topiques
+
+- [Terbinafine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68446952&typedoc=R) x 1-2/j pendant 1-2 semaines
 
 ### Traitement antifongique général
 
 Tous les traitements antifongiques par voie générale exposent à des toxidermies graves
 {.alert .alert-warning}
 
+#### Fluconazole
+
+[Fluconazole 6 mg/kg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68551946&typedoc=R) x 1/j (gél 50/100/200, sirop).
+
+Effets indésirables principaux: céphalées, nausées, douleurs abdominales, anaphylaxie.
+
 #### Terbinafine
 
-La terbinafine pour un traitement général est disponible en [comprimés sécables](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60108678&typedoc=R) avec une seule prise quotidienne pendant le repas.  
-Elle expose à de [nombreuses interactions](https://www.drugs.com/interaction/list/?drug_list=2161-0).
+La terbinafine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60108678&typedoc=R), [interactions](https://www.drugs.com/interaction/list/?drug_list=2161-0)) pour un traitement général est disponible en comprimés sécables avec une seule prise quotidienne pendant le repas. Nombreuses interactions.
 
-{{< table title="Posologies de la terbinafine selon le poids. Dr JB Fron d'après SFD 2021" >}}
+{{< table title="Posologies de la terbinafine selon le poids. Dr JB Fron d'après SFD et al 2021" >}}
 | Poids (kg) | Posologie (mg) |
 |-----------:|---------------:|
 | +40        | 250            |
@@ -398,23 +442,34 @@ Elle expose à de [nombreuses interactions](https://www.drugs.com/interaction/li
 | 10-20      | 62,5           |
 {{< /table >}}
 
-#### Itraconazole
+#### Pour en savoir plus: Itraconazole
 
 La prescription initiale d'itraconazole est hospitalière
 {.alert .alert-warning}
 
-{{< table title="Posologies de l'itraconazole selon le poids. Dr JB Fron d'après SFD 2021" >}}
+{{< table title="Posologies de l'itraconazole selon le poids. Dr JB Fron d'après SFD et al 2021" >}}
 | Poids (kg) | Posologie (mg) |
 |-----------:|---------------:|
 | +20        | 100            |
 | 10-20      | 50             |
 {{< /table >}}
 
-#### Fluconazole
-
-Une prise quotidienne de 6 mg/kg
-
 {{% /collapse %}}
+{{%collapse "Prise en charge d'une teigne" "show" %}}
+
+{{< mermaid title="Conduite à tenir et prise en charge d'une teigne. Dr JB Fron d'après SFD, GPIP, SFDP, SPILF, SFMM 2021. TBF = terbinafine" >}}
+graph TB
+  suspicion[Suspicion de teigne] -- "-10 kg" --> specialiste(Avis spécialisé)
+  style suspicion stroke:#4150f5, stroke-width:1px
+    suspicion == "&ge; 10 kg" ==> bilan("Prélèvement mycologique au laboratoire<br>et traitement 4 semaines:<br>Terbinafine orale<br>+ éconazole x 2/j<br>+ mesures associées")
+      bilan --> reevaluation(Microsporum à<br>l'examen direct ?)
+        reevaluation -- Non --> controle(Contrôle clinique à 4 semaines<br>avec résultat de culture)
+          controle --> guerison(Amélioration<br>ou guérison ?) -- Oui --> adaptation("- Trichophyton: arrêt TBF<br>- Microsporum: poursuite TBF<br>2 semaines<br>ou avis spécialisé")
+            guerison -- Non --> specialiste
+        reevaluation -- Oui --> specialiste
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - Prescrire Redaction. Patients atteints de mycose superficielle. Prescrire. 2023.
@@ -422,17 +477,15 @@ Une prise quotidienne de 6 mg/kg
 - Anofel. Parasitoses et mycoses des régions tempérées et tropicales. 2022.
 - Prescrire Redaction. Teignes du cuir chevelu. Prescrire. 2022.
 - [ANSM. Traitement de la teigne de l'enfant et indisponibilité de la griséofulvine : l'ANSM précise la conduite à tenir. 19/07/2021.](https://ansm.sante.fr/actualites/traitement-de-la-teigne-de-lenfant-et-indisponibilite-de-la-griseofulvine-lansm-precise-la-conduite-a-tenir)
+- [Société Française de Dermatologie, GPIP, SFDP, SPILF, SFMM. Algorithme. Centre de preuves en dermatologie. 2021. (PDF)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Algorithme_teignes_2021-06-22.pdf)
 - Prescrire Redaction. Intertrigo des grands plis. Prescrire. 2021.
 - Prescrire Redaction. Candidose vulvovaginale. Prescrire. 2021.
+- [Saxon GDGC. et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
 - Prescrire Redaction. Pityriasis versicolor. Prescrire. 2019.
 - [Haut conseil de la santé publique. Survenue de maladies infectieuses dans une collectivité. Conduites à tenir. 2012.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=306)
 
 ### À lire
 
 - [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. UE6 Item 152. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-152-nb.pdf)
-- [Société Française de Dermatologie, GPIP, SFDP, SPILF, SFMM. Algorithme. Centre de preuves en dermatologie. 2021. (PDF)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Algorithme_teignes_2021-06-22.pdf)
-- [Saxon GDGC, Edwards A., Rautemaa-Richardson R. et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
 
 {{%/sources%}}
-
-≤≥±®æœŒÈ³ÂSpO<sub>2</sub>

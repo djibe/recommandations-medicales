@@ -18,7 +18,6 @@ title = "RecoMédicales"
 [taxonomies]
   specialite = "specialites"
   tag = "tags"
-  # auteur = "auteurs"
   annee = "annees"
   # source = "sources"
 

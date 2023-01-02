@@ -8,7 +8,7 @@ synonyms = ["Syndrome climatérique", "traitement hormonal substitutif THS"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
 publishdate = "2021-10-19"
-lastmod = "2022-12-16"
+lastmod = "2023-01-02"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF"]
@@ -35,7 +35,7 @@ todo = "écriture SEO, KEY patiente | règles d'hygiène, Chart J1-J31, lire sou
 - Débuter quand diagnostic certain et seulement dans les 10 premières années
 - Doses minimales efficaces d'estrogène cutané + progestérone orale combinés continu (ou discontinu ou séquentiels si hémorragies souhaitées)
 
-Chapitres liés: [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}), [contraception]({{< relref "contraception.md" >}})
+Chapitres liés: [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}}), [contraception]({{< relref "contraception.md" >}}), [candidoses vaginales]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -314,10 +314,10 @@ Objectifs: amélioration de la santé, des signes climatériques, du risque card
 
 Contre-indications au traitement de la ménopause:
 
-- Antécédent de cancer du sein  
+- [Antécédent de cancer du sein]({{< relref "cancer-sein.md" >}})  
   Quelque soit le statut hormonal ou invasif/in situ.
-- Cancer de l'endomètre (TODO: vérifier)
-- Antécédent d'infarctus du myocarde ou d'AVC ischémique
+- [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) (TODO: vérifier)
+- Antécédent d'infarctus du myocarde ou d'[AVC ischémique]({{< relref "accident-vasculaire-cerebral.md" >}})
 - Maladie d'Alzheimer
 - Relatives
   - Syndrome douloureux mammaire
@@ -325,7 +325,7 @@ Contre-indications au traitement de la ménopause:
   - Exploration de masse mammaire
   - Exploration de saignements utérins anormaux
 - Estradiol par voie orale
-  - Antécédent de MVTE
+  - [Antécédent de MVTE](/tags/mvte/)
   - Obésité
   - Thrombophilie
   - Risque cardiovasculaire marqué
@@ -339,9 +339,9 @@ Contre-indications au traitement de la ménopause:
 
 [Information de la patiente - GEMVI: Fiche info ménopause et THM (PDF)](http://gemvi.org/wp-content/uploads/2022/06/fiche-info-patiente-menopause-THM.pdf)
 
-### Indications au THM
+### Indications au traitement hormonal de la ménopause (THM)
 
-Le THM peut être proposé en ménopause récente (< 10 ans) selon la balance bénéfices-risques individualisée:
+Le THM peut être proposé en cas de ménopause récente (< 10 ans) selon la balance bénéfices-risques individualisée:
 
 - {{< modal-btn modal-risque-fracture >}}Risque fracturaire{{< /modal-btn >}} et T-score < -2
   - Bénéfique si durée ≥ 5 ans
@@ -365,15 +365,14 @@ Recommandations pour le traitement hormonal de la ménopause (THM) en pratique:
 - Débuté seulement après diagnostic clinique certain et < 10 ans après le début de la ménopause
 - Association: estradiol par voie cutanée 17bêta-estradiol ou valérate d'estradiol + progestérone micronisée ou dydrogestérone ≥ 12 j/mois
 - Utiliser les doses minimales efficaces
-- Hystérectomie  
-Estradiol cutané seul.
+- Hystérectomie: Estradiol cutané seul
 - Schéma
   - *Combiné continu* privilégié  
-  Évite hémorragies de privation et BVM concomitantes, [migraines]({{< relref "migraine.md" >}}), simplicité.
+    Évite hémorragies de privation et BVM concomitantes, [migraines]({{< relref "migraine.md" >}}), simplicité.
   - ou *séquentiel* (hémorragies de privation)
   - La dose minimale efficace peut varier avec le temps
 - Délai d'efficacité sur les BVM: 2-6 semaines.  
-L'absence d'efficacité doit faire rechercher des BVM atypiques (voir *Clinique*).
+  L'absence d'efficacité doit faire rechercher des BVM atypiques (voir *Clinique*).
 - Contre-indications à l'estradiol par voie orale
   - Antécédent de MVTE
   - Obésité
@@ -511,6 +510,8 @@ Il peut être repris en cas de dégradation de la qualité de vie (selon la bala
 
 Après l'arrêt du traitement hormonal, poursuivre un suivi médical osseux et cardiovasculaire rigoureux.
 
+NB. Le THM est un facteur de risque de [candidose vulvovaginale récurrente]({{< relref "mycoses-dermatophytes-candidoses.md" >}}).
+
 ### Découverte de masse mammaire sous traitement hormonal
 
 Prise en charge d'un nodule du sein sous traitement hormonal:
@@ -562,30 +563,31 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 - Fracture de tous les sites osseux  
   Prévention de l'[ostéoporose]({{< relref "osteoporose.md" >}}).
 - Infarctus du myocarde  
-  Si < 60 ans ou ménopause moins de 10 ans.
+  Avant 60 ans ou ménopause de moins de 10 ans.
 - Cancers: [colorectal]({{< relref "cancer-colorectal.md" >}}), du [pancréas]({{< relref "cancer-pancreas.md" >}}), de l'œsophage, de l'[estomac]({{< relref "cancer-estomac.md" >}}) et du foie
-- Démence (29-44% mais biais) surtout si [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
-- Mortalité si -60 ans  
+- Démence (29-44% mais faible niveau de preuve) surtout si [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})
+- Mortalité avant 60 ans  
   Effet cardiovasculaire très protecteur.
 
 #### Risques du THM
 
-- Récidive d'[AVC ischémique]({{< relref "accident-vasculaire-cerebral.md" >}}) ou d'infarctus du myocarde  
+- Récidive d'[Accident vasculaire cérébral (AVC) ischémique]({{< relref "accident-vasculaire-cerebral.md" >}}) ou d'infarctus du myocarde  
   Uniquement avec ECE + MPA mais principe de précaution.
 - AVC ischémique si estradiol oral
 - [Maladie veineuse thrombo-embolique](/tags/mvte/) (MVTE)  
   - Si estradiol + acétate de nomegestrol ou promegestone
-  - Risque de récidive en antécédent de MVTE et estradiol oral
-- [Cancer du sein]({{< relref "cancer-sein.md" >}}) si THM > 5 ans  
-  Disparaît en 2-10 ans après l'arrêt du THM.
+  - Risque de récidive en cas d'antécédent de thromboembolie veineuse et estradiol oral
+- [Cancer du sein]({{< relref "cancer-sein.md" >}}) si traitement hormonal (THM) prolongé +5 ans  
+  Le sur-risque disparaît en 2-10 ans après l'arrêt du THM.
 - [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) si estradiol seul  
   Effacé si prise de 12 jours minimum de progestatif mensuels.
-- Cancer de l'ovaire  
+- [Cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}})  
   1 cas supplémentaire pour 8000 femmes traitées. Essai avec ECE + MPA ne retrouvait pas de différence pour durée < 5 ans.
+- Facteur de risque de [candidose vaginale récurrente]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
 
 ##### Effets neutres marquants du THM
 
-- MVTE  
+- Thrombo-embolies veineuses  
   Si estradiol cutané + progestérone micronisée (dydrogestérone, acétate de chlormadinone, médrogestone, acétate de cyprotérone, acétate de médroxyprogestérone) quelque soit l'IMC.
 - Incidence du cancer du sein si durée du THM < 5 ans
 - Mortalité par cancer du sein
@@ -618,7 +620,8 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 
 - [US Preventive Services Task Force. Hormone Therapy for the Primary Prevention of Chronic Conditions in Postmenopausal Persons: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2797867)
 - [Trémollieres F. et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://doi.org/10.1016/J.GOFS.2021.03.010)
-- Prescrire Redaction. Troubles liés à la ménopause. Premiers choix Prescrire. Juin 2020.
+- [Saxon GDGC. et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
+- Prescrire Redaction. Troubles liés à la ménopause. Premiers choix Prescrire. 2020.
 
 ### À lire
 

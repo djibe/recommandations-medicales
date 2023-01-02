@@ -3,6 +3,7 @@ title = "Arrêt du tabac ou sevrage tabagique"
 titleSeo = "Arrêt du tabac"
 prefix = "l'"
 description = "Recommandations pour la prise en charge médicale de l'arrêt du tabac (sevrage tabagique): dépendance Fagerström, substituts nicotiniques, soutien psychologique"
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-11-21T14:11:22+01:00"
