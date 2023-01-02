@@ -46,7 +46,7 @@
   },
   "homepage": "https://recomedicales.fr",
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^4.1.3",
+    "@fullhuman/postcss-purgecss": "^5.0.0",
     "cli-real-favicon": "^0.0.8",
     "cross-env": "^7.0.3",
     "hint": "^7.1.3",
