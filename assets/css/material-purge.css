@@ -769,11 +769,6 @@ li > ul > li {
   position: relative;
 }
 
-.alert-primary {
-  background-color: rgba(65, 80, 245, 0.16);
-  color: #0c1dde;
-}
-
 .alert-secondary {
   background-color: rgba(232, 117, 0, 0.16);
   color: #9c4e00;
