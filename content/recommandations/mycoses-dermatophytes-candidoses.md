@@ -233,7 +233,8 @@ Rechercher un [diabète]({{< relref "diabete-type-2.md" >}}) en cas de balanite 
 {{% /collapse %}}
 {{%collapse "Candidoses vaginales" %}}
 
-{{%info%}}Pas de traitement du partenaire et contrôle clinique uniquement en cas d'évolution défavorable{{%/info%}}
+Pas de traitement du partenaire et contrôle clinique uniquement en cas d'évolution défavorable
+{.alert .alert-info}
 
 Prise en charge de la candidose vaginale (mycose vaginale, candidose vulvovaginale ou vaginite candidosique) d'après les **recommandations *BASSH 2019***.
 

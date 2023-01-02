@@ -1,6 +1,6 @@
 +++
 title = "Grossesse"
-titleSeo = "In case of long title or delete whole line"
+titleSeo = "TODO:"
 prefix = "la "
 description = "160 characters max"
 synonyms = []
@@ -8,10 +8,10 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2022-06-27"
 lastmod = "2022-12-22"
-specialites = ["endocrinologie"]
-annees = "2020"
-sources = ["Society1", "Society2"]
-tags = ["tag 1", "tag 2"]
+specialites = ["gynecologie-obstetrique"]
+annees = "2022"
+sources = ["CNGOF", "SFD"]
+tags = []
 anglais = ["English word", "you can add one or delete this one"]
 sctid = ""
 draft = true
@@ -25,8 +25,10 @@ todo = ""
 - 0 alcool et 0 tabac pendant la grossesse
 - [Calendrier de grossesse de GestaClic](http://gestaclic.fr/calculette.html)
 
+Voir également: [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}}), [contraception]({{< relref "contraception.md" >}})
+
 {{%/article-summary%}}
-{{%collapse "Médicaments pendant la grossesse" "show" %}}
+{{%collapse "Médicaments pendant la grossesse" %}}
 
 Contrôler la sécurité d'utilisation d'un médicament pendant la grossesse ou l'allaitement.
 
@@ -39,6 +41,11 @@ Contrôler la sécurité d'utilisation d'un médicament pendant la grossesse ou 
 </form>
 
 {{< references/le-crat >}}
+
+{{% /collapse %}}
+{{%collapse "Vomissements pendant la grossesse" %}}
+
+> Prise en charge des Vomissements pendant la grossesse d'après les recommandations *CNGOF* 2022
 
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus: Nutrition pendant la grossesse" %}}
@@ -84,6 +91,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si obésité, *[Eades 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Deruelle P. et al. Consensus formalisé d'experts du Collège national des gynécologues et obstétriciens français : prise en charge des nausées et vomissements gravidiques et de l'hyperémèse gravidique. Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2023%252FCFE-Nausees-et-vomissements-gravidiques-2022.pdf)
 - [Louvet et al; SFD. Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022.pdf)
 
 {{%/sources%}}

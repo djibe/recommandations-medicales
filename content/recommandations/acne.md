@@ -1,11 +1,11 @@
 +++
 title = "Acné"
 prefix = "l'"
-description = "Recommandations pour la prise en charge de l'acné. Traitement des formes minimes à sévères, inflammatoires ou rétentionnelles. Rétinoïdes, doxycycline"
+description = "Recommandations pour la prise en charge de l'acné. Traitement des acné inflammatoires ou rétentionnelles par rétinoïdes, doxycycline, peroxyde de benzoyle"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-27T21:48:41+02:00"
 publishdate = "2020-07-27"
-lastmod = "2022-06-07"
+lastmod = "2023-01-02"
 specialites = ["dermatologie"]
 annees = "2015"
 sources = ["SFDermato", "HAS"]
@@ -15,28 +15,28 @@ sctid = "11381005"
 image = true
 imageSrc = "Photo d'acné par profeticsbeta sur Foter.com / CC BY-NC-SA"
 flowchart = true
-todo = "SEO, flowchart, outil, A LIRE + PRESCRIRE"
+todo = "outil, A LIRE + PRESCRIRE"
 +++
 
 {{%article-summary%}}
 
-- Mesures d'hygiène
-- Rétinoïdes tératogènes
-- Topiques
-  - Rétentionnelle: adapalène 0,1% crème x 1/j 3 mois
-  - Inflammatoire: peroxyde de benzoyle 5% 1/j 4-6 sem puis 2-3/semaine  
-    Étendue: doxycycline 100 mg/j max 3 mois
-- Forme sévère: avis dermatologique (voir *Forme sévère*)
-- Acné par contraception: LNG > norgestimate > autre voire Triafemi
+- Mesures d'hygiène pour toutes les peaux acnéiques
+- Tous les rétinoïdes sont tératogènes
+- Prise en charge de l'acné par les traitements topiques
+  - Acné rétentionnelle: adapalène 0,1% crème x 1/j pendant 3 mois
+  - Acné inflammatoire: peroxyde de benzoyle 5% x 1/j pendant 4-6 semaines puis 2-3/semaine  
+    Étendue: + doxycycline 100 mg/j max 3 mois
+- Acné sévère: avis dermatologique (voir *Acné sévère*)
+- Acné par contraception hormonale: lévonorgestrel seul > Norgestimate > autre voire Triafemi ([Fiche contraception]({{< relref "contraception.md" >}}))
+- Acné pendant la grossesse: Peroxyde de benzoyle 5% gel 1 à 2 applications par jour sur peau propre
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-Acné
-: *Nom féminin*
+Une acné
 : Dermatose chronique évoluant par poussées avec atteinte quasi ubiquitaire des adolescents (+70%), garçons surtout. L'atteinte prédomine au niveau des **visage, dos, cou et thorax antérieur**.
-: Retentissement psychosocial et altération de la **qualité de vie**.
-: **Le traitement est suspensif. Un traitement d'entretien est utilisé aussi longtemps que nécessaire.** Un délai de quelques semaines est nécessaire avant de voir les améliorations.
+: L'acné a un retentissement psychosocial avec une altération de la **qualité de vie**.
+: **Le traitement de l'acné est suspensif. Un traitement d'entretien est utilisé aussi longtemps que nécessaire** avec un délai d'efficacité de quelques semaines.
 
 ### Formes graves d'acné
 
@@ -47,6 +47,24 @@ Acné nodulaire ou acné conglobata
 Acné fulminante
 : Acné nodulaire aiguë, fébrile et ulcéreuse. Exceptionnelle.
 : Début brutal avec AEG, fièvre élevée, arthralgies, hyperleucocytose et très nombreux nodules inflammatoires.
+
+### Diagnostic différentiel d'une acné
+
+[Rosacée papulo-pustuleuse]({{< relref "rosacee.md" >}})
+: Flushs du visage, conjonctivite, télangiectasies, symétrie des lésions et absence de comédons.
+
+Dermatite péri-orale ou folliculite infectieuse
+: Absence de comédons.
+
+Folliculite médicamenteuse
+: Début brutal, papulo-pustules sans comédons et régression à l'arrêt du traitement (androgènes, progestatifs, corticoïdes, antiépileptiques ...).
+
+[Syphilis]({{< relref "syphilis.md" >}})
+: Évoquer en âge atypique, notion de chancre.
+
+Sarcoïdose
+: TODO:
+{.dl-inline}
 
 ### Formes particulières d'acné
 
@@ -83,37 +101,16 @@ Nodule
 
 Ces lésions risquent de laisser des cicatrices cutanées atrophiques définitives, des cicatrices hypertrophiques ou des macules érythémateuses le plus souvent transitoires et/ou pigmentées.
 
-[SFDermato. Photos des lésions élémentaires](https://reco.sfdermato.org/fr/recommandations-acn%C3%A9/l%C3%A9sions-%C3%A9l%C3%A9mentaires)
+{{< card-link-external title="Photos des lésions élémentaires de l'acné" url="https://reco.sfdermato.org/fr/recommandations-acn%C3%A9/l%C3%A9sions-%C3%A9l%C3%A9mentaires" subtitle="par la SFDermato">}}
 
 {{%info%}}
 
-### Signes évoquant une endocrinopathie
+### Signes évoquant une maladie endocrinienne
 
-Signes d'hyperandrogénie:
+Rechercher des signes d'hyperandrogénie pour éliminer une acné secondaire:
 
 {{< clinique/hyperandrogenie >}}
 {{%/info%}}
-
-{{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-Diagnostic différentiel d'une acné:
-
-[Rosacée papulo-pustuleuse]({{< relref "rosacee.md" >}})
-: Flushs du visage, conjonctivite, télangiectasies, symétrie des lésions et absence de comédons.
-
-Dermatite péri-orale ou folliculite infectieuse
-: Absence de comédons.
-
-Folliculite médicamenteuse
-: Début brutal, papulo-pustules sans comédons et régression à l'arrêt du traitement (androgènes, progestatifs, corticoïdes, antiépileptiques ...).
-
-[Syphilis]({{< relref "syphilis.md" >}})
-: Évoquer en âge atypique, notion de chancre.
-
-Sarcoïdose
-: 
-{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'acné" %}}
@@ -153,11 +150,14 @@ Tous les rétinoïdes sont tératogènes, même en gel ou crème
 {{% /collapse %}}
 {{%collapse "Traitement de l'acné minime à modérée" %}}
 
+Seuls traitements autorisés pendant la grossesse: peroxyde de benzoyle, antibiotiques topiques (clindamycine, érythromycine, acide azélaïque) (*[Le CRAT](http://lecrat.fr/spip.php?page=article&id_article=1113)*)
+{.alert .alert-warning}
+
 ### Acné à prédominance rétentionnelle
 
 #### Rétinoïdes topiques
 
-Pour les mesures d'hygiène, voir la section *Traitements*.
+Pour les mesures d'hygiène, voir la section *Traitement de l'acné*.
 
 {{%info%}}
 Exemple de prescription
@@ -215,30 +215,30 @@ Autre traitement possible mais de faible efficacité: acide azélaïque gel 15% 
 
 #### Acné inflammatoire étendue et/ou d'évolution prolongée
 
-doxycycline po (Vibramycine N®, gén) 100 mg x 1/j pendant le repas. Max 3 mois (photoprotection et contraception efficace)
+Doxycycline orale (Vibramycine N®, gén) 100 mg x 1/j pendant le repas. Max 3 mois (photoprotection et contraception efficace)
 {.alert .alert-info}
 
 OU lymécycline 300 mg x 1/j  
-Effets indésirables: troubles digestifs, photosensibilité, réactions cutanées, HTIC, tératogène
+**Effets indésirables:** troubles digestifs, photosensibilité, réactions cutanées, HTIC, tératogène
 
-L'érythromycine par voie orale (1g/j) est réservée à des situations exceptionnelles.
+L'érythromycine par voie orale (1 g/j) est réservée à des situations exceptionnelles.
 
 Ne pas utiliser la minocycline (Mynocine®, gén) du fait d'effets indésirables graves.
 
 Antibiothérapie à utiliser en association avec:
 
-- peroxyde de benzoyle si lésions inflammatoires
-- rétinoïde local si lésions rétentionnelles, adapalène aussi actif sur lésions inflammatoires
-- ou l'association des 2
+- Peroxyde de benzoyle si lésions inflammatoires
+- Rétinoïde local si lésions rétentionnelles, adapalène aussi actif sur lésions inflammatoires
+- Ou l'association des 2
 
 L'association d'antibiothérapie locale et générale n'est pas recommandée
 {.alert .alert-warning}
 
 ### Acné et contraception hormonale
 
-Acné habituelle avec COP de 2<sup>e</sup> génération.
+Acné habituelle avec COP de 2<sup>e</sup> génération (voir la [fiche contraception]({{< relref "contraception.md" >}})).
 
-Proposer:
+Proposer un changement de contraception:
 
 - Lévonorgestrel
 - Puis norgestimate
@@ -248,7 +248,7 @@ Proposer:
 > *CNGOF 2018*
 
 {{% /collapse %}}
-{{% collapse "Forme sévère et règles de prescription de l'isotrétinoïne" %}}
+{{% collapse "Acné sévère et surveillance de l'isotrétinoïne" %}}
 
 La prescription de l'isotrétinoïne est réservée au dermatologue et permet d'obtenir la guérison dans 50% des cas.  
 Une cure de traitement dure habituellement **4 à 6 mois**.  
