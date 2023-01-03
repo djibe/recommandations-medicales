@@ -108,10 +108,12 @@ En cas de vomissements non compliqués: échographie obstétricale seule pour é
 ### Traitement des vomissements pendant la grossesse
 
 - Arrêter les vitamines et la supplémentation en fer, sauf la vitamine B9
+- Adapter le mode de vie selon les préférences personnelles
+- Symptômes légers ({{< modal-btn modal-puqe >}}Score PUQE < 6{{< /modal-btn >}})  
+  Essai possible: gingembre, ~~vitamine B6 (pyridoxine)~~, acupression, acupuncture, électrostimulation même si leur efficacité n'est pas prouvée.
+- Ne pas utiliser: aromathérapie
 - Aggravation des symptômes sous traitement: bilan complémentaire  
   NFS, CRP, ASAT, ALAT, lipasémie, TSH, T4L, échographie abdominale.
-
-{{< modal-btn modal-puqe >}}Score PUQE < 6{{< /modal-btn >}}: essayer gingembre, vitamine B6 (pyridoxine), acupuncture, électrostimulation même si leur efficacité n'est pas prouvée.
 
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus: Poids pendant la grossesse" %}}
