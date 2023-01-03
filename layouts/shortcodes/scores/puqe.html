@@ -1,0 +1,83 @@
+<div class="my-4" id="score-puqe">
+  <h3 class="card-title">Score <abbr title="Pregnancy Unique Quantification of Emesis and nausea" lang="en">PUQE</abbr>
+    modifié</h3>
+  <h4 class="card-subtitle" lang="en">Score Pregnancy Unique Quantification of Emesis and nausea</h4>
+  <p>Choisir la réponse qui correspond le mieux à votre situation depuis le début de la grossesse.</p>
+  <fieldset class="mt-4">
+    <legend>1. En moyenne durant une journée, combien de temps vous sentez-vous nauséeuse ou avez-vous "mal au cœur"&nbsp;?</legend>
+    <input type="radio" id="puqe-11" name="radio-puqe-1" class="d-input-none" value="1" required>
+    <label for="puqe-11" class="chip chip-action chip-sm chip-choice">Pas du tout</label>
+    <input type="radio" id="puqe-12" name="radio-puqe-1" class="d-input-none" value="2">
+    <label for="puqe-12" class="chip chip-action chip-sm chip-choice">&lt; 1h</label>
+    <input type="radio" id="puqe-13" name="radio-puqe-1" class="d-input-none" value="3">
+    <label for="puqe-13" class="chip chip-action chip-sm chip-choice">2-3 h</label>
+    <input type="radio" id="puqe-14" name="radio-puqe-1" class="d-input-none" value="4">
+    <label for="puqe-14" class="chip chip-action chip-sm chip-choice">4-6 h</label>
+    <input type="radio" id="puqe-15" name="radio-puqe-1" class="d-input-none" value="5">
+    <label for="puqe-15" class="chip chip-action chip-sm chip-choice">+6 h</label>
+  </fieldset>
+  <fieldset>
+    <legend>2. En moyenne durant une journée, combien de fois vomissez-vous&nbsp;?</legend>
+    <input type="radio" id="puqe-21" name="radio-puqe-2" class="d-input-none" value="1" required>
+    <label for="puqe-21" class="chip chip-action chip-sm chip-choice">Pas du tout</label>
+    <input type="radio" id="puqe-22" name="radio-puqe-2" class="d-input-none" value="2">
+    <label for="puqe-22" class="chip chip-action chip-sm chip-choice">1-2 fois</label>
+    <input type="radio" id="puqe-23" name="radio-puqe-2" class="d-input-none" value="3">
+    <label for="puqe-23" class="chip chip-action chip-sm chip-choice">3-4 fois</label>
+    <input type="radio" id="puqe-24" name="radio-puqe-2" class="d-input-none" value="4">
+    <label for="puqe-24" class="chip chip-action chip-sm chip-choice">5-6 fois</label>
+    <input type="radio" id="puqe-25" name="radio-puqe-2" class="d-input-none" value="5">
+    <label for="puqe-25" class="chip chip-action chip-sm chip-choice">+6 fois</label>
+  </fieldset>
+  <fieldset>
+    <legend>3. En moyenne durant une journée, combien de fois avez-vous eu des haut-le-cœur ou des
+      renvois sans véritable vomissement&nbsp;?</legend>
+    <input type="radio" id="puqe-31" name="radio-puqe-3" class="d-input-none" value="1" required>
+    <label for="puqe-31" class="chip chip-action chip-sm chip-choice">Pas du tout</label>
+    <input type="radio" id="puqe-32" name="radio-puqe-3" class="d-input-none" value="2">
+    <label for="puqe-32" class="chip chip-action chip-sm chip-choice">1-2 fois</label>
+    <input type="radio" id="puqe-33" name="radio-puqe-3" class="d-input-none" value="3">
+    <label for="puqe-33" class="chip chip-action chip-sm chip-choice">3-4 fois</label>
+    <input type="radio" id="puqe-34" name="radio-puqe-3" class="d-input-none" value="4">
+    <label for="puqe-34" class="chip chip-action chip-sm chip-choice">5-6 fois</label>
+    <input type="radio" id="puqe-35" name="radio-puqe-3" class="d-input-none" value="5">
+    <label for="puqe-35" class="chip chip-action chip-sm chip-choice">+6 fois</label>
+  </fieldset>
+  <div class="alert bg-light d-flex mt-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline score-output-title">PUQE</p>
+      <output class="score-output" id="puqeScore">0</output>
+    </div>
+    <p id="puqeText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  </div>
+</div>
+<blockquote lang="en">
+  <p>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/12011891/" rel="external nofollow noopener">
+      Koren G. et al. Motherisk-PUQE (pregnancy-unique quantification of emesis and nausea) scoring system for nausea and vomiting of pregnancy. Am J Obstet Gynecol. 2002;186(5 Suppl Understanding):S228-S231. doi:10.1067/mob.2002.123054</a>
+      et
+    <a href="https://pubmed.ncbi.nlm.nih.gov/18166311/" rel="external nofollow noopener">
+      Lacasse A. et al. Validity of a modified Pregnancy-Unique Quantification of Emesis and Nausea (PUQE) scoring index to assess severity of nausea and vomiting of pregnancy. Am J Obstet Gynecol. 2008;198(1):71.e1-71.e717. doi:10.1016/j.ajog.2007.05.051</a>
+  </p>
+</blockquote>
+{{ $script := `
+  // Score PUQE modifié by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scorePuqe = document.getElementById('puqeScore')
+    const textPuqe = document.getElementById('puqeText');
+    [...document.querySelectorAll('#score-puqe input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcPuqe() ) })
+    const calcPuqe = () => {
+      let score = 0
+      const elemsChecked = document.querySelectorAll('#score-puqe input[type=\"radio\"]:checked')
+      elemsChecked.forEach(elemChecked => {
+        score += parseInt(elemChecked.value, 10)
+        if (elemsChecked.length >= 3) {
+          scorePuqe.innerHTML = score
+          if (score <= 6) { textPuqe.innerHTML = 'Vomissements légers' }
+          else if (score >= 7 && score <= 12) { textPuqe.innerHTML = 'Vomissements modérés<br>= hyperémèse gravidique' }
+          else if (score >= 13) { textPuqe.innerHTML = 'Vomissements sévères<br>Hospitalisation indiquée' }
+        }
+      })
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>

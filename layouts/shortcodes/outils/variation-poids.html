@@ -1,0 +1,26 @@
+<div class="card-body rounded-lg border mb-5 mw-480">
+  <div class="d-block d-lg-flex form-variation-poids">
+    <div class="floating-label textfield-box form-ripple mr-3">
+      <label for="poids-initial">Poids initial (kg)</label>
+      <input class="form-control" id="poids-initial" type="number" min="3" max="200" step="0.1">
+    </div>
+    <div class="floating-label textfield-box form-ripple mr-3">
+      <label for="poids-actuel">Poids actuel (kg)</label>
+      <input class="form-control" id="poids-actuel" type="number" min="3" max="200" step="0.1">
+    </div>
+    <div>
+      <label for="variation">Variation</label>
+      <input class="form-control" id="variation" type="text" placeholder="Préciser les poids" readonly>
+    </div>
+  </div>
+</div>
+{{ $script := `
+  // Outil de calcul de la variation de poids by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const initial = document.getElementById('poids-initial')
+    const final = document.getElementById('poids-actuel')
+    const variation = document.getElementById('variation');
+    [initial, final].forEach(elem => elem.addEventListener('input', () => { calc() }))
+    const calc = () => { if (initial.value > 0 && final.value > 0) { variation.value = parseInt((final.value - initial.value) / initial.value * 100) + ' %' }}
+  })` }}
+<script>{{ $script | safeJS }}</script>

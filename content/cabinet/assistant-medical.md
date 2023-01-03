@@ -1,5 +1,5 @@
 +++
-title = "L'Assistant médical du généraliste"
+title = "L'Assistant médical du médecin généraliste"
 description = "Synthèse des aides financières et des conditions au financement d'un Assistant médical pour le médecin généraliste"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-11-15T16:02:00+02:00"

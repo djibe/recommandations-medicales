@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-11-12"
+lastmod = "2023-01-03"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["EASD", "ADA", "SFD", "ESC", "HAS"]
@@ -90,7 +90,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 - Surpoids  
   Perte de poids (5-10%) ou chirurgie bariatrique.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Dépister des {{< modal-btn modal-saos-diabete >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et dysfonction érectile (50%)
+- Dépister des {{< modal-btn modal-saos-diabete >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et une dysfonction érectile {{%class%}}(50%){{%/class%}}
 - ALD 8 et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
 
 > Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75% (*ESC 2019 diabetes*)
@@ -99,15 +99,15 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 {{% /collapse %}}
 {{%collapse "Escalade thérapeutique" %}}
 
-*Version préliminaire d'après SFD 2021*
+### Aide au choix du traitement antidiabétique d'après SFD 2021
 
 - Cliquer sur la classe thérapeutique pour afficher plus d'informations sur la prise en charge
 - Les classes thérapeutiques de préférence sont entourées ou signalées avec un indicateur bleu
 - **Objectif 0 hypoglycémie !**
 - Pour la grossesse, objectifs identiques au [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
 
-<form class="border p-4 my-4">
-  <fieldset class="m-0">
+<div class="border rounded-lg p-4 my-4">
+  <div class="m-0">
     <legend>Comorbidités</legend>
     <input type="radio" name="assistant" id="standard" class="d-input-none" checked>
     <label for="standard" class="chip chip-action chip-choice">Sans</label>
@@ -119,19 +119,23 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
     <label for="mrc" class="chip chip-action chip-choice" data-toggle="tooltip" title="Maladie rénale chronique">MRC</label>
     <input type="radio" name="assistant" id="ic" class="d-input-none">
     <label for="ic" class="chip chip-action chip-choice" data-toggle="tooltip" title="Insuffisance cardiaque">Insuf. cardiaque</label>
-  </fieldset>
-</form>
+    <input type="radio" name="assistant" id="age" class="d-input-none">
+    <label for="age" class="chip chip-action chip-choice">Sujet âgé</label>
+  </div>
+</div>
 <h3 class="typography-overline">Toujours</h3>
 <p>Changement des habitudes alimentaires, lutte contre la sédentarité et activité physique adaptée.<br>Réévaluation à 3-6 mois.</p>
 <h3 class="typography-overline">1<sup>re</sup> intention</h3>
+<p class="font-weight-bold choix-age">Éviter un régime restrictif + Évaluation gériatrique</p>
 <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-metformine">Metformine</button>
-<button class="chip chip-action flex-grow-1 choix-mrc" type="button" data-toggle="modal" data-target="#modal-isglt2">+ iSGLT2</button>
+<button class="chip chip-action flex-grow-1 choix-mrc choix-ic" type="button" data-toggle="modal" data-target="#modal-isglt2">+ iSGLT2</button>
+<p class="my-2 choix-ic">Suspendre la metformine en cas de décompensation</p>
 <p class="font-weight-bold my-2">La metformine doit être maintenue au long cours.</p>
 <!-- 2e intention -->
-<h3 class="typography-overline mt-3">Bithérapie <span class="choix-standard choix-obese">- Ajouter au choix</span></h3>
+<h3 class="typography-overline mt-4">Bithérapie <span class="choix-standard choix-obese">- Ajouter au choix</span></h3>
 <p class="mt-4 text-black-secondary">Possibilité de proposer d'emblée une bithérapie si déséquilibre initial important (HbA<sub>1c</sub> &gt; 9%)</p>
 <div class="mb-2 choix-standard">
-  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-idpp4">iDDP4</button>
+  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button>
   <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
   <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1ra">GLP-1</button>
   <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-su">SU</button>
@@ -152,8 +156,9 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
   <p>Si insuffisants: avis endocrinologique</p>
 </div>
 <div class="mb-2 choix-ic">
-  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
-  <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-glp1ra">GLP-1</button>
+  <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1ra">GLP-1</button>
+  <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button>
+  <button class="chip" type="button">IAG</button>
   <h3 class="text-primary typography-overline mt-3">Troisième ligne</h3>
   <p>Si insuffisants: avis endocrinologique</p>
 </div>
@@ -164,9 +169,18 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
   <p>En maintenant l'iSGLT2 ou le GLP-1.<br>
   Suivi spécialisé systématique.</p>
 </div>
+<div class="mb-2 choix-age">
+  <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button>
+</div>
 <!-- 3e intention -->
+<div class="mb-2 choix-age">
+  <p class="text-primary typography-overline mt-4">Trithérapie au choix</p>
+  <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-insuline">Insuline</button>
+  <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-su">SU</button>
+  <button class="chip" type="button">Glinide</button>
+</div>
 <div class="mb-2 choix-standard">
-<h3 class="text-primary typography-overline mt-3">Trithérapie - Selon les traitements essayés</h3>
+<p class="text-primary typography-overline mt-4">Trithérapie - Selon les traitements essayés</p>
 <div class="accordion mb-5" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" role="button">

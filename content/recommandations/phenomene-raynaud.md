@@ -240,4 +240,8 @@ style susp stroke:#4150f5, stroke-width:1px
 - [Pistorius M-A., Carpentier P-H, le groupe de travail « Microcirculation » de la Société française de médecine vasculaire, Bilan étiologique minimal du phénomène de Raynaud : un consensus d'experts, Volume 4048, Issue 8, 08/2013, Pages 497-586, ISSN 0151-9638.](https://doi.org/10.1016/j.annder.2015.04.001)
 - [COFER. Phénomène de Raynaud. Item 327. 2011. (PDF)](http://campus.cerimes.fr/rhumatologie/enseignement/rhumato40/site/html/cours.pdf)
 
+### À lire
+
+[Les Clés Du Diagnostic. Acrosyndrome vasculaire.](https://clesdudiagnostic.fr/wp-content/uploads/2022/11/Cles-du-Diagnostic-Acrosyndrome-1.pdf)
+
 {{%/sources%}}

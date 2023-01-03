@@ -92,59 +92,32 @@ SFNCM
 
 ### Perte de poids
 
-<div class="card-body border mb-5 mw-480">
-<form class="d-block d-lg-flex form-variation-poids">
-  <div class="form-ripple mr-3">
-    <label for="poids-initial">Poids initial (kg)</label>
-    <input class="form-control" id="poids-initial" type="number" min="3" max="200">
-  </div>
-  <div class="form-ripple mr-3">
-    <label for="poids-actuel">Poids actuel (kg)</label>
-    <input class="form-control" id="poids-actuel" type="number" min="3" max="200">
-  </div>
-  <div>
-    <label for="variation">Variation</label>
-    <input class="form-control" id="variation" type="text" placeholder="Préciser les poids" readonly>
-  </div>
-</form>
-</div>
-<script>
-  // Outil de calcul de la variation de poids
-  document.addEventListener( 'DOMContentLoaded', event => {
-    const initial = document.getElementById('poids-initial')
-    const final = document.getElementById('poids-actuel')
-    const variation = document.getElementById('variation');
-    [initial, final].forEach(elem => elem.addEventListener('input', () => { calc() }))
-    const calc = () => { if (initial.value > 0 && final.value > 0) { variation.value = parseInt((final.value - initial.value) / initial.value * 100) + ' %' }}
-  })
-</script>
+{{< outils/variation-poids >}}
 
 ### Estimation de la taille selon Chumlea
 
 Après 60 ans, lorsque la taille n'est pas mesurable par une toise (alitement, troubles de la statique dorsale), on l'estime par la *formule de Chumlea* (extrapolation à partir de la distance talon-genou).
 
-<div class="card-body border mb-5" style="max-width: 280px">
-<form>
+<div class="card-body rounded-lg border mb-5" style="max-width: 280px">
   <div class="form-group">
     <input type="radio" id="chumlea-1" name="chumlea-radio" class="d-input-none" value="f" required checked>
     <label for="chumlea-1" class="chip chip-action chip-choice">Femme</label>
     <input type="radio" id="chumlea-1bis" name="chumlea-radio" class="d-input-none" value="h">
     <label for="chumlea-1bis" class="chip chip-action chip-choice">Homme</label>
   </div>
-  <div class="form-group form-ripple">
+  <div class="form-group floating-label textfield-box form-ripple">
     <label for="chumlea-age">Âge (ans)</label>
     <input class="form-control" id="chumlea-age" type="number" min="60" max="120">
   </div>
-  <div class="form-group form-ripple">
+  <div class="form-group floating-label textfield-box form-ripple">
     <label for="chumlea-jambe">Taille de la jambe (cm)</label>
     <input class="form-control" id="chumlea-jambe" type="number" min="20" max="80">
-    <small class="form-text">Distance talon-genou (précisions plus bas)</small>
+    <small class="form-text">Distance talon-genou</small>
   </div>
   <div class="form-group">
     <label for="chumlea-calc">Taille estimée (cm)</label>
     <input class="form-control" id="chumlea-calc" type="text" placeholder="Compléter les mesures" readonly>
   </div>
-</form>
 </div>
 <script>
   window.onload = () => {
