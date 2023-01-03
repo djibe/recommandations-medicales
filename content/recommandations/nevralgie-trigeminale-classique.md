@@ -7,10 +7,10 @@ synonyms = ["Névralgie du trijumeau"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-03-05T23:43:00+02:00
 publishdate = "2021-03-21"
-lastmod = "2022-11-07"
+lastmod = "2023-01-03"
 specialites = ["neurologie"]
-annees = "2018"
-sources = ["SFEMC", "SFNC"]
+annees = "2019"
+sources = ["EAN", "SFEMC", "SFNC"]
 tags = ["cephalees", "neuropathie"]
 anglais = ["Trigeminal neuralgia"]
 sctid = "31681005"
@@ -18,7 +18,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "Illustration de la névralgie du trijumeau par BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "SEO dont 'névralgie trijumeau', durée avant envisager décroissance, attente A. Donnet"
+todo = "durée avant envisager décroissance, attente A. Donnet"
 +++
 
 {{%article-summary%}}
@@ -34,7 +34,7 @@ todo = "SEO dont 'névralgie trijumeau', durée avant envisager décroissance, a
 
 Névralgie trigéminale classique (NTC)
 : *Ex* **névralgie du trijumeau**.  
-Maladie rare atteignant le nerf trijumeau qui évolue par poussées douloureuses chez des sujets d'âge moyen (60 ans) avec 2/3 de femmes. Les douleurs sont à l'origine d'une dégradation de la qualité de vie.
+Neuropathie crânienne douloureuse rare atteignant le nerf trijumeau qui évolue par poussées douloureuses chez des sujets d'âge moyen (60 ans) avec 2/3 de femmes. Les douleurs sont à l'origine d'une dégradation de la qualité de vie.
 : Un conflit vasculo-nerveux est le facteur causal majeur de la NTC, situé au niveau de la citerne pré-pontique entre une méga-dolicho-artère (artère cérébelleuse antéro-supérieure ++) et la portion centrale de la racine à l'origine de démyélinisation.  
 Ce conflit est aggravé par l'[hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}).
 : Les poussées durent 49 jours (médiane). 1/3 des patients n'a pas de récidive et des périodes de rémissions variables sont fréquentes.
@@ -51,6 +51,9 @@ Nerf trijumeau
 - 1/3 des patients n'a pas de récidives
 
 ### Abréviations
+
+EAN
+: {{%lang%}}European Academy of Neurology{{%/lang%}}
 
 ICHD-3
 : {{%lang%}}International Classification of Headache Disorders 3rd edition{{%/lang%}}
@@ -113,7 +116,7 @@ La présence d'une de ces drapeaux rouges impose une consultation neurologique u
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-La durée médiane des poussées est de 50 jours.  
+La durée médiane des poussées douloureuses est de 50 jours.  
 Des rémissions spontanées sont possibles.
 
 5 éléments diagnostiques majeurs:
@@ -214,12 +217,14 @@ Avec **séquences spécifiques**.
 
 Prise en charge par un traitement médicamenteux de fond de première intention: **carbamazépine ou oxcarbazépine**.
 
-> Les antalgiques et AINS ne sont pas efficaces sur la névralgie du trijumeau
+Les antalgiques et AINS ne sont pas efficaces sur la névralgie du trijumeau
 {.alert .alert-warning}
+
+Hospitaliser en cas de poussée douloureuse non contrôlée.
 
 ### Carbamazépine
 
-Carbamazépine 100 mg matin, midi et LP 100 mg le soir 30 minutes avant le repas.  
+Carbamazépine 100 mg matin, midi et LP 100 mg le soir, 30 minutes avant le repas.  
 Augmentation par paliers de 100 mg matin et 100 mg LP soir tous les 2 à 5 jours.
 {.alert .alert-info}
 
@@ -257,7 +262,7 @@ Augmenter jusqu'à suppression de la douleur (max 1800 mg/j) puis obtention de l
 
 ### Autres traitements médicamenteux
 
-Lamotrigine, phénytoïne voire gabapentine, prégabaline, topiramate, baclofène relèvent exclusivement du neurologue.
+Lamotrigine, phénytoïne voire gabapentine, prégabaline, topiramate, baclofène, toxine botulique relèvent exclusivement du neurologue.
 
 ### Neurochirurgie
 
@@ -269,7 +274,7 @@ Indications pour une NTC certaine par thermocoagulation ou autre technique:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une névralgie du trijumeau" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de névralgie trigéminale classique. Dr JB Fron d'après Donnet 2018" >}}
+{{< mermaid title="Conduite à tenir devant une suspicion de névralgie trigéminale classique. Dr JB Fron d'après Donnet 2018 et Bendtsen 2019" >}}
 graph TB
   suspNtc["Suspicion de<br>névralgie trigéminale classique"] --> exclusion("<b>Signes d'alerte ?</b><hr>- Âge &lt; 40 ans<br>- Déficitaire<br>- Surdité/otologique<br>- Atteinte cutanée ou buccale<br>- Atteinte V1 isolée<br>- Névrite optique<br>- ATCD familial de SEP<br>- Carbamazépine inefficace")
   style suspNtc stroke:#4150f5, stroke-width:1px
@@ -288,12 +293,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Bendtsen L. et al. European Academy of Neurology guideline on trigeminal neuralgia. Eur J Neurol. 2019.](https://onlinelibrary.wiley.com/doi/full/10.1111/ene.13950)
 - [Donnet A. et al; SFEMC, SFNC. Recommandations pour le diagnostic et la prise en charge de la névralgie trigéminale classique. Neurochirurgie. 2018.](https://www.sciencedirect.com/science/article/pii/S0028377018300456)
 - [Hartemann A. et al; SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)
-
-### À lire
-
-- [Bendtsen L. et al. European Academy of Neurology guideline on trigeminal neuralgia. Eur J Neurol. 2019.](https://onlinelibrary.wiley.com/doi/full/10.1111/ene.13950)
 - [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/migraine-nevralgie-du-trijumeau-algies-face)
 
 {{%/sources%}}

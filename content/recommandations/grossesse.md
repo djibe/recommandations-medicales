@@ -45,7 +45,10 @@ Contrôler la sécurité d'utilisation d'un médicament pendant la grossesse ou 
 {{% /collapse %}}
 {{%collapse "Vomissements pendant la grossesse" %}}
 
-> Prise en charge des Vomissements pendant la grossesse d'après les recommandations *CNGOF* 2022
+> Prise en charge des nausées et vomissements gravidiques d'après les recommandations *CNGOF 2022*
+
+Hyperémèse gravidique
+: 
 
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus: Nutrition pendant la grossesse" %}}
@@ -83,10 +86,6 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si obésité, *[Eades 
 ### Glucides et grossesse
 
 40-50% de l'AET
-
-{{% /collapse %}}
-{{%collapse "Prévention" %}}
-
 
 {{% /collapse %}}
 {{%sources%}}

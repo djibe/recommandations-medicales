@@ -31,7 +31,7 @@ todo = "PHOTOS, ttt balanite candidosique, ttt sycosis, Pytiriasis capitis, mugu
   - Herpès circiné: éconazole 1% crème x 2/j 14-21 jours
   - Onycomycose: prélèvement, pédicurie, traitement adapté amorolfine 5% x 1-2/semaine ou ciclopirox 8% 1/j pendant 3-6 mois, éconazole interdigital
   - Pityriasis versicolor: kétoconazole 2% gel unidose, récidives ++
-  - Teigne: prélèvement, terbinafine 250 mg x 1/j pendant 28 jours puis contrôle clinique et culture, mesures associées
+  - Teigne: prélèvement, terbinafine 250 mg x 1/j pendant 28 jours puis contrôle clinique et culture à J28, mesures associées
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
