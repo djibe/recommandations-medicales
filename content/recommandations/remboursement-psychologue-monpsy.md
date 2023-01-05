@@ -94,7 +94,9 @@ Scores: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal
 
 {{< youtube id="B5GpVmHKcSo" title="La santé mentale et la médecine générale (CMG)" >}}
 
-[MonPsy](https://monpsy.sante.gouv.fr/)
+{{< youtube id="sARvPRwl-hY" title="Psychologue et/ou Psychiatre: comment choisir? (Fréquence Médicale)" >}}
+
+{{< card-link-external title="MonPsy" url="https://monpsy.sante.gouv.fr" subtitle="Le site officiel">}}
 
 {{%/sources%}}
 {{% modal title="Évaluation d'un mésusage de l'alcool" id="modal-auditc"%}}

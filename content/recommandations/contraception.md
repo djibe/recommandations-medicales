@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2022-12-16"
+lastmod = "2023-01-05"
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -23,8 +23,7 @@ todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult 
 {{%article-summary%}}
 
 - Contraception gratuite avant 26 ans (consultation, pilule/stérilet, coter GS Exo 3 depuis le [1/1/22](https://www.service-public.fr/particuliers/actualites/A15158))
-- Seul le préservatif est efficace contre les [IST](/tags/ist/)  
-  Il sera disponible gratuitement en pharmacie pour les moins de 26 ans en 2023.
+- Seul le préservatif est efficace contre les [IST](/tags/ist/) (gratuit sans ordonnance en pharmacie pour les -26 ans)
 - [QuestionSexualité - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception) et [choisirsacontraception.fr](https://www.choisirsacontraception.fr/), [Annuaire des centres de santé sexuelle](https://ivg.gouv.fr/les-centres-de-sante-sexuelle.html)
 - Contraceptions très efficaces de première intention: COP, DIU, implant
 - Démarrer une contraception hormonale: débuter le *1er jour des règles*  
@@ -160,7 +159,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 > La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares (*CNGOF 2018*)
 {.alert .alert-info}
 
-{{< table title="Spécialités de contraception disponibles en France en 2022 (sauf dernières générations et DMPA qui augmentent le risque vasculaire). Dr JB Fron d'après BDPM" class="table-wrap" id="table-pilule" >}}
+{{< table title="Spécialités de contraception disponibles en France en 2023 (sauf dernières générations et DMPA qui augmentent le risque vasculaire). Dr JB Fron d'après BDPM" class="table-wrap" id="table-pilule" >}}
 | Type        | EE (µg)  | Progestatif (mg) | Spécialités     |
 |-------------|---------:|------------------|-----------------|
 | 2G          | 30/40    | LNG 0,15-0,2     | Adepal, Pacilia |
@@ -652,7 +651,7 @@ const chartOptions = {
 {{% /collapse %}}
 {{%sources%}}
 
-- [Service-public.fr. Les préservatifs seront gratuits en pharmacie pour les moins de 26 ans dès janvier 2023. 09/12/2022.](https://www.service-public.fr/particuliers/actualites/A16208?xtor=EPR-100)
+- [Ameli Medecin. Le point sur les préservatifs pris en charge sans prescription pour les moins de 26 ans. 03/01/2023.](https://www.ameli.fr/medecin/actualites/le-point-sur-les-preservatifs-pris-en-charge-sans-prescription-pour-les-moins-de-26-ans)
 - [HAS. Contraception : consultations initiale et de suivi. Mars 2020.](https://www.has-sante.fr/jcms/p_3122291/fr/contraception-consultations-initiale-et-de-suivi)
 - [HAS. Contraception : prescriptions et conseils aux femmes. Septembre 2019.](https://www.has-sante.fr/jcms/c_1752432/fr/contraception-prescriptions-et-conseils-aux-femmes)
 - [HAS. Contraception chez la femme à risque cardiovasculaire. Recommandation de bonne pratique. Septembre 2019.](https://www.has-sante.fr/jcms/c_1638478/fr/contraception-chez-la-femme-a-risque-cardiovasculaire)

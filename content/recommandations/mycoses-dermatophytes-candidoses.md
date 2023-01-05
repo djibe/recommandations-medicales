@@ -166,7 +166,7 @@ Les teignes faviques sont exceptionnelles en Europe par *Trichophyton schoenlein
 
 ### Prise en charge de la teigne
 
-> La prise en charge d'un enfant de moins de 10 kg est hospitalière
+La prise en charge d'un enfant de moins de 10 kg est hospitalière du fait de l'indisponibilité de la griséofulvine
 {.alert .alert-warning}
 
 - Prélèvement au laboratoire
@@ -367,13 +367,13 @@ Prise en charge des onychomycoses:
   1. Pédicure-podologue pour limage ou meulage initial
   2. Vernis unguéal [amorolfine 5%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68805138&typedoc=R) x 1-2/semaine ou [ciclopirox 8%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66640136&typedoc=R) x 1/j pendant 3 à 6 mois
   3. Éconazole des espaces interdigitoplantaires pour éviter une réinfection
-  4. Périonyxis important: fluconazole
-  5. Si échec: avulsion chimique par bifonazole 1% + urée 40% sous pansement occlusif pendant 1-3 semaines  
-    suivie de bifonazole seul pendant 4-8 semaines.
+  4. Périonyxis important: fluconazole (TODO:)
+  5. Si échec: avulsion chimique par bifonazole 1% + urée 40% (Amycor Onychoset®) sous pansement occlusif pendant 1-3 semaines  
+    et relais par bifonazole seul pendant 4-8 semaines.
 - Atteinte matricielle
   - Traitement ci-dessus en complément des mesures suivantes
   - Avulsion chimique comme ci-dessus selon Prescrire
-  - \+ Traitement général: terbinafine 1 cp/j pendant 3 mois (mains) ou 6 mois (pieds) avec surveillance biologique adaptée  
+  - \+ Traitement général: terbinafine 1 cp/j pendant 3 mois (onyxis des mains) ou 6 mois (onyxis des pieds) avec surveillance biologique adaptée (*Anofel*, 6 semaines à 3-6 mois selon les RCP)  
     Si mauvaise tolérance: itraconazole voire fluconazole sur avis spécialisé.
 
 {{% /collapse %}}
@@ -402,7 +402,7 @@ Chez un [patient vivant avec le VIH]({{< relref "vih-sida.md" >}}) (PVVIH), l'œ
 
 Antifongiques azolés (ou imidazolés) autorisés en France, utilisés en **2 applications par jour sauf mention contraire**:
 
-- Bifonazole (Amycor®) crème/poudre x 1/j
+- Bifonazole (Amycor®, + urée Amycor Onychoset® pommade) crème/poudre x 1/j
 - [Éconazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62098492&typedoc=R) crème/poudre/émuls/ovule/sol est le mieux évalué selon *Prescrire*
 - Fenticonazole crème/caps (+12 ans)
 - Isoconazole crème/émuls
@@ -439,7 +439,7 @@ Effets indésirables principaux: céphalées, nausées, douleurs abdominales, an
 
 #### Terbinafine
 
-La terbinafine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60108678&typedoc=R), [interactions](https://www.drugs.com/interaction/list/?drug_list=2161-0)) pour un traitement général est disponible en comprimés sécables avec une seule prise quotidienne pendant le repas. Nombreuses interactions.
+La terbinafine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60108678&typedoc=R), [interactions nombreuses](https://www.drugs.com/interaction/list/?drug_list=2161-0)) pour un traitement général est disponible en comprimés sécables avec une seule prise quotidienne pendant le repas.
 
 {{< table title="Posologies de la terbinafine selon le poids. Dr JB Fron d'après SFD et al 2021" >}}
 | Poids (kg) | Posologie (mg) |
@@ -448,6 +448,8 @@ La terbinafine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichag
 | 21-40      | 125            |
 | 10-20      | 62,5           |
 {{< /table >}}
+
+TODO: surveillance biologique
 
 #### Pour en savoir plus: Itraconazole
 

@@ -271,6 +271,8 @@ Mise en place en cours des [Centres experts de l'endométriose](https://www.endo
 
 {{< youtube id="Pq_oTiL4yYo" title="Péri-ménopause et endométriose (Dr Louis Marcellin)" >}}
 
+{{< youtube id="1T_rRXSR9tQ" title="Mise au point sur l'endométriose (Fréquence Médicale)" >}}
+
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'endométriose" "show" %}}
 

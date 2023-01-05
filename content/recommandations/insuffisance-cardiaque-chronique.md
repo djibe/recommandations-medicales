@@ -537,6 +537,8 @@ réalistes
 {{%/collapse%}}
 {{%sources%}}
 
+{{< youtube id="60VQUo3xqAw" title="Insuffisance cardiaque, encore un effort! (Fréquence Médicale)" >}}
+
 - [HAS. JARDIANCE (empagliflozine) - Insuffisance cardiaque chronique symptomatique. 16/09/2022.](https://www.has-sante.fr/jcms/p_3352200/fr/jardiance-empagliflozine-insuffisance-cardiaque-chronique-symptomatique)
 - {{< references/esc-cvd >}}
 - [McDonagh T et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) With the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. 2021.](https://doi.org/10.1093/eurheartj/ehab368)

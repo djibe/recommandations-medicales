@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. CORTET et Dr T. FUNCK-BRENTANO (SFR, GRIO)"
 date = "2020-09-04T17:43:41+02:00"
 publishdate = "2021-12-06"
-lastmod = "2022-10-03"
+lastmod = "2023-01-05"
 specialites = ["rhumatologie"]
 annees = "2019"
 sources = ["SFRhumato", "GRIO", "IOF", "HAS"]
@@ -116,8 +116,8 @@ L'ostéoporose est responsable d'un lourd fardeau médico-économique:
 - 177.000 hospitalisations de +50 ans (2013)  
   3/4 de femmes et 2/3 ont +70 ans.
 - 70.000 fractures vertébrales (2001)
-- 60.000 fractures de l'extrémité supérieure du fémur (ESF, 2001)  
-  +55 ans: 23,5% de mortalité (toutes causes confondues) dans l'année qui suit une FESF (*Drees 2016*)
+- 95.000 fractures de l'extrémité supérieure du fémur (FESF, 2009)  
+  +54 ans: 1/4 de mortalité dans l'année qui suit une FESF (*Drees 2016*)
 - 35.000 fractures du poignet (2001)
 - 2009 - 2016: 2x moins de traitements spécifiques de l'ostéoporose prescrits ! (*[Cortet 2022](https://doi.org/10.1016/j.bone.2021.116255)*)
 
@@ -227,7 +227,7 @@ Le calcul du FRAX est validé en France uniquement en cas de [ménopause]({{< re
 
 {{< iframe url="https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12" title="Calcul du FRAX® en France sur le site officiel">}}
 
-> Calcul du FRAX® sur le [site officiel](https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12) pour les Françaises.
+> Calcul du FRAX® sur le [site officiel du FRAX](https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12) pour les Françaises.
 
 ### Décision de traitement anti-ostéoporotique selon le calcul du FRAX
 
@@ -577,6 +577,7 @@ graph TB
 - [Souberbielle J-C et al. La supplémentation en vitamine D en France chez les patients ostéoporotiques ou à risque d'ostéoporose : données récentes et nouvelles pratiques. Revue du Rhumatisme. 2019. (PDF)](http://www.grio.org/documents/page246/la-supplementation-en-vitamine-d-grio-revrhum2019-2.pdf)
 - [Briot K et al. Actualisation 2018 des recommandations françaises du traitement de l'ostéoporose post-ménopausique. Revue du Rhumatisme. 2018.](https://doi.org/10.1016/j.rhum.2018.02.005)
 - [Dagan N et al. External validation and comparison of three prediction tools for risk of osteoporotic fractures using data from population based electronic health records: retrospective cohort study. BMJ. 2017.](https://doi.org/10.1136/bmj.i6755)
+- [Oberlin P, Mouquet MC. Quel risque de décès un an après une fracture du col du fémur ?. Drees. 2016.](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/quel-risque-de-deces-un-apres-une-fracture-du-col-du-femur)
 - [Shepherd J. et al. Executive Summary of the 2015 ISCD Position Development Conference on Advanced Measures From DXA and QCT: Fracture Prediction Beyond BMD. Journal of Clinical Densitometry. 2015.](https://doi.org/10.1016/j.jocd.2015.06.013)
 - [Briot K et al. Risque des femmes de même âge ayant fait une fracture. Revue du Rhumatisme. 2012. (PDF)](http://www.grio.org/documents/page500/boite-a-outils-osteoporose500-1401218558.pdf)
 - [World Health Organization. Assessment of fracture risk and its application to screening for postmenopausal osteoporosis : report of a WHO study group. World Health Organization. 1994.](https://apps.who.int/iris/handle/10665/39142)

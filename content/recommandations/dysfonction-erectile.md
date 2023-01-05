@@ -427,6 +427,8 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 {{%/collapse%}}
 {{%sources%}}
 
+{{< youtube id="J0OPuM9DA5s" title="Troubles de l'érection, ne plus se cacher (Fréquence Médicale)" >}}
+
 - [Allen MS. Physical activity as an adjunct treatment for erectile dysfunction. Nat Rev Urol. 2019.](https://www.ncbi.nlm.nih.gov/pubmed/31239541)
 - [Colson MH et al. Les traitements oraux de la dysfonction érectile aujourd'hui, pour quel patient ? Sexologies. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S1158136018300094)
 - [Colson MH et al. Démarche diagnostique et prise en charge du patient souffrant de dysfonction érectile, actualisation et consignes pratiques. Sexologies. 2018.](https://www.em-consulte.com/en/article/1198573)

@@ -87,7 +87,7 @@ Toutefois, toute personne peut commencer la collaboration sous réserve de passe
 {{% /collapse %}}
 {{%collapse "Retours d'expériences sur les Assistants médicaux" %}}
 
-{{< youtube id="0tso0DbkKE8" title="L'Assistant Médical ... Pourquoi et comment ? (Fréquence Médical)" >}}
+{{< youtube id="0tso0DbkKE8" title="L'Assistant Médical ... Pourquoi et comment ? (Fréquence Médicale)" >}}
 
 {{< youtube id="Y-MTX5_kOlo" title="Découverte du métier Assistant(e) Médical(e) (Assurance Maladie de la Seine-Saint-Denis)" >}}
 

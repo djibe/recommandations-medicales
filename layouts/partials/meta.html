@@ -104,7 +104,7 @@
       },
       "articleSection" : "{{ .Section | title }}",
       "name" : {{ .Title }},
-      "headline": {{ .Title | truncate 110 }},
+      "headline": {{ .Title }},
       "description" : {{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }},
       {{ if (not .Params.longHtml) }}"articleBody": {{ .Plain }},{{ end }}
       "inLanguage" : "{{ .Lang }}",

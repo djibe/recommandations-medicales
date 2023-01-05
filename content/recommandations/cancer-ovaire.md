@@ -15,7 +15,7 @@ anglais = ["Ovarian cancer"]
 sctid = "363443007"
 image = true
 imageSrc = "Scanner réalisé pour des douleurs abdominales chez une femme de 55 ans. Masse hétérogène droite sans contours nets située entre l'utérus antéversé et le caecum. Cas de Ralph Nelson, Radiopaedia.org, rID: 86567"
-todo = "adresse CLCC, Société française d’accompagnement et de soins palliatifs (SFAP), soins-palliatifs.org, 0811 020 300, cancer info 0805 123 124"
+todo = "adresse CLCC, Société française d'accompagnement et de soins palliatifs (SFAP), soins-palliatifs.org, 0811 020 300, cancer info 0805 123 124"
 +++
 
 {{%article-summary%}}

@@ -445,9 +445,11 @@ Traitements de préférence: Methyldopa, labétalol, ICa.
 Contre-indications aux IEC/ARA2 et inhibiteurs de la rénine.
 
 {{% /collapse %}}
-{{%collapse "FMC gratuite" %}}
+{{%collapse "FMC gratuites" %}}
 
 {{< card-link-external title="Blood pressure monitoring" url="https://stridebp.dayonetech.uk/login.aspx" subtitle="Par les ESH et ISH">}}
+
+{{< youtube id="szPRUb6vh98" title="Mieux dépister et contrôler la pression artérielle (Fréquence Médicale)" >}}
 
 {{% /collapse %}}
 {{%sources%}}
