@@ -120,7 +120,7 @@ Aucune étude n'a prouvé l'efficacité d'HE de lavande, qui est perturbateur en
 - [JEGOU-PENOUIL MH; dermato-info. Les poux. 02/12/2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/les-poux)
 - [Chosidow O.; SFDermato. Prise en charge de la pédiculose du cuir chevelu en 2019en France. Mise au point. Novembre 2019. (PDF)](https://www.sfdermato.org/media/pdf/actualite/note-pediculos-sfd-gridist-51283d08cd07c9ac26310a6d2669ff30.pdf)
 - Prescrire Redaction. Pédiculose du cuir chevelu - Premiers Choix Prescrire, actualisation mai 2019. Rev Prescrire 2019.
-- [CEDEF. Ectoparasitoses cutanées : gale et pédiculose. Item 167 - UE 6. 2017.](https://undf.cedef.org/fr/document/Ectoparasitoses-cutan%C3%A9es_gale-et-p%C3%A9diculose)
+- [Collège des enseignants de dermatologie de France (CEDEF). Ectoparasitoses cutanées : gale et pédiculose. Item 167 UE 6. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/15-Item-167-UE6-Ectoparasitoses-cutanees-gale-et-pediculose.pdf)
 - [Conseil Supérieur d'Hygiène Publique de France. Avis relatif à la conduite à tenir devant un sujet atteint de pédiculose du cuir chevelu. 27/06/2003. (PDF)](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=a_mt_270603_pediculose.pdf)
 
 ### À lire

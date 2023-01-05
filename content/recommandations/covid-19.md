@@ -26,7 +26,7 @@ todo = "https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1246, https://
 Page servant uniquement à stocker quelques mémos
 
 - Recours à l'antiviral Paxlovid +++, voir *Antiviraux*
-- [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire) et [règles d'isolement du 3/1](https://www.ameli.fr/medecin/actualites/covid-19-les-regles-d-isolement-evoluent)
+- [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire)
 - Rappel vaccinal bivalent à 3 mois (max 4, et 12-17 ans fragiles), décalé à 4 mois (min 2, 6 avant le 15/2/22) si infection Covid (*HAS 24/12, 25/11 et 19/11*)  
   [Mon Rappel vaccin Covid](https://monrappelvaccincovid.ameli.fr/)
 - 3<sup>e</sup> rappel si +80 ans ou immunodéprimé à M3 et professionnel du médico-social / 60-79 ans / grossesse / 18-59 ans à risque / entourage de fragile à M6  
@@ -125,7 +125,7 @@ Possibilité de préciser une **dispensation conditionnelle** en cas de test Cov
 - [Centres de vaccination](https://www.sante.fr/cf/centres-vaccination-covid.html)
 - [Trouver une dose d'ARNm](https://vitemadose.covidtracker.fr/)
 - [Imprimer son attestation de vaccination](https://attestation-vaccin.ameli.fr/)
-- [Demander la conversion d'un certificat de vaccination étranger en passe sanitaire français](https://www.sante.fr/obtenir-un-passe-sanitaire-en-cas-de-vaccination-letranger)
+- [Obtenir une attestation en cas de vaccination à l’étranger](https://www.sante.fr/obtenir-une-attestation-en-cas-de-vaccination-letranger)
 
 ### Contre-indications à la vaccination contre le Covid-19
 

@@ -74,7 +74,6 @@ Hyperémèse gravidique (hyperemesis gravidarum HG)
 : Nausées et vomissements gravidiques sévères avec au moins un critère parmi: amaigrissement ≥ 5%, signe de déshydratation, {{< modal-btn modal-puqe >}}score PUQE ≥ 7{{< /modal-btn >}}.
 : L'origine de l'hyperémèse gravidique est mal comprise. Elle est un facteur de risque de naissance prématurée et de petit poids de naissance. Pour la mère, risque de troubles ioniques et carentiels à l'origine d'une encéphalopathie de Gayet-Wernicke ainsi qu'un retentissement psychiatrique pouvant persister (stress, troubles anxio-dépressifs, idées suicidaires, stress post-traumatique). Risque de récidive de 15-81%.
 : Diagnostic différentiel: hépatite, pancréatite, appendicite, pyélonéphrite, torsion d'annexe, hyperthyroïdie.
-: Soutien psychologique et association de patientes: Association de lutte contre l'hyperémèse gravidique et 9 mois avec ma bassine
 
 {{< outils/variation-poids >}}
 
@@ -107,13 +106,37 @@ En cas de vomissements non compliqués: échographie obstétricale seule pour é
 
 ### Traitement des vomissements pendant la grossesse
 
+Prise en charge et traitements recommandés pour les vomissements pendant la grossesse:
+
 - Arrêter les vitamines et la supplémentation en fer, sauf la vitamine B9
 - Adapter le mode de vie selon les préférences personnelles
-- Symptômes légers ({{< modal-btn modal-puqe >}}Score PUQE < 6{{< /modal-btn >}})  
-  Essai possible: gingembre, ~~vitamine B6 (pyridoxine)~~, acupression, acupuncture, électrostimulation même si leur efficacité n'est pas prouvée.
+- <mark>Traitements de première intention</mark>
+  - Consultation de contrôle à 72 heures nécessaire
+  - Doxylamine
+  - Doxylamine + pyroxidine
+  - Dimenhydrinate
+  - Symptômes légers ({{< modal-btn modal-puqe >}}Score PUQE < 6{{< /modal-btn >}})  
+    Gingembre, ~~vitamine B6 (pyridoxine)~~, acupression, acupuncture, électrostimulation même si leur efficacité n'est pas prouvée.
+- Traitement de 2<sup>e</sup> intention  
+  Métoclopramide
+- Soutien psychologique
 - Ne pas utiliser: aromathérapie
 - Aggravation des symptômes sous traitement: bilan complémentaire  
   NFS, CRP, ASAT, ALAT, lipasémie, TSH, T4L, échographie abdominale.
+
+#### Prise en charge des vomissements sévères
+
+Prise en charge de l'hyperémèse gravidique:
+
+- Hospitalisation si critères remplis (voir plus haut)  
+  sinon essai des traitements de première intention (voir plus haut).
+- Soutien psychologique
+- Association de patientes  
+  [Association de lutte contre l'hyperémèse gravidique](https://www.associationhg.fr) et [9 mois avec ma bassine](https://www.facebook.com/9moisavecmabassine/).
+
+Sur prescription spécialisée uniquement pour l'hyperémèse gravidique: ondansétron, corticoïdes IV en dernier recours. (TODO: annexe 6)
+
+TODO: Figure 1
 
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus: Poids pendant la grossesse" %}}

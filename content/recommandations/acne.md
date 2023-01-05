@@ -341,7 +341,7 @@ Selon la SFDermato, informer le patient:
 - [ANSM. Traitement de l'acné sévère : premières recommandations pour améliorer la sécurité d'utilisation de l'isotrétinoïne. 06/12/2021.](https://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Traitement-contre-l-acne-regles-de-bon-usage-de-l-isotretinoine-pour-limiter-les-risques-Point-d-Information)
 - [ANSM. Traitement contre l'acné : règles de bon usage de l'isotrétinoïne pour limiter les risques. 30/03/2021.](https://ansm.sante.fr/actualites/traitement-contre-lacne-regles-de-bon-usage-de-lisotretinoine-pour-limiter-les-risques)
 - [Aghasi M. et al. Dairy intake and acne development: A meta-analysis of observational studies. Clinical Nutrition. 2019.](https://www.clinicalnutritionjournal.com/article/S0261-5614(18)30166-3/fulltext)
-- [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109 UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
+- [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109 UE 4. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/5-Item-109-%E2%80%94-UE-4-Dermatoses-faciales-acne-rosacee-dermatite-seborrheique.pdf)
 - Prescrire Redaction. Patients ayant une acné. Mars 2017.
 - Prescrire Redaction. Premiers choix Prescrire. Acné. Octobre 2016.
 - [Société Française de Dermatologie. Prise en charge de l'acné. Label HAS. 10/06/2015. (PDF)](https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)

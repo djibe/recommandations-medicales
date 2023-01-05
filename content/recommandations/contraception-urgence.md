@@ -111,7 +111,7 @@ Aucun risque décrit, aucune contre-indication hormis la grossesse.
 - Disponible en pharmacie sans prescription
 - Remboursée sur ordonnance
 - Gratuite jusqu'à 25 ans *[Service public](https://www.service-public.fr/particuliers/actualites/A15158)*  
-Accessible en pharmacie, collège/lycée/université, [planning familial](https://ivg.gouv.fr/les-centres-de-planification-ou-d-education-familiale.html) (CPEF, accès aussi aux **majeures sans couverture sociale**).
+Accessible en pharmacie, collège/lycée/université, [centres de santé sexuelle *ex* planning familial](https://ivg.gouv.fr/les-centres-de-sante-sexuelle.html) (CPEF, accès aussi aux **majeures sans couverture sociale**).
 
 ### Ulipristal acétate (UPA)
 

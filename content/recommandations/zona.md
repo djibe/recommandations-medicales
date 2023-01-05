@@ -243,7 +243,7 @@ Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{< rel
 - Prescrire Redaction. Douleurs post-zostériennes. Premiers choix Prescrire. Avril 2021.
 - [CMIT. Infections à herpès virus du sujet immunocompétent. UE6 Item 164. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-164-nb.pdf)
 - [SFORL. Prise en charge de la Paralysie Faciale Idiopathique à la phase aiguë chez l'adulte. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-de-la-Paralysie-Faciale-Idiopathique-%C3%A0-la-phase-aigu%C3%AB-chez-l-adulte-2020.pdf)
-- [CEDEF. Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 - UE 6. 2017.](https://undf.cedef.org/fr/document/Infections-%C3%A0-herp%C3%A8s-virus-du-sujet-immunocomp%C3%A9tent)
+- [Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 UE 6. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/14-Item-165-UE-6-infections-a-VIH-manifestations-cutano-muqueuses-de-la-primo-infection-a-VIH.pdf)
 - [SPILF. Prise en charge des infections à VZV. Méd Mal Infect. 1998. (PDF)](https://urgences-serveur.fr/IMG/article_PDF/Prise-en-charge-des-infections-VZV_a324.pdf)
 
 ### À lire

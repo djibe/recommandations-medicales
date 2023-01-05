@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-21T21:25:18+01:00"
 publishdate = "2023-01-02"
-lastmod = "2023-01-02"
+lastmod = "2023-01-05"
 specialites = ["dermatologie"]
 annees = "2022"
 sources = ["Anofel", "SFD", "BASSH"]
@@ -17,7 +17,7 @@ sctid = "276206000"
 flowchart = true
 image = true
 imageSrc = "Candidose linguale de l'enfant déclenchée par des antibiotiques. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "PHOTOS, ttt balanite candidosique, ttt sycosis, Pytiriasis capitis, muguet nourrisson, périonyxis fluconazole dose"
+todo = "PHOTOS, ttt sycosis, Pytiriasis capitis, muguet nourrisson, périonyxis fluconazole dose"
 +++
 
 {{%article-summary%}}
@@ -31,7 +31,7 @@ todo = "PHOTOS, ttt balanite candidosique, ttt sycosis, Pytiriasis capitis, mugu
   - Herpès circiné: éconazole 1% crème x 2/j 14-21 jours
   - Onycomycose: prélèvement, pédicurie, traitement adapté amorolfine 5% x 1-2/semaine ou ciclopirox 8% 1/j pendant 3-6 mois, éconazole interdigital
   - Pityriasis versicolor: kétoconazole 2% gel unidose, récidives ++
-  - Teigne: prélèvement, terbinafine 250 mg x 1/j pendant 28 jours puis contrôle clinique et culture à J28, mesures associées
+  - Teigne: prélèvement, terbinafine 250 mg x 1/j + éconazole/ciclopirox 1% crème x 2/j pendant 28 jours puis contrôle clinique et culture à J28, mesures associées
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -71,7 +71,7 @@ Prise en charge des mycoses des zones cutanées dépourvues de poils.
 
 ### Dermatophytose circinée (herpès circiné ou tinea corporis)
 
-Anneau érythémateux prurigineux bien délimité le plus souvent causé par *T. rubrum* ou *M. canis*.  
+Anneau érythémateux prurigineux bien délimité le plus souvent causé par *Trichophyton rubrum* ou *Microsporum canis*.  
 Zone centrale claire cicatricielle avec bourrelet périphérique squameux et vésiculeux. Plusieurs lésions peuvent confluer en placard polycyclique.
 
 **Diagnostic différentiel** des dermatophytoses circinées palmaires ou plantaires: [eczéma]({{< relref "dermatite-atopique.md" >}}).
@@ -126,7 +126,7 @@ Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athl�
 
 - [Éconazole 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62098492&typedoc=R) 1 application matin et soir pendant 14 à 28 jours  
   ou [ciclopirox olamine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63273126&typedoc=R) à la même posologie.
-- Lésions très étendues: [terbinafine 250 mg cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60108678&typedoc=R)
+- Lésions très étendues: terbinafine 250 mg cp (TODO:)
 - Limiter la macération  
   Changement quotidien de sous-vêtements et chaussettes en coton, séchage soigneux, retirer le tapis de salle de bain.
 - **Ne pas utiliser:** talc, dermocorticoïdes, éosine et violet de gentiane (*Prescrire*)
@@ -173,12 +173,13 @@ Les teignes faviques sont exceptionnelles en Europe par *Trichophyton schoenlein
 - Raser les cheveux autour
 - Traitement probabiliste  
   - <mark>Terbinafine 250 mg x 1/j pendant 28 jours (voir la section *Traitements* pour les doses)</mark>
+  - Pour les enfants et -40 kg, voir les posologies dans la section plus bas [Traitements des mycoses](#traitements-des-mycoses)
   - Prolonger 2 semaines si amélioration partielle à 4 semaines avec une culture à *Microsporum*
-- \+ éconazole ou ciclopirox olamine 1% crème x 2/j pendant 28 jours
+- \+ éconazole ou ciclopirox olamine 1% crème x 2/j en même temps (28 jours)
 - Examiner l'entourage  
   Jusqu'à 50% de porteurs et traitement oral si atteints.
 - Contrôle clinique à 4 semaines avec résultats mycologiques  
-  Avis spécialisé en l'absence d'amélioration
+  Avis spécialisé en l'absence d'amélioration.
 - Éviction scolaire en l'absence de traitement débuté (sauf teigne zoophile ou tellurique)
   - Si teigne zoophile: examen vétérinaire des animaux de compagnie  
     Teignes zoophiles: *M. canis* (chien, chat), *T. mentagrophytes* (chien, chat, lapin, souris ...), *T. verrucosum* (bovins), *T. erinacei* (hérisson), *T. gallinae* (volailles), *T. equinum* (cheval), *T. benhamiae* (cochons d'Inde), *N. persicolor* (rongeurs sauvages), *N. praecox* (cheval)
@@ -230,6 +231,8 @@ Extension possible au pénis, scrotum et l'aine chez l'obèse.
 
 Rechercher un [diabète]({{< relref "diabete-type-2.md" >}}) en cas de balanite candidosique sévère.
 
+TODO: traitement
+
 {{% /collapse %}}
 {{%collapse "Candidoses vaginales" %}}
 
@@ -256,6 +259,9 @@ Signes et symptômes d'une candidose vulvovaginale:
 > << La candidose vaginale récidivante peut être la première manifestation clinique de l'[infection à VIH]({{< relref "vih-sida.md" >}}) >> (*Anofel*)
 
 ### Prise en charge de la candidose vulvovaginale aiguë
+
+Le prélèvement vaginal est dispensable pour un épisode aigu ambulatoire d'évolution favorable
+{.alert .alert-info}
 
 - Inspection vulvaire
 - <mark>Fluconazole 150 mg cp dose unique</mark> ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67860651&typedoc=R), [interactions](https://www.drugs.com/interaction/list/?drug_list=1096-0))
@@ -286,12 +292,12 @@ Candidose vulvovaginale récurrente
 #### Mesures générales pour les candidoses vaginales récidivantes
 
 - Contrôle des facteurs de risque  
-  Diabète, immunosuppression, traitement hormonal, antibiothérapie récente (3 mois).
-- Autres candidoses  
+  [Diabète](/tags/diabete/), immunosuppression, traitement hormonal, antibiothérapie récente (3 mois).
+- Rechercher d'autres candidoses  
   Oropharyngée, cutanée, onyxis.
 - Examen gynécologique voire dermatologique
 - Bilan biologique: NFS, ferritinémie, glycémie à jeun
-- Auto-prélèvements vaginaux répétés pour: identification du *Candida*, sensibilité au fluconazole  
+- **Auto-prélèvements vaginaux** répétés pour: identification du *Candida*, sensibilité au fluconazole  
   Absence de réponse aux traitements: identification de l'espèce et sensibilité aux antifongiques.
 - Mesures d'hygiène à tester
   - Remplacer le savon par des émollients vulvaires
@@ -488,5 +494,6 @@ graph TB
 ### À lire
 
 - [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. UE6 Item 152. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-152-nb.pdf)
+- [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 152 UE 6. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/11Item-152-UE6-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques.pdf)
 
 {{%/sources%}}

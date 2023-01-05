@@ -562,7 +562,9 @@ graph TB
 
 ### Vidéos du GRIO sur l'ostéoporose
 
-{{< card-link-external title="L'Ostéoporose et les signes d'appel, Le diagnostic de l'ostéoporose et Prévenir l'ostéoporose" url="http://www.grio.org/espace-gp/films-osteoporose.php">}}
+{{< video mp4="https://media.frequencemedicale.com/JDF/EM223/20221004_JDF_OSTEOPOROSE.mp4" description="Ostéoporose : nouvelles stratégies thérapeutiques (Pr Briot, Pr Cortet par FréquenceMédicale)" width="600" height="330" >}}
+
+{{< card-link-external title="l'ostéoporose avant làménopause" url="http://www.grio.org/membres/video-osteo-avant-menopause.php" subtitle="Pr Breuil et Trémollières">}}
 
 {{< card-link-external title="Ostéoporose Masculine" url="http://www.grio.org/membres/video-webcast.php" subtitle="Le point sur les recommandations françaises de la prise en charge de l'ostéoporose masculine">}}
 

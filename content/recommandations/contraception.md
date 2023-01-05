@@ -579,7 +579,7 @@ BRCA 1 ou BRCA 2 et Syndrome de Lynch: Toute contraception peut être proposée.
 - [Santé BD: Les moyens de contraception](https://santebd.org/les-fiches-santebd/sexualite-contraception/vie-affective-et-sexuelle-la-contraception-les-moyens-de-contraception)
 - [Ameli. Comment bien choisir sa contraception ?](https://www.ameli.fr/assure/sante/themes/contraception/choisir-mode-contraception)
 
-{{< card-link-external title="Centres de planification ou d'éducation familiale" url="https://ivg.gouv.fr/les-centres-de-planification-ou-d-education-familiale.html">}}
+{{< card-link-external title="Les centres de santé sexuelle" url="https://ivg.gouv.fr/les-centres-de-sante-sexuelle.html">}}
 
 - Différence efficacité théorique-pratique: importance de l'observance
 - Éviter l'automédication avec un traitement hormonal  

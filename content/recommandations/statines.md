@@ -46,7 +46,7 @@ Dans les essais contrôlés, moins de 0,1 % des sujets ont présenté de réelle
 
 Chez des patients ayant arrêté leur traitement pour myalgies, traités en aveugle par atorvastatine ou placebo (aspects similaires) ou ... rien, les effets secondaires étaient plus forts en prise de comprimé, mais similaires dans les groupes atorvastatine et placebo. **La part attribuable à un effet nocebo a été estimée à 90%.**
 
-> *[Wood FA et al. N-of-1 Trial of a Statin, Placebo, or No Treatment to Assess Side Effects. N Engl J Med. 2020.](https://www.nejm.org/doi/10.1056/NEJMc2031173?url_ver=Z39.88-2003)*, corroborée par *[Cholesterol Treatment Trialists' Collaboration 2022](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01545-8/fulltext)*
+> *[Wood FA et al. N-of-1 Trial of a Statin, Placebo, or No Treatment to Assess Side Effects. N Engl J Med. 2020.](https://www.nejm.org/doi/10.1056/NEJMc2031173)*, corroborée par *[Cholesterol Treatment Trialists' Collaboration 2022](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01545-8/fulltext)*
 
 Pas de différences entre les statines concernant la survenue de myalgies.  
 La survenue de myalgies survenue intervient durant la première année de traitement (sauf statine de haute intensité comme l'atorvastatine et la rosuvastatine).

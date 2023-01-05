@@ -242,7 +242,7 @@ L'évolution fluctue. 4 personnes sur 10 guérissent spontanément après plusie
 {{%sources%}}
 
 - [Hampton P. et al. British Association of Dermatologists guidelines for the management of people with rosacea 2021. Br J Dermatol. 2021.](https://onlinelibrary.wiley.com/doi/10.1111/bjd.20485)
-- [Collège National des Enseignants de Dermatologie Francophone (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109 UE 4. 2017.](https://undf.cedef.org/fr/document/Dermatoses-faciales_acn%C3%A9,-rosac%C3%A9e,-dermatite-s%C3%A9borrh%C3%A9ique)
+- [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/5-Item-109-%E2%80%94-UE-4-Dermatoses-faciales-acne-rosacee-dermatite-seborrheique.pdf)
 - [T. Jansen. Formes cliniques et classification de la rosacée. Annales de Dermatologie et de Vénéréologie. 2011.](https://doi.org/10.1016/S0151-9638(11)70079-5)
 
 ### À lire
