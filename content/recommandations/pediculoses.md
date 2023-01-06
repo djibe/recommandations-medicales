@@ -12,7 +12,7 @@ specialites = ["dermatologie"]
 annees = "2020"
 sources = ["CMIT", "CSHP", "SFDermato"]
 tags = ["prurit"]
-anglais = ["Pediculosis"]
+anglais = ["Pediculosis", "head lice"]
 sctid = "20848007"
 image = true
 imageSrc = "Poux, CC BY-SA 3.0 via Wikimedia Commons"
@@ -59,6 +59,8 @@ Le diagnostic est clinique par visualisation de lentes vivantes à la racine des
 - Poux de corps  
   Dos, ceinture et racine des membres. Vivent dans les vêtements (coutures +++).
 - Contage familial ou scolaire
+
+{{< card-link-external title="Photos de poux" url="https://dermnetnz.org/topics/head-lice" subtitle="par DermNet">}}
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}

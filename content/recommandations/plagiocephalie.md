@@ -14,7 +14,7 @@ tags = ["nourrisson"]
 anglais = ["Plagiocephaly"]
 sctid = "21850008"
 image = true
-imageSrc = "Photo d'une plagiocéphalie positionnelle postérieure gauche chez un nourrisson, Gzzz, CC BY-SA 4.0, via Wikimedia Commons"
+imageSrc = "Plagiocéphalie positionnelle postérieure gauche chez un nourrisson par Gzzz, CC BY-SA 4.0, via Wikimedia Commons"
 +++
 
 {{%article-summary%}}
@@ -48,8 +48,14 @@ Plagiocéphalie
 
 ### Abréviations
 
+CNPP
+: Conseil National Professionnel de Pédiatrie
+
 DCP
 : déformation crânienne positionnelle
+
+HAS
+: Haute Autorité de Santé
 
 MIN
 : mort inattendue du nourrisson
@@ -121,7 +127,7 @@ Prise en charge chirurgicale d'une plagiocéphalie en cas de craniosynostose con
 
 {{< youtube id="5xtCwQV86pA" title="La minute RECO HAS | Plagiocéphalies (Pr Hugues Patural)" >}}
 
-- [HAS (Haute Autorité de Santé), CNP. Prévention des déformations crâniennes positionnelles et mort inattendue du nourrisson. Février 2020.](https://www.has-sante.fr/jcms/p_3151574/fr/prevention-des-deformations-craniennes-positionnelles-dcp-et-mort-inattendue-du-nourrisson)
+- [HAS, CNPP. Prévention des déformations crâniennes positionnelles et mort inattendue du nourrisson. Février 2020.](https://www.has-sante.fr/jcms/p_3151574/fr/prevention-des-deformations-craniennes-positionnelles-dcp-et-mort-inattendue-du-nourrisson)
 - [Société Canadienne de Pédiatrie. La plagiocéphalie positionnelle. Octobre 2011.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3202395/)
 
 {{%/sources%}}

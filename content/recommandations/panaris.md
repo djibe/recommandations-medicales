@@ -13,6 +13,8 @@ sources = ["CEDEF"]
 tags = []
 anglais = ["Whitlow"]
 sctid = "32021005"
+image = true
+imageSrc = "Panaris avec composante inflammatoire et collectée par Uwe Jendricke, Public domain, via Wikimedia Commons"
 flowchart = true
 +++
 

@@ -158,6 +158,8 @@ Un mélanome est lésion pigmentée avec les critères ABCDE suivants:
   Critère majeur.
 {{%/warning%}}
 
+{{< card-link-external title="Photos de mélanome in situ" url="https://dermnetnz.org/topics/melanoma-in-situ-images/" subtitle="par DermNet">}}
+
 - Une lésion mélanocytaire est considérée comme **suspecte si ≥ 2 critères ABCDE sont validés**.
 - Un **nævus est considéré comme suspect s'il est différent des autres**.
 - Inspection et palpation de l'ensemble de la peau et des muqueuses accessibles  

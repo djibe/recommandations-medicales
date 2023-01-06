@@ -17,8 +17,8 @@ anglais = ["Mycosis", "dermatophytosis", "candidiasis", "vulvovaginal candidiasi
 sctid = "276206000"
 flowchart = true
 image = true
-imageSrc = "Candidose linguale de l'enfant déclenchée par des antibiotiques. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "les TODO:, PHOTOS, ttt sycosis, Pytiriasis capitis, muguet nourrisson, périonyxis fluconazole dose"
+imageSrc = "Candidose linguale pseudo-membraneuse (muguet) de l'enfant déclenchée par des antibiotiques. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
+todo = "les TODO:, ttt sycosis, Pytiriasis capitis"
 +++
 
 {{%article-summary%}}
@@ -45,7 +45,7 @@ Mycoses
 : Champignons microscopiques (micromycètes) susceptibles de vivre en parasite chez l'Homme et classés en deux grands types: levures ou champignons filamenteux.
 
 Dermatophytoses (ou tinea)
-: Mycoses cutanées les plus fréquentes liées à des champignons filamenteux microscopiques ayant une affinité pour la kératine (épiderme et phanères: ongles, cheveux et poils). Selon l'espèce, la contamination est interhumaine (contact, objets ou lieux communs), zoophile ou tellurique (qui sont plus inflammatoires car peu adaptées à l'homme).
+: Mycoses cutanées les plus fréquentes liées à des champignons filamenteux microscopiques ayant une affinité pour la kératine (épiderme et phanères: ongles, cheveux et poils). Selon l'espèce, la contamination est interhumaine (contact, objets ou lieux communs), zoophile ou tellurique (qui sont plus inflammatoires car peu adaptées à l'homme). Elles ne donnent jamais d'atteinte muqueuse.
 : Les lésions cliniques sont multiples: dermatophyties circinées, intertrigos, teignes, folliculites, onychomycoses ...
 : Des réactions allergiques de type dyshidrose à distance sont possibles, appelées **dermatophytides** (mains ++).
 : Genres les plus fréquents chez l'Homme: *Trichophyton*, *Microsporum*, *Nannizzia* et *Epidermophyton*. Espèces principales en France métropolitaine sur la peau et les ongles: *T. rubrum*, *T. mentagrophytes*, *T. interdigitale*, *T. tonsurans* et *M. canis*.
@@ -77,7 +77,8 @@ Prise en charge des mycoses des zones cutanées dépourvues de poils.
 ### Dermatophytose circinée (herpès circiné ou tinea corporis)
 
 Anneau érythémateux prurigineux bien délimité le plus souvent causé par *Trichophyton rubrum* ou *Microsporum canis*.  
-Zone centrale claire cicatricielle avec bourrelet périphérique squameux et vésiculeux. Plusieurs lésions peuvent confluer en placard polycyclique.
+Zone centrale claire cicatricielle avec bourrelet périphérique squameux et vésiculeux. Plusieurs lésions peuvent confluer en placard polycyclique.  
+[Photos d'herpès circiné](https://dermnetnz.org/topics/tinea-corporis-images)
 
 **Diagnostic différentiel** des dermatophytoses circinées palmaires ou plantaires: [eczéma]({{< relref "dermatite-atopique.md" >}}).
 
@@ -91,7 +92,8 @@ Zone centrale claire cicatricielle avec bourrelet périphérique squameux et vé
 ### Pityriasis versicolor
 
 Macules hypo ou hyperpigmentées bien limitées, le plus souvent thoracique, cervicale ou à la racine des bras. Prurit rare.  
-Le pityriasis versicolor est bénin, **n'est pas contagieux**, causé par la levure *Malassezia furfur*.
+Le pityriasis versicolor est bénin, **n'est pas contagieux**, causé par la levure *Malassezia furfur*.  
+[Photos de pityriasis versicolor](https://dermnetnz.org/topics/pityriasis-versicolor-images)
 
 {{%info%}}
 
@@ -116,9 +118,17 @@ Le pityriasis versicolor est bénin, **n'est pas contagieux**, causé par la lev
 - [Vitiligo]({{< relref "vitiligo.md" >}})  
   Dépigmentation totale en plaques.
 
-### Kératodermie palmoplantaire
+### Kératodermie palmoplantaire dermatophytique
 
-TODO:
+La kératodermie palmo-plantaire se présente souvent avec un tableau stéréotypé: kératodermie d'une paume et des 2 plantes (<< 1 main, 2 pieds >>). La kératodermie talonnière isolée ± fissuraire est fréquente. Aspect blanchâtre, farineux avec plis des paumes/plantes très marqués. Atteinte unguéale possible.
+
+{{%info%}}
+
+#### Prise en charge de la kératodermie palmo-plantaire
+
+Terbinafine 250 mg cp x 1/j pendant 2 à 4 semaines.
+
+{{%/info%}}
 
 {{% /collapse %}}
 {{%collapse "Mycoses des plis" %}}
@@ -127,7 +137,8 @@ TODO:
 
 Les intertrigos ont un aspect d'érythème lisse suintant à limites floues, **prurigineux** ou avec **sensation de brûlures**, parfois des fissures douloureuses. L'origine est fréquemment une candidose, une bordure inflammatoire caractérise un dermatophyte (*T. rubrum*, *T. interdigitale*, *Epidermophyton floccosum*).
 
-Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athlète >> ou tinea pedis), à la commissure labiale (**perlèche**), les plis inguinaux (<< eczéma marginé de Hebra >>) ou cruraux, sous-mammaires et axillaires.
+Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athlète >> ou tinea pedis), à la commissure labiale (**perlèche**, [photos](https://dermnetnz.org/images/angular-cheilitis-images)), les plis inguinaux (<< eczéma marginé de Hebra >>) ou cruraux, sous-mammaires et axillaires.  
+[Photos d'intertrigo candidosique](https://dermnetnz.org/topics/candida-intertrigo-images) et [d'intertrigo inter-orteils](https://dermnetnz.org/topics/tinea-pedis-images).
 
 {{%info%}}
 
@@ -166,7 +177,7 @@ Les teignes tondantes sont les principales teignes, en deux types:
 
 ### Teignes suppurées
 
-Alopécie en **larges placards suppurants** (plusieurs cm²) surélevés circulaires **très inflammatoires** (dits kérions) d'origine animale (*Trichophyton mentagrophytes* ou *T. verrucosum*) ou tellurique (*Nannizia gypsea*), principalement chez l'**enfant ou la femme**.
+Alopécie en **larges placards suppurants** (plusieurs cm²) surélevés circulaires **très inflammatoires** (dit **kérion**) par contamination animale (*Trichophyton mentagrophytes* ou *T. verrucosum*) ou tellurique (*Nannizia gypsea*), principalement chez l'**enfant ou la femme**.
 
 ### Teignes faviques ou favus
 
@@ -180,6 +191,7 @@ La prise en charge d'un enfant de moins de 10 kg est hospitalière du fait de l'
 
 - Prélèvement au laboratoire
 - Raser les cheveux autour
+- Surinfection: povidone iodée moussante (Bétadine Scrub® 4%) en shampooing au début
 - Traitement probabiliste  
   - <mark>Terbinafine 250 mg x 1/j pendant 28 jours (voir la section *Traitements* pour les doses)</mark>
   - Pour les enfants et -40 kg, voir les posologies dans la section plus bas [Traitements des mycoses](#traitements-des-mycoses)
@@ -208,7 +220,8 @@ L'itraconazole est utile pour les formes résistantes.
 
 Les candidoses buccales atteignent le plus souvent les moins de 18 ans et les sujets âgés (prothèses dentaires, hyposialie, [dénutrition]({{< relref "denutrition.md" >}})).
 
-L'aspect pseudo-membraneux blanc est le plus fréquent, souvent associé à une **perlèche** (intertrigo de la commissure labiale). Les autres aspects sont la **glossite** (langue rouge dépapillée) associée à une **stomatite** (xérose buccale, goût métallique et de cuisson) et le **muguet** (dépôts blanchâtres adhérents des joues/palais).
+L'aspect pseudo-membraneux blanc (**muguet**) est le plus fréquent, souvent associé à une **perlèche** (intertrigo de la commissure labiale). Les autres aspects sont la **glossite** (langue rouge dépapillée) associée à une **stomatite** (xérose buccale, goût métallique et de cuisson).  
+[Photos de candidose buccale](https://dermnetnz.org/topics/oral-candidiasis)
 
 **NB.** Les langues noires villeuses ne sont pas des candidoses (oxydation des papilles, souvent par le tabagisme).
 
@@ -216,7 +229,7 @@ L'aspect pseudo-membraneux blanc est le plus fréquent, souvent associé à une 
 
 #### Prise en charge des candidoses buccales
 
-- Soins des prothèses dentaires
+- Stériliser les tétines, soins des prothèses dentaires
 - Bains de bouche avec chlorhexidine ou bicarbonate de soude
 - Traitement de l'hyposialie
 - Miconazole gel buccal  
@@ -277,6 +290,7 @@ Signes et symptômes d'une candidose vulvovaginale:
   - Tumoral
   - Réactions aux produits d'hygiène, tampons, spermicides, préservatifs, anneaux contraceptifs
   - Vulvodynie
+- [Photos de candidose vulvovaginale](https://dermnetnz.org/topics/vulvovaginal-candidiasis-images)
 
 > << La candidose vaginale récidivante peut être la première manifestation clinique de l'[infection à VIH]({{< relref "vih-sida.md" >}}) >> (*Anofel*)
 
@@ -377,7 +391,8 @@ Les infections par dermatophytes des poils atteignent le plus souvent les **homm
 Les onychomycoses à *Candida* atteignent surtout les mains des femmes (eau, produits ménagers, manucure). Inflammation péri-unguéale initiale (**périonyxis**, péri-onyxis ou paronychie) puis extension à l'ongle par le bord proximal (**onyxis**).
 
 Les onychomycoses à dermatophytes (*T. rubrum* surtout) prédominent aux ongles des pieds avec l'onychomycose distolatérale (tâche jaunâtre du bord libre s'étendant vers la matrice). Épaississement et durcissement de l'ongle.  
-Autres aspects d'onychomycoses: leuconychie superficielle (surface), proximale (matrice) ou onychomycodystrophie totale avec destruction totale.
+Autres aspects d'onychomycoses: leuconychie superficielle (surface), proximale (matrice) ou onychomycodystrophie totale avec destruction totale.  
+[Photos d'onychomycose](https://dermnetnz.org/images/onychomycosis-images)
 
 #### Traitement de l'onychomycose
 

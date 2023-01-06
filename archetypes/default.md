@@ -2,7 +2,7 @@
 title = "{{ replace .Name '-' ' ' | title }}"
 titleSeo = "In case of long title or delete whole line"
 prefix = "la "
-description = "160 characters max"
+description = "Title 2-22 words and description 160 characters max"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "{{ .Date }}"
