@@ -3,11 +3,12 @@ title = "Mycoses: candidoses et dermatophytoses (intertrigo, teigne, vaginite)"
 titleSeo = "Mycoses: Dermatophytes et candidoses"
 prefix = "les "
 description = "Recommandations pour la prise en charge des mycoses: intertrigo, teigne, candidose vaginale, buccale, herpès circiné, balanite. Antifongiques azolés topiques"
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-21T21:25:18+01:00"
 publishdate = "2023-01-02"
-lastmod = "2023-01-05"
+lastmod = "2023-01-06"
 specialites = ["dermatologie"]
 annees = "2022"
 sources = ["Anofel", "SFD", "BASSH"]
@@ -17,21 +18,25 @@ sctid = "276206000"
 flowchart = true
 image = true
 imageSrc = "Candidose linguale de l'enfant déclenchée par des antibiotiques. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "PHOTOS, ttt sycosis, Pytiriasis capitis, muguet nourrisson, périonyxis fluconazole dose"
+todo = "les TODO:, PHOTOS, ttt sycosis, Pytiriasis capitis, muguet nourrisson, périonyxis fluconazole dose"
 +++
 
 {{%article-summary%}}
 
-- Dermatophytose type teigne ou onychomycose: prélèvement mycologique systématique en périphérie des lésions à distance de toute thérapeutique (cutanée 15 jours, ongle 2 mois) pour examen direct et culture
+- Prélèvement mycologique si:
+  - Dermatophytose type teigne ou onychomycose
+  - Atypie clinique ou doute diagnostique, lésions chroniques/récidivantes, résistance à un traitement adapté et bien observé
+  - À distance de toute thérapeutique (cutanée 15 jours, ongle 2 mois) pour examen direct et culture
 - Traitement local sauf pour les teignes, candidoses buccales et vaginales, onyxis à dermatophytes avec atteinte matricielle et onyxis candidosiques
 - Prise en charge des mycoses courantes en première intention:
   - Candidose buccale: miconazole 2% gel 2,5 mL x 4/j 7-14 jours, mesures associées
   - Candidose vaginale aiguë: fluconazole 150 mg dose unique (ou éconazole LP ovule 1-3 jours) ± éconazole vulvaire 14-28 jours
   - Intertrigo: éconazole 1% ou ciclopirox 1% crème x 2/j 14-28 jours, mesures associées
   - Herpès circiné: éconazole 1% crème x 2/j 14-21 jours
+  - Muguet du nourrisson (à partir de 4 mois): miconazole 2% gel 1,25 mL x 4/j après les repas 7-14 jours
   - Onycomycose: prélèvement, pédicurie, traitement adapté amorolfine 5% x 1-2/semaine ou ciclopirox 8% 1/j pendant 3-6 mois, éconazole interdigital
   - Pityriasis versicolor: kétoconazole 2% gel unidose, récidives ++
-  - Teigne: prélèvement, terbinafine 250 mg x 1/j + éconazole/ciclopirox 1% crème x 2/j pendant 28 jours puis contrôle clinique et culture à J28, mesures associées
+  - Teigne: prélèvement, terbinafine 250 mg x 1/j + éconazole/ciclopirox 1% crème x 2/j pendant 28 jours puis contrôle clinique avec résultat de la culture à J28, mesures associées
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -111,6 +116,10 @@ Le pityriasis versicolor est bénin, **n'est pas contagieux**, causé par la lev
 - [Vitiligo]({{< relref "vitiligo.md" >}})  
   Dépigmentation totale en plaques.
 
+### Kératodermie palmoplantaire
+
+TODO:
+
 {{% /collapse %}}
 {{%collapse "Mycoses des plis" %}}
 
@@ -175,7 +184,7 @@ La prise en charge d'un enfant de moins de 10 kg est hospitalière du fait de l'
   - <mark>Terbinafine 250 mg x 1/j pendant 28 jours (voir la section *Traitements* pour les doses)</mark>
   - Pour les enfants et -40 kg, voir les posologies dans la section plus bas [Traitements des mycoses](#traitements-des-mycoses)
   - Prolonger 2 semaines si amélioration partielle à 4 semaines avec une culture à *Microsporum*
-- \+ éconazole ou ciclopirox olamine 1% crème x 2/j en même temps (28 jours)
+- <mark>\+ éconazole ou ciclopirox olamine 1% crème x 2/j en même temps (28 jours)</mark>
 - Examiner l'entourage  
   Jusqu'à 50% de porteurs et traitement oral si atteints.
 - Contrôle clinique à 4 semaines avec résultats mycologiques  
@@ -197,11 +206,11 @@ L'itraconazole est utile pour les formes résistantes.
 
 ### Candidose buccale ou oropharyngée
 
-Les candidoses oropharyngées atteignent le plus souvent les moins de 18 ans et les sujets âgés (prothèses dentaires, hyposialie, [dénutrition]({{< relref "denutrition.md" >}})).
+Les candidoses buccales atteignent le plus souvent les moins de 18 ans et les sujets âgés (prothèses dentaires, hyposialie, [dénutrition]({{< relref "denutrition.md" >}})).
 
-L'aspect pseudo-membraneux blanc ou **<< muguet >>** est le plus fréquent, souvent associé à une **perlèche** (intertrigo de la commissure labiale). Xérose buccale, sensation de goût métallique et de cuisson.
+L'aspect pseudo-membraneux blanc est le plus fréquent, souvent associé à une **perlèche** (intertrigo de la commissure labiale). Les autres aspects sont la **glossite** (langue rouge dépapillée) associée à une **stomatite** (xérose buccale, goût métallique et de cuisson) et le **muguet** (dépôts blanchâtres adhérents des joues/palais).
 
-**NB.** Les langues noires villeuses ne sont pas des candidoses.
+**NB.** Les langues noires villeuses ne sont pas des candidoses (oxydation des papilles, souvent par le tabagisme).
 
 {{%info%}}
 
@@ -212,26 +221,38 @@ L'aspect pseudo-membraneux blanc ou **<< muguet >>** est le plus fréquent, souv
 - Traitement de l'hyposialie
 - Miconazole gel buccal  
   [Miconazole 2% gel buccal (Daktarin®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69184289&typedoc=R) 2,5 mL 4 fois par jour pendant 7 à 14 jours.
-- Miconazole cp muco-adhésif chez l'immunodéprimé  
-  [Miconazole cp 50 mg (Loramyc®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69980852&typedoc=R) x 1/j pendant 7 à 14 jours, face bombée placée le matin après le brossage contre la gencive supérieure au-dessus d'une incisive.
+- ou miconazole cp muco-adhésif chez l'immunodéprimé  
+  [Miconazole cp 50 mg (Loramyc®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69980852&typedoc=R) x 1/j pendant 7 à 14 jours, face bombée placée le matin après le brossage contre la gencive supérieure au-dessus d'une incisive. Interactions +++
 - ou amphotéricine B buvable  
   [Amphotéricine B 10% susp buvable (Fungizone®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64346723&typedoc=R) 5 mL x 3-4/j pendant 10-14 jours (21 si forme chronique)
 - ou nystatine buvable  
   [Nystatine susp buvable (Mycostatine®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62250594&typedoc=R) 1 à 6 mL x 4-6/j pendant 10-14 jours (21 si forme chronique)
 - voire fluconazole oral
-  - En première intention chez l'immunodéprimé (*ESCMID 2012*)
-  - [Fluconazole cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68551946&typedoc=R#RcpPosoAdmin) 100 mg x 1/j (doubler la dose à J1) pendant 7 à 21 jours (prolonger chez l'immunodéprimé)
-- Si échec: itraconazole voie orale
+  - En première intention chez l'**immunodéprimé** associé à un traitement local (*ESCMID 2012*)
+  - [Fluconazole cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68551946&typedoc=R#RcpPosoAdmin) 100 mg x 1/j (doubler la dose à J1) pendant 7 à 21 jours (prolonger chez l'immunodéprimé), doubler la dose en cas d'atteinte œsophagienne associée
+- Si échec: avis hospitalier pour itraconazole voie orale
 {{%/info%}}
+
+##### Prise en charge du muguet du nourrisson {.mt-4}
+
+À partir de 4 mois: [miconazole 2% gel buccal (Daktarin®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69184289&typedoc=R) 1,25 mL 4 fois par jour après les repas pendant 7 à 14 jours
+{.alert .alert-info}
 
 ### Balanite candidosique
 
-Début au niveau du sillon balanopréputial avec un érythème puis souvent des plaques blanchâtres du gland.  
+Tableau pauci-symptomatique. Début au niveau du sillon balanopréputial avec un érythème puis souvent des plaques blanchâtres du gland.  
 Extension possible au pénis, scrotum et l'aine chez l'obèse.
 
-Rechercher un [diabète]({{< relref "diabete-type-2.md" >}}) en cas de balanite candidosique sévère.
+Diagnostic différentiel: infectieux ([syphilis secondaire]({{< relref "syphilis.md" >}}), herpès génital), macération, psoriasis, carcinome.
 
-TODO: traitement
+{{%info%}}
+
+#### Prise en charge de la balanite candidosique
+
+[Éconazole 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62098492&typedoc=R) 1 application matin et soir pendant 14 à 21 jours + savon alcalin + examen partenaire
+{{%/info%}}
+
+Rechercher un [diabète]({{< relref "diabete-type-2.md" >}}) en cas de balanite candidosique sévère.
 
 {{% /collapse %}}
 {{%collapse "Candidoses vaginales" %}}
@@ -252,7 +273,8 @@ Signes et symptômes d'une candidose vulvovaginale:
 - Diagnostic différentiel
   - Écoulements physiologiques pendant la grossesse ou en milieu de cycle parfois malodorants
   - Vaginose bactérienne malodorante à *Garderella vaginalis*, [IST](/tags/ist/) à trichomonase, gonococcie ou [chlamydiose]({{< relref "chlamydia-trachomatis.md" >}}), virale à herpès
-  - Dermatites: lichen, eczéma, psoriasis
+  - Dermatites: lichen (ménopausée ++), eczéma, psoriasis
+  - Tumoral
   - Réactions aux produits d'hygiène, tampons, spermicides, préservatifs, anneaux contraceptifs
   - Vulvodynie
 
@@ -296,6 +318,7 @@ Candidose vulvovaginale récurrente
 - Rechercher d'autres candidoses  
   Oropharyngée, cutanée, onyxis.
 - Examen gynécologique voire dermatologique
+- Examen du partenaire (*CEDEF*)
 - Bilan biologique: NFS, ferritinémie, glycémie à jeun
 - **Auto-prélèvements vaginaux** répétés pour: identification du *Candida*, sensibilité au fluconazole  
   Absence de réponse aux traitements: identification de l'espèce et sensibilité aux antifongiques.
@@ -351,7 +374,7 @@ Les infections par dermatophytes des poils atteignent le plus souvent les **homm
 
 ### Onychomycoses ou mycoses des ongles (candidoses des ongles ou onyxis, mycose unguéale, dermatophytoses ou tinea unguium)
 
-Les onychomycoses à *Candida* atteignent surtout les mains des femmes (eau, produits ménagers, manucure). Inflammation péri-unguéale initiale (périonyxis) puis extension à l'ongle par le bord proximal (onyxis).
+Les onychomycoses à *Candida* atteignent surtout les mains des femmes (eau, produits ménagers, manucure). Inflammation péri-unguéale initiale (**périonyxis**, péri-onyxis ou paronychie) puis extension à l'ongle par le bord proximal (**onyxis**).
 
 Les onychomycoses à dermatophytes (*T. rubrum* surtout) prédominent aux ongles des pieds avec l'onychomycose distolatérale (tâche jaunâtre du bord libre s'étendant vers la matrice). Épaississement et durcissement de l'ongle.  
 Autres aspects d'onychomycoses: leuconychie superficielle (surface), proximale (matrice) ou onychomycodystrophie totale avec destruction totale.
@@ -374,14 +397,27 @@ Prise en charge des onychomycoses:
   - Traitement ci-dessus en complément des mesures suivantes
   - Avulsion chimique comme ci-dessus selon Prescrire
   - \+ Traitement général: terbinafine 1 cp/j pendant 3 mois (onyxis des mains) ou 6 mois (onyxis des pieds) avec surveillance biologique adaptée (*Anofel*, 6 semaines à 3-6 mois selon les RCP)  
-    Si mauvaise tolérance: itraconazole voire fluconazole sur avis spécialisé.
+    Si mauvaise tolérance: itraconazole voire fluconazole sur avis hospitalier.
 
 {{% /collapse %}}
 {{%collapse "Candidoses digestives" %}}
 
+### Candidose œsophagienne
+
 *Candida* est commensal du tube digestif. L'**œsophage** est la principale atteinte du *C. albicans*.
 
-Chez un [patient vivant avec le VIH]({{< relref "vih-sida.md" >}}) (PVVIH), l'œsophagite à *Candida* est un marqueur du passage au stade Sida (CD4 souvent < 150/mm³).
+[Fluconazole cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68551946&typedoc=R#RcpPosoAdmin) 100-200 mg x 1/j (doubler la dose à J1) pendant 14 à 28 jours (jusqu'à la rémission).
+
+Rechercher une immunodépression: VIH, hémopathie, iatrogénie.
+
+Chez une [personne vivant avec le VIH]({{< relref "vih-sida.md" >}}) (PVVIH), l'œsophagite à *Candida* est un marqueur du passage au stade Sida (CD4 souvent < 150/mm³)
+{.alert .alert-info}
+
+### Candidose anorectale
+
+Anite prurigineuse, érythémateuse, érosive et suintante ± intertrigo local.
+
+Différencier d'une atteinte streptococcique, d'une macération ou d'hémorroïdes.
 
 {{% /collapse %}}
 {{%collapse "Traitements des mycoses" %}}
@@ -416,26 +452,30 @@ Candidose cutanée: durée de traitement de 14 à 28 jours
 
 **NB.** La formulation (crème, lotion, gel, poudre) dépend du caractère suintant ou non de la lésion.
 
-#### Ciclopirox olamine
+#### Pyridones
 
 [Ciclopirox olamine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63273126&typedoc=R) x 2/j pendant 14 à 28 jours.
 
 Spectre large et absence d'interactions médicamenteuses.
 
-#### Autres antifongiques topiques
+#### Allylamines
 
-- [Terbinafine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68446952&typedoc=R) x 1-2/j pendant 1-2 semaines
+[Terbinafine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68446952&typedoc=R) x 1-2/j pendant 1-2 semaines
+
+Moins efficace sur *C. albicans*.
 
 ### Traitement antifongique général
 
-Tous les traitements antifongiques par voie générale exposent à des toxidermies graves
+Tous les traitements antifongiques par voie générale exposent à des toxidermies graves et sont contre-indiqués pendant la grossesse
 {.alert .alert-warning}
 
-#### Fluconazole
+#### Azolé Fluconazole
 
-[Fluconazole 6 mg/kg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68551946&typedoc=R) x 1/j (gél 50/100/200, sirop).
+Fluconazole 6 mg/kg x 1/j (gél 50/100/200, sirop, [RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68551946&typedoc=R), [interactions nombreuses](https://www.drugs.com/interaction/list/?drug_list=1096-0)).
 
-Effets indésirables principaux: céphalées, nausées, douleurs abdominales, anaphylaxie.
+Traitement général de première intention.
+
+**Effets indésirables** principaux: céphalées, nausées, douleurs abdominales, anaphylaxie.
 
 #### Terbinafine
 
@@ -450,6 +490,12 @@ La terbinafine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichag
 {{< /table >}}
 
 TODO: surveillance biologique
+
+#### Polyènes Amphotéricine B
+
+TODO:
+
+Effet topique digestif en l'absence d'absorption.
 
 #### Pour en savoir plus: Itraconazole
 
@@ -491,11 +537,11 @@ graph TB
 - Prescrire Redaction. Candidose vulvovaginale. Prescrire. 2021.
 - [Saxon GDGC. et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
 - Prescrire Redaction. Pityriasis versicolor. Prescrire. 2019.
+- [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 152 UE 6. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/11Item-152-UE6-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques.pdf)
 - [Haut conseil de la santé publique. Survenue de maladies infectieuses dans une collectivité. Conduites à tenir. 2012.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=306)
 
 ### À lire
 
 - [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. UE6 Item 152. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-152-nb.pdf)
-- [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 152 UE 6. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/11Item-152-UE6-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques.pdf)
 
 {{%/sources%}}

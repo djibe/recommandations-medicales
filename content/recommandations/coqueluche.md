@@ -6,10 +6,10 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2022-12-27"
+lastmod = "2023-01-06"
 specialites = ["infectiologie"]
-annees = "2022"
-sources = ["SPILF", "HAS", "HCSP"]
+annees = "2023"
+sources = ["HCSP", "SPILF", "HAS"]
 tags = ["nourrisson", "toux"]
 anglais = ["Pertussis", "Whooping cough"]
 sctid = "27836007"
@@ -24,7 +24,7 @@ todo = "https://www.wiv-isp.be/matra/fiches/coqueluche.pdf"
 - Évoquer une coqueluche devant toute toux de plus de 7 jours
 - Le diagnostic de coqueluche est biologique par une *PCR coqueluche*
 - Prise en charge de la coqueluche: éviction de la collectivité et antibiothérapie azithromycine 250 mg x 2/j pendant 3 jours
-- Antibioprophylaxie des sujets contacts
+- Antibioprophylaxie des sujets contacts (voir Section spécifique)
 - Vaccination coqueluche
   - L'immunité vaccinale persiste 5 à 10 ans
   - Rattrapage de la dose des 25 ans: joindre la valence coqueluche jusqu'à 39 ans
@@ -114,10 +114,10 @@ Bilan biologique avec hyperlymphocytose > 10 G/L évocatrice mais inconstante. P
 
 ### PCR coqueluche
 
-Dans les 3 premières semaines suivant l'apparition des symptômes: PCR *Bordetella* sur prélèvement nasopharyngé (avec culture si symptômes depuis moins de 15 jours).  
+Dans les 3 premières semaines suivant l'apparition des symptômes: PCR *Bordetella* sur prélèvement nasopharyngé (avec culture si symptômes depuis moins de 15 jours) devant toute suspicion de coqueluche (*HCSP 2023*).  
 Pas d'examen complémentaire après 21 jours de symptômes (le diagnostic est clinique).
 
-Cas contact: PCR possible dans les 3 semaines suivant le dernier contact avec le cas-index.
+Cas contact: PCR possible dans les 3 semaines suivant le dernier contact avec le cas-index (sauf asymptomatique avec *B. parapertussis*).
 
 {{% /collapse %}}
 {{%collapse "Indications à l'hospitalisation" %}}
@@ -127,7 +127,7 @@ Cas contact: PCR possible dans les 3 semaines suivant le dernier contact avec le
 ### Indications à hospitaliser une coqueluche
 
 - Nourrisson < 3 mois
-- Selon tolérance chez > 3 mois  
+- Selon tolérance chez le +3 mois  
   Apnées, bradycardies, limitation de l'alimentation.
 {{%/warning%}}
 
@@ -170,18 +170,20 @@ Prise en charge de la coqueluche:
 
 - Éviction de la collectivité immédiate  
   Retour possible en collectivité après 5 jours d'antibiothérapie (3 jours si azithromycine) ou 21 jours de toux.
+- Mesures barrières
 - Proclive - fractionnement des repas - DRP
 - Éviter le contact avec les nourrissons de 0 à 11 mois
 - Mise à jour du [calendrier vaccinal]({{< relref "vaccination.md" >}})  
   Il n'y a pas lieu d'administrer > 1 dose de vaccin coquelucheux chez l'adulte (sauf professionnel de santé).
-- Antibioprophylaxie des sujets contacts et examen des tousseurs (voir chapitre suivant)
+- Antibioprophylaxie des sujets contacts et examen des tousseurs (voir section suivante)
 - Signalement de cas groupés (≥ 2 cas) en collectivité  
   Au médecin inspecteur de l'ARS (CLIN si EHPAD).
 
 ### Antibiothérapie de la coqueluche
 
 {{%info%}}
-Antibiothérapie indiquée uniquement dans les 3 premières semaines d'évolution de la coqueluche pour réduire la contagiosité.
+Antibiothérapie indiquée uniquement dans les 3 premières semaines d'évolution de la coqueluche pour réduire la contagiosité.  
+Ne traiter un *B. parapertussis* pauci-symptomatique qu'en présence de personne à risque dans son entourage.
 
 Macrolides:
 
@@ -203,13 +205,17 @@ Possible pendant la grossesse en association avec l'acide folique.
 {{% /collapse %}}
 {{%collapse "Antibioprophylaxie des sujets contacts" %}}
 
-Antibioprophylaxie des contacts la plus précoce possible, jusqu'à 21 jours après le dernier contact avec le cas-index coquelucheux:
+Antibioprophylaxie des contacts du cas la plus précoce possible, jusqu'à 21 jours après le dernier contact avec le cas-index coquelucheux:
 
-- Schéma identique au traitement curatif
-- Contacts proches (foyer, toute la crèche, enfants contacts)  
-  Antibioprophylaxie sauf vaccination complète récente (< 5 ans).
-- Contacts occasionnels  
-  Antibioprophylaxie chez sujet à risque non/incomplètement vacciné (nourrisson, insuffisant respiratoire, immunodépression, grossesse ou en contact avec nourrissons).
+- Mise à jour du calendrier vaccinal
+- Contacts symptomatiques: *PCR Bordetella* ± traitement
+- Antibiothérapie
+  - Identique au traitement curatif
+  - Antibioprophylaxie de tous les enfants non ou mal vaccinés (< 2-3 doses selon l'âge)
+  - et enfants dont la dernière vaccination a plus de 5 ans
+  - et tous les adultes non vaccinés ou dernier rappel a plus de 5 ans
+  - et contacts occasionnels à risque de forme grave (nourrisson, insuffisant respiratoire, immunodépression, grossesse ou en contact avec nourrissons)
+  - Cas-index à *B. parapertussis*: ne pas traiter un contact asymptomatique sauf si personnes à risque dans son entourage
 - Éviction de collectivité  
   Retour possible en collectivité après 5 jours d'antibiothérapie (3 jours si azithromycine) ou 21 jours de toux.
 
@@ -224,6 +230,7 @@ Antibioprophylaxie des contacts la plus précoce possible, jusqu'à 21 jours apr
 
 ### À lire
 
+- [HCSP. Conduite à tenir autour d'un ou plusieurs cas de coqueluche. 2023.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1265)
 - Collège de pédiatrie
 
 {{%/sources%}}
