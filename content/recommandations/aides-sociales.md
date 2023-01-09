@@ -13,6 +13,8 @@ specialites = ["social"]
 annees = "2022"
 sources = ["MinSanté"]
 tags = []
+image = false
+imageSrc = ""
 todo = "https://www.has-sante.fr/upload/docs/application/pdf/2018-03/annexes2.pdf"
 +++
 

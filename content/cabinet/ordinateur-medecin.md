@@ -81,7 +81,7 @@ Vous pouvez demander à l'informaticien du quartier de vous monter les pièces d
 ou chez [Configomania](https://www.configomania.fr/configurateur-classique.html?id=rmvbIJX4C8ffAKyfUqg75zqNjv4Pt3) (mais sans Windows :()
 {.alert .alert-info}
 
-Changez la couleur du boîtier (les goûts et les couleurs ... mais gardez une taille très proche de 44 x 22 x 41 cm) et la souris si vous avez de petites mains. Ajoutez un lecteur DVD ou Blu-Ray selon vos besoins (mais en 2022 ...).
+Changez la couleur du boîtier (les goûts et les couleurs ... mais gardez une taille très proche de 44 x 22 x 41 cm) et la souris si vous avez de petites mains. Ajoutez un lecteur DVD ou Blu-Ray selon vos besoins (mais en 2023 ...).
 
 **NB.** Windows 10/11 peut être acheté 15€ (au lieu des 200€) sur les géants du e-commerce si un ami peut vous l'installer.
 

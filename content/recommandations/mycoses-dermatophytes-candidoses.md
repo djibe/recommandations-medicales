@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-21T21:25:18+01:00"
 publishdate = "2023-01-02"
-lastmod = "2023-01-06"
+lastmod = "2023-01-09"
 specialites = ["dermatologie"]
 annees = "2022"
 sources = ["Anofel", "SFD", "BASSH"]
@@ -26,9 +26,10 @@ todo = "les TODO:, ttt sycosis, Pytiriasis capitis"
 - Prélèvement mycologique si:
   - Dermatophytose type teigne ou onychomycose
   - Atypie clinique ou doute diagnostique, lésions chroniques/récidivantes, résistance à un traitement adapté et bien observé
-  - À distance de toute thérapeutique (cutanée 15 jours, ongle 2 mois) pour examen direct et culture
+  - À distance de toute thérapeutique (cutanée 15 jours, ongle topique 2 mois) pour examen direct et culture
 - Traitement local sauf pour les teignes, candidoses buccales et vaginales, onyxis à dermatophytes avec atteinte matricielle et onyxis candidosiques
 - Prise en charge des mycoses courantes en première intention:
+  - Certaines atteintes être reconnues en maladie professionnelle (abattoir, laiterie, maître nageur, athlète ...)
   - Candidose buccale: miconazole 2% gel 2,5 mL x 4/j 7-14 jours, mesures associées
   - Candidose vaginale aiguë: fluconazole 150 mg dose unique (ou éconazole LP ovule 1-3 jours) ± éconazole vulvaire 14-28 jours
   - Intertrigo: éconazole 1% ou ciclopirox 1% crème x 2/j 14-28 jours, mesures associées
@@ -51,8 +52,8 @@ Dermatophytoses (ou tinea)
 : Genres les plus fréquents chez l'Homme: *Trichophyton*, *Microsporum*, *Nannizzia* et *Epidermophyton*. Espèces principales en France métropolitaine sur la peau et les ongles: *T. rubrum*, *T. mentagrophytes*, *T. interdigitale*, *T. tonsurans* et *M. canis*.
 
 Levuroses dont candidoses
-: Levures commensales très représentées par la famille *Candida*, le plus souvent bénignes mais favorisées par la pénombre, la chaleur et l'humidité.
-: Facteurs favorisants les candidoses - levuroses: grossesse, antibiotiques, [diabète](/tags/diabete/), immunodépression dont iatrogène (chimiothérapie cytotoxique, ciclosporine, anti-TNF ...).
+: Levures commensales très représentées par la famille *Candida*, le plus souvent bénignes mais favorisées par la pénombre, la chaleur et l'humidité. Une culture positive ne prouve pas son rôle pathogène.
+: Facteurs favorisants les candidoses-levuroses: grossesse, antibiotiques, [diabète](/tags/diabete/), immunodépression dont iatrogène (chimiothérapie cytotoxique, ciclosporine, anti-TNF ...).
 
 ### Abréviations
 
@@ -88,6 +89,8 @@ Zone centrale claire cicatricielle avec bourrelet périphérique squameux et vé
 
 [Éconazole 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62098492&typedoc=R) 1 application matin et soir pendant 14 à 21 jours
 {{%/info%}}
+
+> [Reconnaissance possible d'un herpès circiné en Maladie professionnelle dans le cadre du Tableau 46](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2046): filière viande, piscine, athlète, bâtiment.
 
 ### Pityriasis versicolor
 
@@ -146,10 +149,11 @@ Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athl�
 
 - [Éconazole 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62098492&typedoc=R) 1 application matin et soir pendant 14 à 28 jours  
   ou [ciclopirox olamine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63273126&typedoc=R) à la même posologie.
-- Lésions très étendues: terbinafine 250 mg cp (TODO:)
+- Lésions très étendues: terbinafine 250 mg 1 cp/j pendant 14 à 28 jours (*Bell-Syer 2012*)
 - Limiter la macération  
   Changement quotidien de sous-vêtements et chaussettes en coton, séchage soigneux, retirer le tapis de salle de bain.
 - **Ne pas utiliser:** talc, dermocorticoïdes, éosine et violet de gentiane (*Prescrire*)
+- [Reconnaissance possible d'un intertrigo en Maladie professionnelle dans le cadre du Tableau 46](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2046): piscine, athlète, bâtiment.
 {{%/info%}}
 
 **Diagnostic différentiel** d'un intertrigo: [dermatite atopique]({{< relref "dermatite-atopique.md" >}}), psoriasis inversé, [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}}), pityriasis rosé de Gibert, érythrasma (bactérie *Corynebacterium minutissimum* sensible aux antifongiques azolés).
@@ -164,6 +168,7 @@ Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athl�
 - Notion de contact avec des animaux ou une personne atteinte
 - Rechercher un contexte d'immunodépression
 - Aggravation par les dermocorticoïdes
+- [Reconnaissance possible d'une teigne en Maladie professionnelle dans le cadre du Tableau 46](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2046): filière viande, piscine, athlète, bâtiment.
 - **Diagnostic différentiel** des teignes: psoriasis, [eczéma]({{< relref "dermatite-atopique.md" >}}), [dermatite séborrhéique]({{< relref "dermatite-seborrheique.md" >}}), pelade, folliculite bactérienne ou abcès
 
 ### Teignes tondantes
@@ -196,6 +201,7 @@ La prise en charge d'un enfant de moins de 10 kg est hospitalière du fait de l'
   - <mark>Terbinafine 250 mg x 1/j pendant 28 jours (voir la section *Traitements* pour les doses)</mark>
   - Pour les enfants et -40 kg, voir les posologies dans la section plus bas [Traitements des mycoses](#traitements-des-mycoses)
   - Prolonger 2 semaines si amélioration partielle à 4 semaines avec une culture à *Microsporum*
+  - [Fiche SFD info patient terbinafine et itraconazole (SFD)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Bordereau-3_Prise-des-medicaments.pdf)
 - <mark>\+ éconazole ou ciclopirox olamine 1% crème x 2/j en même temps (28 jours)</mark>
 - Examiner l'entourage  
   Jusqu'à 50% de porteurs et traitement oral si atteints.
@@ -251,7 +257,7 @@ L'aspect pseudo-membraneux blanc (**muguet**) est le plus fréquent, souvent ass
 À partir de 4 mois: [miconazole 2% gel buccal (Daktarin®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69184289&typedoc=R) 1,25 mL 4 fois par jour après les repas pendant 7 à 14 jours
 {.alert .alert-info}
 
-### Balanite candidosique
+### Balanite et balano-posthite candidosique
 
 Tableau pauci-symptomatique. Début au niveau du sillon balanopréputial avec un érythème puis souvent des plaques blanchâtres du gland.  
 Extension possible au pénis, scrotum et l'aine chez l'obèse.
@@ -262,7 +268,8 @@ Diagnostic différentiel: infectieux ([syphilis secondaire]({{< relref "syphilis
 
 #### Prise en charge de la balanite candidosique
 
-[Éconazole 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62098492&typedoc=R) 1 application matin et soir pendant 14 à 21 jours + savon alcalin + examen partenaire
+- Prélèvement mycologique
+- [Éconazole 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62098492&typedoc=R) 1 application matin et soir pendant 14 à 21 jours (7 jours selon *CMIT*) + savon alcalin + examen partenaire
 {{%/info%}}
 
 Rechercher un [diabète]({{< relref "diabete-type-2.md" >}}) en cas de balanite candidosique sévère.
@@ -388,31 +395,41 @@ Les infections par dermatophytes des poils atteignent le plus souvent les **homm
 
 ### Onychomycoses ou mycoses des ongles (candidoses des ongles ou onyxis, mycose unguéale, dermatophytoses ou tinea unguium)
 
-Les onychomycoses à *Candida* atteignent surtout les mains des femmes (eau, produits ménagers, manucure). Inflammation péri-unguéale initiale (**périonyxis**, péri-onyxis ou paronychie) puis extension à l'ongle par le bord proximal (**onyxis**).
+> Seulement 18 à 50% des onychopathies sont mycosiques
 
-Les onychomycoses à dermatophytes (*T. rubrum* surtout) prédominent aux ongles des pieds avec l'onychomycose distolatérale (tâche jaunâtre du bord libre s'étendant vers la matrice). Épaississement et durcissement de l'ongle.  
+Les onychomycoses à *Candida* atteignent surtout les **mains** des femmes (eau, produits ménagers, manucure). Inflammation péri-unguéale initiale (**périonyxis**, péri-onyxis ou paronychie) puis extension à l'ongle par le bord proximal (**onyxis**).
+
+Les onychomycoses à dermatophytes (*T. rubrum* surtout) prédominent aux ongles des **pieds** avec l'onychomycose distolatérale (tâche jaunâtre du bord libre s'étendant vers la matrice): épaississement et durcissement de l'ongle.  
+Elle sont très fréquentes après 70 ans (30%) et ne guérissent jamais spontanément avec un risque de diffusion.
+
 Autres aspects d'onychomycoses: leuconychie superficielle (surface), proximale (matrice) ou onychomycodystrophie totale avec destruction totale.  
 [Photos d'onychomycose](https://dermnetnz.org/images/onychomycosis-images)
 
-#### Traitement de l'onychomycose
+Diagnostic différentiel: atteinte mécanique, psoriasis voire lichen plan ou tumeur maligne.
 
-Prise en charge des onychomycoses:
+#### Prise en charge de l'onychomycose
+
+Traitement des onychomycoses:
 
 - Prélèvement au laboratoire pour un traitement guidé
 - Contrôle des facteurs de risque  
-  Séchage des mains, limiter les contacts avec le sucre, les acides, les corticoïdes, les soins de manucure.
+  Séchage, ongles courts, limiter les contacts avec le sucre, les acides, les corticoïdes, les soins de manucure, protection en piscine.
 - Matrice épargnée
   1. Pédicure-podologue pour limage ou meulage initial
   2. Vernis unguéal [amorolfine 5%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68805138&typedoc=R) x 1-2/semaine ou [ciclopirox 8%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66640136&typedoc=R) x 1/j pendant 3 à 6 mois
   3. Éconazole des espaces interdigitoplantaires pour éviter une réinfection
-  4. Périonyxis important: fluconazole (TODO:)
-  5. Si échec: avulsion chimique par bifonazole 1% + urée 40% (Amycor Onychoset®) sous pansement occlusif pendant 1-3 semaines  
-    et relais par bifonazole seul pendant 4-8 semaines.
+  4. Périonyxis important: prélèvement, imidazolé local voire fluconazole (TODO:)
+  5. Si échec: avulsion chimique par bifonazole 1% + urée 40% (Amycor Onychoset®) sous pansement occlusif x 1/j pendant 1-3 semaines  
+    et relais par bifonazole seul 1% crème (Amycor®) pendant 4-8 semaines (ou jusqu'à repousse complète de l'ongle).
 - Atteinte matricielle
   - Traitement ci-dessus en complément des mesures suivantes
   - Avulsion chimique comme ci-dessus selon Prescrire
-  - \+ Traitement général: terbinafine 1 cp/j pendant 3 mois (onyxis des mains) ou 6 mois (onyxis des pieds) avec surveillance biologique adaptée (*Anofel*, 6 semaines à 3-6 mois selon les RCP)  
+  - \+ Traitement général: terbinafine 250 mg x 1/j pendant 3 mois (onyxis des mains) ou 6 mois (onyxis des pieds) avec surveillance biologique adaptée (*Anofel*, 6 semaines à 3-6 mois selon les RCP)  
     Si mauvaise tolérance: itraconazole voire fluconazole sur avis hospitalier.
+- Contrôle clinique à 3 mois  
+  Si doute sur la guérison: fenêtre thérapeutique de 3-6 mois avant nouveau contrôle clinique.
+
+> [Reconnaissance possible d'une onychomycose en Maladie professionnelle dans le cadre du Tableau 77](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2077).
 
 {{% /collapse %}}
 {{%collapse "Candidoses digestives" %}}
@@ -494,7 +511,14 @@ Traitement général de première intention.
 
 #### Terbinafine
 
-La terbinafine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60108678&typedoc=R), [interactions nombreuses](https://www.drugs.com/interaction/list/?drug_list=2161-0)) pour un traitement général est disponible en comprimés sécables avec une seule prise quotidienne pendant le repas.
+La terbinafine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60108678&typedoc=R), [interactions limitées](https://www.drugs.com/interaction/list/?drug_list=2161-0)) pour un traitement général est disponible en comprimés sécables avec une seule prise quotidienne pendant le repas.
+
+Éviter chez les professionnels du goût.
+
+[Fiche SFD info patient terbinafine et itraconazole (SFD)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Bordereau-3_Prise-des-medicaments.pdf)
+
+**Bilan hépatique** avant le traitement.  
+TODO: surveillance biologique
 
 {{< table title="Posologies de la terbinafine selon le poids. Dr JB Fron d'après SFD et al 2021" >}}
 | Poids (kg) | Posologie (mg) |
@@ -503,8 +527,6 @@ La terbinafine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichag
 | 21-40      | 125            |
 | 10-20      | 62,5           |
 {{< /table >}}
-
-TODO: surveillance biologique
 
 #### Polyènes Amphotéricine B
 
@@ -516,6 +538,8 @@ Effet topique digestif en l'absence d'absorption.
 
 La prescription initiale d'itraconazole est hospitalière
 {.alert .alert-warning}
+
+[Fiche SFD info patient terbinafine et itraconazole (SFD)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Bordereau-3_Prise-des-medicaments.pdf)
 
 {{< table title="Posologies de l'itraconazole selon le poids. Dr JB Fron d'après SFD et al 2021" >}}
 | Poids (kg) | Posologie (mg) |
@@ -551,12 +575,11 @@ graph TB
 - Prescrire Redaction. Intertrigo des grands plis. Prescrire. 2021.
 - Prescrire Redaction. Candidose vulvovaginale. Prescrire. 2021.
 - [Saxon GDGC. et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
+- [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. UE6 Item 152. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-152-nb.pdf)
 - Prescrire Redaction. Pityriasis versicolor. Prescrire. 2019.
 - [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 152 UE 6. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/11Item-152-UE6-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques.pdf)
-- [Haut conseil de la santé publique. Survenue de maladies infectieuses dans une collectivité. Conduites à tenir. 2012.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=306)
-
-### À lire
-
-- [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. UE6 Item 152. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-152-nb.pdf)
+- [Haut conseil de la santé publique (HCSP). Survenue de maladies infectieuses dans une collectivité. Conduites à tenir. 2012.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=306)
+- [Bell-Syer SE et al. Oral treatments for fungal infections of the skin of the foot. Cochrane Database Syst Rev. 2012.](https://pubmed.ncbi.nlm.nih.gov/23076898/)
+- [Chabasse D, SFD. Onychomycoses, recommandations pour les modalités de diagnostic et de prise en charge. Journal de Mycologie Médicale. 2007. (PDF)](https://www.sfdermato.org/upload/recommandations/onychomycoses-ea897f8482d176d93ec53661dbea2561.pdf)
 
 {{%/sources%}}

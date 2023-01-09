@@ -15,6 +15,8 @@ tags = []
 anglais = ["Splenomegaly"]
 sctid = "16294009"
 flowchart = true
+image = false
+imageSrc = ""
 todo = "SEO, source on flowchart, tableau avec anomalies biologiques"
 +++
 

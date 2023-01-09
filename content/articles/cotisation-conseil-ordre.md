@@ -21,7 +21,7 @@ La cotisation au Conseil National de l'Ordre des Médecins (CNOM) est **stable s
 
 Sur 20 ans (période 2001 - 2021), l'augmentation de la cotisation ordinale atteint presque **20%** (19,4%, corrigés de l'inflation). Sur la même période, le C n'a augmenté que de **8,6%** (22,3 € en 2001). Dès 2002, le C était déjà à la valeur actuelle (20€ soit l'équivalent 25,2 € de 2021).
 
-**NB.** Les valeurs corrigées de l'inflation ne peuvent être calculées pour 2022 et 2023 en l'absence de données Insee.
+**NB.** Les valeurs corrigées de l'inflation ne peuvent être calculées pour 2022 et 2023 en l'absence de données Insee pour le moment.
 
 ## Graphique
 

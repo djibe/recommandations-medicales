@@ -49,7 +49,7 @@ Elle est augmentée en cas d'inflammation (carence martiale peu probable si ferr
 {{< table title="Seuil du diagnostic de l'anémie au niveau de la mer. Dr JB Fron d'après OMS 2011" class="table-sm" >}}
 | Population (années) | Seuil (g/dL) |
 |--------------------:|-------------:|
-|            6 mois-4 | 11           |
+|        6 mois-4 ans | 11           |
 |                5-11 | 11           |
 |               12-14 | 12           |
 |       Femme &ge; 15 | 12           |

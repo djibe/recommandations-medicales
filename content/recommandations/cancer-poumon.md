@@ -240,7 +240,8 @@ Le traitement doit être démarré dans les 6 semaines qui suivent la réalisati
 
 ### À lire
 
-[ESMO Clinical Practice Guidelines](https://www.esmo.org/guidelines/guidelines-by-topic/lung-and-chest-tumours)
+- [ESMO Clinical Practice Guidelines](https://www.esmo.org/guidelines/guidelines-by-topic/lung-and-chest-tumours)
+- [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 10 TER](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2010%20TER), 20 BIS, 20 TER, 61 BIS
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}

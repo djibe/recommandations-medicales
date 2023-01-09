@@ -16,14 +16,14 @@ anglais = ["Carpal tunnel syndrome"]
 sctid = "57406009"
 image = true
 imageWEBP = true
-imageSrc = "scientificanimations.com, CC BY-SA 4.0"
+imageSrc = "Illustration du syndrome du canal carpien par scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
 todo = "SEO 'canal carpien emg', rec maladie pro"
 +++
 
 {{%article-summary%}}
 
-- Devant un tableau de syndrome du canal carpien, évoquer une [acromégalie]({{< relref "acromegalie.md" >}}) et une Maladie professionnelle
+- Syndrome du canal carpien: évoquer une [acromégalie]({{< relref "acromegalie.md" >}}) et une Maladie professionnelle
 - Signes de gravité du syndrome du canal carpien: déficit moteur de flexion du pouce, sensitif du dermatome et amyotrophie
 - Pas de bilan et prise en charge du canal carpien par une orthèse seule en première intention
 - La guérison est quasi systématique en cas de survenue pendant la grossesse
@@ -50,13 +50,26 @@ Pathologies à l'origine du tableau clinique:
 - Grossesse
 - Maladie de système ([polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}) ...)
 
+### Diagnostic différentiel du canal carpien
+
+Autres pathologies à étayer devant un tableau de syndrome du canal carpien:
+
+- Atteintes radiculaires C6-C7
+- Syndrome de la traversée thoraco-brachiale
+- Myélopathies cervicales
+- Plexopathies
+- Neuropathies périphériques
+- Rares compressions périphériques du nerf médian situées en amont du canal carpien
+- Acrosyndromes d'origine vasculaire
+- Paresthésies fonctionnelles de cause inconnue
+
 ### Épidémiologie du syndrome du canal carpien en France
 
 - Opérations: 140.000 chirurgies annuelles
-- Incidence: Femme 4-5 / 1000 et Homme 1-2 / 1000
+- Incidence: femme 4 à 5/1000 et homme 1 à 2/1000
 - Prévalence
   - Chez le diabétique: 14% sans neuropathie, 30% avec
-  - Grossesse: 7 - 62% avec régression spontanée après l'accouchement
+  - Grossesse: 7 à 62% avec régression spontanée après l'accouchement
 - 2<sup>e</sup> cause de *Maladie professionnelle* (MP)  
 - Ouvriers, 75% seraient provoqués par leur métier.  
   La sous-déclaration en Maladie Professionnelle atteindrait les 60%.
@@ -123,20 +136,6 @@ Symptômes nécessitant des examens en semi-urgence:
   Anti-aromatases (anastrozole, exémestane, létrozole), fluoroquinolones, biphosphonates, anticoagulants oraux, hormone de croissance.
 
 Si survient pendant la grossesse, 50% guérison à 1 an.
-
-{{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-Autres pathologies à étayer devant un tableau de syndrome du canal carpien:
-
-- Atteintes radiculaires C6-C7
-- Syndrome de la traversée thoraco-brachiale
-- Myélopathies cervicales
-- Plexopathies
-- Neuropathies périphériques
-- Rares compressions périphériques du nerf médian situées en amont du canal carpien
-- Acrosyndromes d'origine vasculaire
-- Paresthésies fonctionnelles de cause inconnue
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

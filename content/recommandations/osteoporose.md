@@ -21,7 +21,7 @@ slider = true
 image = true
 imageWEBP = true
 imageSrc = "Illustration de l'ostéoporose par BruceBlaus, CC BY-SA 4.0 via Wikimedia Commons"
-todo = "lire recos, https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, HAS 2005 chutes, prescription renforcement musculaire, dose THM prev osseuse, https://www.endocrine.org/clinical-practice-guidelines/bone-health-and-osteoporosis"
+todo = "rankok, lire recos, https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, HAS 2005 chutes, prescription renforcement musculaire, dose THM prev osseuse, https://www.endocrine.org/clinical-practice-guidelines/bone-health-and-osteoporosis"
 +++
 
 {{%article-summary%}}

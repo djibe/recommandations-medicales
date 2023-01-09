@@ -17,7 +17,7 @@ image = true
 imageSrc = "Illustration de la vitamine D par pch.vector / Freepik"
 sctid = "30178006"
 flowchart = true
-todo = "calcium enfant dans screenshots"
+todo = "rankok, calcium enfant dans screenshots"
 +++
 
 {{%article-summary%}}

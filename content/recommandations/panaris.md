@@ -16,6 +16,7 @@ sctid = "32021005"
 image = true
 imageSrc = "Panaris avec composante inflammatoire et collectée par Uwe Jendricke, Public domain, via Wikimedia Commons"
 flowchart = true
+todo = "rankok"
 +++
 
 {{%article-summary%}}
@@ -93,7 +94,7 @@ Mesures générales de prise en charge du panaris:
 
 - Recherche et traitement de la porte d'entrée
 - Antalgie par paracétamol
-- Proscrire: AINS, antibiotiques cutanés
+- Ne pas utiliser: AINS, antibiotiques cutanés
 - Vérification du statut vaccinal antitétanique
 - Réévaluation clinique à 48 heures
 - Éducation sur l'hygiène des mains
@@ -102,11 +103,11 @@ Mesures générales de prise en charge du panaris:
 
 ### Stade inflammatoire: traitement du panaris
 
-Bains de chlorhexidine 2 à 3 fois par jour
+Bains antiseptiques de chlorhexidine 2 à 3 fois par jour
 {.alert .alert-info}
 
-Selon Prescrire®: Bains dans l'eau chaude 10-15 minutes x 3-4/jour.  
-Antibioclic: Bains antiseptiques pluriquotidiens (x 2-3 /jour)  
+Selon Prescrire®: Bains dans l'eau chaude 10-15 minutes x 3-4/j.  
+Antibioclic: Bains antiseptiques pluriquotidiens (x 2-3/j)  
 {{%class%}}type povidone iodée Bétadine®, hexamidine Hexomédine®, chlorhexidine aqueuse Biseptine®{{%/class%}}
 
 ### Antibiothérapie ambulatoire

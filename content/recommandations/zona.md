@@ -15,7 +15,7 @@ anglais = ["Herpes zoster"]
 sctid = "4740000"
 image = true
 imageSrc = "Photo d'un zona thoracique par Gzzz, CC BY-SA 4.0"
-todo = "flowchart, zona en pédiatrie"
+todo = "rankok, flowchart, zona en pédiatrie"
 +++
 
 {{%article-summary%}}

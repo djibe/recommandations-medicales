@@ -16,7 +16,7 @@ anglais = ["Sinusitis"]
 sctid = "36971009"
 flowchart = true
 image = true
-imageSrc = "Photo de NIAID sur Foter.com / CC BY"
+imageSrc = "Illustration des sinus par NIAID sur Foter.com / CC BY"
 todo = "SEO, https://www.sforl.org/wp-content/uploads/2020/02/recoRSIA.pdf, indications scanner, sources prescrire"
 +++
 

@@ -15,7 +15,7 @@ anglais = ["Subclinical hypothyroidism"]
 sctid = "54823002"
 flowchart = true
 image = true
-imageSrc = "Photo de National Institutes of Health (NIH) sur Foter.com / CC BY-NC"
+imageSrc = "Illustration de la thyroïde par le National Institutes of Health (NIH) sur Foter.com / CC BY-NC"
 todo = "read MAJ https://www.em-select.com/article/1229908, simplifier ?"
 +++
 

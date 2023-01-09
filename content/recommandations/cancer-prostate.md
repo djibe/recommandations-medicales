@@ -271,7 +271,8 @@ graph TB
 
 ### À lire
 
-[Horwich A. et al. Prostate cancer: ESMO Consensus Conference Guidelines 2012. Annals of Oncology. 2012.](https://www.annalsofoncology.org/article/S0923-7534(19)37245-X/fulltext)
+- [Horwich A. et al. Prostate cancer: ESMO Consensus Conference Guidelines 2012. Annals of Oncology. 2012.](https://www.annalsofoncology.org/article/S0923-7534(19)37245-X/fulltext)
+- [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 102](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%20102)
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}

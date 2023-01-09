@@ -14,6 +14,8 @@ tags = ["depistage", "HSH", "IST", "prevention", "VIH"]
 anglais = ["Syphilis"]
 sctid = "76272004"
 flowchart = true
+image = false
+imageSrc = ""
 todo = "Prescrire cite la ceftriaxone IM 1g/j 10 à 14j"
 +++
 

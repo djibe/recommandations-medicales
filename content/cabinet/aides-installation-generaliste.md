@@ -58,7 +58,7 @@ En dehors des aides auxquelles ont est en droit de prétendre lorsqu'on travaill
 
 Cartographies pour l'aide à l'installation des médecins généralistes avec le zonage et les différentes aides (ARS, Assurance Maladie, aide de la région ...)
 
-- [Rézone - les zones sous-denses et les aides par zone](http://rezone.ameli.fr/rezone/cartoMed.html) (pas à jour avec données 2022)
+- [Rézone - les zones sous-denses et les aides par zone](http://rezone.ameli.fr/rezone/cartoMed.html) (n'a pas les mêmes données que les ARS)
 - [c@rtoSanté](https://cartosante.atlasante.fr/#c=report&chapter=omni&report=r01&selgeo1=dep.92&selgeo2=fra.99)
 - Zonage régional des ARS
   - [Île-de-France](https://santegraphie.fr/mviewer/?config=app/zonage_medecin.xml#)

@@ -1,5 +1,5 @@
 +++
-title = "Affections de longue durée"
+title = "Affections de longue durée (ALD)"
 prefix = "les "
 noindex = true
 titleSeo = "Affections de longue durée"
@@ -16,7 +16,7 @@ tags = []
 anglais = ["Chronic disease"]
 sctid = "27624003"
 image = false
-imageSrc = "Illustration par pch.vector / Freepik"
+imageSrc = ""
 todo= "TODO: summary, Affections psychiatriques de longue durée"
 +++
 

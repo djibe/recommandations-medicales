@@ -27,7 +27,7 @@ todo = "suivi de pso en goutte"
   - Adulte: amoxicilline 1g x 2/j pendant 6 jours
   - Enfant: amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises/j pendant 6 jours
 - La prise en charge pédiatrique en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
-- Le Streptatest peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si TROD angine positif, sous 7 jours calendaires >> (*[Arrêté du 13/12/21](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044483134)*)
+- Le Streptatest peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si TROD/TDR/Streptatest angine positif, sous 7 jours calendaires >> (*[Arrêté du 13/12/21](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044483134)*)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -52,6 +52,15 @@ Les complications sont locales voire générales:
 - Glomérulonéphrite aiguë post-streptococcique (GNA)
 
 > << Les angines à SGA évoluent le plus souvent favorablement en 3-4 jours même en l'absence de traitement antibiotique. Cependant, elles peuvent donner lieu à des complications potentiellement graves (syndromes post-streptococciques: rhumatisme articulaire aigu (RAA), glomérulonéphrite aiguë (GNA), et complications septiques loco-régionales dont la prévention justifie la mise en œuvre d'une antibiothérapie. >> (*Collège*)
+
+### Abréviations
+
+TDR
+: test de diagnostic rapide
+
+TROD
+: test rapide d'orientation diagnostique
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -87,9 +96,12 @@ Pour mieux visualiser les amygdales, demander à l'enfant de rugir comme un lion
 {{% /collapse %}}
 {{%collapse "Score de Mac Isaac" %}}
 
+Mc Isaac ou Mac Isaac
+{.text-black-secondary}
+
 {{< scores/mac-isaac >}}
 
-Le TDR peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si TROD angine positif, sous 7 jours calendaires >>.
+Le test de diagnostic rapide (TDR) peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si TROD angine positif, sous 7 jours calendaires >>.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'angine" %}}
@@ -187,7 +199,7 @@ Rechercher:
 graph TB
   angine[Angine érythémateuse<br>ou érythémato-pultacée] --> moins3("&lt; 3 ans") --> viral(Viral)
   style angine stroke:#4150f5, stroke-width:1px
-    angine --> 314ans(3 à 14 ans) --> TDR(TDR) -- "Positif" --> ATB("<b>Antibiothérapie 6j</b><hr>Adulte: amoxicilline 1g x 2/j<br>Enfant: amox 25 mg/kg x 2/j")
+    angine --> 314ans(3 à 14 ans) --> TDR(TDR) -- "Positif" --> ATB("<b>Antibiothérapie 6 jours</b><hr>Adulte: amoxicilline 1g x 2/j<br>Enfant: amox 25 mg/kg x 2/j")
       TDR -- Négatif --> viral
     angine --> 15plus("&ge; 15 ans") --> score(Mac Isaac) -- "&ge; 2" --> ATB
       score -- "&lt; 2" --> viral

@@ -14,8 +14,8 @@ tags = ["TSH"]
 anglais = ["Vitiligo"]
 sctid = "56727007"
 image = true
-imageSrc = "Photo de vitiligo des mains par James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "BAD Figure 1"
+imageSrc = "Vitiligo des mains par James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
+todo = "rankok, BAD Figure 1"
 +++
 
 {{%article-summary%}}

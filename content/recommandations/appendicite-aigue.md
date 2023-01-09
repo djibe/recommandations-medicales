@@ -15,7 +15,7 @@ anglais = ["Acute appendicitis"]
 sctid = "85189001"
 image = true
 imageSrc = "Appendicite terminale avec pus intraluminal chez un garçon de 7 ans avec douleurs abdominales depuis 2 jours. Cas de Maulik S Patel, Radiopaedia.org, rID: 16751"
-todo = "flowchart, https://www.sciencedirect.com/science/article/pii/B9782294759710000298, relecture leon.maggiori@aphp"
+todo = "rankok, flowchart, https://www.sciencedirect.com/science/article/pii/B9782294759710000298, relecture leon.maggiori@aphp"
 +++
 
 {{%article-summary%}}

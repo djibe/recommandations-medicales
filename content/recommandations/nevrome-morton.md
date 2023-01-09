@@ -16,7 +16,7 @@ tags = []
 anglais = ["Morton's metatarsalgia"]
 sctid= "30085007"
 image = true
-imageSrc = "Photo de gm.esthermax sur Foter.com"
+imageSrc = "Zone œdématiée en regard des métatarsiens par gm.esthermax sur Foter.com"
 todo = "SEO"
 +++
 

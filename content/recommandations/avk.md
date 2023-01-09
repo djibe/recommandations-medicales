@@ -17,7 +17,7 @@ anglais = ["Antivitamin k"]
 sctid = "419847008"
 image = false
 imageSrc = ""
-todo = "adapt doses"
+todo = "rename, adapt doses"
 +++
 
 {{%collapse "Les spécialités d'antivitamine K" %}}

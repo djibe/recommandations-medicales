@@ -5,7 +5,7 @@ noindex = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-22T19:15:00+02:00"
 publishdate = "2022-07-23"
-lastmod = "2022-07-23"
+lastmod = "2023-01-06"
 specialites = []
 sources = []
 tags = []
@@ -20,7 +20,7 @@ Modèles et particularités des lecteurs de carte vitale et de carte CPS homolog
 
 Les dernières recommandations SESAM-Vitale préconisent l'utilisation de lecteurs de carte à puce (dit standard PC/SC ou Smart Card) qui utilisent des standards internationaux. Cependant, on ne pourra avoir recours qu'à des lecteurs certifiés par le GIE Sesam-Vitale en version 1.40.
 
-Modèles de lecteurs combinés bifentes (carte CPS et carte vitale) pour le cabinet en juillet 2022:
+Modèles de lecteurs combinés bifentes (carte CPS et carte vitale) pour le cabinet en janvier 2023:
 
 - Olaqin: ICT 250, IHC 610, IWL 250, IWL 280, IHC 951, MOVE/5000
 - Kapelse: Kap&Link 2, Kap&Link
@@ -28,7 +28,7 @@ Modèles de lecteurs combinés bifentes (carte CPS et carte vitale) pour le cabi
 {.list-group}
 
 > *[GIE Sesam Vitale. Liste des dernières versions d'applications de lecteurs SESAM-Vitale
-homologués du mois de juillet 2022. (PDF)](https://industriels.sesam-vitale.fr/documents/10192/3574897/Liste+des+derni%C3%A8res+versions+d%27applications+de+lecteurs+homologu%C3%A9s+SESAM-Vitale)*
+homologués du mois de janvier 2023. (PDF)](https://industriels.sesam-vitale.fr/documents/10192/3574897/Liste+des+derni%C3%A8res+versions+d%27applications+de+lecteurs+homologu%C3%A9s+SESAM-Vitale)*
 
 Pour les modèles dits *auto-déclarés compatibles*, vérifier auprès de l'éditeur de votre logiciel médical qu'il est compatible.  
 Certains sont monofente, nécessitant alors d'être achetés par paire pour lire chaque carte à puce (carte vitale ET carte CPS).
@@ -43,7 +43,7 @@ Modèles de lecteurs de cartes vitales pour les visites (autonomes dits TLA pour
 {.list-group}
 
 > *[GIE Sesam Vitale. Liste des dernières versions d'applications de lecteurs SESAM-Vitale
-homologués du mois de juillet 2022. (PDF)](https://industriels.sesam-vitale.fr/documents/10192/3574897/Liste+des+derni%C3%A8res+versions+d%27applications+de+lecteurs+homologu%C3%A9s+SESAM-Vitale)*
+homologués du mois de janvier 2023. (PDF)](https://industriels.sesam-vitale.fr/documents/10192/3574897/Liste+des+derni%C3%A8res+versions+d%27applications+de+lecteurs+homologu%C3%A9s+SESAM-Vitale)*
 
 La liste est consultable sur le [site du GIE Sesam-Vitale](https://www.sesam-vitale.fr/web/sesam-vitale/catalogue-produits).
 

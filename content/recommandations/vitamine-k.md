@@ -14,7 +14,8 @@ tags = ["nourrisson"]
 anglais = ["Vitamin K"]
 sctid = "65183007"
 image = false
-todo = "image, SEO 'vitamine k1 nourrisson'"
+imageSrc = ""
+todo = "rankok, image, SEO 'vitamine k1 nourrisson'"
 +++
 
 {{%article-summary%}}

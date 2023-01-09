@@ -1,7 +1,7 @@
 baseURL = "https://recomedicales.fr/"
 # canonifyURLs = false
 # relativeURLs = true
-copyright = "© 2019-2022 par Jean-Baptiste FRON sous license CC BY-NC 4.0"
+copyright = "© 2019-2023 par Jean-Baptiste FRON sous license CC BY-NC 4.0"
 DefaultContentLanguage = "fr"
 disableHugoGeneratorInject = false
 enableInlineShortcodes = true

@@ -18,7 +18,7 @@ sctid = "50711007"
 flowchart = true
 image = true
 imageWEBP = true
-imageSrc = "scientificanimations.com, CC BY-SA 4.0"
+imageSrc = "Illustration de l'hépatite C par scientificanimations.com, CC BY-SA 4.0"
 todo = "SEO 'charge virale hepatite c', symptômes/fatigue, signes d'insuffisance hépatique, signes de cirrhose, hépatoprotection"
 +++
 
@@ -339,7 +339,8 @@ graph TB
 
 ### À lire
 
-{{< references/afef-foie-non-invasif >}}
+- {{< references/afef-foie-non-invasif >}}
+- [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 45](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2045)
 
 {{%/sources%}}
 {{% modal title="Vaccination anti-pneumococcique" id="modal-vaccin-pneumocoque"%}}

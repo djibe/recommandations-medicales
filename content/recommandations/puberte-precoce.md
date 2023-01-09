@@ -13,6 +13,8 @@ tags = ["enfant", "adolescent"]
 anglais = ["Precocious puberty"]
 sctid = "400179000"
 flowchart = true
+image = false
+imageSrc = ""
 todo = "Avances pubertaires dissociées"
 +++
 

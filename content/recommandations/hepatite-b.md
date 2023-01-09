@@ -235,6 +235,7 @@ Suivi minimum des patients AgHBs + non traités, en l'absence de, cirrhose et en
 
 ### À lire
 
-{{< references/afef-foie-non-invasif >}}
+- {{< references/afef-foie-non-invasif >}}
+- [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 45](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2045)
 
 {{%/sources%}}
