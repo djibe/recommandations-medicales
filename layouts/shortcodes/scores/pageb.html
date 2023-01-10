@@ -1,0 +1,67 @@
+<div class="my-4" id="score-pageb">
+  <h3 class="card-title">Score <abbr title="Plaquettes, âge, genre">PAGE-B</abbr> pour le repérage des personnes à risque de carcinome hépatocellulaire (CHC)</h3>
+  <fieldset class="mt-4">
+    <legend>1. Âge (années)</legend>
+    <input type="radio" id="pageb-11" name="radio-pageb-1" class="d-input-none" value="0" required>
+    <label for="pageb-11" class="chip chip-action chip-sm chip-choice">16-29</label>
+    <input type="radio" id="pageb-12" name="radio-pageb-1" class="d-input-none" value="2">
+    <label for="pageb-12" class="chip chip-action chip-sm chip-choice">30-39</label>
+    <input type="radio" id="pageb-13" name="radio-pageb-1" class="d-input-none" value="4">
+    <label for="pageb-13" class="chip chip-action chip-sm chip-choice">40-49</label>
+    <input type="radio" id="pageb-14" name="radio-pageb-1" class="d-input-none" value="6">
+    <label for="pageb-14" class="chip chip-action chip-sm chip-choice">50-59</label>
+    <input type="radio" id="pageb-15" name="radio-pageb-1" class="d-input-none" value="8">
+    <label for="pageb-15" class="chip chip-action chip-sm chip-choice">60-69</label>
+    <input type="radio" id="pageb-16" name="radio-pageb-1" class="d-input-none" value="10">
+    <label for="pageb-16" class="chip chip-action chip-sm chip-choice">&ge; 70</label>
+  </fieldset>
+  <fieldset class="mt-4">
+    <legend>2. Sexe</legend>
+    <input type="radio" id="pageb-21" name="radio-pageb-2" class="d-input-none" value="6" required>
+    <label for="pageb-21" class="chip chip-action chip-sm chip-choice">Homme</label>
+    <input type="radio" id="pageb-22" name="radio-pageb-2" class="d-input-none" value="0">
+    <label for="pageb-22" class="chip chip-action chip-sm chip-choice">Femme</label>
+  </fieldset>
+  <fieldset class="mt-4">
+    <legend>3. Plaquettes (G/L)</legend>
+    <input type="radio" id="pageb-31" name="radio-pageb-3" class="d-input-none" value="0" required>
+    <label for="pageb-31" class="chip chip-action chip-sm chip-choice">&ge; 200</label>
+    <input type="radio" id="pageb-32" name="radio-pageb-3" class="d-input-none" value="6">
+    <label for="pageb-32" class="chip chip-action chip-sm chip-choice">100-199</label>
+    <input type="radio" id="pageb-33" name="radio-pageb-3" class="d-input-none" value="9">
+    <label for="pageb-33" class="chip chip-action chip-sm chip-choice">&lt; 100</label>
+  </fieldset>
+  <div class="alert bg-light d-flex mt-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline score-output-title">PAGE-B</p>
+      <output class="score-output" id="pagebScore">0</output>
+    </div>
+    <p id="pagebText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  </div>
+</div>
+<blockquote>
+  <p>
+    <a href="" rel="external nofollow noopener"></a>
+  </p>
+</blockquote>
+{{ $script := `
+  // Score PAGE-B by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scorePageb = document.getElementById('pagebScore')
+    const textPageb = document.getElementById('pagebText');
+    [...document.querySelectorAll('#score-pageb input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcPageb() ) })
+    const calcPageb = () => {
+      let score = 0
+      const elemsChecked = document.querySelectorAll('#score-pageb input[type=\"radio\"]:checked')
+      elemsChecked.forEach(elemChecked => {
+        score += parseInt(elemChecked.value, 10)
+        if (elemsChecked.length === 3) {
+          scorePageb.innerHTML = score
+          if (score <= 9) { textPageb.innerHTML = "Risque de CHC quasi nul (à 5 ans)" }
+          else if (score >= 10 && score <= 17) { textPageb.innerHTML = "Risque de CHC intermédiaire (3% à 5 ans)" }
+          else if (score >= 18) { textPageb.innerHTML = "Risque de CHC élevé (17% à 5 ans)" }
+        }
+      })
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>

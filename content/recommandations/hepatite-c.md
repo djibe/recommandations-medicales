@@ -8,9 +8,9 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Comité de l'AFEF"
 date = "2020-09-06T20:18:41+02:00"
 publishdate = "2020-09-06"
-lastmod = "2022-10-12"
+lastmod = "2023-01-10"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2019"
+annees = "2020"
 sources = ["AFEF", "HAS"]
 tags = ["depistage", "fatigue", "hepatite", "IST", "prurit", "VIH"]
 anglais = ["Viral hepatitis type C"]
@@ -65,7 +65,7 @@ VHC
 
 ### Épidémiologie de l'hépatite C
 
-#### Épidémiologie en France
+#### Épidémiologie de l'hépatite C en France
 
 - **Décès:** 2700 morts/an
 - Sous-diagnostic: 1 personne sur 2 n'est pas diagnostiquée  
@@ -331,6 +331,7 @@ graph TB
 
 [Vidéos de l'AFEF sur l'hépatite C](https://www.youtube.com/channel/UCgWEPppp0YbWbvpcWoXd9fg/search?query=h%C3%A9patite%20C)
 
+- {{< references/afef-foie-non-invasif >}}
 - [HAS. Hépatite C - Panorama](https://www.has-sante.fr/jcms/p_3261788/fr/hepatite-c)
 - [HAS. Hépatite C : prise en charge simplifiée chez l'adulte. Mars 2019 MAJ Septembre 2019.](https://www.has-sante.fr/jcms/c_2911891/fr/hepatite-c-prise-en-charge-simplifiee-chez-l-adulte)
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
@@ -339,7 +340,6 @@ graph TB
 
 ### À lire
 
-- {{< references/afef-foie-non-invasif >}}
 - [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 45](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2045)
 
 {{%/sources%}}
