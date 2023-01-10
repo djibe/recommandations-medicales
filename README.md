@@ -68,7 +68,7 @@ et aussi...
 - La certification des Sociétés savantes (en cours avec GRIO, Club Jeunes Hypertensiologues)
 - La certification des autorités (HAS ...)
 
-## Utiliser le projet sur votre PC
+## 🛠️ Utiliser le projet sur votre PC
 
 Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans le projet, suivez le guide.
 

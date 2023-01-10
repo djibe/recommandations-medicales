@@ -271,7 +271,7 @@ Indications: valve mécanique avec AVK ou enfant traité par AVK ayant bénéfic
 - Contrôle de l'INR tous les 6 mois
 - Discordance si différence TROD - INR > 15%
 
-{{< video poster="https://roche63-h.assetsadobe2.com/is/image/content/dam/diagnostics/fr/videos/biologie-délocalisee/vignette_video_INRange_patients.jpg" mp4="https://gateway-eu.assetsadobe.com/DMGateway/public-ssl/roche63/_renditions_/bdc/bdce5fe6-267f-40c9-8692-7679aaa5abb3/avs/Coaguchek%20INRange-0x720-3000k.mp4" description="Système CoaguChek pour l'autosurveillance de l'INR" width="768" height="432" >}}
+{{< video poster="https://roche63-h.assetsadobe2.com/is/image/content/dam/diagnostics/fr/videos/biologie-délocalisee/vignette_video_INRange_patients.jpg" mp4="https://gateway-eu.assetsadobe.com/DMGateway/public-ssl/roche63/_renditions_/bdc/bdce5fe6-267f-40c9-8692-7679aaa5abb3/avs/Coaguchek%20INRange-0x720-3000k.mp4" description="Système CoaguChek pour l'autosurveillance de l'INR" >}}
 
 {{% /collapse %}}
 {{%sources%}}

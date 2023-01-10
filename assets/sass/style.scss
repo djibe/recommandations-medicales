@@ -1,9 +1,9 @@
 @import "../css/material-purge";
 
 :root {
-  --bg-rgb: 65, 80, 245;
+  --bg-rgb: 65 80 245;
   --bg-hex: #ecedfe;
-  --bg-secondary-rgb: 232, 117, 0;
+  --bg-secondary-rgb: 232 117 0;
   --bg-secondary-hex: #fef3de;
   --article: #af34dc;
   --bg-article-hex: #f7eafb;
@@ -161,6 +161,8 @@ mark {
   align-items: center;
   overflow-x: scroll;
   video {
+    aspect-ratio: 16/9;
+    width: 100%;
     max-width: 100%;
   }
 }

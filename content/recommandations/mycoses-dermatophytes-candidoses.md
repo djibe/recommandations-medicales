@@ -571,7 +571,7 @@ graph TB
 - Anofel. Parasitoses et mycoses des régions tempérées et tropicales. 2022.
 - Prescrire Redaction. Teignes du cuir chevelu. Prescrire. 2022.
 - [ANSM. Traitement de la teigne de l'enfant et indisponibilité de la griséofulvine : l'ANSM précise la conduite à tenir. 19/07/2021.](https://ansm.sante.fr/actualites/traitement-de-la-teigne-de-lenfant-et-indisponibilite-de-la-griseofulvine-lansm-precise-la-conduite-a-tenir)
-- [Société Française de Dermatologie, GPIP, SFDP, SPILF, SFMM. Algorithme. Centre de preuves en dermatologie. 2021. (PDF)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Algorithme_teignes_2021-06-22.pdf)
+- [Société Française de Dermatologie, GPIP, SFDP, SPILF, SFMM. Algorithme. Centre de preuves en dermatologie. 2021.](https://centredepreuves.sfdermato.org/#hot-topics)
 - Prescrire Redaction. Intertrigo des grands plis. Prescrire. 2021.
 - Prescrire Redaction. Candidose vulvovaginale. Prescrire. 2021.
 - [Saxon GDGC. et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)

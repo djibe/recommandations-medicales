@@ -33,7 +33,7 @@ todo = "SEO 'sevrage alcoolique has', simplifier, remarques mail, KEY x3 sevrage
 - 0 alcool pendant la grossesse et chez les enfants
 - Mésusage: 1 homme sur 3 et 1 femme sur 6
 - Prise en charge des co-addictions (tabac, cannabis), complications somatiques et troubles psychiatriques ([MonPsy]({{< relref "remboursement-psychologue-monpsy.md" >}}), dépression, anxiété...)
-- Dépister la Maladie du foie liée à l'alcool (MFLA): ≥ 14 verres/semaine et/ou âge ≥ 40 ans ET score AUDIT-C pathologique (voir *Évaluation d'une consommation*) par test de fibrose hépatique (Fibroscan® ou biologique Fibrotest® ou Fibromètre Alcool). Arrêt du tabac et lutte surpoids, suivi addictologique
+- Dépister la Maladie du foie liée à l'alcool (MFLA): ≥ 14 verres/semaine et/ou âge ≥ 40 ans ET score AUDIT-C pathologique (voir *Évaluation d'une consommation*) par test de fibrose hépatique (FibroScan® ou biologique Fibrotest® ou Fibromètre Alcool). Arrêt du tabac et lutte surpoids, suivi addictologique
 - Accepter l'objectif de consommation du sujet car toute réduction de consommation est positive. + efficace: auto-évaluation quotidienne de la consommation
 - Abstinence est préférable en dépendance à l'alcool ou comorbidités. Si non souhaitée, accompagnement vers la réduction des dommages
 
@@ -277,7 +277,7 @@ Le bilan biologique est annuel:
 - Sérologies [hépatite B]({{< relref "hepatite-b.md" >}}) et [hépatite C]({{< relref "hepatite-c.md" >}})
 - Sérologie VIH si expositions à risque
 - Occasionnel: glycémie à jeun et bilan lipidique
-- Si MFLA: Fibroscan® ou biologique (Fibrotest® ou Fibromètre Alcool®)  
+- Si MFLA: FibroScan® ou biologique (Fibrotest® ou Fibromètre Alcool®)  
   Interprétation des résultats selon les taux d'ASAT et bilirubine.
 - Consultation ORL
 - Consultation dentaire
@@ -296,7 +296,7 @@ ET/OU consommation déclarée ≥ 14 verres/semaine
 #### Critères diagnostiques de la maladie du foie liée à l'alcool
 
 **Diagnostic de MFLA devant: mésusage de l'alcool, cytolyse 2-5N prédominant sur les ASAT, GGT augmentées, élimination des autres hépatopathies.**  
-En cas de MFLA: test non invasif de fibrose hépatique systématique (**Fibroscan® ou biologique: Fibrotest® ou Fibromètre Alcool®**), arrêt du tabac et correction d'un surpoids, **suivi addictologique spécialisé**.
+En cas de MFLA: test non invasif de fibrose hépatique systématique (**FibroScan® ou biologique: Fibrotest® ou Fibromètre Alcool®**), arrêt du tabac et correction d'un surpoids, **suivi addictologique spécialisé**.
 
 Un bilan hépatique normal permet d'exclure une MFLA significative à court terme.  
 L'échographie hépatique n'a pas d'intérêt pour dépister une MFLA.

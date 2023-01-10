@@ -77,7 +77,7 @@ Effets indésirables du méthotrexate lors d'une immunosuppression:
   - Pneumopathie interstitielle  
     Peut survenir à tout moment même à faible dose. Évoquer devant toux sèche, dyspnée, fièvre.
 
-**NB.** << Fibrose hépatique non démontrée (selon les études récentes avec le Fibroscan) à l'exception des malades à risque de fibrose hépatique (alcool, syndrome métabolique) >> (*SNFGE*)
+**NB.** << Fibrose hépatique non démontrée (selon les études récentes avec le FibroScan) à l'exception des malades à risque de fibrose hépatique (alcool, syndrome métabolique) >> (*SNFGE*)
 
 {{% /collapse %}}
 {{%collapse "Surveillance biologique du méthotrexate" %}}

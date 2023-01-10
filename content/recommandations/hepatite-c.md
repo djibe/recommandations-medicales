@@ -171,10 +171,10 @@ Par le spécialiste ou sur prescription pour un traitement ambulatoire.
 
 Test non invasif en première intention:
 
-- Élasticité hépatique échographique: Fibroscan®  
+- Élasticité hépatique échographique: FibroScan®  
   - Absence de maladie sévère si résultat < 10 kPa
   - [Remb. 100% en ALD x 1/an](https://www.aideaucodage.fr/ccam-hlqm002)
-  - Fibroscan® le plus proche: appeler {{<phone>}}0 800 004 372{{</phone>}}
+  - FibroScan® le plus proche: appeler {{<phone>}}0 800 004 372{{</phone>}}
 - Tests sanguins
   - FibroTest®  
     Absence de maladie sévère si résultat ≤ 0,58.  
@@ -200,7 +200,7 @@ Prise en charge de l'hépatite C par antiviraux à action directe possible par t
 - Absence d'insuffisance rénale sévère
 - Absence de comorbidité hépatique mal contrôlée
 - Absence de maladie hépatique sévère  
-  {{%class%}}Objectivée par Fibroscan®, FibroTest® ou Fibromètre®.{{%/class%}}
+  {{%class%}}Objectivée par FibroScan®, FibroTest® ou Fibromètre®.{{%/class%}}
 - Bilan clinique et complémentaire sans anomalie majeure (voir *Clinique* et *Examens complémentaires*)
 
 ### Mesures générales

@@ -562,7 +562,7 @@ graph TB
 
 ### Vidéos du GRIO sur l'ostéoporose
 
-{{< video mp4="https://media.frequencemedicale.com/JDF/EM223/20221004_JDF_OSTEOPOROSE.mp4" description="Ostéoporose : nouvelles stratégies thérapeutiques (Pr Briot, Pr Cortet par FréquenceMédicale)" width="600" height="330" >}}
+{{< video mp4="https://media.frequencemedicale.com/JDF/EM223/20221004_JDF_OSTEOPOROSE.mp4" description="Ostéoporose : nouvelles stratégies thérapeutiques (Pr Briot, Pr Cortet par FréquenceMédicale)" >}}
 
 {{< card-link-external title="l'ostéoporose avant làménopause" url="http://www.grio.org/membres/video-osteo-avant-menopause.php" subtitle="Pr Breuil et Trémollières">}}
 

@@ -402,9 +402,9 @@ Pour en savoir plus, regarder le webinaire SPLF dans la section suivante (*Pour 
 
 *Pour la planète, sur la vidéo faites: clic droit > Enregistrer la vidéo sous*
 
-{{< video poster="https://splf.fr/wp-content/uploads/2021/11/Webinaire-2021-11-16-v2-1300-500.png" mp4="https://docs.splf.fr/videos/Webinaires/2021/Webinaire-SPLF-2021-11-16.mp4" description="Webinaire SPLF: Tabac comment aider nos patients à arrêter de fumer" width="600" height="330" >}}
+{{< video poster="https://splf.fr/wp-content/uploads/2021/11/Webinaire-2021-11-16-v2-1300-500.png" mp4="https://docs.splf.fr/videos/Webinaires/2021/Webinaire-SPLF-2021-11-16.mp4" description="Webinaire SPLF: Tabac comment aider nos patients à arrêter de fumer" >}}
 
-{{< video mp4="https://docs.splf.fr/videos/Jeudis-de-la-SPLF/jeudis2022/j2022-06.mp4" description="Webinaire SPLF: Actualités sur le sevrage tabagique : place de la cigarette électronique" width="600" height="330" >}}
+{{< video mp4="https://docs.splf.fr/videos/Jeudis-de-la-SPLF/jeudis2022/j2022-06.mp4" description="Webinaire SPLF: Actualités sur le sevrage tabagique : place de la cigarette électronique" >}}
 
 ### Entretien motivationnel
 

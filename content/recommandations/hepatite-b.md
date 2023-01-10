@@ -7,40 +7,73 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-07T12:03:00+02:00"
 publishdate = "2021-09-07"
-lastmod = "2022-05-21"
+lastmod = "2023-01-10"
 specialites = ["hepato-gastro-enterologie"]
-annees = "2018"
-sources = ["SNFGE", "HAS"]
+annees = "2020"
+sources = ["AFEF", "SNFGE", "HAS"]
 tags = ["fatigue", "hepatite", "HSH", "IST", "prevention", "prurit", "vaccin", "VIH", "voyage"]
 anglais = ["Hepatitis B"]
 sctid = "66071002"
 flowchart = false
 image = true
 imageSrc = "Hépatite B, illustration par pch.vector / Freepik"
-todo = "Le dépistage VHB - VHC - VIH doit être combiné (*AFEF*), calendrier page 80, clinique, BEH, flow, découverte hépatite B guérie"
+todo = "dépistage VHB, insuff hépatocellulaire, AFEF 2020: TROD AgHBs isolés, papier buvard pour quantifier ADN, calendrier page 80, clinique, flow, découverte hépatite B guérie"
 +++
 
 {{%article-summary%}}
 
-- Vacciner: rattrapage jusque 15 ans révolus, puis voir *Personnes à vacciner*
-- et tout l'entourage
+- Les prochaines recommandations HAS hépatite B seront publiée en 2023
+- Le dépistage VHB - VHC - VIH doit être combiné (*HAS, AFEF*)
+- Le taux d'ALAT est un marqueur de l'activité de la maladie ({{< modal-btn modal-pageb >}}score Page-B{{< /modal-btn >}}) prédictif de carcinome hépatocellulaire (CHC)
+- Vacciner contre l'hépatite B: rattrapage jusque 15 ans révolus et autres indications (voir *Personnes à vacciner*)
+- Vacciner tout l'entourage d'une personne avec hépatite B active
+- L'hépatite B aiguë est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Hépatite B
-: Maladie infectieuse du foie causée par le virus de l'hépatite B (VHB).  
-La transmission est sexuelle, par des fluides biologiques ou materno-fœtale. Les contaminations par échanges de seringues sont encore fréquents.
-: L'infection est le plus souvent asymptomatique mais 0,1 à 1% des formes aiguës peuvent évoluer en hépatite fulminante. De 2 à 10% des cas deviennent chroniques, avec risque de cirrhose ou de carcinome hépatocellulaire.
-: 300.000 porteurs en France (1,19% des hommes, 0,16% des femmes) dont 50% l'ignorent.
+: Maladie infectieuse du foie causée par le virus de l'hépatite B (VHB) à ADN. La transmission est sexuelle, par des fluides biologiques ou materno-fœtale. Les contaminations par échanges de seringues sont encore fréquents.
+: L'infection est le plus souvent asymptomatique mais 0,1 à 1% des formes aiguës peuvent évoluer vers l'**hépatite fulminante**. De 2 à 10% des cas deviennent chroniques (90% pour les nouveaux-nés), avec risque de **cirrhose** (10-20%) ou de **carcinome hépatocellulaire** (CHC, 3-5%/an) même en l'absence de cirrhose (virus oncogène).  
+Une co-infection par le virus de l'hépatite D est possible (< 2%).
 
-Porteur chronique de l'AgHBs
-: Toute personne avec AgHBs positif plus de 6 mois.
+Hépatite B chronique (ou porteur chronique de l'Ag HBs)
+: Toute personne avec AgHBs positif pendant plus de 6 mois.
+: L'antigène HBe est un marqueur de l'activité virale. Le traitement antiviral est le plus bénéfique au stade d'hépatite  AgHBe+.
+
+### Phases de l'infection par le virus de l'hépatite B
+
+{{< table title="Phases de l'infection chronique par le virus de l'hépatite B. AFEF 2020" >}}
+| Infection                           | AgHBe | AgHBs        | ADN VHB      | ALAT      | Fibrose            |
+|-------------------------------------|-------|--------------|--------------|-----------|--------------------|
+| Infection AgHBe+<br>Immunotolérance | +     | Élevé        | Très élevé   | Normales  | Absente/minime     |
+| Hépatite AgHBe+                     | +     | Élevé        | Élevé        | Élevées   | Progression rapide |
+| Infection AgHBe-<br>Portage inactif | -     | < 1000 UI/mL | < 2000 UI/mL | Normales  | Absente/minime     |
+| Hépatite AgHBe-                     | -     | > 1000 UI/mL | > 2000 UI/mL | Variables | Variable           |
+{{< /table >}}
+
+> Immunotolérant: risque de perte de l'immunotolérance (38% à 3 ans)  
+Portage dit inactif: risque de réactivation (22% à 5 ans, immunodépression ++) tant que l'Ac anti-HBs n'est pas présent. Taux de négativation de l'AgHBs de 1-3%/an.
+
+### Épidémiologie de l'hépatite B en France
+
+La prévalence de l'hépatite B chronique en France est estimée à 280.000 personnes (dont la moitié l'ignore) et tenue responsable de 1300 morts par an. 11% ont un diagnostic au stade de cirrhose.  
+Les DROM ont une forte prévalence.
+
+Seulement 36.180 personnes sont en ALD pour une hépatite B chronique (2019).
+
+Dans le monde, 2 milliards de personnes infectées par le VHB dont 250 millions de porteurs de l'Ag HBs.
 
 ### Abréviations
 
+CHC
+: carcinome hépatocellulaire
+
 HSH
 : homme ayant des relations sexuelles avec des hommes
+
+TROD
+: test rapide d'orientation diagnostique
 
 UDI
 : usager de drogue intraveineuse
@@ -48,6 +81,51 @@ UDI
 VHB
 : virus de l'hépatite B
 {.dl-inline}
+
+{{% /collapse %}}
+{{%collapse "Clinique" %}}
+
+Circonstances de découverte d'une hépatite B:
+
+- Incubation de 60 à 150 jours
+- Tableau d'hépatite aiguë
+  - Fatigue, anorexie, hépatalgie, syndrome pseudogrippal, ictère inconstant. Dure environ 2 semaines
+  - La sérologie révèle des Ag HBs et Ac anti-HBc positifs, transaminases 5-20 N
+  - L'hépatite B aiguë est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
+- Infection pauci-symptomatique: [fatigue](/tags/fatigue/)
+- Signes d'insuffisance hépatocellulaire
+- Signes d'insuffisance portale  
+  {{< clinique/hypertension-portale >}}
+- Cytolyse ALAT > ASAT ± cholestase
+- Asymptomatique le plus souvent
+
+Sérologie VHA + VHB (AgHBs, Ac anti-HBs, Ac anti-HBc) devant tout tableau d'ictère fébrile ou de cytolyse (sauf vaccination certaine)  
+Ajouter VHC si conduites à risque (sexe, drogues), VHE en cas de séjour tropical ou consommation de porc
+> .alert .alert-info
+
+{{< table title="Interprétation des marqueurs sérologiques de l'infection par le VHB. CMIT 2023" class="table-wrap" >}}
+| Ag HBs | Ac anti-HBc | Ac anti-HBs | Interprétation                                                           |
+|:------:|:-----------:|:-----------:|--------------------------------------------------------------------------|
+|   -    |      -      |      +      | Sujet vacciné                                                            |
+|   -    |      +      |      +      | Infection guérie                                                         |
+|   +    |      +      |      -      | Infection évolutive                                                      |
+|   -    |      +      |      -      | Infection guérie voire infection chronique HBe- avant séroconversion HBs |
+{{< /table >}}
+
+> Infection évolutive: le stade est déterminé par la clinique, les IgM anti-HBc (infection aiguë) et l'évolution à 6 mois
+
+### Dépistage de l'hépatite B
+
+> Le dépistage VHB - VHC - VIH doit être combiné (*HAS, AFEF*)
+{.alert .alert-info}
+
+- Origine de pays d'endémie
+- Porteur dans l'entourage
+- Partenaires multiples
+- Drogues intraveineuses ou intranasales
+- VIH, VHC ou autre [infection sexuellement transmissible](/tags/ist/) récente
+
+> *CMIT 2023*
 
 {{% /collapse %}}
 {{%collapse "Personnes à vacciner contre l'hépatite B" %}}
@@ -86,6 +164,9 @@ Hémodialyse et immunodépression avec exposition au risque: sérologie annuelle
 
 {{% /collapse %}}
 {{%collapse "Vaccins hépatite B et schéma vaccinal" %}}
+
+> << Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >> (*[SFSEP 2019](https://doi.org/10.1016/j.neurol.2019.01.218)*)
+{.alert .alert-info}
 
 La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
 
@@ -143,7 +224,7 @@ Précautions chez: sclérose en plaques.
 {{% /collapse %}}
 {{%collapse "Découverte d'une hépatite B active" %}}
 
-Porteur chronique de l'AgHBs: AgHBs + > 6 mois quelque soit les anti-HBc
+> Porteur chronique de l'AgHBs: AgHBs+ pendant **+6 mois** quelques soient les anticorps anti-HBc.
 
 ### Bilan à la découverte d'une hépatite B active
 
@@ -153,34 +234,38 @@ Porteur chronique de l'AgHBs: AgHBs + > 6 mois quelque soit les anti-HBc
 - Conduites sexuelles
 
 {{%info%}}
-Adresser au spécialiste avec le bilan initial:
+Adresser au spécialiste avec le bilan initial de l'hépatite B
 
-- AgHBs (persistant > 6 mois)
+- Dosage quantitatif de l'Ag HBs (et Ag HBs persistant +6 mois)
 - Anticorps IgM anti-HBc
-- Multiplication virale ?
+- Multiplication virale
   - Ag HBe, anticorps anti-HBe
   - PCR VHB  
-    \> 100.000 copies/mL pour hépatite chronique AgHBe+, > 10.000 si AgHBe-.
-- Co-infection ?  
-  Sérologies VHD, VHA, VHC, VIH.
-- NFS, TP, créatininémie, bilan hépatique
-- Albuminémie
+    \+100.000 copies/mL pour hépatite chronique AgHBe+, +10.000 si AgHBe-.
+- Co-infections  
+  Sérologies VHD, [VHC]({{< relref "hepatite-c.md" >}}), [VHA]({{< relref "hepatite-a.md" >}}), [VIH]({{< relref "vih-sida.md" >}}).
+- NFS
+- ASAT, ALAT, GGT, PAL, bilirubine, TP  
+  Seuils ALAT (UI/L) de l'AASLD: H 35 | F 25. ALAT > 2N est une indication à traiter.
+- Créatininémie, albuminémie
 - Ferritinémie
-- Alpha-fœtoprotéine
+- Alpha-fœtoprotéine  
+  Une alphfoetoprotéine > 20 mg/L est un marqueur de haut risque de carcinome hépatocellulaire.
 - TSH
 - Anti-TPO, anti-nucléaires, anti-muscle lisse, anti-LKM1
 - Glycémie à jeun
 - Bilan lipidique
 - ßHCG
-- Échodoppler hépatique
+- Échographie abdominale
 - ECG, consultation de cardiologie
 {{%/info%}}
 
-### Traitement de l'hépatite B active
+{{% /collapse %}}
+{{%collapse "Traitement de l'hépatite B active" %}}
 
-**Objectifs du traitement**: diminution de l'ADN sous 100.000 copies/mL (10.000 si AgHBe-), normalisation voire régression des anomalies biologiques et histologiques, obtention d'une séroconversion HBe et séroconversion HBs (plus rare).
+**Objectifs de la prise en charge de l'hépatite B**: disparition de l'ADN du virus de l'hépatite B, normalisation voire régression des anomalies biologiques et histologiques, obtention d'une séroconversion HBe et séroconversion HBs (plus rare).
 
-- [ALD 6]({{< relref "affection-longue-duree.md" >}})  
+- [ALD n°6]({{< relref "affection-longue-duree.md" >}})  
   Indications: AgHBs+ + > 2000 copies/mL ou cytolyse + nécessité d'un traitement antiviral ou de suivi prolongé, séquelles graves.
 - Adresser au spécialiste pour initier un traitement  
   {{%class%}}Interféron alpha-2a/b, pégylé alpha-2a, lamivudine, adéfovir, entecavir, telbivudine, tenofovir.{{%/class%}}
@@ -189,18 +274,28 @@ Adresser au spécialiste avec le bilan initial:
   - **VHB de l'entourage**
   - VHA avec sérologie préalable
   - Pneumocoque
-  - Grippe annuelle
-- Arrêt de l'alcool et du [tabac]({{< relref "arret-tabac.md" >}})
+  - [Grippe annuelle]({{< relref "grippe.md" >}})
+- [Arrêt de l'alcool]({{< relref "sevrage-alcool.md" >}}) et du [tabac]({{< relref "arret-tabac.md" >}})
 - Correction d'un surpoids
+- Information du patient: [Guide patient: vivre avec une hépatite B chronique (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/guide_patient_vhb.pdf)
+- Association de patients: [SOS hépatites](https://soshepatites.org/)
+- [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 45](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2045)  
+  Exposition lors de soins ou au contact de personnes contaminées.
 
-[Guide patient: vivre avec une hépatite B chronique (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/guide_patient_vhb.pdf)
+{{% /collapse %}}
+{{%collapse "Surveillance de l'hépatite B traitée ou non" %}}
 
 ### Surveillance de l'hépatite B active traitée
 
 - Interféron  
   Rythme mensuel poursuivi dans les 6 mois suivants la fin du traitement.
 - Suivi biologique selon le traitement antiviral
-- PCR VHB tous les 3 mois
+- ALAT, PCR VHB tous les 3 mois jusqu'à négativation de la PCR  
+  puis tous les 6 mois.
+- AgHBs quantitatif tous les 3 ans (annuel si < 1000 UI/mL)
+- Si comorbidité hépatique: test non invasif de fibrose hépatique tous les 1-3 ans  
+  ex. FibroScan®, Fibrotest®, Fibromètre®.
+- Si hépatopathie chronique: élasticité hépatique annuelle
 - Ag HBe+ avec réduction < 100.000 copies/mL
   - Ag HBe tous les 6 mois
   - Négativation de l'Ag HBe: ajouter anti-HBe tous les 6 mois.  
@@ -212,30 +307,46 @@ Adresser au spécialiste avec le bilan initial:
   - Négativation de l'AgHBs: surveillance AgHBs et anti-HBs tous les 6 mois
   - Si anti-HBs+: surveillance tous les 3 mois pendant 1 an puis selon avis du spécialiste
 
-#### Suivi du patient porteur d'une hépatite B chronique non traitée
+### Surveillance de l'hépatite B chronique non traitée
 
 Suivi minimum des patients AgHBs + non traités, en l'absence de, cirrhose et en l'absence de maladie grave du foie dans la famille:
 
-- ASAT, ALAT, PCR VHB, créatininémie tous les 6-12 mois
-- Échodoppler hépatique + alpha-fœtoprotéine annuels
-- Selon l'AgHBe
-  - AgHBe + : AgHBe et anticorps antiHBe annuels
-  - AgHBe - : AgHBs et anticorps antiHBs annuels
-- Évaluation de la fibrose tous les 2-3 ans
+- ALAT, PCR VHB, ASAT, créatininémie tous les 6 mois (3 mois la première année)  
+  voire 6-12 mois si AgHBe- et AgHBs < 1000 UI/mL.
+- Échographie abdominale + alpha-fœtoprotéine annuels
+- Selon l'AgHBs quantitatif:
+  - +1000 UI/mL: AgHBs quantitatif tous les 3 ans
+  - < 1000 UI/mL: AgHBs quantitatif annuel
+- AgHBe+ (immunotolérants)
+  - AgHBe et anticorps antiHBe tous les 6 mois
+  - Test de fibrose non invasif annuel
+- AgHBe- (porteur inactif): test de fibrose non invasif annuel
+
+{{%info%}}
+
+### Dépistage du carcinome hépatocellulaire
+
+Indications au dépistage du carcinome hépatocellulaire (CHC): hépatopathie avancée ou à risque (antécédent de CHC au 1<sup>er</sup> degré, {{< modal-btn modal-pageb >}}score Page-B ≥ 10{{< /modal-btn >}}).
+
+Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler et alphafoetoprotéine.
+{{%/info%}}
 
 {{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="sYKByv4Olg8" title="VHB Indications thérapeutiques et surveillance H. Fontaine 2019 (AFEF Medical Education)" >}}
 
+- [CMIT. Hépatites virales. Item 167. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-167-web.pdf)
 - {{< references/calendrier-vaccinal >}}
+- {{< references/afef-foie-non-invasif >}}
 - [Sogni P.; SNFGE, AFEF. Prise en charge d'un patient porteur chronique de l'AgHBs. 2018. (PDF)](https://www.snfge.org/download/file/fid/3634)
 - [HAS. Hépatite chronique B. Actes et prestations Affection de longue durée. Mai 2016.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
+- [HAS. Place des tests rapides d’orientation diagnostique (TROD) dans la stratégie de dépistage de l’hépatite B. 2016](https://www.has-sante.fr/jcms/c_2063232/fr/place-des-tests-rapides-d-orientation-diagnostique-trod-dans-la-strategie-de-depistage-de-l-hepatite-b)
 - [HAS. Hépatite B Chronique. Guide Affection de longue durée. Octobre 2006.](https://www.has-sante.fr/jcms/c_452115/fr/ald-n6-hepatite-chronique-b)
 
-### À lire
-
-- {{< references/afef-foie-non-invasif >}}
-- [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 45](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2045)
-
 {{%/sources%}}
+{{% modal title="Score PAGE-B du risque de CHC" id="modal-pageb"%}}
+
+{{< scores/pageb >}}
+
+{{% /modal %}}
