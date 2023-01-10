@@ -15,7 +15,7 @@ tags = ["fatigue", "fievre", "sueurs nocturnes", "toux", "vaccin"]
 anglais = ["Tuberculosis"]
 sctid = "56717001"
 image = true
-imageSrc = "Jeune femme de 20 ans avec toux chronique et perte de poids. Cas clinique par Dr Hani Makky Al Salam, Radiopaedia.org, rID: 12437"
+imageSrc = "Caverne médiane gauche chez une jeune femme de 20 ans avec toux chronique et perte de poids. Cas clinique par Dr Hani Makky Al Salam, Radiopaedia.org, rID: 12437"
 todo = "A LIRE, lecture tubertest, quantiferon positif signe TM ?, KEY: maladie, lutte contre la tuberculose, infection tuberculeuse, organisation mondiale, traitement de la tuberculose, tuberculose pulmonaire, infection tuberculeuse latente, mycobacterium tuberculosis"
 +++
 
@@ -66,17 +66,17 @@ Pour les professionnels de santé: évaluation de l'exposition au cas par cas pa
 {{%collapse "Suivi thérapeutique de la tuberculose" %}}
 
 {{< table title="Examens de suivi de la tuberculose maladie" >}}
-| Délai   | Consultation | BK  | Radio | BH  | Bio | Opht |
-|:-------:|:------------:|:---:|:-----:|:---:|:---:|:----:|
-|  J0     | X            | X   | X     | X   | X   | X    |
-|  J15    | X            | X   |       | X   | X   |      |
-|  J30    | X            |     | X     | X   | X   |  X   |
-| 2 mois  | X            | X   | X     | X   | Si anomalie précédente   | X |
-| 4 mois  | X            |     |       |     | Si anomalie précédente   |  |
-| 6 mois  | X            | X   | X     |     | Si anomalie précédente   |  |
-| 9 mois  | X            |     | X     |     |     |      |
-| 12 mois | X            |     | X     |     |     |      |
-| 18 mois | X            |     | X     |     |     |      |
+|  Délai  | Consultation | BK | Radio | BH |          Bio           | Opht |
+|:-------:|:------------:|:--:|:-----:|:--:|:----------------------:|:----:|
+|   J0    |      X       | X  |   X   | X  |           X            |  X   |
+|   J15   |      X       | X  |       | X  |           X            |      |
+|   J30   |      X       |    |   X   | X  |           X            |  X   |
+| 2 mois  |      X       | X  |   X   | X  | Si anomalie précédente |  X   |
+| 4 mois  |      X       |    |       |    | Si anomalie précédente |      |
+| 6 mois  |      X       | X  |   X   |    | Si anomalie précédente |      |
+| 9 mois  |      X       |    |   X   |    |                        |      |
+| 12 mois |      X       |    |   X   |    |                        |      |
+| 18 mois |      X       |    |   X   |    |                        |      |
 {{< /table >}}
 
 > **Légende**  
@@ -97,14 +97,16 @@ Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre d
 [HAS. ALD n°29 - Guide patient: Comprendre la tuberculose](https://www.has-sante.fr/jcms/c_609444/fr/ald-n-29-guide-patient-comprendre-la-tuberculose)
 
 {{%/collapse%}}
-{{%collapse "FMC gratuite" %}}
+{{%collapse "FMC gratuites" %}}
 
-{{< card-link-external title="Tuberculosis" url="https://www.fun-mooc.fr/fr/cours/tuberculosis/" subtitle="Par l'Institut Pasteur">}}
+{{< card-link-external title="Formation complète à distance sur la tuberculose" url="https://www.fun-mooc.fr/fr/cours/tuberculosis/" subtitle="Par l'Institut Pasteur">}}
+
+{{< youtube id="BB1q3-Mk83U" title="Intradermoréaction à la tuberculine (IDR, Ottawa Public Health)" >}}
+
+{{< youtube id="2TwjanDRE2Q" title="Technique de la vaccination par le BCG en pratique (Santé Publique France)" >}}
 
 {{% /collapse %}}
 {{%sources%}}
-
-{{< youtube id="2TwjanDRE2Q" title=" Technique de la vaccination par le BCG en pratique  (Santé Publique France)" >}}
 
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Tuberculose maladie. Juin 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/actualisationlap_tuberculose__web_.pdf)
