@@ -1,7 +1,7 @@
 <figure class="figure my-4">
   <video {{ with .Get "poster" }}poster="{{ . }}"{{ end }}
   {{- with .Get "width" }}width="{{ . }}"{{ end -}}
-  {{- with .Get "height" }}height="{{ . }}"{{ end -}}
+  {{- with .Get "height" }}height="{{ . }}"{{ end }}
     preload="none"
     controls
   >{{ with .Get "mp4" }}

@@ -27,7 +27,7 @@ todo = "SEO 'charge virale hepatite c', symptômes/fatigue, signes d'insuffisanc
 Adaptation des recommandations de l'AFEF et HAS pour la prise en charge simplifiée de l'hépatite C par le médecin généraliste
 
 - L'hépatite C est désormais une maladie guérissable (+90%)
-- Dépister largement l'hépatite C car elle reste sous-diagnostiquée (voir *Qui dépister?*)
+- Dépister largement l'hépatite C car elle reste sous-diagnostiquée (voir *Qui dépister?*), couplée au VHB et VIH
 - Tout médecin peut prescrire les antiviraux pour la guérison de l'hépatite C
 - Évaluation des comorbidités, interactions médicamenteuses et de la fibrose avant le traitement
 - Traitement antiviral par Epclusa® ou Maviret® pendant respectivement 12 ou 8 semaines
@@ -50,6 +50,9 @@ AAD
 AFEF
 : Association française pour l'étude du foie
 
+HAS
+: Haute Autorité de Santé
+
 HSH
 : homme ayant des relations sexuelles avec des hommes
 
@@ -67,10 +70,10 @@ VHC
 
 #### Épidémiologie de l'hépatite C en France
 
-- **Décès:** 2700 morts/an
+- **Décès:** 2700 annuels
 - Sous-diagnostic: 1 personne sur 2 n'est pas diagnostiquée  
   soit 75.000 personnes non diagnostiquées en 2014  
-  {{%class%}}Chez les 18-80 ans contre 101.000 en 2004.{{%/class%}}
+  {{%class%}}Chez les 18-80 ans, contre 101.000 en 2004.{{%/class%}}
 
 #### L'hépatite C dans le monde
 
@@ -112,7 +115,7 @@ Personnes à risque d'hépatite C:
 ### Interrogatoire
 
 - Traitements déjà utilisés contre le VHC
-- Mésusage d'alcool ({{< modal-btn modal-audit >}}questionnaire AUDIT{{< /modal-btn >}})
+- Mésusage de l'alcool ({{< modal-btn modal-audit >}}questionnaire AUDIT{{< /modal-btn >}}, {{< modal-btn modal-deta >}}questionnaire CAGE/DETA{{< /modal-btn >}})
 - Consommation de drogues
 - Comorbidités majeures pour le traitement  
   Hypertension artérielle, diabète, dyslipidémie et surpoids.
@@ -161,8 +164,9 @@ Mesure de la charge virale hépatite C systématique lorsque 2 sérologies sont 
 - INR
 - Créatininémie et clairance CKD-EPI
 - ASAT, ALAT, GGT, bilirubine
-- Albuminémie
-- Glycémie à jeun
+- TP, albuminémie
+- Ferritinémie
+- Glycémie à jeun et bilan lipidique
 
 ### Fibrose hépatique
 
@@ -183,7 +187,7 @@ Test non invasif en première intention:
     Absence de maladie sévère si résultat ≤ 0,786.  
     [Remb. 100% en ALD x 1/an](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=1001&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
 
-Mentionner sur l'ordonnance << hépatite chronique C non traitée >>.
+Mentionner sur l'ordonnance << hépatite chronique C non traitée >> pour le remboursement.
 
 {{% /collapse %}}
 {{% collapse "Traitement simplifié de l'hépatite C" %}}
@@ -220,6 +224,9 @@ Prise en charge de l'hépatite C par antiviraux à action directe possible par t
   - Charge virale VHC répétée en cas de comportements à risque
   - Pas de partage des rasoirs, brosse à dent.
   - Matériel à usage unique en cas d'acte invasif (drogue IV).
+- Association de patients: [SOS hépatites](https://soshepatites.org/)
+- [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 45](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2045)  
+  Exposition lors de soins ou au contact de personnes contaminées.
 
 ### Antiviraux à Action Directe (AAD) de l'hépatite C
 
@@ -256,14 +263,22 @@ Prise en charge de l'hépatite C par le gastro-entérologue lorsque les conditio
 {{% /collapse %}}
 {{% collapse "Surveillance" %}}
 
-Surveillance à vie.
+### Surveillance pendant le traitement
 
-- Suivi régulier adapté au traitement
-- Contrôle de la charge virale VHC 12 semaines après la fin du traitement.
-- Si persistance de conduites à risque: charge virale annuelle.
+- Suivi régulier adapté au traitement (voir *Traitement simplifié*)
+- Contrôle de la charge virale VHC 12 semaines après la fin du traitement
+
+### Surveillance après le traitement
+
+La surveillance après la guérison d'une hépatite C dépend de l'atteinte hépatique pré-traitement et de la persistance de facteurs de risque:
+
+- Si persistance de conduites à risque: charge virale annuelle
 - Mesures d'hépatoprotection à vie  
-Alcool, syndrome métabolique, automédication.
-- Surveillance de la cirrhose
+  Alcool, syndrome métabolique, automédication.
+- Si cirrhose ou valeurs anormales avant traitement: dépistage du CHC
+  Valeurs anormales signes d'hépatopathie avancée: FibroScan® ≥ 10 kPa, Fibrotest® > 0,58 ou Fibromètre® > 0,78.
+
+En l'absence de ces facteurs de risque et de toute comorbidité hépatique (alcool, syndrome métabolique, co-infection VHB, hypertension portale), le patient ne nécessite pas de surveillance particulière. (*AFEF 2020*)
 
 {{% /collapse %}}
 {{% collapse "Prise en charge de l'hépatite C" "show" %}}
@@ -329,7 +344,7 @@ graph TB
 
 {{< card-link-external title="L'hépatite C en médecine de premier recours et dans la prise en charge des usagers de drogues et d'alcool" url="https://www.inhsu.org/learning_modules/FR_FR/index.html#/" subtitle="e-learning gratuit par INSHU, ashm, UNSW, Kirby">}}
 
-[Vidéos de l'AFEF sur l'hépatite C](https://www.youtube.com/channel/UCgWEPppp0YbWbvpcWoXd9fg/search?query=h%C3%A9patite%20C)
+{{< card-link-external title="Vidéos de l'AFEF sur l'hépatite C" url="https://www.youtube.com/channel/UCgWEPppp0YbWbvpcWoXd9fg/search?query=h%C3%A9patite%20C" subtitle="e-learning gratuit par INSHU, ashm, UNSW, Kirby">}}
 
 - {{< references/afef-foie-non-invasif >}}
 - [HAS. Hépatite C - Panorama](https://www.has-sante.fr/jcms/p_3261788/fr/hepatite-c)
@@ -337,10 +352,6 @@ graph TB
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
 - [AFEF, SPILF. Recommandations AFEF pour l'élimination de l'infection par le virus de l'hépatite C en France. Mars 2018. (PDF)](https://afef.asso.fr/wp-content/uploads/2018/06/VF-INTERACTIF-RECO-VHC-AFEF-v2103.pdf)
 - [Hépatites Info Service](https://www.hepatites-info-service.org/hepatite-c/)
-
-### À lire
-
-- [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 45](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2045)
 
 {{%/sources%}}
 {{% modal title="Vaccination anti-pneumococcique" id="modal-vaccin-pneumocoque"%}}
@@ -351,5 +362,10 @@ graph TB
 {{% modal title="Questionnaire AUDIT-C" id="modal-audit"%}}
 
 {{< scores/audit-c >}}
+
+{{% /modal %}}
+{{% modal title="Score CAGE-DETA de mésusage de l'alcool" id="modal-deta"%}}
+
+{{< scores/deta >}}
 
 {{% /modal %}}

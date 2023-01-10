@@ -17,7 +17,7 @@
   "attr-validate": true,
   "class-no-dup": true,
   "class-style": "none",
-  "doctype-first": true,
+  "doctype-first": "smart",
   "doctype-html5": true,
   "fig-req-figcaption": false,
   "focusable-tabindex-style": true,
