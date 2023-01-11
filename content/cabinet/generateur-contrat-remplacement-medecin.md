@@ -5,12 +5,12 @@ description = "Modèle de contrat pour les remplacements de médecins libéraux 
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-05T12:18:00+02:00"
 publishdate = "2022-12-08"
-lastmod = "2022-12-12"
+lastmod = "2023-01-11"
 sources = ["CNOM"]
 tags = []
 image = true
 imageSrc = "storyset / Freepik"
-todo = "validate form > webkit-autofill > Store data > Copier > Télécharger .doc"
+todo = "validate form > Store data > Copier > Télécharger .doc"
 +++
 
 **RecoMédicales** vous permet de créer un contrat de remplacement rapidement d'après le modèle officiel du Conseil de l'Ordre.
@@ -140,6 +140,7 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
     const duration = document.getElementById('contract-duration')
     const durationElems = document.getElementsByClassName('contract-duration-text')
     const date = document.getElementById('contract-date')
+    date.value = new Date().toISOString().substring(0, 10);
     const dateElems = document.getElementsByClassName('contract-date-text')
     const retrocession = document.getElementById('contract-retrocession')
     const retrocessionElem = document.getElementById('contract-retrocession-text')
@@ -177,6 +178,7 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
       [...nameSubstituteElems].forEach((elem) => { elem.textContent = nameSubstitute.value });
       [...urssafElems].forEach((elem) => { elem.textContent = urssaf.value });
       window.localStorage.setItem('contract-urssaf', urssaf.value);
+      [...inscriptionSubstituteElems].forEach((elem) => { elem.textContent = inscriptionSubstitute.value });
       [...durationElems].forEach((elem) => { elem.textContent = duration.value });
       window.localStorage.setItem('contract-duration', duration.value);
       [...dateElems].forEach((elem) => { elem.textContent = setContractDate(date.value) });

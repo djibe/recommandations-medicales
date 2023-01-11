@@ -61,7 +61,7 @@ SAM
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Étiologie" %}}
+{{%collapse "Étiologie de l'hyperferritinémie" %}}
 
 ### Causes fréquentes d'hyperferritinémie
 
@@ -195,7 +195,7 @@ graph TB
 
 {{< /mermaid >}}
 
-> HF = hyperferritinémie (en µg/L)
+> **HF =** hyperferritinémie (en µg/L)
 
 {{% /collapse %}}
 {{%sources%}}
