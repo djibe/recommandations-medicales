@@ -437,7 +437,7 @@ graph TB
 suspicion[Suspicion d'insuffisance cardiaque]
 style suspicion stroke:#4150f5, stroke-width:1px
   suspicion --> clinique("<b>Examen clinique</b><hr>- HTA, coronarien<br>- Cardiotoxiques, diurétiques<br>- Orthopnée ou autre<hr>- Crépitants, œdèmes chevilles<br>- Souffle cardiaque<br>- Turgescence jugulaire<br>- Choc de pointe<hr>- ECG anormal")
-    clinique --> BNP("NT-proBNP &ge; 125 pg/mL<br>ou BNP &ge; 35 pg/mL<br>ou forte suspicion d'IC")
+    clinique --> BNP("NT-proBNP ≥ 125 pg/mL<br>ou BNP ≥ 35 pg/mL<br>ou forte suspicion d'IC")
       BNP -- Oui --> ETT(Échocardiographie)
         ETT -- Anormale --> diagnostic("Diagnostic d'IC<br>Traitement étiologique<br>Traitement selon la FEVG")
         style diagnostic stroke:#4150f5, stroke-width:1px
@@ -453,7 +453,7 @@ ICFEd["Patient symptomatique avec ICFEd<br>FEVG &le; 40%"]
 style ICFEd stroke:#4150f5, stroke-width:1px
   ICFEd --> systematique("- IEC/sacubitril et BB dose maximale<br>- Anti-aldostérone<br>- iSGLT2<br>- Diurétiques selon symptômes")
     systematique --> choix("Symptomatique<br>et FEVG &le; 35%<br>(association possible)")
-        choix -- Oui --> CRT("Sinusal et QRS &ge; 130 ms ?") -- Oui --> resynchronisation("Resynchronisation<br>cardiaque")
+        choix -- Oui --> CRT("Sinusal et QRS ≥ 130 ms ?") -- Oui --> resynchronisation("Resynchronisation<br>cardiaque")
           resynchronisation --> persistant("<b>Symptômes persistants</b><hr>Traitements de grade 2:<br>Ivabradine, vericiguat,<br>digoxine, hydralazine")
         choix -- Oui --> ICD("QRS &lt; 130 et approprié ?") -- Oui --> defibrillateur(Défibrillateur) --> persistant
 {{< /mermaid >}}

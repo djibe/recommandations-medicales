@@ -357,10 +357,10 @@ Corticoïdes = 30 mg/j prednisone 3-5 jours.
 
 {{< mermaid title="Conduite à tenir pour le traitement hypouricémiant de fond du patient goutteux. Dr JB Fron d'après SFR et ACR 2020" >}}
 graph TB
-  diagnostic[Diagnostic de goutte] --> education(<b>Éducation</b><hr>- Traitement sur soi<br>- RHD) --> criteres("<b>Critères de traitement</b><hr>- SFRhumato: dès la 1<sup>re</sup> crise<br>- ACR:<br>&ge; 1 tophus, lésions radiologiques,<br>&ge; 2 crises/an,<br>critères annexes (Voir ttt fond)")
+  diagnostic[Diagnostic de goutte] --> education(<b>Éducation</b><hr>- Traitement sur soi<br>- RHD) --> criteres("<b>Critères de traitement</b><hr>- SFRhumato: dès la 1<sup>re</sup> crise<br>- ACR:<br>≥ 1 tophus, lésions radiologiques,<br>≥ 2 crises/an,<br>critères annexes (Voir ttt fond)")
   style diagnostic stroke:#4150f5, stroke-width:1px
     criteres -- Oui --> clairance(Évaluation clairance et<br>cardiovasculaire)
-      clairance -- Sans comorbidités --> allopurinol(Allopurinol 50<br>à 100 mg/j) --> prophylaxie("Associer la prophylaxie:<br>colchicine 0,5 à 1 mg/j &ge; 3-6 mois")
+      clairance -- Sans comorbidités --> allopurinol(Allopurinol 50<br>à 100 mg/j) --> prophylaxie("Associer la prophylaxie:<br>colchicine 0,5 à 1 mg/j ≥ 3-6 mois")
       clairance -- IRC modérée --> ircmoderee(Allopurinol 50 mg<br>ou fébuxostat 40 mg x 2/j) --> prophylaxie
       clairance -- IRC sévère --> ircsevere(Fébuxostat 40 mg x 2/j) --> prophylaxie
       clairance -- MCV sévère --> mcv(<b>Pas de fébuxostat</b>)
@@ -369,7 +369,7 @@ graph TB
             uricemie -- "&lt; 50 mg/L" --> cible(<b>Cible atteinte</b><br>Poursuite à vie) --> surv("Surveillance uricémie 1-2/an et <br>adaptation du traitement de fond")
               surv -. Envisager l'arrêt .-> arret("Selon l'ACR:<br>Envisager arrêt ou réduction<br>après 1 an sans crise<br>et absence de tophi")
             uricemie -- "&lt; 60 mg/L" --> presque("- Maintenir la dose à vie<br>- Envisager d'autres mesures<br>hypouricémiantes") --> surv
-            uricemie -- "&ge; 60 mg/L" --> hors("- Maintenir doses maximales<br>- Considérer uricosuriques") --> surv
+            uricemie -- "≥ 60 mg/L" --> hors("- Maintenir doses maximales<br>- Considérer uricosuriques") --> surv
 {{< /mermaid >}}
 
 > **MCV** = Maladie cardiovasculaire  

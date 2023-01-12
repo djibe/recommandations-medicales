@@ -212,7 +212,7 @@ graph TB
   bilan("<strong>Compléter le bilan</strong><hr>- NFS, bilan hépatique, TP<br>- Glycémie, lipidique<br>- Échographie hépatique<br>- Sérologies VHB, VHC<br>&plusmn; CST")
     bilan --> fib4[Score FIB-4 annuel]
       fib4 -- "&lt; 1,3 | 2 si +65 ans" --> rhd("- Optimisation cardiovasculaire<br>- Perte 10% poids<br>- FIB-4 annuel")
-      fib4 -- "&ge; 1,3 | 2" --> nonInvasif("Compléter par Fibromètre®,<br>Fibrotest® ou ELF®")
+      fib4 -- "≥ 1,3 | 2" --> nonInvasif("Compléter par Fibromètre®,<br>Fibrotest® ou ELF®")
         nonInvasif -- Négatif --> rhd
         nonInvasif -- Positif --> gastro(Gastro-entérologue)
     bilan -- Diagnostic différentiel --> differentiel("- Alcool<br>- Hépatites virales<br>ou iatrogènes<br>- Nutritionnel, chirurgical<br>- Génétique ou métabolique")

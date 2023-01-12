@@ -514,7 +514,7 @@ Réévaluation de la prise en charge avec ostéodensitométrie 2 ans après l'ar
 
 {{< mermaid title="Dépistage de l'ostéoporose en l'absence d'antécédent de fracture osseuse. JB Fron d'après SFRhumato 2018" >}}
 graph TB
-  menopause["<b>Ménopause et &ge; 1 parmi:</b><br>- Fracture fragilité chez parent<br>- IMC &lt; 19<br>- Ménopause précoce<br>- FRAX &gt; seuil pour l'âge<br>- Contrôle à 3-5 ans de DXA sans ttt<hr>- Sujet âgé à risque de chute<br>- Corticothérapie prolongée<br>- Endocrinopathie ou<br>pathologie déminéralisante<br>- Maladie cœliaque"]
+  menopause["<b>Ménopause et ≥ 1 parmi:</b><br>- Fracture fragilité chez parent<br>- IMC &lt; 19<br>- Ménopause précoce<br>- FRAX &gt; seuil pour l'âge<br>- Contrôle à 3-5 ans de DXA sans ttt<hr>- Sujet âgé à risque de chute<br>- Corticothérapie prolongée<br>- Endocrinopathie ou<br>pathologie déminéralisante<br>- Maladie cœliaque"]
   style menopause stroke:#4150f5, stroke-width:1px
     menopause --> DXA(Ostéodensitométrie:<br>T-score<br>puis calcul du FRAX)
       DXA -- "&le; -2,5" --> Ostéoporose --> prev("- Mesures de prévention<br>- Bilan biologique<br>- T-score ?")
@@ -532,7 +532,7 @@ graph TB
 
 {{< mermaid title="Prise en charge de l'ostéoporose après fracture osseuse chez la femme. JB Fron d'après SFRhumato 2018, HAS 2019 BUM ostéoporose et HAS 2019 lombalgie" >}}
 graph TB
-  perteTaille["- Perte de taille<br>&ge; 2 cm au long cours<br>ou &ge; 4 cm comparée à 20 ans<br>- Rachialgies après 55 ans<br>ou ménopause<br>- Corticoïdes chroniques"] --> radio(Radio dorso-lombaires) -- Fracture vertébrale --> bilan
+  perteTaille["- Perte de taille<br>≥ 2 cm au long cours<br>ou ≥ 4 cm comparée à 20 ans<br>- Rachialgies après 55 ans<br>ou ménopause<br>- Corticoïdes chroniques"] --> radio(Radio dorso-lombaires) -- Fracture vertébrale --> bilan
   fracture[Fracture osseuse]
   style fracture stroke:#4150f5, stroke-width:2px
   fracture ==> bilan("- Facteurs de risque (chute, fracture)<br>- Bilan différentiel<br>- Mesures de prévention<br>- Ostéodensitométrie")

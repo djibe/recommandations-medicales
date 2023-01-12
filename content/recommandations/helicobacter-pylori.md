@@ -431,12 +431,12 @@ graph TB
     serologie -- Positive/Douteuse --> gastro
   suspicion["<b>Symptomatique</b><hr>- Suspicion d'ulcère<br>- Dyspepsie chez &gt; 40 ans<br>- Signe d'alarme"] --> gastro("<b>Gastro-entérologue</b><br>EOGD")
   style suspicion stroke:#4150f5, stroke-width:1px
-  suspect["<b>Comorbidités</b><hr>- &ge; 45 ans avec ATCD K gastrique 1er degré<br>- Anémie ferriprive ou B12 sans cause<br>- Lymphome gastrique du MALT<br>- Chirurgie bariatrique"] --> gastro
+  suspect["<b>Comorbidités</b><hr>- ≥ 45 ans avec ATCD K gastrique 1er degré<br>- Anémie ferriprive ou B12 sans cause<br>- Lymphome gastrique du MALT<br>- Chirurgie bariatrique"] --> gastro
   style suspect stroke:#4150f5, stroke-width:1px
     gastro -- H. pylori + ---> grossesse("Grossesse ou<br>allaitement ?")
       grossesse == Non ===> antibiogramme("<b>Antibiogramme</b><br>Sensible clarithromycine?")
         antibiogramme == Sensible ==> triAmox("<b>Trithérapie 14j</b><br>IPP + amoxicilline<br>+ clarithromycine")
-          triAmox ===> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et &ge; 2 semaines sans IPP")
+          triAmox ===> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et ≥ 2 semaines sans IPP")
         antibiogramme -- Résistant --> levofloS("Sensible lévofloxacine ?")
           levofloS -- Sensible --> levoflo("<b>Trithérapie 14j</b><br>IPP + amoxicilline<br>+ lévofloxacine") --> controle
           levofloS -- Résistant --> levofloR("<b>Quadrithérapie 10j</b><br>Oméprazole + Bismuth<hr>OU IPP + amoxicilline<br>+ métronidazole 14j") --> controle

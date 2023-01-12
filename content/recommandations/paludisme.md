@@ -259,9 +259,9 @@ window.onload = () => {
       if ( weight < 20) {
         str4 = 'Contre-indiquée avant 8 ans';
       } else if ( weight >= 20 && weight < 40 ) {
-        str4 = '1 cp à 50 mg (si âge &ge; 8 ans)';
+        str4 = '1 cp à 50 mg (si âge ≥ 8 ans)';
       } else if ( weight >= 40 ) {
-        str4 = '1 cp à 100 mg (si âge &ge; 8 ans)';
+        str4 = '1 cp à 100 mg (si âge ≥ 8 ans)';
       }
       Doxycycline.html(`${str4} ${doxyHtml}`);
     });

@@ -7,7 +7,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr J. OLIVIER (AFU)"
 date = "2020-09-27T19:51:30+02:00"
 publishdate = "2020-09-27"
-lastmod = "2022-12-20"
+lastmod = "2023-01-12"
 specialites = ["urologie"]
 annees = "2022"
 sources = ["EAU", "AFU", "HAS", "USPTF"]
@@ -57,7 +57,7 @@ Cancer de la prostate héréditaire
 
 Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de Gleason et ISUP** (évolution du Gleason) au diagnostic.
 
-{{< table title="Risque de cancer de prostate (CaP) selon le taux de PSA. Agressif = CaP ISUP &ge; 2. EAU 2022" class="table-sm" >}}
+{{< table title="Risque de cancer de prostate (CaP) selon le taux de PSA. Agressif = CaP ISUP ≥ 2. EAU 2022" class="table-sm" >}}
 | PSA (ng/mL) | Risque de CaP (%) | Risque de CaP agressif (%) |
 |------------:|------------------:|---------------------------:|
 | 0 - 0,5     | 6,6               | 0,8                        |
@@ -244,7 +244,7 @@ graph TB
     depistage ==> normal("<b>TR normal</b>")
       normal --> bas(PSA &lt; 1 à 40 ans<br>ou &lt; 2 à 60 ans) -- Répéter à 8 ans --> depistage
       normal --> intermediaire(PSA 3-10) --> controle(Contrôler le PSA)
-        controle --> sup("PSA &ge; 2<br>(4 selon l'AFU)") --> urologue
+        controle --> sup("PSA ≥ 2<br>(4 selon l'AFU)") --> urologue
         controle --> inf("PSA &lt; 2") --> depistage
       normal --> autre(Autre valeur) --> depistage
     depistage --> anormal(TR anormal<br>ou PSA +10 ng/mL) --> urologue(Avis urologique)

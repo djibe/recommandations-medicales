@@ -112,7 +112,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
     <input type="radio" name="assistant" id="standard" class="d-input-none" checked>
     <label for="standard" class="chip chip-action chip-choice">Sans</label>
     <input type="radio" name="assistant" id="obese" class="d-input-none">
-    <label for="obese" class="chip chip-action chip-choice" data-toggle="tooltip" title="Obésité grade 2">IMC &ge; 35</label>
+    <label for="obese" class="chip chip-action chip-choice" data-toggle="tooltip" title="Obésité grade 2">IMC ≥ 35</label>
     <input type="radio" name="assistant" id="mcv" class="d-input-none">
     <label for="mcv" class="chip chip-action chip-choice" data-toggle="tooltip" title="Maladie cardiovasculaire">MCV</label>
     <input type="radio" name="assistant" id="mrc" class="d-input-none">

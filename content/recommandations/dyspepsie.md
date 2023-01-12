@@ -140,7 +140,7 @@ Autres traitements de la dyspepsie, sur avis spécialisé uniquement:
 graph TB
 Dyspepsie
 style Dyspepsie stroke:#4150f5, stroke-width:1px
-  Dyspepsie --> gravite("- Signes d'alarme ?<br>- Âge &ge; 50 ans ?")
+  Dyspepsie --> gravite("- Signes d'alarme ?<br>- Âge ≥ 50 ans ?")
     gravite -- Non --> bilan("- Glycémie à jeun<br>- Troubles du comportement alimentaire<br>- Recherche Helicobacter")
       bilan --> traitement("- Éviter les aliments gras<br>- IPP simple dose 4-8 semaines")
         traitement -. Échec .-> EOGD

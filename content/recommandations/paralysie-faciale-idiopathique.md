@@ -283,7 +283,7 @@ Traitements non recommandés au cours d'une PFI: acupuncture et oxygénothérapi
 
 {{< mermaid title="Conduite à tenir devant une paralysie faciale idiopathique. Dr JB Fron d'après SFORL 2020" >}}
 graph TB
-  PF[Paralysie faciale] --> atypie("<b>Clinique:</b> &ge; 1 signe parmi ?<hr>- Antécédent de PF<br>- Installation &gt; 72h<br>- Dissociation A-V<br>- Bilatérale, fluctuante<br>- Otalgie, surdité, vertiges<br>- PFP atypique<br>- Éruption vésiculeuse<br>- ADP cervicales<br>- Déficit autre")
+  PF[Paralysie faciale] --> atypie("<b>Clinique:</b> ≥ 1 signe parmi ?<hr>- Antécédent de PF<br>- Installation &gt; 72h<br>- Dissociation A-V<br>- Bilatérale, fluctuante<br>- Otalgie, surdité, vertiges<br>- PFP atypique<br>- Éruption vésiculeuse<br>- ADP cervicales<br>- Déficit autre")
   style PF stroke:#4150f5, stroke-width:1px
     atypie -- Oui --> differentiel("Éliminer une cause urgente<br>de paralysie faciale")
     atypie -- Non --> PFI("<b>Paralysie faciale idiopathique</b><br>si aucun des éléments ci-dessus")

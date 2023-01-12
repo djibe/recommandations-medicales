@@ -555,7 +555,7 @@ La prescription initiale d'itraconazole est hospitalière
 graph TB
   suspicion[Suspicion de teigne] -- "-10 kg" --> specialiste(Avis spécialisé)
   style suspicion stroke:#4150f5, stroke-width:1px
-    suspicion == "&ge; 10 kg" ==> bilan("Prélèvement mycologique au laboratoire<br>et traitement 4 semaines:<br>Terbinafine orale<br>+ éconazole x 2/j<br>+ mesures associées")
+    suspicion == "≥ 10 kg" ==> bilan("Prélèvement mycologique au laboratoire<br>et traitement 4 semaines:<br>Terbinafine orale<br>+ éconazole x 2/j<br>+ mesures associées")
       bilan --> reevaluation(Microsporum à<br>l'examen direct ?)
         reevaluation -- Non --> controle(Contrôle clinique à 4 semaines<br>avec résultat de culture)
           controle --> guerison(Amélioration<br>ou guérison ?) -- Oui --> adaptation("- Trichophyton: arrêt TBF<br>- Microsporum: poursuite TBF<br>2 semaines<br>ou avis spécialisé")

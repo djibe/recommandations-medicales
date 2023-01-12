@@ -198,7 +198,7 @@ graph TB
   TC[Traumatisme crânien] --> GCS(Score de Glasgow)
   style TC stroke:#4150f5, stroke-width:1px
   GCS -- "&lt; 13" --> TCgrave(TC grave) --> SAMU("<b>SAMU</b>")
-  GCS -- "&ge; 13" --> TCleger(TC léger) --> gravite(Signes de gravité ?)
+  GCS -- "≥ 13" --> TCleger(TC léger) --> gravite(Signes de gravité ?)
     gravite -- Oui --> SAMU
     gravite -- Non --> ambulatoirePossible("Examen sans impression de gravité<br>ET surveillance à domicile 48h par les parents<br>ET entourage adapté")
       ambulatoirePossible -- Non --> SAMU

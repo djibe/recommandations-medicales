@@ -564,7 +564,7 @@ IMC (< 21), perte de poids, santé bucco-dentaire.
 
 {{< mermaid title="Conduite à tenir pour le dépistage et le traitement de la BPCO. Dr JB Fron d'après SPLF, ERS et GOLD 2022" >}}
 graph TB
-  depister["<strong>Dépister</strong><hr>- Mini spiromètre<br>- Questionnaire GOLD<br>- &ge; 40 ans avec &ge; 1 parmi:<br>tabagisme, env. pollué,<br>chauffage charbon/bois,<br>exposition professionnelle,<br>toux chronique, expectorations,<br>dyspnée"]
+  depister["<strong>Dépister</strong><hr>- Mini spiromètre<br>- Questionnaire GOLD<br>- ≥ 40 ans avec ≥ 1 parmi:<br>tabagisme, env. pollué,<br>chauffage charbon/bois,<br>exposition professionnelle,<br>toux chronique, expectorations,<br>dyspnée"]
   style depister stroke:#4150f5, stroke-width:1px
     depister --> spirometrie("- Spirométrie avec test de réversibilité<hr>- Évaluation dyspnée: CAT&trade;, échelle mMRC<br>- NFS, glycémie, lipides, Radio thorax<br>- Consultations pneumo et cardio")
       spirometrie -- TVO non réversible --> rhd("<strong>Mesures générales</strong><hr>- Sevrage tabagique<br>- Vaccin covid-19, grippe, pneumo<br>- Activité physique<br>- Réadaptation respiratoire<br>- Équilibre diététique<br>- Traitement des comorbidités")

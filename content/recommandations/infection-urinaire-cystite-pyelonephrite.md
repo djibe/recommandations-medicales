@@ -336,7 +336,7 @@ ECBU uniquement en cas d'évolution défavorable.
 
 {{< mermaid title="Prise en charge d'une pyélonéphrite en ambulatoire. Dr JB Fron d'après HAS 2021 et SPILF 2018" >}}
 graph TB
-  pna[Pyélonéphrite aiguë] --> gravite("Gravité, grossesse ou obstacle ?<br>- qSOFA &ge; 2<br>- Choc septique")
+  pna[Pyélonéphrite aiguë] --> gravite("Gravité, grossesse ou obstacle ?<br>- qSOFA ≥ 2<br>- Choc septique")
   style pna stroke:#4150f5, stroke-width:1px
   gravite -- Non --> homme(Homme ?)
     homme -- Non --> complication("<b>Facteur de risque<br>de complication ?</b><hr>- Uropathie<br>- Acte uro récent<br>- +75 ans<br>- +65 ans avec 3 fragilités<br>- IRC sévère<br>- Immunodépression grave")

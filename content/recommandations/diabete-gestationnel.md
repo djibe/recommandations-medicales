@@ -201,15 +201,15 @@ Le développement d'un diabète gestationnel ne modifie pas les consignes valabl
 
 {{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge du diabète gestationnel. Dr JB Fron d'après SFD/CNGOF 2010" >}}
 graph TB
-fdr["<b>Facteurs de risque de diabète gestationnel</b><hr>1. Âge &ge; 35 ans<br>2. IMC &ge; 25 kg/m²<br>3. ATCD familial 1<sup>er</sup> degré de DT2<br>4. ATCD de DG<br>5. ATCD de macrosomie"]
+fdr["<b>Facteurs de risque de diabète gestationnel</b><hr>1. Âge ≥ 35 ans<br>2. IMC ≥ 25 kg/m²<br>3. ATCD familial 1<sup>er</sup> degré de DT2<br>4. ATCD de DG<br>5. ATCD de macrosomie"]
 style fdr stroke:#4150f5, stroke-width:1px
   fdr -- Oui --> gaj("<b>1<sup>er</sup> trimestre</b><br>Glycémie à jeun")
-    gaj -- "&lt; 0,92" --> hgpo("<b>24-28 SA: HGPO 75 g</b><hr>H0 &ge; 0,92<br>H1 &ge; 1,8<br>H2 &ge; 1,53")
+    gaj -- "&lt; 0,92" --> hgpo("<b>24-28 SA: HGPO 75 g</b><hr>H0 ≥ 0,92<br>H1 ≥ 1,8<br>H2 ≥ 1,53")
       hgpo -- Négative --> arret2(Arrêt des bilans)
-      hgpo -- "Positive si &ge; 1" --> DG
-    gaj -- "&ge; 0,92" --> DG(Diabète gestationnel)
+      hgpo -- "Positive si ≥ 1" --> DG
+    gaj -- "≥ 0,92" --> DG(Diabète gestationnel)
       DG --> diabeto(Diabétologue)
-    gaj -- "&ge; 1,26 à 2 reprises" --> DT2(Diabète type 2)
+    gaj -- "≥ 1,26 à 2 reprises" --> DT2(Diabète type 2)
       DT2 --> diabeto
   fdr -- Non --> arret(Pas de dépistage du DG)
 {{< /mermaid >}}

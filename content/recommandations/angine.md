@@ -14,7 +14,7 @@ tags = []
 anglais = ["Tonsilitis"]
 sctid = "90176007"
 image = true
-imageSrc = "Angine gauche, photo de Fireflyez76 sur Foter.com / CC BY-ND"
+imageSrc = "Angine gauche. Photo de Fireflyez76 sur Foter.com / CC BY-ND"
 flowchart = true
 todo = "suivi de pso en goutte"
 +++
@@ -22,7 +22,7 @@ todo = "suivi de pso en goutte"
 {{%article-summary%}}
 
 - Une angine est toujours virale avant 3 ans
-- Test de diagnostic rapide (TDR) du streptocoque devant une angine de 3 à 14 ans et score clinique de Mc Isaac au-delà
+- Test de diagnostic rapide (TDR) du streptocoque devant une angine de 3 à 14 ans et score clinique de Mac Isaac au-delà
 - Traitement par antibiotique cas de TDR positif:
   - Adulte: amoxicilline 1g x 2/j pendant 6 jours
   - Enfant: amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises/j pendant 6 jours
@@ -201,7 +201,7 @@ graph TB
   style angine stroke:#4150f5, stroke-width:1px
     angine --> 314ans(3 à 14 ans) --> TDR(TDR) -- "Positif" --> ATB("<b>Antibiothérapie 6 jours</b><hr>Adulte: amoxicilline 1g x 2/j<br>Enfant: amox 25 mg/kg x 2/j")
       TDR -- Négatif --> viral
-    angine --> 15plus("&ge; 15 ans") --> score(Mac Isaac) -- "&ge; 2" --> ATB
+    angine --> 15plus("≥ 15 ans") --> score(Mac Isaac) -- "≥ 2" --> ATB
       score -- "&lt; 2" --> viral
 {{< /mermaid >}}
 

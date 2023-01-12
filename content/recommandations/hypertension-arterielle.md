@@ -48,13 +48,13 @@ La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance car
 {{< table title="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Dr JB Fron d'après ESC 2021 et ESH 2021" class="table-wrap" >}}
 | Catégorie                 | Systolique (mmHg) |       | Diastolique (mmHg) | Action                                                                        |
 |---------------------------|:-----------------:|:-----:|:------------------:|-------------------------------------------------------------------------------|
-| Optimale                  | &lt; 120          | et    | &lt; 80            | Surveillance &ge; /5 ans                                                      |
-| Normale                   | 120-129           | et/ou | 80-84              | Surv. &ge; / 3 ans (6 mois si FRCV)                                           |
+| Optimale                  | &lt; 120          | et    | &lt; 80            | Surveillance ≥ /5 ans                                                      |
+| Normale                   | 120-129           | et/ou | 80-84              | Surv. ≥ / 3 ans (6 mois si FRCV)                                           |
 | Normale haute             | 130-139           | et/ou | 85-89              | Surv. annuelle, éliminer HTA masquée par AMT/MAPA, traiter si THRCV           |
 | Hypertension grade&nbsp;1 | 140-159           | et/ou | 90-99              | Éliminer blouse blanche par AMT/MAPA, essai RHD 3-6 mois, traiter si HRCV     |
 | Hypertension grade&nbsp;2 | 160-179           | et/ou | 100-109            | Confirmer par AMT/MAPA en qq j/sem, traitement immédiat et contrôle sous 3 mois |
-| Hypertension grade&nbsp;3 | &ge; 180          | et/ou | &ge; 110           | Traitement immédiat et cible atteinte à 3 mois                                |
-| Hypertension systolique isolée | &ge; 140     | et    | &lt; 90            | Traitement selon le grade de la PAS                                           |
+| Hypertension grade&nbsp;3 | ≥ 180          | et/ou | ≥ 110           | Traitement immédiat et cible atteinte à 3 mois                                |
+| Hypertension systolique isolée | ≥ 140     | et    | &lt; 90            | Traitement selon le grade de la PAS                                           |
 {{< /table >}}
 
 > **AMT =** automesure tensionnelle ; **HRCV/THRCV =** {{%modal-btn "modal-rcv"%}}haut/très haut risque CV{{%/modal-btn%}}.  

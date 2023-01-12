@@ -139,11 +139,11 @@ S'assurer d'apports calciques suffisants:
 | 2 - 18 ans à risque<br>Sujet noir, obèse, 0 exposition, vegan | 800-1600 UI/j voire 50.000 UI/6sem<br>ou 80-100.000 UI/trimestre | *Bacchetta 2022* |
 | Grossesse                          | 80-100.000 UI à 7 mois de grossesse          | *CNGOF 8e mois*  |
 | Mineur                             | &gt; 75 nmol/L                               | *Bacchetta 2022* |
-| Adulte                             | &ge; 50 nmol/L                               | *Annweiler 2018* |
-| Adulte &ge; 65 ans                 | &ge; 75 nmol/L                               | *Annweiler 2018* |
-| Adulte à risque, dépendant, chutes | &ge; 75 nmol/L                               | *Annweiler 2018* |
-| Résident en EHPAD                  | &ge; 75 nmol/L et cible calcique 1200 mg/j   | *Annweiler 2018* |
-| Ostéoporose, biphosphonates        | &ge; 75 nmol/L                               | *Annweiler 2018* |
+| Adulte                             | ≥ 50 nmol/L                               | *Annweiler 2018* |
+| Adulte ≥ 65 ans                 | ≥ 75 nmol/L                               | *Annweiler 2018* |
+| Adulte à risque, dépendant, chutes | ≥ 75 nmol/L                               | *Annweiler 2018* |
+| Résident en EHPAD                  | ≥ 75 nmol/L et cible calcique 1200 mg/j   | *Annweiler 2018* |
+| Ostéoporose, biphosphonates        | ≥ 75 nmol/L                               | *Annweiler 2018* |
 {{< /table >}}
 
 > Apports quotidiens préférés chez l'enfant et l'adolescent: vitamine D2 (Stérogyl® 400 UI/gte) ou D3 (ZymaD® 300 UI/gte ou Adrigyl® 333 UI/gte). Sinon vitamine D3 en ampoule (*Bacchetta 2022*)  

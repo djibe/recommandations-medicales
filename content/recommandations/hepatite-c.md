@@ -124,9 +124,10 @@ Personnes à risque d'hépatite C:
 
 ### Examen clinique
 
-- Poids, taille, **IMC**, pression artérielle
+- Poids, taille, **IMC**, pression artérielle ({{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}})
 - Signes d'insuffisance hépatique
 - Signes de cirrhose
+  - Hypertension portale: {{< clinique/hypertension-portale >}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

@@ -177,7 +177,7 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 {{< table title="Stades de la maladie rénale chronique selon KDIGO 2012" >}}
 | Stade | DFGe          | Définition    |
 |:-----:|:-------------:|---------------|
-| 1     | &ge; 90       | MRC avec DFG normal ou augmenté |
+| 1     | ≥ 90       | MRC avec DFG normal ou augmenté |
 | 2     | 60-89         | MRC avec DFG légèrement diminué |
 | 3A    | 45-59         | IRC modérée   |
 | 3B    | 30-44         | IRC modérée   |
@@ -321,7 +321,7 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
 <div class="card card-hover">
 <ul class="nav nav-tabs nav-justified mb-4" id="justifiedTab" role="tablist">
   <li class="nav-item" role="presentation">
-    <button aria-controls="sup45" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#sup45" id="sup45-tab" type="button" role="tab">DFGe &ge; 45</button>
+    <button aria-controls="sup45" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#sup45" id="sup45-tab" type="button" role="tab">DFGe ≥ 45</button>
   </li>
   <li class="nav-item" role="presentation">
     <button aria-controls="stade3b" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#stade3b" id="stade3b-tab" type="button" role="tab">30-44</button>

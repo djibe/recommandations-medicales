@@ -259,7 +259,7 @@ Les corticoïdes par voie orale ou injectable n'ont aucune indication dans la de
 graph TB
   suspicion[Suspicion de dermatite atopique]
   style suspicion stroke:#4150f5, stroke-width:1px
-    suspicion --> criteres("<b>Critères diagnostiques</b><hr>Prurit et &ge; 3 parmi:<br>- Début &lt; 2 ans<br>- Lésions des convexités<br>- ATCD personnel d'asthme/rhinite allergique<br>- Xérose généralisée<br>- Lésions d'eczéma des plis (enfant)") --> diagnostic[Dermatite atopique]
+    suspicion --> criteres("<b>Critères diagnostiques</b><hr>Prurit et ≥ 3 parmi:<br>- Début &lt; 2 ans<br>- Lésions des convexités<br>- ATCD personnel d'asthme/rhinite allergique<br>- Xérose généralisée<br>- Lésions d'eczéma des plis (enfant)") --> diagnostic[Dermatite atopique]
     style diagnostic stroke:#4150f5, stroke-width:1px
       diagnostic --> fond("- Émollients 1-2/j (1 kg/mois)<br>- Éviter les facteurs favorisants<br>- Arrêt du tabac<br>- Suivi clinique et croissance<br>- Soutien psychologique")
         fond -- Poussée --> dc("- Dermocorticoïdes<br>- Augmenter les émollients")

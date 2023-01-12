@@ -209,7 +209,7 @@ graph TB
         inflam --> gastro(Gastro-entérologue)
       CRP -- Normale --> surcharge(Recherche d'une<br>surcharge en fer)
         surcharge --> gastro
-    CST -- "&ge; 45%" --> CST2("2<sup>e</sup> CST à jeun<br>à distance") -- "&ge; 45%" --> transa(Transaminases ?)
+    CST -- "≥ 45%" --> CST2("2<sup>e</sup> CST à jeun<br>à distance") -- "≥ 45%" --> transa(Transaminases ?)
       transa -- Augmentées --> hepatite(Hépatite<hr>Sérologies)
         hepatite --> gastro
       transa -- Normales --> Hb(Hémoglobine ?)

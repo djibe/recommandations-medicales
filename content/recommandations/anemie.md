@@ -49,24 +49,24 @@ Elle est augmentée en cas d'inflammation (carence martiale peu probable si ferr
 {{< table title="Seuil du diagnostic de l'anémie au niveau de la mer. Dr JB Fron d'après OMS 2011" class="table-sm" >}}
 | Population (années) | Seuil (g/dL) |
 |--------------------:|-------------:|
-|        6 mois-4 ans | 11           |
-|                5-11 | 11           |
-|               12-14 | 12           |
-|       Femme &ge; 15 | 12           |
-|   Grossesse 2 et 3T | 11           |
-|       Homme &ge; 15 | 13           |
+|        6 mois-4 ans |           11 |
+|                5-11 |           11 |
+|               12-14 |           12 |
+|          Femme ≥ 15 |           12 |
+|   Grossesse 2 et 3T |           11 |
+|          Homme ≥ 15 |           13 |
 {{< /table >}}
 
 > T = trimestre. Correction de -0,2 g/dL à 1000 mètres et -0,5 à 1500 mètres au dessus du niveau de la mer
 
 {{< table title="Ajustement du taux d'hémoglobine pour les fumeurs. Dr JB Fron d'après OMS 2011" class="table-sm" >}}
-| Tabagisme    | Ajustement du taux d'Hb (g/dL) |
-|--------------|-------------------------------:|
-| Non          | 0&nbsp;&nbsp;                  |
-| Fumeur       | -0,3                           |
-| 1/2-1 paq/j  | -0,3                           |
-| 1-2 paq/j    | -0,5                           |
-| &ge; 2 paq/j | -0,7                           |
+| Tabagisme   | Ajustement du taux d'Hb (g/dL) |
+|-------------|-------------------------------:|
+| Non         |                  0&nbsp;&nbsp; |
+| Fumeur      |                           -0,3 |
+| 0,5-1 paq/j |                           -0,3 |
+| 1-2 paq/j   |                           -0,5 |
+| ≥ 2 paq/j   |                           -0,7 |
 {{< /table >}}
 
 Hypochromie
@@ -199,10 +199,10 @@ Prise en charge de l'anémie par supplémentation et fer puis surveillance de la
 {{< table title="Supplémentations en fers fumarate, gluconate et sulfate disponibles en France en 2022. Dr JB Fron d'après BDPM" >}}
 | Spécialité             | Famille  | Fer élément (mg) |
 |------------------------|----------|-----------------:|
-| Fumafer 66 mg cp       | Fumarate | 66               |
-| Tardyferon 50 ou 80 mg | Sulfate  | 50 ou 80         |
-| Tardyferon 20 mg/mL    | Sulfate  | 20/mL            |
-| Timoferol cp ou gél    | Sulfate  | 50               |
+| Fumafer 66 mg cp       | Fumarate |               66 |
+| Tardyferon 50 ou 80 mg | Sulfate  |         50 ou 80 |
+| Tardyferon 20 mg/mL    | Sulfate  |            20/mL |
+| Timoferol cp ou gél    | Sulfate  |               50 |
 {{< /table >}}
 
 ### Pour en savoir plus: Éléments importants sur la supplémentation en fer

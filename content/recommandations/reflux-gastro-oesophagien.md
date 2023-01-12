@@ -283,7 +283,7 @@ graph TB
   style RGO stroke:#4150f5, stroke-width:1px
   RGO --> typique
     typique["Symptômes typiques"] --> 50-("&lt; 50 ans")
-    typique --> 50+("&ge; 50 ans")
+    typique --> 50+("≥ 50 ans")
       50+ --> EOGD
       50- --> RHD("- RHD<br>- Alginates ou anti-acides<br>- IPP 1/2 dose cure courte (ou famotidine)")
         RHD -.-> typIncomplet(Échec/rechute précoce)

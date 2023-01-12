@@ -225,13 +225,13 @@ Recommandations de prise en charge spécifiques pour les femmes suivantes:
 
 {{< mermaid title="Conduite à tenir pour le diagnostic et la prise en charge de l'insuffisance ovarienne prématurée (ex ménopause précoce). Dr JB Fron d'après HAS 2021 et Cox et Liu 2014" >}}
 graph TB
-  amenorrhee["Aménorrhée &ge; 4 mois<br>ou spanioménorrhée &ge; 4 mois<br>avant 40 ans"] --> hcg(Test de grossesse<br>hCG)
+  amenorrhee["Aménorrhée ≥ 4 mois<br>ou spanioménorrhée ≥ 4 mois<br>avant 40 ans"] --> hcg(Test de grossesse<br>hCG)
   style amenorrhee stroke:#4150f5, stroke-width:1px
     hcg -- Négatif --> dosage("- FSH, estradiol, prolactine<br>- TSH")
       dosage --> estradiolEleve("FSH &gt; 25 et estradiol élevé") --> micycle(Élévation à mi-cycle)
-      dosage --> estradiolBas("FSH &gt; 25 et estradiol bas") -- "Renouveler à &ge; 4 semaines" --> confirmation("FSH &gt; 25 et estradiol bas") --> diagnostic[Insuffisance ovarienne<br>prematurée]
+      dosage --> estradiolBas("FSH &gt; 25 et estradiol bas") -- "Renouveler à ≥ 4 semaines" --> confirmation("FSH &gt; 25 et estradiol bas") --> diagnostic[Insuffisance ovarienne<br>prematurée]
       style diagnostic stroke:#4150f5, stroke-width:1px
-      diagnostic --> complementaire("<b>Bilan complémentaire</b><hr>- AMH<br>- Anti-TPO<br>- Sérologie cœliaque<br>- Anticorps anti-surrénaliens<br>- Écographie pelvienne<br>- Ostéodensitométrie") --> spe(Centre de Référence FIRENDO) --> traitement("<b>Traitement</b><hr>- THS jusqu'à &ge; 51 ans<br>et syndrome climatérique<br>- Soutien psychologique<br>- AMP ou contraception") --> suivi("- Suivi annuel<br>- Ostéodensitométrie/5 ans")
+      diagnostic --> complementaire("<b>Bilan complémentaire</b><hr>- AMH<br>- Anti-TPO<br>- Sérologie cœliaque<br>- Anticorps anti-surrénaliens<br>- Écographie pelvienne<br>- Ostéodensitométrie") --> spe(Centre de Référence FIRENDO) --> traitement("<b>Traitement</b><hr>- THS jusqu'à ≥ 51 ans<br>et syndrome climatérique<br>- Soutien psychologique<br>- AMP ou contraception") --> suivi("- Suivi annuel<br>- Ostéodensitométrie/5 ans")
 {{< /mermaid >}}
 
 > FSH exprimée en UI/L
