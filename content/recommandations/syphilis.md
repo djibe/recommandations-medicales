@@ -14,8 +14,8 @@ tags = ["depistage", "HSH", "IST", "prevention", "VIH"]
 anglais = ["Syphilis"]
 sctid = "76272004"
 flowchart = true
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Chancre de la langue d'une syphilis primaire. cdc.gov / PHIL"
 todo = "Prescrire cite la ceftriaxone IM 1g/j 10 à 14j"
 +++
 
@@ -35,7 +35,7 @@ Syphilis
 : Maladie infectieuse à transmission directe principalement sexuelle par contact avec une lésion génitale (fellation comprise) de la bactérie *Treponema pallidum* (tréponème pâle, bactérie spirochète, trépanomatose), ou materno-fœtale.  
 La contamination lors de la grossesse entraîne des complications graves chez le fœtus.
 
-La majorité des cas survient chez les [hommes ayant des rapports sexuels avec des hommes (HSH)]({{< relref "hsh.md" >}}) (85% des cas en 2020) entre 20 et 29 ans.
+La majorité des cas de syphilis survient chez les [hommes ayant des rapports sexuels avec des hommes (HSH)]({{< relref "hsh.md" >}}) (85% des cas en 2020) entre 20 et 29 ans.
 
 Forte prévalence d'une [co-infection VIH]({{< relref "vih-sida.md" >}}) (25%).
 

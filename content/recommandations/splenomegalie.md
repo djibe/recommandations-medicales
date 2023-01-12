@@ -15,8 +15,8 @@ tags = []
 anglais = ["Splenomegaly"]
 sctid = "16294009"
 flowchart = true
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Splénomégalie modérée (22 cm de grand axe) chez un patient de 60 ans avec cirrhose hépatique connue. Cas de Bickle I. sur Radiopaedia.org rID-52825"
 todo = "SEO, source on flowchart, tableau avec anomalies biologiques"
 +++
 
@@ -52,7 +52,7 @@ Causes les plus fréquentes de splénomégalie: **maladies hépatiques** (hypers
 
 ### Contexte fébrile
 
-La splénomégalie n'est qu'un symptôme.
+La splénomégalie n'est qu'un symptôme:
 
 - Bactérien
   Septicémies (cirrhose décompensée), typhoïde, [tuberculose]({{< relref "tuberculose.md" >}}), [maladie d'Osler]({{< relref "endocardite.md" >}}).

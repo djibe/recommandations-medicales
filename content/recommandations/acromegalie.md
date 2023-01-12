@@ -13,8 +13,8 @@ sources = ["Pituitary", "HAS"]
 tags = ["cephalees"]
 anglais = ["Acromegaly"]
 sctid = "74107003"
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Acromégale avec nez élargi et épaissi, pommettes saillantes, front bombé, lèvres épaisses et accentuations des lignes du visage. Photo de Philippe Chanson et Sylvie Salenave, CC BY 2.0, via Wikimedia Commons"
 todo = "college"
 +++
 
