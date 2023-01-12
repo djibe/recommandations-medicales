@@ -458,7 +458,7 @@ graph TB
       style SJSR stroke:#4150f5, stroke-width:1px
         SJSR --> RHD("<b>Mesures systématiques</b><hr>- Information du patient<br>- Correction des facteurs aggravants<br>- Adaptation des habitudes de vie")
           RHD --> ferritine(Ferritinémie ?)
-            ferritine -- "&le; 75 ng/mL" --> correction(Supplémentation en fer<br>Contrôle à M3)
+            ferritine -- "≤ 75 ng/mL" --> correction(Supplémentation en fer<br>Contrôle à M3)
               correction --> ferritine
             ferritine -- "&gt; 75 ng/mL" --> IRLS(Score IRLS et<br>qualité de vie)
               IRLS --> leger(<b>SJSR léger</b><br>Traitement à la demande<br>Tramadol 50 ou codéine 30 mg)

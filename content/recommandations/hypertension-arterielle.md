@@ -245,7 +245,7 @@ Une PAD 70-79 mmHg est la cible pour tout hypertendu. La pression cible doit êt
 | [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) | 120-140/90 | ESC 2017 LEAD |
 | Coronaropathie      | idem générale   | ESC 2021   |
 | [Diabète]({{< relref "diabete-type-2.md" >}}) | idem générale | ESC 2021 |
-| [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) | &le; 130/80 | ESC 2020 AF |
+| [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) | ≤ 130/80 | ESC 2020 AF |
 | [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | &lt; 140/90 (comorbidités) | ESC 2021 HF |
 | [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) | &lt; 120/90 | KDIGO 2021 |
 | Greffe rénale       | &lt; 130/80     | KDIGO 2021 |

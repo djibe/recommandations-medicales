@@ -325,7 +325,7 @@ graph TB
     age --> moins12(&lt; 12 mois)
       moins12 --> 1(1<sup>er</sup> épisode) --> bronchiolite[Bronchiolite]
       style bronchiolite stroke:#4150f5, stroke-width:1px
-        bronchiolite --> gravite("<b>≥ 1 signe de gravité?</b><hr>- AEG<br>- FR &gt; 60 ou &lt; 30/min<br>- FC &gt; 180 ou &lt; 80/min<br>- Apnées, tirage intense<br>- SpO2 éveil AA &lt; 92%<br>- Alimentation &lt; 50%<br>- Prématuré &le; 34 SA avec O2dep ET &lt; 6 mois (palivizumab)<hr>Forme modérée +<br>- Âge corrigé &lt; 2 mois<br>- Comorbidités<br>- Contexte socio-économique<br>- Capacités de recours")
+        bronchiolite --> gravite("<b>≥ 1 signe de gravité?</b><hr>- AEG<br>- FR &gt; 60 ou &lt; 30/min<br>- FC &gt; 180 ou &lt; 80/min<br>- Apnées, tirage intense<br>- SpO2 éveil AA &lt; 92%<br>- Alimentation &lt; 50%<br>- Prématuré ≤ 34 SA avec O2dep ET &lt; 6 mois (palivizumab)<hr>Forme modérée +<br>- Âge corrigé &lt; 2 mois<br>- Comorbidités<br>- Contexte socio-économique<br>- Capacités de recours")
           gravite -- Non --> impression(Considérations cliniques<br>et signes de fragilité)
             impression --> legere("<b>Forme légère</b>")
               legere --> education("- DRP<br>- Consignes de surveillance<br>- Fractionner<br>- 0 tabac")

@@ -449,10 +449,10 @@ style suspicion stroke:#4150f5, stroke-width:1px
 
 {{< mermaid title="Prise en charge d'une insuffisance cardiaque symptomatique à l'état stable. Dr JB Fron d'après ESC 2021" >}}
 graph TB
-ICFEd["Patient symptomatique avec ICFEd<br>FEVG &le; 40%"]
+ICFEd["Patient symptomatique avec ICFEd<br>FEVG ≤ 40%"]
 style ICFEd stroke:#4150f5, stroke-width:1px
   ICFEd --> systematique("- IEC/sacubitril et BB dose maximale<br>- Anti-aldostérone<br>- iSGLT2<br>- Diurétiques selon symptômes")
-    systematique --> choix("Symptomatique<br>et FEVG &le; 35%<br>(association possible)")
+    systematique --> choix("Symptomatique<br>et FEVG ≤ 35%<br>(association possible)")
         choix -- Oui --> CRT("Sinusal et QRS ≥ 130 ms ?") -- Oui --> resynchronisation("Resynchronisation<br>cardiaque")
           resynchronisation --> persistant("<b>Symptômes persistants</b><hr>Traitements de grade 2:<br>Ivabradine, vericiguat,<br>digoxine, hydralazine")
         choix -- Oui --> ICD("QRS &lt; 130 et approprié ?") -- Oui --> defibrillateur(Défibrillateur) --> persistant
