@@ -170,7 +170,7 @@ Insulines utilisées en sécurité pour le traitement du diabète gestationnel: 
 {{% /collapse %}}
 {{%collapse "Surveillance en post-partum et à long terme" %}}
 
-Risque de récidive de diabète gestationnel de 30 à 84%, de syndrome métabolique x 2-5, de diabète type 2 x7 et de maladie cardiovasculaire x1,7
+Risque de récidive de diabète gestationnel de 30 à 84%, de {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}} x 2-5, de diabète type 2 x7 et de maladie cardiovasculaire x1,7
 {.alert .alert-info}
 
 - Surveillance de la normalisation des glycémies post-partum sans traitement
@@ -231,3 +231,8 @@ style fdr stroke:#4150f5, stroke-width:1px
 - [CNGOF, SFD. Le diabète gestationnel. Recommandations pour la pratique clinique. 2010. (PDF)](http://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/diabete%20gesta%20cngof.pdf)
 
 {{%/sources%}}
+{{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
+
+{{< clinique/syndrome-metabolique >}}
+
+{{% /modal %}}

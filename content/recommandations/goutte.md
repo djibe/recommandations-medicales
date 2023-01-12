@@ -73,7 +73,7 @@ Signes et symptômes de la crise de goutte.
 ### Interrogatoire
 
 - Facteurs de risques cardiovasculaire  
-  Tabagisme, [HTA]({{< relref "hypertension-arterielle.md" >}}), [diabète de type 2]({{< relref "diabete-type-2.md" >}}), dyslipidémie, obésité, syndrome métabolique.
+  Tabagisme, [HTA]({{< relref "hypertension-arterielle.md" >}}), [diabète de type 2]({{< relref "diabete-type-2.md" >}}), dyslipidémie, obésité, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}.
 - Traitements en cours  
 - Médicaments hyperuricémiants  
   Diurétiques, aspirine, interactions médicamenteuses (biphosphonates), cytotoxiques, ivabradine, ciclosporine, tacrolimus.
@@ -418,3 +418,8 @@ Intérêt de colchicine prophylactique.
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8.](http://www.lecofer.org/item-cours-1-19-0.php#ch_2_1)
 
 {{%/sources%}}
+{{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
+
+{{< clinique/syndrome-metabolique >}}
+
+{{% /modal %}}

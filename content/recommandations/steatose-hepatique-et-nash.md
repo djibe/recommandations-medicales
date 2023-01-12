@@ -22,7 +22,7 @@ todo = "remboursement fibromètre ?, syndrome métabolique, compléter pathologi
 
 {{%article-summary%}}
 
-- Stéatose hépatique et NASH sont les complications hépatiques du **syndrome métabolique** et sont des marqueurs de haut risque cardiovasculaire
+- Stéatose hépatique et NASH sont les complications hépatiques du **{{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}** et sont des marqueurs de haut risque cardiovasculaire
 - Rechercher les diagnostics différentiels ou surajoutés (voir *Diagnostic différentiel*)
 - Dépister la NASH / stéatohépatite métabolique
   - Dépister annuellement si facteurs de risque: obésité, [diabète de type 2]({{< relref "diabete-type-2.md" >}}), VIH avec lipodystrophie, cytolyse inexpliquée, stéatose échographique
@@ -39,7 +39,7 @@ Stéatopathie métabolique (NAFLD)
 
 Stéatose hépatique (NAFL)
 : La définition de la stéatose hépatique (ou stéatose métabolique) est histologique: accumulation d'acides gras (vacuoles de triglycérides) dans le cytoplasme des hépatocytes.
-: Elle survient surtout en contexte d'**insulinorésistance** et de **syndrome métabolique** (stéatose métabolique). L'évolution est classiquement bénigne avec toutefois un risque de développer des lésions de **NASH** de 20 à 30%. Cette évolution est lente, avec un changement de stade (de F1 à F4) tous les 7,1 ans.
+: Elle survient surtout en contexte d'**insulinorésistance** et de **{{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}** (stéatose métabolique). L'évolution est classiquement bénigne avec toutefois un risque de développer des lésions de **NASH** de 20 à 30%. Cette évolution est lente, avec un changement de stade (de F1 à F4) tous les 7,1 ans.
 : Elle est associée à une surmortalité par [maladies cardiovasculaires](/specialites/cardiologie/) (x 1,5-6 d'événements) et hépatiques ainsi que les [cancers](/tags/cancer/).
 : La stéatose se complique également de: [diabète type 2]({{< relref "diabete-type-2.md" >}}) et de [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}}).
 
@@ -51,7 +51,7 @@ Stéatohépatite non-alcoolique (NASH)
 
 ### Facteurs de risque de NASH
 
-Les responsables de l'inflammation hépatique sont principalement les éléments du **syndrome métabolique**:
+Les responsables de l'inflammation hépatique sont principalement les éléments du **{{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}**:
 
 - Obésité morbide (7,7% ont une NASH)  
   {{%class%}}PBH systématique car 29% ont une fibrose sévère.{{%/class%}}
@@ -195,7 +195,7 @@ Les glitazones (non disponibles en France) et les {{< modal-btn modal-glp1ra >}}
 
 Le suivi est réalisé avec les méthodes non invasives selon le niveau de fibrose hépatique:
 
-- F0 à F2: méthode non invasive tous les 3 ans (2 ans si +50 ans, diabète, HTA, syndrome métabolique, cytolyse hépatique)
+- F0 à F2: méthode non invasive tous les 3 ans (2 ans si +50 ans, diabète, hypertension, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, cytolyse hépatique)
 - F3 à F4: même méthode mais annuelle
 - Cirrhose: suivi semestriel comme pour les autres hépatopathies chroniques
 
@@ -243,6 +243,11 @@ graph TB
 - EASD
 
 {{%/sources%}}
+{{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
+
+{{< clinique/syndrome-metabolique >}}
+
+{{% /modal %}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}

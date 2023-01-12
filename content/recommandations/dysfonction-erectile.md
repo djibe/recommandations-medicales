@@ -161,7 +161,7 @@ La persistance d'une capacité érectile résiduelle est un facteur de bon prono
 #### 7) Signes de déficit androgénique
 
 - Diminution de la libido, nombre d'érections nocturnes/matinales
-- Corticothérapie prolongée, syndrome métabolique
+- Corticothérapie prolongée, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}
   Moins spécifiques: fatigabilité, troubles de la mémoire ou de l'humeur
 
 #### 8) Maladie psychiatrique (et antécédent de dépression) et addictions (toxico/alcool/sexuelle)
@@ -442,6 +442,11 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 - [Collège d'Urologie. Trouble de l'érection. Item 126. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-126-Troubles-de-lerection.pdf)
 
 {{%/sources%}}
+{{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
+
+{{< clinique/syndrome-metabolique >}}
+
+{{% /modal %}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}

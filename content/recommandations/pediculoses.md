@@ -127,6 +127,7 @@ Aucune étude n'a prouvé l'efficacité d'HE de lavande, qui est perturbateur en
 
 ### À lire
 
+- [CMIT. Gale et pédiculose. Item 171. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-171-web.pdf)
 - Collège des enseignants de dermatologie de France (CEDEF). IST. Item 162. 2021.
 - [Salavastru C. et al. European guideline for the management of pediculosis pubis. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14420)
 

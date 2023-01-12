@@ -207,6 +207,7 @@ Indications de l'ostéodensitométrie:
 - Boulimie (*HAS 2019 boulimie*)
   - et aménorrhée ≥ 6 mois
   - et antécédent d'anorexie mentale
+- Surcharge en fer avec ferritine > 1000 µg/L (*AFEF 2020*)
 
 Examen diagnostique de l'ostéoporose: **T-score ≤ -2,5 DS au col fémoral** (*OMS 94*)  
 T-score > -1 = **DMO normale** | -2,5 < T-score ≤ -1 = **Ostéopénie**.

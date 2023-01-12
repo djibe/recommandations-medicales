@@ -72,7 +72,7 @@ Signes modérés chez les caucasiennes.
 - Signes d'hyperandrogénie  
   Hirsutisme modified Ferriman Gallwey score >= 4-6, plus marqué chez les méditerranéennes et orientales, alopécie (score Ludwig), acné
 - Métabolique et cardiovasculaire
-  - Syndrome métabolique
+  - {{< modal-btn modal-metabolique >}}Syndrome métabolique{{< /modal-btn >}}
   Surpoids/obésité
   - Prédiabète et diabète type 2
   - Rechercher des apnées du sommeil

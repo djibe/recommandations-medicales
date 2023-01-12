@@ -77,7 +77,7 @@ Effets indésirables du méthotrexate lors d'une immunosuppression:
   - Pneumopathie interstitielle  
     Peut survenir à tout moment même à faible dose. Évoquer devant toux sèche, dyspnée, fièvre.
 
-**NB.** << Fibrose hépatique non démontrée (selon les études récentes avec le FibroScan) à l'exception des malades à risque de fibrose hépatique (alcool, syndrome métabolique) >> (*SNFGE*)
+**NB.** << Fibrose hépatique non démontrée (selon les études récentes avec le FibroScan) à l'exception des malades à risque de fibrose hépatique (alcool, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}) >> (*SNFGE*)
 
 {{% /collapse %}}
 {{%collapse "Surveillance biologique du méthotrexate" %}}
@@ -161,3 +161,8 @@ La supplémentation en acide folique (vitamine B9) réduit les effets indésirab
 - [HAS. Commission de la transparence. 20/11/2013. (PDF)](https://www.has-sante.fr/upload/docs/evamed/CT-12801_NOVATREX_PIS_RI_Avis1_CT12801.pdf)
 
 {{%/sources%}}
+{{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
+
+{{< clinique/syndrome-metabolique >}}
+
+{{% /modal %}}
