@@ -22,7 +22,7 @@ todo = "tableau espérance de vie"
 
 {{%article-summary%}}
 
-- Proposer le dépistage du cancer de la prostate (CaP) par toucher rectal et dosage du PSA après information éclairée aux hommes asymptomatiques ayant espérance de vie de +15 ans (~70 ans) (EAU, AFU et Commission européenne):
+- Proposer le dépistage du cancer de la prostate (CaP, préférer << détection précoce >>) par toucher rectal et dosage du PSA après information éclairée aux hommes asymptomatiques ayant espérance de vie de +15 ans (~70 ans) (EAU, AFU et Commission européenne):
   - **Hommes à risque augmenté:** +50 ans, +45 ans avec antécédent familial de CaP ou d'origine africaine, +40 ans avec BRCA2
   - Tous les 2 ans
   - voire tous les 8 ans si risque faible: PSA < 1 ng/mL à 40 ans ou < 2 à 60 ans
@@ -164,7 +164,7 @@ Risque diminué de cancer de la prostate si PSA < 1 ng/mL à 40 ans et < 2 à 60
 
 #### Positions des organismes et sociétés savantes sur le dépistage du cancer de la prostate
 
-Positions des différents comités, après information éclairée:
+Positions des différents comités sur la détection précoce du cancer de la prostate, après information éclairée:
 
 - HAS 2013 et INCa 2016  
   Pas de dépistage systématique en population générale ni à haut risque ([INCa 2016. Le dépistage du cancer de la prostate - s'informer avant de décider](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Le-depistage-du-cancer-de-la-prostate-S-informer-avant-de-decider)).
@@ -180,7 +180,7 @@ Positions des différents comités, après information éclairée:
 
 #### Prise en charge selon le résultat du PSA
 
-Patient à risque asymptomatique informé demandant un diagnostic précoce, dépistage par **toucher rectal et mesure du PSA**:
+Patient à risque asymptomatique informé demandant une détection précoce, dépistage par **toucher rectal et mesure du PSA**:
 
 - Toucher rectal normal
   - PSA < 1 ng/mL à 40 ans ou < 2 à 60 ans: répéter le dosage dans 8 ans
@@ -234,6 +234,9 @@ Complications fréquentes survenant dans les suites d'une prostatectomie radical
 - Incontinence urinaire chronique (20%)
 - [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) (2/3)
 
+[Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 102](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%20102): exposition aux pesticides ≥ 10 ans
+{.alert .alert-info}
+
 {{% /collapse %}}
 {{%collapse "Prise en charge par le dépistage du cancer de la prostate" "show" %}}
 
@@ -268,11 +271,12 @@ graph TB
 - [INCa. La première prescription du PSA chez l'homme asymptomatique. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/La-premiere-prescription-du-PSA-chez-l-homme-asymptomatique)
 - [HAS. Détection précoce du cancer de la prostate. Mai 2013.](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate)
 - [HAS. ALD n°30 - Cancer de la prostate. Guide maladie chronique. 2012.](https://www.has-sante.fr/jcms/c_725257/fr/ald-n-30-cancer-de-la-prostate)
+- [Horwich A. et al. Prostate cancer: ESMO Consensus Conference Guidelines 2012. Annals of Oncology. 2012.](https://www.annalsofoncology.org/article/S0923-7534(19)37245-X/fulltext)
 
 ### À lire
 
-- [Horwich A. et al. Prostate cancer: ESMO Consensus Conference Guidelines 2012. Annals of Oncology. 2012.](https://www.annalsofoncology.org/article/S0923-7534(19)37245-X/fulltext)
-- [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 102](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%20102)
+- [Ploussard G. et al. French AFU Cancer Committee Guidelines - Update 2022-2024: prostate cancer - Diagnosis and management of localised disease. Progrès en Urologie. 2022.](https://www.sciencedirect.com/science/article/pii/S116670872200344X)
+- [Ploussard G. et al. French AFU Cancer Committee Guidelines - Update 2022-2024: prostate cancer - Management of metastatic disease and castration resistance. Progrès en Urologie. 2022.](https://www.sciencedirect.com/science/article/pii/S1166708722003438)
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}

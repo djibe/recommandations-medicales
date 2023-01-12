@@ -338,6 +338,21 @@ Dans ce cas:
 - La surveillance de la guérison s'étale sur plusieurs années
 
 {{% /collapse %}}
+{{%collapse "Photos de syphilis" %}}
+
+Galerie de photos de syphilis à des stades différents.
+
+{{< gallery >}}
+{{< gallery-item image="/images/photos/syphilis1.webp" title="Tréponème pâle vu par microscope à fond noir" author="par cdc.gov / PHIL">}}
+{{< gallery-item image="/images/photos/syphilis2.webp" title="Lésions de syphilis secondaire" author="par cdc.gov / PHIL">}}
+{{< gallery-item image="/images/photos/syphilis3.webp" title="Lésions de syphilis secondaire des paumes" author="par cdc.gov / PHIL">}}
+{{< gallery-item image="/images/photos/syphilis4.webp" title="Lésions de syphilis secondaire de la plante du pied" author="par cdc.gov / PHIL">}}
+{{< gallery-item image="/images/photos/syphilis5.webp" title="Rash dorsal d'une syphilis secondaire" author="par cdc.gov / PHIL">}}
+{{< gallery-item image="/images/photos/syphilis6.webp" title="Chancre du gland" author="par cdc.gov / PHIL">}}
+{{< gallery-item image="/images/photos/syphilis7.webp" title="Chancre des lèvres" author="par cdc.gov / PHIL">}}
+{{< /gallery >}}
+
+{{% /collapse %}}
 {{%collapse "Conduite à tenir devant une syphilis" "show" %}}
 
 {{< mermaid title="Conduite à tenir pour le diagnostic et la prise en charge de la syphilis. Dr JB Fron d'après SFDermato 2016" >}}

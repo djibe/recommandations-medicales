@@ -23,6 +23,7 @@ todo = "hémochromatose (obj ferritine < 50 µg/L en conservant Hb +11)"
 
 - Découverte d'une hyperferritinémie: interrogatoire et examen clinique pour établir le profil du patient
 - Bilan d'une hyperferritinémie: dosage à jeun à 2 reprises du coefficient de saturation de la transferrine (CST)
+- 5 causes principales: {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, alcool, syndrome inflammatoire, transfusions multiples et hémochromatose génétique liée à HFE
 - Prise en charge de l'hyperferritinémie selon l'orientation diagnostique
 
 {{%/article-summary%}}

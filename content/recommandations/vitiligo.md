@@ -148,10 +148,10 @@ Informations à donner sur le vitiligo:
 Galerie de photos du vitiligo.
 
 {{< gallery >}}
-{{< gallery-item image="/images/photos/vitiligo1.webp"  title="Vitiligo non segmentaire des paupières" author="par Maria Sieglinda von Nudeldorf, CC BY-SA 4.0 via Wikimedia Commons">}}
-{{< gallery-item image="/images/photos/vitiligo2.webp"  title="Vitiligo non segmentaire des mains" author="par James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons">}}
-{{< gallery-item image="/images/photos/vitiligo3.webp"  title="Vitiligo sur peau claire" author="par Produnis">}}
-{{< gallery-item image="/images/photos/vitiligo4.webp"  title="Vitiligo du dos des mains à la lampe de Wood" author="par Chip Bobbert, CC BY-SA 4.0, via Wikimedia Commons">}}
+{{< gallery-item image="/images/photos/vitiligo1.webp" title="Vitiligo non segmentaire des paupières" author="par Maria Sieglinda von Nudeldorf, CC BY-SA 4.0 via Wikimedia Commons">}}
+{{< gallery-item image="/images/photos/vitiligo2.webp" title="Vitiligo non segmentaire des mains" author="par James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons">}}
+{{< gallery-item image="/images/photos/vitiligo3.webp" title="Vitiligo sur peau claire" author="par Produnis">}}
+{{< gallery-item image="/images/photos/vitiligo4.webp" title="Vitiligo du dos des mains à la lampe de Wood" author="par Chip Bobbert, CC BY-SA 4.0, via Wikimedia Commons">}}
 {{< /gallery >}}
 
 {{% /collapse %}}
