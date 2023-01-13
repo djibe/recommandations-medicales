@@ -7,32 +7,41 @@ synonyms = ["Bartonellose à Bartonella henselae, lymphogranulomatose bénigne d
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-28T19:47:00+02:00"
 publishdate = "2021-03-28"
-lastmod = "2022-01-24"
+lastmod = "2023-01-13"
 specialites = ["infectiologie"]
-annees = "2020"
+annees = "2023"
 sources = ["CMIT", "MinAgri"]
 tags = []
 anglais = ["Cat scratch disease"]
 sctid = "79974007"
 image = true
 imageSrc = "Illustration de la maladie des griffes du chat par CDC, domaine public, via Wikimedia Commons"
-todo = "SEO 'maladie griffe du chat traitement'"
 +++
 
 {{%article-summary%}}
 
-- Notion de morsure/griffure par un chat
-- Adénopathies 2-3 semaines après
-- Traitement par discuté chez l'immunocompétent: Azithromycine 500 mg en 1 prise J1 puis 250 mg en 1 prise de J2 à J5 et arrêt
-- Mesures de prévention
+- Notion de morsure ou griffure par un chat
+- Adénopathie régionale souvent unique 2 à 3 semaines plus tard
+- Diagnostic biologique par sérologie *Bartonella henselae* (test peu sensible)
+- Prise en charge par traitement antibiotique (discuté chez l'immunocompétent): Azithromycine 500 mg en 1 prise J1 puis 250 mg en 1 prise de J2 à J5 et arrêt
+- Mesures de prévention des zoonoses: ne pas se frotter les yeux après un contact avec des animaux, lavage des mains systématique après contact avec l'animal ou ses déjections
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Maladie des griffes du chat (MGC)
-: Zoonose causée par la bactérie BGN *Bartonella henselae*. Elle atteint principalement les chatons (< 1 an) de façon asymptomatique et plus rarement les chiens. Transmise entre animaux par les puces.  
-Le plus souvent bénigne avec guérison sans séquelles.
-: Elle atteint surtout les enfants, adolescents et professionnels des animaux (éleveurs, vendeurs, vétérinaires, taxidermistes) mais ne fait pas partie des maladies professionnelles.
+: Zoonose causée par la bactérie BGN *Bartonella henselae*. Elle atteint principalement les chatons (avant 1 an) de façon asymptomatique et plus rarement les chiens. la bactérie est transmise entre animaux par les puces.  
+Maladie le plus souvent bénigne avec guérison sans séquelles.
+: La Maladie des griffes du chat atteint surtout les enfants, adolescents et professionnels des animaux (éleveurs, vendeurs, vétérinaires, taxidermistes) mais ne fait pas partie des maladies professionnelles.
+
+### Abréviations
+
+CMIT
+: Collège des Universitaires des Maladies Infectieuses et Tropicales
+
+MGC
+: Maladie des griffes du chat
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -41,9 +50,9 @@ Signes et symptômes évocateurs de la maladie des griffes du chat:
 
 - Contexte de griffure ou morsure par un chat  
   Exceptionnellement par inoculation (épine ou écharde).
-- Incubation de 2-3 semaines puis apparition d'**adénopathie régionale** (unique dans 50% des cas) pouvant persister plusieurs mois
+- Incubation pendant 2 à 3 semaines puis apparition d'**adénopathie régionale** (unique dans 50% des cas) pouvant persister plusieurs mois
 - Rougeur ou lésion au niveau de la plaie 3 à 10 jours après l'inoculation (50%)
-- Signes généraux discrets (50% des cas)  
+- Signes généraux discrets (50%)  
   Fébricule, asthénie, céphalées, douleurs abdominales.
 - Valvulopathe: risque d'[endocardite]({{< relref "endocardite.md" >}}) à hémocultures négatives
 
@@ -71,10 +80,10 @@ Mesures de prévention des zoonoses, dont la *Maladie des griffes du chat*:
 Azithromycine 500 mg en 1 prise J1 puis 250 mg en 1 prise de J2 à J5 et arrêt
 {.alert .alert-info}
 
-Le traitement par antibiotiques de la maladie des griffes du chat n'est pas systématique (voir citation ci-dessous). Il consiste en une antibiothérapie par macrolide.  
+La prise en charge par un traitement antibiotique de la maladie des griffes du chat n'est pas systématique (voir citation ci-dessous). Il consiste en une antibiothérapie par macrolide.  
 Si allergie ou contre-indication aux macrolides: doxycycline 200 mg x 1/j pendant 14 jours.
 
-> Pour le traitement de la maladie des griffes du chat: << Chez l'immunocompétent, l'intérêt d'une antibiothérapie est discuté, car l'évolution est spontanément favorable >> *CMIT 2020*
+> Pour le traitement de la maladie des griffes du chat: << Chez l'immunocompétent, l'intérêt d'une antibiothérapie est discuté, car l'évolution est spontanément favorable >> (*CMIT 2020*)
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
@@ -91,9 +100,8 @@ Informations et mesures de prévention pour la maladie des griffes du chat:
 {{% /collapse %}}
 {{%sources%}}
 
+- [CMIT. Zoonoses. Item 173. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-173-web.pdf)
 - [CMIT. Zoonoses. UE6 Item 169. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-169-nb.pdf)
 - [Ministère de l'Agriculture. Maladie des griffes du chat. Janvier 2007. (PDF)](https://agriculture.gouv.fr/telecharger/118893)
-
-[CMIT. Zoonoses. Item 173. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-173-web.pdf)
 
 {{%/sources%}}
