@@ -278,14 +278,28 @@ TODO: annexe 5
   - Aggravation: peut être liée à la maladie ou aux traitements et nécessite un avis neurologique
   - Fluctuations motrices de fin de dose
   - Dyskinésies ou dystonies
-- Troubles dysautonomiques
 - Troubles neuro-psychiatriques
   - Dépression (45%): préférer les IRS mais contre-indiqués si lévodopa, entacapone/tolcapone
   - Anxiété: psychothérapie, relaxation, optimisation du traitement, anxiolytiques ([BZD]({{< relref "benzodiazepines.md" >}}) max 12 semaines), voire certains ISRS ou IRSNA si grave
   - Démence (40%) progressive et tardive. Bilan de confusion, réduction des traitements (tricycliques, oxybutynine, ranitidine, BZD, amantadine, agonistes dopaminergiques), avis neurologique.
-- Autres: voir ci-dessous
+- Troubles dysautonomiques et autres (voir chapitre suivant)
 
-### Prise en charge des troubles psychotiques
+{{% /collapse %}}
+{{%collapse "Prise en charge des complications" %}}
+
+### Le syndrome dysautonomique
+
+#### Hypotension orthostatique (45%)
+
+À rechercher systématiquement, réduire les antihypertenseurs, réduire les antiparkinsoniens, augmenter les apports hydro-sodés, éviter de piétiner, relever tête du lit de 30-40°, bas de contention, lever progressif, avis spécialisé.
+
+#### Nausées  
+
+Après le traitement: cèdent progressivement, prendre pendant le repas. Sinon dompéridone temporaire avant le dopaminergique, jamais de métoclopramide. Avis neurologique.
+
+### Les troubles neuropsychiatrique
+
+#### Troubles psychotiques
 
 Les hallucinations sont fréquentes (40% sous dopaminergique), les épisodes délirants plus rares (5-10%).
 
@@ -294,7 +308,7 @@ Réduire progressivement les antiparkinsoniens les plus hallucinogènes (anticho
 
 Sinon recours à la clozapine avec surveillance biologique et ECG initial.
 
-### Prise en charge des troubles du sommeil
+#### Troubles du sommeil
 
 - Réduction du temps de sommeil: supprimer les agonistes du soir
 - Fragmentation du sommeil: dopaminergique nocturne
@@ -303,18 +317,11 @@ Sinon recours à la clozapine avec surveillance biologique et ECG initial.
 - Troubles du sommeil paradoxal: interroger conjoint, sécurisation, réduire les antidépresseurs (ISRS ++)
 - Somnolence diurne: réduire les agonistes, activité physique
 
-### Prise en charge des addictions
+#### Addictions
 
 Les addictions sont fréquentes (1-14%) par iatrogénie dopaminergique (agonistes surtout) et à rechercher systématiquement car souvent dissimulées.
 
 Conduites addictives: [boulimie]({{< relref "boulimie-hyperphagie.md" >}}), hyperactivité, hypersexualité, jeux, achats, punding (besoin d'examiner, manipuler, collectionner, (dé-)monter des objets).
-
-### Prise en charge de la dysautonomie
-
-- Hypotension orthostatique (45%)  
-  À rechercher systématiquement, réduire les antihypertenseurs, réduire les antiparkinsoniens, augmenter les apports hydro-sodés, éviter de piétiner, relever tête du lit de 30-40°, bas de contention, lever progressif, avis spécialisé.
-- Nausées  
-  Après le traitement: cèdent progressivement, prendre pendant le repas. Sinon dompéridone temporaire avant le dopaminergique, jamais de métoclopramide. Avis neurologique.
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

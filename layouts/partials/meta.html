@@ -59,7 +59,7 @@
 <meta property="og:locale" content="fr_FR">
 
 <!-- Image Tags -->
-{{- if and (eq .Section "articles") (eq .Kind "page") -}}<link rel="preload" as="image" href="/images/articles/{{.File.BaseFileName}}.webp">{{ else if and (eq .Section "cabinet") (eq .Kind "page") -}}<link rel="preload" as="image" href="/images/cabinet/{{.File.BaseFileName}}.webp">{{ else if and (eq .Section "recommandations") (eq .Kind "page")}}<link rel="preload" as="image" href="{{ $imageUrl | absURL }}">{{ end }}
+{{- if and (eq .Section "articles") (eq .Kind "page") -}}<link rel="preload" as="image" href="/images/articles/{{.File.BaseFileName}}.webp" fetchpriority="high">{{ else if and (eq .Section "cabinet") (eq .Kind "page") -}}<link rel="preload" as="image" href="/images/cabinet/{{.File.BaseFileName}}.webp" fetchpriority="high">{{ else if and (eq .Section "recommandations") (eq .Kind "page")}}<link rel="preload" as="image" href="{{ $imageUrl | absURL }}" fetchpriority="high">{{ end }}
 <meta property="og:image" content="{{ $imageUrl | absURL }}">
 <meta name="og:image:alt" content="Illustration de {{ $.Params.Prefix }}{{ $.Title }}">
 <meta property="twitter:image" content="{{ $imageUrl | absURL }}">
