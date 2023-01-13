@@ -6,15 +6,15 @@ synonyms = ["Scabiose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-16T16:50:41+01:00
 publishdate = "2020-12-15"
-lastmod = "2022-11-08"
+lastmod = "2023-01-13"
 specialites = ["dermatologie"]
-annees = "2020"
+annees = "2023"
 sources = ["CMIT", "EADV", "CEDEF"]
 tags = ["prurit"]
 anglais = ["Scabies"]
 sctid = "128869009"
 image = true
-imageSrc = "Lésions de gale de la main, photo de Sven Teschke, CC BY-SA 3.0, via Wikimedia Commons"
+imageSrc = "Lésions de gale de la main. Photo de Sven Teschke, CC BY-SA 3.0, via Wikimedia Commons"
 +++
 
 {{%article-summary%}}
@@ -22,15 +22,16 @@ imageSrc = "Lésions de gale de la main, photo de Sven Teschke, CC BY-SA 3.0, vi
 - Évoquer une gale devant tout [prurit](/tags/prurit/)
 - Prise en charge de la gale
   - Traitement concomitant de tout le foyer présentant un cas de gale
-  - Perméthrine crème (Topiscab®) 1 application le soir, renouveler à J8
+  - Traitement par ivermectine orale (adaptée au poids) en 1 prise à renouveler 8 jours après  
+    ou local par perméthrine crème (Topiscab®) 1 application le soir, renouveler à J8
   - Désinfection du linge et de la literie
-  - Éviction pendant 3 jours
+  - Éviction de la collectivité pendant 3 jours
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Gale humaine
-: Contamination cutanée inter-humaine par le *sarcopte* (acarien *Sarcoptes scabiei* variété *hominis*). Les signes cliniques de la gale sont la conséquence à la fois de l'infestation parasitaire et de la réaction immunitaire contre les sarcoptes et leurs déjections.  
+: Ectoparasitose humaine par contamination cutanée par le *sarcopte* (acarien *Sarcoptes scabiei hominis*). La dermatose de la gale est la conséquence à la fois de l'infestation parasitaire et de la réaction immunitaire contre les sarcoptes et leurs déjections.  
 Pic de contamination de gale d'août à novembre.
 : Le cycle de vie du sarcopte est de 4-6 semaines.
 
@@ -69,7 +70,7 @@ EADV
 
 Le diagnostic de gale est clinique. Cependant un prurit isolé non évocateur ne doit pas faire réaliser un traitement d'épreuve.
 
-Incubation silencieuse pendant 1 mois (3-6 semaines). En cas de réinfestation, les symptômes surviennent en 1 à 3 jours.
+Incubation silencieuse pendant 1 mois (5 jours à 6 semaines). En cas de réinfestation, les symptômes surviennent en 1 à 3 jours.
 
 ### Interrogatoire
 
@@ -157,7 +158,7 @@ Le prurit nocturne doit disparaître sous 2 semaines mais le prurit peut persist
 
 ### Traitement anti-scabieux
 
-En première intention pour le traitement de la gale, on peut utiliser la [perméthrine crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61712553&typedoc=R) ou l'ivermectine orale.
+En première intention pour le traitement de la gale, on peut utiliser la [perméthrine crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61712553&typedoc=R) ou l'ivermectine orale (préférée par le *CMIT* si +15 kg).
 
 #### Perméthrine (Topiscab® 5% crème)
 
@@ -202,7 +203,7 @@ Traitement de première intention de la gale selon le *CMIT*, à prendre au moin
 
 ~~Spregal® lotion~~, benzoate de benzyle 10-25% (Ascabiol®) à J1-J2-J8.
 
-### Cas particuliers
+### Prise en charge des formes particulières
 
 - Impétiginisation: antibiothérapie
 - Persistance de nodules scabieux: dermocorticoïdes
@@ -288,22 +289,18 @@ Les sacs de vêtements peuvent être ouverts avec des gants jetables et lavés e
 
 #### Jour 8
 
-Le soir se re-badigeonner avec le Topiscab, laisser agir 12h. Lavez les draps à 60°.
-
-#### Jour 15
-
-Si traitement oral: 2<sup>e</sup> prise orale du nombre de comprimés prescrits.
+- Si traitement local: se re-badigeonner avec le Topiscab, laisser agir 12h. Lavez les draps à 60°.
+- Si traitement oral: 2<sup>e</sup> prise orale du nombre de comprimés prescrits.
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [CMIT. Gale et pédiculose. Item 171. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-171-web.pdf)
 - Prescrire Redaction. Gale. Premiers choix Prescrire. Janvier 2021.
 - [CMIT. Ectoparasitoses cutanées : gale et pédiculose. UE 6 Item 167. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-167-nb.pdf)
 - [Salavastru C. et al; European Academy of Dermatology and Venereology. European guideline for the management of scabies. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14351)
 - [Collège des enseignants de dermatologie de France (CEDEF). Ectoparasitoses cutanées : gale et pédiculose. Item 167 UE 6. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/15-Item-167-UE6-Ectoparasitoses-cutanees-gale-et-pediculose.pdf)
 - [HCSP. Survenue de un ou plusieurs cas de gale. Conduite à tenir. 2012.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=312)
 - [Omedit Centre. Prise en charge et traitement des sujets atteints de gale. Mars 2010. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/6308.pdf)
-
-[CMIT. Gale et pédiculose. Item 171. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-171-web.pdf)
 
 {{%/sources%}}
