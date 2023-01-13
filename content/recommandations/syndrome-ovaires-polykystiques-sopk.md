@@ -200,7 +200,7 @@ En cas d'infertilité par anovulation isolée, le clomiphène:
 
 Risque de grossesse multiple.
 
-#### Metformine
+#### Metformine et infertilité
 
 Pourrait être utilisé de façon exclusive en cas d'infertilité par anovulation isolée.  
 ou associée au clomiphène si patiente obèse.

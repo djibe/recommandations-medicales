@@ -41,7 +41,7 @@ DPI = dossier patient informatisé (ou logiciel médical)
 
 ## Forfait structure Volet 2 : Service aux patients 2023
 
-Les primes du volet 2 ne sont accessibles que lorsque l'ensemble des points du Volet 1 sont respectés, et versées à la carte selon les critères remplis (625 pts soit 4375€ + effection SAS max 2520€):
+Les primes du volet 2 ne sont accessibles que lorsque l'ensemble des points du Volet 1 sont respectés, et versées à la carte selon les critères remplis (705 pts soit 4935€ + effection SAS max 2520€):
 
 - Taux de dématérialisation (formulaires AmeliPro) |  100 pts - 700€
 - DMP: ≥ 20% des consultations avec 1 document versé | 40 pts - 280€

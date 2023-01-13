@@ -24,21 +24,19 @@ todo = "SEO, https://www.sforl.org/wp-content/uploads/2020/02/recoRSIA.pdf, indi
 
 - Vérifier les critères cliniques de la sinusite
 - Recherche systématique de complications devant un tableau de sinusite
-- Prise en charge de la sinusite par antibiotique (vérifier les critères en cas de sinusite maxillaire):
-  - Adulte: Amoxicilline 1 g x 3/j pendant 7 jour
-  - Enfant
+- Prise en charge de la sinusite par antibiotique (vérifier les critères en cas de sinusite maxillaire)
 - La prise en charge des sinusites pédiatriques en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Sinusite aiguë purulente
-: Infection d'une ou plusieurs cavités sinusiennes de la face par des bactéries évoluant depuis < 4 semaines.  
+: Infection d'une ou plusieurs cavités sinusiennes de la face par des bactéries évoluant depuis moins de 4 semaines.  
 Les sinusites maxillaires aiguës représentent la grande majorité. Elles surviennent souvent au décours d'une rhinopharyngite aiguë.
-: Germes: Pneumocoque, H. influenzae.
-: Note de Prescrire: La plupart guérissent spontanément en 1 à 2 semaines. Une méta-analyse a montré l'absence d'intérêt de la corticothérapie orale.
+: Germes: Pneumocoque, *H. influenzae*.
+: Note de *Prescrire*: La plupart des sinusites guérissent spontanément en une à deux semaines. Une méta-analyse a montré l'absence d'intérêt de la corticothérapie orale.
 
-### Formes selon l'âge
+### Formes de sinusites selon l'âge
 
 Ethmoïdite
 : Limitée aux jeunes enfants
@@ -251,6 +249,7 @@ graph TB
 
 ### À lire
 
-[CMIT. Infections naso-sinusiennes de l'adulte et de l'enfant. UE6 Item 145. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-145-nb.pdf)
+- [CMIT. Infections naso-sinusiennes de l'adulte et de l'enfant. Item 148. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-148-web.pdf)
+- [CMIT. Infections naso-sinusiennes de l'adulte et de l'enfant. UE6 Item 145. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-145-nb.pdf)
 
 {{%/sources%}}

@@ -116,6 +116,12 @@ EAN
 IMAO B
 : inhibiteurs de la monoamine oxydase de type B
 
+IRSNA
+: inhibiteurs de la recapture de la sérotonine et de la noradrénaline
+
+ISRS
+: inhibiteur sélectif de la recapture de la sérotonine
+
 PcP
 : personne *cum* Parkinson (vivant avec)
 
@@ -169,9 +175,17 @@ Les symptômes sont initialement unilatéraux:
   - Déconditionnement physique
 - Hypertonie extrapyramidale  
   **Rigidité** plastique (manœuvre de Froment) avec roue dentée.
-- **Tremblement de repos** (70% au début)  
-  Disparaît au mouvement volontaire, peut apparaître au pouce-index, voire poignet ou jambe.
+- **Tremblement de repos** (70% au début)
+  - Fin, rythmique, lent 4-6 Hz, unilatéral ou asymétrique au début
+  - Distal (pouce, index, poignet voire lèvre, menton, mâchoire, jambes)  
+    Rarement tête, cou, voix.
+  - Diminue au mouvement volontaire  
+    Peut être plus marqué à la posture, il est alors retardé (à la différence du tremblement essentiel)
+  - Non modifié par l'alcool et les bêtabloquants
+  - Aggravé par le calcul et l'émotion
 - **Instabilité posturale** précoce
+- Dysautonomie
+  - Hypotension artérielle orthostatique: chutes, lipothymies/malaises
 - Symptômes non moteurs
   - Apathie, troubles de la motivation
   - Douleurs pseudo-rhumatismales (épaule, rachis) ou diverses (paresthésies, radiculalgies)
@@ -180,6 +194,7 @@ Les symptômes sont initialement unilatéraux:
   - Constipation
   - Amaigrissement et asthénie
   - Hallucinations (visuelles ++)
+  - Déclin cognitif (1/3 au diagnostic)
 - **Signes négatifs / atypiques**
   - À Rechercher tous les 6-12 mois
   - Drapeaux rouges (voir section précédente)
@@ -191,9 +206,19 @@ Les symptômes sont initialement unilatéraux:
   - Expositions  
     Plomb, manganèse et métaux lourds, solvants organiques, pesticides, eaux de puits.
 
+#### Le syndrome malin des neuroleptiques
+
+Le syndrome malin des neuroleptiques doit être suspecté chez tout patient parkinsonien fébrile avec aggravation des symptômes. Il peut être déclenché apr l'arrêt brutal des traitements.
+{.alert .alert-warning}
+
+Le syndrome malin des neuroleptiques provoque: troubles de la conscience, rigidité musculaire généralisée, hyperthermie, dysautonomie.
+
 ### Examen clinique
 
-Évaluation motrice (MDS-UPDRS, Berg Balance Scale, Timed Up and Go, test de marche de 6 minutes, test des 10 mètres de marche)
+- Poids, taille, IMC, variations
+- Pression artérielle, pouls, hypotension orthostatique
+- Évaluation motrice  
+  MDS-UPDRS, Berg Balance Scale, Timed Up and Go, test de marche de 6 minutes, test des 10 mètres de marche.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -205,18 +230,30 @@ Les symptômes sont initialement unilatéraux:
 Le DATscan peut être prescrit par le neurologue pour aider à différencier un tremblement essentiel d'un tremblement parkinsonien.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la Maladie de Parkinson" %}}
 
-- ALD n°16
+Le traitement est symptomatique et pluridisciplinaire:
+
+- [ALD n°16]({{< relref "affection-longue-duree.md" >}})
 - Activité physique régulière et diversifiée
 - Suivi paramédical
   - Kinésithérapie: aucune technique n'a de supériorité
   - Orthophonie
   - Ergothérapeute
+  - Psychologique
+- Adaptation du domicile
+- Contexte social et entourage
+- Information du patient: [guide HAS Parkinson (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-09/gp_parkinson_10818_001_008.pdf)
+- Association de patients: TODO:
 
 Maladie professionnelle: seule l'intoxication au manganèse est reconnue. TODO:
 
 ### Traitements spécifiques
+
+Ne jamais interrompre brutalement un traitement antiparkinsonien (risque d'akinésie aiguë ou de syndrome malin des neuroleptiques)
+{.alert .alert-warning}
+
+Le traitement de la Maladie de Parkinson n'est pas une urgence. Intérêt d'un diagnostic fiable avant l'introduction des traitements.
 
 - IMAO B  
   Sélégiline, rasagiline.
@@ -230,13 +267,66 @@ Maladie professionnelle: seule l'intoxication au manganèse est reconnue. TODO:
 
 Stimulation cérébrale profonde
 
+TODO: annexe 5
+
 {{% /collapse %}}
-{{%collapse "Suivi" %}}
+{{%collapse "Suivi de la maladie" %}}
 
 - Réponse au traitement
 - Troubles moteurs
+  - Aggravation: rechercher une pathologie intercurrente (infection, constipation), l'observance (horaire, posologie)
+  - Aggravation: peut être liée à la maladie ou aux traitements et nécessite un avis neurologique
+  - Fluctuations motrices de fin de dose
+  - Dyskinésies ou dystonies
 - Troubles dysautonomiques
 - Troubles neuro-psychiatriques
+  - Dépression (45%): préférer les IRS mais contre-indiqués si lévodopa, entacapone/tolcapone
+  - Anxiété: psychothérapie, relaxation, optimisation du traitement, anxiolytiques ([BZD]({{< relref "benzodiazepines.md" >}}) max 12 semaines), voire certains ISRS ou IRSNA si grave
+  - Démence (40%) progressive et tardive. Bilan de confusion, réduction des traitements (tricycliques, oxybutynine, ranitidine, BZD, amantadine, agonistes dopaminergiques), avis neurologique.
+- Troubles du sommeil
+  - Réduction du temps de sommeil: supprimer les agonistes du soir
+  - Fragmentation du sommeil: dopaminergique nocturne
+  - Insomnie d'endormissement: prise en charge de l'anxiété, hypnotique demi-vie courte
+  - Hallucinations: avis neurologique
+  - Troubles du sommeil paradoxal: interroger conjoint, sécurisation, réduire les antidépresseurs (ISRS ++)
+  - Somnolence diurne: réduire les agonistes, activité physique
+- Dysautonomie
+  - Hypotension orthostatique (45%) à rechercher systématiquement 
+  - Autres: voir ci-dessous
+
+### Prise en charge des troubles psychotiques
+
+Les hallucinations sont fréquentes (40% sous dopaminergique), les épisodes délirants plus rares (5-10%).
+
+Éliminer une autre cause ou iatrogénie et demander un avis neurologique.  
+Réduire progressivement les antiparkinsoniens les plus hallucinogènes (anticholinergiques > amantadine > agonistes dopaminergiques > IMAO B et ICOMT).
+
+Sinon recours à la clozapine avec surveillance biologique et ECG initial.
+
+### Prise en charge des addictions
+
+Les addictions sont fréquentes (1-14%) par iatrogénie dopaminergique (agonistes surtout) et à rechercher systématiquement car souvent dissimulées.
+
+Conduites addictives: [boulimie]({{< relref "boulimie-hyperphagie.md" >}}), hyperactivité, hypersexualité, jeux, achats, punding (besoin d'examiner, manipuler, collectionner, (dé-)monter des objets).
+
+{{% /collapse %}}
+{{%collapse "Information du patient" %}}
+
+Les informations sur la maladie sont expliquées et reprises sur plusieurs consultations à la personne et ses aidants:
+
+### Informations sur la Maladie de Parkinson
+
+- Les symptômes et l'évolution sont différents d'une personne à l'autre et la sensibilité au traitement peut différer
+
+TODO: p20, informer hallucinations, addictions
+
+### Informations sur les traitements de la Maladie de Parkinson
+
+TODO: p20
+
+TODO: ETP Annexe 4 + p22
+
+> *HAS 2016*
 
 {{% /collapse %}}
 {{%sources%}}

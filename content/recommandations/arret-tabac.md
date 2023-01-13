@@ -425,7 +425,7 @@ L'entretien motivationnel n'est pas une confrontation ou une persuasion.
 [Échelle de l'évaluation du sentiment d'efficacité (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_evaluation_sentiment_efficacite.pdf)
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir" "show" %}}
+{{%collapse "Prise en charge de l'arrêt du tabac" "show" %}}
 
 {{< mermaid title="Dépistage systématique du tabagisme et prise en charge de l'arrêt du tabac (hors bilan des complications). Dr JB Fron d'après HAS 2014" >}}
 graph TB
@@ -443,6 +443,8 @@ graph TB
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< card-link-external title="MOOC Tabac : Arrêtez comme vous voulez !" subtitle="APHP, Paris-Descartes, Inserm ..." url="https://www.pns-mooc.com/fr/mooc/18/presentation">}}
 
 {{< card-link-external title="Se former aux addictions" subtitle="Intervenir Addictions" url="https://intervenir-addictions.fr">}}
 

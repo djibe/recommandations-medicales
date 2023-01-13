@@ -1,7 +1,7 @@
 +++
-title = "Générateur de contrat et modèle de contrat pour le remplacement en médecine libérale"
+title = "Générateur et modèle de contrat de remplacement en exercice libéral"
 titleSeo = "Générateur et modèle de contrat de remplacement"
-description = "Modèle de contrat pour les remplacements de médecins libéraux et générateur de contrat"
+description = "Générateur et modèle de contrat de remplacement de médecins libéraux d'après le modèle du CNOM"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-05T12:18:00+02:00"
 publishdate = "2022-12-08"
@@ -13,10 +13,10 @@ imageSrc = "storyset / Freepik"
 todo = "validate form > Store data > Copier > Télécharger .doc"
 +++
 
-**RecoMédicales** vous permet de créer un contrat de remplacement rapidement d'après le modèle officiel du Conseil de l'Ordre.
+**RecoMédicales** vous permet de créer un contrat de remplacement rapidement d'après le modèle officiel du Conseil de l'Ordre (CNOM).
 {.lead}
 
-## Générer un contrat de remplacement
+## Générer et éditer un contrat de remplacement
 
 Créer un contrat de remplacement pour le médecin libéral depuis le navigateur web.  
 Évidemment aucune donnée n'est récoltée (comme partout ailleurs sur **RecoMédicales**).
