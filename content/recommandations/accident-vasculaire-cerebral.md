@@ -165,7 +165,7 @@ Liste des contre-indications à la thrombolyse par risque hémorragique:
 - Ulcères gastro-intestinaux documentés au cours des 3 derniers mois, varices œsophagiennes, anévrisme artériel, malformations artérielles ou veineuses.
 - Néoplasie majorant le risque hémorragique.
 - Hépatopathie sévère  
-  Insuffisance hépatique, cirrhose, hypertension portale, varices œsophagiennes, hépatite évolutive.
+  Insuffisance hépatique, cirrhose, hypertension portale (varices œsophagiennes), hépatite évolutive.
 - Intervention chirurgicale ou traumatismes importants au cours des 3 derniers mois.
 
 ### Contre-indications à la thrombolyse en cas d'accident vasculaire cérébral aigu

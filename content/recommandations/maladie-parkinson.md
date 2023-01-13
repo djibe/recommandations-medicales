@@ -283,16 +283,7 @@ TODO: annexe 5
   - Dépression (45%): préférer les IRS mais contre-indiqués si lévodopa, entacapone/tolcapone
   - Anxiété: psychothérapie, relaxation, optimisation du traitement, anxiolytiques ([BZD]({{< relref "benzodiazepines.md" >}}) max 12 semaines), voire certains ISRS ou IRSNA si grave
   - Démence (40%) progressive et tardive. Bilan de confusion, réduction des traitements (tricycliques, oxybutynine, ranitidine, BZD, amantadine, agonistes dopaminergiques), avis neurologique.
-- Troubles du sommeil
-  - Réduction du temps de sommeil: supprimer les agonistes du soir
-  - Fragmentation du sommeil: dopaminergique nocturne
-  - Insomnie d'endormissement: prise en charge de l'anxiété, hypnotique demi-vie courte
-  - Hallucinations: avis neurologique
-  - Troubles du sommeil paradoxal: interroger conjoint, sécurisation, réduire les antidépresseurs (ISRS ++)
-  - Somnolence diurne: réduire les agonistes, activité physique
-- Dysautonomie
-  - Hypotension orthostatique (45%) à rechercher systématiquement 
-  - Autres: voir ci-dessous
+- Autres: voir ci-dessous
 
 ### Prise en charge des troubles psychotiques
 
@@ -303,11 +294,27 @@ Réduire progressivement les antiparkinsoniens les plus hallucinogènes (anticho
 
 Sinon recours à la clozapine avec surveillance biologique et ECG initial.
 
+### Prise en charge des troubles du sommeil
+
+- Réduction du temps de sommeil: supprimer les agonistes du soir
+- Fragmentation du sommeil: dopaminergique nocturne
+- Insomnie d'endormissement: prise en charge de l'anxiété, hypnotique demi-vie courte
+- Hallucinations: avis neurologique
+- Troubles du sommeil paradoxal: interroger conjoint, sécurisation, réduire les antidépresseurs (ISRS ++)
+- Somnolence diurne: réduire les agonistes, activité physique
+
 ### Prise en charge des addictions
 
 Les addictions sont fréquentes (1-14%) par iatrogénie dopaminergique (agonistes surtout) et à rechercher systématiquement car souvent dissimulées.
 
 Conduites addictives: [boulimie]({{< relref "boulimie-hyperphagie.md" >}}), hyperactivité, hypersexualité, jeux, achats, punding (besoin d'examiner, manipuler, collectionner, (dé-)monter des objets).
+
+### Prise en charge de la dysautonomie
+
+- Hypotension orthostatique (45%)  
+  À rechercher systématiquement, réduire les antihypertenseurs, réduire les antiparkinsoniens, augmenter les apports hydro-sodés, éviter de piétiner, relever tête du lit de 30-40°, bas de contention, lever progressif, avis spécialisé.
+- Nausées  
+  Après le traitement: cèdent progressivement, prendre pendant le repas. Sinon dompéridone temporaire avant le dopaminergique, jamais de métoclopramide. Avis neurologique.
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

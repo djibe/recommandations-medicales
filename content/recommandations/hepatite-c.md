@@ -19,7 +19,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "Illustration de l'hépatite C par scientificanimations.com, CC BY-SA 4.0"
-todo = "SEO 'charge virale hepatite c', symptômes/fatigue, signes d'insuffisance hépatique, signes de cirrhose, hépatoprotection"
+todo = "SEO 'charge virale hepatite c', symptômes/fatigue, hépatoprotection"
 +++
 
 {{%article-summary%}}
@@ -125,9 +125,11 @@ Personnes à risque d'hépatite C:
 ### Examen clinique
 
 - Poids, taille, **IMC**, pression artérielle ({{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}})
-- Signes d'insuffisance hépatique
 - Signes de cirrhose
-  - Hypertension portale: {{< clinique/hypertension-portale >}}
+  - Insuffisance hépato-cellulaire  
+    {{< clinique/insuffisance-hepato-cellulaire >}}
+  - Hypertension portale  
+    {{< clinique/hypertension-portale >}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

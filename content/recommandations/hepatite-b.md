@@ -93,7 +93,8 @@ Circonstances de découverte d'une hépatite B:
   - La sérologie révèle des Ag HBs et Ac anti-HBc positifs, transaminases 5-20 N
   - L'hépatite B aiguë est une [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
 - Infection pauci-symptomatique: [fatigue](/tags/fatigue/)
-- Signes d'insuffisance hépatocellulaire
+- Signes d'insuffisance hépato-cellulaire  
+  {{< clinique/insuffisance-hepato-cellulaire >}}
 - Signes d'insuffisance portale  
   {{< clinique/hypertension-portale >}}
 - Cytolyse ALAT > ASAT ± cholestase
