@@ -3,7 +3,7 @@ title = "Dermatite séborrhéique"
 prefix = "la "
 titleSeo = "Dermatite séborrhéique"
 description = "Recommandations pour la prise en charge de la dermatite séborrhéique. Visage ou cuir chevelu: ciclopirox crème ou gels moussants, kétoconazole puis entretien"
-synonyms = ["Eczéma séborrhéique, dermite séborrhéique"]
+synonyms = ["Dermite séborrhéique", "eczéma séborrhéique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-01T22:39:41+02:00
 publishdate = "2020-09-01"
@@ -22,10 +22,14 @@ imageSrc = "Dermatite séborrhéique du visage, Roymishali, CC BY-SA 3.0, via Wi
 {{%article-summary%}}
 
 - Le diagnostic de dermatite séborrhéique est clinique
-- Prise en charge de la dermatite séborrhéique par ciclopirox olamine ou kétoconazole
-- Dépister le [VIH]({{< relref "vih-sida.md" >}}) si dermatite séborrhéique récente, extensive ou résistante
+- Prise en charge de la dermatite séborrhéique par ciclopirox olamine 2% crème x 2/j ou kétoconazole 2% gel moussant/crème x 2/semaine
+  - Mesures d'hygiène: éviction des facteurs déclenchants, toilette quotidienne au savon doux
+  - Traitement d'attaque pendant 2 à 4 semaines
+  - Traitement d'entretien 2 à 4 fois par mois au long cours
+  - Cuir chevelu: kétoconazole ou ciclopirox 1,5% shampooing x 2-3/semaine
+- Si dermatite séborrhéique récente, extensive ou résistante: dépister le [VIH]({{< relref "vih-sida.md" >}})
 
-Chapitres liés: [acné]({{< relref "acne.md" >}}), [eczéma]({{< relref "dermatite-atopique.md" >}}), [rosacée]({{< relref "rosacee.md" >}})
+Chapitres liés: [acné]({{< relref "acne.md" >}}), [eczéma]({{< relref "dermatite-atopique.md" >}}), [mycoses]({{< relref "mycoses-dermatophytes-candidoses.md" >}}), [rosacée]({{< relref "rosacee.md" >}})
 
 {{%/article-summary%}}
 {{% collapse "Définition" %}}
@@ -170,7 +174,7 @@ graph TB
 {{%/collapse%}}
 {{% collapse "Information du patient" %}}
 
-Éléments à présenter au patient concernant la dermatite séborrhéique:
+Éléments à présenter au patient concernant la dermite séborrhéique:
 
 - La dermatite séborrhéique est une maladie chronique bénigne, évoluant par poussées
 - Le traitement améliore l'aspect esthétique mais est seulement suspensif
