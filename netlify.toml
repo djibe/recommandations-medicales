@@ -39,12 +39,12 @@ HUGO_ENABLEGITINFO = "false"
 [[headers]]
   for = "*.html*"
   [headers.values]
-    Cache-Control = "private, max-age=1800"
+    Cache-Control = "private, max-age=3600" # 1h for analytics
 
 [[headers]]
   for = "*.json*"
   [headers.values]
-    Cache-Control = "public, max-age=1800, must-revalidate"
+    Cache-Control = "public, max-age=14400, must-revalidate"
 
 [[headers]]
   for = "*.css"
@@ -59,10 +59,20 @@ HUGO_ENABLEGITINFO = "false"
 [[headers]]
   for = "favicon.ico"
   [headers.values]
-    Cache-Control = "public, max-age=1209600, must-revalidate" # 2 weeks ; 3M = 7257600
+    Cache-Control = "public, max-age=1209600, must-revalidate" # 2 weeks
 
 [[headers]]
   for = "*.jpg*"
+  [headers.values]
+    Cache-Control = "public, max-age=2419200, must-revalidate, stale-while-revalidate=86400"
+
+[[headers]]
+  for = "*.png*"
+  [headers.values]
+    Cache-Control = "public, max-age=2419200, must-revalidate, stale-while-revalidate=86400"
+
+[[headers]]
+  for = "*.webp*"
   [headers.values]
     Cache-Control = "public, max-age=2419200, must-revalidate, stale-while-revalidate=86400"
 
