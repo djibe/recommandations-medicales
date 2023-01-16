@@ -89,7 +89,7 @@ VPPB
 
 ### Signes d'alerte devant des vertiges
 
-Drapeaux rouges à rechercher devant chaque épisode de vertiges:
+Drapeaux rouges à rechercher devant chaque épisode de [vertiges](/tags/vertige/):
 
 - Épisode d'allure de VPPB prolongé **plus d'un mois**
 - Neurologiques
@@ -216,10 +216,10 @@ Traitements inutiles : acétylleucine (Tanganil®), bétahistine, piracétam, m�
 {{< youtube id="iIQrWzeVX2Y" title="Manœuvre de Epley (ORL INFORMATION)" >}}
 
 - Prescrire Redaction. Vertiges positionnels paroxystiques bénins. Premiers choix Prescrire. Janvier 2022.
+- [Collège des Enseignants de Neurologie (CEN). Vertige. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/vertige)
 - [HAS. Vertiges positionnels paroxystiques bénins : Manoeuvres diagnostiques et thérapeutiques. Décembre 2017.](https://www.has-sante.fr/jcms/c_2819896/fr/vertiges-positionnels-paroxystiques-benins-manoeuvres-diagnostiques-et-therapeutiques)
 - [SFORL. THÈME : VERTIGE POSITIONNEL PAROXYSTIQUE BENIN. Janvier 2012. (PDF)](https://www.sforl.org/wp-content/uploads/2020/02/Vertige-Positionnel-Paroxystique-Benin-2012-Janvier.pdf)
 - Collège Français d'ORL & CCF. Vertige. Item 101 UE4.
-- [Collège des Enseignants de Neurologie (CEN). Vertige.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/vertige)
 
 ### À lire
 

@@ -309,10 +309,9 @@ graph TB
 
 [**NB.** Demande de prise en charge à 100% par des députés sans réponse du gouvernement](https://questions.assemblee-nationale.fr/q15/15-4922QE.htm)
 
+- [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/migraine-nevralgie-du-trijumeau-algies-face)
 - [Donnet A. et al, SFEMC. Recommandations pour le diagnostic et le traitement de l'algie vasculaire de la face. Revue Neurologique. 2014. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20pour%20le%20diagnostic%20et%20le%20traitement%20de%20l%2527algie%20vasculaire%20de%20la%20face%20(3).pdf)
 - [Wilbrink LA et al. Stepwise web-based questionnaires for diagnosing cluster headache: LUCA and QATCH. Cephalalgia. 2013.](https://journals.sagepub.com/doi/10.1177/0333102413479835)
 - Prescrire Redaction. Algie vasculaire de la face, en bref. Janvier 2012.
-- [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/migraine-nevralgie-du-trijumeau-algies-face)
-- [CiSMeF. Algie vasculaire de la face](https://www.cismef.org/page/algie-vasculaire-de-la-face)
 
 {{%/sources%}}

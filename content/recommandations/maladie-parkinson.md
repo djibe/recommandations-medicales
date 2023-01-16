@@ -13,10 +13,11 @@ sources = ["HAS"]
 tags = []
 anglais = ["Parkinson's disease (PD)"]
 sctid = "49049000"
+flowchart = true
 draft = true
 image = false
 imageSrc = ""
-todo = "College, Prescrire"
+todo = "College, Prescrire, HAS 2016 chap6.3 + 7 + p73"
 +++
 
 {{%article-summary%}}
@@ -30,8 +31,7 @@ Maladie de Parkinson idiopathique (MPI)
 : Maladie dégénérative de cause inconnue touchant les systèmes dopaminergiques, cholinergiques, noradrénergiques et sérotoninergiques.
 Première cause de syndrome parkinsonien,
 2e maladie neurodégénérative (derrière Alzheimer)
-
-Le diagnostic de certitude est histologique (et donc autopsique).
+: Le diagnostic de certitude est histologique (et donc autopsique).
 
 FDR de chute
 
@@ -132,7 +132,7 @@ SCP
 : stimulation cérébrale profonde
 
 SPECT
-: {{%lang%}}Single-photon emission computed tomography{{%/lang%}}
+: {{%lang%}}Single-photon emission computed tomography{{%/lang%}} (ou DAT-scan)
 {.dl-inline}
 
 {{% /collapse %}}
@@ -185,7 +185,7 @@ Les symptômes sont initialement unilatéraux:
   - Aggravé par le calcul et l'émotion
 - **Instabilité posturale** précoce
 - Dysautonomie
-  - Hypotension artérielle orthostatique: chutes, lipothymies/malaises
+  - Hypotension artérielle orthostatique (45%): chutes, lipothymies/malaises
 - Symptômes non moteurs
   - Apathie, troubles de la motivation
   - Douleurs pseudo-rhumatismales (épaule, rachis) ou diverses (paresthésies, radiculalgies)
@@ -219,60 +219,84 @@ Le syndrome malin des neuroleptiques provoque: troubles de la conscience, rigidi
 - Pression artérielle, pouls, hypotension orthostatique
 - Évaluation motrice  
   MDS-UPDRS, Berg Balance Scale, Timed Up and Go, test de marche de 6 minutes, test des 10 mètres de marche.
+- Évaluation gériatrique standardisée
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 > << Il n'y a aucun examen paraclinique diagnostique de référence >> (*HAS 2016*)
 
+### IRM cérébrale
+
+Indications limitées de l'IRM cérébrale: suspicion de syndrome parkinsonien vasculaire ou d'un autre syndrome parkinsonien dégénératif (extension de l'atrophie corticale).
+
 ### DATscan
 
-Le DATscan peut être prescrit par le neurologue pour aider à différencier un tremblement essentiel d'un tremblement parkinsonien.
+Le DAT-scan (SPECT au bêta-CIT) peut être prescrit par le neurologue pour aider à différencier un tremblement essentiel d'un tremblement parkinsonien.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la Maladie de Parkinson" %}}
 
-Le traitement est symptomatique et pluridisciplinaire:
+Le traitement est symptomatique et pluridisciplinaire avec un accès privilégié au neurologue (minimum semestriel):
 
 - [ALD n°16]({{< relref "affection-longue-duree.md" >}})
+- Suivi minimal trimestriel  
+  Avis gériatrique si besoin.
 - Activité physique régulière et diversifiée
 - Suivi paramédical
-  - Kinésithérapie: aucune technique n'a de supériorité
-  - Orthophonie
+  - **Kinésithérapeute**: aucune technique n'a de supériorité
+  - **Orthophoniste** (micrographie, voix, déglutition)
+  - Infirmier (bilan et interventions)
   - Ergothérapeute
-  - Psychologique
+  - Psychologue
+  - Pédicure-podologue, psychomotricien, diététicien, orthoptiste ...
+- Autres traitements: antalgiques, anxiolytiques, antidépresseurs
 - Adaptation du domicile
 - Contexte social et entourage
-- Information du patient: [guide HAS Parkinson (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-09/gp_parkinson_10818_001_008.pdf)
+- Besoins en soins palliatifs
+- Information du patient: [guide HAS Maladie de Parkinson (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-09/gp_parkinson_10818_001_008.pdf)
 - Association de patients: TODO:
 
 Maladie professionnelle: seule l'intoxication au manganèse est reconnue. TODO:
 
-### Traitements spécifiques
+### Les traitements spécifiques du Parkinson
 
 Ne jamais interrompre brutalement un traitement antiparkinsonien (risque d'akinésie aiguë ou de syndrome malin des neuroleptiques)
 {.alert .alert-warning}
 
 Le traitement de la Maladie de Parkinson n'est pas une urgence. Intérêt d'un diagnostic fiable avant l'introduction des traitements.
 
+#### Les traitements médicamenteux de la Maladie de Parkinson
+
+Les traitements médicamenteux antiparkinsoniens ne sont pas indispensables en l'absence de retentissement moteur.
+
 - IMAO B  
   Sélégiline, rasagiline.
 - Agonistes dopaminergiques
+  - Le plus longtemps possible
   - Dérivés de l'ergot de seigle: ropinirole, piribédil, pramipexole, rotigotine (transdermique)
   - Autres: bromocriptine, lisuride
-- L-Dopa
-- Anticholinergiques
-- Inhibiteurs de la catéchol-O-méthyl transférase: entacapone, tolcapone
 - Amantadine
+- L-Dopa  
+  Retarder l'instauration par fluctuations et dyskinésies.
+- Anticholinergiques (tremblement uniquement)
+- Inhibiteurs de la catéchol-O-méthyl transférase: entacapone, tolcapone
 
-Stimulation cérébrale profonde
+#### La stimulation cérébrale profonde
 
 TODO: annexe 5
 
 {{% /collapse %}}
 {{%collapse "Suivi de la maladie" %}}
 
-- Réponse au traitement
+Éléments de suivi à reprendre en consultation de suivi avec la personne vivant avec une Maladie de Parkinson:
+
+- Traitement
+  - Bilan de toutes les prises médicamenteuses
+  - Dernières modifications
+  - Réponse au traitement et effets indésirables (dont modifications du comportement)
+  - Observance
+  - Jamais d'arrêt brutal
 - Troubles moteurs
   - Aggravation: rechercher une pathologie intercurrente (infection, constipation), l'observance (horaire, posologie)
   - Aggravation: peut être liée à la maladie ou aux traitements et nécessite un avis neurologique
@@ -282,22 +306,38 @@ TODO: annexe 5
   - Dépression (45%): préférer les IRS mais contre-indiqués si lévodopa, entacapone/tolcapone
   - Anxiété: psychothérapie, relaxation, optimisation du traitement, anxiolytiques ([BZD]({{< relref "benzodiazepines.md" >}}) max 12 semaines), voire certains ISRS ou IRSNA si grave
   - Démence (40%) progressive et tardive. Bilan de confusion, réduction des traitements (tricycliques, oxybutynine, ranitidine, BZD, amantadine, agonistes dopaminergiques), avis neurologique.
-- Troubles dysautonomiques et autres (voir chapitre suivant)
+- Troubles dysautonomiques et autres (voir section suivante)
 
 {{% /collapse %}}
 {{%collapse "Prise en charge des complications" %}}
 
 ### Le syndrome dysautonomique
 
-#### Hypotension orthostatique (45%)
+#### Hypotension orthostatique
 
 À rechercher systématiquement, réduire les antihypertenseurs, réduire les antiparkinsoniens, augmenter les apports hydro-sodés, éviter de piétiner, relever tête du lit de 30-40°, bas de contention, lever progressif, avis spécialisé.
 
 #### Nausées  
 
-Après le traitement: cèdent progressivement, prendre pendant le repas. Sinon dompéridone temporaire avant le dopaminergique, jamais de métoclopramide. Avis neurologique.
+Nausées apparues après le traitement: cèdent progressivement, prendre le traitement pendant le repas. Sinon dompéridone (risque QT) temporaire avant le dopaminergique, jamais de métoclopramide. Avis neurologique.
 
-### Les troubles neuropsychiatrique
+#### Constipation
+
+La constipation est très fréquente. Arrêt des anticholinergiques si possible. Augmenter les fibres/fruits et l'hydratation, huile d'olive, exercice physique (marche), eau riche en magnésium, suppositoire de glycérine, laxatifs mucilages/émollient/osmotique voire des lavements.
+
+#### Troubles mictionnels
+
+Les troubles mictionnels sont très fréquents et débutent souvent avec une nycturie. Exclure une infection urinaire en cas de tableau aigu, dépister un diabète selon les symptômes. Hydratation, hygiène locale, traitement de la constipation, dispositifs pour éviter de se lever la nuit. Envisager un anticholinergique avec le neurologue (bilan urodynamique recommandé). Avis urologique en cas de symptômes résistants.
+
+#### Dysfonction érectile et de la libido
+
+La [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) et les troubles du désir et de l'excitation sont très fréquents. Bilan TSH et prolactine, envisager une dépression. Arrêt des alphabloquants ou des ISRS en cas d'anorgasmie. IPDE5 ou autres (risque hypotension). Avis urologique ou sexologique.
+
+#### Hyperhidrose
+
+La transpiration excessive est souvent un marqueur de fin de dose, ou de phase *on* avec dyskinésies. Étayer le diagnostic différentiel. Envisager une réévaluation neurologique.
+
+### Les troubles neuropsychiatriques
 
 #### Troubles psychotiques
 
@@ -319,7 +359,7 @@ Sinon recours à la clozapine avec surveillance biologique et ECG initial.
 
 #### Addictions
 
-Les addictions sont fréquentes (1-14%) par iatrogénie dopaminergique (agonistes surtout) et à rechercher systématiquement car souvent dissimulées.
+Les addictions sont fréquentes (1-14%) par iatrogénie dopaminergique (agonistes surtout) et à rechercher systématiquement car souvent dissimulées. Avis neurologique systématique.
 
 Conduites addictives: [boulimie]({{< relref "boulimie-hyperphagie.md" >}}), hyperactivité, hypersexualité, jeux, achats, punding (besoin d'examiner, manipuler, collectionner, (dé-)monter des objets).
 
@@ -343,6 +383,17 @@ TODO: ETP Annexe 4 + p22
 > *HAS 2016*
 
 {{% /collapse %}}
+{{% collapse "Prise en charge de la Maladie de Parkinson initiale" "show" %}}
+
+{{< mermaid title="Traitement médicamenteux des troubles moteurs au début de la Maladie de Parkinson. Dr JB Fron d'après HAS 2016">}}
+graph TB
+  Parkinson[Symptômes parkinsoniens sans gêne fonctionnelle] --> abstention(Abstention en l'absence de gêne) --> gêne(Symptômes avec gêne fonctionnelle)
+  style Parkinson stroke:#4150f5, stroke-width:1px
+    gêne --> IMAOB("<b>IMAO B</b><hr>Jeune avec gêne<br>modérée")
+    gêne --> agonistes()
+{{< /mermaid >}}
+
+{{%/collapse%}}
 {{%sources%}}
 
 - [HAS. Maladie de Parkinson. Actes et prestations affections de longue durée. 2021.](https://www.has-sante.fr/jcms/c_546220/fr/ald-n-16-maladie-de-parkinson)
@@ -353,8 +404,6 @@ TODO: ETP Annexe 4 + p22
 
 - [HAS. Maladie de Parkinson. Guide du parcours de soins. 2016.](https://www.has-sante.fr/jcms/c_1242645/fr/guide-parcours-de-soins-maladie-de-parkinson)
 - [Berardelli A. et al. EFNS/MDS-ES recommendations for the diagnosis of Parkinson's disease. Eur J Neurol. 2013.](https://onlinelibrary.wiley.com/doi/10.1111/ene.12022)
-- Collège
+- [Collège des Enseignants de Neurologie (CEN). Maladie de Parkinson. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/maladie-parkinson)
 
 {{%/sources%}}
-
-≤≥±®æœŒÈ³ÂSpO<sub>2</sub>

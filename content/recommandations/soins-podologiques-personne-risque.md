@@ -114,7 +114,7 @@ IPS
 - Poids, taille, IMC et leurs variations
 - Examen du pied
   - Hygiène cutanée  
-    Intertrigo (préférer antifongique 1 application/j type kétoconazole), hyperkératose.
+    [Intertrigo]({{< relref "mycoses-dermatophytes-candidoses.md" >}}) (préférer antifongique 1 application/j type kétoconazole), hyperkératose.
   - Phanères
   - Plaies et lésions cutanées suspectes
   - Déformations

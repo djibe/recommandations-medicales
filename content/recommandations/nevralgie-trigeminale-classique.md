@@ -294,8 +294,8 @@ graph TB
 {{%sources%}}
 
 - [Bendtsen L. et al. European Academy of Neurology guideline on trigeminal neuralgia. Eur J Neurol. 2019.](https://onlinelibrary.wiley.com/doi/full/10.1111/ene.13950)
+- [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/migraine-nevralgie-du-trijumeau-algies-face)
 - [Donnet A. et al; SFEMC, SFNC. Recommandations pour le diagnostic et la prise en charge de la névralgie trigéminale classique. Neurochirurgie. 2018.](https://www.sciencedirect.com/science/article/pii/S0028377018300456)
 - [Hartemann A. et al; SFD. Prise en charge de la polyneuropathie diabétique douloureuse. Med Mal Metab. 2011. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2011_guide_polyneuropathie-.pdf)
-- [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/migraine-nevralgie-du-trijumeau-algies-face)
 
 {{%/sources%}}

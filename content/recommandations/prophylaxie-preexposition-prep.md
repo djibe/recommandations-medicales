@@ -300,8 +300,8 @@ gitGraph
 {{< mermaid title="Utilisation de la PrEP en schéma discontinu (hors AMM et hors VHB actif). Dr JB Fron d'après HAS 2021" >}}
 %%{init: { 'gitGraph': { 'mainBranchName': 'Schéma discontinu homme' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
 gitGraph
-  commit id: "t0: H-2 à H-24" tag: "2 cp"
-  commit id: " " tag: "Rapport"
+  commit id: "T0" tag: "2 cp"
+  commit id: "H2-H24" tag: "Rapport"
   commit id: "T0 + 24h" tag: "1 cp"
   commit id: "T0 + 48h" tag: "1 cp"
 {{< /mermaid >}}
