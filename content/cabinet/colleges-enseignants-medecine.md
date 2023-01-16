@@ -31,7 +31,7 @@ Le tableau ci-dessous liste tous les référentiels disponibles en téléchargem
 | Endocrinologie | CEEDMM<br><small>Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques</small> | 2021 | [lien](https://www.sfendocrino.org/polycopie-des-enseignants-5eme-edition-2021/) |
 | Gastro-entérologie | CDU-HGE<br><small>Collège Des Universitaires d'Hépato-GastroEntérologie</small> | 2022 | [lien](https://www.snfge.org/sites/default/files/SNFGE/Formation/dsn_cdu-hge_2022-decembre.pdf) |
 | Infectiologie | CMIT<br><small>Collège des universitaires de Maladies Infectieuses et Tropicales</small> | 2023 | [Pilly](https://www.infectiologie.com/fr/pilly-etudiant-edition-2023-disponible-a-la-vente-a-partir-du-23-janvier.html) |
-| Médecine physique | COFEMER<br><small>COllège Français des Enseignants universitaires de MEdecine physique et de Réadaptation</small> | ? | [lien](https://www.cofemer.fr/cofemer/gestionPagesWebStandard.do?dispatchMethod=affiche&pageId=55) |
+| Médecine physique | COFEMER<br><small>COllège Français des Enseignants universitaires de MEdecine physique et de Réadaptation</small> | 2018 | [lien](https://www.cofemer.fr/cofemer/gestionPagesWebStandard.do?dispatchMethod=affiche&pageId=55) |
 | Médecine vasculaire | CEMV<br><small>Collège des Enseignants de Médecine Vasculaire</small> | 2015 | [lien](http://cemv.vascular-e-learning.net/poly/Poly-Vx.pdf) |
 | Neurologie | CEN<br><small>Collège des Enseignants de Neurologie</small> | 2019 | [lien](https://www.cen-neurologie.fr/deuxieme-cycle) |
 | Ophtalmologie | COUF<br><small>Collège des Ophtalmologistes Universitaires de France</small> | 2021 | [lien](http://couf.fr/espace-etudiants/2eme-cycle-dcem/) |
