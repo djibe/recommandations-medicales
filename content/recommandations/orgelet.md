@@ -60,3 +60,7 @@ Forme enkystée d'orgelet: incision du bord libre par l'ophtalmologue sous anest
 ## Source {.mt-5}
 
 [Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 84. 2017. (PDF)](http://couf.fr/wp-content/uploads/2016/03/Chapitre-18.pdf)
+
+### À lire
+
+[Collège des Ophtalmologistes Universitaires de France (COUF). Pathologie des paupières. Chapitre 18. Item 86. 2021.](http://couf.fr/espace-etudiants/2eme-cycle-dcem/)
