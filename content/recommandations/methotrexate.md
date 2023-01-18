@@ -123,7 +123,8 @@ Bilan pré-méthotrexate:
 {{% /collapse %}}
 {{%collapse "Co-prescription" %}}
 
-{{% info %}}Acide folique 5 mg, 1cp 2 jours après la prise du méthotrexate{{% /info %}}
+Acide folique 5 mg, 1cp 2 jours après la prise du méthotrexate
+{.alert .alert-info}
 
 La supplémentation en acide folique (vitamine B9) réduit les effets indésirables du méthotrexate:
 

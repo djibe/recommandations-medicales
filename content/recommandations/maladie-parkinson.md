@@ -113,6 +113,9 @@ TODO:
 EAN
 : {{%lang%}}European Academy of Neurology{{%/lang%}}
 
+ICOMT
+: inhibiteurs de la catéchol-O-méthyl transférase
+
 IMAO B
 : inhibiteurs de la monoamine oxydase de type B
 
@@ -268,19 +271,19 @@ Le traitement de la Maladie de Parkinson n'est pas une urgence. Intérêt d'un d
 
 #### Les traitements médicamenteux de la Maladie de Parkinson
 
-Les traitements médicamenteux antiparkinsoniens ne sont pas indispensables en l'absence de retentissement moteur.
+Les traitements médicamenteux antiparkinsoniens ne sont pas indispensables en l'absence de retentissement moteur. En première intention, les IMAO B et agonistes dopaminergiques sont préférés afin d'épargner la L-Dopa.
 
 - IMAO B  
-  Sélégiline, rasagiline.
+  Sélégiline (Deprenyl®), rasagiline.
 - Agonistes dopaminergiques
   - Le plus longtemps possible
-  - Dérivés de l'ergot de seigle: ropinirole, piribédil, pramipexole, rotigotine (transdermique)
-  - Autres: bromocriptine, lisuride
-- Amantadine
+  - Dérivés de l'ergot de seigle: ropinirole, piribédil (Trivastal®), pramipexole, rotigotine (Neupro®, transdermique)
+  - Autres: bromocriptine (Parlodel®), lisuride (Arolac®)
+- Amantadine (Mantadix®)
 - L-Dopa  
   Retarder l'instauration par fluctuations et dyskinésies.
 - Anticholinergiques (tremblement uniquement)
-- Inhibiteurs de la catéchol-O-méthyl transférase: entacapone, tolcapone
+- Inhibiteurs de la catéchol-O-méthyl transférase: entacapone (Comtan®), tolcapone (Tasmar®)
 
 #### La stimulation cérébrale profonde
 
@@ -298,10 +301,13 @@ TODO: annexe 5
   - Observance
   - Jamais d'arrêt brutal
 - Troubles moteurs
-  - Aggravation: rechercher une pathologie intercurrente (infection, constipation), l'observance (horaire, posologie)
-  - Aggravation: peut être liée à la maladie ou aux traitements et nécessite un avis neurologique
+  - Aggravation: rechercher une pathologie intercurrente (infection, constipation), l'observance (horaire, posologie).  
+    Peut être liée à la maladie ou aux traitements et nécessite un avis neurologique.
+  - Aggravation de période *off*: neuroleptique caché ou atypique
+  - Aggravation des dyskinésies: L-Dopa excessive (IMAO B, agonistes, ICOMT)
+  - Réponse à la première prise matinale de L-Dopa
   - Fluctuations motrices de fin de dose
-  - Dyskinésies ou dystonies
+  - Dyskinésies ou dystonies douloureuses (orteils et pieds surtout)
 - Troubles neuro-psychiatriques
   - Dépression (45%): préférer les IRS mais contre-indiqués si lévodopa, entacapone/tolcapone
   - Anxiété: psychothérapie, relaxation, optimisation du traitement, anxiolytiques ([BZD]({{< relref "benzodiazepines.md" >}}) max 12 semaines), voire certains ISRS ou IRSNA si grave
@@ -387,10 +393,12 @@ TODO: ETP Annexe 4 + p22
 
 {{< mermaid title="Traitement médicamenteux des troubles moteurs au début de la Maladie de Parkinson. Dr JB Fron d'après HAS 2016">}}
 graph TB
-  Parkinson[Symptômes parkinsoniens sans gêne fonctionnelle] --> abstention(Abstention en l'absence de gêne) --> gêne(Symptômes avec gêne fonctionnelle)
+  Parkinson[Symptômes parkinsoniens<br>sans gêne fonctionnelle] --> abstention(Abstention en l'absence de gêne) --> gêne(Symptômes avec gêne fonctionnelle)
   style Parkinson stroke:#4150f5, stroke-width:1px
-    gêne --> IMAOB("<b>IMAO B</b><hr>Jeune avec gêne<br>modérée")
-    gêne --> agonistes()
+    gêne --> IMAOB("<b>IMAO B</b><hr>Seujet jeune avec gêne<br>modérée")
+    gêne --> agonistes("<b>Agonistes<br>dopaminergiques</b><hr>Sujet jeune sans<br>contre-indication") -. Intolérance .-> Levodopa
+    gêne --> Levodopa("<b>Lévodopa</b><hr>Sujet âgé")
+    gêne --> autres("<b>Autres options</b><hr>Amantadine<br>Anticholinergiques<br>si tremblement<br>prédomine")
 {{< /mermaid >}}
 
 {{%/collapse%}}

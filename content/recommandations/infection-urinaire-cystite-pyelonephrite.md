@@ -301,7 +301,7 @@ Ensuite **ECBU mensuel** jusqu'à l'accouchement.
 
 Infection urinaires masculine (IU masculine)
 : *ex prostatite*, trop réductrice (forme pauci-symptomatique, prostatite, pyélonéphrite aiguë). Symptômes évocateurs: [douleurs pelviennes](/tags/douleur-pelvienne/), périnéales, urétrales ou rectales intenses indépendantes de la miction, dysurie, rétention d'urines, douleurs lombaires, signes généraux.
-: **Bandelette urinaire conseillée**, positive elle conforte la suspicion diagnostique (une BU négative ne permet pas d'éliminer le diagnostic).
+: **Bandelette urinaire conseillée et ECBU systématique**. Positive, la BU conforte la suspicion diagnostique (une BU négative ne permet pas d'éliminer le diagnostic).
 : Premier épisode, rechercher une uropathie: pollakiurie, miction impérieuse, diminution de la force du jet, nycturie, dysurie ou anomalie au toucher rectal.
 : Les critères d'hospitalisation sont ceux de la pyélonéphrite.
 : Hémocultures si fièvre. Le PSA peut être perturbé jusqu'à 6 mois après l'infection.
@@ -315,7 +315,7 @@ Prise en charge par antibiothérapie probabiliste d'une infection urinaire mascu
 2. Ceftriaxone IM 1 g/j (2g si obèse)
 3. Hospitalisation
 
-Antibiothérapie adaptée à l'antibiogramme:
+Adaptation à l'antibiogramme dès le rendu des résultats:
 
 1. Ciprofloxacine 500 mg x 2/j ou lévofloxacine 500 mg/j ou ofloxacine 200 mg x 2/j pendant 14 jours
 2. Cotrimoxazole 800/160 mg x 2/j pendant 14 jours
@@ -328,8 +328,6 @@ Antibiothérapie adaptée à l'antibiogramme:
 > *SPILF 2018*
 
 Traitement prolongé 21 jours si uropathie non corrigée ou autre antibiotique.
-
-ECBU uniquement en cas d'évolution défavorable.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge des infections urinaires" "show" %}}
@@ -356,7 +354,7 @@ graph TB
 
 ### À lire
 
-- [EAU. Urological Infections. 2022.](https://uroweb.org/guidelines/urological-infections)
+- [Bonkat G. et al. EAU guidelines on urological infections. 2022.](https://uroweb.org/guidelines/urological-infections)
 - [Cohen R. et al. Prise en charge des infections urinaires de l'enfant. Recommandations du groupe de pathologie infectieuse pédiatrique de la Société française de pédiatrie et de la Société de pathologie infectieuse de langue française. Archives de Pédiatrie. 2015. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/infections_voies_urinaires_gpip_2015.pdf)
 - [CMIT. Infections urinaires de l'adulte. UE6 Item 157. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-157-nb.pdf)
 

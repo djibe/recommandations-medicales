@@ -23,7 +23,8 @@ imageSrc = "Crédit OnSexPrime.fr"
 
 - Information systématique de tous sur la contraception d'urgence, notamment lors de la prescription d'une [contraception]({{< relref "contraception.md" >}})
 - Information sur la grande efficacité de la << pilule du lendemain >> prise précocement et son innocuité
-- La pilule du lendemain est accessible gratuitement (sans avance de frais) sans ordonnance durant les 5 jours qui suivent le rapport non protégé pour toutes les femmes (anonyme si besoin)
+- La pilule du lendemain est accessible gratuitement (sans avance de frais) sans ordonnance durant les 5 jours qui suivent le rapport non protégé pour toutes les femmes (anonyme si besoin)  
+  \+ préservatif jusqu’au 1<sup>er</sup> jour des règles suivantes
 - La pose d'un stérilet/DIU cuivre est la méthode la plus efficace et possible jusqu'à J5
 - Envisager une prescription/dispensation en prévention surtout si: adolescente, préservatif, [VIH]({{< relref "vih-sida.md" >}}), voyage à l'étranger, milieu rural
 - Il existe un risque de grossesse à tout moment du cycle en cas de rapport non protégé

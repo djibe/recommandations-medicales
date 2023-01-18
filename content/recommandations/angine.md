@@ -1,12 +1,12 @@
 +++
 title = "Angine"
 prefix = "l'"
-description = "Recommandations pour le traitement de l'angine. Score de Mac Isaac, test rapide du streptocoque, indications à l'antibiothérapie et à l'amygdalectomie"
+description = "Recommandations pour le traitement de l'angine. Score de Mac Isaac, test de diagnostic rapide (TDR), indications à l'antibiothérapie et à l'amygdalectomie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2022-12-08"
+lastmod = "2023-01-16"
 specialites = ["ORL"]
 annees = "2021"
 sources = ["HAS", "SPILF"]
@@ -22,12 +22,12 @@ todo = "suivi de pso en goutte"
 {{%article-summary%}}
 
 - Une angine est toujours virale avant 3 ans
-- Test de diagnostic rapide (TDR) du streptocoque devant une angine de 3 à 14 ans et score clinique de Mac Isaac au-delà
-- Traitement par antibiotique cas de TDR positif:
-  - Adulte: amoxicilline 1g x 2/j pendant 6 jours
+- Test de diagnostic rapide (TDR ou TROD) du streptocoque devant une angine de 3 à 14 ans et score clinique de Mac Isaac au-delà
+- Traitement avec prise en charge par antibiotique en cas de TDR positif:
+  - Adulte: amoxicilline 1 g 2 fois par jour pendant 6 jours
   - Enfant: amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises/j pendant 6 jours
-- La prise en charge pédiatrique en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
-- Le Streptatest peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si TROD/TDR/Streptatest angine positif, sous 7 jours calendaires >> (*[Arrêté du 13/12/21](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044483134)*)
+- La prise en charge de l'angine pédiatrique en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
+- Le Streptatest peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si TROD angine positif, sous 7 jours calendaires >> (*[Arrêté du 13/12/21](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044483134)*)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -80,10 +80,10 @@ Signes et symptômes de l'angine:
   - Exanthème, scarlatine
   - Signes de rhinopharyngite
 
-Autres formes d'angine:
+Autres formes cliniques d'angine:
 
 - Angine vésiculeuse  
-  Dite herpangine par coxsackie virus ou virus varicelle-zona (VZV).
+  Dite **herpangine** par coxsackie virus ou virus varicelle-zona (VZV).
 - Angine pseudomembraneuse  
   Mononucléose infectieuse (EBV) ou diphtérie.
 - Angine gonococcique
@@ -208,6 +208,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 149. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-149-web.pdf)
 - [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
 - [Cohen J., Cohen R.; SFP. Angine. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
 - [SPILF, HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'enfant. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/fiche_memo_rhinopharyngite_angine_enfant_durees_antibiotherapies.pdf)

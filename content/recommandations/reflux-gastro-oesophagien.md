@@ -94,7 +94,7 @@ Signes typiques de reflux gastro-œsophagien:
 - **Syndrome postural**  
   Aggravation allongé, penché en avant et en post-prandial.
 
-#### Symptômes atypiques
+#### Symptômes atypiques de reflux
 
 - Brûlures épigastriques
 - Douleurs thoraciques rétro-sternales ou pharyngées
@@ -130,7 +130,7 @@ Aucun examen complémentaire devant des signes typiques de reflux et l'absence d
 
 {{%class%}}Apport diagnostique limité par les IPP en amont qui cicatrisent l'œsophagite.{{%/class%}}
 
-#### Indications à l'EOGD
+#### Indications à la fibroscopie
 
 [SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/download/file/fid/2775)
 
@@ -239,6 +239,8 @@ Ne pas utiliser:
 {{%/warning%}}
 
 ### Chirurgie du reflux gastro-œsophagien
+
+[Guide d'information patient SFCD/FCVD hernie hiatale (PDF)](https://www.fcvd.fr/wp-content/uploads/2022/01/FICHE-D_INFORMATION-PATIENT-EVENTRATIONS.pdf)
 
 La prise en charge du reflux par chirurgie est limitée:
 

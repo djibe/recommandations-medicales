@@ -19,13 +19,13 @@ imageSrc = ""
 todo = "résumé, 360Medics, scores IPSS et IIEF, Prescrire, https://uroweb.org/guideline/treatment-of-non-neurogenic-male-luts/#5"
 +++
 
-Ces recommandations sont limitées au traitement de l'HBP non compliquée l'homme ≥ 50 ans.
+Ces recommandations sont limitées au traitement de l'HBP non compliquée l'homme de plus de 50 ans.
 
 {{%article-summary%}}
 
-- Éliminer un diagnostic différentiel
-- Rechercher des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
 TODO:
+
+- Rechercher des [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -198,12 +198,12 @@ Prostate > 80 mL.
 {{% /collapse %}}
 {{%sources%}}
 
-- [Gravas S. et al, European Association of Urology. Management of Non-neurogenic Male LUTS. 2021.](https://uroweb.org/guideline/treatment-of-non-neurogenic-male-luts/)
-- Association Française d'Urologie. Descazeaud A. & al. Bilan initial, suivi et traitements des troubles mictionnels en rapport avec hyperplasie bénigne de la prostate. 1er octobre 2012
-
 ### À lire
 
-[Collège d'Urologie. Hypertrophie bénigne de la prostate. Item 127. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-127-Hypertrophie-benigne-de-prostate.pdf)
+- [Gravas S. et al. EAU guidelines on management of non-neurogenic male lower urinary tract symptomes (LUTS), incl. benign prostatic obstruction (BPO). 2021.](https://uroweb.org/guideline/treatment-of-non-neurogenic-male-luts/)
+- Association Française d'Urologie. Descazeaud A. & al. Bilan initial, suivi et traitements des troubles mictionnels en rapport avec hyperplasie bénigne de la prostate. 2012
+- [Collège d'Urologie. Hypertrophie bénigne de la prostate. Item 127. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-127-Hypertrophie-benigne-de-prostate.pdf)
+- [Anaes. Prise en charge diagnostique et thérapeutique de l'hypertrophie bénigne de la prostate. 2003.](https://www.has-sante.fr/jcms/c_272237/fr/prise-en-charge-diagnostique-et-therapeutique-de-l-hypertrophie-benigne-de-la-prostate)
 
 {{%/sources%}}
 {{% modal title="Score STOP-BANG" id="modal-saos"%}}

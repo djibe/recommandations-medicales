@@ -20,13 +20,13 @@ imageSrc = "Illustration du pancréas par brgfx / Freepik"
 
 {{%article-summary%}}
 
-- Consultation d'oncogénétique et dépistage du cancer du pancréas si ≥ 2 apparentés atteints d'AP dont ≥ 1 au 1<sup>er</sup> degré  
+- Consultation d'oncogénétique et dépistage du cancer du pancréas si au moins 2 apparentés atteints d'adénocarcinome du pancréas dont au moins 1 au premier degré  
   ou certaines mutations génétiques (voir *Dépistage*)
 - Suspecter un cancer du pancréas devant les symptômes suivants: ictère, douleurs abdominales transfixiantes, diabète récent ou décompensé
-- TDM TAP avec injection en semi-urgence dès la suspicion
-- Le CA 19-9 n'a aucun intérêt pour le dépistage ou le diagnostic
-- La prise en charge est semi-urgente par les spécialistes
-- Pour toute la population: prévention par correction de tabagisme, obésité et diabète
+- Bilan avec scanner thoraco-abdomino-pelvien avec injection en semi-urgence dès la suspicion
+- Le marqueur tumoral CA 19-9 n'a aucun intérêt pour le dépistage ou le diagnostic du cancer du pancréas
+- La prise en charge du cancer du pancréas est semi-urgente
+- Pour toute la population: prévention du cancer du pancréas par correction des facteurs de risque: [tabagisme]({{< relref "arret-tabac.md" >}}), obésité et [diabète]({{< relref "diabete-type-2.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -200,10 +200,12 @@ L'IRM a une performance diagnostique équivalente (et plus chère).
 Adresser en semi-urgence à l'équipe hospitalière de gastro-entérologie pour la suite de la prise en charge du cancer du pancréas.
 
 10-20% des patients peuvent bénéficier d'une chirurgie d'exérèse à visée curative.  
+[Guide d'information patient SFCD/FCVD pancréatectomie (PDF)](https://www.fcvd.fr/wp-content/uploads/2022/01/FICHE-D_INFORMATION-PATIENT-PANCREATECTOMIE.pdf)
+
 La majorité reçoit aussi une chimiothérapie.  
 Le taux de **récidive** est très élevé.
 
-Soins associés: ALD, traitement de douleur, dépression, dénutrition.
+Soins associés: ALD, traitement de douleur, prise en charge de la dépression et de la dénutrition.
 
 Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr/).
 

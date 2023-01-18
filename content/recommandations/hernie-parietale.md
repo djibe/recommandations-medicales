@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-24T19:43:00+02:00"
 publishdate = "2021-03-25"
-lastmod = "2022-06-21"
+lastmod = "2023-01-16"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2018"
 sources = ["HAS", "Collèges"]
@@ -17,15 +17,16 @@ sctid = "128545000"
 flowchart = true
 image = true
 imageSrc = "Hernie inguinale de l'homme, myupchar.com, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "SEO 'hernie crurale'"
+todo = ""
 +++
 
 {{%article-summary%}}
 
-- Le diagnostic est clinique sans nécessité d'examen complémentaire
-- La palpation des orifices herniaires doit être systématique chez le nourrisson (vomissements, pleurs inexpliqués ++)
+- Le diagnostic de hernie est clinique sans nécessité d'examen complémentaire
+- La palpation des orifices herniaires doit être systématique chez le nourrisson (surtout en cas de vomissements ou pleurs inexpliqués)
 - Proposition d'une chirurgie puisque toute hernie peut s'étrangler
 - Toute hernie étranglée est une urgence chirurgicale
+- Guide d'information patient SFCD/FCVD: [éventration (PDF)](https://www.fcvd.fr/wp-content/uploads/2022/01/FICHE-D_INFORMATION-PATIENT-EVENTRATIONS.pdf), [hernie de l'aine (PDF)](https://www.fcvd.fr/wp-content/uploads/2022/01/FICHE-D_INFORMATION-PATIENT-EVENTRATIONS.pdf), [hernie ventrale (PDF)](https://www.fcvd.fr/wp-content/uploads/2022/01/FICHE-D_INFORMATION-PATIENT-HERNIES-VENTRALES.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -80,7 +81,7 @@ Pas d'examen complémentaire.
 
 ### Diagnostic différentiel de la hernie inguinale
 
-Intérêt de la transillumination et du caractère non réductible.
+Intérêt de la transillumination et du caractère non réductible à l'examen clinique.
 
 - Lipome
 - Adénopathie inguinale
@@ -88,7 +89,7 @@ Intérêt de la transillumination et du caractère non réductible.
 - Éventration sur cicatrice
 - Nodule de perméation de carcinose péritonéale
 - Hernie crurale  
-Surtout chez la femme, tuméfaction à la racine de la cuisse, difficile en cas de surpoids.
+  Surtout chez la femme, tuméfaction à la racine de la cuisse, difficile en cas de surpoids.
 
 ### Traitement de la hernie inguinale
 
@@ -105,19 +106,23 @@ Chirurgie ambulatoire sous anesthésie locale avec fermeture de l'orifice.
   - Tuméfaction inguinale ou inguino-scrotale, arrondie, molle, indolore et souple, intermittente, impulsive à la toux
   - Réductible spontanément ou en pression douce en haut et en dehors avec sensation de gargouillement
   - Palpation des testicules
-- **Fille: jamais de réduction** car contient l'ovaire (intestin après 1 an)
+- **Fille: jamais de réduction** car la hernie contient l'ovaire (intestin après 1 an)
 - Pas d'examen complémentaire
 - Chirurgie systématique chez l'enfant +6 mois
 
 {{% /collapse %}}
 {{%collapse "Hernie crurale" %}}
 
-- Le diagnostic est clinique et atteint majoritairement les femmes
+La hernie crurale atteinte surtout les femmes:
+
+- Le diagnostic de hernie crurale est clinique
 - Pas d'examen complémentaire
 - Chirurgie systématique par risque élevé d'étranglement herniaire
 
 {{% /collapse %}}
 {{%collapse "Hernie ombilicale de l'enfant" %}}
+
+La hernie ombilicale de l'enfant:
 
 - Très fréquente (15-20%, prématuré +++) par hernie au travers de l'orifice ombilical
 - Apparaît souvent les premières semaines de vie et augmente en volume durant 6 mois
