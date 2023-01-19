@@ -2,7 +2,7 @@
 title = "Infections génitales de l'homme: urétrite et orchiépididymite"
 titleSeo = "Urétrite et orchiépididymite"
 prefix = "les "
-description = "TODO:"
+description = "Recommendations pour la prise en charge des infections génitales de l'homme: urétrite et orchiépididymite. PCR, ECBU, antibiothérapie ceftriaxone et doxycycline"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-17T11:25:20+01:00"
@@ -21,16 +21,27 @@ todo = "Balanite et balano-posthite, dépistages Ct homme"
 
 {{%article-summary%}}
 
-- Prélèvements au laboratoire: PCR urine premier jet *Chlamydia* et gonocoque ou frottis endo-urétral (gonocoque), prélèvement d'un écoulement urétral, ECBU sur urine de milieu de jet
+- Prélèvements au laboratoire d'une infection génitale: PCR urine premier jet *Chlamydia*, gonocoque et *M. genitalium*, prélèvement d'un écoulement urétral, ECBU sur urine de milieu de jet, frottis endo-urétral si absence de PCR ou PCR gonocoque+
+- Prise en charge de l'urétrite: Ceftriaxone 1g IM dose unique  
+  \+ doxycycline 100 mg x 2/j pendant 7 jours OU azithromycine 1g dose unique
+- Prise en charge de l'orchi-épididymite
+  - Toujours évoquer une torsion du testicule chez le jeune
+  - Ceftriaxone 1g IM dose unique  
+    \+ doxycycline 200 mg x 2/j à J1 puis 100 mg x 2/j pendant 10 à 14 jours
+  - Faible suspicion de gonococcie: ciprofloxacine 500 mg x 2/j pendant 10 à 14 jours
+- Consultation de contrôle à J7 avec les résultats
 - Bilan des autres [infections sexuellement transmissibles (IST)](/tags/ist/)
 
-Chapitres liés: [infections urinaires de l'homme]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), [hommes ayant des rapports avec des hommes]({{< relref "hsh.md" >}})
+Chapitres liés: [infection urinaire de l'homme]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), [hommes ayant des rapports avec des hommes]({{< relref "hsh.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Abréviations" %}}
 
 EAU
 : Association européenne d'urologie ({{%lang%}}European Association of Urology{{%/lang%}})
+
+HAS
+: Haute Autorité de Santé
 
 IST
 : infection sexuellement transmissible (*ex MST*)
