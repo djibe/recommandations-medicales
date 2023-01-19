@@ -175,7 +175,7 @@ Toute suspicion diagnostique de cancer du sein justifie un avis spécialisé san
 {{%/warning%}}
 
 - Antécédents personnels et familiaux  
-  Cancers sein ou ovaire (nombre, âge, bilatéralité, sexe).
+  Cancers sein ou [ovaire]({{< relref "cancer-ovaire.md" >}}) (nombre, âge, bilatéralité, sexe).
 - Traitements en cours
 - Contraception ou statut ménopausique
 - Date et résultat des dernières mammographies (voire échographies, IRM)

@@ -112,7 +112,7 @@ TR
 La plupart des hommes atteints par le cancer de la prostate sont asymptomatiques ou les symptômes sont liés à une pathologie bénigne associée (ex. hypertrophie de la prostate).
 
 - Antécédents
-- Antécédents familiaux ([cancers](/tags/cancer/) de prostate, [sein]({{< relref "cancer-sein.md" >}}) et ovaire ++)
+- Antécédents familiaux ([cancers](/tags/cancer/) de prostate, [sein]({{< relref "cancer-sein.md" >}}) et [ovaire]({{< relref "cancer-ovaire.md" >}}) ++)
 - Symptômes frustes génito-urinaire: dysurie
 - Métastases
   - AEG

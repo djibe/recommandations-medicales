@@ -6,7 +6,7 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2023-01-06"
+lastmod = "2023-01-18"
 specialites = ["infectiologie"]
 annees = "2023"
 sources = ["HCSP", "SPILF", "HAS"]
@@ -23,15 +23,15 @@ todo = "https://www.wiv-isp.be/matra/fiches/coqueluche.pdf"
 - Ces recommandations visent à protéger les nourrissons non immuns de la coqueluche
 - Évoquer une coqueluche devant toute toux de plus de 7 jours
 - Le diagnostic de coqueluche est biologique par une *PCR coqueluche*
-- Prise en charge de la coqueluche: éviction de la collectivité et antibiothérapie azithromycine 250 mg x 2/j pendant 3 jours
-- Antibioprophylaxie des sujets contacts (voir Section spécifique)
+- Prise en charge de la coqueluche: éviction de la collectivité et antibiothérapie azithromycine 250 mg x 2/j pendant 3 jours ...
+- et antibioprophylaxie des sujets contacts (voir Section spécifique)
 - Vaccination coqueluche
   - L'immunité vaccinale persiste 5 à 10 ans
   - Rattrapage de la dose des 25 ans: joindre la valence coqueluche jusqu'à 39 ans
   - [Rappel vaccinal]({{< relref "vaccination.md" >}}) coqueluche à chaque grossesse (entre 20 et 36 SA)  
-  - **Cocooning:** rappel si le dernier a +5 ans avant 25 ans ou +10 ans au-delà
+  - **Cocooning:** rappel en l'absence de vaccination pendant la grossesse si le dernier a +5 ans avant 25 ans ou +10 ans au-delà
   - Professionnels: valence coqueluche à chaque rappel
-- [Signalement à l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}) quand ≥ 2 cas de coqueluche en collectivité
+- [Signalement à l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}) quand au moins 2 cas de coqueluche en collectivité
 
 Chapitre lié: [toux chronique]({{< relref "toux-chronique.md" >}})
 
@@ -48,12 +48,12 @@ Coqueluche
 - Mortalité par coqueluche de 1979 à 2005: 113 cas, 1<sup>re</sup> cause de décès des nourrissons (88% < 1 an)
 - 3 morts/an, première cause de mortalité de J10 à 2 mois, troisième cause tout âge confondu (méningo > pneumo).
 - Source de la contamination: parents 55%, fratrie 25%
-- Coqueluche en Île-de-France: **32%** des adultes suivis pour toux > 7 jours (60% vaccinés)
+- Coqueluche en Île-de-France: **32%** des adultes suivis pour toux de +7 jours (60% vaccinés)
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Évoquer une coqueluche à tout âge devant une toux persistante ≥ 7 jours, à recrudescence nocturne ou émétisante si vaccination +10 ans
+Évoquer une coqueluche à tout âge devant une toux persistante au moins 7 jours, à recrudescence nocturne ou émétisante si vaccination +10 ans
 {.alert .alert-info}
 
 - Transmission aérienne directe, intra-familiale +++  
@@ -109,7 +109,7 @@ Caractères évocateurs: notion de contage, recrudescence nocturne et insomniant
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Bilan biologique avec hyperlymphocytose > 10 G/L évocatrice mais inconstante. Pas de syndrome inflammatoire.  
+Bilan biologique avec hyperlymphocytose +10 G/L évocatrice mais inconstante. Pas de syndrome inflammatoire.  
 ± Radiographie thoracique
 
 ### PCR coqueluche
@@ -126,7 +126,7 @@ Cas contact: PCR possible dans les 3 semaines suivant le dernier contact avec le
 
 ### Indications à hospitaliser une coqueluche
 
-- Nourrisson < 3 mois
+- Nourrisson de moins de 3 mois
 - Selon tolérance chez le +3 mois  
   Apnées, bradycardies, limitation de l'alimentation.
 {{%/warning%}}
@@ -139,10 +139,12 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 - Avant 11-13 ans: vaccins avec dose complète d'antigènes coquelucheux (Ca)  
   Vaccins hexavalents du nourrisson puis à 6 ans (Tetravac-acellulaire®).
 - À partir de 11-13 ans: doses réduites (ca)  
-  BoostrixTetra® ou Repevax® sauf si vaccination débutée après 12 mois.
-- Rattrapage à tout âge
-  - Au 2<sup>e</sup> trimestre de la grossesse (20-36 SA, *HAS 2022*)
-  - Particulièrement chez jeunes parents, grands-parents, fratrie, personnels de la petite enfance
+  BoostrixTetra®/Repevax® sauf si Tetravac-acellulaire® no fait à 6 ans.
+- Rattrapage à tout âge si:
+  - 2<sup>e</sup> trimestre de la grossesse (20-36 SA), même si vaccinée avant la grossesse
+  - ou en l'abseJeunes parents et les grands-parents, fratrie, personnels de la petite enfance
+
+> Délai minimal d'un mois entre 2 doses de vaccin coquelucheux
 
 {{< table title="Recommandations vaccinales contre la coqueluche selon Calendrier vaccinal 2022" class="table-wrap" >}}
 | Âge                         | Spécialités                                                    | Commentaire                             |
@@ -150,15 +152,15 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 | 2 mois                      | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
 | 4 mois                      | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
 | 11 mois                     | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
-| 6 ans                       | ~~InfanrixTetra~~, Tetravac-acellulaire                      |                                         |
+| 6 ans                       | ~~InfanrixTetra~~, Tetravac-acellulaire                        |                                         |
 | 11-13 ans                   | BoostrixTetra, Repevax                                         | Schéma des 6 ans si manqué              |
 | 25 ans                      | BoostrixTetra, Repevax<br>Sauf rappel dans les 5 ans           | Rattrapage jusqu'à 39 ans               |
-| Grossesse 20-36 SA          | BoostrixTetra, Repevax<br>et entourage (foyer, grands-parents, babysitters) | À chaque grossesse. Rattrapage avant la sortie de maternité |
+| Grossesse 20-36 SA          | BoostrixTetra, Repevax                                         | À chaque grossesse. Entourage (foyer, grands-parents, babysitters) si non fait pendant la grossesse |
 | Adulte avec projet parental | BoostrixTetra, Repevax                                         |                                         |
 | Coqueluche                  | Pas de rappel nécessaire dans les 10 ans                       | Sauf coqueluche du nourrisson           |
 {{< /table >}}
 
-> **Cocooning:** rappel avant 25 ans si dernière dose a +5 ans, si rappel a +10 ans ensuite  
+> **Cocooning:** rappel en l'absence de vaccination pendant la grossesse avant 25 ans si dernière dose a +5 ans, si rappel a +10 ans ensuite  
 **Professionnels de santé:** ajouter la coqueluche à chaque rappel du dTPolio (45 et 65 ans) + 1 dose si dernière dose réalisée ≤ 18 ans et date de +5 ans.
 
 La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
@@ -222,6 +224,7 @@ Antibioprophylaxie des contacts du cas la plus précoce possible, jusqu'à 21 jo
 {{% /collapse %}}
 {{%sources%}}
 
+- [HCSP. Conduite à tenir autour d'un ou plusieurs cas de coqueluche. 2023.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1265)
 - {{< references/calendrier-vaccinal >}}
 - [SPILF. Info-antibio N°92. Mai 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2021-05-tt-courts.pdf)
 - [CMIT. Coqueluche. UE6 Item 159. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-159-nb.pdf)
@@ -230,7 +233,6 @@ Antibioprophylaxie des contacts du cas la plus précoce possible, jusqu'à 21 jo
 
 ### À lire
 
-- [HCSP. Conduite à tenir autour d'un ou plusieurs cas de coqueluche. 2023.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1265)
-- Collège de pédiatrie
+- [Collège National des Pédiatres Universitaires (CNPU). Coqueluche. Item 163. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/coqueluche)
 
 {{%/sources%}}

@@ -16,7 +16,7 @@ tags = ["EOGD", "IPP", "SAS", "toux"]
 anglais = ["Gastroesophageal reflux disease (GERD)"]
 sctid = "235595009"
 image = true
-imageSrc = "BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
+imageSrc = "Illustration du reflux gastro-œsophagien par BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
 todo = "SEO, rythme suivi RGO par EOGD, Reflux Disease Questionnaire (RDQ)"
 +++
@@ -24,7 +24,7 @@ todo = "SEO, rythme suivi RGO par EOGD, Reflux Disease Questionnaire (RDQ)"
 {{%article-summary%}}
 
 - Le diagnostic de reflux gastro-œsophagien (RGO) est clinique: signes typiques en l'absence de signes d'alarme
-- Signes d'alarme d'un reflux: Amaigrissement, anémie, dysphagie, hémorragie digestive, vomissements répétés, échec du traitement
+- Signes d'alarme d'un reflux: amaigrissement, anémie, dysphagie, hémorragie digestive, vomissements répétés, échec du traitement
 - Indications à la fibroscopie: symptômes atypiques isolés, signe d'alarme, âge +50 ans, résistance aux IPP ou rechute précoce à l'arrêt
 - Prise en charge du reflux gastro-œsophagien: RHD > antiacides > oméprazole demi-dose
 - Rappel: on prononce "ésophage"

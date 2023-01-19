@@ -601,7 +601,7 @@ Bénéfices similaires pour les différentes voies d'administration (orale, vagi
 
 - Réduction des cancers
   - [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) (RR 0,76)
-  - Cancer de l'ovaire (RR 0,73)
+  - [Cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}}) (RR 0,73)
   - [Cancer du côlon]({{< relref "cancer-colorectal.md" >}}) (RR 0,81)
   - Hémopathies malignes
 - Améliorations des troubles du cycle menstruel

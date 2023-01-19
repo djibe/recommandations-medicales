@@ -603,10 +603,12 @@ Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)
 
 [GEMVI: Fiche info ménopause et traitement hormonal (PDF)](http://gemvi.org/wp-content/uploads/2022/06/fiche-info-patiente-menopause-THM.pdf)
 
-- Bénéfique sur les symptômes (bouffées vasomotrices ++) et ralentissement du vieillissement des différents tissus (ostéoporose, trophicité)
+Le traitement hormonal de la ménopause (THM):
+
+- Est bénéfique sur les symptômes de la ménopause (bouffées vasomotrices ++) et le ralentissement du vieillissement des différents tissus (ostéoporose, trophicité)
 - Réduit le risque de cancer du côlon et de fracture ostéoporotique
-- Augmentation faible du risque de cancer du sein temps-dépendant  
-  Décroît après l'arrêt du traitement.
+- Augmente faiblement le risque de cancer du sein (temps-dépendant)  
+  Sur-risque qui décroît après l'arrêt du traitement.
 - Augmente le risque de cancer de l'ovaire
 - Avec le schéma du THM français (estrogène patch + progestérone naturelle orale), pas d'augmentation thrombo-embolique
 - Les études divergent sur les bénéfices cardiovasculaires et sur les troubles cognitifs du fait de la grande variété des traitements de la ménopause

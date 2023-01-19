@@ -55,6 +55,10 @@ Sélection de grilles et scores essentiels en pratique quotidienne de médecine 
   - {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}
   - {{< modal-btn modal-insuline >}}Insuline{{< /modal-btn >}}
 
+## Hépato-gastroentérologie {.typography-overline .mt-4}
+
+{{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} annuel si: obésité, [diabète de type 2]({{< relref "diabete-type-2.md" >}}), [VIH avec lipodystrophie]({{< relref "vih-sida.md" >}}), cytolyse inexpliquée, stéatose échographique
+
 ## Neurologie {.typography-overline}
 
 {{< modal-btn modal-score-dn4 >}}Questionnaire DN4{{< /modal-btn >}}
@@ -207,5 +211,10 @@ Sélection de grilles et scores essentiels en pratique quotidienne de médecine 
 {{% modal title="Asthma Control Test" id="modal-score-act"%}}
 
 {{< scores/asthma-control-test >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage de la fibrose hépatique" id="modal-fib4"%}}
+
+{{< scores/fib4 >}}
 
 {{% /modal %}}

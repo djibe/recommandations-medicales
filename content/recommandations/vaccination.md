@@ -1,12 +1,12 @@
 +++
 title = "Vaccination"
 prefix = "la "
-description = "Recommandations vaccinales d'après le Calendrier vaccinal 2022. Âge de rattrapage, vaccins selon l'âge, taille d'aiguille et sites d'injection des vaccins"
+description = "Recommandations vaccinales selon le Calendrier vaccinal 2022. Âge de rattrapage, vaccins selon l'âge, taille d'aiguille et sites d'injection des vaccins"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2022-12-04"
+lastmod = "2023-01-18"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["MinSanté", "HCSP"]
@@ -14,15 +14,15 @@ tags = ["BPCO", "diabete", "prevention", "vaccin", "zona"]
 anglais = ["Immunization", "vaccination"]
 sctid = "33879002"
 image = true
-imageSrc = "Illustration par Freepik"
+imageSrc = "Illustration de la vaccination par Freepik"
 todo = "Vaccins cancer, texte SEO, choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages, https://publications.aap.org/pediatrics/article/150/3/e2021056007/188497/Value-of-the-Immunization-Program-for-Children-in"
 +++
 
 {{%article-summary%}}
 
 - [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
-- Rappel vaccinal de [la coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA)
-- Vaccination des +16 ans par les infirmiers et pharmaciens sans ordonnance pour: grippe, dTcaPolio, pappillomavirus, pneumocoque, hépatite A et B, méningocoques B et ACYW135 et la rage
+- Rappel vaccinal de [la coqueluche]({{< relref "coqueluche.md" >}}) à chaque grossesse (entre 20 et 36 SA), stratégie de cocooning sinon
+- Vaccination des +16 ans par les infirmiers et pharmaciens sans ordonnance pour: [grippe]({{< relref "grippe.md" >}}), dTcaPolio, [papillomavirus]({{< relref "cancer-col-uterus.md" >}}), pneumocoque, [hépatite A]({{< relref "hepatite-a.md" >}}) et [B]({{< relref "hepatite-b.md" >}}), méningocoques B et ACYW135 et la rage
 - Poser une question pour un cas vaccinal particulier: [Infovac App](https://app.infovac.fr/) (nécessite de créer un compte)
 
 {{%/article-summary%}}
@@ -30,13 +30,13 @@ todo = "Vaccins cancer, texte SEO, choc anaphylactique, Rattrapage vaccinal http
 
 dTcaPolio
 : d (diphtérie) et ca (coqueluche) écrits en minuscules indiquent un dosage réduit en antigènes.  
-Ces dosages réduits ne peuvent être utilisés qu'à partir de 11 ans (BoostrixTetra, Repevax).
+Ces dosages réduits ne peuvent être utilisés qu'à partir de 11 ans (BoostrixTetra, Repevax). Délai minimal entre 2 rappels de 1 mois.
 
 Rattrapage vaccinal
 : << Si un retard est intervenu dans le programme de vaccination, il n'est pas nécessaire de recommencer. Il suffit de reprendre ce programme au stade où il a été interrompu et de compléter la vaccination en fonction de l'âge et du nombre de doses de vaccin manquantes >> (*INPES*).
 
 Nourrisson prématuré
-: Naissance avant 37 SA.
+: Naissance avant 37 semaines d'aménorrhée (SA).
 
 > << Les vaccins ne sont pas associés à un risque accru de survenue d'une SEP, y compris les vaccins contre l'hépatite B et le papillomavirus humain ; ils ne sont pas associés à un risque accru de poussée (données insuffisantes pour la fièvre jaune) >> (*[SFSEP 2019](https://doi.org/10.1016/j.neurol.2019.01.218)*)
 {.alert .alert-info}
@@ -54,26 +54,26 @@ VVA
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Calendrier vaccinal" "show" %}}
+{{%collapse "Calendrier vaccinal 2022" "show" %}}
 
 {{< table title="Calendrier des vaccins recommandés en France en 2022. Tous les vaccins sont remboursés par l'Assurance Maladie. Dr JB Fron d'après Ministère de la Santé 2022." >}}
-| Âge     | Valences      | Spécialités équivalentes       |
-|:-------:|---------------|--------------------------------|
-| 2 mois  | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus (HAS) | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
-| 3 mois  | Méningo B<br>Rotavirus (HAS)<br>Prématuré: Pneumo 13 | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>Prevenar 13 |
-| 4 mois  | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus (HAS) | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 3/3 |
-| 5 mois  | Méningo C<br>Méningo B    | Menjugate, Neisvac<br>Bexsero |
-| 11 mois | DTCaP-Hib-HB<br>Pneumo 13  | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13 |
-| 12 mois | Méningo C<br>ROR<br>Méningo B | Menjugate, Neisvac<br>MMRvaxPro, Priorix<br>Bexsero |
-| 16-18 mois | ROR        | MMRvaxPro, Priorix             |
-| 6 ans   | DTCaPolio     | ~~InfanrixTetra~~, Tetravac-acellulaire |
-| 11-13 ans   | dTcaPolio<br>(DTCaPolio si non fait)       | BoostrixTetra, Repevax<br>(voir *6 ans*)    |
-| 11-14 ans   | HPV       | Gardasil9                      |
-| 25 ans  | dTcaPolio     | BoostrixTetra, Repevax         |
-| 45 ans  | dTPolio       | Revaxis                        |
-| +65 ans    | dTPolio tous les 10 ans<br>Antigrippal annuel | Revaxis<br>Efluelda, Flurarix-Influvac-Vaxigrip Tetra |
-| 65-74 ans   | Zona      | Zostavax (vivant)              |
-| Grossesse   | Coqueluche, Covid, grippe | BoostrixTetra, Repevax ... |
+|    Âge     | Valences                                             | Spécialités équivalentes                                                  |
+|:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
+|   2 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus (HAS)         | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 1/3, Rotarix 1/2 |
+|   3 mois   | Méningo B<br>Rotavirus (HAS)<br>Prématuré: Pneumo 13 | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>Prevenar 13                        |
+|   4 mois   | DTCaP-Hib-HB<br>Pneumo 13<br>Rotavirus (HAS)         | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13<br>RotaTeq 3/3              |
+|   5 mois   | Méningo C<br>Méningo B                               | Menjugate, Neisvac<br>Bexsero                                             |
+|  11 mois   | DTCaP-Hib-HB<br>Pneumo 13                            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13                             |
+|  12 mois   | Méningo C<br>ROR<br>Méningo B                        | Menjugate, Neisvac<br>MMRvaxPro, Priorix<br>Bexsero                       |
+| 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
+|   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
+| 11-13 ans  | dTcaPolio<br>(DTCaPolio si non fait)                 | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
+| 11-14 ans  | HPV                                                  | Gardasil9                                                                 |
+|   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
+|   45 ans   | dTPolio                                              | Revaxis                                                                   |
+|  +65 ans   | dTPolio tous les 10 ans<br>Antigrippal annuel        | Revaxis<br>Efluelda, Flurarix-Influvac-Vaxigrip Tetra                     |
+| 65-74 ans  | Zona                                                 | Zostavax (vivant)                                                         |
+| Grossesse  | Coqueluche, Covid, grippe                            | BoostrixTetra, Repevax ...                                                |
 {{< /table >}}
 
 **Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours avec pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles. Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
@@ -87,19 +87,19 @@ VVA
 {.alert .alert-info}
 
 {{< table title="Âges limites du rattrapage vaccinal systématique en population générale selon le Calendrier vaccinal" >}}
-| Pathologie   | Âge limite de rattrapage | Rattrapages spécifiques |
-|--------------|:------------------------:|-------------------------|
-| Coqueluche   | 39 ans                   | [Grossesse, cocooning]({{< relref "coqueluche.md" >}}) |
-| Haemophilus  | 5 ans                    | [Asplénie]({{< relref "asplenie.md" >}}) |
-| Hépatite B   | 15 ans                   | [Hépatite B]({{< relref "hepatite-b.md" >}}) |
-| Méningocoque B | 23 mois                |                         |
-| Méningocoque C | 24 ans                 | Dose unique après 12 mois |
-| Papillomavirus | 19 ans                 | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}}) |
-| Pneumocoque  | 23 mois                  | BPCO, diabète ...       |
-| Rotavirus    | 3 mois                   |                         |
-| Rougeole<br>Oreillons<br>Rubéole | 42 ans |                       |
-| Tuberculose  | Lire [tuberculose]({{< relref "tuberculose.md" >}}) | |
-| Varicelle    | 18 ans                   | [Autour d'un cas]({{< relref "varicelle.md" >}}) |
+| Pathologie                       |              Âge limite de rattrapage               | Rattrapages spécifiques                                |
+|----------------------------------|:---------------------------------------------------:|--------------------------------------------------------|
+| Coqueluche                       |                       39 ans                        | [Grossesse voire cocooning]({{< relref "coqueluche.md" >}}) |
+| Haemophilus                      |                        5 ans                        | [Asplénie]({{< relref "asplenie.md" >}})               |
+| Hépatite B                       |                       15 ans                        | [Hépatite B]({{< relref "hepatite-b.md" >}})           |
+| Méningocoque B                   |                       23 mois                       |                                                        |
+| Méningocoque C                   |                       24 ans                        | Dose unique après 12 mois                              |
+| Papillomavirus                   |                       19 ans                        | [HSH jusqu'à 26 ans]({{< relref "hsh.md" >}})          |
+| Pneumocoque                      |                       23 mois                       | BPCO, diabète ...                                      |
+| Rotavirus                        |                       3 mois                        |                                                        |
+| Rougeole<br>Oreillons<br>Rubéole |                       42 ans                        |                                                        |
+| Tuberculose                      | Lire [tuberculose]({{< relref "tuberculose.md" >}}) |                                                        |
+| Varicelle                        |                       18 ans                        | [Autour d'un cas]({{< relref "varicelle.md" >}})       |
 {{< /table >}}
 
 ### Rattrapage du vaccin méningocoque B
@@ -267,21 +267,23 @@ Le don du sang est contre-indiqué durant quatre semaines après les vaccination
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
+Documents pour informer sur la vaccination:
+
 - [Information du patient - Santé BD: La vaccination](https://santebd.org/les-fiches-santebd/docteur-generaliste/la-vaccination-mieux-comprendre-la-vaccination)
 - [CRES PACA. Des outils de promotion de la vaccination](http://www.cres-paca.org/a/157/des-outils-de-promotion-de-la-vaccination/?utm_source=phplist785&utm_medium=email&utm_content=HTML&utm_campaign=Vaccination+%3A+des+outils+pour+les+professionnels+de+sant%C3%A9+)
 - [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
 
 {{% /collapse %}}
-{{%collapse "FMC gratuite" %}}
+{{%collapse "FMC gratuites" %}}
 
 {{< card-link-external title="e-learning vaccination" url="https://www.formationvaccinationpaca.fr" subtitle="Par la Région PACA">}}
-
-{{% /collapse %}}
-{{%sources%}}
 
 {{< youtube id="u31xRtiITzk" title="Administration du vaccin Rotarix (CDC)" >}}
 
 {{< youtube id="QzhPJ8c5A7E" title="Webinaire Les Mardis de la Vaccination" >}}
+
+{{% /collapse %}}
+{{%sources%}}
 
 - [Ministère de la Santé. La vaccination du nourrisson contre les rotavirus. Questions/Réponses pour les professionnels de santé. Novembre 2022.](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-ps_nov22.pdf)
 - [Omedit Auvergne. Vaccination et Chimiothérapie. 22/07/2022.](https://www.omedit-auvergne-rhone-alpes.ars.sante.fr/vaccination-et-chimiotherapie)

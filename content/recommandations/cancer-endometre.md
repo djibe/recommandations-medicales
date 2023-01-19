@@ -72,13 +72,13 @@ VPN
 Signes et symptômes évocateurs à rechercher en cas de suspicion d'un cancer de l'endomètre:
 
 - Antécédents personnels ou familiaux du spectre de Lynch (HNPCC)  
-  [Cancer colorectal]({{< relref "cancer-colorectal.md" >}}), grêle, endomètre, urothélial, voies biliaires, [estomac]({{< relref "cancer-estomac.md" >}}), ovaire.
+  [Cancer colorectal]({{< relref "cancer-colorectal.md" >}}), grêle, endomètre, urothélial, voies biliaires, [estomac]({{< relref "cancer-estomac.md" >}}), [ovaire]({{< relref "cancer-ovaire.md" >}}).
 - Facteurs de risque
   - Obésité
   - Diabète
   - Traitement par tamoxifène
 - Symptômes
-  - **Métrorragies spontanées** d'abondance moyenne
+  - **Métrorragies** spontanées d'abondance moyenne
   - Leucorrhées
   - [Douleurs pelviennes](/tags/douleur-pelvienne/)
   - [Cystites répétées]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
@@ -119,10 +119,11 @@ Le dosage du **marqueur tumoral CA 125** peut être discuté initialement en cas
 
 Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP) et est pluridisciplinaire.
 
-La prise en charge du cancer de l'endomètre repose essentiellement sur la chirurgie avec hystérectomie totale et salpingo-ovariectomie bilatérale.  
+La prise en charge du cancer de l'endomètre repose essentiellement sur la chirurgie avec hystérectomie totale et salpingo-ovariectomie bilatérale si la patiente est opérable.
+
 La chirurgie avant 50 ans entraîne une stérilisation pouvant être traitée par œstrogènes seuls (voir [ménopause précoce]({{< relref "insuffisance-ovarienne-prematuree.md" >}})).
 
-[Guide d'information patiente de l'INCa](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-l-endometre/Points-cles)
+[Guide d'information patiente de l'INCa sur le cancer de l'endomètre](https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-l-endometre/Points-cles)
 
 Comme pour tout cancer:
 

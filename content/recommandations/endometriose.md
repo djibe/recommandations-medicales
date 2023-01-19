@@ -38,7 +38,7 @@ Elle est pathologique lorsqu'elle entraîne une **dysménorrhée**, des **douleu
 Les douleurs sont souvent améliorées pendant les grossesses et après la [ménopause]({{< relref "menopause.md" >}}).
 : L'origine de l'endométriose est multifactorielle avec l'action de facteurs génétiques (hérédité), environnementaux et liés aux menstruations (ménarche précoce, volume important, cycles courts).  
 Il n'existe pas d'arguments pour une aggravation de l'importance et l'étendue des lésions de la maladie endométriosiques avec le temps.
-: Aucune association endométriose - cancer de l'ovaire n'est prouvée.  
+: Aucune association endométriose - [cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}}) n'est prouvée.  
 Des complications obstructives (occlusion digestive ou urétérale) sont exceptionnelles.
 
 Endométriose superficielle
@@ -151,7 +151,7 @@ Autres diagnostics à étayer devant des douleurs pelviennes de la femme:
 - Salpingite et inflammation pelvienne chronique
 - Fibromyomes utérins
 - Kyste ovarien
-- Cancer de l'ovaire
+- [Cancer de l'ovaire]({{< relref "cancer-ovaire.md" >}})
 - Douleurs d'origine digestive
 - [Douleurs neuropathiques]({{< relref "douleur-neuropathique.md" >}})
 - Violences sexuelles
