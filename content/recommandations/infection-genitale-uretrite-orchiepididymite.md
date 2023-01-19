@@ -91,17 +91,15 @@ Antibiothérapie probabiliste de l'urétrite en cas de symptômes marqués.
     </li>
   </ul>
   <div class="card-body tab-content">
-    <div aria-labelledby="has-urethritis-tab" class="tab-pane fade show active" id="has-urethritis-panel" role="tabpanel">
+  <div aria-labelledby="has-urethritis-tab" class="tab-pane fade show active" id="has-urethritis-panel" role="tabpanel">
 
-{{%info%}}
 Ceftriaxone 1g IM dose unique
 
 \+ doxycycline 100 mg x 2/j pendant 7 jours  
 OU azithromycine 1g dose unique
-{{%/info%}}
 
-  </div>
-  <div aria-labelledby="eau-urethritis-tab" class="tab-pane fade" id="eau-urethritis-panel" role="tabpanel">
+</div>
+<div aria-labelledby="eau-urethritis-tab" class="tab-pane fade" id="eau-urethritis-panel" role="tabpanel">
 
 Attendre la PCR pour une antibiothérapie guidée en cas de symptômes légers.
 
@@ -114,13 +112,14 @@ OU azithromycine 1g dose unique
 
 Infection non-gonococcique persistante:
 
-- Après doxycycline: azithromycine 500 mg J1 puis 250 mg/j pendant 4 jours  
-  \+ métronidazole 400 mg x 2/j pendant 5 jours
-- Après azithromycine: Moxifloxacine 400 mg pendant 7 à 14 jours  
-  \+ métronidazole 400 mg x 2/j pendant 5 jours
+Après doxycycline: azithromycine 500 mg J1 puis 250 mg/j pendant 4 jours  
+\+ métronidazole 400 mg x 2/j pendant 5 jours
 
-  </div>
-  <div aria-labelledby="sfd-urethritis-tab" class="tab-pane fade" id="sfd-urethritis-panel" role="tabpanel">
+Après azithromycine: moxifloxacine 400 mg pendant 7 à 14 jours  
+\+ métronidazole 400 mg x 2/j pendant 5 jours
+
+</div>
+<div aria-labelledby="sfd-urethritis-tab" class="tab-pane fade" id="sfd-urethritis-panel" role="tabpanel">
 
 Traitement probabiliste dès les prélèvements effectués puis réévaluation avec les résultats.
 
@@ -129,8 +128,8 @@ OU azithromycine 1g dose unique
 
 \+ anti-gonocoque si écoulement urétral: Ceftriaxone 500 mg IM dose unique
 
-  </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
-  <div aria-labelledby="eau-spe-urethritis-tab" class="tab-pane fade" id="eau-spe-urethritis-panel" role="tabpanel">
+</div><!-- No more than 2-spaces indentation to prevent code block declaration -->
+<div aria-labelledby="eau-spe-urethritis-tab" class="tab-pane fade" id="eau-spe-urethritis-panel" role="tabpanel">
 
 Traitement par germe selon *EAU 2022*:
 
@@ -147,8 +146,9 @@ Traitement par germe selon *EAU 2022*:
 - *Trichomonas vaginalis*
   - Métronidazole 2g dose unique + tinidazole (Fasigyne®) 2g dose unique
   - Voire métronidazole 500 mg x 2//j pendant 7 jours
-  </div>
-  </div>
+
+</div>
+</div>
 </div>
 
 Mesures associées:
@@ -191,14 +191,14 @@ Antibiothérapie probabiliste de l'orchi-épididymite selon les différentes rec
 <div class="card card-hover my-3 mb-xl-5 mw-640">
   <ul class="nav nav-tabs nav-justified" id="tabs-orchiepididymite" role="tablist">
   <li class="nav-item" role="presentation">
-      <button aria-controls="eau-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#eau-panel" id="eau-tab" type="button" role="tab">EAU 2022</button>
-    </li>
-    <li class="nav-item" role="presentation">
-      <button aria-controls="sfd-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#sfd-panel" id="sfd-tab" type="button" role="tab">SFD 2016</button>
+    <button aria-controls="eau-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#eau-panel" id="eau-tab" type="button" role="tab">EAU 2022</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button aria-controls="sfd-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#sfd-panel" id="sfd-tab" type="button" role="tab">SFD 2016</button>
     </li>
   </ul>
   <div class="card-body tab-content">
-    <div aria-labelledby="eau-tab" class="tab-pane fade show active" id="eau-panel" role="tabpanel">
+  <div aria-labelledby="eau-tab" class="tab-pane fade show active" id="eau-panel" role="tabpanel">
 
 Ceftriaxone 1g IM dose unique  
 \+ doxycycline 200 mg x 2/j à J1 puis 100 mg x 2/j pendant 10 à 14 jours
@@ -211,16 +211,16 @@ Ceftriaxone 1g IM dose unique
 - Si homme âgé sans rapports à risque: traitement d'une infection urinaire masculine  
   Ciprofloxacine 500 mg x 2/j ou lévofloxacine 750 mg (indisponible en France) x 1/j pendant 10 à 14 jours
 
-  </div>
-  <div aria-labelledby="sfd-tab" class="tab-pane fade " id="sfd-panel" role="tabpanel">
+</div>
+<div aria-labelledby="sfd-tab" class="tab-pane fade " id="sfd-panel" role="tabpanel">
 
 Ceftriaxone 500 mg IM dose unique  
 \+ doxycycline 100 mg x 2/j pendant 10 jours
 
 Si faible suspicion de gonococcie et suspicion d'origine urinaire: Ceftriaxone + ofloxacine 200 mg x 3/j pendant 10 jours
 
-  </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
-  </div>
+</div><!-- No more than 2-spaces indentation to prevent code block declaration -->
+</div>
 </div>
 
 Mesures associées au traitement de l'orchiépididymite:
