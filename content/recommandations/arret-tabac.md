@@ -284,7 +284,7 @@ Prise en charge du patient souhaitant arrêter de fumer:
 - Tabacologue ([annuaire](https://www.tabac-info-service.fr/je-trouve-un-tabacologue))  
   Indications: demande du patient, rechutes répétées, accompagnement psychologique spécifique, poly-addictions, comorbidités psychiatriques.
 - Soutien psychologique ± **thérapie cognitive et comportementale** (TCC)  
-  Voir [remboursement MonPsy]({{< relref "remboursement-psychologue-monpsy.md" >}}).
+  Voir [remboursement MonPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}).
 - Suivi bucco-dentaire rigoureux
 - Voire traitement médicamenteux
 - Auto-support: [Tabac Info Service](https://www.tabac-info-service.fr/), appli [Kwit](https://play.google.com/store/apps/details?id=fr.kwit.android)

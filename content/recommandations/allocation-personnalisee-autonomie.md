@@ -15,8 +15,8 @@ sources = ["Service Public"]
 tags = []
 anglais = []
 sctid = ""
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Illustration de l'Allocation Personnalisée d'Autonomie (APA) par storyset / Freepik"
 todo = "Relire service-public"
 +++
 

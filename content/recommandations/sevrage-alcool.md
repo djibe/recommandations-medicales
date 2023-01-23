@@ -32,7 +32,7 @@ todo = "SEO 'sevrage alcoolique has', simplifier, remarques mail, KEY x3 sevrage
 - 1 verre standard = 10g d'alcool. << Pour votre santé, l'alcool c'est maximum 2 verres par jour et pas tous les jours >> et << toute consommation d'alcool comporte un risque pour la santé >> (seuil de mésusage = 10 verres/semaine, *[affiche SPF](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/affiche/pour-votre-sante-l-alcool-c-est-maximum-2-verres-par-jour-et-pas-tous-les-jours)*)
 - 0 alcool pendant la grossesse et chez les enfants
 - Mésusage: 1 homme sur 3 et 1 femme sur 6
-- Prise en charge des co-addictions (tabac, cannabis), complications somatiques et troubles psychiatriques ([MonPsy]({{< relref "remboursement-psychologue-monpsy.md" >}}), dépression, anxiété...)
+- Prise en charge des co-addictions (tabac, cannabis), complications somatiques et troubles psychiatriques ([MonPsy]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}), dépression, anxiété...)
 - Dépister la Maladie du foie liée à l'alcool (MFLA): ≥ 14 verres/semaine et/ou âge ≥ 40 ans ET score AUDIT-C pathologique (voir *Évaluation d'une consommation*) par test de fibrose hépatique (FibroScan® ou biologique Fibrotest® ou Fibromètre Alcool). Arrêt du tabac et lutte surpoids, suivi addictologique
 - Accepter l'objectif de consommation du sujet car toute réduction de consommation est positive. + efficace: auto-évaluation quotidienne de la consommation
 - Abstinence est préférable en dépendance à l'alcool ou comorbidités. Si non souhaitée, accompagnement vers la réduction des dommages
@@ -336,7 +336,7 @@ Installer une alliance thérapeutique sur la définition du problème à résoud
 - Livret d'information  
   Maladie alcoolique, sevrage, intérêt de l'accompagnement, coordonnées des acteurs.
 - Intervention psychosociale
-  - Soutien psychologique ([remboursés sur ordonnance]({{< relref "remboursement-psychologue-monpsy.md" >}}))
+  - Soutien psychologique ([remboursés sur ordonnance]({{< relref "remboursement-psychologue-monparcourspsy.md" >}}))
   - Renforcement de la motivation au changement
   - Mouvements d'entraide  
     [Alcooliques Anonymes](https://www.alcooliques-anonymes.fr), [La Croix-Bleue](https://croixbleue.fr/), [entraid' addict](https://www.entraidaddict.fr/), [Vie Libre](https://www.vielibre.org/), [Les amis de la santé](https://www.lesamisdelasante.org/), [Joie et santé - Alcool Écoute](https://www.alcoolecoute.com/)
