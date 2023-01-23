@@ -44,7 +44,7 @@
   "bugs": {
     "url": "https://github.com/djibe/recommandations-medicales/issues"
   },
-  "homepage": "https://recomedicales.fr",
+  "homepage": "https://recomedicales.fr/",
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
     "cli-real-favicon": "^0.0.8",

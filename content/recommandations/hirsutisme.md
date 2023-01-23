@@ -195,7 +195,7 @@ Molécules anti-androgéniques:
 
 - [Acétate de cyprotérone (Androcur®) 50–100 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61255738&typedoc=R) des jours 5 à 15 avec EE 20–35 mg de J5 à J25,
 - [Spironolactone 100 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61938189&typedoc=R) x 1-2/j (sauf insuffisance rénale ou risque de grossesse)
-- [Finastéride](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60123363&typedoc=R) 2,5-5 mg/j
+- [Finastéride](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60123363&typedoc=R) 2,5-5 mg/j (TODO: alerte ANSM)
 
 **NB.** Ne pas utiliser le flutamide (hépatotoxique)
 

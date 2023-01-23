@@ -168,7 +168,7 @@ Les IPDE5 entraînent une diminution du PSA de moitié
 {.alert .alert-info}
 
 - Dutastéride (Avodart®, gén)
-- Finastéride (Chibro-Proscar®, gén)
+- Finastéride (Chibro-Proscar®, gén) (TODO: alerte ANSM)
 
 Effets indésirables: impuissance et éjaculation rétrograde, baisse de la libido, gynécomastie, troubles neuropsy. Délai d'apparition de 1 an.
 

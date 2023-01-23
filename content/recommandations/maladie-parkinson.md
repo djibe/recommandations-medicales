@@ -401,6 +401,12 @@ graph TB
     gêne --> autres("<b>Autres options</b><hr>Amantadine<br>Anticholinergiques<br>si tremblement<br>prédomine")
 {{< /mermaid >}}
 
+{{< mermaid title="Prise en charge par traitement médicamenteux des troubles moteurs au stade avancé de la Maladie de Parkinson. Dr JB Fron d'après HAS 2016">}}
+graph TB
+  augmentation[Symptômes parkinsoniens<br>sans gêne fonctionnelle]
+  style augmentation stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
 {{%/collapse%}}
 {{%sources%}}
 

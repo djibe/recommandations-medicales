@@ -29,6 +29,9 @@ figure {
 h1.my-xl-5 {
   margin-top: 0 !important;
 }
+p {
+  color: #000 !important;
+}
 a[target="_blank"] {
   color: initial;
 }
@@ -47,9 +50,6 @@ blockquote,
 nav,
 .embed-responsive {
   display: none !important;
-}
-p {
-  color: #000 !important;
 }
 #contract-generator {
   display: none;

@@ -22,6 +22,6 @@
 <div class="data-table" role="region" tabindex="0" {{ if $title }}{{ printf "aria-labelledby=\"table-caption-%s\"" $id | safeHTMLAttr }}{{ end }}>
   {{ $htmlTable | safeHTML }}
 </div>
-
+{{ if $title }}<script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "{{ printf "%s" $title }}"}</script>{{ end }}
 <!-- Inspired by https://zwbetz.com/style-a-markdown-table-with-bootstrap-classes-in-hugo/ and improved by djibe-->
-<!-- Features: HTML5 compatibility (no align-*), markdown alignment, Bootstrap 4/5 compatibility, <caption> support, Schema.org markup, WAI accessibility, custom CSS, custom Id, responsive (with CSS) -->
+<!-- Features: HTML5 compatibility (no align-*), markdown alignment, Bootstrap 4/5 compatibility, <caption> support, JSON+LD + Schema.org markup, WAI accessibility, custom CSS, custom Id, responsive (with CSS) -->

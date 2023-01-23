@@ -4,8 +4,21 @@
   {
     "@context": "https://schema.org",
     "@type": "Organization",
+    "name": "{{ .Site.Title }}",
     "url": {{ .Site.BaseURL }},
-    "logo": {{ .Site.Params.icon | absURL }}
+    "logo": {{ .Site.Params.icon | absURL }},
+    "foundingDate": "2019",
+    "founders": [
+      {
+      "@type": "Person",
+      "name": "{{ .Site.Params.Author }}"
+      }],
+    "sameAs": [
+      {{ .Site.Params.github }},
+      {{ .Site.Params.facebook }},
+      {{ .Site.Params.linkedin }},
+      {{ .Site.Params.twitter }}
+    ]
   }
 </script>
 <div class="container-lg home">

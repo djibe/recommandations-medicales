@@ -1,20 +1,22 @@
-# Le site des Recommandations Médicales
+# RecoMédicales : Le site des Recommandations Médicales
 
-**Projet Open Source, gratuit et indépendant visant à partager l'État de l'Art de la pratique en médecine de premier recours.**  
-Medical information for all general practitioners.
+RecoMédicales is Open Source Medical information for the general practitioner.  
+Dernières recommandations médicales pour la pratique en consultation du médecin généraliste
+
+**Projet Open Source, gratuit et indépendant visant à partager l'État de l'Art de la pratique en médecine de premier recours.**
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br>Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale 4.0 International</a>
 
-[RecoMédicales](https://recomedicales.fr) est développé pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder en 2 clics à tout ce dont ils ont besoin en consultation.
+[RecoMédicales](https://recomedicales.fr/) est développé pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder rapidement à tout ce dont ils ont besoin en consultation.
 
-## Pourquoi ce projet ?
+## Pourquoi RecoMédicales ?
 
-Plusieurs constats:
+Le projet est né suite à plusieurs constats:
 
 - Le médecin généraliste est exposé à toutes les situations
 - Or nous ne retenons que 10% de ce que nous lisons
-- Donc même en apprenant TOUT, nous ne retiendrions que 10%, ce qui est insuffisant
-- Nous avons donc besoin d'avoir un accès permanent à de l'information fiable pour guider nos consultations
+- Donc même en apprenant TOUT, nous n'en saurions pas plus de 10%, ce qui est insuffisant
+- Nous sommes donc dans la nécessité d'avoir un accès permanent à de l'information fiable pour guider nos consultations
 - De plus, les enjeux de Santé publique ([hypertension artérielle](https://recomedicales.fr/recommandations/hypertension-arterielle/), [diabète](https://recomedicales.fr/recommandations/diabete-type-2/), [BPCO](https://recomedicales.fr/recommandations/bronchopneumopathie-chronique-obstructive/), [ostéoporose](https://recomedicales.fr/recommandations/osteoporose/) sont d'une complexité croissante, hors de portée de simples fiches textes et de nos petits cerveaux.
 
 Seul un outil numérique peut nous aider.

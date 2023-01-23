@@ -52,7 +52,7 @@
 
 <!-- Link Tags -->
 <!--<base href="{{ .Site.BaseURL }}">--><!--For local Linkinator-->
-<link rel="canonical" href="{{ .Permalink }}">
+{{ if not (.Params.noindex) }}<link rel="canonical" href="{{ .Permalink }}">{{ end }}
 <meta property="og:url" content="{{ .Permalink }}">
 
 <!-- Language Tags -->

@@ -82,47 +82,8 @@ HUGO_ENABLEGITINFO = "false"
     Cache-Control = "public, max-age=2419200, must-revalidate, stale-while-revalidate=86400"
 
 [[redirects]]
-  from = "https://recommandations-medicales.netlify.app/*"
-  to = "https://recomedicales.fr/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://www.recomedicales.fr/*"
-  to = "https://recomedicales.fr/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "http://www.recomedicales.fr/*"
-  to = "https://recomedicales.fr/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "http://recomedicales.fr/*"
-  to = "https://recomedicales.fr/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/recommandations/alcool/"
-  to = "/recommandations/sevrage-alcool/"
-  status = 301
-
-[[redirects]]
-  from = "/recommandations/canal-carpien/"
-  to = "/recommandations/syndrome-canal-carpien/"
-  status = 301
-
-[[redirects]]
   from = "/images/photos/canal-carpien.webp"
   to = "/images/photos/syndrome-canal-carpien.webp"
-  status = 301
-
-[[redirects]]
-  from = "/annees/2003/"
-  to = "/annees/"
   status = 301
 
 [[redirects]]
@@ -136,18 +97,13 @@ HUGO_ENABLEGITINFO = "false"
   status = 301
 
 [[redirects]]
-  from = "/annees/2003/"
-  to = "/annees/"
-  status = 301
-
-[[redirects]]
-  from = "/annees/1998/"
-  to = "/annees/"
-  status = 301
-
-[[redirects]]
   from = "/recommandations/papillomavirus/"
   to = "/recommandations/cancer-col-uterus/"
+  status = 301
+
+[[redirects]]
+  from = "?ref="
+  to = "https://recomedicales.fr/"
   status = 301
 
 # [[plugins]]
