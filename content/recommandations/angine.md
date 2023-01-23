@@ -208,7 +208,6 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 149. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-149-web.pdf)
 - [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
 - [Cohen J., Cohen R.; SFP. Angine. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
 - [SPILF, HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'enfant. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/fiche_memo_rhinopharyngite_angine_enfant_durees_antibiotherapies.pdf)
@@ -218,6 +217,6 @@ graph TB
 
 ### À lire
 
-- [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. UE6 Item 146. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-146-nb.pdf)
+[CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 149. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-149-web.pdf)
 
 {{%/sources%}}

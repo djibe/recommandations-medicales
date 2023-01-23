@@ -115,8 +115,7 @@ Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre d
 
 - [WHO consolidated guidelines on tuberculosis. Module 4: treatment - drug-resistant tuberculosis treatment, 2022 update.](https://www.who.int/publications/i/item/9789240063129)
 - [Collège des Enseignants de Pneumologie (CEP). Tuberculose. Item 159. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2021/09/item_159_Tuberculose_2021.pdf)
-- [CMIT. Tuberculose de l'adulte et de l'enfant. Item 159. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-159-web.pdf)
-- [CMIT. Tuberculose de l'adulte et de l'enfant. UE6 Item 155. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-155-nb.pdf)
+- [CMIT. Tuberculose de l'adulte et de l'enfant. Item 159. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-159-web.pdf)
 - [Migliori G. et al. ERS/ECDC Statement: European Union standards for tuberculosis care, 2017 update. European Respiratory Journal. 2018.](https://erj.ersjournals.com/content/51/5/1702678)
 
 {{%/sources%}}

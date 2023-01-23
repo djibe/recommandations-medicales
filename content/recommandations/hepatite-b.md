@@ -336,7 +336,7 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler et al
 
 {{< youtube id="sYKByv4Olg8" title="VHB Indications thérapeutiques et surveillance H. Fontaine 2019 (AFEF Medical Education)" >}}
 
-- [CMIT. Hépatites virales. Item 167. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-167-web.pdf)
+- [CMIT. Hépatites virales. Item 167. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-167-web.pdf)
 - {{< references/calendrier-vaccinal >}}
 - {{< references/afef-foie-non-invasif >}}
 - [Sogni P.; SNFGE, AFEF. Prise en charge d'un patient porteur chronique de l'AgHBs. 2018. (PDF)](https://www.snfge.org/download/file/fid/3634)

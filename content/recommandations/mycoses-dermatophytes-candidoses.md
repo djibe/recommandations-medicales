@@ -575,7 +575,6 @@ graph TB
 - Prescrire Redaction. Intertrigo des grands plis. Prescrire. 2021.
 - Prescrire Redaction. Candidose vulvovaginale. Prescrire. 2021.
 - [Saxon GDGC. et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
-- [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. UE6 Item 152. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-152-nb.pdf)
 - Prescrire Redaction. Pityriasis versicolor. Prescrire. 2019.
 - [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 152 UE 6. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/11Item-152-UE6-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques.pdf)
 - [Haut conseil de la santé publique (HCSP). Survenue de maladies infectieuses dans une collectivité. Conduites à tenir. 2012.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=306)
@@ -584,6 +583,6 @@ graph TB
 
 ### À lire
 
-[CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-155-web.pdf)
+[CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-155-web.pdf)
 
 {{%/sources%}}

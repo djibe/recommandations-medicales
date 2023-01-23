@@ -14,7 +14,7 @@
     "html:lint-validate": "npm run start && npm exec html-validate \"public/**/*.html\"",
     "hugo:debug": "hugo --cleanDestinationDir --minify --debug --logFile ./hugo.log --verboseLog",
     "hugo:update": "choco upgrade hugo-extended -y",
-    "links-md:check": "linkinator content/**/*.md --markdown --verbosity error --skip '(%22)$'",
+    "links-md:check": "linkinator content/**/*.md --config ./build/linkinator.config.json 2> debug-linkinator.log",
     "links-external:check": "linkinator layouts/shortcodes/**/*.html --verbosity error",
     "server": "hugo server --buildDrafts --watch --destination dev --verbose --cleanDestinationDir -p 1313",
     "start": "hugo --environment production --cleanDestinationDir --gc --minify",
@@ -36,7 +36,7 @@
     "clinique"
   ],
   "author": "Jean-Baptiste FRON",
-  "license": "GPL-3.0",
+  "license": "CC-BY-SA-4.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/djibe/recommandations-medicales.git"
@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.13",
-    "postcss": "^8.4.18",
+    "postcss": "^8.4.21",
     "postcss-cli": "^10.1.0"
   },
   "browserslist": [

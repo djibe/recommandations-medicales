@@ -179,7 +179,10 @@ L'oseltamivir doit être débuté dans les 48 heures suivant l'apparition des sy
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Vaccination antigrippale : la stratégie de la prochaine campagne annuelle réaffirmée dans le contexte de l'épidémie de COVID-19. 02/06/2020.](https://www.has-sante.fr/jcms/p_3187536/fr/vaccination-antigrippale-la-strategie-de-la-prochaine-campagne-annuelle-reaffirmee-dans-le-contexte-de-l-epidemie-de-covid-19)
 - [Académie nationale de Médecine. Communiqué: Face à la Covid-19, vaccinons contre la grippe ! 13/05/2020.](http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-face-a-la-covid-19-vaccinons-contre-la-grippe/)
-- [CMIT. Grippe. UE6 Item 162. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-162-nb.pdf)
 - [SPILF. Prise en charge de la grippe en dehors d'une situation de pandémie en 2005. Médecine et Maladies Infectieuses. 2005.](https://www.sciencedirect.com/science/article/pii/S0399077X05002064)
+
+### À lire
+
+[CMIT. Grippe. Item 166. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-166-web.pdf)
 
 {{%/sources%}}

@@ -188,8 +188,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-155-web.pdf)
-- [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. UE6 Item 152. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-152-nb.pdf)
+- [CMIT. Infections cutanéo-muqueuses et des phanères, bactériennes et mycosiques, de l'adulte et de l'enfant. Item 155. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-155-web.pdf)
 - Prescrire Rédaction. Dermatite séborrhéique chez un adulte. Août 2020.
 - [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109. UE 4. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/5-Item-109-%E2%80%94-UE-4-Dermatoses-faciales-acne-rosacee-dermatite-seborrheique.pdf)
 - [Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 UE 6. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/ECN-All-2017.pdf)

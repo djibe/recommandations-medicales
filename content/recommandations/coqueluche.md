@@ -227,12 +227,12 @@ Antibioprophylaxie des contacts du cas la plus précoce possible, jusqu'à 21 jo
 - [HCSP. Conduite à tenir autour d'un ou plusieurs cas de coqueluche. 2023.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1265)
 - {{< references/calendrier-vaccinal >}}
 - [SPILF. Info-antibio N°92. Mai 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2021-05-tt-courts.pdf)
-- [CMIT. Coqueluche. UE6 Item 159. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-159-nb.pdf)
 - [HCSP. Conduite à tenir devant un ou plusieurs cas de coqueluche. 2008.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=36)
 - [ECDC. Pertussis](https://www.ecdc.europa.eu/en/pertussis)
 
 ### À lire
 
+- [CMIT. Coqueluche. Item 163. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-163-web.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU). Coqueluche. Item 163. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/coqueluche)
 
 {{%/sources%}}

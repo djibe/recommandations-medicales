@@ -357,12 +357,12 @@ Ensuite débuter 3 jours avant l'entrée dans la zone à risque.
 - {{< references/voyageur >}}
 - Anofel. Paludisme. Parasitoses et mycoses des régions tempérées et tropicales. 2022.
 - [Institut Pasteur. Recommandations générales - Prévention du paludisme.](https://www.pasteur.fr/fr/centre-medical/vaccination/recommandations-generales#prvention-du-paludisme)
-- [CMIT. Paludisme. UE6 Item 166. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-166-nb.pdf)
+- CMIT. Paludisme. UE6 Item 166. ECN.Pilly. 2020.
 
 ### À lire
 
 - [Bouchaud O. et al. Prise en charge et prévention du paludisme d'importation - Mise à jour 2018 des RPC 2007. Médecine et Maladies Infectieuses. 2020.](https://www.sciencedirect.com/science/article/pii/S0399077X19310613)
-- [CMIT. Paludisme. Item 170. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-170-web.pdf)
+- [CMIT. Paludisme. Item 170. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-170-web.pdf)
 - [Egmann G. et al; SFMU. Accès palustres : diagnostic et traitement. 2014. (PDF)](https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/028.pdf)
 - [Omedit Centre. Traitement des accès à Plasmodium falciparum de l'adulte. 2015. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5222.pdf) et de [l'enfant](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5223.pdf)
 - [Aubry P., Gaüzère BA. Conseils de santé sur le paludisme pour les voyageurs et leurs familles. Médecine Tropicale. 2014. (PDF)](http://medecinetropicale.free.fr/cours/conseilpaludisme.pdf)

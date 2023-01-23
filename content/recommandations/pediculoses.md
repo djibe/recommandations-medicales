@@ -130,8 +130,7 @@ Nota bene:
 {{% /collapse %}}
 {{%sources%}}
 
-- [CMIT. Gale et pédiculose. Item 171. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-171-web.pdf)
-- [CMIT. Gale et pédiculose. Item 167 UE 6. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-167-nb.pdf)
+- [CMIT. Gale et pédiculose. Item 171. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-171-web.pdf)
 - [Jegou-Penouil MH. Les poux. dermato-info. 02/12/2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/les-poux)
 - [Chosidow O.; SFDermato. Prise en charge de la pédiculose du cuir chevelu en 2019 en France. Mise au point. Novembre 2019. (PDF)](https://www.sfdermato.org/media/pdf/actualite/note-pediculos-sfd-gridist-51283d08cd07c9ac26310a6d2669ff30.pdf)
 - Prescrire Redaction. Pédiculose du cuir chevelu - Premiers Choix Prescrire, actualisation mai 2019. Rev Prescrire 2019.

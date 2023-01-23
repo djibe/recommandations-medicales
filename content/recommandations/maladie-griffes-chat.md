@@ -100,8 +100,7 @@ Informations et mesures de prévention pour la maladie des griffes du chat:
 {{% /collapse %}}
 {{%sources%}}
 
-- [CMIT. Zoonoses. Item 173. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-173-web.pdf)
-- [CMIT. Zoonoses. UE6 Item 169. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-169-nb.pdf)
+- [CMIT. Zoonoses. Item 173. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-173-web.pdf)
 - [Ministère de l'Agriculture. Maladie des griffes du chat. Janvier 2007. (PDF)](https://agriculture.gouv.fr/telecharger/118893)
 
 {{%/sources%}}

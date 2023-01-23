@@ -1,16 +1,18 @@
 {
-  "concurrency": 30,
-  "recurse": true,
+  "concurrency": 100,
   "skip": [
     "recomedicales.fr",
     "doi.org",
+    "journals.sagepub.com",
     "github.com",
-    "images/"
+    "images/",
+    "tags/",
+    "projet/"
   ],
   "verbosity": "error",
-  "markdown": false,
+  "markdown": true,
   "retry": true,
   "retryErrors": true,
   "retryErrorsCount": 3,
-  "retryErrorsJitter": 5
+  "retryErrorsJitter": 10
 }

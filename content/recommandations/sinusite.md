@@ -249,7 +249,6 @@ graph TB
 
 ### À lire
 
-- [CMIT. Infections naso-sinusiennes de l'adulte et de l'enfant. Item 148. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-148-web.pdf)
-- [CMIT. Infections naso-sinusiennes de l'adulte et de l'enfant. UE6 Item 145. ECN.Pilly. 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-145-nb.pdf)
+- [CMIT. Infections naso-sinusiennes de l'adulte et de l'enfant. Item 148. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-148-web.pdf)
 
 {{%/sources%}}
