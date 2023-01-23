@@ -1,25 +1,24 @@
 +++
-title = "Maladies à déclaration obligatoire"
+title = "Les 36 Maladies à déclaration obligatoire en 2023"
 prefix = "les "
-noindex = true
 titleSeo = "Maladies à déclaration obligatoire"
 description = "Liste des 36 maladies à déclaration obligatoire selon l'article D3113-6 du Code de la Santé publique: Hépatite A ou hépatite B symptomatique, VIH ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-27T17:24:00+02:00"
 publishdate = "2021-03-27"
-lastmod = "2022-06-09"
+lastmod = "2023-01-23"
 specialites = ["certificats"]
-annees = "2021"
+annees = "2023"
 sources = ["SPF"]
 tags = []
 anglais = []
 sctid = ""
 image = true
-imageSrc = "Illustration par rawpixel.com / Freepik"
+imageSrc = "Illustration des Maladies à déclaration obligatoire par rawpixel.com / Freepik"
 +++
 
-36 maladies sont à déclaration obligatoire (MDO) en 2022, dont 2 non infectieuses (mésothéliomes et saturnisme chez les enfants mineurs). Cette liste est définie par l'[article D3113-6](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190444/) du Code de la Santé publique.
+36 maladies sont à déclaration obligatoire (MDO) en 2023, dont 2 non infectieuses (mésothéliomes et saturnisme chez les enfants mineurs). Cette liste est définie par l'[article D3113-6](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190444/) du Code de la Santé publique.
 
 ## Liste des maladies à déclaration obligatoire
 
@@ -34,16 +33,16 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme:
 - Diphtérie
 - Encéphalite à tiques
 - Fièvres hémorragiques africaines
-- Fièvre jaune
+- [Fièvre jaune]({{< relref "fievre-jaune.md" >}})
 - Fièvres typhoïdes et paratyphoïdes
 - [Hépatite A aiguë]({{< relref "hepatite-a.md" >}})
 - Infection invasive à méningocoque
-- Infection aiguë symptomatique par le virus de l'hépatite B
+- [Infection aiguë symptomatique par le virus de l'hépatite B]({{< relref "hepatite-b.md" >}})
 - [Infection VIH]({{< relref "vih-sida.md" >}})
 - Légionellose
 - Listériose
 - Mésothéliome
-- Orthopoxvirose, dont la variole ou Monkeypox (variole du singe)
+- Orthopoxvirose, dont la variole ou [Monkeypox (variole du singe)]({{< relref "monkeypox.md" >}})
 - [Paludisme]({{< relref "paludisme.md" >}}) autochtone ou d'importation dans les départements d'Outre-mer
 - Peste
 - Poliomyélite
@@ -65,4 +64,4 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme:
 
 ## Déclarer une maladie à déclaration obligatoire
 
-{{< card-link-external title="Réaliser en ligne une déclaration obligatoire" url="http://e-do.santepubliquefrance.fr/teleDO/Bienvenue.do" subtitle="Santé Publique France" image="edo.png" >}}
+{{< card-link-external title="Réaliser en ligne une déclaration obligatoire" url="https://e-do.santepubliquefrance.fr/teleDO/Bienvenue.do" subtitle="sur Santé Publique France" image="edo.png" >}}

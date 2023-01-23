@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-25T11:57:30+01:00"
 publishdate = "2021-11-25"
-lastmod = "2022-01-03"
+lastmod = "2023-01-23"
 specialites = ["social"]
-annees = "2022"
+annees = "2023"
 sources = ["Service Public"]
 tags = []
 anglais = []
@@ -22,7 +22,11 @@ todo = "Relire service-public"
 
 {{%article-summary%}}
 
-- [Liste de tous les EHPAD avec les grilles tarifaires](https://www.pour-les-personnes-agees.gouv.fr/)
+- L'Allocation Personnalisée d'Autonomie (APA) est accessible à toutes les personnes de +60 ans ayant un niveau de dépendance GIR 1 à 4 afin d'aider au maintien à domicile
+- Selon le degré du GIR (grille de cotation de la dépendance), l'allocation mensuelle versée varie de 746 à 1914€
+- Le dossier de demande d'APA est à retirer en mairie, au CLIC ou au Conseil départemental
+- Les droits à l'APA sont ouverts pour 5 ans renouvelables
+- Si le maintien à domicile n'est plus possible: [Liste de tous les EHPAD avec les grilles tarifaires](https://www.pour-les-personnes-agees.gouv.fr/)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -53,7 +57,7 @@ GIR
 
 Le dossier d'APA est disponible sur place ou sur le site internet du:
 
-- Centre communal d'action sociale (CCAS , dépend de la mairie)
+- Centre communal d'action sociale (CCAS, qui dépend de la mairie)
 - Centre local d'information et de coordination gérontologique (CLIC)
 - Conseil départemental
 
@@ -77,17 +81,17 @@ L'APA est versé à la personne ou directement au prestataire.
 
 ### Montants de l'APA
 
-{{< table title="Montants de l'APA en 2022. Dr JB Fron d'après Service-Public" class="table-wrap">}}
+{{< table title="Montants de l'Allocation Personnalisée d'Autonomie (APA) en 2023. Dr JB Fron d'après Service-Public" class="table-wrap">}}
 | Situation         | Perte d'autonomie | Prestation (€/mois) |
 |-------------------|-------------------|--------------------:|
-| Personne confinée lit/fauteuil avec perte autonomie totale nécessitant des intervenants en continu | GIR 1 | 1749,31 |
-| Confinement lit/fauteuil mais certaines fonctions mentales conservées, nécessite aide pour plupart des activités courantes | GIR 2 | 1404,63 |
-| Autonomie mentale conservée, motrice partielle, aides tous les jours plusieurs fois pour autonomie corporelle | GIR 3 | 1014,90 |
-| Aide pour transferts mais autonome pour déplacement une fois levé, ou aide pour aide corporelle ou repas sans difficultés pour se déplacer | GIR 4 | 676,97 |
+| Personne confinée lit/fauteuil avec perte autonomie totale nécessitant des intervenants en continu | GIR 1 | 1914,04 |
+| Confinement lit/fauteuil mais certaines fonctions mentales conservées, nécessite aide pour plupart des activités courantes | GIR 2 | 1547,93 |
+| Autonomie mentale conservée, motrice partielle, aides tous les jours plusieurs fois pour autonomie corporelle | GIR 3 | 1118,61 |
+| Aide pour transferts mais autonome pour déplacement une fois levé, ou aide pour aide corporelle ou repas sans difficultés pour se déplacer | GIR 4 | 746,54 |
 {{< /table >}}
 
 {{% /collapse %}}
-{{%collapse "Le rendez-vous d'évaluation" %}}
+{{%collapse "Le rendez-vous d'évaluation d'APA" %}}
 
 Être présent au rendez-vous du parent afin de notifier les tâches que la personne ne peut accomplir seule, afin de contredire le déni fréquemment observé chez les personnes âgées.  
 L'évaluation est réalisée au domicile de la personne par un travailleur social. Il apprécie les besoins selon la grille AGGIR selon 6 groupes GIR, de 1 pour les plus dépendants à 6 pour les plus autonomes. L'APA est réservée aux GIR 1 à 4.
@@ -112,7 +116,7 @@ La prestation est accordée pour 5 ans, automatiquement renouvelable.
 {{% /collapse %}}
 {{%sources%}}
 
-- [Service-Public. Allocation personnalisée d'autonomie (Apa). 01/08/2022.](https://www.service-public.fr/particuliers/vosdroits/F10009)
+- [Service-Public. Allocation personnalisée d'autonomie (Apa). 10/01/2023.](https://www.service-public.fr/particuliers/vosdroits/F10009)
 - 60 Millions de consommateurs n°520. Novembre 2016.
 - DGCCRF. Contrôle de l'information des consommateurs sur les prix des produits et services d'aide à l'autonomie. 28 octobre 2016.
 - Fizzala A. Autonomix, un outil d'évaluation de mesures portant sur les personnes âgées dépendantes. DREES Économie et statistique n°481-482. 2015.

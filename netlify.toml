@@ -102,8 +102,13 @@ HUGO_ENABLEGITINFO = "false"
   status = 301
 
 [[redirects]]
-  from = "?ref="
+  from = "/?ref="
   to = "https://recomedicales.fr/"
+  status = 301
+
+[[redirects]]
+  from = "/recommandations/remboursement-psychologue-monpsy/"
+  to = "/recommandations/remboursement-psychologue-monparcourspsy/"
   status = 301
 
 # [[plugins]]

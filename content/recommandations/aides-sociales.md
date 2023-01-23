@@ -8,15 +8,20 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-26T13:38:41+02:00
 publishdate = "2020-07-26"
-lastmod = "2022-08-23"
+lastmod = "2023-01-23"
 specialites = ["social"]
-annees = "2022"
+annees = "2023"
 sources = ["MinSanté"]
 tags = []
 image = false
 imageSrc = ""
 todo = "https://www.has-sante.fr/upload/docs/application/pdf/2018-03/annexes2.pdf"
 +++
+
+Aides sociales destinées à améliorer l'accès aux soins de différents types de patients.
+{.lead}
+
+Ces aides à la prise en charge médicale et aux soins doivent être communiquées aux patients capables d'y recourir par internet, sinon il est préférable de les orienter vers les services sociaux locaux.
 
 ## Outils en ligne
 

@@ -7,7 +7,7 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2022-11-10"
+lastmod = "2023-01-23"
 specialites = ["infectiologie"]
 annees = "2022"
 sources = ["HAS", "MinSanté"]
@@ -125,7 +125,7 @@ Signes de gravité: fièvre très élevée persistante, réapparition de la fiè
 Aucun examen complémentaire devant un tableau de grippe saisonnière non compliquée.
 
 {{%/collapse%}}
-{{%collapse "Vaccins disponibles en 2022-2023" %}}
+{{%collapse "Vaccins disponibles pour la campagne de vaccination 2022-2023" %}}
 
 Vaccins contre la grippe disponibles en France:
 
@@ -134,7 +134,7 @@ Vaccins contre la grippe disponibles en France:
 - InfluvacTetra®
 - VaxigripTetra®
 
-La campagne de vaccination débute le <mark>18 octobre 2022</mark>.
+La campagne de vaccination débute le <mark>18 octobre 2022</mark> et est [poursuivie jusqu'au 28 février 2023](https://www.ameli.fr/medecin/actualites/la-campagne-de-vaccination-contre-la-grippe-se-poursuit-jusqu-au-28-fevrier-0).
 
 [Document CRATB d'information patient contre la grippe (PDF)](http://medqual.fr/images/PRO_2018/CAT-PATHO-IFECTIEUSE/GRIPPE/MEDCAL_GRIPPE_A3_OK_VF.pdf)
 

@@ -4,7 +4,7 @@ description = "Synthèse des aides financières et des conditions au financement
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-11-15T16:02:00+02:00"
 publishdate = "2022-11-17"
-lastmod = "2022-11-17"
+lastmod = "2023-01-23"
 specialites = []
 sources = []
 tags = []
@@ -46,7 +46,7 @@ L'Assurance Maladie soutient financièrement l'investissement dans la collaborat
 
 Une première partie (70%) est versée 15 jours après l'embauche afin de couvrir les frais initiaux.
 
-{{< table title="Options de financement de l'Assistant médical par l'Assurance Maladie en 2022. ETP = équivalent temps-plein; P = percentile" >}}
+{{< table title="Options de financement de l'Assistant médical par l'Assurance Maladie en 2023. ETP = équivalent temps-plein; P = percentile" >}}
 | Options (ETP) | 1<sup>re</sup> année (€) | 2<sup>e</sup> année | Ensuite | avec forte patientèle | Très forte |
 |--------------:|-------------------------:|--------------------:|--------:|----------------------:|-----------:|
 | 1/3           | 12.000                   | 9000                | 7000    | 8350                  | 12.000     |

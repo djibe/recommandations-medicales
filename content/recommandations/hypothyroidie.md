@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-14T23:30:41+02:00"
 publishdate = "2020-04-14"
-lastmod = "2022-12-04"
+lastmod = "2023-01-23"
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["HAS", "SFE"]
@@ -21,15 +21,15 @@ todo = "SEO"
 
 {{%article-summary%}}
 
-Prochaines recommandations HAS hypothyroïdie en 2022
+Prochaines recommandations HAS hypothyroïdie prévues en 2022 (probablement pas avant T2 2023)
 
 - Pas de dépistage systématique de l'hypothyroïdie
-- Doser la TSH seule en cas de symptômes évocateurs
-- Dès 60 ans: borne supérieure de TSH = âge/10
-- Chez le +65 ans: pas d'examens complémentaires, traiter si TSH > 20 mUI/L (avis endocrinologique entre 10 et 20)
-- Traitement par lévothyroxine: dosage de la TSH et adaptation par paliers de 12 µg toutes les 6-12 semaines sur critères clinico-TSH
+- Doser la TSH seule en cas de symptômes évocateurs d'une hypothyroïdie
+- Valeurs de TSH adaptées à l'âge dès 60 ans: borne supérieure de TSH = âge/10
+- Découverte d'une hypothyroïdie chez le +65 ans: pas d'examens complémentaires, traiter si TSH > 20 mUI/L (avis endocrinologique entre 10 et 20)
+- Prise en charge par un traitement hormonal de lévothyroxine: dosage de la TSH et adaptation par paliers de 12 µg toutes les 6-12 semaines sur critères clinico-TSH
 - Puis surveillance annuelle de la TSH (sauf symptômes ou traitement perturbateur)
-- Maladie de Hashimoto: rechercher une [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) associée
+- Si Maladie de Hashimoto: rechercher une [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}) associée
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

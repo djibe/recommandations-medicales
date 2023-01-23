@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-16T13:47:19+01:00"
 publishdate = "2021-11-18"
-lastmod = "2022-04-20"
+lastmod = "2023-01-23"
 specialites = ["therapeutique"]
 annees = "2015"
 sources = ["HAS"]
@@ -19,15 +19,14 @@ imageSrc = ""
 todo = "grille arrêt"
 +++
 
-Ces recommandations concernent le sevrage après > 30 jours.
-
 {{%article-summary%}}
 
-- Respecter les durées de traitement de l'AMM
-- Intervention brève à chaque prescription
-- Décroissance toujours progressive après prise prolongée
+- Ces recommandations concernent le sevrage des benzodiazépines (BZD) après une prise de +30 jours
+- Respecter les durées de traitement par benzodiazépines de l'AMM
+- Intervention brève sur les risques des benzodiazépines à chaque prescription
+- La décroissance des benzodiazépines est toujours progressive après prise prolongée pour prévenir le syndrome de sevrage
 
-Voir: [sevrage en alcool]({{< relref "sevrage-alcool.md" >}})
+Chapitre lié: [sevrage en alcool]({{< relref "sevrage-alcool.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -97,7 +96,7 @@ Respecter l'AMM de la spécialité:
   - Anxiété sévère: 8-12 semaines en tenant compte de la période de décroissance
   - Sevrage en alcool: 8-10 jours
 
-{{< table title="Benzodiazépines et apparentés disponibles en France par voie orale en 2022. Dr JB Fron d'après BDPM" class="table-wrap" >}}
+{{< table title="Benzodiazépines et apparentés disponibles en France par voie orale en 2023. Dr JB Fron d'après BDPM" class="table-wrap" >}}
 | Molécule                 | Spécialité        | Demi-vie (h) | AMM                                |
 |--------------------------|-------------------|-------------:|------------------------------------|
 | Alprazolam               | Xanax, gén        |        10-20 | Anxiété, sevrage alcool            |
@@ -137,12 +136,12 @@ Intervention brève orale et écrite (efficace à court et long terme).
 Nécessité d'une consultation spécifique ciblée sur l'arrêt des BZD en décision d'arrêt partagée:
 
 - Informer sur la BZD consommée  
-Nom, propriétés anxiolytiques et sédatives.
+  Nom, propriétés anxiolytiques et sédatives.
 - Risque de la consommation de BZD au long cours  
-Troubles mnésiques, diminution des réflexes et de la concentration, risque de dépendance, risque de chutes.
+  Troubles mnésiques, diminution des réflexes et de la concentration, risque de dépendance, risque de chutes.
 - Bénéfices de l'arrêt ou d'une simple réduction
 - Informer sur les signes pouvant apparaître  
-Nature, sévérité, évolution du syndrome de sevrage, effet rebond et rechute.
+  Nature, sévérité, évolution du syndrome de sevrage, effet rebond et rechute.
 - Informer sur les risques d'arrêt trop rapide
 - Conseils adaptés pour réduire puis arrêt les BZD
 - Tenir un [calendrier de décroissance (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_calendrier_de_suivi.pdf) (posologies, symptômes) et [agenda de sommeil (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_agenda_sommeil_-_eveil.pdf)
@@ -157,13 +156,13 @@ Consultation de suivi 7 jours après l'arrêt et rapporter les boîtes en pharma
 Accompagnement par TCC efficace.
 
 - Signes sans gravité pendant la décroissance:  
-reprendre la posologie antérieure et décroître plus doucement.
+  reprendre la posologie antérieure et décroître plus doucement.
 - Signes sans gravité après l'arrêt:  
-ne surtout pas reprendre les BZD, information et soutien.
+  ne surtout pas reprendre les BZD, information et soutien.
 - Signes plus sévères et persistants:  
-réévaluation diagnostique et traitement spécifique (dépression, troubles anxieux, insomnie).
+  réévaluation diagnostique et traitement spécifique (dépression, troubles anxieux, insomnie).
 - Syndrome de sevrage grave (confusion, hallucinations, troubles de vigilance, convulsions, coma):  
-Hospitalisation.
+  Hospitalisation.
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

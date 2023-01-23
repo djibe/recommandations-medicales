@@ -1,38 +1,36 @@
 +++
-title = "Prescrire des séances chez un psychologue (MonPsy)"
-titleSeo = "psychologue remboursé MonPsy"
+title = "Prescrire des séances chez un psychologue (MonParcoursPsy)"
+titleSeo = "Psychologue remboursé avec MonParcoursPsy"
 prefix = "pour "
 noindex = true
-description = "Informations pour prescrire des séances de psychologue remboursées (MonPsy). Ordonnance modèle pour le remboursement de la psychothérapie, max 8 séances par an"
+description = "Informations pour prescrire des séances de psychologue remboursées (MonParcoursPsy). Ordonnance modèle pour le remboursement de la psychothérapie"
 synonyms = ["Psychothérapie remboursée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-23T13:48:59+02:00"
 publishdate = "2022-05-23"
-lastmod = "2022-06-14"
+lastmod = "2023-01-23"
 specialites = ["therapeutique"]
-annees = "2022"
+annees = "2023"
 sources = ["Ameli"]
 tags = ["adolescent", "enfant"]
-anglais = [" Psychotherapy"]
+anglais = ["Psychotherapy"]
 sctid = "75516001"
 image = true
-imageSrc = "Illustration par stories / Freepik"
+imageSrc = "Illustration de la séance de psychothérapie par stories / Freepik"
 todo = "échelles"
 +++
 
 {{%article-summary%}}
 
-- Sur prescription, jusqu'à 8 séances de psychothérapie remboursées chaque année
-- Courrier d'adressage au psychologue pour le remboursement:  
-  Adressage pour un accompagnement psychologique (entretien d'évaluation et jusqu'à 7 séances de suivi) par un psychologue conventionné avec l'Assurance Maladie (annuaire disponible sur [monpsy.sante.gouv.fr](https://monpsy.sante.gouv.fr/annuaire)).
-- \+ courrier du contexte
-- [Annuaire des psychologues remboursés (MonPsy)](https://monpsy.sante.gouv.fr/annuaire), des [CMP](https://www.santeenfrance.fr/annuaire/13-centres-medico-psychologiques-cmp-cattp) et [CMPP](https://annuaire.action-sociale.org/etablissements/jeunes-handicapes/centre-medico-psycho-pedagogique--c-m-p-p---189.html)
-- [Appli pour le suivi des symptômes: Mon suivi psy](https://jardinmental.fabrique.social.gouv.fr/pro)
-
-À venir: scores d'évaluation psychologique selon l'âge
+- Des séances de psychothérapie sont remboursables sur prescription, jusqu'à 8 séances annuelles avec le système **MonParcoursPsy** (*ex* MonParcoursPsy)
+- Rédiger un << courrier d'adressage au psychologue pour le remboursement >>:  
+  Adressage pour un accompagnement psychologique (entretien d'évaluation et jusqu'à 7 séances de suivi) par un psychologue conventionné avec l'Assurance Maladie (annuaire disponible sur [monparcourspsy.sante.gouv.fr](https://monparcourspsy.sante.gouv.fr/)) ...
+- accompagné courrier du contexte médico-psychologique
+- [Annuaire des psychologues remboursés (MonParcoursPsy)](https://monparcourspsy.sante.gouv.fr/annuaire), des [CMP](https://www.santeenfrance.fr/annuaire/13-centres-medico-psychologiques-cmp-cattp) et [CMPP](https://annuaire.action-sociale.org/etablissements/jeunes-handicapes/centre-medico-psycho-pedagogique--c-m-p-p---189.html)
+- [Appli pour le suivi des symptômes psychologiques: Mon suivi psy](https://jardinmental.fabrique.social.gouv.fr/pro)
 
 {{%/article-summary%}}
-{{%collapse "Personnes éligibles au dispositif MonPsy" %}}
+{{%collapse "Personnes éligibles au dispositif MonParcoursPsy" %}}
 
 - Enfants dès 3 ans ou adolescents avec mal-être ou souffrance psychique d'intensité légère à modérée
 - Adultes en souffrance psychique d'intensité légère à modérée
@@ -46,7 +44,7 @@ Les autres patients relèvent de suivi spécialisé psychiatrique, voire CMP (sa
 
 {{%info%}}
 
-### Critères de non-inclusion pour le suivi psychologique MonPsy
+### Critères de non-inclusion pour le suivi psychologique MonParcoursPsy
 
 - Risque suicidaire
 - Antécédents psychiatriques ou formes sévères
@@ -60,13 +58,13 @@ Les autres patients relèvent de suivi spécialisé psychiatrique, voire CMP (sa
 {{% /collapse %}}
 {{%collapse "Prescrire les séances de psychothérapie remboursées" %}}
 
-Pour prescrire les 8 séances de psychothérapie remboursées annuellement dans le cadre du parcours MonPsy, mentionner sur une ordonnance nominative.
+Pour prescrire les 8 séances de psychothérapie remboursées annuellement dans le cadre du parcours MonParcoursPsy (*ex* MonPsy), mentionner sur une ordonnance nominative.
 
 {{%info%}}
 
 ### Ordonnance pour le remboursement du psychologue
 
-Adressage pour un accompagnement psychologique (entretien d'évaluation et jusqu'à 7 séances de suivi) par un psychologue conventionné avec l'Assurance Maladie (annuaire disponible sur [monpsy.sante.gouv.fr](https://monpsy.sante.gouv.fr/annuaire)).
+Adressage pour un accompagnement psychologique (entretien d'évaluation et jusqu'à 7 séances de suivi) par un psychologue conventionné avec l'Assurance Maladie (annuaire disponible sur [monparcourspsy.sante.gouv.fr](https://monparcourspsy.sante.gouv.fr/)).
 {{%/info%}}
 
 Le patient choisit son psychologue dans l'annuaire (ci-dessus).
@@ -96,7 +94,7 @@ Scores: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal
 
 {{< youtube id="sARvPRwl-hY" title="Psychologue et/ou Psychiatre: comment choisir? (Fréquence Médicale)" >}}
 
-{{< card-link-external title="MonPsy" url="https://monpsy.sante.gouv.fr" subtitle="Le site officiel">}}
+{{< card-link-external title="MonParcoursPsy" url="https://monparcourspsy.sante.gouv.fr/" subtitle="Le site officiel">}}
 
 {{%/sources%}}
 {{% modal title="Évaluation d'un mésusage de l'alcool" id="modal-auditc"%}}

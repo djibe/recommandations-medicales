@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-20T12:27:50+02:00"
 publishdate = "2022-10-20"
-lastmod = "2022-10-20"
+lastmod = "2023-01-23"
 specialites = ["certificats"]
-annees = "2022"
+annees = "2023"
 sources = ["Service-public"]
 tags = []
 anglais = []
@@ -106,8 +106,8 @@ En l'absence de réponse, contacter une association d'aides aux démarches: [Avi
 {{%sources%}}
 
 - [Commission d'accès aux documents administratifs (Cada). Dossier médical personnel.](https://www.cada.fr/administration/dossier-medical-personnel)
-- [Service-public.fr. Dossier médical.](https://www.service-public.fr/particuliers/vosdroits/F12210)
-- [Service-public.fr. Santé d'une personne sous tutelle ou curatelle : quelles sont les règles ?](https://www.service-public.fr/particuliers/vosdroits/F33899)
+- [Service-public.fr. Dossier médical. 15/11/2022.](https://www.service-public.fr/particuliers/vosdroits/F12210)
+- [Service-public.fr. Santé d'une personne sous tutelle ou curatelle : quelles sont les règles ? 23/03/2022.](https://www.service-public.fr/particuliers/vosdroits/F33899)
 - [Conseil national de l'Ordre des médecins. Accéder à mon dossier médical.](https://www.conseil-national.medecin.fr/patient/droits/acceder-dossier-medical)
 
 {{%/sources%}}
