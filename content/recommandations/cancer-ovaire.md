@@ -101,7 +101,7 @@ Les signes et symptômes devant faire évoquer un cancer de l'ovaire en cas de p
   - Altération de l'état général (AEG: [fatigue](/tags/fatigue/), anorexie, amaigrissement)
 - +75 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
-En cas d'antécédents de cancer sein-ovaire, avis d'oncogénétique selon le {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}}. À demander également en cas de cancers familiaux du spectre de Lynch (côlon, rectum, endomètre voire ovaire).
+En cas d'antécédents de cancer sein-ovaire, avis d'oncogénétique selon le {{< modal-btn modal-eisinger >}}score d'Eisinger{{< /modal-btn >}}. À demander également en cas de cancers familiaux du spectre de Lynch ({{< clinique/cancer-spectre-lynch >}}).
 
 ### Examen clinique
 

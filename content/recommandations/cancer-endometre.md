@@ -44,8 +44,8 @@ Cancer de l'endomètre
 ### Épidémiologie du cancer de l'endomètre en France
 
 - Cancer gynécologique pelvien le plus fréquent
-- Incidence: 8224 (2018, 4e de la femme)
-- Décès: 1880 (2009)
+- Incidence: 8224 nouveaux cas par an (2018, 4<sup>e</sup> cancer de la femme)
+- Décès: 1880 annuels (2009)
 - Âge moyen au diagnostic: 68 ans
 - Survie à 5 ans: 76% (95% en stade localisé)
 
@@ -72,7 +72,7 @@ VPN
 Signes et symptômes évocateurs à rechercher en cas de suspicion d'un cancer de l'endomètre:
 
 - Antécédents personnels ou familiaux du spectre de Lynch (HNPCC)  
-  [Cancer colorectal]({{< relref "cancer-colorectal.md" >}}), grêle, endomètre, urothélial, voies biliaires, [estomac]({{< relref "cancer-estomac.md" >}}), [ovaire]({{< relref "cancer-ovaire.md" >}}).
+  {{< clinique/cancer-spectre-lynch >}}.
 - Facteurs de risque
   - Obésité
   - Diabète

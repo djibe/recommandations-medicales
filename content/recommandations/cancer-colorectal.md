@@ -129,11 +129,11 @@ Risque très élevé : prédisposition génétique au cancer colorectal
 
 Indications à une **consultation d'oncogénétique**:
 
-- 2 antécédents familiaux au 1<sup>er</sup> degré de cancer du spectre de Lynch (colorectal, endomètre, ovaire, intestin grêle, uretère) dont 1 avant 50 ans
-- Antécédent personnel de cancer du spectre de Lynch surajouté ([endomètre]({{< relref "cancer-endometre.md" >}}), [ovaire]({{< relref "cancer-ovaire.md" >}}), intestin grêle, uretère)
+- 2 antécédents familiaux au 1<sup>er</sup> degré de cancer du spectre de Lynch ({{< clinique/cancer-spectre-lynch >}}) dont 1 avant 50 ans
+- Antécédent personnel de cancer du spectre de Lynch surajouté (hors le CCR, cf ligne précédente)
 - Cancer colorectal avant 40 ans
 - Phénotype MSI ou dMMR
-- Suspicion de PAF
+- Suspicion de Polypose Adénomateuse Familiale (PAF)
 
 > *TNCD 2021*
 
@@ -148,7 +148,7 @@ Tout signe évocateur de cancer colorectal impose une consultation de gastro-ent
 - Antécédents  
   Dont MICI, adénome ou cancer colorectal, acromégalie et autres comorbidités.
 - Antécédents familiaux  
-  Avec l'âge de survenue pour: adénome ou cancer colorectal, polypose adénomateuse familiale, Lynch ([cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}), [ovaire]({{< relref "cancer-ovaire.md" >}}), intestin grêle, uretère).
+  Avec l'âge de survenue pour: adénome ou cancer colorectal, polypose adénomateuse familiale, Lynch ({{< clinique/cancer-spectre-lynch >}}).
 - Alcool, tabac
 - Activité physique, consommation de viande rouge, fibres
 - Symptômes digestifs (voir encadré plus bas)

@@ -39,7 +39,7 @@ Cancer de la prostate (CaP)
 : L'évolution initiale est intra-prostatique (cancer localisé) puis **métastatique ganglionnaire et osseuse** (foie et poumon rares). Moins de 20% des patients ont des métastases à 10 ans.
 
 Cancer de la prostate héréditaire
-: Au moins 2 cas au premier ou second degré de la même branche familiale ou antécédents de cancers du spectre de Lynch (sein, ovaire).
+: Au moins 2 cas au premier ou second degré de la même branche familiale ou antécédents de cancers du spectre de Lynch ({{< clinique/cancer-spectre-lynch >}}).
 
 ### Facteurs de risque de cancer de la prostate
 

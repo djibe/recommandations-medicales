@@ -5,8 +5,8 @@ description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-04T21:22:54+01:00"
-publishdate = "2023-01-04"
-lastmod = "2023-01-04"
+publishdate = "2023-01-23"
+lastmod = "2023-01-23"
 specialites = ["neurologie"]
 annees = "2016"
 sources = ["HAS"]
@@ -287,7 +287,7 @@ Les traitements médicamenteux antiparkinsoniens ne sont pas indispensables en l
 
 #### La stimulation cérébrale profonde
 
-TODO: annexe 5
+La stimulation cérébrale profonde consiste à implanter 1 ou 2 électrodes dans le cerveau, connectées à un générateur sous-cutanée pour une stimulation modulable et réversible.
 
 {{% /collapse %}}
 {{%collapse "Suivi de la maladie" %}}
@@ -401,22 +401,30 @@ graph TB
     gêne --> autres("<b>Autres options</b><hr>Amantadine<br>Anticholinergiques<br>si tremblement<br>prédomine")
 {{< /mermaid >}}
 
-{{< mermaid title="Prise en charge par traitement médicamenteux des troubles moteurs au stade avancé de la Maladie de Parkinson. Dr JB Fron d'après HAS 2016">}}
+{{< mermaid title="Prise en charge par traitement médicamenteux des troubles moteurs au stade avancé de la Maladie de Parkinson. Dr JB Fron d'après HAS 2016. SC = sous-cutanée">}}
 graph TB
-  augmentation[Symptômes parkinsoniens<br>sans gêne fonctionnelle]
+  augmentation[Augmenter le nombre<br>de prises de lévodopa] --> intervalle("Temps interdose<br>&lt; 4 heures") --> augmenter(Augmenter les doses)
   style augmentation stroke:#4150f5, stroke-width:1px
+  augmenter --> agoniste(Ajouter un agoniste<br>dopaminergique) --> association(Envisager une association<br>des traitements)
+  augmenter --> ICOMT(Ajouter un ICOMT) --> association
+  augmenter --> IMAOB(Ajouter un IMAO B) --> association
+    association -. Échec .-> parenteral(<b>Agonistes dopaminergiques SC</b><br>Apomorphine SC discontinue)
+    parenteral -. Échec .-> invasifs(Envisager des<br>traitements invasifs)
+      invasifs --> SCP("Stimulation cérébrale<br>profonde (SCP)")
+      invasifs --> parenteralContinu(Apomorphine SC<br>en continu)
+      invasifs --> enterale(Lévodopa-carbidopa<br>entérale)
 {{< /mermaid >}}
 
 {{%/collapse%}}
 {{%sources%}}
 
 - [HAS. Maladie de Parkinson. Actes et prestations affections de longue durée. 2021.](https://www.has-sante.fr/jcms/c_546220/fr/ald-n-16-maladie-de-parkinson)
+- [HAS. Maladie de Parkinson. Guide du parcours de soins. 2016.](https://www.has-sante.fr/jcms/c_1242645/fr/guide-parcours-de-soins-maladie-de-parkinson)
 - [HAS. Maladie de Parkinson et syndromes apparentés : techniques et modalités de la prise en charge non médicamenteuse des troubles moteurs. 2016.](https://www.has-sante.fr/jcms/c_2038173/fr/maladie-de-parkinson-et-syndromes-apparentes-techniques-et-modalites-de-la-prise-en-charge-non-medicamenteuse-des-troubles-moteurs)
-- [Santé Publique France. Maladie de Parkinson](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-neurodegeneratives/maladie-de-parkinson)
+- [Santé Publique France. Maladie de Parkinson.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-neurodegeneratives/maladie-de-parkinson)
 
 ### À lire
 
-- [HAS. Maladie de Parkinson. Guide du parcours de soins. 2016.](https://www.has-sante.fr/jcms/c_1242645/fr/guide-parcours-de-soins-maladie-de-parkinson)
 - [Berardelli A. et al. EFNS/MDS-ES recommendations for the diagnosis of Parkinson's disease. Eur J Neurol. 2013.](https://onlinelibrary.wiley.com/doi/10.1111/ene.12022)
 - [Collège des Enseignants de Neurologie (CEN). Maladie de Parkinson. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/maladie-parkinson)
 

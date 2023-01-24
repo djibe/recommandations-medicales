@@ -116,7 +116,8 @@ Un cancer de l'estomac doit être évoqué et exploré devant:
 
 ### Interrogatoire
 
-- Antécédents personnels et familiaux
+- Antécédents personnels et familiaux  
+  Spectre de Lynch: {{< clinique/cancer-spectre-lynch >}}
 - Explorations réalisées
 - [Alcool]({{< relref "sevrage-alcool.md" >}}), tabagisme, alimentation fumée/salée
 - Évolution et ancienneté des symptômes

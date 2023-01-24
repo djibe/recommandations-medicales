@@ -18,6 +18,8 @@ Page mémo pour retrouver les adresses des Caisses Primaires d'Assurance Maladie
 
 Il est parfois difficile de retrouver l'adresse de la caisse d'un patient en tiers payant qui n'est pas enregistré dans une caisse locale et qui était venu sans sa carte vitale (ou avec une AME).
 
-<embed class="embed-responsive" src="/print/cpam.pdf" type="application/pdf" title="Liste des adresses des Caisses Primaires d'Assurance Maladie (CPAM) départementales pour l'envoi de documents" height="600">
+La liste ci-dessous compile l'ensemble des adresses des caisses départementales de l'Assurance Maladie du régime général.
+
+<embed class="embed-responsive" src="/print/cpam.pdf" type="application/pdf" title="Liste des adresses des Caisses Primaires d'Assurance Maladie (CPAM) départementales du Régime Général pour l'envoi de documents" height="600">
 
 *Utilisez le bouton contact en bas à droite si des adresses sont erronées*

@@ -319,13 +319,13 @@ Contre-indications au traitement de la ménopause:
 - [Cancer de l'endomètre]({{< relref "cancer-endometre.md" >}}) (TODO: vérifier)
 - Antécédent d'infarctus du myocarde ou d'[AVC ischémique]({{< relref "accident-vasculaire-cerebral.md" >}})
 - Maladie d'Alzheimer
-- Relatives
+- Contre-indication relative
   - Syndrome douloureux mammaire
-- Temporaires
+- Contre-indications temporaires
   - Exploration de masse mammaire
   - Exploration de saignements utérins anormaux
-- Estradiol par voie orale
-  - [Antécédent de MVTE](/tags/mvte/)
+- Contre-indications à l'estradiol par voie orale
+  - [Antécédent de thrombo-embolie (MVTE)](/tags/mvte/)
   - Obésité
   - Thrombophilie
   - Risque cardiovasculaire marqué
@@ -531,7 +531,7 @@ Prise en charge d'un nodule du sein sous traitement hormonal:
 Efficace sur les bouffées vasomotrices sous 1 mois.  
 Aussi efficace sur: sommeil, fatigue, humeur, sécheresse vaginale.
 
-Ex: Estrapatch® 40 1 patch/semaine (sur fesses ou abdomen, photosensible)  
+Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch par semaine (sur fesses ou abdomen, photosensible)  
 \+ Progesterone orale 100 mg x 1/j en continu
 {{%/info%}}
 
@@ -630,6 +630,7 @@ Le traitement hormonal de la ménopause (THM):
 - [Hocke C. et al. Syndrome génito-urinaire de la ménopause (SGUM). RPC les femmes ménopausées du CNGOF et du GEMVi. Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000775)
 - [ACOG. Treatment of Urogenital Symptoms in Individuals With a History of Estrogen-dependent Breast Cancer. 2021.](https://www.acog.org/clinical/clinical-guidance/clinical-Consensus/articles/2021/12/Treatment-of-Urogenital-Symptoms-in-Individuals-With-a-History-of-Estrogen-dependent-Breast-Cancer)
 - [ACOG. Postmenopausal Estrogen Therapy Route of Administration and Risk of Venous Thromboembolism. 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/04/postmenopausal-estrogen-therapy-route-of-administration-and-risk-of-venous-thromboembolism)
+- [HAS. Traitements hormonaux de la ménopause. Communiqués de presse. 16/07/2014.](https://www.has-sante.fr/jcms/c_1754596/fr/traitements-hormonaux-de-la-menopause)
 - [International Menopause Society. Papers, Recommendations & Statements](https://www.imsociety.org/statements/)
 - [HAS. Les traitements hormonaux substitutifs de la ménopause. 2004.](https://www.has-sante.fr/jcms/c_272308/fr/les-traitements-hormonaux-substitutifs-de-la-menopause)
 
