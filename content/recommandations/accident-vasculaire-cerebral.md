@@ -7,16 +7,16 @@ synonyms = ["Accident ischémique transitoire (AIT)", "infarctus cérébral", "h
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-25T14:04:00+02:00"
 publishdate = "2021-01-25"
-lastmod = "2022-12-30"
+lastmod = "2023-01-24"
 specialites = ["neurologie"]
 annees = "2022"
 sources = ["ESO", "ESC", "HAS", "AHA"]
 tags = ["antiplaquettaire", "cephalees", "demence", "diabete", "HTA", "risque cardiovasculaire", "SAS", "vertige"]
-anglais = ["Cerebrovascular accident", "transient Ischaemic Attack (TIA)", "intracerebral hemorrhage (ICH)"]
+anglais = ["Cerebrovascular accident", "ischaemic stroke", "transient ischaemic attack (TIA)", "intracerebral hemorrhage (ICH)"]
 sctid = "230690007"
 image = true
-imageSrc = "AVC sylvien gauche sur une IRM de diffusion. Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
-todo = "bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104, ESC AF holter-ecg >= 24h et préféré 3j"
+imageSrc = "AVC ischémique sylvien gauche sur une IRM de diffusion. Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
+todo = "bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104"
 +++
 
 {{%article-summary%}}
@@ -226,6 +226,8 @@ Prise en charge de l'AVC selon certaines comorbidités.
 
 ### Fibrillation atriale et AVC
 
+Pour l'AIC sans étiologie retrouvée, dépistage de troubles du rythme par Holter-ECG implantable pendant +48 heures (*ESO 2022*).
+
 Anticoagulation au long cours par [AVK warfarine]({{< relref "avk.md" >}}) ou anticoagulant oral (AOD) selon le {{< modal-btn modal-chads >}}score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}}.
 
 ### Prothèse valvulaire mécanique et AVC
@@ -348,6 +350,7 @@ Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de tr
 {{%sources%}}
 
 - [Dawson J. et al. European Stroke Organisation (ESO) guideline on pharmacological interventions for long-term secondary prevention after ischaemic stroke or transient ischaemic attack. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/10.1177/23969873221100032)
+- [Rubiera M. et al. European Stroke Organisation (ESO) guideline on screening for subclinical atrial fibrillation after stroke or transient ischaemic attack of undetermined origin. Eur Stroke J. 2022.](https://journals.sagepub.com/doi/10.1177/23969873221099478)
 - [HAS. Rééducation à la phase chronique d'un AVC de l'adulte : Pertinence, indications et modalités. 02/06/2022.](https://www.has-sante.fr/jcms/p_3150692/fr/reeducation-a-la-phase-chronique-d-un-avc-de-l-adulte-pertinence-indications-et-modalites)
 - {{< references/esc-cvd >}}
 - {{< references/sfd-dt2 >}}
@@ -366,7 +369,6 @@ Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de tr
 
 ### À lire
 
-- [Rubiera M. et al. European Stroke Organisation (ESO) guideline on screening for subclinical atrial fibrillation after stroke or transient ischaemic attack of undetermined origin. Eur Stroke J. 2022.](https://journals.sagepub.com/doi/10.1177/23969873221099478)
 - [Kremer C. et al. European Stroke Organisation guidelines on stroke in women: Management of menopause, pregnancy and postpartum. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/full/10.1177/23969873221078696)
 - [Dziewas R. et al. European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/10.1177/23969873211039721)
 - [Quinn TJ. et al. European Stroke Organisation and European Academy of Neurology joint guidelines on post-stroke cognitive impairment. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/full/10.1177/23969873211042192)

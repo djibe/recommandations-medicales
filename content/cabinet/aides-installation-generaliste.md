@@ -182,7 +182,6 @@ Les références sont mentionnées sous chaque article.
 
 ### À lire
 
-- [Forfait structure](https://www.ameli.fr/hauts-de-seine/medecin/exercice-liberal/vie-cabinet/aides-financieres/modernisation-cabinet)
-- [Exonérations fiscales](https://www.iledefrance.paps.sante.fr/les-exonerations-fiscales-105?rubrique=10010&parent=10018)
+[Exonérations fiscales](https://www.iledefrance.paps.sante.fr/les-exonerations-fiscales-105?rubrique=10010&parent=10018)
 
 {{%/sources%}}

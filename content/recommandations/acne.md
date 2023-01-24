@@ -344,12 +344,8 @@ Selon la SFDermato, informer le patient:
 - [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 109 UE 4. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/5-Item-109-%E2%80%94-UE-4-Dermatoses-faciales-acne-rosacee-dermatite-seborrheique.pdf)
 - Prescrire Redaction. Patients ayant une acné. Mars 2017.
 - Prescrire Redaction. Premiers choix Prescrire. Acné. Octobre 2016.
+- [Nast A. et al; EADV. European evidence-based (S3) guideline for the treatment of acne - update 2016 (short version). 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13776)
 - [Société Française de Dermatologie. Prise en charge de l'acné. Label HAS. 10/06/2015. (PDF)](https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)
 - [ANSM. Restriction de la prescription initiale de l'isotrétinoïne orale aux dermatologues – Lettre aux professionnels de santé. Mai 2015.](https://archiveansm.integra.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Restriction-de-la-prescription-initiale-de-l-isotretinoine-orale-aux-dermatologues-Lettre-aux-professionnels-de-sante)
-
-### À lire
-
-- Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales. Item 111. 2021.
-- [Nast A. et al; EADV. European evidence-based (S3) guideline for the treatment of acne – update 2016 (short version). 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13776)
 
 {{%/sources%}}

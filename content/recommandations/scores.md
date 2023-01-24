@@ -10,16 +10,16 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-14T15:58:37+01:00"
 publishdate = "2021-12-14"
-lastmod = "2022-11-14"
+lastmod = "2023-01-24"
 specialites = []
-annees = "2022"
+annees = "2023"
 sources = []
 tags = ["risque cardiovasculaire"]
 anglais = []
 sctid = ""
 image = true
 imageSrc = "Scores cliniques par slidesgo / Freepik"
-todo = "texte, ACT"
+todo = "texte"
 +++
 
 Sélection de grilles et scores essentiels en pratique quotidienne de médecine générale, classés par appareil.
@@ -27,6 +27,7 @@ Sélection de grilles et scores essentiels en pratique quotidienne de médecine 
 ## Cardiovasculaire {.typography-overline}
 
 - [Carnet international d'automesure tensionnelle (PDF)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
+- {{< modal-btn modal-tvp >}}Score de Wells, Constans et LEFt pour la grossesse{{< /modal-btn >}}
 - {{< modal-btn modal-depistage-prevalent >}}Critères de dépistage de l'AOMI chez le +55 ans{{< /modal-btn >}}
 - {{< modal-btn modal-saos >}}Critères de dépistage des apnées du sommeil{{< /modal-btn >}}
 - {{< modal-btn modal-chads >}}Score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}}
@@ -47,32 +48,41 @@ Sélection de grilles et scores essentiels en pratique quotidienne de médecine 
 - {{< modal-btn modal-saos-diabete >}}Dépistage des apnées du sommeil chez le diabétique{{< /modal-btn >}}
 - {{< modal-btn modal-rcv-diabete >}}Risque cardiovasculaire du diabétique{{< /modal-btn >}}
 - [Risque de diabète à 10 ans](https://www.diabeclic.com/findrisc)
-- Traitements
-  - {{< modal-btn modal-metformine >}}Metformine{{< /modal-btn >}}
-  - {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
-  - {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}
-  - {{< modal-btn modal-su >}}Sulfamides{{< /modal-btn >}}
-  - {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}
-  - {{< modal-btn modal-insuline >}}Insuline{{< /modal-btn >}}
+- Traitements  
+  {{< modal-btn modal-metformine >}}Metformine{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}}.
 
 ## Hépato-gastroentérologie {.typography-overline .mt-4}
 
-{{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} annuel si: obésité, [diabète de type 2]({{< relref "diabete-type-2.md" >}}), [VIH avec lipodystrophie]({{< relref "vih-sida.md" >}}), cytolyse inexpliquée, stéatose échographique
+Fibrose hépatique avec {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}} annuel si: obésité, [diabète de type 2]({{< relref "diabete-type-2.md" >}}), [VIH avec lipodystrophie]({{< relref "vih-sida.md" >}}), cytolyse inexpliquée, stéatose échographique
 
 ## Neurologie {.typography-overline}
 
-{{< modal-btn modal-score-dn4 >}}Questionnaire DN4{{< /modal-btn >}}
+Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /modal-btn >}}
 
 ## Pneumologie {.typography-overline}
 
-- {{< modal-btn modal-fagerstrom >}}Test de Fagerström simplifié{{< /modal-btn >}}
-- {{< modal-btn modal-depistage-bpco >}}Critères de dépistage de la BPCO{{< /modal-btn >}}
+- {{< modal-btn modal-fagerstrom >}}Test de Fagerström simplifié{{< /modal-btn >}} ou {{< modal-btn modal-fagerstrom6 >}}complet{{< /modal-btn >}}
+- {{< modal-btn modal-depistage-bpco >}}Critères de dépistage de la BPCO{{< /modal-btn >}} et {{< modal-btn modal-severite-bpco >}}sévérité de l'obstruction bronchique (VEMS){{< /modal-btn >}}
 - {{< modal-btn modal-score-mmrc >}}Score mMRC de la dyspnée{{< /modal-btn >}}
 - *{{< modal-btn modal-score-act >}}Asthma Control Test™{{< /modal-btn >}}*
-- Traitements: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}}, {{< modal-btn modal-ttt-csi >}}corticoïdes inhalés (CSI){{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}
+- Traitements  
+  {{< modal-btn modal-ttt-baca >}}Bronchodilatateurs de courte durée{{< /modal-btn >}}, {{< modal-btn modal-ttt-csi >}}corticoïdes inhalés (CSI){{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}}
+
+## Psychiatrie {.typography-overline}
+
+- Repérage d'une dépression: {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-had >}}HAD{{< /modal-btn >}}
+- Repérage d'une anxiété: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal-had >}}HAD{{< /modal-btn >}}
+- Troubles du comportement alimentaire: {{< modal-btn modal-scoff >}}dépistage (score SCOFF-F){{< /modal-btn >}}
+- Alcool recherche de mésusage: {{< modal-btn modal-audit >}}questionnaire AUDIT{{< /modal-btn >}}, {{< modal-btn modal-deta >}}CAGE/DETA{{< /modal-btn >}}, {{< modal-btn modal-face >}}FACE{{< /modal-btn >}}
+- Cannabis usage problématique: {{< modal-btn modal-cast >}}CAST{{< /modal-btn >}}
+- Benzodiazépines dépendance: {{< modal-btn modal-score-ecab >}}ECAB{{< /modal-btn >}}
 
 <!-- Modals -->
+{{% modal title="Scores de risque de TVP" id="modal-tvp" size="lg"%}}
 
+{{< scores/tvp >}}
+
+{{% /modal %}}
 {{% modal title="Score CHA2DS2-VASc selon ESC 2020" id="modal-chads"%}}
 
 {{< scores/cha2ds2vasc >}}
@@ -168,9 +178,19 @@ Sélection de grilles et scores essentiels en pratique quotidienne de médecine 
 {{< scores/dn4 >}}
 
 {{%/modal%}}
-{{% modal title="Test de Fagerström de dépendance au tabac" id="modal-fagerstrom"%}}
+{{% modal title="Test de Fagerström simplifié" id="modal-fagerstrom"%}}
 
 {{< scores/fagerstrom >}}
+
+{{% /modal %}}
+{{% modal title="Test de Fagerström de dépendance au tabac" id="modal-fagerstrom6"%}}
+
+{{< scores/fagerstrom6 >}}
+
+{{% /modal %}}
+{{% modal title="Sévérité de l'obstruction bronchique" id="modal-severite-bpco"%}}
+
+{{< scores/severite-bpco >}}
 
 {{% /modal %}}
 {{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}
@@ -216,5 +236,50 @@ Sélection de grilles et scores essentiels en pratique quotidienne de médecine 
 {{% modal title="Dépistage de la fibrose hépatique" id="modal-fib4"%}}
 
 {{< scores/fib4 >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}
+
+{{< scores/scoff >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire AUDIT-C" id="modal-audit"%}}
+
+{{< scores/audit-c >}}
+
+{{% /modal %}}
+{{% modal title="Score CAGE-DETA de mésusage de l'alcool" id="modal-deta"%}}
+
+{{< scores/deta >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire FACE de mésusage de l'alcool" id="modal-face"%}}
+
+{{< scores/face >}}
+
+{{% /modal %}}
+{{% modal title="Score PHQ-9" id="modal-phq9"%}}
+
+{{< scores/phq9 >}}
+
+{{% /modal %}}
+{{% modal title="Score GAD-7" id="modal-gad7"%}}
+
+{{< scores/gad7 >}}
+
+{{% /modal %}}
+{{% modal title="Score HAD" id="modal-had"%}}
+
+{{< scores/had >}}
+
+{{% /modal %}}
+{{% modal title="Score CAST de mésusage du cannabis" id="modal-cast"%}}
+
+{{< scores/cast >}}
+
+{{% /modal %}}
+{{% modal title="Échelle ECAB" id="modal-score-ecab"%}}
+
+{{< scores/ecab >}}
 
 {{% /modal %}}

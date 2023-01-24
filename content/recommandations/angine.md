@@ -6,9 +6,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2023-01-16"
+lastmod = "2023-01-24"
 specialites = ["ORL"]
-annees = "2021"
+annees = "2022"
 sources = ["HAS", "SPILF"]
 tags = []
 anglais = ["Tonsilitis"]
@@ -21,11 +21,12 @@ todo = "suivi de pso en goutte"
 
 {{%article-summary%}}
 
-- Une angine est toujours virale avant 3 ans
-- Test de diagnostic rapide (TDR ou TROD) du streptocoque devant une angine de 3 à 14 ans et score clinique de Mac Isaac au-delà
+- Une angine est toujours virale avant 3 ans (et l'est pour 80% des cas ensuite)
+- Test de diagnostic rapide (TDR ou TROD) du streptocoque devant une angine érythémateuse ou érythémato-pultacée de 3 à 14 ans et score clinique de Mac Isaac au-delà
 - Traitement avec prise en charge par antibiotique en cas de TDR positif:
   - Adulte: amoxicilline 1 g 2 fois par jour pendant 6 jours
   - Enfant: amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises/j pendant 6 jours
+  - Antibiothérapie aussi indiquée pour l'angine de Vincent, la diphtérie, le gonocoque et le [chancre syphilitique]({{< relref "syphilis.md" >}})
 - La prise en charge de l'angine pédiatrique en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
 - Le Streptatest peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si TROD angine positif, sous 7 jours calendaires >> (*[Arrêté du 13/12/21](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044483134)*)
 
@@ -33,7 +34,7 @@ todo = "suivi de pso en goutte"
 {{%collapse "Définitions" %}}
 
 Angine
-: Infection amygdalienne aiguë palatine voire de l'ensemble du pharynx. La majorité des infections est virale.
+: Infection amygdalienne (amygdalite) aiguë palatine voire de l'ensemble du pharynx très fréquente. La majorité des infections est virale (70% chez l'enfant, 90% chez l'adulte).
 : Le streptocoque β-hémolytique du groupe A (*SGA* ou *Streptococcus pyogenes*) est la première bactérie responsable des angines bactériennes avec un pic entre 4 et 15 ans.  
 Il est responsable de 25 à 40% des angines de l'enfant et 10 à 25% des angines de l'adulte.
 
@@ -68,17 +69,17 @@ TROD
 L'aspect de l'oropharynx n'est pas prédictif de l'angine à SGA (*Collège*)
 {.alert .alert-info}
 
-Signes et symptômes de l'angine:
+Signes et symptômes de l'angine érythémateuse ou érythématopultacée:
 
 - Début brutal
 - Odynophagie intense
 - Fièvre
 - Amygdalite érythémateuse ou érythémato-pultacée
 - Adénopathies satellites sensibles
-- Autres signes
+- Signes négatifs
   - Douleurs abdominales
   - Exanthème, scarlatine
-  - Signes de rhinopharyngite
+  - Rhinite
 
 Autres formes cliniques d'angine:
 
@@ -87,8 +88,9 @@ Autres formes cliniques d'angine:
 - Angine pseudomembraneuse  
   Mononucléose infectieuse (EBV) ou diphtérie.
 - Angine gonococcique
-- Anaérobies (angine ulcéreuse dite *angine de Vincent*)  
+- Angine ulcéreuse (dite *angine de Vincent*)  
   Éliminer agranulocytose, hémopathie/cancer.
+- [Chancre syphilitique]({{< relref "syphilis.md" >}})
 
 Pour mieux visualiser les amygdales, demander à l'enfant de rugir comme un lion ou de bailler la bouche ouverte (*Pr Douglas Paauw*)
 {.alert .alert-info}
@@ -211,12 +213,9 @@ graph TB
 - [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
 - [Cohen J., Cohen R.; SFP. Angine. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
 - [SPILF, HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'enfant. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/fiche_memo_rhinopharyngite_angine_enfant_durees_antibiotherapies.pdf)
+- [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 149. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-149-web.pdf)
 - [Lescanne E. et al. Amygdalectomie de l'enfant Actualisation 2020 de la recommandation SFORL & CFC. 2020.](https://www.sforl.org/wp-content/uploads/2021/11/Recommandation-SFORL-Amygdalectomie_2021.pdf)
 - [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)
 - Collège Français d'ORL et de Chirurgie Cervico-faciale. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 146 UE6.
-
-### À lire
-
-[CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 149. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-149-web.pdf)
 
 {{%/sources%}}

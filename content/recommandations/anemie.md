@@ -7,7 +7,7 @@ synonyms = ["Anémie ferriprive", "carence en fer"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-08T13:02:19+02:00"
 publishdate = "2021-10-12"
-lastmod = "2022-10-25"
+lastmod = "2023-01-24"
 specialites = ["hematologie"]
 annees = "2021"
 sources = ["BSG", "SNFGE"]
@@ -133,19 +133,16 @@ Signes et symptômes cliniques d'une anémie:
   Transfusions, dons de sang, chirurgie de l'obésité ou gastrique, traumatismes, insuffisance cardiaque ou rénale.
 - Traitements  
   AINS, anticoagulants ou IPP au long cours.
-- Régime alimentaire
+- Régime alimentaire, {{< modal-btn modal-scoff >}}troubles du comportement alimentaire{{< /modal-btn >}}
 - Consommation de thé
 - Pertes sanguines
-  - Contraception
-  - Ménométrorragies
-  - Hémorroïdes ou saignements digestifs
+  - Gynécologiques: grossesse, [contraception]({{< relref "contraception.md" >}}), méno-métrorragies
+  - Digestives: [dyspepsie]({{< relref "dyspepsie.md" >}}), syndrome ulcéreux, douleurs abdominales, hémorroïdes ou saignements digestifs
   - Épistaxis
   - Hématurie
 - Anémie
   - Tolérance
-  - Dyspnée
-  - Fatigue
-  - Vertiges
+  - Dyspnée, [fatigue](/tags/fatigue/), vertiges
   - Pâleur
   - Tachycardie
 - Carence martiale
@@ -206,6 +203,8 @@ Prise en charge de l'anémie par supplémentation et fer puis surveillance de la
 | Timoferol cp ou gél    | Sulfate  |               50 |
 {{< /table >}}
 
+**NB.** La vitamine C (fruits frais) favorise l'absorption du fer non héminique (*HCSP 2022*).
+
 ### Pour en savoir plus: Éléments importants sur la supplémentation en fer
 
 - Supplémenter une carence martiale symptomatique chez la femme non ménopausée ([fatigue](/tags/fatigue/), ralentissement cognitif) et pendant la grossesse
@@ -247,15 +246,16 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HCSP. Avis relatif à la couverture des besoins de la population générale en vitamine D et en fer. 21/06/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1251)
 - [Snook J et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021.](https://gut.bmj.com/content/70/11/2030)
 - [Santé Publique France. Étude de santé sur l'environnement, la biosurveillance, l'activité physique et la nutrition (Esteban) 2014-2016. Volet Nutrition. Chapitre Dosages biologiques : vitamines et minéraux. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/rapport-synthese/etude-de-sante-sur-l-environnement-la-biosurveillance-l-activite-physique-et-la-nutrition-esteban-2014-2016-.-volet-nutrition.-chapitre-dosages)
 - [Rouillon JM, SNFGE. Prise en charge de l'anémie ferriprive. 2018.](https://www.snfge.org/download/file/fid/3372)
-- [OMS. Concentrations en hémoglobine permettant de diagnostiquer l'anémie et d'en évaluer la sévérité. Système d'informations nutritionnelles sur les vitamines et les minéraux. Genève, Organisation mondiale de la Santé, 2011 (WHO/NMH/NHD/MNM/11.1)](https://www.who.int/fr/publications-detail/WHO-NMH-NHD-MNM-11.1)
+- [OMS. Concentrations en hémoglobine permettant de diagnostiquer l'anémie et d'en évaluer la sévérité. Système d'informations nutritionnelles sur les vitamines et les minéraux. 2011.](https://www.who.int/fr/publications-detail/WHO-NMH-NHD-MNM-11.1)
 - [HAS. Choix des examens du métabolisme du fer en cas de suspicion de carence en fer. Mars 2011.](https://www.has-sante.fr/jcms/c_1051506/fr/choix-des-examens-du-metabolisme-du-fer-en-cas-de-suspicion-de-carence-en-fer-rapport-d-evaluation)
 
-### À lire
-
-- [HCSP. Avis relatif à la couverture des besoins de la population générale en vitamine D et en fer. 21/06/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1251)
-- [de Tournemire R.; SFP. Anémie par carence martiale chez l'adolescente. 2017.](https://pap-pediatrie.fr/hematologie/anemie-par-carence-martiale-chez-ladolescente)
-
 {{%/sources%}}
+{{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}
+
+{{< scores/scoff >}}
+
+{{% /modal %}}

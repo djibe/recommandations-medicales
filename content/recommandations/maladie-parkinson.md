@@ -1,15 +1,16 @@
 +++
 title = "Maladie de Parkinson"
 prefix = "la "
-description = "TODO:"
+description = "Recommandations pour le diagnostic et la prise en charge de la maladie de Parkinson (tremblement, bradykinésie). Agonistes dopaminergiques en première intention"
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-04T21:22:54+01:00"
-publishdate = "2023-01-23"
-lastmod = "2023-01-23"
+publishdate = "2023-01-24"
+lastmod = "2023-01-24"
 specialites = ["neurologie"]
 annees = "2016"
-sources = ["HAS"]
+sources = ["HAS", "EFNS"]
 tags = []
 anglais = ["Parkinson's disease (PD)"]
 sctid = "49049000"
@@ -17,7 +18,7 @@ flowchart = true
 draft = true
 image = false
 imageSrc = ""
-todo = "College, Prescrire, HAS 2016 chap6.3 + 7 + p73"
+todo = "College, Prescrire, American Academy of Neurology, HAS 2016 chap6.3 + 7 + p73"
 +++
 
 {{%article-summary%}}
@@ -113,6 +114,9 @@ TODO:
 EAN
 : {{%lang%}}European Academy of Neurology{{%/lang%}}
 
+EFNS
+: {{%lang%}}European Federation of the Neurological Societies{{%/lang%}}
+
 ICOMT
 : inhibiteurs de la catéchol-O-méthyl transférase
 
@@ -170,8 +174,9 @@ Les symptômes sont initialement unilatéraux:
 
 - Début tardif (+50 ans)
 - Antécédents familiaux  
-  Maladie de Parkinson (15%)
-- **Akinésie**, **bradykinésie**, **hypokinésie**  
+  Maladie de Parkinson (15%).
+- **Bradykinésie**, **hypokinésie**, **akinésie**
+  - Fatigue sur la frappe répétée des mains/pieds
   - Hypomimie, réduction du balancement des bras et du clignement des yeux
   - Difficultés des mouvements fins (micrographie, boutonnage, ouverture de bocal)
   - Marche à petit pas, lente et hésitante, freezing (enrayage cinétique), festination, difficultés à se retourner dans son lit
@@ -192,37 +197,45 @@ Les symptômes sont initialement unilatéraux:
 - Symptômes non moteurs
   - Apathie, troubles de la motivation
   - Douleurs pseudo-rhumatismales (épaule, rachis) ou diverses (paresthésies, radiculalgies)
-  - Hyposmie
+  - Hyposmie (73-90%)
   - Troubles du sommeil paradoxal (rêves agités)
   - Constipation
   - Amaigrissement et asthénie
   - Hallucinations (visuelles ++)
   - Déclin cognitif (1/3 au diagnostic)
+- Excellente réponse à la L-dopa
 - **Signes négatifs / atypiques**
   - À Rechercher tous les 6-12 mois
   - Drapeaux rouges (voir section précédente)
+  - AVC multiples
+  - Traumatismes crâniens répétés
   - Absence de tremblement de repos
   - Syndrome atypique  
-    Rigidité axiale dominante, symptômes symétriques.
+    Rigidité axiale dominante, symptômes symétriques ou unilatéraux après 3 ans.
   - Iatrogénie  
     Antipsychotiques (halopéridol, chlorpromazine, amisulpride, aripiprazole, olanzapine, rispéridone ...), antiémétiques (métoclopramide, métopimazine), tiapride, plus rarement (IRS, amiodarone, lithium, inhibiteurs de la cholinestérase, méthyldopa, inhibiteurs calciques, valproate de sodium)
   - Expositions  
-    Plomb, manganèse et métaux lourds, solvants organiques, pesticides, eaux de puits.
+    [Plomb]({{< relref "saturnisme.md" >}}), manganèse et métaux lourds, solvants organiques, pesticides, eaux de puits.
 
-#### Le syndrome malin des neuroleptiques
-
-Le syndrome malin des neuroleptiques doit être suspecté chez tout patient parkinsonien fébrile avec aggravation des symptômes. Il peut être déclenché apr l'arrêt brutal des traitements.
-{.alert .alert-warning}
-
-Le syndrome malin des neuroleptiques provoque: troubles de la conscience, rigidité musculaire généralisée, hyperthermie, dysautonomie.
+Ces éléments reprennent les critères diagnostiques **Queen Square Brain Bank** (QSBB).
 
 ### Examen clinique
 
 - Poids, taille, IMC, variations
 - Pression artérielle, pouls, hypotension orthostatique
+- Examen neurologique complet
+  - Roue dentée
+  - Signes négatifs: signe de Babinski
 - Évaluation motrice  
   MDS-UPDRS, Berg Balance Scale, Timed Up and Go, test de marche de 6 minutes, test des 10 mètres de marche.
 - Évaluation gériatrique standardisée
+
+#### Le syndrome malin des neuroleptiques
+
+Le syndrome malin des neuroleptiques doit être suspecté chez tout patient parkinsonien **fébrile avec aggravation des symptômes**. Il peut être déclenché apr l'arrêt brutal des traitements.
+{.alert .alert-warning}
+
+Le syndrome malin des neuroleptiques provoque: troubles de la conscience, rigidité musculaire généralisée, hyperthermie, dysautonomie.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -236,6 +249,10 @@ Indications limitées de l'IRM cérébrale: suspicion de syndrome parkinsonien v
 ### DATscan
 
 Le DAT-scan (SPECT au bêta-CIT) peut être prescrit par le neurologue pour aider à différencier un tremblement essentiel d'un tremblement parkinsonien.
+
+### Conseil génétique
+
+Le conseil génétique est recommandé si (*EFNS 2013*): plusieurs proches atteints sur plus d'une génération.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la Maladie de Parkinson" %}}
@@ -269,6 +286,8 @@ Ne jamais interrompre brutalement un traitement antiparkinsonien (risque d'akin�
 
 Le traitement de la Maladie de Parkinson n'est pas une urgence. Intérêt d'un diagnostic fiable avant l'introduction des traitements.
 
+La réponse aux traitements est un argument fort en faveur de la confirmation diagnostique.
+
 #### Les traitements médicamenteux de la Maladie de Parkinson
 
 Les traitements médicamenteux antiparkinsoniens ne sont pas indispensables en l'absence de retentissement moteur. En première intention, les IMAO B et agonistes dopaminergiques sont préférés afin d'épargner la L-Dopa.
@@ -288,6 +307,8 @@ Les traitements médicamenteux antiparkinsoniens ne sont pas indispensables en l
 #### La stimulation cérébrale profonde
 
 La stimulation cérébrale profonde consiste à implanter 1 ou 2 électrodes dans le cerveau, connectées à un générateur sous-cutanée pour une stimulation modulable et réversible.
+
+L'indication principale à la stimulation cérébrale est une qualité de vie altérée par un échappement moteur à tous les traitements médicamenteux sauf la Lévodopa sans atteinte cognitive et opérables.
 
 {{% /collapse %}}
 {{%collapse "Suivi de la maladie" %}}
@@ -421,11 +442,11 @@ graph TB
 - [HAS. Maladie de Parkinson. Actes et prestations affections de longue durée. 2021.](https://www.has-sante.fr/jcms/c_546220/fr/ald-n-16-maladie-de-parkinson)
 - [HAS. Maladie de Parkinson. Guide du parcours de soins. 2016.](https://www.has-sante.fr/jcms/c_1242645/fr/guide-parcours-de-soins-maladie-de-parkinson)
 - [HAS. Maladie de Parkinson et syndromes apparentés : techniques et modalités de la prise en charge non médicamenteuse des troubles moteurs. 2016.](https://www.has-sante.fr/jcms/c_2038173/fr/maladie-de-parkinson-et-syndromes-apparentes-techniques-et-modalites-de-la-prise-en-charge-non-medicamenteuse-des-troubles-moteurs)
+- [Berardelli A. et al. EFNS/MDS-ES recommendations for the diagnosis of Parkinson's disease. Eur J Neurol. 2013.](https://onlinelibrary.wiley.com/doi/10.1111/ene.12022)
 - [Santé Publique France. Maladie de Parkinson.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-neurodegeneratives/maladie-de-parkinson)
 
 ### À lire
 
-- [Berardelli A. et al. EFNS/MDS-ES recommendations for the diagnosis of Parkinson's disease. Eur J Neurol. 2013.](https://onlinelibrary.wiley.com/doi/10.1111/ene.12022)
-- [Collège des Enseignants de Neurologie (CEN). Maladie de Parkinson. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/maladie-parkinson)
+[Collège des Enseignants de Neurologie (CEN). Maladie de Parkinson. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/maladie-parkinson)
 
 {{%/sources%}}
