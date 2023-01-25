@@ -448,6 +448,8 @@ Choix du traitement:
   {{%class "x"%}}5 mg IV annuel{{%/class%}}
 - Raloxifène  
   {{%class "x"%}}60 mg/j. Conditions: femme < 70 ans sans antécédent de fracture non vertébrale, en l'absence de: T-score bas à la hanche, T-score ≤ -3 et risque de chute élevé.{{%/class%}}
+- Romosozumab  
+  {{%class "x"%}}Femme ménopausée < 75 ans avec antécédent de fracture sévère sans risque cardiovasculaire{{%/class%}}
 - Traitement hormonal de la ménopause (THM)  
   {{%class "x"%}}Entre 50 et 60 ans si syndrome climatérique invalidant{{%/class%}}
 
@@ -573,7 +575,7 @@ graph TB
     bilan ==> severe("<b>Fracture sévère ?</b><hr>- Extrem sup fémur/humérus<br>- Vertèbre<br>- Pelvis, bassin, sacrum<br>- Diaphyse fémorale<br>- Fémur distal<br>- 3 côtes simultanées<br>- Tibia proximal")
       severe -- Oui vertébrale --> traitementVertebre("<b>T-score ≤ -1</b><br>Biphosphonate<br>raloxifène, THM,<br> tériparatide<br>ou romosozumab<hr><b>T-score &gt; -1</b><br>Avis rhumatologique") -- 3 ans --> DXA
       severe -- Oui --> traitement("<b>T-score ≤ -1</b><br>Alendronate,<br>risédronate<br>ou romosozumab<hr><b>T-score &gt; -1</b><br>Avis rhumatologique<hr><b>FESF ou T-score ≤ -3</b><br>Zolédronate IV") -- 3 ans --> DXA("Ostéodensitométrie<br>et avis rhumatologique")
-      severe -- Non sévère --> nonSevere("Tenir compte du FRAX<hr><b>T-score ≤ -2</b><br>Biphosphonate,<br>raloxifène ou THM<hr><b>T-score entre -2 et -1</b><br>Avis rhumatologique") -- 3 ans --> DXA
+      severe -- Non sévère --> nonSevere("Tenir compte du FRAX<hr><b>T-score ≤ -2</b><br>Biphosphonate,<br>raloxifène, THM<br>ou romosozumab<hr><b>T-score entre -2 et -1</b><br>Avis rhumatologique") -- 3 ans --> DXA
     bilan -- Biologie anormale --> avisSpe
   fracture -- Non ostéoporotique --> nonOsteoporotique("- Crâne, face<br>- Rachis cervical + T1-T3<br>- Mains et orteils") --> etiologique(Bilan étiologique) --> avisSpe(Avis rhumatologique)
 {{< /mermaid >}}
