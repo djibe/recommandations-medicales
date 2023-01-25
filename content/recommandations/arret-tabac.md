@@ -1,6 +1,6 @@
 +++
 title = "Arrêt du tabac ou sevrage tabagique"
-titleSeo = "Arrêt du tabac"
+titleSeo = "Arrêt du tabac ou sevrage tabagique"
 prefix = "l'"
 description = "Recommandations pour la prise en charge médicale de l'arrêt du tabac (sevrage tabagique): dépendance Fagerström, substituts nicotiniques, soutien psychologique"
 longHtml = true

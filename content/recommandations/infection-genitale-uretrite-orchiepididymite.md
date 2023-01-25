@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-17T11:25:20+01:00"
 publishdate = "2023-01-19"
-lastmod = "2023-01-19"
+lastmod = "2023-01-25"
 specialites = ["urologie"]
 annees = "2022"
 sources = ["EAU", "HAS", "SFDermato"]
@@ -21,7 +21,7 @@ todo = "Balanite et balano-posthite, dépistages Ct homme"
 
 {{%article-summary%}}
 
-- Prélèvements au laboratoire d'une infection génitale: PCR urine premier jet *Chlamydia*, gonocoque et *M. genitalium*, prélèvement d'un écoulement urétral, ECBU sur urine de milieu de jet, frottis endo-urétral si absence de PCR ou PCR gonocoque+
+- Prélèvements devant une suspicion d'infection génitale: PCR urine premier jet *Chlamydia*, gonocoque et *M. genitalium*, prélèvement d'un écoulement urétral, ECBU sur urine de milieu de jet, frottis endo-urétral si absence de PCR ou PCR gonocoque+
 - Prise en charge de l'urétrite: Ceftriaxone 1g IM dose unique  
   \+ doxycycline 100 mg x 2/j pendant 7 jours OU azithromycine 1g dose unique
 - Prise en charge de l'orchi-épididymite
@@ -57,11 +57,10 @@ SFD
 {{%collapse "Urétrite" %}}
 
 Urétrite
-: Inflammation de l'urètre le plus souvent par une [infection sexuellement transmissible (IST)](/tags/ist/): *Neisseria gonorrhoeae*, *Chlamydia trachomatis* et *Mycoplasma genitalium* (20%, poly-infection dans 10-50% des cas) avec un risque d'épididymite. *Trichomonas vaginalis* et *Ureaplasma urealyticum* sont rares et aucun germe n'est retrouvé dans 35% des cas.
+: Inflammation de l'urètre le plus souvent par une [infection sexuellement transmissible (IST)](/tags/ist/): *Neisseria gonorrhoeae*, *Chlamydia trachomatis* et *Mycoplasma genitalium* (20%), poly-infection dans 10-50% des cas avec un risque d'épididymite. *Trichomonas vaginalis* et *Ureaplasma urealyticum* sont rares et aucun germe n'est retrouvé dans 35% des cas.
 : Sur-représentation des [HSH]({{< relref "hsh.md" >}}) et [séropositifs VIH]({{< relref "vih-sida.md" >}}).
 : Critères diagnostiques cytologiques chez un homme sans miction depuis au moins 2 heures: ≥ 5 PNN au frottis (grossissement 100), ≥ 10 PNN sur premier jet centrifugé (grossissement 400).
-
-Urétrite non-gonococcique persistante: absence d'amélioration à 4 semaines du traitement.
+: Urétrite non-gonococcique **persistante**: absence d'amélioration à 4 semaines du traitement.
 
 ### Symptômes de l'urétrite
 
