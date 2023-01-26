@@ -1,12 +1,12 @@
 +++
 title = "Hypothyroïdie"
 prefix = "l'"
-description = "Recommandations pour l'hypothyroïdie dont Hashimoto. Bilan TSH et T4, échographie thyroïdienne, suivi, titration pour débuter le lévothyrox à 1,7 µg/kg/j"
+description = "Recommandations pour la prise en charge de l'hypothyroïdie dont Hashimoto. Bilan TSH et T4, parfois échographie thyroïdienne, titration de la lévothyroxine"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-14T23:30:41+02:00"
 publishdate = "2020-04-14"
-lastmod = "2023-01-23"
+lastmod = "2023-01-26"
 specialites = ["endocrinologie"]
 annees = "2019"
 sources = ["HAS", "SFE"]
@@ -50,7 +50,7 @@ La TSH est élevée et la T4L basse.
 - Irradiation cervicale
 - Trisomie 21 et Syndrome de Turner
 
-### Étiologie
+### Étiologie d'une hypothyroïdie
 
 - **Thyroïdite lymphocytaire chronique de Hashimoto**
   - Forme hypertrophique prédominant chez la femme
@@ -235,7 +235,7 @@ Surveillance de la TSH tous les 6 mois pendant 2 ans, ou annuelle si TSH stable.
 
 #### Spécialités de lévothyroxine disponibles
 
-- {{%class%}}Euthyrox® (ancienne formulation de Lévothyrox®, arrêt fin 2022){{%/class%}}
+- {{%class%}}Euthyrox® (ancienne formulation de Lévothyrox®, arrêt fin 2023){{%/class%}}
 - L-Thyroxin Henning®
 - Lévothyrox®
 - Thyrofix®
@@ -245,7 +245,7 @@ Surveillance de la TSH tous les 6 mois pendant 2 ans, ou annuelle si TSH stable.
 - Tsoludose® (non remboursable)
 {.list-group}
 
-Les médicaments à base de lévothyroxine sont des médicaments à marge thérapeutique étroite permettant de mentionner << Non substituable >>.
+> Les médicaments à base de lévothyroxine sont des médicaments à marge thérapeutique étroite permettant de mentionner << Non substituable >>.
 
 #### Consignes d'administration de la lévothyroxine
 
@@ -330,12 +330,12 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [ANSM. Liste des médicaments à base de lévothyroxine disponibles en France. 18/01/2022.](https://ansm.sante.fr/dossiers-thematiques/les-medicaments-a-base-de-levothyroxine-disponibles-en-france-1/les-medicaments-a-base-de-levothyroxine-disponibles-en-france)
+- [ANSM. Les médicaments à base de lévothyroxine disponibles en France. 17/01/2023.](https://ansm.sante.fr/dossiers-thematiques/les-medicaments-a-base-de-levothyroxine-disponibles-en-france-1/les-medicaments-a-base-de-levothyroxine-disponibles-en-france)
 - [HAS. Quelle imagerie pour les pathologies de la thyroïde. 28/09/2021.](https://www.has-sante.fr/jcms/p_3288963/fr/quelle-imagerie-pour-les-pathologies-de-la-thyroide)
 - [Goichot B et al; SFE. Management of thyroid dysfunctions in the elderly. French Endocrine Society consensus 2019. Short version. Ann Endocrinol. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S0003426620300883)
 - [Mooijaart SP et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 2019.](https://jamanetwork.com/journals/jama/fullarticle/2753909)
 - [HAS. Hypothyroïdie – pertinence des soins. Mars 2019.](https://www.has-sante.fr/portail/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)
-- S. Laboureau-Soares et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8.
+- Laboureau-Soares S. et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8.
 
 ### À lire
 

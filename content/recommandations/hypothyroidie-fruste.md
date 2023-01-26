@@ -119,9 +119,13 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [ANSM. Liste des médicaments à base de lévothyroxine disponibles en France. 19/03/2021.](https://ansm.sante.fr/dossiers-thematiques/les-medicaments-a-base-de-levothyroxine-disponibles-en-france-1/les-medicaments-a-base-de-levothyroxine-disponibles-en-france)
-- [Mooijaart SP et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 30 oct 2019;1‑11.](https://doi.org/10.1001/jama.2019.17274)
-- [HAS. Hypothyroïdie – pertinence des soins. Mars 2019](https://www.has-sante.fr/portail/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)
-- [S. Laboureau-Soares et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8](https://www.em-select.com/article/224074)
+- [Mooijaart SP et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 2019.](https://doi.org/10.1001/jama.2019.17274)
+- [HAS. Hypothyroïdie. Pertinence des soins. 2019.](https://www.has-sante.fr/portail/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)
+- [Laboureau-Soares S. et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8](https://www.em-select.com/article/224074)
+
+### À lire
+
+- [Lazarus J. et al. 2014 European Thyroid Association Guidelines for the Management of Subclinical Hypothyroidism in Pregnancy and in Children. European Thyroid Journal. 2014.](https://etj.bioscientifica.com/view/journals/etj/3/2/ETJ362597.xml)
+- [Pearce S. et al. 2013 ETA Guideline: Management of Subclinical Hypothyroidism. Eur Thyroid J. 2013. (PDF)](https://www.eurothyroid.com/files/download/ETA-Guideline-Management-of-Subclinical-Hypothyroidism.pdf)
 
 {{%/sources%}}
