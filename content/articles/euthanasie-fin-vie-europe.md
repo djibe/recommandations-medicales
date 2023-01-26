@@ -1,36 +1,52 @@
 +++
-title = "Carte de l'euthanasie en France et en Europe"
-description = "Carte d'Europe des pays adopté l'aide au suicide, l'euthanasie ou interdisant leur usage. L'euthanasie est légale dans quatre pays européens: Benelux et Espagne"
+title = "Carte de l'euthanasie en France et en Europe en 2023"
+description = "Carte d'Europe des pays légalisant l'aide au suicide, l'euthanasie ou interdisant leur usage. L'euthanasie est légale dans quatre pays européens: Belgique ..."
 longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-16T12:20:00+02:00"
-publishdate = "2023-01-02"
-lastmod = "2023-01-02"
+publishdate = "2023-01-26"
+lastmod = "2023-01-26"
 specialites = []
 sources = ["CNOM"]
 tags = []
-draft = true
 geochart = true
 image = true
 imageSrc = "Carte d'Europe revisitée par Freepik"
-todo = "comparatif des conditions dans les pays, Check json+ld, SEO: euthanasie en europe carte, enthanasie pays europeen, pays europe euthanasie"
+todo = "comparatif des conditions dans les pays, SEO: euthanasie en europe carte, enthanasie pays europeen, pays europe euthanasie"
 +++
+
+Alors que la France engage un débat sur l'euthanasie, son adoption en Europe et dans le monde reste marginale. À ce jour, seulement quatre pays d'Europe ont encadré le recours à l'euthanasie: le Benelux (Belgique, Pays-Bas et Luxembourg) et l'Espagne.
+{.lead}
 
 ## Recours à l'euthanasie dans les pays européens
 
-Alors que la France engage un débat sur l'euthanasie, seulement quatre pays d'Europe ont déjà encadré le recours à l'euthanasie: le Benelux (Belgique, Pays-Bas et Luxembourg) et l'Espagne.
-{.lead}
+Les états européens peuvent être classés en trois groupes selon leur législation vis-à-vis de l'euthanasie: les pays interdisant tout recours permettant de mettre fin à la vie (la majorité), les pays légalisant l'assistance au suicide et les pays légalisant l'euthanasie.
 
-D'autres pays d'Europe, qui interdisent l'euthanasie, ont toutefois légalisé l'**assistance au suicide**. Ils sont aujourd'hui au nombre de trois: le Portugal, la Suisse et l'Autriche.  
-Dans ces pays, la personne demandeuse exécute elle-même les gestes qui donneront la mort mais avec un protocole pour le maintien de la dignité tout au long du parcours.
+### Les pays restreignant toute aide à mourir
 
-Certains pays autorisent les aides actives à mourir (assistance au suicide et euthanasie). TODO:
+La grande majorité des pays (bleu clair sur la carte) interdisent toute action visant à abréger la vie: assistance au suicide et euthanasie. La France en fait partie, mais entame une concertation à ce sujet.
 
-Enfin dans le monde, seulement 11 pays (sur 195 reconnus par l'ONU) disposent d'un cadre législatif pour l'aide active à mourir (euthanasie ou assistance au suicide).
+### Les pays avec un cadre légal de l'aide au suicide
+
+D'autres pays d'Europe, qui interdisent l'euthanasie, ont toutefois légalisé l'**assistance au suicide** (ou suicide assisté). Ils sont aujourd'hui au nombre de trois: le Portugal, la Suisse et l'Autriche.
+
+Dans ces pays, la personne demandeuse exécute elle-même les gestes qui donneront la mort, mais avec un protocole pour le maintien de la dignité tout au long du parcours de la fin de vie.
+
+### Les pays légalisant l'euthanasie
+
+L'euthanasie, où un tiers enclenche la mort d'autrui dans un cadre législatif normé, est légale dans 4 pays en 2023.
+
+Tous les pays du Benelux (Belgique, Pays-Bas et Luxembourg) ont adopté une législation encadrant l'euthanasie, ainsi que l'Espagne plus récemment (loi votée en 2020).
+
+Le Luxembourg, les Pays-Bas et l'Espagne autorisent par ailleurs le recours au suicide assisté.
+
+## La légalisation de l'euthanasie dans le monde
+
+Enfin, dans le monde, seulement 11 pays (sur 195 reconnus par l'ONU) disposent d'un cadre législatif pour l'aide active à mourir (euthanasie ou assistance au suicide).
 
 ## Carte de l'euthanasie en Europe par pays
 
-Plus précisément, statut des pays d'Europe vis à vis des aides actives à mourir.
+Plus précisément, statut des pays d'Europe vis-à-vis des aides actives à mourir.
 
 {{< figure-chart id="geochart" title="Carte des pays européens ayant légalisé l'aide active à mourir (euthanasie ou assistance au suicide). Dr JB Fron d'après CNOM 2022. 0 = Interdiction; 1 = Assistance au suicide; 2 = Euthanasie; 3 = les 2" >}}
 
