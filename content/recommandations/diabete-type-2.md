@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2023-01-03"
+lastmod = "2023-01-31"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["EASD", "ADA", "SFD", "ESC", "HAS"]
@@ -16,7 +16,7 @@ anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "dépister hyperferritinémie?, glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | Post-IDM + diabète: simva + ezetimibe"
+todo = "GRADE PODO +++ dont p.68 et p.76 et p.90, conseils nut p. 80, revoir DIAG 2023+++, dépister hyperferritinémie?, glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC: risque hypo SU/insuline, adapt poso | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | Post-IDM + diabète: simva + ezetimibe"
 +++
 
 {{%article-summary%}}
@@ -33,18 +33,19 @@ Articles liés: [diabète type 1]({{< relref "diabete-type-1.md" >}}), [diabète
 {{%collapse "Définitions"%}}
 
 Diabète
-: Hyperglycémie chronique dont le diagnostic est biologique (définitions *ADA 2019*):
-    - 2 glycémies à jeun ≥ 1,26 g/L
-    - ou HbA1c ≥ 6,5%
+: Hyperglycémie chronique dont le diagnostic est biologique (définitions *ADA 2023*):
+    - 2 glycémies à jeun ≥ 1,26 g/L (jeûne de 8 heures)
+    - ou HbA1c ≥ 6,5% (48 mmol/mol)
     - ou HGPO H2 ≥ 2 g/L
-    - Symptômes et glycémie ≥ 2 g/L
+    - Symptômes et glycémie ≥ 2 g/L  
+      Polyurie, polydipsie, amaigrissement.
 : Au cours du diabète, l'atteinte coronaire est plus étendue, sévère et diffuse. 6 à 35% ont une **ischémie myocardique sans angor** et 50% des infarctus du myocarde sont **silencieux** (*SFD 2021 CAD*). Le responsable majeur est le **LDL cholestérol**. Le risque d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) est multiplié par 2 à 4.  
 Les femmes avec DT2 sont à risque élevé d'[AVC]({{< relref "accident-vasculaire-cerebral.md" >}}).
 : Épidémiologie du diabète en France: 3,5 millions de sujets traités, 80% en surpoids ou obèse, 3/4 hypertendus, 13% sont fumeurs et seulement 64% reçoivent une statine (*Entred3*).
 
 Hyperglycémie modérée à jeun (HGMAJ)
 : Ou *prédiabète*, correspond au stade précurseur du diabète.  
-La glycémie à jeun est mesurée de 1 à 1,25 g/L (HGPO H2 < 1,4 g/L).
+La glycémie à jeun est mesurée de 1 à 1,25 g/L (HGPO H2 < 1,4 g/L), elle doit être contrôlée tous les ans (tous les 1-3 ans si < 1,1 g/L).
 : La perte d'1 kg réduit de 43% le risque de DT2 (*ESC 2019 diabetes*).
 
 Rémission du diabète
@@ -68,13 +69,31 @@ Rémission du diabète
   <input type="number" style="width:68px" class="form-alternative" id="eagInput" value="154" min="1" onchange="hba1cInput.value = Math.round(((parseInt(this.value, 10) + 46.7) / 28.7) / 0.1) * 0.1">
 </div>
 
+### Abréviations
+
+DT2
+: diabète type 2
+
+ESC
+: {{%lang%}}European Society of Cardiology{{%/lang%}}
+
+HAS
+: Haute Autorité de Santé
+
+HGPO
+: Hyperglycémie provoquée par voie orale
+
+SFD
+: Société Francophone du Diabète
+{.dl-inline}
+
 {{% /collapse %}}
 {{%collapse "Les points vitaux du diabète type 2" "show" %}}
 
 Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} (rarement modéré) {{%class%}}(risque CV x 3-4){{%/class%}}
 {.alert .alert-warning}
 
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (passif également)
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (passif également) et alcool à moindre risque
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
   - Seuil diagnostique ≥ 140/90 mmHg (160 après 80 ans, {{%class%}}*ESC 2018*{{%/class%}})
   - Cible 120-130/70-79 mmHg {{%class%}}(*ESC 2019 diabetes*){{%/class%}}
@@ -85,12 +104,13 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
   - {{< modal-btn modal-statine-intensite >}}< 0,7 g/L{{< /modal-btn >}}
   - {{< modal-btn modal-statine-intensite >}}< 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-rcv-diabete >}}maladie cardiovasculaire, > 20 ans d'évolution ou ≥ 3 autres FRCV{{< /modal-btn >}}
 - Activité physique  
-  {{%class "text-black-secondary" %}}**Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense). Endurance et renforcement musculaire. Commencer par 1000 pas supplémentaires/j.{{%/class%}}
+  - {{%class "text-black-secondary" %}}**Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense). Endurance et renforcement musculaire. Commencer par 1000 pas supplémentaires/j ou autre objectif *SMART*.{{%/class%}}
 - Cible d'HbA<sub>1c</sub>: {{< modal-btn modal-hba1c >}}globalement **7%**{{< /modal-btn >}} {{%class%}}(*SFD 2021*){{%/class%}}
 - Surpoids  
   Perte de poids (5-10%) ou chirurgie bariatrique.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Dépister des {{< modal-btn modal-saos-diabete >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et une dysfonction érectile {{%class%}}(50%){{%/class%}}
+- Dépistages recommandés des [cancers](/tags/cancer/)
 - ALD 8 et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
 
 > Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75% (*ESC 2019 diabetes*)
@@ -104,7 +124,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 - Cliquer sur la classe thérapeutique pour afficher plus d'informations sur la prise en charge
 - Les classes thérapeutiques de préférence sont entourées ou signalées avec un indicateur bleu
 - **Objectif 0 hypoglycémie !**
-- Pour la grossesse, objectifs identiques au [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
+- Pendant la grossesse, les objectifs sont identiques au [diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
 
 <div class="border rounded-lg p-4 my-4">
   <div class="m-0">
@@ -279,8 +299,8 @@ Bilan à jeun pendant 12 heures:
 - HbA<sub>1c</sub> tous les 3 mois
 - Bilan lipidique (LDL, HDL, CT, TG)
 - NFS, ferritinémie
-- ASAT, ALAT, GGT ({{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}})
-- Créatininémie
+- ASAT, ALAT, GGT, {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}}
+- Créatininémie (DFG selon CKD-EPI)
 - Ratio albuminurie/créatininurie
 - Si HTA: ionogramme sanguin
 - Si obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme ou bas socio-éco: (NT-pro)BNP
@@ -297,20 +317,22 @@ Bilan à jeun pendant 12 heures:
 | Aspirine prev secondaire | 75-160 mg ± associé selon la pathologie, prolonger bi-antiagrégants si bien toléré (max 3 ans) | ESC 2019 diabetes |
 | Boulimie et TCA | Dépister                                                                                      | HAS 2019                 |
 | [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) | - Diabète < 12 mois: ≥ 50 ans sans ATCD familial ni surpoids OU amaigrissement > 10%<br>- Pancréatite chronique + apparition ou décompensation de diabète | INCa 2019 |
+| Cardiologue  | Suivi annuel                                                                                     | HAS 2014                 |
 | Chir bariatrique | < 65 ans et IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH OU IMC ≥ 30 en dernier recours | HAS 2022 et 2009 obésité |
-| Dentaire     | Suivi annuel                                                                                     | IDF 2009                 |
+| Dentaire     | Suivi annuel                                                                                     | HAS 2014, IDF 2009       |
 | [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) | Systématique. Si présente: dépistage annuel hypotension orthostatique, dysfonction vésicale | AIUS 2018             |
 | ECG          | Annuel (VPN très faible)                                                                         | SFD 2021 CAD             |
 | [Épreuve d'effort]({{< relref "epreuve-effort.md" >}}) | Angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans) | SFD 2021 CAD |
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
+| Grade podologique | Suivi annuel                                                                                | HAS 2014                 |
 | [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | (NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ADA 2022 |
 | [NAFLD/NASH]({{< relref "steatose-hepatique-et-nash.md" >}}) | {{< modal-btn modal-fib4 >}}Score FIB-4 annuel{{< /modal-btn >}} | AFEF 2020 |
+| [Néphropathie]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie, albuminurie/créatininurie annuels | ESC 2019 diabetes   |
 | Neuropathie  | Monofilament annuel                                                                              | ESC 2019 diabetes        |
-| [Rénal]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie, albuminurie sur échantillon annuels | ESC 2019 diabetes        |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | SFD 2016                 |
 | Score calcique | {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} &plusmn; EE | SFD 2021 CAD |
 | [Vaccins]({{< relref "vaccination.md" >}}) | Covid-19, [grippe]({{< relref "grippe.md" >}}), {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
-| Vitamine B12 | Si metformine: recherche de carence après 4 ans de traitement                                    | KDIGO 2020 diabetes      |
+| Vitamine B12 | Si metformine: dosage après 4 ans de traitement                                                  | KDIGO 2020 diabetes      |
 {{< /table >}}
 
 > **AAA** = anévrysme de l'aorte abdominale ; **EE** = épreuve d'effort ; **MRC** = maladie rénale chronique ; **aspirine:** IPP si risque élevé de saignement digestif ;  
@@ -360,15 +382,16 @@ Bilan à jeun pendant 12 heures:
 - [Borel AL et al; SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. Med Mal Metab. 2018. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
 - [Colson MH et al; AIUS. La dysfonction érectile du diabétique. Sexologies. 2018.](https://www.sciencedirect.com/science/article/pii/S1158136018300112)
 - [Massin P et al; SFD. Référentiel pour le dépistage et la surveillance des complications oculaires du patient diabétique. Validé par la Société Francophone du Diabète (SFD) et par la Société Française d'Ophtalmologie (SFO). Med Mal Metab. 2016. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_complications_oculaires_sfd_sfo_mmm.pdf)
+- [HAS. Prévention et dépistage du diabète de type 2 et des maladies liées au diabète. 2015.](https://www.has-sante.fr/jcms/c_2012494/fr/prevention-et-depistage-du-diabete-de-type-2-et-des-maladies-liees-au-diabete)
+- [HAS. Guide parcours de soins Diabète de type 2 de l'adulte. 2014.](https://www.has-sante.fr/jcms/c_1735060/fr/guide-parcours-de-soins-diabete-de-type-2-de-l-adulte)
 - [IDF. Oral health for people with diabetes. 2009. (PDF)](https://www.idf.org/component/attachments/attachments.html?id=729&task=download)
 
 ### À lire
 
+- [American Diabetes Association. Standards of Care in Diabetes - 2023 Abridged for Primary Care Providers. Clin Diabetes. 2023.](https://diabetesjournals.org/clinical/article/41/1/4/148029/Standards-of-Care-in-Diabetes-2023-Abridged-for)
 - [Thivolet C. et al. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)
 - Jarl Emanuel Strange. eposter. Risk of heart failure following short-term non-steroidal anti-inflammatory drug use in patients with type 2 diabetes mellitus; communiqué ESC. 26/08/2022. : éviter toute prise d'AINS
 - [HAS. Affection podologique & diabète : un suivi pluriprofessionnel. 2020.](https://www.has-sante.fr/jcms/p_3218144/fr/affection-podologique-diabete-un-suivi-pluriprofessionnel)
-- [HAS. Prévention et dépistage du diabète de type 2 et des maladies liées au diabète. 2015.](https://www.has-sante.fr/jcms/c_2012494/fr/prevention-et-depistage-du-diabete-de-type-2-et-des-maladies-liees-au-diabete)
-- [HAS. Guide parcours de soins Diabète de type 2 de l'adulte. 2014.](https://www.has-sante.fr/jcms/c_1735060/fr/guide-parcours-de-soins-diabete-de-type-2-de-l-adulte)
 - [HAS. Stratégie médicamenteuse du contrôle glycémique du diabète de type 2. 2013.](https://www.has-sante.fr/jcms/c_1022476/fr/strategie-medicamenteuse-du-controle-glycemique-du-diabete-de-type-2)
 
 {{%/sources%}}

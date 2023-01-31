@@ -9,6 +9,7 @@
     "tags/",
     "projet/"
   ],
+  "format": "csv",
   "verbosity": "error",
   "markdown": true,
   "retry": true,

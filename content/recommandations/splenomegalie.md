@@ -16,7 +16,7 @@ sctid = "16294009"
 flowchart = true
 image = true
 imageSrc = "Splénomégalie modérée (22 cm de grand axe) chez un patient de 60 ans avec cirrhose hépatique connue. Cas de Bickle I. sur Radiopaedia.org rID-52825"
-todo = "Fig 13.2 p.209, source on flowchart, tableau avec anomalies biologiques"
+todo = "Fig 13.2 p.209, source on flowchart"
 +++
 
 {{%article-summary%}}

@@ -105,4 +105,3 @@ SAS
 - [Avis relatif à l'avenant n°4](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046363095)
 - [Ameli. Modernisation du cabinet médical avec le forfait structure. 24/05/2022.](https://www.ameli.fr/medecin/exercice-liberal/vie-cabinet/aides-financieres/modernisation-cabinet)
 - [Avenant 9](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044097701)
-- [Ameli. Rosp et forfait structure 2021 : la campagne de déclaration des indicateurs commence le 1er décembre. 2021.](https://www.ameli.fr/medecin/actualites/rosp-et-forfait-structure-2021-la-campagne-de-declaration-des-indicateurs-commence-le-1er-decembre)

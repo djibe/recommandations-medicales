@@ -414,7 +414,7 @@ Intérêt de colchicine prophylactique.
 - [Pascart T. et al. Recommandations de la Société française de rhumatologie pour la prise en charge de la goutte : le traitement hypo-uricémiant. Octobre 2020.](https://doi.org/10.1016/j.rhum.2020.07.009)
 - [FitzGerald JD. et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res. 2020.](https://onlinelibrary.wiley.com/doi/full/10.1002/acr.24180)
 - [Richette P. et al. 2016 updated EULAR evidence-based recommendations for the management of gout. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/1/29)
-- [ANSM. Allopurinol et risque de survenue de toxidermies graves – Lettre aux professionnels de santé. 25 Février 2013. (PDF)](http://pharmacovigilance-limoges.fr/sites/default/files/files/Alertes/pi-130225-allopurinol-2.pdf)
+- [ANSM. Allopurinol et risque de survenue de toxidermies graves – Lettre aux professionnels de santé. 25 Février 2013.](https://archiveansm.integra.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Allopurinol-et-risque-de-survenue-de-toxidermies-graves-Lettre-aux-professionnels-de-sante)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8.](http://www.lecofer.org/item-cours-1-19-0.php#ch_2_1)
 
 {{%/sources%}}

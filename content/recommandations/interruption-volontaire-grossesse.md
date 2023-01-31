@@ -221,4 +221,8 @@ graph TB
 - [CNGOF. L'interruption volontaire de grossesse. Recommandations pour la pratique clinique. 2016. (PDF)](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2016%252FRPC_2016_IVG.pdf)
 - [HAS. Interruption volontaire de grossesse par méthode médicamenteuse. Décembre 2010. (PDF)](https://www.has-sante.fr/portail/upload/docs/application/pdf/2011-04/ivg_methode_medicamenteuse_-_recommandations_-_mel_2011-04-28_11-39-11_882.pdf)
 
+### À lire
+
+[Tessema GA. et al. Interpregnancy interval and adverse pregnancy outcomes among pregnancies following miscarriages or induced abortions in Norway (2008–2016): A cohort study. PLOS Medicine. 2022.](https://doi.org/10.1371/journal.pmed.1004129)
+
 {{%/sources%}}

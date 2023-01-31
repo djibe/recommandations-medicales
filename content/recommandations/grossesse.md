@@ -1,7 +1,7 @@
 +++
 title = "Grossesse"
-titleSeo = "TODO:"
 prefix = "la "
+noindex = true
 description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
