@@ -365,7 +365,11 @@ Bilan à jeun pendant 12 heures:
 ### À lire
 
 - [Thivolet C. et al. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)
-- [Jarl Emanuel Strange. eposter. Risk of heart failure following short-term non-steroidal anti-inflammatory drug use in patients with type 2 diabetes mellitus; communiqué ESC. 26/08/2022.] : éviter toute prise d'AINS
+- Jarl Emanuel Strange. eposter. Risk of heart failure following short-term non-steroidal anti-inflammatory drug use in patients with type 2 diabetes mellitus; communiqué ESC. 26/08/2022. : éviter toute prise d'AINS
+- [HAS. Affection podologique & diabète : un suivi pluriprofessionnel. 2020.](https://www.has-sante.fr/jcms/p_3218144/fr/affection-podologique-diabete-un-suivi-pluriprofessionnel)
+- [HAS. Prévention et dépistage du diabète de type 2 et des maladies liées au diabète. 2015.](https://www.has-sante.fr/jcms/c_2012494/fr/prevention-et-depistage-du-diabete-de-type-2-et-des-maladies-liees-au-diabete)
+- [HAS. Guide parcours de soins Diabète de type 2 de l'adulte. 2014.](https://www.has-sante.fr/jcms/c_1735060/fr/guide-parcours-de-soins-diabete-de-type-2-de-l-adulte)
+- [HAS. Stratégie médicamenteuse du contrôle glycémique du diabète de type 2. 2013.](https://www.has-sante.fr/jcms/c_1022476/fr/strategie-medicamenteuse-du-controle-glycemique-du-diabete-de-type-2)
 
 {{%/sources%}}
 {{% modal title="Objectifs glycémiques selon SFD 2021" id="modal-hba1c"%}}

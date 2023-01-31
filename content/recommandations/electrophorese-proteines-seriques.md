@@ -44,7 +44,7 @@ Indications à la réalisation de l'électrophorèse des protéines sériques (E
 - Douleurs osseuses non traumatiques sans anomalies à l'examen radiologique standard
 - Polyarthrite inexpliquée
 - Adénopathies
-- Splénomégalie
+- [Splénomégalie]({{< relref "splenomegalie.md" >}})
 - Neuropathie périphérique inexpliquée
 - Purpura vasculaire
 - Anomalies de l'hémogramme sans cause évidente  

@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2023-01-24"
+lastmod = "2023-01-26"
 specialites = ["ORL"]
 annees = "2022"
 sources = ["HAS", "SPILF"]
@@ -24,6 +24,7 @@ todo = "suivi de pso en goutte"
 - Une angine est toujours virale avant 3 ans (et l'est pour 80% des cas ensuite)
 - Test de diagnostic rapide (TDR ou TROD) du streptocoque devant une angine érythémateuse ou érythémato-pultacée de 3 à 14 ans et score clinique de Mac Isaac au-delà
 - Traitement avec prise en charge par antibiotique en cas de TDR positif:
+  - Éviction scolaire les 48 premières heures suivant l'instauration de l'antibiothérapie (*CMIT 2021*)
   - Adulte: amoxicilline 1 g 2 fois par jour pendant 6 jours
   - Enfant: amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises/j pendant 6 jours
   - Antibiothérapie aussi indiquée pour l'angine de Vincent, la diphtérie, le gonocoque et le [chancre syphilitique]({{< relref "syphilis.md" >}})
@@ -35,7 +36,7 @@ todo = "suivi de pso en goutte"
 
 Angine
 : Infection amygdalienne (amygdalite) aiguë palatine voire de l'ensemble du pharynx très fréquente. La majorité des infections est virale (70% chez l'enfant, 90% chez l'adulte).
-: Le streptocoque β-hémolytique du groupe A (*SGA* ou *Streptococcus pyogenes*) est la première bactérie responsable des angines bactériennes avec un pic entre 4 et 15 ans.  
+: Le streptocoque β-hémolytique du groupe A (*SBHA*, *SGA* ou *Streptococcus pyogenes*) est la première bactérie responsable des angines bactériennes avec un pic entre 4 et 15 ans.  
 Il est responsable de 25 à 40% des angines de l'enfant et 10 à 25% des angines de l'adulte.
 
 TDR
@@ -46,21 +47,28 @@ TDR
 Les complications sont locales voire générales:
 
 - Phlegmon péri-amygdalien
-- Complications infectieuses locales
-- Cellulites cervicales profondes extensives
-- Adénite cervicale suppurative (ou adénophlegmon latérocervical)
-- Rhumatisme articulaire aigu (RAA)
-- Glomérulonéphrite aiguë post-streptococcique (GNA)
+- Abcès rétro-pharyngé
+- Adénophlegmon cervical (ou Adénite cervicale suppurative)
+- Cellulite cervicale
+- Complications générales
+  - Rhumatisme articulaire aigu (RAA)
+  - Glomérulonéphrite aiguë post-streptococcique (GNA)
+  - Érythème noueux
+  - Chorée de Sydenham
+  - Scarlatine par atteinte toxinique voire choc toxique streptococcique
 
 > << Les angines à SGA évoluent le plus souvent favorablement en 3-4 jours même en l'absence de traitement antibiotique. Cependant, elles peuvent donner lieu à des complications potentiellement graves (syndromes post-streptococciques: rhumatisme articulaire aigu (RAA), glomérulonéphrite aiguë (GNA), et complications septiques loco-régionales dont la prévention justifie la mise en œuvre d'une antibiothérapie. >> (*Collège*)
 
 ### Abréviations
 
+SBHA
+: streptocoque β-hémolytique du groupe A (*SGA* ou *Streptococcus pyogenes*)
+
 TDR
 : test de diagnostic rapide
 
 TROD
-: test rapide d'orientation diagnostique
+: test rapide d'orientation diagnostique (idem TDR)
 {.dl-inline}
 
 {{% /collapse %}}
@@ -72,12 +80,13 @@ L'aspect de l'oropharynx n'est pas prédictif de l'angine à SGA (*Collège*)
 Signes et symptômes de l'angine érythémateuse ou érythématopultacée:
 
 - Début brutal
-- Odynophagie intense
+- Douleur pharyngée spontanée, odynophagie intense
+- Otalgie réflexe
 - Fièvre
-- Amygdalite érythémateuse ou érythémato-pultacée
+- Amygdalite érythémateuse ou érythémato-pultacée (enduit blanchâtre pe adhérent)
 - Adénopathies satellites sensibles
+- Chez l'enfant: douleurs abdominales, vomissements
 - Signes négatifs
-  - Douleurs abdominales
   - Exanthème, scarlatine
   - Rhinite
 
@@ -85,12 +94,15 @@ Autres formes cliniques d'angine:
 
 - Angine vésiculeuse  
   Dite **herpangine** par coxsackie virus ou virus varicelle-zona (VZV).
-- Angine pseudomembraneuse  
-  Mononucléose infectieuse (EBV) ou diphtérie.
+- Angine pseudomembraneuse: Mononucléose infectieuse (EBV) ou diphtérie
+  - Enduit confluent nacré/grisâtre
+  - Mononucléose: adulte jeune, fatigue, fièvre 10-15 jours, respect de la luette, purpura du voile du palais, [splénomégalie]({{< relref "splenomegalie.md" >}}) (50%), exanthème, polyadénopathie
+  - Diphtérie: urgence thérapeutique. Voyage en Europe de l'Est ou en développement, absence de vaccination, fausses membranes extensives
 - Angine gonococcique
-- Angine ulcéreuse (dite *angine de Vincent*)  
-  Éliminer agranulocytose, hémopathie/cancer.
-- [Chancre syphilitique]({{< relref "syphilis.md" >}})
+- Angine ulcéreuse ou ulcéro-nécrotique: angine de Vincent, syphilis, hémopathie
+  - Angine de Vincent: haleine fétide, ulcération unilatérale profonde avec membranes grisâtres non adhérentes
+  - Caractère traînant, rebelle: éliminer agranulocytose, hémopathie/cancer par une NFS
+  - [Chancre syphilitique]({{< relref "syphilis.md" >}})
 
 Pour mieux visualiser les amygdales, demander à l'enfant de rugir comme un lion ou de bailler la bouche ouverte (*Pr Douglas Paauw*)
 {.alert .alert-info}
@@ -98,26 +110,45 @@ Pour mieux visualiser les amygdales, demander à l'enfant de rugir comme un lion
 {{% /collapse %}}
 {{%collapse "Score de Mac Isaac" %}}
 
-Mc Isaac ou Mac Isaac
+Score de Mc Isaac, Mac Isaac ou MacIsaac
 {.text-black-secondary}
 
 {{< scores/mac-isaac >}}
 
 Le test de diagnostic rapide (TDR) peut être réalisé par le pharmacien, ajouter sur l'ordonnance: << si TROD angine positif, sous 7 jours calendaires >>.
 
+> Si TDR négatif et comportements sexuels à risque, proposer une sérologie VIH
+
+{{% /collapse %}}
+{{%collapse "Indications à l'hospitalisation" %}}
+
+Indications à hospitaliser une angine:
+
+- Angine streptococcique compliquée
+- Diphtérie
+- Mononucléose infectieuse compliquée
+- Gingivo-stomatite herpétique sévère empêchant l'alimentation
+- Angine de Vincent
+
+> *CMIT 2021*
+
 {{% /collapse %}}
 {{%collapse "Traitement de l'angine" %}}
 
 Prise en charge de l'angine:
 
+- Angine streptococcique: éviction scolaire les 48 premières heures suivant l'instauration de l'antibiothérapie
 - Antalgique, antipyrétique  
   Paracétamol voire antalgique palier 2.
 - Pas d'anti-inflammatoires (AINS) ni corticoïdes
 - La persistance de fièvre, dysphagie après 3 jours doit faire évoquer une infection intercurrente.
-- Scarlatine  
-  Traitement identique avec éviction scolaire limitée à 48 heures.
+- Scarlatine: traitement et éviction identiques
+- Diphtérie: [maladie à déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}})
+- Réévaluation après 3 jours di persistance des symptômes (fièvre, dysphagie)
 
-### Angine et antibiothérapie
+### Angine érythémateuse ou érythématopultacée et antibiothérapie
+
+Une angine streptococcique est le plus souvent favorable en 3-4 jours.
 
 Indication à une prise en charge de l'angine par antibiotique: angine chez les +3 ans avec TDR positif.
 

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T23:51:41+02:00"
 publishdate = "2020-09-29"
-lastmod = "2022-10-03"
+lastmod = "2023-01-31"
 specialites = ["hematologie"]
 annees = "2022"
 sources = ["HCSP", "MinSanté"]
@@ -17,20 +17,21 @@ sctid = "707147002"
 image = true
 imageWEBP = true
 imageSrc = "Illustration de la rate par scientificanimations.com, CC BY-SA 4.0"
-todo = "améliorer vaccins"
+todo = "Fièvre du splénectomisé"
 +++
 
 {{%article-summary%}}
 
-- Asplénie: antibioprophylaxie par pénicilline V Oracilline® 1 MUI 1 cp x 2/j pendant 2 ans (5 ans chez l'enfant)
-- 6 vaccinations recommandées contre l'immunodépression: pneumocoque, méningocoques B et ACYW135, grippe, Covid 19 et *Haemophilus* (âge < 6 ans)
+- L'asplénie (et l'hyposplénie) expose à des infections sévères et parfois foudroyantes (risque à vie mais maximal les 2 premières années)
+- Prise en charge de l'asplénique: antibioprophylaxie par pénicilline V Oracilline® 1 MUI 1 cp x 2/j pendant 2 ans (5 ans chez l'enfant)
+- 6 vaccinations recommandées contre l'immunodépression: {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}}, méningocoques B et ACYW135, grippe, Covid 19 et *Haemophilus*
 - Les vaccins doivent être injectés dans les 2 à 6 semaines d'une splénectomie en urgence (ou au moins 2 semaines avant une splénectomie programmée)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Asplénie
-: Absence de la rate ou rate non fonctionnelle à l'origine d'une immunodépression sévère avec sensibilité particulière aux bactéries (pneumocoque, méningocoque et Haemophilus ++).
+: Absence de la rate ou rate non fonctionnelle à l'origine d'une immunodépression sévère avec sensibilité particulière aux bactéries (pneumocoque, méningocoque et *Haemophilus* ++).
 
 ### Étiologie de l'asplénie
 
@@ -79,25 +80,25 @@ Antibiothérapie par [Oracilline®](https://base-donnees-publique.medicaments.go
 {{% /collapse %}}
 {{%collapse "Vaccinations après splénectomie" %}}
 
-### Mémo des vaccins recommandés en cas d'asplénie
+### Vaccins recommandés en cas d'asplénie
 
 Vaccins à réaliser avant voire après une splénectomie.
 
 {{< table title="Synthèse des vaccins à administrer en cas d'asplénie selon Calendrier vaccinal 2022 et HCSP 2014" class="table-wrap" >}}
 | Germe           | Primo-vaccination            | Rappel           |
 |-----------------|------------------------------|------------------|
-| Pneumocoque     | Prevenar13 puis Pneumovax M2 | Pneumovax /5 ans |
+| {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} | Prevenar13 puis Pneumovax M2 | Pneumovax tous les 5 ans |
 | Méningocoque B  | Bexsero (/Trumenba) à M0M2   |                  |
 | Méningo ACYW135 | Menveo/Nimenrix à M0M6       | Tous les 5 ans   |
-| *H. influenzae* | Âge < 6 ans: ACT-HIB         |                  |
+| *H. influenzae* | ACT-HIB                      |                  |
 | Grippe          | 1 dose                       | Annuel           |
 | Covid-19        | Recommandations en vigueur   |                  |
 {{< /table >}}
 
-### Quand vacciner?
+### Quand vacciner ?
 
 - Splénectomie programmée  
-  Vaccination ≥ 2 semaines avant l'intervention.
+  Vaccination au moins 2 semaines avant l'intervention.
 - Splénectomie en urgence  
   Vaccination 2 à 6 semaines après l'intervention (immédiat si risque de perdu de vue).
 
@@ -130,7 +131,7 @@ Rappel par Pneumovax® tous les 5 ans.
 
 #### *Haemophilus influenzae* type B
 
-Vaccin [ACT-HIB®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61104024&typedoc=R) dose unique avant l'âge de 6 ans.
+Vaccin [ACT-HIB®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61104024&typedoc=R) dose unique (hors AMM après 6 ans).
 
 #### Grippe saisonnière
 
@@ -159,11 +160,14 @@ L'asplénie (par splénectomie ou autre) induit un risque infectieux majeur néc
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
+- Collège des enseignants d'hématologie. Splénomégalie. Item 275. 2021.
+- [Medqual. Vaccination du patient immunodéprimé. 2019. (PDF)](http://www.medqual.fr/images/slideshow/ATBR_Vaccin_04.pdf)
 - [HCSP. Vaccination des personnes immunodéprimées ou aspléniques. Recommandations actualisées. 2014.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
 - [Omedit Centre. Prévention des infections chez le splénectomisé et dans l'asplénie fonctionnelle. 2010. (PDF)](http://www.omedit-centre.fr/portail/gallery_files/site/136/2953/5062/5198.pdf)
 
-### À lire
-
-[Medqual. Vaccination du patient immunodéprimé. Juin 2019.](http://www.medqual.fr/images/slideshow/ATBR_Vaccin_04.pdf)
-
 {{%/sources%}}
+{{% modal title="Vaccin pneumocoque" id="modal-pneumocoque"%}}
+
+{{< traitements/vaccin-pneumocoque >}}
+
+{{% /modal %}}

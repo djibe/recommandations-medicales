@@ -1,32 +1,32 @@
 +++
 title = "Prise en charge d'une splénomégalie"
 prefix = "la "
-noindex = true
 description = "Recommandations pour la prise en charge d'une splénomégalie. Orientation diagnostique devant une splénomégalie: NFS, bilan hépatique, échographie abdominale"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-27T17:43:41+02:00"
 publishdate = "2022-06-27"
-lastmod = "2022-06-27"
+lastmod = "2023-01-31"
 specialites = ["hematologie"]
-annees = "2010"
-sources = ["UMVF"]
+annees = "2021"
+sources = ["Collège"]
 tags = []
 anglais = ["Splenomegaly"]
 sctid = "16294009"
 flowchart = true
 image = true
 imageSrc = "Splénomégalie modérée (22 cm de grand axe) chez un patient de 60 ans avec cirrhose hépatique connue. Cas de Bickle I. sur Radiopaedia.org rID-52825"
-todo = "SEO, source on flowchart, tableau avec anomalies biologiques"
+todo = "Fig 13.2 p.209, source on flowchart, tableau avec anomalies biologiques"
 +++
 
 {{%article-summary%}}
 
-*Ébauche de chapitre*
-
-- Signes d'orientation étiologique
-- Bilan biologique et échographique
-- Avis spécialisé
+- Une rate palpable est pathologique et nécessite systématiquement un bilan
+- Interrogatoire et examen clinique d'orientation étiologique de la splénomégalie
+- Échographie abdominale et bilan biologique: NFS, CRP, fibrinogène, frottis sanguin, réticulocytes, bilan hépatique, bilirubine totale et libre, haptoglobine, LDH, test de Coombs direct, TP, électrophorèse des protéines sériques
+- La prise en charge de la splénomégalie est celle de la maladie causale
+- Avis hématologique devant une splénomégalie isolée sans signe d'orientation
+- La splénectomie entraîne un sur-risque infectieux majeur par [asplénie]({{< relref "asplenie.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -41,14 +41,22 @@ Rôles de la rate: immunologique, réservoir de plaquettes et globules blancs, s
 - Lobe gauche hépatique volumineux
 - [Tumeur gastrique]({{< relref "cancer-estomac.md" >}}) (grande courbure)
 - [Tumeur du pancréas]({{< relref "cancer-pancreas.md" >}}) (queue)
-- Tumeur colique (angle gauche)
+- [Tumeur colique]({{< relref "cancer-colorectal.md" >}}) (angle gauche)
 - Adénopathie mésentériques ou rétro-péritonéales
 - Surrénale hypertrophiée
+
+### Abréviations
+
+NFS
+: numération formule sanguine (ou hémogramme)
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Orientation diagnostique devant une splénomégalie" %}}
 
 Causes les plus fréquentes de splénomégalie: **maladies hépatiques** (hypersplénisme), **hématologiques** (aiguës et chroniques) et **infectieuses** (parasitaires surtout).
+
+Orientation devant une splénomégalie selon le tableau clinique.
 
 ### Contexte fébrile
 
@@ -57,7 +65,7 @@ La splénomégalie n'est qu'un symptôme:
 - Bactérien
   Septicémies (cirrhose décompensée), typhoïde, [tuberculose]({{< relref "tuberculose.md" >}}), [maladie d'Osler]({{< relref "endocardite.md" >}}).
 - Viral  
-  Mononucléose infectieuse, [VIH]({{< relref "vih-sida.md" >}}), hépatite virale.
+  Mononucléose infectieuse, [VIH]({{< relref "vih-sida.md" >}}), [hépatite virale](/tags/hepatite/).
 - Parasitaire  
   [Paludisme aigu]({{< relref "paludisme.md" >}}), leishmaniose viscérale.
 - Tumorale  
@@ -80,7 +88,7 @@ La splénomégalie n'est qu'un symptôme:
 - Cirrhose
 - Blocs sus-hépatiques (syndrome de Budd-Chiari)
 - Blocs sous-hépatiques  
-  Adénopathies retro-péritonéales, [tuberculose]({{< relref "tuberculose.md" >}}), lymphome, métastases, cancers de la tête du pancréas, pancréatite chronique.
+  Adénopathies retro-péritonéales, [tuberculose]({{< relref "tuberculose.md" >}}), lymphome, métastases, [cancers de la tête du pancréas]({{< relref "cancer-pancreas.md" >}}), pancréatite chronique.
 
 ### Grosses rates isolées
 
@@ -98,31 +106,36 @@ Le diagnostic de splénomégalie est clinique.
 
 ### Interrogatoire
 
-- Antécédents
+- Antécédents personnels et familiaux
 - Traitements en cours
+- Consommation d'alcool
+- Séjours en pays tropicaux
+- Risque d'exposition au VIH
 - Syndrome infectieux  
-  Notion de fièvre, frissons
-- Pesanteur ou douleur de l'hypochondre gauche, augmentée en inspiration profonde, irradiation vers l'épaule gauche
+  Notion de fièvre, frissons.
+- Symptômes  
+  Pesanteur ou douleur de l'hypochondre gauche, augmentée en inspiration profonde, irradiation vers l'épaule gauche.
 - Troubles digestifs ou vésicaux  
   Gêne postprandiale, douleur, constipation.
 
 ### Examen clinique
 
-- Rate palpée en décubitus dorsal ou latéral. Masse antérieure superficielle de l'hypocondre gauche, bord crénelé, grand axe oblique en bas en dedans, s'abaissant à l'inspiration et sans contact lombaire
-- Recherche hépatomégalie
-- Ictère cutanéomuqueux
+- Examen de la rate  
+  Rate palpée en décubitus dorsal ou latéral. Masse antérieure superficielle de l'hypocondre gauche, bord crénelé, grand axe oblique en bas en dedans, s'abaissant à l'inspiration et sans contact lombaire. Taille mesurée par rapport au débord costal (en cm).
+- Rechercher une hépatomégalie
 - Signes d'hypertension portale  
   {{< clinique/hypertension-portale >}}
-- Purpura ou autre atteinte hématologique
+- Ictère cutanéomuqueux et ascite
+- Purpura, [angine pseudo-membraneuse]({{< relref "angine.md" >}})
 - Adénopathies périphériques
 
 ### Symptômes des complications spléniques
 
 Infarctus splénique
-: Douleurs du flanc et/ou basithoraciques gauches. Fièvre souvent présente. Diagnostic échographique ou scannographique.
+: Douleurs du flanc et/ou basithoraciques gauches. Fièvre souvent présente. Diagnostic échographique ou scanographique.
 
 Rupture de rate
-: Tableau de choc hémorragique, souvent précédé de douleurs. Urgence vitale.
+: Tableau de choc hémorragique souvent précédé de douleurs en hypochondre gauche. Urgence vitale.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -132,56 +145,67 @@ Rupture de rate
 ### Bilan de première intention devant une splénomégalie
 
 - NFS, CRP, fibrinogène
-- Test de Coombs direct
+- Frottis sanguin
+- Réticulocytes
 - ASAT, ALAT, GGT, PAL
+- Bilirubine totale et libre, haptoglobine, LDH, test de Coombs direct (test à l'antiglobuline)
 - TP
-- Bilirubine totale et libre, haptoglobine
 - Électrophorèse des protéines sériques
-- Échographie abdominale
+- **Échographie abdominale**
 {{%/info%}}
 
-Selon le tableau: hémocultures ou recherche de paludisme.
+Selon le tableau: hémocultures ou recherche de [paludisme en urgence]({{< relref "paludisme.md" >}}).
 
 ### Anomalies biologiques
 
 - Leucocytes
   - Polynucléose neutrophile: infection bactérienne
   - Leucopénie: infection virale, typhoïde ou brucellose
-  - Hyperleucocytose et lymphocytose du jeune: syndrome mononucléosique
+  - Hyperlymphocytose du jeune: syndrome mononucléosique
+  - Hyperlymphocytose chronique après 40 ans: syndrome myéloprolifératif
   - Hyperleucocytose franche et polynucléose neutrophile et myélémie: syndrome myéloprolifératif
+  - Leucopénie (2-4 G/L, thrombopénie) par hypersplénisme
 - Érythrocytes
-  - Macrocytose isolée ou anémie macrocytaire arégénérative: hépatopathie voire hémopathie
+  - Macrocytose isolée ou anémie macrocytaire arégénérative: hépatopathie (voire hémopathie)
   - Anémie régénérative: hémolyse constitutionnelle (frottis) ou acquise (Coombs direct)
   - Polyglobulie: syndrome myéloprolifératif
 - Plaquettes
-  - Thrombopénie: hypersplénisme voire hémopathie
+  - Thrombopénie: hypersplénisme (thrombopénie 50–90 G/L, leucopénie), infection, lupus voire hémopathie
 
 ### Échographie abdominale
 
-Bilan initial devant une splénomégalie.  
-Permet de ne pas confondre avec un gros rein gauche ou les autres organes de la région.  
+L'échographie abdominale est l'examen d'imagerie de référence devant une splénomégalie.
+
+Elle permet de ne pas confondre avec un gros rein gauche ou les autres organes de la région.  
 La rate normale ne dépasse pas 14 x 12 x 8 cm (l x L x h).
+
+Avis hématologique devant une splénomégalie isolée sans signe d'orientation
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Traitement de la splénomégalie" %}}
 
-Traitement étiologique.
+La prise en charge de la splénomégalie est uniquement étiologique et dépend donc des examens complémentaires.
 
-### Chirurgical: la splénectomie
+### Traitement chirurgical: la splénectomie
 
-Indications à la chirurgie de la rate:
+Indications à une splénectomie:
 
 - Maladie de Minkowski-Chauffard
 - Anémies hémolytiques auto-immunes cortico-résistantes
 - Purpuras thrombopéniques cortico-résistants ou cortico-dépendants
-- Splénomégalie mal tolérée (douleurs, hypersplénisme important, résistance à la chimiothérapie dans les hémopathies malignes (LMNH,  LLC, leucémie à tricholeucocytes).
+- Splénomégalie mal tolérée  
+  Douleurs, hypersplénisme important, résistance à la chimiothérapie dans les hémopathies malignes.
+- Splénectomie diagnostique
 
-Risque chirurgical dans  les  cirrhoses, la splénomégalie myéloïde.
+Risque chirurgical au cours des cirrhoses ou de la splénomégalie myéloïde.
+
+La splénectomie entraîne un sur-risque infectieux majeur par [asplénie]({{< relref "asplenie.md" >}}).
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir chez l'adulte" "show" %}}
+{{%collapse "Conduite à tenir devant une splénomégalie" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une splénomégalie chez l'adulte" >}}
+{{< mermaid title="Conduite à tenir et prise en charge d'une splénomégalie de l'adulte" >}}
 graph TB
   SM[Splénomégalie de l'adulte] --> bio("- NFS, CRP, fibrinogène<br>- BH, bili, TP, EPS<br>- Coombs direct<br>- Échographie abdominale<br><br>+")
   style SM stroke:#4150f5, stroke-width:1px
@@ -193,12 +217,12 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-UMVF. Item 332 : Orientation diagnostique devant une splénomégalie. 2010. (PDF)
+- Collège des enseignants d'hématologie. Splénomégalie. Item 275. 2021.
+- UMVF. Orientation diagnostique devant une splénomégalie. Item 332. 2010.
 
 ### À lire
 
 - [Barlogis V. Splénomégalie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/hepato-gastro/splenomegalie)
-- SFH
 - Collège médecine interne
 
 {{%/sources%}}

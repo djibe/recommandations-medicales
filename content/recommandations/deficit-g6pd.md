@@ -58,7 +58,7 @@ Nécessité d'un bilan biologique en urgence
   - Hémoglobinurie  
     Urines foncées, rouge << porto >> voire noires.
   - Ictère
-- Splénomégalie en hémolyse chronique
+- [Splénomégalie]({{< relref "splenomegalie.md" >}}) en cas d'hémolyse chronique
 
 Ou chez le nourrisson: ictère néonatal.
 

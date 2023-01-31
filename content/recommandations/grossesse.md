@@ -156,7 +156,7 @@ AET
 | Allaitement           |                               500 |
 {{< /table >}}
 
-> *[Anses. Avis de de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail relatif à l'actualisation des repères alimentaires du PNNS pour les femmes enceintes ou allaitantes. 2019. (PDF)](https://www.anses.fr/fr/system/files/NUT2017SA0141.pdf)*
+> *[Anses. Avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail relatif à l'actualisation des repères alimentaires du PNNS pour les femmes enceintes ou allaitantes. 2019. (PDF)](https://www.anses.fr/fr/system/files/NUT2017SA0141.pdf)*
 
 Il est déconseillé de descendre sous 1600 kcal/j (même si obésité, *[Eades et al 2017](https://pubmed.ncbi.nlm.nih.gov/28531829/)*)
 

@@ -9,7 +9,7 @@ date = "2021-04-18T18:48:00+02:00"
 publishdate = "2021-04-21"
 lastmod = "2023-01-13"
 specialites = ["dermatologie"]
-annees = "2023"
+annees = "2021"
 sources = ["CMIT", "CSHP", "SFDermato"]
 tags = ["prurit"]
 anglais = ["Pediculosis", "head lice"]
@@ -47,6 +47,9 @@ Autres pédiculoses:
 
 CMIT
 : Collège des Universitaires des Maladies Infectieuses et Tropicales
+
+CSHP
+: Conseil Supérieur d'Hygiène Publique de France
 {.dl-inline}
 
 {{% /collapse %}}
@@ -133,7 +136,7 @@ Nota bene:
 - [CMIT. Gale et pédiculose. Item 171. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-171-web.pdf)
 - [Jegou-Penouil MH. Les poux. dermato-info. 02/12/2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/les-poux)
 - [Chosidow O.; SFDermato. Prise en charge de la pédiculose du cuir chevelu en 2019 en France. Mise au point. Novembre 2019. (PDF)](https://www.sfdermato.org/media/pdf/actualite/note-pediculos-sfd-gridist-51283d08cd07c9ac26310a6d2669ff30.pdf)
-- Prescrire Redaction. Pédiculose du cuir chevelu - Premiers Choix Prescrire, actualisation mai 2019. Rev Prescrire 2019.
+- Prescrire Redaction. Pédiculose du cuir chevelu. Premiers Choix Prescrire. Rev Prescrire. 2019.
 - [Collège des enseignants de dermatologie de France (CEDEF). Ectoparasitoses cutanées : gale et pédiculose. Item 167 UE 6. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/15-Item-167-UE6-Ectoparasitoses-cutanees-gale-et-pediculose.pdf)
 - [Conseil Supérieur d'Hygiène Publique de France. Avis relatif à la conduite à tenir devant un sujet atteint de pédiculose du cuir chevelu. 27/06/2003. (PDF)](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=a_mt_270603_pediculose.pdf)
 

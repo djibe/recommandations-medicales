@@ -598,6 +598,8 @@ La prescription dépend uniquement du pneumologue:
 
 ### À lire
 
+- [SPLF. Plans d'action de l'asthme](https://splf.fr/plans-daction-dans-lasthme/)
+- [Collège de la Médecine Générale (CMG). Asthme de l'adulte et de l'enfant de plus de 12 ans : prévenir les exacerbations. 2021. (PDF)](https://lecmg.fr/wp-content/uploads/2021/05/Asthme-de-ladulte-et-de-lenfant-2021.pdf)
 - [Inserm. Asthme : Portraits-robots des personnes à risque. 10/10/2022.](https://www.inserm.fr/actualite/asthme-portraits-robots-des-personnes-a-risque/)
 - [Collège des Enseignants de Pneumologie (CEP). Hypersensibilités et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_188_ASTHME-RHINITE_2021_ex_item_1841.pdf)
 - [Louis R. et al. European Respiratory Society Guidelines for the Diagnosis of Asthma in Adults. European Respiratory Journal. 2022.](https://erj.ersjournals.com/content/early/2022/02/03/13993003.01585-2021?ct)

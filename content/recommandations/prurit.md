@@ -161,7 +161,7 @@ Aux jambes, différencier de paresthésies ou impatiences (évocatrices de [jamb
 - Recherche de lésions élémentaires
 - Zones de grattage
 - Dermographisme
-- Hépatomégalie, splénomégalie
+- Hépatomégalie, [splénomégalie]({{< relref "splenomegalie.md" >}})
 - Adénopathies palpables
 
 {{% /collapse %}}

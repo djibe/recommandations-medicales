@@ -104,7 +104,7 @@ Orientation diagnostique et étiologie d'une hyperferritinémie.
   - Syndrome ferritine-cataracte  
     HF familiale, CST normal, pas de surcharge, mutations du gène de la L-ferritine.
   - Maladie de Gaucher  
-    CST normal, pas de surcharge, splénomégalie.
+    CST normal, pas de surcharge, [splénomégalie]({{< relref "splenomegalie.md" >}}).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
