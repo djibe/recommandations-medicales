@@ -17,7 +17,7 @@ sctid = "266261006"
 flowchart = true
 image = true
 imageSrc = "Photos du syndrome de Raynaud par Tcal via wikipedia, CC BY-SA 3.0"
-todo = "SEO dont 'syndrome de raynaud bilan', lire https://www.em-consulte.com/article/833156/article/bilan-etiologique-minimal-du-phenomene-de-raynaud%C2%A0"
+todo = "SEO dont 'syndrome de raynaud bilan', revoir flowchart anti-scl, lire https://www.em-consulte.com/article/833156/article/bilan-etiologique-minimal-du-phenomene-de-raynaud%C2%A0"
 +++
 
 {{%article-summary%}}

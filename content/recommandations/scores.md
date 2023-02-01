@@ -26,11 +26,12 @@ Sélection de grilles et scores essentiels en pratique quotidienne de médecine 
 
 ## Cardiovasculaire {.typography-overline}
 
-- [Carnet international d'automesure tensionnelle (PDF)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
-- {{< modal-btn modal-tvp >}}Score de Wells, Constans et LEFt pour la grossesse{{< /modal-btn >}}
-- {{< modal-btn modal-depistage-prevalent >}}Critères de dépistage de l'AOMI chez le +55 ans{{< /modal-btn >}}
-- {{< modal-btn modal-saos >}}Critères de dépistage des apnées du sommeil{{< /modal-btn >}}
-- {{< modal-btn modal-chads >}}Score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}}
+HTA: [carnet international d'automesure tensionnelle (PDF)](https://www.stridebp.org/images/training_bp/HBPM_Form_for_patients.pdf)
+
+- ACFA: {{< modal-btn modal-chads >}}score CHA<sub>2</sub>DS<sub>2</sub>-VASc{{< /modal-btn >}}
+- AOMI: {{< modal-btn modal-depistage-prevalent >}}critères de dépistage chez le +55 ans{{< /modal-btn >}}
+- Apnées du sommeil: {{< modal-btn modal-saos >}}critères de dépistage{{< /modal-btn >}}
+- Phlébite: {{< modal-btn modal-tvp >}}Score de Wells, Constans et LEFt pour la grossesse{{< /modal-btn >}}
 - Risque cardiovasculaire
   - Calcul du {{< scores/heartscore >}}
   - {{< modal-btn modal-rcv >}}Risque cardiovasculaire et LDL cible{{< /modal-btn >}}
