@@ -1,7 +1,7 @@
 +++
-title = "Reflux gastro-œsophagien"
+title = "Reflux gastro-œsophagien (RGO)"
 prefix = "le "
-titleSeo = "Reflux gastro-œsophagien"
+titleSeo = "Reflux gastro-œsophagien RGO"
 description = "Recommandations pour la prise en charge du Reflux gastro-œsophagien RGO. Signes d'alerte, examen complémentaire par endoscopie, traitement par anti-acide et IPP"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
@@ -12,7 +12,7 @@ lastmod = "2022-11-07"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2018"
 sources = ["SNFGE"]
-tags = ["EOGD", "IPP", "SAS", "toux"]
+tags = ["EOGD", "grossesse", "IPP", "SAS", "toux"]
 anglais = ["Gastroesophageal reflux disease (GERD)"]
 sctid = "235595009"
 image = true
@@ -324,5 +324,9 @@ Favorisée par l'obésité et une hernie hiatale.
 - [SNFGE. Traitement du RGO. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
 - [SNFGE. Reflux gastro-œsophagien (RGO)](https://www.snfge.org/content/reflux-gastro-oesophagien-rgo)
 - [Gyawali CP et al. Modern diagnosis of GERD: the Lyon Consensus. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6031267/)
+
+### À lire
+
+{{< references/college-gastro >}}
 
 {{%/sources%}}

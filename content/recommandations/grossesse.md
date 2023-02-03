@@ -7,17 +7,17 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-01-03"
-lastmod = "2023-01-03"
+lastmod = "2023-02-03"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF", "SFD"]
-tags = ["depistage", "prevention"]
+tags = ["depistage", "grossesse", "prevention"]
 anglais = []
 sctid = ""
 draft = true
 image = false
 imageSrc = ""
-todo = "HTA gravidique"
+todo = "HTA gravidique, calcium cible"
 +++
 
 {{%article-summary%}}
@@ -27,12 +27,20 @@ todo = "HTA gravidique"
 
 Chapitres dédiés:
 
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - [Acné pendant la grossesse]({{< relref "acne.md" >}})
+- [Anémie]({{< relref "anemie.md" >}})
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et de l'[alcool]({{< relref "sevrage-alcool.md" >}})
+- [Candidoses pendant la grossesse]({{< relref "mycoses-dermatophytes-candidoses.md" >}})
 - [Contraception du post-partum]({{< relref "contraception.md" >}})
+- [Covid-19 à haut risque de forme grave]({{< relref "covid-19.md" >}})
 - [Diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
+- [Écoulement mamelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
 - [Infection urinaire pendant la grossesse]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
 - [Interruption volontaire de grossesse]({{< relref "interruption-volontaire-grossesse.md" >}})
+- [Phlébite et score LEFt pendant la grossesse]({{< relref "thrombose-veineuse-profonde.md" >}})
+- [Reflux pendant la grossesse]({{< relref "reflux-gastro-oesophagien.md" >}})
+- [Syndrome du canal carpien]({{< relref "varicelle.md" >}})
+- [Varicelle pendant la grossesse]({{< relref "varicelle.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Médicaments et vaccins pendant la grossesse" %}}

@@ -1,12 +1,13 @@
 +++
 title = "Prise en charge d'une splénomégalie"
 prefix = "la "
+titleSeo = "splénomégalie"
 description = "Recommandations pour la prise en charge d'une splénomégalie. Orientation diagnostique devant une splénomégalie: NFS, bilan hépatique, échographie abdominale"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-27T17:43:41+02:00"
 publishdate = "2022-06-27"
-lastmod = "2023-01-31"
+lastmod = "2023-02-03"
 specialites = ["hematologie"]
 annees = "2021"
 sources = ["Collège"]
@@ -16,7 +17,6 @@ sctid = "16294009"
 flowchart = true
 image = true
 imageSrc = "Splénomégalie modérée (22 cm de grand axe) chez un patient de 60 ans avec cirrhose hépatique connue. Cas de Bickle I. sur Radiopaedia.org rID-52825"
-todo = "Fig 13.2 p.209, source on flowchart"
 +++
 
 {{%article-summary%}}
@@ -132,7 +132,7 @@ Le diagnostic de splénomégalie est clinique.
 ### Symptômes des complications spléniques
 
 Infarctus splénique
-: Douleurs du flanc et/ou basithoraciques gauches. Fièvre souvent présente. Diagnostic échographique ou scanographique.
+: Douleurs aiguë de l'hypochondre gauche (du flanc ou basithoracique gauche). Fièvre souvent présente. Diagnostic échographique ou scanographique.
 
 Rupture de rate
 : Tableau de choc hémorragique souvent précédé de douleurs en hypochondre gauche. Urgence vitale.
@@ -205,24 +205,24 @@ La splénectomie entraîne un sur-risque infectieux majeur par [asplénie]({{< r
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une splénomégalie" "show" %}}
 
-{{< mermaid title="Conduite à tenir et prise en charge d'une splénomégalie de l'adulte" >}}
+{{< mermaid title="Conduite à tenir et prise en charge d'une splénomégalie de l'adulte. Dr JB Fron d'après Collèges" >}}
 graph TB
   SM[Splénomégalie de l'adulte] --> bio("- NFS, CRP, fibrinogène<br>- BH, bili, TP, EPS<br>- Coombs direct<br>- Échographie abdominale<br><br>+")
   style SM stroke:#4150f5, stroke-width:1px
-    bio --> aigu("Tableau aigu<br>Fièvre, ADP, cardio,<br>éruption, ictère, angine") --> aiguBio("Hémoccultures<br>Sérologies virales?")
-    bio --> hepatique("Hépatique<br>Hépatite, alcool, ictère<br>HTP, ascite") --> hepatiqueBio("Anomalies au 1er bilan")
-    bio --> hemopathies("Hémopathies<br>ADP, anémie, hémorragies,<br>ictère, fièvre") --> hemopathiesBio("Myélogramme<br>Biopsie médullaire<br>RxT<br>Scanner TA")
+    bio --> aigu("<b>Tableau aigu</b><hr>Fièvre, ADP, cardio,<br>éruption, ictère, angine") --> aiguBio("- Hémoccultures<br>- Sérologies virales<br>- Typhoïde<br>- Endémie: leishmaniose")
+    bio --> hepatique("<b>Hépatique</b><hr>Hépatite, alcool, ictère<br>HTP, ascite") --> hepatiqueBio("Anomalies au 1<sup>er</sup> bilan")
+    bio --> hemopathies("<b>Hémopathies</b><hr>Polyadénopathie,<br>anémie, hémorragies,<br>ictère, fièvre") --> hemopathiesBio("- Myélogramme<br>- Biopsie médullaire<br>- Radio thorax<br>- Scanner TAP") --> avis
+    bio --> hemato(Hémogramme<br>pathologique<br>ou splénomégalie<br>isolée) --> avis(Avis hémato)
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
 - Collège des enseignants d'hématologie. Splénomégalie. Item 275. 2021.
-- UMVF. Orientation diagnostique devant une splénomégalie. Item 332. 2010.
+- Collège National des Enseignants de Médecine Interne (CEMI). Splénomégalie. Item 275. 2021.
 
 ### À lire
 
-- [Barlogis V. Splénomégalie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/hepato-gastro/splenomegalie)
-- Collège médecine interne
+[Barlogis V. Splénomégalie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/hepato-gastro/splenomegalie)
 
 {{%/sources%}}

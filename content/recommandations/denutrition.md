@@ -345,13 +345,12 @@ graph TB
 
 ### À lire
 
+- {{< references/college-gastro >}} ou papier ?
 - [Hankard R.; SFP. Établir une stratégie nutritionnelle chez un enfant dénutri. 2017.](https://pap-pediatrie.fr/hepato-gastro/etablir-une-strategie-nutritionnelle-chez-un-enfant-denutri)
 - [Hankard R. et al; SFP. Dépister la dénutrition de l'enfant en pratique courante. 2012. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/recos-sfp-cn_depistage_denutrition_oct_2012_0.pdf)
 - [Société Francophone de Nutrition Clinique et Métabolisme - Référentiels](https://www.sfncm.org/outils-education/recommandations/referentiels)
 - [SFNCM. Dénutrition chez l'adulte de 18 à 69 ans et la personne de 70 ans et plus. (PDF)](https://www.ameli.fr/sites/default/files/Documents/Affiche_D%C3%A9nutrtion_SFNCM_14.pdf)
 - [Lutte contre la dénutrition](https://www.luttecontreladenutrition.fr/)
-
-[Webinaire à venir: Troubles de la déglutition - Le plaisir de manger quand tout passe mal](https://www.iledefrance.ars.sante.fr/webinaire-troubles-de-la-deglutition-le-plaisir-de-manger-quand-tout-passe-mal)
 
 {{%/sources%}}
 {{% modal title="Définition de la sarcopénie" id="modal-sarcopenie"%}}

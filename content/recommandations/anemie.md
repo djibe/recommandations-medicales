@@ -11,7 +11,7 @@ lastmod = "2023-01-24"
 specialites = ["hematologie"]
 annees = "2021"
 sources = ["BSG", "SNFGE"]
-tags = ["AINS", "depistage", "EOGD", "fatigue", "ferritine", "prurit", "vertige"]
+tags = ["AINS", "depistage", "EOGD", "grossesse", "fatigue", "ferritine", "prurit", "vertige"]
 anglais = ["Iron deficiency anemia"]
 sctid = "87522002"
 flowchart = true
@@ -34,7 +34,7 @@ todo = "red flags NICE 23-24-184, Prescrire, risque K src 11-25-63, indication t
 {{%collapse "Définitions" %}}
 
 Anémie
-: Hémoglobinémie (au niveau de la mer) chez la femme < 12 g/dL (11 en grossesse) ou < 13 g/dL chez l'homme (*OMS 2011*). Elle entraîne une augmentation de la morbi-mortalité et une réduction de la qualité de vie.
+: Hémoglobinémie (au niveau de la mer) chez la femme < 12 g/dL (11 si grossesse) ou < 13 g/dL chez l'homme (*OMS 2011*). Elle entraîne une augmentation de la morbi-mortalité et une réduction de la qualité de vie.
 : La carence martiale (CM) est la 1<sup>re</sup> cause d'anémie (2-5% chez les adultes d'âge moyen, 20% des femmes en âge de procréer) et atteint 50% des femmes enceintes après 25 SA. La *thalassémie* (anémie microcytaire hypochrome mais régénérative) se présente sous le même tableau.  
 La carence martiale *non anémique* est fréquente (50% des femmes avec ménorragies).
 : L'*hypochromie* et la *microcytose* typiques de la carence en fer sont absentes en cas de maladie chronique ou carence concomitante en vitamines B9 ou 12. L'anémie ferriprive est toujours **arégénérative** (réticulocytes sans intérêt).

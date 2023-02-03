@@ -17,7 +17,7 @@ sctid = "103735009"
 draft = true
 image = false
 imageSrc = ""
-todo = "SFAP, Cancer info, Ligue cancer, directives anticipées, personne confiance, ESMO"
+todo = "SFAP, Cancer info, Ligue cancer, directives anticipées, personne confiance, ESMO, https://pubmed.ncbi.nlm.nih.gov/32429507/"
 +++
 
 {{%article-summary%}}
