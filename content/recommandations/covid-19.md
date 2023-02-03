@@ -8,9 +8,9 @@ synonyms = ["CoViD-19"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2022-11-07"
+lastmod = "2023-02-03"
 specialites = ["infectiologie"]
-annees = "2022"
+annees = "2023"
 sources = ["HAS", "HCSP", "MinSanté"]
 tags = ["vaccin"]
 anglais = ["CoViD-19"]
@@ -169,7 +169,7 @@ Ordonnance: 20 masques FFP2 pour 2 semaines ou 50 masques FFP2 pour 5 semaines
 > *DGS Urgent 2022-21* et [Ameli.fr](https://www.ameli.fr/assure/actualites/covid-19-les-personnes-immunodeprimees-peuvent-beneficier-de-masques-ffp2-sans-avance-de-frais)
 
 {{%/collapse%}}
-{{%collapse "Séquelles" %}}
+{{%collapse "Séquelles du Covid" %}}
 
 Atteintes possibles après une infection à Sars-Cov-2.
 
@@ -193,7 +193,7 @@ Atteintes possibles après une infection à Sars-Cov-2.
 {{%/collapse%}}
 {{%collapse "Certificats" %}}
 
-> << L'Ordre rappelle que les médecins n'ont pas à établir de certificat médical pour le retour à l'école. >> [CNOM. 11/09/2020](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificat-medical-lecole)
+> << L'Ordre rappelle que les médecins n'ont pas à établir de certificat médical pour le retour à l'école. >> *[CNOM 11/09/2020](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificat-medical-lecole)*
 
 {{%/collapse%}}
 {{%collapse "Vidéos" %}}

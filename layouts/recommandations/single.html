@@ -41,7 +41,7 @@
             decoding="async"
             importance="high"
             fetchpriority="high"
-            alt="Image de {{ .Title }}">
+            alt="{{ if .Params.Image }}{{ .Params.ImageSrc }}{{ else }}{{ end }}">
         </a>
           {{ with .Params.ImageSrc }}
             <figcaption class="figure-caption px-2">{{ . }}</figcaption>

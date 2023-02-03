@@ -53,7 +53,7 @@ Indications à la réalisation de l'électrophorèse des protéines sériques (E
   {{%class%}}En dehors de la grossesse et en tenant compte de l'âge.{{%/class%}}
 - Hypercalcémie  
   {{%class%}}Corrigée en fonction de l'albuminémie/protidémie.{{%/class%}}
-- Insuffisance rénale récente non obstructive
+- [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) récente non obstructive
 - Protéinurie > 0,5 g/L
 - Certaines anomalies osseuses radiologiques  
   Fracture vertébrale suspecte, fracture pathologique, géodes.

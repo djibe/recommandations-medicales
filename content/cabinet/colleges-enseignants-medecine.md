@@ -40,7 +40,7 @@ Le tableau ci-dessous liste tous les référentiels disponibles en téléchargem
 | Pédiatrie | CNPU<br><small>Collège National des Pédiatres Universitaires</small> | 2021 | [lien](https://www.pedia-univ.fr/deuxieme-cycle/referentiel) |
 | Pneumologie | CEP<br><small>Collège des Enseignants de Pneumologie</small> | 2021 | [lien](http://cep.splf.fr/edition-2021-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-ecn-7eme-edition/) |
 | Psychiatrie | CNUP<br><small>Collège National Universitaire de Psychiatrie </small> | 2021 | [lien](https://www.cunea.fr/sites/default/files/ref_psy_add_def_2021.pdf) |
-| Rhumatologie | COFER<br><small>COllège Français des Enseignants en Rhumatologie</small> | 2020 | [lien](http://www.lecofer.org/liste-des-items-ecn.php) |
+| Rhumatologie | COFER<br><small>Collège Français des Enseignants en Rhumatologie</small> | 2020 | [lien](http://www.lecofer.org/liste-des-items-ecn.php) |
 | Urologie | CFEU<br><small>Collège Français des Enseignants en Urologie</small> | 2021 | [lien](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/) |
 {{< /table >}}
 
@@ -68,7 +68,7 @@ Pour ne pas les citer:
 - Collège des Enseignants de la Douleur (CED)
 - Collège National des Enseignants de Médecine Légale (CNEML), Collège des Enseignants Hospitalo-Universitaires de Médecine et Santé au Travail (CEHUMT), Société Française de Médecine Légale (SFML)
 - Collège national des Enseignants de Médecine Interne (CEMI)
-- Collège des Enseignants de Médecine de la Douleur (CEMD), Collège National des Enseignants pour la Formation Universitaire en Soins Palliatifs (CNEFUSP), Société Française d’Anesthésie et de Réanimation (SFAR)
+- Collège des Enseignants de Médecine de la Douleur (CEMD), Collège National des Enseignants pour la Formation Universitaire en Soins Palliatifs (CNEFUSP), Société Française d'Anesthésie et de Réanimation (SFAR)
 - Collège Universitaire des Enseignants de Néphrologie (CUEN)
 - Collège des Enseignants de Nutrition des Facultés de Médecine (CEN)
 - Association Française des Enseignants de Parasitologie-Mycologie (ANOFEL)
