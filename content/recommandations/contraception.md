@@ -64,7 +64,7 @@ const chartOptions2 = {
     {
       title: { text: 'Enfants par femme' },
       decimalsInFloat: 2,
-      min: 1
+      min: 1,
     }
   ]
 }

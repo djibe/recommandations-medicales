@@ -15,7 +15,7 @@ anglais = ["Erectile dysfunction"]
 sctid = "860914002"
 image = true
 imageWEBP = true
-imageSrc = "scientificanimations.com, CC BY-SA 4.0"
+imageSrc = "Illustration de la dysfonction érectile par scientificanimations.com, CC BY-SA 4.0"
 todo = "SEO, https://www.sfcardio.fr/publication/chemin-clinique-pour-le-depistage-et-la-prise-en-charge-de-la-dysfonction-erectile-des"
 +++
 

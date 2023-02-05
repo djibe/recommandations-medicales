@@ -8,7 +8,7 @@ synonyms = ["Insuffisance cardiaque à FEVG altérée", "insuffisance cardiaque 
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
 publishdate = "2021-06-03"
-lastmod = "2022-10-15"
+lastmod = "2023-02-03"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS"]
@@ -62,7 +62,7 @@ Désynchronisation cardiaque
 {{< /table >}}
 
 > **PN:** peptides natriurétiques; **signes:** signes cliniques  
-BNP ≥ 35 pg/mL ou NT-proBNP ≥ 125 pg/mL
+PN: BNP ≥ 35 pg/mL ou NT-proBNP ≥ 125 pg/mL (ESC Se 95%; Spe 50% - NICE 400 pg/mL Se 82%; Spe 80%)
 
 ### Abréviations
 
@@ -244,7 +244,7 @@ Bilan initial devant une suspicion d'insuffisance cardiaque:
 
 ### Peptides natriurétiques
 
-Seuil diagnostique en état stable: BNP ≥ **35 pg/mL** ou NT-proBNP ≥ **125 pg/mL**.  
+Seuil diagnostique en état stable: BNP ≥ **35 pg/mL** ou NT-proBNP ≥ **125 pg/mL** (400 selon le NICE).  
 Utiliser toujours le même marqueur au cours du suivi.
 
 **NB.** La fibrillation atriale, l'âge et l'insuffisance rénale majorent les taux. À l'inverse, l'*obésité* les sous-estime.
@@ -437,7 +437,7 @@ graph TB
 suspicion[Suspicion d'insuffisance cardiaque]
 style suspicion stroke:#4150f5, stroke-width:1px
   suspicion --> clinique("<b>Examen clinique</b><hr>- HTA, coronarien<br>- Cardiotoxiques, diurétiques<br>- Orthopnée ou autre<hr>- Crépitants, œdèmes chevilles<br>- Souffle cardiaque<br>- Turgescence jugulaire<br>- Choc de pointe<hr>- ECG anormal")
-    clinique --> BNP("NT-proBNP ≥ 125 pg/mL<br>ou BNP ≥ 35 pg/mL<br>ou forte suspicion d'IC")
+    clinique --> BNP("NT-proBNP ≥ 125 pg/mL (ou 400)<br>ou BNP ≥ 35 pg/mL<br>ou forte suspicion d'IC")
       BNP -- Oui --> ETT(Échocardiographie)
         ETT -- Anormale --> diagnostic("Diagnostic d'IC<br>Traitement étiologique<br>Traitement selon la FEVG")
         style diagnostic stroke:#4150f5, stroke-width:1px
@@ -539,6 +539,7 @@ réalistes
 
 {{< youtube id="60VQUo3xqAw" title="Insuffisance cardiaque, encore un effort! (Fréquence Médicale)" >}}
 
+- [Taylor C. et al. Natriuretic peptide testing and heart failure diagnosis in primary care: diagnostic accuracy study. British Journal of General Practice. 2023.](https://bjgp.org/content/73/726/e1)
 - [HAS. JARDIANCE (empagliflozine) - Insuffisance cardiaque chronique symptomatique. 16/09/2022.](https://www.has-sante.fr/jcms/p_3352200/fr/jardiance-empagliflozine-insuffisance-cardiaque-chronique-symptomatique)
 - {{< references/esc-cvd >}}
 - [McDonagh T et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) With the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. 2021.](https://doi.org/10.1093/eurheartj/ehab368)

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-14T18:30:29+02:00"
 publishdate = "2020-07-14"
-lastmod = "2022-11-07"
+lastmod = "2023-02-04"
 specialites = ["rhumatologie"]
 annees = "2013"
 sources = ["HAS", "Ameli"]
@@ -18,7 +18,6 @@ image = true
 imageWEBP = true
 imageSrc = "Illustration du syndrome du canal carpien par scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
-todo = "SEO 'canal carpien emg', rec maladie pro"
 +++
 
 {{%article-summary%}}
@@ -121,7 +120,7 @@ Symptômes nécessitant des examens en semi-urgence:
 - Signe de Mac Murthy-Durkan  
   Paresthésies du nerf médian lors de la pression du poignet face palmaire.
 - Signe de Tinel  
-  Paresthésies du nerf médian lors de la percussion du poignet.
+  Paresthésies du nerf médian lors de la percussion du poignet. Vidéo plus bas.
 - Test de Phalen  
   Avant-bras vertical, flexion maximale du poignet pendant une minute déclenche des paresthésies du nerf médian.
 - Examen de sensibilité au niveau de la pulpe index  
@@ -142,28 +141,27 @@ Si survient pendant la grossesse, 50% guérison à 1 an.
 
 Aucun examen complémentaire n'est recommandé en attente purement sensitive du territoire du nerf médian.
 
-### Électromyogramme (EMG)
+### Électromyogramme (EMG) et canal carpien
 
-L'électromyogramme est recommandé devant un tableau de syndrome du canal carpien si une chirurgie est envisagée (preuve médico-légale) ou en cas de doute diagnostique.
+L'électromyogramme (EMG) est recommandé devant un tableau de syndrome du canal carpien si une chirurgie est envisagée (preuve médico-légale) ou en cas de doute diagnostique.
 
-L'EMG est obligatoire pour la reconnaissance en **maladie professionnelle**.  
+L'EMG est obligatoire pour la reconnaissance en **maladie professionnelle** du canal carpien.  
 La **perte axonale** est le facteur pronostic essentiel.
 
-### Échographie
+### Échographie du poignet
 
-L'échographie permet l'analyse du nerf médian et des structures anatomiques. Mieux tolérée et moins coûteuse que l'EMG.  
-Elle ne permet pas d'évaluer le type d'atteinte fonctionnelle.
+L'échographie permet l'analyse du nerf médian et des structures anatomiques. Elle est mieux tolérée et moins coûteuse que l'EMG mais ne permet pas d'évaluer le type d'atteinte fonctionnelle.
 
 ### Autres examens
 
-Radiographies, scanner, IRM. Contribuent en cas de doute sur une pathologie secondaire.
+Radiographies, scanner, IRM. Contribuent au diagnostic en cas de doute sur une pathologie secondaire.
 
 {{% /collapse %}}
 {{%collapse "Traitement du canal carpien idiopathique" %}}
 
 La prise en charge du syndrome du canal carpien de première intention est médicale.
 
-**NB. Aucun intérêt des AINS**.
+> **Aucun intérêt des AINS**
 
 ### Orthèse de poignet
 
@@ -172,8 +170,8 @@ Se limiter au traitement par une orthèse chez la femme enceinte.
 
 ### Infiltrations locales de corticoïdes
 
-Infiltrations locales de méthylprednisolone.  
-Efficace sous 4h, délai entre les 2 injections de 3 à 6 mois (*Ameli*).  
+Infiltrations locales de méthylprednisolone, efficaces sous 4 heures. Le délai entre les 2 injections est de 3 à 6 mois (*Ameli*, *Cochrane*).
+
 **Essayer une seule infiltration selon *Prescrire***.
 
 ### Adaptation du poste de travail et Maladie professionnelle à l'origine d'un syndrome du canal carpien
@@ -245,13 +243,14 @@ diagnostic -- Diagnostic différentiel --> differentiel("- Atteintes radiculaire
 {{% /collapse %}}
 {{%collapse "Vidéos de formation" %}}
 
-### Le signe de Tinel
+### Le signe de Tinel en vidéo
 
 {{< youtube id="U8cPjPeZgFw" title="Le signe de Tinel" >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ashworth NL. et al. Local corticosteroid injection versus placebo for carpal tunnel syndrome. Cochrane Database of Systematic Reviews. 2023.](https://www.cochrane.org/CD015148/NEUROMUSC_local-steroid-injection-carpal-tunnel-syndrome)
 - [Ameli. Aide à la pratique : syndrome du canal carpien. 13/12/2021.](https://www.ameli.fr/exercice-coordonne/exercice-professionnel/memos/aide-pratique-syndrome-canal-carpien)
 - [HAS, Centre de référence des maladies rares de l'hypophyse. Acromégalie. Protocole National de Diagnostic et de Soins. 2021.](https://www.has-sante.fr/jcms/p_3292767/fr/acromegalie)
 - [Santé Publique France. Syndrome du canal carpien. 18/08/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-liees-au-travail/troubles-musculo-squelettiques/donnees/syndrome-du-canal-carpien)

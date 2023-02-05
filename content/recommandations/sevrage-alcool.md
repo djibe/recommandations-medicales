@@ -13,7 +13,7 @@ specialites = ["addictologie"]
 annees = "2022"
 sources = ["AFEF", "HAS", "SFA"]
 tags = ["depistage", "grossesse"]
-anglais = ["Alcoholism"]
+anglais = ["Alcoholism", "alcohol use disorder (AUD)"]
 sctid = "7200002"
 image = true
 imageSrc = "Les verres d'alcool standards par Alcool-Info-Service"
@@ -585,8 +585,9 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 {{< youtube id="OPs09amiMC0" title="Prise en charge de la maladie du foie liée à l'alcool (AFEF Medical Education)" >}}
 
+- [Agabio R. et al. Baclofen for alcohol use disorder. Cochrane Database of Systematic Reviews. 2023.](https://www.cochrane.org/CD012557/ADDICTN_baclofen-alcohol-use-disorder)
 - [SFA. Repères de consommation d'alcool à moindre risque : les abaisser chez les plus jeunes ?. 08/08/2022. (PDF)](http://www.sfalcoologie.asso.fr/download/2022-CP_alcool-SFA-2022_08_08.pdf)
-- [Angler R et al. Dépassement des repères de consommation d'alcool à moindre risque en 2020 : résultats du Baromètre santé de Santé publique France. BEH. Novembre 2021.](http://beh.santepubliquefrance.fr/beh/2021/17/2021_17_1.html)
+- [Angler R. et al. Dépassement des repères de consommation d'alcool à moindre risque en 2020 : résultats du Baromètre santé de Santé publique France. BEH. Novembre 2021.](http://beh.santepubliquefrance.fr/beh/2021/17/2021_17_1.html)
 - [Louvet A. et al. Prise en charge de la maladie du foie liée à l'alcool. Recommandations de l'Association française pour l'étude du foie et de la Société française d'alcoologie. Janvier 2021.](https://afef.asso.fr/wp-content/uploads/2021/01/Recommandations-AFEF-SFA-sur-Prise-en-charge-de-la-maladie-du-foie-liee-a-lalcool.pdf)
 - [HAS. Outil d'aide au repérage précoce et intervention brève : alcool, cannabis, tabac chez l'adulte. Janvier 2021.](https://www.has-sante.fr/jcms/c_1795221/fr/outil-d-aide-au-reperage-precoce-et-intervention-breve-alcool-cannabis-tabac-chez-l-adulte)
 - [HAS. Prévention des addictions et réduction des risques et des dommages par les centres de soins, d'accompagnement et de prévention en addictologie (CSAPA). 2019.](https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa)

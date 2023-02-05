@@ -8,7 +8,7 @@ synonyms = ["et maladie rénale chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2022-10-25"
+lastmod = "2023-02-05"
 specialites = ["nephrologie"]
 annees = "2021"
 sources = ["HAS", "KDIGO", "ESC"]
@@ -25,10 +25,10 @@ todo = "SEO 'insuffisance rénale kdigo', aliments riches K/P"
 
 - {{< modal-btn modal-creatinine >}}Situations où le débit de filtration estimé n'est pas fiable{{< /modal-btn >}}
 - Dépistage annuel des populations à risque d'insuffisance rénale par créatininémie + albuminurie sur échantillon
-- 3 piliers de l'évaluation rénale: étiologie, DFG selon CKD-EPI et albuminurie
+- 3 piliers de l'évaluation rénale: étiologie, DFG selon CKD-EPI et ratio albuminurie/créatininurie
 - Toute personne avec une insuffisance rénale chronique est à {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Néphroprotection  
-  {{< modal-btn modal-nephrotoxiques >}}Éviter les néphrotoxiques{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, PA < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}}, vaccin covid-19 ...
+  {{< modal-btn modal-nephrotoxiques >}}Éviter les néphrotoxiques{{< /modal-btn >}}, PA < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}}, vaccin covid-19 ...
 - Adaptation des traitements selon {{< scores/ckd-epi >}}
 - Estimation de la progression de la maladie rénale chronique: [score KFRE](https://kidneyfailurerisk.com/)
 - Le suivi de l'enfant relève exclusivement du néphrologue
@@ -89,6 +89,9 @@ MRC
 
 RAC
 : Ratio albuminurie/créatininurie (mg/g)
+
+RCV
+: risque cardiovasculaire
 {.dl-inline}
 
 ### Épidémiologie de l'insuffisance rénale chronique
@@ -133,7 +136,7 @@ Le dépistage des populations à risque doit être répété 1 fois par an (ou s
 {{%info%}}
 
 - Créatininémie avec DFG selon {{< scores/ckd-epi >}}
-- Albuminurie sur échantillon (Albuminurie/créatininurie ou A/C)  
+- Ratio albuminurie/créatininurie (RAC)  
   {{%class%}}Recueil à tout moment de la journée (de préférence le matin).{{%/class%}}
 {{%/info%}}
 
@@ -177,7 +180,7 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 {{< table title="Stades de la maladie rénale chronique selon KDIGO 2012" >}}
 | Stade | DFGe          | Définition    |
 |:-----:|:-------------:|---------------|
-| 1     | ≥ 90       | MRC avec DFG normal ou augmenté |
+| 1     | ≥ 90          | MRC avec DFG normal ou augmenté |
 | 2     | 60-89         | MRC avec DFG légèrement diminué |
 | 3A    | 45-59         | IRC modérée   |
 | 3B    | 30-44         | IRC modérée   |
@@ -185,7 +188,7 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 | 5     | &lt; 15       | IRC terminale |
 {{< /table >}}
 
-> DFGe = DFG estimé selon CKD-EPI en mL/min/1,73 m². Ajouter un T au stade quand patient greffé (ex: 4T)
+> **DFGe =** DFG estimé selon CKD-EPI en mL/min/1,73 m². Ajouter un T au stade quand patient greffé (ex: 4T)
 
 {{< table title="Classification de l'albuminurie selon KDIGO 2012" >}}
 | Stade | mg/mmol | mg/g     | mg/24h   | Définition           |
@@ -198,7 +201,7 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 Le terme de *microalbuminurie* n'est plus utilisé
 {.alert .alert-warning}
 
-**NB.** Faux positifs pour une albuminurie/protéinurie: infection urinaire, fièvre, insuffisance cardiaque, protéinurie orthostatique, sport intense dans les 24h, menstruations, AINS, alimentation riche en protéines.
+**NB.** Faux positifs pour une albuminurie (ou protéinurie): [infection urinaire]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), fièvre, [insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}), protéinurie orthostatique, sport intense dans les 24h, menstruations, AINS, alimentation riche en protéines.
 
 ### 3) Examen clinique
 
@@ -241,7 +244,7 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
 - Bilan lipidique (de moins d'un an)
 - Glycémie à jeun ou HbA<sub>1C</sub>
 - Urinaire  
-  ECBU + échantillon albuminurie/créatininurie.
+  ECBU + ratio albuminurie/créatininurie (RAC).
 {{%/info%}}
 
 - DFGe < 60 (voire < 45)
@@ -271,7 +274,7 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
   - Adaptation médicamenteuse selon le DFG estimé par {{< scores/ckd-epi >}}
   - {{< modal-btn modal-nephrotoxiques >}}Éviction des néphrotoxiques{{< /modal-btn >}}
   - Pas d'automédication ou herbes chinoises
-- {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
+- {{< modal-btn modal-rcv >}}Risque cardiovasculaire (RCV) élevé ou très élevé{{< /modal-btn >}}
   - Sevrage tabagique et réduction d'alcool
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Activité physique d'intensité modérée ≥ 150 min/semaine
@@ -337,14 +340,14 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
   <div aria-labelledby="sup45-tab" class="tab-pane fade show active" id="sup45" role="tabpanel">
 
   - Suivi généraliste ≥ 1/an
-  - 1/an: lipidique, glycémie à jeun, créatininémie, albuminurie
+  - 1/an: lipidique, glycémie à jeun, créatininémie, ratio albuminurie/créatininurie
 
   </div>
   <div aria-labelledby="stade3b-tab" class="tab-pane fade" id="stade3b" role="tabpanel">
 
   - Suivi généraliste ≥ 2/an
   - Si néphrologue: ≥ 1/an
-  - Tous les 3-6 mois: créatininémie, albuminurie (voire +), ionogramme, bicarbonates, calcémie, phosphorémie
+  - Tous les 3-6 mois: créatininémie, ratio albuminurie/créatininurie (voire +), ionogramme, bicarbonates, calcémie, phosphorémie
   - 1-2/an: NFS, réticulocytes, ferritinémie
   - 1/an: lipidique, glycémie à jeun, créatininémie, albuminémie
   - Anticorps anti-HBs tous les 3 ans
@@ -357,7 +360,7 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
   - Néphrologue: ≥ 2/an
   - Tous les 1-3 mois: créatininémie, urémie, ionogramme, bicarbonates, calcémie, phosphorémie
   - Tous les 1-6 mois: albuminémie, PTH
-  - Tous les 3-6 mois: albuminurie, NFS, réticulocytes, ferritinémie, PAL
+  - Tous les 3-6 mois: ratio albuminurie/créatininurie, NFS, réticulocytes, ferritinémie, PAL
   - 1/an: lipidique, glycémie à jeun, anticorps anti-HBs
 
   </div>
@@ -370,7 +373,7 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
   - Tous les 1-6 mois: albuminémie
   - Tous les 3-6 mois: PTH
   - 1/an: lipidique, glycémie à jeun, anticorps anti-HBs
-  - Selon néphrologue: albuminurie
+  - Selon néphrologue: ratio albuminurie/créatininurie
 
   </div>
 </div>
