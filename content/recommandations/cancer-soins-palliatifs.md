@@ -1,5 +1,5 @@
 +++
-title = "Soins palliatifs"
+title = "Soins palliatifs des cancers"
 titleSeo = "TODO:"
 prefix = "les "
 description = "TODO:"

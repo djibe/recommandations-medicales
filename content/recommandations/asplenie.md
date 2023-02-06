@@ -78,19 +78,19 @@ Antibiothérapie par [Oracilline®](https://base-donnees-publique.medicaments.go
   Macrolide roxithromycine (Rulid®, gén) 150 mg x 2/j.
 
 {{% /collapse %}}
-{{%collapse "Vaccinations après splénectomie" %}}
+{{%collapse "Vaccination et asplénie ou splénectomie" %}}
 
 ### Vaccins recommandés en cas d'asplénie
 
 Vaccins à réaliser avant voire après une splénectomie.
 
-{{< table title="Synthèse des vaccins à administrer en cas d'asplénie selon Calendrier vaccinal 2022 et HCSP 2014" class="table-wrap" >}}
+{{< table title="Synthèse des vaccins à administrer en cas d'asplénie selon Calendrier vaccinal 2022 et HCSP 2014. Contrôler l'âge sur les RCP" class="table-wrap" >}}
 | Germe           | Primo-vaccination            | Rappel           |
 |-----------------|------------------------------|------------------|
-| {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} | Prevenar13 puis Pneumovax M2 | Pneumovax tous les 5 ans |
-| Méningocoque B  | Bexsero (/Trumenba) à M0M2   |                  |
-| Méningo ACYW135 | Menveo/Nimenrix à M0M6       | Tous les 5 ans   |
-| *H. influenzae* | ACT-HIB                      |                  |
+| {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} | Prevenar 13® puis Pneumovax® M2 | Pneumovax® tous les 5 ans |
+| Méningocoque B  | Bexsero® (ou Trumenba®) à M0M2 |                |
+| Méningocoque ACYW135 | Menveo®/Nimenrix® à M0M6 | Tous les 5 ans  |
+| *H. influenzae* | ACT-HIB® dose unique         |                  |
 | Grippe          | 1 dose                       | Annuel           |
 | Covid-19        | Recommandations en vigueur   |                  |
 {{< /table >}}

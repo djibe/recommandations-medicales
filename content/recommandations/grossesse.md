@@ -38,7 +38,7 @@ Chapitres dédiés:
 - [Interruption volontaire de grossesse]({{< relref "interruption-volontaire-grossesse.md" >}})
 - [Phlébite et score LEFt pendant la grossesse]({{< relref "thrombose-veineuse-profonde.md" >}})
 - [Reflux pendant la grossesse]({{< relref "reflux-gastro-oesophagien.md" >}})
-- [Syndrome du canal carpien]({{< relref "varicelle.md" >}})
+- [Syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}})
 - [Varicelle pendant la grossesse]({{< relref "varicelle.md" >}})
 
 {{%/article-summary%}}
