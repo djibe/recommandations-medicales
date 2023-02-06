@@ -2,22 +2,21 @@
 title = "Grossesse"
 prefix = "la "
 noindex = true
-description = "TODO:"
+description = "Recommandations de prise en charge au cours de la grossesse: événements physiologiques ou pathologiques"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
-publishdate = "2023-01-03"
-lastmod = "2023-02-03"
+publishdate = "2023-02-06"
+lastmod = "2023-02-06"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
-sources = ["CNGOF", "SFD"]
+sources = ["CRAT", "SFD"]
 tags = ["depistage", "grossesse", "prevention"]
-anglais = []
-sctid = ""
-draft = true
-image = false
-imageSrc = ""
-todo = "HTA gravidique, calcium cible"
+anglais = ["Pregnancy"]
+sctid = "118185001"
+image = true
+imageSrc = "Illustration de la grossesse par stories / Freepik"
+todo = "vomissements grossesse, HTA gravidique, calcium cible"
 +++
 
 {{%article-summary%}}
@@ -69,85 +68,10 @@ Vaccins à réaliser pendant la grossesse ([fiche Vaccination]({{< relref "vacci
 > {{< references/calendrier-vaccinal >}}
 
 {{% /collapse %}}
-{{%collapse "Vomissements pendant la grossesse" %}}
+{{%collapse "Prise de poids pendant la grossesse" %}}
 
-> Prise en charge des nausées et vomissements gravidiques d'après les recommandations *CNGOF 2022*
-
-Nausées et vomissements gravidiques
-: Nausées et vomissements débutant au premier trimestre de grossesse en l'absence d'autre étiologie.
-: Ils sont **non compliqués** en l'absence de critères d'hyperémèse gravidique.
-: Atteint 50-90% des femmes enceintes. Souvent modérés sans atteinte de la qualité de vie et cèdent à la fin du premier trimestre. Cependant 35% ont des symptômes invalidants avec un impact marqué sur la vie personnelle. 0,3 à 3,6% sont hospitalisées.
-
-Hyperémèse gravidique (hyperemesis gravidarum HG)
-: Nausées et vomissements gravidiques sévères avec au moins un critère parmi: amaigrissement ≥ 5%, signe de déshydratation, {{< modal-btn modal-puqe >}}score PUQE ≥ 7{{< /modal-btn >}}.
-: L'origine de l'hyperémèse gravidique est mal comprise. Elle est un facteur de risque de naissance prématurée et de petit poids de naissance. Pour la mère, risque de troubles ioniques et carentiels à l'origine d'une encéphalopathie de Gayet-Wernicke ainsi qu'un retentissement psychiatrique pouvant persister (stress, troubles anxio-dépressifs, idées suicidaires, stress post-traumatique). Risque de récidive de 15-81%.
-: Diagnostic différentiel: hépatite, pancréatite, appendicite, pyélonéphrite, torsion d'annexe, hyperthyroïdie.
-
-{{< outils/variation-poids >}}
-
-{{%warning%}}
-
-### Critères d'hospitalisation pour vomissements gravidiques
-
-Proposer une hospitalisation en cas d'hyperémèse gravidique avec au moins un critère parmi:
-
-- Amaigrissement ≥ 10%
-- Signes de déshydratation  
-  Soif intense, pli cutané, hypotension orthostatique puis permanente, tachycardie compensatrice, aplatissement des jugulaires externes, oligurie, sécheresse cutanée.
-- {{< modal-btn modal-puqe >}}Score PUQE ≥ 13{{< /modal-btn >}}
-- Hypokaliémie < 3 mmol/L
-- Hyponatrémie < 120 mmol/L
-- Créatininémie > 100 µmol/L (1,13 mg/dL)
-- Résistance au traitement
-{{%/warning%}}
-
-Pour en savoir plus: durant l'hospitalisation, pas d'isolement, supplémentation systématique en vitamine B1 (thiamine) voire K.
-
-### Examens complémentaires
-
-En cas de vomissements non compliqués: échographie obstétricale seule pour éliminer une cause secondaire de vomissements (grossesse multiple ou môlaire).
-
-#### Bilan d'une hyperémèse gravidique
-
-- Bilan sanguin: ionogramme, créatininémie, bandelette urinaire
-- Échographie obstétricale
-
-### Traitement des vomissements pendant la grossesse
-
-Prise en charge et traitements recommandés pour les vomissements pendant la grossesse:
-
-- Arrêter les vitamines et la supplémentation en fer, sauf la vitamine B9
-- Adapter le mode de vie selon les préférences personnelles
-- <mark>Traitements de première intention</mark>
-  - Consultation de contrôle à 72 heures nécessaire
-  - Doxylamine
-  - Doxylamine + pyroxidine
-  - Dimenhydrinate
-  - Symptômes légers ({{< modal-btn modal-puqe >}}Score PUQE < 6{{< /modal-btn >}})  
-    Gingembre, ~~vitamine B6 (pyridoxine)~~, acupression, acupuncture, électrostimulation même si leur efficacité n'est pas prouvée.
-- Traitement de 2<sup>e</sup> intention  
-  Métoclopramide
-- Soutien psychologique
-- Ne pas utiliser: aromathérapie
-- Aggravation des symptômes sous traitement: bilan complémentaire  
-  NFS, CRP, ASAT, ALAT, lipasémie, TSH, T4L, échographie abdominale.
-
-#### Prise en charge des vomissements sévères
-
-Prise en charge de l'hyperémèse gravidique:
-
-- Hospitalisation si critères remplis (voir plus haut)  
-  sinon essai des traitements de première intention (voir plus haut).
-- Soutien psychologique
-- Association de patientes  
-  [Association de lutte contre l'hyperémèse gravidique](https://www.associationhg.fr) et [9 mois avec ma bassine](https://www.facebook.com/9moisavecmabassine/).
-
-Sur prescription spécialisée uniquement pour l'hyperémèse gravidique: ondansétron, corticoïdes IV en dernier recours. (TODO: annexe 6)
-
-TODO: Figure 1
-
-{{% /collapse %}}
-{{%collapse "Pour en savoir plus: Poids pendant la grossesse" %}}
+*Section en chantier*
+{.alert .alert-info}
 
 AET
 : apport énergétique total
@@ -182,14 +106,6 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si obésité, *[Eades 
 {{% /collapse %}}
 {{%sources%}}
 
-- [Deruelle P. et al. Consensus formalisé d'experts du Collège national des gynécologues et obstétriciens français : prise en charge des nausées et vomissements gravidiques et de l'hyperémèse gravidique. Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](http://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/apercu?path=RPC%2BCOLLEGE%252F2023%252FCFE-Nausees-et-vomissements-gravidiques-2022.pdf)
-- [Louvet et al; SFD. Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022.pdf)
+[Louvet et al; Société Francophone du Diabète (SFD). Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022.pdf)
 
 {{%/sources%}}
-{{% modal title="Score PUQE des vomissements gravidiques" id="modal-puqe"%}}
-
-{{< scores/puqe >}}
-
-{{% /modal %}}
-
-≤≥±®æœŒÈ³ÂSpO<sub>2</sub>

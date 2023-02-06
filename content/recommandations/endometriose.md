@@ -81,7 +81,7 @@ AMP
 : assistance médicale à la procréation
 
 CNGOF
-: Collège national des gynécologues et obstétriciens français
+: Collège National des Gynécologues et Obstétriciens Français
 
 COP
 : contraception œstroprogestative (ou COC, contraception orale combinée)

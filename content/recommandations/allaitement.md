@@ -26,7 +26,11 @@ todo = ""
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
+### Abréviations
 
+CNGOF
+: Collège National des Gynécologues et Obstétriciens Français
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge des complications pendant l'allaitement" %}}

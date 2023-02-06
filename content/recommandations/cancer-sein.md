@@ -96,6 +96,9 @@ Chiffres du cancer du sein en France:
 ACOG
 : {{%lang%}}The American College of Obstetricians and Gynecologists{{%/lang%}}
 
+CNGOF
+: Collège National des Gynécologues et Obstétriciens Français
+
 DO
 : programme de dépistage organisé (du cancer du sein)
 

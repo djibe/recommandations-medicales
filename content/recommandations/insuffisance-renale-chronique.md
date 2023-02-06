@@ -278,11 +278,11 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
   - Sevrage tabagique et réduction d'alcool
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Activité physique d'intensité modérée ≥ 150 min/semaine
-  - {{< modal-btn modal-sel >}}Régime désodé < 5 g/j{{< /modal-btn >}} et hydrique 1,5 L/j (ni restreint ni forcé)
+  - {{< modal-btn modal-sel >}}Régime désodé < 6 g/j{{< /modal-btn >}} et hydrique 1,5 L/j (ni restreint ni forcé)
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Contrôle tensionnel
   - Traitement si PA n'est pas dans la cible (*KDIGO 2021*)  
-  {{%class%}}Considérer si diabète avec albuminurie sans hypertension (*KDIGO 2020*){{%/class%}}
+    {{%class%}}Considérer si diabète avec albuminurie sans hypertension (*KDIGO 2020*){{%/class%}}
   - PA cible < 120/90 mmHg (*KDIGO 2021*), {{%class%}}< 150-160 si ≥ 80 ans (*HAS 2021*){{%/class%}}
   - Greffe < 130/80 mmHg (*KDIGO 2021*)
   - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} ou {{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale
@@ -292,9 +292,9 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
     IRC sévère ou modérée avec albuminurie &gt; 3 ; diabète et DFG < 45 ou DFG 45-59 avec albu 3-30 ou albu +30
   - {{< modal-btn modal-rcv >}}RCV élevé{{< /modal-btn >}}: LDL cible < 0,7 g/L et réduction +50%  
     Toutes les autres atteintes rénales.
-- **Albuminurie cible** < 30 mg/mmol par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}  
-< 3 mg/mmol chez le diabétique.
-- Envisager la {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}} (*ESC 2021*)
+- **Albuminurie cible** < 30 mg/mmol par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}
+  - < 3 mg/mmol chez le diabétique
+  - Envisager la {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}} (*ESC 2021*)
 - Protéines < 1 g/kg/j
   - DFGe < 60: 0,6-0,8 g/kg/j
   - Sauf chez la personne âgée

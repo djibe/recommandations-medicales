@@ -58,6 +58,9 @@ Pathologies à l'origine d'un écoulement mamelonnaire:
 
 ### Abréviations
 
+CNGOF
+: Collège National des Gynécologues et Obstétriciens Français
+
 EM
 : écoulement mamelonnaire
 

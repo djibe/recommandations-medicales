@@ -55,6 +55,9 @@ ADO
 ASG
 : autosurveillance glycémique
 
+CNGOF
+: Collège National des Gynécologues et Obstétriciens Français
+
 DG
 : diabète gestationnel
 

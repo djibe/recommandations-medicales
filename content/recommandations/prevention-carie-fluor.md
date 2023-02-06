@@ -7,7 +7,7 @@ synonyms = ["Apports en fluor"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-04-30T20:21:18+02:00"
 publishdate = "2022-05-09"
-lastmod = "2022-05-09"
+lastmod = "2023-02-06"
 specialites = ["pediatrie"]
 annees = "2021"
 sources = ["CEOP", "HAS"]
@@ -23,17 +23,17 @@ todo = "relecture Boub, vidéos"
 
 Mesures d'hygiène bucco-dentaire pour la prévention des caries:
 
-- Pas de collation matinale, grignotage ou de boissons sucrées ([fiche ufsbd](http://www.ufsbd.fr/wp-content/uploads/2020/08/FICHE-grignotage_260820.pdf))
-- Brossage 2 minutes après chaque repas
+- Pas de collation matinale, grignotage ou de boissons sucrées ([fiche ufsbd (PDF)](http://www.ufsbd.fr/wp-content/uploads/2020/08/FICHE-grignotage_260820.pdf))
+- Brossage des dents au moins pendant 2 fois par jour pendant 2 minutes après chaque repas
 - Enfants
-  - Réaliser/superviser le brossage jusqu'à 8 ans
+  - Réaliser/superviser le brossage des dents jusqu'à 8 ans
   - Dentifrice: teneur en fluor adaptée à l'âge (-6 ans: ≥ 1000 ppmF, 1450 ensuite), dose sur la brosse adaptée à l'âge (-3 ans: trace, petit pois jusqu'à 6 ans puis 1/3 longueur de brosse)
   - Recracher le dentifrice sans rincer la bouche
 - Consultation dentaire annuelle de 6 à 18 ans  
-  \+ M'T Dents: consultation dentaire gratuite à 3, 6, 9, 12, 15, 18, 21 et 24 ans
+  \+ Suivi M'T Dents: consultation dentaire gratuite à 3, 6, 9, 12, 15, 18, 21 et 24 ans
 - Apports en fluor: selon avis du dentiste
 
-Fiches patient: [soins au quotidien (PDF)](https://www.ufsbd.fr/wp-content/uploads/2022/12/2022-UFSBD-fiche-conseils-patient-RECOMMANDATIONS.pdf), [fluor (PDF)](http://www.ufsbd.fr/wp-content/uploads/2020/12/Fluor_CB_260820.pdf) et [soins du jeune enfant (PDF)](http://www.ufsbd.fr/wp-content/uploads/2018/03/JEUNE-ENFANT_Fiche-profil-PDS2018_GP_vsOK.pdf)
+Fiches patient: [soins dentaires au quotidien (PDF)](https://www.ufsbd.fr/wp-content/uploads/2022/12/2022-UFSBD-fiche-conseils-patient-RECOMMANDATIONS.pdf), [le fluor (PDF)](http://www.ufsbd.fr/wp-content/uploads/2020/12/Fluor_CB_260820.pdf) et [soins dentaires du jeune enfant (PDF)](http://www.ufsbd.fr/wp-content/uploads/2018/03/JEUNE-ENFANT_Fiche-profil-PDS2018_GP_vsOK.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -73,17 +73,18 @@ Populations à risque élevé de carie:
 Soins dentaires minimum recommandés:
 
 - Brossage des dents
-  - Matin et soir 2 minutes (plutôt après chaque repas)  
+  - Matin et soir pendant 2 minutes (plutôt après chaque repas)  
     Par un adulte jusqu'à 8 ans (ou supervisé).
   - Avec dentifrice fluoré ≥ 1000 ppm (ppmF)  
     < 3 ans: trace | 3-5 ans: petit pois de dentifrice | ≥ 6 ans ou risque carieux élevé ≥ 3 ans: 1450 ppmF sur 1/3 de la longueur | ≥ 10/16 ans risque carieux élevé: respectivement 2400/5000 ppmF
   - Recracher le dentifrice sans rincer la bouche
-  - Ne jamais partager la brosse
+  - Ne jamais partager la brosse à dents
 - Soins dentaires
   - Consultation dentaire annuelle de 6 à 18 ans
   - Détartrage annuel (TODO:)
 - Mesures générales
-  - Pas de collation matinale, de grignotage ou de boissons sucrées entre les repas
+  - Injonctions paradoxales, *UFSBD*: Pas de collation matinale, de grignotage ou de boissons sucrées entre les repas  
+    *SFP*: << La collation de 10 heures doit être à base de pain et de fruits >>
   - Alimentation équilibrée et diversifiée
   - Consommation d'eau pure
 
@@ -124,7 +125,8 @@ Le bon de prise en charge est envoyé par courrier (valable 1 an) ou disponible 
 
 #### Soins dentaires pendant la grossesse
 
-Aborder la santé bucco-dentaire mère et enfant dès le 4e mois.  
+Aborder la santé bucco-dentaire de la mère et de l'enfant dès le 4<sup>e</sup> mois de grossesse.
+
 Examen dentaire spécialisé systématique à 4 mois dans le cadre du suivi de grossesse.
 
 #### Personnes âgées dépendantes
@@ -150,12 +152,13 @@ Après 6 mois, la supplémentation relève uniquement d'un risque carieux élev�
 {{< youtube id="u_caLAieMsE" title="Technique du brossage des dents" >}}
 
 - [CEOP. Le fluor en prévention primaire : Recommandations du Collège des Enseignants en Odontologie Pédiatrique. 2021. (PDF)](https://sfop.asso.fr/wp-content/uploads/2021/11/Le-fluor-en-pre%CC%81vention-primaire-Droz-et-al-CEOP-2021.pdf)
+- Prescrire Redaction. Caries dentaires chez les enfants et les adolescents. Premiers Choix Prescrire. Rev Prescrire. 2021.
+- [Berthet A., Lopez I., Jacquelin LF.; Société Française de Pédiatrie (SFP). Dépistage carieux en denture temporaire. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/depistage-carieux-en-denture-temporaire)
 - [HAS. Stratégies de prévention de la carie dentaire. Mars 2010.](https://www.has-sante.fr/jcms/c_991245/fr/synthese-strategies-de-prevention-de-la-carie-dentaire)
 - [Union Française pour la Santé Bucco-dentaire](https://www.ufsbd.fr/)
 
 ### À lire
 
-- [Parosphère. Le brossage des dents.](https://fr.calameo.com/read/00004081837980b6f6e52)
-- [Berthet A., Lopez I., Jacquelin LF.; SFP. Dépistage carieux en denture temporaire. 2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/depistage-carieux-en-denture-temporaire)
+[Parosphère. Le brossage des dents.](https://fr.calameo.com/read/00004081837980b6f6e52)
 
 {{%/sources%}}

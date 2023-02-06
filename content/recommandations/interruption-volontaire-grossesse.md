@@ -94,6 +94,15 @@ const chartOptions = {
 }
 </script>
 
+### Abréviations
+
+CNGOF
+: Collège National des Gynécologues et Obstétriciens Français
+
+IVG
+: interruption volontaire de grossesse
+{.dl-inline}
+
 {{% /collapse %}}
 {{%collapse "IVG médicamenteuse" %}}
 

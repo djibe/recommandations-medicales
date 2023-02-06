@@ -515,9 +515,9 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 {{%sources%}}
 
 - [Groupe d'Études Français des Helicobacter (GEFH). Site officiel.](http://www.helicobacter.fr/)
-- [Bénéjat L et al. Épidémiologie de l'infection à Helicobacter pylori en France en 2020 : données de surveillance du CNR Campylobacters et Hélicobacters. Bull Epidémiol Hebd. 2021;(15):275-82.](http://beh.santepubliquefrance.fr/beh/2021/15/2021_15_2.html)
+- [Bénéjat L. et al. Épidémiologie de l'infection à Helicobacter pylori en France en 2020 : données de surveillance du CNR Campylobacters et Hélicobacters. Bull Epidémiol Hebd. 2021.](http://beh.santepubliquefrance.fr/beh/2021/15/2021_15_2.html)
 - [GEFH. Recommandations de prise en charge de l'infection à *Helicobacter pylori* en 2021 pour les hépato-gastro-entérologues. 04/03/2021. (PDF)](http://www.helicobacter.fr/wp-content/uploads/2021/03/Fiche-HP-specialistes-2021.pdf)
-- [SNFGE et al. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 24/06/2019.](https://www.snfge.org/content/2-cancer-de-lestomac)
+- [SNFGE. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 24/06/2019.](https://www.snfge.org/content/2-cancer-de-lestomac)
 - [HAS. Helicobacter pylori : recherche et traitement. 26/03/2019](https://www.has-sante.fr/jcms/c_2911396/fr/helicobacter-pylori-recherche-et-traitement)
 - [HAS et CNPHGE. Diagnostic de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
 - [HAS et CNPHGE. Traitement de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_traitement.pdf)
@@ -529,6 +529,7 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 
 - [Malfertheiner P. et al. Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report. Gut. 2022.](https://pubmed.ncbi.nlm.nih.gov/35944925/)
 - [Kalach N. et al.; GFHGNP. Diagnostic et traitement de l'infection à Helicobacter pylori chez l'enfant. 2022.](http://www.helicobacter.fr/wp-content/uploads/2022/01/Diagnostic-et-traitement-de-linfection-%C3%A0-Helicobacter-pylori-chez-l%E2%80%99enfant.pdf)
+- [Kalach N. et al; Société Française de Pédiatrie (SFP). Helicobacter pylori chez l'enfant. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/hepato-gastro/helicobacter-pylori-chez-lenfant)
 
 {{%/sources%}}
 {{% modal title="Test respiratoire à l'urée marquée" id="modal-test-respi"%}}

@@ -48,6 +48,9 @@ Elle peut être hormonale (lévonorgestrel ou ulipristal acétate dite << pilule
 
 ### Abréviations
 
+CNGOF
+: Collège National des Gynécologues et Obstétriciens Français
+
 CPEF
 : centres de planification et d'éducation familiale
 
