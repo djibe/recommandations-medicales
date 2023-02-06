@@ -40,6 +40,7 @@ Chapitres dédiés:
 - [Reflux pendant la grossesse]({{< relref "reflux-gastro-oesophagien.md" >}})
 - [Syndrome du canal carpien]({{< relref "syndrome-canal-carpien.md" >}})
 - [Varicelle pendant la grossesse]({{< relref "varicelle.md" >}})
+- [Vomissements et nausées pendant la grossesse]({{< relref "vomissements-grossesse-hyperemese-gravidique.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Médicaments et vaccins pendant la grossesse" %}}

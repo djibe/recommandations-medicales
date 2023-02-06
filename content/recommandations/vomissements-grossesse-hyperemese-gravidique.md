@@ -88,7 +88,9 @@ Proposer une hospitalisation en cas d'hyperémèse gravidique avec au moins un c
 - Résistance au traitement
 {{%/warning%}}
 
-Pour en savoir plus: durant l'hospitalisation, pas d'isolement, supplémentation systématique en vitamine B1 (thiamine) voire vitamine K.
+### Pour en savoir plus durant l'hospitalisation pour vomissements gravidiques
+
+Pas d'isolement, supplémentation systématique en vitamine B1 (thiamine) voire vitamine K.
 
 {{% /collapse %}}
 {{%collapse "Traitement des vomissements pendant la grossesse" %}}
