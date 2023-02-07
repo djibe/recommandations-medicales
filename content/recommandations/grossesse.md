@@ -16,7 +16,7 @@ anglais = ["Pregnancy"]
 sctid = "118185001"
 image = true
 imageSrc = "Illustration de la grossesse par stories / Freepik"
-todo = "vomissements grossesse, HTA gravidique, calcium cible"
+todo = "HTA gravidique, calcium cible"
 +++
 
 {{%article-summary%}}
@@ -27,6 +27,7 @@ todo = "vomissements grossesse, HTA gravidique, calcium cible"
 Chapitres dédiés:
 
 - [Acné pendant la grossesse]({{< relref "acne.md" >}})
+- [Alimentation pendant la grossesse (MangerBouger)](https://www.mangerbouger.fr/manger-mieux/a-tout-age-et-a-chaque-etape-de-la-vie/les-recommandations-et-conseils-avant-pendant-et-apres-la-grossesse/manger-equilibre-avant-pendant-et-apres-la-grossesse)
 - [Anémie]({{< relref "anemie.md" >}})
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) et de l'[alcool]({{< relref "sevrage-alcool.md" >}})
 - [Candidoses pendant la grossesse]({{< relref "mycoses-dermatophytes-candidoses.md" >}})

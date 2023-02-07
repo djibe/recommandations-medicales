@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-03T13:12:00+02:00"
 publishdate = "2021-04-05"
-lastmod = "2022-11-14"
+lastmod = "2023-02-07"
 specialites = ["gynecologie-obstetrique"]
 annees = "2018"
 sources = ["ACOG", "HAS", "CNGOF"]
@@ -16,7 +16,7 @@ sctid = "129103003"
 flowchart = true
 image = true
 imageSrc = "Illustration de l'endométriose par vectorjuice / Freepik"
-todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité physique bassin, information de la patiente, quid bilan IST/salpingite ?"
+todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité physique bassin, quid bilan IST/salpingite ?"
 +++
 
 {{%article-summary%}}
@@ -191,6 +191,9 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
 {{% /collapse %}}
 {{%collapse "Traitement de l'endométriose" %}}
 
+[Déclarer à la pharmacovigilance](https://signalement.social-sante.gouv.fr) une résurgence des douleurs imputables à la vaccination Covid-19 ([guide PDF](https://ansm.sante.fr/uploads/2022/08/01/20220801-covid-19-troubles-menstruels-tutoriel-pds-26-07-2022.pdf), *ANSM 2022*)
+{.alert .alert-warning}
+
 Tout traitement autre que la contraception et l'antalgie relève du spécialiste
 {.alert .alert-info}
 
@@ -317,6 +320,7 @@ graph TB
 
 {{< card-link-external title="Endométriose : l'affaire de tous" url="https://endometriose-affairedetous.com" subtitle="CNGOF, ARS IDF, PNS-MOOC">}}
 
+- [ANSM. Troubles menstruels après la vaccination contre le Covid-19 : état des connaissances et conseils aux femmes concernées. 21/07/2022.](https://ansm.sante.fr/actualites/troubles-menstruels-apres-la-vaccination-contre-le-covid-19-etat-des-connaissances-et-conseils-aux-femmes-concernees)
 - [ACOG. Dysmenorrhea and Endometriosis in the Adolescent. 2018.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/12/dysmenorrhea-and-endometriosis-in-the-adolescent)
 - Prescrire Rédaction. Endométriose douloureuse. En absence de projet de grossesse : paracétamol et AINS, voire estroprogestatif ou DIU au lévonorgestrel. Prescrire. 2019.
 - [Inserm. Endométriose. Dossiers d'information. 11/12/2018.](https://www.inserm.fr/information-en-sante/dossiers-information/endometriose)

@@ -76,10 +76,13 @@ CNGOF
 : Collège National des Gynécologues et Obstétriciens Français
 
 COC
-: contraception orale combinée (ou œstroprogestative. COP utilisée par le CNGOF)
+: contraception orale combinée (ou œstroprogestative. COP utilisée par le *CNGOF*)
 
 COP
-: contraception œstroprogestative (abréviation utilisée par le CNGOF)
+: contraception œstroprogestative (abréviation utilisée par le *CNGOF*)
+
+DIU
+: dispositif intra-utérin (ou stérilet)
 
 DMPA
 : produits contraceptifs injectables à base d'acétate de médroxyprogestérone dépôt

@@ -588,7 +588,7 @@ La prescription dépend uniquement du pneumologue:
 
 - [GINA. Global strategy for the asthma management and prevention. 2022.](https://ginasthma.org/reports/)
 - [Gaillard EA. et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5-16 years. Eur Respir J. 2021.](https://doi.org/10.1183/13993003.04173-2020)
-- [Collège des enseignants de pneumologie. Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_188_ASTHME-RHINITE_2021_ex_item_1841.pdf)
+- [Collège des Enseignants de Pneumologie (CEP). Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_188_ASTHME-RHINITE_2021_ex_item_1841.pdf)
 - [Raherison-Semjen C. et al. Asthme. Revue des Maladies Respiratoires Actualités. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1877120320300598)
 - [Santé Publique France. Asthme. 05/10/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/asthme)
 - Prescrire Redaction. Asthme. Premiers choix Prescrire. Juin 2020.
@@ -601,10 +601,9 @@ La prescription dépend uniquement du pneumologue:
 - [SPLF. Plans d'action de l'asthme](https://splf.fr/plans-daction-dans-lasthme/)
 - [Collège de la Médecine Générale (CMG). Asthme de l'adulte et de l'enfant de plus de 12 ans : prévenir les exacerbations. 2021. (PDF)](https://lecmg.fr/wp-content/uploads/2021/05/Asthme-de-ladulte-et-de-lenfant-2021.pdf)
 - [Inserm. Asthme : Portraits-robots des personnes à risque. 10/10/2022.](https://www.inserm.fr/actualite/asthme-portraits-robots-des-personnes-a-risque/)
-- [Collège des Enseignants de Pneumologie (CEP). Hypersensibilités et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2021. (PDF)](http://cep.splf.fr/wp-content/uploads/2020/12/item_188_ASTHME-RHINITE_2021_ex_item_1841.pdf)
-- [Louis R. et al. European Respiratory Society Guidelines for the Diagnosis of Asthma in Adults. European Respiratory Journal. 2022.](https://erj.ersjournals.com/content/early/2022/02/03/13993003.01585-2021?ct)
+- [Louis R. et al. European Respiratory Society Guidelines for the Diagnosis of Asthma in Adults. European Respiratory Journal. 2022.](https://erj.ersjournals.com/content/early/2022/02/03/13993003.01585-2021)
 - [Raherison-Semjen C. et al. Mise à jour des recommandations (2021) pour la prise en charge et le suivi des patients asthmatiques adultes sous l'égide de la Société de pneumologie de langue française (SPLF) et de la Société pédiatrique de pneumologie et allergologie (SP2A). Version longue. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/recos-asthme-adultes-2021-version-longue.pdf)
-- <https://www.sfpediatrie.com/ressources/pathologies/asthme-du-nourrisson>
+- [Société Française de Pédiatrie. Asthme.](https://www.sfpediatrie.com/ressources/pathologies/asthme-du-nourrisson)
 - [SP2A](https://www.sp2a.fr/spa_documentation/asthme/)
 - [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 10 BIS](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2010%20BIS)
 
