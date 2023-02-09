@@ -90,8 +90,8 @@ EOGD souhaitable (sauf si Quinolone-S et non utilisées).
     <div class="collapse" id="hp-2">
       <ul>
         <li>Traitement probabiliste au choix
-          <span>Amoxicilline 50 mg/kg/j (en 3-4 prises, max 6 g/j) + Clarithromycine 500 x 2/j + Métronidazole 500 x 2/j + ésoméprazole 40 mg x 2/j pendant 14 jours<br>
-          OU Pylera® 3 gél x 4/j + oméprazole 20 matin et soir pendant 10 jours</span>
+          <p>Amoxicilline 50 mg/kg/j (en 3-4 prises, max 6 g/j) + Clarithromycine 500 x 2/j + Métronidazole 500 x 2/j + ésoméprazole 40 mg x 2/j pendant 14 jours</p>
+          <p>OU Pylera® 3 gél x 4/j + oméprazole 20 matin et soir pendant 10 jours</p>
         </li>
       </ul>
       <p class="typography-overline text-black-secondary pt-2">2<sup>e</sup> ligne</p>
@@ -325,7 +325,7 @@ Quadrithérapie avec *bismuth* pendant 10 jours:
 
 - Pylera® 3 gélules après les repas du matin, du midi, du soir et au coucher, avec un grand verre d'eau
 - Oméprazole 20 mg matin et soir 15 minutes avant le repas  
-{{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
+  {{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
 
 Arrêt immédiat du traitement et avis médical en cas de signes neurologiques
 {.alert .alert-warning}
@@ -354,7 +354,7 @@ Traitement guidé par antibiogramme ou PCR (ignorer la résistance au métronida
   - Lévofloxacine 500 mg matin et soir pendant le repas
   - Ésoméprazole 40 mg matin et soir 15 minutes avant le repas
 - Clari-R et Quinolone-R (ou non testée)  
-[Avis du GEFH](http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/).
+  [Avis du GEFH](http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/).
 
 ### Empirique avec allergie à la pénicilline
 
@@ -376,7 +376,7 @@ Privilégier une endoscopie pour antibiogramme:
   - Lévofloxacine 500 mg matin et soir pendant le repas
   - Ésoméprazole 40 mg matin et soir 15 minutes avant le repas
 - Clari-R  
-[Avis du GEFH](http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/).
+  [Avis du GEFH](http://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/).
 
 #### Allergie à la pénicilline: 3e ligne
 
@@ -395,13 +395,13 @@ Antibiogramme obligatoire et [avis du GEFH](http://www.helicobacter.fr/acces-aux
 ### Effets indésirables des antibiotiques
 
 - Bismuth  
-Selles noires, diarrhées, dysgueusie, langue noire, effet antabuse.
+  Selles noires, diarrhées, dysgueusie, langue noire, effet antabuse.
 - Clarithromycine  
-Diarrhées, interactions.
+  Diarrhées, interactions.
 - Lévofloxacine  
-Diarrhées, tendinopathies, troubles neuropsy.
+  Diarrhées, tendinopathies, troubles neuropsy.
 - Métronidazole  
-Effet antabuse (jusqu'à 3 jours après), troubles digestifs, troubles neuropsy (vertiges, troubles de la marche, confusion, dépression).
+  Effet antabuse (jusqu'à 3 jours après), troubles digestifs, troubles neuropsy (vertiges, troubles de la marche, confusion, dépression).
 
 {{% /collapse %}}
 {{%collapse "Contrôle de la guérison" %}}

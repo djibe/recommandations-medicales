@@ -182,9 +182,11 @@ Si le bilan du syndrome de Raynaud est négatif: pas d'avis spécialisé sauf mo
 - ± [TSH](/tags/tsh/)
 - ± [Facteur rhumatoïde (FR)]({{< relref "polyarthrite-rhumatoide.md" >}})
 
+> *Filière Maladies rares*, *SFMV* et *COFER*
+
 {{%/info%}}
 
-**NB.** Le bilan varie sensiblement selon les sociétés savantes. La SFMV ne cite même pas l'électrophorèse et ne préconise ni le FR ni la TSH.
+**NB.** Le Collège de Médecine Interne est en désaccord et ne recommande aucun bilan lorsque le phénomène de Raynaud a une présentation clinique typique de Maladie de Raynaud (aucun argument pour une cause secondaire).
 
 ### En cas de drapeaux rouges
 
@@ -245,6 +247,7 @@ style susp stroke:#4150f5, stroke-width:1px
 {{%sources%}}
 
 - [Les Clés Du Diagnostic. Acrosyndrome vasculaire. Filières de santé maladies rares. 2023 (PDF)](https://clesdudiagnostic.fr/wp-content/uploads/2023/01/2-cles-acrosyndrome.pdf)
+- Collège National des Enseignants de Médecine Interne (CEMI). Acrosyndromes. Item 239. Référentiel Collège de Médecine interne R2C. 2021.
 - [Collège des enseignants de dermatologie de France (CEDEF). Acrosyndromes. Phénomène de Raynaud, érythermalgie, acrocyanose, engelures, ischémie digitale. Item 237 UE8. 2017. (PDF)](https://cedef.info/wp-content/uploads/2022/10/22-Item237-UE-8-Acrosyndromes.-Phenomene-Raynaud-Erythermalgie-acrocyanose-engelures-ischiemies-digitales.pdf)
 - Prescrire Redaction. Phénomène de Raynaud primitif. Premiers choix Prescrire. 2019.
 - Collège des Enseignants de Médecine Vasculaire, Collège Français de Chirurgie Vasculaire. Acrosyndromes Vasculaires. Référentiel ECNi. 2015.

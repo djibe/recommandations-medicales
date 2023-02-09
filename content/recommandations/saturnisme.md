@@ -11,11 +11,11 @@ lastmod = "2022-03-28"
 specialites = ["pediatrie"]
 annees = "2015"
 sources = ["Inserm", "InVS"]
-tags = ["depistage", "retard psychomoteur"]
+tags = ["depistage"]
 anglais = ["Plumbism", "Lead poisoning"]
 sctid = "38342005"
 image = true
-imageSrc = "Lamiot, from Mikael Häggström 2015 - CC BY-SA 4.0"
+imageSrc = "Symptômes du saturnisme par Lamiot, from Mikael Häggström 2015 - CC BY-SA 4.0"
 todo = "Liens InVS, MAJ"
 +++
 

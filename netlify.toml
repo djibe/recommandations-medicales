@@ -44,7 +44,7 @@ HUGO_ENABLEGITINFO = "false"
 [[headers]]
   for = "*.json*"
   [headers.values]
-    Cache-Control = "public, max-age=14400, must-revalidate"
+    Cache-Control = "public, max-age=2569200, must-revalidate"
 
 [[headers]]
   for = "*.css"

@@ -1,36 +1,41 @@
 +++
 title = "Ménorragies"
 prefix = "les "
-description = "TODO:"
+description = "Recommandations pour la prise en charge des ménorragies de la femme et de l'adolescente. Bilan de l'hémostase, échographie pelvienne et traitement hormonal ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-02-06T14:23:41+01:00"
-publishdate = "2023-02-07"
-lastmod = "2023-02-07"
+publishdate = "2023-02-09"
+lastmod = "2023-02-09"
 specialites = ["gynecologie-obstetrique"]
 annees = "2022"
 sources = ["CNGOF"]
-tags = []
+tags = ["adolescent", "contraception"]
 anglais = ["Menorrhagia", "abnormal uterine bleeding"]
 sctid = "386692008"
-draft = true
-image = false
-imageSrc = ""
-todo = "Fig1, Fig2, Fig, Fig4, Fig5 reprendre myomectomie, FIGO"
+flowchart = true
+image = true
+imageSrc = "Score de PBAC / Higham pour objectiver les ménorragies par les HCL"
+todo = "Collège, FIGO"
 +++
 
 {{%article-summary%}}
 
-TODO:
+- Définition des ménorragies: règles chez une femme d'âge compatible d'un volume supérieur à 80 mL ou d'une durée supérieure à 6 jours, en dehors de la [grossesse](/tags/grossesse/)
+- Interrogatoire et examen gynécologique complets
+- Bilan des ménorragies de première intention: NFS ± hCG ± TSH et échographie pelvienne par un référent  
+  Pour l'adolescente: pas d'échographie en première intention mais bilan d'hémostase (TP, TCA, fibrinogène, Willebrand et Facteur VIII)
+- Le traitement des ménorragies peut être médical (acide tranexamique), hormonal (pilule œstroprogestative, progestatifs, stérilet hormonal, agonistes de la GnRH) ou chirurgical (conservateur ou hystérectomie)
+- Prise en charge des ménorragies idiopathiques de la femme: acide tranexamique si désir de grossesse proche, sinon DIU au lévonorgestrel ou chirurgie conservatrice à partir de 42 ans. Hystérectomie si souhaitée.
 
-Chapitre lié: [anémie par carence martiale]({{< relref "anemie.md" >}})
+Chapitres liés: [anémie par carence martiale]({{< relref "anemie.md" >}}), [contraception]({{< relref "contraception.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Ménorragies
-: Hémorragies génitales hautes survenant pendant les règles (femmes en âge de procréer et non enceintes): > 80 mL ou durée > 6 jours.
-: Elles peuvent entraîner une altération de la qualité de vie et une [anémie ferriprive]({{< relref "anemie.md" >}}) pouvant être profonde.
+: Hémorragies génitales hautes survenant pendant les règles (femmes en âge de procréer et non enceintes) d'un volume supérieur à 80 mL ou d'une durée supérieure à 6 jours.
+: Les ménorragies peuvent entraîner une **altération de la qualité de vie** et une [anémie ferriprive]({{< relref "anemie.md" >}}) pouvant être profonde.
 : Première cause de consultation des femmes de 30 à 50 ans en gynécologie (1/3 des consultations) et 50% des causes d'hystérectomie.
 
 ### Abréviations
@@ -48,6 +53,8 @@ DIU-LNG
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+Signes et symptômes à rechercher lors du bilan de ménorragies.
+
 ### Interrogatoire
 
 - Antécédents  
@@ -59,12 +66,12 @@ DIU-LNG
   - Ancienneté des troubles
   - Rythme
   - Abondance  
-    Si adolescente ou incertain: score de Higham ou PBAC - Fig. 6
-
-Rechercher des signes d'hypothyroïdie.
+    Si adolescente ou incertain: objectiver l'abondance avec le [score PBAC/Higham (PDF)](https://www.chu-lyon.fr/sites/default/files/score-higham.pdf)
+- Signes d'[hypothyroïdie]({{< relref "hypothyroidie.md" >}})
 
 ### Examen clinique
 
+- Signes d'anémie
 - Examen gynécologique  
   Pour différencier d'hémorragies génitales basses (vulvaire, vaginale, exocervicale).
 
@@ -100,11 +107,11 @@ Il est recommandé de ne pas réaliser d'IRM chez une adulte sans traitement hor
 - avec un bilan d'hémostase et une échographie de référence normaux
 - avec polypes ou adénomyose (sauf doute sur l'adénomyose)
 
-### Autres explorations: hystéroscopie
+### Autres explorations des ménorragies: l'hystéroscopie
 
 Les autres bilans (hystéroscopie diagnostique, hystérosonographie) relèvent du spécialiste.
 
-Indications:
+Indications à l'hystéroscopie:
 
 - Doute échographique sur une pathologie endocavitaire
 - Endomètre ≥ 15 mm
@@ -124,18 +131,20 @@ Le traitement médical est un anti-fibrinolytique:
 
 ### Traitement hormonal des ménorragies
 
-Le traitement hormonal préférentiel est un DIU au lévonorgestrel 52 mg (Donasert®, Mirena®).
+Le traitement hormonal préférentiel est un DIU (stérilet) au lévonorgestrel 52 mg (Donasert®, [Mirena®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66349230&typedoc=R)).  
+Il peut être laissé en place pendant 5 ans.
 
 Autres traitements hormonaux:
 
 - Œstro-progestatifs (COP) et progestatifs
-- Analogues de la GnRH (aGnRH) IM: Decapeptyl®, Enantone®, Gonapeptyl®, Zeulide®
+- Analogues de la GnRH (aGnRH) IM: leuproréline (Enantone®, Zeulide®), triptoréline ([Decapeptyl® LP 3 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67699931&typedoc=R), Gonapeptyl®)  
+  Le rythme d'injection est globalement trimestriel.
 
 ### Traitement chirurgical des ménorragies
 
 #### Traitement chirurgical conservateur
 
-Le chirurgical conservateur comprend les résections et destructions de l'endomètres et les myomectomies, qui sont possibles par hystéroscopie, thermocoagulation ou radiofréquence.
+La chirurgie conservatrice comprend les résections et destructions de l'endomètres et les myomectomies, qui sont possibles par hystéroscopie, thermocoagulation ou radiofréquence.
 
 Les myomes (fibromyomes ou fibromes) sont opérés par hystéroscopie, cœlioscopie et laparotomie (FIGO type 3+).
 
@@ -165,7 +174,7 @@ Traitement de première intention pour des ménorragies idiopathiques:
 #### Ménorragies et hyperplasie endométriale non atypique
 
 - DIU au lévonorgestrel 52 mg (Donasert®, Mirena®)
-- Préservation de la procréation non souhaitée: ou chirurgie conservatrice
+- Préservation de la procréation non souhaitée: chirurgie conservatrice
 
 #### Ménorragies et hyperplasie endométriale atypique
 
@@ -217,11 +226,44 @@ Les traitements médicaux et la radiologie interventionnelle sont aussi possible
 
 ### Prise en charge des ménorragies de l'adolescente
 
-En cas de bilans d'hémostase et d'imagerie normaux: traitement par contraception hormonale (COP, DIU-LNG) ou anti-fibrinolytiques (acide tranexamique).
+En cas de bilans d'hémostase et d'imagerie normaux: traitement par contraception hormonale (COP, DIU-LNG) ou anti-fibrinolytiques acide tranexamique.
 
 En cas d'anomalie isolée à l'imagerie, prise en charge spécifique de la pathologie.
 
-En cas de bilan d'hémostase anormal, adresser en centre de référence de pathologies gynécologiques rares PGR (TODO:).
+En cas de bilan d'hémostase anormal, adresser au [Centre de référence de pathologies gynécologiques rares](https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=fr&Expert=96431) (PGR).
+
+{{% /collapse %}}
+{{%collapse "Conduite à tenir selon le profil" "show" %}}
+
+{{< mermaid title="Prise en charge des ménorragies de l'adolescente selon CNGOF 2022" >}}
+graph TB
+  adolescente[Ménorragies de l'adolescente] --> bilan("Bilan biologique<hr>- NFS ± hCG ± TSH<br>- TP, TCA, fibrinogène<br>- VWF:Ag, VWF:Act, Facteur VIII:C")
+  style adolescente stroke:#4150f5, stroke-width:1px
+    bilan -- Normal --> imagerie(Imagerie?) -- Normale --> traitement("- COP, DIU-LNG<br>- Acide tranexamique")
+      imagerie -- Anormale --> specialiste(Traitement spécifique)
+    bilan -- Anormal --> centre(Centre de référence PGR)
+{{< /mermaid >}}
+
+{{< mermaid title="Prise en charge des ménorragies idiopathiques de la femme selon CNGOF 2022" >}}
+graph TB
+  idiopathique[Ménorragies idiopathiques] --> grossesse(Désir de grossesse<br>à court terme ?)
+  style idiopathique stroke:#4150f5, stroke-width:1px
+    grossesse -- Oui --> tranexamique(Acide tranexamique)
+    grossesse -- Non --> choix("- &lt; 42 ans: DIU-LNG<br>- ≥ 42 ans: chirurgie conservatrice<br>- Hystérectomie si<br>souhaitée")
+{{< /mermaid >}}
+
+La figure suivante ne concerne pas directement notre pratique  mais sert à guider notre patiente lors de la présence de fibromes.
+
+{{< mermaid title="Prise en charge des ménorragies en présence de myomes type 3 et plus selon CNGOF 2022" >}}
+graph TB
+  myome[Souhait de conservation<br>utérine ?]
+  style myome stroke:#4150f5, stroke-width:1px
+    myome --> conservation(Conservation de<br>la fertilité)
+      conservation -- Médical --> medical(aGnRH<br>ou DIU-LNG)
+      conservation -- Chirurgical --> chirurgical(Embolisation<br>Myomectomie)
+    myome --> sterilisation(Stérilisation<hr>- DIU-LNG<br>- Embolisation<br>- Myomectomie<br>- Endométrectomie)
+    myome -- Non/indifférence --> hystérectomie(Hystérectomie)
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
