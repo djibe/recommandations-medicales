@@ -375,7 +375,7 @@ Ces 3 signes d'alerte peuvent être accompagnés, tout aussi soudainement, de tr
 - [Holtkamp M. et al. European Stroke Organisation guidelines for the management of post-stroke seizures and epilepsy. European Stroke Journal. 2017.](https://journals.sagepub.com/doi/full/10.1177/2396987317705536)
 
 {{%/sources%}}
-{{% modal title="Score STOP-BANG" id="modal-saos"%}}
+{{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
 
 {{< scores/stop-bang >}}
 

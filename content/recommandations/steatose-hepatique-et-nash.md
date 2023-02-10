@@ -258,7 +258,7 @@ graph TB
 {{< scores/fib4 >}}
 
 {{% /modal %}}
-{{% modal title="Score STOP-BANG" id="modal-saos"%}}
+{{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
 
 {{< scores/stop-bang >}}
 

@@ -234,7 +234,7 @@ Nécessité d'une consultation dédiée pour la primo-prescription d'une contrac
 - Frottis selon le rythme du dépistage à partir de 25 ans
 - Recherche [Chlamydia]({{< relref "chlamydia-trachomatis.md" >}}) chez 15-25 ans ou partenaires multiples
 
-Reconsulter si: effets indésirables, douleurs pelviennes, ménorragies.
+Reconsulter si: effets indésirables, douleurs pelviennes, [ménorragies]({{< relref "menorragies.md" >}}).
 
 ### Examens complémentaires
 
@@ -304,7 +304,7 @@ Le << Quickstart >> ou démarrage à tout moment du cycle peut être proposé à
 - N'augmentent globalement pas le risque de cancer (voir *Contraception et cancer*)
 - EE + lévonorgestrel/norgestimate en première intention
 - Schéma continu possible  
-Symptômes cataméniaux, ménorragies fonctionnelles, [endométriose]({{< relref "endometriose.md" >}}) ou choix personnel.
+  Symptômes cataméniaux, [ménorragies]({{< relref "menorragies.md" >}}) fonctionnelles, [endométriose]({{< relref "endometriose.md" >}}) ou choix personnel.
 - 5% développent une [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}) (*ESC 2018 HTA*)
 - Les progestatifs de 3e génération (gestodène, désogestrel sauf le norgestimate), la drospirénone ou l'acétate de cyprotérone augmentent plus le risque de MVTE que le lévonorgestrel
 - Les œstroprogestatifs par voies non orales (patch, anneau) ont probablement le même sur-risque veineux
@@ -392,7 +392,7 @@ Les préservatifs sont les seules barrières contre les IST. Informer sur la *Co
 - Privilégier DIU et microprogestatifs
 - Réévaluer une COP, arrêter Ogino
 - DIU cuivre posé après 40 ans (LNG après 45 ans): peut être laissé jusqu'à la [ménopause]({{< relref "menopause.md" >}})
-- Ménorragies ou dysménorrhées (explorées): DIU LNG préféré
+- [Ménorragies]({{< relref "menorragies.md" >}}) ou dysménorrhées (explorées): DIU LNG préféré
 - Stérilisation intéressante
 
 #### Femme après 50 ans
@@ -608,7 +608,7 @@ Bénéfices similaires pour les différentes voies d'administration (orale, vagi
   - [Cancer du côlon]({{< relref "cancer-colorectal.md" >}}) (RR 0,81)
   - Hémopathies malignes
 - Améliorations des troubles du cycle menstruel
-  - Ménorragies
+  - [Ménorragies]({{< relref "menorragies.md" >}})
   - Dysménorrhées
   - Syndrome prémenstruel
 - Améliore les symptômes de l'endométriose
@@ -628,9 +628,9 @@ Bénéfices similaires pour les différentes voies d'administration (orale, vagi
 
 #### Bénéfices du DIU LNG
 
-- Ménorragies (traitement de référence et de prévention de l'anémie)
+- [Ménorragies]({{< relref "menorragies.md" >}}) (traitement de référence et de prévention de l'anémie)
 - Dysménorrhée (après exploration)
-- Endométriose  
+- [Endométriose]({{< relref "endometriose.md" >}})  
   En 1<sup>re</sup> intention en alternative à la COP et après chirurgie.
 
 #### Bénéfices du DIU cuivre

@@ -204,7 +204,7 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{< scores/mmrc >}}
 
 {{% /modal %}}
-{{% modal title="Score STOP-BANG" id="modal-saos"%}}
+{{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
 
 {{< scores/stop-bang >}}
 

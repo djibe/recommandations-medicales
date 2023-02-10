@@ -1,17 +1,16 @@
 {
   "concurrency": 100,
   "skip": [
+    "^(?!http)",
     "recomedicales.fr",
     "doi.org",
     "journals.sagepub.com",
-    "github.com",
-    "images/",
-    "tags/",
-    "projet/"
+    "acpjournals.org",
+    "github.com"
   ],
   "format": "csv",
   "verbosity": "error",
-  "markdown": true,
+  "markdown": false,
   "retry": true,
   "retryErrors": true,
   "retryErrorsCount": 3,

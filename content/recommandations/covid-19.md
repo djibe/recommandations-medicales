@@ -201,13 +201,6 @@ Atteintes possibles après une infection à Sars-Cov-2.
 {{< youtube id="Aj3reT1GI_8" title="Technique de prélèvement nasal" >}}
 
 {{%/collapse%}}
-{{%collapse "Outils de télésurveillance" %}}
-
-### Télésurveillance en Ile-de-France
-
-[Covidom. Suivi des personnes infectées](https://inscription.covidom.fr/1)
-
-{{%/collapse%}}
 {{%sources%}}
 
 ### Haut Conseil de la Santé Publique

@@ -434,7 +434,7 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 - [Colson MH et al. Démarche diagnostique et prise en charge du patient souffrant de dysfonction érectile, actualisation et consignes pratiques. Sexologies. 2018.](https://www.em-consulte.com/en/article/1198573)
 - [Colson MH et al; AIUS. La dysfonction érectile du diabétique. Sexologies. 2018.](https://www.sciencedirect.com/science/article/pii/S1158136018300112)
 - [Nehra A et al. The Princeton III Consensus Recommendations for the Management of Erectile Dysfunction and Cardiovascular Disease. Mayo Clinic Proceedings. 2012.](https://www.mayoclinicproceedings.org/article/S0025-6196%2812%2900635-0/fulltext)
-- [Cuzin B. et al; AIUS. Recommandations aux médecins généralistes pour la prise en charge de première intention de la dysfonction érectile. 2010.](https://ur.booksc.eu/book/17263369/eede54)
+- [Cuzin B. et al; AIUS. Recommandations aux médecins généralistes pour la prise en charge de première intention de la dysfonction érectile. 2010. (PDF)](https://aius.fr/wp-content/uploads/Reco-AIUS-2010-DE.pdf)
 
 ### À lire
 
@@ -452,12 +452,12 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 {{< clinique/risque-cardiovasculaire >}}
 
 {{% /modal %}}
-{{% modal title="Score STOP-BANG" id="modal-saos"%}}
+{{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
 
 {{< scores/stop-bang >}}
 
 {{% /modal %}}
-{{% modal title="Score IIEF-5" id="modal-iief5"%}}
+{{% modal title="Score IIEF-5 de la dysfonction érectile" id="modal-iief5"%}}
 
 {{< scores/iief5 >}}
 

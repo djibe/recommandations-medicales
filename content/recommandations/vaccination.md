@@ -285,7 +285,7 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
-- [Ministère de la Santé. La vaccination du nourrisson contre les rotavirus. Questions/Réponses pour les professionnels de santé. Novembre 2022.](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-ps_nov22.pdf)
+- [Ministère de la Santé. La vaccination du nourrisson contre les rotavirus. Questions/Réponses pour les professionnels de santé. Novembre 2022.](https://sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-ps.pdf)
 - [Omedit Auvergne. Vaccination et Chimiothérapie. 22/07/2022.](https://www.omedit-auvergne-rhone-alpes.ars.sante.fr/vaccination-et-chimiotherapie)
 - [HAS. La HAS recommande la vaccination des nourrissons contre les infections à rotavirus. 12/07/2022.](https://www.has-sante.fr/jcms/p_3352137/fr/la-has-recommande-la-vaccination-des-nourrissons-contre-les-infections-a-rotavirus)
 - {{< references/calendrier-vaccinal >}}

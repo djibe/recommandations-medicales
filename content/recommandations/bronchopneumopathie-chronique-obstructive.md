@@ -299,7 +299,7 @@ Indications aux gaz du sang: SpO<sub>2</sub> < 92%, {{< modal-btn modal-score-mm
 
 ### Sortie d'hospitalisation après une exacerbation de BPCO
 
-[Carnet de suivi après mon hospitalisation pour BPCO (Prado)](https://www.ameli.fr/node/400222)
+[Carnet de suivi après mon hospitalisation pour BPCO (Prado PDF)](https://www.ameli.fr/sites/default/files/carnet_de_suivi_contenu_s2017.pdf)
 
 - L'hôpital inclut dans le [programme Prado BPCO](https://www.ameli.fr/medecin/exercice-liberal/services-patients/prado#text_19402)
 - Consultation du médecin traitant dans la semaine  

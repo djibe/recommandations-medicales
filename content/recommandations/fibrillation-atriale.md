@@ -390,7 +390,7 @@ Information du patient et de l'entourage sur la fibrillation atriale.
 {{< clinique/facteur-risque-chute >}}
 
 {{% /modal %}}
-{{% modal title="Score STOP-BANG" id="modal-saos"%}}
+{{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
 
 {{< scores/stop-bang >}}
 

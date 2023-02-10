@@ -420,7 +420,7 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 {{< youtube id="XnQ4rNUkEyU" title="La minute RECO HAS | VIH : le suivi en médecine générale (Dr Jean-Philippe Joseph)" >}}
 
 - {{< references/calendrier-vaccinal >}}
-- [CMIT. Infection à VIH. Item 165 UE6. ECN.Pilly 2020. (PDF)](https://www.infectiologie.com/UserFiles/File/formation/ecn-pilly-2020/ecn-2020-ue6-165-nb.pdf)
+- CMIT. Infection à VIH. Item 165 UE6. ECN.Pilly 2020.
 - [Cazein F. et al. Activité de dépistage du VIH et circonstances de découverte de l'infection à VIH, France 2018. Bull Epidémiol Hebd. 2019.](http://beh.santepubliquefrance.fr/beh/2019/31-32/2019_31-32_1.html)
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
@@ -429,7 +429,8 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 
 ### À lire
 
-[HAS. Infection par le VIH](https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih)
+- [CMIT. Infection à VIH. Item 169. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-169-web.pdf)
+- [HAS. Infection par le VIH](https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih)
 
 {{%/sources%}}
 {{% modal title="Vaccination hépatite A" id="modal-vaccin-hepatite-a"%}}
