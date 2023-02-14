@@ -8,7 +8,7 @@ synonyms = ["Insuffisance cardiaque à FEVG altérée", "insuffisance cardiaque 
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
 publishdate = "2021-06-03"
-lastmod = "2023-02-03"
+lastmod = "2023-02-13"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS"]
@@ -18,17 +18,17 @@ sctid = "48447003"
 flowchart = true
 image = true
 imageSrc = "Illustration de l'insuffisance cardiaque par vectorjuice / Freepik"
-todo = "sup. Table 4 MRA+5Sacu+7Diur, depression Beck, https://www.ahajournals.org/doi/10.1161/CIR.0000000000001110"
+todo = "sel pour tous?, sup. Table 4 MRA+5Sacu+7Diur, depression Beck, https://www.ahajournals.org/doi/10.1161/CIR.0000000000001110"
 +++
 
 {{%article-summary%}}
 
 - Évoquer systématiquement une insuffisance cardiaque en cas de fatigue, dyspnée, œdèmes des chevilles ou même des signes non spécifiques chez la personne âgée
-- Bilan initial devant une suspicion d'insuffisance cardiaque chronique: ECG, NT-proBNP et consultation de cardiologie
-- Bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), anémie)
-- Contrôle des facteurs de risque cardiovasculaire: HTA, tabac, dyslipidémie
-- Maximiser les posologies du traitement: {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} voire Valsartan/sacubitril, {{< modal-btn modal-bb >}}BB{{< /modal-btn >}}, anti-aldostérone, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} (dapagliflozine ++), ferritine > 100 ng/mL
-- Éducation thérapeutique pour la surveillance des poids-tension et l'adaptation des diurétiques
+- Bilan initial devant une suspicion d'insuffisance cardiaque chronique: ECG, NT-proBNP avec biologie complète et consultation de cardiologie
+- Bilan des autres hypothèses diagnostiques ([BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}), anémie) d'une fatigue ou d'une dyspnée
+- Contrôle des facteurs de risque cardiovasculaire: HTA, tabac, dyslipidémie, obésité, diabète
+- Prise en charge: maximiser les posologies des traitements {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} voire valsartan/sacubitril (Entresto®), {{< modal-btn modal-bb >}}bêta-bloquant{{< /modal-btn >}} (maintenir FC ≥ 50/min), anti-aldostérone, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} (dapagliflozine ++), ferritine +100 ng/mL
+- Éducation thérapeutique pour la surveillance des poids et tension et l'adaptation des diurétiques
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -69,6 +69,9 @@ PN: BNP ≥ 35 pg/mL ou NT-proBNP ≥ 125 pg/mL (ESC Se 95%; Spe 50% - NICE 400 
 BAV
 : bloc atrio-ventriculaire
 
+BB
+: bêta-bloquant
+
 BNP
 : {{%lang%}}brain natriuretic peptide{{%/lang%}}
 
@@ -87,14 +90,14 @@ ETT
 FA
 : fibrillation atriale
 
+FC
+: fréquence cardiaque
+
 FE
 : fraction d'éjection (sous-entendu FEVG)
 
 FEVG
 : fraction d'éjection ventriculaire gauche ({{%lang%}}LVEF - left ventricular ejection fraction{{%/lang%}})
-
-FC
-: fréquence cardiaque
 
 HTA
 : hypertension artérielle
@@ -207,7 +210,7 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
 
 En état stable l'examen de l'insuffisant cardiaque est pauvre. La présence de signes cliniques est donc un élément de gravité.
 
-- Pression artérielle, fréquence cardiaque, pouls
+- Pression artérielle, fréquence cardiaque
 - Poids et variations, taille, IMC
 - Cardiaque
   - Tachycardie modérée voire trouble du rythme, souffle
@@ -262,6 +265,8 @@ Indications à une consultation génétique: cardiomyopathie hypertrophique (CMH
 {{% /collapse %}}
 {{%collapse "Mesures générales" %}}
 
+Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaque:
+
 - Hypertension artérielle
   - Seuil diagnostique ≥ 140/90 mmHg (*ESC 2018*)
   - Cible < 140/90 mmHg (cible mal connue, selon comorbidités, *ESC 2021*)
@@ -300,16 +305,17 @@ Indications à une consultation génétique: cardiomyopathie hypertrophique (CMH
 {{% /collapse %}}
 {{%collapse "Traitement de l'insuffisance cardiaque à fraction d'éjection diminuée (ICFEd)" %}}
 
-**3 objectif de la prise en charge de l'insuffisance cardiaque à FE diminuée:** réduire la mortalité, les hospitalisations pour décompensation, améliorer les capacités fonctionnelles et la qualité de vie.
+**La prise en charge de l'insuffisance cardiaque à fraction d'éjection diminuée a 3 objectifs:** réduire la mortalité, les hospitalisations pour décompensation, améliorer les capacités fonctionnelles et la qualité de vie.
 
 - {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} dose maximale  
-  Remplacé par [valsartan/sacubitril](https://www.ema.europa.eu/en/documents/product-information/entresto-epar-product-information_fr.pdf) si insuffisant.
-- {{< modal-btn modal-bb >}}Bêtabloquant{{< /modal-btn >}} dose maximale
+  Remplacé par [valsartan/sacubitril](https://www.ema.europa.eu/en/documents/product-information/entresto-epar-product-information_fr.pdf) (Entresto®) si insuffisant ou IEC mal toléré
+- {{< modal-btn modal-bb >}}Bêta-bloquant{{< /modal-btn >}} dose maximale  
+  En maintenant la FC ≥ 50/min ou sur avis cardiologique en-dessous.
 - Anti-aldostérone spironolactone ou éplérénone
-- {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} systématique
+- {{< modal-btn modal-isglt2 >}}Dapagliflozine ou empagliflozine{{< /modal-btn >}} 10 mg/j systématique (iSGLT2)
 - Traitements de 2<sup>e</sup> ligne: symptômes persistants
   - Ivabradine  
-    Indication: FEVG ≤ 35% et pouls ≥ 70/min sous BB dose maximale ou mal tolérés.
+    Indication: FEVG ≤ 35% et fréquence cardiaque ≥ 70/min sous BB dose maximale ou mal tolérés.
   - Vericiguat
   - Hydralazine et isosorbide dinitrate chez les sujets noirs
   - Digoxine
@@ -337,6 +343,8 @@ Indications à la greffe cardiaque: symptômes invalidants, mauvais pronostic, a
 {{% /collapse %}}
 {{%collapse "Traitement de l'insuffisance cardiaque à fraction d'éjection modérément diminuée" %}}
 
+Peu de traitements ont fait leurs preuves pour la prise en charge de l'ICFEmd:
+
 - Diurétique à visée symptomatique  
   Voir *Mesures générales*
 - {{< modal-btn modal-isglt2 >}}Empagliflozine 10 mg{{< /modal-btn >}} (*HAS 09/2022*)  
@@ -344,23 +352,24 @@ Indications à la greffe cardiaque: symptômes invalidants, mauvais pronostic, a
 
 ### Traitements à considérer
 
-- {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} dose maximale  
-  Remplacé par [valsartan/sacubitril](https://www.ema.europa.eu/en/documents/product-information/entresto-epar-product-information_fr.pdf) si insuffisant.
-- {{< modal-btn modal-bb >}}Bêtabloquant{{< /modal-btn >}} dose maximale
+- {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} ou {{< modal-btn modal-ara2-ic >}}ARA2{{< /modal-btn >}} à dose maximale  
+  Remplacé par [valsartan/sacubitril](https://www.ema.europa.eu/en/documents/product-information/entresto-epar-product-information_fr.pdf) (Entresto®) si insuffisant.
+- {{< modal-btn modal-bb >}}Bêta-bloquant{{< /modal-btn >}} dose maximale  
+  En maintenant la FC ≥ 50/min ou sur avis cardiologique en-dessous.
 - Anti-aldostérone spironolactone ou éplérénone
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'insuffisance cardiaque à fraction d'éjection préservée (ICFEp)" %}}
 
 - Contrôle strict des facteurs de risque cardiovasculaire, des comorbidités (arythmie...) et surcharges volumiques (solutés, produits de contraste iodés)
-- Faible niveau de preuve d'efficacité: nébivolol, {{< modal-btn modal-ara2 >}}candésartan{{< /modal-btn >}}, spironolactone.
+- Faible niveau de preuve d'efficacité: {{< modal-btn modal-bb >}}nébivolol{{< /modal-btn >}}, {{< modal-btn modal-ara2-ic >}}candésartan{{< /modal-btn >}}, spironolactone.
 - {{< modal-btn modal-isglt2 >}}Empagliflozine 10 mg{{< /modal-btn >}} (*HAS 09/2022*)  
-  **NB.** Non citée dans les recommandations car essai Emperor-preserved publié après.
+  **NB.** Non citée dans les recommandations ESC car essai Emperor-preserved publié après.
 - Diurétique à visée symptomatique  
   Voir *Mesures générales*
 
 {{% /collapse %}}
-{{%collapse "Hospitalisation" %}}
+{{%collapse "Hospitalisation pour décompensation d'insuffisance cardiaque" %}}
 
 {{%warning%}}
 
@@ -383,7 +392,7 @@ Indications à la greffe cardiaque: symptômes invalidants, mauvais pronostic, a
 
 {{%/warning%}}
 
-### Sortie d'hospitalisation
+### Sortie d'hospitalisation pour insuffisance cardiaque
 
 Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 
@@ -391,12 +400,12 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
   Coter *GS* + *MIC* (23€, total 48€).
 - Puis consultation minimum toutes les 2 semaines pour la titration maximale des {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} et {{< modal-btn modal-bb >}}BB{{< /modal-btn >}}
 - Consultation avec le cardiologue  
-  Sous 2 semaines +++ à 2 mois.
+  Sous **2 semaines** à 2 mois.
 
-> [Mebazaa 2015](https://doi.org/10.1002/ejhf.289)
+> *[Mebazaa 2015](https://doi.org/10.1002/ejhf.289)*
 
 {{% /collapse %}}
-{{%collapse "Surveillance" %}}
+{{%collapse "Surveillance de l'insuffisant cardiaque" %}}
 
 {{< table title="Nombre minimal de consultations par an de l'<strong>ICFEd</strong> en état stable. HAS 2014" >}}
 | NYHA  | Généraliste | Cardiologue |
@@ -437,7 +446,7 @@ graph TB
 suspicion[Suspicion d'insuffisance cardiaque]
 style suspicion stroke:#4150f5, stroke-width:1px
   suspicion --> clinique("<b>Examen clinique</b><hr>- HTA, coronarien<br>- Cardiotoxiques, diurétiques<br>- Orthopnée ou autre<hr>- Crépitants, œdèmes chevilles<br>- Souffle cardiaque<br>- Turgescence jugulaire<br>- Choc de pointe<hr>- ECG anormal")
-    clinique --> BNP("NT-proBNP ≥ 125 pg/mL (ou 400)<br>ou BNP ≥ 35 pg/mL<br>ou forte suspicion d'IC")
+    clinique --> BNP("NT-proBNP ≥ 125 pg/mL<br>ou BNP ≥ 35 pg/mL<br>ou forte suspicion d'IC")
       BNP -- Oui --> ETT(Échocardiographie)
         ETT -- Anormale --> diagnostic("Diagnostic d'IC<br>Traitement étiologique<br>Traitement selon la FEVG")
         style diagnostic stroke:#4150f5, stroke-width:1px
@@ -447,7 +456,7 @@ style suspicion stroke:#4150f5, stroke-width:1px
 
 ---
 
-{{< mermaid title="Prise en charge d'une insuffisance cardiaque symptomatique à l'état stable. Dr JB Fron d'après ESC 2021" >}}
+{{< mermaid title="Prise en charge et traitement d'une insuffisance cardiaque symptomatique à l'état stable. Dr JB Fron d'après ESC 2021" >}}
 graph TB
 ICFEd["Patient symptomatique avec ICFEd<br>FEVG ≤ 40%"]
 style ICFEd stroke:#4150f5, stroke-width:1px
@@ -458,7 +467,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
         choix -- Oui --> ICD("QRS &lt; 130 et approprié ?") -- Oui --> defibrillateur(Défibrillateur) --> persistant
 {{< /mermaid >}}
 
-> ICFEd: IC à fraction d'éjection diminuée
+> ICFEd: insuffisance cardiaque à fraction d'éjection diminuée
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
@@ -575,9 +584,9 @@ réalistes
 {{< traitements/iec-ic >}}
 
 {{% /modal %}}
-{{% modal title="ARA2 dans l'hypertension" id="modal-ara2" size="lg"%}}
+{{% modal title="ARA2/sartans dans l'IC" id="modal-ara2-ic" size="lg"%}}
 
-{{< traitements/ara2 >}}
+{{< traitements/ara2-ic >}}
 
 {{% /modal %}}
 {{% modal title="BB dans l'IC" id="modal-bb"%}}

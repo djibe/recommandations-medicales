@@ -280,7 +280,7 @@ graph TB
 
 ### À lire
 
-[Pharmacotherapeutica. Traitement local de l’eczéma atopique. Folia. 2023.](https://www.cbip.be/fr/articles/3982?folia=3979)
+[Pharmacotherapeutica. Traitement local de l'eczéma atopique. Folia. 2023.](https://www.cbip.be/fr/articles/3982?folia=3979)
 
 {{%/sources%}}
 {{% modal title="Dermocorticoïdes" id="modal-dc" size="lg" %}}

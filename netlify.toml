@@ -82,6 +82,12 @@ HUGO_ENABLEGITINFO = "false"
     Cache-Control = "public, max-age=2419200, must-revalidate, stale-while-revalidate=86400"
 
 [[redirects]]
+  from = "https://recommandations-medicales.netlify.app/*"
+  to = "https://recomedicales.fr/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/images/photos/canal-carpien.webp"
   to = "/images/photos/syndrome-canal-carpien.webp"
   status = 301

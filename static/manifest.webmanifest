@@ -1,19 +1,14 @@
 {
   "name": "RecoMédicales",
   "short_name": "RecoMédicales",
-  "description": "Les dernières recommandations médicales pour la pratique au cabinet médical",
+  "description": "Dernières recommandations médicales pour la pratique du généraliste",
   "lang": "fr",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
       "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/android-chrome-192x192.png",
-      "sizes": "192x192",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     },
     {
       "src": "/android-chrome-512x512.png",

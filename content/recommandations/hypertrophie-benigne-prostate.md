@@ -6,35 +6,39 @@ description = "Recommandations pour la prise en charge de l'hypertrophie de pros
 synonyms = ["Hyperplasie bénigne de la prostate", "prostatisme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-04T10:52:08+02:00"
-publishdate = "2023-02-09"
-lastmod = "2023-02-09"
+publishdate = "2023-02-13"
+lastmod = "2023-02-13"
 specialites = ["urologie"]
 annees = "2022"
-sources = ["EAU"]
+sources = ["EAU", "AFU"]
 tags = ["geriatrie"]
 anglais = ["Benign prostatic hyperplasia (BPH)"]
 sctid = "266569009"
 draft = true
 image = false
 imageSrc = ""
-todo = "Collège p.19, 360Medics, Prescrire, Cochrane, SEO, liens"
+todo = "EAU p.51, 360Medics, flowchart EAU p.16, SEO, liens"
 +++
-
-{{< scores/ipss >}}
 
 {{%article-summary%}}
 
-- Ces recommandations sont limitées au traitement de l'HBP non compliquée chez l'homme +50 ans
-- TODO:
-- Nycturie: rechercher des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}
+- L'hypertrophie bénigne de la prostate (HBP) est pathologie bénigne liée à l'âge pouvant entraîner de troubles urinaires et des complications (rétention d'urines, insuffisance rénale ...)
+- Ces recommandations sont limitées au traitement de l'HBP non compliquée chez l'homme +40 ans
+- Le diagnostic d'HBP est clinique avec des symptômes du bas appareil urinaire (SBAU) et un toucher rectal obligatoire
+- Rechercher des troubles de la libido, une [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) ou de l'éjaculation
+- Nycturie: [agenda mictionnel (PDF)](https://www.urofrance.org/fileadmin/medias/scores/catalogue-mictionnel.pdf) et recherche d'{{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}
+- Bilan initial de l'hypertrophie de la prostate: {{< modal-btn modal-ipss >}}score IPSS{{< /modal-btn >}}, ECBU et mesure du résidu post-mictionnel (*EAU*) voire PSA, créatininémie et échographie
+- Prise en charge de l'hypertrophie prostatique: mesures hygiéno-diététiques et selon l'intensité des symptômes: abstention, alpha-bloquant ou autres
+- Suivi de l'HBP: symptômes {{< modal-btn modal-ipss >}}urinaires{{< /modal-btn >}} et {{< modal-btn modal-iief5 >}}sexuels{{< /modal-btn >}}, tolérance et efficacité des traitements
+- Avis urologique si: toucher rectal non fait, symptômes atypiques, examen ou ECBU anormal, échec du traitement, complication ...
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Hypertrophie bénigne de la prostate (HBP)
 : Augmentation bénigne du volume de la prostate liée à l'âge, le plus souvent asymptomatique.
-: L'HBP est la première cause de symptômes du bas appareil urinaire (SBAU) chez l'homme de plus de 50 ans. Moins d'un tiers des hommes sont gênés après 65 ans.
-: **Complications chroniques de l'hypertrophie prostatique:** vessie de lutte, lithiase vésicale de stase, [insuffisance rénale chronique obstructive]({{< relref "insuffisance-renale-chronique.md" >}}) et [hernie inguinale]({{< relref "hernie-parietale.md" >}}).
+: L'HBP est la première cause de symptômes du bas appareil urinaire (SBAU) chez l'homme de plus de 50 ans: elle est dite HBP clinique. Moins d'un tiers des hommes sont gênés après 65 ans.
+: **Complications chroniques de l'hypertrophie prostatique:** vessie de lutte, lithiase vésicale de stase, [insuffisance rénale chronique obstructive]({{< relref "insuffisance-renale-chronique.md" >}}) et [hernie pariétale]({{< relref "hernie-parietale.md" >}}). L'HBP n'augmente pas le risque de [cancer de la prostate]({{< relref "cancer-prostate.md" >}}).
 : **Complications aiguës:** rétention aiguë d'urines, [infections urinaires]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}) et [génitales]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}), hématurie initiale et [insuffisance rénale aiguë obstructive]({{< relref "insuffisance-renale-aigue.md" >}}).
 
 {{%info%}}
@@ -46,6 +50,9 @@ Après 60 ans, une seule miction nocturne et un intervalle de 4 heures entre 2 m
 {{%/info%}}
 
 ### Abréviations
+
+AFU
+: Association Française d'Urologie
 
 EAU
 : Association européenne d'urologie ({{%lang%}}European Association of Urology{{%/lang%}})
@@ -83,11 +90,11 @@ Le diagnostic d'hypertrophie bénigne de prostate est clinique.
 ### Interrogatoire
 
 - Antécédents médicaux  
-  Neurologiques, [diabète](/tags/diabete/), chirurgicaux et urinaires (infection, hématurie).
+  Neurologiques, [diabète](/tags/diabete/), chirurgicaux, urinaires (infection, hématurie), radiothérapie pelvienne.
 - Traitements en cours
 - Tabagisme
 - Recherche de complications  
-  Rétention aiguë d'urines, infection urinaire récidivante, hématurie macroscopique, diverticule vésical symptomatique, lithiase vésicale.
+  Rétention aiguë d'urines, [infection urinaire récidivante]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), hématurie macroscopique, diverticule vésical symptomatique, lithiase vésicale.
 - Terminologie des symptômes du bas appareil selon l'*International Continence Society* (ICS):
   - Phase de remplissage  
     Pollakiurie diurne et nocturne, urgenturie (impériosité mictionnelle), nycturie, incontinence urinaire.
@@ -103,16 +110,21 @@ Le diagnostic d'hypertrophie bénigne de prostate est clinique.
   - Sensation de vessie non vidée, besoin d'uriner en sortant des toilettes, interruption du jet, difficultés à se retenir, diminution de la taille et la force du jet, mictions nocturnes.
   - {{< modal-btn modal-ipss >}}Score IPSS{{< /modal-btn >}}
 - [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}): {{< modal-btn modal-iief5 >}}score IIEF-5{{< /modal-btn >}}
-- Nycturie ou gêne de remplissage: agenda mictionnel
+- Nycturie ou gêne de remplissage: [agenda mictionnel (PDF)](https://www.urofrance.org/fileadmin/medias/scores/catalogue-mictionnel.pdf) (sur ≥ 3 jours)
 - Nycturie: rechercher des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}
 
 ### Examen clinique
 
 - Poids, taille, IMC
-- Aspect des pénis, méat et bourses, phimosis
+- Déficit des membres inférieurs
+- Aspect des pénis, méat et bourses  
+  Recherche: [écoulement urétral]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}), sténose du méat, [phimosis]({{< relref "phimosis.md" >}}), cancer du pénis.
 - Globe vésical
-- Toucher rectal  
-  Prostate volumineuse (> 20mL), ferme, indolore, lisse, régulière avec disparition du sillon médian.
+- Toucher rectal: prostate volumineuse (> 20mL), ferme, indolore, lisse, régulière avec disparition du sillon médian.  
+  **Avis urologique** si non fait.
+- Bandelette urinaire
+
+> Absence de relation entre la sévérité des troubles et le volume prostatique
 
 ### Le diagnostic différentiel dépend du syndrome clinique
 
@@ -121,7 +133,7 @@ Le diagnostic d'hypertrophie bénigne de prostate est clinique.
 |------------------------------------|-------------------------|
 | Nycturie prédominante<br>ou isolée | Polyurie nocturne (diurétiques, modification du rythme nycthéméral, [SAOS]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})), polyurie des 24 heures ([diabète](/tags/diabete/), potomanie) et troubles du sommeil. Agenda mictionnel |
 | Phase de remplissage               | Tumeur de vessie, vessie neurologique centrale, prostatite, calcul ou corps étranger vésical |
-| Mictionnels ou post-mictionnels    | Sténose de l'urètre, maladie du col vésical, hypotonie détrusorienne (+80 ans ou RPM > 300 mL) |
+| Mictionnels ou post-mictionnels    | [Cancer de la prostate]({{< relref "cancer-prostate.md" >}}), sténose de l'urètre, maladie du col vésical, hypotonie détrusorienne (+80 ans ou RPM > 300 mL) |
 {{< /table >}}
 
 {{% /collapse %}}
@@ -129,19 +141,19 @@ Le diagnostic d'hypertrophie bénigne de prostate est clinique.
 
 Bilan d'hypertrophie bénigne de prostate (HBP) de première intention:
 
-- BU ou **ECBU**  
+- BU ou ECBU  
   {{%class%}}Seul examen complémentaire recommandé de façon systématique par la EAU.{{%/class%}}
-- PSA
-- Créatininémie avec DFG CKD-EPI
-- Mesure du résidu post-mictionnel (RPM)
-  - Quantification par échographie, Bladder scan ou cathéterisme
-  - Positif si > 50 mL
-- Échographie réno-vésico-prostatique  
-  Échographie rénale si volumineux résidu post-mictionnel, hématurie ou antécédents de lithiase urologique.
+- Mesure du résidu post-mictionnel (RPM)  
+  Quantification par échographie ou Bladder scan. Positif si > 50 mL.
+- ± PSA (si traitement envisageable)
+- ± Créatininémie avec DFG CKD-EPI (si facteurs de risque)
+- ± Échographie réno-vésico-prostatique  
+  Indications: volumineux résidu post-mictionnel, hématurie ou antécédents de lithiase urinaire.
+- RPM > 150 mL: débitmétrie urinaire (*EAU 2022*)
 
-TODO: comparaison EAU 22 / AFU 15
+> Bilan de l'HBP selon *EAU 2022* et *AFU 2015*
 
-Le bilan urodynamique et est réservé à l'urologue.
+Le bilan urodynamique et les autres examens sont réservés à l'urologue.
 
 {{% /collapse %}}
 {{%collapse "Qui adresser à l'urologue ?" %}}
@@ -155,16 +167,18 @@ Le bilan urodynamique et est réservé à l'urologue.
 - ECBU anormal
 - Échec du traitement médical
 - Avant traitement anticholinergique
-- Augmentation du PSA sous inhibiteur de la 5alpha-réductase
+- Augmentation du PSA sous inhibiteur de la 5-alpha-réductase
 - Obstruction sévère ou complication  
-  Symptômes sévères, rétention aiguë d'urines, insuffisance rénale, prostatite aiguë, résidu post-mictionnel > 100 mL ...
+  Symptômes sévères, rétention aiguë d'urines, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), [prostatite aiguë]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}), calcul ou diverticule de la vessie, résidu post-mictionnel > 100 mL.
 
-> *AFU*
+> *AFU 2015*
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hypertrophie bénigne de prostate HBP" %}}
 
 Informer le patient sur le caractère bénin et les modalités existantes pour un choix éclairé. Absence de supériorité d'un traitement médical par rapport à un autre.
+
+Une première réévaluation est nécessaire à 6 mois.
 
 ### Mesures hygiéno-diététiques
 
@@ -181,70 +195,81 @@ Mesures hygiéniques pour tous les patients rapportant des SBAU liés à une HBP
 
 ### Abstention-surveillance
 
-Indication: HBP non compliquée avec symptômes légers ou acceptables (score IPSS ≤ 7-8) avec gêne minime.
+Indication: HBP non compliquée avec symptômes légers ou acceptables ({{< modal-btn modal-ipss >}}score IPSS{{< /modal-btn >}} ≤ 7-8) avec gêne minime.
 
 ### Phytothérapie
 
-Ne peut pas être associée aux autres traitements.  
+Indication à la phytothérapie: symptômes gênants.
+
+Elle ne peut pas être associée aux autres traitements.  
 {{%class%}}Chaque formulation est très différente empêchant des études de qualité. L'EAU 2017 ne peut se prononcer.{{%/class%}}
 
 - ~~Pygeum Africanum~~ (Tadenan®, non disponible)
-- Serenoa Repens (Palmier de Floride, Permixon®, Prodinan®)  
-  Revue Cochrane: pas de supériorité au placebo.
+- [Serenoa Repens](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63398507&typedoc=R) 160 mg x 2/j (Permixon®, Prodinan®, Sereprosta®, AMM pour 6 mois de traitement)  
+  Cochrane: pas de supériorité au placebo.
 
 ### Alpha-bloquants
 
 {{%info%}}
-Alfuzosine LP 10 mg, 1 cp après le dîner au long cours
+Alfuzosine LP 10 mg après le dîner ou 2,5 mg x 3/j au long cours (x 2/j si âgé)
 
 ---
 
-Contre-indications: allergie à l'alfuzosine, hypotension orthostatique, insuffisance hépatique, IRC sévère, association CYP3A4.  
-Effets indésirables: hypotension orthostatique et syncope parfois sévères et surtout en début de traitement.  
+Contre-indications: allergie à l'alfuzosine, hypotension orthostatique, insuffisance hépatique, insuffisance rénale sévère, association CYP3A4.  
+**Effets indésirables:** fatigue, vertiges, hypotension orthostatique, syncope avec risque de fracture (OR 1,16) survenant surtout en début de traitement, troubles de l'éjaculation. Ne pas initier avant chirurgie de la cataracte.  
 Attention aux associations avec antihypertenseurs et aux conducteurs de véhicules.
 {{%/info%}}
 
-Indication: symptômes gênants.  
-Peut être associé aux inhibiteurs de la 5α-réductase chez les hommes avec gêne modérée à sévère et prostate +40 mL, voire aux anticholinergiques.  
-Efficaces après 48 heures de traitement.
+Indication: symptômes gênants.
 
-Alpha-bloquants disponibles: [alfuzosine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61609749&typedoc=R), doxazosine, prazosine, silodosine, tamsulosine, térazosine.
+Alpha-bloquants disponibles: [alfuzosine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64068708&typedoc=R), doxazosine, prazosine, [silodosine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67692214&typedoc=R) (absence d'hypotension selon *EAU 2022*), [tamsulosine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68470152&typedoc=R), térazosine.
 
-Consultation de contrôle précoce pour évaluer l'efficacité.
+Efficace en 48 heures. Consultation de contrôle précoce pour évaluer l'efficacité.
 
-### Inhibiteurs de la 5alpha-réductase (I5AR)
+Un alpha-1 bloquant peut être associé aux inhibiteurs de la 5α-réductase chez les hommes avec gêne modérée à sévère et prostate +40 mL, voire un anticholinergique ou un agoniste bêta-3 sur avis spécialisé.
 
-Dutastéride 0,5 mg x 1/j pendant au moins 6 mois
+### Inhibiteurs de la 5-alpha-réductase (I5AR)
+
+Dutastéride 0,5 mg x 1/j au long cours
 {.alert .alert-info}
 
-Indication: symptômes gênants et prostate +40mL.  
-Efficace après 6 mois de traitement.  
+**Indication aux I5AR:** symptômes gênants et prostate +40mL.
+
+**Effets indésirables:** dysfonction érectile et éjaculation rétrograde, baisse de la libido, gynécomastie, troubles psychiatriques (anxiété, dépression). Délai d'apparition de 1 an.
+
+Efficace après 6 mois de traitement, réduction du volume prostatique sur plusieurs années.  
 Seule classe à réduire le risque de rétention aiguë d'urines.
 
 Peut être associé à un alpha-bloquant (tamsulosine + dutastéride [Combodart® ou gén](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65913639&typedoc=R)) chez les hommes avec symptômes gênants et prostate +40 mL.
 
-Les IPDE5 entraînent une diminution du PSA de moitié
+Les IPDE5 entraînent une diminution du PSA de moitié (*McConnell 2003*)
 {.alert .alert-info}
 
 - [Dutastéride 0,5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67513654&typedoc=R) (Avodart®, gén)
 - Finastéride 5 mg (Chibro-Proscar®, gén)  
   {{%class "warning"%}}Surveillance renforcée de l'ANSM pour troubles sexuels et psychiatriques{{%class%}}
 
-**Effets indésirables:** dysfonction érectile et éjaculation rétrograde, baisse de la libido, gynécomastie, troubles psychiatriques (anxiété, dépression). Délai d'apparition de 1 an.
-
 ### Inhibiteurs de la phosphodiestérase de type 5 (IPDE5)
 
-Indication: symptômes gênants et [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}).
+Indication aux IPDE5: symptômes gênants avec ou sans [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}).
 
 [Tadalafil 5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62472584&typedoc=R) (Cialis® ou gén, seul avec l'AMM mais non remboursé) avec surveillance du PSA annuelle.
 
 Utilisation possible en bithérapie avec un alpha-bloquant.
 
-Effets indésirables: hypotension artérielle.
+**Effets indésirables:** hypotension artérielle, contraception efficace nécessaire (agénésie des organes génitaux).
 
 ### Anticholinergiques
 
-Indications: en bithérapie avec un alpha-bloquant en cas de symptômes de remplissage persistants, en l'absence de RPM de +150 mL et après avis urologique.
+Indication: en bithérapie avec un alpha-bloquant sur avis urologique en cas de symptômes de remplissage persistants, en l'absence de résidu post-mictionnel de +150 mL.
+
+Molécules: fésotérodine, oxybutynine, solifénacine, toltérodine, trospium chlorure.
+
+### Agoniste bêta-3
+
+Indication: symptômes gênants (modérés à sévère) avec symptômes de remplissage.
+
+Une seule molécule non remboursée: mirabégron (Betmiga®).
 
 ### Chirurgie prostatique
 
@@ -254,16 +279,16 @@ Indications à la chirurgie de la prostate pour hypertrophie bénigne de la pros
 
 Absence de supériorité d'une technique pour la chirurgie de l'hypertrophie bénigne de la prostate.
 
-- Résection transurétrale de prostate (RTUP)  
+- Résection transurétrale de prostate (RTUP) uni ou bipolaire  
   Volume < 80 mL. Référence. 75% ont éjaculation rétrograde post-opératoire.
 - Incision cervicoprostatique (ICP)  
   Prostate < 30 mL.
 - Adénomectomie par voie haute (AVH, prostatectomie)  
   Technique obsolète, prostate +80 mL.
 - Autres techniques
-  - RTUP bipolaire
   - Micro-ondes transurétrales. Alternative pour patients âgées ou risque anesthésique élevé
-  - Laser: vaporisation ou énucléation endoscopique
+  - Laser YAG: alternative à la RTUP
+  - Autres lasers
   - Implant UroLift®
 
 ### Traitement palliatif
@@ -275,28 +300,34 @@ Il peut être une sonde urinaire, des auto-sondages intermittents ou un cathéte
 {{% /collapse %}}
 {{%collapse "Suivi de l'HBP" %}}
 
+La première consultation est réalisée à 6 mois puis annuellement.
+
 Le suivi du patient traité pour HBP est principalement clinique:
 
-- Symptômes urinaires, {{< modal-btn modal-ipss >}}score IPSS{{< /modal-btn >}}
-- Symptômes sexuels
+- Symptômes urinaires ({{< modal-btn modal-ipss >}}score IPSS{{< /modal-btn >}})
+- Symptômes sexuels ({{< modal-btn modal-iief5 >}}score IIEF-5{{< /modal-btn >}})
 - Tolérance et efficacité des traitements
-- Surveillance spécifique
-  - IPDE5 tadalafil: PSA annuel
+- IPDE5 tadalafil: PSA annuel
 
 Avis urologique en cas de d'échec des traitements, de symptômes anormaux (hématurie), avant anticholinergique.
 
 {{% /collapse %}}
 {{%sources%}}
 
-- [ANSM. Finastéride (Propecia, Chibro-Proscar, génériques) : rappel sur les risques de troubles de la fonction sexuelle et de troubles psychiatriques](https://ansm.sante.fr/informations-de-securite/finasteride-propecia-chibro-proscar-generiques-rappel-sur-les-risques-de-troubles-de-la-fonction-sexuelle-et-de-troubles-psychiatriques)
+- Prescrire Redaction. Traitement de l'hypertrophie bénigne de la prostate. Rev Prescrire. 2023.
+- [Gravas S. et al. EAU guidelines on management of non-neurogenic male lower urinary tract symptoms (LUTS), incl. benign prostatic obstruction (BPO). 2022.](https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts)
+- [ANSM. Finastéride (Propecia, Chibro-Proscar, génériques) : rappel sur les risques de troubles de la fonction sexuelle et de troubles psychiatriques. 15/04/2021.](https://ansm.sante.fr/informations-de-securite/finasteride-propecia-chibro-proscar-generiques-rappel-sur-les-risques-de-troubles-de-la-fonction-sexuelle-et-de-troubles-psychiatriques)
+- Prescrire Redaction. Hypertrophie bénigne de la prostate. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Collège Français des Enseignants en Urologie (CFEU). Hypertrophie bénigne de la prostate. Item 127. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-127-Hypertrophie-benigne-de-prostate.pdf)
+- [Descazeaud A. et al. Guide de prise en charge en médecine générale des symptômes du bas appareil urinaire de l'homme liés à une hyperplasie bénigne de la prostate. Prog Urol. 2015.](https://www.sciencedirect.com/science/article/pii/S1166708715000810)
+- [Descazeaud A. et al. Bilan initial, suivi et traitement des troubles mictionnels en rapport avec hyperplasie bénigne de prostate : recommandations du CTMH de l'AFU. 2012.](https://www.urofrance.org/recommandation/bilan-initial-suivi-et-traitement-des-troubles-mictionnels-en-rapport-avec-hyperplasie-benigne-de-prostate-recommandations-du-ctmh-de-lafu/)
+- [Tacklind J. et al. Serenoa repens for benign prostatic hyperplasia. Cochrane Database of Systematic Reviews. 2012.](https://www.cochrane.org/CD001423/PROSTATE_serenoa-repens-for-benign-prostatic-hyperplasia)
+- [McConnell JD. et al. The long-term effect of doxazosin, finasteride, and combination therapy on the clinical progression of benign prostatic hyperplasia. N Engl J Med. 2003.](https://www.nejm.org/doi/10.1056/NEJMoa030656)
 - [Anaes. Prise en charge diagnostique et thérapeutique de l'hypertrophie bénigne de la prostate. 2003.](https://www.has-sante.fr/jcms/c_272237/fr/prise-en-charge-diagnostique-et-therapeutique-de-l-hypertrophie-benigne-de-la-prostate)
 
 ### À lire
 
-- [Gravas S. et al. EAU guidelines on management of non-neurogenic male lower urinary tract symptoms (LUTS), incl. benign prostatic obstruction (BPO). 2022.](https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts)
-- Association Française d'Urologie. Descazeaud A. & al. Bilan initial, suivi et traitements des troubles mictionnels en rapport avec hyperplasie bénigne de la prostate. 2012.
-- Guide dedicated to general practitioner for the management of lower urinary tract symptoms related to benign prostatic hyperplasia. Prog Urol 2015 ; 25(7) : 404-12.
+EAU 2022 Nocturia chap 5.5, incontinence chap 5.6
 
 {{%/sources%}}
 {{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}

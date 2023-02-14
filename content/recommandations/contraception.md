@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2023-01-05"
+lastmod = "2023-02-13"
 specialites = ["gynecologie-obstetrique"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -17,7 +17,7 @@ sctid = "13197004"
 chart = true
 image = true
 imageSrc = "La contraception illustrée par stories / Freepik"
-todo = "nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, 360medics, inducteur enz p9, cat vmts et diarrhées p9, contraception définitive"
+todo = "modal DIU, nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, 360medics, inducteur enz p9, cat vmts et diarrhées p9, contraception définitive"
 +++
 
 {{%article-summary%}}
@@ -176,7 +176,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 | Implant     | 0        | Etonogestrel     | Nexplanon (18-40 ans) |
 | Anneau      | 15       | Etonogestrel 0,12 | NR: Etoring, Nuvaring, gén (18-40 ans) |
 | Patch       | 20       | Norelgestromine 0,15 | NR: Evra (18-45 ans, < 90 kg) |
-| DIU cuivre  | 0        | 0                | 7Med 380/ML/NT/TT/UT, Ancora, CCD NT/TT/UT, Copper T, MonaLisa, NovaPlus, Sugant |
+| DIU cuivre  | 0        | 0                | 7Med, CCD, Mona Lisa. [Liste](http://bluegyn.com/gynorama/fiche-dequivalence-diu-ccd/) et [autre liste (PDF)](http://www.apima.org/img_bronner/Tableau_contraceptifs.pdf) |
 | DIU         | 0        | LNG              | Donasert, Jaydess, Kyleena, Mirena |
 | Préservatif | 0        | 0                | Eden, Sortez couverts ! |
 {{< /table >}}

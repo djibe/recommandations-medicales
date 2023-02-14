@@ -158,7 +158,7 @@ Indications à une consultation d'oncogénétique chez un homme ayant un **anté
 Risque diminué de cancer de la prostate si PSA < 1 ng/mL à 40 ans et < 2 à 60 ans.
 {{%/warning%}}
 
-**Rappel.** La mesure du PSA est faussée à la hausse par une prostatite, une HBP ou à l'inverse à la baisse par un IPDE5 (HBP, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})). En cas de prise d'IPDE5, doubler la valeur du PSA (*Sakalis 2021*).
+**Rappel.** La mesure du PSA est faussée à la hausse par une prostatite, une HBP ou à l'inverse à la baisse par un IPDE5 (HBP, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})). En cas de prise d'IPDE5, doubler la valeur du PSA (*McConnell 2003*).
 
 {{%info%}}
 
@@ -262,7 +262,6 @@ graph TB
 
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Mottet N. et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2022.](https://uroweb.org/guidelines/prostate-cancer)
-- [Sakalis V et al. The effect of pharmacotherapy on prostate volume, prostate perfusion and prostate-specific antigen (prostate morphometric parameters) in patients with lower urinary tract symptoms and benign prostatic obstruction. A systematic review and meta-analysis. Cent European J Urol. 2021.](https://pubmed.ncbi.nlm.nih.gov/34729231/)
 - [Collège d'Urologie. Tumeur de prostate. Item 310. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-310-Tumeur-de-prostate.pdf)
 - [Rozet F. et al. Recommandations françaises du Comité de cancérologie de l'AFU – actualisation 2020–2022 : cancer de la prostate. Progrès en Urologie. 2020.](https://www.urofrance.org/recommandation/recommandations-francaises-du-comite-de-cancerologie-de-lafu-actualisation-2020-2022-cancer-de-la-prostate/?date=&themes=&search=%22)
 - [Gandaglia G. et al. Structured Population-based Prostate-specific Antigen Screening for Prostate Cancer: The European Association of Urology Position in 2019. Eur Urol. 2019.](https://www.europeanurology.com/article/S0302-2838(19)30347-1/fulltext)
@@ -272,6 +271,7 @@ graph TB
 - [HAS. Détection précoce du cancer de la prostate. Mai 2013.](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate)
 - [HAS. ALD n°30 - Cancer de la prostate. Guide maladie chronique. 2012.](https://www.has-sante.fr/jcms/c_725257/fr/ald-n-30-cancer-de-la-prostate)
 - [Horwich A. et al. Prostate cancer: ESMO Consensus Conference Guidelines 2012. Annals of Oncology. 2012.](https://www.annalsofoncology.org/article/S0923-7534(19)37245-X/fulltext)
+- [McConnell JD. et al. The long-term effect of doxazosin, finasteride, and combination therapy on the clinical progression of benign prostatic hyperplasia. N Engl J Med. 2003.](https://www.nejm.org/doi/10.1056/NEJMoa030656)
 
 ### À lire
 

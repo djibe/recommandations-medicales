@@ -10,7 +10,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-14T15:58:37+01:00"
 publishdate = "2021-12-14"
-lastmod = "2023-01-24"
+lastmod = "2023-02-10"
 specialites = []
 annees = "2023"
 sources = []
@@ -77,6 +77,11 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 - Alcool recherche de mésusage: {{< modal-btn modal-audit >}}questionnaire AUDIT{{< /modal-btn >}}, {{< modal-btn modal-deta >}}CAGE/DETA{{< /modal-btn >}}, {{< modal-btn modal-face >}}FACE{{< /modal-btn >}}
 - Cannabis usage problématique: {{< modal-btn modal-cast >}}CAST{{< /modal-btn >}}
 - Benzodiazépines dépendance: {{< modal-btn modal-score-ecab >}}ECAB{{< /modal-btn >}}
+
+## Urologie {.typography-overline}
+
+- Dysfonction érectile: {{< modal-btn modal-iief5 >}}IIEF-5{{< /modal-btn >}}
+- Hypertrophie de la prostate HBP: {{< modal-btn modal-ipss >}}IPSS{{< /modal-btn >}}
 
 <!-- Modals -->
 {{% modal title="Scores de risque de TVP" id="modal-tvp" size="lg"%}}
@@ -282,5 +287,15 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{% modal title="Échelle ECAB" id="modal-score-ecab"%}}
 
 {{< scores/ecab >}}
+
+{{% /modal %}}
+{{% modal title="Score IIEF-5 de la dysfonction érectile" id="modal-iief5"%}}
+
+{{< scores/iief5 >}}
+
+{{% /modal %}}
+{{% modal title="Score IPSS des symptômes de l'HBP" id="modal-ipss"%}}
+
+{{< scores/ipss >}}
 
 {{% /modal %}}
