@@ -144,11 +144,11 @@ Autres traitements hormonaux:
 
 #### Traitement chirurgical conservateur
 
-La chirurgie conservatrice comprend les résections et destructions de l'endomètres et les myomectomies, qui sont possibles par hystéroscopie, thermocoagulation ou radiofréquence.
+La chirurgie conservatrice comprend les résections et destructions de l'endomètre et les myomectomies, qui sont possibles par hystéroscopie, thermocoagulation ou radiofréquence.
 
-Les myomes (fibromyomes ou fibromes) sont opérés par hystéroscopie, cœlioscopie et laparotomie (FIGO type 3+).
+Les myomes (fibromyomes ou fibromes) sont opérés par hystéroscopie, cœlioscopie ou laparotomie (FIGO type 3+).
 
-> << L'hystérectomie est le traitement le plus efficace pour traiter les ménorragies car il permet l'arrêt des saignements dans 100% des cas. >> (*CNGOF 2022*)
+> << L'hystérectomie est le traitement le plus efficace pour traiter les ménorragies car il permet l'arrêt des saignements dans 100% des cas >> (*CNGOF 2022*)
 {.alert .alert-info}
 
 {{% /collapse %}}
@@ -190,7 +190,7 @@ Si capacités de procréation non souhaitées: chirurgie conservatrice.
 
 Femme avec ≥ 1 myome de type 0 à 2:
 
-- Sans souhait de grossesse: traitement hormonal ou myomectomie hystéroscopique (voire hystérectomie si souhaitée)
+- Sans souhait de grossesse: traitement hormonal (DIU, COP ... voir *Traitements*) ou myomectomie hystéroscopique (voire hystérectomie si souhaitée)
 - Projet de grossesse immédiat: myomectomie hystéroscopique
 
 Femme avec ≥ 1 myome de type 3 et plus:

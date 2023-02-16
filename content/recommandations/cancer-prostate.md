@@ -31,6 +31,8 @@ todo = "tableau espérance de vie"
 - Consultation d'oncogénétique en cas de: CaP métastatique, plusieurs cas avant 60 ans (voir *Dépistage du cancer*)
 - Après traitement, le suivi spécialisé est long (10 ans)
 
+Chapitre lié: [hypertrophie bénigne de la prostate]({{< relref "hypertrophie-benigne-prostate.md" >}})
+
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
@@ -109,7 +111,7 @@ TR
 
 ### Interrogatoire
 
-La plupart des hommes atteints par le cancer de la prostate sont asymptomatiques ou les symptômes sont liés à une pathologie bénigne associée (ex. hypertrophie de la prostate).
+La plupart des hommes atteints par le cancer de la prostate sont asymptomatiques ou les symptômes sont liés à une pathologie bénigne associée (ex. [hypertrophie de la prostate]({{< relref "hypertrophie-benigne-prostate.md" >}})).
 
 - Antécédents
 - Antécédents familiaux ([cancers](/tags/cancer/) de prostate, [sein]({{< relref "cancer-sein.md" >}}) et [ovaire]({{< relref "cancer-ovaire.md" >}}) ++)

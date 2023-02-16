@@ -1,35 +1,35 @@
 +++
-title = "Hypertrophie bénigne de la prostate"
+title = "Hypertrophie bénigne de la prostate (HBP)"
 prefix = "l'"
 titleSeo = "Hypertrophie bénigne prostate HBP"
-description = "Recommandations pour la prise en charge de l'hypertrophie de prostate (HBP). Bilan de première intention, phytothérapie, alphabloquant alfusozine"
+description = "Recommandations pour la prise en charge de l'hypertrophie de prostate (HBP). Symptômes, bilan de première intention, phytothérapie, alpha-bloquant alfusozine"
 synonyms = ["Hyperplasie bénigne de la prostate", "prostatisme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-04T10:52:08+02:00"
-publishdate = "2023-02-13"
-lastmod = "2023-02-13"
+publishdate = "2023-02-16"
+lastmod = "2023-02-16"
 specialites = ["urologie"]
 annees = "2022"
 sources = ["EAU", "AFU"]
 tags = ["geriatrie"]
 anglais = ["Benign prostatic hyperplasia (BPH)"]
 sctid = "266569009"
-draft = true
-image = false
-imageSrc = ""
-todo = "EAU p.51, 360Medics, flowchart EAU p.16, SEO, liens"
+flowchart = true
+image = true
+imageSrc = "Prostate hypertrophiée de 155 g comprimant la base de la vessie. Cas de Fakhry Mahmoud Ebouda, Radiopaedia.org, rID 34645"
+todo = "360Medics"
 +++
 
 {{%article-summary%}}
 
-- L'hypertrophie bénigne de la prostate (HBP) est pathologie bénigne liée à l'âge pouvant entraîner de troubles urinaires et des complications (rétention d'urines, insuffisance rénale ...)
+- L'hypertrophie bénigne de la prostate (HBP) est une pathologie bénigne liée à l'âge pouvant entraîner de troubles urinaires et des complications (rétention d'urines, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) ...)
 - Ces recommandations sont limitées au traitement de l'HBP non compliquée chez l'homme +40 ans
 - Le diagnostic d'HBP est clinique avec des symptômes du bas appareil urinaire (SBAU) et un toucher rectal obligatoire
 - Rechercher des troubles de la libido, une [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) ou de l'éjaculation
-- Nycturie: [agenda mictionnel (PDF)](https://www.urofrance.org/fileadmin/medias/scores/catalogue-mictionnel.pdf) et recherche d'{{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}
+- Nycturie: [agenda mictionnel (PDF)](https://www.urofrance.org/fileadmin/medias/scores/catalogue-mictionnel.pdf), recherche d'{{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}} et avis urologique
 - Bilan initial de l'hypertrophie de la prostate: {{< modal-btn modal-ipss >}}score IPSS{{< /modal-btn >}}, ECBU et mesure du résidu post-mictionnel (*EAU*) voire PSA, créatininémie et échographie
 - Prise en charge de l'hypertrophie prostatique: mesures hygiéno-diététiques et selon l'intensité des symptômes: abstention, alpha-bloquant ou autres
-- Suivi de l'HBP: symptômes {{< modal-btn modal-ipss >}}urinaires{{< /modal-btn >}} et {{< modal-btn modal-iief5 >}}sexuels{{< /modal-btn >}}, tolérance et efficacité des traitements
+- Suivi de l'HBP: {{< modal-btn modal-ipss >}}symptômes urinaires{{< /modal-btn >}} et {{< modal-btn modal-iief5 >}}sexuels{{< /modal-btn >}}, tolérance et efficacité des traitements
 - Avis urologique si: toucher rectal non fait, symptômes atypiques, examen ou ECBU anormal, échec du traitement, complication ...
 
 {{%/article-summary%}}
@@ -247,7 +247,7 @@ Les IPDE5 entraînent une diminution du PSA de moitié (*McConnell 2003*)
 
 - [Dutastéride 0,5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67513654&typedoc=R) (Avodart®, gén)
 - Finastéride 5 mg (Chibro-Proscar®, gén)  
-  {{%class "warning"%}}Surveillance renforcée de l'ANSM pour troubles sexuels et psychiatriques{{%class%}}
+  Surveillance renforcée de l'ANSM pour troubles sexuels et psychiatriques.
 
 ### Inhibiteurs de la phosphodiestérase de type 5 (IPDE5)
 
@@ -312,6 +312,19 @@ Le suivi du patient traité pour HBP est principalement clinique:
 Avis urologique en cas de d'échec des traitements, de symptômes anormaux (hématurie), avant anticholinergique.
 
 {{% /collapse %}}
+{{%collapse "Prise en charge de l'HBP" "show" %}}
+
+{{< mermaid title="Prise en charge de l'hypertrophie bénigne de la prostate. Dr JB Fron d'après EAU 2022 et AFU 2015" >}}
+graph TB
+SBAU[Symptômes du bas<br>appareil urinaire chez le +40 ans] --> clinique("<b>Clinique</b><hr>- Antécédents<br>- Symptômes<br>- Phase mictionnelle<br>- Score IPSS<br>- Dysfonction érectile<br>- Examen clinique") --> examens("<b>Examens</b><hr>- ECBU<br>- Résidu post-mictionnel<br>± échographie<br>- ± PSA<br>- ± Créatininémie") --> criteres("≥ 1 parmi:<br>- Toucher rectal non fait<br>- Symptômes atypiques<br>- Anomalie clinico-biologique<br>- PSA augmenté<br>- Complication")
+style SBAU stroke:#4150f5, stroke-width:1px
+  criteres -- Non --> rhd(Mesures hygiéno-diététiques<br><br>Symptômes gênants ?) -- Non --> abstention(Abstention-surveillance)
+    rhd -- Oui --> traitement("- Phytothérapie<br>- Alpha-bloquant<br>- Prostate +40mL: I5AR<br>- DE: IPDE5<br>voire bithérapie") -. Échec .-> uro
+  criteres -- Oui --> uro(Avis urologique)
+{{< /mermaid >}}
+
+> **DE =** dysfonction érectile
+{{%/collapse%}}
 {{%sources%}}
 
 - Prescrire Redaction. Traitement de l'hypertrophie bénigne de la prostate. Rev Prescrire. 2023.

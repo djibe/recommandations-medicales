@@ -63,7 +63,7 @@ S'y ajoute le retentissement psychologique du patient/couple (DSM IV).
   - 40% arrêtent le traitement antidiabétique pensant améliorer la DE
 - Pathologie cardiovasculaire
 - Troubles anxio-dépressifs
-- Hypertrophie bénigne de prostate
+- [Hypertrophie bénigne de prostate]({{< relref "hypertrophie-benigne-prostate.md" >}})
 - Psychotropes
 
 **NB.** L'association déficit androgénique - dysfonction érectile n'est pas clairement établie.
@@ -153,8 +153,8 @@ La persistance d'une capacité érectile résiduelle est un facteur de bon prono
 - Facteurs de risque cardiovasculaire, maladies cardiovasculaires
 - Sédentarité
 - Facteurs psycho-sociaux
-- Signes d'hypertrophie prostatique
-- Troubles du sommeil, apnées du sommeil
+- Signes d'[hypertrophie prostatique]({{< relref "hypertrophie-benigne-prostate.md" >}})
+- Troubles du sommeil, [apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}})
 
 #### 6) Traitements en cours, psychotropes
 
