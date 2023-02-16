@@ -20,7 +20,8 @@ imageSrc = "Disparition de l'interligne des 3 compartiments avec ostéophytose. 
 {{%article-summary%}}
 
 - Complications de la gonarthrose: risque cardiovasculaire par sédentarité, dépression
-- Maintien de l'activité physique
+- Prévention de l'aggravation de l'arthrose du genou: maintien de l'activité physique des membres inférieurs (aquatique ou non)
+- Bilan initial des douleurs des genoux évocatrices de gonarthrose: radiographies des genoux de face en charge, profil, défilé fémoro-patellaire à 30° de flexion, schuss (de face, en charge avec 30-60° de flexion)
 - Prise en charge et traitement de la poussée de gonarthrose: AINS topiques et oraux, infiltrations de corticoïdes
 - Chirurgie du genou en cas d'échec du traitement médical et d'une altération de la qualité de vie due à l'arthrose du genou
 

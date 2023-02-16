@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-24T22:57:41+01:00"
 publishdate = "2022-01-25"
-lastmod = "2022-09-06"
+lastmod = "2023-02-16"
 specialites = ["therapeutique"]
 annees = "2008"
 sources = ["HAS"]
@@ -20,34 +20,40 @@ imageSrc = ""
 todo = "rename, adapt doses"
 +++
 
-{{%collapse "Les spécialités d'antivitamine K" %}}
+{{%collapse "Warfarine: titration et adaptation" %}}
 
-Anticoagulant de référence, seule la warfarine est détaillée ici.
+Anticoagulant oral de référence, seule la warfarine (Coumadine®) est détaillée ici.
 
 ### La warfarine
 
-Comprimés sécables de 2 et [5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63245753&typedoc=R).
+Warfarine comprimés sécables de 2 et [5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63245753&typedoc=R) ((Coumadine®)).
 
-- Bilan pré-thérapeutique  
-  NFS-plaquettes, TP, TCA, créatininémie, transaminases.
-- Débuter le traitement  
-  - **Débuter à 5 mg/j**
-  - Préférer 2 mg/j si: [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), personne âgée, fragile, maigre/dénutrie, insuffisance rénale, cardiaque ou hépatique
-  - de préférence le soir
-  - **INR 12 heures après la 3<sup>e</sup> prise**. Si INR > 2: diminuer la posologie.
+#### Bilan pré-thérapeutique
+
+NFS-plaquettes, TP, TCA, créatininémie, transaminases.
+
+#### Débuter le traitement par Coumadine
+
+- <mark>Débuter à 5 mg/j</mark>
+- Préférer 2 mg/j si: [fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}), personne âgée, fragile, maigre/dénutrie, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), [cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) ou hépatique
+- de préférence le soir
+- **INR 12 heures après la 3<sup>e</sup> prise**. Si INR > 2: diminuer la posologie.
 - **Ajustements par paliers de 1 mg et contrôle INR à J3**  
   Puis 1-2 INR/semaine jusqu'à stabilisation.
-- Surveillance INR
-  - En début de traitement: 2-3 INR/semaine pendant 1-2 semaines jusqu'à 2 INR consécutifs dans la cible thérapeutique
-  - Le plus souvent cible 2,5 (2-3)
-  - Traitement équilibré: **INR mensuel**
 
-**NB.** Le traitement peut être arrêté brutalement.
+#### Surveillance de l'INR
+
+- En début de traitement: 2-3 INR/semaine pendant 1-2 semaines jusqu'à 2 INR consécutifs dans la cible thérapeutique
+- Le plus souvent cible d'INR de 2,5 (2-3)
+- Traitement équilibré: **INR mensuel**
+
+Le traitement peut être arrêté brutalement
+{.alert .alert-info}
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant un surdosage en AVK" %}}
+{{%collapse "Surdosage en AVK: prise en charge" %}}
 
-Méthodes pour réduire l'INR en cas de surdosage en AVK: diminuer la dose, sauter une prise, administration orale de 1 mg de vitamine K1.
+Méthodes pour réduire l'INR dans la prise en charge d'un surdosage en AVK: diminuer la dose, sauter une prise et administration orale de 1 mg de vitamine K1.
 
 Nouvel INR le lendemain du diagnostic de surdose avec reconduction identique des mesures ci-dessous tant que l'INR n'est pas dans la cible ET rechercher systématiquement la cause du déséquilibre
 {.alert .alert-info}
@@ -118,7 +124,7 @@ Privilégier l'ambulatoire, chercher la cause du déséquilibre, chercher cause 
 Reprendre l'AVK selon risque de récidive et indication initiale de l' AVK.
 
 {{% /collapse %}}
-{{%collapse "AVK et gestes ambulatoires" %}}
+{{%collapse "Gestes ambulatoires sous AVK" %}}
 
 ### Gestes invasifs pouvant être réalisés SANS interrompre les AVK
 
@@ -134,7 +140,7 @@ Reprendre l'AVK selon risque de récidive et indication initiale de l' AVK.
 - Injections intra-musculaires
 
 {{% /collapse %}}
-{{%collapse "Arrêt des AVK avant intervention programmée" %}}
+{{%collapse "Intervention programmée avec arrêt ou relais des AVK" %}}
 
 Rythme d'arrêt des AVK avant une intervention à déterminer avec l'équipe hospitalière. Savoir si on réalise un relais héparine ou un arrêt simple.
 
@@ -256,13 +262,15 @@ inexpliqué
   - Intensifier quand: vomissements, diarrhées, déshydratation, événement médical, introduction médicamenteuse
 
 {{% /collapse %}}
-{{%collapse "Système d'automesure de l'INR" %}}
+{{%collapse "Automesure de l'INR" %}}
 
-### CoaguChek INRange
+### Système d'automesure des AVK: CoaguChek INRange
 
-TROD INR avec résultat fiable en 1 minute.
+TROD INR avec résultat fiable en une minute.
 
-Indications: valve mécanique avec AVK ou enfant traité par AVK ayant bénéficié d'une ETP avec certificat délivré. [Arrêté 28/07/17](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035329082)
+#### Indication au remboursement du système d'autocontrôle de l'INR
+
+Patient avec valve mécanique, anticoagulé par AVK ou enfant traité par AVK ayant bénéficié d'une ETP avec certificat délivré (*[Arrêté 28/07/17](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035329082)*)
 
 - Prescription initiale par chirurgien cardiaque ou cardiologue ([centres avec ETP](http://cobas.fr/home/produits_solutions/systeme_coaguchek_inrange.html))
 - Renouvellement des bandelettes sans limite par le médecin généraliste

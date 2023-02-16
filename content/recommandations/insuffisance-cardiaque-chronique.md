@@ -8,7 +8,7 @@ synonyms = ["Insuffisance cardiaque à FEVG altérée", "insuffisance cardiaque 
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
 publishdate = "2021-06-03"
-lastmod = "2023-02-13"
+lastmod = "2023-02-16"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS"]
@@ -18,7 +18,7 @@ sctid = "48447003"
 flowchart = true
 image = true
 imageSrc = "Illustration de l'insuffisance cardiaque par vectorjuice / Freepik"
-todo = "sel pour tous?, sup. Table 4 MRA+5Sacu+7Diur, depression Beck, https://www.ahajournals.org/doi/10.1161/CIR.0000000000001110"
+todo = "sel pour tous?, sup. Table 4 MRA+5Sacu+7Diur, depression Beck"
 +++
 
 {{%article-summary%}}
@@ -267,17 +267,17 @@ Indications à une consultation génétique: cardiomyopathie hypertrophique (CMH
 
 Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaque:
 
+- Diurétiques de l'anse à visée symptomatique
+  - [Furosémide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68009803&typedoc=R) 20 à 40 mg jusqu'à 1000 mg/j. Fractionner à partir de 40 mg
+  - ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68232635&typedoc=R) 0,5 à 1 mg jusqu'à 5 mg/j. Fractionner à partir de 1 mg
+  - Éducation pour adaptation aux apports sodés
+  - Augmenter dès **prise de 2 kg en 3 jours**
 - Hypertension artérielle
   - Seuil diagnostique ≥ 140/90 mmHg (*ESC 2018*)
   - Cible < 140/90 mmHg (cible mal connue, selon comorbidités, *ESC 2021*)
   - Auto-surveillance 1-2/semaine
   - Escalade thérapeutique: ajouter amlodipine/félodipine si non contrôlée
 - LDL cible selon les {{< modal-btn modal-rcv >}}comorbidités cardiovasculaires{{< /modal-btn >}}
-- Diurétiques de l'anse à visée symptomatique
-  - [Furosémide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68009803&typedoc=R) 20 à 40 mg jusqu'à 1000 mg/j. Fractionner à partir de 40 mg
-  - ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68232635&typedoc=R) 0,5 à 1 mg jusqu'à 5 mg/j. Fractionner à partir de 1 mg
-  - Éducation pour adaptation aux apports sodés
-  - Augmenter dès **prise de 2 kg en 3 jours**
 - Activité physique
   - 30 minutes d'activité physique quotidienne (min 20 min x 3/sem)  
     {{%class%}}Atteindre une dyspnée légère à modérée.{{%/class%}}
@@ -308,11 +308,11 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
 **La prise en charge de l'insuffisance cardiaque à fraction d'éjection diminuée a 3 objectifs:** réduire la mortalité, les hospitalisations pour décompensation, améliorer les capacités fonctionnelles et la qualité de vie.
 
 - {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} dose maximale  
-  Remplacé par [valsartan/sacubitril](https://www.ema.europa.eu/en/documents/product-information/entresto-epar-product-information_fr.pdf) (Entresto®) si insuffisant ou IEC mal toléré
+  Remplacé par [valsartan/sacubitril](https://www.ema.europa.eu/en/documents/product-information/entresto-epar-product-information_fr.pdf) (Entresto®) si insuffisant ou mal toléré.
 - {{< modal-btn modal-bb >}}Bêta-bloquant{{< /modal-btn >}} dose maximale  
   En maintenant la FC ≥ 50/min ou sur avis cardiologique en-dessous.
 - Anti-aldostérone spironolactone ou éplérénone
-- {{< modal-btn modal-isglt2 >}}Dapagliflozine ou empagliflozine{{< /modal-btn >}} 10 mg/j systématique (iSGLT2)
+- {{< modal-btn modal-isglt2 >}}Dapagliflozine ou empagliflozine (iSGLT2){{< /modal-btn >}} 10 mg/j systématique (*ESC 2021*)
 - Traitements de 2<sup>e</sup> ligne: symptômes persistants
   - Ivabradine  
     Indication: FEVG ≤ 35% et fréquence cardiaque ≥ 70/min sous BB dose maximale ou mal tolérés.
@@ -343,12 +343,7 @@ Indications à la greffe cardiaque: symptômes invalidants, mauvais pronostic, a
 {{% /collapse %}}
 {{%collapse "Traitement de l'insuffisance cardiaque à fraction d'éjection modérément diminuée" %}}
 
-Peu de traitements ont fait leurs preuves pour la prise en charge de l'ICFEmd:
-
-- Diurétique à visée symptomatique  
-  Voir *Mesures générales*
-- {{< modal-btn modal-isglt2 >}}Empagliflozine 10 mg{{< /modal-btn >}} (*HAS 09/2022*)  
-  **NB.** Non citée dans les recommandations car essai Emperor-preserved publié après.
+Peu de traitements ont fait leurs preuves pour la prise en charge de l'ICFEmd: Diurétique à visée symptomatique (voir *Mesures générales*).
 
 ### Traitements à considérer
 
@@ -357,6 +352,8 @@ Peu de traitements ont fait leurs preuves pour la prise en charge de l'ICFEmd:
 - {{< modal-btn modal-bb >}}Bêta-bloquant{{< /modal-btn >}} dose maximale  
   En maintenant la FC ≥ 50/min ou sur avis cardiologique en-dessous.
 - Anti-aldostérone spironolactone ou éplérénone
+- {{< modal-btn modal-isglt2 >}}Empagliflozine 10 mg{{< /modal-btn >}} (<< option thérapeutique à privilégier >>, *HAS 09/2022*)  
+  **NB.** Non citée dans les recommandations car essai EMPEROR-preserved publié après.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'insuffisance cardiaque à fraction d'éjection préservée (ICFEp)" %}}
@@ -364,7 +361,7 @@ Peu de traitements ont fait leurs preuves pour la prise en charge de l'ICFEmd:
 - Contrôle strict des facteurs de risque cardiovasculaire, des comorbidités (arythmie...) et surcharges volumiques (solutés, produits de contraste iodés)
 - Faible niveau de preuve d'efficacité: {{< modal-btn modal-bb >}}nébivolol{{< /modal-btn >}}, {{< modal-btn modal-ara2-ic >}}candésartan{{< /modal-btn >}}, spironolactone.
 - {{< modal-btn modal-isglt2 >}}Empagliflozine 10 mg{{< /modal-btn >}} (*HAS 09/2022*)  
-  **NB.** Non citée dans les recommandations ESC car essai Emperor-preserved publié après.
+  **NB.** Non citée dans les recommandations ESC car essai EMPEROR-preserved publié après.
 - Diurétique à visée symptomatique  
   Voir *Mesures générales*
 
@@ -404,6 +401,8 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 
 > *[Mebazaa 2015](https://doi.org/10.1002/ejhf.289)*
 
+[Information service de suivi Prado (PDF)](https://www.ameli.fr/sites/default/files/Documents/4084/document/je_suis_accompagnee_apres_mon_hospitalisation_pour_decompensation_cardiaque_service_prado_assurance_maladie.pdf) et [Carnet de suivi Ameli du service Prado de retour à domicile (PDF)](https://www.ameli.fr/sites/default/files/Documents/400225/document/prado_ic_carnet_de_suivi_ic.pdf).
+
 {{% /collapse %}}
 {{%collapse "Surveillance de l'insuffisant cardiaque" %}}
 
@@ -441,7 +440,7 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une insuffisance cardiaque" "show" %}}
 
-{{< mermaid title="Prise en charge pour le diagnostic de l'insuffisance cardiaque chronique. Dr JB Fron d'après ESC 2021" >}}
+{{< mermaid title="Prise en charge pour le diagnostic et le bilan initial de l'insuffisance cardiaque chronique par le médecin généraliste. Dr JB Fron d'après ESC 2021" >}}
 graph TB
 suspicion[Suspicion d'insuffisance cardiaque]
 style suspicion stroke:#4150f5, stroke-width:1px
@@ -456,23 +455,23 @@ style suspicion stroke:#4150f5, stroke-width:1px
 
 ---
 
-{{< mermaid title="Prise en charge et traitement d'une insuffisance cardiaque symptomatique à l'état stable. Dr JB Fron d'après ESC 2021" >}}
+{{< mermaid title="Prise en charge et traitement de l'insuffisance cardiaque à fraction d'éjection diminuée symptomatique à l'état stable. Dr JB Fron d'après ESC 2021" >}}
 graph TB
 ICFEd["Patient symptomatique avec ICFEd<br>FEVG ≤ 40%"]
 style ICFEd stroke:#4150f5, stroke-width:1px
-  ICFEd --> systematique("- IEC/sacubitril et BB dose maximale<br>- Anti-aldostérone<br>- iSGLT2<br>- Diurétiques selon symptômes")
-    systematique --> choix("Symptomatique<br>et FEVG ≤ 35%<br>(association possible)")
+  ICFEd --> systematique("- IEC voire sacubitril<br>- BB dose maximale<br>- Anti-aldostérone<br>- iSGLT2 (dapa/empagliflozine)<br>- Diurétiques selon symptômes")
+    systematique -. Insuffisant .-> choix("Symptomatique<br>et FEVG ≤ 35%<br>(association possible)")
         choix -- Oui --> CRT("Sinusal et QRS ≥ 130 ms ?") -- Oui --> resynchronisation("Resynchronisation<br>cardiaque")
-          resynchronisation --> persistant("<b>Symptômes persistants</b><hr>Traitements de grade 2:<br>Ivabradine, vericiguat,<br>digoxine, hydralazine")
-        choix -- Oui --> ICD("QRS &lt; 130 et approprié ?") -- Oui --> defibrillateur(Défibrillateur) --> persistant
+          resynchronisation -.-> persistant("<b>Symptômes persistants</b><hr>Traitements de grade 2:<br>Ivabradine, vericiguat,<br>digoxine, hydralazine")
+        choix -- Oui --> ICD("QRS &lt; 130 et approprié ?") -- Oui --> defibrillateur(Défibrillateur) -.-> persistant
 {{< /mermaid >}}
 
-> ICFEd: insuffisance cardiaque à fraction d'éjection diminuée
+> ICFEd = insuffisance cardiaque à fraction d'éjection diminuée
 
 {{%/collapse%}}
 {{%collapse "Information du patient" %}}
 
-[HAS. Vivre avec une insuffisance cardiaque (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-06/08-096_gp_insuf-cardia.pdf) et [HeartFailureMatters. Voyage à travers l'insuffisance cardiaque.](https://www.heartfailurematters.org/fr_FR).
+[HAS. Vivre avec une insuffisance cardiaque (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-06/08-096_gp_insuf-cardia.pdf) et [HeartFailureMatters.org](https://www.heartfailurematters.org/fr/).
 
 ### Points essentiels de l'éducation thérapeutique pour l'insuffisance cardiaque
 
@@ -562,6 +561,10 @@ réalistes
 - [HAS. Insuffisance cardiaque systolique. ALD n°5. Actes et prestations - Affection de longue durée. Juillet 2015. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/liste_ald_insuf_card_systolique.pdf)
 - [HAS. Insuffisance cardiaque. Guide du parcours de soins. Juin 2014. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/guide_parcours_de_soins_ic_web.pdf)
 - [Lainscak M. et al. Self-care management of heart failure: practical recommendations from the Patient Care Committee of the Heart Failure Association of the European Society of Cardiology. European Journal of Heart Failure. 2014.](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)
+
+### À lire
+
+[Chow SL et al. Complementary and Alternative Medicines in the Management of Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2023.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001110)
 
 {{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}
