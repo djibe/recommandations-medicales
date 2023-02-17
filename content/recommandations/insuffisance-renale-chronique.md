@@ -40,7 +40,7 @@ todo = "maladie pro, aliments riches K/P"
 Maladie rénale chronique (MRC)
 : {{%lang%}}Chronic kidney disease{{%/lang%}}
 : Présence d'une *insuffisance rénale chronique* (IRC):  
-Diminution du *débit de filtration glomérulaire estimé* (DFGe) < 60 mL/min/1,73 m² (formule CKD-EPI)  
+Diminution du *débit de filtration glomérulaire estimé* (DFGe) < 60 mL/min/1,73 m² (formule {{< scores/ckd-epi >}})  
 OU présence ≥ 1 *marqueur d'atteinte rénale* persistant **plus de 3 mois**:  
     - Albuminurie ou protéinurie
     - Hématurie > 10/mm³ (hors cause urologique)  

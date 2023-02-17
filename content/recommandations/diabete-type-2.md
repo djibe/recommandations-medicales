@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2023-01-31"
+lastmod = "2023-02-17"
 specialites = ["endocrinologie"]
 annees = "2022"
-sources = ["EASD", "ADA", "SFD", "ESC", "HAS"]
+sources = ["EASD", "ADA", "SFD", "ESC", "KDIGO", "HAS"]
 tags = ["bariatrique", "diabete", "epreuve effort", "HTA", "insuline", "retinopathie", "nephropathie",  "risque cardiovasculaire", "neuropathie", "obesite", "SAS", "vaccin"]
 anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
@@ -109,7 +109,7 @@ Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}
 - Surpoids  
   Perte de poids (5-10%) ou chirurgie bariatrique.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Dépister des {{< modal-btn modal-saos-diabete >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et une dysfonction érectile {{%class%}}(50%){{%/class%}}
+- Dépister des {{< modal-btn modal-saos-diabete >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et une [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) {{%class%}}(50%){{%/class%}}
 - Dépistages recommandés des [cancers](/tags/cancer/)
 - ALD 8 et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
 
@@ -289,7 +289,7 @@ window.onload = () => {
 </script>
 
 {{% /collapse %}}
-{{%collapse "Dépistage des complications" %}}
+{{%collapse "Dépistage des complications du diabète" %}}
 
 ### Bilan biologique annuel du diabétique
 
@@ -318,7 +318,7 @@ Bilan à jeun pendant 12 heures:
 | Boulimie et TCA | Dépister                                                                                      | HAS 2019                 |
 | [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) | - Diabète < 12 mois: ≥ 50 ans sans ATCD familial ni surpoids OU amaigrissement > 10%<br>- Pancréatite chronique + apparition ou décompensation de diabète | INCa 2019 |
 | Cardiologue  | Suivi annuel                                                                                     | HAS 2014                 |
-| Chir bariatrique | < 65 ans et IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH OU IMC ≥ 30 en dernier recours | HAS 2022 et 2009 obésité |
+| Chirurgie bariatrique | < 65 ans et IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH OU IMC ≥ 30 en dernier recours | HAS 2022 et 2009 obésité |
 | Dentaire     | Suivi annuel                                                                                     | HAS 2014, IDF 2009       |
 | [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) | Systématique. Si présente: dépistage annuel hypotension orthostatique, dysfonction vésicale | AIUS 2018             |
 | ECG          | Annuel (VPN très faible)                                                                         | SFD 2021 CAD             |
@@ -327,7 +327,7 @@ Bilan à jeun pendant 12 heures:
 | Grade podologique | Suivi annuel                                                                                | HAS 2014                 |
 | [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | (NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ADA 2022 |
 | [NAFLD/NASH]({{< relref "steatose-hepatique-et-nash.md" >}}) | {{< modal-btn modal-fib4 >}}Score FIB-4 annuel{{< /modal-btn >}} | AFEF 2020 |
-| [Néphropathie]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie, albuminurie/créatininurie annuels | ESC 2019 diabetes   |
+| [Néphropathie]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie, albuminurie/créatininurie annuels | KDIGO 2022, ESC 2019 diabetes |
 | Neuropathie  | Monofilament annuel                                                                              | ESC 2019 diabetes        |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | SFD 2016                 |
 | Score calcique | {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} &plusmn; EE | SFD 2021 CAD |
@@ -343,10 +343,10 @@ Bilan à jeun pendant 12 heures:
 
 - 1 autopiqueur annuel
 - Lecteur de glycémie  
-  - 1 lecteur/4 ans
+  - 1 lecteur remboursé tous les 4 ans
   - **Indications à l'autosurveillance glycémique:** insuline envisagée ou en cours, insulinosécréteur avec suspicion d'hypoglycémie, visée pédagogique en cible non atteinte, déséquilibre aigu (infection, corticoïdes, suspension du traitement), (désir de) grossesse
 - Capteur de glycémie
-  - Indications: patient ≥ 4 ans avec insulinothérapie intensifiée (pompe ou ≥ 3 injections/j) et pratiquant une ASG ≥ 3/j.
+  - Indications: patient de plus de 4 ans avec insulinothérapie intensifiée (pompe ou ≥ 3 injections quotidiennes) et pratiquant une ASG ≥ 3/j.
   - Prescription initiale par endocrinologue
   - 26 capteurs/an remboursés ([Freestyle Libre 2](https://www.federationdesdiabetiques.org/federation/actualites/freestyle-libre-2-c-est-officiel-le-dispositif-bientot-pris-en-charge))
 - Stylo à insuline connecté (Novopen 6, Novopen Echo Plus)  
@@ -364,6 +364,7 @@ Bilan à jeun pendant 12 heures:
 - [US Preventive Services Task Force. Screening for Prediabetes and Type 2 Diabetes in Children and Adolescents: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2022.14543)
 - [HAS. La chirurgie métabolique en dernier recours en cas de diabète de type 2 couplé à une obésité modérée. Communiqué de presse. 12/10/2022.](https://www.has-sante.fr/jcms/p_3376491/fr/la-chirurgie-metabolique-en-dernier-recours-en-cas-de-diabete-de-type-2-couple-a-une-obesite-moderee)
 - [Davies MJ. et al. Management of hyperglycaemia in type 2 diabetes, 2022. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2022.](https://link.springer.com/article/10.1007/s00125-022-05787-2)
+- [Kidney Disease: Improving Global Outcomes (KDIGO) Diabetes Work Group. KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. Kidney Int. 2022.](https://kdigo.org/guidelines/diabetes-ckd/)
 - [Pop-Busui R. et al. Heart Failure: An Underappreciated Complication of Diabetes. A Consensus Report of the American Diabetes Association. Diabetes Care. 2022.](https://diabetesjournals.org/care/article/doi/10.2337/dci22-0014/147048/Heart-Failure-An-Underappreciated-Complication-of)
 - [Lee CG. et al. Effect of Metformin and Lifestyle Interventions on Mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study. Diabetes Care. 2021.](https://doi.org/10.2337/dc21-1046)  
   Sujets à haut risque de diabète suivis pendant 20 ans, pas de bénéfice sur la mortalité totale à un programme intensif de modifications des habitudes de vie versus conseils de perte de poids et d'augmentation de l'activité physique.

@@ -2,10 +2,14 @@
   "concurrency": 100,
   "skip": [
     "^(?!http)",
+    "recommandations",
+    "tags",
+    "images",
     "recomedicales.fr",
     "doi.org",
     "journals.sagepub.com",
     "acpjournals.org",
+    "wiley.com",
     "github.com"
   ],
   "format": "csv",
