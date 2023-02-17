@@ -44,6 +44,12 @@ Chapitres dédiés:
 - [Vomissements et nausées pendant la grossesse]({{< relref "vomissements-grossesse-hyperemese-gravidique.md" >}})
 
 {{%/article-summary%}}
+{{%collapse "Désir de grossesse et bilan pré-conceptionnel" %}}
+
+[HAS. Projet de grossesse : informations, messages de prévention, examens à proposer. 2009. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-01/projet_de_grossesse_informations_messages_de_prevention_examens_a_proposer_-_fiche_de_synthese.pdf)
+[CNGOF](http://www.cngof.fr/grossesse/197-la-consultation-preconceptionnelle-2)
+
+{{% /collapse %}}
 {{%collapse "Médicaments et vaccins pendant la grossesse" %}}
 
 ### Médicaments pendant la grossesse
@@ -105,9 +111,13 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si obésité, *[Eades 
 | Obésité      |                        ≥ 30 |                                                    5 - 9 |
 {{< /table >}}
 
+> *[Louvet et al; Société Francophone du Diabète (SFD). Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022.pdf)*
+
 {{% /collapse %}}
 {{%sources%}}
 
-[Louvet et al; Société Francophone du Diabète (SFD). Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022.pdf)
+### À lire
+
+[HAS. Grossesse, accouchement et suivi postnatal. Panorama.](https://www.has-sante.fr/jcms/p_3286443/fr/grossesse-accouchement-et-suivi-postnatal)
 
 {{%/sources%}}

@@ -79,7 +79,7 @@ h6 {
     font-size: 3.5rem;
   }
   h2 {
-    font-size: 1.7rem;
+    font-size: 1.75rem;
     font-weight: 300;
   }
   h3 {
@@ -756,8 +756,12 @@ article {
 
 .cabinet__content {
 
+  > * + * {
+    margin-block-start: 1.5rem;
+  }
+
   > h2 {
-    margin-top: 80px;
+    margin-top: 60px;
     margin-bottom: 48px;
   }
 

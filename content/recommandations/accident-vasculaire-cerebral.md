@@ -85,21 +85,21 @@ UNV
 : Unité neuro-vasculaire
 {.dl-inline}
 
-### Épidémiologie
+### Épidémiologie de l'accident vasculaire cérébral en France
 
-Accident vasculaire cérébral
-: 1<sup>re</sup> cause de mortalité chez la femme, 3<sup>e</sup> chez l'homme.  
-1<sup>re</sup> cause de handicap de l'adulte.  
-2<sup>e</sup> cause de démence (30%).
-: 140.000 AVC/an.  
-1 personne sur 6 aura un AVC.  
-30% de mortalité le 1<sup>er</sup> mois.  
-75% des survivants ont des séquelles.
-: Âge moyen de survenue: 74 ans.  
-1/4 avant 65 ans, 10% avant 45 ans.
+L'accident vasculaire cérébral (AVC) est un enjeu majeur de santé publique:
 
-Accident ischémique transitoire
-: 30.000 AIT/an
+- 1<sup>re</sup> cause de mortalité chez la femme, 3<sup>e</sup> chez l'homme
+- 1<sup>re</sup> cause de handicap de l'adulte
+- 2<sup>e</sup> cause de démence (30%)
+- Incidence: 140.000 AVC/an
+- 1 personne sur 6 aura un AVC
+- 30% de mortalité le 1<sup>er</sup> mois
+- 75% des survivants ont des séquelles
+- Âge moyen de survenue: 74 ans
+- 1/4 des AVC surviennent avant 65 ans, 10% avant 45 ans
+
+Et 30.000 accidents ischémiques transitoires chaque année.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -109,13 +109,13 @@ Accident ischémique transitoire
 
 1. Déficit moteur (> 50%)  
   Faiblesse ou engourdissement soudain, uni ou bilatéral de la face, du bras ou de la jambe.
-2. Trouble visuel (28%)  
+1. Trouble visuel (28%)  
   Diminution ou perte de vision uni ou bilatérale.
-3. Dysarthrie/aphasie (> 42%)  
+1. Dysarthrie/aphasie (> 42%)  
   Difficulté de langage ou de la compréhension.
-4. Céphalées  
+1. Céphalées  
   Mal de tête sévère, soudain ou inhabituel sans cause apparente (saignement intra-crânien).
-5. Troubles de l'équilibre (17%)  
+1. Troubles de l'équilibre (17%)  
   Instabilité à la marche ou chutes inexpliquées.
 
 Et déficit sensitif brutal (35%)

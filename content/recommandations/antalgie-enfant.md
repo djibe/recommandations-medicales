@@ -1,25 +1,25 @@
 +++
-title = "Antalgie chez l'enfant"
+title = "Antalgie et douleur chez l'enfant"
 prefix = "l'"
 titleSeo = "Douleur de l'enfant"
 noindex = true
-description = "Recommandations pour le traitement de la douleur de l'enfant en pédiatrie. Echelles d'évaluation, dose de paracétamol Doliprane 15 mg/kg toutes les 6 heures"
+description = "Recommandations pour le traitement et la prise en charge de la douleur de l'enfant. Echelles d'évaluation en pédiatrie, dosage des antalgiques, AINS, morphine"
 synonyms = ["Antidouleurs en pédiatrie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-12-26T00:12:41+02:00"
 publishdate = "2020-12-26"
-lastmod = "2020-12-28"
+lastmod = "2023-02-17"
 specialites = ["pediatrie"]
-annees = "2019"
-sources = ["HAS", "Pediadol"]
-tags = ["AINS", "douleur", "enfant"]
+annees = "2022"
+sources = ["Collège", "HAS", "Pediadol"]
+tags = ["adolescent", "AINS", "douleur", "enfant", "nourrisson"]
 anglais = []
-sctid = ""
+sctid = "22253000"
 slider = true
 paracetamol = true
 image = true
 imageSrc = "La douleur de l'enfant par Nathan Phillips sur Foter.com"
-todo = "orifices herniaires, palpation abdo, nubin, CNRD Centre National de Ressources de lutte contre la Douleur, https://www.phel.ch/upload/docs/application/pdf/2016-05/a4_poster_gsasa_2015_rotation_opiaces_mj.pdf"
+todo = "Prescrire, orifices herniaires, palpation abdo, nubin, CNRD Centre National de Ressources de lutte contre la Douleur, https://www.phel.ch/upload/docs/application/pdf/2016-05/a4_poster_gsasa_2015_rotation_opiaces_mj.pdf"
 +++
 
 {{%article-summary%}}
@@ -228,6 +228,11 @@ Surveillance par soignant pendant 1h.
 {{< /table >}}
 
 {{% /collapse %}}
+{{%collapse "Particularités cliniques de la douleur chez l'enfant" %}}
+
+
+
+{{% /collapse %}}
 {{%sources%}}
 
 [Appli Livret Douleur APHP](https://play.google.com/store/apps/details?id=com.groupe_synapse.livretDouleur)
@@ -235,6 +240,6 @@ Surveillance par soignant pendant 1h.
 - [Pediadol. Un groupe d'experts de la douleur de l'enfant.](https://pediadol.org/)
 - [Pediadol. Douleur de l'enfant - L'essentiel. 2019](https://issuu.com/carco_publi/docs/guide_essentiel_interactif)
 - [Comité de lutte contre la douleur Hôpitaux de Toulouse. Médicaments antalgiques en pédiatrie. 01/09/2017. (PDF)](https://www.chu-toulouse.fr/IMG/pdf/09_antalgiques_tableau_pediatrie_v6f.pdf)
-- [HAS. Prise en charge médicamenteuse de la douleur chez l'enfant : alternatives à la codéine. Janvier 2016.](https://www.has-sante.fr/jcms/c_2010340/fr/prise-en-charge-medicamenteuse-de-la-douleur-chez-l-enfant-alternatives-a-la-codeine)
+- [HAS. Prise en charge médicamenteuse de la douleur chez l'enfant : alternatives à la codéine. 2016.](https://www.has-sante.fr/jcms/c_2010340/fr/prise-en-charge-medicamenteuse-de-la-douleur-chez-l-enfant-alternatives-a-la-codeine)
 
 {{%/sources%}}
