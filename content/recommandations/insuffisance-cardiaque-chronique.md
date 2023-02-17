@@ -597,7 +597,7 @@ réalistes
 {{< traitements/bb-ic >}}
 
 {{% /modal %}}
-{{% modal title="Inhibiteurs du cotransporteur SLGT2" id="modal-isglt2"%}}
+{{% modal title="Inhibiteurs du cotransporteur SGLT2" id="modal-isglt2"%}}
 
 {{< traitements/isglt2 >}}
 

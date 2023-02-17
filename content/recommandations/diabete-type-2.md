@@ -332,7 +332,7 @@ Bilan à jeun pendant 12 heures:
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | SFD 2016                 |
 | Score calcique | {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} &plusmn; EE | SFD 2021 CAD |
 | [Vaccins]({{< relref "vaccination.md" >}}) | Covid-19, [grippe]({{< relref "grippe.md" >}}), {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
-| Vitamine B12 | Si metformine: dosage après 4 ans de traitement                                                  | KDIGO 2020 diabetes      |
+| Vitamine B12 | Si metformine: dosage après 4 ans de traitement                                                  | KDIGO 2022 diabetes      |
 {{< /table >}}
 
 > **AAA** = anévrysme de l'aorte abdominale ; **EE** = épreuve d'effort ; **MRC** = maladie rénale chronique ; **aspirine:** IPP si risque élevé de saignement digestif ;  
@@ -373,7 +373,6 @@ Bilan à jeun pendant 12 heures:
 - [Monnier L. et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
 - [Valensi P. et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. 2021.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_paper_sfc_sfd_march_2021.pdf)
 - {{< references/afef-foie-non-invasif >}}
-- [KDIGO. 2020 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. 2020. (PDF)](https://kdigo.org/wp-content/uploads/2020/10/KDIGO-2020-Diabetes-in-CKD-GL.pdf)
 - [INCa. Synthèse - Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Septembre 2019. (PDF)](https://www.e-cancer.fr/content/download/278143/3948778/file/Synthese_CAT_patients_atteints_adenocarcinomes_pancreas_mel_20191118.pdf)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/esc-diabetes >}}
@@ -460,12 +459,12 @@ Bilan à jeun pendant 12 heures:
 {{< traitements/insuline >}}
 
 {{% /modal %}}
-{{% modal title="IEC dans l'hypertension" id="modal-iec" size="lg"%}}
+{{% modal title="IEC dans l'hypertension" id="modal-iec" %}}
 
 {{< traitements/iec >}}
 
 {{% /modal %}}
-{{% modal title="ARA2 dans l'hypertension" id="modal-ara2" size="lg"%}}
+{{% modal title="ARA2 dans l'hypertension" id="modal-ara2" %}}
 
 {{< traitements/ara2 >}}
 

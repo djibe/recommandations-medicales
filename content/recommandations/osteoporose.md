@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. CORTET et Dr T. FUNCK-BRENTANO (SFR, GRIO)"
 date = "2020-09-04T17:43:41+02:00"
 publishdate = "2021-12-06"
-lastmod = "2023-01-25"
+lastmod = "2023-02-16"
 specialites = ["rhumatologie"]
 annees = "2023"
 sources = ["HAS", "SFRhumato", "GRIO", "IOF"]
@@ -21,7 +21,7 @@ slider = true
 image = true
 imageWEBP = true
 imageSrc = "Illustration de l'ostéoporose par BruceBlaus, CC BY-SA 4.0 via Wikimedia Commons"
-todo = "rankok, lire recos, https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, HAS 2005 chutes, prescription renforcement musculaire, dose THM prev osseuse, https://www.endocrine.org/clinical-practice-guidelines/bone-health-and-osteoporosis"
+todo = "rankok, lire recos, https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, HAS 2005 chutes, prescription renforcement musculaire, https://www.endocrine.org/clinical-practice-guidelines/bone-health-and-osteoporosis"
 +++
 
 {{%article-summary%}}
@@ -332,7 +332,7 @@ $(function () {
 
 ### Mesures de prévention de l'ostéoporose
 
-Tout au long de la vie: activité physique adaptée, apports vitamino-calciques.
+Tout au long de la vie: activité physique adaptée, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}} et apports vitamino-calciques.
 
 - [Sevrage tabagique]({{< relref "arret-tabac.md" >}}) + alcool
 - Soins bucco-dentaires au moins annuels (et avant traitement)  
@@ -349,12 +349,14 @@ Tout au long de la vie: activité physique adaptée, apports vitamino-calciques.
   - Dose d'entretien: 800-1200 UI/j (ou 80-100.000 UI/2-3 mois)
   - Voir *[Vitamine D]({{< relref "vitamine-d.md" >}})* pour les protocoles de correction
 - Calcium
-  - Femme ménopausée ≥ 50 ans: cible 1 - 1,2 g/j ({{< modal-btn modal-calcium-cible >}}apports calciques cibles{{< /modal-btn >}})
+  - Femme ménopausée ≥ 50 ans: {{< modal-btn modal-calcium-cible >}}apports cibles 1 - 1,2 g/j{{< /modal-btn >}}  
+    [Évaluer les apports avec le questionnaire du GRIO](http://www.grio.org/espace-gp/calcul-apport-calcique-quotidien.php).
   - Associations calcium/vitamine D  
-    {{%class "text-black-secondary"%}}Cacit, Calcidose, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Eptavit, Fixical, Ideos, Metocalcium, Natecal, Orocal, Osseans, Structocal.{{%/class%}}
-  - {{< modal-btn modal-calcium >}}Aliments riches en calcium{{< /modal-btn >}}
-  - Évaluation des apports par [questionnaire du GRIO](http://www.grio.org/espace-gp/calcul-apport-calcique-quotidien.php)
+    {{% class "text-black-secondary" %}}Cacit, Calcidose, Calciprat, Calcium Vitamine D3, Calperos, Caltrate, Densical, Eptavit, Fixical, Ideos, Metocalcium, Natecal, Orocal, Osseans, Structocal.{{%/class%}}
+  - {{< modal-btn modal-calcium >}}Aliments riches en calcium{{< /modal-btn >}}, 2-3 produits laitiers/j
   - Apports lactés quotidiens jusqu'à 3 ans
+- Apports protéiques minimum de 1 à 1,2 g/kg/j
+- Limiter les sodas
 
 {{%/collapse%}}
 {{%collapse "Traitements anti-ostéoporotiques: biphosphonates, raloxifène, dénosumab" %}}
@@ -608,6 +610,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
+- [Biver E. et al. Dietary recommendations in the prevention and treatment of osteoporosis. Joint Bone Spine. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X22001816)
 - [HAS. Les médicaments de l'ostéoporose. Bon usage du médicament. 2023.](https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-l-osteoporose)
 - Prescrire Redaction. Fracture liées à une fragilité osseuse : prévention. Janvier 2021.
 - [HAS, FFAB. Boulimie et hyperphagie boulimique. Recommandation de bonne pratique. Juin 2019.](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique-reperage-et-elements-generaux-de-prise-en-charge)
@@ -624,7 +627,6 @@ graph TB
 
 ### À lire
 
-- [Biver E. et al. Dietary recommendations in the prevention and treatment of osteoporosis. Joint Bone Spine. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X22001816)
 - [Qaseem A. et al. Clinical Guidelines Committee of the American College of Physicians. Pharmacologic Treatment of Primary Osteoporosis or Low Bone Mass to Prevent Fractures in Adults: A Living Clinical Guideline From the American College of Physicians. Ann Intern Med. 2023.](https://www.acpjournals.org/doi/10.7326/M22-1034)
 - [Bouvard P et al; GRIO. Recommandations françaises de la prise en charge et du traitement de l'ostéoporose masculine. Revue du Rhumatisme. 2021. (PDF)](http://www.grio.org/documents/page246/reco-op-masculine.pdf)
 - [Kanis J. et al. Executive summary of the European guidance for the diagnosis and management of osteoporosis in postmenopausal women. Calcif Tissue Int. 2019.](https://link.springer.com/article/10.1007/s00223-018-00512-x)
@@ -650,6 +652,11 @@ Fracture ayant atteint: {{< clinique/osteoporose-fracture-severe >}}
 {{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}
 
 {{< clinique/facteur-risque-chute >}}
+
+{{% /modal %}}
+{{% modal title="Régime méditerranéen" id="modal-regime"%}}
+
+{{< traitements/regime-mediterraneen >}}
 
 {{% /modal %}}
 {{% modal title="Teneur en calcium des aliments" id="modal-calcium"%}}

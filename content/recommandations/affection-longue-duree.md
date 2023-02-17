@@ -82,6 +82,14 @@ Liste établie par décret [révision 2011-77 (PDF)](https://www.ameli.fr/sites/
   {{< list-item-counter "Tumeur maligne (colorectale, mélanome, ...), affection maligne du tissu lymphatique ou hématopoïétique" >}}
 </ul>
 
+### Détails
+
+Hémophilie et autres affections comprend:
+
+- Hémophilie par déficit en facteur VIII ou IX
+- Maladie de Willebrand, déficit en facteur II, facteur V, facteur VII, facteur X, facteur XI, facteur XIII et thrombopathies constitutionnelles.
+- Auto-anticorps antifacteur VIII et syndrome de Willebrand acquis
+
 {{% /collapse %}}
 {{%collapse "ALD exonérante - Affections hors liste ALD 31" %}}
 

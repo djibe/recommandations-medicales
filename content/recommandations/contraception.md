@@ -170,7 +170,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 | 2G          | 30       | LNG 0,15         | gén, Ludeal, Milevoni 150, Minidril, Optidril 28j, Qiade |
 | 2G          | 20       | LNG 0,1          | Asterluna/continu, gén, Leeloo/continu, Lolistrel/continu, Lovavulo, Optilova 28j, Milevoni 100 |
 | 3G          | 35       | Norgestimate 0,25 | NR: Femi, Naravela, Optikinzy 28j |
-| 3G          | 35       | Norgestimate 0,18/215/25 | NR: Triafemi, gén |
+| 3G          | 35       | Norgestimate 0,18/215/25 | NR: Triafemi, Trinara, gén |
 | P2          | 0        | LNG 0,03         | Microval        |
 | P3          | 0        | Désogestrel 0,075 | Antigone, Cérazette 28j NR, désogestrel 75, Désopop, Elfasette, Optimizette |
 | Implant     | 0        | Etonogestrel     | Nexplanon (18-40 ans) |

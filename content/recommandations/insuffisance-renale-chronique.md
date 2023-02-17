@@ -2,23 +2,23 @@
 title = "Insuffisance rénale chronique"
 prefix = "l'"
 titleSeo = "Insuffisance rénale chronique"
-description = "Recommandations pour la prise en charge de l'insuffisance rénale chronique. Clairance de la créatinine CKD-EPI, néphroprotection, IEC, LDL et statine"
+description = "Recommandations HAS et KDIGO pour la prise en charge de l'insuffisance rénale chronique. Clairance de la créatinine CKD-EPI, néphroprotection, IEC, statine ..."
 longHtml = true
-synonyms = ["et maladie rénale chronique"]
+synonyms = ["et maladie rénale chronique (MRC)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2023-02-05"
+lastmod = "2023-02-17"
 specialites = ["nephrologie"]
 annees = "2021"
 sources = ["HAS", "KDIGO", "ESC"]
 tags = ["depistage", "diabete", "dyspnee", "fatigue", "ferritine", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "vaccin", "vitamine d"]
-anglais = ["Renal failure syndrome"]
-sctid = "42399005"
+anglais = ["Chronic kidney disease (CKD)", "chronic renal insufficiency"]
+sctid = "709044004"
 flowchart = true
 image = true
 imageSrc = "Illustration de l'insuffisance rénale par pch.vector / Freepik"
-todo = "SEO 'insuffisance rénale kdigo', aliments riches K/P"
+todo = "maladie pro, aliments riches K/P"
 +++
 
 {{% article-summary %}}
@@ -28,7 +28,8 @@ todo = "SEO 'insuffisance rénale kdigo', aliments riches K/P"
 - 3 piliers de l'évaluation rénale: étiologie, DFG selon CKD-EPI et ratio albuminurie/créatininurie
 - Toute personne avec une insuffisance rénale chronique est à {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Néphroprotection  
-  {{< modal-btn modal-nephrotoxiques >}}Éviter les néphrotoxiques{{< /modal-btn >}}, PA < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}}, vaccin covid-19 ...
+  Arrêt du tabac, {{< modal-btn modal-nephrotoxiques >}}éviter les néphrotoxiques{{< /modal-btn >}}, tension cible < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}}, vaccin covid-19, activité physique
+- Mesures supplémentaires chez le diabétique (voir *Prise en charge*)
 - Adaptation des traitements selon {{< scores/ckd-epi >}}
 - Estimation de la progression de la maladie rénale chronique: [score KFRE](https://kidneyfailurerisk.com/)
 - Le suivi de l'enfant relève exclusivement du néphrologue
@@ -128,7 +129,7 @@ Population à risque d'insuffisance rénale chronique, définie par la présence
 - Exposition professionnelle  
   [Plomb]({{< relref "saturnisme.md" >}}), cadmium, mercure.
 
-Le dépistage des populations à risque doit être répété 1 fois par an (ou selon l'avis du néphrologue en antécédents familiaux.)
+Le dépistage des populations à risque doit être répété 1 fois par an (ou selon l'avis du néphrologue en antécédents familiaux)
 {.alert .alert-info}
 
 ### Comment dépister la maladie rénale chronique ?
@@ -177,7 +178,7 @@ Le recours au néphrologue est recommandé en cas de doute sur la nature de la m
 
 Stades de l'insuffisance rénale chronique selon le débit de filtration glomérulaire et de l'albuminurie.
 
-{{< table title="Stades de la maladie rénale chronique selon KDIGO 2012" >}}
+{{< table title="Stades de la maladie rénale chronique et de l'insuffisance rénale chronique selon KDIGO 2012" >}}
 | Stade | DFGe          | Définition    |
 |:-----:|:-------------:|---------------|
 | 1     | ≥ 90          | MRC avec DFG normal ou augmenté |
@@ -237,6 +238,8 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
 
 ### Bilan au diagnostic de la maladie rénale chronique
 
+Bilan à réaliser devant la découverte d'une insuffisance rénale ou une maladie rénale chronique:
+
 - Échographie rénale ± mesure du résidu post-mictionnel
 - ± Écho-doppler des artères rénales
 - NFS
@@ -282,9 +285,8 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - Contrôle tensionnel
   - Traitement si PA n'est pas dans la cible (*KDIGO 2021*)  
-    {{%class%}}Considérer si diabète avec albuminurie sans hypertension (*KDIGO 2020*){{%/class%}}
-  - PA cible < 120/90 mmHg (*KDIGO 2021*), {{%class%}}< 150-160 si ≥ 80 ans (*HAS 2021*){{%/class%}}
-  - Greffe < 130/80 mmHg (*KDIGO 2021*)
+  - Pression artérielle cible < 120/90 mmHg (*KDIGO 2021*), {{%class%}}< 150-160 si ≥ 80 ans (*HAS 2021*){{%/class%}}  
+    ou greffe < 130/80 mmHg (*KDIGO 2021*)
   - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} ou {{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale
   - Automesure tensionnelle
 - {{< modal-btn modal-statine-intensite >}}Statine de moyenne intensité{{< /modal-btn >}}
@@ -292,9 +294,8 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
     IRC sévère ou modérée avec albuminurie &gt; 3 ; diabète et DFG < 45 ou DFG 45-59 avec albu 3-30 ou albu +30
   - {{< modal-btn modal-rcv >}}RCV élevé{{< /modal-btn >}}: LDL cible < 0,7 g/L et réduction +50%  
     Toutes les autres atteintes rénales.
-- **Albuminurie cible** < 30 mg/mmol par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}
-  - < 3 mg/mmol chez le diabétique
-  - Envisager la {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}} (*ESC 2021*)
+- **Albuminurie cible** < 30 mg/mmol par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}  
+  Envisager la {{< modal-btn modal-isglt2 >}}dapagliflozine{{< /modal-btn >}} (*ESC 2021*)
 - Protéines < 1 g/kg/j
   - DFGe < 60: 0,6-0,8 g/kg/j
   - Sauf chez la personne âgée
@@ -309,15 +310,26 @@ Quelque soit le stade de la MRC, ces situations nécessitent un avis néphrologi
   - Suivi par néphrologue impératif
   - Protection du *capital veineux*
   - Vitamine D cible +75 nmol/L (*Souberbielle 2019*)
-- Si diabète
-  - {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}}  
-    8% si IRC sévère ou terminale.
-  - Suivi diabétologique impératif
-  - Attention au risque hypoglycémique (sulfamide, glinide, insuline)
 - Bicarbonates < 22 mmol/L: supplémentation
 - Maladie professionnelle et prévention si expositions
 - Associations de patients  
   [Fondation du Rein](https://www.fondation-du-rein.org/), [France Rein](https://www.francerein.org/), [renaloo](https://renaloo.com/), [AIRG](https://www.airg-france.fr/), [Objectif Rein Santé](https://objectifreinsante.org/).
+
+### Prise en charge de la maladie rénale chez le diabétique
+
+Mesures précédentes avec les particularités suivantes du *KDIGO 2022*:
+
+- {{< modal-btn modal-statine-intensite >}}Statine de moyenne à forte intensité{{< /modal-btn >}} selon le {{< modal-btn modal-rcv >}}RCV{{< /modal-btn >}}
+- Albuminurie cible < 3 mg/mmol
+  - Contrôle par IEC + anti-aldostérone finérénone (Karendia®, pas encore disponible) si non contrôlée (si DFG DFG ≥ 25 et kaliémie normale)
+  - Albuminurie et normotension: considérer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}
+- {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}}  
+    8% si IRC sévère ou terminale.
+- Suivi diabétologique impératif
+- DFG ≥ 20: {{< modal-btn modal-isglt2 >}}iSGLT2/gliflozine{{< /modal-btn >}}  
+- Traitements hypoglycémiants préférés: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1ra >}}GLP-1{{< /modal-btn >}}
+- Régime désodé < 5 g/j
+- Attention au risque hypoglycémique (sulfamide, glinide, insuline)
 
 ### Surveillance biologique
 
@@ -440,9 +452,9 @@ Protection du capital veineux quand DFGe < 45 mL/min (pas de prélèvement des a
 Connaître les signes et symptômes de la MRC et savoir qui prévenir.
 
 {{%/collapse%}}
-{{%collapse "Dépistage - Arbre décisionnel" "show" %}}
+{{%collapse "Conduite à tenir pour le dépistage de la maladie rénale chronique" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le dépistage de la maladie rénale chronique et prise en charge. Dr JB Fron d'après HAS 2021" >}}
+{{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge de la maladie rénale chronique. Dr JB Fron d'après HAS 2021 et KDIGO" >}}
 graph TB
 fdr["<b>Personne à risque</b><hr>- HTA, diabète<br>- Obésité<br>- Athérome<br>- Insuffisance cardiaque<br>- Maladie de système<br>- Pathologie urologique<br>- ATCD familial d'IRC évolutive<br>- Exposition professionnelle<br>- Néphrotoxiques"] --> 2(Bilan annuel)
 style fdr stroke:#4150f5, stroke-width:1px
@@ -461,18 +473,17 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%sources%}}
 
+- [Kidney Disease: Improving Global Outcomes (KDIGO) Diabetes Work Group. KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. Kidney Int. 2022.](https://kdigo.org/guidelines/diabetes-ckd/)
 - {{< references/esc-cvd >}}
 - {{< references/sfd-dt2 >}}
 - [HAS. Maladie rénale chronique de l'adulte. Guide du parcours de soins. Juillet 2021.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
 - [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. 2021.](https://www.kidney-international.org/article/S0085-2538(20)31269-2/fulltext)
-- [KDIGO. 2020 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. 2020. (PDF)](https://kdigo.org/wp-content/uploads/2020/10/KDIGO-2020-Diabetes-in-CKD-GL.pdf)
 - {{< references/esc-dyslipidemie >}}
 - {{< references/esc-hta >}}
 - [Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2012 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney inter. Suppl. 2013. (PDF)](https://kdigo.org/wp-content/uploads/2017/02/KDIGO_2012_CKD_GL.pdf)
 
 ### À lire
 
-- [Kidney Disease: Improving Global Outcomes (KDIGO) Diabetes Work Group. KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. Kidney Int. 2022.](https://kdigo.org/guidelines/diabetes-ckd/)
 - [HAS. Suivi ambulatoire de l'adulte transplanté rénal au-delà de 3 mois après transplantation. Recommandations de bonne pratique. 2007.](https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation)
 
 {{%/sources%}}
@@ -506,19 +517,29 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{< traitements/statine-intensite >}}
 
 {{% /modal %}}
-{{% modal title="IEC dans l'hypertension" id="modal-iec" size="lg"%}}
+{{% modal title="IEC dans l'hypertension" id="modal-iec" %}}
 
 {{< traitements/iec >}}
 
 {{% /modal %}}
-{{% modal title="ARA2 dans l'hypertension" id="modal-ara2" size="lg"%}}
+{{% modal title="ARA2 dans l'hypertension" id="modal-ara2" %}}
 
 {{< traitements/ara2 >}}
 
 {{% /modal %}}
-{{% modal title="Inhibiteurs du cotransporteur SLGT2" id="modal-isglt2"%}}
+{{% modal title="Metformine" id="modal-metformine"%}}
+
+{{< traitements/metformine >}}
+
+{{% /modal %}}
+{{% modal title="Inhibiteurs du cotransporteur SGLT2" id="modal-isglt2"%}}
 
 {{< traitements/isglt2 >}}
+
+{{% /modal %}}
+{{% modal title="Agonistes du récepteur GLP-1" id="modal-glp1ra"%}}
+
+{{< traitements/glp1ra >}}
 
 {{% /modal %}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}

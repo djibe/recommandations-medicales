@@ -28,6 +28,8 @@ todo = "Collège, FIGO"
 - Le traitement des ménorragies peut être médical (acide tranexamique), hormonal (pilule œstroprogestative, progestatifs, stérilet hormonal, agonistes de la GnRH) ou chirurgical (conservateur ou hystérectomie)
 - Prise en charge des ménorragies idiopathiques de la femme: acide tranexamique si désir de grossesse proche, sinon DIU au lévonorgestrel ou chirurgie conservatrice à partir de 42 ans. Hystérectomie si souhaitée.
 
+*Nous avons conscience que ce chapitre n'est pas encore bien adapté à notre pratique*
+
 Chapitres liés: [anémie par carence martiale]({{< relref "anemie.md" >}}), [contraception]({{< relref "contraception.md" >}})
 
 {{%/article-summary%}}

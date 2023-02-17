@@ -374,7 +374,7 @@ style depister stroke:#4150f5, stroke-width:1px
 {{< scores/mna >}}
 
 {{% /modal %}}
-{{% modal title="IEC" id="modal-iec" size="lg"%}}
+{{% modal title="IEC" id="modal-iec" %}}
 
 {{< traitements/iec >}}
 
