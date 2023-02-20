@@ -300,8 +300,9 @@ Découverte de grossesse = avis du Diagnostic Anténatal semi-urgent
 {{% /collapse %}}
 {{% collapse "Prise en charge de l'acné" "show" %}}
 
-{{< mermaid title="Choix du traitement devant une acné. Dr JB Fron d'après SFDermato 2015">}}
+{{< mermaid title="Prise en charge de l'acné selon la forme clinique. Dr JB Fron d'après SFDermato 2015">}}
 graph TB
+accTitle: Prise en charge de l'acné selon la forme clinique
   suspicion[Suspicion d'acné] --> diagnostic(Diagnostic clinique d'acné)
   style suspicion stroke:#4150f5, stroke-width:1px
   suspicion -- Diagnostic différentiel --> differentiel("- Dermatite péri-orale ou med<br>- Rosacée papulo-pustuleuse<br>- Syphilis<br>- Sarcoïdose")

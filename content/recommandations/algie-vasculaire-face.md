@@ -1,5 +1,5 @@
 +++
-title = "Algie vasculaire de la face"
+title = "Algie vasculaire de la face (AVF)"
 prefix = "l'"
 titleSeo = "Algie vasculaire de la face"
 description = "Recommandations pour le diagnostic, le traitement et la prise en charge de l'Algie vasculaire de la face, traitement de la crise sumatriptan, oxygène et de fond"
@@ -18,7 +18,7 @@ sctid = "193031009"
 flowchart = true
 image = false
 imageSrc = ""
-todo = "Examen, collège"
+todo = "Examen clinique"
 +++
 
 {{%article-summary%}}
@@ -293,9 +293,10 @@ Voire *lithium*.
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une algie vasculaire de la face (AVF)" "show" %}}
 
-{{< mermaid title="Conduite à tenir et prise en charge d'une suspicion d'algie vasculaire de la face. Dr JB Fron d'après SFEMC 2014" >}}
+{{< mermaid title="Prise en charge de l'algie vasculaire de la face (AVF). Dr JB Fron d'après SFEMC 2014" >}}
 graph TB
-  suspicion[Suspicion d'AVF] --> ICHD3(Critères diagnostiques ICHD-3)
+accTitle: Prise en charge de l'algie vasculaire de la face
+  suspicion["Suspicion d'algie<br>vasculaire de la face (AVF)"] --> ICHD3(Critères diagnostiques ICHD-3)
   style suspicion stroke:#4150f5, stroke-width:1px
     ICHD3 --> examens("IRM et ARM cérébrale<br>au diagnostic")
       examens --> suivi("- Suivi spécialisé (neuro, ORL, douleur)<br>- Arrêt toxiques")
@@ -307,7 +308,7 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
-[**NB.** Demande de prise en charge à 100% par des députés sans réponse du gouvernement](https://questions.assemblee-nationale.fr/q15/15-4922QE.htm)
+> [Demande de prise en charge à 100% par des députés sans réponse du gouvernement](https://questions.assemblee-nationale.fr/q15/15-4922QE.htm)
 
 - [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/migraine-nevralgie-du-trijumeau-algies-face)
 - [Donnet A. et al, SFEMC. Recommandations pour le diagnostic et le traitement de l'algie vasculaire de la face. Revue Neurologique. 2014. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20pour%20le%20diagnostic%20et%20le%20traitement%20de%20l%2527algie%20vasculaire%20de%20la%20face%20(3).pdf)

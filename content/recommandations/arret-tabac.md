@@ -431,6 +431,7 @@ L'entretien motivationnel n'est pas une confrontation ou une persuasion.
 
 {{< mermaid title="Dépistage systématique du tabagisme et prise en charge de l'arrêt du tabac (hors bilan des complications). Dr JB Fron d'après HAS 2014" >}}
 graph TB
+accTitle: Prise en charge de l'arrêt du tabac
   tabagisme["<strong>« Fumez-vous ? »</strong>"]
   style tabagisme stroke:#4150f5, stroke-width:1px
   tabagisme -- Oui --> essai("« Avez-vous déjà envisagé<br>d'arrêter de fumer ?<br>Voulez-vous qu'on<br>prenne le temps d'en parler ? »<br>Proposer une brochure")

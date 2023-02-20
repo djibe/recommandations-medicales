@@ -224,6 +224,7 @@ Prise en charge de l'anémie par supplémentation et fer puis surveillance de la
 
 {{< mermaid title="Prise en charge d'une anémie avec suspicion de carence en fer. Dr JB Fron d'après BSG 2021" >}}
 graph TB
+accTitle: Prise en charge d'une anémie avec suspicion de carence en fer
   anemie[Anémie avec suspicion <br>de carence en fer]
   style anemie stroke:#4150f5, stroke-width:1px
     anemie --> ferritine(Ferritinémie)

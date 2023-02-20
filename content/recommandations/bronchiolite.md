@@ -318,8 +318,9 @@ Selon la Revue Prescrire: pas de place pour la kinésithérapie respiratoire sau
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une dyspnée sifflante" "show" %}}
 
-{{< mermaid title="Prise en charge d'une dyspnée sifflante et conduite à tenir devant une bronchiolite. Dr JB Fron d'après HAS/CNPP 2019" >}}
+{{< mermaid title="Prise en charge de la bronchiolite et d'une dyspnée sifflante. Dr JB Fron d'après HAS/CNPP 2019" >}}
 graph TB
+accTitle: Prise en charge de la bronchiolite et d'une dyspnée sifflante
   dyspnee[Dyspnée sifflante] --> age(Âge)
   style dyspnee stroke:#4150f5, stroke-width:1px
     age --> moins12(&lt; 12 mois)

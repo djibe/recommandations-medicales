@@ -106,7 +106,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 
 {{- with .Params.flowchart }}
-<script type="module">
+<script type="module" async>
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@9.4.0/+esm';
   const MermaidConfig = {
     // logLevel: 1, // debug
@@ -121,7 +121,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
       lineColor: '#c1c1c1',
       secondaryColor: '#e8e8e8',
     },
-    themeCSS: '[marker-end]=url(#flowchart-pointEnd) {stroke-width: 3px}',
+    // themeCSS: '',
     flowchart: {
       curve: 'basis',
       htmlLabels: true,

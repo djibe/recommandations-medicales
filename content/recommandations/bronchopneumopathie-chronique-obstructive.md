@@ -562,8 +562,9 @@ IMC (< 21), perte de poids, santé bucco-dentaire.
 {{% /collapse %}}
 {{%collapse "Prise en charge de la BPCO" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le dépistage et le traitement de la BPCO. Dr JB Fron d'après SPLF, ERS et GOLD 2022" >}}
+{{< mermaid title="Prise en charge de la BPCO, diagnostique et thérapeutique. Dr JB Fron d'après SPLF, ERS et GOLD 2022" >}}
 graph TB
+accTitle: Prise en charge de la BPCO (bronchopneumopathie chronique obstructive)
   depister["<strong>Dépister</strong><hr>- Mini spiromètre<br>- Questionnaire GOLD<br>- ≥ 40 ans avec ≥ 1 parmi:<br>tabagisme, env. pollué,<br>chauffage charbon/bois,<br>exposition professionnelle,<br>toux chronique, expectorations,<br>dyspnée"]
   style depister stroke:#4150f5, stroke-width:1px
     depister --> spirometrie("- Spirométrie avec test de réversibilité<hr>- Évaluation dyspnée: CAT&trade;, échelle mMRC<br>- NFS, glycémie, lipides, Radio thorax<br>- Consultations pneumo et cardio")

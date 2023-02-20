@@ -244,6 +244,7 @@ Complications fréquentes survenant dans les suites d'une prostatectomie radical
 
 {{< mermaid title="Dépistage du cancer de la prostate et conduite à tenir devant une augmentation du PSA. Dr JB Fron d'après EAU 2022" >}}
 graph TB
+accTitle: Dépistage du cancer de la prostate et conduite à tenir devant une augmentation du PSA
   homme[Homme asymptomatique<br>avec Espérance de vie +15 ans<hr>+50 ans<br>+45 ans avec antécédent familial<br>ou origine Africaine<br>+40 ans avec BRCA2] -- information éclairée --> depistage(TR + PSA<br>tous les 2 ans)
   style homme stroke:#4150f5, stroke-width:1px
     depistage ==> normal("<b>TR normal</b>")

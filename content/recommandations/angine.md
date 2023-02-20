@@ -230,7 +230,7 @@ Rechercher:
 
 {{< mermaid title="Prise en charge de l'angine selon le tableau clinique. Dr JB Fron d'après SPILF/HAS 2016 et HAS 2021" >}}
 graph TB
-  accTitle: Prise en charge de l'angine selon le tableau clinique
+accTitle: Prise en charge de l'angine selon le tableau clinique
   angine[Angine érythémateuse<br>ou érythémato-pultacée] --> moins3("&lt; 3 ans") --> viral(Viral)
   style angine stroke:#4150f5, stroke-width:1px
     angine --> 314ans(3 à 14 ans) --> TDR(TDR) -- "Positif" --> ATB("<b>Antibiothérapie 6 jours</b><hr>Adulte: amoxicilline 1g x 2/j<br>Enfant: amox 25 mg/kg x 2/j")
