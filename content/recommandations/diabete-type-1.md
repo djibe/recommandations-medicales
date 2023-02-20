@@ -1,12 +1,13 @@
 +++
 title = "Diabète de type 1"
 prefix = "le "
+noindex = true
 synonyms = []
 description = "Recommandations pour le diagnostic, le suivi et la prise en charge du diabète type 1. Objectifs glycémiques et capteur, hypoglycémies et activité physique"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-04T19:15:12+02:00"
 publishdate = "2020-11-04"
-lastmod = "2022-05-30"
+lastmod = "2023-02-18"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["EASD", "ADA", "SFD", "ESC"]
@@ -15,7 +16,7 @@ anglais = ["Diabetes mellitus type 1"]
 sctid = "46635009"
 image = true
 imageSrc = "Illustration du diabète type 1 par macrovector / Freepik"
-todo = "EASD 2021 Fig 1 | Table 5, SFD capteur, glucagon"
+todo = "A REPRENDRE +++, EASD 2021 Fig 1 | Table 5, SFD capteur, glucagon"
 +++
 
 {{%article-summary%}}
@@ -180,14 +181,15 @@ Trame des éléments à relever pour un dossier médical complet.
 - Toute personne avec un diabète type 1 est à cardiovasculaire au moins {{< modal-btn modal-rcv-diabete >}}modéré{{< /modal-btn >}} (*ESC 2019*)
   - Très élevé si complication micro ou macrovasculaire ou si ≥ 3 FRCV
   - Modéré si âge < 35 sans complication
-- Arrêt du tabac  
+- Arrêt du tabac (également électronique et passif)  
   Information sur le risque d'hypo avec tout toxique (alcool, cannabis, cocaïne).
 - Hypertension artérielle  
   Objectif tensionnel **< 130/80** mmHg (*ESC 2019*).
 - Dyslipidémie  
   L'objectif de LDL dépend du {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}
-- Activité physique  
-  **Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire.
+- Activité physique
+  - **Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire. Renforcement musculaire 3 j/sem.
+  - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette x3/sem
 - {{< modal-btn modal-hba1c-dt1 >}}Cible d'HbA<sub>1c</sub> personnalisée + pré et post-prandiales{{< /modal-btn >}} (globalement 7%)
 - Surpoids  
   Négocier une perte de poids (5-10%). Un accompagnement spécialisé permet une baisse d'HbA<sub>1c</sub> 1 à 1,9%.
@@ -196,12 +198,11 @@ Trame des éléments à relever pour un dossier médical complet.
 - Dépistage de la [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})  
   Au diagnostic puis annuel pendant 5 ans (*[ISPAD 2018](https://cdn.ymaws.com/www.ispad.org/resource/resmgr/consensus_guidelines_2018_/19.other_complications_and_a.pdf))*.
 - Dépistage du retentissement psychologique  
-  Score WHO-5, PAID, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}} ou GAD-7 (anxiété)  
+  Score WHO-5, PAID, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}} ou {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}} (anxiété)  
   {{%class%}}Dépression et anxiété x2, commentaires de l'entourage.{{%/class%}}
-- Participer à des études: [SFDT1](https://sfdt1.fr/)
-- {{< references/compare >}}
+- Participer à des études: [SFDT1](https://sfdt1.fr/), {{< references/compare >}}
 
-Adulte bien équilibré, un suivi annuel peut être suffisant.
+Adulte bien équilibré: un suivi annuel peut être suffisant.
 
 {{%/collapse%}}
 {{% collapse "Insulinothérapie" %}}
@@ -217,7 +218,8 @@ Adulte: aiguilles de 4 mm avec injection à 90°.
 
 ### Les hypoglycémies en bref
 
-- Seuil de 70 mg/dL: resucrage
+- Seuil diagnostic de l'hypoglycémie: 70 mg/dL
+- Toute hypoglycémie justifie un resucrage
 - Vérifier la technique de resucrage
 - À quel niveau l'hypoglycémie est ressentie (dépistage de l'altération de la perception des hypoglycémies)  
   TODO: Gold and Clarke questionnaires showing a score equal or above 4 are indicative of IAH (100, 103)
@@ -226,7 +228,7 @@ Adulte: aiguilles de 4 mm avec injection à 90°.
 
 ### Définitions de l'hypoglycémie au cours du diabète
 
-{{< table title="Classification de l'hypoglycémie selon ADA/EASD 2021" >}}
+{{< table title="Classification des hypoglycémies selon ADA/EASD 2021" >}}
 | Niveau | Intervalle glycémique (mg/dL)       | Signification      |
 |:------:|------------------------------------:|--------------------|
 | 1      | 54 - 70                             | Seuil d'alerte     |
@@ -239,13 +241,13 @@ Les hypoglycémies peuvent aussi être subdivisées selon qu'elles sont **sympto
 ### Technique de resucrage d'une hypoglycémie
 
 - Dès glycémie < 70 mg/dL
-- Prise de 15g de glucose
+- Prise de 15 g de glucose
   - voire plus quand < 54 mg/dL
   - TODO: bon exemple
   - Pas de chocolat
-- toutes les 15 minutes jusqu'à disparition des symptômes et contrôle > 70 mg/dL
+- Toutes les 15 minutes jusqu'à disparition des symptômes et contrôle > 70 mg/dL
 
-En cas d'hypoglycémie sévère (troubles de conscience): contre-indication au resucrage oral (fausse route) et glucagon (SC, IM ou nasal), puis 20g de glucides complexes
+En cas d'hypoglycémie sévère (troubles de conscience): contre-indication au resucrage oral (fausse route) et glucagon (SC, IM ou nasal), puis 20 g de glucides complexes
 {.alert .alert-warning}
 
 ### Facteurs de risque d'hypoglycémie
@@ -277,6 +279,7 @@ Pour la conduite, contrôle glycémique avant la conduite puis toutes les 2 heur
 
 {{< card-link-external title="e-learning EASD" url="https://easd-elearning.org/">}}
 
+- [American Diabetes Association. Standards of Care in Diabetes - 2023 Abridged for Primary Care Providers. Clin Diabetes. 2023.](https://diabetesjournals.org/clinical/article/41/1/4/148029/Standards-of-Care-in-Diabetes-2023-Abridged-for)
 - {{< references/calendrier-vaccinal >}}
 - [Holt R. et al. The management of type 1 diabetes in adults. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8481000/)
 - [Monnier L. et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
@@ -306,5 +309,10 @@ Pour la conduite, contrôle glycémique avant la conduite puis toutes les 2 heur
 {{% modal title="Score PHQ-9" id="modal-phq9"%}}
 
 {{< scores/phq9 >}}
+
+{{% /modal %}}
+{{% modal title="Score GAD-7" id="modal-gad7"%}}
+
+{{< scores/gad7 >}}
 
 {{% /modal %}}

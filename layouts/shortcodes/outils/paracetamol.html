@@ -1,0 +1,136 @@
+<div class="card card-hover my-3 my-xl-5 mw-480">
+  <ul class="nav nav-tabs nav-justified" id="justifiedTab" role="tablist">
+    <li class="nav-item" role="presentation">
+      <button aria-controls="posologie" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#posologie" id="posologie-tab" type="button" role="tab">Posologie</button>
+    </li>
+    <li class="nav-item" role="presentation">
+      <button aria-controls="sirop" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#sirop" id="sirop-tab" type="button" role="tab">Sirop</button>
+    </li>
+    <li class="nav-item" role="presentation">
+      <button aria-controls="sachet" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#sachet" id="sachet-tab" type="button" role="tab">Oral</button>
+    </li>
+    <li class="nav-item" role="presentation">
+      <button aria-controls="suppo" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#suppo" id="suppo-tab" type="button" role="tab">Suppo</button>
+    </li>
+  </ul>
+  <div class="card-body tab-content">
+    <div aria-labelledby="posologie-tab" class="tab-pane fade show active" id="posologie" role="tabpanel">
+      <div class="form-group mt-3">
+        <label for="weight">Poids de l'enfant</label>
+        <div class="d-flex align-items-center">
+          <input type="text" value="20" id="weight" oninput="weightInput.value = this.value">
+          <input type="number" class="form-alternative ml-3" id="weightInput" value="20" min="3" max="50">
+        </div>
+      </div>
+      <p class="card-text">Paracétamol</p>
+      <p id="text-paracetamol">1 dose-kg ou <b>300 mg</b> toutes les 6 heures</p>
+      <hr>
+      <p class="card-text">Ibuprofène</p>
+      <p id="text-ibuprofene" class="user-select-all">200 mg toutes les 8 heures</p>
+    </div>
+    <div aria-labelledby="sirop-tab" class="tab-pane fade" id="sirop" role="tabpanel">
+      <p class="typography-overline text-black-secondary m-0">Spécialités</p>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">Doliprane 2,4%</li>
+        <li class="list-group-item">Dolko 60 mg/2mL buvable</li>
+        <li class="list-group-item">Efferalganmed pédiatrique</li>
+      </ul>
+      <p class="typography-overline text-black-secondary mt-2 mb-0">Délai d'action</p>
+      <p>45 minutes</p>
+      <p class="typography-overline text-black-secondary mt-2 mb-0">Efficacité maximale</p>
+      <p>Obtenue à 1-2 heures</p>
+    </div>
+    <div aria-labelledby="sachet-tab" class="tab-pane fade" id="sachet" role="tabpanel">
+      <p class="typography-overline text-black-secondary m-0">Spécialités</p>
+      <p>En sachet effervescent sauf mention contraire.</p>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item d-flex list-group-item-two-line">
+          <span class="list-group-item-text">
+            <span>80 mg</span>
+            <span>Efferalganmed</span>
+          </span>
+         </li>
+        <li class="list-group-item d-flex list-group-item-two-line">
+          <span class="list-group-item-text">
+            <span>100 mg</span>
+            <span>Doliprane</span>
+          </span>
+        </li>
+        <li class="list-group-item d-flex list-group-item-two-line">
+          <span class="list-group-item-text">
+            <span>150 mg</span>
+            <span>Doliprane, Efferalganmed</span>
+          </span>
+         </li>
+         <li class="list-group-item d-flex list-group-item-two-line">
+          <span class="list-group-item-text">
+            <span>200 mg</span>
+            <span>Doliprane</span>
+          </span>
+         </li>
+         <li class="list-group-item d-flex list-group-item-two-line">
+          <span class="list-group-item-text">
+            <span>250 mg</span>
+            <span>Efferalganmed (aussi cp dispers), Paralyoc (lyoc)</span>
+          </span>
+         </li>
+         <li class="list-group-item d-flex list-group-item-two-line">
+          <span class="list-group-item-text">
+            <span>300 mg</span>
+            <span>Doliprane</span>
+          </span>
+         </li>
+         <li class="list-group-item d-flex list-group-item-two-line">
+          <span class="list-group-item-text">
+            <span>500 mg</span>
+            <span>Sachet, dosette, granulés, cp efferv., cp orodisp., lyoc</span>
+          </span>
+         </li>
+      </ul>
+      <p class="typography-overline text-black-secondary mt-2 mb-0">Délai d'action</p>
+      <p>45 minutes</p>
+      <p class="typography-overline text-black-secondary mt-2 mb-0">Efficacité maximale</p>
+      <p>Obtenue à 1-2 heures</p>
+    </div>
+    <div aria-labelledby="suppo-tab" class="tab-pane fade" id="suppo" role="tabpanel">
+      <p class="text-warning">Uniquement si voie orale impossible (biodisponibilité faible et imprévisible).</p>
+      <p class="typography-overline text-black-secondary m-0">Spécialités</p>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item d-flex list-group-item-two-line">
+          <span class="list-group-item-text">
+            <span>80 mg</span>
+            <span>Efferalganmed</span>
+          </span>
+        </li>
+        <li class="list-group-item d-flex list-group-item-two-line">
+          <span class="list-group-item-text">
+            <span>100 mg</span>
+            <span>Doliprane</span>
+          </span>
+        </li>
+        <li class="list-group-item d-flex list-group-item-two-line">
+          <span class="list-group-item-text">
+            <span>150 mg</span>
+            <span>Doliprane, Efferalganmed</span>
+          </span>
+         </li>
+        <li class="list-group-item d-flex list-group-item-two-line">
+          <span class="list-group-item-text">
+            <span>200 mg</span>
+            <span>Doliprane</span>
+          </span>
+         </li>
+         <li class="list-group-item d-flex list-group-item-two-line">
+          <span class="list-group-item-text">
+            <span>300 mg</span>
+            <span>Efferalganmed</span>
+          </span>
+         </li>
+      </ul>
+      <p class="typography-overline text-black-secondary mt-2 mb-0">Délai d'action</p>
+      <p>2 heures</p>
+      <p class="typography-overline text-black-secondary mt-2 mb-0">Efficacité maximale</p>
+      <p>Obtenue à 2-3 heures</p>
+    </div>
+  </div>
+</div>

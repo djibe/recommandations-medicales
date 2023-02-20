@@ -579,7 +579,8 @@ graph TB
 
 ### À lire
 
-[Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/migraine-nevralgie-du-trijumeau-algies-face)
+- [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/migraine-nevralgie-du-trijumeau-algies-face)
+- [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf) (p.29)
 
 {{%/sources%}}
 {{% modal title="Score HAD" id="modal-had"%}}

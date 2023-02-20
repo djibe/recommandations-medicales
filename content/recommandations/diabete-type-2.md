@@ -16,7 +16,7 @@ anglais = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "GRADE PODO +++ dont p.68 et p.76 et p.90, conseils nut p. 80, revoir DIAG 2023+++, dépister hyperferritinémie?, glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | Post-IDM + diabète: simva + ezetimibe"
+todo = "GRADE PODO +++ dont p.68 et p.76 et p.90, conseils nut p. 80, revoir DIAG 2023+++, dépister hyperferritinémie?, glinides, IAG, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | IRC sévère: insu/répa/lira/séma/dula/vilda | IRC terminale: insu/répa/vilda | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit"
 +++
 
 {{%article-summary%}}
@@ -36,7 +36,7 @@ Diabète
 : Hyperglycémie chronique dont le diagnostic est biologique (définitions *ADA 2023*):
     - 2 glycémies à jeun ≥ 1,26 g/L (jeûne de 8 heures)
     - ou HbA1c ≥ 6,5% (48 mmol/mol)
-    - ou HGPO H2 ≥ 2 g/L
+    - ou HGPO-75g H2 ≥ 2 g/L
     - Symptômes et glycémie ≥ 2 g/L  
       Polyurie, polydipsie, amaigrissement.
 : Au cours du diabète, l'atteinte coronaire est plus étendue, sévère et diffuse. 6 à 35% ont une **ischémie myocardique sans angor** et 50% des infarctus du myocarde sont **silencieux** (*SFD 2021 CAD*). Le responsable majeur est le **LDL cholestérol**. Le risque d'[insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) est multiplié par 2 à 4.  
@@ -44,9 +44,10 @@ Les femmes avec DT2 sont à risque élevé d'[AVC]({{< relref "accident-vasculai
 : Épidémiologie du diabète en France: 3,5 millions de sujets traités, 80% en surpoids ou obèse, 3/4 hypertendus, 13% sont fumeurs et seulement 64% reçoivent une statine (*Entred3*).
 
 Hyperglycémie modérée à jeun (HGMAJ)
-: Ou *prédiabète*, correspond au stade précurseur du diabète.  
-La glycémie à jeun est mesurée de 1 à 1,25 g/L (HGPO H2 < 1,4 g/L), elle doit être contrôlée tous les ans (tous les 1-3 ans si < 1,1 g/L).
-: La perte d'1 kg réduit de 43% le risque de DT2 (*ESC 2019 diabetes*).
+: Ou *prédiabète*, correspond au stade précurseur du diabète.
+: La définition du prédiabète est biologique: HbA<sub>1c</sub> 5,7 - 6,4 % ou glycémie à jeun 1 - 1,25 g/L ou HGPO-75g H2 1,4 - 1,99 g/L (reprise dans *ADA 2023*). En cas de valeur limite haute, répéter le dépistage à 3-6 mois.
+: Le prédiabète doit faire contrôler chaque année la glycémie (tous les 1-3 ans si < 1,1 g/L).
+: La perte d'un kg réduit de 43% le risque de DT2 (*ESC 2019 diabetes*).
 
 Rémission du diabète
 : Définitions *EASD 2021*:
@@ -55,6 +56,8 @@ Rémission du diabète
     - HbA<sub>1c</sub> < 6,5% à au moins 6 mois du changement de mode de vie et au moins 3 mois de l'arrêt de tout traitement
 : Lorsque la mesure de l'HbA1c n'est pas fiable, recours à la glycémie à jeun < 1,26 g/L ou estimation par automesure (la glycémie moyenne doit être < 6,5% d'équivalent HbA1c).
 : Le *dépistage des complications* du diabète doit être poursuivi, avec la surveillance de l'HbA<sub>1c</sub> tous les 3 à 12 mois.
+
+TODO: Table 2.3 et 2.4
 
 ### Conversion des unités du diabète
 
@@ -70,6 +73,9 @@ Rémission du diabète
 </div>
 
 ### Abréviations
+
+ADA
+: {{%lang%}}American Diabetes Association{{%/lang%}}
 
 DT2
 : diabète type 2
@@ -93,24 +99,28 @@ SFD
 Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} (rarement modéré) {{%class%}}(risque CV x 3-4){{%/class%}}
 {.alert .alert-warning}
 
-- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (passif également) et alcool à moindre risque
+- [Arrêt du tabac]({{< relref "arret-tabac.md" >}}) (passif et électronique également) et alcool à moindre risque
 - [Hypertension artérielle]({{< relref "hypertension-arterielle.md" >}})
   - Seuil diagnostique ≥ 140/90 mmHg (160 après 80 ans, {{%class%}}*ESC 2018*{{%/class%}})
   - Cible 120-130/70-79 mmHg {{%class%}}(*ESC 2019 diabetes*){{%/class%}}
-  - ≥ 65 ans: 130-139/70-79 mmHg {{%class%}}(*ESC 2019 diabetes*){{%/class%}}
+  - +65 ans: 130-139/70-79 mmHg {{%class%}}(*ESC 2019 diabetes*){{%/class%}}
   - Bithérapie d'emblée {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}  
   {{%class%}}Considérer si albuminurie sans hypertension.{{%/class%}}
 - LDL cible {{%class%}}(*ESC 2019*){{%/class%}}  
   - {{< modal-btn modal-statine-intensite >}}< 0,7 g/L{{< /modal-btn >}}
   - {{< modal-btn modal-statine-intensite >}}< 0,55 g/L{{< /modal-btn >}} si {{< modal-btn modal-rcv-diabete >}}maladie cardiovasculaire, > 20 ans d'évolution ou ≥ 3 autres FRCV{{< /modal-btn >}}
 - Activité physique  
-  - {{%class "text-black-secondary" %}}**Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense). Endurance et renforcement musculaire. Commencer par 1000 pas supplémentaires/j ou autre objectif *SMART*.{{%/class%}}
+  - {{%class "text-black-secondary" %}}**Au moins 150 minutes** (2h30) d'activité physique par semaine (modérée à intense). Renforcement musculaire 3 j/sem. Commencer par 1000 pas supplémentaires/j ou autre objectif *SMART*.{{%/class%}}
+  - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette 3 j/sem
+  - Bouger toutes les 30 minutes
+  - Avec l'âge, favoriser la souplesse 2 à 3 jours par semaine (Yoga, Thai-chi)
 - Cible d'HbA<sub>1c</sub>: {{< modal-btn modal-hba1c >}}globalement **7%**{{< /modal-btn >}} {{%class%}}(*SFD 2021*){{%/class%}}
 - Surpoids  
   Perte de poids (5-10%) ou chirurgie bariatrique.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Dépister des {{< modal-btn modal-saos-diabete >}}apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}} et une [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) {{%class%}}(50%){{%/class%}}
-- Dépistages recommandés des [cancers](/tags/cancer/)
+- Dépistage des [cancers](/tags/cancer/) recommandés
+- Soutien psychologique
 - ALD 8 et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
 
 > Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75% (*ESC 2019 diabetes*)
@@ -361,6 +371,7 @@ Bilan à jeun pendant 12 heures:
 
 {{< card-link-external title="Ameli Data Pathologies. Dépenses des soins liés au diabète" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Diab%C3%A8te">}}
 
+- [American Diabetes Association. Standards of Care in Diabetes - 2023 Abridged for Primary Care Providers. Clin Diabetes. 2023.](https://diabetesjournals.org/clinical/article/41/1/4/148029/Standards-of-Care-in-Diabetes-2023-Abridged-for)
 - [US Preventive Services Task Force. Screening for Prediabetes and Type 2 Diabetes in Children and Adolescents: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2022.14543)
 - [HAS. La chirurgie métabolique en dernier recours en cas de diabète de type 2 couplé à une obésité modérée. Communiqué de presse. 12/10/2022.](https://www.has-sante.fr/jcms/p_3376491/fr/la-chirurgie-metabolique-en-dernier-recours-en-cas-de-diabete-de-type-2-couple-a-une-obesite-moderee)
 - [Davies MJ. et al. Management of hyperglycaemia in type 2 diabetes, 2022. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2022.](https://link.springer.com/article/10.1007/s00125-022-05787-2)
@@ -388,7 +399,6 @@ Bilan à jeun pendant 12 heures:
 
 ### À lire
 
-- [American Diabetes Association. Standards of Care in Diabetes - 2023 Abridged for Primary Care Providers. Clin Diabetes. 2023.](https://diabetesjournals.org/clinical/article/41/1/4/148029/Standards-of-Care-in-Diabetes-2023-Abridged-for)
 - [Thivolet C. et al. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)
 - Jarl Emanuel Strange. eposter. Risk of heart failure following short-term non-steroidal anti-inflammatory drug use in patients with type 2 diabetes mellitus; communiqué ESC. 26/08/2022. : éviter toute prise d'AINS
 - [HAS. Affection podologique & diabète : un suivi pluriprofessionnel. 2020.](https://www.has-sante.fr/jcms/p_3218144/fr/affection-podologique-diabete-un-suivi-pluriprofessionnel)

@@ -106,17 +106,26 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 
 {{- with .Params.flowchart }}
-<!--<script src="https://cdn.jsdelivr.net/npm/mermaid@9.3.0/dist/mermaid.min.js" integrity="sha256-QdTG1YTLLTwD3b95jLqFxpQX9uYuJMNAtVZgwKX4oYU=" crossorigin defer></script>-->
+<!--<script src="https://cdn.jsdelivr.net/npm/mermaid@9.4.0/dist/mermaid.esm.min.mjs" crossorigin defer></script>-->
 <script src="https://cdn.jsdelivr.net/npm/mermaid@9.1.7/dist/mermaid.min.js" integrity="sha256-G58AID1YoX5YaEtWfXSI0VLrZ6N4kvNvwg0BI8zUFxE=" crossorigin defer></script>
 <script>
   // https://mermaid-js.github.io/mermaid/#/Setup?id=fontfamily
   const MermaidConfig = {
-    fontFamily: 'Roboto',
     defaultLinkColor: '#4150f5',
     nodeBorder: '#fff',
     nodeTextColor: '#212121',
     // logLevel: 1, // debug
     securityLevel: 'loose',
+    theme: 'base',
+    themeVariables: {
+      fontFamily: 'Roboto',
+      'primaryColor': '#BB2528',
+      'primaryTextColor': '#fff',
+      'primaryBorderColor': '#7C0000',
+      'lineColor': '#F8B229',
+      'secondaryColor': '#006100',
+      'tertiaryColor': '#fff'
+    },
     themeCSS: '.node rect, .node polygon {stroke-width: 0;} .edgePath {opacity: 0.3 !important} .edgePath .path {stroke-width: 2px;}',
     flowchart: {
       htmlLabels: true,

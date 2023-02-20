@@ -139,7 +139,7 @@ Prise en charge de l'angine:
 
 - Angine streptococcique: éviction scolaire les 48 premières heures suivant l'instauration de l'antibiothérapie
 - Antalgique, antipyrétique  
-  Paracétamol voire antalgique palier 2.
+  Paracétamol voire [tramadol]({{< relref "antalgie-enfant.md" >}}).
 - Pas d'anti-inflammatoires (AINS) ni corticoïdes
 - La persistance de fièvre, dysphagie après 3 jours doit faire évoquer une infection intercurrente.
 - Scarlatine: traitement et éviction identiques
@@ -245,7 +245,8 @@ graph TB
 - [Cohen J., Cohen R.; SFP. Angine. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
 - [SPILF, HAS. Fiche mémo - Rhinopharyngite aiguë et angine aiguë de l'enfant. 2021. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2021-08/fiche_memo_rhinopharyngite_angine_enfant_durees_antibiotherapies.pdf)
 - [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 149. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-149-web.pdf)
-- [Lescanne E. et al. Amygdalectomie de l'enfant Actualisation 2020 de la recommandation SFORL & CFC. 2020.](https://www.sforl.org/wp-content/uploads/2021/11/Recommandation-SFORL-Amygdalectomie_2021.pdf)
+- [Lescanne E. et al. Amygdalectomie de l'enfant Actualisation 2020 de la recommandation SFORL & CFC. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2021/11/Recommandation-SFORL-Amygdalectomie_2021.pdf)
+- [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf)
 - [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)
 - Collège Français d'ORL et de Chirurgie Cervico-faciale. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 146 UE6.
 

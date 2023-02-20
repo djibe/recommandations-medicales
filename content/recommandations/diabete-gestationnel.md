@@ -12,12 +12,12 @@ specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["SFD", "CNGOF"]
 tags = ["diabete", "grossesse", "insuline"]
-anglais = ["Gestational diabetes mellitus"]
+anglais = ["Gestational diabetes mellitus (GDM)"]
 sctid = "11687002"
 flowchart = true
 image = true
 imageSrc = "Illustration du diabète gestationnel par vectorjuice / Freepik"
-todo = "attente relecture C Brunet"
+todo = "relecture"
 +++
 
 {{%article-summary%}}
@@ -116,6 +116,8 @@ Recommandations pour le diagnostic biologique de diabète gestationnel:
 
 Au diagnostic, adresser à la maternité de son choix pour la mise en place d'une auto-surveillance glycémique et consultation diététique.
 {{%/info%}}
+
+**NB.** Le jeûne ou un régime pauvre en glucide dans les 3 jours précédant l'hyperglycémie provoquée par voie orale (HGPO) peuvent augmenter la glycémie et fausser les résultats (*ADA 2023*).
 
 Si glycémie à jeun > 1,26 g/L en début de grossesse (à 2 reprises), il s'agit d'un diagnostic de diabète de type 2
 {.alert .alert-warning}

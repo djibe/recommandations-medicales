@@ -26,7 +26,7 @@ Avec la forte inflation intervenue en 2022, la consultation, toujours affichée 
 
 ### Éléments à retravailler sur cette page
 
-Ce qui manque: la comparaison avec l'évolution du salaire médian des cadres (corrigé sur l'âge serait un plus). En effet les jeunes cadres tirent fortement la médiane des revenus vers le bas alors que les jeunes médecins ... n'existent pas et qu'à l'inverse ils ne bénéficient d'aucune progression sur la carrière. Le temps de travail des cadres serait également intéressant.
+Ce qui manque: la comparaison avec l'évolution du salaire médian des cadres (corrigé sur l'âge serait un plus, le revenu serait également mieux). En effet les jeunes cadres tirent fortement la médiane des revenus vers le bas alors que les jeunes médecins ... n'existent pas et qu'à l'inverse ils ne bénéficient d'aucune progression sur la carrière. Le temps de travail des cadres serait également intéressant.
 
 Ce que sera délicat à traiter: l'augmentation des prélèvements obligatoires, des loyers, des revenus.
 
