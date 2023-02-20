@@ -1177,15 +1177,8 @@ a:focus-visible {
 }
 
 svg[id*="mermaid"] {
-  margin-bottom: 24px;
-  .node rect,
-  .node circle,
-  .node ellipse,
-  .node polygon,
-  .node path {
-    fill: #e0eeff !important;
-    stroke: #fff;
-  }
+  margin-bottom: 1.5rem;
+
   hr {
     margin: 0.25rem 0;
   }
@@ -1206,10 +1199,6 @@ div.mermaidTooltip {
   line-height: 1.5rem;
   pointer-events: none;
   z-index: 240;
-}
-
-.bg-light {
-  background: #fafafa !important;
 }
 
 .card-hover {
@@ -1259,6 +1248,10 @@ div.mermaidTooltip {
 }
 
 // Utilities
+.bg-light {
+  background: #fafafa !important;
+}
+
 .letter-spacing-normal {
   letter-spacing: normal !important;
 }
