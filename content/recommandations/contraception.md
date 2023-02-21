@@ -14,6 +14,7 @@ sources = ["CNGOF", "HAS"]
 tags = ["contraception", "grossesse", "MVTE"]
 anglais = ["Contraception"]
 sctid = "13197004"
+icd10 = "Z30"
 chart = true
 image = true
 imageSrc = "La contraception illustrée par stories / Freepik"

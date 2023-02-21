@@ -15,6 +15,7 @@ sources = ["GINA", "ERS", "SPLF", "HAS"]
 tags = ["AINS", "allergie", "asthme", "dyspnee", "tabac", "toux", "vaccin"]
 anglais = ["Asthma"]
 sctid = "195967001"
+icd10 = "J45.9"
 image = true
 imageSrc = "Illustration de l'asthme par brgfx / Freepik"
 todo = "vidéo DEP, doses Symbicort turbuhaler, CSI + ARL, revoir Stades GINA, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire, rhinite allergique"

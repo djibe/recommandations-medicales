@@ -16,7 +16,7 @@ anglais = ["Diabetes mellitus type 1"]
 sctid = "46635009"
 image = true
 imageSrc = "Illustration du diabète type 1 par macrovector / Freepik"
-todo = "A REPRENDRE +++, EASD 2021 Fig 1 | Table 5, SFD capteur, glucagon"
+todo = "A REPRENDRE +++, EASD 2021 Fig 1 | Table 5, SFD capteur, glucagon, ADA 2023 p.8+, hypoglycémie"
 +++
 
 {{%article-summary%}}
@@ -192,7 +192,7 @@ Trame des éléments à relever pour un dossier médical complet.
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette x3/sem
 - {{< modal-btn modal-hba1c-dt1 >}}Cible d'HbA<sub>1c</sub> personnalisée + pré et post-prandiales{{< /modal-btn >}} (globalement 7%)
 - Surpoids  
-  Négocier une perte de poids (5-10%). Un accompagnement spécialisé permet une baisse d'HbA<sub>1c</sub> 1 à 1,9%.
+  Négocier une perte de poids (5-10%). Un accompagnement spécialisé permet une baisse d'HbA<sub>1c</sub> de 1-1,9%.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Vaccination Covid-19, grippe, pneumocoque
 - Dépistage de la [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}})  
@@ -200,7 +200,7 @@ Trame des éléments à relever pour un dossier médical complet.
 - Dépistage du retentissement psychologique  
   Score WHO-5, PAID, {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}} ou {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}} (anxiété)  
   {{%class%}}Dépression et anxiété x2, commentaires de l'entourage.{{%/class%}}
-- Participer à des études: [SFDT1](https://sfdt1.fr/), {{< references/compare >}}
+- {{< references/compare >}}, [SFDT1](https://sfdt1.fr)
 
 Adulte bien équilibré: un suivi annuel peut être suffisant.
 
@@ -222,7 +222,7 @@ Adulte: aiguilles de 4 mm avec injection à 90°.
 - Toute hypoglycémie justifie un resucrage
 - Vérifier la technique de resucrage
 - À quel niveau l'hypoglycémie est ressentie (dépistage de l'altération de la perception des hypoglycémies)  
-  TODO: Gold and Clarke questionnaires showing a score equal or above 4 are indicative of IAH (100, 103)
+  {{%lang%}}TODO: Gold and Clarke questionnaires showing a score equal or above 4 are indicative of IAH (100, 103){{%/lang%}}
 - Rechercher une peur de l'hypoglycémie
 {{%/info%}}
 
@@ -279,7 +279,6 @@ Pour la conduite, contrôle glycémique avant la conduite puis toutes les 2 heur
 
 {{< card-link-external title="e-learning EASD" url="https://easd-elearning.org/">}}
 
-- [American Diabetes Association. Standards of Care in Diabetes - 2023 Abridged for Primary Care Providers. Clin Diabetes. 2023.](https://diabetesjournals.org/clinical/article/41/1/4/148029/Standards-of-Care-in-Diabetes-2023-Abridged-for)
 - {{< references/calendrier-vaccinal >}}
 - [Holt R. et al. The management of type 1 diabetes in adults. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2021.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8481000/)
 - [Monnier L. et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
@@ -289,6 +288,11 @@ Pour la conduite, contrôle glycémique avant la conduite puis toutes les 2 heur
 - {{< references/esc-hta >}}
 - [Massin P et al. Référentiel pour le dépistage et la surveillance des complications oculaires du patient diabétique. Validé par la Société Francophone du Diabète (SFD) et par la Société Française d'Ophtalmologie (SFO). Med Mal Metab. 2016. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_complications_oculaires_sfd_sfo_mmm.pdf)
 - [IDF. Oral health for people with diabetes. 2009. (PDF)](https://www.idf.org/component/attachments/attachments.html?id=729&task=download)
+
+### À lire
+
+- {{< references/ada-soc >}}
+- [Jane L. et al. Type 1 Diabetes in Children and Adolescents: A Position Statement by the American Diabetes Association. Diabetes Care. 2018.](https://diabetesjournals.org/care/article/41/9/2026/40739/Type-1-Diabetes-in-Children-and-Adolescents-A)
 
 {{%/sources%}}
 {{% modal title="Objectifs glycémiques du DT1 (ADA/EASD 2021)" id="modal-hba1c-dt1"%}}

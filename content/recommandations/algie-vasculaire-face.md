@@ -15,6 +15,7 @@ sources = ["SFEMC"]
 tags = ["cephalees", "tabac"]
 anglais = ["Cluster headache syndrome"]
 sctid = "193031009"
+idc10 = "G44.0"
 flowchart = true
 image = false
 imageSrc = ""

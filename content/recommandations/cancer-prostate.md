@@ -12,11 +12,12 @@ specialites = ["urologie"]
 annees = "2022"
 sources = ["EAU", "AFU", "HAS", "USPTF"]
 tags = ["cancer", "depistage"]
-anglais = ["Prostate Cancer (PCa)"]
+anglais = ["Prostate cancer (PCa)"]
 sctid = "254900004"
-flowchart = true
+icd10 = "C61"
 image = true
-imageSrc = "Illustration du cancer de la prostate par brgfx / Freepik "
+imageSrc = "Illustration du cancer de la prostate par brgfx / Freepik"
+flowchart = true
 todo = "tableau espérance de vie"
 +++
 

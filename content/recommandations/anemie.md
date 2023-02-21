@@ -14,6 +14,7 @@ sources = ["BSG", "SNFGE"]
 tags = ["AINS", "depistage", "EOGD", "grossesse", "fatigue", "ferritine", "prurit", "vertige"]
 anglais = ["Iron deficiency anemia"]
 sctid = "87522002"
+icd10 = "D50.9"
 flowchart = true
 image = true
 imageSrc = "Illustration de l'anémie par macrovector / Freepik"

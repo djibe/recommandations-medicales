@@ -11,7 +11,7 @@ publishdate = "2020-04-27"
 lastmod = "2023-02-17"
 specialites = ["nephrologie"]
 annees = "2021"
-sources = ["HAS", "KDIGO", "ESC"]
+sources = ["HAS", "KDIGO", "ADA", "ESC"]
 tags = ["depistage", "diabete", "dyspnee", "fatigue", "ferritine", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "vaccin", "vitamine d"]
 anglais = ["Chronic kidney disease (CKD)", "chronic renal insufficiency"]
 sctid = "709044004"
@@ -317,11 +317,11 @@ Bilan à réaliser devant la découverte d'une insuffisance rénale ou une malad
 
 ### Prise en charge de la maladie rénale chez le diabétique
 
-Mesures précédentes avec les particularités suivantes du *KDIGO 2022*:
+Mesures précédentes avec les particularités suivantes (*ADA 2023* et *KDIGO 2022*):
 
 - {{< modal-btn modal-statine-intensite >}}Statine de moyenne à forte intensité{{< /modal-btn >}} selon le {{< modal-btn modal-rcv >}}RCV{{< /modal-btn >}}
 - Albuminurie cible < 3 mg/mmol
-  - Contrôle par IEC + anti-aldostérone finérénone (Karendia®, pas encore disponible) si non contrôlée (si DFG DFG ≥ 25 et kaliémie normale)
+  - Contrôle par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} + anti-aldostérone finérénone (Karendia®, pas encore disponible) si non contrôlée (si DFG DFG ≥ 25 et kaliémie normale)
   - Albuminurie et normotension: considérer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}
 - {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}}  
     8% si IRC sévère ou terminale.
@@ -473,6 +473,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{%/collapse%}}
 {{%sources%}}
 
+- {{< references/ada-soc >}}
 - [Kidney Disease: Improving Global Outcomes (KDIGO) Diabetes Work Group. KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. Kidney Int. 2022.](https://kdigo.org/guidelines/diabetes-ckd/)
 - {{< references/esc-cvd >}}
 - {{< references/sfd-dt2 >}}

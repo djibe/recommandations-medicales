@@ -1,7 +1,7 @@
 +++
-title = "Récapitulatif des cibles de marqueurs biologiques et d'apports recommandés"
+title = "Récapitulatif des cibles de marqueurs biologiques et d'apports recommandés en nutriments"
 prefix = "le "
-titleSeo = "Cibles biologiques"
+titleSeo = "Cibles biologiques de nutriments"
 noindex = true
 description = "Cibles biologiques à obtenir pour une prévention primaire ou secondaire optimale"
 synonyms = []

@@ -14,6 +14,7 @@ sources = ["INCa", "HAS", "ACOG"]
 tags = ["cancer", "contraception", "depistage"]
 anglais = ["Malignant neoplasm of breast "]
 sctid = "254837009"
+icd10 = "C50.9"
 image = true
 imageSrc = "Le cancer du sein, illustration par Freepik"
 todo = "revoir ttt > gg sentinelle, Suivi K sein CA 15.3 ?, algorithme 2 et 3, EI hormonothérapie, perruque INCa, https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e, https://www.has-sante.fr/jcms/c_2849735/fr/revue-critique-de-la-litterature-sur-la-performance-de-la-mammographie-par-tomosynthese-dans-le-depistage-organise-du-cancer-du-sein, file:///C:/Users/JB/Downloads/ETAETHDEPSEIN12.pdf"

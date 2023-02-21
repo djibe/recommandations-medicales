@@ -14,6 +14,7 @@ sources = ["ESO", "ESC", "HAS", "AHA"]
 tags = ["antiplaquettaire", "cephalees", "demence", "diabete", "HTA", "risque cardiovasculaire", "SAS", "vertige"]
 anglais = ["Cerebrovascular accident", "ischaemic stroke", "transient ischaemic attack (TIA)", "intracerebral hemorrhage (ICH)"]
 sctid = "230690007"
+icd10 = "I64"
 image = true
 imageSrc = "AVC ischémique sylvien gauche sur une IRM de diffusion. Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
 todo = "bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104"

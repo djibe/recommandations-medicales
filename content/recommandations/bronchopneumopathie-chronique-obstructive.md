@@ -14,12 +14,13 @@ specialites = ["pneumologie"]
 annees = "2023"
 sources = ["GOLD", "ERS", "HAS", "SPLF"]
 tags = ["asthme", "BPCO", "depistage", "dyspnee", "fatigue", "tabac", "toux", "vaccin"]
-anglais = ["Chronic Obstructive Pulmonary Disease (COPD)"]
+anglais = ["Chronic obstructive pulmonary disease (COPD)"]
 sctid = "13645005"
-slider = true
-flowchart = true
+icd10 = "J44.9"
 image = true
 imageSrc = "Illustration de la BPCO par Freepik"
+slider = true
+flowchart = true
 todo = "SEO prise en charge x2, amélioration de la qualité de vie | Tableau 2 SPLF 2021, Plan d'action, score BODE ----------- p.61++++, info du patient p. 22, personne âgée p. 23, maladie professionnelle p. 24, ETP p.55, PTA/Asalee/SSIAD/SPASAD, https://www.has-sante.fr/upload/docs/application/pdf/2018-10/ref_aps_bpco_vf.pdf, remboursement RR, flow p.46, travail p. 58, PPS https://www.has-sante.fr/jcms/c_1638463/fr/plan-personnalise-de-sante-pps?xtmc=&xtcr=3, revoir Annexes p.86, fonctionnement et critères mini-spiromètre"
 +++
 

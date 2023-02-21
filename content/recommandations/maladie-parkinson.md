@@ -6,14 +6,15 @@ longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-04T21:22:54+01:00"
-publishdate = "2023-01-24"
-lastmod = "2023-01-24"
+publishdate = "2023-02-20"
+lastmod = "2023-02-20"
 specialites = ["neurologie"]
 annees = "2016"
 sources = ["HAS", "EFNS"]
 tags = []
 anglais = ["Parkinson's disease (PD)"]
 sctid = "49049000"
+icd10 = "G20"
 flowchart = true
 draft = true
 image = false
@@ -192,8 +193,8 @@ Les symptômes sont initialement unilatéraux:
   - Non modifié par l'alcool et les bêtabloquants
   - Aggravé par le calcul et l'émotion
 - **Instabilité posturale** précoce
-- Dysautonomie
-  - Hypotension artérielle orthostatique (45%): chutes, lipothymies/malaises
+- Dysautonomie  
+  Hypotension artérielle orthostatique (45%): chutes, lipothymies/malaises.
 - Symptômes non moteurs
   - Apathie, troubles de la motivation
   - Douleurs pseudo-rhumatismales (épaule, rachis) ou diverses (paresthésies, radiculalgies)
@@ -202,7 +203,8 @@ Les symptômes sont initialement unilatéraux:
   - Constipation
   - Amaigrissement et asthénie
   - Hallucinations (visuelles ++)
-  - Déclin cognitif (1/3 au diagnostic)
+  - Déclin cognitif (1/3 au diagnostic)  
+    Échelles PDD short screen (PDD-SS), Addenbrooke's Cognitive Examination-Revised (ACE-R) ou Montreal Cognitive Assessment (MoCA).
 - Excellente réponse à la L-dopa
 - **Signes négatifs / atypiques**
   - À Rechercher tous les 6-12 mois
@@ -217,7 +219,11 @@ Les symptômes sont initialement unilatéraux:
   - Expositions  
     [Plomb]({{< relref "saturnisme.md" >}}), manganèse et métaux lourds, solvants organiques, pesticides, eaux de puits.
 
-Ces éléments reprennent les critères diagnostiques **Queen Square Brain Bank** (QSBB).
+Ces éléments reprennent les critères diagnostiques *Queen Square Brain Bank* (QSBB).
+
+Interroger sur le sommeil, anxiété/dépression, dépister un RBD.
+
+TODO: RBD Screening Questionnaire has a sensitivity of 0.96 and a specificity of 0.56 for the diagnosis of RBD when a cut-off of five points is applied (class I evidence) [124]
 
 ### Examen clinique
 
@@ -248,7 +254,16 @@ Indications limitées de l'IRM cérébrale: suspicion de syndrome parkinsonien v
 
 ### DATscan
 
-Le DAT-scan (SPECT au bêta-CIT) peut être prescrit par le neurologue pour aider à différencier un tremblement essentiel d'un tremblement parkinsonien.
+Le DAT-scan (ou DaTscan, SPECT au bêta-CIT) peut être prescrit par le neurologue pour aider à différencier un tremblement essentiel d'un tremblement parkinsonien.
+
+### Autres examens
+
+- Électroencéphalogramme (EEG)  
+  Utile en cas de suspicion de démence.
+- Polysomnographie  
+  Étude des troubles du sommeil (dont sommeil paradoxal) ou de la somnolence.
+- Échographie transcrânienne du mésencéphale  
+  Recommandée par l'EFNS pour un diagnostic précoce et différentiel.
 
 ### Conseil génétique
 

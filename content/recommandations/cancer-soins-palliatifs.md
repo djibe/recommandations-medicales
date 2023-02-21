@@ -14,6 +14,7 @@ sources = ["INCa"]
 tags = ["cancer"]
 anglais = ["Palliative care"]
 sctid = "103735009"
+icd10 = "Z515"
 draft = true
 image = false
 imageSrc = ""

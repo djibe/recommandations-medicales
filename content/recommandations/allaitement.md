@@ -13,6 +13,7 @@ sources = ["CNGOF"]
 tags = []
 anglais = []
 sctid = ""
+icd10 = ""
 draft = true
 image = false
 imageSrc = ""

@@ -13,6 +13,7 @@ sources = ["Inesss"]
 tags = ["allergie"]
 anglais = []
 sctid = ""
+icd10 = ""
 draft = true
 image = false
 imageSrc = ""

@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2022-10-15"
+lastmod = "2023-02-20"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "ESH"]
@@ -238,18 +238,18 @@ Une PAD 70-79 mmHg est la cible pour tout hypertendu. La pression cible doit êt
 {{< table title="Synthèse des cibles de pression artérielle selon le profil de l'adulte de plus de 18 ans. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
 | Population          | Objectif (mmHg) | Source     |
 |---------------------|----------------:|------------|
-| Cible minimale      | &lt; 140/90     | ESC 2021   |
+| Cible minimale      | < 140/90        | ESC 2021   |
 | 18-70 ans           | 120-129/70-79   | ESC 2021   |
 | +70 ans             | 130-139/70-79   | ESC 2021   |
 | [AIT/AVC]({{< relref "accident-vasculaire-cerebral.md" >}}) | idem générale | ESC 2021 |
 | [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) | 120-140/90 | ESC 2017 LEAD |
 | Coronaropathie      | idem générale   | ESC 2021   |
-| [Diabète]({{< relref "diabete-type-2.md" >}}) | idem générale | ESC 2021 |
+| [Diabète]({{< relref "diabete-type-2.md" >}}) | idem générale<br>< 130/80 | ESC 2021<br>ADA 2023 |
 | [Fibrillation atriale]({{< relref "fibrillation-atriale.md" >}}) | ≤ 130/80 | ESC 2020 AF |
 | [Insuffisance cardiaque]({{< relref "insuffisance-cardiaque-chronique.md" >}}) | &lt; 140/90 (comorbidités) | ESC 2021 HF |
 | [Insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) | &lt; 120/90 | KDIGO 2021 |
-| Greffe rénale       | &lt; 130/80     | KDIGO 2021 |
-| Grossesse           | &lt; 140/90     | ESC 2018   |
+| Greffe rénale       | < 130/80        | KDIGO 2021 |
+| Grossesse           | < 140/90        | ESC 2018   |
 {{< /table >}}
 
 Abaisser encore la cible systolique si bien tolérée (*ESC 2021*).  
@@ -454,6 +454,7 @@ Contre-indications aux IEC/ARA2 et inhibiteurs de la rénine.
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/ada-soc >}}
 - {{< references/esc-cvd >}}
 - [Stergiou GS. et al. 2021 European Society of Hypertension practice guidelines for office and out-of-office blood pressure measurement. J Hypertens. 2021.](https://doi.org/10.1097/hjh.0000000000002843)
 - [Cheung A. et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. 2021.](https://doi.org/10.1016/j.kint.2020.10.026)

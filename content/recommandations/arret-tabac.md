@@ -15,6 +15,7 @@ sources = ["HAS", "HCSP", "INCa"]
 tags = ["adolescent", "depistage", "dyspnee", "grossesse", "HTA", "infertilite", "nephropathie", "prevention", "risque cardiovasculaire", "SAS", "tabac"]
 anglais = ["Smoking cessation therapy"]
 sctid = "710081004"
+icd10 = ""
 chart = true
 flowchart = true
 image = true

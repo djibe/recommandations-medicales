@@ -1,5 +1,5 @@
 +++
-title = "Les 36 Maladies à déclaration obligatoire en 2023"
+title = "Maladies à déclaration obligatoire en 2023"
 prefix = "les "
 titleSeo = "Maladies à déclaration obligatoire"
 noindex = true

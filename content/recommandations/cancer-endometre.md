@@ -13,6 +13,7 @@ sources = ["HAS", "INCa", "ACOG"]
 tags = ["cancer", "douleur pelvienne"]
 anglais = ["Endometrial cancer", "Cancer of the endometrium"]
 sctid = "93781006"
+icd10 = "C54.1"
 image = true
 imageSrc = "Carcinome endométrial chez une femme de 40 ans. Cas d'Aneta Kecler-Pietrzyk, Radiopaedia.org, rID: 53104"
 +++

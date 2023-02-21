@@ -14,6 +14,7 @@ sources = ["HAS", "SPLF", "ERS"]
 tags = ["BPCO", "cancer", "dyspnee", "fatigue", "tabac", "toux", "VIH"]
 anglais = ["Lung cancer"]
 sctid = "93880001"
+icd10 = "C34.9"
 image = true
 imageSrc = "Masse hilaire droite avec atélectasie du lobe supérieur droit est notée avec perte de volume de l'hémithorax droit. Assoc Prof Frank Gaillard / Radiopaedia.org"
 todo = "SPF, information du patient NICE et HAS"

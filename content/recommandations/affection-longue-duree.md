@@ -15,6 +15,7 @@ sources = ["Assurance Maladie"]
 tags = []
 anglais = ["Chronic disease"]
 sctid = "27624003"
+idc10 = "na"
 image = false
 imageSrc = ""
 todo= "TODO: summary, Affections psychiatriques de longue durée"

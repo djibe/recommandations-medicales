@@ -15,6 +15,7 @@ sources = ["Collège", "HAS", "Pediadol"]
 tags = ["adolescent", "AINS", "douleur", "enfant", "nourrisson"]
 anglais = []
 sctid = "22253000"
+icd10 = "R52.9"
 slider = true
 paracetamol = true
 image = true
@@ -43,7 +44,7 @@ Traitement de première intention pour les douleurs faibles (EVA/EN 1-3) à mod�
 
 ### AINS - Ibuprofène
 
-**Posologie chez le +3 mois:** 20-30 mg/kg/j par voie orale sur période courte (max 400 mg.prise, durée max 72 heures).
+**Posologie chez le +3 mois:** 10 mg/kg/8h ou 7,5 mg/kg/6h par voie orale sur une période courte (max 30 mg/kg/j avec max 400 mg/prise, durée max 72 heures).
 
 Formes: sirop, capsule, cp.
 
@@ -51,7 +52,7 @@ Associer paracétamol et AINS si besoin (et non pas alterner), 1 heure après le
 
 > L'OMS insiste sur le fait qu'il s'agit du seul AINS suffisamment étudié chez l'enfant.
 
-Classé en palier 1 mais peut être plus efficace que des paliers 2 voire 3 après certains traumatismes ou phases post-opératoires.
+Traitement sûr (*[Lesko 1995](https://pubmed.ncbi.nlm.nih.gov/7884951/)*). Classé en palier 1 mais peut être plus efficace que des paliers 2 voire 3 après certains traumatismes ou phases post-opératoires.
 
 #### Situations où éviter les AINS
 
@@ -65,17 +66,20 @@ Classé en palier 1 mais peut être plus efficace que des paliers 2 voire 3 apr�
 {{%collapse "Antalgie palier 2" %}}
 
 Traitement des douleurs intenses (EVA/EN 5-7), toujours en association au paracétamol et AINS si indiqués.  
-Recours au palier 3 si insuffisant. Ne jamais associer 2 antalgiques de palier 2.
+Recours au palier 3 si insuffisant.
+
+Ne jamais associer 2 antalgiques de palier 2. Ne pas utiliser pour les céphalées.
 
 ### Tramadol chez l'enfant
 
-**Posologie chez le +3 ans:** 1-2 mg/kg/prise toutes les 6-8 heures (max 4 prises par jour espacées d'au moins 4 heures)
+**Posologie chez le +3 ans:** 1-2 mg/kg/prise toutes les 6-8 heures (max 100 mg/prise, max 4 prises par jour espacées d'au moins 4 heures)
 
 #### AMM du tramadol pédiatrique
 
 - Buvable à partir 3 ans (Contramal®, [Topalgic®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66125684&typedoc=R))
 - Comprimés associés au paracétamol à partir de 12 ans ([Ixprim®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60365078&typedoc=R), gén)
 - Comprimés LP à partir de 12 ans ([Topalgic®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68303979&typedoc=R), gén)
+- Comprimés à libération immédiate à partir de 15 ans
 
 ### Codéine chez l'enfant
 
@@ -95,19 +99,27 @@ La nalbuphine n'est utilisée qu'en intraveineuse ou rectale en urgence.
 {{% /collapse %}}
 {{%collapse "Antalgie palier 3" %}}
 
+Cette section synthétique est réservée aux médecins habitués à manipuler des antalgiques de palier 3 chez l'enfant
+{.alert .alert-warning}
+
 Traitement des douleurs très intenses (EVA/EN 7-10), toujours en association au paracétamol et AINS si indiqués.  
-Pas de dose maximale, dose adaptée à la douleur et aux effets indésirables.
+Absence de dose maximale, dose adaptée à la douleur et aux effets indésirables.
 
 ### Morphine chez l'enfant
 
+La morphine est utilisable dès la naissance à demi-dose à l'hôpital (et jusqu'aux 6 mois du nourrisson).
+
 Morphine à libération immédiate (LI), sous surveillance par soignant pendant 1 heure:
 
-- < 1 an: morphine 0,1 mg/kg/prise
-- +1 an: débuter à 0,2 mg/kg toutes les 4 heures, titration par paliers de 30 à 50%
+- < 1 an (AMM chez le +6 mois): morphine 0,1 mg/kg/prise, avis spécialisé
+- +1 an: débuter à 0,2 mg/kg toutes les 4 heures
+  - Tant qu'EVA > 4: augmenter la dose suivante de 30 à 50%
+  - Dose de charge possible: 0,4 - 0,5 mg/kg (max 20 mg)
 
 Délai d'action de 30 minutes, pic d'efficacité à 45 minutes, durée d'action de 4 heures.
 
-Formes: gouttes (Oramorph®), cp (Actiskénan® 2,5 mg orodispersible ou +)
+Formes: gouttes (Oramorph®), cp (Actiskénan® 2,5 mg orodispersible ou +).  
+Toujours associer un laxatif par macrogol pour un traitement de +2 jours.
 
 #### Morphine à libération prolongée (LP)
 
@@ -115,7 +127,9 @@ Relai éventuel après 24 heures de morphine à libération immédiate en cas de
 
 Délai d'action de 2-4 heures, durée d'action de 12 heures.
 
-Répartition identique à l'adulte de la morphine LP = dose totale de LI en 2 prises et interdoses de LI si pic (1/6e à 1/10e de la dose totale de LP).
+Répartition identique à l'adulte de la morphine LP = dose totale de LI des 24 heures répartie en 2 prises.
+
+Des interdoses de morphine à LI doivent être précisées (1/6e à 1/10e de la dose totale de LP avec intervalle minimal d'une heure entre 2 interdoses). La dose de morphine LP est réadaptée en fonction de la quantité totale sur les 24 dernières heures.
 
 ### Convertisseur Opioconvert
 
@@ -123,7 +137,26 @@ Répartition identique à l'adulte de la morphine LP = dose totale de LI en 2 pr
 
 ### Fentanyl chez l'enfant
 
-TODO:
+AMM du fentanyl transdermique uniquement: à partir de 2 ans pour des douleurs chroniques intenses et stables.
+
+Utiliser les tables de conversion morphine <> fentanyl (ci-dessus).
+
+Patch transdermique: délai d'action de 8-12 heures, durée d'action de 72 heures. Agit encore 4-6 heures après le retrait.
+
+### Autres antalgiques de palier 3
+
+Hydromorphone, oxycodone.
+
+### Surveillance de l'enfant sous opioïdes
+
+- EVA/EN
+- Constipation
+- Somnolence: surveillance rapprochée voire réduction des doses si une stimulation physique est nécessaire pour le réveiller
+- Fréquence respiratoire (seuil d'alerte): < 20/min avant 1 an | < 15/min de 1-4 ans | < 10/min à partir de 5 ans
+- Contrôle de la saturation
+
+Toujours disposer de naloxone intra-veineuse ([Narcan®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64117646&typedoc=R), gén).  
+[Nyxoid® nasal (PDF)](https://ec.europa.eu/health/documents/community-register/2022/20220915156779/anx_156779_fr.pdf) possible à partir de 14 ans: 1,8 mg nasal toutes les 2-3 minutes si besoin.
 
 {{% /collapse %}}
 {{%collapse "Autres méthodes antalgiques" %}}
@@ -191,21 +224,18 @@ Rassurer, selon l'âge mobiliser: présence des parents, portage, paroles, allai
 {{% /collapse %}}
 {{%sources%}}
 
-[Appli Livret Douleur APHP](https://play.google.com/store/apps/details?id=com.groupe_synapse.livretDouleur)
-
 - Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pédiatrie. Réussir son DFASM. 2021.
-- [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf)
+- **[Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf)**
 - [Comité de lutte contre la douleur Hôpitaux de Toulouse. Médicaments antalgiques en pédiatrie. 01/09/2017. (PDF)](https://www.chu-toulouse.fr/IMG/pdf/09_antalgiques_tableau_pediatrie_v6f.pdf)
 - [HAS. Prise en charge médicamenteuse de la douleur chez l'enfant : alternatives à la codéine. 2016.](https://www.has-sante.fr/jcms/c_2010340/fr/prise-en-charge-medicamenteuse-de-la-douleur-chez-l-enfant-alternatives-a-la-codeine)
 - [Pediadol. Médicament. Un groupe d'experts de la douleur de l'enfant. (Protocoles)](https://pediadol.org/medicament/)
-- [Association Sparadrap: informations pour les enfants, les parents et les soignants](https://www.sparadrap.org/)
+- [Association Sparadrap: informations pour les enfants, les parents et les soignants](https://www.sparadrap.org)
+- [International Association for the Study of Pain (IASP)](https://www.iasp-pain.org)
 
 ### À lire
 
+- [Appli Livret Douleur APHP](https://play.google.com/store/apps/details?id=com.groupe_synapse.livretDouleur)
 - CNRD Centre National de Ressources de lutte contre la Douleur
-- IASP
-- SFETD
-- Prescrire
 - Modèles HAS
 - Modèles SFORL
 

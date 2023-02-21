@@ -1,7 +1,7 @@
 +++
 title = "Cancer du col de l'utérus et infection par les papillomavirus (HPV)"
 prefix = "le "
-titleSeo = "Cancer du col de l'utérus"
+titleSeo = "Cancer du col de l'utérus et HPV"
 description = "Recommandations pour le dépistage du cancer du col de l'utérus et des papillomavirus. Vaccination Gardasil, frottis cervico-vaginal et test HPV haut risque"
 synonyms = ["Papillomavirus humains HPV", "dysplasies et condylomes"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
@@ -14,10 +14,11 @@ sources = ["INCa", "HAS", "MinSanté"]
 tags = ["cancer", "depistage", "douleur pelvienne", "IST", "HSH", "vaccin"]
 anglais = ["Cervical cancer"]
 sctid = "363354003"
-flowchart = true
+icd10 = "C53.9"
 image = true
-imageSrc = "scientificanimations.com, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "pharynx, Les infections a HPV deviennent indétectables au bout de 2 ans dans 90% des cas. Dans les 10% des cas où elle persiste elle peut être a l'origine de cancer."
+imageSrc = "Illustration du cancer du col de l'utérus, scientificanimations.com, CC BY-SA 4.0, via Wikimedia Commons"
+flowchart = true
+todo = "pharynx, source: Les infections a HPV deviennent indétectables au bout de 2 ans dans 90% des cas. Dans les 10% des cas où elle persiste elle peut être a l'origine de cancer."
 +++
 
 {{%article-summary%}}

@@ -13,6 +13,7 @@ sources = ["HCSP", "SPILF", "HAS"]
 tags = ["nourrisson", "toux"]
 anglais = ["Pertussis", "Whooping cough"]
 sctid = "27836007"
+icd10 = "A37"
 image = true
 imageSrc = "Illustration de la coqueluche par Freepik"
 todo = "https://www.wiv-isp.be/matra/fiches/coqueluche.pdf"

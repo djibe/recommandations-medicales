@@ -14,6 +14,7 @@ sources = ["HAS"]
 tags = ["chute", "demence"]
 anglais = ["Benzodiazepine"]
 sctid = "372664007"
+icd10 = ""
 image = false
 imageSrc = ""
 todo = "grille arrêt"

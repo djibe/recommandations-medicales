@@ -12,6 +12,7 @@ sources = ["SFDermato", "HAS"]
 tags = ["contraception", "grossesse"]
 anglais = ["Acne"]
 sctid = "11381005"
+icd10 = "L70.9"
 image = true
 imageSrc = "Photo d'acné par profeticsbeta sur Foter.com / CC BY-NC-SA"
 flowchart = true

@@ -14,6 +14,7 @@ sources = ["HAS", "SPILF"]
 tags = ["depistage", "HSH", "IST"]
 anglais = ["Chlamydia trachomatis infection"]
 sctid = "240589008"
+icd10 = "A74.9"
 image = true
 imageSrc = "Frottis cervical avec Chlamydia trachomatis dans des vacuoles en grossissement 500. Dr. Lance Liotta Laboratory via Wikimedia Commons"
 todo = "orchiépididymite, améliorer clinique, flowchart"

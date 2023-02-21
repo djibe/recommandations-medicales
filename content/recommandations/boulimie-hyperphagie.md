@@ -14,6 +14,7 @@ sources = ["HAS", "FFAB"]
 tags = ["depistage", "vitamine d"]
 anglais = ["Bulimia nervosa"]
 sctid = "78004001"
+icd10 = "F50.2"
 image = true
 imageSrc = "Illustration de la boulimie par storyset / Freepik"
 todo = "borderline, complications"

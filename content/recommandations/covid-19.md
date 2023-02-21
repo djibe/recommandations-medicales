@@ -15,6 +15,7 @@ sources = ["HAS", "HCSP", "MinSanté"]
 tags = ["vaccin"]
 anglais = ["CoViD-19"]
 sctid = "840539006"
+icd10 = "U07.1"
 flowchart = true
 image = true
 imageSrc = "La Covid-19 par stories / Freepik"

@@ -13,6 +13,7 @@ sources = ["AFU"]
 tags = []
 anglais = ["Cryptorchidism"]
 sctid = "204878001"
+icd10 = "Q53.9"
 image = true
 imageSrc = "Lamiot via Wikipedia Commons, CC BY-SA 3.0"
 todo = "beh"

@@ -8,11 +8,13 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-07-26T13:38:41+02:00
 publishdate = "2020-07-26"
-lastmod = "2023-01-23"
+lastmod = "2023-02-20"
 specialites = ["social"]
 annees = "2023"
 sources = ["MinSanté"]
 tags = []
+anglais = ["Social health insurance"]
+sctid = ""
 image = false
 imageSrc = ""
 todo = "https://www.has-sante.fr/upload/docs/application/pdf/2018-03/annexes2.pdf"
@@ -28,6 +30,10 @@ Ces aides à la prise en charge médicale et aux soins doivent être communiqué
 {{< references/mes-droits-sociaux >}}
 
 {{< card-link-external title="1jeune1solution" url="https://mes-aides.1jeune1solution.beta.gouv.fr" subtitle="Évaluer les droits à 591 aides">}}
+
+### Ile-de-France
+
+[Mutuelle régionale de la Région Ile-de-France](https://www.iledefrance.fr/mutuelle-regionale)
 
 ## Prisonniers {.mt-5}
 

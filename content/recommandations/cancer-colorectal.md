@@ -13,6 +13,7 @@ sources = ["SNFGE", "INCa", "HAS", "SFED"]
 tags = ["cancer", "depistage", "fatigue", "obesite", "prevention", "tabac"]
 anglais = ["Colorectal cancer"]
 sctid = "781382000"
+icd10 = "C18"
 image = true
 imageSrc = "Illustration du cancer colorectal. Blausen Medical Communications, Inc., CC BY 3.0, via Wikimedia Commons"
 todo = "SEO 'dépistage cancer colorectal recommandations', dépistage G8 gériatrie, Vaccination info service chimiothérapie"

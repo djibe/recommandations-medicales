@@ -14,6 +14,7 @@ sources = ["Service-public", "SNAO"]
 tags = ["cephalees", "enfant", "fatigue"]
 anglais = ["Orthoptic test"]
 sctid = "252847008"
+icd10 = ""
 image = true
 imageSrc = "Illustration du bilan orthoptique par rawpixel.com / Freepik"
 +++

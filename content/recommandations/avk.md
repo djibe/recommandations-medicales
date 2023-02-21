@@ -15,6 +15,7 @@ sources = ["HAS"]
 tags = ["anticoagulant"]
 anglais = ["Antivitamin k"]
 sctid = "419847008"
+icd10 = ""
 image = false
 imageSrc = ""
 todo = "rename, adapt doses"

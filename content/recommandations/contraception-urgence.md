@@ -14,9 +14,10 @@ sources = ["HAS", "CNGOF"]
 tags = ["contraception"]
 anglais = ["Postcoital contraception"]
 sctid = "268463003"
-flowchart = true
+icd10 = "Z30"
 image = true
-imageSrc = "Crédit OnSexPrime.fr"
+imageSrc = "Communication sur la contraception d'urgence par OnSexPrime.fr"
+flowchart = true
 +++
 
 {{%article-summary%}}

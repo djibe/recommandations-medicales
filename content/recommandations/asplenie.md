@@ -14,6 +14,7 @@ sources = ["HCSP", "MinSanté"]
 tags = ["vaccin", "voyage"]
 anglais = ["Asplenia"]
 sctid = "707147002"
+icd10 = "Q89.0"
 image = true
 imageWEBP = true
 imageSrc = "Illustration de la rate par scientificanimations.com, CC BY-SA 4.0"

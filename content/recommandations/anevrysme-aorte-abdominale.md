@@ -14,6 +14,7 @@ sources = ["ESC", "HAS"]
 tags = ["depistage", "tabac"]
 anglais = ["Abdominal aortic aneurysm"]
 sctid = "233985008"
+icd10 = "I71.4"
 image = true
 imageSrc = "Schéma de l'anévrysme de l'aorte abdominale par loudista sur Foter.com"
 todo = "SEO 'aorte abdominale', anévrisme ou anévrysme ?"

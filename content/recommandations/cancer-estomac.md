@@ -14,6 +14,7 @@ sources = ["SNFGE", "HAS"]
 tags = ["EOGD", "ferritine", "gastrite"]
 anglais = ["Cancer of stomach"]
 sctid = "363349007"
+icd10 = "C16.9"
 image = true
 imageSrc = "Coupe histopathologique comparative d'adénocarcinome gastrique par Green, John et al. CC BY 4.0, via Wikimedia Commons"
 todo = "algo, FDR: IPP > 1 an ?"

@@ -14,6 +14,7 @@ sources = ["INCa", "SNFGE"]
 tags = ["cancer", "diabete", "obesite", "prurit", "tabac"]
 anglais = ["Pancreatic cancer"]
 sctid = "363418001"
+icd10 = "C25.9"
 image = true
 imageSrc = "Illustration du pancréas par brgfx / Freepik"
 +++
