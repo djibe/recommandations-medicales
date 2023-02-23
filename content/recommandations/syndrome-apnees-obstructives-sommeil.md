@@ -16,6 +16,7 @@ sources = ["SFRMS", "AASM", "HAS"]
 tags = ["BPCO", "depistage", "diabete", "fatigue", "HTA", "obesite", "risque cardiovasculaire", "SAS", "tabac"]
 anglais = ["Obstructive sleep apnea syndrome"]
 sctid = "78275009"
+icd10 = "G47.3"
 image = true
 imageSrc = "Illustration de l'apnée du sommeil par Habib M'henni / Wikimedia Commons"
 imagePNG = true

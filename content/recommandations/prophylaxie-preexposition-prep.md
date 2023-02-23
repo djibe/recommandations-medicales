@@ -15,6 +15,7 @@ sources = ["HAS", "CNS", "ANSM"]
 tags = ["HSH", "IST", "prevention", "VIH"]
 anglais = ["Treatment as Prevention (TasP)"]
 sctid = ""
+icd10 = ""
 flowchart = true
 image = true
 imageSrc = "Illustration de la Prophylaxie pré-exposition (PrEP) par pikisuperstar / Freepik"

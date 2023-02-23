@@ -14,6 +14,7 @@ sources = ["HAS", "Ameli"]
 tags = ["diabete", "grossesse"]
 anglais = ["Carpal tunnel syndrome"]
 sctid = "57406009"
+icd10 = "G56.0"
 image = true
 imageWEBP = true
 imageSrc = "Illustration du syndrome du canal carpien par scientificanimations.com, CC BY-SA 4.0"

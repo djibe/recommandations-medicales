@@ -15,10 +15,11 @@ sources = ["AFEF", "HAS"]
 tags = ["depistage", "fatigue", "hepatite", "IST", "prurit", "VIH"]
 anglais = ["Viral hepatitis type C"]
 sctid = "50711007"
-flowchart = true
+icd10 = "B18.2"
 image = true
 imageWEBP = true
 imageSrc = "Illustration de l'hépatite C par scientificanimations.com, CC BY-SA 4.0"
+flowchart = true
 todo = "SEO 'charge virale hepatite c', symptômes/fatigue, hépatoprotection"
 +++
 

@@ -13,6 +13,7 @@ sources = ["SNFGE"]
 tags = ["EOGD", "gastrite", "IPP"]
 anglais = ["Dyspepsia"]
 sctid = "162031009"
+icd10 = "K30"
 flowchart = true
 image = false
 imageSrc = ""

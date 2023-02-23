@@ -15,10 +15,11 @@ sources = ["CNGOF"]
 tags = ["infertilite", "MVTE", "sueurs nocturnes"]
 anglais = ["Menopause", "Postmenopausal hormone replacement therapy"]
 sctid = "276477006"
-chart = true
-flowchart = true
+icd10 = "N95.1"
 image = true
 imageSrc = "Illustration de la ménopause par Freepik"
+chart = true
+flowchart = true
 todo = "écriture SEO, KEY patiente | règles d'hygiène, Chart J1-J31, lire sources, relecture gemvi-secretariat@gemvi.org"
 +++
 

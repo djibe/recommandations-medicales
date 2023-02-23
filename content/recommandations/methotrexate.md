@@ -14,6 +14,7 @@ sources = ["HAS", "ANSM", "SNFGE"]
 tags = ["AINS", "toux"]
 anglais = ["Methotrexate"]
 sctid = "387381009"
+icd10 = ""
 image = false
 imageSrc = ""
 todo = "img, SEO 'bilan pré thérapeutique méthotrexate'"

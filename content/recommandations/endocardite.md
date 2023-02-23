@@ -14,9 +14,10 @@ sources = ["ESC"]
 tags = ["fievre"]
 anglais = ["Endocarditis"]
 sctid = "56819008"
-flowchart = true
+icd10 = "I38"
 image = true
 imageSrc = "Végétation sur la tricuspide. Daisuke Koya, Kazuyuki Shibuya, Ryuichi Kikkawa et Masakazu Haneda: Materialscientist, via Wikimedia Commons"
+flowchart = true
 todo = "SEO 'recommandations endocardite', Brossettes ?"
 +++
 

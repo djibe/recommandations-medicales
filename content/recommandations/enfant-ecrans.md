@@ -16,7 +16,7 @@ tags = ["adolescent", "enfant"]
 anglais = []
 sctid = ""
 image = true
-imageSrc = "Illustration par studio4rt / Freepik"
+imageSrc = "Illustration de l'exposition aux écrans des enfants par studio4rt / Freepik"
 +++
 
 {{%article-summary%}}

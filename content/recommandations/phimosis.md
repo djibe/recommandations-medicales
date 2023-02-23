@@ -13,6 +13,7 @@ sources = []
 tags = []
 anglais = ["Phimosis"]
 sctid = "449826002"
+icd10 = "N47"
 image = false
 imageSrc = ""
 todo = "sources +++"

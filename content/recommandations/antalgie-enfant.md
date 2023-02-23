@@ -8,7 +8,7 @@ synonyms = ["Antidouleurs en pédiatrie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-12-26T00:12:41+02:00"
 publishdate = "2020-12-26"
-lastmod = "2023-02-20"
+lastmod = "2023-02-22"
 specialites = ["pediatrie"]
 annees = "2021"
 sources = ["Collège", "HAS", "Pediadol"]
@@ -16,20 +16,24 @@ tags = ["adolescent", "AINS", "douleur", "enfant", "nourrisson"]
 anglais = []
 sctid = "22253000"
 icd10 = "R52.9"
-slider = true
-paracetamol = true
 image = true
 imageSrc = "La douleur de l'enfant. Nathan Phillips sur Foter.com"
+slider = true
+paracetamol = true
 todo = "https://www.phel.ch/upload/docs/application/pdf/2016-05/a4_poster_gsasa_2015_rotation_opiaces_mj.pdf"
 +++
 
 {{%article-summary%}}
 
-- Ce chapitre n'aborde que la douleur nociceptive de l'enfant, voir [douleur neuropathique]({{< relref "douleur-neuropathique.md" >}})
-- Évaluer la douleur chez l'enfant TODO:
-- Préciser sur l'ordonnance si l'administration est systématique ou selon le seuil de l'évaluation, prévoir une prescription d'emblée en cas de soulagement insuffisant.
-- Toujours maintenir le paracétamol
+Recommandations pour la prise en charge de la douleur nociceptive de l'enfant:
+
+- Évaluer la douleur chez l'enfant: [EVENDOL](https://pediadol.org/wp-content/uploads/2006/06/EVENDOL.pdf) chez le nourrisson, [échelle des visages](https://pediadol.org/wp-content/uploads/2004/06/FPS-R.pdf) à partir de 4 ans puis [EVA pédiatrique](https://www.sparadrap.org/boutique/produit/reglette-visages-dautoevaluation-de-la-douleur) à partir de 6 ans
+- Préciser sur l'ordonnance si l'administration de l'antalgique est systématique ou selon le seuil de l'évaluation, prévoir une prescription d'emblée en cas de soulagement insuffisant
+- Toujours maintenir le paracétamol, associer l'ibuprofène si besoin (sauf varicelle, angine ...)
+- Les antalgiques de palier 2 étant limités chez l'enfant, le recours à la morphine est plus précoce (mais concerne exceptionnellement le généraliste)
 - [Halte aux suppositoires ! (Pediadol)](https://pediadol.org/halte-aux-suppositoires/)
+
+Chapitre lié: [douleur neuropathique]({{< relref "douleur-neuropathique.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Antalgie palier 1" "show" %}}

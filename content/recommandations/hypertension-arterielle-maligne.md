@@ -15,6 +15,7 @@ sources = ["ESC"]
 tags = ["cephalees", "HTA"]
 anglais = ["Hypertensive emergency", "Hypertensive urgency"]
 sctid = "132721000119104"
+icd10 = "I10"
 image = false
 imageSrc = ""
 todo = "SEO hta maligne, https://academic.oup.com/ehjcvp/article/5/1/37/5079054"

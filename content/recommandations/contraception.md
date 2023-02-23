@@ -15,9 +15,9 @@ tags = ["contraception", "grossesse", "MVTE"]
 anglais = ["Contraception"]
 sctid = "13197004"
 icd10 = "Z30"
-chart = true
 image = true
 imageSrc = "La contraception illustrée par stories / Freepik"
+chart = true
 todo = "modal DIU, nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, refaire passe cancers, 360medics, inducteur enz p9, cat vmts et diarrhées p9, contraception définitive"
 +++
 

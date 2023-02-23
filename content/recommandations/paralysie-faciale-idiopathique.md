@@ -15,6 +15,7 @@ sources = ["SFORL"]
 tags = ["zona"]
 anglais = ["Peripheral facial palsy"]
 sctid = "449916008"
+icd10 = "G51.0"
 flowchart = true
 image = true
 imageSrc = "Signes à l'examen de la paralysie faciale a frigore. Photo de l'Internet Archive Book Images sur Foter.com"

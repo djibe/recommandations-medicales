@@ -1,7 +1,7 @@
 +++
 title = "Kyste pilonidal"
 prefix = "la "
-description = "Recommandations pour la prise en charge du kyste pilonidal. Traitement chirurgical avec incision en urgence. Rasage et cicatrisation dirigée en forme chronique"
+description = "Recommandations pour la prise en charge du kyste pilonidal. Traitement chirurgical avec incision en urgence. Rasage et cicatrisation dirigée si forme chronique"
 synonyms = ["Sinus pilonidal"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-16T22:24:08+02:00"
@@ -13,14 +13,15 @@ sources = ["ASCRS", "SNFGE", "SNFCP"]
 tags = []
 anglais = ["Pilonidal cyst", "pilonidal disease"]
 sctid = "47639008"
+icd10 = "L05.9"
 image = true
-imageSrc = "Photo d'un kyste pilonidal abcédé par Jonathanlund, CC BY-SA 4.0, via Wikimedia Commons"
+imageSrc = "Kyste pilonidal abcédé. Jonathanlund, CC BY-SA 4.0, via Wikimedia Commons"
 +++
 
 {{%article-summary%}}
 
-- Abstention devant un kyste pilonidal asymptomatique
-- En cas d'abcès (sinus pilonidal infecté): traitement chirurgical en urgence avec incision
+- Abstention thérapeutique devant un kyste pilonidal asymptomatique
+- En cas d'abcès (sinus pilonidal infecté): prise en charge du kyste pilonidal avec chirurgie en urgence et incision
 - Kyste pilonidal chronique invalidant: chirurgie programmée de cicatrisation dirigée
 - Correction d'un surpoids + rasage/épilation local pour limiter les récidives
 

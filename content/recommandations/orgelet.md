@@ -13,6 +13,7 @@ sources = ["COUF"]
 tags = []
 anglais = ["Hordeolum externum", "sty"]
 sctid = "1489008"
+icd10 = "H00.0"
 image = true
 imageSrc = "Andre Riemann, domaine public, via Wikimedia Commons"
 +++

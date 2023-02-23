@@ -14,6 +14,7 @@ sources = ["SFC", "SPLF"]
 tags = ["anticoagulant", "MVTE"]
 anglais = []
 sctid = ""
+icd10 = ""
 draft = true
 flowchart = true
 image = false

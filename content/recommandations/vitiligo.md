@@ -13,6 +13,7 @@ sources = ["BAD", "Inserm"]
 tags = ["TSH"]
 anglais = ["Vitiligo"]
 sctid = "56727007"
+icd10 = "L80"
 image = true
 imageSrc = "Vitiligo des mains par James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
 todo = "rankok, BAD Figure 1"

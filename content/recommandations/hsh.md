@@ -15,6 +15,7 @@ sources = ["HAS", "MinSanté"]
 tags = ["depistage", "HSH", "IST", "prevention", "vaccin", "VIH"]
 anglais = ["Men who have sex with men (MSM)"]
 sctid = "76102007"
+icd10 = ""
 image = true
 imageSrc = "Illustration de l'HSH par pch.vector / Freepik"
 todo = "texte SEO, sites patients, gono, https://www.eacsociety.org/files/2019_guidelines-10.0_final.pdf p. 24"

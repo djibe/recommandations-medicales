@@ -15,9 +15,10 @@ sources = ["SFRhumato", "EULAR"]
 tags = ["AINS", "biotherapie"]
 anglais = ["Axial spondyloarthritis"]
 sctid = "723116002"
-flowchart = true
+icd10 = "M46.91"
 image = true
-imageSrc = "Scanner: Ankylose de toutes les vertèbres thoraco-lombaires et des sacro-iliaques chez un patient de 70 ans. Di Muzio B, Ankylosing spondylitis. Étude de cas, Radiopaedia.org"
+imageSrc = "Scanner d'un sujet avec spondylarthrite ankylosante: Ankylose de toutes les vertèbres thoraco-lombaires et des sacro-iliaques chez un patient de 70 ans. Di Muzio B. Étude de cas, Radiopaedia.org"
+flowchart = true
 todo = "def rhumatisme pso + MICI, bilan pré-thérap antitnfa"
 +++
 

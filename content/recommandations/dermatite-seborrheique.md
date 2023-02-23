@@ -14,6 +14,7 @@ sources = ["CMIT", "CEDEF"]
 tags = ["VIH"]
 anglais = ["Seborrheic dermatitis"]
 sctid = "50563003"
+icd10 = "L21.9"
 flowchart = true
 image = true
 imageSrc = "Dermatite séborrhéique du visage, Roymishali, CC BY-SA 3.0, via Wikimedia Commons"

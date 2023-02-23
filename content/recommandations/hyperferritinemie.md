@@ -13,6 +13,7 @@ sources = ["AFEF", "SNFGE"]
 tags = ["fatigue", "ferritine", "obesite"]
 anglais = ["Hyperferritinemia"]
 sctid = "390943009"
+icd10 = "R79.8"
 image = true
 imageSrc = "Foie hyperdense par surcharge en fer suite à des transfusions répétées chez un patient de 40 ans. Cas de Gerstenmaier J sur Radiopaedia.org rID-31291"
 flowchart = true

@@ -13,9 +13,10 @@ sources = ["ACOG", "HAS", "CNGOF"]
 tags = ["contraception", "douleur pelvienne"]
 anglais = ["Endometriosis"]
 sctid = "129103003"
-flowchart = true
+icd10 = "N80.9"
 image = true
 imageSrc = "Illustration de l'endométriose par vectorjuice / Freepik"
+flowchart = true
 todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité physique bassin, quid bilan IST/salpingite ?"
 +++
 

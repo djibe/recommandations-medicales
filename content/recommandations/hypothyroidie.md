@@ -13,9 +13,10 @@ sources = ["HAS", "SFE"]
 tags = ["coeliaque", "fatigue", "TSH", "vertige"]
 anglais = ["Hypothyroidism"]
 sctid = "40930008"
-flowchart = true
+icd10 = "E03.9"
 image = true
 imageSrc = "Illustration de l'hypothyroïdie par storyset / Freepik"
+flowchart = true
 todo = "SEO"
 +++
 

@@ -14,9 +14,10 @@ sources = ["CEDEF"]
 tags = ["prurit", "TSH"]
 anglais = ["Itching"]
 sctid = "418290006"
-flowchart = true
+icd10 = "L29.9"
 image = true
-imageSrc = "Photo par wayhomestudio / Freepik"
+imageSrc = "Illustration du prurit. wayhomestudio / Freepik"
+flowchart = true
 +++
 
 {{%article-summary%}}

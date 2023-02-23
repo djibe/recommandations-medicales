@@ -16,10 +16,11 @@ sources = ["ESsCD", "HAS", "SNFGE"]
 tags = ["allergie", "cephalees", "coeliaque", "depistage", "EOGD", "fatigue", "ferritine", "neuropathie", "TSH"]
 anglais = ["Coeliac disease (CD) and other gluten-related disorders (non-coeliac gluten sensitivity (NCGS) and extra-intestinal manifestations related to gluten)", "celiac"]
 sctid = "396331005"
-flowchart = true
+icd10 = "K90.0"
 image = true
 imageWEBP = true
-imageSrc = "scientificanimations.com, CC BY-SA 4.0"
+imageSrc = "Illustration de la maladie cœliaque. scientificanimations.com, CC BY-SA 4.0"
+flowchart = true
 todo = "SEO, ostéodensitométrie avant 35 ans ???, dermatite herpétiforme Souvent résolutive après l'éviction du gluten"
 +++
 

@@ -14,9 +14,10 @@ sources = ["HAS", "SPILF"]
 tags = ["toux"]
 anglais = ["Sinusitis"]
 sctid = "36971009"
-flowchart = true
+icd10 = "J32.9"
 image = true
 imageSrc = "Illustration des sinus par NIAID sur Foter.com / CC BY"
+flowchart = true
 todo = "SEO, https://www.sforl.org/wp-content/uploads/2020/02/recoRSIA.pdf, indications scanner, sources prescrire"
 +++
 

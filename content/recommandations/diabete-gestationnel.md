@@ -14,6 +14,7 @@ sources = ["SFD", "CNGOF"]
 tags = ["diabete", "grossesse", "insuline"]
 anglais = ["Gestational diabetes mellitus (GDM)"]
 sctid = "11687002"
+icd10 = "O24.4"
 flowchart = true
 image = true
 imageSrc = "Illustration du diabète gestationnel par vectorjuice / Freepik"

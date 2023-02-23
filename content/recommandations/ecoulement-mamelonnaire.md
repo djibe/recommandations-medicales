@@ -14,9 +14,10 @@ sources = ["CNGOF", "HAS"]
 tags = ["grossesse"]
 anglais = ["Nipple discharge"]
 sctid = "54302000"
-flowchart = true
+icd10 = "N64.5"
 image = false
 imageSrc = ""
+flowchart = true
 todo = "galactorrhée"
 +++
 

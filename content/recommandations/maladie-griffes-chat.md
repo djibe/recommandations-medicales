@@ -14,8 +14,9 @@ sources = ["CMIT", "MinAgri"]
 tags = []
 anglais = ["Cat scratch disease"]
 sctid = "79974007"
+icd10 = "A28.1"
 image = true
-imageSrc = "Illustration de la maladie des griffes du chat par CDC, domaine public, via Wikimedia Commons"
+imageSrc = "Illustration de la maladie des griffes du chat. CDC, domaine public, via Wikimedia Commons"
 +++
 
 {{%article-summary%}}

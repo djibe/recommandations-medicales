@@ -14,8 +14,9 @@ sources = ["Prescrire"]
 tags = []
 anglais = ["Heel spur", "plantar fasciitis"]
 sctid= "202882003"
+icd10 = "M72.27"
 image = true
-imageSrc = "Injurymap, CC BY 4.0, via Wikimedia Commons"
+imageSrc = "Illustration de l'épine calcanéenne par Injurymap, CC BY 4.0, via Wikimedia Commons"
 +++
 
 {{%article-summary%}}

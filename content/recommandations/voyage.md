@@ -14,6 +14,7 @@ sources = ["HCSP", "MinSanté", "Pasteur"]
 tags = ["vaccin", "voyage"]
 anglais = ["Travel abroad"]
 sctid = "276030007"
+icd10 = ""
 image = true
 imageSrc = "Illustration par Freepik"
 todo = "liste mallette, dépistage BMR si hospit"

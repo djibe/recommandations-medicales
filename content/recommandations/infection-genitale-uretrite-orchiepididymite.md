@@ -14,6 +14,7 @@ sources = ["EAU", "HAS", "SFDermato"]
 tags = ["HSH", "IST"]
 anglais = ["Urethritis", "epididymitis"]
 sctid = "128478005"
+icd10 = "N49.9"
 image = true
 imageSrc = "Vue microscopique avec la coloration de Gram d'une urétrite gonococcique infiltrant régulièrement les polynucléaires neutrophiles. CDC / Joe Millar, Public domain, via Wikimedia Commons"
 todo = "Balanite et balano-posthite, dépistages Ct homme"

@@ -13,6 +13,7 @@ sources = ["HAS"]
 tags = ["nourrisson"]
 anglais = ["Plagiocephaly"]
 sctid = "21850008"
+icd10 = "Q67.3"
 image = true
 imageSrc = "Plagiocéphalie positionnelle postérieure gauche chez un nourrisson par Gzzz, CC BY-SA 4.0, via Wikimedia Commons"
 +++

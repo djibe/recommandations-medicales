@@ -14,9 +14,10 @@ sources = ["EULAR", "SFRhumato", "ACR", "HAS"]
 tags = ["biotherapie", "vaccin"]
 anglais = ["Rheumatoid arthritis"]
 sctid = "69896004"
+icd10 = "M06.99"
 image = true
 imageWEBP = true
-imageSrc = "scientificanimations.com, CC BY-SA 4.0"
+imageSrc = "Illustration de la polyarthrite rhumatoïde par scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
 +++
 

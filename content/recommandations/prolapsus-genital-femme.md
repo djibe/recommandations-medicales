@@ -14,6 +14,7 @@ sources = ["HAS"]
 tags = []
 anglais = ["Prolapse of female genital organs"]
 sctid = "73998008"
+icd10 = "N81.9"
 image = false
 imageSrc = ""
 todo = "SEO, HAS annexes Échelles PFDI-20, APFQ"
@@ -21,12 +22,11 @@ todo = "SEO, HAS annexes Échelles PFDI-20, APFQ"
 
 {{%article-summary%}}
 
-- Interrogatoire et examen clinique
 - Lutte contre les faveurs favorisants le prolapsus génital
 - Prise en charge du prolapsus génital de la femme par une sage-femme ou un kinésithérapeute pour la rééducation abdomino-périnéale et le choix du pessaire (non remboursé)
 - Chirurgie des prolapsus génitaux uniquement en cas d'échec de la rééducation et du pessaire
 
-Article lié: [Ménopause et THM]({{< relref "menopause.md" >}})
+Article lié: [Ménopause et traitement hormonal]({{< relref "menopause.md" >}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

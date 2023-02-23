@@ -15,6 +15,7 @@ sources = ["AFEF", "HAS", "SFA"]
 tags = ["depistage", "grossesse"]
 anglais = ["Alcoholism", "alcohol use disorder (AUD)"]
 sctid = "7200002"
+icd10 = "F10.2"
 image = true
 imageSrc = "Les verres d'alcool standards par Alcool-Info-Service"
 todo = "SEO 'sevrage alcoolique has', simplifier, remarques mail, KEY x3 sevrage ambulatoire | x2 syndrome de sevrage, symptômes de sevrage | médicaments, sevrage de l'alcool, entretien structuré Inserm DEP-ADO, source SFA n°60 | Tableau 7.II | PHARES 93, retentissement somatique, bilan des complications"

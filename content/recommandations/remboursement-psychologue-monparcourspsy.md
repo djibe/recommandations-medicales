@@ -15,6 +15,7 @@ sources = ["Ameli"]
 tags = ["adolescent", "enfant"]
 anglais = ["Psychotherapy"]
 sctid = "75516001"
+icd10 = ""
 image = true
 imageSrc = "Illustration de la séance de psychothérapie par stories / Freepik"
 todo = "échelles"

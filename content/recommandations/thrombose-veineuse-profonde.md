@@ -15,9 +15,10 @@ sources = ["SFC", "SPLF", "SFMV"]
 tags = ["anticoagulant", "MVTE"]
 anglais = ["Deep venous thrombosis"]
 sctid = "128053003"
-flowchart = true
+icd10 = "I80.2"
 image = false
 imageSrc = ""
+flowchart = true
 todo = "SEO traitement anticoagulant x3; plaq en HBPM préventif, proba forte et doppler neg?, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/, IRC avec CKD-EPI ou cockroft ?, https://splf.fr/traitement-de-la-maladie-veineuse-thromboembolique-au-cours-du-cancer-mis-a-jour-mars-2021/?utm_source=rss&utm_medium=rss&utm_campaign=traitement-de-la-maladie-veineuse-thromboembolique-au-cours-du-cancer-mis-a-jour-mars-2021"
 +++
 

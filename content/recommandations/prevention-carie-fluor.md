@@ -14,8 +14,9 @@ sources = ["CEOP", "HAS"]
 tags = ["adolescent", "enfant", "prevention"]
 anglais = ["Dental caries"]
 sctid = "80967001"
+icd10 = "K02.9"
 image = true
-imageSrc = "Illustration par pikisuperstar / Freepik"
+imageSrc = "Illustration de la carie dentaire par pikisuperstar / Freepik"
 todo = "relecture Boub, vidéos"
 +++
 

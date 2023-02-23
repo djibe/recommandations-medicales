@@ -16,10 +16,11 @@ sources = ["SFRMS"]
 tags = ["fatigue", "ferritine", "neuropathie", "prurit"]
 anglais = ["Restless legs syndrome"]
 sctid = "32914008"
-flowchart = true
+icd10 = "G25.8"
 image = true
 imagePNG = true
 imageSrc = "Comparaison entre le sommeil d'une personne atteinte du syndrome des jambes sans repos (en rouge) et celui d'une personne en bonne santé (en bleu). Markus Mueller derivative, CC BY-SA 3.0, via Wikimedia Commons"
+flowchart = true
 todo = "https://pubmed.ncbi.nlm.nih.gov/19195928/"
 +++
 

@@ -12,7 +12,8 @@ annees = "2022"
 sources = ["EADO", "HAS", "SFDermato"]
 tags = ["cancer", "depistage"]
 anglais = ["Melanoma"]
-sctid = "2092003"
+sctid = "372244006"
+icd10 = "C43.9"
 image = true
 imageSrc = "Mélanome cutané par le National Cancer Institute"
 +++

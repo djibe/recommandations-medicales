@@ -15,9 +15,10 @@ sources = ["ESC", "HAS"]
 tags = ["BPCO", "dyspnee", "epreuve effort", "fatigue", "ferritine", "HTA", "risque cardiovasculaire", "SAS", "tabac", "toux", "TSH", "vaccin", "vertige"]
 anglais = ["Chronic heart failure"]
 sctid = "48447003"
-flowchart = true
+icd10 = "I50.9"
 image = true
 imageSrc = "Illustration de l'insuffisance cardiaque par vectorjuice / Freepik"
+flowchart = true
 todo = "sel pour tous?, sup. Table 4 MRA+5Sacu+7Diur, depression Beck"
 +++
 

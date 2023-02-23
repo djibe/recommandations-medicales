@@ -14,10 +14,11 @@ sources = ["CNGOF", "HAS"]
 tags = ["contraception", "grossesse"]
 anglais = ["Legally induced abortion"]
 sctid = "39406005"
-chart = true
-flowchart = true
+icd10 = "O04.9"
 image = true
 imageSrc = "Illustration de l'IVG par stories / Freepik"
+chart = true
+flowchart = true
 todo = "SEO 'recommandation ivg'"
 +++
 

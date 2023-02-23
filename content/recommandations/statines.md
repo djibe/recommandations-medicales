@@ -13,6 +13,7 @@ sources = ["USPTF", "ESC"]
 tags = ["risque cardiovasculaire"]
 anglais = ["Statin"]
 sctid = "372912004"
+icd10 = ""
 image = true
 imageSrc = "Illustration des statines par macrovector / Freepik"
 todo = "ESC CVD p.16"

@@ -15,10 +15,11 @@ sources = ["Anofel", "SFD", "BASSH"]
 tags = ["adolescent", "biotherapie", "cancer", "diabete", "grossesse", "enfant", "obesite", "prurit"]
 anglais = ["Mycosis", "dermatophytosis", "candidiasis", "vulvovaginal candidiasis", "thrush"]
 sctid = "276206000"
-flowchart = true
+icd10 = "B36.9"
 image = true
 imageSrc = "Candidose linguale pseudo-membraneuse (muguet) de l'enfant déclenchée par des antibiotiques. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "les TODO:, ttt sycosis, Pytiriasis capitis"
+flowchart = true
+todo = "ttt sycosis, Pytiriasis capitis"
 +++
 
 {{%article-summary%}}

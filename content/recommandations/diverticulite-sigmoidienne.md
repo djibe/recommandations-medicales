@@ -14,9 +14,10 @@ sources = ["ESCP", "SNFGE", "HAS"]
 tags = ["obesite"]
 anglais = ["Diverticulitis of sigmoid colon"]
 sctid = "427910000"
-flowchart = true
+icd10 = "K57.3"
 image = true
 imageSrc = "Images endoscopiques de diverticules par Anpol42, CC BY-SA 4.0, via Wikimedia Commons"
+flowchart = true
 todo = "SEO sigmoïdite, https://fascrs.org/ascrs/media/files/DCR-tics-CPG-2020.pdf"
 +++
 

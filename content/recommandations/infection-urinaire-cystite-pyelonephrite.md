@@ -14,9 +14,10 @@ sources = ["HAS", "SPILF"]
 tags = ["douleur pelvienne", "fievre", "grossesse"]
 anglais = ["Urinary tract infections"]
 sctid = "68566005"
-flowchart = true
+icd10 = "N39.0"
 image = true
 imageSrc = "Illustration des infections urinaires par Freepik"
+flowchart = true
 todo = "SEO infection urinaire homme recommandation, flowchart Figure 1 et 5, revoir uroscanner p. 23, améliorer pec ECBU+, enfants++, http://medqual.fr/images/PRO_2018/FORMATIONS/OUTILS/ATBR_Memo_OCT2022_OK_PAP.pdf"
 +++
 

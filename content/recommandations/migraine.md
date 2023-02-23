@@ -13,10 +13,11 @@ annees = "2021"
 sources = ["SFEMC", "CNGOF"]
 tags = ["cephalees", "coeliaque", "contraception", "depistage"]
 anglais = ["Migraine"]
-sctid = "37796009"
+icd10 = "G43.9"
 flowchart = true
 image = true
 imageSrc = "Illustration de la migraine par stories / Freepik"
+sctid = "37796009"
 todo = "titration Propranolol, questionnaire ID Migraine, recouper THM, EHF, https://play.google.com/store/apps/details?id=ai.vik.migraine&hl=fr"
 +++
 

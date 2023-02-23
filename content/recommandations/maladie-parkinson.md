@@ -15,11 +15,11 @@ tags = []
 anglais = ["Parkinson's disease (PD)"]
 sctid = "49049000"
 icd10 = "G20"
-flowchart = true
 draft = true
 image = false
 imageSrc = ""
-todo = "College, Prescrire, American Academy of Neurology, HAS 2016 chap6.3 + 7 + p73"
+flowchart = true
+todo = "ttt dans modal, College, Prescrire, American Academy of Neurology, HAS 2016 chap6.3 + 7 + p73, adapt doses, pec dystonie/confusion/hallucinations"
 +++
 
 {{%article-summary%}}
@@ -93,9 +93,12 @@ Autres diagnostics à étayer devant un syndrome parkinsonien:
 - Syndromes parkinsoniens dégénératifs
   - Maladie de Parkinson
   - Démence à corps de Léwy
-  - Paralysie supranucléaire progressive (syndrome de Steele-Richardson-Olszewski)
-  - Atrophies multisystématisées
-  - Dégénérescence corticobasale
+  - Paralysie supranucléaire progressive (syndrome de Steele-Richardson-Olszewski)  
+    Déficit du regard vers le haut.
+  - Atrophies multisystématisées  
+    Hypotension orthostatique ou incontinence urinaire précoces.
+  - Dégénérescence corticobasale  
+    Rigidité unilatérale, apraxie.
 - Maladie de Wilson  
   Sujet jeune, autosomique récessif, atteinte hépatique et oculaire. Bilan du cuivre.
 
@@ -198,7 +201,7 @@ Les symptômes sont initialement unilatéraux:
 - Symptômes non moteurs
   - Apathie, troubles de la motivation
   - Douleurs pseudo-rhumatismales (épaule, rachis) ou diverses (paresthésies, radiculalgies)
-  - Hyposmie (73-90%)
+  - Hyposmie précoce (73-90%)
   - Troubles du sommeil paradoxal (rêves agités)
   - Constipation
   - Amaigrissement et asthénie
@@ -305,7 +308,7 @@ La réponse aux traitements est un argument fort en faveur de la confirmation di
 
 #### Les traitements médicamenteux de la Maladie de Parkinson
 
-Les traitements médicamenteux antiparkinsoniens ne sont pas indispensables en l'absence de retentissement moteur. En première intention, les IMAO B et agonistes dopaminergiques sont préférés afin d'épargner la L-Dopa.
+Les traitements médicamenteux antiparkinsoniens ne sont pas indispensables en l'absence de retentissement moteur. En première intention, les **IMAO B et agonistes dopaminergiques** sont préférés afin d'épargner la L-Dopa.
 
 - IMAO B  
   Sélégiline (Deprenyl®), rasagiline.
@@ -319,7 +322,9 @@ Les traitements médicamenteux antiparkinsoniens ne sont pas indispensables en l
 - Anticholinergiques (tremblement uniquement)
 - Inhibiteurs de la catéchol-O-méthyl transférase: entacapone (Comtan®), tolcapone (Tasmar®)
 
-#### La stimulation cérébrale profonde
+Phase avancée: des pompes implantables d'apomorphine SC et de L-Dopa (grêlique) sont possibles.
+
+#### La stimulation cérébrale profonde (SCP)
 
 La stimulation cérébrale profonde consiste à implanter 1 ou 2 électrodes dans le cerveau, connectées à un générateur sous-cutanée pour une stimulation modulable et réversible.
 

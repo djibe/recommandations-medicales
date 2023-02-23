@@ -14,6 +14,7 @@ sources = ["HAS"]
 tags = ["depistage"]
 anglais = ["Domestic violence"]
 sctid = "404189009"
+icd10 = "Y07.9"
 image = true
 imageSrc = "European Parliament sur Foter.com / CC BY-NC-ND"
 todo = "lire sources, liste centre hébergement urgence, commissariat + proche, lien vers chaque droit, https://www.inserm.fr/actualite/violences-sexuelles-au-coeur-dune-enquete-accablante/"

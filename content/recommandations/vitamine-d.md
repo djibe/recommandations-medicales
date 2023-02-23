@@ -13,9 +13,10 @@ annees = "2022"
 sources = ["SFP", "HAS", "SFR"]
 tags = ["depistage", "vitamine d", "chute", "nourrisson", "enfant", "adolescent"]
 anglais = ["Vitamin D"]
+sctid = "30178006"
+icd10 = ""
 image = true
 imageSrc = "Illustration de la vitamine D par pch.vector / Freepik"
-sctid = "30178006"
 flowchart = true
 todo = "rankok, calcium enfant dans screenshots"
 +++

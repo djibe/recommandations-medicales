@@ -14,6 +14,7 @@ sources = ["CNGOF", "CRAT"]
 tags = ["grossesse"]
 anglais = ["Hyperemesis gravidarum", "excessive vomiting in pregnancy"]
 sctid = "14094001"
+icd10 = "O21.9"
 flowchart = true
 image = false
 imageSrc = ""

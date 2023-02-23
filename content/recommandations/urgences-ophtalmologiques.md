@@ -23,7 +23,7 @@ datatable = true
 
 {{%collapse "Liste des services d'urgences ophtalmologiques de France métropolitaine" "show" %}}
 
-{{< table title="Liste non exhaustive des services d'urgences ophtalmologiques de France métropolitaine. Dr JB Fron. Soumettez ceux qui vous manquent avec le formulaire de contact. Merci" class="datatable" >}}
+{{< table title="Liste non exhaustive des services d'urgences ophtalmologiques de France métropolitaine. Dr JB Fron" class="datatable" >}}
 | Agglomération | Hôpital | Adresse | Ouverture | Téléphone | Commentaire |
 |-------|---------|---------|:---------:|-----------|-------------|
 | Bordeaux | Hôpital Pellegrin | Pl. Amélie Léon<br>33000 Bordeaux | 24/7 | 05 56 79 56 79 | |
@@ -65,5 +65,7 @@ datatable = true
 | Toulouse | Centre ophtalmologique de la<br>clinique de l'union | Bd de Ratalens<br>31240 Saint-Jean | lun-ven<br>9:00-12:00<br>14:00-18:00 | 05 61 37 87 34 | Urgences de la clinique we et jf |
 | Villeneuve-Saint-Georges | Hôpital Intercommunal CHIV | 40 All. de la source<br>94190 Villeneuve-St-Georges | 24/7 | 01 43 86 20 20 | Urgences de 17:00 à 8:30 |
 {{< /table >}}
+
+> Merci de soumettre ceux qui vous manquent avec le formulaire de contact
 
 {{% /collapse %}}

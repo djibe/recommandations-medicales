@@ -13,9 +13,10 @@ sources = ["CNGOF"]
 tags = ["adolescent", "contraception"]
 anglais = ["Menorrhagia", "abnormal uterine bleeding"]
 sctid = "386692008"
-flowchart = true
+icd10 = "N92.0"
 image = true
 imageSrc = "Score de PBAC / Higham pour objectiver les ménorragies par les HCL"
+flowchart = true
 todo = "Collège, FIGO"
 +++
 

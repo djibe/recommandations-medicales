@@ -13,6 +13,7 @@ sources = ["CMIT", "EADV", "CEDEF"]
 tags = ["prurit"]
 anglais = ["Scabies"]
 sctid = "128869009"
+icd10 = "B86"
 image = true
 imageSrc = "Lésions de gale de la main. Photo de Sven Teschke, CC BY-SA 3.0, via Wikimedia Commons"
 +++

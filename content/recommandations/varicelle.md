@@ -13,9 +13,10 @@ sources = ["SPILF", "ANSM", "MinSanté"]
 tags = ["grossesse", "vaccin"]
 anglais = ["Varicella", "Chickenpox"]
 sctid = "38907003"
-flowchart = true
+icd10 = "B01.9"
 image = true
 imageSrc = "Lésion vésiculeuse typique de varicelle peu après son apparition. Devient trouble en 1 à 2 jours. Par F malan, CC BY-SA 3.0, via Wikimedia Commons"
+flowchart = true
 todo = "vérif co-vaccination ROR"
 +++
 

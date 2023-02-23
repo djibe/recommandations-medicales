@@ -14,9 +14,10 @@ sources = ["HAS", "FFN", "SFNCM"]
 tags = ["demence", "depistage"]
 anglais = ["Undernutrition"]
 sctid = "65404009"
-flowchart = true
+icd10 = "E46"
 image = false
 imageSrc = ""
+flowchart = true
 todo = "SEO 'critère dénutrition has', FFN, liste CNO: Clinutren, Delical, Fortimel, Fresubin, Renutryl..., https://www.sfncm.org/outils-education/outils/realises-par-la-sfncm"
 +++
 

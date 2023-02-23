@@ -14,10 +14,11 @@ sources = ["NICE", "SFMU", "SFP"]
 tags = ["enfant"]
 anglais = ["Head injury"]
 sctid = "82271004"
-flowchart = true
+icd10 = "S09.9"
 image = true
 imageWEBP = true
 imageSrc = "Illustration du traumatisme crânien par scientificanimations.com, CC BY-SA 4.0"
+flowchart = true
 todo = "relecture"
 +++
 

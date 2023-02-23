@@ -14,6 +14,7 @@ sources = ["HAS", "MinSanté"]
 tags = ["BPCO", "obesite", "prevention", "vaccin"]
 anglais = ["influenza", "flu"]
 sctid = "6142004"
+icd10 = "J11.1"
 image = false
 imageSrc = ""
 todo = "grippe grossesse, antiviral, vaccin grippe porcin aviaire"

@@ -13,9 +13,10 @@ sources = ["HAS", "ANSM"]
 tags = ["TSH"]
 anglais = ["Subclinical hypothyroidism"]
 sctid = "54823002"
-flowchart = true
+icd10 = "E03.8"
 image = true
 imageSrc = "Illustration de la thyroïde par le National Institutes of Health (NIH) sur Foter.com / CC BY-NC"
+flowchart = true
 todo = "read MAJ https://www.em-select.com/article/1229908, simplifier ?"
 +++
 

@@ -14,6 +14,7 @@ sources = ["EADV", "SFDermato", "CEDEF"]
 tags = ["allergie", "prurit"]
 anglais = ["Atopic dermatitis (AD)"]
 sctid = "24079001"
+icd10 = "L20.9"
 flowchart = true
 image = true
 imageSrc = "Photo d'eczéma lichénifié du dos de la main par Care_SMC sur Foter.com / CC BY-ND"

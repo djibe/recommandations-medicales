@@ -13,6 +13,7 @@ sources = ["KDIGO"]
 tags = ["AINS", "cephalees"]
 anglais = ["Acute kidney injury (AKI)"]
 sctid = "14669001"
+icd10 = "N17.9"
 image = true
 imageSrc = "Uronéphrose droite sur lithiase urinaire. Cas du Dr Sajoscha A. Sorrentino, Radiopaedia.org, rID: 15679"
 +++

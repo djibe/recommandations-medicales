@@ -15,9 +15,10 @@ sources = ["SFETD", "SFD", "HAS"]
 tags = ["cancer", "douleur", "neuropathie", "TSH", "zona"]
 anglais = ["Neuropathic pain"]
 sctid = "247398009"
-flowchart = true
+icd10 = "M79.29"
 image = true
 imageSrc = "Illustration de la douleur neuropathique par brgfx / Freepik"
+flowchart = true
 todo = "SEO 'traitement douleur neuropathique', carence B9B12?, dermatomes, https://journals.lww.com/pain/Fulltext/2005/03000/Comparison_of_pain_syndromes_associated_with.5.aspx"
 +++
 

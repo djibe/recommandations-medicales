@@ -14,8 +14,9 @@ sources = ["HAS"]
 tags = []
 anglais = ["Low back pain"]
 sctid = "279039007"
+icd10 = "M54.5"
 image = true
-imageSrc = "Infographie des muscles dorsaux. kjpargeter / Freepik"
+imageSrc = "Illustration des muscles dorsaux. kjpargeter / Freepik"
 todo = "Collège, questionnaires cliquables, flowchart"
 +++
 

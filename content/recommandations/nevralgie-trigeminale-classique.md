@@ -14,10 +14,11 @@ sources = ["EAN", "SFEMC", "SFNC"]
 tags = ["cephalees", "neuropathie"]
 anglais = ["Trigeminal neuralgia"]
 sctid = "31681005"
-flowchart = true
+icd10 = "G50.0"
 image = true
 imageWEBP = true
 imageSrc = "Illustration de la névralgie du trijumeau par BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
+flowchart = true
 todo = "durée avant envisager décroissance, attente A. Donnet"
 +++
 

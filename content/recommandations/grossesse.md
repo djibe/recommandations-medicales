@@ -14,6 +14,7 @@ sources = ["CRAT", "SFD"]
 tags = ["depistage", "grossesse", "prevention"]
 anglais = ["Pregnancy"]
 sctid = "118185001"
+icd10 = ""
 image = true
 imageSrc = "Illustration de la grossesse par stories / Freepik"
 todo = "HTA gravidique, calcium cible"

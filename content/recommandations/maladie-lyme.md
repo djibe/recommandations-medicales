@@ -13,8 +13,9 @@ sources = ["HAS", "DGS"]
 tags = ["prevention"]
 anglais = ["Lyme disease"]
 sctid = "23502006"
+icd10 = "A69.2"
 image = true
-imageSrc = "Érythème migrant. Photo de monkeypuzzle sur Foter"
+imageSrc = "Érythème migrant. monkeypuzzle sur Foter"
 todo = "algo HAS Annexe 2 et 3"
 +++
 

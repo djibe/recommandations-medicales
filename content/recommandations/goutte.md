@@ -14,6 +14,7 @@ sources = ["SFRhumato", "ACR", "EULAR"]
 tags = ["AINS", "HTA", "risque cardiovasculaire"]
 anglais = ["Gout"]
 sctid = "90560007"
+icd10 = "M10.99"
 image = true
 imageWEBP = true
 imageSrc = "scientificanimations.com, CC BY-SA 4.0"

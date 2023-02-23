@@ -1,7 +1,7 @@
 +++
 title = "Insuffisance ovarienne prématurée (ex ménopause précoce)"
 prefix = "l'"
-titleSeo = "Ménopause précoce IOP"
+titleSeo = "Insuffisance ovarienne ou Ménopause précoce"
 description = "Recommandations, conduite à tenir et prise en charge d'une ménopause précoce. Aménorrhée avant 40 ans, bilan FSH haut et estradiol bas, traitement hormonal THS"
 synonyms = ["Insuffisance ovarienne précoce", "ménopause prématurée"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -14,10 +14,11 @@ sources = ["HAS", "CNGOF"]
 tags = ["coeliaque", "infertilite", "sueurs nocturnes", "TSH"]
 anglais = ["Premature ovarian insufficiency"]
 sctid = "237788002"
-flowchart = true
+icd10 = "E28.3"
 image = true
-imageSrc = "Illustration de la ménopause précoce par vectorjuice / Freepik"
-todo = "tabac, Anticorps anti-surrénaliens, Turner, ESHRE"
+imageSrc = "Illustration de la ménopause précoce (insuffisance ovarienne prématurée) par vectorjuice / Freepik"
+flowchart = true
+todo = "tabac, Anticorps anti-surrénaliens"
 +++
 
 {{%article-summary%}}

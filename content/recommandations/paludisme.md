@@ -13,9 +13,10 @@ sources = ["SPILF", "MinSanté", "HCSP"]
 tags = ["fievre", "vaccin", "voyage"]
 anglais = ["Malaria"]
 sctid = "61462000"
-slider = true
+icd10 = "B54"
 image = true
 imageSrc = "Moustique du paludisme. Culicidae, Anopheles sp. Photo de Techuser sur Foter.com / CC BY-NC-ND"
+slider = true
 todo = "POLY p.170, Prescrire, SPF, protection moustiques BEH, ttt ambulatoire accès palustre"
 +++
 

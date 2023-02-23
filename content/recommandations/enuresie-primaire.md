@@ -14,6 +14,7 @@ sources = ["AFU"]
 tags = []
 anglais = ["Primary nocturnal enuresis"]
 sctid = "450842007"
+icd10 = "F98.0"
 image = false
 imageSrc = ""
 todo = "oxyure ?, NICE, info parents, https://afpa.org/content/uploads/2018/11/Enur%C3%A9sie-Dr-Desvignes.pdf"

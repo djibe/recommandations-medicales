@@ -14,6 +14,7 @@ sources = ["HAS"]
 tags = ["EPS", "neuropathie"]
 anglais = ["Serum protein electrophoresis"]
 sctid = "4903000"
+icd10 = ""
 image = false
 imageSrc = ""
 +++

@@ -14,9 +14,10 @@ sources = ["HAS"]
 tags = ["dyspnee", "epreuve effort", "fatigue", "SAS", "VIH"]
 anglais = ["Pulmonary arterial hypertension"]
 sctid = "11399002"
+icd10 = "I27.2"
 image = false
 imageSrc = ""
-todo = "ESC, surveillance (aggrav signes + IRC), psycho, social, fam"
+todo = "ESC 2022, surveillance (aggrav signes + IRC), psycho, social, fam"
 +++
 
 {{%article-summary%}}

@@ -14,6 +14,7 @@ sources = ["Revuz J"]
 tags = []
 anglais = ["Hidradenitis suppurativa"]
 sctid = "59393003"
+icd10 = "L73.2"
 image = false
 imageSrc = ""
 todo = "recommandations"

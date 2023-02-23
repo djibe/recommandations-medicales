@@ -13,6 +13,7 @@ sources = ["FMC"]
 tags = ["prurit"]
 anglais = []
 sctid = ""
+icd10 = ""
 draft = true
 image = false
 imageSrc = ""

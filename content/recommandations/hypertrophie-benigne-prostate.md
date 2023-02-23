@@ -14,10 +14,10 @@ sources = ["EAU", "AFU"]
 tags = ["geriatrie"]
 anglais = ["Benign prostatic hyperplasia (BPH)"]
 sctid = "266569009"
-flowchart = true
+icd10 = "N40"
 image = true
 imageSrc = "Échographie d'une prostate hypertrophiée de 155 g comprimant la base de la vessie. Cas de Fakhry Mahmoud Ebouda, Radiopaedia.org, rID 34645"
-todo = "360Medics"
+flowchart = true
 +++
 
 {{%article-summary%}}

@@ -13,6 +13,7 @@ sources = ["Biblio"]
 tags = ["allergie", "cephalees", "fatigue"]
 anglais = ["Lactose intolerance", "intolerance to lactose"]
 sctid = "785696007"
+icd10 = "E73.9"
 image = false
 imageSrc = ""
 todo = "SEO 'test intolérance lactose remboursement', diarrhée chro, https://doi.org/10.1016/j.mmm.2020.10.008"

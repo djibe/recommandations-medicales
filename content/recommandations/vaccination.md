@@ -13,6 +13,7 @@ sources = ["MinSanté", "HCSP"]
 tags = ["BPCO", "diabete", "grossesse", "prevention", "vaccin", "zona"]
 anglais = ["Immunization", "vaccination"]
 sctid = "33879002"
+icd10 = ""
 image = true
 imageSrc = "Illustration de la vaccination par Freepik"
 todo = "Vaccins cancer, texte SEO, choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages, https://publications.aap.org/pediatrics/article/150/3/e2021056007/188497/Value-of-the-Immunization-Program-for-Children-in"

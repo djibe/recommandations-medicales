@@ -16,11 +16,12 @@ sources = ["HAS", "SFRhumato", "GRIO", "IOF"]
 tags = ["chute", "depistage", "EPS", "prevention", "vitamine d"]
 anglais = ["Osteoporosis"]
 sctid = "64859006"
-flowchart = true
-slider = true
+icd10 = "M81.99"
 image = true
 imageWEBP = true
 imageSrc = "Illustration de l'ostéoporose par BruceBlaus, CC BY-SA 4.0 via Wikimedia Commons"
+flowchart = true
+slider = true
 todo = "rankok, lire recos, https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, HAS 2005 chutes, prescription renforcement musculaire, https://www.endocrine.org/clinical-practice-guidelines/bone-health-and-osteoporosis"
 +++
 

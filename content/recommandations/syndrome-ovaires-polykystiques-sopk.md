@@ -14,6 +14,7 @@ sources = ["ESHRE"]
 tags = []
 anglais = ["Polycystic ovary syndrome (PCOS)"]
 sctid = "237055002"
+icd10 = "E28.2"
 draft = true
 image = false
 imageSrc = ""

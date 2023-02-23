@@ -15,6 +15,7 @@ sources = ["SNFGE"]
 tags = ["EOGD", "grossesse", "IPP", "SAS", "toux"]
 anglais = ["Gastroesophageal reflux disease (GERD)"]
 sctid = "235595009"
+icd10 = "K21.9"
 image = true
 imageSrc = "Illustration du reflux gastro-œsophagien par BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true

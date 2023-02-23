@@ -13,6 +13,7 @@ sources = ["SFDermato"]
 tags = ["adolescent", "enfant", "IST"]
 anglais = ["Molluscum contagiosum"]
 sctid = "40070004"
+icd10 = "B08.1"
 image = true
 imageSrc = "Trois lésions élémentaires de molluscum contagiosum typiques. Photo par Evanherk, CC BY-SA 3.0, via Wikimedia Commons"
 +++

@@ -14,8 +14,9 @@ sources = ["HAS", "HCSP", "MinSanté"]
 tags = ["HSH", "IST", "prevention", "vaccin"]
 anglais = ["Monkeypox"]
 sctid = "359814004"
+icd10 = "B04"
 image = true
-imageSrc = "Illustration du Monkeypox par brgfx / www.freepik.com"
+imageSrc = "Illustration du Monkeypox par brgfx / Freepik"
 todo = "personnes contacts + flow avec https://www.has-sante.fr/jcms/p_3361191/fr/reponses-rapides-infection-par-le-virus-monkeypox-prise-en-charge-en-medecine-de-1er-recours"
 +++
 

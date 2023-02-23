@@ -13,9 +13,10 @@ sources = ["SFORL"]
 tags = ["toux"]
 anglais = ["chronic cough"]
 sctid = "68154008"
-flowchart = true
+icd10 = "R05"
 image = true
 imageSrc = "Illustration de la toux chronique par stories / Freepik"
+flowchart = true
 todo = "revoir flowchart"
 +++
 

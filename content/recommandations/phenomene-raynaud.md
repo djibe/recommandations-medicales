@@ -14,6 +14,7 @@ sources = ["Maladies rares", "Collèges", "SFMV"]
 tags = ["EPS", "TSH"]
 anglais = ["Raynaud's phenomenon"]
 sctid = "266261006"
+icd10 = "I73.0"
 flowchart = true
 image = true
 imageSrc = "Syndrome de Raynaud des doigts. Par Tcal via wikipedia, CC BY-SA 3.0"

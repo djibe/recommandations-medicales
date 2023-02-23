@@ -15,6 +15,7 @@ sources = ["RevMedSuis", "SFD"]
 tags = []
 anglais = ["Morton's metatarsalgia"]
 sctid= "30085007"
+icd10 = "G57.6"
 image = true
 imageSrc = "Zone œdématiée en regard des métatarsiens par gm.esthermax sur Foter.com"
 todo = "SEO"

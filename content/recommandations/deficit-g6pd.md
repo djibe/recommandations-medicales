@@ -13,9 +13,10 @@ sources = ["ANSM", "HAS"]
 tags = []
 anglais = ["Glucose-6-phosphate dehydrogenase deficiency anemia"]
 sctid = "62403005"
-datatable = true
+icd10 = "D55.0"
 image = true
 imageSrc = "Illustration du déficit en G6PD par macrovector / Freepik"
+datatable = true
 +++
 
 {{%article-summary%}}

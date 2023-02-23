@@ -13,9 +13,10 @@ sources = ["SFDermato", "SPILF"]
 tags = ["depistage", "HSH", "IST", "prevention", "VIH"]
 anglais = ["Syphilis"]
 sctid = "76272004"
-flowchart = true
+icd10 = "A53.9"
 image = true
-imageSrc = "Chancre de la langue d'une syphilis primaire. cdc.gov / PHIL"
+imageSrc = "Chancre syphilitique de la langue d'une syphilis primaire. cdc.gov / PHIL"
+flowchart = true
 todo = "Prescrire cite la ceftriaxone IM 1g/j 10 à 14j"
 +++
 

@@ -14,6 +14,7 @@ sources = ["CMIT", "CSHP", "SFDermato"]
 tags = ["prurit"]
 anglais = ["Pediculosis", "head lice"]
 sctid = "20848007"
+icd10 = "B85.2"
 image = true
 imageSrc = "Poux extrait du crâne. CC BY-SA 3.0 via Wikimedia Commons"
 todo = "modèle école, https://cpias-occitanie.fr/wp-content/uploads/2019/06/P%C3%A9diculoses-2019.pdf, TTT"

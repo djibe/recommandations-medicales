@@ -12,10 +12,11 @@ sources = ["SFC", "SPLF"]
 tags = ["anticoagulant", "dyspnee", "MVTE"]
 anglais = ["Pulmonary embolism"]
 sctid = "59282003"
-flowchart = true
+icd10 = "I26.9"
 image = true
 imageWEBP = true
 imageSrc = "Embolie segmentaire par scientificanimations.com, CC BY-SA 4.0"
+flowchart = true
 todo = "p.21, flowchart duree, def cancer actif, carnet AVK, https://erj.ersjournals.com/content/54/3/1901647"
 +++
 

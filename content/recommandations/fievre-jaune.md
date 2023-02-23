@@ -14,6 +14,7 @@ sources = ["MinSanté"]
 tags = ["vaccin", "voyage"]
 anglais = ["Yellow fever"]
 sctid = "16541001"
+icd10 = "A95.9"
 image = true
 imageSrc = "James Gathany, domaine public via Wikimedia Commons"
 todo = "clinique"

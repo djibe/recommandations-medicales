@@ -15,8 +15,9 @@ sources = ["CNGOF", "SFDiabète", "SFRhumato"]
 tags = ["ferritine"]
 anglais = []
 sctid = ""
+icd10 = ""
 image = true
-imageSrc = "Photo de ZEISS Microscopy sur Foter.com / CC BY-SA"
+imageSrc = "Illustration par ZEISS Microscopy sur Foter.com / CC BY-SA"
 todo = "LDL"
 +++
 

@@ -13,9 +13,10 @@ sources = ["BAD"]
 tags = []
 anglais = ["Rosacea"]
 sctid = "398909004"
-flowchart = true
+icd10 = "L71.9"
 image = true
 imageSrc = "Rosacée papulopustuleuse avec érythème. Photo de The Thinking Doll sur Foter.com / CC BY-NC"
+flowchart = true
 todo = "interrogatoire, SEO"
 +++
 

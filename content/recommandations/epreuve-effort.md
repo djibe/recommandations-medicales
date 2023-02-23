@@ -14,6 +14,7 @@ sources = ["SFC", "SFD"]
 tags = ["epreuve effort", "diabete", "HTA"]
 anglais = ["Cardiopulmonary exercise test (CPET)"]
 sctid = "447346005"
+icd10 = ""
 image = true
 imageSrc = "Epreuve d'effort avec EEVO2 en cours de réalisation par Mizzou CAFNR sur Foter.com / CC BY-NC"
 todo = "probabilite pre-test, rcv score"

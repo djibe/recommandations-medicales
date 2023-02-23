@@ -14,6 +14,7 @@ sources = ["SFORL"]
 tags = ["TSH", "vertige"]
 anglais = ["Menière's disease"]
 sctid = "13445001"
+icd10 = "H81.0"
 image = true
 imageSrc = "Oreille interne. Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons"
 todo = "ttt betahistine"

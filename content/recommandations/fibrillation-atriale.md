@@ -15,6 +15,7 @@ sources = ["ESC", "HAS"]
 tags = ["anticoagulant", "BPCO", "demence", "depistage", "dyspnee", "fatigue", "HTA", "SAS", "TSH"]
 anglais = ["Atrial fibrillation"]
 sctid = "49436004"
+icd10 = "I48.9"
 image = true
 imageSrc = "Fibrillation atriale sur 2 dérivations, PeaBrainC, CC BY-SA 4.0 via Wikimedia Commons"
 todo = "SEO 'recommandation fibrillation auriculaire', ESC 2020: chap 11.5 saignement, Source 2013 bonne pour EGS, prev IRC Marijon"

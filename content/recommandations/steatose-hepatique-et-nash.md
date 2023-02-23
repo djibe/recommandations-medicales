@@ -14,9 +14,10 @@ sources = ["AFEF", "SNFGE"]
 tags = ["cancer", "depistage", "diabete", "ferritine", "hepatite", "obesite", "risque cardiovasculaire", "SAS", "VIH"]
 anglais = ["Non-alcoholic steatohepatitis (NASH)"]
 sctid = "442685003"
-flowchart = true
+icd10 = "K75.8"
 image = true
 imageSrc = "Illustration de la NASH par brgfx / Freepik"
+flowchart = true
 todo = "remboursement fibromètre ?, syndrome métabolique, compléter pathologies liées"
 +++
 

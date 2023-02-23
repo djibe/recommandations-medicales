@@ -15,9 +15,10 @@ sources = ["HAS", "KDIGO", "ADA", "ESC"]
 tags = ["depistage", "diabete", "dyspnee", "fatigue", "ferritine", "HTA", "nephropathie", "obesite", "risque cardiovasculaire", "vaccin", "vitamine d"]
 anglais = ["Chronic kidney disease (CKD)", "chronic renal insufficiency"]
 sctid = "709044004"
-flowchart = true
+icd10 = "N18.9"
 image = true
 imageSrc = "Illustration de l'insuffisance rénale par pch.vector / Freepik"
+flowchart = true
 todo = "maladie pro, aliments riches K/P"
 +++
 

@@ -12,9 +12,10 @@ sources = ["SFE", "CNPU"]
 tags = ["enfant", "adolescent"]
 anglais = ["Precocious puberty"]
 sctid = "400179000"
-flowchart = true
+icd10 = "E30.1"
 image = false
 imageSrc = ""
+flowchart = true
 todo = "Avances pubertaires dissociées"
 +++
 

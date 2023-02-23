@@ -13,8 +13,9 @@ sources = ["SFRhumato", "COFER"]
 tags = ["AINS", "obesite"]
 anglais = ["Osteoarthritis of knee, gonarthrosis"]
 sctid = "239873007"
+icd10 = "M17.9"
 image = true
-imageSrc = "Disparition de l'interligne des 3 compartiments avec ostéophytose. Sclérose sous-chondrale. Dr Ian Bickle publié sur Radiopaedia.org"
+imageSrc = "Arthrose sévère du genou avec disparition de l'interligne des 3 compartiments et ostéophytose. Sclérose sous-chondrale. Dr Ian Bickle publié sur Radiopaedia.org"
 +++
 
 {{%article-summary%}}
