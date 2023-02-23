@@ -15,8 +15,8 @@ tags = []
 anglais = ["Prolapse of female genital organs"]
 sctid = "73998008"
 icd10 = "N81.9"
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Hystéroptose (prolapsus utérin dans le vagin) Baden-Walker 3 chez une femme de 40 ans en position debout. Mikael Häggström, CC0, via Wikimedia Commons"
 todo = "SEO, HAS annexes Échelles PFDI-20, APFQ"
 +++
 

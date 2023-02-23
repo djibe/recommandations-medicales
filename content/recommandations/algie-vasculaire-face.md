@@ -16,10 +16,10 @@ tags = ["cephalees", "tabac"]
 anglais = ["Cluster headache syndrome"]
 sctid = "193031009"
 idc10 = "G44.0"
+image = true
+imageSrc = "Rougeur de la joue homolatérale durant une crise d'algie vasculaire de la face. T. Bjornstad, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-image = false
-imageSrc = ""
-todo = "Examen clinique"
+todo = "SEO, Examen clinique"
 +++
 
 {{%article-summary%}}
@@ -29,10 +29,10 @@ Adaptation des recommandations pour le diagnostic et le traitement de l'Algie Va
 - Critères diagnostiques stricts de l'algie vasculaire +++
 - Signes migraineux possibles (prodromes, troubles digestifs, aura, photophobie, hyperacousie)
 - Examens complémentaires systématiques avec IRM cérébrale et angio-IRM cérébrale au diagnostic
-- Prise en charge de la crise douloureuse par sumatriptan 6 mg SC dès le début des douleurs
+- Prise en charge de la crise douloureuse de l'algie vasculaire par sumatriptan 6 mg SC dès le début des douleurs
 - Oxygène prescrit et renouvelé par le spécialiste
-- Traitement de fond par vérapamil dès le début de la période douloureuse, titration avec surveillance ECG  
-  Décroissance en fin de période douloureuse, ≥ 2 semaines après la dernière crise.
+- Traitement de fond de l'algie vasculaire par vérapamil dès le début de la période douloureuse, titration avec surveillance ECG  
+  Décroissance en fin de période douloureuse, au moins 2 semaines après la dernière crise.
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
