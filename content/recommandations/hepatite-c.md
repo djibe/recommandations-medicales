@@ -287,8 +287,9 @@ En l'absence de ces facteurs de risque et de toute comorbidité hépatique (alco
 {{% /collapse %}}
 {{% collapse "Prise en charge de l'hépatite C" "show" %}}
 
-{{< mermaid title="Conduite à tenir et prise en charge d'une sérologie de l'hépatite C positive. Dr JB Fron d'après HAS 2019" >}}
+{{< mermaid title="Prise en charge de l'hépatite C. Dr JB Fron d'après HAS 2019" >}}
 graph TB
+accTitle: Prise en charge de l'hépatite C. Dr JB Fron d'après HAS 2019
   serologie["Sérologie VHC<br>(+ VHB + VIH)"] --> serologie+(Positive)
   style serologie stroke:#4150f5, stroke-width:1px
   serologie+ --> pcr(Charge virale VHC)
@@ -310,6 +311,7 @@ graph TB
 
 {{< mermaid title="Conduite à tenir dans les suites de la réalisation d'un TROD VHC. Dr JB Fron d'après HAS 2019" >}}
 graph TB
+accTitle: Conduite à tenir dans les suites de la réalisation d'un TROD VHC d'après HAS 2019
   trod[TROD VHC] --> trod+(Positif)
   style trod stroke:#4150f5, stroke-width:1px
   trod+ --> serologie(Sérologie VHC)

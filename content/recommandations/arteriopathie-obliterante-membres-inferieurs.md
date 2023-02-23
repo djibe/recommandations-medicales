@@ -309,7 +309,7 @@ Prise en charge de l'artériopathie (AOMI): Suivi cardiologique spécialisé, tr
 
 {{< mermaid title="Conduite à tenir pour le dépistage de l'AOMI. Dr JB Fron d'après SFMV 2020 et ESC 2017" >}}
 graph TB
-accTitle: Prise en charge diagnostique de l'artériopathie oblitérante des membres inférieurs (AOMI)
+accTitle: Prise en charge diagnostique de l'artériopathie oblitérante des membres inférieurs (AOMI) d'après SFMV 2020 et ESC 2017
   depister["<b>Personne à risque</b> <br><b>ou symptomatique</b><hr>- Suspicion clinique<br>- Athérome connu<br>- Anévrysme aortique<br>- Insuff. rénale<br>- Insuff. cardiaque<br>- Dépistage PREVALENT<br>- Âge ≥ 65 ans<br>- Risque CV élevé<br>- ≥ 50 ans et ATCD familial AOMI<br>ou ≥ 1 autre FRCV"] --> clinique("- Interrogatoire<br>- Examen clinique")
   style depister stroke:#4150f5, stroke-width:1px
     clinique --> ips("Mesure de l'IPS<br>et IPSGO")

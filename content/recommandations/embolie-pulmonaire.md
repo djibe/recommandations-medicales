@@ -302,7 +302,8 @@ chaussettes de contention classe 3 au moins 6 mois.
 
 {{< mermaid title="Prise en charge ambulatoire d'une suspicion d'embolie pulmonaire. Dr JB Fron d'après SFMV 2019" >}}
 graph TB
-  ep[Suspicion d'<br>embolie pulmonaire] --> gravite(Signes de gravité ?)
+accTitle: Prise en charge ambulatoire d'une suspicion d'embolie pulmonaire d'après SFMV 2019
+  ep[Suspicion d'embolie<br>pulmonaire] --> gravite(Signes de gravité ?)
   style ep stroke:#4150f5, stroke-width:1px
     gravite -- Non --> probaClin("<b>Score de probabilité clinique</b><br>Score de Wells ou Genève")
       probaClin -- Faible --> age("Âge &lt; 50 ans et<br>pas de grossesse/post-partum ?")

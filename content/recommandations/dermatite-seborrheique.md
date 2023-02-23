@@ -160,6 +160,7 @@ Autres produits: climbazole shampooing, huile de cade (Caditar®), kéluamide, p
 
 {{< mermaid title="Prise en charge de la dermatite séborrhéique. Dr JB Fron d'après CEDEF 2017 et CMIT" >}}
 graph TB
+accTitle: Prise en charge de la dermatite séborrhéique d'après CEDEF 2017 et CMIT
   suspicion[Suspicion de dermatite séborrhéique] --> diagnostic(Diagnostic clinique<br>de DS)
   style suspicion stroke:#4150f5, stroke-width:1px
   suspicion -- Diagnostic différentiel --> differentiel(Psoriasis<br>Rosacée<br>Dermatite atopique<br>Syphilis)

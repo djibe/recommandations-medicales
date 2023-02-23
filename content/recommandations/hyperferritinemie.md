@@ -204,6 +204,7 @@ La prise en charge relève uniquement du gastro-entérologue:
 
 {{< mermaid title="Prise en charge diagnostique d'une hyperferritinémie. Dr JB Fron d'après SNFGE 2019" >}}
 graph TB
+accTitle: Prise en charge diagnostique d'une hyperferritinémie d'après SNFGE 2019
   HF["<b>Hyperferritinémie</b><hr>Femme &gt; 200<br>Homme &gt; 300"] --> CST(CST à jeun)
   style HF stroke:#4150f5, stroke-width:1px
     CST -- "&lt; 45%" --> CRP(CRP ?)
@@ -219,7 +220,6 @@ graph TB
           HFE --> gastro
         Hb -- Diminuée --> anemie("Transfusions ?<br>Injections de fer ?<br>Dysérythropoïèse ?<hr>- Haptoglobine<br>- Réticulocytes")
           anemie --> hemato(Hématologue)
-
 {{< /mermaid >}}
 
 > **HF =** hyperferritinémie (en µg/L)

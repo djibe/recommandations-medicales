@@ -321,7 +321,7 @@ Selon la Revue Prescrire: pas de place pour la kinésithérapie respiratoire sau
 
 {{< mermaid title="Prise en charge de la bronchiolite et d'une dyspnée sifflante. Dr JB Fron d'après HAS/CNPP 2019" >}}
 graph TB
-accTitle: Prise en charge de la bronchiolite et d'une dyspnée sifflante
+accTitle: Prise en charge de la bronchiolite et d'une dyspnée sifflante d'après HAS et CNPP 2019
   dyspnee[Dyspnée sifflante] --> age(Âge)
   style dyspnee stroke:#4150f5, stroke-width:1px
     age --> moins12(&lt; 12 mois)

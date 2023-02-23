@@ -282,6 +282,7 @@ Mise en place en cours des [Centres experts de l'endométriose](https://www.endo
 
 {{< mermaid title="Conduite à tenir et prise en charge d'une suspicion d'endométriose. Dr JB Fron d'après ACOG 2018 et CNGOF/HAS 2017" >}}
 graph TB
+accTitle: Conduite à tenir et prise en charge d'une suspicion d'endométriose d'après ACOG 2018 et CNGOF/HAS 2017
   endometriose["<b>Suspicion d'endométriose</b><hr>- Dysménorrhées intenses<br>- Dyspareunies<br>- Douleurs pelviennes<br>non menstruelles<br>- Infertilité"] --> clinique("- Symptômes<br>- Évaluation du retentissement<br>(EAN, EHP-5, absentéisme)<br>- Examen gynécologique<br>- Échographie pelvienne")
   style endometriose stroke:#4150f5, stroke-width:1px
     clinique --> indicationsBilan("- Signes d'endométriose profonde ?<br>(dyspareunies, dl défécation, SFU)<br>- Infertilité ?<br>- Endométriome en écho ?")

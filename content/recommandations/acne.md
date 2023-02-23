@@ -14,9 +14,9 @@ anglais = ["Acne"]
 sctid = "11381005"
 icd10 = "L70.9"
 image = true
-imageSrc = "Photo d'acné par profeticsbeta sur Foter.com / CC BY-NC-SA"
+imageSrc = "Acné inflammatoire du visage par profeticsbeta sur Foter.com / CC BY-NC-SA"
 flowchart = true
-todo = "outil, A LIRE + PRESCRIRE"
+todo = "outil"
 +++
 
 {{%article-summary%}}
@@ -303,7 +303,7 @@ Découverte de grossesse = avis du Diagnostic Anténatal semi-urgent
 
 {{< mermaid title="Prise en charge de l'acné selon la forme clinique. Dr JB Fron d'après SFDermato 2015">}}
 graph TB
-accTitle: Prise en charge de l'acné selon la forme clinique
+accTitle: Prise en charge de l'acné selon la forme clinique d'après SFDermato 2015
   suspicion[Suspicion d'acné] --> diagnostic(Diagnostic clinique d'acné)
   style suspicion stroke:#4150f5, stroke-width:1px
   suspicion -- Diagnostic différentiel --> differentiel("- Dermatite péri-orale ou med<br>- Rosacée papulo-pustuleuse<br>- Syphilis<br>- Sarcoïdose")

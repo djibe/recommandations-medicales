@@ -424,8 +424,9 @@ La recherche fécale de *H. pylori* est une alternative au test respiratoire pou
 {{% /collapse %}}
 {{%collapse "Conduite à tenir en présence de Helicobacter pylori" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le traitement de Helicobacter pylori guidé par antibiogramme. Dr JB Fron d'après GEFH 2021" >}}
+{{< mermaid title="Prise en charge de l'infection à Helicobacter pylori avec résultat d'antibiogramme. Dr JB Fron d'après GEFH 2021" >}}
 graph TB
+accTitle: Prise en charge de l'infection à Helicobacter pylori avec résultat d'antibiogramme d'après GEFH 2021
   asymptomatique["<b>Asymptomatique</b><hr>- &lt; 45 ans et ATCD K gastrique 1<sup>er</sup> degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie("Sérologie <em>H. pylori</em> ")
   style asymptomatique stroke:#4150f5, stroke-width:1px
     serologie -- Négative --> indemne(Pas d'infection active)
@@ -451,8 +452,9 @@ graph TB
 
 ### Traitement probabiliste en l'absence de l'antibiogramme de *H. pylori*
 
-{{< mermaid title="Conduite à tenir pour le traitement de Helicobacter pylori en l'absence d'antibiogramme. Dr JB Fron d'après GEFH 2021" >}}
+{{< mermaid title="Prise en charge de l'infection à Helicobacter pylori sans antibiogramme. Dr JB Fron d'après GEFH 2021" >}}
 graph TB
+accTitle: Prise en charge de l'infection à Helicobacter pylori sans antibiogramme
   probabiliste["<em>H. pylori</em> prouvé<br>ET antibiogramme manquant"] --> grossesse(Grossesse ou<br>allaitement ?)
   style probabiliste stroke:#4150f5, stroke-width:1px
     grossesse == Non ==> choix(Traitement au choix)

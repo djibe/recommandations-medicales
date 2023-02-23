@@ -28,6 +28,8 @@ todo = "read MAJ https://www.em-select.com/article/1229908, simplifier ?"
 - Traitement d'épreuve si hypothyroïdie fruste avec signes cliniques évocateurs
 - On dit << fruste >> et non << frustre >> (qui n'existe pas, [Académie française](https://www.dictionnaire-academie.fr/article/A9F1803))
 
+Chapitre lié: [hypothyroïdie]({{< relref "hypothyroidie.md" >}})
+
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
@@ -110,6 +112,7 @@ Hypothyroïdie fruste et grossesse:
 
 {{< mermaid title="Prise en charge de l'hypothyroïdie fruste. Dr JB Fron d'après HAS 2019" >}}
 graph TB
+accTitle: Prise en charge de l'hypothyroïdie fruste d'après HAS 2019
   decouverte[TSH augmentée] -- Contrôle à 1 mois + T4L--> TSH[TSH augmentée] -- T4L normale --> hTFruste(Hypothyroïdie fruste) --> anomalies("<b>Anomalies?</b><hr>- TSH &gt; 10<br>- Anticorps anti-TPO+<br>- Grossesse et TSH &gt; 4<br>- Clinique d'hypothyroïdie") -- Oui --> traitement(Traitement par lévothyroxine)
   style decouverte stroke:#4150f5, stroke-width:1px
   TSH -- T4L basse --> hT(Hypothyroïdie patente)

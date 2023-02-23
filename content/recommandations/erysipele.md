@@ -209,6 +209,7 @@ Aucune indication des corticoïdes (sauf traitement au long cours).
 
 {{< mermaid title="Conduite à tenir et prise en charge d'un érysipèle. Dr JB Fron d'après HAS/SPILF 2019 et 2021" >}}
 graph TB
+accTitle: Conduite à tenir et prise en charge d'un érysipèle d'après HAS/SPILF 2019 et 2021
   diagnostic[Diagnostic clinique d'érysipèle]
   style diagnostic stroke:#4150f5, stroke-width:1px
     diagnostic --> indichospitalisation("<b>Indication à l'hospitalisation ?</b><hr>- Fasciite nécrosante<br>- Doute diagnostique<br>- SG marqués<br>- Fragilité<br>- Contexte social<br>- Complication locale<br>- AINS, corticoïdes<br>- Échec à 24-48h")

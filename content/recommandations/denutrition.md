@@ -321,9 +321,10 @@ Réévaluation de la dénutrition **à chaque consultation**, au moins mensuelle
 
 {{< mermaid title="Prise en charge d'une personne à risque de dénutrition. Dr JB Fron d'après HAS/FFN 2021" >}}
 graph TB
-  fdr["<b>Personne à risque de dénutrition</b><hr>- +70 ans (dépistage annuel)<br>- Cancer<br>- Maladie inflammatoire<br>- Escarre<br>- Démence, dégénératif<br>- Troubles de déglutition et bucco-dentaires<br>- Toxicomanie<br>- Régime"]
+accTitle:Prise en charge d'une personne à risque de dénutrition d'après HAS et FFN 2021
+  fdr["<b>Personne à risque de dénutrition</b><hr>- +70 ans (dépistage annuel)<br>- Cancer<br>- Maladie inflammatoire<br>- Escarre<br>- Démence, dégénératif<br>- Troubles de déglutition et bucco-dentaires<br>- Toxicomanie<br>- Régime amaigrissant"]
   style fdr stroke:#4150f5, stroke-width:1px
-    fdr --> MNA("Score MNA ≤ 11 ?")
+    fdr -- Repérage --> MNA("Score MNA ≤ 11 ?")
       MNA -- Oui --> criteres("<b>≥ 1 critère phénotypique</b><hr>- PP ≥ 5% en 1 mois<br>ou ≥ 10% en 6 mois ou avant la maladie<br>- IMC &lt; 18,5 (22 si âgée)<br>- Sarcopénie<br>- Enfant: stagnation pondérale avec<br>décalage poids 2 couloirs<hr><b>≥ 1 critère étiologique</b><hr>- Réduction apports ≥ 50% &gt; 1 sem<br>ou toute réduction &gt; 2 sem<br>- Malabsorption, maldigestion<br>- Situation d'agression")
         criteres --> bilan("- Bilan étiologique et de sévérité<br>- Degré de sévérité")
           bilan --> traitement("- Traitement étiologique<br>- Enrichir l'alimentation<br>- Avis diététique<br>- Soins bucco-dentaires")

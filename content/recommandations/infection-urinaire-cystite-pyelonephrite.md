@@ -335,6 +335,7 @@ Traitement prolongé 21 jours si uropathie non corrigée ou autre antibiotique.
 
 {{< mermaid title="Prise en charge d'une pyélonéphrite en ambulatoire. Dr JB Fron d'après HAS 2021 et SPILF 2018" >}}
 graph TB
+accTitle: Prise en charge d'une pyélonéphrite en ambulatoire d'après HAS 2021 et SPILF 2018
   pna[Pyélonéphrite aiguë] --> gravite("Gravité, grossesse ou obstacle ?<br>- qSOFA ≥ 2<br>- Choc septique")
   style pna stroke:#4150f5, stroke-width:1px
   gravite -- Non --> homme(Homme ?)

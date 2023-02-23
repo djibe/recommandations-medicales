@@ -73,7 +73,7 @@ ENMG
 : électroneuromyogramme ou électromyogramme (EMG)
 
 IASP
-: {{%lang%}}Neuropathic Pain Special Interest Group{{%/lang%}}
+: {{%lang%}}Neuropathic Pain Special Interest Group of the International Association for the Study of Pain{{%/lang%}}
 
 IRSNA
 : inhibiteurs de la recapture de la sérotonine et de la noradrénaline
@@ -318,6 +318,7 @@ Les opioïdes forts ne doivent être proposés par un spécialiste de la douleur
 
 {{< mermaid title="Conduite à tenir pour la prise en charge des douleurs neuropathiques. Dr JB Fron d'après SFETD 2020" >}}
 graph TB
+accTitle: Conduite à tenir pour la prise en charge des douleurs neuropathiques d'après SFETD 2020
   DN["<b>Douleur neuropathique</b><hr>- Caractères<br>- Questionnaire DN4<br>- Bilan étiologique"]
   style DN stroke:#4150f5, stroke-width:1px
     DN --> localisee(DN périphérique localisée) --> locLigne1(Emplâtres de lidocaïne)

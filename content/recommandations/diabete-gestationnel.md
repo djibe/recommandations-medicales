@@ -207,6 +207,7 @@ Le développement d'un diabète gestationnel ne modifie pas les consignes valabl
 
 {{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge du diabète gestationnel. Dr JB Fron d'après SFD/CNGOF 2010" >}}
 graph TB
+accTitle: Conduite à tenir pour le dépistage et la prise en charge du diabète gestationnel d'après SFD/CNGOF 2010
 fdr["<b>Facteurs de risque de diabète gestationnel</b><hr>1. Âge ≥ 35 ans<br>2. IMC ≥ 25 kg/m²<br>3. ATCD familial 1<sup>er</sup> degré de DT2<br>4. ATCD de DG<br>5. ATCD de macrosomie"]
 style fdr stroke:#4150f5, stroke-width:1px
   fdr -- Oui --> gaj("<b>1<sup>er</sup> trimestre</b><br>Glycémie à jeun")

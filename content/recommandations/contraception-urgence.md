@@ -148,7 +148,7 @@ Sans contraception ou oubli.
 
 {{< mermaid title="Conduite à tenir et prise en charge par une contraception d'urgence. Dr JB Fron d'après HAS 2019" >}}
 graph TB
-accTitle: Conduite à tenir et prise en charge par une contraception d'urgence
+accTitle: Conduite à tenir et prise en charge par une contraception d'urgence d'après HAS 2019
   rapport[Rapport sans<br>contraception efficace] -- + tôt possible --> 3jours(&lt; 3 jours)
   style rapport stroke:#4150f5, stroke-width:1px
   rapport -- + tôt possible --> 5jours("&lt; 5 jours")

@@ -143,8 +143,9 @@ La hernie ombilicale de l'enfant:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir devant une hernie pariétale" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une hernie pariétale. Dr JB Fron d'après HAS et Collèges" >}}
+{{< mermaid title="Conduite à tenir et prise en charge d'une hernie pariétale. Dr JB Fron d'après HAS et Collèges" >}}
 graph TB
+accTitle: Conduite à tenir et prise en charge d'une hernie pariétale d'après HAS et Collèges
   hernie[Hernie pariétale]
   style hernie stroke:#4150f5, stroke-width:1px
     hernie --> etranglement("<b>Étranglement ?</b><hr>- Douleurs intenses<br>- Hernie irréductible<br>- Syndrome occlusif")

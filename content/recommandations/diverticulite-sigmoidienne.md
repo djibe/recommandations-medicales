@@ -7,16 +7,16 @@ synonyms = ["Sigmoïdite diverticulaire", "diverticulite colique", "sigmoïdite 
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-09T11:33:00+02:00"
 publishdate = "2021-02-09"
-lastmod = "2022-09-22"
+lastmod = "2023-02-23"
 specialites = ["hepato-gastro-enterologie"]
 annees = "2021"
-sources = ["ESCP", "SNFGE", "HAS"]
+sources = ["HAS", "ESCP", "SNFGE"]
 tags = ["obesite"]
 anglais = ["Diverticulitis of sigmoid colon"]
 sctid = "427910000"
 icd10 = "K57.3"
 image = true
-imageSrc = "Images endoscopiques de diverticules par Anpol42, CC BY-SA 4.0, via Wikimedia Commons"
+imageSrc = "Diverticules coliques en coloscopie. Anpol42, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
 todo = "SEO sigmoïdite, https://fascrs.org/ascrs/media/files/DCR-tics-CPG-2020.pdf"
 +++
@@ -24,10 +24,10 @@ todo = "SEO sigmoïdite, https://fascrs.org/ascrs/media/files/DCR-tics-CPG-2020.
 {{%article-summary%}}
 
 - La diverticulose colique est asymptomatique dans 80% des cas
-- Première poussée de diverticulite sigmoïdienne aiguë: diagnostic systématique par scanner abdomino-pelvien
+- Première poussée de diverticulite sigmoïdienne aiguë (*ex* sigmoïdite diverticulaire): diagnostic systématique par scanner abdomino-pelvien
 - Pas d'antibiotiques si crise de diverticulite non compliquée, sans gravité et sans grossesse durant les 48 premières heures
 - Chirurgie prophylactique des diverticules en cas de comorbidités:  
-  {{%class "text-black-secondary" %}}Immunodépression, insuffisance rénale, altération qualité de vie, fistule, abcès, sténose symptomatique.{{%/class%}}
+  {{%class "text-black-secondary" %}}Immunodépression, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}), altération qualité de vie, fistule, abcès, sténose symptomatique.{{%/class%}}
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -42,10 +42,10 @@ Diverticulose du côlon
 : Anomalie anatomique du côlon acquise caractérisée par la présence de diverticules.  
 Elle est asymptomatique dans 80% des cas.
 
-{{% /collapse %}}
-{{%collapse "Complications" %}}
+### Complications d'une poussée de diverticulite
 
-Les complications des poussées de diverticulite sigmoïdienne (ex sigmoïdite diverticulaire) surviennent principalement à la première poussée.  
+Les complications des poussées de diverticulite sigmoïdienne (*ex* sigmoïdite diverticulaire) surviennent principalement à la première poussée.
+
 Le traitement de la **diverticulite compliquée** est urgent et spécialisé:
 
 - Abcès
@@ -54,7 +54,19 @@ Le traitement de la **diverticulite compliquée** est urgent et spécialisé:
 - Sténose colique
 - Hémorragie diverticulaire
 
-Facteurs de risque: aspirine, AINS, [alcool]({{< relref "sevrage-alcool.md" >}}).
+**Facteurs de risque** de complication: aspirine, AINS, [alcool]({{< relref "sevrage-alcool.md" >}}).
+
+### Abréviations
+
+ESCP
+: {{%lang%}}European Society of Coloproctology{{%/lang%}}
+
+HAS
+: Haute Autorité de Santé
+
+SNFGE
+: Société Nationale Française de Gastro-Entérologie
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -80,7 +92,7 @@ Les examens complémentaires sont systématiques pour affirmer le diagnostic de 
 
 ### Scanner abdomino-pelvien avec injection
 
-Le scanner est obligatoire en cas de 1<sup>er</sup> épisode de diverticulite
+Le scanner est obligatoire en cas de premier épisode de diverticulite
 {.alert .alert-info}
 
 Le scanner est l'examen de référence pour le diagnostic et la recherche de complications d'une poussée de diverticulite.
@@ -162,10 +174,11 @@ Si allergie: ciprofloxacine 500 mg x 2/j OU lévofloxacine 500 mg x 1/j
 Intérêt d'une **coloscopie** avant la chirurgie, surtout si +50 ans ou [risque élevé de cancer colorectal]({{< relref "cancer-colorectal.md" >}}).
 
 {{% /collapse %}}
-{{% collapse "Conduite à tenir" "show" %}}
+{{% collapse "Prise en charge de la diverticulite sigmoïdienne" "show" %}}
 
-{{< mermaid title="Prise en charge d'suspicion de diverticulite sigmoïdienne. Dr JB Fron d'après HAS 2017 et 2021" >}}
+{{< mermaid title="Prise en charge d'une suspicion de diverticulite sigmoïdienne. Dr JB Fron d'après HAS 2017 et 2021" >}}
 graph TB
+accTitle: Prise en charge d'une suspicion de diverticulite sigmoïdienne d'après HAS 2017 et 2021
   diverticulite[Suspicion de diverticulite]
   style diverticulite stroke:#4150f5, stroke-width: 1px
     diverticulite --> gravite("<b>Fragilité ?</b><br>- Grossesse<br>- Gravité clinique<br>- Contexte social<br>- Comorbidités")
