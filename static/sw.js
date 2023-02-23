@@ -34,3 +34,5 @@ addEventListener('fetch',  fetchEvent => {
     }
   }());
 });
+
+// From https://gist.github.com/adactio/3717b7da007a9363ddf21f584aae34af

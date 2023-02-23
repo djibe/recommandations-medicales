@@ -15,8 +15,8 @@ sources = ["MinSanté"]
 tags = []
 anglais = ["Social health insurance"]
 sctid = ""
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Illustration des aides sociales par rawpixel.com / Freepik"
 todo = "https://www.has-sante.fr/upload/docs/application/pdf/2018-03/annexes2.pdf"
 +++
 

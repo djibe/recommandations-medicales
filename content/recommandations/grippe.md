@@ -15,15 +15,15 @@ tags = ["BPCO", "obesite", "prevention", "vaccin"]
 anglais = ["influenza", "flu"]
 sctid = "6142004"
 icd10 = "J11.1"
-image = false
-imageSrc = ""
-todo = "grippe grossesse, antiviral, vaccin grippe porcin aviaire"
+image = true
+imageSrc = "Particules de virus grippal H1N1 en microscopie électronique. Les protéines de surface sont en noir. NIAID, CC BY 2.0 via Wikimedia Commons"
+todo = "grippe grossesse, antiviral"
 +++
 
 {{%article-summary%}}
 
-- Vaccination annuelle contre la grippe des personnes à risque de forme grave à partir de mi-octobre (en métropole)  
-  Le vaccin ne donne évidemment pas de syndrome grippal puisqu'il ne contient que des protéines virales
+- Vaccination annuelle contre la grippe des personnes à risque de forme grave à partir de mi-octobre (en métropole). Prolongation exceptionnelle de la campagne jusqu'au 31/03/2023
+- Le vaccin ne donne évidemment pas de syndrome grippal puisqu'il ne contient que quelques protéines virales
 - Le rappel antigrippal est couplé à la vaccination Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*)
 
 {{%/article-summary%}}
@@ -135,7 +135,7 @@ Vaccins contre la grippe disponibles en France:
 - InfluvacTetra®
 - VaxigripTetra®
 
-La campagne de vaccination débute le <mark>18 octobre 2022</mark> et est [poursuivie jusqu'au 28 février 2023](https://www.ameli.fr/medecin/actualites/la-campagne-de-vaccination-contre-la-grippe-se-poursuit-jusqu-au-28-fevrier-0).
+La campagne de vaccination débute le <mark>18 octobre 2022</mark> et est [poursuivie jusqu'au 31 mars 2023](httphttps://www.service-public.fr/particuliers/actualites/A15259).
 
 [Document CRATB d'information patient contre la grippe (PDF)](http://medqual.fr/images/PRO_2018/CAT-PATHO-IFECTIEUSE/GRIPPE/MEDCAL_GRIPPE_A3_OK_VF.pdf)
 

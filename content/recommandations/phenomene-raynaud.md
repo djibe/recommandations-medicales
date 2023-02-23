@@ -18,6 +18,7 @@ icd10 = "I73.0"
 flowchart = true
 image = true
 imageSrc = "Syndrome de Raynaud des doigts. Par Tcal via wikipedia, CC BY-SA 3.0"
+todo = "rankok"
 +++
 
 {{%article-summary%}}

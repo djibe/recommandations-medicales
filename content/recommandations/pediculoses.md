@@ -1,9 +1,8 @@
 +++
-title = "Pédiculoses"
+title = "Pédiculoses (poux)"
 prefix = "les "
-titleSeo = "Poux"
 description = "Recommandations pour le diagnostic et la prise en charge des poux. Peigne anti-poux, lotion de diméticone et examen de l'entourage pour décontamination"
-synonyms = ["Poux"]
+synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-18T18:48:00+02:00"
 publishdate = "2021-04-21"
@@ -17,7 +16,7 @@ sctid = "20848007"
 icd10 = "B85.2"
 image = true
 imageSrc = "Poux extrait du crâne. CC BY-SA 3.0 via Wikimedia Commons"
-todo = "modèle école, https://cpias-occitanie.fr/wp-content/uploads/2019/06/P%C3%A9diculoses-2019.pdf, TTT"
+todo = "rankok, modèle école, https://cpias-occitanie.fr/wp-content/uploads/2019/06/P%C3%A9diculoses-2019.pdf, TTT"
 +++
 
 {{%article-summary%}}

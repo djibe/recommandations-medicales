@@ -15,8 +15,8 @@ tags = ["fatigue", "hepatite", "HSH", "IST", "prevention", "vaccin", "voyage"]
 anglais = ["Viral hepatitis type A"]
 sctid = "40468003"
 icd10 = "B15.9"
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Pays à risque modéré à élevé d'infection par le virus de l'hépatite A. OMS 2010"
 todo = "symptômes/fatigue, vaccin combiné"
 +++
 

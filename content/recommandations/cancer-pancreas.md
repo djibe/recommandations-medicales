@@ -16,7 +16,7 @@ anglais = ["Pancreatic cancer"]
 sctid = "363418001"
 icd10 = "C25.9"
 image = true
-imageSrc = "Illustration du pancréas par brgfx / Freepik"
+imageSrc = "Invasion du deuxième segment duodénal par une masse pancréatique au scanner. Cas d'Ahmed Abdrabou, Radiopaedia.org, rID: 35723"
 +++
 
 {{%article-summary%}}
