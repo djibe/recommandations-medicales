@@ -47,6 +47,12 @@ title = "RecoMédicales"
   taxonomy = ["HTML"]
   term = ["HTML"]
 
+[outputFormats]
+  [outputFormats.API-S]
+  mediatype = "application/json"
+  baseName = "api-s"
+  isPlainText = true
+
 # Dependencies
 [params.cdn]
   material_js = "https://cdn.jsdelivr.net/npm/djibe-material@4.6.2-1.0/js/material.min.js"
