@@ -70,7 +70,7 @@ Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de G
 | 3,1 - 4     | 26,9              | 6,7                        |
 {{< /table >}}
 
-L'intérêt du `ratio PSA libre / PSA total` est faible du fait du recours à l'IRM prostatique.
+L'intérêt du ratio PSA libre / PSA total est faible du fait du recours à l'IRM prostatique.
 
 ### Épidémiologie du cancer de la prostate
 

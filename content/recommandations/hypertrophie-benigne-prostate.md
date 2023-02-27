@@ -7,7 +7,7 @@ synonyms = ["Hyperplasie bénigne de la prostate", "prostatisme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-04T10:52:08+02:00"
 publishdate = "2023-02-16"
-lastmod = "2023-02-16"
+lastmod = "2023-02-23"
 specialites = ["urologie"]
 annees = "2022"
 sources = ["EAU", "AFU"]
@@ -22,11 +22,11 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'hypertrophie bénigne de la prostate (HBP) est une pathologie bénigne liée à l'âge pouvant entraîner de troubles urinaires et des complications (rétention d'urines, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) ...)
-- Ces recommandations sont limitées au traitement de l'HBP non compliquée chez l'homme +40 ans
+- L'hypertrophie bénigne de la prostate (HBP) est une pathologie bénigne liée à l'âge pouvant entraîner des troubles urinaires et des complications (rétention d'urines, [insuffisance rénale]({{< relref "insuffisance-renale-chronique.md" >}}) ...)
+- Ces recommandations sont limitées au traitement de l'HBP non compliquée chez l'homme de +40 ans
 - Le diagnostic d'HBP est clinique avec des symptômes du bas appareil urinaire (SBAU) et un toucher rectal obligatoire
 - Rechercher des troubles de la libido, une [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) ou de l'éjaculation
-- Nycturie: [agenda mictionnel (PDF)](https://www.urofrance.org/fileadmin/medias/scores/catalogue-mictionnel.pdf), recherche d'{{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}} et avis urologique
+- Nycturie: [agenda mictionnel (PDF)](https://www.urofrance.org/fileadmin/medias/scores/catalogue-mictionnel.pdf) sur 3 jours, recherche d'{{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}} et avis urologique
 - Bilan initial de l'hypertrophie de la prostate: {{< modal-btn modal-ipss >}}score IPSS{{< /modal-btn >}}, ECBU et mesure du résidu post-mictionnel (*EAU*) voire PSA, créatininémie et échographie
 - Prise en charge de l'hypertrophie prostatique: mesures hygiéno-diététiques et selon l'intensité des symptômes: abstention, alpha-bloquant ou autres
 - Suivi de l'HBP: {{< modal-btn modal-ipss >}}symptômes urinaires{{< /modal-btn >}} et {{< modal-btn modal-iief5 >}}sexuels{{< /modal-btn >}}, tolérance et efficacité des traitements
@@ -100,11 +100,11 @@ Le diagnostic d'hypertrophie bénigne de prostate est clinique.
     Pollakiurie diurne et nocturne, urgenturie (impériosité mictionnelle), nycturie, incontinence urinaire.
   - Phase mictionnelle  
     Retard à l'initiation de la miction, dysurie, jet faible, interruption de la miction, jet haché, miction par poussée abdominale.
-  - Phase post-mictionnelle
+  - Phase post-mictionnelle  
     Gouttes retardataires, sensation de vidange vésicale incomplète.
 - Signes négatifs  
   Douleurs périnéales, fièvre, hématurie, antécédents urologiques, facteur de risque de sténose de l'urètre, anomalies neurologiques, malposition ou sténose du méat.
-- Facteurs aggravants
+- Facteurs aggravants  
   Traitements par testostérone, alpha-stimulants, atropiniques.
 - Qualité de vie  
   - Sensation de vessie non vidée, besoin d'uriner en sortant des toilettes, interruption du jet, difficultés à se retenir, diminution de la taille et la force du jet, mictions nocturnes.
@@ -242,9 +242,6 @@ Seule classe à réduire le risque de rétention aiguë d'urines.
 
 Peut être associé à un alpha-bloquant (tamsulosine + dutastéride [Combodart® ou gén](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65913639&typedoc=R)) chez les hommes avec symptômes gênants et prostate +40 mL.
 
-Les IPDE5 entraînent une diminution du PSA de moitié (*McConnell 2003*)
-{.alert .alert-info}
-
 - [Dutastéride 0,5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67513654&typedoc=R) (Avodart®, gén)
 - Finastéride 5 mg (Chibro-Proscar®, gén)  
   Surveillance renforcée de l'ANSM pour troubles sexuels et psychiatriques.
@@ -258,6 +255,9 @@ Indication aux IPDE5: symptômes gênants avec ou sans [dysfonction érectile]({
 Utilisation possible en bithérapie avec un alpha-bloquant.
 
 **Effets indésirables:** hypotension artérielle, contraception efficace nécessaire (agénésie des organes génitaux).
+
+Les IPDE5 entraînent une diminution du PSA de moitié (*McConnell 2003*)
+{.alert .alert-info}
 
 ### Anticholinergiques
 
