@@ -37,6 +37,11 @@ HUGO_VERSION = "0.110.0"
 HUGO_ENABLEGITINFO = "false"
 
 [[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800" # 1w
+
+[[headers]]
   for = "*.html"
   [headers.values]
     Cache-Control = "public, max-age=3600" # 1h for analytics
