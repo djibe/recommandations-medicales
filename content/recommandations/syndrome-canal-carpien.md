@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-14T18:30:29+02:00"
 publishdate = "2020-07-14"
-lastmod = "2023-02-04"
+lastmod = "2023-03-06"
 specialites = ["rhumatologie"]
 annees = "2013"
 sources = ["HAS", "Ameli"]
@@ -24,8 +24,8 @@ flowchart = true
 {{%article-summary%}}
 
 - Syndrome du canal carpien: évoquer une [acromégalie]({{< relref "acromegalie.md" >}}) et une Maladie professionnelle
-- Signes de gravité du syndrome du canal carpien: déficit moteur de flexion du pouce, sensitif du dermatome et amyotrophie
-- Pas de bilan et prise en charge du canal carpien par une orthèse seule en première intention
+- Signes de gravité du syndrome du canal carpien: déficit moteur de flexion du pouce, sensitif du dermatome et amyotrophie justifiant un EMG et une chirurgie
+- Pas de bilan (sauf gravité) et prise en charge du canal carpien par une orthèse seule en première intention, puis infiltration
 - La guérison est quasi systématique en cas de survenue pendant la grossesse
 - [Brochure patient d'information sur le canal carpien (PDF)](https://www.ameli.fr/sites/default/files/Documents/5099/document/syndrome-canal-carpien_assurance-maladie.pdf)
 

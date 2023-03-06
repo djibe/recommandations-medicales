@@ -37,13 +37,13 @@ Enfant
 {{% /collapse %}}
 {{%collapse "Calendrier des 20 examens médicaux" "show" %}}
 
-Examens médicaux de la naissance à 16 ans, réalisés en **tiers payant total sur l'Assurance Maladie Obligatoire** de l'enfant.
+Examens médicaux de la naissance à 16 ans avec la cotation associée, facturée **tiers payant total sur l'Assurance Maladie Obligatoire** de l'enfant.
 
 - Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de vie sont sur l'assurance *Maternité*, tous les autres sont en *Maladie*
 - Les consultations *COE* correspondent aux certificats obligatoires (8 jours, 9 mois et 24 mois)  
 - Les tarifs ci-dessous concernent la Métropole
 
-{{< table title="Examens de suivi du nourrisson remboursés à 100% selon l'Arrêté du 26/02/2019" >}}
+{{< table title="Examens de suivi du nourrisson remboursés à 100% selon l'Arrêté du 26/02/2019 et cotation des consultations de l'enfant" >}}
 | N°    | Âge           | Cotation MG |
 |------:|:-------------:|:-----------:|
 | 1     | **Dans les 8 premiers jours** | COE (46€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |

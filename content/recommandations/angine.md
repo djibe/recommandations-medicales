@@ -227,7 +227,7 @@ Rechercher:
   Difficultés de réveil, irritabilité au réveil, asthénie au réveil, somnolence diurne, siestes longues, céphalées matinales, cernes ou vomissements, anorexie au petit déjeuner, respiration buccale, hyperactivité, troubles de l'attention et de la mémoire, retentissement staturo-pondéral tardif.
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir" "show" %}}
+{{%collapse "Prise en charge de l'angine" "show" %}}
 
 {{< mermaid title="Prise en charge de l'angine selon le tableau clinique. Dr JB Fron d'après SPILF/HAS 2016 et HAS 2021" >}}
 graph TB
