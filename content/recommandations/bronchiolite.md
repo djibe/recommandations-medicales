@@ -327,11 +327,11 @@ accTitle: Prise en charge de la bronchiolite et d'une dyspnée sifflante d'aprè
     age --> moins12(&lt; 12 mois)
       moins12 --> 1(1<sup>er</sup> épisode) --> bronchiolite[Bronchiolite]
       style bronchiolite stroke:#4150f5, stroke-width:1px
-        bronchiolite --> gravite("<b>≥ 1 signe de gravité?</b><hr>- AEG<br>- FR &gt; 60 ou &lt; 30/min<br>- FC &gt; 180 ou &lt; 80/min<br>- Apnées, tirage intense<br>- SpO2 éveil AA &lt; 92%<br>- Alimentation &lt; 50%<br>- Prématuré ≤ 34 SA avec O2dep ET &lt; 6 mois (palivizumab)<hr>Forme modérée +<br>- Âge corrigé &lt; 2 mois<br>- Comorbidités<br>- Contexte socio-économique<br>- Capacités de recours")
+        bronchiolite --> gravite("<b>≥ 1 signe de gravité?</b><br>—<br>- AEG<br>- FR &gt; 60 ou &lt; 30/min<br>- FC &gt; 180 ou &lt; 80/min<br>- Apnées, tirage intense<br>- SpO2 éveil AA &lt; 92%<br>- Alimentation &lt; 50%<br>- Prématuré ≤ 34 SA avec O2dep ET &lt; 6 mois (palivizumab)<br>—<br>Forme modérée +<br>- Âge corrigé &lt; 2 mois<br>- Comorbidités<br>- Contexte socio-économique<br>- Capacités de recours")
           gravite -- Non --> impression(Considérations cliniques<br>et signes de fragilité)
             impression --> legere("<b>Forme légère</b>")
               legere --> education("- DRP<br>- Consignes de surveillance<br>- Fractionner<br>- 0 tabac")
-                education --> fragilite("<b>Signes de fragilité?</b><hr>- Début &lt; 48h<br>- Prématurité &lt; 36 SA<br>- Tabagisme passif<br>- Capacité de recours aux soins<hr>Forme légère +<br>- Âge corrigé &lt; 2 mois<br>- Comorbidités<br>- Contexte socio-économique")
+                education --> fragilite("<b>Signes de fragilité?</b><br>—<br>- Début &lt; 48h<br>- Prématurité &lt; 36 SA<br>- Tabagisme passif<br>- Capacité de recours aux soins<br>—<br>Forme légère +<br>- Âge corrigé &lt; 2 mois<br>- Comorbidités<br>- Contexte socio-économique")
                   fragilite -- Oui --> vigilance(Surveillance quotidienne)
                   fragilite -- Modérée + fragilité --> consultation(Consultation quotidienne)
             impression --> moderee("<b>Forme modérée</b>")

@@ -436,10 +436,10 @@ TODO: ETP Annexe 4 + p22
 graph TB
   Parkinson[Symptômes parkinsoniens<br>sans gêne fonctionnelle] --> abstention(Abstention en l'absence de gêne) --> gêne(Symptômes avec gêne fonctionnelle)
   style Parkinson stroke:#4150f5, stroke-width:1px
-    gêne --> IMAOB("<b>IMAO B</b><hr>Seujet jeune avec gêne<br>modérée")
-    gêne --> agonistes("<b>Agonistes<br>dopaminergiques</b><hr>Sujet jeune sans<br>contre-indication") -. Intolérance .-> Levodopa
-    gêne --> Levodopa("<b>Lévodopa</b><hr>Sujet âgé")
-    gêne --> autres("<b>Autres options</b><hr>Amantadine<br>Anticholinergiques<br>si tremblement<br>prédomine")
+    gêne --> IMAOB("<b>IMAO B</b><br>—<br>Seujet jeune avec gêne<br>modérée")
+    gêne --> agonistes("<b>Agonistes<br>dopaminergiques</b><br>—<br>Sujet jeune sans<br>contre-indication") -. Intolérance .-> Levodopa
+    gêne --> Levodopa("<b>Lévodopa</b><br>—<br>Sujet âgé")
+    gêne --> autres("<b>Autres options</b><br>—<br>Amantadine<br>Anticholinergiques<br>si tremblement<br>prédomine")
 {{< /mermaid >}}
 
 {{< mermaid title="Prise en charge par traitement médicamenteux des troubles moteurs au stade avancé de la Maladie de Parkinson. Dr JB Fron d'après HAS 2016. SC = sous-cutanée">}}

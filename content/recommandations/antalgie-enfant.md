@@ -165,7 +165,7 @@ Toujours disposer de naloxone intra-veineuse ([Narcan®](https://base-donnees-pu
 {{% /collapse %}}
 {{%collapse "Autres méthodes antalgiques" %}}
 
-### Autres méthodes antalgiques
+### Autres méthodes analgésiques
 
 Autres méthodes antalgiques pouvant être associées au traitement médicamenteux:
 

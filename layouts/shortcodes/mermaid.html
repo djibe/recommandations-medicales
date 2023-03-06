@@ -1,1 +1,4 @@
-<figure style="text-align: {{ if .Get "align" }}{{ .Get "align" }}{{ else }}center{{ end }}"><pre class="mermaid">{{- .Inner | safeHTML }}</pre>{{ if .Get "title" }}<figcaption><b>Figure.</b> {{ .Get "title" }}.</figcaption>{{end}}</figure>
+<figure style="text-align: {{ if .Get "align" }}{{ .Get "align" }}{{ else }}center{{ end }}">
+  <pre class="mermaid">{{- .Inner | safeHTML }}</pre>
+  {{- if .Get "title" }}<figcaption><b>Figure.</b> {{ .Get "title" }}.</figcaption>{{end -}}
+</figure>

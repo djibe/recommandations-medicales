@@ -210,9 +210,9 @@ La splénectomie entraîne un sur-risque infectieux majeur par [asplénie]({{< r
 graph TB
   SM[Splénomégalie de l'adulte] --> bio("- NFS, CRP, fibrinogène<br>- BH, bili, TP, EPS<br>- Coombs direct<br>- Échographie abdominale<br><br>+")
   style SM stroke:#4150f5, stroke-width:1px
-    bio --> aigu("<b>Tableau aigu</b><hr>Fièvre, ADP, cardio,<br>éruption, ictère, angine") --> aiguBio("- Hémoccultures<br>- Sérologies virales<br>- Typhoïde<br>- Endémie: leishmaniose")
-    bio --> hepatique("<b>Hépatique</b><hr>Hépatite, alcool, ictère<br>HTP, ascite") --> hepatiqueBio("Anomalies au 1<sup>er</sup> bilan")
-    bio --> hemopathies("<b>Hémopathies</b><hr>Polyadénopathie,<br>anémie, hémorragies,<br>ictère, fièvre") --> hemopathiesBio("- Myélogramme<br>- Biopsie médullaire<br>- Radio thorax<br>- Scanner TAP") --> avis
+    bio --> aigu("<b>Tableau aigu</b><br>—<br>Fièvre, ADP, cardio,<br>éruption, ictère, angine") --> aiguBio("- Hémoccultures<br>- Sérologies virales<br>- Typhoïde<br>- Endémie: leishmaniose")
+    bio --> hepatique("<b>Hépatique</b><br>—<br>Hépatite, alcool, ictère<br>HTP, ascite") --> hepatiqueBio("Anomalies au 1<sup>er</sup> bilan")
+    bio --> hemopathies("<b>Hémopathies</b><br>—<br>Polyadénopathie,<br>anémie, hémorragies,<br>ictère, fièvre") --> hemopathiesBio("- Myélogramme<br>- Biopsie médullaire<br>- Radio thorax<br>- Scanner TAP") --> avis
     bio --> hemato(Hémogramme<br>pathologique<br>ou splénomégalie<br>isolée) --> avis(Avis hémato)
 {{< /mermaid >}}
 

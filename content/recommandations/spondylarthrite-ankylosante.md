@@ -381,7 +381,6 @@ Une amélioration doit être obtenue à 3 mois pour poursuivre une stratégie, a
 graph TB
   suspicion[Suspicion de Spondyloarthrite] --> bilan("- Biologie<br>- Rx rachis complet F+P<br>et bassin F<br>- IRM rachis dorso-lombaire<br>et sacro-iliaques") --> rhumato("- AINS pleine dose<br>- Avis rhumatologique systématique")
   style suspicion stroke:#4150f5, stroke-width:1px
-
 {{< /mermaid >}}
 
 {{% /collapse %}}

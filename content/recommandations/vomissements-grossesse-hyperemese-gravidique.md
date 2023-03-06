@@ -141,7 +141,7 @@ Sur prescription spécialisée uniquement pour l'hyperémèse gravidique: ondans
 graph TB
   nausees[Nausées et vomissements gravidiques] --> clinique("- Poids et variation<br>- Signes de déshydratation<br>- Score PUQE") --> critères("Perte de poids &lt; 5%<br>et hydratation normale<br>et score PUQE ≤ 6 ?")
   style nausees stroke:#4150f5, stroke-width:1px
-    critères -- Oui --> nonCompliqué(Nausées et vomissements<br>gravidiques non compliqués) -- Ambulatoire --> ligne1(<b>Première intention</b><hr>Gingembre<br>ou Doxylamine<br>ou Doxylamine + pyridoxine<br>ou Dimenhydrinate) -- Rééval 72h --> métoclopramide(Métoclopramide) -- Rééval 72h --> ligne3(Chlorpromazine<br>ou Prométhasine<br>ou Métopimazine) --> hospitalisation(Hospitalisation)
+    critères -- Oui --> nonCompliqué(Nausées et vomissements<br>gravidiques non compliqués) -- Ambulatoire --> ligne1(<b>Première intention</b><br>—<br>Gingembre<br>ou Doxylamine<br>ou Doxylamine + pyridoxine<br>ou Dimenhydrinate) -- Rééval 72h --> métoclopramide(Métoclopramide) -- Rééval 72h --> ligne3(Chlorpromazine<br>ou Prométhasine<br>ou Métopimazine) --> hospitalisation(Hospitalisation)
     critères -- Non --> hyperémèse(Hyperémèse gravidique) --> bilan("- Ionogramme<br>- Créatininémie + BU")
       bilan --> correct("5% ≤ Perte de poids &lt; 10%<br>et hydratation normale<br>et PUQE 7-12<br>et kaliémie ≥ 3<br>et Natrémie ≥ 120<br>et Créatininémie ≤ 100") -- Ambulatoire --> ligneh1(<b>idem première intention</b><br>sans gingembre) -- Rééval 24-48h --> ligneh2(Métoclopramide) -- Rééval 24-48h --> ligne3
       bilan --> grave("≥ 1 critère parmi ?<br>- Perte de poids ≥ 10%<br>- Déshydratation<br>- PUQE ≥ 13<br>- Kaliémie &lt; 3<br>- Natrémie &lt; 120<br>- Créatininémie &gt; 100") -- Oui --> hospitalisation

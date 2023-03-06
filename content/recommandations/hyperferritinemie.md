@@ -205,7 +205,7 @@ La prise en charge relève uniquement du gastro-entérologue:
 {{< mermaid title="Prise en charge diagnostique d'une hyperferritinémie. Dr JB Fron d'après SNFGE 2019" >}}
 graph TB
 accTitle: Prise en charge diagnostique d'une hyperferritinémie d'après SNFGE 2019
-  HF["<b>Hyperferritinémie</b><hr>Femme &gt; 200<br>Homme &gt; 300"] --> CST(CST à jeun)
+  HF["<b>Hyperferritinémie</b><br>—<br>Femme &gt; 200<br>Homme &gt; 300"] --> CST(CST à jeun)
   style HF stroke:#4150f5, stroke-width:1px
     CST -- "&lt; 45%" --> CRP(CRP ?)
       CRP -- Augmentée --> inflam(Inflammation<br>HF majeure ?)
@@ -213,12 +213,12 @@ accTitle: Prise en charge diagnostique d'une hyperferritinémie d'après SNFGE 2
       CRP -- Normale --> surcharge(Recherche d'une<br>surcharge en fer)
         surcharge --> gastro
     CST -- "≥ 45%" --> CST2("2<sup>e</sup> CST à jeun<br>à distance") -- "≥ 45%" --> transa(Transaminases ?)
-      transa -- Augmentées --> hepatite(Hépatite<hr>Sérologies)
+      transa -- Augmentées --> hepatite(Hépatite<br>—<br>Sérologies)
         hepatite --> gastro
       transa -- Normales --> Hb(Hémoglobine ?)
         Hb -- Normale --> HFE(Suspicion<br>d'hémochromatose)
           HFE --> gastro
-        Hb -- Diminuée --> anemie("Transfusions ?<br>Injections de fer ?<br>Dysérythropoïèse ?<hr>- Haptoglobine<br>- Réticulocytes")
+        Hb -- Diminuée --> anemie("Transfusions ?<br>Injections de fer ?<br>Dysérythropoïèse ?<br>—<br>- Haptoglobine<br>- Réticulocytes")
           anemie --> hemato(Hématologue)
 {{< /mermaid >}}
 

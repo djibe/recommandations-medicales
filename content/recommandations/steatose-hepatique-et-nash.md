@@ -205,12 +205,12 @@ Le suivi est réalisé avec les méthodes non invasives selon le niveau de fibro
 
 {{< mermaid title="Prise en charge de la stéatohépatite non alcoolique (NASH). Dr JB Fron d'après AFEF 2020 et SNFGE/AFEF 2019">}}
 graph TB
-  anomalie["<strong>Anomalie biologique</strong><hr>- Syndrome métabolique<br>- Cytolyse inexpliquée<br>(voir Facteur de risque)<br>- Cholestase<br>- Hyperferritinémie"] --> bilan
+  anomalie["<strong>Anomalie biologique</strong><br>—<br>- Syndrome métabolique<br>- Cytolyse inexpliquée<br>(voir Facteur de risque)<br>- Cholestase<br>- Hyperferritinémie"] --> bilan
   style anomalie stroke:#4150f5, stroke-width:1px
-  fdr["<strong>Facteur de risque de NASH</strong><hr>- Obésité<br>- Diabète type 2<br>- VIH avec lipodystrophie<br>- Stéatose échographique"] --> hautRisque("- Obésité morbide ?<br>- Diabète type 2 avec<br>stéatose échographique ?<br>- Infection VIH avec ALAT<br>augmentées ?<br>- Cytolyse chronique inexpliquée ?")
+  fdr["<strong>Facteur de risque de NASH</strong><br>—<br>- Obésité<br>- Diabète type 2<br>- VIH avec lipodystrophie<br>- Stéatose échographique"] --> hautRisque("- Obésité morbide ?<br>- Diabète type 2 avec<br>stéatose échographique ?<br>- Infection VIH avec ALAT<br>augmentées ?<br>- Cytolyse chronique inexpliquée ?")
   hautRisque -- Non --> bilan
   hautRisque -- Oui envisager PBH--> gastro
-  bilan("<strong>Compléter le bilan</strong><hr>- NFS, bilan hépatique, TP<br>- Glycémie, lipidique<br>- Échographie hépatique<br>- Sérologies VHB, VHC<br>&plusmn; CST")
+  bilan("<strong>Compléter le bilan</strong><br>—<br>- NFS, bilan hépatique, TP<br>- Glycémie, lipidique<br>- Échographie hépatique<br>- Sérologies VHB, VHC<br>&plusmn; CST")
     bilan --> fib4[Score FIB-4 annuel]
       fib4 -- "&lt; 1,3 | 2 si +65 ans" --> rhd("- Optimisation cardiovasculaire<br>- Perte 10% poids<br>- FIB-4 annuel")
       fib4 -- "≥ 1,3 | 2" --> nonInvasif("Compléter par Fibromètre®,<br>Fibrotest® ou ELF®")

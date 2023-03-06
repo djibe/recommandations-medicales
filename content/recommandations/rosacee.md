@@ -216,7 +216,7 @@ Lavage quotidien, expression du contenu des glandes de Mebomius, gels palpébrau
 graph TB
   rosacee[Rosacée]
   style rosacee stroke:#4150f5, stroke-width:1px
-    rosacee --> rhd("<b>Mesures hygiéno-diétetiques</b><hr>- Fiche info patient<br>- Facteurs favorisants<br>Alcool, soleil,<br>boissons chaudes, épices<br>- Émollients<br>- Photoprotection<br>- Soutien psychologique")
+    rosacee --> rhd("<b>Mesures hygiéno-diétetiques</b><br>—<br>- Fiche info patient<br>- Facteurs favorisants<br>Alcool, soleil,<br>boissons chaudes, épices<br>- Émollients<br>- Photoprotection<br>- Soutien psychologique")
       rhd --> erythemato["Érythémato-<br>télangiectasique"]
         erythemato --> erythottt("- Érythème:<br>brimonidine 0,3%, laser<br>- Télangiectasies:<br>laser<br>- Flushs: propranolol")
       rhd --> Papulopustuleuse --> mineure("Métronidazole gel 0,75%<br>2/j pendant 3 mois")
@@ -224,7 +224,6 @@ graph TB
       rhd --> Rhynophyma --> dermato
       rhd --> Oculaire --> ocuttt("- Ophtalmologue<br>- Facteurs irritants<br>- Larmes artificielles<br>- Soins")
   rosacee -- Diagnostic différentiel --> differentiel("- Acné<br>- Dermatite séborrhéique<br>- Lupus")
-
 {{< /mermaid >}}
 
 {{% /collapse %}}

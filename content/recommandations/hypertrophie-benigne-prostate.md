@@ -317,7 +317,7 @@ Avis urologique en cas de d'échec des traitements, de symptômes anormaux (hém
 {{< mermaid title="Prise en charge de l'hypertrophie bénigne de la prostate (HBP). Dr JB Fron d'après EAU 2022 et AFU 2015" >}}
 graph TB
 accTitle: Prise en charge de l'hypertrophie bénigne de la prostate (HBP) d'après EAU 2022 et AFU 2015
-  SBAU[Symptômes du bas<br>appareil urinaire chez le +40 ans] --> clinique("<b>Clinique</b><hr>- Antécédents<br>- Symptômes<br>- Phase mictionnelle<br>- Score IPSS<br>- Dysfonction érectile<br>- Examen clinique") --> examens("<b>Examens</b><hr>- ECBU<br>- Résidu post-mictionnel<br>± échographie<br>- ± PSA<br>- ± Créatininémie") --> criteres("≥ 1 parmi:<br>- Toucher rectal non fait<br>- Symptômes atypiques<br>- Anomalie clinico-biologique<br>- PSA augmenté<br>- Complication")
+  SBAU[Symptômes du bas<br>appareil urinaire chez le +40 ans] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Symptômes<br>- Phase mictionnelle<br>- Score IPSS<br>- Dysfonction érectile<br>- Examen clinique") --> examens("<b>Examens</b><br>—<br>- ECBU<br>- Résidu post-mictionnel<br>± échographie<br>- ± PSA<br>- ± Créatininémie") --> criteres("≥ 1 parmi:<br>- Toucher rectal non fait<br>- Symptômes atypiques<br>- Anomalie clinico-biologique<br>- PSA augmenté<br>- Complication")
   style SBAU stroke:#4150f5, stroke-width:1px
     criteres -- Non --> rhd(Mesures hygiéno-diététiques<br><br>Symptômes gênants ?) -- Non --> abstention(Abstention-surveillance)
       rhd -- Oui --> traitement("- Phytothérapie<br>- Alpha-bloquant<br>- Prostate +40mL: I5AR<br>- DE: IPDE5<br>voire bithérapie") -. Échec .-> uro

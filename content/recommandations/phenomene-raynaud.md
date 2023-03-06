@@ -236,11 +236,11 @@ susp[Suspicion de phénomène de Raynaud]
 style susp stroke:#4150f5, stroke-width:1px
   susp --> diagnostic("Diagnostic clinique de<br>phénomène de Raynaud")
   susp -- Différentiel --> differentiel("- Acrocyanose<br>- Érythermalgie<br>- Engelures<br>- Algodystrophie<br>- Canal carpien<br>- Défilé thoracique<br>- Sténose artérielle<br>du membre supérieur")
-    diagnostic --> gravite("<b>Signes d'alerte ?</b><hr>- Invalidant et pluriquotidien<br>- Température modérée<br>- Sans amélioration estivale<br>- Début +40 ans<br>- Atteinte des pouces<br>- Aggravation inexpliquée<br>- Ulcération digitale<br>- Télangiectasies, sclérodactylie<br>- Purpura<br>- Xérophtalmie<br>- Troubles déglutition<br>- Arthralgies<br>- Souffle vasculaire, pouls non perçu<br>- Fièvre persistante<br>- Neuropathie")
-    gravite -- Oui --> bilanComp("Bilan systématique +<hr>- Rx mains, pieds, thorax<br>- Anti-Scl70<br>- Anti-centromères<br>- Anti-RNP<br>- Anti-cardiolipine<br>- Cryoglobuline<br>- Doppler artères MS")
+    diagnostic --> gravite("<b>Signes d'alerte ?</b><br>—<br>- Invalidant et pluriquotidien<br>- Température modérée<br>- Sans amélioration estivale<br>- Début +40 ans<br>- Atteinte des pouces<br>- Aggravation inexpliquée<br>- Ulcération digitale<br>- Télangiectasies, sclérodactylie<br>- Purpura<br>- Xérophtalmie<br>- Troubles déglutition<br>- Arthralgies<br>- Souffle vasculaire, pouls non perçu<br>- Fièvre persistante<br>- Neuropathie")
+    gravite -- Oui --> bilanComp("Bilan systématique +<br>—<br>- Rx mains, pieds, thorax<br>- Anti-Scl70<br>- Anti-centromères<br>- Anti-RNP<br>- Anti-cardiolipine<br>- Cryoglobuline<br>- Doppler artères MS")
       bilanComp --> interniste(Interniste)
-    gravite -- Non --> bilan("<b>Bilan systématique</b><hr>- NFS, VS, CRP<br>- Ac anti-nucléaires<br>- Capillaroscopie<br>&plusmn; TSH, facteur rhumatoïde")
-      bilan -- Normal --> maladie("<b>Maladie de Raynaud</b><hr>- Mesures d'hygiène<br>&plusmn; nifédipine LP")
+    gravite -- Non --> bilan("<b>Bilan systématique</b><br>—<br>- NFS, VS, CRP<br>- Ac anti-nucléaires<br>- Capillaroscopie<br>&plusmn; TSH, facteur rhumatoïde")
+      bilan -- Normal --> maladie("<b>Maladie de Raynaud</b><br>—<br>- Mesures d'hygiène<br>&plusmn; nifédipine LP")
         maladie -.-> aggravation(Aggravation) --> interniste
       bilan -- Anormal --> bilanComp
 {{< /mermaid >}}

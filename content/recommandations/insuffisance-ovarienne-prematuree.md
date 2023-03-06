@@ -232,7 +232,7 @@ graph TB
       dosage --> estradiolEleve("FSH &gt; 25 et estradiol élevé") --> micycle(Élévation à mi-cycle)
       dosage --> estradiolBas("FSH &gt; 25 et estradiol bas") -- "Renouveler à ≥ 4 semaines" --> confirmation("FSH &gt; 25 et estradiol bas") --> diagnostic[Insuffisance ovarienne<br>prematurée]
       style diagnostic stroke:#4150f5, stroke-width:1px
-      diagnostic --> complementaire("<b>Bilan complémentaire</b><hr>- AMH<br>- Anti-TPO<br>- Sérologie cœliaque<br>- Anticorps anti-surrénaliens<br>- Écographie pelvienne<br>- Ostéodensitométrie") --> spe(Centre de Référence FIRENDO) --> traitement("<b>Traitement</b><hr>- THS jusqu'à ≥ 51 ans<br>et syndrome climatérique<br>- Soutien psychologique<br>- AMP ou contraception") --> suivi("- Suivi annuel<br>- Ostéodensitométrie/5 ans")
+      diagnostic --> complementaire("<b>Bilan complémentaire</b><br>—<br>- AMH<br>- Anti-TPO<br>- Sérologie cœliaque<br>- Anticorps anti-surrénaliens<br>- Écographie pelvienne<br>- Ostéodensitométrie") --> spe(Centre de Référence FIRENDO) --> traitement("<b>Traitement</b><br>—<br>- THS jusqu'à ≥ 51 ans<br>et syndrome climatérique<br>- Soutien psychologique<br>- AMP ou contraception") --> suivi("- Suivi annuel<br>- Ostéodensitométrie/5 ans")
 {{< /mermaid >}}
 
 > FSH exprimée en UI/L

@@ -261,13 +261,13 @@ graph TB
 accTitle: Conduite à tenir devant une suspicion de dermatite atopique et prise en charge de l'eczéma d'après EADV 2020, CEDEF 2021 et SFD 2005
   suspicion[Suspicion de dermatite atopique]
   style suspicion stroke:#4150f5, stroke-width:1px
-    suspicion --> criteres("<b>Critères diagnostiques</b><hr>Prurit et ≥ 3 parmi:<br>- Début &lt; 2 ans<br>- Lésions des convexités<br>- ATCD personnel d'asthme/rhinite allergique<br>- Xérose généralisée<br>- Lésions d'eczéma des plis (enfant)") --> diagnostic[Dermatite atopique]
+    suspicion --> criteres("<b>Critères diagnostiques</b><br>—<br>Prurit et ≥ 3 parmi:<br>- Début &lt; 2 ans<br>- Lésions des convexités<br>- ATCD personnel d'asthme/rhinite allergique<br>- Xérose généralisée<br>- Lésions d'eczéma des plis (enfant)") --> diagnostic[Dermatite atopique]
     style diagnostic stroke:#4150f5, stroke-width:1px
       diagnostic --> fond("- Émollients 1-2/j (1 kg/mois)<br>- Éviter les facteurs favorisants<br>- Arrêt du tabac<br>- Suivi clinique et croissance<br>- Soutien psychologique")
         fond -- Poussée --> dc("- Dermocorticoïdes<br>- Augmenter les émollients")
           dc -. Échec .-> echecs("- Résistance au traitement<br>- DA sévère")
             echecs --> spe("- Suivi spécialisé<br>- Bilan allergologique<br>- École de l'atopie")
-    suspicion -- Diagnostic différentiel --> differentiel("Dermite de contact, psoriasis,<br>lymphome cutané, gale<hr>Nourrisson: dermatite séborrhéique, gale")
+    suspicion -- Diagnostic différentiel --> differentiel("Dermite de contact, psoriasis,<br>lymphome cutané, gale<br>—<br>Nourrisson: dermatite séborrhéique, gale")
 {{< /mermaid >}}
 
 {{%/collapse%}}

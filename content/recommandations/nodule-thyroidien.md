@@ -347,14 +347,14 @@ Le suivi après cancer repose sur l'échographie cervicale. Rythme de surveillan
 {{< mermaid title="Prise en charge d'un nodule thyroïdien. Dr JB Fron d'après SFE / AFCE / SFMN 2022" >}}
 graph TB
 accTitle: Prise en charge d'un nodule thyroïdien d'après SFE/AFCE/SFMN 2022
-  clinique["<b>Nodule thyroïdien</b><hr>Quelque soit la découverte:<br>- Palpation<br>- Goitre<br>- Grossesse (écho systématique)<br>- Incidentalome<br>- Facteur de risque<br>- Enfant: suivi spécialisé"] --> TSH("TSH<br>(contrôle si anormale)")
+  clinique["<b>Nodule thyroïdien</b><br>—<br>Quelque soit la découverte:<br>- Palpation<br>- Goitre<br>- Grossesse (écho systématique)<br>- Incidentalome<br>- Facteur de risque<br>- Enfant: suivi spécialisé"] --> TSH("TSH<br>(contrôle si anormale)")
   style clinique stroke:#4150f5, stroke-width:1px
   TSH -- Normale --> échographie("Échographie si ≥ 1 parmi:<br>- Nodule palpable<br>- Gênant<br>- Compressif<br>- Incidentalome<br>- Suivi spécialisé")
     échographie --> TIRADS(EU-TIRADS ?)
     style TIRADS stroke:#4150f5, stroke-width:1px
       TIRADS --> bas("- 2<br>- 3 ≤ 20<br>- 4 ≤ 15<br>- 5 ≤ 10") --> surveillance
       TIRADS --> intermédiaire("- 3 &gt; 20<br>- 4 &gt; 15<br>- 5 &gt; 10") --> cytoponction("Cytoponction:<br><b>Bethesda</b>")
-        cytoponction --> 2(II) --> surveillance(<b>Surveillance</b><hr>EU-TIRADS 2-3-4:<br>écho à 1-2 ans<br>puis 2-4 ans + tard<br>puis tous les 4-5 ans<hr>EU-TIRADS 5:<br>écho tous les<br>1-2 ans pendant 5 ans<br>puis espacée)
+        cytoponction --> 2(II) --> surveillance(<b>Surveillance</b><br>—<br>EU-TIRADS 2-3-4:<br>écho à 1-2 ans<br>puis 2-4 ans + tard<br>puis tous les 4-5 ans<br>—<br>EU-TIRADS 5:<br>écho tous les<br>1-2 ans pendant 5 ans<br>puis espacée)
         cytoponction --> 1(I) --> contrôle(Cytoponction<br>de contrôle)
         cytoponction --> 3(III) --> contrôle
           3 -. "TSH ≤ 1" .-> envisager("± Scintigraphie")
@@ -362,7 +362,7 @@ accTitle: Prise en charge d'un nodule thyroïdien d'après SFE/AFCE/SFMN 2022
     TSH -- "&lt; 0,4 mUI/L" --> scintigraphie(Scintigraphie)
       scintigraphie --> autonome(Nodule autonome ?)
         autonome -- Non --> TIRADS
-        autonome -- Oui --> Hyperthyroïdie("TSH 0,1-0,4:<br>surveillance<hr>TSH &lt; 0,1:<br>IRAth ou chir")
+        autonome -- Oui --> Hyperthyroïdie("TSH 0,1-0,4:<br>surveillance<br>—<br>TSH &lt; 0,1:<br>IRAth ou chir")
 {{< /mermaid >}}
 
 > Taille en mm  

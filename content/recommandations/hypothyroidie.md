@@ -317,10 +317,10 @@ accTitle: Prise en charge de l'hypothyroïdie et d'une TSH augmentée d'après H
     TSH -- T4L normale --> hTFruste("Hypothyroïdie fruste<br>(Cliquer pour le chapitre dédié)")
       click hTFruste "{{< relref "hypothyroidie-fruste.md" >}}" "Ouvrir dans un onglet" _blank
     TSH -- T4L basse et symptômes --> hT(Hypothyroïdie patente)
-      hT --> bilan("<strong>Examens</strong><hr>- Aucun si +65 ans<br>- Anticorps anti-TPO<br>&plusmn; dépistage M. cœliaque<br>- Échographie cervicale<br>- ECG")
+      hT --> bilan("<strong>Examens</strong><br>—<br>- Aucun si +65 ans<br>- Anticorps anti-TPO<br>&plusmn; dépistage M. cœliaque<br>- Échographie cervicale<br>- ECG")
         bilan --> traitement(Traitement par lévothyroxine)
           traitement --> adulte("<b>Adulte</b><br>Débuter à 1,7 µg/kg/j")
-            adulte -- Fragilité --> fragile("<b>+65 ans avec TSH &gt; 20</b>: Débuter à 1,1-1,3 µg/kg/j<br>avis endoc entre 10 et 20 mUI/L<hr><b>Coronarien</b>: Débuter 12,5-25 µg/j")
+            adulte -- Fragilité --> fragile("<b>+65 ans avec TSH &gt; 20</b>: Débuter à 1,1-1,3 µg/kg/j<br>avis endoc entre 10 et 20 mUI/L<br>—<br><b>Coronarien</b>: Débuter 12,5-25 µg/j")
           traitement --> enfant("<b>Enfant</b><br>Débuter à 2 µg/kg/j")
 {{< /mermaid >}}
 

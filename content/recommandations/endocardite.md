@@ -148,8 +148,8 @@ accTitle: Recommandations pour la prise en charge des personnes à haut risque d
   fdr[Sujet à haut risque<br>d'endocardite infectieuse ?]
   style fdr stroke:#4150f5, stroke-width:1px
   fdr --> liste("≥ 1 parmi:<br>- Valve prothétique<br>- Antécédent d'endocardite<br>- Cardiopathie congénitale cyanogène,<br>shunt ou régurgitation")
-    liste -- Oui --> mesures("<b>Mesures générales</b><hr>- Éducation du patient<br>- Consulter rapidement si fièvre<br>- Soins dentaires rigoureux<br>- Désinfection des plaies<br>- Dépistage organisé des cancers<br>- Limiter les cathéters")
-      mesures -- Antibioprophylaxie --> antibioprophylaxie("Soins dentaires à haut risque:<br>Amoxicilline 2 g 30-60 min avant<hr>Pas d'antibioprophylaxie des autres gestes<br>(sauf sepsis)")
+    liste -- Oui --> mesures("<b>Mesures générales</b><br>—<br>- Éducation du patient<br>- Consulter rapidement si fièvre<br>- Soins dentaires rigoureux<br>- Désinfection des plaies<br>- Dépistage organisé des cancers<br>- Limiter les cathéters")
+      mesures -- Antibioprophylaxie --> antibioprophylaxie("Soins dentaires à haut risque:<br>Amoxicilline 2 g 30-60 min avant<br>—<br>Pas d'antibioprophylaxie des autres gestes<br>(sauf sepsis)")
 {{< /mermaid >}}
 
 {{%/collapse%}}

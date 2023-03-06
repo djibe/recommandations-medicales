@@ -240,7 +240,7 @@ En cas de bilan d'hémostase anormal, adresser au [Centre de référence de path
 
 {{< mermaid title="Prise en charge des ménorragies de l'adolescente selon CNGOF 2022" >}}
 graph TB
-  adolescente[Ménorragies de l'adolescente] --> bilan("Bilan biologique<hr>- NFS ± hCG ± TSH<br>- TP, TCA, fibrinogène<br>- VWF:Ag, VWF:Act, Facteur VIII:C")
+  adolescente[Ménorragies de l'adolescente] --> bilan("Bilan biologique<br>—<br>- NFS ± hCG ± TSH<br>- TP, TCA, fibrinogène<br>- VWF:Ag, VWF:Act, Facteur VIII:C")
   style adolescente stroke:#4150f5, stroke-width:1px
     bilan -- Normal --> imagerie(Imagerie?) -- Normale --> traitement("- COP, DIU-LNG<br>- Acide tranexamique")
       imagerie -- Anormale --> specialiste(Traitement spécifique)
@@ -264,7 +264,7 @@ graph TB
     myome --> conservation(Conservation de<br>la fertilité)
       conservation -- Médical --> medical(aGnRH<br>ou DIU-LNG)
       conservation -- Chirurgical --> chirurgical(Embolisation<br>Myomectomie)
-    myome --> sterilisation(Stérilisation<hr>- DIU-LNG<br>- Embolisation<br>- Myomectomie<br>- Endométrectomie)
+    myome --> sterilisation(Stérilisation<br>—<br>- DIU-LNG<br>- Embolisation<br>- Myomectomie<br>- Endométrectomie)
     myome -- Non/indifférence --> hystérectomie(Hystérectomie)
 {{< /mermaid >}}
 

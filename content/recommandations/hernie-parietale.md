@@ -148,7 +148,7 @@ graph TB
 accTitle: Conduite à tenir et prise en charge d'une hernie pariétale d'après HAS et Collèges
   hernie[Hernie pariétale]
   style hernie stroke:#4150f5, stroke-width:1px
-    hernie --> etranglement("<b>Étranglement ?</b><hr>- Douleurs intenses<br>- Hernie irréductible<br>- Syndrome occlusif")
+    hernie --> etranglement("<b>Étranglement ?</b><br>—<br>- Douleurs intenses<br>- Hernie irréductible<br>- Syndrome occlusif")
       etranglement -- Non --> clinique(Examen clinique détaillé)
         clinique --> inguinale(Inguinale ou crurale) --> chirurgie(Chirurgie)
         clinique --> ombilicale(Ombilicale<br>- Attendre les 3 ans<br>ou 7 si enfant noir) -.-> chirurgie

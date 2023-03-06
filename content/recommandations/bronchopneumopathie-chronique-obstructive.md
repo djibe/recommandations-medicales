@@ -566,10 +566,10 @@ IMC (< 21), perte de poids, santé bucco-dentaire.
 {{< mermaid title="Prise en charge de la BPCO, diagnostique et thérapeutique. Dr JB Fron d'après SPLF, ERS et GOLD 2022" >}}
 graph TB
 accTitle: Prise en charge de la BPCO (bronchopneumopathie chronique obstructive) d'après SPLF, ERS et GOLD 2022
-  depister["<strong>Dépister</strong><hr>- Mini spiromètre<br>- Questionnaire GOLD<br>- ≥ 40 ans avec ≥ 1 parmi:<br>tabagisme, env. pollué,<br>chauffage charbon/bois,<br>exposition professionnelle,<br>toux chronique, expectorations,<br>dyspnée"]
+  depister["<strong>Dépister</strong><br>—<br>- Mini spiromètre<br>- Questionnaire GOLD<br>- ≥ 40 ans avec ≥ 1 parmi:<br>tabagisme, env. pollué,<br>chauffage charbon/bois,<br>exposition professionnelle,<br>toux chronique, expectorations,<br>dyspnée"]
   style depister stroke:#4150f5, stroke-width:1px
-    depister --> spirometrie("- Spirométrie avec test de réversibilité<hr>- Évaluation dyspnée: CAT&trade;, échelle mMRC<br>- NFS, glycémie, lipides, Radio thorax<br>- Consultations pneumo et cardio")
-      spirometrie -- TVO non réversible --> rhd("<strong>Mesures générales</strong><hr>- Sevrage tabagique<br>- Vaccin covid-19, grippe, pneumo<br>- Activité physique<br>- Réadaptation respiratoire<br>- Équilibre diététique<br>- Traitement des comorbidités")
+    depister --> spirometrie("- Spirométrie avec test de réversibilité<br>—<br>- Évaluation dyspnée: CAT&trade;, échelle mMRC<br>- NFS, glycémie, lipides, Radio thorax<br>- Consultations pneumo et cardio")
+      spirometrie -- TVO non réversible --> rhd("<strong>Mesures générales</strong><br>—<br>- Sevrage tabagique<br>- Vaccin covid-19, grippe, pneumo<br>- Activité physique<br>- Réadaptation respiratoire<br>- Équilibre diététique<br>- Traitement des comorbidités")
         rhd --> bdca("Bronchodilatateur de courte durée<br>en cas de gêne")
           bdca -- "Dyspnée ou exacerbation*" --> bdla("1 bronchodilatateur de longue durée<br>LABA ou LAMA en cas d'exacerbations")
             bdla -- Dyspnée --> bitherapie(Association LABA + LAMA)

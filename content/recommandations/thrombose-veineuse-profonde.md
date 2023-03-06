@@ -293,7 +293,7 @@ graph TB
         doppler -- Négatif --> differentiel(Diagnostic autre)
         doppler -- Positif --> certitude[TVP certaine]
           style certitude stroke:#4150f5, stroke-width:1px
-          certitude --> critereHospi("<b>Critères d'hospitalisation ?</b><hr>- TVP bilatérale<br>- Survenue sous anticoagulants/TIH<br>- Hémorragie active<br>- IRC sévère<br>- Cancer ou comorbidités<br>- Contexte social/isolement")
+          certitude --> critereHospi("<b>Critères d'hospitalisation ?</b><br>—<br>- TVP bilatérale<br>- Survenue sous anticoagulants/TIH<br>- Hémorragie active<br>- IRC sévère<br>- Cancer ou comorbidités<br>- Contexte social/isolement")
             critereHospi -- Non --> scoreHemorragique("Score hémorragique RIETE<br>à risque élevé ?")
               scoreHemorragique -- Non --> anticoag(Anticoagulation 3 mois)
               scoreHemorragique -- Oui --> hospit

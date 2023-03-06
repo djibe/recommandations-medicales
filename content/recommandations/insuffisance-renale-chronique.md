@@ -457,7 +457,7 @@ Connaître les signes et symptômes de la MRC et savoir qui prévenir.
 
 {{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge de la maladie rénale chronique. Dr JB Fron d'après HAS 2021 et KDIGO" >}}
 graph TB
-fdr["<b>Personne à risque</b><hr>- HTA, diabète<br>- Obésité<br>- Athérome<br>- Insuffisance cardiaque<br>- Maladie de système<br>- Pathologie urologique<br>- ATCD familial d'IRC évolutive<br>- Exposition professionnelle<br>- Néphrotoxiques"] --> 2(Bilan annuel)
+fdr["<b>Personne à risque</b><br>—<br>- HTA, diabète<br>- Obésité<br>- Athérome<br>- Insuffisance cardiaque<br>- Maladie de système<br>- Pathologie urologique<br>- ATCD familial d'IRC évolutive<br>- Exposition professionnelle<br>- Néphrotoxiques"] --> 2(Bilan annuel)
 style fdr stroke:#4150f5, stroke-width:1px
   2 --> 3N(Normal)
     3N --> 2
@@ -467,7 +467,7 @@ style fdr stroke:#4150f5, stroke-width:1px
     Normal --> 2
   4 --> Anormal
   Anormal --> bilan("Bilan initial de la MRC + Stade<br>voir Examens complémentaires")
-  bilan --> nephroprotection("<strong>Néphroprotection maximale</strong><hr>- Lutte FRCV<br>- Éviction néphrotoxiques<br>- Adaptation des posologies<br>- Risque cardiovasculaire (très) élevé<br>- &lt; 5g sel/j<br>- PA &lt; 120/90 mmHg<br>- LDL &lt; 0,7 g/L<br>- Albuminurie cible &lt; 30 mg/mmol<br>- Vaccin grippe, pneumo, Covid, VHB<br>- Ferritinémie +100 ng/mL")
+  bilan --> nephroprotection("<strong>Néphroprotection maximale</strong><br>—<br>- Lutte FRCV<br>- Éviction néphrotoxiques<br>- Adaptation des posologies<br>- Risque cardiovasculaire (très) élevé<br>- &lt; 5g sel/j<br>- PA &lt; 120/90 mmHg<br>- LDL &lt; 0,7 g/L<br>- Albuminurie cible &lt; 30 mg/mmol<br>- Vaccin grippe, pneumo, Covid, VHB<br>- Ferritinémie +100 ng/mL")
   nephroprotection -- stade 3B+ --> avis(Suivi néphrologique)
 {{< /mermaid >}}
 

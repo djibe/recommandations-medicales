@@ -339,9 +339,9 @@ accTitle: Prise en charge d'une pyélonéphrite en ambulatoire d'après HAS 2021
   pna[Pyélonéphrite aiguë] --> gravite("Gravité, grossesse ou obstacle ?<br>- qSOFA ≥ 2<br>- Choc septique")
   style pna stroke:#4150f5, stroke-width:1px
   gravite -- Non --> homme(Homme ?)
-    homme -- Non --> complication("<b>Facteur de risque<br>de complication ?</b><hr>- Uropathie<br>- Acte uro récent<br>- +75 ans<br>- +65 ans avec 3 fragilités<br>- IRC sévère<br>- Immunodépression grave")
+    homme -- Non --> complication("<b>Facteur de risque<br>de complication ?</b><br>—<br>- Uropathie<br>- Acte uro récent<br>- +75 ans<br>- +65 ans avec 3 fragilités<br>- IRC sévère<br>- Immunodépression grave")
       complication -- Non --> simple(PNA simple)
-      complication -- Oui --> arisque(PNA à risque de complication<hr>- Biologie<br>- Uroscanner urgent)
+      complication -- Oui --> arisque(PNA à risque de complication<br>—<br>- Biologie<br>- Uroscanner urgent)
     homme -- Oui --> masculine(IU masculine)
   gravite -- Oui --> urgences(Urgences)
 {{< /mermaid >}}

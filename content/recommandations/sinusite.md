@@ -230,7 +230,7 @@ Prélèvements bactériologiques, scanner, antibiothérapie intraveineuse urgent
 
 {{< mermaid title="Prise en charge d'une sinusite aiguë purulente. Dr JB Fron d'après SPILF et HAS 2021" >}}
 graph TB
-  sinusite[Sinusite] --> maxillaire("Sinusite maxillaire si<hr>- diagnostic certain<br>- échec ttt sympt 3j<br>- infection dentaire sup homolat<br>- RPA &gt; 10j sans amélioration")
+  sinusite[Sinusite] --> maxillaire("Sinusite maxillaire si<br>—<br>- diagnostic certain<br>- échec ttt sympt 3j<br>- infection dentaire sup homolat<br>- RPA &gt; 10j sans amélioration")
   style sinusite stroke:#4150f5, stroke-width:1px
     maxillaire --> dentaire(Avis odontologique)
     maxillaire -.-> atb(Antibiothérapie selon l'âge)

@@ -227,8 +227,8 @@ graph TB
   style prurit stroke:#4150f5, stroke-width:1px
     examen --> orientation("Signes évocateurs <br>de pathologie ?")
       orientation -- Oui --> tttSpe(Traitement spécifique)
-      orientation -- Non --> bilan("<b>Prurit nu: éliminer un lymphome</b><hr>- NFS, ferritine<br>- BH, BR, TSH<br>- Sérologies VIH et hépatites<br>- Électrophorèse<br>- RxT, écho abdo")
-    examen --> etiologie("<b>Causes principales</b><hr>- Gale, poux<br>- Dermatite atopique/contact<br>- Urticaire<br>- Psoriasis<br>- Lichen<br>- Pemphigoïde<br>- Autres")
+      orientation -- Non --> bilan("<b>Prurit nu: éliminer un lymphome</b><br>—<br>- NFS, ferritine<br>- BH, BR, TSH<br>- Sérologies VIH et hépatites<br>- Électrophorèse<br>- RxT, écho abdo")
+    examen --> etiologie("<b>Causes principales</b><br>—<br>- Gale, poux<br>- Dermatite atopique/contact<br>- Urticaire<br>- Psoriasis<br>- Lichen<br>- Pemphigoïde<br>- Autres")
 {{< /mermaid >}}
 
 {{% /collapse %}}

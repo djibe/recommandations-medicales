@@ -553,10 +553,10 @@ Privilégier un traitement transdermique en continu à la plus faible dose possi
 graph TB
   cephalees[Céphalées récidivantes] --> ichd3(Critères ICHD3)
   style cephalees stroke:#4150f5, stroke-width:1px
-    ichd3 == "Migraine sans aura (MSA)" ==> generales("<strong>Mesures générales</strong><hr>- Agenda migraineux<br>- Retentissement HIT-6, HAD<br>- Arrêt du tabac<br>- Facteur déclenchants identifiés")
-      generales --> crise("<strong>Traitement de la crise</strong><hr>- Légère: AINS &plusmn; triptan H1<br>- Modérée à sévère<br>triptan &plusmn; AINS H1")
+    ichd3 == "Migraine sans aura (MSA)" ==> generales("<strong>Mesures générales</strong><br>—<br>- Agenda migraineux<br>- Retentissement HIT-6, HAD<br>- Arrêt du tabac<br>- Facteur déclenchants identifiés")
+      generales --> crise("<strong>Traitement de la crise</strong><br>—<br>- Légère: AINS &plusmn; triptan H1<br>- Modérée à sévère<br>triptan &plusmn; AINS H1")
       crise -- Réévaluation --> reevaluation("Après 3 crises:<br>M-TOQ et<br>adaptation du traitement") --> crise
-      reevaluation --> chronique("Crise ou traitement de crise<br>≥ 8 j/mois<br>ou score HIT-6 ≥ 60<br>ou arrêt total des activités ≥ 50%<br>ou crises invalidantes<br>malgré traitement optimal ?") -- Oui --> fond("<strong>Traitement de fond</strong><hr>Essayer ≥ 3 mois:<br>propranolol ou métoprolol<br>pour réduire le nb de jours<br>de céphalées ≥ 50%") --> neuro("Suivi neuro si migraine<br>résistante/réfractaire<br>ou sévère")
+      reevaluation --> chronique("Crise ou traitement de crise<br>≥ 8 j/mois<br>ou score HIT-6 ≥ 60<br>ou arrêt total des activités ≥ 50%<br>ou crises invalidantes<br>malgré traitement optimal ?") -- Oui --> fond("<strong>Traitement de fond</strong><br>—<br>Essayer ≥ 3 mois:<br>propranolol ou métoprolol<br>pour réduire le nb de jours<br>de céphalées ≥ 50%") --> neuro("Suivi neuro si migraine<br>résistante/réfractaire<br>ou sévère")
         chronique -- Non --> pasFond(Pas de traitement<br>de fond)
     ichd3 -- Migraine avec aura --> aura("- Contre-indication<br>aux estrogènes<br>- Mesures générales idem<br>- Crise: AINS dès aura<br>et triptan dès céphalée<br>- Traitement de fond idem<br>- IRM si aura atypique<br>- Suivi neuro si aura atypique/sévère<br>ou migraine sévère")
     ichd3 -- Diagnostic différentiel --> differentiel("- Abus médicamenteux<br>- Céphalées de tension<br>- Névralgie Arnold<br>- Sinusite aiguë<br>- Orthoptie<br>- Algies vasculaires<br>- Névralgie du trijumeau<br>- Autres")

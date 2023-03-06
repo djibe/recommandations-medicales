@@ -427,13 +427,13 @@ La recherche fécale de *H. pylori* est une alternative au test respiratoire pou
 {{< mermaid title="Prise en charge de l'infection à Helicobacter pylori avec résultat d'antibiogramme. Dr JB Fron d'après GEFH 2021" >}}
 graph TB
 accTitle: Prise en charge de l'infection à Helicobacter pylori avec résultat d'antibiogramme d'après GEFH 2021
-  asymptomatique["<b>Asymptomatique</b><hr>- &lt; 45 ans et ATCD K gastrique 1<sup>er</sup> degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie("Sérologie <em>H. pylori</em> ")
+  asymptomatique["<b>Asymptomatique</b><br>—<br>- &lt; 45 ans et ATCD K gastrique 1<sup>er</sup> degré<br>- ATCD ulcère sans preuve éradication<br>- Purpura thomboP immunologique"] --> serologie("Sérologie <em>H. pylori</em> ")
   style asymptomatique stroke:#4150f5, stroke-width:1px
     serologie -- Négative --> indemne(Pas d'infection active)
     serologie -- Positive/Douteuse --> gastro
-  suspicion["<b>Symptomatique</b><hr>- Suspicion d'ulcère<br>- Dyspepsie chez &gt; 40 ans<br>- Signe d'alarme"] --> gastro("<b>Gastro-entérologue</b><br>EOGD")
+  suspicion["<b>Symptomatique</b><br>—<br>- Suspicion d'ulcère<br>- Dyspepsie chez &gt; 40 ans<br>- Signe d'alarme"] --> gastro("<b>Gastro-entérologue</b><br>EOGD")
   style suspicion stroke:#4150f5, stroke-width:1px
-  suspect["<b>Comorbidités</b><hr>- ≥ 45 ans avec ATCD K gastrique 1er degré<br>- Anémie ferriprive ou B12 sans cause<br>- Lymphome gastrique du MALT<br>- Chirurgie bariatrique"] --> gastro
+  suspect["<b>Comorbidités</b><br>—<br>- ≥ 45 ans avec ATCD K gastrique 1er degré<br>- Anémie ferriprive ou B12 sans cause<br>- Lymphome gastrique du MALT<br>- Chirurgie bariatrique"] --> gastro
   style suspect stroke:#4150f5, stroke-width:1px
     gastro -- H. pylori + ---> grossesse("Grossesse ou<br>allaitement ?")
       grossesse == Non ===> antibiogramme("<b>Antibiogramme</b><br>Sensible clarithromycine?")
@@ -441,7 +441,7 @@ accTitle: Prise en charge de l'infection à Helicobacter pylori avec résultat d
           triAmox ===> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et ≥ 2 semaines sans IPP")
         antibiogramme -- Résistant --> levofloS("Sensible lévofloxacine ?")
           levofloS -- Sensible --> levoflo("<b>Trithérapie 14j</b><br>IPP + amoxicilline<br>+ lévofloxacine") --> controle
-          levofloS -- Résistant --> levofloR("<b>Quadrithérapie 10j</b><br>Oméprazole + Bismuth<hr>OU IPP + amoxicilline<br>+ métronidazole 14j") --> controle
+          levofloS -- Résistant --> levofloR("<b>Quadrithérapie 10j</b><br>Oméprazole + Bismuth<br>—<br>OU IPP + amoxicilline<br>+ métronidazole 14j") --> controle
           controle -- Négatif --> ok(Bactérie éradiquée)
           controle -- Positif --> bismuth("Oméprazole + Bismuth 10j<br>&#40;si non utilisé&#41;")
             bismuth --> controle2(Test respiratoire)
@@ -463,7 +463,7 @@ accTitle: Prise en charge de l'infection à Helicobacter pylori sans antibiogram
       choix -- "Alternative 2 ou<br>allergie pénicilline" --> bismuth("<b>Quadrithérapie<br>bismuthée 10j</b>")
         bismuth --> controle
           controle -- Négatif --> ok(Bactérie éradiquée)
-          controle -- Positif ---> switch(Privilégier une EOGD<hr>Voire traitement alternatif)
+          controle -- Positif ---> switch(Privilégier une EOGD<br>voire traitement alternatif)
             switch -- Traitement alternatif --> surv("<b>Test respiratoire</b>")
               surv -- Négatif --> ok2(Bactérie éradiquée)
               surv -- Positif --> EOGD(EOGD)

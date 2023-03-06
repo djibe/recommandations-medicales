@@ -113,7 +113,7 @@ Hypothyroïdie fruste et grossesse:
 {{< mermaid title="Prise en charge de l'hypothyroïdie fruste. Dr JB Fron d'après HAS 2019" >}}
 graph TB
 accTitle: Prise en charge de l'hypothyroïdie fruste d'après HAS 2019
-  decouverte[TSH augmentée] -- Contrôle à 1 mois + T4L--> TSH[TSH augmentée] -- T4L normale --> hTFruste(Hypothyroïdie fruste) --> anomalies("<b>Anomalies?</b><hr>- TSH &gt; 10<br>- Anticorps anti-TPO+<br>- Grossesse et TSH &gt; 4<br>- Clinique d'hypothyroïdie") -- Oui --> traitement(Traitement par lévothyroxine)
+  decouverte[TSH augmentée] -- Contrôle à 1 mois + T4L--> TSH[TSH augmentée] -- T4L normale --> hTFruste(Hypothyroïdie fruste) --> anomalies("<b>Anomalies?</b><br>—<br>- TSH &gt; 10<br>- Anticorps anti-TPO+<br>- Grossesse et TSH &gt; 4<br>- Clinique d'hypothyroïdie") -- Oui --> traitement(Traitement par lévothyroxine)
   style decouverte stroke:#4150f5, stroke-width:1px
   TSH -- T4L basse --> hT(Hypothyroïdie patente)
     click hT "{{< relref "hypothyroidie.md" >}}" "Ouvrir dans un onglet" _blank

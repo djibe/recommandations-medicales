@@ -554,13 +554,13 @@ Réévaluation de la prise en charge avec ostéodensitométrie 2 ans après l'ar
 
 {{< mermaid title="Dépistage et prise en charge de l'ostéoporose en l'absence d'antécédent de fracture osseuse. JB Fron d'après SFRhumato 2018" >}}
 graph TB
-  menopause["<b>Ménopause et ≥ 1 parmi:</b><br>- Fracture fragilité chez parent<br>- IMC &lt; 19<br>- Ménopause précoce<br>- FRAX &gt; seuil pour l'âge<br>- Contrôle à 3-5 ans de DXA sans ttt<hr>- Sujet âgé à risque de chute<br>- Corticothérapie prolongée<br>(voir chapitre <em>Traitements</em>)<br>- Endocrinopathie ou<br>pathologie déminéralisante<br>- Maladie cœliaque"]
+  menopause["<b>Ménopause et ≥ 1 parmi:</b><br>- Fracture fragilité chez parent<br>- IMC &lt; 19<br>- Ménopause précoce<br>- FRAX &gt; seuil pour l'âge<br>- Contrôle à 3-5 ans de DXA sans ttt<br>—<br>- Sujet âgé à risque de chute<br>- Corticothérapie prolongée<br>(voir chapitre <em>Traitements</em>)<br>- Endocrinopathie ou<br>pathologie déminéralisante<br>- Maladie cœliaque"]
   style menopause stroke:#4150f5, stroke-width:1px
     menopause --> DXA(Ostéodensitométrie:<br>T-score<br>puis calcul du FRAX)
       DXA -- "≤ -2,5" --> Ostéoporose --> prev("- Mesures de prévention<br>- Bilan biologique<br>- T-score ?")
       style Ostéoporose stroke:#4150f5, stroke-width:1px
-        prev -- "≤ -3" --> traitement("<b>Traitement osseux</b><hr>Biphosphonate,<br>raloxifène, THM<br>ou romosozumab")
-        prev -- "Entre -2 et -3" --> avis("Traitement osseux si:<br>FRAX dépasse le seuil<hr>Avis rhumatologique")
+        prev -- "≤ -3" --> traitement("<b>Traitement osseux</b><br>—<br>Biphosphonate,<br>raloxifène, THM<br>ou romosozumab")
+        prev -- "Entre -2 et -3" --> avis("Traitement osseux si:<br>FRAX dépasse le seuil<br>—<br>Avis rhumatologique")
       DXA -- "Entre -2,5 et -1" --> osteopenie(Ostéopénie) --> prevention("- Mesures de prévention<br>- Bilan biologique") -. "-2,5 à -2" .-> avis
       prevention --> recontrole("Réévaluation<br>à 3-5 ans")
 {{< /mermaid >}}
@@ -575,10 +575,10 @@ graph TB
   fracture[Fracture osseuse]
   style fracture stroke:#4150f5, stroke-width:2px
   fracture ==> bilan("- Facteurs de risque (chute, fracture)<br>- Bilan différentiel<br>- Mesures de prévention<br>- Ostéodensitométrie")
-    bilan ==> severe("<b>Fracture sévère ?</b><hr>- Extrem sup fémur/humérus<br>- Vertèbre<br>- Pelvis, bassin, sacrum<br>- Diaphyse fémorale<br>- Fémur distal<br>- 3 côtes simultanées<br>- Tibia proximal")
-      severe -- Oui vertébrale --> traitementVertebre("<b>T-score ≤ -1</b><br>Biphosphonate<br>raloxifène, THM,<br> tériparatide<br>ou romosozumab<hr><b>T-score &gt; -1</b><br>Avis rhumatologique") -- 3 ans --> DXA
-      severe -- Oui --> traitement("<b>T-score ≤ -1</b><br>Alendronate,<br>risédronate<br>ou romosozumab<hr><b>T-score &gt; -1</b><br>Avis rhumatologique<hr><b>FESF ou T-score ≤ -3</b><br>Zolédronate IV") -- 3 ans --> DXA("Ostéodensitométrie<br>et avis rhumatologique")
-      severe -- Non sévère --> nonSevere("Tenir compte du FRAX<hr><b>T-score ≤ -2</b><br>Biphosphonate,<br>raloxifène, THM<br>ou romosozumab<hr><b>T-score entre -2 et -1</b><br>Avis rhumatologique") -- 3 ans --> DXA
+    bilan ==> severe("<b>Fracture sévère ?</b><br>—<br>- Extrem sup fémur/humérus<br>- Vertèbre<br>- Pelvis, bassin, sacrum<br>- Diaphyse fémorale<br>- Fémur distal<br>- 3 côtes simultanées<br>- Tibia proximal")
+      severe -- Oui vertébrale --> traitementVertebre("<b>T-score ≤ -1</b><br>Biphosphonate<br>raloxifène, THM,<br> tériparatide<br>ou romosozumab<br>—<br><b>T-score &gt; -1</b><br>Avis rhumatologique") -- 3 ans --> DXA
+      severe -- Oui --> traitement("<b>T-score ≤ -1</b><br>Alendronate,<br>risédronate<br>ou romosozumab<br>—<br><b>T-score &gt; -1</b><br>Avis rhumatologique<br>—<br><b>FESF ou T-score ≤ -3</b><br>Zolédronate IV") -- 3 ans --> DXA("Ostéodensitométrie<br>et avis rhumatologique")
+      severe -- Non sévère --> nonSevere("Tenir compte du FRAX<br>—<br><b>T-score ≤ -2</b><br>Biphosphonate,<br>raloxifène, THM<br>ou romosozumab<br>—<br><b>T-score entre -2 et -1</b><br>Avis rhumatologique") -- 3 ans --> DXA
     bilan -- Biologie anormale --> avisSpe
   fracture -- Non ostéoporotique --> nonOsteoporotique("- Crâne, face<br>- Rachis cervical + T1-T3<br>- Mains et orteils") --> etiologique(Bilan étiologique) --> avisSpe(Avis rhumatologique)
 {{< /mermaid >}}

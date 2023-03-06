@@ -360,7 +360,7 @@ Corticoïdes = 30 mg/j prednisone 3-5 jours.
 {{< mermaid title="Conduite à tenir pour le traitement hypouricémiant de fond du patient goutteux. Dr JB Fron d'après SFR et ACR 2020" >}}
 graph TB
 accTitle: Prise en charge de la goutte par traitement de fond d'après SFR et ACR 2020
-  diagnostic[Diagnostic de goutte] --> education(<b>Éducation</b><hr>- Traitement sur soi<br>- RHD) --> criteres("<b>Critères de traitement</b><hr>- SFRhumato: dès la 1<sup>re</sup> crise<br>- ACR:<br>≥ 1 tophus, lésions radiologiques,<br>≥ 2 crises/an,<br>critères annexes (Voir ttt fond)")
+  diagnostic[Diagnostic de goutte] --> education(<b>Éducation</b><br>—<br>- Traitement sur soi<br>- RHD) --> criteres("<b>Critères de traitement</b><br>—<br>- SFRhumato: dès la 1<sup>re</sup> crise<br>- ACR:<br>≥ 1 tophus, lésions radiologiques,<br>≥ 2 crises/an,<br>critères annexes (Voir ttt fond)")
   style diagnostic stroke:#4150f5, stroke-width:1px
     criteres -- Oui --> clairance(Évaluation clairance et<br>cardiovasculaire)
       clairance -- Sans comorbidités --> allopurinol(Allopurinol 50<br>à 100 mg/j) --> prophylaxie("Associer la prophylaxie:<br>colchicine 0,5 à 1 mg/j ≥ 3-6 mois<br>(prednisone si insuff. rénale")

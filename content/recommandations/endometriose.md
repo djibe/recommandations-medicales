@@ -283,7 +283,7 @@ Mise en place en cours des [Centres experts de l'endométriose](https://www.endo
 {{< mermaid title="Conduite à tenir et prise en charge d'une suspicion d'endométriose. Dr JB Fron d'après ACOG 2018 et CNGOF/HAS 2017" >}}
 graph TB
 accTitle: Conduite à tenir et prise en charge d'une suspicion d'endométriose d'après ACOG 2018 et CNGOF/HAS 2017
-  endometriose["<b>Suspicion d'endométriose</b><hr>- Dysménorrhées intenses<br>- Dyspareunies<br>- Douleurs pelviennes<br>non menstruelles<br>- Infertilité"] --> clinique("- Symptômes<br>- Évaluation du retentissement<br>(EAN, EHP-5, absentéisme)<br>- Examen gynécologique<br>- Échographie pelvienne")
+  endometriose["<b>Suspicion d'endométriose</b><br>—<br>- Dysménorrhées intenses<br>- Dyspareunies<br>- Douleurs pelviennes<br>non menstruelles<br>- Infertilité"] --> clinique("- Symptômes<br>- Évaluation du retentissement<br>(EAN, EHP-5, absentéisme)<br>- Examen gynécologique<br>- Échographie pelvienne")
   style endometriose stroke:#4150f5, stroke-width:1px
     clinique --> indicationsBilan("- Signes d'endométriose profonde ?<br>(dyspareunies, dl défécation, SFU)<br>- Infertilité ?<br>- Endométriome en écho ?")
       indicationsBilan -- Non --> souhaitGrossesse(Souhait de grossesse&nbsp;?)
@@ -291,7 +291,7 @@ accTitle: Conduite à tenir et prise en charge d'une suspicion d'endométriose d
           contraception -- Efficace --> poursuite(Poursuite sans bilan)
           contraception -- Résistance --> bilan
         souhaitGrossesse -- Oui --> bilan
-      indicationsBilan -- Oui --> bilan("<b>Bilan d'endométriose profonde</b><hr>- IRM pelvienne<br>&#177; Échographie endovaginale")
+      indicationsBilan -- Oui --> bilan("<b>Bilan d'endométriose profonde</b><br>—<br>- IRM pelvienne<br>&#177; Échographie endovaginale")
         bilan --> specialiste(Avis gynécologique)
 {{< /mermaid >}}
 
