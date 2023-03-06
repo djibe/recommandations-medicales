@@ -193,10 +193,10 @@ En cas de Maladie de Hashimoto, rechercher une [maladie cœliaque associée]({{<
 
 ### Échographie cervicale
 
-Indications: nodule ou adénopathie palpable, signes de compression, palpation difficile, facteur de risque de cancer de la thyroïde (*HAS 2021*).
+Indications: [nodule thyroïdien]({{< relref "nodule-thyroidien.md" >}}) ou adénopathie palpable, signes de compression, palpation difficile, facteur de risque de cancer de la thyroïde (*HAS 2021*).
 {{%/info%}}
 
-Pas d'indication à la scintigraphie en hypothyroïdie.
+Pas d'indication à la scintigraphie en cas d'hypothyroïdie.
 
 ### ECG
 

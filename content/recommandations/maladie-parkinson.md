@@ -6,8 +6,8 @@ longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-04T21:22:54+01:00"
-publishdate = "2023-02-20"
-lastmod = "2023-02-20"
+publishdate = "2023-03-06"
+lastmod = "2023-03-06"
 specialites = ["neurologie"]
 annees = "2016"
 sources = ["HAS", "EFNS"]
@@ -19,7 +19,7 @@ draft = true
 image = false
 imageSrc = ""
 flowchart = true
-todo = "ttt dans modal, College, Prescrire, American Academy of Neurology, HAS 2016 chap6.3 + 7 + p73, adapt doses, pec dystonie/confusion/hallucinations"
+todo = "ttt dans modal, Prescrire, American Academy of Neurology, HAS 2016 chap6.3 + 7 + p73, adapt doses, pec dystonie/confusion/hallucinations"
 +++
 
 {{%article-summary%}}
@@ -30,12 +30,10 @@ TODO:
 {{%collapse "Définition" %}}
 
 Maladie de Parkinson idiopathique (MPI)
-: Maladie dégénérative de cause inconnue touchant les systèmes dopaminergiques, cholinergiques, noradrénergiques et sérotoninergiques.
-Première cause de syndrome parkinsonien,
-2e maladie neurodégénérative (derrière Alzheimer)
-: Le diagnostic de certitude est histologique (et donc autopsique).
+: Maladie dégénérative de cause inconnue touchant les systèmes dopaminergiques, cholinergiques, noradrénergiques et sérotoninergiques. Le diagnostic de certitude est histologique (et donc autopsique).
+: Première cause de syndrome parkinsonien et 2<sup>e</sup> maladie neurodégénérative (derrière Alzheimer).
 
-FDR de chute
+TODO: FDR de chute
 
 Tremblement essentiel
 : Début soit jeune à 15 ans ou plus tard vers 50 ans, fréquent, souvent bilatéral et symétrique, 4-10 Hz, tremblement d'action postural ou cinétique sans tremblement de repos. Déclenchement immédiat du tremblement postural.
@@ -51,12 +49,12 @@ Bradykinésie
 : Lenteur du mouvement
 
 Hypokinésie
-: Pauvreté du mouvement
+: Pauvreté du mouvement (réduction d'amplitude)
 {.dl-inline}
 
 ### Évolution de la Maladie de Parkinson
 
-Évolution en 4 phases:
+Évolution de la maladie de Parkinson en 4 phases:
 
 1. Début  
   Perception du retentissement, adaptation à la maladie et au traitement.
