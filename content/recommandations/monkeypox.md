@@ -1,7 +1,7 @@
 +++
 title = "Variole du singe (Monkeypox ou mpox)"
 prefix = "la "
-titleSeo = "Variole du singe (Monkeypox, mpox)"
+titleSeo = "Variole du singe (Monkeypox)"
 description = "Recommandations pour la prise en charge du Monkeypox. Personnes à vacciner contre la variole du singe, traitement avec isolement, déclaration obligatoire"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

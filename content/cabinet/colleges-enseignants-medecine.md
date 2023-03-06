@@ -1,5 +1,6 @@
 +++
 title = "Livres des Collèges des enseignants de médecine gratuits"
+titleSeo = "Collèges des enseignants de médecine gratuits"
 description = "Liens vers les collèges des enseignants de médecine de deuxième cycle gratuits: infectiologie (CMIT, Pilly), dermatologie (CEDEF), gastro-entérologie ..."
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-14T16:20:00+02:00"
