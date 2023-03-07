@@ -15,9 +15,9 @@ tags = ["grossesse"]
 anglais = ["Hyperemesis gravidarum", "excessive vomiting in pregnancy"]
 sctid = "14094001"
 icd10 = "O21.9"
+image = true
+imageSrc = "Les vomissements pendant la grossesse. Photo de senivpetro sur Freepik"
 flowchart = true
-image = false
-imageSrc = ""
 todo = "annexe 6"
 +++
 
