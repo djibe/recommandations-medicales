@@ -1,8 +1,8 @@
 +++
-title = "Bronchopneumopathie chronique obstructive"
+title = "Bronchopneumopathie chronique obstructive (BPCO)"
 prefix = "la "
-titleSeo = "BPCO"
-description = "Recommandations pour le diagnostic et le traitement de la Bronchopneumopathie chronique obstructive BPCO. EFR, traitement de fond et de crise corticoïdes..."
+titleSeo = "Bronchopneumopathie chronique BPCO"
+description = "Recommandations pour le diagnostic et le traitement de la Bronchopneumopathie chronique obstructive (BPCO). EFR, traitement de fond et de crise corticoïdes ..."
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

@@ -164,13 +164,13 @@ accTitle: Prise en charge de la dermatite séborrhéique d'après CEDEF 2017 et 
   suspicion[Suspicion de dermatite séborrhéique] --> diagnostic(Diagnostic clinique<br>de DS)
   style suspicion stroke:#4150f5, stroke-width:1px
   suspicion -- Diagnostic différentiel --> differentiel(Psoriasis<br>Rosacée<br>Dermatite atopique<br>Syphilis)
-  diagnostic --> scalp(Cuir chevelu<br>—<br>Ciclopirox shampooing 1%<br>OU kétoconazole gel 2%)
-  diagnostic --> face(Face et tronc<br>—<br>Kétoconazole gel/crème 2% x 2/sem<br>OU ciclopirox crème 1% x 2/j)
-  diagnostic --> grossesse(Grossesse<br>—<br>Kétoconazole<br>gel/crème<br>2% x 2/sem)
-    scalp --> attaque(<b>Phase d'attaque</b><br>Traitement 2 à 4 sem)
+  diagnostic --> scalp("Cuir chevelu<br>—<br>Ciclopirox shampooing 1%<br>OU kétoconazole gel 2%")
+  diagnostic --> face("Face et tronc<br>—<br>Kétoconazole gel/crème 2% x 2/sem<br>OU ciclopirox crème 1% x 2/j")
+  diagnostic --> grossesse("Grossesse<br>—<br>Kétoconazole<br>gel/crème<br>2% x 2/sem")
+    scalp --> attaque("<b>Phase d'attaque</b><br>Traitement 2 à 4 sem")
     face --> attaque
-      attaque --> entretien(<b>Phase d'entretien</b><br>2 à 4 applications/mois)
-        entretien -.-> severe(Sévère et résistant<br>—<br>Sérologie VIH<br>Avis dermatologique)
+      attaque --> entretien("<b>Phase d'entretien</b><br>2 à 4 applications/mois")
+        entretien -.-> severe("Sévère et résistant<br>—<br>Sérologie VIH<br>Avis dermatologique")
 {{< /mermaid >}}
 
 {{%/collapse%}}

@@ -158,7 +158,7 @@ accTitle: Conduite à tenir et prise en charge par une contraception d'urgence d
           contraception -. Retard &gt; 5j .-> retard(Test de grossesse)
     3jours --> UPA(Ulipristal acétate 30 mg)
       UPA --> preservatif
-    3jours --> DIU(<b>DIU cuivre</b><br>—<br>Obèse +++)
+    3jours --> DIU("<b>DIU cuivre</b><br>—<br>Obèse +++")
      DIU --> autoprlt(Autoprélèvement vaginal<br>en urgence Gono + Chlam)
        autoprlt --> controleDIU(Contrôle à M3)
          controleDIU --> controle(Contrôle annuel)

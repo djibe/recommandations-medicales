@@ -254,11 +254,11 @@ Stérogyl® 400 UI/gte
 graph TB
   apports[Objectifs d'apports<br>en vitamine D]
   style apports stroke:#4150f5, stroke-width:1px
-    apports --> nourrisson(<b>0 - 2 ans</b><br>—<br>400-800 UI/j<br>soit ZymaD 2 gtes/j)
-    apports --> mineur("<b>2 - 18 ans</b><br>—<br>400-800 UI/j<br>—<br><b>À risque</b> (peau noire, obèse<br>aucune exposition, vegan):<br>800-1600 UI/j") -- Observance insuffisante --> alternative(50.000 UI/trimestre<br>ou 80-100.000 UI x2 l'hiver<br>—<br><b>À risque:</b> 50.000 UI/6 semaines<br>ou 80-100.000 UI/trimestre)
-    apports --> adulte(<b>Adulte</b><br>—<br>25OHD &gt; 50 nmol/L)
-      adulte --> 65(<b>+65 ans</b><br>—<br>25OHD &gt; 75 nmol/L)
-    apports --> risque(<b>Patient à risque</b><br>—<br>- Risque de chutes<br>- Ostéoporose<br>- Corticoïdes, aromatases...<br>- Hyperparathyroïdie<br>- Malabsorption<br>- Insuffisance rénale) --> intensif("- Dosage initial<br>- 25OHD &gt; 75 nmol/L<br>- Correction rapide<br>- Apports calciques &gt; 1 g/j")
+    apports --> nourrisson("<b>0 - 2 ans</b><br>—<br>400-800 UI/j<br>soit ZymaD 2 gtes/j")
+    apports --> mineur("<b>2 - 18 ans</b><br>—<br>400-800 UI/j<br>—<br><b>À risque</b> (peau noire, obèse<br>aucune exposition, vegan):<br>800-1600 UI/j") -- Observance insuffisante --> alternative("50.000 UI/trimestre<br>ou 80-100.000 UI x2 l'hiver<br>—<br><b>À risque:</b> 50.000 UI/6 semaines<br>ou 80-100.000 UI/trimestre")
+    apports --> adulte("<b>Adulte</b><br>—<br>25OHD &gt; 50 nmol/L")
+      adulte --> 65("<b>+65 ans</b><br>—<br>25OHD &gt; 75 nmol/L")
+    apports --> risque("<b>Patient à risque</b><br>—<br>- Risque de chutes<br>- Ostéoporose<br>- Corticoïdes, aromatases...<br>- Hyperparathyroïdie<br>- Malabsorption<br>- Insuffisance rénale") --> intensif("- Dosage initial<br>- 25OHD &gt; 75 nmol/L<br>- Correction rapide<br>- Apports calciques &gt; 1 g/j")
 {{< /mermaid >}}
 
 > Apports quotidiens préférés chez -18 ans: vitamine D2 (Stérogyl® 400 UI/gte) ou D3 (ZymaD® 300 UI/gte ou Adrigyl® 333 UI/gte). Sinon vitamine D3 en ampoule (*Bacchetta 2022*)  

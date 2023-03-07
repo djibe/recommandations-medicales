@@ -341,7 +341,7 @@ accTitle: Prise en charge d'une pyélonéphrite en ambulatoire d'après HAS 2021
   gravite -- Non --> homme(Homme ?)
     homme -- Non --> complication("<b>Facteur de risque<br>de complication ?</b><br>—<br>- Uropathie<br>- Acte uro récent<br>- +75 ans<br>- +65 ans avec 3 fragilités<br>- IRC sévère<br>- Immunodépression grave")
       complication -- Non --> simple(PNA simple)
-      complication -- Oui --> arisque(PNA à risque de complication<br>—<br>- Biologie<br>- Uroscanner urgent)
+      complication -- Oui --> arisque("PNA à risque de complication<br>—<br>- Biologie<br>- Uroscanner urgent")
     homme -- Oui --> masculine(IU masculine)
   gravite -- Oui --> urgences(Urgences)
 {{< /mermaid >}}
