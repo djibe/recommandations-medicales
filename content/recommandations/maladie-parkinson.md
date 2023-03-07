@@ -286,9 +286,9 @@ Le traitement est symptomatique et pluridisciplinaire avec un accès privilégi�
   - Infirmier (bilan et interventions)
   - Ergothérapeute
   - Psychologue
-  - Pédicure-podologue, psychomotricien, diététicien, orthoptiste ...
+  - Pédicure-podologue, psychomotricien, diététicien, [orthoptiste]({{< relref "bilan-orthoptique.md" >}}) ...
 - Autres traitements: antalgiques, anxiolytiques, antidépresseurs
-- Adaptation du domicile
+- Adaptation du domicile, prévention des chutes
 - Contexte social et entourage
 - Besoins en soins palliatifs
 - Information du patient: voir section plus bas

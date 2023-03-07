@@ -41,7 +41,7 @@ Dermatite séborrhéique (DS ou dermite séborrhéique)
 
 ### Sujets à risque de forme sévère de dermatite séborrhéique
 
-- Maladie de Parkinson et syndromes extrapyramidaux iatrogènes
+- [Maladie de Parkinson]({{< relref "maladie-parkinson.md" >}}) et syndromes extrapyramidaux iatrogènes
 - [Alcoolisme chronique]({{< relref "sevrage-alcool.md" >}})
 - Carcinome des VADS
 - [Personne vivant avec le VIH]({{< relref "vih-sida.md" >}}) (40% des séropositifs, 80% au stade SIDA)

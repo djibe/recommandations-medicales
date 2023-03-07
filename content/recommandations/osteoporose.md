@@ -133,7 +133,7 @@ L'ostéoporose est responsable d'un lourd fardeau médico-économique:
 - Âge
 - Taille à 20 ans
 - Antécédents  
-  Fractures (ancienneté, type), âge de la [ménopause]({{< relref "menopause.md" >}}), démence, Parkinson, [diabète]({{< relref "diabete-type-2.md" >}}), [maladie cardiovasculaire](/tags/risque-cardiovasculaire/), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), antécédent de [cancer](/tags/cancer/) ...
+  Fractures (ancienneté, type), âge de la [ménopause]({{< relref "menopause.md" >}}), démence, [Parkinson]({{< relref "maladie-parkinson.md" >}}), [diabète]({{< relref "diabete-type-2.md" >}}), [maladie cardiovasculaire](/tags/risque-cardiovasculaire/), [BPCO]({{< relref "bronchopneumopathie-chronique-obstructive.md" >}}), [maladie cœliaque]({{< relref "maladie-coeliaque.md" >}}), antécédent de [cancer](/tags/cancer/) ...
 - Traitements en cours  
   Et corticothérapie (dont inhalée) > 3 mois.
 - {{< modal-btn modal-risque-fracture >}}Facteurs de risque de fracture{{< /modal-btn >}}

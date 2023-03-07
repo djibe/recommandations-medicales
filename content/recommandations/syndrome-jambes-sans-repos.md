@@ -137,7 +137,7 @@ TDAH
 - Pathologie cardiovasculaire (moindre)
 - [Migraine]({{< relref "migraine.md" >}})  
   {{%class text-black-secondary %}}Prévalence de 9 à 39%.{{%/class%}}
-- Maladie de Parkinson traitée  
+- [Maladie de Parkinson]({{< relref "maladie-parkinson.md" >}}) traitée  
   {{%class text-black-secondary %}}Prévalence de 11 à 24%.{{%/class%}}
 - Neuropathie périphérique
 

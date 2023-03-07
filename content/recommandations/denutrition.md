@@ -56,7 +56,7 @@ Situations et facteurs de risque de dénutrition:
 - Escarre
 - Toxicomanie
 - Démence et maladie neuropsychiatrique  
-  Anorexie mentale, Alzheimer, Parkinson.
+  Anorexie mentale, Alzheimer, [Parkinson]({{< relref "maladie-parkinson.md" >}}).
 - Troubles de déglutition et bucco-dentaires (dont candidose)
 - Précarité
 - Régime restrictif
