@@ -7,7 +7,7 @@ synonyms = ["Avortement"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-16T10:54:41+02:00"
 publishdate = "2020-09-16"
-lastmod = "2022-11-25"
+lastmod = "2023-03-06"
 specialites = ["gynecologie-obstetrique"]
 annees = "2021"
 sources = ["CNGOF", "HAS"]
@@ -27,7 +27,7 @@ todo = "SEO 'recommandation ivg'"
 - L'interruption volontaire de grossesse (IVG) est autorisée jusqu'à 16 semaines d'aménorrhée (SA), en ville jusqu'à 9 SA (IVG médicamenteuse)
 - Temps de réflexion d'une semaine (sauf délai avancé) avant l'interruption volontaire de grossesse
 - Systématiques avant l'IVG: calcul du terme + examen gynécologique + groupe sanguin + échographie pelvienne
-- Centres et praticiens réalisant des IVG: [ivg.gouv](https://ivg.gouv.fr/) (téléphone {{<phone>}}0 800 08 11 11{{</phone>}}) et [ivglesadressess.org](https://ivglesadresses.org/)
+- Centres et praticiens réalisant des IVG: [ivg.gouv](https://ivg.gouv.fr) (téléphone {{<phone>}}0 800 08 11 11{{</phone>}}) et [ivglesadressess.org](https://ivglesadresses.org)
 
 Chapitres liés: [contraception]({{< relref "contraception.md" >}}) et [contraception d'urgence]({{< relref "contraception-urgence.md" >}})
 
@@ -132,7 +132,7 @@ OU
 
 > Voie transmuqueuse orale: placer les comprimés entre la joue et la gencive, puis avaler les fragments résiduels après 30 minutes.
 
-**Visite de contrôle à 2 semaines** SYSTÉMATIQUE pour vérifier l'expulsion (IVG chirurgicale sinon, possible jusqu'à 14 SA).
+**Visite de contrôle à 2 semaines** systématique pour vérifier l'expulsion (IVG chirurgicale sinon, possible jusqu'à 14 SA).
 
 ### Grossesse de 7 à 9 SA
 
@@ -151,13 +151,13 @@ IVG chirurgicale uniquement passées 9 semaines d'aménorrhée, possible jusqu'�
 {{% /collapse %}}
 {{%collapse "Déroulement de l'IVG" %}}
 
-Toute patiente qui désire une IVG doit obtenir un rendez-vous **dans les 5 jours** suivant son appel.  
+Toute patiente qui désire une IVG doit obtenir un rendez-vous (ou une téléconsultation) **dans les 5 jours** suivant son appel.  
 Plus l'IVG intervient précocement pendant la grossesse, plus le risque de complications est faible.
 
 ### Première consultation
 
 - Informations claires et précises sur la procédure d'IVG et remise de documents écrits
-- Temps de réflexion d'une semaine avant la 2<sup>e</sup> consultation
+- Temps de réflexion abrogé
 - Proposer un entretien spécialisé d'information, soutien et écoute (obligatoire pour les mineures)
 - Préciser l'âge gestationnel par **date des dernières règles (DDR) + examen clinique + échographie pelvienne**
 
@@ -190,7 +190,7 @@ Plus l'IVG intervient précocement pendant la grossesse, plus le risque de compl
 
 - Prise du misoprostol + check-list ci-dessus
 - Prévention de l'incompatibilité rhésus si femme Rhésus négatif: immunoglobulines anti-D 200 µg IM au plus tard dans les 72 heures qui suivent les saignements.
-- Visite de contrôle OBLIGATOIRE  
+- Visite de contrôle obligatoire  
   Prévue entre 14 et 21<sup>e</sup> jour post-IVG
 - Examen clinique, dosage bêta-hCG plasmatiques OU échographie pelvienne  
   Recours à l'IVG chirurgicale si échec.
@@ -200,7 +200,8 @@ Plus l'IVG intervient précocement pendant la grossesse, plus le risque de compl
 {{% /collapse %}}
 {{%collapse "Prévention des IVG" %}}
 
-[Contraception efficace]({{< relref "contraception.md" >}}) adaptée pour tous les couples en âge de procréer en l'absence de désir de grossesse.  
+[Contraception efficace]({{< relref "contraception.md" >}}) adaptée pour tous les couples en âge de procréer en l'absence de désir de grossesse.
+
 Informer sur le recours à la [contraception d'urgence]({{< relref "contraception-urgence.md" >}}).
 
 {{% /collapse %}}

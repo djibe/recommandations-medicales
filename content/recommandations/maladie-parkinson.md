@@ -1,13 +1,13 @@
 +++
 title = "Maladie de Parkinson"
 prefix = "la "
-description = "Recommandations pour le diagnostic et la prise en charge de la maladie de Parkinson (tremblement, bradykinésie). Agonistes dopaminergiques en première intention"
+description = "Recommandations pour la prise en charge de la maladie de Parkinson. Diagnostic clinique sans bilan, neurologue, agonistes dopaminergiques en première intention"
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-04T21:22:54+01:00"
-publishdate = "2023-03-06"
-lastmod = "2023-03-06"
+publishdate = "2023-03-07"
+lastmod = "2023-03-07"
 specialites = ["neurologie"]
 annees = "2016"
 sources = ["HAS", "EFNS"]
@@ -15,16 +15,21 @@ tags = []
 anglais = ["Parkinson's disease (PD)"]
 sctid = "49049000"
 icd10 = "G20"
-draft = true
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Illustration de la maladie de Parkinson par Freepik"
 flowchart = true
-todo = "ttt dans modal, Prescrire, American Academy of Neurology, HAS 2016 chap6.3 + 7 + p73, adapt doses, pec dystonie/confusion/hallucinations"
+todo = "ttt dans modal, American Academy of Neurology, HAS 2016 p73, adapt doses, PDD-SS: https://alicante.san.gva.es/documents/4479657/4640869/PDD-SS-+(Parkinson%27s+disease+with+dementia+Short+Screen).pdf | RBD Screening Questionnaire has a sensitivity of 0.96 and a specificity of 0.56 for the diagnosis of RBD when a cut-off of five points is applied (class I evidence) [124]"
 +++
 
 {{%article-summary%}}
 
-TODO:
+- Triade parkinsonienne: akinésie/bradykinésie, rigidité et tremblement de repos unilatéral ou asymétrique (pathognomonique mais absent pour 1/3)
+- Autres signes précoces de Parkinson: instabilité, hypotension orthostatique avec malaises, hyposmie
+- Toujours rechercher une cause iatrogène au syndrome parkinsonien
+- Le diagnostic de maladie de Parkinson est clinique, il relève du neurologue
+- Aucun bilan ou examen complémentaire n'est nécessaire pour le diagnostic de maladie de Parkinson
+- La prise en charge de la maladie de Parkinson est symptomatique avec, lorsque les symptômes sont gênants, principalement la L-dopa et les agonistes dopaminergiques permettant de l'épargner
+- Mesures toujours associées: activité physique, cognitive, sociale régulière et ergothérapie, orthophonie, kinésithérapie ...
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -32,8 +37,6 @@ TODO:
 Maladie de Parkinson idiopathique (MPI)
 : Maladie dégénérative de cause inconnue touchant les systèmes dopaminergiques, cholinergiques, noradrénergiques et sérotoninergiques. Le diagnostic de certitude est histologique (et donc autopsique).
 : Première cause de syndrome parkinsonien et 2<sup>e</sup> maladie neurodégénérative (derrière Alzheimer).
-
-TODO: FDR de chute
 
 Tremblement essentiel
 : Début soit jeune à 15 ans ou plus tard vers 50 ans, fréquent, souvent bilatéral et symétrique, 4-10 Hz, tremblement d'action postural ou cinétique sans tremblement de repos. Déclenchement immédiat du tremblement postural.
@@ -87,20 +90,20 @@ La Maladie de Parkinson est la seule cause de tremblement de repos unilatéral (
 
 Autres diagnostics à étayer devant un syndrome parkinsonien:
 
-- Infarctus cérébraux multiples
+- Infarctus cérébraux multiples  
+  Plutôt symétrique, peu sensible aux dopaminergiques, syndrome peudo-bulbaire.
 - Syndromes parkinsoniens dégénératifs
   - Maladie de Parkinson
-  - Démence à corps de Léwy
+  - Démence à corps de Léwy  
+    Démence précoce avec hallucinations spontanées et fluctuations de la vigilance, forte sensibilité aux neuroleptiques.
   - Paralysie supranucléaire progressive (syndrome de Steele-Richardson-Olszewski)  
-    Déficit du regard vers le haut.
-  - Atrophies multisystématisées  
-    Hypotension orthostatique ou incontinence urinaire précoces.
+    Syndrome parkinsonien axial et symétrique, chutes précoces en rétropulsion, syndrome frontal, déficit du regard vers le haut.
+  - Atrophie multisystématisée  
+    Dysautonomie précoce, syndrome cérébelleux et pyramidal.
   - Dégénérescence corticobasale  
-    Rigidité unilatérale, apraxie.
+    Myoclonies, dystonie distale des extrémités, rigidité unilatérale, apraxie, main capricieuse ou "étrangère".
 - Maladie de Wilson  
   Sujet jeune, autosomique récessif, atteinte hépatique et oculaire. Bilan du cuivre.
-
-TODO:
 
 ### Épidémiologie de la Maladie de Parkinson en France
 
@@ -149,16 +152,14 @@ SPECT
 
 Signes et symptômes devant faire évoquer une autre maladie neurologique:
 
+- Absence de réponse prolongée au traitement dopaminergique
+- Progression rapide avec chutes précoces
 - Syndrome cérébelleux
 - Syndrome pyramidal
 - Troubles oculomoteurs
-- Dysautonomie sévère  
-  Hypotension orthostatique précoce symptomatique.
-- Syndrome pseudo-bulbaire
+- Dysautonomie précoce: hypotension orthostatique ou incontinence urinaire
 - Hallucinations ou détériorations intellectuelles précoces
 - Dysarthrie et/ou troubles de la déglutition précoces et rapidement sévères
-
-TODO: détailler
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -172,11 +173,14 @@ Les reclassements de diagnostic sont fréquents car les symptômes sont insidieu
 
 ### Interrogatoire
 
-Les symptômes sont initialement unilatéraux:
+Les symptômes sont initialement unilatéraux et l'**asymétrie** est persistante.
+
+La triade classique est akinésie/bradykinésie, rigidité et tremblement de repos:
 
 - Début tardif (+50 ans)
-- Antécédents familiaux  
-  Maladie de Parkinson (15%).
+- Antécédents familiaux de Maladie de Parkinson (15%)
+- **Traitements en cours**  
+  Toujours éliminer un syndrome parkinsonien iatrogène.
 - **Bradykinésie**, **hypokinésie**, **akinésie**
   - Fatigue sur la frappe répétée des mains/pieds
   - Hypomimie, réduction du balancement des bras et du clignement des yeux
@@ -195,7 +199,7 @@ Les symptômes sont initialement unilatéraux:
   - Aggravé par le calcul et l'émotion
 - **Instabilité posturale** précoce
 - Dysautonomie  
-  Hypotension artérielle orthostatique (45%): chutes, lipothymies/malaises.
+  Hypotension artérielle orthostatique (45% avec chutes, lipothymies/malaises) et troubles urinaires.
 - Symptômes non moteurs
   - Apathie, troubles de la motivation
   - Douleurs pseudo-rhumatismales (épaule, rachis) ou diverses (paresthésies, radiculalgies)
@@ -205,14 +209,14 @@ Les symptômes sont initialement unilatéraux:
   - Amaigrissement et asthénie
   - Hallucinations (visuelles ++)
   - Déclin cognitif (1/3 au diagnostic)  
-    Échelles PDD short screen (PDD-SS), Addenbrooke's Cognitive Examination-Revised (ACE-R) ou Montreal Cognitive Assessment (MoCA).
+    Échelles PDD short screen (PDD-SS), Addenbrooke's Cognitive Examination-Revised (ACE-R) ou Montreal Cognitive Assessment (MoCA, [web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf)).
 - Excellente réponse à la L-dopa
-- **Signes négatifs / atypiques**
-  - À Rechercher tous les 6-12 mois
+- Autres: sommeil, anxiété/dépression
+- **Signes négatifs / atypiques** à rechercher tous les 6-12 mois
   - Drapeaux rouges (voir section précédente)
   - AVC multiples
   - Traumatismes crâniens répétés
-  - Absence de tremblement de repos
+  - Absence de tremblement de repos (30% n'en ont pas initialement)
   - Syndrome atypique  
     Rigidité axiale dominante, symptômes symétriques ou unilatéraux après 3 ans.
   - Iatrogénie  
@@ -222,19 +226,15 @@ Les symptômes sont initialement unilatéraux:
 
 Ces éléments reprennent les critères diagnostiques *Queen Square Brain Bank* (QSBB).
 
-Interroger sur le sommeil, anxiété/dépression, dépister un RBD.
-
-TODO: RBD Screening Questionnaire has a sensitivity of 0.96 and a specificity of 0.56 for the diagnosis of RBD when a cut-off of five points is applied (class I evidence) [124]
-
 ### Examen clinique
 
 - Poids, taille, IMC, variations
 - Pression artérielle, pouls, hypotension orthostatique
 - Examen neurologique complet
-  - Roue dentée
+  - Ne pas oublier: pyramidal et cérébelleux, roue dentée, regard vers le haut
   - Signes négatifs: signe de Babinski
 - Évaluation motrice  
-  MDS-UPDRS, Berg Balance Scale, Timed Up and Go, test de marche de 6 minutes, test des 10 mètres de marche.
+  [MDS-UPDRS (PDF)](https://mds.movementdisorders.org/UserFiles/file/MDS_UPDRS_French_Offical_Working_Document.pdf), Berg Balance Scale, Timed Up and Go, test de marche de 6 minutes, test des 10 mètres de marche.
 - Évaluation gériatrique standardisée
 
 #### Le syndrome malin des neuroleptiques
@@ -247,7 +247,8 @@ Le syndrome malin des neuroleptiques provoque: troubles de la conscience, rigidi
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> << Il n'y a aucun examen paraclinique diagnostique de référence >> (*HAS 2016*)
+> << Il n'y a aucun examen paraclinique diagnostique de référence >> (*HAS 2016*) et << Le diagnostic est clinique et ne justifie aucun examen complémentaire >> (*Collège*)
+{.alert .alert-info}
 
 ### IRM cérébrale
 
@@ -268,7 +269,7 @@ Le DAT-scan (ou DaTscan, SPECT au bêta-CIT) peut être prescrit par le neurolog
 
 ### Conseil génétique
 
-Le conseil génétique est recommandé si (*EFNS 2013*): plusieurs proches atteints sur plus d'une génération.
+Le conseil génétique est recommandé (*EFNS 2013*) si: plusieurs proches atteints sur plus d'une génération.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la Maladie de Parkinson" %}}
@@ -290,10 +291,10 @@ Le traitement est symptomatique et pluridisciplinaire avec un accès privilégi�
 - Adaptation du domicile
 - Contexte social et entourage
 - Besoins en soins palliatifs
-- Information du patient: [guide HAS Maladie de Parkinson (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-09/gp_parkinson_10818_001_008.pdf)
-- Association de patients: TODO:
-
-Maladie professionnelle: seule l'intoxication au manganèse est reconnue. TODO:
+- Information du patient: voir section plus bas
+- Association de patients: [France Parkinson](https://www.franceparkinson.fr), [ffgp](https://www.assoffgp.fr)
+- [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 58](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RA%2058): exposition aux pesticides ≥ 10 ans  
+  ou du [manganèse Tableau 39](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2039)
 
 ### Les traitements spécifiques du Parkinson
 
@@ -302,31 +303,51 @@ Ne jamais interrompre brutalement un traitement antiparkinsonien (risque d'akin�
 
 Le traitement de la Maladie de Parkinson n'est pas une urgence. Intérêt d'un diagnostic fiable avant l'introduction des traitements.
 
-La réponse aux traitements est un argument fort en faveur de la confirmation diagnostique.
+La réponse aux traitements est un argument fort pour la confirmation diagnostique.
 
 #### Les traitements médicamenteux de la Maladie de Parkinson
 
 Les traitements médicamenteux antiparkinsoniens ne sont pas indispensables en l'absence de retentissement moteur. En première intention, les **IMAO B et agonistes dopaminergiques** sont préférés afin d'épargner la L-Dopa.
 
-- IMAO B  
+- IMAO-B (inhibition du catabolisme de la dopamine)  
   Sélégiline (Deprenyl®), rasagiline.
 - Agonistes dopaminergiques
   - Le plus longtemps possible
-  - Dérivés de l'ergot de seigle: ropinirole, piribédil (Trivastal®), pramipexole, rotigotine (Neupro®, transdermique)
+  - Dérivés de l'ergot de seigle: **ropinirole**, piribédil (Trivastal®), pramipexole, rotigotine (Neupro®, transdermique)
   - Autres: bromocriptine (Parlodel®), lisuride (Arolac®)
-- Amantadine (Mantadix®)
-- L-Dopa  
+- Amantadine (Mantadix® pour les dyskinésies)
+- **L-Dopa**  
   Retarder l'instauration par fluctuations et dyskinésies.
-- Anticholinergiques (tremblement uniquement)
-- Inhibiteurs de la catéchol-O-méthyl transférase: entacapone (Comtan®), tolcapone (Tasmar®)
+- Anticholinergiques bipéridène (tremblement uniquement)
+- Inhibiteurs de la catéchol-O-méthyl transférase (inhibition du métabolisme périphérique)  
+  **Entacapone** (Comtan®), tolcapone (Tasmar®).
 
 Phase avancée: des pompes implantables d'apomorphine SC et de L-Dopa (grêlique) sont possibles.
+
+##### Fluctuations d'efficacité du traitement et dyskinésies
+
+Anomalies fréquemment observées avec le traitement dopaminergique:
+
+- Fluctuations: réapparition des signes à distances des prises (blocages)
+  - Akinésie de fin de dose  
+    Perte d'efficacité du médicament. En cas de maladie avancée, correspond au temps de demi-vie.
+  - Akinésie de nuit et du petit matin  
+    Bradykinésie, crampes des mollets et des orteils, difficultés à se retourner dans le lit.
+  - Phénomène "on/off"  
+    Passages brutaux de l'absence de symptômes au syndrome parkinsonien sévère.
+  - **Prise en charge des fluctuations:** fractionnement de la L-dopa, ajout d'un agoniste ou ICOMT si L-dopa seule, apomorphine si blocage sévère, ajout d'un IMAO-B.
+- Dyskinésies: mouvements involontaires
+  - Dyskinésies de milieu ou de pic de dose  
+    Mouvements involontaires (choréiques) des membres et du tronc.
+  - Dyskinésies biphasiques  
+    Mouvements involontaires des jambes (souvent douloureux) lors des changements de phase.
+  - Prise en charge des dyskinésies: fractionner la L-dopa, ajouter amantadine
 
 #### La stimulation cérébrale profonde (SCP)
 
 La stimulation cérébrale profonde consiste à implanter 1 ou 2 électrodes dans le cerveau, connectées à un générateur sous-cutanée pour une stimulation modulable et réversible.
 
-L'indication principale à la stimulation cérébrale est une qualité de vie altérée par un échappement moteur à tous les traitements médicamenteux sauf la Lévodopa sans atteinte cognitive et opérables.
+L'indication principale à la stimulation cérébrale est une qualité de vie altérée par un échappement moteur à tous les traitements médicamenteux sauf la lévodopa sans atteinte cognitive et opérables.
 
 {{% /collapse %}}
 {{%collapse "Suivi de la maladie" %}}
@@ -360,7 +381,7 @@ L'indication principale à la stimulation cérébrale est une qualité de vie al
 
 #### Hypotension orthostatique
 
-À rechercher systématiquement, réduire les antihypertenseurs, réduire les antiparkinsoniens, augmenter les apports hydro-sodés, éviter de piétiner, relever tête du lit de 30-40°, bas de contention, lever progressif, avis spécialisé.
+À rechercher systématiquement, réduire les antihypertenseurs, réduire les antiparkinsoniens, augmenter les apports hydro-sodés, éviter de piétiner, relever tête du lit de 30-40°, bas de contention, lever progressif, avis spécialisé (pour midodrine ou fludrocortisone).
 
 #### Nausées  
 
@@ -368,11 +389,13 @@ Nausées apparues après le traitement: cèdent progressivement, prendre le trai
 
 #### Constipation
 
-La constipation est très fréquente. Arrêt des anticholinergiques si possible. Augmenter les fibres/fruits et l'hydratation, huile d'olive, exercice physique (marche), eau riche en magnésium, suppositoire de glycérine, laxatifs mucilages/émollient/osmotique voire des lavements.
+La constipation est très fréquente et nécessite une prise en charge surtout hygiéno-diététique:
+
+Arrêt des anticholinergiques si possible. Augmenter les fibres/fruits et l'hydratation, huile d'olive, exercice physique (marche), eau riche en magnésium, suppositoire de glycérine, laxatifs mucilages/émollient/osmotique voire des lavements.
 
 #### Troubles mictionnels
 
-Les troubles mictionnels sont très fréquents et débutent souvent avec une nycturie. Exclure une infection urinaire en cas de tableau aigu, dépister un diabète selon les symptômes. Hydratation, hygiène locale, traitement de la constipation, dispositifs pour éviter de se lever la nuit. Envisager un anticholinergique avec le neurologue (bilan urodynamique recommandé). Avis urologique en cas de symptômes résistants.
+Les troubles mictionnels sont très fréquents et débutent souvent avec une nycturie. Exclure une infection urinaire en aigu, dépister un diabète selon les symptômes. Hydratation, hygiène locale, traitement de la constipation, dispositifs pour éviter de se lever la nuit. Envisager un anticholinergique avec le neurologue (bilan urodynamique recommandé). Avis urologique en cas de symptômes résistants.
 
 #### Dysfonction érectile et de la libido
 
@@ -391,7 +414,7 @@ Les hallucinations sont fréquentes (40% sous dopaminergique), les épisodes dé
 Éliminer une autre cause ou iatrogénie et demander un avis neurologique.  
 Réduire progressivement les antiparkinsoniens les plus hallucinogènes (anticholinergiques > amantadine > agonistes dopaminergiques > IMAO B et ICOMT).
 
-Sinon recours à la clozapine avec surveillance biologique et ECG initial.
+Sinon recours à la clozapine avec surveillance biologique et ECG initial (ou quétiapine).
 
 #### Troubles du sommeil
 
@@ -399,7 +422,7 @@ Sinon recours à la clozapine avec surveillance biologique et ECG initial.
 - Fragmentation du sommeil: dopaminergique nocturne
 - Insomnie d'endormissement: prise en charge de l'anxiété, hypnotique demi-vie courte
 - Hallucinations: avis neurologique
-- Troubles du sommeil paradoxal: interroger conjoint, sécurisation, réduire les antidépresseurs (ISRS ++)
+- Troubles du sommeil paradoxal: interroger conjoint, sécurisation, réduire les antidépresseurs (ISRS ++) voire clonazépam (*Collège*)
 - Somnolence diurne: réduire les agonistes, activité physique
 
 #### Addictions
@@ -411,30 +434,40 @@ Conduites addictives: [boulimie]({{< relref "boulimie-hyperphagie.md" >}}), hype
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
+Guides: [HAS Maladie de Parkinson (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-09/gp_parkinson_10818_001_008.pdf), [France Parkinson (PDF)](https://www.franceparkinson.fr/wp-content/uploads/2016/11/France-Parkinson-Je-de%CC%81couvre-compresse%CC%81.pdf), [Inserm](https://www.inserm.fr/dossier/parkinson-maladie/) et sur les [médicaments (PDF)](https://www.franceparkinson.fr/wp-content/uploads/2019/11/Flyer_FranceParkinson_m%C3%A9dicament.pdf)
+
 Les informations sur la maladie sont expliquées et reprises sur plusieurs consultations à la personne et ses aidants:
 
-### Informations sur la Maladie de Parkinson
+### Informations sur la maladie de Parkinson
 
-- Les symptômes et l'évolution sont différents d'une personne à l'autre et la sensibilité au traitement peut différer
+- Les symptômes, l'évolution et la sensibilité au traitement sont différents d'une personne à l'autre
+- Expliquer les fluctuations motrices, les dyskinésies et leur prise en charge
+- Rappeler que la maladie de Parkinson ne se guérit pas. Les traitements contrôlent les symptômes et améliorent la qualité de vie
+- Encourager à signaler tous les symptômes (moteurs, psychologiques, hallucinations, addictions)
 
-TODO: p20, informer hallucinations, addictions
+### Informations sur les traitements de la maladie de Parkinson
 
-### Informations sur les traitements de la Maladie de Parkinson
-
-TODO: p20
-
-TODO: ETP Annexe 4 + p22
+- Le traitement est poursuivi au long cours avec autant d'adaptations que nécessaire
+- Discuter des options thérapeutiques avec support écrit (documents plus haut)
+- Les traitements ne devraient pas être arrêtés brutalement
+- Rappeler les bénéfices d'une activité physique, cognitive, sociale et des prises en charge non médicamenteuses (kiné, orthophonie, ergothérapie ...) réguliers
+- S'informer sur les sites validés
+- Expliquer l'importance d'un traitement à horaire régulier
+- Expliquer et rechercher les effets indésirables puis apprendre à les gérer
+- Tenir un agenda des traitements et des symptômes sur 3 jours avant la consultation
+- Signaler les autres traitements pris
+- Plus tard: impact sur la famille, soutiens, aides sociales, risques de la conduite automobile
 
 > *HAS 2016*
 
 {{% /collapse %}}
-{{% collapse "Prise en charge de la Maladie de Parkinson initiale" "show" %}}
+{{% collapse "Prise en charge de la maladie de Parkinson débutante" "show" %}}
 
-{{< mermaid title="Traitement médicamenteux des troubles moteurs au début de la Maladie de Parkinson. Dr JB Fron d'après HAS 2016">}}
+{{< mermaid title="Traitements médicamenteux des troubles moteurs au début de la Maladie de Parkinson. Dr JB Fron d'après HAS 2016">}}
 graph TB
-  Parkinson[Symptômes parkinsoniens<br>sans gêne fonctionnelle] --> abstention(Abstention en l'absence de gêne) --> gêne(Symptômes avec gêne fonctionnelle)
+  Parkinson[Syndrome parkinsonien typique<br>sans gêne fonctionnelle] --> neurologue(Avis neurologique) --> abstention(Abstention en l'absence de gêne) --> gêne(Symptômes avec gêne fonctionnelle)
   style Parkinson stroke:#4150f5, stroke-width:1px
-    gêne --> IMAOB("<b>IMAO B</b><br>—<br>Seujet jeune avec gêne<br>modérée")
+    gêne --> IMAOB("<b>IMAO B</b><br>—<br>Sujet jeune avec gêne<br>modérée")
     gêne --> agonistes("<b>Agonistes<br>dopaminergiques</b><br>—<br>Sujet jeune sans<br>contre-indication") -. Intolérance .-> Levodopa
     gêne --> Levodopa("<b>Lévodopa</b><br>—<br>Sujet âgé")
     gêne --> autres("<b>Autres options</b><br>—<br>Amantadine<br>Anticholinergiques<br>si tremblement<br>prédomine")
@@ -446,7 +479,7 @@ graph TB
   style augmentation stroke:#4150f5, stroke-width:1px
   augmenter --> agoniste(Ajouter un agoniste<br>dopaminergique) --> association(Envisager une association<br>des traitements)
   augmenter --> ICOMT(Ajouter un ICOMT) --> association
-  augmenter --> IMAOB(Ajouter un IMAO B) --> association
+  augmenter --> IMAOB(Ajouter un IMAO-B) --> association
     association -. Échec .-> parenteral(<b>Agonistes dopaminergiques SC</b><br>Apomorphine SC discontinue)
     parenteral -. Échec .-> invasifs(Envisager des<br>traitements invasifs)
       invasifs --> SCP("Stimulation cérébrale<br>profonde (SCP)")
@@ -457,14 +490,18 @@ graph TB
 {{%/collapse%}}
 {{%sources%}}
 
+- [Ernst M et al. Physical exercise for people with Parkinson's disease: a systematic review and network meta‐analysis. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013856.pub2/full/fr)
+- Prescrire Redaction. Patients parkinsoniens. Rev Prescrire. 2023.
 - [HAS. Maladie de Parkinson. Actes et prestations affections de longue durée. 2021.](https://www.has-sante.fr/jcms/c_546220/fr/ald-n-16-maladie-de-parkinson)
+- [Collège des Enseignants de Neurologie (CEN). Maladie de Parkinson. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/maladie-parkinson)
 - [HAS. Maladie de Parkinson. Guide du parcours de soins. 2016.](https://www.has-sante.fr/jcms/c_1242645/fr/guide-parcours-de-soins-maladie-de-parkinson)
 - [HAS. Maladie de Parkinson et syndromes apparentés : techniques et modalités de la prise en charge non médicamenteuse des troubles moteurs. 2016.](https://www.has-sante.fr/jcms/c_2038173/fr/maladie-de-parkinson-et-syndromes-apparentes-techniques-et-modalites-de-la-prise-en-charge-non-medicamenteuse-des-troubles-moteurs)
-- [Berardelli A. et al. EFNS/MDS-ES recommendations for the diagnosis of Parkinson's disease. Eur J Neurol. 2013.](https://onlinelibrary.wiley.com/doi/10.1111/ene.12022)
+- [Berardelli A et al. EFNS/MDS-ES recommendations for the diagnosis of Parkinson's disease. Eur J Neurol. 2013.](https://onlinelibrary.wiley.com/doi/10.1111/ene.12022)
 - [Santé Publique France. Maladie de Parkinson.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-neurodegeneratives/maladie-de-parkinson)
 
 ### À lire
 
-[Collège des Enseignants de Neurologie (CEN). Maladie de Parkinson. 2019.](https://www.cen-neurologie.fr/fr/deuxieme-cycle/maladie-parkinson)
+- [Horstink M et al. Early (Uncomplicated) Parkinson's Disease. European Handbook of Neurological Management. 2006. [payant]](https://onlinelibrary.wiley.com/doi/10.1002/9780470753279.ch17)
+- [Oertel WH et al. Late (Complicated) Parkinson's Disease. European Handbook of Neurological Management. 2010. [payant]](https://onlinelibrary.wiley.com/doi/10.1002/9781444328394.ch15)
 
 {{%/sources%}}

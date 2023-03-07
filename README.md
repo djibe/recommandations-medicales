@@ -23,7 +23,8 @@ Seul un outil numérique peut nous aider.
 
 ## Les points forts du projet
 
-- Open Source
+- Open Source  
+  Accessible à tous, pour toujours.
 - Participatif  
   Tout le monde peut commenter le travail, participer à l'élaboration et demander plus d'informations.
 - Indépendant  
@@ -44,18 +45,18 @@ Seul un outil numérique peut nous aider.
 - \+ Récent  
   Proposer les connaissances validées les plus récentes.
 - \+ Mobile  
-  Le site s'adapte à tous les écrans.
+  Le site s'adapte à tous les écrans, avec consultation hors ligne des chapitres parcourus.
 - \+ Rapide  
   Très léger.
 - \+ Transparent  
   Toute modification est historisée pour plus de traçabilité.
-- \+ Ouvert  
-  Accessible à toute la francophonie.
 
 et aussi...
 
 - Low tech  
   Seulement à base de fichiers textes éditables par tout le monde.
+- Connectable  
+  Via les codes CIM-10 et SNOMED-CT, le site peut être branché à d'autres systèmes.
 - Résistant  
   Pas de bases de données, facile à sauvegarder et déménager.
 - Sans frais  
@@ -67,8 +68,8 @@ et aussi...
 
 - **Vous !**
 - Plus de contenu
-- La certification des Sociétés savantes (en cours avec GRIO, Club Jeunes Hypertensiologues)
-- La certification des autorités (HAS ...)
+- La certification des Sociétés savantes
+- Le soutien des autorités (Assurance Maladie ...)
 
 ## 🛠️ Utiliser le projet sur votre PC
 
