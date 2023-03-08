@@ -49,7 +49,7 @@ HUGO_ENABLEGITINFO = "false"
 [[headers]]
   for = "*.json"
   [headers.values]
-    Cache-Control = "public, max-age=604800, must-revalidate, stale-while-revalidate=86400" # 1w
+    Cache-Control = "public, max-age=1209600, must-revalidate, stale-while-revalidate=86400" # 2w
 
 [[headers]]
   for = "*.css*"
@@ -59,7 +59,7 @@ HUGO_ENABLEGITINFO = "false"
 [[headers]]
   for = "*.js*"
   [headers.values]
-    Cache-Control = "public, max-age=604800" # 1w
+    Cache-Control = "public, max-age=1209600" # 2w
 
 [[headers]]
   for = "favicon.ico"

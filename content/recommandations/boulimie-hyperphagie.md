@@ -25,7 +25,7 @@ todo = "borderline, complications"
 - La *boulimie* et l'*hyperphagie boulimique* (sans comportement de compensation) débutent en fin d'adolescence avec une prédominance féminine pour la boulimie (90%)
 - Retentissement individuel (physique, psychique), familial et social du *trouble des conduites alimentaires* (TCA) à l'origine d'une surmortalité (troubles métaboliques et suicides)
 - L'accueil du sujet boulimique doit être bienveillant, empathique, sans moralisation. Répéter que la guérison est possible
-- Repérer un TCA dans les populations à risque (adolescents, mannequins, surpoids ... voir *Quand évoquer une boulimie ?*) par {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}} ou à l'interrogatoire (voir *Clinique *)
+- Repérer un TCA dans les populations à risque (adolescents, mannequins, surpoids ... voir *Quand évoquer une boulimie ?*) par {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}} ou à l'interrogatoire (voir *Clinique*)
 - Consultation approfondie pour le bilan des complications et comorbidités (le retentissement vécu est central)
 - Les examens complémentaires sont systématiques
 - Objectifs des soins: réduire les crises de boulimie et de purge et un retour à une scolarité/vie professionnelle stables

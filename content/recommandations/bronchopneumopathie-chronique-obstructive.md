@@ -110,7 +110,7 @@ FC
 GOLD
 : {{%lang%}}Global Initiative for Chronic Obstructive Lung Disease{{%/lang%}}
 
-LAMA
+LABA
 : {{%lang%}}Long Acting ß2 Agent{{%/lang%}}, bêta2-agoniste de longue durée d'action
 
 LAMA

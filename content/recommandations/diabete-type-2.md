@@ -327,7 +327,7 @@ Bilan à jeun pendant 12 heures:
 | [AOMI]({{< relref "arteriopathie-obliterante-membres-inferieurs.md" >}}) | Symptômes + pouls annuels, IPS au diagnostic puis /5-10 ans | ESC 2019 diabetes |
 | Aspirine prev primaire | 75-160 mg envisageable si {{< modal-btn modal-rcv-diabete >}}(très) haut risque CV{{< /modal-btn >}} ou {{< modal-btn modal-coronaire-diabete >}}coronaire{{< /modal-btn >}} sans risque de saignement | ADA 2023, ESC 2019 diabetes |
 | Aspirine prev secondaire | 75-160 mg ± associé selon la pathologie, prolonger bi-antiagrégants si bien toléré (max 3 ans) | ADA 2023, ESC 2019 diabetes |
-| Boulimie et TCA | Dépister                                                                                      | HAS 2019                 |
+| Boulimie et TCA | {{< modal-btn modal-scoff >}}Questionnaire SCOFF de dépistage des TCA{{< /modal-btn >}}       | HAS 2019                 |
 | [Cancer du pancréas]({{< relref "cancer-pancreas.md" >}}) | - Diabète < 12 mois: ≥ 50 ans sans ATCD familial ni surpoids OU amaigrissement > 10%<br>- Pancréatite chronique + apparition ou décompensation de diabète | INCa 2019 |
 | Cardiologue  | Suivi annuel                                                                                     | HAS 2014                 |
 | Chirurgie bariatrique | < 65 ans et IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH OU IMC ≥ 30 en dernier recours | HAS 2022 et 2009 obésité |
@@ -431,6 +431,11 @@ Bilan à jeun pendant 12 heures:
 {{% modal title="Dépistage de la fibrose hépatique" id="modal-fib4"%}}
 
 {{< scores/fib4 >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}
+
+{{< scores/scoff >}}
 
 {{% /modal %}}
 {{% modal title="Statines et réduction du LDL" id="modal-statine-intensite"%}}

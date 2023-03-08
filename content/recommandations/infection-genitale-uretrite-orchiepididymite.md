@@ -16,7 +16,7 @@ anglais = ["Urethritis", "epididymitis"]
 sctid = "128478005"
 icd10 = "N49.9"
 image = true
-imageSrc = "Vue microscopique avec la coloration de Gram d'une urétrite gonococcique infiltrant régulièrement les polynucléaires neutrophiles. CDC / Joe Millar, Public domain, via Wikimedia Commons"
+imageSrc = "Infiltration des polynucléaires neutrophiles par les gonocoques. Vue au microscope avec coloration de Gram signant une urétrite gonococcique. CDC / Joe Millar, Public domain, via Wikimedia Commons"
 todo = "Balanite et balano-posthite, dépistages Ct homme"
 +++
 
@@ -178,12 +178,11 @@ Toujours évoquer une torsion du testicule chez le jeune (urgence chirurgicale)
 
 Orchiépididymite
 : Inflammation (douleur, œdème et chaleur locale) souvent infectieuse de l'épididyme et du testicule. Elle complique une urétrite non traitée (symptomatique ou non). Dans la forme chronique, évoquer une [tuberculose]({{< relref "tuberculose.md" >}}) en cas d'origine de pays endémique.
-{.dl-inline}
 
 L'étiologie de l'orchi-épididymite dépend de l'âge:
 
 - Homme jeune: [IST](/tags/ist/) par *[Chlamydia trachomatis]({{< relref "chlamydia-trachomatis.md" >}})* le plus souvent, ou le gonocoque (*N. gonorrhoeae*) et les entérobactéries (surtout *E. coli*, par infection urinaire ou sodomie)
-- Homme +35 ans: entérobactéries (surtout *E. coli*) par infection urinaire ou geste urologique
+- Homme +35 ans: entérobactéries (surtout *E. coli*) par [infection urinaire]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}}) ou geste urologique
 
 ### Examens complémentaires de l'orchiépididymite
 
@@ -216,7 +215,8 @@ Ceftriaxone 1g IM dose unique
 {.alert .alert-info .mb-5}
 
 - Si faible suspicion de gonococcie et suspicion d'origine urinaire:
-  - Ciprofloxacine 500 mg x 2/j ou lévofloxacine 750 mg (indisponible en France) x 1/j pendant 10 à 14 jours
+  - Ciprofloxacine 500 mg x 2/j pendant 10 à 14 jours  
+    ou lévofloxacine 750 mg (indisponible en France) x 1/j
   - OU doxycycline 200 mg x 2/j à J1 puis 100 mg x 2/j pendant 10 à 14 jours  
     \+ TODO: Entérobactérie pendant 10 à 14 jours
 - Si homme âgé sans rapports à risque: traitement d'une infection urinaire masculine  
