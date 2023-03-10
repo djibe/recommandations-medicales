@@ -437,7 +437,7 @@ accTitle: Prise en charge de l'arrêt du tabac d'après HAS 2014
   style tabagisme stroke:#4150f5, stroke-width:1px
   tabagisme -- Oui --> essai("« Avez-vous déjà envisagé<br>d'arrêter de fumer ?<br>Voulez-vous qu'on<br>prenne le temps d'en parler ? »<br>Proposer une brochure")
     essai --> Oui --> debut("<b>Intention</b><br>—<br>- Croyances, dépendance<br>- Conseiller d'arrêter<br>- Évaluer la motivation") --> arrêt("<b>Action</b><br>—<br>- TNS<br>- Suivi hebdomadaire<br>- Appli Tabac Info<br>- Soutien psychologique")
-    essai -- Non --> refus("<b>Pré-intention</b><br>—<br>Conseiller d'arrêter<br>« Savez-vous qu'il existe<br>des moyens pour vous aider<br>à arrêter de fumer et<br>à soulager les<br>symptômes de sevrage ?»<br>- Rappeler votre disponibilité<br>- Proposer une réduction (&plusmn; TNS)")
+    essai -- Non --> refus("<b>Pré-intention</b><br>—<br>Conseiller d'arrêter<br>« Savez-vous qu'il existe<br>des moyens pour vous aider<br>à arrêter de fumer et<br>à soulager les<br>symptômes de sevrage ?»<br>- Rappeler votre disponibilité<br>- Proposer une réduction (± TNS)")
   tabagisme -- Non --> antecedent("« Avez-vous<br>déjà fumé ? »")
     antecedent -- Oui --> ancien("« - Combien de temps ?<br>- Quand avez-vous<br>arrêté ? »")
       ancien -- Arrêt récent --> ancien1("« Vous avez pris une décision<br>bénéfique pour votre santé »<br>Évaluer les envies et leur gestion") --> ouvert("« Sachez que je suis<br>disponible pour vous aider<br>si vous craignez de rechuter »")

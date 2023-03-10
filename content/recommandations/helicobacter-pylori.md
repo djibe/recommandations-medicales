@@ -39,7 +39,7 @@ Dysphagie, amaigrissement, anémie.
 <div class="card card-hover card-list-material my-4">
   <div class="card-body">
     <h3 class="card-title mt-0">Aide au choix du traitement d'<em>Helicobacter pylori</em> 2021</h3>
-    <h4 class="card-subtitle">Dr JB Fron d'après <abbr title="Groupe d'Études Français des Helicobacter">GEFH</abbr></h4>
+    <h4 class="card-subtitle">Dr JB Fron d'après <dfn><abbr title="Groupe d'Études Français des Helicobacter">GEFH</abbr></dfn></h4>
     <p class="card-text">Le traitement devrait toujours être guidé (antibiogramme, PCR).</p>
     <input type="checkbox" id="btn-atbgramme" class="d-input-none" checked onclick="functionHp()">
     <label for="btn-atbgramme" class="chip chip-action chip-filter" data-toggle="collapse" data-target="#hp-1-reference">Antibiogramme</label>

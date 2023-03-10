@@ -293,9 +293,9 @@ Les mammographies sont remboursées à 100% (les examens supplémentaires ne le 
 ### En Île-de-France
 
 - Institut Gustave Roussy (IGR)
-  - Pas encore de diagnostic (fournir les examens): [en ligne](https://rdv.gustaveroussy.fr/)   ou {{<phone>}}01 42 11 64 33{{</phone>}} (lun-ven 8:45-12:45 et 13:45-16:00)
+  - Pas encore de diagnostic (fournir les examens): [en ligne](https://rdv.gustaveroussy.fr)   ou {{<phone>}}01 42 11 64 33{{</phone>}} (lun-ven 8:45-12:45 et 13:45-16:00)
   - Diagnostic posé mais pas encore suivie: {{<phone>}}01 42 11 64 33{{</phone>}} (oncologie)
-  - 2<sup>e</sup> avis médical: [fiche](https://www.gustaveroussy.fr/sites/default/files/gustaveroussy-2d-avis-sein-form.docx) à renvoyer à <avis.sein@gustaveroussy.fr>
+  - 2<sup>e</sup> avis médical: [fiche](https://www.gustaveroussy.fr/sites/default/files/gustaveroussy-2d-avis-sein-form-0323.docx) à renvoyer à <avis.sein@gustaveroussy.fr>
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}

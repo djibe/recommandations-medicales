@@ -25,7 +25,7 @@ todo = "modal DIU, nb grossesses efficacité, ONU contraceptions pays, critères
 
 - Contraception gratuite avant 26 ans (consultation, pilule/stérilet, coter GS Exo 3 depuis le [1/1/22](https://www.service-public.fr/particuliers/actualites/A15158))
 - Seul le préservatif est efficace contre les [IST](/tags/ist/) (gratuit sans ordonnance en pharmacie pour les -26 ans)
-- [QuestionSexualité - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception) et [choisirsacontraception.fr](https://www.choisirsacontraception.fr/), [Annuaire des centres de santé sexuelle](https://ivg.gouv.fr/les-centres-de-sante-sexuelle.html)
+- [QuestionSexualité - Choisir sa contraception](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception) et [choisirsacontraception.fr](https://www.choisirsacontraception.fr), [Annuaire des centres de santé sexuelle](https://ivg.gouv.fr/les-centres-de-sante-sexuelle.html)
 - Contraceptions très efficaces de première intention: COP, DIU, implant
 - Démarrer une contraception hormonale: débuter le *1er jour des règles*  
   ou démarrage à tout moment du cycle: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1<sup>re</sup> plaquette.

@@ -210,7 +210,7 @@ graph TB
   fdr["<strong>Facteur de risque de NASH</strong><br>—<br>- Obésité<br>- Diabète type 2<br>- VIH avec lipodystrophie<br>- Stéatose échographique"] --> hautRisque("- Obésité morbide ?<br>- Diabète type 2 avec<br>stéatose échographique ?<br>- Infection VIH avec ALAT<br>augmentées ?<br>- Cytolyse chronique inexpliquée ?")
   hautRisque -- Non --> bilan
   hautRisque -- Oui envisager PBH--> gastro
-  bilan("<strong>Compléter le bilan</strong><br>—<br>- NFS, bilan hépatique, TP<br>- Glycémie, lipidique<br>- Échographie hépatique<br>- Sérologies VHB, VHC<br>&plusmn; CST")
+  bilan("<strong>Compléter le bilan</strong><br>—<br>- NFS, bilan hépatique, TP<br>- Glycémie, lipidique<br>- Échographie hépatique<br>- Sérologies VHB, VHC<br>± CST")
     bilan --> fib4[Score FIB-4 annuel]
       fib4 -- "&lt; 1,3 | 2 si +65 ans" --> rhd("- Optimisation cardiovasculaire<br>- Perte 10% poids<br>- FIB-4 annuel")
       fib4 -- "≥ 1,3 | 2" --> nonInvasif("Compléter par Fibromètre®,<br>Fibrotest® ou ELF®")
@@ -233,7 +233,7 @@ graph TB
 
 - [Académie de Médecine. Stéatose hépatique non alcoolique : maladie fréquente, diagnostic devenu facile, prévention indispensable – Académie nationale de médecine. 16/12/2022.](https://www.academie-medecine.fr/steatose-hepatique-non-alcoolique-maladie-frequente-diagnostic-devenu-facile-prevention-indispensable/)
 - {{< references/afef-foie-non-invasif >}}
-- [SNFGE, AFEF. Diagnostic de la NASH. Conseil de pratique. Mars 2019.](https://www.snfge.org/download/file/fid/3648)
+- SNFGE, AFEF. Diagnostic de la NASH. Conseil de pratique. Mars 2019.
 - [SNFGE. Stéatose hépatique non alcoolique (NAFLD/NASH).](https://www.snfge.org/content/steatose-hepatique-non-alcoolique-nafldnash)
 - [AFEF. Stéatose et stéato-hépatite](https://afef.asso.fr/la-maladie/maladies/steatose-et-steato-hepatite/)
 - [Ameli. Stéatose hépatique ou maladie du foie gras non alcoolique.](https://www.ameli.fr/assure/sante/themes/steatose-hepatique)

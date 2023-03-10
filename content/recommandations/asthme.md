@@ -392,7 +392,7 @@ Reconnaissance de la crise d'asthme (exacerbation) par le patient et application
             textAct.innerHTML = "Asthme contrôlé"
           }
           else if (score < 20) {
-            textAct.innerHTML = "Asthme non contrôlé<br><span class=\"text-muted\">Intensifier le traitement (augmenter le CSI &plusmn; LABA)</span>"
+            textAct.innerHTML = "Asthme non contrôlé<br><span class=\"text-muted\">Intensifier le traitement (augmenter le CSI ± LABA)</span>"
           }
         } else {
           textAct.innerHTML = "Veuillez répondre à toutes les questions"

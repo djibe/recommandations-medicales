@@ -84,7 +84,7 @@ Angor
     2. Douleur qui dure plusieurs minutes (< 20 minutes)
     3. Douleur soulagée par le repos ou la nitroglycérine
 : Une dyspnée d'effort peut être considérée comme un équivalent d'angor en l'absence d'autre cause.
-: La **<abbr title="Stratification de la probabilité de coronaropathie avant le test d'effort">probabilité pré-test**</abbr> est calculée selon l'âge, le sexe, l'angor.
+: La **<abbr title="Stratification de la probabilité de coronaropathie avant le test d'effort">probabilité pré-test</abbr>** est calculée selon l'âge, le sexe, l'angor.
 
 ---
 

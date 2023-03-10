@@ -302,7 +302,7 @@ accTitle: Prise en charge de l'algie vasculaire de la face d'après SFEMC 2014
     ICHD3 --> examens("IRM et ARM cérébrale<br>au diagnostic")
       examens --> suivi("- Suivi spécialisé (neuro, ORL, douleur)<br>- Arrêt toxiques")
         suivi --> crise("<b>Traitement de la crise</b><br>—<br>- Sumatriptan SC 6 mg<br>- Oxygénothérapie 12-15 L/min")
-          crise --> fond("<b>Traitement de fond</b><br>—<br>- Débuter dès la 1<sup>re</sup> récidive<br>- Vérapamil en titration de<br>240 à 480 mg<br>- Sous surveillance ECG<br>&plusmn; traitement transitionnel")
+          crise --> fond("<b>Traitement de fond</b><br>—<br>- Débuter dès la 1<sup>re</sup> récidive<br>- Vérapamil en titration de<br>240 à 480 mg<br>- Sous surveillance ECG<br>± traitement transitionnel")
     ICHD3 -- Diagnostic différentiel --> differentiel("- Migraine<br>- Névralgie du trijumeau<br>- Autres CTA")
 {{< /mermaid >}}
 

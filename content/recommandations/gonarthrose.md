@@ -286,11 +286,11 @@ Recours possible à la duloxétine sur prescription par un expert en l'absence d
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link-external title="Sémiologie du genou en vidéo" url="http://www.lecofer.org/semiologie.php" subtitle="Le COFER" >}}
+{{< card-link-external title="Sémiologie du genou en vidéo" url="http://www.lecofer.org/semiologie.php" subtitle="COFER" >}}
 
 - [Congrès SFR 2021 (12-14 décembre 2021, Paris) - Recommandations 2021 pour la prise en charge non pharmacologique des malades atteints de gonarthrose (PDF)](https://seralpar.aphp.fr/sites/default/files/recommandations_non-pharmacologiques_gonarthrose_nguyen_rannou.pdf)
 - [Sellam J. et al. Recommandations de la Société Française de Rhumatologie sur la prise en charge pharmacologique de la gonarthrose. Revue du Rhumatisme. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301769)
-- [COFER. Arthrose. Item 129 UE 6.](http://www.lecofer.org/item-cours-1-8-0.php)
+- [Collège Français des Enseignants en Rhumatologie (COFER). Arthrose. Item 129 UE 6. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-8-0.php)
 
 ### À lire
 

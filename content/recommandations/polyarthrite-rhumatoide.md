@@ -331,7 +331,7 @@ graph TB
 - [Smolen JS. et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2016 update. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/6/960)
 - [HAS. ALD n° 22 - Polyarthrite rhumatoïde évolutive grave. 2008 et 2015.](https://www.has-sante.fr/jcms/c_664454/fr/ald-n-22-polyarthrite-rhumatoide-evolutive-grave)
 - [Société Française de Rhumatologie. Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. Juin 2014.](https://www.sciencedirect.com/science/article/pii/S1169833014001148)
-- [Le COFER. Polyarthrite rhumatoïde. Item 196 UE 8.](http://www.lecofer.org/item-cours-1-17-0.php)
+- [Collège Français des Enseignants en Rhumatologie (COFER). Polyarthrite rhumatoïde. Item 196 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-17-0.php)
 
 {{%/sources%}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}

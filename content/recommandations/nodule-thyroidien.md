@@ -17,6 +17,7 @@ icd10 = "E04.1"
 image = true
 imageSrc = "Échographie d'un nodule thyroïdien de type colloïde bien limité de 3 cm du lobe gauche découvert en palpation chez une femme de 40 ans. Ian Bickle, Radiopaedia.org, rID: 47068"
 flowchart = true
+todo = "relecture demandée Menegaux"
 +++
 
 {{%article-summary%}}

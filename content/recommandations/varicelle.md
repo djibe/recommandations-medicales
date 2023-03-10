@@ -280,7 +280,7 @@ graph TB
 grossesse[Contage varicelle<br>de la femme enceinte] --> antecedent(Antécédent de varicelle ?)
 style grossesse stroke:#4150f5, stroke-width:1px
   antecedent -- Non --> serologie(Sérologie en<br>urgence)
-    serologie -- Négative --> dan("Avis Diagnostic Anténatal<br>en urgence<br>&plusmn; Ig anti-VZV<br>&plusmn; Antiviral aciclovir")
+    serologie -- Négative --> dan("Avis Diagnostic Anténatal<br>en urgence<br>± Ig anti-VZV<br>± Antiviral aciclovir")
     serologie -- Positive --> ras
   antecedent -- Oui --> ras(Pas de risque<br>Ne rien faire)
 {{< /mermaid >}}

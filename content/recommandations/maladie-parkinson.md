@@ -310,7 +310,7 @@ La réponse aux traitements est un argument fort pour la confirmation diagnostiq
 Les traitements médicamenteux antiparkinsoniens ne sont pas indispensables en l'absence de retentissement moteur. En première intention, les **IMAO B et agonistes dopaminergiques** sont préférés afin d'épargner la L-Dopa.
 
 - IMAO-B (inhibition du catabolisme de la dopamine)  
-  Sélégiline (Deprenyl®), rasagiline.
+  Sélégiline (Deprenyl®), rasagiline, safinamide (non remboursé, Xadago®).
 - Agonistes dopaminergiques
   - Le plus longtemps possible
   - Dérivés de l'ergot de seigle: **ropinirole**, piribédil (Trivastal®), pramipexole, rotigotine (Neupro®, transdermique)

@@ -624,7 +624,7 @@ graph TB
 - [World Health Organization. Assessment of fracture risk and its application to screening for postmenopausal osteoporosis : report of a WHO study group. World Health Organization. 1994.](https://apps.who.int/iris/handle/10665/39142)
 - [GRIO. Site officiel](http://www.grio.org/)
 - [International Osteoporosis Foundation](https://www.osteoporosis.foundation/)
-- [COFER. Ostéopathies fragilisantes. Item 128 UE 6.](http://www.lecofer.org/item-cours-1-7-0.php)
+- [Collège Français des Enseignants en Rhumatologie (COFER). Ostéopathies fragilisantes. Item 128 UE 6. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-7-0.php)
 
 ### À lire
 

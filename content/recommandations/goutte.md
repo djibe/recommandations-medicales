@@ -342,7 +342,7 @@ accTitle: Prise en charge d'une crise de goutte d'après SFR et ACR 2020
   crise[Crise de goutte] --> rhd("- Éducation<br>- Traitement à avoir sur soi<br>- Envisager hypouricémiant")
   style crise stroke:#4150f5, stroke-width:1px
     rhd --> comorbidites("Comorbidités et<br>coprescriptions")
-      comorbidites -- Sans --> sans("AINS &plusmn; IPP<br>ou colchicine<br>ou corticoïdes") .-> echec(Échec des possibilités)
+      comorbidites -- Sans --> sans("AINS ± IPP<br>ou colchicine<br>ou corticoïdes") .-> echec(Échec des possibilités)
       comorbidites -- IRC sévère --> irc(Corticoïdes) .-> echec
       comorbidites -- MCV sévère --> mcv(Colchicine<br>ou corticoïdes) .-> echec
       comorbidites -- Inhibiteurs CYP3A4/GP --> inh(AINS<br>ou corticoïdes) .-> echec
@@ -421,7 +421,7 @@ Intérêt de colchicine prophylactique.
 - [FitzGerald JD. et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res. 2020.](https://onlinelibrary.wiley.com/doi/full/10.1002/acr.24180)
 - [Richette P. et al. 2016 updated EULAR evidence-based recommendations for the management of gout. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/1/29)
 - [ANSM. Allopurinol et risque de survenue de toxidermies graves – Lettre aux professionnels de santé. 25 Février 2013.](https://archiveansm.integra.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Allopurinol-et-risque-de-survenue-de-toxidermies-graves-Lettre-aux-professionnels-de-sante)
-- [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8.](http://www.lecofer.org/item-cours-1-19-0.php#ch_2_1)
+- [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8. 7e édition. 2020.](http://www.lecofer.org/item-cours-1-19-0.php#ch_2_1)
 
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}

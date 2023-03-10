@@ -2,7 +2,7 @@
   "concurrency": 100,
   "skip": [
     "^(?!http)",
-    "recommandations",
+    "annees",
     "tags",
     "images",
     "recomedicales.fr",

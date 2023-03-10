@@ -237,7 +237,7 @@ graph TD
 diagnostic["Diagnostic clinique<br>de canal carpien<br>(écho ou EMG si doute)"] --> gravite{Signes de gravité ?}
 style diagnostic stroke:#4150f5, stroke-width:1px
 diagnostic -- Diagnostic différentiel --> differentiel("- Atteintes radiculaires C6-C7<br>- Syndrome de la traversée thoraco-brachiale<br>- Myélopathies cervicales<br>- Plexopathies<br>- Neuropathies périphériques<br>- Compression du n. médian en amont<br>- Acrosyndromes vasculaires<br>- Paresthésies fonctionnelles")
-  gravite -- Oui --> emg(EMG) -- Confirmation --> chir("Chirurgie<br>&plusmn; Maladie professionnelle") -.-> emg
+  gravite -- Oui --> emg(EMG) -- Confirmation --> chir("Chirurgie<br>± Maladie professionnelle") -.-> emg
   gravite -- Non --> medical("<strong>Traitement médical</strong><br>—<br>- Attelle nocturne max 3 mois<br>- 2 infiltrations") -. Échec .-> medTravail(Adaptation du poste) -. Échec .-> emg
 {{< /mermaid >}}
 

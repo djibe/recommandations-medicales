@@ -17,18 +17,18 @@ sctid = "31681005"
 icd10 = "G50.0"
 image = true
 imageWEBP = true
-imageSrc = "Illustration de la névralgie du trijumeau par BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
+imageSrc = "Illustration des trois branches du nerf trijumeau et leur territoire sensitif. BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "durée avant envisager décroissance, attente A. Donnet"
+todo = "durée avant envisager décroissance, relecture demandée LMM"
 +++
 
 {{%article-summary%}}
 
-- Les recommandations concernent la névralgie du trijumeau forme essentielle/idiopathique de l'adulte
-- Critères diagnostiques stricts de la névralgie du trijumeau
+- Les recommandations concernent la névralgie du trijumeau dans sa forme essentielle (idiopathique) de l'adulte
+- Critères diagnostiques stricts ICHD-3 de la névralgie du trijumeau
 - Normalité de l'examen neurologique intercritique
-- IRM cérébrale 3T systématique
-- Prise en charge de la névralgie du trijumeau par carbamazépine ou oxcarbazépine
+- Le bilan comporte toujours une IRM cérébrale 3T systématique
+- Prise en charge de la névralgie du trijumeau par antiépileptiques (carbamazépine ou oxcarbazépine)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

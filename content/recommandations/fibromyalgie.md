@@ -112,7 +112,7 @@ Les critères diagnostiques ACR 2016 permettent de poser le diagnostic de fibrom
 
 ### Autres questionnaires diagnostiques
 
-- TODO: p30 Auto-questionnaire FiRST (Fibromyalgia Rapid Screening Tool) pour le dépistage
+- TODO: Auto-questionnaire FiRST (PDF)
   Se 84-92% et Spe 55-87%
 
 {{% /collapse %}}
@@ -124,7 +124,7 @@ Symptômes maîtres évocateurs de fibromyalgie:
 
 1. Douleurs chroniques (≥ 3 mois) diffuses  
   Principalement musculo-squelettiques (arthralgies, myalgies, douleurs tendineuses). Décrites comme "dans tout le corps" ou migratrices.
-2. Allodynie  
+1. Allodynie  
   Douleur déclenchée pour un stimulus indolore pour la population générale.
 
 Avis spécialisé si nécessaire (doute diagnostique, échec des traitements): rhumatologue, neurologue, médecine interne.
@@ -156,7 +156,7 @@ Rechercher une fibromyalgie en cas de douleur chronique.
 - Retentissement: TODO: SF-12, FIQ-R (Fibromyalgia Impact Questionnaire revised)
 - Diagnostic différentiel
   - Endocrinopathie  
-    [Hypothyroïdie]({{< relref "hypothyroidie.md" >}}), hyperthyroïdie, hypoparathyroïdie, ostéomalacie, diabète phosphoré.
+    [Hypothyroïdie]({{< relref "hypothyroidie.md" >}}), hyperthyroïdie, hyperparathyroïdie, ostéomalacie, diabète phosphoré.
   - Rhumatisme  
     [Spondyloarthrite axiale]({{< relref "spondylarthrite-ankylosante.md" >}}), [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), lupus, syndrome de Gougerot-Sjögren.
   - Iatrogénie  
@@ -166,6 +166,7 @@ Rechercher une fibromyalgie en cas de douleur chronique.
   - [Syndrome d'apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) (45% parmi ceux explorés)  
     {{< modal-btn modal-saos >}}Dépister avec le score STOP-BANG{{< /modal-btn >}}.
   - Symptômes anxio-dépressifs (60-85%): {{< modal-btn modal-had >}}score HAD{{< /modal-btn >}}
+  - [Troubles climatériques]({{< relref "menopause.md" >}})
   - Autres  
     Syndrome de fatigue chronique, syndrome de l'intestin irritable (30-70%), céphalées de tension, conflit de l'articulation temporo-mandibulaire.
 
@@ -177,26 +178,35 @@ Rechercher une fibromyalgie en cas de douleur chronique.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Bilan général
+Bilan général (non précisé dans les recommendations):
+
+- NFS, CRP
+- Ionogramme sanguin
+- Créatininémie et DFG
+- TSH
+- Calcémie corrigée, albuminémie
+- CPK
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
 > << Une activité physique adaptée (APA) doit être considérée comme le socle du traitement de la fibromyalgie >> (*Inserm 2020*)
 
-- Éducation thérapeutique du patient (ETP, formulaire info biopsychosociale) TODO:  
+- Éducation thérapeutique du patient (ETP, formulaire info bio-psycho-sociale) TODO:  
   Ameli.fr, Association.
-- Activité physique adaptée (APA)  
-  Aérobie (marche) et en résistance, voire aquatique, yoga, Thaï-chi ou Qi Gong.
+- Activité physique adaptée (APA) régulière  
+  Aérobie (marche, vélo, natation) et en résistance, voire aquatique, yoga, Thaï-chi ou Qi Gong.
 - Psychothérapie
   - Indications: Difficultés à gérer la fibromyalgie, modulation des symptômes liés au stress ou à des problèmes personnels, comorbidités psychiatriques (troubles de l'humeur, anxiété, addiction)
   - Autres techniques: thérapie cognitive et comportementale (TCC), hypnose voire méditation de pleine conscience.
-- Correction d'un surpoids accompagné
+- Correction d'un surpoids
+- Réduction des consommations de tabac, d'alcool et de café
+- Règles d'hygiène de sommeil ([guide Ameli (PDF)](https://www.ameli.fr/sites/default/files/Documents/4892/document/apprendre-dormir-conseils_assurance-maladie.pdf))
 - Maintien dans l'emploi: RQTH, médecin du travail
 - Association de patients  
   [Fibromyalgie France](https://www.fibromyalgie-france.org), [FibromyalgieSOS](https://fibromyalgiesos.fr), [Fibromyalgies](https://fibromyalgies.fr)
 
-Aucun médicament n'a l'AMM en Europe pour cette indication mais 3 médicaments ont montré une amélioration de la douleur ≥ 30% et une amélioration de la qualité dévie sans différence d'efficacité et de tolérance chez l'adulte: prégabaline 300 mg (antiépileptique), duloxétine 60 mg (IRSNA), milnacipran 100 mg (IRSNA), Amitriptyline (Cochrane).
+Aucun médicament n'a l'AMM en Europe pour cette indication mais 3 médicaments ont montré une amélioration de la douleur ≥ 30% et une amélioration de la qualité dévie sans différence d'efficacité et de tolérance chez l'adulte: prégabaline 25-300 mg (antiépileptique), duloxétine 30-60 mg (IRSNA), milnacipran 5-100 mg (IRSNA), amitriptyline 10-50 mg (*Cochrane 2015*).
 
 Seulement 40% ont effet de 30%
 
@@ -225,7 +235,9 @@ Ne pas utiliser d'opioïdes (paliers 2 ou 3) pour la fibromyalgie
 - Prescrire
 - ACR 2016
 - SFETD/HAS 2008 douleurs chroniques
-- Collège MedInt
+- Collège National des Enseignants de Médecine Interne (CEMI). Troubles à symptomatologie somatique et apparentés à tous les âges. Item 72. Référentiel Collège de Médecine interne R2C. 2021.  
+  p67
+- [Clauw DJ. Fibromyalgia: a clinical review. JAMA. 2014.](https://pubmed.ncbi.nlm.nih.gov/24737367/)
 
 {{%/sources%}}
 

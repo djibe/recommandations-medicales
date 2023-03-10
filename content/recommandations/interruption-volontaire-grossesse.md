@@ -211,10 +211,10 @@ Informer sur le recours à la [contraception d'urgence]({{< relref "contraceptio
 graph TB
   demande[Demande d'IVG]
   style demande stroke:#4150f5, stroke-width:1px
-    demande --> cs("Calcul du terme (DDR)<br>&plusmn; examen")
+    demande --> cs("Calcul du terme (DDR)<br>± examen")
     cs --> orientation("Orienter pour RDV sous 5j<br>—<br>0 800 08 11 11<br>ivglesadresses.org")
       orientation -- "&lt; 10 SA" --> med(Traitement médical<br>ambulatoire)
-        med --> suivi("<b>Consultation de suivi</b><br>—<br>- Contrôle à J14-J21<br>- bHCG, examen<br>- Contraception<br>&plusmn; Prévention allo-immunisation rhésus<br>- Suivi psychologique")
+        med --> suivi("<b>Consultation de suivi</b><br>—<br>- Contrôle à J14-J21<br>- bHCG, examen<br>- Contraception<br>± Prévention allo-immunisation rhésus<br>- Suivi psychologique")
       orientation -- 10-16 SA --> chir(Aspiration chirurgicale) --> suivi
 {{< /mermaid >}}
 

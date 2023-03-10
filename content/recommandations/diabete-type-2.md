@@ -342,7 +342,7 @@ Bilan à jeun pendant 12 heures:
 | [Néphropathie]({{< relref "insuffisance-renale-chronique.md" >}}) | Créatininémie, albuminurie/créatininurie annuels | ADA 2023, KDIGO 2022 |
 | Neuropathie  | Dépistage annuel: monofilament, pic-touche, diapason, hypotension orthostatique, sécheresse cutanée | ADA 2023, ESC 2019 diabetes |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | ADA 2023, SFD 2016       |
-| Score calcique | {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} &plusmn; EE | SFD 2021 CAD |
+| Score calcique | {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± EE | SFD 2021 CAD |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
 | [Vaccins]({{< relref "vaccination.md" >}}) | Covid-19, [grippe]({{< relref "grippe.md" >}}), {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
 | Vitamine B12 | Si metformine: dosage après 4 ans de traitement                                                  | KDIGO 2022 diabetes      |
