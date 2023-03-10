@@ -31,11 +31,15 @@ todo = ""
 
 
 {{% /collapse %}}
+{{%collapse "Clinique" %}}
+
+
+{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 
 {{% /collapse %}}
-{{%collapse "Prévention" %}}
+{{%collapse "Traitement" %}}
 
 
 {{% /collapse %}}

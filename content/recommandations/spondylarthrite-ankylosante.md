@@ -83,6 +83,9 @@ Spondylarthropaties indifférenciées
 AINS
 : anti-inflammatoires non stéroïdiens
 
+EULAR
+: {{%lang%}}European League Against Rhumatism{{%/lang%}}
+
 MICI
 : maladie inflammatoire chronique de l'intestin
 

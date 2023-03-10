@@ -6,7 +6,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-02-23T15:48:55+01:00"
 publishdate = "2023-03-06"
-lastmod = "2023-03-06"
+lastmod = "2023-03-09"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["SFE", "AFCE", "SFMN"]
@@ -25,7 +25,7 @@ flowchart = true
 - Rechercher des antécédents thyroïdiens familiaux et personnels (irradiation cervicale, génétiques NEM2, PAF ...) et des complications (douleurs, dysphonie, dysphagie, dyspnée)
 - Le bilan initial d'un nodule thyroïdien comporte une TSH seule
 - Indications à l'échographie de la thyroïde: nodule palpable, gênant ou compressif, incidentalome en imagerie. Elle donne le score EU-TIRADS
-- Indications à la cytoponction: adénopathie cervicale suspecte, EU-TIRADS 5 > 10 mm, EU-TIRADS 4 > 10, EU-TIRADS 3 > 20. Elle donne le score de Bethesda
+- Indications à la cytoponction: adénopathie cervicale suspecte, EU-TIRADS 5 > 10 mm, EU-TIRADS 4 > 10 mm, EU-TIRADS 3 > 20 mm. Elle donne le score de Bethesda
 - Surveillance des nodules EU-TIRADS 2-3-4 ou Bethesda II: échographie à 1-2 ans puis 2-4 ans plus tard puis tous les 4-5 ans
 - La prise en charge du nodule thyroïdien chez l'enfant et pendant la grossesse relève du spécialiste (TSH + échographie systématique)
 
@@ -98,7 +98,7 @@ TA
 - Risque élevé
   - Nodule solide récent ou de croissance rapide
   - Nodule dur, irrégulier ou adhérent
-  - 1/+ adénopathie locale
+  - Adénopathie(s) locale(s)
   - Signes de compression ou d'extension locale sans autre cause  
     Dysphonie, dysphagie, dyspnée laryngée, adénopathies sus-claviculaires ou jugulo-carotidiennes.
   - Nodule hypermétabolique (TEP)
@@ -261,7 +261,7 @@ Nodules thyroïdiens pours lesquels une chirurgie doit être discutée:
 
 Lobo-isthmectomie (LI), isthmectomie ou thyroïdectomie totale (TT), curage ganglionnaire selon les cas.
 
-Complications possibles: **hypothyroïdie** (TSH à 6-8 semaines) et **hypocalcémie** iatrogène (si persistante à 6 mois avec PTH inadaptée).
+Complications possibles: [hypothyroïdie]({{< relref "hypothyroidie.md" >}}) (TSH à 6-8 semaines) et **hypocalcémie** iatrogène (si persistante à 6 mois avec PTH inadaptée).
 
 La **thermoablation** (TA) est une alternative en cas de nodule bénin solide: gênant, autonome ou volumineux. Surveillance bio-échographique à 3, 6, 12 mois puis annuellement pendant 5 ans. Elle peut parfois être combinée à l'alcoolisation percutanée.
 
@@ -316,10 +316,11 @@ Arrêt de la surveillance possible pour un nodule bénin ancien et non évolutif
 
 ### Surveillance active
 
-Une **surveillance active** (+45 ans préférable) est possible en l'absence d'extension pour un nodule à distance du nerf récurrent et de la trachée:
+Une **surveillance active** plutôt qu'un traitement radical est envisageable chez le +45 ans, en l'absence d'extension pour un nodule à distance du nerf récurrent et de la trachée pour les nodules suivants:
 
-- Un carcinome ou un nodule EU-TIRADS 5 ≤ 10 mm
-- Nodule indéterminé (Bethesda III à V) sauf Bethesda III-IV > 20 mm ou Bethesda V > 15 mm
+- Carcinome ou nodule EU-TIRADS 5 ≤ 10 mm
+- Nodule indéterminé (Bethesda III à V)  
+  sauf Bethesda III-IV > 20 mm ou Bethesda V > 15 mm.
 
 Échographie à 6, 12 mois puis annuelle pendant 4 ans, renouvelée à 7 ans puis espacée tous les 2-3 ans.
 
@@ -352,8 +353,8 @@ accTitle: Prise en charge d'un nodule thyroïdien d'après SFE/AFCE/SFMN 2022
   TSH -- Normale --> échographie("Échographie si ≥ 1 parmi:<br>- Nodule palpable<br>- Gênant<br>- Compressif<br>- Incidentalome<br>- Suivi spécialisé")
     échographie --> TIRADS(EU-TIRADS ?)
     style TIRADS stroke:#4150f5, stroke-width:1px
-      TIRADS --> bas("- 2<br>- 3 ≤ 20<br>- 4 ≤ 15<br>- 5 ≤ 10") --> surveillance
-      TIRADS --> intermédiaire("- 3 &gt; 20<br>- 4 &gt; 15<br>- 5 &gt; 10") --> cytoponction("Cytoponction:<br><b>Bethesda</b>")
+      TIRADS --> bas("- 2<br>- 3 ≤ 20 mm<br>- 4 ≤ 15 mm<br>- 5 ≤ 10 mm") --> surveillance
+      TIRADS --> intermédiaire("- 3 &gt; 20 mm<br>- 4 &gt; 15 mm<br>- 5 &gt; 10 mm") --> cytoponction("Cytoponction:<br><b>Bethesda</b>")
         cytoponction --> 2(II) --> surveillance("<b>Surveillance</b><br>—<br>EU-TIRADS 2-3-4:<br>écho à 1-2 ans<br>puis 2-4 ans + tard<br>puis tous les 4-5 ans<br>—<br>EU-TIRADS 5:<br>écho tous les<br>1-2 ans pendant 5 ans<br>puis espacée")
         cytoponction --> 1(I) --> contrôle(Cytoponction<br>de contrôle)
         cytoponction --> 3(III) --> contrôle
@@ -365,8 +366,7 @@ accTitle: Prise en charge d'un nodule thyroïdien d'après SFE/AFCE/SFMN 2022
         autonome -- Oui --> Hyperthyroidie("TSH 0,1-0,4:<br>surveillance<br>—<br>TSH &lt; 0,1:<br>IRAth ou chir")
 {{< /mermaid >}}
 
-> Taille en mm  
-La prise en charge pendant la grossesse n'est pas reprise ici.
+> La prise en charge du nodule thyroïdien pendant la grossesse n'est pas détaillée ici.
 
 {{% /collapse %}}
 {{%sources%}}

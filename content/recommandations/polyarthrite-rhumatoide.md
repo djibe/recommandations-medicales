@@ -69,6 +69,9 @@ Autres diagnostics à évoquer devant des polyarthralgies:
 dTP
 : vaccin diphtérie-tétanos-poliomyélite
 
+EULAR
+: {{%lang%}}European League Against Rhumatism{{%/lang%}}
+
 IPD
 : articulation interphalangienne distale
 

@@ -62,6 +62,9 @@ ACR
 DFGe
 : débit de filtration glomérulaire estimé
 
+EULAR
+: {{%lang%}}European League Against Rhumatism{{%/lang%}}
+
 SFR
 : Société française de rhumatologie
 {.dl-inline}
