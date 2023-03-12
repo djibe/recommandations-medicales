@@ -112,8 +112,7 @@ Les critères diagnostiques ACR 2016 permettent de poser le diagnostic de fibrom
 
 ### Autres questionnaires diagnostiques
 
-- TODO: Auto-questionnaire FiRST (PDF)
-  Se 84-92% et Spe 55-87%
+{{< modal-btn modal-first >}}Auto-questionnaire FiRST{{< /modal-btn >}}.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -151,7 +150,7 @@ Rechercher une fibromyalgie en cas de douleur chronique.
   - **Troubles du sommeil** (62-95%)  
     Non réparateur, plus court, superficiel.
   - Difficultés de concentration, d'attention et mémorisation (75%)  
-    "Trous de mémoire", "esprit cotonneux". MMSE, MoCa ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf))
+    "Trous de mémoire", "esprit cotonneux" ("fibrofog"). MMSE, MoCa ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf))
   - Capacités physiques réduites (parfois jusqu'à la peur du mouvement)
 - Retentissement: TODO: SF-12, FIQ-R (Fibromyalgia Impact Questionnaire revised)
 - Diagnostic différentiel
@@ -246,6 +245,11 @@ Ne pas utiliser d'opioïdes (paliers 2 ou 3) pour la fibromyalgie
 {{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
 
 {{< scores/stop-bang >}}
+
+{{% /modal %}}
+{{% modal title="Score FiRST" id="modal-first"%}}
+
+{{< scores/had >}}
 
 {{% /modal %}}
 {{% modal title="Score HAD" id="modal-had"%}}

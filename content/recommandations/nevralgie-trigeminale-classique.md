@@ -5,9 +5,10 @@ titleSeo = "Névralgie du trijumeau"
 description = "Recommandations pour la prise en charge d'une névralgie du trijumeau. Critères diagnostiques et imagerie IRM cérébrale, traitement de la douleur carbamazépine"
 synonyms = ["Névralgie du trijumeau"]
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Pr M. LANTERI-MINET (SFETD)"
 date = 2021-03-05T23:43:00+02:00
 publishdate = "2021-03-21"
-lastmod = "2023-01-03"
+lastmod = "2023-03-12"
 specialites = ["neurologie"]
 annees = "2019"
 sources = ["EAN", "SFEMC", "SFNC"]
@@ -26,8 +27,8 @@ todo = "durée avant envisager décroissance, relecture demandée LMM"
 
 - Les recommandations concernent la névralgie du trijumeau dans sa forme essentielle (idiopathique) de l'adulte
 - Critères diagnostiques stricts ICHD-3 de la névralgie du trijumeau
-- Normalité de l'examen neurologique intercritique
-- Le bilan comporte toujours une IRM cérébrale 3T systématique
+- Normalité de l'examen neurologique entre les crises
+- Le bilan comporte toujours une IRM cérébrale 3T
 - Prise en charge de la névralgie du trijumeau par antiépileptiques (carbamazépine ou oxcarbazépine)
 
 {{%/article-summary%}}
@@ -36,8 +37,7 @@ todo = "durée avant envisager décroissance, relecture demandée LMM"
 Névralgie trigéminale classique (NTC)
 : *Ex* **névralgie du trijumeau**.  
 Neuropathie crânienne douloureuse rare atteignant le nerf trijumeau qui évolue par poussées douloureuses chez des sujets d'âge moyen (60 ans) avec 2/3 de femmes. Les douleurs sont à l'origine d'une dégradation de la qualité de vie.
-: Un conflit vasculo-nerveux est le facteur causal majeur de la NTC, situé au niveau de la citerne pré-pontique entre une méga-dolicho-artère (artère cérébelleuse antéro-supérieure ++) et la portion centrale de la racine à l'origine de démyélinisation.  
-Ce conflit est aggravé par l'[hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}).
+: Un conflit vasculo-nerveux est le facteur causal majeur de la NTC, situé au niveau de la citerne pré-pontique entre une méga-dolicho-artère (artère cérébelleuse antéro-supérieure ++) et la portion centrale de la racine à l'origine de démyélinisation.
 : Les poussées durent 49 jours (médiane). 1/3 des patients n'a pas de récidive et des périodes de rémissions variables sont fréquentes.
 
 Nerf trijumeau
@@ -46,10 +46,12 @@ Nerf trijumeau
 
 ### Épidémiologie de la névralgie du trijumeau
 
-- Maladie rare avec prévalence h/f 10,7-20/100.000
+- Maladie rare avec prévalence estimée à 10,7-20/100.000
 - Elle atteint le sujet d'âge moyen: +60 ans
 - Atteint préférentiellement les femmes: 2/3
-- 1/3 des patients n'a pas de récidives
+- 1/3 des patients n'ont pas de récidives
+
+La névralgie trigéminale classique ets souvent associée à une [hypertension artérielle]({{< relref "hypertension-arterielle.md" >}}.
 
 ### Abréviations
 
@@ -100,7 +102,7 @@ Tous les [critères diagnostiques 13.1.1 de la classification ICHD-3](https://ic
 
 ### Drapeaux rouges devant une suspicion de névralgie du trijumeau
 
-Signes incompatibles avec le diagnostic de névralgie trigéminale classique:
+Signes devant faire évoquer une neuropathie trigéminale douloureuse (atteinte secondaire):
 
 - Troubles sensitifs persistants
 - Surdité ou problèmes auditifs
@@ -132,18 +134,19 @@ Des rémissions spontanées sont possibles.
     - diurne
     - [neuropathique]({{< relref "douleur-neuropathique.md" >}})  
       Décharge électrique ou coup de poignard voire broiement, arrachement.
-    - Salves de quelques fois par jour à quasi continuelles  
-      En crise, figement avec une attitude douloureuse et grimaçante.  
-    Cette phase peut être suivie d'un phase motrice de la face, puis vasomotrice (larmoiement, injection, hypersécrétions muqueuses).
+    - Salves de quelques fois par jour à quasi continuelles
+    - En crise, figement avec une attitude douloureuse et grimaçante
+    - La douleur peut être associée à un rictus de l'hémiface (tic douloureux de Trousseau)
+    - Cette phase peut être suivie d'une phase vasomotrice (larmoiement, injection, hypersécrétions muqueuses).
 2. **Topographie de la douleur**  
   Unilatérale (prédominance droite) et localisée sur le métamère du trijumeau.  
   Initialement 1 branche (maxillaire V2 surtout) mais extension possible à 2 (V2+V3 surtout).
-3. **Circonstances de déclenchement de la douleur**
+1. **Circonstances de déclenchement de la douleur**
     - Déclenchement par stimulation du territoire concerné (**zone gâchette**) avec une latence avec extension progressive de la douleur. Déclenchement possible par le froid, vent, rire, mastication...
     - Comportements d'évitement: arrêt de rasage, maquillage, brossage des dents.
     - À l'inverse une pression très forte sur la zone gâchette peut éviter les accès.
-4. **Intervalle libre entre les crises douloureuses**
-5. **Aucun déficit neurologique durant l'intervalle libre**
+2. **Intervalle libre entre les crises douloureuses**
+3. **Aucun déficit neurologique durant l'intervalle libre**
 
 Et 1 critère d'ordre thérapeutique: la **très bonne efficacité (au moins initiale) de la carbamazépine**.
 
@@ -267,7 +270,9 @@ Lamotrigine, phénytoïne voire gabapentine, prégabaline, topiramate, baclofèn
 
 ### Neurochirurgie
 
-Indications pour une NTC certaine par thermocoagulation ou autre technique:
+Le recours à la neurochirurgie pour la névralgie du trijumeau est discutée en consultation de concertation professionnelle.
+
+Indications pour une NTC certaine par thermocoagulation, radiochirurgie ou décompression micro-chirurgicale:
 
 - Échec du traitement médical bien conduit
 - Échec de 3 molécules à doses efficaces dont la carbamazépine
@@ -281,7 +286,7 @@ graph TB
   style suspNtc stroke:#4150f5, stroke-width:1px
   exclusion -- Non --> criteres("<b>Critères cliniques</b><br>—<br>- ≥ 3 crises<br>- Douleurs stéréotypées avec critères<br>- Topographie stricte<br>- Circonstances de déclenchement<br>- Intervalle libre<br>- Non déficitaire<br>- Sans autre diagnostic compatible")
     criteres --> irm(IRM cérébrale 3T)
-      irm -- Normale --> ntc(NTC certaine)
+      irm -- "Normale<br>(sauf possible conflit<br>vasculo-nerveux)" --> ntc(NTC certaine)
       style ntc stroke:#4150f5, stroke-width:1px
         ntc --> traitement(<b>Traitement</b><br>Carbamazépine ou oxcarbazépine)
           traitement --> escalade("- Suivi spécialisé<br>- Augmentation par paliers<br>- Recherche dose minimale<br>- Surveillance clinico-biologique")

@@ -1,0 +1,81 @@
+<div class="mt-4" id="score-first">
+  <h3 class="card-title">Auto-questionnaire FiRST (Fibromyalgia Rapid Screening Tool)</h3>
+  <p>Version française de l'auto-questionnaire <dfn><abbr title="Fibromyalgia Rapid Screening Tool">FiRST</abbr></dfn> pour l'auto-dépistage d'une fibromyalgie.</p>
+  <p>Vous souffrez de douleurs articulaires, musculaires ou tendineuses depuis au moins 3 mois.
+    Merci de répondre à ce questionnaire, pour aider votre médecin à mieux analyser votre douleur et vos symptômes.</p>
+  <fieldset class="mt-4">
+    <legend>1. Mes douleurs sont localisées partout dans tout mon corps</legend>
+    <input type="radio" id="first-11" name="radio-first-1" class="d-input-none" value="1" required>
+    <label for="first-11" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="first-12" name="radio-first-1" class="d-input-none" value="0">
+    <label for="first-12" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>2. Mes douleurs s'accompagnent d'une fatigue générale permanente</legend>
+    <input type="radio" id="first-21" name="radio-first-2" class="d-input-none" value="1" required>
+    <label for="first-21" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="first-22" name="radio-first-2" class="d-input-none" value="0">
+    <label for="first-22" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>3. Mes douleurs sont comme des brûlures, des décharges électriques ou des crampes</legend>
+    <input type="radio" id="first-31" name="radio-first-3" class="d-input-none" value="1" required>
+    <label for="first-31" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="first-32" name="radio-first-3" class="d-input-none" value="0">
+    <label for="first-32" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>4. Mes douleurs s'accompagnent d'autres sensations anormales, comme des fourmillements, des picotements,
+      ou des sensations d'engourdissement dans tout mon corps</legend>
+    <input type="radio" id="first-41" name="radio-first-4" class="d-input-none" value="1" required>
+    <label for="first-41" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="first-42" name="radio-first-4" class="d-input-none" value="0">
+    <label for="first-42" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>5. Mes douleurs s'accompagnent d'autres problèmes de santé comme des problèmes digestifs, des problèmes urinaires,
+      des maux de tête, ou des impatiences dans les jambes</legend>
+    <input type="radio" id="first-51" name="radio-first-5" class="d-input-none" value="1" required>
+    <label for="first-51" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="first-52" name="radio-first-5" class="d-input-none" value="0">
+    <label for="first-52" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <fieldset>
+    <legend>6. Mes douleurs ont un retentissement important dans ma vie: en particulier, sur mon sommeil, ma capacité à me concentrer
+      avec une impression de fonctionner au ralenti</legend>
+    <input type="radio" id="first-61" name="radio-first-6" class="d-input-none" value="1" required>
+    <label for="first-61" class="chip chip-action chip-sm chip-choice">Oui</label>
+    <input type="radio" id="first-62" name="radio-first-6" class="d-input-none" value="0">
+    <label for="first-62" class="chip chip-action chip-sm chip-choice">Non</label>
+  </fieldset>
+  <div class="alert bg-light d-flex mt-md-4">
+    <div class="d-flex flex-column align-items-center">
+      <p class="typography-overline score-output-title">Score FiRST</p>
+      <output class="score-output" id="firstScore">0</output>
+    </div>
+    <p id="firstText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  </div>
+</div>
+<blockquote lang="en" class="blockquote my-4">
+  <p class="mb-0"><a href="https://pubmed.ncbi.nlm.nih.gov/20488620/" rel="external nofollow noopener">Perrot S, Bouhassira D, Fermanian J; CEDR (Cercle d'Etude de la Douleur en Rhumatologie). Development and validation of the Fibromyalgia Rapid Screening Tool (FiRST). Pain. 2010;150(2):250-256. doi:10.1016/j.pain.2010.03.034</a></p>
+  <p>Un score ≥ 5 a une sensibilité de 90,5% et spécificité de 85,7% pour un diagnostic de syndrome fibromyalgique
+    (VPP 89,5% et VPN 87,5%).</p>
+</blockquote>
+{{ $script := `
+  // Score FiRST (Fibromyalgia Rapid Screening Tool) by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scoreFirst = document.getElementById('firstScore')
+    const textFirst = document.getElementById('firstText');
+    [...document.querySelectorAll('#score-first input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcFirst() ) })
+    const calcFirst = () => {
+      let score = 0
+      const checkedElems = document.querySelectorAll('#score-first input[type=\"radio\"]:checked')
+      if (checkedElems.length === 6) {
+        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
+        scoreFirst.innerHTML = score
+        if (score < 5) { textFirst.innerHTML = "Rechercher un autre diagnostic" }
+        else if (score >= 5) { textFirst.innerHTML = "Syndrome fibromyalgique très probable" }
+      }
+    }
+  })` }}
+<script>{{ $script | safeJS }}</script>
