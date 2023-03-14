@@ -1,5 +1,5 @@
 +++
-title = "Hypertension artérielle maligne"
+title = "Hypertension artérielle maligne (HTA maligne)"
 prefix = "l'"
 titleSeo = "HTA maligne"
 noindex = true

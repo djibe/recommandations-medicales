@@ -1,5 +1,5 @@
 +++
-title = "Hypertension artérielle de l'adulte"
+title = "Hypertension artérielle de l'adulte (HTA)"
 prefix = "l'"
 titleSeo = "Hypertension artérielle HTA"
 description = "Recommandations HTA 2021 diagnostic et traitement de l'hypertension artérielle. Cibles tensionnelles selon le profil, carnet d'automesure, associations IEC ..."

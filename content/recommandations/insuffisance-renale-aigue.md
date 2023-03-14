@@ -1,5 +1,5 @@
 +++
-title = "Insuffisance rénale aiguë"
+title = "Insuffisance rénale aiguë (IRA)"
 prefix = "l'"
 description = "Recommandations pour la prise en charge de l'insuffisance rénale aiguë. Vérifier la gravité clinique et un globe vésical, adresser aux Urgences pour échographie"
 synonyms = []

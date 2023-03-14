@@ -1,5 +1,5 @@
 +++
-title = "Hépatite B"
+title = "Hépatite B (VHB)"
 prefix = "l'"
 noindex = true
 description = "Recommandations pour la prise en charge de l'hépatite B. Indications au dépistage et à la vaccination, PCR VHB, découverte d'une hépatite B active et suivi"

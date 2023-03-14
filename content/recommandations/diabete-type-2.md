@@ -1,5 +1,5 @@
 +++
-title = "Diabète de type 2"
+title = "Diabète de type 2 (DT2)"
 prefix = "le "
 longHtml = true
 description = "Recommandations pour la prise en charge et le traitement du diabète type 2. Critères diagnostiques, rémission, dépistage des complications, metformine, GLP1 ..."

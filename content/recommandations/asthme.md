@@ -600,6 +600,7 @@ La prescription dépend uniquement du pneumologue:
 ### À lire
 
 - [SPLF. Plans d'action de l'asthme](https://splf.fr/plans-daction-dans-lasthme/)
+- [NICE. Asthma inhalers and climate change. 2022. (PDF)](https://www.nice.org.uk/guidance/ng80/resources/inhalers-for-asthma-patient-decision-aid-pdf-6727144573)
 - [Collège de la Médecine Générale (CMG). Asthme de l'adulte et de l'enfant de plus de 12 ans : prévenir les exacerbations. 2021. (PDF)](https://lecmg.fr/wp-content/uploads/2021/05/Asthme-de-ladulte-et-de-lenfant-2021.pdf)
 - [Inserm. Asthme : Portraits-robots des personnes à risque. 10/10/2022.](https://www.inserm.fr/actualite/asthme-portraits-robots-des-personnes-a-risque/)
 - [Louis R. et al. European Respiratory Society Guidelines for the Diagnosis of Asthma in Adults. European Respiratory Journal. 2022.](https://erj.ersjournals.com/content/early/2022/02/03/13993003.01585-2021)

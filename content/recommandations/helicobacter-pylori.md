@@ -1,5 +1,5 @@
 +++
-title = "Helicobacter pylori"
+title = "Helicobacter pylori (HP)"
 prefix = "l'"
 titleSeo = "Helicobacter pylori"
 description = "Dernières recommandations 2021 sur le traitement d'Helicobacter pylori pour le médecin généraliste. Traitement antibiotique selon l'antibiogramme..."

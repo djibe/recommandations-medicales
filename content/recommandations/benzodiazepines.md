@@ -1,5 +1,5 @@
 +++
-title = "Benzodiazépines"
+title = "Benzodiazépines (BZD)"
 prefix = "les "
 noindex = true
 description = "Recommandations pour la prise en charge avec un traitement par benzodiazépines. Indications (anxiété, sevrage en alcool), demi-vie et décroissance progressive"

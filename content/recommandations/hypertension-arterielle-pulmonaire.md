@@ -1,5 +1,5 @@
 +++
-title = "Hypertension artérielle pulmonaire"
+title = "Hypertension artérielle pulmonaire (HTAP)"
 prefix = "l'"
 titleSeo = "Hypertension artérielle pulmonaire"
 description = "Recommandations pour l'Hypertension artérielle pulmonaire (HTAP) par le médecin généraliste. Qui dépister ? Quel suivi ? Échodoppler cardiaque, épreuve d'effort"

@@ -1,5 +1,5 @@
 +++
-title = "Syndrome d'apnées obstructives du sommeil"
+title = "Syndrome d'apnées obstructives du sommeil (SAOS ou SAHOS)"
 prefix = "le "
 titleSeo = "Syndrome d'apnées du sommeil"
 description = "Recommandations pour le dépistage et la prise en charge des apnées du sommeil. STOP-BANG et diagnostic par polygraphie ventilatoire ou polysomnographie, PPC"

@@ -1,5 +1,5 @@
 +++
-title = "Insuffisance rénale chronique"
+title = "Insuffisance rénale chronique (IRC)"
 prefix = "l'"
 titleSeo = "Insuffisance rénale chronique"
 description = "Recommandations HAS et KDIGO pour la prise en charge de l'insuffisance rénale chronique. Clairance de la créatinine CKD-EPI, néphroprotection, IEC, statine ..."

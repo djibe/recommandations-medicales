@@ -41,15 +41,27 @@ Chapitre lié: [toux chronique]({{< relref "toux-chronique.md" >}})
 
 Coqueluche
 : Maladie toxinique aiguë des voies respiratoires par la bactérie *Bordetella pertussis* (rarement *Bordetella parapertussis*). Contamination aérienne interhumaine (famille, collectivité) avec taux d'attaque élevé (75%). Maladie grave chez l'enfant voire **mortelle chez le nourrisson**.
-: L'immunité post-infectieuse de la coqueluche dure 10-15 ans, par **vaccination 5-10 ans**.
-: **Cas groupés** de coqueluche quand ≥ 2 cas en collectivité. Les cas groupés doivent être notifié au [médecin inspecteur de santé publique de l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}).
+: L'immunité post-infectieuse de la coqueluche dure 10 à 15 ans, par **vaccination 5 à 10 ans**.
+: **Cas groupés** de coqueluche quand au moins 2 cas en collectivité. Les cas groupés doivent être notifié au [médecin inspecteur de santé publique de l'ARS]({{< relref "agences-regionales-sante-ars.md" >}}).
 
 ### Épidémiologie de la coqueluche
 
-- Mortalité par coqueluche de 1979 à 2005: 113 cas, 1<sup>re</sup> cause de décès des nourrissons (88% < 1 an)
-- 3 morts/an, première cause de mortalité de J10 à 2 mois, troisième cause tout âge confondu (méningo > pneumo).
+- Mortalité par coqueluche de 1979 à 2005: 113 cas, 1<sup>re</sup> cause de décès des nourrissons (88% ont moins d'un an)
+- 3 morts/an, première cause de mortalité de J10 à 2 mois de vie, troisième cause tout âge confondu (méningocoque > pneumocoque).
 - Source de la contamination: parents 55%, fratrie 25%
 - Coqueluche en Île-de-France: **32%** des adultes suivis pour toux de +7 jours (60% vaccinés)
+
+### Abréviations
+
+HAS
+: Haute Autorité de Santé
+
+HCSP
+: Haut Conseil de la Santé Publique
+
+SPILF
+: Société de pathologie infectieuse de langue française
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -110,12 +122,13 @@ Caractères évocateurs: notion de contage, recrudescence nocturne et insomniant
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Bilan biologique avec hyperlymphocytose +10 G/L évocatrice mais inconstante. Pas de syndrome inflammatoire.  
-± Radiographie thoracique
+Bilan biologique avec hyperlymphocytose +10 G/L évocatrice de coqueluche mais inconstante. Pas de syndrome inflammatoire.
+
+Radiographie thoracique selon le tableau clinique.
 
 ### PCR coqueluche
 
-Dans les 3 premières semaines suivant l'apparition des symptômes: PCR *Bordetella* sur prélèvement nasopharyngé (avec culture si symptômes depuis moins de 15 jours) devant toute suspicion de coqueluche (*HCSP 2023*).  
+Dans les 3 premières semaines suivant l'apparition des symptômes de coqueluche: PCR *Bordetella* sur prélèvement nasopharyngé (avec culture si symptômes depuis moins de 15 jours) devant toute suspicion de coqueluche (*HCSP 2023*).  
 Pas d'examen complémentaire après 21 jours de symptômes (le diagnostic est clinique).
 
 Cas contact: PCR possible dans les 3 semaines suivant le dernier contact avec le cas-index (sauf asymptomatique avec *B. parapertussis*).
@@ -185,10 +198,10 @@ Prise en charge de la coqueluche:
 ### Antibiothérapie de la coqueluche
 
 {{%info%}}
-Antibiothérapie indiquée uniquement dans les 3 premières semaines d'évolution de la coqueluche pour réduire la contagiosité.  
+Antibiothérapie de la coqueluche: uniquement dans les 3 premières semaines d'évolution pour réduire la contagiosité.  
 Ne traiter un *B. parapertussis* pauci-symptomatique qu'en présence de personne à risque dans son entourage.
 
-Macrolides:
+Antibiotique de la classe macrolides (possibles pendant la grossesse):
 
 - Azithromycine 250 mg x 2/j pendant 3 jours  
   ou 1 dose-kg/jour
@@ -196,12 +209,11 @@ Macrolides:
   ou 1 dose-poids x 2/j
 {{%/info%}}
 
-Possibles pendant la grossesse.  
 **L'antibiothérapie n'améliore pas la toux.**
 
 #### Allergie aux macrolides
 
-Cotrimoxazole 800/160 mg x 2/j pendant 14 jours
+> Cotrimoxazole 800/160 mg x 2/j pendant 14 jours
 
 Possible pendant la grossesse en association avec l'acide folique.
 

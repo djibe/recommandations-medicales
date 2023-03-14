@@ -1,5 +1,5 @@
 +++
-title = "Diabète de type 1"
+title = "Diabète de type 1 (DT1)"
 prefix = "le "
 noindex = true
 synonyms = []

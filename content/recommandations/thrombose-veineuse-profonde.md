@@ -1,5 +1,5 @@
 +++
-title = "Thrombose veineuse profonde"
+title = "Thrombose veineuse profonde (TVP)"
 prefix = "la "
 titleSeo = "Thrombose veineuse profonde"
 description = "Recommandations pour la prise en charge de la Thrombose veineuse profonde TVP. Score de Wells, D-dimères et indications à l'échodoppler, durée d'anticoagulation"

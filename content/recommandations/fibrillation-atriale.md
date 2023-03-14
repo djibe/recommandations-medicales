@@ -1,5 +1,5 @@
 +++
-title = "Fibrillation atriale (ou fibrillation auriculaire ACFA)"
+title = "Fibrillation atriale (FA ou fibrillation auriculaire ACFA)"
 prefix = "la "
 titleSeo = "Fibrillation atriale ACFA"
 description = "Recommandations ESC 2020 sur la fibrillation auriculaire (ou atriale FA ou ACFA). ECG, risque embolique CHADSVASC et hémorragique, anticoagulants AOD ..."

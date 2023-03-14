@@ -1,5 +1,5 @@
 +++
-title = "Diabète gestationnel"
+title = "Diabète gestationnel (DG)"
 prefix = "le "
 titleSeo = "Diabète gestationnel"
 description = "Recommandations CNGOF pour le diagnostic et le traitement du diabète gestationnel. Glycémie à jeun puis HGPO, autosurveillance glycémique et glycémies cibles"

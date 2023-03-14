@@ -5,8 +5,8 @@ description = "TODO:"
 synonyms = ["Syndrome fibromyalgique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-03-09T08:48:47+01:00"
-publishdate = "2023-03-09"
-lastmod = "2023-03-09"
+publishdate = "2023-03-14"
+lastmod = "2023-03-14"
 specialites = ["rhumatologie"]
 annees = "2020"
 sources = ["Inserm"]
@@ -18,7 +18,7 @@ icd11 = "MG30.01"
 draft = true
 image = false
 imageSrc = ""
-todo = "Figure 5 p.61, SEO, HAS APA"
+todo = "Figure 5 p.61, SEO, HAS APA, score FIQ-R"
 +++
 
 {{%article-summary%}}
@@ -123,7 +123,7 @@ Symptômes maîtres évocateurs de fibromyalgie:
 
 1. Douleurs chroniques (≥ 3 mois) diffuses  
   Principalement musculo-squelettiques (arthralgies, myalgies, douleurs tendineuses). Décrites comme "dans tout le corps" ou migratrices.
-1. Allodynie  
+2. Allodynie  
   Douleur déclenchée pour un stimulus indolore pour la population générale.
 
 Avis spécialisé si nécessaire (doute diagnostique, échec des traitements): rhumatologue, neurologue, médecine interne.
@@ -138,6 +138,7 @@ Rechercher une fibromyalgie en cas de douleur chronique.
 - Traitements en cours et essayés
 - Facteurs de risque cardiovasculaire  
   Tabac, alcool, surpoids (21-35%) et obésité (32-50%), sédentarité.
+- Contexte socio-professionnel
 - Facteurs aggravants  
   Stress, émotion, posture prolongée, variations météorologiques.
 - Facteurs soulageants  
@@ -152,7 +153,7 @@ Rechercher une fibromyalgie en cas de douleur chronique.
   - Difficultés de concentration, d'attention et mémorisation (75%)  
     "Trous de mémoire", "esprit cotonneux" ("fibrofog"). MMSE, MoCa ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf))
   - Capacités physiques réduites (parfois jusqu'à la peur du mouvement)
-- Retentissement: TODO: SF-12, FIQ-R (Fibromyalgia Impact Questionnaire revised)
+- Retentissement: SF-12, FIQ-R (Fibromyalgia Impact Questionnaire revised)
 - Diagnostic différentiel
   - Endocrinopathie  
     [Hypothyroïdie]({{< relref "hypothyroidie.md" >}}), hyperthyroïdie, hyperparathyroïdie, ostéomalacie, diabète phosphoré.
@@ -205,13 +206,15 @@ Bilan général (non précisé dans les recommendations):
 - Association de patients  
   [Fibromyalgie France](https://www.fibromyalgie-france.org), [FibromyalgieSOS](https://fibromyalgiesos.fr), [Fibromyalgies](https://fibromyalgies.fr)
 
-Aucun médicament n'a l'AMM en Europe pour cette indication mais 3 médicaments ont montré une amélioration de la douleur ≥ 30% et une amélioration de la qualité dévie sans différence d'efficacité et de tolérance chez l'adulte: prégabaline 25-300 mg (antiépileptique), duloxétine 30-60 mg (IRSNA), milnacipran 5-100 mg (IRSNA), amitriptyline 10-50 mg (*Cochrane 2015*).
+Aucun médicament n'a l'AMM en Europe pour cette indication mais 3 médicaments ont montré une amélioration de la douleur ≥ 30% et une amélioration de la qualité dévie sans différence d'efficacité et de tolérance chez l'adulte: prégabaline 25-300 mg (antiépileptique hors AMM), duloxétine 30-60 mg (IRSNA hors AMM), milnacipran 5-100 mg (IRSNA hors AMM), amitriptyline 10-25 mg (tricyclique hors AMM, *EULAR*).
 
 Seulement 40% ont effet de 30%
 
 Essai 12 semaines.
 
 ISRS (citalopram, fluoxétine, paroxétine) seulement pour une dépression avérée.
+
+Essai possible: acupuncture (*EULAR*)
 
 Si échec: avis d'une structure douleur chronique (SDC).
 
@@ -231,7 +234,6 @@ Ne pas utiliser d'opioïdes (paliers 2 ou 3) pour la fibromyalgie
 ### À lire
 
 - [Macfarlane GJ et al. EULAR revised recommendations for the management of fibromyalgia. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/2/318)
-- Prescrire
 - ACR 2016
 - SFETD/HAS 2008 douleurs chroniques
 - Collège National des Enseignants de Médecine Interne (CEMI). Troubles à symptomatologie somatique et apparentés à tous les âges. Item 72. Référentiel Collège de Médecine interne R2C. 2021.  

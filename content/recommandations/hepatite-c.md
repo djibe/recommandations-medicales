@@ -1,5 +1,5 @@
 +++
-title = "Hépatite C"
+title = "Hépatite C (VHC)"
 prefix = "l'"
 description = "Recommandations AFEF et HAS pour la prise en charge de l'hépatite C. Dépistage, bilan pré-thérapeutique et prescription des antiviraux Epclusa sofosbuvir ..."
 longHtml = true

@@ -1,5 +1,5 @@
 +++
-title = "Maladies inflammatoire chroniques intestinales"
+title = "Maladies inflammatoire chroniques intestinales (MICI)"
 prefix = "les "
 description = "TODO:"
 synonyms = []

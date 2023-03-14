@@ -129,6 +129,7 @@ accTitle: Prise en charge de l'hypothyroïdie fruste d'après HAS 2019
 
 ### À lire
 
+- [HAS. Prise en charge des hypothyroïdies. 2022.](https://www.has-sante.fr/jcms/p_3216305/fr/prise-en-charge-des-dysthyroidies-chez-l-adulte)
 - [Lazarus J. et al. 2014 European Thyroid Association Guidelines for the Management of Subclinical Hypothyroidism in Pregnancy and in Children. European Thyroid Journal. 2014.](https://etj.bioscientifica.com/view/journals/etj/3/2/ETJ362597.xml)
 - [Pearce S. et al. 2013 ETA Guideline: Management of Subclinical Hypothyroidism. Eur Thyroid J. 2013. (PDF)](https://www.eurothyroid.com/files/download/ETA-Guideline-Management-of-Subclinical-Hypothyroidism.pdf)
 

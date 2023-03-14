@@ -1,5 +1,5 @@
 +++
-title = "Hépatite A"
+title = "Hépatite A (VHA)"
 noindex = true
 prefix = "l'"
 description = "Recommandations pour la prise en charge de l'hépatite A. Indications à la vaccination et lors d'un voyage. Vaccins disponibles chez l'adulte et l'enfant"

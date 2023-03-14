@@ -1,5 +1,5 @@
 +++
-title = "Thrombose veineuse superficielle"
+title = "Thrombose veineuse superficielle (TVS)"
 noindex = true
 prefix = "la "
 description = "TODO:"

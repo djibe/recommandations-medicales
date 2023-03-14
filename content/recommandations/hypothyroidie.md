@@ -341,6 +341,7 @@ accTitle: Prise en charge de l'hypothyroïdie et d'une TSH augmentée d'après H
 
 ### À lire
 
+- [HAS. Prise en charge des hypothyroïdies. 2022.](https://www.has-sante.fr/jcms/p_3216305/fr/prise-en-charge-des-dysthyroidies-chez-l-adulte)
 - [Olivier Petit I. Interprétation d'un bilan thyroïdien limite chez l'enfant (après 3 ans). Pas à Pas en Pédiatrie. 2021.](https://pap-pediatrie.fr/endocrinologie/interpretation-dun-bilan-thyroidien-limite-chez-lenfant-apres-3-ans)
 - [Castanet M, Cuny A. Perturbation du bilan thyroïdien. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/endocrinologie/perturbation-du-bilan-thyroidien)
 

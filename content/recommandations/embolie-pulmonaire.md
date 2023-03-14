@@ -1,5 +1,5 @@
 +++
-title = "Embolie pulmonaire"
+title = "Embolie pulmonaire (EP)"
 prefix = "l'"
 description = "Recommandations pour la prise en charge d'une suspicion d'embolie pulmonaire au cabinet. Score de Wells ou Genève, règle PERC, durée des anticoagulants AOD ..."
 auteurs = ["Jean-Baptiste FRON"]
