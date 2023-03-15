@@ -1,5 +1,5 @@
 <div class="mt-4" id="score-hit6">
-  <p>Le questionnaire <dfn><abbr title="Health Impact Test 6" lang="en">HIT-6</abbr></dfn> (<span lang="en">Health Impact Test 6</span>) a été conçu pour vous aider à décrire et à exprimer
+  <p>Le questionnaire <dfn><abbr title="Headache Impact Test" lang="en">HIT-6™</abbr></dfn> (<span lang="en">Headache Impact Test 6</span>) a été conçu pour vous aider à décrire et à exprimer
     ce que vous ressentez et ce que vous ne pouvez pas faire à cause de vos maux de tête.</p>
   <fieldset>
     <legend>1. Lorsque vous avez des maux de tête, la douleur est-elle intense&nbsp;?</legend>
@@ -81,17 +81,18 @@
   </fieldset>
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center">
-      <p class="typography-overline score-output-title">Score HIT-6&trade;</p>
+      <p class="typography-overline score-output-title">Score HIT-6™</p>
       <output class="score-output" id="hit6Score">0</output>
     </div>
     <p id="hit6Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
 </div>
 <blockquote class="blockquote my-4">
-  <p class="mb-0"><a href="https://sfemc.fr/patients/preparer-sa-consultation/echelle-hit/" rel="external nofollow noopener">SFEMC. HIT-6&trade; Questionnaire sur l'impact des maux de tête France Version 1.0.</a></p>
+  <p class="mb-0"><a href="https://pubmed.ncbi.nlm.nih.gov/14651414/" rel="external nofollow noopener">Bayliss MS, Dewey JE, Dunlap I, et al. A study of the feasibility of Internet administration of a computerized health survey: the headache impact test (HIT). Qual Life Res. 2003;12(8):953-961. doi:10.1023/a:1026167214355</a> et
+  <a href="https://pubmed.ncbi.nlm.nih.gov/20819842/" rel="external nofollow noopener">Yang M, Rendas-Baum R, Varon SF, Kosinski M. Validation of the Headache Impact Test (HIT-6™) across episodic and chronic migraine. Cephalalgia. 2011;31(3):357-367. doi:10.1177/0333102410379890</a></p>
 </blockquote>
 {{ $script := `
-  // Score HIT-6 by djibe
+  // Score HIT-6™ by djibe
   document.addEventListener( 'DOMContentLoaded', event => {
     const scoreHit6 = document.getElementById('hit6Score')
     const textHit6 = document.getElementById('hit6Text');

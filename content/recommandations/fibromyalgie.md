@@ -9,7 +9,7 @@ publishdate = "2023-03-14"
 lastmod = "2023-03-14"
 specialites = ["rhumatologie"]
 annees = "2020"
-sources = ["Inserm"]
+sources = ["Inserm", "EULAR"]
 tags = ["douleur", "fatigue", "obesite", "SAS"]
 anglais = ["Fibromyalgia"]
 sctid = "203082005"
@@ -216,6 +216,10 @@ ISRS (citalopram, fluoxétine, paroxétine) seulement pour une dépression avér
 
 Essai possible: acupuncture (*EULAR*)
 
+Sans efficacité prouvée: biofeedback, capsaïcine, hypnothérapie, massage (*EULAR*)
+
+Contre-indication: chiropraxie (*EULAR*)
+
 Si échec: avis d'une structure douleur chronique (SDC).
 
 stimulation magnétique transcrânienne répétitive (STMr). reco faible Académie européenne de neurologie.
@@ -227,13 +231,13 @@ Ne pas utiliser d'opioïdes (paliers 2 ou 3) pour la fibromyalgie
 {{%sources%}}
 
 - [Inserm. Fibromyalgie. Collection Expertise collective. Montrouge : EDP Sciences. 2020.](https://www.inserm.fr/expertise-collective/fibromyalgie/)
+- [Macfarlane GJ et al. EULAR revised recommendations for the management of fibromyalgia. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/2/318)
 - [Moore RA et al. Amitriptyline for fibromyalgia in adults. Cochrane Database of Systematic Reviews. 2015.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011824/full/fr)
 - Cochrane Library
 - [Ameli. Fibromyalgie.](https://www.ameli.fr/assure/sante/themes/fibromyalgie)
 
 ### À lire
 
-- [Macfarlane GJ et al. EULAR revised recommendations for the management of fibromyalgia. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/2/318)
 - ACR 2016
 - SFETD/HAS 2008 douleurs chroniques
 - Collège National des Enseignants de Médecine Interne (CEMI). Troubles à symptomatologie somatique et apparentés à tous les âges. Item 72. Référentiel Collège de Médecine interne R2C. 2021.  
@@ -241,9 +245,6 @@ Ne pas utiliser d'opioïdes (paliers 2 ou 3) pour la fibromyalgie
 - [Clauw DJ. Fibromyalgia: a clinical review. JAMA. 2014.](https://pubmed.ncbi.nlm.nih.gov/24737367/)
 
 {{%/sources%}}
-
-≤≥±®æœŒÈ³ÂSpO<sub>2</sub>
-
 {{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
 
 {{< scores/stop-bang >}}

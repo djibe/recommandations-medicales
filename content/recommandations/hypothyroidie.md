@@ -22,7 +22,7 @@ todo = "SEO"
 
 {{%article-summary%}}
 
-Prochaines recommandations HAS hypothyroïdie prévues en 2022 (probablement pas avant T2 2023)
+Les recommandations HAS hypothyroïdie 2022 parues le 14/03/2023 (estampillées "2022") seront bientôt intégrées
 
 - Pas de dépistage systématique de l'hypothyroïdie
 - Doser la TSH seule en cas de symptômes évocateurs d'une hypothyroïdie

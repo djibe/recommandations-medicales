@@ -120,7 +120,8 @@ Rappel par Pneumovax® tous les 5 ans.
 
 ##### Méningocoque ACYW135
 
-- [Menveo®](https://ec.europa.eu/health/documents/community-register/2021/20210129150720/anx_150720_fr.pdf) ou Nimenrix® avec 2<sup>e</sup> injection à 6 mois puis **rappel** tous les 5 ans
+- [Menquadfi®](https://ec.europa.eu/health/documents/community-register/2022/20220929157200/anx_157200_fr.pdf) 1 dose unique (rythme de rappel non défini)  
+  ou [Menveo®](https://ec.europa.eu/health/documents/community-register/2021/20210129150720/anx_150720_fr.pdf) ou Nimenrix® avec 2<sup>e</sup> injection à 6 mois puis **rappel** tous les 5 ans
 - Vacciné avant 7 ans contre méningocoque ACYW135: rappel à 3 ans puis tous les 5 ans
 
 ##### Méningocoque B

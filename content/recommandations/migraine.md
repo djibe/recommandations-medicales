@@ -25,7 +25,7 @@ todo = "titration Propranolol, questionnaire ID Migraine, recouper THM, EHF, htt
 
 - Triade migraineuse: évolution chronique par crises récurrentes avec intervalle libre + crises migraineuses stéréotypées + examen clinique normal
 - Contre-indication à l'association: migraine + pilule + tabac. Impacte le choix de la [contraception]({{< relref "contraception.md" >}})
-- Suivi à chaque consultation de l'[Agenda migraineux](https://www.sfemc.fr/images/docs_SFEMC/docs_PATIENTS/patients-AGENDA-DE-LA-MIGRAINE-def.pdf)
+- Suivi à chaque consultation de l'[Agenda migraineux](https://www.sfetd-douleur.org/wp-content/uploads/2019/08/agenda_cephalees_chu2015.pdf)
 - Traitement de la crise migraineuse
   - Réévalué après 3 crises ({{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}})
   - Prescrire AINS et triptan selon traitements déjà essayés et préférences du patient, à avoir sur soi
@@ -223,7 +223,7 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
   - Traitement actuel de crise/fond: {{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}}
 - Traitements non médicamenteux
 - Évaluer le handicap migraineux
-  - **Agenda migraineux** (date, durée, intensité, facteur déclenchant, traitements essayés, [modèle](https://www.sfemc.fr/images/docs_SFEMC/docs_PATIENTS/patients-AGENDA-DE-LA-MIGRAINE-def.pdf))  
+  - **Agenda migraineux** (date, durée, intensité, facteur déclenchant, traitements essayés, [modèle](https://www.sfetd-douleur.org/wp-content/uploads/2019/08/agenda_cephalees_chu2015.pdf))  
     Reconsulter lorsque traitement pris ≥ 2 jours/semaine depuis ≥ 3 mois.
   - Qualité de vie: {{< modal-btn modal-hit6 >}}échelle HIT-6{{< /modal-btn >}}  
     Reprendre à chaque consultation l'impact sur la vie quotidienne.
@@ -399,7 +399,7 @@ Efficacité prouvée: Neuromodulation électrique. Sur prescription spécialisé
 Bénéfices recherchés: réduire la consommation d'antalgiques, l'intensité et la durée des crises (et de l'aura) et améliorer la qualité de vie. Les objectifs doivent être expliqués au patient, ainsi que l'importance de l'**observance**.
 
 Prise en charge par une traitement de fond même si le traitement de crise est efficace (prévient la surconsommation).  
-Il ne supprime pas les crises mais réduit leur fréquence et leur intensité. **[Agenda migraineux](https://www.sfemc.fr/images/docs_SFEMC/docs_PATIENTS/patients-AGENDA-DE-LA-MIGRAINE-def.pdf)** afin d'évaluer son efficacité.
+Il ne supprime pas les crises mais réduit leur fréquence et leur intensité. **[Agenda migraineux](https://www.sfetd-douleur.org/wp-content/uploads/2019/08/agenda_cephalees_chu2015.pdf)** afin d'évaluer son efficacité.
 
 Autres thérapies avec efficacité prouvée: relaxation, rétro-contrôle (biofeedback) et les thérapies cognitives et comportementales (TCC) de gestion du stress.
 
