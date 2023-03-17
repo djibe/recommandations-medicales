@@ -18,7 +18,7 @@ icd10 = "G20"
 image = true
 imageSrc = "Illustration de la maladie de Parkinson par Freepik"
 flowchart = true
-todo = "ttt dans modal, American Academy of Neurology, HAS 2016 p73, adapt doses, PDD-SS: https://alicante.san.gva.es/documents/4479657/4640869/PDD-SS-+(Parkinson%27s+disease+with+dementia+Short+Screen).pdf | RBD Screening Questionnaire has a sensitivity of 0.96 and a specificity of 0.56 for the diagnosis of RBD when a cut-off of five points is applied (class I evidence) [124]"
+todo = "sd pyramidal, sd cérébelleux, American Academy of Neurology, HAS 2016 p73, adapt doses, PDD-SS | RBD Screening Questionnaire has a sensitivity of 0.96 and a specificity of 0.56 for the diagnosis of RBD when a cut-off of five points is applied (class I evidence) [124]"
 +++
 
 {{%article-summary%}}
@@ -39,7 +39,7 @@ Maladie de Parkinson idiopathique (MPI)
 : Première cause de syndrome parkinsonien et 2<sup>e</sup> maladie neurodégénérative (derrière Alzheimer).
 
 Tremblement essentiel
-: Début soit jeune à 15 ans ou plus tard vers 50 ans, fréquent, souvent bilatéral et symétrique, 4-10 Hz, tremblement d'action postural ou cinétique sans tremblement de repos. Déclenchement immédiat du tremblement postural.
+: Début à l'adolescence (~15 ans) ou plus tard vers 50 ans, fréquent, souvent bilatéral et symétrique, rapide (4-10 Hz), tremblement d'action postural ou cinétique sans tremblement de repos. Déclenchement immédiat du tremblement postural.
 : Il atteint la tête, le cou ou la voix et les membres sans autres signes neurologiques. Amélioration avec l'alcool et les bêtabloquants, aggravation avec le stress, la caféine ou la privation de sommeil.
 : Le tremblement essentiel peut coexister avec la Maladie de Parkinson idiopathique.
 
@@ -239,7 +239,7 @@ Ces éléments reprennent les critères diagnostiques *Queen Square Brain Bank* 
 
 #### Le syndrome malin des neuroleptiques
 
-Le syndrome malin des neuroleptiques doit être suspecté chez tout patient parkinsonien **fébrile avec aggravation des symptômes**. Il peut être déclenché apr l'arrêt brutal des traitements.
+Le syndrome malin des neuroleptiques doit être suspecté chez tout patient parkinsonien **fébrile avec aggravation des symptômes**. Il peut être déclenché par l'arrêt brutal des traitements.
 {.alert .alert-warning}
 
 Le syndrome malin des neuroleptiques provoque: troubles de la conscience, rigidité musculaire généralisée, hyperthermie, dysautonomie.
@@ -317,7 +317,7 @@ Les traitements médicamenteux antiparkinsoniens ne sont pas indispensables en l
   - Autres: bromocriptine (Parlodel®), lisuride (Arolac®)
 - Amantadine (Mantadix® pour les dyskinésies)
 - **L-Dopa**  
-  Retarder l'instauration par fluctuations et dyskinésies.
+  Retarder l'instauration pour épargner son efficacité (apparition de fluctuations et dyskinésies à terme sous traitement).
 - Anticholinergiques bipéridène (tremblement uniquement)
 - Inhibiteurs de la catéchol-O-méthyl transférase (inhibition du métabolisme périphérique)  
   **Entacapone** (Comtan®), tolcapone (Tasmar®).
@@ -345,9 +345,9 @@ Anomalies fréquemment observées avec le traitement dopaminergique:
 
 #### La stimulation cérébrale profonde (SCP)
 
-La stimulation cérébrale profonde consiste à implanter 1 ou 2 électrodes dans le cerveau, connectées à un générateur sous-cutanée pour une stimulation modulable et réversible.
+La stimulation cérébrale profonde consiste à implanter 1 ou 2 électrodes dans le cerveau, connectées à un générateur sous-cutané pour une stimulation modulable et réversible.
 
-L'indication principale à la stimulation cérébrale est une qualité de vie altérée par un échappement moteur à tous les traitements médicamenteux sauf la lévodopa sans atteinte cognitive et opérables.
+L'indication principale à la stimulation cérébrale est une qualité de vie altérée par un échappement moteur à tous les traitements médicamenteux sauf la lévodopa sans atteinte cognitive et opérable.
 
 {{% /collapse %}}
 {{%collapse "Suivi de la maladie" %}}

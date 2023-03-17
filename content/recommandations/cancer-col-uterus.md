@@ -7,7 +7,7 @@ synonyms = ["Papillomavirus humains HPV", "dysplasies et condylomes"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2021-01-18T10:55:00+02:00"
 publishdate = "2022-04-20"
-lastmod = "2022-12-20"
+lastmod = "2023-03-17"
 specialites = ["gynecologie-obstetrique"]
 annees = "2020"
 sources = ["INCa", "HAS", "MinSanté"]
@@ -25,8 +25,8 @@ todo = "pharynx, source: Les infections a HPV deviennent indétectables au bout 
 
 - Infection papillomavirus (HPV) nécessaire à l'apparition du cancer de l'utérus et des condylomes
 - << Le préservatif peut limiter le risque d'infection mais n'assure pas une protection efficace >> (*INCa*)
-- Vaccination papillomavirus pour tous de 11 à 19 ans (Gardasil 9®)  
-  Étendue à 26 ans pour les [HSH]({{< relref "hsh.md" >}}). Pas de vaccination en une seule dose avant changement de l'AMM (*Infovac*)
+- Vaccination papillomavirus pour tous de 11 à 19 ans (Gardasil 9®), généralisée en classe 5<sup>e</sup>  
+  Étendue à 26 ans pour les [hommes ayant des relations avec des hommes (HSH)]({{< relref "hsh.md" >}}). Pas de vaccination en une seule dose avant changement de l'AMM (*Infovac*)
 - Dépistage organisé du cancer du col de l'utérus de 25 à 65 ans (test HPV haut risque tous les 5 ans après 30 ans)
 - Dépistage ciblé du cancer anal
 
@@ -175,7 +175,8 @@ Indications au vaccin anti-HPV ([Gardasil 9®](https://ec.europa.eu/health/docum
 - Adolescent de 11 à 14 ans révolus avec 2 doses  
   - **Schéma:** Gardasil 9® à M0 et M6-13
   - Intérêt de co-administrer avec le rappel [dTcaPolio]({{< relref "vaccination.md" >}})
-  - Vaccination des garçons depuis le 1<sup>er</sup> janvier 2021
+  - Vaccination des garçons depuis janvier 2021
+  - Vaccination avec accord des parents des collégiens en 5e depuis la rentrée scolaire 2023
 - Rattrapage vaccinal de 15 à 19 ans révolus avec 3 doses  
   - Schéma en 3 doses de 11 à 19 ans: Gardasil 9® à M0, M2 et M6
   - Idem pour enfant/adolescent avec VIH de 11-19 ans
@@ -232,6 +233,7 @@ En cas de ménopause induite, un [traitement hormonal]({{< relref "menopause.md"
 {{% /collapse %}}
 {{%sources%}}
 
+- [Service-Public. Papillomavirus : vaccination généralisée à la rentrée 2023 pour les élèves de 5e. 07/03/2023.](https://www.service-public.fr/particuliers/actualites/A16438?xtor=EPR-100)
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Hanguehard R. et al. Couverture vaccinale contre les infections à papillomavirus humain des filles âgées de 15 à 18 ans et déterminants de vaccination, France, 2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_3.html)
 - {{< references/calendrier-vaccinal >}}

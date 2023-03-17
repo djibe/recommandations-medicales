@@ -17,7 +17,7 @@ sctid = "118185001"
 icd10 = ""
 image = true
 imageSrc = "Illustration de la grossesse par stories / Freepik"
-todo = "HTA gravidique, calcium cible"
+todo = "critères TSH, HTA gravidique, calcium cible"
 +++
 
 {{%article-summary%}}
@@ -36,6 +36,7 @@ Chapitres dédiés:
 - [Covid-19 à haut risque de forme grave]({{< relref "covid-19.md" >}})
 - [Diabète gestationnel]({{< relref "diabete-gestationnel.md" >}})
 - [Écoulement mamelonnaire]({{< relref "ecoulement-mamelonnaire.md" >}})
+- [Hypothyroïdie pendant la grossesse]({{< relref "hypothyroidie.md" >}})
 - [Infection urinaire pendant la grossesse]({{< relref "infection-urinaire-cystite-pyelonephrite.md" >}})
 - [Interruption volontaire de grossesse]({{< relref "interruption-volontaire-grossesse.md" >}})
 - [Phlébite et score LEFt pendant la grossesse]({{< relref "thrombose-veineuse-profonde.md" >}})
