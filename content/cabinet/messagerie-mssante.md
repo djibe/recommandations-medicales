@@ -1,6 +1,7 @@
 +++
 title = "Messagerie sécurisée de santé (MSSanté)"
 description = "Tout savoir sur la Messagerie sécurisée de santé MSSanté et l'appli mobile Mailiz. Créer une adresse MSSanté, envoyer un message à un confrère ou à un patient"
+noindex = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-04-29T19:00:00+02:00"
 publishdate = "2022-04-29"

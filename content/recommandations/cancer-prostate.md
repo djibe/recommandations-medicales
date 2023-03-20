@@ -26,10 +26,11 @@ todo = "tableau espérance de vie"
 - Proposer le dépistage du cancer de la prostate (CaP, préférer << détection précoce >>) par toucher rectal et dosage du PSA après information éclairée aux hommes asymptomatiques ayant espérance de vie de +15 ans (~70 ans) (EAU, AFU et Commission européenne):
   - **Hommes à risque augmenté:** +50 ans, +45 ans avec antécédent familial de CaP ou d'origine africaine, +40 ans avec BRCA2
   - Tous les 2 ans
-  - voire tous les 8 ans si risque faible: PSA < 1 ng/mL à 40 ans ou < 2 à 60 ans
-- Toute anomalie au toucher rectal ou un PSA > 2 ng/mL impose un avis urologique (seuil de 4 pour l'AFU)  
-  Redoser le PSA si le 1<sup>er</sup> dosage est compris de 3 à 10 ng/mL.
-- Consultation d'oncogénétique en cas de: CaP métastatique, plusieurs cas avant 60 ans (voir *Dépistage du cancer*)
+  - voire tous les 8 ans (**4** pour l'*AFU*) si risque faible: PSA < 1 ng/mL à 40 ans ou < 2 à 60 ans
+- Toute anomalie au toucher rectal ou un PSA > 2 ng/mL impose un avis urologique (seuil de 4 pour l'*AFU*)  
+  Redoser le PSA (intervalle min 2 semaines) si le 1<sup>er</sup> dosage est compris de 3 à 10 ng/mL.
+- Consultation d'oncogénétique en cas de: CaP métastatique, CaP avant 50 ans, plusieurs cas avant 60 ans, contexte de cancer sein-ovaire (voir *Dépistage du cancer*)
+- Définitions de récidive biologique après traitement (voir *Traitement*)
 - Après traitement, le suivi spécialisé est long (10 ans)
 
 Chapitre lié: [hypertrophie bénigne de la prostate]({{< relref "hypertrophie-benigne-prostate.md" >}})
@@ -70,7 +71,7 @@ Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de G
 | 3,1 - 4     | 26,9              | 6,7                        |
 {{< /table >}}
 
-L'intérêt du ratio PSA libre / PSA total est faible du fait du recours à l'IRM prostatique.
+> Le PSA libre n'a plus d'intérêt diagnostique (*AFU 2022*)
 
 ### Épidémiologie du cancer de la prostate
 
@@ -116,7 +117,8 @@ TR
 La plupart des hommes atteints par le cancer de la prostate sont asymptomatiques ou les symptômes sont liés à une pathologie bénigne associée (ex. [hypertrophie de la prostate]({{< relref "hypertrophie-benigne-prostate.md" >}})).
 
 - Antécédents
-- Antécédents familiaux ([cancers](/tags/cancer/) de prostate, [sein]({{< relref "cancer-sein.md" >}}) et [ovaire]({{< relref "cancer-ovaire.md" >}}))
+- Antécédents familiaux ([cancers](/tags/cancer/) de prostate, [sein]({{< relref "cancer-sein.md" >}}) et [ovaire]({{< relref "cancer-ovaire.md" >}}), mutation BRCA2)
+- Origine africaine
 - Exposition professionnelle aux pesticides
 - Symptômes frustes génito-urinaire: dysurie
 - Métastases
@@ -155,15 +157,27 @@ Indications à une consultation d'oncogénétique chez un homme ayant un **anté
 > *EAU 2022*  
 \* **Haut risque =** PSA > 20 ou Gleason > 7 (ISUP 4/5) ou cT2c ou cT3-4 ou cN+ (*Table 4.2*)
 
+Indications à une consultation d'oncogénétique selon l'*AFU 2022*:
+
+- Suspicion de forme héréditaire de cancer de la prostate
+  - 3 cas de CaP de la même branche familiale au 1<sup>er</sup> ou 2</sup>e</sup> degré
+  - 2 cas de CaP avant 55 ans de la même branche familiale au 1<sup>er</sup> ou 2</sup>e</sup> degré
+- Forme précoce de cancer de la prostate: CaP avant 50 ans
+- CaP associé au [cancer du sein]({{< relref "cancer-sein.md" >}}) ou de l'[ovaire]({{< relref "cancer-ovaire.md" >}})  
+  Mutation prédisposant (ex. BRCA2), cancer du sein (avant 40 ans, bilatéral ou de l'homme), un cas de cancer de l'ovaire
+
+Une détection précoce peut être proposée à partir de 40 ans voire 10 ans avant le cas le plus jeune diagnostiqué.
+
 ### Dépistage du cancer de la prostate chez les hommes à risque par mesure du PSA
 
 {{%warning%}}
-**Hommes à risque augmenté de cancer de la prostate:** +50 ans, +45 ans avec antécédent familial de CaP ou d'origine africaine, +40 ans avec BRCA2 (*EAU 2022*).
+**Hommes à risque augmenté de cancer de la prostate:** +50 ans, +45 ans avec antécédent familial de CaP ou d'origine africaine, +40 ans avec BRCA2 (*AFU* et *EAU 2022*).
 
 Risque diminué de cancer de la prostate si PSA < 1 ng/mL à 40 ans et < 2 à 60 ans.
 {{%/warning%}}
 
-**Rappel.** La mesure du PSA est faussée à la hausse par une prostatite, une HBP ou à l'inverse à la baisse par un IPDE5 (HBP, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})). En cas de prise d'IPDE5, doubler la valeur du PSA (*McConnell 2003*).
+**Rappel.** La mesure du PSA est faussée à la hausse par une prostatite, une [HBP]({{< relref "hypertrophie-benigne-prostate.md" >}}) ou à l'inverse à la baisse par un IPDE5 (HBP, [dysfonction érectile]({{< relref "dysfonction-erectile.md" >}})).  
+En cas de prise d'IPDE5, doubler la valeur du PSA (*McConnell 2003*).
 
 {{%info%}}
 
@@ -177,36 +191,37 @@ Positions des différents comités sur la détection précoce du cancer de la pr
   PSA jusqu'à 70 ans.
 - EAU 2022  
   Intérêt d'une détection précoce des *hommes à risque* ayant une [espérance de vie (EV) de +15 ans](https://ec.europa.eu/eurostat/databrowser/view/demo_mlexpec$DV_291/default/table)
-- AFU 2020  
-  Hommes de 50 (40 si *à risque*) à 70 ans avec espérance de vie de +10 ans, tous les 2 à 4 ans.
+- AFU 2022  
+  Hommes de 50 (40 à 45 si *à risque*) à 70 ans avec espérance de vie de +10 ans, tous les 2 à 4 ans.
 - USPTF 2018  
   Hommes de 55 à 69 ans.
 {{%/info%}}
 
 #### Prise en charge selon le résultat du PSA
 
-Patient à risque asymptomatique informé demandant une détection précoce, dépistage par **toucher rectal et mesure du PSA**:
+Patient à risque asymptomatique informé demandant une détection précoce, dépistage par **toucher rectal et mesure du PSA total**:
 
 - Toucher rectal normal
   - PSA < 1 ng/mL à 40 ans ou < 2 à 60 ans: répéter le dosage dans 8 ans
-  - PSA 1<sup>er</sup> dosage de 3-10 ng/mL: refaire le dosage
-  - PSA 2<sup>e</sup> dosage de 2-10 ng/mL: avis urologique pour utilisation d'un score ou IRM prostatique (seuil de 4 ng/mL selon *AFU 2020*)
+  - PSA 1<sup>er</sup> dosage de 3-10 ng/mL: refaire le dosage (min 2 semaines)
+  - PSA 2<sup>e</sup> dosage de 2-10 ng/mL: avis urologique pour utilisation d'un score ou IRM prostatique (seuil de 4 ng/mL selon *AFU 2022*)
   - PSA +10 ng/mL: avis urologique
+  - PSA en augmentation > 30%: avis urologique (*AFU*)
 - Toucher rectal anormal: avis urologique
 
 > *EAU 2022*
 
 Le bilan diagnostique est aujourd'hui dominé par des scores permettant de stratifier le recours à l'IRM prostatique avant la biopsie de prostate.
 
-#### Rythme de surveillance du PSA
+#### Rythme de surveillance du PSA total
 
 Répéter le dépistage par toucher rectal et dosage du PSA:
 
 - Tous les 2 ans si:
   - PSA > 1 ng/mL à 40 ans
   - PSA > 2 ng/mL à 60 ans
-- Tous les 8 ans en dessous de ces seuils
-- Arrêt du dépistage: [espérance de vie < 15 ans](https://ec.europa.eu/eurostat/databrowser/view/demo_mlexpec$DV_291/default/table)
+- Tous les 8 ans en dessous de ces seuils (**4 ans** pour l'AFU)
+- Arrêt du dépistage: [espérance de vie < 15 ans](https://ec.europa.eu/eurostat/databrowser/view/demo_mlexpec$DV_291/default/table) (10 ans selon *AFU*)
 
 > Rythme de surveillance du PSA proposé par la *EAU 2022*
 
@@ -217,12 +232,13 @@ La biopsie de prostate (voie transrectale ou transpérinéale) est indiquée en 
 Liste des complications de la biopsie prostatique par ordre de fréquence: hémospermie (37%), hématurie +1 jour, rectorragie < 2 jours, prostatite, fièvre, épididymite ...
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement du cancer de la prostate" %}}
 
-Chapitre pour en savoir plus, le traitement du cancer de la prostate dépend des décisions de la réunion de **concertation pluridisciplinaire** (RCP) et du souhait du patient.  
-Déclarer l'**ALD** avec le compte-rendu.
+Chapitre pour en savoir plus sur la prise en charge du cancer de la prostate, le traitement du cancer de la prostate dépend des décisions de la réunion de **concertation pluridisciplinaire** (RCP) et du souhait du patient.
 
-Plusieurs stratégies thérapeutiques pour le traitement du cancer de la prostate: **prostatectomie, radiothérapie, hormonothérapie, surveillance active** (détaillée plus bas) voire une ***Abstention-surveillance*** (patient asymptomatique avec cancer localisé et espérance de vie < 10 ans).
+Déclarer l'**ALD n°30**.
+
+Plusieurs stratégies thérapeutiques sont disponibles pour la prise en charge du cancer de la prostate: **prostatectomie totale, radiothérapie, hormonothérapie, surveillance active** (détaillée plus bas) voire une ***Abstention-surveillance*** (patient asymptomatique avec cancer localisé et espérance de vie < 10 ans).
 
 Toutes les techniques nécessitent un suivi spécialisé prolongé avec dosages réguliers du PSA: tous les 6 mois pendant 3 ans puis annuel.  
 Après prostatectomie totale, la cible du PSA est < 0,2 ng/mL à 6 semaines.
@@ -232,9 +248,20 @@ Après prostatectomie totale, la cible du PSA est < 0,2 ng/mL à 6 semaines.
 La surveillance active est proposée pour un cancer à faible risque évolutif chez un homme avec une espérance de vie supérieure à 10 ans.  
 Il s'agit d'une surveillance spécialisée prolongée avec examen clinique, PSA, IRM prostatique et biopsies tous les 3 à 10 ans.
 
+### Définitions de la récidive biologique du cancer de la prostate selon le type de traitement
+
+Le seuil de PSA total pour affirmer une récidive dépend du traitement radical:
+
+- Prostatectomie totale: PSA > 0,2 ng/mL ascendant (confirmation sur 2 dosages successifs)
+- Radiothérapie ± hormonothérapie: PSA Nadir (le plus bas mesuré) + 2 ng/mL
+- Curiethérapie: idem
+- HIFU (ultrasons): PSA Nadir + 1,2 ng/mL
+
+> *AFU 2022*
+
 ### Complications des traitements
 
-Complications fréquentes survenant dans les suites d'une prostatectomie radicale:
+Complications fréquentes survenant dans les suites d'une prostatectomie (PT) radicale:
 
 - Incontinence urinaire chronique (20%)
 - [Dysfonction érectile]({{< relref "dysfonction-erectile.md" >}}) (2/3)
@@ -245,14 +272,14 @@ Complications fréquentes survenant dans les suites d'une prostatectomie radical
 {{% /collapse %}}
 {{%collapse "Prise en charge par le dépistage du cancer de la prostate" "show" %}}
 
-{{< mermaid title="Dépistage du cancer de la prostate et conduite à tenir devant une augmentation du PSA. Dr JB Fron d'après EAU 2022" >}}
+{{< mermaid title="Dépistage du cancer de la prostate et conduite à tenir devant une augmentation du PSA. Dr JB Fron d'après AFU et EAU 2022" >}}
 graph TB
 accTitle: Dépistage du cancer de la prostate et conduite à tenir devant une augmentation du PSA d'après EAU 2022
   homme["Homme asymptomatique<br>avec Espérance de vie +15 ans<br>—<br>+50 ans<br>+45 ans avec antécédent familial<br>ou origine Africaine<br>+40 ans avec BRCA2"] -- Information éclairée --> depistage(TR + PSA<br>tous les 2 ans)
   style homme stroke:#4150f5, stroke-width:1px
     depistage ==> normal("<b>TR normal</b>")
       normal --> bas(PSA &lt; 1 à 40 ans<br>ou &lt; 2 à 60 ans) -- Répéter à 8 ans --> depistage
-      normal --> intermediaire(PSA 3-10) --> controle(Contrôler le PSA)
+      normal --> intermediaire(PSA 3-10) --> controle("Contrôler le PSA<br>Intervalle ≥ 2 semaines")
         controle --> sup("PSA ≥ 2<br>(4 selon l'AFU)") --> urologue
         controle --> inf("PSA &lt; 2") --> depistage
       normal --> autre(Autre valeur) --> depistage

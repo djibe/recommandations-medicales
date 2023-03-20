@@ -18,7 +18,7 @@ sctid = "27624003"
 idc10 = "na"
 image = false
 imageSrc = ""
-todo= "TODO: summary, Affections psychiatriques de longue durée"
+todo= "Affections psychiatriques de longue durée, HCht fam"
 +++
 
 Ne pas oublier de valider le Protocole de soins (PSE) après accord de la CPAM.  

@@ -73,7 +73,7 @@ CMT
 : carcinome médullaire de la thyroïde
 
 EU-TIRADS
-: {{%lang%}}European Thyroid Imaging and Reporting{{%/lang%}}
+: {{%lang%}}European Thyroid Imaging Reporting and Data System{{%/lang%}}
 
 Irathérapie
 : traitement radioactif à l'iode 131 (IRAthérapie ou ira-thérapie)
@@ -169,7 +169,7 @@ Indications à l'échographie de la thyroïde en cas de nodule thyroïdien:
 6. Discussion spécialisée d'un dépistage sélectif si: syndrome monogénique à risque de cancer thyroïdien, radiothérapie totale ou cervicale à forte dose dans l'enfance (tous les 3-5 ans), ≥ 3 cas de cancers thyroïdiens familiaux, exposition significative aux radiations ionisantes
 {{%/info%}}
 
-Chaque nodule est décrit selon la **classification EU-TIRADS** (5 niveaux, voir *Définition*).
+Chaque nodule de la thyroïde est décrit selon la **classification EU-TIRADS** (5 niveaux, voir *Définition*).
 
 Les autres imageries (scanner, IRM) relèvent du spécialiste (goitre plongeant, compression trachéale ou œsophagienne, rapports vasculaires).
 
