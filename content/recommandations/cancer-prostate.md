@@ -160,8 +160,8 @@ Indications à une consultation d'oncogénétique chez un homme ayant un **anté
 Indications à une consultation d'oncogénétique selon l'*AFU 2022*:
 
 - Suspicion de forme héréditaire de cancer de la prostate
-  - 3 cas de CaP de la même branche familiale au 1<sup>er</sup> ou 2</sup>e</sup> degré
-  - 2 cas de CaP avant 55 ans de la même branche familiale au 1<sup>er</sup> ou 2</sup>e</sup> degré
+  - 3 cas de CaP de la même branche familiale au 1<sup>er</sup> ou 2<sup>e</sup> degré
+  - 2 cas de CaP avant 55 ans de la même branche familiale au 1<sup>er</sup> ou 2<sup>e</sup> degré
 - Forme précoce de cancer de la prostate: CaP avant 50 ans
 - CaP associé au [cancer du sein]({{< relref "cancer-sein.md" >}}) ou de l'[ovaire]({{< relref "cancer-ovaire.md" >}})  
   Mutation prédisposant (ex. BRCA2), cancer du sein (avant 40 ans, bilatéral ou de l'homme), un cas de cancer de l'ovaire
@@ -309,6 +309,7 @@ accTitle: Dépistage du cancer de la prostate et conduite à tenir devant une au
 
 ### À lire
 
+- [Hamdy FC et al. Fifteen-Year Outcomes after Monitoring, Surgery, or Radiotherapy for Prostate Cancer. N Engl J Med. 2023.](https://www.nejm.org/doi/10.1056/NEJMoa2214122)
 [Ploussard G et al. French AFU Cancer Committee Guidelines - Update 2022-2024: prostate cancer - Management of metastatic disease and castration resistance. Progrès en Urologie. 2022.](https://www.sciencedirect.com/science/article/pii/S1166708722003438)
 
 {{%/sources%}}

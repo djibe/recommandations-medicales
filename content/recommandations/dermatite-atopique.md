@@ -17,7 +17,7 @@ sctid = "24079001"
 icd10 = "L20.9"
 flowchart = true
 image = true
-imageSrc = "Photo d'eczéma lichénifié du dos de la main par Care_SMC sur Foter.com / CC BY-ND"
+imageSrc = "Eczéma lichénifié du dos de la main. Care_SMC sur Foter.com / CC BY-ND"
 todo = "préparations CHRU, impétiginisation"
 +++
 
@@ -196,6 +196,7 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
   - Laver la literie à 55°C tous les 10 jours, éviter les peluches non lavables
   - Housses Gore-Tex ou équivalent
   - Éviter les chats
+- Vérifier l'auto-médication
 - [Arrêt du tabac]({{< relref "arret-tabac.md" >}})
 - 19°C dans la chambre
 - Lutte contre les idées reçues  

@@ -15,21 +15,27 @@ anglais = ["Fibromyalgia"]
 sctid = "203082005"
 icd10 = "M79.7"
 icd11 = "MG30.01"
-draft = true
 image = true
-imageSrc = "Zones anatomiques concernées pour l'évaluation de l'index des douleurs diffuses (IDD) des critères diagnostiques ACR 2016 de la fibromyalgie. Jmarchn, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
-todo = "Figure 5 p.61, SEO, HAS APA, CALC: critères + score FIQ-R"
+imageSrc = "Zones anatomiques concernées pour l'évaluation de l'index des douleurs diffuses (IDD) des critères diagnostiques ACR 2016 de la fibromyalgie. Jmarchn, CC BY-SA 3.0, via Wikimedia Commons"
+flowchart = true
+todo = "HAS APA, CALC: critères + score FIQ-R"
 +++
 
 {{%article-summary%}}
 
-TODO:
+- La fibromyalgie est un syndrome ayant pour principaux symptômes: douleurs chroniques (surtout musculo-squelettiques), une allodynie (stimulus anormalement douloureux)
+- Comme toute douleur chronique, la fibromyalgie a une composante bio-psycho-sociale
+- Diagnostic de la fibromyalgie: examen clinique rigoureux pour éliminer un diagnostic différentiel, critères diagnostiques *ACR 2016*, {{< modal-btn modal-first >}}auto-questionnaire FiRST{{< /modal-btn >}}
+- Rechercher des comorbidités: jambes sans repos, apnées du sommeil, anxio-dépression ({{< modal-btn modal-had >}}échelle HAD{{< /modal-btn >}}), syndrome climatérique ... (voir *Clinique*)
+- Le bilan n'est pas codifié mais les examens ne doivent pas être multipliés
+- La prise en charge de la fibromyalgie repose d'abord sur l'éducation thérapeutique (ETP) et une activité physique adaptée (APA)
+- Les traitements sont adaptées aux plaintes: dépression vraie (psychothérapie, ISRS), douleurs (duloxétine, prégabaline), troubles du sommeil (amitriptyline, prégabaline vespérale), handicap (réadaptation pluridisciplinaire)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Fibromyalgie (FM)
-: Forme de douleur chronique diffuse avec pour description syndromique l'association de symptômes d'intensité modérée à sévère: douleurs diffuses avec sensibilité à la pression, fatigue, troubles du sommeil, troubles cognitifs et de nombreuses plaintes somatiques.
+: Forme de douleur chronique diffuse avec pour description syndromique l'association de symptômes d'intensité modérée à sévère: douleurs diffuses avec sensibilité à la pression, fatigue, troubles du sommeil, troubles cognitifs et de nombreuses plaintes somatiques. Elle est classée parmi les "syndromes somatiques fonctionnels" (SSF).
 : La fibromyalgie est reconnue comme pathologie par l'OMS depuis 1990. Elle a une évolution imprévisible, un pic d'incidence vers 50 ans, une prépondérance féminine mais sans surmortalité.
 : La physiopathologie de la douleur n'est pas connue (hypothèses d'origine nerveuse centrale, périphérique, musculaire ou mixte, d'une réduction des seuils de douleurs, d'une surabondance de fibres sensitives périphériques). Comme pour les **douleurs chroniques**, des facteurs biologiques, psychologiques et sociaux contribuent au déclenchement et à la pérennisation d'une fibromyalgie.
 : Le **syndrome fibromyalgique** (SFM) peut avoir un retentissement majeur médical ou psychosocial (limitation des activités, handicap moteur, arrêts de travail prolongés).
@@ -37,7 +43,7 @@ Fibromyalgie (FM)
 ### Épidémiologie de la fibromyalgie
 
 - Prévalence: 1,5 à 2% de la population
-- Sex ratio: 1,4 femme pour 1 homme
+- Sex ratio: 1,4 femme pour 1 homme (critères ACR 2016)
 
 ### Abréviations
 
@@ -158,19 +164,19 @@ Rechercher une fibromyalgie en cas de douleur chronique.
   - Difficultés de concentration, d'attention et mémorisation (75%)  
     "Trous de mémoire", "esprit cotonneux" ("fibrofog"). MMSE, MoCa ([web](https://mocacognition.com/members/login/?redirect_to=digitaltools/) ou [PDF](/print/moca.pdf))
   - Capacités physiques réduites (parfois jusqu'à la peur du mouvement)
-- Retentissement: SF-12, FIQ-R (Fibromyalgia Impact Questionnaire revised)
+- Retentissement: SF-12, [FIQR](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2745803/bin/ar2783-S1.pdf)
 - Diagnostic différentiel
   - Endocrinopathie  
     [Hypothyroïdie]({{< relref "hypothyroidie.md" >}}), hyperthyroïdie, hyperparathyroïdie, ostéomalacie, diabète phosphoré.
   - Rhumatisme  
-    [Spondyloarthrite axiale]({{< relref "spondylarthrite-ankylosante.md" >}}), [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}), lupus, syndrome de Gougerot-Sjögren.
+    [Spondyloarthrite axiale]({{< relref "spondylarthrite-ankylosante.md" >}}), [polyarthrite rhumatoïde]({{< relref "polyarthrite-rhumatoide.md" >}}) (PR), lupus, syndrome de Gougerot-Sjögren.
   - Iatrogénie  
     Statine, anti-aromatase.
 - Comorbidités fréquentes à dépister
   - [Syndrome des jambes sans repos]({{< relref "syndrome-jambes-sans-repos.md" >}}) (23-64%)
   - [Syndrome d'apnées du sommeil]({{< relref "syndrome-apnees-obstructives-sommeil.md" >}}) (45% parmi ceux explorés)  
     {{< modal-btn modal-saos >}}Dépister avec le score STOP-BANG{{< /modal-btn >}}.
-  - Symptômes anxio-dépressifs (60-85%): {{< modal-btn modal-had >}}score HAD{{< /modal-btn >}}
+  - Symptômes anxio-dépressifs (60-85%): {{< modal-btn modal-had >}}échelle HAD{{< /modal-btn >}}
   - [Troubles climatériques]({{< relref "menopause.md" >}})
   - Autres  
     Syndrome de fatigue chronique, syndrome de l'intestin irritable (30-70%), céphalées de tension, conflit de l'articulation temporo-mandibulaire.
@@ -182,6 +188,8 @@ Rechercher une fibromyalgie en cas de douleur chronique.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
+
+### Bilan devant un tableau de fibromyalgie
 
 Bilan général (non précisé dans les recommendations):
 
@@ -199,10 +207,11 @@ Bilan général (non précisé dans les recommendations):
 
 Prise en charge de la fibromyalgie:
 
-- Éducation thérapeutique du patient (ETP, formulaire info bio-psycho-sociale) TODO:  
-  Ameli.fr, Association.
+- Reconnaître les symptômes, rassurer, annoncer clairement le diagnostic, ne pas multiplier les examens
+- Éducation thérapeutique du patient (ETP)  
+  Informations sur les composantes bio-psycho-sociales des douleurs chroniques. Voir plus bas Ameli.fr et associations.
 - Activité physique adaptée (APA) régulière  
-  Aérobie (marche, vélo, natation) et en résistance, voire aquatique, yoga, Thaï-chi ou Qi Gong.
+  Aérobie (marche, vélo, natation) et en résistance, voire aquatique, yoga, tai-chi ou Qi Gong.
 - Psychothérapie
   - Indications: Difficultés à gérer la fibromyalgie, modulation des symptômes liés au stress ou à des problèmes personnels, comorbidités psychiatriques (troubles de l'humeur, anxiété, addiction)
   - Autres techniques: thérapie cognitive et comportementale (TCC), hypnose voire méditation de pleine conscience.
@@ -213,43 +222,66 @@ Prise en charge de la fibromyalgie:
 - Association de patients  
   [Fibromyalgie France](https://www.fibromyalgie-france.org), [FibromyalgieSOS](https://fibromyalgiesos.fr), [Fibromyalgies](https://fibromyalgies.fr)
 
-Aucun médicament n'a l'AMM en Europe pour cette indication mais 3 médicaments ont montré une amélioration de la douleur ≥ 30% et une amélioration de la qualité dévie sans différence d'efficacité et de tolérance chez l'adulte: prégabaline 25-300 mg (antiépileptique hors AMM), duloxétine 30-60 mg (IRSNA hors AMM), milnacipran 5-100 mg (IRSNA hors AMM), amitriptyline 10-25 mg (tricyclique hors AMM, *EULAR*).
+### Traitements médicamenteux de la fibromyalgie
 
-Seulement 40% ont effet de 30%
+**Aucun médicament n'a l'AMM** en Europe pour la prise en charge de la fibromyalgie mais 3 médicaments ont montré une amélioration de la douleur ≥ 30% et une amélioration de la qualité dévie sans différence d'efficacité et de tolérance chez l'adulte.  
+Seulement 40% des patients observent une amélioration de 30% de leurs symptômes.
 
-Essai 12 semaines.
+Doses quotidiennes habituelles pour le traitement de la fibromyalgie pour un essai de 12 semaines:
 
-ISRS (citalopram, fluoxétine, paroxétine) seulement pour une dépression avérée.
+1. [Prégabaline](https://ec.europa.eu/health/documents/community-register/2022/20220613155970/anx_155970_fr.pdf) 25-300 mg (antiépileptique)
+2. [Duloxétine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60457719&typedoc=R) 30-60 mg (IRSNA)
+3. [Milnacipran](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60430095&typedoc=R) 5-100 mg (IRSNA)
 
-Essai possible: acupuncture (*EULAR*)
+L'[amitriptyline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68969066&typedoc=R) 10-25 mg (tricyclique, *EULAR*) est également très utilisé quoiqu'avec un niveau de preuve moindre.
 
-Sans efficacité prouvée: biofeedback, capsaïcine, hypnothérapie, massage (*EULAR*)
+Les ISRS (citalopram, fluoxétine, paroxétine) sont utilisés uniquement en cas de dépression avérée.
 
-Contre-indication: chiropraxie (*EULAR*)
+Avis d'une structure douleur chronique (SDC) en cas d'échec de la prise en charge.
 
-Si échec: avis d'une structure douleur chronique (SDC).
+### Autres prises en charges de la fibromyalgie
 
-stimulation magnétique transcrânienne répétitive (STMr). reco faible Académie européenne de neurologie.
+- Traitement pouvant être essayé: acupuncture
+- Traitements sans efficacité prouvée: biofeedback, capsaïcine, hypnothérapie, massage
+- Traitement contre-indiqué: chiropraxie
 
-Ne pas utiliser d'opioïdes (paliers 2 ou 3) pour la fibromyalgie
+> *EULAR*
+
+La stimulation magnétique transcrânienne répétitive (STMr) bénéficie d'une recommandation faible de l'Académie européenne de neurologie.
+
+Ne pas utiliser d'opioïdes (paliers 2 ou 3) pour la fibromyalgie et autres douleurs chroniques non cancéreuses (*HAS*)
 {.alert .alert-warning}
+
+{{% /collapse %}}
+{{%collapse "Prise en charge de la fibromyalgie" "show" %}}
+
+{{< mermaid title="Prise en charge de la fibromyalgie. Dr JB Fron d'après Inserm, EULAR" >}}
+graph TB
+  fibromyalgie["Suspicion de fibromyalgie (FM)<br>de l'adulte"] --> clinique("<b>Clinique</b><br>—<br>- Interrogatoire<br>- Symptômes depuis ≥ 3 mois<br>- Examen rigoureux<br>- Comorbidités:<br>dépression, SAOS, climatère<br>- Score FiRST<br>- Critères ACR 2016")
+  style fibromyalgie stroke:#4150f5, stroke-width:1px
+    clinique --> bilan("Bilan (non codifié)") -- Normal --> diagnostic("Diagnostic de<br>fibromyalgie") --> ETP(Éducation thérapeutique) -- Insuffisant --> APA("Activité physique<br>adaptée (APA)") -- Insuffisant --> individualisé(Traitement personnalisé)
+      individualisé -- "Anxiété, dépression" --> psycho("Psychothérapie<br>± antidépresseur")
+      individualisé -- "Douleurs, sommeil" --> médicamenteux("- Douleur: duloxétine, prégabaline<br>- Sommeil: amitriptyline,<br>prégabaline le soir")
+      individualisé -- Handicap --> readaptation("RCP, réadaptation<br>multidisciplinaire")
+      bilan -. Anormal .-> différentiel
+    clinique -- Diagnostic différentiel --> différentiel("- Dysthyroïdie, ostéomalacie<br>- Rhumatisme<br>SpA, PR, lupus<br>- Iatrogénie<br>Statine, anti-aromatase") --> specialiste(Avis spécialisé)
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
+- Collège National des Enseignants de Médecine Interne (CEMI). Troubles à symptomatologie somatique et apparentés à tous les âges. Item 72. Référentiel Collège de Médecine interne R2C. 2021.
 - [Inserm. Fibromyalgie. Collection Expertise collective. Montrouge : EDP Sciences. 2020.](https://www.inserm.fr/expertise-collective/fibromyalgie/)
 - [Macfarlane GJ et al. EULAR revised recommendations for the management of fibromyalgia. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/2/318)
 - [Moore RA et al. Amitriptyline for fibromyalgia in adults. Cochrane Database of Systematic Reviews. 2015.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011824/full/fr)
+- [Clauw DJ. Fibromyalgia: a clinical review. JAMA. 2014. [payant]](https://jamanetwork.com/journals/jama/article-abstract/1860480)
 - Cochrane Library
 - [Ameli. Fibromyalgie.](https://www.ameli.fr/assure/sante/themes/fibromyalgie)
 
 ### À lire
 
 - ACR 2016
-- SFETD/HAS 2008 douleurs chroniques
-- Collège National des Enseignants de Médecine Interne (CEMI). Troubles à symptomatologie somatique et apparentés à tous les âges. Item 72. Référentiel Collège de Médecine interne R2C. 2021.  
-  p67
-- [Clauw DJ. Fibromyalgia: a clinical review. JAMA. 2014.](https://pubmed.ncbi.nlm.nih.gov/24737367/)
+- [HAS, SFETD. Douleur chronique : reconnaître le syndrome douloureux chronique, l'évaluer et orienter le patient. 2008.](https://www.has-sante.fr/jcms/c_732257/fr/douleur-chronique-reconnaitre-le-syndrome-douloureux-chronique-l-evaluer-et-orienter-le-patient)
 
 {{%/sources%}}
 {{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
@@ -259,7 +291,7 @@ Ne pas utiliser d'opioïdes (paliers 2 ou 3) pour la fibromyalgie
 {{% /modal %}}
 {{% modal title="Score FiRST" id="modal-first"%}}
 
-{{< scores/had >}}
+{{< scores/first >}}
 
 {{% /modal %}}
 {{% modal title="Score HAD" id="modal-had"%}}

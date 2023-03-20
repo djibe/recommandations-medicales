@@ -52,7 +52,8 @@ const chartOptions = {
       labels: {
         style: { colors: '#757575' }
       },
-      decimalsInFloat: 0
+      decimalsInFloat: 0,
+      min: 0
     }
   ],
   tooltip: {

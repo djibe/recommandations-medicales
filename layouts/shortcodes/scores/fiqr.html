@@ -1,0 +1,61 @@
+<p class="mb-3 mb-lg-5">Questionnaire de mesure de l'impact de la fibromyalgie <dfn><abbr title="Revised Fibromyalgia Impact Questionnaire">FIQR</abbr></dfn> (Revised Fibromyalgia Impact Questionnaire)</p>
+<p>Pour chaque question, </p>
+<div class="cat-container" id="score-fiqr">
+  <label for="fiqr-1"></label>
+  <span>Aucune gêne</span>
+  <input type="text" class="slider-default" data-from="0" data-min="0" data-max="10" id="fiqr-1" data-skin="material">
+  <span>Je tousse tout le temps</span>
+  <span>Je n'ai pas du tout de glaire (mucus) dans les poumons</span>
+  <input type="range" class="slider-default" data-from="0" data-min="0" data-max="10" id="fiqr-2" data-skin="material">
+  <span>J'ai la poitrine très encombrée de glaire (mucus)</span>
+  <span>Je n'ai pas du tout la poitrine oppressée</span>
+  <input type="range" class="slider-default" data-from="0" data-min="0" data-max="10" id="fiqr-3" data-skin="material">
+  <span>J'ai la poitrine très oppressée</span>
+  <span>Quand je monte une côte ou une volée de marches, je ne suis pas essoufflé(e)</span>
+  <input type="range" class="slider-default" data-from="0" data-min="0" data-max="10" id="fiqr-4" data-skin="material">
+  <span>Quand je monte une côte ou une volée de marches, je suis très essoufflé(e)</span>
+  <span>Je ne suis pas limité(e) dans mes activités chez moi</span>
+  <input type="range" class="slider-default" data-from="0" data-min="0" data-max="10" id="fiqr-5" data-skin="material">
+  <span>Je suis très limité(e) dans mes activités chez moi</span>
+  <span>Je ne suis pas inquièt(e) quand je quitte la maison, en dépit de mes problèmes pulmonaires</span>
+  <input type="range" class="slider-default" data-from="0" data-min="0" data-max="10" id="fiqr-6" data-skin="material">
+  <span>Je suis très inquièt(e) quand je quitte la maison, en raison de mes problèmes pulmonaires</span>
+  <span>Je dors bien</span>
+  <input type="range" class="slider-default" data-from="0" data-min="0" data-max="10" id="fiqr-7" data-skin="material">
+  <span>Je dors mal à cause de mes problèmes pulmonaires</span>
+  <span>Je suis plein(e) d'énergie</span>
+  <input type="range" class="slider-default" data-from="0" data-min="0" data-max="10" id="fiqr-8" data-skin="material">
+  <span>Je n'ai pas d'énergie du tout</span>
+</div>
+<div class="alert bg-light d-flex mt-md-4">
+  <div class="d-flex flex-column align-items-center">
+    <p class="typography-overline score-output-title">Score CAT</p>
+    <output class="score-output" id="fiqrScore"></output>
+  </div>
+  <p id="fiqrText" class="lead m-auto"></p>
+</div>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/19664287/" rel="external nofollow noopener">Bennett RM, Friend R, Jones KD, Ward R, Han BK, Ross RL. The Revised Fibromyalgia Impact Questionnaire (FIQR): validation and psychometric properties [published correction appears in Arthritis Res Ther. 2009;11(5):415]. Arthritis Res Ther. 2009;11(4):R120. doi:10.1186/ar2783</a> et <a href="https://www.sfetd-douleur.org/wp-content/uploads/2021/04/FIQ-revise.pdf" rel="external nofollow noopener">Version française SFETD (PDF)</a></p>
+{{ $script := `
+  // Score FIQR by djibe
+  document.addEventListener( 'DOMContentLoaded', event => {
+    const scoreCAT = document.getElementById('fiqrScore')
+    const textCAT = document.getElementById('fiqrText')
+    const goldb = "<p>Groupe <strong>GOLD B</strong> si &lt; 2 exacerbations sans hospitalisation, sinon <strong>GOLD D</strong></p><p>Intensifier le traitement bronchodilatateur</p>"
+    scoreCAT.innerHTML = 24
+    textCAT.innerHTML = goldb
+    $(function () {
+      $('.slider-default').on('change', function() {
+        sum = 0
+        $('.slider-default').each(function(){
+          sum += parseFloat(this.value);
+        })
+        scoreCAT.innerHTML = sum
+        if (sum < 10) {
+          fiqrText.innerHTML = "<p>Groupe <strong>GOLD A</strong> si &lt; 2 exacerbations sans hospitalisation, sinon <strong>GOLD C</strong></p><p>Dyspnée contrôlée</p>"
+            return;
+        }
+        return fiqrText.innerHTML = goldb
+      })
+  })
+})` }}
+<script>{{ $script | safeJS }}</script>
