@@ -1,12 +1,12 @@
 +++
 title = "Fibromyalgie"
 prefix = "la "
-description = "TODO:"
+description = "Recommandations pour la prise en charge de la fibromyalgie. Bilan, information, activité physique adaptée (APA), psychothérapie, antidépresseur à faible dose"
 synonyms = ["Syndrome fibromyalgique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-03-09T08:48:47+01:00"
-publishdate = "2023-03-14"
-lastmod = "2023-03-14"
+publishdate = "2023-03-20"
+lastmod = "2023-03-20"
 specialites = ["rhumatologie"]
 annees = "2020"
 sources = ["Inserm", "EULAR"]
@@ -16,9 +16,9 @@ sctid = "203082005"
 icd10 = "M79.7"
 icd11 = "MG30.01"
 draft = true
-image = false
-imageSrc = ""
-todo = "Figure 5 p.61, SEO, HAS APA, score FIQ-R"
+image = true
+imageSrc = "Zones anatomiques concernées pour l'évaluation de l'index des douleurs diffuses (IDD) des critères diagnostiques ACR 2016 de la fibromyalgie. Jmarchn, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+todo = "Figure 5 p.61, SEO, HAS APA, CALC: critères + score FIQ-R"
 +++
 
 {{%article-summary%}}
@@ -30,8 +30,8 @@ TODO:
 
 Fibromyalgie (FM)
 : Forme de douleur chronique diffuse avec pour description syndromique l'association de symptômes d'intensité modérée à sévère: douleurs diffuses avec sensibilité à la pression, fatigue, troubles du sommeil, troubles cognitifs et de nombreuses plaintes somatiques.
-: Pathologie reconnue par l'OMS en 1990 avec une évolution imprévisible, un pic vers 50 ans, une prépondérance féminine mais sans surmortalité.
-: La physiopathologie de la douleur n'est pas connue (hypothèses d'origine nerveuse centrale, périphérique, musculaire ou mixte, d'une réduction des seuils de douleurs, d'une surabondance de fibres sensitives périphériques). Des facteurs biologiques, psychologiques et sociaux contribuent au déclenchement et à la pérennisation d'une fibromyalgie.
+: La fibromyalgie est reconnue comme pathologie par l'OMS depuis 1990. Elle a une évolution imprévisible, un pic d'incidence vers 50 ans, une prépondérance féminine mais sans surmortalité.
+: La physiopathologie de la douleur n'est pas connue (hypothèses d'origine nerveuse centrale, périphérique, musculaire ou mixte, d'une réduction des seuils de douleurs, d'une surabondance de fibres sensitives périphériques). Comme pour les **douleurs chroniques**, des facteurs biologiques, psychologiques et sociaux contribuent au déclenchement et à la pérennisation d'une fibromyalgie.
 : Le **syndrome fibromyalgique** (SFM) peut avoir un retentissement majeur médical ou psychosocial (limitation des activités, handicap moteur, arrêts de travail prolongés).
 
 ### Épidémiologie de la fibromyalgie
@@ -60,7 +60,16 @@ SFM
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques de la fibromyalgie" %}}
 
-Les critères diagnostiques *ACR 2016* du syndrome fibromyalgique sont remplis si au moins 3 éléments parmi:
+### Questionnaire FiRST pour le dépistage de la fibromyalgie
+
+L'{{< modal-btn modal-first >}}auto-questionnaire FiRST{{< /modal-btn >}} est un questionnaire simple avec une forte puissance pour le dépistage d'une fibromyalgie.
+
+### Critères diagnostiques de la fibromyalgie selon l'ACR 2016
+
+Les critères diagnostiques ACR 2016 permettent de poser le diagnostic de fibromyalgie lorsqu'ils sont remplis par le médecin.
+{.alert .alert-info}
+
+Les critères diagnostiques *ACR 2016* du syndrome fibromyalgique sont remplis si au moins 3 éléments sont présents:
 
 1. Index de douleurs diffuses (IDD) ≥ 7 et échelle de sévérité des symptômes (SS) ≥ 5  
   ou IDD de 4 à 6 et échelle SS ≥ 9
@@ -92,34 +101,30 @@ Région 5
 
 \* Zone ignorée pour le critère de douleur généralisée
 
-### Score de l'échelle de sévérité des symptômes
+### Score de l'échelle de sévérité des symptômes (SS)
 
-Pour chaque symptôme, coter la gravité de 0 (aucun problème) à 3 (sévères, problèmes continus avec impact important sur la vie):
+Pour chaque symptôme, coter la gravité de 0 (aucun problème) à 3 (sévères, problèmes continus avec impact important sur la vie) et additionner les points (0-12):
 
-- Fatigue
-- Se réveiller fatigué (sommeil peu réparateur)
-- Troubles cognitifs
+- Fatigue (0-3)
+- Se réveiller fatigué (sommeil peu réparateur, 0-3)
+- Troubles cognitifs (0-3)
+- Symptômes ressentis pendant les 6 derniers mois
+  - Maux de tête (0-1)
+  - Douleurs ou crampes abdominales (0-1)
+  - Dépression (0-1)
 
-1: Problèmes mineurs ou légers, habituellement légers ou intermittents, 2: modérés ; problèmes importants ; survenant fréquemment et/ou à un niveau modéré
+> 1: Problèmes mineurs ou légers, habituellement légers ou intermittents, 2: modérés ; problèmes importants ; survenant fréquemment et/ou à un niveau modéré
 
-\+ 3 points
-
-Définit le Fibromyalgia Severity (FS).
-
-Les critères diagnostiques ACR 2016 permettent de poser le diagnostic de fibromyalgie lorsqu'ils sont remplis par le médecin.
+La somme de l'*Index de douleurs diffuses* et de l'*échelle de sévérité des symptômes* définit l'**échelle de sévérité de la fibromyalgie** (FS, 0-31).
 
 > << il n'y a pas de classification consensuelle de la sévérité de la fibromyalgie à ce jour >> (*Inserm 2020*)
-
-### Autres questionnaires diagnostiques
-
-{{< modal-btn modal-first >}}Auto-questionnaire FiRST{{< /modal-btn >}}.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 Grande fluctuation des symptômes observés chez un patient et entre les patients, avec une légère prépondérance féminine (1,4/1) et un pic d'incidence vers 50 ans.
 
-Symptômes maîtres évocateurs de fibromyalgie:
+Symptômes principaux évocateurs de fibromyalgie:
 
 1. Douleurs chroniques (≥ 3 mois) diffuses  
   Principalement musculo-squelettiques (arthralgies, myalgies, douleurs tendineuses). Décrites comme "dans tout le corps" ou migratrices.
@@ -147,7 +152,7 @@ Rechercher une fibromyalgie en cas de douleur chronique.
   - Exacerbations douloureuses intenses, souvent lors de facteurs aggravants
   - Paresthésies, dysesthésies
   - Hypersensibilité à la lumière ou aux bruits, aux odeurs ou des troubles digestifs
-  - [Fatigue](/tags/fatigue/) chronique (75%): échelle Pichot
+  - [Fatigue](/tags/fatigue/) chronique (75%): échelle de Pichot
   - **Troubles du sommeil** (62-95%)  
     Non réparateur, plus court, superficiel.
   - Difficultés de concentration, d'attention et mémorisation (75%)  
@@ -188,9 +193,11 @@ Bilan général (non précisé dans les recommendations):
 - CPK
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de la fibromyalgie" %}}
 
 > << Une activité physique adaptée (APA) doit être considérée comme le socle du traitement de la fibromyalgie >> (*Inserm 2020*)
+
+Prise en charge de la fibromyalgie:
 
 - Éducation thérapeutique du patient (ETP, formulaire info bio-psycho-sociale) TODO:  
   Ameli.fr, Association.

@@ -1,8 +1,8 @@
 +++
-title = "Traumatisme crânien de l'enfant"
+title = "Traumatisme crânien de l'enfant (TC)"
 prefix = "le "
-titleSeo = "Traumatisme crânien enfant"
-description = "Recommandations pour l'évaluation d'un traumatisme crânien de l'enfant. Score de Glasgow chez l'enfant, signes de gravité, indications au scanner cérébral ..."
+titleSeo = "Traumatisme crânien enfant (TC)"
+description = "Recommandations pour l'évaluation d'un traumatisme crânien (TC) de l'enfant. Score de Glasgow chez l'enfant, signes de gravité, indications au scanner cérébral"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-08T14:17:41+02:00"

@@ -1,9 +1,9 @@
 +++
-title = "Névralgie trigéminale classique"
+title = "Névralgie trigéminale classique (ex Névralgie du trijumeau)"
 prefix = "la "
 titleSeo = "Névralgie du trijumeau"
-description = "Recommandations pour la prise en charge d'une névralgie du trijumeau. Critères diagnostiques et imagerie IRM cérébrale, traitement de la douleur carbamazépine"
-synonyms = ["Névralgie du trijumeau"]
+description = "Recommandations pour la prise en charge d'une névralgie du trijumeau. Critères diagnostiques et bilan par IRM cérébrale, traitement de la douleur carbamazépine"
+synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr M. LANTERI-MINET (SFETD)"
 date = 2021-03-05T23:43:00+02:00
@@ -18,9 +18,9 @@ sctid = "31681005"
 icd10 = "G50.0"
 image = true
 imageWEBP = true
-imageSrc = "Illustration des trois branches du nerf trijumeau et leur territoire sensitif. BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
+imageSrc = "Territoires (dermatomes) des trois branches du nerf trijumeau. BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "durée avant envisager décroissance, relecture demandée LMM"
+todo = "durée avant envisager décroissance"
 +++
 
 {{%article-summary%}}
@@ -62,7 +62,7 @@ ICHD-3
 : {{%lang%}}International Classification of Headache Disorders 3rd edition{{%/lang%}}
 
 NTC
-névralgie trigéminale classique (ex névralgie du trijumeau)
+: névralgie trigéminale classique (*ex* névralgie du trijumeau)
 
 SEP
 : sclérose en plaques
@@ -141,12 +141,12 @@ Des rémissions spontanées sont possibles.
 2. **Topographie de la douleur**  
   Unilatérale (prédominance droite) et localisée sur le métamère du trijumeau.  
   Initialement 1 branche (maxillaire V2 surtout) mais extension possible à 2 (V2+V3 surtout).
-1. **Circonstances de déclenchement de la douleur**
+3. **Circonstances de déclenchement de la douleur**
     - Déclenchement par stimulation du territoire concerné (**zone gâchette**) avec une latence avec extension progressive de la douleur. Déclenchement possible par le froid, vent, rire, mastication...
     - Comportements d'évitement: arrêt de rasage, maquillage, brossage des dents.
     - À l'inverse une pression très forte sur la zone gâchette peut éviter les accès.
-2. **Intervalle libre entre les crises douloureuses**
-3. **Aucun déficit neurologique durant l'intervalle libre**
+4. **Intervalle libre entre les crises douloureuses**
+5. **Aucun déficit neurologique durant l'intervalle libre**
 
 Et 1 critère d'ordre thérapeutique: la **très bonne efficacité (au moins initiale) de la carbamazépine**.
 
